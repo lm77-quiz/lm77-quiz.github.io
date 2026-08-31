@@ -17,7 +17,7 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = 'b5563e808d0e';
+const VERSIONE = '372810019e38';
 const GUSCIO = [
   "./",
   "./index.html",
@@ -48,7 +48,9 @@ const GUSCIO = [
 const DATI = [
   "./tools/quiz/exams.json",
   "./exams/analisi-dei-mercati-finanziari/flashcards.md",
-  "./exams/analisi-dei-mercati-finanziari/domande-esame.md"
+  "./exams/analisi-dei-mercati-finanziari/domande-esame.md",
+  "./exams/tecnologia-blockchain-e-diritto-del-fintech/flashcards.md",
+  "./exams/tecnologia-blockchain-e-diritto-del-fintech/domande-esame.md"
 ];
 // Dove sta l'app vera: è il ripiego di ogni navigazione che non si trova.
 const APP = './tools/quiz/index.html';
