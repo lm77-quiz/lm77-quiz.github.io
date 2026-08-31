@@ -665,3 +665,320 @@
 
 **D:** Qual è la conclusione del docente sul perimetro regolamentare della blockchain?
 **R:** Che il quadro normativo non ha impedito alla blockchain di progredire e di avere «applicazioni così trasversali da porre numerosi quesiti in termini di regolamentazione»: accanto ai servizi finanziari ci sono *energy*, *healthcare*, «sistemi ed ecosistemi». Quindi «non si può regolamentare a comparti stagni, ma è necessario **creare un set regolamentare *ad hoc***».
+
+## Lezione 03 — Smart Contracts e Decentralized Finance
+
+**D:** Qual è la definizione di DeFi data dalla slide?
+**R:** «DeFi è un **ecosistema di servizi finanziari open-source e trasparente** che può essere **adatto a tutti** e operare **senza alcuna autorità centrale**».
+**Opzione:** Un ecosistema di servizi finanziari open-source e trasparente che può essere adatto a tutti e operare senza alcuna autorità centrale.
+**Distrattori:**
+- Un ecosistema di servizi finanziari open-source e trasparente che può essere adatto a tutti e operare sotto il controllo di un'autorità centrale.
+- Un ecosistema di servizi finanziari proprietario e riservato che può essere adatto agli investitori professionali e operare senza alcuna autorità centrale.
+- Un insieme di applicazioni bancarie digitali che replicano i servizi tradizionali senza ricorrere alla blockchain.
+
+**D:** Su quale rete blockchain è costruita la DeFi, e con quale formula la slide motiva la scelta?
+**R:** È costruita «su una rete blockchain superiore **soprattutto in Ethereum**»; «ecco perché **solo** la piattaforma blockchain Ethereum è la **scelta primaria** per l'applicazione DeFi».
+**Opzione:** Soprattutto su Ethereum: solo la piattaforma blockchain Ethereum è la scelta primaria per l'applicazione DeFi.
+**Distrattori:**
+- Soprattutto su Bitcoin: solo la piattaforma blockchain Bitcoin è la scelta primaria per l'applicazione DeFi.
+- Soprattutto su Ethereum, che è però solo una delle piattaforme equivalenti fra cui l'applicazione DeFi può scegliere.
+- Soprattutto su blockchain permissioned di consorzio, perché la DeFi richiede la preventiva autorizzazione dei partecipanti.
+
+**D:** Che cos'è Ethereum, secondo la formula della slide?
+**R:** «Una piattaforma blockchain **open-source, globale e decentralizzata**».
+**Opzione:** Una piattaforma blockchain open-source, globale e decentralizzata.
+**Distrattori:**
+- Una piattaforma blockchain open-source, globale e centralizzata.
+- Una piattaforma blockchain proprietaria, globale e decentralizzata.
+- Un protocollo di scambio decentralizzato costruito sulla blockchain Bitcoin.
+
+**D:** Attraverso quali applicazioni gli utenti interagiscono con l'ecosistema DeFi?
+**R:** «Attraverso applicazioni ***peer-to-peer* (P2P)** e **decentralizzate (*dapps*)**».
+**Opzione:** Attraverso applicazioni peer-to-peer (P2P) e decentralizzate (dapps).
+**Distrattori:**
+- Attraverso applicazioni peer-to-peer (P2P) e centralizzate.
+- Attraverso i portali degli intermediari autorizzati e le applicazioni decentralizzate (dapps).
+- Attraverso applicazioni peer-to-peer (P2P) e i sistemi di home banking delle banche depositarie.
+
+**D:** ⚠️ Quali sono le tre caratteristiche dell'ecosistema di servizi finanziari che la DeFi, come movimento, mira a creare?
+**R:** 1) ***open source***; 2) ***permissionless*, ovvero disponibile a tutti**; 3) «che opera **senza nessuna autorità centrale**».
+**Opzione:** Open source; permissionless, ovvero disponibile a tutti; che opera senza nessuna autorità centrale.
+**Distrattori:**
+- Open source; permissioned, ovvero riservato ai partecipanti autorizzati; che opera senza nessuna autorità centrale.
+- Open source; permissionless, ovvero disponibile a tutti; che opera sotto la vigilanza di un'autorità centrale.
+- Proprietario; permissionless, ovvero disponibile a tutti; che opera senza nessuna autorità centrale.
+
+**D:** Come gli utenti mantengono il pieno controllo dei propri asset nella DeFi?
+**R:** «Tramite il proprio ***address*** e la **chiave privata relativa**, interagendo attraverso **Dapp** e **Smart Contract (SC)**».
+**Opzione:** Tramite il proprio address e la chiave privata relativa, interagendo attraverso Dapp e Smart Contract.
+**Distrattori:**
+- Tramite il proprio address e la chiave pubblica relativa, interagendo attraverso Dapp e Smart Contract.
+- Tramite un conto aperto presso la piattaforma, interagendo attraverso Dapp e Smart Contract.
+- Tramite il proprio address e la chiave privata relativa, interagendo attraverso i siti Web degli exchange autorizzati.
+
+**D:** ⚠️ Quanti elenchi di vantaggi della DeFi contengono le slide, e che rapporto c'è fra loro?
+**R:** **Due, distinti.** La slide 5 chiude con un blocco «Vantaggi:» di **due** voci — «accesso ai servizi finanziari per tutti» e «potenziali nuovi mercati, prodotti e servizi finanziari». Le slide 6–7, sotto il titolo «Quali sono i **principali** vantaggi della DeFi?», ne elencano **sette**, e i due della slide 5 non vi compaiono con le stesse parole. Alla domanda sui **principali** vantaggi risponde il settetto delle slide 6–7.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei principali vantaggi della DeFi?
+**R:** Con l'**interoperabilità**: «l'interoperabilità delle applicazioni *DeFi* che girano su **blockchain pubbliche** hanno il potenziale di creare **nuovi mercati finanziari, nuovi servizi e prodotti**». Attenzione: la voce immediatamente precedente è l'**inclusività**, ed è quella che di solito viene scambiata per la conclusiva.
+**Opzione:** L'interoperabilità delle applicazioni DeFi che girano su blockchain pubbliche, che ha il potenziale di creare nuovi mercati finanziari, nuovi servizi e prodotti.
+**Distrattori:**
+- L'inclusività di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari.
+- Il pieno controllo dei propri fondi da parte degli utenti.
+- L'accesso ai servizi finanziari per tutti, senza limitazioni di censo, età e sesso.
+
+**D:** Come formula la slide il primo dei principali vantaggi della DeFi?
+**R:** «Le applicazioni *DeFi* **non si servono di alcun intermediario**». Il docente specifica: non si servono «di banche, broker, piattaforme di scambio monetario».
+**Opzione:** Le applicazioni DeFi non si servono di alcun intermediario.
+**Distrattori:**
+- Le applicazioni DeFi si servono di un solo intermediario, la piattaforma che ospita lo smart contract.
+- Le applicazioni DeFi non si servono di intermediari bancari, ma solo di broker e piattaforme di scambio monetario.
+- Le applicazioni DeFi si servono degli stessi intermediari della finanza tradizionale, a costi ridotti.
+
+**D:** ⚠️ A che cosa sono associati i costi ridotti indicati fra i vantaggi della DeFi?
+**R:** «I costi associati **all'offerta ed all'uso** dei prodotti sono **ridotti**». Sono due termini, non uno: offerta *e* uso; e sono **ridotti**, non azzerati.
+**Opzione:** All'offerta ed all'uso dei prodotti, e sono ridotti.
+**Distrattori:**
+- Alla sola offerta dei prodotti, e sono ridotti.
+- All'offerta ed all'uso dei prodotti, e sono azzerati.
+- All'offerta ed all'uso dei prodotti, e sono fissati dalla piattaforma.
+
+**D:** ⚠️ Che cosa rende l'utilizzo della blockchain, secondo il quarto vantaggio della DeFi?
+**R:** «Rende **estremamente difficile** che si verifichino **interruzioni di servizi o hackeraggi di sistema**». La parola è *difficile*, non *impossibile*: il docente stesso avverte che l'affermazione «potrebbe già essere in parte superata», perché casi di hackeraggio si sono verificati.
+**Opzione:** Rende estremamente difficile che si verifichino interruzioni di servizi o hackeraggi di sistema.
+**Distrattori:**
+- Rende impossibile che si verifichino interruzioni di servizi o hackeraggi di sistema.
+- Rende estremamente difficile che si verifichino interruzioni di servizi, ma non incide sugli hackeraggi di sistema.
+- Rende estremamente difficile che si verifichino errori di registrazione dei dati sul registro.
+
+**D:** ⚠️ Come relativizza il docente il vantaggio della sicurezza della blockchain?
+**R:** Dicendo che «anche questa affermazione potrebbe già essere **in parte superata** al giorno d'oggi proprio perché si sono verificati casi di hackeraggio», pur trattandosi di «casi ancora **molto isolati**» e riguardanti «blockchain un po' **amatoriali**», che «non rispettavano poi esattamente tutti i criteri tipici della blockchain». È una **discrepanza fra slide e transcript**: la slide afferma senza riserve, il docente ammorbidisce.
+
+**D:** ⚠️ Con quale limitazione la slide formula il vantaggio dell'inclusività?
+**R:** «**Inclusività** di una più ampia gamma di individui che solitamente privi di accesso ai servizi finanziari **per via delle scelte operative degli intermediari**». La causa dell'esclusione, nella slide, sono le **scelte operative degli intermediari**, non la regolamentazione né la residenza.
+**Opzione:** Di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari per via delle scelte operative degli intermediari.
+**Distrattori:**
+- Di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari per via dei requisiti patrimoniali imposti dalle autorità di vigilanza.
+- Di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari per via della loro residenza in paesi non aderenti agli standard internazionali.
+- Della sola clientela retail, solitamente priva di accesso ai servizi finanziari per via delle scelte operative degli intermediari.
+
+**D:** ⚠️ Come avvengono i servizi DeFi, secondo l'apertura della slide sugli esempi?
+**R:** «Avvengono **solo tramite SC**: **al più usano siti Web** per reperire lo SC specifico che offre il servizio». Il sito Web non è il canale del servizio: serve, tutt'al più, a trovare lo smart contract.
+**Opzione:** Solo tramite smart contract: al più usano siti Web per reperire lo smart contract specifico che offre il servizio.
+**Distrattori:**
+- Solo tramite siti Web: al più usano uno smart contract per registrare l'operazione conclusa.
+- Tramite smart contract o, in alternativa, tramite i siti Web delle piattaforme che offrono il servizio.
+- Solo tramite smart contract: al più usano le applicazioni delle banche depositarie per reperire lo smart contract specifico.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco degli esempi di servizi DeFi?
+**R:** Con i **mercati delle predizioni** (ad es. **Augur**). L'ordine completo è: *stablecoins*, exchange decentralizzati, protocolli di prestito P2P, titoli sintetici, trading a leva decentralizzato, assicurazioni, mercati delle predizioni.
+**Opzione:** I mercati delle predizioni, ad esempio Augur.
+**Distrattori:**
+- Le assicurazioni, ad esempio Nexus Mutual.
+- Il trading a leva decentralizzato, ad esempio dYdX.
+- Gli stablecoins, ad esempio MakerDAO.
+
+**D:** Quali piattaforme la slide porta a esempio di stablecoins, exchange decentralizzati e protocolli di prestito P2P?
+**R:** *Stablecoins*: **MakerDAO**. Exchange decentralizzati: **Uniswap, Kyber network, 0x**. Protocolli di prestito P2P: **Compound, Aave**.
+**Opzione:** MakerDAO; Uniswap, Kyber network e 0x; Compound e Aave.
+**Distrattori:**
+- Compound e Aave; Uniswap, Kyber network e 0x; MakerDAO.
+- MakerDAO; Compound e Aave; Uniswap, Kyber network e 0x.
+- Nexus Mutual; Uniswap, Kyber network e 0x; Synthetix e UMA.
+
+**D:** Quali piattaforme la slide porta a esempio di titoli sintetici, trading a leva decentralizzato, assicurazioni e mercati delle predizioni?
+**R:** Titoli sintetici: **Synthetix, UMA**. Trading a leva decentralizzato: **dYdX**. Assicurazioni: **Nexus Mutual**. Mercati delle predizioni: **Augur**.
+**Opzione:** Synthetix e UMA; dYdX; Nexus Mutual; Augur.
+**Distrattori:**
+- Synthetix e UMA; Augur; Nexus Mutual; dYdX.
+- dYdX; Synthetix e UMA; Augur; Nexus Mutual.
+- Synthetix e UMA; dYdX; Augur; Compound e Aave.
+
+**D:** ⚠️ Quali categorie di servizi DeFi esistono solo sulle slide e non nel transcript?
+**R:** Tre su sette: **titoli sintetici** (Synthetix, UMA), **trading a leva decentralizzato** (dYdX) e **mercati delle predizioni** (Augur). Il docente commenta soltanto *stablecoins*, exchange decentralizzati, protocolli di prestito P2P e assicurazioni, e l'unica piattaforma che nomina è «Makerdeo», cioè MakerDAO. Chi studia sul parlato non incontra mai le altre.
+
+**D:** Con quali quattro caratteristiche la slide chiude l'elenco degli esempi di servizi DeFi?
+**R:** «Hanno **costi ridotti, tempi istantanei o quasi, automatizzazione completa, costi di commissione molto bassi**».
+**Opzione:** Costi ridotti, tempi istantanei o quasi, automatizzazione completa, costi di commissione molto bassi.
+**Distrattori:**
+- Costi ridotti, tempi istantanei o quasi, automatizzazione parziale, costi di commissione molto bassi.
+- Costi ridotti, tempi istantanei o quasi, automatizzazione completa, costi di commissione allineati a quelli bancari.
+- Costi ridotti, tempi di regolamento a due giorni, automatizzazione completa, costi di commissione molto bassi.
+
+**D:** ⚠️ Qual è il *downside* dei protocolli di prestito peer-to-peer secondo il docente?
+**R:** È **a catena**. Le piattaforme prestano «in misura limitata» e con «un *assessment* del cliente più superficiale», quindi la prima domanda è «il cliente è affidabile? Ripaga?». Ma il punto è il secondo passaggio: «se la piattaforma subisce dei danni per colpa di alcuni **malpagatori**, questo si ripercuote **a cascata** poi sugli altri clienti della piattaforma». La contropartita dell'agilità è il trasferimento del rischio sugli altri utenti.
+
+**D:** Che cos'è uno smart contract, nella definizione positiva della slide?
+**R:** «Il **mezzo** con cui gli **sviluppatori, imprenditori, avvocati** possono scrivere **logiche personalizzate (algoritmi)** che godono delle stesse caratteristiche della *Blockchain*: **immutabilità e distribuzione**».
+**Opzione:** Il mezzo con cui gli sviluppatori, gli imprenditori e gli avvocati possono scrivere logiche personalizzate (algoritmi) che godono delle stesse caratteristiche della blockchain: immutabilità e distribuzione.
+**Distrattori:**
+- Il mezzo con cui i soli sviluppatori possono scrivere logiche personalizzate (algoritmi) che godono delle stesse caratteristiche della blockchain: immutabilità e distribuzione.
+- Il mezzo con cui gli sviluppatori, gli imprenditori e gli avvocati possono scrivere logiche personalizzate (algoritmi) che godono delle stesse caratteristiche della blockchain: decentralizzazione e trasparenza.
+- Il mezzo con cui gli sviluppatori, gli imprenditori e gli avvocati possono scrivere logiche standardizzate che godono delle stesse caratteristiche della blockchain: immutabilità e distribuzione.
+
+**D:** ⚠️ Di quali caratteristiche della blockchain godono gli smart contract?
+**R:** Di **due**: **immutabilità e distribuzione**. Attenzione a non riportare qui i **4 caratteri della DLT** della lezione 02 (decentralizzazione, trasparenza, sicurezza, immutabilità) né il **terzetto** del modello *permissioned* (immutabilità, trasparenza, efficienza): la slide sugli smart contract ne nomina due sole.
+**Opzione:** Immutabilità e distribuzione.
+**Distrattori:**
+- Decentralizzazione, trasparenza, sicurezza e immutabilità.
+- Immutabilità, trasparenza ed efficienza.
+- Immutabilità e decentralizzazione.
+
+**D:** Quale piattaforma ha implementato per prima gli smart contract, e con quale precisazione?
+**R:** «Sebbene esistano diverse piattaforme che implementano gli *Smart Contract*, **Ethereum è stata la prima**. Gran parte dei progetti **anche in ambienti *permissioned*** è basata su Ethereum».
+**Opzione:** Ethereum è stata la prima; gran parte dei progetti, anche in ambienti permissioned, è basata su Ethereum.
+**Distrattori:**
+- Ethereum è stata la prima; gran parte dei progetti, ma solo in ambienti permissionless, è basata su Ethereum.
+- Bitcoin è stata la prima; gran parte dei progetti, anche in ambienti permissioned, è basata su Ethereum.
+- Ethereum è oggi l'unica piattaforma che implementa gli smart contract.
+
+**D:** ⚠️ Che cosa dice la slide che uno smart contract *non* è, e che cosa dice che è?
+**R:** «Uno smart contract **non è intelligente** e **non è un contratto**». È invece «una **stringa di codice software** in grado di **auto-eseguirsi** quando vengono soddisfatte **determinate condizioni predefinite**», e può essere «ospitato su una blockchain ed eseguire automaticamente le operazioni predefinite». È la formula d'apertura del docente: «diciamo che cosa **non è** uno smart contract».
+**Opzione:** Non è intelligente e non è un contratto: è una stringa di codice software in grado di auto-eseguirsi quando vengono soddisfatte determinate condizioni predefinite.
+**Distrattori:**
+- È intelligente ma non è un contratto: è una stringa di codice software in grado di auto-eseguirsi quando vengono soddisfatte determinate condizioni predefinite.
+- Non è intelligente ma è un contratto a tutti gli effetti: è un accordo digitale che si auto-esegue quando vengono soddisfatte determinate condizioni predefinite.
+- Non è intelligente e non è un contratto: è una stringa di codice software che deve essere eseguita manualmente da una delle parti quando si verificano le condizioni predefinite.
+
+**D:** Che cosa sono gli oracoli, nella definizione della slide?
+**R:** «Fonti di informazione ***offchain*** che forniscono ***input*** a *Smart Contract* ***onchain***». Gli smart contract se ne servono «per la loro operatività».
+**Opzione:** Fonti di informazione offchain che forniscono input a smart contract onchain.
+**Distrattori:**
+- Fonti di informazione onchain che forniscono input a smart contract offchain.
+- Nodi della blockchain incaricati di validare le transazioni eseguite dagli smart contract.
+- Fonti di informazione offchain che ricevono in output i risultati degli smart contract onchain.
+
+**D:** ⚠️ In quali due categorie si dividono gli oracoli, e che cosa comprende ciascuna?
+**R:** ***Oracle Users***: terzi affidabili (banche, indici, borse) e utenti in massa, secondo il principio della «saggezza della folla». ***Oracle machines***: macchinari (*i.e.* sensori) e software. La bipartizione va tenuta ferma: gli oracoli **non sono solo macchine**.
+**Opzione:** Oracle Users, cioè terzi affidabili come banche, indici e borse e utenti in massa secondo il principio della saggezza della folla; e Oracle machines, cioè macchinari come i sensori e software.
+**Distrattori:**
+- Oracle Users, cioè macchinari come i sensori e software; e Oracle machines, cioè terzi affidabili come banche, indici e borse e utenti in massa.
+- Oracle Users, cioè i soli terzi affidabili come banche, indici e borse; e Oracle machines, cioè utenti in massa, macchinari e software.
+- Oracle onchain, cioè terzi affidabili come banche, indici e borse; e Oracle offchain, cioè macchinari come i sensori e software.
+
+**D:** ⚠️ Nel caso d'uso dell'assicurazione che si autoesegue, che cosa compra Patti e quale evento fa scattare il pagamento?
+**R:** Compra una **piantagione di ananas** (*pineapple grove*) alle **Hawaii**, e lo smart contract verifica **ogni giorno** l'eventuale **gelata** (*freeze event*), pagando **se la gelata si verifica** (*Payout if freeze*). ⚠️ Il transcript è impreciso su entrambi i punti: dice che Patty «compra un'ananas» e parla genericamente di «condizioni meteorologiche avverse», arrivando a ipotizzare «un uragano». Fa testo la slide.
+**Opzione:** Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale gelata e paga se la gelata si verifica.
+**Distrattori:**
+- Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale uragano e paga se l'uragano si verifica.
+- Compra un carico di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale gelata e paga se la gelata si verifica.
+- Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni mese l'eventuale gelata e paga se la gelata si verifica.
+
+**D:** Quali due operazioni automatizza lo smart contract nel caso dell'assicurazione, e quale ne è l'oracolo?
+**R:** Automatizza i **pagamenti mensili** da Patti a PineSafe e le **verifiche giornaliere** sull'evento di gelata, con pagamento se la gelata si verifica. L'oracolo è lo **U.S. Weather Service**, che la slide indica espressamente come tale: «questa autorità terza è ciò che si chiama un oracolo».
+**Opzione:** I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è lo U.S. Weather Service.
+**Distrattori:**
+- Le verifiche mensili sull'evento di gelata e i pagamenti giornalieri da Patti a PineSafe; l'oracolo è lo U.S. Weather Service.
+- I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è la stessa PineSafe.
+- I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è il principio della saggezza della folla.
+
+**D:** Che cosa fa lo smart contract in esecuzione nel caso d'uso del noleggio di mezzi di trasporto?
+**R:** «Traccia e trasferisce **tariffe, multe, pagamenti e rimborsi**; **allerta RentCo** se Jane esce dall'**area di servizio**; **blocca e sblocca** il mezzo». L'oracolo è il **Ride Tracking Service**, che traccia **posizione, velocità e incidenti**; Jane può vedere i *record* delle sue corse sulla blockchain.
+**Opzione:** Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
+**Distrattori:**
+- Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta Jane se RentCo esce dall'area di servizio; blocca e sblocca il mezzo.
+- Traccia e trasferisce tariffe, multe e pagamenti; allerta RentCo se Jane esce dall'area di servizio; blocca il mezzo al termine della corsa.
+- Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta l'assicurazione se Jane ha un incidente; blocca e sblocca il mezzo.
+
+**D:** In quale momento lo smart contract sblocca la bici, e dove Jane la restituisce?
+**R:** Lo sblocco avviene **al momento del deposito** (*upon deposit*); Jane restituisce la bici a un **punto di noleggio diverso** da quello di partenza (*a different rental point*). ⚠️ Il transcript rende il secondo punto come «un punto di consegna che è distante un sacco di miglia»: la slide dice **diverso**, non **lontano**.
+**Opzione:** Sblocca la bici al momento del deposito; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
+**Distrattori:**
+- Sblocca la bici al termine della corsa; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
+- Sblocca la bici al momento del deposito; Jane la restituisce allo stesso punto di noleggio da cui era partita.
+- Sblocca la bici al momento della prenotazione; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
+
+**D:** ⚠️ A che cosa serve la blockchain, secondo il primo dei falsi miti smentiti dalla slide?
+**R:** «Blockchain serve per eseguire le transazioni: **no, serve per registrare le informazioni**». Da qui la seconda voce: «potrei anche **registrare un contratto in bc solo per conservarlo**» — molti usano infatti la blockchain come **archivio sostitutivo**.
+**Opzione:** Non a eseguire le transazioni, ma a registrare le informazioni.
+**Distrattori:**
+- Non a registrare le informazioni, ma a eseguire le transazioni.
+- Sia a eseguire le transazioni sia a registrare le informazioni, indifferentemente.
+- A eseguire le transazioni e, solo in ambienti permissioned, a registrare le informazioni.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei falsi miti?
+**R:** Con «gli smart contracts sono **immodificabili** (**recesso, eccessiva onerosità**,…)». La penultima è «gli smart contracts **rendono inoperanti istituti della nullità**…». ⚠️ Sono le **due voci che il transcript non tocca**: esistono solo sulle slide, e sono i tre istituti civilistici — nullità, recesso, eccessiva onerosità — che il corso mette in tensione con l'autoesecuzione.
+**Opzione:** Gli smart contracts sono immodificabili, con riferimento a recesso ed eccessiva onerosità.
+**Distrattori:**
+- Gli smart contracts rendono inoperanti gli istituti della nullità.
+- Gli smart contracts non possono esprimere la causa perché recano solo linguaggio di programmazione.
+- La blockchain mette in discussione il ruolo di alcune tradizionali figure di professionisti, come i notai.
+
+**D:** Perché è falso, secondo il docente, che gli smart contract non possano esprimere la causa?
+**R:** Perché «nel linguaggio di programmazione **deve essere chiaro quali sono gli eventi, quali sono gli scopi** che si vogliono raggiungere e **quali sono i pagamenti** necessari»: è dunque «a tutti gli effetti un **set di informazioni completo**». Il linguaggio di programmazione non impedisce di esprimere il fine del contratto, perché lo scopo è fra le informazioni che il codice deve contenere.
+
+**D:** Perché è falso, secondo il docente, che la blockchain renda superflui i notai?
+**R:** Perché «nel mondo legale esistono ancora oggi delle **fattispecie che hanno necessariamente bisogno di quell'intuito, di quell'intelligenza umana** che serve per valutare il caso a seconda delle circostanze che sono avvenute», e «**ad oggi l'intelligenza artificiale non è in grado**». La smentita è quindi *temporale e funzionale*, non di principio.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei cinque aspetti problematici degli smart contract?
+**R:** Con «**Consumatori e linguaggio comprensibile *vs* linguaggio programmazione**». L'ordine completo è: 1) responsabilità programmatore; 2) aterritorialità; 3) identificazione (firma elettronica o «processo di verifica»?); 4) oracoli (affidabilità/trasparenza); 5) consumatori e linguaggio.
+**Opzione:** Consumatori e linguaggio comprensibile contro linguaggio di programmazione.
+**Distrattori:**
+- Oracoli, con riferimento alla loro affidabilità e trasparenza.
+- Responsabilità del programmatore.
+- Aterritorialità.
+
+**D:** ⚠️ Quali aspetti problematici degli smart contract compaiono solo sulle slide?
+**R:** L'**aterritorialità** (punto 2) e l'**identificazione: firma elettronica o «processo di verifica»?** (punto 3). Il transcript commenta soltanto i punti **1, 4 e 5** — responsabilità del programmatore, oracoli, consumatori e linguaggio. Il punto 3 è quello che si aggancia direttamente al **comma 2 dell'art. 8-*ter***, dove il legislatore sceglie il **processo con i requisiti AGID** e non la firma elettronica.
+
+**D:** ⚠️ Come formula la slide il terzo aspetto problematico degli smart contract?
+**R:** «**Identificazione: firma elettronica o «processo di verifica»?**». È un'alternativa lasciata aperta dalla slide, che l'art. 8-*ter* comma 2 risolve nel senso del **processo** avente i requisiti fissati dall'AGID.
+**Opzione:** Identificazione: firma elettronica o processo di verifica?
+**Distrattori:**
+- Identificazione: firma elettronica qualificata o firma elettronica avanzata?
+- Identificazione: documento d'identità o processo di verifica?
+- Identificazione: responsabilità del programmatore o dell'utente?
+
+**D:** Che cosa richiede al programmatore il primo degli aspetti problematici, secondo il docente?
+**R:** Che sia «**integro da un punto di vista morale**», «**capace di validare dei modelli e comprenderli**» e che «tecnologicamente **non deve avere dubbi**».
+**Opzione:** Che sia integro dal punto di vista morale, capace di validare i modelli e di comprenderli, e che tecnologicamente non abbia dubbi.
+**Distrattori:**
+- Che sia iscritto a un albo professionale, capace di validare i modelli e di comprenderli, e che tecnologicamente non abbia dubbi.
+- Che sia integro dal punto di vista morale e capace di validare i modelli, senza che sia richiesto di comprenderli.
+- Che sia integro dal punto di vista morale, capace di validare i modelli e di comprenderli, e che risponda in solido con la piattaforma dei danni causati.
+
+**D:** ⚠️ Quale obiezione muove il docente agli oracoli, e a quali oracoli del caso d'uso si applica?
+**R:** «Qual è l'**affidabilità** della cosiddetta ***vox populi*** o del sentire popolare? Qual è la **trasparenza di un sito meteo** quando magari il sito meteo **non ha la capacità di vedere con completezza le informazioni** di un determinato territorio o di un determinato periodo temporale?». Colpisce esattamente i due oracoli già visti: la **saggezza della folla** fra gli *Oracle Users* e lo **U.S. Weather Service** del caso Patti.
+
+**D:** Qual è la rubrica dell'art. 8-*ter* del decreto semplificazioni?
+**R:** «**Tecnologie basate su registri distribuiti e smart contract**». La rubrica annuncia i due oggetti dell'articolo: il comma 1 definisce le prime, il comma 2 il secondo.
+**Opzione:** Tecnologie basate su registri distribuiti e smart contract.
+**Distrattori:**
+- Tecnologie basate su registri distribuiti e criptovalute.
+- Smart contract e finanza decentralizzata.
+- Tecnologie basate su registri distribuiti e validazione temporale elettronica.
+
+**D:** Qual è la definizione normativa di smart contract data dall'art. 8-*ter* comma 2?
+**R:** «Un **programma per elaboratore** che opera su **tecnologie basate su registri distribuiti** e la cui **esecuzione vincola automaticamente due o più parti sulla base di effetti predefiniti dalle stesse**».
+**Opzione:** Un programma per elaboratore che opera su tecnologie basate su registri distribuiti e la cui esecuzione vincola automaticamente due o più parti sulla base di effetti predefiniti dalle stesse.
+**Distrattori:**
+- Un programma per elaboratore che opera su tecnologie basate su registri distribuiti e la cui esecuzione vincola automaticamente due o più parti sulla base di effetti predefiniti dal gestore della piattaforma.
+- Un programma per elaboratore che opera su tecnologie basate su registri distribuiti e la cui esecuzione vincola facoltativamente due o più parti sulla base di effetti predefiniti dalle stesse.
+- Un registro condiviso, distribuito e replicabile che consente la registrazione, la convalida, l'aggiornamento e l'archiviazione di dati non alterabili e non modificabili.
+
+**D:** ⚠️ Gli smart contract soddisfano il requisito della forma scritta? A quali condizioni?
+**R:** **Sì**, ma il comma 2 pone **due condizioni**: la **previa identificazione informatica delle parti interessate** e il ricorso a «un processo avente i **requisiti fissati dall'Agenzia per l'Italia digitale**», con linee guida da adottare entro novanta giorni. Il docente sottolinea perché conta: «la **forma scritta è essenziale per la validità**».
+**Opzione:** Sì, ma previa identificazione informatica delle parti interessate, attraverso un processo avente i requisiti fissati dall'Agenzia per l'Italia digitale.
+**Distrattori:**
+- Sì, in ogni caso e senza ulteriori condizioni.
+- Sì, ma previa identificazione delle parti interessate mediante firma elettronica qualificata.
+- No: gli smart contract non soddisfano il requisito della forma scritta e richiedono un contratto cartaceo separato.
+
+**D:** ⚠️ A che cosa rinviano all'AGID il comma 2 e il comma 4 dell'art. 8-*ter*?
+**R:** A **due cose diverse**. Il **comma 2** rinvia alle **linee guida** sui requisiti del **processo di identificazione informatica delle parti**, da cui dipende la **forma scritta** degli smart contract. Il **comma 4** rinvia agli **standard tecnici** che le **DLT** devono possedere ai fini della **validazione temporale** del comma 3. Stessa autorità, stesso termine di **novanta giorni**, oggetti distinti.
+**Opzione:** Il comma 2 alle linee guida sul processo di identificazione informatica delle parti, da cui dipende la forma scritta; il comma 4 agli standard tecnici che le DLT devono possedere ai fini della validazione temporale.
+**Distrattori:**
+- Il comma 2 agli standard tecnici che le DLT devono possedere ai fini della validazione temporale; il comma 4 alle linee guida sul processo di identificazione informatica delle parti.
+- Il comma 2 alle linee guida sul processo di identificazione informatica delle parti; il comma 4 agli standard tecnici che gli smart contract devono possedere ai fini della forma scritta.
+- Entrambi alle linee guida sul processo di identificazione informatica delle parti, il comma 2 per gli smart contract e il comma 4 per le tecnologie basate su registri distribuiti.
+
+**D:** Entro quale termine l'AGID deve individuare gli standard tecnici previsti dall'art. 8-*ter* comma 4, e a quale fine?
+**R:** «**Entro novanta giorni** dalla data di entrata in vigore della **legge di conversione** del presente decreto», e al fine della «**produzione degli effetti di cui al comma 3**», cioè della **validazione temporale elettronica**.
+**Opzione:** Entro novanta giorni dall'entrata in vigore della legge di conversione, ai fini della produzione degli effetti della validazione temporale elettronica.
+**Distrattori:**
+- Entro centottanta giorni dall'entrata in vigore della legge di conversione, ai fini della produzione degli effetti della validazione temporale elettronica.
+- Entro novanta giorni dall'entrata in vigore del decreto-legge, ai fini della produzione degli effetti della validazione temporale elettronica.
+- Entro novanta giorni dall'entrata in vigore della legge di conversione, ai fini del riconoscimento della forma scritta degli smart contract.
+
+**D:** ⚠️ Perché il docente considera l'AGID un caso esemplare della tesi della prima lezione?
+**R:** Perché «assume un **ruolo centrale nella normazione di questi nuovi istituti**» ed è «un classico esempio di quello che dicevamo nella nostra prima fondamentale lezione: **nuovi modelli normativi, nuovi attori** che riescano a normare un settore tanto nuovo e diverso sono necessari». Da qui la richiesta di competenze: nelle nuove agenzie serve «personale altamente qualificato **non solo** da un punto di vista normativo, **ma per esempio anche ingegneri, programmatori, gente IT**», perché DeFi e smart contract «non sono più una questione legale solo, ma anche e soprattutto **interazione tra diversi settori: tecnologia, finanza, IT e certamente regolamentazione finanziaria**».
