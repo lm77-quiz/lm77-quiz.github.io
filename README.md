@@ -4,7 +4,7 @@ Flashcard di studio per la laurea magistrale **LM-77 «Management e consulenza a
 curriculum *Banking and Finance*, giocabili nel browser: <https://lm77-quiz.github.io/>
 
 - **Analisi dei Mercati Finanziari** — 1310 flashcard
-- **Tecnologia Blockchain e diritto del Fintech** — 42 flashcard
+- **Tecnologia Blockchain e diritto del Fintech** — 88 flashcard
 
 ## Come si usa
 
