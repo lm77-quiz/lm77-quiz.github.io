@@ -982,3 +982,283 @@
 
 **D:** ⚠️ Perché il docente considera l'AGID un caso esemplare della tesi della prima lezione?
 **R:** Perché «assume un **ruolo centrale nella normazione di questi nuovi istituti**» ed è «un classico esempio di quello che dicevamo nella nostra prima fondamentale lezione: **nuovi modelli normativi, nuovi attori** che riescano a normare un settore tanto nuovo e diverso sono necessari». Da qui la richiesta di competenze: nelle nuove agenzie serve «personale altamente qualificato **non solo** da un punto di vista normativo, **ma per esempio anche ingegneri, programmatori, gente IT**», perché DeFi e smart contract «non sono più una questione legale solo, ma anche e soprattutto **interazione tra diversi settori: tecnologia, finanza, IT e certamente regolamentazione finanziaria**».
+
+## Lezione 04 — FinTech e regolamentazione dei mercati (1)
+
+**D:** ⚠️ Quali sono i sei settori nei quali si sviluppano i principali servizi del FinTech?
+**R:** 1) **crowdfunding** (raccolta di piccoli capitali dal pubblico dei risparmiatori); 2) l'**online banking**; 3) la **gestione dei risparmi (*asset management*) con algoritmi** (i cosiddetti *robo-advisor*); 4) **gestione dei pagamenti**; 5) **credit-scoring** (sistemi di valutazione del rischio di credito) e **gestione dei dati**; 6) le **valute digitali o cripto-valute** e più in generale l'**utilizzo della blockchain**.
+**Opzione:** Crowdfunding; online banking; gestione dei risparmi con algoritmi; gestione dei pagamenti; credit-scoring e gestione dei dati; valute digitali o cripto-valute e più in generale l'utilizzo della blockchain.
+**Distrattori:**
+- Crowdfunding; online banking; gestione dei risparmi con algoritmi; gestione dei pagamenti; credit-scoring e gestione dei dati; emissione di moneta elettronica da parte degli istituti di pagamento.
+- Crowdfunding; online banking; gestione dei risparmi con algoritmi; gestione dei pagamenti; gestione dei sinistri assicurativi; valute digitali o cripto-valute e più in generale l'utilizzo della blockchain.
+- Equity crowdfunding; online banking; consulenza finanziaria tradizionale; gestione dei pagamenti; credit-scoring e gestione dei dati; valute digitali o cripto-valute.
+
+**D:** In quali sotto-settori si divide il crowdfunding, e come è definito il P2P lending?
+**R:** Nel **P2P (*peer-to-peer*) lending** — «finanziamenti concessi da **privati a privati o a imprese**» — e nell'**equity crowdfunding**.
+**Opzione:** Nel P2P lending, cioè finanziamenti concessi da privati a privati o a imprese, e nell'equity crowdfunding.
+**Distrattori:**
+- Nel P2P lending, cioè finanziamenti concessi da banche a privati o a imprese, e nell'equity crowdfunding.
+- Nel P2P lending, cioè finanziamenti concessi da privati a privati o a imprese, e nel lending crowdfunding assicurativo.
+- Nel credit-scoring, cioè nella valutazione del rischio di credito, e nell'equity crowdfunding.
+
+**D:** ⚠️ Qual è la definizione di Robo-advisory data dalle slide?
+**R:** «La Robo-advisory è tra le **espressioni più rilevanti** nell'ambito dei servizi FinTech. Consiste in un servizio dedicato alla **pianificazione e gestione del patrimonio personale** attraverso una **piattaforma telematica** che, mediante **elaborazioni algoritmiche**, fornisce o consente di fornire (*Robo4advisor*) consigli per la costruzione di un **portafoglio di investimento rispondente alle caratteristiche dell'utente**». Consente ai potenziali investitori di ottenere consigli o gestire portafogli personalizzati «**senza l'intermediazione di un consulente tradizionale**» — è il tema della **disintermediazione**, che per il docente è «un potenziale primo vantaggio, un **abbattimento di costi**».
+**Opzione:** Un servizio dedicato alla pianificazione e gestione del patrimonio personale attraverso una piattaforma telematica che, mediante elaborazioni algoritmiche, fornisce o consente di fornire consigli per la costruzione di un portafoglio di investimento rispondente alle caratteristiche dell'utente.
+**Distrattori:**
+- Un servizio dedicato alla pianificazione e gestione del patrimonio personale attraverso una piattaforma telematica che, mediante elaborazioni algoritmiche, esegue direttamente gli ordini di borsa per conto della clientela professionale.
+- Un servizio dedicato alla pianificazione e gestione del patrimonio personale attraverso una rete di consulenti abilitati che, mediante elaborazioni algoritmiche, fornisce consigli per la costruzione di un portafoglio di investimento rispondente alle caratteristiche dell'utente.
+- Un servizio dedicato alla valutazione del merito creditizio della clientela attraverso una piattaforma telematica che, mediante elaborazioni algoritmiche, attribuisce un punteggio di affidabilità all'utente.
+
+**D:** ⚠️ In quali passaggi si sviluppa la consulenza informatizzata?
+**R:** 1) **accesso alla piattaforma**; 2) **compilazione del questionario MiFID compliant** per la classificazione del profilo dell'investitore; 3) **elaborazione della pianificazione del portafoglio titoli**; 4) **monitoraggio costante** dell'andamento dei titoli e del portafoglio al fine di indirizzare il cliente, **con appositi alert**, verso il **ribilanciamento** delle operazioni; 5) alcune piattaforme, inoltre, permettono all'utente di **effettuare gli investimenti tramite la piattaforma stessa**, «senza necessità che il cliente si rivolga ad un **broker**».
+**Opzione:** Accesso alla piattaforma; compilazione del questionario MiFID compliant; elaborazione della pianificazione del portafoglio titoli; monitoraggio costante con alert verso il ribilanciamento; in alcune piattaforme, investimento diretto senza rivolgersi a un broker.
+**Distrattori:**
+- Accesso alla piattaforma; compilazione del questionario MiFID compliant; elaborazione della pianificazione del portafoglio titoli; monitoraggio costante con alert verso il ribilanciamento; in ogni caso, esecuzione degli ordini tramite un broker autorizzato.
+- Accesso alla piattaforma; colloquio preliminare con un consulente persona fisica; elaborazione della pianificazione del portafoglio titoli; monitoraggio costante con alert verso il ribilanciamento; in alcune piattaforme, investimento diretto senza rivolgersi a un broker.
+- Accesso alla piattaforma; compilazione del questionario MiFID compliant; elaborazione della pianificazione del portafoglio titoli; revisione annuale del portafoglio su richiesta del cliente; in alcune piattaforme, investimento diretto senza rivolgersi a un broker.
+
+**D:** ⚠️ Quali informazioni raccoglie il questionario MiFID compliant, secondo l'elenco della slide?
+**R:** **Conoscenza ed esperienza finanziaria**, **situazione patrimoniale**, **obiettivi di investimento ed orizzonte temporale**, ***risk appetite***. Serve «per la **classificazione del profilo dell'investitore**».
+**Opzione:** Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, risk appetite.
+**Distrattori:**
+- Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, residenza fiscale.
+- Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, merito creditizio.
+- Titolo di studio, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, risk appetite.
+
+**D:** A chi va sottoposto il questionario MiFID e a che cosa serve, secondo il docente?
+**R:** È «un questionario **obbligatorio** da sottoporre a **qualsiasi cliente** che voglia entrare in discorsi di investimento con gli intermediari», e serve «**non solo** per essere *compliant* con questa normativa MiFID, **ma proprio per classificare il profilo dell'investitore**, cioè che tipo di investimenti si potranno proporre a questo investitore».
+**Opzione:** È obbligatorio per qualsiasi cliente che voglia entrare in discorsi di investimento con gli intermediari, e serve non solo a essere compliant ma proprio a classificare il profilo dell'investitore.
+**Distrattori:**
+- È facoltativo e rimesso alla scelta dell'intermediario, e serve non solo a essere compliant ma proprio a classificare il profilo dell'investitore.
+- È obbligatorio solo per i clienti classificati come investitori professionali, e serve a classificare il profilo dell'investitore.
+- È obbligatorio per qualsiasi cliente che voglia entrare in discorsi di investimento con gli intermediari, e serve esclusivamente a documentare la conformità formale alla normativa MiFID.
+
+**D:** ⚠️ Quali sono le tre generazioni di Robo-advisors?
+**R:** **Generazione I, *stand alone* Robo-advisors**; **Generazione II, *integrated* Robo-advisors**; **Generazione III, *cognitive* Robo-advisors**.
+**Opzione:** Generazione I, stand alone Robo-advisors; Generazione II, integrated Robo-advisors; Generazione III, cognitive Robo-advisors.
+**Distrattori:**
+- Generazione I, stand alone Robo-advisors; Generazione II, integrated Robo-advisors; Generazione III, autonomous Robo-advisors.
+- Generazione I, stand alone Robo-advisors; Generazione II, cognitive Robo-advisors; Generazione III, integrated Robo-advisors.
+- Generazione I, puri Robo-advisors; Generazione II, ibridi Robo-advisors; Generazione III, robo4advisor.
+
+**D:** Che cosa caratterizza la Generazione I dei Robo-advisors?
+**R:** Sono gli ***stand alone* Robo-advisors**: «il **target è direttamente il consumatore finale**, permette una **visione completa del portafoglio**, e di ottenere ***financial advices* e ribilanciamento automatico**».
+**Opzione:** Il target è direttamente il consumatore finale; permette una visione completa del portafoglio e di ottenere financial advices e ribilanciamento automatico.
+**Distrattori:**
+- Il target è direttamente il consulente persona fisica; permette una visione completa del portafoglio e di ottenere financial advices e ribilanciamento automatico.
+- Il target è direttamente il consumatore finale; permette una visione parziale del portafoglio e richiede che il ribilanciamento sia autorizzato caso per caso.
+- Il target è direttamente il consumatore finale; è contraddistinta da un elevato livello di personalizzazione delle esigenze del cliente.
+
+**D:** Che cosa caratterizza la Generazione II dei Robo-advisors?
+**R:** Sono gli ***integrated* Robo-advisors**: «il target **non sono solo clienti finali ma anche consulenti presenti sul mercato**, permettendo di **ridurre costi di gestione degli *assets* e del rapporto cliente/*assets manager***».
+**Opzione:** Il target non sono solo i clienti finali ma anche i consulenti presenti sul mercato, permettendo di ridurre i costi di gestione degli assets e del rapporto cliente/assets manager.
+**Distrattori:**
+- Il target sono esclusivamente i consulenti presenti sul mercato, permettendo di ridurre i costi di gestione degli assets e del rapporto cliente/assets manager.
+- Il target non sono solo i clienti finali ma anche i consulenti presenti sul mercato, permettendo di aumentare il grado di personalizzazione delle esigenze del cliente.
+- Il target non sono solo i clienti finali ma anche le autorità di vigilanza, permettendo di ridurre i costi dei controlli sugli intermediari.
+
+**D:** Che cosa caratterizza la Generazione III dei Robo-advisors?
+**R:** Sono i ***cognitive* Robo-advisors**, «contraddistinta da un **elevato livello di personalizzazione delle esigenze del cliente**».
+**Opzione:** È contraddistinta da un elevato livello di personalizzazione delle esigenze del cliente.
+**Distrattori:**
+- È contraddistinta da un elevato livello di standardizzazione dei portafogli offerti alla clientela.
+- È contraddistinta dal fatto che lo strumento automatizzato si pone al servizio del consulente persona fisica.
+- È contraddistinta dalla possibilità di eseguire gli investimenti senza rivolgersi a un broker.
+
+**D:** ⚠️ Quali sono i tre modelli di consulenza automatizzata individuati dalla CONSOB, e in quale documento?
+**R:** Nel **Quaderno Consob, FinTech n. 1, 2018**: I. «**puro**», automatizzazione del servizio offerto **in tutte le sue fasi**; II. «**ibrido**», in diverse misure è possibile riscontrare l'**intervento umano**; III. «**robo4advisor**», lo strumento automatizzato si pone **al servizio del consulente persona fisica**.
+**Opzione:** Nel Quaderno Consob, FinTech n. 1, 2018: puro, ibrido, robo4advisor.
+**Distrattori:**
+- Nel Quaderno Consob, FinTech n. 1, 2018: stand alone, integrated, cognitive.
+- Nel Report IOSCO del 2014: puro, ibrido, robo4advisor.
+- Nel Quaderno Consob, FinTech n. 1, 2018: puro, ibrido, cognitive.
+
+**D:** ⚠️ Che cos'è il modello «ibrido» di consulenza automatizzata, e che cos'è il «robo4advisor»?
+**R:** Il modello «**ibrido**» è quello in cui «in diverse misure è possibile riscontrare l'**intervento umano**»; il «**robo4advisor**» è quello in cui «lo **strumento automatizzato si pone al servizio del consulente persona fisica**». Il modello «**puro**» è invece l'«automatizzazione del servizio offerto **in tutte le sue fasi**».
+**Opzione:** Ibrido: in diverse misure è possibile riscontrare l'intervento umano. Robo4advisor: lo strumento automatizzato si pone al servizio del consulente persona fisica.
+**Distrattori:**
+- Ibrido: lo strumento automatizzato si pone al servizio del consulente persona fisica. Robo4advisor: in diverse misure è possibile riscontrare l'intervento umano.
+- Ibrido: in diverse misure è possibile riscontrare l'intervento umano. Robo4advisor: automatizzazione del servizio offerto in tutte le sue fasi.
+- Ibrido: automatizzazione del servizio offerto in tutte le sue fasi. Robo4advisor: lo strumento automatizzato si pone al servizio del consulente persona fisica.
+
+**D:** ⚠️ Che cos'è IOSCO e che valore hanno i suoi principi, secondo il docente?
+**R:** «È un'autorità che a livello **mondiale** emana **principi e linee guida**», il cui ruolo è «molto discusso» perché «di fatto le sue linee guida, i suoi principi, **non sono vincolanti**»: il fatto che un intermediario vi si sia adeguato «sarà comunque **un indicatore**» di aver agito secondo la ***best market practice***. Le sue linee di intervento sono «di **alto livello** rispetto alla granularità tipica della regolamentazione finanziaria», cioè «linee di intervento **di cornice** più che immediatamente applicabili».
+**Opzione:** Un'autorità che a livello mondiale emana principi e linee guida non vincolanti, che valgono come indicatore della best market practice dell'intermediario.
+**Distrattori:**
+- Un'autorità che a livello mondiale emana principi e linee guida vincolanti, la cui violazione è direttamente sanzionata a carico dell'intermediario.
+- Un'autorità che a livello europeo emana principi e linee guida non vincolanti, che valgono come indicatore della best market practice dell'intermediario.
+- Un'autorità che a livello mondiale emana principi e linee guida non vincolanti, che gli intermediari possono liberamente disapplicare senza che ciò rilevi in alcun modo.
+
+**D:** ⚠️ Quali criticità del Robo-advisory ha individuato IOSCO nel Report del 2014?
+**R:** 1) le **informazioni sui clienti** utilizzate ai fini delle **valutazioni di adeguatezza** **non sono aggiornate regolarmente**; 2) i **clienti non forniscono i dati necessari** perché le soluzioni di investimento siano davvero adeguate; 3) **conflitti di interesse** possono inficiare anche gli **algoritmi sottesi allo strumento informatico** (erogazione di raccomandazioni volte a privilegiare i **prodotti *branded***); 4) **distorsione nell'applicazione delle regole di adeguatezza** al fine di consigliare **prodotti complessi ed illiquidi**, e **mancanza o scarsa efficacia dei controlli interni**; 5) l'**informativa alla clientela** sull'utilizzo di strumenti automatizzati **può risultare assente o non adeguata**.
+**Opzione:** Informazioni sui clienti non aggiornate regolarmente; clienti che non forniscono i dati necessari; conflitti di interesse che inficiano gli algoritmi; distorsione delle regole di adeguatezza verso prodotti complessi e illiquidi e controlli interni carenti; informativa alla clientela assente o non adeguata.
+**Distrattori:**
+- Informazioni sui clienti non aggiornate regolarmente; clienti che non forniscono i dati necessari; conflitti di interesse che inficiano gli algoritmi; distorsione delle regole di adeguatezza verso prodotti complessi e illiquidi e controlli interni carenti; assenza di un capitale minimo di vigilanza in capo alle piattaforme.
+- Informazioni sui clienti non aggiornate regolarmente; clienti che non forniscono i dati necessari; conflitti di interesse che inficiano gli algoritmi; distorsione delle regole di adeguatezza verso prodotti semplici e liquidi; informativa alla clientela assente o non adeguata.
+- Informazioni sui clienti aggiornate con frequenza eccessiva; clienti che forniscono dati sovrabbondanti; conflitti di interesse che inficiano gli algoritmi; distorsione delle regole di adeguatezza verso prodotti complessi e illiquidi; informativa alla clientela assente o non adeguata.
+
+**D:** In che modo, secondo IOSCO, il conflitto di interessi può inficiare gli algoritmi del robo-advisor?
+**R:** Con l'«erogazione di raccomandazioni volte a **privilegiare i prodotti *branded***».
+**Opzione:** Con l'erogazione di raccomandazioni volte a privilegiare i prodotti branded.
+**Distrattori:**
+- Con l'erogazione di raccomandazioni volte a privilegiare i prodotti di emittenti terzi rispetto a quelli del gruppo.
+- Con l'applicazione di commissioni di negoziazione superiori a quelle praticate dai consulenti tradizionali.
+- Con la mancata sottoposizione del questionario MiFID ai clienti già profilati in passato.
+
+**D:** ⚠️ Quali linee di intervento ha proposto IOSCO, e a chi si rivolgono?
+**R:** Tre: ***best practices* per gli intermediari** che offrono consulenza attraverso strumenti automatizzati; **principi guida per la progettazione di strumenti automatici** (integrità IT, registri e archiviazione dei dati, gestione dei potenziali rischi); ***best practices* per le autorità di vigilanza**, al fine di agevolare la **condivisione delle esperienze** in tema di **regolamentazione, vigilanza e mappatura dei possibili rischi** derivanti dalla diffusione di strumenti automatizzati.
+**Opzione:** Best practices per gli intermediari; principi guida per la progettazione di strumenti automatici; best practices per le autorità di vigilanza.
+**Distrattori:**
+- Best practices per gli intermediari; principi guida per la progettazione di strumenti automatici; best practices per i clienti finali che utilizzano piattaforme automatizzate.
+- Best practices per gli intermediari; standard tecnici vincolanti per la progettazione di strumenti automatici; best practices per le autorità di vigilanza.
+- Principi guida per la progettazione di strumenti automatici; best practices per le autorità di vigilanza; obbligo di certificazione preventiva degli algoritmi da parte di un revisore indipendente.
+
+**D:** Quali voci contengono i «principi guida per la progettazione di strumenti automatici» proposti da IOSCO?
+**R:** **Integrità IT**, **registri e archiviazione dei dati**, **gestione dei potenziali rischi**.
+**Opzione:** Integrità IT, registri e archiviazione dei dati, gestione dei potenziali rischi.
+**Distrattori:**
+- Integrità IT, registri e archiviazione dei dati, adeguatezza patrimoniale della piattaforma.
+- Integrità IT, pubblicazione del codice sorgente dell'algoritmo, gestione dei potenziali rischi.
+- Riservatezza dei dati personali, registri e archiviazione dei dati, gestione dei potenziali rischi.
+
+**D:** ⚠️ Quali autorità hanno pubblicato il *Discussion paper on automation in financial advice*, e in quale data?
+**R:** Le **tre autorità di vigilanza europee — EBA, ESMA ed EIOPA** — il **4 dicembre 2015**.
+**Opzione:** Le tre autorità di vigilanza europee EBA, ESMA ed EIOPA, il 4 dicembre 2015.
+**Distrattori:**
+- Le tre autorità di vigilanza europee EBA, ESMA ed EIOPA, il 4 dicembre 2014.
+- IOSCO, insieme alla CONSOB, il 4 dicembre 2015.
+- Le tre autorità di vigilanza europee EBA, ESMA e BCE, il 4 dicembre 2015.
+
+**D:** Quali sono i tre principali scopi del *Discussion paper on automation in financial advice*?
+**R:** A) **ricostruire le principali caratteristiche dei *tools*** utilizzati nel servizio di consulenza automatizzata; B) fornire una **valutazione preliminare dei benefici e dei rischi** connessi alla diffusione di tale modello di servizio; C) illustrare le **prospettive di sviluppo del segmento di mercato**.
+**Opzione:** Ricostruire le principali caratteristiche dei tools utilizzati; fornire una valutazione preliminare dei benefici e dei rischi; illustrare le prospettive di sviluppo del segmento di mercato.
+**Distrattori:**
+- Ricostruire le principali caratteristiche dei tools utilizzati; fornire una valutazione preliminare dei benefici e dei rischi; imporre agli Stati membri standard tecnici vincolanti per le piattaforme.
+- Ricostruire le principali caratteristiche dei tools utilizzati; quantificare le sanzioni applicabili agli intermediari inadempienti; illustrare le prospettive di sviluppo del segmento di mercato.
+- Armonizzare le definizioni nazionali di consulenza automatizzata; fornire una valutazione preliminare dei benefici e dei rischi; illustrare le prospettive di sviluppo del segmento di mercato.
+
+**D:** ⚠️ Quali principali rischi individua il *Discussion paper* del 2015?
+**R:** Possibili **deficit cognitivi** connessi al processo di **raccolta ed elaborazione delle informazioni**; **ridotte possibilità di chiedere chiarimenti** per colmare le **lacune informative delle piattaforme**; **limitata comprensione delle modalità di utilizzo ed elaborazione** delle informazioni fornite; **malfunzionamento dello strumento automatico**; **possibili violazioni informatiche**; **errori nelle ipotesi e nelle stime poste alla base dell'algoritmo**.
+**Opzione:** Deficit cognitivi nella raccolta ed elaborazione delle informazioni; ridotte possibilità di chiedere chiarimenti; limitata comprensione delle modalità di utilizzo ed elaborazione delle informazioni; malfunzionamento dello strumento automatico; possibili violazioni informatiche; errori nelle ipotesi e nelle stime poste alla base dell'algoritmo.
+**Distrattori:**
+- Deficit cognitivi nella raccolta ed elaborazione delle informazioni; ridotte possibilità di chiedere chiarimenti; limitata comprensione delle modalità di utilizzo ed elaborazione delle informazioni; malfunzionamento dello strumento automatico; possibili violazioni informatiche; insolvenza della piattaforma e perdita dei fondi depositati.
+- Deficit cognitivi nella raccolta ed elaborazione delle informazioni; eccessiva possibilità di chiedere chiarimenti che rallenta il servizio; limitata comprensione delle modalità di utilizzo delle informazioni; malfunzionamento dello strumento automatico; possibili violazioni informatiche; errori nelle ipotesi e nelle stime dell'algoritmo.
+- Deficit cognitivi nella raccolta ed elaborazione delle informazioni; ridotte possibilità di chiedere chiarimenti; limitata comprensione delle modalità di utilizzo delle informazioni; malfunzionamento dello strumento automatico; riciclaggio di denaro attraverso le piattaforme; errori nelle ipotesi e nelle stime dell'algoritmo.
+
+**D:** ⚠️ Quale fonte definisce la consulenza in materia di investimenti, e con quale formula?
+**R:** L'**art. 4, par. 4, della MiFID II**: «una prestazione di **raccomandazioni personalizzate** ad un cliente, **dietro sua richiesta o per iniziativa dell'impresa di investimento**, riguardo ad **una o più operazioni relative a strumenti finanziari**».
+**Opzione:** L'art. 4 par. 4 MiFID II: una prestazione di raccomandazioni personalizzate ad un cliente, dietro sua richiesta o per iniziativa dell'impresa di investimento, riguardo ad una o più operazioni relative a strumenti finanziari.
+**Distrattori:**
+- L'art. 4 par. 4 MiFID II: una prestazione di raccomandazioni personalizzate ad un cliente, esclusivamente dietro sua richiesta, riguardo ad una o più operazioni relative a strumenti finanziari.
+- L'art. 4 par. 4 del TUF: una prestazione di raccomandazioni personalizzate ad un cliente, dietro sua richiesta o per iniziativa dell'impresa di investimento, riguardo ad una o più operazioni relative a strumenti finanziari.
+- L'art. 4 par. 4 MiFID II: una prestazione di raccomandazioni di carattere generale rivolte a un pubblico diffuso, riguardo ad una o più operazioni relative a strumenti finanziari.
+
+**D:** ⚠️ Di quali tre elementi consta l'attività di consulenza come descritta dalla MiFID II?
+**R:** 1) **personalizzazione della raccomandazione**; 2) **raccomandazione in linea con il profilo di investimento del destinatario**; 3) **oggetto della raccomandazione inerente ad una o più operazioni relative a strumenti finanziari**.
+**Opzione:** Personalizzazione della raccomandazione; raccomandazione in linea con il profilo di investimento del destinatario; oggetto inerente ad una o più operazioni relative a strumenti finanziari.
+**Distrattori:**
+- Personalizzazione della raccomandazione; raccomandazione in linea con il profilo di investimento del destinatario; oggetto inerente esclusivamente a strumenti finanziari quotati in mercati regolamentati.
+- Personalizzazione della raccomandazione; raccomandazione in linea con gli obiettivi commerciali dell'impresa di investimento; oggetto inerente ad una o più operazioni relative a strumenti finanziari.
+- Standardizzazione della raccomandazione per categorie omogenee di clienti; raccomandazione in linea con il profilo di investimento del destinatario; oggetto inerente ad una o più operazioni relative a strumenti finanziari.
+
+**D:** In che cosa risiede il carattere innovativo del robo advisor?
+**R:** Nel fatto che «l'intero processo di consulenza è **gestito integralmente tramite la piattaforma digitale**, **in ogni aspetto: dalla commercializzazione del servizio fino alla risposta ai quesiti specifici di investimento**», ed è «**usufruibile in qualsiasi momento**».
+**Opzione:** L'intero processo di consulenza è gestito integralmente tramite la piattaforma digitale, dalla commercializzazione del servizio fino alla risposta ai quesiti specifici di investimento, ed è usufruibile in qualsiasi momento.
+**Distrattori:**
+- L'intero processo di consulenza è gestito integralmente tramite la piattaforma digitale, dalla commercializzazione del servizio fino alla risposta ai quesiti specifici di investimento, ed è usufruibile nei soli orari di apertura dei mercati.
+- La fase di commercializzazione del servizio è gestita tramite la piattaforma digitale, mentre la risposta ai quesiti specifici di investimento resta affidata al consulente persona fisica.
+- L'intero processo di consulenza è gestito integralmente tramite la piattaforma digitale, che per questo resta fuori dalla riserva di attività.
+
+**D:** ⚠️ Quale differenza corre fra la consulenza di carattere generale e la consulenza specifica, e quale delle due è attività riservata?
+**R:** La **mera consulenza di carattere generale**, «seppur avente ad oggetto un determinato strumento o una precisa operazione, è **rivolta ad un pubblico diffuso** e pertanto rientra nella **mera attività promozionale**»; la **consulenza specifica e personalizzata** ha ad oggetto un determinato strumento finanziario e «**solo quest'ultima costituisce attività riservata**, essendo **l'unica dotata del requisito della personalizzazione alle richieste del cliente**».
+**Opzione:** La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; solo la consulenza specifica e personalizzata è attività riservata, essendo l'unica dotata del requisito della personalizzazione.
+**Distrattori:**
+- La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; entrambe costituiscono attività riservata, perché entrambe hanno ad oggetto un determinato strumento finanziario.
+- La consulenza generale è rivolta a un pubblico diffuso ed è essa stessa attività riservata; la consulenza specifica e personalizzata rientra invece nella mera attività promozionale.
+- La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; la consulenza specifica è riservata solo quando ha ad oggetto strumenti finanziari complessi o illiquidi.
+
+**D:** ⚠️ Quali soggetti possono gestire una piattaforma di Robo-advice che offre consulenza specifica?
+**R:** Solo i **soggetti autorizzati alla prestazione del servizio di consulenza in materia di investimenti**: «segnatamente, **intermediari bancari, SIM, SGR** nonché i **consulenti finanziari di cui agli artt. 18-*bis* e 18-*ter* del D.lgs. 58/1998 (TUF)**» — cioè, precisa il docente, soggetti «**autorizzati da Consob o Banca d'Italia**».
+**Opzione:** Intermediari bancari, SIM, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 58/1998 (TUF).
+**Distrattori:**
+- Intermediari bancari, SIM, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 385/1993 (TUB).
+- Intermediari bancari, SIM, SGR e qualunque società tecnologica iscritta nel registro delle imprese che gestisca una piattaforma telematica.
+- Intermediari bancari, imprese di assicurazione, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 58/1998 (TUF).
+
+**D:** ⚠️ Quali attività restano escluse dalla riserva, e per quale motivo?
+**R:** L'**attività di asset allocation finanziaria**, la **presentazione di portafogli modello per investitori tipo** e la **consulenza generica**, «in quanto **mancanti del requisito della personalizzazione**».
+**Opzione:** Asset allocation finanziaria, presentazione di portafogli modello per investitori tipo e consulenza generica, perché mancanti del requisito della personalizzazione.
+**Distrattori:**
+- Asset allocation finanziaria, presentazione di portafogli modello per investitori tipo e consulenza generica, perché rivolte esclusivamente a investitori professionali.
+- Asset allocation finanziaria, presentazione di portafogli personalizzati su richiesta del cliente e consulenza generica, perché mancanti del requisito della personalizzazione.
+- Presentazione di portafogli modello per investitori tipo, consulenza generica e gestione di portafogli su base individuale, perché mancanti del requisito della personalizzazione.
+
+**D:** Qual è la definizione di High Frequency Trading?
+**R:** «Una **modalità di intervento sui mercati** che si serve di **sofisticati strumenti software, e a volte anche hardware**, con i quali mettere in atto **negoziazioni ad alta frequenza, guidate da algoritmi matematici**»; le posizioni sono tenute «per periodi di tempo variabili, **da poche ore fino a frazioni di secondo**». Il docente lo presenta come «un corollario, una diretta conseguenza, **un figlio del robo advisory**».
+**Opzione:** Una modalità di intervento sui mercati che si serve di sofisticati strumenti software, e a volte anche hardware, per mettere in atto negoziazioni ad alta frequenza guidate da algoritmi matematici, con posizioni tenute da poche ore fino a frazioni di secondo.
+**Distrattori:**
+- Una modalità di intervento sui mercati che si serve di sofisticati strumenti software, e a volte anche hardware, per mettere in atto negoziazioni ad alta frequenza guidate da algoritmi matematici, con posizioni tenute da poche ore fino ad alcuni mesi.
+- Una modalità di intervento sui mercati che si serve esclusivamente di strumenti hardware dedicati per mettere in atto negoziazioni ad alta frequenza guidate da algoritmi matematici, con posizioni tenute da poche ore fino a frazioni di secondo.
+- Un servizio di pianificazione del patrimonio personale che si serve di sofisticati strumenti software per costruire portafogli rispondenti alle caratteristiche dell'utente.
+
+**D:** ⚠️ Qual è lo scopo della strategia HFT e che cosa esso implica?
+**R:** «Lucrare su **margini estremamente esigui, anche pochi centesimi**»; per trasformare tali margini minimi in significativi guadagni, la strategia «deve necessariamente **operare su grandi quantità di transazioni giornaliere**».
+**Opzione:** Lucrare su margini estremamente esigui, anche pochi centesimi, e per questo operare necessariamente su grandi quantità di transazioni giornaliere.
+**Distrattori:**
+- Lucrare su margini estremamente ampi su poche transazioni selezionate, concentrate nella fase di apertura dei mercati.
+- Lucrare su margini estremamente esigui, anche pochi centesimi, mantenendo però le posizioni aperte oltre la chiusura della giornata borsistica per consolidare il guadagno.
+- Acquisire posizioni stabili sul capitale azionario delle società quotate, sfruttando la rapidità di esecuzione degli ordini.
+
+**D:** Con quale tipo di ordini l'HFT «inonda» il mercato, e a quale fine?
+**R:** Con ordini del tipo ***immediate-or-cancel***, «che servono a **sondare le condizioni di mercato**».
+**Opzione:** Con ordini del tipo immediate-or-cancel, che servono a sondare le condizioni di mercato.
+**Distrattori:**
+- Con ordini del tipo immediate-or-cancel, che servono a garantire l'esecuzione integrale della transazione al prezzo migliore.
+- Con ordini con limite di prezzo a valida fino a revoca, che servono a sondare le condizioni di mercato.
+- Con ordini del tipo immediate-or-cancel, che servono a consolidare la posizione sul capitale azionario dell'emittente.
+
+**D:** ⚠️ Quale quota degli ordini di transazione HFT si trasforma in un contratto?
+**R:** «La **quasi totalità degli ordini di transazione non giunge a una conclusione**: in una situazione tipica, si trasforma in un contratto **solo l'1% delle proposte di transazione**».
+**Opzione:** Solo l'1% delle proposte di transazione.
+**Distrattori:**
+- Solo il 10% delle proposte di transazione.
+- Circa la metà delle proposte di transazione.
+- La quasi totalità delle proposte di transazione, data la rapidità di esecuzione degli ordini.
+
+**D:** ⚠️ Che cosa resta, secondo le slide, al termine di una giornata borsistica per un operatore HFT?
+**R:** «**Non rimane alcuna posizione di investimento significativa**». È la voce che chiude l'elenco delle caratteristiche della strategia HFT ed è coerente con l'osservazione del docente sulla natura **speculativa** dell'attività: i movimenti non «si consolidano su una posizione di investimento sul capitale azionario di qualche azienda».
+**Opzione:** Non rimane alcuna posizione di investimento significativa.
+**Distrattori:**
+- Rimane una posizione di investimento residuale, che viene liquidata all'apertura della giornata successiva.
+- Rimane una posizione stabile sul capitale azionario delle società più liquide.
+- Rimangono soltanto gli ordini immediate-or-cancel non ancora eseguiti, che restano validi fino a revoca.
+
+**D:** ⚠️ Quali sono gli effetti distorsivi dell'High Frequency Trading?
+**R:** 1) **distorsione della concorrenza** rispetto ai *players* che si servono ancora di **tecniche tradizionali**; 2) il **comportamento trasversale** degli operatori HFT conferisce ai mercati un'**estrema volatilità**, **senza tuttavia che i movimenti speculativi si consolidino su una posizione di investimento sul capitale azionario** di qualche azienda; 3) rende **estremamente complesso il sistema dei mercati**, complessità «della quale spesso **non sono consapevoli gli investitori generici e più improvvisati**»; 4) la **sperequazione** tra chi accede con **modalità rapida** e chi vi accede con i **lenti sistemi tradizionali**; 5) l'**intasamento** costringe a **continui e costosi aggiornamenti dei sistemi informatici**.
+**Opzione:** Distorsione della concorrenza rispetto ai players tradizionali; estrema volatilità senza consolidamento delle posizioni; complessità del sistema dei mercati; sperequazione fra accesso rapido e sistemi lenti tradizionali; intasamento che costringe a continui e costosi aggiornamenti dei sistemi informatici.
+**Distrattori:**
+- Distorsione della concorrenza rispetto ai players tradizionali; estrema volatilità senza consolidamento delle posizioni; complessità del sistema dei mercati; sperequazione fra accesso rapido e sistemi lenti tradizionali; riduzione strutturale della liquidità disponibile sui mercati regolamentati.
+- Distorsione della concorrenza rispetto ai players tradizionali; estrema stabilità dei corsi dovuta all'elevato numero di ordini; complessità del sistema dei mercati; sperequazione fra accesso rapido e sistemi lenti tradizionali; intasamento che costringe a continui e costosi aggiornamenti dei sistemi informatici.
+- Distorsione della concorrenza rispetto ai players tradizionali; estrema volatilità accompagnata dal consolidamento di posizioni stabili sul capitale azionario; complessità del sistema dei mercati; sperequazione fra accesso rapido e sistemi lenti tradizionali; intasamento dei sistemi informatici.
+
+**D:** ⚠️ Su chi ricadono i costi informatici generati dall'intasamento da transazioni ad alta frequenza, e perché?
+**R:** «I costi informatici ricadono però **soprattutto sugli operatori tradizionali**, dal momento che **il prezzo del servizio si paga solo per le transazioni che vanno a buon fine con un acquisto**, mentre **nessun corrispettivo è richiesto sugli ordini improduttivi** con cui i trader ad alta frequenza inondano i mercati e che determinano la necessità di **potenziare i sistemi di elaborazione dati**».
+**Opzione:** Soprattutto sugli operatori tradizionali, perché il prezzo del servizio si paga solo sulle transazioni che vanno a buon fine, mentre gli ordini improduttivi dell'HFT non pagano alcun corrispettivo.
+**Distrattori:**
+- Soprattutto sui trader ad alta frequenza, perché il prezzo del servizio si paga su ogni ordine immesso, compresi quelli che non vanno a buon fine.
+- Soprattutto sugli operatori tradizionali, perché la normativa impone loro di finanziare l'adeguamento tecnologico delle sedi di negoziazione.
+- In misura uguale su tutti gli operatori, perché il costo dei sistemi di elaborazione dati è ripartito in proporzione al numero di ordini immessi.
+
+**D:** Come è cambiata la rilevanza regolamentare dell'HFT, secondo il docente?
+**R:** «Un po' di anni fa l'high frequency trading **non era neanche ritenuta degna di una menzione specifica all'interno della regolamentazione finanziaria**»; **con l'avvento della MiFID 2** invece «è diventato un tema importante, anche per tutti i **temi scandalistici** che ci sono stati di **crolli borsistici**».
+**Opzione:** Prima non era neanche ritenuta degna di una menzione specifica nella regolamentazione finanziaria; con l'avvento della MiFID 2 è diventata un tema importante.
+**Distrattori:**
+- Prima non era neanche ritenuta degna di una menzione specifica nella regolamentazione finanziaria; con l'avvento della PSD2 è diventata un tema importante.
+- Era già disciplinata in dettaglio prima della MiFID 2, che si è limitata a confermare le regole esistenti.
+- Prima era vietata nella maggior parte degli ordinamenti europei; con l'avvento della MiFID 2 è stata ammessa entro limiti quantitativi.
+
+**D:** Perché, secondo il docente, il FinTech può essere un rimedio e non una minaccia per un settore come l'HFT?
+**R:** Perché «mano a mano che il fintech prende piede **non necessariamente ci si deve aspettare un fenomeno spaventoso che sovverta le regole**, ma anzi **potrebbe essere un modo per tenere ordinato, pulito, organico un settore**» come l'HFT. Il FinTech va pensato «anche come un **sistema di potenziamento di elaborazione dati**», che porta «**maggior controllo**, **maggiore ordine** e **maggiore *consistency***». Tre gli effetti: **minimizza le distorsioni**; **conferisce maggiore trasparenza anche sui costi**, con «effetto cascata sugli investitori»; **riduce la competizione**, perché consente «anche a quegli **operatori più tradizionali** di accedere a questo mercato fintech», dato che le macchine «grazie alla tecnologia diventano **più precise, più affidabili e anche più utilizzabili**».
+
+**D:** ⚠️ Come si chiama la prima generazione di Robo-advisors sulla slide, e come la chiama il docente?
+**R:** La slide dice «Generazione I, ***stand alone* Robo-advisors**»; il docente nel parlato dice «gli **standard** robo-advisors». **Fa testo la slide**: le opzioni d'esame sono citazioni letterali delle slide.
