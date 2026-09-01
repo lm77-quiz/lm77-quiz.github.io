@@ -1262,3 +1262,249 @@
 
 **D:** ⚠️ Come si chiama la prima generazione di Robo-advisors sulla slide, e come la chiama il docente?
 **R:** La slide dice «Generazione I, ***stand alone* Robo-advisors**»; il docente nel parlato dice «gli **standard** robo-advisors». **Fa testo la slide**: le opzioni d'esame sono citazioni letterali delle slide.
+
+## Lezione 05 — FinTech e regolamentazione dei mercati (2)
+
+**D:** ⚠️ Quale pregio riconosce il docente allo «stato regolamentare invariato»?
+**R:** «Una **stabilità del sistema regolamentare**, un sistema **già digerito e visto**, un sistema **conosciuto, sviscerato, valutato da tribunali e giurisprudenza**. Sicuramente questo è un sistema di **certezza**».
+**Opzione:** La stabilità di un sistema regolamentare già conosciuto, sviscerato e valutato da tribunali e giurisprudenza: un sistema di certezza.
+**Distrattori:**
+- La peculiarità e la personalizzazione delle regole, che agevolano l'ingresso nel mondo fintech.
+- Il coinvolgimento di una platea ampia di operatori, che porta a una maggiore accettazione della legge finale.
+- L'espulsione dal sistema di tutto ciò che è nocivo o potenzialmente pericoloso.
+
+**D:** Quale pregio riconosce il docente alla «regolamentazione specifica per il fintech»?
+**R:** «**Peculiarità, unicità, personalizzazione, facilità di entrare nel mondo fintech** grazie a delle normative che siano **specificamente pensate** per il fintech e che quindi **agevolino lo sviluppo del fintech**».
+**Opzione:** Peculiarità, unicità, personalizzazione e facilità di entrare nel mondo fintech, grazie a normative pensate apposta che ne agevolano lo sviluppo.
+**Distrattori:**
+- La stabilità di un quadro già collaudato dai tribunali, che garantisce certezza agli operatori.
+- La possibilità di espellere dal sistema le attività potenzialmente dannose prima che si diffondano.
+- La riduzione dei costi di conformità per le imprese ammesse a un regime di esenzione temporanea.
+
+**D:** Quale pregio riconosce il docente all'approccio «in via di sviluppo», fondato sui documenti di consultazione?
+**R:** «Il **coinvolgimento di una platea così alta di persone** porterà poi a una **maggiore accettazione del risultato finale**, una legge». I lavori in corso sono «sostanzialmente **documenti di consultazione, richieste al mercato, richieste al pubblico**».
+**Opzione:** Il coinvolgimento di una platea molto ampia, che porta a una maggiore accettazione della legge finale.
+**Distrattori:**
+- La rapidità del processo normativo, che evita i tempi lunghi della consultazione pubblica.
+- La certezza del diritto, garantita da un quadro normativo già valutato dalla giurisprudenza.
+- L'esenzione temporanea dalle regole più severe per le imprese innovative.
+
+**D:** Quale pregio riconosce il docente all'approccio «attività Fintech non consentita»?
+**R:** «Si **espelle dal sistema regolamentare tutto ciò che è nocivo o che è potenzialmente pericoloso e dannoso**. Quindi un sistema di **grande sicurezza**, perché **ammette solo ciò che è conosciuto**».
+**Opzione:** Espelle dal sistema tutto ciò che è nocivo o potenzialmente pericoloso: un sistema di grande sicurezza, perché ammette solo ciò che è conosciuto.
+**Distrattori:**
+- Espelle dal sistema tutto ciò che è nocivo o potenzialmente pericoloso, garantendo al tempo stesso la massima apertura all'innovazione.
+- Consente di sperimentare le attività più rischiose entro un perimetro sorvegliato dalle autorità di vigilanza.
+- Garantisce la personalizzazione delle regole sulle caratteristiche di ciascun operatore innovativo.
+
+**D:** ⚠️ Qual è la tesi del docente sull'approccio regolamentare da adottare per il FinTech?
+**R:** Che **non** si possa dire «che dovrebbero tutti creare una **regolamentazione specifica** per il fintech, perché anche questo ha dei pregi e dei difetti»: «una regolamentazione del fintech in questo periodo storico passi attraverso la **contemperazione di tutte queste linee guida, perché in ognuna c'è qualcosa di positivo**». I quattro approcci vanno letti come una **scala di gradazioni**, dall'«**atteggiamento inerziale**» dello stato regolamentare invariato a quello «estremamente chiuso e **draconiano**» dell'attività non consentita.
+**Opzione:** Che la regolamentazione del fintech passi attraverso la contemperazione di tutti e quattro gli approcci, perché in ognuno c'è qualcosa di positivo.
+**Distrattori:**
+- Che tutti gli ordinamenti dovrebbero adottare una regolamentazione specifica per il fintech, l'unico approccio privo di difetti.
+- Che l'approccio preferibile sia lo stato regolamentare invariato, perché garantisce la certezza di un quadro già collaudato.
+- Che il fintech vada lasciato alla sola autoregolamentazione degli operatori, attraverso le linee guida delle associazioni di categoria.
+
+**D:** ⚠️ Quali documenti compongono l'approccio UE alla regolamentazione del FinTech, e di quali anni sono?
+**R:** **2017** — *Consultazione pubblica su FinTech: un settore finanziario europeo più competitivo e innovativo*; **2018** — *Piano d'azione FinTech: per un settore finanziario europeo più competitivo e innovativo*; **2019** — *Consultazione pubblica su una potenziale iniziativa sulla resilienza operativa digitale nel settore dei servizi finanziari*; **2020** — *Consultazione pubblica un quadro UE per i mercati dei cripto-asset*; **2020** — *Consultazione su una nuova strategia di finanza digitale per l'Europa / Piano d'azione FinTech*; **2020** — *Pacchetto finanza digitale*. Tutti della **Commissione europea**.
+**Opzione:** Consultazione pubblica su FinTech (2017); Piano d'azione FinTech (2018); consultazione sulla resilienza operativa digitale (2019); consultazione su un quadro UE per i cripto-asset (2020); consultazione su una nuova strategia di finanza digitale (2020); Pacchetto finanza digitale (2020).
+**Distrattori:**
+- Consultazione pubblica su FinTech (2017); Piano d'azione FinTech (2018); consultazione sulla resilienza operativa digitale (2019); consultazione su un quadro UE per i cripto-asset (2020); consultazione su una nuova strategia di finanza digitale (2020); Regolamento MiCA (2020).
+- Consultazione pubblica su FinTech (2015); Piano d'azione FinTech (2016); consultazione sulla resilienza operativa digitale (2017); consultazione su un quadro UE per i cripto-asset (2018); consultazione su una nuova strategia di finanza digitale (2019); Pacchetto finanza digitale (2020).
+- Consultazione pubblica su FinTech (2017); Piano d'azione FinTech (2018); consultazione sull'intelligenza artificiale nei servizi finanziari (2019); consultazione su un quadro UE per i cripto-asset (2020); consultazione su una nuova strategia di finanza digitale (2020); Pacchetto finanza digitale (2020).
+
+**D:** ⚠️ Di che anno è il Piano d'azione FinTech della Commissione europea, e quale documento lo precede?
+**R:** È del **2018**; lo precede la **Consultazione pubblica su FinTech** del **2017**. Entrambi portano lo stesso sottotitolo: «**per un settore finanziario europeo più competitivo e innovativo**».
+**Opzione:** Del 2018; lo precede la consultazione pubblica su FinTech del 2017, con lo stesso sottotitolo «per un settore finanziario europeo più competitivo e innovativo».
+**Distrattori:**
+- Del 2017; lo precede la consultazione pubblica su FinTech del 2016, con lo stesso sottotitolo «per un settore finanziario europeo più competitivo e innovativo».
+- Del 2020; lo precede la consultazione pubblica sui mercati dei cripto-asset del 2019.
+- Del 2018; lo precede la consultazione pubblica sulla resilienza operativa digitale del 2017.
+
+**D:** Su che cosa verteva la consultazione pubblica della Commissione europea del 2019?
+**R:** Su «una **potenziale iniziativa sulla resilienza operativa digitale nel settore dei servizi finanziari**» — la materia che diventerà **DORA**.
+**Opzione:** Su una potenziale iniziativa sulla resilienza operativa digitale nel settore dei servizi finanziari.
+**Distrattori:**
+- Su un quadro UE per i mercati dei cripto-asset.
+- Su una nuova strategia di finanza digitale per l'Europa.
+- Su un settore finanziario europeo più competitivo e innovativo.
+
+**D:** Che cosa prevedeva il Pacchetto per la finanza digitale, e di quando è la comunicazione che lo accompagna?
+**R:** È accompagnato dalla «**Comunicazione della Commissione su una strategia finanziaria digitale per l'UE**» del **settembre 2020**: «la Commissione europea mira a **regolare la finanza digitale per il bene dei mercati europei, promuovendo nuove imprese e proteggendo i consumatori dai rischi che ne derivano**».
+**Opzione:** Una comunicazione della Commissione su una strategia finanziaria digitale per l'UE del settembre 2020, per regolare la finanza digitale promuovendo nuove imprese e proteggendo i consumatori dai rischi che ne derivano.
+**Distrattori:**
+- Una comunicazione della Commissione su una strategia finanziaria digitale per l'UE del settembre 2018, per regolare la finanza digitale promuovendo nuove imprese e proteggendo i consumatori dai rischi che ne derivano.
+- Una raccomandazione del Consiglio ECOFIN del settembre 2020, per regolare la finanza digitale promuovendo nuove imprese e proteggendo i consumatori.
+- Una comunicazione della Commissione su una strategia finanziaria digitale per l'UE del settembre 2020, per vietare le attività fintech non compatibili con il quadro prudenziale esistente.
+
+**D:** ⚠️ Quali obiettivi persegue la Commissione con il Pacchetto per la finanza digitale?
+**R:** 1) **affrontare la frammentazione** dei mercati dei servizi finanziari digitali, permettendo ai consumatori europei di accedere a **servizi transfrontalieri** e aiutando le imprese finanziarie europee a migliorare i loro servizi digitali; 2) **garantire che il quadro normativo dell'UE faciliti l'innovazione digitale** nell'interesse dei consumatori e dell'**efficienza del mercato**; 3) **creare uno spazio europeo dei dati finanziari** per promuovere l'**innovazione guidata dai dati**, migliorare **l'accesso ai dati e la condivisione dei dati**; 4) **affrontare le nuove sfide e i rischi** associati alla trasformazione digitale; 5) **promuovere le nuove opportunità** che la finanza digitale offre ai consumatori e **proteggere i consumatori laddove appropriato**.
+**Opzione:** Affrontare la frammentazione dei mercati permettendo l'accesso a servizi transfrontalieri; garantire che il quadro normativo faciliti l'innovazione digitale; creare uno spazio europeo dei dati finanziari; affrontare le nuove sfide e i rischi della trasformazione digitale; promuovere le nuove opportunità e proteggere i consumatori laddove appropriato.
+**Distrattori:**
+- Affrontare la frammentazione dei mercati permettendo l'accesso a servizi transfrontalieri; garantire che il quadro normativo faciliti l'innovazione digitale; creare uno spazio europeo dei dati finanziari; affrontare le nuove sfide e i rischi della trasformazione digitale; armonizzare la fiscalità diretta sui redditi da cripto-attività.
+- Affrontare la frammentazione dei mercati permettendo l'accesso a servizi transfrontalieri; garantire che il quadro normativo limiti l'innovazione digitale ai soli intermediari già autorizzati; creare uno spazio europeo dei dati finanziari; affrontare le nuove sfide e i rischi; promuovere le nuove opportunità e proteggere i consumatori.
+- Consolidare i mercati nazionali dei servizi finanziari digitali scoraggiando l'operatività transfrontaliera; garantire che il quadro normativo faciliti l'innovazione digitale; creare uno spazio europeo dei dati finanziari; affrontare le nuove sfide e i rischi; promuovere le nuove opportunità.
+
+**D:** ⚠️ Quali nuove legislazioni sui mercati finanziari digitali prevede il Pacchetto per la finanza digitale?
+**R:** Due **proposte di regolamento**: quella «sullo **scambio di cripto-attività (MiCA)**» e quella «sulla **resilienza operativa digitale per il settore finanziario (DORA)**».
+**Opzione:** La proposta di regolamento sullo scambio di cripto-attività (MiCA) e la proposta di regolamento sulla resilienza operativa digitale per il settore finanziario (DORA).
+**Distrattori:**
+- La proposta di regolamento sullo scambio di cripto-attività (MiCA) e la revisione della direttiva MiFID II/MiFIR.
+- La proposta di regolamento sulla resilienza operativa digitale per il settore finanziario (DORA) e il «Regolamento Prospetto».
+- La proposta di regolamento sullo scambio di cripto-attività (MiCA) e la proposta di regolamento sulle tecnologie basate su registri distribuiti in materia di forma scritta.
+
+**D:** ⚠️ Quali normative esistenti il Pacchetto per la finanza digitale sottopone a revisione?
+**R:** **MiFID II/MiFIR**, **AML/CFT**, **requisiti prudenziali**, **AIFMD/UCITS**, «**Regolamento Prospetto**».
+**Opzione:** MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
+**Distrattori:**
+- MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; Regolamento MiCA.
+- MiFID II/MiFIR; AML/CFT; requisiti prudenziali; PSD2; «Regolamento Prospetto».
+- MiFID II/MiFIR; GDPR; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
+
+**D:** Perché, secondo il docente, la revisione della legislazione esistente è più complicata dell'adozione di nuove norme?
+**R:** Perché «si tratta di **coordinare e rendere organiche delle normative che nascevano in epoche diverse, in periodi diversi, scritte con linguaggi diversi**»: è «un passaggio non semplicissimo, che sta **richiedendo tempo** e che richiederà sempre di più un **affinamento delle abilità dei nostri legislatori** di coordinare le varie normative esistenti con quelle del futuro». L'UE procede infatti «in **parallelo**», portando avanti nuova normativa e al tempo stesso creando «un **collante** con la normativa esistente».
+**Opzione:** Perché si tratta di coordinare e rendere organiche normative nate in epoche diverse e scritte con linguaggi diversi.
+**Distrattori:**
+- Perché la revisione richiede l'unanimità degli Stati membri, mentre i nuovi regolamenti si adottano a maggioranza qualificata.
+- Perché le normative esistenti sono di rango primario, mentre le nuove sono di rango secondario e non necessitano di coordinamento.
+- Perché la revisione va approvata dalle autorità di vigilanza nazionali prima di entrare in vigore.
+
+**D:** ⚠️ In che senso «la finanza è un costrutto giuridico»?
+**R:** Nel senso che «**ogni transazione nei mercati finanziari** (dalla vendita e l'acquisto di **azioni sul mercato mobiliare** alla **sottoscrizione di derivati**) **si basa su dei contratti, i quali necessitano dell'applicazione della legge**».
+**Opzione:** Ogni transazione nei mercati finanziari si basa su dei contratti, i quali necessitano dell'applicazione della legge.
+**Distrattori:**
+- Ogni transazione nei mercati finanziari si basa su dei contratti, i quali producono effetti anche in assenza di una legge che li disciplini.
+- I mercati finanziari sono creati dalle autorità di vigilanza, che ne autorizzano preventivamente ogni singola transazione.
+- Ogni transazione nei mercati finanziari si basa su prassi consolidate fra gli operatori, cui la legge si limita a dare riconoscimento successivo.
+
+**D:** ⚠️ Perché la deregolamentazione «può non essere considerata affatto un'opzione»?
+**R:** Perché, essendo i mercati finanziari **costruzioni giuridiche**, «**un'assenza di regole non può esistere** e quindi la **deregolamentazione porta a una delega implicita del processo di creazione delle regole a soggetti diversi da legislatori e regolatori**».
+**Opzione:** Perché un'assenza di regole non può esistere: la deregolamentazione porta a una delega implicita della creazione delle regole a soggetti diversi da legislatori e regolatori.
+**Distrattori:**
+- Perché un'assenza di regole non può esistere: la deregolamentazione porta a una delega esplicita della creazione delle regole alle autorità di vigilanza competenti.
+- Perché la deregolamentazione è vietata dai trattati europei, che impongono agli Stati membri un livello minimo di armonizzazione.
+- Perché un'assenza di regole comporterebbe soltanto una riduzione dei costi di conformità, senza alcun effetto sulla creazione delle regole.
+
+**D:** ⚠️ Quali approcci hanno adottato le diverse giurisdizioni per fornire alla finanza il supporto della legge?
+**R:** Quattro, in ordine crescente di intervento: il **non fare nulla** («che può essere **permissivo o altamente restrittivo, a seconda del contesto**»); una **cauta permissività** («su una base **caso per caso**, o attraverso **accordi speciali**»); uno **sperimentalismo strutturato** («come la **sandbox**»); lo **sviluppo di nuovi quadri normativi specifici** («come quelli del **pacchetto UE sulla finanza digitale**»).
+**Opzione:** Il non fare nulla; una cauta permissività caso per caso o con accordi speciali; uno sperimentalismo strutturato come la sandbox; lo sviluppo di nuovi quadri normativi specifici come il pacchetto UE sulla finanza digitale.
+**Distrattori:**
+- Il non fare nulla; una cauta permissività caso per caso o con accordi speciali; uno sperimentalismo strutturato come la sandbox; il divieto generalizzato delle attività non espressamente autorizzate.
+- Il non fare nulla; l'autoregolamentazione attraverso le associazioni di categoria; uno sperimentalismo strutturato come la sandbox; lo sviluppo di nuovi quadri normativi specifici.
+- L'iper-regolamentazione; una cauta permissività caso per caso; uno sperimentalismo strutturato come la sandbox; lo sviluppo di nuovi quadri normativi specifici.
+
+**D:** ⚠️ Che cosa precisa la slide a proposito dell'approccio del «non fare nulla»?
+**R:** Che «**può essere permissivo o altamente restrittivo, a seconda del contesto**»: non è quindi, di per sé, un approccio favorevole agli operatori.
+**Opzione:** Che può essere permissivo o altamente restrittivo, a seconda del contesto.
+**Distrattori:**
+- Che è sempre permissivo, perché in assenza di regole ogni attività è consentita.
+- Che è sempre altamente restrittivo, perché ciò che non è espressamente previsto è vietato.
+- Che è permissivo per le imprese già autorizzate e restrittivo per i nuovi entranti.
+
+**D:** ⚠️ Quali voci compongono la striscia che intesta le slide sulla sandbox, e quale porta un punto interrogativo?
+**R:** «**De-regolamentazione | Iper-regolamentazione | Auto-regolamentazione | Sandbox regolamentare?**» — il **punto interrogativo** è **solo sulla quarta**, la sandbox: è l'opzione ancora in discussione.
+**Opzione:** De-regolamentazione, Iper-regolamentazione, Auto-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo su quest'ultima.
+**Distrattori:**
+- De-regolamentazione, Iper-regolamentazione, Auto-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo sulla de-regolamentazione.
+- De-regolamentazione, Iper-regolamentazione, Co-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo su quest'ultima.
+- Stato regolamentare invariato, Regolamentazione specifica, In via di sviluppo e Attività non consentita, con il punto interrogativo solo sull'ultima.
+
+**D:** Perché, secondo le slide, l'iper-regolamentazione è diventata l'approccio predominante?
+**R:** «Negli ultimi anni, **dopo alcuni scandali finanziari** che hanno evidenziato l'**inadeguatezza dei controlli in atto**, l'approccio che sembra essere predominante è quello di **iper-regolamentare il mondo finanziario**». Il docente vi legge «una sorta di **paura dei regolatori**».
+**Opzione:** Perché dopo alcuni scandali finanziari, che hanno evidenziato l'inadeguatezza dei controlli in atto, si è imposto l'approccio di iper-regolamentare il mondo finanziario.
+**Distrattori:**
+- Perché dopo alcuni scandali finanziari, che hanno evidenziato l'inadeguatezza dei controlli in atto, si è imposto l'approccio di deregolamentare il mondo finanziario.
+- Perché la digitalizzazione dei servizi finanziari ha reso obsoleti i controlli esistenti, imponendo un quadro normativo interamente nuovo.
+- Perché le associazioni di categoria hanno chiesto ai regolatori di sostituire le linee guida di soft law con regole vincolanti.
+
+**D:** Quale effetto produce, secondo le slide, il coinvolgimento degli attori del mercato nel processo legislativo?
+**R:** Il coinvolgimento «nella **creazione e nel perfezionamento del perimetro normativo in cui devono fare affari**» permette «di **superare il tradizionale dualismo tra pubblico e privato**», facendo «coincidere i **bisogni privati e pubblici**».
+**Opzione:** Permette di superare il tradizionale dualismo tra pubblico e privato, facendo coincidere i bisogni privati e pubblici.
+**Distrattori:**
+- Permette di trasferire agli operatori di mercato la titolarità del potere normativo, sostituendo il legislatore.
+- Permette di ridurre il numero delle regole applicabili, sostituendo la normativa vincolante con la soft law.
+- Permette alle autorità di vigilanza di delegare i controlli alle associazioni di categoria settoriali.
+
+**D:** Come sono promosse le «linee guida delle migliori pratiche», e da chi sono convalidate?
+**R:** Sono promosse «**principalmente attraverso associazioni di categoria settoriali e *ad hoc***» e sono «**spesso convalidate dalle autorità nazionali competenti**».
+**Opzione:** Sono promosse principalmente attraverso associazioni di categoria settoriali e ad hoc, e sono spesso convalidate dalle autorità nazionali competenti.
+**Distrattori:**
+- Sono promosse principalmente dalle autorità nazionali competenti e sono spesso convalidate dalle associazioni di categoria settoriali.
+- Sono promosse principalmente attraverso associazioni di categoria settoriali e ad hoc, e sono sempre vincolanti per gli aderenti.
+- Sono promosse dalla Commissione europea e sono convalidate dalle tre autorità di vigilanza europee.
+
+**D:** ⚠️ Che natura hanno le linee guida delle migliori pratiche, e quale principio si applica a chi le ignora?
+**R:** Essendo «semplicemente ***soft law***» **non sono vincolanti**, ma «un principio "**comply or explain**" **può essere rilevante** per quelle entità che decidono di **ignorare** tali linee guida».
+**Opzione:** Sono soft law e quindi non vincolanti, ma a chi decide di ignorarle può essere rilevante il principio comply or explain.
+**Distrattori:**
+- Sono soft law e quindi non vincolanti, e chi decide di ignorarle non è soggetto ad alcun onere ulteriore.
+- Sono vincolanti per le entità aderenti alle associazioni di categoria che le hanno promosse, e chi le ignora è sanzionato dall'autorità nazionale competente.
+- Sono soft law e quindi non vincolanti, ma la loro violazione comporta l'esclusione automatica dalla sandbox regolamentare.
+
+**D:** ⚠️ Qual è la definizione di sandbox regolamentare data dalle slide?
+**R:** «I sandbox normativi sono **quadri normativi specifici in base ai quali le imprese possono beneficiare di esenzioni temporanee dalle regole più severe**». È «un **nuovo e più morbido approccio** alla regolamentazione dei mercati finanziari», adottato «**in tutto il mondo e in Europa**».
+**Opzione:** Quadri normativi specifici in base ai quali le imprese possono beneficiare di esenzioni temporanee dalle regole più severe.
+**Distrattori:**
+- Quadri normativi specifici in base ai quali le imprese possono beneficiare di esenzioni definitive dalle regole più severe.
+- Quadri normativi specifici in base ai quali le imprese sono esonerate dalla vigilanza delle autorità competenti per tutta la durata della sperimentazione.
+- Linee guida di migliori pratiche in base alle quali le imprese possono discostarsi dalle regole più severe spiegandone le ragioni.
+
+**D:** ⚠️ Che cosa devono dimostrare e quali requisiti devono soddisfare le imprese per essere ammesse a una sandbox?
+**R:** Devono **dimostrare** che il loro business «ha **solidità finanziaria** e ha alcune **caratteristiche innovative rispetto al mercato**», e **soddisfare specifici requisiti** «(ad esempio **AuM sotto una certa soglia, attività svolte, struttura organizzativa interna, ecc**)»; possono poi «**sperimentare servizi e prodotti innovativi sul mercato, con consumatori reali**».
+**Opzione:** Dimostrare solidità finanziaria e caratteristiche innovative rispetto al mercato, e soddisfare requisiti specifici come AuM sotto una certa soglia, attività svolte e struttura organizzativa interna.
+**Distrattori:**
+- Dimostrare solidità finanziaria e caratteristiche innovative rispetto al mercato, e soddisfare requisiti specifici come AuM sopra una certa soglia, attività svolte e struttura organizzativa interna.
+- Dimostrare solidità finanziaria e caratteristiche innovative rispetto al mercato, e ottenere preventivamente l'autorizzazione all'esercizio dell'attività riservata.
+- Dimostrare di aver già operato per almeno cinque anni sul mercato e di disporre di una struttura organizzativa interna equivalente a quella di un intermediario vigilato.
+
+**D:** ⚠️ Quali paesi indica la slide sulla sandbox regolamentare?
+**R:** Le bandiere in calce alla slide sono **cinque**: **Italia, Regno Unito, Spagna, Australia, Svizzera**. ⚠️ Il docente ne cita **quattro** — «l'Italia, la Spagna, la Gran Bretagna, poi abbiamo aggiunto appunto la Svizzera» — e **omette l'Australia**.
+**Opzione:** Italia, Regno Unito, Spagna, Australia e Svizzera.
+**Distrattori:**
+- Italia, Regno Unito, Spagna e Svizzera.
+- Italia, Regno Unito, Spagna, Australia e Stati Uniti.
+- Italia, Francia, Germania, Spagna e Regno Unito.
+
+**D:** ⚠️ Quali benefici della sandbox regolamentare elencano le slide?
+**R:** **Quattro**: 1) le imprese «possono **avvantaggiarsi di regole meno stringenti** sebbene **sotto la continua sorveglianza delle Autorità di vigilanza competenti**, **evitando i rischi di non *compliance* o sanzioni** correlate all'attività svolta»; 2) «i **legislatori ed i regolatori** possono **testare il proprio approccio e dialogo con i *players* del mercato**, adottando un'**applicazione collaborativa delle regole** che beneficia di uno **scambio informale di informazioni** con le imprese»; 3) le imprese «possono **testare la validità dei loro prodotti e servizi con i reali clienti ed investitori**»; 4) «permettono l'**armonizzazione** — anche se con alcune esenzioni dalle regole ordinarie — e quindi prevedono **meno costi di conformità** per le imprese».
+**Opzione:** Regole meno stringenti pur sotto continua sorveglianza, evitando rischi di non compliance; legislatori e regolatori possono testare approccio e dialogo con i players; le imprese testano prodotti e servizi con clienti e investitori reali; armonizzazione e minori costi di conformità.
+**Distrattori:**
+- Regole meno stringenti e sospensione della sorveglianza delle autorità per tutta la sperimentazione; legislatori e regolatori possono testare approccio e dialogo con i players; le imprese testano prodotti e servizi con clienti e investitori reali; armonizzazione e minori costi di conformità.
+- Regole meno stringenti pur sotto continua sorveglianza; legislatori e regolatori possono testare approccio e dialogo con i players; le imprese testano prodotti e servizi in ambiente simulato senza coinvolgere clienti reali; armonizzazione e minori costi di conformità.
+- Regole meno stringenti pur sotto continua sorveglianza; legislatori e regolatori possono sanzionare più rapidamente gli operatori inadempienti; le imprese testano prodotti e servizi con clienti e investitori reali; armonizzazione e minori costi di conformità.
+
+**D:** ⚠️ Quali costi della sandbox regolamentare elencano le slide?
+**R:** **Tre**: 1) «**non portano a una riduzione totale della *compliance* e dei costi legali**, perché per essere ammessi a una sandbox **sono richieste diverse attività e deve essere presentata una domanda**»; 2) «dove sono permesse **regole specifiche per ogni partecipante** (come alcune esenzioni richieste dalle imprese e riconosciute dalle autorità competenti) **non è prevista alcuna armonizzazione**, con **rischi per la stabilità del mercato e la protezione dei clienti**»; 3) «in generale, le **esenzioni dalle regole ordinarie** possono portare a **garanzie deboli per i clienti e gli investitori**».
+**Opzione:** La compliance e i costi legali non si azzerano, perché servono diverse attività e una domanda di ammissione; dove sono permesse regole specifiche per ogni partecipante manca l'armonizzazione, con rischi per la stabilità del mercato e la protezione dei clienti; le esenzioni possono portare a garanzie deboli per clienti e investitori.
+**Distrattori:**
+- La compliance e i costi legali si azzerano solo per le imprese ammesse, mentre restano per le altre; dove sono permesse regole specifiche per ogni partecipante manca l'armonizzazione; le esenzioni possono portare a garanzie deboli per clienti e investitori.
+- La compliance e i costi legali non si azzerano, perché servono diverse attività e una domanda di ammissione; le regole specifiche per ogni partecipante sono comunque armonizzate dalle autorità competenti; le esenzioni possono portare a garanzie deboli per clienti e investitori.
+- La compliance e i costi legali non si azzerano, perché servono diverse attività e una domanda di ammissione; dove sono permesse regole specifiche per ogni partecipante manca l'armonizzazione; le esenzioni sono compensate da garanzie rafforzate per clienti e investitori.
+
+**D:** ⚠️ In che modo l'armonizzazione compare sia fra i benefici sia fra i costi della sandbox?
+**R:** Fra i **benefici** è ciò che la sandbox **permette**: «permettono l'**armonizzazione** — anche se con alcune **esenzioni dalle regole ordinarie** — e quindi prevedono **meno costi di conformità**». Fra i **costi** è ciò che **manca** in una condizione precisa: «dove sono permesse **regole specifiche per ogni partecipante** […] **non è prevista alcuna armonizzazione**, con rischi per la **stabilità del mercato** e la **protezione dei clienti**». Non è una contraddizione: cambia il presupposto.
+**Opzione:** Fra i benefici come effetto generale della sandbox, sia pure con alcune esenzioni; fra i costi come ciò che manca dove sono permesse regole specifiche per ogni singolo partecipante.
+**Distrattori:**
+- Fra i benefici come effetto generale della sandbox; fra i costi come ciò che manca in ogni caso, perché la sandbox non prevede mai alcuna armonizzazione.
+- Fra i benefici come ciò che manca dove sono permesse regole specifiche per ogni partecipante; fra i costi come effetto generale della sandbox.
+- Fra i benefici come armonizzazione piena delle regole applicabili ai partecipanti; fra i costi come armonizzazione soltanto parziale con le regole ordinarie.
+
+**D:** Durante la sperimentazione in sandbox le imprese restano sottoposte alla vigilanza?
+**R:** **Sì**: le imprese si avvantaggiano «di **regole meno stringenti** sebbene **sotto la continua sorveglianza delle Autorità di vigilanza competenti**». Il docente lo rende con l'immagine del «**recinto** in cui le nuove realtà si possono muovere, **visionate e supervisionate dalle autorità di vigilanza, ma in modo *light*, in modo leggero, in modo semplice**, dove **non è richiesto un grande investimento di risorse, non è richiesta un'autorizzazione**».
+**Opzione:** Sì: le regole sono meno stringenti, ma la sorveglianza delle autorità di vigilanza competenti è continua.
+**Distrattori:**
+- No: l'ammissione alla sandbox sospende la vigilanza fino al termine della sperimentazione.
+- Sì, ma solo su richiesta dell'impresa ammessa, che può scegliere di sottoporsi alla sorveglianza per rafforzare la propria credibilità.
+- No: la vigilanza è sostituita dall'autocontrollo dell'impresa secondo il principio comply or explain.
+
+**D:** Perché la sandbox regolamentare risponde a un bisogno concreto delle startup FinTech, secondo il docente?
+**R:** Perché a un'idea innovativa segue quasi sempre la scoperta dell'onere autorizzativo: «immaginatevi una *start-up* fondata da **3 o 4 ragazzi di 25 anni** […] che si rivolgono a uno studio legale dicendo: scusate, ma noi possiamo fare questa cosa o dobbiamo essere autorizzati? Questo studio dice che **dovete essere autorizzati dalla Consob**. Cosa comporta? Comporta la **creazione di una società, l'assunzione di un totale numero di persone, dei salari da pagare**». La sandbox è allora un «**recinto**» sorvegliato «in modo ***light***», dove «**non è richiesto un grande investimento di risorse, non è richiesta un'autorizzazione**».
+
+**D:** ⚠️ Le esenzioni della sandbox sono «temporanee» o «temporali»?
+**R:** **Temporanee**: la slide dice «esenzioni **temporanee** dalle regole più severe». Il transcript rende «esenzioni **temporali** delle regole più stringenti», ma fa testo la slide — il punto è che l'esenzione **ha un termine**, non che riguardi il tempo.
+
+**D:** ⚠️ Che rapporto c'è fra le slide 3–4 di questa lezione e la lezione 01?
+**R:** Sono **le stesse slide**: la citazione del **Financial Stability Institute** (slide 8 della lezione 01) e i **quattro approcci regolamentari nazionali** (slide 9) sono ristampati alla lettera. Ciò che questa lezione aggiunge sta **solo nel parlato**: i **pregi** dei quattro approcci e la tesi della loro **contemperazione**. ⚠️ Poiché le opzioni d'esame sono citazioni letterali delle slide, un contenuto stampato in **due deck** ha probabilità doppia di essere chiesto.
+
+**D:** Con quale osservazione il docente chiude la lezione sulla sandbox?
+**R:** Che i paesi che l'hanno adottata «hanno comunque dato **un segnale forte al mercato**, ed è il segnale del: *stiamo creando delle previsioni ad hoc per le società che ci dimostrano di essere innovative*. Questo porta inevitabilmente a un **cambio culturale**: anche l'approccio del regolatore è un approccio che si sta **lentamente ma certamente trasformando e diventando più accogliente**». Sul rischio per i clienti ridimensiona: trattandosi di soggetti con **AuM sotto una certa soglia**, il rischio «è **ridottissimo, ma è pur sempre presente**».
