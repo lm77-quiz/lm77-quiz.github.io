@@ -1788,3 +1788,329 @@
 
 **D:** Quale «falso mito» sulle criptovalute annuncia il docente in chiusura di lezione?
 **R:** Quello secondo cui vi sarebbe automaticamente «un tema di riciclaggio»: «molto spesso il **luogo comune** è *c'è un tema di riciclaggio*. Ma **cosa vuol dire esattamente** che c'è un tema di riciclaggio? **Ed è realmente così?**». L'obiettivo dichiarato è operativo: saper valutare «se una determinata attività finanziaria tecnologica **ponga o meno dei rischi**» di riciclaggio e, se li pone, «**come ovviare** a queste tematiche senza pesare notevolmente sulla struttura della startup tecnologica con presidi e controlli che [ne appesantirebbero] la struttura e la snaturerebbero».
+
+## Lezione 07 — Fintech, crypto finanza e reati finanziari (2)
+
+**D:** Quali sono estremi e origine del «decreto antiriciclaggio»?
+**R:** «Il **D.Lgs. 4 ottobre 2019, n. 125** è stato emanato **in attuazione alla V direttiva antiriciclaggio**». ⚠️ È lo stesso decreto che la slide 7 della lezione 06 indicava come recepimento italiano della **Direttiva UE 2018/843**.
+**Opzione:** D.Lgs. 4 ottobre 2019, n. 125, emanato in attuazione alla V direttiva antiriciclaggio.
+**Distrattori:**
+- D.Lgs. 4 ottobre 2019, n. 125, emanato in attuazione alla IV direttiva antiriciclaggio.
+- D.Lgs. 25 maggio 2017, n. 90, emanato in attuazione alla V direttiva antiriciclaggio.
+- D.Lgs. 4 ottobre 2019, n. 152, emanato in attuazione al regolamento europeo sui mercati delle cripto-attività.
+
+**D:** ⚠️ Qual è il *main goal* del legislatore secondo la slide sul decreto antiriciclaggio?
+**R:** «Il ***main goal*** del **Legislatore eurounitario** è quello di **tracciare con ampio grado di certezza i flussi finanziari** nell'ottica dell'azione di contrasto al **riciclaggio di denaro di illecita provenienza** e di **finanziamento del terrorismo**». ⚠️ Gli oggetti del contrasto sono **due**: il transcript si ferma al primo.
+**Opzione:** Tracciare con ampio grado di certezza i flussi finanziari, per contrastare il riciclaggio di denaro di illecita provenienza e il finanziamento del terrorismo.
+**Distrattori:**
+- Tracciare con ampio grado di certezza i flussi finanziari, per contrastare il riciclaggio di denaro di illecita provenienza.
+- Tracciare con ampio grado di certezza i flussi finanziari, per contrastare l'evasione fiscale internazionale e il finanziamento del terrorismo.
+- Armonizzare in modo completo le discipline nazionali antiriciclaggio, per contrastare il riciclaggio di denaro di illecita provenienza e il finanziamento del terrorismo.
+
+**D:** ⚠️ Quali sono le tre «disposizioni più severe» con cui il decreto antiriciclaggio rafforza la disciplina?
+**R:** 1) **Ampliamento del campo di applicazione**: «obbligo di adeguata verifica ed **eliminazione di ogni esenzione assoluta in presenza di basso rischio di riciclaggio**»; 2) **rafforzamento del sistema di monitoraggio e di controllo** sull'attività dei cd. ***money transfer*** e dei **soggetti che operano nel settore dei giochi**; 3) **ampliamento dei soggetti obbligati** ad altri operatori finanziari.
+**Opzione:** Ampliamento del campo di applicazione; rafforzamento del monitoraggio su money transfer e settore dei giochi; ampliamento dei soggetti obbligati.
+**Distrattori:**
+- Ampliamento del campo di applicazione; rafforzamento del monitoraggio su money transfer e prestatori di servizi in valuta virtuale; ampliamento dei soggetti obbligati.
+- Ampliamento del campo di applicazione; rafforzamento del monitoraggio su money transfer e settore dei giochi; inasprimento delle sole sanzioni penali.
+- Armonizzazione massima della disciplina; rafforzamento del monitoraggio su money transfer e settore dei giochi; ampliamento dei soggetti obbligati.
+
+**D:** ⚠️ Che cosa dispone il decreto antiriciclaggio a proposito del basso rischio di riciclaggio?
+**R:** «**Eliminazione di ogni esenzione assoluta in presenza di basso rischio di riciclaggio**». Il docente insiste: «**non importa se c'è un basso rischio di riciclaggio: non ci possono essere le esenzioni assolute**, e anche in questo caso si fa un'adeguata verifica della clientela». ⚠️ Non va confuso con l'abolizione degli **obblighi semplificati**, che restano: il basso rischio dà diritto a una verifica **alleggerita**, non più a un'**esenzione**.
+**Opzione:** Elimina ogni esenzione assoluta in presenza di basso rischio: la verifica si fa comunque.
+**Distrattori:**
+- Elimina gli obblighi semplificati di adeguata verifica in presenza di basso rischio: la verifica si fa in forma ordinaria.
+- Conferma l'esenzione assoluta in presenza di basso rischio, purché il cliente sia già identificato.
+- Estende l'esenzione assoluta anche alle operazioni a rischio medio, per non gravare i soggetti obbligati.
+
+**D:** ⚠️ Che cosa aggiunge la slide, fra parentesi, sul rafforzamento del monitoraggio dei *money transfer* e del settore dei giochi?
+**R:** «(costituzione di una **banca dati informativa** e potenziamento **funzioni di controllo guardia di finanza**)». ⚠️ La parentesi sta **solo sulla slide**: il transcript non la pronuncia.
+**Opzione:** La costituzione di una banca dati informativa e il potenziamento delle funzioni di controllo della guardia di finanza.
+**Distrattori:**
+- La costituzione di una banca dati informativa e il potenziamento delle funzioni di controllo dell'Unità di Informazione Finanziaria.
+- L'istituzione di un registro tenuto dall'OAM e il potenziamento delle funzioni di controllo della guardia di finanza.
+- La costituzione di una banca dati informativa e l'obbligo di segnalazione trimestrale alla Banca d'Italia.
+
+**D:** ⚠️ Quali soggetti entrano fra gli obbligati con il decreto antiriciclaggio?
+**R:** «**Mediatori creditizi**, **agenti in attività finanziaria** e **cambio valute iscritti in apposito registro tenuto dall'OAM *ex* art. 128-*undecies* TUB**, oltre ai **prestatori di servizi di gioco**, **succursali dei predetti soggetti** e quelle di **intermediari bancari e finanziari** e di **imprese assicurative con sede legale in altro SM**.» ⚠️ Il transcript tronca l'elenco con «e via dicendo»: la coda va imparata dalla slide.
+**Opzione:** Mediatori creditizi, agenti in attività finanziaria, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti e di intermediari bancari e finanziari, e imprese assicurative con sede legale in altro Stato membro.
+**Distrattori:**
+- Mediatori creditizi, agenti in attività finanziaria, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti e di intermediari bancari e finanziari, e prestatori di servizi di portafoglio digitale.
+- Mediatori creditizi, agenti in attività finanziaria, cambiavalute iscritti nel registro OAM, e le sole succursali di intermediari bancari e finanziari con sede legale in Italia.
+- Mediatori creditizi, promotori finanziari, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti e di intermediari bancari e finanziari, e imprese assicurative con sede legale in altro Stato membro.
+
+**D:** ⚠️ In quale registro devono iscriversi i cambiavalute, e in forza di quale articolo del TUB?
+**R:** In un «**apposito registro tenuto dall'OAM**», l'Organismo degli Agenti e dei Mediatori, «***ex* art. 128-*undecies* TUB**». ⚠️ Da non confondere con l'**art. 128-*quater* TUB**, che nella stessa lezione riguarda gli **agenti in attività finanziaria** tramite cui operano IP e IMEL comunitari.
+**Opzione:** Nel registro tenuto dall'OAM, ex art. 128-undecies TUB.
+**Distrattori:**
+- Nel registro tenuto dall'OAM, ex art. 128-quater TUB.
+- Nel registro tenuto dalla Banca d'Italia, ex art. 128-undecies TUB.
+- Nella sezione speciale del Registro delle imprese, ex art. 128-undecies TUB.
+
+**D:** Che cosa introduce l'art. 2 del decreto antiriciclaggio?
+**R:** «Il principio del ***risk based approach***». Il docente sottolinea che lo ha introdotto «a tutti gli effetti, **cristallizzandolo**». ⚠️ Alla lezione 06 il *risk based approach* era la formula stampata sulla slide della **IV direttiva**; qui ha una fonte **italiana** e un **numero di articolo**.
+**Opzione:** Il principio del risk based approach.
+**Distrattori:**
+- Il registro dei titolari effettivi di imprese e trust.
+- Il punto di contatto centrale per IP e IMEL comunitari.
+- Il principio di armonizzazione minima degli obblighi antiriciclaggio.
+
+**D:** ⚠️ Rispetto a che cosa devono essere proporzionate le misure, secondo l'art. 2 del decreto antiriciclaggio?
+**R:** Le misure adottate devono essere «**proporzionate al rischio in relazione al tipo di cliente, al rapporto continuativo, alla prestazione professionale, al prodotto o alla transazione**», e «la loro applicazione **tiene conto della peculiarità dell'attività, delle dimensioni e della complessità proprie dei soggetti obbligati**». ⚠️ Sono **due gruppi di parametri**: il primo guarda al **cliente e all'operazione**, il secondo al **soggetto obbligato**. La coda della citazione — «tenendo conto dei **dati e delle informazioni acquisiti o posseduti nell'esercizio della propria attività istituzionale o professionale**» — sta solo sulla slide.
+**Opzione:** Al tipo di cliente, al rapporto continuativo, alla prestazione professionale, al prodotto o alla transazione; tenendo conto di peculiarità, dimensioni e complessità del soggetto obbligato.
+**Distrattori:**
+- Al tipo di cliente, al rapporto continuativo, alla prestazione professionale, al prodotto o alla transazione; tenendo conto della sola esposizione geografica del soggetto obbligato.
+- All'importo dell'operazione e alla residenza del cliente; tenendo conto di peculiarità, dimensioni e complessità del soggetto obbligato.
+- Al tipo di cliente, alla prestazione professionale e alla transazione; tenendo conto di criteri uniformi stabiliti dalla Banca d'Italia per tutti i soggetti obbligati.
+
+**D:** ⚠️ Che cosa istituisce l'art. 21 del decreto antiriciclaggio, e dove?
+**R:** «**Il registro dei titolari effettivi di imprese e trust**, attraverso la costituzione di una **sezione speciale del Registro delle imprese**». ⚠️ Il transcript dice «attraverso la costituzione di una sezione speciale» senza dire **di che cosa**: la collocazione nel **Registro delle imprese** sta sulla slide.
+**Opzione:** Il registro dei titolari effettivi di imprese e trust, come sezione speciale del Registro delle imprese.
+**Distrattori:**
+- Il registro dei titolari effettivi di imprese e trust, come sezione speciale del registro tenuto dall'OAM.
+- Il registro dei soggetti obbligati, come sezione speciale del Registro delle imprese.
+- Il registro dei titolari effettivi delle sole società di capitali, come sezione speciale del Registro delle imprese.
+
+**D:** ⚠️ Chi deve designare il punto di contatto centrale secondo l'art. 36 del decreto, e con quale compito?
+**R:** «Gli **istituti di moneta elettronica** e gli **istituti di pagamento** con **sede legale e amministrazione centrale in altro Stato Membro** che operano **senza succursale nel territorio della Repubblica, tramite soggetti convenzionati o agenti**», con il compito di «procedere alla **valutazione ed alla segnalazione delle operazioni sospette all'UIF**». ⚠️ Il transcript dice solo «sede legale in altro Stato membro» e omette il tramite.
+**Opzione:** IMEL e istituti di pagamento con sede legale e amministrazione centrale in altro Stato membro che operano senza succursale tramite soggetti convenzionati o agenti, per valutare e segnalare le operazioni sospette all'UIF.
+**Distrattori:**
+- IMEL e istituti di pagamento con sede legale e amministrazione centrale in altro Stato membro che operano tramite succursale nel territorio della Repubblica, per valutare e segnalare le operazioni sospette all'UIF.
+- IMEL e istituti di pagamento con sede legale e amministrazione centrale in altro Stato membro che operano senza succursale tramite soggetti convenzionati o agenti, per trasmettere le operazioni sospette direttamente alla guardia di finanza.
+- Tutti gli intermediari bancari e finanziari che operano in Italia in regime di libera prestazione di servizi, per valutare e segnalare le operazioni sospette all'UIF.
+
+**D:** ⚠️ A quali articoli del decreto antiriciclaggio corrispondono il *risk based approach*, il registro dei titolari effettivi e il punto di contatto centrale?
+**R:** **Art. 2** = *risk based approach*; **art. 21** = **registro dei titolari effettivi** di imprese e trust; **art. 36** = **designazione del punto di contatto centrale** (e, al **comma 6**, la trasmissione all'UIF «prive del nominativo del segnalante»). L'**art. 43** contiene invece la **definizione** del PDC. ⚠️ È il classico materiale da «coppia soggetto + norma»: riconoscere metà opzione non basta.
+**Opzione:** Art. 2, art. 21 e art. 36 rispettivamente.
+**Distrattori:**
+- Art. 2, art. 36 e art. 21 rispettivamente.
+- Art. 21, art. 2 e art. 43 rispettivamente.
+- Art. 2, art. 21 e art. 128-quater rispettivamente.
+
+**D:** Quando si configura la «responsabilità oggettiva» degli esponenti aziendali nell'impianto sanzionatorio?
+**R:** «Individuazione di una sorta di **responsabilità oggettiva** in capo agli **esponenti aziendali** che si verifica quando le **omissioni nei controlli abbiano reso possibile il verificarsi di violazioni alla normativa antiriciclaggio**.»
+**Opzione:** Quando le omissioni nei controlli abbiano reso possibile il verificarsi di violazioni alla normativa antiriciclaggio.
+**Distrattori:**
+- Quando gli esponenti aziendali abbiano concorso dolosamente alla violazione della normativa antiriciclaggio.
+- Quando le omissioni nei controlli abbiano reso possibile il verificarsi di violazioni, purché ne sia derivato un danno patrimoniale ai clienti.
+- Quando l'organo di vigilanza accerti la mancata segnalazione di un'operazione sospetta all'UIF.
+
+**D:** ⚠️ In quale forbice si colloca la sanzione amministrativa per l'omissione nei controlli?
+**R:** «Tale condotta è punita con una **sanzione amministrativa che va dai 10 mila ai 5 milioni di euro**». ⚠️ Il **minimo** sta **solo sulla slide**: il docente dice «multe **fino a 5 milioni** di euro». Spostare il pavimento lasciando il tetto è un distrattore classico.
+**Opzione:** Da 10 mila a 5 milioni di euro.
+**Distrattori:**
+- Da 1.000 a 5 milioni di euro.
+- Da 10 mila a 3 milioni di euro.
+- Fino a 5 milioni di euro, senza minimo edittale.
+
+**D:** ⚠️ Quale sanzione colpisce i destinatari degli obblighi di adeguata verifica, e in che cosa si distingue da quella degli esponenti aziendali?
+**R:** «Per soggetti destinatari degli obblighi di adeguata verifica è **comminata la pena della reclusione e la multa**» — cioè sanzione **penale**. Gli **esponenti aziendali**, invece, rispondono in via **amministrativa** (da 10 mila a 5 milioni) per **omissioni nei controlli**. ⚠️ Scambiare le due colonne è un distrattore da «oggetto scambiato».
+**Opzione:** Reclusione e multa, cioè sanzione penale, mentre gli esponenti aziendali rispondono in via amministrativa.
+**Distrattori:**
+- Una sanzione amministrativa da 10 mila a 5 milioni di euro, mentre gli esponenti aziendali rispondono con reclusione e multa.
+- Reclusione e multa, cioè sanzione penale, come per gli esponenti aziendali: il regime è unico.
+- La sola multa, senza reclusione, mentre gli esponenti aziendali rispondono in via amministrativa.
+
+**D:** Come si intitolano e a quando risalgono le disposizioni della Banca d'Italia richiamate nella lezione?
+**R:** «*Disposizioni in materia di **adeguata verifica della clientela** per il contrasto del riciclaggio e del finanziamento al terrorismo*» del **30 luglio 2019**. La **Parte I** detta i «**criteri generali** che precisano l'**intensità e l'estensione degli obblighi di adeguata verifica modulati secondo il grado di rischio**, con particolare attenzione rispetto ai **prodotti e servizi che si avvalgono di nuove tecnologie**».
+**Opzione:** Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 30 luglio 2019.
+**Distrattori:**
+- Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 4 ottobre 2019.
+- Disposizioni in materia di organizzazione, procedure e controlli interni antiriciclaggio, del 30 luglio 2019.
+- Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 30 luglio 2017.
+
+**D:** ⚠️ In quali casi la Banca d'Italia rende obbligatoria l'adeguata verifica, e con quali soglie?
+**R:** «Adeguata verifica ed obbligo **in ogni caso in cui**: (i) si instaura un **rapporto continuativo**; (ii) **operazione occasionale** di trasmissione o movimentazione di **mezzi di pagamento** di importo **superiore a 15mila** o in un **trasferimento di fondi superiore a 1.000 euro**.» ⚠️ Sono **due fattispecie con due importi diversi** dentro la stessa lettera (ii): 15mila per i mezzi di pagamento, 1.000 euro per il trasferimento di fondi.
+**Opzione:** Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 15mila euro o trasferimento di fondi oltre 1.000 euro.
+**Distrattori:**
+- Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 15mila euro o trasferimento di fondi oltre 1 milione di euro.
+- Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 1.000 euro o trasferimento di fondi oltre 15mila euro.
+- Rapporto continuativo; operazione occasionale su mezzi di pagamento pari o superiore a 15mila euro, senza soglia autonoma per il trasferimento di fondi.
+
+**D:** ⚠️ La soglia del trasferimento di fondi è 1.000 euro o un milione?
+**R:** **1.000 euro**: la slide dice «o in un **trasferimento di fondi superiore a 1.000 euro**». Il transcript rende «superiore a **un milione**» — un errore di **tre ordini di grandezza**. **Fa testo la slide**: chi studia sul solo transcript memorizzerebbe una cifra che nei materiali non esiste.
+**Opzione:** 1.000 euro: la cifra del transcript è sbagliata di tre ordini di grandezza.
+**Distrattori:**
+- Un milione di euro: la cifra della slide è un refuso.
+- 15.000 euro, la stessa prevista per i mezzi di pagamento.
+- 100.000 euro, soglia intermedia fra le due indicate dalle fonti.
+
+**D:** ⚠️ Per quali soggetti le soglie della Banca d'Italia non si applicano, e con quale conseguenza?
+**R:** «Tali limiti **non si applicano**, quindi la **verifica è sempre obbligatoria**, nei confronti di **IP e IMEL tramite agenti in attività finanziaria o soggetti convenzionati**». ⚠️ È un'**inversione**, non un esonero: per quei soggetti la verifica scatta **anche sotto soglia**.
+**Opzione:** Per IP e IMEL che operano tramite agenti in attività finanziaria o soggetti convenzionati: per loro la verifica è sempre obbligatoria.
+**Distrattori:**
+- Per IP e IMEL che operano tramite agenti in attività finanziaria o soggetti convenzionati: per loro la verifica è dovuta solo sopra soglia.
+- Per gli intermediari bancari e finanziari con sede legale in Italia: per loro la verifica è sempre obbligatoria.
+- Per i clienti a basso rischio geografico: per loro la verifica è sostituita dagli obblighi semplificati.
+
+**D:** ⚠️ La soglia dei 15.000 euro compare due volte nel corso: con quali differenze?
+**R:** Alla **lezione 06** era della **III direttiva (2005/60/CE)**, con la formula «importo **pari o superiore** a 15000 EURO» per le **transazioni occasionali**. Qui è delle **Disposizioni della Banca d'Italia del 30 luglio 2019**, con la formula «**superiore a 15mila**» per la **trasmissione o movimentazione di mezzi di pagamento**. ⚠️ Stessa cifra, **fonte diversa** e **soglia di inclusione diversa** — «pari o superiore» include l'importo esatto, «superiore» no.
+**Opzione:** Nella III direttiva è «pari o superiore»; nelle disposizioni di Banca d'Italia è «superiore».
+**Distrattori:**
+- Nella III direttiva è «superiore»; nelle disposizioni di Banca d'Italia è «pari o superiore».
+- In entrambe è «pari o superiore»: cambia solo il tipo di operazione cui si applica.
+- Nella III direttiva è «pari o superiore»; nelle disposizioni di Banca d'Italia la soglia è invece di 1.000 euro.
+
+**D:** Come può avvenire l'identificazione del cliente nei rapporti a distanza?
+**R:** «A riprova dell'**impatto delle nuove tecnologie**, si prevede che nei casi di **rapporti a distanza** la verifica possa aver luogo l'identificazione del **cliente persona fisica** attraverso **sistemi di registrazione/identificazione audio/video a distanza**.» Il docente la chiama «un primo **rudimentale** esempio dell'utilizzo delle nuove tecnologie».
+**Opzione:** Attraverso sistemi di registrazione o identificazione audio e video a distanza, per il cliente persona fisica.
+**Distrattori:**
+- Attraverso sistemi di registrazione o identificazione audio e video a distanza, per qualunque cliente, persona fisica o giuridica.
+- Attraverso la sola trasmissione telematica di un documento d'identità in corso di validità.
+- Attraverso l'attestazione di un provider esterno che abbia già identificato il cliente.
+
+**D:** ⚠️ Quale tema apre il docente a proposito dell'identificazione a distanza, e come lo rende il transcript?
+**R:** Il tema dell'**identità digitale certificata** e in particolare dello **SPID**: «come faccio a essere sicuro di certificare che la persona che ho di fronte a me allo schermo sia **realmente quella che dice di essere**? […] Ecco allora tutte le tematiche **SPID**, le tematiche di **identità certificata, identità digitale**, e tutte quelle tematiche che sono **ancora in discussione**, cioè sulla **validità di questi strumenti**, la loro **sostituibilità rispetto alla presenza fisica**». ⚠️ Nel transcript l'ASR scrive «**speed**»: non è una parola inglese, è l'acronimo del **Sistema Pubblico di Identità Digitale**.
+**Opzione:** L'identità digitale certificata e lo SPID, con il dubbio aperto sulla loro sostituibilità rispetto alla presenza fisica.
+**Distrattori:**
+- La firma elettronica qualificata secondo il regolamento eIDAS, con il dubbio aperto sul suo valore probatorio.
+- L'identità digitale certificata e lo SPID, ormai pienamente equiparati dalla normativa alla presenza fisica.
+- L'onboarding tramite bonifico di importo simbolico da un conto già intestato al cliente.
+
+**D:** ⚠️ Quali sono i tre fattori di rischio ridotto che consentono gli obblighi semplificati di adeguata verifica?
+**R:** «**Fattori connessi al cliente, esecutore e titolare effettivo**; **fattori relativi a prodotti, servizi, operazioni o canali di distribuzione**; **fattori di basso rischio geografico**.» ⚠️ Il secondo fattore è un elenco di **quattro voci**, non una sola: il transcript lo tronca a «fattori relativi a prodotti».
+**Opzione:** Fattori connessi al cliente, esecutore e titolare effettivo; fattori relativi a prodotti, servizi, operazioni o canali di distribuzione; fattori di basso rischio geografico.
+**Distrattori:**
+- Fattori connessi al cliente, esecutore e titolare effettivo; fattori relativi ai soli prodotti; fattori di basso rischio geografico.
+- Fattori connessi al cliente, esecutore e titolare effettivo; fattori relativi a prodotti, servizi, operazioni o canali di distribuzione; fattori di basso rischio dimensionale del soggetto obbligato.
+- Fattori connessi al cliente e al titolare effettivo; fattori relativi a prodotti, servizi, operazioni o canali di distribuzione; fattori di basso rischio geografico e reputazionale.
+
+**D:** ⚠️ Nell'esecuzione dell'adeguata verifica da parte di soggetti terzi, chi può fare che cosa?
+**R:** La **Parte V** del provvedimento di Banca d'Italia «distingue quali soggetti siano titolati a effettuare **tutte le fasi** dell'adeguata verifica (**intermediari finanziari e bancari**) e quali invece possono **solamente effettuare l'identificazione del cliente, esecutore, titolare effettivo**». Il docente: gli altri settori «rimangono **inderogabilmente appannaggio del titolare del rapporto**».
+**Opzione:** Tutte le fasi solo agli intermediari finanziari e bancari; ai terzi la sola identificazione di cliente, esecutore e titolare effettivo.
+**Distrattori:**
+- Tutte le fasi anche ai provider terzi, purché iscritti in un apposito registro tenuto dall'OAM.
+- Tutte le fasi solo agli intermediari finanziari e bancari; ai terzi la sola conservazione dei documenti e delle informazioni.
+- Ai terzi tutte le fasi dell'adeguata verifica; agli intermediari finanziari e bancari la sola identificazione di cliente, esecutore e titolare effettivo.
+
+**D:** ⚠️ Quali parti del provvedimento di Banca d'Italia disciplinano criteri generali, obblighi semplificati ed esecuzione da parte di terzi?
+**R:** **Parte I** = criteri generali e casi di adeguata verifica obbligatoria; **Parte Terza** = **obblighi semplificati** di adeguata verifica; **Parte V** = **esecuzione da parte di soggetti terzi**. ⚠️ Quando un'opzione è una sola espressione senza predicato, la domanda non è *che cos'è* ma **dove sta**.
+**Opzione:** Parte I, Parte Terza e Parte V rispettivamente.
+**Distrattori:**
+- Parte I, Parte V e Parte Terza rispettivamente.
+- Parte Terza, Parte I e Parte V rispettivamente.
+- Parte I, Parte Seconda e Parte Terza rispettivamente.
+
+**D:** ⚠️ In caso di ricorso a soggetti terzi, quando si considerano soddisfatti gli obblighi di adeguata verifica, e che cosa resta in capo al destinatario?
+**R:** «Gli obblighi di adeguata verifica **si considerano soddisfatti a seguito del rilascio di idonea attestazione rilasciata dall'operatore che abbia provveduto ad adempierli**, **fermo restando che il destinatario rimane responsabile dell'adeguata verifica** e **valuta se gli elementi raccolti e le verifiche effettuate dal terzo siano aggiornati, idonei e sufficienti rispetto agli obblighi di legge**.» ⚠️ La responsabilità **non si delega**, e la valutazione ha **tre aggettivi**.
+**Opzione:** Con il rilascio di idonea attestazione dell'operatore; il destinatario resta comunque responsabile e valuta se gli elementi siano aggiornati, idonei e sufficienti.
+**Distrattori:**
+- Con il rilascio di idonea attestazione dell'operatore, che trasferisce su di esso la responsabilità dell'adeguata verifica.
+- Con il rilascio di idonea attestazione dell'operatore; il destinatario resta comunque responsabile e valuta se gli elementi siano completi, veritieri e tempestivi.
+- Solo dopo la convalida dell'attestazione da parte dell'UIF; il destinatario resta comunque responsabile dell'adeguata verifica.
+
+**D:** ⚠️ Come definisce il punto di contatto centrale l'art. 43?
+**R:** «**Un soggetto o la struttura designato dalle banche IMEL o IP comunitari che operano sul territorio della Repubblica in regime di diritto di stabilimento, senza succursale, tramite gli agenti di cui all'art. 128-*quater* TUB**», **diverso dagli agenti in attività finanziaria**. ⚠️ La qualificazione finale è essenziale: il PDC **non può coincidere** con l'agente.
+**Opzione:** Un soggetto o struttura designato dalle banche IMEL o IP comunitari operanti in regime di diritto di stabilimento senza succursale tramite gli agenti di cui all'art. 128-quater TUB, diverso dagli agenti in attività finanziaria.
+**Distrattori:**
+- Un soggetto o struttura designato dalle banche IMEL o IP comunitari operanti in regime di diritto di stabilimento senza succursale tramite gli agenti di cui all'art. 128-quater TUB, scelto fra gli agenti in attività finanziaria.
+- Un soggetto o struttura designato dalle banche IMEL o IP comunitari operanti in regime di libera prestazione di servizi tramite succursale, diverso dagli agenti in attività finanziaria.
+- Un soggetto o struttura designato dall'UIF presso le banche IMEL o IP comunitari operanti sul territorio della Repubblica, diverso dagli agenti in attività finanziaria.
+
+**D:** ⚠️ Che cosa fa il punto di contatto centrale con le segnalazioni che riceve?
+**R:** «Il PDC **esamina le segnalazioni pervenute** e, **qualora le ritenga fondate** alla luce dell'insieme degli elementi a propria disposizione e delle evidenze desumibili dai dati e dalle informazioni conservati, **le trasmette alla UIF prive del nominativo del segnalante**» (art. 36 c. 6). ⚠️ La coda sull'**anonimato del segnalante** sta **solo sulla slide**: il transcript si ferma a «le trasmette all'unità di informazione finanziaria».
+**Opzione:** Le esamina e, se le ritiene fondate, le trasmette alla UIF prive del nominativo del segnalante.
+**Distrattori:**
+- Le esamina e, se le ritiene fondate, le trasmette alla UIF complete del nominativo del segnalante.
+- Le trasmette tutte alla UIF, prive del nominativo del segnalante, senza alcuna valutazione di fondatezza.
+- Le esamina e, se le ritiene fondate, le trasmette alla Banca d'Italia prive del nominativo del segnalante.
+
+**D:** ⚠️ Quando è obbligatoria la nomina del punto di contatto centrale?
+**R:** Quando «(i) il **numero di sedi presenti nel territorio dello SM ospitante è superiore a 10**»; oppure «(ii) la **stima dell'importo di MEL distribuita e rimborsata** o il **valore cumulato delle operazioni di pagamento eseguite** sarà **superiore a euro 3 milioni nel corso dell'esercizio finanziario**». ⚠️ Le due soglie sono **alternative** e di natura diversa: un **numero di sedi** e un **importo**. Il conteggio delle sedi è nello **Stato membro ospitante**.
+**Opzione:** Con più di 10 sedi nello Stato membro ospitante, oppure con moneta elettronica distribuita e rimborsata o valore cumulato delle operazioni di pagamento oltre 3 milioni di euro nell'esercizio.
+**Distrattori:**
+- Con più di 10 sedi nello Stato membro d'origine, oppure con moneta elettronica distribuita e rimborsata o valore cumulato delle operazioni di pagamento oltre 3 milioni di euro nell'esercizio.
+- Con più di 3 sedi nello Stato membro ospitante, oppure con moneta elettronica distribuita e rimborsata o valore cumulato delle operazioni di pagamento oltre 10 milioni di euro nell'esercizio.
+- Con più di 10 sedi nello Stato membro ospitante e, congiuntamente, con valore cumulato delle operazioni di pagamento oltre 3 milioni di euro nell'esercizio.
+
+**D:** ⚠️ Di che cosa deve essere dotato il punto di contatto centrale, secondo la slide?
+**R:** Di «**risorse che siano quantitativamente e qualitativamente adeguate, per competenze tecnico-professionali e in termini finanziari, in relazione al compito da svolgere ed all'esposizione al rischio**»; e il destinatario dell'obbligo è tenuto ad «**attribuire il ruolo di responsabile del PDC ad una persona fisica in possesso dei requisiti previsti per il responsabile antiriciclaggio**». ⚠️ Sia l'«**esposizione al rischio**» sia il **responsabile persona fisica** stanno solo sulla slide.
+**Opzione:** Di risorse adeguate per competenze tecnico-professionali e in termini finanziari, in relazione al compito e all'esposizione al rischio; e di un responsabile persona fisica con i requisiti del responsabile antiriciclaggio.
+**Distrattori:**
+- Di risorse adeguate per competenze tecnico-professionali e in termini finanziari, in relazione al solo compito da svolgere; e di un responsabile persona fisica con i requisiti del responsabile antiriciclaggio.
+- Di risorse adeguate per competenze tecnico-professionali e in termini finanziari, in relazione al compito e all'esposizione al rischio; e di un responsabile che può essere anche una persona giuridica.
+- Di risorse adeguate stabilite dall'UIF caso per caso; e di un responsabile persona fisica con i requisiti del responsabile antiriciclaggio.
+
+**D:** ⚠️ Quali cinque funzioni devono consentire le procedure informatiche del punto di contatto centrale?
+**R:** «(i) la **trasmissione delle comunicazioni da parte di soggetti convenzionati e agenti** di cui all'**art. 44 c.1** Decreto; (ii) lo **svolgimento di attività di adeguata verifica della clientela**, **ove tale compito sia assolto per il tramite del PDC**; (iii) la **conservazione dei documenti, dati e delle informazioni**; (iv) **controllo a distanza e monitoraggio delle operazioni effettuate** presso i soggetti convenzionati o agenti operativi in Italia; (v) la **trasmissione alle autorità competenti di dati, comunicazioni o informazioni periodiche o a evento**.» ⚠️ La clausola «ove tale compito sia assolto per il tramite del PDC» rende la voce (ii) **eventuale**, non automatica.
+**Opzione:** Trasmissione delle comunicazioni da soggetti convenzionati e agenti; adeguata verifica, ove assolta tramite il PDC; conservazione di documenti, dati e informazioni; controllo a distanza e monitoraggio delle operazioni; trasmissione alle autorità competenti di dati e informazioni periodiche o a evento.
+**Distrattori:**
+- Trasmissione delle comunicazioni da soggetti convenzionati e agenti; adeguata verifica, in ogni caso e obbligatoriamente tramite il PDC; conservazione di documenti, dati e informazioni; controllo a distanza e monitoraggio delle operazioni; trasmissione alle autorità competenti di dati e informazioni periodiche o a evento.
+- Trasmissione delle comunicazioni da soggetti convenzionati e agenti; adeguata verifica, ove assolta tramite il PDC; conservazione di documenti, dati e informazioni; controllo a distanza e monitoraggio delle operazioni; segnalazione diretta delle operazioni sospette alla guardia di finanza.
+- Trasmissione delle comunicazioni da soggetti convenzionati e agenti; adeguata verifica, ove assolta tramite il PDC; conservazione di documenti, dati e informazioni; blocco automatico delle operazioni anomale; trasmissione alle autorità competenti di dati e informazioni periodiche o a evento.
+
+**D:** ⚠️ Quali fattori di rischio indica il Direttore dell'UIF, e quale risposta chiede ai decisori pubblici?
+**R:** I fattori sono «l'affermarsi di **tecnologie per lo spostamento di risorse online, in modo istantaneo, operando a distanza**, anche attraverso **operatori e piattaforme stabiliti in Paesi diversi da quello in cui si trova l'utente** e con **strumenti che agevolano l'anonimato**». La risposta richiesta è duplice: «**risposte avanzate e lungimiranti** che, **senza pregiudicare l'innovazione**, evitino **pericolose falle nel sistema** e contrastino i rischi di **infiltrazione criminale** e di **facili arbitraggi regolamentari**».
+**Opzione:** Istantaneità e operatività a distanza, piattaforme stabilite in Paesi diversi da quello dell'utente, strumenti che agevolano l'anonimato; e risposte avanzate e lungimiranti che senza pregiudicare l'innovazione evitino falle e arbitraggi regolamentari.
+**Distrattori:**
+- Istantaneità e operatività a distanza, piattaforme stabilite in Paesi diversi da quello dell'utente, strumenti che agevolano l'anonimato; e un divieto generalizzato di operatività transfrontaliera per le piattaforme non vigilate.
+- Volatilità dei corsi, assenza di un emittente identificabile, strumenti che agevolano l'anonimato; e risposte avanzate e lungimiranti che senza pregiudicare l'innovazione evitino falle e arbitraggi regolamentari.
+- Istantaneità e operatività a distanza, piattaforme stabilite in Paesi diversi da quello dell'utente, strumenti che agevolano l'anonimato; e l'estensione agli operatori in valuta virtuale delle sole regole di trasparenza già vigenti.
+
+**D:** ⚠️ Quale conclusione trae la slide sulla citazione del Direttore dell'UIF?
+**R:** «Si rende quindi necessario valutare un **intervento più ampio e incisivo per gli operatori in valuta virtuale**.» Il docente la commenta con l'immagine del «***far west***»: «fintech come **opportunità**, ma fintech anche come **strada da valutare con attenzione per evitare un far west**, un far west fatto di criminali», in un mondo «**non solo meno sorvegliato per ora, ma soprattutto poco conosciuto**», dove vale «il principio del **regolatore che rincorre la nuova tecnologia**».
+**Opzione:** Che si rende necessario valutare un intervento più ampio e incisivo per gli operatori in valuta virtuale.
+**Distrattori:**
+- Che si rende necessario vietare agli operatori in valuta virtuale l'accesso al mercato dei pagamenti europeo.
+- Che si rende necessario estendere agli operatori in valuta virtuale il regime della sandbox regolamentare.
+- Che si rende necessario affidare all'ESMA la vigilanza diretta sugli operatori in valuta virtuale.
+
+**D:** Che cos'è l'UIF, secondo la definizione data dal docente?
+**R:** «Il **dipartimento della Banca d'Italia preposto a ricevere le segnalazioni antiriciclaggio**». ⚠️ La definizione sta **solo nel transcript**: le slide la nominano ma non la definiscono.
+**Opzione:** Il dipartimento della Banca d'Italia preposto a ricevere le segnalazioni antiriciclaggio.
+**Distrattori:**
+- Un'autorità amministrativa indipendente, distinta dalla Banca d'Italia, preposta a ricevere le segnalazioni antiriciclaggio.
+- Il nucleo speciale della guardia di finanza preposto a ricevere le segnalazioni antiriciclaggio.
+- Il dipartimento della Consob preposto a ricevere le segnalazioni antiriciclaggio.
+
+**D:** ⚠️ Perché, secondo il docente, all'UIF arrivano segnalazioni che non sono nemmeno sospette?
+**R:** Perché chi riceve le segnalazioni risponde con **sanzioni penali e amministrative non indifferenti** se la segnalazione manca, e «la normativa chiaramente dice che **nel dubbio segnala**»: l'atteggiamento più probabile diventa «quello di **segnalare anche tutte quelle segnalazioni che in realtà non rappresentavano un elemento di sospetto**». ⚠️ Ed è un **costo**, non un merito: «questo **non è il *desiderata* della regolamentazione**, perché porta a un **rallentamento della scrematura, dell'individuazione delle reali operazioni sospette**». Sul lato cliente produce «un **irrigidimento del rapporto cliente-intermediario**» e informazioni «**costanti, continue e a volte anche invasive**».
+
+**D:** ⚠️ Quale critica muove il docente al *risk based approach* così come attuato dal decreto?
+**R:** Che il principio, pur essendo «il **principio cardine della nuova normativa**», «viene **molto sfumato**» dall'obbligo di punto di contatto centrale imposto anche agli **agenti che operano in Italia per conto di soggetti comunitari**: comporta «uno **sborso di soldi maggiore**», perché va pagato «qualcuno che si prenda questa responsabilità», «una responsabilità **che possa diventare anche penale**». La sua alternativa: che «in alcune **forme snelle** come in questo caso, la **responsabilità rimanesse in capo al soggetto del quartier generale piuttosto che all'agente**».
+
+**D:** Come definisce l'art. 106 del Codice delle Assicurazioni private l'attività di distribuzione assicurativa?
+**R:** «Consiste nel **porre prodotti assicurativi e riassicurativi** o nel **prestare assistenza e consulenza** o **compiere atti relativi alla conclusione di tali contratti** o nella **conclusione di tali contratti**, ovvero nella **collaborazione alla gestione o all'esecuzione, segnatamente in caso di sinistri, dei contratti stipulati**.»
+**Opzione:** Porre prodotti assicurativi e riassicurativi, prestare assistenza e consulenza, compiere atti relativi alla conclusione dei contratti o concluderli, collaborare alla gestione o all'esecuzione, segnatamente in caso di sinistri.
+**Distrattori:**
+- Porre prodotti assicurativi e riassicurativi, prestare assistenza e consulenza, compiere atti relativi alla conclusione dei contratti o concluderli, e liquidare i sinistri per conto dell'impresa di assicurazione.
+- Porre prodotti assicurativi e riassicurativi e concludere i relativi contratti, con esclusione dell'assistenza e della consulenza, che restano riservate all'impresa di assicurazione.
+- Prestare assistenza e consulenza sui prodotti assicurativi e riassicurativi, collaborare alla gestione o all'esecuzione dei contratti stipulati, e gestire i registri degli intermediari.
+
+**D:** ⚠️ A quale condizione la fornitura di informazioni online su contratti di assicurazione rientra nella distribuzione assicurativa?
+**R:** «Rientra nell'attività di distribuzione assicurativa la **fornitura, tramite sito internet o altri mezzi, di informazioni relativamente a uno o più contratti di assicurazione, anche confrontati o ordinati**, sulla base di criteri eventualmente scelti dal cliente in termini di premi ed eventuali sconti applicati o di ulteriori caratteristiche del contratto, **se il cliente è in grado di concludere direttamente o indirettamente lo stesso**.» ⚠️ È il «se» finale a far entrare i **comparatori** nella distribuzione: sopprimerlo, o sostituirlo con un «sempre», è il distrattore naturale su questa slide.
+**Opzione:** Se il cliente è in grado di concludere direttamente o indirettamente il contratto.
+**Distrattori:**
+- Sempre, per il solo fatto che le informazioni siano fornite tramite sito internet o altri mezzi.
+- Se il confronto fra i contratti avviene sulla base di criteri scelti dall'intermediario e non dal cliente.
+- Se il sito è gestito da un intermediario iscritto nel registro unico degli intermediari assicurativi.
+
+**D:** Che cos'è l'InsurTech, nella definizione della slide?
+**R:** «Il termine ***insurtech*** è un **neologismo mutuato dal mondo Fintech** e deriva dall'unione di ***insurance* e *technology***. È un **insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia dei prodotti assicurativi**.»
+**Opzione:** Un neologismo mutuato dal mondo Fintech, dall'unione di insurance e technology: un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia dei prodotti assicurativi.
+**Distrattori:**
+- Un neologismo mutuato dal mondo Fintech, dall'unione di insurance e technology: un insieme di tecnologie e strumenti atti a ridurre il costo dei premi assicurativi per il consumatore.
+- Un neologismo mutuato dal mondo Fintech, dall'unione di insurance e technology: l'insieme delle imprese assicurative che distribuiscono i propri prodotti esclusivamente online.
+- Un neologismo di conio autonomo, indipendente dal Fintech: un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia dei prodotti assicurativi.
+
+**D:** ⚠️ Con quale atto è recepita in Italia la Direttiva IDD, e quali obiettivi le attribuisce la slide?
+**R:** «**Direttiva IDD recepita in italia con il D.lgs n. 68/2018**: **Introduzione di sistemi più ampi ed efficaci di gestione dei registri e di vigilanza sulle imprese e sugli intermediari. Innalzamento del livello di tutela del consumatore.**» ⚠️ Sia il **numero del decreto** sia il secondo obiettivo stanno **solo sulla slide**: il docente cita soltanto «la direttiva sulla distribuzione dei prodotti assicurativi del 2018».
+**Opzione:** D.lgs n. 68/2018; sistemi più ampi ed efficaci di gestione dei registri e di vigilanza su imprese e intermediari, e innalzamento del livello di tutela del consumatore.
+**Distrattori:**
+- D.lgs n. 68/2018; sistemi più ampi ed efficaci di gestione dei registri e di vigilanza su imprese e intermediari, e armonizzazione massima delle discipline nazionali.
+- D.lgs n. 125/2019; sistemi più ampi ed efficaci di gestione dei registri e di vigilanza su imprese e intermediari, e innalzamento del livello di tutela del consumatore.
+- D.lgs n. 68/2018; introduzione dell'obbligo di distribuzione esclusivamente tramite intermediari iscritti, e innalzamento del livello di tutela del consumatore.
+
+**D:** ⚠️ Che cosa disciplina la Direttiva IDD, secondo l'elenco della slide?
+**R:** Quattro cose: «**disciplina il modo in cui i prodotti assicurativi sono concepiti e venduti sia dagli intermediari assicurativi che direttamente dalle imprese di assicurazione**»; «**delinea informazioni che devono essere fornite al cliente prima della sottoscrizione di un contratto di assicurazione**, imponendo **norme di comportamento e trasparenza ai distributori**»; «**chiarisce le procedure e le norme per le attività transfrontaliere**»; «contiene **norme di vigilanza e sanzioni per i distributori in caso di violazione della direttiva**».
+**Opzione:** Come i prodotti sono concepiti e venduti, da intermediari e direttamente dalle imprese; le informazioni pre-contrattuali, con norme di comportamento e trasparenza; le procedure per le attività transfrontaliere; le norme di vigilanza e le sanzioni per i distributori.
+**Distrattori:**
+- Come i prodotti sono concepiti e venduti dai soli intermediari assicurativi; le informazioni pre-contrattuali, con norme di comportamento e trasparenza; le procedure per le attività transfrontaliere; le norme di vigilanza e le sanzioni per i distributori.
+- Come i prodotti sono concepiti e venduti, da intermediari e direttamente dalle imprese; le informazioni da fornire al cliente dopo la sottoscrizione del contratto; le procedure per le attività transfrontaliere; le norme di vigilanza e le sanzioni per i distributori.
+- Come i prodotti sono concepiti e venduti, da intermediari e direttamente dalle imprese; le informazioni pre-contrattuali, con norme di comportamento e trasparenza; i requisiti patrimoniali delle imprese di assicurazione; le norme di vigilanza e le sanzioni per i distributori.
+
+**D:** Che effetto attribuisce il docente all'impianto sanzionatorio antiriciclaggio sul rapporto con la clientela, e come lo corregge subito dopo?
+**R:** L'effetto è «una **burocratizzazione, un rallentamento del processo di *onboarding* dei clienti**», perché l'istituto «sarà molto attento ai controlli che deve fare, perché sa che le **sanzioni sono molto alte**»: «il che è un bene, perché **minimizza le possibilità di errore**, ma ricordiamoci che noi guardiamo sempre anche l'**altro versante**, il versante del **business puro**». La correzione arriva subito: «in realtà **non è così vero** quello che vi sto dicendo di un rallentamento, perché noi stiamo parlando di **fintech**, e chissà che […] voi non scopriate che il fintech **inizia ad ovviare ad alcuni di questi problemi velocizzando, e anche di molto**» — avvicinandosi al «**sogno di ogni regolatore**: avere un **impianto normativo e un business che sia facilitato dall'impianto normativo efficace**».
+
+**D:** Quali sono i takeaway con cui il docente chiude la lezione?
+**R:** Cinque. 1) La normativa antiriciclaggio recente ha mirato a «**tracciare i flussi finanziari che si muovevano sulla rete**». 2) **Costante aumento degli obblighi di adeguata verifica**, che impongono all'intermediario «di essere **certo della provenienza dei fondi**». 3) **Inasprimento delle pene**, **chiarimento dei casi di mitigazione** e **sdoganamento di sistemi di verifica più tecnologici** (video, audio, SPID, certificazioni online), con il **proliferare di provider esterni** che la Banca d'Italia ha però limitato a «**solo un pezzo** dell'adeguata verifica». 4) Il **PDC**, funzione «piuttosto **impegnativa**» per strutture «molto snelle per definizione», la cui **responsabilità elevata** genera segnalazioni all'UIF «che probabilmente **non sono nemmeno sospette**». 5) Il **sentimento comune** di dover rendere la normativa «più **personalizzata**» per le nuove tecnologie e «più **coinvolgente** le varie realtà virtuali»; e l'**InsurTech**, «derivazione del fintech», che con **CAP** e **IDD** cerca un ***framework*** per un'offerta online «immediata, veloce e snella» ma difesa «da tutti i rischi che questo comporta da un punto di vista di riciclaggio».
