@@ -1508,3 +1508,283 @@
 
 **D:** Con quale osservazione il docente chiude la lezione sulla sandbox?
 **R:** Che i paesi che l'hanno adottata «hanno comunque dato **un segnale forte al mercato**, ed è il segnale del: *stiamo creando delle previsioni ad hoc per le società che ci dimostrano di essere innovative*. Questo porta inevitabilmente a un **cambio culturale**: anche l'approccio del regolatore è un approccio che si sta **lentamente ma certamente trasformando e diventando più accogliente**». Sul rischio per i clienti ridimensiona: trattandosi di soggetti con **AuM sotto una certa soglia**, il rischio «è **ridottissimo, ma è pur sempre presente**».
+
+## Lezione 06 — Fintech, crypto finanza e reati finanziari (1)
+
+**D:** Qual è l'unica voce dell'agenda della lezione 06?
+**R:** «Il pacchetto normativo in materia di antiriciclaggio». Tutta la lezione è la ricostruzione storica delle direttive AML, e serve da base per la parte sulla crypto finanza: «prima di addentrarci nella specificità, nella tipicità della cripto finanza bisogna fare alcune riflessioni sulle direttive in materia di antiriciclaggio».
+**Opzione:** Il pacchetto normativo in materia di antiriciclaggio.
+**Distrattori:**
+- Il pacchetto normativo in materia di abuso di mercato.
+- I reati finanziari commessi mediante criptovalute.
+- Il pacchetto normativo in materia di antiriciclaggio e la vigilanza della Consob sui crypto-exchange.
+
+**D:** ⚠️ Quante direttive antiriciclaggio dice di comprendere il pacchetto normativo secondo la formula della slide, e quante ne elenca in realtà il deck?
+**R:** La slide dice «il pacchetto normativo sulla regolamentazione dei servizi finanziari comprende **quattro** direttive in materia di antiriciclaggio», ma poi il deck ne descrive **cinque** (I, II, III, IV e V). Il docente ripete il numero della slide — «comprende quattro direttive sostanzialmente» — e aggiunge che «in realtà il quadro è un po' più complesso di queste quattro direttive», perché «le altre sono più dei raffinamenti di qualcosa che c'era già prima». La citazione letterale resta «quattro»; le direttive studiate sono cinque.
+**Opzione:** La slide dice «quattro», ma il deck ne descrive cinque.
+**Distrattori:**
+- La slide dice «cinque» e il deck ne descrive cinque: non c'è alcuna discrepanza.
+- La slide dice «quattro» e il deck ne descrive quattro: la quinta è solo nel transcript.
+- La slide dice «tre», e la quarta e la quinta sono aggiunte dal docente a voce.
+
+**D:** Quali sono numero e data della prima direttiva antiriciclaggio?
+**R:** «I Direttiva 91/308/CEE 10 giugno 1991», detta anche «prima direttiva "antiriciclaggio"», relativa alla prevenzione d'uso del sistema finanziario a scopo di riciclaggio dei proventi di attività illecite.
+**Opzione:** Direttiva 91/308/CEE del 10 giugno 1991.
+**Distrattori:**
+- Direttiva 91/308/CEE del 10 dicembre 1991.
+- Direttiva 91/380/CEE del 10 giugno 1991.
+- Direttiva 91/308/CE del 4 dicembre 1991.
+
+**D:** ⚠️ Quale ruolo affida la prima direttiva antiriciclaggio al sistema finanziario, e a chi lo affida?
+**R:** «Si è inteso **affidare al sistema finanziario (alle banche ed agli intermediari finanziari) un ruolo di prevenzione del crimine attraverso il compito di esaminare le transazioni finanziarie**». I destinatari sono quindi **banche e intermediari finanziari**, e il compito è **esaminare le transazioni**: non segnalarle, non bloccarle.
+**Opzione:** Alle banche e agli intermediari finanziari, un ruolo di prevenzione del crimine attraverso il compito di esaminare le transazioni finanziarie.
+**Distrattori:**
+- Alle banche e agli intermediari finanziari, un ruolo di prevenzione del crimine attraverso il compito di bloccare le transazioni finanziarie sospette.
+- Alle autorità di vigilanza nazionali, un ruolo di prevenzione del crimine attraverso il compito di esaminare le transazioni finanziarie.
+- Alle banche e agli intermediari finanziari, un ruolo di repressione del crimine attraverso il compito di segnalare all'autorità giudiziaria le transazioni finanziarie.
+
+**D:** Che cosa aggiunge la seconda direttiva antiriciclaggio rispetto alla prima?
+**R:** «II Direttiva 2001/97/CE 4 dicembre 2001: recante **modifica della direttiva 91/308/CEE** […] **obbliga gli Stati membri all'adozione di un più elevato standard di prescrizioni nel sistema finanziario**». ⚠️ Non aggiunge un oggetto nuovo — resta il «riciclaggio dei proventi di attività illecite» — ma alza il **livello** delle prescrizioni. Il finanziamento del terrorismo entra solo con la terza.
+**Opzione:** Modifica la prima direttiva e obbliga gli Stati membri ad adottare un più elevato standard di prescrizioni nel sistema finanziario.
+**Distrattori:**
+- Modifica la prima direttiva ed estende l'ambito di applicazione al finanziamento del terrorismo.
+- Modifica la prima direttiva e obbliga gli Stati membri ad adottare uno standard di prescrizioni uniforme, che non può essere né alleggerito né aggravato.
+- Abroga la prima direttiva e introduce l'obbligo di adeguata verifica della clientela per le transazioni occasionali.
+
+**D:** Quali sono numero, anno e oggetto della terza direttiva antiriciclaggio?
+**R:** «III Direttiva 2005/60/CE: sulla prevenzione dell'uso del sistema finanziario per finalità di riciclaggio di denaro, **incluso il finanziamento del terrorismo**». Oltre a recepire l'impianto delle due precedenti, «estende l'ambito di applicazione della normativa antiriciclaggio **anche al finanziamento delle attività terroristiche**».
+**Opzione:** Direttiva 2005/60/CE, che estende l'ambito di applicazione anche al finanziamento delle attività terroristiche.
+**Distrattori:**
+- Direttiva 2005/60/CE, che estende l'ambito di applicazione anche ai prestatori di servizi di portafoglio digitale.
+- Direttiva 2006/50/CE, che estende l'ambito di applicazione anche al finanziamento delle attività terroristiche.
+- Direttiva 2005/60/CE, che restringe l'ambito di applicazione alle sole operazioni transfrontaliere di importo rilevante.
+
+**D:** ⚠️ Come sono strutturati gli obblighi di identificazione previsti dalla terza direttiva antiriciclaggio?
+**R:** Su **tre livelli**: 1) le **disposizioni di carattere generale** che si applicano alla verifica della clientela nei quattro casi a)–d); 2) l'**identificazione semplificata** («obblighi semplificati di adeguata verifica della clientela») in presenza di **operazioni che presentano basso rischio**; 3) la previsione di un **obbligo di diligenza «rafforzato»** («obblighi rafforzati di adeguata verifica della clientela») in presenza di **operazioni transfrontaliere** o di **soggetti politicamente esposti**. ⚠️ La struttura è **4 + 1 + 1**, non un elenco di sei voci: i casi a)–d) stanno tutti dentro il primo livello.
+**Opzione:** Tre livelli: disposizioni generali (nei quattro casi a–d), identificazione semplificata per il basso rischio, obbligo di diligenza rafforzato per operazioni transfrontaliere e soggetti politicamente esposti.
+**Distrattori:**
+- Tre livelli: disposizioni generali (nei quattro casi a–d), identificazione semplificata per il basso rischio, obbligo di diligenza rafforzato per le sole operazioni con paesi terzi non aderenti al GAFI.
+- Sei casi autonomi, di pari grado: i quattro casi a–d, l'identificazione semplificata e l'obbligo di diligenza rafforzato.
+- Due livelli: disposizioni generali nei quattro casi a–d e obbligo di diligenza rafforzato per operazioni transfrontaliere e soggetti politicamente esposti.
+
+**D:** ⚠️ Quali sono i quattro casi in cui la terza direttiva applica le disposizioni generali di verifica della clientela?
+**R:** «a) quando **instaurano rapporti d'affari**; b) quando **eseguono transazioni occasionali** il cui importo sia **pari o superiore a 15000 EURO**, indipendentemente dal fatto che siano effettuate con un'operazione unica o con diverse operazioni che appaiono collegate; c) quando vi è **sospetto di riciclaggio o di finanziamento del terrorismo**, indipendentemente da qualsiasi deroga, esenzione o soglia applicabile; d) quando vi sono **dubbi sulla veridicità o sull'adeguatezza dei dati precedentemente ottenuti** ai fini dell'identificazione di un cliente.»
+**Opzione:** Instaurazione di rapporti d'affari; transazioni occasionali pari o superiori a 15000 euro; sospetto di riciclaggio o finanziamento del terrorismo; dubbi sulla veridicità o adeguatezza dei dati già ottenuti.
+**Distrattori:**
+- Instaurazione di rapporti d'affari; transazioni occasionali pari o superiori a 15000 euro; sospetto di riciclaggio o finanziamento del terrorismo; operazioni con soggetti politicamente esposti.
+- Instaurazione di rapporti d'affari; transazioni occasionali superiori a 15000 euro; sospetto di riciclaggio o finanziamento del terrorismo; dubbi sull'identità del titolare effettivo.
+- Apertura di un conto corrente; transazioni occasionali pari o superiori a 15000 euro; sospetto di riciclaggio o finanziamento del terrorismo; dubbi sulla veridicità o adeguatezza dei dati già ottenuti.
+
+**D:** ⚠️ Qual è la soglia della lettera b) e come è formulata esattamente?
+**R:** «Transazioni occasionali il cui importo sia **pari o superiore a 15000 EURO**». ⚠️ Due punti d'attenzione: la formula è **pari o superiore**, non «superiore»; e la soglia appartiene **alla sola lettera b)**. Nelle lettere a), c) e d) non c'è alcuna soglia — anzi la lettera c) esiste proprio per **superare** ogni soglia in presenza di sospetto: «indipendentemente da qualsiasi deroga, esenzione o soglia applicabile».
+**Opzione:** Importo pari o superiore a 15000 euro, e vale soltanto per le transazioni occasionali della lettera b).
+**Distrattori:**
+- Importo superiore a 15000 euro, e vale soltanto per le transazioni occasionali della lettera b).
+- Importo pari o superiore a 15000 euro, e vale per tutti e quattro i casi in cui scatta la verifica della clientela.
+- Importo pari o superiore a 50000 euro, e vale soltanto per le transazioni occasionali della lettera b).
+
+**D:** ⚠️ Le lettere b) e c) contengono entrambe un «indipendentemente»: che cosa rendono indifferente, rispettivamente?
+**R:** Sono **due clausole distinte, non una ripetuta**. Alla lettera **b)** l'indifferenza è al **frazionamento** dell'operazione: «indipendentemente dal fatto che siano effettuate con **un'operazione unica o con diverse operazioni che appaiono collegate**». Alla lettera **c)** l'indifferenza è a **deroghe, esenzioni e soglie**: «indipendentemente da **qualsiasi deroga, esenzione o soglia applicabile**».
+**Opzione:** La b) al frazionamento dell'operazione (unica o più operazioni collegate); la c) a qualsiasi deroga, esenzione o soglia applicabile.
+**Distrattori:**
+- La b) a qualsiasi deroga, esenzione o soglia applicabile; la c) al frazionamento dell'operazione (unica o più operazioni collegate).
+- La b) al frazionamento dell'operazione; la c) alla residenza del cliente in un paese terzo a fiscalità privilegiata.
+- Entrambe al frazionamento dell'operazione, che può essere unica o suddivisa in più operazioni collegate.
+
+**D:** In presenza di quali operazioni la terza direttiva prevede l'identificazione semplificata?
+**R:** «Un'ipotesi di identificazione semplificata (**obblighi semplificati di adeguata verifica della clientela**) in presenza di **operazioni che presentano basso rischio**».
+**Opzione:** In presenza di operazioni che presentano basso rischio.
+**Distrattori:**
+- In presenza di operazioni di importo inferiore a 15000 euro.
+- In presenza di operazioni con clienti già identificati da almeno cinque anni.
+- In presenza di operazioni interne, non transfrontaliere.
+
+**D:** ⚠️ Quali sono i due presupposti dell'obbligo di diligenza «rafforzato»?
+**R:** «La previsione di un obbligo di diligenza "rafforzato" (**obblighi rafforzati di adeguata verifica della clientela**) in presenza di **operazioni transfrontaliere** o in presenza di **soggetti politicamente esposti**». ⚠️ I due presupposti sono di natura diversa: uno è **oggettivo** (il tipo di operazione), l'altro è **soggettivo** (chi è il cliente); e sono in alternativa, non cumulativi.
+**Opzione:** Operazioni transfrontaliere oppure soggetti politicamente esposti.
+**Distrattori:**
+- Operazioni transfrontaliere effettuate da soggetti politicamente esposti.
+- Operazioni di importo pari o superiore a 15000 euro oppure soggetti politicamente esposti.
+- Operazioni transfrontaliere oppure soggetti residenti in paesi non aderenti al GAFI.
+
+**D:** Quali sono numero e recepimento italiano della quarta direttiva antiriciclaggio?
+**R:** «IV Direttiva UE 2015/849: **Recepita in Italia con D.lgs n. 90/2017**». ⚠️ Il decreto di recepimento sta **solo sulla slide**: il docente dice a voce soltanto «la quarta direttiva che è stata recepita in Italia nel 2017».
+**Opzione:** Direttiva UE 2015/849, recepita in Italia con D.lgs n. 90/2017.
+**Distrattori:**
+- Direttiva UE 2015/849, recepita in Italia con D.lgs n. 125/2019.
+- Direttiva UE 2018/843, recepita in Italia con D.lgs n. 90/2017.
+- Direttiva UE 2015/849, recepita in Italia con D.lgs n. 90/2015.
+
+**D:** ⚠️ Su quale principio si basano le disposizioni della quarta direttiva, e in che direzione opera?
+**R:** Sul principio di **armonizzazione minima**: «i vincoli imposti **non possono essere alleggeriti ma solo aggravati dai MS**». ⚠️ Fissa un **pavimento**, non un tetto: lo Stato membro può essere **più severo**, mai **meno**. Non va confusa con l'armonizzazione *massima*, che impedirebbe sia di alleggerire sia di aggravare.
+**Opzione:** Armonizzazione minima: i vincoli imposti non possono essere alleggeriti ma solo aggravati dagli Stati membri.
+**Distrattori:**
+- Armonizzazione minima: i vincoli imposti non possono essere aggravati ma solo alleggeriti dagli Stati membri.
+- Armonizzazione massima: i vincoli imposti non possono essere né alleggeriti né aggravati dagli Stati membri.
+- Armonizzazione minima: i vincoli imposti possono essere alleggeriti o aggravati dagli Stati membri a seconda del rischio del mercato nazionale.
+
+**D:** Che cosa devono fare i destinatari della disciplina secondo la quarta direttiva?
+**R:** «I destinatari della disciplina devono **identificare e valutare i rischi di riciclaggio e finanziamento al terrorismo secondo l'esercizio delle attività finanziarie e professionali** (*risk based approach*)».
+**Opzione:** Identificare e valutare i rischi di riciclaggio e finanziamento al terrorismo secondo l'esercizio delle attività finanziarie e professionali.
+**Distrattori:**
+- Identificare e segnalare all'autorità di vigilanza i rischi di riciclaggio e finanziamento al terrorismo secondo l'esercizio delle attività finanziarie e professionali.
+- Identificare e valutare i rischi di riciclaggio e finanziamento al terrorismo secondo criteri uniformi stabiliti dalla Commissione europea.
+- Identificare e valutare i rischi di riciclaggio e finanziamento al terrorismo relativi alle sole operazioni transfrontaliere.
+
+**D:** Che cos'è il *risk-based approach*, nella formula del docente?
+**R:** «Un approccio **proporzionale e basato sul rischio effettivo che l'operazione o il soggetto pongono nel caso specifico**».
+**Opzione:** Un approccio proporzionale e basato sul rischio effettivo che l'operazione o il soggetto pongono nel caso specifico.
+**Distrattori:**
+- Un approccio uniforme, che applica a tutte le operazioni e a tutti i soggetti lo stesso livello di verifica.
+- Un approccio proporzionale e basato sul rischio medio del settore in cui il soggetto obbligato opera.
+- Un approccio proporzionale e basato sull'importo dell'operazione, indipendentemente dalle caratteristiche del soggetto.
+
+**D:** ⚠️ A quale direttiva è associato il *risk based approach* sulle slide, e a quale nel transcript?
+**R:** Sulle slide la formula compare **stampata solo accanto alla IV direttiva** (fra parentesi, in chiusura della definizione dei destinatari). Nel transcript il docente lo **introduce** però già commentando la **III** direttiva — «si introduce cioè quello che è comunemente conosciuto e definito come il *risk-based approach*» — e poi lo richiama sulla IV con un «vedete, risk based approach». Fa testo la slide: è della **IV**.
+**Opzione:** Sulle slide alla IV direttiva; nel transcript il docente lo introduce già commentando la III.
+**Distrattori:**
+- Sulle slide alla III direttiva; nel transcript il docente lo introduce solo con la IV.
+- Alla IV direttiva in entrambe le fonti: non c'è alcuna divergenza.
+- Sulle slide alla V direttiva; nel transcript il docente lo introduce già commentando la IV.
+
+**D:** ⚠️ Quali sono i due vantaggi del *risk-based approach* secondo il docente?
+**R:** «Il primo vantaggio è di **non onerare eccessivamente i soggetti che presentano un basso rischio** con richieste di esibizione di documenti, analisi finanziarie e storiche. Dall'altro quello di creare una **maggior attenzione, un maggior focus su quei soggetti o su quelle transazioni che presentano elementi di anomalia o di sospetto**». ⚠️ Sono le due facce della stessa proporzionalità: *meno* dove il rischio è basso, *più* dove è alto. Il contenuto è **solo nel transcript**.
+**Opzione:** Non onerare eccessivamente i soggetti a basso rischio, e concentrare l'attenzione sui soggetti e sulle transazioni che presentano anomalie o sospetti.
+**Distrattori:**
+- Alleggerire gli oneri documentali per tutti i soggetti obbligati, e ridurre i costi di compliance delle startup innovative.
+- Non onerare eccessivamente i soggetti a basso rischio, e uniformare i controlli su tutte le transazioni superiori alla soglia di legge.
+- Concentrare l'attenzione sui soggetti che presentano anomalie, e affidare alle autorità di vigilanza la verifica diretta dei soggetti a basso rischio.
+
+**D:** ⚠️ Quali soggetti entrano nel perimetro dei soggetti obbligati con la quarta direttiva?
+**R:** «L'estensione del perimetro dei soggetti obbligati che include anche le **SICAF**, gli **intermediari bancari e finanziari aventi sede legale in un altro Stato Membro che operano in Italia in regime di libera prestazione di servizi** e i **prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale e viceversa**».
+**Opzione:** Le SICAF, gli intermediari bancari e finanziari con sede legale in altro Stato membro operanti in Italia in libera prestazione di servizi, e i prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale e viceversa.
+**Distrattori:**
+- Le SICAF, gli intermediari bancari e finanziari con sede legale in altro Stato membro operanti in Italia in libera prestazione di servizi, e i prestatori di servizi di portafoglio digitale.
+- Le SICAV, gli intermediari bancari e finanziari con sede legale in altro Stato membro operanti in Italia tramite stabile organizzazione, e i prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale e viceversa.
+- Le SICAF, i galleristi e gli antiquari, e i prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale e viceversa.
+
+**D:** Su quali soggetti la quarta direttiva pone gli obblighi di autovalutazione dei rischi?
+**R:** «Gli obblighi di autovalutazione dei rischi da parte di **enti creditizi e società fiduciarie**».
+**Opzione:** Enti creditizi e società fiduciarie.
+**Distrattori:**
+- Enti creditizi e società di gestione del risparmio.
+- Enti creditizi, società fiduciarie e prestatori di servizi di portafoglio digitale.
+- Tutti i soggetti obbligati, senza distinzione di categoria.
+
+**D:** ⚠️ In quali quattro condotte si articola la definizione di reato introdotta dalla quarta direttiva?
+**R:** «(i) **conversione o trasferimento di beni**, effettuati sapendo della loro provenienza criminosa, allo scopo di dissimulare od occultare l'origine illecita dei beni medesimi o ad aiutare chi sia coinvolto in tali attività a sottrarsi alla conseguenze giuridiche delle proprie azioni; (ii) **occultamento o dissimulazione** della reale natura, provenienza, ubicazione, disposizione, movimento, proprietà dei beni o diritti sugli stessi, effettuata essendo a conoscenza della natura o provenienza illecita; (iii) **acquisto o detenzione** di detti beni; (iv) **associazione o partecipazione o il tentativo di perpetrare il fatto**, o aiutare, consigliare o istigare o agevolare l'azione di qualcuno nel commettere il fatto.» ⚠️ Sono in scala **decrescente di partecipazione materiale**, e la (iv) è la voce di **chiusura**.
+**Opzione:** Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo, e concorso morale nel fatto.
+**Distrattori:**
+- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; omessa segnalazione dell'operazione sospetta.
+- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; impiego dei beni in attività economiche o finanziarie.
+- Conversione o trasferimento di beni; occultamento o dissimulazione; intestazione fittizia dei beni; associazione, partecipazione o tentativo, e concorso morale nel fatto.
+
+**D:** ⚠️ Con quali formule diverse la definizione di reato descrive l'elemento soggettivo nelle condotte (i) e (ii)?
+**R:** Alla **(i)**: «effettuati **sapendo** della loro provenienza **criminosa**». Alla **(ii)**: «effettuata **essendo a conoscenza** della natura o provenienza **illecita**». Il contenuto è lo stesso, la formula no: vanno citate distintamente, perché è tipico dei quiz spostare la coda di una voce sull'altra.
+**Opzione:** Alla (i) «sapendo della loro provenienza criminosa»; alla (ii) «essendo a conoscenza della natura o provenienza illecita».
+**Distrattori:**
+- Alla (i) «essendo a conoscenza della natura o provenienza illecita»; alla (ii) «sapendo della loro provenienza criminosa».
+- In entrambe «sapendo della loro provenienza criminosa»: la formula è identica.
+- Alla (i) «sapendo della loro provenienza criminosa»; alla (ii) «avendo il ragionevole sospetto della provenienza illecita».
+
+**D:** Quali sono numero e recepimento italiano della quinta direttiva antiriciclaggio?
+**R:** «V Direttiva UE 2018/843: **recepita in Italia con D.lgs 2019 n. 125**», finalizzata «ad un'**ulteriore stretta** verso la prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di attività criminose e di finanziamento del terrorismo, **costituendone il principale strumento giuridico**». ⚠️ Anche qui il decreto di recepimento sta **solo sulla slide**: il docente non lo pronuncia.
+**Opzione:** Direttiva UE 2018/843, recepita in Italia con D.lgs 2019 n. 125.
+**Distrattori:**
+- Direttiva UE 2018/843, recepita in Italia con D.lgs 2019 n. 90.
+- Direttiva UE 2018/849, recepita in Italia con D.lgs 2019 n. 125.
+- Direttiva UE 2018/843, recepita in Italia con D.lgs 2018 n. 125.
+
+**D:** ⚠️ Quali quattro categorie di soggetti la quinta direttiva include nella normativa antiriciclaggio?
+**R:** «I **prestatori di servizi di cambio tra valute virtuali e valute legali**; i **prestatori di servizi di portafoglio digitale**; i **galleristi**; i **gestori di case d'asta e gli antiquari, chiamati ad operare una collaborazione proattiva**.» ⚠️ L'inciso sulla **collaborazione proattiva** chiude **solo l'ultima voce**. Il docente segnala che «i primi due punti sono quelli che [ci] interessano maggiormente, perché vi è un focus rinnovato su delle professioni che stanno assumendo sempre maggiore rilievo e importanza nel panorama economico-finanziario».
+**Opzione:** Prestatori di servizi di cambio tra valute virtuali e valute legali; prestatori di servizi di portafoglio digitale; galleristi; gestori di case d'asta e antiquari.
+**Distrattori:**
+- Prestatori di servizi di cambio tra valute virtuali e valute legali; prestatori di servizi di portafoglio digitale; galleristi; società fiduciarie.
+- Prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale; prestatori di servizi di portafoglio digitale; galleristi; gestori di case d'asta e antiquari.
+- Prestatori di servizi di cambio tra valute virtuali e valute legali; emittenti di carte prepagate anonime; galleristi; gestori di case d'asta e antiquari.
+
+**D:** ⚠️ A quale voce dell'elenco della quinta direttiva è agganciata la «collaborazione proattiva»?
+**R:** Solo all'**ultima**: «i **gestori di case d'asta e gli antiquari**, chiamati ad operare una collaborazione proattiva». Non è scritta accanto ai prestatori di servizi di cambio né a quelli di portafoglio digitale, né vale come formula generale per tutte e quattro le categorie. Una coda spostata su un'altra voce dell'elenco è un distrattore classico.
+**Opzione:** Solo ai gestori di case d'asta e agli antiquari.
+**Distrattori:**
+- A tutte e quattro le categorie incluse dalla direttiva.
+- Ai galleristi, ai gestori di case d'asta e agli antiquari.
+- Solo ai prestatori di servizi di cambio tra valute virtuali e valute legali.
+
+**D:** ⚠️ La prima e la seconda direttiva parlano di proventi di attività «illecite»: quale aggettivo usa la quinta?
+**R:** «**Criminose**»: la V direttiva è finalizzata «alla prevenzione dell'uso del sistema finanziario a scopo di riciclaggio dei proventi di **attività criminose** e di finanziamento del terrorismo». La I e la II usano invece «attività **illecite**». Stessa struttura di frase, aggettivo diverso a seconda della direttiva.
+**Opzione:** Criminose.
+**Distrattori:**
+- Illecite, come nella prima e nella seconda.
+- Terroristiche.
+- Fraudolente.
+
+**D:** ⚠️ Quale verbo usa la quarta direttiva per i servizi su valuta virtuale, e quale la quinta?
+**R:** La **IV** include i prestatori di servizi di **conversione** di valuta virtuale in valuta avente corso legale **e viceversa**; la **V** include i prestatori di servizi di **cambio** tra valute virtuali e valute **legali**. Sono formule diverse, stampate su due slide diverse: scambiarle è il modo più semplice di sbagliare una domanda su quale direttiva ha fatto che cosa.
+**Opzione:** La quarta parla di «conversione» di valuta virtuale in valuta avente corso legale e viceversa; la quinta di «cambio» tra valute virtuali e valute legali.
+**Distrattori:**
+- La quarta parla di «cambio» tra valute virtuali e valute legali; la quinta di «conversione» di valuta virtuale in valuta avente corso legale e viceversa.
+- Entrambe parlano di «cambio» tra valute virtuali e valute legali: la quinta si limita ad aggiungere i portafogli digitali.
+- La quarta parla di «conversione» di valuta virtuale in valuta avente corso legale; la quinta di «custodia» di valute virtuali per conto terzi.
+
+**D:** ⚠️ Che cosa estende esattamente la quinta direttiva ai prestatori di servizi di cambio e di portafoglio digitale?
+**R:** «**Particolari obblighi antiriciclaggio**» — il complemento oggetto è in fondo alla frase della slide. L'inciso «che **non sono soggetti all'obbligo della UE di individuare le attività sospette**» descrive la **condizione di partenza** di quei soggetti, cioè ciò che erano **prima**, non un'esenzione concessa dalla direttiva. Il docente lo esplicita: «per la prima volta quei servizi di cambio valuta che **non erano soggetti** alla normativa **diventano oggetto specifico** di indagine».
+**Opzione:** Particolari obblighi antiriciclaggio, a soggetti che prima non erano tenuti a individuare le attività sospette.
+**Distrattori:**
+- Un'esenzione dagli obblighi antiriciclaggio, perché non sono tenuti a individuare le attività sospette.
+- L'obbligo di individuare le attività sospette, sostitutivo dei particolari obblighi antiriciclaggio.
+- Particolari obblighi antiriciclaggio, ai soli prestatori che siano già soggetti all'obbligo UE di individuare le attività sospette.
+
+**D:** Quale valutazione dà la slide delle carte prepagate, e quale problema vi associa?
+**R:** Una valutazione **a due facce**: «anche se le carte prepagate sono un **valido aiuto per l'inclusione sociale e finanziaria**, molto spesso l'uso di **carte prepagate anonime** può facilmente contribuire al **finanziamento di atti terroristici e dei relativi aspetti logistici**». ⚠️ Il problema è l'**anonimato**, non lo strumento: il docente illustra i pregi con il ragazzo a cui il genitore regala la prepagata «per avere il controllo delle spese» e con l'anziano che, perdendo carta e PIN, «non rischia di venire dilapidato».
+**Opzione:** Un valido aiuto per l'inclusione sociale e finanziaria, ma quelle anonime possono contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
+**Distrattori:**
+- Uno strumento di per sé pericoloso per l'integrità del sistema finanziario, perché consente pagamenti non tracciabili qualunque sia l'intestatario.
+- Un valido aiuto per l'inclusione sociale e finanziaria, ma quelle emesse da istituti esteri possono contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
+- Un valido aiuto per l'inclusione sociale e finanziaria, il cui uso anonimo è per questo consentito al di sotto delle soglie di adeguata verifica.
+
+**D:** ⚠️ Con quale meccanismo la quinta direttiva interviene sulle carte prepagate anonime?
+**R:** «**Riducendo ulteriormente i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica della clientela**» di cui alla direttiva (UE) 2015/849. ⚠️ La direzione è doppiamente invertita: **abbassando** la soglia sotto la quale si può **omettere** la verifica, l'adeguata verifica finisce per scattare **più spesso**. Ogni singola parola di direzione è un potenziale distrattore.
+**Opzione:** Riducendo i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica.
+**Distrattori:**
+- Aumentando i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica.
+- Riducendo i limiti e gli importi massimi al di sopra dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica.
+- Vietando l'emissione di carte prepagate anonime al di sotto dei limiti e degli importi massimi già fissati dalla quarta direttiva.
+
+**D:** ⚠️ Che cosa sono i *white collar crimes* e che ruolo hanno nella successione delle direttive?
+**R:** «I **colletti bianchi e i crimini dei colletti bianchi**». Il docente li usa per spiegare perché le direttive si susseguono: «le principali differenze, **non le uniche**, tra queste prime tre direttive risiedono nel fatto che il sistema di riciclaggio di denaro nel mondo finanziario […] diventava sempre più **sofisticato**, tale da rendere le precedenti direttive antiriciclaggio di volta in volta **vetuste e ormai desuete**». ⚠️ Contenuto **solo del transcript**: sulle slide l'espressione non compare.
+**Opzione:** I crimini dei colletti bianchi: il loro progressivo affinamento rendeva le direttive precedenti vetuste e desuete, imponendone la successione.
+**Distrattori:**
+- I crimini dei colletti bianchi: la loro diffusione ha imposto di estendere la normativa antiriciclaggio al finanziamento del terrorismo.
+- I reati finanziari commessi mediante criptovalute: la loro comparsa ha imposto la quarta e la quinta direttiva.
+- I crimini dei colletti bianchi: la loro sostanziale stabilità nel tempo spiega perché le direttive successive siano solo raffinamenti della prima.
+
+**D:** Che cosa intende il docente quando dice che la normativa finanziaria è «sempre alla rincorsa»?
+**R:** Che l'approccio del legislatore è quello per cui «**il fenomeno avviene e io regolamento**», invece di «lavorare all'interno di una regolamentazione finanziaria che in qualche modo **prevenisse i reati** e che quindi desse la possibilità ai regolatori di **porre degli argini prima che questi avvenissero**». Il docente non risolve il dilemma — «sono tematiche difficili, che non si possono banalizzare in poche parole» — ma invita a rifletterci. È lo stesso interrogativo posto alla lezione 05 sull'approccio regolamentare al FinTech.
+
+**D:** ⚠️ Il FinTech e le criptoattività hanno creato problemi «nuovi» o problemi «differenti»?
+**R:** **Differenti**: «non è che il fintech e le criptoattività abbiano creato dei **problemi nuovi**. Hanno creato dei problemi **differenti**. Ma **ogni epoca culturale**, come avete visto al susseguirsi di queste direttive, ne ha creati». ⚠️ È una negazione seguita da una sostituzione, e la formula esatta conta: dire «problemi nuovi» capovolge il punto del docente, che è proprio la **continuità** del fenomeno attraverso le epoche.
+**Opzione:** Differenti: ogni epoca culturale ne ha creati, e le criptoattività non fanno eccezione.
+**Distrattori:**
+- Nuovi: prima delle criptoattività il riciclaggio non poneva problemi al sistema finanziario.
+- Nessuno dei due: il docente ritiene che il tema del riciclaggio nelle criptoattività sia soltanto un luogo comune privo di fondamento.
+- Differenti, ma solo sul piano tecnologico: sul piano giuridico i problemi restano identici a quelli della prima direttiva.
+
+**D:** Quali due interessi in conflitto individua il docente a proposito degli obblighi di compliance antiriciclaggio nel FinTech?
+**R:** Da un lato gli **oneri di compliance** imposti «a società che nascono magari in un garage o comunque come **startup innovative**», che «non possono permettersi di assumere troppe persone per **funzioni di controllo**»; dall'altro la necessità di «garantire l'**integrità del mercato, la liceità delle operazioni, la legittimità di quello che viene fatto**». Sono «due interessi che veramente sono in alcuni casi **difficilissimi da conciliare, ma entrambi importanti per motivi diversi**».
+**Opzione:** I costi di compliance insostenibili per le startup innovative, e la necessità di garantire integrità del mercato, liceità e legittimità delle operazioni.
+**Distrattori:**
+- I costi di compliance insostenibili per le startup innovative, e la necessità di tutelare la riservatezza dei dati dei clienti.
+- La libertà di prestazione dei servizi nel mercato unico, e la necessità di garantire integrità del mercato, liceità e legittimità delle operazioni.
+- I costi di compliance insostenibili per le startup innovative, e l'esigenza delle autorità di vigilanza di ridurre il numero di segnalazioni sospette da esaminare.
+
+**D:** ⚠️ Che cosa deve contemperare uno Stato che voglia essere attrattivo per la tecnologia finanziaria?
+**R:** «Da un lato un **sistema normativo semplice, non oneroso e non costoso** per chi vi si approccia, ma dall'altro anche un **sistema sano, pulito, limpido**». È la condizione per «creare un ecosistema **dove la tecnologia finanziaria avanzi** e dove **ci sia fiducia** nella tecnologia finanziaria». ⚠️ Torna il verbo **contemperare** della lezione 05: mai un corno solo del dilemma.
+**Opzione:** Un sistema normativo semplice, non oneroso e non costoso, e insieme un sistema sano, pulito e limpido.
+**Distrattori:**
+- Un sistema normativo semplice, non oneroso e non costoso, e insieme un regime fiscale di favore per le imprese innovative.
+- Un sistema normativo dettagliato e severo, e insieme un sistema di incentivi pubblici alle startup tecnologiche.
+- Un sistema normativo semplice e non costoso, e insieme la rinuncia alla vigilanza sulle imprese ammesse a operare.
+
+**D:** Quale «falso mito» sulle criptovalute annuncia il docente in chiusura di lezione?
+**R:** Quello secondo cui vi sarebbe automaticamente «un tema di riciclaggio»: «molto spesso il **luogo comune** è *c'è un tema di riciclaggio*. Ma **cosa vuol dire esattamente** che c'è un tema di riciclaggio? **Ed è realmente così?**». L'obiettivo dichiarato è operativo: saper valutare «se una determinata attività finanziaria tecnologica **ponga o meno dei rischi**» di riciclaggio e, se li pone, «**come ovviare** a queste tematiche senza pesare notevolmente sulla struttura della startup tecnologica con presidi e controlli che [ne appesantirebbero] la struttura e la snaturerebbero».
