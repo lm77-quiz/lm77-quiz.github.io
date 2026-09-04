@@ -2114,3 +2114,257 @@
 
 **D:** Quali sono i takeaway con cui il docente chiude la lezione?
 **R:** Cinque. 1) La normativa antiriciclaggio recente ha mirato a «**tracciare i flussi finanziari che si muovevano sulla rete**». 2) **Costante aumento degli obblighi di adeguata verifica**, che impongono all'intermediario «di essere **certo della provenienza dei fondi**». 3) **Inasprimento delle pene**, **chiarimento dei casi di mitigazione** e **sdoganamento di sistemi di verifica più tecnologici** (video, audio, SPID, certificazioni online), con il **proliferare di provider esterni** che la Banca d'Italia ha però limitato a «**solo un pezzo** dell'adeguata verifica». 4) Il **PDC**, funzione «piuttosto **impegnativa**» per strutture «molto snelle per definizione», la cui **responsabilità elevata** genera segnalazioni all'UIF «che probabilmente **non sono nemmeno sospette**». 5) Il **sentimento comune** di dover rendere la normativa «più **personalizzata**» per le nuove tecnologie e «più **coinvolgente** le varie realtà virtuali»; e l'**InsurTech**, «derivazione del fintech», che con **CAP** e **IDD** cerca un ***framework*** per un'offerta online «immediata, veloce e snella» ma difesa «da tutti i rischi che questo comporta da un punto di vista di riciclaggio».
+
+## Lezione 08 — Il settore InsurTech
+
+**D:** Quali sono le due voci dell'agenda della lezione sull'InsurTech?
+**R:** «**Un nuovo modo di fare assicurazione e riassicurazione**» e «**Product Governance Oversight**».
+**Opzione:** Un nuovo modo di fare assicurazione e riassicurazione; Product Governance Oversight.
+**Distrattori:**
+- Un nuovo modo di fare assicurazione e riassicurazione; la Direttiva IDD e il Regolamento IVASS.
+- I Big Data nel settore assicurativo; Product Governance Oversight.
+- Un nuovo modo di fare assicurazione e riassicurazione; la vigilanza dell'IVASS sulle piattaforme InsurTech.
+
+**D:** ⚠️ Come definisce l'InsurTech la slide della lezione 08?
+**R:** «Il **termine InsurTech** è un **neologismo mutuato dal mondo FinTech** e deriva dall'unione di "**insurance**" e "**technology**". È un insieme di **tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella produzione e distribuzione dei prodotti assicurativi**.» ⚠️ Alla lezione 07 (slide 16) la stessa frase si fermava a «efficienza e l'efficacia **dei prodotti assicurativi**»: qui compaiono in più le parole «**produzione e distribuzione**», ed è questa la versione **completa**.
+**Opzione:** Un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella produzione e distribuzione dei prodotti assicurativi.
+**Distrattori:**
+- Un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella progettazione e tariffazione dei prodotti assicurativi.
+- Un insieme di tecnologie e strumenti atti a ridurre il costo dei premi nella produzione e distribuzione dei prodotti assicurativi.
+- Un insieme di imprese assicurative che distribuiscono i propri prodotti esclusivamente tramite piattaforme digitali.
+
+**D:** ⚠️ Che cosa impone agli operatori assicurativi l'utilizzo di nuovi strumenti digitali?
+**R:** Due cose: «**adeguare la comunicazione e l'intellegibilità delle informazioni** (si veda l'**art. 120-*quater* cc. 2-3-4-5-6-7 del Codice delle Assicurazioni private**)» e «**adeguarsi al nuovo concetto di *Product Oversight Governance***».
+**Opzione:** Adeguare la comunicazione e l'intellegibilità delle informazioni, e adeguarsi al nuovo concetto di Product Oversight Governance.
+**Distrattori:**
+- Adeguare la comunicazione e l'intellegibilità delle informazioni, e dotarsi di un punto di contatto centrale sul territorio nazionale.
+- Adeguare la tariffazione al profilo di rischio del cliente, e adeguarsi al nuovo concetto di Product Oversight Governance.
+- Adeguare la comunicazione e l'intellegibilità delle informazioni, e iscriversi nel registro unico degli intermediari tenuto dall'IVASS.
+
+**D:** ⚠️ In quanti modi il deck chiama il principio di governo del prodotto, e come?
+**R:** In **tre**: «**Product Governance Oversight**» (agenda e intestazioni delle slide 9–11), «**Product Oversight Governance**» (slide 3 e corpo della slide 9), «**product oversight**» (slide 10). Il docente usa costantemente «**product governance oversight**». ⚠️ Non è un errore da correggere: è il testo che va conosciuto in tutte le sue forme, perché le opzioni d'esame sono citazioni letterali delle slide.
+**Opzione:** In tre: Product Governance Oversight, Product Oversight Governance e product oversight.
+**Distrattori:**
+- In due: Product Governance Oversight e Product Oversight Governance.
+- In uno solo: Product Governance Oversight, usato in modo uniforme in tutto il deck.
+- In tre: Product Governance Oversight, Product Oversight Governance e Product Lifecycle Governance.
+
+**D:** ⚠️ Che cosa impongono l'art. 120, c. 3 del Codice delle Assicurazioni e l'art. 52 del Regolamento ISVAP n. 5/2006?
+**R:** «**Impongono all'intermediario di reperire informazioni dall'assicurando al fine di verificare l'adeguatezza del prodotto assicurativo alle esigenze dello stesso.**»
+**Opzione:** Di reperire informazioni dall'assicurando per verificare l'adeguatezza del prodotto assicurativo alle sue esigenze.
+**Distrattori:**
+- Di fornire all'assicurando le informazioni necessarie a verificare l'adeguatezza del prodotto assicurativo alle sue esigenze.
+- Di reperire informazioni dall'assicurando per verificare la solvibilità del contraente prima della conclusione del contratto.
+- Di reperire informazioni dall'assicurando per verificare l'adeguatezza del prodotto, ma solo per i contratti conclusi a distanza.
+
+**D:** ⚠️ Quale articolo del Codice delle Assicurazioni riguarda la comunicazione e l'intellegibilità delle informazioni, e quale l'obbligo di reperire informazioni dall'assicurando?
+**R:** L'**art. 120-*quater*, cc. 2-3-4-5-6-7** riguarda l'obbligo di «**adeguare la comunicazione e l'intellegibilità delle informazioni**»; l'**art. 120, c. 3** — con l'**art. 52 del Regolamento ISVAP n. 5/2006** — impone di «**reperire informazioni dall'assicurando**» per verificarne l'**adeguatezza**. ⚠️ Il primo riguarda **come si comunica**, il secondo **che cosa si deve chiedere**: sono due articoli distinti con lo stesso numero di base.
+**Opzione:** Art. 120-quater per la comunicazione e l'intellegibilità; art. 120, c. 3 per il reperimento delle informazioni dall'assicurando.
+**Distrattori:**
+- Art. 120, c. 3 per la comunicazione e l'intellegibilità; art. 120-quater per il reperimento delle informazioni dall'assicurando.
+- Art. 106 per la comunicazione e l'intellegibilità; art. 120, c. 3 per il reperimento delle informazioni dall'assicurando.
+- Art. 120-quater per la comunicazione e l'intellegibilità; art. 52 del Codice delle Assicurazioni per il reperimento delle informazioni.
+
+**D:** Per che cosa le start-up InsurTech fanno leva sui Big Data?
+**R:** «Molte **start-up InsurTech o applicazioni tecnologiche dedicate agli accordi tra impresa assicurativa ed intermediari** fanno leva sui **Big Data** proprio per **raccogliere le informazioni/dati personali degli utenti che accedono alla piattaforma** e, dunque, per **personalizzare l'offerta**.»
+**Opzione:** Per raccogliere informazioni e dati personali degli utenti che accedono alla piattaforma e personalizzare l'offerta.
+**Distrattori:**
+- Per raccogliere informazioni e dati personali degli utenti che accedono alla piattaforma e ridurre il costo dei sinistri.
+- Per verificare l'identità degli utenti che accedono alla piattaforma e adempiere agli obblighi antiriciclaggio.
+- Per raccogliere informazioni e dati personali degli intermediari con cui hanno sottoscritto accordi di comparazione.
+
+**D:** ⚠️ Che effetto hanno i Big Data sulla classificazione del rischio, secondo la slide?
+**R:** «I **Big Data e le nuove tecnologie** sono oggi in grado di rendere la **classificazione meno costosa e molto più *sofisticata***. Le compagnie possono **fruttare enormi quantità di dati** e quindi **costruire profili di rischio dei loro clienti in modo molto accurato**.» ⚠️ Il transcript rende «più **classificata**», ripetendo per errore la parola precedente: fa testo la slide, ed è «**sofisticata**».
+**Opzione:** La rendono meno costosa e molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
+**Distrattori:**
+- La rendono meno costosa e molto più rapida, permettendo di costruire profili di rischio molto accurati.
+- La rendono più costosa ma molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
+- La rendono meno costosa e molto più sofisticata, ma impediscono di costruire profili di rischio individuali per ragioni di privacy.
+
+**D:** ⚠️ Quali svantaggi associa il docente all'uso dei Big Data nella profilazione assicurativa?
+**R:** Quattro. I dati potrebbero essere **inaccurati**, **vecchi**, **imprecisi**; e c'è il tema della **privacy**: «io come assicurando **non voglio che i miei dati personali** da un punto di vista di **profilazione del rischio** vengano **presi ed estrapolati in modo asettico da un database**: preferirei avere una **conversazione da zero** con il mio interlocutore, **spiegare e dare contesto**». ⚠️ Contenuto **solo del transcript**, ed è l'altra faccia del «**doppio rovescio della medaglia**»: «non è né un male assoluto né un bene assoluto».
+**Opzione:** Dati inaccurati, vecchi o imprecisi, e il problema della privacy dell'assicurando profilato in modo asettico da un database.
+**Distrattori:**
+- Dati inaccurati, vecchi o imprecisi, e il costo elevato delle infrastrutture necessarie a trattarli.
+- Dati inaccurati, vecchi o imprecisi, e l'impossibilità di segmentare il mercato in categorie di rischio omogeneo.
+- Il rischio di abbinamento forzato, la mancata quotazione di imprese comparate e il conflitto di interessi del distributore.
+
+**D:** ⚠️ Con quale coppia di termini il docente descrive la profilazione resa possibile dai Big Data?
+**R:** «**Reattivo e non proattivo**»: «la quantità e la mole di informazioni presenti permettono agli operatori di **profilare il cliente in modo reattivo e non proattivo**, cioè **non c'è la necessità di chiedere all'assicurando una serie di informazioni**, perché queste informazioni **sono già presenti** all'interno dei big data»; e «si può andare dal cliente **solo chiedendo la rifinitura di alcune informazioni già presenti**». ⚠️ La coppia sta **solo nel transcript** e non compare su alcuna slide; presa alla lettera l'attribuzione appare rovesciata rispetto al fenomeno descritto. Va ricordata come **formula del docente**, non come categoria delle slide.
+
+**D:** ⚠️ Quali due voci aggiunge la slide della lezione 08 all'elenco della Direttiva IDD rispetto alla lezione 07?
+**R:** ① Il **rinnovo delle norme sull'informativa e sulla trasparenza** «che in Italia erano regolate secondo il **Codice Civile**, essendo rimaste **arretrate rispetto alle complementari norme in ambito bancario e finanziario**»; ② l'**art. 30**, che «determina un **sostanziale avvicinamento alle modalità di intendere l'adeguatezza nel settore assicurativo rispetto allo schema delineato dalla MiFid II** per il settore finanziario». ⚠️ Alla lezione 07 le voci erano **quattro**, qui sono **sei**.
+**Opzione:** Il rinnovo delle norme su informativa e trasparenza prima regolate dal Codice Civile, e l'art. 30 con l'avvicinamento allo schema MiFID II.
+**Distrattori:**
+- Il rinnovo delle norme su informativa e trasparenza prima regolate dal Codice Civile, e l'art. 30 con l'avvicinamento allo schema Solvency II.
+- L'obbligo di iscrizione nel registro unico degli intermediari, e l'art. 30 con l'avvicinamento allo schema MiFID II.
+- Il rinnovo delle norme su informativa e trasparenza prima regolate dal Codice delle Assicurazioni private, e l'art. 30 con l'avvicinamento allo schema MiFID II.
+
+**D:** ⚠️ Che cosa determina l'art. 30 della Direttiva IDD?
+**R:** «Un **sostanziale avvicinamento alle modalità di intendere l'adeguatezza nel settore assicurativo rispetto allo schema delineato dalla MiFid II per il settore finanziario**.» ⚠️ È il ponte con il *robo-advisory* della lezione 04: il settore assicurativo adotta lo schema **questionario → profilatura → verifica di adeguatezza** già visto per gli investimenti.
+**Opzione:** Un sostanziale avvicinamento alle modalità di intendere l'adeguatezza nel settore assicurativo rispetto allo schema delineato dalla MiFID II per il settore finanziario.
+**Distrattori:**
+- Un sostanziale avvicinamento alle modalità di intendere l'adeguatezza nel settore finanziario rispetto allo schema delineato dal Codice delle Assicurazioni private.
+- Un sostanziale avvicinamento alle modalità di intendere la solvibilità nel settore assicurativo rispetto allo schema delineato dalla MiFID II.
+- La piena equiparazione della disciplina dell'adeguatezza assicurativa a quella finanziaria, senza margini di adattamento nazionale.
+
+**D:** ⚠️ Quale differenza segna il docente fra direttiva e regolamento europeo, e con quale conseguenza?
+**R:** «La **direttiva** europea, durante la **fase di implementazione nello Stato**, può essere in qualche modo **modificata dalle norme implementative** dello Stato, che **tarerà e modificherà la direttiva anche sulla base delle peculiarità dello Stato stesso**; mentre il **regolamento** è **subito implementabile, non ha bisogno di norme di raccordo**.» ⚠️ La conseguenza è ambivalente: da un lato ciascuno Stato implementa «in un modo che sia **digeribile per l'ecosistema locale**», dall'altro «iniziano a crearsi nuovamente alcuni **piccoli scollamenti**», cioè **discrasie tra Stato membro e Stato membro**. Ciò che resta fermo è un «**livello minimo di implementazione**».
+**Opzione:** La direttiva è adattabile dalle norme implementative nazionali, il regolamento è subito applicabile senza norme di raccordo; il costo della direttiva sono le discrasie fra Stati membri.
+**Distrattori:**
+- Il regolamento è adattabile dalle norme implementative nazionali, la direttiva è subito applicabile senza norme di raccordo; il costo del regolamento sono le discrasie fra Stati membri.
+- La direttiva è adattabile dalle norme implementative nazionali, il regolamento è subito applicabile senza norme di raccordo; entrambi garantiscono comunque un'armonizzazione piena.
+- La direttiva vincola solo gli Stati destinatari, il regolamento vincola anche i privati; il costo della direttiva è la lentezza dell'entrata in vigore.
+
+**D:** ⚠️ Che cosa emerge dalla Direttiva IDD in tema di rischio contrattuale?
+**R:** «Dalla Direttiva emerge una **revisione del rischio contrattuale tra le parti**, che **onera le stesse ad una maggiore precisione e trasparenza nell'indicazione delle finalità da perseguire**, evitando l'uso di un **linguaggio oscuro, strumentale ad operazioni commercialmente scorrette**.» ⚠️ Il transcript altera tre sfumature: dice «**delle** parti», inverte l'ordine in «trasparenza e precisione» e rende «scuro… **ed** operazioni». Fa testo la slide.
+**Opzione:** Una revisione del rischio contrattuale tra le parti, che le onera a maggiore precisione e trasparenza nell'indicazione delle finalità, evitando un linguaggio oscuro strumentale a operazioni commercialmente scorrette.
+**Distrattori:**
+- Una revisione del rischio contrattuale tra le parti, che onera il solo distributore a maggiore precisione e trasparenza nell'indicazione delle finalità.
+- Una revisione del rischio di solvibilità dell'impresa, che la onera a maggiore precisione e trasparenza nell'indicazione delle finalità da perseguire.
+- Una revisione del rischio contrattuale tra le parti, che le onera a maggiore precisione e trasparenza nell'indicazione dei costi e delle commissioni applicate.
+
+**D:** ⚠️ Quali informazioni devono essere fornite al contraente nelle procedure di collocazione tramite internet?
+**R:** «Le **informazioni tecniche ed operative** che devono essere fornite al contraente **prima della conclusione del contratto** quali, per esempio, quelle relative all'**illustrazione delle diverse fasi da seguire per il perfezionamento dello stesso** alle **modalità per individuare e correggere l'inserimento dati**.» ⚠️ Sono informazioni **tecniche e operative**, non commerciali, e il momento è **prima della conclusione**.
+**Opzione:** Informazioni tecniche e operative, prima della conclusione del contratto: le fasi da seguire per il perfezionamento e le modalità per individuare e correggere l'inserimento dati.
+**Distrattori:**
+- Informazioni tecniche e operative, dopo la conclusione del contratto: le fasi seguite per il perfezionamento e le modalità per correggere l'inserimento dati.
+- Informazioni commerciali e tariffarie, prima della conclusione del contratto: il premio, gli sconti applicati e le modalità di pagamento.
+- Informazioni tecniche e operative, prima della conclusione del contratto: l'elenco delle imprese comparate e le remunerazioni percepite dall'intermediario.
+
+**D:** ⚠️ Quali obblighi impone l'art. 80 del Regolamento IVASS n. 40/2018 agli intermediari che comparano polizze online?
+**R:** Sette: indicare «la **quota di mercato comparata** e l'**elenco delle imprese di assicurazione** con le quali hanno sottoscritto **accordi finalizzati alla comparazione** delle polizze»; «**garantire che il numero delle imprese pubbliche corrisponda a quello di quelle usate per la comparazione**»; «in caso di **mancata quotazione di un'impresa comparata**, **esplicitare i motivi** della mancanza e fornire informazioni»; basare le comparazioni «**oltre che sul prezzo**, sulle **caratteristiche principali delle polizze in base ad uno standard uniforme**»; «dotarsi di **processi di rilevazione delle esigenze assicurative del contraente idonee ad evitare forme di abbinamento forzato**»; «garantire la **trasparenza delle remunerazioni**»; e «la **riservatezza delle informazioni acquisite**». ⚠️ Le due voci di chiusura — **remunerazioni** e **riservatezza** — sono il bersaglio preferito dei distrattori.
+**Opzione:** Quota di mercato comparata ed elenco delle imprese convenzionate; corrispondenza fra imprese pubbliche e imprese comparate; motivazione della mancata quotazione; comparazione anche sulle caratteristiche principali secondo standard uniforme; processi contro l'abbinamento forzato; trasparenza delle remunerazioni; riservatezza delle informazioni acquisite.
+**Distrattori:**
+- Quota di mercato comparata ed elenco delle imprese convenzionate; corrispondenza fra imprese pubbliche e imprese comparate; motivazione della mancata quotazione; comparazione anche sulle caratteristiche principali secondo standard uniforme; processi contro l'abbinamento forzato; trasparenza delle remunerazioni; conservazione decennale delle informazioni acquisite.
+- Quota di mercato comparata ed elenco delle imprese convenzionate; corrispondenza fra imprese pubbliche e imprese comparate; motivazione della mancata quotazione; comparazione basata esclusivamente sul prezzo secondo standard uniforme; processi contro l'abbinamento forzato; trasparenza delle remunerazioni; riservatezza delle informazioni acquisite.
+- Quota di mercato comparata ed elenco delle imprese convenzionate; iscrizione nel registro unico degli intermediari; motivazione della mancata quotazione; comparazione anche sulle caratteristiche principali secondo standard uniforme; processi contro l'abbinamento forzato; trasparenza delle remunerazioni; riservatezza delle informazioni acquisite.
+
+**D:** ⚠️ Su che cosa devono basarsi le comparazioni fra polizze, secondo l'art. 80?
+**R:** «Le comparazioni, **oltre che sul prezzo**, devono basarsi [sulle] **caratteristiche principali delle polizze in base ad uno standard uniforme**.» ⚠️ Il prezzo **non basta**: «oltre che» significa che le caratteristiche si **aggiungono**, non che sostituiscono.
+**Opzione:** Oltre che sul prezzo, sulle caratteristiche principali delle polizze in base a uno standard uniforme.
+**Distrattori:**
+- Esclusivamente sul prezzo, in base a uno standard uniforme fissato dall'IVASS.
+- Oltre che sul prezzo, sulla quota di mercato delle imprese comparate in base a uno standard uniforme.
+- Oltre che sul prezzo, sulle caratteristiche principali delle polizze secondo criteri liberamente scelti da ciascun intermediario.
+
+**D:** A che cosa servono i processi di rilevazione delle esigenze assicurative previsti dall'art. 80?
+**R:** Gli intermediari «si dotano di **processi di rilevazione delle esigenze assicurative del contraente idonee ad evitare forme di abbinamento forzato**».
+**Opzione:** A evitare forme di abbinamento forzato.
+**Distrattori:**
+- A evitare forme di discriminazione tariffaria fra categorie di assicurati.
+- A garantire la riservatezza delle informazioni acquisite dal contraente.
+- A verificare la solvibilità del contraente prima della conclusione del contratto.
+
+**D:** ⚠️ Che cosa impone il modello Product Oversight Governance?
+**R:** «Impone la **costruzione del prodotto sulla base di un *target market* individuato nella fase di quotazione ed adeguatezza del prodotto**.» Il docente ne dà il rovescio: «quando l'impresa assicuratrice decide di creare un prodotto **non può farlo in astratto**, pensando a un rischio presente sul mercato ipotetico che possa servire a una **massa indefinita di utenti**».
+**Opzione:** La costruzione del prodotto sulla base di un target market individuato nella fase di quotazione e adeguatezza del prodotto.
+**Distrattori:**
+- La costruzione del prodotto sulla base di un target market individuato dopo il collocamento, alla luce dei dati di vendita raccolti.
+- La verifica dell'adeguatezza del prodotto al singolo cliente al momento della sottoscrizione, senza vincoli nella fase di costruzione.
+- La costruzione del prodotto sulla base di un profilo di rischio medio di mercato individuato dall'IVASS nella fase di quotazione.
+
+**D:** ⚠️ Quali quattro elementi deve comprendere l'organizzazione imposta dal Product Oversight Governance?
+**R:** «**Formazione ed aggiornamento professionale dei distributori**; **controllo degli adempimenti delle regole di comportamento**; **coerenza del modello di consulenza per un collocamento fatto sulla base del ramo e delle varie tipologie di rischio**; **controllo sulla politica degli incentivi e sulla gestione del conflitto di interessi**.»
+**Opzione:** Formazione e aggiornamento dei distributori; controllo degli adempimenti delle regole di comportamento; coerenza del modello di consulenza secondo ramo e tipologie di rischio; controllo su incentivi e conflitto di interessi.
+**Distrattori:**
+- Formazione e aggiornamento dei distributori; controllo degli adempimenti delle regole di comportamento; coerenza del modello di consulenza secondo ramo e tipologie di rischio; gestione digitale dei dati anagrafici dei contraenti.
+- Formazione e aggiornamento dei distributori; segnalazione delle operazioni sospette all'UIF; coerenza del modello di consulenza secondo ramo e tipologie di rischio; controllo su incentivi e conflitto di interessi.
+- Selezione dei distributori sulla base della quota di mercato; controllo degli adempimenti delle regole di comportamento; coerenza del modello di consulenza secondo ramo e tipologie di rischio; controllo su incentivi e conflitto di interessi.
+
+**D:** ⚠️ Il conflitto di interessi del distributore assicurativo è oggetto di un divieto o di un obbligo di trasparenza?
+**R:** Di un **obbligo di trasparenza**. Il docente è esplicito: «se io distributore assicurativo ho **5 imprese assicurative** che copro, **non posso avere interesse a piazzare un prodotto di una anziché di un'altra perché poi ricevo delle *retrocessioni***. **O meglio, in alcuni casi lo posso pure fare, ma devo essere chiaro con il cliente** che sto percependo quelle commissioni, e devo in qualche modo **giustificare il perché**». ⚠️ È un caso di **scala deontica**: un'opzione che trasformasse la disciplina in un **divieto assoluto** sarebbe sbagliata per il **modo del precetto**, non per il contenuto.
+**Opzione:** Di un obbligo di trasparenza: il distributore può percepire retrocessioni, ma deve dichiararle al cliente e giustificarle.
+**Distrattori:**
+- Di un divieto assoluto: il distributore non può in alcun caso percepire retrocessioni dalle imprese di cui colloca i prodotti.
+- Di una facoltà: il distributore può scegliere se dichiarare al cliente le retrocessioni percepite.
+- Di un divieto con eccezione: il distributore non può percepire retrocessioni, salvo autorizzazione preventiva dell'IVASS.
+
+**D:** Quale immagine usa il docente per descrivere il ruolo del distributore nel Product Governance Oversight?
+**R:** Quella dello **specchio**: il distributore, «che è colui che **fisicamente venderà la polizza assicurativa**, deve essere uno **specchio** che **recepisce le esigenze dell'assicurando** ed eventualmente poi **riporta in casa madre** le esigenze dell'assicurando **non in linea con i prodotti** che lui voleva distribuire». ⚠️ Il flusso è **bidirezionale**: non solo dall'impresa al cliente, ma anche dal cliente all'impresa.
+**Opzione:** Uno specchio, che recepisce le esigenze dell'assicurando e riporta in casa madre quelle non in linea con i prodotti da distribuire.
+**Distrattori:**
+- Un filtro, che seleziona i clienti compatibili con il target market individuato dalla compagnia e scarta gli altri.
+- Uno specchio, che riflette al cliente le caratteristiche del prodotto costruito dalla compagnia senza modificarne la presentazione.
+- Un consulente indipendente, che sceglie fra i prodotti di più compagnie quello più adeguato al profilo di rischio del cliente.
+
+**D:** Che cosa significa che un prodotto assicurativo è «adeguato», secondo il docente?
+**R:** «Significa un prodotto assicurativo che sia **in linea con le esigenze dell'assicurando**, **in linea col suo profilo di rischio** e **in linea con le sue possibilità economiche**.» ⚠️ Sono **tre** parametri, e l'ultimo — le **possibilità economiche** — è quello che si dimentica più facilmente.
+**Opzione:** In linea con le esigenze dell'assicurando, con il suo profilo di rischio e con le sue possibilità economiche.
+**Distrattori:**
+- In linea con le esigenze dell'assicurando, con il suo profilo di rischio e con la sua esperienza in materia assicurativa.
+- In linea con le esigenze dell'assicurando e con il suo profilo di rischio, indipendentemente dalle sue possibilità economiche.
+- In linea con il target market individuato dalla compagnia, con il profilo di rischio medio della categoria e con le possibilità economiche dell'assicurando.
+
+**D:** ⚠️ Come sono determinati i premi secondo la slide sul Product Governance Oversight?
+**R:** «Gli assicurati vengono **distinti in categorie con livello di rischio omogeneo** e conseguentemente viene **fissato un premio appropriato**, rendendo **più costose le polizze per la categoria di individui a più alto rischio**, per **compensare la maggiore probabilità del verificarsi dell'evento**. La **suddivisione in categorie** consente al mercato di trovare un **equilibrio segmentato** che prevede **premi differenti per le diverse categorie di individui**.»
+**Opzione:** Per categorie a rischio omogeneo, con polizze più costose per la categoria a più alto rischio, così da compensare la maggiore probabilità del verificarsi dell'evento.
+**Distrattori:**
+- Per categorie a rischio omogeneo, con un premio unico di mercato, così da mutualizzare la maggiore probabilità del verificarsi dell'evento.
+- Individualmente per ciascun assicurato sulla base dei suoi Big Data, senza suddivisione in categorie di rischio.
+- Per categorie a rischio omogeneo, con polizze più costose per la categoria a più basso rischio, così da incentivare la prevenzione.
+
+**D:** ⚠️ Con quale verbo la slide descrive la capacità delle piattaforme InsurTech di modulare gli obblighi di comportamento?
+**R:** Al **condizionale**: «nella *product oversight* del settore InsurTech le piattaforme **dovrebbero essere in grado** di modulare gli **obblighi di comportamento** e la **valutazione dell'adeguatezza** alle **caratteristiche del singolo prodotto o della singola offerta** e alle **indicazioni della compagnia**». ⚠️ Non è un dato acquisito ma una **potenzialità**. Il docente la rende più forte — le piattaforme «sono **probabilmente più in grado dei canali tradizionali**», grazie a «**algoritmi specifici**» e a «un'**intelligenza artificiale che limiti l'errore umano**» — ma la slide resta al condizionale.
+**Opzione:** Al condizionale: «dovrebbero essere in grado» di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
+**Distrattori:**
+- All'indicativo: «sono in grado» di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
+- All'imperativo: «devono» modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
+- Al condizionale, ma riferito alle sole compagnie e non alle piattaforme.
+
+**D:** ⚠️ Quali articoli del Regolamento IVASS n. 40/2018 sono citati nella lezione, e con quale oggetto ciascuno?
+**R:** L'**art. 80** → obblighi degli intermediari che **comparano polizze online**; gli **artt. 58 e 74** → **modulazione degli obblighi di comportamento e della valutazione di adeguatezza** nel settore InsurTech; l'**art. 46 c. 1** → **gestione digitale dei dati anagrafici** e delle informazioni sulle coperture attive. ⚠️ La slide 10 scrive per refuso «Regolamento Ivass n. **40/1018**»: il regolamento è il **40/2018**, come la slide 8 cita correttamente.
+**Opzione:** Art. 80 per i siti di comparazione; artt. 58 e 74 per la modulazione degli obblighi e dell'adeguatezza; art. 46 c. 1 per la gestione digitale dei dati.
+**Distrattori:**
+- Art. 46 c. 1 per i siti di comparazione; artt. 58 e 74 per la modulazione degli obblighi e dell'adeguatezza; art. 80 per la gestione digitale dei dati.
+- Art. 80 per i siti di comparazione; art. 30 per la modulazione degli obblighi e dell'adeguatezza; art. 46 c. 1 per la gestione digitale dei dati.
+- Art. 80 per i siti di comparazione; artt. 58 e 74 per la formazione dei distributori; art. 46 c. 1 per la gestione digitale dei dati.
+
+**D:** ⚠️ Che cosa dispone l'art. 46 c. 1 del Regolamento IVASS?
+**R:** Che «l'impresa **garantisce una gestione digitale dei dati anagrafici presenti nei contratti sottoscritti e delle informazioni relative alle coperture attive**, anche al fine del rispetto delle disposizioni in materia di **requisiti di governo e controllo del prodotto** previste dal **Codice**». ⚠️ Il transcript perde la coda «**del prodotto**».
+**Opzione:** Che l'impresa garantisce una gestione digitale dei dati anagrafici dei contratti sottoscritti e delle informazioni sulle coperture attive, anche per il rispetto dei requisiti di governo e controllo del prodotto previsti dal Codice.
+**Distrattori:**
+- Che l'impresa garantisce una gestione digitale dei dati anagrafici dei contratti sottoscritti e delle informazioni sulle coperture attive, anche per il rispetto degli obblighi di adeguata verifica della clientela previsti dal Codice.
+- Che l'impresa garantisce una gestione digitale dei soli dati relativi ai sinistri liquidati, anche per il rispetto dei requisiti di governo e controllo del prodotto previsti dal Codice.
+- Che l'intermediario garantisce una gestione digitale dei dati anagrafici dei contratti sottoscritti e delle informazioni sulle coperture attive, anche per il rispetto dei requisiti di governo e controllo del prodotto.
+
+**D:** ⚠️ Qual è la frase che, secondo il docente, riassume tutta la lezione?
+**R:** «Le tecniche fondate sul **ciclo di vita del prodotto** lasciano il posto ad altre fondate sui **bisogni e sul ciclo di vita delle persone**.» Il docente: «la frase che riassume tutto questo è proprio qui […]. **Cambio completamente la prospettiva e il *focus***». La ragione materiale è che «la tecnologia ci permette di focalizzarci su dinamiche che prima passavano in secondo piano per la **limitatezza delle risorse**, posto che l'**impiegato umano** poteva collezionare e analizzare dati **in misura molto minore di una macchina con intelligenza artificiale**».
+**Opzione:** Le tecniche fondate sul ciclo di vita del prodotto lasciano il posto ad altre fondate sui bisogni e sul ciclo di vita delle persone.
+**Distrattori:**
+- Le tecniche fondate sui bisogni e sul ciclo di vita delle persone lasciano il posto ad altre fondate sul ciclo di vita del prodotto.
+- Le tecniche fondate sul ciclo di vita del prodotto lasciano il posto ad altre fondate sulla segmentazione del mercato in categorie di rischio omogeneo.
+- Le tecniche fondate sul giudizio dell'impiegato lasciano il posto ad altre interamente automatizzate, fondate sul ciclo di vita del prodotto.
+
+**D:** ⚠️ Che cosa possono permettere i Big Data secondo la slide di chiusura?
+**R:** «Lo **scambio di informazioni circa le caratteristiche del rischio dei clienti**, migliorando la **qualità dei prodotti offerti**.» ⚠️ Il transcript perde la specificazione «**circa le caratteristiche del rischio dei clienti**».
+**Opzione:** Lo scambio di informazioni circa le caratteristiche del rischio dei clienti, migliorando la qualità dei prodotti offerti.
+**Distrattori:**
+- Lo scambio di informazioni circa le caratteristiche del rischio dei clienti, riducendo il costo dei premi applicati.
+- Lo scambio di informazioni circa la solvibilità delle imprese comparate, migliorando la qualità dei prodotti offerti.
+- La sostituzione integrale della valutazione umana dell'adeguatezza, migliorando la qualità dei prodotti offerti.
+
+**D:** ⚠️ Perché il docente ricorda il passaggio da ISVAP a IVASS?
+**R:** Perché «anche il **cambiamento del nome dell'autorità di vigilanza riflette un cambiamento culturale del mondo assicurativo**: quindi prima **ISVAP** e oggi **IVASS**». ⚠️ È anche la ragione pratica per cui le slide citano un **Regolamento ISVAP** (n. 5/2006, art. 52) accanto ai **Regolamenti IVASS** (n. 40/2018): sono la stessa autorità in due epoche. Nel transcript l'acronimo è reso «IVAS» dall'ASR.
+**Opzione:** Perché il cambio di nome riflette un cambiamento culturale del mondo assicurativo; è anche il motivo per cui il corso cita sia regolamenti ISVAP sia regolamenti IVASS.
+**Distrattori:**
+- Perché il cambio di nome ha comportato il trasferimento della vigilanza assicurativa dalla Banca d'Italia a un'autorità autonoma.
+- Perché il cambio di nome riflette il passaggio della vigilanza assicurativa dal livello nazionale a quello europeo, con l'EIOPA.
+- Perché il cambio di nome ha comportato l'abrogazione di tutti i regolamenti ISVAP, sostituiti dai regolamenti IVASS.
+
+**D:** A che cosa attribuisce il docente l'espansione recente del settore InsurTech?
+**R:** «Anche e non solo, ma comunque, alla **pandemia Covid**, dove il tema delle **assicurazioni per eventi straordinari pandemici** ha visto un grande rifiorire» — e riguarda «sia le **persone fisiche** sia le **aziende e le società**»; e al fatto che l'InsurTech «sta finalmente entrando **prepotentemente** nel mercato delle assicurazioni offrendo con le nuove tecnologie **prodotti all'avanguardia che prima erano impensabili**». Ne riapre il dibattito «su **come la tecnologia modifichi la percezione delle persone e della società rispetto ai pericoli** o rispetto a eventuali tutele che possono essere approntate». ⚠️ Contenuto **solo del transcript**.
+
+**D:** Perché, secondo il docente, l'obbligo di informativa è particolarmente stringente nel settore assicurativo?
+**R:** Perché «i prodotti assicurativi, che hanno **molti parallelismi con i prodotti di investimento**, sono prodotti **tecnicamente difficili da comprendere per la persona media**»: il livello di «informazioni e trasparenza […] nella documentazione offerta agli assicurati deve essere **massimo**», cioè devono essere dati con chiarezza tutti i dati «che permettono alla persona di prendere una **decisione informata sull'adeguatezza del prodotto assicurativo offerto rispetto alle esigenze reali dell'assicurato**». In particolare va reso intellegibile il **costo**, cioè «come viene dipanato il **meccanismo di elaborazione del costo del prodotto**».
+
+**D:** ⚠️ Che cosa il docente chiede espressamente di memorizzare di questa lezione?
+**R:** «Il **Regolamento IVASS, il 40**, è un **regolamento cardine** che dovete conoscere e di cui dovete avere un'**infarinatura**; così come il **Codice delle assicurazioni private nei due articoli** citati. **Ma il messaggio più importante che dovete memorizzare sono i pro e i contro dell'avvento dell'InsurTech** nel mercato assicurativo privato, con un occhio al ***product governance oversight***, ai **big data** e quindi alla **distribuzione e profilazione di prodotti per i clienti**.»
+**Opzione:** I pro e i contro dell'avvento dell'InsurTech, con un occhio al product governance oversight, ai big data e alla distribuzione e profilazione dei prodotti.
+**Distrattori:**
+- I numeri e le date dei regolamenti IVASS e degli articoli del Codice delle assicurazioni private citati nella lezione.
+- Le sette voci dell'art. 80 del Regolamento IVASS n. 40/2018 e le sei della Direttiva IDD.
+- La differenza fra direttiva e regolamento europeo e le discrasie che ne derivano fra Stati membri.
+
+**D:** Perché, secondo il docente, le piattaforme InsurTech potrebbero fare meglio dei canali tradizionali nel valutare l'adeguatezza?
+**R:** Perché possono modulare obblighi di comportamento e valutazione dell'adeguatezza «con la **tecnologia**, con **algoritmi specifici**, con un'**intelligenza artificiale che limiti l'errore umano**»: «le piattaforme sono **probabilmente più in grado dei canali tradizionali** di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza del prodotto». ⚠️ È di nuovo il «**rovescio della medaglia**»: l'InsurTech è «un mercato tecnologico, assicurativo, **complicato, che deve essere sorvegliato con attenzione**, ma dall'altro lato ha anche un **grosso pregio**».
