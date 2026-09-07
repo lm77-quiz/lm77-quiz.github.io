@@ -2647,3 +2647,208 @@
 **D:** ⚠️ L'elenco dei requisiti della slide 13 è tassativo?
 **R:** No: è dato «**a titolo esemplificativo**». Il docente lo conferma: «i **principi base sono solo un minimo set di principi**, ce ne sono molti altri che si auspica possano **autodeterminarsi con il raffinarsi e l'affinarsi delle tecniche** di intelligenza artificiale». ⚠️ È il rovescio dei quantificatori assoluti: un'opzione che presenti l'elenco come **completo** o **tassativo** è sbagliata.
 
+
+## Lezione 10 — Intelligenza artificiale e robotica (2)
+
+**D:** Quali sono le due voci dell'agenda della lezione 10?
+**R:** «**Cosa fanno e cosa possono fare i sistemi di IA oggi**» e «**Intelligenza artificiale e normativa esistente**». ⚠️ L'intestazione della slide sulla seconda parte la chiama però «normativa **VIGENTE**»: l'agenda dice *esistente*, il corpo *vigente*.
+**Opzione:** Cosa fanno e cosa possono fare i sistemi di IA oggi; intelligenza artificiale e normativa esistente.
+**Distrattori:**
+- Cosa fanno e cosa possono fare i sistemi di IA oggi; le linee guida etiche della Commissione europea.
+- Una definizione di intelligenza artificiale; intelligenza artificiale e normativa esistente.
+- Cosa fanno e cosa possono fare i sistemi di IA oggi; la proposta di regolamento europeo sull'intelligenza artificiale.
+
+**D:** ⚠️ Secondo il docente, è l'intelligenza artificiale a essere normata?
+**R:** No. «Tutto ciò che riguarda l'intelligenza artificiale è **poco normato a livello locale**; […] è normato tutto ciò che ha dei **riflessi sui settori finanziari, sui settori assicurativi e in generale sui settori regolamentati**. Quindi **non è tanto l'intelligenza artificiale ad essere normata, ma sono i settori nei quali l'intelligenza artificiale esplica le sue potenzialità, le sue azioni**.» ⚠️ È la **premessa metodologica** che regge tutta la seconda parte della lezione, e sta **solo nel transcript**; la slide la rende con «**chiunque si troverà a progettare tali sistemi, dovrà tenere conto delle norme che per la natura dell'attività svolta potranno comunque essere applicabili**».
+**Opzione:** No: è normato ciò che ha riflessi sui settori regolamentati, quindi non l'IA in sé ma i settori nei quali essa esplica le proprie azioni.
+**Distrattori:**
+- Sì: l'intelligenza artificiale è oggetto di una disciplina europea organica, cui i settori regolamentati devono adeguarsi.
+- No: l'intelligenza artificiale è del tutto priva di disciplina, e le norme dei settori regolamentati non le sono applicabili.
+- Sì: l'intelligenza artificiale è normata a livello locale, mentre i settori regolamentati restano di competenza europea.
+
+**D:** ⚠️ Qual è la prima criticità delle IA indicata dalle slide?
+**R:** Che «la **tecnologia non ha alcuna sensibilità** poiché i **segnali non verbali e bio-segnali cerebrali decisivi per un'interazione sociale risultano essere totalmente assenti nei sistemi IA**, così come in **qualsivoglia sistema di calcolo che esamina dati, prende decisioni e compie scelte**». ⚠️ Due elementi legati da «**e**» (il transcript usa «o»), e l'assenza **non** riguarda i soli sistemi di IA.
+**Opzione:** Che la tecnologia non ha alcuna sensibilità, perché i segnali non verbali e i bio-segnali cerebrali decisivi per un'interazione sociale sono totalmente assenti nei sistemi IA e in qualsivoglia sistema di calcolo.
+**Distrattori:**
+- Che la tecnologia non ha alcuna sensibilità, perché i segnali non verbali e i bio-segnali cerebrali decisivi per un'interazione sociale sono totalmente assenti nei soli sistemi di IA.
+- Che la tecnologia non ha alcuna memoria, perché i dati raccolti nelle interazioni precedenti sono totalmente assenti nei sistemi IA e in qualsivoglia sistema di calcolo.
+- Che la tecnologia non ha alcuna sensibilità, perché i segnali non verbali e i bio-segnali cerebrali sono elaborati dai sistemi IA in modo puramente statistico.
+
+**D:** Perché, secondo la slide, esistono già rischi e problemi da risolvere nella programmazione delle IA?
+**R:** «Posto che gli **algoritmi selezionano solo informazioni e dati definiti nelle istruzioni del programmatore**.» Il docente ne trae che «il tema diventa più **su chi mette i dati** e quindi sull'**integrità di chi mette i dati**»: gli errori «**non dipendono dall'intelligenza artificiale**», e una volta lanciata «questa **continua imperterrita** nonostante […] situazioni **differenti, diverse o comunque mutate rispetto all'input iniziale**».
+**Opzione:** Perché gli algoritmi selezionano solo informazioni e dati definiti nelle istruzioni del programmatore.
+**Distrattori:**
+- Perché gli algoritmi selezionano autonomamente le informazioni e i dati, prescindendo dalle istruzioni del programmatore.
+- Perché gli algoritmi selezionano solo informazioni e dati raccolti direttamente dall'ambiente, senza alcuna istruzione preliminare.
+- Perché gli algoritmi non sono in grado di trattare quantità di dati superiori a quelle gestibili da un operatore umano.
+
+**D:** ⚠️ Qual è la seconda criticità delle IA, e chi l'aveva già evidenziata?
+**R:** Che «l'**errore dell'algoritmo non è trasparente, né immediatamente evincibile**», e l'aveva già evidenziato la **Commissione Europea** — per il docente, «durante la **fase di gestazione delle linee guida sui principi etici** dell'intelligenza artificiale». ⚠️ *Evincibile*, non «visibile» come rende il transcript.
+**Opzione:** Che l'errore dell'algoritmo non è trasparente né immediatamente evincibile; l'aveva già evidenziato la Commissione Europea.
+**Distrattori:**
+- Che l'errore dell'algoritmo non è trasparente né immediatamente evincibile; l'aveva già evidenziato il Parlamento Europeo.
+- Che l'errore dell'algoritmo non è correggibile una volta che il sistema è stato immesso sul mercato; l'aveva già evidenziato la Commissione Europea.
+- Che l'errore dell'algoritmo non è imputabile ad alcun soggetto responsabile; l'aveva già evidenziato la Commissione Europea.
+
+**D:** ⚠️ Con quale esempio la slide misura la rilevanza dell'errore non trasparente dell'algoritmo?
+**R:** Con l'«**ormai consolidato ricorso — in alcuni Paesi — a sistemi di calcolo che esaminano dati capaci di predire il rischio di recidiva al fine di stabilire il *quantum* della pena applicabile**». ⚠️ Il ricorso è «**ormai consolidato**», non «ricorrente» come dice il parlato; ed è «**in alcuni Paesi**», non ovunque.
+**Opzione:** Con l'ormai consolidato ricorso, in alcuni Paesi, a sistemi di calcolo capaci di predire il rischio di recidiva per stabilire il quantum della pena applicabile.
+**Distrattori:**
+- Con l'ormai consolidato ricorso, in tutti i Paesi europei, a sistemi di calcolo capaci di predire il rischio di recidiva per stabilire il quantum della pena applicabile.
+- Con l'ormai consolidato ricorso, in alcuni Paesi, a sistemi di calcolo capaci di predire il rischio di insolvenza per stabilire il merito creditizio del richiedente.
+- Con l'ormai consolidato ricorso, in alcuni Paesi, a sistemi di calcolo capaci di predire il rischio di recidiva per stabilire l'ammissibilità della prova nel processo.
+
+**D:** ⚠️ Che cosa bisognerà fare di fronte a un algoritmo, e in che cosa ciò differisce da una sentenza giudiziaria?
+**R:** «Bisognerà pertanto **analizzare tecnicamente le relative istruzioni e modalità di funzionamento dell'algoritmo**, diversamente da quanto invece accade in una **sentenza giudiziaria oggetto *sempre* di succinta motivazione**.» ⚠️ Il «**sempre**» è sulla slide e il parlato lo perde: è un quantificatore assoluto **della fonte**, non un'aggiunta dei distrattori.
+**Opzione:** Analizzare tecnicamente le relative istruzioni e modalità di funzionamento dell'algoritmo, diversamente da una sentenza giudiziaria, che è sempre oggetto di succinta motivazione.
+**Distrattori:**
+- Analizzare tecnicamente le relative istruzioni e modalità di funzionamento dell'algoritmo, così come accade per una sentenza giudiziaria, che è sempre oggetto di succinta motivazione.
+- Richiedere al programmatore una motivazione succinta della decisione, allo stesso modo di quanto accade per una sentenza giudiziaria.
+- Analizzare tecnicamente le relative istruzioni e modalità di funzionamento dell'algoritmo, diversamente da una sentenza giudiziaria, che non è mai oggetto di motivazione.
+
+**D:** ⚠️ In che cosa consiste la problematica delle valutazioni discrezionali?
+**R:** Nel fatto che, «se la decisione dell'IA è basata su **precedenti giudiziari che sono contrastanti tra di essi**, **come dovrà leggerli il sistema**?», e nel «**significato** che l'IA attribuirà a quelle **parti di norme e leggi che rimandano a valutazioni esterne al diritto** come la «**correttezza**», la «**buona fede**», la «**diligenza**», che sono **necessariamente collegate alla lettura contingente e transitoria di una singola fattispecie**». Il docente aggiunge a voce la «**diligenza del buon padre di famiglia**» e osserva che «la diligenza sarà **diversa a seconda della persona a cui era rivolto, il servizio offerto, a chi lo esercitava**».
+**Opzione:** Nel modo in cui il sistema deve leggere precedenti giudiziari contrastanti e attribuire significato a nozioni come correttezza, buona fede e diligenza, che rimandano a valutazioni esterne al diritto.
+**Distrattori:**
+- Nel modo in cui il sistema deve leggere precedenti giudiziari contrastanti e attribuire significato a nozioni come correttezza, buona fede e diligenza, che rimandano a valutazioni interne al testo normativo.
+- Nel modo in cui il sistema deve scegliere fra norme di rango diverso quando queste dispongano in senso contrastante sulla medesima fattispecie.
+- Nel modo in cui il programmatore deve tradurre in istruzioni le clausole generali, che per loro natura non ammettono alcuna applicazione automatizzata.
+
+**D:** ⚠️ Come qualifica la slide le nozioni di «correttezza», «buona fede» e «diligenza»?
+**R:** Come **parti di norme e leggi che rimandano a valutazioni esterne al diritto**, «**necessariamente collegate alla lettura contingente e transitoria di una singola fattispecie**». ⚠️ **Esterne al diritto** — non «esterne alla fattispecie» né «esterne al sistema»: rinviano a criteri che il testo normativo **non contiene**.
+**Opzione:** Come parti di norme e leggi che rimandano a valutazioni esterne al diritto, collegate alla lettura contingente e transitoria di una singola fattispecie.
+**Distrattori:**
+- Come parti di norme e leggi che rimandano a valutazioni esterne alla fattispecie, collegate alla lettura sistematica dell'ordinamento nel suo complesso.
+- Come definizioni normative di rango primario, la cui portata è fissata una volta per tutte dal legislatore.
+- Come clausole contrattuali di uso corrente, la cui interpretazione è rimessa alla volontà delle parti.
+
+**D:** ⚠️ In relazione a che cosa si pone soprattutto l'interrogativo sulle valutazioni discrezionali?
+**R:** «In relazione alla **responsabilità civile derivante dai danni causati da questi sistemi e dalle loro *iterazioni***.» ⚠️ «Iterazioni» è un **refuso della slide** (verificato sulla pagina renderizzata) per «**interazioni**»: il senso è quello del parlato, e riprende il requisito di **robustezza** della lezione 09, che vuole evitare che «le interazioni tra le IA creino danni non voluti».
+**Opzione:** In relazione alla responsabilità civile derivante dai danni causati da questi sistemi e dalle loro interazioni.
+**Distrattori:**
+- In relazione alla responsabilità penale derivante dai reati commessi mediante l'impiego di questi sistemi.
+- In relazione alla responsabilità civile derivante dai danni causati ai sistemi da interferenze esterne.
+- In relazione alla responsabilità amministrativa delle imprese che immettono questi sistemi sul mercato senza autorizzazione.
+
+**D:** ⚠️ Che cosa dice la slide sulle «persone elettroniche»?
+**R:** Che «**nel lungo termine** ci si dovrebbe altresì soffermare sul **riconoscimento dello *status* giuridico di tali entità robotiche, considerate a tutti gli effetti di legge *persone elettroniche* e pertanto responsabili di risarcire *qualsiasi* danno da loro causato**». ⚠️ Due quantificatori della slide che il parlato altera: «**nel lungo termine**» (il docente aggiunge «direi anche nel **medio** termine») e «risarcire **qualsiasi** danno» (il parlato dice «i danni»).
+**Opzione:** Che nel lungo termine ci si dovrebbe soffermare sul riconoscimento dello status giuridico di tali entità robotiche, considerate a tutti gli effetti di legge persone elettroniche e responsabili di risarcire qualsiasi danno da loro causato.
+**Distrattori:**
+- Che nel breve termine ci si dovrebbe soffermare sul riconoscimento dello status giuridico di tali entità robotiche, considerate a tutti gli effetti di legge persone elettroniche e responsabili di risarcire qualsiasi danno da loro causato.
+- Che nel lungo termine ci si dovrebbe soffermare sul riconoscimento dello status giuridico di tali entità robotiche, considerate a tutti gli effetti di legge persone elettroniche ma in nessun caso responsabili dei danni da loro causati.
+- Che nel lungo termine ci si dovrebbe soffermare sull'attribuzione al programmatore dello status di unico responsabile dei danni causati dalle entità robotiche.
+
+**D:** ⚠️ Quante e quali voci compone l'elenco della normativa vigente applicabile all'IA?
+**R:** **Tre**: «**1. AML**», «**2. GDPR**», «**3. MiFID**». ⚠️ L'**intestazione** della prima slide della sezione ne annuncia però solo **due** — «INTELLIGENZA ARTIFICIALE E NORMATIVA VIGENTE: **AML E GDPR**» — e la voce **MiFID** compare più avanti **senza intestazione propria**. Un'opzione che si fermi ad «AML e GDPR» riproduce **letteralmente l'intestazione**, ma non l'elenco della lezione.
+**Opzione:** Tre: AML, GDPR e MiFID.
+**Distrattori:**
+- Due: AML e GDPR.
+- Tre: AML, GDPR e PSD2.
+- Quattro: AML, GDPR, MiFID e IDD.
+
+**D:** In che modo l'IA può essere applicata alle verifiche antiriciclaggio?
+**R:** «L'intelligenza artificiale può utilizzare […] **comportamenti di spesa del passato per evidenziare movimenti anomali**. Ciò permette al sistema di **migliorare apprendendo dai suoi errori**; pertanto ove si segnali come **truffa** una **transazione normale** e un **essere umano lo corregga**, esso **imparerà dall'esperienza** a prendere decisioni ancora più sofisticate su **quale operazione possa essere considerata come una frode e quale no**.»
+**Opzione:** Utilizzando i comportamenti di spesa del passato per evidenziare movimenti anomali, e migliorando apprendendo dai propri errori quando un essere umano corregge una transazione normale segnalata come truffa.
+**Distrattori:**
+- Utilizzando i comportamenti di spesa del passato per evidenziare movimenti anomali, e migliorando apprendendo dai propri errori quando un essere umano corregge una transazione fraudolenta classificata come normale.
+- Utilizzando le sole informazioni fornite dal cliente in sede di adeguata verifica, senza alcuna possibilità di apprendere dall'esperienza.
+- Utilizzando i comportamenti di spesa del passato per costruire il profilo di rischio del cliente, che l'operatore è poi tenuto a trasmettere all'autorità di vigilanza.
+
+**D:** ⚠️ Quali due tecniche indica la slide per l'applicazione dell'IA in materia antiriciclaggio, e con quale finalità ciascuna?
+**R:** Il ***data mining***, «finalizzat[o] ad **estrarre informazioni utili a partire da grandi quantità di dati, altrimenti difficilmente interpretabili**»; e il ***machine learning***, «finalizzat[o] a compiere **analisi di raggruppamento dei dati in gruppi omogenei e di classificazione degli stessi in base a regole autodeterminate *dal sistema***». ⚠️ La coda «**dal sistema**» sta **solo sulla slide**: il transcript si ferma a «regole autodeterminate».
+**Opzione:** Il data mining, per estrarre informazioni utili da grandi quantità di dati altrimenti difficilmente interpretabili; il machine learning, per raggruppare i dati in gruppi omogenei e classificarli in base a regole autodeterminate dal sistema.
+**Distrattori:**
+- Il machine learning, per estrarre informazioni utili da grandi quantità di dati altrimenti difficilmente interpretabili; il data mining, per raggruppare i dati in gruppi omogenei e classificarli in base a regole autodeterminate dal sistema.
+- Il data mining, per estrarre informazioni utili da grandi quantità di dati altrimenti difficilmente interpretabili; il machine learning, per raggruppare i dati in gruppi omogenei e classificarli in base a regole predefinite dal programmatore.
+- Il data mining, per archiviare in forma cifrata grandi quantità di dati altrimenti difficilmente interpretabili; il machine learning, per raggruppare i dati in gruppi omogenei e classificarli in base a regole autodeterminate dal sistema.
+
+**D:** Quale problema pratico dell'antiriciclaggio l'IA promette di risolvere, secondo il docente?
+**R:** L'**affollamento di segnalazioni infondate**. L'operatore «giunge spesso a **situazioni di dubbio**» e «**nel dubbio segnala**»: le segnalazioni arrivano all'**UIF**, «quella parte della **Banca d'Italia** che si preoccupa di **raccogliere le segnalazioni di operazioni sospette**», e l'affollamento produce «un **rallentamento del lavoro dell'UIF**». ⚠️ I danneggiati sono **due**, e il secondo è il punto: il rallentamento «non giova a chi è **soggetto di una segnalazione senza esserci nulla da segnalare**, **ma soprattutto giova a quelli che invece hanno necessità di essere segnalati**», che «vedranno **procrastinare l'intervento** della Banca d'Italia e delle autorità giudiziarie **o addirittura non esserci**». ⚠️ Contenuto **solo del transcript**.
+
+**D:** Quale doppio vantaggio attribuisce il docente all'IA in materia antiriciclaggio?
+**R:** «**Uno**, perché l'**elaborazione dell'enorme quantità di dati che può fare un computer simultaneamente** è massiccia; **due**, perché avrebbe delle **linee guida chiare per gestire le eventuali segnalazioni dubbie**, **scartando** cioè quelle **palesemente infondate** perché non rispondono ad alcuni criteri, e **segnalando** invece quelle **sicuramente da segnalare o verosimilmente da segnalare**.» ⚠️ Contenuto **solo del transcript**.
+**Opzione:** L'elaborazione simultanea di enormi quantità di dati, e linee guida chiare per scartare le segnalazioni palesemente infondate e inoltrare quelle sicuramente o verosimilmente da segnalare.
+**Distrattori:**
+- L'elaborazione simultanea di enormi quantità di dati, e la possibilità di sostituire integralmente l'Unità di Informazione Finanziaria nella valutazione delle segnalazioni.
+- La riduzione del costo degli adempimenti antiriciclaggio, e l'esonero dell'operatore finanziario dall'obbligo di segnalazione nei casi dubbi.
+- L'elaborazione simultanea di enormi quantità di dati, e l'inoltro automatico all'autorità di tutte le operazioni che presentino un qualsiasi elemento di dubbio.
+
+**D:** ⚠️ Che cosa dice la slide sul rapporto fra machine learning e GDPR?
+**R:** Che «attraverso l'utilizzo di sistemi di **machine learning** possono essere **prodotti nuovi dati personali**, che sono **derivati in via computazionale da quelli originali** attraverso **processi di derivazione connessi all'apprendimento autonomo**, e che **debbono parimenti essere resi disponibili al loro titolare, in particolare ove siano dati predittivi di comportamenti futuri**». ⚠️ La parola che porta il peso giuridico è «**parimenti**»: i dati **prodotti** dalla macchina hanno lo **stesso** regime di quelli originali.
+**Opzione:** Che il machine learning può produrre nuovi dati personali derivati in via computazionale da quelli originali, i quali debbono parimenti essere resi disponibili al loro titolare, in particolare se predittivi di comportamenti futuri.
+**Distrattori:**
+- Che il machine learning può produrre nuovi dati personali derivati in via computazionale da quelli originali, i quali sono esclusi dagli obblighi di messa a disposizione previsti per i dati originali.
+- Che il machine learning può produrre nuovi dati personali derivati in via computazionale da quelli originali, i quali debbono essere resi disponibili al loro titolare solo se questi ne faccia espressa richiesta.
+- Che il machine learning può elaborare i dati personali raccolti dal titolare senza però poterne produrre di nuovi, poiché la derivazione computazionale non genera dati personali.
+
+**D:** Quali attività, secondo la slide, richiedono la raccolta e il trattamento di dati personali?
+**R:** «**Offrire consulenza sia in materia di servizi di pagamento, sia in materia di servizi finanziari, profilando il cliente e le informazioni che lo stesso trasferisce a questi operatori**.» ⚠️ Sono **due** ambiti di consulenza distinti; il transcript li fonde in «servizi di pagamento finanziari».
+**Opzione:** Offrire consulenza sia in materia di servizi di pagamento, sia in materia di servizi finanziari, profilando il cliente e le informazioni che egli trasferisce a questi operatori.
+**Distrattori:**
+- Offrire consulenza in materia di servizi di pagamento finanziari, profilando il cliente e le informazioni che egli trasferisce a questi operatori.
+- Offrire consulenza sia in materia di servizi di pagamento, sia in materia di servizi assicurativi, profilando il cliente e le informazioni che egli trasferisce a questi operatori.
+- Offrire consulenza sia in materia di servizi di pagamento, sia in materia di servizi finanziari, senza però profilare il cliente né le informazioni che egli trasferisce.
+
+**D:** ⚠️ Come qualifica la slide l'area della gestione finanziaria personale?
+**R:** Come «proprio **una di quelle** dove sono in corso sviluppi delle competenze di sistemi di IA **molto interessanti**»: vi sono operatori che usano l'IA «per costruire **algoritmi che aiutino i consumatori a prendere decisioni intelligenti sulla gestione del proprio denaro**», creando «un **preciso grafico di spesa** che visualizzi in maniera semplice l'**elaborazione di tutti i dati esaminati in relazione ad ogni singolo consumatore**». ⚠️ «**Una di quelle**», non «**quella**» come dice il parlato: la slide non la presenta come l'unica né come la principale.
+**Opzione:** Come una delle aree in cui sono in corso sviluppi molto interessanti delle competenze dei sistemi di IA.
+**Distrattori:**
+- Come l'unica area in cui sono in corso sviluppi delle competenze dei sistemi di IA.
+- Come l'area in cui gli sviluppi delle competenze dei sistemi di IA sono più avanzati e ormai conclusi.
+- Come un'area in cui gli sviluppi delle competenze dei sistemi di IA sono ancora del tutto assenti.
+
+**D:** ⚠️ Che cosa produce, secondo la slide, l'IA applicata alla gestione finanziaria personale?
+**R:** «Un **preciso grafico di spesa** che visualizzi in maniera semplice l'**elaborazione di tutti i dati esaminati in relazione ad ogni singolo consumatore**.» ⚠️ «**Tutti i dati**» sulla slide; il parlato dice «**migliaia di dati**» e vi aggiunge «in un **arco temporale anche di decenni**» — entrambe formule **solo del transcript**.
+**Opzione:** Un preciso grafico di spesa che visualizzi in maniera semplice l'elaborazione di tutti i dati esaminati in relazione a ogni singolo consumatore.
+**Distrattori:**
+- Un preciso grafico di spesa che visualizzi in maniera semplice l'elaborazione di migliaia di dati esaminati in un arco temporale anche di decenni.
+- Un preciso profilo di rischio che classifichi ogni singolo consumatore in categorie omogenee di merito creditizio.
+- Un preciso grafico di spesa che visualizzi in maniera semplice l'elaborazione di tutti i dati esaminati in relazione all'insieme dei consumatori del medesimo operatore.
+
+**D:** Che cos'è il robo advisor secondo la slide, e a che cosa serve?
+**R:** È l'«**esempio di attività svolta nell'ambito del mercato del Fintech**»: i *robo advisor* «promuovono **servizi nell'ambito dell'offerta in materia di consulenza di servizi finanziari** che, grazie ad un **sofisticato automatismo**, riescono a **ridurre i costi necessari alla gestione di un portafoglio diversificato su misura**, consentendo anche **a chi non ha un capitale sufficiente per permettersi le cure di un consulente finanziario** di **gestire i propri investimenti in modo semplice ed efficiente**». ⚠️ La ragion d'essere è di **costo e accesso**, non di **rendimento**.
+**Opzione:** Servizi di consulenza finanziaria che, grazie a un sofisticato automatismo, riducono i costi della gestione di un portafoglio diversificato su misura e la rendono accessibile anche a chi non ha capitale sufficiente per un consulente finanziario.
+**Distrattori:**
+- Servizi di consulenza finanziaria che, grazie a un sofisticato automatismo, garantiscono rendimenti superiori a quelli ottenibili da un consulente finanziario a parità di capitale investito.
+- Servizi di gestione di portafoglio che, grazie a un sofisticato automatismo, sostituiscono integralmente il consulente finanziario nell'esecuzione degli ordini per conto del cliente.
+- Servizi di consulenza finanziaria che, grazie a un sofisticato automatismo, riducono i costi della gestione di un portafoglio standardizzato, uguale per tutti i clienti dell'operatore.
+
+**D:** Che cosa offre concretamente il robo advisor, secondo la slide?
+**R:** «L'**utilizzo di algoritmi per comprendere al meglio quale sia il *profilo dell'investitore***, così da poter creare dei **piani di investimento con una *asset allocation* personalizzata**.» ⚠️ La slide dice «personalizzata»; il docente aggiunge «**estremamente** personalizzata».
+**Opzione:** L'utilizzo di algoritmi per comprendere al meglio quale sia il profilo dell'investitore, così da creare piani di investimento con una asset allocation personalizzata.
+**Distrattori:**
+- L'utilizzo di algoritmi per comprendere al meglio quale sia l'andamento atteso dei mercati, così da creare piani di investimento con una asset allocation personalizzata.
+- L'utilizzo di algoritmi per comprendere al meglio quale sia il profilo dell'investitore, così da selezionare per lui uno fra i portafogli modello predisposti dall'intermediario.
+- L'utilizzo di algoritmi per eseguire automaticamente gli ordini dell'investitore, riducendo i tempi di negoziazione sui mercati regolamentati.
+
+**D:** ⚠️ Che cosa rileva la Consob sul fenomeno del robo advice?
+**R:** Che «il fenomeno del *robo advice* **sia già stato affrontato nell'ambito del pacchetto MiFID**, che prevede la **possibilità di prestazione del servizio di consulenza in materia di investimenti tramite sistemi automatizzati o semi-automatizzati**, chiarendo che le **medesime regole si applicano a prescindere dal canale di interazione con il cliente** (la **consulenza finanziaria prestata dai robo advisor è pertanto inquadrabile nel medesimo ambito del servizio di consulenza in materia di investimenti**)». ⚠️ È una conclusione di **continuità**: nessuna disciplina speciale, nessuna esenzione.
+**Opzione:** Che il fenomeno è già affrontato dal pacchetto MiFID, che ammette la consulenza tramite sistemi automatizzati o semi-automatizzati e applica le medesime regole a prescindere dal canale di interazione con il cliente.
+**Distrattori:**
+- Che il fenomeno non è ancora affrontato dal pacchetto MiFID e richiede pertanto una disciplina speciale, ancora da introdurre nell'ordinamento italiano.
+- Che il fenomeno è già affrontato dal pacchetto MiFID, che ammette la consulenza tramite sistemi automatizzati o semi-automatizzati applicandovi però un regime semplificato rispetto al canale tradizionale.
+- Che il fenomeno è già affrontato dal pacchetto MiFID, che ammette la consulenza tramite sistemi interamente automatizzati soltanto se il cliente è un investitore professionale.
+
+**D:** ⚠️ La consulenza prestata da un robo advisor è un servizio nuovo o rientra in una categoria esistente?
+**R:** Rientra in una categoria esistente: «la **consulenza finanziaria prestata dai robo advisor è pertanto inquadrabile nel medesimo ambito del servizio di consulenza in materia di investimenti**». ⚠️ Il principio che regge la conclusione è che «le **medesime regole si applicano a prescindere dal canale di interazione con il cliente**»: **il canale non cambia la qualificazione del servizio**.
+**Opzione:** Rientra nel medesimo ambito del servizio di consulenza in materia di investimenti, perché le medesime regole si applicano a prescindere dal canale di interazione con il cliente.
+**Distrattori:**
+- Costituisce un servizio nuovo e autonomo, distinto dalla consulenza in materia di investimenti perché prestato senza interazione umana.
+- Rientra nel medesimo ambito del servizio di consulenza in materia di investimenti, ma solo quando il sistema è semi-automatizzato e prevede un intervento umano finale.
+- Costituisce un servizio accessorio alla gestione di portafogli, e come tale non è soggetto alle regole di condotta del pacchetto MiFID.
+
+**D:** Quali criticità deve superare l'IA per guadagnarsi fiducia e penetrazione nel mercato, secondo il bilancio del docente?
+**R:** L'IA «assomma in sé una serie di **enormi vantaggi ancora embrionali** — cioè **devono ancora dare i loro effetti** — ma […] deve **guardare alle proprie criticità**: la **mancanza di controllo all'interno della macchina**, la **responsabilità che in questo momento parrebbe essere quasi esclusiva del programmatore**, e tutte le tematiche relative alla **personalità elettronica**, cioè «come un domani, se qualcosa andasse storto, **queste nuove personalità che non sono più umane possano risarcire**». ⚠️ Contenuto **solo del transcript**.
+**Opzione:** La mancanza di controllo all'interno della macchina, la responsabilità che oggi parrebbe quasi esclusiva del programmatore, e le tematiche della personalità elettronica.
+**Distrattori:**
+- La mancanza di controllo all'interno della macchina, la responsabilità che oggi parrebbe quasi esclusiva dell'utilizzatore finale, e le tematiche della personalità elettronica.
+- Il costo di sviluppo dei sistemi, la scarsità di dati disponibili per l'addestramento, e la resistenza culturale degli operatori tradizionali.
+- La mancanza di una disciplina europea dell'intelligenza artificiale, l'assenza di un'autorità di vigilanza dedicata e la frammentazione fra Stati membri.
+
+**D:** ⚠️ A quale condizione, secondo il docente, l'intelligenza artificiale smetterà di spiegare i propri effetti «in modo limitato»?
+**R:** Quando «sarà considerata **molto precisa**, ovverosia **l'errore sarà facilmente stanabile**»: fino ad allora «rimarrà un sistema sicuramente **in evoluzione**, ma che **spiegherà i suoi effetti già brillanti in modo limitato**, quando invece **le potenzialità sono massime** e, se **al servizio dell'essere umano**, potrebbero davvero **fare la storia delle nuove tecnologie**». ⚠️ È la versione operativa della ***Trustworthy AI*** della lezione 09: l'affidabilità come **condizione della diffusione**.
+**Opzione:** Quando sarà considerata molto precisa, cioè quando l'errore sarà facilmente individuabile.
+**Distrattori:**
+- Quando sarà dotata di una disciplina europea vincolante, cioè quando le linee guida etiche saranno trasformate in regolamento.
+- Quando l'errore sarà del tutto eliminato, poiché nessun margine di errore è compatibile con l'impiego di questi sistemi.
+- Quando sarà riconosciuto lo status giuridico di persona elettronica, cioè quando la macchina potrà rispondere in proprio dei danni.
