@@ -2368,3 +2368,282 @@
 
 **D:** Perché, secondo il docente, le piattaforme InsurTech potrebbero fare meglio dei canali tradizionali nel valutare l'adeguatezza?
 **R:** Perché possono modulare obblighi di comportamento e valutazione dell'adeguatezza «con la **tecnologia**, con **algoritmi specifici**, con un'**intelligenza artificiale che limiti l'errore umano**»: «le piattaforme sono **probabilmente più in grado dei canali tradizionali** di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza del prodotto». ⚠️ È di nuovo il «**rovescio della medaglia**»: l'InsurTech è «un mercato tecnologico, assicurativo, **complicato, che deve essere sorvegliato con attenzione**, ma dall'altro lato ha anche un **grosso pregio**».
+
+## Lezione 09 — Intelligenza artificiale e robotica (1)
+
+**D:** Quali sono le due voci dell'agenda della lezione 09?
+**R:** «**Una definizione di Intelligenza Artificiale**» e «**Linee guida elaborate dalla Commissione europea applicabili in materia di robotica e intelligenza artificiale**».
+**Opzione:** Una definizione di Intelligenza Artificiale; le linee guida elaborate dalla Commissione europea applicabili in materia di robotica e intelligenza artificiale.
+**Distrattori:**
+- Una definizione di Intelligenza Artificiale; le tecniche di machine learning e deep learning.
+- Una definizione di Intelligenza Artificiale; il Regolamento europeo sull'intelligenza artificiale.
+- Le linee guida elaborate dalla Commissione europea; la responsabilità civile per danno da algoritmo.
+
+**D:** Qual è la definizione di «intelligenza artificiale» data dalle slide?
+**R:** «"**Intelligenza artificiale**" (IA) indica **sistemi che mostrano un comportamento intelligente analizzando il proprio ambiente e compiendo azioni, con un certo grado di autonomia, per raggiungere specifici obiettivi**.»
+**Opzione:** Sistemi che mostrano un comportamento intelligente analizzando il proprio ambiente e compiendo azioni, con un certo grado di autonomia, per raggiungere specifici obiettivi.
+**Distrattori:**
+- Sistemi che mostrano un comportamento intelligente analizzando il proprio ambiente e compiendo azioni, in piena autonomia, per raggiungere specifici obiettivi.
+- Sistemi che mostrano un comportamento intelligente analizzando i dati ricevuti dall'operatore e compiendo azioni, con un certo grado di autonomia, per raggiungere specifici obiettivi.
+- Sistemi che mostrano un comportamento adattivo analizzando il proprio ambiente e compiendo azioni, con un certo grado di autonomia, per raggiungere obiettivi predeterminati dal programmatore.
+
+**D:** ⚠️ Che cosa significa «comportamento intelligente» nella definizione di IA, secondo il docente?
+**R:** È il **comportamento adattivo**, «cioè quel comportamento che riesce a **dare delle risposte in modo proattivo, elaborando il contesto, i dati e adattando la risposta alle peculiarità del contesto**». Quindi «**non un mero recettore passivo di dati e informazioni**, il classico vecchio buon PC, il computer, ma […] **qualcosa in più**: una **elaborazione**, una **personalizzazione**, una **digestione dei dati ricevuti**». ⚠️ La glossa è **solo del transcript**: la parola «adattivo» non compare sulle slide.
+**Opzione:** Il comportamento adattivo, che risponde in modo proattivo elaborando il contesto e adattando la risposta alle sue peculiarità, in contrapposizione al recettore passivo di dati.
+**Distrattori:**
+- Il comportamento ripetitivo, che applica al contesto la stessa risposta con la massima rapidità e senza errore umano.
+- Il comportamento conforme, che risponde secondo le regole etiche fissate dalle linee guida della Commissione europea.
+- Il comportamento autonomo, che prescinde interamente dai dati dell'ambiente e persegue il solo obiettivo assegnato.
+
+**D:** ⚠️ Perché, secondo il docente, il «raggiungimento di specifici obiettivi» non è davvero il parametro principale dell'IA?
+**R:** Perché «le **variabili umane sono talmente imprevedibili, elevate, diverse, mutevoli, che è praticamente impossibile prevedere già il raggiungimento di uno specifico obiettivo a priori**». L'intelligenza artificiale vera «è quella che **muta il proprio risultato, muta le proprie azioni, proprio sulla base delle variabili che percepisce di volta in volta**». ⚠️ È un **commento del docente**: la formula da citare all'esame resta quella della slide, «per raggiungere specifici obiettivi».
+**Opzione:** Perché l'imprevedibilità e la mutevolezza delle variabili umane rendono impossibile fissare a priori uno specifico obiettivo: l'IA vera muta il risultato in base alle variabili che percepisce di volta in volta.
+**Distrattori:**
+- Perché gli obiettivi dell'IA sono fissati dalle linee guida della Commissione europea e non dal progettista, e quindi non sono disponibili a priori.
+- Perché nel mondo finanziario, tecnologico e assicurativo l'obiettivo è sempre il medesimo, cioè la riduzione del costo del servizio.
+- Perché il raggiungimento di uno specifico obiettivo è vietato dal principio di prevenzione dei danni, che impone all'IA di non influenzare gli esseri umani.
+
+**D:** ⚠️ Quali sono le quattro accezioni con cui le slide dicono che «per IA si intende altresì»?
+**R:** ① «**Studio di sistemi che pensano come gli esseri umani**»: «[Automazione] di attività che associamo al pensiero umano, attività come **prendere decisioni, risolvere problemi, apprendere, …**»; ② «**Studio di sistemi che pensano razionalmente**»: «Studio delle **facoltà mentali** attraverso l'uso di **modelli [matematici/ingegneristici] computazionali**»; ③ «**Studio di sistemi che agiscono come gli esseri umani**»: «Studio di come **far fare ai computer cose che, attualmente, le persone fanno meglio**»; ④ «**Sistemi che agiscono razionalmente**»: «**Ramo dell'informatica che si occupa di automatizzare un comportamento intelligente**».
+**Opzione:** Sistemi che pensano come gli esseri umani; sistemi che pensano razionalmente; sistemi che agiscono come gli esseri umani; sistemi che agiscono razionalmente.
+**Distrattori:**
+- Sistemi che pensano come gli esseri umani; sistemi che pensano razionalmente; sistemi che agiscono come gli esseri umani; sistemi che apprendono autonomamente.
+- Sistemi che pensano come gli esseri umani; sistemi che apprendono razionalmente; sistemi che agiscono come gli esseri umani; sistemi che agiscono razionalmente.
+- Sistemi che pensano come gli esseri umani; sistemi che pensano razionalmente; sistemi che comunicano come gli esseri umani; sistemi che agiscono razionalmente.
+
+**D:** ⚠️ Quale delle quattro accezioni di IA della slide 4 è formulata diversamente dalle altre tre?
+**R:** La **quarta**. Le voci **i, ii, iii** aprono tutte con «**Studio di sistemi che…**» (*pensano come gli esseri umani*, *pensano razionalmente*, *agiscono come gli esseri umani*); la **iv** è la sola a non cominciare così: «**Sistemi che agiscono razionalmente**». ⚠️ È la classica irregolarità in **coda all'elenco** su cui lavorano i distrattori.
+**Opzione:** La quarta, «Sistemi che agiscono razionalmente», unica a non aprire con «Studio di sistemi che…».
+**Distrattori:**
+- La prima, «Studio di sistemi che pensano come gli esseri umani», unica a contenere una citazione fra parentesi quadre.
+- La terza, «Studio di sistemi che agiscono come gli esseri umani», unica a non contenere l'avverbio «razionalmente».
+- La seconda, «Studio di sistemi che pensano razionalmente», unica a non riferirsi al comportamento umano.
+
+**D:** ⚠️ Secondo quale schema si organizzano le quattro accezioni di IA della slide 4?
+**R:** Come una **matrice 2×2**: asse *facoltà* — **pensano** / **agiscono** — per asse *modello* — **come gli esseri umani** / **razionalmente**. Ogni casella è una delle quattro voci; un distrattore sbaglia di norma **un solo asse**, quindi conviene chiedersi **quale casella** e non che cosa dice la frase.
+**Opzione:** Una matrice 2×2 fra «pensano / agiscono» e «come gli esseri umani / razionalmente».
+**Distrattori:**
+- Una scala crescente di autonomia, dal sistema eterodiretto al sistema pienamente autonomo.
+- Una successione cronologica, dalle prime ricerche cibernetiche alle reti neurali profonde.
+- Una matrice 2×2 fra «pensano / apprendono» e «come gli esseri umani / come le macchine».
+
+**D:** Quale delle quattro accezioni di IA il docente indica come la più problematica, e perché?
+**R:** La **terza** — «studio di sistemi che **agiscono come gli esseri umani**, per far fare ai computer cose che **attualmente le persone fanno meglio**» — perché va a «**interferire con ambienti e sfere della vita umana prima assolutamente appannaggio esclusivo degli esseri umani**»: «voi pensate alla **chirurgia robotica**, voi pensate a **parcheggi di auto completamente automatizzati**, voi pensate ad **automobili che si guidano da sole**. Ecco, **quale sarà il futuro per quelle professioni**?». Sono temi della branca detta **etica dell'intelligenza artificiale**; l'**etica del lavoro**, precisa, «non la tratteremo in queste slide». ⚠️ Contenuto **solo del transcript**.
+
+**D:** Che cos'è l'IA come **campo di ricerca**, secondo la slide che ammette l'assenza di un'univoca definizione?
+**R:** «Un **campo di ricerca che studia la programmazione e progettazione di sistemi mirati a dotare le macchine di una o più caratteristiche considerate tipicamente umane**. Proprietà, che variano **dall'apprendimento alla percezione visiva o spazio-temporale**.»
+**Opzione:** Un campo di ricerca che studia la programmazione e progettazione di sistemi mirati a dotare le macchine di una o più caratteristiche considerate tipicamente umane.
+**Distrattori:**
+- Un campo di ricerca che studia la programmazione e progettazione di sistemi mirati a dotare le macchine di tutte le caratteristiche considerate tipicamente umane.
+- Un ramo dell'informatica che studia la programmazione e progettazione di sistemi mirati a sostituire le macchine agli esseri umani nelle attività ripetitive.
+- Un campo di ricerca che studia la programmazione e progettazione di sistemi mirati a dotare gli esseri umani di una o più caratteristiche tipiche delle macchine.
+
+**D:** ⚠️ In presenza di quali due circostanze, e in che anno, la Commissione europea ha pubblicato le Linee Guida etiche sull'IA?
+**R:** Nel **2018**, «in assenza di un **circoscritto ambito applicativo**» e «delle **imprevedibili evoluzioni della tecnologia**». ⚠️ I presupposti sono **due** e vanno citati entrambi: l'assenza di un'univoca definizione è il presupposto della **frase precedente** della slide, non della pubblicazione.
+**Opzione:** Nel 2018, in assenza di un circoscritto ambito applicativo e a fronte delle imprevedibili evoluzioni della tecnologia.
+**Distrattori:**
+- Nel 2016, in assenza di un circoscritto ambito applicativo e a fronte delle imprevedibili evoluzioni della tecnologia.
+- Nel 2018, in assenza di un'univoca definizione di intelligenza artificiale e a fronte della mancanza di investimenti pubblici nel settore.
+- Nel 2018, a fronte della proliferazione di normative nazionali divergenti e del conseguente arbitraggio normativo.
+
+**D:** ⚠️ Quali sono i **3 principi** sui quali, secondo le Linee Guida etiche della Commissione europea, lo sviluppo dell'IA si dovrebbe basare?
+**R:** ① «**Assicurare il rispetto dei diritti fondamentali e dei principi di applicazione etica**»; ② «**Applicare misure per garantire l'affidabilità dei sistemi di IA sin dalla fase della progettazione e lungo tutto il percorso di utilizzo**»; ③ «**Realizzare un *assessment list* per tramutare le "intenzioni di principio" in qualità pratiche ed operative dei sistemi che operano con algoritmi e altri sistemi di IA**».
+**Opzione:** Rispetto dei diritti fondamentali e dei principi di applicazione etica; affidabilità dei sistemi dalla progettazione e lungo tutto l'utilizzo; realizzazione di un assessment list.
+**Distrattori:**
+- Rispetto dei diritti fondamentali e dei principi di applicazione etica; affidabilità dei sistemi dalla progettazione e lungo tutto l'utilizzo; istituzione di un'autorità europea di vigilanza sull'IA.
+- Rispetto dei diritti fondamentali e dei principi di applicazione etica; affidabilità dei sistemi al momento della sola immissione sul mercato; realizzazione di un assessment list.
+- Rispetto della dignità umana; prevenzione dei danni; equità ed esplicabilità.
+
+**D:** ⚠️ Nel secondo dei tre principi delle Linee Guida, in quale arco temporale va garantita l'affidabilità dei sistemi di IA?
+**R:** «**Sin dalla fase della progettazione e lungo tutto il percorso di utilizzo**»: **due** quantificatori temporali, e l'opzione che ne conservi uno solo è già sbagliata.
+**Opzione:** Sin dalla fase della progettazione e lungo tutto il percorso di utilizzo.
+**Distrattori:**
+- Sin dalla fase della progettazione e fino alla prima immissione sul mercato.
+- Lungo tutto il percorso di utilizzo, a partire dalla messa in servizio del sistema.
+- Sin dalla fase della progettazione e lungo tutto il percorso di utilizzo, per almeno cinque anni dall'immissione sul mercato.
+
+**D:** Che cosa sono le **reti neurali artificiali** e quali problemi mirano a risolvere?
+**R:** Sono «**sistemi di *machine learning* che si ispirano al funzionamento del cervello (umano)**», al fine di risolvere «**prevalentemente tre tipi di problemi**»: ① **classificazione di dati**; ② **regressione per prevedere da un dato storico un dato futuro**; ③ **classificazione di classi di dati**.
+**Opzione:** Sistemi di machine learning ispirati al funzionamento del cervello umano, per risolvere prevalentemente tre problemi: classificazione di dati, regressione da un dato storico a un dato futuro, classificazione di classi di dati.
+**Distrattori:**
+- Sistemi di machine learning ispirati al funzionamento del cervello umano, per risolvere prevalentemente tre problemi: classificazione di dati, classificazione di immagini, classificazione di classi di dati.
+- Sistemi di machine learning ispirati al funzionamento del sistema nervoso periferico, per risolvere prevalentemente tre problemi: classificazione di dati, regressione da un dato storico a un dato futuro, classificazione di classi di dati.
+- Sistemi di deep learning che si sostituiscono al cervello umano, per risolvere sempre tre problemi: classificazione di dati, regressione da un dato storico a un dato futuro, classificazione di classi di dati.
+
+**D:** ⚠️ Le reti neurali risolvono «sempre» tre tipi di problemi?
+**R:** No: la slide scrive «al fine di risolvere **prevalentemente** tre tipi di problemi». Il docente dice «per risolvere **generalmente sempre i soliti** tre tipi di problemi», ma **fa testo la slide**. ⚠️ Attenzione anche al fatto che il **primo** e il **terzo** problema si somigliano e sono **due voci distinte**: «**classificazione di dati**» e «**classificazione di classi di dati**».
+
+**D:** Che cosa sono gli **hidden layers** e a che cosa servono?
+**R:** Sono gli «**strati nascosti di elaborazione dei dati immessi, attraverso cui processare informazioni in modo non-lineare**»: consentono alle reti — «comunemente definite ***Deep learning***» — «di **apprendere dati cercando relazioni tra di essi e raggiungendo livelli di astrazione sempre più profondi**». Il docente glossa il *non-lineare* come «**in modo dinamico, in modo proattivo**».
+**Opzione:** Strati nascosti di elaborazione dei dati immessi, attraverso cui processare informazioni in modo non-lineare, raggiungendo livelli di astrazione sempre più profondi.
+**Distrattori:**
+- Strati nascosti di archiviazione cifrata dei dati immessi, attraverso cui garantire la riservatezza delle informazioni processate.
+- Strati nascosti di elaborazione dei dati immessi, attraverso cui processare informazioni in modo lineare e sequenziale, riducendo il livello di astrazione.
+- Strati intermedi di validazione dei dati immessi, attraverso cui verificare la conformità del sistema ai quattro principi fondamentali.
+
+**D:** ⚠️ Con quale nome comune le slide indicano le reti neurali artificiali?
+**R:** ***Deep learning***: «queste reti, **comunemente definite *Deep learning***, consentono alle macchine di apprendere dati […]». ⚠️ La catena delle inclusioni è **IA ⊃ machine learning ⊃ reti neurali artificiali / deep learning**: le reti neurali sono **sistemi di machine learning**, e il *deep learning* è il **nome comune** di quelle reti — non un sinonimo di IA né una tecnica alternativa al machine learning.
+**Opzione:** Deep learning; sono sistemi di machine learning, e il machine learning è a sua volta una strada per l'applicazione dell'IA.
+**Distrattori:**
+- Deep learning; sono sistemi alternativi al machine learning, sviluppati per superarne i limiti nel trattamento di dati non strutturati.
+- Machine learning; sono la forma più semplice di intelligenza artificiale, precedente allo sviluppo del deep learning.
+- Hidden layers; sono la componente dell'intelligenza artificiale che processa le informazioni in modo non-lineare.
+
+**D:** ⚠️ In che rapporto stanno intelligenza artificiale e machine learning?
+**R:** «Se è vero che l'**intelligenza Artificiale si configura quale studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano**, il **Machine learning può considerarsi *una strada per la sua applicazione***.» ⚠️ La direzione conta: il machine learning è **una** via applicativa dell'IA, non un sinonimo e non il genere che la comprende.
+**Opzione:** L'IA è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; il machine learning è una strada per la sua applicazione.
+**Distrattori:**
+- Il machine learning è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; l'IA è una strada per la sua applicazione.
+- L'IA e il machine learning sono termini equivalenti, il secondo di uso prevalente nella letteratura tecnica anglosassone.
+- L'IA è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; il machine learning ne è l'unica applicazione possibile.
+
+**D:** Come funziona il **machine learning** in termini specifici, secondo la slide?
+**R:** «Parte da un **input** e da un **output** lasciando che sia poi **la macchina a comprendere le relazioni tra questi parametri** per giungere all'**algoritmo più opportuno**.» Il termine si riferisce, in senso ampio, a «**sistemi in grado di apprendere dall'esperienza, con un meccanismo simile a ciò che un essere umano fa sin dalla sua nascita**» — per il docente, l'**imitazione** e l'**assimilazione**. Infine «la macchina impara a "**programmarsi**" **da sola attraverso l'esperienza**».
+**Opzione:** Parte da un input e da un output e lascia che sia la macchina a comprendere le relazioni tra questi parametri, per giungere all'algoritmo più opportuno e imparare a programmarsi da sola.
+**Distrattori:**
+- Parte da un algoritmo predefinito e lascia che sia la macchina a ricavarne l'output più opportuno a partire dagli input ricevuti.
+- Parte da un input e da un output e lascia che sia il programmatore a definire le relazioni tra questi parametri, per giungere all'algoritmo più opportuno.
+- Parte da un input e da un output e lascia che sia la macchina a comprendere le relazioni tra questi parametri, senza però poter modificare la propria programmazione.
+
+**D:** Quali domande apre il docente sul rapporto fra IA ed essere umano?
+**R:** Poiché le reti neurali artificiali sono ispirate al **cervello umano**, «stiamo dicendo che l'**essere umano è il punto d'arrivo**? Se la risposta è **sì**, allora evidentemente stiamo cercando di creare un **clone dell'essere umano da un punto di vista neurale**. Se invece la risposta è **parzialmente sì**, allora c'è da chiedersi: stiamo cercando di **migliorare l'essere umano**? **Per soppiantarlo o per aiutarlo** nelle sue attività?». ⚠️ Contenuto **solo del transcript**.
+
+**D:** ⚠️ Quando e con quale scopo la Commissione europea ha istituito il gruppo di esperti sull'IA?
+**R:** Nel **giugno del 2018**, «con il **precipuo scopo di studiare e approfondire l'AI** al fine di **elaborarne un documento contenente le linee guida di tipo etico sull'intelligenza artificiale**». ⚠️ Il **2018** compare **due volte** nel deck: è l'anno di **pubblicazione delle Linee Guida** e — con l'indicazione del mese, **giugno** — quello di **istituzione del gruppo di esperti**.
+**Opzione:** Nel giugno del 2018, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne un documento di linee guida di tipo etico.
+**Distrattori:**
+- Nel giugno del 2016, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne un documento di linee guida di tipo etico.
+- Nel giugno del 2018, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne una proposta di regolamento europeo.
+- Nel giugno del 2018, con il precipuo scopo di vigilare sui sistemi di IA immessi sul mercato interno e di sanzionarne le violazioni.
+
+**D:** ⚠️ Il documento di linee guida della Commissione europea è vincolante, e a chi si rivolge?
+**R:** «Il documento **non ha natura giuridicamente vincolante** ma si indirizza **comunque a chiunque sviluppi, implementi o utilizzi l'intelligenza artificiale**.» ⚠️ Le due cose stanno **insieme**: **non vincolante**, ma con **destinatari universali**. Il docente motiva la prima per analogia: «si chiama **linee guida**, quindi non è possibile che abbia natura vincolante — simile a quanto lo **IOSCO**, il *regulator* mondiale, emana principi e linee guida che **non sono *binding***».
+**Opzione:** Non ha natura giuridicamente vincolante, ma si indirizza comunque a chiunque sviluppi, implementi o utilizzi l'intelligenza artificiale.
+**Distrattori:**
+- Non ha natura giuridicamente vincolante e si indirizza ai soli Stati membri, cui spetta darvi attuazione con norme interne.
+- Ha natura giuridicamente vincolante e si indirizza a chiunque sviluppi, implementi o utilizzi l'intelligenza artificiale.
+- Non ha natura giuridicamente vincolante e si indirizza ai soli soggetti che sviluppano sistemi di intelligenza artificiale, non a chi li utilizza.
+
+**D:** ⚠️ Che cosa deve rimanere «preminente interesse» pur essendo pacifici i benefici dell'IA?
+**R:** «La **tutela delle libertà e dei diritti fondamentali degli esseri umani**, affinché non vengano **soppressi da un non corretto utilizzo di tali programmi finalizzati all'apprendimento di facoltà tipicamente umane**.»
+**Opzione:** La tutela delle libertà e dei diritti fondamentali degli esseri umani, affinché non siano soppressi da un non corretto utilizzo di tali programmi.
+**Distrattori:**
+- La tutela della concorrenza nel mercato interno, affinché non sia falsata da un non corretto utilizzo di tali programmi.
+- La tutela delle libertà e dei diritti fondamentali degli esseri umani, affinché non siano soppressi dallo sviluppo stesso di tali programmi.
+- La tutela della riservatezza dei dati personali degli utenti, affinché non sia compromessa da un non corretto utilizzo di tali programmi.
+
+**D:** Che cos'è la **Trustworthy AI**?
+**R:** Il concetto che «indica l'**esigenza affinché lo sviluppo dell'IA non comprometta o rechi danno in alcun modo ai valori, i diritti e le libertà fondanti per le nostre società**». Nel transcript l'ASR lo rende «*transworthy*»: la forma corretta è ***Trustworthy AI***, cioè un'IA **affidabile**, «di cui ci si possa fidare».
+**Opzione:** L'esigenza che lo sviluppo dell'IA non comprometta o rechi danno in alcun modo ai valori, ai diritti e alle libertà fondanti per le nostre società.
+**Distrattori:**
+- L'esigenza che lo sviluppo dell'IA sia certificato da un organismo indipendente prima dell'immissione sul mercato.
+- L'esigenza che lo sviluppo dell'IA non comprometta la competitività delle imprese europee rispetto agli operatori extra-UE.
+- L'obbligo, per chi sviluppa sistemi di IA, di rispondere dei danni cagionati dall'algoritmo a titolo di responsabilità oggettiva.
+
+**D:** ⚠️ In che rapporto stanno affidabilità e diffusione dell'IA, secondo la slide sulla Trustworthy AI?
+**R:** «**Quanto più una IA sarà affidabile tanto più velocemente gli utenti ne comprenderanno i benefici e ne consentiranno la diffusione**.» ⚠️ La direzione è **affidabilità ⇒ comprensione dei benefici ⇒ diffusione**; invertirla è il classico distrattore a **segno invertito**. Il docente vi aggiunge il **passaparola** e il fatto che «commercialmente diventerà un **piano di successo**», e osserva che il concetto di affidabilità «potrebbe **variare a seconda di chi lo definisce**»: **utenti finali**, **ingegneri**, **regolatori**.
+**Opzione:** Quanto più una IA sarà affidabile, tanto più velocemente gli utenti ne comprenderanno i benefici e ne consentiranno la diffusione.
+**Distrattori:**
+- Quanto più una IA sarà diffusa, tanto più rapidamente se ne potrà accertare l'affidabilità e se ne comprenderanno i benefici.
+- Quanto più una IA sarà affidabile, tanto più lentamente se ne diffonderà l'uso, per il costo dei controlli che l'affidabilità richiede.
+- Quanto più una IA sarà affidabile, tanto più gli Stati membri ne consentiranno la commercializzazione sul mercato interno.
+
+**D:** ⚠️ Quali requisiti devono essere rispettati perché un'IA possa dirsi affidabile?
+**R:** **Tre**: ① **Legalità** — «l'IA deve **ottemperare a tutte le leggi ed ai regolamenti applicabili**»; ② **Eticità** — «l'IA deve assicurare l'**adesione a principi e valori etici**», articolata in **cinque** voci; ③ **Robustezza** — «dal punto di vista **tecnico e sociale**, per evitare che le **interazioni tra le IA creino danni non voluti**». ⚠️ La struttura è **1 + 5 + 1**: i cinque valori etici stanno **dentro** il secondo requisito, non allo stesso livello.
+**Opzione:** Legalità, eticità e robustezza.
+**Distrattori:**
+- Legalità, eticità, robustezza e trasparenza.
+- Legalità, eticità, robustezza e accountability.
+- Legalità, rispetto della dignità umana, prevenzione dei danni ed equità.
+
+**D:** ⚠️ Quali sono le fonti giuridiche pertinenti al requisito di **Legalità** dell'IA?
+**R:** «Ad esempio, il **diritto primario dell'UE**, il **diritto derivato dell'UE (es. GDPR)**, i **Trattati ONU** e le **convenzioni del Consiglio d'Europa**, le **norme di numerosi Stati Membri UE**.» ⚠️ La coda dell'elenco sono **norme**, non «trattati» come rende il transcript. ⚠️ Il **Consiglio d'Europa** non è il Consiglio dell'Unione europea né il Consiglio europeo.
+**Opzione:** Il diritto primario dell'UE, il diritto derivato dell'UE, i Trattati ONU, le convenzioni del Consiglio d'Europa e le norme di numerosi Stati Membri UE.
+**Distrattori:**
+- Il diritto primario dell'UE, il diritto derivato dell'UE, i Trattati ONU, le convenzioni del Consiglio d'Europa e i trattati bilaterali di numerosi Stati Membri UE.
+- Il diritto primario dell'UE, il diritto derivato dell'UE, i Trattati ONU, le convenzioni del Consiglio dell'Unione europea e le norme di numerosi Stati Membri UE.
+- Il solo diritto derivato dell'UE, e in particolare il GDPR, cui gli Stati Membri devono conformare le proprie norme interne.
+
+**D:** ⚠️ In quali cinque voci si articola il requisito di **Eticità** dell'IA?
+**R:** ① **Rispetto della dignità umana** — «i sistemi di IA **non devono svilire, compromettere o reprimere la dignità umana**»; ② **Libertà individuale** — «**libertà da organismi sovrani ed intervento per un pari accesso ai benefici dell'IA**»; ③ **Rispetto della democrazia della giustizia e dello Stato di diritto** — «i sistemi di IA devono **mantenere e promuovere processi democratici e rispettare la pluralità dei valori**»; ④ **uguaglianza, non discriminazione e solidarietà**; ⑤ **Diritti dei cittadini**.
+**Opzione:** Rispetto della dignità umana; libertà individuale; rispetto della democrazia, della giustizia e dello Stato di diritto; uguaglianza, non discriminazione e solidarietà; diritti dei cittadini.
+**Distrattori:**
+- Rispetto della dignità umana; libertà individuale; rispetto della democrazia, della giustizia e dello Stato di diritto; uguaglianza, non discriminazione e solidarietà; prevenzione dei danni.
+- Rispetto della dignità umana; libertà individuale; rispetto della democrazia, della giustizia e dello Stato di diritto; trasparenza ed esplicabilità; diritti dei cittadini.
+- Rispetto della dignità umana; libertà di impresa; rispetto della democrazia, della giustizia e dello Stato di diritto; uguaglianza, non discriminazione e solidarietà; diritti dei consumatori.
+
+**D:** ⚠️ Che cosa impone il requisito di **Robustezza**, e su quali dimensioni?
+**R:** Su **due** dimensioni — «dal punto di vista **tecnico e sociale**» — «per evitare che le **interazioni tra le IA creino danni non voluti**». Il docente lo legge come un **tema di coordinamento**: «non sovrastare altre reti, non sovrastare altri principi, non sovrastare altri prodotti offerti al cittadino», cioè «**reti forti, robuste che siano in grado di delineare i loro perimetri d'azione**».
+**Opzione:** Che l'IA sia robusta dal punto di vista tecnico e sociale, per evitare che le interazioni tra le IA creino danni non voluti.
+**Distrattori:**
+- Che l'IA sia robusta dal punto di vista tecnico, per evitare che le interazioni tra le IA creino danni non voluti.
+- Che l'IA sia robusta dal punto di vista tecnico e sociale, per evitare che gli attacchi informatici esterni ne compromettano il funzionamento.
+- Che l'IA sia robusta dal punto di vista tecnico e giuridico, per evitare che l'interazione con gli esseri umani ne alteri il comportamento.
+
+**D:** ⚠️ Con quali tre aggettivi le slide qualificano i sistemi di IA e i loro processi decisionali ed evolutivi, e a quale fine?
+**R:** Devono essere sempre «**controllabili, intellegibili e comprensibili**», «così che **ogni essere umano sia sempre informato di trovarsi di fronte ad un sistema di IA**». ⚠️ Il fine dichiarato non è la sorveglianza, ma l'**informazione dell'essere umano** sul fatto di avere davanti un'IA.
+**Opzione:** Controllabili, intellegibili e comprensibili, così che ogni essere umano sia sempre informato di trovarsi di fronte a un sistema di IA.
+**Distrattori:**
+- Controllabili, intellegibili e comprensibili, così che ogni essere umano possa opporsi alla decisione assunta dal sistema di IA.
+- Controllabili, riproducibili e certificabili, così che ogni essere umano sia sempre informato di trovarsi di fronte a un sistema di IA.
+- Trasparenti, intellegibili e comprensibili, così che le autorità di vigilanza possano sempre ricostruire il processo decisionale del sistema.
+
+**D:** ⚠️ Quali sono i **4 principi fondamentali** individuati dalle slide in materia di IA?
+**R:** ① **Rispetto della dignità umana** — «gli **esseri umani che interagiscono con l'IA** devono mantenere la propria **piena ed effettiva autodeterminazione** ed essere **partecipi del processo democratico**»; ② **Prevenzione dei danni** — i sistemi «non devono **causare danni né aggravarli e nemmeno influenzare negativamente** gli esseri umani»; ③ **Equità** — «garanzia di una **distribuzione giusta ed equa di costi e benefici** nonché **libertà da inique distorsioni, discriminazioni o stigmatizzazioni**»; ④ **Esplicabilità** — «i **processi devono essere trasparenti** e le **decisioni, per quanto possibile, devono poter essere spiegate a coloro che ne sono interessati**».
+**Opzione:** Rispetto della dignità umana, prevenzione dei danni, equità, esplicabilità.
+**Distrattori:**
+- Rispetto della dignità umana, prevenzione dei danni, equità, accountability.
+- Legalità, eticità, robustezza, esplicabilità.
+- Rispetto della dignità umana, prevenzione dei danni, trasparenza, benessere sociale ed ambientale.
+
+**D:** ⚠️ «Rispetto della dignità umana» compare in due elenchi diversi della lezione: quali, e con quale differenza?
+**R:** È **voce 1 dei cinque valori etici** (dentro il requisito di **Eticità**), dove significa che «i sistemi di IA **non devono svilire, compromettere o reprimere la dignità umana**»; ed è **principio 1 dei quattro principi fondamentali**, dove significa che «gli **esseri umani che interagiscono con l'IA** devono mantenere la propria **piena ed effettiva autodeterminazione** ed essere **partecipi del processo democratico**». ⚠️ Stessa etichetta, **due elenchi** e **due glosse**: la domanda non è *che cos'è* ma **dove sta**.
+**Opzione:** Fra i cinque valori etici, come divieto di svilire, compromettere o reprimere la dignità umana; fra i quattro principi fondamentali, come piena ed effettiva autodeterminazione e partecipazione al processo democratico.
+**Distrattori:**
+- Fra i cinque valori etici, come piena ed effettiva autodeterminazione e partecipazione al processo democratico; fra i quattro principi fondamentali, come divieto di svilire, compromettere o reprimere la dignità umana.
+- Fra i tre principi delle Linee Guida etiche e fra i sette requisiti esemplificativi, in entrambi i casi come divieto di reprimere la dignità umana.
+- Fra i cinque valori etici e fra i sette requisiti esemplificativi, in entrambi i casi come partecipazione al processo democratico.
+
+**D:** ⚠️ Che cosa vieta il principio di **prevenzione dei danni**?
+**R:** Che i sistemi di IA «**causino danni**», che li «**aggravino**» e «**nemmeno**» che «**influenzino negativamente gli esseri umani**». ⚠️ La scala ha **tre gradi**, e il terzo è il più ampio: non basta l'assenza di danno, è escluso anche il semplice **influenzare negativamente**.
+**Opzione:** Che i sistemi di IA causino danni, che li aggravino e che influenzino negativamente gli esseri umani.
+**Distrattori:**
+- Che i sistemi di IA causino danni o li aggravino.
+- Che i sistemi di IA causino danni agli esseri umani, salvo che il danno sia conseguenza necessaria del raggiungimento dell'obiettivo assegnato.
+- Che i sistemi di IA causino danni, che li aggravino e che interagiscano con altri sistemi di IA senza sorveglianza umana.
+
+**D:** ⚠️ Secondo il principio di **esplicabilità**, a chi devono poter essere spiegate le decisioni dei sistemi di IA?
+**R:** «I **processi devono essere trasparenti** e le **decisioni, per quanto possibile, devono poter essere spiegate a coloro che ne sono interessati**.» ⚠️ **Solo agli interessati**: il transcript dice «a coloro **anche che non sono interessati**», ma fa testo la **slide**. È una **negazione aggiunta** dal parlato, esattamente il meccanismo su cui si costruiscono i distrattori.
+**Opzione:** A coloro che ne sono interessati, e per quanto possibile.
+**Distrattori:**
+- A chiunque ne faccia richiesta, anche se non ne è interessato, e in ogni caso.
+- Alle sole autorità di vigilanza competenti, e per quanto possibile.
+- A coloro che ne sono interessati, senza eccezioni e in ogni caso.
+
+**D:** ⚠️ Qual è lo scopo principale di attuazione delle Linee Guida della Commissione europea?
+**R:** «**Determinare i requisiti essenziali di progettazione e sviluppo di sistemi di IA affidabili**, onde cercare di **arginare lo sviluppo delle IA con processi decisionali ed evolutivi particolarmente complessi e sempre più autonomi, non necessariamente conformi ai 4 principi fondamentali**.» ⚠️ La slide dice «arginare lo **sviluppo delle IA** con processi…», non «lo sviluppo **incontrollato**» come rende il docente: la qualificazione sta nella **coda**.
+**Opzione:** Determinare i requisiti essenziali di progettazione e sviluppo di sistemi di IA affidabili, per arginare lo sviluppo di IA con processi decisionali ed evolutivi complessi e sempre più autonomi, non necessariamente conformi ai quattro principi fondamentali.
+**Distrattori:**
+- Determinare i requisiti essenziali di progettazione e sviluppo di sistemi di IA affidabili, per arginare lo sviluppo di IA con processi decisionali ed evolutivi complessi e sempre più autonomi, non necessariamente conformi ai tre principi delle Linee Guida.
+- Determinare i requisiti essenziali di certificazione e immissione sul mercato dei sistemi di IA affidabili, per arginare lo sviluppo di IA non conformi ai quattro principi fondamentali.
+- Vietare lo sviluppo di sistemi di IA con processi decisionali ed evolutivi particolarmente complessi e sempre più autonomi, non conformi ai quattro principi fondamentali.
+
+**D:** ⚠️ Quali sono i sette requisiti che le slide elencano «a titolo esemplificativo»?
+**R:** ① **Intervento e sorveglianza umani** inclusi i **diritti fondamentali**; ② **Robustezza tecnica e sicurezza** inclusi la **resilienza agli attacchi** e la **sicurezza**; ③ **Riservatezza e governance dei dati** incluso il **rispetto della riservatezza**; ④ **Trasparenza**; ⑤ **Diversità, non discriminazione ed equità**; ⑥ **Benessere sociale ed ambientale**; ⑦ **accountability**. ⚠️ L'elenco è **esemplificativo, non tassativo**, e le prime **tre** voci sono le sole con un «inclusi…» che ne allarga l'oggetto.
+**Opzione:** Intervento e sorveglianza umani; robustezza tecnica e sicurezza; riservatezza e governance dei dati; trasparenza; diversità, non discriminazione ed equità; benessere sociale ed ambientale; accountability.
+**Distrattori:**
+- Intervento e sorveglianza umani; robustezza tecnica e sicurezza; riservatezza e governance dei dati; trasparenza; diversità, non discriminazione ed equità; benessere sociale ed ambientale; esplicabilità.
+- Intervento e sorveglianza umani; robustezza tecnica e sicurezza; riservatezza e governance dei dati; legalità; diversità, non discriminazione ed equità; benessere sociale ed ambientale; accountability.
+- Intervento e sorveglianza umani; robustezza tecnica e sicurezza; riservatezza e governance dei dati; trasparenza; diversità, non discriminazione ed equità; sostenibilità economica; accountability.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei sette requisiti, e quale problema apre?
+**R:** Con l'**accountability**, unica voce in **minuscolo** e in **inglese**. Apre il problema della **responsabilità**: «chi è responsabile se **qualcosa va storto**? C'è un responsabile all'interno anche di queste **reti neurali**, di intelligenze artificiali? O no? Potrebbe essere che la **responsabilità sia esclusivamente da imputare all'algoritmo**. E allora in quel caso **si è perso il controllo della responsabilità**? Non c'è un soggetto **davvero responsabile**?».
+**Opzione:** Con l'accountability, che apre il problema di chi risponde quando qualcosa va storto e dell'eventuale imputazione della responsabilità al solo algoritmo.
+**Distrattori:**
+- Con la trasparenza, che apre il problema di chi risponde quando qualcosa va storto e dell'eventuale imputazione della responsabilità al solo algoritmo.
+- Con l'accountability, che impone di designare in ogni impresa un responsabile della conformità dei sistemi di IA alle linee guida.
+- Con il benessere sociale ed ambientale, che apre il problema del costo energetico dell'addestramento dei sistemi di IA.
+
+**D:** ⚠️ L'elenco dei requisiti della slide 13 è tassativo?
+**R:** No: è dato «**a titolo esemplificativo**». Il docente lo conferma: «i **principi base sono solo un minimo set di principi**, ce ne sono molti altri che si auspica possano **autodeterminarsi con il raffinarsi e l'affinarsi delle tecniche** di intelligenza artificiale». ⚠️ È il rovescio dei quantificatori assoluti: un'opzione che presenti l'elenco come **completo** o **tassativo** è sbagliata.
+
