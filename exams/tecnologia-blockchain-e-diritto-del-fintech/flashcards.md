@@ -2852,3 +2852,331 @@
 - Quando sarà dotata di una disciplina europea vincolante, cioè quando le linee guida etiche saranno trasformate in regolamento.
 - Quando l'errore sarà del tutto eliminato, poiché nessun margine di errore è compatibile con l'impiego di questi sistemi.
 - Quando sarà riconosciuto lo status giuridico di persona elettronica, cioè quando la macchina potrà rispondere in proprio dei danni.
+
+## Lezione 11 — Big Data, utilizzo e circolazione (1)
+
+**D:** Quali sono le due voci dell'agenda della lezione 11?
+**R:** «**L'utilità dei Big Data e l'iter contrattuale**» e «**E-commerce e normativa in fieri**». Il docente scioglie l'espressione in apertura: *in fieri* significa «**in divenire, in sviluppo**».
+**Opzione:** L'utilità dei Big Data e l'iter contrattuale; e-commerce e normativa in fieri.
+**Distrattori:**
+- L'utilità dei Big Data e l'iter contrattuale; la tutela della privacy e il GDPR.
+- Big Data e profilazione del rischio assicurativo; e-commerce e normativa in fieri.
+- L'utilità dei Big Data e la circolazione dei dati; il Digital Services Act e la tutela del consumatore.
+
+**D:** Con quale affermazione si apre il deck 11 sull'utilità dei Big Data?
+**R:** «I **Big Data e le nuove tecnologie** sono oggi in grado di rendere la **classificazione meno costosa e molto più sofisticata**. Le **compagnie assicurative** possono sfruttare **enormi quantità di dati** e quindi **costruire profili di rischio dei loro clienti in modo molto accurato**, utilizzando tutta una serie di informazioni che sono ora a disposizione **a basso costo**.»
+**Opzione:** Rendono la classificazione meno costosa e molto più sofisticata, permettendo di costruire profili di rischio molto accurati con informazioni disponibili a basso costo.
+**Distrattori:**
+- Rendono la classificazione più costosa ma molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
+- Rendono la profilazione meno costosa e molto più rapida, permettendo di costruire profili di rischio uniformi per categorie di clienti.
+- Rendono la classificazione meno sofisticata ma molto più economica, permettendo di estendere la copertura a una massa indefinita di utenti.
+
+**D:** Quali informazioni elenca la slide 3 fra quelle oggi disponibili a basso costo per profilare i clienti?
+**R:** **Cinque**, in quest'ordine: «informazioni provenienti dai **social media**»; «dai **network relazionali**»; «dai **dispositive mobile**» [*sic*]; «alla **geolocalizzazione**»; «alle informazioni di ***experience rating***».
+**Opzione:** Social media; network relazionali; dispositivi mobile; geolocalizzazione; informazioni di experience rating.
+**Distrattori:**
+- Social media; network relazionali; dispositivi mobile; geolocalizzazione; dati sanitari pubblici.
+- Social media; network relazionali; motori di ricerca; geolocalizzazione; informazioni di experience rating.
+- Social media; network relazionali; dispositivi mobile; geolocalizzazione; credit-scoring bancario.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco delle fonti di dati della slide 3, e a che cosa concorrono queste informazioni?
+**R:** Si chiude con le informazioni di ***experience rating***; tutte «possono concorrere a definire un **percorso di apprendimento delle abitudini del consumatore**». ⚠️ La coda è l'*experience rating*, non la geolocalizzazione: è il punto tipico su cui lavorano i distrattori.
+**Opzione:** Con le informazioni di experience rating; concorrono a definire un percorso di apprendimento delle abitudini del consumatore.
+**Distrattori:**
+- Con la geolocalizzazione; concorre a definire un percorso di apprendimento delle abitudini del consumatore.
+- Con le informazioni di experience rating; concorrono a costruire un profilo di rischio conforme agli standard dell'autorità di vigilanza.
+- Con le informazioni provenienti dai social media; concorrono a definire un percorso di apprendimento delle abitudini del consumatore.
+
+**D:** ⚠️ Perché il docente insiste sul settore assicurativo quando parla di Big Data?
+**R:** Perché «uno dei principali **ostacoli** alla realizzazione [del FinTech] risiede in una **resistenza culturale delle compagnie assicurative tradizionali, delle compagnie finanziarie tradizionali, delle banche tradizionali**, a permettere l'ingresso di **nuove tecnologie così disruptive** nei loro sistemi: il ***clash* culturale** esiste ancora». I Big Data hanno successo nelle InsurTech «anche in quelle tradizionali, ma meno», perché l'InsurTech «nasce generalmente da **startup** che vogliono utilizzare il FinTech al massimo possibile». ⚠️ Sta **solo nel transcript**.
+**Opzione:** Perché il principale ostacolo al FinTech è la resistenza culturale degli operatori tradizionali, mentre l'InsurTech nasce generalmente da start-up che vogliono usare il FinTech al massimo.
+**Distrattori:**
+- Perché il Codice delle Assicurazioni Private impone alle compagnie l'uso dei Big Data nella costruzione dei profili di rischio.
+- Perché è il solo settore in cui il trattamento dei dati dei clienti non incontra i limiti posti dalla disciplina sulla privacy.
+- Perché le compagnie tradizionali sono state le prime ad adottare i Big Data, e le start-up InsurTech ne hanno poi replicato i modelli.
+
+**D:** Che cosa si rende necessario, secondo la slide 4, per sfruttare l'utilità dell'intelligenza artificiale?
+**R:** «Conoscere e regolare i vari fenomeni, in particolar modo il **concetto e funzionamento dell'algoritmo**, al fine di **tutelare il consumatore** ed evitare, per quanto possibile, **ogni deriva commerciale che usi il flusso dei dati in corso a fini eminentemente speculativi**.»
+**Opzione:** Conoscere e regolare i vari fenomeni, in particolare il concetto e il funzionamento dell'algoritmo, per tutelare il consumatore ed evitare ogni deriva commerciale che usi il flusso dei dati a fini speculativi.
+**Distrattori:**
+- Conoscere e regolare i vari fenomeni, in particolare il concetto e il funzionamento dell'algoritmo, per tutelare il mercato ed evitare ogni deriva commerciale che usi il flusso dei dati a fini speculativi.
+- Conoscere e regolare i vari fenomeni, in particolare la struttura tecnica delle piattaforme, per tutelare il consumatore ed evitare ogni deriva commerciale che usi il flusso dei dati a fini speculativi.
+- Vietare l'uso commerciale del flusso dei dati, così da tutelare il consumatore da ogni deriva speculativa e garantire il corretto funzionamento dell'algoritmo.
+
+**D:** Che cosa «si pone come essenziale disciplinare ed offrire» nel contesto dell'utilizzo dei Big Data?
+**R:** «Un'adeguata **tutela della privacy**, della **dignità umana** ed il **rispetto dei diritti fondamentali**.»
+**Opzione:** Un'adeguata tutela della privacy, della dignità umana ed il rispetto dei diritti fondamentali.
+**Distrattori:**
+- Un'adeguata tutela della privacy, della concorrenza fra operatori ed il rispetto dei diritti fondamentali.
+- Un'adeguata tutela della privacy, della dignità umana ed il rispetto del segreto industriale.
+- Un'adeguata tutela del risparmio, della dignità umana ed il rispetto dei diritti fondamentali.
+
+**D:** ⚠️ Secondo il docente, la tutela della privacy coincide con un giudizio morale sull'uso dei dati?
+**R:** No: «la privacy e la tutela dei diritti fondamentali **nulla ha a che vedere con il giudizio morale, etico** che si può dare in merito all'utilizzo di questi dati». Il giudizio sulla condotta della persona «riguarda **altre sfere**, cioè la propria **scala di valori interni**»; resta intatta «la libertà **sacrosanta e inviolabile** della persona di **non vedere divulgati dei dati** che non riguardano altro se non lui». ⚠️ Sta **solo nel transcript**.
+**Opzione:** No: la tutela della privacy è indipendente dal giudizio morale sulla condotta rivelata dai dati, che appartiene ad altre sfere.
+**Distrattori:**
+- Sì: quando la divulgazione del dato rivela una condotta socialmente riprovevole, la violazione della privacy non si configura.
+- Sì: il giudizio morale sull'uso dei dati è il criterio con cui si stabilisce se vi sia stata violazione della privacy.
+- No: la privacy non è in gioco quando il dato divulgato riguarda una sola persona e non anche terzi.
+
+**D:** Quali esiti alternativi deve consentire di associare la piattaforma, nella distribuzione assicurativa online?
+**R:** **Tre**, da associare «alle **risposte (o mancate risposte)** dell'utente»: «il prodotto **è adeguato** alle esigenze del cliente»; «il prodotto **non è adeguato** alle esigenze del cliente per specificare ragioni che sono **precisate di volta in volta** ma il cliente ha scelto **comunque di procedere** con l'operazione e di proseguire con l'acquisto»; «l'intermediario **non ha potuto valutare l'adeguatezza** del prodotto per l'**assenza di un riscontro completo a seguito del comportamento del cliente** ma l'utente ha scelto di voler **comunque procedere** all'acquisto del prodotto selezionato».
+**Opzione:** Prodotto adeguato; prodotto non adeguato ma il cliente procede comunque; intermediario che non ha potuto valutare l'adeguatezza ma l'utente procede comunque.
+**Distrattori:**
+- Prodotto adeguato; prodotto non adeguato, con blocco dell'operazione; intermediario che non ha potuto valutare l'adeguatezza, con blocco dell'operazione.
+- Prodotto adeguato; prodotto non adeguato ma il cliente procede comunque; intermediario che non ha potuto valutare l'adeguatezza, con rinvio del cliente al canale tradizionale.
+- Prodotto adeguato; prodotto adeguato con riserva; prodotto non adeguato ma il cliente procede comunque assumendosene il rischio.
+
+**D:** ⚠️ Come è formulato sulla slide il terzo dei tre esiti della distribuzione assicurativa online?
+**R:** Solo **in negativo**: «l'intermediario **non ha potuto valutare l'adeguatezza** del prodotto per l'**assenza di un riscontro completo a seguito del comportamento del cliente** ma l'utente ha scelto di voler comunque procedere all'acquisto del prodotto selezionato». ⚠️ Nel parlato il docente lo apre invece in due — «l'intermediario **ha potuto o non ha potuto** verificare l'adeguatezza del prodotto?» —: fa testo la slide.
+**Opzione:** Solo in negativo: l'intermediario non ha potuto valutare l'adeguatezza per l'assenza di un riscontro completo a seguito del comportamento del cliente.
+**Distrattori:**
+- In forma alternativa: l'intermediario ha potuto o non ha potuto valutare l'adeguatezza del prodotto.
+- Solo in negativo: l'intermediario non ha potuto valutare l'adeguatezza per l'assenza di un riscontro completo da parte della compagnia.
+- Solo in positivo: l'intermediario ha valutato l'adeguatezza sulla base delle sole risposte fornite dal cliente.
+
+**D:** ⚠️ A che cosa servono in ogni caso alla compagnia, secondo il docente, i dati e le profilazioni raccolti nell'iter online?
+**R:** «Servono in ogni caso alla compagnia **per difendersi** di fronte ad eventuali proteste dell'assicurato che un domani possa dire "mi avete dato un prodotto che non era adatto a me"»: il giudizio di adeguatezza «è stato dato da un **algoritmo automatico**» e non «dall'operatore assicurativo un po' truffaldino che magari voleva piazzarti un prodotto per delle **commissioni particolari**». ⚠️ Il docente ridimensiona subito la pretesa che sia «pressoché impossibile che il prodotto che ti venga dato sia inadeguato»: «le **variabili umane sono tali e tante** che molto spesso l'**assimilazione asettica dei dati delle macchine non tiene conto di quelle variabili».
+**Opzione:** A difendersi dalle contestazioni dell'assicurato sull'inadeguatezza del prodotto, potendo mostrare che il giudizio è stato dato da un algoritmo su una gran mole di dati.
+**Distrattori:**
+- A dimostrare all'autorità di vigilanza il rispetto degli obblighi di adeguata verifica della clientela previsti dalla normativa antiriciclaggio.
+- A escludere ogni responsabilità della compagnia, poiché l'algoritmo rende per definizione impossibile la vendita di un prodotto inadeguato.
+- A giustificare l'applicazione di commissioni più elevate, proporzionate alla quantità di dati trattati per la profilazione del cliente.
+
+**D:** Con quale atto inizia l'iter che accompagna l'utente dalla proposta all'eventuale accettazione del contratto assicurativo?
+**R:** Con la **registrazione dell'utente alla piattaforma**, «con la quale si permette al server di **acquistare** [*sic*: acquisire] **tutte le informazioni necessarie al distributore**». ⚠️ La slide scrive «acquistare» per refuso; il docente dice «acquisire».
+**Opzione:** Con la registrazione dell'utente alla piattaforma, che permette al server di acquisire tutte le informazioni necessarie al distributore.
+**Distrattori:**
+- Con la compilazione del questionario di adeguatezza, che permette al server di acquisire tutte le informazioni necessarie al distributore.
+- Con la registrazione dell'utente alla piattaforma, che permette al distributore di trasmettere alla compagnia la documentazione precontrattuale.
+- Con la richiesta delle credenziali di accesso all'area riservata, che permette al server di acquisire tutte le informazioni necessarie al distributore.
+
+**D:** Quali sono gli attori coinvolti sul fronte tecnico/informatico dell'iter contrattuale, e con quale ruolo ciascuno?
+**R:** **Tre**: il **sito web**, che «deve essere condiviso tramite **linguaggio html**»; il **server**, «sul quale sono memorizzate le pagine in html» e che «appartiene ad un **soggetto diverso da chi ha effettivamente offre il prodotto assicurativo**»; il **provider**, che «consente all'utente l'**accesso alla rete** tramite la **messa a disposizione di un indirizzo IP**».
+**Opzione:** Il sito web (linguaggio html); il server, di un soggetto diverso da chi offre il prodotto assicurativo; il provider, che dà accesso alla rete mettendo a disposizione un indirizzo IP.
+**Distrattori:**
+- Il sito web (linguaggio html); il server, appartenente all'impresa che offre il prodotto assicurativo; il provider, che dà accesso alla rete mettendo a disposizione un indirizzo IP.
+- Il sito web (linguaggio html); il server, di un soggetto diverso da chi offre il prodotto assicurativo; il provider, che conserva la documentazione precontrattuale nell'area riservata.
+- Il distributore, che gestisce la piattaforma; il server, di un soggetto diverso da chi offre il prodotto; l'autorità di vigilanza, che assegna l'indirizzo IP.
+
+**D:** ⚠️ A chi appartiene, secondo la slide, il server sul quale sono memorizzate le pagine in html?
+**R:** «Ad un **soggetto diverso da chi ha effettivamente offre il prodotto assicurativo**» [*sic*]. ⚠️ È il punto da cui discende la necessità dei **partner tecnologici**: chi vende la polizza non controlla l'infrastruttura su cui la polizza viaggia.
+**Opzione:** A un soggetto diverso da chi offre effettivamente il prodotto assicurativo.
+**Distrattori:**
+- All'impresa di assicurazione che offre il prodotto, che ne risponde direttamente.
+- Al provider, che lo mette a disposizione insieme all'indirizzo IP.
+- All'intermediario distributore, che vi memorizza anche l'area riservata del contraente.
+
+**D:** Perché i distributori devono collaborare con partner tecnologici, e in che cosa consiste il ruolo delle start up tech?
+**R:** La struttura tecnica del collocamento online «ha reso necessario che i distributori **collaborino con dei partner tecnologici (start up tech)** al fine di essere **compliant con la normativa**». Il loro ruolo «si gioca in questo settore nello sviluppo di soluzioni che possano aiutare i **provider assicurativi** a **raggiungere il necessario grado di compliance**, **migliorare il servizio**, **rafforzare la fiducia dei consumatori** ed **efficientare la proposta di nuovi tipi di polizza**».
+**Opzione:** Per essere compliant con la normativa: le start up tech sviluppano soluzioni che aiutano i provider assicurativi a raggiungere la compliance, migliorare il servizio, rafforzare la fiducia dei consumatori ed efficientare la proposta di nuovi tipi di polizza.
+**Distrattori:**
+- Per essere compliant con la normativa: le start up tech sviluppano soluzioni che aiutano i provider assicurativi a raggiungere la compliance, ridurre i premi, rafforzare la fiducia dei consumatori ed efficientare la proposta di nuovi tipi di polizza.
+- Per obbligo di legge: il Regolamento IVASS impone ai distributori che operano online di avvalersi di un partner tecnologico iscritto in un apposito registro.
+- Per delegare la valutazione di adeguatezza: le start up tech assumono la responsabilità del giudizio sul prodotto al posto dell'intermediario.
+
+**D:** ⚠️ Con quale parentesi la slide 6 chiude l'elenco dei nuovi tipi di polizza la cui proposta va «efficientata»?
+**R:** «(dalle **micro-insurance** alle **polizze di investimento assicurativo come unit linked e polizze multi-ramo**)». ⚠️ La parentesi sta **solo sulla slide**: il docente si ferma a «efficientare la proposta di nuovi tipi di polizza». È una tipica **coda di elenco**.
+**Opzione:** Dalle micro-insurance alle polizze di investimento assicurativo come unit linked e polizze multi-ramo.
+**Distrattori:**
+- Dalle micro-insurance alle polizze di investimento assicurativo come unit linked e polizze rivalutabili.
+- Dalle polizze catastrofali alle polizze di investimento assicurativo come unit linked e polizze multi-ramo.
+- Dalle micro-insurance alle polizze collettive di ramo vita stipulate dal datore di lavoro.
+
+**D:** Che cosa prevede l'IDD quanto al momento in cui comincia la tutela del cliente nel Product Oversight Governance?
+**R:** Che «la tutela finale del cliente **comincia negli steps di pianificazione e di costruzione** di una soluzione assicurativa», la quale deve: **i.** «essere in linea e **rispondere agli interessi di una certa tipologia di cliente**»; **ii.** «**perdurare fino alla naturale scadenza del contratto**».
+**Opzione:** Che comincia negli steps di pianificazione e costruzione della soluzione assicurativa, che deve rispondere agli interessi di una certa tipologia di cliente e perdurare fino alla naturale scadenza del contratto.
+**Distrattori:**
+- Che comincia al momento della sottoscrizione del contratto e deve perdurare fino alla naturale scadenza dello stesso.
+- Che comincia negli steps di pianificazione e costruzione della soluzione assicurativa, che deve rispondere agli interessi di una massa indeterminata di utenti e perdurare fino alla naturale scadenza del contratto.
+- Che comincia negli steps di pianificazione e costruzione della soluzione assicurativa e si esaurisce con la consegna della documentazione precontrattuale.
+
+**D:** Quali attività devono essere sostenute dagli strumenti «necessariamente digitali e automatizzabili» richiesti dal Product Oversight Governance?
+**R:** **Sette**, in quest'ordine: «**raccolta di dati**; **loro analisi**; **valutazione dei bisogni del cliente e del suo profilo di rischio**; **formulazione di proposte**; **sottoscrizione del contratto**; **il monitoraggio dello stesso**; e **lo scambio informativo tra compagnia e distributori**». ⚠️ Il docente aggiunge che gli strumenti vi contribuiscono «**simultaneamente**», avverbio che la slide non ha.
+**Opzione:** Raccolta di dati; loro analisi; valutazione dei bisogni e del profilo di rischio del cliente; formulazione di proposte; sottoscrizione del contratto; monitoraggio dello stesso; scambio informativo tra compagnia e distributori.
+**Distrattori:**
+- Raccolta di dati; loro analisi; valutazione dei bisogni e del profilo di rischio del cliente; formulazione di proposte; sottoscrizione del contratto; monitoraggio dello stesso; liquidazione del sinistro.
+- Raccolta di dati; loro analisi; valutazione dei bisogni e del profilo di rischio del cliente; comparazione delle offerte di mercato; sottoscrizione del contratto; monitoraggio dello stesso; scambio informativo tra compagnia e distributori.
+- Raccolta di dati; loro conservazione per dieci anni; valutazione dei bisogni e del profilo di rischio del cliente; formulazione di proposte; sottoscrizione del contratto; scambio informativo tra compagnia e distributori.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco delle sette attività degli strumenti digitali richiesti dal POG?
+**R:** Con lo **scambio informativo tra compagnia e distributori**. ⚠️ Non con la **sottoscrizione del contratto** né con il **monitoraggio dello stesso**, che la precedono: la coda guarda al rapporto **fra gli operatori**, non a quello con il cliente.
+**Opzione:** Lo scambio informativo tra compagnia e distributori.
+**Distrattori:**
+- Il monitoraggio del contratto sottoscritto.
+- La sottoscrizione del contratto.
+- La valutazione dei bisogni del cliente e del suo profilo di rischio.
+
+**D:** Che cosa prevede il Codice delle Assicurazioni Private sul collocamento di contratti a distanza?
+**R:** «**Non detta una vera a propria normativa, rinviando piuttosto alla normativa secondaria dell'Autorità di vigilanza**» [*sic*]. La normativa secondaria «ha lo scopo di **disciplinare l'utilizzo delle piattaforme assicurative, ormai affiancate ai tradizionali canali di distribuzione assicurativa**». ⚠️ Le piattaforme sono **affiancate ai** canali tradizionali, non sostitutive.
+**Opzione:** Non detta una vera e propria normativa, rinviando alla normativa secondaria dell'Autorità di vigilanza.
+**Distrattori:**
+- Detta una disciplina esaustiva del collocamento a distanza, cui la normativa secondaria dell'Autorità di vigilanza dà solo attuazione tecnica.
+- Non detta una vera e propria normativa, rinviando alla disciplina generale del commercio elettronico contenuta nel Codice del Consumo.
+- Non detta una vera e propria normativa, rinviando alle linee guida adottate dall'Agenzia per l'Italia Digitale.
+
+**D:** A quali profili si riferisce in particolare la normativa secondaria sull'utilizzo delle piattaforme assicurative?
+**R:** **Quattro**: «**ruolo del proponente e dell'acquirente**»; «**modalità e tempi di conclusione del contratto**»; «**luogo di adempimento della prestazione e relativa conclusione del contratto**»; «**il requisito della forma scritta**». ⚠️ Nel parlato l'ultimo diventa «il requisito **o meno** della forma scritta».
+**Opzione:** Ruolo del proponente e dell'acquirente; modalità e tempi di conclusione del contratto; luogo di adempimento della prestazione e relativa conclusione del contratto; il requisito della forma scritta.
+**Distrattori:**
+- Ruolo del proponente e dell'acquirente; modalità e tempi di conclusione del contratto; luogo di adempimento della prestazione e relativa conclusione del contratto; il diritto di recesso del contraente.
+- Ruolo del proponente e dell'acquirente; modalità e tempi di conclusione del contratto; individuazione della legge applicabile e del foro competente; il requisito della forma scritta.
+- Ruolo del distributore e dell'impresa di assicurazione; modalità e tempi di conclusione del contratto; luogo di adempimento della prestazione e relativa conclusione del contratto; il requisito della forma scritta.
+
+**D:** ⚠️ Che cosa disciplina il Capo III del Regolamento IVASS n. 40/2018?
+**R:** La «**Promozione e collocamento di contratti di assicurazione mediante tecniche di comunicazione a distanza**». ⚠️ È il quarto oggetto con cui il corso incontra questo regolamento, dopo l'**art. 80** (siti di comparazione), gli **artt. 58 e 74** (obblighi di comportamento e adeguatezza) e l'**art. 46 c. 1** (gestione digitale dei dati anagrafici) della lezione 08.
+**Opzione:** La promozione e il collocamento di contratti di assicurazione mediante tecniche di comunicazione a distanza.
+**Distrattori:**
+- Gli obblighi degli intermediari che comparano polizze tramite siti internet o altri mezzi.
+- La gestione digitale dei dati anagrafici presenti nei contratti sottoscritti e delle informazioni relative alle coperture attive.
+- I requisiti di governo e controllo del prodotto assicurativo nella fase di pianificazione e costruzione.
+
+**D:** Quando i distributori devono raccogliere il preventivo consenso del potenziale contraente, e in quale momento dovrebbe avvenire?
+**R:** «I distributori che intendono usufruire di **piattaforme online** per il collocamento di contratti **non espressamente richiesti dal consumatore** devono raccogliere il **preventivo consenso** da parte del potenziale contraente (di norma dovrebbe avvenire nel **momento di registrazione alla piattaforma**)». ⚠️ Il presupposto è il contratto **non espressamente richiesto**.
+**Opzione:** Quando usano piattaforme online per collocare contratti non espressamente richiesti dal consumatore; di norma al momento della registrazione alla piattaforma.
+**Distrattori:**
+- Quando usano piattaforme online per collocare contratti espressamente richiesti dal consumatore; di norma al momento della registrazione alla piattaforma.
+- Quando usano piattaforme online per collocare contratti non espressamente richiesti dal consumatore; di norma al momento della sottoscrizione della polizza.
+- In ogni caso di collocamento a distanza, quale che sia l'iniziativa del contraente; di norma al momento della registrazione alla piattaforma.
+
+**D:** ⚠️ Quali norme cita la slide 9 per il diritto di recesso, e che cosa devono comunicare i distributori?
+**R:** «**Art. 121, c. 1 Codice Assicurazioni Private** e **art. 67-*duodecies* D.Lgs. n. 209/2005**»: «i distributori dovranno **comunicare all'utente il diritto di scegliere e di trasmettere la documentazione precontrattuale e contrattuale**, potendo **modificare la modalità di comunicazione prescelta**». ⚠️ È una **coppia soggetto + norma**: vanno tenuti insieme entrambi i riferimenti così come li scrive la slide.
+**Opzione:** Art. 121, c. 1 Codice delle Assicurazioni Private e art. 67-duodecies D.Lgs. n. 209/2005; devono comunicare il diritto di scegliere e di trasmettere la documentazione precontrattuale e contrattuale, con facoltà di modificare la modalità prescelta.
+**Distrattori:**
+- Art. 121, c. 1 Codice delle Assicurazioni Private e art. 67-duodecies D.Lgs. n. 70/2003; devono comunicare il diritto di scegliere e di trasmettere la documentazione precontrattuale e contrattuale.
+- Art. 106 Codice delle Assicurazioni Private e art. 67-duodecies D.Lgs. n. 209/2005; devono comunicare il diritto di scegliere e di trasmettere la documentazione precontrattuale e contrattuale.
+- Art. 121, c. 1 Codice delle Assicurazioni Private e art. 44 del Regolamento IVASS n. 40/2018; devono comunicare il diritto di ottenere in ogni momento le credenziali di accesso all'area riservata.
+
+**D:** Quale giudizio di sintesi dà la slide 9 sul settore assicurativo?
+**R:** Che esso «risulta quindi **munito di un sistema organico ed articolato di regole** predisposto per assicurare all'utente un **consenso consapevole ed informato**, ossia la **conoscenza esaustiva dei diritti e degli obblighi** e, più in generale, dei **vantaggi e degli svantaggi derivanti dal contratto**».
+**Opzione:** Che risulta munito di un sistema organico ed articolato di regole, volto ad assicurare all'utente un consenso consapevole ed informato.
+**Distrattori:**
+- Che risulta ancora privo di un sistema organico di regole, sicché il consenso dell'utente resta di fatto non informato.
+- Che risulta munito di un sistema organico ed articolato di regole, volto ad assicurare all'impresa la prova dell'adeguatezza del prodotto collocato.
+- Che risulta munito di un sistema frammentario di regole, che il Digital Services Act è destinato a sostituire integralmente.
+
+**D:** Quali informazioni devono i distributori rendere disponibili in piattaforma, secondo la slide 10?
+**R:** «Le **diverse fasi da eseguire per la conclusione del contratto**» e «i **mezzi tecnici e le modalità per individuare e correggere gli eventuali errori di inserimento dei dati prima della conclusione del contratto**. In particolare deve essere reso **editabile in piattaforma il questionario sulla valutazione di adeguatezza** ai sensi e per gli effetti dell'**art. 58 del Regolamento Ivass**».
+**Opzione:** Le diverse fasi da eseguire per la conclusione del contratto; i mezzi tecnici e le modalità per individuare e correggere gli errori di inserimento dei dati prima della conclusione del contratto.
+**Distrattori:**
+- Le diverse fasi da eseguire per la conclusione del contratto; i mezzi tecnici e le modalità per individuare e correggere gli errori di inserimento dei dati dopo la conclusione del contratto.
+- Le diverse fasi da eseguire per la conclusione del contratto; l'elenco delle imprese di assicurazione con cui il distributore ha sottoscritto accordi di comparazione.
+- Il luogo di conclusione del contratto; i mezzi tecnici e le modalità per individuare e correggere gli errori di inserimento dei dati prima della conclusione del contratto.
+
+**D:** ⚠️ Quale documento deve essere reso «editabile in piattaforma», e in forza di quale norma?
+**R:** Il **questionario sulla valutazione di adeguatezza**, «ai sensi e per gli effetti dell'**art. 58 del Regolamento Ivass**». ⚠️ *Editabile*, cioè correggibile dall'utente **prima della conclusione del contratto**: è il modo in cui la valutazione di adeguatezza della **lezione 04** diventa uno strumento di piattaforma.
+**Opzione:** Il questionario sulla valutazione di adeguatezza, ai sensi dell'art. 58 del Regolamento IVASS.
+**Distrattori:**
+- Il questionario sulla valutazione di adeguatezza, ai sensi dell'art. 44 del Regolamento IVASS.
+- L'informativa precontrattuale, ai sensi dell'art. 58 del Regolamento IVASS.
+- Il questionario sull'adeguata verifica della clientela, ai sensi dell'art. 58 del Regolamento IVASS.
+
+**D:** Quali informazioni devono acquisire i distributori nella fase di selezione del prodotto?
+**R:** Informazioni «tra le altre» sulle «**caratteristiche personali ed esigenze assicurative o previdenziali**», «**ove pertinenti**» — **cinque** voci: «**età e stato di salute**»; «**attività lavorativa**»; «**nucleo familiare**»; «**situazione finanziaria ed assicurativa**»; «**aspettative in relazione alla sottoscrizione del contratto in termini di copertura e durata**». ⚠️ La quarta voce **non compare nel parlato**: chi studia solo il transcript ne conta quattro.
+**Opzione:** Età e stato di salute; attività lavorativa; nucleo familiare; situazione finanziaria ed assicurativa; aspettative in relazione alla sottoscrizione del contratto in termini di copertura e durata.
+**Distrattori:**
+- Età e stato di salute; attività lavorativa; nucleo familiare; situazione finanziaria ed assicurativa; conoscenza ed esperienza in materia di investimenti.
+- Età e stato di salute; attività lavorativa; nucleo familiare; residenza fiscale; aspettative in relazione alla sottoscrizione del contratto in termini di copertura e durata.
+- Età e stato di salute; attività lavorativa; nucleo familiare; situazione finanziaria ed assicurativa; aspettative in relazione al rendimento atteso e alla fiscalità del prodotto.
+
+**D:** Che cosa prevede l'articolo 13 del D.lgs. n. 70/2003?
+**R:** «Che le **norme sulla conclusione dei contratti si applicano in tutti i casi in cui il proponente inoltri l'ordine per via telematica**, dando **avviso all'accettante dell'avvenuta ricezione dell'ordine**.» ⚠️ Sta **solo sulla slide**: il docente non lo cita.
+**Opzione:** Che le norme sulla conclusione dei contratti si applicano in tutti i casi in cui il proponente inoltri l'ordine per via telematica, dando avviso all'accettante dell'avvenuta ricezione dell'ordine.
+**Distrattori:**
+- Che le norme sulla conclusione dei contratti si applicano ai soli casi in cui il proponente inoltri l'ordine per via telematica avvalendosi di una piattaforma autorizzata.
+- Che le norme sulla conclusione dei contratti si applicano in tutti i casi in cui il proponente inoltri l'ordine per via telematica, purché la documentazione sia trasmessa in forma scritta.
+- Che il contratto concluso per via telematica si perfeziona nel luogo in cui ha sede il provider del proponente al quale è inviata l'accettazione.
+
+**D:** ⚠️ Che cosa può contenere la mail di *recap* che il distributore invia al contraente/assicurando?
+**R:** **Quattro** voci: «**set informative**; **informativa precontrattuale**; **istruzioni per il pagamento del premio**; **la polizza**». ⚠️ La coda dell'elenco è **la polizza**. È l'unico punto della slide 11 che il docente commenta, e lo fa per criticarlo: «in un mondo tutto automatizzato il regolamento prevede questo, cioè mandare un'email di riassunto dove si indichi come pagare».
+**Opzione:** Set informative; informativa precontrattuale; istruzioni per il pagamento del premio; la polizza.
+**Distrattori:**
+- Set informative; informativa precontrattuale; istruzioni per il pagamento del premio; le credenziali di accesso all'area riservata.
+- Set informative; informativa precontrattuale; questionario di adeguatezza compilato; la polizza.
+- Set informative; informativa precontrattuale; istruzioni per l'esercizio del diritto di recesso; la polizza.
+
+**D:** Che cosa prevede l'art. 44 del Regolamento IVASS quanto alla gestione telematica dei rapporti contrattuali?
+**R:** Che «il **contraente e l'aderente** hanno diritto di richiedere **in ogni momento** all'impresa le **credenziali di accesso all'area riservata**, nei limiti previsti nel regolamento». ⚠️ Il quantificatore è «**in ogni momento**», e i titolari del diritto sono **due**: contraente **e** aderente.
+**Opzione:** Che il contraente e l'aderente hanno diritto di richiedere in ogni momento all'impresa le credenziali di accesso all'area riservata, nei limiti previsti nel regolamento.
+**Distrattori:**
+- Che il contraente e l'aderente hanno diritto di richiedere all'impresa le credenziali di accesso all'area riservata entro trenta giorni dalla conclusione del contratto.
+- Che il solo contraente ha diritto di richiedere in ogni momento all'impresa le credenziali di accesso all'area riservata, nei limiti previsti nel regolamento.
+- Che l'impresa deve trasmettere d'ufficio al contraente e all'aderente le credenziali di accesso all'area riservata al momento della registrazione alla piattaforma.
+
+**D:** ⚠️ In quale momento si ritiene concluso il contratto assicurativo collocato online?
+**R:** «Il contratto si riterrà concluso nel momento in cui la **polizza è resa disponibile sul server nell'area riservata della piattaforma**.» ⚠️ Il momento è agganciato a un **fatto tecnico**, non alla firma né al pagamento del premio; ⚠️ e va tenuto distinto dal **luogo** di conclusione, che invece resta dibattuto in dottrina.
+**Opzione:** Nel momento in cui la polizza è resa disponibile sul server nell'area riservata della piattaforma.
+**Distrattori:**
+- Nel momento in cui il contraente riceve la mail di recap contenente la polizza e le istruzioni per il pagamento del premio.
+- Nel momento in cui il proponente ha notizia dell'accettazione, ovunque egli si trovi fisicamente.
+- Nel momento in cui il contraente paga il premio secondo le istruzioni ricevute dal distributore.
+
+**D:** Quali soluzioni offre la dottrina sul luogo di conclusione del contratto concluso online?
+**R:** È «un tema **diffusamente dibattuto**» con **quattro** possibilità: «il **luogo dove ha sede il provider del proponente al quale è inviata l'accettazione**»; «il **luogo in cui si trova fisicamente il proponente nel momento in cui ha notizia dell'accettazione**»; «il **luogo dove ha sede il soggetto che ha chiesto la registrazione del nome del dominio**»; «il **luogo dove si incontrano gli impulsi elettrici inviati dal computer dell'accettante con quelli generati dal computer del proponente**». ⚠️ Sono **alternative dottrinali**: la slide non ne sceglie una.
+**Opzione:** Il luogo del provider del proponente cui è inviata l'accettazione; quello in cui si trova fisicamente il proponente quando ha notizia dell'accettazione; quello del soggetto che ha registrato il nome a dominio; quello dove si incontrano gli impulsi elettrici dei due computer.
+**Distrattori:**
+- Il luogo del provider del proponente cui è inviata l'accettazione; quello in cui si trova fisicamente il proponente quando ha notizia dell'accettazione; quello del soggetto che ha registrato il nome a dominio; quello in cui la polizza è resa disponibile nell'area riservata.
+- Il luogo del provider del proponente cui è inviata l'accettazione; quello di residenza del contraente; quello del soggetto che ha registrato il nome a dominio; quello dove si incontrano gli impulsi elettrici dei due computer.
+- Il luogo della sede legale dell'impresa di assicurazione; quello in cui si trova fisicamente il proponente quando ha notizia dell'accettazione; quello del soggetto che ha registrato il nome a dominio; quello dove si incontrano gli impulsi elettrici dei due computer.
+
+**D:** ⚠️ Perché, secondo il docente, il luogo di conclusione del contratto online è ancora dibattuto?
+**R:** Perché «il **regolamento è stato fatto senza tenere necessariamente conto delle evoluzioni del FinTech**»: «in un mondo in cui tutto viene svolto nell'epoca di pochi secondi, […] gli **istituti giuridici sono ancora fermi** a capire se il luogo di conclusione del contratto, per eventuali **controversie e giurisdizioni applicabili**, qual è». Serve perciò «molto più di una riflessione, ma una vera e propria **rivoluzione legale e culturale**».
+**Opzione:** Perché il regolamento è stato scritto senza tenere conto delle evoluzioni del FinTech, e la questione rileva per le controversie e la giurisdizione applicabile.
+**Distrattori:**
+- Perché il Codice delle Assicurazioni Private detta sul punto una disciplina in contrasto con quella del D.lgs. n. 70/2003.
+- Perché le piattaforme assicurative hanno di norma sede all'estero, e la questione rileva ai fini della fiscalità applicabile al premio.
+- Perché il Regolamento IVASS n. 40/2018 rinvia la scelta del criterio alle linee guida dell'Agenzia per l'Italia Digitale, mai adottate.
+
+**D:** Quali benefici dovrebbe apportare, secondo la slide 13, l'uso sempre più frequente delle tecnologie fondate sull'intelligenza artificiale?
+**R:** «**Notevoli benefici**, **diminuendo i costi operativi**, ma anche **migliorando l'efficienza delle attività e della qualità del lavoro umano**.»
+**Opzione:** Notevoli benefici: diminuzione dei costi operativi e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
+**Distrattori:**
+- Notevoli benefici: diminuzione dei costi operativi e progressiva sostituzione del lavoro umano nelle attività ripetitive.
+- Notevoli benefici: diminuzione dei premi assicurativi e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
+- Notevoli benefici: aumento dei margini di intermediazione e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
+
+**D:** ⚠️ A che cosa «costringe» il giurista l'avvento di un fenomeno nuovo, secondo la slide 13?
+**R:** «Ad un **capillare approccio** allo stesso, ad **esaminare le caratteristiche essenziali**, a **comprenderlo**, a valutare se esso possa essere **ricondotto alle categorie già esistenti dell'ordinamento giuridico**. In sostanza si tratta di compiere un'attività di **qualificazione ed analisi delle esigenze/aspettative assicurative dell'utente**.» ⚠️ La slide dice «**capillare**», il docente «**nuovo** approccio»: fa testo la slide.
+**Opzione:** A un capillare approccio: esaminarne le caratteristiche essenziali, comprenderlo e valutare se possa essere ricondotto alle categorie già esistenti dell'ordinamento giuridico.
+**Distrattori:**
+- A un nuovo approccio: esaminarne le caratteristiche essenziali, comprenderlo e valutare se possa essere ricondotto alle categorie già esistenti dell'ordinamento giuridico.
+- A un capillare approccio: esaminarne le caratteristiche essenziali, comprenderlo e costruire per esso categorie giuridiche interamente nuove.
+- A un capillare approccio: esaminarne le caratteristiche essenziali, comprenderlo e valutare se debba essere sottoposto a un regime di riserva di attività.
+
+**D:** Che cosa è avvenuto il 25 marzo 2022 secondo la slide 14?
+**R:** «La **Commissione europea ed il Parlamento europeo** hanno raggiunto un **accordo provvisorio** sul nuovo Regolamento c.d. **Digital Services Act**.» ⚠️ È un **accordo provvisorio**, non l'entrata in vigore del regolamento.
+**Opzione:** La Commissione europea e il Parlamento europeo hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Services Act.
+**Distrattori:**
+- La Commissione europea e il Parlamento europeo hanno approvato in via definitiva il nuovo Regolamento c.d. Digital Services Act.
+- La Commissione europea e il Consiglio ECOFIN hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Services Act.
+- La Commissione europea e il Parlamento europeo hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Markets Act.
+
+**D:** Che cosa prevederà il Digital Services Act per i prestatori di servizi di intermediazione online?
+**R:** **Cinque** cose: «**garantire in ordine alle condizioni applicabili alla intellegibilità e facile comprensione delle informazioni**»; «**rispetto di un periodo di preavviso minimo per effettuare modifiche contrattuali**»; «**esplicitare come vengono trattati i dati, chiarendo i criteri che determinano l'ordine in cui i beni sono classificati nei risultati dei motori di ricerca**»; «la **creazione di un sistema per il trattamento interno dei reclami**»; «**indicare i nominativi di mediatori indipendenti e qualificati** con cui intendono lavorare per le eventuali **controversie extragiudiziali**».
+**Opzione:** Intellegibilità e facile comprensione delle informazioni; preavviso minimo per le modifiche contrattuali; trasparenza sul trattamento dei dati e sull'ordine dei risultati di ricerca; sistema interno di trattamento dei reclami; nominativi di mediatori indipendenti per le controversie extragiudiziali.
+**Distrattori:**
+- Intellegibilità e facile comprensione delle informazioni; preavviso minimo per le modifiche contrattuali; trasparenza sul trattamento dei dati e sull'ordine dei risultati di ricerca; sistema interno di trattamento dei reclami; adesione obbligatoria a un organismo di mediazione istituito presso la Commissione.
+- Intellegibilità e facile comprensione delle informazioni; preavviso minimo per le modifiche contrattuali; divieto di trattare i dati per finalità di profilazione commerciale; sistema interno di trattamento dei reclami; nominativi di mediatori indipendenti per le controversie extragiudiziali.
+- Intellegibilità e facile comprensione delle informazioni; diritto di recesso entro quattordici giorni; trasparenza sul trattamento dei dati e sull'ordine dei risultati di ricerca; sistema interno di trattamento dei reclami; nominativi di mediatori indipendenti per le controversie extragiudiziali.
+
+**D:** ⚠️ Che cosa aggiunge la slide, rispetto al parlato, alla voce del Digital Services Act sul trattamento dei dati?
+**R:** La coda «**chiarendo i criteri che determinano l'ordine in cui i beni sono classificati nei risultati dei motori di ricerca**»: il docente si ferma a «esplicitare come vengono trattati i dati». ⚠️ È la **coda inventata al contrario** — non manomessa, ma **presente solo sulla slide**, che è ciò che fa testo all'esame.
+**Opzione:** L'obbligo di chiarire i criteri che determinano l'ordine in cui i beni sono classificati nei risultati dei motori di ricerca.
+**Distrattori:**
+- L'obbligo di indicare i soggetti terzi ai quali i dati degli utenti sono comunicati o ceduti.
+- L'obbligo di conservare i dati trattati per un periodo minimo di cinque anni a fini di controllo.
+- L'obbligo di ottenere il preventivo consenso dell'utente per ogni trattamento a fini commerciali.
+
+**D:** ⚠️ A chi si rivolgono gli obblighi previsti dal Digital Services Act, secondo la slide?
+**R:** Ai «**prestatori dei servizi di intermediazione online**» in generale — non ai soli **distributori assicurativi**, che sono invece i destinatari delle regole del **Regolamento IVASS n. 40/2018** trattate poco prima.
+**Opzione:** Ai prestatori di servizi di intermediazione online.
+**Distrattori:**
+- Ai distributori di prodotti assicurativi che operano tramite piattaforme online.
+- Ai provider che mettono a disposizione degli utenti l'accesso alla rete e un indirizzo IP.
+- Alle piattaforme di comparazione delle polizze gestite da intermediari tramite siti internet.
+
+**D:** ⚠️ Che giudizio dà il docente sul livello della normativa in materia di collocamento assicurativo a distanza?
+**R:** Che «la normativa ad oggi, che è questo **regolamento IVASS**, è ancora, permettetemi di dire, un po' **rudimentale**». Il contrasto con le slide precedenti su Big Data e InsurTech «l'ho fatto **di proposito** per farvi capire come ci sia ancora un **disallineamento** che rende il proliferare del FinTech in questo campo ancora a uno **stadio abbastanza acerbo e prematuro**». Il bilancio finale è però aperto: «va dato atto che l'**Unione Europea** con queste ultime normative ha fatto sì che l'approccio **iniziasse a cambiare**; siamo in una **lenta ma progressiva evoluzione**».
+
+**D:** Quale domanda lascia aperta il docente sull'apporto che FinTech e InsurTech potrebbero dare alla comprensione dei documenti contrattuali?
+**R:** «Possono i **Big Data**, il **FinTech**, in generale l'**InsurTech**, **facilitare questo processo di comprensione**?», dato che nella comunicazione a distanza «io devo essere messo in grado di leggere una **quantità infinita di documenti**». In concreto: «esiste per esempio la possibilità di creare dei **software che rendano più intellegibile la documentazione**? Che diano la possibilità di **farmi sottoscrivere il contratto solo se dimostro di aver letto e compreso davvero e non con un semplice tick** le clausole contrattuali?». Per il docente «questo potrebbe fare molto bene all'industria assicurativa».
