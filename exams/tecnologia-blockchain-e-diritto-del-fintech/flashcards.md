@@ -3180,3 +3180,321 @@
 
 **D:** Quale domanda lascia aperta il docente sull'apporto che FinTech e InsurTech potrebbero dare alla comprensione dei documenti contrattuali?
 **R:** «Possono i **Big Data**, il **FinTech**, in generale l'**InsurTech**, **facilitare questo processo di comprensione**?», dato che nella comunicazione a distanza «io devo essere messo in grado di leggere una **quantità infinita di documenti**». In concreto: «esiste per esempio la possibilità di creare dei **software che rendano più intellegibile la documentazione**? Che diano la possibilità di **farmi sottoscrivere il contratto solo se dimostro di aver letto e compreso davvero e non con un semplice tick** le clausole contrattuali?». Per il docente «questo potrebbe fare molto bene all'industria assicurativa».
+
+## Lezione 12 — Big Data, utilizzo e circolazione (2)
+
+**D:** Qual è l'unica voce dell'agenda della lezione 12?
+**R:** «**Piattaforme digitali, algoritmi e Big Data: il caso del credit scoring**.» Il docente spiega la scelta di un caso elementare: esso «vi dà la possibilità su una **piattaforma semplice** di iniziare a [e]nucleare quelli che sono poi i temi che in tutta la catena blockchain, fino ad arrivare alle criptovalute, incontreremo, vale a dire **automazione dei processi, controllo del processo, diffusione di dati, privacy**».
+**Opzione:** Piattaforme digitali, algoritmi e Big Data: il caso del credit scoring.
+**Distrattori:**
+- Piattaforme digitali, algoritmi e Big Data: il caso del marketplace lending.
+- Piattaforme digitali, algoritmi e Big Data: il caso della consulenza automatizzata.
+- Piattaforme digitali, intelligenza artificiale e Big Data: il caso del credit scoring.
+
+**D:** ⚠️ Dia la definizione di credit scoring.
+**R:** «Il credit scoring è un **metodo statistico** che consente di valutare l'**affidabilità creditizia** e la **solvibilità** di una persona.» ⚠️ Gli oggetti della valutazione sono **due**, non uno; e il metodo è **statistico**, non algoritmico — è la *più recente evoluzione* a essere algoritmica.
+**Opzione:** Un metodo statistico che consente di valutare l'affidabilità creditizia e la solvibilità di una persona.
+**Distrattori:**
+- Un metodo statistico che consente di valutare l'affidabilità creditizia di una persona.
+- Un metodo algoritmico che consente di valutare l'affidabilità creditizia e la solvibilità di una persona.
+- Un metodo statistico che consente di valutare la capacità di rimborso e il patrimonio di una persona.
+
+**D:** ⚠️ Che cosa ha fatto proprio il credit scoring algoritmico nella sua più recente evoluzione, e a quale fine?
+**R:** «L'uso delle tecniche di **machine learning** per l'**analisi ed elaborazione dei dati** che, **anonimizzati**, possono stabilire **correlazioni finanziarie** a ‘**predire**’ il **merito creditizio** di **un solo o di gruppi di creditori** con **maggiore accuratezza**.» ⚠️ I dati sono **anonimizzati**, e la previsione può riguardare **un solo** soggetto **o gruppi**.
+**Opzione:** L'uso delle tecniche di machine learning per l'analisi ed elaborazione dei dati che, anonimizzati, possono stabilire correlazioni finanziarie a predire il merito creditizio di un solo o di gruppi di creditori con maggiore accuratezza.
+**Distrattori:**
+- L'uso delle tecniche di machine learning per l'analisi ed elaborazione dei dati che, anonimizzati, possono stabilire correlazioni finanziarie a predire il merito creditizio di gruppi omogenei di creditori con maggiore accuratezza.
+- L'uso delle tecniche di machine learning per l'analisi ed elaborazione dei dati che, resi accessibili al titolare, possono stabilire correlazioni finanziarie a predire il merito creditizio di un solo o di gruppi di creditori con maggiore accuratezza.
+- L'uso delle tecniche di reti neurali artificiali per l'analisi ed elaborazione dei dati che, anonimizzati, possono stabilire correlazioni finanziarie a predire il merito creditizio di un solo o di gruppi di creditori con maggiore accuratezza.
+
+**D:** Quali effetti produce, in sintesi, l'evoluzione tecnologica applicata ai sistemi di credit scoring?
+**R:** «**Non solo** può migliorare l'**efficienza** e l'**accuratezza della decisione** ma con questo può anche facilitare l'**inclusione finanziaria**.» ⚠️ Le voci sono **tre** e l'ultima è **sociale**, non tecnica.
+**Opzione:** Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche facilitare l'inclusione finanziaria.
+**Distrattori:**
+- Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche facilitare la trasparenza dei meccanismi di valutazione.
+- Non solo può migliorare l'efficienza e la rapidità della decisione, ma con questo può anche facilitare l'inclusione finanziaria.
+- Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche ridurre il costo del credito per i richiedenti.
+
+**D:** ⚠️ Perché, secondo il docente, i sistemi automatizzati di credit scoring favoriscono l'inclusione finanziaria?
+**R:** Perché abbattono il **costo documentale** dell'istruttoria, non perché valutino con più indulgenza: il beneficiario è «chi generalmente **non era accettato dalle banche** perché **faceva fatica a produrre la documentazione**, i moduli per applicare a prestiti», mentre con i sistemi automatizzati «tutto diventa così **immediato e facile** che **non chiede quasi mai un intervento dall'altra parte di produzione di documenti**». ⚠️ Da tenere distinta dall'**esclusione finanziaria**, che alla lezione 01 è un **rischio** del FinTech.
+
+**D:** ⚠️ Quale rischio fa emergere l'utilizzo di meccanismi di machine learning nel credit scoring?
+**R:** «**Rischi di opacità della decisione**, così che **non è agevole verificare se il sistema ha reso possibili esiti scorretti anche grazie all'utilizzo di dati personali**.» ⚠️ L'opacità riguarda il **come si decide**; il **risultato divergente** è invece la seconda ombra, l'**inefficienza**.
+**Opzione:** Rischi di opacità della decisione, così che non è agevole verificare se il sistema ha reso possibili esiti scorretti anche grazie all'utilizzo di dati personali.
+**Distrattori:**
+- Rischi di opacità della decisione, così che non è agevole verificare se il sistema ha reso possibili esiti scorretti anche grazie all'utilizzo di dati anonimizzati.
+- Rischi di opacità della decisione, così che è impossibile verificare se il sistema ha reso possibili esiti scorretti anche grazie all'utilizzo di dati personali.
+- Rischi di discriminazione della decisione, così che non è agevole verificare se il sistema ha reso possibili esiti scorretti anche grazie all'utilizzo di dati personali.
+
+**D:** Da che cosa derivano le inefficienze che il credit scoring algoritmico può produrre, e in che cosa si traducono?
+**R:** «**Inefficienze derivanti dalla carenza di trasparenza dei diversi meccanismi di valutazione** con conseguenti **significative differenze nei punteggi attribuiti**.»
+**Opzione:** Dalla carenza di trasparenza dei diversi meccanismi di valutazione, con conseguenti significative differenze nei punteggi attribuiti.
+**Distrattori:**
+- Dalla carenza di trasparenza dei diversi meccanismi di valutazione, con conseguenti significative differenze nei tassi applicati.
+- Dalla scarsa qualità dei dati elaborati dai diversi meccanismi di valutazione, con conseguenti significative differenze nei punteggi attribuiti.
+- Dalla carenza di coordinamento fra i diversi meccanismi di valutazione, con conseguente impossibilità di confrontare i punteggi attribuiti.
+
+**D:** ⚠️ Quale abuso, oltre all'opacità e alle inefficienze, consente il credit scoring algoritmico?
+**R:** «Consente di **sfruttare situazioni di vulnerabilità** con la conseguente offerta di **condizioni contrattuali più sfavorevoli che il richiedente è indotto ad accettare**.» ⚠️ È l'unica delle quattro ombre che descrive un abuso **intenzionale** e non un difetto tecnico, e sta **solo sulla slide**: il docente non la commenta.
+**Opzione:** Consente di sfruttare situazioni di vulnerabilità, con la conseguente offerta di condizioni contrattuali più sfavorevoli che il richiedente è indotto ad accettare.
+**Distrattori:**
+- Consente di sfruttare situazioni di vulnerabilità, con la conseguente esclusione del richiedente dall'accesso al credito.
+- Consente di sfruttare situazioni di asimmetria informativa, con la conseguente offerta di condizioni contrattuali più sfavorevoli che il richiedente è indotto ad accettare.
+- Consente di sfruttare situazioni di vulnerabilità, con la conseguente offerta di condizioni contrattuali più sfavorevoli che il richiedente non è in grado di comprendere.
+
+**D:** ⚠️ Che cosa sostengono, secondo la slide, gli studiosi che vedono con sfavore i sistemi di credit scoring algoritmico?
+**R:** Che vi si ritrova «una **costante fonte di discriminazione e di danno potenziale per determinati gruppi sociali**». ⚠️ È la prima delle due posizioni «**non convergenti**» registrate dalla slide sul tema degli **effetti discriminatori** e della «conseguente **incidenza sui diritti fondamentali dei consumatori**».
+**Opzione:** Che vi si ritrova una costante fonte di discriminazione e di danno potenziale per determinati gruppi sociali.
+**Distrattori:**
+- Che vi si ritrova una occasionale fonte di discriminazione e di danno potenziale per determinati gruppi sociali.
+- Che vi si ritrova una costante fonte di discriminazione e di danno potenziale per la generalità dei consumatori.
+- Che vi si ritrova una costante fonte di opacità e di danno potenziale per determinati gruppi sociali.
+
+**D:** ⚠️ Che cosa sostiene, secondo la slide, la posizione favorevole ai lenders fintech?
+**R:** Che essi «**riducono significativamente la discriminazione insita nelle interazioni tradizionali**, **sebbene** un impatto discriminatorio possa essere prodotto dall'uso di **informazioni non corrette o imperfette**». ⚠️ La riserva finale non è eliminata: il rischio residuo nasce dalla **qualità dei dati**, non dall'algoritmo.
+**Opzione:** Che riducono significativamente la discriminazione insita nelle interazioni tradizionali, sebbene un impatto discriminatorio possa essere prodotto dall'uso di informazioni non corrette o imperfette.
+**Distrattori:**
+- Che eliminano la discriminazione insita nelle interazioni tradizionali, sebbene un impatto discriminatorio possa essere prodotto dall'uso di informazioni non corrette o imperfette.
+- Che riducono significativamente la discriminazione insita nelle interazioni tradizionali, sebbene un impatto discriminatorio possa essere prodotto dall'assenza di un intervento umano nella decisione.
+- Che riducono significativamente le asimmetrie informative insite nelle interazioni tradizionali, sebbene un impatto discriminatorio possa essere prodotto dall'uso di informazioni non corrette o imperfette.
+
+**D:** ⚠️ Quante posizioni registra la slide sugli effetti discriminatori del credit scoring, e quante ne conta il docente?
+**R:** La **slide 4** ne registra **due** («da un lato gli studiosi… dall'altra, vi è chi sostiene»); il docente ne conta **tre**, inserendo una «**posizione intermedia** […] di chi ritiene che sì è vero può creare delle discriminazioni **ma vengono di fatto compensate dall'allargamento della platea** di persone che grazie a questi sistemi creditizi possono avere credito». ⚠️ All'esame **fa testo la slide**: le opzioni sono citazioni letterali delle slide. ⚠️ Il transcript, inoltre, formula dapprima la prima posizione **al rovescio** («gli *estimatori* […] vedono comunque un potenziale importante») per poi correggersi nei termini della slide.
+
+**D:** ⚠️ Con quale esempio il docente mostra che i punteggi di credit scoring divergono, e che cosa ne conclude?
+**R:** Con lo **stesso soggetto** interrogato in tre banche dati — «il **CRIF** nell'Italia, l'**Experian** a livello europeo, […] **Halifax** [ASR: «Alifax»] è una delle più famose in Inghilterra» —: **700 su 900** (pesa l'esposizione debitoria del mutuo), **290 su 305**, «altissimo, eccellente» (pesa la **regolarità nei pagamenti**), **100 su 100** (il fatto stesso che una banca abbia concesso il mutuo è indice di affidabilità). I numeri sono dichiaratamente ipotetici. La conclusione: «a seconda del tipo di banca dati che l'**istituto erogante interrogherà**, i risultati sono diversi. Il cittadino, l'utente, **non ha la possibilità di sapere quale verrà interrogato** e soprattutto **non ha la possibilità di conoscere esattamente come l'algoritmo calcoli questi punteggi**». ⚠️ L'esempio sta **solo nel transcript**.
+
+**D:** ⚠️ Il rischio discriminatorio può essere eliminato dal sistema, e che cosa si riconosce comunque al credit scoring algoritmico?
+**R:** «Anche se il rischio discriminatorio **non può essere completamente espunto dal sistema**, è sempre più diffusa l'idea che l'uso del credit scoring algoritmico abbia **almeno contribuito** a **migliorare il livello di personalizzazione dei servizi** così come a **ridurre le asimmetrie informative** e **incrementare la concorrenza**.» ⚠️ Il rischio non è eliminato ma «**non completamente espunto**», e il contributo è «**almeno**».
+**Opzione:** Non può essere completamente espunto; gli si riconosce di aver almeno contribuito a migliorare il livello di personalizzazione dei servizi, a ridurre le asimmetrie informative e a incrementare la concorrenza.
+**Distrattori:**
+- Non può essere completamente espunto; gli si riconosce di aver almeno contribuito a migliorare il livello di personalizzazione dei servizi, a ridurre le asimmetrie informative e a incrementare la trasparenza dei meccanismi di valutazione.
+- Può oggi dirsi superato; gli si riconosce di aver contribuito a migliorare il livello di personalizzazione dei servizi, a ridurre le asimmetrie informative e a incrementare la concorrenza.
+- Non può essere completamente espunto; gli si riconosce di aver almeno contribuito a migliorare il livello di inclusione finanziaria, a ridurre le asimmetrie informative e a incrementare la concorrenza.
+
+**D:** ⚠️ Grazie a che cosa il credit scoring algoritmico incrementa la concorrenza, e a vantaggio di chi?
+**R:** «Grazie alla **facilità e rapidità** di cui possono usufruire i **creditori** nell'accesso alle **diverse piattaforme**.» ⚠️ Il soggetto avvantaggiato è **chi presta**, non chi chiede il credito: la concorrenza cresce perché i creditori accedono facilmente a più piattaforme.
+**Opzione:** Grazie alla facilità e rapidità di cui possono usufruire i creditori nell'accesso alle diverse piattaforme.
+**Distrattori:**
+- Grazie alla facilità e rapidità di cui possono usufruire i richiedenti nell'accesso alle diverse piattaforme.
+- Grazie alla trasparenza e comparabilità di cui possono usufruire i creditori nell'accesso alle diverse piattaforme.
+- Grazie alla facilità e rapidità di cui possono usufruire i creditori nell'accesso alle diverse banche dati.
+
+**D:** Grazie a quale regolazione può essere esercitato un controllo più attento sui dati usati nel credit scoring e sui loro potenziali effetti scorretti o discriminatori?
+**R:** «Grazie alla **regolazione relativa al trattamento dei dati personali**», cioè al **GDPR**. ⚠️ Oggi non esiste una disciplina del credit scoring algoritmico: la leva è **indiretta** e passa dalla protezione dei dati.
+**Opzione:** Grazie alla regolazione relativa al trattamento dei dati personali.
+**Distrattori:**
+- Grazie alla regolazione relativa alla trasparenza delle condizioni contrattuali.
+- Grazie alla regolazione relativa alla vigilanza prudenziale sugli intermediari.
+- Grazie alla regolazione relativa alle pratiche commerciali scorrette.
+
+**D:** ⚠️ Enunci il principio di limitazione della finalità nella formula della slide.
+**R:** «I dati sono raccolti per **finalità determinate, esplicite e legittime**, e successivamente trattati in modo che **non sia incompatibile con tali finalità**.» ⚠️ È una **triade** di aggettivi.
+**Opzione:** I dati sono raccolti per finalità determinate, esplicite e legittime, e successivamente trattati in modo che non sia incompatibile con tali finalità.
+**Distrattori:**
+- I dati sono raccolti per finalità determinate, esplicite e legittime, e successivamente trattati esclusivamente per tali finalità.
+- I dati sono raccolti per finalità determinate, esplicite e proporzionate, e successivamente trattati in modo che non sia incompatibile con tali finalità.
+- I dati sono raccolti previo consenso dell'interessato per finalità determinate ed esplicite, e successivamente trattati in modo che non sia incompatibile con tali finalità.
+
+**D:** ⚠️ Enunci il principio di minimizzazione dei dati nella formula della slide.
+**R:** I dati «debbono essere **adeguati, pertinenti e limitati a quanto necessario**». ⚠️ Anche questa è una **triade**, e il transcript ne riporta **solo la prima voce** («per cui devono essere adeguati»): la coda «pertinenti e limitati a quanto necessario» sta **solo sulla slide**, ed è il bersaglio tipico della *coda sostituita*.
+**Opzione:** Debbono essere adeguati, pertinenti e limitati a quanto necessario.
+**Distrattori:**
+- Debbono essere adeguati, pertinenti e limitati a quanto strettamente indispensabile.
+- Debbono essere adeguati, pertinenti e conservati per il tempo necessario.
+- Debbono essere adeguati, aggiornati e limitati a quanto necessario.
+
+**D:** Che cosa sembra attribuire all'interessato la norma del GDPR sui processi decisionali automatizzati?
+**R:** «**Non solo un potere di consenso ma anche di controllo**, legato alla **richiesta di ottenere l'intervento umano** e al **diritto a conoscere la logica della decisione algoritmica**.» ⚠️ La slide dice «**sembra** attribuire»; i poteri di controllo sono **due** e si **aggiungono** al consenso, non lo sostituiscono.
+**Opzione:** Non solo un potere di consenso ma anche di controllo, legato alla richiesta di ottenere l'intervento umano e al diritto a conoscere la logica della decisione algoritmica.
+**Distrattori:**
+- Non solo un potere di consenso ma anche di controllo, legato alla richiesta di ottenere l'intervento umano e al diritto di ottenere la rettifica della decisione algoritmica.
+- Non un potere di consenso ma soltanto di controllo, legato alla richiesta di ottenere l'intervento umano e al diritto a conoscere la logica della decisione algoritmica.
+- Non solo un potere di consenso ma anche di controllo, legato alla richiesta di ottenere la cancellazione dei dati e al diritto a conoscere la logica della decisione algoritmica.
+
+**D:** ⚠️ Che cosa devono concretamente mettere a disposizione dell'interessato i sistemi di credit scoring?
+**R:** «Le **motivazioni della decisione** e la **spiegazione del punteggio**.» ⚠️ La conseguenza operativa sta **nel transcript**; e **né la slide né il docente citano il numero dell'articolo** del GDPR.
+**Opzione:** Le motivazioni della decisione e la spiegazione del punteggio.
+**Distrattori:**
+- Le motivazioni della decisione e il codice sorgente dell'algoritmo impiegato.
+- I dati utilizzati per la decisione e il peso attribuito a ciascuno di essi.
+- Le motivazioni della decisione e l'indicazione delle banche dati interrogate.
+
+**D:** Che cosa rischia di provocare l'entrata nel mercato finanziario di operatori non tradizionali come le piattaforme di marketplace lending?
+**R:** Di «**sconvolgere un equilibrio già molto delicato**».
+**Opzione:** Di sconvolgere un equilibrio già molto delicato.
+**Distrattori:**
+- Di sconvolgere un equilibrio consolidato nel tempo.
+- Di sottrarre alla vigilanza una quota crescente dell'attività di finanziamento.
+- Di alterare le condizioni di concorrenza fra intermediari autorizzati.
+
+**D:** ⚠️ In quale caso non si ravvisano problemi a includere le piattaforme di marketplace lending nella categoria dei creditori?
+**R:** «Laddove tali piattaforme operino come **veri e propri intermediari finanziari**, **erogando direttamente credito ai consumatori**.» ⚠️ La parola decisiva è «**direttamente**».
+**Opzione:** Laddove operino come veri e propri intermediari finanziari, erogando direttamente credito ai consumatori.
+**Distrattori:**
+- Laddove operino come veri e propri intermediari finanziari, mettendo in contatto i consumatori con possibili prestatori.
+- Laddove siano autorizzate all'esercizio del credito, erogando direttamente credito ai consumatori.
+- Laddove operino come veri e propri intermediari finanziari, erogando direttamente credito a imprese e consumatori.
+
+**D:** Come sono definiti i creditori?
+**R:** «**Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito nell'esercizio di un'attività commerciale o professionale.**» ⚠️ È la clausola finale a essere discriminante: i prestatori reclutati dalle piattaforme sono «**perlopiù non professionali**» e per questo la categoria non li copre.
+**Opzione:** Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito nell'esercizio di un'attività commerciale o professionale.
+**Distrattori:**
+- Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito a titolo oneroso.
+- Persone giuridiche che concedono o s'impegnano a concedere un credito nell'esercizio di un'attività commerciale o professionale.
+- Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito previa autorizzazione all'esercizio del credito.
+
+**D:** ⚠️ Quando sorge il problema qualificatorio delle piattaforme di marketplace lending?
+**R:** «Allorquando tali piattaforme si limitano a svolgere **attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato**, **non finanziando direttamente i soggetti in deficit ma mettendoli in contatto con possibili prestatori, perlopiù non professionali**.» ⚠️ Il «**perlopiù non professionali**» è la ragione per cui la definizione di *creditore* non li copre.
+**Opzione:** Quando si limitano a svolgere attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato, non finanziando direttamente i soggetti in deficit ma mettendoli in contatto con possibili prestatori, perlopiù non professionali.
+**Distrattori:**
+- Quando si limitano a svolgere attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato, non finanziando direttamente i soggetti in deficit ma mettendoli in contatto con possibili prestatori, sempre non professionali.
+- Quando si limitano a svolgere attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato, finanziando i soggetti in deficit con risorse raccolte presso prestatori, perlopiù non professionali.
+- Quando si limitano a svolgere attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato, non finanziando direttamente i soggetti in deficit ma cedendo a terzi i crediti erogati.
+
+**D:** Su quale base operano le piattaforme di marketplace lending?
+**R:** «Sulla base di **algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito**.» ⚠️ Le informazioni sono **fornite dal prenditore**, non raccolte presso terzi.
+**Opzione:** Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito.
+**Distrattori:**
+- Sulla base di algoritmi che elaborano le informazioni acquisite presso i sistemi di informazione creditizia al fine di valutarne il merito di credito.
+- Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di determinarne la classe di rischio e rendimento.
+- Sulla base di algoritmi che elaborano le informazioni fornite dall'offerente il credito al fine di valutare il merito di credito del prenditore.
+
+**D:** ⚠️ Che cos'è il modello diretto di marketplace lending e che ruolo vi ha lo scoring?
+**R:** È quello «in cui il **prestatore sceglie sulla piattaforma i prestiti da concedere**»; in esso «questi **può utilizzare** tale giudizio (o *scoring*) per le **proprie decisioni di finanziamento**». ⚠️ Lo scoring è uno strumento **facoltativo** di decisione, non un presupposto.
+**Opzione:** È quello in cui il prestatore sceglie sulla piattaforma i prestiti da concedere, e può utilizzare lo scoring per le proprie decisioni di finanziamento.
+**Distrattori:**
+- È quello in cui il prestatore sceglie sulla piattaforma i prestiti da concedere, e deve utilizzare lo scoring per le proprie decisioni di finanziamento.
+- È quello in cui la piattaforma sceglie i prestiti da concedere, e il prestatore può utilizzare lo scoring per le proprie decisioni di finanziamento.
+- È quello in cui il prestatore eroga direttamente il credito al prenditore, e può utilizzare lo scoring per le proprie decisioni di finanziamento.
+
+**D:** ⚠️ Che cos'è il modello diffuso di marketplace lending e perché in esso lo scoring ha un ruolo ancor più pregnante?
+**R:** È quello «laddove la piattaforma utilizza **sistemi automatici di diversificazione sulla base della classe di rischio/rendimento scelta dall'offerente il credito**»; lì lo scoring «ha un ruolo **ancor più pregnante**, costituendo il **presupposto per l'abbinamento automatico tra offerte e richieste di credito**, che nei sistemi più evoluti è realizzato con un'**attenta diversificazione del rischio tra più prenditori**». ⚠️ L'offerente sceglie la **classe di rischio/rendimento**, non i singoli prestiti; e la diversificazione è **tra più prenditori**.
+**Opzione:** È quello in cui la piattaforma utilizza sistemi automatici di diversificazione sulla base della classe di rischio/rendimento scelta dall'offerente il credito, e lo scoring costituisce il presupposto per l'abbinamento automatico tra offerte e richieste di credito.
+**Distrattori:**
+- È quello in cui la piattaforma utilizza sistemi automatici di diversificazione sulla base della classe di rischio/rendimento scelta dal prenditore di fondi, e lo scoring costituisce il presupposto per l'abbinamento automatico tra offerte e richieste di credito.
+- È quello in cui la piattaforma utilizza sistemi automatici di diversificazione sulla base della classe di rischio/rendimento scelta dall'offerente il credito, e lo scoring costituisce un elemento di valutazione rimesso alla scelta del prestatore.
+- È quello in cui la piattaforma utilizza sistemi automatici di diversificazione sulla base dei prestiti selezionati dall'offerente il credito, e lo scoring costituisce il presupposto per l'abbinamento automatico tra offerte e richieste di credito.
+
+**D:** ⚠️ Fra chi è realizzata, nei sistemi più evoluti, la diversificazione del rischio?
+**R:** «Tra **più prenditori**», cioè fra coloro che ricevono il denaro.
+**Opzione:** Tra più prenditori.
+**Distrattori:**
+- Tra più offerenti il credito.
+- Tra più classi di rischio e rendimento.
+- Tra più piattaforme di marketplace lending.
+
+**D:** ⚠️ Quale difficoltà mostra, nel contesto del FinTech, l'approccio metodologico tradizionale, e che cosa si propone al suo posto?
+**R:** «L'**approccio metodologico tradizionale della qualificazione e della sussunzione** dell'attività prestata dalla piattaforma **nella fattispecie normativa astratta da sottoporre a riserva** mostra **qualche difficoltà**, per cui si ravvisa l'opportunità di **ricercare la disciplina del caso concreto**, valorizzando anche **elementi marginali** che lo caratterizzano **come fatto storico**.» ⚠️ Il movimento è **dall'astratto al concreto** — l'opposto del metodo con cui, alla lezione 04, il *robo advisory* veniva ricondotto alla riserva di attività.
+**Opzione:** La qualificazione e la sussunzione dell'attività nella fattispecie normativa astratta da sottoporre a riserva mostra qualche difficoltà, per cui si ravvisa l'opportunità di ricercare la disciplina del caso concreto, valorizzando anche elementi marginali che lo caratterizzano come fatto storico.
+**Distrattori:**
+- La qualificazione e la sussunzione dell'attività nella fattispecie normativa astratta da sottoporre a riserva mostra qualche difficoltà, per cui si ravvisa l'opportunità di costruire per il caso concreto una fattispecie normativa nuova.
+- La qualificazione e la sussunzione dell'attività nella fattispecie normativa astratta da sottoporre a riserva mostra qualche difficoltà, per cui si ravvisa l'opportunità di ricercare la disciplina del caso concreto, prescindendo dagli elementi marginali che lo caratterizzano come fatto storico.
+- La qualificazione e la sussunzione dell'attività nella fattispecie normativa astratta da sottoporre a vigilanza mostra qualche difficoltà, per cui si ravvisa l'opportunità di ricercare la disciplina del caso concreto, valorizzando anche elementi marginali che lo caratterizzano come fatto storico.
+
+**D:** Che cosa consentirebbe, secondo l'opinione «piuttosto diffusa» riferita dalla slide, l'utilizzo di intelligenza artificiale e algoritmi nei sistemi di credit scoring?
+**R:** «Di **ridurre i costi operativi e di transazione** così come le **asimmetrie informative**, **migliorando il grado di personalizzazione dei servizi di finanziamento**.» ⚠️ Le voci sono **quattro**; il transcript ne riporta **una sola** («riduce i costi operativi»).
+**Opzione:** Di ridurre i costi operativi e di transazione così come le asimmetrie informative, migliorando il grado di personalizzazione dei servizi di finanziamento.
+**Distrattori:**
+- Di ridurre i costi operativi e di transazione così come le asimmetrie informative, migliorando il grado di inclusione finanziaria dei servizi di finanziamento.
+- Di ridurre i costi operativi e di transazione così come i rischi di discriminazione, migliorando il grado di personalizzazione dei servizi di finanziamento.
+- Di ridurre i costi operativi e il costo del credito così come le asimmetrie informative, migliorando il grado di personalizzazione dei servizi di finanziamento.
+
+**D:** ⚠️ Quando il credit scoring è oggetto di disciplina speciale?
+**R:** «**Solo quando utilizzato da banche e intermediari finanziari nel contesto dell'attività di finanziamento**» — disciplina peraltro, «come abbiamo visto, **non particolarmente puntuale**». ⚠️ Il «**solo**» è **corretto e discriminante**: è la restrizione che crea l'asimmetria con i soggetti non autorizzati.
+**Opzione:** Solo quando utilizzato da banche e intermediari finanziari nel contesto dell'attività di finanziamento.
+**Distrattori:**
+- Quando utilizzato da banche e intermediari finanziari, anche al di fuori dell'attività di finanziamento.
+- Solo quando utilizzato da banche e intermediari finanziari nel contesto dell'attività di finanziamento a consumatori.
+- Ogni volta che sia utilizzato nel contesto dell'attività di finanziamento, quale che sia il soggetto che lo impiega.
+
+**D:** ⚠️ A quale regime è sottoposto il credit scoring svolto da soggetti non autorizzati all'esercizio del credito?
+**R:** «Al **diritto comune**», «siano essi **start-up** o **piattaforme non finanziarie globali (c.d. Big Tech)**».
+**Opzione:** Al diritto comune, siano essi start-up o piattaforme non finanziarie globali, c.d. Big Tech.
+**Distrattori:**
+- Al diritto comune, purché non superino le soglie dimensionali previste per gli intermediari finanziari.
+- Alla medesima disciplina speciale, in forza del principio di neutralità tecnologica.
+- Al diritto comune, salva l'iscrizione in un apposito elenco tenuto dalla Banca d'Italia.
+
+**D:** ⚠️ Di quali vantaggi dispongono le Big Tech per competere con gli operatori finanziari tradizionali?
+**R:** «**Banche dati enormi**, una **solida reputazione** e **liquidità ingentissima**», che consentono di competere «in **condizioni di favore anche dal punto di vista regolamentare**». ⚠️ I vantaggi sono **tre**, e l'effetto è **anche** regolamentare, non solo commerciale — perché non essendo autorizzate all'esercizio del credito restano fuori dalla disciplina speciale.
+**Opzione:** Banche dati enormi, una solida reputazione e liquidità ingentissima, che consentono di competere in condizioni di favore anche dal punto di vista regolamentare.
+**Distrattori:**
+- Banche dati enormi, una solida reputazione e liquidità ingentissima, che consentono di competere in condizioni di favore esclusivamente sul piano commerciale.
+- Banche dati enormi, una solida reputazione e costi operativi contenuti, che consentono di competere in condizioni di favore anche dal punto di vista regolamentare.
+- Banche dati enormi, tecnologie proprietarie e liquidità ingentissima, che consentono di competere in condizioni di favore anche dal punto di vista regolamentare.
+
+**D:** ⚠️ A quale fonte deve sottostare il credit scoring che non rientri nell'attività di finanziamento di intermediari autorizzati?
+**R:** «**Quasi esclusivamente a un codice deontologico pubblicato dalla Banca d'Italia per i sistemi di informazione creditizia**»: la Banca d'Italia lo governa «**solo indirettamente**» perché il credit scoring «**non è di per sé attività regolamentata**». ⚠️ Il passaggio sta **solo nel transcript**: le slide si fermano alla contrapposizione *disciplina speciale / diritto comune*.
+
+**D:** Perché l'attività di credit scoring risulta «senz'altro meritevole di regolamentazione speciale»?
+**R:** «Al fine di **preservare la stabilità e l'efficienza del sistema finanziario** e **minimizzare i rischi per operatori e utenti** che un **utilizzo indiscriminato** potrebbe comportare.»
+**Opzione:** Al fine di preservare la stabilità e l'efficienza del sistema finanziario e minimizzare i rischi per operatori e utenti che un utilizzo indiscriminato potrebbe comportare.
+**Distrattori:**
+- Al fine di preservare la stabilità e l'efficienza del sistema finanziario e minimizzare i rischi per i soli utenti che un utilizzo indiscriminato potrebbe comportare.
+- Al fine di preservare la trasparenza e la concorrenza del sistema finanziario e minimizzare i rischi per operatori e utenti che un utilizzo indiscriminato potrebbe comportare.
+- Al fine di preservare la stabilità e l'efficienza del sistema finanziario e minimizzare i rischi per operatori e utenti che un utilizzo transfrontaliero potrebbe comportare.
+
+**D:** ⚠️ Da chi è stata avanzata la risposta comparsa nell'agenda europea sul credit scoring algoritmico?
+**R:** Da una «**proposta di risoluzione avanzata dal Parlamento**». ⚠️ È il **Parlamento europeo** a proporre, non la Commissione; e si tratta di una **proposta**, non di un regolamento in vigore.
+**Opzione:** Da una proposta di risoluzione avanzata dal Parlamento.
+**Distrattori:**
+- Da una proposta di regolamento avanzata dalla Commissione.
+- Da una proposta di risoluzione avanzata dal Consiglio.
+- Da un parere avanzato dalle autorità europee di vigilanza.
+
+**D:** Quali compiti avrebbe la nuova autorità di controllo prevista dalla proposta di regolamento?
+**R:** «**Monitorare l'applicazione del regolamento** e, **soprattutto**, **valutare il rischio delle tecnologie** e **certificare la conformità di IA, robotica e tecnologie correlate “ad alto rischio”** rispetto ai **principi e valori europei**, quali sanciti **in primo luogo dalla Carta dei diritti fondamentali dell'UE**.» ⚠️ L'autorità è **nuova** e «ad oggi **non esiste**, dovrebbe essere creata».
+**Opzione:** Monitorare l'applicazione del regolamento e, soprattutto, valutare il rischio delle tecnologie e certificare la conformità di IA, robotica e tecnologie correlate ad alto rischio rispetto ai principi e valori europei, sanciti in primo luogo dalla Carta dei diritti fondamentali dell'UE.
+**Distrattori:**
+- Monitorare l'applicazione del regolamento e, soprattutto, valutare il rischio delle tecnologie e certificare la conformità di IA, robotica e tecnologie correlate ad alto rischio rispetto ai principi e valori europei, sanciti in primo luogo dai Trattati istitutivi dell'Unione.
+- Monitorare l'applicazione del regolamento e, soprattutto, autorizzare l'immissione sul mercato di IA, robotica e tecnologie correlate ad alto rischio rispetto ai principi e valori europei, sanciti in primo luogo dalla Carta dei diritti fondamentali dell'UE.
+- Monitorare l'applicazione del regolamento e, soprattutto, valutare il rischio delle tecnologie e certificare la conformità di IA, robotica e tecnologie correlate rispetto ai canoni di sana e prudente gestione, sanciti in primo luogo dalla Carta dei diritti fondamentali dell'UE.
+
+**D:** ⚠️ A chi si applicherebbe l'approccio umanistico dello sviluppo tecnologico proposto dal Parlamento europeo?
+**R:** «A **chiunque intenda operare nell'Unione europe[a]** con sistemi di **intelligenza artificiale, robotica e tecnologie correlate**.» ⚠️ Il criterio è di **mercato**, non di stabilimento: conta dove si opera, non dove si ha sede.
+**Opzione:** A chiunque intenda operare nell'Unione europea con sistemi di intelligenza artificiale, robotica e tecnologie correlate.
+**Distrattori:**
+- A chiunque abbia sede nell'Unione europea e operi con sistemi di intelligenza artificiale, robotica e tecnologie correlate.
+- A chiunque intenda operare nell'Unione europea con sistemi di intelligenza artificiale, robotica e tecnologie correlate ad alto rischio.
+- A chiunque intenda operare nell'Unione europea con sistemi di intelligenza artificiale, robotica e tecnologie correlate, purché autorizzato all'esercizio del credito.
+
+**D:** ⚠️ Quali settori annovera il Parlamento fra quelli ad alto rischio, e quale utilizzo vi riconosce?
+**R:** «Nei settori ad alto rischio il Parlamento annovera la **finanza**, le **banche** e le **assicurazioni**, riconoscendo la **concessione di prestiti** come **utilizzo o finalità ad alto rischio**.» ⚠️ L'alto rischio è predicato su **due piani distinti**: per **settore** e per **utilizzo o finalità**.
+**Opzione:** La finanza, le banche e le assicurazioni, riconoscendo la concessione di prestiti come utilizzo o finalità ad alto rischio.
+**Distrattori:**
+- La finanza, le banche e le assicurazioni, riconoscendo la valutazione del merito di credito come utilizzo o finalità ad alto rischio.
+- La finanza, le banche e i servizi di pagamento, riconoscendo la concessione di prestiti come utilizzo o finalità ad alto rischio.
+- La finanza, le banche e le assicurazioni, riconoscendo la concessione di prestiti come settore soggetto a riserva di attività.
+
+**D:** ⚠️ A quale condizione, e da parte di chi, i sistemi di credit scoring con impiego di intelligenza artificiale dovrebbero essere certificati?
+**R:** «**Qualora la proposta di regolamento fosse approvata** nei termini appena accennati», essi «dovrebbero essere sottoposti a **preventiva certificazione di conformità** dalla **nuova autorità di controllo europea** ed **alle corrispondenti autorità nazionali**». ⚠️ La certificazione è **preventiva**, l'ipotesi è **condizionale** e i livelli sono **due**: il transcript si ferma a quello europeo.
+**Opzione:** Qualora la proposta di regolamento fosse approvata, a preventiva certificazione di conformità dalla nuova autorità di controllo europea ed alle corrispondenti autorità nazionali.
+**Distrattori:**
+- Qualora la proposta di regolamento fosse approvata, a preventiva certificazione di conformità dalla sola nuova autorità di controllo europea.
+- Qualora la proposta di regolamento fosse approvata, a certificazione periodica di conformità dalla nuova autorità di controllo europea ed alle corrispondenti autorità nazionali.
+- In forza del regolamento già approvato, a preventiva certificazione di conformità dalla nuova autorità di controllo europea ed alle corrispondenti autorità nazionali.
+
+**D:** ⚠️ Che cosa dovrebbe assicurare l'autorità sulle tecnologie riguardo ai sistemi di credit scoring, e che cosa invece non verificherebbe?
+**R:** Dovrebbe assicurare «**prima di tutto**» che essi «**non siano discriminatori**», «ma vi sono **buone ragioni per escludere che sia effettuata una verifica in ordine al rispetto dei canoni di sana e prudente gestione**».
+**Opzione:** Dovrebbe assicurare prima di tutto che non siano discriminatori, ma vi sono buone ragioni per escludere che sia effettuata una verifica in ordine al rispetto dei canoni di sana e prudente gestione.
+**Distrattori:**
+- Dovrebbe assicurare prima di tutto che non siano discriminatori, e inoltre che sia effettuata una verifica in ordine al rispetto dei canoni di sana e prudente gestione.
+- Dovrebbe assicurare prima di tutto il rispetto dei canoni di sana e prudente gestione, ma vi sono buone ragioni per escludere che sia effettuata una verifica in ordine al carattere non discriminatorio dei sistemi.
+- Dovrebbe assicurare prima di tutto che non siano discriminatori, ma vi sono buone ragioni per escludere che sia effettuata una verifica in ordine al rispetto dei principi in materia di protezione dei dati personali.
+
+**D:** ⚠️ Qual è il primo dei canoni di sana e prudente gestione, nella formula della slide?
+**R:** «Quello secondo il quale **il credito non va concesso a tutti i richiedenti ma solo a coloro che meritano di averlo in base alle capacità di rimborso**.»
+**Opzione:** Il credito non va concesso a tutti i richiedenti ma solo a coloro che meritano di averlo in base alle capacità di rimborso.
+**Distrattori:**
+- Il credito non va concesso a tutti i richiedenti ma solo a coloro che meritano di averlo in base alle garanzie prestate.
+- Il credito va concesso a tutti i richiedenti che ne facciano domanda, salvo il rispetto dei limiti di esposizione.
+- Il credito non va concesso a tutti i richiedenti ma solo a coloro che meritano di averlo in base al punteggio attribuito dai sistemi di informazione creditizia.
+
+**D:** ⚠️ Perché le finalità di sana e prudente gestione e di stabilità ed efficienza del sistema finanziario restano fuori dal controllo della nuova autorità sulle tecnologie?
+**R:** Perché «**devono orientare l'attività di vigilanza delle autorità del settore finanziario ma non sono presenti nella Carta dei diritti fondamentali dell'UE, che guida invece l'attività dell'autorità di controllo sulle tecnologie**». ⚠️ È il **difetto di copertura** su cui la lezione si chiude, e che il docente riassume come «uno **scollamento tra il passato e il futuro**, o forse meglio **tra il passato e il presente**».
+**Opzione:** Perché devono orientare l'attività di vigilanza delle autorità del settore finanziario, ma non sono presenti nella Carta dei diritti fondamentali dell'UE, che guida invece l'attività dell'autorità di controllo sulle tecnologie.
+**Distrattori:**
+- Perché devono orientare l'attività di vigilanza delle autorità del settore finanziario, ma non sono presenti nei Trattati istitutivi dell'Unione, che guidano invece l'attività dell'autorità di controllo sulle tecnologie.
+- Perché devono orientare l'attività di vigilanza delle autorità del settore finanziario, ma sono espressamente escluse dall'ambito della proposta di regolamento sull'intelligenza artificiale.
+- Perché orientano l'attività di vigilanza delle autorità del settore finanziario solo con riguardo agli intermediari autorizzati, e non ai soggetti sottoposti al diritto comune.
