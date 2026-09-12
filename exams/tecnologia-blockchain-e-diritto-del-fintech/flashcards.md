@@ -3498,3 +3498,315 @@
 - Perché devono orientare l'attività di vigilanza delle autorità del settore finanziario, ma non sono presenti nei Trattati istitutivi dell'Unione, che guidano invece l'attività dell'autorità di controllo sulle tecnologie.
 - Perché devono orientare l'attività di vigilanza delle autorità del settore finanziario, ma sono espressamente escluse dall'ambito della proposta di regolamento sull'intelligenza artificiale.
 - Perché orientano l'attività di vigilanza delle autorità del settore finanziario solo con riguardo agli intermediari autorizzati, e non ai soggetti sottoposti al diritto comune.
+
+## Lezione 13 — Crowdfunding: l'utilizzo della tecnologia nella raccolta fondi, differenti regole per diverse tipologie di crowdfunding (1)
+
+**D:** Quali sono le due voci dell'agenda della lezione 13?
+**R:** «**Cosa è il Crowdfunding?**» e «**La cornice legale italiana sul Crowdfunding**». ⚠️ Dentro le slide di contenuto la seconda voce diventa «La cornice **giuridica** italiana sul Crowdfunding».
+**Opzione:** Cosa è il Crowdfunding? e La cornice legale italiana sul Crowdfunding.
+**Distrattori:**
+- Cosa è il Crowdfunding? e La cornice europea sul Crowdfunding.
+- Cosa è il Crowdfunding? e Le differenti tipologie di Crowdfunding.
+- Le differenti tipologie di Crowdfunding e La cornice legale italiana sul Crowdfunding.
+
+**D:** ⚠️ Dia la definizione di crowdfunding nella formula letterale della slide.
+**R:** «Il termine Crowdfunding si riferisce al **processo attraverso il quale più persone conferiscono denaro, anche di piccola entità, per finanziare un progetto imprenditoriale o iniziative di vario genere utilizzando siti web ("piattaforme" o "portali") e ricevendo generalmente in cambio un profitto o una ricompensa**.» La fonte citata in nota è *Simple and Easy Guide to Financial Technology*, **James Jackson**, CreateSpace Independent Publishing Platform, **2017**. ⚠️ Tre quantificatori da non irrigidire: il denaro è «**anche** di piccola entità» (possibilità, non obbligo); l'oggetto è **alternativo** («un progetto imprenditoriale **o** iniziative di vario genere»); il ritorno è «**generalmente**» un profitto **o** una ricompensa — ed è quel «generalmente» a lasciare spazio al *donation-based*, dove non si riceve nulla.
+**Opzione:** Il processo attraverso il quale più persone conferiscono denaro, anche di piccola entità, per finanziare un progetto imprenditoriale o iniziative di vario genere utilizzando siti web, ricevendo generalmente in cambio un profitto o una ricompensa.
+**Distrattori:**
+- Il processo attraverso il quale più persone conferiscono denaro, esclusivamente di piccola entità, per finanziare un progetto imprenditoriale o iniziative di vario genere utilizzando siti web, ricevendo generalmente in cambio un profitto o una ricompensa.
+- Il processo attraverso il quale più persone conferiscono denaro, anche di piccola entità, per finanziare un progetto imprenditoriale utilizzando siti web, ricevendo sempre in cambio un profitto o una ricompensa.
+- Il processo attraverso il quale più persone conferiscono denaro, anche di piccola entità, per finanziare un progetto imprenditoriale o iniziative di vario genere utilizzando sportelli bancari dedicati, ricevendo generalmente in cambio un profitto o una ricompensa.
+
+**D:** ⚠️ Quali tipi di crowdfunding elenca la slide, e in quale ordine?
+**R:** **Sette**, più i modelli ibridi: **①** crowdfunding di **debito** (peer-to-peer lending); **②** **equity** crowdfunding; **③** crowdfunding basato sulle **ricompense**; **④** crowdfunding basato sulle **donazioni**; **⑤** **partecipazione agli utili / partecipazione ai ricavi**; **⑥** crowdfunding di **titoli di debito**; **⑦** **modelli ibridi**, che offrono «la possibilità di **combinare elementi di più di un tipo di crowdfunding**». ⚠️ Il docente ne elenca **sei**: salta il crowdfunding di **titoli di debito** e passa dalla partecipazione agli utili ai modelli ibridi. All'esame vale l'elenco della slide.
+**Opzione:** Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di debito, modelli ibridi.
+**Distrattori:**
+- Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, modelli ibridi.
+- Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di debito, modelli misti pubblico-privato.
+- Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione alle perdite, titoli di debito, modelli ibridi.
+
+**D:** Che cos'è il crowdfunding di debito (peer-to-peer lending), e in che cosa differisce dal prestito bancario tradizionale?
+**R:** «I privati **prestano denaro a un'azienda** con l'intesa che il denaro verrà **restituito con gli interessi**. È molto **simile al tradizionale prestito bancario**, con la differenza che le piattaforme di prestito P2P mettono in contatto i **mutuatari direttamente con gli investitori**, consentendo ai primi di accedere a **metodi di finanziamento alternativi** rispetto alle banche o agli istituti di credito tradizionali.»
+**Opzione:** I privati prestano denaro a un'azienda con l'intesa che il denaro verrà restituito con gli interessi; le piattaforme P2P mettono in contatto i mutuatari direttamente con gli investitori.
+**Distrattori:**
+- I privati prestano denaro a un'azienda con l'intesa che il denaro verrà restituito senza interessi; le piattaforme P2P mettono in contatto i mutuatari direttamente con gli investitori.
+- I privati prestano denaro a un'azienda con l'intesa che il denaro verrà restituito con gli interessi; le piattaforme P2P mettono in contatto i mutuatari con gli istituti di credito che erogano il prestito.
+- I privati investono in un titolo di debito emesso dall'azienda, come ad esempio un'obbligazione; le piattaforme P2P mettono in contatto i mutuatari direttamente con gli investitori.
+
+**D:** Che cos'è l'equity crowdfunding?
+**R:** La «**vendita di una quota di una società a un certo numero di investitori in cambio di un investimento**. È **simile alla vendita e all'acquisto di azioni in borsa o nel mercato del capitale di rischio**.»
+**Opzione:** La vendita di una quota di una società a un certo numero di investitori in cambio di un investimento, simile alla vendita e all'acquisto di azioni in borsa o nel mercato del capitale di rischio.
+**Distrattori:**
+- La vendita di una quota di una società a un numero illimitato di investitori in cambio di un investimento, simile alla vendita e all'acquisto di azioni in borsa o nel mercato del capitale di rischio.
+- L'acquisto di una quota di una società da parte di un certo numero di investitori in cambio di una ricompensa non finanziaria, simile alla vendita e all'acquisto di azioni in borsa.
+- La vendita di una quota di una società a un certo numero di investitori in cambio di un investimento, simile alla concessione di prestiti nel mercato del credito al consumo.
+
+**D:** ⚠️ Che cos'è il crowdfunding basato sulle ricompense?
+**R:** «Gli individui **donano a un progetto o a un'azienda** con l'aspettativa di ricevere in cambio una **ricompensa non finanziaria**, come **beni o servizi**, **in una fase successiva** come ricompensa per il loro contributo.» ⚠️ La ricompensa è **non finanziaria** e **differita**. (Sulla slide il titolo della voce ha un refuso: «Crowdfunding basato sulle **recompense**».)
+**Opzione:** Gli individui donano a un progetto o a un'azienda con l'aspettativa di ricevere in cambio una ricompensa non finanziaria, come beni o servizi, in una fase successiva.
+**Distrattori:**
+- Gli individui donano a un progetto o a un'azienda con l'aspettativa di ricevere in cambio una ricompensa non finanziaria, come beni o servizi, contestualmente al conferimento.
+- Gli individui donano a un progetto o a un'azienda con l'aspettativa di ricevere in cambio una quota dei ricavi futuri, in una fase successiva.
+- Gli individui donano piccole somme a un progetto o a un'azienda senza ricevere alcun ritorno finanziario o materiale.
+
+**D:** Che cos'è il crowdfunding basato sulle donazioni?
+**R:** «I singoli **donano piccole somme** per raggiungere l'obiettivo di finanziamento di uno **specifico progetto di beneficenza**, **senza ricevere alcun ritorno finanziario o materiale**.» ⚠️ È l'unico tipo in cui non si riceve **nulla**: né finanziario **né** materiale.
+**Opzione:** I singoli donano piccole somme per raggiungere l'obiettivo di finanziamento di uno specifico progetto di beneficenza, senza ricevere alcun ritorno finanziario o materiale.
+**Distrattori:**
+- I singoli donano piccole somme per raggiungere l'obiettivo di finanziamento di uno specifico progetto di beneficenza, senza ricevere alcun ritorno finanziario ma con diritto a una ricompensa materiale.
+- I singoli donano piccole somme per raggiungere l'obiettivo di finanziamento di un progetto imprenditoriale, senza ricevere alcun ritorno finanziario o materiale.
+- I singoli donano somme di qualsiasi entità per raggiungere l'obiettivo di finanziamento di uno specifico progetto di beneficenza, senza ricevere alcun ritorno finanziario o materiale.
+
+**D:** In che cosa consiste il crowdfunding con partecipazione agli utili o ai ricavi?
+**R:** «Le aziende **condividono i profitti o i ricavi futuri con la folla** in cambio di **finanziamenti immediati**.» ⚠️ Ciò che si condivide è **futuro**, ciò che si riceve è **immediato**.
+**Opzione:** Le aziende condividono i profitti o i ricavi futuri con la folla in cambio di finanziamenti immediati.
+**Distrattori:**
+- Le aziende condividono i profitti o i ricavi già realizzati con la folla in cambio di finanziamenti immediati.
+- Le aziende condividono i profitti o i ricavi futuri con la folla in cambio di finanziamenti dilazionati nel tempo.
+- Le aziende condividono le perdite e i ricavi futuri con la folla in cambio di finanziamenti immediati.
+
+**D:** ⚠️ Che cos'è il crowdfunding di titoli di debito, e perché va tenuto distinto dal crowdfunding di debito?
+**R:** «I privati **investono in un titolo di debito emesso dalla società**, come ad esempio un'**obbligazione**.» ⚠️ Nel crowdfunding **di debito** (peer-to-peer lending) i privati **prestano denaro** e attendono la **restituzione con gli interessi**; qui **sottoscrivono un titolo** che la società **emette**. ⚠️ È la voce che il docente **omette** nel parlato: proprio per questo è il candidato più probabile a fare da distrattore sull'elenco.
+**Opzione:** I privati investono in un titolo di debito emesso dalla società, come ad esempio un'obbligazione.
+**Distrattori:**
+- I privati investono in un titolo di debito emesso dalla piattaforma, come ad esempio un'obbligazione.
+- I privati prestano denaro alla società con l'intesa che il denaro verrà restituito con gli interessi.
+- I privati investono in un titolo rappresentativo del capitale emesso dalla società, come ad esempio un'azione.
+
+**D:** ⚠️ Con quale definizione la slide mette a confronto il crowdfunding, e con quale riferimento normativo?
+**R:** Con l'**attività bancaria**: «la **raccolta di risparmio tra il pubblico** e la **concessione di credito**» (**art. 10, comma 1, TUB**). La slide accosta le due definizioni con un «**=**», seguito — dice il docente — da «un **punto di domanda**». ⚠️ La definizione è **congiuntiva**: sono **due** attività, ed è la loro combinazione a fare la banca. ⚠️ Il riferimento all'art. 10, comma 1, sta **solo sulla slide**: il docente dice soltanto «così come definita dal testo unico bancario».
+**Opzione:** L'attività bancaria, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
+**Distrattori:**
+- L'attività bancaria, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUF.
+- L'attività bancaria, cioè la raccolta di risparmio tra il pubblico o la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
+- L'attività di intermediazione finanziaria, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
+
+**D:** Che cosa prevede la tradizionale cornice regolamentare per il debt crowdfunding?
+**R:** «Si riserva **in generale** il diritto di **concedere prestiti** alle **banche e ad altri intermediari finanziari regolamentati**.» ⚠️ Il quantificatore è «in generale» e non va irrigidito in un «solo» o in un «in ogni caso».
+**Opzione:** Si riserva in generale il diritto di concedere prestiti alle banche e ad altri intermediari finanziari regolamentati.
+**Distrattori:**
+- Si riserva in generale il diritto di concedere prestiti alle sole banche.
+- Si riserva in ogni caso il diritto di concedere prestiti alle banche e ad altri intermediari finanziari regolamentati.
+- Si riserva in generale il diritto di concedere prestiti alle banche e alle piattaforme autorizzate dall'autorità di vigilanza.
+
+**D:** ⚠️ Che cosa regolamenta rigorosamente la cornice tradizionale per l'equity-based crowdfunding?
+**R:** «L'**accesso ai mercati finanziari** e la **prestazione di servizi di investimento** e la **relativa condotta aziendale**.» ⚠️ Gli oggetti sono **tre**: il docente si ferma ai primi due, e la coda «relativa condotta aziendale» sta **solo sulla slide**.
+**Opzione:** L'accesso ai mercati finanziari, la prestazione di servizi di investimento e la relativa condotta aziendale.
+**Distrattori:**
+- L'accesso ai mercati finanziari e la prestazione di servizi di investimento.
+- L'accesso ai mercati finanziari, la prestazione di servizi di pagamento e la relativa condotta aziendale.
+- L'accesso ai mercati finanziari, la prestazione di servizi di investimento e la relativa adeguatezza patrimoniale.
+
+**D:** ⚠️ Che cos'è il «forum shopping» di cui parla la slide, e quali criteri di convenienza lo guidano?
+**R:** «**The practice which refer to the choice of a court or, in this case, a jurisdiction by financial market players based on which jurisdiction is most likely to provide them a favorable legislation on the activities to be performed**», esemplificata su tre criteri: «**access to the market**», «**compliance costs**», «**supervisory authorities' approach**». È l'effetto del «**consequent lack of coordination**» fra i diversi approcci europei, «especially with reference to the **cross border functioning of such platforms**». ⚠️ Il passaggio è in **inglese** e sta **solo sulla slide**: il docente legge la sola formula del *lack of coordination*.
+**Opzione:** La scelta, da parte degli operatori del mercato finanziario, della giurisdizione che più probabilmente offrirà loro una legislazione favorevole sulle attività da svolgere.
+**Distrattori:**
+- La scelta, da parte degli operatori del mercato finanziario, della giurisdizione che offre i minori costi di compliance, unico criterio rilevante.
+- La scelta, da parte delle autorità di vigilanza, della giurisdizione in cui esercitare i propri poteri sulle piattaforme transfrontaliere.
+- La scelta, da parte degli investitori, della piattaforma di crowdfunding che più probabilmente offrirà loro il rendimento più elevato.
+
+**D:** Come è regolato nel Regno Unito il crowdfunding basato sui prestiti?
+**R:** «**Sebbene** il crowdfunding basato sui prestiti sia un **servizio regolamentato** e soggetto a norme relative alle **categorie di investitori che possono accedere alle piattaforme**, tale attività presenta **requisiti meno stringenti in termini di attività riservata** rispetto a quanto avviene in **altre giurisdizioni europee**.» In più: i fornitori delle piattaforme «devono essere **autorizzati dalla FCA**» e le piattaforme «devono essere **pienamente trasparenti** nei confronti degli investitori per quanto riguarda le **informazioni e i rischi**». ⚠️ La **FCA** compare **solo** nella colonna britannica.
+**Opzione:** È un servizio regolamentato, con requisiti meno stringenti in termini di attività riservata rispetto ad altre giurisdizioni europee; i fornitori delle piattaforme devono essere autorizzati dalla FCA.
+**Distrattori:**
+- È un servizio regolamentato, con requisiti più stringenti in termini di attività riservata rispetto ad altre giurisdizioni europee; i fornitori delle piattaforme devono essere autorizzati dalla FCA.
+- Non è un servizio regolamentato, perché beneficia di una specifica esenzione dal monopolio degli istituti di credito; i fornitori delle piattaforme devono essere autorizzati dalla FCA.
+- È un'attività riservata agli istituti di credito come concessione di prestiti; i fornitori delle piattaforme devono essere autorizzati dalla FCA.
+
+**D:** ⚠️ Quale forma di crowdfunding non è ancora regolamentata nel Regno Unito?
+**R:** «Il crowdfunding basato sulla **beneficenza e sulle donazioni** **non è ancora regolamentato**.» ⚠️ È la voce di **chiusura** della colonna UK. Per l'*investment-based* vale invece «un **approccio simile**» a quello dei prestiti: è «un'**attività regolamentata dalla FCA** e soggetta a **regole specifiche**».
+**Opzione:** Il crowdfunding basato sulla beneficenza e sulle donazioni.
+**Distrattori:**
+- Il crowdfunding basato sugli investimenti.
+- Il crowdfunding basato sulle ricompense e sulle donazioni.
+- Il crowdfunding basato sui prestiti fra privati.
+
+**D:** Come è regolato in Francia il crowdfunding basato sui prestiti?
+**R:** «Beneficia di una **specifica esenzione dal monopolio degli istituti di credito** e quindi **non è un'attività riservata**.» Restano però due esclusioni — «La **concessione di prestiti da parte di professionisti o aziende** e il **credito al consumo** **non sono ammessi** nell'ambito del crowdfunding basato sui prestiti» — e un obbligo: «sono previsti **requisiti per i fornitori di piattaforme che si qualificano come intermediari finanziari**».
+**Opzione:** Beneficia di una specifica esenzione dal monopolio degli istituti di credito e quindi non è un'attività riservata.
+**Distrattori:**
+- Beneficia di una specifica esenzione dal monopolio degli istituti di credito, ma resta un'attività riservata ai soli intermediari finanziari.
+- È un'attività riservata agli istituti di credito come concessione di prestiti.
+- Beneficia di una specifica esenzione dall'obbligo di trasparenza nei confronti degli investitori e quindi non è un'attività riservata.
+
+**D:** ⚠️ In Francia il crowdfunding basato sugli investimenti è attività riservata? E quale onere grava sulle piattaforme?
+**R:** «**Non è un'attività riservata**, ma i fornitori delle piattaforme che offrono **titoli di debito o di capitale** devono **qualificarsi come consulenti per gli investimenti**.» ⚠️ In Francia il «non è un'attività riservata» ricorre **due volte** — prestiti *e* investimenti — ma per ragioni diverse: là per **esenzione dal monopolio**, qui con l'**onere della qualifica**.
+**Opzione:** Non è un'attività riservata, ma i fornitori delle piattaforme che offrono titoli di debito o di capitale devono qualificarsi come consulenti per gli investimenti.
+**Distrattori:**
+- Non è un'attività riservata, ma i fornitori delle piattaforme che offrono titoli di debito o di capitale devono qualificarsi come intermediari finanziari.
+- Non è un'attività riservata, ma i fornitori delle piattaforme che offrono i soli titoli di capitale devono qualificarsi come consulenti per gli investimenti.
+- È un'attività riservata, e i fornitori delle piattaforme che offrono titoli di debito o di capitale devono qualificarsi come consulenti per gli investimenti.
+
+**D:** Come è regolato in Germania il crowdfunding basato sui prestiti, e a quali condizioni le piattaforme sono esenti da autorizzazione?
+**R:** «È un'**attività riservata agli istituti di credito** come **concessione di prestiti**.» E: «I fornitori di piattaforme **non sono soggetti ad autorizzazione** **a condizione che** svolgano attività di **mera intermediazione** e **non rientrino nell'ambito di altre attività riservate** (ad esempio, **fornitura di servizi di investimento, detenzione di fondi, factoring**).» ⚠️ La condizione è **doppia** e cumulativa.
+**Opzione:** È un'attività riservata agli istituti di credito; le piattaforme sono esenti da autorizzazione a condizione che svolgano attività di mera intermediazione e non rientrino in altre attività riservate.
+**Distrattori:**
+- È un'attività riservata agli istituti di credito; le piattaforme sono esenti da autorizzazione a condizione che svolgano attività di mera intermediazione.
+- È un'attività riservata agli istituti di credito; le piattaforme sono in ogni caso esenti da autorizzazione, non svolgendo attività riservate.
+- Non è un'attività riservata; le piattaforme sono esenti da autorizzazione a condizione che svolgano attività di mera intermediazione e non rientrino in altre attività riservate.
+
+**D:** ⚠️ In Germania chi concede i prestiti raccolti attraverso una piattaforma, e che cosa acquisiscono gli investitori?
+**R:** «I **prestiti sono concessi da un istituto di credito** e gli investitori **acquisiscono importi parziali dalle richieste di rimborso** offerte attraverso le piattaforme.» ⚠️ Gli investitori **non prestano**: acquistano **quote** del credito di rimborso, e il prestatore resta la banca.
+**Opzione:** I prestiti sono concessi da un istituto di credito e gli investitori acquisiscono importi parziali dalle richieste di rimborso offerte attraverso le piattaforme.
+**Distrattori:**
+- I prestiti sono concessi direttamente dagli investitori e l'istituto di credito acquisisce importi parziali dalle richieste di rimborso offerte attraverso le piattaforme.
+- I prestiti sono concessi da un istituto di credito e gli investitori acquisiscono l'intero importo delle richieste di rimborso offerte attraverso le piattaforme.
+- I prestiti sono concessi dal gestore della piattaforma e gli investitori acquisiscono importi parziali dalle richieste di rimborso offerte attraverso le piattaforme.
+
+**D:** ⚠️ Perché il quadro normativo italiano sul debt crowdfunding è restrittivo?
+**R:** Perché «l'**articolo 11 del TUB** riserva la **concessione di prestiti** a **banche e intermediari finanziari**»; e «per consentire lo **sviluppo del debt crowdfunding in Italia** dovrebbe essere necessaria una **modifica di tale norma**». ⚠️ Il docente aggiunge la conseguenza sanzionatoria, che sta solo nel transcript: la piattaforma non autorizzata «**viola una riserva di legge**» ed è «passibile di **sanzioni anche penali per esercizio abusivo di un'attività regolamentata**».
+**Opzione:** Perché l'articolo 11 del TUB riserva la concessione di prestiti a banche e intermediari finanziari.
+**Distrattori:**
+- Perché l'articolo 11 del TUF riserva la concessione di prestiti a banche e intermediari finanziari.
+- Perché l'articolo 11 del TUB riserva la concessione di prestiti alle sole banche.
+- Perché l'articolo 11 del TUB riserva la prestazione di servizi di investimento a banche e intermediari finanziari.
+
+**D:** ⚠️ Quali esenzioni alla riserva dell'articolo 11 TUB nomina la slide?
+**R:** «Sono previste **alcune esenzioni** (come quelle sui **FIA creditizi**, sulla **microfinanza**…).» ⚠️ I tre punti lasciano l'elenco **aperto**, e il docente le generalizza in «**alcuni fondi di investimento**»: all'esame vale la formula della slide.
+**Opzione:** Quelle sui FIA creditizi e sulla microfinanza.
+**Distrattori:**
+- Quelle sui FIA creditizi e sul credito al consumo.
+- Quelle sulle società fiduciarie e sulla microfinanza.
+- Quelle sulle start up innovative e sulla microfinanza.
+
+**D:** ⚠️ Quali fonti indica la slide per le offerte pubbliche presentate attraverso portali relative a strumenti finanziari?
+**R:** Quattro: **Decreto Legislativo n. 179/2012**; **Articolo 50-*quinquies* TUF**; **Articolo 100-*ter* TUF**; **Regolamento Consob sulla raccolta di capitali attraverso portali on-line, risoluzione n. 18592 del 26 giugno 2013**. ⚠️ La slide **elenca** le fonti senza dire quale governi che cosa: non va attribuita a ciascun articolo una materia che i materiali non indicano. ⚠️ L'ASR del transcript storpia i numeri in «articolo **55** del TUF» e «il **100 terra**»: vale la slide.
+**Opzione:** D.Lgs. n. 179/2012, art. 50-quinquies TUF, art. 100-ter TUF e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
+**Distrattori:**
+- D.Lgs. n. 179/2012, art. 50-quinquies TUB, art. 100-ter TUB e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
+- D.Lgs. n. 179/2012, art. 55 TUF, art. 100-ter TUF e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
+- D.Lgs. n. 179/2012, art. 50-quinquies TUF, art. 100-ter TUF e il Regolamento Banca d'Italia sulla raccolta di capitali attraverso portali on-line.
+
+**D:** ⚠️ Con quale numero e quale data la slide identifica il Regolamento Consob sulla raccolta di capitali attraverso portali on-line?
+**R:** «**Risoluzione n. 18592 del 26 giugno 2013**.» ⚠️ Coppia **numero + data** da tenere insieme; e la slide usa la parola «**risoluzione**», mentre il docente parla genericamente di «regolamento».
+**Opzione:** Risoluzione n. 18592 del 26 giugno 2013.
+**Distrattori:**
+- Risoluzione n. 18592 del 26 giugno 2012.
+- Risoluzione n. 18952 del 26 giugno 2013.
+- Risoluzione n. 18592 del 26 luglio 2013.
+
+**D:** ⚠️ Chi può essere offerente su un portale di crowdfunding, secondo la slide?
+**R:** Cinque categorie: **①** le **piccole e medie imprese** come definite dall'**art. 2, sezione 1, lettera (f), primo periodo, del Regolamento (UE) 2017/1129**; **②** le **start up innovative** e le **start up sociali** (art. 25, commi 2 e 4) e le **start up turistiche** (art. 11-*bis* del **D.L. n. 83/2014**), conformi ai **requisiti dimensionali di cui al numero 01**; **③** le **start up innovative** come definite dall'**art. 4, comma 1, del D.Lgs. n. 3/2015**; **④** gli **organismi di investimento collettivo** che investono prevalentemente in PMI (**almeno il 70% dei loro investimenti**); **⑤** le **altre società** che investono prevalentemente in PMI (**almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio**). ⚠️ Il docente **non nomina** le start up turistiche; e le **start up innovative** compaiono **due volte**, con **due fonti diverse**.
+**Opzione:** Piccole e medie imprese, start up innovative, sociali e turistiche, organismi di investimento collettivo che investono prevalentemente in PMI e altre società che investono prevalentemente in PMI.
+**Distrattori:**
+- Piccole e medie imprese, start up innovative e sociali, organismi di investimento collettivo che investono prevalentemente in PMI e altre società che investono prevalentemente in PMI.
+- Piccole e medie imprese, start up innovative, sociali e turistiche, organismi di investimento collettivo che investono prevalentemente in PMI e banche che investono prevalentemente in PMI.
+- Imprese di qualsiasi dimensione, start up innovative, sociali e turistiche, organismi di investimento collettivo che investono prevalentemente in PMI e altre società che investono prevalentemente in PMI.
+
+**D:** ⚠️ Con quale soglia gli organismi di investimento collettivo e le altre società si qualificano come offerenti, e su quale base si calcola?
+**R:** **Almeno il 70%** in entrambi i casi, ma su **basi diverse**: per gli **OICR** è il 70% «dei loro **investimenti**»; per le **altre società** è il 70% delle **immobilizzazioni finanziarie** «risultanti dall'**ultimo bilancio**». ⚠️ Stessa percentuale, **due parametri**: è il punto su cui è più facile scambiare le due voci.
+**Opzione:** Almeno il 70% degli investimenti per gli OICR e almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per le altre società.
+**Distrattori:**
+- Almeno il 70% degli investimenti per gli OICR e almeno il 70% del fatturato risultante dall'ultimo bilancio per le altre società.
+- Almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per gli OICR e almeno il 70% degli investimenti per le altre società.
+- Almeno il 50% degli investimenti per gli OICR e almeno il 50% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per le altre società.
+
+**D:** ⚠️ Chi fornisce agli investitori le informazioni sull'offerta e sugli offerenti, e in quale forma?
+**R:** «**I portali** forniscono agli investitori informazioni sull'offerta e sugli offerenti attraverso **schede conformi a un modello standard allegato al Regolamento Consob**.» ⚠️ L'obbligo documentale grava sul **portale**, non sull'offerente: «badate bene, **non l'offerente**, in termini di documentazione».
+**Opzione:** I portali, attraverso schede conformi a un modello standard allegato al Regolamento Consob.
+**Distrattori:**
+- Gli offerenti, attraverso schede conformi a un modello standard allegato al Regolamento Consob.
+- I portali, attraverso schede redatte liberamente secondo la prassi di ciascuna piattaforma.
+- I portali, attraverso schede conformi a un modello standard allegato al Testo unico della finanza.
+
+**D:** ⚠️ Chi è il gestore del portale, secondo la definizione della slide?
+**R:** «Il soggetto che svolge **professionalmente** la gestione di portali di crowdfunding per le **piccole e medie imprese** e per le **imprese sociali** ed è **iscritto nel registro della Consob**.» ⚠️ Tre elementi: esercizio **professionale**, **due** classi di destinatari, iscrizione nel **registro**. La slide dice *registro*; il docente dice «un apposito registro della Consob, quindi un **albo**»: vale *registro*.
+**Opzione:** Il soggetto che svolge professionalmente la gestione di portali di crowdfunding per le piccole e medie imprese e per le imprese sociali ed è iscritto nel registro della Consob.
+**Distrattori:**
+- Il soggetto che svolge professionalmente la gestione di portali di crowdfunding per le sole piccole e medie imprese ed è iscritto nel registro della Consob.
+- Il soggetto che svolge professionalmente la gestione di portali di crowdfunding per le piccole e medie imprese e per le imprese sociali ed è iscritto nel registro della Banca d'Italia.
+- Il soggetto che svolge anche occasionalmente la gestione di portali di crowdfunding per le piccole e medie imprese e per le imprese sociali ed è iscritto nel registro della Consob.
+
+**D:** A chi è riservata la gestione dei portali di crowdfunding?
+**R:** A due categorie: **i.** le **entità regolamentate** — **banche** e **società di investimento**; **ii.** le **altre società con specifica autorizzazione da parte della Consob** a svolgere tale attività. ⚠️ La struttura è **2 + 1**: le «altre società» non sono né banche né società di investimento, e passano per un'autorizzazione **specifica**.
+**Opzione:** Alle entità regolamentate, cioè banche e società di investimento, e alle altre società con specifica autorizzazione della Consob.
+**Distrattori:**
+- Alle sole entità regolamentate, cioè banche e società di investimento.
+- Alle entità regolamentate, cioè banche e società di gestione del risparmio, e alle altre società con specifica autorizzazione della Consob.
+- Alle entità regolamentate, cioè banche e società di investimento, e alle altre società con specifica autorizzazione della Banca d'Italia.
+
+**D:** ⚠️ In che rapporto stanno le regole cui sono soggetti i gestori di portali con quelle della MiFID II?
+**R:** «I gestori di portali sono soggetti a regole **simili ma più leggere** rispetto a quelle previste dalla **MiFID II** in relazione alla **prestazione di servizi di investimento**.» ⚠️ Parola di direzione: **più leggere**. E l'elenco delle materie è dichiarato **aperto** («*inter alia*»).
+**Opzione:** Sono soggetti a regole simili ma più leggere rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
+**Distrattori:**
+- Sono soggetti a regole simili ma più stringenti rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
+- Sono soggetti alle medesime regole previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
+- Sono soggetti a regole simili ma più leggere rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di pagamento.
+
+**D:** Quali materie riguardano le regole cui sono soggetti i gestori di portali?
+**R:** Cinque, «*inter alia*»: **requisiti di capitale**; requisiti di **onorabilità delle persone che esercitano il controllo su tali entità**; requisiti di **onorabilità delle persone che ricoprono posizioni amministrative, gestionali e di controllo**; la **conduzione degli affari** (dovere di agire con **diligenza, correttezza e trasparenza**); la **gestione dei conflitti di interesse**. ⚠️ L'**onorabilità** compare **due volte**, su **due platee diverse**: chi *esercita il controllo* sull'entità e chi *ricopre posizioni amministrative, gestionali e di controllo*.
+**Opzione:** Requisiti di capitale, onorabilità di chi esercita il controllo, onorabilità di chi ricopre posizioni amministrative, gestionali e di controllo, conduzione degli affari e gestione dei conflitti di interesse.
+**Distrattori:**
+- Requisiti di capitale, onorabilità di chi esercita il controllo, onorabilità di chi ricopre posizioni amministrative, gestionali e di controllo e conduzione degli affari.
+- Requisiti di capitale, onorabilità di chi esercita il controllo, onorabilità di chi ricopre posizioni amministrative, gestionali e di controllo, conduzione degli affari e adeguatezza patrimoniale.
+- Requisiti di capitale, professionalità di chi esercita il controllo, onorabilità di chi ricopre posizioni amministrative, gestionali e di controllo, conduzione degli affari e gestione dei conflitti di interesse.
+
+**D:** ⚠️ Quali regole ulteriori si applicano se il gestore del portale offre anche strumenti finanziari propri o del proprio gruppo?
+**R:** Tre: «l'**identificazione di un mercato target** per gli strumenti finanziari offerti», «la **due diligence effettuata da un terzo esperto indipendente**», «una **valutazione di adeguatezza effettuata dal soggetto abilitato all'esecuzione degli ordini**». ⚠️ L'ipotesi è **condizionata** — strumenti «emessi dallo stesso — o da società appartenenti al medesimo gruppo —» — e la terza regola è svolta **non dal gestore** ma dal soggetto abilitato all'esecuzione.
+**Opzione:** L'identificazione di un mercato target, la due diligence effettuata da un terzo esperto indipendente e una valutazione di adeguatezza effettuata dal soggetto abilitato all'esecuzione degli ordini.
+**Distrattori:**
+- L'identificazione di un mercato target, la due diligence effettuata dal gestore del portale e una valutazione di adeguatezza effettuata dal soggetto abilitato all'esecuzione degli ordini.
+- L'identificazione di un mercato target, la due diligence effettuata da un terzo esperto indipendente e una valutazione di adeguatezza effettuata dal gestore del portale.
+- L'identificazione di un mercato target, la due diligence effettuata da un terzo esperto indipendente e una valutazione di adeguatezza effettuata dalla Consob.
+
+**D:** Su che cosa i gestori dei portali devono dare informazioni «complete, dettagliate e chiare» agli investitori?
+**R:** Su tre oggetti: «la **gestione del portale**», «l'**investimento e i relativi rischi**», «la **singola offerta**».
+**Opzione:** La gestione del portale, l'investimento e i relativi rischi, la singola offerta.
+**Distrattori:**
+- La gestione del portale e l'investimento e i relativi rischi.
+- La gestione del portale, l'investimento e i relativi rischi, la singola offerta e i costi di intermediazione applicati.
+- La gestione del portale, il rendimento atteso dell'investimento e la singola offerta.
+
+**D:** ⚠️ Quale diritto di recesso prevede la slide, per quali investitori e in quale termine?
+**R:** «**Diritto di recesso per gli investitori *retail*** da esercitare **entro 7 giorni**.» ⚠️ Il recesso è dei **retail**: il docente dice soltanto «un diritto di recesso per gli **investitori** da esercitare entro sette giorni», perdendo la qualificazione.
+**Opzione:** Un diritto di recesso per gli investitori retail, da esercitare entro 7 giorni.
+**Distrattori:**
+- Un diritto di recesso per tutti gli investitori, da esercitare entro 7 giorni.
+- Un diritto di recesso per gli investitori retail, da esercitare entro 14 giorni.
+- Un diritto di recesso per gli investitori professionali, da esercitare entro 7 giorni.
+
+**D:** ⚠️ Su quale base i gestori dei portali valutano l'adeguatezza degli strumenti finanziari offerti?
+**R:** «Sulla base della **conoscenza e dell'esperienza degli investitori al dettaglio**.» ⚠️ **Non** la situazione patrimoniale né gli obiettivi di investimento: solo **conoscenza ed esperienza**, e riferite agli investitori **al dettaglio**. La precisazione sta **solo sulla slide**.
+**Opzione:** Sulla base della conoscenza e dell'esperienza degli investitori al dettaglio.
+**Distrattori:**
+- Sulla base della conoscenza, dell'esperienza e della situazione patrimoniale degli investitori al dettaglio.
+- Sulla base della conoscenza e dell'esperienza di tutti gli investitori, professionali compresi.
+- Sulla base degli obiettivi di investimento e della tolleranza al rischio degli investitori al dettaglio.
+
+**D:** ⚠️ Che cosa non possono fare i gestori dei portali diversi da banche e imprese di investimento?
+**R:** Due cose: «**non possono detenere denaro degli investitori**» e «**non possono eseguire gli ordini** presentati dagli investitori in merito agli strumenti finanziari offerti attraverso i loro portali». ⚠️ È «la **limitazione principale**», e la *ratio* data dal docente è il «**maneggiamento di soldi non propri**»: le banche, «soggette a obblighi stringenti», «**lo possono fare anche se fanno il crowdfunding**». ⚠️ Il divieto riguarda l'**esecuzione** degli ordini, non la loro **trasmissione**, che i gestori invece devono fare.
+**Opzione:** Non possono detenere denaro degli investitori né eseguire gli ordini presentati dagli investitori sugli strumenti finanziari offerti attraverso i loro portali.
+**Distrattori:**
+- Non possono detenere denaro degli investitori, ma possono eseguire gli ordini presentati dagli investitori sugli strumenti finanziari offerti attraverso i loro portali.
+- Non possono eseguire gli ordini presentati dagli investitori sugli strumenti finanziari offerti attraverso i loro portali, ma possono detenere denaro degli investitori.
+- Non possono detenere denaro degli investitori né trasmettere gli ordini presentati dagli investitori ai soggetti abilitati alla loro esecuzione.
+
+**D:** ⚠️ A chi trasmettono gli ordini i gestori dei portali?
+**R:** Ai «**soggetti abilitati alla loro esecuzione**», che la slide elenca in **cinque**: **banche**, **imprese di investimento**, **imprese di investimento dell'UE**, **imprese di paesi terzi diverse dalle banche** e — condizionatamente — «**se gli ordini riguardano azioni o quote di OICR, società di gestione del risparmio**». ⚠️ L'ultima voce è **condizionata**; il docente ne nomina **due** («le banche, le imprese di investimento»).
+**Opzione:** A banche, imprese di investimento, imprese di investimento dell'UE, imprese di paesi terzi diverse dalle banche e, se gli ordini riguardano azioni o quote di OICR, società di gestione del risparmio.
+**Distrattori:**
+- A banche, imprese di investimento, imprese di investimento dell'UE e imprese di paesi terzi diverse dalle banche.
+- A banche, imprese di investimento, imprese di investimento dell'UE, imprese di paesi terzi diverse dalle banche e, in ogni caso, società di gestione del risparmio.
+- A banche, imprese di investimento, imprese di investimento dell'UE, imprese di paesi terzi comprese le banche e, se gli ordini riguardano azioni o quote di OICR, società di gestione del risparmio.
+
+**D:** ⚠️ Oltre quali importi l'esecuzione degli ordini raccolti su un portale è soggetta alle norme MiFID II?
+**R:** Per i **singoli investitori**, importo «**superiore a 500 euro per ogni ordine** e a **1.000 euro su base annua**»; per gli **investitori persone giuridiche**, importo «**superiore a 5.000 euro per ogni ordine** e a **10.000 euro su base annuale**». ⚠️ È una matrice **2×2** (chi presenta l'ordine × base di calcolo) e la condizione è sempre «**superiore a**».
+**Opzione:** Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 10.000 euro annui per le persone giuridiche.
+**Distrattori:**
+- Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 50.000 euro annui per le persone giuridiche.
+- Oltre 1.000 euro per ordine e 500 euro annui per i singoli investitori; oltre 10.000 euro per ordine e 5.000 euro annui per le persone giuridiche.
+- Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 10.000 euro annui per gli investitori professionali.
+
+**D:** ⚠️ Quale test esonera il gestore del portale dall'applicazione delle norme MiFID II all'esecuzione degli ordini?
+**R:** Il test di **appropriatezza**: le norme MiFID II si applicano «**a meno che** il gestore del portale **non sia tenuto ad effettuare il test di appropriatezza** sugli strumenti finanziari offerti». ⚠️ Da non confondere con la **valutazione di adeguatezza** delle slide 13 e 14: sono due test **distinti**. ⚠️ E la formula è **rovesciata**: è l'essere già **tenuto** al test a **escludere** l'applicazione della MiFID II.
+**Opzione:** Il test di appropriatezza sugli strumenti finanziari offerti.
+**Distrattori:**
+- La valutazione di adeguatezza degli strumenti finanziari offerti.
+- Il test di appropriatezza sulla conoscenza ed esperienza dei soli investitori professionali.
+- La due diligence effettuata da un terzo esperto indipendente sugli strumenti finanziari offerti.
+
+**D:** ⚠️ Come è percepito, secondo il docente, il portale di crowdfunding dalle società che vogliono raccogliere capitali?
+**R:** Come «un'**opzione di serie B**»: «a torto o a ragione molti ritengono che sia […] **The Last Resort, l'ultima spiaggia**», perché le piattaforme di crowdfunding «hanno una **vita limitata**, hanno un **raggio di attività limitato** e quindi […] **non vengono visti come player fondamentali ancora del mercato, soprattutto del mercato del credito**». ⚠️ Giudizio di mercato del docente, **solo nel transcript**: utile per l'orale, non citabile come opzione d'esame.
+
+**D:** ⚠️ Quali regole si applicano a una banca che gestisce anche un portale di crowdfunding?
+**R:** **Entrambe**, cumulativamente. Esiste «una normativa **unica, secca e specifica** per le piattaforme che fanno **solo** crowdfunding» e «una normativa che **si accavalla**, in qualche modo **si sovrappone, integra, aggiunge** normativa a chi invece è **già soggetto a obblighi di regolamentazione bancaria o finanziaria**»: la banca è «soggetto a una **pletora incredibile di regolamentazione**» **più** quella specifica del crowdfunding. ⚠️ Ragionamento del docente, solo nel transcript; la controprova sulle slide sono i **due divieti** della slide 14, che la banca **non** subisce.
