@@ -3810,3 +3810,308 @@
 
 **D:** ⚠️ Quali regole si applicano a una banca che gestisce anche un portale di crowdfunding?
 **R:** **Entrambe**, cumulativamente. Esiste «una normativa **unica, secca e specifica** per le piattaforme che fanno **solo** crowdfunding» e «una normativa che **si accavalla**, in qualche modo **si sovrappone, integra, aggiunge** normativa a chi invece è **già soggetto a obblighi di regolamentazione bancaria o finanziaria**»: la banca è «soggetto a una **pletora incredibile di regolamentazione**» **più** quella specifica del crowdfunding. ⚠️ Ragionamento del docente, solo nel transcript; la controprova sulle slide sono i **due divieti** della slide 14, che la banca **non** subisce.
+
+## Lezione 14 — Crowdfunding: l'utilizzo della tecnologia nella raccolta fondi, differenti regole per diverse tipologie di crowdfunding (2)
+
+**D:** Qual è l'unica voce dell'agenda della lezione 14?
+**R:** «**Lo Uber-test e la decisione della Corte di Giustizia**». ⚠️ L'agenda ha **una sola voce** e l'intera lezione ruota su quel caso. (Agende monovoce ricorrono anche nei deck **04**, **06**, **07** e **12**.)
+**Opzione:** Lo Uber-test e la decisione della Corte di Giustizia.
+**Distrattori:**
+- Lo Uber-test e la decisione della Commissione europea.
+- La platform economy e la disciplina europea dei servizi di piattaforma.
+- Le piattaforme di crowdfunding e la decisione della Corte di Giustizia.
+
+**D:** ⚠️ Perché una lezione sul caso Uber è collocata nel modulo sul crowdfunding?
+**R:** Perché il caso serve da «**livello pre**»: «in questa lezione abbiamo **tralasciato per un attimo il tema vero del crowdfunding** per focalizzarci però su un livello pre», dato che le difficoltà delle piattaforme «sono problematiche **non superate neanche nelle piattaforme di crowdfunding**». I **tre** temi comuni sono il **tipo di regolamentazione**, la **quantità di informazioni** e la garanzia «che la piattaforma sia una **piattaforma reliable**». Il docente riconosce la differenza di partenza — «nel crowdfunding parliamo di **portali regolamentati** per la raccolta di capitali» — ma conclude che «anche lì i **temi di sottofondo non sono così diversi**», e che «nessuno può fare **fintech** senza sapere del **test Uber**». ⚠️ Ragionamento del docente, **solo nel transcript**.
+
+**D:** Quali criticità rendono difficile definire una regolazione efficace della platform economy?
+**R:** **Tre**, nell'ordine della slide: la «**natura del soggetto da regolare**»; il «**perimetro all'interno del quale porre in essere gli interventi**»; la «**mancanza di sufficienti informazioni sul modello di business e sulle caratteristiche delle attività svolte e che verranno sviluppate**».
+**Opzione:** La natura del soggetto da regolare, il perimetro all'interno del quale porre in essere gli interventi e la mancanza di sufficienti informazioni sul modello di business e sulle caratteristiche delle attività svolte e che verranno sviluppate.
+**Distrattori:**
+- La natura del soggetto da regolare, il perimetro all'interno del quale porre in essere gli interventi e la mancanza di sufficienti informazioni sul modello di business e sulle caratteristiche delle sole attività già svolte.
+- La natura del soggetto da regolare, la sede legale della piattaforma e la mancanza di sufficienti informazioni sul modello di business e sulle caratteristiche delle attività svolte e che verranno sviluppate.
+- La natura del servizio offerto, il perimetro all'interno del quale porre in essere gli interventi e l'assenza di autorità di vigilanza competenti sulle piattaforme.
+
+**D:** ⚠️ Nell'elenco delle criticità della platform economy, a quali attività si riferisce la mancanza di informazioni?
+**R:** A **entrambe**: «le **caratteristiche delle attività svolte** *e che verranno sviluppate*». ⚠️ La coda dell'elenco è il punto tipico da distrattore — l'incertezza non riguarda solo le attività **attuali**, ma anche quelle **future**. Il docente ne dà la ragione: una piattaforma «potrebbe ben **svilupparsi e aumentare il ventaglio di servizi offerti** o anche offrire **gli stessi servizi ma a un livello di incisività e profondità diverso**».
+**Opzione:** Alle caratteristiche delle attività svolte e a quelle che verranno sviluppate.
+**Distrattori:**
+- Alle sole caratteristiche delle attività già svolte dalla piattaforma.
+- Alle sole attività che verranno sviluppate in futuro dalla piattaforma.
+- Alle caratteristiche delle attività svolte e a quelle svolte dalle società controllate.
+
+**D:** Perché il decisore non può colmare da sé il proprio deficit informativo sulle piattaforme?
+**R:** Perché si assiste «alla necessità di dover assumere decisioni in un **Quadro informative incomplete** e rispetto al quale il **decisore**, allo stato attuale, **non è in grado autonomamente di intervenire per incrementare il suo patrimonio informative**» (slide 3, con i refusi *informative* per *informativo*). Il docente aggiunge **due** ragioni che sulla slide non compaiono: l'**opacità** di alcune piattaforme «nei meccanismi e nei modi di operare» e il fatto che «ancora **non esiste una chiara regolamentazione** a diversi livelli per i diversi settori in cui queste piattaforme operano».
+**Opzione:** Perché deve decidere in un quadro informativo incompleto e non è in grado autonomamente di intervenire per incrementare il suo patrimonio informativo.
+**Distrattori:**
+- Perché deve decidere in un quadro informativo incompleto, ma è in grado autonomamente di intervenire per incrementare il suo patrimonio informativo.
+- Perché deve decidere in un quadro informativo incompleto e può incrementare il suo patrimonio informativo solo rivolgendosi all'autorità giudiziaria.
+- Perché dispone di un quadro informativo completo ma non è in grado di elaborarlo con gli strumenti tecnici a sua disposizione.
+
+**D:** ⚠️ Fra quali termini va cercato il «corretto bilanciamento» di cui parla la slide sulla platform economy?
+**R:** Fra **sviluppo tecnologico** e **tutela dei diritti**: l'affermazione della platform economy «renda difficile individuare **a priori** quale possa essere più funzionale al raggiungimento di un **corretto bilanciamento fra sviluppo tecnologico e tutela dei diritti**». ⚠️ Da non confondere con la triade della slide 6 — **tutela della concorrenza**, **degli utenti** e **sviluppo dei servizi di piattaforma** —, che appartiene a un elenco diverso.
+**Opzione:** Fra sviluppo tecnologico e tutela dei diritti.
+**Distrattori:**
+- Fra sviluppo tecnologico e tutela della concorrenza.
+- Fra tutela dei diritti e tutela degli utenti delle piattaforme.
+- Fra sviluppo dei servizi di piattaforma e tutela dei diritti dei consumatori.
+
+**D:** ⚠️ Quale domanda pone il titolo della slide sul caso Uber dinanzi alla Corte di Giustizia?
+**R:** «**Servizio di trasporto urbano o servizio della società dell'informazione?**» ⚠️ È la domanda che regge l'intera lezione: il docente la definisce «primo quesito, che deve rimanere nel **background** della vostra lezione, **per tutta la lezione**». Dalla risposta discendono **due esiti opposti**: **esercizio abusivo della professione** oppure **attività lecita**.
+**Opzione:** Servizio di trasporto urbano o servizio della società dell'informazione?
+**Distrattori:**
+- Servizio di trasporto urbano o servizio di intermediazione finanziaria?
+- Servizio della società dell'informazione o servizio di pagamento?
+- Servizio di noleggio con conducente o servizio di trasporto pubblico non di linea?
+
+**D:** Come descrive la slide la struttura societaria di Uber nell'Unione europea?
+**R:** «Uber è una società che opera a **livello mondiale** — nell'**Unione europea tramite la controllata Uber BV** — **società di diritto olandese** la quale a sua volta esercita la sua attività attraverso **società controllate nei diversi Stati membri** — e che attraverso **piattaforme tecnologiche (smarthphone, pc)** mette in collegamento la **domanda e offerta di noleggio auto con conducente** (servizio UberPop).» ⚠️ L'oggetto è il **noleggio auto con conducente**, non il servizio taxi.
+**Opzione:** Opera a livello mondiale e nell'Unione europea tramite la controllata Uber BV, società di diritto olandese, che agisce attraverso società controllate nei diversi Stati membri.
+**Distrattori:**
+- Opera a livello mondiale e nell'Unione europea tramite la controllata Uber BV, società di diritto irlandese, che agisce attraverso società controllate nei diversi Stati membri.
+- Opera a livello mondiale e nell'Unione europea tramite la controllata Uber BV, società di diritto olandese, che agisce attraverso una succursale unica con sede a Bruxelles.
+- Opera a livello mondiale e nell'Unione europea tramite una stabile organizzazione priva di personalità giuridica, che agisce attraverso società controllate nei diversi Stati membri.
+
+**D:** ⚠️ Con quale nome le slide indicano il servizio Uber oggetto della decisione, e che cosa mette in collegamento?
+**R:** **UberPop**, che «mette in collegamento la **domanda e offerta di noleggio auto con conducente**». ⚠️ Il nome **UberPop** compare **solo sulle slide** (4, 5 e 7): il docente non lo pronuncia mai, e parla sempre genericamente di «Uber». Poiché le opzioni d'esame sono citazioni letterali delle slide, è il nome da riconoscere.
+**Opzione:** UberPop, che mette in collegamento la domanda e l'offerta di noleggio auto con conducente.
+**Distrattori:**
+- UberPop, che mette in collegamento la domanda e l'offerta di servizi taxi di linea.
+- UberBlack, che mette in collegamento la domanda e l'offerta di noleggio auto con conducente.
+- UberPop, che mette in collegamento la domanda e l'offerta di trasporto pubblico locale.
+
+**D:** Chi ha promosso il contenzioso contro Uber e con quali richieste?
+**R:** «L'**espansione del fenomeno** ha, tuttavia, indotto la **categoria dei tassisti** a lamentare comportamenti di **concorrenza sleale** e a inoltrare **ricorsi** — con richieste di adozione di **provvedimenti inibitori** — dinanzi a **molti giudici in diversi Stati membri**.» ⚠️ Non una singola causa davanti a un giudice, ma ricorsi diffusi in **più** Stati membri.
+**Opzione:** La categoria dei tassisti, lamentando concorrenza sleale e chiedendo l'adozione di provvedimenti inibitori dinanzi a molti giudici in diversi Stati membri.
+**Distrattori:**
+- La categoria dei tassisti, lamentando concorrenza sleale e chiedendo l'adozione di provvedimenti inibitori dinanzi alla sola Corte di Giustizia dell'Unione europea.
+- Le autorità nazionali di vigilanza sui trasporti, lamentando concorrenza sleale e chiedendo l'adozione di provvedimenti inibitori dinanzi a molti giudici in diversi Stati membri.
+- La categoria dei tassisti, lamentando pubblicità ingannevole e chiedendo il risarcimento del danno dinanzi a molti giudici in diversi Stati membri.
+
+**D:** ⚠️ Da che cosa trae origine, secondo la slide, il problema qualificatorio del caso Uber?
+**R:** «Dall'esistenza di un **vuoto normativo** e dalla **difficoltà di inquadrare tale attività** come **trasporto di persone** — per la quale sarebbe necessaria la **licenza** — o come **servizio fornito tramite piattaforma digitale** diretto a mettere in collegamento **domanda e offerta** del diverso servizio, **a valle**, di trasporto.» ⚠️ Il docente rincara con «un **assoluto** vuoto normativo»: vale la slide.
+**Opzione:** Dall'esistenza di un vuoto normativo e dalla difficoltà di inquadrare l'attività come trasporto di persone, per cui servirebbe la licenza, o come servizio fornito tramite piattaforma digitale.
+**Distrattori:**
+- Dall'esistenza di una normativa nazionale eccessivamente restrittiva e dalla difficoltà di inquadrare l'attività come trasporto di persone o come servizio fornito tramite piattaforma digitale.
+- Dall'esistenza di un vuoto normativo e dalla difficoltà di stabilire quale sia il giudice nazionale competente a decidere sulle controversie con i tassisti.
+- Dall'esistenza di un vuoto normativo e dalla difficoltà di inquadrare l'attività come servizio di pagamento, per cui servirebbe l'autorizzazione, o come servizio di intermediazione.
+
+**D:** ⚠️ Quale conseguenza avrebbe per Uber la qualificazione dell'attività come trasporto di persone?
+**R:** «Quella dell'**esercizio abusivo della professione** e dunque un **comportamento di concorrenza sleale** per **violazione di norme imperative** che regolano l'**accesso e l'esercizio** di una determinata attività professionale.» ⚠️ Le norme sono «**imperative**»: l'ASR del transcript le rende «le norme **più importanti**», che è una storpiatura. ⚠️ Gli oggetti regolati sono **due**: l'**accesso** e l'**esercizio**.
+**Opzione:** L'esercizio abusivo della professione e dunque un comportamento di concorrenza sleale per violazione di norme imperative che regolano l'accesso e l'esercizio di una determinata attività professionale.
+**Distrattori:**
+- L'esercizio abusivo della professione e dunque un comportamento di concorrenza sleale per violazione di norme imperative che regolano il solo accesso a una determinata attività professionale.
+- L'esercizio abusivo della professione e dunque un comportamento di concorrenza sleale per violazione di norme dispositive che regolano l'accesso e l'esercizio di una determinata attività professionale.
+- La nullità dei contratti conclusi con i passeggeri e dunque un comportamento di concorrenza sleale per violazione di norme imperative che regolano l'accesso e l'esercizio di una determinata attività professionale.
+
+**D:** ⚠️ Quale conseguenza avrebbe la qualificazione dell'attività di Uber come servizio fornito tramite piattaforma digitale?
+**R:** «L'attività sarebbe invece **lecita**, fermo restando l'eventuale osservanza di **altre regole nazionali o europee** che intervengano a disciplina delle **modalità di accesso ed esercizio della prestazione**.» ⚠️ La slide dice regole «nazionali **o europee**»; il docente cita solo quelle **nazionali**, aggiungendo che «insomma sono **molto poche**». Vale la slide.
+**Opzione:** L'attività sarebbe lecita, fermo restando l'eventuale osservanza di altre regole nazionali o europee sulle modalità di accesso ed esercizio della prestazione.
+**Distrattori:**
+- L'attività sarebbe lecita, fermo restando l'eventuale osservanza di altre regole esclusivamente nazionali sulle modalità di accesso ed esercizio della prestazione.
+- L'attività sarebbe lecita e sottratta a qualsiasi ulteriore regola nazionale o europea sulle modalità di accesso ed esercizio della prestazione.
+- L'attività sarebbe lecita solo previa autorizzazione dell'autorità nazionale competente sulle modalità di accesso ed esercizio della prestazione.
+
+**D:** Come qualifica la Corte il servizio fornito da Uber, e da quali prestazioni è composto?
+**R:** Come «**servizio unico complesso** formato da una **prestazione di messa in contatto di passeggeri e conducenti attraverso smartphone** e una **prestazione di trasporto**. Ciò significa che **solo una parte** può essere considerata **conclusa per via elettronica**» secondo la **direttiva 2015/1535**.
+**Opzione:** Come servizio unico complesso, formato da una prestazione di messa in contatto di passeggeri e conducenti attraverso smartphone e da una prestazione di trasporto.
+**Distrattori:**
+- Come servizio unico complesso, formato da una prestazione di messa in contatto di passeggeri e conducenti attraverso smartphone e da una prestazione di pagamento elettronico.
+- Come due servizi autonomi e distinti, una prestazione di messa in contatto di passeggeri e conducenti attraverso smartphone e una prestazione di trasporto.
+- Come servizio unico complesso, interamente concluso per via elettronica, formato da una prestazione di messa in contatto di passeggeri e conducenti e da una prestazione di trasporto.
+
+**D:** ⚠️ Che cosa intende la Corte per servizio «complesso»?
+**R:** Non *difficile*, ma **multisfaccettato**: il docente lo chiarisce espressamente — «per complesso **non difficile**, per complesso vuol dire **multisfaccettato, composto da più parti**». ⚠️ Chiarimento **solo nel transcript**: la slide usa la parola senza definirla.
+
+**D:** ⚠️ Quale direttiva fissa il criterio della trasmissione per via elettronica, e in che cosa consiste?
+**R:** La **direttiva 2015/1535**: l'attività si considera «**interamente trasmessa per via elettronica quando la prestazione che non è erogata per via elettronica è economicamente indipendente dal servizio fornito secondo tali modalità**». ⚠️ Tipica **coppia soggetto + norma**: il numero della direttiva sta **solo sulla slide** (il docente dice soltanto «la direttiva che disciplina la conclusione via elettronica»), quindi va memorizzato da lì.
+**Opzione:** La direttiva 2015/1535: l'attività è interamente trasmessa per via elettronica quando la prestazione non erogata per via elettronica è economicamente indipendente dal servizio fornito secondo tali modalità.
+**Distrattori:**
+- La direttiva 2015/1535: l'attività è interamente trasmessa per via elettronica quando la prestazione non erogata per via elettronica è tecnicamente indipendente dal servizio fornito secondo tali modalità.
+- La direttiva 2000/31/CE: l'attività è interamente trasmessa per via elettronica quando la prestazione non erogata per via elettronica è economicamente indipendente dal servizio fornito secondo tali modalità.
+- La direttiva 2015/1535: l'attività è interamente trasmessa per via elettronica quando la prestazione non erogata per via elettronica è economicamente prevalente rispetto al servizio fornito secondo tali modalità.
+
+**D:** ⚠️ A quale conclusione giunge la Corte sul rapporto fra le due prestazioni di Uber?
+**R:** «Per Uber i **due elementi non possono essere ritenuti indipendenti** ed anzi che la **prestazione di messa in contatto è da considerare secondaria** rispetto a quella di **trasporto**, che rappresenta la **vera ragion d'essere economica** del servizio offerto da Uberpop.» ⚠️ Parole di direzione da non capovolgere: **secondaria** la messa in contatto, **preponderante** il trasporto. Il docente: «l'oggetto della prestazione di questa piattaforma, **preponderante**, è il **trasporto**».
+**Opzione:** I due elementi non sono indipendenti e la prestazione di messa in contatto è secondaria rispetto a quella di trasporto, che è la vera ragion d'essere economica del servizio.
+**Distrattori:**
+- I due elementi non sono indipendenti e la prestazione di trasporto è secondaria rispetto a quella di messa in contatto, che è la vera ragion d'essere economica del servizio.
+- I due elementi sono indipendenti e la prestazione di messa in contatto è secondaria rispetto a quella di trasporto, che è la vera ragion d'essere economica del servizio.
+- I due elementi non sono indipendenti e la prestazione di messa in contatto è equivalente a quella di trasporto, che ne costituisce il presupposto tecnico.
+
+**D:** In che cosa consiste l'Uber-test?
+**R:** È il test «che, secondo la Corte, deve essere applicato **tutte le volte che ci si trovi davanti a una piattaforma che offre un servizio complesso** […] e dove la definizione di questa attività che viene prestata **non possa ritenersi interamente trasmessa per via elettronica**». In forma di regola: se le due prestazioni **non sono economicamente indipendenti**, prevale la qualificazione della prestazione **preponderante** — per Uber, il **trasporto**. Il docente aggiunge che «anche la **prevalenza dell'attività** […] andrà valutata per capire gli **impatti anche economici** che ha sul **successo della piattaforma**».
+**Opzione:** Il test da applicare ogni volta che una piattaforma offre un servizio complesso non interamente trasmesso per via elettronica, per individuare la prestazione preponderante e quindi la disciplina applicabile.
+**Distrattori:**
+- Il test da applicare ogni volta che una piattaforma offre un servizio complesso interamente trasmesso per via elettronica, per individuare la prestazione preponderante e quindi la disciplina applicabile.
+- Il test da applicare ogni volta che una piattaforma offre un servizio complesso non interamente trasmesso per via elettronica, per individuare lo Stato membro competente a disciplinarla.
+- Il test da applicare ogni volta che una piattaforma tratta dati personali degli utenti, per individuare la prestazione preponderante e quindi la disciplina applicabile.
+
+**D:** Quale funzione attribuisce la slide all'individuazione dell'Uber-test?
+**R:** «L'individuazione dell'**Uber-test** può rappresentare un **valido aiuto nella definizione della normativa di settore applicabile alle diverse piattaforme**.» ⚠️ È un **aiuto nella definizione della normativa applicabile**, non una norma, né un criterio di riparto della giurisdizione, né un obbligo per gli Stati.
+**Opzione:** Un valido aiuto nella definizione della normativa di settore applicabile alle diverse piattaforme.
+**Distrattori:**
+- Un criterio vincolante per la definizione della normativa di settore applicabile alle diverse piattaforme.
+- Un valido aiuto nell'individuazione del giudice competente a decidere le controversie fra piattaforme e operatori tradizionali.
+- Un valido aiuto nella definizione del regime fiscale applicabile alle diverse piattaforme digitali.
+
+**D:** ⚠️ Quali due cose ha fatto il giudice nella sentenza che ha enucleato l'Uber-test?
+**R:** «Ha **sancito l'inapplicabilità delle regole della società dell'informazione** ed ha **contestualmente rinviato agli Stati membri la disciplina delle condizioni di prestazione dei servizi** come quelli offerti da Uber.» ⚠️ **Coppia da non spezzare**: un'**esclusione** (le regole della società dell'informazione non si applicano) **più** un **rinvio** (la disciplina spetta **agli Stati membri**, non alla Commissione né alla stessa Corte).
+**Opzione:** Ha sancito l'inapplicabilità delle regole della società dell'informazione e ha contestualmente rinviato agli Stati membri la disciplina delle condizioni di prestazione dei servizi.
+**Distrattori:**
+- Ha sancito l'applicabilità delle regole della società dell'informazione e ha contestualmente rinviato agli Stati membri la disciplina delle condizioni di prestazione dei servizi.
+- Ha sancito l'inapplicabilità delle regole della società dell'informazione e ha contestualmente rinviato alla Commissione europea la disciplina delle condizioni di prestazione dei servizi.
+- Ha sancito l'inapplicabilità delle regole della società dell'informazione e ha contestualmente dettato essa stessa le condizioni di prestazione dei servizi come quelli offerti da Uber.
+
+**D:** ⚠️ Perché, secondo la slide, il quadro regolatorio resta differenziato qualunque scelta facciano gli Stati membri?
+**R:** Perché la struttura è «**sia… sia…**»: «**sia** che i singoli Stati applichino la loro **legislazione nazionale nella forma più restrittiva** eventualmente esistente per l'**accesso al mercato degli operatori classici**, **sia** che decidano di **introdurre modifiche ad hoc**, il quadro che ne deriva sarà **differenziato a livello europeo** con **inevitabili effetti sul piano dell'efficacia e dell'uniformità di intervento**». ⚠️ Non è un'alternativa fra un esito buono e uno cattivo: **entrambe** le strade portano alla frammentazione. ⚠️ La slide dice «a livello europeo»; il docente allarga a «**e a livello mondiale**»: vale la slide.
+**Opzione:** Perché tanto l'applicazione della legislazione nazionale più restrittiva quanto l'introduzione di modifiche ad hoc producono un quadro differenziato a livello europeo.
+**Distrattori:**
+- Perché solo l'applicazione della legislazione nazionale più restrittiva produce un quadro differenziato a livello europeo, mentre le modifiche ad hoc lo uniformano.
+- Perché solo l'introduzione di modifiche ad hoc produce un quadro differenziato a livello europeo, mentre l'applicazione della legislazione esistente lo uniforma.
+- Perché tanto l'applicazione della legislazione nazionale più restrittiva quanto l'introduzione di modifiche ad hoc producono un quadro differenziato a livello esclusivamente nazionale.
+
+**D:** Oltre all'adeguatezza delle regole esistenti, quale altra questione pone il rinvio agli Stati membri?
+**R:** Quella dell'**omogeneità di trattamento**: «non vi è **solo** una questione di **adeguatezza delle regole esistenti** ma **anche** di **omogeneità di trattamento**».
+**Opzione:** L'omogeneità di trattamento.
+**Distrattori:**
+- La proporzionalità delle sanzioni applicabili.
+- L'individuazione dell'autorità di vigilanza competente.
+- La reciprocità del riconoscimento fra Stati membri.
+
+**D:** ⚠️ Che cosa devono garantire, secondo la slide, le regole europee sulle piattaforme?
+**R:** «**Contestualmente** la **tutela della concorrenza e degli utenti** e lo **sviluppo dei servizi di piattaforma**.» ⚠️ Gli oggetti sono **tre** e vanno garantiti **insieme**: un'opzione che ne ometta uno, o che presenti la tutela e lo sviluppo come alternativi, è falsa.
+**Opzione:** Contestualmente la tutela della concorrenza e degli utenti e lo sviluppo dei servizi di piattaforma.
+**Distrattori:**
+- Contestualmente la tutela della concorrenza e degli utenti e la limitazione dello sviluppo dei servizi di piattaforma.
+- In via prioritaria la tutela della concorrenza e degli utenti e, solo in via subordinata, lo sviluppo dei servizi di piattaforma.
+- Contestualmente la tutela dei dati personali e degli utenti e lo sviluppo dei servizi di piattaforma.
+
+**D:** ⚠️ A che cosa possono servire, sul piano della concorrenza, i dati raccolti da Uber sugli utenti?
+**R:** A **due** cose: «**evitare che i clienti siano attratti da offerte di altre piattaforme che tentano di entrare in quel mercato**» e «**risultare l'operatore più appetibile per tutti coloro che decidono di provare i servizi Uber**». Quelle informazioni «sono nell'**esclusiva disponibilità della piattaforma**» e vengono rielaborate «per la **definizione e differenziazione delle condizioni e tariffe applicate**». ⚠️ Il primo uso è **difensivo** verso i concorrenti che vogliono entrare, il secondo **offensivo** verso i nuovi clienti.
+**Opzione:** A evitare che i clienti siano attratti da offerte di altre piattaforme che tentano di entrare nel mercato e a risultare l'operatore più appetibile per chi decide di provare i servizi Uber.
+**Distrattori:**
+- A evitare che i clienti siano attratti da offerte di altre piattaforme già presenti sul mercato e a risultare l'operatore più appetibile per chi decide di provare i servizi Uber.
+- A evitare che i clienti siano attratti da offerte di altre piattaforme che tentano di entrare nel mercato e a selezionare i conducenti più affidabili fra quelli disponibili.
+- A rivendere le informazioni raccolte alle altre piattaforme che tentano di entrare nel mercato e a risultare l'operatore più appetibile per chi decide di provare i servizi Uber.
+
+**D:** ⚠️ Che effetto ha avuto, secondo la slide, la decisione della Corte di Giustizia sul problema concorrenziale?
+**R:** Ha «**inciso nel breve periodo**, rendendo **più complicata l'esistenza di un'offerta di servizi, come Uberpop, non in linea con la normativa esistente**, ma **difficilmente può rappresentare una soluzione definitiva laddove non vi sia un ripensamento delle regole vigenti**.» ⚠️ Effetto **di breve periodo** e **non definitivo**: la soluzione richiede un **ripensamento delle regole**, non una sentenza. Il docente ne dà la ragione tecnica, solo nel transcript: nei paesi di **civil law** «le sentenze dei tribunali **non fanno precedente**».
+**Opzione:** Ha inciso nel breve periodo, rendendo più complicata un'offerta di servizi non in linea con la normativa esistente, ma difficilmente può essere una soluzione definitiva senza un ripensamento delle regole vigenti.
+**Distrattori:**
+- Ha inciso nel lungo periodo, rendendo più complicata un'offerta di servizi non in linea con la normativa esistente, e rappresenta una soluzione definitiva anche senza un ripensamento delle regole vigenti.
+- Ha inciso nel breve periodo, rendendo più complicata un'offerta di servizi non in linea con la normativa esistente, e ha imposto agli Stati membri la revisione delle regole vigenti.
+- Non ha prodotto effetti sul mercato dei servizi di piattaforma, perché le sentenze della Corte di Giustizia non vincolano i giudici nazionali.
+
+**D:** ⚠️ Secondo il docente, perché una sentenza non può risolvere il problema regolatorio delle piattaforme in Europa?
+**R:** Perché nei **paesi di civil law** — «quasi tutta l'Europa» — «le **sentenze dei tribunali non fanno precedente**»: «non è detto che siccome una corte abbia deciso in un certo modo allora la normativa applicabile ai casi simili sarà questa; sono delle **guide**, danno delle **indicazioni**, ma **ogni caso verrà deciso** secondo l'applicazione che il giudice farà della normativa». Diverso nei **paesi di common law**, «dove invece il **precedente** […] **fa legge**». ⚠️ Solo nel transcript; l'ASR rende *civil law* con «paesi di **Sevillodo**», che è una storpiatura e non un termine tecnico.
+
+**D:** Da che cosa deriva la scarsa disponibilità di informazioni che caratterizza la trasparenza tecnologica?
+**R:** Da **due** cause distinte: «dalla **capacità di raccolta delle piattaforme**» e «dalla **capacità decisionale che esse hanno rispetto alla quantità di dati che vogliono rivelare**». ⚠️ Quanto le piattaforme **possono raccogliere** e quanto **decidono di rivelare** sono cose diverse, ed entrambe stanno nella formula.
+**Opzione:** Dalla capacità di raccolta delle piattaforme e dalla capacità decisionale che esse hanno rispetto alla quantità di dati che vogliono rivelare.
+**Distrattori:**
+- Dalla capacità di raccolta delle piattaforme e dai limiti tecnici degli strumenti di analisi a disposizione del regolatore.
+- Dall'assenza di obblighi di conservazione dei dati e dalla capacità decisionale che le piattaforme hanno rispetto alla quantità di dati che vogliono rivelare.
+- Dalla capacità di raccolta delle piattaforme e dal divieto, imposto dal GDPR, di comunicare i dati degli utenti alle autorità.
+
+**D:** ⚠️ Che cosa, esattamente, il regolatore non conosce degli algoritmi delle piattaforme?
+**R:** «**Impostazione, finalità e modalità di azione** degli algoritmi utilizzati per **gestire il patrimonio informativo raccolto**»; e inoltre «**non ha la capacità di incidere su quante informazioni le piattaforme forniscono**». ⚠️ Gli oggetti ignoti sono **tre** e vanno ricordati nell'ordine della slide.
+**Opzione:** Impostazione, finalità e modalità di azione degli algoritmi utilizzati per gestire il patrimonio informativo raccolto.
+**Distrattori:**
+- Impostazione, finalità e costo di sviluppo degli algoritmi utilizzati per gestire il patrimonio informativo raccolto.
+- Impostazione e modalità di azione degli algoritmi utilizzati per gestire il patrimonio informativo raccolto.
+- Impostazione, finalità e modalità di azione degli algoritmi utilizzati per selezionare i conducenti disponibili nella singola corsa.
+
+**D:** ⚠️ Di quali informazioni dispone il regolatore, secondo la slide sulla trasparenza tecnologica?
+**R:** «**Solo quelle che le piattaforme hanno scelto di condividere**» — con la conseguenza che «la definizione delle regole rischia di avvenire **senza avere piena cognizione del fenomeno che si vuole disciplinare**». ⚠️ La slide stampa «le informazioni di cui il **regolamento** dispone», refuso per *il **regolatore** dispone*: il senso è quello, ma la forma stampata è questa. Il docente: senza un «**ripensamento organico, globale**» la definizione delle regole «rischia di essere una sorta di **esercizio sterile**».
+**Opzione:** Solo di quelle che le piattaforme hanno scelto di condividere.
+**Distrattori:**
+- Di tutte quelle raccolte dalle piattaforme, che sono tenute a trasmetterle su richiesta.
+- Solo di quelle che le piattaforme sono obbligate a pubblicare nei propri termini e condizioni.
+- Solo di quelle che gli utenti hanno acconsentito a rendere disponibili alle autorità.
+
+**D:** Perché le piattaforme hanno introdotto i meccanismi di feedback, e come li qualifica la slide?
+**R:** «Le piattaforme hanno ritenuto di dover fornire **maggiori informazioni sul servizio offerto** attraverso **meccanismi di feedback**. Questi possono essere considerati come **forme di self-regulation** in grado di dare **garanzie su affidabilità dell'operatore e qualità del servizio** a coloro che usufruiscono.» ⚠️ Le garanzie hanno **due** oggetti **distinti**: l'**affidabilità dell'operatore** e la **qualità del servizio**. Il transcript li appiattisce su uno solo — «garanzia sulla **fidabilità dell'operatore e dei servizi offerti**» —, estendendo l'*affidabilità* anche ai servizi e perdendo la **qualità**: vale la slide.
+**Opzione:** Come forme di self-regulation in grado di dare garanzie sull'affidabilità dell'operatore e sulla qualità del servizio a chi ne usufruisce.
+**Distrattori:**
+- Come forme di co-regulation in grado di dare garanzie sull'affidabilità dell'operatore e sulla qualità del servizio a chi ne usufruisce.
+- Come forme di self-regulation in grado di dare garanzie sulla sola affidabilità dell'operatore a chi ne usufruisce.
+- Come forme di self-regulation in grado di dare garanzie sull'affidabilità dell'operatore e sulla correttezza delle tariffe applicate a chi ne usufruisce.
+
+**D:** ⚠️ In base a quali standard la piattaforma esclude gli operatori, secondo la slide sui feedback?
+**R:** «Sulla base dei **giudizi lasciati da coloro che hanno usufruito del servizio**, la piattaforma **attua controlli eliminando coloro che non rispondono agli standard richiesti dall'utenza**.» ⚠️ Gli standard sono quelli «**richiesti dall'utenza**», non fissati dal regolatore né dalla piattaforma. ⚠️ La slide dice che la piattaforma elimina **i soggetti**; il docente aggiunge — **solo nel transcript** — che può anche «eliminare **dei feedback** sui quali non è d'accordo»: sono cose diverse.
+**Opzione:** Sulla base dei giudizi lasciati da chi ha usufruito del servizio, eliminando coloro che non rispondono agli standard richiesti dall'utenza.
+**Distrattori:**
+- Sulla base dei giudizi lasciati da chi ha usufruito del servizio, eliminando coloro che non rispondono agli standard fissati dalla piattaforma nei termini e condizioni.
+- Sulla base dei giudizi lasciati da chi ha usufruito del servizio, eliminando coloro che non rispondono agli standard minimi imposti dalla normativa nazionale.
+- Sulla base dei controlli periodici svolti dalla piattaforma sugli autisti, eliminando coloro che non rispondono agli standard richiesti dall'utenza.
+
+**D:** Qual è la *ratio* del sistema di feedback, e su che cosa verte la valutazione?
+**R:** «Realizzare un sistema che consenta una **sistematicità di valutazioni sul servizio e sui diversi autisti**, mettendo in evidenza **vantaggi ed eventuali criticità connesse alla persona o all'autovettura utilizzata**, in modo eventualmente da poter anche **intervenire tempestivamente**.» ⚠️ Gli oggetti della valutazione sono **due**: la **persona** e l'**autovettura**.
+**Opzione:** Consentire una sistematicità di valutazioni sul servizio e sugli autisti, evidenziando vantaggi e criticità connesse alla persona o all'autovettura utilizzata, per poter intervenire tempestivamente.
+**Distrattori:**
+- Consentire una sistematicità di valutazioni sul servizio e sugli autisti, evidenziando vantaggi e criticità connesse alla sola persona del conducente, per poter intervenire tempestivamente.
+- Consentire una sistematicità di valutazioni sul servizio e sugli autisti, evidenziando vantaggi e criticità connesse alla persona o all'autovettura utilizzata, per poter differenziare le tariffe applicate.
+- Consentire una valutazione a campione sul servizio e sugli autisti, evidenziando vantaggi e criticità connesse alla persona o all'autovettura utilizzata, per poter intervenire tempestivamente.
+
+**D:** ⚠️ A che cosa è funzionale la presenza dei rating sulle piattaforme?
+**R:** «A **dare l'idea all'utente che vi è un certo standard di qualità garantito** per il servizio e ad **influire positivamente sulle scelte dei consumatori**. Infatti, in presenza di **valutazioni negative**, la piattaforma procede all'**esclusione del soggetto** che le ha ricevute.» ⚠️ La formula è «dare l'**idea**» che vi sia uno standard: la slide non afferma che lo standard vi **sia**.
+**Opzione:** A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a influire positivamente sulle scelte dei consumatori.
+**Distrattori:**
+- A garantire all'utente che vi sia un certo standard di qualità del servizio e a influire positivamente sulle scelte dei consumatori.
+- A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a orientare le politiche tariffarie della piattaforma.
+- A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a sostituire i controlli delle autorità nazionali.
+
+**D:** Quale bilanciamento realizza, secondo la slide, il sistema dei rating?
+**R:** «Si attua un **bilanciamento fra varietà dell'offerta / piena libertà di scelta dell'utente e garanzia di un determinato standard di qualità**.»
+**Opzione:** Fra varietà dell'offerta e piena libertà di scelta dell'utente, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
+**Distrattori:**
+- Fra varietà dell'offerta e piena libertà di scelta dell'utente, da un lato, e tutela della concorrenza fra piattaforme, dall'altro.
+- Fra contenimento dei prezzi del servizio, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
+- Fra varietà dell'offerta e piena libertà di scelta della piattaforma, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
+
+**D:** ⚠️ Quali limiti di attendibilità dei feedback indica la slide?
+**R:** **Due**. **①** I **fattori esterni**: «nel caso di una piattaforma come Uber nella quale il **contatto non è solo virtuale**, il giudizio può essere influenzato anche da **fattori esterni (es. empatia con il guidatore)** che **non riguardano strettamente l'erogazione del servizio**». **②** Il **denominatore ignoto**: i feedback «possono essere considerati **veritieri quanto più alto è il numero dei soggetti che li lasciano**», ma chi li legge «**sa il contenuto ma non quale percentuale rappresentano**, visto che **non sono conteggiati coloro che hanno usufruito del servizio senza esprimere un parere**». ⚠️ L'esempio della slide è l'**empatia con il guidatore**; quelli del docente — pulizia dell'auto, volume della musica, velocità — riguardano invece la **soggettività dei criteri** e non vanno confusi con esso.
+**Opzione:** I fattori esterni al servizio, come l'empatia con il guidatore, e il fatto che chi legge i feedback non sa quale percentuale degli utenti essi rappresentino.
+**Distrattori:**
+- I fattori esterni al servizio, come l'empatia con il guidatore, e il fatto che i feedback siano lasciati in forma anonima.
+- La scarsa competenza tecnica di chi lascia il giudizio e il fatto che chi legge i feedback non sa quale percentuale degli utenti essi rappresentino.
+- I fattori esterni al servizio, come l'empatia con il guidatore, e il fatto che i feedback negativi non siano conteggiati nel punteggio finale.
+
+**D:** ⚠️ Perché chi legge i feedback non può valutarne la rappresentatività?
+**R:** Perché «gli utenti che ne prendono visione **sanno il contenuto ma non quale percentuale rappresentano**, visto che **non sono conteggiati coloro che hanno usufruito del servizio senza esprimere un parere**». ⚠️ Il criterio di veridicità resta però quantitativo: i feedback «possono essere considerati **veritieri quanto più alto è il numero dei soggetti che li lasciano**». ⚠️ Passaggio **solo sulla slide**: il docente non lo legge.
+**Opzione:** Perché non sono conteggiati coloro che hanno usufruito del servizio senza esprimere un parere, sicché si conosce il contenuto dei feedback ma non quale percentuale rappresentino.
+**Distrattori:**
+- Perché non sono conteggiati i feedback negativi eliminati dalla piattaforma, sicché si conosce il contenuto dei feedback ma non quale percentuale rappresentino.
+- Perché la piattaforma non pubblica il numero complessivo dei feedback ricevuti, ma solo il punteggio medio attribuito a ciascun autista.
+- Perché i feedback sono considerati tanto più veritieri quanto più basso è il numero dei soggetti che li lasciano.
+
+**D:** Quali due effetti, su piani differenti, producono i limiti dei meccanismi di feedback?
+**R:** «Il **primo** è un **dato di fatto** che corrisponde alla presenza di **feedback per la maggior parte positivi** sulle piattaforme; il **secondo**, **strettamente connesso**, riguarda questo genere di **self-regulation ed il valore ad essa attribuibile**.»
+**Opzione:** Il primo è la presenza di feedback per la maggior parte positivi sulle piattaforme; il secondo riguarda questo genere di self-regulation e il valore ad essa attribuibile.
+**Distrattori:**
+- Il primo è la presenza di feedback per la maggior parte negativi sulle piattaforme; il secondo riguarda questo genere di self-regulation e il valore ad essa attribuibile.
+- Il primo è la presenza di feedback per la maggior parte positivi sulle piattaforme; il secondo riguarda l'obbligo per le piattaforme di pubblicare i criteri di calcolo del punteggio.
+- Il primo è la progressiva riduzione del numero di feedback lasciati dagli utenti; il secondo riguarda questo genere di self-regulation e il valore ad essa attribuibile.
+
+**D:** ⚠️ Quale ruolo riconosce la slide alla self-regulation dei feedback?
+**R:** Un ruolo **di supporto**: «non è possibile pensare che questi strumenti possano rappresentare l'**unica forma di regolazione** ed il loro **ruolo non può che essere di supporto per la realizzazione di una co-regulation efficace**». ⚠️ Il **docente dice il contrario** sul secondo punto: i feedback non possono essere «una **sostituzione di regolamentazione** o **addirittura una co-regulation**, perché **non ne hanno la dignità giuridica**», e la self-regulation ha «**scarsissimo valore**». ⚠️ **All'esame vale la slide**, perché le opzioni sono citazioni letterali delle slide: la formula da riconoscere è quella del **ruolo di supporto per la realizzazione di una co-regulation efficace**. La posizione del docente è materiale da orale.
+**Opzione:** Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di una co-regulation efficace.
+**Distrattori:**
+- Possono rappresentare l'unica forma di regolazione delle piattaforme, rendendo superfluo l'intervento del regolatore.
+- Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di una de-regulation efficace.
+- Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di un'auto-regolamentazione efficace.
+
+**D:** ⚠️ Da che cosa dovrebbero essere accompagnati i meccanismi di feedback per essere integrati nel quadro regolatorio?
+**R:** «**Quantomeno** dalla presenza di **termini e condizioni di rilascio** nonché **forme di controllo sui feedback lasciati / da lasciare**. Questi elementi **incrementerebbero il grado di affidabilità** e consentirebbero una **più semplice integrazione nel quadro regolatorio**.» ⚠️ Il quantificatore «**quantomeno**» segnala un **minimo**, non un elenco esaustivo. ⚠️ Passaggio **solo sulla slide**: il docente non lo legge.
+**Opzione:** Quantomeno da termini e condizioni di rilascio e da forme di controllo sui feedback lasciati o da lasciare.
+**Distrattori:**
+- Esclusivamente da termini e condizioni di rilascio e da forme di controllo sui feedback lasciati o da lasciare.
+- Quantomeno da termini e condizioni di rilascio e dalla verifica dell'identità digitale di chi lascia il feedback.
+- Quantomeno dall'obbligo di pubblicare tutti i feedback ricevuti e da forme di controllo affidate all'autorità nazionale competente.
+
+**D:** ⚠️ Qual è il paradosso che, secondo il docente, rende insolubile il nodo della trasparenza delle piattaforme?
+**R:** Che «le piattaforme **non possono operare senza l'acquisizione di determinate informazioni** e paradossalmente **tante più informazioni hanno su di noi e meglio assolvono il loro compito**». Lo illustra con la serata di pioggia in cui la piattaforma, incrociando abitudini e dati dei social, propone cena a domicilio e vino bianco: «sono servizi che hanno un **grande valore aggiunto** ma lo **scotto** è […] che la nostra vita **ha pochi segreti** per queste piattaforme». Da cui il rifiuto delle soluzioni semplici — il tema «non può essere liquidato con "bisognerebbe gestire meglio la privacy delle piattaforme"» — perché «l'evoluzione comprende anche la **raffinatezza dei servizi**» e «bisogna ragionare su **quale compromesso raggiungere**». ⚠️ Solo nel transcript.
+
+**D:** ⚠️ Con quale domanda aperta il docente chiude la lezione?
+**R:** Se «dobbiamo **limitarci a regolamentare ciò che è finanziario** nelle piattaforme digitali o è necessario iniziare a pensare a **normative di settore anche per quelle piattaforme tecnologiche** che offrono un servizio che **non è, da un punto di vista strettamente giuridico, riservato** e quindi **non è un'attività finanziaria**, ma che presentano **profili talmente delicati e di criticità tali** da rendere necessaria una **regolamentazione di settore**». La previsione che ne trae: davanti a una «**moltitudine di soggetti, piattaforme**» — «dal crowdfunding a Uber, a piattaforme di architetti […], a piattaforme che mettono in contatto semplicemente **venditori e compratori**» — «tutte queste sfumature […] probabilmente **prima o dopo dovranno fare i conti con un simil test Uber**», per capire quale regolamentazione, «**se mai una dovesse esserne**», sia la «**più proporzionata**» al servizio offerto e «ai **pericoli che pongono alla comunità e al sistema**». ⚠️ Solo nel transcript.
