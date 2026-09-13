@@ -4115,3 +4115,311 @@
 
 **D:** ⚠️ Con quale domanda aperta il docente chiude la lezione?
 **R:** Se «dobbiamo **limitarci a regolamentare ciò che è finanziario** nelle piattaforme digitali o è necessario iniziare a pensare a **normative di settore anche per quelle piattaforme tecnologiche** che offrono un servizio che **non è, da un punto di vista strettamente giuridico, riservato** e quindi **non è un'attività finanziaria**, ma che presentano **profili talmente delicati e di criticità tali** da rendere necessaria una **regolamentazione di settore**». La previsione che ne trae: davanti a una «**moltitudine di soggetti, piattaforme**» — «dal crowdfunding a Uber, a piattaforme di architetti […], a piattaforme che mettono in contatto semplicemente **venditori e compratori**» — «tutte queste sfumature […] probabilmente **prima o dopo dovranno fare i conti con un simil test Uber**», per capire quale regolamentazione, «**se mai una dovesse esserne**», sia la «**più proporzionata**» al servizio offerto e «ai **pericoli che pongono alla comunità e al sistema**». ⚠️ Solo nel transcript.
+
+## Lezione 15 — Crowdfunding: l'utilizzo della tecnologia nella raccolta fondi, differenti regole per diverse tipologie di crowdfunding (3)
+
+**D:** Quali sono le due voci dell'agenda della lezione 15?
+**R:** «**Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per le imprese**» e «**Il Social Lending**». ⚠️ L'agenda compare **due volte** nel deck (slide 2 e 10), a separare le due parti.
+**Opzione:** Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per le imprese e Il Social Lending.
+**Distrattori:**
+- Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per le imprese e Il Marketplace Lending.
+- Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per i consumatori e Il Social Lending.
+- La cornice giuridica italiana sul Crowdfunding e Il Social Lending.
+
+**D:** ⚠️ Qual è il numero del regolamento europeo sul crowdfunding, e a chi si riferisce?
+**R:** **Regolamento UE 2020/1503**, sui **fornitori** europei di servizi di crowdfunding **per le imprese**. ⚠️ Il deck si contraddice: l'**agenda** (slide 2 e 10) scrive «**2020/1503** sui **fornitori**», ma l'**intestazione di tutte le slide di contenuto** (3–9) scrive «**2020/2013** sui **prestatori**» — **sette volte**, per propagazione della stessa riga. Il docente pronuncia «**2020-1503**». Vale **1503 + fornitori**: agenda e docente concordi contro un refuso ripetuto per copia (cifre invertite, 1503 → 2013). ⚠️ Attenzione: gli assi invertiti sono **due**, il **numero** e il **sostantivo**, quindi l'opzione copiata dall'intestazione sembra plausibile ed è sbagliata.
+**Opzione:** Regolamento UE 2020/1503, sui fornitori europei di servizi di crowdfunding per le imprese.
+**Distrattori:**
+- Regolamento UE 2020/2013, sui prestatori europei di servizi di crowdfunding.
+- Regolamento UE 2020/1503, sui prestatori europei di servizi di crowdfunding.
+- Regolamento UE 2020/2013, sui fornitori europei di servizi di crowdfunding per le imprese.
+
+**D:** Di quale piano fa parte il Regolamento sul crowdfunding, e quando è stato presentato?
+**R:** «Il regolamento fa parte del **piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech)** che la Commissione ha presentato nel **marzo 2018**.» ⚠️ Il **mese** sta **solo sulla slide**: il docente dice soltanto «nel 2018». È lo stesso **Piano d'azione FinTech** visto alla lezione 05.
+**Opzione:** Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dalla Commissione nel marzo 2018.
+**Distrattori:**
+- Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dalla Commissione nel marzo 2020.
+- Del piano d'azione per l'Unione dei mercati dei capitali, presentato dalla Commissione nel marzo 2018.
+- Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dal Parlamento europeo nel marzo 2018.
+
+**D:** ⚠️ Come descrive la slide la struttura dell'intermediazione nel crowdfunding?
+**R:** «Il crowdfunding rappresenta un **tipo di intermediazione sempre più importante** in cui un **fornitore di servizi di crowdfunding**, **senza assumersi rischi propri**, **gestisce una piattaforma digitale aperta al pubblico** per **abbinare o facilitare l'incontro** tra **potenziali investitori o finanziatori** e **imprese in cerca di finanziamenti**.» ⚠️ Tre elementi da non ribaltare: il fornitore **non assume rischi propri**; la piattaforma è **aperta al pubblico**; il verbo è **abbinare o facilitare l'incontro**, non *concedere* il finanziamento.
+**Opzione:** Un fornitore di servizi di crowdfunding, senza assumersi rischi propri, gestisce una piattaforma digitale aperta al pubblico per abbinare o facilitare l'incontro tra potenziali investitori o finanziatori e imprese in cerca di finanziamenti.
+**Distrattori:**
+- Un fornitore di servizi di crowdfunding, assumendosi i rischi dell'operazione, gestisce una piattaforma digitale aperta al pubblico per abbinare o facilitare l'incontro tra potenziali investitori o finanziatori e imprese in cerca di finanziamenti.
+- Un fornitore di servizi di crowdfunding, senza assumersi rischi propri, gestisce una piattaforma digitale riservata agli investitori professionali per abbinare o facilitare l'incontro tra finanziatori e imprese in cerca di finanziamenti.
+- Un fornitore di servizi di crowdfunding, senza assumersi rischi propri, gestisce una piattaforma digitale aperta al pubblico per concedere direttamente finanziamenti alle imprese che ne fanno richiesta.
+
+**D:** Quali forme possono assumere i finanziamenti raccolti tramite crowdfunding, secondo il Regolamento?
+**R:** «Tali finanziamenti potrebbero assumere la forma di **prestiti** o di **acquisizione di titoli trasferibili** o di **altri strumenti ammessi ai fini del crowdfunding**.» ⚠️ **Tre** forme, e la terza lascia l'elenco **aperto**.
+**Opzione:** Prestiti, acquisizione di titoli trasferibili o altri strumenti ammessi ai fini del crowdfunding.
+**Distrattori:**
+- Prestiti o acquisizione di titoli trasferibili, con esclusione di ogni altro strumento.
+- Prestiti, acquisizione di titoli trasferibili o conferimenti in natura ammessi ai fini del crowdfunding.
+- Donazioni, acquisizione di titoli trasferibili o altri strumenti ammessi ai fini del crowdfunding.
+
+**D:** ⚠️ Quali tipi di crowdfunding rientrano nell'ambito del Regolamento, e perché?
+**R:** **Entrambi**: «è pertanto opportuno includere nell'ambito di applicazione del presente regolamento **sia il lending-based crowdfunding che l'investment-based crowdfunding**, poiché questi tipi di crowdfunding possono essere strutturati come **alternative di finanziamento comparabili**». ⚠️ La ragione dell'inclusione congiunta è la **comparabilità** come alternative di finanziamento: un'opzione che ne includa uno solo, o che motivi diversamente, è falsa.
+**Opzione:** Sia il lending-based sia l'investment-based crowdfunding, perché possono essere strutturati come alternative di finanziamento comparabili.
+**Distrattori:**
+- Sia il lending-based sia l'investment-based crowdfunding, perché entrambi comportano la raccolta di risparmio tra il pubblico.
+- Il solo lending-based crowdfunding, perché è l'unico a costituire un'alternativa di finanziamento comparabile al credito bancario.
+- Il solo investment-based crowdfunding, perché è l'unico a coinvolgere valori mobiliari e strumenti ammessi ai fini del crowdfunding.
+
+**D:** ⚠️ Su quali profili divergono, secondo la slide, le norme nazionali sul crowdfunding?
+**R:** Su **tre**: «le **condizioni di funzionamento delle piattaforme di crowdfunding**, l'**ambito delle attività consentite** e i **requisiti di autorizzazione**». I regimi nazionali infatti «sono **adattati alle caratteristiche e alle esigenze dei mercati e degli investitori locali**».
+**Opzione:** Le condizioni di funzionamento delle piattaforme, l'ambito delle attività consentite e i requisiti di autorizzazione.
+**Distrattori:**
+- Le condizioni di funzionamento delle piattaforme, l'ambito delle attività consentite e il regime fiscale applicabile agli investitori.
+- Le condizioni di funzionamento delle piattaforme, le soglie massime di offerta e i requisiti di autorizzazione.
+- La forma giuridica dei gestori, l'ambito delle attività consentite e i requisiti di autorizzazione.
+
+**D:** ⚠️ Quali conseguenze produce la frammentazione del quadro giuridico lungo i confini nazionali?
+**R:** «Le differenze tra le norme nazionali esistenti sono tali da **ostacolare la fornitura transfrontaliera** di servizi di crowdfunding e quindi hanno un **effetto diretto sul funzionamento del mercato interno** di tali servizi. In particolare, il fatto che il quadro giuridico sia frammentato lungo i confini nazionali crea **notevoli costi legali per gli investitori al dettaglio**, che spesso incontrano difficoltà nel **determinare le norme applicabili** ai servizi di crowdfunding transfrontalieri.» ⚠️ La qualificazione «**al dettaglio**» sta **solo sulla slide**: il docente dice genericamente «gli investitori».
+**Opzione:** Ostacola la fornitura transfrontaliera, incide direttamente sul funzionamento del mercato interno e crea notevoli costi legali per gli investitori al dettaglio.
+**Distrattori:**
+- Ostacola la fornitura transfrontaliera, incide direttamente sul funzionamento del mercato interno e crea notevoli costi legali per gli investitori professionali.
+- Ostacola la fornitura transfrontaliera, incide direttamente sul funzionamento del mercato interno e impedisce alle piattaforme di ottenere l'autorizzazione nazionale.
+- Riduce la concorrenza fra piattaforme, incide direttamente sul funzionamento del mercato interno e crea notevoli costi legali per gli investitori al dettaglio.
+
+**D:** ⚠️ Quali obiettivi persegue l'intervento normativo a livello di Unione?
+**R:** **Due**, congiunti: «per **promuovere i servizi di crowdfunding transfrontalieri** e **facilitare l'esercizio della libertà di fornire e ricevere tali servizi nel mercato interno**, è necessario **affrontare gli ostacoli esistenti** al corretto funzionamento del mercato interno dei servizi di crowdfunding e **garantire un elevato livello di protezione degli investitori** definendo un **quadro normativo a livello di Unione**». ⚠️ Sviluppo del mercato **e** protezione degli investitori insieme: non sono alternativi.
+**Opzione:** Affrontare gli ostacoli al corretto funzionamento del mercato interno e garantire un elevato livello di protezione degli investitori, con un quadro normativo a livello di Unione.
+**Distrattori:**
+- Affrontare gli ostacoli al corretto funzionamento del mercato interno e garantire un livello minimo di protezione degli investitori, con un quadro normativo a livello di Unione.
+- Affrontare gli ostacoli al corretto funzionamento del mercato interno e garantire un elevato livello di protezione degli investitori, lasciando agli Stati membri la definizione del quadro normativo.
+- Uniformare il regime fiscale delle piattaforme e garantire un elevato livello di protezione degli investitori, con un quadro normativo a livello di Unione.
+
+**D:** Per quali piattaforme il Regolamento stabilisce regole nuove e armonizzate?
+**R:** Per **entrambe**: «**piattaforme di lending-based crowdfunding**» e «**piattaforme di investment-based crowdfunding**».
+**Opzione:** Per le piattaforme di lending-based crowdfunding e per quelle di investment-based crowdfunding.
+**Distrattori:**
+- Per le sole piattaforme di lending-based crowdfunding.
+- Per le sole piattaforme di investment-based crowdfunding.
+- Per le piattaforme di lending-based crowdfunding e per quelle di reward-based crowdfunding.
+
+**D:** ⚠️ Per che cosa il Regolamento stabilisce requisiti uniformi?
+**R:** Per **quattro** oggetti, nell'ordine della slide: «la **fornitura di servizi di crowdfunding**»; «l'**organizzazione, l'autorizzazione e la supervisione dei fornitori** di servizi di crowdfunding»; «il **funzionamento delle piattaforme** di crowdfunding»; «la **trasparenza e le comunicazioni di marketing** in relazione alla fornitura di servizi di crowdfunding **nell'Unione**». ⚠️ La seconda voce ne contiene **tre** (organizzazione, autorizzazione, supervisione).
+**Opzione:** La fornitura dei servizi; l'organizzazione, l'autorizzazione e la supervisione dei fornitori; il funzionamento delle piattaforme; la trasparenza e le comunicazioni di marketing.
+**Distrattori:**
+- La fornitura dei servizi; l'organizzazione e la supervisione dei fornitori; il funzionamento delle piattaforme; la trasparenza e le comunicazioni di marketing.
+- La fornitura dei servizi; l'organizzazione, l'autorizzazione e la supervisione dei fornitori; il funzionamento delle piattaforme; il regime sanzionatorio applicabile.
+- La fornitura dei servizi; l'organizzazione, l'autorizzazione e la supervisione degli investitori; il funzionamento delle piattaforme; la trasparenza e le comunicazioni di marketing.
+
+**D:** ⚠️ Che cosa si intende per «servizi di crowdfunding» secondo il Regolamento?
+**R:** «L'**incontro degli interessi di finanziamento delle imprese** da parte degli **investitori** e dei **proprietari dei progetti** attraverso l'uso di una **piattaforma di crowdfunding** e che consiste in una **qualsiasi delle seguenti attività**.» ⚠️ Il quantificatore è «**una qualsiasi**»: basta **una** delle attività tipizzate, non occorrono entrambe.
+**Opzione:** L'incontro degli interessi di finanziamento delle imprese da parte degli investitori e dei proprietari dei progetti tramite una piattaforma di crowdfunding, consistente in una qualsiasi delle attività tipizzate.
+**Distrattori:**
+- L'incontro degli interessi di finanziamento delle imprese da parte degli investitori e dei proprietari dei progetti tramite una piattaforma di crowdfunding, consistente in tutte le attività tipizzate.
+- L'incontro degli interessi di finanziamento dei consumatori da parte degli investitori e dei proprietari dei progetti tramite una piattaforma di crowdfunding, consistente in una qualsiasi delle attività tipizzate.
+- La concessione di finanziamenti alle imprese da parte di una piattaforma di crowdfunding autorizzata, consistente in una qualsiasi delle attività tipizzate.
+
+**D:** ⚠️ Quali sono le attività in cui consistono i servizi di crowdfunding?
+**R:** **Due**: «l'**agevolazione della concessione di prestiti**» e «il **collocamento senza impegno**, di cui al **punto (7) della sezione A dell'allegato I della direttiva 2014/65/UE**, di **valori mobiliari e strumenti ammessi ai fini del crowdfunding** emessi **dai titolari di progetti o da una società veicolo**, e la **ricezione e la trasmissione degli ordini dei clienti**, di cui al **punto (1)** di tale sezione». ⚠️ I rinvii alla **direttiva 2014/65/UE** (MiFID II) e ai punti **(7)** e **(1)** stanno **solo sulla slide**. ⚠️ L'ASR dice «valori **immobiliari**»: sono **valori mobiliari**.
+**Opzione:** L'agevolazione della concessione di prestiti e il collocamento senza impegno di valori mobiliari e strumenti ammessi ai fini del crowdfunding, con la ricezione e trasmissione degli ordini dei clienti.
+**Distrattori:**
+- L'agevolazione della concessione di prestiti e il collocamento con impegno irrevocabile di valori mobiliari e strumenti ammessi ai fini del crowdfunding, con la ricezione e trasmissione degli ordini dei clienti.
+- L'agevolazione della concessione di prestiti e il collocamento senza impegno di valori immobiliari e strumenti ammessi ai fini del crowdfunding, con la ricezione e trasmissione degli ordini dei clienti.
+- La concessione diretta di prestiti e il collocamento senza impegno di valori mobiliari e strumenti ammessi ai fini del crowdfunding, con l'esecuzione degli ordini dei clienti.
+
+**D:** ⚠️ A quali fattispecie non si applica il Regolamento?
+**R:** **Due**, e l'elenco è **aperto** («*inter alia*»): ai «servizi di crowdfunding forniti ai **proprietari di progetti che sono consumatori**» e alle «offerte di crowdfunding con un corrispettivo **superiore a 5.000.000 di euro**, che devono essere calcolate su un periodo di **12 mesi**». ⚠️ L'esclusione è per le offerte **superiori** alla soglia: sotto i 5 milioni il regolamento **si applica**. ⚠️ La base di calcolo è un periodo di **12 mesi**. Il docente aggiunge, solo nel transcript, che oltre la soglia si applica un'altra disciplina — «**generalmente, non sempre**» quella delle **offerte pubbliche di acquisto**.
+**Opzione:** Ai servizi forniti a proprietari di progetti che sono consumatori e alle offerte con corrispettivo superiore a 5.000.000 di euro calcolati su un periodo di 12 mesi.
+**Distrattori:**
+- Ai servizi forniti a proprietari di progetti che sono consumatori e alle offerte con corrispettivo inferiore a 5.000.000 di euro calcolati su un periodo di 12 mesi.
+- Ai servizi forniti a proprietari di progetti che sono piccole e medie imprese e alle offerte con corrispettivo superiore a 5.000.000 di euro calcolati su un periodo di 12 mesi.
+- Ai servizi forniti a proprietari di progetti che sono consumatori e alle offerte con corrispettivo superiore a 5.000.000 di euro calcolati su un periodo di 24 mesi.
+
+**D:** ⚠️ Chi può fornire servizi di crowdfunding, e chi tiene il registro dei fornitori?
+**R:** «I servizi di crowdfunding possono essere forniti **solo da soggetti giuridici stabiliti nell'UE e autorizzati** come fornitori di servizi di crowdfunding ai sensi del Regolamento»; «l'**ESMA** istituisce un **registro di tutti i fornitori di servizi di crowdfunding**». ⚠️ I requisiti sono **due e cumulativi** (stabilimento nell'UE **e** autorizzazione). ⚠️ Il **registro** è dell'**ESMA**, mentre l'**autorizzazione** resta dell'**autorità competente nazionale**: sono due soggetti diversi.
+**Opzione:** Solo soggetti giuridici stabiliti nell'UE e autorizzati ai sensi del Regolamento; il registro di tutti i fornitori è istituito dall'ESMA.
+**Distrattori:**
+- Solo soggetti giuridici stabiliti nell'UE e autorizzati ai sensi del Regolamento; il registro di tutti i fornitori è istituito dall'autorità competente di ciascuno Stato membro.
+- Soggetti giuridici stabiliti nell'UE o in paesi terzi equivalenti e autorizzati ai sensi del Regolamento; il registro di tutti i fornitori è istituito dall'ESMA.
+- Solo soggetti giuridici stabiliti nell'UE e autorizzati ai sensi del Regolamento; il registro di tutti i fornitori è istituito dalla Commissione europea.
+
+**D:** Come devono agire i fornitori di servizi di crowdfunding?
+**R:** «In modo **onesto, equo e professionale** nel rispetto dei **migliori interessi dei loro clienti**.» ⚠️ **Tre** qualificazioni, e il parametro è il ***miglior*** interesse del cliente, non il semplice interesse.
+**Opzione:** In modo onesto, equo e professionale, nel rispetto dei migliori interessi dei loro clienti.
+**Distrattori:**
+- In modo onesto, equo e professionale, nel rispetto dei migliori interessi della piattaforma che gestiscono.
+- In modo onesto, prudente e professionale, nel rispetto dei migliori interessi dei loro clienti.
+- In modo onesto, equo e professionale, nel rispetto dell'interesse generale del mercato interno.
+
+**D:** ⚠️ Che cos'è il «servizio di gestione individuale del portafoglio»?
+**R:** «L'**allocazione** da parte del **fornitore di servizi di crowdfunding** di un **importo predeterminato di fondi** di un **investitore, che è un prestatore originario**, a **uno o più progetti di crowdfunding** sulla sua piattaforma, in conformità con un **mandato individuale conferito dall'investitore su base discrezionale per ogni singolo investitore**.» ⚠️ L'importo è **predeterminato**; l'investitore è qualificato come **prestatore originario**; il quantificatore dell'individualità è **doppio** («mandato **individuale**» e «**per ogni singolo investitore**»).
+**Opzione:** L'allocazione da parte del fornitore di un importo predeterminato di fondi di un investitore, prestatore originario, a uno o più progetti sulla piattaforma, secondo un mandato individuale conferito su base discrezionale.
+**Distrattori:**
+- L'allocazione da parte del fornitore di un importo variabile di fondi di un investitore, prestatore originario, a uno o più progetti sulla piattaforma, secondo un mandato individuale conferito su base discrezionale.
+- L'allocazione da parte del fornitore di un importo predeterminato di fondi di un investitore, prestatore originario, a uno o più progetti sulla piattaforma, secondo istruzioni vincolanti impartite per ogni singola operazione.
+- L'allocazione da parte dell'investitore di un importo predeterminato di fondi propri a uno o più progetti presenti sulla piattaforma, secondo un mandato collettivo conferito su base discrezionale.
+
+**D:** ⚠️ Quali obblighi ha chi fornisce la gestione individuale del portafoglio di prestiti?
+**R:** **Tre**, nell'ordine (a)(b)(c) della slide: **(a)** «rispettare i **parametri forniti dagli investitori**»; **(b)** «intraprendere **tutte le azioni necessarie per ottenere il miglior risultato possibile per gli investitori**»; **(c)** «**comunicare agli investitori il processo decisionale per l'esecuzione del mandato discrezionale ricevuto**». ⚠️ Il docente parafrasa il punto (a) con «l'**attitudine al rischio**», che è un **esempio** di parametro, non la formula della slide.
+**Opzione:** Rispettare i parametri forniti dagli investitori; intraprendere tutte le azioni necessarie per ottenere il miglior risultato possibile; comunicare agli investitori il processo decisionale per l'esecuzione del mandato.
+**Distrattori:**
+- Rispettare i parametri fissati dall'autorità competente; intraprendere tutte le azioni necessarie per ottenere il miglior risultato possibile; comunicare agli investitori il processo decisionale per l'esecuzione del mandato.
+- Rispettare i parametri forniti dagli investitori; intraprendere tutte le azioni necessarie per ottenere il miglior risultato possibile; comunicare all'ESMA il processo decisionale per l'esecuzione del mandato.
+- Rispettare i parametri forniti dagli investitori; garantire agli investitori un rendimento minimo predeterminato; comunicare agli investitori il processo decisionale per l'esecuzione del mandato.
+
+**D:** ⚠️ Quali obblighi gravano sull'organo di gestione di un fornitore di servizi di crowdfunding?
+**R:** **Due**, entrambi con verbo **doppio** (*stabilire* **e** *supervisionare*): **①** «**stabilire e supervisionare l'attuazione di politiche e procedure adeguate** per garantire una **gestione efficace e prudente**, compresa la **separazione delle funzioni**, la **continuità operativa** e la **prevenzione dei conflitti di interesse**»; **②** «**stabilire e supervisionare l'implementazione di sistemi e controlli adeguati** per **valutare i rischi relativi ai prestiti intermediati** sulla piattaforma di crowdfunding». ⚠️ Nella coda del primo obbligo gli elementi sono **tre**.
+**Opzione:** Stabilire e supervisionare politiche e procedure per una gestione efficace e prudente, con separazione delle funzioni, continuità operativa e prevenzione dei conflitti di interesse; e sistemi e controlli per valutare i rischi dei prestiti intermediati.
+**Distrattori:**
+- Stabilire e supervisionare politiche e procedure per una gestione efficace e prudente, con separazione delle funzioni e continuità operativa; e sistemi e controlli per valutare i rischi dei prestiti intermediati.
+- Attuare politiche e procedure per una gestione efficace e prudente, con separazione delle funzioni, continuità operativa e prevenzione dei conflitti di interesse; e affidare a un revisore esterno la valutazione dei rischi dei prestiti intermediati.
+- Stabilire e supervisionare politiche e procedure per una gestione efficace e prudente, con separazione delle funzioni, continuità operativa e prevenzione dei conflitti di interesse; e sistemi e controlli per valutare la solvibilità degli investitori al dettaglio.
+
+**D:** ⚠️ Su quali altre materie il Regolamento prevede norme specifiche?
+**R:** **Cinque**, nell'ordine della slide: **①** «la **determinazione del prezzo di un'offerta di crowdfunding**»; **②** «una **due diligence sui proprietari dei progetti** che propongono i loro progetti per essere finanziati attraverso la piattaforma»; **③** «**conflitto di interessi** (ad esempio, il **divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma**)»; **④** «la **custodia di beni e la prestazione di servizi di pagamento**»; **⑤** «**requisiti prudenziali**». ⚠️ Il **docente ne legge quattro**: salta la **custodia di beni e la prestazione di servizi di pagamento** e passa dal conflitto di interessi ai requisiti prudenziali. È la **coda dell'elenco**: all'esame vale la slide.
+**Opzione:** Determinazione del prezzo dell'offerta, due diligence sui proprietari dei progetti, conflitto di interessi, custodia di beni e prestazione di servizi di pagamento, requisiti prudenziali.
+**Distrattori:**
+- Determinazione del prezzo dell'offerta, due diligence sui proprietari dei progetti, conflitto di interessi, requisiti prudenziali.
+- Determinazione del prezzo dell'offerta, due diligence sugli investitori al dettaglio, conflitto di interessi, custodia di beni e prestazione di servizi di pagamento, requisiti prudenziali.
+- Determinazione del prezzo dell'offerta, due diligence sui proprietari dei progetti, conflitto di interessi, custodia di beni e prestazione di servizi di pagamento, requisiti di adeguatezza patrimoniale degli investitori.
+
+**D:** ⚠️ Quale esempio di conflitto di interessi fa la slide a proposito del Regolamento?
+**R:** «Il **divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma di crowdfunding**.» ⚠️ I rapporti rilevanti sono **due tipi**: **societari** **o** **di gestione**.
+**Opzione:** Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma.
+**Distrattori:**
+- Il divieto di offrire progetti di proprietari che hanno rapporti societari con il fornitore della piattaforma.
+- Il divieto per il fornitore della piattaforma di investire fondi propri nei progetti offerti sulla piattaforma.
+- Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con gli investitori al dettaglio.
+
+**D:** ⚠️ Che cosa deve fare il fornitore che vuole operare in un altro Stato membro, e a chi si rivolge?
+**R:** «Se il fornitore di servizi di crowdfunding intende fornire servizi **in uno Stato membro diverso dallo Stato membro la cui autorità competente ha concesso l'autorizzazione**, deve presentare all'**autorità competente designata come punto di contatto unico dello Stato membro in cui è stata concessa l'autorizzazione** alcune **informazioni descritte nel regolamento**.» ⚠️ Il punto di contatto unico è quello dello **Stato che ha rilasciato l'autorizzazione**, non quello di destinazione.
+**Opzione:** Presentare le informazioni previste al punto di contatto unico dello Stato membro che gli ha concesso l'autorizzazione.
+**Distrattori:**
+- Presentare le informazioni previste al punto di contatto unico dello Stato membro in cui intende fornire i servizi.
+- Presentare le informazioni previste direttamente all'ESMA, che le trasmette agli Stati membri interessati.
+- Chiedere una nuova autorizzazione all'autorità competente dello Stato membro in cui intende fornire i servizi.
+
+**D:** ⚠️ Quali termini scandiscono la prestazione transfrontaliera di servizi di crowdfunding?
+**R:** **Due**, ed è una matrice *quantità × tipo di giorno*: **10 giorni lavorativi** entro cui il **punto di contatto unico** comunica le informazioni «alle **autorità competenti degli Stati membri** in cui il fornitore intende fornire i servizi **e all'ESMA**»; e **15 giorni di calendario** come termine ultimo per l'**avvio** dei servizi, in alternativa alla «**data di ricezione della notifica**». ⚠️ I giorni sono **lavorativi** nel primo caso e **di calendario** nel secondo. ⚠️ L'**ESMA** fra i destinatari sta **solo sulla slide**.
+**Opzione:** Dieci giorni lavorativi per la comunicazione del punto di contatto unico e quindici giorni di calendario come termine ultimo per l'avvio dei servizi.
+**Distrattori:**
+- Dieci giorni di calendario per la comunicazione del punto di contatto unico e quindici giorni lavorativi come termine ultimo per l'avvio dei servizi.
+- Quindici giorni lavorativi per la comunicazione del punto di contatto unico e dieci giorni di calendario come termine ultimo per l'avvio dei servizi.
+- Dieci giorni lavorativi per la comunicazione del punto di contatto unico e trenta giorni di calendario come termine ultimo per l'avvio dei servizi.
+
+**D:** ⚠️ Come chiama il docente il meccanismo della prestazione transfrontaliera, e da dove proviene?
+**R:** **Passaporto** o **passaportazione**: «questo meccanismo di fatto si chiama **passaporto** o **passaportazione** ed è un po' il **cardine di tutta la normativa dei servizi di investimento a partire dalla MiFID**, quindi **non è solo un tema di crowdfunding**: è stato **mutuato da altre normative di settore** che vedono nel passaporto la possibilità di **fornire in modo semplificato i servizi per cui si è già stati autorizzati in uno Stato membro**». Ne dà anche la lettura pratica: «l'avvio dell'operatività è **pressoché automatico**». ⚠️ Il termine **non compare sulla slide**: sta solo nel transcript.
+
+**D:** ⚠️ In quali due macro-settori il docente riassume l'architettura del Regolamento?
+**R:** «C'è una parte del regolamento che prevede tutti gli **obblighi di condotta** […] **di controllo, di presidi, di informazione, di marketing, di disclosure**, e delle parti invece più **strutturali**, più di sostanza, quindi i **limiti dell'offerta**, le **caratteristiche dell'offerta** e via dicendo.» ⚠️ Sintesi del docente, **solo nel transcript**: utile come schema di ripasso, non citabile come formula delle slide.
+
+**D:** Che cos'è il social lending, secondo la definizione della slide?
+**R:** «Con il termine **Social Lending** o **Peer-to-Peer Lending (P2P lending)** si intende una **forma di accesso al credito alternativa ai metodi tradizionali** (**prestito bancario, finanziamenti europei, nazionali o regionali**).» ⚠️ I metodi tradizionali secondo la **slide** sono il **prestito bancario** e i **finanziamenti europei, nazionali o regionali**; il **docente** elenca invece «**banche, società di credito e intermediari finanziari**». Sono **due elenchi diversi**: vale la slide.
+**Opzione:** Una forma di accesso al credito alternativa ai metodi tradizionali, cioè al prestito bancario e ai finanziamenti europei, nazionali o regionali.
+**Distrattori:**
+- Una forma di accesso al credito alternativa ai metodi tradizionali, cioè alle banche, alle società di credito e agli intermediari finanziari.
+- Una forma di accesso al credito complementare ai metodi tradizionali, cioè al prestito bancario e ai finanziamenti europei, nazionali o regionali.
+- Una forma di raccolta del risparmio alternativa ai metodi tradizionali, cioè al deposito bancario e ai titoli di Stato.
+
+**D:** ⚠️ Chi ha sviluppato per primo l'idea di disintermediare i prestiti personali, e con quali risultati?
+**R:** «L'idea di "**disintermediare**" i prestiti personali è stata sviluppata per la prima volta **in Inghilterra** dal sito web **Zopa**, che **dal 2005 ad oggi** ha erogato **oltre 6 miliardi di sterline** in prestiti **senza ricorrere al credito delle banche**.» ⚠️ Tre dati verificabili: **Inghilterra**, **2005**, **oltre 6 miliardi di sterline**. ⚠️ L'ASR del transcript storpia il nome in «**WebZopa**» e «**Zopla**»: sulla slide è **Zopa**.
+**Opzione:** Il sito web Zopa, in Inghilterra, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
+**Distrattori:**
+- Il sito web Zopa, negli Stati Uniti, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
+- Il sito web Zopa, in Inghilterra, che dal 2015 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
+- Il sito web Zopa, in Inghilterra, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti rifinanziandosi presso il credito bancario.
+
+**D:** Come funziona il P2P lending, e qual è il ruolo della piattaforma?
+**R:** «Il P2P lending è forma di **finanziamento online tra privati**: da una parte una **persona o un'azienda in cerca di soldi**, dall'altra **investitori (cittadini, imprese, istituzioni) pronti a prestare denaro**. La **piattaforma di social lending è il tramite** che mette in contatto queste due realtà.» ⚠️ I prestatori sono **tre** categorie — **cittadini, imprese, istituzioni** — e la piattaforma è **il tramite**: non presta e non raccoglie in proprio.
+**Opzione:** È un finanziamento online tra privati, fra chi cerca denaro e investitori quali cittadini, imprese e istituzioni; la piattaforma è il tramite che mette in contatto le due realtà.
+**Distrattori:**
+- È un finanziamento online tra privati, fra chi cerca denaro e investitori quali cittadini, imprese e istituzioni; la piattaforma raccoglie i fondi e concede essa stessa il prestito.
+- È un finanziamento online tra privati, fra chi cerca denaro e i soli investitori istituzionali autorizzati; la piattaforma è il tramite che mette in contatto le due realtà.
+- È un finanziamento online tra imprese, fra chi cerca denaro e investitori quali cittadini, imprese e istituzioni; la piattaforma è il tramite che mette in contatto le due realtà.
+
+**D:** A che cosa serve il P2P lending per un'impresa?
+**R:** «Attraverso il ricorso al P2P lending un'impresa riesce ad ottenere **liquidità** per **dar vita a un nuovo progetto** o per **rilanciarsi sul mercato**.» ⚠️ **Due** finalità alternative.
+**Opzione:** A ottenere liquidità per dar vita a un nuovo progetto o per rilanciarsi sul mercato.
+**Distrattori:**
+- A ottenere liquidità per dar vita a un nuovo progetto o per rimborsare i debiti bancari in scadenza.
+- A ottenere capitale di rischio per dar vita a un nuovo progetto o per rilanciarsi sul mercato.
+- A ottenere liquidità esclusivamente per dar vita a un nuovo progetto.
+
+**D:** ⚠️ Che cosa verifica la società di social lending sul richiedente, quanto alla sua identità?
+**R:** **Quattro** oggetti: «verificare l'**identità del richiedente**, il suo **conto bancario**, la sua **attività** e il suo **reddito**». ⚠️ Il docente si ferma a «verificano l'identità del richiedente»: l'elenco completo sta **solo sulla slide**.
+**Opzione:** L'identità del richiedente, il suo conto bancario, la sua attività e il suo reddito.
+**Distrattori:**
+- L'identità del richiedente, il suo conto bancario e il suo reddito.
+- L'identità del richiedente, il suo conto bancario, la sua attività e il suo patrimonio immobiliare.
+- L'identità del richiedente, la sua residenza fiscale, la sua attività e il suo reddito.
+
+**D:** ⚠️ Come verifica la piattaforma di social lending il merito creditizio del richiedente?
+**R:** «Verificare il **merito creditizio del richiedente** interrogando le **centrali rischi private** e **filtrando i richiedenti al di sotto di una soglia stabilita**.» ⚠️ Le centrali rischi sono **private**; il filtro elimina chi sta **al di sotto** di una **soglia stabilita**.
+**Opzione:** Interrogando le centrali rischi private e filtrando i richiedenti al di sotto di una soglia stabilita.
+**Distrattori:**
+- Interrogando le centrali rischi pubbliche e filtrando i richiedenti al di sotto di una soglia stabilita.
+- Interrogando le centrali rischi private e filtrando i richiedenti al di sopra di una soglia stabilita.
+- Interrogando le centrali rischi private e richiedendo in ogni caso una garanzia reale a copertura del prestito.
+
+**D:** ⚠️ In quali direzioni la piattaforma di social lending gestisce i flussi di pagamento?
+**R:** In **due direzioni opposte**: «al momento dell'**erogazione** del prestito (**dai prestatori al richiedente**) e durante il **rimborso** del prestito (**dal richiedente ai prestatori**, sotto forma di **rata ridistribuita ai prestatori nelle quote capitali e interessi di spettanza**)». ⚠️ Materiale da *segno invertito*: erogazione e rimborso hanno verso contrario.
+**Opzione:** Dai prestatori al richiedente al momento dell'erogazione, e dal richiedente ai prestatori durante il rimborso, come rata ridistribuita in quote capitali e interessi di spettanza.
+**Distrattori:**
+- Dal richiedente ai prestatori al momento dell'erogazione, e dai prestatori al richiedente durante il rimborso, come rata ridistribuita in quote capitali e interessi di spettanza.
+- Dai prestatori alla piattaforma al momento dell'erogazione, e dalla piattaforma ai prestatori durante il rimborso, come rata ridistribuita in quote capitali e interessi di spettanza.
+- Dai prestatori al richiedente al momento dell'erogazione, e dal richiedente ai prestatori durante il rimborso, come rimborso in un'unica soluzione a scadenza.
+
+**D:** ⚠️ Quali compiti della società di social lending il docente non nomina?
+**R:** Tre degli **otto** dell'elenco: l'**assistenza ai richiedenti durante il periodo del prestito** («ad esempio per l'**estinzione anticipata** del prestito e, nel caso di **ritardo nei pagamenti**, intraprendere **tutte le azioni necessarie verso di loro a tutela dei prestatori**»), l'**assicurare la compliance alle normative vigenti** e la **ricerca di nuovi prestatori e richiedenti con azioni di marketing**. ⚠️ Il docente comprime l'elenco a «verifiche di identità, meriti creditizi, modelli di credito, gestione di flussi di pagamento»: la **coda dell'elenco** sta solo sulla slide.
+**Opzione:** L'assistenza ai richiedenti durante il prestito, la compliance alle normative vigenti e la ricerca di nuovi prestatori e richiedenti con azioni di marketing.
+**Distrattori:**
+- L'assistenza ai richiedenti durante il prestito, la compliance alle normative vigenti e la determinazione del pricing dei prestiti.
+- La verifica del merito creditizio, la compliance alle normative vigenti e la ricerca di nuovi prestatori e richiedenti con azioni di marketing.
+- L'assistenza ai richiedenti durante il prestito, la custodia dei fondi dei prestatori e la ricerca di nuovi prestatori e richiedenti con azioni di marketing.
+
+**D:** ⚠️ Quale delibera segna il primo passaggio nazionale sul social lending, e che definizione dà?
+**R:** La **Delibera della Banca d'Italia n. 586 del 2016**: «il social lending (o **lending based crowdfunding**) è uno **strumento attraverso il quale una pluralità di soggetti può richiedere a una pluralità di potenziali finanziatori, tramite piattaforme on-line, fondi rimborsabili per uso personale o per finanziare un progetto**». ⚠️ La definizione è retta da **due pluralità** (chi chiede e chi finanzia), dai **fondi rimborsabili** e da **due** destinazioni alternative (**uso personale** o **finanziamento di un progetto**). ⚠️ Il **numero 586** sta **solo sulla slide**: il docente dice «la delibera della Banca d'Italia del 2016».
+**Opzione:** La Delibera della Banca d'Italia n. 586 del 2016: uno strumento con cui una pluralità di soggetti può richiedere a una pluralità di potenziali finanziatori, tramite piattaforme on-line, fondi rimborsabili per uso personale o per finanziare un progetto.
+**Distrattori:**
+- La Delibera della Banca d'Italia n. 586 del 2016: uno strumento con cui una pluralità di soggetti può richiedere a un unico finanziatore istituzionale, tramite piattaforme on-line, fondi rimborsabili per uso personale o per finanziare un progetto.
+- La Delibera della Banca d'Italia n. 586 del 2016: uno strumento con cui una pluralità di soggetti può richiedere a una pluralità di potenziali finanziatori, tramite piattaforme on-line, fondi a fondo perduto per uso personale o per finanziare un progetto.
+- La Delibera della Consob n. 18592 del 2013: uno strumento con cui una pluralità di soggetti può richiedere a una pluralità di potenziali finanziatori, tramite piattaforme on-line, fondi rimborsabili per uso personale o per finanziare un progetto.
+
+**D:** ⚠️ Che cosa chiarisce la delibera della Banca d'Italia sul social lending, e perché è decisivo?
+**R:** Che «il social lending **non costituisce raccolta di risparmio tra il pubblico**». ⚠️ È decisivo perché — spiega il docente — «altrimenti sarebbe un'**attività riservata alle banche**»: è la stessa riserva (**art. 11 TUB**) che alla lezione 13 sbarrava il *debt crowdfunding* in Italia.
+**Opzione:** Che il social lending non costituisce raccolta di risparmio tra il pubblico.
+**Distrattori:**
+- Che il social lending costituisce raccolta di risparmio tra il pubblico, ma è esentato dalla riserva bancaria.
+- Che il social lending non costituisce concessione di credito ai sensi dell'art. 11 TUB.
+- Che il social lending costituisce attività riservata ai soli intermediari finanziari iscritti all'albo.
+
+**D:** ⚠️ A quale forma di crowdfunding la slide riferisce la normativa specifica e organica introdotta dopo la delibera, e con quali fonti?
+**R:** All'***equity* crowdfunding**: «in seguito è stata introdotta una **normativa specifica e organica relativa all'equity crowdfunding**. Al riguardo sono essenziali le indicazioni fornite dall'apposito **Regolamento Consob n. 18592 del 2013** (con i suoi aggiornamenti), "**Regolamento sulla raccolta di capitali tramite portali on-line**". Rilevanti sulla materia anche gli **articoli 50-*quinquies* e 100-*ter* del Testo Unico della Finanza (TUF)**». ⚠️ **Salto di oggetto**: la frase sta dentro la sezione sul **social lending**, che è *lending-based*, ma rinvia alla disciplina dell'*equity*. Il docente **non** dice «equity»: parla di «una normativa specifica e organica». Sono le **stesse fonti** della lezione 13.
+**Opzione:** All'equity crowdfunding, con il Regolamento Consob n. 18592 del 2013 sulla raccolta di capitali tramite portali on-line e gli articoli 50-quinquies e 100-ter del TUF.
+**Distrattori:**
+- All'equity crowdfunding, con il Regolamento Consob n. 18592 del 2013 sulla raccolta di capitali tramite portali on-line e gli articoli 50-quinquies e 100-ter del TUB.
+- Al lending based crowdfunding, con il Regolamento Consob n. 18592 del 2013 sulla raccolta di capitali tramite portali on-line e gli articoli 50-quinquies e 100-ter del TUF.
+- All'equity crowdfunding, con il Regolamento Consob n. 18592 del 2016 sulla raccolta di capitali tramite portali on-line e gli articoli 50-quinquies e 100-ter del TUF.
+
+**D:** ⚠️ Quali sono i vantaggi del social lending elencati dalla slide?
+**R:** **Cinque**, nell'ordine: **①** «**riduzione dei costi di intermediazione**»; **②** «**riduzione dei costi operativi**»; **③** «**tasso di interesse percepito dal prestatore più favorevole** rispetto a quello proposto da **intermediari tradizionali**»; **④** «il **richiedente paga un tasso di interesse notevolmente più basso** rispetto ai tassi del **normale credito al consumo**»; **⑤** «**elevato livello di informazione** rispetto ai **progetti di finanziamento**». ⚠️ Le voci ③ e ④ sono una **coppia da non confondere**: la prima riguarda ciò che **percepisce il prestatore** (paragone con gli **intermediari tradizionali**), la seconda ciò che **paga il richiedente** (paragone con il **normale credito al consumo**).
+**Opzione:** Riduzione dei costi di intermediazione e dei costi operativi, tasso percepito dal prestatore più favorevole, tasso pagato dal richiedente notevolmente più basso del normale credito al consumo, elevato livello di informazione sui progetti.
+**Distrattori:**
+- Riduzione dei costi di intermediazione e dei costi operativi, tasso percepito dal prestatore più favorevole, tasso pagato dal richiedente notevolmente più basso dei finanziamenti a medio termine, elevato livello di informazione sui progetti.
+- Riduzione dei costi di intermediazione e dei costi operativi, tasso pagato dal prestatore più favorevole, tasso percepito dal richiedente notevolmente più basso del normale credito al consumo, elevato livello di informazione sui progetti.
+- Riduzione dei costi di intermediazione e dei costi operativi, tasso percepito dal prestatore più favorevole, tasso pagato dal richiedente notevolmente più basso del normale credito al consumo, garanzia pubblica sui progetti finanziati.
+
+**D:** ⚠️ Quali sono gli svantaggi del social lending elencati dalla slide?
+**R:** **Tre**: **①** «il **richiedente paga un tasso di interesse leggermente più altro** \[*sic*, per *più alto*] **rispetto ai finanziamenti a medio termine**»; **②** «**necessità di un monitoraggio periodico degli investimenti**»; **③** «**nessuna garanzia a protezione del prestatore contro rischio fallimento del richiedente**». ⚠️ Il primo svantaggio e il quarto vantaggio hanno lo **stesso soggetto** (*il richiedente*) ma **direzione e termine di paragone opposti**: più **basso** del *normale credito al consumo*, più **alto** dei *finanziamenti a medio termine*. Non è una contraddizione: i mercati di confronto sono **due**.
+**Opzione:** Il richiedente paga un tasso leggermente più alto dei finanziamenti a medio termine; la necessità di un monitoraggio periodico degli investimenti; nessuna garanzia a protezione del prestatore contro il rischio di fallimento del richiedente.
+**Distrattori:**
+- Il richiedente paga un tasso leggermente più alto del normale credito al consumo; la necessità di un monitoraggio periodico degli investimenti; nessuna garanzia a protezione del prestatore contro il rischio di fallimento del richiedente.
+- Il richiedente paga un tasso leggermente più alto dei finanziamenti a medio termine; la necessità di un monitoraggio periodico degli investimenti; nessuna garanzia a protezione del richiedente contro il rischio di insolvenza dei prestatori.
+- Il prestatore percepisce un tasso leggermente più basso dei finanziamenti a medio termine; la necessità di un monitoraggio periodico degli investimenti; nessuna garanzia a protezione del prestatore contro il rischio di fallimento del richiedente.
+
+**D:** ⚠️ Che rapporto c'è, secondo il docente, fra social lending e crowdfunding?
+**R:** Il social lending «è un **lending based crowdfunding**, quindi a tutti gli effetti **considerato un crowdfunding**», e va considerato «un po' **speculare all'investment based crowdfunding**». ⚠️ Non è un fenomeno parallelo o diverso: è **una delle due facce** del crowdfunding regolato dal Regolamento 2020/1503, che infatti include **entrambi** i tipi.
+
+**D:** ⚠️ Che cosa deve accadere, secondo il docente, perché il social lending «decolli» davvero?
+**R:** Deve «trovare il modo di **ovviare almeno a questi tre svantaggi**» della slide 16, «altrimenti rischierà sempre di essere come un'**automobile che viaggia in prima o in seconda e non riesce a prendere velocità**». Parallelamente «la regolamentazione che si svilupperà dovrà **agevolare senza timori e senza paure lo sviluppo di queste piattaforme**, tenendo sempre un occhio alla **tutela finale del consumatore, del cliente. Facile da dirsi, probabilmente meno facile da attuarsi**». ⚠️ Il docente lo dichiara espressamente come «la **mia opinione** basata sulla **mia esperienza**»: è materiale da orale, non una formula delle slide.
+
+**D:** ⚠️ Perché, secondo il docente, le definizioni del Regolamento sono così lunghe e difficili?
+**R:** Perché «questi sono gli **strumenti del sarto**, cioè sono gli strumenti per cui gli **avvocati studiano anni sui regolamenti** per cercare di interpretarli». La raccomandazione che ne trae è di non impararle a memoria ma di «**focalizzarvi sui termini chiave**». ⚠️ Osservazione di metodo, **solo nel transcript**.
+
+**D:** ⚠️ In che senso il credito nel social lending viene concesso «a cascata»?
+**R:** Perché dentro la piattaforma «iniziano ad attivarsi dei vari meccanismi — **verifiche di identità, meriti creditizi, modelli di credito, gestione di flussi di pagamento** — che in qualche modo **automatizzano, velocizzano e snelliscono la procedura di onboarding del cliente**». Da ciò la vera novità: poiché le piattaforme «offrono prestiti con dei **limiti di valore piuttosto bassi**», la velocità «molto spesso è **impressionante, cioè istantanea**: io faccio una richiesta e **viene immediatamente dato l'esito**». Il docente vi collega l'esperienza del **Covid**, quando le banche «**rallentate e soffocate dalle richieste**» e «**imbrigliate** in procedure interne molto lunghe» dovevano ritardare o negare, e le piattaforme «hanno proprio **supplito a questo problema**». ⚠️ Tutto **solo nel transcript**.
