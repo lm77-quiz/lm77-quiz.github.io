@@ -4423,3 +4423,321 @@
 
 **D:** ⚠️ In che senso il credito nel social lending viene concesso «a cascata»?
 **R:** Perché dentro la piattaforma «iniziano ad attivarsi dei vari meccanismi — **verifiche di identità, meriti creditizi, modelli di credito, gestione di flussi di pagamento** — che in qualche modo **automatizzano, velocizzano e snelliscono la procedura di onboarding del cliente**». Da ciò la vera novità: poiché le piattaforme «offrono prestiti con dei **limiti di valore piuttosto bassi**», la velocità «molto spesso è **impressionante, cioè istantanea**: io faccio una richiesta e **viene immediatamente dato l'esito**». Il docente vi collega l'esperienza del **Covid**, quando le banche «**rallentate e soffocate dalle richieste**» e «**imbrigliate** in procedure interne molto lunghe» dovevano ritardare o negare, e le piattaforme «hanno proprio **supplito a questo problema**». ⚠️ Tutto **solo nel transcript**.
+
+## Lezione 16 — Valute digitali, Crypto-assets e NFT (1)
+
+
+**D:** ⚠️ Quali sono le tre voci dell'agenda della lezione?
+**R:** **①** «**La qualificazione giuridica delle crypto-attività**»; **②** «**MiCA, la proposta della Commissione Europea per un Regolamento sulla commercializzazione delle Cripto-attività**»; **③** «**Unione Europea e Regno Unito: i prossimi passi nella regolazione delle crypto-attività**». ⚠️ L'agenda è ripetuta **identica** tre volte (slide 2, 9 e 16), una prima di ogni blocco.
+**Opzione:** La qualificazione giuridica; MiCA, la proposta della Commissione Europea per un Regolamento sulla commercializzazione delle Cripto-attività; Unione Europea e Regno Unito, i prossimi passi nella regolazione.
+**Distrattori:**
+- La qualificazione giuridica; MiCA, la proposta della Commissione Europea per un Regolamento sulla commercializzazione delle Cripto-attività; Stati Uniti e Regno Unito, i prossimi passi nella regolazione.
+- La qualificazione giuridica; MiCA, la direttiva del Parlamento Europeo sulla commercializzazione delle Cripto-attività; Unione Europea e Regno Unito, i prossimi passi nella regolazione.
+- La qualificazione fiscale; MiCA, la proposta della Commissione Europea per un Regolamento sulla commercializzazione delle Cripto-attività; Unione Europea e Regno Unito, i prossimi passi nella regolazione.
+
+**D:** ⚠️ Qual è la definizione di crypto-attività data dalla slide?
+**R:** «**Rappresentazione digitale di valore e di diritti che può essere trasferita registrata in formato elettronico, per mezzo dell'utilizzo della "tecnologia a registri distribuiti" (DLT) o di tecnologie similari**». ⚠️ L'oggetto è **doppio** — «di valore *e* di diritti» — e la coda «**o di tecnologie similari**» apre la definizione a tecniche diverse dalla DLT.
+**Opzione:** Rappresentazione digitale di valore e di diritti che può essere trasferita registrata in formato elettronico, per mezzo dell'utilizzo della tecnologia a registri distribuiti (DLT) o di tecnologie similari.
+**Distrattori:**
+- Rappresentazione digitale di valore e di diritti che può essere trasferita registrata in formato elettronico, per mezzo dell'utilizzo esclusivo della tecnologia a registri distribuiti (DLT).
+- Rappresentazione digitale di valore che può essere trasferita registrata in formato elettronico, per mezzo dell'utilizzo della tecnologia a registri distribuiti (DLT) o di tecnologie similari.
+- Rappresentazione digitale di valore e di diritti che può essere trasferita registrata in formato cartaceo o elettronico, per mezzo dell'utilizzo della tecnologia a registri distribuiti (DLT) o di tecnologie similari.
+
+**D:** ⚠️ Qual è la funzione degli utility tokens, nella formula letterale della slide?
+**R:** «**La funzione degli utility tokens non è quella di garantire un futuro profitto economico ma di garantire la disponibilità di certi diritti**». ⚠️ La frase è costruita come **negazione + sostituzione** («non… ma…»): il **profitto futuro** appartiene ai **securities/financial/investment tokens**, non agli utility. Capovolgere i due termini è il distrattore più naturale della lezione.
+**Opzione:** Non è quella di garantire un futuro profitto economico ma di garantire la disponibilità di certi diritti.
+**Distrattori:**
+- Non è quella di garantire la disponibilità di certi diritti ma di garantire un futuro profitto economico.
+- Non è quella di garantire un futuro profitto economico ma di garantire la stabilità del valore rispetto a una valuta avente corso legale.
+- È quella di garantire sia un futuro profitto economico sia la disponibilità di certi diritti.
+
+**D:** Come definisce la slide i currency/payment tokens?
+**R:** «**Si trattata** \[*sic*, per *Si tratta*] **di valute digitali o crypto-currencies, es. una sottocategoria di "valuta digitale", differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni**». ⚠️ Due punti letterali: la criptovaluta è una **sottocategoria** della valuta digitale, non un sinonimo; e l'uso di DLT e crittografia che la distingue riguarda **la fase di validazione ed autenticazione delle transazioni**, non l'intero ciclo di vita del token.
+**Opzione:** Valute digitali o crypto-currencies, una sottocategoria di valuta digitale, differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni.
+**Distrattori:**
+- Valute digitali o crypto-currencies, una categoria alternativa alla valuta digitale, differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni.
+- Valute digitali o crypto-currencies, una sottocategoria di valuta digitale, differente per via dell'uso della DLT e di strumenti crittografici nella fase di emissione e di rimborso dei token.
+- Valute digitali o crypto-currencies, una sottocategoria di moneta elettronica, differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni.
+
+**D:** ⚠️ Quali caratteristiche e funzioni delle valute tradizionali possono avere i currency/payment tokens?
+**R:** «**Possono avere le caratteristiche e le funzioni delle valute tradizionali: rappresentano strumenti di scambio, riserva di valore ed unità di conto**». ⚠️ Le funzioni monetarie sono **tre** e vanno elencate **per intero e nell'ordine**: **strumento di scambio**, **riserva di valore**, **unità di conto**. È un elenco a tre voci, quindi bersaglio tipico della **coda sostituita**. ⚠️ Il verbo è «**possono** avere», non «hanno».
+**Opzione:** Rappresentano strumenti di scambio, riserva di valore ed unità di conto.
+**Distrattori:**
+- Rappresentano strumenti di scambio, riserva di valore ed unità di misura del rischio.
+- Rappresentano strumenti di scambio, riserva di valore ed unità di conto garantite da una banca centrale.
+- Rappresentano strumenti di pagamento, mezzo di investimento ed unità di conto.
+
+**D:** Come definisce la slide i securities/financial/investment tokens?
+**R:** Con **due** proposizioni: «**Il loro valore è in genere collegato a quello di un valore mobiliare sottostante**» e «**La principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio**». ⚠️ Il quantificatore «**in genere**» attenua il collegamento; il sottostante è un **valore mobiliare** (il transcript lo storpia in «valore immobiliare»); e il profitto si realizza «**per mezzo del loro scambio**».
+**Opzione:** Il loro valore è in genere collegato a quello di un valore mobiliare sottostante e la principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio.
+**Distrattori:**
+- Il loro valore è sempre collegato a quello di un valore mobiliare sottostante e la principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio.
+- Il loro valore è in genere collegato a quello di un bene immobiliare sottostante e la principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio.
+- Il loro valore è in genere collegato a quello di un valore mobiliare sottostante e la principale funzione è quella di garantire la disponibilità di certi diritti sul sottostante.
+
+**D:** Che cosa sono i Non-Fungible Token (NFT), nella definizione della slide?
+**R:** «**Non-Fungible Token (NFT) sono una rappresentazione crittografica di valore con la specifica caratteristica di essere unica ed infungibile**». ⚠️ Il docente insiste: «Ricordatevi queste caratteristiche di **unicità e infungibilità**, perché anche nel regolamento MiCA… questi aspetti sono quelli che caratterizzano **l'esclusione o l'inclusione degli NFT nel perimetro regolamentare**».
+**Opzione:** Una rappresentazione crittografica di valore con la specifica caratteristica di essere unica ed infungibile.
+**Distrattori:**
+- Una rappresentazione crittografica di valore con la specifica caratteristica di essere unica e liberamente fungibile.
+- Una rappresentazione digitale di diritti con la specifica caratteristica di essere unica ed infungibile.
+- Una rappresentazione crittografica di valore con la specifica caratteristica di essere divisibile ed infungibile.
+
+**D:** ⚠️ Che cosa permettono di acquistare gli NFT, secondo la slide?
+**R:** «**Non permettono l'acquisto di un bene ma di una frazione di un diritto sul bene stesso ed è creata per mezzo della Blockchain. (es. non un'opera d'arte ma una sua parte)**». ⚠️ L'oggetto dell'acquisto è «**una frazione di un *diritto* sul bene**»: non il bene, e nemmeno una frazione *del bene*. La distinzione è di **due gradi**, ed entrambi sono materiale da distrattore.
+**Opzione:** Non un bene, ma una frazione di un diritto sul bene stesso.
+**Distrattori:**
+- Non un bene, ma una frazione del bene stesso.
+- Non una frazione di un diritto sul bene, ma il bene stesso nella sua interezza.
+- Non un bene, ma la piena proprietà di un diritto sul bene stesso.
+
+**D:** ⚠️ Che cosa sono gli art-utility/security tokens, e tramite che cosa avviene la raccolta?
+**R:** «**Tokens finalizzato** \[*sic*] **alla raccolta tramite ICOs per finanziare progetti artistici e quindi rappresentare/tenere i diritti relativi a tali progetti**». ⚠️ Sulla slide la raccolta avviene «**tramite ICOs**»; il docente dice invece «tramite **un'offerta pubblica**». Poiché le opzioni d'esame sono **citazioni letterali delle slide**, vale **ICOs**.
+**Opzione:** Token finalizzati alla raccolta tramite ICOs per finanziare progetti artistici e quindi rappresentare o tenere i diritti relativi a tali progetti.
+**Distrattori:**
+- Token finalizzati alla raccolta tramite offerta pubblica di acquisto per finanziare progetti artistici e quindi rappresentare o tenere i diritti relativi a tali progetti.
+- Token finalizzati alla raccolta tramite ICOs per finanziare progetti artistici, senza attribuire alcun diritto sui progetti finanziati.
+- Token finalizzati alla raccolta tramite collocamento privato riservato a investitori professionali per finanziare progetti artistici.
+
+**D:** ⚠️ Quale domanda regolamentare la slide abbina ai currency/payment tokens?
+**R:** «**Si stratta** \[*sic*] **di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della EMD2?**». ⚠️ Le direttive sono **due e distinte**: la **PSD2** per gli *strumenti di pagamento*, la **EMD2** per la *moneta elettronica*. ⚠️ L'ASR della lezione le storpia in «IMD2» e «MD2»: la sigla giusta è **EMD2**, *E-Money Directive 2*.
+**Opzione:** Si tratta di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della EMD2?
+**Distrattori:**
+- Si tratta di strumenti di pagamento ai sensi della EMD2? Sono e-money ai sensi della PSD2?
+- Si tratta di strumenti finanziari ai sensi della MiFID II? Sono titoli trasferibili? Sono prodotti finanziari?
+- Si tratta di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della IMD2?
+
+**D:** ⚠️ Quale domanda regolamentare la slide abbina ai securities/financial/investment tokens, e quale agli NFT?
+**R:** Ai **securities tokens**: «**Si tratta di strumenti finanziari ai sensi della MIFiD II? Are those financial instruments according to MiFID II? Titoli trasferibili? Prodotti finanziari?**» — è l'unica domanda **bilingue** del deck. Agli **NFT**: «**Sono diritti? Diritti di proprietà? Diritti di credito?**». ⚠️ Agli **utility tokens** è abbinata invece «**C'è bisogno di definizioni e regole specifiche?**». Il docente commenta gli NFT: «**Sono realmente diritti? E se sì, che diritti sono?** […] Complicato, **dibattito aperto, discorso mai chiuso, mai definito**».
+**Opzione:** Ai securities tokens la domanda se siano strumenti finanziari ai sensi della MiFID II, titoli trasferibili o prodotti finanziari; agli NFT la domanda se siano diritti, e se di proprietà o di credito.
+**Distrattori:**
+- Ai securities tokens la domanda se siano strumenti di pagamento ai sensi della PSD2 o e-money ai sensi della EMD2; agli NFT la domanda se siano diritti, e se di proprietà o di credito.
+- Ai securities tokens la domanda se siano strumenti finanziari ai sensi della MiFID II, titoli trasferibili o prodotti finanziari; agli NFT la domanda se occorrano definizioni e regole specifiche.
+- Ai securities tokens la domanda se occorrano definizioni e regole specifiche; agli NFT la domanda se siano strumenti finanziari ai sensi della MiFID II.
+
+**D:** ⚠️ Che anomalia presenta la slide 5 del deck 16, e come si risolve?
+**R:** I **due riquadri centrali hanno l'intestazione scambiata rispetto al contenuto**: sopra il testo dei **currency/payment tokens** («valute digitali o crypto-currencies… Bitcoin e stablecoin») sta l'intestazione «**Security/financial/investment tokens**», e sopra il testo dei **securities tokens** («il loro valore è in genere collegato a quello di un valore mobiliare sottostante») sta l'intestazione «**Currency/payment tokens**». Le **domande in calce seguono le intestazioni** e restano quindi **corrette** (MiFID II sotto *Security*, PSD2/EMD2 sotto *Currency*). L'abbinamento giusto è quello della **slide 3**, che il docente segue alla lettera: **currency/payment → PSD2 ed EMD2**, **securities → MiFID II**.
+
+**D:** ⚠️ A quali condizioni le crypto-attività rientrerebbero nel perimetro della PSD II e della EMD II?
+**R:** «**Per rientrare nel perimetro applicativo della PSD II e della EMD II, le crypto-attività dovrebbero essere qualificate quali "fondi" ai sensi della PSD II (es. "banconote e monete, denaro scritturale o elettronico") oppure "moneta elettronica" ai sensi della EMD II**». ⚠️ **Coppia soggetto + norma**: i «**fondi**» stanno nella **PSD II**, la «**moneta elettronica**» nella **EMD II**; scambiarle è il distrattore naturale. ⚠️ Gli esempi di «fondi» sono **tre**: banconote e monete, denaro **scritturale**, denaro **elettronico**.
+**Opzione:** Dovrebbero essere qualificate quali fondi ai sensi della PSD II, ad esempio banconote e monete o denaro scritturale o elettronico, oppure quali moneta elettronica ai sensi della EMD II.
+**Distrattori:**
+- Dovrebbero essere qualificate quali moneta elettronica ai sensi della PSD II, oppure quali fondi ai sensi della EMD II, ad esempio banconote e monete o denaro scritturale o elettronico.
+- Dovrebbero essere qualificate quali fondi ai sensi della PSD II, ad esempio le sole banconote e monete, oppure quali moneta elettronica ai sensi della EMD II.
+- Dovrebbero essere qualificate quali strumenti finanziari ai sensi della PSD II, oppure quali moneta elettronica ai sensi della EMD II.
+
+**D:** ⚠️ Qual è la definizione di moneta elettronica ai sensi della EMD II riportata dalla slide?
+**R:** «**Valore monetario memorizzato elettronicamente, anche magneticamente, rappresentato da un credito nei confronti dell'emittente che è emesso al ricevimento di fondi per effettuare operazioni di pagamento come definito all'articolo 4, punto 5, della direttiva 2007/64/CE, e che è accettato da una persona fisica o giuridica diversa dall'emittente di moneta elettronica**». ⚠️ Tre appigli: la memorizzazione è «elettronicamente, **anche magneticamente**»; il rinvio all'«**articolo 4, punto 5, della direttiva 2007/64/CE**» sta **solo sulla slide** ed è una tipica **coppia soggetto + norma**; e l'accettazione deve venire da un soggetto «**diverso dall'emittente**» — una **negazione** che, soppressa, ribalta la frase.
+**Opzione:** Valore monetario memorizzato elettronicamente, anche magneticamente, rappresentato da un credito nei confronti dell'emittente, emesso al ricevimento di fondi per effettuare operazioni di pagamento e accettato da una persona fisica o giuridica diversa dall'emittente di moneta elettronica.
+**Distrattori:**
+- Valore monetario memorizzato elettronicamente, anche magneticamente, rappresentato da un credito nei confronti dell'emittente, emesso al ricevimento di fondi per effettuare operazioni di pagamento e accettato dal solo emittente di moneta elettronica.
+- Valore monetario memorizzato esclusivamente su registri distribuiti, rappresentato da un credito nei confronti dell'emittente, emesso al ricevimento di fondi per effettuare operazioni di pagamento e accettato da una persona fisica o giuridica diversa dall'emittente.
+- Valore monetario memorizzato elettronicamente, anche magneticamente, rappresentato da un debito dell'emittente verso la banca centrale, emesso al ricevimento di fondi per effettuare operazioni di pagamento e accettato da una persona fisica o giuridica diversa dall'emittente.
+
+**D:** ⚠️ A quale condizione le crypto-attività rientrerebbero nel campo di applicazione della MiFID II/MiFIR, e che cosa se ne trascina dietro?
+**R:** «**Per rientrare nel campo di applicazione della MIFID II/MiFIR (ma quindi anche del regolamento sui prospetti, del regolamento sugli abusi di mercato…), le crypto-attività dovrebbero qualificarsi come "strumenti finanziari" secondo l'allegato I della MiFID II**». ⚠️ Il rinvio è all'**allegato I**, ed è una **coppia soggetto + norma**. ⚠️ La parentesi è un elenco **aperto** («…»): con la MiFID II verrebbero anche il **regolamento sui prospetti** e il **regolamento sugli abusi di mercato**.
+**Opzione:** Dovrebbero qualificarsi come strumenti finanziari secondo l'allegato I della MiFID II, il che trascinerebbe con sé anche il regolamento sui prospetti e il regolamento sugli abusi di mercato.
+**Distrattori:**
+- Dovrebbero qualificarsi come strumenti finanziari secondo l'allegato II della MiFID II, il che trascinerebbe con sé anche il regolamento sui prospetti e il regolamento sugli abusi di mercato.
+- Dovrebbero qualificarsi come valori mobiliari secondo l'allegato I del regolamento sui prospetti, il che trascinerebbe con sé anche la MiFID II e il regolamento sugli abusi di mercato.
+- Dovrebbero qualificarsi come strumenti finanziari secondo l'allegato I della MiFID II, senza però che ciò comporti l'applicazione di altri regolamenti settoriali.
+
+**D:** ⚠️ In quale Stato membro le crypto-attività sono già qualificate come strumenti finanziari, e che cosa sta considerando la Commissione europea?
+**R:** «**In Germania le crypto-attività sono qualificate quali strumenti finanziari**». E: «**La Commissione europea sta considerando di modificare la MiFID II per includere nel suo campo di applicazione i "securities tokens" (cioè i tokens il cui valore è legato a strumenti finanziari)**». ⚠️ Il verbo è «**sta considerando**»: sulla slide la modifica non è ancora una proposta adottata. ⚠️ I token da includere sono i **securities tokens**, definiti come quelli «il cui **valore è legato a strumenti finanziari**». Il docente aggiunge l'obiezione: «com'è possibile che esista una regolamentazione che ormai è **datata** per degli strumenti **nuovissimi**? Qualcosa non torna».
+**Opzione:** In Germania; e la Commissione europea sta considerando di modificare la MiFID II per includervi i securities tokens, cioè i token il cui valore è legato a strumenti finanziari.
+**Distrattori:**
+- In Francia; e la Commissione europea sta considerando di modificare la MiFID II per includervi i securities tokens, cioè i token il cui valore è legato a strumenti finanziari.
+- In Germania; e la Commissione europea ha già modificato la MiFID II per includervi i securities tokens, cioè i token il cui valore è legato a strumenti finanziari.
+- In Germania; e la Commissione europea sta considerando di modificare la MiFID II per includervi gli utility tokens, cioè i token che danno accesso a beni e servizi.
+
+**D:** ⚠️ Quali rischi elenca il comunicato di Consob e Banca d'Italia sull'operatività in cripto-attività?
+**R:** «**In assenza di un quadro regolamentare di riferimento, l'operatività in cripto-attività presenta rischi di diversa natura, tra cui: la scarsa disponibilità di informazioni in merito alle modalità di determinazione dei prezzi; la volatilità delle quotazioni; la complessità delle tecnologie sottostanti; l'assenza di tutele legali e contrattuali, di obblighi informativi da parte degli operatori e di specifiche forme di supervisione su tali operatori nonché di regole a salvaguardia delle somme impiegate**». ⚠️ I rischi sono **quattro**, e il quarto è a sua volta **quadruplo**: assenza di *tutele legali e contrattuali*, di *obblighi informativi*, di *specifiche forme di supervisione*, di *regole a salvaguardia delle somme impiegate*. ⚠️ L'elenco è **aperto** («**tra cui**»). ⚠️ La fonte è il «**Comunicato stampa della Consob e della Banca d'Italia, aprile 2021**»: il **mese** sta **solo sulla slide**, il docente dice genericamente «un comunicato stampa del 2021».
+**Opzione:** La scarsa disponibilità di informazioni sulle modalità di determinazione dei prezzi; la volatilità delle quotazioni; la complessità delle tecnologie sottostanti; l'assenza di tutele legali e contrattuali, di obblighi informativi, di forme di supervisione e di regole a salvaguardia delle somme impiegate.
+**Distrattori:**
+- La scarsa disponibilità di informazioni sulle modalità di determinazione dei prezzi; la volatilità delle quotazioni; la complessità delle tecnologie sottostanti; l'assenza di garanzia pubblica sui depositi e di un fondo di risoluzione dedicato.
+- La scarsa disponibilità di informazioni sulle modalità di determinazione dei prezzi; la stabilità eccessiva delle quotazioni; la complessità delle tecnologie sottostanti; l'assenza di tutele legali e contrattuali e di forme di supervisione.
+- L'ampia disponibilità di informazioni sulle modalità di determinazione dei prezzi; la volatilità delle quotazioni; la semplicità delle tecnologie sottostanti; l'assenza di tutele legali e contrattuali e di forme di supervisione.
+
+**D:** ⚠️ Chi ha parlato di «selvaggio West» a proposito delle criptovalute, in quale veste e quando? E quali leggi riteneva potessero essere coinvolte?
+**R:** «**Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021**». La citazione: «**In questo momento, non abbiamo abbastanza protezione per gli investitori nelle criptovalute. Francamente, in questo momento, è più come il selvaggio West. Il mondo della cripto finanza ha ora piattaforme dove le persone possono scambiare token e altre sedi dove le persone possono prestare token. Credo che queste piattaforme non solo possano coinvolgere le leggi sui titoli; alcune piattaforme possono anche coinvolgere le leggi sulle materie prime e le leggi bancarie**». ⚠️ **Il nome e il mese stanno solo sulla slide**: il docente dice «la Securities and Exchange Commission americana nel 2021». ⚠️ Le leggi sono **tre**: **titoli**, **materie prime**, **bancarie**. ⚠️ Il docente avverte che, a differenza del comunicato Consob/Banca d'Italia, «molti hanno letto in questo messaggio una sorta di **apertura**… **purché sottomesse alla normativa tradizionale**».
+**Opzione:** Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021; le leggi sui titoli, quelle sulle materie prime e quelle bancarie.
+**Distrattori:**
+- Gary Gensler, presidente della Federal Reserve, agosto 2021; le leggi sui titoli, quelle sulle materie prime e quelle bancarie.
+- Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021; le sole leggi sui titoli.
+- Gary Gensler, presidente della US Securities and Exchange Commission, aprile 2021; le leggi sui titoli, quelle fiscali e quelle bancarie.
+
+**D:** ⚠️ Come definisce le valute virtuali la direttiva 2018/843/UE (AMLD V)?
+**R:** «**Una rappresentazione digitale di valore che non è emessa o garantita da una banca centrale o da un'autorità pubblica, non è necessariamente collegata a una valuta legalmente stabilita e non possiede uno status giuridico di valuta o denaro, ma è accettata da persone fisiche o giuridiche come mezzo di scambio e che può essere trasferita, memorizzata e scambiata elettronicamente**». ⚠️ Da tenere **distinta** dalla definizione **nazionale** del D.Lgs. 125/2019: solo quella europea contiene la clausola «**non possiede uno status giuridico di valuta o denaro**», e solo quella nazionale estende la funzione «**o a fini di investimento**».
+**Opzione:** Una rappresentazione digitale di valore non emessa né garantita da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta legalmente stabilita e priva di status giuridico di valuta o denaro, ma accettata come mezzo di scambio e trasferibile, memorizzabile e scambiabile elettronicamente.
+**Distrattori:**
+- Una rappresentazione digitale di valore emessa o garantita da una banca centrale o da un'autorità pubblica, collegata a una valuta legalmente stabilita e dotata di status giuridico di valuta o denaro, accettata come mezzo di scambio e trasferibile elettronicamente.
+- Una rappresentazione digitale di valore non emessa né garantita da una banca centrale o da un'autorità pubblica, necessariamente collegata a una valuta legalmente stabilita, ma priva di status giuridico di valuta o denaro.
+- Una rappresentazione digitale di valore non emessa né garantita da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una valuta legalmente stabilita, accettata come mezzo di scambio per l'acquisto di beni e servizi o a fini di investimento.
+
+**D:** ⚠️ Che cosa richiede la direttiva AMLD V agli Stati membri in materia di valute virtuali?
+**R:** «**La Direttiva AMLD V richiede agli Stati Membri di assicurare che i fornitori di servizi di scambio tra valute virtuali e valute fiat ed i fornitori di portafogli depositari siano registrati o autorizzati**». ⚠️ I soggetti sono **due**: i **fornitori di servizi di scambio** *e* i **fornitori di portafogli depositari**. ⚠️ L'esito è alternativo — «**registrati *o* autorizzati**» —, non cumulativo e non limitato alla sola registrazione.
+**Opzione:** Di assicurare che i fornitori di servizi di scambio tra valute virtuali e valute fiat e i fornitori di portafogli depositari siano registrati o autorizzati.
+**Distrattori:**
+- Di assicurare che i soli fornitori di servizi di scambio tra valute virtuali e valute fiat siano registrati o autorizzati.
+- Di assicurare che i fornitori di servizi di scambio tra valute virtuali e valute fiat e i fornitori di portafogli depositari siano registrati e contestualmente autorizzati dalla banca centrale nazionale.
+- Di assicurare che i fornitori di servizi di scambio tra valute virtuali e valute fiat e i fornitori di portafogli depositari siano iscritti in un registro tenuto dalla Commissione europea.
+
+**D:** ⚠️ In che senso la definizione nazionale di valuta virtuale amplia quella della AMLD V?
+**R:** La definizione del **D.Lgs. n. 125/2019** è «**la rappresentazione digitale di valore, non emessa o garantita da una banca centrale o da un'autorità pubblica, non necessariamente collegata a una moneta a corso legale, utilizzata come mezzo di scambio per l'acquisto di beni e servizi *o a fini di investimento* e trasferita, memorizzata e negoziata elettronicamente**». ⚠️ **L'ampliamento sta nell'estensione ai fini di investimento**, come conferma il richiamo a margine della slide: «**Non solo per gli scambi ma anche per gli investimenti**». ⚠️ Il docente legge **solo** questa definizione, non quella europea.
+**Opzione:** Perché estende la funzione oltre il mezzo di scambio per l'acquisto di beni e servizi, fino a comprendere anche i fini di investimento.
+**Distrattori:**
+- Perché estende la definizione anche alle rappresentazioni digitali di valore emesse o garantite da una banca centrale.
+- Perché estende la definizione anche alle valute virtuali collegate a una moneta a corso legale.
+- Perché estende la definizione anche ai token che attribuiscono un diritto di proprietà su un bene analogico.
+
+**D:** ⚠️ Quali obblighi gravano in Italia sui fornitori di servizi di scambio di valute digitali?
+**R:** Sono **due**: **i.** «**Comunicare al Ministero dell'Economia l'inizio delle attività**»; **ii.** «**Registrarsi in una sezione speciale dell'elenco degli ufficiali di cambio presso l'Organismo Agenti e Mediatori ("OAM")**». ⚠️ L'elenco è **aperto** («devono, **tra l'altro**»). ⚠️ Il docente nomina **solo il secondo**: la **comunicazione al Ministero dell'Economia** è la **coda dell'elenco** che sta solo sulla slide — bersaglio classico.
+**Opzione:** Comunicare al Ministero dell'Economia l'inizio delle attività e registrarsi in una sezione speciale dell'elenco degli ufficiali di cambio presso l'Organismo Agenti e Mediatori.
+**Distrattori:**
+- Comunicare alla Banca d'Italia l'inizio delle attività e registrarsi in una sezione speciale dell'elenco degli ufficiali di cambio presso l'Organismo Agenti e Mediatori.
+- Registrarsi in una sezione speciale dell'elenco degli ufficiali di cambio presso l'Organismo Agenti e Mediatori, senza altri adempimenti.
+- Comunicare al Ministero dell'Economia l'inizio delle attività e registrarsi in una sezione speciale dell'albo dei mediatori creditizi tenuto dalla Consob.
+
+**D:** ⚠️ Quali sono i quattro obiettivi del MiCA secondo la slide?
+**R:** **①** «**consentire e sostenere ulteriormente il potenziale della finanza digitale in termini di innovazione e concorrenza, mitigandone i rischi**»; **②** «**rafforzare la fiducia degli investitori offrendo loro le stesse garanzie offerte nei mercati finanziari tradizionali**»; **③** «**offrire alle imprese FinTech un quadro giuridico chiaro da rispettare nello sviluppo delle loro attività**»; **④** «**superare il diverso approccio dei legislatori nazionali**». ⚠️ Ogni obiettivo ha una **coda** sostituibile: «in termini di **innovazione e concorrenza**, **mitigandone i rischi**»; «le **stesse** garanzie dei **mercati finanziari tradizionali**»; «un quadro giuridico **chiaro**».
+**Opzione:** Consentire e sostenere il potenziale della finanza digitale in termini di innovazione e concorrenza mitigandone i rischi; rafforzare la fiducia degli investitori offrendo le stesse garanzie dei mercati finanziari tradizionali; offrire alle imprese FinTech un quadro giuridico chiaro; superare il diverso approccio dei legislatori nazionali.
+**Distrattori:**
+- Consentire e sostenere il potenziale della finanza digitale in termini di innovazione e concorrenza mitigandone i rischi; rafforzare la fiducia degli investitori offrendo garanzie più ampie di quelle dei mercati finanziari tradizionali; offrire alle imprese FinTech un quadro giuridico chiaro; superare il diverso approccio dei legislatori nazionali.
+- Consentire e sostenere il potenziale della finanza digitale in termini di innovazione e concorrenza mitigandone i rischi; rafforzare la fiducia degli investitori offrendo le stesse garanzie dei mercati finanziari tradizionali; offrire alle imprese FinTech un quadro giuridico chiaro; armonizzare la fiscalità diretta sulle cripto-attività.
+- Eliminare i rischi della finanza digitale rinunciando all'innovazione; rafforzare la fiducia degli investitori offrendo le stesse garanzie dei mercati finanziari tradizionali; offrire alle imprese FinTech un quadro giuridico chiaro; superare il diverso approccio dei legislatori nazionali.
+
+**D:** ⚠️ Come qualifica la slide il MiCA, e con quale data?
+**R:** Come «**Proposta di un nuovo Regolamento sulla commercializzazione di crypto-attività (MiCA)**» del «**Settembre 2020**», parte del «**Pacchetto sulla finanza Digitale**». ⚠️ **Il docente lo aggiorna a voce** — «ha visto la sua versione **definitiva e approvata e finale** proprio in questi giorni» — ma le opzioni d'esame sono **citazioni letterali delle slide**: vale **«proposta», settembre 2020**.
+**Opzione:** Come proposta di un nuovo Regolamento sulla commercializzazione di crypto-attività, del settembre 2020, parte del Pacchetto sulla finanza digitale.
+**Distrattori:**
+- Come regolamento già approvato e in vigore dal settembre 2020, parte del Pacchetto sulla finanza digitale.
+- Come proposta di una nuova Direttiva sulla commercializzazione di crypto-attività, del settembre 2020, parte del Pacchetto sulla finanza digitale.
+- Come proposta di un nuovo Regolamento sulla commercializzazione di crypto-attività, del settembre 2018, parte del Piano d'azione FinTech.
+
+**D:** ⚠️ Qual è la definizione di crypto-attività data dal MiCAR, e in che cosa differisce da quella generale?
+**R:** «**Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, attraverso l'utilizzo della tecnologia a registry** \[*sic*, per *registri*] **distribuiti o tecnologie similari**». ⚠️ Rispetto alla definizione generale della slide 3 cambiano **due** cose: la congiunzione («di valore **o** di diritti», non *e di*) e i verbi («**trasferita ed immagazzinata**», non *trasferita registrata*). All'esame vale la formula del riquadro che la domanda cita.
+**Opzione:** Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, attraverso l'utilizzo della tecnologia a registri distribuiti o tecnologie similari.
+**Distrattori:**
+- Rappresentazione digitale di valore e di diritti suscettibile di essere trasferita e registrata elettronicamente, attraverso l'utilizzo della tecnologia a registri distribuiti o tecnologie similari.
+- Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, attraverso l'utilizzo esclusivo della tecnologia a registri distribuiti.
+- Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, purché emessa da un soggetto autorizzato e vigilato.
+
+**D:** ⚠️ Che cos'è un asset-referenced token secondo il MiCAR?
+**R:** «**Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat che hanno corso legale, una o più materie prime o uno o più crypto-attività, o una combinazione di tali attività**». ⚠️ Il riferimento è a un **paniere**: «*diverse* valute fiat», «*una o più* materie prime», «*uno o più* crypto-attività», «*una combinazione*». È questo — **quante** e **quali** grandezze di riferimento — l'asse che lo separa dal **token di denaro elettronico**, che guarda a **una sola** valuta fiat.
+**Opzione:** Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat aventi corso legale, di una o più materie prime, di una o più crypto-attività, o di una combinazione di tali attività.
+**Distrattori:**
+- Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di una sola valuta fiat avente corso legale.
+- Un tipo di crypto-attività che garantisce il mantenimento di un valore stabile facendo riferimento al valore di diverse valute fiat aventi corso legale, di una o più materie prime o di una o più crypto-attività.
+- Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio disponibile su DLT, il cui valore segue quello di un paniere di attività sottostanti.
+
+**D:** ⚠️ Che cos'è un token di denaro elettronico secondo il MiCAR, e che cosa lo distingue dall'asset-referenced token?
+**R:** «**Un tipo di crypto-attività il cui scopo principale è quello di essere utilizzato come mezzo di scambio e che pretende di mantenere un valore stabile facendo riferimento al valore di una valuta fiat che ha corso legale**». ⚠️ Lo distinguono **due** elementi: lo **scopo principale** di **mezzo di scambio** (che l'ART non ha) e il riferimento a **una sola** valuta fiat (contro il paniere dell'ART). ⚠️ Il verbo «**pretende** di mantenere un valore stabile» è **comune a entrambi** e quindi **non discrimina**.
+**Opzione:** È un tipo di crypto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che pretende di mantenere un valore stabile facendo riferimento al valore di una valuta fiat avente corso legale.
+**Distrattori:**
+- È un tipo di crypto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat aventi corso legale.
+- È un tipo di crypto-attività il cui scopo principale è garantire un profitto finanziario futuro e che pretende di mantenere un valore stabile facendo riferimento al valore di una valuta fiat avente corso legale.
+- È un tipo di crypto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che garantisce la conversione alla pari in una valuta fiat avente corso legale.
+
+**D:** ⚠️ Che cos'è un utility token secondo il MiCAR?
+**R:** «**Un tipo di crypto-attività che è destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed è accettato solo dall'emittente di quel token**». ⚠️ Il quantificatore «**solo dall'emittente di quel token**» **è parte del testo**: toglierlo falsa la definizione tanto quanto aggiungerne uno inventato altrove. È il caso raro di un «solo» **autentico**, da non scambiare per una *restrizione dell'ambito* inventata dal distrattore.
+**Opzione:** Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed accettato solo dall'emittente di quel token.
+**Distrattori:**
+- Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed accettato da qualunque operatore aderente alla piattaforma.
+- Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed accettato solo dagli investitori professionali.
+- Un tipo di crypto-attività destinato a garantire un futuro profitto economico su un bene o servizio disponibile su DLT, accettato solo dall'emittente di quel token.
+
+**D:** ⚠️ Quali sono le quattro categorie che compongono l'ambito di applicazione del MiCAR?
+**R:** **①** «**Emittenti di cripto-asset diversi da Asset-referenced token e token di moneta elettronica**»; **②** «**Emittenti di asset-referenced tokens**»; **③** «**Emittenti di tokens di moneta elettronica**»; **④** «**Fornitori di servizi di criptovalute**». ⚠️ **È il punto più fraintendibile della lezione**: gli emittenti di **ART** e di **EMT** **rientrano**, avendo una categoria propria. Ciò che resta **fuori** «perché già regolato da altre leggi dell'UE» sono «**strumenti finanziari, moneta elettronica, depositi, depositi strutturati e cartolarizzazioni**». Il docente, riassumendo a voce, lascia intendere il contrario: vale la slide.
+**Opzione:** Emittenti di cripto-asset diversi da asset-referenced token e token di moneta elettronica; emittenti di asset-referenced tokens; emittenti di tokens di moneta elettronica; fornitori di servizi di criptovalute.
+**Distrattori:**
+- Emittenti di cripto-asset diversi da asset-referenced token e token di moneta elettronica; emittenti di strumenti finanziari; emittenti di moneta elettronica; fornitori di servizi di criptovalute.
+- Emittenti di asset-referenced tokens; emittenti di tokens di moneta elettronica; fornitori di servizi di criptovalute; gestori di sedi di negoziazione di strumenti finanziari.
+- Emittenti di cripto-asset diversi da asset-referenced token e token di moneta elettronica; emittenti di depositi strutturati; emittenti di cartolarizzazioni; fornitori di servizi di criptovalute.
+
+**D:** ⚠️ Su quali due modelli normativi il MiCAR costruisce le sue regole rilevanti?
+**R:** Su **due** e distinti: le «**Disposizioni sull'offerta e commercializzazione di cryptovalute**» sono «**disposizioni simi** \[*sic*, per *simili*] **a quelle del "Regolamento Prospetto"**»; le «**Disposizioni sulla fornitura di servizi di criptovalute**» seguono «**regole simili a quelle della MiFID II**». ⚠️ È una **matrice a due assi** — *oggetto* (offerta ↔ servizi) × *modello* (Prospetto ↔ MiFID II) —: scambiare i due rinvii è il distrattore naturale. Il docente conferma: il MiCA «di fatto **mutua il regolamento prospetti**» per l'offerta.
+**Opzione:** L'offerta e commercializzazione di criptovalute segue disposizioni simili a quelle del Regolamento Prospetto; la fornitura di servizi di criptovalute segue regole simili a quelle della MiFID II.
+**Distrattori:**
+- L'offerta e commercializzazione di criptovalute segue regole simili a quelle della MiFID II; la fornitura di servizi di criptovalute segue disposizioni simili a quelle del Regolamento Prospetto.
+- L'offerta e commercializzazione di criptovalute segue disposizioni simili a quelle del Regolamento Prospetto; la fornitura di servizi di criptovalute segue regole simili a quelle della PSD2.
+- Sia l'offerta e commercializzazione sia la fornitura di servizi di criptovalute seguono disposizioni simili a quelle del Regolamento Prospetto.
+
+**D:** Quali servizi di criptovalute elenca la slide fra le regole rilevanti del MiCAR?
+**R:** «**La custodia e l'amministrazione di criptovalute, la gestione di una piattaforma di trading di criptovalute, lo scambio di criptovalute con valuta fiat che ha corso legale o con altre criptovalute, l'esecuzione e la ricezione e trasmissione di ordini su criptovalute, la consulenza su criptovalute, il collocamento di criptovalute**». ⚠️ Sono **sei** voci, e lo **scambio** ha **due** oggetti alternativi — contro **valuta fiat** avente corso legale **o** contro **altre criptovalute**.
+**Opzione:** Custodia e amministrazione; gestione di una piattaforma di trading; scambio con valuta fiat avente corso legale o con altre criptovalute; esecuzione, ricezione e trasmissione di ordini; consulenza; collocamento.
+**Distrattori:**
+- Custodia e amministrazione; gestione di una piattaforma di trading; scambio con la sola valuta fiat avente corso legale; esecuzione, ricezione e trasmissione di ordini; consulenza; collocamento.
+- Custodia e amministrazione; gestione di una piattaforma di trading; scambio con valuta fiat avente corso legale o con altre criptovalute; esecuzione, ricezione e trasmissione di ordini; consulenza; concessione di finanziamenti garantiti da criptovalute.
+- Custodia e amministrazione; emissione di criptovalute per conto di terzi; scambio con valuta fiat avente corso legale o con altre criptovalute; esecuzione, ricezione e trasmissione di ordini; consulenza; collocamento.
+
+**D:** ⚠️ Che cosa devono assicurare gli emittenti di asset referenced-tokens ai sensi dell'articolo 33 MiCA?
+**R:** Essi «**stabiliscono, mantengono e implementano politiche di custodia e accordi contrattuali**» che assicurano che «**(a) le attività di riserva sono segregate dalle attività proprie degli emittenti**»; «**(b) le attività di riserva non sono gravate da vincoli né date in pegno**»; «**(c) gli emittenti di asset-referenced tokens hanno rapido accesso alle attività di riserva per soddisfare eventuali richieste di rimborso da parte dei titolari di asset-referenced tokens**». ⚠️ I verbi dell'incipit sono **tre** e gli oggetti **due**. ⚠️ Se l'emittente emette «**due o più categorie di attività referenziate**», deve avere «**una politica di custodia per ogni riserva di attività**», non una sola complessiva.
+**Opzione:** Che le attività di riserva siano segregate da quelle proprie degli emittenti, che non siano gravate da vincoli né date in pegno e che gli emittenti abbiano rapido accesso ad esse per soddisfare eventuali richieste di rimborso dei titolari.
+**Distrattori:**
+- Che le attività di riserva siano segregate da quelle proprie degli emittenti, che possano essere date in pegno a garanzia delle richieste di rimborso e che gli emittenti abbiano rapido accesso ad esse.
+- Che le attività di riserva siano segregate da quelle proprie degli emittenti, che non siano gravate da vincoli né date in pegno e che i titolari abbiano accesso diretto ad esse in caso di insolvenza dell'emittente.
+- Che le attività di riserva siano conferite in un patrimonio destinato presso la banca centrale, che non siano gravate da vincoli né date in pegno e che gli emittenti abbiano rapido accesso ad esse.
+
+**D:** ⚠️ Da chi sono tenuti in custodia gli asset-referenced tokens?
+**R:** Da «**(a) un fornitore di servizi di cripto-asset in cui le attività di riserva assumono la forma di cripto-asset**; **(b) un istituto di credito per tutti gli altri tipi di attività di riserva**». ⚠️ È una **matrice 2×2**: *forma della riserva* (cripto-asset ↔ ogni altra) × *custode* (**fornitore di servizi di cripto-asset** ↔ **istituto di credito**). Invertire i due abbinamenti è il distrattore naturale.
+**Opzione:** Da un fornitore di servizi di cripto-asset quando le attività di riserva assumono la forma di cripto-asset, e da un istituto di credito per tutti gli altri tipi di attività di riserva.
+**Distrattori:**
+- Da un istituto di credito quando le attività di riserva assumono la forma di cripto-asset, e da un fornitore di servizi di cripto-asset per tutti gli altri tipi di attività di riserva.
+- Da un fornitore di servizi di cripto-asset quando le attività di riserva assumono la forma di cripto-asset, e dalla banca centrale nazionale per tutti gli altri tipi di attività di riserva.
+- Sempre e in ogni caso da un istituto di credito, qualunque sia la forma assunta dalle attività di riserva.
+
+**D:** ⚠️ Che cosa significa «custodia e amministrazione di cripto-asset per conto di terzi» ai sensi dell'articolo 67 MiCA?
+**R:** «**Custodire o controllare, per conto di terzi, cripto-asset o i mezzi di accesso a tali cripto-asset, eventualmente sotto forma di chiavi crittografiche private**». ⚠️ L'oggetto è **alternativo**: i cripto-asset **o** i **mezzi di accesso** ad essi; e le chiavi crittografiche private sono una forma **eventuale**, non necessaria. ⚠️ **Coppia soggetto + norma** da non confondere: l'**art. 67** riguarda i **prestatori** dei servizi di custodia, l'**art. 33** gli **emittenti** di asset-referenced tokens.
+**Opzione:** Custodire o controllare, per conto di terzi, cripto-asset o i mezzi di accesso a tali cripto-asset, eventualmente sotto forma di chiavi crittografiche private.
+**Distrattori:**
+- Custodire o controllare, per conto di terzi, i soli mezzi di accesso ai cripto-asset, necessariamente sotto forma di chiavi crittografiche private.
+- Custodire o controllare, per conto proprio, cripto-asset o i mezzi di accesso a tali cripto-asset, eventualmente sotto forma di chiavi crittografiche private.
+- Amministrare, per conto di terzi, portafogli di cripto-asset su mandato discrezionale conferito dal cliente per ogni singola operazione.
+
+**D:** ⚠️ Di che cosa rispondono i prestatori dei servizi di custodia verso i loro clienti, e entro quale limite?
+**R:** «**Sono responsabili nei confronti dei loro clienti per la perdita di cripto-asset come risultato di un malfunzionamento o hack fino al valore di mercato dei cripto-asset persi**». ⚠️ I presupposti sono **due** (**malfunzionamento *o* hack**) e il limite è un **tetto**: «**fino al valore di mercato dei cripto-asset persi**». ⚠️ Gli altri obblighi dell'art. 67: **accordo scritto** con i clienti che specifichi doveri e responsabilità; **registro delle posizioni aperto a nome di ogni cliente**; **politica di custodia con regole interne**; **separazione** delle partecipazioni dei clienti da quelle proprie.
+**Opzione:** Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, fino al valore di mercato dei cripto-asset persi.
+**Distrattori:**
+- Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, senza alcun limite di importo.
+- Della perdita di cripto-asset risultante dal solo hack, fino al valore di mercato dei cripto-asset persi.
+- Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, fino al valore di acquisto dei cripto-asset persi.
+
+**D:** ⚠️ Quali sono i cinque prossimi passi dell'Unione Europea nella regolazione delle crypto-attività?
+**R:** **①** «**Adozione ed implementazione della MiCAR**»; **②** «**Revisione delle regole esistenti sui mercati finanziari per allineamenti formali e sostanziali con il MiCAR**»; **③** «**Revisione della MiFID II/MiFIR per includere nuovi tipi di mercati, servizi e prodotti digitali**»; **④** «**Revisione delle norme esistenti sui mercati finanziari per prendere in considerazione lo sviluppo delle nuove tecnologie digitali (AML/CFT, CRD/CRR, regolamento sui prospetti)**»; **⑤** «**Adozione di nuove regole sui mercati finanziari per prendere in considerazione lo sviluppo delle nuove tecnologie digitali (es. DORA)**». ⚠️ Le ultime due voci sono una **matrice**: *revisione* dell'**esistente** (AML/CFT, CRD/CRR, prospetti) contro *adozione* del **nuovo** (DORA). Il verbo è l'asse discriminante. ⚠️ La slide chiude l'elenco con un riquadro proprio: «**Superamento delle specificità nazionali**» — che il docente commenta così: «se l'intento del MiCAR è **l'armonizzazione, tale deve essere**».
+**Opzione:** Adozione e implementazione della MiCAR; revisione delle regole esistenti per allinearle al MiCAR; revisione della MiFID II e del MiFIR per i nuovi mercati, servizi e prodotti digitali; revisione delle norme esistenti come AML/CFT, CRD/CRR e regolamento sui prospetti; adozione di nuove regole come DORA.
+**Distrattori:**
+- Adozione e implementazione della MiCAR; revisione delle regole esistenti per allinearle al MiCAR; revisione della MiFID II e del MiFIR per i nuovi mercati, servizi e prodotti digitali; adozione di nuove norme come AML/CFT, CRD/CRR e regolamento sui prospetti; revisione di regole esistenti come DORA.
+- Adozione e implementazione della MiCAR; revisione delle regole esistenti per allinearle al MiCAR; revisione della PSD2 e della EMD2 per i nuovi mercati, servizi e prodotti digitali; revisione delle norme esistenti come AML/CFT, CRD/CRR e regolamento sui prospetti; adozione di nuove regole come DORA.
+- Adozione e implementazione della MiCAR; abrogazione delle regole esistenti sui mercati finanziari incompatibili con il MiCAR; revisione della MiFID II e del MiFIR per i nuovi mercati, servizi e prodotti digitali; revisione delle norme AML/CFT, CRD/CRR e del regolamento sui prospetti; adozione di nuove regole come DORA.
+
+**D:** ⚠️ Qual è l'oggetto del regolamento DORA secondo la slide?
+**R:** «**Il regolamento DORA stabilisce requisiti uniformi riguardanti: la sicurezza della rete e dei sistemi informativi che supportano i processi aziendali delle entità finanziarie: (a) requisiti applicabili alle entità finanziarie in relazione alla gestione del rischio delle tecnologie dell'informazione e della comunicazione (ICT); (b) requisiti in relazione agli accordi contrattuali conclusi tra fornitori terzi di servizi ICT ed enti finanziari; (c) il quadro di supervisione per i fornitori terzi di servizi ICT critici quando forniscono servizi a entità finanziarie**». ⚠️ L'aggettivo «**critici**» restringe l'ambito della **sola lettera (c)**: in (b) i fornitori terzi non sono qualificati. ⚠️ **DORA non è una norma cripto**: si applica a tutte le entità finanziarie, i prestatori di servizi in crypto-asset compresi.
+**Opzione:** Requisiti per le entità finanziarie sulla gestione del rischio ICT; requisiti sugli accordi contrattuali fra fornitori terzi di servizi ICT ed enti finanziari; il quadro di supervisione per i fornitori terzi di servizi ICT critici.
+**Distrattori:**
+- Requisiti per le entità finanziarie sulla gestione del rischio ICT; requisiti sugli accordi contrattuali fra fornitori terzi di servizi ICT critici ed enti finanziari; il quadro di supervisione per tutti i fornitori terzi di servizi ICT.
+- Requisiti per le sole entità finanziarie che prestano servizi in crypto-asset sulla gestione del rischio ICT; requisiti sugli accordi contrattuali fra fornitori terzi di servizi ICT ed enti finanziari; il quadro di supervisione per i fornitori terzi di servizi ICT critici.
+- Requisiti per le entità finanziarie sulla gestione del rischio di credito e di mercato; requisiti sugli accordi contrattuali fra fornitori terzi di servizi ICT ed enti finanziari; il quadro di supervisione per i fornitori terzi di servizi ICT critici.
+
+**D:** ⚠️ Quali regole detta il regolamento DORA?
+**R:** **Quattro**: «**Requisiti di governance e organizzativi per applicare la gestione del rischio ICT**»; «**Gestione, classificazione e segnalazione degli incidenti legati all'ICT**»; «**Gestione del rischio ICT verso terze parti**»; «**Information sharing arrangements**». ⚠️ La seconda regola ha **tre** verbi in fila e la **segnalazione** è la **coda dell'elenco**: bersaglio tipico. ⚠️ La slide segnala anche la «**sovrapposizione con le norme relative a diversi settori finanziari** su governance, outsourcing, gestione del rischio, requisiti organizzativi (**MiFID2/MiFIR, AIFMD, CRD4, PSD2, EMD2…**)».
+**Opzione:** Requisiti di governance e organizzativi per la gestione del rischio ICT; gestione, classificazione e segnalazione degli incidenti ICT; gestione del rischio ICT verso terze parti; accordi di condivisione delle informazioni.
+**Distrattori:**
+- Requisiti di governance e organizzativi per la gestione del rischio ICT; gestione e classificazione degli incidenti ICT, senza obbligo di segnalazione; gestione del rischio ICT verso terze parti; accordi di condivisione delle informazioni.
+- Requisiti di governance e organizzativi per la gestione del rischio ICT; gestione, classificazione e segnalazione degli incidenti ICT; gestione del rischio ICT verso terze parti; requisiti prudenziali di capitale a fronte del rischio informatico.
+- Requisiti patrimoniali minimi a fronte del rischio ICT; gestione, classificazione e segnalazione degli incidenti ICT; gestione del rischio ICT verso terze parti; accordi di condivisione delle informazioni.
+
+**D:** ⚠️ Nel Regno Unito, quali token sono regolati e in forza di quale fonte? E quali restano non regolati?
+**R:** **Regolati**: «**Security tokens: che si qualificano come "Investimento Specifico" secondo il Regulated Activities Order ("RAO")**» e «**Tokens di moneta elettronica: che si qualificano come moneta elettronica secondo i regolamenti sulla moneta elettronica (EMRs)**». **Non regolati**: «**Tutti i token che non rientrano nella definizione di token di sicurezza e moneta elettronica, come token di utilità e criptovalute**». ⚠️ **Coppia soggetto + norma** da tenere distinta: **security tokens → RAO**, **token di moneta elettronica → EMRs**; scambiarle è il distrattore naturale.
+**Opzione:** Regolati i security tokens in forza del Regulated Activities Order e i token di moneta elettronica in forza degli Electronic Money Regulations; non regolati gli utility token e le criptovalute.
+**Distrattori:**
+- Regolati i security tokens in forza degli Electronic Money Regulations e i token di moneta elettronica in forza del Regulated Activities Order; non regolati gli utility token e le criptovalute.
+- Regolati i security tokens in forza del Regulated Activities Order e gli utility token in forza degli Electronic Money Regulations; non regolati i token di moneta elettronica e le criptovalute.
+- Regolati tutti i token in forza del Regulated Activities Order, con la sola eccezione delle criptovalute, rimesse agli Electronic Money Regulations.
+
+**D:** ⚠️ Che cosa ha vietato la FCA nell'ottobre 2020, e che cosa ha fatto nel giugno 2021?
+**R:** «**Nell'ottobre 2020, la FCA ha vietato la vendita agli investitori al dettaglio di ETP e derivati con cripto-asset come sottostante**»; «**Nel giugno 2021, la FCA ha messo in guardia gli investitori in cripto-asset sottolineando che "dovrebbero essere preparati a perdere tutti i loro soldi" perché quelli sono prodotti principalmente non regolati**». ⚠️ Il divieto **non colpisce i cripto-asset in sé**, ma **ETP e derivati** che li hanno come **sottostante**, e **solo** verso gli investitori **al dettaglio**: il docente dice più genericamente «prodotti» e omette il mese. ⚠️ La motivazione — prodotti «**principalmente** non regolati» — sta **solo sulla slide**, e quel «principalmente» non è un «tutti».
+**Opzione:** Nell'ottobre 2020 ha vietato la vendita agli investitori al dettaglio di ETP e derivati con cripto-asset come sottostante; nel giugno 2021 ha avvertito gli investitori che dovrebbero essere preparati a perdere tutti i loro soldi.
+**Distrattori:**
+- Nell'ottobre 2020 ha vietato la vendita a qualunque investitore di ETP e derivati con cripto-asset come sottostante; nel giugno 2021 ha avvertito gli investitori che dovrebbero essere preparati a perdere tutti i loro soldi.
+- Nell'ottobre 2020 ha vietato agli investitori al dettaglio l'acquisto diretto di cripto-asset; nel giugno 2021 ha avvertito gli investitori che dovrebbero essere preparati a perdere tutti i loro soldi.
+- Nell'ottobre 2020 ha vietato la vendita agli investitori al dettaglio di ETP e derivati con cripto-asset come sottostante; nel giugno 2021 ha autorizzato la loro commercializzazione previa approvazione del prospetto.
