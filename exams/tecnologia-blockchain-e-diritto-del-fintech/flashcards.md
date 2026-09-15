@@ -5240,3 +5240,404 @@
 - Perché i tradizionali strumenti di pagamento elettronici sono una sottocategoria delle criptovalute.
 - Perché le criptovalute sono strumenti di pagamento elettronici sottoposti alla vigilanza della Banca d'Italia.
 - Perché i tradizionali strumenti di pagamento elettronici non hanno corso legale, mentre le criptovalute sì.
+
+## Lezione 19 — L'inclusione dei fattori ESG nei mercati finanziari (1)
+
+**D:** ⚠️ Quali sono le due voci dell'agenda della lezione?
+**R:** «**Il crescente interesse nei confronti della finanza sostenibile**» e «**Il piano di azione europeo ("European Action Plan") per la finanza sostenibile**». ⚠️ L'agenda è ripetuta **identica** due volte (slide 2 e 5).
+**Opzione:** Il crescente interesse nei confronti della finanza sostenibile; il piano di azione europeo per la finanza sostenibile.
+**Distrattori:**
+- Il crescente interesse nei confronti della finanza sostenibile; il piano di azione europeo per la finanza digitale.
+- Il crescente interesse nei confronti della finanza sostenibile; il Regolamento sulla tassonomia e la SFDR.
+- La qualificazione giuridica dei fattori ESG; il piano di azione europeo per la finanza sostenibile.
+
+**D:** ⚠️ Che cos'è la finanza sostenibile, nella definizione letterale della slide?
+**R:** «**La finanza sostenibile si riferisce generalmente all'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti**». ⚠️ **I criteri nominati sono due, non tre**: la **governance** — pur presente nell'acronimo ESG e nel titolo della lezione — compare **solo** nell'inciso «insieme alla governance» **dentro** la voce *sociale*. Un'opzione che elenca «ambientali, sociali e di governance» come tre criteri paritari sembra ovvia ed è **falsa rispetto alla slide**. ⚠️ Il quantificatore «**generalmente**» attenua la definizione.
+**Opzione:** L'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti.
+**Distrattori:**
+- L'inclusione di criteri ambientali, sociali e di governance nel processo decisionale degli investimenti.
+- L'inclusione di criteri ambientali e sociali nella valutazione del merito creditizio delle imprese.
+- L'esclusione dei settori ad alto impatto ambientale dal processo decisionale degli investimenti.
+
+**D:** ⚠️ Di che cosa si occupano i criteri ambientali, secondo la slide?
+**R:** «**Si occupa di diversi fenomeni legati all'ambiente in generale ed ai relativi rischi (come il cambiamento climatico, i disastri naturali o l'esaurimento delle risorse naturali)**». ⚠️ Gli esempi sono **tre** e vanno detti nell'ordine; l'oggetto è **doppio** — i **fenomeni** *e* i **relativi rischi**.
+**Opzione:** Di diversi fenomeni legati all'ambiente in generale e ai relativi rischi, come il cambiamento climatico, i disastri naturali o l'esaurimento delle risorse naturali.
+**Distrattori:**
+- Di diversi fenomeni legati all'ambiente in generale e ai relativi rischi, come il cambiamento climatico, i disastri naturali o la perdita di biodiversità.
+- Dei soli rischi legati all'ambiente, come il cambiamento climatico, i disastri naturali o l'esaurimento delle risorse naturali.
+- Di diversi fenomeni legati all'ambiente in generale, come il cambiamento climatico e i disastri naturali, con esclusione dei rischi di transizione.
+
+**D:** ⚠️ A che cosa si riferiscono le «considerazioni sociali», e dove entra la governance?
+**R:** «**Si riferisce alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, alle relazioni umane e alla diversità di genere**». ⚠️ **È qui — e solo qui — che la G di ESG entra nella definizione della slide**: non come terzo criterio autonomo, ma come co-titolare di **tre** oggetti (lavoro, relazioni umane, diversità di genere). ⚠️ Asimmetria lessicale da conservare: la voce ambientale si chiama «**criteri**», questa «**considerazioni**».
+**Opzione:** Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, alle relazioni umane e alla diversità di genere.
+**Distrattori:**
+- Alla disuguaglianza, all'inclusività e, insieme ai criteri ambientali, al lavoro, alle relazioni umane e alla diversità di genere.
+- Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, alle relazioni umane e alla tutela dei consumatori.
+- Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, all'esaurimento delle risorse naturali e alla diversità di genere.
+
+**D:** ⚠️ Perché i fattori ambientali e sociali sono interconnessi, e quale fonte cita la slide?
+**R:** «**I fattori ambientali e sociali sono interconnessi, poiché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima (Task force on climate-related financial disclosure, Final report on Climate-related Financial Disclosure, 2017)**». ⚠️ Le conseguenze sono **due**: «**nuovi tipi di povertà**» *e* «**migrazioni legate al clima**». ⚠️ **La fonte in parentesi sta solo sulla slide**: il docente riferisce l'affermazione senza citarla.
+**Opzione:** Perché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima; la fonte è il Final report della Task force on climate-related financial disclosure del 2017.
+**Distrattori:**
+- Perché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima; la fonte è il Final report della Task force on climate-related financial disclosure del 2019.
+- Perché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima; la fonte sono i Principles for Responsible Investment.
+- Perché la disuguaglianza sociale aggrava l'impatto ambientale dei processi industriali; la fonte è il Final report della Task force on climate-related financial disclosure del 2017.
+
+**D:** ⚠️ Quali sono i due metodi principali per includere i fattori ESG nei mercati finanziari?
+**R:** **①** «**Sviluppo di prodotti ESG da parte degli intermediari finanziari per soddisfare l'interesse dei potenziali investitori**»; **②** «**Nuovi regolamenti sulla finanza sostenibile**». ⚠️ Sono **due** e hanno natura opposta: uno è **di mercato** (l'offerta che insegue la domanda), l'altro **normativo**.
+**Opzione:** Lo sviluppo di prodotti ESG da parte degli intermediari finanziari e i nuovi regolamenti sulla finanza sostenibile.
+**Distrattori:**
+- Lo sviluppo di prodotti ESG da parte degli intermediari finanziari e l'adozione di sanzioni per i comportamenti di greenwashing.
+- L'obbligo di disinvestimento dai settori ad alto impatto ambientale e i nuovi regolamenti sulla finanza sostenibile.
+- Lo sviluppo di prodotti ESG da parte delle sole autorità di vigilanza e i nuovi regolamenti sulla finanza sostenibile.
+
+**D:** ⚠️ Da quali clienti è aumentata la domanda di prodotti ESG, secondo la slide?
+**R:** «**Negli ultimi anni la domanda da parte di clienti sia istituzionali che retail (e clienti ultra-high net worth), è aumentata insieme alla consapevolezza che i fattori ESG possono portare, con rischi equivalenti, a migliori performance**». ⚠️ Le categorie sono **tre** e la terza — «**clienti ultra-high net worth**» — è la **coda dell'elenco** che il docente **omette**. ⚠️ La promessa di performance è **condizionata**: «**con rischi equivalenti**, a migliori performance» — non un rendimento superiore in assoluto, e non una riduzione del rischio a parità di rendimento.
+**Opzione:** Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
+**Distrattori:**
+- Da clienti istituzionali e retail; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
+- Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, a parità di performance, a rischi minori.
+- Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG garantiscono in ogni caso migliori performance.
+
+**D:** ⚠️ A quali rischi sono meno esposte le imprese più consapevoli dei fattori ESG?
+**R:** «**Le imprese più consapevoli dei fattori ESG sono generalmente meno esposte ai rischi operativi, legali e reputazionali, e più orientate all'innovazione**». ⚠️ La struttura è **3 + 1**: **tre** rischi (**operativi, legali, reputazionali**) e **un** tratto positivo (**più orientate all'innovazione**). ⚠️ Il quantificatore è «**generalmente** meno esposte».
+**Opzione:** Ai rischi operativi, legali e reputazionali; e sono più orientate all'innovazione.
+**Distrattori:**
+- Ai rischi operativi, legali e di mercato; e sono più orientate all'innovazione.
+- Ai rischi operativi, legali e reputazionali; e sono più orientate alla riduzione dei costi.
+- Ai soli rischi reputazionali; e sono più orientate all'innovazione.
+
+**D:** ⚠️ Quali benchmark globali di sostenibilità cita la slide, e a che cosa servono?
+**R:** «**L'adozione di benchmark globali per valutare la sostenibilità di un investimento (ad esempio i PRI - Principles for Responsible Investment, la Recommendation of the Task Force on Climate-related Financial Disclosures) è essenziale per consentire una spinta circolare della sostenibilità, sia sull'"economia reale" che su quella finanziaria**». ⚠️ **I due benchmark stanno solo sulla slide**: il docente parla genericamente di «azioni di benchmark globali». ⚠️ La formula da conservare è «**una spinta circolare della sostenibilità**», che agisce su **due** versanti.
+**Opzione:** I PRI, Principles for Responsible Investment, e la Recommendation della Task Force on Climate-related Financial Disclosures; servono a consentire una spinta circolare della sostenibilità, sia sull'economia reale che su quella finanziaria.
+**Distrattori:**
+- I PRI, Principles for Responsible Investment, e la Recommendation della Task Force on Climate-related Financial Disclosures; servono a consentire una spinta circolare della sostenibilità sulla sola economia finanziaria.
+- I PRI, Principles for Responsible Investment, e il Regolamento sulla tassonomia; servono a consentire una spinta circolare della sostenibilità, sia sull'economia reale che su quella finanziaria.
+- Gli Equator Principles e la Recommendation della Task Force on Climate-related Financial Disclosures; servono a consentire una spinta circolare della sostenibilità sull'economia reale.
+
+**D:** ⚠️ Chi ha pubblicato il Sustainable Finance Action Plan, quando, e in quale cornice?
+**R:** «**Marzo 2018**»: «**tra i diversi obiettivi contenuti nell'Accordo di Parigi sul cambiamento climatico e l'Agenda 2030 delle Nazioni Unite per lo sviluppo sostenibile, la Commissione Europea ha pubblicato il "Sustainable Finance Action Plan"**». ⚠️ **Le fonti sono due**: il docente cita **solo l'Accordo di Parigi**. ⚠️ L'autore è la **Commissione Europea**. ⚠️ **«Marzo 2018» collide con il Piano d'azione FinTech** della lezione 05 — stessa Commissione, stesso mese, **due piani diversi**.
+**Opzione:** La Commissione Europea, nel marzo 2018, nella cornice dell'Accordo di Parigi sul cambiamento climatico e dell'Agenda 2030 delle Nazioni Unite per lo sviluppo sostenibile.
+**Distrattori:**
+- La Commissione Europea, nel marzo 2018, nella sola cornice dell'Accordo di Parigi sul cambiamento climatico.
+- Il Parlamento europeo e il Consiglio, nel marzo 2018, nella cornice dell'Accordo di Parigi e dell'Agenda 2030 delle Nazioni Unite.
+- La Commissione Europea, nel giugno 2020, nella cornice dell'Accordo di Parigi e dell'Agenda 2030 delle Nazioni Unite.
+
+**D:** ⚠️ Quali sono gli scopi del Sustainable Finance Action Plan?
+**R:** **Due**, saldati da un avverbio: «**gestire pratiche di mercato fondate su priorità di tipo economico; *inoltre*** **misurare il profilo di sostenibilità delle imprese interessate**». ⚠️ Il docente dice invece che il Piano ha «scopo dichiarato **unico e principale** di gestire pratiche di mercato fondate su priorità di tipo economico, **ma misurandone** il profilo di sostenibilità», subordinando il secondo al primo: **vale la slide, due scopi coordinati**.
+**Opzione:** Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
+**Distrattori:**
+- Gestire pratiche di mercato fondate su priorità di tipo economico, misurandone il profilo di sostenibilità: si tratta di un unico scopo.
+- Gestire pratiche di mercato fondate su priorità di tipo ambientale e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
+- Misurare il profilo di sostenibilità delle imprese interessate e, inoltre, sanzionare le pratiche di greenwashing.
+
+**D:** ⚠️ A che cosa porta il Sustainable Finance Action Plan, secondo la slide?
+**R:** «**All'esigenza di un accordo condiviso rispetto ad una simile tematica, per evitare risultati divergenti e quindi la frammentazione del mercato che potrebbe ingenerare sfiducia da parte degli investitori**». ⚠️ **La catena causale ha tre stadi**: **risultati divergenti** → **frammentazione del mercato** → **sfiducia degli investitori**. Saltarne uno o invertirne l'ordine è il distrattore naturale.
+**Opzione:** All'esigenza di un accordo condiviso, per evitare risultati divergenti e quindi la frammentazione del mercato, che potrebbe ingenerare sfiducia da parte degli investitori.
+**Distrattori:**
+- All'esigenza di un accordo condiviso, per evitare la sfiducia degli investitori e quindi risultati divergenti, che potrebbero ingenerare la frammentazione del mercato.
+- All'esigenza di un regolamento vincolante, per evitare risultati divergenti e quindi la frammentazione del mercato, che potrebbe ingenerare sfiducia da parte degli investitori.
+- All'esigenza di un accordo condiviso, per evitare la frammentazione del mercato e quindi l'intervento delle autorità nazionali competenti.
+
+**D:** ⚠️ Che cos'è il greenwashing, nella definizione della slide?
+**R:** «**Si riferisce ai casi in cui qualche intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come ambientalmente sostenibile quando invece non lo sia**». ⚠️ Gli oggetti della falsa qualificazione sono **tre**: **prodotto**, **attività**, **politica**. ⚠️ La qualificazione contestata è «**ambientalmente** sostenibile», non genericamente sostenibile; e il verbo è al condizionale.
+**Opzione:** I casi in cui un intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come ambientalmente sostenibile quando invece non lo sia.
+**Distrattori:**
+- I casi in cui un intermediario finanziario potrebbe qualificare un prodotto o un'attività come ambientalmente sostenibile quando invece non lo sia.
+- I casi in cui un intermediario finanziario omette di qualificare come ambientalmente sostenibili prodotti che invece lo sono.
+- I casi in cui un'impresa dichiara di rispettare i criteri di governance quando invece non li rispetta.
+
+**D:** ⚠️ Quali conseguenze ha il greenwashing, secondo la slide?
+**R:** «**Questa cosa comporta un ingiusto vantaggio competitivo con il potenziale rischio per gli investitori inesperti di essere indotti fraudolentemente verso prodotti che non rispecchiano le loro reali preferenze di investimento**». ⚠️ La conseguenza è **doppia**: un «**ingiusto vantaggio competitivo**» per l'intermediario *e* un rischio per gli investitori — che la slide qualifica «**inesperti**» — di essere «**indotti fraudolentemente**». ⚠️ Solo nel transcript il docente constata che «purtroppo **questi comportamenti ci sono stati** e hanno creato **grande sfiducia negli investitori**».
+**Opzione:** Un ingiusto vantaggio competitivo, con il potenziale rischio per gli investitori inesperti di essere indotti fraudolentemente verso prodotti che non rispecchiano le loro reali preferenze di investimento.
+**Distrattori:**
+- Un ingiusto vantaggio competitivo, con il potenziale rischio per tutti gli investitori di essere indotti fraudolentemente verso prodotti che non rispecchiano le loro reali preferenze di investimento.
+- Una sanzione amministrativa a carico dell'intermediario, con il potenziale rischio per gli investitori inesperti di essere indotti fraudolentemente verso prodotti inadeguati.
+- Un ingiusto vantaggio competitivo, con il potenziale rischio per gli investitori inesperti di pagare commissioni superiori a quelle di mercato.
+
+**D:** ⚠️ Con quale duplice finalità è stato creato il quadro regolamentare europeo sull'ESG?
+**R:** «**Il quadro regolamentare a livello europeo sul tema ESG, è etstao** \[*sic*, per *è stato*] **creato per fare chiarezza ed evitare questi comportamenti ingannevoli ed I relative** \[*sic*, per *i relativi*] **rischi e, allo stesso tempo, per stimolare l'adozione dei criteri ESG nell'ambiente finanziario nel contesto di una più ampia promozione di un'economia maggiormente sostenibile**». ⚠️ **La finalità è doppia e simmetrica**: **difensiva** (evitare i comportamenti ingannevoli) *e* **promozionale** («allo stesso tempo, per **stimolare** l'adozione dei criteri ESG»). Citarne una sola metà è il distrattore naturale.
+**Opzione:** Per fare chiarezza ed evitare i comportamenti ingannevoli e i relativi rischi e, allo stesso tempo, per stimolare l'adozione dei criteri ESG nell'ambiente finanziario.
+**Distrattori:**
+- Per fare chiarezza ed evitare i comportamenti ingannevoli e i relativi rischi, senza però incidere sull'adozione volontaria dei criteri ESG.
+- Per stimolare l'adozione dei criteri ESG nell'ambiente finanziario, lasciando la repressione dei comportamenti ingannevoli alle autorità nazionali.
+- Per armonizzare le sanzioni contro il greenwashing e, allo stesso tempo, per imporre l'adozione dei criteri ESG a tutti gli intermediari.
+
+**D:** ⚠️ Su quale consapevolezza è basato l'approccio dell'Unione Europea alla finanza sostenibile?
+**R:** «**L'approccio dell'Unione Europea è basato sulla consapevolezza che una finanza sostenibile richieda un approccio diverso e che necessiti di differenti azioni a diversi livelli che coinvolgano tutti gli attori del mercato**». ⚠️ Gli elementi sono **tre**: un **approccio diverso**; **differenti azioni a diversi livelli**; il coinvolgimento di **tutti gli attori del mercato**.
+**Opzione:** Che una finanza sostenibile richieda un approccio diverso e necessiti di differenti azioni a diversi livelli, che coinvolgano tutti gli attori del mercato.
+**Distrattori:**
+- Che una finanza sostenibile richieda un approccio diverso e necessiti di differenti azioni a diversi livelli, che coinvolgano i soli intermediari vigilati.
+- Che una finanza sostenibile possa essere realizzata adattando gli strumenti normativi già esistenti, senza coinvolgere tutti gli attori del mercato.
+- Che una finanza sostenibile richieda un approccio uniforme e un'unica azione a livello europeo, che coinvolga tutti gli attori del mercato.
+
+**D:** ⚠️ In che cosa consiste il primo obiettivo dell'approccio europeo?
+**R:** «**Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese ad adottare comportamenti sostenibili (tali da ridurre l'impatto ambientale dei loro processi industriali, includere politiche sulla diversità di genere, consapevolezza del capitale umano e sociale)**». ⚠️ I comportamenti sostenibili elencati sono **tre**: **ridurre l'impatto ambientale dei processi industriali**, **includere politiche sulla diversità di genere**, **consapevolezza del capitale umano e sociale**. ⚠️ L'azione è «**più inclusiva**» e riguarda l'**economia reale**.
+**Opzione:** Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese a ridurre l'impatto ambientale dei processi industriali, a includere politiche sulla diversità di genere e a sviluppare consapevolezza del capitale umano e sociale.
+**Distrattori:**
+- Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese a ridurre l'impatto ambientale dei processi industriali, a includere politiche sulla diversità di genere e a pubblicare un bilancio di sostenibilità certificato.
+- Promuovere un'azione più inclusiva nell'economia finanziaria, incoraggiando gli intermediari a ridurre l'impatto ambientale dei loro processi e a includere politiche sulla diversità di genere.
+- Imporre alle imprese comportamenti sostenibili, tali da ridurre l'impatto ambientale dei processi industriali e da includere politiche sulla diversità di genere.
+
+**D:** ⚠️ Chi dovrebbe apportare capitale alle imprese sostenibili, secondo il secondo obiettivo?
+**R:** «**Assicurare una comunicazione chiara agli investitori, incoraggiando apporti di capitale alle imprese sostenibili, sia da parte degli investitori retail che dagli intermediary** \[*sic*] **finanziari, finanziatori (banche), gestori di patrimoni (prestatori di servizi di investimento ed imprese di gestione del risparmio) e compagnie di sottoscrizione assiurativa** \[*sic*]». ⚠️ I soggetti sono **cinque** e **stanno solo sulla slide**: il docente si ferma alla formula generale. ⚠️ I «**gestori di patrimoni**» sono a loro volta glossati come «**prestatori di servizi di investimento ed imprese di gestione del risparmio**».
+**Opzione:** Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
+**Distrattori:**
+- Gli investitori retail, gli intermediari finanziari, i finanziatori (banche) e i gestori di patrimoni.
+- Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le agenzie di rating.
+- I soli investitori istituzionali, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
+
+**D:** ⚠️ A quale condizione possono essere raggiunti gli obiettivi europei sull'ESG?
+**R:** «**Questi obiettivi possono essere raggiunti solo attraverso una definizione chiara ed uniforme di cosa sia la sostenibilità per le imprese e di come queste possano conformarsi aicriteri** \[*sic*, per *ai criteri*] **di sostenibilità**». ⚠️ Il quantificatore «**solo attraverso**» è **esclusivo**: è una **condizione necessaria**. ⚠️ La definizione richiesta è **doppia**: *che cosa* sia la sostenibilità **e** *come* conformarvisi. Il docente vi antepone la riserva «**al di là delle belle parole e dei concetti edificanti**».
+**Opzione:** Solo attraverso una definizione chiara ed uniforme di che cosa sia la sostenibilità per le imprese e di come queste possano conformarsi ai criteri di sostenibilità.
+**Distrattori:**
+- Solo attraverso una definizione chiara ed uniforme di che cosa sia la sostenibilità per le imprese, lasciando ai singoli Stati membri le modalità di conformazione.
+- Principalmente attraverso l'adozione di sanzioni uniformi contro il greenwashing e la vigilanza delle autorità nazionali competenti.
+- Solo attraverso l'adozione di benchmark globali che misurino la sostenibilità di ogni singolo investimento.
+
+**D:** ⚠️ Perché è necessario un quadro giuridico comune a livello europeo, e con quali effetti?
+**R:** «**È necessaria la creazione di un quadro giuridico comune a livello europeo che offra agli intermediari e agli investitori una serie di regole chiare con cui impegnarsi. Creerebbe anche coerenza ed eviterebbe approcci diversi da parte degli Stati membri e delle autorità nazionali competenti**». ⚠️ I destinatari sono **due** (**intermediari** e **investitori**) e gli effetti **due**: creare **coerenza** ed evitare **approcci diversi** — questi ultimi imputati a **due** soggetti, gli **Stati membri** *e* le **autorità nazionali competenti**.
+**Opzione:** Perché offra a intermediari e investitori regole chiare con cui impegnarsi; creerebbe coerenza ed eviterebbe approcci diversi da parte degli Stati membri e delle autorità nazionali competenti.
+**Distrattori:**
+- Perché offra ai soli intermediari regole chiare con cui impegnarsi; creerebbe coerenza ed eviterebbe approcci diversi da parte degli Stati membri e delle autorità nazionali competenti.
+- Perché offra a intermediari e investitori regole chiare con cui impegnarsi; armonizzerebbe le sanzioni e centralizzerebbe la vigilanza presso le autorità europee.
+- Perché offra a intermediari e investitori regole chiare con cui impegnarsi; creerebbe coerenza ma lascerebbe impregiudicati gli approcci nazionali già adottati.
+
+**D:** ⚠️ Quando la Consob ha emanato la sua raccomandazione sull'ESG, e rispetto a quali atti europei si colloca?
+**R:** «**Nel marzo 2020, prima dell'entrata in vigore della SFDR e dell'emanazione del Regolamento sulla tassonomia**». ⚠️ **La collocazione temporale è il primo dato della slide**: la raccomandazione **precede** entrambi gli atti europei, e questo spiega sia il suo merito («**anticipando le misure che la Commissione europea avrebbe adottato alcuni mesi dopo**») sia il suo limite.
+**Opzione:** Nel marzo 2020, prima dell'entrata in vigore della SFDR e dell'emanazione del Regolamento sulla tassonomia.
+**Distrattori:**
+- Nel marzo 2020, dopo l'entrata in vigore della SFDR ma prima dell'emanazione del Regolamento sulla tassonomia.
+- Nel marzo 2018, prima dell'entrata in vigore della SFDR e dell'emanazione del Regolamento sulla tassonomia.
+- Nel giugno 2020, dopo l'entrata in vigore della SFDR e del Regolamento sulla tassonomia.
+
+**D:** ⚠️ In quali processi la raccomandazione Consob chiede di includere le preferenze di sostenibilità, e in forza di quale norma?
+**R:** «**In attesa della modifica della normativa europea in materia, nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti ai sensi della Direttiva 2014/65/UE (MIFID II)**». ⚠️ **Le tre aree e il rinvio alla MiFID II stanno solo sulla slide**: il docente le nomina in modo frammentario. ⚠️ **Coppia soggetto + norma**: la direttiva è la **2014/65/UE**.
+**Opzione:** Nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2014/65/UE (MiFID II).
+**Distrattori:**
+- Nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2016/97/UE (IDD).
+- Nella valutazione di appropriatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2014/65/UE (MiFID II).
+- Nella sola valutazione di adeguatezza, ai sensi della Direttiva 2014/65/UE (MiFID II).
+
+**D:** ⚠️ Quali soggetti ha allertato la raccomandazione Consob, e da quale rischio ha messo in guardia?
+**R:** Ha allertato «**le imprese di investimento, gli istituti di credito e le società di gestione italiane**»; e «**ha anche messo in guardia il mercato italiano dal rischio di greenwashing, prevenendo il rischio che informazioni fuorvianti possano essere condivise con gli investitori, soprattutto retail**». ⚠️ I destinatari sono **tre**. ⚠️ Il quantificatore «**soprattutto retail**» sta **solo sulla slide**.
+**Opzione:** Le imprese di investimento, gli istituti di credito e le società di gestione italiane; dal rischio di greenwashing e di informazioni fuorvianti condivise con gli investitori, soprattutto retail.
+**Distrattori:**
+- Le imprese di investimento, gli istituti di credito e le società di gestione italiane; dal rischio di greenwashing e di informazioni fuorvianti condivise con i soli investitori professionali.
+- Le sole imprese di investimento; dal rischio di greenwashing e di informazioni fuorvianti condivise con gli investitori, soprattutto retail.
+- Le imprese di investimento, gli istituti di credito e le compagnie assicurative italiane; dal rischio di greenwashing e di informazioni fuorvianti condivise con gli investitori retail.
+
+**D:** ⚠️ Quale limite la slide riconosce alla raccomandazione Consob?
+**R:** «**Limitandosi a chiedere l'inclusione dei fattori ESG nei processi già in atto secondo le disposizioni della MIFID II, non ha chiarito il significato di "sostenibilità" né come le politiche e i processi interni debbano essere rivisti per includere le considerazioni ESG, non portando ad un cambiamento significativo in un mercato che stava ancora aspettando un approccio comune e chiaro in materia su base europea**». ⚠️ **Il giudizio è negativo e doppio**: non ha chiarito *né* che cosa sia la sostenibilità *né* come rivedere politiche e processi interni. ⚠️ La ragione del limite è che si è **limitata ai processi già in atto** secondo la MiFID II, senza crearne di nuovi.
+**Opzione:** Di essersi limitata a chiedere l'inclusione dei fattori ESG nei processi già in atto secondo la MiFID II, senza chiarire né il significato di sostenibilità né come rivedere politiche e processi interni.
+**Distrattori:**
+- Di essersi limitata a chiedere l'inclusione dei fattori ESG nei processi già in atto secondo la MiFID II, pur avendo chiarito il significato di sostenibilità.
+- Di aver imposto obblighi più severi di quelli poi introdotti dalla normativa europea, creando un onere sproporzionato per gli intermediari italiani.
+- Di non aver messo in guardia il mercato dal rischio di greenwashing, limitandosi a chiedere l'inclusione dei fattori ESG nei processi già in atto.
+
+**D:** ⚠️ Perché, secondo il docente, l'ESG entra in un corso di Blockchain e FinTech?
+**R:** Per **due** ragioni, che il docente dichiara esplicitamente ([00:00:07]). **①** «la **polemica** che c'è intorno alle criptovalute in tema di **inquinamento**, cioè **quanta energia sia necessario utilizzare per produrre le criptovalute**» — «mi riferisco in particolare al **Bitcoin**». **②** «la tematica del fintech e delle criptovalute pone una serie di **interrogativi e di quesiti anche a livello etico** che la normativa ESG potrebbe aiutarci a **dipanare**». ⚠️ Premette che «non si può studiare il blockchain, studiare il fintech **senza avere nel background un minimo di informazione**» su queste norme, e avverte che «questo **non è il corso sull'ESG**, che peraltro **tengo io parallelamente**». ⚠️ Tutto **solo nel transcript**.
+
+**D:** ⚠️ Che tesi di politica legislativa ricava il docente dalla vicenda della raccomandazione Consob?
+**R:** Che i richiami delle autorità di vigilanza «rimangono purtroppo **lettera morta** se poi a questi richiami **non fa seguito un poderoso adeguamento della normativa**»; e più in generale che ricorre «**la difficoltà del legislatore a stare al passo**, perché ormai i fenomeni finanziari si muovono a **velocità enorme**» — «**La normativa è sempre in ritardo** in questo periodo e questo è uno dei **temi di politica legislativa maggiormente discussi**». ⚠️ Solo nel transcript ([00:03:56]). ⚠️ Vi si collega l'osservazione di mercato che le raccomandazioni hanno comunque «messo in **grande allarme**» gli operatori, al punto che «molto spesso si cercano **figure professionali che siedano nei consigli di amministrazione che abbiano competenze ESG**».
+
+## Lezione 20 — L'inclusione dei fattori ESG nei mercati finanziari (2)
+
+**D:** ⚠️ Quali sono le due voci dell'agenda della lezione?
+**R:** «**La nuova cornice legale europea per l'inclusione dei criteri ESG nei mercati finanziari**» e «**Modifiche alla disciplina della MiFID II ed altre misure in corso di adozione**». ⚠️ La seconda voce nomina espressamente la **MiFID II**: è la direttiva da cui nascerà il disallineamento della slide 9.
+**Opzione:** La nuova cornice legale europea per l'inclusione dei criteri ESG nei mercati finanziari; modifiche alla disciplina della MiFID II ed altre misure in corso di adozione.
+**Distrattori:**
+- La nuova cornice legale europea per l'inclusione dei criteri ESG nei mercati finanziari; modifiche alla disciplina della PSD2 ed altre misure in corso di adozione.
+- Il crescente interesse nei confronti della finanza sostenibile; modifiche alla disciplina della MiFID II ed altre misure in corso di adozione.
+- La nuova cornice legale europea per l'inclusione dei criteri ESG nei mercati finanziari; il regime sanzionatorio contro il greenwashing.
+
+**D:** ⚠️ Su quali materie la SFDR stabilisce regole?
+**R:** **Cinque**: «**divulgazione ai clienti e agli investitori finali**»; «**integrazione dei rischi di sostenibilità**»; «**considerazione degli impatti negativi sulla sostenibilità**»; «**obiettivo di investimento sostenibile**»; «**promozione delle caratteristiche ambientali o sociali nel processo decisionale degli investimenti e nei processi di consulenza**». ⚠️ Nell'ultima voce le caratteristiche sono «**ambientali *o* sociali**» (disgiuntivo) e gli ambiti **due**.
+**Opzione:** Divulgazione ai clienti e agli investitori finali; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; promozione delle caratteristiche ambientali o sociali nel processo decisionale e nei processi di consulenza.
+**Distrattori:**
+- Divulgazione ai clienti e agli investitori finali; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; certificazione delle caratteristiche ambientali o sociali da parte di un revisore indipendente.
+- Divulgazione ai clienti e agli investitori finali; eliminazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; promozione delle caratteristiche ambientali o sociali.
+- Divulgazione alle sole autorità di vigilanza; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; promozione delle caratteristiche ambientali o sociali.
+
+**D:** ⚠️ A quali operatori si applicano le regole della SFDR?
+**R:** «**Agli operatori del mercato finanziario che forniscono servizi di consulenza sugli investimenti o di gestione del portafoglio, compresi i fondi e i prodotti pensionistici**». ⚠️ Le attività che individuano i destinatari sono **due e alternative** — «**consulenza sugli investimenti**» *o* «**gestione del portafoglio**» — con l'estensione «**compresi i fondi e i prodotti pensionistici**». Il docente vi legge l'aggancio al FinTech: la norma vale «**a 360 gradi, dal consulente finanziario che vi accoglie in banca al gestore di portafogli**», ma «coinvolge anche tutto ciò che riguarda le **consulenze con l'intelligenza artificiale**».
+**Opzione:** Agli operatori del mercato finanziario che forniscono servizi di consulenza sugli investimenti o di gestione del portafoglio, compresi i fondi e i prodotti pensionistici.
+**Distrattori:**
+- Agli operatori del mercato finanziario che forniscono servizi di consulenza sugli investimenti e, cumulativamente, di gestione del portafoglio, compresi i fondi e i prodotti pensionistici.
+- Agli operatori del mercato finanziario che forniscono servizi di consulenza sugli investimenti o di gestione del portafoglio, con esclusione dei fondi e dei prodotti pensionistici.
+- Ai soli operatori del mercato finanziario che offrono prodotti qualificati come sostenibili.
+
+**D:** ⚠️ A quali attività si applica specificamente la SFDR, e in forza di quali atti?
+**R:** A **quattro**: «**la prestazione di servizi di consulenza in materia di investimenti o di gestione di portafoglio ai sensi della direttiva 2014/65/UE ("MiFID II"), compresi quelli forniti da istituti di credito e società di gestione patrimoniale**»; «**la gestione di fondi, secondo la direttiva 2009/65/UE ("UCITS") o la direttiva 2011/61/UE ("AIFMD"), e di EuVECA e EuSEF**»; «**l'offerta o la distribuzione di IBIP (come definito dalla direttiva 2016/97/UE, o "IDD")**»; «**prodotti o schemi pensionistici e PEPP secondo il regolamento (UE) 2019/1238**». ⚠️ **Tutti i numeri stanno solo sulla slide**, e **EuVECA** ed **EuSEF** non sono nominati dal docente. ⚠️ L'avverbio «**attualmente** si applica a» segnala un ambito in evoluzione.
+**Opzione:** Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD, e di EuVECA ed EuSEF; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP.
+**Distrattori:**
+- Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP.
+- Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD, e di EuVECA ed EuSEF; offerta o distribuzione di IBIP secondo la PSD2; prodotti o schemi pensionistici e PEPP.
+- Consulenza e gestione di portafoglio secondo la MiFID II; gestione dei soli fondi alternativi secondo l'AIFMD; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP.
+
+**D:** ⚠️ A quale direttiva o regolamento corrisponde ciascuna delle sigle citate nell'ambito SFDR?
+**R:** **MiFID II → direttiva 2014/65/UE**; **UCITS → direttiva 2009/65/UE**; **AIFMD → direttiva 2011/61/UE**; **IDD → direttiva 2016/97/UE**; **PEPP → regolamento (UE) 2019/1238**. ⚠️ È un nido di **coppie soggetto + norma** e tutti i numeri stanno **solo sulla slide**: il docente li elenca per nome. ⚠️ L'ASR storpia **UCITS** in «use it» e «USIT».
+**Opzione:** MiFID II 2014/65/UE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
+**Distrattori:**
+- MiFID II 2014/65/UE; UCITS 2011/61/UE; AIFMD 2009/65/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
+- MiFID II 2014/65/UE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2014/17/UE; PEPP regolamento 2019/1238.
+- MiFID II 2004/39/CE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
+
+**D:** ⚠️ Da chi è richiesta la divulgazione prevista dalla SFDR?
+**R:** «**Non solo dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, ma a tutte le imprese, le quali devono divulgare agli investitori il metodo di integrazione dei rischi di sostenibilità e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti**». ⚠️ **È il punto più fraintendibile della lezione**: l'obbligo **non** è riservato a chi commercializza prodotti sostenibili. ⚠️ Ciò che va divulgato è «**il metodo di integrazione**» di **due** cose — rischi *e* impatti negativi di sostenibilità — nei processi di **selezione degli investimenti**.
+**Opzione:** Non solo dalle imprese che offrono prodotti mirati come sostenibili, ma da tutte le imprese, che devono divulgare il metodo di integrazione dei rischi e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti.
+**Distrattori:**
+- Soltanto dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, le quali devono divulgare il metodo di integrazione dei rischi e degli impatti negativi di sostenibilità.
+- Non solo dalle imprese che offrono prodotti mirati come sostenibili, ma da tutte le imprese, che devono divulgare il metodo di integrazione dei soli rischi di sostenibilità nei loro processi di selezione degli investimenti.
+- Non solo dalle imprese che offrono prodotti mirati come sostenibili, ma da tutte le imprese, che devono ottenere una certificazione di sostenibilità dei loro processi di selezione degli investimenti.
+
+**D:** ⚠️ Che cos'è il Regolamento Tassonomia, di chi è e di quando?
+**R:** «**Il Regolamento (EU) 2020/852 del Parlamento europeo e del Consiglio del 18 giugno 2020 ha adottato la creazione di una cornice che faciliti gli investimenti sostenibili (il "Regolamento Tassonomia")**». ⚠️ **Coppia soggetto + data**: è del **Parlamento europeo e del Consiglio** — non della Commissione — e del **18 giugno 2020**. ⚠️ Da non confondere con la **SFDR**, che è il **Regolamento (EU) 2019/2088 del 27 novembre 2019**.
+**Opzione:** Il Regolamento (EU) 2020/852 del Parlamento europeo e del Consiglio del 18 giugno 2020, che adotta la creazione di una cornice che faciliti gli investimenti sostenibili.
+**Distrattori:**
+- Il Regolamento (EU) 2020/852 della Commissione europea del 18 giugno 2020, che adotta la creazione di una cornice che faciliti gli investimenti sostenibili.
+- Il Regolamento (EU) 2019/2088 del Parlamento europeo e del Consiglio del 18 giugno 2020, che adotta la creazione di una cornice che faciliti gli investimenti sostenibili.
+- Il Regolamento (EU) 2020/852 del Parlamento europeo e del Consiglio del 27 novembre 2019, che adotta la creazione di una cornice che faciliti gli investimenti sostenibili.
+
+**D:** ⚠️ Che cosa fa il Regolamento Tassonomia?
+**R:** **Cinque** cose: «**soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG**»; «**risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE**»; «**stabilisce i criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale**»; «**si applica non solo alle istituzioni dell'Unione europea… ma anche alle imprese e agli operatori dei mercati finanziari**»; «**modifica il regolamento (UE) 2019/2088… ("SFDR")**». ⚠️ **La quinta voce è quella che lega i due atti: la Tassonomia modifica la SFDR, non viceversa.**
+**Opzione:** Soddisfa l'esigenza di un'etichetta comune e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica anche a imprese e operatori dei mercati finanziari; modifica la SFDR.
+**Distrattori:**
+- Soddisfa l'esigenza di un'etichetta comune e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica anche a imprese e operatori dei mercati finanziari; è modificato dalla SFDR.
+- Soddisfa l'esigenza di un'etichetta comune e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica alle sole istituzioni dell'Unione europea; modifica la SFDR.
+- Soddisfa l'esigenza di un'etichetta comune e di una misura uniforme dei fattori ESG; istituisce un registro europeo dei prodotti sostenibili; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica anche a imprese e operatori dei mercati finanziari; modifica la SFDR.
+
+**D:** ⚠️ Perché il Regolamento Tassonomia risponde anche alle esigenze degli investitori extra-UE?
+**R:** Perché «**risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE che altrimenti dovrebbero soddisfare diversi criteri in diversi Stati membri per qualificare le loro attività come sostenibili dal punto di vista ambientale**». ⚠️ La struttura è «**non solo… ma anche…**», e la ragione è la **moltiplicazione dei criteri nazionali**. ⚠️ La qualificazione in gioco è «**sostenibile dal punto di vista ambientale**», non genericamente ESG.
+**Opzione:** Perché senza una definizione comune dovrebbero soddisfare criteri diversi in diversi Stati membri per qualificare le loro attività come sostenibili dal punto di vista ambientale.
+**Distrattori:**
+- Perché senza una definizione comune non potrebbero accedere ai mercati finanziari europei.
+- Perché senza una definizione comune dovrebbero soddisfare criteri diversi in diversi Stati membri per qualificare le loro attività come sostenibili sotto il profilo sociale e di governance.
+- Perché la definizione comune europea è vincolante anche per gli ordinamenti extra-UE che ammettono investimenti transfrontalieri.
+
+**D:** ⚠️ Quale rapporto c'è fra SFDR e Regolamento Tassonomia, e quali sono le rispettive date?
+**R:** **Il Regolamento Tassonomia modifica la SFDR**: la quinta voce della slide 5 recita «**modifica il regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio, del 27 novembre 2019, sulle informazioni relative alla sostenibilità nel settore dei servizi finanziari ("SFDR")**». ⚠️ **Coppia soggetto + data**: Tassonomia **18 giugno 2020**, SFDR **27 novembre 2019** — e **la data della SFDR compare solo qui**, in coda alla quinta voce, non sulle slide dedicate alla SFDR. Il docente: «addirittura l'SFDR **viene modificata in alcune parti dal regolamento della tassonomia**».
+**Opzione:** Il Regolamento Tassonomia, del 18 giugno 2020, modifica la SFDR, del 27 novembre 2019.
+**Distrattori:**
+- La SFDR, del 27 novembre 2019, modifica il Regolamento Tassonomia, del 18 giugno 2020.
+- Il Regolamento Tassonomia, del 18 giugno 2020, abroga e sostituisce la SFDR, del 27 novembre 2019.
+- I due regolamenti sono paralleli e indipendenti: il Regolamento Tassonomia è del 18 giugno 2020, la SFDR del 27 novembre 2019.
+
+**D:** ⚠️ Quali autorità hanno elaborato gli RTS sulla trasparenza della SFDR, e sotto quale sigla?
+**R:** «**Le tre Autorità di Vigilanza europee (EBA, EIOPA e ESMA, le "ESAs") hanno inoltrato alla Commissione europea il loro Final Report with draft Regulatory Technical Standards (RTS) in relazione alla trasparenza prevista dal Regolamento sulla trasparenza della finanza sostenibile (SFDR) così come modificato dal Regolamento Tassonomia**». ⚠️ Sono **tre** e l'ordine della slide è **EBA, EIOPA, ESMA**, sotto la sigla collettiva «**ESAs**». ⚠️ Il destinatario è la **Commissione europea**.
+**Opzione:** Le tre Autorità di Vigilanza europee EBA, EIOPA ed ESMA, dette ESAs, che li hanno inoltrati alla Commissione europea.
+**Distrattori:**
+- Le tre Autorità di Vigilanza europee EBA, EIOPA ed ESMA, dette ESAs, che li hanno inoltrati al Parlamento europeo e al Consiglio.
+- La Commissione europea, che li ha inoltrati alle tre Autorità di Vigilanza europee EBA, EIOPA ed ESMA.
+- Le due Autorità competenti per i mercati finanziari, ESMA ed EIOPA, che li hanno inoltrati alla Commissione europea.
+
+**D:** ⚠️ Che cosa fa la bozza di RTS, e con quali date?
+**R:** **Due** cose: «**fornisce agli investitori finali informazioni sugli investimenti di prodotti finanziari in attività economiche sostenibili dal punto di vista ambientale, fornendo loro informazioni comparabili per effettuare scelte di investimento informate**» e «**stabilisce un unico Regolamento per le informazioni sulla sostenibilità ai sensi del regolamento SFDR e del Regolamento sulla tassonomia**». Le date: «**una prima serie di bozze di RTS è stata pubblicata dalle autorità di vigilanza europee nel febbraio 2021**», il rapporto finale è dell'**ottobre 2021**, e la **Commissione** «**intende incorporare in un unico strumento tutti gli RTS SFDR**». ⚠️ **Entrambe le serie sono delle ESAs**: il docente attribuisce erroneamente la prima alla Commissione. ⚠️ Il valore aggiunto è la **comparabilità** — «è **inutile dare un'informazione sulla sostenibilità fine a se stessa**».
+**Opzione:** Fornisce agli investitori finali informazioni comparabili sugli investimenti in attività sostenibili dal punto di vista ambientale e stabilisce un unico Regolamento per le informazioni sulla sostenibilità; prima serie febbraio 2021, rapporto finale ottobre 2021, entrambi delle autorità di vigilanza europee.
+**Distrattori:**
+- Fornisce agli investitori finali informazioni comparabili sugli investimenti in attività sostenibili dal punto di vista ambientale e stabilisce un unico Regolamento per le informazioni sulla sostenibilità; prima serie febbraio 2021 della Commissione europea, rapporto finale ottobre 2021 delle autorità di vigilanza.
+- Fornisce agli investitori finali informazioni sugli investimenti in attività sostenibili dal punto di vista ambientale, senza obbligo di comparabilità, e stabilisce un unico Regolamento per le informazioni sulla sostenibilità; prima serie febbraio 2021, rapporto finale ottobre 2021.
+- Fornisce agli investitori finali informazioni comparabili sugli investimenti in attività sostenibili dal punto di vista ambientale e stabilisce due regolamenti distinti per SFDR e Tassonomia; prima serie febbraio 2021, rapporto finale ottobre 2021.
+
+**D:** ⚠️ Come devono essere resi i requisiti informativi previsti dalla SFDR?
+**R:** «**Devono essere allegate alle comunicazioni da fornire agli investitori e ai clienti, come informazioni precontrattuali o periodiche, in base alle norme applicabili. (ad esempio per MIFID, UCITS, AIFMD, IDD)**». ⚠️ Le informazioni sono di **due** tipi (**precontrattuali *o* periodiche**), i destinatari **due** (**investitori e clienti**) e le norme esemplificate **quattro**. Il docente lo traduce in un principio: «ci deve essere uno **sforzo proattivo e non solo reattivo** del gestore, del consulente, della piattaforma».
+**Opzione:** Allegati alle comunicazioni da fornire agli investitori e ai clienti, come informazioni precontrattuali o periodiche, in base alle norme applicabili quali MiFID, UCITS, AIFMD e IDD.
+**Distrattori:**
+- Allegati alle comunicazioni da fornire agli investitori e ai clienti, come informazioni esclusivamente precontrattuali, in base alle norme applicabili quali MiFID, UCITS, AIFMD e IDD.
+- Pubblicati sul sito internet dell'intermediario e aggiornati periodicamente, in base alle norme applicabili quali MiFID, UCITS, AIFMD e IDD.
+- Allegati alle comunicazioni da fornire alle sole autorità di vigilanza, come informazioni precontrattuali o periodiche, in base alle norme applicabili.
+
+**D:** ⚠️ Che tipo di allineamento richiedono i requisiti informativi SFDR?
+**R:** «**Richiedono non solo un mero coordinamento formale tra le diverse norme, ma anche un sostanziale allineamento tra le disposizioni che richiedono l'informativa agli investitori (potenziale necessità di rivedere altri indicatori, come quelli inclusi nel KID dei PRIIPs o in altre sezioni dei documenti precontrattuali o di offerta)**». ⚠️ La struttura «**non solo… ma anche…**» è il cuore del punto: il coordinamento **formale** non basta. ⚠️ Il **KID dei PRIIPs** sta **solo sulla slide** ed è l'esempio di indicatore da rivedere.
+**Opzione:** Non solo un mero coordinamento formale fra le diverse norme, ma anche un sostanziale allineamento fra le disposizioni che richiedono l'informativa agli investitori, con la potenziale necessità di rivedere indicatori come quelli del KID dei PRIIPs.
+**Distrattori:**
+- Soltanto un coordinamento formale fra le diverse norme, senza necessità di rivedere indicatori come quelli del KID dei PRIIPs.
+- Non solo un mero coordinamento formale fra le diverse norme, ma anche l'abrogazione delle disposizioni incompatibili, a partire dal KID dei PRIIPs.
+- Non solo un mero coordinamento formale fra le diverse norme, ma anche un sostanziale allineamento delle sanzioni previste dai singoli Stati membri.
+
+**D:** ⚠️ In che cosa consiste il disallineamento fra SFDR e MiFID II?
+**R:** «**L'ambito dei prodotti finanziari definiti dall'SFDR non è coerente con quello definito dal testo della MiFID II. Infatti, le misure SFDR di secondo livello utilizzano la definizione di "strumenti finanziari" stabilita dalla MiFID II (e non quella di "prodotti finanziari" ai sensi della SFDR)**». ⚠️ **Coppia lessicale da non invertire**: «**strumenti finanziari**» è la nozione della **MiFID II**, «**prodotti finanziari**» quella della **SFDR** — e le misure SFDR di secondo livello adottano **la prima**. Scambiare l'una o l'altra metà produce un distrattore perfettamente plausibile.
+**Opzione:** Le misure SFDR di secondo livello utilizzano la definizione di strumenti finanziari stabilita dalla MiFID II, e non quella di prodotti finanziari ai sensi della SFDR.
+**Distrattori:**
+- Le misure SFDR di secondo livello utilizzano la definizione di prodotti finanziari stabilita dalla MiFID II, e non quella di strumenti finanziari ai sensi della SFDR.
+- Le misure SFDR di secondo livello utilizzano la definizione di prodotti finanziari ai sensi della SFDR, e non quella di strumenti finanziari stabilita dalla MiFID II.
+- Le misure SFDR di secondo livello utilizzano una definizione autonoma di prodotti finanziari, incompatibile sia con la MiFID II sia con la SFDR.
+
+**D:** ⚠️ Quale problema pratico crea il disallineamento fra SFDR e MiFID II?
+**R:** «**Tale disallineamento può causare problemi quando i partecipanti al mercato finanziario rispondono alle preferenze ESG di investitori e clienti con riferimento a strumenti finanziari ai sensi della MiFID II che non rientrano nell'ambito della definizione di prodotti finanziari ai sensi della SFDR**». ⚠️ Il problema è un **insieme scoperto**: strumenti finanziari secondo la MiFID II che **non** sono prodotti finanziari secondo la SFDR. Il docente: «per una direttiva questo è un prodotto finanziario, ma siccome nel mondo ESG non era previsto che quello fosse uno strumento finanziario, **che si fa? Si segue o non si segue la tematica ESG?**».
+**Opzione:** Che restano scoperti gli strumenti finanziari ai sensi della MiFID II che non rientrano nella definizione di prodotti finanziari ai sensi della SFDR.
+**Distrattori:**
+- Che restano scoperti i prodotti finanziari ai sensi della SFDR che non rientrano nella definizione di strumenti finanziari ai sensi della MiFID II.
+- Che i partecipanti al mercato finanziario devono applicare cumulativamente entrambe le definizioni, con un onere informativo doppio.
+- Che le preferenze ESG degli investitori non possono essere raccolte se non attraverso il questionario MiFID.
+
+**D:** ⚠️ Che cosa sono gli ELTIF e a che cosa sono destinati?
+**R:** «**Gli ELTIF sono fondi d'investimento armonizzati a livello europeo, destinati agli investitori al dettaglio e volti a promuovere gli investimenti in progetti sociali e infrastrutturali, nel settore immobiliare e nelle PMI**», disciplinati dal «**Regolamento (UE) 2015/760**». ⚠️ **Gli ambiti sono quattro** e il docente si ferma ai **primi due**: coda d'elenco. ⚠️ Il numero del regolamento sta **solo sulla slide** e l'ASR storpia l'acronimo in «LTIF». ⚠️ «Destinati agli investitori al dettaglio» è **incondizionato** sulla slide; il docente aggiunge a voce «in determinate circostanze».
+**Opzione:** Fondi d'investimento armonizzati a livello europeo, destinati agli investitori al dettaglio e volti a promuovere gli investimenti in progetti sociali e infrastrutturali, nel settore immobiliare e nelle PMI.
+**Distrattori:**
+- Fondi d'investimento armonizzati a livello europeo, destinati agli investitori al dettaglio e volti a promuovere gli investimenti in progetti sociali e infrastrutturali.
+- Fondi d'investimento armonizzati a livello europeo, riservati agli investitori professionali e volti a promuovere gli investimenti in progetti sociali e infrastrutturali, nel settore immobiliare e nelle PMI.
+- Fondi d'investimento armonizzati a livello europeo, destinati agli investitori al dettaglio e volti a promuovere gli investimenti in titoli di Stato e in obbligazioni verdi.
+
+**D:** ⚠️ Che cosa sta facendo la Commissione europea sul quadro giuridico degli ELTIF, e in vista di che cosa?
+**R:** «**La Commissione europea sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita intelligente, sostenibile e inclusiva. È quindi evidente che sarà necessario un coordinamento tra gli obiettivi di investimento e gli investimenti target consentiti per gli ELTIF e quanto richiesto dal Regolamento sulla tassonomia**». ⚠️ La crescita è qualificata da **tre** aggettivi: «**intelligente, sostenibile e inclusiva**». ⚠️ Il coordinamento riguarda **due** elementi degli ELTIF — **obiettivi di investimento** e **investimenti target consentiti** — rispetto al **Regolamento sulla tassonomia**.
+**Opzione:** Sta rivedendo il quadro giuridico per rafforzare il ruolo di questi prodotti verso una crescita intelligente, sostenibile e inclusiva, coordinando obiettivi di investimento e investimenti target consentiti con il Regolamento sulla tassonomia.
+**Distrattori:**
+- Sta rivedendo il quadro giuridico per rafforzare il ruolo di questi prodotti verso una crescita stabile, sostenibile e inclusiva, coordinando obiettivi di investimento e investimenti target consentiti con il Regolamento sulla tassonomia.
+- Sta rivedendo il quadro giuridico per rafforzare il ruolo di questi prodotti verso una crescita intelligente, sostenibile e inclusiva, coordinando i soli obiettivi di investimento con la SFDR.
+- Sta preparando l'abrogazione del Regolamento ELTIF, per far confluire questi prodotti nella disciplina della tassonomia.
+
+**D:** ⚠️ Quali sono i tre temi in discussione sull'SFDR?
+**R:** «**Necessità di un migliore allineamento tra le diverse legislazioni**» (il disallineamento con la MiFID II); «**Misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento sui fondi di investimento europei a lungo termine**» (gli **ELTIF**); e la **revisione del quadro giuridico** da parte della **Commissione europea** in vista di una crescita «**intelligente, sostenibile e inclusiva**». ⚠️ Sono **tre** e procedono dal problema definitorio a quello degli strumenti, fino all'intervento istituzionale in corso.
+**Opzione:** La necessità di un migliore allineamento fra le diverse legislazioni; le misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento ELTIF; la revisione del quadro giuridico da parte della Commissione europea.
+**Distrattori:**
+- La necessità di un migliore allineamento fra le diverse legislazioni; le misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento ELTIF; l'introduzione di un regime sanzionatorio armonizzato contro il greenwashing.
+- La necessità di un migliore allineamento fra le diverse legislazioni; l'istituzione di un'autorità europea unica per la vigilanza sulla sostenibilità; la revisione del quadro giuridico da parte della Commissione europea.
+- L'abrogazione delle definizioni divergenti della MiFID II; le misure a sostegno dell'impiego di capitali verso attività sostenibili; la revisione del quadro giuridico da parte della Commissione europea.
+
+**D:** ⚠️ Come spiega il docente l'obbligo di divulgazione esteso a tutte le imprese?
+**R:** Con la disciplina del **comply or explain**, che le slide **non nominano** ([00:00:06]): «adesso avere prodotti sostenibili — o intesi come prodotti in linea con questa normativa — **è un must. Quindi se non li hai, spieghi perché**. È la disciplina del comply or explain: **o sei compliant con la normativa oppure puoi non esserlo, ma devi spiegarlo**». Le modalità che indica sono **tre**: «**disclaimer chiari sui tuoi siti internet**», «**presentazioni chiare ai tuoi investitori**», spiegarlo «**alle autorità di vigilanza qualora ti venga richiesto**». L'esito: «se la tua spiegazione viene ritenuta plausibile… **hai indirettamente adempiuto la normativa**». ⚠️ Solo nel transcript.
+
+**D:** ⚠️ Perché la SFDR interessa un corso di FinTech, secondo il docente?
+**R:** Perché si applica a chi fornisce **consulenza sugli investimenti**, e ciò include la **Robo Advisory**: «pensate alla diffusione della **Robo Advisory**, quindi della **consulenza basata sull'intelligenza artificiale**». La norma vale «**a 360 gradi, dal consulente finanziario che vi accoglie in banca al gestore di portafogli**», ma «**coinvolge anche tutto ciò che riguarda le consulenze con l'intelligenza artificiale**». Ne discendono le domande operative: come inserire in una consulenza fintech i **rischi di sostenibilità**, come considerare gli **impatti negativi**, quali siano gli **obiettivi di investimento sostenibili**. ⚠️ Il docente definisce la SFDR «**per voi il nucleo della normativa ESG**». ⚠️ Solo nel transcript ([00:00:06]).
+
+**D:** ⚠️ In che senso il FinTech è esposto ai criteri ESG, secondo la chiusa del docente?
+**R:** Su **due** fronti, che corrispondono alla **E** e alla **S**. Sul versante **ambientale**, il fintech «è una realtà che è per sua natura **molto vorace di energia**». Sul versante **sociale**, «è una realtà che **esclude molti soggetti**»: «per quanto possa essere difficile per un **65enne, un 70enne** affidarsi o approcciarsi al mondo del fintech, ecco, **teoricamente questo è un parametro che l'ESG non vede di buon occhio**… in realtà **si stanno escludendo moltissime categorie di persone** da questi apparati fintech». ⚠️ La conclusione: i criteri ESG «**stanno permeando tutto il mondo finanziario. Dal fondo alternativo di investimento, al fondo UCITS, a questi nuovi fondi ELTIF, al mondo fintech, alle criptovalute**», pur restando vero che «ad oggi **ancora si fatica a trovare un coordinamento tra le varie norme**». ⚠️ Solo nel transcript ([00:07:12]).
+
+**D:** ⚠️ Che anomalia presenta il piè di pagina del deck 20?
+**R:** Recita «**L'inclusione dei fattori ambienali** \[*sic*, per *ambientali*] **, sociali e di governance nei mercati finanziari (ESG) 2**», e lo fa **su tutte le slide dalla 2 alla 10** — **nove volte**, per propagazione della stessa riga. ⚠️ **Il deck 19 ha lo stesso piè di pagina scritto correttamente**: il refuso è quindi isolato al deck 20. È lo stesso meccanismo già visto alla **lezione 15** («Regolamento UE 2020/2013 sui prestatori» ripetuto sulle slide 3–9 contro l'agenda corretta): quando una riga si ripete identica su ogni slide ed è l'unica a divergere, è **quella** a essere sbagliata. ⚠️ Verificato sul rendering del PDF: non è un artefatto di estrazione. Da tenere presente solo per non dubitare del titolo della lezione.
+
+**D:** ⚠️ Quali fondi, oltre a UCITS e AIFMD, rientrano nell'ambito della SFDR?
+**R:** La slide scrive: «**la gestione di fondi, secondo la direttiva 2009/65/UE ("UCITS") o la direttiva 2011/61/UE ("AIFMD"), e di EuVECA e EuSEF**». ⚠️ **EuVECA ed EuSEF stanno solo sulla slide**: il docente si ferma a «gestione dei fondi, siano essi alternativi o UCITS». Sono la **coda dell'elenco**, bersaglio classico.
+**Opzione:** I fondi EuVECA ed EuSEF.
+**Distrattori:**
+- I fondi ELTIF e i fondi pensione negoziali.
+- I fondi EuVECA e i fondi comuni monetari.
+- Nessun altro: l'ambito si esaurisce nei fondi UCITS e in quelli alternativi.
+
+**D:** ⚠️ Quale prima esigenza soddisfa il Regolamento Tassonomia?
+**R:** «**Soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG**». ⚠️ Gli oggetti sono **due**: un'**etichetta comune condivisa** *e* una **misura uniforme**. Il docente vi legge la risposta al vuoto lasciato aperto dalla lezione precedente: «avevamo accennato alla **difficoltà di dare una definizione di sostenibilità**. Ecco, questa tassonomia si preoccupa un po' di **aiutare l'operatore a definirlo**».
+**Opzione:** L'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG.
+**Distrattori:**
+- L'esigenza di un'etichetta comune condivisa e di un regime sanzionatorio uniforme contro il greenwashing.
+- L'esigenza di una misura uniforme dei fattori ESG e di un registro europeo dei prodotti sostenibili.
+- L'esigenza di un'etichetta comune condivisa, lasciando agli Stati membri la misurazione dei fattori ESG.
+
+**D:** ⚠️ A chi si applica il Regolamento Tassonomia?
+**R:** «**Si applica non solo alle istituzioni dell'Unione europea (che adotteranno i criteri stabiliti dal Regolamento in relazione a qualsiasi misura futura sulla finanza sostenibile), ma anche alle imprese e agli operatori dei mercati finanziari**». ⚠️ Struttura «**non solo… ma anche…**»: i destinatari sono **tre** — **istituzioni dell'Unione**, **imprese**, **operatori dei mercati finanziari**. ⚠️ L'inciso vincola le istituzioni UE «**in relazione a qualsiasi misura futura sulla finanza sostenibile**».
+**Opzione:** Non solo alle istituzioni dell'Unione europea, che ne adotteranno i criteri per qualsiasi misura futura sulla finanza sostenibile, ma anche alle imprese e agli operatori dei mercati finanziari.
+**Distrattori:**
+- Soltanto alle istituzioni dell'Unione europea, che ne adotteranno i criteri per qualsiasi misura futura sulla finanza sostenibile.
+- Non solo alle istituzioni dell'Unione europea, ma anche alle imprese e agli operatori dei mercati finanziari, limitatamente ai prodotti qualificati come sostenibili.
+- Non solo agli operatori dei mercati finanziari, ma anche agli investitori al dettaglio che dichiarino preferenze di sostenibilità.
+
+**D:** ⚠️ Che cosa stabilisce il Regolamento Tassonomia a proposito delle attività economiche?
+**R:** «**Stabilisce i criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale**». ⚠️ La qualificazione è **ambientale**, non genericamente ESG: è il punto su cui l'esame può sostituire l'aggettivo. ⚠️ L'oggetto è l'**attività economica**, non il prodotto finanziario né l'impresa.
+**Opzione:** I criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale.
+**Distrattori:**
+- I criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale, sociale e di governance.
+- I criteri per determinare se un prodotto finanziario si qualifica come sostenibile dal punto di vista ambientale.
+- I criteri per determinare se un'impresa si qualifica come sostenibile dal punto di vista ambientale.
+
+**D:** ⚠️ Come giustifica il docente la proliferazione e il continuo rimaneggiamento delle norme ESG?
+**R:** Come una necessità strutturale: «si tratta di una **normale proliferazione** nel contesto europeo e locale quando si deve fare i conti con **fenomeni in costante evoluzione**», perché «**i tempi di gestazione** di queste normative **non** sono **indifferenti**» e «dal momento in cui si è iniziato a pensare di scriverla al momento in cui si arriva alla conclusione è passato un lasso di tempo tale per cui **probabilmente è già necessario farne un'altra**». Sul disordine cronologico degli atti: «**non spaventatevi di fronte all'apparente confusione cronologica**… è quello che viene definito come uno **standard market practice**. Purtroppo si è in una situazione tale per cui è necessario **continuamente rimaneggiare dei testi che sono stati appena licenziati**». ⚠️ Vi affianca l'avvertenza opposta: «**più si va nel dettaglio e più si danno informazioni**… ma dall'altro lato **si corre il rischio di entrare in quel loop del dare troppe informazioni creando eccessiva confusione**». ⚠️ Solo nel transcript ([00:04:06]).
