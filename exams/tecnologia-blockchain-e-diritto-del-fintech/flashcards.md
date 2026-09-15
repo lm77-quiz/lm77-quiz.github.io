@@ -4741,3 +4741,502 @@
 - Nell'ottobre 2020 ha vietato la vendita a qualunque investitore di ETP e derivati con cripto-asset come sottostante; nel giugno 2021 ha avvertito gli investitori che dovrebbero essere preparati a perdere tutti i loro soldi.
 - Nell'ottobre 2020 ha vietato agli investitori al dettaglio l'acquisto diretto di cripto-asset; nel giugno 2021 ha avvertito gli investitori che dovrebbero essere preparati a perdere tutti i loro soldi.
 - Nell'ottobre 2020 ha vietato la vendita agli investitori al dettaglio di ETP e derivati con cripto-asset come sottostante; nel giugno 2021 ha autorizzato la loro commercializzazione previa approvazione del prospetto.
+
+## Lezione 17 — Valute digitali, Crypto-assets e NFT (2)
+
+**D:** ⚠️ Da quali parole si compone il termine «criptovaluta», e che cosa significa?
+**R:** «**Il termine criptovaluta si compone di due parole: cripto e valuta, con ciò intendendosi una valuta "nascosta", nel senso che è visibile/utilizzabile solo conoscendo un determinato codice informatico (c.d. chiavi di accesso pubblica e privata)**». ⚠️ Le chiavi sono **due** — **pubblica e privata** — e la condizione riguarda **entrambe** le qualità, «**visibile/utilizzabile**». Il docente insiste che «sembrano delle banalità ma hanno **delle ripercussioni importanti** poi sugli argomenti della blockchain e della DLT».
+**Opzione:** Cripto e valuta: una valuta nascosta, visibile o utilizzabile solo conoscendo un determinato codice informatico, cioè le chiavi di accesso pubblica e privata.
+**Distrattori:**
+- Cripto e valuta: una valuta nascosta, visibile o utilizzabile solo conoscendo un determinato codice informatico, cioè la sola chiave di accesso privata.
+- Cripto e valuta: una valuta protetta, il cui valore è nascosto al mercato fino al momento della conversione in moneta avente corso legale.
+- Crittografia e valuta: una valuta il cui codice informatico è pubblico e verificabile da chiunque partecipi alla rete.
+
+**D:** In che rapporto stanno criptovalute e cryptoassets, secondo la slide?
+**R:** «**Secondo alcuni studi le criptovalute rientrerebbero nel più grande insieme dei cryptoassets, nel quale sono ricompresi anche i tokens, la cui funzione non è solamente e semplicemente quella di favorire il trasferimento di valore, così come avviene con una moneta virtuale**». ⚠️ È un rapporto di **inclusione**: criptovalute ⊂ cryptoassets. ⚠️ La slide si attenua due volte — «**secondo alcuni studi**» e il condizionale «**rientrerebbero**» —: non lo dà per acquisito.
+**Opzione:** Le criptovalute rientrerebbero nel più grande insieme dei cryptoassets, nel quale sono ricompresi anche i tokens.
+**Distrattori:**
+- I cryptoassets rientrerebbero nel più grande insieme delle criptovalute, nel quale sono ricompresi anche i tokens.
+- Criptovalute e cryptoassets sono due insiemi distinti e non sovrapponibili, il primo dei quali comprende i tokens.
+- Le criptovalute rientrerebbero nel più grande insieme dei cryptoassets, dal quale i tokens restano esclusi.
+
+**D:** ⚠️ In che forma esiste una criptovaluta, e a quale condizione può essere scambiata peer-to-peer?
+**R:** «**Una criptovaluta non esiste in forma fisica ma si genera e si scambia esclusivamente per via telematica. Essa, ove sussista il consenso tra i partecipanti alla relativa transazione, può essere scambiata in modalità peer-to-peer (ossia tra due dispositivi direttamente, senza necessità di intermediari) per acquistare beni e servizi**». ⚠️ Lo scambio peer-to-peer **non è incondizionato**: presuppone «**il consenso tra i partecipanti**». Il docente marca le due parole — «memorizzate queste parole **consenso e partecipanti** perché sono **le basi della blockchain**».
+**Opzione:** Non esiste in forma fisica e si genera e si scambia esclusivamente per via telematica; può essere scambiata peer-to-peer ove sussista il consenso tra i partecipanti alla transazione.
+**Distrattori:**
+- Non esiste in forma fisica e si genera e si scambia esclusivamente per via telematica; può sempre essere scambiata peer-to-peer, senza bisogno di alcun consenso.
+- Non esiste in forma fisica e si genera e si scambia esclusivamente per via telematica; può essere scambiata peer-to-peer solo con l'intervento di un intermediario autorizzato.
+- Esiste anche in forma fisica presso i cambiavalute autorizzati e si scambia per via telematica ove sussista il consenso tra i partecipanti alla transazione.
+
+**D:** ⚠️ Perché il Bitcoin è definito una «moneta virtuale bidirezionale»?
+**R:** Perché «**può essere facilmente convertita con le principali valute ufficiali e viceversa**». La slide lo qualifica anche come «**probabilmente la più famosa delle criptovalute**». ⚠️ La **bidirezionalità sta nella convertibilità nei due sensi**: riferirla a una sola direzione, o a una caratteristica diversa (il doppio uso come pagamento e investimento), è il distrattore naturale.
+**Opzione:** Perché può essere facilmente convertita con le principali valute ufficiali e viceversa.
+**Distrattori:**
+- Perché può essere facilmente convertita nelle principali valute ufficiali, ma non viceversa.
+- Perché può essere usata sia come mezzo di pagamento sia come strumento di investimento.
+- Perché può circolare sia su blockchain pubbliche sia su blockchain private.
+
+**D:** ⚠️ Qual è la definizione di cripto attività elaborata dalla Banca d'Italia?
+**R:** «**Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology**». ⚠️ Gli elementi sono **due e cumulativi**: **crittografia** *e* **DLT**. ⚠️ **Da tenere distinta dalle altre definizioni del corso**: la formula generale della lezione 16 («rappresentazione digitale di valore e di diritti…»), quella del MiCAR, quella della BCE («denaro digitale») e quella della stessa Banca d'Italia nell'Avvertenza del 2015 («rappresentazioni digitali di valore»).
+**Opzione:** Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology.
+**Distrattori:**
+- Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia o, in alternativa, sulla Distributed Ledger Technology.
+- Rappresentazione digitale di valore il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology.
+- Attività di natura digitale la cui emissione è riservata a soggetti autorizzati e il cui trasferimento è basato sulla Distributed Ledger Technology.
+
+**D:** ⚠️ Quali quattro precisazioni negative aggiunge la Banca d'Italia alla definizione di cripto attività?
+**R:** Che la cripto attività: «**Non svolge le funzioni economiche della moneta**»; «**Non integra la moneta da un punto di vista giuridico e legale**»; «**Non conferisce diritti di carattere economico (es. cedole e/o dividendi)**»; «**Non rappresenta passività di un ente emittente**». ⚠️ Le negazioni sono **quattro** e stanno su **piani diversi** — **economico**, **giuridico-legale**, dei **diritti patrimoniali**, del **bilancio dell'emittente** —: è l'elenco su cui lavora la *coda sostituita*.
+**Opzione:** Non svolge le funzioni economiche della moneta; non integra la moneta da un punto di vista giuridico e legale; non conferisce diritti di carattere economico; non rappresenta passività di un ente emittente.
+**Distrattori:**
+- Non svolge le funzioni economiche della moneta; non integra la moneta da un punto di vista giuridico e legale; non conferisce diritti di carattere economico; non può essere oggetto di custodia da parte di un istituto di credito.
+- Non svolge le funzioni economiche della moneta; non integra la moneta da un punto di vista giuridico e legale; conferisce diritti di carattere economico come cedole e dividendi; non rappresenta passività di un ente emittente.
+- Non svolge le funzioni economiche della moneta; non è soggetta ad alcuna forma di vigilanza; non conferisce diritti di carattere economico; non rappresenta passività di un ente emittente.
+
+**D:** ⚠️ Perché l'accettazione delle monete virtuali come mezzo di pagamento avviene su base volontaria?
+**R:** «**Va infine precisato che l'accettazione delle monete virtuali come mezzo di pagamento, in quanto non hanno corso legale in Italia, avviene su base volontaria**». La slide aggiunge: «**le monete virtuali non sono regolate da enti centrali governativi, ma sono generalmente emesse e controllate dall'ente emittente**». ⚠️ Il nesso «**in quanto**» è la parte che un distrattore recide: la volontarietà è **la conseguenza** dell'assenza di corso legale, non una regola autonoma. ⚠️ Il quantificatore è «**generalmente** emesse e controllate dall'ente emittente», non «sempre». Il docente: «ti pago in bitcoin, **accetti o non accetti?**».
+**Opzione:** Perché non hanno corso legale in Italia; e non sono regolate da enti centrali governativi, ma generalmente emesse e controllate dall'ente emittente.
+**Distrattori:**
+- Perché la normativa antiriciclaggio vieta di imporne l'accettazione; e non sono regolate da enti centrali governativi, ma generalmente emesse e controllate dall'ente emittente.
+- Perché non hanno corso legale in Italia; e sono regolate da enti centrali governativi che ne controllano l'emissione.
+- Perché hanno corso legale solo per importi limitati; e sono generalmente emesse e controllate dall'ente emittente.
+
+**D:** ⚠️ Quali sono le tre forme di stablecoins, e che cosa le distingue?
+**R:** Le distingue il **collaterale**. **①** «**con un collaterale in valuta fiat**»: «una certa quantità di moneta in corso legale, **tipo il dollaro**, venga depositata a garanzia» e le stablecoins «siano emesse **in proporzione uno a uno** rispetto a tale moneta». **②** «il collaterale è invece **sostenuto da altre criptovalute e non da dollari o oro**», sicché «le garanzie **fluttueranno** e quindi anche la moneta virtuale in realtà **non sarà così stabile e sarà destinata a fluttuare**». **③** «**senza garanzie**», monete «che si basano **esclusivamente sulla fiducia**». ⚠️ Solo la **prima** ha il rapporto **uno a uno**; la **seconda si autosmentisce**.
+**Opzione:** Il collaterale: valuta fiat con emissione in proporzione uno a uno; altre criptovalute; nessuna garanzia.
+**Distrattori:**
+- Il collaterale: valuta fiat con emissione in proporzione uno a uno; metalli preziosi come l'oro; nessuna garanzia.
+- Il collaterale: valuta fiat senza rapporto fisso di emissione; altre criptovalute in proporzione uno a uno; nessuna garanzia.
+- L'emittente: una banca centrale; un istituto di moneta elettronica; un soggetto privato non vigilato.
+
+**D:** ⚠️ Che cosa manca alle stablecoins della terza famiglia, oltre alla garanzia?
+**R:** «**L'ultima famiglia di stablecoins è quella senza garanzie, trattandosi di monete che si basano esclusivamente sulla fiducia: chi le acquista crede che il prezzo rimarrà fisso, senza che vi sia alcun tipo di arbitraggio dei mercati per mantenerne il valore stabile**». ⚠️ Ciò che manca non è solo la garanzia: manca «**alcun tipo di arbitraggio dei mercati**» che ne mantenga stabile il valore. È la coda della frase, ed è la parte discriminante.
+**Opzione:** Manca qualsiasi arbitraggio dei mercati che ne mantenga stabile il valore: si basano esclusivamente sulla fiducia.
+**Distrattori:**
+- Manca qualsiasi autorizzazione da parte dell'autorità di vigilanza: si basano esclusivamente sulla fiducia.
+- Manca la possibilità di conversione in valuta avente corso legale: si basano esclusivamente sulla fiducia.
+- Manca un emittente identificabile: il prezzo è mantenuto stabile da un arbitraggio automatico dei mercati.
+
+**D:** ⚠️ Che cosa chiarisce l'ESMA sulla definizione di criptovaluta, e a quale conclusione preliminare arriva?
+**R:** «**L'ESMA chiarisce che non esiste ancora nella legislazione comunitaria una definizione di criptovaluta**», si chiede se rientrino nella **MiFID II** e rileva «**quanto siano diverse le qualificazioni di questi strumenti**». La conclusione: «**Per le autorità regolamentari, si tratterebbe di strumenti assimilabili agli strumenti finanziari con l'eccezione di quelli definiti come utility**». ⚠️ **L'eccezione degli utility è parte della conclusione**: sopprimerla è il distrattore da *negazione soppressa*.
+**Opzione:** Che non esiste ancora una definizione comunitaria di criptovaluta; e che si tratterebbe di strumenti assimilabili agli strumenti finanziari, con l'eccezione di quelli definiti come utility.
+**Distrattori:**
+- Che non esiste ancora una definizione comunitaria di criptovaluta; e che si tratterebbe di strumenti assimilabili agli strumenti finanziari, senza alcuna eccezione.
+- Che non esiste ancora una definizione comunitaria di criptovaluta; e che si tratterebbe di strumenti assimilabili alla moneta elettronica, con l'eccezione di quelli definiti come utility.
+- Che la definizione comunitaria di criptovaluta è già contenuta nella MiFID II; e che si tratterebbe di strumenti assimilabili agli strumenti finanziari, con l'eccezione di quelli definiti come utility.
+
+**D:** ⚠️ A quali discipline potrebbero essere soggette le criptovalute, secondo l'ESMA?
+**R:** «**Direttiva sui prospetti (2003/71/EC)**»; «**Direttiva sulla trasparenza dei servizi finanziari (2013/50/EU)**»; «**Direttiva sull'offerta di strumenti finanziari (MiFID)**»; e inoltre «**la regolamentazione sul market abuse (MAR) e quella sulla gestione dei fondi alternativi di investimento (2011/61/EU)**». ⚠️ **I numeri stanno solo sulla slide**: il docente ne dice i soli nomi. Sono **coppie soggetto + norma** — prospetti → **2003/71/EC**, trasparenza → **2013/50/EU**, fondi alternativi → **2011/61/EU** — e l'intero blocco è **condizionale** («Se questa preliminare conclusione è corretta»).
+**Opzione:** Direttiva sui prospetti 2003/71/EC; direttiva sulla trasparenza dei servizi finanziari 2013/50/EU; MiFID; regolamentazione sul market abuse (MAR) e sulla gestione dei fondi alternativi di investimento 2011/61/EU.
+**Distrattori:**
+- Direttiva sui prospetti 2013/50/EU; direttiva sulla trasparenza dei servizi finanziari 2003/71/EC; MiFID; regolamentazione sul market abuse (MAR) e sulla gestione dei fondi alternativi di investimento 2011/61/EU.
+- Direttiva sui prospetti 2003/71/EC; direttiva sulla trasparenza dei servizi finanziari 2013/50/EU; PSD2; regolamentazione sul market abuse (MAR) e sulla gestione dei fondi alternativi di investimento 2011/61/EU.
+- Direttiva sui prospetti 2003/71/EC; direttiva sulla trasparenza dei servizi finanziari 2013/50/EU; MiFID; regolamentazione sul market abuse (MAR) e direttiva sui gestori di crediti 2021/2167/UE.
+
+**D:** ⚠️ Che cosa ha pubblicato l'EBA il 9 gennaio 2019, e che cosa vi considera?
+**R:** «**Il 9 gennaio 2019 l'EBA ha pubblicato un "Report with advice for the European Commission" sulle criptovalute**», nel quale «viene presa in considerazione anche la categoria delle **monete di pagamento o di scambio (come appunto i Bitcoin), che non forniscono diritti ma servono solo come mezzo di scambio per comprare o vendere o per finalità di investimento**», e «**pone la questione se le criptovalute possano rientrare o meno nella categoria della moneta elettronica**». ⚠️ **Data e titolo inglese stanno solo sulla slide**. ⚠️ La coda «**o per finalità di investimento**» è omessa dal docente ed è il bersaglio tipico.
+**Opzione:** Un Report with advice for the European Commission; vi considera le monete di pagamento o di scambio, che non forniscono diritti ma servono solo come mezzo di scambio per comprare o vendere o per finalità di investimento.
+**Distrattori:**
+- Un Report with advice for the European Commission; vi considera le monete di pagamento o di scambio, che non forniscono diritti ma servono solo come mezzo di scambio per comprare o vendere.
+- Un Opinion on virtual currencies; vi considera le monete di pagamento o di scambio, che non forniscono diritti ma servono solo come mezzo di scambio per comprare o vendere o per finalità di investimento.
+- Un Report with advice for the European Commission; vi considera le monete di pagamento o di scambio, che conferiscono ai detentori diritti economici analoghi a quelli di uno strumento finanziario.
+
+**D:** ⚠️ Quali attività l'EBA segnala come pericolose, e in quale disciplina vorrebbe ricomprenderle?
+**R:** «**L'EBA ha segnalato poi come l'attività di exchange e di custode dei portafogli virtuali creati con l'emissione di criptovaluta possa essere molto pericolosa, e come entrambe le categorie dei predetti soggetti dovrebbero essere ricomprese nell'ambito di applicazione della Direttiva AML**». ⚠️ I soggetti sono **due** e la slide lo ribadisce con «**entrambe le categorie**». ⚠️ Sono **le stesse due attività** che alla slide 9 restano scoperte da ogni disciplina: **conversione** e **custodia di portafogli virtuali**.
+**Opzione:** L'attività di exchange e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva AML.
+**Distrattori:**
+- L'attività di exchange e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva PSD2.
+- La sola attività di exchange; dovrebbe rientrare nell'ambito di applicazione della Direttiva AML.
+- L'attività di mining e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva AML.
+
+**D:** ⚠️ Come definisce la slide gli utility tokens emessi per effetto di una ICO?
+**R:** «**Riconoscono al soggetto che li detiene un diritto ad acquistare un determinato bene o servizio ad un prezzo predeterminato o da determinarsi, che verrà reso disponibile per effetto del completamento del progetto, realizzato dal soggetto che ha raccolto il capitale mediante una ICO che preveda l'emissione di questa tipologia di strumenti**». ⚠️ **È la terza definizione di utility token del corso** e non coincide con le due della lezione 16: qui è un **diritto ad acquistare**, a un prezzo «**predeterminato o da determinarsi**», su un bene **non ancora disponibile** («per effetto del **completamento del progetto**»).
+**Opzione:** Riconoscono a chi li detiene un diritto ad acquistare un determinato bene o servizio a un prezzo predeterminato o da determinarsi, che sarà reso disponibile per effetto del completamento del progetto.
+**Distrattori:**
+- Riconoscono a chi li detiene un diritto ad acquistare un determinato bene o servizio a un prezzo necessariamente predeterminato, che sarà reso disponibile per effetto del completamento del progetto.
+- Riconoscono a chi li detiene un diritto di accesso a beni e servizi tramite le DLT, accettato solo dall'emittente di quel token.
+- Riconoscono a chi li detiene un diritto ad acquistare un determinato bene o servizio già disponibile sul mercato, a un prezzo predeterminato o da determinarsi.
+
+**D:** ⚠️ Che cosa sono gli investment tokens e i currency tokens, secondo la slide?
+**R:** «**Investment tokens: rappresentano uno strumento finanziario, sia esso un'azione, on'obbligazione** \[*sic*, per *un'obbligazione*] **o uno strumento finanziario di altro tipo**». «**Currency tokens: hanno esclusivamente la funzione di una criptovaluta e sono utilizzati come metodo di pagamento per comprare beni o servizi**». ⚠️ Il quantificatore «**esclusivamente**» qualifica i **currency tokens**. ⚠️ **Le macro categorie sono tre**, non quattro: l'NFT non compare in questa tassonomia ed è trattato a parte.
+**Opzione:** Gli investment tokens rappresentano uno strumento finanziario, sia esso un'azione, un'obbligazione o altro; i currency tokens hanno esclusivamente la funzione di una criptovaluta e sono usati come metodo di pagamento per comprare beni o servizi.
+**Distrattori:**
+- Gli investment tokens hanno esclusivamente la funzione di una criptovaluta e sono usati come metodo di pagamento; i currency tokens rappresentano uno strumento finanziario, sia esso un'azione, un'obbligazione o altro.
+- Gli investment tokens rappresentano uno strumento finanziario, ma solo se si tratta di azioni o obbligazioni quotate; i currency tokens hanno esclusivamente la funzione di una criptovaluta.
+- Gli investment tokens rappresentano uno strumento finanziario, sia esso un'azione, un'obbligazione o altro; i currency tokens danno accesso a beni e servizi resi disponibili al completamento di un progetto.
+
+**D:** ⚠️ Che cosa accade se un token svolge più funzioni?
+**R:** «**Un token potrebbe anche svolgere diverse funzioni e quindi appartenere a diverse categorie, consentendo al suo proprietario di ricevere più diritti o utilità tra quelle sopra indicate e, tale multi funzione, determinerà la possibile applicazione di più norme alla sua emissione e al successivo scambio**». ⚠️ La conseguenza è **doppia**: più norme si applicano **all'emissione** *e* **al successivo scambio**. ⚠️ Il verbo è «**determinerà la possibile applicazione**», non un'applicazione certa.
+**Opzione:** Può appartenere a più categorie, e la multifunzione determinerà la possibile applicazione di più norme alla sua emissione e al successivo scambio.
+**Distrattori:**
+- Può appartenere a più categorie, e la multifunzione determinerà la possibile applicazione di più norme alla sola emissione.
+- Può appartenere a più categorie, ma si applica in ogni caso la sola disciplina della categoria prevalente.
+- Deve essere ricondotto d'ufficio alla categoria degli investment tokens, cui si applicano le norme più severe.
+
+**D:** ⚠️ Attraverso quale documento dovrebbe essere verificabile la destinazione alla negoziazione delle cripto-attività, e con quale limite?
+**R:** Attraverso «**le informazioni rese nel documento di informativa preliminare sull'offerta (White Paper)**». ⚠️ **Ma la slide si auto-limita subito dopo**: considerata la possibilità che i token «**siano scambiati direttamente tra i loro detentori, senza necessità di terzi intermediari, non pare questa una caratteristica specifica dello strumento, ma piuttosto una sua qualità intrinseca e genericamente rinvenibile in ogni token**». Chi cita la sola prima metà ribalta il senso del periodo.
+**Opzione:** Attraverso il White Paper; ma la destinazione alla negoziazione non pare una caratteristica specifica dello strumento, bensì una qualità intrinseca e genericamente rinvenibile in ogni token.
+**Distrattori:**
+- Attraverso il White Paper; e la destinazione alla negoziazione è la caratteristica specifica che distingue una cripto-attività da ogni altro token.
+- Attraverso il token purchase agreement; ma la destinazione alla negoziazione non pare una caratteristica specifica dello strumento, bensì una qualità intrinseca di ogni token.
+- Attraverso il prospetto informativo approvato dall'autorità di vigilanza; e la destinazione alla negoziazione va verificata caso per caso.
+
+**D:** ⚠️ Per quali scopi è predisposto il White Paper?
+**R:** Per **tre**: «**Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare**»; «**Rappresentare a cosa servono i tokens emessi con l'ICO**»; «**Spiegare come si acquistano e quali diritti conferiscono ai loro acquirenti**». ⚠️ Il terzo scopo ne contiene **due** (come si acquistano **e** quali diritti conferiscono). Il docente: il White Paper è «di fatto **plasmato sui documenti di offerta che già conosciamo, ovvero i prospetti**».
+**Opzione:** Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare; rappresentare a cosa servono i token emessi con l'ICO; spiegare come si acquistano e quali diritti conferiscono ai loro acquirenti.
+**Distrattori:**
+- Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare; rappresentare a cosa servono i token emessi con l'ICO; garantire agli acquirenti il rimborso del corrispettivo in caso di mancato completamento del progetto.
+- Fornire una sintetica descrizione del progetto che l'emittente vuole finanziare; rappresentare a cosa servono i token emessi con l'ICO; spiegare come si acquistano, senza indicare i diritti che conferiscono.
+- Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare; regolare i termini e le condizioni per l'acquisto dei token; spiegare quali diritti essi conferiscono.
+
+**D:** ⚠️ Che cos'è il token purchase agreement e in che rapporto sta con il White Paper?
+**R:** È il documento che, «**insieme al White Paper**», la società «emittente» rende disponibile: «**il contratto che regola i termini e le condizioni per l'acquisto dei tokens emessi a servizio dell'ICO e che risulta utile a comprendere meglio la funzione attribuita ai tokens**». ⚠️ **Due documenti distinti e complementari**: il White Paper è **informativo e preliminare**, il token purchase agreement è il **contratto**. Confonderli è il distrattore naturale.
+**Opzione:** È il contratto che regola i termini e le condizioni per l'acquisto dei token emessi a servizio dell'ICO, reso disponibile insieme al White Paper.
+**Distrattori:**
+- È il documento di informativa preliminare sull'offerta, reso disponibile insieme al contratto di acquisto dei token.
+- È il contratto che regola i termini e le condizioni per l'acquisto dei token emessi a servizio dell'ICO, e sostituisce il White Paper quando l'offerta è rivolta a investitori professionali.
+- È l'atto con cui l'autorità di vigilanza approva i termini e le condizioni dell'offerta di token.
+
+**D:** ⚠️ Come si dividono il campo ESMA ed EBA sulle criptovalute?
+**R:** **ESMA → investment tokens**: «**laddove il token sia qualificabile come un investment token in quanto rappresentativo di uno strumento finanziario, potranno trovare applicazione le regole di cui alla normativa MiFID, alla Direttiva Prospetto, alla Direttiva sul Market Abuse, ecc.**». **EBA → currency tokens**: potrebbero essere soggetti «**alla Direttiva EMD (che disciplina l'emissione di moneta elettronica) se ne ricorressero i relativi presupposti e alla Direttiva PSD2 (servizi di pagamento) ove fossero qualificabili come fondi ai sensi del par. 25 dell'art. 4 di quest'ultima Direttiva**». ⚠️ Scambiare autorità e categoria è il distrattore naturale; ciascun rinvio ha inoltre una **condizione propria**.
+**Opzione:** L'ESMA si occupa degli investment tokens, cui potrebbero applicarsi MiFID, Direttiva Prospetto e Direttiva sul Market Abuse; l'EBA dei currency tokens, cui potrebbero applicarsi la Direttiva EMD e la PSD2.
+**Distrattori:**
+- L'ESMA si occupa dei currency tokens, cui potrebbero applicarsi la Direttiva EMD e la PSD2; l'EBA degli investment tokens, cui potrebbero applicarsi MiFID, Direttiva Prospetto e Direttiva sul Market Abuse.
+- L'ESMA si occupa degli utility tokens, cui potrebbero applicarsi MiFID e Direttiva Prospetto; l'EBA dei currency tokens, cui potrebbero applicarsi la Direttiva EMD e la PSD2.
+- L'ESMA si occupa degli investment tokens, cui potrebbero applicarsi la Direttiva EMD e la PSD2; l'EBA dei currency tokens, cui potrebbero applicarsi MiFID e Direttiva Prospetto.
+
+**D:** ⚠️ A quale disposizione rinvia l'EBA per stabilire se i currency tokens siano «fondi» ai fini della PSD2?
+**R:** Al «**par. 25 dell'art. 4 di quest'ultima Direttiva**», e la condizione è che siano «**utilizzati per svolgere servizi di pagamento**». ⚠️ **Trappola da coppia soggetto + norma**: nella lezione 16 la slide 6 citava l'«**articolo 4, punto 5, della direttiva 2007/64/CE**» per la definizione di moneta elettronica della **EMD II**. Stesso numero d'articolo, **direttive diverse**: la domanda non è mai *quale numero*, ma **quale testo**.
+**Opzione:** Al paragrafo 25 dell'articolo 4 della PSD2, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
+**Distrattori:**
+- Al paragrafo 5 dell'articolo 4 della PSD2, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
+- Al paragrafo 25 dell'articolo 4 della Direttiva EMD, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
+- All'allegato I della MiFID II, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
+
+**D:** ⚠️ In quali ipotesi nessuna delle discipline citate sarebbe applicabile, e che cosa se ne conclude?
+**R:** «**Nelle ipotesi in cui i tokens fossero utilizzati al solo scopo di convertire valuta avente corso legale in criptovaluta o tra criptovalute e nel caso dei servizi di custodia di portafogli virtuali di criptovalute**», «**con la conseguenza che le attuali norme e regolamenti appaiono essere insufficienti ed inadeguate per operare una corretta regolamentazione di tali attività**». ⚠️ **Sono le stesse due attività** che l'EBA voleva ricomprese nella Direttiva AML. ⚠️ La conclusione è **doppia**: «**insufficienti ed inadeguate**». Il docente: «l'autorità stessa prende una direzione **che sa essere insufficiente**».
+**Opzione:** Quando i token servano solo a convertire valuta avente corso legale in criptovaluta o tra criptovalute, e nel caso dei servizi di custodia di portafogli virtuali; le norme attuali appaiono insufficienti ed inadeguate.
+**Distrattori:**
+- Quando i token servano solo a convertire valuta avente corso legale in criptovaluta o tra criptovalute, e nel caso dei servizi di custodia di portafogli virtuali; le norme attuali appaiono comunque sufficienti se interpretate estensivamente.
+- Quando i token siano qualificabili come strumenti finanziari, e nel caso dei servizi di custodia di portafogli virtuali; le norme attuali appaiono insufficienti ed inadeguate.
+- Quando i token servano solo a convertire valuta avente corso legale in criptovaluta, e nel caso delle attività di mining; le norme attuali appaiono insufficienti ed inadeguate.
+
+**D:** ⚠️ Che cos'è un NFT secondo la slide, e quale difetto contiene quella definizione?
+**R:** «**Un token non fungibile (non-fungible token, o NFT) è un tipo speciale di token crittografico che rappresenta qualcosa di unico; gli NFT non sono quindi reciprocamente intercambiabili: possono essere scambiati con la stessa quantità dello stesso tipo, proprio perché unici, possibilmente rari (scarsi) e perchè** \[*sic*] **ognuno possiede diverse funzionalità e caratteristiche**». ⚠️ **La frase si contraddice da sola**: «non sono reciprocamente intercambiabili» e «**possono** essere scambiati con la stessa quantità dello stesso tipo» sono incompatibili — manca una negazione. Il difetto è **stampato nella slide** (verificato sul rendering del deck) e il docente **la legge così com'è**. All'esame va citata come stampata, ma il discriminante **affidabile** è quello del bullet successivo: fungibili **divisibili in frazioni**, non fungibili «**definitivamente indivisibili**».
+
+**D:** ⚠️ Qual è la principale differenza fra token fungibili e non fungibili?
+**R:** «**Una delle principali differenze tra token fungibili e non fungibili è il fatto che i primi sono divisibili in frazioni, mentre i secondi sono definitivamente indivisibili**». ⚠️ È il **criterio pulito**, da preferire alla frase contraddittoria che lo precede sulla stessa slide. ⚠️ L'ASR rende «indivisibili» come «**invisibili**»: errore di trascrizione, non una variante. Il docente ne dà la ragione: «non si può spezzare perché altrimenti **perderebbe la sua unicità, la sua funzione**».
+**Opzione:** I fungibili sono divisibili in frazioni, mentre i non fungibili sono definitivamente indivisibili.
+**Distrattori:**
+- I fungibili sono definitivamente indivisibili, mentre i non fungibili sono divisibili in frazioni.
+- I fungibili sono divisibili in frazioni, mentre i non fungibili sono divisibili solo con il consenso dell'emittente.
+- I fungibili sono registrati su blockchain pubbliche, mentre i non fungibili sono definitivamente indivisibili.
+
+**D:** ⚠️ Per che cosa vengono utilizzati gli NFT, e in quali applicazioni?
+**R:** «**Gli NFT vengono utilizzati per creare scarsità digitale verificabile, proprietà digitale e/o possibilità di interoperabilità delle risorse su più piattaforme. Gli NFT vengono utilizzati in diverse applicazioni specifiche, che richiedono oggetti digitali unici come crypto art, oggetti da collezione digitali e giochi online**». ⚠️ Due elenchi da **tre** voci ciascuno, entrambi bersaglio di *coda sostituita*. ⚠️ La scarsità è «**verificabile**».
+**Opzione:** Per creare scarsità digitale verificabile, proprietà digitale e interoperabilità delle risorse su più piattaforme; in applicazioni come crypto art, oggetti da collezione digitali e giochi online.
+**Distrattori:**
+- Per creare scarsità digitale verificabile, proprietà digitale e interoperabilità delle risorse su più piattaforme; in applicazioni come crypto art, oggetti da collezione digitali e sistemi di pagamento istantaneo.
+- Per creare scarsità digitale verificabile, liquidità immediata e interoperabilità delle risorse su più piattaforme; in applicazioni come crypto art, oggetti da collezione digitali e giochi online.
+- Per creare scarsità digitale non verificabile, proprietà digitale e interoperabilità delle risorse su un'unica piattaforma; in applicazioni come crypto art e giochi online.
+
+**D:** ⚠️ Che cosa rappresentano gli NFT rispetto alla proprietà, e in che direzione va la tokenizzazione?
+**R:** «**Gli NFT rappresentano quindi un'evoluzione della proprietà fisica di un determinato bene. Sono degli asset digitali unici che permettono a chi li usa di esserne i veri proprietari. Possono essere scambiati in marketplace appositi creando così un processo di tokenizzazione dalla realtà al digitale**». ⚠️ La **direzione** è «**dalla realtà al digitale**»: è una parola di direzione, e capovolgerla è il distrattore naturale.
+**Opzione:** Un'evoluzione della proprietà fisica di un determinato bene; e la tokenizzazione va dalla realtà al digitale.
+**Distrattori:**
+- Un'evoluzione della proprietà fisica di un determinato bene; e la tokenizzazione va dal digitale alla realtà.
+- Una forma di possesso senza proprietà del bene sottostante; e la tokenizzazione va dalla realtà al digitale.
+- Un titolo rappresentativo della proprietà fisica del bene, opponibile ai terzi; e la tokenizzazione va dalla realtà al digitale.
+
+**D:** ⚠️ Quali sono le quattro applicazioni degli NFT elencate dalla slide?
+**R:** «**PROPRIETÀ INTELLETTUALE**» (quadro, canzone, brevetto o altri diritti IP; «ci sono aziende che vendono token come licenze»); «**REAL ESTATE**» (immobili, oggetti preziosi, veicoli e tutte le altre proprietà); «**SELF SOVEREIGN IDENTITY**» (verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze); «**DOCUMENTI FINANZIARI**» (fatture, ordini, garanzie, bollette). ⚠️ **Sono quattro e il docente ne commenta solo tre**: salta del tutto la **SELF SOVEREIGN IDENTITY**. È la voce che sta **solo sulla slide** — coda d'elenco, bersaglio classico.
+**Opzione:** Proprietà intellettuale, real estate, self sovereign identity, documenti finanziari.
+**Distrattori:**
+- Proprietà intellettuale, real estate, sistemi di pagamento, documenti finanziari.
+- Proprietà intellettuale, real estate, self sovereign identity, contratti di lavoro.
+- Proprietà industriale, real estate, self sovereign identity, documenti finanziari.
+
+**D:** ⚠️ A che cosa possono servire gli NFT nella self sovereign identity?
+**R:** «**Gli NFT possono anche servire per verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze e altro. Tutti questi oggetti possono essere tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi**». ⚠️ **È la voce che il docente salta del tutto**, e quindi quella che si può conoscere **solo dalla slide**. ⚠️ La protezione è **doppia**: da **contraffazioni** *o* **abusi**.
+**Opzione:** A verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche e onorificenze, tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi.
+**Distrattori:**
+- A verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche e onorificenze, la cui autenticità resta però certificabile solo da un'autorità pubblica.
+- A verificare l'identità dei soli soggetti già titolari di un'identità digitale rilasciata dallo Stato, preservandola da contraffazioni o abusi.
+- A rappresentare fatture, ordini, garanzie e bollette, tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi.
+
+**D:** ⚠️ Quali problemi pone la tutela dei consumatori nel fenomeno NFT?
+**R:** La complessità delle tecnologie «**(DLT, blockchain, smart contract, token, IPFS, valute virtuali)**» non permette di essere certi che i consumatori «**siano effettivamente informati sul servizio o prodotto che stanno acquistando**»: spesso «**non leggono i c.d. Terms of Service**» o «**non comprendono le clausole in essi inserite**». ⚠️ **Il problema riguarda anche gli artisti**: «neppure gli artisti spesso hanno idea di **cosa stanno creando, quali diritti stanno cedendo e a quali obblighi essi vanno incontro**». ⚠️ Sul **recesso** la slide è netta: la blockchain «**non rende possibile l'offerta di sistemi che garantiscono il diritto di recesso**», e «**non c'è modo di risolvere il contratto e restituire il bene con conseguente ristoro delle somme spese**».
+**Opzione:** I consumatori spesso non leggono o non comprendono i Terms of Service, e neppure gli artisti sanno quali diritti cedono; inoltre la blockchain non rende possibile offrire sistemi che garantiscano il diritto di recesso.
+**Distrattori:**
+- I consumatori spesso non leggono o non comprendono i Terms of Service, mentre gli artisti sono pienamente consapevoli dei diritti che cedono; inoltre la blockchain non rende possibile offrire sistemi che garantiscano il diritto di recesso.
+- I consumatori spesso non leggono o non comprendono i Terms of Service, e neppure gli artisti sanno quali diritti cedono; il diritto di recesso resta però garantito dalla disciplina dei contratti a distanza.
+- I consumatori sono adeguatamente informati dalle piattaforme, ma non lo sono gli artisti; e la blockchain non rende possibile offrire sistemi che garantiscano il diritto di recesso.
+
+**D:** ⚠️ Chi è obbligato al KYC nel fenomeno NFT, e in forza di quali fonti?
+**R:** «**Ai sensi della c.d. V Direttiva dell'UE e del D.Lgs. 231/2007 (art. 3 comma 5 lettere b), c), i) e i-bis))**», sono obbligati «**tanto le gallerie, che le case d'asta, che i c.d. crypto-asset service provider**» a svolgere «**attività di adeguata verifica della clientela (il c.d. KYC - Know Your Customer) e monitoraggio costante**». ⚠️ I soggetti sono **tre** e gli obblighi **due**. ⚠️ Il rinvio puntuale alle lettere del D.Lgs. 231/2007 sta **solo sulla slide**. ⚠️ La slide constata che «**attualmente, non vi è traccia di attività di questo genere sulle maggiori piattaforme**».
+**Opzione:** Gallerie, case d'asta e crypto-asset service provider, in forza della V Direttiva UE e del D.Lgs. 231/2007; devono svolgere adeguata verifica della clientela e monitoraggio costante.
+**Distrattori:**
+- Gallerie, case d'asta e crypto-asset service provider, in forza della V Direttiva UE e del D.Lgs. 231/2007; devono svolgere la sola adeguata verifica della clientela al momento dell'onboarding.
+- I soli crypto-asset service provider, in forza della V Direttiva UE e del D.Lgs. 231/2007; devono svolgere adeguata verifica della clientela e monitoraggio costante.
+- Gallerie, case d'asta e crypto-asset service provider, in forza della IV Direttiva UE e del D.Lgs. 58/1998; devono svolgere adeguata verifica della clientela e monitoraggio costante.
+
+**D:** ⚠️ Quando gli NFT potrebbero ricadere nell'alveo dei prodotti finanziari, e con quali conseguenze?
+**R:** «**Nel momento in cui, in quanto crypto-asset, il loro acquisto venga proposto ponendo l'accento sull'aspettativa di un ritorno finanziario (dovuto all'aumento di valore del bene)**». In tal caso «il fenomeno potrebbe essere attenzionato dalle autorità regolatorie come la **SEC** negli Stati Uniti d'America, la **FCA** nel Regno Unito o la **CONSOB** nella giurisdizione italiana», e «**ai sensi dell'art. 166 del Testo Unico delle disposizioni in materia di intermediazione finanziaria, questa attività potrebbe integrare il delitto di abusivismo**». ⚠️ Il criterio è **il modo in cui l'acquisto viene proposto**, non la natura intrinseca del token. ⚠️ Il numero dell'articolo sta **solo sulla slide**.
+**Opzione:** Quando il loro acquisto venga proposto ponendo l'accento sull'aspettativa di un ritorno finanziario; e ai sensi dell'art. 166 del Testo Unico dell'intermediazione finanziaria l'attività potrebbe integrare il delitto di abusivismo.
+**Distrattori:**
+- Quando il loro acquisto venga proposto ponendo l'accento sull'aspettativa di un ritorno finanziario; e ai sensi dell'art. 166 del Testo Unico bancario l'attività potrebbe integrare il delitto di abusivismo.
+- Quando siano emessi da un soggetto vigilato e negoziati su un mercato regolamentato; e ai sensi dell'art. 166 del Testo Unico dell'intermediazione finanziaria l'attività potrebbe integrare il delitto di abusivismo.
+- Quando il loro acquisto venga proposto ponendo l'accento sull'aspettativa di un ritorno finanziario; e ai sensi dell'art. 166 del Testo Unico dell'intermediazione finanziaria l'attività è in ogni caso vietata.
+
+**D:** ⚠️ Quali autorità potrebbero occuparsi degli NFT qualificati come prodotti finanziari, e in quali giurisdizioni?
+**R:** «**La SEC negli Stati Uniti d'America, la FCA nel Regno Unito o la CONSOB nella giurisdizione italiana**». ⚠️ **Coppia autorità + giurisdizione** da non scambiare: sono **tre**, e il docente ne nomina a voce solo **due** (FCA e Consob). ⚠️ Solo nel transcript il docente aggiunge un interrogativo ulteriore, assente dalla slide: «secondo il **testo unico bancario**, questi prodotti potrebbero essere accostati anche a **prodotti emessi dalle banche**?».
+**Opzione:** La SEC negli Stati Uniti, la FCA nel Regno Unito e la CONSOB in Italia.
+**Distrattori:**
+- La SEC negli Stati Uniti, la CONSOB nel Regno Unito e la FCA in Italia.
+- La FED negli Stati Uniti, la FCA nel Regno Unito e la CONSOB in Italia.
+- La SEC negli Stati Uniti, la FCA nel Regno Unito e la Banca d'Italia in Italia.
+
+**D:** ⚠️ Qual è, secondo il docente, l'approccio del regolatore alle criptovalute — e perché è materia d'esame?
+**R:** Il filo conduttore è «**evitare il più possibile che la situazione sfugga di mano**», e per farlo «si propone di **inserire in regolamentazioni esistenti**»: «l'approccio del regolatore è quello di dire **cerchiamo di incasellare queste criptovalute all'interno di qualcosa che già conosciamo**». Vale per la Banca d'Italia, per l'ESMA e per l'EBA allo stesso modo — «per voi questo sarà diventando come **un disco rotto**». ⚠️ Il docente lo **dichiara espressamente materia d'esame**: «questo è un tema importante che poi **sarà richiesto anche per chi farà l'esame con me**, cioè l'**approccio del regolatore al fintech a livello nazionale e a livello europeo**, quindi capire un po' anche le **prospettive evolutive** di questo approccio». La ragione che ne dà: «è **difficile culturalmente accettare che qualcosa che abbia a che fare col sistema finanziario non sia regolamentato**, e allora nel dubbio si cerca di **stringere le maglie**… in questo momento probabilmente questo è **il migliore compromesso**». ⚠️ Sta **solo nel transcript**.
+
+## Lezione 18 — Valute digitali, Crypto-assets e NFT (3)
+
+**D:** ⚠️ Come definisce le criptovalute la BCE, e in quale documento?
+**R:** Nei «**Virtual currency schemes, 2012**», come «**una forma non regolamentata di denaro digitale, adoperato dagli utenti entro una comunità virtuale, generalmente emesso e controllato da chi lo conia**». ⚠️ La BCE le chiama **denaro digitale** — a differenza della Banca d'Italia, che dirà «**rappresentazioni digitali di valore**». ⚠️ L'uso è circoscritto «**entro una comunità virtuale**» e il quantificatore «**generalmente** emesso e controllato **da chi lo conia**» non è un «sempre». Il docente la definisce «una classica **definizione aperta**… che lascia spazio a molte interpretazioni».
+**Opzione:** Nei Virtual currency schemes del 2012, come una forma non regolamentata di denaro digitale, adoperato dagli utenti entro una comunità virtuale, generalmente emesso e controllato da chi lo conia.
+**Distrattori:**
+- Nei Virtual currency schemes del 2012, come una forma regolamentata di denaro digitale, adoperato dagli utenti entro una comunità virtuale, sempre emessa e controllata da chi la conia.
+- Nei Virtual currency schemes del 2012, come una rappresentazione digitale di valore adoperata dagli utenti entro una comunità virtuale, generalmente emessa e controllata da chi la conia.
+- Nell'Opinion on virtual currencies del 2012, come una forma non regolamentata di denaro digitale, adoperato dagli utenti entro una comunità virtuale.
+
+**D:** ⚠️ Come possono essere acquistate le criptovalute, secondo la BCE?
+**R:** «**Le criptovalute possono essere acquistate con moneta classica ovvero mediante l'espletamento di specifiche attività online**». ⚠️ L'acquisto è **alternativo** e la seconda via sta nell'«**espletamento di specifiche *attività* online**» (l'ASR rende «l'esploitamento di specifiche **modalità** online»: vale la slide).
+**Opzione:** Con moneta classica, ovvero mediante l'espletamento di specifiche attività online.
+**Distrattori:**
+- Con moneta classica, ovvero mediante l'espletamento di specifiche modalità di pagamento elettronico.
+- Esclusivamente con moneta classica, su una piattaforma di scambio autorizzata.
+- Con moneta classica, ovvero mediante conferimento in una società di capitali.
+
+**D:** ⚠️ Che cosa chiarisce l'EBA nella nota del dicembre 2013 sul funzionamento delle criptovalute?
+**R:** Nella nota su «**Avvertenze per i consumatori sulle monete virtuali**» chiarisce che le criptovalute «**sono tradizionalmente acquistate con moneta tradizionale su una piattaforma di scambio, per poi confluire in un portafoglio elettronico, mediante il quale i consumatori possono inviarlo a chiunque altro desideri accettarlo, nonché riconvertirlo in moneta tradizionale a corso forzoso**». ⚠️ **«A corso forzoso» è la parola da tenere**: il docente dice «a corso **legale**», ma sulla slide è scritto **forzoso** — e le opzioni d'esame sono citazioni letterali delle slide. ⚠️ L'invio è **condizionato**: «a chiunque altro **desideri accettarlo**».
+**Opzione:** Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso forzoso.
+**Distrattori:**
+- Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso legale.
+- Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque e riconvertite in moneta tradizionale a corso forzoso.
+- Che sono acquistate direttamente presso l'emittente, confluiscono in un portafoglio elettronico e possono essere inviate a chiunque altro desideri accettarle, senza possibilità di riconversione.
+
+**D:** ⚠️ Come definisce le valute virtuali l'EBA nell'Opinion on virtual currencies?
+**R:** Come «**una rappresentazione digitale di denaro – non emesso da una banca centrale nè necessariamente collegato ad una valuta tradizionale – che viene adoperato da persone fisiche o giuridiche come forma convenzionale di scambio e che può essere trasferito, depositato o commercializzato elettronicamente**». ⚠️ L'inciso contiene **due negazioni coordinate**: non emesso da una banca centrale **né** necessariamente collegato a una valuta tradizionale. ⚠️ Il docente **la legge male alla prima lettura** («come forma convenzionale di scambio **se collegate** a una valuta tradizionale») e **si corregge** subito dopo: vale la slide. ⚠️ **La slide non riporta l'anno**; il docente azzarda «2014 se non vado errato».
+**Opzione:** Una rappresentazione digitale di denaro, non emesso da una banca centrale né necessariamente collegato a una valuta tradizionale, adoperato come forma convenzionale di scambio e trasferibile, depositabile o commercializzabile elettronicamente.
+**Distrattori:**
+- Una rappresentazione digitale di denaro, non emesso da una banca centrale ma necessariamente collegato a una valuta tradizionale, adoperato come forma convenzionale di scambio.
+- Una rappresentazione digitale di valore, non emessa da una banca centrale né necessariamente collegata a una valuta tradizionale, adoperata come forma convenzionale di scambio.
+- Una rappresentazione digitale di denaro emessa da una banca centrale e collegata a una valuta tradizionale, adoperata come forma convenzionale di scambio.
+
+**D:** ⚠️ Come definisce le cryptovalute la Banca d'Italia nell'Avvertenza del 30 gennaio 2015?
+**R:** Come «**rappresentazioni digitali di valore, utilizzate come mezzo di scambio o detenute a scopo di investimento, che possono essere trasferite, archiviate e negoziate elettronicamente**». ⚠️ La funzione è **doppia e alternativa**: **mezzo di scambio** *o* **scopo di investimento**. ⚠️ I verbi sono **tre** e **diversi** da quelli dell'EBA: «trasferite, **archiviate** e **negoziate**» contro «trasferito, **depositato** o **commercializzato**». ⚠️ La data esatta sta **solo sulla slide**.
+**Opzione:** Rappresentazioni digitali di valore, utilizzate come mezzo di scambio o detenute a scopo di investimento, che possono essere trasferite, archiviate e negoziate elettronicamente.
+**Distrattori:**
+- Rappresentazioni digitali di valore, utilizzate esclusivamente come mezzo di scambio, che possono essere trasferite, archiviate e negoziate elettronicamente.
+- Rappresentazioni digitali di denaro, utilizzate come mezzo di scambio o detenute a scopo di investimento, che possono essere trasferite, depositate e commercializzate elettronicamente.
+- Rappresentazioni digitali di valore, utilizzate come mezzo di scambio o detenute a scopo di investimento, che possono essere trasferite e archiviate ma non negoziate elettronicamente.
+
+**D:** ⚠️ Quali caratteristiche attribuisce alle cryptovalute l'Avvertenza della Banca d'Italia?
+**R:** **Sei**: «**sono create da soggetti privati che operano sul web**»; «**non devono essere confuse con i tradizionali strumenti di pagamento elettronici**»; «**Non rappresentano le comuni valute a corso legale**»; «**Non hanno corso legale e non devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie**»; «**Non sono garantite o regolamentate**»; «**Hanno un elevata** \[*sic*] **volatilità**». ⚠️ **Cinque su sei sono negative**. ⚠️ La quarta ne contiene **due** e la quinta è **doppia** («garantite *o* regolamentate»). Il docente: lo spirito si legge già nel titolo, «si chiama **avvertenze**».
+**Opzione:** Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; non hanno corso legale né obbligo legale di accettazione; non sono garantite o regolamentate; hanno elevata volatilità.
+**Distrattori:**
+- Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; non hanno corso legale né obbligo legale di accettazione; sono garantite ma non regolamentate; hanno elevata volatilità.
+- Sono create da soggetti privati che operano sul web; coincidono con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; non hanno corso legale; non sono garantite o regolamentate; hanno elevata volatilità.
+- Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; devono per legge essere accettate per l'estinzione delle obbligazioni pecuniarie; non sono garantite o regolamentate; hanno elevata volatilità.
+
+**D:** ⚠️ Quali tre tipi di valute virtuali distingue l'Avvertenza della Banca d'Italia?
+**R:** «**Valute virtuali non convertibili, spendibili solo entro la comunità virtuale che le accetta**»; «**Valute virtuali a convertibilità limitata, si possono acquistare con valuta tradizionale ma non possono essere riconvertite**»; «**Valute virtuali pienamente riconvertibili, si possono acquistare e rivendere in cambio di moneta tradizionale**». ⚠️ **È una scala e l'asse è la direzione della conversione**: nessuna conversione → **solo andata** → **andata e ritorno**. Invertire il verso del secondo tipo è il distrattore naturale.
+**Opzione:** Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, acquistabili con valuta tradizionale ma non riconvertibili; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale.
+**Distrattori:**
+- Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, riconvertibili in valuta tradizionale ma non acquistabili con essa; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale.
+- Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, acquistabili e rivendibili entro un massimale annuo; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale.
+- Non convertibili, spendibili presso qualunque esercente; a convertibilità limitata, acquistabili con valuta tradizionale ma non riconvertibili; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale.
+
+**D:** ⚠️ Quali sono le prime due pronunce italiane sull'uso della cryptovaluta in ambito societario?
+**R:** «**La sentenza del Tribunale di Brescia 25/07/2018 n. 7556 ed il decreto della Corte d'Appello di Brescia n. 207/2018**». ⚠️ **Coppia soggetto + atto**: del **Tribunale** è una **sentenza** (25/07/2018, n. **7556**), della **Corte d'Appello** un **decreto** (n. **207/2018**). ⚠️ I numeri stanno **solo sulla slide**: il docente dice genericamente «un tribunale di Brescia del 2018 e poi successivamente un decreto della Corte d'Appello». ⚠️ La slide premette che «**permane un'incertezza legale sul regime giuridico applicabile alle cryptovalute**».
+**Opzione:** La sentenza del Tribunale di Brescia 25/07/2018 n. 7556 e il decreto della Corte d'Appello di Brescia n. 207/2018.
+**Distrattori:**
+- Il decreto del Tribunale di Brescia 25/07/2018 n. 7556 e la sentenza della Corte d'Appello di Brescia n. 207/2018.
+- La sentenza del Tribunale di Brescia 25/07/2018 n. 2074 e il decreto della Corte d'Appello di Brescia n. 7556/2018.
+- La sentenza del Tribunale di Milano 25/07/2018 n. 7556 e il decreto della Corte d'Appello di Brescia n. 207/2018.
+
+**D:** ⚠️ Che cosa era e che cosa non era in discussione davanti al Tribunale di Brescia?
+**R:** «**Non è in discussion** \[*sic*] **l'idoneità della categoria di beni rappresentata dale** \[*sic*] **cryptovalute a costituire element** \[*sic*] **di attivo idoneo al conferimento nel capitale di una S.r.l., bensì se il bene concretamente e specificamente conferito, soddisfi il requisito di cui all'art. 2464, c.2 codice civile**». ⚠️ **Struttura «non… bensì…»**, ed è il cuore della slide: in discussione **non** è l'idoneità **della categoria**, **bensì** quella di **quel** bene, «concretamente e specificamente conferito». Capovolgere i due termini è il distrattore da *segno invertito*. ⚠️ La società è una **S.r.l.** e l'articolo è il **2464, c.2**.
+**Opzione:** Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 2464, c.2 codice civile.
+**Distrattori:**
+- Non l'idoneità del bene concretamente e specificamente conferito, bensì quella della categoria dei beni rappresentata dalle cryptovalute a costituire elemento di attivo.
+- Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 810 codice civile.
+- Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il conferimento fosse stato validamente deliberato dall'assemblea della S.r.l.
+
+**D:** ⚠️ Perché l'assimilazione della cryptovaluta ai beni dell'art. 810 c.c. «sembra discutibile»?
+**R:** «**L'assimilazione della cryptovaluta ai beni previsti dall'articolo 810 c.c., e cioè di res immateriali meritevoli di tutela, sembra discutibile a causa della sua intrinseca natura, talmente immateriale tale da impedirne una piena inclusione nella sfera del diritto proprietario**». ⚠️ **Coppia soggetto + norma**: qui l'articolo è il **810 c.c.** (nozione di bene), non il **2464** della slide precedente. ⚠️ Il verbo è **attenuato** — «**sembra** discutibile» —, non un rigetto.
+**Opzione:** Perché la sua intrinseca natura è talmente immateriale da impedirne una piena inclusione nella sfera del diritto proprietario.
+**Distrattori:**
+- Perché la sua intrinseca natura è talmente volatile da impedirne una valutazione economica attendibile.
+- Perché le res immateriali non sono meritevoli di tutela secondo l'art. 810 c.c.
+- Perché la cryptovaluta va assimilata sul piano funzionale al denaro, e non ai beni.
+
+**D:** ⚠️ Quale problema di tutela giuridica pone la qualificazione della cryptovaluta come bene immateriale?
+**R:** «**Si pensi infatti che in caso ad esempio di sottrazione di cryptobvalute** \[*sic*] **al legittimo proprietario, non potrebbe configurarsi il reato di furto o di appropriazione indebita ove se ne abbia solo il possesso. Le cryptovalute non possono essere trasfuse in una cosa materiale**». ⚠️ I reati sono **due** — **furto** *o* **appropriazione indebita** — e la condizione «**ove se ne abbia solo il possesso**» è parte della frase, non un'aggiunta. Il docente spiega che nel diritto privato c'è «una forte differenza tra la **proprietà**, il diritto pieno, e il **possesso**».
+**Opzione:** Che in caso di sottrazione non potrebbe configurarsi il reato di furto o di appropriazione indebita, ove se ne abbia solo il possesso.
+**Distrattori:**
+- Che in caso di sottrazione non potrebbe configurarsi il reato di furto o di appropriazione indebita, neppure quando se ne abbia la piena proprietà.
+- Che in caso di sottrazione potrebbe configurarsi soltanto il reato di appropriazione indebita, mai quello di furto.
+- Che in caso di sottrazione il legittimo proprietario non potrebbe agire in giudizio, perché le cryptovalute non sono iscritte in alcun registro pubblico.
+
+**D:** ⚠️ Quali principi fondamentali individua il Tribunale di Brescia per la conferibilità dei beni nel capitale sociale?
+**R:** **Tre**: «**1) Idoneità ad essere oggetto di valutazione in un dato momento storico, prescindendo dalla tematica relativa alle oscillazioni del valore**»; «**2) Esistenza di un mercato del bene che permetta di determinare il tempo di conservazione in denaro contante**»; «**3) Idoneità del bene ad essere oggetto di aggressione da parte dei creditori sociali o "bersaglio" di procedura di esecuzione forzata**». ⚠️ Il primo **prescinde** dalle oscillazioni di valore: è una valutazione **puntuale**, «in un dato momento storico». ⚠️ Il terzo è **doppio**. ⚠️ La formula «tempo di **conservazione** in denaro contante» è oscura, ma slide e docente **coincidono**: va citata così.
+**Opzione:** Idoneità a essere oggetto di valutazione in un dato momento storico, prescindendo dalle oscillazioni del valore; esistenza di un mercato del bene; idoneità del bene a essere oggetto di aggressione dei creditori sociali o bersaglio di esecuzione forzata.
+**Distrattori:**
+- Idoneità a essere oggetto di valutazione in un dato momento storico, tenendo conto delle oscillazioni del valore; esistenza di un mercato del bene; idoneità del bene a essere oggetto di aggressione dei creditori sociali o bersaglio di esecuzione forzata.
+- Idoneità a essere oggetto di valutazione in un dato momento storico, prescindendo dalle oscillazioni del valore; esistenza di un mercato regolamentato del bene; sottoposizione del bene a una perizia giurata di stima.
+- Idoneità a essere oggetto di valutazione in un dato momento storico, prescindendo dalle oscillazioni del valore; esistenza di un mercato del bene; impossibilità per i creditori sociali di aggredire il bene conferito.
+
+**D:** ⚠️ Perché, nel caso concreto, il Tribunale di Brescia ha negato la conferibilità della cryptovaluta?
+**R:** Perché «**non fosse assimilabile ad un bene suscettibile di valutazione economica attendibile poiché l'unico mercato nel quale essa opera è una piattaforma dedicata alla fornitura di beni o servizi riconducibili agli stessi ideatori della valuta**». ⚠️ **La ragione è la circolarità del mercato**. ⚠️ I requisiti positivi che se ne ricavano sono **tre**: «**un certo grado di diffusione e pubblicità e quindi una presenza effettiva sul mercato**». Il docente: «qual è il valore e la diffusione nel mercato di un qualcosa che **vi siete inventati voi**?».
+**Opzione:** Perché l'unico mercato in cui operava era una piattaforma dedicata alla fornitura di beni o servizi riconducibili agli stessi ideatori della valuta.
+**Distrattori:**
+- Perché l'unico mercato in cui operava era una piattaforma estera non sottoposta alla vigilanza della Consob.
+- Perché il valore della cryptovaluta era soggetto a oscillazioni troppo ampie per consentire una valutazione attendibile.
+- Perché la cryptovaluta non era stata ammessa alla negoziazione su un mercato regolamentato italiano o dell'Unione europea.
+
+**D:** ⚠️ Che cosa deve possedere una cryptovaluta perché sia conferibile, secondo il Tribunale di Brescia?
+**R:** «**Perché sia conferibile una cryptovaluta deve possedere un certo grado di diffusione e pubblicità e quindi una presenza effettiva sul mercato**». ⚠️ I requisiti sono **tre** e concatenati: **diffusione**, **pubblicità** e — come conseguenza — **presenza effettiva sul mercato**.
+**Opzione:** Un certo grado di diffusione e pubblicità, e quindi una presenza effettiva sul mercato.
+**Distrattori:**
+- Un certo grado di diffusione e pubblicità, e quindi l'ammissione alla negoziazione su un mercato regolamentato.
+- Un valore stabile nel tempo e una garanzia prestata dall'ente emittente.
+- Una piattaforma di scambio dedicata, gestita dagli ideatori della valuta stessa.
+
+**D:** ⚠️ Qual è la posizione della Corte d'Appello di Brescia, e in che cosa differisce da quella del Tribunale?
+**R:** La Corte «**nega in radice l'idoneità delle cryptovalute a costituire oggetto di conferimento**» e ritiene che «**la cryptovaluta deve essere assimilata sul piano funzionale, al denaro**». ⚠️ **È l'asse della lezione**: il **Tribunale** tratta le cryptovalute **come beni** e nega **nel caso di specie**; la **Corte d'Appello** le tratta **come moneta** e nega **in radice**. Due assi — *qualificazione* × *portata del rigetto* — e ogni distrattore ne sbaglia uno.
+**Opzione:** Le assimila sul piano funzionale al denaro e nega in radice l'idoneità al conferimento, mentre il Tribunale le trattava come beni e aveva negato la conferibilità nel solo caso di specie.
+**Distrattori:**
+- Le assimila ai beni in natura e nega in radice l'idoneità al conferimento, mentre il Tribunale le trattava come moneta e aveva negato la conferibilità nel solo caso di specie.
+- Le assimila sul piano funzionale al denaro e nega la conferibilità nel solo caso di specie, mentre il Tribunale le trattava come beni e aveva negato in radice l'idoneità al conferimento.
+- Le assimila sul piano funzionale al denaro e riconosce l'idoneità al conferimento, purché la valuta abbia una presenza effettiva sul mercato.
+
+**D:** ⚠️ Come opera la cryptovaluta secondo la Corte d'Appello, e con quale conseguenza sulla determinazione del valore?
+**R:** «**Essa serve [..] per fare acquisti [..] ed in tale ambito opera come "marcatore" in termini di valore di scambio, dei beni, dei servizi, o alter** \[*sic*, per *altre*] **utilità ivi oggetto di contrattazione**». La conseguenza: «**il valore economico non può determinarsi con la procedura di cui art. 2264-2265 c.c., riservata ai beni, servizi ed alter utilità. Non essendo possible** \[*sic*] **attribuire valore di scambio ad un entità anch'essa costituente elemento di scambio nella negoziazione**». ⚠️ **Il ragionamento è circolare per costruzione**: se la cryptovaluta è essa stessa elemento di scambio, non le si può attribuire un valore di scambio. ⚠️ La parola-chiave è «**marcatore**».
+**Opzione:** Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
+**Distrattori:**
+- Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché il suo valore va determinato con la stessa procedura riservata ai beni, ai servizi e alle altre utilità.
+- Opera come riserva di valore e unità di conto; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
+- Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché il suo valore va determinato dagli amministratori sulla base dell'ultima quotazione disponibile.
+
+**D:** ⚠️ A quali articoli del codice civile rinvia la Corte d'Appello di Brescia?
+**R:** Agli «**artt. 2264-2265 codice civile**», che la slide indica **due volte** come la procedura «**per la determinazione del valore del conferimento**», «**riservata ai beni, servizi ed alter** \[*sic*] **utilità**». ⚠️ Il docente li pronuncia («2264, 2265»), quindi all'esame la coppia è quella. ⚠️ **Da non confondere con l'art. 2464, c.2** che la slide 5 dello stesso deck attribuisce al **Tribunale**: sono passaggi diversi del ragionamento — la **conferibilità** contro la **procedura di stima** — ma i due numeri convivono nel deck e si prestano allo scambio.
+**Opzione:** Agli articoli 2264-2265 del codice civile, relativi alla procedura per la determinazione del valore del conferimento.
+**Distrattori:**
+- All'articolo 2464, c.2 del codice civile, relativo alla procedura per la determinazione del valore del conferimento.
+- Agli articoli 2264-2265 del codice civile, relativi alla nozione di bene suscettibile di formare oggetto di diritti.
+- All'articolo 810 del codice civile, relativo alla procedura per la determinazione del valore del conferimento.
+
+**D:** ⚠️ Quale criticità registra la slide a proposito dell'assimilazione delle cryptovalute alla moneta?
+**R:** «**Le cryptovalute rientrerebbero difficilmente nel concetto di moneta poiché non rientrerebbero in nessuna delle definizioni offerte dalle diverse teorie**». ⚠️ **La criticità si rivolge contro la stessa Corte**: se la cryptovaluta è assimilata al denaro ma non rientra in nessuna definizione di moneta, l'assimilazione resta fragile. ⚠️ La slide parla di «**diverse teorie**» ma ne enuncia **una sola**, la **teoria statalista**.
+**Opzione:** Che rientrerebbero difficilmente nel concetto di moneta, poiché non rientrerebbero in nessuna delle definizioni offerte dalle diverse teorie.
+**Distrattori:**
+- Che rientrerebbero nel concetto di moneta solo secondo la teoria statalista, e non secondo le altre teorie.
+- Che rientrerebbero difficilmente nel concetto di bene, poiché non rientrerebbero in nessuna delle definizioni offerte dalle diverse teorie.
+- Che rientrerebbero nel concetto di moneta solo se emesse o garantite da una banca centrale.
+
+**D:** ⚠️ Che cos'è il denaro secondo la teoria statalista?
+**R:** «**Il denaro è quel mezzo di pagamento, creato e garantito dallo Stato, che per legge non può essere rifiutato come mezzo di pagamento idoneo ad estinguere le obbligazioni pecuniarie**». ⚠️ Gli elementi sono **tre**: creazione e garanzia **dello Stato**; **irrifiutabilità per legge**; **idoneità a estinguere le obbligazioni pecuniarie**. ⚠️ È lo **specchio esatto** della quarta caratteristica dell'Avvertenza della Banca d'Italia, per cui le cryptovalute «non hanno corso legale e **non devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie**»: è da lì che discende la criticità.
+**Opzione:** Il mezzo di pagamento creato e garantito dallo Stato, che per legge non può essere rifiutato come mezzo idoneo a estinguere le obbligazioni pecuniarie.
+**Distrattori:**
+- Il mezzo di pagamento creato e garantito dallo Stato, che può essere rifiutato solo per importi superiori a una soglia fissata per legge.
+- Il mezzo di pagamento creato dal mercato e garantito dallo Stato, idoneo a estinguere le obbligazioni pecuniarie.
+- Il mezzo di pagamento accettato convenzionalmente dalle parti, idoneo a estinguere le obbligazioni pecuniarie.
+
+**D:** ⚠️ Che cosa sono le Initial Coin Offerings, e a che cosa le paragona la slide?
+**R:** «**Raccolte di capitali, non dissimili, quanto alle modalità di realizzazione a quelle che si possono riscontrare in una Initial Public Offering o IPO, ovvero una raccolta di capitali eseguita tramite un portale online di equity crowdfunding**». ⚠️ Il paragone è **circoscritto**: «non dissimili, **quanto alle modalità di realizzazione**», non identiche. ⚠️ Il termine di paragone è **doppio**: la **IPO** *e* il portale di **equity** crowdfunding — il docente dice solo «crowdfunding», la slide specifica **equity**.
+**Opzione:** Raccolte di capitali non dissimili, quanto alle modalità di realizzazione, da una IPO o da una raccolta eseguita tramite un portale online di equity crowdfunding.
+**Distrattori:**
+- Raccolte di capitali del tutto identiche a una IPO o a una raccolta eseguita tramite un portale online di equity crowdfunding.
+- Raccolte di capitali non dissimili, quanto alle modalità di realizzazione, da una IPO o da una raccolta eseguita tramite un portale online di lending-based crowdfunding.
+- Raccolte di capitali non dissimili, quanto agli obblighi di prospetto, da una IPO o da una raccolta eseguita tramite un portale online di equity crowdfunding.
+
+**D:** ⚠️ Come definisce la slide le ICO come modalità di finanziamento?
+**R:** «**Una modalità di finanziamento, utilizzata da startup o da soggetti che intendono realizzare un determinato progetto, resa possibile tramite la tecnologia, in quanto per reperire dei finanziamenti o del capitale di rischio, si propone al pubblico un progetto da finanziarsi mediante l'utilizzo della Blockchain, con cui creare dei tokens da attribuire, a fronte del versamento di un determinato corrispettivo, ai soggetti finanziatori**». ⚠️ I soggetti sono **due** («startup **o** soggetti che intendono realizzare un determinato progetto») e l'oggetto della raccolta è **doppio** («**finanziamenti** o **capitale di rischio**»). ⚠️ I token si attribuiscono «**a fronte del versamento di un determinato corrispettivo**».
+**Opzione:** Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token da attribuire ai finanziatori a fronte del versamento di un corrispettivo.
+**Distrattori:**
+- Una modalità di finanziamento usata dalle sole startup innovative iscritte nell'apposita sezione del registro delle imprese, che propone al pubblico un progetto da finanziarsi mediante la Blockchain.
+- Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token attribuiti gratuitamente ai finanziatori.
+- Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che raccoglie capitale di debito presso investitori professionali mediante l'emissione di obbligazioni tokenizzate.
+
+**D:** ⚠️ Che cos'è un token, secondo la definizione di questa lezione?
+**R:** «**Un'informazione digitale che conferisce un diritto di proprietà ad un soggetto sull'informazione stessa, la quale è registrata sulla Blockchain o in altra DLT, che può essere trasferita tramite un protocollo e che, inoltre, può incorporare altri diritti**». ⚠️ **Il diritto di proprietà ha per oggetto l'informazione stessa**, non il bene sottostante: è il punto che un distrattore sposta. ⚠️ La registrazione è **alternativa** (Blockchain **o** altra DLT) e la capacità di «**incorporare altri diritti**» è **eventuale** e **aggiuntiva**.
+**Opzione:** Un'informazione digitale che conferisce un diritto di proprietà sull'informazione stessa, registrata sulla Blockchain o in altra DLT, trasferibile tramite un protocollo e capace di incorporare altri diritti.
+**Distrattori:**
+- Un'informazione digitale che conferisce un diritto di proprietà sul bene sottostante, registrata sulla Blockchain o in altra DLT, trasferibile tramite un protocollo e capace di incorporare altri diritti.
+- Un'informazione digitale che conferisce un diritto di proprietà sull'informazione stessa, registrata esclusivamente sulla Blockchain, trasferibile tramite un protocollo e che non può incorporare altri diritti.
+- Un'informazione digitale che conferisce un diritto di credito verso l'emittente, registrata sulla Blockchain o in altra DLT e trasferibile tramite un protocollo.
+
+**D:** ⚠️ Che cos'è «The DAO» e da che cosa è caratterizzata?
+**R:** Una «**Decentralized autonomous organization**», cioè «**un'organizzazione (creata su Blockchain Ethereum ed operante tramite una serie di smart contracts) caratterizzata dal fatto di non avere una sede, di essere senza personalità giuridica e senza veri e propri amministratori**». ⚠️ **Le assenze sono tre**: **nessuna sede**, **nessuna personalità giuridica**, **nessun vero e proprio amministratore**. ⚠️ **Coppia soggetto + tecnologia**: la blockchain è **Ethereum**. La vicenda serve alla slide a mostrare che «**qualificare una ICO resta questione complessa, da un punto di vista giuridico, se non si esamina ogni singola operazione**».
+**Opzione:** Un'organizzazione creata su Blockchain Ethereum e operante tramite smart contracts, senza sede, senza personalità giuridica e senza veri e propri amministratori.
+**Distrattori:**
+- Un'organizzazione creata su Blockchain Bitcoin e operante tramite smart contracts, senza sede, senza personalità giuridica e senza veri e propri amministratori.
+- Un'organizzazione creata su Blockchain Ethereum e operante tramite smart contracts, dotata di personalità giuridica ma priva di sede e di amministratori.
+- Un'organizzazione creata su Blockchain Ethereum e operante tramite smart contracts, senza sede e senza personalità giuridica, ma amministrata da un consiglio eletto dai possessori di token.
+
+**D:** ⚠️ Quali passaggi hanno seguito i creatori di «The DAO», tipici di una ICO?
+**R:** **Quattro**: «**Creazione di un sito internet per fornire informazioni sull'ICO**»; «**Redazione di un whitepaper in cui si descrive il progetto che si vuole realizzare**»; «**Audit del codice sorgente degli smart contracts utilizzati**»; «**Sottoscrizione di accordi con gli "exchange" per permettere l'emissione e lo scambio di tokens, una volta acquistati dagli investitori/finanziatori**». ⚠️ Il terzo è quello che distingue una ICO da una raccolta tradizionale: l'**audit del codice sorgente**. ⚠️ Il quarto ha **due** oggetti (**emissione** *e* **scambio**).
+**Opzione:** Creazione di un sito internet con le informazioni sull'ICO; redazione di un whitepaper che descrive il progetto; audit del codice sorgente degli smart contracts; sottoscrizione di accordi con gli exchange per l'emissione e lo scambio dei token.
+**Distrattori:**
+- Creazione di un sito internet con le informazioni sull'ICO; redazione di un whitepaper che descrive il progetto; audit del codice sorgente degli smart contracts; sottoscrizione di accordi con gli exchange per il solo scambio dei token già emessi.
+- Creazione di un sito internet con le informazioni sull'ICO; redazione di un prospetto approvato dall'autorità di vigilanza; audit del codice sorgente degli smart contracts; sottoscrizione di accordi con gli exchange per l'emissione e lo scambio dei token.
+- Creazione di un sito internet con le informazioni sull'ICO; redazione di un whitepaper che descrive il progetto; iscrizione nel registro delle imprese; sottoscrizione di accordi con gli exchange per l'emissione e lo scambio dei token.
+
+**D:** ⚠️ Che peso di studio assegna il docente alle sentenze di Brescia?
+**R:** Un peso **strumentale, non nozionistico**: «questi ragionamenti sono estrapolati all'interno di sentenze e quindi devono essere da voi utilizzati **solo come strumento di discussione**… **A me non interessa che voi sappiate dirmi cosa hanno detto le sentenze**, cosa hanno provvisto, perché in realtà questo **non è un corso principalmente orientato sulla legge applicabile alle criptovalute**. Mi interessa però sapere che voi **prendiate coscienza delle problematiche** afferenti alle criptovalute **piuttosto che alla soluzione**». ⚠️ La sintesi che ne trae: «in modo **ricorrente** si utilizzano **delle vecchie categorie** per andare a disciplinare qualcosa che è **per natura nuovo e disruptive**». ⚠️ Sta **solo nel transcript**.
+
+**D:** ⚠️ Che cosa dice il docente sul MiCAR in chiusura di lezione?
+**R:** Che «entrerà in vigore a poco» e che «**è stato appena discusso il testo finale nel Parlamento europeo**»: darà «una regolamentazione europea che cercherà di dare **uniformità** alle criptovalute, a **che cosa esse siano**, **come vengono utilizzate** e la **necessità o meno di avere una licenza autorizzativa** per poter utilizzare criptovalute per scopi commerciali». Il giudizio è misurato: «un regolamento **migliorabile**, ma sicuramente un **buon punto di inizio**», che «nasce già sotto molteplici dubbi derivanti dal fatto che **molte criptovalute sono state ora inventate e non erano state ricomprese nell'elenco** delle criptovalute MiCAR». ⚠️ **Nessuna slide del deck 18 nomina il MiCAR.** ⚠️ Sullo stato dell'atto il corso oscilla — «definitivo e approvato» (lezione 16), «aggiornamenti» (17), «testo finale appena discusso» (18) — mentre la **slide 10 del deck 16** lo qualifica ancora «**Proposta (Settembre 2020)**»: all'esame vale la slide.
+
+**D:** ⚠️ Con quale parola ciascuna autorità qualifica le criptovalute?
+**R:** La **BCE** parla di «**denaro digitale**» («una forma non regolamentata di **denaro digitale**»); l'**EBA**, nell'*Opinion*, di «**rappresentazione digitale di denaro**»; la **Banca d'Italia**, nell'Avvertenza del 2015, di «**rappresentazioni digitali di valore**». ⚠️ È una **matrice** *autorità × parola scelta*, e la differenza non è stilistica: **denaro** nelle prime due, **valore** nella terza. ⚠️ Alla lezione 17 la stessa Banca d'Italia usava una quarta formula ancora: «**attività di natura digitale**».
+**Opzione:** La BCE denaro digitale, l'EBA rappresentazione digitale di denaro, la Banca d'Italia rappresentazioni digitali di valore.
+**Distrattori:**
+- La BCE rappresentazioni digitali di valore, l'EBA denaro digitale, la Banca d'Italia rappresentazione digitale di denaro.
+- La BCE denaro digitale, l'EBA rappresentazioni digitali di valore, la Banca d'Italia rappresentazione digitale di denaro.
+- La BCE moneta elettronica, l'EBA rappresentazione digitale di denaro, la Banca d'Italia rappresentazioni digitali di valore.
+
+**D:** ⚠️ Che cosa premette la slide prima di esporre la giurisprudenza di Brescia?
+**R:** «**Permane un'incertezza legale sul regime giuridico applicabile alle cryptovalute**». ⚠️ Il verbo è «**permane**»: l'incertezza è **tuttora in atto**, non superata dalle pronunce che seguono — ed è la ragione per cui le due decisioni arrivano a **qualificazioni opposte**.
+**Opzione:** Che permane un'incertezza legale sul regime giuridico applicabile alle cryptovalute.
+**Distrattori:**
+- Che l'incertezza legale sul regime giuridico applicabile alle cryptovalute è stata superata dalla giurisprudenza di merito.
+- Che il regime giuridico applicabile alle cryptovalute è ormai fissato dal codice civile.
+- Che l'incertezza legale riguarda soltanto il trattamento fiscale delle cryptovalute.
+
+**D:** ⚠️ Con quale etichetta le slide contrappongono le due pronunce di Brescia?
+**R:** Il **Tribunale di Brescia** è intestato «**cryptovalute come beni**», la **Corte d'Appello di Brescia** «**cryptovalute come moneta**». ⚠️ Le due etichette compaiono **fra parentesi nel titolo di ciascuna slide** e sono il modo più rapido per tenere separate le due decisioni: il Tribunale ragiona in termini di **bene conferibile**, la Corte d'Appello in termini di **denaro**.
+**Opzione:** Il Tribunale come «cryptovalute come beni», la Corte d'Appello come «cryptovalute come moneta».
+**Distrattori:**
+- Il Tribunale come «cryptovalute come moneta», la Corte d'Appello come «cryptovalute come beni».
+- Il Tribunale come «cryptovalute come strumenti finanziari», la Corte d'Appello come «cryptovalute come moneta».
+- Il Tribunale come «cryptovalute come beni», la Corte d'Appello come «cryptovalute come strumenti di pagamento».
+
+**D:** ⚠️ Che cosa è necessario stabilire «ab origine», secondo il Tribunale di Brescia?
+**R:** «**È necessario stabilire ab origine la possibile attribuzione di un valore economico alle cryptovalute**». ⚠️ È la premessa da cui discendono i **tre principi di conferibilità**: prima di chiedersi se un bene sia conferibile, occorre stabilire se gli si possa attribuire **un valore economico**. ⚠️ L'ASR rende «ab origine» come «**a origine**»: è un errore di trascrizione.
+**Opzione:** La possibile attribuzione di un valore economico alle cryptovalute.
+**Distrattori:**
+- La possibile attribuzione di un valore nominale alle cryptovalute, fissato dall'ente emittente.
+- L'esistenza di un mercato regolamentato su cui le cryptovalute siano negoziate.
+- L'idoneità delle cryptovalute a essere assimilate al denaro sul piano funzionale.
+
+**D:** ⚠️ Che cosa osserva il docente sulla traiettoria delle definizioni istituzionali?
+**R:** Che «il **baricentro** di queste definizioni **gradualmente si sta spostando sul valore commerciale** di queste criptovalute». ⚠️ Osservazione **solo nel transcript** ([00:02:03]), ma utile a ordinare le quattro definizioni della lezione: si parte dal **denaro** (BCE, EBA) e si arriva al **valore** utilizzato «come mezzo di scambio **o detenuto a scopo di investimento**» (Banca d'Italia). ⚠️ Il docente definisce inoltre quella della BCE «una classica **definizione aperta**, cioè una definizione che **lascia spazio a molte interpretazioni** e quindi a **prevedibili sviluppi**».
+
+**D:** ⚠️ Perché, secondo il docente, le criptovalute non vanno confuse con i pagamenti elettronici?
+**R:** La slide lo elenca fra le caratteristiche dell'Avvertenza — le cryptovalute «**non devono essere confuse con i tradizionali strumenti di pagamento elettronici**» — e il docente insiste: «la criptovaluta **non ha niente a che vedere col pagamento elettronico**, perché **molto spesso c'è confusione**». ⚠️ È un punto di **classificazione**, non di definizione: chiede *dove sta* la criptovaluta, non *che cos'è*. Lo stesso vale per l'altra caratteristica speculare, «**non rappresentano le comuni valute a corso legale**».
+**Opzione:** Perché non devono essere confuse con i tradizionali strumenti di pagamento elettronici, che sono una categoria distinta.
+**Distrattori:**
+- Perché i tradizionali strumenti di pagamento elettronici sono una sottocategoria delle criptovalute.
+- Perché le criptovalute sono strumenti di pagamento elettronici sottoposti alla vigilanza della Banca d'Italia.
+- Perché i tradizionali strumenti di pagamento elettronici non hanno corso legale, mentre le criptovalute sì.
