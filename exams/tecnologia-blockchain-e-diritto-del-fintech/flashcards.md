@@ -6231,3 +6231,267 @@
 
 **D:** Come il docente chiude il blocco sul Regolamento DLT?
 **R:** «La nostra cavalcata… sul mondo del pilot regime del DLT ha evidenziato un **enorme impatto innovativo** dal punto di vista dell'infrastruttura di mercati, ma ha anche evidenziato quelle che sono le **principali difficoltà** incontrate nella gestazione di questo regime pilota, sia di **coordinamento con la normativa esistente** e sia anche di **futuro regolamentare**, che appare in questo momento ancora **legato a paradigmi del passato**, piuttosto che a favorire una fioritura di queste nuove market infrastructure con un **regime ad hoc**… le **potenzialità inespresse sono ancora molte**, e sono molte perché **la regolamentazione non è al passo ad oggi con la velocità di evoluzione tecnologica**». ⚠️ Solo nel transcript ([00:10:23]).
+
+## Lezione 23 — Profili fiscali delle attività relative ai Crypto-assets (1)
+
+**D:** ⚠️ Quanti e quali sono gli attori del mercato dei crypto-assets?
+**R:** **Otto**: **sviluppatori ed emittenti di crypto-assets**; **investitori del mercato dei crypto-assets**; **intermediari finanziari**; **piattaforme di scambio e di trading**; **prestatori di portafoglio e custodi**; **prestatori di servizi di pagamento e fornitori di servizi commerciali**; **minatori e processori di transazioni**; **prestatori di liquidità come i Market Maker professionali**. ⚠️ Il docente avverte che «in alcuni casi potrebbe pure sembrare che ci sia una sorta di **sovrapposizione**, quindi bisogna tenerli **ben distinti**».
+**Opzione:** Sviluppatori ed emittenti; investitori; intermediari finanziari; piattaforme di scambio e di trading; prestatori di portafoglio e custodi; prestatori di servizi di pagamento e fornitori di servizi commerciali; minatori e processori di transazioni; prestatori di liquidità come i market maker professionali.
+**Distrattori:**
+- Sviluppatori ed emittenti; investitori; intermediari finanziari; piattaforme di scambio e di trading; prestatori di portafoglio e custodi; prestatori di servizi di pagamento e fornitori di servizi commerciali; minatori e processori di transazioni; autorità nazionali competenti.
+- Sviluppatori ed emittenti; investitori; intermediari finanziari; piattaforme di scambio e di trading; prestatori di portafoglio e custodi; minatori e processori di transazioni; prestatori di liquidità come i market maker professionali.
+- Sviluppatori ed emittenti; investitori professionali e istituzionali; intermediari finanziari; piattaforme di scambio e di trading; prestatori di portafoglio e custodi; prestatori di servizi di pagamento; minatori e processori di transazioni; prestatori di liquidità.
+
+**D:** ⚠️ In quali categorie di attori del mercato dei crypto-assets compaiono i brokers?
+**R:** In **due**: fra gli **intermediari finanziari** («**come ad esempio brokers, che prestano servizi di consulenza ai clienti in relazione a differenti crypto-assets o che facilitano il loro acquisto**») e fra i **prestatori di liquidità** («**Tra questi attori sono inclusi i brokers e le piattaforme di negoziazione**»). ⚠️ È l'unica voce che compare due volte **con lo stesso nome**; accanto c'è una **quasi-ripetizione** da non confondere: i prestatori di liquidità includono «**le piattaforme di negoziazione**», mentre esiste anche la categoria autonoma delle «**piattaforme di scambio e di trading**» — **due formule diverse** della slide. È la **sovrapposizione** che il docente invita a tenere distinta.
+**Opzione:** In due: fra gli intermediari finanziari e fra i prestatori di liquidità come i market maker professionali.
+**Distrattori:**
+- In una sola: fra gli intermediari finanziari.
+- In una sola: fra i prestatori di liquidità come i market maker professionali.
+- In due: fra gli intermediari finanziari e fra le piattaforme di scambio e di trading.
+
+**D:** Come definisce la slide gli sviluppatori ed emittenti di crypto-assets?
+**R:** «**Sviluppatori ed emittenti di crypto-assets i quali progettano o emettono crypto-assets per loro stessi o per conto di altri. La categoria include gli emittenti di Token attraverso una ICO.**» ⚠️ I verbi sono **due** («progettano **o** emettono») e i beneficiari **due** («per loro stessi **o per conto di altri**»); la coda include espressamente gli emittenti di token via **ICO**.
+**Opzione:** Coloro che progettano o emettono crypto-assets per loro stessi o per conto di altri; la categoria include gli emittenti di token attraverso una ICO.
+**Distrattori:**
+- Coloro che progettano o emettono crypto-assets esclusivamente per conto di altri; la categoria include gli emittenti di token attraverso una ICO.
+- Coloro che progettano o emettono crypto-assets per loro stessi o per conto di altri; la categoria esclude gli emittenti di token attraverso una ICO, disciplinati separatamente.
+- Coloro che verificano le transazioni risolvendo calcoli algoritmici e le aggiungono alla catena di blocchi, per loro stessi o per conto di altri.
+
+**D:** ⚠️ Come definisce la slide i minatori e processori di transazioni?
+**R:** «**Minatori e processori di transazioni i quali sono incentivati dalle fees o altre remunerazioni, a verificare le transazioni risolvendo calcoli algoritmici ed aggiungendo le transazioni alla catena di blocchi.**» ⚠️ L'incentivo è **duplice** («fees **o altre remunerazioni**») e le attività sono **tre**: verificare le transazioni, risolvere calcoli algoritmici, aggiungerle **alla catena di blocchi**.
+**Opzione:** Coloro che, incentivati dalle fees o altre remunerazioni, verificano le transazioni risolvendo calcoli algoritmici e le aggiungono alla catena di blocchi.
+**Distrattori:**
+- Coloro che, incentivati esclusivamente dalle fees, verificano le transazioni risolvendo calcoli algoritmici e le aggiungono alla catena di blocchi.
+- Coloro che, incentivati dalle fees o altre remunerazioni, facilitano le negoziazioni in borsa risolvendo calcoli algoritmici.
+- Coloro che, incentivati dalle fees o altre remunerazioni, assicurano la conservazione e protezione dei crypto-assets aggiungendo le transazioni alla catena di blocchi.
+
+**D:** Che cosa fanno i prestatori di servizi di pagamento e fornitori di servizi commerciali nel mercato dei crypto-assets?
+**R:** «**Prestatori di servizi di pagamento e fornitori di servizi commerciali che abilitano i clienti al pagamento dei commercianti mediante crypto-assets o di trasferire valuta corrente tramite crypto-assets.**» ⚠️ Le due funzioni sono **alternative** e vanno dette entrambe: **pagare i commercianti** con crypto-asset, **oppure** **trasferire valuta corrente** *tramite* crypto-asset.
+**Opzione:** Abilitano i clienti al pagamento dei commercianti mediante crypto-assets o a trasferire valuta corrente tramite crypto-assets.
+**Distrattori:**
+- Abilitano i clienti al solo pagamento dei commercianti mediante crypto-assets.
+- Abilitano i clienti a trasferire crypto-assets tramite valuta corrente.
+- Assicurano la conservazione e protezione dei crypto-assets e ne abilitano il trasferimento fra clienti.
+
+**D:** ⚠️ Quali sono le questioni fiscali rilevanti indicate dalla slide?
+**R:** **Due**: «**Ai fini Iva, come si dovrebbero trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crtpto-asset?**» \[*sic*, «crtpto»] e «**Quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi?**». ⚠️ Le fattispecie IVA sono **quattro** e vanno dette nell'ordine: **creazione, acquisizione, detenzione, trasferimento**.
+**Opzione:** Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
+**Distrattori:**
+- Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
+- Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni contabili dei diversi trattamenti fiscali nei diversi paesi.
+- Ai fini IRPEF, come trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
+
+**D:** ⚠️ Come si articola lo schema della rilevanza fiscale dei crypto-asset?
+**R:** «**Rilevanza ai fini fiscali**» → **sì** → «**Capital Gain**» *oppure* «**Reddito corrente**»; → **no**. ⚠️ Il ramo «sì» si **biforca**: non basta dire che l'operazione è rilevante, bisogna dire **come**. Il docente esplicita anche il ramo negativo: «oppure **non hanno alcuna rilevanza fiscale** perché è una materia talmente nuova e quindi **non c'è ancora una regolamentazione chiara**».
+**Opzione:** Rilevanza ai fini fiscali: se sì, capital gain oppure reddito corrente; se no, nessuna rilevanza.
+**Distrattori:**
+- Rilevanza ai fini fiscali: se sì, capital gain; se no, reddito corrente.
+- Rilevanza ai fini fiscali: se sì, capital gain oppure reddito d'impresa; se no, nessuna rilevanza.
+- Rilevanza ai fini IVA: se sì, esclusione oppure esenzione; se no, imponibilità al 22%.
+
+**D:** ⚠️ Rispetto a che cosa si calcolano i capital gain da compravendita di criptoasset?
+**R:** «**Capital gain derivanti da operazioni di compravendita di criptoasset (vs valute aventi corso legale o vs altri cryptoasset)**». ⚠️ Il confronto è **doppio**: contro **valute aventi corso legale** *o* contro **altri cryptoasset**. Il docente riferisce solo il primo termine — la seconda ipotesi (cripto contro cripto) è proprio quella che in **Francia** gode di esenzione.
+**Opzione:** Rispetto a valute aventi corso legale o rispetto ad altri cryptoasset.
+**Distrattori:**
+- Rispetto alle sole valute aventi corso legale.
+- Rispetto ai soli altri cryptoasset.
+- Rispetto a valute aventi corso legale o rispetto a strumenti finanziari quotati.
+
+**D:** ⚠️ Quale norma si applica se i crypto-asset sono qualificati come valute estere, e con quale regime IVA?
+**R:** «**Art. 67, c. 1, lett. C-ter) con franchigia**», e ai fini IVA «**Esclusione (Art. 2, c. 3, lett. a)**». ⚠️ La **franchigia** è associata alle **valute estere**; l'esito IVA è l'**esclusione**, cioè l'operazione è **fuori campo** — da non confondere con l'**esenzione**, che tocca agli strumenti finanziari.
+**Opzione:** L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, esclusione ai sensi dell'art. 2, c. 3, lett. a).
+**Distrattori:**
+- L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, esenzione ai sensi dell'art. 10, c. 1, n. 4.
+- L'art. 67, c. 1, lett. c-quinquies con minusvalenze indeducibili; ai fini IVA, esclusione ai sensi dell'art. 2, c. 3, lett. a).
+- L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, imponibilità al 22%.
+
+**D:** ⚠️ Quale norma si applica se i crypto-asset sono qualificati come strumenti finanziari, e con quale regime IVA?
+**R:** «**Art. 67, c. 1, lett. C-ter) o art. 67 c.1, lett. c-quinques**» \[*sic*, *c-quinquies*] «**(minusvalenze indeducibili)**», e ai fini IVA «**Esenzione (Art. 10, c. 1, n. 4)**». ⚠️ Le norme possibili sono **due e alternative**; le **minusvalenze indeducibili** si legano alla seconda. ⚠️ L'esito IVA è l'**esenzione**: l'operazione è **in campo** ma **non tassata**.
+**Opzione:** L'art. 67, c. 1, lett. c-ter) oppure l'art. 67, c. 1, lett. c-quinquies con minusvalenze indeducibili; ai fini IVA, esenzione ai sensi dell'art. 10, c. 1, n. 4.
+**Distrattori:**
+- L'art. 67, c. 1, lett. c-ter) oppure l'art. 67, c. 1, lett. c-quinquies con minusvalenze indeducibili; ai fini IVA, esclusione ai sensi dell'art. 2, c. 3, lett. a).
+- Il solo art. 67, c. 1, lett. c-quinquies con minusvalenze deducibili; ai fini IVA, esenzione ai sensi dell'art. 10, c. 1, n. 4.
+- L'art. 67, c. 1, lett. c-ter) oppure l'art. 67, c. 1, lett. c-quinquies con minusvalenze indeducibili; ai fini IVA, imponibilità al 22%.
+
+**D:** ⚠️ Che trattamento hanno i crypto-asset se sono qualificati come beni?
+**R:** «**Tassati solo se realizzati da imprese**», e ai fini IVA «**Imponibile 22%**». ⚠️ È l'unica delle tre qualificazioni in cui l'IVA è **dovuta**, e l'unica in cui la tassazione dipende dal **soggetto** che realizza il provento.
+**Opzione:** Sono tassati solo se realizzati da imprese; ai fini IVA sono imponibili al 22%.
+**Distrattori:**
+- Sono tassati solo se realizzati da imprese; ai fini IVA sono esenti.
+- Sono tassati in ogni caso, anche se realizzati da persone fisiche; ai fini IVA sono imponibili al 22%.
+- Sono tassati solo se realizzati da persone fisiche fuori dall'attività di impresa; ai fini IVA sono imponibili al 22%.
+
+**D:** ⚠️ Quali sono i tre regimi IVA previsti dalla tabella, e a quale qualificazione corrisponde ciascuno?
+**R:** **Esclusione** → **valute estere**; **esenzione** → **strumenti finanziari**; **imponibile 22%** → **beni**. ⚠️ Sono **tre parole tecnicamente diverse** e non intercambiabili: l'**esclusione** mette l'operazione **fuori campo** IVA, l'**esenzione** la lascia **in campo ma non tassata**, l'**imponibilità** la tassa. Il docente le elenca in quest'ordine: «una **esclusione, un'esenzione e un'imponibile**».
+**Opzione:** Esclusione per le valute estere, esenzione per gli strumenti finanziari, imponibilità al 22% per i beni.
+**Distrattori:**
+- Esenzione per le valute estere, esclusione per gli strumenti finanziari, imponibilità al 22% per i beni.
+- Esclusione per le valute estere, imponibilità al 22% per gli strumenti finanziari, esenzione per i beni.
+- Esclusione per i beni, esenzione per le valute estere, imponibilità al 22% per gli strumenti finanziari.
+
+**D:** ⚠️ Perché, secondo il docente, è fondamentale incasellare i crypto-asset nella giusta categoria?
+**R:** Perché «a seconda della categoria in cui vengono incasellati, **non solo si applicano delle norme differenti** proprio a livello tributario, **ma anche l'applicazione dell'IVA subisce delle modifiche**». ⚠️ Le conseguenze sono **due** e la struttura «non solo… ma anche…» va conservata: cambia la **norma del TUIR** *e* cambia il **regime IVA**. Le categorie in gioco sono **tre**: «**Sono valute estere? Sono strumenti finanziari? Sono beni?**».
+**Opzione:** Perché a seconda della categoria non solo si applicano norme tributarie differenti, ma cambia anche l'applicazione dell'IVA.
+**Distrattori:**
+- Perché a seconda della categoria si applicano norme tributarie differenti, mentre l'applicazione dell'IVA resta la stessa.
+- Perché a seconda della categoria cambia l'applicazione dell'IVA, mentre le norme tributarie sono le stesse.
+- Perché a seconda della categoria cambia l'autorità competente ad accertare l'imposta.
+
+**D:** ⚠️ Come è tassata l'attività di mining?
+**R:** «**Tassati come redditi di lavoro autonomo (professionale o occasionale) o d'impresa (se l'attività è svolta in modo organizzato).**» ⚠️ Le qualificazioni sono **tre** — lavoro autonomo **professionale**, lavoro autonomo **occasionale**, **impresa** — e il discrimine dell'ultima è **uno solo**: che l'attività sia svolta «**in modo organizzato**». ⚠️ È l'esempio più netto del metodo che il docente critica: «si utilizzano ancora una volta **categorie vecchie per un qualcosa di molto nuovo**».
+**Opzione:** Come redditi di lavoro autonomo, professionale o occasionale, o d'impresa se l'attività è svolta in modo organizzato.
+**Distrattori:**
+- Come redditi di lavoro autonomo, professionale o occasionale, o d'impresa se l'attività supera una soglia annua di ricavi.
+- Come redditi d'impresa in ogni caso, trattandosi di attività svolta con mezzi tecnici.
+- Come redditi di capitale, professionale o occasionale, o d'impresa se l'attività è svolta in modo organizzato.
+
+**D:** ⚠️ Sotto quale evento rilevante la slide colloca l'attività di mining?
+**R:** Sotto il secondo, «**2. Creazione di valute virtuali**» — il primo è «**1. Exchange**». ⚠️ Gli eventi rilevanti sotto il profilo fiscale sono **due** e vanno tenuti distinti: l'**exchange** genera *capital gain* da compravendita, la **creazione** genera reddito da attività.
+**Opzione:** Sotto la creazione di valute virtuali, che è il secondo dei due eventi rilevanti dopo l'exchange.
+**Distrattori:**
+- Sotto l'exchange, che è il primo dei due eventi rilevanti.
+- Sotto la detenzione di valute virtuali, che è il secondo dei due eventi rilevanti dopo l'exchange.
+- Sotto il trasferimento di valute virtuali, che è il terzo dei tre eventi rilevanti.
+
+**D:** ⚠️ Quali sono le tre prese di posizione dell'Agenzia delle Entrate riportate dalle slide?
+**R:** La **Risoluzione n. 72/E del 2 settembre 2016**; la **Risposta a interpello n. 956-39 del 22 aprile 2018**; la **Risposta a interpello n. 14/E del 29 settembre 2018**. ⚠️ È un nido di **coppie atto + data**: un solo elemento sbagliato basta a rendere falsa l'opzione.
+**Opzione:** Risoluzione n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2018.
+**Distrattori:**
+- Risoluzione n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2016.
+- Risoluzione n. 72/E del 2 settembre 2018; risposta a interpello n. 956-39 del 22 aprile 2016; risposta a interpello n. 14/E del 29 settembre 2018.
+- Circolare n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2018.
+
+**D:** ⚠️ Che cosa stabilisce la Risoluzione n. 72/E del 2 settembre 2016 sulle operazioni di acquisto e vendita di bitcoin per conto della clientela?
+**R:** «**Operazioni imponibili ai fine IRES e IRAP per l'Exchanger e operazioni fiscalmente non rilevanti per l'utilizzatore (PF no attività di impresa). IVA: prestazioni di servizi esenti (Art. 10)**» \[*sic*, «ai fine»]. ⚠️ **Il trattamento si sdoppia per soggetto**: **imponibile** per l'**Exchanger**, **non rilevante** per l'**utilizzatore** — ma solo se **persona fisica che non svolge attività di impresa**. ⚠️ Ai fini IVA l'esito è l'**esenzione**, sull'**art. 10**.
+**Opzione:** Sono operazioni imponibili ai fini IRES e IRAP per l'exchanger e fiscalmente non rilevanti per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti.
+**Distrattori:**
+- Sono operazioni imponibili ai fini IRES e IRAP sia per l'exchanger sia per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti.
+- Sono operazioni fiscalmente non rilevanti per l'exchanger e imponibili ai fini IRES e IRAP per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti.
+- Sono operazioni imponibili ai fini IRES e IRAP per l'exchanger e fiscalmente non rilevanti per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi imponibili al 22%.
+
+**D:** ⚠️ Che cosa stabilisce la Risposta a interpello n. 956-39 del 22 aprile 2018?
+**R:** Sull'«**Investimento in oro (depositato all'estero) dietro cessione di Bitcoin**»: «**Operazioni imponibili IRPEF (PF no attività di impresa) con franchigia. Si monitoraggio fiscale, no IVAFE.**» ⚠️ **Tre** elementi, di cui **due in forma di sì/no** da non invertire: **sì** al **monitoraggio fiscale**, **no** all'**IVAFE**. Il docente spiega il primo: «va **dichiarato nella dichiarazione dei redditi** in modo che l'Agenzia delle Entrate sappia che si detenevano dei **beni all'estero**».
+**Opzione:** Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, con franchigia; sì al monitoraggio fiscale, no all'IVAFE.
+**Distrattori:**
+- Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, con franchigia; no al monitoraggio fiscale, sì all'IVAFE.
+- Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, senza franchigia; sì al monitoraggio fiscale, sì all'IVAFE.
+- Sono operazioni fiscalmente non rilevanti per la persona fisica che non svolge attività di impresa; sì al monitoraggio fiscale, no all'IVAFE.
+
+**D:** ⚠️ Quando diventano rilevanti ai fini IRES e IRAP le somme incassate per l'assegnazione di utility token emessi con una ICO?
+**R:** «**le somme incassate per l'assegnazione degli utility token non incidono sulla determinazione del reddito all'atto dell'assegnazione, ma solo al momento della cessione dei beni/prestazione servizi cui i token danno diritto**» (Risposta a interpello n. 14/E del 29 settembre 2018). ⚠️ Il **momento impositivo è differito**: non l'**assegnazione**, ma la **cessione dei beni** o la **prestazione dei servizi** cui i token danno diritto.
+**Opzione:** Non all'atto dell'assegnazione, ma solo al momento della cessione dei beni o della prestazione dei servizi cui i token danno diritto.
+**Distrattori:**
+- All'atto dell'assegnazione degli utility token, indipendentemente dalla successiva cessione dei beni o prestazione dei servizi.
+- Non all'atto dell'assegnazione, ma solo al momento dell'eventuale rivendita dei token sul mercato secondario.
+- Non all'atto dell'assegnazione, ma solo alla chiusura dell'esercizio in cui la raccolta fondi si è conclusa.
+
+**D:** ⚠️ Come sono trattati ai fini IRPEF gli utility token assegnati con una ICO?
+**R:** «**IRPEF (no attività di impresa): amministratori/dipendenti = fringe benefit; Terzi = 26%**» (Risposta a interpello n. 14/E del 29 settembre 2018). ⚠️ Il trattamento si sdoppia **per soggetto**: **fringe benefit** per amministratori e dipendenti, **26%** per i **terzi**.
+**Opzione:** Per amministratori e dipendenti sono fringe benefit; per i terzi sono tassati al 26%.
+**Distrattori:**
+- Per amministratori e dipendenti sono tassati al 26%; per i terzi sono fringe benefit.
+- Per amministratori e dipendenti sono fringe benefit; per i terzi sono tassati al 22%.
+- Per amministratori, dipendenti e terzi sono in ogni caso fringe benefit.
+
+**D:** ⚠️ Quale tipo di tassazione applicano ai crypto-asset le cinque giurisdizioni messe a confronto?
+**R:** **Proporzionale** in **Italia**, **Francia** e **UK**; **progressiva** in **Germania**; **mista** negli **USA**. ⚠️ Il **tipo** di tassazione è un asse a sé, distinto dall'aliquota: è il primo dei tre livelli della tabella (tipo · sistema · esenzioni).
+**Opzione:** Proporzionale in Italia, Francia e UK; progressiva in Germania; mista negli USA.
+**Distrattori:**
+- Proporzionale in Italia, Francia e Germania; progressiva nel Regno Unito; mista negli USA.
+- Progressiva in Italia, Francia e UK; proporzionale in Germania; mista negli USA.
+- Proporzionale in Italia e Francia; progressiva in UK e Germania; mista negli USA.
+
+**D:** ⚠️ Qual è il sistema di tassazione italiano dei crypto-asset e qual è l'esenzione?
+**R:** Tassazione **proporzionale** al **26%**; esenzione se la «**Giacenza media annua <= 51.645,69 per almeno 7 gg lavorativi continuativi**». ⚠️ La giacenza è **media annua** — il docente omette «annua» —, la soglia è **51.645,69 euro** e la durata **7 giorni lavorativi continuativi**. Il docente lo legge al contrario, come «un **limite oltre il quale la tassazione scatta**».
+**Opzione:** Tassazione proporzionale al 26%, con esenzione se la giacenza media annua è inferiore o uguale a 51.645,69 euro per almeno 7 giorni lavorativi continuativi.
+**Distrattori:**
+- Tassazione proporzionale al 26%, con esenzione se la giacenza media annua è inferiore o uguale a 51.645,69 euro per almeno 7 giorni di calendario continuativi.
+- Tassazione progressiva fino al 26%, con esenzione se la giacenza media annua è inferiore o uguale a 51.645,69 euro per almeno 7 giorni lavorativi continuativi.
+- Tassazione proporzionale al 30%, con esenzione se la giacenza media annua è inferiore o uguale a 51.645,69 euro per almeno 7 giorni lavorativi continuativi.
+
+**D:** ⚠️ In che cosa consiste l'esenzione francese sui crypto-asset, e come si distingue dalle altre?
+**R:** «**Operazioni scambio crypto-assets vs. crypto-attività**». ⚠️ È l'unica esenzione **qualitativa** della tabella: le altre sono **soglie quantitative** (51.645,69 € in Italia, £ 12.000 nel Regno Unito, € 600 in Germania). Il docente la spiega così: «se si rimane nel **mondo cripto** si può parlare di un'esenzione fiscale; se si immette in quella che viene definita la **moneta reale** qualcosa che arriva dalle cripto, allora lì è un altro discorso e **scatta eventualmente una tassazione**».
+**Opzione:** Nelle operazioni di scambio fra crypto-assets e crypto-attività: è l'unica esenzione qualitativa, mentre le altre sono soglie quantitative.
+**Distrattori:**
+- Nelle operazioni di scambio fra crypto-assets e valuta avente corso legale: è l'unica esenzione qualitativa, mentre le altre sono soglie quantitative.
+- In una soglia di capital gain fino a 30.000 euro, la più alta fra quelle della tabella.
+- Nelle operazioni di scambio fra crypto-assets e crypto-attività effettuate da traders occasionali.
+
+**D:** ⚠️ Quali soglie di esenzione prevedono Regno Unito e Germania?
+**R:** **UK**: «**Capital Gain fino a £ 12.000**». **Germania**: «**Se totale capital gain <= € 600**». ⚠️ Le **valute sono diverse** — **sterline** nel Regno Unito, **euro** in Germania — ed è l'errore più facile da indurre.
+**Opzione:** Nel Regno Unito capital gain fino a 12.000 sterline; in Germania capital gain totale fino a 600 euro.
+**Distrattori:**
+- Nel Regno Unito capital gain fino a 12.000 euro; in Germania capital gain totale fino a 600 sterline.
+- Nel Regno Unito capital gain fino a 12.000 sterline; in Germania capital gain totale fino a 6.000 euro.
+- Nel Regno Unito capital gain fino a 1.200 sterline; in Germania capital gain totale fino a 600 euro.
+
+**D:** ⚠️ Che cosa distingue il sistema tedesco nella tabella delle giurisdizioni?
+**R:** È l'unico a tassazione **progressiva**, «**23,97%-42%**», e l'unico con una «**sovrimposta di solidarietà del 5,5%**». ⚠️ La **sovrimposta** sta **solo sulla slide**: il docente dice che «la tassazione oscilla tra **quasi il 24 e il 42%**» e non la nomina.
+**Opzione:** È l'unico a tassazione progressiva, dal 23,97% al 42%, con in più una sovrimposta di solidarietà del 5,5%.
+**Distrattori:**
+- È l'unico a tassazione progressiva, dal 23,97% al 42%, senza alcuna sovrimposta.
+- È l'unico a tassazione proporzionale, al 23,97%, con in più una sovrimposta di solidarietà del 5,5%.
+- È l'unico a tassazione progressiva, dal 23,97% al 42%, con in più una sovrimposta di solidarietà del 42%.
+
+**D:** ⚠️ Come funziona la tassazione statunitense dei crypto-asset?
+**R:** È **mista**: «**Tassazione progressiva se periodo di detenzione <= 1 anno (10%-37%)**», «**Tassazione Proporzionale altrimenti (0%-15%-20%)**». ⚠️ Il discrimine è **temporale** — il **periodo di detenzione**, con soglia a **un anno** — ed è l'unico caso in cui il *tipo* di tassazione cambia dentro lo stesso ordinamento. ⚠️ La tabella **non indica esenzioni** per gli USA.
+**Opzione:** È mista: progressiva dal 10% al 37% se il periodo di detenzione è inferiore o uguale a un anno, proporzionale allo 0%, 15% o 20% negli altri casi.
+**Distrattori:**
+- È mista: proporzionale dal 10% al 37% se il periodo di detenzione è inferiore o uguale a un anno, progressiva allo 0%, 15% o 20% negli altri casi.
+- È mista: progressiva dal 10% al 37% se il periodo di detenzione è superiore a un anno, proporzionale allo 0%, 15% o 20% negli altri casi.
+- È progressiva dal 10% al 37% in ogni caso, con esenzione se il periodo di detenzione supera un anno.
+
+**D:** ⚠️ Quali sono le criticità del regime fiscale dei crypto-asset elencate dalla slide?
+**R:** **Quattro**: «**Le difformità di trattamento fiscale delle criptovalute tra paesi può indurre gli operatori a scegliere dati ordinamenti rispetto ad altri e favorire fenomeni di elusione**»; «**Difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri)**»; «**Opportunità di valutare normative fiscali «semplificate» per traders occasionali**»; «**Disciplina fiscale per nuovi tipi di token**». ⚠️ Il termine della prima voce è «**elusione**», non «illusione» come storpia l'ASR.
+**Opzione:** Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di elusione; la difficoltà dei controlli dell'Amministrazione finanziaria; l'opportunità di normative fiscali semplificate per traders occasionali; la disciplina fiscale per nuovi tipi di token.
+**Distrattori:**
+- Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di evasione penalmente rilevante; la difficoltà dei controlli dell'Amministrazione finanziaria; l'opportunità di normative fiscali semplificate per traders occasionali; la disciplina fiscale per nuovi tipi di token.
+- Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di elusione; la difficoltà dei controlli dell'Amministrazione finanziaria; l'opportunità di normative fiscali semplificate per traders professionali; la disciplina fiscale per nuovi tipi di token.
+- Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di elusione; la difficoltà dei controlli dell'Amministrazione finanziaria; l'opportunità di normative fiscali semplificate per traders occasionali; l'armonizzazione europea delle aliquote.
+
+**D:** ⚠️ A che cosa la slide attribuisce la difficoltà dei controlli dell'Amministrazione finanziaria?
+**R:** A **due** cause, indicate fra parentesi: «**Difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri)**». Il docente le sviluppa: c'è «un **anonimato**» e ci sono «**operatori esteri difficili da raggiungere** o con i quali è difficile interagire per ottenere informazioni».
+**Opzione:** All'anonimato e agli operatori esteri.
+**Distrattori:**
+- All'anonimato e alla volatilità dei corsi.
+- Agli operatori esteri e alla mancanza di una disciplina fiscale per i nuovi tipi di token.
+- All'anonimato e all'assenza di un obbligo di monitoraggio fiscale.
+
+**D:** ⚠️ Perché il docente parla di forum shopping a proposito della fiscalità delle cripto?
+**R:** Perché le difformità fra Stati possono indurre «il tentativo di **detenere, scambiare o operare attraverso cripto in quegli stati che danno una maggiore flessibilità** e applicano un **trattamento più favorevole**», con l'esito che «si creerebbero delle sorte di **mini paradisi fiscali per le criptovalute proprio all'interno dell'Unione Europea**». ⚠️ La slide dice solo «fenomeni di **elusione**»: il *forum shopping* e i «mini paradisi fiscali» sono **ampliamenti del docente** ([00:07:01]).
+**Opzione:** Perché le difformità fra Stati inducono a detenere, scambiare o operare attraverso cripto negli ordinamenti più flessibili e favorevoli, creando mini paradisi fiscali interni all'Unione Europea.
+**Distrattori:**
+- Perché le difformità fra Stati inducono a scegliere il giudice davanti al quale radicare le controversie sulle cripto, creando fori di elezione interni all'Unione Europea.
+- Perché l'Unione Europea ha già armonizzato la fiscalità diretta sulle cripto, rendendo il fenomeno solo teorico.
+- Perché gli Stati membri competono per attrarre i minatori offrendo tariffe energetiche agevolate.
+
+**D:** ⚠️ Perché la slide segnala l'opportunità di normative fiscali «semplificate» per i traders occasionali?
+**R:** Il docente ne dà la ragione: quando l'attività «**non è effettuata in modo professionale nei confronti del pubblico ma solo occasionalmente**», si presume che «i **volumi di attività siano ridotti**» e che i traders occasionali siano «**persone fisiche che lo fanno sul proprio patrimonio**». ⚠️ «**semplificate**» è **fra virgolette anche sulla slide**: è una qualificazione prudente, non un istituto esistente.
+**Opzione:** Perché l'attività non è svolta in modo professionale nei confronti del pubblico, i volumi sono ridotti e si tratta di persone fisiche che operano sul proprio patrimonio.
+**Distrattori:**
+- Perché l'attività non è svolta in modo professionale nei confronti del pubblico, ma i volumi restano elevati e vanno monitorati con strumenti dedicati.
+- Perché i traders occasionali sono già esenti da ogni obbligo di monitoraggio fiscale.
+- Perché l'attività è svolta in modo professionale nei confronti del pubblico, ma su patrimoni di importo ridotto.
+
+**D:** ⚠️ Qual è il dilemma che il docente pone sulla disciplina fiscale dei nuovi tipi di token?
+**R:** «Vale ancora la pena cercare di **incasellare con le interpretazioni all'interno delle vecchie categorie** i nuovi tipi di token? O varrebbe la pena pensare a una **nuova disciplina fiscale per i token**?» — ma anche la seconda strada «**non è certamente una scelta facile**», perché «si correrebbe il rischio di **differenziare**… quindi **avvantaggiare o svantaggiare**, un determinato asset, strumento finanziario o opportunità di trading rispetto ad un altro». ⚠️ La conclusione è che «**non esiste sostanzialmente una soluzione facile per il legislatore in questo settore**».
+**Opzione:** Se continuare a incasellare i nuovi token nelle vecchie categorie per via interpretativa, o costruire una disciplina fiscale nuova, rischiando però di avvantaggiare o svantaggiare un asset rispetto a un altro.
+**Distrattori:**
+- Se continuare a incasellare i nuovi token nelle vecchie categorie per via interpretativa, o rinunciare del tutto a tassarli fino all'armonizzazione europea.
+- Se affidare la disciplina fiscale dei nuovi token all'Agenzia delle Entrate o al legislatore europeo.
+- Se costruire una disciplina fiscale nuova per i token o estendere loro senz'altro il regime delle valute estere.
+
+**D:** ⚠️ Come spiega il docente il fatto che la qualificazione fiscale delle cripto sia in ritardo rispetto a quella regolamentare?
+**R:** «Si è cercato di **definire queste cripto con categorie e elementi tipici della regolamentazione finanziaria tradizionale**, ma **forse tutto sommato queste definizioni andavano un po' strette**, se è vero che da un punto di vista tributario fiscale **non si è ancora arrivati a una chiara identificazione della tipologia di asset** che si ha di fronte». ⚠️ Il ritardo fiscale è quindi la **prova a posteriori** che la qualificazione regolamentare non ha chiuso la partita. ⚠️ Solo nel transcript ([00:07:01]).
+**Opzione:** Perché si è cercato di definire le cripto con categorie ed elementi tipici della regolamentazione finanziaria tradizionale, definizioni che si sono rivelate strette.
+**Distrattori:**
+- Perché la fiscalità diretta è armonizzata a livello europeo e ogni intervento nazionale richiede l'assenso della Commissione.
+- Perché l'Agenzia delle Entrate ha rinviato ogni pronuncia in attesa dell'entrata in vigore del Regolamento MiCAR.
+- Perché le categorie tributarie sono più recenti di quelle regolamentari e non hanno ancora avuto applicazioni giurisprudenziali.
+
+**D:** Che cosa dice il docente sulla differenza fra il diritto del fintech e i rami tradizionali del diritto?
+**R:** «**Fare diritto del fintech oggi nel 2023 non equivale a fare diritto costituzionale o diritto privato**, in cui **le categorie sono sedimentate e le basi e le fondamenta sono solidissime** — certo con delle **evoluzioni giurisprudenziali** che raffinano, cesellano, perfezionano ancora di più queste fondamenta —; nel diritto del fintech **è tutto da costruire**, e non solo nella sostanza ma anche per quello che riguarda **tutti gli aspetti paralleli**, tra cui per esempio il **diritto fiscale**». ⚠️ Solo nel transcript ([00:07:01]).
+
+**D:** ⚠️ Con quale avvertenza di metodo il docente introduce le due lezioni sui profili fiscali?
+**R:** Che «questo **non è un corso di diritto fiscale o di diritto tributario**, ma saranno le **basi** che vi servono per comprendere più da vicino il fenomeno nella sua interezza», e che conta più il metodo del risultato: «**a me più che la conclusione interessa che voi capiate le tematiche, i ragionamenti**, perché la conclusione dell'Agenzia delle Entrate di oggi **non è detto che sarà definitiva**… dovete essere in grado di **aver capito i meccanismi che ruotano intorno**, più che l'ultima interpretazione del momento». ⚠️ Solo nel transcript ([00:00:05], [00:03:43]).
