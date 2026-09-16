@@ -6495,3 +6495,267 @@
 
 **D:** ⚠️ Con quale avvertenza di metodo il docente introduce le due lezioni sui profili fiscali?
 **R:** Che «questo **non è un corso di diritto fiscale o di diritto tributario**, ma saranno le **basi** che vi servono per comprendere più da vicino il fenomeno nella sua interezza», e che conta più il metodo del risultato: «**a me più che la conclusione interessa che voi capiate le tematiche, i ragionamenti**, perché la conclusione dell'Agenzia delle Entrate di oggi **non è detto che sarà definitiva**… dovete essere in grado di **aver capito i meccanismi che ruotano intorno**, più che l'ultima interpretazione del momento». ⚠️ Solo nel transcript ([00:00:05], [00:03:43]).
+
+## Lezione 24 — Profili fiscali delle attività relative ai Crypto-assets (2)
+
+**D:** ⚠️ Qual è lo stato attuale della normativa fiscale sulle valute virtuali?
+**R:** **Tre** punti: «**Non esiste una normativa ad hoc: alle valute virtuali si applicano quindi i principi generali**»; «**Alla luce delle istruzioni per la compilazione del Mod. PF e della sentenza TAR Lazio 1077/2020, le «valute virtuali» devono essere riconosciute come «attività finanziarie», come tali generatrici di redditi imponibili (redditi diversi e/o redditi di capitale)**»; «**Alle transazioni aventi ad oggetto valute virtuali non si applica l'IVA in base all' art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE (operazioni relative ad attività finanziarie – Ris. 72/E/2016)**».
+**Opzione:** Non esiste una normativa ad hoc e si applicano i principi generali; le valute virtuali sono riconosciute come attività finanziarie, generatrici di redditi diversi e/o di capitale; alle transazioni non si applica l'IVA.
+**Distrattori:**
+- Esiste una normativa ad hoc di recente introduzione; le valute virtuali sono riconosciute come attività finanziarie, generatrici di redditi diversi e/o di capitale; alle transazioni non si applica l'IVA.
+- Non esiste una normativa ad hoc e si applicano i principi generali; le valute virtuali sono riconosciute come beni immateriali, generatrici di redditi diversi e/o di capitale; alle transazioni non si applica l'IVA.
+- Non esiste una normativa ad hoc e si applicano i principi generali; le valute virtuali sono riconosciute come attività finanziarie, generatrici di redditi diversi e/o di capitale; alle transazioni si applica l'IVA con aliquota ordinaria.
+
+**D:** ⚠️ Su quali fonti si fonda il riconoscimento delle valute virtuali come «attività finanziarie»?
+**R:** Su **due**: «**le istruzioni per la compilazione del Mod. PF**» *e* «**la sentenza TAR Lazio 1077/2020**». ⚠️ Il numero **1077/2020** sta **solo sulla slide** (il docente dice «una sentenza del TAR del 2020»), e i redditi generati sono «**redditi diversi *e/o* redditi di capitale**»: disgiuntivo **inclusivo**, non uno solo dei due.
+**Opzione:** Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza TAR Lazio 1077/2020.
+**Distrattori:**
+- Sulle sole istruzioni per la compilazione del Mod. PF.
+- Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza della Corte di Giustizia dell'Unione Europea del 2015.
+- Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza del Consiglio di Stato 1077/2020.
+
+**D:** ⚠️ In base a quale norma alle transazioni in valute virtuali non si applica l'IVA, e per quale ragione?
+**R:** «**in base all' art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE (operazioni relative ad attività finanziarie – Ris. 72/E/2016)**». ⚠️ La direttiva è la **2006/112/CE** — l'ASR la storpia in «2612» — e la **ragione** sta nella parentesi: si tratta di «**operazioni relative ad attività finanziarie**».
+**Opzione:** In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative ad attività finanziarie.
+**Distrattori:**
+- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2014/65/UE, in quanto operazioni relative ad attività finanziarie.
+- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative a mezzi di pagamento.
+- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative a beni immateriali.
+
+**D:** ⚠️ A che cosa sono fiscalmente assimilati i payment token, gli utility token e i security token?
+**R:** **Payment token** → «**Valute estere**»; **utility token** → «**Crediti**»; **security token** → «**Attività finanziarie**». ⚠️ Le tre assimilazioni **non vanno scambiate**: è una matrice a due righe (definizione × assimilazione) e i distrattori si costruiscono proprio ruotandole.
+**Opzione:** I payment token alle valute estere, gli utility token ai crediti, i security token alle attività finanziarie.
+**Distrattori:**
+- I payment token ai crediti, gli utility token alle valute estere, i security token alle attività finanziarie.
+- I payment token alle valute estere, gli utility token alle attività finanziarie, i security token ai crediti.
+- I payment token alle attività finanziarie, gli utility token ai crediti, i security token alle valute estere.
+
+**D:** ⚠️ Come definisce la slide i payment token?
+**R:** «**Token utilizzati ESCLUSIVAMENTE come mezzo di pagamento o trasferimento di valore**», «**Fiscalmente assimilabili a "Valute estere"**». ⚠️ «**ESCLUSIVAMENTE**» è in **maiuscolo sulla slide**: basta un uso ulteriore perché il token non sia più *payment*. ⚠️ Le funzioni sono **due e alternative**: mezzo di **pagamento** *o* **trasferimento di valore**.
+**Opzione:** Token utilizzati esclusivamente come mezzo di pagamento o trasferimento di valore.
+**Distrattori:**
+- Token utilizzati prevalentemente come mezzo di pagamento o trasferimento di valore.
+- Token utilizzati esclusivamente come mezzo di pagamento.
+- Token utilizzati esclusivamente come voucher per l'accesso a specifici beni o servizi.
+
+**D:** ⚠️ Come definisce la slide gli utility token, e a che cosa li assimila fiscalmente?
+**R:** «**Token utilizzati come "voucher" per l'accesso a specifici beni o servizi**», «**Fiscalmente assimilabili a "Crediti"**». ⚠️ «**voucher**» è **fra virgolette anche sulla slide**, e i beni o servizi sono «**specifici**». ⚠️ L'assimilazione ai **crediti** è coerente con l'interpello 14/2018, che differisce il ricavo al momento dell'**utilizzo** del token.
+**Opzione:** Token utilizzati come voucher per l'accesso a specifici beni o servizi, fiscalmente assimilabili a crediti.
+**Distrattori:**
+- Token utilizzati come voucher per l'accesso a specifici beni o servizi, fiscalmente assimilabili ad attività finanziarie.
+- Token utilizzati come voucher per l'accesso a qualsiasi bene o servizio, fiscalmente assimilabili a crediti.
+- Token utilizzati come mezzo di pagamento o trasferimento di valore, fiscalmente assimilabili a crediti.
+
+**D:** ⚠️ Come definisce la slide i security token?
+**R:** «**Token che rappresentano un investimento di natura finanziaria (azione, obbligazione, fondo o derivato), con o senza un rendimento prestabilito**», «**Fiscalmente assimilabili a "Attività finanziarie"**». ⚠️ Gli esempi sono **quattro** e la coda «**con o senza un rendimento prestabilito**» rende la categoria **indifferente** al rendimento: l'assenza di rendimento prestabilito non esclude il security token.
+**Opzione:** Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, con o senza un rendimento prestabilito.
+**Distrattori:**
+- Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, purché con un rendimento prestabilito.
+- Token che rappresentano un investimento di natura finanziaria, come azione o obbligazione, con o senza un rendimento prestabilito.
+- Token che rappresentano un diritto di accesso a un investimento di natura finanziaria, con o senza un rendimento prestabilito.
+
+**D:** ⚠️ Su quale base le valute virtuali sono assimilate alle valute estere?
+**R:** «**In mancanza di una normativa esplicita, l'inquadramento fiscale deve essere ricostruito in via interpretativa. La risoluzione 72/2016, richiamando la Sentenza della CGUE 22/10/15 (caso C-264/14), ritiene le valute virtuali «assimilabili» alle valute estere.**» ⚠️ La catena è a **tre anelli**: **sentenza CGUE** → **risoluzione 72/2016** → **assimilazione**. Gli estremi della sentenza stanno **solo sulla slide**: il docente dice «una sentenza dell'Unione Europea».
+**Opzione:** Sulla risoluzione 72/2016, che richiama la sentenza della CGUE del 22 ottobre 2015, caso C-264/14, e ritiene le valute virtuali assimilabili alle valute estere.
+**Distrattori:**
+- Sulla risoluzione 72/2016, che richiama la sentenza del TAR Lazio 1077/2020, e ritiene le valute virtuali assimilabili alle valute estere.
+- Sulla sentenza della CGUE del 22 ottobre 2015, caso C-264/14, che qualifica direttamente le valute virtuali come valute estere senza bisogno di atti interni.
+- Sulla risoluzione 72/2016, che richiama la sentenza della CGUE del 22 ottobre 2015, caso C-264/14, e ritiene le valute virtuali assimilabili agli strumenti finanziari.
+
+**D:** ⚠️ Che cosa dice la slide sull'assimilazione indistinta dei cryptoasset alle valute estere?
+**R:** «**La gestione fiscale delle varie tipologie di token comporta delle complessità rilevanti: bisogna però tenere presente che considerare indistintamente tutti i cryptoasset come «valute estere» ai fini fiscali costituisce una forzatura sotto il profilo tecnico.**» ⚠️ È la **slide stessa** ad ammettere la forzatura, e l'avverbio decisivo è «**indistintamente**»: il problema non è l'assimilazione in sé, ma applicarla a **tutti** i cryptoasset ignorando la tripartizione payment/utility/security. Il docente la rafforza in «**un'autentica forzatura**».
+**Opzione:** Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali costituisce una forzatura sotto il profilo tecnico.
+**Distrattori:**
+- Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali è la soluzione tecnicamente più corretta disponibile.
+- Che considerare indistintamente tutti i cryptoasset come attività finanziarie ai fini fiscali costituisce una forzatura sotto il profilo tecnico.
+- Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali costituisce una forzatura, ma solo per i security token.
+
+**D:** ⚠️ In quali lettere dell'art. 67 TUIR rientrano le plusvalenze da cessione di valute virtuali?
+**R:** «**Le plusvalenze derivanti dalla cessione di valute virtuali assimilabili alle valute estere rientrano nell'ambito applicativo del comma 1 lett. c-ter dell'art. 67 TUIR, mentre quelle derivanti da altre valute virtuali rientrano nella lett. c-quinquies.**» ⚠️ **Due lettere, due insiemi**: **c-ter** per le assimilabili alle **valute estere**, **c-quinquies** per **tutte le altre**. L'ASR le storpia in «lettera C3» e «lettera C5».
+**Opzione:** Nella lett. c-ter del comma 1 quelle da valute virtuali assimilabili alle valute estere, nella lett. c-quinquies quelle derivanti da altre valute virtuali.
+**Distrattori:**
+- Nella lett. c-quinquies quelle da valute virtuali assimilabili alle valute estere, nella lett. c-ter quelle derivanti da altre valute virtuali.
+- Nella lett. c-ter del comma 1 tutte le plusvalenze da cessione di valute virtuali, senza distinzioni.
+- Nella lett. c-ter del comma 1 quelle da valute virtuali assimilabili alle valute estere, nella lett. c-quater quelle derivanti da altre valute virtuali.
+
+**D:** ⚠️ Qual è la soglia di non imponibilità delle plusvalenze, a quali plusvalenze si applica e in quale norma sta?
+**R:** «**Le plusvalenze di cui alla lett. c-ter sono imponibili a condizione che la giacenza complessiva abbia superato l'importo di Euro 51.645 per sette giorni lavorativi continui (Art. 67 comma 1-ter).**» ⚠️ **Tre punti**: la soglia vale **solo** per le plusvalenze della **lett. c-ter**; la grandezza è la **giacenza complessiva**; la norma è il **comma 1-ter**, da non confondere con la *lettera* c-ter del comma 1. ⚠️ La slide 8 della **lezione 23** presenta la stessa regola dal lato dell'esenzione e come «**giacenza media annua <= 51.645,69**».
+**Opzione:** Le plusvalenze della lett. c-ter sono imponibili se la giacenza complessiva ha superato 51.645 euro per sette giorni lavorativi continui, ai sensi dell'art. 67 comma 1-ter.
+**Distrattori:**
+- Le plusvalenze della lett. c-quinquies sono imponibili se la giacenza complessiva ha superato 51.645 euro per sette giorni lavorativi continui, ai sensi dell'art. 67 comma 1-ter.
+- Tutte le plusvalenze da valute virtuali sono imponibili se la giacenza complessiva ha superato 51.645 euro per sette giorni lavorativi continui, ai sensi dell'art. 67 comma 1-ter.
+- Le plusvalenze della lett. c-ter sono imponibili se la giacenza complessiva ha superato 51.645 euro per sette giorni di calendario continui, ai sensi dell'art. 67 comma 1-ter.
+
+**D:** ⚠️ Quali sono i tre punti dell'interpello 14/2018 sul regime fiscale delle ICO?
+**R:** Con riferimento agli «**utility token**»: «**I proventi derivanti dal collocamento dei token non sono assoggettati a IVA e non costituiscono ricavi nell'esercizio in cui sono collocati**»; «**L'utilizzo dei token genera ricavi di competenza dell'esercizio in cui avviene tale utilizzo, in base al valore corrente del token stesso**»; «**L'emittente deve valutare le «rimanenze» di token al valore corrente di mercato (e non in base al costo storico)**». ⚠️ **Il momento rilevante non è il collocamento ma l'utilizzo**, e la disciplina riguarda **solo gli utility token**.
+**Opzione:** I proventi dal collocamento non sono soggetti a IVA né costituiscono ricavi nell'esercizio di collocamento; l'utilizzo dei token genera ricavi di competenza dell'esercizio in cui avviene, al valore corrente del token; le rimanenze si valutano al valore corrente di mercato.
+**Distrattori:**
+- I proventi dal collocamento non sono soggetti a IVA ma costituiscono ricavi nell'esercizio di collocamento; l'utilizzo dei token genera ricavi di competenza dell'esercizio in cui avviene, al valore corrente del token; le rimanenze si valutano al valore corrente di mercato.
+- I proventi dal collocamento non sono soggetti a IVA né costituiscono ricavi nell'esercizio di collocamento; l'utilizzo dei token genera ricavi di competenza dell'esercizio in cui avviene, al valore corrente del token; le rimanenze si valutano in base al costo storico.
+- I proventi dal collocamento sono soggetti a IVA e costituiscono ricavi nell'esercizio di collocamento; l'utilizzo dei token non genera ulteriori ricavi; le rimanenze si valutano al valore corrente di mercato.
+
+**D:** ⚠️ Con quale criterio l'emittente deve valutare le «rimanenze» di token?
+**R:** «**al valore corrente di mercato (e non in base al costo storico)**». ⚠️ Il criterio è **duplice e contrapposto**: la slide dice espressamente che cosa **non** si usa. È il punto in cui il regime degli utility token si distacca dalle regole contabili ordinarie sulle rimanenze.
+**Opzione:** Al valore corrente di mercato, e non in base al costo storico.
+**Distrattori:**
+- In base al costo storico, e non al valore corrente di mercato.
+- Al minore fra il costo storico e il valore corrente di mercato.
+- Al valore nominale di emissione del token.
+
+**D:** ⚠️ Perché gli accertamenti diretti sulle cryptovalute sono difficili ma non impossibili?
+**R:** «**Salvo alcune eccezioni, le blockchain sono pubbliche, e pertanto «pseudoanomime» \[*sic*, *pseudoanonime*], non del tutto anonime. Accertamenti diretti sono pertanto tecnicamente possibili, ma non agevoli.**» ⚠️ **Pseudoanonime, non anonime**: la pubblicità del registro rende l'accertamento **tecnicamente possibile**; è la mascheratura dell'identità a renderlo **non agevole**. ⚠️ L'inciso «**salvo alcune eccezioni**» rinvia alle blockchain non pubbliche.
+**Opzione:** Perché le blockchain sono pubbliche e pertanto pseudoanonime, non del tutto anonime: gli accertamenti diretti sono tecnicamente possibili, ma non agevoli.
+**Distrattori:**
+- Perché le blockchain sono private e pertanto del tutto anonime: gli accertamenti diretti sono tecnicamente impossibili.
+- Perché le blockchain sono pubbliche e pertanto del tutto trasparenti: gli accertamenti diretti sono tecnicamente possibili e agevoli.
+- Perché le blockchain sono pubbliche e pertanto pseudoanonime: gli accertamenti diretti sono possibili soltanto tramite richiesta di collaborazione agli exchange.
+
+**D:** ⚠️ Quali strumenti di accertamento indiretto nomina la slide, e a che cosa servono?
+**R:** «**Esistono però strumenti di accertamento indiretti (redditometro, anagrafe dei rapporti etc.) che permettono di intercettare le manifestazioni di capacità economica «derivanti» dalle attività relative alle valute virtuali.**» ⚠️ Gli strumenti nominati sono **due** più un *etc.*: **redditometro** — l'ASR lo storpia in «redditrometro» — e **anagrafe dei rapporti**. ⚠️ Ciò che intercettano sono le «**manifestazioni di capacità economica**», non le transazioni in cripto.
+**Opzione:** Il redditometro e l'anagrafe dei rapporti, che permettono di intercettare le manifestazioni di capacità economica derivanti dalle attività in valute virtuali.
+**Distrattori:**
+- Il redditometro e l'anagrafe dei rapporti, che permettono di intercettare direttamente le transazioni in valute virtuali registrate sulla blockchain.
+- Lo spesometro e il registro dei cambiavalute, che permettono di intercettare le manifestazioni di capacità economica derivanti dalle attività in valute virtuali.
+- Il redditometro e il monitoraggio fiscale del quadro RW, che permettono di intercettare direttamente le transazioni in valute virtuali.
+
+**D:** ⚠️ In quale momento sussiste davvero il rischio di accertamento sulle cryptovalute?
+**R:** «**si può ritenere che al momento il rischio di accertamento sussista non tanto in via «diretta» riguardo alla detenzione/trading delle cryptovalute, ma soprattutto in via «indiretta» al momento dell'utilizzo degli eventuali proventi**». ⚠️ **I due momenti non vanno invertiti**: il rischio **diretto** riguarda **detenzione e trading**, quello **indiretto** — il vero — scatta **all'utilizzo dei proventi**. Il docente lo spiega così: «lì si chiederà **da dove arrivano questi proventi**».
+**Opzione:** Non tanto in via diretta riguardo alla detenzione o al trading, ma soprattutto in via indiretta al momento dell'utilizzo degli eventuali proventi.
+**Distrattori:**
+- Non tanto in via indiretta al momento dell'utilizzo dei proventi, ma soprattutto in via diretta riguardo alla detenzione o al trading.
+- In via diretta al momento della dichiarazione ai fini del quadro RW.
+- In via indiretta al momento dell'acquisto delle cryptovalute presso un exchange estero.
+
+**D:** Quale critica muove il docente all'impostazione dell'accertamento sulle cripto?
+**R:** «Vedete come l'impostazione del regolatore finanziario è **sempre sull'accertamento**, cioè anziché prevedere una **cooperazione con l'individuo** si cerca di capire con **mezzi indiretti** da dove arrivino questi redditi. Secondo il mio punto di vista **non è il modo migliore per cercare una collaborazione leale, seria e trasparente con il contribuente**. Ci vorrebbe una normativa che sia **vantaggiosa per il contribuente** ma che al tempo stesso sia **molto seria e severa** se… **non rispettata**. In questo quadro così **vago e grigio**, evidentemente il regolatore **ha paura** e quindi si preoccupa della **fase patologica**». Il rischio: i risultati delle vie indirette «possono essere **equivoci, fuorvianti, difficili da comprendere e non necessariamente patologici**», e la macchina delle richieste «mette il cittadino in uno **stato di allarme e di ansia** e forse quindi **scoraggia anche l'utilizzo di queste nuove tecnologie**». ⚠️ Solo nel transcript ([00:04:02], [00:05:03]).
+
+**D:** ⚠️ Che cosa ha stabilito la sentenza del TAR Lazio 1077/2020 sul quadro RW?
+**R:** «**Il ricorso, originato dalla pubblicazione delle istruzioni per la compilazione della dichiarazione dei redditi, verteva sull'inclusione delle valute virtuali tra le attività finanziarie da dichiarare ai fini del quadro RW. La sentenza conferma l'obbligo di dichiarazione ed indirettamente il regime fiscale delle plusvalenze.**» ⚠️ La sentenza conferma **due** cose, una **direttamente** (l'obbligo di dichiarazione) e una **indirettamente** (il regime fiscale delle plusvalenze).
+**Opzione:** Conferma l'obbligo di dichiarazione delle valute virtuali nel quadro RW e, indirettamente, il regime fiscale delle plusvalenze.
+**Distrattori:**
+- Conferma l'obbligo di dichiarazione delle valute virtuali nel quadro RW ma esclude espressamente ogni pronuncia sul regime fiscale delle plusvalenze.
+- Annulla le istruzioni per la compilazione della dichiarazione dei redditi nella parte in cui includono le valute virtuali fra le attività finanziarie.
+- Conferma il regime fiscale delle plusvalenze e, indirettamente, l'obbligo di dichiarazione delle valute virtuali nel quadro RW.
+
+**D:** ⚠️ Esiste una soglia di importo per l'obbligo di dichiarazione dei crypto-asset nel quadro RW?
+**R:** No: «**risulta sussistente l'obbligo di dichiarare ai fini del monitoraggio fiscale le consistenze di cryptoassets INDIPENDENTEMENTE DALL'IMPORTO**» — in **maiuscolo sulla slide**. ⚠️ **Sono due regimi distinti e confonderli è l'errore tipico**: il **monitoraggio** (quadro RW) **non ha soglia**, l'**imponibilità delle plusvalenze** ce l'ha (51.645 € per sette giorni lavorativi continui).
+**Opzione:** No: l'obbligo sussiste indipendentemente dall'importo.
+**Distrattori:**
+- Sì: l'obbligo sussiste solo oltre 51.645 euro per sette giorni lavorativi continui.
+- Sì: l'obbligo sussiste solo oltre la soglia minima di 15.000 euro.
+- Sì: l'obbligo sussiste solo per le consistenze detenute presso intermediari non residenti oltre i 51.645 euro.
+
+**D:** ⚠️ Quale eccezione all'obbligo di dichiarazione nel quadro RW indica la slide, e per quale ragione?
+**R:** «**Una possibile eccezione è costituita dalle crypto detenute presso exchange italiani, considerando che si tratta di crediti verso soggetti residenti.**» ⚠️ La **ragione** è la parte da non perdere: si tratta di «**crediti verso soggetti residenti**», e quindi non di attività detenute **all'estero**. ⚠️ L'interpello 78/2021 la conferma e ne dà la base normativa: sono «**intermediari residenti» soggetti agli obblighi di comunicazione di cui al DL 167/1990**».
+**Opzione:** Le crypto detenute presso exchange italiani, perché si tratta di crediti verso soggetti residenti.
+**Distrattori:**
+- Le crypto detenute presso exchange esteri, perché si tratta di crediti verso soggetti non residenti.
+- Le crypto detenute in wallet con chiavi private, perché non sono affidate ad alcun intermediario.
+- Le crypto detenute presso exchange italiani, perché si tratta di depositi di natura bancaria.
+
+**D:** ⚠️ Che cosa ha confermato l'Agenzia delle Entrate con l'interpello 78/2021?
+**R:** Su «**la «classica» attività di detenzione di cryptovalute in un wallet con chiavi private**», **quattro** punti: detenzione «**sempre**» da dichiarare nel quadro RW «**senza limiti di importo**»; «**Fanno eccezione solo le valute virtuali detenute presso exchange italiani, in quanto «intermediari residenti» soggetti agli obblighi di comunicazione di cui al DL 167/1990**»; plusvalenze imponibili «**solo in caso di superamento della soglia di cui al comma 1-ter dell'art. 67 TUIR**»; «**Per «cessione» si intende qualsiasi scambio di una valuta contro una valuta differente**».
+**Opzione:** Che la detenzione va sempre dichiarata nel quadro RW senza limiti di importo, salvo le valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
+**Distrattori:**
+- Che la detenzione va dichiarata nel quadro RW solo oltre i 51.645 euro, salvo le valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
+- Che la detenzione va sempre dichiarata nel quadro RW senza limiti di importo, salvo le valute detenute presso exchange esteri; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
+- Che la detenzione va sempre dichiarata nel quadro RW senza limiti di importo, salvo le valute detenute presso exchange italiani; che le plusvalenze sono imponibili in ogni caso; e che per cessione si intende soltanto la conversione in valuta avente corso legale.
+
+**D:** ⚠️ Che cosa si intende per «cessione» secondo gli interpelli dell'Agenzia delle Entrate?
+**R:** «**Per «cessione» si intende qualsiasi scambio di una valuta contro una valuta differente**». ⚠️ La formula è **identica negli interpelli 78/2021 e 397/2022** ed è larghissima: comprende anche lo **scambio cripto contro cripto**. ⚠️ È esattamente ciò che la **proposta di legge Zanichelli** vorrebbe ribaltare, prevedendo la realizzazione **solo alla conversione in valute «fiat»**.
+**Opzione:** Qualsiasi scambio di una valuta contro una valuta differente, compreso lo scambio fra due valute virtuali.
+**Distrattori:**
+- Soltanto la conversione di una valuta virtuale in valuta avente corso legale.
+- Soltanto lo scambio fra due valute virtuali diverse.
+- Qualsiasi trasferimento di valuta virtuale, anche fra wallet dello stesso titolare.
+
+**D:** ⚠️ Qual è la novità dell'interpello 397/2022 rispetto al 78/2021?
+**R:** Il calcolo della soglia: «**Le plusvalenze realizzate sono imponibili solo in caso di superamento della soglia di cui al comma 1-ter dell'art. 67 TUIR, con riferimento al valore di tutti i wallet detenuti.**» ⚠️ È **l'unica** differenza sostanziale, ma pesante: il docente osserva che «il contribuente deve essere in grado di **monitorare tutti i propri wallet crypto** che ha… quindi ovviamente **è molto più facile superarlo** rispetto a quello che è stato previsto prima», e che l'obbligo «va a **cozzare contro**… la **velocità nello spostamento di cripto**», potendo «anche in **buona fede** generare… **omissioni**».
+**Opzione:** Che la soglia di imponibilità si calcola con riferimento al valore di tutti i wallet detenuti.
+**Distrattori:**
+- Che la soglia di imponibilità si calcola con riferimento al valore del singolo wallet in cui la plusvalenza è realizzata.
+- Che la detenzione di valute virtuali va dichiarata nel quadro RW solo oltre una soglia minima di 15.000 euro.
+- Che per cessione si intende soltanto la conversione di una valuta virtuale in valuta fiat.
+
+**D:** ⚠️ Su che cosa vertevano rispettivamente gli interpelli 78/2021 e 397/2022?
+**R:** Il **78/2021** su «**la «classica» attività di detenzione di cryptovalute in un wallet con chiavi private**»; il **397/2022** su «**la detenzione di cryptovalute tramite exchange e wallet con chiavi private**». ⚠️ L'oggetto del secondo è **più ampio**: comprende anche gli **exchange**. ⚠️ Le date sono **24 novembre 2021** e **1 agosto 2022**, e i **numeri** stanno **solo sulle slide**.
+**Opzione:** Il 78/2021 sulla detenzione in un wallet con chiavi private; il 397/2022 sulla detenzione tramite exchange e wallet con chiavi private.
+**Distrattori:**
+- Il 78/2021 sulla detenzione tramite exchange e wallet con chiavi private; il 397/2022 sulla detenzione in un wallet con chiavi private.
+- Il 78/2021 sulla detenzione in un wallet con chiavi private; il 397/2022 sull'emissione di utility token tramite ICO.
+- Il 78/2021 sull'investimento in oro depositato all'estero dietro cessione di Bitcoin; il 397/2022 sulla detenzione tramite exchange e wallet con chiavi private.
+
+**D:** ⚠️ Si applica l'IVAFE alle valute virtuali, e perché?
+**R:** **No**. «**L'interpello 959-39 del 2018, richiamando la Circ. 28/E/2012, afferma che alle valute virtuali non si applica l'IVAFE in quanto «tale imposta si applica ai depositi e conti correnti esclusivamente di natura bancaria».**» ⚠️ La **ragione è testuale** e va citata. ⚠️ Attenzione al transcript: il docente legge il titolo interrogativo della slide («Si applica l'IVAFE?») come se fosse un'affermazione, prima di dare la risposta corretta.
+**Opzione:** No, perché l'IVAFE si applica ai depositi e conti correnti esclusivamente di natura bancaria.
+**Distrattori:**
+- Sì, perché le valute virtuali sono attività finanziarie detenute all'estero.
+- No, perché le valute virtuali non sono attività finanziarie ma beni immateriali.
+- Sì, ma soltanto quando siano detenute presso un intermediario estero qualificabile come banca.
+
+**D:** ⚠️ In quale caso il problema dell'IVAFE sulle valute virtuali potrebbe comunque porsi?
+**R:** «**Occorre quindi prestare attenzione alla qualificazione del deposito sotto il profilo sostanziale: ove l'intermediario estero si qualificasse come «banca», il problema potrebbe porsi.**» ⚠️ L'eccezione è **ipotetica e in condizionale** — «potrebbe porsi», non «si pone» — e il criterio è **sostanziale**, cioè la qualificazione effettiva del deposito, non la sua denominazione.
+**Opzione:** Ove l'intermediario estero si qualificasse come banca, valutando il deposito sotto il profilo sostanziale.
+**Distrattori:**
+- Ove l'intermediario fosse residente in Italia e qualificabile come banca.
+- Ove il valore complessivo dei wallet superasse la soglia di 51.645 euro.
+- Ove il contribuente omettesse la dichiarazione nel quadro RW.
+
+**D:** ⚠️ Quali modifiche porterebbe la proposta di legge Zanichelli?
+**R:** **Quattro**: le plusvalenze sarebbero «**realizzate**» **solo alla conversione in valute «fiat»** e non da una valuta virtuale all'altra, con modifica espressa del **comma 1-ter** per includere le valute virtuali nell'esenzione **sotto i 51.645 Euro**; per il calcolo della soglia si guarderebbe al «**costo di acquisto**» e non al **prezzo al 1.1.**; ci sarebbe un regime «**transitorio**» con **imposta sostitutiva del 4%** sulle posizioni pregresse; e una **soglia minima di 15.000** per la dichiarazione nel quadro RW, con **permanenza dell'esenzione da IVAFE**. ⚠️ **Tre cifre da non confondere**: **51.645 €**, **4%**, **15.000**.
+**Opzione:** Realizzazione delle plusvalenze solo alla conversione in valute fiat; calcolo della soglia sul costo di acquisto anziché sul prezzo al 1° gennaio; imposta sostitutiva del 4% sulle posizioni pregresse; soglia minima di 15.000 per il quadro RW, con permanenza dell'esenzione IVAFE.
+**Distrattori:**
+- Realizzazione delle plusvalenze anche negli scambi fra valute virtuali; calcolo della soglia sul costo di acquisto anziché sul prezzo al 1° gennaio; imposta sostitutiva del 4% sulle posizioni pregresse; soglia minima di 15.000 per il quadro RW, con permanenza dell'esenzione IVAFE.
+- Realizzazione delle plusvalenze solo alla conversione in valute fiat; calcolo della soglia sul prezzo al 1° gennaio anziché sul costo di acquisto; imposta sostitutiva del 4% sulle posizioni pregresse; soglia minima di 15.000 per il quadro RW, con permanenza dell'esenzione IVAFE.
+- Realizzazione delle plusvalenze solo alla conversione in valute fiat; calcolo della soglia sul costo di acquisto anziché sul prezzo al 1° gennaio; imposta sostitutiva del 26% sulle posizioni pregresse; soglia minima di 15.000 per il quadro RW, con introduzione dell'IVAFE.
+
+**D:** ⚠️ Che cosa cambierebbe la proposta Zanichelli sul momento di realizzazione delle plusvalenze?
+**R:** «**Le plusvalenze sono «realizzate» solo al momento della conversione delle valute virtuali in valute «fiat» e non da una valuta virtuale all'altra.**» ⚠️ È il **ribaltamento** della nozione di «cessione» degli interpelli, che oggi comprende «**qualsiasi scambio di una valuta contro una valuta differente**» — dunque anche cripto contro cripto. ⚠️ La stessa modifica interviene «**espressamente**» sul **comma 1-ter** per includere le valute virtuali nell'esenzione **sotto i 51.645 Euro**.
+**Opzione:** Le plusvalenze sarebbero realizzate solo alla conversione in valute fiat, e non nel passaggio da una valuta virtuale all'altra.
+**Distrattori:**
+- Le plusvalenze sarebbero realizzate sia alla conversione in valute fiat sia nel passaggio da una valuta virtuale all'altra.
+- Le plusvalenze sarebbero realizzate solo nel passaggio da una valuta virtuale all'altra, e non alla conversione in valute fiat.
+- Le plusvalenze sarebbero realizzate al momento dell'acquisto della valuta virtuale, secondo il criterio di cassa.
+
+**D:** ⚠️ Quale regime transitorio e quale soglia minima prevede la proposta Zanichelli?
+**R:** «**Si prevede un regime «transitorio» con una imposta sostitutiva del 4% relativamente alle posizioni pregresse**» e «**Si prevede una soglia minima di 15.000 per la dichiarazione ai fini del quadro RW, e permane l'esenzione da IVAFE**». ⚠️ La soglia dei **15.000** **introdurrebbe** un limite dove oggi l'obbligo vale «**indipendentemente dall'importo**». ⚠️ L'esenzione da IVAFE **permane**: non è una novità della proposta. Il docente vi vede il pregio principale: l'apertura di «una **finestra** per la **regolarizzazione del pregresso**».
+**Opzione:** Un'imposta sostitutiva del 4% sulle posizioni pregresse e una soglia minima di 15.000 per la dichiarazione nel quadro RW, con permanenza dell'esenzione da IVAFE.
+**Distrattori:**
+- Un'imposta sostitutiva del 4% sulle posizioni pregresse e una soglia minima di 51.645 per la dichiarazione nel quadro RW, con permanenza dell'esenzione da IVAFE.
+- Un'imposta sostitutiva del 26% sulle posizioni pregresse e una soglia minima di 15.000 per la dichiarazione nel quadro RW, con permanenza dell'esenzione da IVAFE.
+- Un'imposta sostitutiva del 4% sulle posizioni pregresse e una soglia minima di 15.000 per la dichiarazione nel quadro RW, con introduzione dell'IVAFE sulle valute virtuali.
+
+**D:** ⚠️ Chi deve iscriversi al registro tenuto presso l'OAM, da quando e a quale sezione?
+**R:** «**A partire dal 18 maggio 2022 i «prestatori di servizi relativi all'utilizzo di valuta virtuale e di portafoglio digitale che operano, o che intendono operare, anche on-line, in Italia» dovranno iscriversi ad una sezione speciale del Registro dei Cambiavalute tenuto presso l'Organismo degli Agenti in Mediazione (OAM).**» ⚠️ Non è un registro nuovo: è **una sezione speciale** di un registro esistente. ⚠️ La formula copre anche chi «**intende** operare» e chi opera «**anche on-line**».
+**Opzione:** Dal 18 maggio 2022, i prestatori di servizi relativi all'utilizzo di valuta virtuale e di portafoglio digitale che operano o intendono operare, anche on-line, in Italia, a una sezione speciale del Registro dei Cambiavalute tenuto presso l'OAM.
+**Distrattori:**
+- Dal 18 maggio 2022, i soli prestatori di servizi di portafoglio digitale che operano stabilmente in Italia, a una sezione speciale del Registro dei Cambiavalute tenuto presso l'OAM.
+- Dal 18 maggio 2022, i prestatori di servizi relativi all'utilizzo di valuta virtuale e di portafoglio digitale che operano o intendono operare, anche on-line, in Italia, a un registro di nuova istituzione tenuto presso la Banca d'Italia.
+- Dal 1 agosto 2022, i prestatori di servizi relativi all'utilizzo di valuta virtuale e di portafoglio digitale che operano o intendono operare, anche on-line, in Italia, a una sezione speciale del Registro dei Cambiavalute tenuto presso l'OAM.
+
+**D:** ⚠️ Con quale cadenza e in base a quale norma i prestatori trasmettono i dati all'OAM?
+**R:** Con cadenza **trimestrale**, in base all'«**art. 5 del Decreto 13 gennaio 2022**»: «**I prestatori di servizi relativi all'utilizzo di valuta virtuale e i prestatori di servizi di portafoglio digitale trasmettono all'OAM per via telematica i dati relativi alle operazioni effettuate sul territorio della Repubblica italiana.**» ⚠️ L'ambito dei dati è **territoriale**, e il riferimento normativo sta **solo sulla slide**.
+**Opzione:** Con cadenza trimestrale, in base all'art. 5 del Decreto 13 gennaio 2022, per via telematica e con riferimento alle operazioni effettuate sul territorio della Repubblica italiana.
+**Distrattori:**
+- Con cadenza annuale, in base all'art. 5 del Decreto 13 gennaio 2022, per via telematica e con riferimento alle operazioni effettuate sul territorio della Repubblica italiana.
+- Con cadenza trimestrale, in base all'art. 5 del Decreto 13 gennaio 2022, per via telematica e con riferimento a tutte le operazioni effettuate, anche all'estero.
+- Con cadenza mensile, in base al DL 167/1990, per via telematica e con riferimento alle operazioni effettuate sul territorio della Repubblica italiana.
+
+**D:** ⚠️ Quali pregi e quali criticità presenta la proposta di legge secondo la slide conclusiva?
+**R:** **Due pregi**: «**l'apertura di una «finestra» per la regolarizzazione del pregresso**» e «**la fissazione di soglie minime per la dichiarazione nel quadro RW**». **Tre criticità**: «**gli aspetti pratici dei calcoli**», il fatto che «**non affronta il problema della caratterizzazione dei token (payment/utility/security)**» e «**neppure la qualificazione di valori «ufficiali» di riferimento**». ⚠️ La seconda criticità è un **rinvio alla slide 3**: la proposta ignorerebbe proprio la tripartizione di cui la lezione ha mostrato la rilevanza fiscale.
+**Opzione:** Pregi: l'apertura di una finestra per la regolarizzazione del pregresso e la fissazione di soglie minime per il quadro RW. Criticità: gli aspetti pratici dei calcoli, la mancata caratterizzazione dei token e la mancata qualificazione di valori ufficiali di riferimento.
+**Distrattori:**
+- Pregi: l'apertura di una finestra per la regolarizzazione del pregresso e la caratterizzazione dei token. Criticità: gli aspetti pratici dei calcoli, la fissazione di soglie minime per il quadro RW e la mancata qualificazione di valori ufficiali di riferimento.
+- Pregi: l'apertura di una finestra per la regolarizzazione del pregresso e la fissazione di soglie minime per il quadro RW. Criticità: gli aspetti pratici dei calcoli, la mancata caratterizzazione dei token e l'abolizione dell'esenzione da IVAFE.
+- Pregi: l'armonizzazione europea del trattamento fiscale e la fissazione di soglie minime per il quadro RW. Criticità: gli aspetti pratici dei calcoli, la mancata caratterizzazione dei token e la mancata qualificazione di valori ufficiali di riferimento.
+
+**D:** ⚠️ Perché il docente non condivide la formulazione «non esiste una normativa ad hoc, si applicano i principi generali»?
+**R:** «**A me non sta benissimo una definizione del genere dello stato dell'arte**, perché uno dovrebbe dire "in mancanza di, purtroppo **non ci sono regole applicabili**"». Ma ne riconosce la necessità: «ovviamente **non si può stare nel far west**, quindi piuttosto che **legittimare la perdita di controllo totale**, meglio stare ai **principi generali**, per quanto essi applicabili». ⚠️ È un'obiezione di **onestà descrittiva**, non di merito: il ripiego sui principi generali resta preferibile al vuoto. ⚠️ Solo nel transcript ([00:00:51]).
+**Opzione:** Perché è una descrizione poco onesta dello stato dell'arte: andrebbe detto che non ci sono regole applicabili; ma il ripiego sui principi generali resta preferibile a legittimare la perdita di controllo totale.
+**Distrattori:**
+- Perché ritiene che una normativa ad hoc esista già, contenuta negli interpelli dell'Agenzia delle Entrate.
+- Perché ritiene preferibile lasciare il settore privo di regole finché non intervenga il legislatore europeo.
+- Perché i principi generali, essendo scritti per le valute estere, non sono in alcun caso applicabili alle valute virtuali.
+
+**D:** Come chiude il docente il ciclo sulla fiscalità delle cripto?
+**R:** Con una prognosi: «tenete però presente un elemento a chiusura di questa lezione: questa **situazione di confusione non è destinata a durare a lungo**. Siamo infatti in procinto di **non solo la proposta di legge ma anche di provvedimenti dell'Agenzia delle Entrate** che chiariranno una volta per tutte questo aspetto. **Non so se nel merito** saranno decisioni che renderanno le cripto sempre più utilizzabili e quindi **favoriranno lo sviluppo** delle cripto, ma sicuramente l'Agenzia delle Entrate ormai **sta prendendo una posizione chiara**, anche su una **spinta politico-legislativa**». ⚠️ Prima aveva segnalato il costo pratico dell'incertezza: la difficoltà «**degli operatori specializzati** — mi riferisco per esempio a un **commercialista** — a prendere una strada anziché un'altra», in una situazione in cui l'Agenzia «ha nel tempo mostrato **diverse interpretazioni e diversi atteggiamenti**». ⚠️ Solo nel transcript ([00:10:08]).
