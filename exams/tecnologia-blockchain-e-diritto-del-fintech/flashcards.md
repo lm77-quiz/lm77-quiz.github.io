@@ -5914,3 +5914,320 @@
 
 **D:** Come il docente riassume la portata del regime pilota, e che cosa annuncia per la lezione successiva?
 **R:** La novità «è sì quella di creare un'infrastruttura nuova per favorire domanda e offerta attraverso DLT, ma è sostanzialmente quella di **creare un ecosistema, un *humus*, un microcosmo**… che riprenda… in modo abbastanza importante, **regolamenti del sistema finanziario già ampiamente rodati, MiFID 2, MiFIR, CSDR, ma li tara**, cioè li **modifica leggermente** per consentire l'ingresso e l'accesso delle nuove tecnologie». Definisce la lezione «uno ***snapshot* del DLT**» e annuncia che nella successiva «entreremo un po' più nel dettaglio della **tecnicità di questo nuovo regime pilota**». ⚠️ Solo nel transcript ([00:11:07]).
+
+## Lezione 22 — Il nuovo Regolamento DLT (2)
+
+**D:** ⚠️ Quali sono i requisiti dell'MTF DLT secondo la MiFID e secondo il MiFIR?
+**R:** Le due frasi della slide sono **identiche salvo l'atto citato in coda**: «**Un sistema multilaterale di negoziazione DLT è soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione ai sensi della MiFID**» e «**Un sistema multilaterale di negoziazione DLT è soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione ai sensi del MiFIR**». ⚠️ È il terreno della *coda sostituita*: l'unica cosa che discrimina è l'atto finale.
+**Opzione:** In entrambi i casi è soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione: ai sensi della MiFID per il primo atto, ai sensi del MiFIR per il secondo.
+**Distrattori:**
+- È soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione ai sensi della MiFID, mentre il MiFIR non prevede requisiti per i sistemi multilaterali di negoziazione DLT.
+- È soggetto ai requisiti che si applicano a un depositario centrale di titoli ai sensi della MiFID e a quelli di un sistema multilaterale di negoziazione ai sensi del MiFIR.
+- È soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione ai sensi della CSDR per entrambi gli atti.
+
+**D:** ⚠️ Quali esenzioni prevede il regime pilota per l'MTF DLT, e sotto quale atto ciascuna?
+**R:** **Due, una per atto**: sotto la **MiFID** l'**obbligo di intermediazione**; sotto il **MiFIR** il **transaction reporting**. ⚠️ **Coppia da non invertire.** ⚠️ Vale in ogni caso la clausola generale della slide: «**Le esenzioni sono subordinate al rispetto di una serie di requisiti**».
+**Opzione:** MiFID: obbligo di intermediazione. MiFIR: transaction reporting.
+**Distrattori:**
+- MiFID: transaction reporting. MiFIR: obbligo di intermediazione.
+- MiFID: obbligo di intermediazione. MiFIR: obbligo di best execution.
+- MiFID: obbligo di intermediazione e transaction reporting. MiFIR: nessuna esenzione.
+
+**D:** A quale condizione generale sono sottoposte le esenzioni dell'MTF DLT?
+**R:** «**Le esenzioni sono subordinate al rispetto di una serie di requisiti**». ⚠️ La frase sta in fondo alla slide e vale per **entrambe** le colonne, MiFID e MiFIR. Il docente lo ribadisce: «queste esenzioni sono **subordinate a una serie di requisiti**».
+**Opzione:** Sono subordinate al rispetto di una serie di requisiti.
+**Distrattori:**
+- Sono concesse automaticamente a chi gestisce un MTF DLT.
+- Sono subordinate al rispetto di una serie di requisiti soltanto per il versante MiFIR.
+- Sono subordinate al parere vincolante dell'ESMA.
+
+**D:** ⚠️ In che rapporto stanno gli «strumenti finanziari DLT» e gli «strumenti finanziari» MiFID II?
+**R:** «**Gli "strumenti finanziari DLT" possono essere definiti come un sottoinsieme della categoria più generica degli "strumenti finanziari" MiFID II, con il risultato che, laddove uno strumento finanziario non soddisfi i requisiti previsti dal Regolamento DLT, sarà coperto dalla disciplina MiFID II già esistente: la neutralità tecnologica è rispettata.**» ⚠️ **La direzione dell'inclusione non va invertita**: sono gli strumenti **DLT** a stare **dentro** quelli MiFID II. ⚠️ È una **clausola di chiusura**: ciò che cade fuori dal Regolamento DLT non resta scoperto.
+**Opzione:** Gli strumenti finanziari DLT sono un sottoinsieme della categoria più generica degli strumenti finanziari MiFID II: ciò che non soddisfa i requisiti del Regolamento DLT è coperto dalla disciplina MiFID II già esistente.
+**Distrattori:**
+- Gli strumenti finanziari MiFID II sono un sottoinsieme della categoria più generica degli strumenti finanziari DLT: ciò che non soddisfa i requisiti della MiFID II è coperto dal Regolamento DLT.
+- Gli strumenti finanziari DLT sono una categoria autonoma rispetto agli strumenti finanziari MiFID II: ciò che non soddisfa i requisiti del Regolamento DLT resta privo di disciplina.
+- Gli strumenti finanziari DLT sono un sottoinsieme della categoria più generica degli strumenti finanziari MiFID II: ciò che non soddisfa i requisiti del Regolamento DLT è coperto dalla disciplina CSDR già esistente.
+
+**D:** ⚠️ Quale conseguenza trae la slide dal fatto che gli strumenti finanziari DLT siano un sottoinsieme di quelli MiFID II?
+**R:** «**la neutralità tecnologica è rispettata**». ⚠️ È l'esito **dichiarato** dalla slide 3 — da confrontare con la slide 14, dove la «**neutralità tecnologica dei requisiti normativi esistenti**» compare invece fra le **limitazioni**. Il docente ne dà la *ratio*: «nulla vieta che in futuro ve ne siano di nuovi o che nelle definizioni… **sia sfuggito qualcosa**», quindi «**non dovrebbero esserci aree grigie o aree vuote**» — con la riserva «poi vedremo che in realtà **non è proprio così**».
+**Opzione:** Che la neutralità tecnologica è rispettata.
+**Distrattori:**
+- Che la neutralità tecnologica è sacrificata alle esigenze di certezza del diritto.
+- Che gli strumenti finanziari DLT restano privi di disciplina fino all'entrata in vigore della MiCAR.
+- Che la MiFID II dovrà essere modificata per accogliere gli strumenti finanziari DLT.
+
+**D:** ⚠️ Qual è la normativa di riferimento per i requisiti di DLT SS e DLT TSS, e a quali requisiti sono soggetti?
+**R:** Non più MiFID II e MiFIR ma il **CSDR**: «**I DLT SS e il CSD che li gestisce — e i DLT TSS — sono soggetti a tutti i requisiti pertinenti ai sensi della CSDR.**» ⚠️ «**tutti** i requisiti pertinenti», **senza distinzioni** fra le due infrastrutture. Il docente lo chiama «la normativa di riferimento sostanzialmente di tutto ciò che riguarda **il deposito**».
+**Opzione:** Il CSDR: i DLT SS e il CSD che li gestisce, e i DLT TSS, sono soggetti a tutti i requisiti pertinenti ai sensi della CSDR.
+**Distrattori:**
+- Il CSDR: i DLT SS e il CSD che li gestisce sono soggetti a tutti i requisiti pertinenti ai sensi della CSDR, mentre i DLT TSS restano soggetti alla sola MiFID II.
+- La MiFID II e il MiFIR, come per gli MTF DLT: i DLT SS e i DLT TSS sono soggetti ai requisiti dei sistemi multilaterali di negoziazione.
+- Il CSDR: i DLT SS e il CSD che li gestisce, e i DLT TSS, sono soggetti ai soli requisiti in materia di segregazione dei conti ai sensi della CSDR.
+
+**D:** ⚠️ A quali termini e a quali materie si riferiscono le esenzioni dal CSDR?
+**R:** **Due voci**: «**Regole che fanno riferimento ai termini "forma dematerializzata", "conto titoli", "ordini di trasferimento", forma di registrazione contabile"**»; «**Registrazione dei titoli, integrità dell'emissione e segregazione dei conti**». ⚠️ Il quarto termine della prima voce è «**forma di registrazione contabile**»: il docente lo sostituisce con «integrità di titoli», fondendo le due voci in una.
+**Opzione:** Regole che fanno riferimento ai termini forma dematerializzata, conto titoli, ordini di trasferimento, forma di registrazione contabile; e registrazione dei titoli, integrità dell'emissione e segregazione dei conti.
+**Distrattori:**
+- Regole che fanno riferimento ai termini forma dematerializzata, conto titoli, ordini di trasferimento, integrità dei titoli; e registrazione dei titoli, forma di registrazione contabile e segregazione dei conti.
+- Regole che fanno riferimento ai termini forma dematerializzata, conto titoli e ordini di trasferimento; e registrazione dei titoli e integrità dell'emissione.
+- Regole che fanno riferimento ai termini forma dematerializzata, conto corrente, ordini di pagamento, forma di registrazione contabile; e registrazione dei titoli, integrità dell'emissione e segregazione dei conti.
+
+**D:** ⚠️ Che cosa deve dimostrare il CSD per beneficiare delle esenzioni dal CSDR?
+**R:** **Due cose, cumulative e numerate dalla slide**: «**Per beneficiare delle esenzioni, il CSD deve: i) dimostrare che l'uso di un conto titoli sia incompatibile con l'uso della DLT impiegata, e ii) proporre misure compensative per il raggiungimento degli obiettivi delle disposizioni rispetto a cui è stata richiesta un'esenzione.**» ⚠️ La prima condizione chiede l'**incompatibilità** del conto titoli con la DLT impiegata — **non** un vantaggio o una maggiore efficienza della DLT.
+**Opzione:** Deve i) dimostrare che l'uso di un conto titoli sia incompatibile con l'uso della DLT impiegata, e ii) proporre misure compensative per il raggiungimento degli obiettivi delle disposizioni rispetto a cui è stata richiesta l'esenzione.
+**Distrattori:**
+- Deve i) dimostrare che l'uso della DLT impiegata sia più efficiente dell'uso di un conto titoli, e ii) proporre misure compensative per il raggiungimento degli obiettivi delle disposizioni rispetto a cui è stata richiesta l'esenzione.
+- Deve dimostrare che l'uso di un conto titoli sia incompatibile con l'uso della DLT impiegata; le misure compensative sono facoltative.
+- Deve i) dimostrare che l'uso di un conto titoli sia incompatibile con l'uso della DLT impiegata, e ii) ottenere il parere vincolante dell'ESMA sulle misure compensative proposte.
+
+**D:** ⚠️ Che cosa fa concludere alla slide che il CSDR sia «il vero ed effettivo ostacolo» allo sviluppo della DLT?
+**R:** Un indizio **quantitativo**: «**L'elevato numero di deroghe al CSDR sembra suggerire che – per il Regolamento DLT - il CSDR sia il vero ed effettivo ostacolo allo sviluppo della DLT nei mercati finanziari.**» ⚠️ Il ragionamento è **indiziario** («sembra suggerire») e la slide stessa lo tempera subito: «**Tuttavia, la questione dovrebbe essere analizzata in due diversi scenari**».
+**Opzione:** L'elevato numero di deroghe al CSDR.
+**Distrattori:**
+- L'assenza di qualsiasi deroga al CSDR nel Regolamento DLT.
+- Il parere contrario espresso dall'ESMA nel suo report sull'uso del FinTech da parte dei CSD.
+- Il numero ridotto di CSD autorizzati a operare nell'Unione.
+
+**D:** ⚠️ Quali sono i due scenari in cui va analizzata la questione del CSDR?
+**R:** ① Gli «**strumenti finanziari fuori dal perimetro del CSDR (i.e. strumenti f. diversi dai valori mobiliari)**», per i quali «**gli operatori di mercato potrebbero *già* istituire una piattaforma di negoziazione e regolamento basata sulla DLT che non rientrerebbe nell'ambito di applicazione del CSDR**», con un «**ambito di attività limitato**». ② I **valori mobiliari**, dove i problemi principali sono **due**: la **neutralità tecnologica** e il **ruolo dei CSD**. ⚠️ Il termine è «valori **mobiliari**» (*securities*): l'ASR del transcript lo storpia in «valori **immobiliari**».
+**Opzione:** Gli strumenti finanziari fuori dal perimetro del CSDR, cioè diversi dai valori mobiliari; e i valori mobiliari, dove i problemi principali sono due.
+**Distrattori:**
+- Gli strumenti finanziari fuori dal perimetro del CSDR, cioè diversi dai valori immobiliari; e i valori immobiliari, dove i problemi principali sono due.
+- Gli strumenti finanziari ammessi al regime pilota e quelli esclusi per superamento delle soglie quantitative.
+- Gli strumenti finanziari negoziati su MTF DLT e quelli regolati su SS DLT.
+
+**D:** ⚠️ Che cosa potrebbero già fare gli operatori di mercato con gli strumenti finanziari fuori dal perimetro del CSDR, e con quale limite?
+**R:** «**Gli operatori di mercato potrebbero già istituire una piattaforma di negoziazione e regolamento basata sulla DLT che non rientrerebbe nell'ambito di applicazione del CSDR. Tuttavia, l'ambito di attività sarebbe limitato alla negoziazione e al regolamento di transazioni in strumenti finanziari che non rientrano nell'ambito di applicazione del CSDR, ossia s.f. diversi dai valori mobiliari.**» ⚠️ L'avverbio chiave è «**già**»: sarebbe possibile **senza** il regime pilota. Il prezzo è un ambito di attività «**limitato**».
+**Opzione:** Potrebbero già istituire una piattaforma di negoziazione e regolamento basata sulla DLT fuori dall'ambito del CSDR, ma con un ambito di attività limitato agli strumenti finanziari diversi dai valori mobiliari.
+**Distrattori:**
+- Potrebbero istituire una piattaforma di negoziazione e regolamento basata sulla DLT fuori dall'ambito del CSDR soltanto dopo aver ottenuto un'esenzione ai sensi del Regolamento DLT.
+- Potrebbero già istituire una piattaforma di negoziazione e regolamento basata sulla DLT fuori dall'ambito del CSDR, senza alcun limite di ambito operativo.
+- Potrebbero già istituire una piattaforma di negoziazione e regolamento basata sulla DLT fuori dall'ambito del CSDR, ma con un ambito di attività limitato ai soli valori mobiliari.
+
+**D:** ⚠️ Quali sono i due problemi principali che i valori mobiliari pongono rispetto al CSDR?
+**R:** «**Neutralità tecnologica: il CSDR è neutrale dal punto di vista tecnologico e, in quanto tale, dovrebbe essere in grado di accogliere l'uso di nuove tecnologie**»; «**Il ruolo dei CSD nell'ambito del Regolamento DLT: trasferimento di ruolo dai CSD ai DLT TSS (una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD)**». ⚠️ La **parentesi** del secondo problema sta **solo sulla slide** ed è la parte che spiega il meccanismo: **due** esenzioni e, ottenute quelle, i **DLT TSS assumono le funzioni del CSD**.
+**Opzione:** La neutralità tecnologica del CSDR e il ruolo dei CSD, cioè il trasferimento di ruolo dai CSD ai DLT TSS.
+**Distrattori:**
+- La neutralità tecnologica del CSDR e il limite massimo del valore di mercato totale dei titoli trasferibili DLT.
+- La neutralità tecnologica del CSDR e il trasferimento di ruolo dai DLT TSS ai CSD.
+- L'impronta ambientale della DLT e il ruolo dei CSD nell'ambito del Regolamento DLT.
+
+**D:** ⚠️ In che modo il regime pilota rende superfluo il CSD per i valori mobiliari?
+**R:** Con la parentesi della slide 5: «**una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD**». ⚠️ Le esenzioni sono **due** — dall'obbligo di ***book-entry*** **e** dalla **registrazione presso un CSD** — e l'effetto è un **trasferimento di ruolo**, non una semplice semplificazione. È il punto su cui poggia la critica della slide 7: la questione era «**se e quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD**».
+**Opzione:** Una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD.
+**Distrattori:**
+- Una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT SS assumono le funzioni del CSD.
+- Una volta esentati dal solo obbligo di book-entry, i DLT TSS assumono le funzioni del CSD.
+- Una volta autorizzati dall'ESMA con parere vincolante, i DLT TSS possono operare in luogo del CSD.
+
+**D:** ⚠️ Che cosa dice il report dell'ESMA sulla neutralità tecnologica del CSDR?
+**R:** Nel «**Report to the European Commission Use of FinTech by CSD**»: «**A majority of respondents to ESMA's questionnaire (NCAs, CSDs and banks), consider that CSDR is technology-neutral and, as such, it should be able to accommodate the use of new technologies. Most of the comments received from NCAs indicate the same, i.e. there does not seem to be any major impediment to the development of DLT in the CSDR level 1 requirements. […] However, many of the respondents who consider CSDR technologically neutral have highlighted a number of topics which would benefit from clarification to ensure legal certainty for CSDs when performing their core activities using DLT.**» ⚠️ Il «**However**» è il perno: chi riconosce la neutralità **chiede comunque chiarimenti**, per la «**legal certainty**» dei CSD.
+**Opzione:** Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD.
+**Distrattori:**
+- Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, senza segnalare alcuna esigenza di chiarimento.
+- Che la maggioranza dei rispondenti considera il CSDR non neutro dal punto di vista tecnologico e ne chiede la sostituzione integrale.
+- Che la maggioranza dei rispondenti considera il MiFIR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma segnala una serie di temi che beneficerebbero di chiarimenti.
+
+**D:** ⚠️ Chi ha risposto al questionario dell'ESMA sull'uso del FinTech da parte dei CSD?
+**R:** «**NCAs, CSDs and banks**». ⚠️ Le categorie sono **tre** e stanno **fra parentesi sulla slide**; il docente a voce le rende con «operatori di mercato, intermediari finanziari» e nomina poi separatamente le National Competent Authority. ⚠️ La slide aggiunge un dettaglio che il docente non riferisce: «**One industry association representing banks has explicitly indicated that CSDR does not require any change, except for the exemptions which will be introduced through the EU Pilot Regime**».
+**Opzione:** Autorità nazionali competenti, depositari centrali di titoli e banche.
+**Distrattori:**
+- Autorità nazionali competenti, depositari centrali di titoli e imprese di investimento.
+- Depositari centrali di titoli, banche e associazioni di consumatori.
+- Le sole autorità nazionali competenti.
+
+**D:** ⚠️ A quale livello di requisiti del CSDR il report ESMA riferisce l'assenza di impedimenti alla DLT?
+**R:** Ai «**CSDR level 1 requirements**»: «**there does not seem to be any major impediment to the development of DLT in the CSDR level 1 requirements**». ⚠️ Da tenere distinto dalla «**guida di livello 3**» dell'ESMA sulle misure di compensazione, che è un altro livello e un altro strumento.
+**Opzione:** Ai requisiti di livello 1 del CSDR.
+**Distrattori:**
+- Ai requisiti di livello 2 del CSDR.
+- Ai requisiti di livello 3 del CSDR.
+- A tutti i livelli dei requisiti del CSDR indistintamente.
+
+**D:** ⚠️ Qual è la critica di fondo che la slide muove al Regolamento DLT?
+**R:** «**Il Regolamento DLT non attua un vero e proprio regime ad hoc, limitandosi a derogare a quelle norme che, almeno dal suo punto di vista, risultano essere una limitazione per la DLT.**» ⚠️ L'inciso «**almeno dal suo punto di vista**» è parte della critica: la selezione delle norme da derogare è **del Regolamento stesso**. Il docente la traduce così: «il legislatore sembra che qualche volta abbia **i polsi che gli tremano**… facciamo questo passo, **ma non troppo lungo**».
+**Opzione:** Che non attua un vero e proprio regime ad hoc, limitandosi a derogare a quelle norme che, almeno dal suo punto di vista, risultano essere una limitazione per la DLT.
+**Distrattori:**
+- Che attua un vero e proprio regime ad hoc, sostituendo integralmente le norme che risultano essere una limitazione per la DLT.
+- Che non attua un vero e proprio regime ad hoc, limitandosi a recepire le indicazioni vincolanti dell'ESMA sulle norme che limitano la DLT.
+- Che non prevede alcuna deroga alle norme esistenti, rinviando ogni scelta alle autorità nazionali competenti.
+
+**D:** ⚠️ Secondo la slide, qual era la questione principale che il Regolamento DLT avrebbe dovuto affrontare?
+**R:** «**In altre parole, la questione principale che il Regolamento DLT avrebbe dovuto affrontare non riguarda solo la neutralità tecnologica del CSDR, ma più specificamente se e quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.**» ⚠️ La struttura «**non solo… ma anche/ma più specificamente…**» va conservata: la neutralità tecnologica non è esclusa, è **insufficiente**. ⚠️ La slide dice «**superflui i CSD**» al plurale.
+**Opzione:** Non solo la neutralità tecnologica del CSDR, ma più specificamente se e a quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.
+**Distrattori:**
+- Soltanto la neutralità tecnologica del CSDR, che è il presupposto di ogni altra valutazione.
+- Non solo la neutralità tecnologica del CSDR, ma più specificamente se e a quali condizioni i CSD avrebbero reso superflue le infrastrutture DLT.
+- Non solo la neutralità tecnologica della MiFID II, ma più specificamente se e a quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.
+
+**D:** ⚠️ Come, secondo la slide, quell'obiettivo avrebbe potuto essere raggiunto?
+**R:** «**Questo obiettivo avrebbe potuto essere raggiunto non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche razionalizzando l'attuale quadro legislativo, modificando - o derogando - le norme esistenti in modo permanente ed efficiente.**» ⚠️ L'avverbio di chiusura è «**efficiente**» sulla slide, mentre il docente dice «efficace»; e l'altro è «**permanente**», che è il vero contrasto col carattere **temporaneo** del regime pilota.
+**Opzione:** Non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche razionalizzando l'attuale quadro legislativo, modificando o derogando le norme esistenti in modo permanente ed efficiente.
+**Distrattori:**
+- Non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche razionalizzando l'attuale quadro legislativo, modificando o derogando le norme esistenti in modo temporaneo e reversibile.
+- Soltanto fornendo esenzioni e identificando gli ostacoli legali, senza intervenire sul quadro legislativo esistente.
+- Non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche sostituendo il CSDR con un regolamento dedicato alle infrastrutture DLT.
+
+**D:** ⚠️ Quali sono le tre aree in cui si articolano i compiti dell'ESMA rispetto al Regime Pilota DLT?
+**R:** «**Procedimento di Applicazione**», «**Modelli di Business**» e «**Collaborazione nella vigilanza**». ⚠️ Sono le **tre colonne** della slide 8 e vanno tenute distinte: la prima riguarda le interazioni con le ANC e i moduli di domanda, la seconda la valutazione delle applicazioni e la guida di livello 3, la terza gli scambi sulle esperienze di vigilanza.
+**Opzione:** Procedimento di applicazione, modelli di business e collaborazione nella vigilanza.
+**Distrattori:**
+- Procedimento di applicazione, modelli di business e potere sanzionatorio.
+- Procedimento di autorizzazione, vigilanza prudenziale e collaborazione nella vigilanza.
+- Modelli di business, collaborazione nella vigilanza e armonizzazione fiscale.
+
+**D:** ⚠️ Entro quanti giorni sono fissate le interazioni tra le ANC e l'ESMA, e di che tipo di giorni si tratta?
+**R:** «**Finalizzato il lavoro sulle interazioni tra le ANC e l'ESMA (30 giorni di calendario)**». ⚠️ Il docente insiste sul punto: «ricordate, sono **giorni di calendario, non giorni lavorativi**».
+**Opzione:** Trenta giorni di calendario.
+**Distrattori:**
+- Trenta giorni lavorativi.
+- Sessanta giorni di calendario.
+- Quindici giorni lavorativi.
+
+**D:** Quando saranno adottati i moduli di domanda comuni del regime pilota?
+**R:** «**Moduli di domanda comuni saranno adottati all'inizio del 2023**». ⚠️ Da tenere accanto all'altra data del regime pilota, l'applicazione del Regolamento dal **23 marzo 2023**.
+**Opzione:** All'inizio del 2023.
+**Distrattori:**
+- Alla fine del 2023.
+- All'inizio del 2022, contestualmente all'approvazione del Regolamento.
+- Entro trenta giorni di calendario dall'entrata in applicazione del Regolamento.
+
+**D:** ⚠️ Che natura hanno i pareri dell'ESMA nel regime pilota?
+**R:** Sono **non vincolanti**, e la formula ricorre: «**Valutazione ESMA di applicazioni e l'eventuale adozione di pareri non vincolanti**» (slide 8); «**Coinvolgimento dell'ESMA per DLT MTF, DLT SS e DLT TSS. Parere non vincolante (esenzioni; adeguatezza del tipo di DLT)**» e «**Coinvolgimento delle Autorità competenti per DLT SS e DLT TSS. Parere non vincolante sulle caratteristiche del regolamento titoli (in linea con la CSDR)**» (slide 10). ⚠️ È coerente con la lezione 21, dove le **esenzioni le concedono le NCAs** e all'ESMA spetta il **coordinamento**.
+**Opzione:** Sono pareri non vincolanti.
+**Distrattori:**
+- Sono pareri vincolanti per le autorità nazionali competenti.
+- Sono pareri non vincolanti per le esenzioni e vincolanti per l'adeguatezza del tipo di DLT.
+- Sono pareri vincolanti soltanto nei confronti dei DLT TSS.
+
+**D:** ⚠️ Su quali infrastrutture interviene l'ESMA e su quali le Autorità competenti, nel procedimento di autorizzazione?
+**R:** «**Coinvolgimento dell'ESMA per DLT MTF, DLT SS e DLT TSS. Parere non vincolante (esenzioni; adeguatezza del tipo di DLT)**»; «**Coinvolgimento delle Autorità competenti per DLT SS e DLT TSS. Parere non vincolante sulle caratteristiche del regolamento titoli (in linea con la CSDR)**». ⚠️ **Coppia soggetto + ambito da non invertire**: l'**ESMA** su **tutte e tre**, le **Autorità competenti** solo su **DLT SS e DLT TSS**; e i **due pareri hanno oggetti diversi**.
+**Opzione:** L'ESMA su DLT MTF, DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli.
+**Distrattori:**
+- L'ESMA su DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT MTF, DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli.
+- L'ESMA su DLT MTF, DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli; le Autorità competenti su DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT.
+- L'ESMA e le Autorità competenti intervengono entrambe su DLT MTF, DLT SS e DLT TSS, con il medesimo parere non vincolante su esenzioni e adeguatezza del tipo di DLT.
+
+**D:** ⚠️ Chi ha bisogno dell'autorizzazione specifica per gestire un MI DLT?
+**R:** «**Autorizzazione specifica necessaria per gestire un MI DLT (anche per gli operatori già sul mercato)**». ⚠️ La parentesi è il punto: **non c'è *grandfathering***, l'autorizzazione serve anche a chi è già operativo. Non a caso fra le **sfide regolamentari** compare la «**riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici)**».
+**Opzione:** Chiunque voglia gestire un MI DLT, compresi gli operatori già sul mercato.
+**Distrattori:**
+- Soltanto i nuovi entranti: gli operatori già sul mercato conservano l'autorizzazione di cui dispongono.
+- Soltanto i gestori di DLT SS e DLT TSS: gli MTF DLT sono coperti dall'autorizzazione MiFID II.
+- Chiunque voglia gestire un MI DLT, salvo i depositari centrali di titoli già autorizzati ai sensi della CSDR.
+
+**D:** ⚠️ A chi sono assegnate le responsabilità di concessione delle licenze per gli MI DLT?
+**R:** «**Assegnazione delle responsabilità di concessione delle licenze alle Autorità Competenti nazionali in linea con la MIFID II e la CSDR, o/e alle Autorità altrimenti designate Stato membro**». ⚠️ Gli atti di riferimento sono **due**, **MiFID II e CSDR** — cioè uno per ciascuno dei due blocchi di infrastrutture —, e la coda ammette anche «**le Autorità altrimenti designate**» dallo Stato membro.
+**Opzione:** Alle Autorità competenti nazionali, in linea con la MiFID II e la CSDR, o anche alle autorità altrimenti designate dallo Stato membro.
+**Distrattori:**
+- All'ESMA, in linea con la MiFID II e la CSDR, o anche alle autorità altrimenti designate dallo Stato membro.
+- Alle Autorità competenti nazionali, in linea con la sola CSDR, senza possibilità di designarne altre.
+- Alle Autorità competenti nazionali, in linea con la MiFID II e il MiFIR, o anche alle autorità altrimenti designate dallo Stato membro.
+
+**D:** ⚠️ Che direzione hanno i flussi di informazioni previsti dal regime pilota, e con quale periodicità?
+**R:** «**Flussi di informazioni dal MI DLT alla ANC e dalla ANC all'ESMA (sia su base ad hoc che regolare)**». ⚠️ La direzione è **una sola**, a catena: **MI DLT → ANC → ESMA**. ⚠️ Le basi sono **due e cumulative**, «**sia su base ad hoc che regolare**» — il docente riprende la formula dell'ESMA: «**it's an ongoing requirement**».
+**Opzione:** Dal MI DLT alla ANC e dalla ANC all'ESMA, sia su base ad hoc che regolare.
+**Distrattori:**
+- Dall'ESMA alla ANC e dalla ANC al MI DLT, sia su base ad hoc che regolare.
+- Dal MI DLT alla ANC e dalla ANC all'ESMA, soltanto su base ad hoc.
+- Dal MI DLT direttamente all'ESMA, sia su base ad hoc che regolare.
+
+**D:** ⚠️ Quali sono le sfide regolamentari del Regime Pilota DLT?
+**R:** **Quattro**: «**Valutazione delle esenzioni richieste, e delle misure compensative proposte, dai requisiti tradizionali per il funzionamento sicuro di un MI (disintermediazione dell'accesso, regolamento in contanti, finalizzazione del regolamento, ecc.)**»; «**Valutazione dei requisiti aggiuntivi per i MI DLT (adattati a specifiche procedure di gestione del rischio operativo, alla necessità di ulteriori tutele prudenziali, ecc.)**»; «**Riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici)**»; «**Monitoraggio periodico delle prestazioni del MI DLT rispetto ai requisiti stabiliti nel Regime Pilota (comprese le soglie e i limiti dell'ambito operativo)**». ⚠️ La **prima** è **una sola** sfida, non due: si valutano esenzioni e misure compensative **rispetto ai requisiti tradizionali**.
+**Opzione:** Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; valutazione dei requisiti aggiuntivi per i MI DLT; riduzione dei tempi di gestione del processo autorizzativo; monitoraggio periodico delle prestazioni del MI DLT.
+**Distrattori:**
+- Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; valutazione dei requisiti aggiuntivi per i MI DLT; riduzione dei tempi di gestione del processo autorizzativo; armonizzazione fiscale del trattamento dei titoli tokenizzati.
+- Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; riduzione dei requisiti prudenziali per i MI DLT; riduzione dei tempi di gestione del processo autorizzativo; monitoraggio periodico delle prestazioni del MI DLT.
+- Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; valutazione dei requisiti aggiuntivi per i MI DLT; allungamento dei tempi di gestione del processo autorizzativo; monitoraggio periodico delle prestazioni del MI DLT.
+
+**D:** ⚠️ Perché il regime pilota è definito «la prima esperienza di sandbox a livello europeo»?
+**R:** «**Si tratta della prima esperienza di sandbox a livello europeo per i servizi finanziari**», con **due** finalità: «**Approfondimento delle conoscenze sull'uso della Distributed-Ledger Technology per i mercati finanziari, al di là del suo ruolo di tecnologia di base per le criptovalute**» e «**Consentire l'individuazione precoce delle sfide di implementazione**». ⚠️ La qualifica è limitata: prima esperienza «**per i servizi finanziari**». ⚠️ La prima finalità contiene un «**al di là di**» che smarca la DLT dalle criptovalute.
+**Opzione:** Perché è la prima esperienza di sandbox a livello europeo per i servizi finanziari, volta ad approfondire le conoscenze sull'uso della DLT per i mercati finanziari, al di là del suo ruolo di tecnologia di base per le criptovalute, e a consentire l'individuazione precoce delle sfide di implementazione.
+**Distrattori:**
+- Perché è la prima esperienza di sandbox a livello europeo per i servizi finanziari, volta ad approfondire le conoscenze sull'uso della DLT per i mercati finanziari nel suo ruolo di tecnologia di base per le criptovalute, e a consentire l'individuazione precoce delle sfide di implementazione.
+- Perché è la prima esperienza di sandbox al mondo, volta ad approfondire le conoscenze sull'uso della DLT per i mercati finanziari e a consentire l'individuazione precoce delle sfide di implementazione.
+- Perché è la prima esperienza di sandbox a livello nazionale poi estesa all'Unione, volta ad approfondire le conoscenze sull'uso della DLT per i mercati finanziari.
+
+**D:** ⚠️ Che cosa promuove la Task force DLT, e con quali obiettivi?
+**R:** «**La Task force DLT promuove una stretta collaborazione tra le autorità nazionali garanti della concorrenza, al fine di: Creare una comprensione comune dei nuovi modelli di business basati sulla DLT. Promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.**» ⚠️ La formula «**autorità nazionali garanti della concorrenza**» è quella della slide e va citata com'è, benché il resto del Regolamento lavori con le **ANC**, che infatti ricompaiono nella seconda voce. ⚠️ Lo strumento è la **guida di livello 3**.
+**Opzione:** Una stretta collaborazione tra le autorità nazionali garanti della concorrenza, al fine di creare una comprensione comune dei nuovi modelli di business basati sulla DLT e di promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.
+**Distrattori:**
+- Una stretta collaborazione tra le autorità nazionali garanti della concorrenza, al fine di creare una comprensione comune dei nuovi modelli di business basati sulla DLT e di promuovere una vigilanza efficace da parte delle ANC attraverso norme tecniche di regolamentazione vincolanti.
+- Una stretta collaborazione tra i depositari centrali di titoli, al fine di creare una comprensione comune dei nuovi modelli di business basati sulla DLT e di promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.
+- Una stretta collaborazione tra le autorità nazionali garanti della concorrenza, al fine di armonizzare il trattamento fiscale dei titoli tokenizzati e di promuovere una vigilanza efficace attraverso una guida di livello 3.
+
+**D:** ⚠️ Su quale principio converge la maggioranza degli intervistati nella Call for evidence dell'ESMA?
+**R:** «**La maggioranza degli intervistati concorda sul fatto che l'applicazione del principio "stessa attività, stesso rischio, stesse regole" salvaguarderebbe la protezione degli investitori e l'integrità del mercato.**» ⚠️ I membri del principio sono **tre**, nell'ordine **attività → rischio → regole**, e i beni salvaguardati **due**.
+**Opzione:** Sul principio «stessa attività, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
+**Distrattori:**
+- Sul principio «stessa attività, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e la stabilità finanziaria.
+- Sul principio «stessa tecnologia, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
+- Sul principio «stessa attività, stesse regole, stessa vigilanza», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
+
+**D:** ⚠️ Che cosa hanno osservato gli intervistati sul rapporto fra regime pilota e negoziazione OTC?
+**R:** Le opinioni sono **divise**: «**Alcune parti interessate hanno osservato che il DLT Pilot Regime favorirebbe il passaggio dalla negoziazione OTC di titoli basati su DLT alla negoziazione e al regolamento su MTF DLT. Altri, al contrario, hanno indicato che la negoziazione di titoli basati su DLT rimarrà OTC.**» ⚠️ **La coda sta solo sulla slide**: il docente riferisce unicamente l'opinione favorevole al passaggio su MTF DLT. Una coda soppressa è precisamente il modo in cui si costruisce un distrattore.
+**Opzione:** Che secondo alcuni il regime pilota favorirebbe il passaggio dall'OTC alla negoziazione e al regolamento su MTF DLT, mentre altri hanno indicato che la negoziazione di titoli basati su DLT rimarrà OTC.
+**Distrattori:**
+- Che il regime pilota favorirebbe il passaggio dall'OTC alla negoziazione e al regolamento su MTF DLT, senza opinioni contrarie.
+- Che secondo alcuni il regime pilota favorirebbe il passaggio dagli MTF DLT alla negoziazione OTC, mentre altri hanno indicato che la negoziazione rimarrà sugli MTF DLT.
+- Che il regime pilota non inciderà sulla negoziazione di titoli basati su DLT, che resterà in ogni caso OTC.
+
+**D:** ⚠️ Quali preoccupazioni hanno espresso gli stakeholder sul Regolamento DLT?
+**R:** **Due**: «**Alcuni stakeholder hanno espresso preoccupazione per alcuni elementi contenuti nel regolamento DLT, come il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e la natura limitata nel tempo del Regime Pilota DLT.**» ⚠️ Il docente ne riferisce **una sola**: manca «**la natura limitata nel tempo**», che è però il contraltare della critica della slide 7 («modificando… le norme esistenti in modo **permanente**»). ⚠️ I titoli sono «**trasferibili**», non «trasferiti».
+**Opzione:** Il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e la natura limitata nel tempo del Regime Pilota DLT.
+**Distrattori:**
+- Il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e l'impronta ambientale della tecnologia DLT.
+- Il solo limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT.
+- La natura limitata nel tempo del Regime Pilota DLT e la mancanza di una procedura di ricorso in caso di frode sugli asset digitali.
+
+**D:** ⚠️ Quali casi d'uso esistenti o potenziali per la DLT hanno citato gli intervistati?
+**R:** **Quattro**: «**l'offerta di token di sicurezza, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e la distribuzione di quote di fondi**». ⚠️ Vanno detti tutti e nell'ordine: le ultime due voci riguardano entrambe i **fondi** ma da lati diversi — i **titoli tokenizzati come asset** dei fondi e la **distribuzione di quote**.
+**Opzione:** L'offerta di token di sicurezza, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e la distribuzione di quote di fondi.
+**Distrattori:**
+- L'offerta di token di sicurezza, il trading 24/7 e i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT.
+- L'offerta di token di pagamento, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e la distribuzione di quote di fondi.
+- L'offerta di token di sicurezza, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e l'emissione di valute digitali di banca centrale.
+
+**D:** ⚠️ Quali sono i principali vantaggi della DLT dichiarati nella Call for evidence?
+**R:** **Quattro**: «**Trasparenza**», «**Integrità dei dati**», «**Disintermediazione**», «**Efficienza**». ⚠️ Da non confondere con gli **ostacoli** e con le **limitazioni legali e normative**, che stanno sulla stessa slide in due colonne distinte.
+**Opzione:** Trasparenza, integrità dei dati, disintermediazione ed efficienza.
+**Distrattori:**
+- Trasparenza, integrità dei dati, intermediazione qualificata ed efficienza.
+- Trasparenza, integrità dei dati, disintermediazione e sostenibilità ambientale.
+- Trasparenza, riservatezza dei dati, disintermediazione ed efficienza.
+
+**D:** ⚠️ Quali limitazioni legali e normative all'applicazione della DLT elenca la Call for evidence?
+**R:** **Tre**: «**Mancanza di armonizzazione dei regimi normativi**»; «**neutralità tecnologica dei requisiti normativi esistenti**»; «**Protezione finanziaria: ad esempio per la mancanza di una procedura di ricorso in caso di frode sugli asset digitali**». ⚠️ La **neutralità tecnologica compare qui come *problema***, dopo essere stata affermata come acquisita alla slide 3 e nel report ESMA della slide 6: è l'ambivalenza che il docente chiama «una **via di mezzo**» e che rende a voce come una domanda — «la neutralità tecnologica dei requisiti normativi esistenti? **È veramente così?**».
+**Opzione:** Mancanza di armonizzazione dei regimi normativi; neutralità tecnologica dei requisiti normativi esistenti; protezione finanziaria, ad esempio per la mancanza di una procedura di ricorso in caso di frode sugli asset digitali.
+**Distrattori:**
+- Mancanza di armonizzazione dei regimi normativi; impronta ambientale della tecnologia; protezione finanziaria, ad esempio per la mancanza di una procedura di ricorso in caso di frode sugli asset digitali.
+- Mancanza di armonizzazione dei regimi normativi; neutralità tecnologica dei requisiti normativi esistenti; mancanza di trasparenza delle DLT private.
+- Armonizzazione eccessiva dei regimi normativi; neutralità tecnologica dei requisiti normativi esistenti; protezione finanziaria, ad esempio per la mancanza di una procedura di ricorso in caso di frode sugli asset digitali.
+
+**D:** ⚠️ Quali sono i principali ostacoli all'ulteriore utilizzo della DLT sui mercati finanziari?
+**R:** **Quattro**, nell'ordine della slide: «**Vulnerabilità dei mercati dei cripto-asset**» (disallineamenti di liquidità, rischi di credito e operativi, aumento dell'uso della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione normativa); «**Vulnerabilità della tecnologia DLT: livello di sicurezza informatica incorporato e mancanza di chiare linee di responsabilità in caso di problemi operativi**»; «**mancanza di trasparenza delle DLT private**»; «**Impronta ambientale**». ⚠️ Il transcript li elenca **in ordine inverso**, partendo dall'impronta ambientale: vale l'ordine della slide.
+**Opzione:** Vulnerabilità dei mercati dei cripto-asset; vulnerabilità della tecnologia DLT; mancanza di trasparenza delle DLT private; impronta ambientale.
+**Distrattori:**
+- Vulnerabilità dei mercati dei cripto-asset; vulnerabilità della tecnologia DLT; mancanza di trasparenza delle DLT pubbliche; impronta ambientale.
+- Vulnerabilità dei mercati dei cripto-asset; vulnerabilità della tecnologia DLT; mancanza di trasparenza delle DLT private; mancanza di armonizzazione dei regimi normativi.
+- Vulnerabilità dei mercati dei cripto-asset; vulnerabilità della tecnologia DLT; mancanza di trasparenza delle DLT private; assenza di una procedura di ricorso in caso di frode sugli asset digitali.
+
+**D:** ⚠️ In che cosa consiste la vulnerabilità dei mercati dei cripto-asset, e perché preoccupa anche i mercati tradizionali?
+**R:** «**Vulnerabilità dei mercati dei cripto-asset come: disallineamenti di liquidità, rischi di credito e operativi, aumento dell'uso della leva finanziaria, rischio di concentrazione sulle piattaforme che scambiano cripto-asset, mancanza di trasparenza e di supervisione normativa del settore. Le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a breve termine.**» ⚠️ La coda sulla **propagazione** è la parte rilevante, e il mercato indicato è quello dei **finanziamenti a breve termine**.
+**Opzione:** Disallineamenti di liquidità, rischi di credito e operativi, aumento della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali, in particolare sui mercati dei finanziamenti a breve termine.
+**Distrattori:**
+- Disallineamenti di liquidità, rischi di credito e operativi, aumento della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione; le vulnerabilità restano però confinate ai mercati dei cripto-asset.
+- Disallineamenti di liquidità, rischi di credito e operativi, aumento della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali, in particolare sui mercati dei finanziamenti a lungo termine.
+- Riduzione della leva finanziaria, eccesso di liquidità e frammentazione delle piattaforme; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali, in particolare sui mercati dei finanziamenti a breve termine.
+
+**D:** ⚠️ In che cosa consiste la vulnerabilità della tecnologia DLT secondo la Call for evidence?
+**R:** «**Vulnerabilità della tecnologia DLT: livello di sicurezza informatica incorporato e mancanza di chiare linee di responsabilità in caso di problemi operativi**». ⚠️ Gli elementi sono **due**, e il secondo è **giuridico**, non tecnico: la mancanza di **chiare linee di responsabilità**. Il docente vi aggiunge la conseguenza: «non lascia il mercato sereno».
+**Opzione:** Il livello di sicurezza informatica incorporato e la mancanza di chiare linee di responsabilità in caso di problemi operativi.
+**Distrattori:**
+- Il livello di sicurezza informatica incorporato e l'impronta ambientale in caso di problemi operativi.
+- La mancanza di chiare linee di responsabilità in caso di problemi operativi e l'assenza di una procedura di ricorso in caso di frode sugli asset digitali.
+- Il livello di sicurezza informatica incorporato e la mancanza di trasparenza delle DLT private.
+
+**D:** Come il docente chiude il blocco sul Regolamento DLT?
+**R:** «La nostra cavalcata… sul mondo del pilot regime del DLT ha evidenziato un **enorme impatto innovativo** dal punto di vista dell'infrastruttura di mercati, ma ha anche evidenziato quelle che sono le **principali difficoltà** incontrate nella gestazione di questo regime pilota, sia di **coordinamento con la normativa esistente** e sia anche di **futuro regolamentare**, che appare in questo momento ancora **legato a paradigmi del passato**, piuttosto che a favorire una fioritura di queste nuove market infrastructure con un **regime ad hoc**… le **potenzialità inespresse sono ancora molte**, e sono molte perché **la regolamentazione non è al passo ad oggi con la velocità di evoluzione tecnologica**». ⚠️ Solo nel transcript ([00:10:23]).
