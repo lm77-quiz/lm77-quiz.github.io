@@ -5641,3 +5641,276 @@
 
 **D:** ⚠️ Come giustifica il docente la proliferazione e il continuo rimaneggiamento delle norme ESG?
 **R:** Come una necessità strutturale: «si tratta di una **normale proliferazione** nel contesto europeo e locale quando si deve fare i conti con **fenomeni in costante evoluzione**», perché «**i tempi di gestazione** di queste normative **non** sono **indifferenti**» e «dal momento in cui si è iniziato a pensare di scriverla al momento in cui si arriva alla conclusione è passato un lasso di tempo tale per cui **probabilmente è già necessario farne un'altra**». Sul disordine cronologico degli atti: «**non spaventatevi di fronte all'apparente confusione cronologica**… è quello che viene definito come uno **standard market practice**. Purtroppo si è in una situazione tale per cui è necessario **continuamente rimaneggiare dei testi che sono stati appena licenziati**». ⚠️ Vi affianca l'avvertenza opposta: «**più si va nel dettaglio e più si danno informazioni**… ma dall'altro lato **si corre il rischio di entrare in quel loop del dare troppe informazioni creando eccessiva confusione**». ⚠️ Solo nel transcript ([00:04:06]).
+
+## Lezione 21 — Il nuovo Regolamento DLT (1)
+
+**D:** ⚠️ Quali sono le finalità del Pacchetto per la Finanza Digitale elencate dalla slide?
+**R:** **Otto**, su due righe di quattro: «**Certezza legale per le diverse tipologie di crypto-assets**»; «**Supporto all'innovazione ed alla sana concorrenza attraverso la creazione di una cornice favorevole**»; «**Livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato**»; «**affrontare i rischi per la stabilità finanziaria e la politica monetaria (in particolare a causa dell'ampio uso di cripto-asset e DLT)**»; «**eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza)**»; «**aumentare le fonti di finanziamento (attraverso ICO e STO)**»; «**limitare i rischi di frode, riciclaggio di denaro e pratiche illecite nei mercati dei cripto-asset**»; «**sostenere l'accesso a nuove opportunità di investimento, a nuovi tipi di strumenti di pagamento e ad alimentare la concorrenza**».
+**Opzione:** Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento e di pagamento e alimentare la concorrenza.
+**Distrattori:**
+- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; armonizzazione della fiscalità diretta sui cripto-asset.
+- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della sola clientela al dettaglio; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento e di pagamento e alimentare la concorrenza.
+- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; introduzione di ostacoli normativi all'emissione di token di sicurezza; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento.
+
+**D:** ⚠️ Attraverso quali strumenti il Pacchetto per la Finanza Digitale punta ad aumentare le fonti di finanziamento?
+**R:** «**aumentare le fonti di finanziamento (attraverso ICO e STO)**». ⚠️ Gli strumenti sono **due** e stanno **solo sulla slide**: il docente a voce nomina solo l'**initial coin offering**.
+**Opzione:** Attraverso ICO e STO.
+**Distrattori:**
+- Attraverso le sole ICO.
+- Attraverso ICO e IPO.
+- Attraverso STO e crowdfunding immobiliare.
+
+**D:** ⚠️ Per quale ragione il Pacchetto per la Finanza Digitale si occupa dei rischi per la stabilità finanziaria e la politica monetaria?
+**R:** «**affrontare i rischi per la stabilità finanziaria e la politica monetaria (in particolare a causa dell'ampio uso di cripto-asset e DLT)**». ⚠️ Quantificatore da conservare: «**ampio** uso»; e i due oggetti minacciati sono **due**, la stabilità finanziaria *e* la politica monetaria.
+**Opzione:** In particolare a causa dell'ampio uso di cripto-asset e DLT.
+**Distrattori:**
+- In particolare a causa dell'uso ancora marginale di cripto-asset e DLT.
+- In particolare a causa dell'ampio uso di cripto-asset e intelligenza artificiale.
+- In particolare a causa dell'ampio uso di cripto-asset da parte dei soli intermediari vigilati.
+
+**D:** ⚠️ Che cosa dice esattamente la voce del Pacchetto sull'eliminazione degli ostacoli normativi?
+**R:** «**eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza)**». ⚠️ Le fasi sono **tre** e la terza è la **post**-negoziazione; l'oggetto sono i **token di sicurezza**, non i cripto-asset in genere.
+**Opzione:** Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza.
+**Distrattori:**
+- Eliminazione degli ostacoli normativi, ad esempio per l'emissione e la negoziazione di token di sicurezza.
+- Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di pagamento.
+- Eliminazione degli ostacoli normativi, ad esempio per la custodia e il trasferimento transfrontaliero di token di sicurezza.
+
+**D:** Che cosa sono chiamati a proteggere i «livelli elevati di protezione» del Pacchetto per la Finanza Digitale?
+**R:** «**Livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato**». ⚠️ Gli oggetti sono **tre** e vanno detti tutti: la **clientela**, l'**investitore** e l'**integrità del mercato**.
+**Opzione:** La clientela, l'investitore e l'integrità del mercato.
+**Distrattori:**
+- La clientela e l'investitore.
+- La clientela, l'investitore e la stabilità dei prezzi.
+- L'investitore professionale e l'integrità del mercato.
+
+**D:** Qual è il numero del Regolamento DLT e quando è stato approvato?
+**R:** «**In data 30 maggio 2022 è stato approvato il Regolamento 2022/858 (Regolamento DLT) relativo a un regime pilota per le infrastrutture di mercato basate sulla tecnologia a registro distribuito ("DLT")**».
+**Opzione:** In data 30 maggio 2022 è stato approvato il Regolamento 2022/858 (Regolamento DLT) relativo a un regime pilota per le infrastrutture di mercato basate sulla tecnologia a registro distribuito.
+**Distrattori:**
+- In data 30 maggio 2022 è stato approvato il Regolamento 2022/585 (Regolamento DLT) relativo a un regime pilota per le infrastrutture di mercato basate sulla tecnologia a registro distribuito.
+- In data 23 marzo 2023 è stato approvato il Regolamento 2022/858 (Regolamento DLT) relativo a un regime pilota per le infrastrutture di mercato basate sulla tecnologia a registro distribuito.
+- In data 30 maggio 2022 è stata approvata la Direttiva 2022/858 (Direttiva DLT) relativa a un regime pilota per le infrastrutture di mercato basate sulla tecnologia a registro distribuito.
+
+**D:** ⚠️ Da quando trova applicazione il Regolamento DLT?
+**R:** «**Il Regolamento, il quale troverà applicazione a partire dal 23 marzo 2023**…». ⚠️ **Tre dati numerici da non confondere**: il numero **2022/858**, l'approvazione del **30 maggio 2022** e l'applicazione dal **23 marzo 2023**.
+**Opzione:** A partire dal 23 marzo 2023.
+**Distrattori:**
+- A partire dal 30 maggio 2022, data della sua approvazione.
+- A partire dal 23 marzo 2022.
+- A partire dal 1° gennaio 2024, dopo un periodo transitorio di diciotto mesi.
+
+**D:** ⚠️ Su quali cripto-asset opera il Regolamento DLT?
+**R:** Su quelli «**qualificabili come strumenti finanziari ai sensi dell'Allegato I Sezione C della Direttiva (UE) 2014/65 ("MiFID II") (cd. crypto-securities)**». ⚠️ Il perimetro **non** sono i cripto-asset in genere, ma solo quelli **già** qualificabili come strumenti finanziari: l'Allegato I Sezione C, spiega il docente, «elenca tutti quelli che sono strumenti finanziari e quindi tutti quegli strumenti che possono essere emessi, commercializzati o piazzati **solo da soggetti vigilati e regolamentati**».
+**Opzione:** Sui cripto-asset qualificabili come strumenti finanziari ai sensi dell'Allegato I Sezione C della Direttiva (UE) 2014/65 (MiFID II), le cosiddette crypto-securities.
+**Distrattori:**
+- Su tutti i cripto-asset, qualificabili o meno come strumenti finanziari ai sensi dell'Allegato I Sezione C della Direttiva (UE) 2014/65 (MiFID II).
+- Sui cripto-asset qualificabili come strumenti finanziari ai sensi dell'Allegato I Sezione C del Regolamento (UE) 909/2014 (CSDR), le cosiddette crypto-securities.
+- Sui cripto-asset qualificabili come mezzi di pagamento ai sensi dell'Allegato I Sezione C della Direttiva (UE) 2014/65 (MiFID II), le cosiddette crypto-currencies.
+
+**D:** ⚠️ Qual è l'obiettivo che il legislatore europeo persegue con il Regolamento DLT?
+**R:** «**consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria**». ⚠️ Le fasi sono **tre** (emissione, negoziazione, regolamento) e i beni da non sacrificare altrettanti: protezione degli investitori, **trasparenza dei mercati**, stabilità finanziaria.
+**Opzione:** Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
+**Distrattori:**
+- Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità dei prezzi.
+- Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione e la negoziazione delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori e la stabilità finanziaria.
+- Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento di tutte le criptovalute, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
+
+**D:** ⚠️ Che cosa afferma il considerando n. 1 del Regolamento DLT?
+**R:** «**È importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, anche consentendo l'uso di tecnologie innovative. L'Unione ha interesse politico a esplorare, sviluppare e a promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la diffusione della tecnologia a registro distribuito («DLT»).**» ⚠️ I verbi sono **tre e in quest'ordine**: «**esplorare, sviluppare e promuovere**».
+**Opzione:** Che è importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, e che l'Unione ha interesse politico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+**Distrattori:**
+- Che è importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, e che l'Unione ha interesse politico a vigilare, limitare e circoscrivere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+- Che è importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle imprese, e che l'Unione ha interesse politico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+- Che è importante garantire che la legislazione degli Stati membri in materia di servizi finanziari sia adeguata all'era digitale, e che l'Unione ha interesse esclusivamente economico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+
+**D:** ⚠️ Come qualifica la slide l'interesse dell'Unione a promuovere la DLT — e come il docente?
+**R:** La slide dice «**L'Unione ha interesse politico a esplorare, sviluppare e a promuovere la diffusione di tecnologie trasformative**»: l'aggettivo è **uno solo**, «**politico**». Il docente a voce lo amplia: «in questo considerando si respira proprio tutto l'interesse **politico, economico, finanziario, strategico e prospettico** dell'Unione Europea». ⚠️ Per i quiz vale la **slide**, che le opzioni citano alla lettera.
+
+**D:** ⚠️ Quali sono gli obiettivi del Regolamento DLT?
+**R:** **Quattro**, nell'ordine della slide: «**Sviluppo di mercati secondari per strumenti finanziari "tokenizzati"**»; «**Promuovere l'adozione della DLT nell'area del trading e post-trading**»; «**Sostenere l'innovazione**»; «**Garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria**». ⚠️ Il primo riguarda i mercati **secondari** e il quarto è a sua volta **triplo**.
+**Opzione:** Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria.
+**Distrattori:**
+- Sviluppo di mercati primari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria.
+- Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nella sola area del post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria.
+- Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire l'armonizzazione fiscale e la parità di trattamento degli emittenti.
+
+**D:** Perché, secondo il docente, gli obiettivi del Regolamento DLT sono notevoli?
+**R:** Perché sono «obiettivi tra di loro **profondamente diversi**, che agiscono su **piani molto diversi**»: «un conto è dire che si sta accelerando lo sviluppo dei **mercati secondari**… e un conto è dire che si garantisce la **tutela degli investitori**, l'integrità del mercato e la stabilità finanziaria. **Molto spesso in passato… questi due obiettivi parevano confliggenti tra di loro. Una iperregolamentazione non favoriva il flusso di assets, di liquidità**». Ne trae l'attesa di una regolamentazione **differente rispetto al passato**, «**non con obiettivi confliggenti tra di loro, ma con obiettivi armonicamente scritti**», con le «tecnologie fintech come **alleate**». ⚠️ Solo nel transcript ([00:04:09]).
+
+**D:** ⚠️ Qual è il meccanismo introdotto dal Regolamento DLT e da quali atti consente esenzioni?
+**R:** «**Introduce un Regime Pilota per le infrastrutture di mercato DLT. Le infrastrutture di mercato DLT possono ottenere esenzioni dai requisiti previsti dalla legislazione UE esistente (MiFID II, MiFIR, CSDR).**» ⚠️ Gli atti sono **tre** e stanno **solo sulla slide**: il docente dice genericamente «la legislazione esistente». La leva del regime pilota è l'**esenzione**, non una disciplina nuova.
+**Opzione:** Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti da MiFID II, MiFIR e CSDR.
+**Distrattori:**
+- Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti da MiFID II, MiFIR e MiCA.
+- Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti dalla sola CSDR.
+- Un regime obbligatorio che impone alle infrastrutture di mercato DLT requisiti aggiuntivi rispetto a quelli previsti da MiFID II, MiFIR e CSDR.
+
+**D:** ⚠️ Chi concede le esenzioni del regime pilota e quale ruolo ha l'ESMA?
+**R:** «**Le NCAs concedono le esenzioni. Ad ESMA è affidato un ruolo di coordinamento.**» ⚠️ **Coppia soggetto + funzione da non invertire**: le esenzioni le concedono le **autorità nazionali**, all'ESMA spetta **solo il coordinamento**. Il docente lo rimarca: l'ESMA, «questo **super regulator**, il regolatore europeo, ha un ruolo di coordinamento, **non entra nel dettaglio** di come vengono regolamentati a livello nazionale».
+**Opzione:** Le concedono le NCAs; ad ESMA è affidato un ruolo di coordinamento.
+**Distrattori:**
+- Le concede ESMA; alle NCAs è affidato un ruolo di coordinamento.
+- Le concedono le NCAs previa autorizzazione vincolante di ESMA.
+- Le concedono congiuntamente la Commissione e il Parlamento Europeo; ad ESMA è affidato un ruolo di coordinamento.
+
+**D:** Perché il Regolamento DLT prevede limiti e requisiti specifici per accedere alle esenzioni?
+**R:** «**Sono previsti limiti e specifici requisiti per poter usufruire delle esenzioni, al fine di garantire parità di condizioni in tutta l'UE.**» ⚠️ È il ***level playing field*** che il docente riprende in chiusura: «che le **regole del gioco siano uguali per tutte**».
+**Opzione:** Al fine di garantire parità di condizioni in tutta l'UE.
+**Distrattori:**
+- Al fine di garantire un vantaggio competitivo alle infrastrutture stabilite nell'UE.
+- Al fine di consentire agli Stati membri di applicare condizioni differenziate secondo il proprio mercato.
+- Al fine di garantire la neutralità fiscale delle operazioni su strumenti finanziari DLT.
+
+**D:** ⚠️ Quali sono le categorie di strumenti finanziari DLT e con quali soglie?
+**R:** **Tre**: «**azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR**»; «**obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato**»; «**quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR**». ⚠️ **Le soglie non sono uguali**: 500 milioni · **1 miliardo** · 500 milioni.
+**Opzione:** Azioni con capitalizzazione, anche provvisoria, inferiore a 500 milioni di EUR; obbligazioni, debito cartolarizzato e strumenti del mercato monetario con entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano un derivato o una struttura che rende difficile comprendere il rischio; quote di organismi di investimento collettivo con attività gestite inferiori a 500 milioni di EUR.
+**Distrattori:**
+- Azioni con capitalizzazione, anche provvisoria, inferiore a 500 milioni di EUR; obbligazioni, debito cartolarizzato e strumenti del mercato monetario con entità di emissione inferiore a 500 milioni di EUR, esclusi quelli che incorporano un derivato o una struttura che rende difficile comprendere il rischio; quote di organismi di investimento collettivo con attività gestite inferiori a 500 milioni di EUR.
+- Azioni con capitalizzazione, anche provvisoria, inferiore a 500 milioni di EUR; obbligazioni, debito cartolarizzato e strumenti del mercato monetario con entità di emissione inferiore a 1 miliardo di EUR, compresi quelli che incorporano un derivato; quote di organismi di investimento collettivo con attività gestite inferiori a 500 milioni di EUR.
+- Azioni con capitalizzazione, anche provvisoria, inferiore a 1 miliardo di EUR; obbligazioni, debito cartolarizzato e strumenti del mercato monetario con entità di emissione inferiore a 500 milioni di EUR, esclusi quelli che incorporano un derivato; quote di organismi di investimento collettivo con attività gestite inferiori a 1 miliardo di EUR.
+
+**D:** ⚠️ Qual è la soglia prevista per le azioni ammesse al regime pilota, e come è definita la capitalizzazione?
+**R:** «**azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR**». ⚠️ Due punti da conservare: la soglia è **500 milioni** (non 1 miliardo, che è quella delle obbligazioni) e la capitalizzazione può essere anche «**provvisoria**».
+**Opzione:** Una capitalizzazione di mercato, anche provvisoria, inferiore a 500 milioni di EUR.
+**Distrattori:**
+- Una capitalizzazione di mercato definitiva inferiore a 500 milioni di EUR.
+- Una capitalizzazione di mercato, anche provvisoria, inferiore a 1 miliardo di EUR.
+- Una capitalizzazione di mercato, anche provvisoria, superiore a 500 milioni di EUR.
+
+**D:** ⚠️ Qual è la soglia prevista per le obbligazioni e il debito cartolarizzato, e quali strumenti restano esclusi?
+**R:** «**obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato**». ⚠️ La soglia è **1 miliardo** — è l'unica voce a non essere da 500 milioni — e le esclusioni sono **due**. ⚠️ Riepilogando, il docente dice per lapsus «500 milioni di euro, **un milione**» \[*sic*, [00:08:19]]: vale la slide.
+**Opzione:** Un'entità di emissione inferiore a 1 miliardo di EUR, esclusi gli strumenti che incorporano un derivato o una struttura che rende difficile per il cliente comprendere il rischio correlato.
+**Distrattori:**
+- Un'entità di emissione inferiore a 1 milione di EUR, esclusi gli strumenti che incorporano un derivato o una struttura che rende difficile per il cliente comprendere il rischio correlato.
+- Un'entità di emissione inferiore a 500 milioni di EUR, esclusi gli strumenti che incorporano un derivato o una struttura che rende difficile per il cliente comprendere il rischio correlato.
+- Un'entità di emissione inferiore a 1 miliardo di EUR, compresi gli strumenti che incorporano un derivato purché il rischio sia illustrato nella documentazione precontrattuale.
+
+**D:** ⚠️ Come è definita la terza categoria di strumenti finanziari DLT?
+**R:** «**quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR**». ⚠️ Il **rinvio puntuale** — art. 25, par. 4, lett. a), punto iv), direttiva 2014/65/UE — sta **solo sulla slide**; il docente dice genericamente «quote di fondi di organismi di investimento collettivo». ⚠️ La grandezza sotto soglia è il **valore di mercato delle attività gestite**, non la capitalizzazione dell'emittente.
+**Opzione:** Quote di organismi di investimento collettivo il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
+**Distrattori:**
+- Quote di organismi di investimento collettivo il cui valore di mercato delle attività gestite è inferiore a 1 miliardo di EUR.
+- Quote di organismi di investimento collettivo la cui capitalizzazione di mercato, anche provvisoria, è inferiore a 500 milioni di EUR.
+- Quote di organismi di investimento collettivo il cui numero di quotisti al dettaglio è inferiore a 500.
+
+**D:** Quale carenza il Regolamento DLT dichiara di voler colmare?
+**R:** «**Attualmente, vi è una carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la tecnologia a registro distribuito per fornire servizi di negoziazione o regolamento, o una combinazione di tali servizi, per le cripto-attività che rientrano nella definizione di strumenti finanziari.**» ⚠️ La formula «**negoziazione o regolamento, o una combinazione di tali servizi**» è già la mappa delle **tre** infrastrutture che seguono, e la coda ribadisce il perimetro: solo le cripto-attività «**che rientrano nella definizione di strumenti finanziari**».
+**Opzione:** Una carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la DLT per fornire servizi di negoziazione o regolamento, o una combinazione di tali servizi, per le cripto-attività che rientrano nella definizione di strumenti finanziari.
+**Distrattori:**
+- Una carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la DLT per fornire servizi di negoziazione o regolamento, o una combinazione di tali servizi, per tutte le cripto-attività.
+- Una carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la DLT per fornire servizi di custodia e di emissione per le cripto-attività che rientrano nella definizione di strumenti finanziari.
+- Una carenza di autorità nazionali competenti dotate delle risorse tecniche per vigilare sulle cripto-attività che rientrano nella definizione di strumenti finanziari.
+
+**D:** Quante e quali tipologie di infrastrutture di mercato DLT introduce il Regolamento?
+**R:** «**Il Regolamento DLT introduce tre tipologie di Infrastrutture di mercato DLT**»: il **sistema multilaterale di negoziazione DLT («MTF DLT»)**, il **sistema di regolamento DLT («SS DLT»)** e il **sistema di negoziazione e regolamento DLT («TSS DLT»)**.
+**Opzione:** Tre: MTF DLT, SS DLT e TSS DLT.
+**Distrattori:**
+- Due: MTF DLT e SS DLT.
+- Tre: MTF DLT, OTF DLT e SS DLT.
+- Quattro: mercato regolamentato DLT, MTF DLT, OTF DLT e SS DLT.
+
+**D:** ⚠️ Come definisce la slide l'MTF DLT?
+**R:** In **tre** righe: «**Un MTF (come definito dalla MiFID II)**»; «**Gestito da un'impresa di investimento o da un operatore di mercato ai sensi della MiFID II**»; «**In cui possono essere negoziati esclusivamente strumenti finanziari DLT**». ⚠️ Il gestore è **alternativo** e l'avverbio è «**esclusivamente**»: un MTF DLT non può negoziare altro, mentre «l'MTF MiFID ovviamente è molto più ampio».
+**Opzione:** Un MTF come definito dalla MiFID II, gestito da un'impresa di investimento o da un operatore di mercato ai sensi della MiFID II, in cui possono essere negoziati esclusivamente strumenti finanziari DLT.
+**Distrattori:**
+- Un MTF come definito dalla MiFID II, gestito esclusivamente da un operatore di mercato ai sensi della MiFID II, in cui possono essere negoziati esclusivamente strumenti finanziari DLT.
+- Un MTF come definito dalla MiFID II, gestito da un'impresa di investimento o da un operatore di mercato ai sensi della MiFID II, in cui possono essere negoziati strumenti finanziari DLT e cripto-attività non qualificabili come strumenti finanziari.
+- Un sistema di regolamento titoli come definito dal CSDR, gestito da un'impresa di investimento o da un operatore di mercato, in cui possono essere negoziati esclusivamente strumenti finanziari DLT.
+
+**D:** ⚠️ A quali requisiti è soggetto l'MTF DLT?
+**R:** «**gli MTF DLT saranno soggetti ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 ("MiFIR")**». ⚠️ Le norme sono **due**: il docente a voce cita solo la MiFID, ma la slide aggiunge il **MiFIR**, di cui dà anche il numero — **Regolamento (UE) n. 600/2014**.
+**Opzione:** Ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 (MiFIR).
+**Distrattori:**
+- Ai soli requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II.
+- Ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 909/2014 (CSDR).
+- Ai requisiti applicabili ai depositari centrali di titoli previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 (MiFIR).
+
+**D:** ⚠️ Che cos'è l'SS DLT e quali funzioni svolge?
+**R:** «**il sistema di regolamento DLT ("SS DLT"), ossia il sistema che regolerà operazioni in strumenti finanziari DLT "contro pagamento o consegna", permettendo altresì la registrazione iniziale degli strumenti finanziari DLT ovvero consentendo la prestazione di servizi di custodia in relazione a detti strumenti**». ⚠️ Le funzioni sono **tre**: regolamento «contro pagamento o consegna», **registrazione iniziale** e **custodia**.
+**Opzione:** Il sistema che regola operazioni in strumenti finanziari DLT contro pagamento o consegna, permettendo altresì la registrazione iniziale degli strumenti finanziari DLT ovvero consentendo la prestazione di servizi di custodia.
+**Distrattori:**
+- Il sistema che regola operazioni in strumenti finanziari DLT contro pagamento o consegna, senza però permettere la registrazione iniziale degli strumenti finanziari DLT né la prestazione di servizi di custodia.
+- Il sistema che ammette alla negoziazione esclusivamente strumenti finanziari DLT, permettendo altresì la registrazione iniziale degli strumenti finanziari DLT ovvero la prestazione di servizi di custodia.
+- Il sistema che regola operazioni in strumenti finanziari DLT esclusivamente contro consegna, permettendo altresì la registrazione iniziale degli strumenti finanziari DLT.
+
+**D:** ⚠️ Da chi è gestito l'SS DLT e a quale normativa rinvia?
+**R:** La slide è secca: «**Sistema di regolamento titoli (come definito dal CSDR)**», «**Gestito da un CSD**». Il depositario centrale «**sarà soggetto ai requisiti applicabili ai depositari centrali di titoli che gestiscono un sistema di regolamento titoli ai sensi del Regolamento (UE) n. 909/2014 ("CSDR")**». ⚠️ Il gestore è **solo** il **CSD**, senza alternative — a differenza dell'MTF DLT, dove i gestori possibili sono due. ⚠️ Il numero **909/2014** sta **solo sulla slide**: il docente dice «il regolamento UE del 2014».
+**Opzione:** È gestito da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
+**Distrattori:**
+- È gestito da un'impresa di investimento o da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
+- È gestito da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 600/2014 (MiFIR).
+- È gestito da un operatore di mercato ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
+
+**D:** ⚠️ Da chi può essere gestito il TSS DLT e a quali requisiti è soggetto?
+**R:** «**il TSS DLT potrà essere gestito, alternativamente, da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli. In entrambi i casi, tale sistema sarà soggetto sia ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dal MiFIR e dalla MiFID II nonché a quelli applicabili ai depositari centrali di titoli di cui al CSDR.**» ⚠️ È l'unica infrastruttura soggetta **insieme** a MiFID II/MiFIR **e** CSDR, perché gestisce «**sia le attività di negoziazione che di post-negoziazione**».
+**Opzione:** Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; in entrambi i casi è soggetto sia ai requisiti MiFIR e MiFID II per i sistemi multilaterali di negoziazione, sia a quelli CSDR per i depositari centrali di titoli.
+**Distrattori:**
+- Esclusivamente da un depositario centrale di titoli; è soggetto sia ai requisiti MiFIR e MiFID II per i sistemi multilaterali di negoziazione, sia a quelli CSDR per i depositari centrali di titoli.
+- Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; è soggetto ai soli requisiti CSDR per i depositari centrali di titoli.
+- Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; è soggetto ai requisiti MiFIR e MiFID II se gestito dal primo, a quelli CSDR se gestito dal secondo.
+
+**D:** ⚠️ Quali sono le due forme che può assumere il TSS DLT, e che cosa le distingue?
+**R:** «**Un MTF DLT che combina i servizi prestati da un MTF DLT e da un SS DLT gestito da un'impresa di investimento o da un gestore del mercato; o**» «**Un SS DLT che combina i servizi prestati da un MTF DLT e da un SS DLT gestito da un CSD**». ⚠️ **Ciò che distingue le due forme è il gestore, non i servizi**: i servizi combinati sono gli stessi in entrambi i casi (MTF DLT + SS DLT); cambia **chi gestisce** — impresa di investimento o gestore del mercato nella prima, **CSD** nella seconda.
+**Opzione:** Un MTF DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un'impresa di investimento o da un gestore del mercato; oppure un SS DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un CSD.
+**Distrattori:**
+- Un MTF DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un CSD; oppure un SS DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un'impresa di investimento o da un gestore del mercato.
+- Un MTF DLT che presta i soli servizi di negoziazione gestito da un'impresa di investimento o da un gestore del mercato; oppure un SS DLT che presta i soli servizi di regolamento gestito da un CSD.
+- Un MTF DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un'impresa di investimento o da un gestore del mercato; oppure un mercato regolamentato DLT che combina i medesimi servizi gestito da un CSD.
+
+**D:** ⚠️ Come si chiama la terza infrastruttura di mercato DLT nella slide che la definisce?
+**R:** In **due modi, nella stessa slide**: il punto elenco la chiama «**TSS DLT**» («sistema di negoziazione e regolamento DLT ("TSS DLT")»), mentre il riquadro sottostante la chiama «**DLT TSS**». ⚠️ È la stessa infrastruttura: l'oscillazione è della slide, non una distinzione di sostanza.
+
+**D:** ⚠️ Come definisce la slide il Mercato Regolamentato?
+**R:** «**Un sistema multilaterale, amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione.**» ⚠️ **Due alternanze da conservare**: «**amministrato *e/o* gestito**» e «**consente *o facilita***»; a voce il docente perde la **prima** («amministrato **e** gestito») e mantiene la seconda. ⚠️ La coda «**ammessi alla negoziazione**» appartiene **solo** a questa definizione.
+**Opzione:** Un sistema multilaterale, amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione.
+**Distrattori:**
+- Un sistema multilaterale, amministrato e gestito da un gestore del mercato, che consente l'incontro, al suo interno e in base alle sue regole discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione.
+- Un sistema multilaterale, amministrato e/o gestito da un'impresa di investimento, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione.
+- Un sistema multilaterale, amministrato e/o gestito da un gestore del mercato, che consente o facilita l'incontro, al suo interno e in base alle sue regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.
+
+**D:** ⚠️ Come definisce la slide l'MTF, e in che cosa differisce dal Mercato Regolamentato?
+**R:** «**Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.**» ⚠️ Rispetto al Mercato Regolamentato cambiano **quattro** cose: il **gestore** (qui anche l'**impresa di investimento**), l'**amministrazione** (manca «amministrato **e/o** gestito»), il **verbo** («consente», **senza** «o facilita») e la **coda** (mancano le parole «ammessi alla negoziazione»). L'**oggetto** è invece lo stesso: gli **strumenti finanziari**.
+**Opzione:** Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.
+**Distrattori:**
+- Un sistema multilaterale gestito da un gestore del mercato che consente o facilita l'incontro, in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti relativi a strumenti finanziari ammessi alla negoziazione.
+- Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, in base a regole discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.
+- Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'interazione, in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+
+**D:** ⚠️ Come definisce la slide l'OTF?
+**R:** «**Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.**» ⚠️ È definito **per differenza** — «**diverso da**» —: sopprimere quella negazione ribalta la frase lasciandola quasi identica. ⚠️ Il verbo è «**consente l'*interazione***», non «l'incontro»; l'oggetto è un **elenco chiuso di quattro voci**; e le **regole non discrezionali** **non compaiono** nella definizione.
+**Opzione:** Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.
+**Distrattori:**
+- Un sistema multilaterale, come il mercato regolamentato e il sistema multilaterale di negoziazione, che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.
+- Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione, in base a regole non discrezionali, tra interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.
+- Un sistema bilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'incontro tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+
+**D:** ⚠️ Su quali strumenti opera l'OTF, e in che cosa questo lo distingue dal Mercato Regolamentato e dall'MTF?
+**R:** Su un **elenco chiuso di quattro voci**: «**obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati**». ⚠️ Mercato Regolamentato e MTF hanno invece per oggetto gli «**strumenti finanziari**» in genere: è l'asse su cui le tre definizioni si separano più nettamente, e il posto dove i distrattori scambiano un elenco con l'altro.
+**Opzione:** Obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+**Distrattori:**
+- Obbligazioni, strumenti finanziari strutturati e strumenti derivati.
+- Strumenti finanziari, senza limitazioni di categoria.
+- Obbligazioni, azioni, quote di emissione e strumenti derivati.
+
+**D:** ⚠️ Il docente chiama il mercato regolamentato «l'infrastruttura principe del DLT»: quale variante DLT prevede il regime pilota per ciascuna delle tre sedi MiFID II?
+**R:** Solo l'**MTF** ha una variante DLT nel regime pilota — l'**MTF DLT**. **Non esistono** un «mercato regolamentato DLT» né un «OTF DLT»: le altre due infrastrutture DLT del Regolamento sono l'**SS DLT** (regolamento titoli, mutuato dal CSDR) e il **TSS DLT** (che combina i servizi delle prime due). ⚠️ L'espressione del docente ([00:11:07]) non va presa come una classificazione: le tre sedi della slide 11 servono da sfondo MiFID II, non da elenco di infrastrutture DLT.
+**Opzione:** Solo l'MTF, con l'MTF DLT; non esistono né un mercato regolamentato DLT né un OTF DLT.
+**Distrattori:**
+- Tutte e tre: esistono un mercato regolamentato DLT, un MTF DLT e un OTF DLT.
+- Solo il mercato regolamentato, che è l'infrastruttura principe del regime pilota.
+- Il mercato regolamentato e l'MTF, ma non l'OTF.
+
+**D:** Quale tecnica legislativa il docente riconosce nel Regolamento DLT?
+**R:** «La **tecnica legislativa del rimando o coordinamento**», che dice «**frequentissima in questo periodo**»: «per creare armonia all'interno del mondo finanziario io vado a **non disciplinare *ex novo* qualcosa che già esiste**, ma a creare una **similitudine** con qualcosa che già è presente **per non creare differenze**». Nel merito: ogni infrastruttura DLT è definita come la corrispondente infrastruttura tradizionale (MTF della MiFID II, sistema di regolamento titoli del CSDR) **tarata** sugli strumenti finanziari DLT. ⚠️ Solo nel transcript ([00:08:19]).
+**Opzione:** La tecnica del rimando o coordinamento: non si disciplina ex novo ciò che già esiste, ma si crea una similitudine con la normativa esistente per non creare differenze.
+**Distrattori:**
+- La tecnica dell'armonizzazione minima: si fissa una soglia comune e si lascia agli Stati membri la facoltà di innalzarla.
+- La tecnica della disciplina ad hoc: si costruisce ex novo un corpo di regole dedicato alle nuove tecnologie, senza rinvii alla normativa esistente.
+- La tecnica della delega: si rinvia il dettaglio a misure di secondo livello elaborate dalle autorità di vigilanza europee.
+
+**D:** Qual è la critica mossa all'approccio del Regolamento DLT, e quale ragione gli si oppone?
+**R:** La **critica**: «il **coordinamento tra le norme esistenti e quelle nuove non è un'operazione così semplice e scevra da errori ed equivoci**», tanto da chiedersi «se non poteva essere preferibile **non fare rimandi** alla normativa esistente ma **creare un sistema regolamentare *ad hoc*** per queste tecnologie, così da evitare **aree grigie di interpretazione** o eventualmente anche **difformità di valutazioni** che ogni singolo Stato membro farà durante la **fase di *enforcement***». La **contro-ragione**: cercare di creare un «***level playing field***, quindi che le **regole del gioco siano uguali per tutte**… è stato un obiettivo importante che il legislatore ha cercato di perseguire proprio **combinando e coordinando le regole esistenti** rispetto a quelle in divenire». ⚠️ Solo nel transcript ([00:11:07]).
+
+**D:** Come il docente riassume la portata del regime pilota, e che cosa annuncia per la lezione successiva?
+**R:** La novità «è sì quella di creare un'infrastruttura nuova per favorire domanda e offerta attraverso DLT, ma è sostanzialmente quella di **creare un ecosistema, un *humus*, un microcosmo**… che riprenda… in modo abbastanza importante, **regolamenti del sistema finanziario già ampiamente rodati, MiFID 2, MiFIR, CSDR, ma li tara**, cioè li **modifica leggermente** per consentire l'ingresso e l'accesso delle nuove tecnologie». Definisce la lezione «uno ***snapshot* del DLT**» e annuncia che nella successiva «entreremo un po' più nel dettaglio della **tecnicità di questo nuovo regime pilota**». ⚠️ Solo nel transcript ([00:11:07]).
