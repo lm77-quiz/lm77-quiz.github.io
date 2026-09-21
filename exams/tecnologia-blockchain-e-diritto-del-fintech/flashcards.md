@@ -6759,3 +6759,300 @@
 
 **D:** Come chiude il docente il ciclo sulla fiscalità delle cripto?
 **R:** Con una prognosi: «tenete però presente un elemento a chiusura di questa lezione: questa **situazione di confusione non è destinata a durare a lungo**. Siamo infatti in procinto di **non solo la proposta di legge ma anche di provvedimenti dell'Agenzia delle Entrate** che chiariranno una volta per tutte questo aspetto. **Non so se nel merito** saranno decisioni che renderanno le cripto sempre più utilizzabili e quindi **favoriranno lo sviluppo** delle cripto, ma sicuramente l'Agenzia delle Entrate ormai **sta prendendo una posizione chiara**, anche su una **spinta politico-legislativa**». ⚠️ Prima aveva segnalato il costo pratico dell'incertezza: la difficoltà «**degli operatori specializzati** — mi riferisco per esempio a un **commercialista** — a prendere una strada anziché un'altra», in una situazione in cui l'Agenzia «ha nel tempo mostrato **diverse interpretazioni e diversi atteggiamenti**». ⚠️ Solo nel transcript ([00:10:08]).
+
+## Lezione 25 — Focus — Il Regolamento MiCAR (1)
+
+**D:** Quali aspetti sono trattati nel Regolamento MiCA?
+**R:** **Quattro**: «**Procedure per l'autorizzazione degli emittenti di crypto-attività**»; «**Indicazione dei soggetti obbligati alla pubblicazione e contenuto minimo delle comunicazioni (White Paper)**»; «**Requisiti di Governance, di organizzazione interna, requisiti patrimoniali ed informativi richiesti agli emittenti**»; «**Approvazione ed altri provvedimenti delle Autorità di vigilanza**». ⚠️ Il secondo punto contiene **due** elementi — i **soggetti obbligati** *e* il **contenuto minimo** — e la slide identifica quelle comunicazioni con il **White Paper**. ⚠️ Il terzo ne elenca **quattro**: governance, organizzazione interna, patrimoniali, informativi.
+**Opzione:** Le procedure per l'autorizzazione degli emittenti; i soggetti obbligati alla pubblicazione e il contenuto minimo delle comunicazioni; i requisiti di governance, organizzazione interna, patrimoniali e informativi richiesti agli emittenti; l'approvazione e gli altri provvedimenti delle Autorità di vigilanza.
+**Distrattori:**
+- Le procedure per l'autorizzazione degli emittenti; i soggetti obbligati alla pubblicazione e il contenuto minimo delle comunicazioni; i requisiti di governance, organizzazione interna, patrimoniali e informativi richiesti agli emittenti; il regime fiscale delle plusvalenze realizzate dagli investitori.
+- Le procedure per l'autorizzazione degli emittenti; i soggetti obbligati alla pubblicazione e il contenuto minimo delle comunicazioni; i requisiti di governance e di organizzazione interna richiesti ai soli prestatori di servizi; l'approvazione e gli altri provvedimenti delle Autorità di vigilanza.
+- L'armonizzazione delle sanzioni penali per i reati in cripto-attività; i soggetti obbligati alla pubblicazione e il contenuto minimo delle comunicazioni; i requisiti di governance, organizzazione interna, patrimoniali e informativi richiesti agli emittenti; l'approvazione e gli altri provvedimenti delle Autorità di vigilanza.
+
+**D:** ⚠️ Quali obiettivi persegue a livello europeo l'adozione del Regolamento sui mercati delle crypto-attività?
+**R:** **Quattro**, in quest'ordine: «**Certezza giuridica**»; «**Tutela degli investitori**»; «**Protezione della stabilità dei mercati finanziari**»; «**Promozione dell'innovazione e creazione di contesti giuridici attrattivi per gli operatori in crypto-attività**». ⚠️ Il **primo è la certezza giuridica** («passa poi ovviamente il testimone alla tutela degli investitori», dice il docente) e il **quarto ne contiene due**: la **promozione dell'innovazione** *e* la **creazione di contesti giuridici attrattivi** — coda che un distrattore può amputare o sostituire.
+**Opzione:** Certezza giuridica; tutela degli investitori; protezione della stabilità dei mercati finanziari; promozione dell'innovazione e creazione di contesti giuridici attrattivi per gli operatori in crypto-attività.
+**Distrattori:**
+- Certezza giuridica; tutela degli investitori; protezione della stabilità dei mercati finanziari; promozione dell'innovazione e armonizzazione della fiscalità diretta degli operatori in crypto-attività.
+- Certezza giuridica; tutela degli investitori; protezione della stabilità dei mercati finanziari; divieto di offerta al pubblico di crypto-attività da parte di soggetti non bancari.
+- Tutela degli investitori; protezione della stabilità dei mercati finanziari; promozione dell'innovazione e creazione di contesti giuridici attrattivi per gli operatori in crypto-attività; uniformità delle sanzioni amministrative.
+
+**D:** Che cos'è una «cripto-attività» secondo l'articolo 3 del MiCAR?
+**R:** «**Una rappresentazione digitale di valore o di diritti che possono essere trasferiti e memorizzati elettronicamente, utilizzando la tecnologia di registro distribuito o una tecnologia analoga.**» ⚠️ La congiunzione è «**o**» (valore **o** diritti), i verbi sono **due** («trasferiti **e** memorizzati») e la coda «**o una tecnologia analoga**» apre la definizione oltre la DLT: è una «definizione contenitore», elastica per scelta.
+**Opzione:** Una rappresentazione digitale di valore o di diritti che possono essere trasferiti e memorizzati elettronicamente, utilizzando la tecnologia di registro distribuito o una tecnologia analoga.
+**Distrattori:**
+- Una rappresentazione digitale di valore o di diritti che possono essere trasferiti e memorizzati elettronicamente, utilizzando esclusivamente la tecnologia di registro distribuito.
+- Una rappresentazione digitale di valore o di diritti che possono essere trasferiti e memorizzati elettronicamente, utilizzando la tecnologia di registro distribuito o una tecnologia analoga, e ammessi alla negoziazione su una piattaforma.
+- Un'attività di natura digitale il cui trasferimento è basato sull'uso della crittografia e sulla tecnologia di registro distribuito.
+
+**D:** Che cos'è un «utility token» secondo l'articolo 3 del MiCAR?
+**R:** «**Un tipo di cripto-attività destinato a fornire l'accesso digitale a un bene o a un servizio, disponibile mediante DLT, e che è accettato solo dall'emittente di tale token.**» ⚠️ Due quantificatori sono parte del testo: l'accesso è «**digitale**» e il token è accettato «**solo dall'emittente di tale token**». Toglierli falsa la definizione tanto quanto aggiungerne uno inventato.
+**Opzione:** Un tipo di cripto-attività destinato a fornire l'accesso digitale a un bene o a un servizio, disponibile mediante DLT, e accettato solo dall'emittente di tale token.
+**Distrattori:**
+- Un tipo di cripto-attività destinato a fornire l'accesso digitale a un bene o a un servizio, disponibile mediante DLT, e accettato da qualsiasi emittente aderente alla stessa rete.
+- Un tipo di cripto-attività destinato a fornire l'accesso fisico a un bene o a un servizio, disponibile mediante DLT, e accettato solo dall'emittente di tale token.
+- Un tipo di cripto-attività che riconosce al detentore un diritto ad acquistare un determinato bene o servizio a un prezzo predeterminato, accettato solo dall'emittente di tale token.
+
+**D:** Che cos'è un «token collegato ad attività» secondo l'articolo 3 del MiCAR?
+**R:** «**Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.**» ⚠️ Il riferimento è un **paniere**: **diverse** monete fiduciarie, **una o più** merci, **una o più** cripto-attività, **oppure una combinazione**. ⚠️ Il verbo è «**intende** mantenere», non «garantisce».
+**Opzione:** Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.
+**Distrattori:**
+- Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.
+- Un tipo di cripto-attività che garantisce un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.
+- Un tipo di cripto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che intende mantenere un valore stabile facendo riferimento a un paniere di merci.
+
+**D:** Che cos'è un «token di moneta elettronica» secondo l'articolo 3 del MiCAR?
+**R:** «**Un tipo di cripto-attività il cui scopo principale è quello di essere utilizzato come mezzo di scambio e che mira a mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.**» ⚠️ Due elementi lo distinguono dal token collegato ad attività: lo **scopo principale** di **mezzo di scambio** e il riferimento a **una sola** moneta fiduciaria. ⚠️ Il verbo qui è «**mira a** mantenere».
+**Opzione:** Un tipo di cripto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che mira a mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.
+**Distrattori:**
+- Un tipo di cripto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che mira a mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale.
+- Un tipo di cripto-attività il cui scopo principale è fornire l'accesso digitale a un bene o a un servizio e che mira a mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.
+- Un tipo di cripto-attività emessa da un istituto di moneta elettronica autorizzato, che mira a mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.
+
+**D:** ⚠️ Qual è l'asse che distingue il token collegato ad attività dal token di moneta elettronica?
+**R:** **Quante grandezze di riferimento**, più uno scopo. Il **token collegato ad attività** guarda a un **paniere** («diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività»); il **token di moneta elettronica** guarda a **una sola** moneta fiduciaria avente corso legale **e** ha per «**scopo principale**» quello di essere «**mezzo di scambio**». ⚠️ Il riferimento alla **stabilità del valore** è **comune** ai due e **non discrimina** — cambia solo il verbo: «**intende**» il primo, «**mira a**» il secondo.
+**Opzione:** Il numero delle grandezze di riferimento: un paniere per il token collegato ad attività, una sola moneta fiduciaria per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
+**Distrattori:**
+- La stabilità del valore: solo il token di moneta elettronica intende mantenere un valore stabile, mentre il token collegato ad attività ha valore variabile.
+- Il numero delle grandezze di riferimento: una sola moneta fiduciaria per il token collegato ad attività, un paniere per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
+- La tecnologia impiegata: il token collegato ad attività richiede la tecnologia di registro distribuito, il token di moneta elettronica può utilizzare una tecnologia analoga.
+
+**D:** ⚠️ Con quali verbi le definizioni dell'articolo 3 esprimono la stabilità del valore dei due token?
+**R:** Con **due verbi diversi nella stessa slide**: il **token collegato ad attività** «**intende** mantenere un valore stabile», il **token di moneta elettronica** «**mira a** mantenere un valore stabile». ⚠️ Nessuno dei due afferma che il valore stabile sia **garantito**: sono verbi di **intenzione**, coerenti con le «definizioni contenitore» di compromesso. ⚠️ Alla lezione 16 lo stesso articolo era reso con un terzo verbo, «**pretende** di mantenere».
+**Opzione:** Il token collegato ad attività «intende mantenere» un valore stabile, il token di moneta elettronica «mira a mantenere» un valore stabile.
+**Distrattori:**
+- Entrambi «garantiscono» un valore stabile, con obbligo di riserva a copertura integrale.
+- Il token collegato ad attività «garantisce» un valore stabile, il token di moneta elettronica «mira a mantenere» un valore stabile.
+- Il token collegato ad attività «mira a mantenere» un valore stabile, il token di moneta elettronica «intende mantenere» un valore stabile.
+
+**D:** Chi è l'«emittente di cripto-attività» secondo l'articolo 3 del MiCAR?
+**R:** «**Una persona giuridica che offre al pubblico qualsiasi tipo di cripto-attività o che chiede l'ammissione di tali cripto-attività a una piattaforma di negoziazione di cripto-attività.**» ⚠️ Il soggetto è una **persona giuridica** e le condotte sono **due, alternative**: **offrire al pubblico** *o* **chiedere l'ammissione** alla negoziazione. ⚠️ L'art. 4, par. 1, lett. a) usa per lo stesso requisito una formula diversa: «sia un **soggetto giuridico**».
+**Opzione:** Una persona giuridica che offre al pubblico qualsiasi tipo di cripto-attività o che chiede l'ammissione di tali cripto-attività a una piattaforma di negoziazione di cripto-attività.
+**Distrattori:**
+- Una persona fisica o giuridica che offre al pubblico qualsiasi tipo di cripto-attività o che chiede l'ammissione di tali cripto-attività a una piattaforma di negoziazione di cripto-attività.
+- Una persona giuridica che offre al pubblico qualsiasi tipo di cripto-attività e che ne chiede contestualmente l'ammissione a una piattaforma di negoziazione di cripto-attività.
+- Una persona giuridica autorizzata dall'autorità competente dello Stato membro d'origine a offrire al pubblico cripto-attività.
+
+**D:** ⚠️ Come rende l'articolo 3 del MiCAR la lezione 25 rispetto alla lezione 16?
+**R:** **Stesso articolo, due traduzioni italiane**. Lezione 16 (slide 11): «**asset-referenced token**» e «**token di denaro elettronico**», «**pretende** di mantenere», «**valute fiat** che hanno corso legale», «una o più **materie prime**», cripto-attività come rappresentazione «trasferita ed **immagazzinata**». Lezione 25 (slide 4): «**token collegato ad attività**» e «**token di moneta elettronica**», «**intende** mantenere» / «**mira a** mantenere», «**monete fiduciarie** aventi corso legale», «una o più **merci**», «trasferiti e **memorizzati**». ⚠️ All'esame **vale la formula del deck da cui la domanda è tratta**.
+**Opzione:** Con termini diversi per lo stesso contenuto: token collegato ad attività e token di moneta elettronica in luogo di asset-referenced token e token di denaro elettronico, monete fiduciarie in luogo di valute fiat, merci in luogo di materie prime.
+**Distrattori:**
+- Con lo stesso contenuto e gli stessi termini, poiché entrambe le lezioni citano la traduzione ufficiale italiana del regolamento.
+- Con contenuti diversi: la lezione 25 tipizza quattro token, mentre la lezione 16 ne tipizzava tre.
+- Con termini diversi e un contenuto diverso: la lezione 25 sostituisce il riferimento a un paniere di attività con il riferimento a una sola moneta fiduciaria per entrambi i token.
+
+**D:** ⚠️ A quali cripto-attività si applica l'articolo 4 del MiCAR?
+**R:** Alle «**cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica**»: la rubrica è «**Offerte al pubblico di cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica e ammissione di tali cripto-attività alla negoziazione su una piattaforma di negoziazione di cripto-attività**». ⚠️ L'ambito è definito **per sottrazione** — i due token «stabili» hanno una disciplina propria — ed è il punto tipico della **negazione soppressa**: togliere «**diverse dai**» ribalta la norma lasciando la frase quasi identica.
+**Opzione:** Alle cripto-attività diverse dai token collegati ad attività e dai token di moneta elettronica.
+**Distrattori:**
+- Alle sole cripto-attività costituite da token collegati ad attività o da token di moneta elettronica.
+- A tutte le cripto-attività, compresi i token collegati ad attività e i token di moneta elettronica.
+- Alle sole cripto-attività qualificabili come strumenti finanziari ai sensi della MiFID II.
+
+**D:** ⚠️ Quali condizioni pone l'articolo 4, paragrafo 1, per offrire al pubblico cripto-attività diverse dai token collegati ad attività o di moneta elettronica?
+**R:** **Cinque**, tutte in capo all'emittente: «**a) sia un soggetto giuridico**»; «**b) abbia redatto un White Paper sulle cripto-attività… conformemente all'articolo 5**»; «**c) abbia notificato tale White Paper… conformemente all'articolo 7**»; «**d) abbia pubblicato il White Paper… conformemente all'articolo 8**»; «**e) rispetti gli obblighi di cui all'articolo 13**». ⚠️ Sono **cinque, non quattro**: il transcript si ferma agli obblighi informativi e **non nomina la lettera e)**, cioè il rinvio agli **obblighi di condotta dell'art. 13**.
+**Opzione:** Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento.
+**Distrattori:**
+- Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e ne abbia ottenuto l'approvazione preventiva dall'autorità competente.
+- Che l'emittente sia un soggetto giuridico, abbia redatto e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento, senza necessità di notifica.
+- Che l'emittente sia una persona fisica o giuridica, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento.
+
+**D:** ⚠️ A quali articoli rinviano le lettere b), c) e d) dell'articolo 4, paragrafo 1?
+**R:** **Tre atti sul medesimo documento, tre articoli distinti**: **redigere** il white paper → «conformemente all'**articolo 5**»; **notificarlo** → «conformemente all'**articolo 7**»; **pubblicarlo** → «conformemente all'**articolo 8**». ⚠️ È una **coppia soggetto + norma** triplicata: un distrattore basta che scambi due numeri. L'**art. 6** riguarda invece le **comunicazioni di marketing**, richiamate dall'art. 7.
+**Opzione:** La redazione all'articolo 5, la notifica all'articolo 7, la pubblicazione all'articolo 8.
+**Distrattori:**
+- La redazione all'articolo 5, la notifica all'articolo 6, la pubblicazione all'articolo 7.
+- La redazione all'articolo 4, la notifica all'articolo 5, la pubblicazione all'articolo 7.
+- La redazione all'articolo 5, la notifica all'articolo 8, la pubblicazione all'articolo 7.
+
+**D:** ⚠️ In quali casi l'articolo 4, paragrafo 2, esenta dagli obblighi sul white paper?
+**R:** **Sei**: «le cripto-attività sono **offerte gratuitamente**»; sono «**create automaticamente tramite mining a titolo di ricompensa per il mantenimento della DLT per la convalida delle operazioni**»; sono «**uniche e non fungibili** con altre cripto-attività»; sono «offerte a **meno di 150 persone fisiche o giuridiche per ogni Stato membro** in cui tali persone agiscono **per proprio conto**»; «nell'arco di un periodo di **12 mesi**, il corrispettivo totale… **non supera 1 000 000 EUR**»; l'offerta «è rivolta **esclusivamente agli investitori qualificati** e le cripto-attività possono essere **detenute solo da tali investitori qualificati**». ⚠️ Il transcript ne cita **tre su sei**: mancano **mining**, **unicità e non fungibilità** (gli NFT) e la **soglia in euro**.
+**Opzione:** Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT; cripto-attività uniche e non fungibili; offerta a meno di 150 persone per ogni Stato membro; corrispettivo totale non superiore a 1 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati.
+**Distrattori:**
+- Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT; cripto-attività uniche e non fungibili; offerta a meno di 150 persone per ogni Stato membro; corrispettivo totale non superiore a 5 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati.
+- Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT; cripto-attività fungibili e divisibili; offerta a meno di 150 persone per ogni Stato membro; corrispettivo totale non superiore a 1 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati.
+- Offerta gratuita; emissione da parte di un intermediario vigilato; cripto-attività uniche e non fungibili; offerta a meno di 150 persone per ogni Stato membro; corrispettivo totale non superiore a 1 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati.
+
+**D:** ⚠️ Quali lettere dell'articolo 4, paragrafo 1, sono sospese dalle esenzioni del paragrafo 2?
+**R:** Solo le lettere «**da b) a d)**», cioè **redazione**, **notifica** e **pubblicazione** del white paper. ⚠️ Restano quindi **fermi** la lettera **a)** — l'emittente deve comunque essere un **soggetto giuridico** — e la lettera **e)**, cioè il **rispetto degli obblighi dell'art. 13**. L'esenzione riguarda **l'informativa**, non lo statuto dell'emittente né la sua condotta.
+**Opzione:** Solo le lettere da b) a d), cioè la redazione, la notifica e la pubblicazione del white paper.
+**Distrattori:**
+- Tutte le lettere da a) a e), con esenzione integrale dagli obblighi dell'articolo 4.
+- Le lettere da a) a d), cioè anche il requisito di essere un soggetto giuridico.
+- Le lettere da c) a e), cioè la notifica, la pubblicazione e il rispetto degli obblighi di condotta.
+
+**D:** ⚠️ Come è formulata l'esenzione basata sul numero dei destinatari dell'offerta?
+**R:** «**Le cripto-attività sono offerte a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.**» ⚠️ Tre elementi che il transcript perde («offerte a meno di 150 persone fisiche»): i destinatari sono persone «**fisiche *o giuridiche***», la soglia si conta «**per ogni Stato membro**» e non in tutta l'Unione, e le persone devono agire «**per proprio conto**».
+**Opzione:** Offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
+**Distrattori:**
+- Offerta a meno di 150 persone fisiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
+- Offerta a meno di 150 persone fisiche o giuridiche nell'intera Unione, purché agiscano per proprio conto.
+- Offerta a meno di 500 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
+
+**D:** Quale soglia di corrispettivo esenta l'offerta dagli obblighi sul white paper, e su quale periodo si calcola?
+**R:** «**Nell'arco di un periodo di 12 mesi, il corrispettivo totale di un'offerta al pubblico di cripto-attività nell'Unione non supera 1 000 000 EUR o l'importo equivalente in un'altra valuta o in cripto-attività.**» ⚠️ **Due grandezze da non incrociare**: **1 000 000 EUR** di corrispettivo su **12 mesi**. ⚠️ I **12 mesi** ricorrono nell'articolo **due volte con funzione diversa**: qui come **periodo di osservazione** della soglia, al paragrafo 3 come **durata massima dell'offerta** di utility token su servizi non ancora operativi. ⚠️ L'equivalenza è ammessa «**in un'altra valuta o in cripto-attività**».
+**Opzione:** Un corrispettivo totale non superiore a 1 000 000 EUR, o importo equivalente in altra valuta o in cripto-attività, nell'arco di un periodo di 12 mesi.
+**Distrattori:**
+- Un corrispettivo totale non superiore a 1 000 000 EUR, o importo equivalente in altra valuta o in cripto-attività, nell'arco di un periodo di 24 mesi.
+- Un corrispettivo totale non superiore a 8 000 000 EUR, o importo equivalente in altra valuta o in cripto-attività, nell'arco di un periodo di 12 mesi.
+- Un corrispettivo totale non superiore a 1 000 000 EUR, esclusivamente in euro e senza equivalenze in altre valute o in cripto-attività, nell'arco di un periodo di 12 mesi.
+
+**D:** ⚠️ Quando un'offerta di cripto-attività non è considerata «gratuita»?
+**R:** «**Le cripto-attività non sono considerate offerte gratuitamente se gli acquirenti sono tenuti a fornire o a impegnarsi a fornire dati personali all'emittente in cambio di tali cripto-attività o se l'emittente… riceve dai potenziali possessori di queste onorari, commissioni, benefici monetari o benefici non monetari di terzi in cambio di dette cripto-attività.**» ⚠️ La gratuità è **sostanziale**: cade anche quando il corrispettivo non è denaro ma **dati personali**, e basta l'**impegno** a fornirli. ⚠️ I corrispettivi elencati sono **quattro**: onorari, commissioni, benefici monetari, benefici **non** monetari **di terzi**.
+**Opzione:** Quando gli acquirenti devono fornire o impegnarsi a fornire dati personali all'emittente, o quando l'emittente riceve onorari, commissioni, benefici monetari o benefici non monetari di terzi.
+**Distrattori:**
+- Quando gli acquirenti devono fornire dati personali all'emittente, restando irrilevante il mero impegno a fornirli in futuro.
+- Quando l'emittente riceve onorari, commissioni o benefici monetari, restando irrilevanti i benefici non monetari di terzi.
+- Quando l'offerta è rivolta a più di 150 persone per ogni Stato membro, anche in assenza di qualsiasi corrispettivo.
+
+**D:** ⚠️ Come è formulata l'esenzione relativa agli investitori qualificati?
+**R:** «**L'offerta al pubblico delle cripto-attività è rivolta esclusivamente agli investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.**» ⚠️ I requisiti sono **due e cumulativi**: l'offerta **rivolta esclusivamente** a investitori qualificati *e* la **detenibilità solo** da parte loro — la coda è il punto su cui lavora la *coda sostituita*. Il docente li descrive come «banche, intermediari finanziari, **non persone fisiche, soggetti individuali**».
+**Opzione:** L'offerta è rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
+**Distrattori:**
+- L'offerta è rivolta esclusivamente a investitori qualificati, restando libera la successiva circolazione delle cripto-attività fra il pubblico.
+- L'offerta è rivolta prevalentemente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
+- L'offerta è rivolta esclusivamente a investitori qualificati residenti nell'Unione e le cripto-attività possono essere detenute solo da tali investitori.
+
+**D:** ⚠️ Che limite pone l'articolo 4, paragrafo 3, all'offerta di utility token relativi a un servizio non ancora operativo?
+**R:** «**Se l'offerta al pubblico di cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica ha come oggetto utility token relativi a un servizio non ancora operativo, la durata dell'offerta pubblica quale descritta nel White Paper sulle cripto-attività non supera i 12 mesi.**» ⚠️ È un limite di **durata dell'offerta**, non una soglia di importo, e si misura su quanto è «**descritt\[o] nel White Paper**». ⚠️ Sta **solo sulla slide**: il transcript non lo cita.
+**Opzione:** La durata dell'offerta pubblica, quale descritta nel white paper, non può superare i 12 mesi.
+**Distrattori:**
+- La durata dell'offerta pubblica, quale descritta nel white paper, non può superare i 24 mesi.
+- Il corrispettivo totale dell'offerta, quale descritto nel white paper, non può superare 1 000 000 EUR.
+- L'offerta pubblica è vietata fino a quando il servizio non sia divenuto operativo.
+
+**D:** Che cosa deve contenere il white paper sulle cripto-attività secondo l'articolo 5?
+**R:** **Sette** voci: «**a) una descrizione dettagliata dell'emittente e una presentazione dei principali partecipanti all'elaborazione e allo sviluppo del progetto**»; «**b) una descrizione dettagliata del progetto dell'emittente, del tipo di cripto-attività… dei motivi… e dell'uso previsto della moneta fiduciaria o di altre cripto-attività raccolte tramite l'offerta al pubblico**»; «**c) una descrizione dettagliata delle caratteristiche dell'offerta al pubblico**»; «**d) una descrizione dettagliata dei diritti e degli obblighi connessi alle cripto-attività e delle procedure e condizioni per l'esercizio di tali diritti**»; «**e) informazioni sulla tecnologia e gli standard sottostanti**»; «**f) una descrizione dettagliata dei rischi**»; e infine «**gli elementi informativi specificati nell'allegato I**» \[la slide etichetta questa voce «a)», refuso per *g)*]. ⚠️ Il rinvio all'**allegato I** è la voce che il transcript omette.
+**Opzione:** Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto dei fondi raccolti; caratteristiche dell'offerta; diritti e obblighi connessi; informazioni su tecnologia e standard; descrizione dei rischi; elementi informativi specificati nell'allegato I.
+**Distrattori:**
+- Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto dei fondi raccolti; caratteristiche dell'offerta; diritti e obblighi connessi; informazioni su tecnologia e standard; descrizione dei rischi; bilanci certificati degli ultimi tre esercizi.
+- Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività e dei motivi dell'offerta; caratteristiche dell'offerta; diritti e obblighi connessi; informazioni su tecnologia e standard; descrizione dei rischi; elementi informativi specificati nell'allegato I.
+- Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto dei fondi raccolti; caratteristiche dell'offerta; diritti e obblighi connessi; parere legale di un professionista indipendente; descrizione dei rischi; elementi informativi specificati nell'allegato I.
+
+**D:** Quali dati deve indicare il white paper sulle caratteristiche dell'offerta al pubblico?
+**R:** «**Una descrizione dettagliata delle caratteristiche dell'offerta al pubblico, in particolare il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e i termini e le condizioni di sottoscrizione.**» ⚠️ **Tre** dati: **numero**, **prezzo di emissione**, **termini e condizioni di sottoscrizione**.
+**Opzione:** Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione e i termini e le condizioni di sottoscrizione.
+**Distrattori:**
+- Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione e il valore di mercato atteso alla chiusura dell'offerta.
+- Il numero di cripto-attività emesse o ammesse alla negoziazione e i termini e le condizioni di sottoscrizione, restando il prezzo determinabile successivamente.
+- Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione, i termini e le condizioni di sottoscrizione e il rendimento minimo garantito.
+
+**D:** Che cosa devono coprire, nel white paper, le informazioni sulla tecnologia e la descrizione dei rischi?
+**R:** La tecnologia: «**informazioni sulla tecnologia e gli standard sottostanti applicati dall'emittente delle cripto-attività che consentono la detenzione, la conservazione e il trasferimento di tali cripto-attività**» — **tre** operazioni. I rischi: «**una descrizione dettagliata dei rischi relativi all'emittente delle cripto-attività, alle cripto-attività, all'offerta al pubblico delle cripto-attività e all'attuazione del progetto**» — **quattro** oggetti di rischio, fra cui l'**attuazione del progetto**.
+**Opzione:** La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico e all'attuazione del progetto.
+**Distrattori:**
+- La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività e all'offerta al pubblico.
+- La tecnologia e gli standard che consentono l'emissione e la distruzione dei token; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico e all'attuazione del progetto.
+- La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico, all'attuazione del progetto e all'andamento generale dei mercati finanziari.
+
+**D:** Quali obblighi di forma valgono per il white paper sulle cripto-attività?
+**R:** «**Informazioni corrette, chiare e non fuorvianti**» e «**forma concisa e comprensibile**», più la **dichiarazione obbligatoria** di responsabilità esclusiva dell'emittente, le **quattro** avvertenze sui rischi delle cripto-attività e la «**dichiarazione di responsabilità dell'organo amministrativo**». ⚠️ Gli attributi sono **tre + due**: *corrette, chiare, non fuorvianti* per le informazioni; *concisa e comprensibile* per la forma. ⚠️ Il docente vi legge il principio di **accountability**, «così frequente negli ordinamenti anglosassoni».
+**Opzione:** Informazioni corrette, chiare e non fuorvianti; forma concisa e comprensibile; la dichiarazione di responsabilità esclusiva dell'emittente; le avvertenze sui rischi delle cripto-attività; la dichiarazione di responsabilità dell'organo amministrativo.
+**Distrattori:**
+- Informazioni corrette, chiare e non fuorvianti; forma analitica ed esaustiva; la dichiarazione di responsabilità esclusiva dell'emittente; le avvertenze sui rischi delle cripto-attività; la dichiarazione di responsabilità dell'organo amministrativo.
+- Informazioni corrette, chiare e non fuorvianti; forma concisa e comprensibile; la dichiarazione di responsabilità esclusiva dell'emittente; le avvertenze sui rischi delle cripto-attività; l'attestazione di conformità rilasciata dall'autorità competente.
+- Informazioni corrette, chiare e non fuorvianti; forma concisa e comprensibile; la dichiarazione di responsabilità solidale dei sottoscrittori istituzionali; le avvertenze sui rischi delle cripto-attività; la dichiarazione di responsabilità dell'organo amministrativo.
+
+**D:** ⚠️ Quale dichiarazione deve obbligatoriamente contenere il white paper sulle cripto-attività?
+**R:** «**L'emittente delle cripto-attività è l'unico responsabile del contenuto del presente White Paper, il quale non è stato esaminato o approvato da alcuna autorità competente in alcuno Stato membro dell'Unione europea.**» ⚠️ È il pendant testuale dell'**art. 7, par. 1** (nessuna approvazione ex ante) e sta **solo sulla slide**. ⚠️ I quantificatori sono **due e assoluti** — «**alcuna** autorità competente», «**alcuno** Stato membro» — e la responsabilità è **esclusiva** dell'emittente.
+**Opzione:** Che l'emittente è l'unico responsabile del contenuto del white paper, il quale non è stato esaminato o approvato da alcuna autorità competente in alcuno Stato membro dell'Unione europea.
+**Distrattori:**
+- Che l'emittente è l'unico responsabile del contenuto del white paper, il quale è stato esaminato e approvato dall'autorità competente dello Stato membro d'origine.
+- Che l'emittente e l'organo amministrativo sono responsabili in solido del contenuto del white paper, il quale non è stato esaminato o approvato da alcuna autorità competente.
+- Che l'emittente è l'unico responsabile del contenuto del white paper, il quale è stato notificato all'autorità competente ai fini della sua approvazione tacita.
+
+**D:** ⚠️ Quali avvertenze sulle cripto-attività deve contenere il white paper?
+**R:** **Quattro**, in «dichiarazione chiara ed inequivocabile»: «**a) le cripto-attività possono perdere tutto il loro valore o parte di esso**»; «**b) le cripto-attività possono non essere sempre trasferibili**»; «**c) le cripto-attività possono non essere liquide**»; «**d) se l'offerta al pubblico ha come oggetto utility token, tali token possono non essere scambiabili con il bene o servizio promesso nel White Paper sulle cripto-attività, soprattutto in caso di fallimento o abbandono del progetto**». ⚠️ Il transcript cita **solo la prima**: le altre tre stanno **solo sulla slide**. ⚠️ La quarta è **condizionata** agli **utility token** e ha una coda, «soprattutto in caso di **fallimento o abbandono del progetto**».
+**Opzione:** Che le cripto-attività possono perdere tutto il valore o parte di esso; che possono non essere sempre trasferibili; che possono non essere liquide; e, per gli utility token, che possono non essere scambiabili con il bene o servizio promesso, soprattutto in caso di fallimento o abbandono del progetto.
+**Distrattori:**
+- Che le cripto-attività possono perdere tutto il valore o parte di esso; che possono non essere sempre trasferibili; che possono non essere liquide; e, per gli utility token, che il bene o servizio promesso è garantito dall'emittente anche in caso di fallimento del progetto.
+- Che le cripto-attività possono perdere tutto il valore o parte di esso; che sono sempre trasferibili ma possono non essere liquide; e, per gli utility token, che possono non essere scambiabili con il bene o servizio promesso, soprattutto in caso di fallimento o abbandono del progetto.
+- Che le cripto-attività possono perdere parte del loro valore ma non l'intero; che possono non essere sempre trasferibili; che possono non essere liquide; e, per gli utility token, che possono non essere scambiabili con il bene o servizio promesso.
+
+**D:** Che cos'è la sintesi del white paper e a che scopo è prevista?
+**R:** «**Il White Paper sulle cripto-attività contiene una sintesi che, in breve e in un linguaggio non tecnico, fornisce informazioni fondamentali sull'offerta al pubblico delle cripto-attività o sulla prevista ammissione… alla negoziazione… e in particolare sugli elementi essenziali delle cripto-attività in questione. Il formato e il contenuto della sintesi… forniscono, insieme al White Paper…, informazioni adeguate sugli elementi essenziali… al fine di aiutarne i potenziali acquirenti a prendere una decisione informata.**» ⚠️ **Due** qualificazioni della forma («in breve», «in un linguaggio non tecnico») e **due livelli** di informazione: «**fondamentali**» quelle della sintesi, «**adeguate**» quelle che sintesi e white paper danno **insieme**. Il docente la chiama «una sorta di **executive summary**», prevista perché «gli investitori molto spesso si affidano quasi esclusivamente a queste sintesi».
+**Opzione:** Una sintesi che in breve e in linguaggio non tecnico fornisce informazioni fondamentali sull'offerta e sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per una decisione informata.
+**Distrattori:**
+- Una sintesi che in breve e in linguaggio tecnico fornisce informazioni fondamentali sull'offerta e sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per una decisione informata.
+- Una sintesi che in breve e in linguaggio non tecnico fornisce informazioni adeguate sull'offerta e sugli elementi essenziali delle cripto-attività, e che da sola è sufficiente a fondare la decisione di acquisto.
+- Un documento autonomo, redatto in linguaggio non tecnico, che sostituisce il white paper nelle offerte rivolte esclusivamente a consumatori.
+
+**D:** ⚠️ Quale avvertenza deve contenere la sintesi del white paper?
+**R:** **Quattro** voci: «**a) dovrebbe essere letta come un'introduzione al White Paper**»; «**b) il potenziale acquirente dovrebbe basare la decisione di acquistare una cripto-attività sul contenuto dell'intero White Paper**»; «**c) l'offerta al pubblico di cripto-attività non costituisce un'offerta o una sollecitazione alla vendita di strumenti finanziari e una simile offerta… può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale**»; «**d) il White Paper sulle cripto-attività non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 o un altro documento di offerta**». ⚠️ Le due voci finali tracciano la **linea di confine col diritto dei mercati**, e il numero **2017/1129** sta **solo sulla slide** (il docente dice «la direttiva dei prospetti», che è invece un **regolamento**).
+**Opzione:** Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto va basata sull'intero documento; che l'offerta di cripto-attività non è offerta o sollecitazione alla vendita di strumenti finanziari; che il white paper non costituisce un prospetto né altro documento di offerta.
+**Distrattori:**
+- Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto può essere basata sulla sola sintesi; che l'offerta di cripto-attività non è offerta o sollecitazione alla vendita di strumenti finanziari; che il white paper non costituisce un prospetto né altro documento di offerta.
+- Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto va basata sull'intero documento; che l'offerta di cripto-attività costituisce sollecitazione alla vendita di strumenti finanziari; che il white paper non costituisce un prospetto né altro documento di offerta.
+- Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto va basata sull'intero documento; che l'offerta di cripto-attività non è offerta o sollecitazione alla vendita di strumenti finanziari; che il white paper equivale a un prospetto ai fini della disciplina dell'Unione.
+
+**D:** ⚠️ Il white paper e le comunicazioni di marketing devono essere approvati dall'autorità competente?
+**R:** No: «**Le autorità competenti non richiedono l'approvazione ex ante di un White Paper sulle cripto-attività né di comunicazioni di marketing ad esso relative prima della loro pubblicazione**» (art. 7, par. 1). ⚠️ L'assenza di approvazione copre **due** oggetti — il **white paper** *e* le **comunicazioni di marketing** — ma **non** elimina la **notifica**, che resta obbligatoria: il docente lo spiega così, «seppure non c'è un'approvazione, però c'è la possibilità per l'autorità di esprimere **osservazioni** o di richiedere **informazioni o modifiche** prima della pubblicazione». ⚠️ Confondere «nessuna approvazione ex ante» con «nessun obbligo verso l'autorità» è l'errore tipico.
+**Opzione:** No: non è richiesta alcuna approvazione ex ante, né del white paper né delle comunicazioni di marketing, ma entrambi vanno notificati prima della pubblicazione.
+**Distrattori:**
+- No: non è richiesta alcuna approvazione ex ante del white paper, mentre le comunicazioni di marketing restano soggette ad approvazione preventiva.
+- Sì: entrambi devono essere approvati dall'autorità competente dello Stato membro d'origine prima della pubblicazione.
+- No: non è richiesta alcuna approvazione ex ante e nessun adempimento verso l'autorità competente prima della pubblicazione.
+
+**D:** ⚠️ Entro quale termine e a quale autorità va notificato il white paper?
+**R:** «**Gli emittenti di cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica notificano il proprio White Paper… e, nel caso delle comunicazioni di marketing di cui all'articolo 6, tali comunicazioni di marketing all'autorità competente del loro Stato membro d'origine almeno 20 giorni lavorativi prima della pubblicazione del White Paper sulle cripto-attività. Tale autorità competente può esercitare i poteri di cui all'articolo 82, paragrafo 1.**» ⚠️ **20 giorni lavorativi**, non di calendario — da non confondere con i **14 giorni di calendario** del diritto di recesso — e l'autorità è quella dello **Stato membro d'origine**.
+**Opzione:** All'autorità competente dello Stato membro d'origine, almeno 20 giorni lavorativi prima della pubblicazione del white paper.
+**Distrattori:**
+- All'autorità competente dello Stato membro d'origine, almeno 20 giorni di calendario prima della pubblicazione del white paper.
+- All'autorità competente dello Stato membro d'origine, almeno 14 giorni lavorativi prima della pubblicazione del white paper.
+- All'Autorità europea degli strumenti finanziari e dei mercati, almeno 20 giorni lavorativi prima della pubblicazione del white paper.
+
+**D:** Che cosa prevedono gli articoli 8 e 10 sulla pubblicazione del white paper e sui suoi effetti?
+**R:** L'art. 8: gli emittenti pubblicano «**entro la data di inizio dell'offerta al pubblico… o dell'ammissione… alla negoziazione**», e «**la versione del White Paper… pubblicato… è identica a quella notificata all'autorità competente**». L'art. 10: «**dopo la pubblicazione del White Paper… gli emittenti… possono offrire le proprie cripto-attività… in tutta l'Unione**», e chi ha pubblicato conformemente all'art. 8 «**non è soggett\[o] a ulteriori obblighi di informativa per quanto riguarda l'offerta di dette cripto-attività**». ⚠️ L'**identità fra versione notificata e pubblicata** è ciò che chiude il meccanismo dell'art. 7: senza approvazione ex ante, il controllo sta nell'impossibilità di pubblicare un testo diverso. ⚠️ L'art. 10 produce **due** effetti: il **passaporto europeo** e l'**esaurimento dell'informativa**. ⚠️ Entrambi gli articoli stanno **solo sulle slide**.
+**Opzione:** La pubblicazione entro la data di inizio dell'offerta, in versione identica a quella notificata; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione senza ulteriori obblighi di informativa.
+**Distrattori:**
+- La pubblicazione entro la data di inizio dell'offerta, in versione anche diversa da quella notificata purché più completa; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione senza ulteriori obblighi di informativa.
+- La pubblicazione entro venti giorni dall'inizio dell'offerta, in versione identica a quella notificata; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione senza ulteriori obblighi di informativa.
+- La pubblicazione entro la data di inizio dell'offerta, in versione identica a quella notificata; e, dopo la pubblicazione, la possibilità di offrire nel solo Stato membro d'origine, salva notifica alle altre autorità competenti.
+
+**D:** ⚠️ Che cosa prevede l'articolo 12 sul diritto di recesso?
+**R:** «**Gli emittenti… offrono un diritto di recesso a qualsiasi consumatore… I consumatori hanno a disposizione 14 giorni di calendario per revocare il loro consenso all'acquisto… senza incorrere in alcun costo e senza fornire alcuna motivazione… Tutti i pagamenti ricevuti da un consumatore… sono rimborsati senza indebito ritardo e in ogni caso entro 14 giorni.**» ⚠️ I **14 giorni** sono «**di calendario**» e ricorrono **due volte con funzione diversa**: termine per **revocare** e termine massimo per il **rimborso**. ⚠️ Il titolare è il **consumatore**, non l'investitore in genere. Il docente lo riconosce come il **cooling off period** del codice del consumo e lo chiama un **safe harbor**, pur giudicando «14 giorni un termine assurdo per il fintech».
+**Opzione:** Un diritto di recesso per qualsiasi consumatore, esercitabile entro 14 giorni di calendario senza costi e senza motivazione, con rimborso dei pagamenti senza indebito ritardo e in ogni caso entro 14 giorni.
+**Distrattori:**
+- Un diritto di recesso per qualsiasi investitore, anche professionale, esercitabile entro 14 giorni di calendario senza costi e senza motivazione, con rimborso dei pagamenti entro 14 giorni.
+- Un diritto di recesso per qualsiasi consumatore, esercitabile entro 14 giorni lavorativi senza costi ma con obbligo di motivazione, con rimborso dei pagamenti entro 14 giorni.
+- Un diritto di recesso per qualsiasi consumatore, esercitabile entro 14 giorni di calendario senza costi e senza motivazione, con rimborso dei pagamenti entro 30 giorni e trattenuta delle spese di transazione.
+
+**D:** ⚠️ Quali obblighi pone l'articolo 13 agli emittenti di cripto-attività?
+**R:** **Quattro**: che «**agiscano in modo onesto, corretto e professionale**»; che «**comunichino in maniera chiara e non fuorviante**»; la «**promozione della parità di trattamento tra i possessori di cripto-attività (se non diversamente previsto dal White Paper)**»; e, «**in caso di annullamento dell'offerta al pubblico, restituzione dei fondi raccolti**». ⚠️ Il **quarto obbligo manca dal transcript**. ⚠️ La parità di trattamento ha una **deroga** — «se non diversamente previsto dal White Paper» — che un distrattore può sopprimere per farne un obbligo assoluto. ⚠️ L'art. 13 detta la **condotta**; la **responsabilità** è nell'**art. 14**.
+**Opzione:** Agire in modo onesto, corretto e professionale; comunicare in maniera chiara e non fuorviante; promuovere la parità di trattamento fra i possessori, se non diversamente previsto dal white paper; restituire i fondi raccolti in caso di annullamento dell'offerta al pubblico.
+**Distrattori:**
+- Agire in modo onesto, corretto e professionale; comunicare in maniera chiara e non fuorviante; promuovere in ogni caso la parità di trattamento fra i possessori; restituire i fondi raccolti in caso di annullamento dell'offerta al pubblico.
+- Agire in modo onesto, corretto e professionale; comunicare in maniera chiara e non fuorviante; promuovere la parità di trattamento fra i possessori, se non diversamente previsto dal white paper; rispondere dei danni derivanti dalla violazione degli obblighi sul contenuto del white paper.
+- Agire in modo onesto, corretto e professionale; comunicare in maniera chiara e non fuorviante; promuovere la parità di trattamento fra i possessori, se non diversamente previsto dal white paper; restituire i fondi raccolti entro cinque anni dall'annullamento dell'offerta.
+
+**D:** ⚠️ Che cosa prevede l'articolo 14 sulla responsabilità degli emittenti?
+**R:** **Tre** previsioni: che gli emittenti «**siano responsabili in caso di violazione dell'articolo 5**», e allora «**il possessore delle cripto-attività può chiedere un risarcimento, a tale emittente… per i danni che gli sono stati arrecati a causa di detta violazione**»; «**che la clausola di esclusione della responsabilità civile sia priva di qualsiasi effetto giuridico**»; e che l'onere della prova spetti al possessore. ⚠️ La responsabilità è agganciata a **una sola norma, l'art. 5** (contenuto e forma del white paper, compresa la sintesi), **non** al regolamento in generale: il transcript dice invece genericamente «violazioni degli articoli del MiCAR». ⚠️ **Art. 13 = condotta, art. 14 = responsabilità**: per i quiz vale la slide.
+**Opzione:** La responsabilità dell'emittente per violazione delle norme su contenuto e forma del white paper, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico del possessore.
+**Distrattori:**
+- La responsabilità dell'emittente per la violazione di qualsiasi disposizione del regolamento, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico del possessore.
+- La responsabilità dell'emittente per violazione delle norme su contenuto e forma del white paper, con diritto al risarcimento del possessore; la validità delle clausole di esclusione della responsabilità civile se riportate nel white paper; l'onere della prova a carico del possessore.
+- La responsabilità dell'emittente per violazione delle norme su contenuto e forma del white paper, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico dell'emittente.
+
+**D:** ⚠️ Su chi grava l'onere della prova in caso di violazione dell'articolo 5, e che cosa deve provare?
+**R:** «**Spetta al possessore di cripto-attività presentare prove attestanti che l'emittente… ha violato l'articolo 5 e che tale violazione ha avuto un impatto sulla sua decisione di acquistare, vendere o scambiare dette cripto-attività.**» ⚠️ Gli oggetti della prova sono **due e cumulativi**: la **violazione** *e* il suo **impatto sulla decisione**. ⚠️ Le decisioni rilevanti sono **tre**: **acquistare, vendere o scambiare**. Il docente lo inquadra come «l'onere della prova classico»: l'investitore deve provare che c'è stato un *breach* nella fede nelle informazioni fornite «attraverso il white paper o la sintesi del documento».
+**Opzione:** Sul possessore delle cripto-attività, che deve provare sia la violazione sia il suo impatto sulla propria decisione di acquistare, vendere o scambiare le cripto-attività.
+**Distrattori:**
+- Sull'emittente, che deve provare di non avere violato la norma o che la violazione non ha inciso sulla decisione del possessore.
+- Sul possessore delle cripto-attività, che deve provare la violazione, restando presunto il suo impatto sulla decisione di acquistare, vendere o scambiare le cripto-attività.
+- Sul possessore delle cripto-attività, che deve provare sia la violazione sia il suo impatto sulla propria decisione di acquistare, con esclusione delle decisioni di vendita o di scambio.
+
+**D:** ⚠️ Che discrepanza c'è fra slide e transcript sulla ripartizione fra articolo 13 e articolo 14?
+**R:** Il transcript attribuisce all'**art. 13** anche la **responsabilità** per le violazioni, la **nullità della clausola di esclusione** e l'**onere della prova**, che la slide 12 colloca invece sotto l'**art. 14**; e omette il quarto obbligo dell'art. 13, la **restituzione dei fondi** in caso di annullamento dell'offerta. ⚠️ Non è una storpiatura dell'ASR: è una **disciplina spostata da un articolo all'altro**. Chi studia sul transcript risponderebbe «art. 13» a una domanda sull'onere della prova. ⚠️ Vale la regola del corso: le opzioni sono **citazioni letterali delle slide**, quindi in caso di conflitto **fa testo la slide**.
+
+**D:** Perché l'Unione Europea ha adottato il MiCAR?
+**R:** Per porre fine a **due mali**, secondo il docente: la «**enorme frammentazione regolamentare**», con regole prese in prestito «da altre discipline — ricordiamo la **MIFID**, ricordiamo la **CSDR**» in mancanza di «un regolamento **pensato esclusivamente per le criptoattività**»; e il **regulatory shopping**, «una **ricerca continua**… della **nazione più conveniente da un punto di vista regolamentare**… quello shopping che viene fatto quando ogni stato regolamenta in modo diverso delle attività». Le conseguenze erano «molta **confusione** nel mercato sulle regole applicabili» e «molta **insicurezza** per i nuovi investitori e i nuovi operatori», esposti a «**incertezza normativa**» e «possibili **sanzioni**». L'alternativa era «una sorta di **far west** in cui non si capisce cosa è permesso e cosa non è permesso». ⚠️ Solo nel transcript ([00:00:06]).
+
+**D:** Che cosa sono le «definizioni contenitore» del MiCAR, e quale pregio e quale difetto hanno?
+**R:** Sono le **definizioni di compromesso** dell'art. 3, «**definizioni che abbracciano quanto più possibile tutto lo spettro delle attività possibili**». Il **pregio** sta «nella **elasticità** e nella **duttilità**… la possibilità di farvi rientrare **sempre più attività**»; il **difetto** — «il *downside*, il contra di questo punto» — è che «ci può essere una **indeterminatezza**, ci possono essere delle **aree grigie** con i nuovi prodotti e le nuove attività». ⚠️ Il docente le giustifica con la **gestazione lunga** del regolamento: «ogni **mese** passato a dialogare sulla migliore formulazione… era un **mese perso** per includere… nuove attività e nuove tecnologie», perché «un conto è fare un regolamento per un **prodotto tradizionale bancario**, che quello è e quello rimane, e un conto è farlo per dei prodotti che **settimanalmente e mensilmente mutano la loro veste**». ⚠️ Solo nel transcript ([00:03:10]).
+
+**D:** Perché la gestazione del MiCAR ha richiesto tanto tempo, secondo il docente?
+**R:** Perché «si stava esplorando una realtà **completamente nuova** e soprattutto con un **retaggio politico molto diversificato** a seconda dello stato membro». Le ragioni della diversità fra Stati sono **tre**: «la **propensione al rischio** che queste autorità di vigilanza hanno», «la **raffinatezza degli investitori e degli utenti** che ci sono in una determinata nazione» e «il **grado di innovazione delle infrastrutture** che queste nazioni hanno». Di qui la necessità di «trovare un testo che valesse per tutte le nazioni e che fosse un **compromesso accettabile**». ⚠️ Solo nel transcript ([00:03:10]).
+
+**D:** Come giudica il docente il metodo del legislatore europeo nel MiCAR?
+**R:** Con **ambivalenza**. La critica: «anche in questo caso il legislatore ha voluto creare una sorta di **level playing field** con gli obblighi informativi degli **strumenti finanziari tradizionali**. Certo che **stona sempre un po'** in un mondo innovativo come quello del diritto del fintech pensare alla necessità di **rifarsi ai canoni utilizzati ormai da decenni**»; e l'alternativa non presa, «oggetto di dibattito anche dalla **dottrina**»: «avrebbe potuto creare **meno informazioni, meno set informativi, meno quantità di informazioni da digerire** per gli investitori». Il merito: «una grossa **apprezione** \[*sic*] che il legislatore ha è proprio quella di essere sicuro che **chi investe in criptoattività capisca di che cosa si parli**». Il bilancio finale: inclusione «in senso così largo, così ampio, e… a volte anche un po' **atecnico**» — perché «**alcune tecnologie non erano ancora presenti nel momento di gestazione del MiCAR**… il legislatore **non le conosceva neanche**, ma era **più preoccupato di includerle**» — e «un criterio di, **non direi copiatura, ma… di sguardo attento alla normativa di settore tradizionale**». ⚠️ È la stessa tesi già sostenuta sul **Regolamento DLT** («tecnica del rimando») e sulla **fiscalità** («forzatura»). ⚠️ Solo nel transcript ([00:12:08], finale).
