@@ -7490,3 +7490,215 @@
 
 **D:** Come valuta il docente il peso complessivo dei pilastri del DORA?
 **R:** «I pilastri del DORA — **resilienza, outsourcing e rischi critici delle terze parti, risk management, incidenti operativi** — sono tutti pilastri di per sé **molto onerosi**, che avrebbero paradossalmente potuto costituire anche **materia per un regolamento singolo per ogni singola materia**. Quindi è un regolamento che nel *draft technical standard* dirà molto… da un punto di vista anche dell'**implementazione**». ⚠️ L'osservazione spiega perché il quadro resti incompleto fino agli **RTS**: «siamo ancora in una **fase prodromica**». ⚠️ Solo nel transcript ([00:02:45]).
+
+## Lezione 28 — Focus — La Regulatory Sandbox in Italia (1)
+
+**D:** ⚠️ Quali sono i concetti chiave della Regulatory Sandbox italiana?
+**R:** **Sei**, nell'ordine della slide: «**Innovazione**» — l'attività «deve essere "**significativamente innovativa**"»; «**Sperimentazione**» — «**regime sperimentale per lo studio, il miglioramento e il lancio di prodotti/servizi sul mercato**»; «**Monitoraggio**» — «**relazioni semestrali sullo stato di avanzamento del regime di verifica**»; «**Contatti informali**» — «**canali di comunicazione innovativi tra le autorità di regolamentazione e gli operatori FinTech**»; «**Proporzionalità**» — interventi «**limitati a quanto strettamente necessario**… **con il minor sacrificio possibile del richiedente**»; «**Deroghe**» — «**eccezioni al regime normativo abituale**». ⚠️ Per il docente i due decisivi sono **innovazione e sperimentazione**, più la **proporzionalità**.
+**Opzione:** Innovazione, sperimentazione, monitoraggio, contatti informali, proporzionalità e deroghe.
+**Distrattori:**
+- Innovazione, sperimentazione, monitoraggio, contatti formali, proporzionalità e deroghe.
+- Innovazione, sperimentazione, monitoraggio, contatti informali, proporzionalità e armonizzazione massima delle regole.
+- Innovazione, standardizzazione, monitoraggio, contatti informali, proporzionalità e deroghe.
+
+**D:** ⚠️ Che cosa significa che l'attività proposta deve essere «significativamente innovativa»?
+**R:** «**L'attività proposta dal richiedente deve essere "significativamente innovativa" (cioè non ancora presente sul mercato o alternativa a quelle esistenti, idonea a migliorare l'offerta di prodotti/servizi correlati sul mercato).**» ⚠️ La parentesi scioglie il requisito in **due alternative** — «**non ancora presente sul mercato**» **o** «**alternativa a quelle esistenti**» — più una **condizione di risultato**: «**idonea a migliorare l'offerta**». ⚠️ Per il docente è il primo filtro d'accesso: «**nessuno accede alla regulatory sandbox se l'autorità di vigilanza non ritiene che ci siano questi concetti**», perché sarebbe «**ingiusto nei confronti di altri operatori di mercato**».
+**Opzione:** Non ancora presente sul mercato o alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
+**Distrattori:**
+- Non ancora presente sul mercato e alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
+- Non ancora presente sul mercato o alternativa a quelle esistenti, e idonea a ridurre i costi di conformità dell'operatore.
+- Già presente sul mercato ma proposta con modalità tecnologiche alternative, e idonea a migliorare l'offerta di prodotti o servizi correlati.
+
+**D:** ⚠️ In che cosa consiste il monitoraggio delle autorità di vigilanza nella Sandbox?
+**R:** «**L'attività delle autorità di vigilanza competenti consiste nell'emissione di relazioni semestrali sullo stato di avanzamento del regime di verifica.**» ⚠️ La cadenza è **semestrale** ed è l'unico termine temporale della slide dei concetti chiave. ⚠️ L'oggetto è lo «**stato di avanzamento del regime di verifica**», non la vigilanza ordinaria sull'operatore.
+**Opzione:** Nell'emissione di relazioni semestrali sullo stato di avanzamento del regime di verifica.
+**Distrattori:**
+- Nell'emissione di relazioni trimestrali sullo stato di avanzamento del regime di verifica.
+- Nell'emissione di relazioni annuali sullo stato di avanzamento del regime di verifica.
+- Nello svolgimento di ispezioni semestrali presso la sede dell'operatore ammesso alla sperimentazione.
+
+**D:** ⚠️ Come è formulato il principio di proporzionalità nella Sandbox italiana?
+**R:** «**Gli interventi delle autorità devono essere limitati a quanto strettamente necessario per raggiungere gli obiettivi della Sandbox, con il minor sacrificio possibile del richiedente, garantendo al contempo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.**» ⚠️ **Tre** elementi: il **limite** («quanto strettamente necessario»), il **criterio** («il minor sacrificio possibile del richiedente») e il **contrappeso** («adeguata tutela dei consumatori, degli investitori e del mercato dei capitali» — l'ASR storpia in «mercato dei **capitani**»). ⚠️ È il principio da cui discende che i requisiti d'ammissione, pur nelle stesse categorie di un'autorizzazione ordinaria, hanno «**soglie molto più basse**».
+**Opzione:** Gli interventi delle autorità sono limitati a quanto strettamente necessario per gli obiettivi della sandbox, col minor sacrificio possibile del richiedente, garantendo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.
+**Distrattori:**
+- Gli interventi delle autorità sono limitati a quanto strettamente necessario per gli obiettivi della sandbox, col minor sacrificio possibile del richiedente, senza che sia richiesta alcuna tutela ulteriore dei consumatori e degli investitori.
+- Gli interventi delle autorità sono limitati a quanto strettamente necessario per gli obiettivi della sandbox, col minor sacrificio possibile dei consumatori, garantendo un'adeguata tutela degli operatori ammessi.
+- Gli interventi delle autorità seguono le medesime intensità previste per gli operatori autorizzati in via ordinaria, garantendo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.
+
+**D:** Quali sono i provvedimenti normativi chiave della Sandbox italiana?
+**R:** **Tre**: «**Decreto Legge n. 34/2019 – («Decreto Crescita»): ha istituito il Comitato FinTech e la Sandbox (convertito nella Legge n. 58/2019)**»; «**Decreto Legislativo n. 76/2020 («Decreto Semplificazioni»): ha introdotto la firma elettronica avanzata e l'identità digitale per accedere ai servizi bancari**»; «**Decreto Ministeriale n. 100/2021: ha introdotto disposizioni di attuazione relative al Comitato FinTech e alla Sandbox**». ⚠️ **Tutti i numeri stanno solo sulla slide**: il transcript nomina i decreti solo per soprannome, salvo il **DM 100 del 2021**. ⚠️ **Istituzione e attuazione non vanno confuse**: istituisce il **Decreto Crescita** (Legge 58/2019), attua il **DM 100/2021**.
+**Opzione:** Il Decreto Legge n. 34/2019, convertito nella Legge n. 58/2019, che ha istituito Comitato FinTech e Sandbox; il Decreto Legislativo n. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il Decreto Ministeriale n. 100/2021, con le disposizioni di attuazione.
+**Distrattori:**
+- Il Decreto Legge n. 34/2019, convertito nella Legge n. 58/2019, che ha introdotto le disposizioni di attuazione; il Decreto Legislativo n. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il Decreto Ministeriale n. 100/2021, che ha istituito Comitato FinTech e Sandbox.
+- Il Decreto Legge n. 34/2019, convertito nella Legge n. 58/2019, che ha istituito Comitato FinTech e Sandbox; il Decreto Legislativo n. 76/2020, che ha introdotto l'obbligo di identità digitale per l'accesso alla sandbox; il Decreto Ministeriale n. 100/2021, con le disposizioni di attuazione.
+- Il Decreto Legge n. 58/2019, convertito nella Legge n. 34/2019, che ha istituito Comitato FinTech e Sandbox; il Decreto Legislativo n. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il Decreto Ministeriale n. 100/2021, con le disposizioni di attuazione.
+
+**D:** ⚠️ Con quale atto è stata istituita la FinTech Sandbox italiana e con quale è regolamentata?
+**R:** «**La FinTech Sandbox italiana (la "Sandbox"), istituita con la Legge n. 58/2019, è regolamentata dal Decreto Ministeriale n. 100/2021, che stabilisce anche le regole che disciplinano il Comitato FinTech.**» ⚠️ **Due atti, due funzioni**: **istituzione** con la **Legge 58/2019** (conversione del Decreto Crescita), **regolamentazione** con il **DM 100/2021**, che disciplina anche il **Comitato FinTech**.
+**Opzione:** Istituita con la Legge n. 58/2019 e regolamentata dal Decreto Ministeriale n. 100/2021.
+**Distrattori:**
+- Istituita con il Decreto Ministeriale n. 100/2021 e regolamentata dalla Legge n. 58/2019.
+- Istituita con la Legge n. 58/2019 e regolamentata dal Decreto Legislativo n. 76/2020.
+- Istituita con il Decreto Legislativo n. 76/2020 e regolamentata dal Decreto Ministeriale n. 100/2021.
+
+**D:** ⚠️ Da chi è presieduto il Comitato FinTech e di che cosa è incaricato?
+**R:** «**Presieduto dal Ministro dell'Economia e delle Finanze e incaricato di monitorare e favorire lo sviluppo del FinTech in Italia, nonché di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.**» ⚠️ Il presidente è il **Ministro**, non il Ministero (il transcript dice «Ministero»). ⚠️ **L'incarico è doppio** e la seconda metà cade dal transcript: monitorare e favorire lo sviluppo del FinTech «**nonché**» mantenere «**i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie**».
+**Opzione:** Dal Ministro dell'Economia e delle Finanze, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia e di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.
+**Distrattori:**
+- Dal Governatore della Banca d'Italia, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia e di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.
+- Dal Ministro dell'Economia e delle Finanze, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia, restando i rapporti con le autorità estere riservati alle singole autorità di vigilanza.
+- Dal Ministro dello Sviluppo Economico, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia e di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.
+
+**D:** ⚠️ Chi sono i membri permanenti del Comitato FinTech?
+**R:** **Nove**: «**Ministero dell'Economia e dello Sviluppo; Governatore della Banca d'Italia; Presidente della CONSOB; Presidente dell'IVASS; Presidente dell'AGCOM; Garante della Privacy; Direttore dell'Agenzia per l'Italia Digitale; Direttore dell'Agenzia delle Entrate; Autorità politica delegata per gli affari europei**». La **Segreteria** è «**istituita presso il Dipartimento del Tesoro del Ministero dell'Economia e delle Finanze**». ⚠️ **Il transcript si ferma al sesto** («…Privacy e via altre autorità»): le tre voci di coda — **Direttore dell'AgID**, **Direttore dell'Agenzia delle Entrate**, **Autorità politica delegata per gli affari europei** — stanno **solo sulla slide**, come la Segreteria.
+**Opzione:** Ministero dell'Economia e dello Sviluppo, Governatore della Banca d'Italia, Presidente della CONSOB, Presidente dell'IVASS, Presidente dell'AGCOM, Garante della Privacy, Direttore dell'Agenzia per l'Italia Digitale, Direttore dell'Agenzia delle Entrate e Autorità politica delegata per gli affari europei.
+**Distrattori:**
+- Ministero dell'Economia e dello Sviluppo, Governatore della Banca d'Italia, Presidente della CONSOB, Presidente dell'IVASS, Presidente dell'AGCOM, Garante della Privacy, Direttore dell'Agenzia per l'Italia Digitale, Direttore dell'Agenzia delle Entrate e Presidente dell'Autorità garante della concorrenza e del mercato.
+- Ministero dell'Economia e dello Sviluppo, Governatore della Banca d'Italia, Presidente della CONSOB, Presidente dell'IVASS, Presidente dell'AGCOM e Garante della Privacy.
+- Ministero dell'Economia e dello Sviluppo, Governatore della Banca d'Italia, Presidente della CONSOB, Presidente dell'IVASS, Presidente dell'AGCOM, Garante della Privacy, Direttore dell'Agenzia per l'Italia Digitale, Direttore dell'Agenzia delle Entrate e rappresentanti delle associazioni di categoria del settore FinTech.
+
+**D:** ⚠️ Presso quale struttura è istituita la segreteria del Comitato FinTech?
+**R:** «**Segreteria: istituita presso il Dipartimento del Tesoro del Ministero dell'Economia e delle Finanze.**» ⚠️ Il dato sta **solo sulla slide**: il transcript non nomina affatto la segreteria. ⚠️ Non è una struttura autonoma né presso un'autorità di vigilanza: è **interna al MEF**, coerentemente con la presidenza del **Ministro dell'Economia e delle Finanze**.
+**Opzione:** Presso il Dipartimento del Tesoro del Ministero dell'Economia e delle Finanze.
+**Distrattori:**
+- Presso il Dipartimento della Ragioneria generale dello Stato del Ministero dell'Economia e delle Finanze.
+- Presso la Banca d'Italia, in quanto autorità di vigilanza capofila del Comitato.
+- Presso il Ministero dello Sviluppo Economico, che ne cura anche la presidenza.
+
+**D:** ⚠️ Quali compiti ha il Comitato FinTech?
+**R:** **Otto**: «**monitora l'evoluzione del mercato FinTech**»; «**stabilisce gli obiettivi e definisce programmi/linee guida/migliori pratiche**»; «**favorisce il dialogo tra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti**»; «**identifica le aree di rischio**»; «**collabora con le Autorità straniere**»; «**effettua proposte per interventi regolamentari**»; «**può partecipare alla fase di ammissione**»; «**tiene il registro degli operatori ammessi alla sperimentazione**». ⚠️ **Il settimo è l'unico facoltativo** — «**può** partecipare» —, mentre il transcript dice «**partecipa**». ⚠️ Il **dialogo** è con le autorità **nazionali**, la **collaborazione** con quelle **straniere**.
+**Opzione:** Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori e autorità nazionali, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte regolamentari, può partecipare alla fase di ammissione e tiene il registro degli operatori ammessi.
+**Distrattori:**
+- Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori e autorità nazionali, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte regolamentari, decide sull'ammissione alla sperimentazione e tiene il registro degli operatori ammessi.
+- Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori e autorità straniere, identifica le aree di rischio, collabora con le autorità nazionali, effettua proposte regolamentari, può partecipare alla fase di ammissione e tiene il registro degli operatori ammessi.
+- Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori e autorità nazionali, identifica le aree di rischio, collabora con le autorità straniere, adotta i provvedimenti sanzionatori, può partecipare alla fase di ammissione e tiene il registro degli operatori ammessi.
+
+**D:** ⚠️ Il Comitato FinTech partecipa alla fase di ammissione alla sperimentazione?
+**R:** **Può** parteciparvi: la slide dice «**può partecipare alla fase di ammissione**», mentre il transcript appiattisce in «**partecipa** alla fase di ammissione». ⚠️ È una **facoltà**, non un compito ordinario, e la differenza è esattamente il meccanismo della **scala deontica** catalogato in CLAUDE.md: le opzioni ripetono lo stesso contenuto cambiando il **modo del precetto** (*può* / *deve* / *non può*). ⚠️ Il compito che invece esercita in via ordinaria, e che gli dà il ruolo di «**vigilanza leggera**», è «**tiene il registro degli operatori ammessi alla sperimentazione**».
+**Opzione:** Può parteciparvi, trattandosi di una facoltà e non di un compito ordinario.
+**Distrattori:**
+- Vi partecipa sempre, trattandosi di un compito ordinario del Comitato.
+- Non può parteciparvi, essendo la fase di ammissione riservata alle sole autorità di vigilanza competenti.
+- Deve parteciparvi ogni volta che la domanda provenga da un operatore non-UE.
+
+**D:** ⚠️ Quali prodotti o servizi possono accedere alla sperimentazione della Sandbox?
+**R:** «**Prodotti o servizi tecnologicamente innovativi relativi allo svolgimento di servizi bancari, finanziari e assicurativi**» che: «**A. siano soggetti all'autorizzazione o alla registrazione da parte delle Autorità; o B. rientrino in un caso di autorizzazione/registrazione, ma ricadono in un caso di esclusione; o C. consistono in attività che hanno un impatto su profili soggetti a regolamentazione nel settore bancario, finanziario o assicurativo da erogare a favore di un soggetto nazionale, comunitario o extracomunitario vigilato; o D. sono svolte da un operatore soggetto a vigilanza, che ha sede legale o succursale in Italia o sede legale in un altro Stato membro dell'UE, e che opera in Italia in regime di libera circolazione dei servizi**». ⚠️ **Le quattro lettere sono legate da «o»: sono alternative e ne basta una.**
+**Opzione:** Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che soddisfino almeno una delle quattro condizioni previste, fra loro alternative.
+**Distrattori:**
+- Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che soddisfino tutte e quattro le condizioni previste, fra loro cumulative.
+- Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che siano soggetti ad autorizzazione o registrazione da parte delle Autorità, unica condizione prevista.
+- Qualsiasi prodotto o servizio tecnologicamente innovativo, anche estraneo ai settori bancario, finanziario e assicurativo, purché soddisfi almeno una delle quattro condizioni previste.
+
+**D:** ⚠️ Che cosa prevede la lettera B delle condizioni di accesso alla Sandbox?
+**R:** «**Rientrino in un caso di autorizzazione/registrazione, ma ricadono in un caso di esclusione.**» ⚠️ È la condizione **controintuitiva**: l'attività **rientrerebbe** in un caso di autorizzazione o registrazione, **ma ricade in un'esclusione** — e resta comunque ammissibile alla sperimentazione. ⚠️ La glossa del docente, «sono sostanzialmente **limiti quantitativi e qualitativi**», **non compare sulla slide**.
+**Opzione:** Che l'attività rientri in un caso di autorizzazione o registrazione ma ricada in un caso di esclusione.
+**Distrattori:**
+- Che l'attività non rientri in alcun caso di autorizzazione o registrazione e sia quindi libera.
+- Che l'attività rientri in un caso di autorizzazione o registrazione e non ricada in alcun caso di esclusione.
+- Che l'attività rientri in un caso di autorizzazione o registrazione ma sia svolta in regime di libera prestazione di servizi.
+
+**D:** Quali attività bancarie sono soggette ad autorizzazione secondo la tabella della Sandbox?
+**R:** **Sette**: «**Raccolta del risparmio; Concessione di finanziamenti; Servizi di pagamento; Emissione di moneta elettronica; Microcredito; Garanzie sui prestiti; Commercio di oro**». ⚠️ **Il «commercio di oro» chiude l'elenco**: è la voce di coda, la più esposta alla sostituzione in un distrattore.
+**Opzione:** Raccolta del risparmio, concessione di finanziamenti, servizi di pagamento, emissione di moneta elettronica, microcredito, garanzie sui prestiti e commercio di oro.
+**Distrattori:**
+- Raccolta del risparmio, concessione di finanziamenti, servizi di pagamento, emissione di moneta elettronica, microcredito, garanzie sui prestiti e custodia di cripto-attività.
+- Raccolta del risparmio, concessione di finanziamenti, servizi di pagamento, emissione di moneta elettronica, microcredito, garanzie sui prestiti e consulenza in materia di investimenti.
+- Raccolta del risparmio, concessione di finanziamenti, servizi di pagamento, emissione di moneta elettronica, leasing finanziario, garanzie sui prestiti e commercio di oro.
+
+**D:** ⚠️ Quali servizi finanziari sono soggetti ad autorizzazione secondo la tabella della Sandbox?
+**R:** **Nove**: «**Negoziazione per conto proprio; Esecuzione di ordini per i clienti; Sottoscrizione e/o collocamento basato su un impegno irrevocabile nei confronti dell'emittente; Collocamento senza impegno irrevocabile per gli emittenti; Gestione del portafoglio; Ricezione e trasmissione degli ordini; Consulenza in materia di investimenti; Gestione di sistemi multilaterali di negoziazione; Gestione di sistemi organizzati di negoziazione**». ⚠️ **Il transcript ne dà sei**: perde il **collocamento senza impegno irrevocabile**, la gestione di **sistemi multilaterali** (MTF) e quella di **sistemi organizzati** (OTF). ⚠️ Le **due forme di collocamento** — *con* e *senza* impegno irrevocabile — sono una coppia speculare, materiale ideale per un distrattore a **segno invertito**.
+**Opzione:** Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, collocamento senza impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
+**Distrattori:**
+- Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
+- Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, collocamento senza impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza generica, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
+- Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, collocamento senza impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, microcredito e gestione di sistemi organizzati di negoziazione.
+
+**D:** Quali servizi assicurativi compaiono nella tabella delle attività soggette ad autorizzazione?
+**R:** **Due soli**: «**Assicurazione**» e «**Riassicurazione**». ⚠️ È la colonna più breve della tabella (**7 bancari – 9 finanziari – 2 assicurativi**), e proprio per questo la più facile da gonfiare in un distrattore con voci che appartengono alla distribuzione assicurativa e non alla tabella.
+**Opzione:** Assicurazione e riassicurazione.
+**Distrattori:**
+- Assicurazione, riassicurazione e intermediazione assicurativa.
+- Assicurazione, riassicurazione e distribuzione di prodotti di investimento assicurativi.
+- Assicurazione, riassicurazione, intermediazione assicurativa a titolo accessorio e perizia sui sinistri.
+
+**D:** ⚠️ Quali requisiti richiede la domanda di ammissione alla Sandbox?
+**R:** **Sei**, sotto l'intestazione «**REQUISITI PER L'AUTORIZZAZIONE**»: «**Forma societaria; Requisiti di capitale; Assetto proprietario; Programma di attività; Governance; Organizzazione e controlli interni**». ⚠️ Sono le **stesse macro-categorie** di un'autorizzazione ordinaria: la differenza, per il docente, sta nella **proporzionalità** — «seppure come macro categorie siano identiche o molto simili…, **le soglie sono molto più basse**, cioè il **livello richiesto di impegno è molto più basso**».
+**Opzione:** Forma societaria, requisiti di capitale, assetto proprietario, programma di attività, governance, organizzazione e controlli interni.
+**Distrattori:**
+- Forma societaria, requisiti di capitale, assetto proprietario, programma di attività, governance, organizzazione e controlli interni e rating creditizio rilasciato da un'agenzia registrata.
+- Forma societaria, requisiti di capitale, assetto proprietario, programma di attività e governance, restando esclusa ogni verifica sull'organizzazione e sui controlli interni.
+- Forma societaria, requisiti di capitale ridotti alla metà rispetto all'autorizzazione ordinaria, assetto proprietario, programma di attività, governance, organizzazione e controlli interni.
+
+**D:** ⚠️ In che cosa i requisiti della Sandbox differiscono da quelli di un'autorizzazione tradizionale?
+**R:** **Non nelle categorie, ma nelle soglie.** Il docente pone lui stesso l'obiezione — «qual è la differenza sostanziale tra questo e un'autorizzazione classica? Mi sembra che più o meno queste categorie siano presenti anche nelle autorizzazioni classiche» — e risponde: «**vero, se non che dovete ricordarvi uno dei tre principi che abbiamo esposto all'inizio, la proporzionalità**: seppure come **macro categorie** siano identiche o molto simili…, **le soglie sono molto più basse**, cioè il **livello richiesto di impegno è molto più basso**». ⚠️ È il collegamento fra la slide dei **concetti chiave** e quella dei **requisiti**.
+**Opzione:** Le categorie sono le stesse, ma in forza del principio di proporzionalità le soglie richieste sono molto più basse.
+**Distrattori:**
+- Le categorie sono meno numerose, perché nella sandbox non sono richiesti né la governance né i controlli interni.
+- Le categorie sono le stesse e le soglie sono identiche: cambia solo la durata dell'autorizzazione, che è temporanea.
+- Le categorie sono più numerose, perché alla sandbox si aggiungono requisiti tecnologici assenti nell'autorizzazione ordinaria.
+
+**D:** ⚠️ Quali operatori UE possono chiedere l'ingresso nella Sandbox?
+**R:** Quattro categorie, tutte con il medesimo criterio di collegamento: «**Banche e intermediari finanziari con filiali in Italia o che operano in Italia in regime di libera prestazione di servizi**»; «**Istituti di pagamento e istituti di moneta elettronica con filiali in Italia o che operano in Italia in regime di libera prestazione di servizi**»; «**Organismi di investimento collettivi in valori mobiliari (OICVM) e gestori di fondi di investimento alternativi (GEFIA) con succursale in Italia o che operano in Italia in regime di libera prestazione di servizi**»; «**Imprese di investimento con filiali in Italia o che operano in Italia in regime di libera prestazione di servizi**». ⚠️ Il criterio è sempre **filiale (o succursale) in Italia *oppure* libera prestazione di servizi**: serve «un **nodo, un *tie*, un collegamento con l'Italia**».
+**Opzione:** Banche e intermediari finanziari, istituti di pagamento e di moneta elettronica, OICVM e GEFIA, imprese di investimento, purché con filiale o succursale in Italia o operanti in Italia in regime di libera prestazione di servizi.
+**Distrattori:**
+- Banche e intermediari finanziari, istituti di pagamento e di moneta elettronica, OICVM e GEFIA, imprese di investimento, purché con filiale o succursale in Italia, restando esclusa la libera prestazione di servizi.
+- Banche e intermediari finanziari, istituti di pagamento e di moneta elettronica, OICVM e GEFIA, imprese di investimento, purché con sede legale in Italia.
+- Banche e intermediari finanziari, imprese di assicurazione e riassicurazione, OICVM e GEFIA, imprese di investimento, purché con filiale o succursale in Italia o operanti in Italia in regime di libera prestazione di servizi.
+
+**D:** ⚠️ Qual è la differenza fra operatori UE e non-UE nell'accesso alla Sandbox?
+**R:** **Cambia il criterio di collegamento con l'Italia.** Per gli operatori **UE** vale «**con filiali in Italia o che operano in Italia in regime di libera prestazione di servizi**»; per i **non-UE** valgono le «**filiali**» oppure l'essere «**autorizzate a operare in Italia**» — ad esempio «**Società di gestione di OICVM e FIA con filiali in Italia o autorizzate a operare in Italia**» e «**Imprese di investimento con filiali in Italia o autorizzate a operare in Italia senza filiali**». ⚠️ **La libera prestazione di servizi non compare nella colonna non-UE**: è un istituto interno al mercato unico. ⚠️ Il transcript legge **solo la colonna UE**.
+**Opzione:** Per gli operatori UE il collegamento è la filiale in Italia o la libera prestazione di servizi; per i non-UE la filiale in Italia o l'autorizzazione a operare in Italia.
+**Distrattori:**
+- Per gli operatori UE il collegamento è la filiale in Italia o la libera prestazione di servizi; per i non-UE la sola sede legale in uno Stato che applichi un regime di reciprocità.
+- Per gli operatori UE il collegamento è la sola filiale in Italia; per i non-UE la filiale in Italia o la libera prestazione di servizi.
+- Non c'è differenza: per entrambi vale il collegamento della filiale in Italia o della libera prestazione di servizi.
+
+**D:** ⚠️ Quali autorità di vigilanza sono competenti per la Sandbox e con quali iniziative?
+**R:** «**Banca d'Italia** — Canale FinTech (**2017**), Milano Innovation Hub (**2020**)»; «**CONSOB** — Diari FinTech (**2018**), ConsobTech (**Sandbox + Liftech**) (**2021**)»; «**IVASS** — Iniziative InsurTech (**settembre 2018**), partecipazione al Milan Innovation Hub (**2021**), partecipazione all'**ANIA's Insurance Blockchain Sandbox** (**2018**)». ⚠️ **La competenza segue la materia**: «se c'è un'**attività bancaria**… la **Banca d'Italia**; se c'è un'attività su **servizi di investimento** la **Consob**; **assicurativa** l'**IVASS**». ⚠️ **Diari FinTech**, **Liftech** e l'**ANIA's Insurance Blockchain Sandbox** stanno **solo sulla slide**.
+**Opzione:** Banca d'Italia con Canale FinTech e Milano Innovation Hub; CONSOB con Diari FinTech e ConsobTech; IVASS con le iniziative InsurTech, il Milan Innovation Hub e l'ANIA's Insurance Blockchain Sandbox.
+**Distrattori:**
+- Banca d'Italia con Canale FinTech e ConsobTech; CONSOB con Diari FinTech e Milano Innovation Hub; IVASS con le iniziative InsurTech e l'ANIA's Insurance Blockchain Sandbox.
+- Banca d'Italia con Canale FinTech e Milano Innovation Hub; CONSOB con Diari FinTech e ConsobTech; IVASS con le sole iniziative InsurTech, senza partecipazione a hub o sandbox di settore.
+- Banca d'Italia con Canale FinTech e Milano Innovation Hub; CONSOB con Diari FinTech e ConsobTech; AGCOM con le iniziative InsurTech, il Milan Innovation Hub e l'ANIA's Insurance Blockchain Sandbox.
+
+**D:** ⚠️ Con quali iniziative e in quali anni la Banca d'Italia si è mossa sul FinTech?
+**R:** «**Canale FinTech (2017)**» e «**Milano Innovation Hub (2020)**». ⚠️ **Le due date non vanno invertite**, e la slide scrive «**Milano** Innovation Hub» sotto la Banca d'Italia ma «**Milan** Innovation Hub» sotto l'IVASS — **due grafie della stessa iniziativa nella stessa slide**. ⚠️ Il docente aggiunge che la Banca d'Italia «ha certamente giocato un **ruolo fondamentale** per tutte le attività **bancarie e similbancarie**».
+**Opzione:** Il Canale FinTech nel 2017 e il Milano Innovation Hub nel 2020.
+**Distrattori:**
+- Il Canale FinTech nel 2020 e il Milano Innovation Hub nel 2017.
+- Il Canale FinTech nel 2017 e il Milano Innovation Hub nel 2021.
+- I Diari FinTech nel 2018 e il Milano Innovation Hub nel 2020.
+
+**D:** ⚠️ Da quale iniziativa europea parte la cronologia che porta alla Sandbox italiana, e con quale atto si chiude?
+**R:** Parte da «**Maggio 2010 – Agenda Digitale per l'Europa**» e si chiude con «**Luglio 2021 – Decreto ministeriale su Comitato Fintech e Sandbox**». Nel mezzo: «**2011 – Confindustria Digitale**», «**Marzo 2012 – Agenda Digitale per l'Italia**», «**Giugno 2012 – Agenzia per l'Italia Digitale (AgID)**», «**Marzo 2015 – Strategia per la Crescita Digitale '14-'20**», «**Settembre 2015 – Team per la trasformazione digitale**», «**Gennaio 2018 – Indagine FinTech della Banca d'Italia**», «**Marzo 2018 – Comitato di coordinamento FinTech**», «**Dicembre 2018 – Regolamento sul bilancio 2018**», «**Maggio 2019 – Decreto Crescita (art. 36, co. 2 bis)**», «**Novembre 2019 – Voucher Innovation Manager**». ⚠️ **Dodici tappe, e il transcript ne cita sette.**
+**Opzione:** Dall'Agenda Digitale per l'Europa del maggio 2010 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
+**Distrattori:**
+- Dall'Agenda Digitale per l'Italia del marzo 2012 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
+- Dall'Agenda Digitale per l'Europa del maggio 2010 al Decreto Crescita del maggio 2019.
+- Dall'istituzione dell'Agenzia per l'Italia Digitale del giugno 2012 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
+
+**D:** ⚠️ Quale disposizione del Decreto Crescita è richiamata nella cronologia, e quale documento è indicato come fonte?
+**R:** La cronologia indica «**Decreto Crescita (art. 36, co. 2 bis)**» per il **maggio 2019**, e il «**Voucher Innovation Manager**» di **novembre 2019** come istituito dal «**Decreto del MISE del 7 maggio 2019**». La fonte dell'intera cronologia è «**"FinTech waves – Italian FinTech Ecosystem 2020", Ernst&Young and FinTech District**». ⚠️ **Tutti e tre i riferimenti stanno solo sulla slide.** ⚠️ **Le due date del Voucher non vanno confuse**: la tappa è di **novembre 2019**, il decreto che la istituisce è del **7 maggio 2019**.
+**Opzione:** L'art. 36, comma 2 bis del Decreto Crescita, e come fonte il documento FinTech waves – Italian FinTech Ecosystem 2020 di Ernst&Young e FinTech District.
+**Distrattori:**
+- L'art. 36, comma 2 bis del Decreto Crescita, e come fonte il rapporto annuale della Banca d'Italia sull'indagine FinTech.
+- L'art. 30, comma 1 del Decreto Crescita, e come fonte il documento FinTech waves – Italian FinTech Ecosystem 2020 di Ernst&Young e FinTech District.
+- L'art. 36, comma 2 bis del Decreto Semplificazioni, e come fonte il documento FinTech waves – Italian FinTech Ecosystem 2020 di Ernst&Young e FinTech District.
+
+**D:** Che cos'è la Regulatory Sandbox secondo il docente, e a che cosa serve?
+**R:** «Un **esperimento, un nuovo modo di legiferare, di regolamentare** gli strumenti finanziari, le attività innovative e in generale il sistema finanziario, che trae origine da una nuova concezione, ovvero sia una **deroga al sistema tradizionale**»: dà «la possibilità a nuove realtà di **sperimentare con meno oneri regolamentari, legislativi, di compliance**, le proprie attività, in un **recinto** che sia un recinto ***safe***». Il vantaggio è **doppio**: «dà la possibilità alle **autorità di vigilanza di monitorare** ciò che accade, ma allo stesso tempo dà la possibilità a colui che è in questo **incubatore**… di **sviluppare gradualmente le richieste dell'autorità**». ⚠️ Il **precursore è britannico**: «ricordiamo che il **precursore è la Regulatory Sandbox della Gran Bretagna**». ⚠️ Solo nel transcript ([00:00:06]).
+
+**D:** Perché la Regulatory Sandbox è un tema così centrale in questo corso?
+**R:** Perché «è anche l'**argomento centrale di uno dei due manuali che dovete preparare per l'esame**» ([00:00:06]), e più avanti il docente parla del «**manuale che ho scritto e che avete da studiare**» ([00:09:45]). ⚠️ È **l'unico punto del corso in cui viene detto *quanti* sono i testi d'esame** — **due**; che uno sia **scritto dal docente** lo aveva già detto la **lezione 22** («il manuale che ho scritto io»). ⚠️ Il titolo non è mai pronunciato né stampato sulle slide.
+
+**D:** Perché il docente giudica «in ritardo» la Sandbox italiana?
+**R:** Perché «**luglio 2021 è molto recente ma soprattutto è molto in ritardo**: in Inghilterra, nel Regno Unito, si è iniziato a parlare, a **formalizzare** il regulatory sandbox nel **2016**, nel **2018** è partito velocissimamente… siamo già in **versioni successive** del Regulatory Sandbox in Inghilterra, proprio perché ormai si è **andati avanti**». Di qui l'auspicio finale: «che ci sia **più velocità nell'accogliere le novità**». ⚠️ Il confronto **2016/2018 (UK) contro luglio 2021 (Italia)** sta **solo nel transcript**. ⚠️ Sul percorso italiano commenta: «un percorso che passa attraverso dei **canali legislativi e burocratici non indifferenti**».
+
+**D:** Perché, secondo il docente, la Regulatory Sandbox rischia di restare «lettera morta»?
+**R:** Perché «ad oggi purtroppo **non ha conosciuto quel successo** che ci si aspettava potesse conoscere», e le ragioni sono **due**: «da un lato sono **poco conosciute**, dall'altro perché i **requisiti per l'accesso rimangono requisiti importanti, difficili da gestire, soprattutto per delle start-up**». ⚠️ Il difetto di fondo è l'assenza di manutenzione: gli Stati membri «hanno creato questa regulatory sandbox perché ormai hanno dovuto **seguire l'onda**», senza «una **rivisitazione profonda, costante e continua** di queste strutture… per **migliorarle**, per **pubblicizzarle**, per **farle diventare competitive**». ⚠️ Solo nel transcript ([00:09:45]).
+
+**D:** Quale precedente britannico porta il docente come modello di revisione della sandbox?
+**R:** Il report commissionato dal governo britannico «a un **membro senior dell'industria finanziaria**, tale **Mr. Khalifa, con la K**» \[*sic*], «un **report sulla salute del fintech britannico**» che «ha dato una *picture*… **positiva**, ma ha anche evidenziato la **necessità di un rinnovamento, di un ripensamento**», con «**proposte al governo britannico**… incluso anche una **rivisitazione della sandbox**». Il docente lo colloca «nel **2018**, mi pare… forse era **2019**», segnalando lui stesso l'incertezza. ⚠️ Il punto che ne trae: la Gran Bretagna «già ha i **primissimi posti mondiali**… eppure ha comunque pensato **immediatamente di reinventarsi**». ⚠️ Solo nel transcript; le slide non lo citano. ⚠️ ℹ️ **Integrazione (non dai materiali del corso):** si tratta della **Kalifa Review of UK FinTech**, di **Ron Kalifa** per **HM Treasury**, pubblicata nel **febbraio 2021**.
+
+**D:** Con quale invito il docente chiude la prima lezione sulla Sandbox?
+**R:** Con un invito metodologico: «l'invito che faccio anche a voi quando procedete il **manuale che ho scritto** e che avete da studiare è quello di **iniziare a pensare alla regulatory sandbox come a un nuovo modo di legiferare nel campo del diritto finanziario**, anche perché **voi potreste essere gli operatori del futuro**… Cioè dovete ragionare con degli **strumenti critici sulle fonti del diritto** e su **perché sia stata inventata** una regulatory sandbox, **quale sia il reale obiettivo**». Ne discende la previsione: «sarà necessario pensare a una regulatory sandbox **versione 2, versione 3** e chissà quante altre versioni nei prossimi anni, proprio per… renderle **maggiormente competitive rispetto a un'autorizzazione tradizionale**». ⚠️ Annuncia infine il seguito: «affronteremo nelle **ultime due lezioni** del sandbox, in particolare **la granularità richiesta dalla regulatory sandbox per diventarne parte**». ⚠️ Solo nel transcript ([00:09:45]).
