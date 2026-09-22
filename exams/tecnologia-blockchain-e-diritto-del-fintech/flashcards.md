@@ -7702,3 +7702,488 @@
 
 **D:** Con quale invito il docente chiude la prima lezione sulla Sandbox?
 **R:** Con un invito metodologico: «l'invito che faccio anche a voi quando procedete il **manuale che ho scritto** e che avete da studiare è quello di **iniziare a pensare alla regulatory sandbox come a un nuovo modo di legiferare nel campo del diritto finanziario**, anche perché **voi potreste essere gli operatori del futuro**… Cioè dovete ragionare con degli **strumenti critici sulle fonti del diritto** e su **perché sia stata inventata** una regulatory sandbox, **quale sia il reale obiettivo**». Ne discende la previsione: «sarà necessario pensare a una regulatory sandbox **versione 2, versione 3** e chissà quante altre versioni nei prossimi anni, proprio per… renderle **maggiormente competitive rispetto a un'autorizzazione tradizionale**». ⚠️ Annuncia infine il seguito: «affronteremo nelle **ultime due lezioni** del sandbox, in particolare **la granularità richiesta dalla regulatory sandbox per diventarne parte**». ⚠️ Solo nel transcript ([00:09:45]).
+
+## Lezione 29 — Focus — La Regulatory Sandbox in Italia (2)
+
+**D:** ⚠️ A quali condizioni è consentita la sperimentazione nella Sandbox italiana?
+**R:** «**La sperimentazione è consentita alle FinTech che svolgono un'attività che: sia significativamente innovativa; sia in uno stato sufficientemente avanzato per accedere alla sperimentazione; sia economicamente e finanziariamente sostenibile; aggiunga valore agli utenti finali rendendo il sistema bancario/finanziario/assicurativo efficiente nell'applicazione delle normative; migliora i sistemi/procedure/processi relativi alla gestione del rischio**»; e, sotto lo stesso titolo, «**richiede una deroga ad atti/norme/regolamenti**». ⚠️ **Sei criteri**, di cui il sesto si apre in **sette** voci. ⚠️ **Il soggetto è l'attività, non l'impresa**.
+**Opzione:** Attività significativamente innovativa, in uno stato sufficientemente avanzato, economicamente e finanziariamente sostenibile, che aggiunga valore agli utenti finali, migliori i processi di gestione del rischio e richieda una deroga a norme e regolamenti.
+**Distrattori:**
+- Attività significativamente innovativa, in uno stato sufficientemente avanzato, economicamente e finanziariamente sostenibile, che aggiunga valore agli utenti finali, migliori i processi di gestione del rischio e non richieda alcuna deroga a norme e regolamenti.
+- Attività significativamente innovativa, già collaudata su un mercato estero, economicamente e finanziariamente sostenibile, che aggiunga valore agli utenti finali, migliori i processi di gestione del rischio e richieda una deroga a norme e regolamenti.
+- Attività significativamente innovativa, in uno stato sufficientemente avanzato, economicamente e finanziariamente sostenibile, che aggiunga valore agli azionisti, migliori i processi di gestione del rischio e richieda una deroga a norme e regolamenti.
+
+**D:** ⚠️ Come è formulato il criterio del valore aggiunto per gli utenti finali?
+**R:** L'attività deve «**aggiungere valore agli utenti finali rendendo il sistema bancario/finanziario/assicurativo efficiente nell'applicazione delle normative**». ⚠️ **Due cose legate insieme**: il valore per gli **utenti finali** e l'efficienza del **sistema**. ⚠️ L'efficienza è qualificata: «**nell'applicazione delle normative**» — è efficienza *regolamentare*, non efficienza in generale né riduzione di costi.
+**Opzione:** Deve aggiungere valore agli utenti finali rendendo il sistema bancario, finanziario o assicurativo efficiente nell'applicazione delle normative.
+**Distrattori:**
+- Deve aggiungere valore agli utenti finali rendendo il sistema bancario, finanziario o assicurativo più redditizio nella raccolta del risparmio.
+- Deve aggiungere valore agli intermediari già autorizzati rendendo il sistema bancario, finanziario o assicurativo efficiente nell'applicazione delle normative.
+- Deve aggiungere valore agli utenti finali riducendo gli oneri di conformità a carico dell'operatore ammesso alla sperimentazione.
+
+**D:** ⚠️ In termini di che cosa deve consistere la deroga richiesta ad atti, norme e regolamenti?
+**R:** **Sette** voci: «**Requisiti di capitale; ambito di operatività; requisiti di comunicazione; tempistiche di rilascio delle autorizzazioni; profili di corporate governance e gestione del rischio; tipi di società ammissibili; garanzie finanziarie**». ⚠️ **Nel transcript sono sei**: manca «**ambito di operatività**». ⚠️ Il docente ne dà la parafrasi come discorso del regolatore: «tu dovresti applicare tutte queste norme… **ma io vi derogo**… perché penso che… voi possiate **abbassare l'asticella**».
+**Opzione:** Requisiti di capitale, ambito di operatività, requisiti di comunicazione, tempistiche di rilascio delle autorizzazioni, profili di corporate governance e gestione del rischio, tipi di società ammissibili e garanzie finanziarie.
+**Distrattori:**
+- Requisiti di capitale, ambito di operatività, requisiti di comunicazione, tempistiche di rilascio delle autorizzazioni, profili di corporate governance e gestione del rischio, tipi di società ammissibili e requisiti di residenza dei soci.
+- Requisiti di capitale, ambito di operatività, requisiti di comunicazione, tempistiche di rilascio delle autorizzazioni, profili di corporate governance e gestione del rischio, tipi di società ammissibili e obblighi antiriciclaggio.
+- Requisiti di capitale, ambito di operatività, requisiti di comunicazione, tempistiche di rilascio delle autorizzazioni, profili di corporate governance e gestione del rischio, forme giuridiche estere e garanzie finanziarie.
+
+**D:** A chi non è consentito l'accesso alla sperimentazione?
+**R:** **Due** voci: «**Persone fisiche sottoposte a procedure di sovraindebitamento, imprenditori commerciali sottoposti a procedure fallimentari o di insolvenza o imprenditori commerciali in forma collettiva in stato di liquidazione**»; **e** «**gli imprenditori commerciali obbligati a redigere il bilancio, qualora questo non sia stato deliberato e depositato presso il Registro delle Imprese per gli ultimi cinque esercizi o dalla data di costituzione, se inferiore**». ⚠️ **La prima voce contiene tre soggetti**; le due voci sono unite da «**e**».
+**Opzione:** Alle persone fisiche in procedura di sovraindebitamento, agli imprenditori commerciali in procedura fallimentare o di insolvenza o in forma collettiva in stato di liquidazione, e agli imprenditori commerciali che non abbiano deliberato e depositato il bilancio presso il Registro delle Imprese.
+**Distrattori:**
+- Alle persone fisiche in procedura di sovraindebitamento, agli imprenditori commerciali in procedura fallimentare o di insolvenza o in forma collettiva in stato di liquidazione, e a tutte le imprese costituite da meno di cinque anni.
+- Alle persone fisiche in procedura di sovraindebitamento, agli imprenditori commerciali in procedura fallimentare o di insolvenza o in forma collettiva in stato di liquidazione, e agli imprenditori commerciali non obbligati a redigere il bilancio.
+- Alle sole persone fisiche in procedura di sovraindebitamento e agli imprenditori commerciali che non abbiano deliberato e depositato il bilancio presso il Registro delle Imprese.
+
+**D:** ⚠️ Per quanti esercizi rileva il mancato deposito del bilancio presso il Registro delle Imprese?
+**R:** «**Per gli ultimi cinque esercizi o dalla data di costituzione, se inferiore.**» ⚠️ **Il quantificatore temporale sta sulla slide**: non è una coda inventata, come sarebbe nei quiz di *Analisi dei Mercati Finanziari*. ⚠️ **L'alternativa lo accorcia**: una società costituita da due anni non è esclusa per i tre esercizi che non poteva depositare. ⚠️ Il requisito colpisce solo gli «**imprenditori commerciali obbligati a redigere il bilancio**».
+**Opzione:** Per gli ultimi cinque esercizi o dalla data di costituzione, se inferiore.
+**Distrattori:**
+- Per gli ultimi cinque esercizi, senza eccezioni per le società costituite da meno tempo.
+- Per gli ultimi tre esercizi o dalla data di costituzione, se inferiore.
+- Per gli ultimi dieci esercizi o dalla data di costituzione, se inferiore.
+
+**D:** ⚠️ Quali sono i requisiti di integrità?
+**R:** **Quattro**, tutti in forma negativa: «**Non essere soggetti a interdizioni legali**»; «**Non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici**»; «**Non è soggetto a misure di prevenzione**» \[*sic*, singolare sulla slide]; «**Non essere soggetti a interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari**». ⚠️ **L'interdizione compare due volte**, prima come «**interdizioni legali**», poi come «**interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari**».
+**Opzione:** Non essere soggetti a interdizioni legali, non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici, non essere soggetti a misure di prevenzione, non essere soggetti a interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari.
+**Distrattori:**
+- Non essere soggetti a interdizioni legali, non essere stati condannati con sentenza anche provvisoria al confino o alla reclusione per reati specifici, non essere soggetti a misure di prevenzione, non essere soggetti a interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari.
+- Non essere soggetti a interdizioni legali, non essere stati condannati con sentenza definitiva al confino o alla reclusione per qualsiasi reato, non essere soggetti a misure di prevenzione, non essere soggetti a interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari.
+- Non essere soggetti a interdizioni legali, non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici, non essere soggetti a misure di prevenzione, non avere in corso procedimenti penali per reati contro il patrimonio.
+
+**D:** ⚠️ Quale tipo di condanna preclude l'accesso per difetto di integrità?
+**R:** «**Non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici.**» ⚠️ Servono **tre** elementi insieme: sentenza **definitiva**, pena del **confino o della reclusione**, **reati specifici**. ⚠️ È il discrimine con gli **elementi di correttezza**, dove rilevano anche «**procedimenti penali in corso**», le «**sentenze provvisorie**» e le «**condanne per altri reati**».
+**Opzione:** La condanna con sentenza definitiva al confino o alla reclusione per reati specifici.
+**Distrattori:**
+- La condanna con sentenza definitiva al confino o alla reclusione per qualsiasi reato.
+- La condanna con sentenza anche provvisoria al confino o alla reclusione per reati specifici.
+- La pendenza di un procedimento penale per reati specifici, anche in assenza di condanna.
+
+**D:** ⚠️ Quali sono gli elementi chiave per l'accertamento dei requisiti di correttezza?
+**R:** **Sei**: «**Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive**»; «**Sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali**»; «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali**»; «**Sospensione o radiazione**»; «**Valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa**»; «**Informazioni negative contenute nel Registro Centrale dei Crediti**». ⚠️ Sono elementi di **accertamento**, non divieti.
+**Opzione:** Procedimenti penali in corso o condanne, sanzioni amministrative in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, sospensione o radiazione, valutazione negativa dell'idoneità in un processo di autorizzazione e informazioni negative nel Registro Centrale dei Crediti.
+**Distrattori:**
+- Procedimenti penali in corso o condanne, sanzioni amministrative in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, sospensione o radiazione, valutazione negativa dell'idoneità in un processo di autorizzazione e segnalazioni di operazioni sospette trasmesse all'Unità di Informazione Finanziaria.
+- Procedimenti penali in corso o condanne, sanzioni amministrative in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, interdizione temporanea dalla direzione aziendale, valutazione negativa dell'idoneità in un processo di autorizzazione e informazioni negative nel Registro Centrale dei Crediti.
+- Procedimenti penali in corso o condanne, sanzioni amministrative in materia esclusivamente bancaria, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, sospensione o radiazione, valutazione negativa dell'idoneità in un processo di autorizzazione e informazioni negative nel Registro Centrale dei Crediti.
+
+**D:** ⚠️ In quali materie rilevano le sanzioni amministrative ai fini della correttezza?
+**R:** «**Sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali.**» ⚠️ **Cinque** materie, e il transcript ne cita **due** («bancaria o di antiriciclaggio»). ⚠️ **Non coincidono con le quattro** del processo di autorizzazione («bancaria, finanziaria, **mobiliare** e assicurativa»): «mobiliare» compare **solo là**, «antiriciclaggio» e «mercati dei capitali» **solo qui**.
+**Opzione:** In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali.
+**Distrattori:**
+- In materia bancaria, assicurativa, finanziaria, mobiliare o di mercati dei capitali.
+- In materia bancaria, assicurativa, finanziaria o di antiriciclaggio.
+- Nella sola materia bancaria e di antiriciclaggio.
+
+**D:** ⚠️ In quali materie rileva la valutazione negativa dell'idoneità di una persona?
+**R:** «**Valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa.**» ⚠️ **Quattro** materie, con «**mobiliare**» che nell'elenco delle sanzioni amministrative **non c'è**; e qui, a differenza di quello, mancano «**antiriciclaggio**» e «**mercati dei capitali**». ⚠️ Il transcript ne cita **tre**, omettendo proprio «**mobiliare**».
+**Opzione:** In materia bancaria, finanziaria, mobiliare e assicurativa.
+**Distrattori:**
+- In materia bancaria, finanziaria, di antiriciclaggio e assicurativa.
+- In materia bancaria, finanziaria e assicurativa.
+- In materia bancaria, finanziaria, mobiliare, assicurativa e di mercati dei capitali.
+
+**D:** ⚠️ Che cosa rileva, ai fini della correttezza, sullo svolgimento di incarichi presso altri enti?
+**R:** «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali.**» ⚠️ **Due** presupposti alternativi in capo all'**ente**, non alla persona: le **sanzioni amministrative** già elencate **oppure** le **procedure concorsuali**. ⚠️ La coda sulle procedure concorsuali **cade dal transcript**.
+**Opzione:** Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure concorsuali.
+**Distrattori:**
+- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate.
+- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure di sovraindebitamento.
+- Lo svolgimento di incarichi in enti che abbiano subito una valutazione negativa di idoneità nel corso di un processo di autorizzazione.
+
+**D:** Quale banca dati chiude l'elenco degli elementi di correttezza?
+**R:** «**Informazioni negative contenute nel Registro Centrale dei Crediti.**» ⚠️ **Non è un illecito**: è la presenza di informazioni negative in una banca dati. ⚠️ È la **voce di chiusura** dell'elenco, il punto su cui lavorano i distrattori di coda.
+**Opzione:** Le informazioni negative contenute nel Registro Centrale dei Crediti.
+**Distrattori:**
+- Le informazioni negative contenute nel Registro delle Imprese.
+- Le informazioni negative contenute nel registro dei titolari effettivi.
+- Le informazioni negative contenute nel registro degli operatori ammessi alla sperimentazione.
+
+**D:** Che differenza c'è fra i requisiti di integrità e gli elementi di correttezza?
+**R:** L'**integrità** è un elenco di **quattro preclusioni** formulate in negativo («**non essere soggetti a…**»), che operano come **sbarramenti**: interdizioni legali, condanna con **sentenza definitiva** al confino o alla reclusione per reati specifici, misure di prevenzione, interdizione temporanea dalla direzione aziendale. La **correttezza** è un elenco di **sei elementi chiave per l'accertamento**, cioè **materiale di valutazione**: vi rientrano fatti che non sono ancora accertamenti definitivi — «**procedimenti penali in corso**», «**sentenze provvisorie**», «**condanne per altri reati**» — e fatti che non riguardano nemmeno il richiedente, come gli **incarichi in enti sanzionati o in procedura concorsuale** o le **informazioni negative nel Registro Centrale dei Crediti**. ⚠️ Il segno distintivo è il **titolo delle slide**: «**REQUISITI DI INTEGRITA'**» contro «**ELEMENTI CHIAVE PER L'ACCERTAMENTO DEI REQUISITI DI CORRETTEZZA**».
+
+**D:** ⚠️ Quali sono le fasi rilevanti della Sandbox?
+**R:** **Cinque**, con numerazione che parte da zero: «**Contatti informali (Fase 0)**»; «**Applicazione (Fase I)**»; «**Ammissione alla sperimentazione (Fase II)**»; «**Sperimentazione (Fase III)**»; «**Valutazione (Fase IV)**». ⚠️ **La fase zero è una fase vera** e precede la domanda: «**prima dell'applicazione, tra operatori FinTech e Autorità**».
+**Opzione:** Contatti informali (fase 0), applicazione (I), ammissione alla sperimentazione (II), sperimentazione (III), valutazione (IV).
+**Distrattori:**
+- Applicazione (fase I), ammissione alla sperimentazione (II), sperimentazione (III), valutazione (IV), autorizzazione definitiva (V).
+- Contatti informali (fase 0), applicazione (I), sperimentazione (II), valutazione (III), revoca o autorizzazione (IV).
+- Contatti informali (fase 0), ammissione alla sperimentazione (I), applicazione (II), sperimentazione (III), valutazione (IV).
+
+**D:** ⚠️ A che serve la Fase 0 dei contatti informali?
+**R:** «**Fornisce un supporto per l'identificazione dell'Autorità o delle Autorità a cui presentare la domanda di partecipazione.**» La stessa casella aggiunge che il contatto è previsto anche «**per gli operatori FinTech che intendono svolgere attività con influenza nei settori bancario, finanziario e assicurativo, pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione**». ⚠️ **Non serve a valutare il progetto**: serve a capire **a chi** presentare la domanda. ⚠️ Vale **anche** per chi non è soggetto ad autorizzazione.
+**Opzione:** A fornire supporto nell'identificazione dell'autorità o delle autorità a cui presentare la domanda di partecipazione.
+**Distrattori:**
+- A fornire una valutazione preliminare e non vincolante sull'ammissibilità del progetto di sperimentazione.
+- A fornire supporto nell'identificazione delle norme per le quali sarà possibile chiedere una deroga.
+- A fornire supporto nell'identificazione dell'autorità competente, purché l'operatore rientri nell'ambito di applicazione dei requisiti di autorizzazione.
+
+**D:** ⚠️ Che cosa prevede la Fase II, ammissione alla sperimentazione, se l'attività è regolamentata?
+**R:** «**Se l'attività in questione comporta lo svolgimento di un'attività regolamentata e non è ancora in possesso della licenza appropriata, il richiedente deve richiedere preventivamente la licenza appropriata.**» ⚠️ **La sandbox non sostituisce l'autorizzazione**: la licenza va chiesta **prima**, e la deroga riguarda i requisiti, non il titolo. ⚠️ La domanda è «**valutata sulla base dei criteri disponibili pubblicamente**».
+**Opzione:** Che il richiedente deve richiedere preventivamente la licenza appropriata, se non ne è già in possesso.
+**Distrattori:**
+- Che il richiedente è esonerato dalla licenza appropriata per tutta la durata della sperimentazione.
+- Che il richiedente deve richiedere la licenza appropriata al termine della sperimentazione, se ne ha ancora bisogno.
+- Che il richiedente deve richiedere preventivamente la licenza appropriata soltanto se opera anche in un altro Stato membro.
+
+**D:** ⚠️ Chi determina i parametri della sperimentazione nella Fase II?
+**R:** «**Parametri per la sperimentazione sono determinati dall'Autorità, comprese le limitazioni o le restrizioni imposte in base al progetto di sperimentazione.**» ⚠️ **Sono determinati dall'Autorità**, non concordati né proposti dall'operatore, e sono **calibrati sul progetto**: la sandbox è un regime **individuale**, ed è il punto da cui nascono i dubbi di *level playing field*.
+**Opzione:** L'autorità, comprese le limitazioni o le restrizioni imposte in base al progetto di sperimentazione.
+**Distrattori:**
+- L'operatore ammesso, nel progetto di sperimentazione allegato alla domanda.
+- Il Comitato FinTech, con linee guida uniformi per tutti i progetti ammessi.
+- L'autorità, che applica limitazioni e restrizioni uniformi per tutti i progetti ammessi alla sperimentazione.
+
+**D:** ⚠️ Quanto dura la Fase III e chi la controlla?
+**R:** «**Fase di sperimentazione (18 mesi), durante le quali gli operatori FinTech possono testare le attività proposte**»; «**le autorità controllano il processo di sperimentazione**». ⚠️ **Diciotto mesi**, che il docente chiama «**periodo di incubazione**». ⚠️ Nel transcript dice prima «dura **circa** 18 mesi» e poi lo fissa: «il periodo di incubazione nel sandbox è di **18 mesi**».
+**Opzione:** Diciotto mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
+**Distrattori:**
+- Dodici mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
+- Diciotto mesi, durante i quali gli operatori testano le attività proposte senza obblighi informativi verso le autorità.
+- Ventiquattro mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
+
+**D:** ⚠️ Che cosa può accadere all'esito della Fase IV?
+**R:** «**I risultati della sperimentazione sono valutati dall'Autorità (o dalle Autorità)**», con «**decisione sull'approccio più appropriato per l'uscita dalla Sandbox**» e, «**a seconda dei casi, l'eliminazione delle limitazioni o delle restrizioni imposte ai fini della fase di sperimentazione o l'interruzione della licenza (attraverso il ritiro)**». ⚠️ **L'esito è binario**: eliminazione delle restrizioni **oppure** ritiro della licenza. ⚠️ Per il docente è «una fase dove si decide **se andare avanti oppure no**»: chi prosegue «avrà bisogno di avere la ***full license***… non sarà più in questo **incubatore**, ma diventerà… una società a tutti gli effetti **autorizzata e vigilata**».
+**Opzione:** A seconda dei casi, l'eliminazione delle limitazioni o delle restrizioni imposte per la sperimentazione, oppure l'interruzione della licenza attraverso il ritiro.
+**Distrattori:**
+- In ogni caso l'eliminazione delle limitazioni o delle restrizioni imposte per la sperimentazione, con rilascio automatico dell'autorizzazione piena.
+- A seconda dei casi, l'eliminazione delle limitazioni o delle restrizioni imposte per la sperimentazione, oppure la proroga della sperimentazione per ulteriori diciotto mesi.
+- A seconda dei casi, il rinnovo delle limitazioni imposte per la sperimentazione, oppure l'interruzione della licenza attraverso il ritiro.
+
+**D:** Secondo il docente, come si ripartiscono le competenze fra le tre autorità nella Sandbox?
+**R:** «A seconda del settore di riferimento avremo **IVASS, CONSOB o Banca d'Italia**, rispettivamente **assicurazioni**, **servizi finanziari di investimento** e invece **servizi di pagamento monetari**.» ⚠️ **Sta solo nel transcript**: le slide del deck 29 non contengono il riparto. ⚠️ **Non coincide con la formula della lezione 28** — «se c'è un'**attività bancaria**… la **Banca d'Italia**» —: qui il perimetro della Banca d'Italia è detto **più stretto** (servizi di pagamento). Le slide non arbitrano: la 5 del deck 28 elenca le iniziative delle tre autorità senza definire il perimetro. Nel dubbio la formula più ampia è quella della lezione 28, e l'**attività bancaria** comprende i **servizi di pagamento**, non viceversa.
+
+**D:** ⚠️ Che cos'è lo «scale box» e a quale problema risponde?
+**R:** È una proposta **britannica**, che sta **solo nel transcript**: «in Inghilterra si è proposto di **allungare questo periodo** utilizzando altri termini tipo ***scale box***, per quelle società che sono **quasi pronte** per uscire dal sandbox e per avere una loro autonomia **ma non pronte del tutto**, quindi un **passaggio graduale**… **nel mondo degli adulti** piuttosto che metterle al di fuori pronti dopo 18 mesi». ⚠️ Risponde al **dilemma binario** dell'uscita: «**autorizzarsi in modo totale dopo 18 mesi non è semplicissimo**… al contrario, **non autorizzarsi vorrebbe dire avere investito tempo e denaro, 18 mesi**, senza poi arrivare a una conclusione… **vantaggiosa**». ⚠️ Il docente invita a valutare «quanto sia necessario… un'**opera di accompagnamento** di questa realtà **anche dopo il sandbox**».
+**Opzione:** Un passaggio graduale proposto nel Regno Unito per le società quasi pronte a uscire dalla sperimentazione ma non del tutto autonome.
+**Distrattori:**
+- Un passaggio graduale introdotto in Italia per le società quasi pronte a uscire dalla sperimentazione ma non del tutto autonome.
+- Una sandbox riservata alle imprese di grandi dimensioni che intendono testare attività innovative.
+- Un secondo periodo di sperimentazione di diciotto mesi concesso automaticamente al termine del primo.
+
+**D:** ⚠️ Quali documenti della Sandbox possono essere redatti in inglese?
+**R:** **Due** righe della matrice su quattro: «**DOCUMENTAZIONE PER L'AMMISSIONE**» e «**CONTATTI INFORMALI CON LE AUTORITA'**». ⚠️ **L'italiano vale per tutte e quattro le righe**: la discriminante è quali ammettono **anche** l'inglese. ⚠️ Restano **solo in italiano** la «**DOMANDA DI AMMISSIONE**» e le «**COMUNICAZIONI INDIRIZZATE AGLI UTENTI FINALI**», cioè gli atti con effetti verso l'esterno. ⚠️ Per il docente è un «**regime abbastanza limitativo** per operatori e investitori esteri».
+**Opzione:** La documentazione per l'ammissione e i contatti informali con le autorità.
+**Distrattori:**
+- La domanda di ammissione e i contatti informali con le autorità.
+- La documentazione per l'ammissione e le comunicazioni indirizzate agli utenti finali.
+- La documentazione per l'ammissione, la domanda di ammissione e i contatti informali con le autorità.
+
+**D:** ⚠️ Quali atti della Sandbox devono essere redatti solo in italiano?
+**R:** La «**DOMANDA DI AMMISSIONE**» e le «**COMUNICAZIONI INDIRIZZATE AGLI UTENTI FINALI**». ⚠️ Sono i due atti **con effetti verso l'esterno**: l'atto formale che apre il procedimento e l'informazione al consumatore. Gli altri due — **documentazione per l'ammissione** e **contatti informali con le autorità** — sono **istruttori** e ammettono anche l'inglese.
+**Opzione:** La domanda di ammissione e le comunicazioni indirizzate agli utenti finali.
+**Distrattori:**
+- La documentazione per l'ammissione e le comunicazioni indirizzate agli utenti finali.
+- La domanda di ammissione e i contatti informali con le autorità.
+- Tutti e quattro gli atti previsti dal regime linguistico della sperimentazione.
+
+**D:** ⚠️ Che cosa prevede l'articolo 8 del Decreto?
+**R:** «**Una previsione in linea con la voluta impostazione "orizzontale" nei rapporti tra legislatore e players del settore, è contenuta nell'articolo 8 del Decreto, il quale prevede la possibilità per gli operatori che intendano accedere alla sperimentazione, di avviare delle interlocuzioni informali con le autorità di vigilanza (Banca d'Italia, CONSOB e IVASS), al fine di ottenere supporto, tra le altre cose, nell'individuazione dell'autorità cui sottoporre la richiesta di ammissione. A questo fine sia il Comitato sia le singole autorità hanno predisposto dei canali di comunicazione dedicati.**» ⚠️ **Le tre autorità sono nominate per intero**. ⚠️ **I canali dedicati sono doppi**: del Comitato **e** delle singole autorità — dettaglio che sta **solo sulla slide**.
+**Opzione:** La possibilità, per gli operatori che intendano accedere alla sperimentazione, di avviare interlocuzioni informali con Banca d'Italia, CONSOB e IVASS, anche per individuare l'autorità cui sottoporre la richiesta di ammissione.
+**Distrattori:**
+- La possibilità, per gli operatori che intendano accedere alla sperimentazione, di avviare interlocuzioni informali con il solo Comitato FinTech, che poi individua l'autorità cui sottoporre la richiesta di ammissione.
+- L'obbligo, per gli operatori che intendano accedere alla sperimentazione, di avviare interlocuzioni informali con Banca d'Italia, CONSOB e IVASS prima di presentare la domanda.
+- La possibilità, per gli operatori già autorizzati, di avviare interlocuzioni informali con Banca d'Italia, CONSOB e IVASS per ottenere deroghe ulteriori rispetto a quelle richieste nella domanda.
+
+**D:** ⚠️ Che cosa aggiunge il comma 2 dell'articolo 8?
+**R:** «**Il comma 2 del medesimo articolo apre inoltre la possibilità di avviare contatti informali anche agli operatori che intendano svolgere attività che presentino caratteristiche o rischi analoghi a quelli derivanti da attività regolamentate. In questo contesto si prevede che le autorità con le quali sono avviati i contatti, anche in modo coordinato tra più autorità, redigano e trasmettano una relazione alla segreteria tecnica del Comitato per illustrare il fenomeno di mercato e indicare l'eventuale esigenza di interventi normativi per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria.**» ⚠️ **La relazione va alla segreteria tecnica**, non al Comitato. ⚠️ Il criterio di accesso è l'**analogia di caratteristiche o rischi**, non la qualificazione formale dell'attività.
+**Opzione:** L'apertura dei contatti informali anche agli operatori che intendano svolgere attività con caratteristiche o rischi analoghi a quelli delle attività regolamentate, con relazione delle autorità alla segreteria tecnica del Comitato.
+**Distrattori:**
+- L'apertura dei contatti informali anche agli operatori che intendano svolgere attività con caratteristiche o rischi analoghi a quelli delle attività regolamentate, con relazione delle autorità al Ministro dell'Economia e delle Finanze.
+- L'apertura dei contatti informali anche agli operatori già autorizzati in un altro Stato membro, con relazione delle autorità alla segreteria tecnica del Comitato.
+- L'obbligo per le autorità di ammettere alla sperimentazione gli operatori che svolgano attività con caratteristiche o rischi analoghi a quelli delle attività regolamentate.
+
+**D:** ⚠️ Per quali finalità la relazione dell'articolo 8, comma 2 può indicare l'esigenza di interventi normativi?
+**R:** **Quattro**: «**per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria**». ⚠️ Stanno **solo sulla slide**: il transcript nomina la relazione ma non le finalità. ⚠️ **La tutela ha tre oggetti** — utenti, concorrenza, stabilità finanziaria — mentre la promozione riguarda il **FinTech**.
+**Opzione:** Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria.
+**Distrattori:**
+- Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e dell'integrità dei mercati.
+- Per la promozione del FinTech, per la tutela degli utenti e della stabilità finanziaria.
+- Per la promozione della concorrenza, per la tutela degli utenti, degli investitori e della stabilità finanziaria.
+
+**D:** ⚠️ Perché l'articolo 8 è definito «un'importantissima previsione»?
+**R:** «**L'articolo 8 rappresenta un'importantissima previsione perché per la prima volta nell'ordinamento italiano vengono istituzionalizzati a livello normativo dei canali di comunicazione volti al reciproco confronto e studio del fenomeno FinTech.**» ⚠️ **Tre elementi nella formula**: è la **prima volta** nell'ordinamento italiano; l'istituzionalizzazione è **a livello normativo**; lo scopo è il **reciproco confronto e studio** del fenomeno FinTech — non la vigilanza né l'*enforcement*.
+**Opzione:** Perché per la prima volta nell'ordinamento italiano vengono istituzionalizzati a livello normativo canali di comunicazione volti al reciproco confronto e studio del fenomeno FinTech.
+**Distrattori:**
+- Perché per la prima volta nell'ordinamento italiano vengono istituzionalizzati a livello normativo canali di comunicazione volti alla vigilanza continuativa sul fenomeno FinTech.
+- Perché per la prima volta nell'ordinamento europeo vengono istituzionalizzati a livello normativo canali di comunicazione volti al reciproco confronto e studio del fenomeno FinTech.
+- Perché per la prima volta nell'ordinamento italiano viene prevista in via di prassi, e non normativa, l'apertura di canali di comunicazione per il confronto sul fenomeno FinTech.
+
+**D:** Come cambia il ruolo dell'autorità di vigilanza secondo il docente?
+**R:** «L'autorità **non viene più vista come un'autorità di enforcement puro**, quindi un'autorità che sia pronta a **scovare l'errore** e di cui il player debba **avere paura** quando qualcosa va storto. Un'**autorità collaborativa fin dalla fase 0**.» ⚠️ Il vantaggio è **reciproco**, e quello per l'autorità è il meno ovvio: «le autorità hanno la possibilità di **percepire cosa stia accadendo nel mercato**, quali siano le **linee di sviluppo e le traiettorie**… di instaurare un **rapporto di fiducia reciproca**… **prima che il fenomeno sia arrivato a un** \[…] **stadio patologico**». Poiché il regolatore «ha la caratteristica… di **promulgare norme**», conoscere «cosa il mercato sta covando» lo mette «in grado di **produrre delle norme per facilitare queste nuove iniziative, per arginare iniziative pericolose o per mettere dei paletti**». ⚠️ La chiusa: l'approccio «**bilancia due contrapposti interessi, che non sono più a questo punto contrapposti ma complementari: lo sviluppo del settore fintech e una normativa adeguata e proporzionata al settore**». ⚠️ Solo nel transcript ([00:08:45]).
+
+**D:** ⚠️ Perché la deroga della Sandbox solleva dubbi di costituzionalità, e come li scioglie il docente?
+**R:** Il problema: «nell'ottica del ***fair treatment***, quindi trattare tutti gli operatori in modo equo, questo in realtà **pone dei sospetti da un punto di vista di costituzionalità**, soprattutto relativi al trattamento del ***level playing field***». La risposta in **tre** passaggi: sono «**problemi superati e analizzati** al punto tale che vengono considerati come una **normale evoluzione del sistema regolatorio finanziario**»; la deroga è **condizionata** — «si deroga **se esistono dei presupposti molto specifici**» —; e soprattutto «**in ogni caso non si azzerano le obbligazioni regolamentari, si abbassano solo**». ⚠️ È qui che il docente colloca «il punto della **crisi delle fonti del diritto**». ⚠️ Solo nel transcript ([00:03:10]).
+
+**D:** ⚠️ La Sandbox azzera gli obblighi regolamentari dell'operatore ammesso?
+**R:** **No**: «si tratta di derogare a determinate specifiche condizioni, cioè **si deroga se esistono dei presupposti molto specifici** e **in ogni caso non si azzerano le obbligazioni regolamentari, si abbassano solo**». ⚠️ È la stessa avvertenza già data alla **lezione 05**, dove fra i **costi** dei sandbox si leggeva che la *compliance* «**non si azzera**». ⚠️ Parola di direzione da non capovolgere: gli obblighi si **abbassano**, non si **eliminano**.
+**Opzione:** No: le obbligazioni regolamentari non si azzerano, si abbassano soltanto, e la deroga presuppone condizioni molto specifiche.
+**Distrattori:**
+- Sì: per la durata della sperimentazione le obbligazioni regolamentari sono integralmente sospese.
+- No: le obbligazioni regolamentari restano identiche a quelle ordinarie e cambiano soltanto i termini del procedimento.
+- Sì, ma soltanto per gli operatori che non siano già soggetti ad autorizzazione o registrazione.
+
+**D:** Perché «significativamente innovativa» è, per il docente, un criterio problematico?
+**R:** Perché «è un tema particolarmente **ostico**» e «il concetto di innovatività… è un concetto **estremamente discrezionale** che dipende moltissimo anche **dall'attore che lo guarda**». Per esperienza professionale: società «**molto ben avviate**» si sono proposte come innovative «sull'assunto che ci fossero dei prodotti finanziari… o delle tecniche fintech… che **non avessero precedenti nel mercato**», ma «**non sono state considerate tali dall'autorità** e quindi **non innovativa al punto sufficiente** per poter essere ammesse»; mentre «per alcuni attori poter utilizzare quei servizi… potrebbe essere in realtà un ***game changer***». La proposta: il regolatore «dovrebbe fare, **come sta accadendo in Inghilterra**, un passo ulteriore, cioè **chiarire significativamente innovativa per chi, per che cosa esattamente, per il mercato generale o come servizio a sé stante**». ⚠️ Solo nel transcript ([00:01:22]).
+
+**D:** Quale «punto di blocco» genera il criterio dello «stato sufficientemente avanzato»?
+**R:** Il paradosso della startup che ha bisogno della sperimentazione **proprio per** maturare: «voi pensate a una startup che ha un'**ottima idea**, che inizia a costruirla, ma per procedere ad andare avanti **ha bisogno di testarla sul mercato**. Il regolatore potrebbe **non ammetterlo a sandbox, come è successo**, perché rimane come una sorta di **bella idea imprenditoriale**, ma **non in uno stato sufficientemente avanzato**. E allora si arriva a un **punto di blocco**… la startup **non riesce ad accedere alla sperimentazione, non riesce a testare sul mercato e si deve bloccare**». ⚠️ Da qui il metodo di studio che raccomanda: «**non esiste un bianco e nero** in materie come queste… Bisogna sempre entrare con uno **spirito molto critico** ad analizzare anche dei concetti che **apparentemente sono chiarissimi**». ⚠️ Solo nel transcript ([00:01:22]).
+
+## Lezione 30 — Focus — La Regulatory Sandbox in Italia (3)
+
+**D:** ⚠️ Quando e a chi si presenta la domanda di ammissione alla sperimentazione?
+**R:** «**Durante le finestre di due mesi previste dalle Autorità, la domanda deve essere presentata a: l'Autorità o le Autorità responsabili del rilascio dell'autorizzazione/registrazione appropriata, anche se l'attività dell'operatore rientra in un caso di esclusione legale dall'autorizzazione/registrazione; l'Autorità o le Autorità competenti per i mercati in cui l'operatore intende prestare l'attività proposta.**» ⚠️ **Due destinatari su criteri diversi**: chi rilascia il **titolo** e chi vigila il **mercato** di destinazione. ⚠️ **La domanda non si presenta in qualunque momento**: solo nelle **finestre di due mesi**.
+**Opzione:** Nelle finestre di due mesi previste dalle autorità, all'autorità responsabile del rilascio dell'autorizzazione o registrazione appropriata e all'autorità competente per i mercati in cui si intende prestare l'attività.
+**Distrattori:**
+- In qualunque momento dell'anno, all'autorità responsabile del rilascio dell'autorizzazione o registrazione appropriata e all'autorità competente per i mercati in cui si intende prestare l'attività.
+- Nelle finestre di due mesi previste dalle autorità, al solo Comitato FinTech, che poi trasmette la domanda all'autorità competente.
+- Nelle finestre di sei mesi previste dalle autorità, all'autorità responsabile del rilascio dell'autorizzazione o registrazione appropriata e all'autorità competente per i mercati in cui si intende prestare l'attività.
+
+**D:** ⚠️ La domanda va presentata all'autorità dell'autorizzazione anche se l'attività è legalmente esclusa dall'autorizzazione?
+**R:** **Sì**: la domanda va presentata «**all'Autorità o alle Autorità responsabili del rilascio dell'autorizzazione/registrazione appropriata, anche se l'attività dell'operatore rientra in un caso di esclusione legale dall'autorizzazione/registrazione**». ⚠️ **La clausola sta solo sulla slide** e ribalta l'intuizione: l'esclusione legale **non** esonera dal rivolgersi a quell'autorità. ⚠️ Si salda con la **Fase 0**, dove i contatti informali servono anche a chi opera «pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione».
+**Opzione:** Sì: va presentata anche se l'attività dell'operatore rientra in un caso di esclusione legale dall'autorizzazione o registrazione.
+**Distrattori:**
+- No: in caso di esclusione legale dall'autorizzazione la domanda va presentata soltanto all'autorità competente per il mercato di destinazione.
+- No: in caso di esclusione legale dall'autorizzazione l'operatore accede alla sperimentazione senza presentare domanda.
+- Sì, ma soltanto se l'operatore chiede contestualmente il rilascio dell'autorizzazione di cui è legalmente escluso.
+
+**D:** Quali sono i primi quattro contenuti obbligatori della domanda?
+**R:** «**Una descrizione dettagliata del progetto e le motivazioni della richiesta di ammissione alla sperimentazione**»; «**uno studio preliminare e prospettico di fattibilità economica e finanziaria**»; «**un elenco di linee guida/disposizioni/misure/decisioni per le quali si richiede una deroga totale o parziale**»; «**una valutazione dei rischi e delle misure di controllo**». ⚠️ **La deroga si chiede per elenco** ed è «**totale o parziale**»: è l'operatore a indicare **quali** norme vuole disapplicate. ⚠️ Lo studio di fattibilità è «**preliminare e prospettico**» e copre due profili, **economico e finanziario**.
+**Opzione:** Descrizione dettagliata del progetto con le motivazioni della richiesta, studio preliminare e prospettico di fattibilità economica e finanziaria, elenco delle disposizioni per le quali si chiede una deroga totale o parziale, valutazione dei rischi e delle misure di controllo.
+**Distrattori:**
+- Descrizione dettagliata del progetto con le motivazioni della richiesta, studio preliminare e prospettico di fattibilità economica e finanziaria, elenco delle disposizioni per le quali si chiede una deroga esclusivamente totale, valutazione dei rischi e delle misure di controllo.
+- Descrizione dettagliata del progetto con le motivazioni della richiesta, bilancio certificato degli ultimi tre esercizi, elenco delle disposizioni per le quali si chiede una deroga totale o parziale, valutazione dei rischi e delle misure di controllo.
+- Descrizione sintetica del progetto, studio preliminare e prospettico di fattibilità economica e finanziaria, elenco delle disposizioni per le quali si chiede una deroga totale o parziale, piano di comunicazione al pubblico.
+
+**D:** Quali altri contenuti obbligatori deve contenere la domanda, oltre alla descrizione del progetto e alla valutazione dei rischi?
+**R:** **Sei**: «**autodescrizione dell'esito di eventuali precedenti sperimentazioni**»; «**dichiarazione di non essere stato sottoposto a procedure di composizione del sovraindebitamento**»; «**autocertificazione del possesso dei requisiti di integrità e correttezza**»; «**autocertificazione attestante l'approvazione del bilancio**»; «**informazioni e documenti necessari per ottenere le relative autorizzazioni/registrazioni**»; «**indicazione di eventuali collaborazioni necessarie con gli enti a cui si intende fornire l'attività proposta**». ⚠️ **Tre tipi di autodichiarazione**: un'**autodescrizione**, una **dichiarazione**, **due autocertificazioni**. ⚠️ L'ultima voce **non compare nel transcript**.
+**Opzione:** Autodescrizione dell'esito di eventuali precedenti sperimentazioni, dichiarazione di non essere stato sottoposto a procedure di composizione del sovraindebitamento, autocertificazione dei requisiti di integrità e correttezza, autocertificazione dell'approvazione del bilancio, informazioni e documenti per ottenere le autorizzazioni, indicazione di eventuali collaborazioni con gli enti a cui si intende fornire l'attività.
+**Distrattori:**
+- Autodescrizione dell'esito di eventuali precedenti sperimentazioni, dichiarazione di non essere stato sottoposto a procedure di composizione del sovraindebitamento, certificazione dei requisiti di integrità e correttezza rilasciata dall'autorità di vigilanza, autocertificazione dell'approvazione del bilancio, informazioni e documenti per ottenere le autorizzazioni, indicazione di eventuali collaborazioni con gli enti a cui si intende fornire l'attività.
+- Autodescrizione dell'esito di eventuali precedenti sperimentazioni, dichiarazione di non essere stato sottoposto a procedure di composizione del sovraindebitamento, autocertificazione dei requisiti di integrità e correttezza, autocertificazione dell'approvazione del bilancio, informazioni e documenti per ottenere le autorizzazioni, indicazione dei concorrenti già attivi sul mercato di riferimento.
+- Autodescrizione dell'esito di eventuali precedenti sperimentazioni, dichiarazione di non avere in corso procedimenti penali, autocertificazione dei requisiti di integrità e correttezza, autocertificazione dell'approvazione del bilancio, informazioni e documenti per ottenere le autorizzazioni, indicazione di eventuali collaborazioni con gli enti a cui si intende fornire l'attività.
+
+**D:** ⚠️ Quali strumenti specifici per la tutela degli utenti finali deve indicare la domanda?
+**R:** **Cinque**: «**informazioni corrette e complete sulla natura sperimentale del progetto e sui rischi connessi**»; «**meccanismi di raccolta del consenso informato degli utenti finali ad avviare un rapporto commerciale con l'operatore ammesso alla sperimentazione**»; «**il riconoscimento del diritto di recesso in qualsiasi momento senza oneri o penali**»; «**modalità di comunicazione al pubblico in merito all'ammissione/attività effettiva/termine del progetto**»; «**meccanismi di compensazione in caso di inadempienza del fornitore (ad esempio, garanzia finanziaria o assicurativa)**». ⚠️ **L'informazione ha due oggetti** (natura sperimentale **e** rischi connessi); **la comunicazione al pubblico ne ha tre** (ammissione, attività effettiva, **termine**).
+**Opzione:** Informazioni corrette e complete sulla natura sperimentale del progetto e sui rischi connessi, meccanismi di raccolta del consenso informato, riconoscimento del diritto di recesso in qualsiasi momento senza oneri o penali, modalità di comunicazione al pubblico e meccanismi di compensazione in caso di inadempienza del fornitore.
+**Distrattori:**
+- Informazioni corrette e complete sulla natura sperimentale del progetto e sui rischi connessi, meccanismi di raccolta del consenso informato, riconoscimento del diritto di recesso entro quattordici giorni dalla conclusione del contratto, modalità di comunicazione al pubblico e meccanismi di compensazione in caso di inadempienza del fornitore.
+- Informazioni corrette e complete sulla natura sperimentale del progetto e sui rischi connessi, meccanismi di raccolta del consenso informato, riconoscimento del diritto di recesso in qualsiasi momento senza oneri o penali, modalità di comunicazione al pubblico e copertura integrale delle perdite subite dagli utenti finali.
+- Informazioni sui soli rischi connessi al progetto, meccanismi di raccolta del consenso informato, riconoscimento del diritto di recesso in qualsiasi momento senza oneri o penali, modalità di comunicazione al pubblico e meccanismi di compensazione in caso di inadempienza del fornitore.
+
+**D:** ⚠️ Come è qualificato il diritto di recesso degli utenti finali nella sperimentazione?
+**R:** «**Il riconoscimento del diritto di recesso in qualsiasi momento senza oneri o penali.**» ⚠️ **Doppia qualificazione**: nessun limite **temporale** («in qualsiasi momento») e nessun costo («**senza oneri o penali**»). ⚠️ Non è il recesso a termine dei contratti a distanza: è **libero e gratuito** per tutta la durata del rapporto.
+**Opzione:** Come diritto di recesso esercitabile in qualsiasi momento e senza oneri o penali.
+**Distrattori:**
+- Come diritto di recesso esercitabile in qualsiasi momento, con addebito dei soli costi di chiusura del rapporto.
+- Come diritto di recesso esercitabile entro quattordici giorni dalla conclusione del contratto, senza oneri o penali.
+- Come diritto di recesso esercitabile in qualsiasi momento, purché l'operatore sia informato con un preavviso di trenta giorni.
+
+**D:** ⚠️ Quali meccanismi di compensazione devono essere previsti in caso di inadempienza del fornitore?
+**R:** «**Meccanismi di compensazione in caso di inadempienza del fornitore (ad esempio, garanzia finanziaria o assicurativa).**» ⚠️ **Gli esempi sono due** — «**garanzia finanziaria o assicurativa**» — e stanno **solo sulla slide**: il transcript nomina i meccanismi senza esemplificarli. ⚠️ Il presupposto è l'**inadempienza del fornitore**, non il semplice esito negativo della sperimentazione.
+**Opzione:** Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio una garanzia finanziaria o assicurativa.
+**Distrattori:**
+- Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio l'adesione a un sistema di garanzia dei depositi.
+- Meccanismi di compensazione in caso di esito negativo della sperimentazione, per esempio una garanzia finanziaria o assicurativa.
+- Meccanismi di compensazione in caso di inadempienza del fornitore, la cui forma è determinata in via esclusiva dall'autorità nel provvedimento di ammissione.
+
+**D:** Perché il docente dice che «ai regolatori sono un po' tremati i polsi»?
+**R:** Per la **sproporzione fra la promessa e i documenti richiesti**: si tratta «di un **set informativo molto simile a quello utilizzato per le richieste di ammissione da parte degli operatori finanziari più evoluti**», tanto che «si ha l'impressione, leggendo queste pagine, che **ai regolatori siano un po' tremati i polsi**: *ti do la possibilità di derogare ad alcune norme, ti do la possibilità di fare un'autorizzazione **light***… ciò nonostante ti chiedo una serie di documenti che sono comunque quelli che vengono richiesti in questi casi». Ne segue la critica pratica: «**tutti questi documenti scoraggiano l'operatore molto giovane**, che deve sostenere dei costi evidentemente anche **legali** per farsi assistere», perché è «un set documentale che presuppone già… una sorta di **maturità dell'ente**». ⚠️ È il rovescio del criterio dello «**stato sufficientemente avanzato**» criticato alla lezione 29. ⚠️ Solo nel transcript ([00:01:36]).
+
+**D:** ⚠️ Che cosa valuta l'istruttoria sull'ammissione della domanda?
+**R:** «**L'istruttoria sull'ammissione della domanda viene svolta da ciascuna Autorità, che valuta: la completezza e l'ammissibilità della domanda; l'adeguatezza dell'eventuale richiesta di deroghe; la correttezza delle modalità di svolgimento dell'attività proposta; l'adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.**» ⚠️ **La quarta voce guarda all'autorità, non all'operatore**: si valuta se i **poteri di vigilanza** siano adeguati. ⚠️ **L'istruttoria è di ciascuna autorità**, non un procedimento unico.
+**Opzione:** La completezza e l'ammissibilità della domanda, l'adeguatezza dell'eventuale richiesta di deroghe, la correttezza delle modalità di svolgimento dell'attività proposta e l'adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.
+**Distrattori:**
+- La completezza e l'ammissibilità della domanda, l'adeguatezza dell'eventuale richiesta di deroghe, la correttezza delle modalità di svolgimento dell'attività proposta e la redditività prospettica dell'attività proposta.
+- La completezza e l'ammissibilità della domanda, l'obbligatorietà della richiesta di deroghe, la correttezza delle modalità di svolgimento dell'attività proposta e l'adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.
+- La sola completezza e ammissibilità della domanda, valutata da un'unica autorità individuata nella fase dei contatti informali.
+
+**D:** ⚠️ Di quali misure l'istruttoria valuta «l'adeguatezza e l'efficacia»?
+**R:** **Quattro**: «**misure di protezione dai rischi**»; «**strumenti di protezione degli utenti finali**»; «**mezzi di comunicazione al pubblico in merito alla sperimentazione**»; «**misure da adottare al termine della sperimentazione**». ⚠️ **Già in istruttoria si valutano le misure di uscita**: l'ultima voce guarda al **termine** della sperimentazione. ⚠️ La formula richiede **due** qualità insieme, **adeguatezza ed efficacia**.
+**Opzione:** Le misure di protezione dai rischi, gli strumenti di protezione degli utenti finali, i mezzi di comunicazione al pubblico in merito alla sperimentazione e le misure da adottare al termine della sperimentazione.
+**Distrattori:**
+- Le misure di protezione dai rischi, gli strumenti di protezione degli utenti finali, i mezzi di comunicazione al pubblico in merito alla sperimentazione e le misure da adottare in caso di revoca dell'ammissione.
+- Le misure di protezione dai rischi, gli strumenti di protezione degli utenti finali e i mezzi di comunicazione al pubblico in merito alla sperimentazione.
+- Le misure di protezione dai rischi, gli strumenti di protezione degli azionisti dell'operatore, i mezzi di comunicazione al pubblico in merito alla sperimentazione e le misure da adottare al termine della sperimentazione.
+
+**D:** ⚠️ In base a quali principi è effettuata la valutazione della domanda?
+**R:** «**La valutazione della domanda viene effettuata in base ai principi di proporzionalità, parità di trattamento e non discriminazione.**» ⚠️ **Tre** principi, ed è la risposta normativa ai dubbi di ***level playing field*** sollevati alla lezione 29 («**fair treatment**», «sospetti da un punto di vista di **costituzionalità**»). ⚠️ Il transcript li rende «principi **dichiaratamente proporzionali**, parità di trattamento e non discriminazione».
+**Opzione:** Proporzionalità, parità di trattamento e non discriminazione.
+**Distrattori:**
+- Proporzionalità, parità di trattamento e neutralità tecnologica.
+- Proporzionalità, sana e prudente gestione e non discriminazione.
+- Proporzionalità e parità di trattamento.
+
+**D:** ⚠️ Di quali elementi tiene conto la valutazione della domanda?
+**R:** **Sei**: «**volume dell'attività proposta; tipo di servizi da fornire; caratteristiche e numero di utenti finali previsti; modalità di fornitura del servizio; durata del progetto; eventuali deroghe**». ⚠️ Gli utenti finali sono qui «**previsti**», mentre nei **provvedimenti ad hoc** diventano «**protetti**»: una parola separa due elenchi quasi identici. ⚠️ Il transcript aggiunge una glossa che sulla slide non c'è: «il volume dell'attività proposta, **l'impatto cioè**».
+**Opzione:** Volume dell'attività proposta, tipo di servizi da fornire, caratteristiche e numero di utenti finali previsti, modalità di fornitura del servizio, durata del progetto ed eventuali deroghe.
+**Distrattori:**
+- Volume dell'attività proposta, tipo di servizi da fornire, caratteristiche e numero di utenti finali protetti, modalità di fornitura del servizio, durata del progetto ed eventuali deroghe.
+- Volume dell'attività proposta, tipo di servizi da fornire, caratteristiche e numero di utenti finali previsti, modalità di fornitura del servizio, forma giuridica del richiedente ed eventuali deroghe.
+- Volume dell'attività proposta, tipo di servizi da fornire, caratteristiche e numero di utenti finali previsti, modalità di fornitura del servizio e durata del progetto.
+
+**D:** ⚠️ Quali termini scandiscono il passaggio della relazione sintetica al Comitato?
+**R:** «**Entro 45 giorni dalla richiesta, una relazione sintetica viene inviata alla Segreteria Tecnica del Comitato che, entro i successivi 5 giorni, la trasmette ai membri del Comitato che, a loro volta, possono convocare una riunione con le Autorità.**» ⚠️ **Tre passaggi, due termini**: autorità → **45 giorni** → Segreteria Tecnica → **5 giorni** → membri del Comitato. ⚠️ **La convocazione della riunione è facoltativa**: «**possono** convocare». ⚠️ Da non confondere con i **60 giorni** del provvedimento e i **30** della proroga.
+**Opzione:** Quarantacinque giorni per l'invio della relazione sintetica alla Segreteria Tecnica del Comitato e cinque giorni successivi per la trasmissione ai membri del Comitato.
+**Distrattori:**
+- Sessanta giorni per l'invio della relazione sintetica alla Segreteria Tecnica del Comitato e cinque giorni successivi per la trasmissione ai membri del Comitato.
+- Quarantacinque giorni per l'invio della relazione sintetica ai membri del Comitato e cinque giorni successivi per la convocazione obbligatoria di una riunione con le autorità.
+- Trenta giorni per l'invio della relazione sintetica alla Segreteria Tecnica del Comitato e quindici giorni successivi per la trasmissione ai membri del Comitato.
+
+**D:** ⚠️ Che cosa accade se l'attività proposta ricade sotto la vigilanza di più autorità?
+**R:** «**Nota bene: la sperimentazione di attività proposte che ricadono sotto la vigilanza di più Autorità è consentita solo se l'istruttoria di ammissione ha avuto esito positivo da parte di ciascuna di esse.**» ⚠️ **Serve il doppio consenso**, ed è una **condizione di ammissibilità**, non un mero obbligo di coordinamento. ⚠️ Il docente: «**non è che una dica *per me va bene* e l'altra no**, andiamo avanti: essendo doppiamente vigilata… **doppia autorizzazione**».
+**Opzione:** La sperimentazione è consentita solo se l'istruttoria di ammissione ha avuto esito positivo da parte di ciascuna delle autorità coinvolte.
+**Distrattori:**
+- La sperimentazione è consentita se l'istruttoria di ammissione ha avuto esito positivo da parte di almeno una delle autorità coinvolte.
+- La sperimentazione è consentita se l'istruttoria di ammissione ha avuto esito positivo da parte dell'autorità competente per il mercato di destinazione.
+- La sperimentazione è consentita solo previa autorizzazione del Comitato FinTech, che risolve i conflitti fra le autorità coinvolte.
+
+**D:** ⚠️ Entro quanto tempo e con quale contenuto l'autorità emette il provvedimento della Fase III?
+**R:** «**Entro 60 giorni dalla richiesta, sempre che quest'ultima abbia avuto esito positivo, ogni Autorità emette un provvedimento (es. autorizzazione/registrazione/ammissione alla sperimentazione), che indica: modalità e durata della sperimentazione; disposizioni/linee guida che possono essere disapplicate; le misure da adottare per proteggere i rischi e gli utenti finali; le informazioni da fornire agli utenti finali in merito al contesto della sperimentazione; informazioni da fornire alle Autorità; parametri quantitativi e qualitativi da utilizzare per la valutazione degli indicatori per la valutazione della sperimentazione.**» ⚠️ **Sessanta giorni**, e il provvedimento è di **ogni** autorità. ⚠️ **Le informazioni sono su due fronti**, agli utenti finali e alle autorità, in **due voci distinte**. ⚠️ **I parametri sono «quantitativi e qualitativi»**.
+**Opzione:** Entro sessanta giorni dalla richiesta, indicando modalità e durata della sperimentazione, disposizioni disapplicabili, misure di protezione dei rischi e degli utenti finali, informazioni da fornire agli utenti finali e alle autorità e parametri quantitativi e qualitativi di valutazione.
+**Distrattori:**
+- Entro quarantacinque giorni dalla richiesta, indicando modalità e durata della sperimentazione, disposizioni disapplicabili, misure di protezione dei rischi e degli utenti finali, informazioni da fornire agli utenti finali e alle autorità e parametri quantitativi e qualitativi di valutazione.
+- Entro sessanta giorni dalla richiesta, indicando modalità e durata della sperimentazione, disposizioni disapplicabili, misure di protezione dei rischi e degli utenti finali, informazioni da fornire alle sole autorità e parametri esclusivamente quantitativi di valutazione.
+- Entro sessanta giorni dalla richiesta, con un provvedimento unico adottato congiuntamente da tutte le autorità coinvolte, che indica modalità e durata della sperimentazione e le disposizioni disapplicabili.
+
+**D:** ⚠️ Che cosa possono rilasciare le autorità con i provvedimenti ad hoc?
+**R:** «**Ogni Autorità competente può rilasciare: autorizzazioni/registrazioni che consentano un ambito operativo più rigoroso per quanto riguarda: volume di attività; tipo di servizi da fornire; caratteristiche e numero di utenti finali protetti; modalità di erogazione del/i servizio/i proposto/i; durata del/i servizio/i proposto/i; eventuali deroghe alle disposizioni normative; adozione di una forma giuridica per il richiedente diversa da quella richiesta dalla legge applicabile.**» ⚠️ **L'ambito è «più rigoroso», non più ampio**: la sandbox può **stringere**. ⚠️ **Sette voci**, contro le sei della valutazione, e con utenti finali «**protetti**» in luogo di «previsti». ⚠️ Per il docente è la prova della «**crisi delle fonti del diritto**»: «vedete quanto spazio l'autorità ha per derogare… qua c'è una **vera e propria regolamentazione parallela**».
+**Opzione:** Autorizzazioni o registrazioni che consentano un ambito operativo più rigoroso quanto a volume di attività, tipo di servizi, caratteristiche e numero di utenti finali protetti, modalità di erogazione e durata dei servizi, eventuali deroghe e adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile.
+**Distrattori:**
+- Autorizzazioni o registrazioni che consentano un ambito operativo più ampio quanto a volume di attività, tipo di servizi, caratteristiche e numero di utenti finali protetti, modalità di erogazione e durata dei servizi, eventuali deroghe e adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile.
+- Autorizzazioni o registrazioni che consentano un ambito operativo più rigoroso quanto a volume di attività, tipo di servizi, caratteristiche e numero di utenti finali protetti, modalità di erogazione e durata dei servizi, eventuali deroghe e trasferimento della sede legale in Italia.
+- Autorizzazioni o registrazioni che consentano un ambito operativo più rigoroso quanto a volume di attività, tipo di servizi e caratteristiche e numero di utenti finali protetti, senza che sia possibile incidere sulla forma giuridica del richiedente.
+
+**D:** ⚠️ Quale potere sulla forma giuridica del richiedente hanno le autorità?
+**R:** Possono imporre l'«**adozione di una forma giuridica per il richiedente diversa da quella richiesta dalla legge applicabile**». ⚠️ È la **voce di chiusura** dell'elenco dei provvedimenti ad hoc e la più forte: la deroga non riguarda solo gli obblighi di comportamento, ma **la veste giuridica** dell'impresa. ⚠️ Anche qui la deroga è **in melius per la sperimentazione, non in libertà**: fa parte di un «**ambito operativo più rigoroso**».
+**Opzione:** Possono consentire l'adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile.
+**Distrattori:**
+- Possono consentire l'adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile, purché si tratti di una società di capitali.
+- Non hanno alcun potere sulla forma giuridica, che resta quella richiesta dalla legge applicabile all'attività proposta.
+- Possono imporre la trasformazione in banca o in impresa di investimento al termine della sperimentazione.
+
+**D:** ⚠️ Nella disciplina della Sandbox, quando gli utenti finali sono «previsti» e quando «protetti»?
+**R:** «**Previsti**» nella **valutazione della domanda**: «**caratteristiche e numero di utenti finali previsti**» fra gli elementi di cui la valutazione tiene conto. «**Protetti**» nei **provvedimenti ad hoc** delle autorità: «**caratteristiche e numero di utenti finali protetti**» fra i profili su cui può essere imposto un ambito operativo più rigoroso. ⚠️ **Due elenchi quasi identici separati da una parola**: è il materiale ideale per un distrattore a **oggetto scambiato**. ⚠️ Il senso segue la funzione: in istruttoria si **stima** la platea, nel provvedimento si **delimita** quella da tutelare.
+**Opzione:** Previsti nella valutazione della domanda di ammissione, protetti nei provvedimenti ad hoc delle autorità.
+**Distrattori:**
+- Protetti nella valutazione della domanda di ammissione, previsti nei provvedimenti ad hoc delle autorità.
+- Previsti nella valutazione della domanda di ammissione, protetti negli adempimenti finali degli operatori al termine della sperimentazione.
+- Previsti in entrambi i casi: la formula è identica nella valutazione della domanda e nei provvedimenti ad hoc.
+
+**D:** ⚠️ Quanto dura la sperimentazione e quando si può chiedere la proroga?
+**R:** «**Ogni progetto ammesso è sottoposto a una fase di sperimentazione, che ha una durata massima di 18 mesi. Tuttavia, 60 giorni prima del termine della sperimentazione, ogni operatore ammesso può presentare all'Autorità (o alle Autorità) una richiesta di proroga da trasmettere, a sua volta, al Comitato alla prima occasione utile e da rendere disponibile al pubblico.**» ⚠️ **Diciotto mesi è un tetto** («durata massima»), non una durata fissa. ⚠️ **La richiesta va resa disponibile al pubblico**: clausola presente **solo sulla slide**. ⚠️ Nel transcript il tetto diventa «**18 anni**» \[*sic*, ASR].
+**Opzione:** Ha una durata massima di diciotto mesi, e la proroga si può chiedere sessanta giorni prima del termine.
+**Distrattori:**
+- Ha una durata fissa di diciotto mesi, e la proroga si può chiedere sessanta giorni prima del termine.
+- Ha una durata massima di diciotto mesi, e la proroga si può chiedere trenta giorni prima del termine.
+- Ha una durata massima di dodici mesi, e la proroga si può chiedere sessanta giorni prima del termine.
+
+**D:** ⚠️ Da che cosa deve essere accompagnata la richiesta di proroga, ed entro quanto è concessa?
+**R:** «**La richiesta di proroga deve essere accompagnata da: una relazione economica e operativa della sperimentazione; adeguata motivazione.**» «**La proroga può essere concessa entro i successivi 30 giorni.**» ⚠️ **Due allegati obbligatori**, e la relazione è **economica e operativa** insieme. ⚠️ **Trenta giorni** per la concessione: da non confondere con i **60** della richiesta, i **60** del provvedimento e i **45 + 5** della relazione al Comitato. ⚠️ Per il docente «è una richiesta che si annida all'interno di un **percorso abbastanza insidioso**».
+**Opzione:** Da una relazione economica e operativa della sperimentazione e da un'adeguata motivazione; può essere concessa entro i trenta giorni successivi.
+**Distrattori:**
+- Da una relazione economica e operativa della sperimentazione e da un'adeguata motivazione; può essere concessa entro i sessanta giorni successivi.
+- Da una relazione economica e operativa della sperimentazione e dal parere favorevole del Comitato FinTech; può essere concessa entro i trenta giorni successivi.
+- Da una relazione tecnica sull'infrastruttura utilizzata e da un'adeguata motivazione; può essere concessa entro i trenta giorni successivi.
+
+**D:** ⚠️ A quali condizioni può essere concessa la proroga?
+**R:** **Quattro**: «**la relativa richiesta sia finalizzata ad estendere la sperimentazione dal periodo iniziale (più breve) a quello massimo di 18 mesi**»; «**il richiedente si impegni a rispettare le stesse disposizioni di legge che regolano l'esenzione richiesta (cioè l'estensione di 12 mesi)**»; «**ogni Autorità prevede l'adozione di modifiche al regolamento pertinente, a seguito delle quali l'attività in questione potrà essere svolta al di fuori della sperimentazione (estensione di 12 mesi)**»; «**è necessaria un'autorizzazione o una registrazione, nel qual caso viene concessa una proroga fino alla decisione sulla relativa domanda**». ⚠️ **La proroga non sfonda il tetto dei 18 mesi**: serve a passare «**dal periodo iniziale (più breve)**» a quello massimo. ⚠️ L'«**estensione di 12 mesi**» compare **due volte**.
+**Opzione:** Che la richiesta serva a estendere la sperimentazione dal periodo iniziale più breve a quello massimo di diciotto mesi, che il richiedente si impegni a rispettare le disposizioni che regolano l'esenzione, che l'autorità preveda modifiche al regolamento tali da consentire l'attività fuori dalla sperimentazione, o che sia necessaria un'autorizzazione o registrazione ancora da decidere.
+**Distrattori:**
+- Che la richiesta serva a estendere la sperimentazione oltre il tetto dei diciotto mesi, che il richiedente si impegni a rispettare le disposizioni che regolano l'esenzione, che l'autorità preveda modifiche al regolamento tali da consentire l'attività fuori dalla sperimentazione, o che sia necessaria un'autorizzazione o registrazione ancora da decidere.
+- Che la richiesta serva a estendere la sperimentazione dal periodo iniziale più breve a quello massimo di diciotto mesi, che il richiedente rinunci alle deroghe già concesse, che l'autorità preveda modifiche al regolamento tali da consentire l'attività fuori dalla sperimentazione, o che sia necessaria un'autorizzazione o registrazione ancora da decidere.
+- Che la richiesta serva a estendere la sperimentazione dal periodo iniziale più breve a quello massimo di diciotto mesi e che il Comitato FinTech esprima parere favorevole nella prima riunione utile.
+
+**D:** ⚠️ In quali casi l'autorità può revocare l'ammissione alla sperimentazione?
+**R:** **Sette**: «**inattività dell'operatore per più di 3 mesi**»; «**su richiesta dell'operatore ammesso**»; «**se le condizioni di ammissione non sono più soddisfatte**»; «**violazione di leggi o regolamenti**»; «**proposta di attività ritenuta rischiosa per la stabilità del sistema bancario/finanziario/assicurativo di riferimento**»; «**sottoposizione a procedure di sovraindebitamento**»; «**mancato deposito dei bilanci presso il Registro delle Imprese**». E «**la revoca dell'ammissione può comportare la revoca dell'autorizzazione rilasciata per l'esercizio dell'attività oggetto di verifica**». ⚠️ **La seconda causa è volontaria**. ⚠️ **Le ultime due riprendono le preclusioni d'accesso** della lezione 29. ⚠️ **La revoca dell'autorizzazione è eventuale**: «**può** comportare».
+**Opzione:** Inattività per più di tre mesi, richiesta dell'operatore ammesso, venir meno delle condizioni di ammissione, violazione di leggi o regolamenti, attività ritenuta rischiosa per la stabilità del sistema di riferimento, sottoposizione a procedure di sovraindebitamento e mancato deposito dei bilanci presso il Registro delle Imprese.
+**Distrattori:**
+- Inattività per più di sei mesi, richiesta dell'operatore ammesso, venir meno delle condizioni di ammissione, violazione di leggi o regolamenti, attività ritenuta rischiosa per la stabilità del sistema di riferimento, sottoposizione a procedure di sovraindebitamento e mancato deposito dei bilanci presso il Registro delle Imprese.
+- Inattività per più di tre mesi, venir meno delle condizioni di ammissione, violazione di leggi o regolamenti, attività ritenuta rischiosa per la stabilità del sistema di riferimento, sottoposizione a procedure di sovraindebitamento, mancato deposito dei bilanci presso il Registro delle Imprese e valutazione negativa dell'esito della sperimentazione.
+- Inattività per più di tre mesi, richiesta dell'operatore ammesso, venir meno delle condizioni di ammissione, violazione di leggi o regolamenti, attività ritenuta rischiosa per la stabilità del sistema di riferimento, sottoposizione a procedure di sovraindebitamento e mancata adesione a un sistema di garanzia degli utenti finali.
+
+**D:** ⚠️ Oltre quale periodo di inattività l'ammissione può essere revocata?
+**R:** «**Inattività dell'operatore per più di 3 mesi.**» ⚠️ È l'**unico termine** dell'elenco delle cause di revoca, e va tenuto distinto dagli altri numeri della disciplina: **18 mesi** di durata massima, **60 giorni** per chiedere la proroga, **30 giorni** per concederla, **45 + 5 giorni** per la relazione al Comitato, **60 giorni** per il provvedimento di ammissione.
+**Opzione:** Oltre tre mesi di inattività.
+**Distrattori:**
+- Oltre sei mesi di inattività.
+- Oltre dodici mesi di inattività.
+- Oltre trenta giorni di inattività.
+
+**D:** ⚠️ Quali adempimenti gravano sull'operatore FinTech nella Fase IV, e con quali scadenze?
+**R:** **Quattro**: «**60 PRECEDENTI IL TERMINE DELLA SPERIMENTAZIONE**» \[*sic*, la slide omette «giorni»] → «**Possibile domanda di autorizzazione**»; «**IMMEDIATAMENTE PRIMA DEL TERMINE DELLA SPERIMENTAZIONE**» → «**Informare gli utenti finali della fine della sperimentazione**»; «**15 PRECEDENTI IL TEMINE DELLA SPERIMENTAZIONE**» \[*sic*] → «**Se del caso, informare gli utenti finali delle misure necessarie per chiudere le relazioni commerciali esistenti con loro**»; «**AL TERMINE DELLA SPERIMENTAZIONE**» → «**Relazione economica e operativa sulla sperimentazione**». ⚠️ **La domanda di autorizzazione è «possibile», non obbligatoria**. ⚠️ **Il terzo adempimento è condizionato** («se del caso»).
+**Opzione:** A sessanta giorni dal termine la possibile domanda di autorizzazione, immediatamente prima del termine l'informazione agli utenti finali sulla fine della sperimentazione, a quindici giorni dal termine e se del caso l'informazione sulle misure per chiudere i rapporti, al termine la relazione economica e operativa.
+**Distrattori:**
+- A sessanta giorni dal termine la domanda obbligatoria di autorizzazione, immediatamente prima del termine l'informazione agli utenti finali sulla fine della sperimentazione, a quindici giorni dal termine e se del caso l'informazione sulle misure per chiudere i rapporti, al termine la relazione economica e operativa.
+- A trenta giorni dal termine la possibile domanda di autorizzazione, immediatamente prima del termine l'informazione agli utenti finali sulla fine della sperimentazione, a quindici giorni dal termine e se del caso l'informazione sulle misure per chiudere i rapporti, al termine la relazione economica e operativa.
+- A sessanta giorni dal termine la possibile domanda di autorizzazione, immediatamente prima del termine l'informazione agli utenti finali sulla fine della sperimentazione, a quindici giorni dal termine l'informazione obbligatoria sulle misure per chiudere i rapporti, al termine la relazione tecnica sull'infrastruttura utilizzata.
+
+**D:** ⚠️ Che effetto ha la fine dei test sulle deroghe concesse?
+**R:** «**La fine dei test comporta la cessazione automatica delle eventuali deroghe concesse.**» ⚠️ **È automatica**: non serve un provvedimento di revoca. ⚠️ Il docente ne trae il **bivio** dell'uscita: «l'intermediario ha le **due strade** di **richiedere l'autorizzazione totale**, e quindi prosegue, o **fermarsi e agire senza le deroghe concesse in un campo non regolamentato**… **due scenari completamente diversi che forse richiederebbero… una fase intermedia**».
+**Opzione:** Ne comporta la cessazione automatica.
+**Distrattori:**
+- Ne comporta la cessazione solo dopo un provvedimento espresso dell'autorità competente.
+- Ne comporta la proroga fino alla decisione sull'eventuale domanda di autorizzazione piena.
+- Non ha alcun effetto: le deroghe restano efficaci per l'attività già avviata durante la sperimentazione.
+
+**D:** ⚠️ Quali sono i doveri delle autorità al termine della sperimentazione?
+**R:** **Due**, su presupposti diversi. In caso di «**valutazione positiva della sperimentazione**»: «**avvio di indagini preliminari per eventuali modifiche normative ritenute necessarie**». «**In ogni caso**»: «**informa il Comitato della conclusione della sperimentazione e trasmette una relazione sull'esito della stessa, segnalando opportunità di modifiche normative o chiarimenti interpretativi**». ⚠️ **Le indagini preliminari solo se l'esito è positivo**; **l'informazione al Comitato sempre**. ⚠️ La relazione segnala **due** cose: «**opportunità di modifiche normative**» **o** «**chiarimenti interpretativi**». ⚠️ È il circuito che chiude la logica della sandbox: la sperimentazione **produce norme**.
+**Opzione:** In caso di valutazione positiva l'avvio di indagini preliminari per eventuali modifiche normative, e in ogni caso l'informazione al Comitato con una relazione sull'esito, segnalando opportunità di modifiche normative o chiarimenti interpretativi.
+**Distrattori:**
+- In ogni caso l'avvio di indagini preliminari per eventuali modifiche normative, e in caso di valutazione positiva l'informazione al Comitato con una relazione sull'esito, segnalando opportunità di modifiche normative o chiarimenti interpretativi.
+- In caso di valutazione positiva l'avvio di indagini preliminari per eventuali modifiche normative, e in ogni caso il rilascio dell'autorizzazione piena all'operatore ammesso.
+- In caso di valutazione positiva l'avvio di indagini preliminari per eventuali modifiche normative, e in caso di valutazione negativa la trasmissione al Comitato di una proposta di revoca dell'autorizzazione.
+
+**D:** ⚠️ Quali vantaggi offre la Sandbox alle imprese FinTech?
+**R:** **Sei**: «**Testare soluzioni tecnologicamente innovative e godere di un regime temporaneo semplificato**»; «**Effettuare un'analisi legale, finanziaria ed economica di un'attività proposta**»; «**Verificare se un servizio/prodotto proposto è "adatto" a essere lanciato sul mercato**»; «**Relazioni informali con le autorità**»; «**Attirare potenziali investitori**»; «**Supporto all'espansione del mercato di riferimento**». ⚠️ **Il regime semplificato è «temporaneo»**, aggettivo che il transcript perde. ⚠️ **L'analisi è tripla**: legale, finanziaria **ed economica** — per il docente «una **professionalizzazione** anche delle startup».
+**Opzione:** Testare soluzioni tecnologicamente innovative godendo di un regime temporaneo semplificato, effettuare un'analisi legale, finanziaria ed economica dell'attività proposta, verificare se il servizio è adatto al lancio sul mercato, intrattenere relazioni informali con le autorità, attirare potenziali investitori e ottenere supporto all'espansione del mercato di riferimento.
+**Distrattori:**
+- Testare soluzioni tecnologicamente innovative godendo di un regime permanente semplificato, effettuare un'analisi legale, finanziaria ed economica dell'attività proposta, verificare se il servizio è adatto al lancio sul mercato, intrattenere relazioni informali con le autorità, attirare potenziali investitori e ottenere supporto all'espansione del mercato di riferimento.
+- Testare soluzioni tecnologicamente innovative godendo di un regime temporaneo semplificato, effettuare un'analisi legale, finanziaria ed economica dell'attività proposta, verificare se il servizio è adatto al lancio sul mercato, intrattenere relazioni informali con le autorità, attirare potenziali investitori e ottenere il riconoscimento automatico dell'autorizzazione negli altri Stati membri.
+- Testare soluzioni tecnologicamente innovative godendo di un regime temporaneo semplificato, effettuare un'analisi esclusivamente legale dell'attività proposta, verificare se il servizio è adatto al lancio sul mercato, intrattenere relazioni informali con le autorità, attirare potenziali investitori e ottenere supporto all'espansione del mercato di riferimento.
+
+**D:** ⚠️ Quali criticità della Sandbox riguardano il coordinamento fra ordinamenti?
+**R:** **Cinque** voci, che il docente non commenta a voce («poi lo vedete voi nella **slide 18**»): «**L'operatore FinTech che ha terminato i test potrebbe dover seguire una nuova procedura di autorizzazione, con possibile duplicazione di costi e tempi**»; «**la relazione congiunta dell'ESA (gennaio 2019) mostra la necessità di migliorare il coordinamento transnazionale tra le autorità nazionali garanti della concorrenza e la cooperazione tra i facilitatori. Non esiste un meccanismo che consenta la diffusione delle innovazioni finanziarie in tutta l'UE, con possibili conseguenze in termini di "arbitraggio normativo" tra gli Stati membri dell'UE**»; «**assenza di un quadro normativo comune dell'UE e di autorità comuni che disciplinino le FinTech Sandbox**»; «**procedura dispendiosa in termini di tempo quando è richiesta l'autorizzazione di diverse autorità nazionali garanti della concorrenza**»; «**necessità di un chiaro quadro di comunicazione tra le Autorità**». ⚠️ **«Arbitraggio normativo» è fra virgolette sulla slide**. ⚠️ Il rimedio che il docente indica è il **regime pilota** del Regolamento DLT: «lì si parlava di un regulatory sandbox delle **infrastrutture di mercato unico per l'Europa**. **Ottima iniziativa, perché non farla anche qui?**»
+**Opzione:** La possibile nuova procedura di autorizzazione dopo i test, la necessità di migliorare il coordinamento transnazionale rilevata dalla relazione congiunta dell'ESA, l'assenza di un quadro normativo comune dell'Unione e di autorità comuni, la procedura dispendiosa quando servono più autorizzazioni nazionali e la necessità di un chiaro quadro di comunicazione tra le autorità.
+**Distrattori:**
+- La possibile nuova procedura di autorizzazione dopo i test, la necessità di migliorare il coordinamento transnazionale rilevata dalla relazione congiunta dell'ESA, l'assenza di un quadro normativo comune dell'Unione e di autorità comuni, la procedura dispendiosa quando servono più autorizzazioni nazionali e il divieto di riconoscimento reciproco delle sperimentazioni.
+- La possibile nuova procedura di autorizzazione dopo i test, la necessità di migliorare il coordinamento transnazionale rilevata dal Comitato FinTech, l'assenza di un quadro normativo comune dell'Unione e di autorità comuni, la procedura dispendiosa quando servono più autorizzazioni nazionali e la necessità di un chiaro quadro di comunicazione tra le autorità.
+- La possibile nuova procedura di autorizzazione dopo i test, l'esistenza di un meccanismo europeo di diffusione delle innovazioni finanziarie, l'assenza di autorità comuni che disciplinino le sandbox, la procedura dispendiosa quando servono più autorizzazioni nazionali e la necessità di un chiaro quadro di comunicazione tra le autorità.
+
+**D:** ⚠️ Quale relazione europea è citata fra le criticità della Sandbox, e di quando è?
+**R:** «**La relazione congiunta dell'ESA (gennaio 2019)**», che «**mostra la necessità di migliorare il coordinamento transnazionale tra le autorità nazionali garanti della concorrenza e la cooperazione tra i facilitatori**», e osserva che «**non esiste un meccanismo che consenta la diffusione delle innovazioni finanziarie in tutta l'UE, con possibili conseguenze in termini di "arbitraggio normativo" tra gli Stati membri dell'UE**». ⚠️ **Data e autore stanno solo sulla slide**: il transcript non la nomina. ⚠️ **Non esiste** un meccanismo europeo di diffusione: la frase è in negativo, e capovolgerla è il distrattore più naturale.
+**Opzione:** La relazione congiunta dell'ESA del gennaio 2019.
+**Distrattori:**
+- La relazione congiunta dell'ESA del gennaio 2021.
+- La relazione congiunta dell'EBA e dell'ESMA del gennaio 2019.
+- La relazione annuale del Comitato FinTech del gennaio 2019.
+
+**D:** ⚠️ Quali criticità della Sandbox riguardano il mercato e gli investitori?
+**R:** **Quattro**: «**privilegiare l'innovazione rispetto all'introduzione di adeguate garanzie può avere un potenziale impatto sulla protezione dei consumatori e sulla stabilità finanziaria**»; «**frammentazione del mercato, se i parametri operativi per i test divergono significativamente nei diversi paesi dell'UE e non UE**»; «**potenziali problemi di concorrenza, dovuti ai vantaggi derivanti da un orientamento normativo personalizzato e dall'opportunità di commercializzare i nuovi prodotti in anticipo sui concorrenti**»; «**il rischio di un comportamento di "gregge" da parte degli investitori, in quanto l'ammissione alla Sandbox viene percepita come un "marchio di qualità" dell'attività proposta**». ⚠️ **La frammentazione riguarda i paesi «dell'UE e non UE»** — il docente esemplifica con «**Inghilterra, Spagna, Italia**». ⚠️ **Il problema di concorrenza ha due cause**: l'orientamento normativo **personalizzato** e il vantaggio di **tempo** sui concorrenti.
+**Opzione:** Il rischio che privilegiare l'innovazione rispetto ad adeguate garanzie incida su consumatori e stabilità finanziaria, la frammentazione del mercato se i parametri dei test divergono fra paesi UE e non UE, i problemi di concorrenza dovuti all'orientamento normativo personalizzato e al vantaggio di tempo sui concorrenti, e il comportamento di gregge degli investitori.
+**Distrattori:**
+- Il rischio che privilegiare l'innovazione rispetto ad adeguate garanzie incida su consumatori e stabilità finanziaria, la frammentazione del mercato se i parametri dei test divergono fra i soli paesi dell'Unione, i problemi di concorrenza dovuti all'orientamento normativo personalizzato e al vantaggio di tempo sui concorrenti, e il comportamento di gregge degli investitori.
+- Il rischio che privilegiare le garanzie rispetto all'innovazione rallenti lo sviluppo del mercato, la frammentazione del mercato se i parametri dei test divergono fra paesi UE e non UE, i problemi di concorrenza dovuti all'orientamento normativo personalizzato, e il comportamento di gregge degli investitori.
+- Il rischio che privilegiare l'innovazione rispetto ad adeguate garanzie incida su consumatori e stabilità finanziaria, la frammentazione del mercato se i parametri dei test divergono fra paesi UE e non UE, i problemi di concorrenza dovuti all'orientamento normativo personalizzato e al vantaggio di tempo sui concorrenti, e la scarsa attrattività della sandbox per gli investitori istituzionali.
+
+**D:** ⚠️ In che consiste il rischio di «comportamento di gregge» degli investitori?
+**R:** «**Il rischio di un comportamento di "gregge" da parte degli investitori, in quanto l'ammissione alla Sandbox viene percepita come un "marchio di qualità" dell'attività proposta.**» ⚠️ **Entrambe le espressioni sono fra virgolette sulla slide**. Il docente la indica come la criticità **principale** e ne trae due conseguenze: «rischia di **ingolfare le autorità**, far arrivare loro dei progetti che **non hanno nulla o poco di innovativo**, che **non sono in una fase di sviluppo tale da essere ammessi**»; e dà «la sbagliata impressione… che per le fintech startup **solo l'ammissione alla regulatory sandbox sia un marchio di qualità**», mentre «esiste **sempre la strada tradizionale della regolamentazione a 360°**… che… **può in determinati casi essere la soluzione migliore**».
+**Opzione:** Nel rischio che gli investitori seguano il gruppo perché l'ammissione alla sandbox è percepita come un marchio di qualità dell'attività proposta.
+**Distrattori:**
+- Nel rischio che gli investitori seguano il gruppo perché l'ammissione alla sandbox comporta una garanzia pubblica sulle perdite.
+- Nel rischio che gli operatori presentino progetti identici fra loro per aumentare le probabilità di ammissione.
+- Nel rischio che gli investitori abbandonino simultaneamente il progetto al termine della sperimentazione, quando cessano le deroghe.
+
+**D:** Quali due strade ha l'operatore alla fine della sperimentazione, secondo il docente?
+**R:** «Nel momento in cui si chiude la sperimentazione, l'intermediario ha le **due strade** di **richiedere l'autorizzazione totale**, e quindi prosegue, o **fermarsi e agire senza le deroghe concesse in un campo non regolamentato**.» ⚠️ Il commento: «**due scenari completamente diversi che forse richiederebbero proprio, per quanto siano opposti, una fase intermedia**» — è la stessa proposta dello «***scale box***» avanzata alla lezione 29. ⚠️ Il presupposto normativo è la slide: «**la fine dei test comporta la cessazione automatica delle eventuali deroghe concesse**». ⚠️ Solo nel transcript ([00:06:18]).
+
+**D:** ⚠️ Perché il docente parla di «regolamentazione parallela» a proposito dei provvedimenti ad hoc?
+**R:** Perché l'ampiezza dei poteri di modulazione riconosciuti all'autorità — fino a incidere su volume, servizi, utenti, modalità, durata, deroghe e perfino sulla «**forma giuridica… diversa da quella richiesta dalla legge applicabile**» — produce una disciplina **su misura per ciascun operatore**: «**vedete quanto spazio l'autorità ha per derogare, ecco perché si parla di crisi delle fonti del diritto, perché ovviamente qua c'è una vera e propria regolamentazione parallela**». ⚠️ È lo stesso nodo della lezione 29 (*fair treatment*, ***level playing field***, dubbi di costituzionalità), cui la slide 8 risponde con i principi di «**proporzionalità, parità di trattamento e non discriminazione**». ⚠️ Solo nel transcript ([00:03:56]).
+
+**D:** ⚠️ Che cosa sono, nelle criticità della slide 18, le «autorità nazionali garanti della concorrenza» e i «facilitatori»?
+**R:** Sono **espressioni della slide**, che le usa due volte: «migliorare il **coordinamento transnazionale tra le autorità nazionali garanti della concorrenza** e la **cooperazione tra i facilitatori**» e «procedura dispendiosa… quando è richiesta l'autorizzazione di **diverse autorità nazionali garanti della concorrenza**». ⚠️ ℹ️ **Integrazione (non dai materiali del corso):** sono con ogni evidenza il residuo di una **traduzione automatica** della relazione delle ESA: nell'originale si tratta delle ***national competent authorities*** — le autorità nazionali **competenti**, cioè Banca d'Italia, CONSOB, IVASS e omologhe — e degli ***innovation facilitators***, cioè sandbox e *innovation hub*. Nel contesto della sandbox l'**autorità antitrust non c'entra**. ⚠️ **All'esame vale però la formula stampata sulla slide**: le opzioni sono citazioni letterali, quindi la dizione «autorità nazionali garanti della concorrenza» va riconosciuta come **corretta** se compare in un'opzione, e non scartata perché tecnicamente impropria.
+
+**D:** Con quale bilancio e con quale auspicio il docente chiude il ciclo sulla Sandbox?
+**R:** Dichiarando il metodo: «l'impostazione che ho dato a queste tre lezioni sul sandbox è un'impostazione **mista**, dove avete delle **nozioni di base**… ma al tempo stesso anche un **approccio critico**, ***provoking***, come dicono gli inglesi, dove dovete necessariamente, **utilizzando il manuale che vi è stato dato**, capire quali sono gli **angoli di sviluppo** di un'iniziativa sicuramente importante, ma quali sono anche le **criticità da un punto di vista di politica legislativa e di concorrenza del mercato**». E con un auspicio istituzionale, che richiama il precedente britannico della lezione 28: «**mi aspetto e mi auguro che una review del sistema fintech, che coinvolga anche lo stato attuale del regulatory sandbox, possa avvenire in Italia**, dando così un nuovo impulso a tutte quelle criticità che in questo momento stanno un po' **adombrando il decollo** di questa iniziativa, che io ritengo sia **un'iniziativa fondamentale per lo sviluppo di un nuovo sistema di regolamentazione e quindi di nuove fonti del diritto**». ⚠️ Solo nel transcript ([00:07:14]).
