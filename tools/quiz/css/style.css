@@ -161,6 +161,11 @@ input[type="number"] {
    resterebbe visibile a filtro spento. */
 .lesson-grid[hidden] { display: none; }
 
+/* «Seleziona tutte» / «Deseleziona tutte», sopra l'elenco. Anche qui `display`
+   batterebbe `hidden`. */
+.lesson-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin: .35rem 0 0; }
+.lesson-actions[hidden] { display: none; }
+
 .lesson-item {
   display: flex;
   align-items: baseline;
@@ -208,6 +213,7 @@ input[type="number"] {
 .btn-ghost { background: transparent; border-color: var(--border); color: var(--text); font-weight: 500; }
 .btn-danger { color: var(--ko); border-color: var(--ko); }
 .btn-block { width: 100%; }
+.btn-sm { padding: .3rem .7rem; min-height: 2rem; font-size: .85rem; }
 
 .actions { display: flex; gap: .6rem; margin-top: 1rem; }
 .actions .btn { flex: 1 1 auto; }

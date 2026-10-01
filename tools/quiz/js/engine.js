@@ -51,11 +51,26 @@ export function sample(list, n, rng = Math.random) {
 // ---------------------------------------------------------------------------
 
 /**
- * Quante lezioni al massimo si possono selezionare in una sola prova. Il
- * filtro serve a ripassare il blocco appena studiato: oltre una manciata di
- * lezioni tanto vale non filtrare affatto.
+ * Comprime una lista di numeri di lezione in intervalli leggibili:
+ * `["01","02","03","05","07","08"]` → `"01–03, 05, 07–08"`. Serve al
+ * promemoria del filtro durante la prova: con la selezione libera una prova
+ * può coprire 29 lezioni su 30, e l'elenco per esteso diventerebbe un muro.
+ *
+ * La contiguità si valuta sul valore numerico, la stampa conserva la stringa
+ * zero-padded così com'è scritta nel markdown.
  */
-export const MAX_LESSONS = 6;
+export function compactLessons(numbers) {
+  const sorted = Array.from(new Set((numbers || []).map(String)))
+    .filter((n) => Number.isFinite(parseInt(n, 10)))
+    .sort((a, b) => parseInt(a, 10) - parseInt(b, 10));
+  const runs = [];
+  for (const n of sorted) {
+    const last = runs[runs.length - 1];
+    if (last && parseInt(n, 10) === parseInt(last.end, 10) + 1) last.end = n;
+    else runs.push({ start: n, end: n });
+  }
+  return runs.map((r) => (r.start === r.end ? r.start : `${r.start}–${r.end}`)).join(', ');
+}
 
 /**
  * Elenco delle lezioni selezionabili, ricavato DAGLI ITEM e non da

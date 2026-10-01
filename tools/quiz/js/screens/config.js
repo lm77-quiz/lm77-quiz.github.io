@@ -4,7 +4,7 @@ import { el, clear } from '../dom.js';
 import { summarize } from '../storage.js';
 import {
   countReviewable, planSimCounts, SIM_TOTAL, cardHasMcq,
-  lessonPool, filterByLessons, MAX_LESSONS,
+  lessonPool, filterByLessons,
 } from '../engine.js';
 import { repoUrl } from '../discovery.js';
 
@@ -191,7 +191,7 @@ export function renderConfig(root, ctx) {
   const known = new Set(lessons.map((l) => l.number));
   // Si intersecano con le lezioni esistenti: una selezione salvata prima che i
   // materiali cambiassero non deve svuotare la prova in silenzio.
-  const selected = new Set(savedLessons.filter((n) => known.has(n)).slice(0, MAX_LESSONS));
+  const selected = new Set(savedLessons.filter((n) => known.has(n)));
   let filterOn = selected.size > 0;
 
   // Pool EFFETTIVO della prova. Sono `let` perché le hint dei cursori e i piani
@@ -349,14 +349,8 @@ export function renderConfig(root, ctx) {
       checked: selected.has(l.number),
     });
     box.addEventListener('change', () => {
-      if (box.checked) {
-        // Il tetto si difende anche qui, non solo disabilitando le caselle:
-        // da tastiera o con un doppio evento la spunta arriverebbe comunque.
-        if (selected.size >= MAX_LESSONS) { box.checked = false; return; }
-        selected.add(l.number);
-      } else {
-        selected.delete(l.number);
-      }
+      if (box.checked) selected.add(l.number);
+      else selected.delete(l.number);
       onLessonChange();
     });
     lessonBoxes.set(l.number, box);
@@ -371,15 +365,33 @@ export function renderConfig(root, ctx) {
   filterInput.addEventListener('change', () => {
     filterOn = filterInput.checked;
     // La selezione resta in memoria quando si spegne l'interruttore: riaccenderlo
-    // per sbaglio non deve costare il lavoro di rispuntare sei caselle.
+    // per sbaglio non deve costare il lavoro di rispuntare le caselle.
     onLessonChange();
   });
   const lessonToggle = el('p', { class: 'toggle' }, [
     el('label', { for: 'lesson-filter' }, [
       filterInput,
-      el('span', { text: ` Limita alle lezioni scelte (max ${MAX_LESSONS})` }),
+      el('span', { text: ' Limita alle lezioni scelte' }),
     ]),
   ]);
+
+  // Comandi rapidi sull'intero elenco: senza tetto alla selezione, «tutte
+  // tranne due» è un caso d'uso vero, e trenta spunte a mano non lo sono.
+  // Due bottoni espliciti e non una casella «master»: una seconda checkbox
+  // accanto all'interruttore del filtro si confonderebbe con esso.
+  function setAll(on) {
+    selected.clear();
+    for (const [number, box] of lessonBoxes) {
+      box.checked = on;
+      if (on) selected.add(number);
+    }
+    onLessonChange();
+  }
+  const selectAllBtn = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Seleziona tutte' });
+  selectAllBtn.addEventListener('click', () => setAll(true));
+  const selectNoneBtn = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Deseleziona tutte' });
+  selectNoneBtn.addEventListener('click', () => setAll(false));
+  const lessonActions = el('div', { class: 'lesson-actions' }, [selectAllBtn, selectNoneBtn]);
 
   /**
    * Un cambio di selezione ricalcola il pool e riporta i tre cursori sui nuovi
@@ -398,15 +410,16 @@ export function renderConfig(root, ctx) {
 
   function updateLessonUi() {
     lessonGrid.hidden = !filterOn;
-    for (const [number, box] of lessonBoxes) {
-      box.disabled = !filterOn || (!selected.has(number) && selected.size >= MAX_LESSONS);
-    }
+    lessonActions.hidden = !filterOn;
+    selectAllBtn.disabled = selected.size === lessons.length;
+    selectNoneBtn.disabled = selected.size === 0;
+    for (const box of lessonBoxes.values()) box.disabled = !filterOn;
     const blank = filterOn && !selected.size;
     lessonHint.textContent = !filterOn
       ? `La prova pesca da tutte le ${lessons.length} lezioni dell'esame.`
       : blank
         ? 'Scegli almeno una lezione.'
-        : `${selected.size} di ${MAX_LESSONS} lezioni selezionate: ${nMcq} quiz + ${nCards} flashcard nel pool.`;
+        : `${selected.size} di ${lessons.length} lezioni selezionate: ${nMcq} quiz + ${nCards} flashcard nel pool.`;
     startBtn.disabled = pool === 0;
     reviewBtn.disabled = pool === 0;
     // Domande e flashcard insieme: il ripasso pesa gli errori di entrambe, e il
@@ -440,6 +453,7 @@ export function renderConfig(root, ctx) {
   root.append(el('section', { class: 'card' }, [
     el('p', { class: 'hint', text: 'I tre cursori sono legati: il primo fissa la lunghezza della prova, gli altri due sono complementari — alzando l\'uno si abbassa l\'altro.' }),
     lessonToggle,
+    lessonActions,
     lessonGrid,
     lessonHint,
     totalCounter.node,

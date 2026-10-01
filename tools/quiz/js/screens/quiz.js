@@ -10,6 +10,7 @@
 
 import { el, clear } from '../dom.js';
 import { mdInline } from '../md-inline.js';
+import { compactLessons } from '../engine.js';
 
 /**
  * Promemoria del filtro attivo: senza, una prova corta su due lezioni sembra
@@ -17,7 +18,7 @@ import { mdInline } from '../md-inline.js';
  */
 function lessonBadge(s) {
   if (!s.lessons || !s.lessons.length) return null;
-  return el('span', { class: 'muted', text: `Lezioni ${s.lessons.join(', ')}` });
+  return el('span', { class: 'muted', text: `Lezioni ${compactLessons(s.lessons)}` });
 }
 
 export function renderQuiz(root, ctx) {
