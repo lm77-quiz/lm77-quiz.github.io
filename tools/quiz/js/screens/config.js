@@ -4,7 +4,7 @@ import { el, clear } from '../dom.js';
 import { summarize } from '../storage.js';
 import {
   countReviewable, planSimCounts, SIM_TOTAL, cardHasMcq,
-  lessonPool, filterByLessons,
+  lessonPool, filterByLessons, splitRecentLessons, compactLessons,
 } from '../engine.js';
 import { repoUrl } from '../discovery.js';
 
@@ -377,21 +377,48 @@ export function renderConfig(root, ctx) {
 
   // Comandi rapidi sull'intero elenco: senza tetto alla selezione, «tutte
   // tranne due» è un caso d'uso vero, e trenta spunte a mano non lo sono.
-  // Due bottoni espliciti e non una casella «master»: una seconda checkbox
+  // Bottoni espliciti e non una casella «master»: una seconda checkbox
   // accanto all'interruttore del filtro si confonderebbe con esso.
-  function setAll(on) {
+  //
+  // Gli ultimi due dividono il corso in blocco vecchio e blocco recente, con
+  // un'ampiezza che dipende dai CFU (10 lezioni da 5 CFU in su, 5 fino a 4):
+  // ripassare il già studiato senza le lezioni nuove, e viceversa. Su un corso
+  // che non ha più di N lezioni non hanno senso e non compaiono.
+  function selectOnly(numbers) {
+    const want = new Set(numbers);
     selected.clear();
     for (const [number, box] of lessonBoxes) {
-      box.checked = on;
-      if (on) selected.add(number);
+      box.checked = want.has(number);
+      if (box.checked) selected.add(number);
     }
     onLessonChange();
   }
-  const selectAllBtn = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Seleziona tutte' });
-  selectAllBtn.addEventListener('click', () => setAll(true));
-  const selectNoneBtn = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Deseleziona tutte' });
-  selectNoneBtn.addEventListener('click', () => setAll(false));
-  const lessonActions = el('div', { class: 'lesson-actions' }, [selectAllBtn, selectNoneBtn]);
+  const sameSet = (list) => selected.size === list.length && list.every((n) => selected.has(n));
+  // Un comando è spento quando la selezione è già la sua, ma con
+  // `aria-disabled` e non con `disabled`: un bottone disabilitato mentre ha il
+  // fuoco lo perde, e il browser lo rimanda in cima alla pagina — proprio dopo
+  // il click che l'ha spento. Così il fuoco resta lì e il tooltip si vede.
+  const quickPick = (text, numbers, title = null) => {
+    const btn = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text, title });
+    btn.addEventListener('click', () => {
+      if (btn.getAttribute('aria-disabled') !== 'true') selectOnly(numbers);
+    });
+    return { btn, numbers };
+  };
+  const allNumbers = lessons.map((l) => l.number);
+  const split = splitRecentLessons(allNumbers, exam.entry && exam.entry.cfu);
+  const quickPicks = [
+    quickPick('Seleziona tutte', allNumbers),
+    quickPick('Deseleziona tutte', []),
+    // Il tooltip dice quali lezioni: «le ultime 10» di un corso a metà non
+    // sono le 21–30 del piano (vedi splitRecentLessons). Su telefono, dove i
+    // tooltip non esistono, lo dice la riga sotto l'elenco.
+    ...(split ? [
+      quickPick(`Tutte tranne le ultime ${split.n}`, split.older, `Lezioni ${compactLessons(split.older)}`),
+      quickPick(`Solo le ultime ${split.n}`, split.recent, `Lezioni ${compactLessons(split.recent)}`),
+    ] : []),
+  ];
+  const lessonActions = el('div', { class: 'lesson-actions' }, quickPicks.map((p) => p.btn));
 
   /**
    * Un cambio di selezione ricalcola il pool e riporta i tre cursori sui nuovi
@@ -411,15 +438,14 @@ export function renderConfig(root, ctx) {
   function updateLessonUi() {
     lessonGrid.hidden = !filterOn;
     lessonActions.hidden = !filterOn;
-    selectAllBtn.disabled = selected.size === lessons.length;
-    selectNoneBtn.disabled = selected.size === 0;
+    for (const p of quickPicks) p.btn.setAttribute('aria-disabled', String(sameSet(p.numbers)));
     for (const box of lessonBoxes.values()) box.disabled = !filterOn;
     const blank = filterOn && !selected.size;
     lessonHint.textContent = !filterOn
       ? `La prova pesca da tutte le ${lessons.length} lezioni dell'esame.`
       : blank
         ? 'Scegli almeno una lezione.'
-        : `${selected.size} di ${lessons.length} lezioni selezionate: ${nMcq} quiz + ${nCards} flashcard nel pool.`;
+        : `Lezioni ${compactLessons(Array.from(selected))} — ${selected.size} di ${lessons.length} selezionate: ${nMcq} quiz + ${nCards} flashcard nel pool.`;
     startBtn.disabled = pool === 0;
     reviewBtn.disabled = pool === 0;
     // Domande e flashcard insieme: il ripasso pesa gli errori di entrambe, e il

@@ -78,8 +78,10 @@ export function compactLessons(numbers) {
  * pescare e i conteggi coincidono con ciò che finisce nella prova. Una lezione
  * con sole flashcard (nessun quiz) compare comunque, con `mcq: 0`.
  *
- * `number` è la stringa zero-padded dei file (`"01"`, `"16"`), quindi
- * l'ordinamento alfabetico è già quello giusto.
+ * `number` è la stringa così com'è scritta nel markdown, di norma zero-padded
+ * (`"01"`, `"16"`). L'ordinamento però è NUMERICO: i parser accettano anche
+ * `## Lezione 9`, che in ordine alfabetico finirebbe dopo la 15 — e da
+ * quest'ordine dipendono le «ultime N» di splitRecentLessons().
  *
  * @returns {Array<{number:string, title:string, mcq:number, cards:number}>}
  */
@@ -101,7 +103,40 @@ export function lessonPool(questions, cards) {
   };
   for (const q of questions || []) add(q, 'mcq');
   for (const c of cards || []) add(c, 'cards');
-  return Array.from(byNumber.values()).sort((a, b) => a.number.localeCompare(b.number));
+  return Array.from(byNumber.values())
+    .sort((a, b) => parseInt(a.number, 10) - parseInt(b.number, 10) || a.number.localeCompare(b.number));
+}
+
+/**
+ * Ampiezza del blocco «ultime lezioni» dei comandi rapidi del filtro: 10 per i
+ * corsi da 5 CFU in su, 5 per quelli fino a 4. CFU assente o non numerico → 0,
+ * cioè nessun blocco: meglio niente bottoni che un'ampiezza tirata a indovinare.
+ */
+export function recentLessonCount(cfu) {
+  const n = Number(cfu);
+  if (!Number.isFinite(n) || n <= 0) return 0;
+  return n >= 5 ? 10 : 5;
+}
+
+/**
+ * Divide l'elenco delle lezioni in blocco vecchio e blocco recente, per i
+ * comandi «Tutte tranne le ultime N» / «Solo le ultime N».
+ *
+ * «Ultime» vale per POSIZIONE nell'elenco ricevuto (quello di `lessonPool`,
+ * già ordinato), non per numero nominale: su un corso completo le due letture
+ * coincidono, ma su uno caricato a metà le «ultime 10» sono le ultime dieci
+ * lezioni che hanno davvero degli item, non le 21–30 del piano del corso.
+ *
+ * `null` se il CFU è ignoto o se le lezioni non superano N: «tranne le ultime
+ * N» sarebbe vuoto e «solo le ultime N» coinciderebbe con «Seleziona tutte».
+ *
+ * @returns {{n:number, older:string[], recent:string[]} | null}
+ */
+export function splitRecentLessons(numbers, cfu) {
+  const list = Array.from(numbers || []).map(String);
+  const n = recentLessonCount(cfu);
+  if (!n || list.length <= n) return null;
+  return { n, older: list.slice(0, -n), recent: list.slice(-n) };
 }
 
 /**

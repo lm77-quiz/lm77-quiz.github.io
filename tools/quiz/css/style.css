@@ -161,8 +161,9 @@ input[type="number"] {
    resterebbe visibile a filtro spento. */
 .lesson-grid[hidden] { display: none; }
 
-/* «Seleziona tutte» / «Deseleziona tutte», sopra l'elenco. Anche qui `display`
-   batterebbe `hidden`. */
+/* Comandi rapidi sopra l'elenco: «Seleziona tutte» / «Deseleziona tutte» e,
+   secondo i CFU, «Tutte tranne le ultime N» / «Solo le ultime N». Il wrap li
+   manda a capo su telefono. Anche qui `display` batterebbe `hidden`. */
 .lesson-actions { display: flex; flex-wrap: wrap; gap: .5rem; margin: .35rem 0 0; }
 .lesson-actions[hidden] { display: none; }
 
@@ -207,7 +208,8 @@ input[type="number"] {
   background: var(--surface-2);
   color: var(--text);
 }
-.btn:disabled { opacity: .45; cursor: not-allowed; }
+.btn:disabled,
+.btn[aria-disabled="true"] { opacity: .45; cursor: not-allowed; }
 .btn-primary { background: var(--accent); color: var(--accent-contrast); }
 .btn-secondary { background: var(--surface-2); border-color: var(--accent); color: var(--accent); }
 .btn-ghost { background: transparent; border-color: var(--border); color: var(--text); font-weight: 500; }
