@@ -7,8 +7,8 @@ import { loadManifest, loadExam, resolveNotes, fetchRemoteLog, loadConfig, appUr
 import { probe, fetchServerLog, pushSessions, sessionsToPush } from './sync.js';
 import * as storage from './storage.js';
 import {
-  prepareMcqItems, sample, scoreMcq, pickReviewItems, makeRng,
-  prepareCardItem, toOriginalKey, filterByLessons,
+  prepareMcqItems, sample, scoreSession, pickReviewItems, makeRng,
+  prepareCardItem, filterByLessons,
 } from './engine.js';
 import { renderConfig } from './screens/config.js';
 import { renderQuiz } from './screens/quiz.js';
@@ -60,9 +60,6 @@ const ctx = {
   startSession,
   submitMcq,
   answerCard,
-  chooseCardMcq,
-  answerCardMcq,
-  advanceCard,
   abortSession,
   exportLog,
   exportBackup,
@@ -223,41 +220,48 @@ function startSession({ mode, mcqCount, cardCount, simTotal, cardMcq, lessons })
   // Allineato per indice a `cards`: null dove la card resta ad autovalutazione,
   // o dove l'interruttore è spento.
   const cardItems = cards.map((c) => (state.prefs.cardMcq === false ? null : prepareCardItem(c, rng)));
+  // Le card a risposta multipla entrano nel blocco dei quiz, con la stessa
+  // navigazione e la stessa correzione differita: l'esito si vede solo nel
+  // riepilogo. Fuori restano le autovalutazioni, che per essere giudicate
+  // devono mostrare la risposta.
+  const selfCards = cards.filter((_, i) => !cardItems[i]);
 
   if (!mcqItems.length && !cards.length) {
     toast('Scegli almeno una domanda o una flashcard.', 'error');
     return;
   }
 
+  // Prima le domande d'esame, poi le card. È l'unico elenco del blocco: le due
+  // quote si ricavano con `isCardItem()` dove servono.
+  const blockItems = [...mcqItems, ...cardItems.filter(Boolean)];
   state.session = {
     mode,
     lessons: picked,
     startedAt: new Date().toISOString(),
-    mcqItems,
+    blockItems,
+    // Unica per tutto il blocco: gli id non collidono (`…/Q3` contro `…/f-<hash>`).
     answers: {},
     index: 0,
-    phase: mcqItems.length ? 'mcq' : 'cards',
-    cards,
-    cardItems,
+    phase: blockItems.length ? 'mcq' : 'cards',
+    cards: selfCards,
     cardIndex: 0,
     cardResults: {},
     cardRevealed: false,
-    cardAnswered: false,
-    // Opzione selezionata ma non ancora confermata (lettera MOSTRATA).
-    cardChoice: null,
-    mcqScore: null,
   };
   state.results = null;
   ctx.goTo('quiz');
 }
 
+/**
+ * Consegna del blocco a risposta multipla. Non corregge nulla: le risposte
+ * restano in `answers` e vengono corrette tutte insieme in `finishSession`,
+ * dopo le eventuali autovalutazioni.
+ */
 function submitMcq() {
   const s = state.session;
-  s.mcqScore = scoreMcq(s.mcqItems, s.answers);
   if (s.cards.length) {
     s.phase = 'cards';
     s.cardRevealed = false;
-    s.cardAnswered = false;
     render();
   } else {
     finishSession();
@@ -272,49 +276,10 @@ function answerCard(known) {
   advanceCard();
 }
 
-/**
- * Flashcard a risposta multipla, primo passo: selezione REVOCABILE di
- * un'opzione. Come nel blocco MCQ, ri-cliccare la stessa opzione la
- * deseleziona. L'esito non compare finché non si conferma — un tocco storto
- * non deve bruciare la card.
- */
-function chooseCardMcq(displayKey) {
-  const s = state.session;
-  const item = s.cardItems[s.cardIndex];
-  if (!item || s.cardAnswered) return;
-  s.cardChoice = s.cardChoice === displayKey ? null : displayKey;
-  render();
-}
-
-/**
- * Secondo passo: la conferma non chiude la card ma apre la fase di feedback
- * (corretta/sbagliata e risposta integrale sotto gli occhi). `cardChoice` è la
- * lettera MOSTRATA; la conversione in quella del file è la stessa del blocco
- * MCQ, quindi la correzione non dipende dal rimescolamento.
- */
-function answerCardMcq() {
-  const s = state.session;
-  const card = s.cards[s.cardIndex];
-  const item = s.cardItems[s.cardIndex];
-  const displayKey = s.cardChoice;
-  if (!item || s.cardAnswered || !displayKey) return;
-  const givenKey = toOriginalKey(item, displayKey);
-  s.cardResults[card.id] = {
-    mode: 'mcq',
-    displayKey,
-    givenKey,
-    correct: givenKey === item.question.correctKey,
-  };
-  s.cardAnswered = true;
-  render();
-}
-
 function advanceCard() {
   const s = state.session;
   s.cardIndex += 1;
   s.cardRevealed = false;
-  s.cardAnswered = false;
-  s.cardChoice = null;
   if (s.cardIndex >= s.cards.length) finishSession();
   else render();
 }
@@ -326,87 +291,37 @@ function abortSession() {
 
 function finishSession() {
   const s = state.session;
-  const mcqScore = s.mcqScore || scoreMcq(s.mcqItems, s.answers);
-  // Una sessione può mescolare i due modi: le card con distrattori curati sono
-  // corrette nel merito, le altre restano autovalutate. `correct` è comunque
-  // popolato per entrambe — è l'unico campo che lo storico rilegge.
-  const cardDetail = s.cards.map((card, i) => {
-    const res = s.cardResults[card.id] || { mode: s.cardItems[i] ? 'mcq' : 'self', correct: false };
-    return {
-      card,
-      item: s.cardItems[i] || null,
-      mode: res.mode,
-      givenKey: res.givenKey || null,
-      displayKey: res.displayKey || null,
-      correct: !!res.correct,
-    };
+  const { mcq, cards, items, score } = scoreSession({
+    blockItems: s.blockItems,
+    answers: s.answers,
+    selfCards: s.cards,
+    cardResults: s.cardResults,
   });
-  const selfDetail = cardDetail.filter((c) => c.mode === 'self');
-  const cardMcqDetail = cardDetail.filter((c) => c.mode === 'mcq');
-
   const attempt = {
     uid: storage.newUid(),
     ts: new Date().toISOString(),
     exam: state.slug,
     mode: s.mode,
-    items: [
-      ...mcqScore.detail.map((d) => ({
-        id: d.id,
-        type: 'mcq',
-        lesson: d.question.lesson,
-        givenKey: d.givenKey,
-        correct: d.correct,
-        // snapshot leggibile dall'LLM senza dover incrociare gli id
-        text: d.question.text,
-        contentHash: d.question.contentHash,
-      })),
-      ...cardDetail.map((c) => ({
-        id: c.card.id,
-        type: 'card',
-        lesson: c.card.lesson,
-        ...(c.mode === 'mcq'
-          ? { givenKey: c.givenKey }
-          : { selfEval: c.correct ? 'sapevo' : 'non-sapevo' }),
-        correct: c.correct,
-        text: c.card.question,
-        contentHash: c.card.contentHash,
-      })),
-    ],
-    score: {
-      mcqCorrect: mcqScore.correct,
-      mcqTotal: mcqScore.total,
-      mcqPlatformCorrect: mcqScore.platformCorrect,
-      // `cardsKnown/cardsTotal` restano il conteggio delle sole autovalutate,
-      // così le sessioni vecchie e nuove si leggono allo stesso modo.
-      cardsKnown: selfDetail.filter((c) => c.correct).length,
-      cardsTotal: selfDetail.length,
-      cardMcqCorrect: cardMcqDetail.filter((c) => c.correct).length,
-      cardMcqTotal: cardMcqDetail.length,
-    },
+    items,
+    score,
   };
 
-  state.log = storage.addAttempt(state.log, attempt);
-  if (!storage.saveLog(state.slug, state.log)) {
-    toast('Storico non salvato (localStorage non disponibile o pieno).', 'error');
-  }
-  if (state.sync) {
-    pushSessions(state.slug, [attempt]).then((res) => {
-      if (!res) toast('Sessione non sincronizzata col server: resta salvata qui.', 'error');
-    });
+  // Con le sole flashcard in bianco non c'è nulla da registrare: salvare
+  // aggiungerebbe allo storico una sessione vuota.
+  const recorded = items.length > 0;
+  if (recorded) {
+    state.log = storage.addAttempt(state.log, attempt);
+    if (!storage.saveLog(state.slug, state.log)) {
+      toast('Storico non salvato (localStorage non disponibile o pieno).', 'error');
+    }
+    if (state.sync) {
+      pushSessions(state.slug, [attempt]).then((res) => {
+        if (!res) toast('Sessione non sincronizzata col server: resta salvata qui.', 'error');
+      });
+    }
   }
 
-  state.results = {
-    attempt,
-    mcq: mcqScore,
-    cards: {
-      total: cardDetail.length,
-      selfTotal: selfDetail.length,
-      selfKnown: selfDetail.filter((c) => c.correct).length,
-      mcqTotal: cardMcqDetail.length,
-      mcqCorrect: cardMcqDetail.filter((c) => c.correct).length,
-      detail: cardDetail,
-    },
-  };
+  state.results = { attempt, recorded, mcq, cards };
   state.session = null;
   ctx.goTo('results');
 }

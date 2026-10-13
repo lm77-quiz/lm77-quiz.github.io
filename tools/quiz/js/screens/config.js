@@ -236,7 +236,7 @@ export function renderConfig(root, ctx) {
   let wantMcq = plan.mcq;
 
   const mcqHint = (p) => `Disponibili: ${nMcq}. In simulazione: da ${p.mcqMin} a ${p.mcqMax}; il resto del totale viene completato con le flashcard.`;
-  const cardHint = (p) => `Disponibili: ${nCards}${nCardsMcq ? ` (${nCardsMcq} con distrattori curati)` : ''}. In simulazione: da ${p.cardMin} a ${p.cardMax}. Vengono poste dopo le domande a risposta multipla.`;
+  const cardHint = (p) => `Disponibili: ${nCards}${nCardsMcq ? ` (${nCardsMcq} con distrattori curati)` : ''}. In simulazione: da ${p.cardMin} a ${p.cardMax}. Quelle giocate a risposta multipla entrano nel blocco dei quiz e si correggono alla consegna; quelle ad autovalutazione vengono dopo.`;
   const totalHint = () => `Lunghezza della prova: da 1 a ${pool} (${filterOn ? 'gli item delle lezioni scelte' : 'tutti gli item disponibili'}). Default: ${SIM_TOTAL}.`;
 
   const totalCounter = counter({
@@ -253,7 +253,7 @@ export function renderConfig(root, ctx) {
   });
   const mcqCounter = counter({
     id: 'mcq-count',
-    label: 'Domande a risposta multipla',
+    label: 'Domande d\'esame',
     hint: mcqHint(plan),
     min: plan.mcqMin,
     max: plan.mcqMax,

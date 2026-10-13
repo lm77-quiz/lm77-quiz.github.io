@@ -6,6 +6,7 @@
 
 import { el, clear } from '../dom.js';
 import { mdInline } from '../md-inline.js';
+import { riskBanner, outcome, resultHead, staticOptions, noteLink } from './common.js';
 
 export function renderResults(root, ctx) {
   clear(root);
@@ -33,11 +34,18 @@ export function renderResults(root, ctx) {
   }
   // Le due quote hanno significati diversi e non vanno sommate: una è una
   // correzione nel merito, l'altra un giudizio di chi studia su se stesso.
-  if (cards.mcqTotal) {
+  // Le flashcard in bianco sono card non viste: fuori dal punteggio e dallo
+  // storico (vedi scoreSession), quindi il denominatore è chi ha risposta.
+  if (cards.mcqAnswered) {
     head.append(el('p', { class: 'score' }, [
-      el('strong', { text: `${cards.mcqCorrect}/${cards.mcqTotal}` }),
-      el('span', { class: 'muted', text: ` flashcard corrette (${pct(cards.mcqCorrect, cards.mcqTotal)}%)` }),
+      el('strong', { text: `${cards.mcqCorrect}/${cards.mcqAnswered}` }),
+      el('span', { class: 'muted', text: ` flashcard corrette (${pct(cards.mcqCorrect, cards.mcqAnswered)}%)` }),
     ]));
+  }
+  if (cards.mcqBlank) {
+    head.append(el('p', { class: 'hint', text: cards.mcqBlank === 1
+      ? '1 flashcard lasciata in bianco: non conta nel punteggio e non entra nello storico.'
+      : `${cards.mcqBlank} flashcard lasciate in bianco: non contano nel punteggio e non entrano nello storico.` }));
   }
   if (cards.selfTotal) {
     head.append(el('p', { class: 'score' }, [
@@ -51,6 +59,7 @@ export function renderResults(root, ctx) {
   const exportBtn = el('button', { type: 'button', class: 'btn btn-ghost', text: 'Esporta quiz-errori.json' });
   exportBtn.addEventListener('click', () => ctx.exportLog());
   head.append(el('div', { class: 'actions actions-wrap' }, [again, exportBtn]));
+  if (!r.recorded) head.append(el('p', { class: 'hint', text: 'Nessuna risposta data: la sessione non è stata registrata nello storico.' }));
 
   // Build pubblica: qui la sessione è appena finita ed è l'unico punto in cui
   // il valore è già stato consegnato. Deliberatamente NON nell'intestazione,
@@ -69,13 +78,13 @@ export function renderResults(root, ctx) {
   // --- dettaglio MCQ -----------------------------------------------------
   if (mcq.total) {
     root.append(el('h3', { class: 'section-title', text: 'Domande a risposta multipla' }));
-    mcq.detail.forEach((d, i) => root.append(questionCard(d, i, ctx)));
+    mcq.detail.forEach((d) => root.append(questionCard(d, ctx)));
   }
 
   // --- dettaglio flashcard ----------------------------------------------
   if (cards.mcqTotal) {
     root.append(el('h3', { class: 'section-title', text: 'Flashcard a risposta multipla' }));
-    cards.detail.filter((c) => c.mode === 'mcq').forEach((c, i) => root.append(cardResultCard(c, i, ctx)));
+    cards.detail.filter((c) => c.mode === 'mcq').forEach((c) => root.append(cardResultCard(c, ctx)));
   }
   if (cards.selfTotal) {
     root.append(el('h3', { class: 'section-title', text: 'Flashcard ad autovalutazione' }));
@@ -94,15 +103,15 @@ function pct(a, b) {
   return b ? Math.round((a / b) * 100) : 0;
 }
 
-function questionCard(d, i, ctx) {
+// Le schede sono numerate con `d.index`, la posizione nel blocco della prova:
+// lo stesso numero della cella nella griglia, qualunque sia l'ordine.
+
+function questionCard(d, ctx) {
   const q = d.question;
-  const state = !d.answered ? 'blank' : d.correct ? 'ok' : 'ko';
+  const state = outcome(d);
   const card = el('section', { class: `card result-question is-${state}` });
 
-  card.append(el('div', { class: 'result-head' }, [
-    el('span', { class: `dot dot-${state === 'ok' ? 'ok' : state === 'ko' ? 'ko' : 'blank'}`, 'aria-hidden': 'true' }),
-    el('span', { class: 'muted small', text: `${i + 1}. Lezione ${q.lesson} — ${q.lessonTitle} · domanda ${q.number}` }),
-  ]));
+  card.append(resultHead(state, `${d.index + 1}. Lezione ${q.lesson} — ${q.lessonTitle} · domanda ${q.number}`));
   card.append(el('p', { class: 'question-text', html: mdInline(q.text) }));
 
   if (q.platformMismatch) {
@@ -110,27 +119,13 @@ function questionCard(d, i, ctx) {
       `🚨 All'esame la piattaforma potrebbe assegnare il punto alla ${q.platformKey}. La risposta conforme alle slide è la ${q.correctKey}.`));
   }
 
-  // opzioni in ordine originale del file
-  const list = el('ul', { class: 'options options-static' });
-  for (const opt of q.options) {
-    const badges = [];
-    if (opt.key === q.correctKey) badges.push(el('span', { class: 'tag tag-ok', text: 'corretta (slide)' }));
-    if (opt.key === d.givenKey) badges.push(el('span', { class: 'tag tag-mine', text: 'la tua scelta' }));
-    if (q.platformMismatch && opt.key === q.platformKey) badges.push(el('span', { class: 'tag tag-alarm', text: 'chiave piattaforma' }));
-    const cls = [
-      'option',
-      opt.key === q.correctKey ? 'option-correct' : '',
-      opt.key === d.givenKey && !d.correct ? 'option-wrong' : '',
-    ].filter(Boolean).join(' ');
-    list.append(el('li', { class: cls }, [
-      el('span', { class: 'option-key', text: opt.key }),
-      el('span', { class: 'option-text' }, [
-        el('span', { html: mdInline(opt.text) }),
-        badges.length ? el('span', { class: 'tags' }, badges) : null,
-      ]),
-    ]));
-  }
-  card.append(list);
+  card.append(staticOptions(q.options, {
+    correctKey: q.correctKey,
+    givenKey: d.givenKey,
+    correct: d.correct,
+    correctLabel: 'corretta (slide)',
+    platformKey: q.platformMismatch ? q.platformKey : null,
+  }));
 
   if (!d.answered) card.append(el('p', { class: 'hint', text: 'Lasciata in bianco.' }));
 
@@ -145,13 +140,8 @@ function questionCard(d, i, ctx) {
 
   const meta = el('p', { class: 'meta' });
   if (q.sources) meta.append(el('span', { class: 'muted small', text: `Fonti: ${q.sources.raw}` }));
-  const noteUrl = ctx.noteUrlFor(q.lesson);
-  if (noteUrl) {
-    meta.append(el('a', {
-      class: 'link', href: noteUrl, target: '_blank', rel: 'noopener',
-      text: `Nota della lezione ${q.lesson} ↗`,
-    }));
-  }
+  const link = noteLink(ctx, q.lesson);
+  if (link) meta.append(link);
   card.append(meta);
 
   // suggerimenti di studio solo per le sbagliate/in bianco
@@ -177,55 +167,30 @@ function questionCard(d, i, ctx) {
  * `questionCard()`: quella dipende da `number`, `explanations`, `sources` e
  * dalla chiave della piattaforma, che sulle flashcard non esistono.
  */
-function cardResultCard(d, i, ctx) {
+function cardResultCard(d, ctx) {
   const card = d.card;
   const q = d.item.question;
-  const state = d.correct ? 'ok' : 'ko';
+  const state = outcome(d);
   const box = el('section', { class: `card result-question is-${state}` });
 
-  box.append(el('div', { class: 'result-head' }, [
-    el('span', { class: `dot dot-${state}`, 'aria-hidden': 'true' }),
-    el('span', { class: 'muted small', text: `${i + 1}. Lezione ${card.lesson} — ${card.lessonTitle}` }),
-  ]));
+  box.append(resultHead(state, `${d.index + 1}. Lezione ${card.lesson} — ${card.lessonTitle}`));
   box.append(el('p', { class: 'question-text', html: mdInline(card.question) }));
 
   // Ordine originale del file: la corretta prima, poi i distrattori.
-  const list = el('ul', { class: 'options options-static' });
-  for (const opt of q.options) {
-    const badges = [];
-    if (opt.key === q.correctKey) badges.push(el('span', { class: 'tag tag-ok', text: 'corretta' }));
-    if (opt.key === d.givenKey) badges.push(el('span', { class: 'tag tag-mine', text: 'la tua scelta' }));
-    const cls = [
-      'option',
-      opt.key === q.correctKey ? 'option-correct' : '',
-      opt.key === d.givenKey && !d.correct ? 'option-wrong' : '',
-    ].filter(Boolean).join(' ');
-    list.append(el('li', { class: cls }, [
-      el('span', { class: 'option-key', text: opt.key }),
-      el('span', { class: 'option-text' }, [
-        el('span', { html: mdInline(opt.text) }),
-        badges.length ? el('span', { class: 'tags' }, badges) : null,
-      ]),
-    ]));
-  }
-  box.append(list);
+  box.append(staticOptions(q.options, { correctKey: q.correctKey, givenKey: d.givenKey, correct: d.correct }));
 
-  if (card.risk) {
-    box.append(el('p', { class: `banner banner-${card.risk === 'alarm' ? 'alarm' : 'warn'}`, text: card.risk === 'alarm' ? '🚨 attenzione: contenuto insidioso' : '⚠️ punto insidioso' }));
-  }
+  if (!d.answered) box.append(el('p', { class: 'hint', text: 'Lasciata in bianco: non entra nello storico.' }));
+
+  const banner = riskBanner(card.risk);
+  if (banner) box.append(banner);
   // La risposta integrale resta il materiale di studio anche quando l'opzione
-  // mostrata era la sua forma condensata.
+  // mostrata era la sua forma condensata, ed è l'unica motivazione che una
+  // flashcard porta con sé: non ci sono «Perché…» come nelle domande d'esame.
+  box.append(el('p', { class: 'explanation' }, [el('strong', { text: 'Risposta e motivazione:' })]));
   box.append(el('div', { class: 'answer', html: mdInline(card.answer) }));
 
-  const noteUrl = ctx.noteUrlFor(card.lesson);
-  if (noteUrl) {
-    box.append(el('p', { class: 'meta' }, [
-      el('a', {
-        class: 'link', href: noteUrl, target: '_blank', rel: 'noopener',
-        text: `Nota della lezione ${card.lesson} ↗`,
-      }),
-    ]));
-  }
+  const link = noteLink(ctx, card.lesson);
+  if (link) box.append(el('p', { class: 'meta' }, [link]));
 
   return box;
 }

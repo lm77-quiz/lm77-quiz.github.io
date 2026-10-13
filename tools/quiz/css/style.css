@@ -294,6 +294,9 @@ button.option:disabled { cursor: default; opacity: 1; color: var(--text); }
 }
 .grid-cell.is-answered { background: var(--accent); border-color: var(--accent); color: var(--accent-contrast); }
 .grid-cell.is-current { outline: 2px solid var(--text); outline-offset: 1px; }
+/* Le flashcard nel blocco a risposta multipla: tratteggiate anche da risposte. */
+.grid-cell.is-card { border-style: dashed; border-color: var(--muted); }
+.grid-cell.is-card.is-answered { border-color: var(--accent-contrast); }
 
 /* --- banner -------------------------------------------------------------- */
 

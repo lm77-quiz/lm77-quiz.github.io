@@ -9,9 +9,10 @@ curriculum *Banking and Finance*, giocabili nel browser: <https://lm77-quiz.gith
 ## Come si usa
 
 Si sceglie l'esame, si regola la lunghezza della prova con i cursori e si comincia. Le
-flashcard con distrattori curati si giocano **a risposta multipla** — un click seleziona,
-«Conferma risposta» chiude la card e mostra l'esito con la risposta per esteso; le altre
-restano ad **autovalutazione**. Un filtro per lezione restringe il ripasso a poche lezioni
+flashcard con distrattori curati si giocano **a risposta multipla**, come all'esame: si
+risponde, si può tornare indietro, si consegna, e solo il riepilogo mostra l'esito con la
+risposta per esteso; una card lasciata in bianco non entra nello storico. Le altre restano
+ad **autovalutazione**. Un filtro per lezione restringe il ripasso a poche lezioni
 per volta, e la modalità «Ripassa errori» ripesca ciò che è già stato sbagliato.
 
 Lo storico resta nel browser (`localStorage`) e si può esportare e reimportare come file.

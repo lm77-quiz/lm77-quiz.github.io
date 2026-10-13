@@ -343,6 +343,117 @@ export function scoreMcq(items, answers) {
   };
 }
 
+/** Item del blocco a risposta multipla che viene da una flashcard. */
+export function isCardItem(item) {
+  return !!(item && item.question && item.question.kind === 'card');
+}
+
+/**
+ * Corregge una sessione conclusa e ne ricava le voci dello storico.
+ *
+ * Il blocco a risposta multipla mescola domande d'esame e flashcard, con
+ * un'unica mappa `answers` (id → lettera MOSTRATA); `index` su ogni dettaglio è
+ * la posizione nel blocco, così il riepilogo numera come la griglia qualunque
+ * sia l'ordine.
+ *
+ * Le due quote trattano il bianco in modo diverso, di proposito: una domanda
+ * d'esame in bianco è un errore, come all'esame vero; una flashcard in bianco
+ * è una card non vista, quindi resta fuori dal punteggio e dallo **storico** —
+ * altrimenti una prova consegnata a metà riempirebbe «Ripassa errori» di card
+ * mai aperte.
+ *
+ * @param {{blockItems: Array, answers: object, selfCards: Array, cardResults: object}} session
+ * @returns {{mcq, cards, items: Array, score: object}}
+ */
+export function scoreSession({ blockItems = [], answers = {}, selfCards = [], cardResults = {} } = {}) {
+  const position = new Map(blockItems.map((item, i) => [item, i]));
+  const withIndex = (score) => ({
+    ...score,
+    detail: score.detail.map((d) => ({ ...d, index: position.get(d.item) })),
+  });
+  const mcq = withIndex(scoreMcq(blockItems.filter((it) => !isCardItem(it)), answers));
+  const cardMcq = withIndex(scoreMcq(blockItems.filter(isCardItem), answers));
+
+  const cardMcqDetail = cardMcq.detail.map((d) => ({
+    card: d.question.card,
+    item: d.item,
+    index: d.index,
+    mode: 'mcq',
+    givenKey: d.givenKey,
+    displayKey: d.displayKey,
+    answered: d.answered,
+    correct: d.correct,
+  }));
+  const selfDetail = selfCards.map((card) => ({
+    card,
+    item: null,
+    index: null,
+    mode: 'self',
+    correct: !!(cardResults[card.id] && cardResults[card.id].correct),
+  }));
+  const cardMcqAnswered = cardMcqDetail.filter((c) => c.answered);
+
+  // `correct` è popolato per ogni voce: è l'unico campo che lo storico rilegge.
+  const items = [
+    ...mcq.detail.map((d) => ({
+      id: d.id,
+      type: 'mcq',
+      lesson: d.question.lesson,
+      givenKey: d.givenKey,
+      correct: d.correct,
+      // snapshot leggibile dall'LLM senza dover incrociare gli id
+      text: d.question.text,
+      contentHash: d.question.contentHash,
+    })),
+    ...cardMcqAnswered.map((c) => ({
+      id: c.card.id,
+      type: 'card',
+      lesson: c.card.lesson,
+      givenKey: c.givenKey,
+      correct: c.correct,
+      text: c.card.question,
+      contentHash: c.card.contentHash,
+    })),
+    ...selfDetail.map((c) => ({
+      id: c.card.id,
+      type: 'card',
+      lesson: c.card.lesson,
+      selfEval: c.correct ? 'sapevo' : 'non-sapevo',
+      correct: c.correct,
+      text: c.card.question,
+      contentHash: c.card.contentHash,
+    })),
+  ];
+
+  const selfKnown = selfDetail.filter((c) => c.correct).length;
+  const cardMcqCorrect = cardMcqAnswered.filter((c) => c.correct).length;
+  return {
+    mcq,
+    cards: {
+      detail: [...cardMcqDetail, ...selfDetail],
+      selfTotal: selfDetail.length,
+      selfKnown,
+      mcqTotal: cardMcqDetail.length,
+      mcqAnswered: cardMcqAnswered.length,
+      mcqBlank: cardMcqDetail.length - cardMcqAnswered.length,
+      mcqCorrect: cardMcqCorrect,
+    },
+    items,
+    score: {
+      mcqCorrect: mcq.correct,
+      mcqTotal: mcq.total,
+      mcqPlatformCorrect: mcq.platformCorrect,
+      // `cardsKnown/cardsTotal` restano il conteggio delle sole autovalutate,
+      // così le sessioni vecchie e nuove si leggono allo stesso modo;
+      // `cardMcqTotal` conta solo le card registrate, cioè quelle con risposta.
+      cardsKnown: selfKnown,
+      cardsTotal: selfDetail.length,
+      cardMcqCorrect,
+      cardMcqTotal: cardMcqAnswered.length,
+    },
+  };
+}
+
 // ---------------------------------------------------------------------------
 // Pesi per la modalità "Ripassa errori"
 // ---------------------------------------------------------------------------
