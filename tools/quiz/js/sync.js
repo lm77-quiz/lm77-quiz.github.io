@@ -49,13 +49,20 @@ export async function fetchServerLog(slug) {
   return data ? normalizeLog(data, slug) : null;
 }
 
-/** Invia sessioni all'archivio e restituisce l'unione risultante, o null. */
-export async function pushSessions(slug, sessions) {
-  if (!slug || !sessions || !sessions.length) return null;
+/**
+ * Invia all'archivio sessioni e/o eventi di esclusione delle flashcard e
+ * restituisce l'unione risultante, o null. Le due liste sono indipendenti: il
+ * server unisce ciascuna per `uid`, quindi mandarne una sola non tocca l'altra.
+ */
+export async function pushLog(slug, { sessions = [], exclusions = [] } = {}) {
+  if (!slug || (!sessions.length && !exclusions.length)) return null;
+  const body = {};
+  if (sessions.length) body.sessions = sessions;
+  if (exclusions.length) body.exclusions = exclusions;
   const data = await api(historyPath(slug), {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ sessions }),
+    body: JSON.stringify(body),
   });
   return data ? normalizeLog(data, slug) : null;
 }
@@ -69,4 +76,10 @@ export async function pushSessions(slug, sessions) {
 export function sessionsToPush(log, serverLog) {
   const known = new Set((((serverLog && serverLog.sessions) || [])).map((s) => s.uid));
   return ((log && log.sessions) || []).filter((s) => !known.has(s.uid));
+}
+
+/** Come `sessionsToPush`, per gli eventi di esclusione delle flashcard. */
+export function exclusionsToPush(log, serverLog) {
+  const known = new Set((((serverLog && serverLog.exclusions) || [])).map((e) => e.uid));
+  return ((log && log.exclusions) || []).filter((e) => !known.has(e.uid));
 }

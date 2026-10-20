@@ -336,6 +336,17 @@ button.option:disabled { cursor: default; opacity: 1; color: var(--text); }
 .result-card:last-child { border-bottom: 0; }
 .result-card summary { cursor: pointer; display: flex; gap: .5rem; align-items: baseline; }
 
+/* Flashcard escluse dalle prove: si attenua il contenuto, non la casella che
+   le ripristina. */
+.exclude-toggle { margin-top: .75rem; }
+.exclude-toggle label { font-weight: 500; font-size: .88rem; }
+.is-excluded > :not(.exclude-toggle) { opacity: .55; }
+.excluded-list { margin-top: .75rem; background: var(--surface-2); border-radius: 8px; padding: .5rem .7rem; }
+.excluded-list summary { font-size: .85rem; font-weight: 600; }
+.excluded-list ul { margin: .5rem 0 0; padding-left: 1.1rem; font-size: .85rem; }
+.excluded-list li { margin-bottom: .6rem; }
+.excluded-list .btn-sm { margin-left: .25rem; }
+
 .kv { display: grid; grid-template-columns: 1fr auto; gap: .25rem .75rem; margin: 0; font-size: .88rem; }
 .kv dt { color: var(--muted); }
 .kv dd { margin: 0; font-variant-numeric: tabular-nums; text-align: right; }

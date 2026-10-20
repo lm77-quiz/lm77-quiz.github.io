@@ -3,10 +3,21 @@
 // Nel riepilogo le opzioni tornano nell'ORDINE ORIGINALE del file: le
 // spiegazioni citano le lettere originali («Perché B è sbagliata»), quindi
 // mostrarle rimescolate le renderebbe illeggibili.
+//
+// Le schede sono ordinate per ESITO su tutta la pagina — prima da rivedere,
+// poi le flashcard non viste, poi le corrette (vedi `summaryGroups`) — e ogni
+// flashcard porta la casella che la esclude dalle prove successive.
 
 import { el, clear } from '../dom.js';
 import { mdInline } from '../md-inline.js';
+import { summaryGroups } from '../engine.js';
 import { riskBanner, outcome, resultHead, staticOptions, noteLink } from './common.js';
+
+const GROUPS = [
+  { key: 'wrong', title: 'Da rivedere' },
+  { key: 'unseen', title: 'Flashcard non viste', hint: 'Lasciate in bianco: non contano nel punteggio e non entrano nello storico.' },
+  { key: 'correct', title: 'Corrette' },
+];
 
 export function renderResults(root, ctx) {
   clear(root);
@@ -54,12 +65,11 @@ export function renderResults(root, ctx) {
     ]));
   }
 
-  const again = el('button', { type: 'button', class: 'btn btn-primary', text: 'Nuova sessione' });
-  again.addEventListener('click', () => ctx.goTo('config'));
-  const exportBtn = el('button', { type: 'button', class: 'btn btn-ghost', text: 'Esporta quiz-errori.json' });
-  exportBtn.addEventListener('click', () => ctx.exportLog());
-  head.append(el('div', { class: 'actions actions-wrap' }, [again, exportBtn]));
+  head.append(actionsBar(ctx));
   if (!r.recorded) head.append(el('p', { class: 'hint', text: 'Nessuna risposta data: la sessione non è stata registrata nello storico.' }));
+  if (cards.mcqTotal || cards.selfTotal) {
+    head.append(el('p', { class: 'hint', text: 'Sotto ogni flashcard c\'è la casella «Non riproporre più»: la card esce dalle prove successive e dal ripasso, l\'esclusione entra nell\'export di quiz-errori.json e si annulla dallo Storico, nella configurazione.' }));
+  }
 
   // Build pubblica: qui la sessione è appena finita ed è l'unico punto in cui
   // il valore è già stato consegnato. Deliberatamente NON nell'intestazione,
@@ -75,28 +85,94 @@ export function renderResults(root, ctx) {
 
   root.append(head);
 
-  // --- dettaglio MCQ -----------------------------------------------------
-  if (mcq.total) {
-    root.append(el('h3', { class: 'section-title', text: 'Domande a risposta multipla' }));
-    mcq.detail.forEach((d) => root.append(questionCard(d, ctx)));
+  // --- dettaglio, ordinato per esito -------------------------------------
+  const groups = summaryGroups(mcq, cards);
+  const shown = GROUPS.filter((g) => groups[g.key].length);
+  // Solo se qualcosa è stato risposto bene: una prova di sole flashcard in
+  // bianco non ha errori, ma nemmeno risposte, e il «Nessun errore» stonerebbe
+  // accanto a «la sessione non è stata registrata».
+  if (groups.correct.length && !groups.wrong.length) {
+    root.append(el('p', { class: 'banner banner-info', text: 'Nessun errore in questa sessione: niente da rivedere.' }));
+  }
+  for (const g of shown) {
+    root.append(el('h3', { class: 'section-title', text: `${g.title} (${groups[g.key].length})` }));
+    if (g.hint) root.append(el('p', { class: 'hint', text: g.hint }));
+    renderGroup(root, groups[g.key], ctx);
   }
 
-  // --- dettaglio flashcard ----------------------------------------------
-  if (cards.mcqTotal) {
-    root.append(el('h3', { class: 'section-title', text: 'Flashcard a risposta multipla' }));
-    cards.detail.filter((c) => c.mode === 'mcq').forEach((c) => root.append(cardResultCard(c, ctx)));
+  // In fondo di nuovo i comandi: chi ha escluso delle flashcard scorrendo il
+  // riepilogo deve poterle esportare senza risalire la pagina.
+  if (shown.length) root.append(el('section', { class: 'card' }, [actionsBar(ctx)]));
+}
+
+/** «Nuova sessione» + «Esporta»: in testa e in coda al riepilogo. */
+function actionsBar(ctx) {
+  const again = el('button', { type: 'button', class: 'btn btn-primary', text: 'Nuova sessione' });
+  again.addEventListener('click', () => ctx.goTo('config'));
+  const exportBtn = el('button', { type: 'button', class: 'btn btn-ghost', text: 'Esporta quiz-errori.json' });
+  exportBtn.addEventListener('click', () => ctx.exportLog());
+  return el('div', { class: 'actions actions-wrap' }, [again, exportBtn]);
+}
+
+/**
+ * Le schede di un gruppo. Le autovalutate sono righe compatte e stanno tutte
+ * in un'unica scheda, come prima; in ogni gruppo arrivano per ultime (vedi
+ * `summaryGroups`), quindi sono consecutive.
+ */
+function renderGroup(root, entries, ctx) {
+  let selfBox = null;
+  for (const { kind, d } of entries) {
+    if (kind !== 'card-self') {
+      selfBox = null;
+      root.append(kind === 'question' ? questionCard(d, ctx) : cardResultCard(d, ctx));
+      continue;
+    }
+    if (!selfBox) {
+      selfBox = el('section', { class: 'card' }, [
+        el('p', { class: 'muted small', text: `Flashcard ad autovalutazione — «${d.correct ? 'la sapevo' : 'non la sapevo'}»` }),
+      ]);
+      root.append(selfBox);
+    }
+    selfBox.append(selfCardRow(d, ctx));
   }
-  if (cards.selfTotal) {
-    root.append(el('h3', { class: 'section-title', text: 'Flashcard ad autovalutazione' }));
-    root.append(el('section', { class: 'card' }, cards.detail.filter((c) => c.mode === 'self').map((c) => el('details', { class: `result-card ${c.correct ? 'is-ok' : 'is-ko'}` }, [
-      el('summary', {}, [
-        el('span', { class: `dot ${c.correct ? 'dot-ok' : 'dot-ko'}`, 'aria-hidden': 'true' }),
-        el('span', { html: mdInline(c.card.question) }),
-      ]),
-      el('p', { class: 'muted small', text: `Lezione ${c.card.lesson} — ${c.card.lessonTitle}` }),
-      el('div', { class: 'answer', html: mdInline(c.card.answer) }),
-    ]))));
-  }
+}
+
+function selfCardRow(c, ctx) {
+  const row = el('details', { class: `result-card ${c.correct ? 'is-ok' : 'is-ko'}` }, [
+    el('summary', {}, [
+      el('span', { class: `dot ${c.correct ? 'dot-ok' : 'dot-ko'}`, 'aria-hidden': 'true' }),
+      el('span', { html: mdInline(c.card.question) }),
+    ]),
+    el('p', { class: 'muted small', text: `Lezione ${c.card.lesson} — ${c.card.lessonTitle}` }),
+    el('div', { class: 'answer', html: mdInline(c.card.answer) }),
+  ]);
+  // Nel corpo, sotto la risposta: una casella dentro <summary> aprirebbe e
+  // chiuderebbe la riga a ogni clic.
+  row.append(excludeToggle(ctx, c.card, row));
+  return row;
+}
+
+let toggleSeq = 0;
+
+/**
+ * Casella «Non riproporre più»: reversibile finché si vuole, perché ogni
+ * gesto è un evento nuovo e vince l'ultimo. Aggiorna sul posto la scheda che
+ * la contiene invece di ridisegnare il riepilogo, che perderebbe fuoco e
+ * posizione di scorrimento.
+ */
+function excludeToggle(ctx, card, box) {
+  toggleSeq += 1;
+  const id = `exclude-${toggleSeq}`;
+  const input = el('input', { type: 'checkbox', id, checked: ctx.isExcluded(card.id) });
+  const paint = () => box.classList.toggle('is-excluded', input.checked);
+  input.addEventListener('change', () => {
+    ctx.setExcluded(card, input.checked);
+    paint();
+  });
+  paint();
+  return el('p', { class: 'toggle exclude-toggle' }, [
+    el('label', { for: id }, [input, el('span', { text: ' Non riproporre più questa flashcard' })]),
+  ]);
 }
 
 function pct(a, b) {
@@ -192,5 +268,6 @@ function cardResultCard(d, ctx) {
   const link = noteLink(ctx, card.lesson);
   if (link) box.append(el('p', { class: 'meta' }, [link]));
 
+  box.append(excludeToggle(ctx, card, box));
   return box;
 }

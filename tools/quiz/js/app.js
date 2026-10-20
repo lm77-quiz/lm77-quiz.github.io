@@ -4,11 +4,11 @@
 // Nessun handler inline: tutti i listener sono registrati qui o nelle schermate.
 
 import { loadManifest, loadExam, resolveNotes, fetchRemoteLog, loadConfig, appUrl, repoUrl } from './discovery.js';
-import { probe, fetchServerLog, pushSessions, sessionsToPush } from './sync.js';
+import { probe, fetchServerLog, pushLog, sessionsToPush, exclusionsToPush } from './sync.js';
 import * as storage from './storage.js';
 import {
   prepareMcqItems, sample, scoreSession, pickReviewItems, makeRng,
-  prepareCardItem, filterByLessons,
+  prepareCardItem, filterByLessons, withoutExcluded,
 } from './engine.js';
 import { renderConfig } from './screens/config.js';
 import { renderQuiz } from './screens/quiz.js';
@@ -47,6 +47,10 @@ const state = {
 
 let keyHandler = null;
 let toastTimer = null;
+// Pool delle flashcard senza le escluse, ricalcolato solo quando cambiano
+// l'esame o lo storico: il riepilogo lo chiede una volta per ogni domanda
+// sbagliata, e l'esame più grande ha oltre mille card.
+let activeMemo = { exam: null, log: null, cards: [] };
 
 // ---------------------------------------------------------------------------
 
@@ -65,14 +69,29 @@ const ctx = {
   exportBackup,
   importFile,
   resetLog,
+  setExcluded,
+  rememberConfig,
+  isExcluded(id) { return !!(state.log.excluded && state.log.excluded[id]); },
+  /** Flashcard dell'esame senza quelle escluse: il pool di ogni prova. */
+  activeCards() {
+    if (!state.exam) return [];
+    if (activeMemo.exam !== state.exam || activeMemo.log !== state.log) {
+      activeMemo = {
+        exam: state.exam,
+        log: state.log,
+        cards: withoutExcluded(state.exam.cards, storage.excludedIds(state.log)),
+      };
+    }
+    return activeMemo.cards;
+  },
   noteUrlFor(lesson) {
     // Build pubblica: le note non sono state esportate, il link sarebbe un 404.
     if (!state.config.wiki) return null;
     return state.notes ? state.notes.urlFor(lesson) : null;
   },
   riskCardsForLesson(lesson, limit = 6) {
-    if (!state.exam) return [];
-    return state.exam.cards
+    // Le escluse no: l'utente le ha giudicate fuori dallo studio.
+    return ctx.activeCards()
       .filter((c) => c.lesson === lesson && c.risk)
       .slice(0, limit);
   },
@@ -156,18 +175,26 @@ async function selectExam(slug) {
     // l'archivio del server. mergeLogs è idempotente e unisce per uid, quindi
     // l'ordine non cambia il risultato.
     let log = storage.loadLog(slug);
-    const before = log.sessions.length;
-    if (remote) { log = storage.mergeLogs(log, remote); state.remoteMerged = true; }
-    if (server) { log = storage.mergeLogs(log, server); }
-    if (log.sessions.length !== before) storage.saveLog(slug, log);
+    // Si salva se un merge ha cambiato qualcosa: sessioni nuove o scartate dal
+    // cap, oppure eventi di esclusione delle flashcard, che possono arrivare
+    // anche da soli.
+    let changed = false;
+    for (const incoming of [remote, server]) {
+      if (!incoming) continue;
+      const res = storage.mergeLogsWithStats(log, incoming);
+      log = res.log;
+      changed = changed || res.added > 0 || res.dropped > 0 || res.flagsAdded > 0;
+    }
+    if (remote) state.remoteMerged = true;
+    if (changed) storage.saveLog(slug, log);
     state.log = log;
 
     // Il traffico va anche nell'altro verso: ciò che sta solo qui (sessioni
-    // svolte prima che la sincronizzazione esistesse, o arrivate da git) viene
-    // caricato una volta sola. Fire-and-forget: il dato locale è già salvo.
+    // svolte prima che la sincronizzazione esistesse, o arrivate da git, ed
+    // esclusioni fatte senza rete) viene caricato una volta sola.
+    // Fire-and-forget: il dato locale è già salvo.
     if (state.sync) {
-      const missing = sessionsToPush(log, server);
-      if (missing.length) pushSessions(slug, missing);
+      pushLog(slug, { sessions: sessionsToPush(log, server), exclusions: exclusionsToPush(log, server) });
     }
 
     if (exam.errors.length) toast(exam.errors.join(' · '), 'error');
@@ -183,30 +210,44 @@ async function selectExam(slug) {
 // Sessione
 // ---------------------------------------------------------------------------
 
-function startSession({ mode, mcqCount, cardCount, simTotal, cardMcq, lessons }) {
-  const exam = state.exam;
-  if (!exam) return;
-
-  state.prefs.mcqCount = mcqCount;
-  state.prefs.cardCount = cardCount;
+/**
+ * Salva nelle preferenze la configurazione della prova. Lo fa l'avvio della
+ * sessione, e la schermata di configurazione prima di ridisegnarsi da sola
+ * (ripristino di una flashcard esclusa): il ridisegno rilegge le prefs, e
+ * senza questo passaggio perderebbe selezione delle lezioni e cursori appena
+ * toccati. Restituisce le lezioni scelte, normalizzate a stringhe.
+ */
+function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons }) {
+  if (Number.isFinite(mcqCount)) state.prefs.mcqCount = mcqCount;
+  if (Number.isFinite(cardCount)) state.prefs.cardCount = cardCount;
   // Selezione delle lezioni: per esame, perché i numeri di lezione di un esame
   // non vogliono dire nulla in un altro. Array vuoto = filtro spento.
   const picked = Array.isArray(lessons) ? lessons.map(String) : [];
   if (!state.prefs.lessons || typeof state.prefs.lessons !== 'object') state.prefs.lessons = {};
-  state.prefs.lessons[exam.slug] = picked;
+  if (state.exam) state.prefs.lessons[state.exam.slug] = picked;
   // Senza la guardia, un `simTotal` assente scriverebbe `undefined`, che
   // JSON.stringify scarta: al ricaricamento la lunghezza scelta tornerebbe
   // silenziosamente al default.
   if (Number.isFinite(simTotal)) state.prefs.simTotal = simTotal;
   if (typeof cardMcq === 'boolean') state.prefs.cardMcq = cardMcq;
   storage.savePrefs(state.prefs);
+  return picked;
+}
+
+function startSession(opts) {
+  const { mode, mcqCount, cardCount } = opts;
+  const exam = state.exam;
+  if (!exam) return;
+
+  const picked = rememberConfig(opts);
 
   const rng = Math.random;
   // Il filtro per lezione si applica PRIMA del campionamento e vale anche per
   // il ripasso: chi ripassa un blocco di lezioni non vuole rivedere gli errori
   // di tutto il corso.
   const poolQuestions = filterByLessons(exam.questions, picked);
-  const poolCards = filterByLessons(exam.cards, picked);
+  // Le flashcard escluse dall'utente restano fuori da tutto, ripasso compreso.
+  const poolCards = filterByLessons(ctx.activeCards(), picked);
   // In ripasso entrambi i pool sono pesati sugli errori: lo storico registra
   // `correct` anche per le flashcard, e ignorarlo significava buttare via
   // metà di ciò che l'utente aveva sbagliato.
@@ -284,6 +325,39 @@ function advanceCard() {
   else render();
 }
 
+/**
+ * Esclude una flashcard dalle prove successive, o la ripristina. Ogni gesto è
+ * un evento nuovo (vedi `setExclusion`), quindi la casella del riepilogo si può
+ * spuntare e togliere a piacere: vince l'ultimo. Nessun rerender — chi chiama
+ * aggiorna la propria schermata sul posto, per non perdere fuoco e scorrimento.
+ *
+ * @returns {boolean} true se lo stato è cambiato ED è stato salvato: chi
+ *          chiama annuncia il successo solo in quel caso.
+ */
+function setExcluded(card, excluded) {
+  if (!state.slug || !card || !card.id) return false;
+  if (ctx.isExcluded(card.id) === !!excluded) return false;
+  const before = state.log;
+  state.log = storage.setExclusion(before, card, excluded);
+  const saved = storage.saveLog(state.slug, state.log);
+  if (!saved) toast('Esclusione non salvata (localStorage non disponibile o pieno).', 'error');
+  if (state.sync) {
+    // L'evento appena creato, per differenza: non è per forza l'ultimo
+    // dell'elenco, che è ordinato per ts e può contenerne di un altro
+    // dispositivo con l'orologio avanti.
+    const events = exclusionsToPush(state.log, before);
+    pushLog(state.slug, { exclusions: events }).then((res) => {
+      // Un 200 non basta: un serve.py precedente alle esclusioni risponde
+      // con le sole sessioni, e l'evento resterebbe solo qui senza avvisi.
+      const known = new Set(((res && res.exclusions) || []).map((e) => e.uid));
+      if (!events.every((e) => known.has(e.uid))) {
+        toast('Esclusione non sincronizzata col server: resta salvata qui.', 'error');
+      }
+    });
+  }
+  return saved;
+}
+
 function abortSession() {
   state.session = null;
   ctx.goTo('config');
@@ -315,7 +389,7 @@ function finishSession() {
       toast('Storico non salvato (localStorage non disponibile o pieno).', 'error');
     }
     if (state.sync) {
-      pushSessions(state.slug, [attempt]).then((res) => {
+      pushLog(state.slug, { sessions: [attempt] }).then((res) => {
         if (!res) toast('Sessione non sincronizzata col server: resta salvata qui.', 'error');
       });
     }
@@ -403,16 +477,16 @@ async function importFile(file) {
     const base = slug === state.slug ? state.log : storage.loadLog(slug);
     const res = storage.mergeLogsWithStats(base, incoming);
     dropped += res.dropped;
-    if (res.added) {
+    if (res.added || res.flagsAdded) {
       storage.saveLog(slug, res.log);
-      added.push(`${slug} +${res.added}`);
+      added.push(res.added ? `${slug} +${res.added}` : `${slug} (esclusioni)`);
       // Anche l'archivio del server va allineato SUBITO, per ogni esame del
       // file. Altrimenti, dopo aver importato un backup multi-esame su un
       // cluster nuovo, salirebbe solo l'esame aperto: gli altri aspetterebbero
       // che ci si passi sopra a mano, perché il push sta in selectExam().
       // Si mandano le sessioni del file, non quelle unite: il server unisce
       // per uid, quindi il risultato è identico e il corpo è più piccolo.
-      if (state.sync) pushed.push(pushSessions(slug, incoming.sessions));
+      if (state.sync) pushed.push(pushLog(slug, { sessions: incoming.sessions, exclusions: incoming.exclusions }));
     }
     if (slug === state.slug) state.log = res.log;
   }
@@ -465,11 +539,17 @@ function applyImportedPrefs(prefs) {
   storage.savePrefs(state.prefs);
 }
 
+/**
+ * Svuota le SESSIONI. Le flashcard escluse restano: sono una scelta su che
+ * cosa studiare, non una statistica degli errori, e azzerarle insieme ai
+ * contatori le rimetterebbe in tutte le prove senza che nessuno l'abbia chiesto.
+ */
 function resetLog() {
   if (!state.slug) return;
-  if (!window.confirm('Svuotare lo storico locale di questo esame? L\'operazione non è reversibile.')) return;
-  storage.clearLog(state.slug);
-  state.log = storage.emptyLog(state.slug);
+  if (!window.confirm('Svuotare lo storico locale di questo esame? Le flashcard escluse restano escluse. L\'operazione non è reversibile.')) return;
+  state.log = storage.normalizeLog({ exam: state.slug, exclusions: state.log.exclusions }, state.slug);
+  if (state.log.exclusions.length) storage.saveLog(state.slug, state.log);
+  else storage.clearLog(state.slug);
   toast('Storico svuotato.');
   render();
 }

@@ -1,6 +1,7 @@
 // screens/config.js — schermata di configurazione della simulazione.
 
 import { el, clear } from '../dom.js';
+import { mdInline } from '../md-inline.js';
 import { summarize } from '../storage.js';
 import {
   countReviewable, planSimCounts, SIM_TOTAL, cardHasMcq,
@@ -9,6 +10,11 @@ import {
 import { repoUrl } from '../discovery.js';
 
 const ANNI = { 1: '1° anno', 2: '2° anno' };
+
+// Dopo un «Ripristina» la schermata si ridisegna: l'elenco delle flashcard
+// escluse deve restare aperto, altrimenti ogni ripristino successivo costa un
+// clic in più per riaprirlo.
+let reopenExcluded = false;
 
 function fmtDate(iso) {
   if (!iso) return '—';
@@ -145,6 +151,12 @@ export function renderConfig(root, ctx) {
   const totMcq = exam.questions.length;
   const totCards = exam.cards.length;
   const totCardsMcq = exam.cards.filter(cardHasMcq).length;
+  // Il pool vero delle flashcard: quelle escluse dall'utente nel riepilogo non
+  // entrano in nessuna prova, quindi da qui in giù cursori, conteggi per
+  // lezione e «Ripassa errori» le ignorano. Le pillole qui sotto restano sui
+  // materiali e le contano a parte.
+  const cardsPool = ctx.activeCards();
+  const nExcluded = totCards - cardsPool.length;
 
   if (exam.errors.length) {
     header.append(el('p', { class: 'banner banner-error', text: exam.errors.join(' · ') }));
@@ -165,6 +177,7 @@ export function renderConfig(root, ctx) {
   root.append(el('p', { class: 'stats' }, [
     totMcq ? el('span', { class: 'pill', text: `${totMcq} domande a risposta multipla` }) : null,
     el('span', { class: 'pill', text: totCardsMcq ? `${totCards} flashcard, ${totCardsMcq} a risposta multipla` : `${totCards} flashcard` }),
+    nExcluded ? el('span', { class: 'pill', text: `${nExcluded} ${nExcluded === 1 ? 'flashcard esclusa' : 'flashcard escluse'} dalle prove` }) : null,
     totMcq ? el('span', { class: 'pill', text: `${exam.quiz.lessons.filter((l) => l.count).length} lezioni con quiz` }) : null,
   ]));
 
@@ -186,7 +199,15 @@ export function renderConfig(root, ctx) {
   // L'elenco si ricava dagli item (lessonPool), non da `exam.quiz.lessons`:
   // così ogni voce mostrata contiene davvero qualcosa da pescare, comprese le
   // lezioni che hanno solo flashcard.
-  const lessons = lessonPool(exam.questions, exam.cards);
+  // L'elenco viene dai MATERIALI, i conteggi dal pool: una lezione di cui si
+  // sono escluse tutte le flashcard resta in elenco con «0 flashcard» invece di
+  // sparire — e con lei la selezione salvata, che spegnerebbe il filtro in
+  // silenzio e farebbe pescare la prova dall'intero corso.
+  const inPool = new Map(lessonPool(exam.questions, cardsPool).map((l) => [l.number, l]));
+  const lessons = lessonPool(exam.questions, exam.cards).map((l) => {
+    const p = inPool.get(l.number);
+    return { ...l, mcq: p ? p.mcq : 0, cards: p ? p.cards : 0 };
+  });
   const savedLessons = ((prefs.lessons || {})[exam.slug] || []).map(String);
   const known = new Set(lessons.map((l) => l.number));
   // Si intersecano con le lezioni esistenti: una selezione salvata prima che i
@@ -209,7 +230,7 @@ export function renderConfig(root, ctx) {
     const list = filterOn ? Array.from(selected) : [];
     const blank = filterOn && !list.length;
     const qs = blank ? [] : filterByLessons(exam.questions, list);
-    const cs = blank ? [] : filterByLessons(exam.cards, list);
+    const cs = blank ? [] : filterByLessons(cardsPool, list);
     nMcq = qs.length;
     nCards = cs.length;
     nCardsMcq = cs.filter(cardHasMcq).length;
@@ -518,14 +539,53 @@ export function renderConfig(root, ctx) {
   const resetBtn = el('button', { type: 'button', class: 'btn btn-ghost btn-danger', text: 'Svuota storico' });
   resetBtn.addEventListener('click', () => ctx.resetLog());
 
+  // Flashcard escluse: l'unico posto da cui si ripristinano. Il testo si
+  // prende dalla card attuale; se nel frattempo è stata riscritta o rimossa da
+  // flashcards.md resta l'istantanea salvata con l'esclusione.
+  const byId = new Map(exam.cards.map((c) => [c.id, c]));
+  const excludedEntries = Object.entries(state.log.excluded || {})
+    .map(([id, info]) => ({ id, info, card: byId.get(id) || null }))
+    .sort((a, b) => String(a.info.lesson).localeCompare(String(b.info.lesson)) || a.id.localeCompare(b.id));
+  const orphans = excludedEntries.filter((e) => !e.card).length;
+  const excludedList = excludedEntries.length ? el('details', { class: 'excluded-list', open: reopenExcluded }, [
+    el('summary', {
+      text: `Flashcard escluse dalle prove (${excludedEntries.length}${orphans ? `, di cui ${orphans} non più in flashcards.md` : ''})`,
+    }),
+    el('ul', {}, excludedEntries.map(({ id, info, card }) => {
+      const restore = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Ripristina' });
+      restore.addEventListener('click', () => {
+        const saved = ctx.setExcluded(card || { id, lesson: info.lesson, question: info.textSnapshot, contentHash: info.contentHash }, false);
+        if (ctx.isExcluded(id)) return; // nulla è cambiato
+        // Se il salvataggio è fallito l'avviso c'è già: un messaggio di
+        // successo lo coprirebbe.
+        if (saved) ctx.toast('Flashcard ripristinata: torna nelle prossime prove.');
+        // Il ridisegno rilegge le prefs: prima si salvano filtro e cursori
+        // toccati e non ancora usati per una prova.
+        ctx.rememberConfig(sessionOpts());
+        reopenExcluded = true;
+        ctx.rerender();
+      });
+      return el('li', {}, [
+        el('span', { html: mdInline((card && card.question) || info.textSnapshot || id) }),
+        el('div', { class: 'muted small' }, [
+          `Lezione ${info.lesson || '?'} · esclusa il ${fmtDate(info.at)}${card ? '' : ' · non più presente in flashcards.md'} `,
+          restore,
+        ]),
+      ]);
+    })),
+  ]) : null;
+  reopenExcluded = false;
+
   root.append(el('section', { class: 'card' }, [
     el('h2', { text: 'Storico' }),
     el('dl', { class: 'kv' }, [
       el('dt', { text: 'Sessioni registrate' }), el('dd', { text: String(s.sessions) }),
       el('dt', { text: 'Domande/flashcard tracciate' }), el('dd', { text: String(s.tracked) }),
       el('dt', { text: 'Con almeno un errore' }), el('dd', { text: String(s.wrong) }),
+      el('dt', { text: 'Flashcard escluse' }), el('dd', { text: String(s.excluded) }),
       el('dt', { text: 'Ultima sessione' }), el('dd', { text: fmtDate(s.lastAt) }),
     ]),
+    excludedList,
     state.remoteMerged
       ? el('p', { class: 'hint', text: `Importato automaticamente exams/${exam.slug}/quiz-errori.json.` })
       : null,

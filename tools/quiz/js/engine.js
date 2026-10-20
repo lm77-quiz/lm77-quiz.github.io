@@ -154,6 +154,19 @@ export function filterByLessons(items, lessons) {
   return (items || []).filter((it) => it && set.has(String(it.lesson)));
 }
 
+/**
+ * Toglie dal pool le flashcard che l'utente ha escluso dalle prove (vedi
+ * `excludedIds` in storage.js). È il filtro UNICO: lo usano l'avvio della
+ * sessione, i cursori della configurazione e i suggerimenti di studio, così i
+ * conteggi a schermo e ciò che la prova pesca non divergono mai. Insieme vuoto
+ * o assente = nessun filtro.
+ */
+export function withoutExcluded(items, excluded) {
+  const list = Array.from(items || []);
+  if (!excluded || !excluded.size) return list;
+  return list.filter((it) => !(it && excluded.has(it.id)));
+}
+
 // ---------------------------------------------------------------------------
 // Ripartizione a totale fisso della simulazione
 // ---------------------------------------------------------------------------
@@ -452,6 +465,45 @@ export function scoreSession({ blockItems = [], answers = {}, selfCards = [], ca
       cardMcqTotal: cardMcqAnswered.length,
     },
   };
+}
+
+/**
+ * Ordine del riepilogo: prima ciò che è da rivedere, poi le flashcard non
+ * viste, infine le corrette — su tutta la pagina e non per tipo, così l'errore
+ * su una flashcard non finisce sotto venti domande d'esame giuste.
+ *
+ *   wrong   — domande d'esame sbagliate O in bianco (all'esame il bianco è un
+ *             errore), flashcard a risposta multipla sbagliate, autovalutate
+ *             «non la sapevo»;
+ *   unseen  — flashcard a risposta multipla in bianco: card non viste, fuori
+ *             dal punteggio e dallo storico, quindi né errori né corrette;
+ *   correct — tutto il resto.
+ *
+ * In ogni gruppo vengono prima le voci del blocco a risposta multipla, per
+ * `index` (domande d'esame e poi card, perché il blocco le mette così), poi le
+ * autovalutate nell'ordine in cui sono state giocate.
+ *
+ * @param {{detail:Array}} mcq    `scoreSession().mcq`
+ * @param {{detail:Array}} cards  `scoreSession().cards`
+ * @returns {{wrong:Array, unseen:Array, correct:Array}} voci `{kind, d}`, con
+ *          `kind` ∈ 'question' | 'card-mcq' | 'card-self'
+ */
+export function summaryGroups(mcq, cards) {
+  const groups = { wrong: [], unseen: [], correct: [] };
+  const block = [
+    ...((mcq && mcq.detail) || []).map((d) => ({ kind: 'question', d })),
+    ...((cards && cards.detail) || []).filter((d) => d.mode === 'mcq').map((d) => ({ kind: 'card-mcq', d })),
+  ].sort((a, b) => (a.d.index ?? 0) - (b.d.index ?? 0));
+  for (const entry of block) {
+    const { d } = entry;
+    if (d.correct) groups.correct.push(entry);
+    else if (!d.answered && entry.kind === 'card-mcq') groups.unseen.push(entry);
+    else groups.wrong.push(entry);
+  }
+  for (const d of ((cards && cards.detail) || []).filter((c) => c.mode === 'self')) {
+    groups[d.correct ? 'correct' : 'wrong'].push({ kind: 'card-self', d });
+  }
+  return groups;
 }
 
 // ---------------------------------------------------------------------------
