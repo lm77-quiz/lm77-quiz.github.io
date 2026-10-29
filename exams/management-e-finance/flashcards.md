@@ -1056,3 +1056,274 @@
 - Necessitano di indebitamento per finanziare la crescita.
 - Consentono l'uso di risorse a costo minimo.
 - Sono risorse occulte.
+
+## Lezione 05 — La scelta di crescere 2
+
+**D:** ⚠️ Come definisce le economie di scala la slide 2 della lezione 05?
+**R:** «Riduzione del costo medio unitario del prodotto o servizio derivante da un aumento della dimensione dell'impianto».
+**Distrattori:**
+- Riduzione del costo totale del prodotto o servizio derivante da un aumento della dimensione dell'impianto.
+- Aumento del costo medio unitario del prodotto o servizio derivante da un aumento della dimensione dell'impianto.
+- Riduzione del prezzo di vendita del prodotto o servizio derivante da un aumento della quota di mercato relativa.
+
+**D:** ⚠️ Quali sono, nella slide 2 della lezione 05, le fonti delle economie di scala?
+**R:** Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
+**Distrattori:**
+- Migliore sfruttamento delle dotazioni tecnologiche dedicate; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
+- Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti ai clienti; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
+- Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di gamma.
+
+**D:** Su che cosa hanno fondato il vantaggio competitivo le imprese che hanno costruito «in modo pesante» la capacità produttiva?
+**R:** Su un sistema di costi sempre più efficiente, investendo in modo corposo in tecnologie: è la strategia di leadership di costo, da cui nascono le economie di scala.
+**Distrattori:**
+- Sulla differenziazione, costruendo un'immagine che le distingue agli occhi del consumatore.
+- Sulle risorse immateriali, come il brand e il know-how.
+
+**D:** ⚠️ Quali sono le due conseguenze delle economie di scala, per il docente della lezione 05?
+**R:** La prima è **positiva**: si penetra il mercato con un maggiore volume di produzione a un costo per unità via via decrescente. La seconda: **non si può ridurre** la capacità produttiva, si è spinti sempre a crescere e a produrre di più.
+**Opzione:** Penetro il mercato a costi unitari decrescenti, ma non posso ridurre la capacità produttiva.
+**Distrattori:**
+- Penetro il mercato a costi unitari decrescenti, e posso ridurre la capacità produttiva senza perdite.
+- Penetro il mercato a costi unitari crescenti, ma non posso ridurre la capacità produttiva.
+
+**D:** ⚠️ Perché, a volte, conviene produrre per il magazzino?
+**R:** Perché il risparmio che deriva da una sovrapproduzione è maggiore del vantaggio che deriva dalla capacità di vendere di più: si produce per l'invenduto pur sapendo che il mercato non lo assorbirà.
+**Opzione:** Perché il risparmio della sovrapproduzione è maggiore del vantaggio di vendere di più.
+**Distrattori:**
+- Perché il mercato assorbirà comunque tutta la produzione in eccesso.
+- Perché le scorte di magazzino aumentano il valore dei prodotti nel tempo.
+
+**D:** ⚠️ Che cosa faceva Fiat, prima della fusione in Stellantis, secondo il docente della lezione 05?
+**R:** Era innanzitutto un **produttore di motori** piuttosto che di automobili, perché il mercato delle auto era saturo. Vendeva motori anche ai concorrenti ed entrava così nel mercato nuovo della fornitura di motori.
+**Opzione:** Era innanzitutto un produttore di motori, venduti anche ai concorrenti.
+**Distrattori:**
+- Era innanzitutto un produttore di automobili, che comprava i motori dai concorrenti.
+- Era innanzitutto un produttore di ricambi, venduti solo alla propria rete di assistenza.
+
+**D:** ⚠️ Come cambia la divisione del lavoro nella fabbrica moderna, per il docente della lezione 05?
+**R:** Non è più solo un concetto **statico**, come in Ford che divideva il lavoro in fasi, ma **dinamico**: le risorse sono capaci di apprendere, e l'organizzazione cambia nel tempo e assorbe innovazione ed efficienza.
+**Opzione:** Non solo statica, come in Ford, ma dinamica: l'organizzazione apprende e diventa più efficiente.
+**Distrattori:**
+- Solo statica, come in Ford: le fasi restano fisse e ripetitive.
+- Superata: la fabbrica moderna non divide più il lavoro in fasi.
+
+**D:** Che cosa sono le economie di coordinamento?
+**R:** Chi coordina le fasi della produzione sa quali si possono integrare e ottimizzare: quanto più integra, tanto più realizza economie. «La capacità di decidere con maggiore velocità, di integrare con maggiore efficacia è essa stessa un'economia».
+**Opzione:** Le economie di chi integra le fasi della produzione e decide con maggiore velocità.
+**Distrattori:**
+- Il risparmio sugli acquisti ottenuto comprando grandi volumi.
+- La riduzione degli scarti dovuta all'esperienza della forza lavoro.
+
+**D:** Che cosa rappresentano gli assi e la curva di inviluppo nel grafico del lungo periodo (slide 3 della lezione 05)?
+**R:** In ordinata il costo medio unitario (Cmu), in ascissa la capacità produttiva. La curva di inviluppo unisce i punti di minimo delle curve di breve periodo, una per impianto.
+**Opzione:** Cmu in ordinata, capacità produttiva in ascissa; l'inviluppo unisce i minimi delle curve di breve periodo.
+**Distrattori:**
+- Capacità produttiva in ordinata, Cmu in ascissa; l'inviluppo unisce i minimi delle curve di breve periodo.
+- Cmu in ordinata, prezzo di vendita in ascissa; l'inviluppo unisce i massimi delle curve di breve periodo.
+
+**D:** Che cosa succede lungo una curva di breve periodo, e che cosa fa allora l'impresa?
+**R:** Il costo medio unitario scende fino a un punto di minimo, poi risale per costi di sovraorganizzazione e di sovradimensionamento: si produce troppo per la capacità dell'impianto. L'impresa aggiunge allora un nuovo impianto, passando «da un breve periodo a un altro breve periodo».
+**Opzione:** Il Cmu scende fino al minimo e poi risale; l'impresa aggiunge un nuovo impianto.
+**Distrattori:**
+- Il Cmu scende sempre, senza minimo; l'impresa non ha bisogno di nuovi impianti.
+- Il Cmu sale fino al massimo e poi scende; l'impresa chiude l'impianto.
+
+**D:** ⚠️ Che cos'è la DOM nella slide 4 della lezione 05?
+**R:** La **Dimensione Ottima Minima**: «è la dimensione ottimale minima, quella che segna l'inizio del tratto di curva parallelo». Attenzione: il docente scioglie la sigla come «dimensione ottima e massima», ma vale la slide.
+**Opzione:** La Dimensione Ottima Minima, che segna l'inizio del tratto di curva parallelo.
+**Distrattori:**
+- La Dimensione Ottima Minima, il punto da cui la curva ricomincia a risalire.
+- La Dimensione Ottima Massima, che segna l'inizio del tratto di curva parallelo.
+- La Dimensione Operativa Media, che segna l'inizio del tratto di curva parallelo.
+
+**D:** ⚠️ Che cos'è la DEM nella slide 4 della lezione 05?
+**R:** La **Dimensione Efficiente Massima**: «rappresenta il punto a partire dal quale la curva ricomincia a risalire, cioè la dimensione oltre la quale non si è più efficienti da un punto di vista economico perché il costo medio unitario di produzione tende ad aumentare». Attenzione: il docente scioglie la sigla come «dimensione efficiente e minima», ma vale la slide.
+**Opzione:** La Dimensione Efficiente Massima, il punto da cui la curva ricomincia a risalire.
+**Distrattori:**
+- La Dimensione Efficiente Massima, che segna l'inizio del tratto di curva parallelo.
+- La Dimensione Efficiente Minima, il punto da cui la curva ricomincia a risalire.
+- La Dimensione Economica Media, il punto da cui la curva ricomincia a risalire.
+
+**D:** ⚠️ Quando la DOM coincide con la DEM?
+**R:** «Allorché si abbia un unico punto di minimo del costo medio (e dunque una curva non a L ma a U)».
+**Opzione:** Quando c'è un unico punto di minimo del costo medio: la curva è a U, non a L.
+**Distrattori:**
+- Quando la curva ha un lungo tratto piatto: è a L, non a U.
+- Quando il costo medio unitario cresce fin dall'inizio della curva.
+
+**D:** ⚠️ Quali sono, nella slide 5 della lezione 05, le economie da esperienza?
+**R:** La replicabilità; L'apprendimento; La trasferibilità delle conoscenze; Le diseconomie.
+**Distrattori:**
+- La replicabilità; L'apprendimento; La trasferibilità delle conoscenze; Le economie di coordinamento.
+- La replicabilità; La divisione del lavoro; La trasferibilità delle conoscenze; Le diseconomie.
+- La specializzazione; L'apprendimento; La trasferibilità delle conoscenze; Le diseconomie.
+
+**D:** ⚠️ Come venivano lette le economie d'esperienza negli anni '50, secondo il docente?
+**R:** Come la capacità della forza lavoro di fare un numero via via decrescente di errori, misurata con gli scarti di produzione. Per il docente è una visione «abbastanza riduttiva».
+**Opzione:** Come riduzione degli errori, e quindi degli scarti, della forza lavoro.
+**Distrattori:**
+- Come riduzione dei costi di acquisto delle materie prime.
+- Come aumento della dimensione dell'impianto.
+
+**D:** ⚠️ Che cos'erano i circoli di qualità citati nella lezione 05?
+**R:** Nelle imprese giapponesi degli anni '80, Toyota e Honda, operai, manager e ingegneri si riunivano dopo il turno di produzione per evidenziare inefficienze e soluzioni innovative.
+**Opzione:** Toyota e Honda, anni '80: operai, manager e ingegneri riuniti dopo il turno.
+**Distrattori:**
+- Toyota e Honda, anni '50: solo gli ingegneri, riuniti durante il turno.
+- Ford, anni '80: operai, manager e ingegneri riuniti dopo il turno.
+
+**D:** Quale esempio di replicabilità delle mansioni organizzative porta il docente della lezione 05?
+**R:** I sistemi di produzione senza scorte, «a scorte zero», del toyotismo: niente scorte di materie prime né di semilavorati fra un'attività produttiva e l'altra.
+**Distrattori:**
+- La produzione per il magazzino, per abbassare il costo medio unitario.
+- La divisione del lavoro in fasi introdotta da Ford.
+
+**D:** Che tipo di apprendimento genera economie da esperienza, per il docente della lezione 05?
+**R:** Non un apprendimento solo manuale, della forza lavoro, ma dell'organizzazione nel suo complesso: diventano replicabili la scelta organizzativa, il modello organizzativo, la scelta di delegare o di accentrare, come un prototipo.
+**Opzione:** Un apprendimento dell'organizzazione nel suo complesso, non solo della forza lavoro.
+**Distrattori:**
+- Un apprendimento solo manuale, della forza lavoro.
+- Un apprendimento solo dei vertici, che decidono se delegare o accentrare.
+
+**D:** ⚠️ Che cosa intende il docente per trasferibilità delle conoscenze?
+**R:** Codificare mansioni non solo elementari ma anche complesse, per esempio nei manuali della qualità: chi non ha esperienza raggiunge comunque certi risultati, e le economie si ottengono nel breve periodo, senza bisogno di tempo.
+**Opzione:** Codificare anche mansioni complesse, come nei manuali della qualità, per avere economie nel breve periodo.
+**Distrattori:**
+- Codificare solo mansioni elementari, per avere economie nel lungo periodo.
+- Trasferire i dipendenti più esperti da un impianto all'altro.
+
+**D:** Che cosa sono le diseconomie fra le economie da esperienza?
+**R:** Le inefficienze che derivano dal replicare sempre le stesse azioni; se si impara e si apprende, quella replica può essere superata.
+**Distrattori:**
+- Le inefficienze di un impianto troppo grande, oltre la DEM.
+- I costi della formazione dei nuovi assunti.
+
+**D:** ⚠️ Quali sono, nella slide 6 della lezione 05, i comportamenti coerenti con la crescita esterna?
+**R:** Aumento della scala di produzione; Integrazione di filiera; Accordi di canale; Produzione di beni affini; Esplorazione di mercati esteri.
+**Distrattori:**
+- Aumento della scala di produzione; Integrazione di filiera; Accordi di prezzo; Produzione di beni affini; Esplorazione di mercati esteri.
+- Riduzione della scala di produzione; Integrazione di filiera; Accordi di canale; Produzione di beni affini; Esplorazione di mercati esteri.
+- Aumento della scala di produzione; Integrazione di filiera; Accordi di canale; Produzione di beni affini; Esplorazione di mercati finanziari.
+
+**D:** Che cosa sono gli accordi di canale, per il docente della lezione 05?
+**R:** Accordi non solo a monte, sulla fornitura, ma anche a valle, sulla distribuzione: per esempio far arrivare nello store grandi volumi o un certo assortimento. «Ho bisogno di parlare con l'attore che viene subito dopo di me».
+**Opzione:** Accordi a monte sulla fornitura e a valle sulla distribuzione.
+**Distrattori:**
+- Accordi solo a monte, con i fornitori.
+- Accordi con i concorrenti per dividersi i canali distributivi.
+
+**D:** ⚠️ Quali sono, nella slide 7 della lezione 05, le direzioni della crescita, in senso orario?
+**R:** Step di filiera; Business; Prodotti; Segmenti di clientela; Canali; Aree geografiche.
+**Distrattori:**
+- Step di filiera; Business; Prezzi; Segmenti di clientela; Canali; Aree geografiche.
+- Fornitori; Business; Prodotti; Segmenti di clientela; Canali; Aree geografiche.
+- Step di filiera; Business; Prodotti; Segmenti di clientela; Tecnologie; Aree geografiche.
+
+**D:** Con quale esempio il docente illustra la crescita verso business correlati?
+**R:** Il tessile, legato al settore degli accessori: chi fa scarpe deve guardare a chi fa abiti, e viceversa.
+**Distrattori:**
+- Volkswagen, che lancia il marchio Cupra per un pubblico più giovane.
+- Il passaggio dalle confezioni per l'uso quotidiano agli abiti da lavoro.
+
+**D:** Con quale esempio il docente illustra la crescita nelle tipologie di prodotti?
+**R:** Il passaggio dalle confezioni per l'uso quotidiano agli abiti da lavoro: non necessariamente un nuovo business.
+**Distrattori:**
+- Il tessile, legato al settore degli accessori: chi fa scarpe guarda a chi fa abiti.
+- La vendita in e-commerce di prodotti della grande distribuzione.
+
+**D:** ⚠️ Come illustra il docente la crescita in nuovi segmenti di clientela?
+**R:** Con **Volkswagen**, proprietaria di Audi e Skoda, che lancia il marchio **Cupra**: stesso motore, stesso chassis, stessa tecnologia, ma design, modo di vendere e mercato diversi, più giovane e sportivo. «Stesse tecnologie, stesse economie, diversa componentistica, diversi segmenti di mercato».
+**Opzione:** Volkswagen con Cupra: stessa tecnologia, ma design e mercato più giovane e sportivo.
+**Distrattori:**
+- Volkswagen con Cupra: nuova tecnologia, ma stesso mercato dei marchi tradizionali.
+- Fiat, che vende i suoi motori ai concorrenti.
+
+**D:** ⚠️ Fra chi è oggi lo scontro nella distribuzione, per il docente della lezione 05?
+**R:** Fra la grande distribuzione tradizionale, quella fisica, e la distribuzione digitale: il consumatore vede il prodotto nella grande distribuzione e lo compra in formato digitale. In passato lo scontro era fra la distribuzione tradizionale (i piccoli esercizi) e la grande distribuzione organizzata.
+**Opzione:** Fra la grande distribuzione fisica e la distribuzione digitale.
+**Distrattori:**
+- Fra i piccoli esercizi tradizionali e la grande distribuzione organizzata.
+- Fra la distribuzione digitale e i piccoli esercizi tradizionali.
+
+**D:** Perché oggi le aree geografiche sono un'opportunità di crescita, per il docente della lezione 05?
+**R:** Perché molte barriere si sono abbassate: la lingua, la valuta (l'euro ne è un esempio) e perfino la concorrenza, perché si portano in mercati stagnanti soluzioni competitive nuove. In passato erano ostacoli la lingua, la logistica, le barriere e i concorrenti di ogni mercato nazionale.
+**Opzione:** Perché si sono abbassate le barriere: lingua, valuta, perfino la concorrenza.
+**Distrattori:**
+- Perché si sono alzate le barriere: chi entra per primo è protetto dai concorrenti.
+- Perché nei mercati esteri non ci sono concorrenti da affrontare.
+
+**D:** ⚠️ Quali sono, nella slide 8 della lezione 05, i vincoli all'aumento di dimensioni?
+**R:** Le diseconomie dimensionali; I limiti organizzativi; I limiti informativi; I limiti strategici e decisionali; Le barriere all'uscita.
+**Distrattori:**
+- Le diseconomie dimensionali; I limiti organizzativi; I limiti informativi; I limiti strategici e decisionali; Le barriere all'entrata.
+- Le diseconomie dimensionali; I limiti organizzativi; I limiti finanziari; I limiti strategici e decisionali; Le barriere all'uscita.
+- Le economie dimensionali; I limiti organizzativi; I limiti informativi; I limiti strategici e decisionali; Le barriere all'uscita.
+
+**D:** Con quale esempio il docente illustra le diseconomie dimensionali?
+**R:** Molte piccole e medie imprese italiane sono accentrate nella decisione dell'imprenditore, che non sa delegare: diventare più grandi significa imparare a delegare.
+**Distrattori:**
+- Le grandi corporation, dove le informazioni viaggiano più lente verso il centro.
+- Le imprese che non trovano un compratore per i business in perdita.
+
+**D:** Che cosa sono i limiti organizzativi alla crescita?
+**R:** Crescendo bisogna dare più autonomia alle unità organizzative (chi gestisce il mercato asiatico non può dipendere dal centro per ogni decisione), con obiettivi da raggiungere. Bisogna saperne misurare le performance, e non sempre le organizzazioni ne sono capaci.
+**Opzione:** Dare autonomia e obiettivi alle unità decentrate, e saperne misurare le performance.
+**Distrattori:**
+- Le informazioni circolano più lentamente verso il centro decisionale.
+- Disinvestire è difficile, perché bisogna trovare un compratore.
+
+**D:** ⚠️ Che cosa intende il docente per limiti strategici e decisionali?
+**R:** Guidare un'impresa grande è diverso dal guidarne una piccola: «Un'impresa grande non è la somma di imprese piccole, perché altrimenti non realizziamo sinergie». Serve un unico piano strategico, con una visione d'insieme che renda sinergici gli investimenti.
+**Opzione:** Un'impresa grande non è la somma di imprese piccole: serve un unico piano, con una visione d'insieme.
+**Distrattori:**
+- Un'impresa grande è la somma di imprese piccole: basta replicare il modello d'origine.
+- Un'impresa grande deve delegare tutte le decisioni strategiche alle unità decentrate.
+
+**D:** ⚠️ Perché le barriere all'uscita sono un vincolo alla crescita?
+**R:** Perché disinvestire è difficile. Bisogna trovare un compratore; ai concorrenti conviene far perdere l'impresa piuttosto che integrarsi; e si disinveste quando non si fa profitto, quindi è difficile trovare chi compri. Ogni investimento per crescere deve perciò durare nel tempo, per poter essere remunerato.
+**Opzione:** Perché disinvestire è difficile: bisogna trovare un compratore, e ai concorrenti conviene farti perdere.
+**Distrattori:**
+- Perché la legge vieta di cedere un'unità organizzativa prima di cinque anni.
+- Perché i concorrenti sono sempre disposti a comprare, ma il prezzo resta troppo alto.
+
+### Flashcard dai quiz — lezione 05
+
+**D:** ⚠️ Le risorse tangibili, secondo il test della lezione 05:
+**R:** **Rappresentano l'asset di risorse disponibili per la crescita delle imprese.** È una riformulazione: nella slide 3 della lezione 03 le tangibili sono «Finanziarie, Fisiche». Distrattori del test: «sono costituite dalle tecnologie disponibili» (restringe a una voce, e la slide 5 della 03 mette la tecnologia fra le intangibili), «si limitano alla disponibilità di cassa», «favoriscono la crescita dal carico fiscale».
+**Opzione:** Rappresentano l'asset di risorse disponibili per la crescita delle imprese.
+**Distrattori:**
+- Sono costituite dalle tecnologie disponibili.
+- Si limitano alla disponibilità di cassa.
+- Favoriscono la crescita dal carico fiscale.
+
+**D:** ⚠️ La cultura aziendale, secondo il test della lezione 05:
+**R:** **Organizza le risorse umane secondo un criterio comune di collaborazione.** Riformula la lezione 03: le persone si sentono parte di un'organizzazione e ne condividono una cultura e un modo di fare. La cultura resta una risorsa intangibile, non umana. Distrattori del test: «misura il livello di alfabetizzazione del personale» e «promuove iniziative culturali in azienda» (trappola lessicale sul nome), «premia i dipendenti più preparati».
+**Opzione:** Organizza le risorse umane secondo un criterio comune di collaborazione.
+**Distrattori:**
+- Misura il livello di alfabetizzazione del personale.
+- Premia i dipendenti più preparati.
+- Promuove iniziative culturali in azienda.
+
+**D:** ⚠️ Quali sono i due obiettivi fondamentali della strategia di business, secondo il test della lezione 05?
+**R:** **La posizione dell'azienda rispetto all'ambiente competitivo e l'allineamento interno delle attività.** ⚠️ Non compare nelle lezioni 01–05. Il coordinamento degli asset e la competizione in più mercati sono parole della strategia corporate.
+**Opzione:** La posizione dell'azienda rispetto all'ambiente competitivo e l'allineamento interno delle attività.
+**Distrattori:**
+- L'integrazione strategica complessa e la posizione dell'azienda rispetto all'ambiente competitivo.
+- Il coordinamento degli asset dell'impresa e l'organizzazione della competizione in più mercati.
+- L'organizzazione della competizione in più mercati e l'allineamento interno delle attività.
+
+**D:** ⚠️ La matrice risorse/mercati, secondo il test della lezione 05:
+**R:** **Individua il coordinamento migliore in relazione alle condizioni di mercato e risorse.** ⚠️ Non compare nelle lezioni 01–05. È l'unica opzione che nomina entrambi gli assi della matrice.
+**Opzione:** Individua il coordinamento migliore in relazione alle condizioni di mercato e risorse.
+**Distrattori:**
+- Guida la scelta delle risorse.
+- Corregge la scelta di crescita internazionale.
+- Custodisce le risorse dell'impresa.
+
+**D:** ⚠️ Il gruppo Poste Italiane, secondo il test della lezione 05:
+**R:** **Attua una diversificazione correlata basata sulle risorse intangibili.** È il caso della lezione 03: si diversifica nei servizi finanziari grazie a un valore immateriale, la fiducia dei clienti nell'ufficio postale. Distrattori del test: «basata sulle risorse tangibili» (segno invertito; la rete degli uffici è solo il veicolo della fiducia), «si orienta verso scelte di internazionalizzazione» (il modello di DPWN e TNT), «opera scelte di disinvestimento».
+**Opzione:** Attua una diversificazione correlata basata sulle risorse intangibili.
+**Distrattori:**
+- Attua una diversificazione correlata basata sulle risorse tangibili.
+- Si orienta verso scelte di internazionalizzazione.
+- Opera scelte di disinvestimento.
