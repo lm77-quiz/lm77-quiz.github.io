@@ -228,3 +228,247 @@
 - L'insieme delle pratiche di controllo da attuare in fase di organizzazione.
 - Tutte le regole da adottare durante il coordinamento delle attività.
 - L'insieme di tutte le divisioni aziendali che descrivono l'organizzazione.
+
+## Lezione 02 — Teorie Corporate Strategy 1
+
+**D:** ⚠️ Secondo il docente, di che cosa si occupa la pianificazione di business e di che cosa quella corporate?
+**R:** La pianificazione di business si occupa della competizione sul mercato, la pianificazione corporate della creazione di valore per l'azionista.
+**Distrattori:**
+- La pianificazione di business si occupa della creazione di valore per l'azionista, la pianificazione corporate della competizione sul mercato.
+- La pianificazione di business si occupa della competizione sul mercato, la pianificazione corporate della riduzione dei costi per unità di prodotto.
+- La pianificazione di business si occupa del budget finanziario, la pianificazione corporate della competizione sul mercato.
+
+**D:** ⚠️ Come definisce la SWOT analysis la slide della lezione 02?
+**R:** Rappresenta uno dei primi tentativi di individuare alcune variabili esogene ed endogene rilevanti per la definizione della strategia.
+**Distrattori:**
+- Rappresenta l'ultimo tentativo di individuare alcune variabili esogene ed endogene rilevanti per la definizione della strategia.
+- Rappresenta uno dei primi tentativi di individuare alcune variabili esclusivamente endogene rilevanti per la definizione della strategia.
+- Rappresenta uno dei primi tentativi di individuare alcune variabili esogene ed endogene rilevanti per la misurazione della performance finanziaria.
+
+**D:** ⚠️ Che cosa si tratta di fare secondo Andrews, citato nella slide sulla SWOT analysis?
+**R:** Trasformare le risorse in vantaggio competitivo.
+**Distrattori:**
+- Trasformare il vantaggio competitivo in risorse.
+- Trasformare le risorse in vantaggio aziendale.
+- Trasformare le minacce in opportunità.
+
+**D:** ⚠️ Che cosa incrocia la SWOT analysis, e di chi?
+**R:** Incrocia, dei singoli Business, i punti di Forza, Debolezza, Opportunità e Minacce.
+**Distrattori:**
+- Incrocia, dei singoli Business, i punti di Forza, Debolezza, Opportunità e Vantaggi.
+- Incrocia, degli investitori, i punti di Forza, Debolezza, Opportunità e Minacce.
+- Incrocia, dei concorrenti principali, i punti di Forza, Debolezza, Opportunità e Minacce.
+
+**D:** ⚠️ Quali sono i tre punti di forza (Strengths) nella SWOT con il logo Nike?
+**R:** Global Reach, Financial Position, Strong Partnerships.
+**Distrattori:**
+- Global Reach, Financial Position, Business Diversification.
+- Global Reach, Brand Connection Strategy, Strong Partnerships.
+- New Markets, Financial Position, Strong Partnerships.
+
+**D:** ⚠️ Quali sono i tre punti di debolezza (Weaknesses) nella SWOT con il logo Nike?
+**R:** Difficult Working Conditions Abroad, Brand Connection Strategy, Retailers.
+**Distrattori:**
+- Difficult Working Conditions Abroad, Brand Connection Strategy, Government Regulation.
+- Difficult Working Conditions Abroad, Strong Partnerships, Retailers.
+- Increasing Competition, Brand Connection Strategy, Retailers.
+
+**D:** ⚠️ Quante e quali sono le opportunità (Opportunities) nella SWOT con il logo Nike?
+**R:** Due: New Markets e Business Diversification.
+**Distrattori:**
+- Tre: New Markets, Business Diversification e Global Reach.
+- Due: New Markets e Strong Partnerships.
+- Tre: New Markets, Business Diversification e Impact of Pandemic.
+
+**D:** Quali sono le tre minacce (Threats) nella SWOT con il logo Nike?
+**R:** Increasing Competition, Impact of Pandemic, Government Regulation.
+**Distrattori:**
+- Increasing Competition, Impact of Pandemic, Retailers.
+- Increasing Competition, New Markets, Government Regulation.
+- Difficult Working Conditions Abroad, Impact of Pandemic, Government Regulation.
+
+**D:** ⚠️ Perché la Brand Connection Strategy compare fra le debolezze?
+**R:** Perché in un'azienda diversificata che produce con brand simili prodotti diversi, l'insuccesso di un prodotto può trainare giù anche il valore realizzato con un altro.
+**Distrattori:**
+- Perché in un'azienda monobusiness un solo brand non può raggiungere mercati diversi.
+- Perché in un'azienda diversificata il successo di un prodotto sottrae sempre quote di mercato agli altri prodotti dello stesso brand.
+
+**D:** ⚠️ Perché, secondo il docente, il valore del brand Coca-Cola è un punto di forza verso gli investitori?
+**R:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio lo combina con un investimento più rischioso.
+**Distrattori:**
+- Perché è un brand molto redditizio ma poco affidabile, da combinare in portafoglio con un investimento più sicuro.
+- Perché è un brand molto redditizio, che garantisce agli investitori rendimenti elevati.
+- Perché è un brand senza concorrenti, che non richiede investimenti in comunicazione.
+
+**D:** ⚠️ Quali due debolezze della Coca-Cola commenta il docente?
+**R:** L'ostilità crescente verso le bibite gassate, addizionate di anidride carbonica, che è un elemento fondante del prodotto; e l'alto livello di debito, dovuto alle acquisizioni fatte spingendo sulla diversificazione.
+**Distrattori:**
+- La mancanza di un marchio riconoscibile e l'alto livello di debito dovuto alle acquisizioni.
+- L'ostilità crescente verso le bibite gassate e la scarsità di capitale di terzi dovuta all'eccesso di capitale proprio.
+- La crescita del mercato delle acque imbottigliate e l'ostilità crescente verso le bibite gassate.
+
+**D:** ⚠️ Quali sono le quattro voci della «Pianificazione del portafoglio», nell'ordine?
+**R:** L'allocazione e l'utilizzo delle risorse; l'ipotesi di autofinanziamento; la correlazione fra le SBU; la reale capacità di previsione.
+**Distrattori:**
+- L'allocazione e l'utilizzo delle risorse; l'ipotesi di autofinanziamento; la correlazione fra le SBU; la reale capacità di indebitamento.
+- L'allocazione e l'utilizzo delle risorse; l'ipotesi di indebitamento; la correlazione fra le SBU; la reale capacità di previsione.
+- L'allocazione e l'utilizzo delle risorse; l'ipotesi di autofinanziamento; la correlazione fra i mercati; la reale capacità di previsione.
+
+**D:** ⚠️ Che cosa significa l'«ipotesi di autofinanziamento» nella pianificazione del portafoglio?
+**R:** Che i business in cui si investe possano autofinanziarsi: muoversi da soli e creare da soli il rendimento che l'investitore si aspetta dopo l'investimento iniziale.
+**Distrattori:**
+- Che la corporation non debba mai ricorrere al mercato finanziario, nemmeno per l'investimento iniziale.
+- Che ogni business restituisca agli azionisti tutta la cassa prodotta, senza reinvestirla.
+
+**D:** ⚠️ Quando nasce la pianificazione di portafoglio?
+**R:** Dopo la crisi degli anni '70.
+**Distrattori:**
+- Negli anni '30, con il budget finanziario.
+- Negli anni '50, con il razionalismo strategico.
+- Negli anni '90, con il management strategico.
+
+**D:** ⚠️ Perché la pianificazione corporate tratta i business come un portafoglio di investimenti?
+**R:** Non già per rendere semplice la pianificazione corporate, ma per renderla intelligibile all'investitore finanziario, che ragiona in un'ottica di portafoglio.
+**Distrattori:**
+- Per rendere semplice la pianificazione corporate, riducendo tutti i business a un unico indicatore.
+- Per renderla intelligibile al consumatore finale, che sceglie fra prodotti di business diversi.
+- Per renderla intelligibile ai concorrenti, così da scoraggiarne l'ingresso nel mercato.
+
+**D:** Che cos'è una SBU nella pianificazione di portafoglio?
+**R:** La strategic business unit: il business in cui si investe, che ha una sua autonomia strategica e fa il suo piano di business, con obiettivi di leadership di costo o di differenziazione.
+**Distrattori:**
+- La strategic business unit: l'ufficio della capogruppo che decide il piano di tutti i business della corporation.
+- La strategic business unit: il business privo di autonomia strategica, che esegue il piano della capogruppo.
+
+**D:** Chi elaborò la matrice BCG e a che cosa servì in origine?
+**R:** Il Boston Consulting Group, un'azienda di consulenza, che aiutò General Electric e le grandi corporation fortemente diversificate a superare la crisi degli anni '70 razionalizzando i loro investimenti.
+**Distrattori:**
+- Il Boston Consulting Group, che aiutò General Electric e le grandi imprese monobusiness a superare la crisi degli anni '30.
+- La Federal Reserve di Boston, che aiutò le grandi corporation fortemente diversificate a superare la crisi degli anni '70.
+
+**D:** ⚠️ Quali sono le due variabili della matrice BCG, e su quali assi stanno?
+**R:** Sull'asse x la quota di mercato relativa, sull'asse y la crescita del mercato.
+**Distrattori:**
+- Sull'asse x la crescita del mercato, sull'asse y la quota di mercato relativa.
+- Sull'asse x la quota di mercato assoluta, sull'asse y la crescita del fatturato.
+- Sull'asse x la redditività del settore, sull'asse y la crescita del mercato.
+
+**D:** ⚠️ Che cosa misura la quota di mercato relativa?
+**R:** Quanto la propria quota di mercato è grande rispetto alla quota di mercato del principale concorrente.
+**Distrattori:**
+- Quanto la propria quota di mercato è grande rispetto al totale del mercato.
+- Quanto la propria quota di mercato è grande rispetto a quella dell'anno precedente.
+- Quanto la propria quota di mercato è grande rispetto alla media di tutti i concorrenti.
+
+**D:** ⚠️ Come sono graduati gli assi della matrice BCG, e dove passano le linee divisorie?
+**R:** La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 1.
+**Distrattori:**
+- La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala lineare, da 0,1 a sinistra a 10 a destra, con il confine a 1.
+- La crescita del mercato va da 0 a 10% con il confine al 5%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 1.
+- La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 5.
+
+**D:** ⚠️ Come si chiama il quadrante della matrice BCG con quota di mercato relativa alta e crescita del mercato alta, e dove sta?
+**R:** Star, in alto a sinistra: i prodotti assorbono cassa ma producono cassa.
+**Distrattori:**
+- Question mark, in alto a destra: bisogna decidere se investire o no.
+- Cash cow, in basso a sinistra: il business produce cassa.
+- Dog, in basso a destra: il business assorbe una cassa sterile.
+
+**D:** ⚠️ Quale quadrante della matrice BCG ha quota relativa alta in un mercato stagnante, e perché produce cassa?
+**R:** La cash cow, in basso a sinistra: il mercato è maturo e saturo, senza nuovi entranti, quindi gli investimenti sono progressivamente bassi, mentre la quota relativa alta garantisce ricavi importanti.
+**Distrattori:**
+- La star, in alto a sinistra: il mercato cresce, quindi gli investimenti sono progressivamente bassi, mentre la quota relativa alta garantisce ricavi importanti.
+- Il dog, in basso a destra: il mercato è maturo e saturo, quindi gli investimenti sono nulli, mentre la quota relativa bassa riduce i costi della competizione.
+- Il question mark, in alto a destra: il mercato è in crescita, quindi i ricavi aumentano senza bisogno di nuovi investimenti.
+
+**D:** ⚠️ Quale quadrante della matrice BCG ha quota relativa bassa e crescita del mercato bassa, e che cosa conviene farne?
+**R:** Il dog, in basso a destra: assorbe una cassa sterile, perché il mercato non ha potenzialità di crescita, e sarebbe bene dismetterlo.
+**Distrattori:**
+- Il question mark, in alto a destra: assorbe cassa, ma il mercato ha grandi potenzialità, e bisogna decidere se investire.
+- La cash cow, in basso a sinistra: produce più cassa di quella che le serve, e la si usa per finanziare altri business.
+- Il dog, in basso a destra: produce cassa senza investimenti, e conviene mantenerlo il più a lungo possibile.
+
+**D:** ⚠️ Quale quadrante della matrice BCG ha quota relativa bassa e crescita del mercato alta, e quale decisione impone?
+**R:** Il question mark, in alto a destra: oggi si è piccoli in un mercato con grandi potenzialità, e bisogna decidere se investire o no.
+**Distrattori:**
+- La star, in alto a sinistra: si è leader in un mercato con grandi potenzialità, e bisogna continuare a competere.
+- Il dog, in basso a destra: si è piccoli in un mercato senza potenzialità, e bisogna dismettere.
+- Il question mark, in basso a sinistra: si è leader in un mercato stagnante, e bisogna usarne la cassa.
+
+**D:** ⚠️ Qual è la logica di portafoglio che il pianificatore corporate comunica agli investitori con la matrice BCG?
+**R:** Liberarsi dei dog, usare la cassa delle cash cow per investire nei question mark, e continuare a competere nelle star, che un domani possono diventare cash cow.
+**Distrattori:**
+- Liberarsi delle cash cow, usare la cassa dei dog per investire nelle star, e continuare a competere nei question mark.
+- Liberarsi dei question mark, usare la cassa delle star per investire nei dog, e continuare a competere nelle cash cow.
+- Liberarsi dei dog, usare la cassa delle star per investire nelle cash cow, e continuare a competere nei question mark.
+
+**D:** ⚠️ La matrice BCG è uno strumento di pianificazione di business o corporate?
+**R:** Corporate: serve a classificare i business in cui la corporation ha diversificato i suoi investimenti e a spiegarne la logica agli azionisti. Usarla per i prodotti di una strategia di business è, per il docente, un uso forzato.
+**Opzione:** È uno strumento di pianificazione corporate, per classificare i business in cui la corporation ha diversificato.
+**Distrattori:**
+- È uno strumento di pianificazione di business, per classificare i prodotti di un'impresa monoprodotto.
+- È uno strumento di pianificazione di business, per scegliere fra leadership di costo e differenziazione.
+
+**D:** Nella matrice BCG di McDonald's commentata dal docente, quali business sono cash cow, star e dog?
+**R:** Cash cow il business dell'asporto, star quello dei panini e della ristorazione in loco, dog le apple pie.
+**Distrattori:**
+- Cash cow i panini e la ristorazione in loco, star l'asporto, dog le apple pie.
+- Cash cow l'asporto, star le apple pie, dog i panini e la ristorazione in loco.
+- Cash cow le apple pie, star i panini e la ristorazione in loco, dog l'asporto.
+
+**D:** ⚠️ Nella matrice BCG di Coca-Cola Company, dove stanno Coca-Cola, Sprite e Fanta, Diet Coke e Minute Maid?
+**R:** Coca-Cola fra le cash cow; Sprite e Fanta fra i question mark; Diet Coke e Minute Maid fra i dog.
+**Distrattori:**
+- Coca-Cola fra le star; Sprite e Fanta fra i question mark; Diet Coke e Minute Maid fra i dog.
+- Coca-Cola fra le cash cow; Sprite e Fanta fra i dog; Diet Coke e Minute Maid fra i question mark.
+- Coca-Cola fra le cash cow; Sprite e Fanta fra le star; Diet Coke e Minute Maid fra i dog.
+
+### Flashcard dai quiz — lezione 02
+
+**D:** ⚠️ A che cosa serve l'insieme degli elementi che compongono il triangolo della corporate strategy, secondo il test della lezione 02?
+**R:** **Serve per il raggiungimento del vantaggio aziendale**: nel triangolo della lezione 01 la freccia porta al riquadro «Il Vantaggio aziendale». Distrattori del test: «aiuta i vertici aziendali ad operare efficacemente», «serve per favorire il coordinamento delle attività» (il coordinamento è una parola della definizione di corporate strategy, non del triangolo), «viene utilizzato per favorire la crescita».
+**Opzione:** Serve per il raggiungimento del vantaggio aziendale.
+**Distrattori:**
+- Aiuta i vertici aziendali ad operare efficacemente.
+- Serve per favorire il coordinamento delle attività.
+- Viene utilizzato per favorire la crescita.
+
+**D:** ⚠️ Che cosa fa la vision di una corporation, nella formula del test della lezione 02?
+**R:** **Agisce in un dominio e si connota di valori etici**: è la formula della slide 5 della lezione 01, alla lettera. Distrattori del test: «proietta i risultati corporate nel lungo periodo» (deforma il «progetto di lungo termine»), «agisce sullo scenario di mercato» (il dominio scambiato con il mercato), «condiziona i pattern di crescita del mercato».
+**Opzione:** Agisce in un dominio e si connota di valori etici.
+**Distrattori:**
+- Proietta i risultati corporate nel lungo periodo.
+- Agisce sullo scenario di mercato.
+- Condiziona i pattern di crescita del mercato.
+
+**D:** ⚠️ Come definisce la mission il test della lezione 02?
+**R:** **Si sostanzia di un mandato della proprietà al management e si sviluppa in coerenza con la vision.** La prima metà da sola è il distrattore amputato. Gli altri distrattori: «si sostanzia di una missione speciale affidata alle Business unit», che richiama il transcript, e «definisce gli obiettivi di mercato», che restringe il mandato.
+**Opzione:** Si sostanzia di un mandato della proprietà al management e si sviluppa in coerenza con la vision.
+**Distrattori:**
+- Si sostanzia di un mandato della proprietà al management.
+- Si sostanzia di una missione speciale affidata alle Business unit.
+- Definisce gli obiettivi di mercato.
+
+**D:** ⚠️ Quale limite della matrice BCG indica il test di autovalutazione?
+**R:** **Agisce solo in un ambito finanziario.** ⚠️ Non è nei materiali: il docente presenta la «logica tipicamente finanziaria» come il pregio dello strumento. I distrattori sul tasso di crescita e sulla quota relativa «non univocamente determinabili» sono una coppia simmetrica sui due assi e si eliminano a vicenda; «si applica ad imprese multi prodotto» è il campo di applicazione, non un limite.
+**Opzione:** Agisce solo in un ambito finanziario.
+**Distrattori:**
+- Il tasso di crescita del mercato non è univocamente determinabile.
+- La quota di mercato relativa non è univocamente determinabile.
+- Si applica ad imprese multi prodotto.
+
+**D:** ⚠️ Che cosa implica, secondo il test, la posizione dei question mark nella matrice BCG?
+**R:** **Scelte di investimento di lungo periodo**: il question mark ha quota relativa bassa in un mercato ad alta crescita, e bisogna «decidere se investire o no». Distrattori del test: «è una condizione transitoria» (il docente lo dice di tutti i quadranti, che ruotano), «rappresenta una posizione di vantaggio» (star e cash cow), «è la tipica situazione di disinvestimento» (dog).
+**Opzione:** Implica scelte di investimento di lungo periodo.
+**Distrattori:**
+- È una condizione transitoria.
+- Rappresenta una posizione di vantaggio.
+- È la tipica situazione di disinvestimento.
+
+**D:** ⚠️ Quali sono i due parametri della matrice elaborata dalla Boston Consulting Group?
+**R:** **Il tasso annuale di crescita del mercato e la quota relativa di mercato.** Distrattori del test: «tasso di crescita del fatturato e redditività del settore» (oggetto scambiato), «fatturato annuale e numero dei dipendenti» e «fatturato mensile e numero di dipendenti» (coppia speculare di misure di dimensione).
+**Opzione:** Tasso annuale di crescita del mercato e quota relativa di mercato.
+**Distrattori:**
+- Tasso di crescita del fatturato e redditività del settore.
+- Fatturato annuale e numero dei dipendenti.
+- Fatturato mensile e numero di dipendenti.
