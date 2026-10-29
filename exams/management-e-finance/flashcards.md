@@ -1327,3 +1327,253 @@
 - Attua una diversificazione correlata basata sulle risorse tangibili.
 - Si orienta verso scelte di internazionalizzazione.
 - Opera scelte di disinvestimento.
+
+## Lezione 06 — La scelta di crescere 3
+
+**D:** ⚠️ Come definisce le economie di varietà o raggio di azione la slide 2 della lezione 06?
+**R:** «E' più economico combinare due o più linee di prodotti in un'unica azienda».
+**Distrattori:**
+- È più economico produrre un'unica linea di prodotti in due o più aziende.
+- È più economico aumentare la dimensione dell'impianto di un'unica linea di prodotti.
+- È più economico affidare due o più linee di prodotti ad aziende indipendenti.
+
+**D:** ⚠️ Quali sono, nella slide 2 della lezione 06, le voci delle economie di varietà o raggio di azione?
+**R:** La condivisione dei costi fissi; L'ottimizzazione del rischio di impresa; Umbrella branding e effetti di marketing strategico.
+**Distrattori:**
+- La condivisione dei costi variabili; L'ottimizzazione del rischio di impresa; Umbrella branding e effetti di marketing strategico.
+- La condivisione dei costi fissi; L'eliminazione del rischio di impresa; Umbrella branding e effetti di marketing strategico.
+- La condivisione dei costi fissi; L'ottimizzazione del rischio di impresa; Sconti con i fornitori.
+
+**D:** ⚠️ Qual è, per il docente della lezione 06, il salto che spesso manca all'imprenditoria italiana?
+**R:** Il salto strategico e organizzativo dalla produzione eccellente di un prodotto alla gestione di produzioni diverse. Gli imprenditori sono soprattutto «grandi artigiani», concentrati sul prodotto. Crescere in business diversi richiede di distaccarsi dalla produzione originaria e di affidare la capacità competitiva alle unità di business.
+**Opzione:** Distaccarsi dal prodotto d'origine e saper gestire un portafoglio di produzioni diverse.
+**Distrattori:**
+- Concentrarsi ancora di più sulla qualità del prodotto d'origine.
+- Investire la cassa in nuove tecnologie per lo stesso prodotto.
+
+**D:** ⚠️ Come illustra il docente la condivisione dei costi fissi?
+**R:** Con i magazzini freddi della corporation, usati sia dall'azienda dei gelati (Algida) sia da quella dei surgelati (Findus): si riempiono di gelati d'inverno e di surgelati d'estate. Un costo fisso che sarebbe stato di uno dei due produttori diventa un asset a disposizione di tutte le aziende del gruppo. Altro esempio: la lavorazione della pelle accentrata per accessori, scarpe e prodotti in pelle.
+**Opzione:** Con i magazzini freddi della corporation, usati da Algida per i gelati e da Findus per i surgelati.
+**Distrattori:**
+- Con i magazzini freddi di Algida, affittati a un produttore concorrente.
+- Con il brand Unilever, che compare su tutti i prodotti del gruppo.
+
+**D:** ⚠️ Perché i gelati a tempo di Algida sono un esempio di ottimizzazione del rischio d'impresa?
+**R:** Ogni gusto resta sul mercato 15 giorni e l'invenduto va stoccato: è un investimento rischioso che Algida da sola non avrebbe potuto gestire. Inserito nel portafoglio di una corporation, che compensa le perdite di un'unità con i guadagni di un'altra, diventa un rischio che si può correre.
+**Opzione:** Perché un rischio insostenibile per Algida da sola diventa sostenibile nel portafoglio della corporation.
+**Distrattori:**
+- Perché i gelati a tempo eliminano il rischio d'impresa grazie alla domanda garantita.
+- Perché la corporation vieta ad Algida gli investimenti rischiosi.
+
+**D:** Che cos'è l'umbrella branding?
+**R:** Il fatto che i prodotti, ciascuno con il suo brand specifico, siano protetti da un brand ombrello, come la «U» di Unilever. È un addizionale di immagine che rassicura sulla solidità della corporation e aumenta la capacità competitiva e la visibilità del marchio; la notorietà si costruisce una volta sola e si replica su diversi business.
+**Opzione:** Un brand ombrello della corporation che protegge i brand specifici dei singoli prodotti.
+**Distrattori:**
+- Un brand unico che sostituisce i brand specifici dei singoli prodotti.
+- Un accordo con cui più corporation concorrenti condividono lo stesso marchio.
+
+**D:** ⚠️ Quali sono le quattro voci del ciclo «I vantaggi della varietà» (slide 3 della lezione 06)?
+**R:** Raggio d'azione; Clienti, Canali brand comuni; A livello di Business (Diminuzione dei costi, Qualità); Attività CV Comuni.
+**Distrattori:**
+- Raggio d'azione; Clienti, Canali brand comuni; A livello di Business (Aumento dei prezzi, Qualità); Attività CV Comuni.
+- Raggio d'azione; Fornitori comuni; A livello di Business (Diminuzione dei costi, Qualità); Attività CV Comuni.
+- Economie di scala; Clienti, Canali brand comuni; A livello di Business (Diminuzione dei costi, Qualità); Attività CV Comuni.
+
+**D:** ⚠️ Quale vantaggio ottiene Unilever dalla contrattazione centralizzata con la grande distribuzione?
+**R:** Un potere contrattuale che il singolo marchio non ha, perché fornisce molti prodotti diversi tramite un centro vendite comune. Per esempio ottiene di stoccare i propri prodotti nei magazzini freddi della grande distribuzione: si libera di un costo e guadagna un margine più alto per prodotto.
+**Opzione:** Ottiene di stoccare i propri prodotti nei magazzini freddi della grande distribuzione.
+**Distrattori:**
+- Ottiene che ogni marchio contratti da solo, con condizioni separate.
+- Ottiene di vendere i surgelati senza passare dalla grande distribuzione.
+
+**D:** Che esempio dà il docente delle attività della catena del valore comuni?
+**R:** La logistica: il trasporto, che all'andata viaggia pieno di prodotti finiti e al ritorno viaggerebbe vuoto, si ricarica di materie prime per un'altra fabbrica del gruppo, e viaggia carico all'andata e al ritorno.
+**Distrattori:**
+- La contrattazione centralizzata con la grande distribuzione organizzata.
+- Il brand ombrello che compare su tutti i prodotti del gruppo.
+
+**D:** ⚠️ Che cosa intende il docente della lezione 06 per qualità delle produzioni?
+**R:** «La qualità delle produzioni non significa che io produco prodotti di elevata qualità, ma piuttosto che sia in grado di produrre i prodotti della qualità che io ho pianificato». Chi produce per l'uso comune a basso prezzo deve rispettare la bassa qualità pianificata.
+**Opzione:** Saper produrre i prodotti della qualità che si è pianificata.
+**Distrattori:**
+- Produrre sempre prodotti di elevata qualità.
+- Produrre la qualità richiesta di volta in volta dalla grande distribuzione.
+
+**D:** Perché la diversificazione riduce i costi della qualità a livello di business?
+**R:** Chi opera in più settori confronta i processi con cui raggiunge la qualità pianificata, li apprende e li replica: nelle aziende nuove non deve imparare da capo, sposta il modello organizzativo, magari anche le persone, e arriva prima al risultato.
+**Opzione:** Perché il modello per raggiungere la qualità pianificata si replica da un settore all'altro.
+**Distrattori:**
+- Perché ogni azienda del gruppo impara da sola a raggiungere la qualità pianificata.
+- Perché la corporation abbassa la qualità pianificata in tutti i settori.
+
+**D:** ⚠️ Come definisce le esternalità di rete la slide 4 della lezione 06?
+**R:** «L'azienda si costringe a crescere stimolando esasperatamente la domanda». Esempi: E-Bay, Microsoft.
+**Distrattori:**
+- L'azienda si costringe a crescere riducendo esasperatamente i costi.
+- L'azienda rinuncia a crescere per non stimolare i concorrenti.
+- L'azienda si costringe a crescere acquisendo esasperatamente i concorrenti.
+
+**D:** ⚠️ Che differenza c'è fra esternalità di rete aperte e chiuse (slide 4 della lezione 06)?
+**R:** Aperte: «Lo sviluppo dell'azienda si alimenta da quelle del settore». Chiuse: «Calibrato sull'azienda».
+**Opzione:** Aperte: lo sviluppo dell'azienda si alimenta da quelle del settore; chiuse: calibrate sull'azienda.
+**Distrattori:**
+- Aperte: calibrate sull'azienda; chiuse: lo sviluppo dell'azienda si alimenta da quelle del settore.
+- Aperte: lo sviluppo dell'azienda si alimenta da quelle del settore; chiuse: vietate dalla regolamentazione.
+
+**D:** ⚠️ Che cosa insegna, per il docente, il caso di eBay?
+**R:** eBay è stato il primo a muoversi nel commercio elettronico e ne ha tratto grande vantaggio, ma i concorrenti hanno copiato le sue soluzioni: il mercato è diventato sovraffollato e la capacità di competere ha dovuto evolvere. Le decisioni di crescere, «per quanto innovative, non sono soluzioni definitive».
+**Opzione:** Che una crescita innovativa viene copiata: le decisioni di crescere non sono soluzioni definitive.
+**Distrattori:**
+- Che il primo a muoversi resta per sempre l'unico operatore del mercato.
+- Che il commercio elettronico non attira concorrenti.
+
+**D:** Perché la delocalizzazione degli impianti è un esempio di esternalità?
+**R:** Molti produttori italiani hanno delocalizzato prima nell'Europa dell'Est (Romania, Bulgaria), poi in Cina, per il minor costo del lavoro. Ma la soluzione è stata copiata dai concorrenti, e nei comparti in cui il costo è l'arma vincente è diventata un elemento senza il quale non si può più competere.
+**Opzione:** Perché i concorrenti l'hanno copiata, e oggi senza di essa non si può più competere.
+**Distrattori:**
+- Perché ha dato un vantaggio permanente a chi ha delocalizzato per primo.
+- Perché la legge ha imposto a tutti di delocalizzare.
+
+**D:** ⚠️ Come definisce la slide 5 della lezione 06 i due tipi di diversificazione?
+**R:** Conglomerata: «allontanamento radicale dal core business». Correlata: «stretta vicinanza strategica al core business».
+**Opzione:** Conglomerata: allontanamento radicale dal core business; correlata: stretta vicinanza strategica al core business.
+**Distrattori:**
+- Conglomerata: stretta vicinanza strategica al core business; correlata: allontanamento radicale dal core business.
+- Conglomerata: allontanamento graduale dal core business; correlata: identità con il core business.
+
+**D:** ⚠️ Con quali esempi il docente distingue la diversificazione conglomerale da quella correlata?
+**R:** Conglomerale: prodotti alimentari e prodotti per la cura della persona (non le stesse tecnologie, non necessariamente la stessa clientela, non gli stessi prodotti). Correlata: prodotti per la cura della persona e prodotti farmaceutici, che condividono lo stesso canale di distribuzione o fasi della lavorazione.
+**Opzione:** Conglomerale: alimentari e cura della persona; correlata: cura della persona e farmaceutici.
+**Distrattori:**
+- Conglomerale: cura della persona e farmaceutici; correlata: alimentari e cura della persona.
+- Conglomerale: gelati e surgelati; correlata: alimentari e cura della persona.
+
+**D:** ⚠️ Quali sono le potenzialità interne che spingono a diversificare (slide 6 della lezione 06)?
+**R:** Esigenza e/o opportunità di realizzare economie di scala e/o scopo; Eccesso di capacità (es. disponibilità di risorse finanziarie, marchio); Risorse immobilizzate; Frazionamento del rischio; Possibilità di realizzare sinergie tra risorse tangibili e intangibili di diversi business.
+**Opzione:** Economie di scala e/o scopo; eccesso di capacità; risorse immobilizzate; frazionamento del rischio; sinergie tra risorse tangibili e intangibili.
+**Distrattori:**
+- Economie di scala e/o scopo; eccesso di capacità; risorse immobilizzate; concentrazione del rischio; sinergie tra risorse tangibili e intangibili.
+- Economie di scala e/o scopo; carenza di capacità; risorse immobilizzate; frazionamento del rischio; sinergie tra risorse tangibili e intangibili.
+- Economie di scala e/o scopo; eccesso di capacità; risorse immobilizzate; frazionamento del rischio; calo della domanda nel business attuale.
+
+**D:** ⚠️ Che cosa consente il frazionamento del rischio, secondo la slide 6 della lezione 06?
+**R:** «La gestione di un portafoglio attività diversificato consente di mantenere il livello dei flussi di cassa omogeneo nonostante la ciclicità settoriale». Esempio del docente: investire in un'ASA con stagionalità inversa.
+**Opzione:** Di mantenere il livello dei flussi di cassa omogeneo nonostante la ciclicità settoriale.
+**Distrattori:**
+- Di aumentare il livello dei flussi di cassa sfruttando la ciclicità settoriale.
+- Di eliminare la ciclicità settoriale nei singoli business.
+
+**D:** ⚠️ Quali sono le opportunità esterne che spingono a diversificare (slide 7 della lezione 06)?
+**R:** Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
+**Distrattori:**
+- Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Crescita della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
+- Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Bassi costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
+- Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es nazionalizzazioni e monopoli).
+
+**D:** Con quale esempio il docente illustra l'opportunità di replicare un vantaggio competitivo?
+**R:** Il Made in Italy: un'impresa che produce pasta può produrre prodotti dolciari, con tecnologie e clienti diversi. Non avranno l'etichetta del Made in Italy, che è un doc, ma il consumatore si aspetta dalla stessa azienda la stessa qualità.
+**Distrattori:**
+- L'energia e la telefonia aperte dalle liberalizzazioni.
+- La commissione pagata ad Amazon per vendere online.
+
+**D:** ⚠️ Come precisa il docente il «calo della domanda» della slide 7?
+**R:** Il mercato è saturo: «non è che la domanda decresce ma non cresce come cresceva prima».
+**Opzione:** La domanda non decresce, ma non cresce come cresceva prima.
+**Distrattori:**
+- La domanda crolla e il mercato scompare.
+- La domanda cresce più di prima, ma i margini calano.
+
+**D:** Con quale esempio il docente illustra gli elevati costi di transazione?
+**R:** Nel largo consumo cresce il potere contrattuale di chi vende effettivamente il prodotto: per vendere su Amazon si paga una commissione molto alta, e il margine per prodotto diventa via via decrescente. Questo spinge verso comparti senza questi intermediari.
+**Distrattori:**
+- Il Made in Italy replicato dalla pasta ai prodotti dolciari.
+- Le liberalizzazioni dell'energia e della telefonia.
+
+**D:** Quali esempi di politiche pubbliche dà il docente fra le opportunità esterne?
+**R:** Le privatizzazioni e liberalizzazioni degli ultimi 15–20 anni in Italia e in Europa: diventare produttore o distributore di energia, o gestore di reti telefoniche, comparti che prima erano monopolio dello Stato.
+**Distrattori:**
+- Gli incentivi pubblici alla delocalizzazione degli impianti in Cina.
+- La commissione pagata ad Amazon per vendere online.
+
+**D:** ⚠️ Quali sono gli assi della matrice di Ansoff (slide 8 della lezione 06)?
+**R:** Prodotti (attuali/nuovi) e Mercati (attuali/nuovi).
+**Distrattori:**
+- Risorse (attuali/nuove) e Mercati (attuali/nuovi).
+- Prodotti (attuali/nuovi) e Tecnologie (attuali/nuove).
+- Quota di mercato relativa (alta/bassa) e crescita del mercato (alta/bassa).
+
+**D:** ⚠️ Che cos'è la diversificazione nella matrice di Ansoff?
+**R:** Il quadrante dei prodotti nuovi in mercati nuovi: ci si muove da un'ASA a una completamente nuova, con nuovi prodotti, nuovi bisogni, nuove tecnologie.
+**Distrattori:**
+- Il quadrante dei prodotti attuali in mercati nuovi.
+- Il quadrante dei prodotti nuovi nei mercati attuali.
+- Il quadrante dei prodotti attuali nei mercati attuali.
+
+**D:** ⚠️ Come si chiama, nella matrice di Ansoff della slide 8, il quadrante dei prodotti attuali in mercati nuovi?
+**R:** Sviluppo del mercato: per esempio entrare in un nuovo mercato geografico con gli stessi prodotti, che non è diversificazione.
+**Opzione:** Sviluppo del mercato.
+**Distrattori:**
+- Diversificazione.
+- Sviluppo del prodotto.
+- Espansione.
+
+**D:** ⚠️ Come si chiama, nella matrice di Ansoff della slide 8, il quadrante dei prodotti nuovi nei mercati attuali?
+**R:** Sviluppo del prodotto: nello stesso mercato si sviluppano prodotti nuovi che rispondono a bisogni nuovi, magari con la stessa tecnologia.
+**Opzione:** Sviluppo del prodotto.
+**Distrattori:**
+- Sviluppo del mercato.
+- Diversificazione.
+- Espansione.
+
+**D:** ⚠️ Come si chiama, nella matrice di Ansoff della slide 8, il quadrante dei prodotti attuali nei mercati attuali?
+**R:** Espansione: si cresce nello stesso mercato con gli stessi prodotti, aumentando il volume di produzione e la capacità di penetrare il mercato.
+**Opzione:** Espansione.
+**Distrattori:**
+- Sviluppo del mercato.
+- Sviluppo del prodotto.
+- Diversificazione.
+
+**D:** Perché, per il docente, non bisogna confondere la diversificazione con le altre strategie della matrice di Ansoff?
+**R:** Perché altrimenti si rischia di tenere separati business che hanno forti elementi di comunione, perché usano gli stessi prodotti o gli stessi mercati.
+
+### Flashcard dai quiz — lezione 06
+
+**D:** ⚠️ Il mercato postale europeo, secondo il test della lezione 06:
+**R:** **Si diversifica.** È la slide 13 della lezione 03: dal declino del mail alla «DIVERSIFICAZIONE (modalità prevalenti)», per espansione internazionale (TNT, DPWN) o per consolidamento nazionale (Poste Italiane, La Poste). Distrattori del test: «si internazionalizza» e «si concentra» (ciascuno è uno solo dei due rami), «resta stagnante» (la maturità riguarda la corrispondenza, e la risposta è proprio diversificare).
+**Opzione:** Si diversifica.
+**Distrattori:**
+- Si concentra.
+- Resta stagnante.
+- Si internazionalizza.
+
+**D:** ⚠️ Le competenze distintive, secondo il test della lezione 06:
+**R:** **Sono risorse intangibili distintive rispetto ai concorrenti.** Riformula la slide 7 della lezione 03 (Selznick: «abilità rispetto ai concorrenti»): competenze specifiche dell'impresa, come il saper fare, che il concorrente non può comprare come una licenza. Distrattori del test: «aumentano i costi di gestione dell'impresa», «legittimano una crescita del brand aziendale», «consentono strategie di leadership dei costi».
+**Opzione:** Sono risorse intangibili distintive rispetto ai concorrenti.
+**Distrattori:**
+- Aumentano i costi di gestione dell'impresa.
+- Legittimano una crescita del brand aziendale.
+- Consentono strategie di leadership dei costi.
+
+**D:** ⚠️ Che cosa sostiene Porter, secondo il test della lezione 06?
+**R:** **L'analisi del settore è finalizzata a comprendere l'impatto del settore sulle performance dell'impresa.** ⚠️ Porter non compare nelle lezioni 01–06. Due distrattori del test sono la stessa tesi negata: «le strategie di base non servono per sfruttare a proprio vantaggio le forze di un settore industriale», «la struttura del settore non influisce in maniera determinante sulla strategia».
+**Opzione:** L'analisi del settore è finalizzata a comprendere l'impatto del settore sulle performance dell'impresa.
+**Distrattori:**
+- Le strategie di base non servono per sfruttare a proprio vantaggio le forze di un settore industriale.
+- La struttura del settore non influisce in maniera determinante sulla strategia che un'impresa può adottare.
+- La strategia deve essere valutata mensilmente.
+
+**D:** ⚠️ Quali forze fondamentali individua il modello di Porter per l'analisi del settore (test della lezione 06)?
+**R:** **Minaccia di nuovi entranti, potere di mercato degli acquirenti, potere dei fornitori, intensità della concorrenza interna, minaccia dei prodotti/servizi sostitutivi.** ⚠️ Non compaiono nelle lezioni 01–06. È l'unica opzione con cinque forze; non confonderle con le quattro forze dell'industria postale della lezione 03.
+**Opzione:** Minaccia di nuovi entranti, potere di mercato degli acquirenti, potere dei fornitori, intensità della concorrenza interna, minaccia dei prodotti/servizi sostitutivi.
+**Distrattori:**
+- Meccanismi di isolamento interni al mercato, capacità di acquisto degli acquirenti, struttura del mercato e intensità della concorrenza interna.
+- Struttura del mercato, potere dei fornitori, intensità della concorrenza interna, minaccia dei prodotti/servizi sostitutivi.
+- Minaccia dei competitor, struttura del settore e potere degli acquirenti.
+
+**D:** ⚠️ Le risorse che l'azienda può detenere, secondo il test della lezione 06:
+**R:** **Beni tangibili, intangibili e competenze organizzative.** Riformula la slide 3 della lezione 03 (tangibili, intangibili, umane, tenute insieme dalle capacità organizzative). Gli altri distrattori del test sono sottoinsiemi della chiave: la chiave è la più completa.
+**Opzione:** Beni tangibili, intangibili e competenze organizzative.
+**Distrattori:**
+- Beni tangibili e competenze organizzative.
+- Beni tangibili ed intangibili.
+- Beni intangibili.
