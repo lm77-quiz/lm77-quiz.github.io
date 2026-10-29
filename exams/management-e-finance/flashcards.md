@@ -450,7 +450,7 @@
 - Definisce gli obiettivi di mercato.
 
 **D:** ⚠️ Quale limite della matrice BCG indica il test di autovalutazione?
-**R:** **Agisce solo in un ambito finanziario.** ⚠️ Non è nei materiali: il docente presenta la «logica tipicamente finanziaria» come il pregio dello strumento. I distrattori sul tasso di crescita e sulla quota relativa «non univocamente determinabili» sono una coppia simmetrica sui due assi e si eliminano a vicenda; «si applica ad imprese multi prodotto» è il campo di applicazione, non un limite.
+**R:** **Agisce solo in un ambito finanziario.** Lo conferma l'apertura della lezione 03: la pianificazione di portafoglio «non è esaustiva» e alimenta una competizione sui mercati finanziari invece che sui mercati dei prodotti, mentre gli investitori non si raggiungono più «in una logica di competizione esclusivamente finanziaria». ⚠️ Il limite non è la logica finanziaria in sé, che nella lezione 02 è il pregio dello strumento («logica tipicamente finanziaria»), ma il fatto che sia l'unica. I distrattori sul tasso di crescita e sulla quota relativa «non univocamente determinabili» sono una coppia simmetrica sui due assi e si eliminano a vicenda; «si applica ad imprese multi prodotto» è il campo di applicazione, non un limite.
 **Opzione:** Agisce solo in un ambito finanziario.
 **Distrattori:**
 - Il tasso di crescita del mercato non è univocamente determinabile.
@@ -774,3 +774,285 @@
 - Mira a ridurre i costi di produzione.
 - Non tiene conto del rapporto tra i business.
 - Si basa sul valore di mercato.
+
+## Lezione 04 — La scelta di crescere 1
+
+**D:** ⚠️ Quali sono, nella slide 2 della lezione 04, gli impieghi di risorse in eccesso?
+**R:** Disponibilità finanziarie; Risorse immateriali; Capacità produttiva; Brand image.
+**Distrattori:**
+- Disponibilità finanziarie; Risorse immateriali; Capacità produttiva; Capacità competitiva.
+- Disponibilità finanziarie; Risorse immateriali; Barriere tecnologiche; Brand image.
+- Disponibilità finanziarie; Risorse umane; Capacità produttiva; Brand image.
+
+**D:** ⚠️ Quali sono, nella slide 2 della lezione 04, le fonti delle risorse interne al settore?
+**R:** Capacità competitiva; Barriere tecnologiche; Filiere produttive.
+**Distrattori:**
+- Capacità competitiva; Barriere tecnologiche; Capacità produttiva.
+- Brand image; Barriere tecnologiche; Filiere produttive.
+- Capacità competitiva; Barriere all'entrata; Filiere produttive.
+
+**D:** ⚠️ Quali sono le due ragioni che spingono le imprese dai comportamenti competitivi a quelli di sviluppo?
+**R:** **Gli impieghi di risorse in eccesso**, che l'impresa scopre al proprio interno e non nel confronto con i concorrenti, e **le fonti delle risorse interne al settore**, cioè le potenzialità che derivano dal mercato in cui si trova.
+**Opzione:** Gli impieghi di risorse in eccesso e le fonti delle risorse interne al settore.
+**Distrattori:**
+- Gli impieghi di risorse in eccesso e le fonti delle risorse esterne al settore.
+- La carenza di risorse finanziarie e le fonti delle risorse interne al settore.
+- Gli impieghi di risorse in eccesso e la conquista di quote di mercato relative.
+
+**D:** Che cosa vuol dire crescere, per il docente della lezione 04?
+**R:** Sia diventare più grandi in senso dimensionale, con corporation via via più grandi, sia crescere nella capacità moltiplicativa, cioè nella capacità di generare un valore addizionale.
+**Distrattori:**
+- Soltanto diventare più grandi in senso dimensionale, con corporation via via più grandi.
+- Sottrarre quote di mercato ai concorrenti, aumentando la quota di mercato relativa.
+- Soltanto accrescere la capacità di generare valore addizionale, a parità di dimensione.
+
+**D:** Perché le disponibilità finanziarie diventano una risorsa per crescere?
+**R:** Perché le imprese scoprono che le risorse usate per guidare la concorrenza hanno un ritorno più basso di quello che avrebbero in altri business: il cash flow del business in cui si è vincitori può finanziare la crescita in business diversi.
+**Opzione:** Perché reinvestite nel business di origine rendono meno che in altri business.
+**Distrattori:**
+- Perché reinvestite nel business di origine rendono più che in altri business.
+- Perché l'impresa in sofferenza di cassa deve indebitarsi per restare competitiva.
+
+**D:** ⚠️ Che posizione ha, nella lezione 04, l'impresa che riesce a risparmiare cassa?
+**R:** Una posizione di vantaggio che **non è più un vantaggio competitivo**, perché il mercato è dato e la quota di mercato relativa è data: è un'opportunità ulteriore che la spinge a crescere in settori o attività diverse.
+**Opzione:** Un vantaggio che non è competitivo, ma un'opportunità di crescere in settori diversi.
+**Distrattori:**
+- Un vantaggio competitivo, perché può aumentare la quota di mercato relativa.
+- Uno svantaggio, perché la cassa non reinvestita riduce la capacità competitiva.
+
+**D:** ⚠️ Perché le risorse immateriali spingono l'impresa a crescere?
+**R:** Perché, usate in un unico business, risultano **sovradimensionate** rispetto al valore che si è in grado di generare (per esempio la capacità di generare idee, innovazione, strategie vincenti). Meglio usarle su diversi business, per ottenere più di un vantaggio competitivo e quindi maggior valore.
+**Opzione:** Perché in un unico business sono sovradimensionate rispetto al valore che generano.
+**Distrattori:**
+- Perché in un unico business sono sottodimensionate rispetto al valore che generano.
+- Perché richiedono nuovi investimenti in tecnologia per poter essere sfruttate.
+
+**D:** Da che cosa deriva la capacità produttiva come impiego di risorse in eccesso?
+**R:** Dalla capacità di usare al meglio la propria organizzazione e i propri investimenti in tecnologie, risorse tangibili. È la capacità di produrre in modo efficiente (economie di scala), cioè di produrre di più a costi ancora più bassi.
+**Distrattori:**
+- Dalla capacità di usare al meglio il brand e gli investimenti in pubblicità, risorse intangibili.
+- Dalla disponibilità di cassa generata dal business in cui l'impresa è vincitrice.
+
+**D:** ⚠️ Perché il brand image è un impiego di risorse in eccesso?
+**R:** Il marchio legato a un unico prodotto è **sottoutilizzato**: può dare evidenza ad altri prodotti in altri settori **comunque collegati**. Gli investimenti in pubblicità, promozione e marketing che lo hanno costruito sono **sovradimensionati** rispetto all'utilizzo, e il rapporto fra investimento e valore è sfavorevole.
+**Opzione:** Perché il marchio di un unico prodotto può coprire prodotti di altri settori comunque collegati.
+**Distrattori:**
+- Perché il marchio di un unico prodotto può coprire prodotti di qualsiasi settore, anche non collegati.
+- Perché gli investimenti in pubblicità sono sottodimensionati rispetto all'utilizzo del marchio.
+
+**D:** ⚠️ In che senso la capacità competitiva è una fonte che spinge a crescere?
+**R:** L'impresa è leader, con la quota di mercato relativa più alta, ma il mercato è **stagnante** e non cresce oltre: la capacità di competere non può esprimersi nella sua totalità. Esempio: il tessile abbigliamento, con una domanda stagionale.
+**Opzione:** L'impresa è leader in un mercato stagnante, dove non può esprimerla nella sua totalità.
+**Distrattori:**
+- L'impresa è leader in un mercato in forte crescita, che ne assorbe tutta la capacità di competere.
+- L'impresa ha una quota relativa bassa e deve uscire dal mercato.
+
+**D:** Che cosa sono le barriere tecnologiche come fonte delle risorse interne al settore?
+**R:** L'assetto produttivo del mercato non consente più efficienza senza nuovi investimenti. Ma le nuove tecnologie creano nuova capacità produttiva, cioè volumi che non troverebbero domanda sul mercato.
+**Opzione:** Un assetto produttivo che non dà più efficienza senza investimenti che creerebbero volumi senza domanda.
+**Distrattori:**
+- Un assetto produttivo che dà nuova efficienza con nuovi investimenti, perché la domanda assorbe i nuovi volumi.
+- L'impossibilità di investire in nuove tecnologie per mancanza di cassa.
+
+**D:** ⚠️ Di che cosa è effetto il boom degli outlet, per il docente della lezione 04?
+**R:** Di una **sovraccapacità produttiva**: si produce più di quanto è domandato. I canali di vendita paralleli servono a «piazzare» i prodotti e a liberarsi delle scorte, non ad acquisire quote di mercato relative, che alla fine restano le stesse.
+**Opzione:** Di una sovraccapacità produttiva: si produce più di quanto è domandato.
+**Distrattori:**
+- Di una strategia per acquisire nuove quote di mercato relative.
+- Di una domanda in crescita che i canali tradizionali non riescono a servire.
+
+**D:** Che cosa sono le filiere produttive come fonte delle risorse interne al settore?
+**R:** La scoperta di potersi integrare a monte o a valle: chi fa capi di abbigliamento può produrre tessuti (a monte) o vendere, integrandosi nei canali distributivi (a valle).
+**Distrattori:**
+- La scoperta di potersi integrare soltanto a valle, nei canali distributivi.
+- La scoperta di poter cedere a terzi le fasi a monte della produzione.
+
+**D:** ⚠️ Per quale ragione le fonti delle risorse interne al settore spingono le imprese a crescere?
+**R:** Non per ragioni interne o strategiche, né perché la crescita sia un loro obiettivo strategico: perché il settore le **comprime** e le spinge a cercare soluzioni diverse, per continuare a conseguire un valore consono agli investimenti.
+**Opzione:** Perché il settore le comprime, non perché la crescita sia un loro obiettivo strategico.
+**Distrattori:**
+- Perché la crescita è un obiettivo strategico fissato dal vertice.
+- Perché il settore in crescita offre nuove quote di mercato relative.
+
+**D:** ⚠️ Chi teorizza, nella slide 3 della lezione 04, le ragioni dello sviluppo esterno, e quando?
+**R:** Penrose, negli anni '50 («Penrose '50»), per le imprese americane.
+**Distrattori:**
+- Penrose, negli anni '80.
+- Ansoff, negli anni '50.
+- Hamel e Prahalad, negli anni '50.
+
+**D:** ⚠️ Quali sono gli incentivi esterni (opportunità) di Penrose?
+**R:** Focus sulle risorse immateriali; Economie e diseconomie esterne; Ruolo dell'apprendimento e Know how.
+**Distrattori:**
+- Focus sulle risorse immateriali; Economie e diseconomie esterne; Trasversalità delle competenze.
+- Focus sulle risorse finanziarie; Economie e diseconomie esterne; Ruolo dell'apprendimento e Know how.
+- Focus sulle risorse immateriali; Economie di scala; Ruolo dell'apprendimento e Know how.
+
+**D:** ⚠️ Quali sono gli incentivi interni (potenzialità) di Penrose?
+**R:** Trasversalità delle competenze; I vantaggi della diversificazione.
+**Distrattori:**
+- Trasversalità delle competenze; Ruolo dell'apprendimento e Know how.
+- Focus sulle risorse immateriali; I vantaggi della diversificazione.
+- Specializzazione delle competenze; I vantaggi della diversificazione.
+
+**D:** ⚠️ Con quali etichette la slide 3 della lezione 04 qualifica gli incentivi esterni e interni?
+**R:** Incentivi esterni (opportunità); incentivi interni (potenzialità).
+**Distrattori:**
+- Incentivi esterni (potenzialità); incentivi interni (opportunità).
+- Incentivi esterni (minacce); incentivi interni (punti di forza).
+
+**D:** Che cosa intende Penrose con il focus sulle risorse immateriali?
+**R:** L'impresa ha capacità immateriali superiori ai problemi che già gestisce: sa organizzare, competere, raggiungere il mercato dei capitali, gestire le crisi e la competizione in mercati stagnanti. Sono competenze applicabili ad altri settori.
+**Opzione:** Capacità immateriali superiori ai problemi che l'impresa già gestisce, applicabili ad altri settori.
+**Distrattori:**
+- Capacità immateriali inferiori ai problemi che l'impresa già gestisce, da rafforzare prima di crescere.
+- Risorse finanziarie superiori al fabbisogno del business, da investire sui mercati finanziari.
+
+**D:** Che cosa sono le economie e diseconomie esterne fra gli incentivi di Penrose?
+**R:** Occasioni di risparmio o di efficienza in comparti in cui l'impresa ancora non opera. Esempio: il fornitore di tessuti con tempi inadeguati ai ritmi produttivi spinge il produttore di abbigliamento a integrare la filiera.
+**Opzione:** Occasioni di risparmio o di efficienza in comparti in cui l'impresa ancora non opera.
+**Distrattori:**
+- Le economie di scala che l'impresa realizza nel proprio business.
+- I costi che l'impresa scarica sui concorrenti del proprio settore.
+
+**D:** Che cosa produce l'apprendimento, fra gli incentivi di Penrose?
+**R:** Efficienza: l'organizzazione non è statica, evolve e apprende, e l'apprendimento produce efficienza, da cui la possibilità di crescere.
+**Distrattori:**
+- Rigidità: l'organizzazione apprende procedure che la rendono statica.
+- Nuovi costi di formazione, che frenano la crescita.
+
+**D:** Con quale esempio il docente illustra la trasversalità delle competenze?
+**R:** Il marketing, cioè le competenze commerciali: un bravo venditore, o un'organizzazione capace di gestire in modo efficiente le vendite, passa da un comparto tradizionale a uno innovativo con le medesime competenze.
+**Distrattori:**
+- La tecnologia produttiva, che passa da un impianto all'altro senza nuovi investimenti.
+- Il magazzino freddo, che serve sia i gelati sia i surgelati.
+
+**D:** ⚠️ Con quale esempio il docente illustra i vantaggi della diversificazione?
+**R:** **Unilever**, che mette insieme la produzione di gelati e di surgelati: il magazzino freddo è sempre pieno, d'inverno di gelati, d'estate di surgelati. È un vantaggio di portafoglio, ottenuto gestendo business stagionali diversi con le medesime competenze.
+**Opzione:** Unilever unisce gelati e surgelati per tenere sempre pieni i magazzini freddi.
+**Distrattori:**
+- Unilever unisce gelati e prodotti freschi per condividere la stessa tecnologia di produzione.
+- Unilever separa gelati e surgelati per specializzare i magazzini freddi.
+
+**D:** ⚠️ Come definisce la slide 4 della lezione 04 il settore merceologico/manifatturiero?
+**R:** Criterio della **sostituibilità dal lato dell'offerta**: il settore è costituito da tutte le imprese che offrono prodotti o servizi aventi le stesse caratteristiche merceologiche ovvero si avvalgono delle stesse tecnologie produttive, ricorrono agli stessi mercati d'acquisto e di vendita (criterio dell'omogeneità).
+**Opzione:** Sostituibilità dal lato dell'offerta: imprese con le stesse caratteristiche merceologiche, tecnologie e mercati d'acquisto e di vendita.
+**Distrattori:**
+- Sostituibilità dal lato della domanda: imprese che offrono prodotti o servizi intercambiabili.
+- Sostituibilità dal lato dell'offerta: imprese che offrono prodotti o servizi intercambiabili.
+- Sostituibilità dal lato della domanda: imprese con le stesse caratteristiche merceologiche, tecnologie e mercati d'acquisto e di vendita.
+
+**D:** ⚠️ Come definisce la slide 4 della lezione 04 il settore economico?
+**R:** Criterio della sostituibilità del bene o del servizio offerto (**sostituibilità dal lato della domanda**): il settore è costituito dalle imprese che offrono prodotti o servizi intercambiabili (elasticità incrociata).
+**Opzione:** Sostituibilità dal lato della domanda: imprese che offrono prodotti o servizi intercambiabili.
+**Distrattori:**
+- Sostituibilità dal lato dell'offerta: imprese che offrono prodotti o servizi intercambiabili.
+- Sostituibilità dal lato dell'offerta: imprese con le stesse caratteristiche merceologiche, tecnologie e mercati d'acquisto e di vendita.
+- Sostituibilità dal lato della domanda: imprese con le stesse caratteristiche merceologiche, tecnologie e mercati d'acquisto e di vendita.
+
+**D:** ⚠️ Quali nozioni chiudono fra parentesi le due definizioni di settore della slide 4?
+**R:** Settore merceologico/manifatturiero: (criterio dell'omogeneità); settore economico: (elasticità incrociata).
+**Distrattori:**
+- Settore merceologico/manifatturiero: (elasticità incrociata); settore economico: (criterio dell'omogeneità).
+- Settore merceologico/manifatturiero: (criterio dell'omogeneità); settore economico: (elasticità di prezzo).
+
+**D:** Con quali esempi il docente distingue settore merceologico e settore economico?
+**R:** Merceologico: i farmaceutici, diversi dai parafarmaceutici e dagli alimentari, perché solo alcune tecnologie li producono. Economico: gli alimentari freddi (congelati o surgelati), diversi dai freschi perché consumati in modo diverso.
+**Opzione:** Merceologico: farmaceutici, parafarmaceutici, alimentari; economico: alimentari freddi e freschi.
+**Distrattori:**
+- Merceologico: alimentari freddi e freschi; economico: farmaceutici, parafarmaceutici, alimentari.
+- Merceologico: farmaceutici e parafarmaceutici; economico: caffè e cacao.
+
+**D:** ⚠️ Come hanno diversificato tradizionalmente le imprese, e verso che cosa si sono mosse?
+**R:** Tradizionalmente per **settore merceologico**, cioè investendo in una nuova tecnologia. Poi si è scoperto che anche fra settori con tecnologie diverse ci sono sovrapposizioni: freschi e freddi convergono sulla grande distribuzione organizzata, sul marchio, sul prezzo e sul budget dello stesso consumatore. Di qui una diversificazione guidata dalla domanda, cioè dal settore economico (la frase del docente si interrompe su «guidata da un settore»).
+**Opzione:** Per settore merceologico, con nuove tecnologie; poi per settore economico, guidate dalla domanda.
+**Distrattori:**
+- Per settore economico, guidate dalla domanda; poi per settore merceologico, con nuove tecnologie.
+- Per area geografica; poi per settore merceologico, con nuove tecnologie.
+
+**D:** ⚠️ Quali insiemi di imprese disegnano, nella slide 5 della lezione 04, i confini del settore?
+**R:** Imprese con omogeneità tecnologica; imprese con omogeneità di input; imprese che coprono bisogni omogenei; imprese con omogeneità commerciali. La loro area comune sono le «Imprese del settore».
+**Opzione:** Omogeneità tecnologica; omogeneità di input; bisogni omogenei; omogeneità commerciali.
+**Distrattori:**
+- Omogeneità tecnologica; omogeneità di input; bisogni omogenei; omogeneità di prezzo.
+- Omogeneità geografica; omogeneità di input; bisogni omogenei; omogeneità commerciali.
+- Omogeneità tecnologica; omogeneità dimensionale; bisogni omogenei; omogeneità commerciali.
+
+**D:** Che cosa sono le «Imprese del settore» nella slide 5 della lezione 04?
+**R:** L'area di sovrapposizione dei quattro insiemi: le imprese concorrenti che rispondono un po' a tutte le esigenze, sia economiche sia tecnologiche.
+**Distrattori:**
+- L'unione dei quattro insiemi: ogni impresa che rientra in almeno uno di essi.
+- Le sole imprese con omogeneità tecnologica, cioè che usano gli stessi impianti.
+
+**D:** ⚠️ Dove si svolge la competizione fra le imprese che lavorano caffè o cacao (omogeneità di input)?
+**R:** A monte, nella capacità di approvvigionarsi di una materia rara che si compra in aste internazionali.
+**Distrattori:**
+- A valle, nella grande distribuzione organizzata.
+- Nella tecnologia degli impianti di lavorazione.
+
+**D:** ⚠️ Perché, per le imprese con omogeneità commerciali, il concorrente è chi vende nello stesso store?
+**R:** Per il **vincolo di bilancio** del consumatore: entra nella grande distribuzione con il carrello e un budget, e compra questo o quello anche se i prodotti hanno tecnologie diverse e rispondono a bisogni diversi.
+**Opzione:** Per il vincolo di bilancio del consumatore, che con un budget dato sceglie fra i prodotti dello stesso store.
+**Distrattori:**
+- Perché i prodotti dello stesso store usano la stessa tecnologia produttiva.
+- Perché i prodotti dello stesso store rispondono allo stesso bisogno.
+
+**D:** ⚠️ Con quali dimensioni la slide 6 della lezione 04 individua i confini dell'ASA?
+**R:** «I confini dell'ASA possono essere individuati attraverso la combinazione di tre dimensioni»: Bisogni, Clienti, Tecnologia.
+**Opzione:** Bisogni, Clienti, Tecnologia.
+**Distrattori:**
+- Bisogni, Clienti, Prezzo.
+- Bisogni, Concorrenti, Tecnologia.
+- Input, Clienti, Tecnologia.
+
+**D:** ⚠️ Quali sono le due formule dell'area strategica d'affari nelle slide del corso?
+**R:** Lezione 01, slide 6: «Combinazioni di Prodotto, Tecnologia, mercato». Lezione 04, slide 6: tre dimensioni, Bisogni, Clienti, Tecnologia. Sono vere entrambe: il docente pronuncia la prima e spiega con la seconda; la tecnologia è comune.
+
+**D:** Perché le aree strategiche d'affari sono «contenitori omogenei»?
+**R:** Perché le imprese che vi competono usano la stessa tecnologia produttiva, rispondono al medesimo bisogno e si rivolgono ai medesimi clienti. Esempio: i farmaci da banco (tecnologia: produco farmaci; bisogno: la cura; clienti: chi compra farmaci per malattie che non richiedono diagnosi particolare).
+**Opzione:** Perché le imprese che vi competono hanno la stessa tecnologia, lo stesso bisogno, gli stessi clienti.
+**Distrattori:**
+- Perché le imprese che vi competono hanno la stessa quota di mercato relativa.
+- Perché le imprese che vi competono appartengono allo stesso gruppo societario.
+
+### Flashcard dai quiz — lezione 04
+
+**D:** ⚠️ Le corporate strategy di base, secondo il test della lezione 04:
+**R:** **Classificano le strategie in base al modo in cui l'azienda crea valore.** ⚠️ Porter non compare nelle lezioni 01–04: sono i suoi quattro concetti di corporate strategy (gestione del portafoglio, ristrutturazione, trasferimento delle competenze, condivisione delle attività). Distrattori del test: «analizzano la redditività», «sono orientate verso l'analisi delle singole funzioni aziendali» (livello sbagliato), «analizzano la fattibilità».
+**Opzione:** Classificano le strategie in base al modo in cui l'azienda crea valore.
+**Distrattori:**
+- Analizzano la redditività.
+- Sono orientate verso l'analisi delle singole funzioni aziendali.
+- Analizzano la fattibilità.
+
+**D:** ⚠️ Quale fra queste è una corporate strategy di base individuata da Porter (test della lezione 04)?
+**R:** **Il trasferimento delle competenze.** ⚠️ Non compare nelle lezioni 01–04. Distrattori del test: «il trasferimento delle risorse» (oggetto scambiato), «lo sconto di diversificazione» (un fenomeno di finanza), «l'integrazione verticale» (una direzione di crescita, le filiere produttive della lezione 04).
+**Opzione:** Il trasferimento delle competenze.
+**Distrattori:**
+- Il trasferimento delle risorse.
+- Lo sconto di diversificazione.
+- L'integrazione verticale.
+
+**D:** ⚠️ Secondo Porter, la ristrutturazione (test della lezione 04):
+**R:** **Postula la sostituzione del management, migliorando l'efficienza.** ⚠️ Non compare nelle lezioni 01–04. Il vertice come «semplice revisore dei singoli business» è la gestione del portafoglio; la ristrutturazione non presuppone business correlati.
+**Opzione:** Postula la sostituzione del management, migliorando l'efficienza.
+**Distrattori:**
+- Richiede che il vertice si comporti come semplice revisore dei singoli business.
+- Non può essere utilizzata in aziende che operano in business indipendenti fra loro.
+- Non è una corporate strategy.
+
+**D:** ⚠️ La resource-based view, secondo il test della lezione 04:
+**R:** **Individua gli asset che possono fungere da competenze chiave e stabilisce le condizioni affinché siano fonte di valore per un'impresa diversificata.** È una riformulazione della slide 2 della lezione 03 («un insieme eterogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo»). Distrattori del test: «prevede che le competenze non siano sufficienti da sole a creare valore», «enfatizza le competenze dei vertici aziendali», «serve per accrescere le competenze dei manager».
+**Opzione:** Individua gli asset che possono fungere da competenze chiave e stabilisce le condizioni affinché siano fonte di valore per un'impresa diversificata.
+**Distrattori:**
+- Prevede che le competenze non siano sufficienti da sole a creare valore per l'impresa.
+- Enfatizza le competenze dei vertici aziendali.
+- Serve per accrescere le competenze dei manager.
+
+**D:** ⚠️ Le risorse intangibili, secondo il test della lezione 04:
+**R:** **Legittimano la crescita in settori correlati delle imprese.** È dedotta dalla lezione 04: le risorse immateriali vanno gestite anche su altri business, e il brand copre prodotti «in altri settori comunque collegati». Distrattori del test: «necessitano di indebitamento per finanziare la crescita» (le risorse finanziarie), «consentono l'uso di risorse a costo minimo», «sono risorse occulte» (assonanza con le risorse invisibili).
+**Opzione:** Legittimano la crescita in settori correlati delle imprese.
+**Distrattori:**
+- Necessitano di indebitamento per finanziare la crescita.
+- Consentono l'uso di risorse a costo minimo.
+- Sono risorse occulte.
