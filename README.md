@@ -3,6 +3,7 @@
 Flashcard di studio per la laurea magistrale **LM-77 «Management e consulenza aziendale»**,
 curriculum *Banking and Finance*, giocabili nel browser: <https://lm77-quiz.github.io/>
 
+- **Management e finance** — 30 flashcard
 - **Analisi dei Mercati Finanziari** — 1310 flashcard
 - **Tecnologia Blockchain e diritto del Fintech** — 1086 flashcard
 
