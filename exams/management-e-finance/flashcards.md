@@ -472,3 +472,305 @@
 - Tasso di crescita del fatturato e redditività del settore.
 - Fatturato annuale e numero dei dipendenti.
 - Fatturato mensile e numero di dipendenti.
+
+## Lezione 03 — Teorie Corporate Strategy 2
+
+**D:** ⚠️ Che cosa alimenta, secondo il docente, una pianificazione corporate costruita solo come pianificazione di portafoglio?
+**R:** Una competizione economica irrazionale che non si gioca sui mercati dei prodotti ma sui mercati finanziari: un processo di finanziarizzazione dei mercati.
+**Distrattori:**
+- Una competizione economica razionale che si gioca sui mercati dei prodotti e non sui mercati finanziari: un processo di razionalizzazione dei business.
+- Una competizione economica irrazionale che non si gioca sui mercati finanziari ma sui mercati dei prodotti: un processo di diversificazione dei business.
+
+**D:** ⚠️ Quando, secondo il docente, la distonia fra mercato finanziario e mercato reale comincia a produrre i suoi effetti sulle performance?
+**R:** Intorno agli anni '80.
+**Distrattori:**
+- Subito dopo la crisi degli anni '70.
+- Intorno agli anni '50.
+- Intorno agli anni '90.
+
+**D:** ⚠️ Come definisce la resource based view la slide della lezione 03?
+**R:** Vede l'impresa come un insieme eterogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
+**Distrattori:**
+- Vede l'impresa come un insieme omogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
+- Vede l'impresa come un portafoglio di business che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
+- Vede l'impresa come un insieme eterogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio aziendale.
+
+**D:** ⚠️ Quali sono, nell'ordine, i cinque elementi della resource based view?
+**R:** Le core competences, la capacità di distinguersi, i valori immateriali, la condivisione, la condivisione di una vision e mission.
+**Distrattori:**
+- Le core competences, la capacità di distinguersi, i valori immateriali, la condivisione, la pianificazione del portafoglio.
+- Le core competences, la capacità di indebitamento, i valori immateriali, la condivisione, la condivisione di una vision e mission.
+- Le core competences, la capacità di distinguersi, le risorse finanziarie, la condivisione, la condivisione di una vision e mission.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco degli elementi della resource based view?
+**R:** La condivisione di una vision e mission.
+**Distrattori:**
+- La pianificazione del portafoglio.
+- La capacità organizzativa.
+- Il vantaggio aziendale.
+
+**D:** ⚠️ Che cosa sono le core competencies per il docente?
+**R:** Competenze core fondanti importanti, che rappresentano il nucleo fondante del gruppo e consentono la sostenibilità degli altri business.
+**Distrattori:**
+- Competenze acquistabili sul mercato, come licenze e brevetti, che rappresentano il nucleo fondante del gruppo.
+- Competenze accessorie, che il gruppo può cedere senza effetti sulla sostenibilità degli altri business.
+
+**D:** ⚠️ Nell'esempio Fiat, che cosa era in discussione dopo l'annuncio della put option con General Motors sul business dell'automobile?
+**R:** Non la sostenibilità finanziaria in sé, ma la credibilità del business sui mercati finanziari: l'annuncio produsse quasi una perdita di identità, come se gli azionisti perdessero il riferimento delle core competencies.
+**Opzione:** Non la sostenibilità finanziaria in sé, ma la credibilità del business sui mercati finanziari.
+**Distrattori:**
+- La sostenibilità finanziaria del gruppo, non la credibilità del business sui mercati finanziari.
+- La redditività del business dell'automobile, che General Motors avrebbe pagato a un prezzo troppo basso.
+
+**D:** ⚠️ Che cosa sono i «valori immateriali» della resource based view?
+**R:** Principi etici e non solo etici che ispirano la pianificazione strategica e pervadono tutta l'organizzazione.
+**Distrattori:**
+- Principi etici enunciati nel piano strategico e riservati all'alta direzione.
+- Brevetti, licenze e copyright che la corporation detiene.
+- Principi esclusivamente etici che ispirano la comunicazione con gli investitori.
+
+**D:** ⚠️ Che cosa richiede la «condivisione» dei valori, nella resource based view?
+**R:** Che i valori non siano solo enunciati nel piano strategico, ma diventino vere e proprie routine all'interno della corporation, come l'inclusività o l'attenzione alla persona piuttosto che alla funzione.
+**Opzione:** Che i valori diventino vere e proprie routine all'interno della corporation, non solo enunciati nel piano strategico.
+**Distrattori:**
+- Che i valori siano enunciati nel piano strategico e comunicati agli investitori.
+- Che i valori siano stabiliti dall'alta direzione e imposti come regole a ciascuna funzione.
+
+**D:** ⚠️ Come ridefinisce la mission il docente, parlando della condivisione di una vision e di una mission?
+**R:** La mission non è solo un mandato che l'alta direzione dà al manager, ma un obiettivo condiviso da tutte le risorse.
+**Distrattori:**
+- La mission è solo un mandato che l'alta direzione dà al manager, non un obiettivo condiviso da tutte le risorse.
+- La mission non è un mandato dell'alta direzione, ma un obiettivo condiviso con gli investitori.
+- La mission non è solo un mandato che l'alta direzione dà al manager, ma una missione speciale affidata alle Business unit.
+
+**D:** ⚠️ In quali tre famiglie lo schema della lezione 03 distingue le risorse, e che cosa contiene ciascuna?
+**R:** Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, cultura); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
+**Distrattori:**
+- Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, cultura); organizzative (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
+- Tangibili (finanziarie, tecnologia); intangibili (fisiche, reputazione, cultura); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
+- Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, motivazione); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, cultura).
+
+**D:** Nello schema delle risorse della lezione 03, verso che cosa punta la freccia della «Strategia»?
+**R:** Verso i fattori critici di successo del settore.
+**Distrattori:**
+- Verso il vantaggio aziendale.
+- Verso le capacità organizzative.
+- Verso il mercato dei capitali.
+
+**D:** ⚠️ Che cos'è la capacità organizzativa, secondo il docente?
+**R:** L'elemento che tiene insieme le risorse tangibili e intangibili, organizzandole in un unicum: è un pezzo della pianificazione strategica e un fattore critico di successo.
+**Distrattori:**
+- La capacità di raccogliere nuovi capitali grazie alla credibilità sui mercati finanziari.
+- La capacità di scegliere i business in cui investire e quelli da cui disinvestire.
+- Una quarta famiglia di risorse, accanto a quelle tangibili, intangibili e umane.
+
+**D:** ⚠️ Quali sono le quattro risorse finanziarie elencate nella lezione 03?
+**R:** Capacità di indebitamento, capacità di investimento, capacità di autofinanziamento, capacità di far fronte a fluttuazione di domanda e di profitti.
+**Distrattori:**
+- Capacità di indebitamento, capacità di investimento, capacità di autofinanziamento, reale capacità di previsione.
+- Capacità di indebitamento, capacità di investimento, flessibilità impianto, capacità di far fronte a fluttuazione di domanda e di profitti.
+- Capacità di indebitamento, reputazione sui mercati finanziari, capacità di autofinanziamento, capacità di far fronte a fluttuazione di domanda e di profitti.
+
+**D:** ⚠️ Quali sono le quattro risorse fisiche elencate nella lezione 03?
+**R:** Dimensione e localizzazione impianti e attrezzature, flessibilità impianto, riserve materie prime, scala ed età media impianti.
+**Distrattori:**
+- Dimensione e localizzazione impianti e attrezzature, flessibilità impianto, riserve materie prime, brevetti e licenze.
+- Dimensione e localizzazione impianti e attrezzature, capacità di autofinanziamento, riserve materie prime, scala ed età media impianti.
+- Dimensione e localizzazione impianti e attrezzature, flessibilità impianto, laboratori di ricerca, scala ed età media impianti.
+
+**D:** ⚠️ Quali voci elenca la lezione 03 per la tecnologia, fra le risorse intangibili?
+**R:** Brevetti, licenze, esperienza, copyright, laboratori di ricerca, R&S, innovazione.
+**Distrattori:**
+- Brevetti, licenze, esperienza, copyright, laboratori di ricerca, R&S, flessibilità impianto.
+- Brevetti, licenze, esperienza, marche, laboratori di ricerca, R&S, innovazione.
+- Brevetti, licenze, riserve materie prime, copyright, laboratori di ricerca, R&S, innovazione.
+
+**D:** ⚠️ Quali voci elenca la lezione 03 per la reputazione, fra le risorse intangibili?
+**R:** Rapporto clienti, marche, qualità, affidabilità, sicurezza, rispetto ambientale, politiche sociali.
+**Distrattori:**
+- Rapporto clienti, marche, qualità, affidabilità, sicurezza, rispetto ambientale, cultura aziendale.
+- Rapporto clienti, marche, qualità, affidabilità, copyright, rispetto ambientale, politiche sociali.
+- Rapporto clienti, marche, qualità, capacità di indebitamento, sicurezza, rispetto ambientale, politiche sociali.
+
+**D:** ⚠️ Che cosa identifica lo strumento del modello di competenze, per valutare le risorse umane?
+**R:** Un profilo (competenze, attitudini, conoscenze) associato ad ogni categoria di lavoratore.
+**Distrattori:**
+- Un profilo (competenze, attitudini, conoscenze) associato ad ogni business della corporation.
+- Un profilo retributivo associato ad ogni categoria di lavoratore.
+- Un profilo (competenze, attitudini, motivazione) associato ad ogni singolo lavoratore.
+
+**D:** ⚠️ Quali parametri elenca la lezione 03 per valutare le risorse umane?
+**R:** Raggiungimento obiettivi, capacità soluzione problemi, interazione con gli altri, lavoro di gruppo.
+**Distrattori:**
+- Raggiungimento obiettivi, capacità soluzione problemi, interazione con gli altri, motivazione.
+- Raggiungimento obiettivi, capacità di indebitamento, interazione con gli altri, lavoro di gruppo.
+- Competenze, attitudini, conoscenze, lavoro di gruppo.
+
+**D:** ⚠️ Che cosa rende distintiva una competenza, e perché un brevetto acquistato non lo è?
+**R:** Il fatto di assumere caratteristiche specifiche dell'impresa, che la distinguono dalle altre. Un brevetto o una licenza non lo sono: ne acquisto il diritto all'utilizzo sul mercato come lo può acquistare il mio concorrente.
+**Opzione:** Assume caratteristiche specifiche dell'impresa, che la distinguono dalle altre; un brevetto si acquista sul mercato come può fare il concorrente.
+**Distrattori:**
+- È identica a quelle delle altre imprese; un brevetto non lo è perché il mercato non ne riconosce il valore.
+- È riconosciuta dal mercato finanziario come la più redditizia; un brevetto non lo è perché genera solo costi di licenza.
+
+**D:** ⚠️ Quale formula associa la lezione 03 a Selznick?
+**R:** Competenze distintive (abilità rispetto ai concorrenti).
+**Distrattori:**
+- Competenze distintive (analizzare le basi delle strategie di sviluppo delle imprese).
+- Competenze centrali o core competence (formano le basi per entrare in un nuovo mercato).
+- Trasformare le risorse in vantaggio competitivo.
+
+**D:** ⚠️ Quale formula associa la lezione 03 ad Ansoff?
+**R:** Competenze distintive (analizzare le basi delle strategie di sviluppo delle imprese).
+**Distrattori:**
+- Competenze distintive (abilità rispetto ai concorrenti).
+- Competenze centrali o core competence (contribuiscono alla creazione di valore per il consumatore).
+- Trasformare le risorse in vantaggio competitivo.
+
+**D:** ⚠️ Che cosa fanno le competenze centrali o core competence secondo Hamel e Prahalad?
+**R:** Contribuiscono alla creazione di valore per il consumatore o all'efficienza nelle modalità di offerta servizio, e formano le basi per entrare in un nuovo mercato.
+**Distrattori:**
+- Contribuiscono alla creazione di valore per l'azionista o all'efficienza nelle modalità di offerta servizio, e formano le basi per entrare in un nuovo mercato.
+- Contribuiscono alla creazione di valore per il consumatore o all'efficienza nelle modalità di offerta servizio, e formano le basi per uscire da un mercato maturo.
+- Contribuiscono alla riduzione dei costi di produzione, e formano le basi per la leadership di costo.
+
+**D:** ⚠️ Secondo Ansoff, «il padre della diversificazione», che cosa alimenta le scelte di crescita in nuovi business?
+**R:** La discrasia fra le risorse utilizzate e le risorse disponibili.
+**Distrattori:**
+- La discrasia fra la quota di mercato relativa e la crescita del mercato.
+- L'eccesso di cassa prodotto dalle cash cow.
+- La discrasia fra mercato finanziario e mercato reale.
+
+**D:** ⚠️ Chi propone la totale apertura del mercato postale europeo, e da quando?
+**R:** La Commissione Europea, a far data dal 1° gennaio 2009.
+**Distrattori:**
+- Il Parlamento Europeo, a far data dal 1° gennaio 2009.
+- La Commissione Europea, a far data dal 1° gennaio 2005.
+- Il Parlamento Europeo, a far data dal 1° gennaio 2005.
+
+**D:** ⚠️ Che cosa impone alle aziende la liberalizzazione del mercato postale europeo?
+**R:** Processi di ridefinizione degli obiettivi strategici, all'interno di una sempre più marcata concorrenza del mercato.
+**Distrattori:**
+- Processi di ridefinizione degli obiettivi strategici, all'interno di un regime di monopolio nazionale.
+- Processi di razionalizzazione dei costi, all'interno di una sempre più marcata concorrenza del mercato.
+- Processi di nazionalizzazione dei servizi postali, all'interno di una sempre più marcata concorrenza del mercato.
+
+**D:** ⚠️ Quali sono le quattro forze che agiscono sull'industria postale?
+**R:** Domanda, tecnologia, internazionalizzazione, regolamentazione.
+**Distrattori:**
+- Domanda, tecnologia, internazionalizzazione, finanziarizzazione.
+- Domanda, concorrenza, internazionalizzazione, regolamentazione.
+- Domanda, tecnologia, diversificazione, regolamentazione.
+
+**D:** ⚠️ Che cosa dice la lezione 03 della domanda, fra le forze che agiscono sull'industria postale?
+**R:** Posta tradizionale in calo, mentre cresce ancora la posta commerciale; crescita del corriere espresso internazionale.
+**Distrattori:**
+- Posta tradizionale in calo, e in calo anche la posta commerciale; crescita del corriere espresso internazionale.
+- Posta tradizionale in calo, mentre cresce ancora la posta commerciale; calo del corriere espresso internazionale.
+- Posta tradizionale in crescita, mentre cala la posta commerciale; crescita del corriere espresso internazionale.
+
+**D:** ⚠️ Quale conclusione trae la lezione 03 dall'andamento dei volumi postali in Europa?
+**R:** Il business della corrispondenza ha raggiunto una fase di maturità del proprio ciclo di vita.
+**Distrattori:**
+- Il business della corrispondenza ha raggiunto una fase di sviluppo del proprio ciclo di vita.
+- Il business del corriere espresso ha raggiunto una fase di maturità del proprio ciclo di vita.
+- Il business della corrispondenza è uscito dal mercato a causa della e-substitution.
+
+**D:** ⚠️ Qual è il rischio più concreto nel mercato della corrispondenza, e dove si concentrerà la competizione?
+**R:** La perdita di volumi di Posta Massiva e di Posta Registrata; la competizione si concentrerà su quei segmenti in grado di garantire margini più alti.
+**Distrattori:**
+- La perdita di volumi di corriere espresso e pacchi; la competizione si concentrerà su quei segmenti in grado di garantire margini più alti.
+- La perdita di volumi di Posta Massiva e di Posta Registrata; la competizione si concentrerà su quei segmenti in grado di garantire i volumi più alti.
+- L'aumento dei costi unitari di recapito; la competizione si concentrerà sulle destinazioni rurali.
+
+**D:** ⚠️ Quali sono le due modalità prevalenti di diversificazione dei principali operatori postali?
+**R:** L'espansione sui mercati internazionali e il consolidamento sul mercato nazionale.
+**Distrattori:**
+- L'espansione sui mercati internazionali e il disinvestimento dal mercato nazionale.
+- La liberalizzazione dei mercati internazionali e il consolidamento sul mercato nazionale.
+- L'espansione sui mercati internazionali e la riduzione dei costi unitari di recapito.
+
+**D:** ⚠️ Che cosa comporta l'espansione sui mercati internazionali, e quali operatori la rappresentano?
+**R:** Lo sviluppo del segmento CE-Logistica-Pacchi e delle attività di M&A; TNT e Deutsche Post World Net.
+**Distrattori:**
+- Lo sviluppo dei servizi finanziari e la valorizzazione del network; TNT e Deutsche Post World Net.
+- Lo sviluppo del segmento CE-Logistica-Pacchi e delle attività di M&A; Poste Italiane e La Poste.
+- Lo sviluppo dei servizi finanziari e la valorizzazione del network; Poste Italiane e La Poste.
+
+**D:** ⚠️ Che cosa comporta il consolidamento sul mercato nazionale, e quali operatori lo rappresentano?
+**R:** Lo sviluppo dei servizi finanziari e la valorizzazione del network (gestione diretta della rete); Poste Italiane e La Poste.
+**Distrattori:**
+- Lo sviluppo del segmento CE-Logistica-Pacchi e delle attività di M&A; Poste Italiane e La Poste.
+- Lo sviluppo dei servizi finanziari e la valorizzazione del network (gestione diretta della rete); TNT e Deutsche Post World Net.
+- Lo sviluppo del segmento CE-Logistica-Pacchi e delle attività di M&A; TNT e Deutsche Post World Net.
+
+**D:** ⚠️ Quanto pesavano nel 2005 la corrispondenza e i servizi finanziari sul fatturato di Poste Italiane?
+**R:** Corrispondenza 49,9%, servizi finanziari 41,6%.
+**Distrattori:**
+- Corrispondenza 41,6%, servizi finanziari 49,9%.
+- Corrispondenza 58,2%, servizi finanziari 22,7%.
+- Corrispondenza 25,2%, servizi finanziari 13,7%.
+
+**D:** ⚠️ Su quale core asset Poste Italiane ha fondato la sua diversificazione nei servizi finanziari?
+**R:** Non sul servizio di recapito della posta, ma sul rapporto di fiducia che l'ufficio postale aveva con i suoi clienti.
+**Distrattori:**
+- Sul servizio di recapito della posta.
+- Sulle economie di scala nelle fasi di accettazione e recapito.
+- Sulla relazione con i Grandi Clienti Business.
+
+**D:** ⚠️ Quale modello di diversificazione rappresentano DPWN e TNT, e quale Poste Italiane e La Poste?
+**R:** DPWN e TNT un modello di diversificazione geografica globale; Poste Italiane e La Poste un modello di diversificazione di business, con alcuni punti di contatto.
+**Distrattori:**
+- DPWN e TNT un modello di diversificazione di business; Poste Italiane e La Poste un modello di diversificazione geografica globale.
+- DPWN e TNT un modello di diversificazione geografica globale; Poste Italiane e La Poste due modelli opposti, senza punti di contatto.
+- DPWN e TNT un modello di consolidamento sul mercato nazionale; Poste Italiane e La Poste un modello di diversificazione geografica globale.
+
+**D:** ⚠️ Che cosa sono, per il docente, le risorse immateriali come la fiducia rispetto alla pianificazione di portafoglio?
+**R:** Un addendum al piano strategico: un elemento addizionale che si aggiunge alla tradizionale pianificazione di portafoglio e contribuisce in maniera determinante al valore per gli investitori, ma non è esplicitamente misurabile in fase di pianificazione.
+**Opzione:** Un addendum che si aggiunge alla pianificazione di portafoglio: determinante per il valore, ma non esplicitamente misurabile in fase di pianificazione.
+**Distrattori:**
+- Un'alternativa che sostituisce la pianificazione di portafoglio, perché rende esplicitamente misurabili le risorse immateriali.
+- Un addendum che si aggiunge alla pianificazione di portafoglio: marginale per il valore, ma esplicitamente misurabile in fase di pianificazione.
+- Un elemento accessorio, irrilevante per gli investitori, che il piano strategico può trascurare.
+
+### Flashcard dai quiz — lezione 03
+
+**D:** ⚠️ Quale affermazione sulla matrice BCG è corretta, secondo il test della lezione 03?
+**R:** **I cani non devono essere oggetto di investimento**: sono business da dismettere («liberarmi dei dog»). Distrattori del test: «i cani devono essere oggetto di investimento» (segno invertito), «la mucca non deve essere oggetto di investimento» (per la cash cow l'investimento è progressivamente basso, non nullo), «non necessariamente vale la pena investire nelle stelle» (nelle star si continua a competere).
+**Opzione:** I cani non devono essere oggetto di investimento.
+**Distrattori:**
+- I cani devono essere oggetto di investimento.
+- La mucca non deve essere oggetto di investimento.
+- Non necessariamente vale la pena investire nelle stelle.
+
+**D:** ⚠️ Quale indicazione fornisce la pianificazione del portafoglio, secondo il test della lezione 03?
+**R:** **Fornisce indicazioni circa l'allocazione e l'utilizzo delle risorse**: è la prima voce della slide 5 della lezione 02. Distrattori del test: «aiuta a creare un vantaggio competitivo» (è di Andrews e della resource based view), «consente di coordinare tutte le attività aziendali», «aiuta i vertici a diversificare i prodotti offerti» (i prodotti al posto dei business).
+**Opzione:** Fornisce indicazioni circa l'allocazione e l'utilizzo delle risorse.
+**Distrattori:**
+- Aiuta a creare un vantaggio competitivo.
+- Consente di coordinare tutte le attività aziendali.
+- Aiuta i vertici a diversificare i prodotti offerti.
+
+**D:** ⚠️ La pianificazione del portafoglio, secondo la domanda 3 del test della lezione 03:
+**R:** **Ha il limite di usare unicamente una logica finanziaria.** Lo dice il docente all'inizio della lezione 03: la pianificazione di portafoglio «non è esaustiva» e alimenta una competizione sui mercati finanziari invece che sui mercati dei prodotti. La logica finanziaria resta, il limite è che sia l'unica. Distrattori del test: «punta a creare valore azionario», «aiuta il coordinamento delle attività», «supporta le strategie delle aziende multiprodotto».
+**Opzione:** Ha il limite di usare unicamente una logica finanziaria.
+**Distrattori:**
+- Punta a creare valore azionario.
+- Aiuta il coordinamento delle attività.
+- Supporta le strategie delle aziende multiprodotto.
+
+**D:** ⚠️ Secondo Andrews, in che cosa consisteva la corporate strategy (test della lezione 03)?
+**R:** **Consisteva nel trasformare le risorse in vantaggio competitivo**: è la slide 2 della lezione 02 alla lettera. La trappola del transcript è «consiste nel creare valore», perché il docente dice «in valore». Altri distrattori: «si concentra sulle conseguenze di ogni decisione strategica sul flusso di cassa», «serve per coordinare i ruoli dell'alta direzione».
+**Opzione:** Consisteva nel trasformare le risorse in vantaggio competitivo.
+**Distrattori:**
+- Consiste nel creare valore.
+- Si concentra sulle conseguenze di ogni decisione strategica sul flusso di cassa.
+- Serve per coordinare i ruoli dell'alta direzione.
+
+**D:** ⚠️ Che cosa caratterizza la strategia basata sul valore, secondo il test della lezione 03?
+**R:** **Ha come obiettivo la massimizzazione del valore azionario.** ⚠️ Non è nei materiali; è coerente con la pianificazione corporate che si occupa «della creazione di valore per l'azionista» (lezione 02). Distrattori del test: «mira a ridurre i costi di produzione» (la leadership di costo, obiettivo di business), «non tiene conto del rapporto tra i business» (il contrario della correlazione fra le SBU), «si basa sul valore di mercato» (assonanza).
+**Opzione:** Ha come obiettivo la massimizzazione del valore azionario.
+**Distrattori:**
+- Mira a ridurre i costi di produzione.
+- Non tiene conto del rapporto tra i business.
+- Si basa sul valore di mercato.
