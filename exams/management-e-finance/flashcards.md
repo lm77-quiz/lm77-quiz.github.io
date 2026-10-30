@@ -1577,3 +1577,263 @@
 - Beni tangibili e competenze organizzative.
 - Beni tangibili ed intangibili.
 - Beni intangibili.
+
+## Lezione 07 — La scelta di crescere 4
+
+**D:** ⚠️ Con quale domanda si apre la slide 2 della lezione 07?
+**R:** «E se invece di ragionare su un core business ragionassimo su core competences?»
+**Opzione:** E se invece di ragionare su un core business ragionassimo su core competences?
+**Distrattori:**
+- E se invece di ragionare su core competences ragionassimo su un core business?
+- E se invece di ragionare su un core business ragionassimo su un portafoglio di business?
+- E se invece di ragionare su un core business ragionassimo su economie di scala?
+
+**D:** ⚠️ Quali sono, nell'ordine, le quattro voci della slide 2 della lezione 07, sul passaggio dal core business alle core competences?
+**R:** Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla creazione del valore: es il brand Value.
+**Distrattori:**
+- Il valore delle risorse materiali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla creazione del valore: es il brand Value.
+- Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per competenze ad una per funzioni; Gli effetti sulla creazione del valore: es il brand Value.
+- Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla riduzione dei costi: es le economie di scala.
+
+**D:** ⚠️ Perché, secondo il docente della lezione 07, le corporation hanno dovuto cercare ragioni di crescita intangibili?
+**R:** Perché le ragioni tangibili (dimensione dell'impianto, economie di scala e di scope) sono diventate diffuse, «patrimonio di tutti», e copiabili. Servivano ragioni peculiari, specifiche della singola compagnia, e quindi «difficili da copiare, difficili da replicare».
+**Opzione:** Perché le ragioni tangibili erano diventate patrimonio di tutti, e servivano ragioni specifiche e difficili da copiare.
+**Distrattori:**
+- Perché le ragioni tangibili erano diventate troppo costose da misurare.
+- Perché le economie di scala non producevano più alcun risparmio di costo.
+
+**D:** ⚠️ Che cos'è essenzialmente la scelta strategica, secondo il docente della lezione 07?
+**R:** «Una scelta di investimento»: si decide dove allocare i propri asset finanziari. La guida il management, che deve convincere la proprietà, chi mette i capitali, che il piano sarà più fruttuoso di altre scelte di investimento.
+**Opzione:** Una scelta di investimento, con cui il management decide dove allocare gli asset finanziari.
+**Distrattori:**
+- Una scelta di marketing, con cui il management decide su quali consumatori puntare.
+- Una scelta organizzativa, con cui la proprietà decide l'organigramma.
+
+**D:** ⚠️ Perché gli argomenti tangibili, come la scala produttiva o le economie di varietà, non bastano più a convincere gli investitori?
+**R:** Sono misurabili e facili da spiegare, e semplificano la scelta di chi investe. Ma quando li usano in tanti la competizione sul mercato dei capitali si fa più difficile: l'investitore ha molte soluzioni fondate su scala e varietà e sceglie quella che gli rende di più. Servono elementi addizionali, un vantaggio che solo quella corporation può offrire.
+**Opzione:** Perché li usano in tanti, e l'investitore sceglie fra molte soluzioni equivalenti quella che rende di più.
+**Distrattori:**
+- Perché non sono misurabili e sono difficili da spiegare agli investitori.
+- Perché gli investitori non guardano al rendimento delle scelte di investimento.
+
+**D:** ⚠️ Quale vantaggio offre all'investitore il management che fonda la strategia sulle risorse intangibili?
+**R:** «Un vantaggio che solo io ti posso offrire perché solo io dispongo di quelle risorse che peraltro non sono copiabili, che i miei competitor non hanno». Le risorse intangibili nascono all'interno della corporation, dove esistono già allo stato latente, e la differenziano sul mercato dei capitali.
+**Opzione:** Un vantaggio che solo quella corporation può offrire, fondato su risorse non copiabili.
+**Distrattori:**
+- Lo stesso vantaggio di scala che offrono anche i concorrenti, ma a un prezzo minore.
+- Un rendimento garantito, indipendente dai risultati dei business.
+
+**D:** ⚠️ Che cosa dice il docente del brand Ferrari, come esempio del valore del brand?
+**R:** «Se Ferrari facesse le stesse automobili con un altro marchio venderebbe di meno». Il brand, come quello di Apple, è veicolo di mercato e di fatturato: in quanto risorsa immateriale ha di per sé un valore che si aggiunge al valore tecnologico della fabbrica, e appartiene solo a quell'azienda.
+**Opzione:** Che con un altro marchio, a parità di automobili, Ferrari venderebbe di meno.
+**Distrattori:**
+- Che con un altro marchio, a parità di automobili, Ferrari venderebbe di più.
+- Che il valore di Ferrari sta tutto nella capacità produttiva dei suoi stabilimenti.
+
+**D:** ⚠️ Quale soluzione organizzativa di Ducati cita il docente della lezione 07 come esempio di know how?
+**R:** I due comparti, le moto per il mercato finale e le moto da corsa, condividono la ricerca e sviluppo: vivono nella stessa fabbrica, a volte con gli stessi meccanici, e una soluzione che funziona in un comparto si prova nell'altro. È un saper fare che spinge a entrare in comparti diversi.
+**Opzione:** Moto di serie e moto da corsa condividono la ricerca e sviluppo nella stessa fabbrica.
+**Distrattori:**
+- Moto di serie e moto da corsa sono prodotte in due stabilimenti separati da un muro.
+- Ducati affida la ricerca e sviluppo a laboratori esterni con licenza esclusiva.
+
+**D:** ⚠️ Che cosa significa costruire il piano strategico «per saperi» invece che «per funzioni»?
+**R:** Non per attività della catena del valore, cioè per pezzi del processo di generazione del valore, ma attorno a un sapere, come saper comprare o saper vendere. È il «luogo virtuale» attorno al quale aggregare marketing, logistica, distribuzione e pricing, che condividono lo stesso «fil rouge». L'azienda cresce nei settori dove quel sapere è importante.
+**Opzione:** Aggregare marketing, logistica, distribuzione e pricing attorno a un sapere comune, come il saper vendere.
+**Distrattori:**
+- Dividere l'azienda in una funzione per ogni attività della catena del valore.
+- Affidare ciascuna funzione a un'azienda diversa del gruppo.
+
+**D:** ⚠️ Su quale competenza fonda Procter & Gamble la sua crescita in ASA diverse?
+**R:** Sul saper vendere. Le sue ASA non hanno tecnologie o clienti comuni, ma sono tutte prodotti di largo consumo, che per essere venduti richiedono una capacità commerciale molto forte.
+**Opzione:** Sul saper vendere.
+**Distrattori:**
+- Sulla condivisione delle tecnologie produttive.
+- Sulla condivisione degli stessi clienti.
+- Sulle economie di scala degli impianti.
+
+**D:** ⚠️ A che cosa «rivolge le spalle», secondo il docente della lezione 07, il decisore strategico che fa il piano corporate?
+**R:** Al mercato, al consumatore. Non misura la competizione sulla capacità di vendere di più o di acquisire quote di mercato relative, ma sulla capacità di conquistare la fiducia degli investitori, che finanziano nuove iniziative di business.
+**Opzione:** Al mercato, al consumatore.
+**Distrattori:**
+- Al mercato dei capitali, agli investitori.
+- Alla proprietà, agli azionisti.
+- All'organizzazione, ai dipendenti.
+
+**D:** ⚠️ Per il docente della lezione 07, le risorse intangibili servono a scelte di competizione o di crescita?
+**R:** Di crescita, «non di scelte di competizione». Non è l'immaterialità a dare una nuova posizione competitiva, tipica delle politiche di marketing: è un valore addizionale per guardare con maggiore fiducia al mercato dei capitali.
+**Opzione:** A scelte di crescita, come valore addizionale verso il mercato dei capitali.
+**Distrattori:**
+- A scelte di competizione, per guadagnare una nuova posizione competitiva.
+- A politiche di marketing, per acquisire quote di mercato relative.
+
+**D:** ⚠️ A chi appartengono le capacità organizzative, secondo il docente della lezione 07?
+**R:** Alla corporation, non alle persone: «ci sono delle risorse che non appartengono alle persone, ma appartengono alla corporation, che sono appunto le capacità organizzative». Su di esse si può fondare una strategia di sviluppo.
+**Opzione:** Alla corporation, non alle persone.
+**Distrattori:**
+- Alle persone che lavorano nella corporation.
+- Ai singoli business, non alla corporation.
+
+**D:** ⚠️ Quali due domande pone la slide 4 della lezione 07 sulle risorse tangibili, finanziarie e fisiche?
+**R:** «Quali opportunità sussistono per economie nella finanza, nelle scorte e negli investimenti fissi?» e «Quali sono le possibilità per un migliore impiego delle risorse esistenti?».
+**Opzione:** Quali opportunità sussistono per economie nella finanza, nelle scorte e negli investimenti fissi? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
+**Distrattori:**
+- Quali opportunità sussistono per economie nella finanza, nelle scorte e negli investimenti fissi? Quali sono le possibilità per acquisire nuove risorse?
+- Quali opportunità sussistono per economie nel marketing, nelle vendite e nella distribuzione? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
+- Quali opportunità sussistono per economie di scala e di varietà? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
+
+**D:** ⚠️ Che esempio dà il docente della lezione 07 di migliore impiego delle risorse esistenti?
+**R:** Una politica di segmentazione: chi l'ha usata in un comparto la replica in un altro «senza dover imparare a segmentare», usando un modello di cui già dispone. Ottimizzare le competenze di marketing è «un altro sapere», come saper gestire tesoreria, scorte e investimenti fissi.
+**Opzione:** Replicare in un altro comparto una politica di segmentazione, senza dover imparare di nuovo a segmentare.
+**Distrattori:**
+- Trasferire fisicamente gli impianti produttivi nel nuovo comparto.
+- Usare nel nuovo comparto le quote di mercato conquistate in quello d'origine.
+
+**D:** ⚠️ Con che cosa non vanno confuse le risorse finanziarie, secondo il docente della lezione 07?
+**R:** Con la disponibilità di finanza, che riguarda la struttura finanziaria dell'impresa. Le risorse finanziarie sono capacità: il saper fare dell'impresa.
+**Opzione:** Con la disponibilità di finanza.
+**Distrattori:**
+- Con le risorse fisiche.
+- Con il saper fare dell'impresa.
+
+**D:** ⚠️ Da che cosa nasce, per il docente della lezione 07, una maggiore capacità di indebitamento rispetto ai concorrenti dello stesso comparto?
+**R:** Da una sana gestione e dalla storia dell'impresa: chi non ha cercato capitali di debito e si è sempre autofinanziata potrà indebitarsi se vorrà crescere, mentre il concorrente tradizionalmente indebitato ha un freno.
+**Opzione:** Da una storia di autofinanziamento, che lascia spazio per indebitarsi quando si vuole crescere.
+**Distrattori:**
+- Da una storia di forte indebitamento, che abitua le banche a finanziare l'impresa.
+- Dalla disponibilità di impianti più grandi di quelli dei concorrenti.
+
+**D:** ⚠️ Che tipo di azionisti richiede la capacità di autofinanziamento, secondo il docente della lezione 07?
+**R:** Azionisti «intelligenti», che non sono di breve periodo. In Consiglio di amministrazione accettano di non intascare subito gli utili e di destinarli al nuovo investimento, perché sanno che il reinvestimento darà più valore patrimoniale alle loro azioni. Autofinanziarsi non significa solo produrre utili, ma poterli reinvestire senza redistribuirli.
+**Opzione:** Azionisti non di breve periodo, disposti a reinvestire gli utili invece di distribuirli.
+**Distrattori:**
+- Azionisti di breve periodo, che chiedono la distribuzione immediata degli utili.
+- Azionisti che finanziano l'impresa solo con capitale di debito.
+
+**D:** ⚠️ Perché, per il docente della lezione 07, la capacità di far fronte alle fluttuazioni di domanda e profitti avvantaggia chi fa parte di una corporation?
+**R:** Perché, davanti a cali della domanda o dei profitti dovuti a eventi straordinari, come l'aumento del costo delle materie prime con le guerre, l'azienda ha dietro una corporation che può aiutarla a sostenere le fluttuazioni dei costi e dei prezzi. È un valore immateriale di cui alcune corporation dispongono e altre no, e rende vincente l'ingresso in mercati dove i concorrenti sono indebitati.
+**Opzione:** Perché ha dietro una corporation che può aiutarla a sostenere le fluttuazioni dei costi e dei prezzi.
+**Distrattori:**
+- Perché la corporation le garantisce prezzi di vendita fissi.
+- Perché la corporation le impedisce di entrare nei mercati soggetti a fluttuazioni.
+
+**D:** ⚠️ In quali due sensi le tecnologie sono flessibili, secondo il docente della lezione 07?
+**R:** Possono realizzare più o meno prodotti senza un grande aggravio di costi, oppure spostarsi dalla produzione di un prodotto ad altri senza un grande costo addizionale. Con tecnologie innovative e flessibili si è più elastici rispetto alle esigenze del mercato.
+**Opzione:** Variare il numero di prodotti realizzati e passare da un prodotto all'altro, senza grandi costi aggiuntivi.
+**Distrattori:**
+- Funzionare in qualunque localizzazione e con qualunque materia prima.
+- Ridurre il personale e allungare l'età media degli impianti.
+
+**D:** ⚠️ Quale risorsa aggiunge il docente della lezione 07, accanto alle riserve di materie prime, che la slide delle risorse fisiche non nomina?
+**R:** Gli accordi commerciali con i fornitori, che garantiscono un approvvigionamento costante che i concorrenti non hanno.
+**Opzione:** Gli accordi commerciali con i fornitori.
+**Distrattori:**
+- La flessibilità degli impianti.
+- La scala ed età media degli impianti.
+- La localizzazione degli impianti.
+
+**D:** ⚠️ Perché un piccolo laboratorio farmaceutico può mettersi a produrre un farmaco, nell'esempio del docente della lezione 07?
+**R:** Non per capacità produttiva o tecnologica, ma perché ha la licenza, il sapere, l'innovazione sulla molecola che altri non hanno. Una licenza acquisita in modo esclusivo permette di fare le cose meglio di altri.
+**Opzione:** Perché ha la licenza sulla molecola innovativa, che altri non hanno.
+**Distrattori:**
+- Perché ha una capacità produttiva superiore a quella delle grandi case farmaceutiche.
+- Perché ha impianti più grandi e più giovani di quelli dei concorrenti.
+
+**D:** ⚠️ Come usa Nestlé la reputazione del Nesquik, nell'esempio del docente della lezione 07?
+**R:** La trasferisce dai prodotti tradizionali secchi al cioccolato, come le farine del Nesquik, a prodotti con tecnologie produttive diverse: merende fresche e gelati al cioccolato. Cresce in business diversi replicando la stessa reputazione: è il capitale relazionale.
+**Opzione:** La trasferisce a prodotti freschi al cioccolato, con tecnologie produttive diverse.
+**Distrattori:**
+- La trasferisce a prodotti secchi con la stessa tecnologia produttiva del Nesquik.
+- La cede in licenza a produttori concorrenti di cioccolato.
+
+**D:** ⚠️ Che cosa significa, per il docente della lezione 07, che la marca «oggettiva» la reputazione?
+**R:** La reputazione si concretizza in un brand: il cliente è legato al rapporto di fiducia con la marca, più che all'azienda o al prodotto. Così ci si sposta da un'ASA a una nuova «senza dover necessariamente fare un investimento in reputazione», senza riconquistare la fiducia dei consumatori.
+**Opzione:** Che permette di entrare in una nuova ASA senza un nuovo investimento in reputazione.
+**Distrattori:**
+- Che obbliga a ricostruire la reputazione da capo in ogni nuova ASA.
+- Che lega la fiducia del cliente al singolo prodotto, non alla marca.
+
+**D:** ⚠️ Che cosa insegna il caso Adidas sulla marca comune, nella lezione 07?
+**R:** Che un danno legato a un prodotto, come lo sfruttamento della manodopera minorile in paesi dell'Est, rischia di ripercuotersi su tutti i prodotti della stessa marca. La marca comune diventa «un danno comune», ed è un elemento difficile da gestire.
+**Opzione:** Che un danno su un prodotto può ripercuotersi su tutti i prodotti della stessa marca.
+**Distrattori:**
+- Che un danno su un prodotto resta confinato a quel prodotto grazie alla marca comune.
+- Che la marca comune protegge i prodotti dalle accuse di sfruttamento.
+
+**D:** ⚠️ Che cos'è la cultura aziendale rispetto all'organigramma, secondo il docente della lezione 07?
+**R:** «Non è il trasferimento dell'organigramma, ma è piuttosto un modo di fare, un modo di comportarsi»: è come se le persone interiorizzassero l'organigramma, e sapessero a chi rivolgersi, come risolvere un problema, qual è la scorciatoia per arrivare alla decisione.
+**Opzione:** Un modo di fare, come se le persone avessero interiorizzato l'organigramma.
+**Distrattori:**
+- Il trasferimento dell'organigramma a tutti i livelli di delega.
+- L'insieme delle regole scritte che fissano responsabilità e poteri.
+
+**D:** ⚠️ Come si distribuisce la cultura aziendale nell'organizzazione, e chi ne è più padrone?
+**R:** È un sapere diffuso: non si concentra in un punto specifico, ma «si irraggia» fra le persone. Quanto più tempo si appartiene all'organizzazione, tanto più si è padroni della cultura aziendale. Se è elastica e flessibile aiuta a crescere e a diversificarsi, e la storia di crescita della corporation si può raccontare all'investitore.
+**Opzione:** Si irraggia fra le persone, e ne è più padrone chi appartiene da più tempo all'organizzazione.
+**Distrattori:**
+- Si concentra al vertice, e ne è padrone chi ha più potere nell'organigramma.
+- Si concentra nella funzione del personale, che la trasmette ai nuovi assunti.
+
+**D:** ⚠️ Quando una risorsa intangibile diventa una competenza distintiva, secondo il docente della lezione 07?
+**R:** Quando è costruita e misurata in maniera distintiva rispetto ai concorrenti. Le risorse immateriali le hanno tutti; diventano competenze distintive se sono migliori di quelle dei concorrenti, come una cultura aziendale migliore nelle scelte di sviluppo. Non basta misurarle: vanno confrontate e misurate in maniera relativa.
+**Opzione:** Quando è costruita e misurata in maniera relativa, nel confronto con i concorrenti.
+**Distrattori:**
+- Quando è misurata in valore assoluto nel bilancio della corporation.
+- Quando è posseduta da tutte le imprese del settore.
+
+**D:** ⚠️ A che cosa paragona il docente della lezione 07 la misura relativa delle competenze distintive?
+**R:** Alle quote di mercato: «Come nelle strategie competitive si misuravano in maniera relativa le quote di mercato, qui si misurano in maniera relativa le competenze distintive, quello che io so fare meglio degli altri».
+**Opzione:** Alla misura relativa delle quote di mercato nelle strategie competitive.
+**Distrattori:**
+- Alla misura assoluta del fatturato nelle strategie competitive.
+- Al calcolo delle economie di scala sulla curva dei costi di lungo periodo.
+
+**D:** ⚠️ Quali tre tipi di competenze distintive elenca il docente alla fine della lezione 07?
+**R:** Quelle che contribuiscono alla creazione di valore per il consumatore; quelle che contribuiscono all'efficientamento del meccanismo con cui si eroga il servizio; quelle sul modo in cui si innova, per esempio entrando in un nuovo mercato. Sono i tre elementi della parentesi di Hamel e Prahalad, che il docente non nomina.
+**Opzione:** Creazione di valore per il consumatore; efficienza nell'erogazione del servizio; capacità di innovare ed entrare in nuovi mercati.
+**Distrattori:**
+- Creazione di valore per l'azionista; efficienza nell'erogazione del servizio; capacità di innovare ed entrare in nuovi mercati.
+- Creazione di valore per il consumatore; riduzione del costo del lavoro; capacità di innovare ed entrare in nuovi mercati.
+- Creazione di valore per il consumatore; efficienza nell'erogazione del servizio; capacità di ridurre le quote di mercato dei concorrenti.
+
+### Flashcard dai quiz — lezione 07
+
+**D:** ⚠️ Le competenze organizzative, secondo il test della lezione 07:
+**R:** **Sono competenze che permettono all'azienda di differenziarsi dalla concorrenza.** Nello schema delle risorse (slide 3 delle lezioni 03 e 07) le capacità organizzative stanno fuori dai riquadri delle risorse tangibili e intangibili, e il docente dice che appartengono alla corporation. Distrattori del test: «sono beni tangibili» e «sono beni intangibili», le altre due categorie della terna del test 06, e «non contribuiscono alla creazione del vantaggio competitivo».
+**Opzione:** Sono competenze che permettono all'azienda di differenziarsi dalla concorrenza.
+**Distrattori:**
+- Sono beni tangibili.
+- Non contribuiscono alla creazione del vantaggio competitivo.
+- Sono beni intangibili.
+
+**D:** ⚠️ Da che cosa dipende il valore di una risorsa, secondo il test della lezione 07?
+**R:** **Domanda, scarsità e appropriabilità.** ⚠️ Non compare nelle lezioni 01–07. Distrattori del test: «domanda, offerta e appropriabilità», che mette l'offerta al posto della scarsità; «scarsità, risorse e domanda»; «offerta, domanda e settore industriale».
+**Opzione:** Domanda, scarsità e appropriabilità.
+**Distrattori:**
+- Domanda, offerta e appropriabilità.
+- Scarsità, risorse e domanda.
+- Offerta, domanda e settore industriale.
+
+**D:** ⚠️ A proposito della domanda, che cosa deve fare una risorsa per essere di valore, secondo il test della lezione 07?
+**R:** **Contribuire a soddisfare il bisogno del consumatore.** La formula non è nelle lezioni 01–07, ma è vicina a quella di Hamel e Prahalad (slide 8 della lezione 07): le core competence «contribuiscono alla creazione di valore per il consumatore». Distrattori del test: «deve essere scarsa», che è la scarsità e non la domanda; «contribuire alla distribuzione dei profitti»; «deve essere utile».
+**Opzione:** Contribuire a soddisfare il bisogno del consumatore.
+**Distrattori:**
+- Contribuire alla distribuzione dei profitti.
+- Deve essere scarsa.
+- Deve essere utile.
+
+**D:** ⚠️ A che cosa è legata la non imitabilità di una risorsa, secondo il test della lezione 07?
+**R:** **Alla sussistenza di almeno uno dei fattori: unicità fisica, path dependency, ambiguità causale, deterrente economico.** ⚠️ Non compare nelle lezioni 01–07. Il distrattore più insidioso chiede la sussistenza «contestuale» di tutti e quattro; gli altri due ribaltano il senso: «non incide sulla creazione di valore», «favorisce la concorrenza».
+**Opzione:** È legata alla sussistenza di almeno uno fra unicità fisica, path dependency, ambiguità causale e deterrente economico.
+**Distrattori:**
+- È legata alla sussistenza contestuale di unicità fisica, path dependency, ambiguità causale e deterrente economico.
+- Non incide sulla creazione di valore.
+- Favorisce la concorrenza.
+
+**D:** ⚠️ Quali sono le caratteristiche intrinseche alle risorse, secondo il test della lezione 07?
+**R:** **La capacità (quantità e durata della risorsa), la durabilità e la specificità.** ⚠️ Non compaiono nelle lezioni 01–07. Il distrattore più vicino sostituisce la durabilità con la «deperibilità»; gli altri due parlano di influenze esterne e interne, che per definizione non sono caratteristiche intrinseche.
+**Opzione:** Sono la capacità (quantità e durata della risorsa), la durabilità e la specificità.
+**Distrattori:**
+- Sono la capacità, la deperibilità e la specificità.
+- Subiscono le influenze esterne.
+- Dipendono dalle influenze interne.
