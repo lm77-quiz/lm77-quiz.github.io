@@ -2135,3 +2135,266 @@
 - Non sono una fonte di vantaggio che stimola l'espansione di un'azienda in un settore.
 - Si verificano quando il costo medio diminuisce in seguito all'aumento del volume di produzione.
 - Si verificano quando produrre e distribuire più prodotti contemporaneamente riduce i costi.
+
+## Lezione 09 — La scelta di crescere 6
+
+**D:** ⚠️ Quali sono, nell'ordine, i cinque costi della diversificazione della lezione 09?
+**R:** I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
+**Distrattori:**
+- I costi organizzativi (costo opportunità); I costi finanziari (costo del compromesso); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
+- I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'entrata); I costi del cambiamento; Gli effetti delle esternalità.
+- I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle economie di scala.
+
+**D:** ⚠️ A quale costo della diversificazione corrisponde il «costo del compromesso»?
+**R:** Ai **costi organizzativi**: tenere insieme business diversi, valutati solo sui risultati, costringe a sostenere «soluzioni di compromesso» che equilibrano il portafoglio. ⚠️ Più avanti il docente chiama «costo del compromesso» anche il costo opportunità: vale la coppia della slide.
+**Opzione:** Ai costi organizzativi.
+**Distrattori:**
+- Ai costi finanziari.
+- Ai costi strategici.
+- Ai costi del cambiamento.
+
+**D:** ⚠️ A quale costo della diversificazione corrisponde il «costo opportunità»?
+**R:** Ai **costi finanziari**: «investo in un business ma non investo in un altro», e il mancato investimento è «un'opportunità mancata».
+**Opzione:** Ai costi finanziari.
+**Distrattori:**
+- Ai costi organizzativi.
+- Ai costi strategici.
+- Ai costi del cambiamento.
+
+**D:** ⚠️ A quale costo della diversificazione corrispondono le «barriere all'uscita»?
+**R:** Ai **costi strategici**: una volta investito in un business è difficile uscirne, perché manca la velocità di transazioni del mercato finanziario.
+**Opzione:** Ai costi strategici.
+**Distrattori:**
+- Ai costi finanziari.
+- Ai costi organizzativi.
+- Ai costi del cambiamento.
+
+**D:** ⚠️ Perché valutare il manager di una strategic business unit solo sui risultati è «un meccanismo pericoloso», secondo la lezione 09?
+**R:** Perché i risultati si vedono «solo al termine dell'azione», con difficoltà a vederli «in itinere». La corporation affida un budget alla business unit senza una conoscenza approfondita del business, con una competenza solo finanziaria legata alla logica del budget.
+**Opzione:** Perché i risultati si vedono solo al termine dell'azione, non in itinere.
+**Distrattori:**
+- Perché i risultati si vedono solo in itinere, non al termine dell'azione.
+- Perché il manager conosce il mercato meno della corporation.
+- Perché il budget viene assegnato solo dopo i risultati.
+
+**D:** ⚠️ Perché è difficile uscire da un business, a differenza di un portafoglio finanziario, secondo la lezione 09?
+**R:** Nel mercato finanziario le occasioni di transazione sono frequenti: un titolo si mette sul mercato e qualcuno lo compra. Nel mercato industriale manca questa «velocità di transazioni»: per liberarsi di un brand bisogna trovare un compratore, e in certi periodi non è semplice (Procter & Gamble, Unilever). È una barriera all'uscita, «un ostacolo finanziario vero e proprio».
+**Opzione:** Perché nel mercato industriale manca la velocità di transazioni del mercato finanziario.
+**Distrattori:**
+- Perché nel mercato industriale le transazioni sono più frequenti che in quello finanziario.
+- Perché i business diversificati sono sempre in perdita.
+
+**D:** ⚠️ Perché la diversificazione genera costi del cambiamento, e quale esempio fa il docente della lezione 09?
+**R:** Perché sono «legati alla dimensione»: una corporation diversificata deve innovare in tanti mercati diversi, e il cambiamento è più lento. Esempio: la digitalizzazione (o l'intelligenza artificiale), relativamente semplice nel tessile-abbigliamento (design, rapporto con il cliente, advertisement), più complicata nel food, dove il rapporto col cliente è fisico, fatto di sensazioni ed esperienze.
+**Opzione:** Perché bisogna innovare in tanti mercati diversi: digitalizzare è facile nel tessile, difficile nel food.
+**Distrattori:**
+- Perché bisogna innovare in tanti mercati diversi: digitalizzare è facile nel food, difficile nel tessile.
+- Perché il cambiamento richiede di vendere i business meno redditizi.
+
+**D:** ⚠️ Che cosa sono gli effetti delle esternalità, fra i costi della diversificazione?
+**R:** Fattori «non richiesti», «non preventivati, non progettati, non previsti», che agiscono positivamente o negativamente sul valore dell'impresa. Alcuni sono disruptive e colpiscono tutti (guerra, terremoti, pandemie); altri derivano dalle nostre scelte di portafoglio («ritorni non attesi»). ⚠️ Non sono le esternalità di rete della lezione 06.
+**Opzione:** Fattori non previsti che agiscono positivamente o negativamente sul valore dell'impresa.
+**Distrattori:**
+- Fattori previsti nel piano che agiscono solo positivamente sul valore dell'impresa.
+- Fattori che spingono l'azienda a crescere stimolando esasperatamente la domanda.
+- Fattori non previsti che agiscono solo negativamente sul valore dell'impresa.
+
+**D:** ⚠️ Che cosa hanno scoperto le corporation con le crisi degli anni '90, secondo la lezione 09?
+**R:** Che la crescita diversificata impone una serie di costi che «una soluzione di integrazione verticale o di crescita per via interna non impone loro».
+**Opzione:** Che la crescita diversificata impone costi che l'integrazione verticale o la crescita interna non impongono.
+**Distrattori:**
+- Che l'integrazione verticale impone costi che la crescita diversificata non impone.
+- Che la crescita diversificata non ha costi, a differenza della crescita interna.
+
+**D:** ⚠️ Perché la crescita diversificata agevola il reperimento di risorse finanziarie, secondo la lezione 09?
+**R:** Perché c'è «omogeneità fra la logica di pianificazione industriale e la logica di pianificazione finanziaria»: pianificatori industriali e gestori di portafogli finanziari «parlano lo stesso linguaggio», usano gli stessi meccanismi di scelta e ambiscono al medesimo valore, per certi versi solo finanziario.
+**Opzione:** Perché pianificatori industriali e gestori di portafogli finanziari parlano lo stesso linguaggio.
+**Distrattori:**
+- Perché pianificatori industriali e gestori di portafogli finanziari usano linguaggi diversi ma complementari.
+- Perché la diversificazione elimina il rischio d'impresa.
+- Perché i business diversificati non hanno bisogno di un budget.
+
+**D:** ⚠️ Che cosa misurano gli assi del grafico «Quanto diversificare?» della lezione 09?
+**R:** In orizzontale la **distanza della diversificazione**, cioè il numero dei business e quanto sono diversi da quelli originari; in verticale le **rendite marginali**.
+**Opzione:** In orizzontale la distanza della diversificazione, in verticale le rendite marginali.
+**Distrattori:**
+- In orizzontale le rendite marginali, in verticale la distanza della diversificazione.
+- In orizzontale la quota di mercato relativa, in verticale la crescita del mercato.
+- In orizzontale la capacità produttiva, in verticale il costo medio unitario.
+
+**D:** ⚠️ Come variano le rendite marginali al crescere della distanza della diversificazione?
+**R:** Decrescono: il rendimento in più che ogni business aggiunge è «via via decrescente», per effetto del costo della distanza. Con una crescita fortemente correlata il beneficio addizionale è invece «molto alto».
+**Opzione:** Decrescono, per effetto del costo della distanza.
+**Distrattori:**
+- Crescono, per effetto della condivisione delle informazioni.
+- Restano costanti, per effetto della diversificazione del rischio.
+
+**D:** ⚠️ Perché l'acquisizione della trasformazione del grano da parte di un produttore di pasta non è vera diversificazione, secondo la lezione 09?
+**R:** Perché i due business sono fortemente collegati, l'uno dipende dall'altro: «è più una scelta di integrazione». Diversifica invece la corporation dei surgelati che entra nelle creme di bellezza, un mercato completamente diverso.
+**Opzione:** Perché i due business sono fortemente collegati: è più una scelta di integrazione.
+**Distrattori:**
+- Perché i due business sono completamente diversi: è una diversificazione conglomerata.
+- Perché la trasformazione del grano è un mercato in declino.
+
+**D:** ⚠️ Come agiscono i fattori specifici sulle rendite marginali della diversificazione?
+**R:** Le fanno cadere «in verticale»: sono legati al singolo business (competizione su quel mercato, valore del brand, peculiarità del processo produttivo) e non si possono ammortizzare. Entrando in un nuovo business «non risolvo questi problemi, ma semplicemente aggiungo nuovi problemi ai problemi che già ho».
+**Opzione:** Le fanno cadere in verticale, perché ogni nuovo business aggiunge problemi suoi che non si possono ammortizzare.
+**Distrattori:**
+- Le fanno crescere fino a un massimo e poi scendere, perché le informazioni si condividono.
+- Le lasciano costanti, perché ogni business ha i suoi manager.
+
+**D:** ⚠️ Come agiscono i fattori non specifici sulle rendite marginali della diversificazione?
+**R:** Prima le fanno **crescere**: sono problemi comuni a business diversi, e un nuovo business dà un set di informazioni da mettere in comune, con soluzioni più veloci e benefici di costo. Oltre un certo punto la dimensione porta costi superiori ai benefici, e la curva **decresce**.
+**Opzione:** Prima le fanno crescere, grazie alle informazioni condivise; oltre un certo punto le fanno decrescere.
+**Distrattori:**
+- Le fanno cadere in verticale fin dal primo business.
+- Prima le fanno decrescere; oltre un certo punto le fanno crescere.
+- Le fanno crescere all'infinito, grazie alle informazioni condivise.
+
+**D:** ⚠️ Quali problemi comuni a business diversi cita il docente della lezione 09 fra i fattori non specifici?
+**R:** Reperire nuove risorse umane, gestire il debito, finanziarsi, l'immagine che si vuole dare («non il messaggio pubblicitario»), gestire le linee di comando.
+**Opzione:** Risorse umane, debito, finanziamento, immagine, linee di comando.
+**Distrattori:**
+- Competizione sul mercato, valore del brand, peculiarità del processo produttivo.
+- Risorse umane, debito, finanziamento, messaggio pubblicitario, prezzi di vendita.
+
+**D:** ⚠️ Fino a che punto conviene diversificare, secondo il grafico della lezione 09?
+**R:** Fino al punto indicato dalla curva dei fattori non specifici, il suo massimo: oltre, «non ci conviene crescere, o perlomeno ci conviene crescere in business correlati». La linea media dice che le rendite decrescono: «Non ha senso crescere troppo in business molto lontani fra di loro».
+**Opzione:** Fino al massimo della curva dei fattori non specifici; oltre conviene crescere solo in business correlati.
+**Distrattori:**
+- Fino al massimo della curva dei fattori specifici; oltre conviene crescere solo in business conglomerati.
+- Fino al massimo della curva dei fattori non specifici; oltre conviene crescere solo in business lontani.
+- All'infinito, perché le rendite marginali crescono con la distanza.
+
+**D:** ⚠️ Quando ci si accorge dei problemi della dimensione legati alla diversificazione, secondo la lezione 09?
+**R:** Dopo: sovradimensionamento, eccessivo numero di persone, lentezza delle decisioni, scarsa flessibilità e difficoltà del cambiamento sono «effetti dei quali ci accorgiamo dopo che abbiamo fatto la scelta di diversificare e non prima». Per pianificare la scelta serve quindi uno strumento: il grafico «Quanto diversificare?».
+**Opzione:** Dopo aver fatto la scelta di diversificare, non prima.
+**Distrattori:**
+- Prima di fare la scelta di diversificare, in fase di pianificazione.
+- Solo quando si decide di disinvestire.
+
+**D:** ⚠️ Quali sono i due assi della matrice GE?
+**R:** In verticale l'**attrattività del mercato** (alta, media, bassa), in orizzontale la **posizione competitiva** (bassa, media, alta, da sinistra a destra). È una matrice 3×3.
+**Opzione:** Attrattività del mercato e posizione competitiva.
+**Distrattori:**
+- Crescita del mercato e quota di mercato relativa.
+- Core competencies e mercati.
+- Prodotti e mercati.
+
+**D:** ⚠️ Da quali problemi nasce la matrice GE, secondo la lezione 09?
+**R:** Dai problemi che General Electric aveva negli anni '80, quando era fortemente diversificata in business molto lontani dal suo business originario. È lo strumento con cui ha gestito la sua «eccessiva crescita» e «sovradiversificazione».
+**Opzione:** Dalla sovradiversificazione di General Electric negli anni '80, in business lontani dal suo business originario.
+**Distrattori:**
+- Dalla scarsa diversificazione di General Electric negli anni '80, concentrata sul suo business originario.
+- Dalla liberalizzazione dei mercati europei negli anni '90.
+
+**D:** ⚠️ Nella matrice GE, quale strategia corrisponde ad attrattività del mercato alta e posizione competitiva alta?
+**R:** **Difesa posizione**: Investire per crescere; Consolidare i punti di forza. È una scelta costosa: in un mercato attrattivo anche gli altri operatori investiranno.
+**Opzione:** Difesa posizione: investire per crescere, consolidare i punti di forza.
+**Distrattori:**
+- Difendere e rifocalizzare: scremare, selezionare segmenti, investimenti di difesa.
+- Investire per costruire: puntare a leadership, sfruttare i punti di forza, risolvere i punti di debolezza.
+- Selettività: investire su segmenti, aumento produttività, aumentare pressione competitiva.
+
+**D:** ⚠️ Nella matrice GE, quale strategia corrisponde ad attrattività del mercato bassa e posizione competitiva alta?
+**R:** **Difendere e rifocalizzare**: Scremare; Selezionare segmenti; Investimenti di difesa. Il mercato tende a morire o a ristagnare: si riposiziona il prodotto in una fascia premium e si raccoglie «la crema del mercato».
+**Opzione:** Difendere e rifocalizzare: scremare, selezionare segmenti, investimenti di difesa.
+**Distrattori:**
+- Difesa posizione: investire per crescere, consolidare i punti di forza.
+- Gestire per i risultati economici: ridurre gli investimenti e scremare.
+- Disinvestimento.
+
+**D:** ⚠️ Nella matrice GE, quale strategia corrisponde ad attrattività del mercato alta e posizione competitiva bassa?
+**R:** **Selettività**: Segmentare su punti di forza o ritirarsi. Il mercato è ottimale, ma bisogna capire se ci sono margini per migliorare la posizione competitiva.
+**Opzione:** Selettività: segmentare su punti di forza o ritirarsi.
+**Distrattori:**
+- Selettività: investire su segmenti, aumento produttività, aumentare pressione competitiva.
+- Investire per costruire: puntare a leadership, sfruttare i punti di forza, risolvere i punti di debolezza.
+- Disinvestimento.
+
+**D:** ⚠️ Nella matrice GE, dove sta la «Selettività» che prescrive di investire su segmenti, aumentare la produttività e la pressione competitiva?
+**R:** Con attrattività del mercato **media** e posizione competitiva **alta**. L'altra «Selettività», «Segmentare su punti di forza o ritirarsi», sta con attrattività alta e posizione bassa.
+**Opzione:** Attrattività del mercato media, posizione competitiva alta.
+**Distrattori:**
+- Attrattività del mercato alta, posizione competitiva bassa.
+- Attrattività del mercato alta, posizione competitiva media.
+- Attrattività del mercato media, posizione competitiva bassa.
+
+**D:** ⚠️ Nella matrice GE, quale strategia corrisponde ad attrattività del mercato alta e posizione competitiva media?
+**R:** **Investire per costruire**: Puntare a leadership; Sfruttare i punti di forza; Risolvere i punti di debolezza. Non sta nell'angolo, ma in alto al centro.
+**Opzione:** Investire per costruire: puntare a leadership, sfruttare i punti di forza, risolvere i punti di debolezza.
+**Distrattori:**
+- Difesa posizione: investire per crescere, consolidare i punti di forza.
+- Gestire per i risultati economici: investire solo dove la redditività a breve è elevata.
+- Selettività: segmentare su punti di forza o ritirarsi.
+
+**D:** ⚠️ Nella matrice GE, che cosa prescrivono le due celle «Gestire per i risultati economici»?
+**R:** Stanno entrambe nella colonna della posizione competitiva **media**. Con attrattività **media**: «Investire solo dove le redditività a breve è elevata». Con attrattività **bassa**: «Ridurre gli investimenti e scremare».
+**Opzione:** Con attrattività media investire solo dove la redditività a breve è elevata; con attrattività bassa ridurre gli investimenti e scremare.
+**Distrattori:**
+- Con attrattività media ridurre gli investimenti e scremare; con attrattività bassa investire solo dove la redditività a breve è elevata.
+- Con attrattività alta investire solo dove la redditività a breve è elevata; con attrattività media ridurre gli investimenti e scremare.
+
+**D:** ⚠️ Nella matrice GE, quali strategie corrispondono alla posizione competitiva bassa con attrattività media e con attrattività bassa?
+**R:** Con attrattività **media**: «Espansione limitata o realizzo». Con attrattività **bassa**: «Disinvestimento». Nessuna delle due celle ha un elenco puntato.
+**Opzione:** Espansione limitata o realizzo con attrattività media; disinvestimento con attrattività bassa.
+**Distrattori:**
+- Disinvestimento con attrattività media; espansione limitata o realizzo con attrattività bassa.
+- Selettività con attrattività media; disinvestimento con attrattività bassa.
+
+**D:** ⚠️ Perché la cassa di un business da difendere e scremare non va reinvestita in esso, secondo la lezione 09?
+**R:** Perché nel lungo termine quel mercato ridurrà le sue potenzialità e la quota diventerà meno interessante per effetto della scrematura: il business scivolerà verso bassa posizione e bassa attrattività. I cash flow vanno investiti in altri business, in altre posizioni della matrice: è la logica finanziaria della matrice.
+**Opzione:** Perché il business scivolerà verso bassa posizione e bassa attrattività: la cassa va investita in altri business.
+**Distrattori:**
+- Perché il business salirà verso alta attrattività: la cassa va accumulata per quel momento.
+- Perché il business scivolerà verso bassa posizione e bassa attrattività: la cassa va distribuita agli azionisti.
+
+**D:** ⚠️ Che cosa cambia fra la matrice GE e la matrice McKinsey - General Electric della lezione 09?
+**R:** Il contenuto si corrisponde (il docente la chiama «una replica»), ma la McKinsey è a **colori** (Costruire, Mantenere, Mietere), chiama gli assi «Attrattività del settore» e «Competitività», e ha l'asse della competitività **rovesciato**: alta a **sinistra**, mentre nella GE la posizione alta sta a destra.
+**Opzione:** È a colori, con strategie per area, e ha l'asse della competitività rovesciato, con l'alta a sinistra.
+**Distrattori:**
+- Ha gli stessi assi nella stessa direzione, ma quattro celle invece di nove.
+- Incrocia quota di mercato relativa e crescita del mercato invece di attrattività e competitività.
+
+**D:** ⚠️ Che cosa indicano i tre colori della matrice McKinsey - General Electric?
+**R:** Blu = **Costruire**, rosso = **Mantenere**, viola = **Mietere**.
+**Opzione:** Blu costruire, rosso mantenere, viola mietere.
+**Distrattori:**
+- Blu mantenere, rosso costruire, viola mietere.
+- Blu costruire, rosso mietere, viola mantenere.
+- Blu mietere, rosso mantenere, viola costruire.
+
+**D:** ⚠️ Dove sta l'area «Mantenere» nella matrice McKinsey - General Electric?
+**R:** Sulla **diagonale**: attrattività alta con competitività bassa, entrambe medie, attrattività bassa con competitività alta. ⚠️ Il docente la descrive come bassa attrattività e competitività medio-bassa, le stesse parole che usa poi per l'area da mietere: vale la slide.
+**Opzione:** Sulla diagonale: una variabile alta e l'altra bassa, oppure entrambe medie.
+**Distrattori:**
+- Nell'angolo in cui attrattività e competitività sono entrambe basse.
+- Nell'angolo in cui attrattività e competitività sono entrambe alte.
+
+**D:** ⚠️ Che cosa significa «costruire» nella matrice McKinsey, e perché conviene?
+**R:** Investire nei business con attrattività del settore medio-alta (il mercato cresce, misurato con il tasso di crescita dei volumi di vendita del mercato nel suo complesso) e competitività medio-alta. Si guadagna due volte: si rubano quote ai competitor, e in un mercato che cresce la quota «varrà sempre di più».
+**Opzione:** Investire dove attrattività e competitività sono medio-alte: si rubano quote e la quota vale sempre di più.
+**Distrattori:**
+- Investire dove attrattività e competitività sono medio-basse: si recupera la posizione perduta.
+- Vendere al prezzo più alto possibile i business che hanno fatto il loro tempo.
+
+**D:** ⚠️ Che cosa significa «mantenere» nella matrice McKinsey?
+**R:** Sono business con una posizione difendibile in un settore stabile, stagnante o in calo, che per sopravvivere hanno bisogno di investimenti. Si mantiene e si screma il mercato, ricavandone «tutta la cassa che posso» da destinare ai business su cui costruire.
+**Opzione:** Mantenere e scremare il mercato, ricavando cassa da destinare ai business da costruire.
+**Distrattori:**
+- Vendere al prezzo più alto possibile i business che hanno fatto il loro tempo.
+- Investire per approfittare di un mercato in crescita.
+
+**D:** ⚠️ Che cosa significa «mietere» nella matrice McKinsey?
+**R:** Nei business che «hanno fatto il loro tempo», o in cui si è sbagliato a investire, «cercare di vendere al prezzo più alto possibile» e realizzare i guadagni finanziari più profittevoli possibili.
+**Opzione:** Vendere al prezzo più alto possibile i business che hanno fatto il loro tempo.
+**Distrattori:**
+- Mantenere e scremare il mercato, ricavando cassa da destinare ai business da costruire.
+- Investire per approfittare di un mercato in crescita.
+
+**D:** ⚠️ A chi serve la matrice McKinsey - General Electric, secondo la lezione 09?
+**R:** Al livello **corporate**, alla proprietà, al consiglio di amministrazione, che riceve i finanziamenti degli investitori e li colloca nelle business unit come in un portafoglio, con logica finanziaria e tempi di ritorno più lunghi. Non ai manager che gestiscono la competizione, che decidono su prezzo, riduzione dei costi e differenziazione.
+**Opzione:** Al consiglio di amministrazione, che colloca i finanziamenti nelle business unit come in un portafoglio.
+**Distrattori:**
+- Ai manager delle business unit, che decidono su prezzo, riduzione dei costi e differenziazione.
+- Agli investitori, che scelgono in quali business unit comprare azioni.
