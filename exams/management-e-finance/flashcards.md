@@ -1837,3 +1837,301 @@
 - Sono la capacità, la deperibilità e la specificità.
 - Subiscono le influenze esterne.
 - Dipendono dalle influenze interne.
+
+## Lezione 08 — La scelta di crescere 5
+
+**D:** ⚠️ Che cosa propone la matrice risorse/mercati di Hamel e Prahalad, secondo la frase della slide 2 della lezione 08?
+**R:** Di «considerare un'impresa presente in più settori non come un portafoglio di business unit ma un *portafoglio di risorse*».
+**Opzione:** Considerare un'impresa presente in più settori non come un portafoglio di business unit ma un portafoglio di risorse.
+**Distrattori:**
+- Considerare un'impresa presente in più settori non come un portafoglio di risorse ma un portafoglio di business unit.
+- Considerare un'impresa presente in più settori non come un portafoglio di prodotti ma un portafoglio di mercati.
+- Considerare un'impresa presente in un solo settore non come un portafoglio di business unit ma un portafoglio di risorse.
+
+**D:** ⚠️ Quali sono i due assi della matrice risorse/mercati di Hamel e Prahalad?
+**R:** Asse verticale: **core competencies** (esistenti/nuove); asse orizzontale: **mercati** (esistenti/nuovi). Il titolo dice «Risorse/Mercati», ma l'asse verticale è etichettato «Core competencies». Rispetto alla matrice di Ansoff, le core competencies prendono il posto dei prodotti.
+**Opzione:** Core competencies (esistenti/nuove) e mercati (esistenti/nuovi).
+**Distrattori:**
+- Prodotti (attuali/nuovi) e mercati (attuali/nuovi).
+- Core competencies (esistenti/nuove) e prodotti (esistenti/nuovi).
+- Quota di mercato relativa e tasso di crescita del mercato.
+
+**D:** ⚠️ Nella matrice di Hamel e Prahalad, quale quadrante corrisponde a core competencies nuove in mercati nuovi?
+**R:** **Mega opportunità.** Il valore dell'investimento, se gestito bene, «si aggiunge, non erode» quello già generato: è un nuovo business.
+**Opzione:** Mega opportunità.
+**Distrattori:**
+- Spazi bianchi.
+- Premier Plus 10.
+- Riempire gli spazi vuoti.
+
+**D:** ⚠️ Nella matrice di Hamel e Prahalad, quale quadrante corrisponde a core competencies esistenti in mercati nuovi?
+**R:** **Spazi bianchi.** Competenze esistenti che non si usano appieno e che in altri mercati possono essere meglio utilizzate. Attenzione: gli spazi **bianchi** stanno nei mercati **nuovi**, gli spazi **vuoti** in quelli esistenti.
+**Opzione:** Spazi bianchi.
+**Distrattori:**
+- Riempire gli spazi vuoti.
+- Mega opportunità.
+- Premier Plus 10.
+
+**D:** ⚠️ Nella matrice di Hamel e Prahalad, quale quadrante corrisponde a core competencies esistenti in mercati esistenti?
+**R:** **Riempire gli spazi vuoti.** «So fare il mio lavoro, ho le mie competenze nei mercati nei quali opero, non utilizzo al massimo le mie competenze»: si cresce usando al meglio le competenze di cui si dispone.
+**Opzione:** Riempire gli spazi vuoti.
+**Distrattori:**
+- Spazi bianchi.
+- Premier Plus 10.
+- Mega opportunità.
+
+**D:** ⚠️ Nella matrice di Hamel e Prahalad, quale quadrante corrisponde a core competencies nuove in mercati esistenti?
+**R:** **Premier Plus 10.** Nel mercato in cui già si opera servono saperi core che oggi non si hanno, per vincere la gara competitiva. Esempi: le aziende tradizionali che passano al digitale, i produttori di pasta che vendono un'esperienza.
+**Opzione:** Premier Plus 10.
+**Distrattori:**
+- Mega opportunità.
+- Riempire gli spazi vuoti.
+- Spazi bianchi.
+
+**D:** ⚠️ Quando una risorsa intangibile diventa competenza, secondo la lezione 08?
+**R:** Quando l'azienda è **consapevole** di averla e riesce a **misurarla nel confronto con i suoi competitor**: può dire che le sue risorse intangibili sono «migliori e quindi distintive». Esempio: una reputazione migliore di quella del concorrente, costruita in tanti anni senza errori. «Ecco, quella è una risorsa intangibile che diventa competenza.»
+**Opzione:** Quando l'azienda ne è consapevole e la misura nel confronto con i suoi competitor.
+**Distrattori:**
+- Quando l'azienda la registra con un brevetto o una licenza.
+- Quando l'azienda la acquista sul mercato e la iscrive in bilancio.
+- Quando l'azienda la condivide fra più unità di business.
+
+**D:** ⚠️ Quando le competenze diventano core competencies, secondo la lezione 08?
+**R:** Quando diventano l'elemento su cui si fonda la capacità di **sviluppo** dell'impresa: «esse diventano competenze core, cruciali, cosiddette core competencies». Sono quelle dell'asse verticale della matrice di Hamel e Prahalad.
+**Opzione:** Quando diventano l'elemento su cui si fonda la capacità di sviluppo dell'impresa.
+**Distrattori:**
+- Quando diventano l'elemento su cui si fonda la riduzione dei costi dell'impresa.
+- Quando vengono acquistate sul mercato da un'altra impresa.
+- Quando sono condivise da tutti i concorrenti del settore.
+
+**D:** ⚠️ Da dove possono venire le core competencies, secondo la lezione 08?
+**R:** O sono **esistenti** all'interno della corporation, o sono **nuove**, «competenze che mi vado a comprare sul mercato»: si cresce in una nuova area strategica d'affari perché lì ci sono competenze che non si hanno e che si ritengono core. Esempio: il produttore di tessile-abbigliamento che non sa vendere e compra una catena di distribuzione.
+**Opzione:** Possono essere esistenti all'interno della corporation o nuove, comprate sul mercato.
+**Distrattori:**
+- Possono essere solo esistenti all'interno della corporation.
+- Possono essere solo nuove, comprate sul mercato.
+
+**D:** ⚠️ Che cosa ha scoperto Luxottica entrando nel mercato americano, e come ha reagito?
+**R:** Di **non avere competenze commerciali**: negli Stati Uniti gli occhiali non si vendono nel piccolo dettagliante ma nella **grande distribuzione organizzata**. Forte in Europa delle sue competenze produttive e del suo brand, ha dovuto comprare le **competenze distributive** che non aveva: «ha comprato una catena di distribuzione in lenti».
+**Opzione:** Di non avere competenze commerciali per la grande distribuzione, e ha comprato una catena di distribuzione.
+**Distrattori:**
+- Di non avere competenze produttive adeguate, e ha comprato un produttore americano di lenti.
+- Di non avere un brand riconosciuto, e ha comprato un marchio americano di occhiali.
+- Di non avere competenze commerciali per il piccolo dettaglio, e ha aperto negozi propri.
+
+**D:** ⚠️ Perché le mega opportunità sono tali, secondo il docente della lezione 08?
+**R:** Perché il valore ricavato dall'investimento, se gestito bene, «si aggiunge, non erode, si aggiunge al valore che già sto generando, quindi è un nuovo business». Si usano competenze nuove, che arricchiscono il patrimonio di competenze, in un mercato in cui non si era presenti.
+**Opzione:** Perché il valore dell'investimento si aggiunge a quello già generato, senza eroderlo.
+**Distrattori:**
+- Perché il valore dell'investimento sostituisce quello già generato, erodendolo.
+- Perché sfruttano competenze esistenti in mercati già presidiati.
+- Perché non richiedono l'acquisizione di nuove competenze.
+
+**D:** ⚠️ Quale esempio fa il docente della lezione 08 per gli spazi bianchi?
+**R:** La **grande distribuzione organizzata** che espone **automobili**: non per venderle, ma per far capire al consumatore che il supermercato è il luogo in cui «si può trovare tutto». È un modo di usare meglio una competenza che non si sfrutta appieno, il saper vendere e lo scaffale.
+**Opzione:** La grande distribuzione che espone automobili per mostrare che nel supermercato si trova tutto.
+**Distrattori:**
+- Luxottica che compra una catena di distribuzione per il mercato americano.
+- I produttori di pasta che vendono un kit con la ricetta per il mercato asiatico.
+- Poste Italiane che vende gli immobili degli uffici postali.
+
+**D:** ⚠️ Perché il docente cita i produttori di pasta come esempio di Premier Plus 10?
+**R:** Perché nel mercato **esistente** devono acquisire competenze **nuove** per vendere attraverso il canale **digitale**: non vendono la pasta nel formato tradizionale, ma il piatto, il sapore, la degustazione, la ricetta, «l'esperienza». Servono social media manager, blog di cucina, formati innovativi; per il mercato asiatico un kit con pasta, pentola di creta, sugo pronto e ricetta.
+**Opzione:** Perché nel mercato esistente devono acquisire competenze nuove per vendere un'esperienza sul canale digitale.
+**Distrattori:**
+- Perché sfruttano appieno le competenze produttive che già hanno nel mercato tradizionale.
+- Perché riducono i costi di produzione grazie al canale digitale.
+- Perché vendono online la pasta nel formato tradizionale.
+
+**D:** ⚠️ Basta creare un sito internet per diventare digital, secondo il docente della lezione 08?
+**R:** No. Molte aziende tradizionali si creano il sito dove vedere i prodotti, «e tutto finisce là, ma questo non significa che sono diventate digital». Per vendere sul canale digitale servono competenze nuove: è il quadrante Premier Plus 10.
+
+**D:** ⚠️ Qual è, per il docente della lezione 08, il limite degli studi come la matrice di Ansoff?
+**R:** Sono stati sviluppati «dopo che le imprese avevano deciso»: non hanno fatto altro che «classificare in soluzioni preordinate delle scelte che l'impresa aveva già realizzato». Servono però a mostrare che la crescita non segue un'unica strada, e che strade diverse richiedono soluzioni organizzative diverse.
+**Opzione:** Sono stati sviluppati dopo le decisioni delle imprese e classificano scelte già realizzate.
+**Distrattori:**
+- Sono stati sviluppati prima delle decisioni delle imprese e le hanno guidate in modo vincolante.
+- Considerano solo le risorse intangibili e ignorano i mercati.
+- Classificano i business per quota di mercato relativa e tasso di crescita.
+
+**D:** ⚠️ Di quale natura sono le risorse intangibili, secondo il riepilogo della lezione 08?
+**R:** Hanno «una natura **finanziaria**, una natura **reale**, una natura **organizzativa**». Sono figlie della cultura aziendale, del sapere e dell'apprendimento delle persone, di una sana gestione e della reputazione costruita col mercato.
+**Opzione:** Finanziaria, reale e organizzativa.
+**Distrattori:**
+- Finanziaria, tecnologica e commerciale.
+- Materiale, reale e organizzativa.
+- Fisica, finanziaria e umana.
+
+**D:** ⚠️ Che cosa dimostra, per il docente della lezione 08, la capacità di finanziare la crescita?
+**R:** Una **sana gestione** passata: «Il fatto che io riesca ad avere una finanza che mi consente di crescere significa che io ho avuto una sana gestione in passato». È uno dei modi in cui le risorse intangibili sono «figlie» della storia dell'impresa.
+**Opzione:** Che l'impresa ha avuto una sana gestione in passato.
+**Distrattori:**
+- Che l'impresa ha avuto un forte indebitamento in passato.
+- Che l'impresa ha raggiunto economie di scala.
+- Che l'impresa dispone di immobili da vendere.
+
+**D:** ⚠️ Fra quali due asset poteva scegliere Poste Italiane per crescere, secondo la lezione 08, e quale ha scelto?
+**R:** Fra l'asset **materiale**, la dotazione immobiliare degli uffici postali (razionalizzarla: vendere gli immobili, incassare e buttarsi in mercati diversi), e l'asset **immateriale** della **reputazione**. Ha scelto il secondo: vendere prodotti diversi alle tante persone che entrano nell'ufficio postale per il libretto, la raccomandata, il pacco.
+**Opzione:** Fra gli immobili degli uffici postali e la reputazione, e ha scelto la reputazione.
+**Distrattori:**
+- Fra gli immobili degli uffici postali e la reputazione, e ha scelto gli immobili.
+- Fra l'espansione internazionale e la reputazione, e ha scelto l'espansione internazionale.
+- Fra il recapito della posta e il corriere espresso, e ha scelto il corriere espresso.
+
+**D:** ⚠️ Quali tre strade aveva davanti Poste Italiane, secondo il docente della lezione 08?
+**R:** Utilizzare l'**immobilizzazione materiale**; investire sull'**e-substitution**, cioè su un prodotto postale digitale; **internazionalizzarsi**, crescendo in mercati nuovi. La scelta di Poste è stata «assolutamente particolare», non seguita dagli altri operatori postali europei.
+**Opzione:** Utilizzare l'immobilizzazione materiale, investire sull'e-substitution, internazionalizzarsi.
+**Distrattori:**
+- Utilizzare l'immobilizzazione materiale, investire sull'e-substitution, fondersi con un altro operatore europeo.
+- Ridurre il personale, investire sull'e-substitution, internazionalizzarsi.
+- Utilizzare l'immobilizzazione materiale, investire nel corriere espresso, uscire dal mercato postale.
+
+**D:** ⚠️ Che cosa dice il docente della lezione 08 degli operatori postali europei davanti alla liberalizzazione?
+**R:** Che l'industria postale «da un giorno all'altro diventa un attore fra gli attori», ma che, «per fortuna di Poste Italiane», gli altri erano più o meno nella sua stessa condizione: «non c'era nessuno già pronto alla liberalizzazione».
+**Opzione:** Che nessuno di loro era già pronto alla liberalizzazione.
+**Distrattori:**
+- Che Poste Italiane era l'unico operatore già pronto alla liberalizzazione.
+- Che erano tutti già pronti, tranne Poste Italiane.
+
+**D:** ⚠️ Quale fase della catena postale ha il costo maggiore, secondo il docente della lezione 08?
+**R:** Il **recapito** finale, «la fase con maggiore costo», su cui bisogna agire per ottenere un vantaggio competitivo. Anche il **sorting** nelle singole destinazioni è molto costoso, perché lì i volumi sono piccoli; accettazione e trasporto, invece, si possono fare su grande scala.
+**Opzione:** Il recapito finale.
+**Distrattori:**
+- L'accettazione.
+- Il trasporto.
+- Lo stoccaggio.
+
+**D:** ⚠️ Perché l'accettazione postale può essere resa efficiente, secondo il docente della lezione 08?
+**R:** Perché, pur avendo un costo elevato, «può essere standardizzata, può essere realizzata su grande scala»: le grandi città e i capoluoghi hanno grandi «fabbriche di accettazione» dove la posta è organizzata e ridestinata per grandi destinazioni.
+**Opzione:** Perché può essere standardizzata e realizzata su grande scala.
+**Distrattori:**
+- Perché avviene persona per persona, con volumi piccoli.
+- Perché ha un costo trascurabile rispetto alle altre fasi.
+- Perché può essere sostituita dalla posta elettronica.
+
+**D:** ⚠️ Come definisce il docente della lezione 08 l'attività postale tradizionale, dopo l'analisi dei costi?
+**R:** «Un'attività **rischiosa**, in **decremento** e con **scarsi** elementi di **economizing**, di riduzione di costo».
+**Opzione:** Un'attività rischiosa, in decremento e con scarsi elementi di economizing.
+**Distrattori:**
+- Un'attività sicura, in decremento e con scarsi elementi di economizing.
+- Un'attività rischiosa, in crescita e con scarsi elementi di economizing.
+- Un'attività rischiosa, in decremento e con forti elementi di economizing.
+
+**D:** ⚠️ Come hanno diversificato TNT e Deutsche Post, secondo il docente della lezione 08?
+**R:** Crescendo in **mercati geografici diversi** con lo stesso prodotto. **TNT**, olandese, è diventata uno dei principali operatori europei nel trasporto di **pacchi postali**; **Deutsche Post** ha offerto i servizi postali in altri paesi, comprando le aziende postali **austriaca** e **ungherese**, nei paesi «dell'impero asburgico».
+**Opzione:** In mercati geografici diversi: TNT nei pacchi postali, Deutsche Post comprando aziende postali dell'ex impero asburgico.
+**Distrattori:**
+- In mercati geografici diversi: TNT comprando aziende postali dell'ex impero asburgico, Deutsche Post nei pacchi postali.
+- Consolidandosi sul mercato nazionale con i servizi finanziari.
+- Restando sul mercato nazionale con la sola corrispondenza tradizionale.
+
+**D:** ⚠️ Quanto pesavano nel 2005 corrispondenza e pacchi sul fatturato di TNT, secondo il docente della lezione 08?
+**R:** **39%** corrispondenza e **52%** pacchi postali (sulla slide 39,4% e 52,8%), più il 7,8% di altri ricavi: TNT è il principale operatore europeo dei pacchi. Royal Mail faceva invece il 75% sulla corrispondenza e il 14% sui pacchi.
+**Opzione:** 39% corrispondenza e 52% pacchi.
+**Distrattori:**
+- 52% corrispondenza e 39% pacchi.
+- 75% corrispondenza e 14% pacchi.
+- 49% corrispondenza e 5% pacchi.
+
+**D:** ⚠️ Su quale risorsa Poste Italiane fonda la diversificazione nei servizi finanziari, nelle parole del docente della lezione 08?
+**R:** Su una risorsa immateriale, la **risorsa relazionale**, «la risorsa legata alla reputazione»: chi va all'ufficio postale vi si affida per spedire il pacco ai figli che studiano altrove e per affidare i propri risparmi.
+**Opzione:** Sulla risorsa relazionale, legata alla reputazione.
+**Distrattori:**
+- Sulla rete immobiliare degli uffici postali.
+- Sulle economie di scala del recapito.
+- Sulle competenze logistiche del corriere espresso.
+
+**D:** ⚠️ Come nasce BancoPosta, secondo il docente della lezione 08?
+**R:** L'ufficio postale non conserva i risparmi solo nel prodotto postale tradizionale, il **libretto di risparmio**, ma anche con «una finanza innovativa, **non molto rischiosa**, ma una finanza innovativa e quindi nasce Banco Posta».
+**Opzione:** Dall'affiancare al libretto di risparmio una finanza innovativa, non molto rischiosa.
+**Distrattori:**
+- Dall'affiancare al libretto di risparmio una finanza innovativa, ad alto rischio.
+- Dalla sostituzione del libretto di risparmio con prodotti assicurativi.
+- Dall'acquisizione di un operatore finanziario estero.
+
+**D:** ⚠️ Perché La Poste è rimasta più a lungo sui servizi postali tradizionali, secondo il docente della lezione 08?
+**R:** Perché la Francia ha risposto **in ritardo** alle esigenze di liberalizzazione e ha conservato elementi di **protezione** e di nazionalizzazione. La Poste ha avuto tempo per rinnovarsi e crescere con maggiore lentezza, senza l'urgenza di adeguarsi a liberalizzazione e privatizzazione: è «un po' meno reattiva» di Poste Italiane.
+**Opzione:** Perché la Francia ha liberalizzato in ritardo e l'ha protetta, senza urgenza di adeguarsi.
+**Distrattori:**
+- Perché la Francia ha liberalizzato prima dell'Italia, con grande velocità.
+- Perché La Poste aveva già diversificato soprattutto all'estero.
+- Perché La Poste aveva già il 41% del fatturato nei servizi finanziari.
+
+**D:** ⚠️ Come giudica il docente della lezione 08 le privatizzazioni e le liberalizzazioni italiane?
+**R:** Si sono realizzate «con grande velocità e grande brutalità», a volte «bruciando» sul mercato gli **asset immateriali**, venduti al semplice valore tecnologico, al valore materiale. Eppure c'erano potenzialità immateriali, come dimostra Poste Italiane.
+**Opzione:** Rapide e brutali, a volte hanno bruciato asset immateriali vendendoli al valore materiale.
+**Distrattori:**
+- Lente e graduali, hanno dato alle aziende il tempo di rinnovarsi.
+- Rapide e brutali, ma hanno sempre valorizzato gli asset immateriali.
+
+**D:** ⚠️ Che cosa dice il docente della lezione 08 di SDA?
+**R:** Che l'azienda partecipata da Poste Italiane che spedisce e distribuisce pacchi **non è fra i più grandi** operatori europei, e che forse ha **perso un'occasione**, visto ciò che sta accadendo sui mercati digitali.
+**Opzione:** Che non è fra i più grandi operatori europei e forse ha perso un'occasione.
+**Distrattori:**
+- Che è il principale operatore europeo dei pacchi.
+- Che è la società assicurativa del gruppo.
+- Che ha guidato la diversificazione di Poste nei servizi finanziari.
+
+**D:** ⚠️ Come definisce il docente della lezione 08 la diversificazione di Poste Italiane?
+**R:** Una «diversificazione **atipica** diversa da quella che avrebbe descritto **Ansoff**»: crescita in business, mercati e bisogni nuovi, «aree strategiche **non correlate** alle precedenti, **se non per un asset immateriale** che è appunto la reputazione». Si fonda sulla «competenza reputazionale». ⚠️ Il test della lezione 05 la chiama «correlata basata sulle risorse intangibili»: correlata, cioè, solo per via della reputazione.
+**Opzione:** Una diversificazione atipica, in aree non correlate se non per un asset immateriale, la reputazione.
+**Distrattori:**
+- Una diversificazione tipica secondo Ansoff, in aree correlate per tecnologia e clienti.
+- Una diversificazione geografica, con gli stessi servizi postali in mercati esteri.
+- Una diversificazione conglomerata, in aree non correlate per alcun elemento.
+
+**D:** ⚠️ Come è cambiato nel tempo l'assetto di Poste Italiane, secondo il docente della lezione 08?
+**R:** Il servizio postale è stato un **monopolio** dello Stato per tantissimi anni, con un **ministero delle poste**; poi è diventato un **ente**; oggi è una **società privata partecipata dallo Stato**, che compete con altri operatori a loro volta privatizzati (Deutsche Post, La Poste, TNT).
+**Opzione:** Da ministero a ente, fino a società privata partecipata dallo Stato.
+**Distrattori:**
+- Da società privata a ente, fino a ministero delle poste.
+- Da ministero a società privata, fino a ente pubblico.
+
+**D:** ⚠️ A quale fase del ciclo di vita è giunto il business della corrispondenza, e che cosa aggiunge il docente della lezione 08?
+**R:** Alla **maturità**, come dice la slide: «Il business della corrispondenza ha raggiunto una fase di maturità del proprio ciclo di vita». Il docente aggiunge «ma potremmo dire anche di **declino**» e parla di un andamento «molto decrescente». Nei quiz vale la parola della slide, maturità.
+**Opzione:** Alla maturità; il docente aggiunge che si potrebbe dire anche declino.
+**Distrattori:**
+- All'introduzione; il docente aggiunge che si potrebbe dire anche sviluppo.
+- Allo sviluppo; il docente aggiunge che la crescita è trainata dal corriere espresso.
+
+### Flashcard dai quiz — lezione 08
+
+**D:** ⚠️ Quali sono le tre dimensioni del raggio d'azione di un'impresa, secondo il test della lezione 08?
+**R:** **Integrazione verticale, dimensione geografica e combinazione prodotto-mercato.** ⚠️ Non compaiono come terna nelle lezioni 01–08. Distrattori del test: «integrazione orizzontale, dimensione settoriale e combinazione prodotto-mercato», «integrazione verticale, dimensione geografica e combinazione domanda-offerta» (coda sostituita), «integrazione orizzontale e dimensione settoriale».
+**Opzione:** Integrazione verticale, dimensione geografica e combinazione prodotto-mercato.
+**Distrattori:**
+- Integrazione orizzontale, dimensione settoriale e combinazione prodotto-mercato.
+- Integrazione verticale, dimensione geografica e combinazione domanda-offerta.
+- Integrazione orizzontale e dimensione settoriale.
+
+**D:** ⚠️ Il modello di crescita per adiacenze, secondo il test della lezione 08:
+**R:** **Identifica sei dimensioni.** Sono le sei direzioni della crescita della lezione 05: step di filiera, business, prodotti, segmenti di clientela, canali, aree geografiche. I tre distrattori del test sono tutti negazioni: «non rappresenta un avanzamento del modello delle tre dimensioni del raggio d'azione», «non presenta la dimensione area geografica», «non presenta la dimensione step della filiera».
+**Opzione:** Identifica sei dimensioni.
+**Distrattori:**
+- Non rappresenta un avanzamento del modello delle tre dimensioni del raggio d'azione.
+- Non presenta la dimensione area geografica.
+- Non presenta la dimensione step della filiera.
+
+**D:** ⚠️ La curva di esperienza, secondo il test della lezione 08:
+**R:** **Si riferisce alla diminuzione dei costi in seguito all'aumento del volume di produzione cumulata.** Distrattori del test: «riguarda la diminuzione dei costi all'aumentare della capacità produttiva», cioè le economie di scala; «gli effetti della curva di apprendimento sono da ricondursi unicamente all'apprendimento dei dipendenti», la lettura degli anni '50 che il docente della lezione 05 chiamava «riduttiva»; «all'aumentare delle risorse».
+**Opzione:** Si riferisce alla diminuzione dei costi in seguito all'aumento del volume di produzione cumulata.
+**Distrattori:**
+- Riguarda la diminuzione dei costi all'aumentare della capacità produttiva.
+- Sostiene che gli effetti della curva di apprendimento sono da ricondursi unicamente all'apprendimento dei dipendenti.
+- Riguarda la diminuzione dei costi all'aumentare delle risorse.
+
+**D:** ⚠️ Le dimensioni e il raggio d'azione di un'azienda, secondo il test della lezione 08:
+**R:** **Dipendono anche da riduzioni trasversali dei costi di più unità o funzioni**: sono le economie di varietà o raggio d'azione della lezione 06, con i costi fissi condivisi e le attività comuni. Distrattori del test: «dipendono esclusivamente dalle economie di scala delle diverse attività» e «possono essere applicate solo alla produzione di beni», due quantificatori assoluti; «dipendono dalle competenze interne».
+**Opzione:** Dipendono anche da riduzioni trasversali dei costi di più unità o funzioni.
+**Distrattori:**
+- Dipendono esclusivamente dalle economie di scala delle diverse attività.
+- Possono essere applicate solo alla produzione di beni.
+- Dipendono dalle competenze interne.
+
+**D:** ⚠️ Le esternalità di rete, secondo il test della lezione 08:
+**R:** **Si verificano quando la valutazione di un prodotto da parte di un consumatore cresce in seguito all'aumento del numero dei consumatori che acquistano o consumano tale bene.** ⚠️ Non è la formula della lezione 06 («L'azienda si costringe a crescere stimolando esasperatamente la domanda»). Distrattori del test: «non sono una fonte di vantaggio che stimola l'espansione di un'azienda in un settore», che nega la lezione 06; «il costo medio diminuisce in seguito all'aumento del volume di produzione», cioè le economie di scala; «produrre e distribuire più prodotti contemporaneamente riduce i costi», cioè le economie di varietà.
+**Opzione:** Si verificano quando la valutazione di un prodotto da parte di un consumatore cresce in seguito all'aumento del numero dei consumatori che acquistano o consumano tale bene.
+**Distrattori:**
+- Non sono una fonte di vantaggio che stimola l'espansione di un'azienda in un settore.
+- Si verificano quando il costo medio diminuisce in seguito all'aumento del volume di produzione.
+- Si verificano quando produrre e distribuire più prodotti contemporaneamente riduce i costi.
