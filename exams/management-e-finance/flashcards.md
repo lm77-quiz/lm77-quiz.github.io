@@ -3836,3 +3836,267 @@
 - Si realizza solo in ambiti di piccole e medie imprese.
 - Favorisce acquisizioni diversificate.
 - Non è adatto alle grandi corporation.
+
+## Lezione 16 — Stato patrimoniale e riclassificazione
+
+**D:** ⚠️ Qual è l'equazione dello stato patrimoniale (lezione 16)?
+**R:** «**Attività = Passività + Capitale netto (equity)**». Le attività sono gli investimenti, passività e capitale netto il modo in cui sono stati finanziati.
+**Opzione:** Attività = Passività + Capitale netto (equity)
+**Distrattori:**
+- Attività = Passività − Capitale netto (equity)
+- Passività = Attività + Capitale netto (equity)
+- Capitale netto (equity) = Attività + Passività
+
+**D:** ⚠️ Che cosa rappresentano le attività nello stato patrimoniale (lezione 16)?
+**R:** «Gli **investimenti effettuati** e i **beni acquisiti** dall'azienda». Passività e capitale netto rappresentano invece il modo in cui gli investimenti vengono finanziati.
+**Opzione:** Gli investimenti effettuati e i beni acquisiti dall'azienda.
+**Distrattori:**
+- Il modo in cui vengono finanziati gli investimenti.
+- I debiti contratti dall'azienda verso terzi.
+- Il capitale versato dagli azionisti.
+
+**D:** ⚠️ Che cosa rappresentano le passività e il capitale netto nello stato patrimoniale (lezione 16)?
+**R:** «Il **modo in cui vengono finanziati** gli investimenti». Le attività rappresentano invece gli investimenti effettuati e i beni acquisiti.
+**Opzione:** Il modo in cui vengono finanziati gli investimenti.
+**Distrattori:**
+- Gli investimenti effettuati e i beni acquisiti dall'azienda.
+- La liquidità disponibile per far fronte alle passività a breve.
+- Gli utili distribuiti agli azionisti sotto forma di dividendi.
+
+**D:** Che differenza c'è fra capitale proprio e capitale di terzi, secondo il docente della lezione 16?
+**R:** Il capitale **proprio** «è stato versato dagli **azionisti**» ed esprime la loro proprietà; il capitale **di terzi** è «quello che vado a cercare sul **mercato**, non ultimo, sul mercato finanziario».
+**Opzione:** Il proprio è versato dagli azionisti, quello di terzi si cerca sul mercato, anche finanziario.
+**Distrattori:**
+- Il proprio si cerca sul mercato finanziario, quello di terzi è versato dagli azionisti.
+- Il proprio è versato dagli azionisti di maggioranza, quello di terzi dai soci di minoranza.
+
+**D:** ⚠️ Dove può avere un ruolo maggiore la quota di capitale netto, secondo il docente della lezione 16?
+**R:** «Laddove c'è un **mercato finanziario efficiente**», ed è più facile attingere al mercato azionario: con più soci e un capitale azionario più forte si possono mettere sul mercato più azioni, rispetto a un sistema legato all'**indebitamento**.
+**Opzione:** Dove c'è un mercato finanziario efficiente e si attinge più facilmente al mercato azionario.
+**Distrattori:**
+- Dove il sistema industriale è legato all'indebitamento bancario.
+- Dove il mercato azionario ha bassa liquidità e pochi soci.
+
+**D:** ⚠️ Secondo quali criteri può essere riclassificato lo stato patrimoniale (lezione 16)?
+**R:** **Liquidità ed esigibilità**; **pertinenza gestionale**. Il primo guarda a quanto le voci sono prossime alla liquidità e a quanto è vicina la scadenza dei pagamenti; il secondo distingue le attività operative da quelle finanziarie.
+**Opzione:** Liquidità ed esigibilità; pertinenza gestionale.
+**Distrattori:**
+- Liquidità ed esigibilità; pertinenza finanziaria.
+- Liquidità e redditività; pertinenza gestionale.
+- Redditività ed esigibilità; pertinenza gestionale.
+
+**D:** ⚠️ Quali sono, nell'ordine, i tre gruppi delle attività a breve termine nel prospetto per liquidità ed esigibilità (lezione 16)?
+**R:** **Liquidità immediate** (cassa, titoli a breve termine); **liquidità differite** (crediti verso clienti, effetti attivi); **disponibilità** (scorte, ratei e risconti attivi).
+**Opzione:** Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
+**Distrattori:**
+- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (scorte, ratei e risconti attivi); disponibilità (crediti verso clienti, effetti attivi).
+- Liquidità immediate (cassa, crediti verso clienti); liquidità differite (titoli a breve termine, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
+- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (partecipazioni, titoli a lungo termine).
+
+**D:** ⚠️ In quale gruppo del prospetto per liquidità ed esigibilità stanno i crediti verso clienti (lezione 16)?
+**R:** Fra le **liquidità differite**, con gli effetti attivi. Le liquidità immediate sono cassa e titoli a breve termine; le disponibilità sono scorte, ratei e risconti attivi.
+**Opzione:** Fra le liquidità differite.
+**Distrattori:**
+- Fra le liquidità immediate.
+- Fra le disponibilità.
+- Fra le immobilizzazioni finanziarie.
+
+**D:** ⚠️ Dove stanno i titoli nel prospetto per liquidità ed esigibilità (lezione 16)?
+**R:** Quelli **a breve termine** fra le **liquidità immediate**, con la cassa; quelli **a lungo termine** fra le **immobilizzazioni finanziarie**, con le partecipazioni.
+**Opzione:** Titoli a breve fra le liquidità immediate, titoli a lungo termine fra le immobilizzazioni finanziarie.
+**Distrattori:**
+- Titoli a breve fra le liquidità differite, titoli a lungo termine fra le immobilizzazioni finanziarie.
+- Titoli a breve fra le liquidità immediate, titoli a lungo termine fra le passività a medio-lungo termine.
+- Titoli a breve fra le disponibilità, titoli a lungo termine fra le immobilizzazioni immateriali.
+
+**D:** ⚠️ Quali sono le immobilizzazioni delle attività a medio-lungo termine, e che cosa comprendono, nel prospetto per liquidità ed esigibilità (lezione 16)?
+**R:** **Materiali**: impianti, macchinari, immobili. **Immateriali**: brevetti, know-how, licenze, **marchi**. **Finanziarie**: partecipazioni, titoli a lungo termine. Il docente, fra le immateriali, non nomina i marchi ([00:06:06]).
+**Opzione:** Materiali (impianti, macchinari, immobili); immateriali (brevetti, know-how, licenze, marchi); finanziarie (partecipazioni, titoli a lungo termine).
+**Distrattori:**
+- Materiali (impianti, macchinari, immobili); immateriali (brevetti, know-how, licenze, marchi); finanziarie (cassa, titoli a breve termine).
+- Materiali (impianti, macchinari, marchi); immateriali (brevetti, know-how, licenze, immobili); finanziarie (partecipazioni, titoli a lungo termine).
+- Materiali (impianti, macchinari, immobili); immateriali (brevetti, know-how, licenze, partecipazioni); finanziarie (marchi, titoli a lungo termine).
+
+**D:** ⚠️ Quali sono, nell'ordine, le passività a breve termine del prospetto per liquidità ed esigibilità (lezione 16)?
+**R:** Scoperto c/c bancario; debiti verso fornitori; debiti tributari; debiti a breve termine; ratei e risconti passivi. Lo scoperto viene per primo perché ha un tasso di interesse molto alto rispetto ad altre forme di prestito.
+**Opzione:** Scoperto c/c bancario; debiti verso fornitori; debiti tributari; debiti a breve termine; ratei e risconti passivi.
+**Distrattori:**
+- Scoperto c/c bancario; debiti verso fornitori; debiti tributari; debiti a breve termine; debiti TFR.
+- Mutui passivi; debiti verso fornitori; debiti tributari; debiti a breve termine; ratei e risconti passivi.
+- Scoperto c/c bancario; debiti verso fornitori; prestiti obbligazionari; debiti a breve termine; ratei e risconti passivi.
+
+**D:** ⚠️ Quali sono le passività a medio-lungo termine del prospetto per liquidità ed esigibilità (lezione 16)?
+**R:** Mutui passivi; debiti a lungo termine; prestiti obbligazionari; debiti TFR (Trattamento di Fine Rapporto).
+**Opzione:** Mutui passivi; debiti a lungo termine; prestiti obbligazionari; debiti TFR.
+**Distrattori:**
+- Mutui passivi; debiti a lungo termine; prestiti obbligazionari; debiti tributari.
+- Scoperto c/c bancario; debiti a lungo termine; prestiti obbligazionari; debiti TFR.
+- Mutui passivi; debiti a lungo termine; partecipazioni; debiti TFR.
+
+**D:** ⚠️ Quali sono le voci del capitale netto nei prospetti della lezione 16?
+**R:** Capitale sociale; riserve; utili (perdite) di esercizio. Sono le stesse in entrambe le riclassificazioni.
+**Opzione:** Capitale sociale; riserve; utili (perdite) di esercizio.
+**Distrattori:**
+- Capitale sociale; riserve; prestiti obbligazionari.
+- Capitale sociale; debiti TFR; utili (perdite) di esercizio.
+- Capitale sociale; riserve; mutui passivi.
+
+**D:** Perché lo scoperto di conto corrente bancario è la prima passività a breve da estinguere, secondo il docente della lezione 16?
+**R:** Perché «ha un **tasso di interesse molto alto** rispetto a altre forme di prestito».
+**Opzione:** Perché ha un tasso di interesse molto alto rispetto ad altre forme di prestito.
+**Distrattori:**
+- Perché ha un tasso di interesse molto basso rispetto ad altre forme di prestito.
+- Perché i fornitori devono essere pagati.
+
+**D:** ⚠️ Con quali fonti vanno finanziate le attività a medio-lungo termine, secondo la lezione 16?
+**R:** Con fonti **a medio-lungo termine**: le **passività a medio-lungo** (debiti a medio-lungo, mutui) oppure il **capitale netto**, «che pure è una forma di passivo consolidato». «Non si può certo pensare di affidare la crescita delle attività a medio e lungo termine attraverso delle passività breve»: il ritorno di lungo periodo non si concilia con l'estinzione a breve dei debiti.
+**Opzione:** Con passività a medio-lungo termine o con il capitale netto.
+**Distrattori:**
+- Con passività a breve termine, come lo scoperto di conto corrente.
+- Solo con passività a medio-lungo termine, mai con il capitale netto.
+- Con il capitale circolante netto.
+
+**D:** ⚠️ Che cosa esprime il rapporto fra passività a medio-lungo termine e capitale netto, secondo il docente della lezione 16?
+**R:** La **solidità finanziaria** dell'impresa. Più capitale netto c'è, tanto più gli azionisti credono nella corporation, che diventa un investimento profittevole per qualunque investitore esterno.
+**Opzione:** La solidità finanziaria: più capitale netto, più gli azionisti credono nella corporation.
+**Distrattori:**
+- La solidità finanziaria: più passività a medio-lungo, più gli azionisti credono nella corporation.
+- La liquidità: più capitale netto, più l'impresa fa fronte alle passività a breve.
+
+**D:** ⚠️ Come si calcola il capitale circolante netto (CCN) nella lezione 16?
+**R:** «**Capitale circolante netto = Attività a breve – Passività a breve**». Usa le voci del prospetto per liquidità ed esigibilità.
+**Opzione:** Attività a breve − Passività a breve.
+**Distrattori:**
+- Passività a breve − Attività a breve.
+- Passività finanziarie − Cassa.
+- Attività a medio-lungo − Passività a medio-lungo.
+
+**D:** ⚠️ Che cosa significa avere un capitale circolante netto positivo (lezione 16)?
+**R:** «Disporre di una **liquidità sufficiente** a far fronte alle **passività a breve** che si determinano». «È importante fare in modo che il capitale circolante netto sia positivo».
+**Opzione:** Disporre di una liquidità sufficiente a far fronte alle passività a breve che si determinano.
+**Distrattori:**
+- Disporre di una liquidità sufficiente a far fronte alle passività a medio-lungo termine.
+- Disporre di un capitale netto sufficiente a finanziare le immobilizzazioni.
+- Avere passività a breve superiori alle attività a breve.
+
+**D:** ⚠️ Con che cosa non va confuso il CCN, e in quale riclassificazione si analizza (lezione 16)?
+**R:** Con il **CCC**, il **Capitale Circolante Commerciale**, «che sarà analizzato nella riclassificazione a **pertinenza gestionale**». «CCN e CCC sono diversi e hanno diverse implicazioni».
+**Opzione:** Con il CCC, Capitale Circolante Commerciale, analizzato nella riclassificazione a pertinenza gestionale.
+**Distrattori:**
+- Con il CCC, Capitale Circolante Commerciale, analizzato nella riclassificazione per liquidità ed esigibilità.
+- Con il CCC, Capitale Circolante Corrente, analizzato nella riclassificazione a pertinenza gestionale.
+- Con il CCC, Capitale Circolante Corrente, analizzato nella riclassificazione per liquidità ed esigibilità.
+
+**D:** A che cosa serve il capitale circolante, secondo il docente della lezione 16?
+**R:** A «finanziare l'**operativo**», «la vita delle imprese». Un capitale circolante netto forte permette di far fronte a **situazioni di emergenza** e a condizioni di **forte variabilità della domanda**: «è un'espressione di un'azienda sana».
+**Opzione:** A finanziare l'operativo: se è forte, si fa fronte alle emergenze e alla variabilità della domanda.
+**Distrattori:**
+- A finanziare le acquisizioni: se è forte, si fa fronte alle scalate ostili.
+- A remunerare gli azionisti: se è forte, si distribuiscono più dividendi.
+
+**D:** ⚠️ Che cosa distingue la riclassificazione per pertinenza gestionale da quella per liquidità ed esigibilità, secondo la lezione 16?
+**R:** «Qui non c'è il problema dell'immediata liquidità ma c'è la distinzione fra **attività operative** e **attività finanziarie**». Le voci «non sono distinti per liquidità ma piuttosto essi sono distinti per **natura**, per **funzione**».
+**Opzione:** La distinzione fra attività operative e attività finanziarie, per natura e funzione, non per liquidità.
+**Distrattori:**
+- La distinzione per scadenza, fra voci a breve e a medio-lungo termine.
+- La distinzione fra attività materiali e attività immateriali.
+
+**D:** ⚠️ Quali sono le attività correnti nel prospetto per pertinenza gestionale (lezione 16)?
+**R:** Crediti verso clienti; scorte; ratei e risconti (correnti); altre attività correnti. ⚠️ Non c'è la cassa, che è un'attività non corrente non operativa.
+**Opzione:** Crediti verso clienti; scorte; ratei e risconti (correnti); altre attività correnti.
+**Distrattori:**
+- Cassa; crediti verso clienti; scorte; ratei e risconti (correnti).
+- Crediti verso clienti; scorte; ratei e risconti (correnti); immobilizzazioni finanziarie operative.
+- Crediti verso clienti; titoli a breve termine; ratei e risconti (correnti); altre attività correnti.
+
+**D:** ⚠️ Quali sono le attività non correnti (operative) nel prospetto per pertinenza gestionale (lezione 16)?
+**R:** Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; ratei e risconti (non correnti). Insieme alle attività correnti formano le «attività operative».
+**Opzione:** Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; ratei e risconti (non correnti).
+**Distrattori:**
+- Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; cassa e altre liquidità; ratei e risconti (non correnti).
+- Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; scorte.
+- Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie non operative; ratei e risconti (non correnti).
+
+**D:** ⚠️ Dove sta la cassa nel prospetto per pertinenza gestionale (lezione 16)?
+**R:** Fra le **attività non correnti non operative**: «Cassa e altre liquidità». Non riguarda l'attività operativa dell'impresa. ⚠️ Nel prospetto per liquidità ed esigibilità, invece, la cassa apre le attività a breve, fra le **liquidità immediate**.
+**Opzione:** Fra le attività non correnti non operative.
+**Distrattori:**
+- Fra le attività correnti.
+- Fra le liquidità immediate.
+- Fra le attività non correnti operative.
+
+**D:** ⚠️ Quali sono le passività correnti nel prospetto per pertinenza gestionale (lezione 16)?
+**R:** Debiti verso fornitori; ratei e risconti (correnti); altre passività correnti (**debiti TFR**, **debiti tributari**). ⚠️ Lo scoperto c/c bancario non c'è: è fra le passività non correnti.
+**Opzione:** Debiti verso fornitori; ratei e risconti (correnti); altre passività correnti (debiti TFR, debiti tributari).
+**Distrattori:**
+- Scoperto c/c bancario; debiti verso fornitori; ratei e risconti (correnti).
+- Debiti verso fornitori; ratei e risconti (correnti); altre passività correnti (mutui passivi, debiti tributari).
+- Debiti verso fornitori; ratei e risconti (correnti); altre passività correnti (debiti TFR, prestiti obbligazionari).
+
+**D:** ⚠️ Quali sono le passività non correnti nel prospetto per pertinenza gestionale (lezione 16)?
+**R:** Mutui passivi; **scoperto c/c bancario**; prestiti obbligazionari; ratei e risconti (non correnti).
+**Opzione:** Mutui passivi; scoperto c/c bancario; prestiti obbligazionari; ratei e risconti (non correnti).
+**Distrattori:**
+- Mutui passivi; debiti TFR; prestiti obbligazionari; ratei e risconti (non correnti).
+- Mutui passivi; scoperto c/c bancario; prestiti obbligazionari; debiti verso fornitori.
+- Mutui passivi; scoperto c/c bancario; capitale sociale; ratei e risconti (non correnti).
+
+**D:** ⚠️ Dove sta lo scoperto di c/c bancario nei due prospetti della lezione 16?
+**R:** Nel prospetto per **liquidità ed esigibilità** è la prima delle **passività a breve termine**; nel prospetto per **pertinenza gestionale** è fra le **passività non correnti**, perché lì le voci sono distinte per natura e funzione, non per liquidità.
+**Opzione:** Passività a breve per liquidità ed esigibilità; passività non corrente per pertinenza gestionale.
+**Distrattori:**
+- Passività a breve per liquidità ed esigibilità; passività corrente per pertinenza gestionale.
+- Passività a medio-lungo per liquidità ed esigibilità; passività non corrente per pertinenza gestionale.
+- Passività a medio-lungo per liquidità ed esigibilità; passività corrente per pertinenza gestionale.
+
+**D:** ⚠️ Dove stanno i debiti TFR nei due prospetti della lezione 16?
+**R:** Nel prospetto per **liquidità ed esigibilità** fra le **passività a medio-lungo termine**; nel prospetto per **pertinenza gestionale** fra le **passività correnti** («altre passività correnti», con i debiti tributari). È il percorso inverso dello scoperto di c/c bancario.
+**Opzione:** Passività a medio-lungo per liquidità ed esigibilità; passività corrente per pertinenza gestionale.
+**Distrattori:**
+- Passività a breve per liquidità ed esigibilità; passività corrente per pertinenza gestionale.
+- Passività a medio-lungo per liquidità ed esigibilità; passività non corrente per pertinenza gestionale.
+- Passività a breve per liquidità ed esigibilità; passività non corrente per pertinenza gestionale.
+
+**D:** ⚠️ Che cos'è il CINO e come si compone (lezione 16)?
+**R:** Il **Capitale investito netto operativo**: nello schema della slide 7 è la somma del **CCC** (capitale circolante commerciale) e delle **immobilizzazioni operative**. Restano fuori le immobilizzazioni non operative e la cassa.
+**Opzione:** Il capitale investito netto operativo, somma del CCC e delle immobilizzazioni operative.
+**Distrattori:**
+- Il capitale investito netto operativo, somma del CCN e delle immobilizzazioni operative.
+- Il capitale investito netto operativo, somma del CCC e delle immobilizzazioni non operative.
+- Il capitale investito netto operativo, somma del CCC e della cassa.
+
+**D:** ⚠️ Come si calcola la PFN nella lezione 16?
+**R:** «**PFN = Passività finanziarie − Cassa**». Le passività finanziarie dello schema sono quelle non correnti. ⚠️ Il docente, a [00:20:06], la descrive per lapsus come «differenze fra attività correnti e passività correnti», che è il CCN, e poi si corregge.
+**Opzione:** Passività finanziarie − Cassa.
+**Distrattori:**
+- Attività correnti − Passività correnti.
+- Passività finanziarie + Cassa.
+- Cassa − Passività finanziarie.
+
+**D:** Perché la PFN è importante, secondo il docente della lezione 16?
+**R:** Perché le passività finanziarie non correnti «**assorbiranno cassa**»: bisogna capire come si correlano con la disponibilità di cassa, per sapere «qual è la cassa che potrà essere erogata o potrà essere utilizzata dal gruppo».
+**Opzione:** Perché le passività finanziarie non correnti assorbiranno cassa: dice quanta cassa il gruppo potrà usare.
+**Distrattori:**
+- Perché le passività finanziarie non correnti genereranno cassa: dice quanti dividendi il gruppo potrà distribuire.
+- Perché misura la liquidità per far fronte alle passività a breve.
+
+**D:** ⚠️ Perché gli operatori finanziari attualizzano i flussi di cassa e non gli utili, secondo il docente della lezione 16?
+**R:** Perché sugli utili agiscono fattori «non sempre gestibili dall'impresa»: il fattore **tasse**, il fattore **riserva**, la scelta di **reinvestire** parte degli utili in attività industriali. Gli utili riflettono una logica industriale; la generazione di cash flow indica la solidità della cassa.
+**Opzione:** Perché sugli utili agiscono fattori non sempre gestibili dall'impresa, come tasse, riserve e reinvestimento.
+**Distrattori:**
+- Perché gli utili non compaiono nel bilancio consolidato.
+- Perché sui flussi di cassa agiscono fattori non sempre gestibili dall'impresa, come tasse, riserve e reinvestimento.
+
+**D:** Che cosa segnala al mercato un'azienda familiare con un capitale esiguo rispetto alle fonti di terzi, secondo il docente della lezione 16?
+**R:** Le scelte sull'assetto del capitale sono «una **cartina di tornasole** della **fiducia** che gli azionisti stessi hanno della loro impresa». Un capitale esiguo rispetto a debiti, mutui e scoperti è un'anomalia, non un segnale utile per i mercati finanziari internazionali: trasmette **debolezza** invece di solidità.
+**Opzione:** Poca fiducia degli azionisti nella propria impresa: un segnale di debolezza.
+**Distrattori:**
+- Molta fiducia delle banche: un segnale di solidità.
+- Un'efficiente gestione della cassa: un segnale di solidità.
+
+**D:** ⚠️ Con quali azioni concrete la proprietà deve partecipare alla scelta di crescere, secondo la conclusione della lezione 16?
+**R:** Azioni di **ricapitalizzazione**, di **rafforzamento del capitale sociale** per difendersi da scalate ostili, di **estinzione del debito**: bisogna dare all'esterno un'immagine di **solidità**, per crescere sui mercati azionari senza esporsi a eventuali scalate ostili.
+**Opzione:** Ricapitalizzazione, rafforzamento del capitale sociale contro le scalate ostili, estinzione del debito.
+**Distrattori:**
+- Ricapitalizzazione, rafforzamento del capitale sociale contro le scalate ostili, aumento del debito a breve.
+- Distribuzione degli utili, riduzione del capitale sociale, estinzione del debito.
