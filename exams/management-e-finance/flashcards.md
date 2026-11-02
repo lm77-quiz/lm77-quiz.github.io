@@ -3612,3 +3612,227 @@
 - Si lega a contesti in cui i mercati finanziari non sono efficienti.
 - È sconnesso dai contesti finanziari.
 - È favorito dalle pratiche del civil law.
+
+## Lezione 15 — La struttura societaria e le scelte strategiche 3
+
+**D:** ⚠️ Perché l'Italia è un caso anomalo rispetto ai modelli di corporate governance (lezione 15)?
+**R:** Perché in Italia «non sono presenti intermediari finanziari di dimensioni paragonabili a quelle di un sistema **"banco centrico"**», né esiste un mercato azionario con adeguati livelli di **liquidità, ampiezza ed efficienza** come quello **americano**. Non ha né le banche del modello tedesco né la Borsa del modello americano.
+**Opzione:** Non ha intermediari finanziari da sistema banco centrico né un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano.
+**Distrattori:**
+- Ha intermediari finanziari da sistema banco centrico, ma non un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano.
+- Ha un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano, ma non intermediari finanziari da sistema banco centrico.
+- Non ha intermediari finanziari da sistema banco centrico né un mercato azionario con adeguata liquidità, trasparenza e capitalizzazione come quello tedesco.
+
+**D:** ⚠️ Quali sono le caratteristiche del sistema paese italiano (lezione 15)?
+**R:** Le PMI rappresentano l'ossatura portante del sistema; assenza di vere e proprie public companies; presenza di grandi imprese familiari; quotazione sul mercato azionario limitata; forte presenza storica dello Stato e degli enti locali; le banche e le istituzioni finanziarie non hanno un'importanza rilevante nel sistema.
+**Opzione:** PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
+**Distrattori:**
+- PMI ossatura portante; presenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
+- PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie con importanza rilevante.
+- PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione diffusa; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
+
+**D:** Che ruolo ha avuto la Banca d'Italia nel sistema bancario italiano, secondo la lezione 15?
+**R:** Ha **impedito** che le banche si facessero concorrenza fra loro, con un ruolo di **mitigatore** e di **controllore**, attraverso la vigilanza e le azioni ispettive, per evitare crisi e fallimenti. L'esempio è il **Banco di Napoli**, salvato con la fusione con Intesa Sanpaolo.
+**Opzione:** Ha impedito che le banche si facessero concorrenza, come mitigatore e controllore con vigilanza e ispezioni.
+**Distrattori:**
+- Ha favorito la concorrenza fra le banche e le scalate ostili fra gruppi.
+- Ha nominato i consigli di amministrazione dei grandi gruppi industriali.
+
+**D:** ⚠️ Qual è il grande problema delle PMI italiane, secondo il docente della lezione 15?
+**R:** **Trasformare le piccole imprese almeno in medie**, perché i mercati richiedono una solidità finanziaria, strutturale e operativa almeno da media impresa. Per crescere l'imprenditore ha bisogno di **soci**, finanziari o industriali, anche di minoranza, e di **manager**: un «salto culturale» importante.
+**Opzione:** Trasformare le piccole imprese almeno in medie, aprendosi a soci e manager.
+**Distrattori:**
+- Trasformare le medie imprese in piccole, per ridurre i costi.
+- Quotare tutte le piccole imprese sui mercati internazionali.
+
+**D:** Perché in Italia la quotazione sul mercato azionario è limitata, secondo il docente della lezione 15?
+**R:** Il numero di azioni effettivamente esposte è basso «proprio per evitare operazioni di **scalata ostile**».
+**Opzione:** Per evitare operazioni di scalata ostile.
+**Distrattori:**
+- Per un divieto dell'Unione Europea.
+- Per attirare i fondi di investimento esteri.
+
+**D:** ⚠️ Che cos'è la golden share, secondo la lezione 15?
+**R:** «Il potere di **veto** attribuito al soggetto politico quando lo **Stato** ha un interesse **strategico** in certi comparti». A volte è esercitata anche per obiettivi sociali, di sicurezza nazionale e di emergenza.
+**Opzione:** Il potere di veto attribuito al soggetto politico quando lo Stato ha un interesse strategico in certi comparti.
+**Distrattori:**
+- Il pacchetto di controllo venduto a un unico investitore nelle privatizzazioni.
+- Il diritto dei lavoratori di essere rappresentati nell'organo di controllo.
+
+**D:** Come si tutelano le banche italiane quando finanziano i progetti dei grandi gruppi, secondo la lezione 15?
+**R:** Non agiscono sul capitale sociale, «stanno alla finestra»; su alcuni progetti creano **consorzi** o **cartelli bancari**, per non esporsi direttamente al rischio.
+**Opzione:** Creando consorzi o cartelli bancari, per non esporsi direttamente al rischio.
+**Distrattori:**
+- Entrando nel capitale sociale dei grandi gruppi.
+- Sedendo nell'organo di controllo, come nel modello renano.
+
+**D:** ⚠️ Quali sono le caratteristiche del modello di corporate governance di una PMI (lezione 15)?
+**R:** Squilibrio a vantaggio dell'azionista che normalmente è coinvolto nella gestione aziendale; l'informazione e i principi contabili sono molto deboli; il finanziamento è in prevalenza sotto forma di credito (banche e fornitori); i creditori hanno scarso potere di disciplina; un costante monitoring da parte delle banche sarebbe necessario per limitare il moral hazard.
+**Opzione:** Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento a credito; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+**Distrattori:**
+- Squilibrio a vantaggio dei soci di minoranza; informazione e principi contabili deboli; finanziamento a credito; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+- Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento con capitale di rischio; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+- Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento a credito; creditori con forte potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+
+**D:** ⚠️ Perché nelle PMI i creditori hanno scarso potere di disciplina, secondo la lezione 15?
+**R:** «I **fornitori** per ragioni **commerciali**, le **banche** perché **frazionate**». I fornitori accettano dilazioni per non perdere il cliente; le banche, con le regole di Basilea, frazionano il rischio e diversificano le linee di credito.
+**Opzione:** I fornitori per ragioni commerciali, le banche perché frazionate.
+**Distrattori:**
+- I fornitori perché frazionati, le banche per ragioni commerciali.
+- I fornitori e le banche perché siedono nel consiglio di amministrazione.
+
+**D:** ⚠️ Che cosa dice la slide della governance delle PMI sul monitoring delle banche?
+**R:** «Un costante monitoring da parte delle banche **sarebbe necessario** per limitare il **moral hazard**»: è un condizionale, che segnala che il monitoring manca. ⚠️ Il docente dice invece che «c'è un monitoraggio costante», che frena l'imprenditore che «pensa di sapere tutto, di potere tutto». Nei quiz vale la slide.
+**Opzione:** Un costante monitoring da parte delle banche sarebbe necessario per limitare il moral hazard.
+**Distrattori:**
+- Un costante monitoring da parte delle banche aumenterebbe il moral hazard.
+- Un costante monitoring da parte dei fornitori sarebbe necessario per limitare il moral hazard.
+
+**D:** In che cosa consiste lo squilibrio a vantaggio dell'azionista nelle PMI, secondo il docente della lezione 15?
+**R:** L'imprenditore-proprietario che cede una piccola quota continua a gestire l'azienda con l'**80 o il 90%** del capitale; chi detiene il 10 o il 20% «non prova proprio a esercitare il proprio ruolo»: «una disparità di responsabilità».
+**Opzione:** L'imprenditore gestisce con l'80–90% del capitale, e chi ha il 10–20% non esercita il proprio ruolo.
+**Distrattori:**
+- Il socio di minoranza gestisce l'azienda, e l'imprenditore ne resta fuori.
+- Tutti i soci partecipano alla gestione in proporzione alle quote.
+
+**D:** Perché le PMI si finanziano soprattutto a credito, secondo il docente della lezione 15?
+**R:** Perché c'è un unico **capitalista di riferimento**, con una capacità finanziaria limitata, che piuttosto che metterci soldi suoi «preferisce invece **indebitare l'azienda** con il sistema bancario». I fornitori allungano i tempi di pagamento, le banche concedono credito.
+**Opzione:** Perché l'unico capitalista di riferimento ha mezzi limitati e preferisce indebitare l'azienda piuttosto che metterci soldi suoi.
+**Distrattori:**
+- Perché la Borsa offre loro capitali abbondanti a basso costo.
+- Perché le banche entrano nel loro capitale sociale.
+
+**D:** ⚠️ Quali sono le caratteristiche del sistema di corporate governance italiano (lezione 15)?
+**R:** Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management della società; mancanza di controlli efficaci sull'operato del management.
+**Opzione:** Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
+**Distrattori:**
+- Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; basso rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
+- Proprietà diffusa; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
+- Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e banche; mancanza di controlli efficaci sul management.
+
+**D:** ⚠️ Che cosa sono i gruppi piramidali, secondo il docente della lezione 15?
+**R:** Gruppi senza una governance condivisa né una forte delega, con un **accentramento del potere** verso i vertici attraverso **partecipazioni incrociate** che portano alla **holding** di famiglia o del gruppo. Le decisioni strategiche, e anche quelle operative, si prendono al livello corporate: non c'è la preservazione dell'autonomia delle business unit.
+**Opzione:** Gruppi con il potere accentrato ai vertici, attraverso partecipazioni incrociate che portano alla holding di famiglia.
+**Distrattori:**
+- Gruppi con forte delega e autonomia delle business unit.
+- Gruppi con proprietà diffusa e management contendibile.
+
+**D:** ⚠️ Perché nel sistema italiano mancano controlli efficaci sul management, secondo la lezione 15?
+**R:** Perché c'è un elevato rischio di **collusione** tra proprietà e management: i manager sono «fortemente appiattiti sulle esigenze della proprietà» e sono «l'espressione della volontà della proprietà».
+**Opzione:** Perché i manager sono appiattiti sulle esigenze della proprietà e ne esprimono la volontà.
+**Distrattori:**
+- Perché i manager sono autonomi e contendibili, come nell'outsider system.
+- Perché le banche controllano le decisioni dei manager.
+
+**D:** Perché ITA Airways è un investimento poco appetibile, nell'esempio della lezione 15?
+**R:** Per l'**ingerenza pubblica**: l'hub internazionale di **Malpensa** non avrebbe senso per Lufthansa (Francoforte) o Air France (Parigi), e le tratte verso le **isole**, poco remunerative, un privato non le servirebbe più. Il governo vuole conservare un diritto di veto.
+**Opzione:** Per l'ingerenza pubblica: l'hub di Malpensa e le tratte verso le isole non servirebbero a un acquirente privato.
+**Distrattori:**
+- Perché è una public company con un azionariato troppo diffuso.
+- Perché la Banca d'Italia ne vieta l'acquisto a operatori esteri.
+
+**D:** ⚠️ Quali sono le caratteristiche della struttura proprietaria italiana (lezione 15)?
+**R:** Le famiglie e le imprese individuali possiedono oltre la metà delle imprese; esiste una correlazione positiva tra concentrazione proprietaria e dimensioni d'impresa; la partecipazione delle persone fisiche alla proprietà avviene in genere in forma non anonima; modesta presenza negli assetti proprietari di istituzioni finanziarie.
+**Opzione:** Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; modesta presenza di istituzioni finanziarie.
+**Distrattori:**
+- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione negativa tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; modesta presenza di istituzioni finanziarie.
+- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma anonima; modesta presenza di istituzioni finanziarie.
+- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; forte presenza di istituzioni finanziarie.
+
+**D:** ⚠️ Che correlazione c'è fra concentrazione proprietaria e dimensioni d'impresa in Italia (lezione 15)?
+**R:** Una correlazione **positiva**: «tanto è più grande un'impresa tanto **maggiore** è la quota azionaria detenuta dal soggetto controllante». Per il docente è la paura delle scalate ostili, amplificata dal mercato unico europeo.
+**Opzione:** Tanto è più grande un'impresa, tanto maggiore è la quota azionaria detenuta dal soggetto controllante.
+**Distrattori:**
+- Tanto è più grande un'impresa, tanto minore è la quota azionaria detenuta dal soggetto controllante.
+- Non c'è alcuna correlazione fra la dimensione dell'impresa e la quota del soggetto controllante.
+
+**D:** ⚠️ Perché conta che in Italia la partecipazione delle persone fisiche alla proprietà avvenga in forma non anonima?
+**R:** Perché chi compra azioni **dichiara il nome**, e l'acquisizione diventa esplicita. Manca l'anonimato che permetterebbe di comprare in silenzio su mercati diversi e **scalare** piano piano la corporation.
+**Opzione:** Perché chi compra dichiara il nome, e una scalata ostile diventa esplicita.
+**Distrattori:**
+- Perché chi compra resta anonimo, e può scalare in silenzio la corporation.
+- Perché solo le istituzioni finanziarie possono comprare azioni.
+
+**D:** Quali esempi fa il docente della lezione 15 delle «zone d'ombra» del mercato unico europeo?
+**R:** Molte banche italiane sono state comprate da banche francesi, ma la reciprocità non sempre c'è stata: **Pirelli** ha provato a comprare **Continental** ed è stata bloccata dal mercato tedesco; **Enel** ha provato a comprare **Suez** e la Francia ha esercitato la **golden share**.
+**Opzione:** Pirelli bloccata nell'acquisto di Continental; Enel fermata su Suez dalla golden share francese.
+**Distrattori:**
+- Pirelli riuscì a comprare Continental; Enel riuscì a comprare Suez.
+- Continental fermata su Pirelli dalla golden share italiana; Suez riuscì a comprare Enel.
+
+**D:** ⚠️ Di che cosa sono esempio Ferrero, Lavazza, Barilla e Marcegaglia nella slide sulla Borsa della lezione 15?
+**R:** Di imprese private di non piccola dimensione «**ancora assente dalla Borsa**», con un controllo «su stretta base **familiare**». ⚠️ Il docente le cita invece come gruppi che si quotano alla borsa di New York per internazionalizzarsi: vale la slide.
+**Opzione:** Di imprese private di non piccola dimensione, assenti dalla Borsa e con controllo su stretta base familiare.
+**Distrattori:**
+- Di grandi public companies quotate con azionariato diffuso.
+- Di imprese pubbliche privatizzate con il nocciolo duro.
+
+**D:** ⚠️ Come si forma il prezzo nelle acquisizioni italiane, secondo il docente della lezione 15?
+**R:** Non dal mercato, dove si incontrano tante domande e tante offerte, ma da **due parti**: il valore che l'acquirente attribuisce è **soggettivo**, chi vende conosce ciò che vende, e il valore che se ne ricava «non è un valore di equilibrio, è un valore frutto di questa **relazione**». Chi vende per bisogno vende sotto costo, chi ha più potere compra in vantaggio.
+**Opzione:** Da due parti, con un valore soggettivo frutto della relazione, non dall'equilibrio del mercato.
+**Distrattori:**
+- Dal mercato, dove si incontrano tante domande e tante offerte.
+- Dalla Consob, che lo fissa per ogni transazione.
+
+**D:** ⚠️ Che cos'è la «concezione ristretta» di corporate governance nel contesto italiano, secondo la lezione 15?
+**R:** Una governance che si limita «al potere che possono esercitare gli **azionisti di maggioranza**»; gli altri investitori hanno «un ruolo esclusivamente speculativo». Per la slide consente di analizzare **chi detiene il potere di governo** dell'impresa, cioè il rapporto fra proprietà del capitale e titolarità del potere di governo.
+**Opzione:** Una governance limitata al potere degli azionisti di maggioranza, mentre gli altri investitori hanno un ruolo speculativo.
+**Distrattori:**
+- Una governance estesa a tutti gli stakeholder, lavoratori e banche compresi.
+- Una governance limitata al potere del management, separato dalla proprietà.
+
+**D:** ⚠️ Perché nel modello italiano il rapporto fra proprietà e controllo non ha bisogno di costi di agenzia, secondo la lezione 15?
+**R:** Perché «il management è **diretta espressione della proprietà**»: non ci sono manager tanto autonomi da cambiare gli obiettivi strategici, e contano le **relazioni di fiducia** fra manager e proprietà.
+**Opzione:** Perché il management è diretta espressione della proprietà, e contano le relazioni di fiducia.
+**Distrattori:**
+- Perché il management è separato dalla proprietà e controllato dal mercato.
+- Perché le banche controllano il management per conto degli azionisti.
+
+**D:** Perché molti gruppi italiani si quotano in Borsa, secondo il docente della lezione 15?
+**R:** Pochi per un interesse finanziario: molti lo fanno «per dimostrare ai mercati la loro **solidità**», sicuri che una scalata ostile non avrebbe successo; altri per operare sui mercati internazionali.
+**Opzione:** Per dimostrare la propria solidità ai mercati, più che per interesse finanziario.
+**Distrattori:**
+- Per diffondere il capitale e diventare public companies.
+- Per farsi acquisire dai concorrenti esteri.
+
+### Flashcard dai quiz — lezione 15
+
+**D:** ⚠️ Il modello renano, secondo il test della lezione 15 (domanda 1):
+**R:** **Prevede il coinvolgimento dei lavoratori nell'organo di controllo**: è la **co-determinazione** del caso tedesco (lezione 14). Distrattori del test: «nell'organo di **gestione**», cioè il Vorstand; «esclude le rappresentanze dei lavoratori dalla governance»; «coinvolge le associazioni ambientaliste negli organi di controllo».
+**Opzione:** Prevede il coinvolgimento dei lavoratori nell'organo di controllo.
+**Distrattori:**
+- Prevede il coinvolgimento dei lavoratori nell'organo di gestione.
+- Esclude le rappresentanze dei lavoratori dalla governance.
+- Coinvolge le associazioni ambientaliste negli organi di controllo.
+
+**D:** ⚠️ Il modello renano limita, secondo il test della lezione 15:
+**R:** **La partecipazione delle banche agli organi di governance**: nel caso tedesco i finanziatori «non hanno diritto ad essere rappresentati nell'organo di controllo» (lezione 14). ⚠️ I rappresentanti delle grandi banche hanno comunque «un peso notevole», e le banche sono «attori cruciali» del sistema renano: ciò che è limitato è la partecipazione **formale**. Distrattori del test: «la partecipazione di azionisti stranieri», «le partecipazioni di minoranza», «l'inclusione di genere».
+**Opzione:** La partecipazione delle banche agli organi di governance.
+**Distrattori:**
+- La partecipazione di azionisti stranieri.
+- Le partecipazioni di minoranza.
+- L'inclusione di genere.
+
+**D:** ⚠️ Il modello di governance italiano, secondo il test della lezione 15 (domanda 3):
+**R:** **Risponde a logiche familistiche**: proprietà familiare, grandi imprese familiari, nuclei di controllo familiari anche nelle quotate (lezione 15). Distrattori del test: «consente il controllo bancario delle decisioni», che è il modello tedesco bancocentrico; «accentua il ruolo dei revisori interni»; «favorisce le acquisizioni verticali».
+**Opzione:** Risponde a logiche familistiche.
+**Distrattori:**
+- Accentua il ruolo dei revisori interni.
+- Consente il controllo bancario delle decisioni.
+- Favorisce le acquisizioni verticali.
+
+**D:** ⚠️ Il modello di governance italiano ha il limite di (test della lezione 15):
+**R:** **Favorire l'indebitamento**: le PMI si finanziano «in prevalenza sotto forma di credito», perché l'imprenditore preferisce indebitare l'azienda (lezione 15), e i gruppi latini sono «fortemente indebitati» (lezione 14). ⚠️ Nel test 13 «alimenta il debito» era invece un distrattore fra i limiti dell'insider system. Distrattori del test: «favorire la crescita dei costi di agenzia», mentre in Italia il management è espressione della proprietà; «favorire la crescita organizzativa»; «ostacolare la diversificazione».
+**Opzione:** Favorire l'indebitamento.
+**Distrattori:**
+- Favorire la crescita dei costi di agenzia.
+- Favorire la crescita organizzativa.
+- Ostacolare la diversificazione.
+
+**D:** ⚠️ Il modello di governance italiano, secondo il test della lezione 15 (domanda 5):
+**R:** **Alimenta rapporti collusivi tra proprietà e management**: l'«elevato rischio di collusione tra proprietà e management della società» (lezione 15). Distrattori del test: «si realizza solo in ambiti di piccole e medie imprese» (quantificatore), «favorisce acquisizioni diversificate», «non è adatto alle grandi corporation».
+**Opzione:** Alimenta rapporti collusivi tra proprietà e management.
+**Distrattori:**
+- Si realizza solo in ambiti di piccole e medie imprese.
+- Favorisce acquisizioni diversificate.
+- Non è adatto alle grandi corporation.
