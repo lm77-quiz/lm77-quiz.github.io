@@ -2398,3 +2398,278 @@
 **Distrattori:**
 - Ai manager delle business unit, che decidono su prezzo, riduzione dei costi e differenziazione.
 - Agli investitori, che scelgono in quali business unit comprare azioni.
+
+## Lezione 10 — Sostenere lo sviluppo
+
+**D:** ⚠️ Secondo la slide 2 della lezione 10, a quale modo di organizzare la crescita corrispondono la crescita per via interna e quella per via esterna?
+**R:** La crescita per **via interna** corrisponde alla **Gerarchia**, quella per **via esterna** a **Il mercato**.
+**Opzione:** Via interna: gerarchia; via esterna: il mercato.
+**Distrattori:**
+- Via interna: il mercato; via esterna: gerarchia.
+- Via interna: gerarchia; via esterna: le alleanze.
+
+**D:** ⚠️ Come va intesa la gerarchia come modo di organizzare la crescita, secondo il docente della lezione 10?
+**R:** Non «nel senso militare del termine»: non procede per **ordini** ma per **proprietà**. È «un meccanismo di **proprietà successive**» con cui la corporation si appropria di pezzi del processo di generazione del valore che prima erano esterni. Il controllo gerarchico presuppone quindi un **controllo finanziario**, e l'autorità viene dalla condizione di comando dei manager.
+**Opzione:** Come un meccanismo di proprietà successive, non come comando per ordini.
+**Distrattori:**
+- Come un meccanismo di comando per ordini, in senso militare.
+- Come un sistema di relazioni più o meno strette, senza proprietà.
+
+**D:** ⚠️ Che cos'è il mercato come modo di organizzare la crescita, secondo la lezione 10?
+**R:** Non il luogo in cui si comprano beni, come nella micro e macroeconomia, ma «un **sistema di relazioni**» in cui la corporation si inserisce. La nuova dimensione non è controllata gerarchicamente: la **proprietà** non è più il presupposto del controllo, che si fonda su «un portafoglio di relazioni, di opportunità, di occasioni».
+**Opzione:** Un sistema di relazioni in cui la corporation si inserisce, senza che la proprietà sia il presupposto del controllo.
+**Distrattori:**
+- Il luogo in cui si comprano beni, come nella microeconomia.
+- Un meccanismo di proprietà successive con cui la corporation si appropria di pezzi del processo del valore.
+
+**D:** ⚠️ Quali sono, nell'ordine, i benefici della scelta del mercato (lezione 10)?
+**R:** «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Assenza di infrastrutture; Incentivi alle capacità. ⚠️ Sono **quattro**: sulla slide la prima voce va a capo, e «ricchezza delle nazioni» sembra un punto a sé.
+**Opzione:** «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Assenza di infrastrutture; Incentivi alle capacità.
+**Distrattori:**
+- «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Assenza di infrastrutture; Unicità di comando e di indirizzo.
+- «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Presenza di infrastrutture; Incentivi alle capacità.
+- «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Scelte di lungo periodo; Assenza di infrastrutture; Incentivi alle capacità.
+
+**D:** ⚠️ Quale avvertenza fa il docente della lezione 10 sulla «mano invisibile»?
+**R:** La logica del mercato che si aggiusta da sola «funziona per il **mercato**, non funziona necessariamente per l'**impresa**». Chi cerca la massimizzazione del valore della corporation vuole stare nella parte di mercato in cui il business produce valore, non in quella «mortificata dalle condizioni dell'equilibrio». L'aggiustamento non vale nel suo automatismo, ma nell'opportunità di cogliere per primi un'occasione che anche i concorrenti vedono.
+**Opzione:** Funziona per il mercato, non necessariamente per l'impresa.
+**Distrattori:**
+- Funziona per l'impresa, non necessariamente per il mercato.
+- Funziona solo nei mercati finanziari, non in quelli industriali.
+
+**D:** ⚠️ Perché la scelta del mercato offre una migliore elaborazione delle informazioni, secondo la lezione 10?
+**R:** Perché la scelta di crescere si fa **insieme ai concorrenti**: le informazioni sono **diffuse**, e si possono copiare i concorrenti, anticiparli, carpire informazioni. Nella gerarchia ci si muove invece «in una condizione di **solitudine**», con le sole informazioni di cui si dispone. «Maggiori informazioni, maggiore efficienza delle scelte».
+**Opzione:** Perché la scelta si fa insieme ai concorrenti e le informazioni sono diffuse; nella gerarchia si sceglie in solitudine.
+**Distrattori:**
+- Perché nella gerarchia le informazioni sono diffuse, mentre sul mercato si sceglie in solitudine.
+- Perché sul mercato le informazioni restano riservate a chi acquisisce il business.
+
+**D:** ⚠️ Che cosa sono le «infrastrutture» la cui assenza è un beneficio della scelta del mercato (lezione 10)?
+**R:** Non infrastrutture **fisiche**, «ma piuttosto infrastrutture **decisionali**»: i condizionamenti dell'organizzazione preesistente, cioè le risorse, l'organizzazione e il modo in cui venivano gestiti i business esistenti. Nella gerarchia la scelta non è libera; sul mercato questi limiti «si attenuano» e si valuta a priori la condizione più efficiente.
+**Opzione:** Infrastrutture decisionali: i condizionamenti dell'organizzazione preesistente.
+**Distrattori:**
+- Infrastrutture fisiche: impianti, magazzini e reti logistiche.
+- Infrastrutture finanziarie: i mercati dei capitali a cui attingere.
+
+**D:** Con quale paragone il docente della lezione 10 spiega gli «incentivi alle capacità» del mercato?
+**R:** Con lo **human resources management**: «è come se si cercasse o si promuovesse il **merito**». L'equilibrio del mercato seleziona gli investimenti più profittevoli e con maggiori potenzialità; chi vince la gara e si appropria del business fa crescere le proprie capacità.
+**Opzione:** Con la gestione delle risorse umane: è come promuovere il merito.
+**Distrattori:**
+- Con la gestione di un portafoglio finanziario: è come frazionare il rischio.
+- Con la catena del valore: è come condividere le attività comuni.
+
+**D:** ⚠️ Quali sono, nell'ordine, i costi di transazione della slide 4 della lezione 10?
+**R:** Opportunismo; Specificità delle risorse (piccoli numeri), con le sottovoci Localizzazione, Risorse fisiche, Capitale umano; Incertezza; Alta frequenza delle transazioni.
+**Opzione:** Opportunismo; Specificità delle risorse (piccoli numeri); Incertezza; Alta frequenza delle transazioni.
+**Distrattori:**
+- Opportunismo; Specificità delle risorse (piccoli numeri); Incertezza; Bassa frequenza delle transazioni.
+- Opportunismo; Specificità delle risorse (grandi numeri); Incertezza; Alta frequenza delle transazioni.
+- Opportunismo; Specificità delle risorse (piccoli numeri); Incertezza; Il controllo dell'alleanza & Cannibalismo.
+
+**D:** ⚠️ In quali tre sottovoci si articola la «Specificità delle risorse (piccoli numeri)» fra i costi di transazione?
+**R:** **Localizzazione**, **Risorse fisiche**, **Capitale umano**. Gli esempi del docente: un operatore da acquisire nell'**est asiatico**, dove gli operatori sono pochissimi; il **grano** oggi scarso per mulini e pastifici; i settori ad alto contributo di capitale umano, **artistico** o di **innovazione tecnologica**.
+**Opzione:** Localizzazione, Risorse fisiche, Capitale umano.
+**Distrattori:**
+- Localizzazione, Risorse fisiche, Risorse finanziarie.
+- Localizzazione, Risorse immateriali, Capitale umano.
+- Dimensione, Risorse fisiche, Capitale umano.
+
+**D:** ⚠️ Chi ha dato il nome ai costi di transazione, secondo il docente della lezione 10?
+**R:** **Williamson**: «i cosiddetti costi della transazione, così li chiama Williamson». Sono i costi che si pagano quando si attinge una risorsa, qui un business, da un luogo diverso dalla propria organizzazione. La slide non nomina autori.
+**Opzione:** Williamson.
+**Distrattori:**
+- Penrose.
+- Ansoff.
+- Hamel e Prahalad.
+
+**D:** ⚠️ Perché l'opportunismo è un costo di transazione, secondo la lezione 10?
+**R:** Perché rende la scelta di mercato «non una scelta **strategica** ma una scelta **speculativa**»: acquisto perché in quel momento ho un beneficio particolare. È una scelta di **breve periodo**, mentre la scelta strategica sconta il **lungo periodo**: «Approfitto di una condizione particolare ma condiziono le mie capacità di crescita future».
+**Opzione:** Perché rende la scelta speculativa e di breve periodo, invece che strategica e di lungo periodo.
+**Distrattori:**
+- Perché rende la scelta strategica e di lungo periodo, invece che speculativa e di breve periodo.
+- Perché obbliga a pianificare anche per i fornitori e i distributori.
+
+**D:** ⚠️ Perché l'incertezza è un costo di transazione, secondo la lezione 10?
+**R:** Perché «ci vincola nella nostra visione di **lungo periodo**»: non sappiamo se l'investimento darà valore, né se il business sarà combinabile con quelli che già possediamo. I mercati **stabili** rendono più facile immaginare il futuro; quelli **instabili** sono una condizione di rischio, cioè «un costo aggiuntivo». Caratterizza soprattutto i mercati finanziari, ma il docente ne parla per i mercati **industriali**.
+**Opzione:** Perché nei mercati instabili è difficile far combaciare le scelte con il disegno di lungo periodo.
+**Distrattori:**
+- Perché nei mercati stabili è difficile far combaciare le scelte con il disegno di lungo periodo.
+- Perché riguarda solo i mercati finanziari, non quelli industriali.
+
+**D:** Perché l'alta frequenza delle transazioni è un costo di transazione, secondo la lezione 10?
+**R:** Perché quando su un mercato ci sono grandi operazioni di acquisizione o di vendita, le operazioni hanno un **carattere speculativo**, oppure chi ha operato si è accorto subito dopo di aver sbagliato. Cresce il rischio, che si traduce in un'**alta volatilità** dei valori in campo, e si riducono le opportunità di mercato.
+**Opzione:** Perché segnala operazioni speculative e aumenta il rischio e la volatilità dei valori in campo.
+**Distrattori:**
+- Perché segnala un mercato stabile, in cui è facile immaginare il futuro.
+- Perché riduce il numero di operatori fra cui scegliere.
+
+**D:** ⚠️ Che cosa accade quando i costi di transazione rendono troppo cara una soluzione di mercato, secondo la lezione 10?
+**R:** Le soluzioni di mercato «verranno **sostituite da soluzioni gerarchiche**». Per questo la gerarchia è una scelta **residuale**: la conseguenza di condizioni di mercato che hanno alzato i costi della transazione.
+**Opzione:** Le soluzioni di mercato vengono sostituite da soluzioni gerarchiche.
+**Distrattori:**
+- Le soluzioni gerarchiche vengono sostituite da soluzioni di mercato.
+- Le soluzioni di mercato vengono sostituite da alleanze.
+
+**D:** ⚠️ Che differenza c'è fra gli «elevati costi di transazione» della lezione 06 e i costi di transazione della lezione 10?
+**R:** Nella **lezione 06** sono una delle **opportunità esterne** per diversificare: i costi «che sopporto per arrivare al consumatore finale», come la commissione di Amazon, che spingono verso comparti senza quegli intermediari. Nella **lezione 10** sono i costi di **Williamson** (opportunismo, specificità delle risorse, incertezza, alta frequenza) che rendono cara la soluzione di **mercato** e spingono verso la **gerarchia**.
+**Opzione:** Nella 06 sono i costi per arrivare al consumatore finale e spingono a diversificare; nella 10 rendono cara la soluzione di mercato e spingono verso la gerarchia.
+**Distrattori:**
+- Nella 06 rendono cara la soluzione di mercato e spingono verso la gerarchia; nella 10 sono i costi per arrivare al consumatore finale e spingono a diversificare.
+- Sono la stessa cosa: in entrambe le lezioni spingono verso le alleanze.
+
+**D:** ⚠️ Quali sono, nell'ordine, i benefici della scelta della gerarchia (lezione 10)?
+**R:** Unicità di comando e di indirizzo; Scelte di lungo periodo; Assunzione di responsabilità nella filiera; Dimensione.
+**Opzione:** Unicità di comando e di indirizzo; Scelte di lungo periodo; Assunzione di responsabilità nella filiera; Dimensione.
+**Distrattori:**
+- Unicità di comando e di indirizzo; Scelte di breve periodo; Assunzione di responsabilità nella filiera; Dimensione.
+- Unicità di comando e di indirizzo; Scelte di lungo periodo; Assunzione di responsabilità nella filiera; Flessibilità.
+- Unicità di comando e di indirizzo; Scelte di lungo periodo; Migliore elaborazione delle informazioni; Dimensione.
+
+**D:** ⚠️ Perché la gerarchia è una scelta «residuale», secondo il docente della lezione 10?
+**R:** Perché «è quella **meno efficiente**, è per definizione quella **più costosa**»: costi d'investimento e di mantenimento, ma soprattutto costi **organizzativi**, perché si investe direttamente negli step della filiera invece di acquisire un'unità che ha già una sua organizzazione. Si sceglie quando le condizioni di mercato hanno **alzato i costi della transazione**. Il docente la chiama anche «**second best**».
+**Opzione:** Perché è la meno efficiente e la più costosa: si sceglie quando i costi di transazione sono troppo alti.
+**Distrattori:**
+- Perché è la più efficiente e la meno costosa: si sceglie quando i costi di transazione sono bassi.
+- Perché si sceglie solo dopo il fallimento di un'alleanza.
+
+**D:** ⚠️ Che cosa fa il pastificio della lezione 10 quando i costi di transazione con il mulino che gli fornisce farina diventano troppo alti?
+**R:** Smette di affidarsi alle **relazioni di mercato**, cioè ai contratti di fornitura, e comincia a **produrre farina da solo**: «o acquisire il mulino già esistente oppure integrare il proprio processo produttivo» con la raffinazione del grano. È il passaggio dal mercato alla **gerarchia**.
+**Opzione:** Acquisisce il mulino o integra la raffinazione del grano nel proprio processo.
+**Distrattori:**
+- Stipula nuovi contratti di fornitura con altri mulini.
+- Stringe un'alleanza di lungo periodo con il mulino.
+
+**D:** ⚠️ Perché la gerarchia assicura l'unicità di comando e di indirizzo, secondo la lezione 10?
+**R:** Con un contratto il pastificio ordina al mulino certe quantità in certi tempi, ma deve stare alle condizioni che il mulino impone: la transazione prevede un'**interlocuzione**. La gerarchia dà invece un indirizzo unico, in cui «gli interessi di **chi ordina** sono gli interessi anche di **chi riceve l'ordine**».
+**Opzione:** Perché gli interessi di chi ordina sono anche quelli di chi riceve l'ordine.
+**Distrattori:**
+- Perché il fornitore impone le sue condizioni attraverso il contratto.
+- Perché le decisioni si prendono insieme ai concorrenti.
+
+**D:** ⚠️ In che cosa consiste l'«assunzione di responsabilità nella filiera», fra i benefici della gerarchia?
+**R:** Un'azienda non opera da sola ma «in sequenza, in filiera» con fornitori e distributori. Un'azienda di grande dimensione ha «una **responsabilità allargata**», che va oltre i suoi confini: deve pianificare anche per i suoi **fornitori** e i suoi **distributori**. L'organizzazione si appesantisce anche di questa responsabilità.
+**Opzione:** Nel pianificare anche per i fornitori e i distributori.
+**Distrattori:**
+- Nel pianificare solo per i propri stabilimenti produttivi.
+- Nel pianificare anche per i concorrenti dello stesso mercato.
+
+**D:** ⚠️ Perché la dimensione è un beneficio della gerarchia solo a certe condizioni, secondo la lezione 10?
+**R:** La crescita per via gerarchica impone una **crescita organizzativa**. La grande dimensione può significare «un **irrigidimento** organizzativo, una **burocratizzazione**», cioè un limite. Se invece è ben organizzata e ha previsto per tempo gli appesantimenti, dà «un maggiore **potere contrattuale** nella filiera e nel mercato».
+**Opzione:** Dà più potere contrattuale nella filiera e nel mercato se è ben organizzata; altrimenti irrigidisce e burocratizza.
+**Distrattori:**
+- Dà sempre più potere contrattuale, senza effetti sull'organizzazione.
+- Rende l'organizzazione più flessibile e più veloce nel cambiamento.
+
+**D:** ⚠️ Quali sono, nell'ordine, i vantaggi dello sviluppo interno (lezione 10)?
+**R:** Velocizza le decisioni; Stadi iniziali del CVP; Migliore riferimento delle immaterialità; Migliore visione di insieme delle risorse corporate. «CVP» è il **ciclo di vita del prodotto**; per le immaterialità il docente dice «**utilizzo**», la slide «**riferimento**».
+**Opzione:** Velocizza le decisioni; Stadi iniziali del CVP; Migliore riferimento delle immaterialità; Migliore visione di insieme delle risorse corporate.
+**Distrattori:**
+- Velocizza le decisioni; Stadi finali del CVP; Migliore riferimento delle immaterialità; Migliore visione di insieme delle risorse corporate.
+- Velocizza il cambiamento; Stadi iniziali del CVP; Migliore riferimento delle immaterialità; Migliore visione di insieme delle risorse corporate.
+- Velocizza le decisioni; Stadi iniziali del CVP; Migliore riferimento delle immaterialità; Flessibilità.
+
+**D:** ⚠️ Quali sono, nell'ordine, gli svantaggi dello sviluppo interno (lezione 10)?
+**R:** Risorse; Diseconomie; Lentezza nel cambiamento. Crescere per via interna significa investire pesantemente; certi risparmi legati a una certa dimensione si perdono in una dimensione più grande; una dimensione più grande impedisce di cambiare velocemente.
+**Opzione:** Risorse; Diseconomie; Lentezza nel cambiamento.
+**Distrattori:**
+- Risorse; Diseconomie; Lentezza nelle decisioni.
+- Risorse; Diseconomie; Fronteggiamento delle crisi.
+- Costi; Diseconomie; Lentezza nel cambiamento.
+
+**D:** ⚠️ Che cosa significa «CVP» fra i vantaggi dello sviluppo interno, e che cosa permette?
+**R:** **Ciclo di vita del prodotto** (la slide scrive solo la sigla). Lo sviluppo interno permette di pianificare la crescita del singolo business lungo un ciclo di vita del prodotto «che sosterremo, che finanzieremo noi», a partire dagli stadi iniziali.
+**Opzione:** Ciclo di vita del prodotto.
+**Distrattori:**
+- Catena del valore del prodotto.
+- Costo variabile di produzione.
+
+**D:** ⚠️ Quale vantaggio dello sviluppo interno riguarda le competenze delle persone, il valore del brand e la cultura aziendale?
+**R:** Il «**Migliore riferimento delle immaterialità**» della slide; il docente dice «un migliore **utilizzo** delle immaterialità». Le risorse immateriali «si scontrerebbero con un business raccolto dall'esterno», mentre crescendo per via interna «si conoscono già i linguaggi organizzativi».
+**Opzione:** Migliore riferimento delle immaterialità.
+**Distrattori:**
+- Migliore elaborazione delle informazioni.
+- Stadi iniziali del CVP.
+
+**D:** ⚠️ Quali sono i vantaggi e gli svantaggi delle alleanze (lezione 10)?
+**R:** **Vantaggi**: Costi, Velocità, Flessibilità. **Svantaggi**: Diffidenza e opportunismo, Fronteggiamento delle crisi, Il controllo dell'alleanza & Cannibalismo.
+**Opzione:** Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Il controllo dell'alleanza & Cannibalismo.
+**Distrattori:**
+- Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Lentezza nel cambiamento.
+- Vantaggi: Costi, Velocità, Unicità di comando. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Il controllo dell'alleanza & Cannibalismo.
+- Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Risorse, Diseconomie, Lentezza nel cambiamento.
+
+**D:** ⚠️ Perché le alleanze sono una soluzione di «quasi mercato», secondo il docente della lezione 10?
+**R:** Perché non sono proprio il mercato, in cui «mi compro la soluzione sul mercato al prezzo migliore che c'è», ma stabiliscono **relazioni di lungo periodo** con gli attori che stanno attorno. Si **contrappongono** alla crescita per via interna.
+**Opzione:** Perché non si compra la soluzione al prezzo migliore, ma si stabiliscono relazioni di lungo periodo con gli attori vicini.
+**Distrattori:**
+- Perché si compra la soluzione sul mercato al prezzo migliore, senza relazioni durature.
+- Perché la corporation acquisisce la proprietà dell'alleato.
+
+**D:** ⚠️ Perché le alleanze sono più veloci e più flessibili dello sviluppo interno?
+**R:** **Velocità**: partono quando si stabilisce la relazione, perché l'interlocutore è già un attore esistente sul mercato, con le competenze, il brand e la capacità di competere. **Flessibilità**: non serve un tempo lungo per farle funzionare, e hanno «un tempo descritto nel contratto», che permette nel medio termine di **cambiare l'alleanza** se non funziona.
+**Opzione:** Perché l'alleato è già attivo sul mercato e il contratto ha una durata che permette di cambiare alleanza.
+**Distrattori:**
+- Perché l'alleato viene acquisito e integrato nella corporation.
+- Perché le alleanze non hanno contratti e si sciolgono in ogni momento.
+
+**D:** ⚠️ Quando funzionano le alleanze, e perché è difficile farle funzionare nelle crisi?
+**R:** Funzionano «in condizioni di **crescita**», quando c'è interesse reciproco e crescita reciproca. Nelle crisi è più difficile: «molti **matrimoni** falliscono facilmente di fronte a situazioni di difficoltà», mentre una soluzione **gerarchica** sarebbe più difficile da rompere.
+**Opzione:** Funzionano in condizioni di crescita; nelle crisi si rompono più facilmente di una soluzione gerarchica.
+**Distrattori:**
+- Funzionano soprattutto nelle crisi; nella crescita si rompono più facilmente di una soluzione gerarchica.
+- Funzionano in condizioni di crescita; nelle crisi si rompono meno facilmente di una soluzione gerarchica.
+
+**D:** ⚠️ Che cos'è il «patto leonino» di cui parla il docente della lezione 10 a proposito delle alleanze?
+**R:** Un'alleanza **squilibrata**, in cui l'attore **più forte** cannibalizza il **più debole**: trae vantaggio da solo e consuma piano piano la capacità del più debole di contribuire al valore. «Non è più un'alleanza quella». ⚠️ Il docente si corregge a metà frase: è il forte a cannibalizzare il debole, non il contrario.
+**Opzione:** Un'alleanza squilibrata in cui l'attore più forte cannibalizza il più debole.
+**Distrattori:**
+- Un'alleanza squilibrata in cui l'attore più debole cannibalizza il più forte.
+- Un'alleanza equilibrata, figlia di un disegno strategico comune.
+
+**D:** A quale condizione vive un'alleanza, secondo la conclusione della lezione 10?
+**R:** Se è «figlia di un **disegno strategico comune**», in cui l'attore più grande condivide con il più piccolo un percorso di crescita che produca **benefici comuni**.
+**Opzione:** Se è figlia di un disegno strategico comune, con benefici per entrambi gli attori.
+**Distrattori:**
+- Se l'attore più forte ne controlla tutte le scelte.
+- Se nasce da interessi di breve periodo.
+
+### Flashcard dai quiz — lezione 10
+
+**D:** ⚠️ Tra i motivi per cui un'impresa decide di diversificare, secondo Edith Penrose, vi sono (test della lezione 10):
+**R:** **Gli incentivi interni ed esterni.** Sono le «ragioni dello sviluppo esterno» di Penrose (lezione 04): incentivi esterni (opportunità) e incentivi interni (potenzialità), fra i quali «I vantaggi della diversificazione». Distrattori del test: «i soli incentivi esterni», che restringe l'ambito; «l'eccesso di capacità», che è una potenzialità interna per diversificare della lezione 06 e la chiave della domanda 2 dello stesso test; «l'eccesso di risorse».
+**Opzione:** Gli incentivi interni ed esterni.
+**Distrattori:**
+- I soli incentivi esterni.
+- L'eccesso di capacità.
+- L'eccesso di risorse.
+
+**D:** ⚠️ Tra le potenzialità e/o opportunità di realizzare un'economia di scala si annoverano, secondo il test della lezione 10:
+**R:** **L'eccesso di capacità e le risorse immobilizzate.** Sono la seconda e la terza delle potenzialità interne per diversificare (lezione 06), che sulla slide vanno a capo subito dopo «Esigenza e/o opportunità di realizzare economie di scala»: la domanda legge quei punti elenco come sottovoci delle economie di scala. Distrattori del test: «eccesso di capacità e risorse intangibili» (coda sostituita), «risorse mobili ed immobili», «le risorse tangibili».
+**Opzione:** Eccesso di capacità e le risorse immobilizzate.
+**Distrattori:**
+- Risorse mobili ed immobili.
+- Eccesso di capacità e risorse intangibili.
+- Le risorse tangibili.
+
+**D:** ⚠️ La crescita diversificata, secondo il test della lezione 10:
+**R:** **Si attua in nuovi mercati con nuove missioni.** È il quadrante della diversificazione nella matrice di Ansoff (lezione 06), l'unico **nuovo su entrambi gli assi**; il test dice «missioni» dove la slide dice «prodotti». Distrattori del test: «in nuovi mercati nell'ambito della stessa missione» e «nello stesso mercato ma con nuova missione», nuovi su un asse solo; «è una strategia competitiva», mentre la diversificazione è una scelta **corporate**, non di business.
+**Opzione:** Si attua in nuovi mercati con nuove missioni.
+**Distrattori:**
+- Si attua in nuovi mercati nell'ambito della stessa missione.
+- Si attua nello stesso mercato ma con nuova missione.
+- È una strategia competitiva.
+
+**D:** ⚠️ La strategia di diversificazione, secondo il test della lezione 10:
+**R:** **Risponde ad una logica strategica di tipo finanziario.** È la «logica finanziaria tipica dei portafogli finanziari degli investitori» della lezione 09. Distrattori del test: «agisce solo su mercati globali» (quantificatore); «punta alla differenziazione della marca», che è una strategia di business; «è tipica delle scelte di disinvestimento», mentre la diversificazione è crescita, anche se per la lezione 09 la stessa logica serve anche a disinvestire.
+**Opzione:** Risponde ad una logica strategica di tipo finanziario.
+**Distrattori:**
+- Agisce solo su mercati globali.
+- Punta alla differenziazione della marca.
+- È tipica delle scelte di disinvestimento.
+
+**D:** ⚠️ La diversificazione non vincolata, secondo il test della lezione 10:
+**R:** **Genera diseconomie nel lungo periodo.** «Non vincolata» non compare nelle lezioni 01–10; la chiave si regge sulle rendite marginali **decrescenti** al crescere della distanza della diversificazione (lezione 09). ⚠️ Domanda ambigua: due distrattori del test, «crea vantaggi finanziari per la corporation» e «risponde ad una logica di portafoglio», sono coerenti con la lezione 09 e con la chiave della domanda 4 dello stesso test. Il terzo, «consente di coordinare tutte le attività aziendali», è falso: per business lontani è difficile trovare una pianificazione comune.
+**Opzione:** Genera diseconomie nel lungo periodo.
+**Distrattori:**
+- Consente di coordinare tutte le attività aziendali.
+- Genera rendite marginali crescenti all'aumentare della distanza dal core business.
