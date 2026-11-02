@@ -3391,3 +3391,224 @@
 - Si lega a contesti in cui i mercati finanziari sono efficienti.
 - È sconnesso dai contesti finanziari.
 - È favorito dalle pratiche del common law.
+
+## Lezione 14 — La struttura societaria e le scelte strategiche 2
+
+**D:** ⚠️ Come definisce l'insider system la lezione 14?
+**R:** «Sistemi basati sulle **relazioni**, piuttosto che sull'**efficienza del mercato**, in cui si persegue la massimizzazione del **valore dell'impresa**». Chi governa l'impresa deve bilanciare i contributi e gli interessi dei vari gruppi interessati all'azienda.
+**Opzione:** Sistemi basati sulle relazioni, piuttosto che sull'efficienza del mercato, in cui si persegue la massimizzazione del valore dell'impresa.
+**Distrattori:**
+- Sistemi basati sull'efficienza del mercato, piuttosto che sulle relazioni, in cui si persegue la massimizzazione del valore dell'impresa.
+- Sistemi basati sulle relazioni, piuttosto che sull'efficienza del mercato, in cui si persegue la massimizzazione del valore dell'azione.
+
+**D:** ⚠️ Qual è il ruolo di chi governa l'impresa nell'insider system (lezione 14)?
+**R:** «Bilanciare i contributi e gli interessi dei vari gruppi di individui che hanno interesse per l'azienda».
+**Opzione:** Bilanciare i contributi e gli interessi dei vari gruppi di individui che hanno interesse per l'azienda.
+**Distrattori:**
+- Massimizzare il valore dell'azione per gli azionisti di minoranza.
+- Garantire la contendibilità del controllo sul mercato.
+
+**D:** ⚠️ Quali tipologie di insider system distingue la lezione 14?
+**R:** **Due**: il sistema **di tipo renano (germanico)** e il sistema **di tipo latino**.
+**Opzione:** Di tipo renano (germanico) e di tipo latino.
+**Distrattori:**
+- Di tipo renano (anglosassone) e di tipo latino.
+- Di tipo angloamericano e di tipo latino.
+
+**D:** ⚠️ Perché nell'insider system il prezzo di mercato delle azioni non è il loro valore reale, secondo la lezione 14?
+**R:** Perché in certi contesti, come il **sud Europa**, il mercato finanziario «non è un mercato efficiente», senza un gran numero e una grande frequenza di transazioni. Il prezzo nasce da transazioni **speculative**, è molto **volatile** e risente delle dichiarazioni degli amministratori delegati e dei report di Borsa Italiana e Consob. Fuori dal mercato qualcuno pagherebbe molto di più.
+**Opzione:** Perché il mercato non è efficiente: poche transazioni, spesso speculative, e prezzi volatili.
+**Distrattori:**
+- Perché il mercato è efficiente e il prezzo incorpora già tutte le informazioni.
+- Perché le azioni non possono essere scambiate sul mercato.
+
+**D:** ⚠️ In quali paesi è tipico il sistema renano, e quali caratteristiche ha (lezione 14)?
+**R:** **Germania**, **Austria** e **Paesi Scandinavi**. Caratteristiche: presenza di pochi grandi azionisti che hanno una forte influenza sulla gestione aziendale; sistema legislativo basato sulla **civil law**; il ruolo del mercato azionario è **meno rilevante** rispetto ai sistemi angloamericani; le **banche e i lavoratori** sono attori cruciali nel sistema impresa.
+**Opzione:** Germania, Austria e Paesi Scandinavi: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori attori cruciali.
+**Distrattori:**
+- Germania, Austria e Paesi Scandinavi: azionariato diffuso, common law, mercato azionario più rilevante, banche e lavoratori attori cruciali.
+- Germania, Austria e Paesi Scandinavi: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori esclusi dal sistema impresa.
+- Francia, Italia e Spagna: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori attori cruciali.
+
+**D:** ⚠️ Che rapporto c'è fra i grandi azionisti e il manager nel sistema renano, secondo il docente della lezione 14?
+**R:** «Non è più un rapporto di **controllo**, ma è un rapporto di **fiducia**, di sinergia»: il manager è espressione della maggioranza che l'ha nominato in consiglio di amministrazione e risponde soprattutto a quegli amministratori. Le sue missioni sono di medio-lungo termine.
+**Opzione:** Un rapporto di fiducia e di sinergia, non di controllo: il manager è espressione della maggioranza.
+**Distrattori:**
+- Un rapporto di controllo, con costi di agenzia elevati.
+- Un rapporto di mercato: il manager risponde soprattutto ai piccoli azionisti.
+
+**D:** Perché investono i pochi grandi azionisti del sistema renano, secondo la lezione 14?
+**R:** Non per ragioni **speculative**, «non avrebbe senso», ma per ragioni **industriali** o **tradizionali, familiari**: è un investimento di **medio e lungo termine**, e si aspettano un piano strategico con quel respiro.
+**Opzione:** Per ragioni industriali o familiari, con un orizzonte di medio e lungo termine.
+**Distrattori:**
+- Per ragioni speculative, con un orizzonte di breve termine.
+- Per obbligo di legge, senza un orizzonte definito.
+
+**D:** ⚠️ Che cosa caratterizza la civil law, secondo il docente della lezione 14?
+**R:** Si fonda su un **codice**: «è legale o illegale ciò che è disciplinato dal codice», anche se esiste una tradizione di sentenze, soprattutto della Cassazione. Il codice col tempo diventa incompatibile con l'ambiente, e rifarlo richiede tempo, come il nuovo **codice degli appalti**: nell'attesa il sistema paga inefficienze che pesano sulle performance delle corporation.
+**Opzione:** Si fonda su un codice, che col tempo diventa desueto e richiede tempo per essere rifatto.
+**Distrattori:**
+- Si fonda sulle sentenze che si sommano nel tempo, ed è più flessibile del codice.
+- Si fonda sulle decisioni del consiglio di sorveglianza.
+
+**D:** ⚠️ Che ruolo ha il mercato azionario nel sistema renano, secondo la lezione 14?
+**R:** È «meno rilevante rispetto ai sistemi angloamericani». Resta un luogo **pubblico e trasparente** di confronto con gli azionisti (piani, bilancio, relazione agli azionisti), ma i mercati finanziari sono «un luogo dove certi fenomeni **avvengono**, ma non sono il luogo dove certi fenomeni **vengono decisi**». Per questo «è più difficile che vi siano **scalate ostili**».
+**Opzione:** È il luogo dove certi fenomeni avvengono, non dove vengono decisi: le scalate ostili sono più difficili.
+**Distrattori:**
+- È il luogo in cui si decidono il controllo e le scalate ostili.
+- Non ha alcun ruolo, perché le azioni non sono quotate.
+
+**D:** ⚠️ Che rapporto hanno le banche tedesche con i grandi gruppi industriali, secondo la lezione 14?
+**R:** Operano in **stretta correlazione** con loro: il grande gruppo è spesso uno dei principali clienti della grande banca, che se fallisse avrebbe difficoltà e quindi fatica a dire di no (**Deutsche Bank** ha rischiato di essere acquisita, «se non fosse stata protetta dal sistema finanziario tedesco»). In cambio i crediti verso gruppi solidi sono sicuri.
+**Opzione:** Operano in stretta correlazione con i grandi gruppi, loro clienti principali, e faticano a dire di no.
+**Distrattori:**
+- Sono separate per legge dai gruppi industriali e restano fuori dagli organi di controllo.
+- Sono gli azionisti di maggioranza dei grandi gruppi industriali.
+
+**D:** Perché la partecipazione dei lavoratori alle decisioni ne mitiga le pretese, secondo la lezione 14?
+**R:** Perché i lavoratori che partecipano alla decisione «sono anche lavoratori che sono consapevoli delle difficoltà del gruppo»: le loro aspettative si riducono e si allineano al piano strategico. Molte innovazioni nella gestione delle risorse umane sono nate da proposte dei lavoratori in comitato di sorveglianza.
+**Opzione:** Perché conoscono le difficoltà del gruppo, e allineano le aspettative al piano strategico.
+**Distrattori:**
+- Perché i sindacati nazionali hanno perso ogni potere contrattuale.
+- Perché i lavoratori sono gli azionisti di maggioranza.
+
+**D:** ⚠️ Che cosa sono il Vorstand e l'Aufsichtsrat nelle società per azioni tedesche?
+**R:** Il **Vorstand** è il **Consiglio di Amministrazione**, con le funzioni **gestionali**; l'**Aufsichtsrat** è il **Consiglio di Sorveglianza**, con le funzioni di **controllo**. La loro separazione è «netta».
+**Opzione:** Vorstand: Consiglio di Amministrazione, funzioni gestionali; Aufsichtsrat: Consiglio di Sorveglianza, funzioni di controllo.
+**Distrattori:**
+- Vorstand: Consiglio di Sorveglianza, funzioni di controllo; Aufsichtsrat: Consiglio di Amministrazione, funzioni gestionali.
+- Vorstand: Consiglio di Amministrazione, funzioni di controllo; Aufsichtsrat: Consiglio di Sorveglianza, funzioni gestionali.
+
+**D:** ⚠️ Chi nomina chi nelle società per azioni tedesche, secondo la lezione 14?
+**R:** L'**assemblea**, organo degli azionisti, nomina i membri dell'**organo di controllo**, i quali «nominano, controllano e consigliano il **Vorstand**». È «un processo successivo di delega» che connette tutti i livelli.
+**Opzione:** L'assemblea nomina l'organo di controllo, che nomina, controlla e consiglia il Vorstand.
+**Distrattori:**
+- L'assemblea nomina il Vorstand, che nomina e controlla l'organo di controllo.
+- Il Vorstand nomina l'organo di controllo, che risponde all'assemblea.
+
+**D:** ⚠️ Come si prendono le decisioni nel consiglio di amministrazione tedesco, secondo la lezione 14?
+**R:** Con il **principio collegiale**: l'amministratore delegato è «**primus inter pares**», non ha un voto maggiorativo e «non può dare ordini agli altri membri del Consiglio di Amministrazione, come avviene per il **CEO americano**». Per il docente la collegialità è qui molto più stringente che nel modello latino.
+**Opzione:** Collegialmente: l'amministratore delegato è primus inter pares e non può dare ordini agli altri consiglieri.
+**Distrattori:**
+- L'amministratore delegato può dare ordini agli altri consiglieri, come il CEO americano.
+- Le decisioni spettano al solo amministratore delegato, con voto maggiorativo.
+
+**D:** ⚠️ Che cos'è la co-determinazione nel caso tedesco?
+**R:** Il diritto dei **rappresentanti dei lavoratori** di essere rappresentati nell'**organo di controllo**.
+**Opzione:** Il diritto dei rappresentanti dei lavoratori di essere rappresentati nell'organo di controllo.
+**Distrattori:**
+- Il diritto dei rappresentanti delle banche di essere rappresentati nell'organo di controllo.
+- Il diritto dei lavoratori di nominare l'amministratore delegato.
+
+**D:** ⚠️ Che posizione hanno le banche rispetto all'organo di controllo delle società tedesche, secondo la slide?
+**R:** I **finanziatori non hanno diritto** a essere rappresentati nell'organo di controllo, ma «i rappresentanti delle **grandi banche** hanno un **peso notevole**». ⚠️ Il docente dice prima che anche le banche sono rappresentate, poi che non lo sono: vale la slide.
+**Opzione:** Non hanno diritto a essere rappresentate, ma i rappresentanti delle grandi banche hanno un peso notevole.
+**Distrattori:**
+- Hanno diritto a essere rappresentate nell'organo di controllo, come i lavoratori.
+- Non hanno diritto a essere rappresentate e non hanno alcun peso.
+
+**D:** ⚠️ Quali difetti ha il modello tedesco, secondo il docente della lezione 14?
+**R:** Senza un vero **contraddittorio**, il processo «si **appiattisce** sugli azionisti di maggioranza», che indirizzano anche minoranze, comitato di controllo e stakeholder. E c'è un problema di **lentezza**: con tanti passaggi l'organizzazione è «poco elastica, molto **rigida** e molto poco reattiva ai cambiamenti». «Pochi possono decidere, molti possono parlare».
+**Opzione:** Rischia di appiattirsi sugli azionisti di maggioranza, ed è lento, rigido e poco reattivo ai cambiamenti.
+**Distrattori:**
+- Favorisce le scalate ostili e lo short termism dei manager.
+- Esclude gli azionisti di maggioranza dalle decisioni strategiche.
+
+**D:** ⚠️ In quali paesi è tipico il sistema latino, e quali caratteristiche ha (lezione 14)?
+**R:** **Francia**, **Italia**, **Spagna**, **Portogallo** e **Grecia**. Caratteristiche: grande presenza di imprese familiari; presenza di azionisti di riferimento che **limitano** l'autonomia del management; sistema legislativo basato sulla **civil law**; mercati borsistici **meno efficienti**; il ruolo delle banche e dei lavoratori nella gestione aziendale **non è così forte** come nel sistema renano.
+**Opzione:** Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, civil law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
+**Distrattori:**
+- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che ampliano l'autonomia del management, civil law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
+- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, common law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
+- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, civil law, mercati borsistici meno efficienti, banche e lavoratori più forti che nel renano.
+
+**D:** ⚠️ A che cosa servivano le partecipazioni incrociate fra i grandi capitalisti italiani negli anni '80, secondo la lezione 14?
+**R:** Non a speculare, ma a essere **costantemente informati** su ciò che accadeva negli altri grandi gruppi e a **evitare scalate ostili** (la famiglia Benetton nel gruppo Fiat, la famiglia Agnelli nel gruppo Del Vecchio, attraverso una banca d'affari). Con una «stanza di compensazione» i grandi capitalisti stabilizzavano il sistema: stagnante, ma stabile e affidabile per gli investitori.
+**Opzione:** Per essere informati sugli altri gruppi e prevenire scalate ostili, non per speculare.
+**Distrattori:**
+- Per speculare sul prezzo delle azioni degli altri gruppi.
+- Per preparare scalate ostili ai gruppi concorrenti.
+
+**D:** ⚠️ Perché i grandi gruppi latini sono fortemente indebitati, secondo il docente della lezione 14?
+**R:** «Forse proprio perché sono **imprese familiari**»: la famiglia, piuttosto che investire in innovazione con soldi propri, preferisce **indebitarsi**, soprattutto quando il costo del capitale è basso. Per questo il rapporto con la banca è critico.
+**Opzione:** Perché sono imprese familiari: la famiglia preferisce indebitarsi piuttosto che investire soldi propri.
+**Distrattori:**
+- Perché le banche siedono nei loro organi di controllo.
+- Perché sono public companies con azionariato diffuso.
+
+**D:** ⚠️ Quale limite ha il sistema latino, secondo il docente della lezione 14?
+**R:** I grandi azionisti limitano l'autonomia del management, che si appiattisce sui loro obiettivi di **lungo termine**: «in sé è un fatto sano», ma bisogna capire se esprimono l'interesse di tutta l'azienda o solo della maggioranza. «Certo è che è un sistema **lento** che difficilmente accetta l'**innovazione**», perché il rischio maggiore lo correrebbe l'azionista di maggioranza.
+**Opzione:** È un sistema lento che difficilmente accetta l'innovazione, perché il rischio ricade sull'azionista di maggioranza.
+**Distrattori:**
+- È un sistema veloce che premia l'innovazione e il rischio.
+- È un sistema dominato dallo short termism dei manager.
+
+**D:** ⚠️ Che posizione hanno le banche italiane rispetto ai grandi gruppi, secondo la lezione 14?
+**R:** Hanno per legge un ruolo **terzo** rispetto al sistema industriale: restano fuori dai consigli di amministrazione e dagli organi di controllo, e non esiste la soluzione intermedia del modello renano. Per questo il sistema bancario si mostra «più capace di fronteggiare le crisi» senza farsi trascinare; resta un interlocutore privilegiato, che cofinanzia sviluppo e razionalizzazioni e soccorre i gruppi in crisi.
+**Opzione:** Restano per legge fuori dai consigli e dagli organi di controllo, e fronteggiano meglio le crisi dei gruppi.
+**Distrattori:**
+- Siedono negli organi di controllo, come nel modello renano.
+- Dipendono dai grandi gruppi industriali, loro clienti principali.
+
+**D:** ⚠️ Che differenza c'è fra la privatizzazione di Telecom e quella di Enel, secondo la lezione 14?
+**R:** **Telecom** fu privatizzata con il modello del **nocciolo duro**: alcune azioni si vendevano in un unico pacchetto, il **capitale di controllo**, a un investitore; il modello «è fallito con Telecom», perché in Italia è difficile trovare un interlocutore forte. **Enel** seguì la strada della **public company**: piccoli pacchetti di azioni diffusi anche fra i risparmiatori, senza un azionariato di riferimento.
+**Opzione:** Telecom con il nocciolo duro, un pacchetto di controllo a un investitore; Enel come public company, con piccoli pacchetti ai risparmiatori.
+**Distrattori:**
+- Telecom come public company, con piccoli pacchetti ai risparmiatori; Enel con il nocciolo duro, un pacchetto di controllo a un investitore.
+- Entrambe con il nocciolo duro, venduto allo stesso investitore.
+
+**D:** Che effetto hanno avuto le privatizzazioni sul modello insider europeo, secondo la lezione 14?
+**R:** Hanno **vivacizzato** il mercato, con più titoli offerti e più occasioni di investimento (Alfa Romeo, Enel, Telecom, Ferrovie dello Stato). Ma lo Stato ha conservato un ruolo in Italia, in Francia e in Germania, a volte «in regime di **infrazione**» delle regole europee, e le differenze fra modello renano e latino si sono acuite.
+**Opzione:** Hanno vivacizzato il mercato, ma lo Stato ha conservato un ruolo, a volte violando le regole europee.
+**Distrattori:**
+- Hanno eliminato del tutto il ruolo dello Stato nell'economia.
+- Hanno ridotto i titoli offerti e le occasioni di investimento.
+
+**D:** ⚠️ Che rapporto c'è oggi fra modello outsider e modello insider, secondo la conclusione della lezione 14?
+**R:** Dalle privatizzazioni in poi il modello **outsider** (mercato, public company) e il modello **insider** (relazioni, nocciolo duro) hanno **convissuto**, e «oggi c'è una forte tendenza a **convergere** verso modelli comuni».
+**Opzione:** Hanno convissuto, e oggi tendono a convergere verso modelli comuni.
+**Distrattori:**
+- Si sono separati sempre di più, e oggi sono incompatibili.
+- Il modello insider ha sostituito del tutto il modello outsider.
+
+### Flashcard dai quiz — lezione 14
+
+**D:** ⚠️ Il modello di governance del tipo outsider system (test della lezione 14, domanda 1):
+**R:** **È tipico di corporation caratterizzate da una proprietà diffusa**: «frammentazione del capitale» e public companies con «un elevatissimo numero di azionisti» (lezione 13). Distrattori del test: «riguarda corporation caratterizzate da un forte accentramento della proprietà», che è l'insider; «non riguarda le public company», una negazione; «si limita alle corporation internazionalizzate».
+**Opzione:** È tipico di corporation caratterizzate da una proprietà diffusa.
+**Distrattori:**
+- Riguarda corporation caratterizzate da un forte accentramento della proprietà.
+- Non riguarda le public company.
+- Si limita alle corporation internazionalizzate.
+
+**D:** ⚠️ Il modello di governance del tipo outsider system (test della lezione 14, domanda 2):
+**R:** **Accentua le problematiche di relazione tra proprietà e management alimentando problemi di agenzia**: i costi di agenzia sono un'implicazione della separazione tra proprietà e controllo (lezione 13). ⚠️ È il rovescio dell'opzione «evitando problemi di agenzia» che il wiki indica come corretta per l'insider nel test 13, dove la piattaforma segnava la proprietà diffusa: lo specchio dei due test conferma quella chiave sbagliata. Distrattori: «è tipico di corporation caratterizzate da una proprietà unica», «si limita alle corporation internazionalizzate», «riguarda i Business trappola e demolitore del valore».
+**Opzione:** Accentua le problematiche di relazione tra proprietà e management alimentando problemi di agenzia.
+**Distrattori:**
+- È tipico di corporation caratterizzate da una proprietà unica.
+- Si limita alle corporation internazionalizzate.
+- Riguarda i business trappola e demolitore del valore.
+
+**D:** ⚠️ I principali limiti di un modello outsider system, secondo il test della lezione 14:
+**R:** **Favorisce scalate ostili**: la «possibilità di takeover» dell'outsider system (lezione 13); nell'insider, per la lezione 14, «è più difficile che vi siano scalate ostili». Distrattori del test: «riguardano il ruolo ostile degli azionisti di maggioranza», «limita la crescita dimensionale» (la chiave dell'insider nel test 13), «alimenta il debito».
+**Opzione:** Favorisce scalate ostili.
+**Distrattori:**
+- Riguardano il ruolo ostile degli azionisti di maggioranza.
+- Limita la crescita dimensionale.
+- Alimenta il debito.
+
+**D:** ⚠️ Il modello di governance del tipo outsider system (test della lezione 14, domanda 4):
+**R:** **È tipico dei contesti anglosassoni**: Stati Uniti, Gran Bretagna e Irlanda (lezione 13). Distrattori del test: «è tipico dei contesti latini», che è l'insider; «si applica solo alle imprese italiane»; «esclude le corporation asiatiche».
+**Opzione:** È tipico dei contesti anglosassoni.
+**Distrattori:**
+- È tipico dei contesti latini.
+- Si applica solo alle imprese italiane.
+- Esclude le corporation asiatiche.
+
+**D:** ⚠️ Il modello di governance del tipo outsider system (test della lezione 14, domanda 5):
+**R:** **Si lega a contesti in cui i mercati finanziari sono efficienti**: è la prima caratteristica dell'outsider system (lezione 13). Distrattori del test: «non sono efficienti» (l'insider), «è sconnesso dai contesti finanziari», «è favorito dalle pratiche del civil law», che è dell'insider (lezione 14).
+**Opzione:** Si lega a contesti in cui i mercati finanziari sono efficienti.
+**Distrattori:**
+- Si lega a contesti in cui i mercati finanziari non sono efficienti.
+- È sconnesso dai contesti finanziari.
+- È favorito dalle pratiche del civil law.
