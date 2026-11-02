@@ -4100,3 +4100,290 @@
 **Distrattori:**
 - Ricapitalizzazione, rafforzamento del capitale sociale contro le scalate ostili, aumento del debito a breve.
 - Distribuzione degli utili, riduzione del capitale sociale, estinzione del debito.
+
+## Lezione 17 — Conto economico ed imposte
+
+**D:** ⚠️ Che cosa misura il conto economico, secondo la slide della lezione 17?
+**R:** «Misura la **performance** su un **periodo prefissato**». L'altro riquadro della slide dà l'equazione: «Ricavi – Costi = Reddito».
+**Opzione:** La performance su un periodo prefissato.
+**Distrattori:**
+- Il modo in cui vengono finanziati gli investimenti.
+- Gli investimenti effettuati e i beni acquisiti dall'azienda.
+- La liquidità disponibile per far fronte alle passività a breve.
+
+**D:** ⚠️ Qual è l'equazione del conto economico (lezione 17)?
+**R:** «**Ricavi – Costi = Reddito**». Il conto economico, a differenza dello stato patrimoniale, misura la differenza fra ricavi e costi e produce un reddito.
+**Opzione:** Ricavi – Costi = Reddito
+**Distrattori:**
+- Costi – Ricavi = Reddito
+- Ricavi – Imposte = Reddito
+- Attività – Passività = Reddito
+
+**D:** Perché il reddito dà, per il docente della lezione 17, una lettura «esclusivamente economica» e non finanziaria della gestione?
+**R:** Perché tiene conto di fattori che non hanno necessariamente una ripercussione finanziaria: «pensate solo a quello che accade con gli **ammortamenti**». Per questo i mercati finanziari guardavano più ai **cash flow** che al reddito.
+**Opzione:** Perché tiene conto di fattori senza ripercussione finanziaria, come gli ammortamenti.
+**Distrattori:**
+- Perché non tiene conto del costo del personale.
+- Perché misura solo i flussi di cassa prospettici.
+- Perché esclude le imposte di esercizio.
+
+**D:** Con quali metodi si valuta un'azienda, secondo il docente della lezione 17?
+**R:** Per i suoi **asset**, cioè le attività «opportunamente **rivalutate**»; con la **proiezione del reddito medio prospettico**; con un **metodo misto**. Il reddito, quindi, «non è uno strumento sempre utilizzato».
+**Opzione:** Per gli asset rivalutati, con la proiezione del reddito medio prospettico o con un metodo misto.
+**Distrattori:**
+- Per gli asset al costo storico, con la proiezione del fatturato o con un metodo misto.
+- Solo con la proiezione del reddito medio prospettico.
+- Solo con il prezzo di mercato delle azioni.
+
+**D:** ⚠️ Quale parte del valore dell'impresa non è misurata dal mercato, secondo il docente della lezione 17?
+**R:** La parte **immateriale**: «l'**avviamento** dell'impresa, la potenzialità dell'impresa». La valuta solo una relazione non di mercato o un'occasione di mercato molto sofisticata; il prezzo di mercato «difficilmente sconta la parte di avviamento in toto».
+**Opzione:** La parte immateriale: l'avviamento, la potenzialità dell'impresa.
+**Distrattori:**
+- La parte materiale: impianti, macchinari, immobili.
+- La parte finanziaria: partecipazioni e titoli a lungo termine.
+- La cassa e le altre liquidità.
+
+**D:** ⚠️ Secondo quali criteri può essere riclassificato il conto economico (lezione 17)?
+**R:** **Fatturato e costo del venduto**; **produzione e valore aggiunto**. Da non confondere con i criteri dello stato patrimoniale della lezione 16: liquidità ed esigibilità; pertinenza gestionale.
+**Opzione:** Fatturato e costo del venduto; produzione e valore aggiunto.
+**Distrattori:**
+- Fatturato e valore aggiunto; produzione e costo del venduto.
+- Liquidità ed esigibilità; pertinenza gestionale.
+- Fatturato e costo del venduto; pertinenza gestionale.
+
+**D:** Quale dei due metodi di riclassificazione del conto economico è «cumulativo», secondo il docente della lezione 17?
+**R:** Quello a **produzione e valore aggiunto**, che mostra «cosa si aggiunge al valore e come si crea un meccanismo di valore aggiunto». Quello a fatturato e costo del venduto è **sequenziale**: mostra «cosa si toglie al fatturato».
+**Opzione:** Quello a produzione e valore aggiunto.
+**Distrattori:**
+- Quello a fatturato e costo del venduto.
+- Quello per liquidità ed esigibilità.
+
+**D:** ⚠️ Quali sono, nell'ordine, i risultati intermedi del prospetto a fatturato e costo del venduto (tabella 3.4, lezione 17)?
+**R:** **Risultato lordo industriale**; **Risultato o reddito operativo (EBIT)**; **Risultato di competenza**; **Risultato ante-imposte**; **Risultato (utile, reddito) netto**.
+**Opzione:** Risultato lordo industriale; EBIT; risultato di competenza; risultato ante-imposte; risultato netto.
+**Distrattori:**
+- Risultato lordo industriale; risultato di competenza; EBIT; risultato ante-imposte; risultato netto.
+- Valore aggiunto; EBIT; risultato di competenza; risultato ante-imposte; risultato netto.
+- Risultato lordo industriale; EBITDA; risultato di competenza; risultato ante-imposte; risultato netto.
+
+**D:** ⚠️ Quali sono, nell'ordine e con il loro segno, le voci del costo del venduto (tabella 3.4, lezione 17)?
+**R:** + Rimanenze iniziali; + Acquisti materie e semilavorati; + Energia; + Costo del lavoro; + Ammortamenti; + Canoni leasing; + Altri costi industriali; − Rimanenze finali. Otto righe, tutte con il «+» tranne l'ultima.
+**Opzione:** + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, − rimanenze finali.
+**Distrattori:**
+- − rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, + rimanenze finali.
+- + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, + costi commerciali e distributivi.
+- + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + oneri finanziari, + ammortamenti, + canoni leasing, + altri costi industriali, − rimanenze finali.
+
+**D:** ⚠️ Con quale segno entrano le rimanenze iniziali e le rimanenze finali nel costo del venduto (tabella 3.4, lezione 17)?
+**R:** Le rimanenze **iniziali** con il **+**, le rimanenze **finali** con il **−**. Il docente dice che si sottraggono le iniziali ([00:07:14]): è un lapsus, vale la slide.
+**Opzione:** Rimanenze iniziali con il +, rimanenze finali con il −.
+**Distrattori:**
+- Rimanenze iniziali con il −, rimanenze finali con il +.
+- Entrambe con il +.
+- Entrambe con il −.
+
+**D:** ⚠️ Dove si trova il costo del lavoro nel prospetto a fatturato e costo del venduto (tabella 3.4, lezione 17)?
+**R:** **Dentro il costo del venduto**, con il «+», quindi **sopra** il risultato lordo industriale. Il docente dice «qui non c'è il costo del personale» ([00:07:49]), ma vale la slide. Nella tabella 3.5 è invece il «costo del personale» a separare il valore aggiunto dall'EBITDA.
+**Opzione:** Dentro il costo del venduto, sopra il risultato lordo industriale.
+**Distrattori:**
+- Fra i costi amministrativi e generali, sotto il risultato lordo industriale.
+- Fra il valore aggiunto e il margine operativo lordo.
+- Fra il risultato di competenza e il risultato ante-imposte.
+
+**D:** ⚠️ Dove si trovano gli ammortamenti nel prospetto a fatturato e costo del venduto (tabella 3.4, lezione 17)?
+**R:** **Dentro il costo del venduto**, fra il costo del lavoro e i canoni leasing. Nella tabella 3.5 stanno invece fra il margine operativo lordo (EBITDA) e l'EBIT.
+**Opzione:** Dentro il costo del venduto.
+**Distrattori:**
+- Fra il risultato lordo industriale e l'EBIT.
+- Fra l'EBIT e il risultato di competenza.
+- Fra i componenti straordinari di reddito.
+
+**D:** ⚠️ Dove si trovano gli ammortamenti nel prospetto a produzione e valore aggiunto (tabella 3.5, lezione 17)?
+**R:** Fra il **margine operativo lordo (EBITDA)** e l'**EBIT**: EBITDA − ammortamenti = EBIT. Nella tabella 3.4 stanno invece dentro il costo del venduto.
+**Opzione:** Fra il margine operativo lordo (EBITDA) e il reddito operativo (EBIT).
+**Distrattori:**
+- Fra la produzione di esercizio e il valore aggiunto.
+- Fra il valore aggiunto e il margine operativo lordo (EBITDA).
+- Fra l'EBIT e il risultato di competenza.
+
+**D:** ⚠️ Che cos'è il risultato lordo industriale, secondo il docente della lezione 17?
+**R:** Il fatturato meno il costo del venduto: il risultato della gestione industriale «intesa nel senso proprio operativo del termine». Dà «l'idea di come funziona la macchina, di quanto ci costa la macchina, anzi di più di quanto ci **rende** la macchina». Se il costo del venduto supera il fatturato c'è una perdita strutturale, per inefficienza produttiva o commerciale.
+**Opzione:** Il fatturato meno il costo del venduto: dice quanto rende la macchina produttiva.
+**Distrattori:**
+- Il fatturato meno i costi amministrativi e commerciali: dice quanto rende la struttura commerciale.
+- Il valore aggiunto meno il costo del personale: dice quanto rende il lavoro.
+- La produzione di esercizio meno gli acquisti esterni: dice quanta ricchezza crea l'impresa.
+
+**D:** ⚠️ Come si passa dal risultato lordo industriale all'EBIT (tabella 3.4, lezione 17)?
+**R:** Si sottraggono i **costi amministrativi e generali** e i **costi commerciali e distributivi**. Per il docente il reddito operativo che ne risulta «è ancora un risultato industriale».
+**Opzione:** Si sottraggono i costi amministrativi e generali e i costi commerciali e distributivi.
+**Distrattori:**
+- Si sottraggono gli oneri finanziari e si aggiungono i proventi finanziari.
+- Si sottraggono il costo del personale e gli ammortamenti.
+- Si sottraggono le imposte di esercizio.
+
+**D:** ⚠️ Che cosa pensa il docente della lezione 17 dei sistemi di riclassificazione che mettono i costi commerciali e distributivi nel costo del venduto?
+**R:** Che è «una **forzatura**, perché la letteratura ci dice che non deve essere così». Accade perché quei costi incidono fortemente sulla capacità di produrre: con **mercati lontani** gran parte del costo è **logistico**; con un **fornitore strategico** tempi e modi dell'approvvigionamento aggravano i costi.
+**Opzione:** Che è una forzatura, contraria a quanto dice la letteratura.
+**Distrattori:**
+- Che è la regola, come prescrive la letteratura.
+- Che è obbligatorio per le imprese di servizi.
+
+**D:** ⚠️ Come si passa dall'EBIT al risultato di competenza (tabella 3.4, lezione 17)?
+**R:** − Oneri finanziari, + Proventi finanziari, + Proventi accessori, − Costi accessori. Per il docente gli oneri finanziari sono «tutto ciò che le passività correnti e le passività di medio e lungo termine mi costano».
+**Opzione:** − oneri finanziari, + proventi finanziari, + proventi accessori, − costi accessori.
+**Distrattori:**
+- + oneri finanziari, − proventi finanziari, − proventi accessori, + costi accessori.
+- − oneri finanziari, − proventi finanziari, − proventi accessori, − costi accessori.
+- − oneri finanziari, + proventi finanziari, +/− componenti straordinari di reddito.
+
+**D:** ⚠️ Che cosa separa il risultato di competenza dal risultato ante-imposte (tabella 3.4, lezione 17)?
+**R:** I **componenti straordinari di reddito**, con il doppio segno «+/−»: per il docente sono gli **eventi straordinari**. Il risultato di competenza deriva invece «dall'ordinaria gestione».
+**Opzione:** I componenti straordinari di reddito, con il segno +/−.
+**Distrattori:**
+- Le imposte di esercizio, con il segno −.
+- Gli oneri finanziari, con il segno −.
+- I proventi accessori, con il segno +.
+
+**D:** ⚠️ Quali sono, nell'ordine, i risultati intermedi del prospetto a produzione e valore aggiunto fino all'EBIT (tabella 3.5, lezione 17)?
+**R:** **Produzione di esercizio**; **Valore aggiunto**; **Margine operativo lordo (EBITDA)**; **Risultato o reddito operativo (EBIT)**. Dall'EBIT la riclassificazione è identica a quella a fatturato e costo del venduto.
+**Opzione:** Produzione di esercizio; valore aggiunto; margine operativo lordo (EBITDA); EBIT.
+**Distrattori:**
+- Valore aggiunto; produzione di esercizio; margine operativo lordo (EBITDA); EBIT.
+- Produzione di esercizio; valore aggiunto; EBIT; margine operativo lordo (EBITDA).
+- Produzione di esercizio; risultato lordo industriale; margine operativo lordo (EBITDA); EBIT.
+
+**D:** ⚠️ Come si ottiene la produzione di esercizio (tabella 3.5, lezione 17)?
+**R:** Fatturato **+/−** variazione delle scorte di prodotti finiti e semilavorati **+** lavori in economia **−** acquisti di beni destinati alla commercializzazione. Per il docente è «la ricchezza di esercizio» da cui si detraggono i costi operativi.
+**Opzione:** Fatturato +/− variazione delle scorte di prodotti finiti e semilavorati + lavori in economia − acquisti di beni destinati alla commercializzazione.
+**Distrattori:**
+- Fatturato +/− variazione delle scorte di materie prime + lavori in economia − acquisti di beni destinati alla commercializzazione.
+- Fatturato +/− variazione delle scorte di prodotti finiti e semilavorati − lavori in economia + acquisti di beni destinati alla commercializzazione.
+- Fatturato +/− variazione delle scorte di prodotti finiti e semilavorati + lavori in economia − costo del personale.
+
+**D:** ⚠️ Come si passa dalla produzione di esercizio al valore aggiunto (tabella 3.5, lezione 17)?
+**R:** − Acquisti di materie prime e semilavorati, − Altri costi di acquisto "esterni", +/− Variazione delle scorte di materie prime. Fra i costi esterni il docente cita i costi di servizio, di trasporto, di distribuzione, di consulenza.
+**Opzione:** − acquisti di materie prime e semilavorati, − altri costi di acquisto esterni, +/− variazione delle scorte di materie prime.
+**Distrattori:**
+- − acquisti di materie prime e semilavorati, − altri costi di acquisto esterni, − costo del personale.
+- − acquisti di beni destinati alla commercializzazione, − altri costi di acquisto esterni, +/− variazione delle scorte di prodotti finiti e semilavorati.
+- − acquisti di materie prime e semilavorati, − ammortamenti, +/− variazione delle scorte di materie prime.
+
+**D:** ⚠️ Come si chiama il risultato che si ottiene sottraendo il costo del personale al valore aggiunto (tabella 3.5, lezione 17)?
+**R:** **Margine operativo lordo (EBITDA)**. Il docente lo chiama per lapsus «EBIT» ([00:14:57]) e poi si corregge: l'EBIT viene dopo, sottraendo gli ammortamenti.
+**Opzione:** Margine operativo lordo (EBITDA).
+**Distrattori:**
+- Risultato o reddito operativo (EBIT).
+- Risultato lordo industriale.
+- Produzione di esercizio.
+
+**D:** ⚠️ Che cosa sono i lavori in economia, e con quale segno entrano nella produzione di esercizio (tabella 3.5, lezione 17)?
+**R:** Le attività che l'impresa **non ha comprato all'esterno** ma ha saputo **produrre da sola all'interno**. Entrano con il **+**: generano valore «nella misura in cui esse sono un **risparmio**».
+**Opzione:** Attività prodotte all'interno invece che comprate all'esterno; entrano con il +, perché sono un risparmio.
+**Distrattori:**
+- Attività comprate all'esterno invece che prodotte all'interno; entrano con il −, perché sono un costo.
+- Beni acquistati per essere rivenduti; entrano con il −.
+- Attività prodotte all'interno invece che comprate all'esterno; entrano con il −, perché sono un costo del personale.
+
+**D:** ⚠️ Che cosa sono gli acquisti di beni destinati alla commercializzazione (tabella 3.5, lezione 17)?
+**R:** Gli acquisti di beni che l'impresa **dovrà rivendere**, «che non sono i semilavorati e non sono le materie prime»: beni che in un esercizio si comprano e si vendono, aggiungendo all'azione industriale un'**azione commerciale**. Si **sottraggono** prima della produzione di esercizio.
+**Opzione:** Acquisti di beni da rivendere, che non sono né semilavorati né materie prime.
+**Distrattori:**
+- Acquisti di materie prime e semilavorati destinati alla produzione.
+- Acquisti di servizi di trasporto, distribuzione e consulenza.
+- Attività prodotte all'interno invece che comprate all'esterno.
+
+**D:** ⚠️ Quante variazioni delle scorte compaiono nel prospetto a produzione e valore aggiunto, e dove (tabella 3.5, lezione 17)?
+**R:** **Due**, entrambe con «+/−»: la variazione delle scorte di **prodotti finiti e semilavorati**, prima della **produzione di esercizio**; la variazione delle scorte di **materie prime**, prima del **valore aggiunto**.
+**Opzione:** Due: di prodotti finiti e semilavorati prima della produzione di esercizio, di materie prime prima del valore aggiunto.
+**Distrattori:**
+- Due: di materie prime prima della produzione di esercizio, di prodotti finiti e semilavorati prima del valore aggiunto.
+- Una sola, di prodotti finiti e semilavorati, prima della produzione di esercizio.
+- Due: le rimanenze iniziali con il + e le rimanenze finali con il −.
+
+**D:** ⚠️ Che cosa accade nel prospetto a produzione e valore aggiunto dopo l'EBIT (tabella 3.5, lezione 17)?
+**R:** «Dall'EBIT, la riclassificazione è **identica** a quella a "fatturato e costo del venduto"»: oneri e proventi, risultato di competenza, componenti straordinari, risultato ante-imposte, imposte di esercizio, risultato (utile, reddito) netto.
+**Opzione:** La riclassificazione è identica a quella a fatturato e costo del venduto.
+**Distrattori:**
+- Si sottraggono gli ammortamenti per arrivare all'EBITDA.
+- Si sottraggono subito le imposte di esercizio per arrivare al risultato netto.
+- Si sottrae il costo del personale per arrivare al risultato di competenza.
+
+**D:** A che cosa può essere destinato l'utile netto, secondo il docente della lezione 17?
+**R:** A **dividendi** per gli azionisti, a **riserve** oppure a **investimento**. Nei grandi gruppi la scelta non spetta più solo al manager della business unit, ma alla casa madre.
+**Opzione:** A dividendi per gli azionisti, a riserve oppure a investimento.
+**Distrattori:**
+- A dividendi per gli azionisti, a riserve oppure a riduzione del capitale sociale.
+- Solo a dividendi per gli azionisti.
+- A imposte di esercizio, a riserve oppure a investimento.
+
+**D:** ⚠️ Chi decide la destinazione dell'utile delle business unit nei grandi gruppi, secondo il docente della lezione 17?
+**R:** Non più solo il **singolo manager della business unit**: la scelta passa nelle mani della **casa madre**. C'è «una politica del reddito, una politica dell'utile»: la corporation può decidere di non conservare a riserva e di non reinvestire, perché il reddito d'esercizio deve andare alla corporation, che lo investirà diversamente.
+**Opzione:** La casa madre, non più solo il manager della business unit.
+**Distrattori:**
+- Il manager della business unit, in autonomia dal livello corporate.
+- I soci di minoranza della consociata.
+- Lo Stato, attraverso l'imposizione fiscale.
+
+**D:** ⚠️ Come definisce l'imposta la slide della lezione 17?
+**R:** «Un **tributo**, ovvero un **prelievo coattivo di ricchezza** effettuato dallo **Stato** per sostenere la **spesa pubblica**.»
+**Opzione:** Un tributo, ovvero un prelievo coattivo di ricchezza effettuato dallo Stato per sostenere la spesa pubblica.
+**Distrattori:**
+- Un tributo, ovvero un prelievo volontario di ricchezza effettuato dallo Stato per sostenere la spesa pubblica.
+- Un tributo, ovvero un prelievo coattivo di ricchezza effettuato dallo Stato a fronte di una prestazione specifica.
+- Un tributo, ovvero un prelievo coattivo di ricchezza effettuato dallo Stato per finanziare le imprese.
+
+**D:** ⚠️ In che cosa si differenziano le imposte dalle tasse (lezione 17)?
+**R:** Le imposte «**non corrispondono ad una prestazione** ma sono un'**entrata del bilancio statale**». Il docente aggiunge che sono «di solito proporzionali all'utile».
+**Opzione:** Non corrispondono ad una prestazione ma sono un'entrata del bilancio statale.
+**Distrattori:**
+- Corrispondono ad una prestazione e sono un'entrata del bilancio statale.
+- Non corrispondono ad una prestazione e sono un'entrata del bilancio delle imprese.
+- Corrispondono ad una prestazione ma non sono un'entrata del bilancio statale.
+
+**D:** ⚠️ Che cos'è l'aliquota media d'imposta (lezione 17)?
+**R:** «La **percentuale di reddito** che finisce in imposte da pagare»; «l'aliquota fiscale media è il **carico fiscale diviso il reddito imponibile**».
+**Opzione:** La percentuale di reddito che finisce in imposte da pagare: il carico fiscale diviso il reddito imponibile.
+**Distrattori:**
+- La percentuale di reddito che finisce in imposte da pagare: il reddito imponibile diviso il carico fiscale.
+- L'imposta che paghereste se guadagnaste un'unità monetaria in più.
+- La percentuale di fatturato che finisce in imposte da pagare: il carico fiscale diviso il fatturato.
+
+**D:** ⚠️ Che cos'è l'aliquota marginale d'imposta (lezione 17)?
+**R:** «L'imposta che paghereste se guadagnaste **un'unità monetaria in più**». Per il docente dà l'idea di quanto potrà incidere l'imposizione fiscale sulla redditività dell'investimento.
+**Opzione:** L'imposta che paghereste se guadagnaste un'unità monetaria in più.
+**Distrattori:**
+- Il carico fiscale diviso il reddito imponibile.
+- La percentuale di reddito che finisce in imposte da pagare.
+- L'imposta minima dovuta su qualunque reddito imponibile.
+
+**D:** ⚠️ Quale doppio sistema di tassazione condiziona le scelte di destinazione dell'utile, secondo il docente della lezione 17?
+**R:** Il primo sull'**utile d'esercizio** dell'impresa; il secondo sul **beneficio del singolo investitore**, che nella sua dichiarazione dei redditi pagherà la sua aliquota sulle **rendite finanziarie**.
+**Opzione:** La tassazione dell'utile d'esercizio e quella delle rendite finanziarie del singolo investitore.
+**Distrattori:**
+- La tassazione del fatturato e quella dell'utile d'esercizio.
+- La tassazione dell'utile d'esercizio e quella del patrimonio netto dell'impresa.
+
+**D:** ⚠️ Nell'esempio Italia-Romania del docente della lezione 17, come usa la casa madre i «costi di transazione» fra consociate per ridurre le imposte?
+**R:** Fa sì che la consociata **rumena** fornisca materie prime e semilavorati alla consociata **italiana** a prezzi **più alti di quelli di mercato**. La consociata italiana sostiene costi più alti, che vanno a detrazione del reddito: **minore utile**, **minori imposte**. È «una scelta di inefficienza, se volete, antieconomica».
+**Opzione:** Fa vendere le forniture alla consociata italiana a prezzi più alti di quelli di mercato, per ridurne l'utile.
+**Distrattori:**
+- Fa vendere le forniture alla consociata italiana a prezzi più bassi di quelli di mercato, per ridurne i costi.
+- Fa comprare la consociata italiana ai prezzi di mercato, per massimizzarne l'utile.
+- Fa fatturare tutte le transazioni in un unico luogo, dove il gruppo paga le tasse.
+
+**D:** ⚠️ Che cosa sono i centri di rifatturazione, secondo il docente della lezione 17?
+**R:** Le consociate con un'apertura globale decidono di **fatturare in un unico luogo**, «l'unico luogo nel quale pagano le tasse»: acquisti, vendite e transazioni finanziarie con ripercussioni sul reddito sono soggetti a un'**unica imposizione fiscale**, quella del **luogo dove si fattura**. Così si riduce il carico fiscale medio del gruppo.
+**Opzione:** Fatturare tutte le transazioni in un unico luogo, soggette all'imposizione fiscale del luogo dove si fattura.
+**Distrattori:**
+- Fatturare ogni transazione nel paese della consociata che la realizza, per distribuire il carico fiscale.
+- Rifatturare le forniture fra consociate a prezzi più alti di quelli di mercato.
+- Centri che rivedono le fatture dei fornitori per ridurre i costi di acquisto esterni.
+
+**D:** ⚠️ Quale esempio cita il docente della lezione 17 per la scelta di collocare la sede fiscale dove la pressione fiscale è più bassa?
+**R:** **Stellantis**, che «ha collocato la sede fiscale in **Olanda**», perché lì la pressione fiscale è minore di quella italiana. Fra paesi dell'Unione Europea, aggiunge, le operazioni sui costi di transazione sono però più complicate, perché «i sistemi fiscali si parlano».
+**Opzione:** Stellantis, con la sede fiscale in Olanda.
+**Distrattori:**
+- Stellantis, con la sede fiscale in Romania.
+- Stellantis, con la sede fiscale in Italia.
+- Ducati, con la sede fiscale in Germania.
