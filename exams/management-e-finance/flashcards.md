@@ -3147,3 +3147,247 @@
 **Distrattori:**
 - Si riducono i costi associati alla burocrazia che ostacolano il processo di elaborazione delle informazioni.
 - Si riduce il personale interno.
+
+## Lezione 13 — La struttura societaria e le scelte strategiche 1
+
+**D:** ⚠️ Da quali cinque fattori del modello di governance della proprietà possono dipendere le scelte strategiche e la vision di una corporation (lezione 13)?
+**R:** 1. La concentrazione azionaria; 2. Le aspettative degli stakeholders; 3. Il ruolo degli shareholders; 4. Il contesto normativo, competitivo e di settore; 5. Il ruolo dei mercati finanziari e dello Stato.
+**Opzione:** La concentrazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
+**Distrattori:**
+- La concentrazione azionaria; Le aspettative degli shareholders; Il ruolo degli stakeholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
+- La frammentazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
+- La concentrazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei sindacati e delle banche.
+
+**D:** ⚠️ Fra i fattori della governance della lezione 13, quale riguarda gli stakeholders e quale gli shareholders, secondo la slide?
+**R:** Per la slide il **secondo** fattore sono «Le **aspettative** degli **stakeholders**» e il **terzo** «Il **ruolo** degli **shareholders**». ⚠️ Il docente li commenta scambiati: il secondo come le aspettative degli **azionisti** (interessi industriali o speculativi), il terzo come l'**ambiente esterno** (sindacati, banche, mercati finanziari). Nei quiz valgono le parole della slide.
+**Opzione:** Le aspettative degli stakeholders e il ruolo degli shareholders.
+**Distrattori:**
+- Le aspettative degli shareholders e il ruolo degli stakeholders.
+- Il ruolo degli stakeholders e il ruolo degli shareholders.
+
+**D:** ⚠️ Come incide la concentrazione azionaria sulle decisioni, secondo la lezione 13?
+**R:** Dove **pochi azionisti** possiedono gran parte delle azioni, l'azionista ha «un forte peso decisionale». Dove **molti azionisti** possiedono piccole quote, l'azionista ha un potere discrezionale «molto basso»: «tutto è affidato al **manager**».
+**Opzione:** Con pochi grandi azionisti l'azionista pesa molto; con molti piccoli azionisti tutto è affidato al manager.
+**Distrattori:**
+- Con pochi grandi azionisti tutto è affidato al manager; con molti piccoli azionisti l'azionista pesa molto.
+- In entrambi i casi decide il consiglio di amministrazione, senza influenza degli azionisti.
+
+**D:** ⚠️ A quali due modelli fondamentali la letteratura di corporate governance riconduce i sistemi economici delle nazioni più sviluppate (lezione 13)?
+**R:** Al **modello anglo-americano** (**outsider system**) e al **modello renano e latino** (**insider system**).
+**Opzione:** Modello anglo-americano (outsider system) e modello renano e latino (insider system).
+**Distrattori:**
+- Modello anglo-americano (insider system) e modello renano e latino (outsider system).
+- Modello anglo-americano e renano (outsider system) e modello latino (insider system).
+
+**D:** ⚠️ Come è costruito lo schema dei modelli di governance della lezione 13?
+**R:** Dal **Sistema aziendale** partono due rami. **Sistemi basati sul mercato** = **Outsider systems**, con un solo tipo: **angloamericano**. **Sistemi basati sulle relazioni** = **Insider systems**, con due tipi: **latino** e **renano**.
+**Opzione:** Outsider: sistemi basati sul mercato, tipo angloamericano; insider: sistemi basati sulle relazioni, tipo latino e tipo renano.
+**Distrattori:**
+- Outsider: sistemi basati sulle relazioni, tipo angloamericano; insider: sistemi basati sul mercato, tipo latino e tipo renano.
+- Outsider: sistemi basati sul mercato, tipo angloamericano e tipo renano; insider: sistemi basati sulle relazioni, tipo latino.
+
+**D:** ⚠️ Come verrebbe ceduta una grande azienda italiana in un sistema basato sulle relazioni, secondo la lezione 13?
+**R:** «Di solito non lo farebbe sul mercato»: si rivolgerebbe per **canali relazionali** ad altri operatori del settore. Il prezzo non lo decide l'incontro fra domanda e offerta, ma i **valori relazionali** che l'acquirente attribuisce all'impresa: una valutazione **interna**, non esterna.
+**Opzione:** Per canali relazionali, con un prezzo basato sul valore che l'acquirente le attribuisce.
+**Distrattori:**
+- Mettendo le azioni sul mercato al miglior offerente.
+- Con una scalata ostile sul mercato azionario.
+
+**D:** ⚠️ Su che cosa Renault valutò Matra quando la acquistò, nell'esempio della lezione 13?
+**R:** Non sul **patrimonio** (lo stabilimento, i carrozzieri: asset che Renault già aveva), ma sul suo **progetto industriale**: l'auto **monovolume**, per cui c'era una domanda nascosta. È un'acquisizione «fatta non sul mercato ma fatta sulla base di una **relazione**». Il docente dice che il progetto divenne la Renault «Scenic».
+**Opzione:** Sul progetto industriale della monovolume, non sul patrimonio fisico.
+**Distrattori:**
+- Sul patrimonio fisico: lo stabilimento e i carrozzieri.
+- Sul prezzo delle azioni quotate in borsa.
+
+**D:** ⚠️ Che cos'è una scalata, e quali tipi ne distingue la lezione 13?
+**R:** «Un'acquisizione progressiva di azioni di un'altra azienda». **Amichevole** se concordata: si comprano le azioni in fretta, perché un eccesso di domanda farebbe salire il prezzo. **Ostile** se non lo è: si comprano sul mercato le azioni di un concorrente quotato per farlo fuori.
+**Opzione:** Un'acquisizione progressiva di azioni di un'altra azienda, amichevole se concordata, ostile se no.
+**Distrattori:**
+- Una fusione fra due aziende che ne creano una terza comune.
+- Un'acquisizione per canali relazionali, sempre concordata.
+
+**D:** Che cosa accade nel prezzo delle azioni durante una scalata ostile, secondo la lezione 13?
+**R:** Il concorrente si difende **comprando a sua volta le proprie azioni**, e nasce un'**escalation** di prezzo: il nuovo prezzo «non è il suo valore reale ma è il valore frutto di una **speculazione**». Vince chi ha la capacità finanziaria e offre il prezzo più alto.
+**Opzione:** Il concorrente compra le proprie azioni per difendersi, e il prezzo sale per speculazione oltre il valore reale.
+**Distrattori:**
+- Il concorrente vende le proprie azioni, e il prezzo scende sotto il valore reale.
+- Il prezzo resta fermo, perché le azioni sono acquistate fuori mercato.
+
+**D:** ⚠️ Quali paesi cita la slide dell'outsider system, e su quale sistema legislativo si basa?
+**R:** **Stati Uniti**, **Gran Bretagna** e **Irlanda**, culture anglosassoni, regolate da un sistema legislativo basato sulla **common law**.
+**Opzione:** Stati Uniti, Gran Bretagna e Irlanda; common law.
+**Distrattori:**
+- Stati Uniti, Gran Bretagna e Irlanda; civil law.
+- Stati Uniti, Germania e Irlanda; common law.
+
+**D:** ⚠️ Che differenza c'è fra la common law e il codice, secondo il docente della lezione 13?
+**R:** La **common law** non usa codici: le nuove sentenze che hanno funzionato si sommano alle precedenti e sostituiscono quelle desuete, quindi è «**più flessibile**». Il **codice** è più rigido: dà norme da rispettare, e quando diventano desuete bisogna fare un nuovo codice, il che richiede molto tempo.
+**Opzione:** La common law somma e aggiorna le sentenze ed è più flessibile; il codice è più rigido e lento da rifare.
+**Distrattori:**
+- La common law è un codice rigido; il codice si aggiorna con le sentenze ed è più flessibile.
+- Sono equivalenti: entrambi si aggiornano solo rifacendo il codice.
+
+**D:** ⚠️ Quali sono le sei caratteristiche dell'outsider system (lezione 13)?
+**R:** Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
+**Opzione:** Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
+**Distrattori:**
+- Mercati finanziari non efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
+- Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere negli azionisti; contendibilità del management.
+- Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; concentrazione del capitale; concentrazione del potere nel management; contendibilità del management.
+
+**D:** Che cosa significa che i mercati finanziari sono efficienti, secondo il docente della lezione 13?
+**R:** Che «ci sono **molte transazioni** e sono **molto frequenti**», quindi è facile comprare e vendere. Chi porta le azioni sul mercato ottiene un effetto sul **prezzo**, al rialzo o al ribasso, «non già l'impossibilità di vendere».
+**Opzione:** Che le transazioni sono molte e frequenti: vendere incide sul prezzo, ma non è impossibile.
+**Distrattori:**
+- Che le transazioni sono poche, su pacchetti molto grandi.
+- Che il prezzo delle azioni non cambia, qualunque sia la domanda.
+
+**D:** ⚠️ Perché nell'outsider system la proprietà non è interessata alla gestione industriale, secondo la lezione 13?
+**R:** Perché il capitale è **frammentato**: le transazioni riguardano **pacchetti piccoli**, e chi detiene un'azione ne ha «una quota piccola di capitale per un **breve lasso di tempo**». Una proprietà così si affida ai manager.
+**Opzione:** Perché ciascuno detiene una quota piccola per un breve lasso di tempo.
+**Distrattori:**
+- Perché pochi azionisti detengono grandi quote per lungo tempo.
+- Perché le azioni non sono quotate sul mercato.
+
+**D:** ⚠️ Quale missione riceve il manager nell'outsider system, secondo la lezione 13?
+**R:** Una missione **finanziaria**: generare valore, cioè far crescere il **valore dell'azione**, «perché l'azionista non ha altri parametri di riferimento se non i parametri finanziari».
+**Opzione:** Una missione finanziaria: far crescere il valore dell'azione.
+**Distrattori:**
+- Una missione industriale di lunghissimo periodo, decisa dagli eredi del fondatore.
+- Una missione sociale verso i lavoratori e i sindacati.
+
+**D:** ⚠️ Quali sono le due fonti di valore per l'azionista, secondo la lezione 13?
+**R:** Il **valore del titolo**, il *market value* (o *stock value*), cioè la differenza fra prezzo di vendita e di acquisto; e il **dividendo**, «la quota parte di utile che viene all'azionista». Il manager deve agire su entrambe: per questo il piano strategico «si arricchisce di cash flow».
+**Opzione:** Il valore del titolo (market value) e il dividendo.
+**Distrattori:**
+- Il valore nominale del titolo e il rapporto di concambio.
+- Il dividendo e il compenso del manager.
+
+**D:** Da quali due leve dipende il market value di un'azione, secondo la lezione 13?
+**R:** Dal **buon andamento dell'azienda**, che attira gli investitori per la sua affidabilità e le sue performance, e dall'**azione speculativa** di chi compra titoli che giudica sottovalutati per rivenderli appena superano la soglia attesa.
+**Opzione:** Dal buon andamento dell'azienda e dall'azione speculativa sui titoli.
+**Distrattori:**
+- Dal valore del patrimonio e dal dividendo.
+- Dalle decisioni dello Stato e dei sindacati.
+
+**D:** ⚠️ Quali sono le cinque caratteristiche delle public companies, riferimento dell'outsider system (lezione 13)?
+**R:** Un elevatissimo numero di azionisti; nessun socio detentore di una quota elevata di azioni tale da garantirgli il controllo; esercizio del controllo da parte del management, da cui deriva la separazione tra proprietà e controllo; la contendibilità del controllo; la riallocazione del controllo societario affidata al mercato.
+**Opzione:** Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
+**Distrattori:**
+- Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata alle relazioni.
+- Pochi grandi azionisti; un socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
+- Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo degli azionisti e unione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
+
+**D:** ⚠️ Come definisce la slide delle public companies la contendibilità del controllo?
+**R:** «Concreta possibilità di perdita del controllo da parte di chi lo esercita, **anche senza il suo consenso**».
+**Opzione:** Concreta possibilità di perdita del controllo da parte di chi lo esercita, anche senza il suo consenso.
+**Distrattori:**
+- Concreta possibilità di perdita del controllo da parte di chi lo esercita, solo con il suo consenso.
+- Concreta possibilità di acquisire il controllo solo con il consenso dello Stato.
+
+**D:** ⚠️ Da che cosa deriva la separazione tra proprietà e controllo, secondo la slide delle public companies?
+**R:** Dall'**esercizio del controllo da parte del management**: nessun socio ha una quota di controllo, e i proprietari non guidano l'azienda, ma ne misurano le performance e danno indirizzi ex ante.
+**Opzione:** Dall'esercizio del controllo da parte del management.
+**Distrattori:**
+- Dall'esercizio del controllo da parte del socio di maggioranza.
+- Dalla riallocazione del controllo affidata alle banche.
+
+**D:** Come si può esercitare il controllo in una public company, secondo il docente della lezione 13?
+**R:** Costruendo «dei **trust**», delle **alleanze** fra azionisti che votino nello stesso modo nel consiglio di amministrazione o nell'assemblea, perché nessuno ha da solo una quota sufficiente. Altrimenti il management avrebbe una capacità di indirizzo e di controllo fuori dalla portata degli azionisti.
+**Opzione:** Costruendo trust e alleanze fra azionisti che votino nello stesso modo.
+**Distrattori:**
+- Comprando da soli la maggioranza assoluta delle azioni.
+- Affidandolo per legge allo Stato.
+
+**D:** ⚠️ Quali sono le implicazioni della separazione tra proprietà e controllo nell'outsider system (lezione 13)?
+**R:** I managers più capaci, ma privi di capitale di rischio, possono gestire un'impresa con efficienza, allontanando a volte gli eredi; maggiore discrezionalità del management, che è possibile ridurre attraverso il ricorso all'indebitamento; informazione parziale e incompleta a disposizione dei finanziatori (asimmetrie informative); costi di agenzia; short termism.
+**Opzione:** Manager capaci senza capitale di rischio; maggiore discrezionalità del management; asimmetrie informative; costi di agenzia; short termism.
+**Distrattori:**
+- Manager capaci senza capitale di rischio; minore discrezionalità del management; asimmetrie informative; costi di agenzia; short termism.
+- Manager capaci senza capitale di rischio; maggiore discrezionalità del management; asimmetrie informative; costi di transazione; short termism.
+- Manager capaci senza capitale di rischio; maggiore discrezionalità del management; asimmetrie informative; costi di agenzia; long termism.
+
+**D:** ⚠️ Che rapporto c'è fra indebitamento e discrezionalità del management, secondo la slide delle implicazioni dell'outsider system?
+**R:** La discrezionalità del management «è possibile **ridurre** attraverso il ricorso all'**indebitamento**». ⚠️ Il docente dice il contrario: la discrezionalità «può consentire una riduzione dell'indebitamento», perché il manager che ottiene fiducia attira nuovi azionisti. Nei quiz vale la slide.
+**Opzione:** Il ricorso all'indebitamento riduce la discrezionalità del management.
+**Distrattori:**
+- Il ricorso all'indebitamento aumenta la discrezionalità del management.
+- La discrezionalità del management non dipende dall'indebitamento.
+
+**D:** ⚠️ Perché i manager «immunizzano» il gruppo dal rischio degli eredi, secondo la lezione 13?
+**R:** Perché i manager più capaci, anche se privi di capitale di rischio, gestiscono con efficienza, «allontanando a volte gli eredi, spesso meno capaci dei fondatori». Quando il fondatore muore, i familiari possono trovarsi a guidare l'azienda senza preparazione; il manager ha un comportamento **professionale**, anche nel **ricambio generazionale**.
+**Opzione:** Perché gestiscono in modo professionale e allontanano gli eredi, spesso meno capaci dei fondatori.
+**Distrattori:**
+- Perché sono gli eredi del fondatore e ne conoscono il mestiere.
+- Perché devono apportare capitale di rischio per gestire l'impresa.
+
+**D:** ⚠️ Che cosa sono i costi di agenzia, secondo il docente della lezione 13?
+**R:** «Un **costo addizionale** perché serve alla proprietà per **controllare il suo agente**», che è il **manager**, al quale è affidata una missione. Sono lo strumento con cui la proprietà controlla il potere del management, difficile da controllare perché gli azionisti possono verificarne il ruolo solo ex post. Nella lezione 13 sono una delle implicazioni della separazione tra proprietà e controllo.
+**Opzione:** Un costo addizionale che serve alla proprietà per controllare il suo agente, il manager.
+**Distrattori:**
+- Il costo delle agenzie che distribuiscono i prodotti dell'impresa.
+- Il costo che il manager sostiene per controllare gli azionisti.
+
+**D:** ⚠️ Con quali strumenti la proprietà sostiene i costi di agenzia, negli esempi della lezione 13?
+**R:** **Premi** se il manager raggiunge degli extra profitti, **punizioni** se non vince la gara competitiva, e il pagamento **in azioni** e non solo in contanti: il manager diventa socio, e i benefici degli azionisti sono anche suoi.
+**Opzione:** Premi per gli extra profitti, punizioni se perde la gara competitiva, pagamento in azioni.
+**Distrattori:**
+- Riduzione del personale interno e taglio dei costi della burocrazia.
+- Pagamento solo in contanti, per tenere il manager fuori dalla proprietà.
+
+**D:** Che ruolo ha il manager nelle asimmetrie informative dell'outsider system, secondo la lezione 13?
+**R:** Il rapporto fra business e finanziatori è **mediato dal manager**, che trasferisce le informazioni in modo più o meno **trasparente**, a volte «in maniera **strumentale**» ai propri obiettivi, anche opportunistici. Per la slide i finanziatori hanno un'informazione «parziale e incompleta».
+**Opzione:** Media il rapporto con i finanziatori e trasferisce le informazioni in modo più o meno trasparente.
+**Distrattori:**
+- Lascia che i finanziatori ricevano informazioni complete direttamente dal mercato.
+- Riceve dagli azionisti informazioni parziali e incomplete sul business.
+
+**D:** ⚠️ Che cos'è lo short termism, secondo la lezione 13?
+**R:** Per la slide, «un'**esasperata concentrazione sulla performance a breve**, che **ostacola progetti di ampio respiro**». Per il docente gli obiettivi del manager non superano il biennio o il triennio, e il manager punta al **bonus di fine anno**: se è capace, gli obiettivi di breve sono tappe di un obiettivo di lungo termine; spesso servono solo ai suoi obiettivi personali.
+**Opzione:** Un'esasperata concentrazione sulla performance a breve, che ostacola progetti di ampio respiro.
+**Distrattori:**
+- Un'esasperata concentrazione sui progetti di ampio respiro, che ostacola la performance a breve.
+- La breve durata del mandato del consiglio di amministrazione.
+
+### Flashcard dai quiz — lezione 13
+
+**D:** ⚠️ Il modello di governance del tipo insider system (test della lezione 13, domanda 1):
+**R:** **Riguarda corporation caratterizzate da un forte accentramento della proprietà.** L'insider system è il modello «renano e latino»; la proprietà **diffusa** e la **public company** sono invece dell'outsider system («elevatissimo numero di azionisti», «frammentazione del capitale»). Distrattori del test: «è tipico di corporation caratterizzate da una proprietà diffusa», «è tipico di una public company», «si limita alle corporation internazionalizzate».
+**Opzione:** Riguarda corporation caratterizzate da un forte accentramento della proprietà.
+**Distrattori:**
+- È tipico di corporation caratterizzate da una proprietà diffusa.
+- È tipico di una public company.
+- Si limita alle corporation internazionalizzate.
+
+**D:** ⚠️ 🚨 Il modello di governance del tipo insider system (test della lezione 13, domanda 2):
+**R:** **Accentua la relazione tra proprietà e management evitando problemi di agenzia.** I costi di agenzia sono un'implicazione della **separazione** tra proprietà e controllo, tipica dell'outsider system; l'insider system è basato sulle **relazioni**. 🚨 La piattaforma segna invece «è tipico di corporation caratterizzate da una proprietà **diffusa**», che è l'outsider system e contraddice la chiave della domanda 1 dello stesso test (forte accentramento della proprietà). All'esame quella domanda potrebbe essere corretta secondo la chiave sbagliata. Altri distrattori: «si limita alle corporation internazionalizzate», «riguarda i Business trappola e demolitore del valore».
+**Opzione:** Accentua la relazione tra proprietà e management evitando problemi di agenzia.
+**Distrattori:**
+- È tipico di corporation caratterizzate da una proprietà diffusa.
+- Si limita alle corporation internazionalizzate.
+- Riguarda i business trappola e demolitore del valore.
+
+**D:** ⚠️ I principali limiti di un modello insider system, secondo il test della lezione 13:
+**R:** **Limita la crescita dimensionale.** ⚠️ Non è nelle lezioni 01–13. Distrattori del test: «favorisce scalate ostili», che è dell'outsider system (possibilità di takeover); «alimenta il debito»; «riguardano il ruolo ostile degli azionisti di minoranza».
+**Opzione:** Limita la crescita dimensionale.
+**Distrattori:**
+- Riguardano il ruolo ostile degli azionisti di minoranza.
+- Favorisce scalate ostili.
+- Alimenta il debito.
+
+**D:** ⚠️ Il modello di governance del tipo insider system (test della lezione 13, domanda 4):
+**R:** **È tipico dei contesti latini.** L'insider system è il modello «**renano e latino**»; i contesti **anglosassoni** sono dell'outsider system. Distrattori del test: «è tipico dei contesti anglosassoni», «si applica solo alle imprese italiane» (il modello latino è anche francese), «esclude le corporation asiatiche».
+**Opzione:** È tipico dei contesti latini.
+**Distrattori:**
+- È tipico dei contesti anglosassoni.
+- Si applica solo alle imprese italiane.
+- Esclude le corporation asiatiche.
+
+**D:** ⚠️ Il modello di governance del tipo insider system (test della lezione 13, domanda 5):
+**R:** **Si lega a contesti in cui i mercati finanziari non sono efficienti.** È l'opposto dei «mercati finanziari efficienti» dell'outsider system; l'insider è basato sulle **relazioni**. Distrattori del test: «si lega a contesti in cui i mercati finanziari sono efficienti» (segno invertito), «è sconnesso dai contesti finanziari», «è favorito dalle pratiche del common law», che è dell'outsider.
+**Opzione:** Si lega a contesti in cui i mercati finanziari non sono efficienti.
+**Distrattori:**
+- Si lega a contesti in cui i mercati finanziari sono efficienti.
+- È sconnesso dai contesti finanziari.
+- È favorito dalle pratiche del common law.
