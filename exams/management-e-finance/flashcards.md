@@ -2908,3 +2908,242 @@
 - Tale modalità non presenta svantaggi.
 - Sviluppo incrementale eccessivo e lentezza dell'operazione.
 - Lentezza nell'operazione, compatibilità con la cultura aziendale, incremento della competitività nel settore e sviluppo incrementale.
+
+## Lezione 12 — Sviluppo interno e alleanze
+
+**D:** ⚠️ Che cosa cambia nelle slide dello sviluppo interno e delle alleanze della lezione 12 rispetto a quelle della lezione 10?
+**R:** Quasi nulla: sono le stesse slide. L'ultimo svantaggio dello sviluppo interno diventa «**Lentezza**» invece di «Lentezza nel cambiamento», e fra «Il controllo dell'alleanza» e «Cannibalismo» sparisce la «**&**». Restano quattro vantaggi e tre svantaggi per lo sviluppo interno, tre e tre per le alleanze.
+**Opzione:** Solo «Lentezza» al posto di «Lentezza nel cambiamento» e la «&» che sparisce fra controllo dell'alleanza e cannibalismo.
+**Distrattori:**
+- Le alleanze perdono il vantaggio «Flessibilità».
+- Lo sviluppo interno guadagna lo svantaggio «Costi».
+
+**D:** ⚠️ Che cosa si intende per sviluppo interno, secondo la lezione 12?
+**R:** La modalità con cui la corporation cresce «senza agire sull'esterno, senza acquistare operatori esterni, fondersi o allearsi con altri, ma semplicemente crescendo per **dimensione**». «Me lo faccio da me»: investo nei miei business con soldi miei, con nuovi investitori o indebitandomi. Si sceglie in alternativa alla fusione e all'alleanza.
+**Opzione:** Crescere per dimensione senza acquistare operatori esterni, fondersi o allearsi con altri.
+**Distrattori:**
+- Crescere acquistando operatori esterni e integrandoli nel gruppo.
+- Crescere creando con un partner una nuova società partecipata.
+
+**D:** ⚠️ Perché lo sviluppo interno velocizza le decisioni, secondo la lezione 12?
+**R:** Perché «sono l'**unico decisore**»: anche la decisione di cambiare è più veloce, perché non devo convincere alleati, soci o partner. Il tempo è «uno dei fattori determinanti di successo di una strategia», e lo sviluppo interno agisce sulla «**tempestività** nell'acquisizione della decisione».
+**Opzione:** Perché sono l'unico decisore e non devo convincere alleati, soci o partner.
+**Distrattori:**
+- Perché le decisioni si prendono insieme ai partner dell'alleanza.
+- Perché il mercato fornisce tutte le informazioni necessarie.
+
+**D:** ⚠️ Perché crescendo per via interna si colgono meglio le immaterialità, secondo la lezione 12?
+**R:** Il patrimonio **materiale** (tecnologie, impianti) può essere valutato anche da un esperto esterno. L'**immaterialità** richiede invece «un approfondimento, una conoscenza, una partecipazione del decisore che un **esterno non può avere**»: chi è già nel business ne coglie i segnali meglio dei concorrenti.
+**Opzione:** Perché valutarla richiede una conoscenza e una partecipazione del decisore che un esterno non può avere.
+**Distrattori:**
+- Perché le risorse immateriali si valutano meglio con una perizia esterna.
+- Perché le risorse immateriali non hanno valore fuori dall'impresa.
+
+**D:** ⚠️ Perché i produttori di grandi generatori elettrici hanno scelto di farsi da sé i cassoni d'acciaio, nell'esempio della lezione 12?
+**R:** Avevano **esternalizzato** i cassoni, ma i fornitori non avevano i loro tempi: vincevano la gara, avevano i generatori pronti e non potevano spedirli. Si sono **integrati verticalmente** con uno sviluppo interno, anche se la carpenteria è costosa e richiede molta manodopera: li ha spinti la **scarsità** del prodotto sul mercato.
+**Opzione:** Perché i fornitori esterni non avevano i loro tempi e il prodotto era scarso sul mercato.
+**Distrattori:**
+- Perché la carpenteria era un'attività economica e veloce.
+- Perché volevano diversificarsi nel mercato dell'acciaio.
+
+**D:** ⚠️ Perché le «Risorse» sono uno svantaggio dello sviluppo interno, secondo la lezione 12?
+**R:** Lo sviluppo interno assorbe risorse, ed è uno svantaggio «**non tanto perché è costoso**, ma quanto piuttosto perché assorbe risorse dal nostro **core business**»: chi fa generatori e si mette a fare cassoni sposta denari, persone e competenze dal business che gli dà il vantaggio competitivo. (Nella lezione 10 il docente diceva «investire pesantemente».)
+**Opzione:** Perché sottrae denari, persone e competenze al core business, più che per il costo in sé.
+**Distrattori:**
+- Perché costa più di qualunque acquisizione.
+- Perché obbliga sempre a indebitarsi con nuovi investitori.
+
+**D:** Come spiega il docente della lezione 12 gli svantaggi «Diseconomie» e «Lentezza» dello sviluppo interno?
+**R:** **Diseconomie**: «non è detto che si realizzino economie, quindi non è detto che ci siano costi comuni». **Lentezza**: il processo diventa più lento, perché «agisce su più business pesanti fra loro».
+**Opzione:** Non è detto che si realizzino economie e costi comuni, e il processo rallenta perché agisce su più business.
+**Distrattori:**
+- Si realizzano sempre economie di scala, ma il processo rallenta.
+- Il processo accelera, ma i costi comuni crescono.
+
+**D:** ⚠️ Quando fu fondata Lego, e quando nacquero il nome LEGO e i mattoncini, secondo la lezione 12?
+**R:** Fondata nel **1932** dal danese Ole Kirk Kristiansen (giocattoli di legno); nome **LEGO** nel **1934**, con 12 dipendenti e il motto «only the best is good enough»; prima macchina a iniezione di plastica nel **1947**; mattoncini nel **1949**.
+**Opzione:** Fondata nel 1932, nome LEGO nel 1934, mattoncini nel 1949.
+**Distrattori:**
+- Fondata nel 1934, nome LEGO nel 1932, mattoncini nel 1949.
+- Fondata nel 1932, nome LEGO nel 1934, mattoncini nel 1960.
+
+**D:** ⚠️ Che cosa dice la linea del tempo della lezione 12 su Lego nel 2010?
+**R:** Oltre **9000** dipendenti, **quarto** produttore di giocattoli, vendite annue per **3,7 miliardi** di dollari e utile netto di **0,86 miliardi**. ⚠️ Il docente dice «3,7 **milioni**»: vale la slide.
+**Opzione:** Quarto produttore di giocattoli, con vendite per 3,7 miliardi di dollari e utile netto di 0,86 miliardi.
+**Distrattori:**
+- Quarto produttore di giocattoli, con vendite per 3,7 milioni di dollari e utile netto di 0,86 milioni.
+- Primo produttore di giocattoli, con vendite per 0,86 miliardi di dollari e utile netto di 3,7 miliardi.
+
+**D:** ⚠️ Con quali quattro rimedi Lego affronta i «problemi interni» (4 anni in perdita su 7) della sua linea del tempo?
+**R:** Ottimizzazione del processo produttivo; riduzione dei fornitori; riduzione della varietà del design; ottimizzazione della distribuzione.
+**Opzione:** Ottimizzare il processo produttivo, ridurre i fornitori, ridurre la varietà del design, ottimizzare la distribuzione.
+**Distrattori:**
+- Ottimizzare il processo produttivo, aumentare i fornitori, ridurre la varietà del design, ottimizzare la distribuzione.
+- Ottimizzare il processo produttivo, ridurre i fornitori, aumentare la varietà del design, ottimizzare la distribuzione.
+- Ottimizzare il processo produttivo, ridurre i fornitori, ridurre la varietà del design, acquisire un concorrente.
+
+**D:** ⚠️ Come cresce Lego, secondo la slide che apre con «The lego business has never made an acquisition»?
+**R:** Lego **non ha mai fatto acquisizioni**: punta sullo **sviluppo di nuovi prodotti** e sull'**innovazione** come motori di ricavi e profitti, e dal **2007** ha **triplicato** i ricavi. ⚠️ Il docente dice invece che Lego acquisì un'azienda esterna nel digitale, nel 2000 o nel 2010: vale la slide.
+**Opzione:** Senza acquisizioni, puntando su nuovi prodotti e innovazione: dal 2007 ha triplicato i ricavi.
+**Distrattori:**
+- Con molte acquisizioni, puntando sulla crescita esterna: dal 2007 ha triplicato i ricavi.
+- Senza acquisizioni, puntando sulla riduzione dei prezzi: dal 2007 ha dimezzato i ricavi.
+
+**D:** ⚠️ Che cosa fece Lego nella crisi del 2004, secondo la lezione 12?
+**R:** Un classico **turnaround**: fermare il calo delle vendite, **ridurre il debito**, puntare sul **cash flow**, con uno stretto controllo finanziario e una gestione **top-down**. Poi tornò ai **prodotti core**, il cui design aiuta i bambini a imparare il problem solving sistematico e creativo.
+**Opzione:** Un turnaround: fermare il calo delle vendite, ridurre il debito, puntare sul cash flow, con gestione top-down.
+**Distrattori:**
+- Un'acquisizione: comprare un concorrente per tornare a crescere.
+- Un turnaround con gestione bottom-up e aumento del debito per investire.
+
+**D:** ⚠️ Come coinvolge Lego i fan nello sviluppo dei prodotti, secondo la lezione 12?
+**R:** Dal **2005** coinvolge alcuni fan entusiasti nello sviluppo dei prodotti e li incoraggia a proporre idee: la comunità Lego è uno dei suoi **core assets**, come il mattoncino. Ha **120** designer interni, ma potenzialmente **120.000** designer volontari fuori dall'azienda.
+**Opzione:** Dal 2005 coinvolge i fan nello sviluppo: 120 designer interni, ma potenzialmente 120.000 volontari.
+**Distrattori:**
+- Dal 2005 coinvolge i fan nello sviluppo: 120.000 designer interni e 120 volontari.
+- Dal 2010 affida lo sviluppo a un'azienda esterna acquisita.
+
+**D:** ⚠️ Quali mercati target di Lego elenca la tabella della lezione 12?
+**R:** Cinque: **Children under 5** (Buyer ≠ Consumer: Duplo, comunicazione via parents); **Children & Teenagers** (building sets, video games); **Fans (adults)** (special products); **Educational market** (extra line for schools, Mindstorm); **Families** (theme parks, board games).
+**Opzione:** Bambini sotto i 5 anni, bambini e ragazzi, fan adulti, mercato educational, famiglie.
+**Distrattori:**
+- Bambini sotto i 5 anni, bambini e ragazzi, fan adulti, mercato educational, collezionisti professionali.
+- Bambini e ragazzi, fan adulti, mercato educational, famiglie, parchi tematici.
+
+**D:** ⚠️ Perché per i bambini sotto i 5 anni Lego comunica attraverso i genitori?
+**R:** Perché **chi compra non è chi consuma** («Buyer ≠ Consumer»): il prodotto è **Duplo**, e la comunicazione passa «via parents».
+**Opzione:** Perché chi compra non è chi consuma: il prodotto è Duplo e la comunicazione passa dai genitori.
+**Distrattori:**
+- Perché chi compra è chi consuma: il prodotto è Duplo e la comunicazione passa dalla TV.
+- Perché il prodotto è Mindstorm, venduto alle scuole.
+
+**D:** ⚠️ Come entra Lego nel mercato dei parchi tematici, secondo il docente della lezione 12?
+**R:** Per **sviluppo interno** e «in modo **correlato** col business precedente»: con Legoland, «un po' come ha fatto Disney», entra nell'entertainment trasferendo il logo, l'immagine e il riferimento ai mattoncini.
+**Opzione:** Per sviluppo interno e in modo correlato, trasferendo logo, immagine e riferimento ai mattoncini.
+**Distrattori:**
+- Acquisendo un operatore dei parchi, in modo conglomerato.
+- Con un'alleanza con Disney, che gestisce i parchi.
+
+**D:** ⚠️ Perché la scommessa digitale di Lego è stata un errore, secondo il docente della lezione 12?
+**R:** Lego temeva che la digitalizzazione affossasse i mattoncini e anticipò il cambiamento in modo «disruptive»: chiuse negozi, limitò i mattoncini a nicchie di amatori e investì per anni nel digitale per essere **first mover**. Ma il mercato non si digitalizzò: il suo **core market** continuò a chiedere il prodotto tradizionale, e ci volle tempo per uscirne, perché lo sviluppo interno è «una scelta lenta e difficile».
+**Opzione:** Perché investì per anni nel digitale da first mover, ma il core market continuò a chiedere i mattoncini tradizionali.
+**Distrattori:**
+- Perché investì nei mattoncini tradizionali, ma il mercato si digitalizzò più in fretta del previsto.
+- Perché acquisì un concorrente digitale e chiuse del tutto la produzione di mattoncini.
+
+**D:** ⚠️ Quali vantaggi ha il first mover, secondo la lezione 12?
+**R:** Si posiziona per primo sul mercato e acquisisce capacità e conoscenze che chi segue «dovrà acquisire nel tempo» e «pagare molto più». Si colloca nell'immaginario dei consumatori come un'azienda che conosce il mercato, gli utenti e i segmenti.
+**Opzione:** Si posiziona per primo e acquisisce conoscenze che chi segue dovrà pagare di più.
+**Distrattori:**
+- Paga di più le conoscenze che chi segue acquisirà gratis.
+- Non ha bisogno di studiare il mercato e i suoi segmenti.
+
+**D:** ⚠️ Che cosa insegna il caso Lego sulla crescita interna, secondo il docente della lezione 12?
+**R:** Che la crescita interna «difficilmente consente **elasticità e flessibilità**» e va fatta soprattutto in comparti in cui l'investitore ha «una **profonda conoscenza** del mercato». «**Salti nel buio** come quelli che abbiamo visto nel caso Lego non sono auspicabili».
+**Opzione:** Che va fatta nei comparti di cui si ha una profonda conoscenza: i salti nel buio non sono auspicabili.
+**Distrattori:**
+- Che è la modalità più flessibile, adatta ai mercati che non si conoscono.
+- Che conviene soprattutto per entrare in mercati nuovi e sconosciuti.
+
+**D:** ⚠️ Come definisce l'alleanza il docente nella lezione 12, e come la definiva nella lezione 10?
+**R:** Nella **lezione 12** è «una soluzione mediana di **quasi gerarchia**» fra lo **sviluppo interno** e l'**acquisizione**. Nella **lezione 10** era «una soluzione di **quasi mercato**», contrapposta allo sviluppo interno. In entrambe l'alleanza sta in mezzo; cambia il polo a cui il docente l'avvicina.
+**Opzione:** Nella 12 «quasi gerarchia», fra sviluppo interno e acquisizione; nella 10 «quasi mercato».
+**Distrattori:**
+- Nella 12 «quasi mercato»; nella 10 «quasi gerarchia», fra sviluppo interno e acquisizione.
+- In entrambe «quasi fusione», fra acquisizione e mercato.
+
+**D:** ⚠️ Fra quali svantaggi media l'alleanza, secondo la lezione 12?
+**R:** Fra la **rigidità** e la **lentezza** dello sviluppo interno e l'**eccessivo opportunismo** e l'**eccessiva frammentarietà** delle decisioni delle soluzioni di mercato. Per questo è «per certi versi la via più perseguita dai grandi gruppi», flessibile e con certi margini di controllo.
+**Opzione:** Fra la rigidità e la lentezza dello sviluppo interno e l'opportunismo e la frammentarietà delle soluzioni di mercato.
+**Distrattori:**
+- Fra l'opportunismo dello sviluppo interno e la lentezza delle soluzioni di mercato.
+- Fra il rapporto di concambio della fusione e i costi di transazione del mercato.
+
+**D:** ⚠️ Che differenza c'è fra joint venture ed equity joint venture, secondo la lezione 12?
+**R:** La **joint venture** è la forma occasionale: un contratto legato a un risultato (un nuovo mercato, prodotto o tecnologia), con una **data di scadenza** prorogabile. L'**equity joint venture** sopravvive alla singola avventura: l'azienda A e l'azienda B creano un'azienda **C**, di cui acquistano **quote di capitale**, ed è quindi «più difficile farla morire».
+**Opzione:** La joint venture è un contratto a scadenza per un obiettivo; l'equity joint venture è una nuova società partecipata dalle parti.
+**Distrattori:**
+- La joint venture è una nuova società partecipata dalle parti; l'equity joint venture è un contratto a scadenza per un obiettivo.
+- Sono la stessa cosa: un contratto a scadenza, prorogabile su accordo delle parti.
+
+**D:** ⚠️ Con quale esempio il docente della lezione 12 illustra l'opportunismo nelle alleanze?
+**R:** Un'alleanza con un **operatore cinese** per entrare facilmente nel mercato cinese: dopo due o tre anni, quando ho capito come si opera in quel mercato, l'alleanza non mi serve più. «Non è più un'alleanza strategica» ma persegue «fini opportunistici».
+**Opzione:** Usare un'alleanza per imparare a operare in un mercato estero e lasciarla quando non serve più.
+**Distrattori:**
+- Usare un'alleanza per acquisire il partner a un prezzo più basso.
+- Restare in un'alleanza anche quando non porta più benefici.
+
+**D:** ⚠️ Che cos'è la Open Handset Alliance, secondo la lezione 12?
+**R:** «A consortium of **84 firms** to develop **open standards** for mobile devices», guidato da **Google**: la piattaforma comune è **Android**.
+**Opzione:** Un consorzio di 84 imprese, guidato da Google, per sviluppare standard aperti per i dispositivi mobili.
+**Distrattori:**
+- Un consorzio di 84 imprese, guidato da Apple, per sviluppare standard chiusi per i dispositivi mobili.
+- Una joint venture fra 8 imprese per produrre semiconduttori.
+
+**D:** ⚠️ In quali cinque gruppi di imprese è organizzata la Open Handset Alliance nello schema della lezione 12?
+**R:** **Mobile operators**, **handset manufacturers**, **semiconductor companies**, **software companies**, **commercialization companies**. ⚠️ Il docente chiama «produttori di computer» Acer, Asus, Huawei e Toshiba, che lo schema mette fra gli handset manufacturers.
+**Opzione:** Mobile operators, handset manufacturers, semiconductor companies, software companies, commercialization companies.
+**Distrattori:**
+- Mobile operators, computer manufacturers, semiconductor companies, software companies, commercialization companies.
+- Mobile operators, handset manufacturers, semiconductor companies, software companies, content publishers.
+
+**D:** ⚠️ Che cosa si sono impegnati a fare i membri della Open Handset Alliance, e con quale licenza?
+**R:** A fare della **prima versione** della piattaforma un **successo commerciale**. Alcuni hanno conferito proprietà intellettuale rilasciata con licenza **Apache v2 Open Source**; altri rendono i loro **chipset** compatibili; produttori di telefoni e operatori sviluppano **telefoni** basati sulla piattaforma; i partner di commercializzazione la supportano con un modello di **servizi professionali**.
+**Opzione:** A fare della prima versione della piattaforma un successo commerciale, con licenza Apache v2 Open Source.
+**Distrattori:**
+- A fare della prima versione della piattaforma un successo commerciale, con licenza esclusiva di Google.
+- A sviluppare ciascuno una piattaforma propria, con licenza Apache v2 Open Source.
+
+**D:** ⚠️ Perché per il docente della lezione 12 la piattaforma Android è un'alleanza virtuosa, a differenza di quella Apple?
+**R:** Apple lavora «per sé» su una piattaforma **chiusa** (iOS, Apple Store, Apple Academy, Apple Foundation, produzione e assistenza personalizzate). Android parte da «un approccio **distribuito** della conoscenza open source»: gli attori sono legati «non già da un rapporto di proprietà, non già da una crescita per sviluppo interno ma da un'**alleanza**», e ognuno ne trae un beneficio di medio-lungo termine. È una «win-win situation».
+**Opzione:** Perché distribuisce la conoscenza fra attori legati da un'alleanza, non dalla proprietà, con benefici per tutti.
+**Distrattori:**
+- Perché tutti gli attori sono controllati da Google con quote di capitale.
+- Perché, come Apple, sviluppa tutto all'interno su una piattaforma chiusa.
+
+**D:** ⚠️ Che cosa aggiunge l'alleanza alla rete di una decisione corporate, secondo la lezione 12?
+**R:** Permette di potenziare la rete di attori: «non agisco solo sugli attori che controllo **finanziariamente** ma anche sugli attori che sono a me legati da relazioni di **alleanza**».
+**Opzione:** Permette di agire anche sugli attori legati da alleanze, non solo su quelli controllati finanziariamente.
+**Distrattori:**
+- Permette di controllare finanziariamente tutti gli attori della rete.
+- Limita la decisione corporate agli attori controllati finanziariamente.
+
+### Flashcard dai quiz — lezione 12
+
+**D:** ⚠️ Quale delle seguenti opzioni è esclusa nei costi di mercato (test della lezione 12)?
+**R:** **I costi di agenzia.** Nei materiali i **costi di transazione** sono i costi della soluzione di **mercato** (lezione 10); i costi di agenzia compaiono solo nella lezione 13, fra le implicazioni della separazione fra proprietà e controllo. «Conoscenze tacite» e «inseparabilità», gli altri due distrattori del test, non sono nei materiali.
+**Opzione:** Costi di agenzia.
+**Distrattori:**
+- Conoscenze tacite.
+- Costi di transazione.
+- Inseparabilità.
+
+**D:** ⚠️ Tra i benefici del mercato vi sono, secondo il test della lezione 12:
+**R:** **Efficienza informativa e forti incentivi**: sono la «Migliore elaborazione delle informazioni» e gli «Incentivi alle capacità» dei benefici del mercato della lezione 10. Distrattori del test: «autorità e coordinamento», che sono della gerarchia; «burocrazia e costi di agenzia», che sono costi della gerarchia; «benefici economici e di crescita», generico.
+**Opzione:** Efficienza informativa e forti incentivi.
+**Distrattori:**
+- Autorità e coordinamento.
+- Burocrazia e costi di agenzia.
+- Benefici economici e di crescita.
+
+**D:** ⚠️ La teoria dei costi di agenzia, secondo il test della lezione 12:
+**R:** **È tipica dei modelli outsider system.** È nella lezione **13**: fra le implicazioni della separazione fra proprietà e controllo nell'outsider system compaiono i «costi di agenzia». Distrattori del test: «riguarda esclusivamente le aziende diversificate» (quantificatore), «riguarda le aziende mono prodotto», «interessa i rapporti con le agenzie di distribuzione», una trappola sul nome.
+**Opzione:** È tipica dei modelli outsider system.
+**Distrattori:**
+- Riguarda esclusivamente le aziende diversificate.
+- Riguarda le aziende mono prodotto.
+- Interessa i rapporti con le agenzie di distribuzione.
+
+**D:** ⚠️ I costi di agenzia, secondo il test della lezione 12:
+**R:** **Riducono il rischio di controllo dei managers.** ⚠️ Non è nei materiali, e la formula della chiave è poco chiara: va ricordata così com'è. Distrattori del test: «agiscono sul prezzo finale del prodotto», «riguardano i costi di inseparabilità», «limitano la crescita aziendale».
+**Opzione:** Riducono il rischio di controllo dei managers.
+**Distrattori:**
+- Agiscono sul prezzo finale del prodotto.
+- Riguardano i costi di inseparabilità.
+
+**D:** ⚠️ Per minimizzare i costi di agenzia, secondo il test della lezione 12:
+**R:** **Si adotta un piano di incentivi volto a far coincidere il più possibile gli interessi dei manager di divisione con quelli della sede centrale.** ⚠️ Non è nei materiali, e la domanda è ambigua: anche «ridurre il rischio morale derivante dall'asimmetria delle informazioni» non è falso in generale. La lezione 13 elenca però «asimmetrie informative» e «costi di agenzia» come implicazioni **distinte**. Altri distrattori del test: «si riducono i costi associati alla burocrazia che ostacolano il processo di elaborazione delle informazioni», «si riduce il personale interno».
+**Opzione:** Si adotta un piano di incentivi volto a far coincidere il più possibile gli interessi dei manager di divisione con quelli della sede centrale.
+**Distrattori:**
+- Si riducono i costi associati alla burocrazia che ostacolano il processo di elaborazione delle informazioni.
+- Si riduce il personale interno.
