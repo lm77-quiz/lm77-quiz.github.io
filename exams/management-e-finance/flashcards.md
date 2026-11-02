@@ -2673,3 +2673,238 @@
 **Distrattori:**
 - Consente di coordinare tutte le attività aziendali.
 - Genera rendite marginali crescenti all'aumentare della distanza dal core business.
+
+## Lezione 11 — Fusione
+
+**D:** ⚠️ Come definisce la fusione il docente della lezione 11?
+**R:** «Fusione è un processo attraverso il quale **due aziende si fondono nel crearne una terza** che sia comune». È una delle **modalità** con cui si realizza la crescita, dopo le direttrici e l'organizzazione della crescita viste nelle lezioni precedenti.
+**Opzione:** Un processo attraverso il quale due aziende si fondono nel crearne una terza che sia comune.
+**Distrattori:**
+- Un processo attraverso il quale due aziende stabiliscono relazioni di lungo periodo senza fondersi.
+- Un processo attraverso il quale un'azienda cresce investendo al proprio interno.
+
+**D:** ⚠️ Perché due aziende scelgono di fondersi, invece di acquisirsi o di legarsi con una relazione di mercato, secondo la lezione 11?
+**R:** Perché sono aziende, a volte **concorrenti**, «che difficilmente avrebbero la forza di **acquisire l'una l'altra**», e la cui interazione è così stretta che «una semplice **relazione di mercato** non basta per ottenere tutte le sinergie possibili». La fusione genera però problemi di equilibrio, di potere e di visione.
+**Opzione:** Perché nessuna delle due avrebbe la forza di acquisire l'altra, e una relazione di mercato non basta per tutte le sinergie.
+**Distrattori:**
+- Perché una delle due ha la forza di acquisire l'altra, e una relazione di mercato basterebbe per le sinergie.
+- Perché le due aziende operano in mercati fra i quali non c'è alcuna sinergia.
+
+**D:** ⚠️ Perché Fiat e Peugeot-Citroën si sono fuse in Stellantis, secondo il docente della lezione 11?
+**R:** Erano concorrenti con **risorse complementari** e **segmenti di clientela complementari**, e con risorse strategiche simili che potevano creare sinergia. Dovevano diventare più grandi: in un mercato che si globalizza la dimensione regionale non basta per competere con **Toyota** e **Volkswagen**, e quella dimensione «non si può raggiungere attraverso strategie di crescita interna». La fusione è la via **più veloce**.
+**Opzione:** Per raggiungere in fretta una dimensione globale, non ottenibile con la crescita interna, unendo risorse complementari.
+**Distrattori:**
+- Per uscire dal mercato europeo e concentrarsi su quello nordamericano.
+- Perché la crescita interna sarebbe stata più veloce, ma troppo costosa.
+
+**D:** ⚠️ Quali sono, nell'ordine, i vantaggi della fusione (lezione 11)?
+**R:** Velocità di ingresso nel settore; Elimina il potenziale concorrente nell'ASA; Si evita la crescita di competitors nell'ASA.
+**Opzione:** Velocità di ingresso nel settore; Elimina il potenziale concorrente nell'ASA; Si evita la crescita di competitors nell'ASA.
+**Distrattori:**
+- Velocità di ingresso nel settore; Elimina il potenziale concorrente nell'ASA; Si favorisce la crescita di competitors nell'ASA.
+- Velocità di ingresso nel settore; Elimina il potenziale concorrente nell'ASA; Sono costose.
+- Velocità di ingresso nel settore; Elimina il potenziale concorrente nell'ASA; Aggiunta di attività non necessarie.
+
+**D:** ⚠️ Quali sono gli svantaggi della fusione (lezione 11)?
+**R:** **Sono costose** e pongono il problema di **come gestire l'integrazione**, da cui la slide fa partire due frecce: **Assorbimento** e **Preservazione**.
+**Opzione:** Sono costose; Come gestire l'integrazione?
+**Distrattori:**
+- Sono costose; Lentezza di ingresso nel settore.
+- Sono costose; Diffidenza e opportunismo.
+- Sono lente; Come gestire l'integrazione?
+
+**D:** ⚠️ Che cos'è il rapporto di concambio, e perché è un costo della fusione?
+**R:** Nella fusione si mettono insieme due **capitali**, rappresentati dalle loro **azioni**. Il concambio misura «quanto vale il mio patrimonio rispetto al patrimonio dell'altra azienda con la quale mi fondo», e stabilisce la **quota di capitale** di ciascuno nella nuova società. È un costo da soppesare con gli obiettivi strategici.
+**Opzione:** Il valore del mio patrimonio rispetto a quello dell'azienda con cui mi fondo, che stabilisce la quota di capitale di ciascuno.
+**Distrattori:**
+- Il prezzo pagato in contanti per acquisire l'altra azienda.
+- Il tasso di cambio fra le valute dei paesi delle due aziende.
+
+**D:** ⚠️ Nell'esempio della lezione 11, se la mia azione vale 9 e quella dell'altra azienda vale 11, che cosa accade nella fusione?
+**R:** Nel nuovo capitale in cui convergono le due azioni, **all'azione che vale 11 spetta una quota di capitale più grande**: io avrò una quota un po' più piccola. È il **rapporto di concambio**.
+**Opzione:** All'azione che vale 11 spetta una quota di capitale più grande.
+**Distrattori:**
+- Le due azioni ricevono la stessa quota di capitale.
+- All'azione che vale 9 spetta una quota di capitale più grande.
+
+**D:** Perché la fusione elimina il potenziale concorrente nell'ASA ed evita la crescita dei competitors, secondo la lezione 11?
+**R:** Il concorrente di ieri (Peugeot-Citroën per Fiat) diventa «un **alleato solido**», parte della corporation, e il mercato diventa più malleabile. Il mercato resta lo stesso, ma competono pochi grandi attori, e non resta «uno **spazio vuoto** lasciato libero» da cui un operatore più piccolo possa crescere: si può pianificare nel medio e lungo periodo.
+**Opzione:** Perché il concorrente entra nella corporation e non resta uno spazio vuoto da cui un operatore più piccolo possa crescere.
+**Distrattori:**
+- Perché il mercato si allarga e lascia spazio a nuovi operatori più piccoli.
+- Perché il concorrente resta indipendente ma firma un accordo di non concorrenza.
+
+**D:** ⚠️ In che cosa consiste l'assorbimento, come lo descrive il docente commentando gli svantaggi della fusione?
+**R:** «La corporation che ha le soluzioni migliori o quella che ha **maggior potere** nell'operazione di fusione assorbe le procedure» dell'altra: «ci si **appiattisce** sulle soluzioni della società che ha maggior potere discrezionale». Esempio: il **Banco di Napoli**, in grave difficoltà e con un bassissimo potere di concambio, che si adegua a procedure e sistemi della Banca Commerciale, «oggi Banca Intesa».
+**Opzione:** La società con più potere impone le sue procedure, e ci si appiattisce sulle sue soluzioni.
+**Distrattori:**
+- Si preservano i meccanismi che funzionano in entrambe le aziende.
+- Si crea una soluzione organizzativa del tutto nuova per entrambe.
+
+**D:** ⚠️ In che cosa consiste la preservazione, come la descrive il docente commentando gli svantaggi della fusione?
+**R:** La corporation sa che fondere i due attori «significherebbe mettere in crisi dei meccanismi che **funzionano** in entrambe le aziende», e tende a **preservare due meccanismi diversi**. Esempio: «Yamamai» (probabilmente *Yamamay*), nata dalla fusione fra un'azienda di biancheria intima e una di tessuti in seta, che distingue le attività produttive da quelle commerciali e ne conserva i modelli organizzativi.
+**Opzione:** Si conservano i meccanismi diversi delle due aziende, perché fonderli metterebbe in crisi ciò che funziona.
+**Distrattori:**
+- La società con più potere impone le sue procedure all'altra.
+- Si sovrappongono le attività dell'acquirente a quelle dell'acquisita.
+
+**D:** ⚠️ Quali sono gli assi della matrice «Come integrare?» della lezione 11?
+**R:** In orizzontale la **Necessità di interdipendenza strategica** (Bassa a sinistra, Alta a destra), in verticale la **Necessità di autonomia organizzativa** (Bassa in alto, Alta in basso). ⚠️ A voce il docente dice anche «indipendenza strategica».
+**Opzione:** Necessità di interdipendenza strategica e necessità di autonomia organizzativa.
+**Distrattori:**
+- Necessità di autonomia organizzativa e risorse complementari.
+- Necessità di indipendenza finanziaria e necessità di autonomia organizzativa.
+- Attrattività del mercato e posizione competitiva.
+
+**D:** ⚠️ Dove sta l'Assorbimento nella matrice «Come integrare?» della lezione 11?
+**R:** **Interdipendenza strategica alta, autonomia organizzativa alta** (in basso a destra). Esempio: **Nestlé** con **Perugina** e **Motta**. ⚠️ Nella versione dei manuali (Haspeslagh e Jemison) l'assorbimento è invece autonomia **bassa**: nei quiz del corso vale la slide.
+**Opzione:** Interdipendenza strategica alta, autonomia organizzativa alta.
+**Distrattori:**
+- Interdipendenza strategica bassa, autonomia organizzativa alta.
+- Interdipendenza strategica bassa, autonomia organizzativa bassa.
+
+**D:** ⚠️ Dove sta la Preservazione nella matrice «Come integrare?» della lezione 11?
+**R:** **Interdipendenza strategica bassa, autonomia organizzativa bassa** (in alto a sinistra), il quadrante «opposto» all'assorbimento. Esempio: **Ducati** nel gruppo Audi Volkswagen. ⚠️ Il docente dice però che il nuovo business «conserva la sua autonomia organizzativa», e nei manuali la preservazione è autonomia **alta**: nei quiz del corso vale la slide.
+**Opzione:** Interdipendenza strategica bassa, autonomia organizzativa bassa.
+**Distrattori:**
+- Interdipendenza strategica alta, autonomia organizzativa alta.
+- Interdipendenza strategica alta, autonomia organizzativa bassa.
+
+**D:** ⚠️ Dove sta la Simbiosi nella matrice «Come integrare?» della lezione 11?
+**R:** **Interdipendenza strategica alta, autonomia organizzativa bassa** (in alto a destra). L'unità può recepire best practices, soluzioni organizzative e obiettivi comuni. Esempio: **Intesa Sanpaolo** e **Banco di Napoli**. ⚠️ Nei manuali la simbiosi è autonomia **alta**: nei quiz del corso vale la slide.
+**Opzione:** Interdipendenza strategica alta, autonomia organizzativa bassa.
+**Distrattori:**
+- Interdipendenza strategica bassa, autonomia organizzativa alta.
+- Interdipendenza strategica bassa, autonomia organizzativa bassa.
+
+**D:** ⚠️ Dove sta la Holding nella matrice «Come integrare?» della lezione 11?
+**R:** **Interdipendenza strategica bassa, autonomia organizzativa alta** (in basso a sinistra). È la corporation con business molto diversi, con un'elevata distanza di diversificazione, che li gestisce con un approccio finanziario. ⚠️ Nei manuali la holding è autonomia **bassa**: nei quiz del corso vale la slide.
+**Opzione:** Interdipendenza strategica bassa, autonomia organizzativa alta.
+**Distrattori:**
+- Interdipendenza strategica alta, autonomia organizzativa bassa.
+- Interdipendenza strategica alta, autonomia organizzativa alta.
+
+**D:** ⚠️ Con quali esempi il docente della lezione 11 illustra assorbimento, preservazione e simbiosi nella matrice «Come integrare?»?
+**R:** **Assorbimento**: Nestlé con Perugina (cioccolato) e Motta (gelati), che trovano nuovi prodotti e nuovi canali come la grande distribuzione. **Preservazione**: Ducati nel gruppo Audi Volkswagen, un'integrazione «solo visiva». **Simbiosi**: Intesa Sanpaolo e Banco di Napoli. La holding non ha un esempio.
+**Opzione:** Assorbimento: Nestlé con Perugina e Motta; Preservazione: Ducati in Volkswagen; Simbiosi: Intesa Sanpaolo e Banco di Napoli.
+**Distrattori:**
+- Assorbimento: Ducati in Volkswagen; Preservazione: Nestlé con Perugina e Motta; Simbiosi: Intesa Sanpaolo e Banco di Napoli.
+- Assorbimento: Nestlé con Perugina e Motta; Preservazione: Intesa Sanpaolo e Banco di Napoli; Simbiosi: Ducati in Volkswagen.
+
+**D:** ⚠️ In quali approcci all'integrazione il docente della lezione 11 usa l'esempio del Banco di Napoli?
+**R:** In **due**: nell'**assorbimento**, commentando gli svantaggi della fusione, con la «Banca Commerciale, oggi Banca Intesa» che impone le sue procedure; e nella **simbiosi**, nella matrice, con **Intesa Sanpaolo** che sovrappone le sue attività conservando il marchio sugli sportelli per la fiducia dei clienti.
+**Opzione:** Nell'assorbimento e nella simbiosi.
+**Distrattori:**
+- Nella preservazione e nella holding.
+- Solo nella preservazione.
+
+**D:** ⚠️ Perché il marchio Banco di Napoli è rimasto sugli sportelli, nell'esempio di simbiosi della lezione 11?
+**R:** Per conservare il **rapporto di fiducia** fra il cliente e il Banco di Napoli, che era un punto di riferimento per la clientela, anche se dietro c'era una «vera e propria **sovrapposizione**» delle attività di Intesa Sanpaolo. Intesa Sanpaolo voleva conquistare presto una posizione nei mercati del **Sud Italia**, dove il Banco aveva molti sportelli.
+**Opzione:** Per conservare il rapporto di fiducia fra i clienti e il Banco di Napoli.
+**Distrattori:**
+- Perché il Banco di Napoli aveva un forte potere di concambio.
+- Perché le procedure del Banco di Napoli furono preservate così com'erano.
+
+**D:** ⚠️ Come si comporta la corporation nell'approccio holding, secondo la lezione 11?
+**R:** Fa da **cassa comune**: raccoglie i rendimenti di ciascun business, il consiglio di amministrazione redistribuisce i **budget** secondo obiettivi concordati, e il portafoglio si gestisce «con un approccio che è tipicamente **finanziario**». L'unico valore aggiunto della casa madre è il rapporto con i **finanziatori**, a cui manda un messaggio di affidabilità del portafoglio e di performance finanziaria.
+**Opzione:** Fa da cassa comune: raccoglie i rendimenti e redistribuisce i budget con un approccio finanziario.
+**Distrattori:**
+- Impone ai business le sue procedure e i suoi processi decisionali.
+- Sovrappone le sue attività a quelle dei business acquisiti.
+
+**D:** ⚠️ Quando e per quanto Facebook annunciò l'acquisizione di WhatsApp, secondo la lezione 11?
+**R:** Nel **febbraio 2014**, per **22 miliardi di dollari** («an astonishing $22 billion»; la slide successiva dice $21.8 billion, il docente «21 miliardi»). Per Reuters era la sesta acquisizione più grande nella tecnologia e la più grande di sempre fra le società di software.
+**Opzione:** Nel febbraio 2014, per 22 miliardi di dollari.
+**Distrattori:**
+- Nel febbraio 2014, per 2,2 miliardi di dollari.
+- Nell'ottobre 2014, per 22 miliardi di dollari.
+
+**D:** Con chi chiuse l'accordo Zuckerberg, e come fu organizzata WhatsApp dopo l'acquisizione, secondo le slide della lezione 11?
+**R:** Con i fondatori **Jan Koum** (38 anni) e **Brian Acton** (42). WhatsApp avrebbe operato in modo **indipendente**, come Instagram: brand mantenuto, sede a **Mountain View**, Koum nel **Board** di Facebook, WhatsApp e Messenger come app **standalone**. ⚠️ Il docente dice invece che la fusione «ha rivoluzionato i modelli organizzativi».
+**Opzione:** Con Jan Koum e Brian Acton; WhatsApp restò un'entità indipendente, con brand, sede e app propri.
+**Distrattori:**
+- Con Jan Koum e Brian Acton; WhatsApp fu fusa in Messenger e trasferita presso la sede di Facebook.
+- Con i fondatori di Instagram; WhatsApp restò un'entità indipendente, con brand, sede e app propri.
+
+**D:** ⚠️ Quali operatori temevano l'acquisizione di WhatsApp, e che cosa disse la Commissione Europea?
+**R:** **Deutsche Telekom**, **Orange** e **Telecom Italia**, per il piano di WhatsApp di offrire **chiamate vocali gratuite**. La Commissione Europea disse che l'operazione **non** avrebbe danneggiato la concorrenza. Per il docente sono i nuovi concorrenti del gruppo nel mercato della comunicazione.
+**Opzione:** Deutsche Telekom, Orange e Telecom Italia; per la Commissione l'operazione non danneggiava la concorrenza.
+**Distrattori:**
+- Deutsche Telekom, Orange e Telecom Italia; la Commissione bloccò l'operazione per tutelare la concorrenza.
+- Toyota e Volkswagen; per la Commissione l'operazione non danneggiava la concorrenza.
+
+**D:** ⚠️ Quanti utenti e quanti dipendenti aveva WhatsApp all'annuncio dell'acquisizione, secondo la lezione 11?
+**R:** Oltre **450 milioni** di utenti attivi, un numero raggiunto più in fretta di qualunque altra azienda, e solo **32** dipendenti (56 a ottobre, alla conclusione). ⚠️ La stessa slide dice poi «more than 14 million active users» per ottobre: è un'incoerenza della slide.
+**Opzione:** Oltre 450 milioni di utenti attivi e 32 dipendenti.
+**Distrattori:**
+- Oltre 450 milioni di utenti attivi e 3.200 dipendenti.
+- Oltre 45 milioni di utenti attivi e 32 dipendenti.
+
+**D:** ⚠️ Perché WhatsApp non aveva addetti al marketing o alle PR, secondo la lezione 11?
+**R:** Perché era stata costruita come **lovemark**, «a brand connected with strong emotion».
+**Opzione:** Perché era costruita come lovemark, un brand legato a una forte emozione.
+**Distrattori:**
+- Perché marketing e PR erano affidati a Facebook.
+- Perché era costruita come cash cow, un business maturo che non richiede investimenti.
+
+**D:** Quale missione comune rende possibile l'acquisizione di WhatsApp, secondo i «key factors» della lezione 11?
+**R:** La «shared mission» di Facebook e WhatsApp: «to bring more **connectivity** and **utility** to the world by delivering core internet services **efficiently and affordably**». WhatsApp ha un engagement fortissimo ed è l'unica app cresciuta più in fretta di Facebook.
+**Opzione:** Portare più connettività e utilità nel mondo, offrendo servizi internet di base in modo efficiente ed economico.
+**Distrattori:**
+- Portare più intrattenimento nel mondo, offrendo contenuti editoriali a pagamento.
+- Ridurre i costi di comunicazione delle compagnie telefoniche europee.
+
+**D:** ⚠️ In quale mercato compete il gruppo Facebook-WhatsApp dopo la fusione, secondo il docente della lezione 11?
+**R:** Nel mercato della **comunicazione**: prima WhatsApp operava nella **messaggistica** e Facebook nell'**entertainment**. Ne nascono nuovi concorrenti, gli operatori telefonici (Deutsche Telekom, Orange, Telecom Italia), e poi l'**editoria**, perché la comunicazione digitale diventa il luogo in cui acquisire informazioni.
+**Opzione:** Nel mercato della comunicazione, contro operatori come Deutsche Telekom, Orange e Telecom Italia.
+**Distrattori:**
+- Solo nel mercato della messaggistica, come prima WhatsApp.
+- Solo nel mercato dell'entertainment, come prima Facebook.
+
+**D:** ⚠️ Quale «doppia visione strategica» genera la fusione fra Facebook e WhatsApp, secondo la lezione 11?
+**R:** Una a livello di **business**, in cui Facebook e WhatsApp continuano a competere ciascuno nel proprio mercato; l'altra a livello di **gruppo**, che deve sviluppare una strategia comune sulle sinergie fra i due business e si scontra con gli operatori della comunicazione.
+**Opzione:** Una a livello di business, in cui ciascuno compete nel proprio mercato, e una a livello di gruppo, che sfrutta le sinergie.
+**Distrattori:**
+- Una sola, a livello di gruppo: i due business smettono di competere nei mercati originali.
+- Due visioni di business separate, senza una strategia di gruppo.
+
+**D:** Quale problema ha trascurato il gruppo Facebook-WhatsApp entrando nel mercato dell'informazione, secondo il docente della lezione 11?
+**R:** L'**alimentazione dei contenuti**: l'operazione era stata gestita «sul piano finanziario». Chat e post attingevano alla creatività dei clienti, ma una comunicazione **unidirezionale**, da un comunicatore verso una massa, richiede contenuti editoriali, e l'editoria può essere restia a concederli. Servono nuovi clienti **business** dal mercato dell'editoria.
+**Opzione:** L'alimentazione dei contenuti, che per una comunicazione unidirezionale non può venire solo dagli utenti.
+**Distrattori:**
+- Il rapporto di concambio fra le azioni dei due gruppi.
+- La scarsità di utenti attivi su WhatsApp.
+
+### Flashcard dai quiz — lezione 11
+
+**D:** ⚠️ La diversificazione di tipo vincolato, secondo il test della lezione 11:
+**R:** **Si basa su un insieme di risorse specializzate, ad esempio ricerca, attività operative e marketing.** ⚠️ Non compare nelle lezioni 01–11: è la controparte della diversificazione «non vincolata» del test della lezione 10. Distrattori del test: «prevede che i nuovi business si legano ai precedenti, cosicché ogni business sia legato ad un altro precedente», cioè un legame a catena; «prevede che ci siano elementi in comune tra i vari business, ma la relazione tra questi è differente»; «prevede che i prodotti siano legati tra loro come funzione prodotto».
+**Opzione:** Si basa su un insieme di risorse specializzate, ad esempio ricerca, attività operative e marketing.
+**Distrattori:**
+- Prevede che i nuovi business si legano ai precedenti, cosicché ogni business sia legato ad un altro precedente.
+- Prevede che ci siano elementi in comune tra i vari business, ma la relazione tra questi è differente.
+- Prevede che i prodotti siano legati tra loro come funzione prodotto.
+
+**D:** ⚠️ 🚨 Circa le fusioni e le acquisizioni, vi sono i seguenti vantaggi (test della lezione 11):
+**R:** **Rapidità, accesso ad attività complementari, eliminazione di potenziali concorrenti e miglioramento delle risorse aziendali.** È l'unica opzione senza svantaggi, coerente con la slide dei vantaggi della fusione (velocità di ingresso nel settore, eliminazione del potenziale concorrente) e con le risorse complementari di Stellantis. 🚨 La piattaforma segna invece «accesso a risorse alternative, eliminazione potenziali concorrenti e attività aggiuntive non necessarie»: le attività non necessarie sono un **costo**, non un vantaggio. All'esame quella domanda potrebbe essere corretta secondo la chiave sbagliata. Gli altri distrattori sono liste di svantaggi: «aggiunta di attività non necessarie e costo dell'acquisizione», «l'aggiunta di attività non necessarie e il conflitto organizzativo».
+**Opzione:** Rapidità, accesso ad attività complementari, eliminazione di potenziali concorrenti e miglioramento delle risorse aziendali.
+**Distrattori:**
+- Accesso a risorse alternative, eliminazione potenziali concorrenti e attività aggiuntive non necessarie.
+- Aggiunta di attività non necessarie e costo dell'acquisizione.
+- L'aggiunta di attività non necessarie e il conflitto organizzativo.
+
+**D:** ⚠️ Gli approcci all'integrazione dell'azienda acquisita, secondo il test della lezione 11:
+**R:** **Sono Assorbimento, Simbiosi, Preservazione e Holding**: le quattro celle della matrice «Come integrare?». Distrattori del test: «sono Assorbimento e Preservazione», le sole due frecce della slide sugli svantaggi della fusione; «sono Simbiosi e Holding», le altre due; «si basano su necessità di autonomia organizzativa e risorse complementari», che sostituisce l'interdipendenza strategica con le risorse complementari.
+**Opzione:** Sono Assorbimento, Simbiosi, Preservazione e Holding.
+**Distrattori:**
+- Sono Assorbimento e Preservazione.
+- Sono Simbiosi e Holding.
+- Si basano su necessità di autonomia organizzativa e risorse complementari.
+
+**D:** ⚠️ Circa la modalità di sviluppo interno, vi sono i seguenti svantaggi (test della lezione 11):
+**R:** **Lentezza nell'operazione, necessità di sviluppare nuove risorse, aumento della competitività nel settore e difficoltà nel recuperare gli investimenti inefficaci.** Le prime due voci corrispondono agli svantaggi dello sviluppo interno della lezione 10 (Lentezza nel cambiamento, Risorse); le altre due non sono nei materiali. Distrattori del test: «tale modalità non presenta svantaggi»; «sviluppo incrementale eccessivo e lentezza dell'operazione»; «lentezza nell'operazione, compatibilità con la cultura aziendale, incremento della competitività nel settore e sviluppo incrementale», che contiene un **vantaggio**: la compatibilità con la cultura aziendale è il «migliore riferimento delle immaterialità».
+**Opzione:** Lentezza nell'operazione, necessità di sviluppare nuove risorse, aumento della competitività nel settore e difficoltà nel recuperare gli investimenti inefficaci.
+**Distrattori:**
+- Tale modalità non presenta svantaggi.
+- Sviluppo incrementale eccessivo e lentezza dell'operazione.
+- Lentezza nell'operazione, compatibilità con la cultura aziendale, incremento della competitività nel settore e sviluppo incrementale.
