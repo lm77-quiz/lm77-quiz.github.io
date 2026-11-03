@@ -4883,3 +4883,463 @@
 - (Pₜ₊₁ × Pₜ) / Pₜ
 - Pₜ + Pₜ₊₁
 - Pₜ₊₁ / Pₜ
+
+## Lezione 20 — Il caso multiperiodale
+
+**D:** ⚠️ Qual è la formula del valore futuro di un investimento nel caso multiperiodale (lezione 20)?
+**R:** **VF = C₀ × (1 + r)ᵀ**: C₀ è il capitale investito oggi, r il tasso di interesse, T il numero di periodi. Si **moltiplica**; dividere è attualizzare. Con T = 1 è la capitalizzazione di un solo anno della lezione 19.
+**Opzione:** VF = C₀ × (1 + r)ᵀ
+**Distrattori:**
+- VF = C₀ × (1 + r × T)
+- VF = C₀ / (1 + r)ᵀ
+- VF = C₀ + T × r
+
+**D:** ⚠️ Che cosa misura T nella formula VF = C₀ × (1 + r)ᵀ (lezione 20)?
+**R:** Il **numero di periodi**: «T misura il numero di periodi nei quali l'interesse viene a maturare». Di solito è l'anno; può essere il semestre o il trimestre.
+**Opzione:** Il numero di periodi nei quali l'interesse viene a maturare.
+**Distrattori:**
+- Il tasso di interesse composto dell'intero periodo.
+- Il montante maturato alla fine dell'ultimo periodo.
+- Il numero di flussi di cassa in entrata del progetto.
+
+**D:** ⚠️ Perché nella formula del valore futuro C₀ è moltiplicato per (1 + r)ᵀ invece di essere sommato agli interessi annui (lezione 20)?
+**R:** Perché l'interesse di ogni anno matura su un capitale **che varia**, «pari al capitale iniziale C₀ più gli interessi che sono stati aggiunti dall'anno 1». La formula tiene conto della «costante crescita di valore» che nasce dal fatto che l'interesse matura su un capitale **crescente**.
+**Opzione:** Perché ogni anno l'interesse matura sul capitale iniziale più gli interessi già maturati.
+**Distrattori:**
+- Perché ogni anno l'interesse matura sempre sul solo capitale iniziale C₀.
+- Perché il tasso r cresce di anno in anno con la durata dell'investimento.
+- Perché gli interessi di ogni anno vengono prelevati e investiti altrove.
+
+**D:** ⚠️ Quanto avrà dopo tre anni la signora Rossi, che ha versato €500 in un deposito al 7% capitalizzato annualmente (lezione 20)?
+**R:** **€612,52**: «€ 500 × 1,07 × 1,07 × 1,07 = € 500 × (1,07)³ = € 612,52». Nella Figura 4.5 il conto passa da €500 a €535, poi a €572,45 e a €612,52. Non è la somma di 500 più tre interessi uguali: gli interessi crescono, perché maturano anche sugli interessi.
+**Opzione:** €612,52
+**Distrattori:**
+- €605,00
+- €535,00
+- €572,45
+
+**D:** ⚠️ Il signor Gastone ha €10.000 oggi e vuole comprare fra cinque anni un'auto da €16.105: quale tasso di interesse gli serve (lezione 20)?
+**R:** **Il 10%**. Il rapporto fra prezzo d'acquisto e liquidità iniziale è 16.105/10.000 = 1,6105, e (1 + r)⁵ = 1,6105 dà r = 10%: infatti 1,10⁵ = 1,61051.
+**Opzione:** Il 10%.
+**Distrattori:**
+- L'1,6%.
+- Il 61,05%.
+- Il 16,1%.
+
+**D:** ⚠️ Che cos'è 1,6105 nell'esempio del signor Gastone (lezione 20)?
+**R:** Il **rapporto fra prezzo d'acquisto e liquidità iniziale**, 16.105/10.000: ciò che deve diventare €1 «nel giro di cinque anni», cioè il fattore (1 + r)⁵. **Non è il tasso**, che è il 10%. Il docente lo chiama «un tasso di sconto pari all'1,6%»: vale la slide.
+**Opzione:** Il fattore (1 + r)⁵: ciò che diventa €1 in cinque anni, con un tasso del 10%.
+**Distrattori:**
+- Il tasso di sconto annuo, pari all'1,6%.
+- Il valore attuale di €1 incassato fra cinque anni.
+- Il rapporto fra liquidità iniziale e prezzo d'acquisto, 10.000/16.105.
+
+**D:** ⚠️ Quali flussi di cassa mostra la Figura 4.6 dell'esempio del signor Gastone (lezione 20)?
+**R:** Al tempo 0 un flusso **in entrata** di **€10.000**, la vincita alla lotteria; dopo **cinque anni** un flusso **in uscita** di **−€16.105**, l'auto. Il docente li descrive rovesciati («oggi ho un esborso di 16.150, in futuro avrò un ritorno di 10.000») e su un anno solo: vale la slide.
+**Opzione:** €10.000 in entrata al tempo 0 e €16.105 in uscita dopo cinque anni.
+**Distrattori:**
+- €16.105 in uscita al tempo 0 e €10.000 in entrata dopo cinque anni.
+- €10.000 in entrata al tempo 0 e €16.105 in uscita dopo un anno.
+- €10.000 in uscita al tempo 0 e €16.105 in entrata dopo cinque anni.
+
+**D:** ⚠️ Con quale equazione si esprime algebricamente il problema del signor Gastone (lezione 20)?
+**R:** **€10.000 × (1 + r)⁵ = €16.105**, la formula del valore futuro con r incognito. La slide la **omette** dopo «Possiamo esprimere algebricamente il problema nei seguenti termini:» e passa direttamente a (1 + r)⁵ = 1,6105.
+**Opzione:** €10.000 × (1 + r)⁵ = €16.105
+**Distrattori:**
+- €16.105 × (1 + r)⁵ = €10.000
+- €10.000 × (1 + 5r) = €16.105
+- €10.000 / (1 + r)⁵ = €16.105
+
+**D:** ⚠️ Quanto vale dopo 208 anni una sterlina investita all'8,47% con l'interesse semplice (lezione 20)?
+**R:** **£18,62**: «£1 + (208 x £0,0847) = £1 + £17,62 = £18,62». Ogni anno matura lo stesso interesse, £0,0847, sempre sulla sterlina iniziale.
+**Opzione:** £18,62
+**Distrattori:**
+- £17,62
+- £22.100.655
+- £1,0847
+
+**D:** ⚠️ Quanto vale dopo 208 anni una sterlina investita all'8,47% con l'interesse composto (lezione 20)?
+**R:** **£22.100.655**, oltre ventidue milioni di sterline: «FV = £1x(1,0847)²⁰⁸». «C'è una bella differenza!» rispetto alle £18,62 dell'interesse semplice, con lo stesso tasso, lo stesso capitale e gli stessi anni. Il docente dice «22 invece di 18»: vale la slide.
+**Opzione:** £22.100.655
+**Distrattori:**
+- £22,10
+- £18,62
+- £221.006,55
+
+**D:** ⚠️ Che cosa intende il docente per «capitale mobile» (lezione 20)?
+**R:** Il capitale dell'interesse **composto**: la sterlina investita all'anno 0 diventa 1,0847 all'anno 1, e su 1,0847 matura l'interesse del secondo anno, che è maggiore. «Nel tempo il capitale si arricchisce degli interessi che vi maturano periodo per periodo». Con l'interesse semplice l'interesse si misura sempre sul capitale iniziale.
+**Opzione:** Il capitale che ogni anno si arricchisce degli interessi maturati, su cui matura l'interesse dell'anno dopo.
+**Distrattori:**
+- Il capitale iniziale, su cui si misura ogni anno lo stesso interesse.
+- Il capitale che l'impresa può spostare in qualunque momento su altri investimenti.
+- Il capitale che si riduce ogni anno della quota di interesse pagata.
+
+**D:** ⚠️ Quale ipotesi presuppone, secondo il docente, la capitalizzazione con interesse composto (lezione 20)?
+**R:** Che «sistematicamente **tutti i rendimenti** che derivano dall'investimento iniziale contribuiscono ad **arricchire l'investimento iniziale**» e «non vengono distratti in altre forme di investimento». Con l'interesse semplice l'interesse del primo anno «non me lo tengo in cassa, lo uso per fare altre cose». Chi valuta non è una banca, che può scegliere, ma un'impresa.
+**Opzione:** Che tutti i rendimenti dell'investimento iniziale vengano reinvestiti in esso, senza essere distratti in altri investimenti.
+**Distrattori:**
+- Che i rendimenti dell'investimento iniziale vengano distribuiti agli azionisti a fine anno.
+- Che i rendimenti dell'investimento iniziale vengano reinvestiti nel portafoglio di investimenti più redditizio.
+- Che il tasso di interesse cresca di anno in anno insieme al capitale.
+
+**D:** ⚠️ Perché, secondo il docente, l'interesse semplice non servirebbe a valutare la bontà di un investimento (lezione 20)?
+**R:** Perché gli interessi verrebbero usati per altri investimenti, e il valore finale sarebbe frutto anche di quelli: «un riscontro che non servirebbe a valutare la bontà dell'investimento ma piuttosto la bontà del **portafoglio di investimenti**». «Tutto deve rimanere confrontabile esclusivamente con l'investimento effettuato inizialmente».
+**Opzione:** Perché il valore finale misurerebbe la bontà del portafoglio di investimenti, non quella dell'investimento iniziale.
+**Distrattori:**
+- Perché il valore finale sarebbe più alto di quello calcolato con l'interesse composto.
+- Perché l'interesse semplice si applica solo ai depositi bancari e non agli investimenti industriali.
+- Perché il valore finale misurerebbe la bontà dell'investimento iniziale, non quella del portafoglio.
+
+**D:** ⚠️ Qual è la formula del valore attuale nel caso multiperiodale (lezione 20)?
+**R:** **PV = Cₜ / (1 + r)ᵀ**, l'«opposto della capitalizzazione». Cₜ è il montante, il valore al tempo T; r il tasso di sconto; T il numero di periodi. PV (*present value*) è il VA della lezione 19: con T = 1 si torna a VA = C1/(1 + r).
+**Opzione:** PV = Cₜ / (1 + r)ᵀ
+**Distrattori:**
+- PV = Cₜ × (1 + r)ᵀ
+- PV = Cₜ / (1 + r × T)
+- PV = Cₜ / (1 + rᵀ)
+
+**D:** ⚠️ Che cosa rappresentano Cₜ, r e T nella formula PV = Cₜ / (1 + r)ᵀ, secondo il docente (lezione 20)?
+**R:** «Cₜ rappresenta il **montante**, il valore al tempo T, il tasso r ci misura il **tasso di sconto**, T il **numero di periodi**».
+**Opzione:** Cₜ è il montante al tempo T, r il tasso di sconto, T il numero di periodi.
+**Distrattori:**
+- Cₜ è il capitale investito oggi, r il tasso di sconto, T il numero di periodi.
+- Cₜ è il montante al tempo T, r il tasso di crescita dei flussi, T il numero di periodi.
+- Cₜ è il montante al tempo T, r il tasso di sconto, T il numero di flussi di cassa.
+
+**D:** ⚠️ Secondo il docente, da dove si ricava il tasso di sconto r della formula del valore attuale (lezione 20)?
+**R:** Dal **mercato**: è il tasso «che noi ricaviamo dal mercato e riteniamo essere affidabile per il **livello di rischiosità** che stiamo affrontando». Il docente lo chiama anche «il rapporto fra il montante e il capitale iniziale», ma quel rapporto è (1 + r)ᵀ, non r.
+**Opzione:** Dal mercato, come tasso affidabile per il livello di rischiosità che si sta affrontando.
+**Distrattori:**
+- Dal bilancio d'esercizio, come rapporto fra reddito operativo e capitale investito.
+- Dal mercato, come tasso privo di rischio qualunque sia la rischiosità del progetto.
+- Dal piano industriale, come obiettivo di rendimento fissato dal management.
+
+**D:** ⚠️ Perché di solito il periodo T coincide con l'anno, e quando si usano periodi più brevi (lezione 20)?
+**R:** Perché l'anno «coincide con l'esercizio». Ma qui si parla di **flussi di cassa**, non di reddito: possono seguire una «logica di budget», semestrale o trimestrale, quando serve monitorare l'investimento «con una maggiore frequenza». I periodi sono «di solito mai superiori» all'anno.
+**Opzione:** Perché coincide con l'esercizio; periodi più brevi servono a monitorare l'investimento con maggiore frequenza.
+**Distrattori:**
+- Perché coincide con l'esercizio; periodi più lunghi servono a ridurre l'incertezza delle previsioni.
+- Perché coincide con l'esercizio; periodi più brevi servono a calcolare il reddito operativo trimestrale.
+- Perché lo impone la normativa sul bilancio; periodi più brevi sono vietati alle imprese.
+
+**D:** ⚠️ Secondo il docente, a chi serve un periodo T inferiore all'anno (lezione 20)?
+**R:** All'**investitore finanziario**, quello che «può in qualunque momento uscire dall'investimento», come chi ha comprato le azioni o ha finanziato il business dall'esterno. Non serve alle imprese per le scelte di medio e lungo termine: «l'anno è un tempo sufficientemente lungo».
+**Opzione:** All'investitore finanziario, che può uscire dall'investimento in qualunque momento.
+**Distrattori:**
+- All'investitore industriale, che valuta le scelte di sviluppo di lungo periodo.
+- All'impresa, per le scelte di investimento di medio e lungo termine.
+- Al management, per calcolare il reddito d'esercizio.
+
+**D:** ⚠️ Qual è il valore attuale dei €10.000 che il signor Bianchi riceverà fra tre anni, con un tasso dell'8% (lezione 20)?
+**R:** **€7.938**: «PV = €10.000 × (1/1,08)³ = €10.000 × 0,7938 = €7.938». La slide lo scrive all'inglese, «€7,938». Il docente dice anche «7.903»: vale la slide.
+**Opzione:** €7.938
+**Distrattori:**
+- €7.903
+- €12.597
+- €9.259
+
+**D:** ⚠️ Che cosa rappresenta lo 0,7938 nel calcolo del signor Bianchi (lezione 20)?
+**R:** **(1/1,08)³**: il valore di oggi di un euro incassato fra tre anni all'8%. Moltiplicato per 10.000 dà 7.938. La slide lo scrive «.7938».
+**Opzione:** Il valore di oggi di €1 incassato fra tre anni all'8%, cioè (1/1,08)³.
+**Distrattori:**
+- Il valore fra tre anni di €1 investito oggi all'8%, cioè 1,08³.
+- Il valore di oggi di €1 incassato fra un anno all'8%, cioè 1/1,08.
+- Il tasso di attualizzazione dei tre anni, cioè 3 × 8%.
+
+**D:** ⚠️ Perché l'8% è il tasso di attualizzazione «appropriato» per il signor Bianchi (lezione 20)?
+**R:** Perché Bianchi «**può ottenere** un interesse dell'8% sul proprio investimento, perciò il tasso di attualizzazione appropriato è l'8%»: è il rendimento della sua alternativa, come il 12% di Pedro nella lezione 19.
+**Opzione:** Perché è l'interesse che il signor Bianchi può ottenere sul proprio investimento.
+**Distrattori:**
+- Perché è il tasso privo di rischio fissato dalla banca centrale.
+- Perché è il tasso di crescita atteso dei suoi €10.000.
+- Perché è il tasso di inflazione atteso nei tre anni.
+
+**D:** ⚠️ Che cosa intende il docente per «doppia visione», ex ante ed ex post, nell'esempio del signor Bianchi (lezione 20)?
+**R:** L'attualizzazione e la capitalizzazione dello stesso valore: i 10.000 euro fra tre anni valgono oggi 7.938, e «se oggi investissimo 7,938 a un tasso di interesse composto dell'8% in tre anni, al termine dei tre anni avremo un valore di 10.000».
+**Opzione:** Che 10.000 euro fra tre anni valgono oggi 7.938, e 7.938 euro investiti oggi all'8% composto diventano 10.000 fra tre anni.
+**Distrattori:**
+- Che 7.938 euro investiti oggi all'8% semplice diventano 10.000 euro fra tre anni.
+- Che il valore attuale si calcola prima dell'investimento e il VAN dopo.
+- Che 10.000 euro investiti oggi all'8% composto diventano 7.938 fra tre anni.
+
+**D:** ⚠️ Secondo il docente, qual è il limite di fondo dell'attualizzazione nelle scelte di sviluppo (lezione 20)?
+**R:** Che «il meccanismo dell'attualizzazione **in sé** è un meccanismo **aleatorio**»: non conta l'accuratezza con cui si prevedono i flussi. Nel lungo periodo il ragionamento finanziario «ha un significato fino a un certo punto». Ma imprese e mercati «non dispongono di altri indicatori che diano delle informazioni altrettanto certe».
+**Opzione:** Che il meccanismo dell'attualizzazione in sé è aleatorio, e non esistono indicatori alternativi altrettanto certi.
+**Distrattori:**
+- Che gli indici prevedono i flussi con poca accuratezza, mentre indicatori più sofisticati eliminano il problema.
+- Che il meccanismo dell'attualizzazione è aleatorio, ma imprese e mercati dispongono di indicatori alternativi più certi.
+- Che le formule sono troppo complesse da applicare senza i calcolatori delle piattaforme.
+
+**D:** ⚠️ Nella slide del signor Bianchi il valore attuale è scritto «€7,938»: quanto vale in notazione italiana (lezione 20)?
+**R:** **€7.938**, settemilanovecentotrentotto euro. Le slide 3, 4 e 7 vengono dal manuale e usano il punto decimale e la virgola delle migliaia all'inglese («€10,000», «.7938», «1.08»); la slide 5 usa la notazione italiana.
+
+**D:** ⚠️ Rispetto al ruolo degli azionisti ordinari, quale opzione lo descrive per intero, secondo il test della lezione 20 (domanda 1)?
+**R:** **Tutte e tre le caratteristiche insieme**: «hanno il diritto di voto; detengono un ruolo residuale in termini di rischio e rendimento di una società; detengono una responsabilità limitata se la società decide di essere inadempiente su un debito». Nel test le altre tre opzioni ne riportano una sola ciascuna: vere, ma incomplete. Nei materiali, le privilegiate «in Italia, non hanno diritto di voto nelle assemblee ordinarie» e i creditori subordinati sono rimborsati «comunque prima degli azionisti» (lezione 27, slide 7 e 9). ⚠️ La responsabilità limitata non è nelle lezioni 01–20.
+**Opzione:** Hanno il diritto di voto, detengono un ruolo residuale in termini di rischio e rendimento e una responsabilità limitata se la società è inadempiente su un debito.
+**Distrattori:**
+- Hanno soltanto il diritto di voto.
+- Detengono soltanto un ruolo residuale in termini di rischio e rendimento di una società.
+- Detengono soltanto una responsabilità limitata se la società è inadempiente su un debito.
+
+**D:** ⚠️ Circa i costi di fallimento, quale affermazione è corretta secondo il test della lezione 20 (domanda 2)?
+**R:** «La possibilità di fallimento ha un effetto **negativo** sul valore dell'impresa. La riduzione del valore **non** è determinata dal rischio di fallimento in sé, ma dai **costi associati al fallimento**». Il distrattore insidioso è identico salvo la coda: «…è determinata dal rischio di fallimento in sé». Altri distrattori del test: «non ha un effetto negativo», «non ha un effetto né negativo né positivo». ⚠️ Nei materiali c'è solo il nome (lezione 25, slide 5).
+**Opzione:** La possibilità di fallimento riduce il valore dell'impresa, ma per i costi associati al fallimento, non per il rischio di fallimento in sé.
+**Distrattori:**
+- La possibilità di fallimento riduce il valore dell'impresa, e la riduzione è determinata dal rischio di fallimento in sé.
+- La possibilità di fallimento non ha un effetto negativo sul valore dell'impresa.
+- La possibilità di fallimento non ha un effetto né negativo né positivo sul valore dell'impresa.
+
+**D:** ⚠️ Che cosa fanno le clausole di salvaguardia positive, secondo il test della lezione 20 (domanda 3)?
+**R:** «**Specificano un comportamento che l'impresa accetta di adottare o una condizione a cui deve attenersi**». ⚠️ Trappola: «prevedono che l'impresa non possa distribuire oltre un certo ammontare di dividendi» è quasi alla lettera una clausola **restrittiva** della lezione 27 (slide 8: «l'imposizione di un tetto massimo all'ammontare di dividendi»). Anche «limitano» e «vietano determinati comportamenti» descrivono clausole restrittive. Le clausole positive non sono nei materiali.
+**Opzione:** Specificano un comportamento che l'impresa accetta di adottare o una condizione a cui deve attenersi.
+**Distrattori:**
+- Limitano determinati comportamenti adottabili dall'impresa.
+- Prevedono che l'impresa non possa distribuire oltre un certo ammontare di dividendi.
+- Vietano determinati comportamenti adottabili dall'impresa.
+
+**D:** ⚠️ Quale fra questi è un fattore che determina il rapporto di indebitamento target, secondo il test della lezione 20 (domanda 4)?
+**R:** **L'incertezza del reddito operativo.** Distrattori del test: «la tipologia di regolamentazione fiscale», «le risorse», «la normativa vigente». ⚠️ L'elenco dei fattori non è nei materiali: la lezione 25 nomina soltanto i rapporti target (slide 3 e 7). Il legame più vicino è la copertura degli oneri finanziari della lezione 18, EBIT / oneri finanziari: il debito si regge sul reddito operativo.
+**Opzione:** L'incertezza del reddito operativo.
+**Distrattori:**
+- La tipologia di regolamentazione fiscale.
+- Le risorse.
+- La normativa vigente.
+
+**D:** ⚠️ Rispetto ai dividendi e alla politica degli investimenti, quale affermazione è corretta secondo il test della lezione 20 (domanda 5)?
+**R:** «L'impresa **non dovrebbe mai rinunciare** ad un progetto **VAN positivo** per incrementare i dividendi». ⚠️ Qui il quantificatore assoluto «mai» sta sulla **chiave**: non va scartata per riflesso. Distrattori del test: «non dovrebbe **sempre** rinunciare…» (quantificatore cambiato), «…ad un progetto VAN **negativo**…» (segno invertito), «l'impresa valuta il TIR». È il seguito della domanda 2 del test 19, sui dividendi differibili per investire.
+**Opzione:** L'impresa non dovrebbe mai rinunciare ad un progetto VAN positivo per incrementare i dividendi.
+**Distrattori:**
+- L'impresa non dovrebbe sempre rinunciare ad un progetto VAN positivo per incrementare i dividendi.
+- L'impresa non dovrebbe mai rinunciare ad un progetto VAN negativo per incrementare i dividendi.
+- L'impresa valuta il TIR.
+
+## Lezione 21 — Il valore attuale netto (VAN), il tempo di recupero, il tempo di recupero attualizzato
+
+**D:** ⚠️ Come definisce il valore attuale netto (VAN) la slide della lezione 21?
+**R:** «Il valore attuale netto (VAN) è il **principale** criterio per la valutazione **economica** di un investimento ed è il valore attuale di **tutti** i flussi che l'investimento genererà in futuro, **al netto del flusso in uscita all'anno zero**». Attenzione alle parole su cui può lavorare un distrattore: *principale*, *economica*, *tutti*, *al netto*.
+**Opzione:** Il principale criterio per la valutazione economica di un investimento: il valore attuale di tutti i flussi che l'investimento genererà in futuro, al netto del flusso in uscita all'anno zero.
+**Distrattori:**
+- Il principale criterio per la valutazione economica di un investimento: il valore attuale di tutti i flussi che l'investimento genererà in futuro, al lordo del flusso in uscita all'anno zero.
+- Il principale criterio per la valutazione economica di un investimento: il valore attuale dei flussi che l'investimento genererà fino a una certa data, al netto del flusso in uscita all'anno zero.
+- Il principale criterio per la valutazione economica di un investimento: il valore futuro di tutti i flussi che l'investimento genererà, al netto del flusso in uscita all'anno zero.
+
+**D:** ⚠️ Qual è la regola del VAN (lezione 21)?
+**R:** «REGOLA DEL VAN: si accetta un investimento se **VAN>0** e si rifiuta se **VAN<0**».
+**Opzione:** Si accetta un investimento se VAN>0 e si rifiuta se VAN<0.
+**Distrattori:**
+- Si accetta un investimento se VAN<0 e si rifiuta se VAN>0.
+- Si accetta un investimento se il VAN supera l'investimento iniziale, altrimenti si rifiuta.
+- Si accetta un investimento se il VAN è inferiore a una data di rientro decisa dal management.
+
+**D:** ⚠️ Che cosa dice la regola del VAN della slide su un investimento con VAN uguale a zero (lezione 21)?
+**R:** **Niente**: la regola copre solo VAN>0 (si accetta) e VAN<0 (si rifiuta). Il caso VAN = 0 lo tratta il solo docente: nelle grandi corporation un investimento che «non brucia e non genera valore» può essere mantenuto nel portafoglio dei business.
+**Opzione:** Niente: la regola copre solo VAN>0, che si accetta, e VAN<0, che si rifiuta.
+**Distrattori:**
+- Che l'investimento si rifiuta sempre, perché non crea valore.
+- Che l'investimento si accetta sempre, perché non distrugge valore.
+
+**D:** ⚠️ Perché, secondo il docente, una grande corporation può fare un investimento con VAN uguale a zero (lezione 21)?
+**R:** Perché opera in tanti business e «ha il vantaggio di misurare **tanti VAN**». Un investimento con VAN = 0 «non brucia e non genera valore»: quello che si investe è quello che ci si ritrova, capitalizzato al tasso privo di rischio. La corporation può ritenerlo strategico, «perché compensa quella mancata creazione di valore col van che genera con altri business». Per questo certi investimenti li fanno alcune corporation e non altre.
+**Opzione:** Perché lo inserisce in un portafoglio di business: la mancata creazione di valore è compensata dai VAN degli altri business.
+**Distrattori:**
+- Perché un VAN uguale a zero indica che il progetto è privo di rischio.
+- Perché con un VAN uguale a zero il tempo di recupero è nullo.
+- Perché la regola del VAN impone di accettare i progetti con VAN uguale a zero.
+
+**D:** ⚠️ Quali sono, nell'ordine, i tre vantaggi del VAN (lezione 21)?
+**R:** 1. **Utilizza i flussi di cassa** («sono più indicativi degli utili»); 2. utilizza **tutti** i flussi di cassa («gli altri metodi utilizzano solo quelli fino a una certa data»); 3. **attualizza** i flussi di cassa («considera il valore temporale del denaro, ignorato da altri criteri»). La slide 4 li ripete come le «3 caratteristiche» del VAN.
+**Opzione:** Utilizza i flussi di cassa; utilizza tutti i flussi di cassa; attualizza i flussi di cassa.
+**Distrattori:**
+- Utilizza i flussi di cassa; utilizza tutti i flussi di cassa; utilizza gli utili medi del progetto.
+- Utilizza gli utili; utilizza tutti gli utili; attualizza gli utili.
+- Utilizza i flussi di cassa; utilizza solo i flussi fino a una certa data; attualizza i flussi di cassa.
+
+**D:** ⚠️ Quale grandezza la slide sulle caratteristiche del VAN chiama «misura artificiale» (lezione 21)?
+**R:** Gli **utili**: «Il VAN impiega i flussi di cassa. Per contro, gli **utili** sono una misura artificiale: non rappresentano denaro». Il docente dice il contrario, che i **flussi di cassa** sono «una misura artificiale, non rappresentano danaro» ([00:14:07]): vale la slide. Nella slide 2 la stessa idea è detta così: i flussi di cassa «sono più indicativi degli utili».
+**Opzione:** Gli utili, che non rappresentano denaro.
+**Distrattori:**
+- I flussi di cassa, che non rappresentano denaro.
+- Il valore attuale netto, che non rappresenta denaro.
+- Il tasso di attualizzazione, che non rappresenta denaro.
+
+**D:** ⚠️ Secondo il secondo vantaggio del VAN, che cosa fanno «gli altri metodi» con i flussi di cassa (lezione 21)?
+**R:** Ne usano **solo una parte**: «gli altri metodi utilizzano solo quelli **fino a una certa data**» (slide 2); «Altri approcci ignorano i flussi di cassa **successivi a una determinata data**» (slide 4). Il VAN, invece, «utilizza tutti i flussi di cassa del progetto».
+**Opzione:** Utilizzano solo i flussi fino a una certa data e ignorano quelli successivi.
+**Distrattori:**
+- Utilizzano solo i flussi successivi a una certa data e ignorano quelli precedenti.
+- Utilizzano tutti i flussi, ma ignorano il flusso in uscita all'anno zero.
+- Utilizzano tutti i flussi, ma li sommano agli utili del progetto.
+
+**D:** ⚠️ Secondo la terza caratteristica del VAN, che cosa potrebbero ignorare gli altri approcci (lezione 21)?
+**R:** «Il VAN attualizza **correttamente** i flussi di cassa. Gli altri approcci **potrebbero** ignorare il **valore temporale del denaro** nella determinazione dei flussi di cassa». Nella slide 2: attualizza i flussi di cassa, «considera il valore temporale del denaro, ignorato da altri criteri».
+**Opzione:** Il valore temporale del denaro nella determinazione dei flussi di cassa.
+**Distrattori:**
+- Il rischio del progetto nella determinazione del tasso di attualizzazione.
+- Gli utili del progetto nella determinazione dei flussi di cassa.
+- Il flusso in uscita all'anno zero nella determinazione del valore attuale.
+
+**D:** ⚠️ Come si apre la slide sulle tre caratteristiche del VAN (lezione 21)?
+**R:** «Il VAN è un **criterio razionale**. Gli altri criteri rispettano queste 3 caratteristiche del VAN?». Le tre caratteristiche sono quelle che servono a giudicare gli altri criteri: il tempo di recupero, il TIR (lezione 22), il rendimento netto contabile (lezione 23).
+**Opzione:** Il VAN è un criterio razionale.
+**Distrattori:**
+- Il VAN è un criterio contabile.
+- Il VAN è un criterio arbitrario.
+- Il VAN è un criterio empirico.
+
+**D:** ⚠️ Qual è il VAN del progetto di Alpha Corporation: €100 all'anno 0, €107 fra un anno, tasso del 6% (lezione 21)?
+**R:** **€0,94**: «€0,94 = -€100 + (€107/1,06)». Il valore attuale di 107 è 100,94; tolti i 100 investiti resta 0,94. Il progetto è **privo di rischio** e, «essendo dunque VAN>0, il progetto dovrebbe essere approvato». Il docente dice «un tasso di interesse dello 0,6%» e «un valore di 94»: valgono il 6% e gli €0,94 della slide.
+**Opzione:** €0,94
+**Distrattori:**
+- €94,00
+- €7,00
+- €100,94
+
+**D:** ⚠️ Nel VAN multiperiodale, come si attualizzano i flussi degli anni successivi (lezione 21)?
+**R:** Ciascuno «attualizzat[o] allo **stesso tasso di sconto** ma per un **numero di anni diverso**»: il flusso dell'anno 1 per un anno, quello dell'anno 2 per due, quello dell'anno 3 per tre. Il tasso è quello «che ci siamo dati in ragione della rischiosità della previsione». La somma è la componente positiva, da cui si toglie l'investimento iniziale.
+**Opzione:** Ciascuno allo stesso tasso di sconto, ma per un numero di anni pari alla sua distanza dall'anno zero.
+**Distrattori:**
+- Ciascuno per un solo anno, a un tasso che cresce con la distanza dall'anno zero.
+- Tutti insieme, sommati e attualizzati per il numero totale di anni del progetto.
+- Ciascuno a un tasso diverso, scelto in base alla vendita a cui il flusso si riferisce.
+
+**D:** Che cosa significa, per il docente, un VAN maggiore di zero (lezione 21)?
+**R:** Che l'investimento è profittevole: il valore delle vendite riportato a oggi supera il capitale investito. Detto in avanti, il montante è più alto di quello che si sarebbe avuto investendo lo stesso capitale «in un'altra attività **altrettanto rischiosa** a un tasso che è quello di mercato», «proporzionale al rischio che corro». Con un VAN negativo conviene invece «spostare i soldi su un altro business».
+**Opzione:** Che l'investimento rende più di un'attività altrettanto rischiosa remunerata al tasso di mercato.
+**Distrattori:**
+- Che l'investimento è privo di rischio.
+- Che l'investimento ripaga il capitale entro la data di rientro decisa dal management.
+- Che gli utili del progetto superano l'investimento iniziale.
+
+**D:** ⚠️ Su quale logica fonda il docente il valore del tempo nel VAN (lezione 21)?
+**R:** Sul **costo opportunità**: «la logica finanziaria del costo opportunità dell'investimento alternativo». Investendo in un business si rinuncia a un altro; il capitale resta vincolato e il tempo passato è «il costo perso», cioè «il **mancato ricavo** che avrei potuto ottenere se avessi investito nell'altro investimento».
+**Opzione:** Sul costo opportunità dell'investimento alternativo, cioè sul mancato ricavo dell'altro investimento.
+**Distrattori:**
+- Sull'ammortamento, cioè sulla quota dell'investimento che grava su ogni esercizio.
+- Sul razionamento del capitale, cioè sulla scarsa disponibilità di cassa dell'impresa.
+- Sull'inflazione, cioè sulla perdita di potere d'acquisto dei flussi futuri.
+
+**D:** Che cosa succede, secondo il docente, se i flussi di un investimento si valutano ogni sei mesi invece che ogni anno (lezione 21)?
+**R:** L'interesse composto «si comporrebbe semestralmente»: il montante si forma alla fine del **semestre** e su quel montante matura un nuovo interesse, quindi «con **maggiore velocità** il montante cresce». Per il docente i flussi di cassa, a differenza dell'utile, possono riferirsi a periodi infrannuali.
+**Opzione:** Il montante cresce più velocemente, perché ogni sei mesi l'interesse matura anche sugli interessi del semestre precedente.
+**Distrattori:**
+- Il montante resta lo stesso, perché il tasso annuo non cambia.
+- Il montante cresce più lentamente, perché l'interesse matura solo alla fine dell'anno.
+- Il VAN non si può calcolare, perché richiede flussi annuali che coincidono con l'esercizio.
+
+**D:** ⚠️ Che cos'è il tempo di recupero (lezione 21)?
+**R:** «Il tempo di recupero (*payback period*) è un metodo di valutazione **alternativo al VAN**. È il periodo di tempo che occorre per **ripagare il capitale investito inizialmente**». Per il docente è «il numero di periodi di cui ho bisogno per rientrare dall'investimento iniziale».
+**Opzione:** Un metodo di valutazione alternativo al VAN: il periodo di tempo che occorre per ripagare il capitale investito inizialmente.
+**Distrattori:**
+- Un metodo di valutazione alternativo al VAN: il periodo di tempo che occorre per raddoppiare il capitale investito inizialmente.
+- Un metodo di valutazione alternativo al VAN: il periodo di tempo che occorre perché i flussi attualizzati eguaglino l'investimento iniziale.
+- Un metodo di valutazione alternativo al VAN: il tasso che rende il VAN uguale a zero.
+
+**D:** ⚠️ Qual è la regola del tempo di recupero (lezione 21)?
+**R:** «Si accetta un investimento se il suo tempo di recupero è **minore** di una data specifica di rientro (***cut-off date***) **decisa dal management**; altrimenti, si rifiuta». Il docente non nomina mai la cut-off date: confronta due progetti e sceglie quello che rientra prima. All'esame vale la regola della slide.
+**Opzione:** Si accetta se il tempo di recupero è minore di una data specifica di rientro (cut-off date) decisa dal management; altrimenti si rifiuta.
+**Distrattori:**
+- Si accetta se il tempo di recupero è maggiore di una data specifica di rientro (cut-off date) decisa dal management; altrimenti si rifiuta.
+- Si accetta se il tempo di recupero è minore di una data specifica di rientro fissata dai finanziatori dell'impresa; altrimenti si rifiuta.
+- Si accetta se il tempo di recupero è minore del tempo di recupero attualizzato; altrimenti si rifiuta.
+
+**D:** ⚠️ Qual è il tempo di recupero di un investimento di €50.000 che rende €30.000, €20.000 ed €10.000 nei primi tre anni (lezione 21)?
+**R:** **2 anni**: alla fine del secondo anno i flussi cumulati, 30.000 + 20.000, ripagano esattamente i 50.000. La slide pone la domanda senza stampare la risposta. ⚠️ Il docente dice «il mio tempo di recupero è pari a **3**»: è un errore di conto. Al terzo anno il capitale è già recuperato e avanzano 10.000.
+**Opzione:** 2 anni.
+**Distrattori:**
+- 3 anni.
+- 1 anno.
+- L'investimento non viene recuperato entro tre anni.
+
+**D:** ⚠️ Quali sono, nell'ordine, i tre vantaggi del tempo di recupero (lezione 21)?
+**R:** «Adatto per investimenti **molto limitati/di routine**»; «Adatto per imprese soggette a un **forte razionamento del capitale**»; «**Eccezionalmente** semplice da capire». Per il docente gli investimenti sono limitati «sia per ammontare che per annualità»; quelli di routine sono già stati fatti in passato, quindi interessa rientrare dei capitali più che valutarne il rischio.
+**Opzione:** Adatto per investimenti molto limitati o di routine; adatto per imprese soggette a un forte razionamento del capitale; eccezionalmente semplice da capire.
+**Distrattori:**
+- Adatto per investimenti molto limitati o di routine; adatto per imprese soggette a un forte razionamento del capitale; usa il valore temporale del denaro.
+- Adatto per investimenti di grande ammontare e lunga durata; adatto per imprese soggette a un forte razionamento del capitale; eccezionalmente semplice da capire.
+- Adatto per investimenti molto limitati o di routine; adatto per imprese con ampia disponibilità di capitale; eccezionalmente semplice da capire.
+
+**D:** ⚠️ Per quali imprese è adatto il tempo di recupero, e perché (lezione 21)?
+**R:** Per le imprese «soggette a un **forte razionamento del capitale**» (slide). Per il docente significa avere «**scarsa disponibilità** di capitale» e quindi una «continua esigenza di avere capitale»: conviene l'investimento che restituisce prima la cassa.
+**Opzione:** Per le imprese soggette a un forte razionamento del capitale, che hanno continua esigenza di rientrare della cassa.
+**Distrattori:**
+- Per le imprese con ampia disponibilità di capitale, che possono attendere a lungo il rientro.
+- Per le imprese quotate, che valutano gli investimenti sul rendimento di mercato.
+- Per le imprese che investono in progetti di lunga durata e grande ammontare.
+
+**D:** ⚠️ Quali sono, nell'ordine, i tre problemi del tempo di recupero (lezione 21)?
+**R:** «**Tempistica** dei flussi di cassa»; «**Pagamenti successivi** al tempo di recupero»; «**Standard arbitrario** per il cut-off date scelto». Il docente non li commenta.
+**Opzione:** Tempistica dei flussi di cassa; pagamenti successivi al tempo di recupero; standard arbitrario per il cut-off date scelto.
+**Distrattori:**
+- Tempistica dei flussi di cassa; pagamenti precedenti al tempo di recupero; standard arbitrario per il cut-off date scelto.
+- Tempistica dei flussi di cassa; pagamenti successivi al tempo di recupero; non utilizza i flussi di cassa.
+- Complessità del calcolo; pagamenti successivi al tempo di recupero; standard arbitrario per il cut-off date scelto.
+
+**D:** ⚠️ Che cosa mostra la tabella dei progetti A, B e C sui problemi del tempo di recupero (lezione 21)?
+**R:** Tutti e tre i progetti investono 100 e hanno **lo stesso tempo di recupero, 3 anni**. **A** (20, 30, 50, 60) e **B** (50, 30, 20, 60) hanno gli stessi flussi in ordine diverso; **C** è identico a B fino al terzo anno, ma al quarto incassa **60.000** invece di 60. Il metodo non distingue né l'ordine dei flussi (tempistica) né ciò che arriva dopo il recupero (pagamenti successivi).
+**Opzione:** Che i tre progetti hanno lo stesso tempo di recupero, anche se i flussi arrivano in ordine diverso e C incassa 60.000 al quarto anno.
+**Distrattori:**
+- Che C ha il tempo di recupero più breve, grazie ai 60.000 del quarto anno.
+- Che A recupera prima di B, perché incassa di più al terzo anno.
+- Che B e C non recuperano l'investimento entro il quarto anno.
+
+**D:** Perché, secondo il docente, il tempo di recupero segue una logica «tipicamente finanziaria» (lezione 21)?
+**R:** Perché «in finanza non conta quello che io riesco a maturare nel tempo, ma piuttosto **quanto più velocemente** riesco a rientrare di capitale e interessi per **cogliere nuove opportunità**»: i mercati sono incerti e le opportunità nascono in ogni momento. Per l'investitore finanziario il payback è «molto più utile anche del VAN», che vincola a un investimento di medio-lungo termine.
+**Opzione:** Perché in finanza conta rientrare in fretta di capitale e interessi per cogliere nuove opportunità.
+**Distrattori:**
+- Perché misura il valore creato dal progetto lungo tutta la sua vita utile.
+- Perché attualizza i flussi a un tasso di mercato proporzionale al rischio.
+- Perché considera tutti i flussi del progetto, anche quelli successivi al recupero.
+
+**D:** ⚠️ In che cosa consiste il tempo di recupero attualizzato (lezione 21)?
+**R:** «Consiste nell'**attualizzare** i flussi di cassa e poi chiedersi quanto ci metteranno i flussi attualizzati ad **eguagliare l'investimento iniziale**». Per il docente i flussi attualizzati, sommati, «devono diventare 50.000, cioè … il capitale iniziale».
+**Opzione:** Attualizzare i flussi di cassa e poi chiedersi quanto ci metteranno i flussi attualizzati ad eguagliare l'investimento iniziale.
+**Distrattori:**
+- Attualizzare i flussi di cassa e poi chiedersi quanto ci metteranno i flussi attualizzati a raddoppiare l'investimento iniziale.
+- Capitalizzare l'investimento iniziale e poi chiedersi quale flusso futuro lo eguaglia alla fine della vita del progetto.
+- Attualizzare i flussi di cassa e poi chiedersi a quale tasso il loro valore attuale eguaglia l'investimento iniziale.
+
+**D:** ⚠️ Qual è la regola del tempo di recupero attualizzato (lezione 21)?
+**R:** «Si accetta un investimento se il suo periodo di payback attualizzato è **inferiore al benchmark** e si rifiuta in caso contrario». ⚠️ Il docente dice che «si confronta il payback periodo con il payback periodo attualizzato» e che, se i due valori corrispondono, il tempo di recupero è un criterio utile: vale la slide.
+**Opzione:** Si accetta se il periodo di payback attualizzato è inferiore al benchmark, e si rifiuta in caso contrario.
+**Distrattori:**
+- Si accetta se il periodo di payback attualizzato è superiore al benchmark, e si rifiuta in caso contrario.
+- Si accetta se il periodo di payback attualizzato coincide con quello non attualizzato, e si rifiuta in caso contrario.
+- Si accetta se il periodo di payback attualizzato è inferiore alla vita utile del progetto, e si rifiuta in caso contrario.
+
+**D:** ⚠️ Quali sono i punti di forza e i punti deboli del tempo di recupero attualizzato (lezione 21)?
+**R:** **Punti di forza**: «Semplice»; «Usa il valore temporale del denaro». **Punti deboli**: «Ignora i flussi cassa successivi al payback»; «Benchmark arbitrario».
+**Opzione:** Forza: è semplice e usa il valore temporale del denaro. Deboli: ignora i flussi successivi al payback e ha un benchmark arbitrario.
+**Distrattori:**
+- Forza: è semplice e usa tutti i flussi di cassa. Deboli: ignora il valore temporale del denaro e ha un benchmark arbitrario.
+- Forza: è semplice e usa il valore temporale del denaro. Deboli: ignora il flusso in uscita all'anno zero e ha un benchmark arbitrario.
+- Forza: usa il valore temporale del denaro e ha un benchmark oggettivo. Deboli: è complesso e ignora i flussi successivi al payback.
+
+**D:** ⚠️ Quale dei tre problemi del tempo di recupero viene risolto dall'attualizzazione (lezione 21)?
+**R:** **Solo la tempistica dei flussi di cassa**, perché il tempo di recupero attualizzato «usa il valore temporale del denaro». Gli altri due restano fra i suoi punti deboli: «ignora i flussi cassa successivi al payback» e il «benchmark arbitrario» corrisponde allo «standard arbitrario per il cut-off date». Per il docente l'attualizzazione introduce in più «l'errore del VAN», la soggettività del tasso.
+**Opzione:** Solo la tempistica dei flussi di cassa: restano i pagamenti successivi al recupero e la soglia arbitraria.
+**Distrattori:**
+- Tutti e tre: tempistica, pagamenti successivi al recupero e soglia arbitraria.
+- Solo i pagamenti successivi al tempo di recupero: restano la tempistica e la soglia arbitraria.
+- Solo la soglia arbitraria, sostituita da un benchmark di mercato: restano la tempistica e i pagamenti successivi.
+
+**D:** ⚠️ Quali delle tre caratteristiche del VAN rispetta il tempo di recupero attualizzato (lezione 21)?
+**R:** **Due su tre**: impiega i **flussi di cassa** e li **attualizza**, ma **non usa tutti i flussi**, perché «ignora i flussi cassa successivi al payback». È la seconda caratteristica del VAN rovesciata: «Altri approcci ignorano i flussi di cassa successivi a una determinata data». Il tempo di recupero semplice ne rispetta una sola, i flussi di cassa.
+**Opzione:** Impiega i flussi di cassa e li attualizza, ma non li usa tutti.
+**Distrattori:**
+- Tutte e tre: impiega i flussi di cassa, li usa tutti e li attualizza.
+- Solo una: impiega i flussi di cassa, ma non li usa tutti e non li attualizza.
+- Usa tutti i flussi e li attualizza, ma impiega gli utili invece dei flussi di cassa.
+
+**D:** Che cosa risolve, secondo il docente, il tempo di recupero attualizzato, e quale limite eredita dal VAN (lezione 21)?
+**R:** Risolve la **confrontabilità** dei flussi, che si riferiscono a periodi diversi, fra loro e con l'investimento iniziale, «che invece è **certo**»: «a questo punto il numero di anni diventa un valore utilizzabile». Eredita però «l'**errore del VAN**», cioè la soggettività dei criteri con cui si attualizza.
+**Opzione:** Rende confrontabili i flussi fra loro e con l'investimento iniziale, ma eredita dal VAN la soggettività del tasso di attualizzazione.
+**Distrattori:**
+- Rende confrontabili i flussi fra loro, ma eredita dal VAN l'obbligo di usare tutti i flussi del progetto.
+- Elimina la soggettività del tasso, ma eredita dal VAN la difficoltà di confrontare flussi di anni diversi.
+
+**D:** Un investitore calcola su un progetto un VAN negativo e rinuncia: che cosa se ne può dedurre sul VAN che calcolerebbe un altro soggetto (lezione 21)?
+**R:** **Nulla**: «questo non significa che il van costruito da un altro soggetto non sia positivo». Ogni soggetto ha la sua **percezione del rischio**, immagina un suo **tempo** di maturazione del valore e si aspetta un suo **flusso di cassa medio prospettico**. Per il docente è difficile confrontare il VAN di un'impresa con quello di un'altra: la soggettività «riguarda la natura dell'investitore».
+**Opzione:** Nulla: per un altro soggetto, con un'altra percezione del rischio, altri tempi e altri flussi attesi, il VAN può essere positivo.
+**Distrattori:**
+- Che sarà negativo anche per l'altro soggetto, perché il progetto è lo stesso.
+- Che sarà positivo per l'altro soggetto, perché i VAN di due soggetti hanno segno opposto.
