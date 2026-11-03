@@ -4665,3 +4665,221 @@
 **Distrattori:**
 - Perché le aziende più rischiose possono assicurargli un rendimento più basso: è un finanziatore esterno, come la banca.
 - Perché le aziende più rischiose devono assicurargli un rendimento molto alto: è un finanziatore esterno, come la banca.
+
+## Lezione 19 — Il caso uniperiodale
+
+**D:** ⚠️ Qual è la formula del valore attuale nel caso uniperiodale (lezione 19)?
+**R:** **VA = C1/(1 + r)**: «dove C1 è il flusso di cassa alla data 1 e r è il tasso di rendimento che richiede Pedro dalla vendita del suo terreno». Si **divide** per (1 + r); moltiplicare è capitalizzare.
+**Opzione:** VA = C1/(1 + r)
+**Distrattori:**
+- VA = C1 × (1 + r)
+- VA = C1/r
+- VA = (1 + r)/C1
+
+**D:** ⚠️ Che cosa sono C1 ed r nella formula VA = C1/(1 + r) (lezione 19)?
+**R:** C1 è «il **flusso di cassa alla data 1**», r è «il **tasso di rendimento** che richiede Pedro dalla vendita del suo terreno. r si chiama anche ***tasso di attualizzazione***». Il docente chiama C1 «investimento iniziale… uscita di cassa al tempo 1»: vale la slide.
+**Opzione:** C1 è il flusso di cassa alla data 1; r è il tasso di rendimento richiesto, detto anche tasso di attualizzazione.
+**Distrattori:**
+- C1 è l'investimento iniziale, uscita di cassa al tempo 1; r è il tasso di rendimento richiesto, detto anche tasso di attualizzazione.
+- C1 è il flusso di cassa alla data 1; r è il tasso di crescita del flusso, detto anche tasso di capitalizzazione.
+- C1 è il capitale iniziale alla data 0; r è il tasso di inflazione.
+
+**D:** ⚠️ Perché la seconda offerta a Pedro è preferibile, secondo il calcolo per capitalizzazione (lezione 19)?
+**R:** Perché «investite €10.000 al tasso di interesse del 12% e dopo un anno avrete **€11.200**»: meno degli **€11.424** offerti fra un anno.
+**Opzione:** Perché €10.000 investiti al 12% diventano €11.200 dopo un anno, meno di €11.424.
+**Distrattori:**
+- Perché €10.000 investiti al 12% diventano €11.424 dopo un anno, più di €11.200.
+- Perché €10.000 investiti al 12% diventano €11.600 dopo un anno, più di €11.424.
+- Perché €11.424 attualizzati al 12% valgono €10.000, esattamente come l'offerta di oggi.
+
+**D:** ⚠️ Quanto valgono oggi gli €11.424 offerti a Pedro fra un anno, attualizzati al 12% (lezione 19)?
+**R:** **€10.200**: più dei €10.000 offerti oggi, quindi la seconda opzione è preferibile. Capitalizzando 10.200 al 12% si torna a 11.424.
+**Opzione:** €10.200, più dei €10.000 offerti oggi.
+**Distrattori:**
+- €10.000, esattamente come l'offerta di oggi.
+- €11.200, più dei €10.000 offerti oggi.
+- €9.800, meno dei €10.000 offerti oggi.
+
+**D:** ⚠️ A quale conclusione arriva la slide confrontando capitalizzazione e attualizzazione nel caso di Pedro (lezione 19)?
+**R:** «**Entrambi gli approcci portano alla stessa decisione**»: la seconda opzione è preferibile sia confrontando 11.200 con 11.424, sia confrontando 10.200 con 10.000.
+**Opzione:** Entrambi gli approcci portano alla stessa decisione.
+**Distrattori:**
+- La capitalizzazione favorisce la prima offerta, l'attualizzazione la seconda.
+- Solo l'attualizzazione porta alla decisione corretta.
+- I due approcci portano a decisioni opposte se il tasso supera il 10%.
+
+**D:** ⚠️ Che rapporto c'è fra attualizzazione e capitalizzazione, secondo il docente della lezione 19?
+**R:** L'attualizzazione è «uno **sforzo di sconto** se volete, che è il **contrario** di quello che abbiamo fatto prima, che è invece uno sforzo di **capitalizzazione**». La capitalizzazione sposta **avanti** nel tempo i valori di oggi; l'attualizzazione riporta **indietro** i valori futuri. Il risultato «non cambia».
+**Opzione:** L'attualizzazione riporta indietro nel tempo i valori futuri; la capitalizzazione sposta avanti i valori di oggi.
+**Distrattori:**
+- L'attualizzazione sposta avanti nel tempo i valori di oggi; la capitalizzazione riporta indietro i valori futuri.
+- Sono la stessa operazione, ma la capitalizzazione usa un tasso privo di rischio e l'attualizzazione un tasso rischioso.
+- L'attualizzazione si usa per le entrate, la capitalizzazione solo per le uscite.
+
+**D:** Perché, secondo il docente della lezione 19, il ragionamento di Pedro è possibile con il tasso del 12%?
+**R:** Perché entrambi i clienti sono «**onesti e solvibili**»: gli 11.424 euro sono un valore **certo**, e si confrontano con un investimento **privo di rischio** al 12%, «l'unico certo che abbiamo dal mercato».
+**Opzione:** Perché l'incasso futuro è certo, e si confronta con un investimento privo di rischio.
+**Distrattori:**
+- Perché il terreno è un investimento rischioso, e il 12% ne compensa il rischio.
+- Perché il 12% è il tasso di crescita del valore dei terreni.
+
+**D:** Perché, secondo il docente della lezione 19, le imprese non seguono la «buona logica finanziaria» di incassare subito e reinvestire continuamente al tasso migliore?
+**R:** Perché, una volta investito, il loro è «tipicamente un **investimento industriale** dal quale è **difficile uscire**». Il confronto non è fra le tante alternative a disposizione, «ma piuttosto fra alcune alternative di investimento».
+**Opzione:** Perché il loro è tipicamente un investimento industriale dal quale è difficile uscire.
+**Distrattori:**
+- Perché alle imprese è vietato investire in titoli privi di rischio.
+- Perché il rendimento industriale è sempre più alto del tasso privo di rischio.
+
+**D:** ⚠️ Perché, secondo la lezione 19, il confronto diretto fra gli 85.000 euro investiti oggi nel terreno e i 91.000 attesi fra un anno non ha significato?
+**R:** Perché «**non sconta** appunto il **valore del tempo**»: c'è un'uscita di cassa di oggi e un'entrata di cassa fra un anno. Il «guadagno certo di € 6000» della slide è solo nominale.
+**Opzione:** Perché non sconta il valore del tempo.
+**Distrattori:**
+- Perché il guadagno di €6.000 è incerto.
+- Perché 91.000 euro comprendono le imposte.
+- Perché i due importi hanno rischi diversi.
+
+**D:** ⚠️ Quanto diventerebbero in banca, fra un anno, gli 85.000 euro di Kaufman & Broad al 10%, e che cosa se ne conclude (lezione 19)?
+**R:** «(1 + 0.10) × € 85 000 = € 93 500»: investendo sul mercato finanziario «si otterrebbero **€ 2500 in più**» dei €91.000 del terreno, quindi l'acquisto **non conviene**. «È un calcolo basato sul **valore futuro**».
+**Opzione:** €93.500, cioè €2.500 in più dei €91.000 del terreno: l'acquisto non conviene.
+**Distrattori:**
+- €93.500, cioè €2.500 in meno dei €91.000 del terreno: l'acquisto conviene.
+- €91.000, esattamente come il terreno: l'acquisto è indifferente.
+- €82.727,27, cioè meno degli €85.000 investiti: l'acquisto non conviene.
+
+**D:** ⚠️ Qual è il valore attuale dei €91.000 che Lida Jennings si aspetta fra un anno, al 10% (lezione 19)?
+**R:** «€ 91 000 / 1.10 = **€ 82 727.27**»: è inferiore al prezzo di acquisto di €85.000, quindi «Lida non dovrebbe raccomandare l'acquisto di quel terreno». Per il docente l'investimento è «**sovradimensionato**».
+**Opzione:** €82.727,27, inferiore al prezzo di acquisto di €85.000.
+**Distrattori:**
+- €82.727,27, superiore al prezzo di acquisto di €80.000.
+- €93.500, superiore al prezzo di acquisto di €85.000.
+- €100.100, superiore al prezzo di acquisto di €85.000.
+
+**D:** ⚠️ Qual è la formula del VAN nella lezione 19?
+**R:** «Valore attuale netto dell'investimento: **VAN = − Costi + VA**». Per il docente è «quello che mi resta in termini di cassa dopo aver effettuato l'investimento attualizzando i flussi di cassa futuri».
+**Opzione:** VAN = − Costi + VA
+**Distrattori:**
+- VAN = Costi − VA
+- VAN = − Costi × VA
+- VAN = VA / Costi
+
+**D:** ⚠️ Quanto vale il VAN dell'acquisto del terreno di Kaufman & Broad, e che cosa indica (lezione 19)?
+**R:** **−€2.273 = −€85.000 + €91.000/1,10**: «costo del terreno oggi» più «valore attuale del prezzo di vendita dell'anno prossimo». Un VAN **negativo** significa che il valore prodotto è negativo «e dunque **non è conveniente** fare l'investimento».
+**Opzione:** −€2.273: l'investimento non è conveniente.
+**Distrattori:**
+- +€2.273: l'investimento è conveniente.
+- +€6.000: il guadagno certo rende conveniente l'investimento.
+- −€2.500: l'investimento non è conveniente.
+
+**D:** ⚠️ Che cosa rappresentano i due termini di −€85.000 + €91.000/1,10 nel calcolo del VAN della lezione 19?
+**R:** −€85.000 è il «**costo del terreno oggi**»; €91.000/1,10 è il «**valore attuale del prezzo di vendita dell'anno prossimo**».
+**Opzione:** Il costo del terreno oggi e il valore attuale del prezzo di vendita dell'anno prossimo.
+**Distrattori:**
+- Il valore attuale del costo del terreno e il prezzo di vendita dell'anno prossimo.
+- Il costo del terreno l'anno prossimo e il valore futuro del prezzo di vendita.
+- Il guadagno certo e gli interessi garantiti dalla banca.
+
+**D:** ⚠️ Qual è il valore attuale del Picasso di Professional Artworks attualizzato al 10%, e perché non basta (lezione 19)?
+**R:** «€ 480 000 / 1.10 = **€ 436 364**»: maggiore di €400.000, quindi «a prima vista si direbbe che convenga». Ma «il 10% è il rendimento che si può conseguire su un investimento **totalmente privo di rischio**», e il dipinto è «un investimento **decisamente rischioso**».
+**Opzione:** €436.364: a prima vista conviene, ma il 10% è il rendimento di un investimento totalmente privo di rischio.
+**Distrattori:**
+- €436.364: conviene, perché il 10% è il tasso garantito dalla banca.
+- €384.000: non conviene, perché il 10% è troppo alto per un dipinto.
+- €528.000: conviene, perché il valore futuro supera il prezzo.
+
+**D:** ⚠️ Con quale tasso il direttore di Professional Artworks attualizza i €480.000 del Picasso, e con quale esito (lezione 19)?
+**R:** Con il **25%**, «per riflettere questo rischio»: è il rendimento che costituisce «un compenso adeguato per quel genere di investimento rischioso». Il valore attuale scende a **€384.000**, meno dei €400.000 del prezzo: il direttore «non effettuerà alcun acquisto».
+**Opzione:** Al 25%, per riflettere il rischio: il valore attuale scende a €384.000 e non compra.
+**Distrattori:**
+- Al 10%, il tasso garantito dalla banca: il valore attuale è €436.364 e compra.
+- Al 25%, il tasso garantito dalla banca: il valore attuale scende a €384.000 e non compra.
+- Al 25%, per riflettere il rischio: il valore attuale sale a €600.000 e compra.
+
+**D:** ⚠️ Come va scelto il tasso di attualizzazione di un investimento rischioso, secondo la lezione 19?
+**R:** Più **alto** del tasso privo di rischio: «quanto più è rischioso il fatto che io possa non realizzare quella cifra in futuro, tanto più alto deve essere il tasso al quale attualizzo», perché lo si confronta con investimenti alternativi «che hanno la **stessa rischiosità**».
+**Opzione:** Più alto del tasso privo di rischio, pari al rendimento di investimenti alternativi con la stessa rischiosità.
+**Distrattori:**
+- Pari al tasso privo di rischio, perché è l'unico certo che abbiamo dal mercato.
+- Più basso del tasso privo di rischio, per non penalizzare un flusso già incerto.
+- Pari al tasso di crescita atteso del flusso di cassa.
+
+**D:** ⚠️ Su che cosa risente di valutazioni soggettive il processo di attualizzazione, secondo il docente della lezione 19?
+**R:** Su tre cose: la **quantificazione del flusso di cassa** (il *quantum*); il **tempo** di attualizzazione, perché l'anno «è una supposizione»; la **certezza di riscuotere** il flusso, cioè la «probabilità che quel quantum effettivamente entrerà nelle mie tasche».
+**Opzione:** Sulla quantificazione del flusso di cassa, sul tempo di attualizzazione e sulla certezza di riscuoterlo.
+**Distrattori:**
+- Solo sulla quantificazione del flusso di cassa.
+- Sulla quantificazione del flusso di cassa, sul tasso di inflazione e sulle imposte.
+
+**D:** Perché, per il docente della lezione 19, il flusso di cassa C1 e il tasso r sono «valori per certi versi arbitrari»?
+**R:** Il flusso di cassa atteso è costruito sulle **azioni strategiche** messe in campo: marketing, crescita, sviluppo, investimenti nelle diverse branche. Il tasso, per investimenti **rischiosi** fatti «per generare valore su un mercato competitivo», è di solito «superiore al tasso di interesse free risk», «ma non necessariamente così alto». Sono valori «aleatori», che risentono «della soggettività» di chi valuta.
+
+**D:** ⚠️ Quanto vale dopo due anni €1 depositato in banca al 9%, secondo la lezione 19?
+**R:** «€1 x (1,09) x (1,09) = €1 x (1,09)² = €1 + €0,18 + €0,0081 = **€1,1881**». Dopo un anno valeva €1,09.
+**Opzione:** €1,1881
+**Distrattori:**
+- €1,18
+- €1,09
+- €1,0981
+
+**D:** ⚠️ Nello sviluppo (1 + r)² = 1 + 2r + r² della lezione 19, che cosa rappresenta r²?
+**R:** La **differenza fra interesse composto e interesse semplice**: con r = 9% sono gli €0,0081 maturati sull'interesse del primo anno. **2r** (€0,18) è l'interesse semplice di due anni.
+**Opzione:** La differenza fra interesse composto e interesse semplice.
+**Distrattori:**
+- L'interesse semplice di due anni.
+- Il tasso di attualizzazione del secondo anno.
+- Il capitale iniziale capitalizzato.
+
+**D:** ⚠️ Come evolve, secondo la lezione 19, la differenza fra interesse composto e interesse semplice?
+**R:** «La differenza diventa **sostanziale** su un periodo di **molti anni**». Nel grafico della slide è €0,008 al secondo anno (€1,188 contro €1,180) e €0,025 al terzo (€1,295 contro €1,270); al primo anno è nulla.
+**Opzione:** Diventa sostanziale su un periodo di molti anni.
+**Distrattori:**
+- Si annulla su un periodo di molti anni.
+- Resta costante nel tempo.
+- È massima nel primo anno.
+
+**D:** ⚠️ Il valore di una impresa, secondo il test della lezione 19 (domanda 1):
+**R:** **È legato sia al tasso di crescita che al tasso di attualizzazione.** ⚠️ La lezione 19 dà solo il legame con il tasso di **attualizzazione** (VA = C1/(1 + r)); il tasso di crescita non è nelle lezioni 01–19. Chi ha studiato solo la 19 è tentato da «al **solo** tasso di attualizzazione». Distrattori del test: «al solo tasso di crescita», «al solo tasso di attualizzazione», «né al tasso di crescita né a quello di attualizzazione».
+**Opzione:** È legato sia al tasso di crescita che al tasso di attualizzazione.
+**Distrattori:**
+- È legato al solo tasso di crescita.
+- È legato al solo tasso di attualizzazione.
+- Non è legato né al tasso di crescita né a quello di attualizzazione.
+
+**D:** ⚠️ La distribuzione di dividendi, secondo il test della lezione 19 (domanda 2):
+**R:** **Può essere differita per effettuare ulteriori investimenti, che produrranno una maggiore redditività in futuro.** È la scelta fra dividendo e investimento che la lezione 18 affida al **management** e la lezione 17, nei gruppi, alla **casa madre**. Distrattori del test: «non può **mai** essere differita» (quantificatore assoluto), «non è legata ad una scelta strategica d'azienda», «dipende dal numero dei manager».
+**Opzione:** Può essere differita per effettuare ulteriori investimenti, che produrranno una maggiore redditività in futuro.
+**Distrattori:**
+- Non può mai essere differita.
+- Non è legata ad una scelta strategica d'azienda.
+- Dipende dal numero dei manager.
+
+**D:** ⚠️ Il potere d'acquisto del flusso di cassa, secondo il test della lezione 19 (domanda 3):
+**R:** **È rappresentato dal flusso di cassa reale.** ⚠️ Non è nelle lezioni 01–19. Il flusso **reale** è depurato dall'inflazione, quello **nominale** no (integrazione, non dai materiali del corso). Distrattori del test: «è rappresentato dal flusso di cassa **nominale**», «non è misurabile», «non è legato all'inflazione».
+**Opzione:** È rappresentato dal flusso di cassa reale.
+**Distrattori:**
+- È rappresentato dal flusso di cassa nominale.
+- Non è misurabile.
+- Non è legato all'inflazione.
+
+**D:** ⚠️ L'approccio che esamina il livello di reattività di un progetto al mutare delle ipotesi che ne sono alla base, secondo il test della lezione 19 (domanda 4):
+**R:** **Analisi di sensibilità.** ⚠️ Non è nelle lezioni 01–19. «Analisi del punto di pareggio» e «break-even analysis» sono la **stessa cosa** in due lingue: se una fosse giusta lo sarebbe anche l'altra, quindi sono sbagliate entrambe. Altro distrattore del test: «analisi del rischio».
+**Opzione:** Analisi di sensibilità.
+**Distrattori:**
+- Analisi del rischio.
+- Analisi del punto di pareggio.
+- Break-even analysis.
+
+**D:** ⚠️ Gli aggiustamenti (cd. opzioni reali) che un'impresa ha a disposizione a seguito dell'accettazione di un progetto, secondo il test della lezione 19 (domanda 5):
+**R:** **Abbandono e differimento.** ⚠️ Non è nelle lezioni 01–19. Ogni distrattore accoppia una voce plausibile a una che non lo è: «ripetizione ed espansione», «espansione e riqualificazione», «differimento e concentrazione».
+**Opzione:** Abbandono e differimento.
+**Distrattori:**
+- Ripetizione ed espansione.
+- Espansione e riqualificazione.
+- Differimento e concentrazione.
+
+**D:** ⚠️ Con Pₜ prezzo di un'azione a inizio anno e Pₜ₊₁ a fine anno, come si calcola il capital gain/loss in valore percentuale, secondo il test della lezione 19 (domanda 6)?
+**R:** **(Pₜ₊₁ − Pₜ) / Pₜ**: la variazione del prezzo rapportata al prezzo iniziale. ⚠️ Non è nelle lezioni 01–19. Il distrattore insidioso è **Pₜ₊₁ / Pₜ**, che vale 1 **più** il capital gain. Altri distrattori del test: «(Pₜ₊₁ × Pₜ) / Pₜ», «Pₜ + Pₜ₊₁».
+**Opzione:** (Pₜ₊₁ − Pₜ) / Pₜ
+**Distrattori:**
+- (Pₜ₊₁ × Pₜ) / Pₜ
+- Pₜ + Pₜ₊₁
+- Pₜ₊₁ / Pₜ
