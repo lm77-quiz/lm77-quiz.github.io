@@ -4387,3 +4387,281 @@
 - Stellantis, con la sede fiscale in Romania.
 - Stellantis, con la sede fiscale in Italia.
 - Ducati, con la sede fiscale in Germania.
+
+## Lezione 18 — Quozienti di bilancio
+
+**D:** ⚠️ Quali sono, nell'ordine, le cinque macro-categorie di indici/quozienti di bilancio (lezione 18)?
+**R:** 1. Indici di **rotazione del capitale circolante commerciale**; 2. Indici di **liquidità e di copertura**; 3. Indici di **struttura finanziaria**; 4. Indici di **redditività**; 5. Indici di **mercato o multipli di Borsa**.
+**Opzione:** Rotazione del capitale circolante commerciale; liquidità e copertura; struttura finanziaria; redditività; mercato o multipli di Borsa.
+**Distrattori:**
+- Rotazione del capitale circolante netto; liquidità e copertura; struttura finanziaria; redditività; mercato o multipli di Borsa.
+- Rotazione del capitale circolante commerciale; liquidità e copertura; struttura finanziaria; redditività; sviluppo e crescita.
+- Rotazione del capitale circolante commerciale; liquidità e solvibilità; struttura patrimoniale; redditività; mercato o multipli di Borsa.
+
+**D:** ⚠️ Come si chiama, per intero, la quinta macro-categoria di quozienti di bilancio (lezione 18)?
+**R:** «Indici di **mercato** o **multipli di Borsa**». Nella slide 10 l'intestazione diventa «1. Indici di mercato o multipli di Borsa e di copertura», con un numero e una coda che la slide 2 non ha: la «copertura» sta nella categoria 2, *liquidità e di copertura*.
+**Opzione:** Indici di mercato o multipli di Borsa.
+**Distrattori:**
+- Indici di redditività o multipli del capitale.
+- Indici di struttura finanziaria o multipli di Borsa.
+- Indici di mercato o indici di solvibilità.
+
+**D:** Quale categoria di quozienti interessa di più per le decisioni di management, secondo il docente della lezione 18, e perché?
+**R:** Gli **indici di struttura finanziaria**, perché «la decisione strategica è soprattutto una **decisione di investimento**». Gli altri «sono a corredo di questa analisi»: aiutano a programmare l'investimento e a corroborare la struttura finanziaria.
+**Opzione:** Gli indici di struttura finanziaria, perché la decisione strategica è soprattutto una decisione di investimento.
+**Distrattori:**
+- Gli indici di redditività, perché la decisione strategica è soprattutto una decisione di remunerazione degli azionisti.
+- Gli indici di mercato, perché la decisione strategica è soprattutto una decisione di quotazione.
+- Gli indici di liquidità, perché la decisione strategica è soprattutto una decisione di gestione della cassa.
+
+**D:** ⚠️ Come vanno letti i quozienti di bilancio, secondo il docente della lezione 18?
+**R:** «Non li dobbiamo leggere come indicatori della **storia** dell'impresa, quindi del suo passato, ma piuttosto come elementi a supporto delle **decisioni future**», della capacità di produrre reddito e di garantire gli azionisti.
+**Opzione:** Come elementi a supporto delle decisioni future, non come indicatori della storia dell'impresa.
+**Distrattori:**
+- Come indicatori della storia dell'impresa, non come elementi a supporto delle decisioni future.
+- Come indicatori fiscali, utili soprattutto al calcolo delle imposte.
+
+**D:** ⚠️ Qual è la formula del TMR, tempo medio di riscossione (lezione 18)?
+**R:** **Crediti verso clienti / (ricavi di vendita/360)**. La slide lo chiama anche **TMI**, «Tempo medio incasso». Dice quanta parte dei ricavi è cassa e quanta «attese», cioè crediti non ancora riscossi.
+**Opzione:** crediti verso clienti / (ricavi di vendita/360)
+**Distrattori:**
+- debiti verso fornitori / (acquisti (materie prime e servizi)/360)
+- crediti verso clienti / (costo del venduto/360)
+- crediti verso clienti / (acquisti/360)
+
+**D:** ⚠️ Qual è la formula del TMP, tempo medio di pagamento (lezione 18)?
+**R:** **Debiti verso fornitori / (acquisti (materie prime e servizi)/360)**: il tempo che l'impresa impiega in media a pagare i fornitori.
+**Opzione:** debiti verso fornitori / (acquisti (materie prime e servizi)/360)
+**Distrattori:**
+- debiti verso fornitori / (ricavi di vendita/360)
+- crediti verso clienti / (ricavi di vendita/360)
+- debiti verso fornitori / (costo del venduto/360)
+
+**D:** ⚠️ Qual è la formula del TMGS, tempo medio di giacenza delle scorte (lezione 18)?
+**R:** **Scorte (rimanenze) di magazzino / (costo del venduto/360)**. Per il docente le scorte sono «la pancia» che alimenta il processo produttivo.
+**Opzione:** scorte (rimanenze) di magazzino / (costo del venduto/360)
+**Distrattori:**
+- scorte (rimanenze) di magazzino / (ricavi di vendita/360)
+- scorte (rimanenze) di magazzino / (acquisti/360)
+- costo del venduto / (scorte (rimanenze) di magazzino/360)
+
+**D:** ⚠️ Che cosa succede, secondo il docente della lezione 18, quanto più TMR e TMP sono sfasati fra loro?
+**R:** «Tanto maggiore sarà la necessità di avere una **stanza di compensazione** più grande, quindi una **disponibilità di cassa maggiore**». La correlazione fra i due indici misura «la capacità di compensazione che la cassa deve avere».
+**Opzione:** Serve una stanza di compensazione più grande, cioè una disponibilità di cassa maggiore.
+**Distrattori:**
+- Serve una stanza di compensazione più piccola, cioè una disponibilità di cassa minore.
+- Serve un capitale netto maggiore, cioè un aumento del capitale sociale.
+- Si riduce il tempo medio di giacenza delle scorte.
+
+**D:** ⚠️ Dove si manifesta per prima, secondo il docente della lezione 18, la mancanza di equilibrio fra TMR, TMP e TMGS?
+**R:** In un **aumento del tempo medio di giacenza delle scorte**: gli aggravi di costo «avranno la loro prima manifestazione in un aumento del tempo medio di giacenza delle scorte». Le scorte restano più a lungo in magazzino, e questo è un costo.
+**Opzione:** In un aumento del tempo medio di giacenza delle scorte.
+**Distrattori:**
+- In una riduzione del tempo medio di giacenza delle scorte.
+- In un aumento del tempo medio di riscossione.
+- In una riduzione del tempo medio di pagamento.
+
+**D:** ⚠️ Qual è la formula del TMGS delle materie prime (lezione 18)?
+**R:** **Scorte di materie prime / (acquisti/360)**. È l'unica delle tre giacenze specifiche con gli **acquisti** al denominatore. Per il docente è tipico delle imprese che comprano grandi quantità di materie prime su mercati in cui non si può equilibrare l'acquisto con il processo produttivo.
+**Opzione:** scorte di materie prime / (acquisti/360)
+**Distrattori:**
+- scorte di materie prime / (costo del venduto/360)
+- scorte di materie prime / (% del costo del venduto/360)
+- scorte di materie prime / (ricavi di vendita/360)
+
+**D:** Qual è la formula del TMGS dei prodotti finiti (lezione 18)?
+**R:** **Scorte di prodotti finiti / (costo del venduto/360)**: lo stesso denominatore del TMGS generale. Per il docente è usato «prevalentemente» da imprese che lavorano nei settori della larga distribuzione, i prodotti *grocery*.
+**Opzione:** scorte di prodotti finiti / (costo del venduto/360)
+**Distrattori:**
+- scorte di prodotti finiti / (acquisti/360)
+- scorte di prodotti finiti / (% del costo del venduto/360)
+- scorte di prodotti finiti / (ricavi di vendita/360)
+
+**D:** ⚠️ Qual è la formula del TMGS dei semilavorati (lezione 18)?
+**R:** **Scorte di semilavorati / (% del costo del venduto/360)**. Il docente dice «rispetto alla **variazione** del costo del venduto»: vale la slide, che dice «**%** del».
+**Opzione:** scorte di semilavorati / (% del costo del venduto/360)
+**Distrattori:**
+- scorte di semilavorati / (variazione del costo del venduto/360)
+- scorte di semilavorati / (acquisti/360)
+- scorte di semilavorati / (costo del venduto/360)
+
+**D:** ⚠️ Qual è la formula dell'indice di liquidità secondaria (lezione 18), e con quale altro nome si chiama?
+**R:** **Attività a breve termine / passività a breve termine**; si chiama anche **indice di disponibilità**. Per il docente è il più semplice da calcolare e il più utilizzato. L'**acid test** è invece l'indice di liquidità **primaria**.
+**Opzione:** attività a breve termine / passività a breve termine; si chiama anche indice di disponibilità.
+**Distrattori:**
+- (attività a breve termine − scorte di magazzino) / passività a breve termine; si chiama anche indice di disponibilità.
+- attività a breve termine / passività a breve termine; si chiama anche acid test.
+- attività a breve termine − passività a breve termine; si chiama anche indice di disponibilità.
+
+**D:** ⚠️ Qual è la formula dell'indice di liquidità primaria, o acid test (lezione 18)?
+**R:** **(Attività a breve termine − scorte di magazzino) / passività a breve termine**. Tolte le scorte, resta «ciò che effettivamente è cassa per noi»: per il docente è «una misura più esplicita delle nostre difficoltà».
+**Opzione:** (attività a breve termine − scorte di magazzino) / passività a breve termine
+**Distrattori:**
+- attività a breve termine / passività a breve termine
+- (attività a breve termine − scorte di magazzino) / (passività a breve termine + capitale netto)
+- (attività a breve termine + scorte di magazzino) / passività a breve termine
+
+**D:** ⚠️ Qual è la formula dell'indice di copertura delle immobilizzazioni (lezione 18)?
+**R:** **Attività a lungo termine / (passività a lungo termine + capitale netto)**. Il capitale netto entra al denominatore «ove mai il capitale netto fosse necessario per affrontare le spese relative alle immobilizzazioni»: è la regola dell'equilibrio della lezione 16 scritta come rapporto.
+**Opzione:** attività a lungo termine / (passività a lungo termine + capitale netto)
+**Distrattori:**
+- attività a lungo termine / passività a lungo termine
+- (passività a lungo termine + capitale netto) / attività a lungo termine
+- attività a lungo termine / (passività a breve termine + capitale netto)
+
+**D:** ⚠️ Che differenza c'è fra il CCN della lezione 16 e l'indice di disponibilità della lezione 18?
+**R:** Usano le stesse due grandezze, **attività a breve** e **passività a breve**: il CCN ne fa la **differenza**, l'indice di disponibilità il **rapporto**.
+**Opzione:** Il CCN è la differenza fra attività e passività a breve, l'indice di disponibilità ne è il rapporto.
+**Distrattori:**
+- Il CCN è il rapporto fra attività e passività a breve, l'indice di disponibilità ne è la differenza.
+- Il CCN usa attività e passività a breve, l'indice di disponibilità attività e passività a lungo termine.
+- Il CCN usa le attività correnti operative, l'indice di disponibilità la sola cassa.
+
+**D:** ⚠️ Qual è la formula dell'indice di copertura degli oneri finanziari (lezione 18)?
+**R:** **Reddito operativo (EBIT) / oneri finanziari**. Uno squilibrio dà difficoltà di liquidità di breve, ma soprattutto dice che forse «ci siamo esposti troppo sul piano degli investimenti inizialmente assunti».
+**Opzione:** reddito operativo (EBIT) / oneri finanziari
+**Distrattori:**
+- oneri finanziari / reddito operativo (EBIT)
+- margine operativo lordo (EBITDA) / oneri finanziari
+- reddito netto / oneri finanziari
+
+**D:** ⚠️ Nell'indice che mette in rapporto la PFN con una grandezza del conto economico (lezione 18), quale grandezza sta al denominatore?
+**R:** L'**EBITDA**: l'indice è «**PFN/EBITDA**». Il docente dice «passività finanziaria nette e **EBIT**»: vale la slide. È lo stesso scambio EBIT/EBITDA della lezione 17. Va ripetuto nel tempo, per vedere se il reddito operativo consente di rientrare del debito.
+**Opzione:** L'EBITDA (margine operativo lordo).
+**Distrattori:**
+- L'EBIT (reddito operativo).
+- Il reddito netto.
+- Il risultato ante-imposte.
+
+**D:** ⚠️ Qual è la formula del gearing (lezione 18)?
+**R:** **PFN / capitale netto**. Per il docente misura «la capacità di sostenere la nostra passività. Con cosa? Con il nostro capitale netto», e ha un significato di **solidità** dell'impresa.
+**Opzione:** PFN / capitale netto
+**Distrattori:**
+- PFN / (PFN + capitale netto)
+- capitale netto / PFN
+- PFN / EBITDA
+
+**D:** ⚠️ Qual è la formula del leverage finanziario (lezione 18)?
+**R:** **PFN / (PFN + capitale netto)**. Il docente chiama il denominatore «il totale dell'attivo»; per lui l'indice misura «quanto mi indebito per sostenere il mio sviluppo». Il **gearing** ha lo stesso numeratore e il solo capitale netto al denominatore.
+**Opzione:** PFN / (PFN + capitale netto)
+**Distrattori:**
+- PFN / capitale netto
+- capitale netto / (PFN + capitale netto)
+- (PFN + capitale netto) / capitale netto
+
+**D:** ⚠️ In quale macro-categoria stanno il gearing e il leverage finanziario (lezione 18)?
+**R:** Negli **indici di struttura finanziaria**, la categoria 3. La slide non ha intestazione, ma il docente dice che il gearing «ci dà un'idea della nostra **struttura finanziaria**».
+**Opzione:** Indici di struttura finanziaria.
+**Distrattori:**
+- Indici di liquidità e di copertura.
+- Indici di redditività.
+- Indici di mercato o multipli di Borsa.
+
+**D:** ⚠️ Che cosa dice il docente della lezione 18 sulle PMI italiane, a proposito del gearing?
+**R:** Sono sovraesposte verso le loro passività, «di solito **sottocapitalizzate** rispetto alle esposizioni che hanno assunto». La parte delle passività che il capitale netto non garantisce è garantita da **indebitamento**: ne viene un elevato livello di **oneri finanziari**, e la necessità di un reddito operativo capace di reggerli.
+**Opzione:** Sono di solito sottocapitalizzate rispetto alle esposizioni assunte, con un elevato livello di oneri finanziari.
+**Distrattori:**
+- Sono di solito sovracapitalizzate rispetto alle esposizioni assunte, con un basso livello di oneri finanziari.
+- Sono di solito sottocapitalizzate rispetto alle esposizioni assunte, ma con un basso livello di oneri finanziari.
+- Sono finanziate in prevalenza dal mercato azionario, con un basso livello di indebitamento.
+
+**D:** Perché, secondo il docente della lezione 18, un capitale netto scarso rispetto alle passività è un problema anche verso l'esterno?
+**R:** Perché segnala **scarsa solidità**. Un **nuovo investitore** nel capitale sociale farebbe un investimento «molto rischioso»; per i **terzi** è un rischio anche nella relazione commerciale; per i **finanziatori** e le **banche**, che finanziano il resto delle passività, la maggiore rischiosità genererebbe «oneri finanziari più elevati».
+
+**D:** ⚠️ Qual è la formula del ROI (lezione 18)?
+**R:** **Reddito operativo (EBIT) / CINO**. Il docente dice «reddito operativo e **capitale proprio**»: vale la slide. Il capitale netto è il denominatore del **ROE**.
+**Opzione:** reddito operativo (EBIT) / CINO
+**Distrattori:**
+- reddito operativo (EBIT) / capitale netto
+- reddito operativo (EBIT) / ricavi di vendita
+- reddito netto / CINO
+
+**D:** ⚠️ Qual è la formula del ROS (lezione 18)?
+**R:** **Reddito operativo / ricavi di vendita**: quanta parte dei ricavi «finisce di fatto in reddito operativo».
+**Opzione:** reddito operativo / ricavi di vendita
+**Distrattori:**
+- ricavi di vendita / CINO
+- reddito netto / ricavi di vendita
+- reddito operativo / CINO
+
+**D:** ⚠️ Qual è la formula del turnover del CIN (lezione 18)?
+**R:** **Ricavi di vendita / CINO**. Il docente lo chiama «turnover del **capitale netto**»: vale la slide. Nel nome la slide scrive «CIN», nella formula «CINO».
+**Opzione:** ricavi di vendita / CINO
+**Distrattori:**
+- ricavi di vendita / capitale netto
+- CINO / ricavi di vendita
+- reddito operativo / CINO
+
+**D:** ⚠️ Come si scompone il ROI (lezione 18)?
+**R:** **ROI = ROS × turnover del CIN**: (reddito operativo / ricavi di vendita) × (ricavi di vendita / CINO) = reddito operativo (EBIT) / CINO. I **ricavi di vendita** si semplificano: nella slide sono barrati con una croce.
+**Opzione:** ROI = ROS × turnover del CIN
+**Distrattori:**
+- ROI = ROE × turnover del CIN
+- ROI = ROS / turnover del CIN
+- ROI = ROS × leverage finanziario
+
+**D:** ⚠️ Qual è la formula del ROE (lezione 18)?
+**R:** **Reddito netto / capitale netto (equity)**. Il reddito netto è quello «al netto delle tasse e degli oneri finanziari»: per il docente il ROE è «un vero e proprio ritorno per l'azionista».
+**Opzione:** reddito netto / capitale netto (equity)
+**Distrattori:**
+- reddito operativo (EBIT) / capitale netto (equity)
+- reddito netto / CINO
+- reddito netto / (PFN + capitale netto)
+
+**D:** Perché per il docente della lezione 18 il ROI è «un indicatore industriale prima ancora che finanziario»?
+**R:** Perché dice se il valore generato dalla produzione, dal processo di generazione di valore, **remunera chi ci ha messo i denari**. Si legge in «duplice maniera»: dal lato del **reddito operativo**, che deve avere una consistenza adeguata, o dal lato del **capitale**, in rapporto al valore che potrà generare, «dando una misura della bontà dell'investimento».
+
+**D:** ⚠️ Che cosa misura il ROS, secondo il docente della lezione 18, oltre all'efficacia della gestione finanziaria?
+**R:** «Una misura della effettiva efficacia della nostra **azione commerciale** oltre che della nostra gestione finanziaria». Se buona parte dei ricavi non finisce in reddito operativo, i ricavi «servono solo a garantire la sopravvivenza dell'impresa e non a remunerare gli investitori». Va letto nel tempo.
+**Opzione:** L'effettiva efficacia dell'azione commerciale.
+**Distrattori:**
+- L'effettiva efficacia della politica dei dividendi.
+- La rotazione del capitale investito.
+- La solidità patrimoniale dell'impresa.
+
+**D:** ⚠️ Che cosa comporta un ROE troppo basso, secondo il docente della lezione 18?
+**R:** Compromessi «particolarmente costosi». Per l'**azionista**, un **dividendo** danneggiato; per l'**impresa**, scarsi margini per **crescere** e per competere, perché non può investire su se stessa. Ne nasce un clima di «quasi crisi» e di sfiducia, che può spingere gli azionisti verso altri investimenti, se il **costo di switch** è basso.
+**Opzione:** Dividendi danneggiati, scarsi margini per crescere e azionisti tentati di spostarsi altrove, se il costo di switch è basso.
+**Distrattori:**
+- Dividendi più alti, scarsi margini per crescere e azionisti fidelizzati.
+- Dividendi danneggiati, ma più risorse per investire sull'impresa stessa.
+- Dividendi danneggiati, scarsi margini per crescere e azionisti tentati di spostarsi altrove, se il costo di switch è alto.
+
+**D:** ⚠️ Qual è la formula del Price/Earnings (lezione 18)?
+**R:** **Prezzo corrente delle azioni / EPS**. L'EPS è l'*earning per share*, per il docente «il guadagno che ciascun azionista ha da ciascuna azione».
+**Opzione:** prezzo corrente delle azioni / EPS
+**Distrattori:**
+- EPS / prezzo corrente delle azioni
+- prezzo corrente / valore contabile delle azioni
+- prezzo corrente delle azioni / dividendo per azione
+
+**D:** ⚠️ Qual è la formula del Price to Book Value (lezione 18)?
+**R:** **Prezzo corrente / valore contabile delle azioni**. Il docente l'aveva prima chiamato «rapporto fra book value e market value», poi si è corretto: «scusate, price e book value».
+**Opzione:** prezzo corrente / valore contabile delle azioni
+**Distrattori:**
+- valore contabile delle azioni / prezzo corrente
+- prezzo corrente delle azioni / EPS
+- prezzo corrente / valore nominale delle azioni
+
+**D:** ⚠️ Dove ha più senso il Price to Book Value, secondo il docente della lezione 18?
+**R:** «Per le aziende quotate su **mercati non europei**». Nei mercati europei, «ma soprattutto nel **mercato italiano**», il valore contabile «spesso è molto lontano dal prezzo corrente delle azioni».
+**Opzione:** Per le aziende quotate su mercati non europei.
+**Distrattori:**
+- Per le aziende quotate sul mercato italiano.
+- Per le aziende quotate su mercati europei.
+- Per le aziende non quotate.
+
+**D:** ⚠️ Con che cosa si confronta, secondo il docente della lezione 18, il rendimento atteso da un investimento azionario?
+**R:** Con il rendimento dei **titoli privi di rischio**, come i **titoli di Stato**. Non basta superarlo: la differenza deve essere consistente, perché remuneri l'azionista «in **proporzione del rischio** che corre».
+**Opzione:** Con il rendimento dei titoli privi di rischio, come i titoli di Stato, che deve superare in proporzione al rischio.
+**Distrattori:**
+- Con il rendimento dei titoli privi di rischio, come i titoli di Stato, a cui deve essere pari.
+- Con il costo dell'indebitamento bancario, a cui deve essere inferiore.
+- Con il rendimento delle altre azioni dello stesso settore, a cui deve essere pari.
+
+**D:** ⚠️ Perché, per il docente della lezione 18, l'azionista di un'impresa sottocapitalizzata è come «un nuovo finanziatore»?
+**R:** Perché le aziende più rischiose, «come quelle sottocapitalizzate», devono assicurargli un rendimento molto alto, «un nuovo onere nella gestione finanziaria»: «come se ci fosse un nuovo finanziatore che non è più un finanziatore **esterno**, la banca, ma è un finanziatore **interno**, ed è l'azionista».
+**Opzione:** Perché le aziende più rischiose devono assicurargli un rendimento molto alto: è un finanziatore interno, non esterno come la banca.
+**Distrattori:**
+- Perché le aziende più rischiose possono assicurargli un rendimento più basso: è un finanziatore esterno, come la banca.
+- Perché le aziende più rischiose devono assicurargli un rendimento molto alto: è un finanziatore esterno, come la banca.
