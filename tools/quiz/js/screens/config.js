@@ -5,9 +5,10 @@ import { mdInline } from '../md-inline.js';
 import { summarize } from '../storage.js';
 import {
   countReviewable, planSimCounts, SIM_TOTAL, cardHasMcq,
-  lessonPool, filterByLessons, splitRecentLessons, compactLessons,
+  lessonPool, filterByLessons, splitRecentLessons, compactLessons, attemptTotals,
 } from '../engine.js';
 import { repoUrl } from '../discovery.js';
+import { fmtDate, modeLabel } from './common.js';
 
 const ANNI = { 1: '1° anno', 2: '2° anno' };
 
@@ -16,12 +17,10 @@ const ANNI = { 1: '1° anno', 2: '2° anno' };
 // clic in più per riaprirlo.
 let reopenExcluded = false;
 
-function fmtDate(iso) {
-  if (!iso) return '—';
-  const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return '—';
-  return d.toLocaleString('it-IT', { dateStyle: 'medium', timeStyle: 'short' });
-}
+// Tornando da una sessione riaperta con «Rivedi» l'elenco delle sessioni deve
+// essere già aperto e in vista: chi le ripassa una dopo l'altra non deve
+// riscorrere tutta la configurazione a ogni giro.
+let reopenSessions = false;
 
 /** Riepilogo del totale, es. «Totale: 30 domande — 15 quiz + 15 flashcard». */
 function totalText(plan) {
@@ -110,6 +109,10 @@ function counter({ id, label, hint, min = 0, max, value, disabled, onInput }) {
 
 export function renderConfig(root, ctx) {
   clear(root);
+  // Consumato qui, prima di ogni uscita anticipata: un flag rimasto acceso
+  // aprirebbe l'elenco al primo ridisegno qualunque, anche giorni dopo.
+  const openSessions = reopenSessions;
+  reopenSessions = false;
   const { state } = ctx;
   const exam = state.exam;
   const prefs = state.prefs;
@@ -576,6 +579,39 @@ export function renderConfig(root, ctx) {
   ]) : null;
   reopenExcluded = false;
 
+  // Sessioni registrate, dalla più recente: ognuna si riapre in sola lettura
+  // nel riepilogo, ricostruita dal wiki di oggi (vedi `rebuildAttempt`).
+  const sessions = Array.from(state.log.sessions || []).reverse();
+  const sessionsList = sessions.length ? el('details', { class: 'sessions-list', open: openSessions }, [
+    el('summary', { text: `Sessioni registrate — da rivedere una per una (${sessions.length})` }),
+    el('ul', {}, sessions.map((attempt) => {
+      const t = attemptTotals(attempt);
+      const parts = [];
+      if (t.mcqTotal) parts.push(`${t.mcqCorrect}/${t.mcqTotal} domande`);
+      if (t.cardMcqTotal) parts.push(`${t.cardMcqCorrect}/${t.cardMcqTotal} flashcard`);
+      if (t.cardsTotal) parts.push(`${t.cardsKnown}/${t.cardsTotal} autovalutate`);
+      const review = el('button', { type: 'button', class: 'btn btn-ghost btn-sm', text: 'Rivedi' });
+      review.addEventListener('click', () => {
+        // Il ritorno ridisegna la configurazione dalle prefs: prima si salvano
+        // filtro e cursori toccati e non ancora usati per una prova.
+        ctx.rememberConfig(sessionOpts());
+        reopenSessions = true;
+        if (!ctx.reviewAttempt(attempt.uid)) reopenSessions = false;
+      });
+      return el('li', {}, [
+        el('span', { class: 'session-when', text: `${fmtDate(attempt.ts)} · ${modeLabel(attempt.mode)}` }),
+        el('div', { class: 'muted small' }, [
+          `${parts.join(' · ') || 'nessuna voce'} · ${t.wrong ? `${t.wrong} da rivedere` : 'nessun errore'} `,
+          review,
+        ]),
+      ]);
+    })),
+  ]) : null;
+  if (sessionsList && openSessions) {
+    // Dopo il render: `render()` riporta in cima la pagina al cambio di schermata.
+    requestAnimationFrame(() => sessionsList.scrollIntoView({ block: 'start' }));
+  }
+
   root.append(el('section', { class: 'card' }, [
     el('h2', { text: 'Storico' }),
     el('dl', { class: 'kv' }, [
@@ -585,6 +621,7 @@ export function renderConfig(root, ctx) {
       el('dt', { text: 'Flashcard escluse' }), el('dd', { text: String(s.excluded) }),
       el('dt', { text: 'Ultima sessione' }), el('dd', { text: fmtDate(s.lastAt) }),
     ]),
+    sessionsList,
     excludedList,
     state.remoteMerged
       ? el('p', { class: 'hint', text: `Importato automaticamente exams/${exam.slug}/quiz-errori.json.` })

@@ -8,7 +8,7 @@ import { probe, fetchServerLog, pushLog, sessionsToPush, exclusionsToPush } from
 import * as storage from './storage.js';
 import {
   prepareMcqItems, sample, scoreSession, pickReviewItems, makeRng,
-  prepareCardItem, filterByLessons, withoutExcluded,
+  prepareCardItem, filterByLessons, withoutExcluded, rebuildAttempt,
 } from './engine.js';
 import { renderConfig } from './screens/config.js';
 import { renderQuiz } from './screens/quiz.js';
@@ -71,6 +71,7 @@ const ctx = {
   resetLog,
   setExcluded,
   rememberConfig,
+  reviewAttempt,
   isExcluded(id) { return !!(state.log.excluded && state.log.excluded[id]); },
   /** Flashcard dell'esame senza quelle escluse: il pool di ogni prova. */
   activeCards() {
@@ -356,6 +357,27 @@ function setExcluded(card, excluded) {
     });
   }
   return saved;
+}
+
+/**
+ * Riapre una sessione dello storico nel riepilogo. La sessione non viene
+ * registrata una seconda volta né risincronizzata; l'unico gesto che scrive
+ * resta la casella «Non riproporre più», come nel riepilogo di fine prova.
+ * Testo delle opzioni, spiegazioni e risposte vengono dal wiki di oggi, la
+ * scelta e l'esito dallo storico.
+ *
+ * @returns {boolean} false se la sessione non c'è più (un import l'ha tolta)
+ */
+function reviewAttempt(uid) {
+  const attempt = (state.log.sessions || []).find((s) => s.uid === uid);
+  if (!attempt || !state.exam) {
+    toast('Sessione non trovata nello storico.', 'error');
+    return false;
+  }
+  const { mcq, cards, orphans } = rebuildAttempt(attempt, state.exam);
+  state.results = { attempt, recorded: true, mcq, cards, orphans, past: true };
+  ctx.goTo('results');
+  return true;
 }
 
 function abortSession() {

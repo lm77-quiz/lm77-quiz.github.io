@@ -417,6 +417,8 @@ export function scoreSession({ blockItems = [], answers = {}, selfCards = [], ca
       // snapshot leggibile dall'LLM senza dover incrociare gli id
       text: d.question.text,
       contentHash: d.question.contentHash,
+      // per riaprire la sessione dallo Storico (vedi `rebuildAttempt`)
+      shownHash: shownHash(d.question),
     })),
     ...cardMcqAnswered.map((c) => ({
       id: c.card.id,
@@ -426,6 +428,7 @@ export function scoreSession({ blockItems = [], answers = {}, selfCards = [], ca
       correct: c.correct,
       text: c.card.question,
       contentHash: c.card.contentHash,
+      shownHash: shownHash(c.item.question),
     })),
     ...selfDetail.map((c) => ({
       id: c.card.id,
@@ -464,6 +467,185 @@ export function scoreSession({ blockItems = [], answers = {}, selfCards = [], ca
       cardMcqCorrect,
       cardMcqTotal: cardMcqAnswered.length,
     },
+  };
+}
+
+// ---------------------------------------------------------------------------
+// Rivedere una sessione dello storico
+// ---------------------------------------------------------------------------
+
+/**
+ * Impronta di ciò che il riepilogo mostra di una voce a risposta multipla: le
+ * opzioni nell'ordine del file, quale è corretta e quale è la chiave della
+ * piattaforma. `scoreSession` la registra con ogni voce (`shownHash`) perché
+ * `contentHash` non basta a riaprire una sessione fedelmente: per le domande
+ * d'esame non copre i marcatori ✅/🚨 (parse-quiz.js li toglie dal testo), per
+ * le flashcard non copre i distrattori — e non può, perché è l'identità della
+ * card nello storico.
+ */
+export function shownHash(question) {
+  const opts = ((question && question.options) || []).map((o) => `${o.key}|${o.text}`);
+  return stableHash([...opts, `ok:${question.correctKey || ''}`, `ko:${question.platformKey || ''}`].join('\n'));
+}
+
+/**
+ * Conteggi di una sessione registrata, ricavati dagli `items` (la fonte di
+ * verità, come per `recomputePerQuestion`) e non da `score`: così l'elenco
+ * dello Storico e l'intestazione del riepilogo dicono la stessa cosa anche per
+ * un record a cui mancasse un campo di `score`.
+ */
+export function attemptTotals(attempt) {
+  const items = ((attempt && attempt.items) || []).filter((it) => it && it.id);
+  const mcq = items.filter((it) => it.type !== 'card');
+  const cardMcq = items.filter((it) => it.type === 'card' && !it.selfEval);
+  const self = items.filter((it) => it.type === 'card' && !!it.selfEval);
+  const ok = (list) => list.filter((it) => it.correct).length;
+  return {
+    mcqCorrect: ok(mcq),
+    mcqTotal: mcq.length,
+    mcqBlank: mcq.filter((it) => !it.givenKey).length,
+    cardMcqCorrect: ok(cardMcq),
+    cardMcqTotal: cardMcq.length,
+    // Sempre 0 per le sessioni registrate da `scoreSession`, che non salva le
+    // card in bianco; contato lo stesso, così un record diverso non sparisce.
+    cardMcqBlank: cardMcq.filter((it) => !it.givenKey).length,
+    cardsKnown: ok(self),
+    cardsTotal: self.length,
+    wrong: items.length - ok(items),
+  };
+}
+
+/**
+ * Riapre una sessione dello storico per rivederla, ricostruendo dal wiki di
+ * OGGI ciò che lo storico non conserva: testo delle opzioni, spiegazioni,
+ * fonti, risposta integrale. Restituisce `{mcq, cards}` nella stessa forma di
+ * `scoreSession`, così il riepilogo e `summaryGroups` valgono senza modifiche,
+ * più `orphans` (voci che il wiki non sa più ricostruire) e `totals`.
+ *
+ * Si può fare perché `givenKey` è la lettera ORIGINALE del file (vedi
+ * `toOriginalKey`), non quella rimescolata a schermo: è proprio l'ordine in cui
+ * il riepilogo mostra le opzioni. L'esito è quello REGISTRATO, non ricalcolato.
+ *
+ * `changed` segnala che ciò che il riepilogo mostra oggi non è più ciò che la
+ * sessione ha corretto. Con `shownHash` (sessioni registrate da quando esiste)
+ * il confronto è esatto: opzioni, chiave ✅ e chiave della piattaforma. Senza,
+ * si deduce ciò che si può — `contentHash`, una lettera che oggi non esiste
+ * più, un esito registrato che non torna con la chiave di oggi — e una chiave
+ * spostata fra due opzioni non scelte, o un distrattore riscritto a parità di
+ * numero, restano invisibili.
+ *
+ * Gli id delle domande d'esame sono POSIZIONALI (`Lxx/Qn`, dal numero nel
+ * titolo): se il testo non è più quello registrato, sotto lo stesso id può
+ * esserci un'altra domanda, e mostrarla con «la tua scelta» sulla vecchia
+ * lettera sarebbe un falso. Quella voce va fra gli orfani, con l'istantanea.
+ * Le flashcard non ne hanno bisogno: il loro id è l'hash della domanda.
+ *
+ * Il punteggio «secondo la piattaforma» usa le 🚨 note OGGI, come i banner
+ * delle singole domande: la chiave della piattaforma è un fatto della
+ * piattaforma, e una 🚨 scoperta dopo la sessione dice meglio come sarebbe
+ * stata corretta. Su una voce cambiata o sparita vale l'esito registrato.
+ *
+ * @param {object} attempt  una voce di `ErrorLog.sessions`
+ * @param {{questions:Array, cards:Array}} exam  l'esame caricato oggi
+ */
+export function rebuildAttempt(attempt, { questions = [], cards = [] } = {}) {
+  const qById = new Map(questions.map((q) => [q.id, q]));
+  const cById = new Map(cards.map((c) => [c.id, c]));
+  const mcqDetail = [];
+  const cardMcqDetail = [];
+  const selfDetail = [];
+  const orphans = [];
+  let platformCorrect = 0;
+  let index = 0;
+
+  for (const it of ((attempt && attempt.items) || [])) {
+    if (!it || !it.id) continue;
+    const givenKey = it.givenKey || null;
+    const correct = !!it.correct;
+    const orphan = (kind, reason, card = null) => orphans.push({
+      id: it.id, kind, reason, card,
+      lesson: it.lesson || null, text: it.text || null,
+      givenKey, selfEval: it.selfEval || null, answered: kind === 'card-self' || !!givenKey, correct,
+    });
+    const hashMoved = (current) => !!it.contentHash && it.contentHash !== current.contentHash;
+    const shownMoved = (q) => (it.shownHash
+      ? it.shownHash !== shownHash(q)
+      : !!givenKey && (!q.options.some((o) => o.key === givenKey) || (givenKey === q.correctKey) !== correct));
+
+    if (it.type === 'card' && it.selfEval) {
+      const card = cById.get(it.id);
+      if (!card) { orphan('card-self', 'mancante'); continue; }
+      selfDetail.push({ card, item: null, index: null, mode: 'self', correct, changed: hashMoved(card) });
+      continue;
+    }
+
+    // Posizione nel blocco a risposta multipla: ordina il riepilogo come la
+    // griglia (domande d'esame, poi flashcard).
+    const at = index;
+    index += 1;
+
+    if (it.type === 'card') {
+      const card = cById.get(it.id);
+      if (!card) { orphan('card-mcq', 'mancante'); continue; }
+      if (!cardHasMcq(card)) { orphan('card-mcq', 'senza-distrattori', card); continue; }
+      const q = cardToMcq(card);
+      cardMcqDetail.push({
+        card,
+        item: { question: q },
+        index: at,
+        mode: 'mcq',
+        givenKey,
+        displayKey: null,
+        answered: !!givenKey,
+        correct,
+        changed: hashMoved(card) || shownMoved(q),
+      });
+      continue;
+    }
+
+    const q = qById.get(it.id);
+    if (!q || (!!it.text && it.text !== q.text)) {
+      if (correct) platformCorrect += 1;
+      orphan('question', q ? 'sostituita' : 'mancante');
+      continue;
+    }
+    const changed = hashMoved(q) || shownMoved(q);
+    const platformKey = q.platformKey || q.correctKey;
+    if (changed ? correct : (!!givenKey && givenKey === platformKey)) platformCorrect += 1;
+    mcqDetail.push({
+      id: q.id,
+      question: q,
+      item: { question: q },
+      displayKey: null,
+      givenKey,
+      answered: !!givenKey,
+      correct,
+      index: at,
+      changed,
+    });
+  }
+
+  const totals = attemptTotals(attempt);
+  return {
+    mcq: {
+      detail: mcqDetail,
+      total: totals.mcqTotal,
+      correct: totals.mcqCorrect,
+      platformCorrect,
+      blank: totals.mcqBlank,
+      hasPlatformMismatch: mcqDetail.some((d) => d.question.platformMismatch),
+    },
+    cards: {
+      detail: [...cardMcqDetail, ...selfDetail],
+      selfTotal: totals.cardsTotal,
+      selfKnown: totals.cardsKnown,
+      mcqTotal: totals.cardMcqTotal,
+      mcqAnswered: totals.cardMcqTotal - totals.cardMcqBlank,
+      mcqBlank: totals.cardMcqBlank,
+      mcqCorrect: totals.cardMcqCorrect,
+    },
+    orphans,
+    totals: { ...totals, mcqPlatformCorrect: platformCorrect },
   };
 }
 

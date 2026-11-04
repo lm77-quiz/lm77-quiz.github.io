@@ -18,6 +18,19 @@ export function riskBanner(risk) {
   });
 }
 
+/** Data e ora leggibili di un timestamp ISO; «—» se assente o illeggibile. */
+export function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return '—';
+  return d.toLocaleString('it-IT', { dateStyle: 'medium', timeStyle: 'short' });
+}
+
+/** Nome della modalità di una sessione registrata. */
+export function modeLabel(mode) {
+  return mode === 'review' ? 'Ripasso errori' : 'Simulazione';
+}
+
 /** Esito di un dettaglio corretto: `blank`, `ok` o `ko`. */
 export function outcome(d) {
   if (!d.answered) return 'blank';
