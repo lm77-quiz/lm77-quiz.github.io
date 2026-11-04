@@ -5343,3 +5343,265 @@
 **Distrattori:**
 - Che sarà negativo anche per l'altro soggetto, perché il progetto è lo stesso.
 - Che sarà positivo per l'altro soggetto, perché i VAN di due soggetti hanno segno opposto.
+
+## Lezione 22 — Il tasso interno di rendimento (TIR), i problemi relativi all'approccio del TIR
+
+**D:** ⚠️ Come definisce il tasso interno di rendimento (TIR) la slide della lezione 22?
+**R:** «Il tasso interno di rendimento (TIR) è un tasso ***intrinseco*** al progetto di investimento che si prende in considerazione e dipende **esclusivamente dai flussi di cassa** che esso genererà. In particolare è quel tasso che rende il **VAN = 0**». Attenzione alle parole su cui può lavorare un distrattore: *intrinseco*, *esclusivamente*, *flussi di cassa*, *VAN = 0*.
+**Opzione:** Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dai flussi di cassa che esso genererà: in particolare, il tasso che rende il VAN = 0.
+**Distrattori:**
+- Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dal tasso di attualizzazione di mercato: in particolare, il tasso che rende il VAN = 0.
+- Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dai flussi di cassa che esso genererà: in particolare, il tasso che rende massimo il VAN.
+- Un tasso esterno al progetto di investimento, dedotto dal mercato per investimenti di pari rischio: in particolare, il tasso che rende il VAN = 0.
+
+**D:** ⚠️ Quanto vale il VAN di un progetto se i suoi flussi si attualizzano al suo TIR (lezione 22)?
+**R:** **Zero**: il TIR «è quel tasso che rende il **VAN = 0**». Per il docente, «molto più banalmente», si prende la formula del VAN, la si pone uguale a zero e la si risolve per R: i flussi attualizzati al tempo zero «sono esattamente uguali all'investimento».
+**Opzione:** Zero: i flussi attualizzati sono esattamente uguali all'investimento iniziale.
+**Distrattori:**
+- Il massimo: il TIR è il tasso che massimizza il VAN del progetto.
+- Un valore pari all'investimento iniziale: i flussi attualizzati ne sono il doppio.
+- Un valore negativo: i flussi attualizzati non coprono l'investimento iniziale.
+
+**D:** ⚠️ Qual è la regola del TIR (lezione 22)?
+**R:** «REGOLA DEL TIR: si accetta di investire in un progetto se il suo tasso interno di rendimento è **maggiore del tasso di attualizzazione di mercato**; si rifiuta se il TIR risulta **inferiore** al tasso di attualizzazione». Vale per il caso normale, con il primo flusso negativo e gli altri positivi: se gli incassi precedono i pagamenti la regola si **ribalta**.
+**Opzione:** Si accetta se il TIR è maggiore del tasso di attualizzazione di mercato; si rifiuta se è inferiore.
+**Distrattori:**
+- Si accetta se il TIR è inferiore al tasso di attualizzazione di mercato; si rifiuta se è maggiore.
+- Si accetta se il TIR è maggiore di zero; si rifiuta se è inferiore.
+- Si accetta se il TIR è maggiore del VAN; si rifiuta se è inferiore.
+
+**D:** ⚠️ Che cosa dice la regola del TIR della slide su un progetto con TIR uguale al tasso di attualizzazione di mercato (lezione 22)?
+**R:** **Niente**: la regola copre solo il TIR **maggiore** (si accetta) e il TIR **inferiore** (si rifiuta). È lo stesso vuoto della regola del VAN, che non tratta il VAN = 0 (lezione 21). Il docente lo colma: un rendimento «uguale al benchmark» darebbe «un VAN uguale a zero», e va scartato insieme a quelli più bassi.
+**Opzione:** Niente: la regola copre solo il TIR maggiore, che si accetta, e il TIR inferiore, che si rifiuta.
+**Distrattori:**
+- Che il progetto si accetta sempre, perché non distrugge valore.
+- Che il progetto si rifiuta sempre, perché ha un VAN negativo.
+
+**D:** ⚠️ Un progetto genera −€100 in t=0 e €110 in t=1: qual è il suo TIR (lezione 22)?
+**R:** **10%**: «0 = − €100 + €110/1,10 — TIR=10%», perché 1 + R = 110/100 = 1,10. ⚠️ La riga sopra della slide scrive «VAN = **−€110** + €110/(1 + R)»: è un refuso, l'investimento è di €100.
+**Opzione:** 10%
+**Distrattori:**
+- 110%
+- 1,1%
+- 9,09%
+
+**D:** ⚠️ Come si calcola il TIR quando i flussi sono distribuiti su molte date (lezione 22)?
+**R:** «Nel caso di flussi distribuiti su molte date per calcolare il TIR si procede **per tentativi**. In verità, con l'utilizzo di un **computer** è possibile prevenire [pervenire] al TIR in pochi, veloci passaggi».
+**Opzione:** Per tentativi; con un computer si arriva al TIR in pochi, veloci passaggi.
+**Distrattori:**
+- Con una formula chiusa, dividendo l'ultimo flusso per l'investimento iniziale.
+- Adottando il tasso di attualizzazione di mercato per investimenti di pari rischio.
+- Non si può calcolare: con molte date il TIR non esiste.
+
+**D:** ⚠️ Che relazione c'è fra il VAN di un progetto e il suo TIR, secondo la didascalia del grafico della lezione 22?
+**R:** «Il VAN è **positivo** per tassi di attualizzazione **inferiori** al TIR e **negativo** per tassi di attualizzazione **superiori** al TIR». Nel grafico la curva del VAN scende da €100 a tasso zero e taglia l'asse al 23,37%, il TIR. ⚠️ Il docente lo dice al contrario ([00:07:26]): i tassi «sopra» il 23,37% darebbero flussi maggiori dell'investimento iniziale. Vale la slide.
+**Opzione:** Il VAN è positivo per tassi di attualizzazione inferiori al TIR e negativo per tassi superiori al TIR.
+**Distrattori:**
+- Il VAN è positivo per tassi di attualizzazione superiori al TIR e negativo per tassi inferiori al TIR.
+- Il VAN è positivo per qualunque tasso di attualizzazione inferiore al tasso di mercato.
+- Il VAN è nullo per tassi di attualizzazione inferiori al TIR e negativo per tassi superiori al TIR.
+
+**D:** Nel grafico della relazione fra TIR e VAN (lezione 22), a quale tasso la curva del VAN taglia l'asse orizzontale?
+**R:** Al **23,37%**, il punto segnato «TIR». La curva vale €100 a tasso zero, €10,65 al 20% e −€18,39 al 30%. Nel transcript il docente dice «23-37%».
+**Opzione:** 23,37%
+**Distrattori:**
+- 20%
+- 30%
+- 10,65%
+
+**D:** ⚠️ Perché, secondo il docente, il TIR è uno strumento «più tipicamente finanziario» del VAN e del payback (lezione 22)?
+**R:** Perché «di fatto **ragiona sui tassi**», e quindi sulle logiche di **crescita o di decrescita** dei valori finanziari: si ragiona in logiche prospettiche, «non più sul capitale e sulla disponibilità, ma piuttosto sulla sua **aleatorietà** e sulla sua **variabilità nel tempo**».
+**Opzione:** Perché ragiona sui tassi: non più sul capitale e sulla disponibilità, ma sulla sua aleatorietà e variabilità nel tempo.
+**Distrattori:**
+- Perché ragiona sul capitale e sulla disponibilità di cassa, non sui tassi.
+- Perché usa il tasso di attualizzazione dedotto dal mercato, non un tasso stimato.
+- Perché considera la dimensione dei flussi di cassa, che il VAN ignora.
+
+**D:** ⚠️ Per il docente il TIR è un valore oggettivo o soggettivo, e perché (lezione 22)?
+**R:** **Soggettivo**: «non è più il tasso che io ricavo dal mercato per investimenti che hanno la stessa rischiosità ma è un tasso che **mi ricavo io** in funzione delle **previsioni** che mi sono costruito sul mio flusso di cassa». Dipende dalle previsioni sui **flussi**, su **T** e sul **rischio**, «insito nei flussi di cassa»: chi è prudente prevede flussi più bassi, chi è avvezzo al rischio flussi più alti. Non contraddice la slide: il TIR dipende «esclusivamente dai flussi di cassa», ma i flussi sono previsioni.
+**Opzione:** Soggettivo: si ricava dalle previsioni di chi valuta su flussi di cassa, numero di periodi e rischio, non dal mercato.
+**Distrattori:**
+- Oggettivo: è dedotto dal mercato per investimenti che hanno la stessa rischiosità.
+- Oggettivo: dipende esclusivamente dal tasso di attualizzazione di mercato.
+- Soggettivo: dipende dall'aliquota fiscale di chi valuta, non dai flussi di cassa.
+
+**D:** ⚠️ Che cos'è un progetto indipendente (lezione 22)?
+**R:** «Un progetto indipendente è quello la cui **accettazione o il cui rifiuto** è indipendente dall'accettazione o dal rifiuto di **altri progetti**» (es.: Starbucks valuta l'ipotesi di aprire un punto vendita in un paesino dell'Appennino calabrese). ⚠️ Il docente lo spiega con il punto di vista dell'investitore, che calcola il TIR in modo «non standardizzato»: vale la slide.
+**Opzione:** Un progetto la cui accettazione o il cui rifiuto è indipendente dall'accettazione o dal rifiuto di altri progetti.
+**Distrattori:**
+- Un progetto il cui TIR è indipendente dal punto di vista dell'investitore che lo calcola.
+- Un progetto il cui VAN è indipendente dal tasso di attualizzazione di mercato.
+- Un progetto che si può accettare o rifiutare, ma non accettare insieme a un altro.
+
+**D:** ⚠️ Fra due progetti alternativi (mutually exclusive) A e B, quali scelte sono possibili (lezione 22)?
+**R:** «In presenza di progetti alternativi, potete accettare A o potete accettare B o potete **rifiutarli entrambi**, ma **non potete accettarli entrambi**» (es.: sul vostro terreno potete costruire una casa o un cinema). ⚠️ Il docente dice che si possono anche «accettarli tutti e due» ([00:08:53]): vale la slide, ed è proprio ciò che li rende *mutually exclusive*.
+**Opzione:** Accettare A, accettare B o rifiutarli entrambi, ma non accettarli entrambi.
+**Distrattori:**
+- Accettare A, accettare B, accettarli entrambi o rifiutarli entrambi.
+- Accettare A o accettare B, ma non rifiutarli entrambi.
+- Accettarli entrambi o rifiutarli entrambi, ma non accettarne uno solo.
+
+**D:** Quale esempio usa la lezione 22 per i progetti alternativi (mutually exclusive)?
+**R:** «volete costruire su un vostro terreno; potete: A costruire una **casa** o B costruire un **cinema**». L'esempio del progetto **indipendente** è un altro: «Starbucks valuta l'ipotesi di aprire un punto vendita in un paesino dell'Appennino calabrese».
+**Opzione:** Costruire sul proprio terreno una casa oppure un cinema.
+**Distrattori:**
+- Starbucks che valuta di aprire un punto vendita in un paesino dell'Appennino calabrese.
+- Un'azienda che valuta di aprire un punto vendita in un nuovo centro commerciale.
+
+**D:** ⚠️ Che cosa cambia nella regola del TIR se i flussi in entrata precedono quelli in uscita (lezione 22)?
+**R:** «la regola decisionale è **opposta**, ovvero si accetta il progetto quando il TIR è **minore** del tasso di attualizzazione di mercato; in pratica, ci troviamo infatti di fronte ad un'**operazione di finanziamento**». Il docente: «si inverte la logica del TIR e quindi si accetta il progetto col TIR minore». La regola del VAN, invece, non cambia.
+**Opzione:** La regola si ribalta: si accetta il progetto quando il TIR è minore del tasso di attualizzazione di mercato, perché è un'operazione di finanziamento.
+**Distrattori:**
+- Nulla: si accetta il progetto quando il TIR è maggiore del tasso di attualizzazione di mercato, come per ogni investimento.
+- Il TIR non è più valido: si accetta il progetto solo se il VAN è nullo.
+- La regola si ribalta: si accetta il progetto quando il VAN è negativo, perché è un'operazione di finanziamento.
+
+**D:** ⚠️ Nella Tabella 6.3 (lezione 22), che cosa caratterizza il progetto A: −€100 al tempo 0 e €130 al tempo 1?
+**R:** TIR del **30%**, VAN al 10% di **€18,2**; si accetta se il tasso di mercato è **< 30%**: è un'operazione di **investimento**. Il suo VAN è **negativamente** correlato con il tasso di attualizzazione.
+**Opzione:** TIR del 30%, si accetta se il tasso di mercato è inferiore al 30%: è un investimento.
+**Distrattori:**
+- TIR del 30%, si accetta se il tasso di mercato è superiore al 30%: è un finanziamento.
+- TIR del 10% e del 20%, si accetta se il tasso di mercato è fra il 10% e il 20%: è una soluzione mista.
+- TIR del 30%, si accetta se il tasso di mercato è superiore al 30%: è un investimento.
+
+**D:** ⚠️ Nella Tabella 6.3 (lezione 22), che cosa caratterizza il progetto B: +€100 al tempo 0 e −€130 al tempo 1?
+**R:** TIR del **30%**, VAN al 10% di **−€18,2**; si accetta se il tasso di mercato è **> 30%**: è un'operazione di **finanziamento**. Il suo VAN è **positivamente** correlato con il tasso di attualizzazione: si incassa subito e si restituisce dopo, come con un prestito che costa il 30%.
+**Opzione:** TIR del 30%, si accetta se il tasso di mercato è superiore al 30%: è un finanziamento.
+**Distrattori:**
+- TIR del 30%, si accetta se il tasso di mercato è inferiore al 30%: è un investimento.
+- TIR del 30%, si accetta se il tasso di mercato è inferiore al 30%: è un finanziamento.
+- TIR del 10% e del 20%, si accetta se il tasso di mercato è fra il 10% e il 20%: è una soluzione mista.
+
+**D:** ⚠️ Nella Tabella 6.3 (lezione 22), che cosa caratterizza il progetto C: −€100, +€230, −€132?
+**R:** Due inversioni di segno e quindi **due TIR**, il **10% e il 20%**; il VAN al 10% è **0**; si accetta se il tasso di mercato è «**> 10% ma < 20%**»: è una «**soluzione mista**». Il suo VAN parte da −€2 a tasso zero e «tende a −100 quando R → ∞».
+**Opzione:** Due TIR, 10% e 20%: si accetta se il tasso di mercato è superiore al 10% ma inferiore al 20%, ed è una soluzione mista.
+**Distrattori:**
+- Due TIR, 10% e 20%: si accetta se il tasso di mercato è inferiore al 10% o superiore al 20%, ed è una soluzione mista.
+- Un solo TIR, 15%: si accetta se il tasso di mercato è inferiore al 15%, ed è un investimento.
+- Due TIR, 10% e 20%: si accetta se il tasso di mercato è superiore al 20%, ed è un finanziamento.
+
+**D:** ⚠️ Come è correlato con il tasso di attualizzazione il VAN dei progetti A (uscita, poi entrata) e B (entrata, poi uscita) della lezione 22?
+**R:** «Il progetto A ha un flusso di cassa in uscita al tempo 0 seguito da un flusso di cassa in entrata al tempo 1. Il suo VAN è **negativamente** correlato con il tasso di attualizzazione. Il progetto B ha un flusso di cassa in entrata al tempo 0 seguito da un flusso di cassa in uscita al tempo 1. Il suo VAN è **positivamente** correlato con il tasso di attualizzazione».
+**Opzione:** Il VAN di A è negativamente correlato con il tasso di attualizzazione, quello di B positivamente.
+**Distrattori:**
+- Il VAN di A è positivamente correlato con il tasso di attualizzazione, quello di B negativamente.
+- Il VAN di entrambi è negativamente correlato con il tasso di attualizzazione.
+- Il VAN di entrambi non dipende dal tasso di attualizzazione, perché hanno lo stesso TIR.
+
+**D:** ⚠️ Quando si hanno tassi di rendimento multipli, e quanti TIR ci sono (lezione 22)?
+**R:** Si hanno, «ad es., quando **flussi positivi si alternano a flussi negativi**. In questo caso si avranno tanti TIR, **tanti quante le inversioni di segno**». ⚠️ Il quantificatore cambia fra le slide: i progetti con più di un cambiamento di segno «possono avere» tassi multipli (slide 6), «tanti quante le inversioni di segno» (slide 7), «di solito più di 1» (slide 8). ⚠️ Il docente li lega alla «commistione» di più progetti: vale la slide, che parla dei flussi di un solo progetto.
+**Opzione:** Quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quante le inversioni di segno.
+**Distrattori:**
+- Quando i flussi sono distribuiti su molte date: ci sono tanti TIR quanti i periodi.
+- Quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quanti i flussi positivi.
+- Quando si valutano più progetti insieme: ci sono tanti TIR quanti i progetti combinati.
+
+**D:** ⚠️ Qual è il criterio del TIR quando alcuni flussi successivi al primo sono positivi e altri negativi (lezione 22)?
+**R:** «**Nessun TIR valido**» (slide 7), «Non c'è nessun TIR valido» (slide 8). I TIR sono «Multipli», «di solito più di 1», e si usa solo il **VAN**: si accetta se VAN > 0, si rifiuta se VAN < 0.
+**Opzione:** Nessun TIR valido: si accetta se VAN > 0 e si rifiuta se VAN < 0.
+**Distrattori:**
+- Si accetta se il TIR più alto supera il tasso di sconto.
+- Si accetta se il TIR più basso supera il tasso di sconto.
+- Si accetta se la media dei TIR supera il tasso di sconto.
+
+**D:** ⚠️ Con il primo flusso di cassa positivo e tutti gli altri negativi, quanti TIR ci sono e quando si accetta il progetto (lezione 22)?
+**R:** **Un solo** TIR. «Accettare se TIR **<** tasso di sconto; Rifiutare se TIR **>** tasso di sconto»; per il VAN, come sempre, «Accettare se VAN > 0; Rifiutare se VAN < 0». Il docente: «come se fossero dei finanziamenti». ⚠️ Al [00:11:25] dice «tutti gli altri sono positivi»: la slide dice negativi.
+**Opzione:** Un solo TIR: si accetta se il TIR è minore del tasso di sconto, o se il VAN è maggiore di zero.
+**Distrattori:**
+- Un solo TIR: si accetta se il TIR è maggiore del tasso di sconto, o se il VAN è maggiore di zero.
+- Un solo TIR: si accetta se il TIR è minore del tasso di sconto, o se il VAN è minore di zero.
+- TIR multipli: nessun TIR valido, si accetta se il VAN è maggiore di zero.
+
+**D:** ⚠️ Nei tre casi del riepilogo delle regole di TIR e VAN (lezione 22), in quale cambia la regola del VAN?
+**R:** In **nessuno**: in tutti e tre si accetta se **VAN > 0** e si rifiuta se **VAN < 0**. Cambia solo il criterio del TIR, che si **ribalta** con il primo flusso positivo e gli altri negativi, e **sparisce** («nessun TIR valido») con flussi misti.
+**Opzione:** In nessuno: si accetta sempre se VAN > 0 e si rifiuta se VAN < 0.
+**Distrattori:**
+- Nel caso con il primo flusso positivo e gli altri negativi: si accetta se VAN < 0.
+- Nel caso con flussi positivi e negativi combinati: il VAN non è valido.
+
+**D:** ⚠️ Quali problemi del TIR la lezione 22 classifica come comuni ai progetti indipendenti e a quelli alternativi?
+**R:** Due: «**Investire o finanziare?**» e i «**Tassi di rendimento multipli**». La **dimensione** e il **timing** dei flussi di cassa sono invece «problemi **specifici dei progetti alternativi**».
+**Opzione:** Investire o finanziare, e i tassi di rendimento multipli.
+**Distrattori:**
+- La dimensione dei flussi di cassa e il loro timing.
+- Investire o finanziare, e la dimensione dei flussi di cassa.
+- I tassi di rendimento multipli e il timing dei flussi di cassa.
+
+**D:** ⚠️ Quali problemi del TIR la lezione 22 classifica come specifici dei progetti alternativi?
+**R:** La **dimensione** dei flussi di cassa, «non presa in considerazione dal TIR», e il **timing** dei flussi di cassa. Investire o finanziare e i tassi multipli sono invece problemi **comuni** ai progetti indipendenti e a quelli alternativi.
+**Opzione:** La dimensione dei flussi di cassa e il loro timing.
+**Distrattori:**
+- Investire o finanziare, e i tassi di rendimento multipli.
+- La dimensione dei flussi di cassa e i tassi di rendimento multipli.
+- Investire o finanziare, e il timing dei flussi di cassa.
+
+**D:** ⚠️ Opportunità 1: −€1 a inizio lezione e +€1,50 novanta minuti dopo (VAN 0,50, TIR 50%). Opportunità 2: −€10 e +€11 (VAN 1,00, TIR 10%). Quale si sceglie fra le due alternative (lezione 22)?
+**R:** L'**opportunità 2**: «Si deve scegliere il progetto che genera **più valore (VAN >)**, non quello con TIR maggiore. Si sceglie quindi l'opportunità 2». Il TIR non considera la **dimensione** dei flussi: la 1 rende il 50% ma fa guadagnare 50 centesimi, la 2 rende il 10% ma fa guadagnare un euro.
+**Opzione:** L'opportunità 2, perché genera più valore (VAN maggiore).
+**Distrattori:**
+- L'opportunità 1, perché ha il TIR maggiore.
+- L'opportunità 1, perché richiede un investimento minore.
+- Entrambe, perché hanno tutte e due il VAN positivo.
+
+**D:** ⚠️ Perché, secondo il docente, il TIR non tiene conto della dimensione dei flussi di cassa (lezione 22)?
+**R:** Perché «il TIR ragiona sui **rapporti** fra i flussi di cassa e non sui flussi di cassa **interi**», e quindi sui tassi. Si può dover scegliere il progetto con il VAN maggiore e non quello con il TIR maggiore, «perché non è detto che questo rendimento si traduca poi effettivamente in una **entrata di cassa maggiore** per l'investitore».
+**Opzione:** Perché ragiona sui rapporti fra i flussi di cassa e non sui flussi di cassa interi.
+**Distrattori:**
+- Perché ragiona sui flussi di cassa interi e non sui rapporti fra di essi.
+- Perché ignora i flussi di cassa successivi a una certa data.
+- Perché usa gli utili contabili al posto dei flussi di cassa.
+
+**D:** ⚠️ Nell'Esempio 6.3 (lezione 22) il film si può fare con budget contenuto (−€10 mln, +€40 mln: VAN €22 mln, TIR 300%) o cospicuo (−€25 mln, +€65 mln: VAN €27 mln, TIR 160%), al tasso del 25%. Sherry vuole il cospicuo, Stanley il contenuto: chi ha ragione?
+**R:** **Sherry**, che sceglie il budget **cospicuo** perché ha il **VAN** più elevato. Stanley guarda l'**IRR**, cioè il TIR, che non considera la dimensione. I flussi incrementali del budget cospicuo sono −€15 e +€25 milioni, con un **TIR incrementale del 66,67%** (> 25%): «è meglio adottare il budget cospicuo».
+**Opzione:** Sherry: il budget cospicuo ha il VAN più elevato, e il suo TIR incrementale (66,67%) supera il 25%.
+**Distrattori:**
+- Stanley: il budget contenuto ha il TIR più elevato, e il TIR più alto indica sempre il progetto migliore.
+- Stanley: il TIR incrementale del budget cospicuo (66,67%) è inferiore al TIR del budget contenuto (300%).
+- Nessuno dei due: con un tasso del 25% entrambi i budget hanno un VAN negativo.
+
+**D:** ⚠️ Che cosa sono i flussi di cassa incrementali dell'Esempio 6.3, e quanto vale il TIR incrementale (lezione 22)?
+**R:** Sono i flussi «derivanti dalla scelta di un budget cospicuo **anziché** di un budget contenuto»: alla data 0 «−€25 – (−€10) = − €15», alla data 1 «€65 – €40 = €25». Da «0 = −€15 milioni + $25 milioni/(1 + IRR)» il **TIR incrementale è 66,67%**, maggiore del 25%: conviene il budget cospicuo.
+**Opzione:** La differenza fra i flussi del budget cospicuo e quelli del budget contenuto (−€15 e +€25 milioni): il TIR incrementale è il 66,67%.
+**Distrattori:**
+- La somma dei flussi dei due budget (−€35 e +€105 milioni): il TIR incrementale è il 200%.
+- La differenza fra i flussi del budget cospicuo e quelli del budget contenuto (−€15 e +€25 milioni): il TIR incrementale è il 160%.
+- La differenza fra i flussi del budget contenuto e quelli del budget cospicuo (+€15 e −€25 milioni): il TIR incrementale è il 300%.
+
+**D:** ⚠️ Fra due progetti alternativi di dimensione diversa, quali metodi portano alla stessa scelta e quale invece sbaglia (lezione 22)?
+**R:** «è **equivalente** in termini di scelta tra le due opzioni confrontare i loro **VAN** o calcolare il **VAN incrementale** o il **TIR incrementale**. Si commetterebbe invece un **errore** in questo caso affidandosi invece al **confronto tra i due TIR**».
+**Opzione:** Sono equivalenti il confronto dei VAN, il VAN incrementale e il TIR incrementale; sbaglia il confronto tra i due TIR.
+**Distrattori:**
+- Sono equivalenti il confronto dei VAN, il VAN incrementale e il confronto tra i due TIR; sbaglia il TIR incrementale.
+- Sono equivalenti il confronto tra i due TIR, il VAN incrementale e il TIR incrementale; sbaglia il confronto dei VAN.
+- Sono equivalenti il confronto dei VAN e il confronto tra i due TIR; sbagliano i metodi incrementali.
+
+**D:** ⚠️ Con quali metodologie si sceglie fra due investimenti alternativi con timing dei flussi diverso, e quale sarebbe la soluzione sbagliata (lezione 22)?
+**R:** «Possiamo scegliere utilizzando una tra queste metodologie: 1. **Confronto VAN** dei due progetti 2. **Confronto TIR incrementale con tasso di sconto** 3. **Calcolo VAN sui flussi incrementali**. La soluzione sbagliata sarebbe invece scegliere **confrontando i TIR**».
+**Opzione:** Confronto dei VAN, confronto del TIR incrementale con il tasso di sconto, calcolo del VAN sui flussi incrementali; sbagliato confrontare i TIR.
+**Distrattori:**
+- Confronto dei VAN, confronto del TIR incrementale con il tasso di sconto, confronto dei TIR; sbagliato calcolare il VAN sui flussi incrementali.
+- Confronto dei TIR, confronto del TIR incrementale con il tasso di sconto, calcolo del VAN sui flussi incrementali; sbagliato confrontare i VAN.
+- Confronto dei VAN, confronto dei tempi di recupero, calcolo del VAN sui flussi incrementali; sbagliato confrontare i TIR.
+
+**D:** ⚠️ Nell'Esempio 6.4 della Tecno SpA (lezione 22) A incassa 10.000 al primo anno e B 12.000 al terzo, con lo stesso investimento di 10.000; A ha un TIR del 16,04%, B del 12,94%. Quale conviene a un tasso del 10%?
+**R:** **B**: al 10% il VAN di B è **751**, quello di A **669**. Al 15% conviene invece A (109 contro −484). Il confronto fra i TIR sceglierebbe sempre A: è «la soluzione sbagliata». Nel magazzino A mette contenitori di **rifiuti tossici**, B **apparecchiature elettroniche**.
+**Opzione:** B, perché al 10% ha il VAN più alto (751 contro 669), anche se ha il TIR più basso.
+**Distrattori:**
+- A, perché ha il TIR più alto (16,04% contro 12,94%).
+- A, perché al 10% ha il VAN più alto (669 contro 751).
+- B, perché al 10% ha il TIR più alto.
+
+**D:** ⚠️ Come interpreta il docente il problema del timing dei flussi di cassa, e che soluzione propone (lezione 22)?
+**R:** Lo lega al **T** della formula del VAN, il **numero dei periodi**: due investimenti di tre anni valutati uno su base **semestrale** (6 periodi) e uno su base **annuale** (3 periodi) danno VAN «poco confrontabili», perché un VAN può essere maggiore solo per una «maggiore frequenza». Propone un «**VAN incrementale**» che guardi come si modifica il VAN di periodo in periodo; col TIR il problema «non si può affrontare». ⚠️ La slide 12 parla d'altro: due progetti con flussi distribuiti diversamente nel tempo e tre metodi di scelta. All'esame vale la slide.
+**Opzione:** Come un problema di frequenza dei periodi, semestrali o annuali, da risolvere con un VAN incrementale di periodo in periodo.
+**Distrattori:**
+- Come un problema di dimensione dei flussi, da risolvere scegliendo il progetto con il TIR maggiore.
+- Come un problema di inversioni di segno, da risolvere calcolando un TIR per ciascuna inversione.
+
+**D:** ⚠️ Perché, secondo il docente, il VAN è più affidabile del TIR quando ci sono flussi positivi e negativi (lezione 22)?
+**R:** Perché nel VAN il segno dei flussi è «**esplicitamente indicato**»: i flussi negativi pesano negativamente, quelli positivi positivamente, e il risultato è «un **valore assoluto**» con il suo segno. Il TIR «ci produce un tasso, ma **non sappiamo se questo tasso ha un valore positivo o negativo**». Inoltre, combinando progetti diversi, «non posso combinare dei tassi», mentre posso calcolare il VAN dei flussi combinati.
+**Opzione:** Perché il VAN è un valore assoluto che tiene conto del segno dei flussi, mentre il TIR è un tasso che non dice se il valore è positivo o negativo.
+**Distrattori:**
+- Perché il VAN è un tasso confrontabile fra progetti, mentre il TIR è un valore assoluto che dipende dalla dimensione.
+- Perché il VAN usa gli utili contabili, mentre il TIR usa i flussi di cassa.
+- Perché il VAN ignora i flussi negativi, mentre il TIR li somma a quelli positivi.
