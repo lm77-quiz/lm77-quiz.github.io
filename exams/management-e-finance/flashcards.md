@@ -5605,3 +5605,261 @@
 - Perché il VAN è un tasso confrontabile fra progetti, mentre il TIR è un valore assoluto che dipende dalla dimensione.
 - Perché il VAN usa gli utili contabili, mentre il TIR usa i flussi di cassa.
 - Perché il VAN ignora i flussi negativi, mentre il TIR li somma a quelli positivi.
+
+## Lezione 23 — Il rendimento netto contabile, l'indice di redditività
+
+**D:** ⚠️ Come definisce il rendimento netto contabile la slide della lezione 23?
+**R:** «È costituito dagli **utili medi** ottenuti dal progetto **al netto delle imposte e dell'ammortamento** (**Ebit netto di imposte**), diviso per il **valore medio contabile** dell'investimento nell'arco della sua vita». Due medie, due grandezze contabili: niente flussi di cassa, niente attualizzazione. Attenzione alle parole su cui può lavorare un distrattore: *utili*, *medi*, *al netto*, *contabile*.
+**Opzione:** Gli utili medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
+**Distrattori:**
+- I flussi di cassa medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
+- Gli utili medi ottenuti dal progetto al lordo delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
+- Gli utili medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore attuale dell'investimento iniziale.
+
+**D:** ⚠️ A quale grandezza corrisponde, secondo la parentesi della slide, l'utile del rendimento netto contabile (lezione 23)?
+**R:** All'«**Ebit netto di imposte**», cioè il risultato operativo (lezione 17) dopo le imposte. Nella Tabella 6.2 l'utile al lordo delle imposte è infatti ricavi − costi − ammortamento, senza oneri finanziari, e l'utile netto è quel valore meno il 25% di imposte.
+**Opzione:** All'EBIT netto di imposte.
+**Distrattori:**
+- All'EBITDA netto di imposte.
+- All'EBIT al lordo delle imposte.
+- Al flusso di cassa al lordo delle imposte.
+
+**D:** ⚠️ Qual è la regola del rendimento medio contabile (lezione 23)?
+**R:** «REGOLA DEL RENDIMENTO MEDIO CONTABILE: si accetta un investimento se il suo rendimento è **superiore a quello target**, si rifiuta in caso contrario». Il termine di confronto è un **target** fissato dall'impresa, non il tasso di attualizzazione di mercato; e «in caso contrario» comprende anche il rendimento uguale al target.
+**Opzione:** Si accetta un investimento se il suo rendimento è superiore a quello target, si rifiuta in caso contrario.
+**Distrattori:**
+- Si accetta un investimento se il suo rendimento è inferiore a quello target, si rifiuta in caso contrario.
+- Si accetta un investimento se il suo rendimento è superiore al tasso di attualizzazione di mercato, si rifiuta in caso contrario.
+- Si accetta un investimento se il suo rendimento è superiore a zero, si rifiuta in caso contrario.
+
+**D:** ⚠️ Quale vantaggio del rendimento netto contabile elenca la slide della lezione 23?
+**R:** Uno solo: «Indicatore **semplice** basato sul **rendimento**». Il docente lo spiega così: è «semplice da calcolare» e «non costa tempo né ricerche di informazioni», perché l'impresa si costruisce una serie storica di utili e di investimenti dalla **propria esperienza**, o ne usa una **di settore** o una su cui hanno già agito i **concorrenti**.
+**Opzione:** Indicatore semplice basato sul rendimento.
+**Distrattori:**
+- Indicatore semplice basato sui flussi di cassa.
+- Indicatore che considera il valore temporale del denaro.
+- Indicatore che usa tutti i flussi di cassa del progetto.
+
+**D:** ⚠️ Quali sono, nell'ordine della slide, i problemi del rendimento netto contabile (lezione 23)?
+**R:** Quattro: «Non utilizza i flussi di cassa»; «Non considera la distribuzione temporale dei flussi di cassa»; «Non considera il valore temporale del denaro»; «**Definizione arbitraria del target**». I primi tre sono le tre caratteristiche del VAN della lezione 21 rovesciate; il quarto è il gemello dello «standard arbitrario per il cut-off date» del tempo di recupero.
+**Opzione:** Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; definizione arbitraria del target.
+**Distrattori:**
+- Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; standard arbitrario per il cut-off date scelto.
+- Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; non considera la dimensione dei flussi di cassa.
+- Non utilizza gli utili; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; definizione arbitraria del target.
+
+**D:** ⚠️ Quali sono le tre fasi dell'Esempio 6.2 per determinare il rendimento medio contabile (lezione 23)?
+**R:** «Fase 1 Determinare il **reddito netto medio**; Fase 2 Determinare l'**investimento medio**; Fase 3 Determinare il **reddito contabile medio**». Le fasi dicono «reddito» dove la tabella dice «utile netto medio» e «RMC (Rendimento Medio Contabile)»: sono la stessa cosa.
+**Opzione:** Determinare il reddito netto medio; determinare l'investimento medio; determinare il reddito contabile medio.
+**Distrattori:**
+- Determinare il flusso di cassa medio; determinare l'investimento medio; determinare il reddito contabile medio.
+- Determinare il reddito netto medio; determinare il valore attuale dell'investimento; determinare il reddito contabile medio.
+- Determinare l'investimento medio; determinare il reddito netto medio; determinare il valore attuale netto.
+
+**D:** ⚠️ Nell'Esempio 6.2 (lezione 23) un punto vendita costa €500.000, ha una vita utile di cinque anni ed è ammortizzato a quote costanti. Come si passa dai ricavi all'utile netto nella Tabella 6.2?
+**R:** Ricavi − costi = «**Flusso di cassa al lordo delle imposte**»; − ammortamento (€100.000 l'anno, cioè 500.000/5) = «**Utile al lordo delle imposte**»; − imposte al 25% (t_c = 0,25) = «**Utile netto**». Nel primo anno: 433.333 − 200.000 = 233.333; − 100.000 = 133.333; − 33.333 = **100.000**.
+**Opzione:** Ricavi meno costi danno il flusso di cassa al lordo delle imposte; meno l'ammortamento, l'utile al lordo delle imposte; meno le imposte, l'utile netto.
+**Distrattori:**
+- Ricavi meno costi danno l'utile al lordo delle imposte; meno le imposte, il flusso di cassa netto; meno l'ammortamento, l'utile netto.
+- Ricavi meno costi danno il flusso di cassa al lordo delle imposte; meno le imposte, l'utile al lordo dell'ammortamento; meno l'ammortamento, l'utile netto.
+- Ricavi meno ammortamento danno il flusso di cassa al lordo delle imposte; meno i costi, l'utile al lordo delle imposte; meno le imposte, l'utile netto.
+
+**D:** ⚠️ Nell'Esempio 6.2 (lezione 23) gli utili netti dei cinque anni sono €100.000, €150.000, €50.000, 0 e −€50.000. Quanto vale l'utile netto medio?
+**R:** **€50.000**: «(€ 100 000 + 150 000 + 50 000 + 0 − 50 000) / 5 = € 50 000». È una media aritmetica semplice («una vera e propria **media aritmetica**», dice il docente), con lo zero dell'anno 4 e la perdita dell'anno 5 compresi.
+**Opzione:** €50.000
+**Distrattori:**
+- €70.000
+- €62.500
+- €100.000
+
+**D:** ⚠️ Come si calcola l'investimento medio dell'Esempio 6.2 (lezione 23), con un prezzo d'acquisto di €500.000 e cinque anni di vita utile?
+**R:** «Investimento medio = (€ 500 000 + 0) / 2 = € 250 000»: la media fra l'investimento iniziale e **zero**. Il docente: l'investimento «è solo un investimento iniziale», quindi «supponiamo **due periodi** perché per avere una media dobbiamo avere almeno due periodi», uno con 500.000 e uno con zero.
+**Opzione:** (€500.000 + 0) / 2 = €250.000
+**Distrattori:**
+- €500.000 / 5 = €100.000
+- (€500.000 + €100.000) / 2 = €300.000
+- €500.000, perché l'investimento si sostiene tutto all'inizio.
+
+**D:** ⚠️ Quanto vale il rendimento medio contabile dell'Esempio 6.2 (lezione 23), e il progetto si accetta con un target del 15%?
+**R:** «RMC (Rendimento Medio Contabile) = € 50 000 / € 250 000 = **20 %**»: utile netto medio diviso investimento medio. È maggiore del 15% («si accetta se RMC > 15%»): il progetto **si accetta**. Il docente: «si tratta di un investimento per noi remunerativo».
+**Opzione:** 20%: si accetta, perché supera il target del 15%.
+**Distrattori:**
+- 10%: si rifiuta, perché non raggiunge il target del 15%.
+- 20%: si rifiuta, perché supera il target del 15%.
+- 50%: si accetta, perché supera il target del 15%.
+
+**D:** ⚠️ Perché nell'anno 5 della Tabella 6.2 (lezione 23) le imposte sono negative (−€16.667)?
+**R:** L'utile al lordo delle imposte è negativo (−66.667), e la nota della tabella spiega: «Il **rimborso fiscale** di € 16 667 previsto nell'anno 5 avviene **solo se l'azienda è in attivo**. Qui la perdita relativa al progetto **riduce le imposte a carico dell'azienda**». L'utile netto dell'anno 5 è quindi −50.000, non −66.667.
+**Opzione:** Perché la perdita del progetto riduce le imposte a carico dell'azienda: il rimborso avviene solo se l'azienda è in attivo.
+**Distrattori:**
+- Perché la perdita del progetto dà diritto a un rimborso dallo Stato in ogni caso, anche se l'azienda è in perdita.
+- Perché nell'ultimo anno l'ammortamento residuo diventa un credito d'imposta.
+- Perché nell'anno 5 il punto vendita viene abbandonato e l'azienda recupera le imposte pagate negli anni precedenti.
+
+**D:** ⚠️ Quali tipi di vita utile dell'investimento distingue il docente nella lezione 23?
+**R:** Tre. La vita utile **fiscale o contabile**, «misurata dal suo **ammortamento**»; la vita utile **tecnica**, «indicata proprio dai **protocolli del macchinario**», cioè la capacità di generare valore «senza aggravare il business di ulteriori costi»; la vita utile **economica**, legata «all'insieme dei costi e degli investimenti che **non sono ammortizzabili**» (innovazione, formazione, crescita dei dipendenti, nuovi prodotti, nuovi mercati). Solo nel transcript.
+**Opzione:** Fiscale o contabile, misurata dall'ammortamento; tecnica, indicata dai protocolli del macchinario; economica, legata ai costi e agli investimenti non ammortizzabili.
+**Distrattori:**
+- Fiscale o contabile, misurata dall'ammortamento; tecnica, indicata dai protocolli del macchinario; finanziaria, misurata dal tempo di recupero.
+- Fiscale, misurata dalle imposte; contabile, misurata dall'ammortamento; economica, legata ai costi e agli investimenti non ammortizzabili.
+- Tecnica, misurata dall'ammortamento; contabile, indicata dai protocolli del macchinario; economica, legata ai costi e agli investimenti non ammortizzabili.
+
+**D:** ⚠️ Quale vita utile si usa per prassi nel rendimento netto contabile, e perché l'utile è al netto dell'ammortamento (lezione 23)?
+**R:** Quella **contabile**, «iscritta in bilancio»: «siccome qui di valori contabili stiamo parlando», se l'utile è ricavato dal bilancio «anche il valore dell'investimento dovrebbe essere un valore ricavato dal bilancio». Per questo l'utile è «al netto della quota d'ammortamento»: l'investimento è iscritto in bilancio, e così il rendimento è «correlato all'investimento che lo ha generato». Il limite: in ottica economica l'investimento «è invece un concetto più complesso e ampio».
+**Opzione:** La vita utile contabile: se l'utile si ricava dal bilancio, anche l'investimento va ricavato dal bilancio, e l'utile si calcola al netto della sua quota d'ammortamento.
+**Distrattori:**
+- La vita utile tecnica: l'utile si calcola al netto dei costi di manutenzione indicati dai protocolli del macchinario.
+- La vita utile economica: l'utile si calcola al netto degli investimenti non ammortizzabili, come innovazione e formazione.
+- La vita utile contabile: l'utile si calcola al lordo dell'ammortamento, che non ha ripercussione finanziaria.
+
+**D:** ⚠️ Perché, secondo il docente, l'utile dopo le imposte rende meno significativo il rendimento netto contabile nei grandi gruppi (lezione 23)?
+**R:** Le imposte sono considerate «un **costo esogeno** sul quale non si può agire», ma sugli utili c'è spesso una **politica fiscale** volta a minimizzarle. Una corporation su più mercati può scegliere «un **centro di rifatturazione** o una **sede legale o fiscale**» dove la pressione fiscale è minore e, con la gestione della **tesoreria interna**, far convergere utili più bassi nelle sedi dove è maggiore. Queste politiche «rendono **meno credibile** il valore dell'utile come ritorno dell'investimento». Pesano anche le imposte **locali** e gli **interventi normativi**.
+**Opzione:** Perché le politiche fiscali dei gruppi, con centri di rifatturazione, sedi fiscali e gestione della tesoreria interna, spostano gli utili dove la pressione fiscale è minore e li rendono meno credibili come ritorno dell'investimento.
+**Distrattori:**
+- Perché le imposte sono un costo interno su cui l'impresa non ha alcuna politica, e quindi l'utile netto coincide con il flusso di cassa.
+- Perché l'imposizione fiscale è fissa e non dipende dall'ammontare degli utili, e quindi penalizza i progetti più piccoli.
+- Perché le imposte si applicano solo agli utili distribuiti come dividendi, e non a quelli reinvestiti nel progetto.
+
+**D:** ⚠️ Perché il rendimento netto contabile usa valori medi e non il valore di un unico esercizio (lezione 23)?
+**R:** Per il docente l'**investimento** può non esaurirsi in un esercizio: può essere realizzato **a lotti** o richiedere **aggiornamenti**, **mantenimento** e **manutenzione** durante la vita utile; si valuta quindi «non già l'investimento **accumulato** ma il **valore medio**». Lo stesso vale per l'**utile**, che per ragioni fiscali, per l'**andamento ciclico** dei mercati o per variabili esogene può avere «un andamento **altalenante**». Si ragiona così su «una serie di anni».
+**Opzione:** Perché l'investimento può essere fatto a lotti o richiedere manutenzione nel tempo, e l'utile può avere un andamento altalenante durante la vita utile.
+**Distrattori:**
+- Perché la media permette di attualizzare gli utili al tasso di sconto del mercato.
+- Perché l'investimento si considera accumulato alla fine della vita utile, e l'utile solo nell'ultimo esercizio.
+- Perché la media elimina l'effetto delle imposte sull'utile.
+
+**D:** ⚠️ Il rendimento netto contabile è un valore prospettico? Che cosa ne dice il docente (lezione 23)?
+**R:** **No**: «non è un valore prospettico, quindi **non sconta il futuro**» e non affronta il problema del tempo come il VAN e il TIR. Ragiona «sul [pregresso] e sulla **storia** che i bilanci delle imprese hanno avuto»: è «una **valutazione ex post**». Il dato storico si può poi «traslare nel futuro», accettando l'investimento se il rendimento medio atteso supera il target, ma «**senza scontare il tempo**». ℹ️ La Tabella 6.2 è comunque una «**Stima** dei ricavi e dei costi»: l'indice si applica anche a proiezioni, ma non le attualizza.
+**Opzione:** No: è una valutazione ex post, costruita sulla storia dei bilanci, che si può proiettare nel futuro senza scontare il tempo.
+**Distrattori:**
+- Sì: attualizza gli utili futuri al tasso di sconto, come il VAN.
+- Sì: si calcola sui flussi di cassa futuri attesi, riportati al tempo zero.
+- No: si calcola solo sull'ultimo esercizio chiuso, senza medie.
+
+**D:** ⚠️ Come è stato definito, secondo il docente, il target del 15% dell'Esempio 6.2 (lezione 23)?
+**R:** «Se volessimo attenerci alle regole della finanza» dovrebbe essere il rendimento di «un eventuale investimento alternativo che abbia la **stessa rischiosità**», «ma la verità è che è un rendimento **deciso internamente** sulla base degli **obiettivi di redditività** che l'impresa si vuole dare», per esempio dall'esperienza nell'apertura di altri punti vendita. Per questo la slide elenca fra i problemi la «**definizione arbitraria del target**».
+**Opzione:** È un rendimento deciso internamente, sulla base degli obiettivi di redditività che l'impresa si vuole dare.
+**Distrattori:**
+- È il rendimento di un investimento alternativo con la stessa rischiosità, dedotto dal mercato.
+- È il tasso privo di rischio garantito dalla banca.
+- È il TIR del progetto, cioè il tasso che rende il VAN uguale a zero.
+
+**D:** ⚠️ Per quale criterio di valutazione degli investimenti la slide elenca fra i problemi la «definizione arbitraria del target»?
+**R:** Per il **rendimento netto contabile** (lezione 23). I gemelli della lezione 21 hanno altri nomi: il tempo di recupero ha lo «**standard arbitrario per il cut-off date** scelto», il tempo di recupero attualizzato un **benchmark** «arbitrario». Il VAN si confronta invece con **zero**, il TIR con il **tasso di attualizzazione di mercato**, l'indice di redditività con **1**.
+**Opzione:** Il rendimento netto contabile.
+**Distrattori:**
+- Il tempo di recupero.
+- Il tasso interno di rendimento.
+- L'indice di redditività.
+
+**D:** ⚠️ Perché, secondo la premessa di metodo del docente, gli investitori preferiscono usare insieme VAN, TIR e payback period (lezione 23)?
+**R:** Perché «sono tutti strumenti che **non danno delle informazioni certe**»: gli investitori preferiscono «utilizzarli tutti nelle valutazioni, alcuni con maggiore grado di affidabilità», altri con minore, «in modo da avere una **visione di insieme**».
+**Opzione:** Perché nessuno di essi dà informazioni certe, e usarli tutti insieme dà una visione d'insieme.
+**Distrattori:**
+- Perché danno tutti la stessa informazione certa, e usarli insieme conferma il risultato.
+- Perché ciascuno si applica a un tipo diverso di impresa, piccola o grande.
+- Perché la normativa contabile impone di riportarli tutti nel bilancio.
+
+**D:** ⚠️ Che cosa distingue, per il docente, il rendimento netto contabile e l'indice di redditività dagli indicatori finanziari come VAN, TIR e payback (lezione 23)?
+**R:** Gli indicatori finanziari richiedono «delle **competenze tecniche** e anche delle competenze di **affinamento dei dati di input**» poco diffuse fra le imprese. Questi due hanno «una **valenza anche economica** oltre che finanziaria» e consentono «un'analisi abbastanza **semplice, immediata** e soprattutto molto più legata al **contingente**, all'**esercizio**», che guarda al **breve, brevissimo periodo** e indica la **sostenibilità** dell'investimento. ⚠️ «Gli stessi vantaggi [...] rappresentano i **principali limiti**»: una visione di lungo periodo richiede valutazioni più approfondite.
+**Opzione:** Consentono un'analisi semplice e immediata, legata al contingente e al breve periodo, senza le competenze tecniche richieste dagli indicatori finanziari; ma per questo sono limitati sul lungo periodo.
+**Distrattori:**
+- Consentono un'analisi di lungo periodo più approfondita di quella degli indicatori finanziari, ma richiedono competenze tecniche più elevate.
+- Hanno una valenza solo finanziaria e si usano solo nei grandi gruppi industriali.
+- Danno informazioni certe, a differenza degli indicatori finanziari, e quindi non hanno limiti.
+
+**D:** ⚠️ Come definisce l'indice di redditività (IR) la slide della lezione 23?
+**R:** «Esprime il rapporto tra il **valore attuale** dei flussi di cassa attesi **dopo** l'investimento iniziale e l'entità dell'**investimento iniziale**»: IR = VA dei flussi di cassa *successivi* all'investimento iniziale / investimento iniziale. ⚠️ Il docente dice prima «al **netto** dell'investimento iniziale» ([00:18:35]), che metterebbe il VAN al numeratore: valgono la slide e i numeri della tabella.
+**Opzione:** Il rapporto tra il valore attuale dei flussi di cassa attesi dopo l'investimento iniziale e l'entità dell'investimento iniziale.
+**Distrattori:**
+- Il rapporto tra il valore attuale dei flussi di cassa attesi al netto dell'investimento iniziale e l'entità dell'investimento iniziale.
+- Il rapporto tra l'entità dell'investimento iniziale e il valore attuale dei flussi di cassa attesi dopo l'investimento iniziale.
+- Il rapporto tra la somma non attualizzata dei flussi di cassa attesi dopo l'investimento iniziale e l'entità dell'investimento iniziale.
+
+**D:** ⚠️ Nell'Esempio 6.5 di Kappa Srl (lezione 23) il progetto 1 investe 20 milioni; al 12% il VA dei flussi successivi è 70,5 milioni e il VAN 50,5 milioni. Quanto vale il suo indice di redditività?
+**R:** **3,53** = 70,5 / 20: il numeratore è il VA dei flussi **successivi** all'investimento, non il VAN. Con il VAN al numeratore si otterrebbe 50,5/20 = 2,53, che non è il valore della tabella. Il progetto 2 (−10; 15; 40) ha VA 45,3 e IR **4,53**. Nel transcript il docente dice «il rapporto fra 70 e 3,53 fa 50,5» ([00:19:58]): è un lapsus.
+**Opzione:** 3,53
+**Distrattori:**
+- 2,53
+- 0,28
+- 4,00
+
+**D:** ⚠️ Nell'Esempio 6.5 (lezione 23), al 12%, il progetto 1 (−20; 70; 10) ha IR 3,53 e VAN 50,5; il progetto 2 (−10; 15; 40) ha IR 4,53 e VAN 35,3 (milioni di €). Quale progetto preferisce ciascun criterio?
+**R:** L'**IR** preferisce il **progetto 2** (4,53 > 3,53), il **VAN** il **progetto 1** (50,5 > 35,3). Il docente: «con un van di questo tipo noi sceglieremo il progetto 1 e non il progetto 2». È il problema della **dimensione** già visto per il TIR (lezione 22): un rapporto non dice quanta ricchezza crea il progetto. Fra progetti alternativi decide l'analisi **incrementale**, che sceglie il progetto 1.
+**Opzione:** L'IR preferisce il progetto 2, il VAN il progetto 1.
+**Distrattori:**
+- L'IR preferisce il progetto 1, il VAN il progetto 2.
+- Entrambi preferiscono il progetto 1.
+- Entrambi preferiscono il progetto 2.
+
+**D:** ⚠️ Secondo il docente, che cosa provoca la «discrasia» fra IR e VAN nell'Esempio 6.5 (lezione 23)?
+**R:** «Il ruolo che ha l'**investimento iniziale**»: nel VAN incide sul valore della **cassa** che si avrà alla fine del progetto, in termini **assoluti**; nell'IR incide sulla **redditività**, come rapporto. Con un investimento di 10, il progetto 2 «risente meno del peso dell'investimento iniziale». Di qui la lezione: «a volte con gli indicatori si hanno indicazioni diverse», e l'indicatore si sceglie secondo ciò su cui si vuole ragionare: **rendimento**, **cassa** al termine del progetto, **sostenibilità**, **disponibilità di utile** per nuovi investimenti.
+**Opzione:** Il ruolo dell'investimento iniziale, che nel VAN pesa in termini assoluti sulla cassa finale e nell'IR pesa sulla redditività, come rapporto.
+**Distrattori:**
+- Il tasso di attualizzazione, che è diverso per i due criteri.
+- Il segno dei flussi successivi, che l'IR ignora e il VAN considera.
+- La durata dei progetti, che è diversa fra il progetto 1 e il progetto 2.
+
+**D:** ⚠️ Qual è la regola dell'indice di redditività per i progetti indipendenti (lezione 23)?
+**R:** «Progetti indipendenti: si accetta il progetto se **IR>1**; si rifiuta se **IR<1**». La soglia è **1**, non zero: l'IR è un rapporto, e vale 1 quando il VA dei flussi successivi è uguale all'investimento iniziale, cioè quando il VAN = 0.
+**Opzione:** Si accetta il progetto se IR>1; si rifiuta se IR<1.
+**Distrattori:**
+- Si accetta il progetto se IR>0; si rifiuta se IR<0.
+- Si accetta il progetto se IR<1; si rifiuta se IR>1.
+- Si accetta il progetto se IR è maggiore del tasso di attualizzazione; si rifiuta se è minore.
+
+**D:** ⚠️ Che cosa significa, secondo il docente, un indice di redditività uguale a 1 (lezione 23)?
+**R:** «1 rappresenta l'**eguaglianza fra numeratore e denominatore**»: il VA dei flussi di cassa è uguale all'investimento iniziale, e «io ho un rendimento pari a 1 cioè **non sto generando valore**». Corrisponde al **VAN = 0** e, per il TIR, a un tasso di attualizzazione uguale al TIR (lezione 22). La regola della slide copre solo IR > 1 e IR < 1: come quelle del VAN e del TIR, non tratta l'uguaglianza.
+**Opzione:** Che il valore attuale dei flussi successivi è uguale all'investimento iniziale: il progetto non genera valore, come con un VAN uguale a zero.
+**Distrattori:**
+- Che il progetto genera un rendimento del 100%, il massimo possibile.
+- Che il valore attuale dei flussi successivi è il doppio dell'investimento iniziale.
+- Che il progetto ha un VAN uguale a 1 milione.
+
+**D:** ⚠️ Come si applica l'indice di redditività ai progetti alternativi (lezione 23)?
+**R:** «Progetti alternativi: si usano i **flussi di cassa incrementali** e si accetta l'investimento se IR>1. Si rifiuta se IR<1». Non si sceglie il progetto con l'IR più alto: il docente avverte che «non è possibile **confrontare indice di redditività con altro indice di redditività**» senza i flussi incrementali, come fra progetti alternativi sbaglia il **confronto fra i due TIR** (lezione 22).
+**Opzione:** Si usano i flussi di cassa incrementali e si accetta l'investimento se IR>1; si rifiuta se IR<1.
+**Distrattori:**
+- Si sceglie il progetto con l'IR più alto, purché maggiore di 1.
+- Si sommano i flussi di cassa dei due progetti e si accettano entrambi se IR>1.
+- Si sceglie il progetto con l'IR più basso, perché richiede un investimento minore.
+
+**D:** ⚠️ Nell'Esempio 6.5 (lezione 23), che cosa rappresenta la riga «1 − 2» (−10; 55; −30) e quale progetto fa scegliere?
+**R:** I **flussi incrementali**: per ogni data, i flussi del **progetto 1 meno** quelli del **progetto 2** (−20 − (−10) = −10; 70 − 15 = 55; 10 − 40 = −30). Al 12% il loro VA è 25,2, l'IR **2,52 > 1** e il VAN 15,2, cioè 50,5 − 35,3: «**Scegliamo il progetto 1**». ⚠️ Il docente parla dell'incremento «tra l'**anno 1** e l'**anno 2**» ([00:24:09]): non è la riga della slide, che confronta i due progetti alla stessa data.
+**Opzione:** La differenza, data per data, fra i flussi del progetto 1 e quelli del progetto 2: con un IR di 2,52, maggiore di 1, si sceglie il progetto 1.
+**Distrattori:**
+- La differenza, data per data, fra i flussi del progetto 1 e quelli del progetto 2: con un IR di 2,52, minore dell'IR del progetto 2, si sceglie il progetto 2.
+- L'incremento dei flussi fra l'anno 1 e l'anno 2 dello stesso progetto: con un IR di 2,52 si sceglie il progetto 2.
+- La somma dei flussi dei due progetti: con un IR di 2,52, maggiore di 1, si accettano entrambi i progetti.
+
+**D:** ⚠️ Come definisce la slide della lezione 23 il razionamento del capitale?
+**R:** «Razionamento del capitale: caso in cui **non c'è abbastanza liquidità** per investire in **tutti i progetti** che presentano un **VAN positivo**». Il problema non è la liquidità scarsa in assoluto, ma il dover scegliere **quali** progetti a VAN positivo fare.
+**Opzione:** Il caso in cui non c'è abbastanza liquidità per investire in tutti i progetti che presentano un VAN positivo.
+**Distrattori:**
+- Il caso in cui non c'è abbastanza liquidità per investire in alcun progetto, nemmeno in quelli con VAN positivo.
+- Il caso in cui tutti i progetti disponibili presentano un VAN negativo.
+- Il caso in cui la liquidità disponibile supera il fabbisogno di tutti i progetti con VAN positivo.
+
+**D:** ⚠️ In caso di razionamento del capitale, che cosa si usa al posto del VAN, e perché, secondo la slide della lezione 23?
+**R:** «Non potendo **classificare** i progetti in base al VAN, si usa l'**IR** o il **VAN incrementale**». ⚠️ Il docente dà un'altra ragione: non si può usare il VAN perché «non ho la capacità di misurare il **capitale iniziale** investito», in parte preso «a debito» ([00:24:42]–[00:25:12]). Vale la slide. Nella lezione 21 il **tempo di recupero** era detto «adatto per imprese soggette a un forte razionamento del capitale».
+**Opzione:** L'IR o il VAN incrementale, perché non si possono classificare i progetti in base al VAN.
+**Distrattori:**
+- Il TIR o il TIR incrementale, perché non si possono classificare i progetti in base al VAN.
+- L'IR o il VAN incrementale, perché il VAN non si può calcolare senza conoscere il tasso di attualizzazione.
+- Il rendimento medio contabile, perché non utilizza i flussi di cassa.
+
+**D:** ⚠️ Nell'Esempio 6.5 (lezione 23) Kappa Srl ha soli 20 milioni e un terzo progetto (−10; −5; 60) con IR 4,34 e VAN 33,4. Quali progetti accetta?
+**R:** «Con l'analisi incrementale, si accetteranno i progetti **2 e 3**». ℹ️ I conti, che la slide non riporta: con 20 milioni si fa il solo progetto 1 (costa 20, VAN 50,5) oppure 2 e 3 insieme (10 + 10, VAN 35,3 + 33,4 = 68,7). Ordinando per IR (2: 4,53; 3: 4,34; 1: 3,53) si arriva alla stessa coppia.
+**Opzione:** I progetti 2 e 3.
+**Distrattori:**
+- Il solo progetto 1, che ha il VAN più alto.
+- I progetti 1 e 2.
+- Il solo progetto 2, che ha l'IR più alto.
+
+**D:** ⚠️ Che cosa distingue l'indice di redditività dal rendimento medio contabile, secondo il docente (lezione 23)?
+**R:** L'IR «non ragiona più su **valori medi**» ma «sui **flussi di cassa**», e «a differenza [...] del rendimento medio contabile l'indice di redditività **considera il valore del tempo** che invece il rendimento medio contabile non aveva considerato». Il rendimento medio contabile usa **utili medi** e un investimento **medio contabile**, senza attualizzare. L'IR esprime poi «sotto forma di **rapporto**» ciò che il VAN esprime come differenza assoluta.
+**Opzione:** L'IR ragiona sui flussi di cassa e considera il valore del tempo; il rendimento medio contabile usa utili medi e non lo considera.
+**Distrattori:**
+- L'IR ragiona sugli utili medi e non considera il valore del tempo; il rendimento medio contabile usa i flussi di cassa e lo considera.
+- Entrambi ragionano sui flussi di cassa, ma solo il rendimento medio contabile considera il valore del tempo.
+- Entrambi ragionano su utili medi, ma solo l'IR li confronta con un target arbitrario.
