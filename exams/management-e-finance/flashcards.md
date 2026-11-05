@@ -5863,3 +5863,220 @@
 - L'IR ragiona sugli utili medi e non considera il valore del tempo; il rendimento medio contabile usa i flussi di cassa e lo considera.
 - Entrambi ragionano sui flussi di cassa, ma solo il rendimento medio contabile considera il valore del tempo.
 - Entrambi ragionano su utili medi, ma solo l'IR li confronta con un target arbitrario.
+
+## Lezione 24 — La proposizione di Modigliani e Miller
+
+**D:** ⚠️ Che cosa afferma la Proposizione II di Modigliani e Miller in assenza di imposte (lezione 24)?
+**R:** «Il **rendimento atteso del capitale azionario** è **correlato positivamente** alla leva finanziaria **poiché il rischio per gli azionisti aumenta** con l'indebitamento». Attenzione alle parole su cui lavora un distrattore: *capitale azionario* (non il WACC), *positivamente*, e il motivo, che è il **rischio degli azionisti**.
+**Opzione:** Il rendimento atteso del capitale azionario è correlato positivamente alla leva finanziaria, poiché il rischio per gli azionisti aumenta con l'indebitamento.
+**Distrattori:**
+- Il rendimento atteso del capitale azionario è correlato negativamente alla leva finanziaria, poiché il rischio per gli azionisti diminuisce con l'indebitamento.
+- Il costo medio ponderato del capitale è correlato positivamente alla leva finanziaria, poiché il rischio per gli azionisti aumenta con l'indebitamento.
+- Il rendimento atteso del capitale azionario è correlato positivamente alla leva finanziaria, poiché il costo del debito aumenta con l'indebitamento.
+
+**D:** ⚠️ Qual è la formula della Proposizione II di Modigliani e Miller (lezione 24)?
+**R:** «**R_E = R₀ + D/E (R₀ – R_D)**», «dove R₀ è il costo del capitale di un'impresa unlevered». R_E è il costo dell'equity, R_D il costo del debito, D/E il rapporto debito-equity. La didascalia del grafico la scrive «R_E = R₀ + (R₀ − R_D)D/E»: è la stessa.
+**Opzione:** R_E = R₀ + D/E × (R₀ − R_D)
+**Distrattori:**
+- R_E = R₀ + E/D × (R₀ − R_D)
+- R_E = R_D + D/E × (R₀ − R_D)
+- R_E = R₀ + D/E × (R_D − R₀)
+
+**D:** ⚠️ Che cos'è R₀ nelle proposizioni di Modigliani e Miller (lezione 24)?
+**R:** «Il **costo del capitale di un'impresa unlevered**» (slide 2), cioè, nella didascalia del grafico, «il costo del capitale per un'impresa **non indebitata**». Nel grafico è «un **punto singolo**», da cui partono R_E e R_WACC; e in un mondo privo di imposte R_WACC le è sempre uguale.
+**Opzione:** Il costo del capitale di un'impresa unlevered, cioè non indebitata.
+**Distrattori:**
+- Il costo del debito di un'impresa indebitata.
+- Il costo dell'equity di un'impresa indebitata.
+- Il tasso privo di rischio del mercato.
+
+**D:** ⚠️ La slide 2 della lezione 24 dice che «il costo del capitale sarà dunque diverso per un'impresa levered da un'impresa unlevered». Di quale costo si tratta?
+**R:** Del costo del capitale **azionario**, R_E: in Autoveloce è il **15%** senza debito e il **20%** con il debito. Il costo **medio ponderato**, il WACC, resta invece il **15%** in entrambi i casi (slide 3–4). La frase segue a «Il rischio degli azionisti aumenta in presenza di leva finanziaria»: è il rischio, e quindi il costo, dell'equity.
+**Opzione:** Del costo del capitale azionario: cresce con la leva, mentre il costo medio ponderato del capitale non cambia.
+**Distrattori:**
+- Del costo medio ponderato del capitale: cresce con la leva, mentre il costo dell'equity non cambia.
+- Del costo del debito: cresce con la leva, mentre il costo dell'equity non cambia.
+- Del costo medio ponderato del capitale: diminuisce con la leva, perché il debito costa meno dell'equity.
+
+**D:** ⚠️ Quale implicazione della Proposizione I di Modigliani e Miller illustra l'esempio di Autoveloce S.p.A. (lezione 24)?
+**R:** «Un'implicazione di Modigliani-Miller, Proposizione I (sempre in assenza di imposte per ora!) è che il **WACC** di un'impresa è **costante** e **non dipende dalla struttura finanziaria**». Per Autoveloce il WACC è il 15% sia senza debito sia con metà del capitale a debito.
+**Opzione:** Che il WACC di un'impresa è costante e non dipende dalla struttura finanziaria.
+**Distrattori:**
+- Che il WACC di un'impresa diminuisce all'aumentare del debito e dipende dalla struttura finanziaria.
+- Che il costo dell'equity di un'impresa è costante e non dipende dalla struttura finanziaria.
+- Che il WACC di un'impresa aumenta all'aumentare del debito, perché cresce il rischio degli azionisti.
+
+**D:** ⚠️ Autoveloce S.p.A. passa da €8.000 di equity senza debito a €4.000 di debito e €4.000 di equity; R₀ è il 15% e il costo del debito il 10%. Quanto vale il costo dell'equity nello scenario levered (lezione 24)?
+**R:** **20%**: «0.15 + €4.000 / €4.000 x (0.15 – 0.10) = 0.20 = 20%», cioè R_E = R₀ + D/E × (R₀ − R_D). Le note della slide 4 lo ricavano anche come «utili attesi al netto degli interessi / equity» = €800 / €4.000. La slide 3 lo chiama «costo del capitale»: è il costo dell'**equity**.
+**Opzione:** 20%
+**Distrattori:**
+- 15%
+- 25%
+- 10%
+
+**D:** ⚠️ Quanto vale il WACC di Autoveloce S.p.A. nello scenario levered (€4.000 di debito al 10%, €4.000 di equity al 20%), e come si calcola (lezione 24)?
+**R:** **15%**: «Impresa levered: 15% = € 4000/€ 8000 × 10%* + € 4000/€ 8000 × 20%‡». È lo stesso 15% dell'impresa unlevered (0/€ 8000 × 10% + € 8000/€ 8000 × 15%). Nella slide i due «15%» sono **cerchiati in rosso**: è la Proposizione I in numeri.
+**Opzione:** 15%, cioè metà del capitale al 10% e metà al 20%.
+**Distrattori:**
+- 20%, cioè il costo dell'equity dello scenario levered.
+- 12,5%, cioè la media fra il costo del debito e R₀.
+- 10%, cioè il costo del debito, che sostituisce l'equity.
+
+**D:** ⚠️ Qual è la formula del costo medio ponderato del capitale (WACC) nella lezione 24?
+**R:** «**R_WACC = D/(D + E) × R_D + E/(D + E) × R_E**»: ciascun costo è pesato per la sua **quota sul capitale totale**, D + E. Il docente: si moltiplicano R_E e R_D «per le proporzioni di capitale proprio e di capitale di debito», e «il totale del capitale disponibile è D più E».
+**Opzione:** R_WACC = D/(D + E) × R_D + E/(D + E) × R_E
+**Distrattori:**
+- R_WACC = E/(D + E) × R_D + D/(D + E) × R_E
+- R_WACC = D/E × R_D + E/D × R_E
+- R_WACC = D/(D + E) × R_E + E/(D + E) × R₀
+
+**D:** ⚠️ Come si ricava il costo dell'equity nelle note della slide 4 della lezione 24?
+**R:** «**Utili attesi al netto degli interessi / equity**»: per l'impresa unlevered € 1200 / € 8000 = **15%**, per quella levered € 800 / € 4000 = **20%**. Gli 800 sono i 1.200 meno gli interessi sul debito, 10% × 4.000 = 400. Il docente: il costo del debito si legge sul mercato, mentre per quello del capitale proprio «devo fare riferimento all'indice di rendimento».
+**Opzione:** Utili attesi al netto degli interessi divisi per l'equity.
+**Distrattori:**
+- Utili attesi al lordo degli interessi divisi per il totale del capitale, debito più equity.
+- Interessi pagati divisi per il debito.
+- Utili attesi al netto degli interessi divisi per il totale del capitale, debito più equity.
+
+**D:** ⚠️ Nel grafico della lezione 24, come si comportano R_E, R_WACC e R_D al crescere del rapporto debito-equity?
+**R:** **R_E cresce**, **R_WACC** e **R_D** restano **costanti** (rette orizzontali). La didascalia: «Il costo del capitale azionario, R_E, è **positivamente correlato** al rapporto debito-equity dell'impresa. Il costo medio ponderato del capitale dell'impresa, R_WACC, è **insensibile** a tale rapporto». ⚠️ Il docente parla a un certo punto della «crescita del costo del capitale di debito» ([00:21:23]): nel grafico R_D è costante.
+**Opzione:** R_E cresce; R_WACC e R_D restano costanti.
+**Distrattori:**
+- R_E cresce; R_WACC cresce; R_D resta costante.
+- R_E cresce; R_WACC diminuisce; R_D resta costante.
+- R_E resta costante; R_WACC diminuisce; R_D cresce.
+
+**D:** ⚠️ In un mondo privo di imposte, a che cosa è uguale R_WACC per un'impresa indebitata (lezione 24)?
+**R:** A **R₀**: «R_WACC è il costo medio ponderato del capitale di un'impresa. In un mondo privo di imposte, per un'impresa indebitata R_WACC è uguale a R₀». Per Autoveloce, il 15%.
+**Opzione:** A R₀, il costo del capitale dell'impresa non indebitata.
+**Distrattori:**
+- A R_E, il costo dell'equity dell'impresa indebitata.
+- A R_D, il costo del debito.
+- A R₀ più il prodotto fra D/E e (R₀ − R_D).
+
+**D:** Nel grafico delle proposizioni di Modigliani e Miller (lezione 24), quale grandezza è un punto singolo e quali sono linee intere?
+**R:** «**R₀ è un punto singolo**, mentre R_E, R_D e R_WACC sono tutte **linee intere**». R₀ sta sull'asse verticale, dove il rapporto debito-equity è zero: da lì partono R_E, che sale, e R_WACC, che resta orizzontale.
+**Opzione:** R₀ è un punto singolo; R_E, R_D e R_WACC sono linee intere.
+**Distrattori:**
+- R_WACC è un punto singolo; R_E, R_D e R₀ sono linee intere.
+- R_D è un punto singolo; R_E, R₀ e R_WACC sono linee intere.
+
+**D:** ⚠️ Quali sono le ipotesi delle proposizioni di Modigliani e Miller nel riepilogo della lezione 24?
+**R:** Tre: «Assenza di **imposte**»; «Assenza di **costi di transazione**»; «Gli individui e le imprese si indebitano **allo stesso tasso di interesse**». Il docente: senza costi di transazione «non ci sono dei costi aggiuntivi legati all'acquisizione di titoli»; e «le imprese si indebitano come gli individui».
+**Opzione:** Assenza di imposte; assenza di costi di transazione; individui e imprese si indebitano allo stesso tasso di interesse.
+**Distrattori:**
+- Assenza di imposte; assenza di costi di transazione; le imprese si indebitano a un tasso inferiore a quello degli individui.
+- Assenza di imposte; assenza di costi di fallimento; individui e imprese si indebitano allo stesso tasso di interesse.
+- Presenza di imposte; assenza di costi di transazione; individui e imprese si indebitano allo stesso tasso di interesse.
+
+**D:** ⚠️ Come si scrive il risultato della Proposizione I di Modigliani e Miller (lezione 24)?
+**R:** «Proposizione I: **V_L = V_U** (il valore dell'impresa **levered** è uguale al valore dell'impresa **unlevered**)». Il docente: «il valore dell'impresa con un leverage alto è uguale al valore dell'impresa che non si indebita e si autofinanzia».
+**Opzione:** V_L = V_U: il valore dell'impresa levered è uguale al valore dell'impresa unlevered.
+**Distrattori:**
+- V_L > V_U: il valore dell'impresa levered è maggiore del valore dell'impresa unlevered.
+- V_L < V_U: il valore dell'impresa levered è minore del valore dell'impresa unlevered.
+- V_L = V_U + D: il valore dell'impresa levered è uguale al valore dell'impresa unlevered più il debito.
+
+**D:** ⚠️ Qual è l'applicazione intuitiva della Proposizione I di Modigliani e Miller (lezione 24)?
+**R:** «Attraverso l'**homemade leverage** gli **individui** possono **duplicare o rimuovere** gli effetti della leva finanziaria approntata dall'**impresa**». Per questo il valore dell'impresa non dipende dalla sua struttura finanziaria: ciò che l'impresa fa con il debito, l'investitore può farlo o disfarlo da sé.
+**Opzione:** Attraverso l'homemade leverage gli individui possono duplicare o rimuovere gli effetti della leva finanziaria approntata dall'impresa.
+**Distrattori:**
+- Attraverso l'homemade leverage le imprese possono duplicare o rimuovere gli effetti della leva finanziaria approntata dagli individui.
+- Attraverso l'homemade leverage gli individui possono soltanto duplicare, ma non rimuovere, gli effetti della leva finanziaria approntata dall'impresa.
+- Attraverso l'homemade leverage gli individui non possono duplicare né rimuovere gli effetti della leva finanziaria approntata dall'impresa.
+
+**D:** ⚠️ Qual è l'applicazione intuitiva della Proposizione II di Modigliani e Miller (lezione 24)?
+**R:** «Il **costo del capitale azionario aumenta** all'aumentare della leva finanziaria, perché il **rischio connesso all'equity** aumenta con la leva finanziaria». È la stessa idea dell'enunciato della slide 2, detta con «costo del capitale azionario» al posto di «rendimento atteso del capitale azionario».
+**Opzione:** Il costo del capitale azionario aumenta all'aumentare della leva finanziaria, perché il rischio connesso all'equity aumenta con la leva finanziaria.
+**Distrattori:**
+- Il costo del capitale azionario diminuisce all'aumentare della leva finanziaria, perché il rischio connesso all'equity diminuisce con la leva finanziaria.
+- Il costo medio ponderato del capitale aumenta all'aumentare della leva finanziaria, perché il rischio connesso all'equity aumenta con la leva finanziaria.
+- Il costo del capitale azionario aumenta all'aumentare della leva finanziaria, perché il costo del debito aumenta con la leva finanziaria.
+
+**D:** ⚠️ Che cosa riguarda la Proposizione I di Modigliani e Miller e che cosa la Proposizione II (lezione 24)?
+**R:** La **I** riguarda il **valore dell'impresa**, che non dipende dalla struttura finanziaria (V_L = V_U; il WACC è costante). La **II** riguarda il **costo dell'equity**, che dipende dalla struttura finanziaria e cresce con il D/E (R_E = R₀ + D/E × (R₀ − R_D)). ⚠️ Tutte le slide sono intitolate alla «proposizione II», anche quella che illustra la I.
+**Opzione:** La I riguarda il valore dell'impresa, che non dipende dalla struttura finanziaria; la II il costo dell'equity, che cresce con il rapporto debito-equity.
+**Distrattori:**
+- La I riguarda il costo dell'equity, che cresce con il rapporto debito-equity; la II il valore dell'impresa, che non dipende dalla struttura finanziaria.
+- La I riguarda il valore dell'impresa, che cresce con il rapporto debito-equity; la II il costo dell'equity, che non dipende dalla struttura finanziaria.
+- Entrambe riguardano il costo del debito, che resta costante al variare del rapporto debito-equity.
+
+**D:** ⚠️ Secondo il docente, quale assunto del mercato «rompono» Modigliani e Miller (lezione 24)?
+**R:** L'assunto che il **rischio degli azionisti aumenti con la leva finanziaria** e che quindi, con molto debito, chi compra azioni chieda «un rendimento più alto» e chi presta chieda «un tasso di interesse alto». Modigliani e Miller «rompono questo **tabù**» e dimostrano che il livello di indebitamento «**non influenza il costo medio del capitale**». ⚠️ Non dicono che il rischio dell'equity non cresca: la Proposizione II dice proprio che cresce.
+**Opzione:** Che la struttura finanziaria influenzi il costo medio del capitale: per Modigliani e Miller il livello di indebitamento non lo influenza.
+**Distrattori:**
+- Che il rischio dell'equity cresca con il debito: per Modigliani e Miller il costo dell'equity non dipende dalla leva.
+- Che le imposte non influenzino il valore dell'impresa: per Modigliani e Miller lo determinano.
+- Che il costo del debito sia costante: per Modigliani e Miller cresce con la leva finanziaria.
+
+**D:** ⚠️ Che cosa chiama «leverage» il docente nella lezione 24, e come si chiamava quel rapporto nella lezione 18?
+**R:** «Il **rapporto fra debiti e capitale proprio**», cioè il **D/E**: «maggiori sono i debiti in rapporto al capitale proprio, maggiore la rischiosità». Nella lezione 18 il rapporto PFN / capitale netto era il **gearing**, mentre il **leverage finanziario** era PFN / (PFN + capitale netto). Le slide della 24 dicono «leva finanziaria» e «rapporto debito-equity (D/E)».
+**Opzione:** Il rapporto fra debiti e capitale proprio, che nella lezione 18 era il gearing.
+**Distrattori:**
+- Il rapporto fra debiti e totale delle fonti, che nella lezione 18 era il gearing.
+- Il rapporto fra capitale proprio e debiti, che nella lezione 18 era il leverage finanziario.
+- Il rapporto fra reddito operativo e oneri finanziari, che nella lezione 18 era il leverage finanziario.
+
+**D:** ⚠️ Perché, secondo il docente, un azionista che si indebita potrebbe essere indifferente alla struttura finanziaria dell'impresa (lezione 24)?
+**R:** Perché spesso gli azionisti «costruiscono un **loro leverage**»: comprano E in parte con denari propri e in parte **a debito**. Se il leverage dell'investitore fosse uguale a quello dell'impresa, sarebbe «**neutrale rispetto al rischio**», perché correrebbe il rischio solo per la sua parte di E e il resto «sarebbe scaricato sul finanziamento». ⚠️ È l'homemade leverage della slide 6, che però dice soltanto che gli individui possono «**duplicare o rimuovere** gli effetti della leva»: il rischio dell'equity **cresce** comunque con la leva (Proposizione II).
+**Opzione:** Perché può costruirsi un proprio leverage, comprando le azioni in parte a debito, e duplicare o rimuovere così gli effetti della leva scelta dall'impresa.
+**Distrattori:**
+- Perché la legge vieta alle imprese di indebitarsi oltre il capitale proprio.
+- Perché gli individui si indebitano a un tasso più basso delle imprese.
+- Perché il rischio dell'equity non dipende dalla leva finanziaria.
+
+**D:** ⚠️ Quali conseguenze sui mercati vede il docente nella logica di Modigliani e Miller (lezione 24)?
+**R:** Una «**proliferazione dei leverage**, che da leverage di impresa diventano anche leverage di mercato»: si sommano «leverage a leverage», e «chi è proprietario dell'azione di fatto **non è proprietario** dell'azione», perché l'ha comprata in parte con denari di terzi. Ne risente l'**efficienza del mercato**. Il meccanismo funziona nei mercati dove la partecipazione è **speculativa**; dove contano le conseguenze **industriali** servono azionisti che abbiano comprato «per gran parte con capitale proprio». Il giudizio: una logica che «ha più una traduzione **speculativa** che non **strategica**».
+**Opzione:** Una proliferazione dei leverage, con azionisti che comprano a debito e un mercato meno efficiente: una logica più speculativa che strategica.
+**Distrattori:**
+- Una riduzione dell'indebitamento degli azionisti, con un mercato più efficiente: una logica più strategica che speculativa.
+- Nessuna conseguenza pratica: il modello ha solo una vita scientifica.
+- Un aumento del costo medio del capitale per tutte le imprese quotate.
+
+**D:** ⚠️ Che cosa è successo, secondo il docente, in alcune privatizzazioni italiane degli anni 2000 come quella di Telecom Italia (lezione 24)?
+**R:** Mancando un grande investitore con solidità industriale e finanziaria, «ai grandi industriali si sono sostituiti **network di piccoli o medi industriali**» che, per l'acquisizione, «sono ricorsi all'**indebitamento**»; quell'esposizione ha poi messo in difficoltà la **gestione industriale** del gruppo. È l'«azionista in affanno»: senza cassa per sviluppare l'azienda, si aspetta che sia l'azienda a remunerare il suo investimento e il suo debito.
+**Opzione:** Al posto dei grandi industriali sono arrivati network di piccoli e medi industriali indebitati, e il debito ha poi messo in difficoltà la gestione industriale.
+**Distrattori:**
+- Un grande investitore industriale ha acquistato il gruppo interamente con capitale proprio, garantendone lo sviluppo.
+- Lo Stato ha mantenuto il controllo con una golden share, impedendo l'indebitamento degli acquirenti.
+- Il gruppo è diventato una public company senza azionisti di riferimento né debito.
+
+**D:** ⚠️ Secondo l'approccio «modello a torta» al rapporto debito-equity, che cosa è corretto secondo il test della lezione 24 (domanda 1)?
+**R:** **Tutte e tre le affermazioni insieme**: «la torta è la somma dei diritti finanziari vantati nei confronti dell'impresa; V= D+E; D+E rappresenta il valore dell'impresa». Nel test le altre tre opzioni ne riportano una sola ciascuna: vere, ma incomplete, come nella domanda 1 del test 20. ⚠️ Il modello a torta non è nelle lezioni 01–24; nei materiali c'è solo D + E come totale del capitale, al denominatore del WACC.
+**Opzione:** La torta è la somma dei diritti finanziari vantati nei confronti dell'impresa; V = D + E; D + E rappresenta il valore dell'impresa.
+**Distrattori:**
+- Soltanto che la torta è la somma dei diritti finanziari vantati nei confronti dell'impresa.
+- Soltanto che V = D + E.
+- Soltanto che D + E rappresenta il valore dell'impresa.
+
+**D:** ⚠️ Rispetto alla massimizzazione del valore dell'impresa, quando i cambiamenti della struttura finanziaria vanno a beneficio degli azionisti, secondo il test della lezione 24 (domanda 2)?
+**R:** «I cambiamenti che intervengono nella struttura finanziaria vanno a beneficio degli azionisti **se e solo se il valore dell'impresa aumenta**». Distrattori del test: «non vanno a beneficio degli azionisti», «…se e solo se il valore dell'impresa **diminuisce**» (segno invertito), «vanno a danno degli azionisti **sempre**» (quantificatore assoluto). ⚠️ Non è nelle lezioni 01–24.
+**Opzione:** Vanno a beneficio degli azionisti se e solo se il valore dell'impresa aumenta.
+**Distrattori:**
+- Non vanno a beneficio degli azionisti.
+- Vanno a beneficio degli azionisti se e solo se il valore dell'impresa diminuisce.
+- Vanno sempre a danno degli azionisti.
+
+**D:** ⚠️ Che cosa dimostra la Proposizione I di Modigliani e Miller, secondo il test della lezione 24 (domanda 3)?
+**R:** Che «in un **mondo privo di imposte**, il valore dell'impresa **non** è influenzato dal rapporto debito-equity» (V_L = V_U). Distrattori del test: la stessa frase senza il «non»; «prevede che un alto ed un basso rapporto debito-equity **non possa** essere bilanciato dall'homemade leverage», che rovescia l'applicazione intuitiva della slide 6; «il valore dell'impresa dipende dal settore e dall'area geografica».
+**Opzione:** Dimostra che in un mondo privo di imposte il valore dell'impresa non è influenzato dal rapporto debito-equity.
+**Distrattori:**
+- Dimostra che in un mondo privo di imposte il valore dell'impresa è influenzato dal rapporto debito-equity.
+- Prevede che un alto e un basso rapporto debito-equity non possano essere bilanciati dall'homemade leverage.
+- Prevede che il valore dell'impresa dipenda dal settore e dall'area geografica.
+
+**D:** ⚠️ Che cosa dice la Proposizione II di Modigliani e Miller, secondo il test della lezione 24 (domanda 4)?
+**R:** Che «il rendimento atteso è **correlato positivamente** alla leva finanziaria» (slide 2: il rendimento atteso **del capitale azionario**). Distrattori del test: correlato «**negativamente**», «**indipendente** dalla leva finanziaria» (vale per il WACC, non per l'equity), e «un'impresa **può** modificare il valore totale dei titoli in circolazione modificando la ripartizione fra azioni e debito», che è la **Proposizione I rovesciata**: con V_L = V_U, la ripartizione non cambia il valore.
+**Opzione:** Il rendimento atteso è correlato positivamente alla leva finanziaria.
+**Distrattori:**
+- Il rendimento atteso è correlato negativamente alla leva finanziaria.
+- Il rendimento atteso è indipendente dalla leva finanziaria.
+- Un'impresa può modificare il valore totale dei titoli in circolazione modificando la ripartizione fra azioni e debito.
+
+**D:** ⚠️ Che cosa consente la leva creditizia, secondo il test della lezione 24 (domanda 5)?
+**R:** Nel test: «consente di **finanziare la partecipazione** in società finanziarie». La fonte è la **lezione 28**, slide 7: «L'investimento da parte della **società finanziaria** nella società di cui si vuole acquisire il controllo può essere finanziato anche con **capitale di credito**. Ciò determina una "**leva creditizia**" che abbassa il fabbisogno di capitale necessario per detenere il controllo». ⚠️ La chiave è una parafrasi imprecisa: la partecipazione finanziata a debito è quella **della** società finanziaria **nella** controllata. Distrattori del test: «È vietata dalla legge», «aumenta la liquidità dell'impresa», «favorisce l'emissione di azioni ordinarie».
+**Opzione:** Consente di finanziare a debito la partecipazione, abbassando il capitale necessario per detenere il controllo.
+**Distrattori:**
+- È vietata dalla legge.
+- Aumenta la liquidità dell'impresa.
+- Favorisce l'emissione di azioni ordinarie.
