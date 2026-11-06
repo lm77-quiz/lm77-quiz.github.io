@@ -963,7 +963,7 @@
 **Distrattori:**
 - Mercati regolamentati di tipo multilaterale il cui esercizio è riservato ad imprese di investimento.
 - Mercati vietati dal legislatore italiano.
-- Sistemi complessi e formali che consentono il trasferimento delle risorse finanziarie da unità in surplus a unità in deficit e la creazione e la movimentazione dei mezzi di pagamento.
+- Mercati regolamentati di tipo bilaterale il cui esercizio è riservato ad imprese di investimento.
 
 **D:** ⚠️ Definizione di sistema organizzato di negoziazione (OTF) e strumenti trattati.
 **R:** «**Sistemi di negoziazione alternativi ai mercati regolamentati e agli MTF** che consentono l'interazione di multipli interessi di vendita e acquisto per **obbligazioni, strutturati, derivati**.» Sono alternativi anche **agli MTF**, e il perimetro degli strumenti è chiuso: niente azioni.
@@ -1359,7 +1359,7 @@
 **Opzione:** Le SIM (Società di intermediazione mobiliare) sono imprese di investimento autorizzate a svolgere servizi o attività di investimento ai sensi del Testo Unico della Finanza (TUF)
 **Distrattori:**
 - Le SIM (Società di intermediazione mobiliare) sono imprese di investimento autorizzate a svolgere servizi o attività di investimento ai sensi del Testo Unico Bancario (TUB)
-- Sistemi multilaterali autorizzati e amministrati da un gestore del mercato, che consentono l'incontro, in base a regole non discrezionali, di interessi multipli di acquisto e vendita di strumenti finanziari
+- Le SIM (Società di intermediazione mobiliare) sono imprese di investimento non autorizzate a svolgere servizi o attività di investimento ai sensi del Testo Unico della Finanza (TUF)
 - Autorità indipendenti dell'UE il cui obiettivo è migliorare la protezione degli investitori e promuovere mercati finanziari stabili e ordinati
 
 **D:** ⚠️ Quali sono i servizi e le attività di investimento delle SIM? (elenco completo)
@@ -1880,7 +1880,7 @@
 **Distrattori:**
 - Tutti i depositanti, purché solo persone fisiche, hanno diritto alla protezione dei loro depositi fino a un importo di 100 000 EUR per banca da parte del sistema di garanzia cui aderisce la loro banca.
 - Tutti i depositanti, purché solo persone fisiche, hanno diritto a un minimo di remunerazione garantita sui depositi.
-- Tutti i Paesi della zona euro e gli Stati membri non appartenenti alla zona euro che hanno scelto di parteciparvi, instaurando una stretta collaborazione con la BCE.
+- Tutti i depositanti, purché solo persone fisiche, hanno diritto alla protezione dei loro depositi senza alcun limite da parte del sistema di garanzia cui aderisce la loro banca.
 
 **D:** ⚠️ Chi altro è protetto oltre alla soglia generale dei 100.000 euro?
 **R:** Tre categorie (slide 11): i **regimi pensionistici delle piccole e medie imprese**; i **depositi delle autorità pubbliche aventi bilanci inferiori a 500 000 EUR**; i **depositi superiori a 100 000 EUR per taluni scopi abitativi e sociali**. ⚠️ La terza è un'**eccezione alla soglia stessa**, ed è la più facile da dimenticare.
@@ -2350,7 +2350,7 @@
 **Distrattori:**
 - I maggiori mercati azionari al mondo sono in USA: NASDAQ OMX (circa 19,7 trilioni di USD), NYSE (circa 7,3), Shanghai SE (circa 5,6), Japan Exchange Group, London SE Group, Hong Kong Exchanges, Euronext, Shenzhen SE, TMX Group, Deutsche Börse.
 - I primi cinque gruppi (Generali, Poste Italiane, Allianz, Intesa San Paolo, Unipol) valgono il 56,6% dei premi 2018; i secondi cinque (Aviva, Cattolica, AXA, Cardif/BNP, Reale Mutua) un altro 19,1%.
-- Su S&P 500 Total Return dal 1932: il ribasso dura in media 11,6 mesi con −26,8%, la ripresa 25,9 mesi con +76,6%; nel 1929 ribasso del −83,4% e ripresa del +506,4%; nel 2008 −52,0% e +225,8%.
+- La ricchezza complessiva è passata da 58 trilioni nel 2008 a 107 trilioni nel 2019; gli attivi finanziari sono 88 trilioni, circa il 70% della ricchezza; una parte significativa è investita in fondi e azioni.
 
 **D:** ⚠️ Dove è più grande il settore bancario?
 **R:** «**Il settore bancario è molto più grande in Europa**» (slide 36): l'Area Euro parte da ~41 trilioni di USD nel 2008 e tocca ~47, ma scende a ~34 nel 2017. ⚠️ Il grafico mostra però che la **Cina** (da ~8 a ~35 trilioni) **raggiunge e supera l'Area Euro** alla fine del periodo; USA ~11→~16, Giappone ~7→~9,5.
@@ -3225,7 +3225,7 @@
 **Distrattori:**
 - L'area unica in cui i cittadini, le imprese e gli enti possono eseguire e ricevere pagamenti in Euro e in USD, all'interno dei confini nazionali e tra i paesi che compongono l'area SEPA con condizioni di base, diritti ed obblighi uniformi.
 - Un'area ristretta e selezionata di operatori finanziari che ha stipulato convenzioni particolarmente convenienti per i pagamenti on line.
-- Il Sistema europeo di vigilanza finanziaria: comprende le tre autorità europee di vigilanza (EBA, EIOPA, ESMA), il Comitato europeo per il rischio sistemico e le autorità nazionali di vigilanza.
+- L'area unica in cui i cittadini, le imprese e gli enti possono eseguire e ricevere pagamenti in Euro e in USD, con condizioni di base, diritti ed obblighi diversi a seconda del soggetto pagante e del paese di residenza.
 
 **D:** ⚠️ Chi aderisce alla SEPA?
 **R:** «I **ventotto paesi dell'Unione Europea (UE), inclusi quelli non euro, e anche altri paesi non appartenenti alla UE**» (slide 20). ⚠️ **Tre cerchi**: paesi UE euro + paesi UE **non euro** + paesi **extra-UE**. Il distrattore classico è «aderiscono **solo** i paesi dell'Unione Europea» (**restrizione dell'ambito**); altri aggiungono **Stati Uniti e Canada** o «tutti i paesi della **NATO**». La SEPA è «per i **pagamenti al dettaglio con strumenti diversi dal contante** il **naturale completamento del passaggio alla moneta unica**».
@@ -4306,8 +4306,8 @@
 **Opzione:** La riserva di capitale anticiclica ha lo scopo di proteggere il sistema bancario da fasi di eccessiva crescita del credito. È imposta con Basilea III solo in fasi particolari per un importo variabile pari allo 0-2,5% del capitale.
 **Distrattori:**
 - La riserva di capitale anticiclica ha lo scopo di proteggere il sistema bancario da rischi non derivanti dalla attività creditizia. È imposta con Basilea III solo in fasi particolari per un importo variabile pari allo 0-2,5% del capitale.
-- Una misura non convenzionale, introdotta fra quelle aggiuntive dal 2008, con cui vengono fornite liquidità e prestiti a banche e istituzioni solventi alle prese con temporanei problemi di liquidità.
-- Con le misure di Quantitative Easing, a partire dal 2015 le banche centrali comprano obbligazioni governative o altre attività finanziarie.
+- La riserva di capitale anticiclica ha lo scopo di proteggere gli amministratori e i familiari dei dipendenti da rischi non derivanti dalla attività creditizia. È imposta con Basilea III solo in fasi particolari per un importo variabile pari allo 0-2,5% del capitale.
+- La riserva di capitale anticiclica ha lo scopo di proteggere gli amministratori e i familiari dei dipendenti da rischi derivanti dalla attività creditizia. È imposta con Basilea III solo in fasi particolari per un importo variabile pari allo 0-2,5% del capitale.
 
 **D:** ⚠️ *Buffer* di conservazione e anticiclico: come si distinguono?
 **R:** **Misura**: **2,5% fisso** contro **0–2,5% variabile**. **Quando**: **sempre** contro «**solo in fasi particolari**» (**discrezionale**). **Protegge da**: i «**momenti avversi di mercato**» contro le «**fasi di eccessiva crescita del credito**». **Oggetto**: la **singola banca** («relativi a una **singola banca**», slide 16) contro il **sistema bancario**.
@@ -4568,7 +4568,7 @@
 **Distrattori:**
 - La normativa richiede alle sole banche significative di dotarsi di un processo per valutare nel continuo l'adeguatezza della propria dotazione patrimoniale.
 - Ai componenti del CdA e del collegio sindacale e all'eventuale direttore generale, valutati secondo i cinque criteri previsti dalla legge.
-- Agli Stati che adottano l'euro, che si impegnano ad uno stretto coordinamento delle politiche fiscali, evitando in condizioni normali i disavanzi di bilancio eccessivi.
+- La BCE lascia libere le singole banche di organizzare il controllo in modo flessibile purché non abbiano un capitale sociale superiore a 100 milioni di Euro.
 
 **D:** ⚠️ Entro quando va fornita l'informativa ICAAP e a quale data si riferisce?
 **R:** «Entro il **30 aprile di ogni anno** con riferimento al **31.12 precedente**» (slide 15). ⚠️ **Due date in una frase**: il **30 aprile** è la **scadenza di consegna**, il **31 dicembre** la **data di riferimento**. Sono i due estremi che un distrattore scambia.
@@ -5597,7 +5597,7 @@
 **Distrattori:**
 - Dalla BCE e dalle banche centrali nazionali dei soli Stati membri che fanno parte della zona euro, ai sensi dell'articolo 282, paragrafo 1, TFUE e dell'articolo 1 dello statuto.
 - Dalla Commissione, dalla Banca centrale europea e dal Fondo Monetario Internazionale, che monitorano l'attuazione delle riforme che gli Stati aiutati si impegnano ad attuare sottoscrivendo un memorandum d'intesa.
-- Da oltre 30 membri in rappresentanza di stati e organizzazioni regionali corrispondenti ai principali centri finanziari internazionali; come osservatori partecipano FMI, Banca Mondiale, BCE, Nazioni Unite ed Europol.
+- Dalla BCE e dai Ministri delle Finanze di tutti gli Stati membri dell'UE, ai sensi dell'articolo 282, paragrafo 1, TFUE e dell'articolo 1 dello statuto.
 
 **D:** ⚠️ Che cos'è l'Eurosistema e in che cosa differisce dal SEBC?
 **R:** «L'**Eurosistema** comprende **solo** la BCE e le banche centrali nazionali degli Stati membri che fanno parte della **zona euro**» (slide 16), mentre il **SEBC** comprende le BCN di **tutti** gli Stati membri dell'UE. ⚠️ Le due definizioni stanno **nella stessa slide**, una accanto all'altra: la domanda d'esame chiede **quale delle due**, e il discriminante è **tutti** ↔ **solo**.
@@ -6162,7 +6162,7 @@
 **Distrattori:**
 - Anche se poste in essere in buona fede e per le finalità previste dalla normativa, possono costituire violazione di restrizioni alla comunicazione e comportano responsabilità di tipo amministrativo.
 - Costituiscono sempre presupposto di violazione di restrizioni alla comunicazione di informazioni: per questo i soggetti obbligati devono informare prima il segnalato.
-- Non comportano rischi di mercato sul proprio bilancio, ma solo il generico rischio di impresa.
+- Anche se poste in essere in buona fede e per le finalità previste dalla normativa, possono costituire violazione di restrizioni alla comunicazione e comportano responsabilità di tipo penale.
 
 **D:** ⚠️ Quali garanzie tutelano l'anonimato del segnalante?
 **R:** Quattro (slide 45): i **soggetti obbligati e gli ordini professionali** che ricevono segnalazioni dai propri iscritti devono assicurare la «**massima riservatezza dell'identità**» (**art. 38, commi 1 e 2**); la segnalazione inoltrata è «**priva di qualsiasi riferimento al nominativo della persona fisica segnalante**» (**art. 36, comma 6** e **art. 37, commi 2 e 3**); gli **Organi Investigativi omettono** l'identità nelle denunce all'Autorità Giudiziaria (**art. 38, comma 4**); l'**Autorità Giudiziaria** può chiederla «**solo con decreto motivato**», quando **indispensabile** (**art. 38, comma 3**). ⚠️ **L'anonimato non è assoluto**: l'ultima garanzia è anche l'**eccezione**.
@@ -8274,7 +8274,7 @@
 **Distrattori:**
 - Il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato; il limite non può essere mai superato.
 - Una scadenza massima di 270 giorni, perché al di sotto di tale scadenza si evita la registrazione presso la SEC; i titoli sono spesso venduti direttamente dall'emittente all'investitore.
-- Una spesa massima di 10 euro a semestre, con obbligo di indicare pubblicamente gli importi richiesti.
+- Il capitale sociale come risultante dall'ultimo bilancio approvato; il limite non può essere mai superato.
 
 **D:** 🚨 Che cosa segna la piattaforma sul limite all'emissione di obbligazioni, e perché è sbagliato?
 **R:** La **domanda 2** della lezione 26 segna l'opzione «il doppio del capitale sociale, della riserva legale e delle riserve disponibili … **il limite non può essere mai superato**». La **base di calcolo è giusta**, ma la **coda è falsa**: la **slide 13** prosegue dicendo che «il limite **può essere superato** se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di **investitori professionali** soggetti a vigilanza prudenziale», e la **slide 14** aggiunge una **seconda** deroga, l'**ipoteca di primo grado**. La risposta corretta nel merito è quella che tiene **base di calcolo completa *e* deroga**. ⚠️ Due indizi la smascherano **senza aprire le slide**: la domanda è una **matrice 2×2** (*base di calcolo* × *superabilità*) e l'opzione segnata è giusta su **un solo asse**, mentre un'altra lo è su **entrambi**; e la parola «**mai**» è un **quantificatore assoluto** in una materia fatta di **regole con deroghe**.
@@ -9214,7 +9214,7 @@
 **Distrattori:**
 - Il Nifty 50, costituito dalle azioni di 50 società indiane selezionate per la rappresentatività dell'attività economica del paese e la quota di dividendi pagati.
 - L'indice azionario della Borsa di San Paolo, indice di riferimento di 60 titoli scambiati nella borsa brasiliana.
-- Il dividend yield medio pagato dalle aziende che compongono un indice; a dicembre 2019 la media globale era del 3,23 per cento.
+- Il Nifty 500, costituito dalle azioni di 500 società indiane selezionate sia per la capitalizzazione globale sia per la rappresentatività dell'attività economica del paese.
 
 **D:** Che cos'è l'Ibovespa?
 **R:** Slide 29: «il **Bovespa** (acronimo di *BOlsa de VAlores do Estado de São PAulo*), meglio conosciuto come **Ibovespa**, è l'indice azionario della **Borsa di San Paolo**. È l'indice di riferimento di **60 titoli** scambiati nella borsa brasiliana».
@@ -9496,7 +9496,7 @@
 **Distrattori:**
 - Fondi che consentono di sottoscrivere quote, o chiederne il rimborso, in qualsiasi momento, e che investono normalmente in attività finanziarie illiquide.
 - Fondi rivolti solo a investitori professionali, che consentono di sottoscrivere qualsiasi tipologia di strumenti finanziari senza particolari obblighi di diversificazione.
-- Di solito sono emesse a voto limitato, ma non obbligatoriamente: possono non votare nelle assemblee ordinarie, mentre hanno sempre voto in quelle straordinarie.
+- Fondi che consentono di sottoscrivere quote, o chiederne il rimborso, solo al lancio del fondo e ad alcune date prestabilite successive, e che investono normalmente in attività finanziarie quotate.
 
 **D:** Come si calcola il NAV e a che cosa serve?
 **R:** Slide 24: «**NAV é il valore della quota di un fondo di investimento al netto delle spese di gestione**», e la formula è **NAV = ( Totale ATTIVO − Totale PASSIVO ) / Numero di quote in circolazione**. Slide 25: «l'**utilità principale** del NAV è quella di **valutare il prezzo a cui vendere nuove quote o quello a cui rimborsare quote già esistenti**». Il calcolo è **giornaliero** ([00:07:35]). ⚠️ Al numeratore c'è l'**attivo netto**, cioè attivo **meno** passivo; al denominatore le quote **in circolazione**, non quelle emesse dall'origine.
