@@ -27,8 +27,9 @@ const RE_R = /^\*\*R:\*\*\s*(.*)$/;
 const RE_OPZIONE = /^\*\*Opzione:\*\*\s*(.*)$/;
 const RE_DISTRATTORI = /^\*\*Distrattori:\*\*\s*(.*)$/;
 const RE_BULLET = /^[-*]\s+(.*)$/;
-// ⚠ + variation selector opzionale, oppure 🚨
-const RE_RISK = /^(\u26A0\uFE0F?|\u{1F6A8})\s*/u;
+// ⚠ + variation selector opzionale, oppure 🚨. Esportata perché chi cerca una
+// card per domanda (applica-distrattori) la normalizzi allo stesso modo.
+export const RE_RISK = /^(\u26A0\uFE0F?|\u{1F6A8})\s*/u;
 const RE_EMPTY_FILE = /_Ancora vuoto/;
 
 /** Numero di distrattori che rende una card giocabile a risposta multipla. */
@@ -54,22 +55,25 @@ export function parseFlashcards(text, opts = {}) {
   const lines = source.split(/\r?\n/);
   let lesson = null;
   let fromQuizSection = false;
-  let pending = null; // {qLines, aLines, oLines, dLines, state}
+  let pending = null; // {qLines, aLines, oLines, dLines, state, span}
   const seenIds = new Set();
 
-  const flush = () => {
+  // `fine` è l'indice della riga che chiude la card (esclusa): una riga vuota,
+  // un titolo, la **D:** successiva o la fine del file.
+  const flush = (fine) => {
     if (!pending) return;
+    pending.span.end = fine;
     const card = buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds);
     if (card) cards.push(card);
     pending = null;
   };
 
-  for (const rawLine of lines) {
-    const line = rawLine.replace(/\s+$/, '');
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].replace(/\s+$/, '');
     const trimmed = line.trim();
 
     if (/^#{1,6}\s/.test(trimmed)) {
-      flush();
+      flush(i);
       if (/^###\s/.test(trimmed)) {
         fromQuizSection = RE_QUIZ_SUBSECTION.test(trimmed);
         continue;
@@ -88,14 +92,14 @@ export function parseFlashcards(text, opts = {}) {
     }
 
     if (trimmed === '') {
-      if (pending && pending.state !== 'q') flush();
+      if (pending && pending.state !== 'q') flush(i);
       continue;
     }
 
     const md = trimmed.match(RE_D);
     if (md) {
-      flush();
-      pending = { qLines: [md[1].trim()], aLines: [], oLines: [], dLines: [], state: 'q' };
+      flush(i);
+      pending = { qLines: [md[1].trim()], aLines: [], oLines: [], dLines: [], state: 'q', span: { question: i, answer: -1, end: -1 } };
       continue;
     }
 
@@ -106,6 +110,7 @@ export function parseFlashcards(text, opts = {}) {
         continue;
       }
       pending.state = 'a';
+      if (pending.span.answer < 0) pending.span.answer = i;
       pending.aLines.push(mr[1].trim());
       continue;
     }
@@ -155,7 +160,7 @@ export function parseFlashcards(text, opts = {}) {
     }
     // Altrimenti: prosa/commenti — ignorati di proposito.
   }
-  flush();
+  flush(lines.length);
 
   for (const c of cards) {
     const l = lessons.find((x) => x.number === c.lesson);
@@ -216,6 +221,10 @@ function buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds) {
     optionText,
     distractors,
     fromQuizSection: !!fromQuizSection,
+    // Righe della card nel file (indici da 0, `end` escluso): **D:**, prima
+    // **R:**, e la riga che la chiude. Servono a chi riscrive il blocco
+    // distrattori senza ricostruire per conto suo la struttura del file.
+    span: { ...pending.span },
     // NON include opzione e distrattori: aggiungerli a una card già in
     // archivio non deve farla risultare "cambiata" nello storico errori.
     contentHash: stableHash(`${key}||${normalizeForId(answer)}`),
