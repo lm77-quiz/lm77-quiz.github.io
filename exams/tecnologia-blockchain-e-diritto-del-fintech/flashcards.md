@@ -78,9 +78,9 @@
 
 **D:** ⚠️ Quali sono le otto voci della «risposta regolamentare», nell'ordine della slide?
 **R:** Perimetro regolamentare; protezione del consumatore; protezione dei dati, sicurezza e privacy; gestione del rischio; resilienza operativa; governance; raccolta e analisi di dati e informazioni; interventi normativi emergenti. La voce di chiusura dell'elenco è «interventi normativi emergenti».
-**Opzione:** Perimetro regolamentare, protezione del consumatore, protezione dei dati, gestione del rischio, resilienza operativa, governance, raccolta e analisi di dati, interventi normativi emergenti.
+**Opzione:** Perimetro regolamentare, protezione del consumatore, protezione dei dati, sicurezza e privacy, gestione del rischio, resilienza operativa, governance, raccolta e analisi di dati e informazioni, interventi normativi emergenti.
 **Distrattori:**
-- Perimetro regolamentare, protezione del consumatore, protezione dei dati, gestione del rischio, resilienza operativa, governance, raccolta e analisi di dati, sanzioni amministrative pecuniarie.
+- Perimetro regolamentare, protezione del consumatore, protezione dei dati, sicurezza e privacy, gestione del rischio, resilienza operativa, governance, raccolta e analisi di dati e informazioni, sanzioni amministrative pecuniarie.
 - Mancanza di comprensione; vendita scorretta di prodotti e servizi; esclusione finanziaria; privacy, sicurezza e protezione dei dati.
 - Concentrazione; canali alternativi di intermediazione finanziaria; comportamento da branco.
 
@@ -101,6 +101,7 @@
 
 **D:** ⚠️ Secondo il Financial Stability Institute, qual è la sfida per i regolatori e i politici?
 **R:** «Massimizzare i benefici del fintech minimizzando i potenziali rischi per il sistema finanziario».
+**Opzione:** Massimizzare i benefici del fintech minimizzando i potenziali rischi per il sistema finanziario.
 **Distrattori:**
 - Minimizzare i benefici del fintech massimizzando la tutela del sistema finanziario.
 - Massimizzare i benefici del fintech minimizzando i potenziali rischi per i consumatori.
@@ -108,6 +109,7 @@
 
 **D:** Quali aree coprono, secondo il Financial Stability Institute, le iniziative dei regolatori sul FinTech?
 **R:** «Una vasta gamma di aree, tra cui il rischio tecnologico, la sicurezza informatica e la resilienza operativa».
+**Opzione:** Una vasta gamma di aree, tra cui il rischio tecnologico, la sicurezza informatica e la resilienza operativa.
 **Distrattori:**
 - Il rischio tecnologico, la sicurezza informatica e la protezione del consumatore.
 - Il rischio di credito, la sicurezza informatica e la resilienza operativa.
@@ -261,7 +263,7 @@
 **Distrattori:**
 - Il 53% ha meno di 10 dipendenti; nel 74% gli uomini sono più del 50% del team.
 - L'81% ha meno di 10 dipendenti; nel 53% gli uomini sono più del 50% del team.
-- Il 53% ha meno di 50 dipendenti; nell'81% gli uomini sono più del 50% del team.
+- Il 53% ha più di 10 dipendenti; nell'81% gli uomini sono più del 50% del team.
 
 **D:** ⚠️ Qual è il segmento più rappresentato fra le FinTech italiane?
 **R:** Il crowdfunding, con 71 società, pari al 21% del totale. ⚠️ A lezione il docente attribuisce prima il 21% agli smart payment, poi si corregge da solo («abbiamo il crowdfunding al 21%»): le slide danno Smart Payments & Money Transfers a 34 società, cioè il 10%.
@@ -298,8 +300,8 @@
 **R:** Lombardy 48,8%; Foreign countries 14,8%; Lazio 8,4%. ⚠️ La seconda voce non è una regione: sono le società estere, che stanno davanti al Lazio.
 **Opzione:** Lombardia, foreign countries, Lazio.
 **Distrattori:**
-- Lombardia, Lazio, Piemonte.
-- Lombardia, Lazio, foreign countries.
+- Lombardia, Lazio, Emilia Romagna.
+- Lombardia, Piemonte, Emilia Romagna.
 - Lombardia, foreign countries, Piemonte.
 
 **D:** Perché, secondo il docente, la Lombardia stacca il resto d'Italia per presenza di startup FinTech?
@@ -330,9 +332,9 @@
 **R:** Un «***append-only ledger***»: un registro a cui si può solo aggiungere.
 **Opzione:** Un append-only ledger.
 **Distrattori:**
-- Un «distributed-only ledger».
-- Un «write-once ledger».
-- Un «shared trust ledger».
+- Un distributed-only ledger.
+- Un write-once ledger.
+- Un shared trust ledger.
 
 **D:** Che cosa collega tra loro i blocchi di una blockchain?
 **R:** Un **hash**, che serve a raggruppare e memorizzare i dati.
@@ -344,6 +346,7 @@
 
 **D:** ⚠️ Quali sono i 4 caratteri principali della DLT?
 **R:** Decentralizzazione, trasparenza, sicurezza, immutabilità. «Presi tutti insieme rappresentano l'innovazione che prima mancava»: è la combinazione a essere innovativa.
+**Opzione:** Decentralizzazione, trasparenza, sicurezza, immutabilità.
 **Distrattori:**
 - Decentralizzazione, trasparenza, sicurezza, efficienza.
 - Decentralizzazione, trasparenza, scalabilità, immutabilità.
@@ -560,9 +563,9 @@
 **R:** Non opera «**alcuna distinzione in termini di *governance*, accesso o meccanismi di gestione del consenso**», sebbene siano elementi fondamentali delle piattaforme DLT.
 **Opzione:** Non distingue in termini di governance, accesso o meccanismi di gestione del consenso.
 **Distrattori:**
-- Non distingue in termini di governance, accesso o tipologia di dati registrati.
-- Non distingue in termini di governance, natura giuridica del gestore o meccanismi di gestione del consenso.
-- Non distingue in termini di accesso, meccanismi di gestione del consenso o effetti giuridici della registrazione.
+- Non distingue in termini di governance, accesso o modificabilità dei dati.
+- Non distingue in termini di governance, replicabilità del registro o meccanismi di gestione del consenso.
+- Non distingue in termini di accesso, meccanismi di gestione del consenso o verificabilità dei dati.
 
 **D:** ⚠️ Perché la mancata distinzione in termini di governance, accesso e consenso è problematica?
 **R:** Perché, «portata alle sue estreme conseguenze, conduce al rischio che la definizione normativa **non ricomprenda proprio quella tipologia di blockchain che si sta maggiormente diffondendo** in alcuni settori (quali, ad esempio, quello **bancario e assicurativo**)».
@@ -877,7 +880,7 @@
 **Opzione:** Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
 **Distrattori:**
 - Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta Jane se RentCo esce dall'area di servizio; blocca e sblocca il mezzo.
-- Traccia e trasferisce tariffe, multe e pagamenti; allerta RentCo se Jane esce dall'area di servizio; blocca il mezzo al termine della corsa.
+- Traccia ma non trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
 - Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta l'assicurazione se Jane ha un incidente; blocca e sblocca il mezzo.
 
 **D:** In quale momento lo smart contract sblocca la bici, e dove Jane la restituisce?
@@ -1214,7 +1217,7 @@
 **Opzione:** Con ordini del tipo immediate-or-cancel, che servono a sondare le condizioni di mercato.
 **Distrattori:**
 - Con ordini del tipo immediate-or-cancel, che servono a garantire l'esecuzione integrale della transazione al prezzo migliore.
-- Con ordini con limite di prezzo a valida fino a revoca, che servono a sondare le condizioni di mercato.
+- Con ordini con limite di prezzo validi fino a revoca, che servono a sondare le condizioni di mercato.
 - Con ordini del tipo immediate-or-cancel, che servono a consolidare la posizione sul capitale azionario dell'emittente.
 
 **D:** ⚠️ Quale quota degli ordini di transazione HFT si trasforma in un contratto?
@@ -1350,14 +1353,14 @@
 **Opzione:** La proposta di regolamento sullo scambio di cripto-attività (MiCA) e quella sulla resilienza operativa digitale per il settore finanziario (DORA).
 **Distrattori:**
 - La proposta di regolamento sullo scambio di cripto-attività (MiCA) e la revisione della direttiva MiFID II/MiFIR.
-- La proposta di regolamento sulla resilienza operativa digitale per il settore finanziario (DORA) e il «Regolamento Prospetto».
-- La proposta di regolamento sullo scambio di cripto-attività (MiCA) e quella sulle tecnologie a registro distribuito in materia di forma scritta.
+- La proposta di regolamento sulla resilienza operativa digitale per il settore finanziario (DORA) e il Regolamento Prospetto.
+- D.lgs n. 68/2018; sistemi più ampi ed efficaci di gestione dei registri e di vigilanza su imprese e intermediari, e innalzamento del livello di tutela del consumatore.
 
 **D:** ⚠️ Quali normative esistenti il Pacchetto per la finanza digitale sottopone a revisione?
 **R:** **MiFID II/MiFIR**, **AML/CFT**, **requisiti prudenziali**, **AIFMD/UCITS**, «**Regolamento Prospetto**».
 **Opzione:** MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
 **Distrattori:**
-- MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; Regolamento MiCA.
+- MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; «Regolamento MiCA».
 - MiFID II/MiFIR; AML/CFT; requisiti prudenziali; PSD2; «Regolamento Prospetto».
 - MiFID II/MiFIR; GDPR; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
 
@@ -1461,7 +1464,7 @@
 **R:** Le bandiere in calce alla slide sono **cinque**: **Italia, Regno Unito, Spagna, Australia, Svizzera**. ⚠️ Il docente ne cita **quattro** — «l'Italia, la Spagna, la Gran Bretagna, poi abbiamo aggiunto appunto la Svizzera» — e **omette l'Australia**.
 **Opzione:** Italia, Regno Unito, Spagna, Australia e Svizzera.
 **Distrattori:**
-- Italia, Regno Unito, Spagna e Svizzera.
+- Solo Italia, Regno Unito, Spagna e Svizzera.
 - Italia, Regno Unito, Spagna, Australia e Stati Uniti.
 - Italia, Francia, Germania, Spagna e Regno Unito.
 
@@ -1561,7 +1564,7 @@
 
 **D:** ⚠️ Come sono strutturati gli obblighi di identificazione previsti dalla terza direttiva antiriciclaggio?
 **R:** Su **tre livelli**: 1) le **disposizioni di carattere generale** che si applicano alla verifica della clientela nei quattro casi a)–d); 2) l'**identificazione semplificata** («obblighi semplificati di adeguata verifica della clientela») in presenza di **operazioni che presentano basso rischio**; 3) la previsione di un **obbligo di diligenza «rafforzato»** («obblighi rafforzati di adeguata verifica della clientela») in presenza di **operazioni transfrontaliere** o di **soggetti politicamente esposti**. ⚠️ La struttura è **4 + 1 + 1**, non un elenco di sei voci: i casi a)–d) stanno tutti dentro il primo livello.
-**Opzione:** Tre livelli: disposizioni generali (nei quattro casi a–d), identificazione semplificata per il basso rischio, obbligo di diligenza rafforzato per operazioni transfrontaliere e soggetti politicamente esposti.
+**Opzione:** Tre livelli: disposizioni generali (nei quattro casi a–d), identificazione semplificata per il basso rischio, obbligo di diligenza rafforzato per operazioni transfrontaliere o soggetti politicamente esposti.
 **Distrattori:**
 - Sei casi autonomi, di pari grado: i quattro casi a–d, l'identificazione semplificata e l'obbligo di diligenza rafforzato.
 - Per categorie a rischio omogeneo, con polizze più costose per la categoria a più alto rischio, così da compensare la maggiore probabilità del verificarsi dell'evento.
@@ -1673,9 +1676,9 @@
 
 **D:** ⚠️ In quali quattro condotte si articola la definizione di reato introdotta dalla quarta direttiva?
 **R:** «(i) **conversione o trasferimento di beni**, effettuati sapendo della loro provenienza criminosa, allo scopo di dissimulare od occultare l'origine illecita dei beni medesimi o ad aiutare chi sia coinvolto in tali attività a sottrarsi alla conseguenze giuridiche delle proprie azioni; (ii) **occultamento o dissimulazione** della reale natura, provenienza, ubicazione, disposizione, movimento, proprietà dei beni o diritti sugli stessi, effettuata essendo a conoscenza della natura o provenienza illecita; (iii) **acquisto o detenzione** di detti beni; (iv) **associazione o partecipazione o il tentativo di perpetrare il fatto**, o aiutare, consigliare o istigare o agevolare l'azione di qualcuno nel commettere il fatto.» ⚠️ Sono in scala **decrescente di partecipazione materiale**, e la (iv) è la voce di **chiusura**.
-**Opzione:** Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo, e concorso morale nel fatto.
+**Opzione:** Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo di perpetrare il fatto, o aiutare, consigliare, istigare o agevolare l'azione di qualcuno nel commetterlo.
 **Distrattori:**
-- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; omessa segnalazione dell'operazione sospetta.
+- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo di perpetrare il fatto, o omessa segnalazione dell'operazione sospetta.
 - I crimini dei colletti bianchi: il loro progressivo affinamento rendeva le direttive precedenti vetuste e desuete, imponendone la successione.
 - Lucrare su margini estremamente esigui, anche pochi centesimi, e per questo operare necessariamente su grandi quantità di transazioni giornaliere.
 
@@ -1737,18 +1740,18 @@
 
 **D:** Quale valutazione dà la slide delle carte prepagate, e quale problema vi associa?
 **R:** Una valutazione **a due facce**: «anche se le carte prepagate sono un **valido aiuto per l'inclusione sociale e finanziaria**, molto spesso l'uso di **carte prepagate anonime** può facilmente contribuire al **finanziamento di atti terroristici e dei relativi aspetti logistici**». ⚠️ Il problema è l'**anonimato**, non lo strumento: il docente illustra i pregi con il ragazzo a cui il genitore regala la prepagata «per avere il controllo delle spese» e con l'anziano che, perdendo carta e PIN, «non rischia di venire dilapidato».
-**Opzione:** Un valido aiuto per l'inclusione sociale e finanziaria, ma quelle anonime possono contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
+**Opzione:** Un valido aiuto per l'inclusione sociale e finanziaria, ma molto spesso l'uso di quelle anonime può facilmente contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
 **Distrattori:**
 - Uno strumento di per sé pericoloso per l'integrità del sistema finanziario, perché consente pagamenti non tracciabili qualunque sia l'intestatario.
-- Un valido aiuto per l'inclusione sociale e finanziaria, ma quelle emesse da istituti esteri possono contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
+- Un valido aiuto per l'inclusione sociale e finanziaria, ma molto spesso l'uso di quelle emesse da istituti esteri può facilmente contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
 - Un valido aiuto per l'inclusione sociale e finanziaria, il cui uso anonimo è per questo consentito al di sotto delle soglie di adeguata verifica.
 
 **D:** ⚠️ Con quale meccanismo la quinta direttiva interviene sulle carte prepagate anonime?
 **R:** «**Riducendo ulteriormente i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica della clientela**» di cui alla direttiva (UE) 2015/849. ⚠️ La direzione è doppiamente invertita: **abbassando** la soglia sotto la quale si può **omettere** la verifica, l'adeguata verifica finisce per scattare **più spesso**. Ogni singola parola di direzione è un potenziale distrattore.
-**Opzione:** Riducendo i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare misure di adeguata verifica.
+**Opzione:** Riducendo ulteriormente i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica della clientela.
 **Distrattori:**
-- Aumentando i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare misure di adeguata verifica.
-- Riducendo i limiti e gli importi massimi al di sopra dei quali i soggetti obbligati sono autorizzati a non applicare misure di adeguata verifica.
+- Aumentando ulteriormente i limiti e gli importi massimi al di sotto dei quali i soggetti obbligati sono autorizzati a non applicare determinate misure di adeguata verifica della clientela.
+- La costituzione di una banca dati informativa e il potenziamento delle funzioni di controllo della guardia di finanza.
 - Vietando l'emissione di carte prepagate anonime al di sotto dei limiti e degli importi massimi già fissati dalla quarta direttiva.
 
 **D:** ⚠️ Che cosa sono i *white collar crimes* e che ruolo hanno nella successione delle direttive?
