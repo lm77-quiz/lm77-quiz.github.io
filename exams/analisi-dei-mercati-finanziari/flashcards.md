@@ -2778,7 +2778,7 @@
 - Stimoli al cambiamento: regolamentazione, innovazione tecnologica, digitalizzazione, competizione esterna e mutamenti geopolitici.
 
 **D:** ⚠️ Come agiscono le esperienze passate sugli investitori?
-**R:** «L'**aspettativa segue le prestazioni passate, soprattutto quelle recenti**»: le previsioni di rendimento sono tanto maggiori quanto maggiori sono stati i rendimenti dell'ultimo periodo. Ciò contrasta col fatto che «**a un periodo di rialzo ne segue uno di ribasso e viceversa**»: l'investitore «**tende a staticizzare il mercato in cui è, forse per l'innato desiderio della sicurezza conseguente alla stabilità**» (slide 42).
+**R:** «L'**aspettativa segue le prestazioni passate, soprattutto quelle recenti**»: le previsioni di rendimento sono tanto maggiori quanto maggiori sono stati i rendimenti dell'ultimo periodo. Ciò contrasta col fatto che, «**spesso**, **a un periodo di rialzo ne segue uno di ribasso e viceversa**»; «**sembrerebbe** cioè che l'investitore **tenda a staticizzare il mercato in cui è, forse per l'innato desiderio della sicurezza conseguente alla stabilità**» (slide 42).
 **Opzione:** L'aspettativa segue le prestazioni passate, soprattutto quelle recenti; ciò contrasta con il fatto che, spesso, a un periodo di rialzo ne segue uno di ribasso e viceversa: sembrerebbe cioè che l'investitore tenda a staticizzare il mercato in cui è.
 **Distrattori:**
 - L'aspettativa segue le prestazioni passate, soprattutto quelle più remote; ciò contrasta con il fatto che, spesso, a un periodo di rialzo ne segue uno di ribasso e viceversa: sembrerebbe cioè che l'investitore tenda a staticizzare il mercato in cui è.
@@ -3559,7 +3559,7 @@
 - Perché il II pilastro è l'unico che impone un obbligo all'autorità di vigilanza, mentre il I impone alla banca di detenere capitale e il III le impone di informare il mercato.
 
 **D:** ⚠️ Quanta liquidità hanno immesso le banche centrali nel 2020?
-**R:** La **Federal Reserve** ha immesso **$1,5 trilioni in 3 settimane**, portando il bilancio da circa **$4,2** a **$5,81 trilioni** tra l'**11 marzo** e il **1° aprile** (slide 48; il picco del **QE-3** era stato ~**$4,5 trilioni**). Le **cinque principali banche centrali** — **Fed · BCE · People's Bank of China · Bank of England · Bank of Japan** — hanno immesso oltre **$5 trilioni**, circa il **10% del PIL** dei rispettivi paesi: **misure doppie rispetto al 2008-09** (~$2,5 trilioni, ~6% del PIL) — slide 49.
+**R:** La **Federal Reserve** ha immesso **$1,5 trilioni in 3 settimane**, portando il bilancio da circa **$4,3** a **$5,81 trilioni** tra l'**11 marzo** e il **1° aprile** (slide 48; il picco del **QE-3** era stato ~**$4,5 trilioni**). Le **cinque principali banche centrali** — **Fed · BCE · People's Bank of China · Bank of England · Bank of Japan** — hanno immesso oltre **$5 trilioni**, circa il **10% del PIL** dei rispettivi paesi: **misure doppie rispetto al 2008-09** (~$2,5 trilioni, ~6% del PIL) — slide 49.
 **Opzione:** La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da circa 4,3 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure doppie rispetto al 2008-09.
 **Distrattori:**
 - La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da circa 4,3 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure dimezzate rispetto al 2008-09.
@@ -3575,7 +3575,7 @@
 - Li hanno mantenuti costanti: la politica monetaria è rimasta invariata in attesa delle misure fiscali degli Stati.
 
 **D:** ⚠️ Perché «non basta la politica monetaria»?
-**R:** Perché serve anche la **spesa diretta** degli Stati (slide 54). La risposta fiscale dei **G10** vale circa il **7,5% del PIL** complessivo, con gli **Stati Uniti oltre il 10%** e l'**Italia** in coda; le misure si dividono in **Fiscal Stimulus** (spesa diretta, tagli d'imposta, sussidi salariali) e **Safety Net** (**differimenti d'imposta** e **prestiti ponte** — che non sono spesa, ma liquidità anticipata). La prima misura shock USA vale **2 trilioni di dollari**, «una manovra che per ampiezza e impatto **supera quanto successo nella seconda guerra mondiale**». ⚠️ La logica: **controbilanciare lo shock economico con uno shock di segno opposto**.
+**R:** Perché serve anche la **spesa diretta** degli Stati (slide 54). La risposta fiscale dei **G10** vale circa il **7,5% del PIL** complessivo, con gli **Stati Uniti oltre il 10%** e l'**Italia** in coda; le misure si dividono in **Fiscal Stimulus** (tagli d'imposta e trasferimenti alle famiglie, tagli d'imposta alle imprese, sussidi salariali, altra spesa diretta in sanità e servizi pubblici) e **Safety Net** (**differimenti d'imposta** e **prestiti ponte** — che non sono spesa, ma liquidità anticipata). La prima misura shock USA vale **2 trilioni di dollari**, «una manovra che per ampiezza e impatto **supera quanto successo nella seconda guerra mondiale**». ⚠️ La logica: **controbilanciare lo shock economico con uno shock di segno opposto**.
 **Opzione:** Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (tagli d'imposta e trasferimenti alle famiglie, tagli d'imposta alle imprese, sussidi salariali, altra spesa diretta in sanità e servizi pubblici) e Safety Net (differimenti d'imposta e programmi temporanei di prestiti ponte).
 **Distrattori:**
 - Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (differimenti d'imposta e programmi temporanei di prestiti ponte) e Safety Net (tagli d'imposta e trasferimenti alle famiglie, tagli d'imposta alle imprese, sussidi salariali, altra spesa diretta in sanità e servizi pubblici).
@@ -3709,7 +3709,7 @@
 - Cinque categorie: banche, gruppi bancari, società di intermediazione mobiliare, istituti di moneta elettronica e istituti di pagamento.
 
 **D:** ⚠️ Quali obiettivi fissa l'art. 5 del TUF?
-**R:** **Cinque** (slide 16): «la **salvaguardia della fiducia nel sistema finanziario** · la **tutela degli investitori** · la **stabilità e il buon funzionamento del sistema finanziario** · la **competitività del sistema finanziario** · l'**osservanza delle disposizioni in materia finanziaria (certezza del diritto)**». ⚠️ Confronto con il **TUB**, che ne ha **quattro**: solo il **TUF** nomina la **salvaguardia della fiducia** e la **tutela degli investitori**; solo il **TUB** parla di **sana e prudente gestione** e **stabilità complessiva**. Il docente: «le **parole sono un po' diverse**, ma di fatto gli obiettivi sono **similari**».
+**R:** **Cinque** (slide 16): «la **salvaguardia della fiducia nel sistema finanziario** · la **tutela degli investitori** · la **stabilità e il buon funzionamento del sistema finanziario** · la **competitività del sistema finanziario** · l'**osservanza delle disposizioni in materia finanziaria (certezza del diritto)**». ⚠️ Confronto con il **TUB**, che ne ha **quattro**: solo il **TUF** nomina la **salvaguardia della fiducia** e la **tutela degli investitori**; solo il **TUB** mette la **sana e prudente gestione** e la **stabilità complessiva** fra gli obiettivi generali; nel TUF la sana e prudente gestione compare come competenza della Banca d'Italia (slide 17). Il docente: «le **parole sono un po' diverse**, ma di fatto gli obiettivi sono **similari**».
 **Opzione:** Salvaguardia della fiducia nel sistema finanziario, tutela degli investitori, stabilità e buon funzionamento del sistema finanziario, competitività del sistema finanziario, osservanza delle disposizioni in materia finanziaria (certezza del diritto).
 **Distrattori:**
 - Sana e prudente gestione dei soggetti vigilati, tutela degli investitori, stabilità e buon funzionamento del sistema finanziario, competitività del sistema finanziario, osservanza delle disposizioni in materia finanziaria (certezza del diritto).
@@ -3781,7 +3781,7 @@
 - Regole micro ex post a tutela della stabilità e affidabilità.
 
 **D:** ⚠️ Quali sono gli strumenti della vigilanza prudenziale?
-**R:** **Sei** (slide 28): **regole definite ex ante per il contenimento dei rischi** («come le regole di adeguatezza note come le **Regole di Basilea**») · **limiti di concentrazione** · **limiti di trasformazione delle scadenze** · **limiti alle partecipazioni detenibili** · **requisiti di professionalità e onorabilità** · **requisiti sull'organizzazione, controlli interni e compliance**. ⚠️ I primi quattro sono **limiti quantitativi**, gli ultimi due **requisiti qualitativi**. La **trasformazione delle scadenze** è la funzione stessa della banca: qui è **limitata**, non vietata.
+**R:** **Sei esempi** (slide 28, «Qualche esempio»): **regole definite ex ante per il contenimento dei rischi** («come le regole di adeguatezza note come le **Regole di Basilea**») · **limiti di concentrazione** · **limiti di trasformazione delle scadenze** · **limiti alle partecipazioni detenibili** · **requisiti di professionalità e onorabilità** · **requisiti sull'organizzazione, controlli interni e compliance**. ⚠️ I primi quattro sono **limiti quantitativi**, gli ultimi due **requisiti qualitativi**. La **trasformazione delle scadenze** è la funzione stessa della banca: qui è **limitata**, non vietata.
 **Opzione:** Qualche esempio: regole ex ante per il contenimento dei rischi; limiti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
 **Distrattori:**
 - Qualche esempio: regole ex ante per il contenimento dei rischi; divieti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
@@ -4387,7 +4387,7 @@
 - Tramite le segnalazioni periodiche dell'art. 50 TUB, con cui la Banca d'Italia monitora tutta l'attività di banca, insieme a ogni altro documento richiesto.
 
 **D:** ⚠️ UniCredit 2017: i numeri chiave del confronto con i requisiti.
-**R:** (slide 30–33) **Totale attivo 404.980 mln**, **patrimonio netto 53.508** (contro **32.697** nel 2016, per un **forte aumento di capitale**). Ai fini di vigilanza: **CET1 48.880** · **capitale di classe 1 54.703** · **totale fondi propri 64.454** · **RWA 356.100** → **13,73% · 15,38% · 18,10%**. ⚠️ **404.980 di attivo contro 356.100 di RWA**: il denominatore dei *ratio* è **più piccolo** dell'attivo contabile.
+**R:** (slide 30–33) **Totale attivo 404.980 mln**, **patrimonio netto 53.508** (contro **32.697** nel 2016, per un **forte aumento di capitale**). Ai fini di vigilanza: **CET1 48.880** · **capitale di classe 1 54.703** · **totale fondi propri 64.454** · **RWA 356.100** → **13,73% · 15,36% · 18,10%**. ⚠️ **404.980 di attivo contro 356.100 di RWA**: il denominatore dei *ratio* è **più piccolo** dell'attivo contabile.
 **Opzione:** Totale attivo 404.980 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 356.100: ratio 13,73%, 15,36% e 18,10%.
 **Distrattori:**
 - Totale attivo 356.100 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 404.980: ratio 13,73%, 15,36% e 18,10%.
@@ -6359,7 +6359,7 @@
 - Al mercato retail può accedere la totalità degli investitori privati, a quello all'ingrosso solo operatori professionali autorizzati che trattano grandi quantitativi.
 
 **D:** ⚠️ Quale articolo vieta le restrizioni ai movimenti di capitali nell'Unione, e dove sono ammesse deroghe?
-**R:** «Il **trattato di Maastricht (TUE)** ha introdotto la **libera circolazione dei capitali** tra le libertà sancite dai trattati. Attualmente l'**articolo 63 TFUE** **vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi**. Le **deroghe sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi (articolo 64 TFUE)**» (slide 40). ⚠️ **63 = divieto, 64 = deroghe**, e le deroghe valgono **solo verso i paesi terzi**. ⚠️ Il divieto ha **due oggetti**: **movimenti di capitali** *e* **pagamenti**. ⚠️ Attenzione all'omonimia con l'**art. 63 TUF** e l'**art. 63 TUB** già visti nel corso.
+**R:** «Il **trattato di Maastricht (TUE)** ha introdotto la **libera circolazione dei capitali** tra le libertà sancite dai trattati. Attualmente l'**articolo 63 TFUE** **vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi**. Le **deroghe sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi (articolo 64 TFUE)**» (slide 40). ⚠️ **63 = divieto, 64 = deroghe**, e le deroghe sono **essenzialmente** limitate ai movimenti di capitali riguardanti **paesi terzi**. ⚠️ Il divieto ha **due oggetti**: **movimenti di capitali** *e* **pagamenti**. ⚠️ Attenzione all'omonimia con l'**art. 63 TUF** e l'**art. 63 TUB** già visti nel corso.
 **Opzione:** L'articolo 63 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi; le deroghe dell'articolo 64 TFUE sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi.
 **Distrattori:**
 - L'articolo 64 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi; le deroghe dell'articolo 63 TFUE sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi.
@@ -6391,7 +6391,7 @@
 - Olanda 30% (circa 50 miliardi), Lussemburgo 54% (90 miliardi), Irlanda 65% (117 miliardi), Malta 88%.
 
 **D:** ⚠️ Qual è il dato che meglio illustra la sproporzione del caso lussemburghese?
-**R:** «Il **Lussemburgo**, con appena **600mila abitanti**, attrae **4 trilioni di dollari** (ovvero **6,6 milioni pro-capite**) di investimenti» (slide 46). ⚠️ **Tre numeri legati fra loro**: abitanti, stock di investimenti e valore pro capite. Nella *Top 20 Inward FDI Economies* del FMI (slide 47) il Lussemburgo è in cima **sia** in valore assoluto **sia** in percentuale del PIL — segno che gli investimenti **non sono reali**.
+**R:** «Il **Lussemburgo**, con appena **600mila abitanti**, attrae **4 trilioni di dollari** (ovvero **6,6 milioni pro-capite**) di investimenti» (slide 46). ⚠️ **Tre numeri legati fra loro**: abitanti, stock di investimenti e valore pro capite. Nella *Top 20 Inward FDI Economies* del FMI (slide 47) il Lussemburgo è **secondo** in valore assoluto, dopo i Paesi Bassi, e **primo** in percentuale del PIL — segno che gli investimenti **non sono reali**.
 **Opzione:** Con appena 600mila abitanti attrae 4 trilioni di dollari di investimenti, ovvero 6,6 milioni pro-capite.
 **Distrattori:**
 - Con appena 600mila abitanti attrae 4 miliardi di dollari di investimenti, ovvero 6,6 milioni pro-capite.
@@ -6901,7 +6901,7 @@
 
 **D:** ⚠️ Da chi vengono emessi i titoli obbligazionari dello Stato italiano?
 **R:** «**Dalla Repubblica Italiana, tramite Ministero dell'Economia e delle Finanze (MEF), che si avvale della collaborazione di Banca d'Italia per organizzare e condurre le attività di collocamento**» (slide 7). ⚠️ Sono **due soggetti con due ruoli distinti**: il **MEF emette**, la **Banca d'Italia collabora** a organizzare e condurre il collocamento. I distrattori d'esame lasciano intatta la coda su Banca d'Italia e sostituiscono **solo il primo soggetto** — «da **ABI e Assoreti**», «dalla **Banca Centrale Europea**», «dal **Capo di Gabinetto**, sentita BCE e Parlamento Europeo». ⚠️ Ricorre il **Parlamento Europeo** come falsa autorità: gli **organi politici non emettono né vigilano**.
-**Opzione:** Dalla Repubblica Italiana, tramite MEF, che si avvale della collaborazione di Banca d'Italia per organizzare e condurre le attività di collocamento.
+**Opzione:** Dalla Repubblica Italiana, tramite Ministero dell'Economia e delle Finanze (MEF), che si avvale della collaborazione di Banca d'Italia per organizzare e condurre le attività di collocamento.
 **Distrattori:**
 - Da ABI e Assoreti, che si avvalgono della collaborazione di Banca d'Italia per organizzare e condurre le attività di collocamento.
 - Dalla Banca Centrale Europea, che si avvale della collaborazione di Banca d'Italia per organizzare e condurre le attività di collocamento.
@@ -6941,9 +6941,9 @@
 
 **D:** Che cosa pubblica il Tesoro alla fine di ogni anno solare, e a che scopo?
 **R:** «Il **calendario annuale delle aste** dell'anno successivo insieme con le **linee guida della gestione del debito pubblico**, in modo da **informare con largo anticipo gli operatori** circa la **cadenza dei collocamenti via asta** e il **profilo qualitativo** che ispirerà la politica di emissione durante l'anno» (slide 10). Il calendario «contiene **tutte le date dei comunicati di emissione, delle aste e del relativo regolamento**, specificate **per categorie di titoli**»; in aggiunta è pubblicato il **calendario delle aste Bot**.
-**Opzione:** Il calendario annuale delle aste dell'anno successivo insieme con le linee guida della gestione del debito pubblico.
+**Opzione:** Il calendario annuale delle aste dell'anno successivo insieme con le linee guida della gestione del debito pubblico, in modo da informare con largo anticipo gli operatori circa la cadenza dei collocamenti via asta e il profilo qualitativo che ispirerà la politica di emissione durante l'anno.
 **Distrattori:**
-- Il calendario annuale delle aste dell'anno successivo insieme con il rendiconto del debito pubblico collocato nell'anno appena concluso.
+- Il calendario annuale delle aste dell'anno successivo insieme con il rendiconto del debito pubblico collocato nell'anno appena concluso, in modo da informare con largo anticipo gli operatori circa la cadenza dei collocamenti via asta e il profilo qualitativo che ispirerà la politica di emissione durante l'anno.
 - Il calendario annuale delle aste dell'anno successivo insieme con le previsioni sui tassi di collocamento attesi per ciascuna categoria di titoli.
 - Le linee guida della gestione del debito pubblico, mentre le date delle singole aste sono comunicate volta per volta con il comunicato stampa.
 
@@ -7061,9 +7061,9 @@
 
 **D:** ⚠️ Qual è, alla lettera, una delle finalità del mercato monetario?
 **R:** «Gestire i **flussi di liquidità del sistema** grazie alla **breve durata dei contratti** ed alla **presenza di un mercato secondario** che permette **agli investitori istituzionali e individuali di investire temporanee eccedenze di fondi** e **allo Stato ed alle imprese di risolvere temporanei fabbisogni attraverso prestiti a breve**» (slide 33). ⚠️ È una frase a **due destinatari simmetrici**: chi ha **eccedenze** *investe* (investitori istituzionali e individuali), chi ha **fabbisogni** *si finanzia* (Stato e imprese). Il distrattore naturale **scambia i due lati**.
-**Opzione:** Gestire i flussi di liquidità del sistema, permettendo agli investitori istituzionali e individuali di investire temporanee eccedenze di fondi e allo Stato ed alle imprese di risolvere temporanei fabbisogni attraverso prestiti a breve.
+**Opzione:** Gestire i flussi di liquidità del sistema grazie alla breve durata dei contratti ed alla presenza di un mercato secondario che permette agli investitori istituzionali e individuali di investire temporanee eccedenze di fondi e allo Stato ed alle imprese di risolvere temporanei fabbisogni attraverso prestiti a breve.
 **Distrattori:**
-- Gestire i flussi di liquidità del sistema, permettendo allo Stato ed alle imprese di investire temporanee eccedenze di fondi e agli investitori istituzionali e individuali di risolvere temporanei fabbisogni attraverso prestiti a breve.
+- Gestire i flussi di liquidità del sistema grazie alla breve durata dei contratti ed alla presenza di un mercato secondario che permette allo Stato ed alle imprese di investire temporanee eccedenze di fondi e agli investitori istituzionali e individuali di risolvere temporanei fabbisogni attraverso prestiti a breve.
 - Gestire i flussi di liquidità del sistema grazie alla lunga durata dei contratti ed alla assenza di un mercato secondario, che obbliga gli investitori a portare i titoli fino a scadenza.
 - Finanziare gli investimenti a medio lungo termine delle imprese, grazie alla breve durata dei contratti ed alla presenza di un mercato secondario.
 
@@ -7144,7 +7144,7 @@
 **Opzione:** Sono ordinati in base al prezzo, in modo crescente se relativo alle vendite; se un ordine non viene soddisfatto resta nel book.
 **Distrattori:**
 - Sono ordinati in base al prezzo, in modo decrescente se relativo alle vendite; se un ordine non viene soddisfatto resta nel book.
-- Sono ordinati in base al prezzo, in modo crescente se relativo alle vendite; se un ordine non viene soddisfatto viene cancellato a fine giornata.
+- Sono ordinati in base al prezzo, in modo crescente se relativo alle vendite; se un ordine non viene soddisfatto viene cancellato.
 - Sono ordinati in base al momento di inserimento della proposta; se un ordine non viene soddisfatto resta nel book.
 
 **D:** ⚠️ Che differenza c'è fra una proposta senza limite di prezzo «a mercato» e una «al meglio»?
@@ -7152,7 +7152,7 @@
 **Opzione:** A mercato l'ordine è eseguito soltanto al migliore prezzo disponibile e la parte non soddisfatta non viene eseguita; al meglio l'ordine è eseguito sulla quantità richiesta a partire dal prezzo più conveniente ed è completamente soddisfatto.
 **Distrattori:**
 - A mercato l'ordine è eseguito sulla quantità richiesta a partire dal prezzo più conveniente ed è completamente soddisfatto; al meglio è eseguito soltanto al migliore prezzo disponibile e la parte non soddisfatta non viene eseguita.
-- A mercato l'ordine è eseguito soltanto al migliore prezzo disponibile e la parte non soddisfatta resta nel book fino a fine giornata; al meglio l'ordine è eseguito sulla quantità richiesta a partire dal prezzo più conveniente.
+- A mercato l'ordine è eseguito soltanto al migliore prezzo disponibile e la parte non soddisfatta non viene eseguita; al meglio l'ordine è eseguito sulla quantità richiesta a partire dal prezzo meno conveniente ed è completamente soddisfatto.
 - A mercato il trader indica soltanto il prezzo e non la quantità; al meglio indica soltanto la quantità e non il prezzo.
 
 **D:** ⚠️ Che cosa caratterizza i mercati quote driven, e come si chiamano i due prezzi esposti dal market maker?
@@ -7242,17 +7242,17 @@
 
 **D:** Quali sono le due mosse con cui un'impresa neutralizza il proprio profilo di cassa, e con quali strumenti?
 **R:** Sono **simmetriche**: nei mesi di saldo negativo si **finanziano i fabbisogni di cassa a breve**, «ad esempio emettendo **Commercial Papers**» (slide 7); nei mesi di eccesso si **investono gli eccessi**, «ad esempio investendo in **BOT a un mese**» (slide 8). Il risultato è il «**cash flow ottimizzato con strumenti monetari mensili**» (slide 9). Il docente: sono «**operazioni finanziarie speculari** rispetto ai propri flussi» ([00:00:43]).
-**Opzione:** Finanziare i fabbisogni di cassa a breve emettendo commercial paper, e investire gli eccessi acquistando BOT a un mese.
+**Opzione:** Finanziare i fabbisogni di cassa a breve, ad esempio emettendo commercial paper, e investire gli eccessi, ad esempio investendo in BOT a un mese.
 **Distrattori:**
-- Finanziare i fabbisogni di cassa a breve acquistando BOT a un mese, e investire gli eccessi emettendo commercial paper.
-- Finanziare i fabbisogni di cassa a breve emettendo obbligazioni decennali, e investire gli eccessi in azioni quotate.
-- Finanziare i fabbisogni di cassa a breve emettendo commercial paper, e investire gli eccessi in certificati di deposito a cinque anni.
+- Finanziare i fabbisogni di cassa a breve, ad esempio investendo in BOT a un mese, e investire gli eccessi, ad esempio emettendo commercial paper.
+- Finanziare i fabbisogni di cassa a breve, ad esempio emettendo obbligazioni decennali, e investire gli eccessi, ad esempio in azioni quotate.
+- Finanziare i fabbisogni di cassa a breve, ad esempio emettendo commercial paper, e investire gli eccessi, ad esempio investendo in BTP decennali.
 
 **D:** In che cosa consiste la funzione di riserva dei mercati monetari?
 **R:** Nel tenere «una **quota di attivo** in strumenti a **facile utilizzo in caso di necessità/opportunità**» (slide 10); la slide la etichetta **leva operativa**. ⚠️ Le condizioni sono **due e diverse**: **necessità** (un fabbisogno imprevisto) **e opportunità** (un investimento che si presenta).
 **Opzione:** Tenere una quota di attivo in strumenti a facile utilizzo in caso di necessità o di opportunità: è una leva operativa.
 **Distrattori:**
-- Tenere una quota di attivo in strumenti a facile utilizzo in caso di necessità: è una leva operativa.
+- Tenere una quota di attivo in strumenti a facile utilizzo soltanto in caso di necessità: è una leva operativa.
 - Tenere una quota di attivo vincolata presso la banca centrale a copertura degli obblighi di riserva: è una leva finanziaria.
 - Tenere una quota di attivo in strumenti a lungo termine con rendimento garantito in caso di necessità o di opportunità: è una leva operativa.
 
@@ -7306,7 +7306,7 @@
 
 **D:** ⚠️ Che cos'è il mercato interbancario?
 **R:** «Un **mercato monetario** in cui operano **le banche e gli istituti di credito**. Nel mercato interbancario le **banche in eccesso di liquidità offrono il capitale alle banche con scarsità di liquidità**» (slide 14). ⚠️ È la **domanda 2** del quiz: tre opzioni su quattro ripetono identica la coda «in cui operano le banche e gli istituti di credito» e cambiano **una sola parola** — *monetario* / *immobiliare* / *azionario*. Quando una porzione di frase è identica in più opzioni, **non discrimina**.
-**Opzione:** Un mercato monetario in cui operano le banche e gli istituti di credito: le banche in eccesso di liquidità offrono il capitale a quelle con scarsità di liquidità.
+**Opzione:** Un mercato monetario in cui operano le banche e gli istituti di credito.
 **Distrattori:**
 - Un mercato immobiliare in cui operano le banche e gli istituti di credito.
 - Un mercato azionario in cui operano le banche e gli istituti di credito.
@@ -7370,9 +7370,9 @@
 
 **D:** ⚠️ Per parametrare quali prodotti finanziari si usa l'Euribor?
 **R:** «Viene utilizzato come indice per parametrare i **mutui a tasso variabile** di milioni di famiglie europee, ma è anche l'**indice di riferimento europeo dei tassi che si applicano a vari prodotti finanziari, tra cui le obbligazioni a tasso variabile, i futures, gli swap e i forward rate agreement**» (slide 23). La formula è **Euribor 3 mesi + spread** oppure **Euribor 6 mesi + spread**. ⚠️ L'elenco ha **quattro voci** e va tenuto intero e nell'ordine: è materiale ideale per la **coda sostituita**.
-**Opzione:** I mutui a tasso variabile e, fra i prodotti finanziari, le obbligazioni a tasso variabile, i futures, gli swap e i forward rate agreement.
+**Opzione:** I mutui a tasso variabile e vari prodotti finanziari, tra cui le obbligazioni a tasso variabile, i futures, gli swap e i forward rate agreement.
 **Distrattori:**
-- I mutui a tasso variabile e, fra i prodotti finanziari, le obbligazioni a tasso variabile, i futures, gli swap e i contratti di assicurazione sulla vita.
+- I mutui a tasso fisso e vari prodotti finanziari, tra cui le obbligazioni a tasso variabile, i futures, gli swap e i forward rate agreement.
 - I documenti di carico, le polizze di carico marittime, i documenti assicurativi e le fatture commerciali e consolari.
 - Le quote di emissioni che consistono di qualsiasi unità riconosciuta conforme ai requisiti della direttiva 2003/87/CE, sistema per lo scambio di emissioni.
 
@@ -7522,17 +7522,17 @@
 
 **D:** Che cos'è una commercial paper e a che cosa serve?
 **R:** «Uno strumento **negoziato sui mercati internazionali funzionalmente equivalente alla cambiale finanziaria** che circola sul mercato italiano. Questi strumenti vengono in genere utilizzati **dalle società ad elevato standing** che riescono così a **raccogliere fondi per finanziare il fabbisogno di capitale circolante, a breve termine, ad un tasso di interesse inferiore rispetto al credito bancario**» (slide 44). ⚠️ Il termine di paragone è il **credito bancario**: è **disintermediazione**; ed è per società ad **elevato standing** perché lo strumento è **non garantito**.
-**Opzione:** Uno strumento negoziato sui mercati internazionali, equivalente alla cambiale finanziaria, con cui società ad elevato standing finanziano il fabbisogno di capitale circolante a breve termine a un tasso inferiore rispetto al credito bancario.
+**Opzione:** Uno strumento negoziato sui mercati internazionali, funzionalmente equivalente alla cambiale finanziaria, in genere utilizzato da società ad elevato standing per finanziare il fabbisogno di capitale circolante a breve termine a un tasso inferiore rispetto al credito bancario.
 **Distrattori:**
-- Uno strumento negoziato sui mercati internazionali, equivalente alla cambiale finanziaria, con cui società ad elevato standing finanziano il fabbisogno di capitale circolante a breve termine a un tasso superiore rispetto al credito bancario.
+- Uno strumento negoziato sui mercati internazionali, funzionalmente equivalente alla cambiale finanziaria, in genere utilizzato da società ad elevato standing per finanziare il fabbisogno di capitale circolante a breve termine a un tasso superiore rispetto al credito bancario.
 - Un'obbligazione strutturata a tasso variabile con indicizzazione inversa a un tasso benchmark, cedola pari a un tasso fisso meno il tasso variabile: conviene se l'investitore prevede tassi in ribasso.
 - Un contratto in cui un venditore cede titoli in cambio di denaro con consegna immediata e si impegna, nello stesso momento, a riacquistarli dallo stesso acquirente a un prezzo in genere più alto e a una data predeterminata.
 
 **D:** ⚠️ Chi acquista le commercial paper, e perché?
 **R:** «Molto spesso, soprattutto nel **mercato statunitense**, la commercial paper viene acquistata dai **fondi comuni di investimento monetari** poiché è considerata uno strumento **praticamente privo di rischio** ed anche a causa del fatto che l'**elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail**» (slide 45). ⚠️ La formula della slide è **forte** — «praticamente privo di rischio» — mentre il docente attenua in «rischio **sostanzialmente basso**» ([00:15:53]). Vale la slide per l'esame, ma la stessa lezione la smentisce nei fatti: il **tracollo del 2007** nasce da un «**uso improprio**» dello strumento.
-**Opzione:** I fondi comuni di investimento monetari, soprattutto negli USA, perché è considerata uno strumento praticamente privo di rischio e perché l'elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail.
+**Opzione:** Molto spesso i fondi comuni di investimento monetari, soprattutto negli USA, perché è considerata uno strumento praticamente privo di rischio e perché l'elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail.
 **Distrattori:**
-- Le banche centrali, soprattutto negli USA, perché è considerata uno strumento praticamente privo di rischio e perché l'elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail.
+- Molto spesso le banche centrali, soprattutto negli USA, perché è considerata uno strumento praticamente privo di rischio e perché l'elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail.
 - Gli operatori principali (primary dealers), tenuti a requisiti più stringenti degli altri operatori abilitati, sia sulle quantità sottoscritte in asta sia sui volumi negoziati sul secondario.
 - Le famiglie italiane, che nel 2017 detenevano obbligazioni per oltre 300 miliardi di euro in via diretta, circa l'8,5% del patrimonio.
 
@@ -7599,7 +7599,7 @@
 
 **D:** ⚠️ Qual è il vizio strutturale che ha fatto collassare il mercato delle ABCP?
 **R:** La **trasformazione delle scadenze**: «**fondi a breve servivano per finanziare operazioni a lunghissimo termine**» ([00:01:42]). Le ABCP hanno durata **entro l'anno**, i mutui sottostanti decenni: il modello regge **solo finché si riesce a rinnovare l'emissione**. «Tutto andava bene fino a che i mutui erano ripagati»; poi «quando cominciò la **crisi dei subprime** venne a galla la **rischiosità dei veicoli** utilizzati, e cominciò una vera e propria **fuga da questi titoli**» (slide 6).
-**Opzione:** La trasformazione delle scadenze: fondi a breve usati per finanziare operazioni a lunghissimo termine, sostenibili solo finché l'emissione si riesce a rinnovare.
+**Opzione:** La trasformazione delle scadenze: fondi a breve servivano per finanziare operazioni a lunghissimo termine, e tutto andava bene fino a che i mutui erano ripagati.
 **Distrattori:**
 - La trasformazione valutaria: fondi raccolti in dollari e impiegati in attività denominate in altre valute, sostenibili solo a cambi stabili.
 - L'eccesso di garanzie reali immobilizzate nei veicoli, che rendeva le commercial paper troppo costose da emettere.
@@ -7635,7 +7635,7 @@
 **Distrattori:**
 - In sostituzione di altre forme di finanziamento, oppure per stabilizzare in via permanente la struttura del proprio capitale circolante.
 - Esclusivamente per soddisfare temporanee esigenze di copertura dei propri fabbisogni finanziari, essendo vietato l'uso sostitutivo di altre forme di finanziamento.
-- In sostituzione del capitale di rischio, oppure per soddisfare temporanee esigenze di copertura dei propri fabbisogni finanziari.
+- In sostituzione di altre forme di finanziamento, oppure per soddisfare temporanee esigenze di copertura dei rischi di cambio.
 
 **D:** Da quale tipo di operazione nasce la maggior parte delle accettazioni bancarie?
 **R:** «La **maggior parte** delle accettazioni bancarie nasce a seguito di **operazioni internazionali** ove è presente una **lettera di credito (tratta)** il cui scopo è quello di **finanziare la negoziazione di beni non ancora trasportati** da un **esportatore estero (venditore)** ad un **importatore nazionale (acquirente)**» (slide 12).
@@ -7663,9 +7663,9 @@
 
 **D:** Perché le accettazioni bancarie si chiamano anche «operazioni di credito documentario»?
 **R:** «Vengono anche denominate "**operazioni di credito documentario**" poiché il **pagamento avviene contro la presentazione di un documento**» (slide 13). L'elenco della slide, per intero: «quello che dimostra **l'imbarco, la spedizione o la resa della merce**, **documenti di carico**, **polizze di carico marittime**, **documenti assicurativi**, **fatture commerciali**, **fatture consolari**».
-**Opzione:** Perché il pagamento avviene contro la presentazione di un documento: imbarco, spedizione o resa della merce, documenti di carico, polizze di carico marittime, documenti assicurativi, fatture commerciali e consolari.
+**Opzione:** Perché il pagamento avviene contro la presentazione di un documento, ad esempio quello che dimostra l'imbarco, la spedizione o la resa della merce, documenti di carico, polizze di carico marittime, documenti assicurativi, fatture commerciali, fatture consolari.
 **Distrattori:**
-- Perché il pagamento avviene contro la presentazione di un documento rilasciato dall'autorità doganale del paese importatore, unico titolo ammesso.
+- Perché il pagamento avviene contro la presentazione di un unico documento, rilasciato dall'autorità doganale del paese importatore, che dimostra l'imbarco, la spedizione o la resa della merce.
 - Perché l'emissione è subordinata al deposito presso la banca accettante di un documento che attesti il merito di credito del traente.
 - Perché il titolo deve essere registrato in un pubblico registro dei documenti commerciali prima di poter essere negoziato sul mercato.
 
@@ -7707,7 +7707,7 @@
 **Distrattori:**
 - Staccano cedole trimestrali indicizzate all'Euribor, e il rendimento è la somma delle cedole incassate.
 - Non staccano cedole: sono emessi alla pari, e il rendimento è dato dal premio di rimborso corrisposto a scadenza.
-- Non staccano cedole: sono emessi a sconto sul valore nominale, e il rendimento è la differenza fra prezzo di acquisto e prezzo di vendita sul mercato secondario.
+- Non staccano cedole: sono emessi a sconto sul valore nominale, e il rendimento è la differenza fra valore di rimborso e valore nominale.
 
 **D:** ⚠️ Quanto vale la ritenuta fiscale sui BOT e quando si paga?
 **R:** «La **ritenuta fiscale** è pari al **12,50 %** ed è **pagata in via anticipata al momento dell'acquisto**» (slide 18). L'esempio della slide: nominale **100**, prezzo **99**, rendimento **1**, ritenuta **1 × 12,5 % = 0,125**, netto **0,875**. È un'**aliquota agevolata**, che colpisce «la **differenza tra l'importo rimborsato a scadenza e il prezzo di sottoscrizione sotto la pari (100)**» (slide 30). ⚠️ Il prelievo è **anticipato** perché il BOT **non stacca cedole**: il guadagno è **noto già all'acquisto**.
@@ -7759,9 +7759,9 @@
 
 **D:** Chi sono gli specialisti in titoli di Stato?
 **R:** «**Operatori principali (primary dealers)** tenuti a soddisfare **requisiti più stringenti rispetto agli altri operatori abilitati (dealers)**, sia in termini di **quantità di titoli sottoscritte nelle aste (mercato primario)**, che in termini di **volumi di negoziazione sul mercato telematico secondario (MTS)**» (slide 25). La **ratio**: «avere sul mercato degli operatori che hanno come obiettivo di **contribuire al buon esito delle aste**».
-**Opzione:** Operatori principali (primary dealers) tenuti a requisiti più stringenti degli altri operatori abilitati, sia sulle quantità sottoscritte in asta sia sui volumi negoziati sul secondario.
+**Opzione:** Operatori principali (primary dealers) tenuti a soddisfare requisiti più stringenti rispetto agli altri operatori abilitati (dealers), sia in termini di quantità di titoli sottoscritte nelle aste (mercato primario), che in termini di volumi di negoziazione sul mercato telematico secondario (MTS).
 **Distrattori:**
-- Operatori principali (primary dealers) tenuti a requisiti più stringenti degli altri operatori abilitati, ma limitatamente alle quantità sottoscritte in asta sul mercato primario.
+- Operatori principali (primary dealers) tenuti a soddisfare requisiti più stringenti rispetto agli altri operatori abilitati (dealers), ma solo in termini di quantità di titoli sottoscritte nelle aste (mercato primario).
 - Operatori vigilati dalla Consob cui è riservata in via esclusiva la negoziazione dei titoli di Stato sul mercato al dettaglio.
 - Funzionari del Dipartimento del Tesoro incaricati di fissare il prezzo base delle aste e di sorvegliarne lo svolgimento.
 
@@ -7775,9 +7775,9 @@
 
 **D:** Quali privilegi hanno gli specialisti in titoli di Stato?
 **R:** «Lo Specialista in titoli di Stato **può godere di una serie di privilegi**» (slide 27): ① «può **accedere in via esclusiva alle sessioni di collocamento supplementare**»; ② ha la «**facoltà di partecipare in maniera esclusiva alle aste di riacquisto dei titoli a valere sul Fondo per l'ammortamento dei titoli di Stato**»; ③ «la **presenza alle riunioni periodiche mensili con il Dipartimento del Tesoro**»; ④ «la **comunicazione mensile** da parte del Dipartimento del Tesoro dei **dati riguardanti la loro performance e posizione nella graduatoria**».
-**Opzione:** Collocamento supplementare in via esclusiva, aste di riacquisto sul Fondo per l'ammortamento dei titoli di Stato, riunioni mensili con il Dipartimento del Tesoro e comunicazione mensile su performance e graduatoria.
+**Opzione:** Accesso esclusivo alle sessioni di collocamento supplementare, partecipazione esclusiva alle aste di riacquisto sul Fondo per l'ammortamento dei titoli di Stato, riunioni periodiche mensili con il Dipartimento del Tesoro e comunicazione mensile su performance e posizione nella graduatoria.
 **Distrattori:**
-- Collocamento supplementare in via esclusiva, aste di riacquisto sul Fondo per l'ammortamento dei titoli di Stato, riunioni mensili con il Dipartimento del Tesoro e commissioni di collocamento maggiorate rispetto agli altri operatori.
+- Accesso esclusivo alle sessioni di collocamento supplementare, partecipazione esclusiva alle aste di riacquisto sul Fondo per l'ammortamento dei titoli di Stato, riunioni periodiche mensili con il Dipartimento del Tesoro e commissioni di collocamento maggiorate rispetto agli altri operatori.
 - Niente più furti né titoli falsi per i risparmiatori, risparmio dei costi di stampa per gli emittenti, costi di movimentazione ridotti a livello di sistema, interessi e capitale pagati per accredito e non più contro presentazione dei titoli.
 - Regole di Basilea, limiti agli investimenti di autorità pubbliche ed enti, prospetti di fondi comuni e gestioni individuali, limiti ai fondi pensione.
 
@@ -7799,11 +7799,11 @@
 
 **D:** Come sono graduate le commissioni massime sul collocamento dei BOT?
 **R:** Per **vita residua** del titolo (slide 29): **pari o inferiore a 80 giorni → 0,03 %**; **compresa tra 81 e 140 giorni → 0,05 %**; **compresa tra 140 e 270 giorni → 0,10 %**; **pari o superiore a 271 giorni → 0,15 %**. ⚠️ Crescono con la durata. ⚠️ Solo nel transcript: «in caso di **rendimenti negativi o zero**, le **commissioni si azzerano**» ([00:12:16]).
-**Opzione:** Crescono con la vita residua del titolo, dallo 0,03 % fino a 80 giorni allo 0,15 % da 271 giorni in su.
+**Opzione:** Crescono con la vita residua del titolo: 0,03 % fino a 80 giorni, 0,05 % tra 81 e 140, 0,10 % tra 140 e 270, 0,15 % da 271 giorni in su.
 **Distrattori:**
-- Decrescono con la vita residua del titolo, dallo 0,15 % fino a 80 giorni allo 0,03 % da 271 giorni in su.
+- Decrescono con la vita residua del titolo: 0,15 % fino a 80 giorni, 0,10 % tra 81 e 140, 0,05 % tra 140 e 270, 0,03 % da 271 giorni in su.
 - Sono fisse allo 0,15 % per tutte le durate, con l'unica eccezione dei BOT trimestrali.
-- Crescono con l'importo sottoscritto dal risparmiatore, dallo 0,03 % fino a 80.000 euro allo 0,15 % oltre i 271.000 euro.
+- Crescono con l'importo sottoscritto dal risparmiatore: 0,03 % fino a 80.000 euro, 0,05 % fino a 140.000, 0,10 % fino a 270.000, 0,15 % oltre.
 
 **D:** Qual è il tetto alle spese di gestione e amministrazione dei BOT?
 **R:** «Le banche e i soggetti che **gestiscono e amministrano effettivamente i BOT del risparmiatore** possono applicare per questi servizi una **spesa massima di 10 euro a semestre** e devono **indicare pubblicamente gli importi richiesti**» (slide 30). ⚠️ Tre tetti, tre unità di misura: **commissione** in percentuale, **spesa** in euro **a semestre**, **tassa** in aliquota sul guadagno.
@@ -7815,9 +7815,9 @@
 
 **D:** Come si calcola il rendimento annuale di un BOT, e che cosa va sottratto?
 **R:** «**Rendimento annuale = [(Valore nominale di rimborso / Prezzo di emissione) elevato al numero di cedole in 360 giorni − 1] × 100**» (slide 31); «al risultato vanno sottratte **commissioni, spese di gestione/amministrazione e le tasse**». ⚠️ L'esponente **annualizza**: vale **4** per un trimestrale, **2** per un semestrale, **1** per un annuale. ⚠️ Il docente dice «meno **1 %**» ([00:12:16]): si sottrae **1**.
-**Opzione:** Si eleva il rapporto fra valore nominale di rimborso e prezzo di emissione al numero di cedole in 360 giorni, si sottrae 1 e si moltiplica per 100; poi si tolgono commissioni, spese e tasse.
+**Opzione:** Si eleva il rapporto fra valore nominale di rimborso e prezzo di emissione al numero di cedole in 360 giorni, si sottrae 1 e si moltiplica per 100; poi si tolgono commissioni, spese di gestione/amministrazione e tasse.
 **Distrattori:**
-- Si eleva il rapporto fra valore nominale di rimborso e prezzo di emissione al numero di cedole in 360 giorni, si sottrae l'1 % e si moltiplica per 100; poi si tolgono commissioni, spese e tasse.
+- Si eleva il rapporto fra valore nominale di rimborso e prezzo di emissione al numero di cedole in 360 giorni, si sottrae l'1 % e si moltiplica per 100; poi si tolgono commissioni, spese di gestione/amministrazione e tasse.
 - Si calcola la quota di interessi maturati sulle cedole dalla data di stacco e la si aggiunge al corso secco: con cedola annuale al 5 % e 100 giorni trascorsi, è 5 % × 100/365.
 - Si somma al free risk rate il rischio di credito: con free risk rate all'1 % e probabilità di default all'1 %, si ottiene almeno il 2 %.
 
@@ -7881,9 +7881,9 @@
 
 **D:** ⚠️ Perché si cercano investimenti a lunga, e perché ci si finanzia a lunga?
 **R:** **Investimento** — le slide danno **due ragioni distinte**: «possiamo cercare investimenti a lunga **per profittare del tempo a disposizione**» (slide 4) e «nel lungo possiamo aspirare a **rendimenti maggiori** perché possiamo sopportare **maggiore volatilità e tempo**» (slide 5). **Finanziamento** (slide 6): «necessitiamo finanziamenti a lunga ad esempio perché legati ad un **progetto di lungo termine**», che «darà i suoi utili … **soltanto alla fine del progetto stesso**» ([00:00:06]). ⚠️ Le due ragioni dell'investitore sono **due leve diverse** — il **tempo ceduto** e la **volatilità sopportabile** —: una risposta che ne dia una sola è **incompleta**.
-**Opzione:** Si investe a lunga per profittare del tempo a disposizione e perché, potendo sopportare maggiore volatilità e tempo, si può aspirare a rendimenti maggiori; ci si finanzia a lunga perché il fabbisogno è legato a un progetto di lungo termine.
+**Opzione:** Si investe a lunga per profittare del tempo a disposizione e perché, potendo sopportare maggiore volatilità e tempo, si può aspirare a rendimenti maggiori; ci si finanzia a lunga ad esempio perché il fabbisogno è legato a un progetto di lungo termine.
 **Distrattori:**
-- Si investe a lunga per profittare del tempo a disposizione e perché il rendimento è garantito dall'emittente; ci si finanzia a lunga perché il fabbisogno è legato a un progetto di lungo termine.
+- Si investe a lunga per profittare del tempo a disposizione e perché il rendimento è garantito dall'emittente; ci si finanzia a lunga ad esempio perché il fabbisogno è legato a un progetto di lungo termine.
 - Si investe a lunga per tenere una quota di attivo in strumenti a facile utilizzo in caso di necessità o di opportunità; ci si finanzia a lunga per sincronizzare i flussi di un'impresa che ha costi tutto l'anno ma entrate solo in alcuni periodi.
 - Si investe a lunga per impiegare temporanee eccedenze di fondi, e ci si finanzia a lunga per risolvere temporanei fabbisogni di liquidità.
 
@@ -7937,9 +7937,9 @@
 
 **D:** Che cosa significano prezzo, cedola, valore nominale e rendimento a scadenza?
 **R:** Slide 20: **prezzo** = «quanto pago alla **emissione o sul mercato**»; **cedola** = «**flussi periodici**»; **valore nominale** = «**ultimo pagamento**», a cui si somma l'ultima cedola; **rendimento a scadenza (YTM)** = il rendimento «nel caso in cui **aspetto fino all'ultimo giorno**» ([00:05:00]). E la convenzione: «di solito si tratta sul mercato **su base 100 di valore nominale**» — un titolo a prezzo **95** vuol dire che «per ogni **95** che io spendo oggi **riceverò 100 a scadenza**», più le cedole.
-**Opzione:** Prezzo è quanto si paga all'emissione o sul mercato, cedola è il flusso periodico, valore nominale è l'ultimo pagamento, rendimento a scadenza è quello che si ottiene aspettando l'ultimo giorno; sul mercato si tratta su base 100 di valore nominale.
+**Opzione:** Prezzo è quanto si paga all'emissione o sul mercato, cedola è il flusso periodico, valore nominale è l'ultimo pagamento, rendimento a scadenza è quello che si ottiene aspettando l'ultimo giorno; di solito sul mercato si tratta su base 100 di valore nominale.
 **Distrattori:**
-- Prezzo è quanto si paga all'emissione o sul mercato, cedola è il flusso periodico, valore nominale è il primo pagamento, rendimento a scadenza è quello che si ottiene aspettando l'ultimo giorno; sul mercato si tratta su base 100 di valore nominale.
+- Prezzo è quanto si paga all'emissione o sul mercato, cedola è il flusso periodico, valore nominale è il primo pagamento, rendimento a scadenza è quello che si ottiene aspettando l'ultimo giorno; di solito sul mercato si tratta su base 100 di valore nominale.
 - Il rateo è la quota di interessi maturati sulle cedole dalla data di stacco, che si aggiunge al corso secco: con cedola annuale al 5 % e 100 giorni trascorsi, è 5 % × 100/365.
 - Prezzo e valore nominale coincidono con l'unità minima in cui si suddivide il capitale sociale; cedola e rendimento a scadenza sono il dividendo rapportato al prezzo dell'azione.
 
@@ -7969,9 +7969,9 @@
 
 **D:** ⚠️ Con quale norma è stata introdotta la dematerializzazione in Italia, e che cosa dispone?
 **R:** Il **D.Lgs. 213/1998**, **art. 28** (slide 27): «gli **strumenti finanziari negoziati o destinati alla negoziazione sui mercati regolamentati non possono essere rappresentati da titoli**»; gli strumenti «non sono più **incorporati in certificati fisici**, ma sono **rappresentati da iscrizioni nei conti** di una banca o di un altro **intermediario finanziario abilitato** (**società di gestione accentrata**)». ⚠️ È la **chiave della domanda 1** del quiz: il distrattore sostituisce il decreto con la **direttiva MiFID** lasciando intatto tutto il resto, **art. 28 compreso**. ⚠️ L'ambito è limitato agli strumenti «**negoziati o destinati alla negoziazione sui mercati regolamentati**».
-**Opzione:** Il D.Lgs. 213/1998, art. 28: gli strumenti finanziari negoziati o destinati alla negoziazione sui mercati regolamentati non possono essere rappresentati da titoli, ma da iscrizioni nei conti di una banca o di un altro intermediario abilitato.
+**Opzione:** Il D.Lgs. 213/1998, art. 28: gli strumenti finanziari negoziati o destinati alla negoziazione sui mercati regolamentati non possono essere rappresentati da titoli, ma da iscrizioni nei conti di una banca o di un altro intermediario finanziario abilitato.
 **Distrattori:**
-- La direttiva MiFID, art. 28: gli strumenti finanziari negoziati o destinati alla negoziazione sui mercati regolamentati non possono essere rappresentati da titoli, ma da iscrizioni nei conti di una banca o di un altro intermediario abilitato.
+- La direttiva MiFID, art. 28: gli strumenti finanziari negoziati o destinati alla negoziazione sui mercati regolamentati non possono essere rappresentati da titoli, ma da iscrizioni nei conti di una banca o di un altro intermediario finanziario abilitato.
 - Non è stata ancora introdotta nell'ordinamento italiano, ma viene auspicata dalle autorità di vigilanza europee.
 - Il Codice civile, articoli da 2410 a 2420-ter, che disciplina l'emissione di obbligazioni da parte delle società per azioni.
 
@@ -8043,21 +8043,21 @@
 **R:** «**Zero coupon** lo dice il termine: **non ci sono cedole**, ma gli interessi … sono **tutti pagati alla fine**» ([00:14:00]); lo schema della slide 36 ha **due soli flussi**, il prezzo iniziale (in genere **sotto la pari**) e il rimborso a scadenza. ⚠️ È la stessa struttura del **BOT** (lezione 24, slide 17) e del **CTZ**, qui su orizzonte **pluriennale**.
 **Opzione:** Un'obbligazione senza cedole, con due soli flussi: il prezzo pagato all'inizio e il rimborso a scadenza, che incorpora tutti gli interessi.
 **Distrattori:**
-- Un'obbligazione senza cedole, con due soli flussi: il prezzo pagato all'inizio, pari al valore nominale, e il rimborso a scadenza maggiorato di un premio fisso stabilito dall'emittente.
+- Un'obbligazione senza cedole, con due soli flussi: il prezzo pagato all'inizio e il rimborso a scadenza, pari al prezzo pagato e quindi privo di interessi.
 - Un'obbligazione le cui cedole sono azzerate quando i tassi di mercato scendono sotto lo zero, e in tal caso corrisposte per intero alla scadenza.
 - Un'obbligazione le cui cedole vengono automaticamente reinvestite in nuovi titoli dello stesso emittente fino alla scadenza.
 
 **D:** Che cos'è un'obbligazione perpetua, e quali sono le caratteristiche del perpetuo UniCredit?
 **R:** Nella perpetua «non c'è una **scadenza**, ma viene promesso un **flusso costante di cedole**» ([00:14:27]); lo schema della slide 37 chiude con un «**?**». L'esempio (slide 38–39) è **UniCredit 8 % perp. USD**, ISIN **XS1046224884**: «**bond perpetuo in dollari AT1 prezzato alla pari**», **$ 1,25 miliardi**, **payment date 3 aprile 2014**, **rating BB− (Fitch)**, **listing Lux**, **governing law English**; «i titoli sono **perpetui (con scadenza legata alla durata statutaria di UniCredit)** e possono essere **richiamati dall'emittente dopo 10 anni** e successivamente **a ogni data di pagamento cedola**»; la cedola dell'**8 %** vale per i **primi 10 anni**, poi è **ridefinita ogni 5 anni** sul **tasso swap di pari scadenza maggiorato di 518 punti base**. ⚠️ Il transcript dice «1,5 miliardi» e «5.18 base»: valgono le slide, **$ 1,25 miliardi** e **518 punti base**.
-**Opzione:** Senza scadenza, con un flusso costante di cedole; UniCredit paga l'8 % per 10 anni, poi la cedola è ridefinita ogni 5 anni sul tasso swap di pari scadenza più 518 punti base; è richiamabile dall'emittente dopo 10 anni e poi a ogni data cedola.
+**Opzione:** Senza scadenza, con un flusso costante di cedole; UniCredit paga l'8 % per 10 anni, poi, se non viene esercitata la facoltà di rimborso anticipato, la cedola è ridefinita ogni 5 anni sul tasso swap di pari scadenza più 518 punti base; è richiamabile dall'emittente dopo 10 anni e poi a ogni data cedola.
 **Distrattori:**
-- Senza scadenza, con un flusso costante di cedole; UniCredit paga l'8 % per 10 anni, poi la cedola è ridefinita ogni 5 anni sul tasso swap di pari scadenza più 518 punti base; è richiamabile dal sottoscrittore dopo 10 anni e poi a ogni data cedola.
+- Senza scadenza, con un flusso costante di cedole; UniCredit paga l'8 % per 10 anni, poi, se non viene esercitata la facoltà di rimborso anticipato, la cedola è ridefinita ogni 5 anni sul tasso swap di pari scadenza più 518 punti base; è richiamabile dal sottoscrittore dopo 10 anni e poi a ogni data cedola.
 - Un titolo pensato per le esigenze del mercato retail, emesso per la prima volta nel 2012 con un nuovo meccanismo di emissione che utilizza la piattaforma elettronica Mot.
 - Un'obbligazione a tasso variabile Euribor 3 mesi più 2,75 %, con cedole trimestrali, taglio minimo 10.000 euro, scadenza 3 maggio 2025 e possibile rimborso anticipato al 3 maggio 2020.
 
 **D:** ⚠️ Che cosa dice la slide sul pagamento della cedola del perpetuo UniCredit, e perché conta?
 **R:** «Come previsto dai **requisiti regolamentari**, il **pagamento della cedola è discrezionale**» (slide 39). ⚠️ È la riga che il transcript **salta**, ed è il tratto che qualifica un **AT1**: cedola **discrezionale**, titolo **perpetuo**, computabile nel **patrimonio di vigilanza**. Chi lo compra non ha un diritto incondizionato alla cedola — il collegamento è con **Tier 1 / Tier 2** e con la **gerarchia del bail-in** (lezioni 15 e 16).
-**Opzione:** Che il pagamento della cedola è discrezionale, come previsto dai requisiti regolamentari: è il tratto tipico di uno strumento AT1 computabile nel patrimonio di vigilanza.
+**Opzione:** Che il pagamento della cedola è discrezionale, come previsto dai requisiti regolamentari.
 **Distrattori:**
 - Che il pagamento della cedola è garantito da un fondo di garanzia interbancario, come previsto dai requisiti regolamentari.
 - Che il pagamento della cedola è obbligatorio e prioritario rispetto a ogni altro debito, come previsto dai requisiti regolamentari.
@@ -8089,7 +8089,7 @@
 
 **D:** ⚠️ Perché l'obbligazione UBI Banca ha un rating più alto del suo emittente?
 **R:** Perché è una **covered garantita**: la scheda (slide 45) dà **rating emittente BBB− (S&P), Baa3 (Moody's), BBB− (Fitch), BBB (DBRS)** contro **rating obbligazione Aa2 (Moody's), AA (DBRS)**. ⚠️ È la dimostrazione concreta della slide 46: la **garanzia reale** — «un **paniere di beni identificati e segregati**» — **stacca** il merito di credito del titolo da quello di chi lo emette. ⚠️ Il **lotto minimo di 100.000 €** dice inoltre che il titolo **non è destinato al retail**.
-**Opzione:** Perché è una covered bond garantita da un paniere di beni segregati, che stacca il merito di credito del titolo da quello dell'emittente.
+**Opzione:** Perché è una covered bond garantita anche da un paniere di beni identificati e segregati, che stacca il merito di credito del titolo da quello dell'emittente.
 **Distrattori:**
 - Perché è quotata su una borsa estera, il che comporta l'applicazione di criteri di rating più favorevoli.
 - Perché ha una durata residua superiore agli otto anni, e il rating cresce con la durata del titolo.
@@ -8153,9 +8153,9 @@
 
 **D:** ⚠️ Da quali elementi è composta un'obbligazione strutturata?
 **R:** «La loro "struttura" si basa sulla **combinazione di due elementi**» (slide 53): ① «una **componente obbligazionaria ordinaria**, che **può prevedere o meno il pagamento di cedole periodiche** e che **assicura la restituzione del valore nominale del titolo**»; ② «un **contratto derivato**, che fa dipendere la **remunerazione dell'investitore** dall'andamento di **uno o più parametri finanziari o reali**, come **indici o combinazioni di indici di borsa, azioni, fondi comuni, tassi di cambio o materie prime**».
-**Opzione:** Da due elementi: una componente obbligazionaria ordinaria, che assicura la restituzione del valore nominale, e un contratto derivato, che lega la remunerazione a uno o più parametri finanziari o reali.
+**Opzione:** Da due elementi: una componente obbligazionaria ordinaria, che può prevedere o meno il pagamento di cedole periodiche e che assicura la restituzione del valore nominale, e un contratto derivato, che lega la remunerazione a uno o più parametri finanziari o reali.
 **Distrattori:**
-- Da due elementi: una componente obbligazionaria ordinaria, che assicura la restituzione del valore nominale, e una componente azionaria, che attribuisce al sottoscrittore un diritto di voto proporzionale.
+- Da due elementi: una componente obbligazionaria ordinaria, che può prevedere o meno il pagamento di cedole periodiche e che assicura la restituzione del valore nominale, e una componente azionaria, che attribuisce al sottoscrittore un diritto di voto proporzionale.
 - Da tre elementi: una componente obbligazionaria ordinaria, un contratto derivato e una garanzia reale su un paniere di beni segregati.
 - Da due elementi: una componente obbligazionaria ordinaria, che prevede sempre il pagamento di cedole periodiche, e un contratto derivato, che lega il rimborso del capitale alla decisione dell'emittente.
 
@@ -8177,9 +8177,9 @@
 
 **D:** ⚠️ Che cos'è un reverse floater e quando conviene?
 **R:** «Obbligazioni strutturate a **tasso variabile** con **indicizzazione inversa** ad un tasso di interesse che funge da **benchmark**»; «il rendimento … è **inversamente proporzionale** all'andamento dei **tassi di interesse**»; formula **C = S − Tv** (**C** cedola, **S** tasso fisso o spread, **Tv** tasso variabile) — contro il **floater** ordinario, dove **C = Tv + S** e la relazione è **diretta**. «Sono **vantaggiosi se l'investitore prevede che i TASSI si muovano al RIBASSO**», e il rischio è classificato **alto** contro il **basso** del floater (slide 56). ⚠️ Variante più aggressiva citata a voce: «un **tasso fisso, meno a volte il doppio dei tassi variabili**» ([00:19:17]).
-**Opzione:** Un'obbligazione strutturata a tasso variabile con indicizzazione inversa a un tasso benchmark, cedola pari a un tasso fisso meno il tasso variabile: conviene se l'investitore prevede tassi in ribasso.
+**Opzione:** Un'obbligazione strutturata a tasso variabile con indicizzazione inversa a un tasso benchmark, cedola pari a un tasso fisso o spread meno il tasso variabile: conviene se l'investitore prevede tassi in ribasso.
 **Distrattori:**
-- Un'obbligazione strutturata a tasso variabile con indicizzazione inversa a un tasso benchmark, cedola pari a un tasso fisso meno il tasso variabile: conviene se l'investitore prevede tassi in rialzo.
+- Un'obbligazione strutturata a tasso variabile con indicizzazione inversa a un tasso benchmark, cedola pari a un tasso fisso o spread meno il tasso variabile: conviene se l'investitore prevede tassi in rialzo.
 - Un'obbligazione convertibile: al salire dell'azione il suo valore tende a quello dell'azione, al scendere l'opzione perde valore e resta il solo schema di flussi obbligazionario.
 - Un effetto non garantito emesso dalle imprese con scadenza massima a 270 giorni, perché al di sotto di tale scadenza si evita la registrazione presso la SEC, spesso venduto direttamente dall'emittente all'investitore.
 
@@ -8219,9 +8219,9 @@
 
 **D:** ⚠️ Come sono tassate le obbligazioni in Italia?
 **R:** **Due regimi** (slide 8). **Generale**: «la tassazione delle obbligazioni in Italia è pari al **26 %** sia per le **cedole**, sia per le eventuali **plusvalenze** (differenza di prezzo tra acquisto e vendita)». **Agevolato al 12,5 %**: **titoli di Stato italiani**; **obbligazioni dei titoli pubblici territoriali** «come quelle emesse da **comuni, province e regioni**»; quelle emesse da **organismi internazionali**; le **obbligazioni di stato estere e territoriali** di stati inclusi nella **white list**, «dal momento che garantiscono uno **scambio di informazioni adeguato**». ⚠️ Il **26 %** colpisce **entrambe** le componenti del rendimento, non solo le cedole.
-**Opzione:** Al 26 % sia le cedole sia le plusvalenze, con aliquota agevolata al 12,5 % per titoli di Stato italiani, titoli pubblici territoriali, organismi internazionali e stati esteri in white list.
+**Opzione:** Al 26 % sia le cedole sia le plusvalenze, con aliquota agevolata al 12,5 % per titoli di Stato italiani, titoli pubblici territoriali, organismi internazionali e obbligazioni di stato estere e territoriali di stati in white list.
 **Distrattori:**
-- Al 26 % le sole cedole, mentre le plusvalenze sono esenti, con aliquota agevolata al 12,5 % per titoli di Stato italiani, titoli pubblici territoriali, organismi internazionali e stati esteri in white list.
+- Al 26 % le sole cedole, mentre le plusvalenze sono esenti, con aliquota agevolata al 12,5 % per titoli di Stato italiani, titoli pubblici territoriali, organismi internazionali e obbligazioni di stato estere e territoriali di stati in white list.
 - Con aliquote che crescono con la vita residua del titolo, dallo 0,03 % fino a 80 giorni allo 0,15 % da 271 giorni in su.
 - Con una ritenuta fiscale del 27 % e spese di 15 euro, che portano il tasso lordo dell'1,45 % a un rendimento annualizzato dello 0,76 %.
 
@@ -8243,17 +8243,17 @@
 
 **D:** Come si è evoluta la struttura del debito pubblico italiano?
 **R:** «Lo Stato è un emittente **regolare e molto presente** sul mercato italiano. Nel tempo è aumentata **sia la dimensione che la durata media** delle emissioni» (slide 10, con il grafico MEF *Evoluzione della struttura del debito e vita media* 1995–2019). Le due tendenze ([00:02:34]): è aumentata «la quota di indebitamento a **tasso fisso** rispetto a quella a tasso variabile, **per stabilizzare il costo del finanziamento**», ed è aumentata la **durata media**, arrivata «ad avere una durata media **superiore ai 7 anni**, sempre per **rendere più gestibile il debito pubblico**».
-**Opzione:** È cresciuta la quota a tasso fisso rispetto al tasso variabile, per stabilizzare il costo del finanziamento, ed è cresciuta la vita media, oggi superiore ai sette anni.
+**Opzione:** È cresciuta la quota a tasso fisso rispetto al tasso variabile, per stabilizzare il costo del finanziamento, ed è aumentata sia la dimensione che la durata media delle emissioni.
 **Distrattori:**
-- È cresciuta la quota a tasso variabile rispetto al tasso fisso, per stabilizzare il costo del finanziamento, ed è cresciuta la vita media, oggi superiore ai sette anni.
+- È cresciuta la quota a tasso variabile rispetto al tasso fisso, per stabilizzare il costo del finanziamento, ed è aumentata sia la dimensione che la durata media delle emissioni.
 - Dal 1976 al 2015 il periodo medio di detenzione è sceso negli Stati Uniti da 5,1 anni a 7,3 mesi e nel mondo da 3,9 anni a 7,4 mesi.
 - Dalla prima quotazione nel 1896 a 40,96 è salito a quota 1.000 nel 1972, a 2.000 punti negli anni 80 e a 29.000 nel 2020.
 
 **D:** Chi detiene BOT e BTP, e come è cambiato fra il 2014 e il 2019?
 **R:** Slide 11 (elaborazione ABI su dati Banca d'Italia): **Bankitalia e BCE** dal **4,8 %** al **19,5 %**; **banche e istituzioni finanziarie** dal **30,3 %** al **26,5 %**; **finanza e assicurazioni** dal **20 %** al **19,4 %**; **imprese e famiglie** dal **12,2 %** al **5,8 %**; **banche e istituzioni straniere** dal **32,7 %** al **28,8 %**. Totale da **2.202.631** a **2.409.245** milioni. ⚠️ Banche più banche centrali valgono insieme «il 26 e il 19, quindi il **45-46 %** nel 2019» ([00:02:34]); il salto di **Bankitalia/BCE** è l'effetto del **quantitative easing**, e il crollo di imprese e famiglie si spiega perché «si avvalgono in modo **indiretto** di strumenti di **risparmio gestito**» ([00:03:52]).
-**Opzione:** È cresciuta molto la quota di Bankitalia e BCE, dal 4,8 % al 19,5 %, mentre imprese e famiglie sono scese dal 12,2 % al 5,8 % e gli investitori esteri dal 32,7 % al 28,8 %.
+**Opzione:** È cresciuta molto la quota di Bankitalia e BCE, dal 4,8 % al 19,5 %, mentre imprese e famiglie sono scese dal 12,2 % al 5,8 % e banche e istituzioni straniere dal 32,7 % al 28,8 %.
 **Distrattori:**
-- È cresciuta molto la quota di imprese e famiglie, dal 4,8 % al 19,5 %, mentre Bankitalia e BCE sono scese dal 12,2 % al 5,8 % e gli investitori esteri dal 32,7 % al 28,8 %.
+- È cresciuta molto la quota di imprese e famiglie, dal 4,8 % al 19,5 %, mentre Bankitalia e BCE sono scese dal 12,2 % al 5,8 % e banche e istituzioni straniere dal 32,7 % al 28,8 %.
 - Per il 44,7 % in dollari USA, il 24,3 % in euro, il 16,5 % in yen, il 4,6 % in sterline, il 2,7 % in dollari canadesi e il 7,3 % in altre valute.
 - I contributori sono passati dalle 28 banche del panel alle 52 banche che soddisfano i criteri MMSR, con le singole transazioni segnalate al posto dei dati volontari.
 
@@ -8267,10 +8267,10 @@
 
 **D:** ⚠️ Entro quale limite una società per azioni può emettere obbligazioni, e quando il limite può essere superato?
 **R:** «La società può emettere obbligazioni **al portatore o nominative** per somma complessivamente **non eccedente il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato**. Il limite **può essere superato** se le obbligazioni emesse in eccedenza sono destinate alla **sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali**» (slide 13, art. 2412 c.c.). ⚠️ La base di calcolo ha **tre componenti**, non una: il docente la riassume in «il doppio del **capitale sociale**» ([00:04:42]), ma vale la **slide**. ⚠️ La deroga **non abolisce** il limite, **cambia il destinatario**: la *ratio* è proteggere il **retail**.
-**Opzione:** Il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato; il limite può essere superato se l'eccedenza è destinata a investitori professionali soggetti a vigilanza prudenziale.
+**Opzione:** Il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato; il limite può essere superato se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali.
 **Distrattori:**
 - Il doppio del capitale sociale, della riserva legale e delle riserve disponibili risultanti dall'ultimo bilancio approvato; il limite non può essere mai superato.
-- Una scadenza massima di 270 giorni, perché al di sotto di tale scadenza si evita la registrazione presso la SEC; i titoli sono spesso venduti direttamente dall'emittente all'investitore.
+- Il capitale sociale come risultante dall'ultimo bilancio approvato; il limite può essere superato se le obbligazioni emesse in eccedenza sono destinate alla sottoscrizione da parte di investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali.
 - Il capitale sociale come risultante dall'ultimo bilancio approvato; il limite non può essere mai superato.
 
 **D:** 🚨 Che cosa segna la piattaforma sul limite all'emissione di obbligazioni, e perché è sbagliato?
@@ -8294,17 +8294,17 @@
 
 **D:** ⚠️ Come possono indebitarsi le SRL sul mercato?
 **R:** Non emettono obbligazioni ma **titoli di debito**, e con **tre restrizioni** (slide 15): «**se l'atto costitutivo lo prevede**, la società a responsabilità limitata può emettere titoli di debito; in tal caso l'atto costitutivo attribuisce la relativa **competenza ai soci o agli amministratori** determinando gli eventuali **limiti, le modalità e le maggioranze**»; «i titoli emessi possono essere sottoscritti **soltanto da investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali**»; «in caso di **successiva circolazione**, chi li trasferisce **risponde della solvibilità della società** nei confronti degli acquirenti **che non siano investitori professionali ovvero soci della società medesima**». ⚠️ La garanzia di solvibilità a carico del **cedente** è una deroga al diritto comune della cessione del credito, e serve a **impedire che un titolo nato per professionali finisca al retail**.
-**Opzione:** Emettendo titoli di debito se l'atto costitutivo lo prevede, sottoscrivibili solo da investitori professionali; chi li rivende a non professionali risponde della solvibilità della società.
+**Opzione:** Emettendo titoli di debito se l'atto costitutivo lo prevede, sottoscrivibili soltanto da investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali; chi li trasferisce risponde della solvibilità della società verso gli acquirenti che non siano investitori professionali ovvero soci della società.
 **Distrattori:**
-- Emettendo obbligazioni se l'atto costitutivo lo prevede, sottoscrivibili solo da investitori professionali; chi le rivende a non professionali risponde della solvibilità della società.
+- Emettendo obbligazioni se l'atto costitutivo lo prevede, sottoscrivibili soltanto da investitori professionali soggetti a vigilanza prudenziale a norma delle leggi speciali; chi le trasferisce risponde della solvibilità della società verso gli acquirenti che non siano investitori professionali ovvero soci della società.
 - Raccogliendo sul mercato interbancario, dove le banche in eccesso di liquidità offrono il capitale a quelle con scarsità di liquidità.
 - Emettendo obbligazioni e azioni, gli strumenti mobiliari del mercato dei capitali, detti così perché possono essere venduti con tranquillità.
 
 **D:** ⚠️ Che regime hanno le banche per l'emissione di obbligazioni?
 **R:** «Le banche, **in qualunque forma costituite**, possono emettere obbligazioni, **anche convertibili, nominative o al portatore**. Le modalità sono però stabilite in modo **differenziato secondo l'entità del patrimonio di vigilanza degli emittenti**. La normativa è disciplinata dalla **Banca d'Italia**, in conformità alle **deliberazioni del CICR** (**art. 12, comma 5, TUB**). L'emissione delle obbligazioni **non convertibili o convertibili in titoli di altre società** è deliberata dal **consiglio di amministrazione** (e non dall'assemblea, come è prescritto invece per le altre società di capitali) e **non è soggetta al limite di importo rappresentato dal capitale esistente**» (slide 16). ⚠️ La ragione ([00:05:09]): per la banca l'emissione è «il **proprio lavoro**, quello dell'**intermediazione dei capitali**».
-**Opzione:** Delibera il consiglio di amministrazione, senza il limite di importo rappresentato dal capitale; modalità differenziate secondo l'entità del patrimonio di vigilanza, disciplinate dalla Banca d'Italia in conformità alle deliberazioni del CICR.
+**Opzione:** Il consiglio di amministrazione delibera l'emissione di obbligazioni non convertibili o convertibili in titoli di altre società, senza il limite di importo rappresentato dal capitale; modalità differenziate secondo l'entità del patrimonio di vigilanza, disciplinate dalla Banca d'Italia in conformità alle deliberazioni del CICR.
 **Distrattori:**
-- Delibera l'assemblea straordinaria, senza il limite di importo rappresentato dal capitale; modalità differenziate secondo l'entità del patrimonio di vigilanza, disciplinate dalla Banca d'Italia in conformità alle deliberazioni del CICR.
+- L'assemblea straordinaria delibera l'emissione di obbligazioni non convertibili o convertibili in titoli di altre società, senza il limite di importo rappresentato dal capitale; modalità differenziate secondo l'entità del patrimonio di vigilanza, disciplinate dalla Banca d'Italia in conformità alle deliberazioni del CICR.
 - Sono disciplinate dall'art. 23 del D.M. Economia e Finanze n. 216 del dicembre 2009 e dal Decreto Dirigenziale MEF n. 993039 del novembre 2011.
 - Le stabilisce l'atto costitutivo, che ne fissa con la massima libertà contenuto, condizioni, limiti, modalità e termini di esercizio.
 
@@ -8342,9 +8342,9 @@
 
 **D:** ⚠️ Che cos'è il rateo, e come si calcola?
 **R:** «Quando compriamo su un mercato una obbligazione, al **prezzo del titolo** va aggiunta la **quota di interessi maturati sulle cedole previste dal contratto**» (slide 23). Con **cedola annuale al 5 %**, «ogni giorno quel titolo matura … precisamente la **365esima parte** di quel 5 %»; comprandolo dopo **100 giorni** si paga un rateo di **5 % × 100/365**. Il prezzo pubblicato è il **corso secco** ([00:09:16]): si paga **corso secco + rateo**. ⚠️ Il rateo va al **venditore**, che quella parte di cedola l'ha maturata: non è un costo, perché il compratore incasserà la **cedola intera** alla data di stacco.
-**Opzione:** La quota di interessi maturati sulle cedole dalla data di stacco, che si aggiunge al corso secco: con cedola annuale al 5 % e 100 giorni trascorsi, è 5 % × 100/365.
+**Opzione:** La quota di interessi maturati sulle cedole previste dal contratto, che si aggiunge al corso secco: con cedola annuale al 5 % e acquisto dopo 100 giorni dall'emissione, è 5 % × 100/365.
 **Distrattori:**
-- La quota di interessi maturati sulle cedole dalla data di stacco, che si sottrae dal corso secco: con cedola annuale al 5 % e 100 giorni trascorsi, è 5 % × 100/365.
+- La quota di interessi maturati sulle cedole previste dal contratto, che si sottrae dal corso secco: con cedola annuale al 5 % e acquisto dopo 100 giorni dall'emissione, è 5 % × 100/365.
 - Il rendimento tale che il valore attuale dei flussi scontati a quel tasso sia pari al prezzo.
 - Un tasso di riferimento, calcolato giornalmente, che indica il tasso di interesse medio delle transazioni finanziarie in euro tra le principali banche europee.
 
@@ -8353,7 +8353,7 @@
 **Opzione:** Perché per restare scambiabile deve avere un rendimento comparabile con quello delle altre emissioni disponibili sul mercato nel momento della trattazione.
 **Distrattori:**
 - Perché il valore nominale viene rivalutato periodicamente dall'emittente in funzione delle condizioni di mercato.
-- Perché il rateo maturato si somma al corso secco e fa crescere il prezzo giorno dopo giorno fino alla data di stacco della cedola.
+- Perché garantiscono uno scambio di informazioni adeguato.
 - Perché l'emittente ha la facoltà di rinegoziare la cedola ogni volta che le condizioni di mercato cambiano significativamente.
 
 **D:** ⚠️ Come cambia il prezzo del nostro titolo al 5 % se i tassi delle nuove emissioni salgono al 10 %, o scendono all'1 %?
@@ -8374,7 +8374,7 @@
 
 **D:** ⚠️ Come si calcola il rendimento a scadenza di un portafoglio obbligazionario?
 **R:** «Il rendimento a scadenza (**YTM**) del portafoglio titoli è la **media ponderata**» (slide 31). Esempio (slide 32): **Bond 1** YTM **5 %** con investimento **40.000**, **Bond 2** YTM **10 %** con investimento **60.000** → `5 × 40.000/100.000 + 10 × 60.000/100.000 =` **8 %**. ⚠️ I **pesi sono gli importi investiti**: la media semplice darebbe **7,5 %**, che è sbagliato. ⚠️ È la **chiave della domanda 5** del quiz.
-**Opzione:** È la media ponderata dei rendimenti delle singole obbligazioni, con pesi pari agli importi investiti.
+**Opzione:** È la media ponderata dei rendimenti delle singole obbligazioni.
 **Distrattori:**
 - È la somma algebrica dei rendimenti delle singole obbligazioni.
 - È il rendimento della obbligazione con scadenza più elevata.
@@ -8393,7 +8393,7 @@
 **Opzione:** Tempo, credito, divisa, vendibilità e considerazioni di carattere legale.
 **Distrattori:**
 - Tempo, credito, divisa, vendibilità e regime fiscale applicabile.
-- Tempo, credito, divisa e vendibilità.
+- Stati sovrani, Enti territoriali, banche e imprese.
 - Tempo, credito, dimensione dell'emissione, vendibilità e considerazioni di carattere legale.
 
 **D:** Che cos'è una normal yield curve, e che forma aveva quella dei titoli AAA in euro nel 2018?
@@ -8528,9 +8528,9 @@
 
 **D:** Quali fattori considera il BFSR e come è graduato?
 **R:** Considera «la **solidità e la performance potenziale dell'economia** in cui le singole banche operano, la **struttura e la fragilità relativa del sistema finanziario**, nonché la **qualità della regolamentazione e della vigilanza** cui il settore bancario è sottoposto» (slide 12) — quindi elementi **di sistema**, non solo di bilancio. La scala (slide 15) va da **A** («solidità finanziaria intrinseca **superiore**, con un'operatività prevedibile e stabile») a **E** («solidità finanziaria **molto modesta**, con un livello di operatività molto imprevedibile e instabile»). ⚠️ È una scala di **lettere singole A–E**, da non confondere con la scala ordinaria **Aaa–C** né con quella di breve termine **P-1/P-2/P-3/NP**.
-**Opzione:** Solidità e performance potenziale dell'economia, struttura e fragilità relativa del sistema finanziario, qualità della regolamentazione e della vigilanza; scala di lettere singole da A a E.
+**Opzione:** Diversi fattori di rischio latenti, tra cui solidità e performance potenziale dell'economia, struttura e fragilità relativa del sistema finanziario, qualità della regolamentazione e della vigilanza; scala di lettere singole da A a E.
 **Distrattori:**
-- Solidità e performance potenziale dell'economia, struttura e fragilità relativa del sistema finanziario, qualità della regolamentazione e della vigilanza; scala da Aaa a C.
+- Diversi fattori di rischio latenti, tra cui solidità e performance potenziale dell'economia, struttura e fragilità relativa del sistema finanziario, qualità della regolamentazione e della vigilanza; scala da Aaa a C.
 - Le attese sugli utili e dividendi, le attese su economia, mercati e settori, e la liquidità del mercato con l'emotività degli investitori.
 - Tempo, credito, divisa, vendibilità e considerazioni di carattere legale.
 
@@ -8624,11 +8624,11 @@
 
 **D:** ⚠️ Qual è il principale dubbio sull'operato delle agenzie di rating?
 **R:** Il **conflitto di interesse** (slide 39): «nonostante **aspirino ad avere un ruolo di terzietà**, **non sono soggetti terzi a finanziare le loro costose analisi** che portano all'emissione del rating, ma le **stesse società valutate** o **singoli investitori con molta liquidità da allocare**». ⚠️ **Paga il valutato**, e il solo contrappeso è la **reputazione**: «è vero che hanno un **problema di credibilità**, ma il **rischio di essere condizionati** ovviamente c'è» ([00:13:17]). I dubbi sono alimentati (slide 37) dal «**mancato riconoscimento dei rischi sottostanti** aziende come **Enron, Parmalat o Lehman Brothers**» e dai «problemi causati alle **finanze pubbliche** ed all'**economia degli Stati** i cui debiti pubblici sono stati **declassati**».
-**Opzione:** Il conflitto di interesse: a finanziare le analisi non sono soggetti terzi ma le stesse società valutate, o investitori con molta liquidità da allocare.
+**Opzione:** Il potenziale conflitto di interesse: a finanziare le analisi non sono soggetti terzi ma le stesse società valutate, o singoli investitori con molta liquidità da allocare.
 **Distrattori:**
-- Il conflitto di interesse: a finanziare le analisi non sono le società valutate ma le autorità di vigilanza degli Stati in cui esse operano.
+- Il potenziale conflitto di interesse: a finanziare le analisi non sono le società valutate ma le autorità di vigilanza degli Stati in cui esse operano.
 - La scarsa trasparenza delle metodologie di calcolo, che le agenzie non sono tenute a pubblicare in alcuna forma.
-- Il conflitto di interesse: le agenzie di rating detengono partecipazioni azionarie nelle società che valutano.
+- Il potenziale conflitto di interesse: le agenzie di rating detengono partecipazioni azionarie nelle società che valutano.
 
 **D:** ⚠️ Che cosa sono l'aggiotaggio e l'insider trading nel contesto delle agenzie di rating?
 **R:** Slide 40, dalla possibilità che un rating «**qualora negativo, non venga pubblicato**»: **aggiotaggio** = «**omissione di comunicazione al mercato di informazioni in grado di modificare il prezzo del titolo** che, per la teoria economica, deve **incorporare nel prezzo tutte le informazioni disponibili in un dato istante**»; **insider trading** = «**trading da parte di attori che abbiano a disposizione informazioni riservate non disponibili al pubblico**». «Nella sostanza l'**omissione o la diffusione tardiva** potrebbe **favorire un cliente dell'agenzia** che avesse accesso prima a quelle informazioni, **per le quali potrebbe pagare**». ⚠️ Il primo è un fatto di **omissione verso il mercato**, il secondo di **uso di informazioni riservate**.
@@ -8648,7 +8648,7 @@
 
 **D:** ⚠️ A chi spetta la vigilanza sulle agenzie di rating?
 **R:** «La normativa europea prevede che la vigilanza delle agenzie di rating spetti alle **autorità competenti dello Stato membro di origine (in Italia la Consob)**, in collaborazione con le **autorità competenti degli altri Stati membri interessati**, avvalendosi del **collegio competente** e **coinvolgendo l'Autorità europea degli strumenti finanziari e dei mercati (ESMA)**» (slide 42). ⚠️ **Il titolare è l'autorità nazionale, l'ESMA è coinvolta**: il transcript dice «soggette a vigilanza **da parte dell'ESMA**» ([00:14:24]), ma vale la slide — ed è la **chiave della domanda 5** del quiz, dove **l'ESMA non compare in nessuna delle quattro opzioni**. ⚠️ I distrattori mettono al posto della Consob la **BCE** e l'**UIF**, quest'ultima presa dalla lezione 19.
-**Opzione:** Alle autorità competenti dello Stato membro di origine, in Italia la Consob, in collaborazione con le autorità degli altri Stati membri interessati e coinvolgendo l'ESMA.
+**Opzione:** Alle autorità competenti dello Stato membro di origine, in Italia la Consob, in collaborazione con le autorità competenti degli altri Stati membri interessati, avvalendosi del collegio competente e coinvolgendo l'ESMA.
 **Distrattori:**
 - All'ESMA in via esclusiva, senza coinvolgimento delle autorità competenti dei singoli Stati membri.
 - Alla BCE in via esclusiva, nell'ambito del meccanismo di vigilanza unico.
@@ -8688,17 +8688,17 @@
 
 **D:** ⚠️ Quali fattori si considerano nell'attribuzione del rating sovrano?
 **R:** **Sette** (slide 48): **① reddito pro-capite · ② inflazione · ③ bilancia dei pagamenti · ④ indebitamento · ⑤ grado di sviluppo economico · ⑥ crescita del PIL · ⑦ storia dei fallimenti**. La slide premette che sono «molti fattori (**economici, sociali e politici**)» e che «è **difficile definire il peso** da attribuire a ciascun fattore». ⚠️ Il primo è il reddito **pro-capite**, non il reddito complessivo: il transcript dice solo «il reddito» ([00:16:49]). ⚠️ La coda dell'elenco — la **storia dei fallimenti** — è la voce che si dimentica.
-**Opzione:** Reddito pro-capite, inflazione, bilancia dei pagamenti, indebitamento, grado di sviluppo economico, crescita del PIL e storia dei fallimenti.
+**Opzione:** Tra i principali: reddito pro-capite, inflazione, bilancia dei pagamenti, indebitamento, grado di sviluppo economico, crescita del PIL e storia dei fallimenti.
 **Distrattori:**
-- Reddito pro-capite, inflazione, bilancia dei pagamenti, indebitamento, grado di sviluppo economico, crescita del PIL e appartenenza a un'unione monetaria.
+- Esclusivamente questi: reddito pro-capite, inflazione, bilancia dei pagamenti, indebitamento, grado di sviluppo economico, crescita del PIL e storia dei fallimenti.
 - Titoli equity/index linked, titoli commodity related, obbligazioni reverse floaters e certificati, distinti in reverse convertible semplice e combinato.
 - Commissioni di ingresso, di gestione, di performance, d'uscita e altri costi.
 
 **D:** ⚠️ Perché il rating sovrano è criticato come stima di default?
 **R:** Perché è «più una **valutazione qualitativa di rischio, legata a livello e sostenibilità del debito**» che una vera stima di probabilità (slide 49), anche perché «è **difficile definire il peso** da attribuire a ciascun fattore» (slide 48). E soprattutto: «gli Stati possono cadere in default **se il debito è in valuta estera**. Se il debito è in **valuta locale**, in teoria la **banca centrale può stampare moneta**, anche se in questo modo la valuta ha **maggiore probabilità di perdere valore** (**inflazione e cambio**)». ⚠️ Chi si indebita **nella propria moneta** non fallisce per **impossibilità** ma per **scelta**. ⚠️ Nell'**area euro** questa via **non esiste**: il **finanziamento monetario del settore pubblico è vietato** (art. 123 TFUE, lezione 18), ed è la ragione per cui il rating sovrano **pesa di più** per uno Stato dell'euro.
-**Opzione:** Perché è più una valutazione qualitativa legata a livello e sostenibilità del debito, e perché uno Stato indebitato in valuta locale può in teoria far stampare moneta, pagando però in inflazione e cambio.
+**Opzione:** Perché è più una valutazione qualitativa legata a livello e sostenibilità del debito, e perché uno Stato indebitato in valuta locale può in teoria far stampare moneta, anche se così la valuta ha maggiore probabilità di perdere valore (inflazione e cambio).
 **Distrattori:**
-- Perché è più una valutazione qualitativa legata a livello e sostenibilità del debito, e perché uno Stato indebitato in valuta estera può in teoria far stampare moneta, pagando però in inflazione e cambio.
+- Perché è più una valutazione qualitativa legata a livello e sostenibilità del debito, e perché uno Stato indebitato in valuta estera può in teoria far stampare moneta, anche se così la valuta ha maggiore probabilità di perdere valore (inflazione e cambio).
 - Perché si fonda esclusivamente su indicatori quantitativi di bilancio, che non colgono i fattori politici e sociali.
 - Perché è più una valutazione qualitativa legata a livello e sostenibilità del debito, e perché nessuno Stato sovrano è mai andato in default nella storia recente.
 
@@ -8927,9 +8927,9 @@
 
 **D:** Su che cosa delibera l'assemblea speciale degli azionisti di risparmio?
 **R:** Slide 22 — «i possessori di azioni di risparmio si riuniscono in una **assemblea speciale** per la **tutela dei loro diritti**»; delibera su: ① **nomina e revoca del rappresentante comune** e **azione di responsabilità** nei suoi confronti; ② **approvazione delle deliberazioni dell'assemblea della società che pregiudicano i diritti della categoria**; ③ **costituzione di un fondo per le spese** necessarie alla tutela dei comuni interessi e relativo **rendiconto**; ④ **transazione delle controversie con la società**; ⑤ **altri oggetti d'interesse comune**. ⚠️ La coda dell'elenco è **«sugli altri oggetti d'interesse comune»**: è una clausola **aperta**.
-**Opzione:** Nomina e revoca del rappresentante comune e azione di responsabilità, approvazione delle delibere pregiudizievoli per la categoria, fondo spese e rendiconto, transazione delle controversie e altri oggetti d'interesse comune.
+**Opzione:** Nomina e revoca del rappresentante comune e azione di responsabilità nei suoi confronti; approvazione delle deliberazioni dell'assemblea della società che pregiudicano i diritti della categoria; costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e relativo rendiconto; transazione delle controversie con la società; altri oggetti d'interesse comune.
 **Distrattori:**
-- Nomina e revoca del rappresentante comune e azione di responsabilità, approvazione delle delibere pregiudizievoli per la categoria, fondo spese e rendiconto, transazione delle controversie e approvazione del bilancio della società.
+- Nomina e revoca del rappresentante comune e azione di responsabilità nei suoi confronti; approvazione delle deliberazioni dell'assemblea della società che pregiudicano i diritti della categoria; costituzione di un fondo per le spese necessarie alla tutela dei comuni interessi e relativo rendiconto; transazione delle controversie con la società; approvazione del bilancio della società.
 - Eliminazione di furti e titoli falsi, risparmio dei costi di stampa, riduzione dei costi di movimentazione e pagamento di interessi e capitale per accredito.
 - Diversificazione, gestione dei tagli, gestione della liquidità, riduzione dei costi e accesso alle competenze professionali.
 
@@ -9019,7 +9019,7 @@
 **Distrattori:**
 - La somma dei dividendi attesi non scontati più il prezzo atteso alla fine del periodo di detenzione, scontato a un appropriato tasso.
 - La somma dei dividendi già incassati più il prezzo corrente di mercato, entrambi scontati a un appropriato tasso.
-- La somma dei dividendi attesi scontati più il valore di liquidazione dell'azienda alla fine della sua vita, anch'esso scontato.
+- La somma dei dividendi attesi scontati a un appropriato tasso più il prezzo atteso alla fine del periodo di detenzione, non scontato.
 
 **D:** ⚠️ Nella formula del prezzo di un'azione, che cosa sono P₀ e n?
 **R:** Slide 43, alla lettera: **P₀ = prezzo corrente** e **n = numero di anni di detenzione azioni**. ⚠️ Sono le due voci che l'esame torce più facilmente: **P₀ è il prezzo di *oggi***, non quello atteso (che è **E(Pₙ)**); e **n** misura **quanto si tiene il titolo**, non la vita residua dell'azienda — coerentemente con la slide 42, dove il flusso finale è un **prezzo di vendita** e non un valore di liquidazione.
@@ -9031,9 +9031,9 @@
 
 **D:** Perché stimare il valore di un'azienda è difficile?
 **R:** Slide 44–46, tre blocchi. **Sugli utili**: «**non tutti hanno le stesse stime degli utili**», è un «**evento incerto**». **Sugli investitori**: «**non tutti hanno le stesse informazioni**», «la **percezione del rischio può essere diversa**», e la posizione cambia fra **azionista di minoranza e di maggioranza** — il primo «è interessato soprattutto alla **parte finanziaria**» ([00:14:19]). **Sull'azienda**: «può **cambiare continuamente azionisti, manager, modello di sviluppo**», per **input interni** o **input esterni** — «è un **corpo vivente**». ⚠️ «Non tutti hanno le stesse informazioni» è l'**asimmetria informativa** che alla lezione 27 faceva nascere le **agenzie di rating**: per l'azionista non c'è un equivalente, ci sono gli **analisti**, che danno **raccomandazioni** e non giudizi ordinali.
-**Opzione:** Perché gli utili futuri sono un evento incerto, non tutti hanno le stesse stime né le stesse informazioni, la percezione del rischio varia e l'azienda cambia continuamente per input interni ed esterni.
+**Opzione:** Perché gli utili futuri sono un evento incerto e non tutti hanno le stesse stime degli utili né le stesse informazioni; la percezione del rischio può essere diversa, così come la posizione dell'azionista di minoranza e di maggioranza; l'azienda può cambiare continuamente azionisti, manager, modello di sviluppo, per input interni ed esterni.
 **Distrattori:**
-- Perché gli utili futuri sono un evento incerto e non tutti hanno le stesse stime, mentre informazioni e percezione del rischio sono uguali per tutti gli investitori.
+- Perché gli utili futuri sono un evento incerto e non tutti hanno le stesse stime degli utili, pur avendo tutti le stesse informazioni; la percezione del rischio può essere diversa, così come la posizione dell'azionista di minoranza e di maggioranza; l'azienda può cambiare continuamente azionisti, manager, modello di sviluppo, per input interni ed esterni.
 - Perché gli utili futuri sono un evento incerto e l'azienda cambia continuamente, ma solo per input esterni legati alle condizioni generali dell'economia.
 - Perché gli utili futuri sono certi ma la loro distribuzione è discrezionale, e la percezione del rischio varia fra azionisti di minoranza e di maggioranza.
 
@@ -9041,9 +9041,9 @@
 **R:** **Cinque** (slide 47): **dividendi** · **utili** · **flussi di cassa** · **teoria delle opzioni** · **modelli comparativi**. La **teoria delle opzioni** «tiene conto anche di **ciò che oggi non c'è in azienda ma che potrebbe essere**»; i **comparativi** lavorano «rispetto ad **altre aziende con i multipli**»; e «normalmente si cerca di **mediare tra approcci diversi**» ([00:15:40]). ⚠️ La **coda dell'elenco** — opzioni e comparativi — è quella che si dimentica, e sono le due voci **non** basate su flussi storici.
 **Opzione:** Modelli basati su dividendi, utili e flussi di cassa, più la teoria delle opzioni e i modelli comparativi.
 **Distrattori:**
-- Modelli basati su dividendi, utili e flussi di cassa, più i modelli comparativi.
 - Modelli basati su dividendi, utili e flussi di cassa, più la teoria delle opzioni e i giudizi delle agenzie di rating.
-- Modelli basati su dividendi, utili e patrimonio netto contabile, più la teoria delle opzioni e i modelli comparativi.
+- Le attese sugli utili e dividendi, le attese su economia, mercati e settori, e la liquidità del mercato con l'emotività degli investitori.
+- Fondi di liquidità, obbligazionari, bilanciati, azionari e flessibili.
 
 **D:** Di che cosa si occupa l'analista azionario?
 **R:** Slide 50: «si occupa **professionalmente** di **analizzare i titoli azionari delle aziende quotate**, attraverso lo **studio delle notizie e dei documenti contabili e finanziari relativi alla società e al settore in cui opera**». La catena della slide 51 è **Economic Analysis → Industry Analysis → Company Analysis**. ⚠️ L'oggetto sono le **aziende quotate**, e le fonti sono **due**: **notizie** *e* **documenti contabili e finanziari** — non solo il bilancio.
@@ -9167,9 +9167,9 @@
 
 **D:** ⚠️ Come sono definiti CAC 40, DAX 30 e IBEX 35?
 **R:** Slide 22. **CAC 40**: «indice azionario della **Borsa di Parigi**, prevede la quotazione dei **40 titoli a più elevata capitalizzazione e liquidità**». **DAX 30**: «principale indice della **Borsa di Francoforte** **introdotto nel 1988** che comprende i primi **30 titoli di aziende tedesche** per **capitalizzazione e liquidità**». **IBEX 35**: «indice del mercato azionario **spagnolo** composto dai **35 titoli** che **nei sei mesi precedenti** alla definizione dell'indice si sono rivelati i **più liquidi** sul mercato». ⚠️ L'**IBEX 35** è l'unico che usa una **finestra temporale** (sei mesi) e l'unico selezionato **solo sulla liquidità**; il **DAX** è l'unico con una **data di nascita** nella definizione.
-**Opzione:** CAC 40 sono i 40 titoli più capitalizzati e liquidi di Parigi, DAX 30 i primi 30 titoli tedeschi di Francoforte dal 1988, IBEX 35 i 35 titoli più liquidi nei sei mesi precedenti in Spagna.
+**Opzione:** CAC 40 sono i 40 titoli più capitalizzati e liquidi di Parigi, DAX 30, dal 1988, i primi 30 titoli tedeschi di Francoforte per capitalizzazione e liquidità, IBEX 35 i 35 titoli più liquidi nei sei mesi precedenti in Spagna.
 **Distrattori:**
-- CAC 40 sono i 40 titoli più capitalizzati e liquidi di Parigi, DAX 30 i primi 30 titoli tedeschi di Francoforte dal 1988, IBEX 35 i 35 titoli più capitalizzati nei sei mesi precedenti in Spagna.
+- CAC 40 sono i 40 titoli più capitalizzati e liquidi di Parigi, DAX 30, dal 1988, i primi 30 titoli tedeschi di Francoforte per capitalizzazione e liquidità, IBEX 35 i 35 titoli più capitalizzati nei sei mesi precedenti in Spagna.
 - Le 500 aziende statunitensi a maggiore capitalizzazione quotate al New York Stock Exchange, all'American Stock Exchange e al Nasdaq.
 - L'Italia è al 78% retail; i più istituzionali sono Francia (45%) e Germania (46%), i più retail Croazia (98%), Romania (97%) e Ungheria (96%).
 
@@ -9286,9 +9286,9 @@
 
 **D:** ⚠️ Quanto hanno reso le diverse attività fra il 1870 e il 2015?
 **R:** Slide 49, dallo studio «**The Rate of Return on Everything, 1870–2015**» (**Jordà, Knoll, Kuvshinov, Schularick, Taylor**, **marzo 2019**) — rendimenti medi annuali, **Italia / Mondo**: **azioni 7,52 % / 7,04 %** · **immobili 4,77 % / 6,69 %** · **obbligazioni 3,19 % / 2,62 %** · **titoli di Stato a breve termine 1,37 % / 1,15 %**. ⚠️ Il dato controintuitivo: in Italia le **azioni** rendono **più** che nel mondo, ma gli **immobili molto meno** — «gli immobili lo sono state molto meno in Italia rispetto all'estero» ([00:19:39]).
-**Opzione:** Le azioni sono state di gran lunga l'attività più redditizia, con il 7,52 per cento in Italia e il 7,04 nel mondo; gli immobili hanno reso molto meno in Italia che all'estero.
+**Opzione:** Le azioni sono state di gran lunga l'attività più redditizia, con il 7,32 per cento in Italia e il 7,04 nel mondo; gli immobili hanno reso molto meno in Italia che all'estero.
 **Distrattori:**
-- Le azioni sono state di gran lunga l'attività più redditizia, con il 7,52 per cento in Italia e il 7,04 nel mondo; gli immobili hanno reso molto più in Italia che all'estero.
+- Le azioni sono state di gran lunga l'attività più redditizia, con il 7,32 per cento in Italia e il 7,04 nel mondo; gli immobili hanno reso molto più in Italia che all'estero.
 - I dividendi sono aumentati in tutti i paesi considerati tranne la Spagna, con la Francia da 52,1 a 63,9 miliardi di dollari e l'Italia da 12,4 a 16,0.
 - È cresciuta molto la quota di Bankitalia e BCE, dal 4,8 % al 19,5 %, mentre imprese e famiglie sono scese dal 12,2 % al 5,8 % e gli investitori esteri dal 32,7 % al 28,8 %.
 
@@ -9318,9 +9318,9 @@
 
 **D:** Di quali due elementi si compone un'obbligazione strutturata?
 **R:** Slide 59: «una **componente obbligazionaria ordinaria**, che **può prevedere o meno il pagamento di cedole periodiche** e che **assicura la restituzione del valore nominale del titolo**»; e «un **contratto derivato**, che fa dipendere la **remunerazione dell'investitore dall'andamento di uno o più parametri finanziari o reali**, come ad esempio **indici o combinazioni di indici di borsa, azioni, fondi comuni, tassi di cambio o materie prime**». ⚠️ La componente obbligazionaria **assicura il valore nominale**; è la componente **derivata** a rendere incerta la **remunerazione**.
-**Opzione:** Una componente obbligazionaria ordinaria, che assicura la restituzione del valore nominale, e un contratto derivato, che lega la remunerazione a uno o più parametri finanziari o reali.
+**Opzione:** Una componente obbligazionaria ordinaria, che può prevedere o meno il pagamento di cedole periodiche e assicura la restituzione del valore nominale, e un contratto derivato, che lega la remunerazione a uno o più parametri finanziari o reali.
 **Distrattori:**
-- Una componente obbligazionaria ordinaria, che assicura una cedola periodica fissa, e un contratto derivato, che lega la restituzione del valore nominale a uno o più parametri finanziari o reali.
+- Una componente obbligazionaria ordinaria, che assicura il pagamento di cedole periodiche e la restituzione del valore nominale, e un contratto derivato, che lega la remunerazione a uno o più parametri finanziari o reali.
 - Il rischio che il debitore non paghi e il rischio che non paghi nei tempi promessi.
 - Il valore del tempo per investimenti senza rischio e il rischio dell'impresa e dell'attività economica in generale.
 
@@ -9513,9 +9513,9 @@
 
 **D:** Quali sono le caratteristiche e i principali utilizzi dei fondi chiusi?
 **R:** Slide 27. **Caratteristiche**, due: **scadenza di lungo periodo, in genere 10–15 anni** · **ammontare in ingresso generalmente superiore a quello di altri fondi**. **Principali utilizzi**, tre: **investimenti nel settore immobiliare** · **capitale di rischio delle imprese** · **investimenti nella fase di start up di un'attività**. Il transcript dà la ragione comune: sono impieghi «che hanno una **maggiore difficoltà di liquidazione** o hanno **tempi di investimento più lunghi**» ([00:08:58]), mentre nel fondo aperto «la sottoscrizione può venire anche per **mille euro**».
-**Opzione:** Scadenza di 10–15 anni e ammontare in ingresso superiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
+**Opzione:** Scadenza di lungo periodo, in genere 10–15 anni, e ammontare in ingresso generalmente superiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
 **Distrattori:**
-- Scadenza di 10–15 anni e ammontare in ingresso inferiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
+- Scadenza di lungo periodo, in genere 10–15 anni, e ammontare in ingresso generalmente inferiore a quello di altri fondi; si usano per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up di un'attività.
 - Valutazione dei rischi di credito per le regole di Basilea, limiti agli investimenti delle autorità pubbliche e di enti, prospetti di fondi comuni e gestioni individuali, limiti ai fondi pensione.
 - Fondi che investono almeno il 70% del patrimonio in azioni, con rischio generalmente elevato, divisi per area geografica o per settore.
 
@@ -9569,9 +9569,9 @@
 
 **D:** ⚠️ Che cosa sono i costi direttamente sostenuti dall'investitore e da che cosa dipende il loro ammontare?
 **R:** Slide 33: «includono le **commissioni di ingresso** pagate al momento della **sottoscrizione delle quote** e quelle di **uscita** pagate al momento del **riscatto**. Solitamente **le prime decrescono con l'aumentare dell'entità dell'investimento** mentre **le secondo [seconde] diminuiscono in funzione del periodo di permanenza nel fondo**. Sono delle **componenti opzionali** in quanto **non tutti i fondi ne prevedono l'applicazione**». ⚠️ **I due criteri sono diversi e vanno tenuti distinti**: ingresso → **entità dell'investimento**; uscita → **periodo di permanenza**. Il transcript li appiattisce entrambi sull'ammontare ([00:11:44]), ma la slide li separa, ed è una matrice 2×2 già pronta per un distrattore.
-**Opzione:** Le commissioni di ingresso e di uscita: le prime decrescono con l'aumentare dell'entità dell'investimento, le seconde in funzione del periodo di permanenza nel fondo; sono componenti opzionali.
+**Opzione:** Le commissioni di ingresso e di uscita: solitamente le prime decrescono con l'aumentare dell'entità dell'investimento, le seconde in funzione del periodo di permanenza nel fondo; sono componenti opzionali.
 **Distrattori:**
-- Le commissioni di ingresso e di uscita: le prime decrescono in funzione del periodo di permanenza nel fondo, le seconde con l'aumentare dell'entità dell'investimento; sono componenti opzionali.
+- Le commissioni di ingresso e di uscita: solitamente le prime decrescono in funzione del periodo di permanenza nel fondo, le seconde con l'aumentare dell'entità dell'investimento; sono componenti opzionali.
 - La commissione di gestione, corrisposta mensilmente o trimestralmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta annualmente.
 - Il fondo spese, anticipato dalla società, che può rivalersi sugli utili spettanti agli azionisti di risparmio in eccedenza al minimo eventualmente garantito.
 
@@ -9593,10 +9593,10 @@
 
 **D:** Che cosa bisogna valutare nella scelta di un fondo?
 **R:** Slide 36: «la **capacità dei gestori di effettuare il proprio servizio con continuità ed efficacia** (**performance, confronto con mercato e competitors, costi, rischio**..)», e «oltre l'aiuto di **intermediari finanziari e consulenti**, sta nascendo una **vera e propria industria di valutazione delle competenze**». Il transcript nomina **Morningstar**, «che dà una valutazione da **1 a 5 stelle**», e **Fitch**, «con le **coroncine da 1 a 5**» ([00:13:24]). ⚠️ **Il costo non è il solo criterio**: «possiamo pagare anche dei **costi elevati purché ci sia una capacità superiore di gestione**».
-**Opzione:** La capacità dei gestori di effettuare il servizio con continuità ed efficacia: performance, confronto con mercato e competitors, costi, rischio.
+**Opzione:** La capacità dei gestori di effettuare il proprio servizio con continuità ed efficacia (performance, confronto con mercato e competitors, costi, rischio…).
 **Distrattori:**
 - Esclusivamente il livello dei costi, misurato dal TER e dal TSC del fondo.
-- La capacità dei gestori di effettuare il servizio con continuità ed efficacia: performance, confronto con mercato e competitors, costi, rischio, purché il fondo abbia almeno cinque anni di storia.
+- La capacità dei gestori di effettuare il proprio servizio con continuità ed efficacia (performance, confronto con mercato e competitors, costi, rischio…), purché il fondo abbia almeno cinque anni di storia.
 - La dimensione del patrimonio gestito e l'appartenenza del gestore a un gruppo bancario italiano.
 
 **D:** Che cosa sono le SICAV?
@@ -9721,9 +9721,9 @@
 
 **D:** Perché i fondi comuni sono raggruppati in macro categorie?
 **R:** Slide 14: «i Fondi Comuni di Investimento **condividono lo stesso meccanismo di funzionamento, ma non sono tutti uguali**. La **distinzione principale riguarda le attività finanziarie nelle quali investono** e, di conseguenza, il **rischio e il rendimento potenziale** che li caratterizza». L'esempio della slide: «acquistare un fondo che assume principalmente **esposizioni sulle Borse dei Paesi Emergenti** è ben diverso dall'acquistare un fondo che investe in **titoli di Stato dei Paesi europei**». ⚠️ Il criterio è **l'attività finanziaria in cui si investe**, e rischio e rendimento ne sono la **conseguenza**, non la causa.
-**Opzione:** Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda le attività finanziarie in cui investono e, di conseguenza, il rischio e il rendimento potenziale.
+**Opzione:** Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione principale riguarda le attività finanziarie in cui investono e, di conseguenza, il rischio e il rendimento potenziale.
 **Distrattori:**
-- Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione riguarda il rischio e il rendimento potenziale e, di conseguenza, le attività finanziarie in cui investono.
+- Perché condividono lo stesso meccanismo ma non sono tutti uguali: la distinzione principale riguarda il rischio e il rendimento potenziale e, di conseguenza, le attività finanziarie in cui investono.
 - Perché le leggi stabiliscono in modo rigido la tipologia di attività che ogni singolo intermediario autorizzato può svolgere.
 - Perché riuniscono le risorse finanziarie di una pluralità di risparmiatori in un unico patrimonio indifferenziato, investito in attività finanziarie.
 
@@ -9745,17 +9745,17 @@
 
 **D:** Che cosa sono i fondi di liquidità?
 **R:** Slide 16: «noti anche come **FONDI MONETARI**. Sono i **prodotti a rischio più contenuto**: investono infatti in **strumenti del mercato monetario** (**impieghi a breve scadenza**), le cui **oscillazioni sono piuttosto limitate**. Si distinguono a seconda della **valuta in cui sono denominati gli strumenti sottostanti**». ⚠️ Sono i **meno rischiosi** delle cinque categorie, e il criterio di sottodistinzione è **la valuta** — non la scadenza né l'emittente.
-**Opzione:** I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, impieghi a breve scadenza con oscillazioni limitate, e si distinguono per la valuta dei sottostanti.
+**Opzione:** I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, impieghi a breve scadenza con oscillazioni piuttosto limitate, e si distinguono per la valuta dei sottostanti.
 **Distrattori:**
-- I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, impieghi a breve scadenza con oscillazioni limitate, e si distinguono per l'emittente dei sottostanti.
+- I prodotti a rischio più contenuto: investono in strumenti del mercato monetario, impieghi a breve scadenza con oscillazioni piuttosto limitate, e si distinguono per l'emittente dei sottostanti.
 - Fondi con scadenza di 10–15 anni e ammontare in ingresso superiore a quello di altri fondi, usati per il settore immobiliare, il capitale di rischio delle imprese e la fase di start up.
 - Macro Fund, Arbitrage Fund e Fondi Equity Hedge, di cui l'Arbitrage Fund è considerato il meno rischioso.
 
 **D:** Che cosa sono i fondi obbligazionari e da che cosa dipende il loro rischio?
 **R:** Slide 17: «prevedono la presenza di **obbligazioni per almeno il 70% del patrimonio**. Si distinguono a seconda che investano in **titoli di Stato** piuttosto che in **obbligazioni emesse da aziende (corporate)**, ma anche per la **valuta** delle obbligazioni in portafoglio. Da questi parametri dipende il loro **livello di rischio**, tendenzialmente **più moderato per l'investimento in titoli di Stato**, **più accentuato per le obbligazioni corporate e per i titoli denominati in valute estere**». ⚠️ **Due parametri, non uno**: emittente **e** valuta. E la soglia è **almeno il 70%**, la stessa dei **fondi azionari** ma su oggetto opposto.
-**Opzione:** Fondi con obbligazioni per almeno il 70% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
+**Opzione:** Fondi con obbligazioni per almeno il 70% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è tendenzialmente più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
 **Distrattori:**
-- Fondi con obbligazioni per almeno il 50% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
+- Fondi con obbligazioni per almeno il 50% del patrimonio; il rischio dipende dall'emittente e dalla valuta, ed è tendenzialmente più moderato sui titoli di Stato, più accentuato sulle corporate e sui titoli in valute estere.
 - Fondi che investono almeno il 70% del patrimonio in azioni, con rischio generalmente elevato, divisi per area geografica o per settore.
 - Obbligazioni che danno una remunerazione elevata in cambio del rischio di ricevere a scadenza, invece del valore nominale, azioni di valore inferiore al capitale investito.
 
@@ -9777,17 +9777,17 @@
 
 **D:** ⚠️ Che cosa accomuna i fondi flessibili?
 **R:** Slide 20: sono nati dall'evoluzione finanziaria, «**diversi da quelli tradizionali** (azionari, monetari, obbligazionari, bilanciati) in quanto **spesso privi di vincoli di asset allocation** e pertanto **non classificabili nelle categorie preesistenti**»; formano «una sorta di **contenitore residuale**, dove confluiscono **prodotti anche molto diversi tra loro**, che quindi **non potrebbero essere collocati altrove**, ma che hanno in comune **una caratteristica: si tratta di fondi senza benchmark**». ⚠️ Il tratto comune è **uno solo** ed è **negativo**: l'assenza di **benchmark**. È la categoria definita **per esclusione** — «contenitore residuale». ⚠️ Il transcript la ammorbidisce in «non avere un benchmark di riferimento **in modo rigido**» ([00:03:14]), ma la slide è **assoluta**.
-**Opzione:** Sono un contenitore residuale di prodotti molto diversi fra loro, privi di vincoli di asset allocation, che hanno in comune una sola caratteristica: sono fondi senza benchmark.
+**Opzione:** Sono un contenitore residuale di prodotti anche molto diversi fra loro, spesso privi di vincoli di asset allocation, che hanno in comune una caratteristica: sono fondi senza benchmark.
 **Distrattori:**
-- Sono un contenitore residuale di prodotti molto diversi fra loro, privi di vincoli di asset allocation, che hanno in comune una sola caratteristica: sono riservati agli investitori professionali.
+- Sono un contenitore residuale di prodotti anche molto diversi fra loro, spesso privi di vincoli di asset allocation, che hanno in comune una caratteristica: sono riservati agli investitori professionali.
 - Sono divisi in tre per percentuale di azioni: puri fra il 30% e il 70%, azionari fra il 50% e il 90%, obbligazionari fra il 10% e il 50%.
 - Sono titoli di aziende cinesi disponibili agli investitori locali e agli operatori esteri che abbiano ottenuto lo status di Qualified Foreign Institutional Investors.
 
 **D:** Come è cresciuto il patrimonio dei fondi comuni collocati in Italia?
 **R:** Slide 21 (fonte **Assogestioni**): il patrimonio netto passa da circa **310 miliardi di euro nel 2011** a circa **980 nel 2017** — «la crescita è di **almeno tre volte** in termini di masse complessive» ([00:03:14]). A crescere sono soprattutto la componente **obbligazionaria** e quella **flessibile**; la **azionaria** resta intorno al **20%** delle masse. Il grafico distingue **sei** voci: **azionari, bilanciati, obbligazionari, liquidità, flessibili, hedge**. ⚠️ Il perimetro della nota: **fondi di diritto italiano controllati da intermediari esteri**, **fondi aperti (armonizzati e non) di diritto italiano** e **fondi di diritto estero promossi da intermediari italiani** (i cosiddetti ***roundtrip***), inclusi i **fondi di fondi**.
-**Opzione:** Da circa 310 miliardi nel 2011 a circa 980 nel 2017, quasi tre volte, con la componente azionaria ferma intorno al 20% delle masse.
+**Opzione:** Da circa 310 miliardi nel 2011 a circa 980 nel 2017, almeno tre volte, con la componente azionaria ferma intorno al 20% delle masse.
 **Distrattori:**
-- Da circa 310 miliardi nel 2011 a circa 980 nel 2017, quasi tre volte, con la componente azionaria salita a circa il 50% delle masse.
+- Da circa 310 miliardi nel 2011 a circa 980 nel 2017, almeno tre volte, con la componente azionaria salita a circa il 50% delle masse.
 - Da circa 980 miliardi nel 2011 a circa 310 nel 2017, con la componente azionaria ferma intorno al 20% delle masse.
 - Da circa 310 miliardi nel 2011 a circa 400 nel 2017, una crescita modesta, con la componente azionaria ferma intorno al 20% delle masse.
 
@@ -9873,17 +9873,17 @@
 
 **D:** Che differenza c'è fra hedge fund puri e fondi di fondi?
 **R:** Slide 31: «i fondi "**puri**" (o di **primo livello**) **realizzano direttamente le strategie di investimento**. I **fondi di fondi** rappresentano la **maggioranza dei fondi speculativi sino ad ora autorizzati in Italia**. Si tratta di **OICR per i quali la società di gestione è autorizzata a investire in quote di altri OICR appartenenti alla categoria degli hedge fund**, **senza limitazioni in riferimento alla percentuale di portafoglio investita in uno stesso fondo**». ⚠️ In Italia la **maggioranza** è di **fondi di fondi**, non di fondi puri: è un dato quantitativo che la slide afferma e che l'esame può ribaltare. ⚠️ L'assenza di limiti di concentrazione **si estende al secondo livello**: si può investire **tutto in un solo fondo** sottostante.
-**Opzione:** I puri, o di primo livello, realizzano direttamente le strategie; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo, e sono la maggioranza in Italia.
+**Opzione:** I puri, o di primo livello, realizzano direttamente le strategie; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo, e sono la maggioranza dei fondi speculativi sino ad ora autorizzati in Italia.
 **Distrattori:**
-- I puri, o di primo livello, realizzano direttamente le strategie e sono la maggioranza in Italia; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo.
+- I puri, o di primo livello, realizzano direttamente le strategie e sono la maggioranza dei fondi speculativi sino ad ora autorizzati in Italia; i fondi di fondi investono in quote di altri hedge fund senza limiti di percentuale su uno stesso fondo.
 - I puri investono su una parte significativa dei titoli del paniere di riferimento; i fondi di fondi operano con controparti che garantiscono il rendimento, con in più il rischio di controparte.
 - I puri possono essere gestiti da imprese bancarie, SGR, SIM e società fiduciarie; i fondi di fondi da imprese bancarie, SGR, SIM e imprese assicurative.
 
 **D:** Quali commissioni prevede un hedge fund e con quale cadenza?
 **R:** Slide 33: «in genere le commissioni da corrispondere per l'investimento in un hedge fund sono **due**: **commissione di gestione**, corrisposta **mensilmente o trimestralmente**; **commissione di incentivo**, che rappresenta la **quota di utili spettante al gestore** e viene corrisposta con **cadenza annuale**». ⚠️ **Le cadenze sono diverse e vanno appaiate**: gestione **mensile o trimestrale**, incentivo **annuale**. ⚠️ Il transcript quantifica l'incentivo — «la partecipazione agli utili a volte può essere anche del **20-30% degli utili generati**» ([00:12:03]) — ma **la cifra non è sulla slide**.
-**Opzione:** Due: la commissione di gestione, corrisposta mensilmente o trimestralmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta annualmente.
+**Opzione:** In genere due: la commissione di gestione, corrisposta mensilmente o trimestralmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta annualmente.
 **Distrattori:**
-- Due: la commissione di gestione, corrisposta annualmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta mensilmente o trimestralmente.
+- In genere due: la commissione di gestione, corrisposta annualmente, e la commissione di incentivo, quota di utili spettante al gestore, corrisposta mensilmente o trimestralmente.
 - Le commissioni di ingresso e di uscita: le prime decrescono con l'aumentare dell'entità dell'investimento, le seconde in funzione del periodo di permanenza nel fondo.
 - Il TER è la sola componente indiretta, il TSC è il costo complessivo che include anche le commissioni di sottoscrizione e riscatto; insieme pesano intorno all'1,5% del patrimonio.
 
@@ -9897,9 +9897,9 @@
 
 **D:** ⚠️ Che cosa sono lo short e il leverage, e come ne è cambiato l'uso nel tempo?
 **R:** Slide 35: sono «**due strumenti caratteristici dei fondi hedge**, anche se il loro utilizzo nel corso del tempo si è **discostato talvolta nettamente da quello che ne faceva Jones**. Quest'ultimo infatti **apriva posizioni short sui titoli azionari al fine di ridurre il rischio di mercato** per poi **incrementare il rendimento con il leverage**. **In seguito** le potenzialità di short e leverage sono state **sfruttate solo in senso speculativo**, ovvero per **aumentare l'esposizione al rischio** con l'obiettivo di ottenere rendimenti maggiori. Il **leverage** in particolare ha trovato terreno ideale grazie al **sempre maggiore utilizzo di strumenti derivati (futures, swap, opzioni)**». ⚠️ **Lo stesso strumento cambia funzione**: in Jones lo short **riduceva** il rischio — è l'origine del nome *hedge*, «copertura» —, oggi lo **aumenta**. Attribuire a Jones l'uso speculativo è un **segno invertito** perfettamente costruito.
-**Opzione:** La vendita allo scoperto e l'indebitamento: in Jones lo short serviva a ridurre il rischio di mercato, in seguito entrambi sono stati sfruttati solo in senso speculativo, per aumentare l'esposizione al rischio.
+**Opzione:** Due strumenti caratteristici dei fondi hedge: Jones apriva posizioni short per ridurre il rischio di mercato e poi incrementava il rendimento con il leverage; in seguito sono stati sfruttati solo in senso speculativo, per aumentare l'esposizione al rischio.
 **Distrattori:**
-- La vendita allo scoperto e l'indebitamento: in Jones servivano ad aumentare l'esposizione al rischio, in seguito entrambi sono stati usati solo per ridurre il rischio di mercato.
+- Due strumenti caratteristici dei fondi hedge: Jones apriva posizioni short per aumentare l'esposizione al rischio e poi incrementava il rendimento con il leverage; in seguito sono stati sfruttati solo per ridurre il rischio di mercato.
 - Il rapporto è il numero di azioni attribuite per ogni obbligazione convertita, sempre fisso e in genere 1:1; il periodo è l'intervallo di tempo in cui si può convertire.
 - P₀ è il prezzo corrente, n è il numero di anni di detenzione delle azioni.
 
@@ -9969,7 +9969,7 @@
 
 **D:** ⚠️ Da che cosa è distinto il patrimonio di un fondo comune?
 **R:** Slide 45 (art. 36, comma 4): «ciascun fondo comune di investimento, **o ciascun comparto di uno stesso fondo**, costituisce **patrimonio autonomo, distinto a tutti gli effetti dal patrimonio della società di gestione del risparmio e da quello di ciascun partecipante, nonché da ogni altro patrimonio gestito dalla medesima società**; delle obbligazioni contratte per conto del fondo, **la Sgr risponde esclusivamente con il patrimonio del fondo medesimo**. Su tale patrimonio **non sono ammesse azioni dei creditori della società di gestione del risparmio o nell'interesse della stessa, né quelle dei creditori del depositario o del sub depositario**». ⚠️ **La separazione è quadrupla**: dalla **SGR**, da **ciascun partecipante**, da **ogni altro patrimonio gestito** dalla stessa società e, per comparti, dagli **altri comparti**. ⚠️ **I creditori esclusi sono due categorie**: quelli della **SGR** *e* quelli del **depositario o sub depositario**. ⚠️ La lezione 30 ne aveva vista solo la prima parte.
-**Opzione:** Dal patrimonio della SGR, da quello di ciascun partecipante e da ogni altro patrimonio gestito dalla medesima società; e ciascun comparto è distinto dagli altri comparti dello stesso fondo.
+**Opzione:** Dal patrimonio della SGR, da quello di ciascun partecipante e da ogni altro patrimonio gestito dalla medesima società; e lo stesso vale per ciascun comparto di uno stesso fondo.
 **Distrattori:**
 - Dal solo patrimonio della SGR, mentre resta confuso con quello di ciascun partecipante e con gli altri patrimoni gestiti dalla medesima società.
 - Dal patrimonio della SGR e da quello di ciascun partecipante, ma non dagli altri patrimoni gestiti dalla medesima società, che formano una massa unica.
@@ -10001,9 +10001,9 @@
 
 **D:** Dove si concentrano geograficamente i più grandi gestori patrimoniali del mondo?
 **R:** Slide 50: «la maggior parte… si trova in un **piccolo corridoio nel nord-est degli Stati Uniti**. **Otto delle 14 aziende che gestiscono $ 1 T o più** si trovano nelle aree di **New York, Boston o Filadelfia**. Questi includono i **cinque maggiori gestori patrimoniali: BlackRock, Vanguard, Fidelity, J.P. Morgan e BNY Mellon**. **Altre tre** si trovano in altre parti degli Stati Uniti e **quattro all'estero**, una in **Francia, Regno Unito, Giappone e Norvegia**». ⚠️ **L'aritmetica della slide non torna**: 8 + 3 + 4 = **15**, non 14. Va riportata **com'è**. ⚠️ I **cinque maggiori sono tutti statunitensi** e tutti nel corridoio nord-orientale.
-**Opzione:** Nel corridoio nord-orientale degli Stati Uniti: otto delle 14 sopra il trilione stanno fra New York, Boston e Filadelfia, altre tre altrove negli USA e quattro all'estero.
+**Opzione:** Nel corridoio nord-orientale degli Stati Uniti: otto delle 14 con un trilione o più stanno nelle aree di New York, Boston o Filadelfia, altre tre altrove negli USA e quattro all'estero.
 **Distrattori:**
-- Nel corridoio nord-orientale degli Stati Uniti: quattro delle 14 sopra il trilione stanno fra New York, Boston e Filadelfia, altre tre altrove negli USA e otto all'estero.
+- Nel corridoio nord-orientale degli Stati Uniti: quattro delle 14 con un trilione o più stanno nelle aree di New York, Boston o Filadelfia, altre tre altrove negli USA e otto all'estero.
 - In Europa, dove le società di gestione sono 4.393, con Regno Unito 1.100, Francia 630, Germania 380, Lussemburgo 304 e Italia 256.
 - L'indice azionario della Borsa di San Paolo, indice di riferimento di 60 titoli scambiati nella borsa brasiliana.
 
@@ -10017,11 +10017,11 @@
 
 **D:** ⚠️ Quale paese europeo ha la clientela più internazionale, e quale la più domestica?
 **R:** Slide 53 (**EFAMA**, *Domestic and Foreign Clients at End 2017*, % di AuM): il **Regno Unito** è il più internazionale, con **solo il 60% di clientela domestica** — quindi il **40% estera** —, mentre **Spagna** e **Germania** stanno al **98%** domestico, e **Portogallo** e **Turchia** al **99%**. La media **europea** è **74%**. ⚠️ Il Regno Unito è **l'unico paese sotto i due terzi**: «questo fa capire la **differenza di proposizione dei servizi finanziari**» ([00:19:28]). ⚠️ È lo stesso paese che gestisce il **36,5%** dell'AuM europeo (slide 52): gestisce molto **anche perché gestisce per altri**.
-**Opzione:** Il Regno Unito, con il 40% di clientela estera; la Spagna è al 98% domestica, contro una media europea del 74%.
+**Opzione:** Il Regno Unito, con il 40% di clientela estera; Portogallo e Turchia sono al 99% domestici, contro una media europea del 74%.
 **Distrattori:**
-- La Spagna, con il 40% di clientela estera; il Regno Unito è al 98% domestico, contro una media europea del 74%.
-- Il Regno Unito, con il 40% di clientela estera; la Spagna è al 60% domestica, contro una media europea del 90%.
-- La Germania, con il 40% di clientela estera; il Regno Unito è al 98% domestico, contro una media europea del 74%.
+- Il Portogallo, con il 40% di clientela estera; Regno Unito e Turchia sono al 99% domestici, contro una media europea del 74%.
+- Il Regno Unito, con il 40% di clientela estera; Portogallo e Turchia sono al 60% domestici, contro una media europea del 90%.
+- Il Regno Unito, con il 40% di clientela estera; Spagna e Germania sono al 99% domestiche, contro una media europea del 74%.
 
 **D:** Quanto è retail il mercato italiano dei fondi rispetto agli altri paesi europei?
 **R:** Slide 54 (**EFAMA**, *Investment Funds by Client Type at End 2017*, quota **retail** dell'AuM dei fondi): l'**Italia è al 78%**, nella metà alta della classifica. Agli estremi: **Francia 45%** e **Germania 46%** (i più istituzionali), **Croazia 98%**, **Romania 97%** e **Ungheria 96%** (i più retail). Nel mezzo **Austria 57% · Turchia 63% · Danimarca 66% · Belgio 75% · Portogallo 84% · Grecia 89%**. ⚠️ Il transcript legge la classifica dal basso: «**fino all'Italia**, quindi Grecia, Portogallo, Slovenia, Ungheria, si tratta soprattutto di **clienti retail**; se andiamo verso i paesi del **Nord Europa**… gli **istituzionali** sono i grandi sottoscrittori» ([00:19:49]).
