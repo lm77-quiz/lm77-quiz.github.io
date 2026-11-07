@@ -20,14 +20,14 @@
 **Distrattori:**
 - Solo il risparmio investito in titoli di Stato.
 - Solo alcune forme di risparmio, individuate dalla legge.
-- Solo il risparmio delle famiglie destinato all'acquisto della prima casa.
+- Nessuna: la Repubblica scoraggia l'accumulo di risparmio.
 
 **D:** ⚠️ Verso quali impieghi la Costituzione indirizza il risparmio?
 **R:** Impieghi **produttivi** — non «pubblici», che è il distrattore d'esame.
 **Opzione:** Impieghi produttivi.
 **Distrattori:**
 - Impieghi pubblici.
-- Impieghi immobiliari.
+- Impieghi di consumo immediato.
 - Impieghi esteri a basso rischio.
 
 **D:** Cosa aggiunge il secondo comma dell'art. 47?
@@ -42,8 +42,9 @@
 
 **D:** Cos'è il risparmio in senso proprio?
 **R:** La scelta soggettiva di non utilizzare le proprie risorse per acquistare beni e servizi nel presente, posticipandone l'impiego. In sé attiene a una dimensione meramente privata.
+**Opzione:** La scelta soggettiva di non utilizzare le proprie risorse per acquistare beni e servizi nel presente, posticipandone l'impiego. In sé attiene a una dimensione meramente privata.
 **Distrattori:**
-- La scelta soggettiva di non utilizzare le proprie risorse per acquistare beni e servizi nel presente, che in sé attiene a una dimensione di interesse pubblico.
+- La scelta soggettiva di non utilizzare le proprie risorse per acquistare beni e servizi nel presente, posticipandone l'impiego. In sé attiene a una dimensione di interesse pubblico.
 - Il mezzo tecnico-giuridico attraverso il quale avviene il passaggio di risorse dalle unità in avanzo a quelle in disavanzo.
 - L'impegno alla restituzione delle risorse ricevute in data o date future; il prezzo richiesto per la cessione temporanea è l'interesse.
 
@@ -100,7 +101,7 @@
 
 **D:** Fino a che punto il diritto comunitario prevale sul diritto interno?
 **R:** Ha efficacia sovraordinata sia rispetto alle leggi ordinarie nazionali sia rispetto alle norme costituzionali, salva la prevalenza dei principi fondamentali dell'ordinamento costituzionale o dei diritti inalienabili della persona umana. Il principio si ricava dagli artt. 11 e 117 Cost.
-**Opzione:** Ha efficacia sovraordinata sia rispetto alle leggi ordinarie nazionali sia rispetto alle norme costituzionali, salvi i principi fondamentali dell'ordinamento e i diritti inalienabili della persona umana.
+**Opzione:** Ha efficacia sovraordinata sia rispetto alle leggi ordinarie nazionali che rispetto alle norme costituzionali, salva la prevalenza dei principi fondamentali dell'ordinamento costituzionale o dei diritti inalienabili della persona umana.
 **Distrattori:**
 - Ha efficacia sovraordinata rispetto alle leggi ordinarie nazionali ma è in subordine rispetto a tutte le norme costituzionali.
 - Ha efficacia solo se recepito nel nostro ordinamento mediante apposita legge statale.
@@ -111,11 +112,11 @@
 
 **D:** Cosa stabilisce l'art. 11 della Costituzione?
 **R:** Che l'Italia consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie a un ordinamento che assicuri la pace e la giustizia fra le Nazioni, e promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
-**Opzione:** Che l'Italia consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie a un ordinamento che assicuri la pace e la giustizia fra le Nazioni.
+**Opzione:** Che l'Italia consente, in condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
 **Distrattori:**
 - Che l'Italia consente alle limitazioni di sovranità solo previa legge costituzionale di revisione approvata dalle Camere.
 - Che l'Italia esclude qualsiasi limitazione di sovranità, anche in condizioni di parità con gli altri Stati.
-- Che l'Italia consente, anche senza condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad assicurare la stabilità dei mercati finanziari.
+- Che l'Italia consente, anche senza condizioni di parità con gli altri Stati, alle limitazioni di sovranità necessarie ad un ordinamento che assicuri la pace e la giustizia fra le Nazioni; promuove e favorisce le organizzazioni internazionali rivolte a tale scopo.
 
 **D:** Quali sono i tre Testi Unici che reggono l'impianto normativo dei mercati finanziari, con i relativi estremi?
 **R:** TUB — Testo Unico bancario e creditizio, D.Lgs. 1.9.1993 n. 385; TUF — Testo Unico della Finanza, D.Lgs. 24.2.1998 n. 58; Codice delle Assicurazioni Private, D.Lgs. 7.9.2005 n. 209.
@@ -191,10 +192,11 @@
 
 **D:** Cosa sono gli strumenti finanziari?
 **R:** I contratti che definiscono i termini del trasferimento delle risorse: il mezzo tecnico-giuridico attraverso il quale avviene il passaggio di risorse dalle unità in avanzo a quelle in disavanzo (deposito, prestito, obbligazione…).
+**Opzione:** I contratti che definiscono i termini del trasferimento delle risorse: il mezzo tecnico-giuridico attraverso il quale avviene il passaggio di risorse dalle unità in avanzo a quelle in disavanzo (deposito, prestito, obbligazione…).
 **Distrattori:**
 - Contratti atipici lasciati alla libera determinazione del mercato, con cui le parti regolano il trasferimento delle risorse.
 - Il mezzo tecnico-giuridico per la regolazione del passaggio di merci e servizi tra paesi.
-- Il "luogo" di incontro tra soggetti con esigenze di natura finanziaria contrapposte.
+- I contratti che definiscono i termini del trasferimento delle risorse: il mezzo tecnico-giuridico attraverso il quale avviene il passaggio di risorse dalle unità in disavanzo a quelle in avanzo (deposito, prestito, obbligazione…).
 
 **D:** ⚠️ Completa: le attività e gli strumenti finanziari sono il mezzo tecnico-giuridico attraverso il quale avviene il passaggio di…
 **R:** …**risorse, dalle unità in avanzo a quelle in disavanzo**. Distrattore d'esame: «merci e servizi tra paesi», che conserva la formula d'apertura e cambia l'oggetto.
@@ -257,9 +259,10 @@
 
 **D:** Come funziona il finanziamento nei sistemi orientati al mercato?
 **R:** Il finanziamento delle unità in deficit si compie mediante l'emissione e il collocamento di strumenti negoziabili; gli intermediari sono coinvolti nell'offerta di servizi di collocamento, negoziazione e pricing (investment banking).
+**Opzione:** Il finanziamento delle unità in deficit si compie mediante l'emissione e il collocamento di strumenti negoziabili; gli intermediari sono coinvolti nell'offerta di servizi di collocamento, negoziazione e pricing (investment banking).
 **Distrattori:**
 - Il passaggio di risorse avviene prevalentemente attraverso gli intermediari, che assumono un ruolo di trasformazione e non di semplice facilitazione.
-- Il finanziamento delle unità in surplus si compie mediante l'emissione e il collocamento di strumenti negoziabili, con gli intermediari coinvolti nei servizi di collocamento.
+- Il finanziamento delle unità in surplus si compie mediante l'emissione e il collocamento di strumenti negoziabili; gli intermediari sono coinvolti nell'offerta di servizi di collocamento, negoziazione e pricing (investment banking).
 - Il finanziamento delle unità in deficit si compie mediante l'emissione di strumenti non negoziabili, collocati direttamente dalle autorità di vigilanza.
 
 **D:** Quali sono le tre leve principali di cambiamento dei sistemi finanziari?
@@ -335,15 +338,15 @@
 **R:** **Oggetto del trasferimento · Tempo · Remunerazione e Rischio.** Tre voci, non quattro: remunerazione e rischio stanno insieme.
 **Opzione:** Oggetto del trasferimento · Tempo · Remunerazione e Rischio.
 **Distrattori:**
-- Oggetto del trasferimento · Tempo · Remunerazione · Rischio.
+- Oggetto del trasferimento · Luogo · Remunerazione e Rischio.
 - Oggetto del trasferimento · Tempo · Remunerazione e Garanzia.
 - Oggetto del trasferimento · Tempo · Liquidità e Rischio.
 
 **D:** ⚠️ In base a quale criterio si distinguono le quattro categorie di strumenti finanziari, e quali sono?
 **R:** In base alle caratteristiche di **remunerazione e distribuzione del rischio**. Le categorie, nell'ordine della slide: **contratti di credito · contratti di partecipazione · contratti di assicurazione · contratti derivati**. Il criterio non è la durata né il tipo di emittente.
-**Opzione:** In base alle caratteristiche di remunerazione e distribuzione del rischio. Le categorie: contratti di credito · contratti di partecipazione · contratti di assicurazione · contratti derivati.
+**Opzione:** In generale in base alle caratteristiche di remunerazione e distribuzione del rischio. Le categorie: contratti di credito · contratti di partecipazione · contratti di assicurazione · contratti derivati.
 **Distrattori:**
-- In base alla durata dei contratti. Le categorie: contratti di credito · contratti di partecipazione · contratti di assicurazione · contratti derivati.
+- In generale in base alla durata dei contratti. Le categorie: contratti di credito · contratti di partecipazione · contratti di assicurazione · contratti derivati.
 - In base alla MiFID II. Le categorie: mercati regolamentati · sistemi multilaterali di negoziazione (MTF) · sistemi organizzati di negoziazione (OTF) · internalizzatori sistematici.
 - Contratti di credito tipici: depositi · obbligazioni · prestiti bancari · leasing.
 
@@ -372,7 +375,7 @@
 **R:** Due voci: **ritardo nei pagamenti** e **insolvenza totale o parziale**. Attenzione: l'insolvenza è *totale o parziale*, non solo totale.
 **Opzione:** Due voci: ritardo nei pagamenti e insolvenza totale o parziale.
 **Distrattori:**
-- Due voci: ritardo nei pagamenti e insolvenza totale.
+- Due voci: ritardo nei pagamenti e insolvenza solo totale.
 - Due voci: ritardo nei pagamenti e asimmetria informativa tra debitore e creditore.
 - Due voci: rischio di liquidità e insolvenza totale o parziale.
 
@@ -502,12 +505,11 @@
 - Titoli che possono essere emessi solo da società quotate in mercati regolamentati italiani o di altri Paesi dell'UE.
 
 **D:** ⚠️ Quali sono i tipi di obbligazione subordinata, dal rischio più alto al più basso?
-**R:** **Tier I** (durata minima 10 anni) · **Upper Tier II** (più di 5 anni) · **Lower Tier II** · **Tier III** (dai 2 ai 4 anni). Quattro livelli, non due: a voce il docente parla genericamente «da tier 1 a tier 3».
-**Opzione:** Tier I (durata minima 10 anni) · Upper Tier II (più di 5 anni) · Lower Tier II · Tier III (dai 2 ai 4 anni).
+**R:** **Tier I** · **Upper Tier II** (durata minima 10 anni) · **Lower Tier II** (più di 5 anni) · **Tier III** (dai 2 ai 4 anni). Quattro livelli, non due: a voce il docente parla genericamente «da tier 1 a tier 3». ⚠️ Sulla slide 28 le durate minime stanno sotto Upper Tier II, Lower Tier II e Tier III: il **Tier I non ne ha**.
+**Opzione:** Tier I · Upper Tier II (durata minima 10 anni) · Lower Tier II (più di 5 anni) · Tier III (dai 2 ai 4 anni).
 **Distrattori:**
-- Tier III (dai 2 ai 4 anni) · Lower Tier II · Upper Tier II (più di 5 anni) · Tier I (durata minima 10 anni).
-- Tier I (durata minima 10 anni) · Tier II (più di 5 anni) · Tier III (dai 2 ai 4 anni).
-- Tier I (dai 2 ai 4 anni) · Upper Tier II (più di 5 anni) · Lower Tier II · Tier III (durata minima 10 anni).
+- Tier III (dai 2 ai 4 anni) · Lower Tier II (più di 5 anni) · Upper Tier II (durata minima 10 anni) · Tier I.
+- Tier I · Upper Tier II (dai 2 ai 4 anni) · Lower Tier II (più di 5 anni) · Tier III (durata minima 10 anni).
 
 **D:** Cosa caratterizza i contratti di partecipazione?
 **R:** Il datore di fondi diventa socio. Sono contratti rappresentativi di diritti relativi al conferimento di quote di capitale d'impresa.
@@ -556,9 +558,9 @@
 
 **D:** ⚠️ In cosa consiste il privilegio delle azioni privilegiate?
 **R:** Sono **titoli nominativi** che offrono un privilegio nella ripartizione degli utili e nel rimborso del capitale: garantiscono all'azionista di **accedere in via prioritaria alla distribuzione degli utili fino al raggiungimento di un dividendo minimo, la cui entità corrisponde a una percentuale fissa del valore nominale delle azioni indicata nello statuto**. Se la società non distribuisce dividendi in uno o più esercizi, l'azionista privilegiato può percepirli e riscuoterli negli esercizi successivi.
-**Opzione:** Nella ripartizione degli utili e nel rimborso del capitale: accesso prioritario agli utili fino a un dividendo minimo, percentuale fissa del valore nominale indicata nello statuto; i dividendi non distribuiti si riscuotono negli esercizi successivi.
+**Opzione:** Nella ripartizione degli utili e nel rimborso del capitale: accesso prioritario agli utili fino a un dividendo minimo, percentuale fissa del valore nominale indicata nello statuto; se i dividendi non sono distribuiti, l'azionista privilegiato ha la possibilità di riscuoterli negli esercizi successivi.
 **Distrattori:**
-- Nella ripartizione degli utili e nel rimborso del capitale: accesso prioritario agli utili fino a un dividendo minimo, percentuale fissa del valore di mercato; i dividendi non distribuiti si riscuotono negli esercizi successivi.
+- Nella ripartizione degli utili e nel rimborso del capitale: accesso prioritario agli utili fino a un dividendo minimo, percentuale fissa del valore di mercato indicata nello statuto; se i dividendi non sono distribuiti, l'azionista privilegiato ha la possibilità di riscuoterli negli esercizi successivi.
 - Nella protezione dal rischio di insolvenza dell'emittente, tipicamente un istituto di credito, grazie a una clausola di garanzia sulla restituzione di capitale ed interessi.
 - Nella vendibilità delle stesse su mercati organizzati, con conseguente riduzione del rischio di liquidità.
 
@@ -614,9 +616,9 @@
 
 **D:** Qual è il ruolo della compagnia assicurativa nel sistema economico?
 **R:** Trasforma i rischi individuali delle controparti assicurate in rischi collettivi: il rapporto tra prestazione e controprestazione, più che nella singola negoziazione, trova riferimento nell'insieme dei contratti della specie che fanno capo all'impresa assicuratrice.
-**Opzione:** Trasforma i rischi individuali delle controparti assicurate in rischi collettivi: il rapporto tra prestazione e controprestazione, più che nella singola negoziazione, trova riferimento nell'insieme dei contratti della specie.
+**Opzione:** Trasforma i rischi individuali delle controparti assicurate in rischi collettivi: il rapporto tra prestazione e controprestazione, più che nella singola negoziazione, trova riferimento nell'insieme dei contratti della specie che fanno capo all'impresa assicuratrice.
 **Distrattori:**
-- Trasforma i rischi collettivi in rischi individuali delle controparti assicurate: il rapporto tra prestazione e controprestazione, più che nell'insieme dei contratti della specie, trova riferimento nella singola negoziazione.
+- Trasforma i rischi individuali delle controparti assicurate in rischi collettivi: il rapporto tra prestazione e controprestazione, più che nell'insieme dei contratti della specie che fanno capo all'impresa assicuratrice, trova riferimento nella singola negoziazione.
 - Fornisce al sistema economico i mezzi di pagamento necessari per assicurare il funzionamento del circuito di produzione e distribuzione del reddito.
 - Favorisce la formazione, la gestione e la circolazione delle informazioni: il sistema è tanto più efficiente quanto più le informazioni sono disponibili a tutti.
 
@@ -650,15 +652,15 @@
 **Distrattori:**
 - I — durata di vita umana; II — nuzialità e natalità; III — assicurazioni I e II connesse con fondi di investimento (unit/index linked); IV — malattia / non autosufficienza; V — operazioni di capitalizzazione; VI — responsabilità civile auto (RCA).
 - Rischio di credito, di mercato, operativo, di concentrazione, paese, di trasferimento, di tasso di interesse, di liquidità, di leva finanziaria eccessiva, strategico e di reputazione.
-- Tier I (durata minima 10 anni) · Upper Tier II (più di 5 anni) · Lower Tier II · Tier III (dai 2 ai 4 anni).
+- Comitato Interministeriale per il Credito (CICR), Ministero dell'Economia e delle Finanze e Banca d'Italia; tra loro non vi sono rapporti gerarchici: ognuna ha le proprie competenze.
 
 **D:** Come si suddividono i 18 rami danni?
 **R:** In **rami auto** (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e **rami elementari** (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, assistenza).
-**Opzione:** In rami auto (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e rami elementari (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, assistenza).
+**Opzione:** In rami auto (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e rami elementari (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, lacustri e fluviali, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, lacustri e fluviali, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, assistenza).
 **Distrattori:**
-- In rami auto (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e rami speciali (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, assistenza).
-- In rami auto (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e rami elementari (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, nuzialità e natalità).
-- In rami auto (10. corpi veicoli terrestri — CVT; 3. responsabilità civile auto — RCA) e rami elementari (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, assistenza).
+- In rami auto (3. corpi veicoli terrestri — CVT; 10. responsabilità civile auto — RCA) e rami elementari (infortuni, malattia, corpi veicoli ferroviari/aerei/marittimi, lacustri e fluviali, merci trasportate, incendio e altri elementi naturali, altri danni ai beni, RC aeromobili, RC veicoli marittimi, lacustri e fluviali, RC generale, credito, cauzioni, perdite pecuniarie, tutela giudiziaria, nuzialità e natalità).
+- Meccanismo Unico di Vigilanza (SSM) e Meccanismo Unico di Risoluzione (SRM), entrambi su perimetro EU18+, più la Garanzia Unica dei Depositi, ancora da realizzare; tutti poggiano sul Corpus Unico di norme, EU28.
+- Casse di risparmio, casse rurali, aziende di credito a carattere regionale, enti di credito fondiario e agrario a carattere regionale; alle Regioni la potestà legislativa, allo Stato i principi fondamentali.
 
 **D:** ⚠️ Cosa caratterizza i contratti derivati e cosa può essere il sottostante?
 **R:** Il **prezzo dipende dall'andamento di un'attività sottostante**. Il sottostante può essere: **una merce, un contratto finanziario, variabili finanziarie**.
@@ -678,19 +680,19 @@
 
 **D:** ⚠️ A cosa servono i contratti derivati? Formula completa della slide.
 **R:** Sono spesso **strumentali alla copertura del rischio di variabilità dei prezzi degli strumenti finanziari**. Consentono agli operatori di affrontare, sotto l'aspetto tecnico, i problemi di **gestione del rischio speculativo** (ad es. **rischio d'interesse, rischio di mercato e di prezzo, rischio di cambio**) e della **ottimizzazione di un portafoglio di investimenti finanziari**.
-**Opzione:** Alla copertura del rischio di variabilità dei prezzi degli strumenti finanziari, alla gestione del rischio speculativo (rischio d'interesse, di mercato e di prezzo, di cambio) e all'ottimizzazione di un portafoglio di investimenti finanziari.
+**Opzione:** Sono spesso strumentali alla copertura del rischio di variabilità dei prezzi degli strumenti finanziari; consentono di affrontare i problemi di gestione del rischio speculativo (ad es. rischio d'interesse, di mercato e di prezzo, di cambio) e della ottimizzazione di un portafoglio di investimenti finanziari.
 **Distrattori:**
-- Alla copertura del rischio di variabilità dei prezzi degli strumenti finanziari, alla gestione del rischio puro (rischio d'interesse, di mercato e di prezzo, di cambio) e all'ottimizzazione di un portafoglio di investimenti finanziari.
+- Sono spesso strumentali alla copertura del rischio di variabilità dei prezzi degli strumenti finanziari; consentono di affrontare i problemi di gestione del rischio puro (ad es. rischio d'interesse, di mercato e di prezzo, di cambio) e della ottimizzazione di un portafoglio di investimenti finanziari.
 - Obbligano le imprese a divulgare le informazioni rilevanti e vietano alle persone fisiche che hanno accesso a informazioni riservate di utilizzarle per operare in modo improprio.
 - Servono alle banche per valutare, con tecniche quantitative e qualitative, la propria vulnerabilità ad eventi eccezionali ma plausibili.
 
 **D:** ⚠️ Quali sono i contratti derivati tipici secondo la slide?
-**R:** **Opzioni**; **contratti a termine** (futures, forwards); **swaps**. La slide tiene gli swaps come voce autonoma, distinta dai contratti a termine — il docente a voce li appiattisce in un unico elenco.
-**Opzione:** Opzioni; contratti a termine (futures, forwards); swaps.
+**R:** **Opzioni**; **contratti a termine** (futures, forwards, swaps). Sulla slide 52 il riquadro «contratti a termine» sta a metà fra «futures, forwards» e «swaps», che ne sono quindi entrambi articolazioni; il docente lo dice uguale: «i contratti a termine come i future o gli swap».
+**Opzione:** Opzioni; contratti a termine (futures, forwards, swaps).
 **Distrattori:**
-- Opzioni; contratti a termine (futures, forwards); pronti contro termine.
-- Opzioni; contratti a pronti (futures, forwards); swaps.
-- Opzioni; contratti a termine (futures, forwards); covered bond.
+- Opzioni; contratti a termine (futures, forwards, pronti contro termine).
+- Opzioni; contratti a pronti (futures, forwards, swaps).
+- Opzioni; contratti a termine (futures, forwards, covered bond).
 
 ### Flashcard dai quiz sbagliati o insidiosi — lezione 02
 
@@ -788,17 +790,17 @@
 
 **D:** ⚠️ Cosa si intende per «valore mobiliare» secondo la legge 77/1983?
 **R:** «Ogni documento o certificato che direttamente o indirettamente rappresenti **diritti in società, associazioni, imprese o enti di qualsiasi tipo**, ivi compresi i **fondi di investimento italiani od esteri**; ogni documento o certificato rappresentativo di un **credito o di un interesse negoziabile e non**; ogni documento o certificato rappresentativo di **diritti relativi a beni materiali o proprietà immobiliari**; nonché ogni documento o certificato **idoneo a conferire diritti emessi dagli enti di gestione fiduciaria**». L'ampia portata della nozione segna l'estensione dei controlli Consob a **tutto il mercato mobiliare**. Attenzione all'inciso «negoziabile **e non**».
-**Opzione:** Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, ivi compresi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse negoziabile e non; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli enti di gestione fiduciaria. L'ampia portata della nozione segna l'estensione dei controlli Consob a tutto il mercato mobiliare.
+**Opzione:** Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, ivi compresi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse negoziabile e non; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli enti di gestione fiduciaria.
 **Distrattori:**
-- Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, ivi compresi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse negoziabile; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli enti di gestione fiduciaria. L'ampia portata della nozione segna l'estensione dei controlli Consob a tutto il mercato mobiliare.
-- Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, ivi compresi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse negoziabile e non; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli istituti di credito di diritto pubblico. L'ampia portata della nozione segna l'estensione dei controlli Consob a tutto il mercato mobiliare.
-- Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, esclusi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse negoziabile e non; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli enti di gestione fiduciaria. L'ampia portata della nozione segna l'estensione dei controlli Consob a tutto il mercato mobiliare.
+- Ogni documento o certificato che direttamente o indirettamente rappresenti diritti in società, associazioni, imprese o enti di qualsiasi tipo, ivi compresi i fondi di investimento italiani od esteri; ogni documento o certificato rappresentativo di un credito o di un interesse purché negoziabile; ogni documento o certificato rappresentativo di diritti relativi a beni materiali o proprietà immobiliari; nonché ogni documento o certificato idoneo a conferire diritti emessi dagli enti di gestione fiduciaria.
+- La scelta soggettiva di non utilizzare le proprie risorse per acquistare beni e servizi nel presente, posticipandone l'impiego. In sé attiene a una dimensione meramente privata.
+- Tecniche quantitative e qualitative con le quali le banche valutano la propria vulnerabilità ad eventi eccezionali ma plausibili.
 
 **D:** Cosa nasce nel 1988 e perché è rilevante?
 **R:** Uno specifico **«Mercato secondario dei titoli di Stato»**, modello organizzativo destinato a influire sensibilmente sulla futura disciplina dei mercati regolamentati, in quanto **fondato su elementi privatistici in un più generale quadro di controlli pubblicistici ed amministrativi**.
-**Opzione:** Uno specifico «Mercato secondario dei titoli di Stato», modello per la futura disciplina dei mercati regolamentati perché fondato su elementi privatistici in un più generale quadro di controlli pubblicistici ed amministrativi.
+**Opzione:** Uno specifico «Mercato secondario dei titoli di Stato», modello organizzativo destinato ad influire sensibilmente sulla futura disciplina dei mercati regolamentati in quanto fondato su elementi privatistici in un più generale quadro di controlli pubblicistici ed amministrativi.
 **Distrattori:**
-- Uno specifico «Mercato secondario dei titoli di Stato», modello per la futura disciplina dei mercati regolamentati perché fondato su elementi pubblicistici in un più generale quadro di controlli privatistici ed amministrativi.
+- Uno specifico «Mercato secondario dei titoli di Stato», modello organizzativo destinato ad influire sensibilmente sulla futura disciplina dei mercati regolamentati in quanto fondato su elementi pubblicistici in un più generale quadro di controlli privatistici ed amministrativi.
 - L'Autorità Bancaria Europea, per assicurare la stabilità finanziaria nell'UE e garantire l'integrità, l'efficienza e il regolare funzionamento del settore bancario.
 - Il Sistema europeo di vigilanza finanziaria, per assicurare una vigilanza finanziaria coerente e uniforme all'interno dell'UE, sui due livelli micro e macro.
 
@@ -863,9 +865,9 @@
 
 **D:** Quali sono gli estremi del TUF e il suo aggiornamento più recente citato dalle slide?
 **R:** **D.Lgs. n. 58 del 24 febbraio 1998** — Testo unico delle disposizioni in materia di intermediazione finanziaria, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52; aggiornato con il **D.Lgs. n. 49 del 10 maggio 2019**, in vigore dal 10 giugno 2019.
-**Opzione:** D.Lgs. n. 58 del 24 febbraio 1998, ai sensi della legge 6 febbraio 1996, n. 52; aggiornato con il D.Lgs. n. 49 del 10 maggio 2019, in vigore dal 10 giugno 2019.
+**Opzione:** D.Lgs. n. 58 del 24 febbraio 1998, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52; aggiornato con il D.Lgs. n. 49 del 10 maggio 2019, in vigore dal 10 giugno 2019.
 **Distrattori:**
-- D.Lgs. n. 58 del 20 febbraio 1998, ai sensi della legge 6 febbraio 1996, n. 52; aggiornato con il D.Lgs. n. 49 del 10 maggio 2019, in vigore dal 10 giugno 2019.
+- D.Lgs. n. 58 del 20 febbraio 1998, ai sensi degli articoli 8 e 21 della legge 6 febbraio 1996, n. 52; aggiornato con il D.Lgs. n. 49 del 10 maggio 2019, in vigore dal 10 giugno 2019.
 - D.Lgs. 1.9.1993, n. 385 (Testo unico delle leggi in materia bancaria e creditizia) e successivi aggiornamenti, con le Autorità Creditizie normate nel Titolo I.
 - Art. 7-bis della legge 30 aprile 1999, n. 130, introdotto dal decreto sulla competitività del maggio 2005.
 
@@ -887,9 +889,9 @@
 
 **D:** ⚠️ Cosa definisce il Regolamento dei mercati (art. 62 TUF) e chi lo delibera?
 **R:** È deliberato dall'**assemblea ordinaria della società di gestione** e definisce: ① **condizioni e modalità di ammissione, esclusione e sospensione degli operatori e degli strumenti finanziari dalle negoziazioni**; ② **condizioni e modalità per lo svolgimento delle negoziazioni e obblighi degli operatori e degli emittenti**; ③ **modalità di accertamento, pubblicazione e diffusione dei prezzi**; ④ **contratti ammessi alle negoziazioni e criteri per la determinazione dei quantitativi minimi negoziabili**. Ogni voce ha una coda che è facile tagliare.
-**Opzione:** L'assemblea ordinaria della società di gestione; definisce: ammissione, esclusione e sospensione; negoziazioni e obblighi di operatori ed emittenti; accertamento, pubblicazione e diffusione dei prezzi; contratti e quantitativi minimi negoziabili.
+**Opzione:** L'assemblea ordinaria della società di gestione; definisce: condizioni e modalità di ammissione, esclusione e sospensione degli operatori e degli strumenti finanziari dalle negoziazioni; condizioni e modalità per lo svolgimento delle negoziazioni e obblighi degli operatori e degli emittenti; modalità di accertamento, pubblicazione e diffusione dei prezzi; contratti ammessi alle negoziazioni e criteri per la determinazione dei quantitativi minimi negoziabili.
 **Distrattori:**
-- L'assemblea straordinaria della società di gestione; definisce: ammissione, esclusione e sospensione; negoziazioni e obblighi di operatori ed emittenti; accertamento, pubblicazione e diffusione dei prezzi; contratti e quantitativi minimi negoziabili.
+- L'assemblea straordinaria della società di gestione; definisce: condizioni e modalità di ammissione, esclusione e sospensione degli operatori e degli strumenti finanziari dalle negoziazioni; condizioni e modalità per lo svolgimento delle negoziazioni e obblighi degli operatori e degli emittenti; modalità di accertamento, pubblicazione e diffusione dei prezzi; contratti ammessi alle negoziazioni e criteri per la determinazione dei quantitativi minimi negoziabili.
 - Nell'estate del 2012 l'ESMA ha rivisitato la profilatura emanando nove orientamenti per migliorare l'applicazione della disciplina dell'adeguatezza: definiscono il livello e la qualità di informazioni che la banca deve acquisire dalla clientela.
 - Il diritto di voto e partecipazione all'assemblea dei soci; il diritto ai dividendi, se presenti; il diritto ad acquistare nuove azioni emesse dalla società; il diritto alle attività rimaste dopo la liquidazione.
 
@@ -945,7 +947,7 @@
 **R:** Di **Borsa Italiana SpA**: **MTA** (Mercato Telematico Azionario), **ETFplus** (mercato telematico degli ETF e degli ETC/ETN), **MOT** (mercato telematico delle obbligazioni), **MIV** (mercato telematico degli investment vehicles), **IDEM** (mercato degli strumenti derivati). Di **MTS SpA**: **MTS Italy**. Sei in tutto — il transcript omette il MOT.
 **Opzione:** Di Borsa Italiana SpA: MTA, ETFplus, MOT, MIV, IDEM. Di MTS SpA: MTS Italy.
 **Distrattori:**
-- Di Borsa Italiana SpA: MTA, ETFplus, MIV, IDEM. Di MTS SpA: MTS Italy.
+- Di Borsa Italiana SpA: MTA, ETFplus, MOT, MIV. Di MTS SpA: IDEM, MTS Italy.
 - Di Borsa Italiana SpA: MTA, ETFplus, AIM Italia, MIV, IDEM. Di MTS SpA: MTS Italy.
 - Di Borsa Italiana SpA: MTA, ETFplus, MOT, MIV, IDEM. Di MTS SpA: EuroTLX.
 
@@ -983,11 +985,6 @@
 
 **D:** ⚠️ Di cosa deve disporre il gestore di un MTF o di un OTF?
 **R:** ① **regole e procedure trasparenti** che garantiscono un processo di negoziazione corretto e ordinato, e criteri obiettivi per l'esecuzione efficiente degli ordini; ② **misure per garantire una gestione sana dell'operatività**, inclusi dispositivi di emergenza contro i rischi di disfunzione; ③ **misure per individuare e gestire le conseguenze negative di eventuali conflitti di interessi**; ④ **almeno tre membri o partecipanti o clienti concretamente attivi**. Inoltre fornisce alla **Consob** una descrizione dettagliata del funzionamento e l'elenco dei membri.
-**Opzione:** Regole e procedure trasparenti per una negoziazione corretta e ordinata; misure per una gestione sana dell'operatività; misure per gestire i conflitti di interessi; almeno tre membri o partecipanti o clienti concretamente attivi.
-**Distrattori:**
-- Regole e procedure trasparenti per una negoziazione corretta e ordinata; misure per una gestione sana dell'operatività; misure per gestire i conflitti di interessi; almeno cinque membri o partecipanti o clienti concretamente attivi.
-- Attività liquide sufficienti a coprire i deflussi netti di liquidità in condizioni di forte stress su un periodo di 30 giorni, pari almeno al 25% dei deflussi.
-- Requisiti minimi di capitale espressi come CET 1, TIER 1 e Total Capital Ratio, per misurare l'adeguatezza del capitale rispetto agli impieghi rischiosi.
 
 **D:** ⚠️ Cos'è l'internalizzatore sistematico?
 **R:** «Un **intermediario che in modo organizzato, frequente e sistematico negozia per conto proprio eseguendo gli ordini del cliente al di fuori di un mercato regolamentato o di un sistema multilaterale di negoziazione**. **Usa capitale proprio** per combinare vendite e acquisti.» I tre avverbi vanno tutti: *organizzato, frequente e sistematico*.
@@ -999,9 +996,9 @@
 
 **D:** In cosa consiste concretamente l'attività di un internalizzatore sistematico?
 **R:** La banca fa da «banco»: riceve gli ordini da entrambi i lati e con **capitale proprio** combina vendite e acquisti; la controparte del cliente è la banca stessa. Vale soprattutto per i **propri prodotti** (una banca che emette molte obbligazioni proprie fa più facilmente market making su di esse), ma può riguardare anche prodotti di terzi.
-**Opzione:** La banca fa da «banco»: riceve gli ordini da entrambi i lati e con capitale proprio combina vendite e acquisti, facendo da controparte del cliente; soprattutto sui propri prodotti, ma anche su prodotti di terzi.
+**Opzione:** La banca fa da «banco»: riceve gli ordini da entrambi i lati e con capitale proprio combina vendite e acquisti, facendo da controparte del cliente; vale soprattutto per i propri prodotti, ma potrebbe essere anche su prodotti di terzi se ne ha l'interesse.
 **Distrattori:**
-- La banca fa da «banco»: riceve gli ordini da entrambi i lati e con capitale della clientela combina vendite e acquisti, facendo da controparte del cliente; soprattutto sui propri prodotti, ma anche su prodotti di terzi.
+- La banca fa da «banco»: riceve gli ordini da entrambi i lati e con capitale della clientela combina vendite e acquisti, facendo da controparte del cliente; vale soprattutto per i propri prodotti, ma potrebbe essere anche su prodotti di terzi se ne ha l'interesse.
 - La banca si «interpone» e trasforma le scadenze: la raccolta è a breve (depositi) e gli impieghi sono a medio/lunga scadenza.
 - La compagnia investe sui mercati finanziari e immobiliari le somme che riceve come premi; nel ramo vita prevalgono le attività finanziarie disponibili per la vendita.
 
@@ -1015,9 +1012,9 @@
 
 **D:** Quali poteri hanno le autorità di controllo sui mercati?
 **R:** Monitorando le **informazioni rese pubbliche dagli emittenti** e l'**andamento degli scambi**, possono intervenire **comminando sanzioni amministrative** per chi incorra in abusi; hanno inoltre il **potere regolamentare di definire specifiche regole preventive** per le varie categorie di soggetti, così da ridurre il rischio di abusi. Due leve: sanzionatoria (ex post) e regolamentare preventiva (ex ante).
-**Opzione:** Monitorando le informazioni rese pubbliche dagli emittenti e l'andamento degli scambi, comminano sanzioni amministrative per gli abusi e hanno il potere regolamentare di definire specifiche regole preventive.
+**Opzione:** Monitorando le informazioni rese pubbliche dagli emittenti e l'andamento degli scambi, possono intervenire comminando sanzioni amministrative per quanti incorrano in abusi e hanno il potere regolamentare di definire specifiche regole preventive.
 **Distrattori:**
-- Monitorando le informazioni rese pubbliche dagli emittenti e l'andamento degli scambi, comminano sanzioni penali per gli abusi e hanno il potere regolamentare di definire specifiche regole preventive.
+- Monitorando le informazioni rese pubbliche dagli emittenti e l'andamento degli scambi, possono intervenire comminando sanzioni penali per quanti incorrano in abusi e hanno il potere regolamentare di definire specifiche regole preventive.
 - Istituto per la Vigilanza delle Assicurazioni: ente dotato di personalità giuridica di diritto pubblico, per l'adeguata protezione degli assicurati e la sana e prudente gestione delle imprese di assicurazione e riassicurazione.
 - Svalutano azioni e convertono crediti in azioni per assorbire le perdite e capitalizzare la banca in difficoltà o una nuova entità che ne continui le funzioni essenziali.
 
@@ -1116,8 +1113,8 @@
 **Opzione:** Interessi attivi − interessi passivi = Margine di interesse; + commissioni e provvigioni = Margine di intermediazione; − costo del lavoro − spese generali e amministrative = Risultato di gestione; − ammortamenti e accantonamenti = Risultato ante imposte; − imposte = Utile netto
 **Distrattori:**
 - Interessi attivi − interessi passivi = Margine di intermediazione; + commissioni e provvigioni = Margine di interesse; − costo del lavoro − spese generali e amministrative = Risultato di gestione; − ammortamenti e accantonamenti = Risultato ante imposte; − imposte = Utile netto
-- Interessi attivi − interessi passivi = Margine di interesse; + commissioni e provvigioni = Margine di intermediazione; − ammortamenti e accantonamenti = Risultato di gestione; − costo del lavoro − spese generali e amministrative = Risultato ante imposte; − imposte = Utile netto
-- Interessi attivi + interessi passivi = Margine di interesse; + commissioni e provvigioni = Margine di intermediazione; − costo del lavoro − spese generali e amministrative = Risultato di gestione; − ammortamenti e accantonamenti = Risultato ante imposte; − imposte = Utile netto
+- Capitale: ICAAP (banca) → SREP (vigilanza); liquidità: ILAAP (banca) → SREP (vigilanza)
+- Il costo medio della raccolta scende da 1,8% a 0,6% (−1,2 punti percentuali); il rendimento medio degli impieghi da 3,6% a 1,8% (−1,8 punti); la forbice si comprime da 1,8% a 1,2%
 
 **D:** Nello stato patrimoniale di una banca, come si articolano impieghi e fonti?
 **R:** Impieghi: **attività fruttifere di interessi · attività non finanziarie · altre attività finanziarie**. Fonti: **passività onerose · passività non onerose · patrimonio netto** (slide 9). Nel lato impieghi prevalgono le attività finanziarie, nel lato fonti le passività **onerose**.
@@ -1129,7 +1126,7 @@
 
 **D:** ⚠️ Quali sono le attività caratteristiche della banca secondo la slide 11?
 **R:** Il **prestito** e l'**investimento in titoli**.
-**Opzione:** Il prestito e l'investimento in titoli.
+**Opzione:** Il prestito e l'investimento in titoli
 **Distrattori:**
 - Il prestito e la sottoscrizione di polizze assicurative
 - Il prestito e la gestione collettiva del risparmio
@@ -1137,11 +1134,11 @@
 
 **D:** Nell'esempio UniCredit (bilancio 2017), quanto pesa la raccolta da clientela?
 **R:** **262.084 milioni** di raccolta da clientela e titoli su un **totale del passivo di 404.980 milioni** (slide 12) — circa 260 miliardi su 400: la misura di quanto conta l'attività di intermediazione.
-**Opzione:** 262.084 milioni di raccolta da clientela e titoli su un totale del passivo di 404.980 milioni
+**Opzione:** 262.084 milioni di raccolta da clientela e titoli su un totale del passivo e del patrimonio netto di 404.980 milioni
 **Distrattori:**
-- 404.980 milioni di raccolta da clientela e titoli su un totale del passivo di 262.084 milioni
-- 62.084 milioni di raccolta da clientela e titoli su un totale del passivo di 404.980 milioni
-- 262.084 milioni di raccolta da clientela e titoli su un totale del passivo di 504.980 milioni
+- 404.980 milioni di raccolta da clientela e titoli su un totale del passivo e del patrimonio netto di 262.084 milioni
+- 62.084 milioni di raccolta da clientela e titoli su un totale del passivo e del patrimonio netto di 404.980 milioni
+- 262.084 milioni di raccolta da clientela e titoli su un totale del passivo e del patrimonio netto di 504.980 milioni
 
 **D:** ⚠️ Perché la banca è esposta a rischi specifici?
 **R:** Perché avviene una **trasformazione e interposizione**: la **raccolta è a breve (depositi)** e gli **impieghi sono a medio/lunga**, e la banca si «**interpone**» (slide 13).
@@ -1201,9 +1198,9 @@
 
 **D:** ⚠️ Quali sono i criteri di selezione delle banche soggette alla vigilanza diretta della BCE?
 **R:** Quattro, con i rispettivi parametri: **Dimensione** (attivi totali **superiori ai 30 mld €**); **Importanza economica** (per la nazione o per l'UE nel suo complesso; **una delle tre maggiori banche del paese**); **Attività transfrontaliere** (attivi **oltre 5 mld €** e rapporto attività/passività transfrontaliere su totale **superiore al 20%**); **Oggetto di aiuto pubblico diretto** (fondi richiesti o ricevuti da **ESM o EFSF**) — slide 21.
-**Opzione:** Dimensione (attivi totali superiori ai 30 mld €); importanza economica (una delle tre maggiori banche del paese); attività transfrontaliere (attivi oltre 5 mld € e quota transfrontaliera superiore al 20%); aiuto pubblico diretto (da ESM o EFSF)
+**Opzione:** Dimensione (attivi totali superiori ai 30 mld €); importanza economica (per la nazione o per l'UE nel suo complesso; una delle tre maggiori banche del paese); attività transfrontaliere (attivi oltre 5 mld € e rapporto attività/passività transfrontaliere su totale superiore al 20%); oggetto di aiuto pubblico diretto (fondi richiesti o ricevuti da ESM o EFSF)
 **Distrattori:**
-- Dimensione (attivi totali superiori ai 50 mld €); importanza economica (una delle tre maggiori banche del paese); attività transfrontaliere (attivi oltre 5 mld € e quota transfrontaliera superiore al 20%); aiuto pubblico diretto (da ESM o EFSF)
+- Dimensione (attivi totali superiori ai 50 mld €); importanza economica (per la nazione o per l'UE nel suo complesso; una delle tre maggiori banche del paese); attività transfrontaliere (attivi oltre 5 mld € e rapporto attività/passività transfrontaliere su totale superiore al 20%); oggetto di aiuto pubblico diretto (fondi richiesti o ricevuti da ESM o EFSF)
 - I regimi pensionistici delle piccole e medie imprese; i depositi delle autorità pubbliche aventi bilanci inferiori a 500 000 EUR; i depositi superiori a 100 000 EUR per taluni scopi abitativi e sociali
 - Azioni e strumenti di capitale; titoli subordinati; obbligazioni e altre passività ammissibili; depositi superiori a 100.000 euro di persone fisiche e PMI
 
@@ -1300,9 +1297,9 @@
 
 **D:** ⚠️ Chi sono gli «altri intermediari creditizi» e perché non godono del mutuo riconoscimento?
 **R:** «**Soggetti, diversi dalle banche**, ai quali l'ordinamento nazionale consente di **erogare credito in via professionale nei confronti del pubblico nel territorio della Repubblica**» (società di credito al consumo, ecc.). La **disciplina non è armonizzata a livello europeo**, quindi — salvo i **soggetti controllati da banche comunitarie (art. 18 TUB)** — **non è consentito il mutuo riconoscimento in ambito UE** (slide 41). Le banche invece hanno il **passaporto europeo**.
-**Opzione:** Soggetti, diversi dalle banche, ai quali l'ordinamento nazionale consente di erogare credito in via professionale nei confronti del pubblico; la disciplina non è armonizzata a livello europeo, quindi non c'è mutuo riconoscimento, salvo l'art. 18 TUB
+**Opzione:** Soggetti, diversi dalle banche, ai quali l'ordinamento nazionale consente di erogare credito in via professionale nei confronti del pubblico nel territorio della Repubblica; la disciplina non è armonizzata a livello europeo, quindi non c'è mutuo riconoscimento, salvo i soggetti controllati da banche comunitarie (art. 18 TUB)
 **Distrattori:**
-- Soggetti, diversi dalle banche, ai quali l'ordinamento nazionale consente di erogare credito in via professionale nei confronti del pubblico; la disciplina non è armonizzata a livello europeo, quindi non c'è mutuo riconoscimento, salvo l'art. 18 TUF
+- Soggetti, diversi dalle banche, ai quali l'ordinamento nazionale consente di erogare credito in via professionale nei confronti del pubblico nel territorio della Repubblica; la disciplina non è armonizzata a livello europeo, quindi non c'è mutuo riconoscimento, salvo i soggetti controllati da banche comunitarie (art. 18 TUF)
 - Unità istituite presso la Banca d'Italia dal d.lgs. n. 231/2007, con piena autonomia operativa e gestionale, per funzioni di contrasto del riciclaggio e del finanziamento del terrorismo
 - Imprese di investimento autorizzate a svolgere servizi o attività di investimento ai sensi del Testo Unico della Finanza (TUF)
 
@@ -1364,11 +1361,11 @@
 
 **D:** ⚠️ Quali sono i servizi e le attività di investimento delle SIM? (elenco completo)
 **R:** Otto, nell'ordine della slide 50: ① **negoziazione per conto proprio**; ② **esecuzione di ordini per conto dei clienti**; ③ **sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente**; ④ **collocamento senza assunzione a fermo né assunzione di garanzia**; ⑤ **gestione di portafogli**; ⑥ **ricezione e trasmissione di ordini**; ⑦ **consulenza in materia di investimenti**; ⑧ **gestione di sistemi multilaterali di negoziazione**. Le voci ③ e ④ differiscono **solo** per l'assunzione a fermo/di garanzia.
-**Opzione:** Otto, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ collocamento senza assunzione a fermo né assunzione di garanzia; ⑤ gestione di portafogli; ⑥ ricezione e trasmissione di ordini; ⑦ consulenza in materia di investimenti; ⑧ gestione di sistemi multilaterali di negoziazione
+**Opzione:** Otto, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ collocamento senza assunzione a fermo né assunzione di garanzia nei confronti dell'emittente; ⑤ gestione di portafogli; ⑥ ricezione e trasmissione di ordini; ⑦ consulenza in materia di investimenti; ⑧ gestione di sistemi multilaterali di negoziazione
 **Distrattori:**
-- Otto, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ collocamento senza assunzione a fermo né assunzione di garanzia; ⑤ gestione di portafogli; ⑥ ricezione e trasmissione di ordini; ⑦ consulenza in materia di investimenti; ⑧ gestione di fondi comuni di propria istituzione
-- Otto, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ collocamento senza assunzione a fermo né assunzione di garanzia; ⑤ gestione collettiva del risparmio; ⑥ ricezione e trasmissione di ordini; ⑦ consulenza in materia di investimenti; ⑧ gestione di sistemi multilaterali di negoziazione
-- Sette, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ gestione di portafogli; ⑤ ricezione e trasmissione di ordini; ⑥ consulenza in materia di investimenti; ⑦ gestione di sistemi multilaterali di negoziazione
+- Otto, nell'ordine: ① negoziazione per conto proprio; ② esecuzione di ordini per conto dei clienti; ③ sottoscrizione e/o collocamento con assunzione a fermo o con assunzione di garanzia nei confronti dell'emittente; ④ collocamento senza assunzione a fermo né assunzione di garanzia nei confronti dell'emittente; ⑤ gestione di portafogli; ⑥ ricezione e trasmissione di ordini; ⑦ consulenza in materia di investimenti; ⑧ gestione di fondi comuni di propria istituzione
+- I — durata di vita umana; II — nuzialità e natalità; III — assicurazioni I e II connesse con fondi di investimento (unit/index linked); IV — malattia / non autosufficienza; V — operazioni di capitalizzazione; VI — gestione dei fondi pensione
+- Forte dipendenza dalle banche; notevoli differenze di condizioni di finanziamento tra paesi UE; norme e prassi diverse per cartolarizzazioni e collocamenti privati; investitori raramente oltre confine; PMI con accesso limitato ai finanziamenti
 
 **D:** ⚠️ A cosa sono autorizzate le SGR?
 **R:** ① **gestire fondi comuni di propria istituzione e patrimoni di SICAV o SICAF**; ② prestare il servizio di **gestione di portafogli**; ③ prestare il servizio di **consulenza in materia di investimenti**; ④ prestare il servizio di **ricezione e trasmissione di ordini**; ⑤ qualora autorizzate, prestare il servizio di **gestione di Fondi di investimento alternativi (FIA)** (slide 51). La caratteristica **specifica** è la prima voce.
@@ -1412,9 +1409,9 @@
 
 **D:** ⚠️ Quali altre attività possono svolgere gli intermediari finanziari accanto all'intermediazione?
 **R:** Ai sensi dell'**art. 106, comma 2, TUB** (rivisitato dal **D.lgs 141/2010**): ① **prestare servizi di pagamento** (art. 114-novies, comma 4, TUB → albo degli **Istituti di Pagamento**); ② **emettere moneta elettronica** (albo degli **Istituti di Moneta Elettronica**); ③ **prestare servizi d'investimento**, nei casi e alle condizioni previste dalla **Banca d'Italia** ai sensi dell'**art. 18, comma 3, TUF**; ④ eseguire le «**altre attività**», **a condizione che siano svolte in via subordinata rispetto alle attività di concessione di finanziamenti** (slide 58). La clausola «in via subordinata» vale **solo per la voce 4**.
-**Opzione:** ① Servizi di pagamento; ② emissione di moneta elettronica; ③ servizi d'investimento, alle condizioni previste dalla Banca d'Italia; ④ «altre attività», a condizione che siano svolte in via subordinata rispetto alla concessione di finanziamenti
+**Opzione:** ① prestare servizi di pagamento, ai sensi dell'art. 114-novies, comma 4, TUB e quindi iscritti nell'ulteriore relativo albo degli Istituti di Pagamento; ② emettere moneta elettronica, quali iscritti nell'ulteriore albo degli Istituti di Moneta Elettronica; ③ prestare servizi d'investimento, nei casi e alle condizioni previste dalla Banca d'Italia ai sensi dell'art. 18, comma 3, TUF; ④ eseguire le «altre attività», a condizione che siano svolte in via subordinata rispetto alle attività di concessione di finanziamenti
 **Distrattori:**
-- ① Servizi di pagamento; ② emissione di moneta elettronica; ③ servizi d'investimento, alle condizioni previste dalla Banca d'Italia; ④ «altre attività»; tutte e quattro svolte in via subordinata rispetto alla concessione di finanziamenti
+- ① prestare servizi di pagamento, ai sensi dell'art. 114-novies, comma 4, TUB e quindi iscritti nell'ulteriore relativo albo degli Istituti di Pagamento; ② emettere moneta elettronica, quali iscritti nell'ulteriore albo degli Istituti di Moneta Elettronica; ③ prestare servizi d'investimento, nei casi e alle condizioni previste dalla Banca d'Italia ai sensi dell'art. 18, comma 3, TUF; ④ eseguire le «altre attività»; tutte e quattro svolte in via subordinata rispetto alle attività di concessione di finanziamenti
 - ① Il diritto di voto e partecipazione all'assemblea dei soci; ② il diritto ai dividendi, se presenti; ③ il diritto ad acquistare nuove azioni emesse dalla società; ④ il diritto alle attività rimaste dopo la liquidazione della società
 - D.Lgs. 84/1992 → SICAV; Legge 157/1991 → insider trading e obblighi di comunicazione al pubblico; Legge 149/1992 → offerte pubbliche di acquisto e OPA obbligatoria; D.Lgs. 124/1993 → fondi pensione e previdenza complementare
 
@@ -1422,7 +1419,7 @@
 **R:** Credito a breve e medio/lungo: **Banche, SPV**. Leasing finanziario: **società finanziarie di leasing, banche, SPV**. Factoring: **società finanziarie di factoring, banche, SPV**. Credito al consumo: **società finanziarie di credito al consumo, banche, SPV** (slide 60). *Gli «strumenti ad hoc» del transcript sono gli **SPV**, special purpose vehicle.*
 **Opzione:** Credito a breve e medio/lungo: Banche, SPV. Leasing finanziario: società finanziarie di leasing, banche, SPV. Factoring: società finanziarie di factoring, banche, SPV. Credito al consumo: società finanziarie di credito al consumo, banche, SPV
 **Distrattori:**
-- Credito a breve e medio/lungo: Banche. Leasing finanziario: società finanziarie di leasing, banche. Factoring: società finanziarie di factoring, banche. Credito al consumo: società finanziarie di credito al consumo, banche
+- Credito a breve e medio/lungo: Banche, SIM. Leasing finanziario: società finanziarie di leasing, banche, SIM. Factoring: società finanziarie di factoring, banche, SIM. Credito al consumo: società finanziarie di credito al consumo, banche, SIM
 - Borsa Italiana SpA, del London Stock Exchange Group; MTS SpA, di Borsa Italiana SpA; EuroTLX SIM SpA, che gestisce una Multilateral Trading Facility
 - Ministro dell'Economia e delle Finanze: requisiti di idoneità degli esponenti aziendali; CICR: trasparenza; Banca d'Italia: gestione collettiva del risparmio
 
@@ -1576,10 +1573,10 @@
 - Organismo indipendente che valuta autonomamente la capacità di un operatore di restituire i fondi nel tempo.
 
 **D:** ⚠️ Che cos'è l'IVASS e qual è la sua natura giuridica?
-**R:** **Istituto per la Vigilanza delle Assicurazioni**: **ente dotato di personalità giuridica di diritto pubblico** (**non** «autorità amministrativa indipendente», formula che vale per CONSOB, COVIP e AGCM). Opera per **garantire l'adeguata protezione degli assicurati** perseguendo la **sana e prudente gestione delle imprese di assicurazione e riassicurazione** e la loro **trasparenza e correttezza nei confronti della clientela**; persegue **altresì la stabilità del sistema e dei mercati finanziari** (slide 20).
+**R:** **Istituto per la Vigilanza delle Assicurazioni**: **ente dotato di personalità giuridica di diritto pubblico** (la slide non usa per l'IVASS la formula «autorità amministrativa indipendente», che per CONSOB e COVIP compare **accanto** alla personalità giuridica). Opera per **garantire l'adeguata protezione degli assicurati** perseguendo la **sana e prudente gestione delle imprese di assicurazione e riassicurazione** e la loro **trasparenza e correttezza nei confronti della clientela**; persegue **altresì la stabilità del sistema e dei mercati finanziari** (slide 20).
 **Opzione:** Istituto per la Vigilanza delle Assicurazioni: ente dotato di personalità giuridica di diritto pubblico, per l'adeguata protezione degli assicurati e la sana e prudente gestione delle imprese di assicurazione e riassicurazione.
 **Distrattori:**
-- Istituto per la Vigilanza delle Assicurazioni: autorità amministrativa indipendente, per l'adeguata protezione degli assicurati e la sana e prudente gestione delle imprese di assicurazione e riassicurazione.
+- Istituto per la Vigilanza delle Assicurazioni: ente dotato di personalità giuridica di diritto privato, per l'adeguata protezione degli assicurati e la sana e prudente gestione delle imprese di assicurazione e riassicurazione.
 - Vigila sul funzionamento del sistema dei fondi pensione a tutela degli aderenti e dei loro risparmi destinati a previdenza complementare.
 - Società di intermediazione mobiliare: impresa di investimento autorizzata a svolgere servizi o attività di investimento ai sensi del Testo Unico della Finanza.
 
@@ -1776,10 +1773,10 @@
 - Quando le aziende annunciano un cambiamento significativo nei ricavi, il prezzo delle azioni sembra variare eccessivamente; dopo una notevole diminuzione iniziale ci vogliono diverse settimane perché il prezzo torni a livelli più normali.
 
 **D:** ⚠️ Quali misure può adottare l'autorità di risoluzione, e in che ordine?
-**R:** **Quattro**, in ordine di gravità crescente (slide 58): ① **vendere parte della attività**; ② **trasferire temporaneamente attività e passività a una società gestita dalle autorità**; ③ **trasferire le attività deteriorate ad una società specializzata (bad bank) che ne gestisce la liquidazione**; ④ **applicare il bail in**. Il **bail-in è l'ultima**, «qualora queste tre attività non siano sufficienti».
-**Opzione:** In ordine di gravità crescente: vendere parte della attività; trasferire temporaneamente attività e passività a una società gestita dalle autorità; trasferire le attività deteriorate ad una società specializzata (bad bank); applicare il bail-in.
+**R:** **Quattro** (slide 58): ① **vendere parte della attività**; ② **trasferire temporaneamente attività e passività a una società gestita dalle autorità**; ③ **trasferire le attività deteriorate ad una società specializzata (bad bank) che ne gestisce la liquidazione**; ④ **applicare il bail in**. Il **bail-in è l'ultima**, «qualora queste tre attività non siano sufficienti» (transcript [00:14:55]); la slide non ordina le misure per gravità.
+**Opzione:** Vendere parte della attività; trasferire temporaneamente attività e passività a una società gestita dalle autorità; trasferire le attività deteriorate ad una società specializzata (bad bank); infine, qualora queste tre non siano sufficienti, applicare il bail-in.
 **Distrattori:**
-- In ordine di gravità crescente: applicare il bail-in; vendere parte della attività; trasferire temporaneamente attività e passività a una società gestita dalle autorità; trasferire le attività deteriorate ad una società specializzata (bad bank).
+- Vendere parte della attività; trasferire temporaneamente attività e passività a una società gestita dalle autorità; applicare il bail-in; infine, qualora queste tre non siano sufficienti, trasferire le attività deteriorate ad una società specializzata (bad bank).
 - Autorizzazione → Informazione e Autovalutazione → Valutazione sulla base delle informazioni ricevute → Ispezione → Indirizzo e sanzione.
 - Normativa europea; normativa nazionale primaria; normativa nazionale secondaria; orientamenti/pareri ESMA; orientamenti CONSOB.
 
@@ -1868,9 +1865,9 @@
 
 **D:** ⚠️ Come funziona in pratica un sistema di garanzia dei depositi?
 **R:** **Tutte le banche devono aderire** a uno di tali sistemi; le aderenti **versano contributi in base ai rispettivi profili di rischio e ad altri fattori**; il sistema **accumula i contributi in un fondo**; quando la banca è in dissesto e i depositi diventano indisponibili, deve **rimborsare i depositanti titolari di qualsiasi tipo di deposito protetto dalla direttiva** (slide 10). ⚠️ I contributi sono **commisurati al rischio**, non uguali per tutti — stesso principio dei requisiti patrimoniali di Basilea.
-**Opzione:** Tutte le banche devono aderire; versano contributi in base ai profili di rischio e ad altri fattori; il sistema li accumula in un fondo e, se la banca è in dissesto, rimborsa i depositanti di qualsiasi tipo di deposito protetto dalla direttiva.
+**Opzione:** Tutte le banche devono aderire a uno di tali sistemi; versano contributi in base ai rispettivi profili di rischio e ad altri fattori; il sistema li accumula in un fondo e, quando la banca è in dissesto e i depositi diventano indisponibili, deve essere in grado di rimborsare i depositanti titolari di qualsiasi tipo di deposito protetto dalla direttiva.
 **Distrattori:**
-- Tutte le banche devono aderire; versano contributi uguali per tutte, a prescindere dal rischio; il sistema li accumula in un fondo e, se la banca è in dissesto, rimborsa i depositanti di qualsiasi tipo di deposito protetto dalla direttiva.
+- Tutte le banche devono aderire a uno di tali sistemi; versano contributi uguali per tutte, a prescindere dal rischio; il sistema li accumula in un fondo e, quando la banca è in dissesto e i depositi diventano indisponibili, deve essere in grado di rimborsare i depositanti titolari di qualsiasi tipo di deposito protetto dalla direttiva.
 - Autorizzazione → Informazione e Autovalutazione → Valutazione sulla base delle informazioni ricevute → Ispezione → Indirizzo e sanzione.
 - Salvataggio interno, opposto al bail out (salvataggio esterno): svalutare azioni e convertire crediti in azioni per assorbire le perdite e capitalizzare la banca in difficoltà o una nuova entità che ne continui le funzioni essenziali.
 
@@ -1911,9 +1908,9 @@
 
 **D:** ⚠️ Che cos'è il Fondo di Risoluzione Unico e da cosa si distingue dal DIF?
 **R:** Il **Single Resolution Fund (SRF)**: **dal 1° gennaio 2016 gli intermediari dell'area Euro** vi partecipano con **contribuzioni annuali ex-ante**, in base al **Regolamento (UE) n. 806/2014 del 15 luglio 2014**; **verrà utilizzato per la risoluzione delle banche in dissesto quando saranno esaurite le altre opzioni, ad esempio lo strumento del bail-in**; **costituito nell'arco di 8 anni**, target **almeno l'1% dei depositi protetti** di tutti gli enti creditizi dell'Unione bancaria, **circa 55 miliardi di euro** (slide 14). ⚠️ **DIF = terzo pilastro, proposta, rimborsa i depositanti**; **SRF = secondo pilastro, operativo, finanzia la risoluzione dopo il bail-in**.
-**Opzione:** Fondo a contribuzioni annuali ex-ante dal 1° gennaio 2016 (Reg. UE 806/2014): in 8 anni almeno l'1% dei depositi protetti, circa 55 miliardi; finanzia la risoluzione esaurite le altre opzioni, come il bail-in. Il DIF rimborsa i depositanti.
+**Opzione:** Fondo a contribuzioni annuali ex-ante dal 1° gennaio 2016 (Reg. UE 806/2014): costituito in 8 anni, dovrebbe raggiungere almeno l'1% dei depositi protetti, circa 55 miliardi; finanzia la risoluzione quando saranno esaurite le altre opzioni, ad esempio il bail-in. Il DIF rimborsa i depositanti.
 **Distrattori:**
-- Fondo a contribuzioni annuali ex-ante dal 1° gennaio 2016 (Reg. UE 806/2014): in 8 anni almeno l'1% dei depositi protetti, circa 55 miliardi; finanzia la risoluzione prima delle altre opzioni, come il bail-in. Il DIF rimborsa i depositanti.
+- Fondo a contribuzioni annuali ex-ante dal 1° gennaio 2016 (Reg. UE 806/2014): costituito in 8 anni, dovrebbe raggiungere almeno l'1% dei depositi protetti, circa 55 miliardi; finanzia la risoluzione prima delle altre opzioni, ad esempio il bail-in. Il DIF rimborsa i depositanti.
 - Il Comitato di risoluzione unico (Single Resolution Board), agenzia dell'Unione europea con sede a Bruxelles, operativa come agenzia indipendente dell'Unione dal 1º gennaio 2015; sviluppa piani di risoluzione per gli istituti di credito.
 - Dopo la crisi del 2008, norme dirette a rafforzare la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare trasparenza e informativa; mantenuto, rafforzandolo, l'approccio a tre pilastri.
 
@@ -1935,9 +1932,9 @@
 
 **D:** ⚠️ Quali sono le sfide del mercato unico europeo dei capitali?
 **R:** **Cinque** (slide 18): ① gli **investimenti in Europa continuano a dipendere fortemente dalle banche**; ② **sussistono notevoli differenze tra le condizioni di finanziamento tra i paesi dell'UE**; ③ **esistono diverse norme e prassi di mercato per prodotti quali gli strumenti cartolarizzati o i collocamenti privati**; ④ **gli azionisti e gli acquirenti del debito delle imprese si spingono raramente oltre i confini nazionali quando investono**; ⑤ **molte PMI hanno ancora un accesso limitato ai finanziamenti**. ⚠️ Sono la **diagnosi**, da non confondere con i **tre obiettivi**.
-**Opzione:** Forte dipendenza dalle banche; notevoli differenze di condizioni di finanziamento tra paesi UE; norme e prassi diverse per cartolarizzazioni e collocamenti privati; investitori raramente oltre confine; PMI con accesso limitato ai finanziamenti.
+**Opzione:** Gli investimenti in Europa continuano a dipendere fortemente dalle banche; notevoli differenze tra le condizioni di finanziamento tra i paesi dell'UE; diverse norme e prassi di mercato per strumenti cartolarizzati o collocamenti privati; azionisti e acquirenti del debito delle imprese raramente oltre i confini nazionali; molte PMI con accesso ancora limitato ai finanziamenti.
 **Distrattori:**
-- Forte dipendenza dalle banche; notevoli differenze di condizioni di finanziamento tra paesi UE; norme e prassi diverse per cartolarizzazioni e collocamenti privati; investitori raramente oltre confine; un autentico mercato unico dei capitali.
+- Gli investimenti in Europa continuano a dipendere fortemente dalle banche; notevoli differenze tra le condizioni di finanziamento tra i paesi dell'UE; diverse norme e prassi di mercato per strumenti cartolarizzati o collocamenti privati; azionisti e acquirenti del debito delle imprese raramente oltre i confini nazionali; un autentico mercato unico dei capitali.
 - Credito, Durata, Operatività: insolvenza del debitore, incaglio del debitore, gestione sbagliata dei flussi fonti/impieghi, liquidabilità degli strumenti finanziari, rischio di mercato, correttezza degli operatori.
 - Effetto piccole dimensioni · effetto gennaio · effetto overreattivo rispetto ad annunci · volatilità superiore rispetto alle variazioni di informazioni.
 
@@ -2007,9 +2004,9 @@
 
 **D:** ⚠️ Di che cosa si occupa l'EIOPA, e qual è la sua base giuridica e sede?
 **R:** **Autorità europea delle assicurazioni e delle pensioni aziendali e professionali**: **autorità indipendente dell'UE** per **assicurare un livello di regolamentazione e di vigilanza prudenziale per le assicurazioni e le pensioni nell'UE**; può **redigere norme tecniche di regolamentazione e di attuazione, elaborare linee guida, raccomandazioni e fornire pareri alle istituzioni dell'UE** (slide 30). **Regolamento (UE) n. 1094/2010**, sede **Francoforte sul Meno**; si occupa di **imprese di assicurazione e di riassicurazione, intermediari assicurativi, conglomerati finanziari ed enti pensionistici aziendali o professionali**; **avvia e coordina le prove di stress** volte a valutare la **resilienza del settore assicurativo** (slide 31).
-**Opzione:** Regolamento (UE) n. 1094/2010, sede a Francoforte sul Meno; ambito: imprese di assicurazione e riassicurazione, intermediari assicurativi, conglomerati finanziari ed enti pensionistici aziendali o professionali; avvia e coordina le prove di stress.
+**Opzione:** Regolamento (UE) n. 1094/2010, sede a Francoforte sul Meno; si occupa principalmente di imprese di assicurazione e di riassicurazione, intermediari assicurativi, conglomerati finanziari ed enti pensionistici aziendali o professionali; avvia e coordina le prove di stress.
 **Distrattori:**
-- Regolamento (UE) n. 1094/2010, sede a Parigi; ambito: imprese di assicurazione e riassicurazione, intermediari assicurativi, conglomerati finanziari ed enti pensionistici aziendali o professionali; avvia e coordina le prove di stress.
+- Regolamento (UE) n. 1094/2010, sede a Parigi; si occupa principalmente di imprese di assicurazione e di riassicurazione, intermediari assicurativi, conglomerati finanziari ed enti pensionistici aziendali o professionali; avvia e coordina le prove di stress.
 - Assicura le persone con prestazione in unica soluzione (capitale) o periodiche (rendita) al verificarsi di eventi che riguardano la vita umana come la morte o la sopravvivenza; premi investiti in strumenti mobiliari anche a medio lungo termine.
 - Nel 1993, con d.lgs. n. 124 del 21 aprile 1993; opera nella configurazione attuale — con personalità giuridica di diritto pubblico — dal 1996.
 
@@ -2031,9 +2028,9 @@
 
 **D:** ⚠️ Quali attività svolge l'ESMA e chi ne fa parte?
 **R:** **Quattro attività** (slide 34): **valutazione dei rischi per gli investitori, i mercati e la stabilità finanziaria**; **promozione della trasparenza e tutela degli investitori**; **completamento del codice unico per i mercati finanziari dell'UE**; **miglioramento del mercato unico dell'UE**. **Membri**: le **autorità nazionali responsabili in materia di mercati dei titoli in ciascun paese dell'UE**. **Membri senza diritto di voto**: **EBA, EIOPA, CERS e Commissione europea**. ⚠️ La distinzione **con / senza diritto di voto** è **solo sulla slide**.
-**Opzione:** Valutazione dei rischi per investitori, mercati e stabilità finanziaria; trasparenza e tutela degli investitori; codice unico e mercato unico UE. Membri: autorità nazionali dei mercati dei titoli; senza voto EBA, EIOPA, CERS e Commissione.
+**Opzione:** Valutazione dei rischi per gli investitori, i mercati e la stabilità finanziaria; promozione della trasparenza e tutela degli investitori; completamento del codice unico per i mercati finanziari dell'UE; miglioramento del mercato unico dell'UE. Membri: le autorità nazionali responsabili in materia di mercati dei titoli in ciascun paese dell'UE; senza diritto di voto EBA, EIOPA, CERS e Commissione europea.
 **Distrattori:**
-- Valutazione dei rischi per investitori, mercati e stabilità finanziaria; trasparenza e tutela degli investitori; codice unico e mercato unico UE. Membri: EBA, EIOPA, CERS e Commissione; senza voto le autorità nazionali dei mercati dei titoli.
+- Valutazione dei rischi per gli investitori, i mercati e la stabilità finanziaria; promozione della trasparenza e tutela degli investitori; completamento del codice unico per i mercati finanziari dell'UE; miglioramento del mercato unico dell'UE. Membri: EBA, EIOPA, CERS e Commissione europea; senza diritto di voto le autorità nazionali responsabili in materia di mercati dei titoli in ciascun paese dell'UE.
 - Valutazioni prudenziali, ispezioni in loco e indagini; concessione o revoca di licenze bancarie; valutazione di acquisto e cessione di partecipazioni qualificate; conformità alla normativa prudenziale UE; requisiti patrimoniali più elevati.
 - Gestire fondi comuni di propria istituzione e patrimoni di SICAV o SICAF; gestione di portafogli; consulenza in materia di investimenti; ricezione e trasmissione di ordini; qualora autorizzate, gestione di Fondi di investimento alternativi (FIA).
 
@@ -2087,9 +2084,9 @@
 
 **D:** ⚠️ Che cos'è la BIS e che rapporto ha con il Comitato di Basilea?
 **R:** «A Basilea, in Svizzera, si riunisce **fin dal 17 maggio del 1930** la **Banca dei regolamenti internazionali (BIS)**, la **più antica istituzione finanziaria internazionale del mondo**. Il suo **scopo è quello di aiutare le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale**» (slide 43). Oggi il **Comitato di Basilea** è il **principale organismo internazionale di definizione degli standard internazionali per la regolamentazione prudenziale del sistema bancario**. ⚠️ Due soggetti distinti: la **BIS** è l'**istituzione** che aiuta le banche centrali; il **Comitato** definisce gli **standard**.
-**Opzione:** Dal 17 maggio 1930 la più antica istituzione finanziaria internazionale: aiuta le banche centrali nella stabilizzazione monetaria e finanziaria globale; il Comitato di Basilea definisce gli standard prudenziali bancari.
+**Opzione:** Dal 17 maggio 1930 la più antica istituzione finanziaria internazionale del mondo: aiuta le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale; il Comitato di Basilea è il principale organismo internazionale di definizione degli standard per la regolamentazione prudenziale del sistema bancario.
 **Distrattori:**
-- Dal 17 maggio 1930 la più antica istituzione finanziaria internazionale: definisce gli standard prudenziali bancari; il Comitato di Basilea aiuta le banche centrali nella stabilizzazione monetaria e finanziaria globale.
+- Dal 17 maggio 1930 la più antica istituzione finanziaria internazionale del mondo: è il principale organismo internazionale di definizione degli standard per la regolamentazione prudenziale del sistema bancario; il Comitato di Basilea aiuta le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale.
 - La BCE decide se la banca sia in dissesto o a rischio di dissesto e attiva il meccanismo di risoluzione unico; il Comitato di risoluzione unico (SRB) garantisce la risoluzione ordinata delle banche in difficoltà.
 - Nel 1974, con solo due compiti: il controllo della borsa e il controllo di trasparenza sugli emittenti quotati in borsa.
 
@@ -2119,25 +2116,25 @@
 
 **D:** ⚠️ Che cosa prevede il II pilastro di Basilea II?
 **R:** Il **processo di controllo prudenziale**: «il **sistema di valutazione e controllo dei rischi delle banche è posto** [sotto la] **supervisione delle autorità di vigilanza, che devono accertare che i sistemi interni di risk management delle banche siano affidabili, che il management ne faccia un uso appropriato e che la banca abbia una dotazione di capitale adeguata per i rischi in essere**» (slide 47). ⚠️ **Tre** cose da accertare: **affidabilità** dei sistemi · **uso appropriato** da parte del management · **dotazione di capitale adeguata**. È l'ICAAP/SREP della lezione 05.
-**Opzione:** Il processo di controllo prudenziale: le autorità di vigilanza accertano che i sistemi interni di risk management siano affidabili, che il management ne faccia un uso appropriato e che la banca abbia una dotazione di capitale adeguata per i rischi.
+**Opzione:** Il processo di controllo prudenziale: le autorità di vigilanza devono accertare che i sistemi interni di risk management siano affidabili, che il management ne faccia un uso appropriato e che la banca abbia una dotazione di capitale adeguata per i rischi in essere.
 **Distrattori:**
-- Il processo di controllo prudenziale: le autorità di vigilanza accertano che i sistemi interni di risk management siano affidabili, che il management ne faccia un uso appropriato e che la banca distribuisca agli azionisti dividendi adeguati.
+- Il processo di controllo prudenziale: le autorità di vigilanza devono accertare che i sistemi interni di risk management siano affidabili, che il management ne faccia un uso appropriato e che la banca distribuisca agli azionisti dividendi adeguati.
 - Stabilire una correlazione tra capitale necessario e livello di rischio di credito di ogni singola posizione.
 - Il deposito è un prestito a vista (si possono richiedere indietro le risorse in ogni momento), ma la banca, fidando del fatto che gran parte dei fondi resta per un periodo ben più lungo, li presta a scadenze molto più lunghe.
 
 **D:** ⚠️ Che cosa prevede il III pilastro di Basilea II e perché si chiama «disciplina di mercato»?
 **R:** Stabilisce gli **standard minimi di informazione che ogni banca deve fornire al mercato** su **patrimonio di vigilanza, esposizione ai rischi, processi di valutazione dei rischi e ambito di applicazione** (slide 48). Il nome deriva dall'effetto: «il **mercato può così esprimere una valutazione sull'adeguatezza della capitalizzazione della banca e discriminare** tra banche con sistemi di gestione appropriati e capitalizzazione adeguata e banche in condizioni diverse. Il mercato **premierebbe le prime e penalizzerebbe le seconde**». ⚠️ Meccanismo **reputazionale**, non sanzionatorio; **quattro** oggetti dell'informativa.
-**Opzione:** Standard minimi di informazione che ogni banca deve fornire al mercato su patrimonio di vigilanza, esposizione ai rischi, processi di valutazione dei rischi e ambito di applicazione; il mercato premia le banche adeguate e penalizza le altre.
+**Opzione:** Standard minimi di informazione che ogni banca deve fornire al mercato su patrimonio di vigilanza, esposizione ai rischi, processi di valutazione dei rischi e ambito di applicazione; il mercato premierebbe le banche adeguate e penalizzerebbe le altre.
 **Distrattori:**
-- Standard minimi di informazione che ogni banca deve fornire al mercato su patrimonio di vigilanza, esposizione ai rischi, processi di valutazione dei rischi e ambito di applicazione; le autorità di vigilanza irrogano sanzioni alle banche inadeguate.
+- Standard minimi di informazione che ogni banca deve fornire al mercato su patrimonio di vigilanza, esposizione ai rischi, processi di valutazione dei rischi e ambito di applicazione; le autorità di vigilanza irrogherebbero sanzioni alle banche inadeguate.
 - Si verifica quando tutte le informazioni disponibili vengono usate per determinare correttamente il valore di un'impresa, con selezione delle informazioni disponibili, utilizzando solamente quelle attendibili.
 - Il «Sistema di analisi aziendale», con cui formula un giudizio complessivo sulla banca ed attiva misure correttive.
 
 **D:** ⚠️ Che cosa ha aggiunto Basilea III?
 **R:** Dopo la crisi del **2008**, norme **dirette a rafforzare significativamente la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche** e **ad aumentare la trasparenza e l'informativa degli intermediari** (slide 49). ⚠️ Le norme hanno **mantenuto un approccio a «tre pilastri», come nel precedente accordo Basilea II, rafforzandolo** (slide 50): Basilea III **non aggiunge pilastri**.
-**Opzione:** Dopo la crisi del 2008, norme dirette a rafforzare la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare trasparenza e informativa; mantenuto, rafforzandolo, l'approccio a tre pilastri.
+**Opzione:** Dopo la crisi del 2008, norme dirette a rafforzare significativamente la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare la trasparenza e l'informativa degli intermediari; mantenuto, rafforzandolo, l'approccio a tre pilastri.
 **Distrattori:**
-- Dopo la crisi del 2008, norme dirette a rafforzare la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare trasparenza e informativa; aggiunto un quarto pilastro ai tre di Basilea II.
+- Dopo la crisi del 2008, norme dirette a rafforzare significativamente la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare la trasparenza e l'informativa degli intermediari; aggiunto un quarto pilastro ai tre di Basilea II.
 - La prima disciplina organica delle attività di intermediazione mobiliare; istituisce le società di intermediazione mobiliare; incisivi interventi di riforma dei mercati borsistici; i controlli sono ripartiti tra Consob e Banca d'Italia.
 - L'ampliamento delle competenze della Consob ad attività non necessariamente connesse con la borsa e i primi controlli sulla raccolta del risparmio non bancario («sollecitazione al pubblico risparmio»).
 
@@ -2310,7 +2307,7 @@
 **Distrattori:**
 - Il finanziamento delle unità in deficit avviene esclusivamente con l'interposizione di intermediari come le banche.
 - Il finanziamento delle unità in deficit si compie mediante l'emissione ed il collocamento di strumenti negoziabili.
-- Il finanziamento delle unità in deficit avviene prevalentemente con l'interposizione di intermediari come i fondi comuni di investimento.
+- L'abbandono del baratto in una economia di mercato presuppone la esistenza, la disponibilità e credibilità di mezzi di pagamento.
 
 **D:** ⚠️ Quali aree hanno struttura orientata agli intermediari e quali al mercato?
 **R:** «**Nell'Eurozona e in Giappone la struttura finanziaria è caratterizzata da un ruolo predominante del sistema bancario**»; «**negli USA la struttura finanziaria è caratterizzata da una elevata incidenza dei mercati mobiliari**» (slide 29). ⚠️ Le due formule sono asimmetriche: «ruolo **predominante** del sistema bancario» / «elevata **incidenza** dei mercati **mobiliari**». *(Il transcript dice «immobiliari»: errore ASR.)*
@@ -2322,9 +2319,9 @@
 
 **D:** Che cosa mostrano i grafici sulla dimensione dei mercati finanziari a inizio millennio?
 **R:** *Size of the Financial Markets by Country/Region* (slide 30–31), in **% del PIL**, per **1995** e **2003**, con quattro serie: **bank loans · stock market capitalisation · bond market (public) · bond market (private)**. Risultato: «**Giappone ed Europa hanno una parte prevalente di prestiti bancari**», mentre in **USA e UK** prevalgono capitalizzazione azionaria e mercato obbligazionario.
-**Opzione:** Quattro serie in % del PIL, 1995 e 2003: bank loans, stock market capitalisation, bond market (public), bond market (private); Giappone ed Europa hanno una parte prevalente di prestiti bancari, in USA e UK prevalgono azioni e obbligazioni.
+**Opzione:** Quattro serie in % del PIL, 1995 e 2003: bank loans, stock market capitalisation, bond market (public), bond market (private); Giappone ed Europa hanno una parte prevalente di prestiti bancari, USA e Regno Unito la presenza azionaria rispetto al PIL più forte.
 **Distrattori:**
-- Quattro serie in % del PIL, 1995 e 2003: bank loans, stock market capitalisation, bond market (public), bond market (private); USA e UK hanno una parte prevalente di prestiti bancari, in Giappone ed Europa prevalgono azioni e obbligazioni.
+- Quattro serie in % del PIL, 1995 e 2003: bank loans, stock market capitalisation, bond market (public), bond market (private); USA e Regno Unito hanno una parte prevalente di prestiti bancari, Giappone ed Europa la presenza azionaria rispetto al PIL più forte.
 - Dal 31 dicembre 1996 (741): +106% fino al 24 marzo 2000 (1.527, P/E 25,6x); −49% fino al 9 ottobre 2002 (777); +101% fino al 9 ottobre 2007 (1.565); −57% fino al 9 marzo 2009 (677, P/E 10,3x); +195% fino al 30 gennaio 2015 (1.995).
 - Banche da circa 725 a circa 530 e filiali da circa 32.800 a circa 27.300 tra il 2011 e il 2017: 200 banche in meno in 6 anni, ritmo accelerato dalle riforme delle banche popolari (2015) e delle BCC (2016).
 
@@ -2426,9 +2423,9 @@
 
 **D:** ⚠️ Perché le banche hanno spinto le famiglie verso il risparmio gestito?
 **R:** «Le **stesse banche hanno spinto le famiglie alla diversificazione in fondi comuni di investimento**» (slide 49). Nel **2014-2016** circa **300 miliardi** di obbligazioni bancarie sono stati trasformati in **asset gestiti**. Il motivo (transcript): i fondi sono per la banca **più redditizi** e **meno rischiosi** — generano **commissioni** senza assorbire capitale di vigilanza. Distinzione: **risparmio amministrato** = investimento **diretto in titoli**; **risparmio gestito** = **fondi o gestioni patrimoniali**.
-**Opzione:** Le stesse banche hanno spinto le famiglie alla diversificazione in fondi comuni di investimento: per la banca sono più redditizi e meno rischiosi, perché generano commissioni senza assorbire capitale di vigilanza.
+**Opzione:** Le stesse banche hanno spinto le famiglie alla diversificazione in fondi comuni di investimento: per la banca sono molto più redditizi e molto meno rischiosi come attività.
 **Distrattori:**
-- Le stesse banche hanno spinto le famiglie alla diversificazione in fondi comuni di investimento: per la banca sono più redditizi ma più rischiosi, perché generano commissioni assorbendo capitale di vigilanza.
+- Le stesse banche hanno spinto le famiglie alla diversificazione in fondi comuni di investimento: per la banca sono molto più redditizi ma molto più rischiosi come attività.
 - Perché i depositi sono passività della banca e non hanno potere liberatorio legale: accetto l'assegno perché confido nella possibilità di incassare (tramutare in moneta) presentandolo presso la banca.
 - Il deposito è un prestito a vista (si possono richiedere indietro le risorse in ogni momento), ma la banca, fidando del fatto che gran parte dei fondi resta per un periodo ben più lungo, li presta a scadenze molto più lunghe.
 
@@ -2497,9 +2494,9 @@
 
 **D:** ⚠️ Verso quale modello stanno convergendo i sistemi finanziari?
 **R:** «**Globalizzazione e innovazione tecnologica stanno uniformando e collegando sempre più i sistemi finanziari nazionali**» (slide 65), con **due movimenti speculari**: «**riduzione del peso delle banche nel finanziamento alle imprese**» (slide 66) e «**forte crescita del peso e del ruolo dei mercati**» (slide 67). ⚠️ La convergenza è **verso il modello di mercato**, non verso una media.
-**Opzione:** Verso il modello di mercato: globalizzazione e innovazione tecnologica stanno uniformando i sistemi finanziari nazionali, con riduzione del peso delle banche nel finanziamento alle imprese e forte crescita del peso e del ruolo dei mercati.
+**Opzione:** Verso il modello di mercato: globalizzazione e innovazione tecnologica stanno uniformando e collegando sempre più i sistemi finanziari nazionali, con riduzione del peso delle banche nel finanziamento alle imprese e forte crescita del peso e del ruolo dei mercati.
 **Distrattori:**
-- Verso un modello intermedio fra i due: globalizzazione e innovazione tecnologica stanno uniformando i sistemi finanziari nazionali, con riduzione del peso delle banche nel finanziamento alle imprese e forte crescita del peso e del ruolo dei mercati.
+- Verso un modello intermedio fra i due: globalizzazione e innovazione tecnologica stanno uniformando e collegando sempre più i sistemi finanziari nazionali, con riduzione del peso delle banche nel finanziamento alle imprese e forte crescita del peso e del ruolo dei mercati.
 - Il finanziamento delle unità in deficit avviene prevalentemente con l'interposizione di intermediari come le banche.
 - Un sistema di cambi fissi, ma regolabili, basati sul dollaro americano il cui valore è basato sul prezzo dell'oro: 1 oncia di oro = 35 dollari (1944); il dollaro era divenuto la divisa di scambio del mondo.
 
@@ -2513,9 +2510,9 @@
 
 **D:** ⚠️ Che cosa ha introdotto la direttiva PSD2?
 **R:** (slide 69) Nel **2015-2019**, tra le riforme, quella del sistema dei pagamenti: la **PSD2** ha introdotto «**maggiore concorrenza sul mercato dei pagamenti aprendo le informazioni dei conti correnti bancari a tutti i fornitori di servizi di pagamento**» — **banche, assicurazioni, Fintech, telco (telephone company), TPP (Third Party Providers)**. «**Chiede alle banche di concedere ai TPP un accesso sicuro ai conti dei clienti e alle informazioni sui pagamenti**», per un **mercato europeo dei pagamenti più efficiente**. È «una **opportunità enorme per i players non tradizionali**».
-**Opzione:** Maggiore concorrenza sul mercato dei pagamenti, aprendo le informazioni dei conti correnti bancari a tutti i fornitori di servizi di pagamento (banche, assicurazioni, Fintech, telco, TPP), con accesso sicuro dei TPP ai conti dei clienti.
+**Opzione:** Maggiore concorrenza sul mercato dei pagamenti, aprendo le informazioni dei conti correnti bancari a tutti i fornitori di servizi di pagamento (banche, assicurazioni, Fintech, telco, TPP), con accesso sicuro dei TPP ai conti dei clienti e alle informazioni sui pagamenti.
 **Distrattori:**
-- Maggiore concorrenza sul mercato dei pagamenti, aprendo le informazioni dei conti correnti bancari a tutti i fornitori di servizi di pagamento (banche, assicurazioni, Fintech, telco, TPP), con accesso sicuro delle banche ai sistemi dei TPP.
+- Maggiore concorrenza sul mercato dei pagamenti, aprendo le informazioni dei conti correnti bancari a tutti i fornitori di servizi di pagamento (banche, assicurazioni, Fintech, telco, TPP), con accesso sicuro delle banche ai sistemi dei TPP e alle informazioni sui pagamenti.
 - Ha rafforzato ruolo, requisiti fondamentali di autonomia e indipendenza, poteri e legami con le unità europee dell'UIF e introdotto l'obbligo di «scambio automatico» delle segnalazioni di operazioni sospette transfrontaliere.
 - Fa obbligo alle banche di accantonare capitale sufficiente per coprire perdite inattese e rimanere solvibili in situazione di crisi; l'importo del capitale dipende dal rischio legato alle attività.
 
@@ -2603,9 +2600,9 @@
 
 **D:** ⚠️ Come definiscono le slide i fondi comuni?
 **R:** «**Strumenti di investimento, gestiti dalle società di gestione del risparmio (SGR), che riuniscono le somme di più risparmiatori e le investono, come un unico patrimonio, in attività finanziarie (azioni, obbligazioni, titoli di stato, ecc.) o in immobili, rispettando regole volte a ridurre i rischi**» (slide 13). ⚠️ **Cinque** elementi; la parentesi con le attività e la chiusura sulle **regole volte a ridurre i rischi** sono le parti che il transcript omette.
-**Opzione:** Strumenti gestiti dalle SGR, che riuniscono le somme di più risparmiatori e le investono, come un unico patrimonio, in attività finanziarie (azioni, obbligazioni, titoli di stato, ecc.) o in immobili, rispettando regole volte a ridurre i rischi.
+**Opzione:** Strumenti di investimento, gestiti dalle società di gestione del risparmio (SGR), che riuniscono le somme di più risparmiatori e le investono, come un unico patrimonio, in attività finanziarie (azioni, obbligazioni, titoli di stato, ecc.) o in immobili, rispettando regole volte a ridurre i rischi.
 **Distrattori:**
-- Strumenti gestiti dalle SIM, che riuniscono le somme di più risparmiatori e le investono, come un unico patrimonio, in attività finanziarie (azioni, obbligazioni, titoli di stato, ecc.) o in immobili, rispettando regole volte a ridurre i rischi.
+- Strumenti di investimento, gestiti dalle società di intermediazione mobiliare (SIM), che riuniscono le somme di più risparmiatori e le investono, come un unico patrimonio, in attività finanziarie (azioni, obbligazioni, titoli di stato, ecc.) o in immobili, rispettando regole volte a ridurre i rischi.
 - Qualsiasi dispositivo personalizzato o insieme di procedure concordate tra l'utilizzatore e il prestatore di servizi di pagamento, di cui l'utilizzatore si avvale per impartire un ordine di pagamento.
 - Sistemi istituiti in ciascuno Stato membro per rimborsare i depositanti, fino a un limite stabilito, qualora la loro banca sia in dissesto e i depositi diventino indisponibili.
 
@@ -2726,7 +2723,7 @@
 **Opzione:** Dovrebbero muoversi in modo coerente rispetto al flusso di informazioni su rischio e rendimento atteso, riflettendo la probabilità di rendimento corretta per il rischio e per il tempo; ogni variazione dovrebbe riflettere nuove informazioni.
 **Distrattori:**
 - Dovrebbero muoversi in modo coerente rispetto al flusso di informazioni su rischio e rendimento atteso, riflettendo la probabilità di rendimento corretta per il rischio e per l'inflazione; ogni variazione dovrebbe riflettere nuove informazioni.
-- L'aspettativa segue le prestazioni passate, soprattutto quelle recenti; ciò contrasta col fatto che a un periodo di rialzo ne segue uno di ribasso e viceversa: l'investitore tende a staticizzare il mercato in cui è.
+- L'aspettativa segue le prestazioni passate, soprattutto quelle recenti; ciò contrasta con il fatto che, spesso, a un periodo di rialzo ne segue uno di ribasso e viceversa: sembrerebbe cioè che l'investitore tenda a staticizzare il mercato in cui è.
 - Dovrebbero essere il frutto dell'evoluzione storica e del contesto istituzionale ed economico di ciascun Paese.
 
 **D:** ⚠️ I mercati si comportano in modo efficiente?
@@ -2758,9 +2755,9 @@
 
 **D:** ⚠️ Che cos'è l'effetto overreattivo rispetto ad annunci?
 **R:** Quando le aziende annunciano un **cambiamento significativo nei ricavi**, «il **prezzo delle azioni sembra variare eccessivamente**; dopo una notevole diminuzione iniziale ci vogliono **diverse settimane** perché il prezzo torni a livelli più normali» (slide 38). ⚠️ Contraddice l'ipotesi di efficienza perché consentirebbe una **strategia di arbitraggio**: **comprare subito dopo l'annuncio di riduzione dei ricavi e vendere dopo un paio di settimane**.
-**Opzione:** Quando le aziende annunciano un cambiamento significativo nei ricavi, il prezzo delle azioni sembra variare eccessivamente; dopo una notevole diminuzione iniziale ci vogliono diverse settimane perché il prezzo torni a livelli più normali.
+**Opzione:** Quando le aziende annunciano un cambiamento significativo nei ricavi (per esempio, una diminuzione importante), il prezzo delle azioni sembra variare eccessivamente; dopo una notevole diminuzione iniziale, ci vogliono diverse settimane perché il prezzo aumenti e torni a livelli più normali.
 **Distrattori:**
-- Quando le aziende annunciano un cambiamento significativo nei ricavi, il prezzo delle azioni sembra variare eccessivamente; dopo un notevole aumento iniziale ci vogliono diverse settimane perché il prezzo torni a livelli più normali.
+- Quando le aziende annunciano un cambiamento significativo nei ricavi (per esempio, una diminuzione importante), il prezzo delle azioni sembra variare eccessivamente; dopo un notevole aumento iniziale, ci vogliono diverse settimane perché il prezzo diminuisca e torni a livelli più normali.
 - Quando la situazione è tale da non assicurare la continuità dei servizi e da pregiudicare la stabilità del sistema finanziario: la banca può allora essere sottoposta a risoluzione nell'interesse pubblico.
 - Più paura di perdere che piacere nel guadagnare: su 1.000 euro, A = 50% di guadagnare 200 euro e 50% di perderne 100; B = 100% di guadagnare 50 euro. Il rendimento atteso è di 50 euro in entrambi i casi, ma i più scelgono B.
 
@@ -2774,17 +2771,17 @@
 
 **D:** ⚠️ Che cos'è la finanza comportamentale e quali fattori considera?
 **R:** Approcci alternativi che «**coniugano teoria della finanza con aspetti di psicologia cognitiva**», nati per rispondere alle anomalie. Gli individui sono condizionati da **cinque** fattori (slide 41): **le esperienze passate e l'avversione alle perdite; le credenze; il contesto; il formato di presentazione delle informazioni; l'incompletezza informativa frequente nei contesti finanziari reali**. ⚠️ La prima voce è **doppia**.
-**Opzione:** Approcci che coniugano teoria della finanza con aspetti di psicologia cognitiva; fattori: le esperienze passate e l'avversione alle perdite; le credenze; il contesto; il formato di presentazione delle informazioni; l'incompletezza informativa.
+**Opzione:** Approcci alternativi che coniugano teoria della finanza con aspetti di psicologia cognitiva; gli individui sono condizionati da fattori come le esperienze passate e l'avversione alle perdite; le credenze; il contesto; il formato di presentazione delle informazioni; l'incompletezza informativa frequente nei contesti finanziari reali.
 **Distrattori:**
-- Approcci che coniugano teoria della finanza con aspetti di psicologia cognitiva; fattori: le esperienze passate e la propensione al rischio; le credenze; il contesto; il formato di presentazione delle informazioni; l'incompletezza informativa.
+- Approcci alternativi che coniugano teoria della finanza con aspetti di psicologia cognitiva; gli individui sono condizionati da fattori come le esperienze passate e l'avversione alle perdite; le credenze; il contesto; il formato di presentazione delle informazioni; l'incompletezza informativa rara nei contesti finanziari reali.
 - Sistema di vigilanza e risoluzione bancaria dell'UE per: solidità delle banche; criteri uniformi di vigilanza, risanamento e risoluzione; evitare che il pubblico erario salvi banche in dissesto; stabilità finanziaria nella zona euro.
 - Stimoli al cambiamento: regolamentazione, innovazione tecnologica, digitalizzazione, competizione esterna e mutamenti geopolitici.
 
 **D:** ⚠️ Come agiscono le esperienze passate sugli investitori?
 **R:** «L'**aspettativa segue le prestazioni passate, soprattutto quelle recenti**»: le previsioni di rendimento sono tanto maggiori quanto maggiori sono stati i rendimenti dell'ultimo periodo. Ciò contrasta col fatto che «**a un periodo di rialzo ne segue uno di ribasso e viceversa**»: l'investitore «**tende a staticizzare il mercato in cui è, forse per l'innato desiderio della sicurezza conseguente alla stabilità**» (slide 42).
-**Opzione:** L'aspettativa segue le prestazioni passate, soprattutto quelle recenti; ciò contrasta col fatto che a un periodo di rialzo ne segue uno di ribasso e viceversa: l'investitore tende a staticizzare il mercato in cui è.
+**Opzione:** L'aspettativa segue le prestazioni passate, soprattutto quelle recenti; ciò contrasta con il fatto che, spesso, a un periodo di rialzo ne segue uno di ribasso e viceversa: sembrerebbe cioè che l'investitore tenda a staticizzare il mercato in cui è.
 **Distrattori:**
-- L'aspettativa segue le prestazioni passate, soprattutto quelle più remote; ciò contrasta col fatto che a un periodo di rialzo ne segue uno di ribasso e viceversa: l'investitore tende a staticizzare il mercato in cui è.
+- L'aspettativa segue le prestazioni passate, soprattutto quelle più remote; ciò contrasta con il fatto che, spesso, a un periodo di rialzo ne segue uno di ribasso e viceversa: sembrerebbe cioè che l'investitore tenda a staticizzare il mercato in cui è.
 - Le banche hanno cambiato modello organizzativo aumentando la componente servizi sotto la pressione della riduzione dei margini di interesse.
 - I depositi sono passività della banca e non hanno potere liberatorio legale: accetto l'assegno perché confido nella possibilità di incassarlo presentandolo presso la banca.
 
@@ -2808,7 +2805,7 @@
 **R:** Tre stadi (slide 47–49): il **baratto** — scambio **diretto**, che richiedeva **contiguità**; «**oggi utilizziamo denaro per comprare beni e servizi nella nostra nazione**»; «**o possiamo comprare monete di altri paesi per comprare beni e servizi di altre nazioni**». ⚠️ Il terzo stadio introduce il **cambio**: non solo si usa moneta, si **comprano monete**.
 **Opzione:** Tre stadi: il baratto, scambio diretto che richiedeva contiguità; oggi utilizziamo denaro per comprare beni e servizi nella nostra nazione; o possiamo comprare monete di altri paesi per comprare beni e servizi di altre nazioni.
 **Distrattori:**
-- Tre stadi: il baratto, scambio diretto che richiedeva contiguità; oggi utilizziamo denaro per comprare beni e servizi nella nostra nazione; o possiamo usare il denaro della nostra nazione per comprare beni e servizi di altre nazioni.
+- Tre stadi: il baratto, scambio indiretto che richiedeva contiguità; oggi utilizziamo denaro per comprare beni e servizi nella nostra nazione; o possiamo comprare monete di altri paesi per comprare beni e servizi di altre nazioni.
 - Quattro tappe: Unione Monetaria, Unione Bancaria, Spazio europeo dei pagamenti (SEPA) e Mercato unico dei capitali.
 - Le caratteristiche del sistema finanziario di ciascun Paese sono il frutto dell'evoluzione storica e del contesto istituzionale ed economico.
 
@@ -2961,9 +2958,9 @@
 
 **D:** ⚠️ Quali sono le tre categorie di moneta secondo la slide riepilogativa?
 **R:** (slide 50) **Moneta legale** — «**banconote e monete metalliche emesse dalla Banca Centrale**» (la BCE emette gli euro), «**accettazione imposta per legge**». **Moneta bancaria** — «**trae origine dall'attività delle banche e dai collegamenti che ci sono tra essi** (es. addebiti e accrediti di conti correnti)», «**è costituita da depositi bancari a vista**», «**è una moneta fiduciaria, perché l'accettazione si basa sulla fiducia**». **Moneta elettronica** — «**è uno strumento di pagamento**», «**trasferisce informazioni**», «**massima dematerializzazione della moneta**». ⚠️ Il discrimine tra le prime due è l'**accettazione**: **per legge** o **per fiducia**.
-**Opzione:** Legale: banconote e monete metalliche emesse dalla Banca Centrale, accettazione imposta per legge; bancaria: depositi bancari a vista, moneta fiduciaria; elettronica: strumento di pagamento, trasferisce informazioni, massima dematerializzazione.
+**Opzione:** Legale: banconote e monete metalliche emesse dalla Banca Centrale, accettazione imposta per legge; bancaria: trae origine dall'attività delle banche e dai collegamenti che ci sono tra essi, è costituita da depositi bancari a vista, è una moneta fiduciaria, perché l'accettazione si basa sulla fiducia; elettronica: è uno strumento di pagamento, trasferisce informazioni, massima dematerializzazione della moneta.
 **Distrattori:**
-- Legale: banconote e monete metalliche emesse dalla Banca Centrale, accettazione basata sulla fiducia; bancaria: depositi bancari a vista, moneta fiduciaria; elettronica: strumento di pagamento, trasferisce informazioni, massima dematerializzazione.
+- Legale: banconote e monete metalliche emesse dalla Banca Centrale, accettazione basata sulla fiducia; bancaria: trae origine dall'attività delle banche e dai collegamenti che ci sono tra essi, è costituita da depositi bancari a vista, è una moneta fiduciaria, perché l'accettazione si basa sulla fiducia; elettronica: è uno strumento di pagamento, trasferisce informazioni, massima dematerializzazione della moneta.
 - Credito: ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese sul conto corrente; prepagata: il limite di uso è dato dalla carica della carta; debito: l'importo è addebitato sul conto immediatamente, solo se ci sono fondi.
 - Debole: sono noti solo i prezzi del passato. Semi-forte: è nota anche l'informazione di dominio pubblico. Forte: i prezzi riflettono anche l'informazione riservata; è difficilmente realizzabile.
 
@@ -3033,9 +3030,9 @@
 
 **D:** ⚠️ Che differenza c'è tra carta di credito, prepagata e di debito?
 **R:** **Carta di credito** (slide 44–45): «nota anche come **moneta elettronica**»; «**ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese (o a scadenze predefinite) sul conto corrente**». **Carta prepagata** (slide 46): «il **limite di uso è dato dalla carica della carta**»; ricaricabile o meno; «**utile per sicurezza (internet) o per inabili alle attività bancarie (minori, etc.)**». **Carta di debito** (slide 47): si preleva con **ATM (automated teller machine)** o si paga con **POS (point of sale)**; «l'**importo è addebitato sul conto immediatamente** e l'**operazione avviene solo se ci sono fondi**». ⚠️ La differenza sostanziale: la **credito comporta un prestito**, la **debito no**.
-**Opzione:** Credito: ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese sul conto corrente; prepagata: il limite di uso è dato dalla carica della carta; debito: l'importo è addebitato sul conto immediatamente, solo se ci sono fondi.
+**Opzione:** Credito: ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese (o a scadenze predefinite) sul conto corrente; prepagata: il limite di uso è dato dalla carica della carta; debito: l'importo è addebitato sul conto immediatamente, solo se ci sono fondi.
 **Distrattori:**
-- Credito: l'importo è addebitato sul conto immediatamente, solo se ci sono fondi; prepagata: il limite di uso è dato dalla carica della carta; debito: ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese sul conto corrente.
+- Credito: ad ogni pagamento la banca concede un prestito che viene addebitato a fine mese (o a scadenze predefinite) sul conto corrente; prepagata: il limite di uso è dato dalla carica della carta; debito: l'importo è addebitato sul conto immediatamente, anche se non ci sono fondi.
 - Spessore = ordini vicino al prezzo corrente; ampiezza = abbastanza ordini a ogni livello di prezzo; elasticità = nuovi ordini opposti dopo uno shock.
 - Sigla nazione: 2 lettere; controllo internazionale: 2 cifre; controllo nazionale: 1 lettera; ABI: 5 cifre; CAB: 5 cifre; conto corrente: 12 cifre.
 
@@ -3044,11 +3041,11 @@
 
 **D:** ⚠️ Quali altre funzioni svolge la moneta oltre a essere mezzo di pagamento?
 **R:** **Unità di conto / misura di valore** — i prezzi di tutti i beni sono espressi in unità monetarie — e **riserva di valore** — si può **detenere moneta come parte della propria ricchezza**, in alternativa alle **attività finanziarie** o alle **attività reali** (slide 51–54, illustrate solo per immagini; le tre funzioni sono enunciate nel transcript [00:13:40]).
-**Opzione:** Unità di conto / misura di valore — i prezzi di tutti i beni sono espressi in unità monetarie — e riserva di valore — si può detenere moneta come parte della propria ricchezza, in alternativa alle attività finanziarie o alle attività reali.
+**Opzione:** Unità di conto e misura di valore: il valore di ogni bene o servizio viene misurato rispetto alla moneta, comune denominatore in cui si esprimono tutti i rapporti di scambio; riserva di valore: la moneta rappresenta un potere d'acquisto generalizzato che può essere trasferito nello spazio e nel tempo, un bene da detenere come parte della ricchezza, con alternative come altre attività finanziarie o attività reali.
 **Distrattori:**
 - Funzione allocativa delle risorse — favorire la distribuzione delle risorse finanziarie nei diversi settori economici — e funzione informativa — favorire la formazione, la gestione e la circolazione delle informazioni.
-- Unità di conto / misura di valore — i prezzi di tutti i beni sono espressi in unità monetarie — e riserva obbligatoria — una quota di ogni deposito va depositata presso la banca centrale.
-- Unità di misura del contenuto in oro — il valore di ogni moneta è espresso dal peso di metallo prezioso — e riserva di valore — si può detenere moneta come parte della propria ricchezza, in alternativa alle attività finanziarie o alle attività reali.
+- Sta modificando rapidamente la struttura sia dell'offerta sia della domanda: cambiano le caratteristiche dei tradizionali prodotti e servizi; cambia il modo in cui i servizi e prodotti vengono forniti.
+- Unità di conto e misura di valore: il valore di ogni bene o servizio viene misurato rispetto all'oro, comune denominatore in cui si esprimono tutti i rapporti di scambio; riserva di valore: la moneta rappresenta un potere d'acquisto generalizzato che può essere trasferito nello spazio e nel tempo, un bene da detenere come parte della ricchezza, con alternative come altre attività finanziarie o attività reali.
 
 **D:** ⚠️ Chi svolge la funzione monetaria?
 **R:** «**Istituzioni e intermediari che hanno passività universalmente accettate come mezzi di pagamento**» (slide 56): le **banche centrali**, che **emettono moneta legale**, e le **banche**, che **emettono moneta fiduciaria**. ⚠️ Definizione **funzionale**: sono i soggetti le cui **passività** sono accettate come pagamento — la **banconota** per la banca centrale, il **deposito** per la banca. Le banche centrali sono le **uniche** a emettere moneta legale.
@@ -3074,7 +3071,7 @@
 **Opzione:** Direttamente, tramite operazioni di mercato aperto (come l'acquisto di titoli di Stato) ed emissione di moneta; indirettamente, attraverso gli effetti che la variazione del tasso di sconto ha sul volume dei prestiti chiesti dalle banche.
 **Distrattori:**
 - Direttamente, attraverso gli effetti che la variazione del tasso di sconto ha sul volume dei prestiti chiesti dalle banche; indirettamente, tramite operazioni di mercato aperto (come l'acquisto di titoli di Stato) ed emissione di moneta.
-- Direttamente, tramite operazioni di mercato aperto (come l'acquisto di azioni quotate) ed emissione di moneta; indirettamente, attraverso gli effetti che la variazione del tasso di sconto ha sul volume dei prestiti chiesti dalle banche.
+- Direttamente, tramite operazioni di mercato aperto (come l'acquisto di titoli di Stato) ed emissione di moneta; indirettamente, attraverso gli effetti che la variazione del tasso di cambio ha sul volume dei prestiti chiesti dalle banche.
 - Direttamente, tramite operazioni di mercato aperto (come l'acquisto di titoli di Stato) ed emissione di moneta; indirettamente, fissando per legge il tasso che le banche applicano ai prestiti alla clientela.
 
 **D:** ⚠️ Quali altri strumenti ha la banca centrale per condizionare la liquidità?
@@ -3141,9 +3138,9 @@
 
 **D:** ⚠️ Su che cosa pubblica informazioni la Banca d'Italia e con quale periodicità?
 **R:** **Semestralmente** (slide 6), su **tre** ambiti: «**utilizzo dei servizi e degli strumenti di pagamento al dettaglio da parte delle famiglie e delle imprese, forniti o emessi da soggetti bancari e non bancari**»; «**funzionamento dei circuiti di compensazione e regolamento interbancari gestiti dalla Banca d'Italia**»; «**attività di compensazione e regolamento delle transazioni in titoli**». ⚠️ La ragione: la Banca d'Italia vigila **non solo sul sistema bancario ma anche sul sistema dei pagamenti**, e gli organi di vigilanza hanno un **obbligo di trasparenza**.
-**Opzione:** Semestralmente, su: strumenti di pagamento al dettaglio forniti da soggetti bancari e non bancari; circuiti di compensazione e regolamento interbancari gestiti dalla Banca d'Italia; compensazione e regolamento delle transazioni in titoli.
+**Opzione:** Semestralmente, su: utilizzo dei servizi e degli strumenti di pagamento al dettaglio da parte delle famiglie e delle imprese, forniti o emessi da soggetti bancari e non bancari; funzionamento dei circuiti di compensazione e regolamento interbancari gestiti dalla Banca d'Italia; attività di compensazione e regolamento delle transazioni in titoli.
 **Distrattori:**
-- Annualmente, su: strumenti di pagamento al dettaglio forniti da soggetti bancari e non bancari; circuiti di compensazione e regolamento interbancari gestiti dalla Banca d'Italia; compensazione e regolamento delle transazioni in titoli.
+- Annualmente, su: utilizzo dei servizi e degli strumenti di pagamento al dettaglio da parte delle famiglie e delle imprese, forniti o emessi da soggetti bancari e non bancari; funzionamento dei circuiti di compensazione e regolamento interbancari gestiti dalla Banca d'Italia; attività di compensazione e regolamento delle transazioni in titoli.
 - I bilanci previsionali e i prospetti sull'andamento dei fondi propri per i primi tre anni di attività, sia in uno scenario di base sia in uno avverso (di stress).
 - Le autorità creditizie esercitano la vigilanza avendo riguardo a: sana e prudente gestione dei soggetti vigilati, stabilità complessiva, efficienza e competitività del sistema finanziario, osservanza delle disposizioni in materia creditizia.
 
@@ -3173,9 +3170,9 @@
 
 **D:** ⚠️ In che direzione va il flusso informativo nel bonifico e nell'assegno?
 **R:** (slide 14) «**Dal pagante al beneficiario** (per il tramite della o delle banche coinvolte) **in caso di bonifico**»; «**dal beneficiario al pagante** (sempre per il tramite delle banche) **in caso di assegno**». ⚠️ **La direzione si inverte**: nel bonifico ordina il **pagante**, nell'assegno è il **beneficiario** a presentare il titolo all'incasso. Coppia perfetta per il distrattore a **segno invertito**.
-**Opzione:** Dal pagante al beneficiario (per il tramite della o delle banche coinvolte) in caso di bonifico; dal beneficiario al pagante (sempre per il tramite delle banche) in caso di assegno.
+**Opzione:** Dal pagante al beneficiario (per il tramite della o delle banche coinvolte) in caso di bonifico; dal beneficiario al pagante (sempre per il tramite della o delle banche coinvolte) in caso di assegno.
 **Distrattori:**
-- Dal beneficiario al pagante (per il tramite della o delle banche coinvolte) in caso di bonifico; dal pagante al beneficiario (sempre per il tramite delle banche) in caso di assegno.
+- Dal beneficiario al pagante (per il tramite della o delle banche coinvolte) in caso di bonifico; dal pagante al beneficiario (sempre per il tramite della o delle banche coinvolte) in caso di assegno.
 - Intermediari e mercati favoriscono la trasformazione del risparmio in investimenti produttivi: i depositi a breve termine diventano mutui, leasing e prestiti a medio-lungo termine.
 - Ad ogni moneta corrisponde una Banca Centrale che decide quanta moneta stampare e come renderla disponibile; la immette tramite il sistema bancario e il finanziamento della spesa governativa, verso famiglie, imprese e mercati.
 
@@ -3197,9 +3194,9 @@
 
 **D:** ⚠️ Che cos'è il rischio di regolamento e come si riduce?
 **R:** «**All'aumentare delle compensazioni aumenta il rischio che nella fase finale, cioè il regolamento, qualcuno non abbia le risorse per adempiere ai propri impegni**»; perciò «**per ridurre il rischio di regolamento, le operazioni che affluiscono alla stanza di compensazione vengono regolate su un conto presso la banca centrale, che garantisce la liquidità complessiva del sistema**» (slide 16). ⚠️ È la **seconda** modalità di liquidazione — quella **accentrata** — alternativa ai **conti di corrispondenza**, che possono creare «**posizioni creditorie o debitorie tra banche elevate**». Contenuto **solo delle slide**.
-**Opzione:** All'aumentare delle compensazioni aumenta il rischio che nel regolamento qualcuno non abbia le risorse per adempiere; si riduce regolando le operazioni su un conto presso la banca centrale, che garantisce la liquidità complessiva del sistema.
+**Opzione:** All'aumentare delle compensazioni aumenta il rischio che nella fase finale, cioè il regolamento, qualcuno non abbia le risorse per adempiere ai propri impegni; per ridurre il rischio di regolamento, le operazioni che affluiscono alla stanza di compensazione vengono regolate su un conto presso la banca centrale, che garantisce la liquidità complessiva del sistema.
 **Distrattori:**
-- All'aumentare delle compensazioni aumenta il rischio che nel regolamento qualcuno non abbia le risorse per adempiere; si riduce regolando le operazioni mediante addebito sui conti di corrispondenza tra le banche.
+- All'aumentare delle compensazioni aumenta il rischio che nella fase finale, cioè il regolamento, qualcuno non abbia le risorse per adempiere ai propri impegni; per ridurre il rischio di regolamento, le operazioni che affluiscono alla stanza di compensazione vengono regolate mediante addebito sui conti di corrispondenza tra le banche, che garantiscono la liquidità complessiva del sistema.
 - Attraverso il pooling dei rischi e l'intermediazione il sistema economico è in grado di prezzare e gestire eventi rischiosi in modo efficiente; il pooling consente di gestire i rischi individuali con metodo statistico, lavorando su danno e frequenza.
 - Il limite maggiore di questi sistemi spontanei è dato dal rischio normativo: il giorno in cui il legislatore dice basta, questo strumento non è più utile per i pagamenti.
 
@@ -3237,33 +3234,33 @@
 
 **D:** ⚠️ Quali sono i cinque benefici della SEPA?
 **R:** (slide 21) «**Per il cliente non c'è più alcuna differenza in quale paese o presso quale banca all'interno della SEPA detenga il proprio conto**» · «**nessuna distinzione tra pagamenti nazionali e transfrontalieri in area euro**» · «**semplificazione e standardizzazione degli strumenti di pagamento**» · «**riduzione dei costi e dei tempi per i pagamenti**» · «**armonizzazione delle infrastrutture**». ⚠️ La **coda** è l'**armonizzazione delle infrastrutture** (il transcript dice «**stesse infrastrutture** per tutte le banche»). In concreto: basta l'**IBAN**, e **un giorno** per un trasferimento «che sia un chilometro o siano 3.000 chilometri».
-**Opzione:** Nessuna differenza di paese o banca del conto; nessuna distinzione tra pagamenti nazionali e transfrontalieri in area euro; semplificazione e standardizzazione degli strumenti; riduzione di costi e tempi; armonizzazione delle infrastrutture.
+**Opzione:** Per il cliente non c'è più alcuna differenza in quale paese o presso quale banca all'interno della SEPA detenga il proprio conto; nessuna distinzione tra pagamenti nazionali e transfrontalieri in area euro; semplificazione e standardizzazione degli strumenti di pagamento; riduzione dei costi e dei tempi per i pagamenti; armonizzazione delle infrastrutture.
 **Distrattori:**
-- Nessuna differenza di paese o banca del conto; nessuna distinzione tra pagamenti nazionali e transfrontalieri in area euro; semplificazione e standardizzazione degli strumenti; riduzione di costi e tempi; eliminazione delle commissioni sui bonifici.
+- Per il cliente non c'è più alcuna differenza in quale paese o presso quale banca all'interno della SEPA detenga il proprio conto; nessuna distinzione tra pagamenti nazionali e transfrontalieri in area euro; semplificazione e standardizzazione degli strumenti di pagamento; riduzione dei costi e dei tempi per i pagamenti; eliminazione delle commissioni sui bonifici.
 - La regolamentazione: in Europa la trasformazione verso un maggior ruolo dei mercati è spinta dalle istituzioni comunitarie, come premessa della creazione di un mercato dei capitali unico, terza fase dopo l'unione monetaria e l'unione bancaria.
 - Vigilanza strutturale, vigilanza prudenziale, vigilanza informativa, vigilanza protettiva e risolutiva — classificate con riferimento agli strumenti.
 
 **D:** ⚠️ Che cos'è la PSD e che cosa ha introdotto?
 **R:** La **prima direttiva sui pagamenti** — ***Payment Services Directive*** (slide 23). «**Rappresenta la cornice normativa della SEPA**»; «**armonizza le legislazioni dei singoli paesi in tema di strumenti di pagamento pan-europei, migliorando la certezza legale delle transazioni e accrescendo la tutela degli utilizzatori**»; «**introduce standard di qualità dei servizi**»; «**rafforza gli obblighi informativi verso la clientela**»; «**introduce l'Istituto di pagamento come nuova figura di intermediario finanziario specializzato nell'offerta di servizi di pagamento**». ⚠️ Il rapporto logico va nel verso giusto: **la PSD è la cornice della SEPA**, non il contrario. La coda dell'elenco è l'**Istituto di pagamento** (art. 106, c. 2, TUB — lezione 04).
-**Opzione:** La prima direttiva sui pagamenti: cornice normativa della SEPA; armonizza le legislazioni dei singoli paesi; introduce standard di qualità dei servizi; rafforza gli obblighi informativi verso la clientela; introduce l'Istituto di pagamento.
+**Opzione:** La prima direttiva sui pagamenti: rappresenta la cornice normativa della SEPA; armonizza le legislazioni dei singoli paesi in tema di strumenti di pagamento pan-europei, migliorando la certezza legale delle transazioni e accrescendo la tutela degli utilizzatori dei servizi di pagamento; introduce standard di qualità dei servizi; rafforza gli obblighi informativi verso la clientela; introduce l'Istituto di pagamento come nuova figura di intermediario finanziario specializzato nell'offerta di servizi di pagamento.
 **Distrattori:**
-- La prima direttiva sui pagamenti: cornice normativa della SEPA; armonizza le legislazioni dei singoli paesi; introduce standard di qualità dei servizi; rafforza gli obblighi informativi verso la clientela; introduce l'Istituto di moneta elettronica.
+- La prima direttiva sui pagamenti: rappresenta la cornice normativa della SEPA; armonizza le legislazioni dei singoli paesi in tema di strumenti di pagamento pan-europei, migliorando la certezza legale delle transazioni e accrescendo la tutela degli utilizzatori dei servizi di pagamento; introduce standard di qualità dei servizi; rafforza gli obblighi informativi verso la clientela; introduce l'Istituto di moneta elettronica come nuova figura di intermediario finanziario specializzato nell'offerta di servizi di pagamento.
 - L'Emergency Economic Stabilization Act (EESA) nell'ottobre 2008 stanzia 700 miliardi di dollari di Troubled Asset Relief Program (TARP) per stabilizzare il sistema finanziario.
 - Il Libro Verde «Costruire un'Unione dei mercati dei capitali» (Bruxelles, 2015) e la Comunicazione «Il mercato unico in un mondo che cambia. Una risorsa straordinaria che richiede un rinnovato impegno politico» (Bruxelles, 2018).
 
 **D:** ⚠️ Che cos'è la PSD2?
 **R:** «**L'ultima**» direttiva sui pagamenti (slide 24): **direttiva 2015/2366/UE**, che gli Stati Membri «**hanno dovuto recepire all'interno dei propri ordinamenti nazionali entro il 13 gennaio 2018**». **Obiettivo**: «**proseguire nello sviluppo di un mercato unico dei pagamenti integrato**», con **tre driver** — **innovazione**, **concorrenza** e **sicurezza dei consumatori**. Nata dalla necessità «da un lato di **regolamentare** un contesto di mercato caratterizzato da una **complessità crescente in termini di player ed evoluzioni digitali**, dall'altro di **armonizzare un quadro regolamentare europeo frammentato a seguito delle differenze di recepimento tra gli Stati Membri**». ⚠️ **Due date da non fondere**: direttiva del **2015**, recepimento **entro il 13 gennaio 2018**.
-**Opzione:** L'ultima direttiva sui pagamenti: la direttiva 2015/2366/UE, da recepire entro il 13 gennaio 2018, per proseguire nello sviluppo di un mercato unico dei pagamenti integrato; tre driver: innovazione, concorrenza e sicurezza dei consumatori.
+**Opzione:** L'ultima direttiva sui pagamenti: la direttiva 2015/2366/UE, da recepire entro il 13 gennaio 2018, per proseguire nello sviluppo di un mercato unico dei pagamenti integrato; tre principali driver: innovazione, concorrenza e sicurezza dei consumatori.
 **Distrattori:**
-- L'ultima direttiva sui pagamenti: la direttiva 2018/2366/UE, da recepire entro il 13 gennaio 2015, per proseguire nello sviluppo di un mercato unico dei pagamenti integrato; tre driver: innovazione, concorrenza e sicurezza dei consumatori.
+- L'ultima direttiva sui pagamenti: la direttiva 2018/2366/UE, da recepire entro il 13 gennaio 2015, per proseguire nello sviluppo di un mercato unico dei pagamenti integrato; tre principali driver: innovazione, concorrenza e sicurezza dei consumatori.
 - Norme dirette a rafforzare significativamente la capacità delle banche ad assorbire shock derivanti da tensioni finanziarie ed economiche e ad aumentare la trasparenza e l'informativa degli intermediari.
 - Le prime regole di Basilea nascono in seguito alle crisi degli anni Settanta, che resero chiara la necessità di un sistema unitario e globale di regole.
 
 **D:** ⚠️ Che cosa fa la BCE e che cosa fa la Banca d'Italia nel sistema dei pagamenti?
 **R:** (slide 25) La **BCE** ha **una** funzione: «**produce strumenti di pagamento: la moneta legale costituita da banconote e monete metalliche in euro**». La **Banca d'Italia** ne ha **cinque**: «**gestisce l'attività delle stanze di compensazione**» · «**regolamenta l'attività delle banche nei circuiti del sistema dei pagamenti**» · «**gestisce la componente italiana del sistema di regolamento lordo in tempo reale (Target 2)**» · «**svolge attività di indirizzo e coordinamento delle iniziative volte a sviluppare e a rendere più efficiente il sistema dei pagamenti**» · «**svolge la funzione di sorveglianza sul sistema dei pagamenti**». ⚠️ La struttura è **1 + 5**, ed è **solo sulla slide**: il transcript attribuisce tutto genericamente «alla banca centrale».
-**Opzione:** La BCE produce strumenti di pagamento: banconote e monete in euro. La Banca d'Italia: stanze di compensazione; regolamenta le banche nei circuiti; componente italiana di Target 2; indirizzo e coordinamento; sorveglianza sul sistema dei pagamenti.
+**Opzione:** La BCE produce strumenti di pagamento: la moneta legale costituita da banconote e monete metalliche in euro. La Banca d'Italia gestisce l'attività delle stanze di compensazione; regolamenta l'attività delle banche nei circuiti del sistema dei pagamenti; gestisce la componente italiana del sistema di regolamento lordo in tempo reale (Target 2); svolge attività di indirizzo e coordinamento delle iniziative volte a sviluppare e a rendere più efficiente il sistema dei pagamenti; svolge la funzione di sorveglianza sul sistema dei pagamenti.
 **Distrattori:**
-- La BCE produce strumenti di pagamento: banconote e monete in euro. La Banca d'Italia: stanze di compensazione; regolamenta le banche nei circuiti; componente italiana di Target 2; indirizzo e coordinamento; vigilanza sulle assicurazioni.
+- La BCE produce strumenti di pagamento: la moneta legale costituita da banconote e monete metalliche in euro. La Banca d'Italia gestisce l'attività delle stanze di compensazione; regolamenta l'attività delle banche nei circuiti del sistema dei pagamenti; gestisce la componente italiana del sistema di regolamento lordo in tempo reale (Target 2); svolge attività di indirizzo e coordinamento delle iniziative volte a sviluppare e a rendere più efficiente il sistema dei pagamenti; svolge la funzione di vigilanza sulle assicurazioni.
 - SGR: autorizza la Banca d'Italia, sentita la Consob; SIM: autorizza la Consob, sentita la Banca d'Italia, entro sei mesi dalla domanda completa.
 - L'esercizio nei confronti del pubblico dell'attività di concessione di finanziamenti sotto qualsiasi forma è riservato agli intermediari finanziari autorizzati, iscritti in un apposito albo tenuto dalla Banca d'Italia.
 
@@ -3360,9 +3357,9 @@
 
 **D:** ⚠️ Come funzionano le monete virtuali e i wallet?
 **R:** «Le **monete virtuali sono interamente digitali e scambiate mediante il solo canale del web**» (slide 44). «I **portafogli elettronici o Wallet possono essere identificati da codici numerici univoci e sono anonimi. Ogni trasferimento è tracciato da appositi registri pubblici noti come blockchain e la sicurezza online degli utenti è protetta con appositi sistemi di crittografia dei dati**» (slide 45). Il **doppio codice**: un **codice univoco** che identifica il wallet e serve «**per i successivi versamenti online**», e un **secondo codice, segreto e noto solo al proprietario**, «**per autorizzare i pagamenti a terzi**». ⚠️ **Anonimi ma tracciati**: anonimia dei **soggetti**, pubblicità delle **transazioni** (i registri sono **pubblici** — precisazione assente dal transcript).
-**Opzione:** Monete interamente digitali, scambiate mediante il solo canale del web; wallet anonimi con codici univoci; trasferimenti tracciati da registri pubblici (blockchain); crittografia; codice univoco per i versamenti, segreto per autorizzare i pagamenti.
+**Opzione:** Le monete virtuali sono interamente digitali e scambiate mediante il solo canale del web; i Wallet possono essere identificati da codici numerici univoci e sono anonimi; ogni trasferimento è tracciato da appositi registri pubblici noti come blockchain; la sicurezza online degli utenti è protetta con appositi sistemi di crittografia dei dati; doppio codice: uno univoco, che può essere utilizzato per i successivi versamenti online, e uno segreto e noto solo al proprietario, per autorizzare i pagamenti a terzi.
 **Distrattori:**
-- Monete interamente digitali, scambiate mediante il solo canale del web; wallet anonimi con codici univoci; trasferimenti tracciati da registri riservati (blockchain); crittografia; codice univoco per i versamenti, segreto per autorizzare i pagamenti.
+- Le monete virtuali sono interamente digitali e scambiate mediante il solo canale del web; i Wallet possono essere identificati da codici numerici univoci e sono anonimi; ogni trasferimento è tracciato da appositi registri riservati noti come blockchain; la sicurezza online degli utenti è protetta con appositi sistemi di crittografia dei dati; doppio codice: uno univoco, che può essere utilizzato per i successivi versamenti online, e uno segreto e noto solo al proprietario, per autorizzare i pagamenti a terzi.
 - Sigla nazione — 2 lettere; codice di controllo internazionale — 2 cifre; codice di controllo nazionale — 1 lettera; ABI — 5 cifre; CAB — 5 cifre; numero di conto corrente — 12 cifre.
 - Il leone, simbolo del potere regale, serviva a garantire il peso delle monete, evitando la pratica di controllare i pezzi ad ogni transazione commerciale.
 
@@ -3477,7 +3474,7 @@
 **R:** «Tutte le soluzioni messe in piedi **non hanno risolto alla radice il problema**, ma hanno **portato in avanti il problema finanziario**», e gli squilibri si sono **acuiti**: negli anni 2000 «il più grosso fenomeno di **concentrazione della ricchezza in poche mani**» e «il fenomeno più grosso di **concentrazione e aggregazione di imprese in poche grandi imprese** in settori strategici come la **tecnologia** e il **controllo dei dati**» (slide 21, transcript). ⚠️ Il bilancio è **ambivalente** e va riportato intero: ci sono stati «**progressi importanti**», in alcuni paesi «si è **usciti dalla fame**», **ma** «poche persone detengono la gran parte dei mezzi e del controllo delle informazioni».
 **Opzione:** Il più grosso fenomeno di concentrazione della ricchezza in poche mani e di concentrazione e aggregazione di imprese in poche grandi imprese in settori strategici come la tecnologia e il controllo dei dati.
 **Distrattori:**
-- Il più grosso fenomeno di concentrazione della ricchezza in poche mani e di concentrazione e aggregazione di imprese in poche grandi imprese in settori strategici come l'energia e le materie prime.
+- Il più grosso fenomeno di concentrazione della ricchezza in poche mani e di frammentazione delle imprese in molte piccole imprese in settori strategici come la tecnologia e il controllo dei dati.
 - Il divario dei CET1 medi nazionali in Europa, dal 12,21% della Spagna al 28,07% dell'Estonia, mentre le banche dei paesi guida Italia, Germania e Francia hanno copertura patrimoniale simile.
 - La tendenza dei prezzi azionari a mostrare un aumento anomalo nel mese di gennaio: in alcuni casi è spiegabile con motivazioni fiscali, ma spesso non ha una giustificazione razionale.
 
@@ -3507,9 +3504,9 @@
 
 **D:** ⚠️ Quali sono i numeri dell'impatto economico della pandemia?
 **R:** «**More than 100 countries have travel restrictions**» (slide 33, IATA/BBC, 27 marzo 2020); **3,7 miliardi di persone in modalità protetta a fine marzo 2020** (slide 34); in **Italia** il **PIL trimestrale** perde **15** e poi **42 miliardi di euro** rispetto al livello pre-crisi (slide 35); negli **USA** le richieste di sussidio passano da circa **220.000** a **3.283.000** nella settimana terminata il **21 marzo** (slide 37). ⚠️ I **−15 / −42** della slide 35 sono **miliardi di euro**, non punti percentuali: la stima «tra il **10 e il 15%**» è un'aggiunta a voce del docente, che la definisce «probabilmente esagerata».
-**Opzione:** Più di 100 paesi con restrizioni ai viaggi; 3,7 miliardi di persone in modalità protetta; in Italia il PIL trimestrale perde 15 e poi 42 miliardi di euro; negli USA le richieste di sussidio passano da circa 220.000 a 3.283.000 in una settimana.
+**Opzione:** Più di 100 paesi con restrizioni ai viaggi; 3,7 miliardi di persone in modalità protetta; in Italia il PIL trimestrale perde 15 e poi 42 miliardi di euro; negli USA le richieste di sussidio passano da circa 220.000 a 3.283.000 nella settimana terminata il 21 marzo.
 **Distrattori:**
-- Più di 100 paesi con restrizioni ai viaggi; 3,7 miliardi di persone in modalità protetta; in Italia il PIL trimestrale perde il 15 e poi il 42%; negli USA le richieste di sussidio passano da circa 220.000 a 3.283.000 in una settimana.
+- Più di 100 paesi con restrizioni ai viaggi; 3,7 miliardi di persone in modalità protetta; in Italia il PIL trimestrale perde il 15 e poi il 42%; negli USA le richieste di sussidio passano da circa 220.000 a 3.283.000 nella settimana terminata il 21 marzo.
 - Al IV trimestre 2019, a fronte di oltre 8000 miliardi di esposizione al rischio, le banche dell'area euro hanno CET1 al 14,78%, Tier 1 ratio al 15,96% e coefficiente patrimoniale totale al 18,43%.
 - Su S&P 500 Total Return dal 1932: il ribasso dura in media 11,6 mesi con −26,8%, la ripresa 25,9 mesi con +76,6%; nel 1929 ribasso del −83,4% e ripresa del +506,4%; nel 2008 −52,0% e +225,8%.
 
@@ -3563,9 +3560,9 @@
 
 **D:** ⚠️ Quanta liquidità hanno immesso le banche centrali nel 2020?
 **R:** La **Federal Reserve** ha immesso **$1,5 trilioni in 3 settimane**, portando il bilancio da circa **$4,2** a **$5,81 trilioni** tra l'**11 marzo** e il **1° aprile** (slide 48; il picco del **QE-3** era stato ~**$4,5 trilioni**). Le **cinque principali banche centrali** — **Fed · BCE · People's Bank of China · Bank of England · Bank of Japan** — hanno immesso oltre **$5 trilioni**, circa il **10% del PIL** dei rispettivi paesi: **misure doppie rispetto al 2008-09** (~$2,5 trilioni, ~6% del PIL) — slide 49.
-**Opzione:** La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da 4,2 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure doppie rispetto al 2008-09.
+**Opzione:** La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da circa 4,3 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure doppie rispetto al 2008-09.
 **Distrattori:**
-- La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da 4,2 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure dimezzate rispetto al 2008-09.
+- La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da circa 4,3 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL: misure dimezzate rispetto al 2008-09.
 - Bonifici per 1915 miliardi di euro, assegni bancari per 58, assegni circolari per 35 e POS per 32, su un totale di 2302 miliardi di euro di pagamenti in Italia nel 2019.
 - Fra il 2012 e il 2018 le transazioni con carta di credito sono cresciute dell'80% per numerosità e del 50% per importo totale.
 
@@ -3579,9 +3576,9 @@
 
 **D:** ⚠️ Perché «non basta la politica monetaria»?
 **R:** Perché serve anche la **spesa diretta** degli Stati (slide 54). La risposta fiscale dei **G10** vale circa il **7,5% del PIL** complessivo, con gli **Stati Uniti oltre il 10%** e l'**Italia** in coda; le misure si dividono in **Fiscal Stimulus** (spesa diretta, tagli d'imposta, sussidi salariali) e **Safety Net** (**differimenti d'imposta** e **prestiti ponte** — che non sono spesa, ma liquidità anticipata). La prima misura shock USA vale **2 trilioni di dollari**, «una manovra che per ampiezza e impatto **supera quanto successo nella seconda guerra mondiale**». ⚠️ La logica: **controbilanciare lo shock economico con uno shock di segno opposto**.
-**Opzione:** Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (spesa diretta, tagli d'imposta, sussidi salariali) e Safety Net (differimenti d'imposta e prestiti ponte).
+**Opzione:** Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (tagli d'imposta e trasferimenti alle famiglie, tagli d'imposta alle imprese, sussidi salariali, altra spesa diretta in sanità e servizi pubblici) e Safety Net (differimenti d'imposta e programmi temporanei di prestiti ponte).
 **Distrattori:**
-- Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (differimenti d'imposta e prestiti ponte) e Safety Net (spesa diretta, tagli d'imposta, sussidi salariali).
+- Perché serve anche la spesa diretta degli Stati: G10 intorno al 7,5% del PIL, Stati Uniti oltre il 10%, Italia in coda; Fiscal Stimulus (differimenti d'imposta e programmi temporanei di prestiti ponte) e Safety Net (tagli d'imposta e trasferimenti alle famiglie, tagli d'imposta alle imprese, sussidi salariali, altra spesa diretta in sanità e servizi pubblici).
 - Perché servono anche le due nuove riserve di capitale di Basilea III: il buffer di conservazione del capitale e il buffer anticiclico, che protegge da fasi di eccessiva crescita del credito.
 - Perché servono anche gli obiettivi della vigilanza in una economia di mercato, nell'ordine: stabilità, efficienza, concorrenza, trasparenza e correttezza dei comportamenti.
 
@@ -3689,9 +3686,9 @@
 
 **D:** ⚠️ Che differenza c'è tra regolamentazione primaria e secondaria?
 **R:** (slide 11) La **primaria** — «**direttive, leggi nazionali e regionali, testi unici**» — è del **legislatore italiano e comunitario** e definisce «i **principi, gli organi, le modalità**». La **secondaria** — «**regolamenti, circolari, provvedimenti**» — è del **vigilante**, «viene **adattata e riaggiustata nel tempo**» e definisce «nel pratico **come i singoli operatori devono lavorare**». ⚠️ Esempi di secondaria sulla slide: le **Disposizioni di vigilanza per le banche** della Banca d'Italia (**Circolare 285/2013**) e le **circolari ISVAP**.
-**Opzione:** Primaria (direttive, leggi nazionali e regionali, testi unici): del legislatore, definisce i principi, gli organi, le modalità; secondaria (regolamenti, circolari, provvedimenti): del vigilante, definisce come i singoli operatori devono lavorare.
+**Opzione:** Primaria (direttive, leggi nazionali e regionali, testi unici): del legislatore italiano e comunitario, definisce i principi, gli organi, le modalità; secondaria (regolamenti, circolari, provvedimenti): del vigilante, definisce come i singoli operatori devono lavorare.
 **Distrattori:**
-- Primaria (direttive, leggi nazionali e regionali, testi unici): del vigilante, definisce i principi, gli organi, le modalità; secondaria (regolamenti, circolari, provvedimenti): del legislatore, definisce come i singoli operatori devono lavorare.
+- Primaria (direttive, leggi nazionali e regionali, testi unici): del vigilante, definisce i principi, gli organi, le modalità; secondaria (regolamenti, circolari, provvedimenti): del legislatore italiano e comunitario, definisce come i singoli operatori devono lavorare.
 - Primaria: requisiti patrimoniali minimi, processo di controllo prudenziale, disciplina di mercato; secondaria: requisiti quantitativi, requisiti qualitativi, requisiti di reportistica.
 - Primaria: CET1 2,00% + AT1 2,00% + Tier 2 4,00% = 8%; secondaria: CET1 4,50% + AT1 1,50% + Tier 2 2,00%, più buffer di conservazione e buffer anticiclico.
 
@@ -3769,9 +3766,9 @@
 
 **D:** ⚠️ Quali sono i compiti fondamentali del CERS?
 **R:** **Cinque** (slide 26): **raccogliere e analizzare le informazioni rilevanti per individuare rischi sistemici** · **emettere segnalazioni qualora tali rischi siano considerati significativi** · **emettere raccomandazioni per l'adozione di misure in risposta ai rischi individuati** · **tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni** · **cooperare e coordinare la propria attività con le AEV e i consessi internazionali**. ⚠️ Sequenza logica: **raccogliere → segnalare → raccomandare → monitorare il seguito → cooperare**. Le due voci più facili da perdere sono il **follow-up** e la **cooperazione**. Il CERS **non ha poteri vincolanti**: solo segnalazioni e raccomandazioni.
-**Opzione:** Raccogliere e analizzare le informazioni per individuare rischi sistemici; emettere segnalazioni; emettere raccomandazioni; tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni; cooperare con le AEV e i consessi internazionali.
+**Opzione:** Raccogliere e analizzare le informazioni rilevanti per individuare rischi sistemici; emettere segnalazioni qualora tali rischi siano considerati significativi; emettere raccomandazioni per l'adozione di misure in risposta ai rischi individuati; tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni; cooperare e coordinare la propria attività con le AEV e i consessi internazionali.
 **Distrattori:**
-- Raccogliere e analizzare le informazioni per individuare rischi sistemici; emettere segnalazioni; emettere raccomandazioni; tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni; adottare misure vincolanti verso gli intermediari.
+- Raccogliere e analizzare le informazioni rilevanti per individuare rischi sistemici; emettere segnalazioni qualora tali rischi siano considerati significativi; emettere raccomandazioni per l'adozione di misure in risposta ai rischi individuati; tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni; adottare misure vincolanti verso gli intermediari.
 - Moltiplicare l'esposizione per il coefficiente di ponderazione e per il requisito patrimoniale dell'8%: con rating AAA, € 100 × 20% × 8% = € 1,6; con una singola A, € 4.
 - Esercitare il controllo diretto del credito bancario, con la fissazione di massimali e il vincolo di portafoglio, oppure variare l'ammontare richiesto delle riserve obbligatorie.
 
@@ -3785,9 +3782,9 @@
 
 **D:** ⚠️ Quali sono gli strumenti della vigilanza prudenziale?
 **R:** **Sei** (slide 28): **regole definite ex ante per il contenimento dei rischi** («come le regole di adeguatezza note come le **Regole di Basilea**») · **limiti di concentrazione** · **limiti di trasformazione delle scadenze** · **limiti alle partecipazioni detenibili** · **requisiti di professionalità e onorabilità** · **requisiti sull'organizzazione, controlli interni e compliance**. ⚠️ I primi quattro sono **limiti quantitativi**, gli ultimi due **requisiti qualitativi**. La **trasformazione delle scadenze** è la funzione stessa della banca: qui è **limitata**, non vietata.
-**Opzione:** Regole ex ante per il contenimento dei rischi; limiti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
+**Opzione:** Qualche esempio: regole ex ante per il contenimento dei rischi; limiti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
 **Distrattori:**
-- Regole ex ante per il contenimento dei rischi; divieti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
+- Qualche esempio: regole ex ante per il contenimento dei rischi; divieti di concentrazione, di trasformazione delle scadenze e alle partecipazioni detenibili; requisiti di professionalità e onorabilità; requisiti su organizzazione, controlli interni e compliance.
 - Consob, sentita la Banca d'Italia, entro sei mesi; SpA con denominazione «società di intermediazione mobiliare», sede legale e direzione generale in Italia, capitale fissato dalla Banca d'Italia, programma di attività e struttura organizzativa.
 - Importo in euro senza limite di importo; IBAN obbligatorio per identificare il conto del beneficiario; tempo massimo di esecuzione 1 giorno; commissioni SHA; motivazione.
 
@@ -4038,14 +4035,14 @@
 **Opzione:** Per l'art. 3 del D.M. 17/2/2009, n. 29, la concessione di crediti, ivi compreso il rilascio di garanzie sostitutive del credito e di impegni di firma: locazione finanziaria, acquisto di crediti, credito al consumo, credito ipotecario, prestito su pegno, rilascio di fideiussioni, avallo, apertura di credito documentaria, accettazione, girata, impegno a concedere credito, nonché ogni altra forma di rilascio di garanzie e di impegni di firma.
 **Distrattori:**
 - Per l'art. 3 del D.M. 17/2/2009, n. 29, la concessione di crediti, ivi compreso il rilascio di garanzie sostitutive del credito e di impegni di firma: locazione finanziaria, acquisto di crediti, credito al consumo, credito ipotecario, prestito su pegno, rilascio di fideiussioni, avallo, apertura di credito documentaria, accettazione, girata, impegno a concedere credito, con esclusione di ogni altra forma di rilascio di garanzie e di impegni di firma.
-- Per l'art. 3 del D.M. 17/2/2009, n. 29, la concessione di crediti, ivi compreso il rilascio di garanzie sostitutive del credito e di impegni di firma: locazione finanziaria, acquisto di crediti, credito al consumo, credito ipotecario, gestione collettiva del risparmio, rilascio di fideiussioni, avallo, apertura di credito documentaria, accettazione, girata, impegno a concedere credito, nonché ogni altra forma di rilascio di garanzie e di impegni di firma.
-- Per l'art. 107 del TUB, la concessione di crediti, ivi compreso il rilascio di garanzie sostitutive del credito e di impegni di firma: locazione finanziaria, acquisto di crediti, credito al consumo, credito ipotecario, prestito su pegno, rilascio di fideiussioni, avallo, apertura di credito documentaria, accettazione, girata, impegno a concedere credito, nonché ogni altra forma di rilascio di garanzie e di impegni di firma.
+- Atto con cui un operatore si libera di un'obbligazione relativa all'acquisizione di un bene o all'utilizzo di un servizio.
+- Carenze nei sistemi di governo e controllo, gestione dei rischi e esposizioni rilevanti; carenze nel sistema interno di misurazione dei rischi per la determinazione dei requisiti patrimoniali; sottostima dei rischi da parte della banca.
 
 **D:** ⚠️ Quali condizioni pone l'art. 107 TUB per autorizzare un intermediario finanziario?
 **R:** **Cinque** (slide 28): **a)** forma di **società per azioni, in accomandita per azioni, a responsabilità limitata e cooperativa**; **b) sede legale e direzione generale situate nel territorio della Repubblica**; **c) capitale versato non inferiore a quello determinato dalla Banca d'Italia anche in relazione al tipo di operatività**; **d)** presentazione di un **programma sull'attività iniziale e sulla struttura organizzativa, con atto costitutivo e statuto**; **e)** sussistenza dei **presupposti per il rilascio dell'autorizzazione**. ⚠️ **Quattro forme societarie ammesse** (il transcript cita solo la SpA): è la differenza con le **SIM**, che richiedono la **sola SpA**. ⚠️ La lettera **b) è doppia**: **sede legale** *e* **direzione generale**.
-**Opzione:** SpA, Sapa, Srl o cooperativa; sede legale e direzione generale in Italia; capitale versato minimo fissato dalla Banca d'Italia; programma di attività e struttura organizzativa, con atto costitutivo e statuto; presupposti per l'autorizzazione.
+**Opzione:** SpA, Sapa, Srl o cooperativa; sede legale e direzione generale in Italia; capitale versato non inferiore a quello determinato dalla Banca d'Italia anche in relazione al tipo di operatività; programma concernente l'attività iniziale e la struttura organizzativa, con atto costitutivo e statuto; presupposti per l'autorizzazione.
 **Distrattori:**
-- Solo SpA; sede legale e direzione generale in Italia; capitale versato minimo fissato dalla Banca d'Italia; programma di attività e struttura organizzativa, con atto costitutivo e statuto; presupposti per l'autorizzazione.
+- Solo SpA; sede legale e direzione generale in Italia; capitale versato non inferiore a quello determinato dalla Banca d'Italia anche in relazione al tipo di operatività; programma concernente l'attività iniziale e la struttura organizzativa, con atto costitutivo e statuto; presupposti per l'autorizzazione.
 - Tre: sono subordinati rispetto ai depositi e agli altri debiti non garantiti dalla banca; hanno una scadenza superiore ai 5 anni; sono rimborsabili solo con autorizzazione espressa della Banca d'Italia.
 - Cinque categorie: banche, gruppi bancari, intermediari finanziari, istituti di moneta elettronica e istituti di pagamento.
 
@@ -4059,17 +4056,17 @@
 
 **D:** ⚠️ Quali attività svolge la SGR?
 **R:** **Tre** (slide 31): la **gestione collettiva del risparmio**, cioè «l'**investimento sui mercati e la gestione in forma aggregata (in monte) del risparmio raccolto attraverso fondi comuni di investimento e SICAV**»; la **gestione di fondi pensione**, «fondi accantonati dai risparmiatori durante la vita lavorativa e destinati a costruire una **rendita pensionistica complementare**»; la **gestione patrimoniale**, cioè «la **gestione individuale del patrimonio dei singoli risparmiatori sulla base di un mandato specifico**». Può inoltre **istituire** tali fondi e realizzare le **attività connesse o strumentali stabilite dalla Banca d'Italia**. ⚠️ Il criterio che le distingue è **collettivo (in monte) vs individuale (mandato specifico)**. ⚠️ La gestione collettiva ha **due veicoli**: **fondi comuni *e* SICAV**.
-**Opzione:** Gestione collettiva del risparmio (in monte, tramite fondi comuni e SICAV); gestione di fondi pensione, per una rendita pensionistica complementare; gestione patrimoniale, individuale su mandato specifico; può istituire tali fondi.
+**Opzione:** Gestione collettiva del risparmio (in monte, tramite fondi comuni e SICAV); gestione di fondi pensione, per una rendita pensionistica complementare; gestione patrimoniale, individuale su mandato specifico; può istituire tali fondi e realizzare le attività connesse o strumentali stabilite dalla Banca d'Italia.
 **Distrattori:**
-- Gestione collettiva del risparmio (in monte, tramite i soli fondi comuni, escluse le SICAV); gestione di fondi pensione, per una rendita pensionistica complementare; gestione patrimoniale, individuale su mandato specifico; può istituire tali fondi.
+- Gestione collettiva del risparmio (in monte, tramite i soli fondi comuni, escluse le SICAV); gestione di fondi pensione, per una rendita pensionistica complementare; gestione patrimoniale, individuale su mandato specifico; può istituire tali fondi e realizzare le attività connesse o strumentali stabilite dalla Banca d'Italia.
 - Tre: sanzioni e rimozioni di esponenti aziendali pregiudizievoli, sanzioni amministrative, amministrazione straordinaria.
 - La BCE produce strumenti di pagamento: banconote e monete in euro. La Banca d'Italia: stanze di compensazione; regolamenta le banche nei circuiti; componente italiana di Target 2; indirizzo e coordinamento; sorveglianza sul sistema dei pagamenti.
 
 **D:** ⚠️ Chi autorizza una SIM, in quanto tempo e con quali requisiti?
 **R:** «La **Consob, sentita la Banca d'Italia, autorizza entro sei mesi dalla presentazione della domanda completa** l'esercizio dei servizi e delle attività di investimento» (slide 32). Requisiti: **forma societaria della società per azioni (SpA)** · **denominazione sociale che comprenda le parole "società di intermediazione mobiliare" (SIM)** · **sede legale e direzione generale sul territorio della Repubblica Italiana** · **capitale versato non inferiore a quello determinato dalla Banca d'Italia** · **programma sull'attività iniziale** (tipi di operazioni, procedure, servizi accessori) e **relazione sulla struttura organizzativa** con l'eventuale **affidamento a terzi di funzioni operative essenziali**. ⚠️ **Il capitale minimo lo determina la Banca d'Italia anche se ad autorizzare è la Consob**: è la sopravvivenza del **modello per finalità**. ⚠️ Il vincolo di **denominazione sociale** è **unico delle SIM**.
-**Opzione:** Consob, sentita la Banca d'Italia, entro sei mesi; SpA con denominazione «società di intermediazione mobiliare», sede legale e direzione generale in Italia, capitale fissato dalla Banca d'Italia, programma di attività e struttura organizzativa.
+**Opzione:** Consob, sentita la Banca d'Italia, entro sei mesi dalla presentazione della domanda completa; SpA con denominazione «società di intermediazione mobiliare», sede legale e direzione generale in Italia, capitale versato non inferiore a quello determinato dalla Banca d'Italia, programma sull'attività iniziale con atto costitutivo e statuto, relazione sulla struttura organizzativa.
 **Distrattori:**
-- Consob, sentita la Banca d'Italia, entro sei mesi; SpA con denominazione «società di intermediazione mobiliare», sede legale e direzione generale in Italia, capitale fissato dalla Consob, programma di attività e struttura organizzativa.
+- Consob, sentita la Banca d'Italia, entro sei mesi dalla presentazione della domanda completa; SpA con denominazione «società di intermediazione mobiliare», sede legale e direzione generale in Italia, capitale versato non inferiore a quello determinato dalla Consob, programma sull'attività iniziale con atto costitutivo e statuto, relazione sulla struttura organizzativa.
 - Devono essere autorizzati dalla Banca d'Italia ed essere iscritti ad un apposito albo.
 - Le sue attività hanno superato i 30 miliardi di euro; il gruppo si è formato in seguito all'introduzione in Italia di una legge sul consolidamento delle banche cooperative.
 
@@ -4091,9 +4088,9 @@
 
 **D:** ⚠️ BIS e Comitato di Basilea: che differenza c'è?
 **R:** (slide 36) La **BIS — Banca dei regolamenti internazionali** si riunisce a **Basilea dal 1930** ed è «la **più antica istituzione finanziaria internazionale del mondo**»; scopo: «**aiutare le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale**». Il **Comitato di Basilea** è «il **principale organismo internazionale di definizione degli standard internazionali per la regolamentazione prudenziale del sistema bancario**». 🚨 **Il transcript fonde i due soggetti**: fa fede la slide. ⚠️ La **BIS** è l'**istituzione**, il **Comitato** l'**organismo normativo** che vi si riunisce.
-**Opzione:** La BIS (Basilea, 1930) è la più antica istituzione finanziaria internazionale del mondo e aiuta le banche centrali nella stabilizzazione monetaria e finanziaria; il Comitato è il principale organismo di definizione degli standard prudenziali bancari.
+**Opzione:** La BIS (Basilea, 1930) è la più antica istituzione finanziaria internazionale del mondo e aiuta le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale; il Comitato è il principale organismo internazionale di definizione degli standard internazionali per la regolamentazione prudenziale del sistema bancario.
 **Distrattori:**
-- Il Comitato (Basilea, 1930) è la più antica istituzione finanziaria internazionale del mondo e aiuta le banche centrali nella stabilizzazione monetaria e finanziaria; la BIS è il principale organismo di definizione degli standard prudenziali bancari.
+- Il Comitato (Basilea, 1930) è la più antica istituzione finanziaria internazionale del mondo e aiuta le banche centrali negli obiettivi di stabilizzazione monetaria e finanziaria globale; la BIS è il principale organismo internazionale di definizione degli standard internazionali per la regolamentazione prudenziale del sistema bancario.
 - Il netting è la definizione dei saldi netti, il clearing la liquidazione: nella stanza di compensazione si effettua il netting e il saldo può essere liquidato mediante addebito sui conti di corrispondenza.
 - L'ICAAP è l'autovalutazione del capitale, l'ILAAP quella della liquidità; lo SREP è uno solo e riesamina entrambi.
 
@@ -4239,9 +4236,9 @@
 
 **D:** ⚠️ Che cos'è il capitale aggiuntivo di classe 1 (AT1) e quali condizioni ha?
 **R:** «**Strumenti patrimoniali non CET1 che hanno comunque piena capacità di assorbire le perdite**», ad esempio «**titoli di debito senza scadenza il cui rimborso è subordinato al rimborso di tutti i creditori della banca, solo dietro espressa autorizzazione della Banca d'Italia, e la cui remunerazione è discrezionale**» (slide 7). ⚠️ **Tre condizioni cumulative**: **senza scadenza · rimborso subordinato e autorizzato · remunerazione discrezionale**. ⚠️ Il transcript li chiama «obbligazioni **redimibili**» ma si corregge poi in «**irredimibili**»: **vale «senza scadenza»** — *redimibile* significa l'opposto.
-**Opzione:** Strumenti patrimoniali non CET1 con piena capacità di assorbire le perdite: titoli di debito senza scadenza, rimborsabili dopo tutti i creditori e solo con espressa autorizzazione della Banca d'Italia, con remunerazione discrezionale.
+**Opzione:** Strumenti patrimoniali non CET1 che hanno comunque piena capacità di assorbire le perdite: ad esempio titoli di debito senza scadenza il cui rimborso è subordinato al rimborso di tutti i creditori della banca, solo dietro espressa autorizzazione della Banca d'Italia, e la cui remunerazione è discrezionale.
 **Distrattori:**
-- Strumenti patrimoniali non CET1 con piena capacità di assorbire le perdite: titoli di debito senza scadenza, rimborsabili dopo tutti i creditori e solo con espressa autorizzazione della Banca d'Italia, con remunerazione garantita e predeterminata.
+- Strumenti patrimoniali non CET1 che hanno comunque piena capacità di assorbire le perdite: ad esempio titoli di debito senza scadenza il cui rimborso è subordinato al rimborso di tutti i creditori della banca, solo dietro espressa autorizzazione della Banca d'Italia, e la cui remunerazione è garantita e predeterminata.
 - Sono subordinati rispetto ai depositi e agli altri debiti non garantiti dalla banca; hanno una scadenza superiore ai 5 anni; sono rimborsabili solo con autorizzazione espressa della Banca d'Italia.
 - Salvataggio interno – opposto a bail out, salvataggio esterno – ossia svalutare azioni e convertire crediti in azioni per assorbire le perdite e capitalizzare la banca in difficoltà o una nuova entità che ne continui le funzioni essenziali.
 
@@ -4327,9 +4324,9 @@
 
 **D:** ⚠️ Come si individuano gli enti creditizi a rilevanza sistemica globale e quale riserva hanno?
 **R:** Sono «**banche che rappresentano un pilastro fondamentale per il corretto funzionamento del sistema finanziario**», individuate in base a **cinque parametri** (slide 19): **Dimensioni · Interconnessioni con il sistema finanziario · Sostituibilità dei servizi offerti · Complessità · Livello di internazionalizzazione**. Riserva: «**riserve CET1 di capitale**… ***G-Sis buffer*, fissate in base ai rischi (0 – 3,5%)**». ⚠️ La slide dice **sostituibilità** (il transcript «insostituibilità») e tiene **complessità** e **internazionalizzazione** **separate** (il transcript le fonde): **cinque voci**.
-**Opzione:** Cinque parametri: dimensioni, interconnessioni con il sistema finanziario, sostituibilità dei servizi offerti, complessità, livello di internazionalizzazione; riserve CET1 di capitale (G-Sis buffer) fissate in base ai rischi, 0 – 3,5%.
+**Opzione:** Sono individuate in base a parametri come dimensioni, interconnessioni con il sistema finanziario, sostituibilità dei servizi offerti, complessità, livello di internazionalizzazione; riserve CET1 di capitale (G-Sis buffer) fissate in base ai rischi, 0 – 3,5%.
 **Distrattori:**
-- Cinque parametri: dimensioni, interconnessioni con il sistema finanziario, sostituibilità dei servizi offerti, complessità, redditività della gestione; riserve CET1 di capitale (G-Sis buffer) fissate in base ai rischi, 0 – 3,5%.
+- Sono individuate in base a parametri come dimensioni, interconnessioni con il sistema finanziario, sostituibilità dei servizi offerti, complessità, livello di internazionalizzazione; riserve CET1 di capitale (G-Sis buffer) fissate in base ai rischi, 0 – 2,5%.
 - Cinque criteri previsti dalla legge: esperienza, onorabilità, conflitti di interesse e indipendenza di giudizio, disponibilità di tempo, adeguatezza complessiva del CdA.
 - Quattro elementi: probabilità di default in un anno, tasso di perdita in caso di default, esposizione al momento del default e scadenza degli importi; le procedure interne devono essere verificate e validate da Banca d'Italia.
 
@@ -4370,7 +4367,7 @@
 **Opzione:** Al IV trimestre 2019, su oltre 8000 miliardi di esposizione al rischio: CET1 14,78%, Tier 1 ratio 15,96%, coefficiente patrimoniale totale 18,43%.
 **Distrattori:**
 - Al IV trimestre 2019, su oltre 8000 miliardi di esposizione al rischio: CET1 18,43%, Tier 1 ratio 15,96%, coefficiente patrimoniale totale 14,78%.
-- Al IV trimestre 2019, su oltre 8000 miliardi di esposizione al rischio: CET1 13,73%, Tier 1 ratio 15,38%, coefficiente patrimoniale totale 18,10%.
+- Al IV trimestre 2019, su oltre 8000 miliardi di esposizione al rischio: CET1 13,73%, Tier 1 ratio 15,36%, coefficiente patrimoniale totale 18,10%.
 - Al IV trimestre 2019, su oltre 8000 miliardi di esposizione al rischio: CET1 7,0%, Tier 1 ratio 8,5%, coefficiente patrimoniale totale 10,5%.
 
 **D:** ⚠️ Quanto variano i CET1 medi nazionali in Europa e dove stanno i grandi Paesi?
@@ -4383,17 +4380,17 @@
 
 **D:** ⚠️ Come fa un depositante a verificare la solidità patrimoniale della sua banca?
 **R:** «Ogni banca **nel bilancio di esercizio**, così come **nei report finanziari infrannuali**, **pubblica il CET1 ratio** rilevato in un certo periodo di tempo. Tendenzialmente, **gli istituti fanno leva proprio su questo indicatore per farsi pubblicità** in quanto… rappresenta un **indicatore di solidità dell'istituto**» (slide 28). ⚠️ **Due canali, non uno.** ⚠️ È l'attuazione del **III pilastro di Basilea II** — la **disciplina di mercato**.
-**Opzione:** Ogni banca pubblica il CET1 ratio nel bilancio di esercizio e nei report finanziari infrannuali; gli istituti fanno leva su questo indicatore per farsi pubblicità, in quanto indicatore di solidità dell'istituto.
+**Opzione:** Ogni banca pubblica il CET1 ratio nel bilancio di esercizio e nei report finanziari infrannuali; tendenzialmente, gli istituti fanno leva proprio su questo indicatore per farsi pubblicità, in quanto indicatore di solidità dell'istituto.
 **Distrattori:**
-- Ogni banca pubblica il CET1 ratio nel solo bilancio di esercizio, non nei report finanziari infrannuali; gli istituti fanno leva su questo indicatore per farsi pubblicità, in quanto indicatore di solidità dell'istituto.
+- Ogni banca pubblica il CET1 ratio nel solo bilancio di esercizio, non nei report finanziari infrannuali; tendenzialmente, gli istituti fanno leva proprio su questo indicatore per farsi pubblicità, in quanto indicatore di solidità dell'istituto.
 - Tramite la Centrale Rischi, che restituisce la posizione globale di rischio dei singoli clienti con il sistema bancario.
 - Tramite le segnalazioni periodiche dell'art. 50 TUB, con cui la Banca d'Italia monitora tutta l'attività di banca, insieme a ogni altro documento richiesto.
 
 **D:** ⚠️ UniCredit 2017: i numeri chiave del confronto con i requisiti.
 **R:** (slide 30–33) **Totale attivo 404.980 mln**, **patrimonio netto 53.508** (contro **32.697** nel 2016, per un **forte aumento di capitale**). Ai fini di vigilanza: **CET1 48.880** · **capitale di classe 1 54.703** · **totale fondi propri 64.454** · **RWA 356.100** → **13,73% · 15,38% · 18,10%**. ⚠️ **404.980 di attivo contro 356.100 di RWA**: il denominatore dei *ratio* è **più piccolo** dell'attivo contabile.
-**Opzione:** Totale attivo 404.980 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 356.100: ratio 13,73%, 15,38% e 18,10%.
+**Opzione:** Totale attivo 404.980 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 356.100: ratio 13,73%, 15,36% e 18,10%.
 **Distrattori:**
-- Totale attivo 356.100 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 404.980: ratio 13,73%, 15,38% e 18,10%.
+- Totale attivo 356.100 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 404.980: ratio 13,73%, 15,36% e 18,10%.
 - La Fed ha immesso 1,5 trilioni di dollari in 3 settimane (bilancio da 4,2 a 5,81 trilioni); Fed, BCE, People's Bank of China, Bank of England e Bank of Japan oltre 5 trilioni, circa il 10% del PIL.
 - Banche: SpA e popolari 10 milioni, credito cooperativo 5 milioni; intermediari finanziari: cooperativa a mutualità prevalente 1,2 milioni, senza garanzie 2, con garanzie 3; IMEL 350 mila; istituti di pagamento da 0 a 125 mila.
 
@@ -4444,9 +4441,9 @@
 **R:** (slide 42) **Pillar I — Requisiti quantitativi**: valutazione delle attività e delle passività · riserve tecniche · fondi propri · requisiti di capitale · investimenti a copertura delle riserve tecniche e del requisito di solvibilità · requisiti di capitale per i gruppi di imprese. **Pillar II — Requisiti qualitativi**: governance · *risk management* · sistema dei controlli interni · regole di vigilanza. **Pillar III — Requisiti di reportistica**: obblighi di informativa **nei confronti del mercato** e **nei confronti delle autorità di vigilanza**.
 **Opzione:** Pillar I — Requisiti quantitativi: valutazione delle attività e delle passività, riserve tecniche, fondi propri, requisiti di capitale, investimenti a copertura delle riserve tecniche e del requisito di solvibilità, requisiti di capitale per i gruppi di imprese. Pillar II — Requisiti qualitativi: governance, risk management, sistema dei controlli interni, regole di vigilanza. Pillar III — Requisiti di reportistica: obblighi di informativa nei confronti del mercato e nei confronti delle autorità di vigilanza.
 **Distrattori:**
-- Pillar I — Requisiti quantitativi: valutazione delle attività e delle passività, riserve tecniche, fondi propri, requisiti di capitale, investimenti a copertura delle riserve tecniche e del requisito di solvibilità, requisiti di capitale per i gruppi di imprese. Pillar II — Requisiti qualitativi: obblighi di informativa nei confronti del mercato e nei confronti delle autorità di vigilanza. Pillar III — Requisiti di reportistica: governance, risk management, sistema dei controlli interni, regole di vigilanza.
 - Pillar I — Requisiti patrimoniali minimi: valutazione delle attività e delle passività, riserve tecniche, fondi propri, requisiti di capitale, investimenti a copertura delle riserve tecniche e del requisito di solvibilità, requisiti di capitale per i gruppi di imprese. Pillar II — Processo di controllo prudenziale: governance, risk management, sistema dei controlli interni, regole di vigilanza. Pillar III — Disciplina di mercato: obblighi di informativa nei confronti del mercato e nei confronti delle autorità di vigilanza.
-- Pillar I — Requisiti quantitativi: valutazione delle attività e delle passività, riserve tecniche, fondi propri, requisiti di capitale, investimenti a copertura delle riserve tecniche e del requisito di solvibilità, requisiti di liquidità di breve e di lungo periodo. Pillar II — Requisiti qualitativi: governance, risk management, sistema dei controlli interni, regole di vigilanza. Pillar III — Requisiti di reportistica: obblighi di informativa nei confronti del mercato e nei confronti delle autorità di vigilanza.
+- Una parte descrittiva (caratteristiche del processo, esposizione ai rischi, capitale ritenuto adeguato) e un'autovalutazione (aree di miglioramento, eventuali carenze del processo, azioni correttive che le banche intendono predisporre).
+- Salvaguardia della fiducia nel sistema finanziario, tutela degli investitori, stabilità e buon funzionamento del sistema finanziario, competitività del sistema finanziario, osservanza delle disposizioni in materia finanziaria (certezza del diritto).
 
 **D:** ⚠️ I tre pilastri di Basilea II e quelli di Solvency II hanno gli stessi nomi?
 **R:** **No.** **Basilea II**: **requisiti patrimoniali minimi** · **processo di controllo prudenziale** · **disciplina di mercato**. **Solvency II**: **requisiti quantitativi** · **requisiti qualitativi** · **requisiti di reportistica**. ⚠️ La **corrispondenza logica è stretta** (patrimonio / controllo / informativa) ma le **denominazioni sono diverse**. ⚠️ Esiste anche una **terza versione**, nella **lezione 06** (slide 39), con i nomi inglesi — ***Capital requirements · Risk management · Disclosure management*** (SCR/MCR, ORSA, SFCR). **Vale quella del deck citato nella domanda.**
@@ -4474,9 +4471,9 @@
 
 **D:** ⚠️ Quali funzioni prudenziali svolge l'IVASS?
 **R:** «**Esercita la supervisione ai fini di stabilità sulla gestione operativa delle imprese di assicurazione e riassicurazione**»; in quest'ambito «**cura il processo di revisione e valutazione prudenziale**», «**svolge attività di analisi dei rischi e dei relativi sistemi di gestione**», «**convalida i modelli interni di misurazione dei rischi utilizzati per il calcolo dei requisiti patrimoniali**». Inoltre «**svolge attività di vigilanza supplementare sui conglomerati finanziari e di controllo prudenziale sui gruppi assicurativi**» (slide 45). ⚠️ Le tre attività **ricalcano gli istituti bancari**: **SREP · II pilastro · convalida dei modelli interni**. ⚠️ **Due perimetri, due aggettivi**: **conglomerati finanziari → supplementare**; **gruppi assicurativi → prudenziale**.
-**Opzione:** Supervisione ai fini di stabilità su assicurazioni e riassicurazioni: revisione e valutazione prudenziale, analisi dei rischi, convalida dei modelli interni; vigilanza supplementare sui conglomerati finanziari e prudenziale sui gruppi assicurativi.
+**Opzione:** Supervisione ai fini di stabilità sulla gestione operativa delle imprese di assicurazione e riassicurazione: revisione e valutazione prudenziale, analisi dei rischi e dei relativi sistemi di gestione, convalida dei modelli interni di misurazione dei rischi utilizzati per il calcolo dei requisiti patrimoniali; vigilanza supplementare sui conglomerati finanziari e controllo prudenziale sui gruppi assicurativi.
 **Distrattori:**
-- Supervisione ai fini di stabilità su assicurazioni e riassicurazioni: revisione e valutazione prudenziale, analisi dei rischi, convalida dei modelli interni; vigilanza prudenziale sui conglomerati finanziari e supplementare sui gruppi assicurativi.
+- Supervisione ai fini di stabilità sulla gestione operativa delle imprese di assicurazione e riassicurazione: revisione e valutazione prudenziale, analisi dei rischi e dei relativi sistemi di gestione, convalida dei modelli interni di misurazione dei rischi utilizzati per il calcolo dei requisiti patrimoniali; vigilanza prudenziale sui conglomerati finanziari e controllo supplementare sui gruppi assicurativi.
 - La Banca d'Italia per il contenimento del rischio, la stabilità patrimoniale e la sana e prudente gestione degli intermediari; la Consob per la trasparenza e la correttezza dei comportamenti; entrambe verso i soggetti abilitati.
 - Raccogliere e analizzare le informazioni per individuare rischi sistemici; emettere segnalazioni; emettere raccomandazioni; tenere sotto osservazione il seguito dato a segnalazioni e raccomandazioni; cooperare con le AEV e i consessi internazionali.
 
@@ -4524,9 +4521,9 @@
 
 **D:** ⚠️ Quante sono le banche sotto vigilanza diretta della BCE e come cambia il numero?
 **R:** «Dal **1° gennaio 2020** è **diminuito a 117** rispetto alle **119 del 2019** a seguito della **revisione annuale della significatività** e delle **valutazioni ad hoc**» (slide 6). ⚠️ «Mentre il numero di istituti significativi è **diminuito**, le banche direttamente supervisionate stanno **generalmente diventando più grandi e complesse**» per il **consolidamento** dei gruppi e il **trasferimento di attività dal Regno Unito** nell'area euro (la **Brexit** vista dal lato della vigilanza). ⚠️ **Meno banche ma più grandi**: i due movimenti vanno tenuti insieme.
-**Opzione:** Dal 1° gennaio 2020 è diminuito a 117 rispetto alle 119 del 2019, per la revisione annuale della significatività e le valutazioni ad hoc; le banche vigilate stanno diventando più grandi e complesse.
+**Opzione:** Dal 1° gennaio 2020 è diminuito a 117 rispetto alle 119 del 2019, per la revisione annuale della significatività e le valutazioni ad hoc; le banche direttamente supervisionate stanno generalmente diventando più grandi e complesse.
 **Distrattori:**
-- Dal 1° gennaio 2020 è aumentato a 119 rispetto alle 117 del 2019, per la revisione annuale della significatività e le valutazioni ad hoc; le banche vigilate stanno diventando più grandi e complesse.
+- Dal 1° gennaio 2020 è aumentato a 119 rispetto alle 117 del 2019, per la revisione annuale della significatività e le valutazioni ad hoc; le banche direttamente supervisionate stanno generalmente diventando più grandi e complesse.
 - Da 6.999 sportelli nel 1950 a 13.035 nel 1985 e 27.829 nel 2000, con ampi margini di discrezionalità dell'Organo di Vigilanza sulla struttura e sull'espansione della rete.
 - Per effetto degli interventi di sostegno il bilancio della BCE è aumentato di quasi 9 volte, superando i 4.500 miliardi di euro fra il 1999 e il 2020.
 
@@ -4612,9 +4609,9 @@
 
 **D:** ⚠️ Quali criticità ha rilevato lo SREP 2019?
 **R:** **Quattro** (slide 19, pubblicate il **28 gennaio 2020**): ① «gli **utili della maggior parte degli enti creditizi significativi sono inferiori al costo del capitale**»; ② la **governance interna** — «i punteggi assegnati a tale profilo sono **complessivamente peggiorati negli ultimi anni**», con «**gestione inefficace da parte degli organi di amministrazione**» e «**lacune nei controlli interni**»; ③ «alcune banche hanno riportato **perdite rilevanti causate principalmente da eventi relativi al rischio di condotta**»; ④ «i **rischi informatici e cibernetici** hanno costituito una **fonte principale di rischio operativo**». ⚠️ La prima è **reddituale, non patrimoniale**: banche **solide ma poco redditizie**. ⚠️ La seconda ha un **verso**: i punteggi sono **peggiorati**. ⚠️ I rischi **cyber** sono una **fonte** del rischio operativo, non una categoria autonoma.
-**Opzione:** Utili della maggior parte degli enti significativi inferiori al costo del capitale; punteggi della governance interna peggiorati; perdite rilevanti da rischio di condotta; rischi informatici e cibernetici fonte principale di rischio operativo.
+**Opzione:** Utili della maggior parte degli enti creditizi significativi inferiori al costo del capitale; punteggi della governance interna complessivamente peggiorati negli ultimi anni; alcune banche con perdite rilevanti causate principalmente da eventi relativi al rischio di condotta; rischi informatici e cibernetici fonte principale di rischio operativo.
 **Distrattori:**
-- Utili della maggior parte degli enti significativi superiori al costo del capitale; punteggi della governance interna peggiorati; perdite rilevanti da rischio di condotta; rischi informatici e cibernetici fonte principale di rischio operativo.
+- Utili della maggior parte degli enti creditizi significativi superiori al costo del capitale; punteggi della governance interna complessivamente peggiorati negli ultimi anni; alcune banche con perdite rilevanti causate principalmente da eventi relativi al rischio di condotta; rischi informatici e cibernetici fonte principale di rischio operativo.
 - La crisi dei mercati finanziari nel 2008, la crisi dell'euro nel 2011 e la crisi del 2020; il dibattito verte su tre domande: stabilità finanziaria? prestatore di ultima istanza degli Stati? sviluppo economico?
 - L'eccessiva concentrazione può incoraggiare comportamenti inefficienti e collusivi, extra profitti; l'eccessiva competizione, l'uscita disordinata degli operatori meno efficienti o meno capitalizzati.
 
@@ -4896,9 +4893,9 @@
 
 **D:** ⚠️ Qual è il presupposto della risoluzione di una banca?
 **R:** Che la banca «si trovi in una situazione di crisi tale da **non assicurare la continuità dei servizi**» o da «**pregiudicare la stabilità del sistema finanziario**» (slide 16); allora «**può essere sottoposta a risoluzione nell'interesse pubblico**, attivando **una o più** delle soluzioni previste dalla normativa europea» (slide 17). ⚠️ **Tre quantificatori da tenere**: «**può**» (facoltà, non automatismo) · «**nell'interesse pubblico**» (criterio) · «**una o più**» (soluzioni **cumulabili**). ⚠️ **La risoluzione precede il fallimento**: «prima ancora che la banca fallisca» (transcript [00:04:02]).
-**Opzione:** Una situazione di crisi tale da non assicurare la continuità dei servizi o da pregiudicare la stabilità del sistema finanziario: allora può essere sottoposta a risoluzione nell'interesse pubblico, con una o più soluzioni.
+**Opzione:** Una situazione di crisi tale da non assicurare la continuità dei servizi o da pregiudicare la stabilità del sistema finanziario: allora può essere sottoposta a risoluzione nell'interesse pubblico, attivando una o più delle soluzioni previste dalla normativa europea.
 **Distrattori:**
-- Una situazione di crisi tale da non assicurare la continuità dei servizi o da pregiudicare la stabilità del sistema finanziario: allora deve essere sottoposta a risoluzione nell'interesse pubblico, con una o più soluzioni.
+- Una situazione di crisi tale da non assicurare la continuità dei servizi o da pregiudicare la stabilità del sistema finanziario: allora deve essere sottoposta a risoluzione nell'interesse pubblico, attivando una o più delle soluzioni previste dalla normativa europea.
 - Che la banca detenga poste liquide o liquidabili adeguate per fronteggiare fabbisogni di liquidità in eventuali situazioni di stress.
 - Che la segnalazione sia posta in essere in buona fede e per le finalità previste dalla normativa: allora non comporta responsabilità di alcun tipo.
 
@@ -4936,9 +4933,9 @@
 
 **D:** ⚠️ Chi attiva il meccanismo di risoluzione unico e chi lo gestisce?
 **R:** La **BCE** **attiva** («la BCE → **attiva il meccanismo di risoluzione unico**», slide 20); il **Comitato di risoluzione unico (SRB, *Single Resolution Board*)** **gestisce** — «**garantisce la risoluzione ordinata delle banche in difficoltà, con un minimo impatto sull'economia reale e le finanze pubbliche dei paesi dell'UE partecipanti e di altri soggetti**» (slide 21). ⚠️ **Due soggetti, due verbi.** ⚠️ Ogni Stato ha poi la propria **autorità nazionale di risoluzione**, che decide **insieme** all'SRB. 🚨 Distrattore ricorrente: «può chiedere al **Parlamento Europeo**» — **gli organi politici non sono autorità di vigilanza**.
-**Opzione:** La BCE lo attiva; il Comitato di risoluzione unico (SRB) lo gestisce, garantendo la risoluzione ordinata delle banche in difficoltà con un minimo impatto sull'economia reale e le finanze pubbliche.
+**Opzione:** La BCE lo attiva; il Comitato di risoluzione unico (SRB) lo gestisce, garantendo la risoluzione ordinata delle banche in difficoltà con un minimo impatto sull'economia reale e le finanze pubbliche dei paesi dell'UE partecipanti e di altri soggetti.
 **Distrattori:**
-- La BCE chiede al Parlamento Europeo di attivarlo; il Comitato di risoluzione unico (SRB) lo gestisce, garantendo la risoluzione ordinata delle banche in difficoltà con un minimo impatto sull'economia reale e le finanze pubbliche.
+- La BCE chiede al Parlamento Europeo di attivarlo; il Comitato di risoluzione unico (SRB) lo gestisce, garantendo la risoluzione ordinata delle banche in difficoltà con un minimo impatto sull'economia reale e le finanze pubbliche dei paesi dell'UE partecipanti e di altri soggetti.
 - La Commissione europea e la Banca centrale europea stabiliscono congiuntamente se le condizioni sono soddisfatte; la ratifica è del Consiglio ECOFIN, in consultazione con il Parlamento e i capi di Stato.
 - L'autorità nazionale competente, se le condizioni sono soddisfatte, adotta un progetto di decisione con cui propone alla BCE il rilascio dell'autorizzazione; negli altri casi la respinge.
 
@@ -4984,9 +4981,9 @@
 
 **D:** 🚨 Chi è coperto dai sistemi di garanzia dei depositi?
 **R:** «**Tutti i depositanti, siano questi persone fisiche o società**, hanno diritto alla protezione dei loro depositi **fino a un importo di 100 000 EUR per banca** da parte del sistema di garanzia cui aderisce la loro banca» (slide 33). **Inoltre** protetti: i **regimi pensionistici delle piccole e medie imprese**; i **depositi delle autorità pubbliche aventi bilanci inferiori a 500 000 EUR**; i **depositi superiori a 100 000 EUR per taluni scopi abitativi e sociali**. ⚠️ **Quattro quantificatori**: «**o società**» (non solo privati) · «**per banca**» (due conti in due banche = doppia copertura) · «**bilanci inferiori a 500 000 EUR**» (autorità pubbliche **solo se piccole**) · l'eccezione al tetto è **finalizzata**. 🚨 **Nel quiz della lezione l'opzione segnata come corretta aggiunge «purché attivo da almeno cinque anni»: è inventato — nessun requisito di anzianità esiste nei materiali.**
-**Opzione:** Tutti i depositanti, siano questi persone fisiche o società, hanno diritto alla protezione dei loro depositi fino a un importo di 100 000 EUR per banca.
+**Opzione:** Tutti i depositanti, siano questi persone fisiche o società, hanno diritto alla protezione dei loro depositi fino a un importo di 100 000 EUR per banca; sono inoltre protetti i regimi pensionistici delle piccole e medie imprese, i depositi delle autorità pubbliche aventi bilanci inferiori a 500 000 EUR e i depositi superiori a 100 000 EUR per taluni scopi abitativi e sociali.
 **Distrattori:**
-- Tutti i depositanti, siano questi persone fisiche o società, hanno diritto alla protezione dei loro depositi fino a un importo di 100 000 EUR per banca, purché il deposito sia attivo da almeno cinque anni.
+- Tutti i depositanti, siano questi persone fisiche o società, hanno diritto alla protezione dei loro depositi fino a un importo di 100 000 EUR per banca, purché attivi da almeno cinque anni; sono inoltre protetti i regimi pensionistici delle piccole e medie imprese, i depositi delle autorità pubbliche aventi bilanci inferiori a 500 000 EUR e i depositi superiori a 100 000 EUR per taluni scopi abitativi e sociali.
 - Il beneficiario del patrimonio o della prestazione, il fondatore se in vita e i titolari delle funzioni direttive ed amministrative.
 - I partecipanti che detengono almeno il 10% delle azioni o dei diritti di voto, di cui si valutano onorabilità, reputazione, competenza e solidità finanziaria.
 
@@ -5019,17 +5016,17 @@
 
 **D:** ⚠️ Chi finanzia il Fondo di Risoluzione Unico e con quali parametri?
 **R:** «**Dal 1° gennaio 2016** gli **intermediari dell'area Euro**… mediante **contribuzioni annuali *ex-ante***, in linea con il **Regolamento (UE) n. 806/2014 del 15 luglio 2014**. Verrà utilizzato «**quando saranno esaurite le altre opzioni, ad esempio lo strumento del bail-in**». «Verrà costituito **nell'arco di 8 anni**» e dovrebbe raggiungere «**almeno l'1% dell'importo dei depositi protetti** di tutti gli enti creditizi autorizzati in tutti gli Stati membri dell'Unione bancaria», per «**circa 55 miliardi di euro**» (slide 36). ⚠️ **Il denominatore del target sono i *depositi protetti*, non gli attivi.** ⚠️ **L'SRF è l'ultima risorsa: prima il privato (bail-in), poi il fondo comune.**
-**Opzione:** Gli intermediari dell'area Euro, dal 1° gennaio 2016, mediante contribuzioni annuali ex-ante; verrà costituito nell'arco di 8 anni fino a raggiungere almeno l'1% dell'importo dei depositi protetti, per circa 55 miliardi di euro.
+**Opzione:** Gli intermediari dell'area Euro, dal 1° gennaio 2016, mediante contribuzioni annuali ex-ante; verrà costituito nell'arco di 8 anni e dovrebbe raggiungere almeno l'1% dell'importo dei depositi protetti di tutti gli enti creditizi autorizzati in tutti gli Stati membri dell'Unione bancaria, per un importo stimato di circa 55 miliardi di euro.
 **Distrattori:**
-- Gli intermediari dell'area Euro, dal 1° gennaio 2016, mediante contribuzioni annuali ex-ante; verrà costituito nell'arco di 8 anni fino a raggiungere almeno l'1% degli attivi totali, per circa 55 miliardi di euro.
+- Gli intermediari dell'area Euro, dal 1° gennaio 2016, mediante contribuzioni annuali ex-ante; verrà costituito nell'arco di 8 anni e dovrebbe raggiungere almeno l'1% degli attivi totali di tutti gli enti creditizi autorizzati in tutti gli Stati membri dell'Unione bancaria, per un importo stimato di circa 55 miliardi di euro.
 - 700 miliardi di euro al 2020: 80 miliardi di finanziamento diretto da parte degli Stati (Italia 14,3, Francia 20, Germania 27) e i restanti 620 miliardi raccolti sui mercati finanziari attraverso l'emissione di bond.
 - Banche: SpA e popolari 10 milioni, credito cooperativo 5 milioni; intermediari finanziari: cooperativa a mutualità prevalente (no garanzie) 1,2 milioni, senza garanzie 2, con garanzie 3; IMEL 350 mila; istituti di pagamento da 0 a 125 mila.
 
 **D:** Che cos'è il MES secondo il Manuale di vigilanza?
 **R:** «Il **Meccanismo europeo di stabilità (MES)** è un **meccanismo di sostegno istituito dagli Stati membri dell'area dell'euro** al fine di **fornire assistenza finanziaria ai membri che hanno o rischiano di avere gravi problemi di finanziamento**, **ove indispensabile per salvaguardare la stabilità finanziaria dell'area dell'euro nel suo insieme nonché dei suoi Stati membri**» (slide 38, **articoli 3, 4 e 33, paragrafo 3, del regolamento sull'MVU**). ⚠️ «**Ove indispensabile**» è la clausola di **residualità**. ⚠️ Il transcript comprime i tre articoli in «articolo **3.4.33**».
-**Opzione:** Un meccanismo di sostegno istituito dagli Stati membri dell'area dell'euro per fornire assistenza finanziaria ai membri che hanno o rischiano di avere gravi problemi di finanziamento, ove indispensabile per la stabilità finanziaria dell'area.
+**Opzione:** Un meccanismo di sostegno istituito dagli Stati membri dell'area dell'euro al fine di fornire assistenza finanziaria ai membri che hanno o rischiano di avere gravi problemi di finanziamento, ove indispensabile per salvaguardare la stabilità finanziaria dell'area dell'euro nel suo insieme nonché dei suoi Stati membri.
 **Distrattori:**
-- Un meccanismo di sostegno istituito dagli Stati membri dell'area dell'euro per fornire assistenza finanziaria ai membri che hanno o rischiano di avere gravi problemi di finanziamento, ogniqualvolta ne facciano richiesta.
+- Un meccanismo di sostegno istituito dagli Stati membri dell'area dell'euro al fine di fornire assistenza finanziaria ai membri che hanno o rischiano di avere gravi problemi di finanziamento, ogniqualvolta ne facciano richiesta, per salvaguardare la stabilità finanziaria dell'area dell'euro nel suo insieme nonché dei suoi Stati membri.
 - La Banca Centrale degli Stati Uniti d'America, istituita nel 1913 al fine di rendere più stabile e sicuro il sistema finanziario e monetario.
 - Un nuovo requisito patrimoniale, MREL (Minimum Requirement for Own Funds and Eligible Liabilities), che mira ad assicurare che, in caso di risoluzione, una banca disponga di risorse in grado di assorbire le perdite e ricostituire il capitale.
 
@@ -5043,9 +5040,9 @@
 
 **D:** ⚠️ Su quale capitale può contare il MES e com'è composto?
 **R:** «**700 miliardi di euro**» al 2020 (slide 44), di cui **80 miliardi** di **finanziamento diretto da parte degli Stati** (**Italia 14,3 · Francia 20 · Germania 27**) e i **restanti 620 miliardi** «raccolti sui mercati finanziari attraverso l'**emissione di bond**». ⚠️ **Due nature diverse**: 80 sono **capitale versato**, 620 sono **capacità di raccolta** — non esistono ancora. ⚠️ **80 + 620 = 700**: se i conti non tornano, l'opzione è sbagliata.
-**Opzione:** 700 miliardi di euro al 2020: 80 miliardi di finanziamento diretto da parte degli Stati (Italia 14,3, Francia 20, Germania 27) e i restanti 620 miliardi raccolti sui mercati finanziari attraverso l'emissione di bond.
+**Opzione:** 700 miliardi di euro al 2020: 80 miliardi di finanziamento diretto da parte degli Stati (Italia 14,3, Francia 20, Germania 27) e i restanti 620 miliardi possono essere raccolti sui mercati finanziari attraverso l'emissione di bond.
 **Distrattori:**
-- 700 miliardi di euro al 2020: 620 miliardi di finanziamento diretto da parte degli Stati (Italia 14,3, Francia 20, Germania 27) e i restanti 80 miliardi raccolti sui mercati finanziari attraverso l'emissione di bond.
+- 700 miliardi di euro al 2020: 620 miliardi di finanziamento diretto da parte degli Stati (Italia 14,3, Francia 20, Germania 27) e i restanti 80 miliardi possono essere raccolti sui mercati finanziari attraverso l'emissione di bond.
 - 17,6 trilioni di dollari ad agosto 2016: il totale dei bilanci di Federal Reserve, BCE, Banca del Giappone e Banca Popolare Cinese, per effetto delle politiche non convenzionali.
 - CET1 4,50% + AT1 1,50% + Tier 2 2,00% (= 8%), più buffer di conservazione 2,50% e buffer anticiclico 2,50% = 13% massimo.
 
@@ -5091,9 +5088,9 @@
 
 **D:** ⚠️ Che cosa chiedeva alla Grecia il memorandum del 2015?
 **R:** Programma **triennale** firmato il **20 agosto 2015**, **fino a 86 miliardi di EUR** di prestiti (slide 49). **Quattro obiettivi**: **introdurre gradualmente un reddito minimo garantito e assicurare l'accesso universale all'assistenza sanitaria**; **garantire che lo sforzo richiesto a ciascuno sia proporzionato al suo reddito**; **concentrare i risparmi nei settori che non hanno un'incidenza diretta sul reddito del cittadino** (es. **riduzione della spesa per la difesa**); **andare contro i privilegi acquisiti** (trattamenti fiscali per **armatori** e **agricoltori**, **numerosissime esenzioni**). ⚠️ **Non solo tagli**: i primi due obiettivi sono **redistributivi**.
-**Opzione:** Reddito minimo garantito e accesso universale all'assistenza sanitaria; sforzo richiesto a ciascuno proporzionato al suo reddito; risparmi nei settori senza incidenza diretta sul reddito del cittadino; contro i privilegi acquisiti.
+**Opzione:** Introdurre gradualmente un reddito minimo garantito e assicurare l'accesso universale all'assistenza sanitaria; garantire che lo sforzo richiesto a ciascuno sia proporzionato al suo reddito; concentrare i risparmi nei settori che non hanno un'incidenza diretta sul reddito del cittadino, oppure ovviare alle inefficienze in molti settori della spesa pubblica; andare contro i privilegi acquisiti.
 **Distrattori:**
-- Reddito minimo garantito e accesso universale all'assistenza sanitaria; sforzo richiesto a ciascuno uguale per tutti, indipendentemente dal reddito; risparmi nei settori senza incidenza diretta sul reddito del cittadino; contro i privilegi acquisiti.
+- Introdurre gradualmente un reddito minimo garantito e assicurare l'accesso universale all'assistenza sanitaria; garantire che lo sforzo richiesto a ciascuno sia uguale per tutti, indipendentemente dal reddito; concentrare i risparmi nei settori che non hanno un'incidenza diretta sul reddito del cittadino, oppure ovviare alle inefficienze in molti settori della spesa pubblica; andare contro i privilegi acquisiti.
 - Perseguire il massimo impiego, la stabilità dei prezzi e tassi di interesse a lungo termine moderati, obiettivi concomitanti e senza gerarchia fra loro.
 - Il rafforzamento della sorveglianza delle posizioni di bilancio e del coordinamento delle politiche economiche, con un semestre europeo all'inizio di ogni anno.
 
@@ -5213,9 +5210,9 @@
 
 **D:** ⚠️ Quali sono gli obiettivi dell'Unione richiamati dall'art. 3.3 TUE?
 **R:** «Lo **sviluppo sostenibile dell'Europa**, basato su una **crescita economica equilibrata** e sulla **stabilità dei prezzi**, su un'**economia sociale di mercato fortemente competitiva**, che mira alla **piena occupazione** e al **progresso sociale**, e su un **elevato livello di tutela e di miglioramento della qualità dell'ambiente**. Essa promuove il **progresso scientifico e tecnologico**» (slide 11). ⚠️ Il transcript si ferma ai primi due: **coda soppressa**, l'elenco va per intero.
-**Opzione:** Sviluppo sostenibile: crescita economica equilibrata, stabilità dei prezzi, economia sociale di mercato fortemente competitiva, piena occupazione, progresso sociale, tutela e miglioramento dell'ambiente, progresso scientifico e tecnologico.
+**Opzione:** Principalmente: lo sviluppo sostenibile dell'Europa, basato su una crescita economica equilibrata e sulla stabilità dei prezzi, su un'economia sociale di mercato fortemente competitiva, che mira alla piena occupazione e al progresso sociale, e su un elevato livello di tutela e di miglioramento della qualità dell'ambiente. Essa promuove il progresso scientifico e tecnologico.
 **Distrattori:**
-- Sviluppo sostenibile: crescita economica equilibrata, stabilità dei prezzi, economia sociale di mercato fortemente competitiva, massima occupazione, progresso sociale, tutela e miglioramento dell'ambiente, progresso scientifico e tecnologico.
+- Principalmente: lo sviluppo sostenibile dell'Europa, basato su una crescita economica equilibrata e sulla stabilità dei prezzi, su un'economia sociale di mercato fortemente competitiva, che mira alla massima occupazione e al progresso sociale, e su un elevato livello di tutela e di miglioramento della qualità dell'ambiente. Essa promuove il progresso scientifico e tecnologico.
 - Reddito minimo garantito e accesso universale all'assistenza sanitaria; sforzo richiesto a ciascuno proporzionato al suo reddito; risparmi nei settori senza incidenza diretta sul reddito del cittadino; contro i privilegi acquisiti.
 - Legislazione fiscale competitiva, meno burocrazia, normativa societaria flessibile, maggiore opacità verso terzi, minori vincoli ai trasferimenti e servizi.
 
@@ -5264,9 +5261,9 @@
 
 **D:** ⚠️ Quali sono i quattro compiti della BCE?
 **R:** «**Definire e attuare la politica monetaria della Comunità**» · «**svolgere le operazioni sui cambi in linea con le disposizioni dell'articolo 111 del trattato**» · «**detenere e gestire le riserve ufficiali in valuta estera degli Stati membri**» · «**promuovere il regolare funzionamento dei sistemi di pagamento**» (slide 16). ⚠️ Il transcript perde l'**art. 111** e il verbo «**e gestire**»: **detenere** è custodia, **gestire** è amministrazione attiva.
-**Opzione:** Definire e attuare la politica monetaria; svolgere le operazioni sui cambi (art. 111 del trattato); detenere e gestire le riserve ufficiali in valuta estera degli Stati membri; promuovere il regolare funzionamento dei sistemi di pagamento.
+**Opzione:** Definire e attuare la politica monetaria della Comunità; svolgere le operazioni sui cambi in linea con le disposizioni dell'articolo 111 del trattato; detenere e gestire le riserve ufficiali in valuta estera degli Stati membri; promuovere il regolare funzionamento dei sistemi di pagamento.
 **Distrattori:**
-- Definire e attuare la politica monetaria; svolgere le operazioni sui cambi (art. 108 del trattato); detenere e gestire le riserve ufficiali in valuta estera degli Stati membri; promuovere il regolare funzionamento dei sistemi di pagamento.
+- Definire e attuare la politica monetaria della Comunità; svolgere le operazioni sui cambi in linea con le disposizioni dell'articolo 108 del trattato; detenere e gestire le riserve ufficiali in valuta estera degli Stati membri; promuovere il regolare funzionamento dei sistemi di pagamento.
 - Elabora standard riconosciuti a livello internazionale, analizza le tecniche e l'evoluzione dei fenomeni valutando e monitorando i sistemi nazionali, e individua i paesi con problemi strategici nei loro sistemi di prevenzione e contrasto.
 - Supervisione ai fini di stabilità su assicurazioni e riassicurazioni: revisione e valutazione prudenziale, analisi dei rischi, convalida dei modelli interni; vigilanza supplementare sui conglomerati finanziari e prudenziale sui gruppi assicurativi.
 
@@ -5280,9 +5277,9 @@
 
 **D:** ⚠️ Che cosa disse Draghi nel luglio 2012 e che cosa accadde «due anni dopo»?
 **R:** «***Within our mandate***, **the ECB is ready to do *whatever it takes* to preserve the euro. And believe me, it will be enough**» (slide 19, luglio 2012). «**Due anni dopo, Draghi lanciò il Quantitative easing, acquistando sul mercato secondario dosi massicce di titoli pubblici degli Stati in crisi dell'eurozona**». ⚠️ **Il 2012 è l'anno del *discorso*, non del QE** — che la slide 37 data «**a partire dal 2015**». ⚠️ «***Within our mandate***» è la clausola che il ricordo popolare taglia. ⚠️ Gli acquisti sono «sul **mercato secondario**»: non è finanziamento monetario diretto degli Stati.
-**Opzione:** «Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough»; due anni dopo lanciò il Quantitative easing, acquistando sul mercato secondario titoli pubblici degli Stati in crisi.
+**Opzione:** «Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough»; due anni dopo, Draghi lanciò il Quantitative easing, acquistando sul mercato secondario dosi massicce di titoli pubblici degli Stati in crisi dell'eurozona.
 **Distrattori:**
-- «Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough»; due anni dopo lanciò il Quantitative easing, acquistando sul mercato primario titoli pubblici degli Stati in crisi.
+- «Within our mandate, the ECB is ready to do whatever it takes to preserve the euro. And believe me, it will be enough»; due anni dopo, Draghi lanciò il Quantitative easing, acquistando sul mercato primario dosi massicce di titoli pubblici degli Stati in crisi dell'eurozona.
 - Il Single Resolution Board (SRB) ha trasferito tutte le azioni del Banco Popular Español S.A. al Banco Santander S.A.; il Banco Popular ha continuato ad operare come membro solvente e liquido del Gruppo Santander.
 - Il controllo democratico istituito dal Parlamento con la risoluzione del 18 giugno 1996: il presidente della BCE si presenta quattro volte all'anno dinanzi alla commissione ECON, in riunioni aperte al pubblico.
 
@@ -5359,7 +5356,7 @@
 **Opzione:** Operazioni sul mercato aperto, canali finanziari permanenti per assorbire o fornire liquidità, riserva obbligatoria.
 **Distrattori:**
 - Operazioni sul mercato aperto, canali finanziari permanenti per assorbire o fornire liquidità, Emergency Liquidity Assistance.
-- Operazioni sul mercato aperto, canali finanziari permanenti per fornire liquidità, riserva obbligatoria.
+- Operazioni sul mercato aperto, canali finanziari temporanei per assorbire o fornire liquidità, riserva obbligatoria.
 - Operazioni di Quantitative Easing, canali finanziari permanenti per assorbire o fornire liquidità, riserva obbligatoria.
 
 **D:** ⚠️ A che cosa servono le operazioni di mercato aperto e in quante categorie si dividono?
@@ -5436,9 +5433,9 @@
 
 **D:** ⚠️ In quali scaglioni si sono svolti gli acquisti netti fra il 2014 e il 2018?
 **R:** «Tra **ottobre 2014 e dicembre 2018** l'Eurosistema ha effettuato **acquisti netti** di titoli»: **60 miliardi** da marzo 2015 a marzo 2016 · **80** da aprile 2016 a marzo 2017 · **60** da aprile 2017 a dicembre 2017 · **30** da gennaio 2018 a settembre 2018 · **15** da ottobre 2018 a dicembre 2018 (slide 38). ⚠️ **Cinque scaglioni**: il transcript si ferma a «60, 80, 60 **e via dicendo**» — è la **coda soppressa**. ⚠️ La forma è un ***tapering*** (sale, poi scende a gradini). ⚠️ Gli acquisti netti partono da **ottobre 2014**, la scaletta mensile da **marzo 2015**.
-**Opzione:** Tra ottobre 2014 e dicembre 2018: 60 miliardi al mese da marzo 2015 a marzo 2016, 80 da aprile 2016 a marzo 2017, 60 da aprile 2017 a dicembre 2017, 30 da gennaio 2018 a settembre 2018, 15 da ottobre 2018 a dicembre 2018.
+**Opzione:** Tra ottobre 2014 e dicembre 2018: 60 miliardi da marzo 2015 a marzo 2016, 80 da aprile 2016 a marzo 2017, 60 da aprile 2017 a dicembre 2017, 30 da gennaio 2018 a settembre 2018, 15 da ottobre 2018 a dicembre 2018.
 **Distrattori:**
-- Tra marzo 2015 e dicembre 2018: 60 miliardi al mese da marzo 2015 a marzo 2016, 80 da aprile 2016 a marzo 2017, 60 da aprile 2017 a dicembre 2017, 30 da gennaio 2018 a settembre 2018, 15 da ottobre 2018 a dicembre 2018.
+- Tra ottobre 2014 e dicembre 2018: 60 miliardi da marzo 2015 a marzo 2016, 80 da aprile 2016 a marzo 2017, 60 da aprile 2017 a dicembre 2017, 30 da gennaio 2018 a settembre 2018, 20 da ottobre 2018 a dicembre 2018.
 - Italia: incidenza netta da circa 3,5% (2008) a 11% (2014-2015) e 7,3% (2017), copertura da circa 40% a 52%; area euro: NPL ratio da circa 7,5% (2015) a 4,2% (2018).
 - Totale attivo 404.980 milioni, patrimonio netto 53.508 (32.697 nel 2016, per un forte aumento di capitale); CET1 48.880, capitale di classe 1 54.703, fondi propri 64.454, RWA 356.100.
 
@@ -5452,9 +5449,9 @@
 
 **D:** ⚠️ Che cos'è il PEPP, con quale atto è stato istituito e con quale dotazione?
 **R:** Il ***Pandemic Emergency Purchase Programme***, «**programma temporaneo di acquisto per l'emergenza pandemica**», deciso dal **Consiglio direttivo il 18 marzo 2020** e istituito con **Decisione (UE) 2020/440 della BCE del 24 marzo 2020** (BCE/2020/17), in GU del **25.3.2020**. Dotazione: «**complessiva supplementare di 750 miliardi di euro fino alla fine del 2020**» (slide 41–43). ⚠️ **Quattro date e due numeri d'atto**, tutti verificabili separatamente.
-**Opzione:** Programma temporaneo di acquisto per l'emergenza pandemica: deciso dal Consiglio direttivo il 18 marzo 2020, istituito con Decisione (UE) 2020/440 del 24 marzo 2020 (BCE/2020/17), in GU del 25.3.2020; 750 miliardi di euro fino alla fine del 2020.
+**Opzione:** Programma temporaneo di acquisto per l'emergenza pandemica: deciso dal Consiglio direttivo il 18 marzo 2020, istituito con Decisione (UE) 2020/440 del 24 marzo 2020 (BCE/2020/17), in GU del 25.3.2020; dotazione complessiva supplementare di 750 miliardi di euro fino alla fine del 2020.
 **Distrattori:**
-- Programma temporaneo di acquisto per l'emergenza pandemica: deciso dal Consiglio direttivo il 18 marzo 2020, istituito con Decisione (UE) 2020/440 del 24 marzo 2020 (BCE/2020/17), in GU del 25.3.2020; 750 miliardi di euro a tempo indeterminato.
+- Programma temporaneo di acquisto per l'emergenza pandemica: deciso dal Consiglio direttivo il 18 marzo 2020, istituito con Decisione (UE) 2020/440 del 24 marzo 2020 (BCE/2020/17), in GU del 25.3.2020; dotazione complessiva supplementare di 750 miliardi di euro a tempo indeterminato.
 - Fondo unico europeo previsto dalla proposta legislativa della Commissione del novembre 2015 per completare il terzo pilastro dell'Unione Bancaria: è ancora una proposta, la garanzia resta nazionale.
 - Risoluzione del Comitato dei Ministri del Consiglio d'Europa, richiesta e ottenuta il 6 aprile 2011, che consente la piena partecipazione nel processo di valutazione di MONEYVAL.
 
@@ -5463,9 +5460,9 @@
 
 **D:** ⚠️ Che cosa ha deciso la BCE in aprile 2020 sulle obbligazioni declassate?
 **R:** «Ha **modificato le sue regole per accettare le obbligazioni che perdono il loro rating di credito investment grade**, per **mantenere l'accesso delle banche alla liquidità ultra economica** durante la crisi del coronavirus». Circa «**275 miliardi di dollari** di obbligazioni societarie **non finanziarie** potrebbero venir declassati **al di sotto del livello minimo di tripla B**… secondo le **stime dell'OCSE a febbraio**» (slide 44). ⚠️ **Dollari, non euro**; obbligazioni **non finanziarie**; stima **OCSE** riferita a **febbraio** (il transcript rende «OCSE» come «Ox»). ⚠️ Riguarda le **garanzie** portate dalle banche, non gli acquisti.
-**Opzione:** Accettare le obbligazioni che perdono il rating investment grade, per mantenere l'accesso delle banche alla liquidità ultra economica; 275 miliardi di dollari di obbligazioni non finanziarie declassabili sotto la tripla B (stime OCSE di febbraio).
+**Opzione:** Accettare le obbligazioni che perdono il loro rating di credito investment grade, per mantenere l'accesso delle banche alla liquidità ultra economica; circa 275 miliardi di dollari di obbligazioni societarie non finanziarie potrebbero venir declassati al di sotto del livello minimo di tripla B entro il prossimo anno, secondo le stime dell'OCSE a febbraio.
 **Distrattori:**
-- Accettare le obbligazioni che perdono il rating investment grade, per mantenere l'accesso delle banche alla liquidità ultra economica; 275 miliardi di euro di obbligazioni non finanziarie declassabili sotto la tripla B (stime OCSE di febbraio).
+- Accettare le obbligazioni che perdono il loro rating di credito investment grade, per mantenere l'accesso delle banche alla liquidità ultra economica; circa 275 miliardi di euro di obbligazioni societarie non finanziarie potrebbero venir declassati al di sotto del livello minimo di tripla B entro il prossimo anno, secondo le stime dell'OCSE a febbraio.
 - Inserire l'art. 2 del TUIR, che consente di presumere ancora residenti, salvo prova contraria, le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
 - Fissare dopo lo SREP 2016 il requisito di Pillar 2 (P2R): dall'1 gennaio 2017, su base consolidata, 7% CET1, 8,5% Tier 1 e 10,5% Total Capital.
 
@@ -5517,7 +5514,7 @@
 **Distrattori:**
 - Un alto grado di stabilità dei prezzi, finanze pubbliche sane, tassi di cambio stabili e convergenza dei tassi di interesse a breve termine.
 - Un alto grado di stabilità dei prezzi, finanze pubbliche sane, tassi di cambio stabili e un debito pubblico inferiore al 60% del PIL.
-- Un alto grado di stabilità dei prezzi, finanze pubbliche sane e tassi di cambio stabili.
+- Un alto grado di stabilità dei prezzi, finanze pubbliche sane, tassi di cambio flessibili e convergenza dei tassi di interesse a lungo termine.
 
 **D:** ⚠️ Chi stabilisce se un paese candidato può adottare la moneta unica, e chi ratifica?
 **R:** «La **Commissione europea** e la **Banca centrale europea** stabiliscono **congiuntamente** se i paesi candidati all'ingresso nell'area dell'euro soddisfino le condizioni per l'adozione della moneta unica. Vengono poi **ratificate dal Consiglio ECOFIN in consultazione con il Parlamento e i capi di Stato**» (slide 8). ⚠️ **Due fasi e soggetti diversi**: valutazione **congiunta** Commissione + BCE, ratifica **ECOFIN**. ⚠️ Il **Parlamento europeo è consultato, non decide**.
@@ -5547,7 +5544,7 @@
 **R:** È l'esempio della **struttura comune dei bilanci fiscali**, «i requisiti per i bilanci dei paesi dell'area dell'euro»: «**stabilisce norme dettagliate per i bilanci nazionali**. Queste sono necessarie per garantire che i governi dell'Unione europea (UE) **rispettino i requisiti di unione economica e monetaria** e **non abbiano disavanzi eccessivi**» (slide 11). ⚠️ Lo scopo pratico, secondo il docente ([00:02:36]): «**si possa dialogare tra stati**… si ha **lo stesso linguaggio**».
 **Opzione:** Stabilisce norme dettagliate per i bilanci nazionali, necessarie per garantire che i governi dell'UE rispettino i requisiti di unione economica e monetaria e non abbiano disavanzi eccessivi.
 **Distrattori:**
-- Stabilisce norme dettagliate per i bilanci delle banche centrali nazionali, necessarie per garantire che rispettino i requisiti di unione economica e monetaria.
+- Stabilisce norme dettagliate per i bilanci delle banche centrali nazionali, necessarie per garantire che rispettino i requisiti di unione economica e monetaria e non abbiano disavanzi eccessivi.
 - Fissa le nuove norme sulla ripartizione degli oneri in caso di risoluzioni bancarie: le perdite devono essere innanzitutto poste a carico degli azionisti e dei creditori anziché di fondi pubblici.
 - Consente di presumere ancora residenti, salvo prova contraria, le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
 
@@ -5667,7 +5664,7 @@
 **R:** Il Parlamento «ha chiesto che i **considerevoli poteri della BCE attribuiti dal trattato** – ovvero la **libertà di determinare la politica monetaria da perseguire** – fossero **controbilanciati da un controllo democratico** (**risoluzione del 18 giugno 1996**). A tal fine, esso ha istituito un «**Dialogo monetario**»: il **presidente della BCE** si presenta, «secondo una **prassi consolidata**, **quattro volte all'anno** dinanzi alla **commissione per i problemi economici e monetari del Parlamento (ECON)**»; le riunioni sono «**aperte al pubblico**» e le trascrizioni «**pubblicate sui siti web del Parlamento e della BCE**» (slide 28). ⚠️ È **controllo democratico**, **non** potere di istruzione — vietato dalla slide 23.
 **Opzione:** È il controllo democratico istituito dal Parlamento con la risoluzione del 18 giugno 1996: il presidente della BCE si presenta quattro volte all'anno dinanzi alla commissione ECON, in riunioni aperte al pubblico e con trascrizioni pubblicate.
 **Distrattori:**
-- È il potere del Parlamento di impartire istruzioni alla BCE, istituito con la risoluzione del 18 giugno 1996: il presidente della BCE si presenta quattro volte all'anno dinanzi alla commissione ECON.
+- È il potere del Parlamento di impartire istruzioni alla BCE, istituito con la risoluzione del 18 giugno 1996: il presidente della BCE si presenta quattro volte all'anno dinanzi alla commissione ECON, in riunioni aperte al pubblico e con trascrizioni pubblicate.
 - L'obbligo per ogni paese di creare un'unità di informazione finanziaria indipendente, che funga da centro nazionale per la ricezione e l'analisi delle segnalazioni di operazioni sospette e per la disseminazione dei risultati.
 - Il Deposit Insurance Fund, fondo unico europeo previsto dalla proposta legislativa della Commissione del novembre 2015 per completare il terzo pilastro dell'Unione Bancaria: è ancora una proposta, la garanzia resta nazionale.
 
@@ -5721,9 +5718,9 @@
 
 **D:** Quali sono i compiti della Fed?
 **R:** «**Stabilire la politica monetaria nazionale influenzando la quantità di moneta in circolazione e le condizioni creditizie dell'economia**» · «**supervisionare e regolare le istituzioni bancarie per assicurarne la sicurezza e la stabilità del sistema bancario e finanziario nazionale e proteggere i diritti dei consumatori**» · «**mantenere la stabilità del sistema finanziario e contenere il rischio sistemico che può nascere nei mercati finanziari**» · «**fornire servizi di tesoreria per le istituzioni depositanti, e la supervisione del sistema dei pagamenti nazionale**» (slide 37). ⚠️ **Quattro compiti**, con **due code doppie**: la tutela dei **consumatori** e la supervisione del **sistema dei pagamenti**.
-**Opzione:** Stabilire la politica monetaria nazionale; supervisionare e regolare le banche e proteggere i diritti dei consumatori; mantenere la stabilità finanziaria e contenere il rischio sistemico; servizi di tesoreria e supervisione del sistema dei pagamenti.
+**Opzione:** Stabilire la politica monetaria nazionale influenzando la quantità di moneta in circolazione e le condizioni creditizie dell'economia; supervisionare e regolare le istituzioni bancarie per assicurarne la sicurezza e la stabilità del sistema bancario e finanziario nazionale e proteggere i diritti dei consumatori; mantenere la stabilità del sistema finanziario e contenere il rischio sistemico che può nascere nei mercati finanziari; fornire servizi di tesoreria per le istituzioni depositanti, e la supervisione del sistema dei pagamenti nazionale.
 **Distrattori:**
-- Stabilire la politica monetaria nazionale; supervisionare e regolare le banche e proteggere i diritti dei consumatori; mantenere la stabilità finanziaria e contenere il rischio sistemico; servizi di tesoreria e riscossione delle imposte federali.
+- Stabilire la politica monetaria nazionale influenzando la quantità di moneta in circolazione e le condizioni creditizie dell'economia; supervisionare e regolare le istituzioni bancarie per assicurarne la sicurezza e la stabilità del sistema bancario e finanziario nazionale e proteggere i diritti dei consumatori; mantenere la stabilità del sistema finanziario e contenere il rischio sistemico che può nascere nei mercati finanziari; fornire servizi di tesoreria per le istituzioni depositanti, e la riscossione delle imposte federali.
 - Elabora standard riconosciuti a livello internazionale, analizza le tecniche e l'evoluzione dei fenomeni valutando e monitorando i sistemi nazionali, e individua i paesi con problemi strategici nei loro sistemi di prevenzione e contrasto.
 - Informativa e tutele nella sollecitazione del risparmio; contenuto minimo dei prospetti informativi; funzionamento dei mercati; comportamento e pubblicità degli intermediari; obblighi preliminari e successivi degli intermediari autorizzati; vigilanza
 
@@ -5737,9 +5734,9 @@
 
 **D:** ⚠️ Quali sono le tre differenze principali fra Fed e BCE?
 **R:** «**FED e BCE hanno mandati diversi e adottano metodi diversi per raggiungerli**» (slide 42): ① **obiettivo** — «obiettivo primario della BCE è la **stabilità dei prezzi**» ↔ «obiettivi della FED sono **obiettivi macroeconomici come la piena occupazione e la stabilità dei prezzi**»; ② **esecuzione** — le operazioni monetarie sono svolte «**tramite le banche centrali nazionali**» ↔ «**dalla FED**»; ③ **controllo** — «le **Banche Centrali nazionali controllano** i loro bilanci e **il bilancio della BCE**» ↔ «il **Board of Governors controlla** i bilanci delle banche centrali». ⚠️ **La direzione del controllo è invertita**: in Europa **dal basso**, negli USA **dall'alto**.
-**Opzione:** Obiettivo: per la BCE primario la stabilità dei prezzi, per la FED obiettivi macroeconomici; operazioni: tramite le BCN o dalla FED; controllo: le BCN controllano il bilancio della BCE, il Board of Governors quelli delle banche centrali.
+**Opzione:** Obiettivo: per la BCE primario la stabilità dei prezzi, per la FED obiettivi macroeconomici come la piena occupazione e la stabilità dei prezzi; operazioni: tramite le BCN o dalla FED; controllo: le BCN controllano i loro bilanci e il bilancio della BCE, il Board of Governors quelli delle banche centrali.
 **Distrattori:**
-- Obiettivo: per la BCE primario la stabilità dei prezzi, per la FED obiettivi macroeconomici; operazioni: tramite le BCN o dalla FED; controllo: la BCE controlla i bilanci delle BCN, le banche centrali quello del Board of Governors.
+- Obiettivo: per la BCE primario la stabilità dei prezzi, per la FED obiettivi macroeconomici come la piena occupazione e la stabilità dei prezzi; operazioni: tramite le BCN o dalla FED; controllo: la BCE controlla il proprio bilancio e quelli delle BCN, le banche centrali quello del Board of Governors.
 - La Raccomandazione 35 è del GAFI e riguarda le sanzioni; l'articolo 35 del d.lgs. 231/2007 è italiano e riguarda i soggetti obbligati e la segnalazione di operazioni sospette, con l'esonero da responsabilità al comma 4.
 - Gli Stati Uniti non aderiscono al Common Reporting Standard e usano il FATCA, introdotto nel 2010, che raccoglie le informazioni sui cittadini americani all'estero ma non condivide reciprocamente i dati.
 
@@ -5835,7 +5832,7 @@
 **R:** «In generale le **politiche non convenzionali per le crisi finanziarie** stanno portando ad una **esplosione del bilancio delle banche centrali**» (slide 57). Il grafico *Total Assets of Major Central Banks* (slide 58) porta il totale a **17,6 trilioni di dollari** ad **agosto 2016**, da circa **6 trilioni** nel 2008, e la nota precisa il perimetro: **Federal Reserve, Banca Centrale Europea, Banca del Giappone e Banca Popolare Cinese**. ⚠️ **Quattro banche centrali** nel dato aggregato. ⚠️ Da non confondere con il «**quasi 9 volte**» della sola **BCE** (lezione 17, slide 45): **perimetri diversi**.
 **Opzione:** Le politiche non convenzionali stanno portando a una esplosione del bilancio delle banche centrali: il totale di Federal Reserve, BCE, Banca del Giappone e Banca Popolare Cinese raggiunge 17,6 trilioni di dollari ad agosto 2016.
 **Distrattori:**
-- Le politiche non convenzionali stanno portando a una esplosione del bilancio delle banche centrali: il totale di Federal Reserve, BCE e Banca del Giappone raggiunge 17,6 trilioni di dollari ad agosto 2016.
+- Le politiche non convenzionali stanno portando a una esplosione del bilancio delle banche centrali: il totale di Federal Reserve, BCE, Banca del Giappone e Banca d'Inghilterra raggiunge 17,6 trilioni di dollari ad agosto 2016.
 - Un terzo degli investimenti al mondo, pari a 15 mila miliardi di dollari; e quasi il 40% degli investimenti diretti esteri passa da società letterbox senza nessuna attività di business reale.
 - Un profit shifting di 24 miliardi di euro e il 19% delle entrate tributarie dalle imprese, ovvero 7,5 miliardi, di cui 6,5 all'interno dell'Unione Europea.
 
@@ -5878,9 +5875,9 @@
 
 **D:** ⚠️ Che cos'è il GAFI e quando è stato costituito?
 **R:** «**Costituito nel 1989 in occasione del G7 di Parigi**, il **Gruppo d'Azione Finanziaria Internazionale (GAFI)** o **Financial Action Task Force (FATF)** è un **organismo intergovernativo** che ha per scopo l'**elaborazione e lo sviluppo di strategie di lotta al riciclaggio dei capitali di origine illecita**» (slide 8). ⚠️ **Intergovernativo**, cioè **fra Stati**: non un'associazione di imprese né una fondazione. È la **domanda 1 del quiz**. ⚠️ Il **1989** e il **G7 di Parigi** sono **solo sulla slide**: il transcript non li nomina.
-**Opzione:** È un organismo intergovernativo costituito nel 1989 in occasione del G7 di Parigi, con lo scopo di elaborare e sviluppare strategie di lotta al riciclaggio dei capitali di origine illecita.
+**Opzione:** È un organismo intergovernativo costituito nel 1989 in occasione del G7 di Parigi, con lo scopo di elaborare e sviluppare strategie di lotta al riciclaggio dei capitali di origine illecita e, dal 2001, anche di prevenzione del finanziamento al terrorismo.
 **Distrattori:**
-- È un'associazione volontaria di imprese finanziarie costituita nel 1989 in occasione del G7 di Parigi, con lo scopo di elaborare e sviluppare strategie di lotta al riciclaggio dei capitali di origine illecita.
+- È un'associazione volontaria di imprese finanziarie costituita nel 1989 in occasione del G7 di Parigi, con lo scopo di elaborare e sviluppare strategie di lotta al riciclaggio dei capitali di origine illecita e, dal 2001, anche di prevenzione del finanziamento al terrorismo.
 - È una fondazione di origine benefica che ha per scopo l'elaborazione e lo sviluppo di strategie di investimento finanziario sostenibile.
 - È la commissione speciale del Parlamento europeo sui crimini finanziari, sull'evasione e sull'elusione fiscale, insediata il 1° marzo 2018.
 
@@ -5902,9 +5899,9 @@
 
 **D:** ⚠️ Da chi è composto il GAFI e chi vi partecipa come osservatore?
 **R:** «Ne fanno parte **oltre 30 membri** in rappresentanza di **stati e organizzazioni regionali** che corrispondono ai **principali centri finanziari internazionali**. Partecipano inoltre, **come osservatori**, i **più rilevanti organismi finanziari internazionali del settore** (**FMI, Banca Mondiale, ECB, Nazioni Unite, Europol…**)» (slide 9). ⚠️ **Membri ≠ osservatori**: FMI, Banca Mondiale e BCE sono **osservatori**, non membri.
-**Opzione:** Oltre 30 membri in rappresentanza di stati e organizzazioni regionali corrispondenti ai principali centri finanziari internazionali; come osservatori partecipano FMI, Banca Mondiale, BCE, Nazioni Unite ed Europol.
+**Opzione:** Oltre 30 membri in rappresentanza di stati e organizzazioni regionali corrispondenti ai principali centri finanziari internazionali; come osservatori partecipano i più rilevanti organismi finanziari internazionali del settore, fra cui FMI, Banca Mondiale, BCE, Nazioni Unite ed Europol.
 **Distrattori:**
-- Oltre 30 membri in rappresentanza di stati e organizzazioni regionali corrispondenti ai principali centri finanziari internazionali, fra cui FMI, Banca Mondiale, BCE, Nazioni Unite ed Europol; non sono previsti osservatori.
+- Oltre 30 membri in rappresentanza di stati e organizzazioni regionali corrispondenti ai principali centri finanziari internazionali; come membri a pieno titolo partecipano anche i più rilevanti organismi finanziari internazionali del settore, fra cui FMI, Banca Mondiale, BCE, Nazioni Unite ed Europol.
 - Il Presidente, i 4 membri del comitato esecutivo e i 19 governatori delle Banche Centrali nazionali, che decidono a maggioranza sulla politica monetaria per l'area dell'euro.
 - Al retail può accedere la totalità degli investitori privati, all'ingrosso solo operatori professionali autorizzati che trattano grandi quantitativi.
 
@@ -5950,9 +5947,9 @@
 
 **D:** ⚠️ Che cosa prevede la Raccomandazione 29 del GAFI?
 **R:** L'**obbligo di creare Unità Finanziarie indipendenti in ogni paese** (slide 17): «*countries should establish a **financial intelligence unit (FIU)** that serves as a **national centre for the receipt and analysis of** (a) **suspicious transaction reports**; and (b) **other information relevant to money laundering, associated predicate offences and terrorist financing**, and for the **dissemination of the results of that analysis***». ⚠️ **Tre funzioni** — ricezione, analisi, **disseminazione** — e **un centro nazionale** per paese. È la **domanda 2 del quiz**: si tratta di un **obbligo**, non di una facoltà.
-**Opzione:** L'obbligo per ogni paese di creare un'unità di informazione finanziaria indipendente, che funga da centro nazionale per la ricezione e l'analisi delle segnalazioni di operazioni sospette e per la disseminazione dei risultati.
+**Opzione:** L'obbligo di creare Unità Finanziarie indipendenti in ogni paese, che fungano da centro nazionale per la ricezione e l'analisi delle segnalazioni di operazioni sospette e di altre informazioni rilevanti su riciclaggio, reati presupposto e finanziamento del terrorismo, e per la disseminazione dei risultati.
 **Distrattori:**
-- La facoltà per ogni paese di creare un'unità di informazione finanziaria indipendente, che funga da centro nazionale per la ricezione e l'analisi delle segnalazioni di operazioni sospette e per la disseminazione dei risultati.
+- La facoltà di creare Unità Finanziarie indipendenti in ogni paese, che fungano da centro nazionale per la ricezione e l'analisi delle segnalazioni di operazioni sospette e di altre informazioni rilevanti su riciclaggio, reati presupposto e finanziamento del terrorismo, e per la disseminazione dei risultati.
 - Fatto salvo l'obiettivo della stabilità dei prezzi, il sostegno alle politiche economiche generali dell'Unione al fine di contribuire alla realizzazione degli obiettivi dell'Unione definiti nell'articolo 3 del Trattato sull'Unione europea.
 - Che l'azione avvenga in conformità del principio di una economia di mercato aperta e in libera concorrenza.
 
@@ -6022,9 +6019,9 @@
 
 **D:** ⚠️ Come si distinguono GAFI, MONEYVAL e Gruppo Egmont per natura e anno di nascita?
 **R:** **GAFI/FATF**: **intergovernativo**, **1989** (G7 di Parigi), elabora **standard** e redige le **liste**. **MONEYVAL**: **organismo regionale** del **Consiglio d'Europa**, **settembre 1997**, fa ***mutual evaluation*** con la **metodologia del GAFI**. **Gruppo Egmont**: **globale e tecnico**, **1995**, nato **per iniziativa delle FIU**, gestisce l'**ESW**. ⚠️ **Tre date vicine e tre nature diverse**: è il punto in cui un distrattore scambia l'anno fra due organismi.
-**Opzione:** Il GAFI è intergovernativo e del 1989, MONEYVAL è regionale del Consiglio d'Europa e del 1997, il Gruppo Egmont è globale e tecnico, nato nel 1995 per iniziativa delle Financial Intelligence Unit.
+**Opzione:** Il GAFI è intergovernativo e del 1989, MONEYVAL è regionale del Consiglio d'Europa e del 1997, il Gruppo Egmont è globale e tecnico, nato nel 1995 per iniziativa di alcune Financial Intelligence Unit.
 **Distrattori:**
-- Il GAFI è intergovernativo e del 1989, MONEYVAL è regionale del Consiglio d'Europa e del 1995, il Gruppo Egmont è globale e tecnico, nato nel 1997 per iniziativa delle Financial Intelligence Unit.
+- Il GAFI è intergovernativo e del 1989, MONEYVAL è regionale del Consiglio d'Europa e del 1995, il Gruppo Egmont è globale e tecnico, nato nel 1997 per iniziativa di alcune Financial Intelligence Unit.
 - I mercati regolamentati prevedono la presenza di un gestore e di un regolamento di mercato e la negoziazione di strumenti standardizzati; quelli over the counter l'assenza di gestore e regolamento e strumenti personalizzati.
 - L'MTS è un mercato telematico all'ingrosso di titoli di Stato e obbligazioni, istituito nel 1988 e privatizzato nel 1997, gestito dalla società MTS S.p.a.
 
@@ -6120,7 +6117,7 @@
 **R:** «**Ex art. 22, c. 5**», il **settlor**, il **trustee**, il **protector** e «le **altre persone fisiche che, a qualsivoglia titolo, esercitino un controllo sul trust (o società fiduciaria) ovvero sui beni conferiti**» (slide 38). ⚠️ **Quattro figure, e la prima è il *settlor*** — che il transcript omette, citando solo trustee e protector. **Vale la slide.**
 **Opzione:** Il settlor, il trustee, il protector e le altre persone fisiche che a qualsivoglia titolo esercitino un controllo sul trust o sui beni conferiti.
 **Distrattori:**
-- Il trustee, il protector e le altre persone fisiche che a qualsivoglia titolo esercitino un controllo sul trust o sui beni conferiti.
+- Il notaio, il trustee, il protector e le altre persone fisiche che a qualsivoglia titolo esercitino un controllo sul trust o sui beni conferiti.
 - Il settlor, il trustee e il protector, con esclusione di chi esercita un controllo di fatto sul trust o sui beni conferiti.
 - Il settlor, il trustee, il protector e i soli beneficiari finali del trust, individuati al momento della sua costituzione.
 
@@ -6142,9 +6139,9 @@
 
 **D:** ⚠️ Da che cosa può essere desunto il sospetto?
 **R:** «Da **caratteristiche, entità e natura delle operazioni**, dal loro **collegamento o frazionamento** o da **qualsiasi altra circostanza conosciuta dai segnalanti in ragione delle funzioni esercitate**, tenuto conto anche della **capacità economica o dell'attività svolta dai soggetti cui le operazioni sono riferite**» (slide 42). ⚠️ **Il frazionamento è esplicitamente coperto**: dividere l'operazione non la sottrae al controllo. ⚠️ **Clausola di chiusura aperta**: «qualsiasi altra circostanza». ⚠️ Il metro è **relativo al soggetto**: capacità economica e attività svolta.
-**Opzione:** Da caratteristiche, entità e natura delle operazioni, dal loro collegamento o frazionamento o da qualsiasi altra circostanza conosciuta dai segnalanti, tenuto conto della capacità economica o dell'attività svolta dai soggetti interessati.
+**Opzione:** Da caratteristiche, entità e natura delle operazioni, dal loro collegamento o frazionamento o da qualsiasi altra circostanza conosciuta dai segnalanti in ragione delle funzioni esercitate, tenuto conto anche della capacità economica o dell'attività svolta dai soggetti cui le operazioni sono riferite.
 **Distrattori:**
-- Da caratteristiche, entità e natura delle operazioni, con esclusione di collegamento e frazionamento, o da qualsiasi altra circostanza conosciuta dai segnalanti, tenuto conto della capacità economica o dell'attività svolta dai soggetti interessati.
+- Da caratteristiche, entità e natura delle operazioni, con esclusione di collegamento e frazionamento, o da qualsiasi altra circostanza conosciuta dai segnalanti in ragione delle funzioni esercitate, tenuto conto anche della capacità economica o dell'attività svolta dai soggetti cui le operazioni sono riferite.
 - Dal sottostante: i punti 4-7 riguardano i tassi di interesse e gli altri derivati finanziari, il punto 10 i derivati connessi a variabili climatiche, tariffe di trasporto, tassi di inflazione o altre statistiche economiche ufficiali.
 - Da un meccanismo di scambio e di pricing basato sull'interazione delle proposte di negoziazione degli investitori, nella forma tipica dell'asta, a chiamata o continua.
 
@@ -6187,11 +6184,11 @@
 
 **D:** Che cosa comporta per gli Stati il fatto che il sistema finanziario sia diventato globale?
 **R:** «In un sistema di **scambi di capitale aperto**, i singoli **stati** e gli **enti** o le **imprese** di ogni paese sono in **competizione tra di loro nella attrazione di risparmi e attività produttive**» (slide 4), perché «negli ultimi anni il concetto di sistema finanziario ha assunto una dimensione sempre più **sovranazionale e globale**» (slide 3). ⚠️ **Tre soggetti in competizione** (stati, enti, imprese) e **due oggetti** (risparmi *e* attività produttive).
-**Opzione:** Che stati, enti e imprese di ogni paese sono in competizione tra di loro nella attrazione di risparmi e attività produttive.
+**Opzione:** Che i singoli stati e gli enti o le imprese di ogni paese sono in competizione tra di loro nella attrazione di risparmi e attività produttive.
 **Distrattori:**
-- Che stati, enti e imprese di ogni paese sono in competizione tra di loro nella sola attrazione di risparmi.
+- Che i singoli stati e gli enti o le imprese di ogni paese sono in competizione tra di loro nella sola attrazione di risparmi.
 - Che i soli stati sono in competizione tra di loro nella attrazione di risparmi e attività produttive.
-- Che stati, enti e imprese di ogni paese cooperano tra di loro nella allocazione di risparmi e attività produttive.
+- Che i singoli stati e gli enti o le imprese di ogni paese cooperano tra di loro nella allocazione di risparmi e attività produttive.
 
 **D:** ⚠️ In quale conto della bilancia dei pagamenti sono riportati i movimenti di capitale, e che cosa vi si registra?
 **R:** «Nella **bilancia dei pagamenti** di uno Stato, i movimenti di capitale sono riportati nel **Conto finanziario**. È il conto in cui sono registrati gli **investimenti diretti**, gli **investimenti di portafoglio**, i **derivati**, gli **altri investimenti** e le **riserve ufficiali**. È anche detto **conto dei movimenti finanziari**» (slide 6). ⚠️ **Cinque voci, elenco chiuso.** ⚠️ **Due nomi per lo stesso conto.** È la **domanda 1 del quiz**.
@@ -6214,14 +6211,14 @@
 **Opzione:** Globalizzazione, rendimento, sicurezza, servizi e vantaggio fiscale e normativo.
 **Distrattori:**
 - Globalizzazione, rendimento, sicurezza, servizi e stabilità dei prezzi.
-- Globalizzazione, rendimento, sicurezza e vantaggio fiscale e normativo.
+- Depositi, prestiti bancari, mutui, leasing e factoring.
 - Globalizzazione, rendimento, liquidità, servizi e vantaggio fiscale e normativo.
 
 **D:** In che senso la globalizzazione è un driver dei flussi di capitale?
 **R:** «Un driver recente è stata la **riallocazione del lavoro e della produzione verso le aree di nuovo sviluppo**» (slide 12); «si pensi ad esempio alla **continua riallocazione di capitali verso i paesi emergenti dagli anni Novanta in poi**» (slide 13). ⚠️ Il docente ([00:02:33]) cita la trasformazione della **Cina** da paese agricolo a industriale, lo sviluppo di **Messico** e **Turchia**, la nascita delle **tigri asiatiche**.
-**Opzione:** È la riallocazione del lavoro e della produzione verso le aree di nuovo sviluppo, con una continua riallocazione di capitali verso i paesi emergenti dagli anni Novanta in poi.
+**Opzione:** È la riallocazione del lavoro e della produzione verso le aree di nuovo sviluppo; si pensi ad esempio alla continua riallocazione di capitali verso i paesi emergenti dagli anni Novanta in poi.
 **Distrattori:**
-- È la riallocazione del lavoro e della produzione verso le aree di nuovo sviluppo, con una continua riallocazione di capitali verso i paesi emergenti dagli anni Settanta in poi.
+- È la riallocazione del lavoro e della produzione verso le aree di nuovo sviluppo; si pensi ad esempio alla continua riallocazione di capitali verso i paesi emergenti dagli anni Settanta in poi.
 - È la riduzione del periodo medio di detenzione di un titolo azionario quotato sul NYSE, da 11 anni a meno di un anno.
 - È la sincronizzazione dei flussi di un'impresa che ha costi tutto l'anno ma entrate solo in alcuni periodi dell'anno.
 
@@ -6235,9 +6232,9 @@
 
 **D:** ⚠️ Quando i capitali si muovono per sicurezza, e con quale episodio lo documenta la lezione?
 **R:** «…**soprattutto nelle fasi di maggiore instabilità politica e finanziaria**» (slide 18): «durante la **crisi del 2011-2012** uno dei problemi fu il **fortissimo deflusso di capitali dai paesi più deboli in area Euro**» (slide 19) — circa **600 miliardi** usciti da **Italia, Spagna, Irlanda e Grecia** verso **Germania, Olanda e Lussemburgo**, «**profittando della mancanza di ostacoli alla libera circolazione dei capitali in area euro**» (transcript [00:04:45]). ⚠️ La slide data la crisi **2011-2012**; il transcript dice «2010-2011»: **vale la slide**.
-**Opzione:** Nelle fasi di maggiore instabilità politica e finanziaria: durante la crisi del 2011-2012 si ebbe un fortissimo deflusso di capitali dai paesi più deboli dell'area Euro.
+**Opzione:** Soprattutto nelle fasi di maggiore instabilità politica e finanziaria: durante la crisi del 2011-2012 uno dei problemi fu il fortissimo deflusso di capitali dai paesi più deboli in area Euro.
 **Distrattori:**
-- Nelle fasi di maggiore instabilità politica e finanziaria: durante la crisi del 2011-2012 si ebbe un fortissimo deflusso di capitali dai paesi più forti dell'area Euro.
+- Soprattutto nelle fasi di maggiore instabilità politica e finanziaria: durante la crisi del 2011-2012 uno dei problemi fu il fortissimo deflusso di capitali dai paesi più forti in area Euro.
 - Dopo la Brexit, quando con l'uscita della BOE le quote di capitale della BCE sono state ripartite.
 - Nelle aste a chiamata, quando le negoziazioni sono concentrate in un determinato intervallo della giornata e le proposte ineseguite sono cancellate.
 
@@ -6311,7 +6308,7 @@
 **Distrattori:**
 - La crisi finanziaria del 2008, le dimensioni assunte dal fenomeno e il danno erariale ai paesi di origine; si sono mossi OCSE, FMI e Banca Centrale Europea.
 - La manipolazione del LIBOR da parte delle banche, dal 1991, per trarre profitto dai trade e apparire più solvibili; nel febbraio 2014 la BBA ne ha affidato il calcolo all'ICE.
-- Le finalità di antiriciclaggio e di lotta al terrorismo, per cui dal 2001 è aumentato il controllo internazionale dei flussi finanziari.
+- I fondi comuni di investimento monetari, soprattutto negli USA, perché è considerata uno strumento praticamente privo di rischio e perché l'elevato valore nominale la rende quasi inaccessibile ai piccoli investitori retail.
 
 **D:** ⚠️ Che cos'è il Common Reporting Standard e quando è partito?
 **R:** «Nel **2014** l'**Ocse** ha adottato il **Common Reporting Standard**, un sistema che permette di **condividere automaticamente, tra i Paesi aderenti, dati e informazioni riguardanti conti esteri e attività finanziarie**. Gli **scambi automatici sono partiti a settembre 2017**, con un gruppo di **49 Paesi**. **Nel 2019 si è arrivati a 90 paesi**» (slide 31). ⚠️ **Tre date da non fondere**: **adozione 2014** ≠ **avvio settembre 2017** ≠ **ampliamento 2019**; e i paesi passano da **49** a **90**.
@@ -6347,9 +6344,9 @@
 
 **D:** ⚠️ Che cosa prevede la normativa italiana per chi trasferisce la residenza in un paese a fiscalità privilegiata?
 **R:** «La **l. 244/2007** ha inserito l'**art. 2 del TUIR (Testo Unico delle Imposte sui Redditi)**, che consente di **presumere ancora residenti – salvo prova contraria – tutte le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata**» (slide 36). ⚠️ **Presunzione relativa**: l'onere della prova è **sul contribuente**, che deve dimostrare «di avere davvero un'**attività economica**… una **presenza in quel paese stabile e significativa**» (transcript [00:13:28]).
-**Opzione:** La l. 244/2007 ha inserito l'art. 2 del TUIR, che consente di presumere ancora residenti, salvo prova contraria, le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
+**Opzione:** La l. 244/2007 ha inserito l'art. 2 del TUIR, che consente di presumere ancora residenti, salvo prova contraria, tutte le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
 **Distrattori:**
-- La l. 244/2007 ha inserito l'art. 2 del TUIR, che consente di presumere ancora residenti, senza possibilità di prova contraria, le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
+- La l. 244/2007 ha inserito l'art. 2 del TUIR, che consente di presumere ancora residenti, senza possibilità di prova contraria, tutte le persone fisiche che si trasferiscono in Paesi a fiscalità privilegiata.
 - Un documento della Banca d'Italia — UIF con gli schemi rappresentativi di comportamenti anomali nell'operatività con carte di pagamento, ai sensi dell'articolo 6, comma 7, lettera b) del d.lgs. 231/2007.
 - I titoli di Stato sono emessi dalla Repubblica Italiana tramite il Ministero dell'Economia e delle Finanze, che si avvale della collaborazione di Banca d'Italia per il collocamento.
 
@@ -6363,9 +6360,9 @@
 
 **D:** ⚠️ Quale articolo vieta le restrizioni ai movimenti di capitali nell'Unione, e dove sono ammesse deroghe?
 **R:** «Il **trattato di Maastricht (TUE)** ha introdotto la **libera circolazione dei capitali** tra le libertà sancite dai trattati. Attualmente l'**articolo 63 TFUE** **vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi**. Le **deroghe sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi (articolo 64 TFUE)**» (slide 40). ⚠️ **63 = divieto, 64 = deroghe**, e le deroghe valgono **solo verso i paesi terzi**. ⚠️ Il divieto ha **due oggetti**: **movimenti di capitali** *e* **pagamenti**. ⚠️ Attenzione all'omonimia con l'**art. 63 TUF** e l'**art. 63 TUB** già visti nel corso.
-**Opzione:** L'articolo 63 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri e verso i paesi terzi; le deroghe dell'articolo 64 TFUE sono limitate ai movimenti riguardanti paesi terzi.
+**Opzione:** L'articolo 63 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi; le deroghe dell'articolo 64 TFUE sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi.
 **Distrattori:**
-- L'articolo 64 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri e verso i paesi terzi; le deroghe dell'articolo 63 TFUE sono limitate ai movimenti riguardanti paesi terzi.
+- L'articolo 64 TFUE vieta tutte le restrizioni ai movimenti di capitali e ai pagamenti tra Stati membri, nonché tra Stati membri e paesi terzi; le deroghe dell'articolo 63 TFUE sono essenzialmente limitate ai movimenti di capitali riguardanti paesi terzi.
 - L'articolo 127 §1 TFUE fissa l'obiettivo principale del SEBC; l'articolo 7 dello Statuto SEBC, conforme all'articolo 108 del trattato, ne sancisce l'indipendenza.
 - La direttiva 2003/87/CE fissa i requisiti delle quote di emissioni, voce che chiude l'elenco degli strumenti finanziari della Sezione C del TUF.
 
@@ -6411,10 +6408,10 @@
 
 **D:** Quali società italiane hanno trasferito la sede in Olanda, secondo la lezione?
 **R:** «Tra i primi c'è stata la **Fiat**, che adesso si chiama **Fca**, che ha portato la **sede fiscale in Olanda dal 2014**. Poi è stata la volta di **MediaForEurope**, la nuova holding che ha unito **Mediaset italiana e spagnola**. Poi **Cementir**, del gruppo **Caltagirone**, **Eni**, **Enel**, **Exor**, **Ferrero**, **Prysmian**, **Saipem**, **Telecom Italia**, **Illy**, **Luxottica Group** e molte altre» (slide 49). ⚠️ Il transcript dice che FCA ha «sede **legale** in Olanda»: **vale la slide**, che parla di **sede fiscale dal 2014**.
-**Opzione:** FCA dal 2014, MediaForEurope, Cementir del gruppo Caltagirone, Eni, Enel, Exor, Ferrero, Prysmian, Saipem, Telecom Italia, Illy e Luxottica Group.
+**Opzione:** FCA dal 2014, MediaForEurope, Cementir del gruppo Caltagirone, Eni, Enel, Exor, Ferrero, Prysmian, Saipem, Telecom Italia, Illy, Luxottica Group e molte altre.
 **Distrattori:**
-- FCA dal 2004, MediaForEurope, Cementir del gruppo Caltagirone, Eni, Enel, Exor, Ferrero, Prysmian, Saipem, Telecom Italia, Illy e Luxottica Group.
-- FCA dal 2014, MediaForEurope, Cementir del gruppo Caltagirone, Eni, Enel, Exor, Ferrero, Prysmian, Saipem, Intesa Sanpaolo, Unicredit e Generali.
+- FCA dal 2004, MediaForEurope, Cementir del gruppo Caltagirone, Eni, Enel, Exor, Ferrero, Prysmian, Saipem, Telecom Italia, Illy, Luxottica Group e molte altre.
+- I buoni del tesoro, i certificati di deposito e le carte commerciali.
 - Solo FCA dal 2014 e MediaForEurope, mentre le altre grandi società italiane hanno mantenuto la sede in Italia.
 
 **D:** ⚠️ In che cosa consiste il «Double Irish with Dutch sandwich»?
@@ -6437,7 +6434,7 @@
 **R:** Dopo gli scandali «dai **Lux leaks** ai **Panama paper**, dai **Football leaks** ai **Paradise papers**», il **Parlamento europeo** ha istituito una «**commissione speciale sui crimini finanziari, sull'evasione e sull'elusione fiscale – cosiddetta TAX3 – insediatasi il 1° marzo 2018**». Nel **marzo 2019** ha segnalato che «**7 Paesi dell'Unione mostrano tratti di paradisi fiscali e facilitano una gestione fiscale aggressiva**»: **Belgio, Cipro, Irlanda, Lussemburgo, Malta, Olanda e Ungheria** (slide 53). ⚠️ **Due date**: insediamento **1° marzo 2018**, conclusioni **marzo 2019**. ⚠️ **Sette paesi**, non i quattro della slide 41.
 **Opzione:** È la commissione speciale del Parlamento europeo sui crimini finanziari, sull'evasione e sull'elusione fiscale, insediata il 1° marzo 2018; nel marzo 2019 ha segnalato Belgio, Cipro, Irlanda, Lussemburgo, Malta, Olanda e Ungheria.
 **Distrattori:**
-- È la commissione speciale del Parlamento europeo sui crimini finanziari, sull'evasione e sull'elusione fiscale, insediata il 1° marzo 2018; nel marzo 2019 ha segnalato Lussemburgo, Olanda, Malta e Cipro.
+- È la commissione speciale del Parlamento europeo sui crimini finanziari, sull'evasione e sull'elusione fiscale, insediata il 1° marzo 2018; nel marzo 2019 ha segnalato solo Lussemburgo, Olanda, Malta e Cipro.
 - È l'organo che riunisce i ministri delle Finanze di tutti gli Stati UE e che, previa consultazione della BCE, decide la politica di cambio dell'euro rispetto alle monete dei paesi terzi.
 - È l'organismo globale di natura tecnica costituito nel 1995 per iniziativa di alcune Financial Intelligence Unit, che gestisce e sviluppa la rete protetta Egmont Secure Web.
 
@@ -6467,9 +6464,9 @@
 
 **D:** ⚠️ Perché i paradisi fiscali impoveriscono tutta l'Unione e non solo i paesi d'origine delle imprese?
 **R:** «Per esemplificare, con una tassazione sugli utili che attraverso un'accurata pianificazione può arrivare **fin sotto il 5%**, una **multinazionale americana con sede in un paradiso e operante nel resto dell'Unione** riesce a **risparmiare 4 euro ogni 5 teoricamente dovuti**. **Il paradiso ne incassa solo 1, l'Unione nel complesso ne perde 4. I Paesi dove opera realmente perdono tutto**» (slide 57). ⚠️ **La formula è «4 euro ogni 5»**, cioè l'**80%**. ⚠️ **È un gioco a somma negativa**: il guadagno del paradiso (1) è molto minore della perdita complessiva (4).
-**Opzione:** Perché con una tassazione che può scendere sotto il 5% la multinazionale risparmia 4 euro ogni 5 dovuti: il paradiso ne incassa solo 1, l'Unione nel complesso ne perde 4 e i Paesi dove opera realmente perdono tutto.
+**Opzione:** Perché con una tassazione che può scendere sotto il 5% la multinazionale risparmia 4 euro ogni 5 teoricamente dovuti: il paradiso ne incassa solo 1, l'Unione nel complesso ne perde 4 e i Paesi dove opera realmente perdono tutto.
 **Distrattori:**
-- Perché con una tassazione che può scendere sotto il 5% la multinazionale risparmia 4 euro ogni 5 dovuti: il paradiso ne incassa 4, l'Unione nel complesso ne perde 1 e i Paesi dove opera realmente perdono tutto.
+- Perché con una tassazione che può scendere sotto il 5% la multinazionale risparmia 4 euro ogni 5 teoricamente dovuti: il paradiso ne incassa 4, l'Unione nel complesso ne perde 1 e i Paesi dove opera realmente perdono tutto.
 - Perché fino allo strike si perde il premio; oltre lo strike il ricavo sale fino al break even, e si guadagna solo quando la differenza supera il premio pagato.
 - Perché minore è la dimensione e la competenza finanziaria degli operatori e maggiore la complessità degli strumenti, maggiori sono le tutele dell'operatore debole.
 
@@ -6520,9 +6517,9 @@
 
 **D:** ⚠️ Che differenza c'è fra i punti 4-7 e il punto 10 della Sezione C, che hanno la stessa formula d'apertura?
 **R:** Cambia il **sottostante**. Entrambi elencano «**contratti di opzione, contratti finanziari a termine standardizzati («future»), «swap»**…», ma i punti **4-7** riguardano gli «**accordi per scambi futuri di tassi di interesse e altri contratti derivati**», mentre il punto **10** riguarda i derivati «**connessi a variabili climatiche, tariffe di trasporto, tassi di inflazione o altre statistiche economiche ufficiali**» (slide 7). Il docente lo dice esplicitamente ([00:00:10]): nel primo caso il riferimento sono «altre **grandezze mobiliari**», nel secondo le «**variabili economiche**». ⚠️ **Quando la testa dell'opzione è identica, non discrimina: si confronta solo la coda.**
-**Opzione:** Il sottostante: i punti 4-7 riguardano i tassi di interesse e gli altri derivati finanziari, il punto 10 i derivati connessi a variabili climatiche, tariffe di trasporto, tassi di inflazione o altre statistiche economiche ufficiali.
+**Opzione:** Il sottostante: i punti 4-7 riguardano gli accordi per scambi futuri di tassi di interesse e altri contratti derivati, il punto 10 i contratti su strumenti derivati connessi a variabili climatiche, tariffe di trasporto, tassi di inflazione o altre statistiche economiche ufficiali.
 **Distrattori:**
-- Il sottostante: i punti 4-7 riguardano i derivati connessi a variabili climatiche, tariffe di trasporto e tassi di inflazione, il punto 10 gli accordi per scambi futuri di tassi di interesse.
+- Il sottostante: i punti 4-7 riguardano i contratti su strumenti derivati connessi a variabili climatiche, tariffe di trasporto, tassi di inflazione o altre statistiche economiche ufficiali, il punto 10 gli accordi per scambi futuri di tassi di interesse e altri contratti derivati.
 - La sede di negoziazione: i punti 4-7 riguardano i derivati negoziati su mercati regolamentati, il punto 10 quelli negoziati fuori mercato.
 - La natura del contraente: i punti 4-7 riguardano i derivati stipulati fra intermediari autorizzati, il punto 10 quelli offerti ai piccoli risparmiatori.
 
@@ -6544,9 +6541,9 @@
 
 **D:** ⚠️ Quali sono le tre lettere della definizione di «valori mobiliari»?
 **R:** **a)** «**azioni di società e altri titoli equivalenti ad azioni di società, di partnership o di altri soggetti e ricevute di deposito azionario**»; **b)** «**obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli**»; **c)** «**qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure**» (slide 8). ⚠️ La lettera **c)** è una **clausola aperta**: cattura tutto ciò che *dà accesso* ad a) e b), impedendo di aggirare la disciplina.
-**Opzione:** Azioni e titoli equivalenti e ricevute di deposito azionario; obbligazioni e altri titoli di debito e relative ricevute di deposito; qualsiasi altro valore che permetta di acquisire o vendere i primi due o che comporti un regolamento a pronti.
+**Opzione:** a) azioni di società e altri titoli equivalenti ad azioni di società, di partnership o di altri soggetti e ricevute di deposito azionario; b) obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli; c) qualsiasi altro valore mobiliare che permetta di acquisire o di vendere i valori mobiliari indicati alle lettere a) e b) o che comporti un regolamento a pronti determinato con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure.
 **Distrattori:**
-- Azioni e titoli equivalenti e ricevute di deposito azionario; obbligazioni e altri titoli di debito e relative ricevute di deposito; quote di organismi di investimento collettivo e contratti derivati su merci.
+- a) azioni di società e altri titoli equivalenti ad azioni di società, di partnership o di altri soggetti e ricevute di deposito azionario; b) obbligazioni e altri titoli di debito, comprese le ricevute di deposito relative a tali titoli; c) quote di un organismo di investimento collettivo e contratti di opzione, contratti finanziari a termine standardizzati (future), swap e altri contratti derivati determinati con riferimento a valori mobiliari, valute, tassi di interesse o rendimenti, merci o altri indici o misure.
 - Asta pubblica; consorzio di banche selezionate tra gli operatori specialisti in Titoli di Stato (collocamento sindacato); piattaforme di negoziazione elettroniche.
 - Acquistano titoli del Tesoro, vendono certificati di deposito ed effettuano prestiti a breve termine; offrono agli investitori privati conti di deposito titoli che permettono di investire direttamente in titoli del mercato monetario.
 
@@ -6605,7 +6602,7 @@
 **R:** **Normativa europea · Normativa nazionale primaria · Normativa nazionale secondaria · Orientamenti/pareri ESMA · Orientamenti CONSOB** (slide 12). ⚠️ È una **piramide in ordine decrescente di forza** e i due gradini più bassi **non sono norme** in senso proprio: sono *soft law*. ⚠️ **ESMA sta sopra CONSOB.** ⚠️ L'**IVASS**, citato dal docente ([00:04:53]) per i prodotti assicurativi, **non figura nella slide**.
 **Opzione:** Normativa europea; normativa nazionale primaria; normativa nazionale secondaria; orientamenti e pareri ESMA; orientamenti CONSOB.
 **Distrattori:**
-- Normativa europea; normativa nazionale primaria; normativa nazionale secondaria; orientamenti CONSOB; orientamenti e pareri ESMA.
+- Normativa europea; normativa nazionale primaria; normativa nazionale secondaria; orientamenti e pareri EBA; orientamenti CONSOB.
 - Normativa europea; normativa nazionale primaria; normativa nazionale secondaria; orientamenti e pareri ESMA; orientamenti IVASS.
 - Costituzione e leggi costituzionali; normativa europea; normativa nazionale primaria; orientamenti e pareri ESMA; orientamenti CONSOB.
 
@@ -6661,7 +6658,7 @@
 **R:** **Ritardo nei pagamenti** e **insolvenza totale o parziale** (slide 20). Il docente le glossa ([00:06:59]): «vengo pagato ma vengo pagato **in ritardo**», oppure «**non vengo pagato** o vengo pagato **solo parzialmente** rispetto a quanto promesso». ⚠️ **Due fattispecie, e la seconda ha due gradi**: far cadere la parola «parziale» è la scorciatoia più comune.
 **Opzione:** Ritardo nei pagamenti e insolvenza totale o parziale.
 **Distrattori:**
-- Ritardo nei pagamenti e insolvenza totale.
+- Ritardo nei pagamenti e insolvenza soltanto totale, non parziale.
 - Ritardo nei pagamenti, insolvenza totale o parziale e riduzione del rating dell'emittente.
 - Insolvenza totale o parziale e svalutazione della valuta di denominazione.
 
@@ -6671,7 +6668,7 @@
 **Distrattori:**
 - Ridurre l'asimmetria informativa fra debitore e creditore, mediante l'imposizione di sanzioni penali per chi non ripaga il credito.
 - Ridurre l'asimmetria informativa fra debitore e creditore, vietando l'accesso ai mercati degli operatori esteri.
-- Ridurre il rischio di liquidità del creditore, mediante agenzie di rating, intermediari finanziari e normativa sulla trasparenza.
+- Ridurre il rischio di liquidità del creditore, mediante agenzie di rating, intermediari finanziari, informazione finanziaria e normativa sulla trasparenza.
 
 **D:** Che cosa fanno le agenzie di rating, secondo il docente?
 **R:** Una «**valutazione esterna** delle capacità di **ridare i soldi indietro**», che sintetizza **due** probabilità: «la **probabilità di restituzione del capitale**» e «la **probabilità che si abbia qualcosa nel caso di fallimento**» ([00:07:38]). **AAA, AA, A** sono «forme di valutazione di **capacità di pagamento**».
@@ -6686,7 +6683,7 @@
 **Opzione:** Depositi, prestiti bancari, mutui, leasing e factoring.
 **Distrattori:**
 - Depositi, prestiti bancari, mutui, obbligazioni e buoni del Tesoro.
-- Depositi, prestiti bancari, mutui, leasing e cartolarizzazioni.
+- Depositi, obbligazioni, mutui, leasing e factoring.
 - Certificati negoziabili, prestiti bancari, mutui, leasing e factoring.
 
 **D:** Come le slide definiscono il contratto di deposito bancario?
@@ -6710,7 +6707,7 @@
 **Opzione:** Certificati negoziabili, buoni del Tesoro, obbligazioni.
 **Distrattori:**
 - Certificati negoziabili, buoni del Tesoro, mutui.
-- Certificati di deposito, buoni del Tesoro, obbligazioni.
+- Prestiti bancari, buoni del Tesoro, obbligazioni.
 - Certificati negoziabili, depositi a vista, obbligazioni.
 
 **D:** ⚠️ Qual è la caratteristica distintiva dei valori mobiliari rispetto a un'attività di credito, e che effetto produce?
@@ -6733,8 +6730,8 @@
 **R:** «Il mercato obbligazionario globale è **enorme, oltre 110 miliardi di dollari**, e **ogni paese ha sue regole per la trattazione**» (slide 30). ⚠️ **La slide contiene un errore di unità**: il grafico affiancato (*Global bond market*) è espresso in ***USD trillions*** e arriva appunto a 110, quindi la cifra vera è **110 mila miliardi** di dollari. Il transcript ripete l'errore ([00:11:01]). Poiché le opzioni d'esame sono citazioni **letterali** delle slide, all'esame la formula da riconoscere resta «oltre **110 miliardi di dollari**».
 **Opzione:** Oltre 110 miliardi di dollari, e ogni paese ha sue regole per la trattazione.
 **Distrattori:**
-- Oltre 110 miliardi di euro, e ogni paese ha sue regole per la trattazione.
-- Oltre 15 mila miliardi di dollari, e ogni paese ha sue regole per la trattazione.
+- Meno di 110 miliardi di dollari, e ogni paese ha sue regole per la trattazione.
+- Meno di 110 miliardi di dollari, ed è regolato in modo uniforme dagli accordi internazionali.
 - Oltre 110 miliardi di dollari, ed è regolato in modo uniforme dagli accordi internazionali.
 
 **D:** Come è ripartito il mercato obbligazionario globale?
