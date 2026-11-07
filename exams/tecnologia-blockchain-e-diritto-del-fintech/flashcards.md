@@ -1349,7 +1349,7 @@
 - Migliora il monitoraggio della compliance dei dispositivi medici con i requisiti di sicurezza dei pazienti, con notifica automatica di ogni criticità.
 
 **D:** ⚠️ Quali nuove legislazioni sui mercati finanziari digitali prevede il Pacchetto per la finanza digitale?
-**R:** Due **proposte di regolamento**: quella «sullo **scambio di cripto-attività (MiCA)**» e quella «sulla **resilienza operativa digitale per il settore finanziario (DORA)**».
+**R:** Due **proposte di regolamento**: quella «sullo **scambio di cripto-attività (MiCA)**» e quella «sulla **resilienza operativa digitale per il settore finanziario (DORA)**». ⚠️ Il deck 27 (slide 2) ne conta **tre**: MiCA, DORA e la proposta sulla **tecnologia di registro distribuito (DLT)**.
 **Opzione:** La proposta di regolamento sullo scambio di cripto-attività (MiCA) e quella sulla resilienza operativa digitale per il settore finanziario (DORA).
 **Distrattori:**
 - La proposta di regolamento sullo scambio di cripto-attività (MiCA) e la revisione della direttiva MiFID II/MiFIR.
@@ -3356,7 +3356,7 @@
 - Dall'esistenza di un vuoto normativo e dalla difficoltà di inquadrare l'attività come trasporto di persone, per cui servirebbe la licenza, o come servizio fornito tramite piattaforma digitale.
 
 **D:** Su quale base operano le piattaforme di marketplace lending?
-**R:** «Sulla base di **algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito**.» ⚠️ Le informazioni sono **fornite dal prenditore**, non raccolte presso terzi.
+**R:** «Sulla base di **algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito**.» ⚠️ La slide 8 parla delle informazioni **fornite dal prenditore**; il deck 15 (slide 13) aggiunge che le piattaforme di social lending verificano il merito anche «interrogando le centrali rischi private».
 **Opzione:** Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito.
 **Distrattori:**
 - Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di garantirne il rimborso.
@@ -3521,7 +3521,7 @@
 - Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat aventi corso legale, di una o più materie prime, di una o più crypto-attività, o di una combinazione di tali attività.
 
 **D:** ⚠️ Quali tipi di crowdfunding elenca la slide, e in quale ordine?
-**R:** **Sette**, più i modelli ibridi: **①** crowdfunding di **debito** (peer-to-peer lending); **②** **equity** crowdfunding; **③** crowdfunding basato sulle **ricompense**; **④** crowdfunding basato sulle **donazioni**; **⑤** **partecipazione agli utili / partecipazione ai ricavi**; **⑥** crowdfunding di **titoli di debito**; **⑦** **modelli ibridi**, che offrono «la possibilità di **combinare elementi di più di un tipo di crowdfunding**». ⚠️ Il docente ne elenca **sei**: salta il crowdfunding di **titoli di debito** e passa dalla partecipazione agli utili ai modelli ibridi. All'esame vale l'elenco della slide.
+**R:** **Sette** voci, modelli ibridi compresi: **①** crowdfunding di **debito** (peer-to-peer lending); **②** **equity** crowdfunding; **③** crowdfunding basato sulle **ricompense**; **④** crowdfunding basato sulle **donazioni**; **⑤** **partecipazione agli utili / partecipazione ai ricavi**; **⑥** crowdfunding di **titoli di debito**; **⑦** **modelli ibridi**, che offrono «la possibilità di **combinare elementi di più di un tipo di crowdfunding**». ⚠️ Il docente ne elenca **sei**: salta il crowdfunding di **titoli di debito** e passa dalla partecipazione agli utili ai modelli ibridi. All'esame vale l'elenco della slide.
 **Opzione:** Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di debito, modelli ibridi.
 **Distrattori:**
 - Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di Stato, modelli ibridi.
@@ -4058,7 +4058,7 @@
 - Rispettare i parametri forniti dagli investitori; intraprendere tutte le azioni necessarie per ottenere il miglior risultato possibile; comunicare agli investitori il processo decisionale per l'esecuzione del mandato.
 
 **D:** ⚠️ A che cosa è funzionale la presenza dei rating sulle piattaforme?
-**R:** «A **dare l'idea all'utente che vi è un certo standard di qualità garantito** per il servizio e ad **influire positivamente sulle scelte dei consumatori**. Infatti, in presenza di **valutazioni negative**, la piattaforma procede all'**esclusione del soggetto** che le ha ricevute.» ⚠️ La formula è «dare l'**idea**» che vi sia uno standard: la slide non afferma che lo standard vi **sia**.
+**R:** «A **dare l'idea all'utente che vi è un certo standard di qualità garantito** per il servizio e ad **influire positivamente sulle scelte dei consumatori**. Infatti, in presenza di **valutazioni negative**, la piattaforma procede all'**esclusione del soggetto** che le ha ricevute.» ⚠️ La formula è «dare l'**idea**» che vi sia uno standard. La slide 10 parla poi di un bilanciamento con la «**garanzia di un determinato standard di qualità**», ma subito dopo ne segnala i **grossi limiti di attendibilità**.
 **Opzione:** A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a influire positivamente sulle scelte dei consumatori.
 **Distrattori:**
 - A garantire all'utente che vi sia un certo standard di qualità del servizio e a influire positivamente sulle scelte dei consumatori.
@@ -4487,7 +4487,7 @@
 - Una rappresentazione crittografica di valore con la specifica caratteristica di essere divisibile ed infungibile.
 
 **D:** ⚠️ Che cosa permettono di acquistare gli NFT, secondo la slide?
-**R:** «**Non permettono l'acquisto di un bene ma di una frazione di un diritto sul bene stesso ed è creata per mezzo della Blockchain. (es. non un'opera d'arte ma una sua parte)**». ⚠️ L'oggetto dell'acquisto è «**una frazione di un *diritto* sul bene**»: non il bene, e nemmeno una frazione *del bene*. La distinzione è di **due gradi**, ed entrambi sono materiale da distrattore.
+**R:** «**Non permettono l'acquisto di un bene ma di una frazione di un diritto sul bene stesso ed è creata per mezzo della Blockchain. (es. non un'opera d'arte ma una sua parte)**». ⚠️ L'oggetto dell'acquisto è «**una frazione di un *diritto* sul bene**», non il bene; l'esempio della slide parla però di «**una sua parte**», quindi una frazione del bene non è smentita dalla slide.
 **Opzione:** Non un bene, ma una frazione di un diritto sul bene stesso.
 **Distrattori:**
 - Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma.
@@ -4626,7 +4626,7 @@
 - È un finanziamento online tra privati, fra chi cerca denaro e investitori quali cittadini, imprese e istituzioni; la piattaforma è il tramite che mette in contatto le due realtà.
 
 **D:** ⚠️ Che cos'è un asset-referenced token secondo il MiCAR?
-**R:** «**Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat che hanno corso legale, una o più materie prime o uno o più crypto-attività, o una combinazione di tali attività**». ⚠️ Il riferimento è a un **paniere**: «*diverse* valute fiat», «*una o più* materie prime», «*uno o più* crypto-attività», «*una combinazione*». È questo — **quante** e **quali** grandezze di riferimento — l'asse che lo separa dal **token di denaro elettronico**, che guarda a **una sola** valuta fiat.
+**R:** «**Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat che hanno corso legale, una o più materie prime o uno o più crypto-attività, o una combinazione di tali attività**». ⚠️ Il riferimento può essere plurale o singolo: «*diverse* valute fiat», «*una o più* materie prime», «*uno o più* crypto-attività», «*una combinazione*». È questo — **quante** e **quali** grandezze di riferimento — l'asse che lo separa dal **token di denaro elettronico**, che guarda a **una sola** valuta fiat.
 **Opzione:** Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di diverse valute fiat aventi corso legale, di una o più materie prime, di una o più crypto-attività, o di una combinazione di tali attività.
 **Distrattori:**
 - Un tipo di crypto-attività che pretende di mantenere un valore stabile facendo riferimento al valore di una sola valuta fiat avente corso legale.
@@ -6768,7 +6768,7 @@
 - Le cripto-attività sono create automaticamente tramite mining a titolo di ricompensa per il mantenimento della DLT per la convalida delle operazioni.
 
 **D:** Che cos'è un «token collegato ad attività» secondo l'articolo 3 del MiCAR?
-**R:** «**Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.**» ⚠️ Il riferimento è un **paniere**: **diverse** monete fiduciarie, **una o più** merci, **una o più** cripto-attività, **oppure una combinazione**. ⚠️ Il verbo è «**intende** mantenere», non «garantisce».
+**R:** «**Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.**» ⚠️ Il riferimento può essere plurale o singolo: **diverse** monete fiduciarie, **una o più** merci, **una o più** cripto-attività, **oppure una combinazione**. ⚠️ Il verbo è «**intende** mantenere», non «garantisce».
 **Opzione:** Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.
 **Distrattori:**
 - Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di una moneta fiduciaria avente corso legale.
@@ -6783,7 +6783,7 @@
 - I payment token alle valute estere, gli utility token ai crediti, i security token alle attività finanziarie.
 
 **D:** ⚠️ Qual è l'asse che distingue il token collegato ad attività dal token di moneta elettronica?
-**R:** **Quante grandezze di riferimento**, più uno scopo. Il **token collegato ad attività** guarda a un **paniere** («diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività»); il **token di moneta elettronica** guarda a **una sola** moneta fiduciaria avente corso legale **e** ha per «**scopo principale**» quello di essere «**mezzo di scambio**». ⚠️ Il riferimento alla **stabilità del valore** è **comune** ai due e **non discrimina** — cambia solo il verbo: «**intende**» il primo, «**mira a**» il secondo.
+**R:** **Quali grandezze di riferimento**, più uno scopo. Il **token collegato ad attività** guarda a «diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività», quindi anche a una sola merce o cripto-attività); il **token di moneta elettronica** guarda a **una sola** moneta fiduciaria avente corso legale **e** ha per «**scopo principale**» quello di essere «**mezzo di scambio**». ⚠️ Il riferimento alla **stabilità del valore** è **comune** ai due e **non discrimina** — cambia solo il verbo: «**intende**» il primo, «**mira a**» il secondo.
 **Opzione:** Le grandezze di riferimento: diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività per il token collegato ad attività; una moneta fiduciaria avente corso legale per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
 **Distrattori:**
 - La stabilità del valore: solo il token di moneta elettronica intende mantenere un valore stabile, mentre il token collegato ad attività ha valore variabile.
@@ -7745,7 +7745,7 @@
 - Contatti informali (fase 0), ammissione alla sperimentazione (I), applicazione (II), sperimentazione (III), valutazione (IV).
 
 **D:** ⚠️ A che serve la Fase 0 dei contatti informali?
-**R:** «**Fornisce un supporto per l'identificazione dell'Autorità o delle Autorità a cui presentare la domanda di partecipazione.**» La stessa casella aggiunge che il contatto è previsto anche «**per gli operatori FinTech che intendono svolgere attività con influenza nei settori bancario, finanziario e assicurativo, pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione**». ⚠️ **Non serve a valutare il progetto**: serve a capire **a chi** presentare la domanda. ⚠️ Vale **anche** per chi non è soggetto ad autorizzazione.
+**R:** «**Fornisce un supporto per l'identificazione dell'Autorità o delle Autorità a cui presentare la domanda di partecipazione.**» La stessa casella aggiunge che il contatto è previsto anche «**per gli operatori FinTech che intendono svolgere attività con influenza nei settori bancario, finanziario e assicurativo, pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione**». ⚠️ Serve, «tra le altre cose» (slide 9), a capire **a chi** presentare la domanda: le slide non escludono altri tipi di supporto. ⚠️ Vale **anche** per chi non è soggetto ad autorizzazione.
 **Opzione:** A fornire supporto nell'identificazione dell'autorità o delle autorità a cui presentare la domanda di partecipazione.
 **Distrattori:**
 - Nel rischio che gli investitori seguano il gruppo perché l'ammissione alla sandbox è percepita come un marchio di qualità dell'attività proposta.
@@ -7989,7 +7989,7 @@
 - La possibilità, per gli operatori che intendano accedere alla sperimentazione, di avviare interlocuzioni informali con Banca d'Italia, CONSOB e IVASS, anche per individuare l'autorità cui sottoporre la richiesta di ammissione.
 
 **D:** ⚠️ Quale potere sulla forma giuridica del richiedente hanno le autorità?
-**R:** Possono imporre l'«**adozione di una forma giuridica per il richiedente diversa da quella richiesta dalla legge applicabile**». ⚠️ È la **voce di chiusura** dell'elenco dei provvedimenti ad hoc e la più forte: la deroga non riguarda solo gli obblighi di comportamento, ma **la veste giuridica** dell'impresa. ⚠️ Anche qui la deroga è **in melius per la sperimentazione, non in libertà**: fa parte di un «**ambito operativo più rigoroso**».
+**R:** Autorizzazioni o registrazioni che «**consentano**» (slide 11) l'«**adozione di una forma giuridica per il richiedente diversa da quella richiesta dalla legge applicabile**». ⚠️ È la **voce di chiusura** dell'elenco dei provvedimenti ad hoc e la più forte: la deroga non riguarda solo gli obblighi di comportamento, ma **la veste giuridica** dell'impresa. ⚠️ Anche qui la deroga è **in melius per la sperimentazione, non in libertà**: fa parte di un «**ambito operativo più rigoroso**».
 **Opzione:** Possono consentire l'adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile.
 **Distrattori:**
 - Possono consentire l'adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile, purché si tratti di una società di capitali.

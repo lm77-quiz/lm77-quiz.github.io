@@ -296,7 +296,7 @@
 - Perché in un'azienda diversificata il successo di un prodotto sottrae sempre quote di mercato agli altri prodotti dello stesso brand.
 
 **D:** ⚠️ Perché, secondo il docente, il valore del brand Coca-Cola è un punto di forza verso gli investitori?
-**R:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio lo combina con un investimento più rischioso.
+**R:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio può combinarlo con un investimento più rischioso (il docente: «potrebbe combinare»).
 **Opzione:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio può combinarlo con un investimento più rischioso.
 **Distrattori:**
 - Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio può combinarlo con un investimento più sicuro.
@@ -2950,7 +2950,7 @@
 ## Lezione 12 — Sviluppo interno e alleanze
 
 **D:** ⚠️ Che cosa cambia nelle slide dello sviluppo interno e delle alleanze della lezione 12 rispetto a quelle della lezione 10?
-**R:** Quasi nulla: sono le stesse slide. L'ultimo svantaggio dello sviluppo interno diventa «**Lentezza**» invece di «Lentezza nel cambiamento», e fra «Il controllo dell'alleanza» e «Cannibalismo» sparisce la «**&**». Restano quattro vantaggi e tre svantaggi per lo sviluppo interno, tre e tre per le alleanze.
+**R:** Poco: il titolo diventa «Sviluppo Interno» (slide 2, contro «Lo sviluppo interno» della slide 6 del deck 10); l'ultimo svantaggio dello sviluppo interno diventa «**Lentezza**» invece di «Lentezza nel cambiamento», e fra «Il controllo dell'alleanza» e «Cannibalismo» la «**&**» è sostituita da una **freccia** (slide 7). Restano quattro vantaggi e tre svantaggi per lo sviluppo interno, tre e tre per le alleanze.
 **Opzione:** «Lentezza» al posto di «Lentezza nel cambiamento» e una freccia al posto della «&» fra controllo dell'alleanza e cannibalismo.
 **Distrattori:**
 - «Lentezza nel cambiamento» al posto di «Lentezza» e una freccia al posto della «&» fra controllo dell'alleanza e cannibalismo.
@@ -3383,7 +3383,7 @@
 - Riceve dagli azionisti informazioni parziali e incomplete sul business.
 
 **D:** ⚠️ Che cos'è lo short termism, secondo la lezione 13?
-**R:** Per la slide, «un'**esasperata concentrazione sulla performance a breve**, che **ostacola progetti di ampio respiro**». Per il docente gli obiettivi del manager non superano il biennio o il triennio, e il manager punta al **bonus di fine anno**: se è capace, gli obiettivi di breve sono tappe di un obiettivo di lungo termine; spesso servono solo ai suoi obiettivi personali.
+**R:** Per la slide è «**derivante da** un'**esasperata concentrazione sulla performance a breve**, che **ostacola progetti di ampio respiro**». Per il docente gli obiettivi del manager non superano il biennio o il triennio, e il manager punta al **bonus di fine anno**: se è capace, gli obiettivi di breve sono tappe di un obiettivo di lungo termine; spesso servono solo ai suoi obiettivi personali.
 **Opzione:** Un'esasperata concentrazione sulla performance a breve, che ostacola progetti di ampio respiro.
 **Distrattori:**
 - Un'esasperata concentrazione sui progetti di ampio respiro, che ostacola la performance a breve.
@@ -3498,7 +3498,7 @@
 - Non ha alcun ruolo, perché le azioni non sono quotate.
 
 **D:** ⚠️ Che rapporto hanno le banche tedesche con i grandi gruppi industriali, secondo la lezione 14?
-**R:** Operano in **stretta correlazione** con loro: il grande gruppo è spesso uno dei principali clienti della grande banca, che se fallisse avrebbe difficoltà e quindi fatica a dire di no (**Deutsche Bank** ha rischiato di essere acquisita, «se non fosse stata protetta dal sistema finanziario tedesco»). In cambio i crediti verso gruppi solidi sono sicuri.
+**R:** Operano in **stretta correlazione** con loro: il grande gruppo «a volte» è uno dei principali clienti della grande banca, che se fallisse avrebbe difficoltà e quindi fatica a dire di no (**Deutsche Bank** ha rischiato di essere acquisita, «se non fosse stata protetta dal sistema finanziario tedesco»). In cambio i crediti verso gruppi solidi sono sicuri.
 **Opzione:** Operano in stretta correlazione con i grandi gruppi, che a volte sono fra i loro principali clienti: per questo faticano a dire di no.
 **Distrattori:**
 - Sono separate per legge dai gruppi industriali e restano fuori dagli organi di controllo.
