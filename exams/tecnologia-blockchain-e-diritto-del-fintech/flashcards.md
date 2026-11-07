@@ -1803,7 +1803,7 @@
 **R:** «Il ***main goal*** del **Legislatore eurounitario** è quello di **tracciare con ampio grado di certezza i flussi finanziari** nell'ottica dell'azione di contrasto al **riciclaggio di denaro di illecita provenienza** e di **finanziamento del terrorismo**». ⚠️ Gli oggetti del contrasto sono **due**: il transcript si ferma al primo.
 **Opzione:** Tracciare con ampio grado di certezza i flussi finanziari, per contrastare il riciclaggio di denaro di illecita provenienza e il finanziamento del terrorismo.
 **Distrattori:**
-- Tracciare con ampio grado di certezza i flussi finanziari, per contrastare il riciclaggio di denaro di illecita provenienza.
+- Tracciare con ampio grado di certezza i flussi finanziari, per contrastare il solo riciclaggio di denaro di illecita provenienza.
 - Ricostruire le principali caratteristiche dei tools utilizzati; fornire una valutazione preliminare dei benefici e dei rischi; illustrare le prospettive di sviluppo del segmento di mercato.
 - Permette di superare il tradizionale dualismo tra pubblico e privato, facendo coincidere i bisogni privati e pubblici.
 
@@ -1833,9 +1833,9 @@
 
 **D:** ⚠️ Quali soggetti entrano fra gli obbligati con il decreto antiriciclaggio?
 **R:** «**Mediatori creditizi**, **agenti in attività finanziaria** e **cambio valute iscritti in apposito registro tenuto dall'OAM *ex* art. 128-*undecies* TUB**, oltre ai **prestatori di servizi di gioco**, **succursali dei predetti soggetti** e quelle di **intermediari bancari e finanziari** e di **imprese assicurative con sede legale in altro SM**.» ⚠️ Il transcript tronca l'elenco con «e via dicendo»: la coda va imparata dalla slide.
-**Opzione:** Mediatori creditizi, agenti in attività finanziaria, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti e di intermediari bancari e finanziari, e imprese assicurative con sede legale in altro Stato membro.
+**Opzione:** Mediatori creditizi, agenti in attività finanziaria, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti soggetti e quelle di intermediari bancari e finanziari e di imprese assicurative con sede legale in altro Stato membro.
 **Distrattori:**
-- Mediatori creditizi, promotori finanziari, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti e di intermediari bancari e finanziari, e imprese assicurative con sede legale in altro Stato membro.
+- Mediatori creditizi, promotori finanziari, cambiavalute iscritti nel registro OAM, prestatori di servizi di gioco, succursali dei predetti soggetti e quelle di intermediari bancari e finanziari e di imprese assicurative con sede legale in altro Stato membro.
 - Intermediari bancari, SIM, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 58/1998 (TUF).
 - Generazione I, stand alone Robo-advisors; Generazione II, integrated Robo-advisors; Generazione III, cognitive Robo-advisors.
 
@@ -1957,7 +1957,7 @@
 **Distrattori:**
 - Attraverso sistemi di registrazione o identificazione audio e video a distanza, per qualunque cliente, persona fisica o giuridica.
 - Attraverso la sola trasmissione telematica di un documento d'identità in corso di validità.
-- Attraverso l'attestazione di un provider esterno che abbia già identificato il cliente.
+- Con ordini del tipo immediate-or-cancel, che servono a sondare le condizioni di mercato.
 
 **D:** ⚠️ Quale tema apre il docente a proposito dell'identificazione a distanza, e come lo rende il transcript?
 **R:** Il tema dell'**identità digitale certificata** e in particolare dello **SPID**: «come faccio a essere sicuro di certificare che la persona che ho di fronte a me allo schermo sia **realmente quella che dice di essere**? […] Ecco allora tutte le tematiche **SPID**, le tematiche di **identità certificata, identità digitale**, e tutte quelle tematiche che sono **ancora in discussione**, cioè sulla **validità di questi strumenti**, la loro **sostituibilità rispetto alla presenza fisica**». ⚠️ Nel transcript l'ASR scrive «**speed**»: non è una parola inglese, è l'acronimo del **Sistema Pubblico di Identità Digitale**.
@@ -2013,7 +2013,7 @@
 **Distrattori:**
 - Le esamina e, se le ritiene fondate, le trasmette alla UIF complete del nominativo del segnalante.
 - Le trasmette tutte alla UIF, prive del nominativo del segnalante, senza alcuna valutazione di fondatezza.
-- Le esamina e, se le ritiene fondate, le trasmette alla Banca d'Italia prive del nominativo del segnalante.
+- Le esamina e, se le ritiene fondate, le trasmette alla guardia di finanza prive del nominativo del segnalante.
 
 **D:** ⚠️ Quando è obbligatoria la nomina del punto di contatto centrale?
 **R:** Quando «(i) il **numero di sedi presenti nel territorio dello SM ospitante è superiore a 10**»; oppure «(ii) la **stima dell'importo di MEL distribuita e rimborsata** o il **valore cumulato delle operazioni di pagamento eseguite** sarà **superiore a euro 3 milioni nel corso dell'esercizio finanziario**». ⚠️ Le due soglie sono **alternative** e di natura diversa: un **numero di sedi** e un **importo**. Il conteggio delle sedi è nello **Stato membro ospitante**.
@@ -7974,7 +7974,7 @@
 **R:** «**Meccanismi di compensazione in caso di inadempienza del fornitore (ad esempio, garanzia finanziaria o assicurativa).**» ⚠️ **Gli esempi sono due** — «**garanzia finanziaria o assicurativa**» — e stanno **solo sulla slide**: il transcript nomina i meccanismi senza esemplificarli. ⚠️ Il presupposto è l'**inadempienza del fornitore**, non il semplice esito negativo della sperimentazione.
 **Opzione:** Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio una garanzia finanziaria o assicurativa.
 **Distrattori:**
-- Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio l'adesione a un sistema di garanzia dei depositi.
+- Meccanismi di compensazione in caso di inadempienza dell'utente finale, per esempio una garanzia finanziaria o assicurativa.
 - Meccanismi di compensazione in caso di esito negativo della sperimentazione, per esempio una garanzia finanziaria o assicurativa.
 - Meccanismi di compensazione in caso di inadempienza del fornitore, la cui forma è determinata in via esclusiva dall'autorità.
 
@@ -8003,7 +8003,7 @@
 **Distrattori:**
 - Proporzionalità, parità di trattamento e neutralità tecnologica.
 - Proporzionalità, sana e prudente gestione e non discriminazione.
-- Proporzionalità e parità di trattamento.
+- Sussidiarietà, parità di trattamento e non discriminazione.
 
 **D:** ⚠️ Di quali elementi tiene conto la valutazione della domanda?
 **R:** **Sei**: «**volume dell'attività proposta; tipo di servizi da fornire; caratteristiche e numero di utenti finali previsti; modalità di fornitura del servizio; durata del progetto; eventuali deroghe**». ⚠️ Gli utenti finali sono qui «**previsti**», mentre nei **provvedimenti ad hoc** diventano «**protetti**»: una parola separa due elenchi quasi identici. ⚠️ Il transcript aggiunge una glossa che sulla slide non c'è: «il volume dell'attività proposta, **l'impatto cioè**».
@@ -8146,7 +8146,7 @@
 **Opzione:** La relazione congiunta dell'ESA del gennaio 2019.
 **Distrattori:**
 - La relazione congiunta dell'ESA del gennaio 2021.
-- La relazione congiunta dell'EBA e dell'ESMA del gennaio 2019.
+- La relazione congiunta della BCE e della Commissione europea del gennaio 2019.
 - La relazione annuale del Comitato FinTech del gennaio 2019.
 
 **D:** ⚠️ Quali criticità della Sandbox riguardano il mercato e gli investitori?
