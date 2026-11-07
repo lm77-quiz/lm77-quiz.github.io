@@ -5018,17 +5018,17 @@
 
 **D:** ⚠️ Che cosa chiarisce l'EBA nella nota del dicembre 2013 sul funzionamento delle criptovalute?
 **R:** Nella nota su «**Avvertenze per i consumatori sulle monete virtuali**» chiarisce che le criptovalute «**sono tradizionalmente acquistate con moneta tradizionale su una piattaforma di scambio, per poi confluire in un portafoglio elettronico, mediante il quale i consumatori possono inviarlo a chiunque altro desideri accettarlo, nonché riconvertirlo in moneta tradizionale a corso forzoso**». ⚠️ **«A corso forzoso» è la parola da tenere**: il docente dice «a corso **legale**», ma sulla slide è scritto **forzoso** — e le opzioni d'esame sono citazioni letterali delle slide. ⚠️ L'invio è **condizionato**: «a chiunque altro **desideri accettarlo**».
-**Opzione:** Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso forzoso.
+**Opzione:** Che sono tradizionalmente acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso forzoso.
 **Distrattori:**
-- Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso legale.
+- Che sono tradizionalmente acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso legale.
 - Che permane un'incertezza legale sul regime giuridico applicabile alle cryptovalute.
 - Non può essere condivisa l'assimilazione delle cryptovalute a beni in natura.
 
 **D:** ⚠️ Come definisce le valute virtuali l'EBA nell'Opinion on virtual currencies?
 **R:** Come «**una rappresentazione digitale di denaro – non emesso da una banca centrale nè necessariamente collegato ad una valuta tradizionale – che viene adoperato da persone fisiche o giuridiche come forma convenzionale di scambio e che può essere trasferito, depositato o commercializzato elettronicamente**». ⚠️ L'inciso contiene **due negazioni coordinate**: non emesso da una banca centrale **né** necessariamente collegato a una valuta tradizionale. ⚠️ Il docente **la legge male alla prima lettura** («come forma convenzionale di scambio **se collegate** a una valuta tradizionale») e **si corregge** subito dopo: vale la slide. ⚠️ **La slide non riporta l'anno**; il docente azzarda «2014 se non vado errato».
-**Opzione:** Una rappresentazione digitale di denaro, non emesso da una banca centrale né necessariamente collegato a una valuta tradizionale, adoperato come forma convenzionale di scambio e trasferibile, depositabile o commercializzabile elettronicamente.
+**Opzione:** Una rappresentazione digitale di denaro, non emesso da una banca centrale né necessariamente collegato a una valuta tradizionale, adoperato da persone fisiche o giuridiche come forma convenzionale di scambio e trasferibile, depositabile o commercializzabile elettronicamente.
 **Distrattori:**
-- Una rappresentazione digitale di denaro, non emesso da una banca centrale ma necessariamente collegato a una valuta tradizionale, adoperato come forma convenzionale di scambio.
+- Una rappresentazione digitale di denaro, non emesso da una banca centrale ma necessariamente collegato a una valuta tradizionale, adoperato da persone fisiche o giuridiche come forma convenzionale di scambio e trasferibile, depositabile o commercializzabile elettronicamente.
 - Il tentativo di fornire una moneta stabile nell'ambito delle criptovalute.
 - Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology.
 
@@ -5042,10 +5042,10 @@
 
 **D:** ⚠️ Quali caratteristiche attribuisce alle cryptovalute l'Avvertenza della Banca d'Italia?
 **R:** **Sei**: «**sono create da soggetti privati che operano sul web**»; «**non devono essere confuse con i tradizionali strumenti di pagamento elettronici**»; «**Non rappresentano le comuni valute a corso legale**»; «**Non hanno corso legale e non devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie**»; «**Non sono garantite o regolamentate**»; «**Hanno un elevata** \[*sic*] **volatilità**». ⚠️ **Cinque su sei sono negative**. ⚠️ La quarta ne contiene **due** e la quinta è **doppia** («garantite *o* regolamentate»). Il docente: lo spirito si legge già nel titolo, «si chiama **avvertenze**».
-**Opzione:** Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; non hanno corso legale e non devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie; non sono garantite o regolamentate; hanno elevata volatilità.
+**Opzione:** Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; non hanno corso legale e non devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie; non sono garantite o regolamentate; hanno elevata volatilità
 **Distrattori:**
-- Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie; non sono garantite o regolamentate; hanno elevata volatilità.
-- Valute digitali o crypto-currencies, una sottocategoria di valuta digitale, differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni.
+- Sono create da soggetti privati che operano sul web; non vanno confuse con i tradizionali strumenti di pagamento elettronici; non rappresentano le comuni valute a corso legale; devono per legge essere obbligatoriamente accettate per l'estinzione delle obbligazioni pecuniarie; non sono garantite o regolamentate; hanno elevata volatilità
+- Valute digitali o crypto-currencies, una sottocategoria di valuta digitale, differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni
 - Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token da attribuire ai finanziatori a fronte del versamento di un corrispettivo
 
 **D:** ⚠️ Quali tre tipi di valute virtuali distingue l'Avvertenza della Banca d'Italia?
@@ -5066,10 +5066,10 @@
 
 **D:** ⚠️ Che cosa era e che cosa non era in discussione davanti al Tribunale di Brescia?
 **R:** «**Non è in discussion** \[*sic*] **l'idoneità della categoria di beni rappresentata dale** \[*sic*] **cryptovalute a costituire element** \[*sic*] **di attivo idoneo al conferimento nel capitale di una S.r.l., bensì se il bene concretamente e specificamente conferito, soddisfi il requisito di cui all'art. 2464, c.2 codice civile**». ⚠️ **Struttura «non… bensì…»**, ed è il cuore della slide: in discussione **non** è l'idoneità **della categoria**, **bensì** quella di **quel** bene, «concretamente e specificamente conferito». Capovolgere i due termini è il distrattore da *segno invertito*. ⚠️ La società è una **S.r.l.** e l'articolo è il **2464, c.2**.
-**Opzione:** Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 2464, c.2 codice civile.
+**Opzione:** Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute a costituire elemento di attivo idoneo al conferimento nel capitale di una S.r.l., bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 2464, c.2 codice civile.
 **Distrattori:**
 - Non l'idoneità del bene concretamente e specificamente conferito, bensì quella della categoria dei beni rappresentata dalle cryptovalute a costituire elemento di attivo.
-- Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 810 codice civile.
+- Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute a costituire elemento di attivo idoneo al conferimento nel capitale di una S.r.l., bensì se il bene concretamente e specificamente conferito soddisfi il requisito dell'art. 810 codice civile.
 - Non l'idoneità della categoria dei beni rappresentata dalle cryptovalute, bensì se il conferimento fosse stato validamente deliberato dall'assemblea della S.r.l.
 
 **D:** ⚠️ Perché l'assimilazione della cryptovaluta ai beni dell'art. 810 c.c. «sembra discutibile»?
@@ -5125,7 +5125,7 @@
 **Opzione:** Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
 **Distrattori:**
 - Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché il suo valore va determinato con la stessa procedura riservata ai beni, ai servizi e alle altre utilità.
-- Opera come riserva di valore e unità di conto; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
+- Opera come marcatore in termini di valore d'uso di beni, servizi o altre utilità; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
 - Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché il suo valore va determinato dagli amministratori sulla base dell'ultima quotazione disponibile.
 
 **D:** ⚠️ A quali articoli del codice civile rinvia la Corte d'Appello di Brescia?
@@ -5162,9 +5162,9 @@
 
 **D:** ⚠️ Come definisce la slide le ICO come modalità di finanziamento?
 **R:** «**Una modalità di finanziamento, utilizzata da startup o da soggetti che intendono realizzare un determinato progetto, resa possibile tramite la tecnologia, in quanto per reperire dei finanziamenti o del capitale di rischio, si propone al pubblico un progetto da finanziarsi mediante l'utilizzo della Blockchain, con cui creare dei tokens da attribuire, a fronte del versamento di un determinato corrispettivo, ai soggetti finanziatori**». ⚠️ I soggetti sono **due** («startup **o** soggetti che intendono realizzare un determinato progetto») e l'oggetto della raccolta è **doppio** («**finanziamenti** o **capitale di rischio**»). ⚠️ I token si attribuiscono «**a fronte del versamento di un determinato corrispettivo**».
-**Opzione:** Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token da attribuire ai finanziatori a fronte del versamento di un corrispettivo
+**Opzione:** Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che per reperire finanziamenti o capitale di rischio propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token da attribuire ai finanziatori a fronte del versamento di un determinato corrispettivo
 **Distrattori:**
-- Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token attribuiti gratuitamente ai finanziatori
+- Una modalità di finanziamento usata da startup o da chi intende realizzare un progetto, che per reperire finanziamenti o capitale di rischio propone al pubblico un progetto da finanziarsi mediante la Blockchain, creando token da attribuire gratuitamente ai finanziatori, senza il versamento di alcun corrispettivo
 - Una forma di accesso al credito alternativa ai metodi tradizionali, cioè al prestito bancario e ai finanziamenti europei, nazionali o regionali
 - Sia il lending-based sia l'investment-based crowdfunding, perché possono essere strutturati come alternative di finanziamento comparabili
 
@@ -5253,11 +5253,11 @@
 
 **D:** ⚠️ Che cos'è la finanza sostenibile, nella definizione letterale della slide?
 **R:** «**La finanza sostenibile si riferisce generalmente all'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti**». ⚠️ **I criteri nominati sono due, non tre**: la **governance** — pur presente nell'acronimo ESG e nel titolo della lezione — compare **solo** nell'inciso «insieme alla governance» **dentro** la voce *sociale*. Un'opzione che elenca «ambientali, sociali e di governance» come tre criteri paritari sembra ovvia ed è **falsa rispetto alla slide**. ⚠️ Il quantificatore «**generalmente**» attenua la definizione.
-**Opzione:** L'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti.
+**Opzione:** Si riferisce generalmente all'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti.
 **Distrattori:**
-- L'inclusione di criteri ambientali, sociali e di governance nel processo decisionale degli investimenti.
-- L'inclusione di criteri ambientali e sociali nella valutazione del merito creditizio delle imprese.
-- L'esclusione dei settori ad alto impatto ambientale dal processo decisionale degli investimenti.
+- Si riferisce generalmente all'inclusione di criteri ambientali, sociali e di governance nel processo decisionale degli investimenti.
+- Si riferisce generalmente all'inclusione di criteri ambientali e sociali nella valutazione del merito creditizio delle imprese.
+- Si riferisce generalmente all'esclusione dei settori ad alto impatto ambientale dal processo decisionale degli investimenti.
 
 **D:** ⚠️ Di che cosa si occupano i criteri ambientali, secondo la slide?
 **R:** «**Si occupa di diversi fenomeni legati all'ambiente in generale ed ai relativi rischi (come il cambiamento climatico, i disastri naturali o l'esaurimento delle risorse naturali)**». ⚠️ Gli esempi sono **tre** e vanno detti nell'ordine; l'oggetto è **doppio** — i **fenomeni** *e* i **relativi rischi**.
@@ -5295,7 +5295,7 @@
 **R:** «**Negli ultimi anni la domanda da parte di clienti sia istituzionali che retail (e clienti ultra-high net worth), è aumentata insieme alla consapevolezza che i fattori ESG possono portare, con rischi equivalenti, a migliori performance**». ⚠️ Le categorie sono **tre** e la terza — «**clienti ultra-high net worth**» — è la **coda dell'elenco** che il docente **omette**. ⚠️ La promessa di performance è **condizionata**: «**con rischi equivalenti**, a migliori performance» — non un rendimento superiore in assoluto, e non una riduzione del rischio a parità di rendimento.
 **Opzione:** Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
 **Distrattori:**
-- Da clienti istituzionali e retail; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
+- Da clienti istituzionali, professionali e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
 - Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, a parità di performance, a rischi minori.
 - Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG garantiscono in ogni caso migliori performance.
 
@@ -5309,9 +5309,9 @@
 
 **D:** ⚠️ Quali benchmark globali di sostenibilità cita la slide, e a che cosa servono?
 **R:** «**L'adozione di benchmark globali per valutare la sostenibilità di un investimento (ad esempio i PRI - Principles for Responsible Investment, la Recommendation of the Task Force on Climate-related Financial Disclosures) è essenziale per consentire una spinta circolare della sostenibilità, sia sull'"economia reale" che su quella finanziaria**». ⚠️ **I due benchmark stanno solo sulla slide**: il docente parla genericamente di «azioni di benchmark globali». ⚠️ La formula da conservare è «**una spinta circolare della sostenibilità**», che agisce su **due** versanti.
-**Opzione:** I PRI, Principles for Responsible Investment, e la Recommendation della Task Force on Climate-related Financial Disclosures; servono a consentire una spinta circolare della sostenibilità, sia sull'economia reale che su quella finanziaria.
+**Opzione:** I PRI - Principles for Responsible Investment e la Recommendation of the Task Force on Climate-related Financial Disclosures; servono a valutare la sostenibilità di un investimento, e la loro adozione è essenziale per consentire una spinta circolare della sostenibilità, sia sull'economia reale che su quella finanziaria.
 **Distrattori:**
-- I PRI, Principles for Responsible Investment, e la Recommendation della Task Force on Climate-related Financial Disclosures; servono a consentire una spinta circolare della sostenibilità sulla sola economia finanziaria.
+- I PRI - Principles for Responsible Investment e la Recommendation of the Task Force on Climate-related Financial Disclosures; servono a valutare la sostenibilità di un investimento, e la loro adozione è essenziale per consentire una spinta circolare della sostenibilità sulla sola economia finanziaria.
 - Dovrebbero qualificarsi come strumenti finanziari secondo l'allegato I della MiFID II, il che trascinerebbe con sé anche il regolamento sui prospetti e il regolamento sugli abusi di mercato.
 - Il loro valore è in genere collegato a quello di un valore mobiliare sottostante e la principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio.
 
@@ -5327,7 +5327,7 @@
 **R:** **Due**, saldati da un avverbio: «**gestire pratiche di mercato fondate su priorità di tipo economico; *inoltre*** **misurare il profilo di sostenibilità delle imprese interessate**». ⚠️ Il docente dice invece che il Piano ha «scopo dichiarato **unico e principale** di gestire pratiche di mercato fondate su priorità di tipo economico, **ma misurandone** il profilo di sostenibilità», subordinando il secondo al primo: **vale la slide, due scopi coordinati**.
 **Opzione:** Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
 **Distrattori:**
-- Gestire pratiche di mercato fondate su priorità di tipo economico, misurandone il profilo di sostenibilità: si tratta di un unico scopo.
+- Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, certificare il profilo di sostenibilità delle imprese interessate.
 - Gestire pratiche di mercato fondate su priorità di tipo ambientale e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
 - Misurare il profilo di sostenibilità delle imprese interessate e, inoltre, sanzionare le pratiche di greenwashing.
 
@@ -5343,7 +5343,7 @@
 **R:** «**Si riferisce ai casi in cui qualche intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come ambientalmente sostenibile quando invece non lo sia**». ⚠️ Gli oggetti della falsa qualificazione sono **tre**: **prodotto**, **attività**, **politica**. ⚠️ La qualificazione contestata è «**ambientalmente** sostenibile», non genericamente sostenibile; e il verbo è al condizionale.
 **Opzione:** I casi in cui un intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come ambientalmente sostenibile quando invece non lo sia.
 **Distrattori:**
-- I casi in cui un intermediario finanziario potrebbe qualificare un prodotto o un'attività come ambientalmente sostenibile quando invece non lo sia.
+- I casi in cui un intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come socialmente sostenibile quando invece non lo sia.
 - I casi in cui un intermediario finanziario omette di qualificare come ambientalmente sostenibili prodotti che invece lo sono.
 - I casi in cui un'impresa dichiara di rispettare i criteri di governance quando invece non li rispetta.
 
@@ -5373,9 +5373,9 @@
 
 **D:** ⚠️ In che cosa consiste il primo obiettivo dell'approccio europeo?
 **R:** «**Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese ad adottare comportamenti sostenibili (tali da ridurre l'impatto ambientale dei loro processi industriali, includere politiche sulla diversità di genere, consapevolezza del capitale umano e sociale)**». ⚠️ I comportamenti sostenibili elencati sono **tre**: **ridurre l'impatto ambientale dei processi industriali**, **includere politiche sulla diversità di genere**, **consapevolezza del capitale umano e sociale**. ⚠️ L'azione è «**più inclusiva**» e riguarda l'**economia reale**.
-**Opzione:** Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese a ridurre l'impatto ambientale dei processi industriali, a includere politiche sulla diversità di genere e a sviluppare consapevolezza del capitale umano e sociale.
+**Opzione:** Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese ad adottare comportamenti sostenibili, tali da ridurre l'impatto ambientale dei loro processi industriali, includere politiche sulla diversità di genere, consapevolezza del capitale umano e sociale.
 **Distrattori:**
-- Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese a ridurre l'impatto ambientale dei processi industriali, a includere politiche sulla diversità di genere e a pubblicare un bilancio di sostenibilità certificato.
+- Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese ad adottare comportamenti sostenibili, tali da ridurre l'impatto ambientale dei loro processi industriali, includere politiche sulla diversità di genere, pubblicare un bilancio di sostenibilità certificato.
 - Custodire o controllare, per conto di terzi, cripto-asset o i mezzi di accesso a tali cripto-asset, eventualmente sotto forma di chiavi crittografiche private.
 - Non è quella di garantire un futuro profitto economico ma di garantire la disponibilità di certi diritti.
 
@@ -5383,7 +5383,7 @@
 **R:** «**Assicurare una comunicazione chiara agli investitori, incoraggiando apporti di capitale alle imprese sostenibili, sia da parte degli investitori retail che dagli intermediary** \[*sic*] **finanziari, finanziatori (banche), gestori di patrimoni (prestatori di servizi di investimento ed imprese di gestione del risparmio) e compagnie di sottoscrizione assiurativa** \[*sic*]». ⚠️ I soggetti sono **cinque** e **stanno solo sulla slide**: il docente si ferma alla formula generale. ⚠️ I «**gestori di patrimoni**» sono a loro volta glossati come «**prestatori di servizi di investimento ed imprese di gestione del risparmio**».
 **Opzione:** Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 **Distrattori:**
-- Gli investitori retail, gli intermediari finanziari, i finanziatori (banche) e i gestori di patrimoni.
+- Gli investitori retail, gli intermediari finanziari, le società di revisione, i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 - Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le agenzie di rating.
 - I soli investitori istituzionali, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 
@@ -5453,7 +5453,7 @@
 
 **D:** ⚠️ Su quali materie la SFDR stabilisce regole?
 **R:** **Cinque**: «**divulgazione ai clienti e agli investitori finali**»; «**integrazione dei rischi di sostenibilità**»; «**considerazione degli impatti negativi sulla sostenibilità**»; «**obiettivo di investimento sostenibile**»; «**promozione delle caratteristiche ambientali o sociali nel processo decisionale degli investimenti e nei processi di consulenza**». ⚠️ Nell'ultima voce le caratteristiche sono «**ambientali *o* sociali**» (disgiuntivo) e gli ambiti **due**.
-**Opzione:** Divulgazione ai clienti e agli investitori finali; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; promozione delle caratteristiche ambientali o sociali nel processo decisionale e nei processi di consulenza.
+**Opzione:** Divulgazione ai clienti e agli investitori finali; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; promozione delle caratteristiche ambientali o sociali nel processo decisionale degli investimenti e nei processi di consulenza.
 **Distrattori:**
 - Divulgazione ai clienti e agli investitori finali; integrazione dei rischi di sostenibilità; considerazione degli impatti negativi sulla sostenibilità; obiettivo di investimento sostenibile; certificazione delle caratteristiche ambientali o sociali da parte di un revisore indipendente.
 - All'anonimato e agli operatori esteri.
@@ -5469,9 +5469,9 @@
 
 **D:** ⚠️ A quali attività si applica specificamente la SFDR, e in forza di quali atti?
 **R:** A **quattro**: «**la prestazione di servizi di consulenza in materia di investimenti o di gestione di portafoglio ai sensi della direttiva 2014/65/UE ("MiFID II"), compresi quelli forniti da istituti di credito e società di gestione patrimoniale**»; «**la gestione di fondi, secondo la direttiva 2009/65/UE ("UCITS") o la direttiva 2011/61/UE ("AIFMD"), e di EuVECA e EuSEF**»; «**l'offerta o la distribuzione di IBIP (come definito dalla direttiva 2016/97/UE, o "IDD")**»; «**prodotti o schemi pensionistici e PEPP secondo il regolamento (UE) 2019/1238**». ⚠️ **Tutti i numeri stanno solo sulla slide**, e **EuVECA** ed **EuSEF** non sono nominati dal docente. ⚠️ L'avverbio «**attualmente** si applica a» segnala un ambito in evoluzione.
-**Opzione:** Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD, e di EuVECA ed EuSEF; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP.
+**Opzione:** Prestazione di servizi di consulenza in materia di investimenti o di gestione di portafoglio ai sensi della MiFID II, compresi quelli forniti da istituti di credito e società di gestione patrimoniale; gestione di fondi secondo UCITS o AIFMD, e di EuVECA e EuSEF; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP secondo il regolamento (UE) 2019/1238.
 **Distrattori:**
-- Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD, e di EuVECA ed EuSEF; offerta o distribuzione di IBIP secondo la PSD2; prodotti o schemi pensionistici e PEPP.
+- Prestazione di servizi di consulenza in materia di investimenti o di gestione di portafoglio ai sensi della MiFID II, compresi quelli forniti da istituti di credito e società di gestione patrimoniale; gestione di fondi secondo UCITS o AIFMD, e di EuVECA e EuSEF; offerta o distribuzione di IBIP secondo la PSD2; prodotti o schemi pensionistici e PEPP secondo il regolamento (UE) 2019/1238.
 - Non svolge le funzioni economiche della moneta; non integra la moneta da un punto di vista giuridico e legale; non conferisce diritti di carattere economico; non rappresenta passività di un ente emittente.
 - Quando il loro acquisto venga proposto ponendo l'accento sull'aspettativa di un ritorno finanziario; e ai sensi dell'art. 166 del Testo Unico dell'intermediazione finanziaria l'attività potrebbe integrare il delitto di abusivismo.
 
@@ -5485,9 +5485,9 @@
 
 **D:** ⚠️ Da chi è richiesta la divulgazione prevista dalla SFDR?
 **R:** «**Non solo dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, ma a tutte le imprese, le quali devono divulgare agli investitori il metodo di integrazione dei rischi di sostenibilità e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti**». ⚠️ **È il punto più fraintendibile della lezione**: l'obbligo **non** è riservato a chi commercializza prodotti sostenibili. ⚠️ Ciò che va divulgato è «**il metodo di integrazione**» di **due** cose — rischi *e* impatti negativi di sostenibilità — nei processi di **selezione degli investimenti**.
-**Opzione:** Non solo dalle imprese che offrono prodotti mirati come sostenibili, ma da tutte le imprese, che devono divulgare il metodo di integrazione dei rischi e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti.
+**Opzione:** Non solo dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, ma da tutte le imprese, le quali devono divulgare agli investitori il metodo di integrazione dei rischi di sostenibilità e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti.
 **Distrattori:**
-- Soltanto dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, le quali devono divulgare il metodo di integrazione dei rischi e degli impatti negativi di sostenibilità.
+- Soltanto dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, le quali devono divulgare agli investitori il metodo di integrazione dei rischi di sostenibilità e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti.
 - Solo attraverso una definizione chiara ed uniforme di che cosa sia la sostenibilità per le imprese e di come queste possano conformarsi ai criteri di sostenibilità.
 - Un certo grado di diffusione e pubblicità, e quindi una presenza effettiva sul mercato.
 
@@ -5501,9 +5501,9 @@
 
 **D:** ⚠️ Che cosa fa il Regolamento Tassonomia?
 **R:** **Cinque** cose: «**soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG**»; «**risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE**»; «**stabilisce i criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale**»; «**si applica non solo alle istituzioni dell'Unione europea… ma anche alle imprese e agli operatori dei mercati finanziari**»; «**modifica il regolamento (UE) 2019/2088… ("SFDR")**». ⚠️ **La quinta voce è quella che lega i due atti: la Tassonomia modifica la SFDR, non viceversa.**
-**Opzione:** Soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica non solo alle istituzioni dell'Unione europea ma anche alle imprese e agli operatori dei mercati finanziari; modifica il regolamento (UE) 2019/2088 (SFDR).
+**Opzione:** Soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE che altrimenti dovrebbero soddisfare diversi criteri in diversi Stati membri per qualificare le loro attività come sostenibili dal punto di vista ambientale; stabilisce i criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale; si applica non solo alle istituzioni dell'Unione europea (che adotteranno i criteri stabiliti dal Regolamento in relazione a qualsiasi misura futura sulla finanza sostenibile), ma anche alle imprese e agli operatori dei mercati finanziari; modifica il regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio, del 27 novembre 2019, sulle informazioni relative alla sostenibilità nel settore dei servizi finanziari (SFDR).
 **Distrattori:**
-- Soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE; stabilisce i criteri di sostenibilità ambientale di un'attività economica; si applica non solo alle istituzioni dell'Unione europea ma anche alle imprese e agli operatori dei mercati finanziari; è modificato dal regolamento (UE) 2019/2088 (SFDR).
+- Soddisfa l'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG; risponde alla necessità di una definizione comune europea dei criteri ESG, non solo per incoraggiare gli investitori europei, ma anche quelli extra-UE che altrimenti dovrebbero soddisfare diversi criteri in diversi Stati membri per qualificare le loro attività come sostenibili dal punto di vista ambientale; stabilisce i criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale; si applica non solo alle istituzioni dell'Unione europea (che adotteranno i criteri stabiliti dal Regolamento in relazione a qualsiasi misura futura sulla finanza sostenibile), ma anche alle imprese e agli operatori dei mercati finanziari; è modificato dal regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio, del 27 novembre 2019, sulle informazioni relative alla sostenibilità nel settore dei servizi finanziari (SFDR).
 - Le assimila sul piano funzionale al denaro e nega in radice l'idoneità al conferimento, mentre il Tribunale le trattava come beni e aveva negato la conferibilità nel solo caso di specie.
 - Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare; rappresentare a cosa servono i token emessi con l'ICO; spiegare come si acquistano e quali diritti conferiscono ai loro acquirenti.
 
@@ -5533,10 +5533,10 @@
 
 **D:** ⚠️ Che cosa fa la bozza di RTS, e con quali date?
 **R:** **Due** cose: «**fornisce agli investitori finali informazioni sugli investimenti di prodotti finanziari in attività economiche sostenibili dal punto di vista ambientale, fornendo loro informazioni comparabili per effettuare scelte di investimento informate**» e «**stabilisce un unico Regolamento per le informazioni sulla sostenibilità ai sensi del regolamento SFDR e del Regolamento sulla tassonomia**». Le date: «**una prima serie di bozze di RTS è stata pubblicata dalle autorità di vigilanza europee nel febbraio 2021**», il rapporto finale è dell'**ottobre 2021**, e la **Commissione** «**intende incorporare in un unico strumento tutti gli RTS SFDR**». ⚠️ **Entrambe le serie sono delle ESAs**: il docente attribuisce erroneamente la prima alla Commissione. ⚠️ Il valore aggiunto è la **comparabilità** — «è **inutile dare un'informazione sulla sostenibilità fine a se stessa**».
-**Opzione:** Fornisce agli investitori finali informazioni comparabili sugli investimenti in attività sostenibili dal punto di vista ambientale e stabilisce un unico Regolamento per le informazioni sulla sostenibilità; prima serie febbraio 2021, rapporto finale ottobre 2021, entrambi delle autorità di vigilanza europee.
+**Opzione:** Fornisce agli investitori finali informazioni sugli investimenti di prodotti finanziari in attività economiche sostenibili dal punto di vista ambientale, fornendo loro informazioni comparabili per effettuare scelte di investimento informate, e stabilisce un unico Regolamento per le informazioni sulla sostenibilità ai sensi del regolamento SFDR e del Regolamento sulla tassonomia; prima serie febbraio 2021, rapporto finale ottobre 2021, entrambi delle autorità di vigilanza europee.
 **Distrattori:**
-- Fornisce agli investitori finali informazioni comparabili sugli investimenti in attività sostenibili dal punto di vista ambientale e stabilisce un unico Regolamento per le informazioni sulla sostenibilità; prima serie febbraio 2021 della Commissione europea, rapporto finale ottobre 2021 delle autorità di vigilanza.
-- Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD
+- Fornisce agli investitori finali informazioni sugli investimenti di prodotti finanziari in attività economiche sostenibili dal punto di vista ambientale, fornendo loro informazioni comparabili per effettuare scelte di investimento informate, e stabilisce un unico Regolamento per le informazioni sulla sostenibilità ai sensi del regolamento SFDR e del Regolamento sulla tassonomia; prima serie febbraio 2021 della Commissione europea, rapporto finale ottobre 2021 delle autorità di vigilanza.
+- Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD.
 - Deve i) dimostrare che l'uso di un conto titoli sia incompatibile con l'uso della DLT impiegata, e ii) proporre misure compensative per il raggiungimento degli obiettivi delle disposizioni rispetto a cui è stata richiesta l'esenzione.
 
 **D:** ⚠️ Come devono essere resi i requisiti informativi previsti dalla SFDR?
@@ -5565,9 +5565,9 @@
 
 **D:** ⚠️ Quale problema pratico crea il disallineamento fra SFDR e MiFID II?
 **R:** «**Tale disallineamento può causare problemi quando i partecipanti al mercato finanziario rispondono alle preferenze ESG di investitori e clienti con riferimento a strumenti finanziari ai sensi della MiFID II che non rientrano nell'ambito della definizione di prodotti finanziari ai sensi della SFDR**». ⚠️ Il problema è un **insieme scoperto**: strumenti finanziari secondo la MiFID II che **non** sono prodotti finanziari secondo la SFDR. Il docente: «per una direttiva questo è un prodotto finanziario, ma siccome nel mondo ESG non era previsto che quello fosse uno strumento finanziario, **che si fa? Si segue o non si segue la tematica ESG?**».
-**Opzione:** Che restano scoperti gli strumenti finanziari ai sensi della MiFID II che non rientrano nella definizione di prodotti finanziari ai sensi della SFDR.
+**Opzione:** Che possono sorgere problemi quando i partecipanti al mercato finanziario rispondono alle preferenze ESG di investitori e clienti con riferimento a strumenti finanziari ai sensi della MiFID II che non rientrano nell'ambito della definizione di prodotti finanziari ai sensi della SFDR.
 **Distrattori:**
-- Che restano scoperti i prodotti finanziari ai sensi della SFDR che non rientrano nella definizione di strumenti finanziari ai sensi della MiFID II.
+- Che possono sorgere problemi quando i partecipanti al mercato finanziario rispondono alle preferenze ESG di investitori e clienti con riferimento a prodotti finanziari ai sensi della SFDR che non rientrano nell'ambito della definizione di strumenti finanziari ai sensi della MiFID II.
 - Che i partecipanti al mercato finanziario devono applicare cumulativamente entrambe le definizioni, con un onere informativo doppio.
 - Che le preferenze ESG degli investitori non possono essere raccolte se non attraverso il questionario MiFID.
 
@@ -5581,17 +5581,17 @@
 
 **D:** ⚠️ Che cosa sta facendo la Commissione europea sul quadro giuridico degli ELTIF, e in vista di che cosa?
 **R:** «**La Commissione europea sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita intelligente, sostenibile e inclusiva. È quindi evidente che sarà necessario un coordinamento tra gli obiettivi di investimento e gli investimenti target consentiti per gli ELTIF e quanto richiesto dal Regolamento sulla tassonomia**». ⚠️ La crescita è qualificata da **tre** aggettivi: «**intelligente, sostenibile e inclusiva**». ⚠️ Il coordinamento riguarda **due** elementi degli ELTIF — **obiettivi di investimento** e **investimenti target consentiti** — rispetto al **Regolamento sulla tassonomia**.
-**Opzione:** Sta rivedendo il quadro giuridico per rafforzare il ruolo di questi prodotti verso una crescita intelligente, sostenibile e inclusiva, coordinando obiettivi di investimento e investimenti target consentiti con il Regolamento sulla tassonomia.
+**Opzione:** Sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita intelligente, sostenibile e inclusiva; sarà quindi necessario un coordinamento tra gli obiettivi di investimento e gli investimenti target consentiti per gli ELTIF e quanto richiesto dal Regolamento sulla tassonomia.
 **Distrattori:**
-- Sta rivedendo il quadro giuridico per rafforzare il ruolo di questi prodotti verso una crescita stabile, sostenibile e inclusiva, coordinando obiettivi di investimento e investimenti target consentiti con il Regolamento sulla tassonomia.
+- Sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita stabile, sostenibile e inclusiva; sarà quindi necessario un coordinamento tra gli obiettivi di investimento e gli investimenti target consentiti per gli ELTIF e quanto richiesto dal Regolamento sulla tassonomia.
 - Per fare chiarezza ed evitare i comportamenti ingannevoli e i relativi rischi e, allo stesso tempo, per stimolare l'adozione dei criteri ESG nell'ambiente finanziario.
 - Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
 
 **D:** ⚠️ Quali sono i tre temi in discussione sull'SFDR?
 **R:** «**Necessità di un migliore allineamento tra le diverse legislazioni**» (il disallineamento con la MiFID II); «**Misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento sui fondi di investimento europei a lungo termine**» (gli **ELTIF**); e la **revisione del quadro giuridico** da parte della **Commissione europea** in vista di una crescita «**intelligente, sostenibile e inclusiva**». ⚠️ Sono **tre** e procedono dal problema definitorio a quello degli strumenti, fino all'intervento istituzionale in corso.
-**Opzione:** Necessità di un migliore allineamento tra le diverse legislazioni; misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento ELTIF; la revisione del quadro giuridico da parte della Commissione europea.
+**Opzione:** Necessità di un migliore allineamento tra le diverse legislazioni; misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento sui fondi di investimento europei a lungo termine (ovvero il Regolamento (UE) 2015/760, ELTIF); la Commissione europea sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita intelligente, sostenibile e inclusiva.
 **Distrattori:**
-- Necessità di un migliore allineamento tra le diverse legislazioni; l'istituzione di un'autorità europea unica per la vigilanza sulla sostenibilità; la revisione del quadro giuridico da parte della Commissione europea.
+- Necessità di un migliore allineamento tra le diverse legislazioni; misure a sostegno dell'impiego di capitali verso attività sostenibili, come l'abrogazione del Regolamento sui fondi di investimento europei a lungo termine (ovvero il Regolamento (UE) 2015/760, ELTIF); la Commissione europea sta rivedendo il quadro giuridico pertinente per rafforzare il ruolo di questi prodotti nel percorso verso una crescita intelligente, sostenibile e inclusiva.
 - Il collaterale: valuta fiat con emissione in proporzione uno a uno; altre criptovalute; nessuna garanzia.
 - La possibile attribuzione di un valore economico alle cryptovalute.
 
@@ -5611,7 +5611,7 @@
 **R:** La slide scrive: «**la gestione di fondi, secondo la direttiva 2009/65/UE ("UCITS") o la direttiva 2011/61/UE ("AIFMD"), e di EuVECA e EuSEF**». ⚠️ **EuVECA ed EuSEF stanno solo sulla slide**: il docente si ferma a «gestione dei fondi, siano essi alternativi o UCITS». Sono la **coda dell'elenco**, bersaglio classico.
 **Opzione:** I fondi EuVECA ed EuSEF.
 **Distrattori:**
-- I fondi ELTIF e i fondi pensione negoziali.
+- Attraverso ICO e STO.
 - I fondi EuVECA e i fondi comuni monetari.
 - Nessun altro: l'ambito si esaurisce nei fondi UCITS e in quelli alternativi.
 
@@ -5646,11 +5646,11 @@
 
 **D:** ⚠️ Quali sono le finalità del Pacchetto per la Finanza Digitale elencate dalla slide?
 **R:** **Otto**, su due righe di quattro: «**Certezza legale per le diverse tipologie di crypto-assets**»; «**Supporto all'innovazione ed alla sana concorrenza attraverso la creazione di una cornice favorevole**»; «**Livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato**»; «**affrontare i rischi per la stabilità finanziaria e la politica monetaria (in particolare a causa dell'ampio uso di cripto-asset e DLT)**»; «**eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza)**»; «**aumentare le fonti di finanziamento (attraverso ICO e STO)**»; «**limitare i rischi di frode, riciclaggio di denaro e pratiche illecite nei mercati dei cripto-asset**»; «**sostenere l'accesso a nuove opportunità di investimento, a nuovi tipi di strumenti di pagamento e ad alimentare la concorrenza**».
-**Opzione:** Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento e di pagamento e alimentare la concorrenza.
+**Opzione:** Certezza legale per le diverse tipologie di crypto-assets; supporto all'innovazione ed alla sana concorrenza attraverso la creazione di una cornice favorevole; livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria (in particolare a causa dell'ampio uso di cripto-asset e DLT); eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza); aumentare le fonti di finanziamento (attraverso ICO e STO); limitare i rischi di frode, riciclaggio di denaro e pratiche illecite nei mercati dei cripto-asset; sostenere l'accesso a nuove opportunità di investimento, a nuovi tipi di strumenti di pagamento e ad alimentare la concorrenza.
 **Distrattori:**
-- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; armonizzazione della fiscalità diretta sui cripto-asset.
-- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della sola clientela al dettaglio; affrontare i rischi per la stabilità finanziaria e la politica monetaria; eliminazione degli ostacoli normativi; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento e di pagamento e alimentare la concorrenza.
-- Certezza legale per le tipologie di crypto-assets; supporto all'innovazione e alla sana concorrenza; livelli elevati di protezione della clientela, dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria; introduzione di ostacoli normativi all'emissione di token di sicurezza; aumentare le fonti di finanziamento; limitare i rischi di frode e riciclaggio; sostenere l'accesso a nuove opportunità di investimento.
+- Certezza legale per le diverse tipologie di crypto-assets; supporto all'innovazione ed alla sana concorrenza attraverso la creazione di una cornice favorevole; livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato; affrontare i rischi per la stabilità finanziaria e la politica monetaria (in particolare a causa dell'ampio uso di cripto-asset e DLT); eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza); aumentare le fonti di finanziamento (attraverso ICO e STO); limitare i rischi di frode, riciclaggio di denaro e pratiche illecite nei mercati dei cripto-asset; armonizzare la fiscalità dei cripto-asset negli Stati membri, a partire dalla tassazione delle plusvalenze e dagli obblighi dichiarativi.
+- Pregi: apertura di una finestra per la regolarizzazione del pregresso, fissazione di soglie minime nel quadro RW. Criticità: aspetti pratici dei calcoli, mancata caratterizzazione dei token, mancata qualificazione di valori ufficiali di riferimento.
+- Il 78/2021 sulla detenzione in un wallet con chiavi private; il 397/2022 sulla detenzione tramite exchange e wallet con chiavi private.
 
 **D:** ⚠️ Attraverso quali strumenti il Pacchetto per la Finanza Digitale punta ad aumentare le fonti di finanziamento?
 **R:** «**aumentare le fonti di finanziamento (attraverso ICO e STO)**». ⚠️ Gli strumenti sono **due** e stanno **solo sulla slide**: il docente a voce nomina solo l'**initial coin offering**.
@@ -5672,7 +5672,7 @@
 **R:** «**eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza)**». ⚠️ Le fasi sono **tre** e la terza è la **post**-negoziazione; l'oggetto sono i **token di sicurezza**, non i cripto-asset in genere.
 **Opzione:** Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza.
 **Distrattori:**
-- Eliminazione degli ostacoli normativi, ad esempio per l'emissione e la negoziazione di token di sicurezza.
+- Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la pre-negoziazione di token di sicurezza.
 - Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di pagamento.
 - Eliminazione degli ostacoli normativi, ad esempio per la custodia e il trasferimento transfrontaliero di token di sicurezza.
 
@@ -5680,7 +5680,7 @@
 **R:** «**Livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato**». ⚠️ Gli oggetti sono **tre** e vanno detti tutti: la **clientela**, l'**investitore** e l'**integrità del mercato**.
 **Opzione:** La clientela, l'investitore e l'integrità del mercato.
 **Distrattori:**
-- La clientela e l'investitore.
+- La clientela, l'investitore e la sana concorrenza.
 - La clientela, l'investitore e la stabilità dei prezzi.
 - L'investitore professionale e l'integrità del mercato.
 
@@ -5710,17 +5710,17 @@
 
 **D:** ⚠️ Qual è l'obiettivo che il legislatore europeo persegue con il Regolamento DLT?
 **R:** «**consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria**». ⚠️ Le fasi sono **tre** (emissione, negoziazione, regolamento) e i beni da non sacrificare altrettanti: protezione degli investitori, **trasparenza dei mercati**, stabilità finanziaria.
-**Opzione:** Consentire e promuovere l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
+**Opzione:** Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento delle crypto-securities, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
 **Distrattori:**
-- Consentire e promuovere l'emissione, la negoziazione e il regolamento di tutte le criptovalute, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
+- Consentire e promuovere lo sviluppo di tecnologie basate su registri distribuiti e, in particolare, l'emissione, la negoziazione e il regolamento di tutte le criptovalute, senza prescindere dall'esigenza di garantire la protezione degli investitori, la trasparenza dei mercati nonché la stabilità finanziaria.
 - La possibile attribuzione di un valore economico alle cryptovalute.
 - Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
 
 **D:** ⚠️ Che cosa afferma il considerando n. 1 del Regolamento DLT?
 **R:** «**È importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, anche consentendo l'uso di tecnologie innovative. L'Unione ha interesse politico a esplorare, sviluppare e a promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la diffusione della tecnologia a registro distribuito («DLT»).**» ⚠️ I verbi sono **tre e in quest'ordine**: «**esplorare, sviluppare e promuovere**».
-**Opzione:** Che è importante garantire che la legislazione dell'Unione sia adeguata all'era digitale e che l'Unione ha interesse politico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+**Opzione:** Che è importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, anche consentendo l'uso di tecnologie innovative; l'Unione ha interesse politico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
 **Distrattori:**
-- Che è importante garantire che la legislazione dell'Unione sia adeguata all'era digitale e che l'Unione ha interesse politico a vigilare, limitare e circoscrivere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
+- Che è importante garantire che la legislazione dell'Unione in materia di servizi finanziari sia adeguata all'era digitale e contribuisca a creare un'economia pronta per le sfide del futuro e al servizio delle persone, anche consentendo l'uso di tecnologie innovative; l'Unione ha interesse politico a vigilare, limitare e circoscrivere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
 - Che rientrerebbero difficilmente nel concetto di moneta, poiché non rientrerebbero in nessuna delle definizioni offerte dalle diverse teorie.
 - Che sono acquistate con moneta tradizionale su una piattaforma di scambio, confluiscono in un portafoglio elettronico, possono essere inviate a chiunque altro desideri accettarle e riconvertite in moneta tradizionale a corso forzoso.
 
@@ -5729,9 +5729,9 @@
 
 **D:** ⚠️ Quali sono gli obiettivi del Regolamento DLT?
 **R:** **Quattro**, nell'ordine della slide: «**Sviluppo di mercati secondari per strumenti finanziari "tokenizzati"**»; «**Promuovere l'adozione della DLT nell'area del trading e post-trading**»; «**Sostenere l'innovazione**»; «**Garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria**». ⚠️ Il primo riguarda i mercati **secondari** e il quarto è a sua volta **triplo**.
-**Opzione:** Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e stabilità finanziaria
+**Opzione:** Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria.
 **Distrattori:**
-- Sviluppo di mercati primari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e stabilità finanziaria
+- Sviluppo di mercati primari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e la stabilità finanziaria.
 - Il crescente interesse nei confronti della finanza sostenibile; il piano di azione europeo per la finanza sostenibile.
 - Procedimento di applicazione, modelli di business e collaborazione nella vigilanza.
 
@@ -5764,10 +5764,10 @@
 
 **D:** ⚠️ Quali sono le categorie di strumenti finanziari DLT e con quali soglie?
 **R:** **Tre**: «**azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR**»; «**obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato**»; «**quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR**». ⚠️ **Le soglie non sono uguali**: 500 milioni · **1 miliardo** · 500 milioni.
-**Opzione:** Azioni con capitalizzazione, anche provvisoria, inferiore a 500 milioni di EUR; obbligazioni, debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, e strumenti del mercato monetario con entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano un derivato o una struttura che rende difficile comprendere il rischio; quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, con attività gestite inferiori a 500 milioni di EUR.
+**Opzione:** Azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR; obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato; o quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
 **Distrattori:**
-- Azioni con capitalizzazione, anche provvisoria, inferiore a 500 milioni di EUR; obbligazioni, debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, e strumenti del mercato monetario con entità di emissione inferiore a 500 milioni di EUR, esclusi quelli che incorporano un derivato o una struttura che rende difficile comprendere il rischio; quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, con attività gestite inferiori a 500 milioni di EUR.
-- Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, acquistabili con valuta tradizionale ma non riconvertibili; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale
+- Azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR; obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 500 milioni di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato; o quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
+- Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, acquistabili con valuta tradizionale ma non riconvertibili; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale.
 - Rispetto a valute aventi corso legale o rispetto ad altri cryptoasset.
 
 **D:** ⚠️ Qual è la soglia prevista per le azioni ammesse al regime pilota, e come è definita la capitalizzazione?
@@ -5788,11 +5788,11 @@
 
 **D:** ⚠️ Come è definita la terza categoria di strumenti finanziari DLT?
 **R:** «**quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR**». ⚠️ Il **rinvio puntuale** — art. 25, par. 4, lett. a), punto iv), direttiva 2014/65/UE — sta **solo sulla slide**; il docente dice genericamente «quote di fondi di organismi di investimento collettivo». ⚠️ La grandezza sotto soglia è il **valore di mercato delle attività gestite**, non la capitalizzazione dell'emittente.
-**Opzione:** Quote di organismi di investimento collettivo il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
+**Opzione:** Quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
 **Distrattori:**
-- Quote di organismi di investimento collettivo il cui valore di mercato delle attività gestite è inferiore a 1 miliardo di EUR.
-- Quote di organismi di investimento collettivo la cui capitalizzazione di mercato, anche provvisoria, è inferiore a 500 milioni di EUR.
-- Quote di organismi di investimento collettivo il cui numero di quotisti al dettaglio è inferiore a 500.
+- Quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, la cui capitalizzazione di mercato, anche provvisoria, è inferiore a 500 milioni di EUR.
+- Le plusvalenze della lett. c-ter sono imponibili se la giacenza complessiva ha superato 51.645 euro per sette giorni lavorativi continui, ai sensi dell'art. 67 comma 1-ter.
+- Le crypto detenute presso exchange italiani, perché si tratta di crediti verso soggetti residenti.
 
 **D:** Quale carenza il Regolamento DLT dichiara di voler colmare?
 **R:** «**Attualmente, vi è una carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la tecnologia a registro distribuito per fornire servizi di negoziazione o regolamento, o una combinazione di tali servizi, per le cripto-attività che rientrano nella definizione di strumenti finanziari.**» ⚠️ La formula «**negoziazione o regolamento, o una combinazione di tali servizi**» è già la mappa delle **tre** infrastrutture che seguono, e la coda ribadisce il perimetro: solo le cripto-attività «**che rientrano nella definizione di strumenti finanziari**».
@@ -5844,9 +5844,9 @@
 
 **D:** ⚠️ Da chi può essere gestito il TSS DLT e a quali requisiti è soggetto?
 **R:** «**il TSS DLT potrà essere gestito, alternativamente, da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli. In entrambi i casi, tale sistema sarà soggetto sia ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dal MiFIR e dalla MiFID II nonché a quelli applicabili ai depositari centrali di titoli di cui al CSDR.**» ⚠️ È l'unica infrastruttura soggetta **insieme** a MiFID II/MiFIR **e** CSDR, perché gestisce «**sia le attività di negoziazione che di post-negoziazione**».
-**Opzione:** Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; in entrambi i casi è soggetto sia ai requisiti MiFIR e MiFID II per i sistemi multilaterali di negoziazione, sia a quelli CSDR.
+**Opzione:** Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; in entrambi i casi è soggetto sia ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dal MiFIR e dalla MiFID II, sia a quelli applicabili ai depositari centrali di titoli di cui al CSDR.
 **Distrattori:**
-- Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; è soggetto ai requisiti MiFIR e MiFID II se gestito dal primo, a quelli CSDR se gestito dal secondo.
+- Alternativamente da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli; se gestito dai primi è soggetto ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dal MiFIR e dalla MiFID II, se gestito dal depositario a quelli applicabili ai depositari centrali di titoli di cui al CSDR.
 - La BCE denaro digitale, l'EBA rappresentazione digitale di denaro, la Banca d'Italia rappresentazioni digitali di valore.
 - Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 
@@ -5871,17 +5871,17 @@
 
 **D:** ⚠️ Come definisce la slide l'MTF, e in che cosa differisce dal Mercato Regolamentato?
 **R:** «**Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.**» ⚠️ Rispetto al Mercato Regolamentato cambiano **quattro** cose: il **gestore** (qui anche l'**impresa di investimento**), l'**amministrazione** (manca «amministrato **e/o** gestito»), il **verbo** («consente», **senza** «o facilita») e la **coda** (mancano le parole «ammessi alla negoziazione»). L'**oggetto** è invece lo stesso: gli **strumenti finanziari**.
-**Opzione:** Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, in base a regole non discrezionali, di interessi multipli relativi a strumenti finanziari, in modo da dare luogo a contratti.
+**Opzione:** Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole non discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.
 **Distrattori:**
-- Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, in base a regole discrezionali, di interessi multipli relativi a strumenti finanziari, in modo da dare luogo a contratti.
+- Un sistema multilaterale gestito da un'impresa di investimento o da un gestore del mercato che consente l'incontro, al suo interno e in base a regole discrezionali, di interessi multipli di acquisto e di vendita di terzi relativi a strumenti finanziari, in modo da dare luogo a contratti.
 - Un'informazione digitale che conferisce un diritto di proprietà sull'informazione stessa, registrata sulla Blockchain o in altra DLT, trasferibile tramite un protocollo e capace di incorporare altri diritti.
 - I casi in cui un intermediario finanziario potrebbe qualificare un prodotto, un'attività oppure una politica come ambientalmente sostenibile quando invece non lo sia.
 
 **D:** ⚠️ Come definisce la slide l'OTF?
 **R:** «**Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.**» ⚠️ È definito **per differenza** — «**diverso da**» —: sopprimere quella negazione ribalta la frase lasciandola quasi identica. ⚠️ Il verbo è «**consente l'*interazione***», non «l'incontro»; l'oggetto è un **elenco chiuso di quattro voci**; e le **regole non discrezionali** **non compaiono** nella definizione.
-**Opzione:** Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+**Opzione:** Un sistema multilaterale diverso da un mercato regolamentato o sistema multilaterale di negoziazione che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.
 **Distrattori:**
-- Un sistema multilaterale, come il mercato regolamentato e il sistema multilaterale di negoziazione, che consente l'interazione tra interessi multipli relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+- Un sistema multilaterale, come il mercato regolamentato e il sistema multilaterale di negoziazione, che consente l'interazione tra interessi multipli di acquisto e di vendita di terzi relativi a obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati, in modo da dare luogo a contratti.
 - Opera come marcatore in termini di valore di scambio di beni, servizi o altre utilità; sicché non le si può attribuire un valore di scambio, essendo essa stessa elemento di scambio nella negoziazione.
 - L'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti.
 
@@ -5889,7 +5889,7 @@
 **R:** Su un **elenco chiuso di quattro voci**: «**obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati**». ⚠️ Mercato Regolamentato e MTF hanno invece per oggetto gli «**strumenti finanziari**» in genere: è l'asse su cui le tre definizioni si separano più nettamente, e il posto dove i distrattori scambiano un elenco con l'altro.
 **Opzione:** Obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
 **Distrattori:**
-- Obbligazioni, strumenti finanziari strutturati e strumenti derivati.
+- Obbligazioni, strumenti finanziari strutturati, strumenti del mercato monetario e strumenti derivati.
 - Strumenti finanziari, senza limitazioni di categoria.
 - Obbligazioni, azioni, quote di emissione e strumenti derivati.
 
@@ -5943,9 +5943,9 @@
 
 **D:** ⚠️ In che rapporto stanno gli «strumenti finanziari DLT» e gli «strumenti finanziari» MiFID II?
 **R:** «**Gli "strumenti finanziari DLT" possono essere definiti come un sottoinsieme della categoria più generica degli "strumenti finanziari" MiFID II, con il risultato che, laddove uno strumento finanziario non soddisfi i requisiti previsti dal Regolamento DLT, sarà coperto dalla disciplina MiFID II già esistente: la neutralità tecnologica è rispettata.**» ⚠️ **La direzione dell'inclusione non va invertita**: sono gli strumenti **DLT** a stare **dentro** quelli MiFID II. ⚠️ È una **clausola di chiusura**: ciò che cade fuori dal Regolamento DLT non resta scoperto.
-**Opzione:** Gli strumenti finanziari DLT sono un sottoinsieme della categoria più generica degli strumenti finanziari MiFID II: ciò che non soddisfa i requisiti del Regolamento DLT è coperto dalla disciplina MiFID II già esistente.
+**Opzione:** Gli strumenti finanziari DLT possono essere definiti come un sottoinsieme della categoria più generica degli strumenti finanziari MiFID II, con il risultato che, laddove uno strumento finanziario non soddisfi i requisiti previsti dal Regolamento DLT, sarà coperto dalla disciplina MiFID II già esistente.
 **Distrattori:**
-- Gli strumenti finanziari MiFID II sono un sottoinsieme della categoria più generica degli strumenti finanziari DLT: ciò che non soddisfa i requisiti della MiFID II è coperto dal Regolamento DLT.
+- Gli strumenti finanziari MiFID II possono essere definiti come un sottoinsieme della categoria più generica degli strumenti finanziari DLT, con il risultato che, laddove uno strumento finanziario non soddisfi i requisiti previsti dalla MiFID II, sarà coperto dal Regolamento DLT.
 - Che restano scoperti gli strumenti finanziari ai sensi della MiFID II che non rientrano nella definizione di prodotti finanziari ai sensi della SFDR.
 - Che non attua un vero e proprio regime ad hoc, limitandosi a derogare a quelle norme che, almeno dal suo punto di vista, risultano essere una limitazione per la DLT.
 
@@ -5963,7 +5963,7 @@
 **Distrattori:**
 - Il CSDR: i DLT SS e il CSD che li gestisce sono soggetti a tutti i requisiti pertinenti ai sensi della CSDR, mentre i DLT TSS restano soggetti alla sola MiFID II.
 - Nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2014/65/UE (MiFID II).
-- Guida di livello 3 dell'ESMA su misure di compensazione, con la possibilità di emanare linee guida in futuro
+- Guida di livello 3 dell'ESMA su misure di compensazione, con la possibilità di emanare linee guida in futuro.
 
 **D:** ⚠️ A quali termini e a quali materie si riferiscono le esenzioni dal CSDR?
 **R:** **Due voci**: «**Regole che fanno riferimento ai termini "forma dematerializzata", "conto titoli", "ordini di trasferimento", forma di registrazione contabile"**»; «**Registrazione dei titoli, integrità dell'emissione e segregazione dei conti**». ⚠️ Il quarto termine della prima voce è «**forma di registrazione contabile**»: il docente lo sostituisce con «integrità di titoli», fondendo le due voci in una.
@@ -6023,9 +6023,9 @@
 
 **D:** ⚠️ Che cosa dice il report dell'ESMA sulla neutralità tecnologica del CSDR?
 **R:** Nel «**Report to the European Commission Use of FinTech by CSD**»: «**A majority of respondents to ESMA's questionnaire (NCAs, CSDs and banks), consider that CSDR is technology-neutral and, as such, it should be able to accommodate the use of new technologies. Most of the comments received from NCAs indicate the same, i.e. there does not seem to be any major impediment to the development of DLT in the CSDR level 1 requirements. […] However, many of the respondents who consider CSDR technologically neutral have highlighted a number of topics which would benefit from clarification to ensure legal certainty for CSDs when performing their core activities using DLT.**» ⚠️ Il «**However**» è il perno: chi riconosce la neutralità **chiede comunque chiarimenti**, per la «**legal certainty**» dei CSD.
-**Opzione:** Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD
+**Opzione:** Che per la maggioranza dei rispondenti il CSDR è tecnologicamente neutro e, in quanto tale, dovrebbe essere in grado di accogliere l'uso di nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD.
 **Distrattori:**
-- Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, senza segnalare alcuna esigenza di chiarimento.
+- Che per la maggioranza dei rispondenti il CSDR è tecnologicamente neutro e, in quanto tale, dovrebbe essere in grado di accogliere l'uso di nuove tecnologie, senza che nessuno di loro segnali alcuna esigenza di chiarimento.
 - Che secondo alcuni il regime pilota favorirebbe il passaggio dall'OTC alla negoziazione e al regolamento su MTF DLT, mentre altri hanno indicato che la negoziazione di titoli basati su DLT rimarrà OTC.
 - L'elevato numero di deroghe al CSDR.
 
@@ -6103,9 +6103,9 @@
 
 **D:** ⚠️ Su quali infrastrutture interviene l'ESMA e su quali le Autorità competenti, nel procedimento di autorizzazione?
 **R:** «**Coinvolgimento dell'ESMA per DLT MTF, DLT SS e DLT TSS. Parere non vincolante (esenzioni; adeguatezza del tipo di DLT)**»; «**Coinvolgimento delle Autorità competenti per DLT SS e DLT TSS. Parere non vincolante sulle caratteristiche del regolamento titoli (in linea con la CSDR)**». ⚠️ **Coppia soggetto + ambito da non invertire**: l'**ESMA** su **tutte e tre**, le **Autorità competenti** solo su **DLT SS e DLT TSS**; e i **due pareri hanno oggetti diversi**.
-**Opzione:** L'ESMA su DLT MTF, DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli.
+**Opzione:** L'ESMA su DLT MTF, DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli (in linea con la CSDR).
 **Distrattori:**
-- L'ESMA su DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT MTF, DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli.
+- L'ESMA su DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT MTF, DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli (in linea con la CSDR).
 - Le concedono le NCAs; ad ESMA è affidato un ruolo di coordinamento.
 - Le tre Autorità di Vigilanza europee EBA, EIOPA ed ESMA, dette ESAs, che li hanno inoltrati alla Commissione europea.
 
@@ -6135,10 +6135,10 @@
 
 **D:** ⚠️ Quali sono le sfide regolamentari del Regime Pilota DLT?
 **R:** **Quattro**: «**Valutazione delle esenzioni richieste, e delle misure compensative proposte, dai requisiti tradizionali per il funzionamento sicuro di un MI (disintermediazione dell'accesso, regolamento in contanti, finalizzazione del regolamento, ecc.)**»; «**Valutazione dei requisiti aggiuntivi per i MI DLT (adattati a specifiche procedure di gestione del rischio operativo, alla necessità di ulteriori tutele prudenziali, ecc.)**»; «**Riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici)**»; «**Monitoraggio periodico delle prestazioni del MI DLT rispetto ai requisiti stabiliti nel Regime Pilota (comprese le soglie e i limiti dell'ambito operativo)**». ⚠️ La **prima** è **una sola** sfida, non due: si valutano esenzioni e misure compensative **rispetto ai requisiti tradizionali**.
-**Opzione:** Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; valutazione dei requisiti aggiuntivi per i MI DLT; riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici); monitoraggio periodico delle prestazioni del MI DLT.
+**Opzione:** Valutazione delle esenzioni richieste, e delle misure compensative proposte, dai requisiti tradizionali per il funzionamento sicuro di un MI (disintermediazione dell'accesso, regolamento in contanti, finalizzazione del regolamento, ecc.); valutazione dei requisiti aggiuntivi per i MI DLT (adattati a specifiche procedure di gestione del rischio operativo, alla necessità di ulteriori tutele prudenziali, ecc.); riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici); monitoraggio periodico delle prestazioni del MI DLT rispetto ai requisiti stabiliti nel Regime Pilota (comprese le soglie e i limiti dell'ambito operativo).
 **Distrattori:**
-- Valutazione delle esenzioni richieste e delle misure compensative proposte dai requisiti tradizionali; riduzione dei requisiti prudenziali per i MI DLT; riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici); monitoraggio periodico delle prestazioni del MI DLT.
-- Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e stabilità finanziaria
+- Valutazione delle esenzioni richieste, e delle misure compensative proposte, dai requisiti tradizionali per il funzionamento sicuro di un MI (disintermediazione dell'accesso, regolamento in contanti, finalizzazione del regolamento, ecc.); valutazione dei requisiti aggiuntivi per i MI DLT (adattati a specifiche procedure di gestione del rischio operativo, alla necessità di ulteriori tutele prudenziali, ecc.); riduzione dei tempi di gestione del processo autorizzativo (almeno per i nuovi entranti); monitoraggio periodico delle prestazioni del MI DLT rispetto ai requisiti stabiliti nel Regime Pilota (comprese le soglie e i limiti dell'ambito operativo).
+- Sviluppo di mercati secondari per strumenti finanziari tokenizzati; promuovere l'adozione della DLT nell'area del trading e post-trading; sostenere l'innovazione; garantire la tutela degli investitori, l'integrità del mercato e stabilità finanziaria.
 - Consulenza e gestione di portafoglio secondo la MiFID II; gestione di fondi secondo UCITS o AIFMD, e di EuVECA ed EuSEF; offerta o distribuzione di IBIP secondo la IDD; prodotti o schemi pensionistici e PEPP.
 
 **D:** ⚠️ Perché il regime pilota è definito «la prima esperienza di sandbox a livello europeo»?
@@ -6151,9 +6151,9 @@
 
 **D:** ⚠️ Che cosa promuove la Task force DLT, e con quali obiettivi?
 **R:** «**La Task force DLT promuove una stretta collaborazione tra le autorità nazionali garanti della concorrenza, al fine di: Creare una comprensione comune dei nuovi modelli di business basati sulla DLT. Promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.**» ⚠️ La formula «**autorità nazionali garanti della concorrenza**» è quella della slide e va citata com'è, benché il resto del Regolamento lavori con le **ANC**, che infatti ricompaiono nella seconda voce. ⚠️ Lo strumento è la **guida di livello 3**.
-**Opzione:** Una stretta collaborazione tra le autorità nazionali garanti della concorrenza, per creare una comprensione comune dei nuovi modelli di business basati sulla DLT e promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3
+**Opzione:** Una stretta collaborazione tra le autorità nazionali garanti della concorrenza, per creare una comprensione comune dei nuovi modelli di business basati sulla DLT e promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.
 **Distrattori:**
-- Una stretta collaborazione tra i depositari centrali di titoli, per creare una comprensione comune dei nuovi modelli di business basati sulla DLT e promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3
+- Una stretta collaborazione tra i depositari centrali di titoli, per creare una comprensione comune dei nuovi modelli di business basati sulla DLT e promuovere una vigilanza efficace da parte delle ANC attraverso una guida di livello 3.
 - Per fare chiarezza ed evitare i comportamenti ingannevoli e i relativi rischi e, allo stesso tempo, per stimolare l'adozione dei criteri ESG nell'ambiente finanziario.
 - Promuovere un'azione più inclusiva nell'economia reale, incoraggiando le imprese a ridurre l'impatto ambientale dei processi industriali, a includere politiche sulla diversità di genere e a sviluppare consapevolezza del capitale umano e sociale.
 
@@ -6215,9 +6215,9 @@
 
 **D:** ⚠️ In che cosa consiste la vulnerabilità dei mercati dei cripto-asset, e perché preoccupa anche i mercati tradizionali?
 **R:** «**Vulnerabilità dei mercati dei cripto-asset come: disallineamenti di liquidità, rischi di credito e operativi, aumento dell'uso della leva finanziaria, rischio di concentrazione sulle piattaforme che scambiano cripto-asset, mancanza di trasparenza e di supervisione normativa del settore. Le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a breve termine.**» ⚠️ La coda sulla **propagazione** è la parte rilevante, e il mercato indicato è quello dei **finanziamenti a breve termine**.
-**Opzione:** Disallineamenti di liquidità, rischi di credito e operativi, aumento della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a breve termine.
+**Opzione:** Disallineamenti di liquidità, rischi di credito e operativi, aumento dell'uso della leva finanziaria, rischio di concentrazione sulle piattaforme che scambiano cripto-asset, mancanza di trasparenza e di supervisione normativa del settore; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a breve termine.
 **Distrattori:**
-- Disallineamenti di liquidità, rischi di credito e operativi, aumento della leva finanziaria, rischio di concentrazione sulle piattaforme, mancanza di trasparenza e di supervisione; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a lungo termine.
+- Disallineamenti di liquidità, rischi di credito e operativi, aumento dell'uso della leva finanziaria, rischio di concentrazione sulle piattaforme che scambiano cripto-asset, mancanza di trasparenza e di supervisione normativa del settore; le vulnerabilità potrebbero estendersi ai mercati finanziari tradizionali a causa dei crescenti collegamenti con i mercati dei cripto-asset, in particolare sui mercati dei finanziamenti a lungo termine.
 - Le misure SFDR di secondo livello utilizzano la definizione di strumenti finanziari stabilita dalla MiFID II, e non quella di prodotti finanziari ai sensi della SFDR.
 - Perché le difformità fra Stati inducono a detenere, scambiare o operare attraverso cripto negli ordinamenti più flessibili e favorevoli, creando mini paradisi fiscali interni all'Unione Europea.
 
@@ -6276,9 +6276,9 @@
 
 **D:** ⚠️ Quali sono le questioni fiscali rilevanti indicate dalla slide?
 **R:** **Due**: «**Ai fini Iva, come si dovrebbero trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crtpto-asset?**» \[*sic*, «crtpto»] e «**Quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi?**». ⚠️ Le fattispecie IVA sono **quattro** e vanno dette nell'ordine: **creazione, acquisizione, detenzione, trasferimento**.
-**Opzione:** Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
+**Opzione:** Ai fini IVA, come si dovrebbero trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
 **Distrattori:**
-- Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
+- Ai fini IVA, come si dovrebbero trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e la quotazione di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi.
 - La nuova cornice legale europea per l'inclusione dei criteri ESG nei mercati finanziari; modifiche alla disciplina della MiFID II ed altre misure in corso di adozione.
 - L'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG.
 
@@ -6364,9 +6364,9 @@
 
 **D:** ⚠️ Che cosa stabilisce la Risoluzione n. 72/E del 2 settembre 2016 sulle operazioni di acquisto e vendita di bitcoin per conto della clientela?
 **R:** «**Operazioni imponibili ai fine IRES e IRAP per l'Exchanger e operazioni fiscalmente non rilevanti per l'utilizzatore (PF no attività di impresa). IVA: prestazioni di servizi esenti (Art. 10)**» \[*sic*, «ai fine»]. ⚠️ **Il trattamento si sdoppia per soggetto**: **imponibile** per l'**Exchanger**, **non rilevante** per l'**utilizzatore** — ma solo se **persona fisica che non svolge attività di impresa**. ⚠️ Ai fini IVA l'esito è l'**esenzione**, sull'**art. 10**.
-**Opzione:** Sono operazioni imponibili ai fini IRES e IRAP per l'exchanger e fiscalmente non rilevanti per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti.
+**Opzione:** Sono operazioni imponibili ai fini IRES e IRAP per l'exchanger e fiscalmente non rilevanti per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti (art. 10).
 **Distrattori:**
-- Sono operazioni imponibili ai fini IRES e IRAP sia per l'exchanger sia per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti.
+- Sono operazioni imponibili ai fini IRES e IRAP sia per l'exchanger sia per l'utilizzatore persona fisica che non svolge attività di impresa; ai fini IVA sono prestazioni di servizi esenti (art. 10).
 - I criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale.
 - Che la neutralità tecnologica è rispettata.
 
@@ -6444,9 +6444,9 @@
 
 **D:** ⚠️ Quali sono le criticità del regime fiscale dei crypto-asset elencate dalla slide?
 **R:** **Quattro**: «**Le difformità di trattamento fiscale delle criptovalute tra paesi può indurre gli operatori a scegliere dati ordinamenti rispetto ad altri e favorire fenomeni di elusione**»; «**Difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri)**»; «**Opportunità di valutare normative fiscali «semplificate» per traders occasionali**»; «**Disciplina fiscale per nuovi tipi di token**». ⚠️ Il termine della prima voce è «**elusione**», non «illusione» come storpia l'ASR.
-**Opzione:** Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di elusione; la difficoltà dei controlli dell'Amministrazione finanziaria (anonimato e operatori esteri); l'opportunità di normative fiscali semplificate per traders occasionali; la disciplina fiscale per nuovi tipi di token.
+**Opzione:** Le difformità di trattamento fiscale delle criptovalute tra paesi possono indurre gli operatori a scegliere dati ordinamenti rispetto ad altri e favorire fenomeni di elusione; difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri); opportunità di valutare normative fiscali «semplificate» per traders occasionali; disciplina fiscale per nuovi tipi di token.
 **Distrattori:**
-- Le difformità di trattamento fiscale fra paesi, che favoriscono fenomeni di evasione penalmente rilevante; la difficoltà dei controlli dell'Amministrazione finanziaria (anonimato e operatori esteri); l'opportunità di normative fiscali semplificate per traders occasionali; la disciplina fiscale per nuovi tipi di token.
+- Le difformità di trattamento fiscale delle criptovalute tra paesi possono indurre gli operatori a scegliere dati ordinamenti rispetto ad altri e favorire fenomeni di evasione; difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri); opportunità di valutare normative fiscali «semplificate» per traders occasionali; disciplina fiscale per nuovi tipi di token.
 - Necessità di un migliore allineamento tra le diverse legislazioni; misure a sostegno dell'impiego di capitali verso attività sostenibili, come la revisione del Regolamento ELTIF; la revisione del quadro giuridico da parte della Commissione europea.
 - Carenza di infrastrutture dei mercati finanziari autorizzati che utilizzano la DLT per fornire servizi di negoziazione o regolamento, o una combinazione di tali servizi, per le cripto-attività che rientrano nella definizione di strumenti finanziari.
 
@@ -6460,23 +6460,23 @@
 
 **D:** ⚠️ Perché il docente parla di forum shopping a proposito della fiscalità delle cripto?
 **R:** Perché le difformità fra Stati possono indurre «il tentativo di **detenere, scambiare o operare attraverso cripto in quegli stati che danno una maggiore flessibilità** e applicano un **trattamento più favorevole**», con l'esito che «si creerebbero delle sorte di **mini paradisi fiscali per le criptovalute proprio all'interno dell'Unione Europea**». ⚠️ La slide dice solo «fenomeni di **elusione**»: il *forum shopping* e i «mini paradisi fiscali» sono **ampliamenti del docente** ([00:07:01]).
-**Opzione:** Perché le difformità fra Stati inducono a detenere, scambiare o operare attraverso cripto negli ordinamenti più flessibili e favorevoli, creando mini paradisi fiscali interni all'Unione Europea.
+**Opzione:** Perché le difformità fra Stati possono indurre a detenere, scambiare o operare attraverso cripto negli Stati che danno maggiore flessibilità e un trattamento più favorevole, con il rischio di creare mini paradisi fiscali interni all'Unione Europea.
 **Distrattori:**
-- Perché le difformità fra Stati inducono a scegliere il giudice davanti al quale radicare le controversie sulle cripto, creando fori di elezione interni all'Unione Europea.
+- Perché le difformità fra Stati possono indurre a scegliere il giudice davanti al quale radicare le controversie sulle cripto, con il rischio di creare fori di elezione interni all'Unione Europea.
 - Perché l'Unione Europea ha già armonizzato la fiscalità diretta sulle cripto, rendendo il fenomeno solo teorico.
 - Perché gli Stati membri competono per attrarre i minatori offrendo tariffe energetiche agevolate.
 
 **D:** ⚠️ Perché la slide segnala l'opportunità di normative fiscali «semplificate» per i traders occasionali?
 **R:** Il docente ne dà la ragione: quando l'attività «**non è effettuata in modo professionale nei confronti del pubblico ma solo occasionalmente**», si presume che «i **volumi di attività siano ridotti**» e che i traders occasionali siano «**persone fisiche che lo fanno sul proprio patrimonio**». ⚠️ «**semplificate**» è **fra virgolette anche sulla slide**: è una qualificazione prudente, non un istituto esistente.
-**Opzione:** Perché l'attività non è svolta in modo professionale nei confronti del pubblico, i volumi sono ridotti e si tratta di persone fisiche che operano sul proprio patrimonio.
+**Opzione:** Perché l'attività non è svolta in modo professionale nei confronti del pubblico ma solo occasionalmente, e si immagina che i volumi siano ridotti e che si tratti di persone fisiche che operano sul proprio patrimonio.
 **Distrattori:**
-- Perché l'attività non è svolta in modo professionale nei confronti del pubblico, ma i volumi restano elevati e vanno monitorati con strumenti dedicati.
+- Perché l'attività non è svolta in modo professionale nei confronti del pubblico ma solo occasionalmente, e si immagina che i volumi restino elevati e vadano monitorati con strumenti dedicati.
 - Perché i traders occasionali sono già esenti da ogni obbligo di monitoraggio fiscale.
 - Perché l'attività è svolta in modo professionale nei confronti del pubblico, ma su patrimoni di importo ridotto.
 
 **D:** ⚠️ Qual è il dilemma che il docente pone sulla disciplina fiscale dei nuovi tipi di token?
 **R:** «Vale ancora la pena cercare di **incasellare con le interpretazioni all'interno delle vecchie categorie** i nuovi tipi di token? O varrebbe la pena pensare a una **nuova disciplina fiscale per i token**?» — ma anche la seconda strada «**non è certamente una scelta facile**», perché «si correrebbe il rischio di **differenziare**… quindi **avvantaggiare o svantaggiare**, un determinato asset, strumento finanziario o opportunità di trading rispetto ad un altro». ⚠️ La conclusione è che «**non esiste sostanzialmente una soluzione facile per il legislatore in questo settore**».
-**Opzione:** Se continuare a incasellare i nuovi token nelle vecchie categorie per via interpretativa, o costruire una disciplina fiscale nuova, rischiando però di avvantaggiare o svantaggiare un asset rispetto a un altro.
+**Opzione:** Se continuare a incasellare i nuovi token nelle vecchie categorie per via interpretativa, o costruire una disciplina fiscale nuova, rischiando però di avvantaggiare o svantaggiare un determinato asset, strumento finanziario o opportunità di trading rispetto a un altro.
 **Distrattori:**
 - Se continuare a incasellare i nuovi token nelle vecchie categorie per via interpretativa, o rinunciare del tutto a tassarli fino all'armonizzazione europea.
 - Se affidare la disciplina fiscale dei nuovi token all'Agenzia delle Entrate o al legislatore europeo.
@@ -6484,7 +6484,7 @@
 
 **D:** ⚠️ Come spiega il docente il fatto che la qualificazione fiscale delle cripto sia in ritardo rispetto a quella regolamentare?
 **R:** «Si è cercato di **definire queste cripto con categorie e elementi tipici della regolamentazione finanziaria tradizionale**, ma **forse tutto sommato queste definizioni andavano un po' strette**, se è vero che da un punto di vista tributario fiscale **non si è ancora arrivati a una chiara identificazione della tipologia di asset** che si ha di fronte». ⚠️ Il ritardo fiscale è quindi la **prova a posteriori** che la qualificazione regolamentare non ha chiuso la partita. ⚠️ Solo nel transcript ([00:07:01]).
-**Opzione:** Perché si è cercato di definire le cripto con categorie ed elementi tipici della regolamentazione finanziaria tradizionale, definizioni che si sono rivelate strette.
+**Opzione:** Perché si è cercato di definire le cripto con categorie ed elementi tipici della regolamentazione finanziaria tradizionale, definizioni che forse andavano un po' strette.
 **Distrattori:**
 - Perché la fiscalità diretta è armonizzata a livello europeo e ogni intervento nazionale richiede l'assenso della Commissione.
 - Perché l'Agenzia delle Entrate ha rinviato ogni pronuncia in attesa dell'entrata in vigore del Regolamento MiCAR.
@@ -6500,9 +6500,9 @@
 
 **D:** ⚠️ Qual è lo stato attuale della normativa fiscale sulle valute virtuali?
 **R:** **Tre** punti: «**Non esiste una normativa ad hoc: alle valute virtuali si applicano quindi i principi generali**»; «**Alla luce delle istruzioni per la compilazione del Mod. PF e della sentenza TAR Lazio 1077/2020, le «valute virtuali» devono essere riconosciute come «attività finanziarie», come tali generatrici di redditi imponibili (redditi diversi e/o redditi di capitale)**»; «**Alle transazioni aventi ad oggetto valute virtuali non si applica l'IVA in base all' art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE (operazioni relative ad attività finanziarie – Ris. 72/E/2016)**».
-**Opzione:** Non esiste una normativa ad hoc e si applicano i principi generali; le valute virtuali sono riconosciute come attività finanziarie, generatrici di redditi diversi e/o di capitale; alle transazioni non si applica l'IVA.
+**Opzione:** Non esiste una normativa ad hoc e si applicano i principi generali; le valute virtuali devono essere riconosciute come attività finanziarie, generatrici di redditi imponibili (redditi diversi e/o di capitale); alle transazioni non si applica l'IVA.
 **Distrattori:**
-- Esiste una normativa ad hoc di recente introduzione; le valute virtuali sono riconosciute come attività finanziarie, generatrici di redditi diversi e/o di capitale; alle transazioni non si applica l'IVA.
+- Esiste una normativa ad hoc di recente introduzione; le valute virtuali devono essere riconosciute come attività finanziarie, generatrici di redditi imponibili (redditi diversi e/o di capitale); alle transazioni non si applica l'IVA.
 - La tecnica del rimando o coordinamento: non si disciplina ex novo ciò che già esiste, ma si crea una similitudine con la normativa esistente per non creare differenze.
 - Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti da MiFID II, MiFIR e CSDR.
 
@@ -6535,7 +6535,7 @@
 **Opzione:** Token utilizzati esclusivamente come mezzo di pagamento o trasferimento di valore.
 **Distrattori:**
 - Token utilizzati prevalentemente come mezzo di pagamento o trasferimento di valore.
-- Token utilizzati esclusivamente come mezzo di pagamento.
+- Token utilizzati esclusivamente come mezzo di pagamento o investimento di natura finanziaria.
 - Token utilizzati esclusivamente come voucher per l'accesso a specifici beni o servizi.
 
 **D:** ⚠️ Come definisce la slide gli utility token, e a che cosa li assimila fiscalmente?
@@ -6551,7 +6551,7 @@
 **Opzione:** Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, con o senza un rendimento prestabilito.
 **Distrattori:**
 - Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, purché con un rendimento prestabilito.
-- Token che rappresentano un investimento di natura finanziaria, come azione o obbligazione, con o senza un rendimento prestabilito.
+- Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o voucher, con o senza un rendimento prestabilito.
 - Token che rappresentano un diritto di accesso a un investimento di natura finanziaria, con o senza un rendimento prestabilito.
 
 **D:** ⚠️ Su quale base le valute virtuali sono assimilate alle valute estere?
@@ -6604,9 +6604,9 @@
 
 **D:** ⚠️ Perché gli accertamenti diretti sulle cryptovalute sono difficili ma non impossibili?
 **R:** «**Salvo alcune eccezioni, le blockchain sono pubbliche, e pertanto «pseudoanomime» \[*sic*, *pseudoanonime*], non del tutto anonime. Accertamenti diretti sono pertanto tecnicamente possibili, ma non agevoli.**» ⚠️ **Pseudoanonime, non anonime**: la pubblicità del registro rende l'accertamento **tecnicamente possibile**; è la mascheratura dell'identità a renderlo **non agevole**. ⚠️ L'inciso «**salvo alcune eccezioni**» rinvia alle blockchain non pubbliche.
-**Opzione:** Perché le blockchain sono pubbliche e pertanto pseudoanonime, non del tutto anonime: gli accertamenti diretti sono tecnicamente possibili, ma non agevoli.
+**Opzione:** Perché, salvo alcune eccezioni, le blockchain sono pubbliche e pertanto pseudoanonime, non del tutto anonime: gli accertamenti diretti sono tecnicamente possibili, ma non agevoli.
 **Distrattori:**
-- Perché le blockchain sono pubbliche e pertanto pseudoanonime: gli accertamenti diretti sono possibili soltanto tramite richiesta di collaborazione agli exchange.
+- Perché, salvo alcune eccezioni, le blockchain sono pubbliche e pertanto pseudoanonime, non del tutto anonime: gli accertamenti diretti sono possibili soltanto tramite richiesta di collaborazione agli exchange.
 - Perché l'attività non è svolta in modo professionale nei confronti del pubblico, i volumi sono ridotti e si tratta di persone fisiche che operano sul proprio patrimonio.
 - Perché è una descrizione poco onesta dello stato dell'arte: andrebbe detto che non ci sono regole applicabili; ma il ripiego sui principi generali resta preferibile a legittimare la perdita di controllo totale.
 
@@ -6655,15 +6655,15 @@
 
 **D:** ⚠️ Che cosa ha confermato l'Agenzia delle Entrate con l'interpello 78/2021?
 **R:** Su «**la «classica» attività di detenzione di cryptovalute in un wallet con chiavi private**», **quattro** punti: detenzione «**sempre**» da dichiarare nel quadro RW «**senza limiti di importo**»; «**Fanno eccezione solo le valute virtuali detenute presso exchange italiani, in quanto «intermediari residenti» soggetti agli obblighi di comunicazione di cui al DL 167/1990**»; plusvalenze imponibili «**solo in caso di superamento della soglia di cui al comma 1-ter dell'art. 67 TUIR**»; «**Per «cessione» si intende qualsiasi scambio di una valuta contro una valuta differente**».
-**Opzione:** Che la detenzione va sempre dichiarata nel quadro RW senza limiti di importo, salvo le valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
+**Opzione:** Che la detenzione va sempre dichiarata nel quadro RW senza limiti di importo, salvo le sole valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
 **Distrattori:**
-- Che la detenzione va dichiarata nel quadro RW solo oltre i 51.645 euro, salvo le valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
+- Che la detenzione va dichiarata nel quadro RW solo oltre i 51.645 euro, salvo le sole valute detenute presso exchange italiani; che le plusvalenze sono imponibili solo oltre la soglia del comma 1-ter dell'art. 67 TUIR; e che per cessione si intende qualsiasi scambio di una valuta contro una valuta differente.
 - Che è importante garantire che la legislazione dell'Unione sia adeguata all'era digitale e che l'Unione ha interesse politico a esplorare, sviluppare e promuovere la diffusione di tecnologie trasformative nel settore finanziario, compresa la DLT.
-- Che la maggioranza dei rispondenti considera il CSDR tecnologicamente neutro e capace di accogliere le nuove tecnologie, ma che molti di loro segnalano una serie di temi che beneficerebbero di chiarimenti per assicurare la certezza del diritto ai CSD
+- Che i token collegati ad attività non sono assimilabili a strumenti finanziari, moneta elettronica, depositi o depositi strutturati.
 
 **D:** ⚠️ Che cosa si intende per «cessione» secondo gli interpelli dell'Agenzia delle Entrate?
 **R:** «**Per «cessione» si intende qualsiasi scambio di una valuta contro una valuta differente**». ⚠️ La formula è **identica negli interpelli 78/2021 e 397/2022** ed è larghissima: comprende anche lo **scambio cripto contro cripto**. ⚠️ È esattamente ciò che la **proposta di legge Zanichelli** vorrebbe ribaltare, prevedendo la realizzazione **solo alla conversione in valute «fiat»**.
-**Opzione:** Qualsiasi scambio di una valuta contro una valuta differente, compreso lo scambio fra due valute virtuali.
+**Opzione:** Qualsiasi scambio di una valuta contro una valuta differente.
 **Distrattori:**
 - Soltanto la conversione di una valuta virtuale in valuta avente corso legale.
 - Soltanto lo scambio fra due valute virtuali diverse.
@@ -6691,7 +6691,7 @@
 **Distrattori:**
 - Sì, perché le valute virtuali sono attività finanziarie detenute all'estero.
 - No, perché le valute virtuali non sono attività finanziarie ma beni immateriali.
-- Sì, ma soltanto quando siano detenute presso un intermediario estero qualificabile come banca.
+- Sì, perché l'IVAFE si applica ai depositi e conti correnti di qualsiasi natura, non solo bancaria.
 
 **D:** ⚠️ In quale caso il problema dell'IVAFE sulle valute virtuali potrebbe comunque porsi?
 **R:** «**Occorre quindi prestare attenzione alla qualificazione del deposito sotto il profilo sostanziale: ove l'intermediario estero si qualificasse come «banca», il problema potrebbe porsi.**» ⚠️ L'eccezione è **ipotetica e in condizionale** — «potrebbe porsi», non «si pone» — e il criterio è **sostanziale**, cioè la qualificazione effettiva del deposito, non la sua denominazione.
@@ -6809,10 +6809,10 @@
 
 **D:** ⚠️ Qual è l'asse che distingue il token collegato ad attività dal token di moneta elettronica?
 **R:** **Quante grandezze di riferimento**, più uno scopo. Il **token collegato ad attività** guarda a un **paniere** («diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività»); il **token di moneta elettronica** guarda a **una sola** moneta fiduciaria avente corso legale **e** ha per «**scopo principale**» quello di essere «**mezzo di scambio**». ⚠️ Il riferimento alla **stabilità del valore** è **comune** ai due e **non discrimina** — cambia solo il verbo: «**intende**» il primo, «**mira a**» il secondo.
-**Opzione:** Il numero delle grandezze di riferimento: un paniere per il token collegato ad attività, una sola moneta fiduciaria per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
+**Opzione:** Le grandezze di riferimento: diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività per il token collegato ad attività; una moneta fiduciaria avente corso legale per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
 **Distrattori:**
 - La stabilità del valore: solo il token di moneta elettronica intende mantenere un valore stabile, mentre il token collegato ad attività ha valore variabile.
-- Il numero delle grandezze di riferimento: una sola moneta fiduciaria per il token collegato ad attività, un paniere per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
+- Le grandezze di riferimento: una moneta fiduciaria avente corso legale per il token collegato ad attività; diverse monete fiduciarie aventi corso legale, una o più merci o una o più cripto-attività, oppure una combinazione di tali attività per il token di moneta elettronica, che ha inoltre per scopo principale l'uso come mezzo di scambio.
 - La tecnologia impiegata: il token collegato ad attività richiede la tecnologia di registro distribuito, il token di moneta elettronica può utilizzare una tecnologia analoga.
 
 **D:** ⚠️ Con quali verbi le definizioni dell'articolo 3 esprimono la stabilità del valore dei due token?
@@ -6841,7 +6841,7 @@
 
 **D:** ⚠️ A quali cripto-attività si applica l'articolo 4 del MiCAR?
 **R:** Alle «**cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica**»: la rubrica è «**Offerte al pubblico di cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica e ammissione di tali cripto-attività alla negoziazione su una piattaforma di negoziazione di cripto-attività**». ⚠️ L'ambito è definito **per sottrazione** — i due token «stabili» hanno una disciplina propria — ed è il punto tipico della **negazione soppressa**: togliere «**diverse dai**» ribalta la norma lasciando la frase quasi identica.
-**Opzione:** Alle cripto-attività diverse dai token collegati ad attività e dai token di moneta elettronica.
+**Opzione:** Alle cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica.
 **Distrattori:**
 - Alle sole cripto-attività costituite da token collegati ad attività o da token di moneta elettronica.
 - A tutte le cripto-attività, compresi i token collegati ad attività e i token di moneta elettronica.
@@ -6849,9 +6849,9 @@
 
 **D:** ⚠️ Quali condizioni pone l'articolo 4, paragrafo 1, per offrire al pubblico cripto-attività diverse dai token collegati ad attività o di moneta elettronica?
 **R:** **Cinque**, tutte in capo all'emittente: «**a) sia un soggetto giuridico**»; «**b) abbia redatto un White Paper sulle cripto-attività… conformemente all'articolo 5**»; «**c) abbia notificato tale White Paper… conformemente all'articolo 7**»; «**d) abbia pubblicato il White Paper… conformemente all'articolo 8**»; «**e) rispetti gli obblighi di cui all'articolo 13**». ⚠️ Sono **cinque, non quattro**: il transcript si ferma agli obblighi informativi e **non nomina la lettera e)**, cioè il rinvio agli **obblighi di condotta dell'art. 13**.
-**Opzione:** Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento.
+**Opzione:** Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività conformemente agli articoli 5, 7 e 8, e rispetti gli obblighi di cui all'articolo 13.
 **Distrattori:**
-- Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e ne abbia ottenuto l'approvazione preventiva dall'autorità competente.
+- Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività conformemente agli articoli 5, 7 e 8, e ne abbia ottenuto l'approvazione preventiva dall'autorità competente.
 - In entrambi i casi è soggetto ai requisiti che si applicano a un sistema multilaterale di negoziazione: ai sensi della MiFID per il primo atto, ai sensi del MiFIR per il secondo.
 - Il CSDR: i DLT SS e il CSD che li gestisce, e i DLT TSS, sono soggetti a tutti i requisiti pertinenti ai sensi della CSDR.
 
@@ -6865,9 +6865,9 @@
 
 **D:** ⚠️ In quali casi l'articolo 4, paragrafo 2, esenta dagli obblighi sul white paper?
 **R:** **Sei**: «le cripto-attività sono **offerte gratuitamente**»; sono «**create automaticamente tramite mining a titolo di ricompensa per il mantenimento della DLT per la convalida delle operazioni**»; sono «**uniche e non fungibili** con altre cripto-attività»; sono «offerte a **meno di 150 persone fisiche o giuridiche per ogni Stato membro** in cui tali persone agiscono **per proprio conto**»; «nell'arco di un periodo di **12 mesi**, il corrispettivo totale… **non supera 1 000 000 EUR**»; l'offerta «è rivolta **esclusivamente agli investitori qualificati** e le cripto-attività possono essere **detenute solo da tali investitori qualificati**». ⚠️ Il transcript ne cita **tre su sei**: mancano **mining**, **unicità e non fungibilità** (gli NFT) e la **soglia in euro**.
-**Opzione:** Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT; cripto-attività uniche e non fungibili; offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto; corrispettivo totale non superiore a 1 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
+**Opzione:** Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT per la convalida delle operazioni; cripto-attività uniche e non fungibili; offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto; corrispettivo totale non superiore, in 12 mesi, a 1 000 000 EUR o all'importo equivalente in un'altra valuta o in cripto-attività; offerta rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
 **Distrattori:**
-- Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT; cripto-attività uniche e non fungibili; offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto; corrispettivo totale non superiore a 5 000 000 EUR in 12 mesi; offerta rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
+- Offerta gratuita; creazione automatica tramite mining come ricompensa per il mantenimento della DLT per la convalida delle operazioni; cripto-attività uniche e non fungibili; offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto; corrispettivo totale non superiore, in 12 mesi, a 5 000 000 EUR o all'importo equivalente in un'altra valuta o in cripto-attività; offerta rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
 - MiFID: obbligo di intermediazione. MiFIR: transaction reporting.
 - Per gli operatori UE il collegamento è la filiale in Italia o la libera prestazione di servizi; per i non-UE la filiale in Italia o l'autorizzazione a operare in Italia.
 
@@ -6921,24 +6921,24 @@
 
 **D:** Che cosa deve contenere il white paper sulle cripto-attività secondo l'articolo 5?
 **R:** **Sette** voci: «**a) una descrizione dettagliata dell'emittente e una presentazione dei principali partecipanti all'elaborazione e allo sviluppo del progetto**»; «**b) una descrizione dettagliata del progetto dell'emittente, del tipo di cripto-attività… dei motivi… e dell'uso previsto della moneta fiduciaria o di altre cripto-attività raccolte tramite l'offerta al pubblico**»; «**c) una descrizione dettagliata delle caratteristiche dell'offerta al pubblico**»; «**d) una descrizione dettagliata dei diritti e degli obblighi connessi alle cripto-attività e delle procedure e condizioni per l'esercizio di tali diritti**»; «**e) informazioni sulla tecnologia e gli standard sottostanti**»; «**f) una descrizione dettagliata dei rischi**»; e infine «**gli elementi informativi specificati nell'allegato I**» \[la slide etichetta questa voce «a)», refuso per *g)*]. ⚠️ Il rinvio all'**allegato I** è la voce che il transcript omette.
-**Opzione:** Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto dei fondi raccolti; caratteristiche dell'offerta; diritti e obblighi connessi; informazioni su tecnologia e standard; descrizione dei rischi; elementi informativi specificati nell'allegato I.
+**Opzione:** Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto della moneta fiduciaria o di altre cripto-attività raccolte; caratteristiche dell'offerta; diritti e obblighi connessi e procedure e condizioni per l'esercizio di tali diritti; informazioni su tecnologia e standard; descrizione dei rischi; elementi informativi specificati nell'allegato I.
 **Distrattori:**
-- Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto dei fondi raccolti; caratteristiche dell'offerta; diritti e obblighi connessi; informazioni su tecnologia e standard; descrizione dei rischi; bilanci certificati degli ultimi tre esercizi.
+- Descrizione dell'emittente e dei principali partecipanti al progetto; descrizione del progetto, del tipo di cripto-attività, dei motivi dell'offerta e dell'uso previsto della moneta fiduciaria o di altre cripto-attività raccolte; caratteristiche dell'offerta; diritti e obblighi connessi e procedure e condizioni per l'esercizio di tali diritti; informazioni su tecnologia e standard; descrizione dei rischi; bilanci certificati degli ultimi tre esercizi.
 - Il DL 34/2019, convertito nella Legge 58/2019, che ha istituito Comitato FinTech e Sandbox; il D.Lgs. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il DM 100/2021, con le disposizioni di attuazione.
 - Governance e organizzazione interna (art. 5); risk management (artt. 6-16); incident management e reporting (artt. 17-23); fornitori terzi di servizi ICT (artt. 28-44).
 
 **D:** Quali dati deve indicare il white paper sulle caratteristiche dell'offerta al pubblico?
 **R:** «**Una descrizione dettagliata delle caratteristiche dell'offerta al pubblico, in particolare il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e i termini e le condizioni di sottoscrizione.**» ⚠️ **Tre** dati: **numero**, **prezzo di emissione**, **termini e condizioni di sottoscrizione**.
-**Opzione:** Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione e i termini e le condizioni di sottoscrizione.
+**Opzione:** Il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e i termini e le condizioni di sottoscrizione.
 **Distrattori:**
-- Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione e il valore di mercato atteso alla chiusura dell'offerta.
+- Il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e il valore di mercato atteso alla chiusura dell'offerta.
 - L'offerta di token di sicurezza, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e la distribuzione di quote di fondi.
 
 **D:** Che cosa devono coprire, nel white paper, le informazioni sulla tecnologia e la descrizione dei rischi?
 **R:** La tecnologia: «**informazioni sulla tecnologia e gli standard sottostanti applicati dall'emittente delle cripto-attività che consentono la detenzione, la conservazione e il trasferimento di tali cripto-attività**» — **tre** operazioni. I rischi: «**una descrizione dettagliata dei rischi relativi all'emittente delle cripto-attività, alle cripto-attività, all'offerta al pubblico delle cripto-attività e all'attuazione del progetto**» — **quattro** oggetti di rischio, fra cui l'**attuazione del progetto**.
 **Opzione:** La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico e all'attuazione del progetto.
 **Distrattori:**
-- La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività e all'offerta al pubblico.
+- La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico e alla solvibilità dei singoli acquirenti.
 - Il livello di sicurezza informatica incorporato e la mancanza di chiare linee di responsabilità in caso di problemi operativi.
 - La neutralità tecnologica del CSDR e il ruolo dei CSD, cioè il trasferimento di ruolo dai CSD ai DLT TSS.
 
@@ -6968,16 +6968,16 @@
 
 **D:** Che cos'è la sintesi del white paper e a che scopo è prevista?
 **R:** «**Il White Paper sulle cripto-attività contiene una sintesi che, in breve e in un linguaggio non tecnico, fornisce informazioni fondamentali sull'offerta al pubblico delle cripto-attività o sulla prevista ammissione… alla negoziazione… e in particolare sugli elementi essenziali delle cripto-attività in questione. Il formato e il contenuto della sintesi… forniscono, insieme al White Paper…, informazioni adeguate sugli elementi essenziali… al fine di aiutarne i potenziali acquirenti a prendere una decisione informata.**» ⚠️ **Due** qualificazioni della forma («in breve», «in un linguaggio non tecnico») e **due livelli** di informazione: «**fondamentali**» quelle della sintesi, «**adeguate**» quelle che sintesi e white paper danno **insieme**. Il docente la chiama «una sorta di **executive summary**», prevista perché «gli investitori molto spesso si affidano quasi esclusivamente a queste sintesi».
-**Opzione:** Una sintesi che in breve e in linguaggio non tecnico fornisce informazioni fondamentali sull'offerta e sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per una decisione informata.
+**Opzione:** Una sintesi che, in breve e in un linguaggio non tecnico, fornisce informazioni fondamentali sull'offerta al pubblico o sulla prevista ammissione alla negoziazione, e in particolare sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per aiutare i potenziali acquirenti a prendere una decisione informata.
 **Distrattori:**
-- Una sintesi che in breve e in linguaggio tecnico fornisce informazioni fondamentali sull'offerta e sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per una decisione informata.
+- Una sintesi che, in breve e in un linguaggio tecnico, fornisce informazioni fondamentali sull'offerta al pubblico o sulla prevista ammissione alla negoziazione, e in particolare sugli elementi essenziali delle cripto-attività, e che insieme al white paper fornisce informazioni adeguate per aiutare i potenziali acquirenti a prendere una decisione informata.
 - Il redditometro e l'anagrafe dei rapporti, che permettono di intercettare le manifestazioni di capacità economica derivanti dalle attività in valute virtuali.
 
 **D:** ⚠️ Quale avvertenza deve contenere la sintesi del white paper?
 **R:** **Quattro** voci: «**a) dovrebbe essere letta come un'introduzione al White Paper**»; «**b) il potenziale acquirente dovrebbe basare la decisione di acquistare una cripto-attività sul contenuto dell'intero White Paper**»; «**c) l'offerta al pubblico di cripto-attività non costituisce un'offerta o una sollecitazione alla vendita di strumenti finanziari e una simile offerta… può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale**»; «**d) il White Paper sulle cripto-attività non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 o un altro documento di offerta**». ⚠️ Le due voci finali tracciano la **linea di confine col diritto dei mercati**, e il numero **2017/1129** sta **solo sulla slide** (il docente dice «la direttiva dei prospetti», che è invece un **regolamento**).
-**Opzione:** Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto va basata sull'intero documento; che l'offerta di cripto-attività non è offerta o sollecitazione alla vendita di strumenti finanziari e una simile offerta può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale; che il white paper non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 né altro documento di offerta.
+**Opzione:** Che la sintesi dovrebbe essere letta come un'introduzione al white paper; che il potenziale acquirente dovrebbe basare la decisione di acquistare una cripto-attività sul contenuto dell'intero white paper; che l'offerta al pubblico di cripto-attività non costituisce un'offerta o una sollecitazione alla vendita di strumenti finanziari e una simile offerta può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale; che il white paper non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 o un altro documento di offerta ai sensi della legislazione dell'Unione o del diritto nazionale.
 **Distrattori:**
-- Che la sintesi va letta come introduzione al white paper; che la decisione di acquisto va basata sull'intero documento; che l'offerta di cripto-attività costituisce sollecitazione alla vendita di strumenti finanziari e una simile offerta può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale; che il white paper non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 né altro documento di offerta.
+- Che la sintesi dovrebbe essere letta come un'introduzione al white paper; che il potenziale acquirente dovrebbe basare la decisione di acquistare una cripto-attività sul contenuto dell'intero white paper; che l'offerta al pubblico di cripto-attività costituisce un'offerta o una sollecitazione alla vendita di strumenti finanziari e una simile offerta può essere effettuata solo mediante prospetto o altri documenti di offerta ai sensi del diritto nazionale; che il white paper non costituisce un prospetto ai sensi del regolamento (UE) 2017/1129 o un altro documento di offerta ai sensi della legislazione dell'Unione o del diritto nazionale.
 - Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento.
 - Gli strumenti finanziari DLT sono un sottoinsieme della categoria più generica degli strumenti finanziari MiFID II: ciò che non soddisfa i requisiti del Regolamento DLT è coperto dalla disciplina MiFID II già esistente.
 
@@ -6999,9 +6999,9 @@
 
 **D:** Che cosa prevedono gli articoli 8 e 10 sulla pubblicazione del white paper e sui suoi effetti?
 **R:** L'art. 8: gli emittenti pubblicano «**entro la data di inizio dell'offerta al pubblico… o dell'ammissione… alla negoziazione**», e «**la versione del White Paper… pubblicato… è identica a quella notificata all'autorità competente**». L'art. 10: «**dopo la pubblicazione del White Paper… gli emittenti… possono offrire le proprie cripto-attività… in tutta l'Unione**», e chi ha pubblicato conformemente all'art. 8 «**non è soggett\[o] a ulteriori obblighi di informativa per quanto riguarda l'offerta di dette cripto-attività**». ⚠️ L'**identità fra versione notificata e pubblicata** è ciò che chiude il meccanismo dell'art. 7: senza approvazione ex ante, il controllo sta nell'impossibilità di pubblicare un testo diverso. ⚠️ L'art. 10 produce **due** effetti: il **passaporto europeo** e l'**esaurimento dell'informativa**. ⚠️ Entrambi gli articoli stanno **solo sulle slide**.
-**Opzione:** La pubblicazione entro la data di inizio dell'offerta, in versione identica a quella notificata; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione senza ulteriori obblighi di informativa.
+**Opzione:** La pubblicazione entro la data di inizio dell'offerta al pubblico o dell'ammissione alla negoziazione, in versione identica a quella notificata; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione e di chiedere l'ammissione alla negoziazione, senza ulteriori obblighi di informativa per quanto riguarda l'offerta.
 **Distrattori:**
-- La pubblicazione entro la data di inizio dell'offerta, in versione anche diversa da quella notificata purché più completa; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione senza ulteriori obblighi di informativa.
+- La pubblicazione entro la data di inizio dell'offerta al pubblico o dell'ammissione alla negoziazione, in versione anche diversa da quella notificata purché più completa; e, dopo la pubblicazione, la possibilità di offrire in tutta l'Unione e di chiedere l'ammissione alla negoziazione, senza ulteriori obblighi di informativa per quanto riguarda l'offerta.
 - Una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD.
 - Potrebbero già istituire una piattaforma di negoziazione e regolamento basata sulla DLT fuori dall'ambito del CSDR, ma con un ambito di attività limitato agli strumenti finanziari diversi dai valori mobiliari.
 
@@ -7022,9 +7022,9 @@
 
 **D:** ⚠️ Che cosa prevede l'articolo 14 sulla responsabilità degli emittenti?
 **R:** **Tre** previsioni: che gli emittenti «**siano responsabili in caso di violazione dell'articolo 5**», e allora «**il possessore delle cripto-attività può chiedere un risarcimento, a tale emittente… per i danni che gli sono stati arrecati a causa di detta violazione**»; «**che la clausola di esclusione della responsabilità civile sia priva di qualsiasi effetto giuridico**»; e che l'onere della prova spetti al possessore. ⚠️ La responsabilità è agganciata a **una sola norma, l'art. 5** (contenuto e forma del white paper, compresa la sintesi), **non** al regolamento in generale: il transcript dice invece genericamente «violazioni degli articoli del MiCAR». ⚠️ **Art. 13 = condotta, art. 14 = responsabilità**: per i quiz vale la slide.
-**Opzione:** La responsabilità dell'emittente per violazione dell'articolo 5, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico del possessore.
+**Opzione:** La responsabilità dell'emittente per violazione dell'articolo 5, con diritto al risarcimento del possessore; la clausola di esclusione della responsabilità civile priva di qualsiasi effetto giuridico; l'onere della prova a carico del possessore.
 **Distrattori:**
-- La responsabilità dell'emittente per violazione di qualsiasi norma del regolamento, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico del possessore.
+- La responsabilità dell'emittente per violazione di qualsiasi norma del regolamento, con diritto al risarcimento del possessore; la clausola di esclusione della responsabilità civile priva di qualsiasi effetto giuridico; l'onere della prova a carico del possessore.
 - L'ESMA su DLT MTF, DLT SS e DLT TSS, con parere non vincolante su esenzioni e adeguatezza del tipo di DLT; le Autorità competenti su DLT SS e DLT TSS, con parere non vincolante sulle caratteristiche del regolamento titoli.
 
 **D:** ⚠️ Su chi grava l'onere della prova in caso di violazione dell'articolo 5, e che cosa deve provare?
@@ -7053,33 +7053,33 @@
 
 **D:** ⚠️ Che cosa prevede l'articolo 15 del MiCAR per i token collegati ad attività?
 **R:** Un regime di **autorizzazione**: «**Nessun emittente… offer\[e] al pubblico… a meno che detto emittente non abbia ricevuto l'apposita autorizzazione dall'autorità competente del suo Stato membro d'origine conformemente all'articolo 19.**» ⚠️ È il **salto di regime** rispetto alle cripto-attività della lezione precedente, che richiedevano solo white paper, notifica e pubblicazione: qui serve «una specifica **licenza**». ⚠️ L'autorità è quella dello **Stato membro d'origine** e la procedura è quella dell'**art. 19**.
-**Opzione:** Che nessun emittente può offrirli al pubblico senza l'autorizzazione dell'autorità competente del suo Stato membro d'origine.
+**Opzione:** Che nessun emittente può offrirli al pubblico senza l'apposita autorizzazione dell'autorità competente del suo Stato membro d'origine, conformemente all'articolo 19.
 **Distrattori:**
-- Che nessun emittente può offrirli al pubblico senza l'autorizzazione dell'Autorità europea degli strumenti finanziari e dei mercati.
+- Che nessun emittente può offrirli al pubblico senza l'apposita autorizzazione dell'Autorità europea degli strumenti finanziari e dei mercati, conformemente all'articolo 19.
 - Che gli emittenti di token di moneta elettronica e i fornitori di servizi per le cripto-attività concedano interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token.
 - Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, con franchigia; sì al monitoraggio fiscale, no all'IVAFE.
 
 **D:** ⚠️ In quali casi non si applica l'obbligo di autorizzazione per i token collegati ad attività?
 **R:** **Due**: «**a) su un periodo di 12 mesi, calcolato alla fine di ciascun giorno di calendario, l'importo medio dei token collegati ad attività in circolazione non supera i 5 000 000 EUR o l'importo equivalente in un'altra valuta**»; «**b) l'offerta al pubblico dei token collegati ad attività è rivolta esclusivamente a investitori qualificati e i token collegati ad attività possono essere detenuti solo da tali investitori qualificati**». ⚠️ Un'esenzione **quantitativa** e una **qualitativa**. Per il docente: «5 milioni di euro in 12 mesi è una quantità **bassa**», e l'investitore qualificato «**non è l'uomo di strada**… **banche, fondi, SGR, SIM**».
-**Opzione:** Se l'importo medio in circolazione non supera i 5 000 000 EUR su un periodo di 12 mesi calcolato alla fine di ciascun giorno di calendario, oppure se l'offerta è rivolta esclusivamente a investitori qualificati, che soli possono detenerli.
+**Opzione:** Se, su un periodo di 12 mesi calcolato alla fine di ciascun giorno di calendario, l'importo medio dei token in circolazione non supera i 5 000 000 EUR o l'importo equivalente in un'altra valuta, oppure se l'offerta al pubblico è rivolta esclusivamente a investitori qualificati e i token possono essere detenuti solo da tali investitori qualificati.
 **Distrattori:**
-- Se l'importo medio in circolazione non supera i 1 000 000 EUR su un periodo di 12 mesi calcolato alla fine di ciascun giorno di calendario, oppure se l'offerta è rivolta esclusivamente a investitori qualificati, che soli possono detenerli.
+- Se, su un periodo di 12 mesi calcolato alla fine di ciascun giorno di calendario, l'importo medio dei token in circolazione non supera i 1 000 000 EUR o l'importo equivalente in un'altra valuta, oppure se l'offerta al pubblico è rivolta esclusivamente a investitori qualificati e i token possono essere detenuti solo da tali investitori qualificati.
 - Tassazione proporzionale al 26%, con esenzione se la giacenza media annua è inferiore o uguale a 51.645,69 euro per almeno 7 giorni lavorativi continuativi.
 - Per amministratori e dipendenti sono fringe benefit; per i terzi sono tassati al 26%.
 
 **D:** ⚠️ L'esenzione dall'autorizzazione libera anche dagli obblighi sul white paper?
 **R:** No: «**Gli emittenti di detti token collegati ad attività redigono tuttavia il White Paper sulle cripto-attività di cui all'articolo 17 e notificano tale White Paper e, se del caso, le loro comunicazioni di marketing all'autorità competente del loro Stato membro d'origine conformemente all'articolo 7.**» ⚠️ L'esenzione riguarda **solo l'autorizzazione**: restano la **redazione** (art. 17) e la **notifica** (art. 7, quello dei **20 giorni lavorativi** visto alla lezione 25), comunicazioni di marketing comprese.
-**Opzione:** No: gli emittenti esentati redigono comunque il white paper e lo notificano, con le eventuali comunicazioni di marketing, all'autorità competente del loro Stato membro d'origine.
+**Opzione:** No: gli emittenti esentati redigono comunque il white paper di cui all'articolo 17 e lo notificano, con le eventuali comunicazioni di marketing, all'autorità competente del loro Stato membro d'origine conformemente all'articolo 7.
 **Distrattori:**
 - Sì: l'esenzione copre l'autorizzazione e ogni obbligo informativo, compresi white paper e comunicazioni di marketing.
-- No: gli emittenti esentati redigono comunque il white paper, ma sono dispensati dalla notifica all'autorità competente.
-- No: gli emittenti esentati notificano comunque le comunicazioni di marketing, ma non sono tenuti a redigere il white paper.
+- No: gli emittenti esentati redigono comunque il white paper di cui all'articolo 17, ma sono dispensati dalla notifica all'autorità competente.
+- No: gli emittenti esentati notificano comunque le comunicazioni di marketing conformemente all'articolo 7, ma non sono tenuti a redigere il white paper.
 
 **D:** Quali informazioni deve contenere la domanda di autorizzazione per i token collegati ad attività?
 **R:** Secondo l'art. 16, par. 2: «**(a) l'indirizzo dell'emittente richiedente**»; «**(b) lo statuto dell'emittente richiedente**»; «**(c) un programma operativo che definisce il modello di business che l'emittente richiedente intende seguire**»; «**(d) un parere giuridico secondo cui i token collegati ad attività non sono assimilabili a strumenti finanziari, moneta elettronica, depositi o depositi strutturati**»; «**(e) una descrizione dettagliata dei dispositivi di governance dell'emittente richiedente**»; e, dopo l'elisione della slide, «**(l) la descrizione della politica di continuità operativa… di cui all'articolo 30, paragrafo 8**» e «**(m) una descrizione dei meccanismi di controllo interno e delle procedure di gestione del rischio di cui all'articolo 30, paragrafo 9**». ⚠️ Le lettere l) e m) rinviano a **due paragrafi diversi** dello stesso art. 30.
-**Opzione:** Indirizzo, statuto, programma operativo col modello di business, parere giuridico sulla non assimilabilità dei token, descrizione dei dispositivi di governance, politica di continuità operativa e meccanismi di controllo interno e gestione del rischio
+**Opzione:** L'indirizzo dell'emittente richiedente; lo statuto dell'emittente richiedente; un programma operativo che definisce il modello di business che l'emittente richiedente intende seguire; un parere giuridico secondo cui i token collegati ad attività non sono assimilabili a strumenti finanziari, moneta elettronica, depositi o depositi strutturati; una descrizione dettagliata dei dispositivi di governance dell'emittente richiedente; la descrizione della politica di continuità operativa dell'emittente richiedente di cui all'articolo 30, paragrafo 8; una descrizione dei meccanismi di controllo interno e delle procedure di gestione del rischio di cui all'articolo 30, paragrafo 9
 **Distrattori:**
-- Indirizzo, statuto, programma operativo col modello di business, parere giuridico sulla non assimilabilità dei token, descrizione dei dispositivi di governance, politica di continuità operativa e bilancio certificato degli ultimi tre esercizi
+- L'indirizzo dell'emittente richiedente; lo statuto dell'emittente richiedente; un programma operativo che definisce il modello di business che l'emittente richiedente intende seguire; un parere giuridico secondo cui i token collegati ad attività non sono assimilabili a strumenti finanziari, moneta elettronica, depositi o depositi strutturati; una descrizione dettagliata dei dispositivi di governance dell'emittente richiedente; la descrizione della politica di continuità operativa dell'emittente richiedente di cui all'articolo 30, paragrafo 8; il bilancio certificato degli ultimi tre esercizi
 - Esclusione per le valute estere, esenzione per gli strumenti finanziari, imponibilità al 22% per i beni
 - Ai fini IVA, come trattare le fattispecie riferite alla creazione, l'acquisizione, la detenzione e il trasferimento di crypto-asset; e quali sono le implicazioni politiche dei diversi trattamenti fiscali nei diversi paesi
 
@@ -7149,25 +7149,25 @@
 
 **D:** ⚠️ Per quali motivi l'autorità competente rifiuta l'autorizzazione?
 **R:** Solo «**se sussistono motivi oggettivi e dimostrabili**» per ritenere che: «**a) l'organo di amministrazione… possa mettere a repentaglio la gestione efficace, sana e prudente e la continuità operativa dell'emittente, nonché l'adeguata considerazione degli interessi dei suoi clienti e l'integrità del mercato**»; «**b) l'emittente richiedente non soddisfi o rischi di non soddisfare uno qualsiasi dei requisiti del presente titolo**»; «**c) il modello di business… possa costituire una grave minaccia per la stabilità finanziaria, la trasmissione della politica monetaria o la sovranità monetaria**». ⚠️ La lett. b) copre **due** situazioni, una **attuale** e una **prognostica**; la lett. c) elenca **tre** beni protetti.
-**Opzione:** Se sussistono motivi oggettivi e dimostrabili per ritenere che l'organo di amministrazione metta a repentaglio la gestione efficace, sana e prudente e la continuità operativa dell'emittente, nonché l'adeguata considerazione degli interessi dei suoi clienti e l'integrità del mercato, che l'emittente non soddisfi o rischi di non soddisfare i requisiti, o che il modello di business costituisca una grave minaccia per la stabilità finanziaria, la trasmissione della politica monetaria o la sovranità monetaria.
+**Opzione:** Se sussistono motivi oggettivi e dimostrabili per ritenere che l'organo di amministrazione dell'emittente richiedente possa mettere a repentaglio la gestione efficace, sana e prudente e la continuità operativa dell'emittente, nonché l'adeguata considerazione degli interessi dei suoi clienti e l'integrità del mercato, che l'emittente richiedente non soddisfi o rischi di non soddisfare uno qualsiasi dei requisiti del presente titolo, o che il modello di business dell'emittente richiedente possa costituire una grave minaccia per la stabilità finanziaria, la trasmissione della politica monetaria o la sovranità monetaria.
 **Distrattori:**
-- Se sussistono motivi oggettivi e dimostrabili per ritenere che l'organo di amministrazione metta a repentaglio la gestione efficace, sana e prudente e la continuità operativa dell'emittente, nonché l'adeguata considerazione degli interessi dei suoi clienti e l'integrità del mercato, che l'emittente non soddisfi già i requisiti, o che il modello di business costituisca una grave minaccia per la stabilità finanziaria, la trasmissione della politica monetaria o la sovranità monetaria.
+- Se sussistono motivi oggettivi e dimostrabili per ritenere che l'organo di amministrazione dell'emittente richiedente possa mettere a repentaglio la gestione efficace, sana e prudente e la continuità operativa dell'emittente, nonché l'adeguata considerazione degli interessi dei suoi clienti e l'integrità del mercato, che l'emittente richiedente non soddisfi o rischi di non soddisfare uno qualsiasi dei requisiti del presente titolo, o che il modello di business dell'emittente richiedente possa costituire una grave minaccia per la stabilità finanziaria, la trasmissione della politica monetaria o la sovranità fiscale.
 - Ove l'intermediario estero si qualificasse come banca, valutando il deposito sotto il profilo sostanziale.
 - Perché l'attività non è svolta in modo professionale nei confronti del pubblico, i volumi sono ridotti e si tratta di persone fisiche che operano sul proprio patrimonio.
 
 **D:** ⚠️ In quali situazioni le autorità competenti revocano l'autorizzazione?
 **R:** **Sette**: «**a) l'emittente non si è avvalso della propria autorizzazione entro sei mesi dalla concessione della stessa**»; «**b) l'emittente non si è avvalso dell'autorizzazione per sei mesi consecutivi**»; «**c) l'emittente ha ottenuto l'autorizzazione con mezzi irregolari, compresa la presentazione di false dichiarazioni nella domanda… o in un White Paper… modificato conformemente all'articolo 21**»; «**d) l'emittente non soddisfa più le condizioni cui è subordinata l'autorizzazione**»; «**e) l'emittente ha violato gravemente le disposizioni del presente titolo**»; «**f) l'emittente è stato sottoposto a un piano di liquidazione ordinata, conformemente al diritto fallimentare nazionale applicabile**»; «**g) l'emittente ha espressamente rinunciato alla sua autorizzazione o ha deciso di cessare le proprie attività**». ⚠️ I primi **due** sono entrambi «sei mesi» ma diversi: **inerzia iniziale** e **inerzia sopravvenuta**.
-**Opzione:** Mancato utilizzo entro sei mesi dalla concessione; mancato utilizzo per sei mesi consecutivi; autorizzazione ottenuta con mezzi irregolari; venir meno delle condizioni; grave violazione delle disposizioni; piano di liquidazione ordinata; rinuncia espressa o decisione di cessare le attività.
+**Opzione:** L'emittente non si è avvalso della propria autorizzazione entro sei mesi dalla concessione della stessa; l'emittente non si è avvalso dell'autorizzazione per sei mesi consecutivi; l'emittente ha ottenuto l'autorizzazione con mezzi irregolari, compresa la presentazione di false dichiarazioni nella domanda di autorizzazione di cui all'articolo 16 o in un white paper sulle cripto-attività modificato conformemente all'articolo 21; l'emittente non soddisfa più le condizioni cui è subordinata l'autorizzazione; l'emittente ha violato gravemente le disposizioni del presente titolo; l'emittente è stato sottoposto a un piano di liquidazione ordinata, conformemente al diritto fallimentare nazionale applicabile; l'emittente ha espressamente rinunciato alla sua autorizzazione o ha deciso di cessare le proprie attività.
 **Distrattori:**
-- Mancato utilizzo entro dodici mesi dalla concessione; mancato utilizzo per dodici mesi consecutivi; autorizzazione ottenuta con mezzi irregolari; venir meno delle condizioni; grave violazione delle disposizioni; piano di liquidazione ordinata; rinuncia espressa o decisione di cessare le attività.
+- L'emittente non si è avvalso della propria autorizzazione entro dodici mesi dalla concessione della stessa; l'emittente non si è avvalso dell'autorizzazione per dodici mesi consecutivi; l'emittente ha ottenuto l'autorizzazione con mezzi irregolari, compresa la presentazione di false dichiarazioni nella domanda di autorizzazione di cui all'articolo 16 o in un white paper sulle cripto-attività modificato conformemente all'articolo 21; l'emittente non soddisfa più le condizioni cui è subordinata l'autorizzazione; l'emittente ha violato gravemente le disposizioni del presente titolo; l'emittente è stato sottoposto a un piano di liquidazione ordinata, conformemente al diritto fallimentare nazionale applicabile; l'emittente ha espressamente rinunciato alla sua autorizzazione o ha deciso di cessare le proprie attività.
 - Quando gli acquirenti devono fornire o impegnarsi a fornire dati personali all'emittente, o quando l'emittente riceve onorari, commissioni, benefici monetari o benefici non monetari di terzi.
 - Pregi: apertura di una finestra per la regolarizzazione del pregresso, fissazione di soglie minime nel quadro RW. Criticità: aspetti pratici dei calcoli, mancata caratterizzazione dei token, mancata qualificazione di valori ufficiali di riferimento.
 
 **D:** ⚠️ Quali elementi aggiunge l'articolo 17 al white paper dei token collegati ad attività?
 **R:** **Sette** voci: «**a) una descrizione dettagliata dei dispositivi di governance dell'emittente, compresa una descrizione del ruolo e delle responsabilità dei soggetti terzi**»; «**b) una descrizione dettagliata della riserva di attività di cui all'articolo 32**»; «**c) una descrizione dettagliata delle modalità di custodia delle attività di riserva, compresa la separazione delle attività, di cui all'articolo 33**»; «**d) in caso di investimento delle attività di riserva… una descrizione dettagliata della politica di investimento**»; «**e) informazioni dettagliate sulla natura e l'applicabilità dei diritti, compresi gli eventuali diritti di rimborso diretto o gli eventuali crediti…, compreso il modo in cui tali diritti possono essere trattati nell'ambito di procedure concorsuali**»; «**f) una descrizione dettagliata della procedura di trattamento dei reclami di cui all'articolo 27**»; «**g) gli elementi informativi specificati negli allegati I e II**». ⚠️ Gli allegati sono **due** qui, **uno** (I) per le cripto-attività dell'art. 5 e il **III** per i token di moneta elettronica.
-**Opzione:** Dispositivi di governance, compresi ruolo e responsabilità dei terzi; riserva di attività; modalità di custodia con separazione delle attività; politica di investimento delle riserve; natura e applicabilità dei diritti di rimborso e crediti, anche nelle procedure concorsuali; procedura di trattamento dei reclami; elementi informativi degli allegati I e II.
+**Opzione:** Una descrizione dettagliata dei dispositivi di governance dell'emittente, compresa una descrizione del ruolo e delle responsabilità dei soggetti terzi; una descrizione dettagliata della riserva di attività di cui all'articolo 32; una descrizione dettagliata delle modalità di custodia delle attività di riserva, compresa la separazione delle attività, di cui all'articolo 33; in caso di investimento delle attività di riserva di cui all'articolo 34, una descrizione dettagliata della politica di investimento applicata a tali attività di riserva; informazioni dettagliate sulla natura e l'applicabilità dei diritti, compresi gli eventuali diritti di rimborso diretto o gli eventuali crediti che i possessori possono avere sulle attività di riserva o nei confronti dell'emittente, compreso il modo in cui tali diritti possono essere trattati nell'ambito di procedure concorsuali; una descrizione dettagliata della procedura di trattamento dei reclami di cui all'articolo 27; gli elementi informativi specificati negli allegati I e II.
 **Distrattori:**
-- Dispositivi di governance, compresi ruolo e responsabilità dei terzi; riserva di attività; modalità di custodia con separazione delle attività; politica di investimento delle riserve; natura e applicabilità dei diritti di rimborso e crediti, anche nelle procedure concorsuali; procedura di trattamento dei reclami; elementi informativi dell'allegato III.
+- Una descrizione dettagliata dei dispositivi di governance dell'emittente, compresa una descrizione del ruolo e delle responsabilità dei soggetti terzi; una descrizione dettagliata della riserva di attività di cui all'articolo 32; una descrizione dettagliata delle modalità di custodia delle attività di riserva, compresa la separazione delle attività, di cui all'articolo 33; in caso di investimento delle attività di riserva di cui all'articolo 34, una descrizione dettagliata della politica di investimento applicata a tali attività di riserva; informazioni dettagliate sulla natura e l'applicabilità dei diritti, compresi gli eventuali diritti di rimborso diretto o gli eventuali crediti che i possessori possono avere sulle attività di riserva o nei confronti dell'emittente, compreso il modo in cui tali diritti possono essere trattati nell'ambito di procedure concorsuali; una descrizione dettagliata della procedura di trattamento dei reclami di cui all'articolo 27; gli elementi informativi specificati nell'allegato III.
 - Indirizzo, statuto, programma operativo col modello di business, parere giuridico sulla non assimilabilità dei token, descrizione dei dispositivi di governance, politica di continuità operativa e meccanismi di controllo interno e gestione del rischio
 - L'accountability alla Circolare di Banca d'Italia n. 285/2013 e alla normativa sulla protezione dei dati personali; la proporzionalità alla stessa Circolare 285 e agli orientamenti EBA sulla gestione delle esternalizzazioni.
 
@@ -7181,9 +7181,9 @@
 
 **D:** ⚠️ A quali condizioni un token di moneta elettronica può essere offerto al pubblico nell'Unione?
 **R:** Solo se l'emittente: «**a) sia autorizzato quale ente creditizio o "istituto di moneta elettronica" ai sensi dell'articolo 2, punto 1, della direttiva 2009/110/CE**»; «**b) sia conforme ai requisiti applicabili agli istituti di moneta elettronica di cui ai titoli II e III della direttiva 2009/110/CE, salvo diversa indicazione nel presente titolo**»; «**c) pubblichi un White Paper sulle cripto-attività notificato all'autorità competente, in conformità dell'articolo 46**». ⚠️ **Non c'è una licenza nuova**: il MiCAR rinvia a uno **statuto esistente** della direttiva sulla moneta elettronica. Le condizioni sono **tre e cumulative**.
-**Opzione:** Se l'emittente è autorizzato quale ente creditizio o istituto di moneta elettronica, è conforme ai requisiti dei titoli II e III della direttiva sulla moneta elettronica e pubblica un white paper notificato all'autorità competente.
+**Opzione:** Se l'emittente è autorizzato quale ente creditizio o istituto di moneta elettronica ai sensi dell'articolo 2, punto 1, della direttiva 2009/110/CE, è conforme ai requisiti applicabili agli istituti di moneta elettronica di cui ai titoli II e III della direttiva 2009/110/CE, salvo diversa indicazione nel presente titolo, e pubblica un white paper notificato all'autorità competente, in conformità dell'articolo 46.
 **Distrattori:**
-- Se l'emittente è autorizzato quale ente creditizio o istituto di moneta elettronica, è conforme ai requisiti dei titoli II e III della direttiva sulla moneta elettronica e ottiene l'approvazione preventiva del white paper dall'autorità competente.
+- Se l'emittente è autorizzato quale ente creditizio o istituto di moneta elettronica ai sensi dell'articolo 2, punto 1, della direttiva 2009/110/CE, è conforme ai requisiti applicabili agli istituti di moneta elettronica di cui ai titoli II e III della direttiva 2009/110/CE, salvo diversa indicazione nel presente titolo, e pubblica un white paper approvato dall'autorità competente, in conformità dell'articolo 46.
 - Sono tassati solo se realizzati da imprese; ai fini IVA sono imponibili al 22%.
 - Non all'atto dell'assegnazione, ma solo al momento della cessione dei beni o della prestazione dei servizi cui i token danno diritto.
 
@@ -7213,25 +7213,25 @@
 
 **D:** ⚠️ Che cosa vieta l'articolo 45 del MiCAR?
 **R:** «**Nessun emittente di token di moneta elettronica o fornitore di servizi per le cripto-attività concede interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token di moneta elettronica da parte del possessore dello stesso.**» ⚠️ I destinatari sono **due** — **emittenti** *e* **fornitori di servizi per le cripto-attività** — e il divieto non colpisce solo gli interessi ma «**qualsiasi altro beneficio legato alla durata del periodo di detenzione**»: è la **remunerazione del tempo** a essere vietata. ⚠️ La norma opera «**in deroga all'articolo 12 della direttiva 2009/110/CE**».
-**Opzione:** Che gli emittenti di token di moneta elettronica e i fornitori di servizi per le cripto-attività concedano interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token.
+**Opzione:** Che, in deroga all'articolo 12 della direttiva 2009/110/CE, gli emittenti di token di moneta elettronica e i fornitori di servizi per le cripto-attività concedano interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token.
 **Distrattori:**
-- Che i soli emittenti di token di moneta elettronica concedano interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token.
+- Che, in deroga all'articolo 12 della direttiva 2009/110/CE, i soli emittenti di token di moneta elettronica concedano interessi o qualsiasi altro beneficio legato alla durata del periodo di detenzione del token.
 - Che nessun emittente può offrirli al pubblico senza l'autorizzazione dell'autorità competente del suo Stato membro d'origine.
 - Un credito nei confronti dell'emittente: è vietato qualsiasi token di moneta elettronica che non offra un credito a tutti i possessori.
 
 **D:** Come devono essere investiti i fondi ricevuti in cambio di token di moneta elettronica?
 **R:** «**I fondi ricevuti dagli emittenti di token di moneta elettronica in cambio di token di moneta elettronica e che sono investiti in attività sicure e a basso rischio conformemente all'articolo 7, paragrafo 2, della direttiva 2009/110/CE sono investiti in attività denominate nella valuta di riferimento del token di moneta elettronica**» (art. 49). ⚠️ **Due vincoli sovrapposti**: attività «**sicure e a basso rischio**» e **denominate nella valuta di riferimento** del token. Il docente ne dà la ratio: evitare «casi di **speculazione**» e di **volatilità** difficile da gestire.
-**Opzione:** In attività sicure e a basso rischio, denominate nella valuta di riferimento del token di moneta elettronica.
+**Opzione:** In attività sicure e a basso rischio conformemente all'articolo 7, paragrafo 2, della direttiva 2009/110/CE, denominate nella valuta di riferimento del token di moneta elettronica.
 **Distrattori:**
-- In attività sicure e a basso rischio, denominate in euro quale che sia la valuta di riferimento del token.
+- In attività sicure e a basso rischio conformemente all'articolo 7, paragrafo 2, della direttiva 2009/110/CE, denominate in euro quale che sia la valuta di riferimento del token.
 - In attività sicure e a basso rischio, con libera scelta della valuta di denominazione da parte dell'emittente.
 - In attività denominate nella valuta di riferimento del token, anche ad alto rendimento purché diversificate.
 
 **D:** Quali informazioni deve contenere il white paper dei token di moneta elettronica?
 **R:** **Sette** voci (art. 46): «**a) una descrizione dell'emittente**»; «**b) una descrizione dettagliata del progetto dell'emittente e una presentazione dei principali partecipanti all'elaborazione e allo sviluppo del progetto**»; «**c) un'indicazione attestante se il White Paper… riguardi un'offerta al pubblico… e/o l'ammissione… alla negoziazione**»; «**d) una descrizione dettagliata dei diritti e degli obblighi connessi…, compreso il diritto di rimborso al valore nominale di cui all'articolo 44 e le procedure e le condizioni per l'esercizio di tali diritti**»; «**e) le informazioni sulla tecnologia e gli standard sottostanti… che consentono la detenzione, la conservazione e il trasferimento**»; «**f) i rischi relativi all'emittente…, ai token di moneta elettronica e alla realizzazione del progetto, compresa la tecnologia**»; «**g) gli elementi informativi specificati nell'allegato III**». ⚠️ L'allegato è il **III**, e la lett. c) usa il disgiuntivo **inclusivo** «**e/o**».
-**Opzione:** Descrizione dell'emittente; descrizione del progetto e dei principali partecipanti; indicazione se il documento riguardi un'offerta al pubblico e/o l'ammissione alla negoziazione; diritti e obblighi connessi, compreso il diritto di rimborso al valore nominale; informazioni su tecnologia e standard; rischi; elementi informativi dell'allegato III.
+**Opzione:** Una descrizione dell'emittente di token di moneta elettronica; una descrizione dettagliata del progetto dell'emittente e una presentazione dei principali partecipanti all'elaborazione e allo sviluppo del progetto; un'indicazione attestante se il white paper sulle cripto-attività riguardi un'offerta al pubblico di token di moneta elettronica e/o l'ammissione di tali token alla negoziazione su una piattaforma di negoziazione di cripto-attività; una descrizione dettagliata dei diritti e degli obblighi connessi ai token di moneta elettronica, compreso il diritto di rimborso al valore nominale di cui all'articolo 44 e le procedure e le condizioni per l'esercizio di tali diritti; le informazioni sulla tecnologia e gli standard sottostanti soddisfatti dall'emittente di token di moneta elettronica che consentono la detenzione, la conservazione e il trasferimento di tali token di moneta elettronica; i rischi relativi all'emittente di token di moneta elettronica, ai token di moneta elettronica e alla realizzazione del progetto, compresa la tecnologia; gli elementi informativi specificati nell'allegato III.
 **Distrattori:**
-- Descrizione dell'emittente; descrizione del progetto e dei principali partecipanti; indicazione se il documento riguardi un'offerta al pubblico e/o l'ammissione alla negoziazione; diritti e obblighi connessi, compreso il diritto di rimborso al valore nominale; informazioni su tecnologia e standard; rischi; elementi informativi degli allegati I e II.
+- Una descrizione dell'emittente di token di moneta elettronica; una descrizione dettagliata del progetto dell'emittente e una presentazione dei principali partecipanti all'elaborazione e allo sviluppo del progetto; un'indicazione attestante se il white paper sulle cripto-attività riguardi un'offerta al pubblico di token di moneta elettronica e/o l'ammissione di tali token alla negoziazione su una piattaforma di negoziazione di cripto-attività; una descrizione dettagliata dei diritti e degli obblighi connessi ai token di moneta elettronica, compreso il diritto di rimborso al valore nominale di cui all'articolo 44 e le procedure e le condizioni per l'esercizio di tali diritti; le informazioni sulla tecnologia e gli standard sottostanti soddisfatti dall'emittente di token di moneta elettronica che consentono la detenzione, la conservazione e il trasferimento di tali token di moneta elettronica; i rischi relativi all'emittente di token di moneta elettronica, ai token di moneta elettronica e alla realizzazione del progetto, compresa la tecnologia; gli elementi informativi specificati negli allegati I e II.
 - Con termini diversi per lo stesso contenuto: token collegato ad attività e token di moneta elettronica in luogo di asset-referenced token e token di denaro elettronico, monete fiduciarie in luogo di valute fiat, merci in luogo di materie prime.
 - In deroga all'articolo 11 della direttiva 2009/110/CE, agli emittenti di token di moneta elettronica si applicano solo gli obblighi seguenti in relazione all'emissione e alla rimborsabilità dei token di moneta elettronica.
 
@@ -7329,7 +7329,7 @@
 **Opzione:** No: la segnalazione degli incidenti gravi è obbligatoria, mentre la notifica delle minacce informatiche significative avviene su base volontaria.
 **Distrattori:**
 - Sì: sia la segnalazione degli incidenti gravi sia la notifica delle minacce informatiche significative sono obbligatorie.
-- No: la notifica delle minacce informatiche significative è obbligatoria, mentre la segnalazione degli incidenti gravi avviene su base volontaria.
+- Sì: la notifica delle minacce informatiche significative è obbligatoria, mentre la segnalazione degli incidenti gravi avviene su base volontaria.
 - No: entrambe avvengono su base volontaria, salvo richiesta dell'autorità competente.
 
 **D:** ⚠️ Quali principi devono considerare gli enti finanziari in sede di applicazione del DORA?
@@ -7382,9 +7382,9 @@
 
 **D:** Che cosa devono fare le entità finanziarie in materia di risk management secondo il DORA?
 **R:** «**Disporre di un quadro di gestione del cyber rischio solido, completo e ben documentato come parte del loro sistema complessivo di gestione del rischio**», e in particolare: «**utilizzare strumenti e sistemi di ICT resilienti, tali da ridurre al minimo l'impatto dei relativi rischi**»; «**identificare prontamente tutte le fonti di rischio e implementare meccanismi in grado di rilevare attività anomale**»; «**adottare procedure interne e misure di protezione e prevenzione**». ⚠️ **Tre** attributi del quadro — «**solido, completo e ben documentato**» — che è «**parte del… sistema complessivo di gestione del rischio**», non un sistema separato.
-**Opzione:** Disporre di un quadro di gestione del cyber rischio solido, completo e ben documentato, parte del sistema complessivo di gestione del rischio, con strumenti ICT resilienti, identificazione pronta di tutte le fonti di rischio, meccanismi di rilevazione delle attività anomale e procedure interne di protezione e prevenzione.
+**Opzione:** Disporre di un quadro di gestione del cyber rischio solido, completo e ben documentato, parte del sistema complessivo di gestione del rischio, con, tra le altre cose, strumenti e sistemi ICT resilienti, identificazione pronta di tutte le fonti di rischio, meccanismi di rilevazione delle attività anomale, procedure interne e misure di protezione e prevenzione.
 **Distrattori:**
-- Disporre di un quadro di gestione del cyber rischio solido, completo e ben documentato, autonomo e separato dal sistema complessivo di gestione del rischio, con strumenti ICT resilienti, identificazione pronta di tutte le fonti di rischio, meccanismi di rilevazione delle attività anomale e procedure interne di protezione e prevenzione.
+- Disporre di un quadro di gestione del cyber rischio solido, completo e ben documentato, autonomo e separato dal sistema complessivo di gestione del rischio, con, tra le altre cose, strumenti e sistemi ICT resilienti, identificazione pronta di tutte le fonti di rischio, meccanismi di rilevazione delle attività anomale, procedure interne e misure di protezione e prevenzione.
 - Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività e rispetti gli obblighi di condotta previsti dal regolamento.
 - La tecnologia e gli standard che consentono detenzione, conservazione e trasferimento; i rischi relativi all'emittente, alle cripto-attività, all'offerta al pubblico e all'attuazione del progetto.
 
@@ -7394,13 +7394,13 @@
 **Distrattori:**
 - Sì: le imprese esentate dagli obblighi rafforzati sono integralmente escluse dalla disciplina sul rischio ICT.
 - No: le imprese esentate restano soggette agli obblighi rafforzati, salva una proroga dei termini di adeguamento.
-- Sì, ma solo se si tratta di micro imprese; in ogni altro caso restano dovuti gli obblighi rafforzati.
+- No: restano comunque dovute le sole misure basilari di mappatura, mentre la gestione del rischio ICT è esclusa.
 
 **D:** Che cosa devono prevedere le entità finanziarie in materia di gestione degli incidenti?
 **R:** «**prevedere e implementare politiche di continuità operativa e sistemi e piani di ripristino in caso di disastro relativo alle ICT, quale conseguenza ad esempio di un cyberattacco**»; «**dotarsi di capacità e personale idonei a rilevare vulnerabilità, minacce, incidenti e attacchi informatici e valutare le possibili conseguenze sulla loro resilienza operativa digitale**»; «**prevedere piani di comunicazione nei confronti dei vari stakeholder**». ⚠️ Gli oggetti da rilevare sono **quattro**: «**vulnerabilità, minacce, incidenti e attacchi informatici**». ⚠️ La capacità richiesta è **doppia**: mezzi **e personale**.
-**Opzione:** Politiche di continuità operativa e piani di ripristino in caso di disastro ICT; capacità e personale idonei a rilevare vulnerabilità, minacce, incidenti e attacchi informatici e valutarne le conseguenze; piani di comunicazione ai vari stakeholder.
+**Opzione:** Politiche di continuità operativa e sistemi e piani di ripristino in caso di disastro ICT; capacità e personale idonei a rilevare vulnerabilità, minacce, incidenti e attacchi informatici e valutarne le possibili conseguenze sulla resilienza operativa digitale; piani di comunicazione ai vari stakeholder.
 **Distrattori:**
-- Politiche di continuità operativa e piani di ripristino in caso di disastro ICT; capacità e personale idonei a rilevare i soli attacchi informatici già in corso; piani di comunicazione ai vari stakeholder.
+- Politiche di continuità operativa e sistemi e piani di ripristino in caso di disastro ICT; capacità e personale idonei a rilevare i soli attacchi informatici già in corso e valutarne le possibili conseguenze sulla resilienza operativa digitale; piani di comunicazione ai vari stakeholder.
 - Un'imposta sostitutiva del 4% sulle posizioni pregresse e una soglia minima di 15.000 per la dichiarazione nel quadro RW, con permanenza dell'esenzione da IVAFE.
 - Norme per l'istituzione e l'attuazione di un quadro di sorveglianza per i fornitori terzi critici di servizi TIC, allorché forniscono i loro servizi a entità finanziarie.
 
@@ -7430,17 +7430,17 @@
 
 **D:** Quali step principali elenca la slide sugli obblighi di gestione dei rischi TIC?
 **R:** «**segnalazione alle autorità competenti degli incidenti gravi connessi alle TIC e notifica, su base volontaria, delle minacce informatiche significative**»; «**segnalazione alle autorità competenti, da parte delle entità finanziarie di cui all'articolo 2, paragrafo 1, lettere da a) a d), di gravi incidenti operativi o relativi alla sicurezza dei pagamenti**»; «**test di resilienza operativa digitale**»; «**condivisione di dati e di informazioni in relazione alle vulnerabilità e alle minacce informatiche**»; «**misure relative alla solida gestione dei rischi informatici derivanti da terzi**». ⚠️ La slide 11 dice «**lettere da a) a d)**», ma la slide 4 (art. 1, in inglese) dice «**points (a) to (c)**»: **le due slide non coincidono**.
-**Opzione:** Segnalazione degli incidenti gravi e notifica volontaria delle minacce significative; segnalazione dei gravi incidenti operativi o di sicurezza dei pagamenti; test di resilienza operativa digitale; condivisione di dati e informazioni su vulnerabilità e minacce; misure sulla solida gestione dei rischi informatici derivanti da terzi.
+**Opzione:** Segnalazione alle autorità competenti degli incidenti gravi connessi alle TIC e notifica, su base volontaria, delle minacce informatiche significative; segnalazione alle autorità competenti, da parte delle entità finanziarie di cui all'articolo 2, paragrafo 1, lettere da a) a d), di gravi incidenti operativi o relativi alla sicurezza dei pagamenti; test di resilienza operativa digitale; condivisione di dati e di informazioni in relazione alle vulnerabilità e alle minacce informatiche; misure relative alla solida gestione dei rischi informatici derivanti da terzi.
 **Distrattori:**
-- Segnalazione degli incidenti gravi e notifica obbligatoria delle minacce significative; segnalazione dei gravi incidenti operativi o di sicurezza dei pagamenti; test di resilienza operativa digitale; condivisione di dati e informazioni su vulnerabilità e minacce; misure sulla solida gestione dei rischi informatici derivanti da terzi.
-- Indirizzo, statuto, programma operativo col modello di business, parere giuridico sulla non assimilabilità dei token, descrizione dei dispositivi di governance, politica di continuità operativa e meccanismi di controllo interno e gestione del rischio
+- Segnalazione alle autorità competenti degli incidenti gravi connessi alle TIC e notifica obbligatoria delle minacce informatiche significative; segnalazione alle autorità competenti, da parte delle entità finanziarie di cui all'articolo 2, paragrafo 1, lettere da a) a d), di gravi incidenti operativi o relativi alla sicurezza dei pagamenti; test di resilienza operativa digitale; condivisione di dati e di informazioni in relazione alle vulnerabilità e alle minacce informatiche; misure relative alla solida gestione dei rischi informatici derivanti da terzi.
+- Indirizzo, statuto, programma operativo col modello di business, parere giuridico sulla non assimilabilità dei token, descrizione dei dispositivi di governance, politica di continuità operativa e meccanismi di controllo interno e gestione del rischio.
 - La responsabilità dell'emittente per violazione dell'articolo 5, con diritto al risarcimento del possessore; la nullità di qualsiasi clausola di esclusione della responsabilità civile; l'onere della prova a carico del possessore.
 
 **D:** ⚠️ Che cosa devono prevedere i contratti stipulati con i fornitori di servizi TIC?
 **R:** «**Detti contratti devono prevedere, a titolo esemplificativo, obblighi di segnalazione, di assistenza in caso di incidente e di cooperazione in capo al fornitore nonché i diritti di accesso, ispezione e audit da parte dell'entità finanziaria.**» Vale inoltre il principio per cui «**i diritti e gli obblighi delle parti contrattuali devono essere attribuiti in modo chiaro e puntuale, comprendendo anche gli accordi sul livello dei servizi**». ⚠️ **Due lati**: **tre obblighi del fornitore** (segnalazione, assistenza in caso di incidente, cooperazione) e **tre diritti dell'entità finanziaria** (accesso, ispezione, audit). ⚠️ Gli **accordi sul livello dei servizi** sono parte del principio di chiarezza.
-**Opzione:** Obblighi di segnalazione, assistenza in caso di incidente e cooperazione in capo al fornitore, e diritti di accesso, ispezione e audit da parte dell'entità finanziaria, oltre agli accordi sul livello dei servizi.
+**Opzione:** A titolo esemplificativo, obblighi di segnalazione, assistenza in caso di incidente e cooperazione in capo al fornitore, e diritti di accesso, ispezione e audit da parte dell'entità finanziaria, oltre agli accordi sul livello dei servizi.
 **Distrattori:**
-- Obblighi di segnalazione, assistenza in caso di incidente e cooperazione in capo all'entità finanziaria, e diritti di accesso, ispezione e audit da parte del fornitore, oltre agli accordi sul livello dei servizi.
+- A titolo esemplificativo, obblighi di segnalazione, assistenza in caso di incidente e cooperazione in capo all'entità finanziaria, e diritti di accesso, ispezione e audit da parte del fornitore, oltre agli accordi sul livello dei servizi.
 - Una dichiarazione chiara e inequivocabile secondo cui i possessori non vantano alcun diritto sulle attività di riserva o non possono esigere dall'emittente il rimborso dei token in qualsiasi momento.
 - Solo se indicata nel white paper, e la commissione deve comunque essere proporzionata e commisurata ai costi reali sostenuti dall'emittente.
 
@@ -7462,7 +7462,7 @@
 
 **D:** ⚠️ Quali best practices il DORA estende a tutto il settore finanziario europeo?
 **R:** «**le best practices di derivazione nazionale ma giudicate positivamente dalle Autorità di Vigilanza**». ⚠️ **Il filtro è duplice**: origine **nazionale** e **giudizio positivo** delle autorità di vigilanza — non tutte le prassi nazionali. ⚠️ Sullo stesso piano il DORA definisce «**una serie di norme tecniche (in parte già integrate nella proposta, in parte ancora da formulare)**»: il quadro è **in due tempi**, e il docente ricorda che «siamo ancora in una **fase prodromica**» in attesa degli **RTS**.
-**Opzione:** Le best practices di derivazione nazionale, ma solo quelle giudicate positivamente dalle Autorità di Vigilanza.
+**Opzione:** Le best practices di derivazione nazionale ma giudicate positivamente dalle Autorità di Vigilanza.
 **Distrattori:**
 - Tutte le best practices di derivazione nazionale, senza necessità di un giudizio delle Autorità di Vigilanza.
 - Le best practices elaborate dalle associazioni di categoria europee e recepite dalle Autorità di Vigilanza nazionali.
@@ -7499,7 +7499,7 @@
 **Distrattori:**
 - Non ancora presente sul mercato e alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
 - Non ancora presente sul mercato o alternativa a quelle esistenti, e idonea a ridurre i costi di conformità dell'operatore.
-- Già presente sul mercato ma proposta con modalità tecnologiche alternative, e idonea a migliorare l'offerta di prodotti o servizi correlati.
+- Già presente sul mercato o alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
 
 **D:** ⚠️ In che cosa consiste il monitoraggio delle autorità di vigilanza nella Sandbox?
 **R:** «**L'attività delle autorità di vigilanza competenti consiste nell'emissione di relazioni semestrali sullo stato di avanzamento del regime di verifica.**» ⚠️ La cadenza è **semestrale** ed è l'unico termine temporale della slide dei concetti chiave. ⚠️ L'oggetto è lo «**stato di avanzamento del regime di verifica**», non la vigilanza ordinaria sull'operatore.
@@ -7511,17 +7511,17 @@
 
 **D:** ⚠️ Come è formulato il principio di proporzionalità nella Sandbox italiana?
 **R:** «**Gli interventi delle autorità devono essere limitati a quanto strettamente necessario per raggiungere gli obiettivi della Sandbox, con il minor sacrificio possibile del richiedente, garantendo al contempo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.**» ⚠️ **Tre** elementi: il **limite** («quanto strettamente necessario»), il **criterio** («il minor sacrificio possibile del richiedente») e il **contrappeso** («adeguata tutela dei consumatori, degli investitori e del mercato dei capitali» — l'ASR storpia in «mercato dei **capitani**»). ⚠️ È il principio da cui discende che i requisiti d'ammissione, pur nelle stesse categorie di un'autorizzazione ordinaria, hanno «**soglie molto più basse**».
-**Opzione:** Gli interventi delle autorità sono limitati a quanto strettamente necessario per gli obiettivi della sandbox, col minor sacrificio possibile del richiedente, garantendo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.
+**Opzione:** Gli interventi delle autorità devono essere limitati a quanto strettamente necessario per raggiungere gli obiettivi della Sandbox, con il minor sacrificio possibile del richiedente, garantendo al contempo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.
 **Distrattori:**
-- Gli interventi delle autorità sono limitati a quanto strettamente necessario per gli obiettivi della sandbox, col minor sacrificio possibile del richiedente, senza che sia richiesta alcuna tutela ulteriore dei consumatori e degli investitori.
+- Gli interventi delle autorità devono essere limitati a quanto strettamente necessario per raggiungere gli obiettivi della Sandbox, con il minor sacrificio possibile del richiedente, anche a scapito della tutela dei consumatori, degli investitori e del mercato dei capitali.
 - Eccezioni al regime normativo abituale per raggiungere gli obiettivi della Sandbox.
 - Canali di comunicazione innovativi tra le autorità di regolamentazione e gli operatori FinTech.
 
 **D:** Quali sono i provvedimenti normativi chiave della Sandbox italiana?
 **R:** **Tre**: «**Decreto Legge n. 34/2019 – («Decreto Crescita»): ha istituito il Comitato FinTech e la Sandbox (convertito nella Legge n. 58/2019)**»; «**Decreto Legislativo n. 76/2020 («Decreto Semplificazioni»): ha introdotto la firma elettronica avanzata e l'identità digitale per accedere ai servizi bancari**»; «**Decreto Ministeriale n. 100/2021: ha introdotto disposizioni di attuazione relative al Comitato FinTech e alla Sandbox**». ⚠️ **Tutti i numeri stanno solo sulla slide**: il transcript nomina i decreti solo per soprannome, salvo il **DM 100 del 2021**. ⚠️ **Istituzione e attuazione non vanno confuse**: istituisce il **Decreto Crescita** (Legge 58/2019), attua il **DM 100/2021**.
-**Opzione:** Il DL 34/2019, convertito nella Legge 58/2019, che ha istituito Comitato FinTech e Sandbox; il D.Lgs. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il DM 100/2021, con le disposizioni di attuazione.
+**Opzione:** Il DL 34/2019, convertito nella Legge 58/2019, che ha istituito Comitato FinTech e Sandbox; il D.Lgs. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per accedere ai servizi bancari; il DM 100/2021, con le disposizioni di attuazione relative al Comitato FinTech e alla Sandbox.
 **Distrattori:**
-- Il DL 34/2019, convertito nella Legge 58/2019, con le disposizioni di attuazione; il D.Lgs. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per i servizi bancari; il DM 100/2021, che ha istituito Comitato FinTech e Sandbox.
+- Il DL 34/2019, convertito nella Legge 58/2019, con le disposizioni di attuazione relative al Comitato FinTech e alla Sandbox; il D.Lgs. 76/2020, che ha introdotto firma elettronica avanzata e identità digitale per accedere ai servizi bancari; il DM 100/2021, che ha istituito Comitato FinTech e Sandbox.
 - Il Canale FinTech nel 2017 e il Milano Innovation Hub nel 2020.
 - La redazione all'articolo 5, la notifica all'articolo 7, la pubblicazione all'articolo 8.
 
@@ -7559,9 +7559,9 @@
 
 **D:** ⚠️ Quali compiti ha il Comitato FinTech?
 **R:** **Otto**: «**monitora l'evoluzione del mercato FinTech**»; «**stabilisce gli obiettivi e definisce programmi/linee guida/migliori pratiche**»; «**favorisce il dialogo tra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti**»; «**identifica le aree di rischio**»; «**collabora con le Autorità straniere**»; «**effettua proposte per interventi regolamentari**»; «**può partecipare alla fase di ammissione**»; «**tiene il registro degli operatori ammessi alla sperimentazione**». ⚠️ **Il settimo è l'unico facoltativo** — «**può** partecipare» —, mentre il transcript dice «**partecipa**». ⚠️ Il **dialogo** è con le autorità **nazionali**, la **collaborazione** con quelle **straniere**.
-**Opzione:** Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte regolamentari, può partecipare alla fase di ammissione e tiene il registro degli operatori ammessi.
+**Opzione:** Monitora l'evoluzione del mercato FinTech, stabilisce gli obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo tra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte per interventi regolamentari, può partecipare alla fase di ammissione e tiene il registro degli operatori ammessi alla sperimentazione.
 **Distrattori:**
-- Monitora il mercato, stabilisce obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo fra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte regolamentari, decide sull'ammissione alla sperimentazione e tiene il registro degli operatori ammessi.
+- Monitora l'evoluzione del mercato FinTech, stabilisce gli obiettivi e definisce programmi, linee guida e migliori pratiche, favorisce il dialogo tra operatori, associazioni di categoria, istituzioni e autorità di vigilanza nazionali competenti, identifica le aree di rischio, collabora con le autorità straniere, effettua proposte per interventi regolamentari, decide sull'ammissione alla sperimentazione e tiene il registro degli operatori ammessi alla sperimentazione.
 - Certezza giuridica; tutela degli investitori; protezione della stabilità dei mercati finanziari; promozione dell'innovazione e creazione di contesti giuridici attrattivi per gli operatori in crypto-attività.
 - Requisiti applicabili alle entità finanziarie; requisiti sugli accordi contrattuali con i fornitori terzi di servizi ICT; quadro di sorveglianza sui fornitori terzi critici; norme su cooperazione fra autorità competenti e su vigilanza e applicazione.
 
@@ -7575,10 +7575,10 @@
 
 **D:** ⚠️ Quali prodotti o servizi possono accedere alla sperimentazione della Sandbox?
 **R:** «**Prodotti o servizi tecnologicamente innovativi relativi allo svolgimento di servizi bancari, finanziari e assicurativi**» che: «**A. siano soggetti all'autorizzazione o alla registrazione da parte delle Autorità; o B. rientrino in un caso di autorizzazione/registrazione, ma ricadono in un caso di esclusione; o C. consistono in attività che hanno un impatto su profili soggetti a regolamentazione nel settore bancario, finanziario o assicurativo da erogare a favore di un soggetto nazionale, comunitario o extracomunitario vigilato; o D. sono svolte da un operatore soggetto a vigilanza, che ha sede legale o succursale in Italia o sede legale in un altro Stato membro dell'UE, e che opera in Italia in regime di libera circolazione dei servizi**». ⚠️ **Le quattro lettere sono legate da «o»: sono alternative e ne basta una.**
-**Opzione:** Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che soddisfino almeno una delle quattro condizioni previste, fra loro alternative.
+**Opzione:** Prodotti o servizi tecnologicamente innovativi relativi allo svolgimento di servizi bancari, finanziari e assicurativi, che soddisfino almeno una delle quattro condizioni previste, fra loro alternative.
 **Distrattori:**
-- Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che soddisfino tutte e quattro le condizioni previste, fra loro cumulative.
-- Prodotti o servizi tecnologicamente innovativi in ambito bancario, finanziario o assicurativo che siano soggetti ad autorizzazione o registrazione da parte delle Autorità, unica condizione prevista.
+- Prodotti o servizi tecnologicamente innovativi relativi allo svolgimento di servizi bancari, finanziari e assicurativi, che soddisfino tutte e quattro le condizioni previste, fra loro cumulative.
+- Solo quelli soggetti ad autorizzazione o registrazione da parte delle Autorità, unica condizione prevista.
 - Qualsiasi prodotto o servizio tecnologicamente innovativo, anche estraneo ai settori bancario, finanziario e assicurativo, purché soddisfi almeno una delle quattro condizioni previste.
 
 **D:** ⚠️ Che cosa prevede la lettera B delle condizioni di accesso alla Sandbox?
@@ -7599,9 +7599,9 @@
 
 **D:** ⚠️ Quali servizi finanziari sono soggetti ad autorizzazione secondo la tabella della Sandbox?
 **R:** **Nove**: «**Negoziazione per conto proprio; Esecuzione di ordini per i clienti; Sottoscrizione e/o collocamento basato su un impegno irrevocabile nei confronti dell'emittente; Collocamento senza impegno irrevocabile per gli emittenti; Gestione del portafoglio; Ricezione e trasmissione degli ordini; Consulenza in materia di investimenti; Gestione di sistemi multilaterali di negoziazione; Gestione di sistemi organizzati di negoziazione**». ⚠️ **Il transcript ne dà sei**: perde il **collocamento senza impegno irrevocabile**, la gestione di **sistemi multilaterali** (MTF) e quella di **sistemi organizzati** (OTF). ⚠️ Le **due forme di collocamento** — *con* e *senza* impegno irrevocabile — sono una coppia speculare, materiale ideale per un distrattore a **segno invertito**.
-**Opzione:** Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, collocamento senza impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
+**Opzione:** Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e/o collocamento basato su un impegno irrevocabile nei confronti dell'emittente, collocamento senza impegno irrevocabile per gli emittenti, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
 **Distrattori:**
-- Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e collocamento con impegno irrevocabile, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e gestione di sistemi organizzati di negoziazione.
+- Negoziazione per conto proprio, esecuzione di ordini per i clienti, sottoscrizione e/o collocamento basato su un impegno irrevocabile nei confronti dell'emittente, collocamento senza impegno irrevocabile per gli emittenti, gestione del portafoglio, ricezione e trasmissione degli ordini, consulenza in materia di investimenti, gestione di sistemi multilaterali di negoziazione e commercio di oro.
 - Il numero di cripto-attività emesse o ammesse alla negoziazione, il prezzo di emissione e i termini e le condizioni di sottoscrizione.
 - Banca d'Italia con Canale FinTech e Milano Innovation Hub; CONSOB con Diari FinTech e ConsobTech; IVASS con le iniziative InsurTech, il Milan Innovation Hub e l'ANIA's Insurance Blockchain Sandbox.
 
@@ -7699,9 +7699,9 @@
 
 **D:** ⚠️ A quali condizioni è consentita la sperimentazione nella Sandbox italiana?
 **R:** «**La sperimentazione è consentita alle FinTech che svolgono un'attività che: sia significativamente innovativa; sia in uno stato sufficientemente avanzato per accedere alla sperimentazione; sia economicamente e finanziariamente sostenibile; aggiunga valore agli utenti finali rendendo il sistema bancario/finanziario/assicurativo efficiente nell'applicazione delle normative; migliora i sistemi/procedure/processi relativi alla gestione del rischio**»; e, sotto lo stesso titolo, «**richiede una deroga ad atti/norme/regolamenti**». ⚠️ **Sei criteri**, di cui il sesto si apre in **sette** voci. ⚠️ **Il soggetto è l'attività, non l'impresa**.
-**Opzione:** Attività significativamente innovativa, in stato sufficientemente avanzato, economicamente e finanziariamente sostenibile, che aggiunga valore agli utenti finali, migliori i processi di gestione del rischio e richieda deroghe a norme e regolamenti.
+**Opzione:** Attività significativamente innovativa, in uno stato sufficientemente avanzato per accedere alla sperimentazione, economicamente e finanziariamente sostenibile, che aggiunga valore agli utenti finali rendendo il sistema bancario/finanziario/assicurativo efficiente nell'applicazione delle normative, migliori i sistemi/procedure/processi relativi alla gestione del rischio e richieda una deroga ad atti/norme/regolamenti.
 **Distrattori:**
-- Attività significativamente innovativa, in stato sufficientemente avanzato, economicamente e finanziariamente sostenibile, che aggiunga valore agli azionisti, migliori i processi di gestione del rischio e richieda deroghe a norme e regolamenti.
+- Attività significativamente innovativa, in uno stato sufficientemente avanzato per accedere alla sperimentazione, economicamente e finanziariamente sostenibile, che aggiunga valore agli azionisti rendendo il sistema bancario/finanziario/assicurativo efficiente nell'applicazione delle normative, migliori i sistemi/procedure/processi relativi alla gestione del rischio e richieda una deroga ad atti/norme/regolamenti.
 - Se l'importo medio in circolazione non supera i 5 000 000 EUR su un periodo di 12 mesi calcolato alla fine di ciascun giorno di calendario, oppure se l'offerta è rivolta esclusivamente a investitori qualificati, che soli possono detenerli.
 - Se l'emittente è autorizzato quale ente creditizio o istituto di moneta elettronica, è conforme ai requisiti dei titoli II e III della direttiva sulla moneta elettronica e pubblica un white paper notificato all'autorità competente.
 
@@ -7755,9 +7755,9 @@
 
 **D:** ⚠️ Quali sono gli elementi chiave per l'accertamento dei requisiti di correttezza?
 **R:** **Sei**: «**Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive**»; «**Sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali**»; «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali**»; «**Sospensione o radiazione**»; «**Valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa**»; «**Informazioni negative contenute nel Registro Centrale dei Crediti**». ⚠️ Sono elementi di **accertamento**, non divieti.
-**Opzione:** Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive, sanzioni amministrative in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, sospensione o radiazione, valutazione negativa dell'idoneità in un processo di autorizzazione in materia bancaria, finanziaria, mobiliare e assicurativa e informazioni negative nel Registro Centrale dei Crediti.
+**Opzione:** Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive; sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali; svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali; sospensione o radiazione; valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa; informazioni negative contenute nel Registro Centrale dei Crediti.
 **Distrattori:**
-- Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive, sanzioni amministrative in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali, svolgimento di incarichi in enti sanzionati o sottoposti a procedure concorsuali, interdizione temporanea dalla direzione aziendale, valutazione negativa dell'idoneità in un processo di autorizzazione in materia bancaria, finanziaria, mobiliare e assicurativa e informazioni negative nel Registro Centrale dei Crediti.
+- Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive; sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali; svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali; interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari; valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa; informazioni negative contenute nel Registro Centrale dei Crediti.
 - Completezza e ammissibilità della domanda, adeguatezza dell'eventuale richiesta di deroghe, correttezza delle modalità di svolgimento dell'attività proposta e adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.
 - Politiche di continuità operativa e piani di ripristino in caso di disastro ICT; capacità e personale idonei a rilevare vulnerabilità, minacce, incidenti e attacchi informatici e valutarne le conseguenze; piani di comunicazione ai vari stakeholder.
 
@@ -7766,7 +7766,7 @@
 **Opzione:** In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali.
 **Distrattori:**
 - In materia bancaria, assicurativa, finanziaria, mobiliare o di mercati dei capitali.
-- In materia bancaria, assicurativa, finanziaria o di antiriciclaggio.
+- In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o fiscale.
 - Nella sola materia bancaria e di antiriciclaggio.
 
 **D:** ⚠️ In quali materie rileva la valutazione negativa dell'idoneità di una persona?
@@ -7774,15 +7774,15 @@
 **Opzione:** In materia bancaria, finanziaria, mobiliare e assicurativa.
 **Distrattori:**
 - In materia bancaria, finanziaria, di antiriciclaggio e assicurativa.
-- In materia bancaria, finanziaria e assicurativa.
+- Solo in materia bancaria, finanziaria e assicurativa.
 - In materia bancaria, finanziaria, mobiliare, assicurativa e di mercati dei capitali.
 
 **D:** ⚠️ Che cosa rileva, ai fini della correttezza, sullo svolgimento di incarichi presso altri enti?
 **R:** «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali.**» ⚠️ **Due** presupposti alternativi in capo all'**ente**, non alla persona: le **sanzioni amministrative** già elencate **oppure** le **procedure concorsuali**. ⚠️ La coda sulle procedure concorsuali **cade dal transcript**.
 **Opzione:** Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure concorsuali.
 **Distrattori:**
-- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate.
-- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure di sovraindebitamento.
+- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate, ma non a procedure concorsuali.
+- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedimenti penali in corso.
 - Lo svolgimento di incarichi in enti che abbiano subito una valutazione negativa di idoneità nel corso di un processo di autorizzazione.
 
 **D:** Quale banca dati chiude l'elenco degli elementi di correttezza?
@@ -7808,8 +7808,8 @@
 **R:** «**Fornisce un supporto per l'identificazione dell'Autorità o delle Autorità a cui presentare la domanda di partecipazione.**» La stessa casella aggiunge che il contatto è previsto anche «**per gli operatori FinTech che intendono svolgere attività con influenza nei settori bancario, finanziario e assicurativo, pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione**». ⚠️ **Non serve a valutare il progetto**: serve a capire **a chi** presentare la domanda. ⚠️ Vale **anche** per chi non è soggetto ad autorizzazione.
 **Opzione:** A fornire supporto nell'identificazione dell'autorità o delle autorità a cui presentare la domanda di partecipazione.
 **Distrattori:**
-- A fornire una valutazione preliminare e non vincolante sull'ammissibilità del progetto di sperimentazione.
-- A fornire supporto nell'identificazione delle norme per le quali sarà possibile chiedere una deroga.
+- Nel rischio che gli investitori seguano il gruppo perché l'ammissione alla sandbox è percepita come un marchio di qualità dell'attività proposta.
+- Proporzionalità, parità di trattamento e non discriminazione.
 - A fornire supporto nell'identificazione dell'autorità competente, purché l'operatore rientri nell'ambito di applicazione dei requisiti di autorizzazione.
 
 **D:** ⚠️ Che cosa prevede la Fase II, ammissione alla sperimentazione, se l'attività è regolamentata?
@@ -7830,11 +7830,11 @@
 
 **D:** ⚠️ Quanto dura la Fase III e chi la controlla?
 **R:** «**Fase di sperimentazione (18 mesi), durante le quali gli operatori FinTech possono testare le attività proposte**»; «**le autorità controllano il processo di sperimentazione**». ⚠️ **Diciotto mesi**, che il docente chiama «**periodo di incubazione**». ⚠️ Nel transcript dice prima «dura **circa** 18 mesi» e poi lo fissa: «il periodo di incubazione nel sandbox è di **18 mesi**».
-**Opzione:** Diciotto mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
+**Opzione:** Diciotto mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
 **Distrattori:**
-- Dodici mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
-- Diciotto mesi, durante i quali gli operatori testano le attività proposte senza obblighi informativi verso le autorità.
-- Ventiquattro mesi, durante i quali gli operatori testano le attività proposte e le autorità controllano il processo di sperimentazione.
+- Dodici mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
+- Diciotto mesi, durante i quali gli operatori possono testare le attività proposte senza obblighi informativi verso le autorità.
+- Ventiquattro mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
 
 **D:** ⚠️ Che cosa può accadere all'esito della Fase IV?
 **R:** «**I risultati della sperimentazione sono valutati dall'Autorità (o dalle Autorità)**», con «**decisione sull'approccio più appropriato per l'uscita dalla Sandbox**» e, «**a seconda dei casi, l'eliminazione delle limitazioni o delle restrizioni imposte ai fini della fase di sperimentazione o l'interruzione della licenza (attraverso il ritiro)**». ⚠️ **L'esito è binario**: eliminazione delle restrizioni **oppure** ritiro della licenza. ⚠️ Per il docente è «una fase dove si decide **se andare avanti oppure no**»: chi prosegue «avrà bisogno di avere la ***full license***… non sarà più in questo **incubatore**, ma diventerà… una società a tutti gli effetti **autorizzata e vigilata**».
@@ -7892,7 +7892,7 @@
 **Opzione:** Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria.
 **Distrattori:**
 - Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e dell'integrità dei mercati.
-- Per la promozione del FinTech, per la tutela degli utenti e della stabilità finanziaria.
+- Per la promozione del FinTech, per la tutela degli utenti, della riservatezza dei dati e della stabilità finanziaria.
 - Per la promozione della concorrenza, per la tutela degli utenti, degli investitori e della stabilità finanziaria.
 
 **D:** ⚠️ Perché l'articolo 8 è definito «un'importantissima previsione»?
