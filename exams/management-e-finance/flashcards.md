@@ -64,17 +64,19 @@
 
 **D:** ⚠️ Quali sono le quattro voci della «Strategia di Business» nella slide che la confronta con la strategia corporate?
 **R:** Agisce sul singolo business; persegue un vantaggio competitivo duraturo e sostenibile; leadership dei costi / differenziazione; si costruisce attorno ad un Piano strategico Competitivo.
+**Opzione:** Agisce sul singolo business; persegue un vantaggio competitivo duraturo e sostenibile; leadership dei costi / differenziazione; si costruisce attorno ad un Piano strategico Competitivo.
 **Distrattori:**
-- Agisce sul singolo business; persegue un vantaggio competitivo duraturo e sostenibile; leadership dei costi / differenziazione; si costruisce attorno ad un Piano strategico di sviluppo.
-- Agisce su tutti i business della Corporation; persegue un vantaggio competitivo duraturo e sostenibile; leadership dei costi / differenziazione; si costruisce attorno ad un Piano strategico Competitivo.
 - Agisce sul singolo business; persegue un vantaggio Aziendale verso il mercato dei capitali; leadership dei costi / differenziazione; si costruisce attorno ad un Piano strategico Competitivo.
+- L'allocazione e l'utilizzo delle risorse; l'ipotesi di autofinanziamento; la correlazione fra le SBU; la reale capacità di previsione.
+- Disponibilità finanziarie; Risorse immateriali; Capacità produttiva; Brand image.
 
 **D:** ⚠️ Quali sono le tre voci della «Strategia Corporate» nella slide che la confronta con la strategia di business?
 **R:** Agisce su tutti i business della Corporation; persegue un vantaggio Aziendale verso il mercato dei capitali; si costruisce attorno ad un Piano strategico di sviluppo.
+**Opzione:** Agisce su tutti i business della Corporation; persegue un vantaggio Aziendale verso il mercato dei capitali; si costruisce attorno ad un Piano strategico di sviluppo.
 **Distrattori:**
-- Agisce su tutti i business della Corporation; persegue un vantaggio competitivo duraturo e sostenibile; si costruisce attorno ad un Piano strategico di sviluppo.
-- Agisce su tutti i business della Corporation; persegue un vantaggio Aziendale verso il mercato dei capitali; si costruisce attorno ad un Piano strategico Competitivo.
 - Agisce sul singolo business; persegue un vantaggio Aziendale verso il mercato dei capitali; si costruisce attorno ad un Piano strategico di sviluppo.
+- Capacità competitiva; Barriere tecnologiche; Filiere produttive.
+- Focus sulle risorse immateriali; Economie e diseconomie esterne; Ruolo dell'apprendimento e Know how.
 
 **D:** ⚠️ Attorno a quale piano si costruisce la strategia corporate, e attorno a quale la strategia di business?
 **R:** Corporate: Piano strategico di sviluppo. Business: Piano strategico Competitivo.
@@ -137,10 +139,10 @@
 
 **D:** ⚠️ Che cos'è la Mission secondo la slide «La visione e la missione»?
 **R:** «Una sotto articolazione della visione»: «Si sostanzia del mandato attribuito al management nel piano strategico (obiettivi di lungo termine da raggiungere)» e «Si sviluppa in coerenza con la vision». ⚠️ Il docente descrive invece un mandato «**anno per anno, bilancio per bilancio, budget per budget**» (transcript [00:27:12]).
-**Opzione:** Una sotto articolazione della visione: il mandato attribuito al management nel piano strategico, sviluppato in coerenza con la vision.
+**Opzione:** Una sotto articolazione della visione: il mandato attribuito al management nel piano strategico (obiettivi di lungo termine da raggiungere), sviluppato in coerenza con la vision.
 **Distrattori:**
 - Il progetto di lungo termine da cui discende la visione, che ne è una sotto articolazione.
-- Una sotto articolazione della visione: il mandato attribuito agli azionisti nel bilancio consolidato, sviluppato in autonomia dalla vision.
+- Una sotto articolazione della visione: il mandato attribuito al management nel piano strategico (obiettivi di breve termine da raggiungere), sviluppato in coerenza con la vision.
 
 **D:** Quale esempio di vision porta il docente, e che effetto ha sul prodotto?
 **R:** **Honda**: «prima l'uomo e poi la macchina». Nel dominio degli autoveicoli la vision guardava alla persona e all'uso della macchina, quindi auto giapponesi «molto comode dentro, molto performanti… ma esteticamente molto meno belle» delle italiane (transcript [00:26:17]).
@@ -295,16 +297,18 @@
 
 **D:** ⚠️ Perché, secondo il docente, il valore del brand Coca-Cola è un punto di forza verso gli investitori?
 **R:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio lo combina con un investimento più rischioso.
+**Opzione:** Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio può combinarlo con un investimento più rischioso.
 **Distrattori:**
-- Perché è un brand molto redditizio ma poco affidabile, da combinare in portafoglio con un investimento più sicuro.
+- Perché è un brand particolarmente affidabile, forse non molto redditizio: chi vi investe non si aspetta rendimenti elevati ma che il valore non sia eroso, e in portafoglio può combinarlo con un investimento più sicuro.
 - Perché è un brand molto redditizio, che garantisce agli investitori rendimenti elevati.
 - Perché è un brand senza concorrenti, che non richiede investimenti in comunicazione.
 
 **D:** ⚠️ Quali due debolezze della Coca-Cola commenta il docente?
 **R:** L'ostilità crescente verso le bibite gassate, addizionate di anidride carbonica, che è un elemento fondante del prodotto; e l'alto livello di debito, dovuto alle acquisizioni fatte spingendo sulla diversificazione.
+**Opzione:** L'ostilità crescente verso le bibite gassate, addizionate di anidride carbonica, che è un elemento fondante del prodotto; e l'alto livello di debito, dovuto alle acquisizioni fatte spingendo sulla diversificazione.
 **Distrattori:**
 - La mancanza di un marchio riconoscibile e l'alto livello di debito dovuto alle acquisizioni.
-- L'ostilità crescente verso le bibite gassate e la scarsità di capitale di terzi dovuta all'eccesso di capitale proprio.
+- L'ostilità crescente verso le bibite gassate, addizionate di anidride carbonica, che è un elemento fondante del prodotto; e la difficoltà di difendere il marchio, che basta modificare di poco perché possa essere copiato.
 - La crescita del mercato delle acque imbottigliate e l'ostilità crescente verso le bibite gassate.
 
 **D:** ⚠️ Quali sono le quattro voci della «Pianificazione del portafoglio», nell'ordine?
@@ -316,7 +320,9 @@
 
 **D:** ⚠️ Che cosa significa l'«ipotesi di autofinanziamento» nella pianificazione del portafoglio?
 **R:** Che i business in cui si investe possano autofinanziarsi: muoversi da soli e creare da soli il rendimento che l'investitore si aspetta dopo l'investimento iniziale.
+**Opzione:** Che i business in cui si investe possano autofinanziarsi: muoversi da soli e creare da soli il rendimento che l'investitore si aspetta dopo l'investimento iniziale.
 **Distrattori:**
+- Che i business in cui si investe possano autofinanziarsi: muoversi da soli e creare da soli il rendimento che l'investitore si aspetta, senza bisogno di un investimento iniziale.
 - Che la corporation non debba mai ricorrere al mercato finanziario, nemmeno per l'investimento iniziale.
 - Che ogni business restituisca agli azionisti tutta la cassa prodotta, senza reinvestirla.
 
@@ -329,6 +335,7 @@
 
 **D:** ⚠️ Perché la pianificazione corporate tratta i business come un portafoglio di investimenti?
 **R:** Non già per rendere semplice la pianificazione corporate, ma per renderla intelligibile all'investitore finanziario, che ragiona in un'ottica di portafoglio.
+**Opzione:** Per renderla intelligibile all'investitore finanziario, che ragiona in un'ottica di portafoglio.
 **Distrattori:**
 - Per rendere semplice la pianificazione corporate, riducendo tutti i business a un unico indicatore.
 - Per renderla intelligibile al consumatore finale, che sceglie fra prodotti di business diversi.
@@ -336,15 +343,18 @@
 
 **D:** Che cos'è una SBU nella pianificazione di portafoglio?
 **R:** La strategic business unit: il business in cui si investe, che ha una sua autonomia strategica e fa il suo piano di business, con obiettivi di leadership di costo o di differenziazione.
+**Opzione:** La strategic business unit: il business in cui si investe, che ha una sua autonomia strategica e fa il suo piano di business, con obiettivi di leadership di costo o di differenziazione.
 **Distrattori:**
 - La strategic business unit: l'ufficio della capogruppo che decide il piano di tutti i business della corporation.
-- La strategic business unit: il business privo di autonomia strategica, che esegue il piano della capogruppo.
+- La strategic business unit: il business in cui si investe, che non ha una sua autonomia strategica ed esegue il piano della capogruppo, con obiettivi di leadership di costo o di differenziazione.
 
 **D:** Chi elaborò la matrice BCG e a che cosa servì in origine?
 **R:** Il Boston Consulting Group, un'azienda di consulenza, che aiutò General Electric e le grandi corporation fortemente diversificate a superare la crisi degli anni '70 razionalizzando i loro investimenti.
+**Opzione:** Il Boston Consulting Group, un'azienda di consulenza, che aiutò General Electric e le grandi corporation fortemente diversificate a superare la crisi degli anni '70 razionalizzando i loro investimenti.
 **Distrattori:**
-- Il Boston Consulting Group, che aiutò General Electric e le grandi imprese monobusiness a superare la crisi degli anni '30.
-- La Federal Reserve di Boston, che aiutò le grandi corporation fortemente diversificate a superare la crisi degli anni '70.
+- Il Boston Consulting Group, un'azienda di consulenza, che aiutò General Electric e le grandi corporation fortemente diversificate a superare la crisi degli anni '30 razionalizzando i loro investimenti.
+- Toyota e Honda, anni '80: operai, manager e ingegneri riuniti dopo il turno.
+- Unilever unisce gelati e surgelati per tenere sempre pieni i magazzini freddi.
 
 **D:** ⚠️ Quali sono le due variabili della matrice BCG, e su quali assi stanno?
 **R:** Sull'asse x la quota di mercato relativa, sull'asse y la crescita del mercato.
@@ -362,10 +372,11 @@
 
 **D:** ⚠️ Come sono graduati gli assi della matrice BCG, e dove passano le linee divisorie?
 **R:** La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 1.
+**Opzione:** La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 1.
 **Distrattori:**
-- La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala lineare, da 0,1 a sinistra a 10 a destra, con il confine a 1.
-- La crescita del mercato va da 0 a 10% con il confine al 5%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 1.
-- La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 10 a sinistra a 0,1 a destra, con il confine a 5.
+- La crescita del mercato va da 0 a 20% con il confine al 10%; la quota relativa è in scala logaritmica, da 0,1 a sinistra a 10 a destra, con il confine a 1.
+- Cmu in ordinata, capacità produttiva in ascissa; l'inviluppo unisce i minimi delle curve di breve periodo.
+- Corrispondenza 49,9%, servizi finanziari 41,6%.
 
 **D:** ⚠️ Come si chiama il quadrante della matrice BCG con quota di mercato relativa alta e crescita del mercato alta, e dove sta?
 **R:** Star, in alto a sinistra: i prodotti assorbono cassa ma producono cassa.
@@ -397,6 +408,7 @@
 
 **D:** ⚠️ Qual è la logica di portafoglio che il pianificatore corporate comunica agli investitori con la matrice BCG?
 **R:** Liberarsi dei dog, usare la cassa delle cash cow per investire nei question mark, e continuare a competere nelle star, che un domani possono diventare cash cow.
+**Opzione:** Liberarsi dei dog, usare la cassa delle cash cow per investire nei question mark, e continuare a competere nelle star.
 **Distrattori:**
 - Liberarsi delle cash cow, usare la cassa dei dog per investire nelle star, e continuare a competere nei question mark.
 - Liberarsi dei question mark, usare la cassa delle star per investire nei dog, e continuare a competere nelle cash cow.
@@ -411,6 +423,7 @@
 
 **D:** Nella matrice BCG di McDonald's commentata dal docente, quali business sono cash cow, star e dog?
 **R:** Cash cow il business dell'asporto, star quello dei panini e della ristorazione in loco, dog le apple pie.
+**Opzione:** Cash cow l'asporto, star i panini e la ristorazione in loco, dog le apple pie.
 **Distrattori:**
 - Cash cow i panini e la ristorazione in loco, star l'asporto, dog le apple pie.
 - Cash cow l'asporto, star le apple pie, dog i panini e la ristorazione in loco.
@@ -478,13 +491,14 @@
 **D:** ⚠️ Che cosa alimenta, secondo il docente, una pianificazione corporate costruita solo come pianificazione di portafoglio?
 **R:** Una competizione economica irrazionale che non si gioca sui mercati dei prodotti ma sui mercati finanziari: un processo di finanziarizzazione dei mercati.
 **Distrattori:**
-- Una competizione economica razionale che si gioca sui mercati dei prodotti e non sui mercati finanziari: un processo di razionalizzazione dei business.
 - Una competizione economica irrazionale che non si gioca sui mercati finanziari ma sui mercati dei prodotti: un processo di diversificazione dei business.
+- Un apprendimento dell'organizzazione nel suo complesso, non solo della forza lavoro.
+- Un brand ombrello della corporation che protegge i brand specifici dei singoli prodotti.
 
 **D:** ⚠️ Quando, secondo il docente, la distonia fra mercato finanziario e mercato reale comincia a produrre i suoi effetti sulle performance?
 **R:** Intorno agli anni '80.
 **Distrattori:**
-- Subito dopo la crisi degli anni '70.
+- Intorno agli anni '70.
 - Intorno agli anni '50.
 - Intorno agli anni '90.
 
@@ -492,8 +506,8 @@
 **R:** Vede l'impresa come un insieme eterogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
 **Distrattori:**
 - Vede l'impresa come un insieme omogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
-- Vede l'impresa come un portafoglio di business che rappresentano la base prioritaria per la realizzazione di un vantaggio competitivo.
-- Vede l'impresa come un insieme eterogeneo di risorse e competenze che rappresentano la base prioritaria per la realizzazione di un vantaggio aziendale.
+- Rappresenta uno dei primi tentativi di individuare alcune variabili esogene ed endogene rilevanti per la definizione della strategia.
+- Postula la sostituzione del management, migliorando l'efficienza.
 
 **D:** ⚠️ Quali sono, nell'ordine, i cinque elementi della resource based view?
 **R:** Le core competences, la capacità di distinguersi, i valori immateriali, la condivisione, la condivisione di una vision e mission.
@@ -546,9 +560,9 @@
 **D:** ⚠️ In quali tre famiglie lo schema della lezione 03 distingue le risorse, e che cosa contiene ciascuna?
 **R:** Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, cultura); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
 **Distrattori:**
-- Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, cultura); organizzative (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
-- Tangibili (finanziarie, tecnologia); intangibili (fisiche, reputazione, cultura); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, motivazione).
 - Tangibili (finanziarie, fisiche); intangibili (tecnologia, reputazione, motivazione); umane (competenze e conoscenze specializzate, capacità di interazione e di comunicazione, cultura).
+- Incentivi esterni (opportunità); incentivi interni (potenzialità).
+- Raggio d'azione; Clienti, Canali brand comuni; A livello di Business (Diminuzione dei costi, Qualità); Attività CV Comuni.
 
 **D:** Nello schema delle risorse della lezione 03, verso che cosa punta la freccia della «Strategia»?
 **R:** Verso i fattori critici di successo del settore.
@@ -560,16 +574,16 @@
 **D:** ⚠️ Che cos'è la capacità organizzativa, secondo il docente?
 **R:** L'elemento che tiene insieme le risorse tangibili e intangibili, organizzandole in un unicum: è un pezzo della pianificazione strategica e un fattore critico di successo.
 **Distrattori:**
+- L'elemento che tiene insieme le risorse tangibili e intangibili, organizzandole in un unicum: è un pezzo della pianificazione di portafoglio e un fattore critico di successo.
 - La capacità di raccogliere nuovi capitali grazie alla credibilità sui mercati finanziari.
 - La capacità di scegliere i business in cui investire e quelli da cui disinvestire.
-- Una quarta famiglia di risorse, accanto a quelle tangibili, intangibili e umane.
 
 **D:** ⚠️ Quali sono le quattro risorse finanziarie elencate nella lezione 03?
 **R:** Capacità di indebitamento, capacità di investimento, capacità di autofinanziamento, capacità di far fronte a fluttuazione di domanda e di profitti.
 **Distrattori:**
 - Capacità di indebitamento, capacità di investimento, capacità di autofinanziamento, reale capacità di previsione.
-- Capacità di indebitamento, capacità di investimento, flessibilità impianto, capacità di far fronte a fluttuazione di domanda e di profitti.
-- Capacità di indebitamento, reputazione sui mercati finanziari, capacità di autofinanziamento, capacità di far fronte a fluttuazione di domanda e di profitti.
+- Omogeneità tecnologica; omogeneità di input; bisogni omogenei; omogeneità commerciali.
+- Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
 
 **D:** ⚠️ Quali sono le quattro risorse fisiche elencate nella lezione 03?
 **R:** Dimensione e localizzazione impianti e attrezzature, flessibilità impianto, riserve materie prime, scala ed età media impianti.
@@ -631,8 +645,7 @@
 **R:** Contribuiscono alla creazione di valore per il consumatore o all'efficienza nelle modalità di offerta servizio, e formano le basi per entrare in un nuovo mercato.
 **Distrattori:**
 - Contribuiscono alla creazione di valore per l'azionista o all'efficienza nelle modalità di offerta servizio, e formano le basi per entrare in un nuovo mercato.
-- Contribuiscono alla creazione di valore per il consumatore o all'efficienza nelle modalità di offerta servizio, e formano le basi per uscire da un mercato maturo.
-- Contribuiscono alla riduzione dei costi di produzione, e formano le basi per la leadership di costo.
+- Classificano le strategie in base al modo in cui l'azienda crea valore.
 
 **D:** ⚠️ Secondo Ansoff, «il padre della diversificazione», che cosa alimenta le scelte di crescita in nuovi business?
 **R:** La discrasia fra le risorse utilizzate e le risorse disponibili.
@@ -713,6 +726,7 @@
 
 **D:** ⚠️ Su quale core asset Poste Italiane ha fondato la sua diversificazione nei servizi finanziari?
 **R:** Non sul servizio di recapito della posta, ma sul rapporto di fiducia che l'ufficio postale aveva con i suoi clienti.
+**Opzione:** Sul rapporto di fiducia che l'ufficio postale aveva con i suoi clienti.
 **Distrattori:**
 - Sul servizio di recapito della posta.
 - Sulle economie di scala nelle fasi di accettazione e recapito.
@@ -721,9 +735,9 @@
 **D:** ⚠️ Quale modello di diversificazione rappresentano DPWN e TNT, e quale Poste Italiane e La Poste?
 **R:** DPWN e TNT un modello di diversificazione geografica globale; Poste Italiane e La Poste un modello di diversificazione di business, con alcuni punti di contatto.
 **Distrattori:**
-- DPWN e TNT un modello di diversificazione di business; Poste Italiane e La Poste un modello di diversificazione geografica globale.
-- DPWN e TNT un modello di diversificazione geografica globale; Poste Italiane e La Poste due modelli opposti, senza punti di contatto.
-- DPWN e TNT un modello di consolidamento sul mercato nazionale; Poste Italiane e La Poste un modello di diversificazione geografica globale.
+- DPWN e TNT un modello di diversificazione di business; Poste Italiane e La Poste un modello di diversificazione geografica globale, con alcuni punti di contatto.
+- Merceologico: farmaceutici, parafarmaceutici, alimentari; economico: alimentari freddi e freschi.
+- Aperte: lo sviluppo dell'azienda si alimenta da quelle del settore; chiuse: calibrate sull'azienda.
 
 **D:** ⚠️ Che cosa sono, per il docente, le risorse immateriali come la fiducia rispetto alla pianificazione di portafoglio?
 **R:** Un addendum al piano strategico: un elemento addizionale che si aggiunge alla tradizionale pianificazione di portafoglio e contribuisce in maniera determinante al valore per gli investitori, ma non è esplicitamente misurabile in fase di pianificazione.
@@ -801,10 +815,11 @@
 
 **D:** Che cosa vuol dire crescere, per il docente della lezione 04?
 **R:** Sia diventare più grandi in senso dimensionale, con corporation via via più grandi, sia crescere nella capacità moltiplicativa, cioè nella capacità di generare un valore addizionale.
+**Opzione:** Sia diventare più grandi in senso dimensionale, sia crescere nella capacità moltiplicativa, cioè di generare valore addizionale.
 **Distrattori:**
 - Soltanto diventare più grandi in senso dimensionale, con corporation via via più grandi.
 - Sottrarre quote di mercato ai concorrenti, aumentando la quota di mercato relativa.
-- Soltanto accrescere la capacità di generare valore addizionale, a parità di dimensione.
+- Saper produrre i prodotti della qualità che si è pianificata.
 
 **D:** Perché le disponibilità finanziarie diventano una risorsa per crescere?
 **R:** Perché le imprese scoprono che le risorse usate per guidare la concorrenza hanno un ritorno più basso di quello che avrebbero in altri business: il cash flow del business in cui si è vincitori può finanziare la crescita in business diversi.
@@ -829,9 +844,10 @@
 
 **D:** Da che cosa deriva la capacità produttiva come impiego di risorse in eccesso?
 **R:** Dalla capacità di usare al meglio la propria organizzazione e i propri investimenti in tecnologie, risorse tangibili. È la capacità di produrre in modo efficiente (economie di scala), cioè di produrre di più a costi ancora più bassi.
+**Opzione:** Prevalentemente dalla capacità di usare al meglio la propria organizzazione e i propri investimenti in tecnologie, risorse tangibili.
 **Distrattori:**
-- Dalla capacità di usare al meglio il brand e gli investimenti in pubblicità, risorse intangibili.
-- Dalla disponibilità di cassa generata dal business in cui l'impresa è vincitrice.
+- Prevalentemente dalla capacità di usare al meglio il brand e gli investimenti in pubblicità, risorse intangibili.
+- Prevalentemente dalla disponibilità di cassa generata dal business in cui l'impresa è vincitrice.
 
 **D:** ⚠️ Perché il brand image è un impiego di risorse in eccesso?
 **R:** Il marchio legato a un unico prodotto è **sottoutilizzato**: può dare evidenza ad altri prodotti in altri settori **comunque collegati**. Gli investimenti in pubblicità, promozione e marketing che lo hanno costruito sono **sovradimensionati** rispetto all'utilizzo, e il rapporto fra investimento e valore è sfavorevole.
@@ -863,6 +879,7 @@
 
 **D:** Che cosa sono le filiere produttive come fonte delle risorse interne al settore?
 **R:** La scoperta di potersi integrare a monte o a valle: chi fa capi di abbigliamento può produrre tessuti (a monte) o vendere, integrandosi nei canali distributivi (a valle).
+**Opzione:** La scoperta di potersi integrare a monte (tessuti) o a valle (canali distributivi).
 **Distrattori:**
 - La scoperta di potersi integrare soltanto a valle, nei canali distributivi.
 - La scoperta di poter cedere a terzi le fasi a monte della produzione.
@@ -876,6 +893,7 @@
 
 **D:** ⚠️ Chi teorizza, nella slide 3 della lezione 04, le ragioni dello sviluppo esterno, e quando?
 **R:** Penrose, negli anni '50 («Penrose '50»), per le imprese americane.
+**Opzione:** Penrose, negli anni '50.
 **Distrattori:**
 - Penrose, negli anni '80.
 - Ansoff, negli anni '50.
@@ -917,12 +935,14 @@
 
 **D:** Che cosa produce l'apprendimento, fra gli incentivi di Penrose?
 **R:** Efficienza: l'organizzazione non è statica, evolve e apprende, e l'apprendimento produce efficienza, da cui la possibilità di crescere.
+**Opzione:** Efficienza: l'organizzazione evolve e apprende, e l'apprendimento produce efficienza.
 **Distrattori:**
 - Rigidità: l'organizzazione apprende procedure che la rendono statica.
 - Nuovi costi di formazione, che frenano la crescita.
 
 **D:** Con quale esempio il docente illustra la trasversalità delle competenze?
 **R:** Il marketing, cioè le competenze commerciali: un bravo venditore, o un'organizzazione capace di gestire in modo efficiente le vendite, passa da un comparto tradizionale a uno innovativo con le medesime competenze.
+**Opzione:** Il marketing, cioè le competenze commerciali, che passano da un comparto tradizionale a uno innovativo.
 **Distrattori:**
 - La tecnologia produttiva, che passa da un impianto all'altro senza nuovi investimenti.
 - Il magazzino freddo, che serve sia i gelati sia i surgelati.
@@ -980,12 +1000,14 @@
 
 **D:** Che cosa sono le «Imprese del settore» nella slide 5 della lezione 04?
 **R:** L'area di sovrapposizione dei quattro insiemi: le imprese concorrenti che rispondono un po' a tutte le esigenze, sia economiche sia tecnologiche.
+**Opzione:** L'area di sovrapposizione dei quattro insiemi: i concorrenti che rispondono un po' a tutte le esigenze.
 **Distrattori:**
 - L'unione dei quattro insiemi: ogni impresa che rientra in almeno uno di essi.
 - Le sole imprese con omogeneità tecnologica, cioè che usano gli stessi impianti.
 
 **D:** ⚠️ Dove si svolge la competizione fra le imprese che lavorano caffè o cacao (omogeneità di input)?
 **R:** A monte, nella capacità di approvvigionarsi di una materia rara che si compra in aste internazionali.
+**Opzione:** A monte, nella capacità di approvvigionarsi di una materia rara.
 **Distrattori:**
 - A valle, nella grande distribuzione organizzata.
 - Nella tecnologia degli impianti di lavorazione.
@@ -1061,6 +1083,7 @@
 
 **D:** ⚠️ Come definisce le economie di scala la slide 2 della lezione 05?
 **R:** «Riduzione del costo medio unitario del prodotto o servizio derivante da un aumento della dimensione dell'impianto».
+**Opzione:** Riduzione del costo medio unitario del prodotto o servizio derivante da un aumento della dimensione dell'impianto.
 **Distrattori:**
 - Riduzione del costo totale del prodotto o servizio derivante da un aumento della dimensione dell'impianto.
 - Aumento del costo medio unitario del prodotto o servizio derivante da un aumento della dimensione dell'impianto.
@@ -1068,13 +1091,15 @@
 
 **D:** ⚠️ Quali sono, nella slide 2 della lezione 05, le fonti delle economie di scala?
 **R:** Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
+**Opzione:** Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
 **Distrattori:**
-- Migliore sfruttamento delle dotazioni tecnologiche dedicate; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
-- Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti ai clienti; Divisione del lavoro ed ec. di apprendimento; Economie di coordinamento.
 - Migliore sfruttamento delle dotazioni tecnologiche comuni; Sconti con i fornitori; Divisione del lavoro ed ec. di apprendimento; Economie di gamma.
+- Step di filiera; Business; Prodotti; Segmenti di clientela; Canali; Aree geografiche.
+- Minaccia di nuovi entranti, potere di mercato degli acquirenti, potere dei fornitori, intensità della concorrenza interna, minaccia dei prodotti/servizi sostitutivi.
 
 **D:** Su che cosa hanno fondato il vantaggio competitivo le imprese che hanno costruito «in modo pesante» la capacità produttiva?
 **R:** Su un sistema di costi sempre più efficiente, investendo in modo corposo in tecnologie: è la strategia di leadership di costo, da cui nascono le economie di scala.
+**Opzione:** Su un sistema di costi sempre più efficiente, investendo in modo corposo in tecnologie.
 **Distrattori:**
 - Sulla differenziazione, costruendo un'immagine che le distingue agli occhi del consumatore.
 - Sulle risorse immateriali, come il brand e il know-how.
@@ -1174,6 +1199,7 @@
 
 **D:** Quale esempio di replicabilità delle mansioni organizzative porta il docente della lezione 05?
 **R:** I sistemi di produzione senza scorte, «a scorte zero», del toyotismo: niente scorte di materie prime né di semilavorati fra un'attività produttiva e l'altra.
+**Opzione:** I sistemi di produzione senza scorte, a scorte zero, del toyotismo.
 **Distrattori:**
 - La produzione per il magazzino, per abbassare il costo medio unitario.
 - La divisione del lavoro in fasi introdotta da Ford.
@@ -1194,6 +1220,7 @@
 
 **D:** Che cosa sono le diseconomie fra le economie da esperienza?
 **R:** Le inefficienze che derivano dal replicare sempre le stesse azioni; se si impara e si apprende, quella replica può essere superata.
+**Opzione:** Le inefficienze che derivano dal replicare sempre le stesse azioni.
 **Distrattori:**
 - Le inefficienze di un impianto troppo grande, oltre la DEM.
 - I costi della formazione dei nuovi assunti.
@@ -1261,6 +1288,7 @@
 
 **D:** Con quale esempio il docente illustra le diseconomie dimensionali?
 **R:** Molte piccole e medie imprese italiane sono accentrate nella decisione dell'imprenditore, che non sa delegare: diventare più grandi significa imparare a delegare.
+**Opzione:** Molte piccole e medie imprese italiane, accentrate nella decisione dell'imprenditore, che non sa delegare.
 **Distrattori:**
 - Le grandi corporation, dove le informazioni viaggiano più lente verso il centro.
 - Le imprese che non trovano un compratore per i business in perdita.
@@ -1332,6 +1360,7 @@
 
 **D:** ⚠️ Come definisce le economie di varietà o raggio di azione la slide 2 della lezione 06?
 **R:** «E' più economico combinare due o più linee di prodotti in un'unica azienda».
+**Opzione:** È più economico combinare due o più linee di prodotti in un'unica azienda.
 **Distrattori:**
 - È più economico produrre un'unica linea di prodotti in due o più aziende.
 - È più economico aumentare la dimensione dell'impianto di un'unica linea di prodotti.
@@ -1388,6 +1417,7 @@
 
 **D:** Che esempio dà il docente delle attività della catena del valore comuni?
 **R:** La logistica: il trasporto, che all'andata viaggia pieno di prodotti finiti e al ritorno viaggerebbe vuoto, si ricarica di materie prime per un'altra fabbrica del gruppo, e viaggia carico all'andata e al ritorno.
+**Opzione:** La logistica condivisa: il trasporto viaggia carico sia all'andata sia al ritorno.
 **Distrattori:**
 - La contrattazione centralizzata con la grande distribuzione organizzata.
 - Il brand ombrello che compare su tutti i prodotti del gruppo.
@@ -1408,6 +1438,7 @@
 
 **D:** ⚠️ Come definisce le esternalità di rete la slide 4 della lezione 06?
 **R:** «L'azienda si costringe a crescere stimolando esasperatamente la domanda». Esempi: E-Bay, Microsoft.
+**Opzione:** L'azienda si costringe a crescere stimolando esasperatamente la domanda.
 **Distrattori:**
 - L'azienda si costringe a crescere riducendo esasperatamente i costi.
 - L'azienda rinuncia a crescere per non stimolare i concorrenti.
@@ -1429,7 +1460,7 @@
 
 **D:** Perché la delocalizzazione degli impianti è un esempio di esternalità?
 **R:** Molti produttori italiani hanno delocalizzato prima nell'Europa dell'Est (Romania, Bulgaria), poi in Cina, per il minor costo del lavoro. Ma la soluzione è stata copiata dai concorrenti, e nei comparti in cui il costo è l'arma vincente è diventata un elemento senza il quale non si può più competere.
-**Opzione:** Perché i concorrenti l'hanno copiata, e oggi senza di essa non si può più competere.
+**Opzione:** Perché i concorrenti l'hanno copiata, e dove il costo è l'arma vincente oggi senza di essa non si può più competere.
 **Distrattori:**
 - Perché ha dato un vantaggio permanente a chi ha delocalizzato per primo.
 - Perché la legge ha imposto a tutti di delocalizzare.
@@ -1465,13 +1496,15 @@
 
 **D:** ⚠️ Quali sono le opportunità esterne che spingono a diversificare (slide 7 della lezione 06)?
 **R:** Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
+**Opzione:** Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
 **Distrattori:**
-- Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Crescita della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
 - Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Bassi costi di transazione; Politiche pubbliche (es privatizzazioni e liberalizzazioni).
-- Opportunità di mercato in cui l'impresa possiede un rilevante vantaggio competitivo; Calo della domanda nel business attuale; Elevati costi di transazione; Politiche pubbliche (es nazionalizzazioni e monopoli).
+- Economie di scala e/o scopo; eccesso di capacità; risorse immobilizzate; frazionamento del rischio; sinergie tra risorse tangibili e intangibili.
+- I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
 
 **D:** Con quale esempio il docente illustra l'opportunità di replicare un vantaggio competitivo?
 **R:** Il Made in Italy: un'impresa che produce pasta può produrre prodotti dolciari, con tecnologie e clienti diversi. Non avranno l'etichetta del Made in Italy, che è un doc, ma il consumatore si aspetta dalla stessa azienda la stessa qualità.
+**Opzione:** Il Made in Italy replicato dalla pasta ai prodotti dolciari.
 **Distrattori:**
 - L'energia e la telefonia aperte dalle liberalizzazioni.
 - La commissione pagata ad Amazon per vendere online.
@@ -1485,12 +1518,14 @@
 
 **D:** Con quale esempio il docente illustra gli elevati costi di transazione?
 **R:** Nel largo consumo cresce il potere contrattuale di chi vende effettivamente il prodotto: per vendere su Amazon si paga una commissione molto alta, e il margine per prodotto diventa via via decrescente. Questo spinge verso comparti senza questi intermediari.
+**Opzione:** La commissione molto alta pagata ad Amazon per vendere online.
 **Distrattori:**
 - Il Made in Italy replicato dalla pasta ai prodotti dolciari.
 - Le liberalizzazioni dell'energia e della telefonia.
 
 **D:** Quali esempi di politiche pubbliche dà il docente fra le opportunità esterne?
 **R:** Le privatizzazioni e liberalizzazioni degli ultimi 15–20 anni in Italia e in Europa: diventare produttore o distributore di energia, o gestore di reti telefoniche, comparti che prima erano monopolio dello Stato.
+**Opzione:** Le privatizzazioni e liberalizzazioni di energia e reti telefoniche.
 **Distrattori:**
 - Gli incentivi pubblici alla delocalizzazione degli impianti in Cina.
 - La commissione pagata ad Amazon per vendere online.
@@ -1504,6 +1539,7 @@
 
 **D:** ⚠️ Che cos'è la diversificazione nella matrice di Ansoff?
 **R:** Il quadrante dei prodotti nuovi in mercati nuovi: ci si muove da un'ASA a una completamente nuova, con nuovi prodotti, nuovi bisogni, nuove tecnologie.
+**Opzione:** Il quadrante dei prodotti nuovi in mercati nuovi.
 **Distrattori:**
 - Il quadrante dei prodotti attuali in mercati nuovi.
 - Il quadrante dei prodotti nuovi nei mercati attuali.
@@ -1591,9 +1627,9 @@
 **D:** ⚠️ Quali sono, nell'ordine, le quattro voci della slide 2 della lezione 07, sul passaggio dal core business alle core competences?
 **R:** Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla creazione del valore: es il brand Value.
 **Distrattori:**
-- Il valore delle risorse materiali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla creazione del valore: es il brand Value.
-- Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per competenze ad una per funzioni; Gli effetti sulla creazione del valore: es il brand Value.
 - Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla riduzione dei costi: es le economie di scala.
+- Opportunismo; Specificità delle risorse (piccoli numeri); Incertezza; Alta frequenza delle transazioni.
+- Unicità di comando e di indirizzo; Scelte di lungo periodo; Assunzione di responsabilità nella filiera; Dimensione.
 
 **D:** ⚠️ Perché, secondo il docente della lezione 07, le corporation hanno dovuto cercare ragioni di crescita intangibili?
 **R:** Perché le ragioni tangibili (dimensione dell'impianto, economie di scala e di scope) sono diventate diffuse, «patrimonio di tutti», e copiabili. Servivano ragioni peculiari, specifiche della singola compagnia, e quindi «difficili da copiare, difficili da replicare».
@@ -1679,8 +1715,8 @@
 **Opzione:** Quali opportunità sussistono per economie nella finanza, nelle scorte e negli investimenti fissi? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
 **Distrattori:**
 - Quali opportunità sussistono per economie nella finanza, nelle scorte e negli investimenti fissi? Quali sono le possibilità per acquisire nuove risorse?
-- Quali opportunità sussistono per economie nel marketing, nelle vendite e nella distribuzione? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
-- Quali opportunità sussistono per economie di scala e di varietà? Quali sono le possibilità per un migliore impiego delle risorse esistenti?
+- E se invece di ragionare su un core business ragionassimo su core competences?
+- Gli impieghi di risorse in eccesso e le fonti delle risorse interne al settore.
 
 **D:** ⚠️ Che esempio dà il docente della lezione 07 di migliore impiego delle risorse esistenti?
 **R:** Una politica di segmentazione: chi l'ha usata in un comparto la replica in un altro «senza dover imparare a segmentare», usando un modello di cui già dispone. Ottimizzare le competenze di marketing è «un altro sapere», come saper gestire tesoreria, scorte e investimenti fissi.
@@ -1908,6 +1944,7 @@
 **R:** O sono **esistenti** all'interno della corporation, o sono **nuove**, «competenze che mi vado a comprare sul mercato»: si cresce in una nuova area strategica d'affari perché lì ci sono competenze che non si hanno e che si ritengono core. Esempio: il produttore di tessile-abbigliamento che non sa vendere e compra una catena di distribuzione.
 **Opzione:** Possono essere esistenti all'interno della corporation o nuove, comprate sul mercato.
 **Distrattori:**
+- Possono essere esistenti all'interno della corporation o nuove, comprate solo dai concorrenti diretti.
 - Possono essere solo esistenti all'interno della corporation.
 - Possono essere solo nuove, comprate sul mercato.
 
@@ -2140,10 +2177,11 @@
 
 **D:** ⚠️ Quali sono, nell'ordine, i cinque costi della diversificazione della lezione 09?
 **R:** I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
+**Opzione:** I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
 **Distrattori:**
 - I costi organizzativi (costo opportunità); I costi finanziari (costo del compromesso); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle esternalità.
-- I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'entrata); I costi del cambiamento; Gli effetti delle esternalità.
-- I costi organizzativi (costo del compromesso); I costi finanziari (costo opportunità); I costi strategici (barriere all'uscita); I costi del cambiamento; Gli effetti delle economie di scala.
+- La condivisione dei costi fissi; L'ottimizzazione del rischio di impresa; Umbrella branding e effetti di marketing strategico.
+- Velocizza le decisioni; Stadi iniziali del CVP; Migliore riferimento delle immaterialità; Migliore visione di insieme delle risorse corporate.
 
 **D:** ⚠️ A quale costo della diversificazione corrisponde il «costo del compromesso»?
 **R:** Ai **costi organizzativi**: tenere insieme business diversi, valutati solo sui risultati, costringe a sostenere «soluzioni di compromesso» che equilibrano il portafoglio. ⚠️ Più avanti il docente chiama «costo del compromesso» anche il costo opportunità: vale la coppia della slide.
@@ -2186,9 +2224,9 @@
 
 **D:** ⚠️ Perché la diversificazione genera costi del cambiamento, e quale esempio fa il docente della lezione 09?
 **R:** Perché sono «legati alla dimensione»: una corporation diversificata deve innovare in tanti mercati diversi, e il cambiamento è più lento. Esempio: la digitalizzazione (o l'intelligenza artificiale), relativamente semplice nel tessile-abbigliamento (design, rapporto con il cliente, advertisement), più complicata nel food, dove il rapporto col cliente è fisico, fatto di sensazioni ed esperienze.
-**Opzione:** Perché bisogna innovare in tanti mercati diversi: digitalizzare è facile nel tessile, difficile nel food.
+**Opzione:** Perché bisogna innovare in tanti mercati diversi: digitalizzare è più facile nel tessile, più difficile nel food.
 **Distrattori:**
-- Perché bisogna innovare in tanti mercati diversi: digitalizzare è facile nel food, difficile nel tessile.
+- Perché bisogna innovare in tanti mercati diversi: digitalizzare è più facile nel food, più difficile nel tessile.
 - Perché il cambiamento richiede di vendere i business meno redditizi.
 
 **D:** ⚠️ Che cosa sono gli effetti delle esternalità, fra i costi della diversificazione?
@@ -2226,7 +2264,7 @@
 **R:** Decrescono: il rendimento in più che ogni business aggiunge è «via via decrescente», per effetto del costo della distanza. Con una crescita fortemente correlata il beneficio addizionale è invece «molto alto».
 **Opzione:** Decrescono, per effetto del costo della distanza.
 **Distrattori:**
-- Crescono, per effetto della condivisione delle informazioni.
+- Crescono, per effetto del costo della distanza.
 - Restano costanti, per effetto della diversificazione del rischio.
 
 **D:** ⚠️ Perché l'acquisizione della trasformazione del grano da parte di un produttore di pasta non è vera diversificazione, secondo la lezione 09?
@@ -2387,7 +2425,7 @@
 
 **D:** ⚠️ Che cosa significa «mietere» nella matrice McKinsey?
 **R:** Nei business che «hanno fatto il loro tempo», o in cui si è sbagliato a investire, «cercare di vendere al prezzo più alto possibile» e realizzare i guadagni finanziari più profittevoli possibili.
-**Opzione:** Vendere al prezzo più alto possibile i business che hanno fatto il loro tempo.
+**Opzione:** Vendere al prezzo più alto possibile i business che hanno fatto il loro tempo o in cui si è sbagliato a investire.
 **Distrattori:**
 - Mantenere e scremare il mercato, ricavando cassa da destinare ai business da costruire.
 - Investire per approfittare di un mercato in crescita.
@@ -2427,8 +2465,8 @@
 **Opzione:** «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Assenza di infrastrutture; Incentivi alle capacità.
 **Distrattori:**
 - «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Assenza di infrastrutture; Unicità di comando e di indirizzo.
-- «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Migliore elaborazione delle informazioni; Presenza di infrastrutture; Incentivi alle capacità.
-- «La mano invisibile» e la massimizzazione della ricchezza delle nazioni; Scelte di lungo periodo; Assenza di infrastrutture; Incentivi alle capacità.
+- Il valore delle risorse immateriali; Il ruolo delle competenze per lo sviluppo; Il passaggio da una logica per funzioni ad una per competenze; Gli effetti sulla creazione del valore: es il brand Value.
+- Risorse; Diseconomie; Lentezza nel cambiamento.
 
 **D:** ⚠️ Quale avvertenza fa il docente della lezione 10 sulla «mano invisibile»?
 **R:** La logica del mercato che si aggiusta da sola «funziona per il **mercato**, non funziona necessariamente per l'**impresa**». Chi cerca la massimizzazione del valore della corporation vuole stare nella parte di mercato in cui il business produce valore, non in quella «mortificata dalle condizioni dell'equilibrio». L'aggiustamento non vale nel suo automatismo, ma nell'opportunità di cogliere per primi un'occasione che anche i concorrenti vedono.
@@ -2595,8 +2633,8 @@
 **Opzione:** Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Il controllo dell'alleanza & Cannibalismo.
 **Distrattori:**
 - Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Lentezza nel cambiamento.
-- Vantaggi: Costi, Velocità, Unicità di comando. Svantaggi: Diffidenza e opportunismo, Fronteggiamento delle crisi, Il controllo dell'alleanza & Cannibalismo.
-- Vantaggi: Costi, Velocità, Flessibilità. Svantaggi: Risorse, Diseconomie, Lentezza nel cambiamento.
+- Localizzazione, Risorse fisiche, Capitale umano.
+- Sono costose; Come gestire l'integrazione?
 
 **D:** ⚠️ Perché le alleanze sono una soluzione di «quasi mercato», secondo il docente della lezione 10?
 **R:** Perché non sono proprio il mercato, in cui «mi compro la soluzione sul mercato al prezzo migliore che c'è», ma stabiliscono **relazioni di lungo periodo** con gli attori che stanno attorno. Si **contrappongono** alla crescita per via interna.
@@ -2685,9 +2723,9 @@
 
 **D:** ⚠️ Perché due aziende scelgono di fondersi, invece di acquisirsi o di legarsi con una relazione di mercato, secondo la lezione 11?
 **R:** Perché sono aziende, a volte **concorrenti**, «che difficilmente avrebbero la forza di **acquisire l'una l'altra**», e la cui interazione è così stretta che «una semplice **relazione di mercato** non basta per ottenere tutte le sinergie possibili». La fusione genera però problemi di equilibrio, di potere e di visione.
-**Opzione:** Perché nessuna delle due avrebbe la forza di acquisire l'altra, e una relazione di mercato non basta per tutte le sinergie.
+**Opzione:** Perché difficilmente avrebbero la forza di acquisire l'una l'altra, e una semplice relazione di mercato non basta per tutte le sinergie.
 **Distrattori:**
-- Perché una delle due ha la forza di acquisire l'altra, e una relazione di mercato basterebbe per le sinergie.
+- Perché difficilmente avrebbero la forza di acquisire l'una l'altra, e una semplice relazione di mercato basterebbe per tutte le sinergie.
 - Perché le due aziende operano in mercati fra i quali non c'è alcuna sinergia.
 
 **D:** ⚠️ Perché Fiat e Peugeot-Citroën si sono fuse in Stellantis, secondo il docente della lezione 11?
@@ -2913,8 +2951,9 @@
 
 **D:** ⚠️ Che cosa cambia nelle slide dello sviluppo interno e delle alleanze della lezione 12 rispetto a quelle della lezione 10?
 **R:** Quasi nulla: sono le stesse slide. L'ultimo svantaggio dello sviluppo interno diventa «**Lentezza**» invece di «Lentezza nel cambiamento», e fra «Il controllo dell'alleanza» e «Cannibalismo» sparisce la «**&**». Restano quattro vantaggi e tre svantaggi per lo sviluppo interno, tre e tre per le alleanze.
-**Opzione:** Solo «Lentezza» al posto di «Lentezza nel cambiamento» e la «&» che sparisce fra controllo dell'alleanza e cannibalismo.
+**Opzione:** «Lentezza» al posto di «Lentezza nel cambiamento» e una freccia al posto della «&» fra controllo dell'alleanza e cannibalismo.
 **Distrattori:**
+- «Lentezza nel cambiamento» al posto di «Lentezza» e una freccia al posto della «&» fra controllo dell'alleanza e cannibalismo.
 - Le alleanze perdono il vantaggio «Flessibilità».
 - Lo sviluppo interno guadagna lo svantaggio «Costi».
 
@@ -2969,10 +3008,10 @@
 
 **D:** ⚠️ Che cosa dice la linea del tempo della lezione 12 su Lego nel 2010?
 **R:** Oltre **9000** dipendenti, **quarto** produttore di giocattoli, vendite annue per **3,7 miliardi** di dollari e utile netto di **0,86 miliardi**. ⚠️ Il docente dice «3,7 **milioni**»: vale la slide.
-**Opzione:** Quarto produttore di giocattoli, con vendite per 3,7 miliardi di dollari e utile netto di 0,86 miliardi.
+**Opzione:** Oltre 9000 dipendenti, quarto produttore di giocattoli, con vendite per 3,7 miliardi di dollari e utile netto di 0,86 miliardi.
 **Distrattori:**
-- Quarto produttore di giocattoli, con vendite per 3,7 milioni di dollari e utile netto di 0,86 milioni.
-- Primo produttore di giocattoli, con vendite per 0,86 miliardi di dollari e utile netto di 3,7 miliardi.
+- Oltre 9000 dipendenti, quarto produttore di giocattoli, con vendite per 3,7 milioni di dollari e utile netto di 0,86 milioni.
+- Oltre 9000 dipendenti, primo produttore di giocattoli, con vendite per 0,86 miliardi di dollari e utile netto di 3,7 miliardi.
 
 **D:** ⚠️ Con quali quattro rimedi Lego affronta i «problemi interni» (4 anni in perdita su 7) della sua linea del tempo?
 **R:** Ottimizzazione del processo produttivo; riduzione dei fornitori; riduzione della varietà del design; ottimizzazione della distribuzione.
@@ -2991,10 +3030,10 @@
 
 **D:** ⚠️ Che cosa fece Lego nella crisi del 2004, secondo la lezione 12?
 **R:** Un classico **turnaround**: fermare il calo delle vendite, **ridurre il debito**, puntare sul **cash flow**, con uno stretto controllo finanziario e una gestione **top-down**. Poi tornò ai **prodotti core**, il cui design aiuta i bambini a imparare il problem solving sistematico e creativo.
-**Opzione:** Un turnaround: fermare il calo delle vendite, ridurre il debito, puntare sul cash flow, con gestione top-down.
+**Opzione:** Un turnaround: fermare il calo delle vendite, ridurre il debito, puntare sul cash flow, con stretto controllo finanziario e gestione top-down.
 **Distrattori:**
+- Un turnaround: fermare il calo delle vendite, ridurre il debito, puntare sul cash flow, con stretto controllo finanziario e gestione bottom-up.
 - Un'acquisizione: comprare un concorrente per tornare a crescere.
-- Un turnaround con gestione bottom-up e aumento del debito per investire.
 
 **D:** ⚠️ Come coinvolge Lego i fan nello sviluppo dei prodotti, secondo la lezione 12?
 **R:** Dal **2005** coinvolge alcuni fan entusiasti nello sviluppo dei prodotti e li incoraggia a proporre idee: la comunità Lego è uno dei suoi **core assets**, come il mattoncino. Ha **120** designer interni, ma potenzialmente **120.000** designer volontari fuori dall'azienda.
@@ -3155,8 +3194,8 @@
 **Opzione:** La concentrazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
 **Distrattori:**
 - La concentrazione azionaria; Le aspettative degli shareholders; Il ruolo degli stakeholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
-- La frammentazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei mercati finanziari e dello Stato.
-- La concentrazione azionaria; Le aspettative degli stakeholders; Il ruolo degli shareholders; Il contesto normativo, competitivo e di settore; Il ruolo dei sindacati e delle banche.
+- Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
+- Scoperto c/c bancario; debiti verso fornitori; debiti tributari; debiti a breve termine; ratei e risconti passivi.
 
 **D:** ⚠️ Fra i fattori della governance della lezione 13, quale riguarda gli stakeholders e quale gli shareholders, secondo la slide?
 **R:** Per la slide il **secondo** fattore sono «Le **aspettative** degli **stakeholders**» e il **terzo** «Il **ruolo** degli **shareholders**». ⚠️ Il docente li commenta scambiati: il secondo come le aspettative degli **azionisti** (interessi industriali o speculativi), il terzo come l'**ambiente esterno** (sindacati, banche, mercati finanziari). Nei quiz valgono le parole della slide.
@@ -3233,8 +3272,8 @@
 **Opzione:** Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
 **Distrattori:**
 - Mercati finanziari non efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
-- Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere negli azionisti; contendibilità del management.
-- Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; concentrazione del capitale; concentrazione del potere nel management; contendibilità del management.
+- PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
+- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
 
 **D:** Che cosa significa che i mercati finanziari sono efficienti, secondo il docente della lezione 13?
 **R:** Che «ci sono **molte transazioni** e sono **molto frequenti**», quindi è facile comprare e vendere. Chi porta le azioni sul mercato ottiene un effetto sul **prezzo**, al rialzo o al ribasso, «non già l'impossibilità di vendere».
@@ -3276,8 +3315,8 @@
 **Opzione:** Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
 **Distrattori:**
 - Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata alle relazioni.
-- Pochi grandi azionisti; un socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
-- Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo degli azionisti e unione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
+- Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento a credito; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+- Mutui passivi; debiti a lungo termine; prestiti obbligazionari; debiti TFR.
 
 **D:** ⚠️ Come definisce la slide delle public companies la contendibilità del controllo?
 **R:** «Concreta possibilità di perdita del controllo da parte di chi lo esercita, **anche senza il suo consenso**».
@@ -3310,14 +3349,14 @@
 
 **D:** ⚠️ Che rapporto c'è fra indebitamento e discrezionalità del management, secondo la slide delle implicazioni dell'outsider system?
 **R:** La discrezionalità del management «è possibile **ridurre** attraverso il ricorso all'**indebitamento**». ⚠️ Il docente dice il contrario: la discrezionalità «può consentire una riduzione dell'indebitamento», perché il manager che ottiene fiducia attira nuovi azionisti. Nei quiz vale la slide.
-**Opzione:** Il ricorso all'indebitamento riduce la discrezionalità del management.
+**Opzione:** È possibile ridurre la discrezionalità del management attraverso il ricorso all'indebitamento.
 **Distrattori:**
-- Il ricorso all'indebitamento aumenta la discrezionalità del management.
+- È possibile aumentare la discrezionalità del management attraverso il ricorso all'indebitamento.
 - La discrezionalità del management non dipende dall'indebitamento.
 
 **D:** ⚠️ Perché i manager «immunizzano» il gruppo dal rischio degli eredi, secondo la lezione 13?
 **R:** Perché i manager più capaci, anche se privi di capitale di rischio, gestiscono con efficienza, «allontanando a volte gli eredi, spesso meno capaci dei fondatori». Quando il fondatore muore, i familiari possono trovarsi a guidare l'azienda senza preparazione; il manager ha un comportamento **professionale**, anche nel **ricambio generazionale**.
-**Opzione:** Perché gestiscono in modo professionale e allontanano gli eredi, spesso meno capaci dei fondatori.
+**Opzione:** Perché gestiscono in modo professionale e allontanano a volte gli eredi, spesso meno capaci dei fondatori.
 **Distrattori:**
 - Perché sono gli eredi del fondatore e ne conoscono il mestiere.
 - Perché devono apportare capitale di rischio per gestire l'impresa.
@@ -3424,11 +3463,11 @@
 
 **D:** ⚠️ In quali paesi è tipico il sistema renano, e quali caratteristiche ha (lezione 14)?
 **R:** **Germania**, **Austria** e **Paesi Scandinavi**. Caratteristiche: presenza di pochi grandi azionisti che hanno una forte influenza sulla gestione aziendale; sistema legislativo basato sulla **civil law**; il ruolo del mercato azionario è **meno rilevante** rispetto ai sistemi angloamericani; le **banche e i lavoratori** sono attori cruciali nel sistema impresa.
-**Opzione:** Germania, Austria e Paesi Scandinavi: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori attori cruciali.
+**Opzione:** Germania, Austria e Paesi Scandinavi: presenza di pochi grandi azionisti che hanno una forte influenza sulla gestione aziendale; sistema legislativo basato sulla civil law; il ruolo del mercato azionario è meno rilevante rispetto ai sistemi angloamericani; le banche e i lavoratori sono attori cruciali nel sistema impresa.
 **Distrattori:**
-- Germania, Austria e Paesi Scandinavi: azionariato diffuso, common law, mercato azionario più rilevante, banche e lavoratori attori cruciali.
-- Germania, Austria e Paesi Scandinavi: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori esclusi dal sistema impresa.
-- Francia, Italia e Spagna: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori attori cruciali.
+- Germania, Austria e Paesi Scandinavi: presenza di pochi grandi azionisti che hanno una forte influenza sulla gestione aziendale; sistema legislativo basato sulla civil law; il ruolo del mercato azionario è meno rilevante rispetto ai sistemi angloamericani; le banche e i lavoratori sono esclusi dal sistema impresa.
+- Stati Uniti, Gran Bretagna e Irlanda; common law.
+- Elevatissimo numero di azionisti; nessun socio con una quota di controllo; controllo del management e separazione tra proprietà e controllo; contendibilità del controllo; riallocazione del controllo affidata al mercato.
 
 **D:** ⚠️ Che rapporto c'è fra i grandi azionisti e il manager nel sistema renano, secondo il docente della lezione 14?
 **R:** «Non è più un rapporto di **controllo**, ma è un rapporto di **fiducia**, di sinergia»: il manager è espressione della maggioranza che l'ha nominato in consiglio di amministrazione e risponde soprattutto a quegli amministratori. Le sue missioni sono di medio-lungo termine.
@@ -3460,7 +3499,7 @@
 
 **D:** ⚠️ Che rapporto hanno le banche tedesche con i grandi gruppi industriali, secondo la lezione 14?
 **R:** Operano in **stretta correlazione** con loro: il grande gruppo è spesso uno dei principali clienti della grande banca, che se fallisse avrebbe difficoltà e quindi fatica a dire di no (**Deutsche Bank** ha rischiato di essere acquisita, «se non fosse stata protetta dal sistema finanziario tedesco»). In cambio i crediti verso gruppi solidi sono sicuri.
-**Opzione:** Operano in stretta correlazione con i grandi gruppi, loro clienti principali, e faticano a dire di no.
+**Opzione:** Operano in stretta correlazione con i grandi gruppi, che a volte sono fra i loro principali clienti: per questo faticano a dire di no.
 **Distrattori:**
 - Sono separate per legge dai gruppi industriali e restano fuori dagli organi di controllo.
 - Sono gli azionisti di maggioranza dei grandi gruppi industriali.
@@ -3516,11 +3555,11 @@
 
 **D:** ⚠️ In quali paesi è tipico il sistema latino, e quali caratteristiche ha (lezione 14)?
 **R:** **Francia**, **Italia**, **Spagna**, **Portogallo** e **Grecia**. Caratteristiche: grande presenza di imprese familiari; presenza di azionisti di riferimento che **limitano** l'autonomia del management; sistema legislativo basato sulla **civil law**; mercati borsistici **meno efficienti**; il ruolo delle banche e dei lavoratori nella gestione aziendale **non è così forte** come nel sistema renano.
-**Opzione:** Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, civil law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
+**Opzione:** Francia, Italia, Spagna, Portogallo e Grecia: grande presenza di imprese familiari; presenza di azionisti di riferimento che limitano l'autonomia del management; sistema legislativo basato sulla civil law; mercati borsistici meno efficienti; il ruolo delle banche e dei lavoratori nella gestione aziendale non è così forte come nel sistema renano.
 **Distrattori:**
-- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che ampliano l'autonomia del management, civil law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
-- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, common law, mercati borsistici meno efficienti, banche e lavoratori meno forti che nel renano.
-- Francia, Italia, Spagna, Portogallo e Grecia: imprese familiari, azionisti di riferimento che limitano il management, civil law, mercati borsistici meno efficienti, banche e lavoratori più forti che nel renano.
+- Francia, Italia, Spagna, Portogallo e Grecia: grande presenza di imprese familiari; presenza di azionisti di riferimento che limitano l'autonomia del management; sistema legislativo basato sulla common law; mercati borsistici meno efficienti; il ruolo delle banche e dei lavoratori nella gestione aziendale non è così forte come nel sistema renano.
+- Mercati finanziari efficienti; titoli quotati/prezzo come segnale di performance; possibilità di takeover; frammentazione del capitale; concentrazione del potere nel management; contendibilità del management.
+- Manager capaci senza capitale di rischio; maggiore discrezionalità del management; asimmetrie informative; costi di agenzia; short termism.
 
 **D:** ⚠️ A che cosa servivano le partecipazioni incrociate fra i grandi capitalisti italiani negli anni '80, secondo la lezione 14?
 **R:** Non a speculare, ma a essere **costantemente informati** su ciò che accadeva negli altri grandi gruppi e a **evitare scalate ostili** (la famiglia Benetton nel gruppo Fiat, la famiglia Agnelli nel gruppo Del Vecchio, attraverso una banca d'affari). Con una «stanza di compensazione» i grandi capitalisti stabilizzavano il sistema: stagnante, ma stabile e affidabile per gli investitori.
@@ -3531,7 +3570,7 @@
 
 **D:** ⚠️ Perché i grandi gruppi latini sono fortemente indebitati, secondo il docente della lezione 14?
 **R:** «Forse proprio perché sono **imprese familiari**»: la famiglia, piuttosto che investire in innovazione con soldi propri, preferisce **indebitarsi**, soprattutto quando il costo del capitale è basso. Per questo il rapporto con la banca è critico.
-**Opzione:** Perché sono imprese familiari: la famiglia preferisce indebitarsi piuttosto che investire soldi propri.
+**Opzione:** Perché, forse proprio in quanto imprese familiari, molto spesso la famiglia preferisce indebitarsi piuttosto che investire in innovazione con soldi propri.
 **Distrattori:**
 - Perché le banche siedono nei loro organi di controllo.
 - Perché sono public companies con azionariato diffuso.
@@ -3617,19 +3656,19 @@
 
 **D:** ⚠️ Perché l'Italia è un caso anomalo rispetto ai modelli di corporate governance (lezione 15)?
 **R:** Perché in Italia «non sono presenti intermediari finanziari di dimensioni paragonabili a quelle di un sistema **"banco centrico"**», né esiste un mercato azionario con adeguati livelli di **liquidità, ampiezza ed efficienza** come quello **americano**. Non ha né le banche del modello tedesco né la Borsa del modello americano.
-**Opzione:** Non ha intermediari finanziari da sistema banco centrico né un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano.
+**Opzione:** Non ha intermediari finanziari di dimensioni paragonabili a quelle di un sistema banco centrico, né un mercato azionario con adeguati livelli di liquidità, ampiezza ed efficienza come quello americano.
 **Distrattori:**
-- Ha intermediari finanziari da sistema banco centrico, ma non un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano.
-- Ha un mercato azionario con adeguata liquidità, ampiezza ed efficienza come quello americano, ma non intermediari finanziari da sistema banco centrico.
-- Non ha intermediari finanziari da sistema banco centrico né un mercato azionario con adeguata liquidità, trasparenza e capitalizzazione come quello tedesco.
+- Ha intermediari finanziari di dimensioni paragonabili a quelle di un sistema banco centrico, ma non un mercato azionario con adeguati livelli di liquidità, ampiezza ed efficienza come quello americano.
+- Perché ha un tasso di interesse molto alto rispetto ad altre forme di prestito.
+- Perché le aziende più rischiose devono assicurargli un rendimento molto alto: è un finanziatore interno, non esterno come la banca.
 
 **D:** ⚠️ Quali sono le caratteristiche del sistema paese italiano (lezione 15)?
 **R:** Le PMI rappresentano l'ossatura portante del sistema; assenza di vere e proprie public companies; presenza di grandi imprese familiari; quotazione sul mercato azionario limitata; forte presenza storica dello Stato e degli enti locali; le banche e le istituzioni finanziarie non hanno un'importanza rilevante nel sistema.
 **Opzione:** PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
 **Distrattori:**
-- PMI ossatura portante; presenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
 - PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione limitata; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie con importanza rilevante.
-- PMI ossatura portante; assenza di vere public companies; grandi imprese familiari; quotazione diffusa; forte presenza storica dello Stato e degli enti locali; banche e istituzioni finanziarie senza importanza rilevante.
+- Un turnaround: fermare il calo delle vendite, ridurre il debito, puntare sul cash flow, con stretto controllo finanziario e gestione top-down.
+- Rotazione del capitale circolante commerciale; liquidità e copertura; struttura finanziaria; redditività; mercato o multipli di Borsa.
 
 **D:** Che ruolo ha avuto la Banca d'Italia nel sistema bancario italiano, secondo la lezione 15?
 **R:** Ha **impedito** che le banche si facessero concorrenza fra loro, con un ruolo di **mitigatore** e di **controllore**, attraverso la vigilanza e le azioni ispettive, per evitare crisi e fallimenti. L'esempio è il **Banco di Napoli**, salvato con la fusione con Intesa Sanpaolo.
@@ -3668,11 +3707,11 @@
 
 **D:** ⚠️ Quali sono le caratteristiche del modello di corporate governance di una PMI (lezione 15)?
 **R:** Squilibrio a vantaggio dell'azionista che normalmente è coinvolto nella gestione aziendale; l'informazione e i principi contabili sono molto deboli; il finanziamento è in prevalenza sotto forma di credito (banche e fornitori); i creditori hanno scarso potere di disciplina; un costante monitoring da parte delle banche sarebbe necessario per limitare il moral hazard.
-**Opzione:** Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento a credito; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+**Opzione:** Squilibrio a vantaggio dell'azionista che normalmente è coinvolto nella gestione aziendale; informazione e principi contabili molto deboli; finanziamento in prevalenza sotto forma di credito (banche e fornitori); creditori con scarso potere di disciplina; un costante monitoring da parte delle banche sarebbe necessario per limitare il moral hazard.
 **Distrattori:**
-- Squilibrio a vantaggio dei soci di minoranza; informazione e principi contabili deboli; finanziamento a credito; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
-- Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento con capitale di rischio; creditori con scarso potere di disciplina; monitoring delle banche necessario contro il moral hazard.
-- Squilibrio a vantaggio dell'azionista coinvolto nella gestione; informazione e principi contabili deboli; finanziamento a credito; creditori con forte potere di disciplina; monitoring delle banche necessario contro il moral hazard.
+- Squilibrio a vantaggio dell'azionista che normalmente è coinvolto nella gestione aziendale; informazione e principi contabili molto deboli; finanziamento in prevalenza sotto forma di credito (banche e fornitori); creditori con forte potere di disciplina; un costante monitoring da parte delle banche sarebbe necessario per limitare il moral hazard.
+- Premi per gli extra profitti, punizioni se perde la gara competitiva, pagamento in azioni.
+- Dividendi danneggiati, scarsi margini per crescere e azionisti tentati di spostarsi altrove, se il costo di switch è basso.
 
 **D:** ⚠️ Perché nelle PMI i creditori hanno scarso potere di disciplina, secondo la lezione 15?
 **R:** «I **fornitori** per ragioni **commerciali**, le **banche** perché **frazionate**». I fornitori accettano dilazioni per non perdere il cliente; le banche, con le regole di Basilea, frazionano il rischio e diversificano le linee di credito.
@@ -3706,13 +3745,13 @@
 **R:** Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management della società; mancanza di controlli efficaci sull'operato del management.
 **Opzione:** Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
 **Distrattori:**
-- Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; basso rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
-- Proprietà diffusa; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e management; mancanza di controlli efficaci sul management.
 - Proprietà familiare; gruppi piramidali; grande presenza di imprese pubbliche; elevato rischio di collusione tra proprietà e banche; mancanza di controlli efficaci sul management.
+- Germania, Austria e Paesi Scandinavi: pochi grandi azionisti influenti, civil law, mercato azionario meno rilevante, banche e lavoratori attori cruciali.
+- Risultato lordo industriale; EBIT; risultato di competenza; risultato ante-imposte; risultato netto.
 
 **D:** ⚠️ Che cosa sono i gruppi piramidali, secondo il docente della lezione 15?
 **R:** Gruppi senza una governance condivisa né una forte delega, con un **accentramento del potere** verso i vertici attraverso **partecipazioni incrociate** che portano alla **holding** di famiglia o del gruppo. Le decisioni strategiche, e anche quelle operative, si prendono al livello corporate: non c'è la preservazione dell'autonomia delle business unit.
-**Opzione:** Gruppi con il potere accentrato ai vertici, attraverso partecipazioni incrociate che portano alla holding di famiglia.
+**Opzione:** Gruppi con il potere accentrato ai vertici, attraverso partecipazioni incrociate che portano alla holding di famiglia o del gruppo.
 **Distrattori:**
 - Gruppi con forte delega e autonomia delle business unit.
 - Gruppi con proprietà diffusa e management contendibile.
@@ -3733,11 +3772,11 @@
 
 **D:** ⚠️ Quali sono le caratteristiche della struttura proprietaria italiana (lezione 15)?
 **R:** Le famiglie e le imprese individuali possiedono oltre la metà delle imprese; esiste una correlazione positiva tra concentrazione proprietaria e dimensioni d'impresa; la partecipazione delle persone fisiche alla proprietà avviene in genere in forma non anonima; modesta presenza negli assetti proprietari di istituzioni finanziarie.
-**Opzione:** Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; modesta presenza di istituzioni finanziarie.
+**Opzione:** Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in genere in forma non anonima; modesta presenza di istituzioni finanziarie.
 **Distrattori:**
-- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione negativa tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; modesta presenza di istituzioni finanziarie.
-- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma anonima; modesta presenza di istituzioni finanziarie.
-- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione positiva tra concentrazione e dimensioni; partecipazione delle persone fisiche in forma non anonima; forte presenza di istituzioni finanziarie.
+- Famiglie e imprese individuali possiedono oltre metà delle imprese; correlazione negativa tra concentrazione e dimensioni; partecipazione delle persone fisiche in genere in forma non anonima; modesta presenza di istituzioni finanziarie.
+- Vorstand: Consiglio di Amministrazione, funzioni gestionali; Aufsichtsrat: Consiglio di Sorveglianza, funzioni di controllo.
+- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
 
 **D:** ⚠️ Che correlazione c'è fra concentrazione proprietaria e dimensioni d'impresa in Italia (lezione 15)?
 **R:** Una correlazione **positiva**: «tanto è più grande un'impresa tanto **maggiore** è la quota azionaria detenuta dal soggetto controllante». Per il docente è la paura delle scalate ostili, amplificata dal mercato unico europeo.
@@ -3776,7 +3815,7 @@
 
 **D:** ⚠️ Che cos'è la «concezione ristretta» di corporate governance nel contesto italiano, secondo la lezione 15?
 **R:** Una governance che si limita «al potere che possono esercitare gli **azionisti di maggioranza**»; gli altri investitori hanno «un ruolo esclusivamente speculativo». Per la slide consente di analizzare **chi detiene il potere di governo** dell'impresa, cioè il rapporto fra proprietà del capitale e titolarità del potere di governo.
-**Opzione:** Una governance limitata al potere degli azionisti di maggioranza, mentre gli altri investitori hanno un ruolo speculativo.
+**Opzione:** Una governance limitata al potere degli azionisti di maggioranza, mentre gli altri investitori hanno un ruolo esclusivamente speculativo.
 **Distrattori:**
 - Una governance estesa a tutti gli stakeholder, lavoratori e banche compresi.
 - Una governance limitata al potere del management, separato dalla proprietà.
@@ -3889,9 +3928,9 @@
 **R:** **Liquidità immediate** (cassa, titoli a breve termine); **liquidità differite** (crediti verso clienti, effetti attivi); **disponibilità** (scorte, ratei e risconti attivi).
 **Opzione:** Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
 **Distrattori:**
-- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (scorte, ratei e risconti attivi); disponibilità (crediti verso clienti, effetti attivi).
 - Liquidità immediate (cassa, crediti verso clienti); liquidità differite (titoli a breve termine, effetti attivi); disponibilità (scorte, ratei e risconti attivi).
-- Liquidità immediate (cassa, titoli a breve termine); liquidità differite (crediti verso clienti, effetti attivi); disponibilità (partecipazioni, titoli a lungo termine).
+- Materiali (impianti, macchinari, immobili); immateriali (brevetti, know-how, licenze, marchi); finanziarie (partecipazioni, titoli a lungo termine).
+- Capitale sociale; riserve; utili (perdite) di esercizio.
 
 **D:** ⚠️ In quale gruppo del prospetto per liquidità ed esigibilità stanno i crediti verso clienti (lezione 16)?
 **R:** Fra le **liquidità differite**, con gli effetti attivi. Le liquidità immediate sono cassa e titoli a breve termine; le disponibilità sono scorte, ratei e risconti attivi.
@@ -4013,9 +4052,9 @@
 **R:** Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; ratei e risconti (non correnti). Insieme alle attività correnti formano le «attività operative».
 **Opzione:** Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; ratei e risconti (non correnti).
 **Distrattori:**
-- Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; cassa e altre liquidità; ratei e risconti (non correnti).
-- Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie operative; scorte.
 - Immobilizzazioni materiali operative; immobilizzazioni immateriali operative; immobilizzazioni finanziarie non operative; ratei e risconti (non correnti).
+- Debiti verso fornitori; ratei e risconti (correnti); altre passività correnti (debiti TFR, debiti tributari).
+- Produzione di esercizio; valore aggiunto; margine operativo lordo (EBITDA); EBIT.
 
 **D:** ⚠️ Dove sta la cassa nel prospetto per pertinenza gestionale (lezione 16)?
 **R:** Fra le **attività non correnti non operative**: «Cassa e altre liquidità». Non riguarda l'attività operativa dell'impresa. ⚠️ Nel prospetto per liquidità ed esigibilità, invece, la cassa apre le attività a breve, fra le **liquidità immediate**.
@@ -4121,7 +4160,7 @@
 
 **D:** Perché il reddito dà, per il docente della lezione 17, una lettura «esclusivamente economica» e non finanziaria della gestione?
 **R:** Perché tiene conto di fattori che non hanno necessariamente una ripercussione finanziaria: «pensate solo a quello che accade con gli **ammortamenti**». Per questo i mercati finanziari guardavano più ai **cash flow** che al reddito.
-**Opzione:** Perché tiene conto di fattori senza ripercussione finanziaria, come gli ammortamenti.
+**Opzione:** Perché tiene conto di fattori che non hanno necessariamente una ripercussione finanziaria, come gli ammortamenti.
 **Distrattori:**
 - Perché non tiene conto del costo del personale.
 - Perché misura solo i flussi di cassa prospettici.
@@ -4171,8 +4210,8 @@
 **Opzione:** + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, − rimanenze finali.
 **Distrattori:**
 - − rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, + rimanenze finali.
-- + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + costo del lavoro, + ammortamenti, + canoni leasing, + altri costi industriali, + costi commerciali e distributivi.
-- + rimanenze iniziali, + acquisti materie e semilavorati, + energia, + oneri finanziari, + ammortamenti, + canoni leasing, + altri costi industriali, − rimanenze finali.
+- − oneri finanziari, + proventi finanziari, + proventi accessori, − costi accessori.
+- Fatturato +/− variazione delle scorte di prodotti finiti e semilavorati + lavori in economia − acquisti di beni destinati alla commercializzazione.
 
 **D:** ⚠️ Con quale segno entrano le rimanenze iniziali e le rimanenze finali nel costo del venduto (tabella 3.4, lezione 17)?
 **R:** Le rimanenze **iniziali** con il **+**, le rimanenze **finali** con il **−**. Il docente dice che si sottraggono le iniziali ([00:07:14]): è un lapsus, vale la slide.
@@ -4266,8 +4305,8 @@
 **Opzione:** − acquisti di materie prime e semilavorati, − altri costi di acquisto esterni, +/− variazione delle scorte di materie prime.
 **Distrattori:**
 - − acquisti di materie prime e semilavorati, − altri costi di acquisto esterni, − costo del personale.
-- − acquisti di beni destinati alla commercializzazione, − altri costi di acquisto esterni, +/− variazione delle scorte di prodotti finiti e semilavorati.
-- − acquisti di materie prime e semilavorati, − ammortamenti, +/− variazione delle scorte di materie prime.
+- Crediti verso clienti; scorte; ratei e risconti (correnti); altre attività correnti.
+- Attività a breve − Passività a breve.
 
 **D:** ⚠️ Come si chiama il risultato che si ottiene sottraendo il costo del personale al valore aggiunto (tabella 3.5, lezione 17)?
 **R:** **Margine operativo lordo (EBITDA)**. Il docente lo chiama per lapsus «EBIT» ([00:14:57]) e poi si corregge: l'EBIT viene dopo, sottraendo gli ammortamenti.
@@ -4742,7 +4781,7 @@
 **R:** «(1 + 0.10) × € 85 000 = € 93 500»: investendo sul mercato finanziario «si otterrebbero **€ 2500 in più**» dei €91.000 del terreno, quindi l'acquisto **non conviene**. «È un calcolo basato sul **valore futuro**».
 **Opzione:** €93.500, cioè €2.500 in più dei €91.000 del terreno: l'acquisto non conviene.
 **Distrattori:**
-- €93.500, cioè €2.500 in meno dei €91.000 del terreno: l'acquisto conviene.
+- €93.500, cioè €2.500 in più dei €91.000 del terreno: l'acquisto conviene.
 - €91.000, esattamente come il terreno: l'acquisto è indifferente.
 - €82.727,27, cioè meno degli €85.000 investiti: l'acquisto non conviene.
 
@@ -5058,9 +5097,9 @@
 **R:** L'attualizzazione e la capitalizzazione dello stesso valore: i 10.000 euro fra tre anni valgono oggi 7.938, e «se oggi investissimo 7,938 a un tasso di interesse composto dell'8% in tre anni, al termine dei tre anni avremo un valore di 10.000».
 **Opzione:** Che 10.000 euro fra tre anni valgono oggi 7.938, e 7.938 euro investiti oggi all'8% composto diventano 10.000 fra tre anni.
 **Distrattori:**
-- Che 7.938 euro investiti oggi all'8% semplice diventano 10.000 euro fra tre anni.
+- Che 10.000 euro fra tre anni valgono oggi 7.938, e 7.938 euro investiti oggi all'8% semplice diventano 10.000 fra tre anni.
 - Che il valore attuale si calcola prima dell'investimento e il VAN dopo.
-- Che 10.000 euro investiti oggi all'8% composto diventano 7.938 fra tre anni.
+- Che 10.000 euro fra tre anni valgono oggi 7.938, e 7.938 euro investiti oggi al 12% composto diventano 10.000 fra tre anni.
 
 **D:** ⚠️ Secondo il docente, qual è il limite di fondo dell'attualizzazione nelle scelte di sviluppo (lezione 20)?
 **R:** Che «il meccanismo dell'attualizzazione **in sé** è un meccanismo **aleatorio**»: non conta l'accuratezza con cui si prevedono i flussi. Nel lungo periodo il ragionamento finanziario «ha un significato fino a un certo punto». Ma imprese e mercati «non dispongono di altri indicatori che diano delle informazioni altrettanto certe».
@@ -5120,8 +5159,8 @@
 **Opzione:** Il principale criterio per la valutazione economica di un investimento: il valore attuale di tutti i flussi che l'investimento genererà in futuro, al netto del flusso in uscita all'anno zero.
 **Distrattori:**
 - Il principale criterio per la valutazione economica di un investimento: il valore attuale di tutti i flussi che l'investimento genererà in futuro, al lordo del flusso in uscita all'anno zero.
-- Il principale criterio per la valutazione economica di un investimento: il valore attuale dei flussi che l'investimento genererà fino a una certa data, al netto del flusso in uscita all'anno zero.
-- Il principale criterio per la valutazione economica di un investimento: il valore futuro di tutti i flussi che l'investimento genererà, al netto del flusso in uscita all'anno zero.
+- Gli utili medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
+- Un metodo di valutazione alternativo al VAN: il periodo di tempo che occorre per ripagare il capitale investito inizialmente.
 
 **D:** ⚠️ Qual è la regola del VAN (lezione 21)?
 **R:** «REGOLA DEL VAN: si accetta un investimento se **VAN>0** e si rifiuta se **VAN<0**».
@@ -5255,8 +5294,8 @@
 **Opzione:** Adatto per investimenti molto limitati o di routine; adatto per imprese soggette a un forte razionamento del capitale; eccezionalmente semplice da capire.
 **Distrattori:**
 - Adatto per investimenti molto limitati o di routine; adatto per imprese soggette a un forte razionamento del capitale; usa il valore temporale del denaro.
-- Adatto per investimenti di grande ammontare e lunga durata; adatto per imprese soggette a un forte razionamento del capitale; eccezionalmente semplice da capire.
-- Adatto per investimenti molto limitati o di routine; adatto per imprese con ampia disponibilità di capitale; eccezionalmente semplice da capire.
+- Utilizza i flussi di cassa; utilizza tutti i flussi di cassa; attualizza i flussi di cassa.
+- Tempistica dei flussi di cassa; pagamenti successivi al tempo di recupero; standard arbitrario per il cut-off date scelto.
 
 **D:** ⚠️ Per quali imprese è adatto il tempo di recupero, e perché (lezione 21)?
 **R:** Per le imprese «soggette a un **forte razionamento del capitale**» (slide). Per il docente significa avere «**scarsa disponibilità** di capitale» e quindi una «continua esigenza di avere capitale»: conviene l'investimento che restituisce prima la cassa.
@@ -5278,9 +5317,9 @@
 **R:** Tutti e tre i progetti investono 100 e hanno **lo stesso tempo di recupero, 3 anni**. **A** (20, 30, 50, 60) e **B** (50, 30, 20, 60) hanno gli stessi flussi in ordine diverso; **C** è identico a B fino al terzo anno, ma al quarto incassa **60.000** invece di 60. Il metodo non distingue né l'ordine dei flussi (tempistica) né ciò che arriva dopo il recupero (pagamenti successivi).
 **Opzione:** Che i tre progetti hanno lo stesso tempo di recupero, anche se i flussi arrivano in ordine diverso e C incassa 60.000 al quarto anno.
 **Distrattori:**
+- Che i tre progetti hanno tempi di recupero diversi, perché i flussi arrivano in ordine diverso e C incassa 60.000 al quarto anno.
 - Che C ha il tempo di recupero più breve, grazie ai 60.000 del quarto anno.
 - Che A recupera prima di B, perché incassa di più al terzo anno.
-- Che B e C non recuperano l'investimento entro il quarto anno.
 
 **D:** Perché, secondo il docente, il tempo di recupero segue una logica «tipicamente finanziaria» (lezione 21)?
 **R:** Perché «in finanza non conta quello che io riesco a maturare nel tempo, ma piuttosto **quanto più velocemente** riesco a rientrare di capitale e interessi per **cogliere nuove opportunità**»: i mercati sono incerti e le opportunità nascono in ogni momento. Per l'investitore finanziario il payback è «molto più utile anche del VAN», che vincola a un investimento di medio-lungo termine.
@@ -5350,9 +5389,9 @@
 **R:** «Il tasso interno di rendimento (TIR) è un tasso ***intrinseco*** al progetto di investimento che si prende in considerazione e dipende **esclusivamente dai flussi di cassa** che esso genererà. In particolare è quel tasso che rende il **VAN = 0**». Attenzione alle parole su cui può lavorare un distrattore: *intrinseco*, *esclusivamente*, *flussi di cassa*, *VAN = 0*.
 **Opzione:** Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dai flussi di cassa che esso genererà: in particolare, il tasso che rende il VAN = 0.
 **Distrattori:**
-- Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dal tasso di attualizzazione di mercato: in particolare, il tasso che rende il VAN = 0.
 - Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dai flussi di cassa che esso genererà: in particolare, il tasso che rende massimo il VAN.
-- Un tasso esterno al progetto di investimento, dedotto dal mercato per investimenti di pari rischio: in particolare, il tasso che rende il VAN = 0.
+- Il costo del capitale di un'impresa unlevered, cioè non indebitata.
+- Il rapporto tra il valore attuale dei flussi di cassa attesi dopo l'investimento iniziale e l'entità dell'investimento iniziale.
 
 **D:** ⚠️ Quanto vale il VAN di un progetto se i suoi flussi si attualizzano al suo TIR (lezione 22)?
 **R:** **Zero**: il TIR «è quel tasso che rende il **VAN = 0**». Per il docente, «molto più banalmente», si prende la formula del VAN, la si pone uguale a zero e la si risolve per R: i flussi attualizzati al tempo zero «sono esattamente uguali all'investimento».
@@ -5490,10 +5529,10 @@
 
 **D:** ⚠️ Quando si hanno tassi di rendimento multipli, e quanti TIR ci sono (lezione 22)?
 **R:** Si hanno, «ad es., quando **flussi positivi si alternano a flussi negativi**. In questo caso si avranno tanti TIR, **tanti quante le inversioni di segno**». ⚠️ Il quantificatore cambia fra le slide: i progetti con più di un cambiamento di segno «possono avere» tassi multipli (slide 6), «tanti quante le inversioni di segno» (slide 7), «di solito più di 1» (slide 8). ⚠️ Il docente li lega alla «commistione» di più progetti: vale la slide, che parla dei flussi di un solo progetto.
-**Opzione:** Quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quante le inversioni di segno.
+**Opzione:** Ad esempio quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quante le inversioni di segno.
 **Distrattori:**
 - Quando i flussi sono distribuiti su molte date: ci sono tanti TIR quanti i periodi.
-- Quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quanti i flussi positivi.
+- Ad esempio quando flussi positivi si alternano a flussi negativi: ci sono tanti TIR quanti i flussi positivi.
 - Quando si valutano più progetti insieme: ci sono tanti TIR quanti i progetti combinati.
 
 **D:** ⚠️ Qual è il criterio del TIR quando alcuni flussi successivi al primo sono positivi e altri negativi (lezione 22)?
@@ -5613,8 +5652,8 @@
 **Opzione:** Gli utili medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
 **Distrattori:**
 - I flussi di cassa medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
-- Gli utili medi ottenuti dal progetto al lordo delle imposte e dell'ammortamento, divisi per il valore medio contabile dell'investimento nell'arco della sua vita.
-- Gli utili medi ottenuti dal progetto al netto delle imposte e dell'ammortamento, divisi per il valore attuale dell'investimento iniziale.
+- Un tasso intrinseco al progetto di investimento, che dipende esclusivamente dai flussi di cassa che esso genererà: in particolare, il tasso che rende il VAN = 0.
+- Il principale criterio per la valutazione economica di un investimento: il valore attuale di tutti i flussi che l'investimento genererà in futuro, al netto del flusso in uscita all'anno zero.
 
 **D:** ⚠️ A quale grandezza corrisponde, secondo la parentesi della slide, l'utile del rendimento netto contabile (lezione 23)?
 **R:** All'«**Ebit netto di imposte**», cioè il risultato operativo (lezione 17) dopo le imposte. Nella Tabella 6.2 l'utile al lordo delle imposte è infatti ricavi − costi − ammortamento, senza oneri finanziari, e l'utile netto è quel valore meno il 25% di imposte.
@@ -5645,8 +5684,8 @@
 **Opzione:** Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; definizione arbitraria del target.
 **Distrattori:**
 - Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; standard arbitrario per il cut-off date scelto.
-- Non utilizza i flussi di cassa; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; non considera la dimensione dei flussi di cassa.
-- Non utilizza gli utili; non considera la distribuzione temporale dei flussi di cassa; non considera il valore temporale del denaro; definizione arbitraria del target.
+- Adatto per investimenti molto limitati o di routine; adatto per imprese soggette a un forte razionamento del capitale; eccezionalmente semplice da capire.
+- Assenza di imposte; assenza di costi di transazione; individui e imprese si indebitano allo stesso tasso di interesse.
 
 **D:** ⚠️ Quali sono le tre fasi dell'Esempio 6.2 per determinare il rendimento medio contabile (lezione 23)?
 **R:** «Fase 1 Determinare il **reddito netto medio**; Fase 2 Determinare l'**investimento medio**; Fase 3 Determinare il **reddito contabile medio**». Le fasi dicono «reddito» dove la tabella dice «utile netto medio» e «RMC (Rendimento Medio Contabile)»: sono la stessa cosa.
@@ -5660,9 +5699,9 @@
 **R:** Ricavi − costi = «**Flusso di cassa al lordo delle imposte**»; − ammortamento (€100.000 l'anno, cioè 500.000/5) = «**Utile al lordo delle imposte**»; − imposte al 25% (t_c = 0,25) = «**Utile netto**». Nel primo anno: 433.333 − 200.000 = 233.333; − 100.000 = 133.333; − 33.333 = **100.000**.
 **Opzione:** Ricavi meno costi danno il flusso di cassa al lordo delle imposte; meno l'ammortamento, l'utile al lordo delle imposte; meno le imposte, l'utile netto.
 **Distrattori:**
-- Ricavi meno costi danno l'utile al lordo delle imposte; meno le imposte, il flusso di cassa netto; meno l'ammortamento, l'utile netto.
-- Ricavi meno costi danno il flusso di cassa al lordo delle imposte; meno le imposte, l'utile al lordo dell'ammortamento; meno l'ammortamento, l'utile netto.
 - Ricavi meno ammortamento danno il flusso di cassa al lordo delle imposte; meno i costi, l'utile al lordo delle imposte; meno le imposte, l'utile netto.
+- Attualizzare i flussi di cassa e poi chiedersi quanto ci metteranno i flussi attualizzati ad eguagliare l'investimento iniziale.
+- Utili attesi al netto degli interessi divisi per l'equity.
 
 **D:** ⚠️ Nell'Esempio 6.2 (lezione 23) gli utili netti dei cinque anni sono €100.000, €150.000, €50.000, 0 e −€50.000. Quanto vale l'utile netto medio?
 **R:** **€50.000**: «(€ 100 000 + 150 000 + 50 000 + 0 − 50 000) / 5 = € 50 000». È una media aritmetica semplice («una vera e propria **media aritmetica**», dice il docente), con lo zero dell'anno 4 e la perdita dell'anno 5 compresi.
@@ -5701,8 +5740,8 @@
 **Opzione:** Fiscale o contabile, misurata dall'ammortamento; tecnica, indicata dai protocolli del macchinario; economica, legata ai costi e agli investimenti non ammortizzabili.
 **Distrattori:**
 - Fiscale o contabile, misurata dall'ammortamento; tecnica, indicata dai protocolli del macchinario; finanziaria, misurata dal tempo di recupero.
-- Fiscale, misurata dalle imposte; contabile, misurata dall'ammortamento; economica, legata ai costi e agli investimenti non ammortizzabili.
-- Tecnica, misurata dall'ammortamento; contabile, indicata dai protocolli del macchinario; economica, legata ai costi e agli investimenti non ammortizzabili.
+- Cₜ è il montante al tempo T, r il tasso di sconto, T il numero di periodi.
+- Determinare il reddito netto medio; determinare l'investimento medio; determinare il reddito contabile medio.
 
 **D:** ⚠️ Quale vita utile si usa per prassi nel rendimento netto contabile, e perché l'utile è al netto dell'ammortamento (lezione 23)?
 **R:** Quella **contabile**, «iscritta in bilancio»: «siccome qui di valori contabili stiamo parlando», se l'utile è ricavato dal bilancio «anche il valore dell'investimento dovrebbe essere un valore ricavato dal bilancio». Per questo l'utile è «al netto della quota d'ammortamento»: l'investimento è iscritto in bilancio, e così il rendimento è «correlato all'investimento che lo ha generato». Il limite: in ottica economica l'investimento «è invece un concetto più complesso e ampio».
@@ -5871,8 +5910,8 @@
 **Opzione:** Il rendimento atteso del capitale azionario è correlato positivamente alla leva finanziaria, poiché il rischio per gli azionisti aumenta con l'indebitamento.
 **Distrattori:**
 - Il rendimento atteso del capitale azionario è correlato negativamente alla leva finanziaria, poiché il rischio per gli azionisti diminuisce con l'indebitamento.
-- Il costo medio ponderato del capitale è correlato positivamente alla leva finanziaria, poiché il rischio per gli azionisti aumenta con l'indebitamento.
-- Il rendimento atteso del capitale azionario è correlato positivamente alla leva finanziaria, poiché il costo del debito aumenta con l'indebitamento.
+- Il VAN di A è negativamente correlato con il tasso di attualizzazione, quello di B positivamente.
+- Il VAN è positivo per tassi di attualizzazione inferiori al TIR e negativo per tassi superiori al TIR.
 
 **D:** ⚠️ Qual è la formula della Proposizione II di Modigliani e Miller (lezione 24)?
 **R:** «**R_E = R₀ + D/E (R₀ – R_D)**», «dove R₀ è il costo del capitale di un'impresa unlevered». R_E è il costo dell'equity, R_D il costo del debito, D/E il rapporto debito-equity. La didascalia del grafico la scrive «R_E = R₀ + (R₀ − R_D)D/E»: è la stessa.
@@ -5989,9 +6028,9 @@
 **R:** «Il **costo del capitale azionario aumenta** all'aumentare della leva finanziaria, perché il **rischio connesso all'equity** aumenta con la leva finanziaria». È la stessa idea dell'enunciato della slide 2, detta con «costo del capitale azionario» al posto di «rendimento atteso del capitale azionario».
 **Opzione:** Il costo del capitale azionario aumenta all'aumentare della leva finanziaria, perché il rischio connesso all'equity aumenta con la leva finanziaria.
 **Distrattori:**
-- Il costo del capitale azionario diminuisce all'aumentare della leva finanziaria, perché il rischio connesso all'equity diminuisce con la leva finanziaria.
 - Il costo medio ponderato del capitale aumenta all'aumentare della leva finanziaria, perché il rischio connesso all'equity aumenta con la leva finanziaria.
-- Il costo del capitale azionario aumenta all'aumentare della leva finanziaria, perché il costo del debito aumenta con la leva finanziaria.
+- Il montante cresce più velocemente, perché ogni sei mesi l'interesse matura anche sugli interessi del semestre precedente.
+- L'IR ragiona sui flussi di cassa e considera il valore del tempo; il rendimento medio contabile usa utili medi e non lo considera.
 
 **D:** ⚠️ Che cosa riguarda la Proposizione I di Modigliani e Miller e che cosa la Proposizione II (lezione 24)?
 **R:** La **I** riguarda il **valore dell'impresa**, che non dipende dalla struttura finanziaria (V_L = V_U; il WACC è costante). La **II** riguarda il **costo dell'equity**, che dipende dalla struttura finanziaria e cresce con il D/E (R_E = R₀ + D/E × (R₀ − R_D)). ⚠️ Tutte le slide sono intitolate alla «proposizione II», anche quella che illustra la I.
@@ -6021,7 +6060,7 @@
 **R:** Perché spesso gli azionisti «costruiscono un **loro leverage**»: comprano E in parte con denari propri e in parte **a debito**. Se il leverage dell'investitore fosse uguale a quello dell'impresa, sarebbe «**neutrale rispetto al rischio**», perché correrebbe il rischio solo per la sua parte di E e il resto «sarebbe scaricato sul finanziamento». ⚠️ È l'homemade leverage della slide 6, che però dice soltanto che gli individui possono «**duplicare o rimuovere** gli effetti della leva»: il rischio dell'equity **cresce** comunque con la leva (Proposizione II).
 **Opzione:** Perché può costruirsi un proprio leverage, comprando le azioni in parte a debito, e duplicare o rimuovere così gli effetti della leva scelta dall'impresa.
 **Distrattori:**
-- Perché la legge vieta alle imprese di indebitarsi oltre il capitale proprio.
+- Perché può costruirsi un proprio leverage, comprando le azioni in parte a debito, e duplicare o rimuovere così gli effetti della leva scelta dalle banche finanziatrici.
 - Perché gli individui si indebitano a un tasso più basso delle imprese.
 - Perché il rischio dell'equity non dipende dalla leva finanziaria.
 
