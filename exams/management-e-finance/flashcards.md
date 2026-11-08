@@ -6364,3 +6364,264 @@
 - Da una valutazione ex post: l'impresa ricava dalla propria storia il rapporto fra debito e capitale proprio che ha dato i risultati migliori.
 - Attraverso l'homemade leverage gli individui possono duplicare o rimuovere gli effetti della leva finanziaria approntata dall'impresa.
 - È un rendimento deciso internamente, sulla base degli obiettivi di redditività che l'impresa si vuole dare.
+
+## Lezione 26 — Il costo del capitale, la stima del Beta
+
+**D:** ⚠️ In fase di valutazione, a che cosa deve essere uguale il tasso di attualizzazione di un progetto, secondo la lezione 26?
+**R:** «Il **tasso di attualizzazione** di un progetto deve essere uguale al **rendimento atteso di un'attività finanziaria con analogo rischio**». Il docente: è il tasso che il mercato attribuisce «a un'attività che è altrettanto rischiosa quanto la mia», cioè una remunerazione per il rischio ([00:01:46]).
+**Opzione:** Al rendimento atteso di un'attività finanziaria con analogo rischio.
+**Distrattori:**
+- Al rendimento di un'attività finanziaria priva di rischio.
+- Al costo del debito dell'impresa.
+- All'EBIT netto di imposte.
+
+**D:** ⚠️ Dal punto di vista dell'impresa, che cos'è il rendimento atteso, secondo la slide della lezione 26?
+**R:** «In modo equivalente, dal punto di vista dell'impresa, il rendimento atteso è **il costo del capitale (dell'equity)**». Per chi valuta il progetto lo stesso numero è il tasso di attualizzazione.
+**Opzione:** Il costo del capitale, cioè dell'equity.
+**Distrattori:**
+- Il costo del debito.
+- Il premio di rischio del mercato.
+- Il tasso del titolo privo di rischio.
+
+**D:** ⚠️ Che ipotesi fa la lezione 26 sul capitale dell'azienda quando stima il costo del capitale con il CAPM?
+**R:** «*Attenzione!* Stiamo per il momento considerando un'azienda il cui capitale sia **interamente equity** (!)». Per questo costo del capitale e costo dell'equity coincidono, e gli esempi parlano di una banca «finanziata al 100% da capitale netto» e di Glencore «totalmente auto-finanziato». ⚠️ Il docente presenta invece il CAPM come un modello che combina capitale proprio e di terzi ([00:03:32]): vale la slide.
+**Opzione:** Che il capitale sia interamente equity.
+**Distrattori:**
+- Che il capitale sia metà debito e metà equity.
+- Che il capitale sia interamente debito.
+- Che il capitale combini equity e debito secondo un rapporto target.
+
+**D:** ⚠️ Come si scrive il rendimento dell'equity nel CAPM (lezione 26)?
+**R:** «**R_E = R_F + β × (R_M − R_F)**», dove R_F è il tasso del titolo privo di rischio e R_M − R_F il premio di rischio del mercato.
+**Opzione:** R_E = R_F + β × (R_M − R_F)
+**Distrattori:**
+- R_E = R_M + β × (R_M − R_F)
+- R_E = R_F + β × (R_F − R_M)
+- R_E = β × R_F + (R_M − R_F)
+
+**D:** ⚠️ Come si definisce spesso la differenza R_M − R_F nel CAPM (lezione 26)?
+**R:** È «la differenza tra il **rendimento atteso del portafoglio di mercato** e quello del **titolo non rischioso**. Questa differenza si definisce spesso **rendimento *in eccesso* del mercato** o **premio di rischio del mercato**».
+**Opzione:** Rendimento in eccesso del mercato o premio di rischio del mercato.
+**Distrattori:**
+- Rendimento privo di rischio o tasso del titolo non rischioso.
+- Beta del titolo o sensibilità al mercato.
+- Costo medio ponderato del capitale.
+
+**D:** Secondo il docente della lezione 26, a quali titoli si fa riferimento per il rendimento privo di rischio?
+**R:** «Di solito sono i **titoli di Stato**». Dove i titoli di Stato hanno un rendimento estremamente basso, i mercati fanno riferimento alle **blue chips**, titoli «che hanno un rendimento costante e che difficilmente comportano un rischio di fallimento» ([00:04:18]–[00:04:45]).
+**Opzione:** Di solito ai titoli di Stato; se il loro rendimento è estremamente basso, alle blue chips, dal rendimento costante e con un basso rischio di fallimento.
+**Distrattori:**
+- Di solito alle blue chips; se il loro rendimento è estremamente basso, ai titoli di Stato, che non comportano alcun rischio.
+- Approfittano semplicemente delle condizioni di mercato.
+- Indicatore semplice basato sul rendimento.
+
+**D:** ⚠️ Che cosa occorre conoscere per stimare il costo del capitale (100% equity), secondo la lezione 26?
+**R:** Tre elementi: «Il **tasso corrispondente al titolo privo di rischio**»; «Il **premio di rischio di mercato**»; «Il **beta dell'azienda**». Sono i tre pezzi della formula del CAPM.
+**Opzione:** Il tasso corrispondente al titolo privo di rischio; il premio di rischio di mercato; il beta dell'azienda.
+**Distrattori:**
+- Il tasso corrispondente al titolo privo di rischio; il premio di rischio di mercato; il costo del debito dell'azienda.
+- Il rendimento atteso del capitale azionario è correlato positivamente alla leva finanziaria, poiché il rischio per gli azionisti aumenta con l'indebitamento.
+- Non esiste un ammontare target di leva finanziaria; le imprese redditizie usano meno debito; le imprese preferiscono una capacità finanziaria (liquidi) in eccesso.
+
+**D:** ⚠️ Nell'Esempio 12.1 della lezione 26 Société Générale ha un beta di 2,29, il tasso privo di rischio è l'1,5% e il premio per il rischio del mercato il 7,2%. Quanto vale il costo dell'equity?
+**R:** «R_E = 1.5% + (7.2% × 2.29) = 1.5% + 16.488% = **17.988%**». Il 16,488% è solo il premio pesato per il beta: chi dimentica il tasso privo di rischio si ferma lì.
+**Opzione:** 17,988%
+**Distrattori:**
+- 16,488%
+- 8,7%
+- 3,79%
+
+**D:** ⚠️ Nell'Esempio 12.1 della lezione 26, perché si usa il beta di Société Générale come beta dei nuovi progetti?
+**R:** «Poiché questi nuovi progetti sono **simili a quelli già intrapresi**, si suppone che il beta medio dei nuovi progetti sia **uguale al beta della società**». La banca è immaginata «finanziata al 100% da capitale netto, quindi non abbia debito»: il costo dell'equity è quindi il tasso di attualizzazione dei progetti.
+**Opzione:** Perché i nuovi progetti sono simili a quelli già intrapresi, e si suppone che il loro beta medio sia uguale al beta della società.
+**Distrattori:**
+- Perché i nuovi progetti raddoppieranno la dimensione della banca, e si suppone che il loro beta medio sia il doppio di quello della società.
+- Perché sanno che dovranno finanziare progetti redditizi nel futuro, e così non dovranno rivolgersi ai mercati dei capitali quando emerge una buona opportunità di investimento.
+- Perché può costruirsi un proprio leverage, comprando le azioni in parte a debito, e duplicare o rimuovere così gli effetti della leva scelta dall'impresa.
+
+**D:** ⚠️ Glencore è interamente equity, con un beta di 1,24, un premio al rischio del mercato del 7,5% e un tasso privo di rischio del 2%. Qual è il rendimento atteso del suo capitale (lezione 26)?
+**R:** «2% + (1,24 x 7.5%) = **11,3%**». È il costo del capitale aziendale, a cui si attualizzano i progetti.
+**Opzione:** 11,3%
+**Distrattori:**
+- 9,3%
+- 9,5%
+- 11,78%
+
+**D:** ⚠️ Quali progetti di Glencore si accettano nell'esempio della lezione 26, e perché?
+**R:** «Poiché il costo del capitale aziendale è del 11.3%, i progetti di un'impresa finanziata completamente tramite equity vengono attualizzati a questo tasso. I progetti **A e B** hanno un **VAN positivo**, mentre il progetto **C** ha un **VAN negativo**. Di conseguenza, solo A e B saranno accettati».
+**Opzione:** A e B, che hanno VAN positivo; C ha VAN negativo e si rifiuta.
+**Distrattori:**
+- Solo A, l'unico con un TIR superiore al 20%.
+- A, B e C, perché hanno tutti lo stesso beta dell'impresa.
+- B e C, che hanno i TIR più vicini al costo del capitale.
+
+**D:** ⚠️ Nell'esempio di Glencore (lezione 26), che tipo di progetti sono A, B e C e che rischio hanno?
+**R:** Sono progetti «**non alternativi** (non *mutually-exclusive*)», e «si assume che tutti i progetti abbiano **lo stesso rischio dell'impresa nel suo insieme**»: il beta di ciascuno è 1,24, come quello di Glencore.
+**Opzione:** Non alternativi, con lo stesso rischio dell'impresa nel suo insieme.
+**Distrattori:**
+- Alternativi (mutually exclusive), con lo stesso rischio dell'impresa nel suo insieme.
+- Non alternativi, ciascuno con un rischio diverso da quello dell'impresa.
+- Alternativi (mutually exclusive), ciascuno con un rischio diverso da quello dell'impresa.
+
+**D:** ⚠️ Nell'esempio di Glencore (lezione 26) ogni progetto costa £100. Quanto valgono TIR e VAN del progetto C, che dà 110 fra un anno?
+**R:** **TIR 10%**, **VAN −£1,17** (110/1,113 − 100): si **rifiuta**. A (140) ha TIR 40% e VAN £25,79; B (120) TIR 20% e VAN £7,82.
+**Opzione:** TIR 10%, VAN −£1,17: si rifiuta.
+**Distrattori:**
+- TIR 10%, VAN +£1,17: si accetta.
+- TIR 20%, VAN £7,82: si accetta.
+- TIR 40%, VAN £25,79: si accetta.
+
+**D:** ⚠️ La tabella dei progetti di Glencore (lezione 26) dice che i VAN sono attualizzati al 19,92%. È vero?
+**R:** No: è un refuso. I VAN della colonna sono calcolati all'**11,3%**, il costo del capitale aziendale, come dice il testo sotto la tabella: 140/1,113 − 100 = 25,79. Al 19,92% il VAN di A sarebbe circa 16,74. Anche la Figura 12.2 viene da un'altra versione dell'esempio: segna un beta di 1,57 e un costo del capitale del 16,5%.
+
+**D:** ⚠️ Che cosa rappresenta la diagonale (SML) della Figura 12.2 nella lezione 26?
+**R:** «La diagonale rappresenta la relazione tra il **costo del capitale aziendale** e il **beta dell'impresa**». ⚠️ Il docente parla di una correlazione fra rischiosità e **tasso interno di rendimento** del progetto ([00:16:12]): i TIR sono i punti A, B e C, la retta è il costo del capitale.
+**Opzione:** La relazione tra il costo del capitale aziendale e il beta dell'impresa.
+**Distrattori:**
+- La relazione tra il tasso interno di rendimento dei progetti e il loro VAN.
+- La relazione tra il beta dell'impresa e il suo rapporto debito-equity.
+- R_E cresce; R_WACC e R_D restano costanti.
+
+**D:** ⚠️ Secondo la Figura 12.2 della lezione 26, quando un'impresa finanziata totalmente tramite equity dovrebbe accettare un progetto?
+**R:** Quando ha «un **tasso interno di rendimento superiore al costo del capitale aziendale**», mentre «dovrebbe rifiutare un progetto con un tasso interno di rendimento inferiore al costo del capitale aziendale». Nel grafico: sopra la retta l'area di accettazione, sotto quella di rifiuto.
+**Opzione:** Quando il suo tasso interno di rendimento è superiore al costo del capitale aziendale.
+**Distrattori:**
+- Quando il suo tasso interno di rendimento è inferiore al costo del capitale aziendale.
+- Quando il suo tasso interno di rendimento è superiore al tasso privo di rischio.
+- Quando il suo beta è inferiore a quello dell'impresa.
+
+**D:** ⚠️ Nella Figura 12.2 della lezione 26, dove stanno i progetti A, B e C rispetto alla SML?
+**R:** **A** (VAN £25,79) e **B** (VAN £7,82) stanno **sopra** la retta, nell'«Area di accettazione»; **C** (VAN −£1,17) **sotto**, nell'«Area di rifiuto». Tutti e tre hanno lo stesso beta.
+**Opzione:** A e B sopra la SML, nell'area di accettazione; C sotto, nell'area di rifiuto.
+**Distrattori:**
+- A e B sotto la SML, nell'area di accettazione; C sopra, nell'area di rifiuto.
+- A sopra la SML; B e C sotto, nell'area di rifiuto.
+- A, B e C sulla SML, perché hanno lo stesso beta.
+
+**D:** ⚠️ Come chiama la didascalia della Figura 12.2 (lezione 26) la retta SML, e a che cosa serve?
+**R:** «Uso della **linea del mercato azionario** per stimare il **tasso di attualizzazione (modificato per il rischio)** di progetti rischiosi». Da non confondere con la «linea caratteristica del titolo» della Figura 12.3, la cui inclinazione è il beta.
+**Opzione:** La linea del mercato azionario, usata per stimare il tasso di attualizzazione, modificato per il rischio, di progetti rischiosi.
+**Distrattori:**
+- La linea caratteristica del titolo, usata per stimare il beta di un titolo rispetto all'indice di mercato.
+- Un effetto permanente, che non ha nulla a che vedere con i costi di fallimento o con le gerarchie.
+- Che il valore contabile si muove con una velocità molto più lenta rispetto al valore di mercato.
+
+**D:** ⚠️ Qual è la formula del beta del titolo i nella lezione 26?
+**R:** «beta del titolo i = **Cov(R_i, R_M) / Var(R_M)** = σ_i,M / σ²_M». Il docente non si aspetta la formula «ma piuttosto che ne sia conosciuto il concetto» ([00:18:04]).
+**Opzione:** Cov(R_i, R_M) / Var(R_M)
+**Distrattori:**
+- Var(R_M) / Cov(R_i, R_M)
+- Cov(R_i, R_M) / Var(R_i)
+- Var(R_i) / Var(R_M)
+
+**D:** ⚠️ Nella formula del beta (lezione 26), che cosa c'è al numeratore e che cosa al denominatore?
+**R:** «Al numeratore abbiamo la **covarianza** tra i rendimenti del titolo i e il rendimento del portafoglio di mercato, mentre al denominatore compare la **varianza dei rendimenti di mercato**».
+**Opzione:** Numeratore: covarianza fra i rendimenti del titolo e quelli del portafoglio di mercato; denominatore: varianza dei rendimenti di mercato.
+**Distrattori:**
+- Numeratore: varianza dei rendimenti di mercato; denominatore: covarianza fra i rendimenti del titolo e quelli del mercato.
+- Numeratore: covarianza fra i rendimenti del titolo e quelli del portafoglio di mercato; denominatore: varianza dei rendimenti del titolo.
+- Numeratore: varianza dei rendimenti del titolo; denominatore: varianza dei rendimenti di mercato.
+
+**D:** ⚠️ Quali problemi della stima del beta elenca la slide della lezione 26?
+**R:** Tre: «I beta potrebbero **variare nel tempo**»; «La **dimensione del campione** potrebbe essere inadeguata»; «I beta sono influenzati dalle variazioni della **leva finanziaria e del rischio**». ⚠️ Il terzo problema del docente sono invece le bolle speculative e le voci di mercato ([00:20:56]): vale la slide. Per il docente i problemi dipendono anche dall'analista, che può «ingrandire o rimpicciolire il campione osservato in ragione del risultato voluto» ([00:21:38]).
+**Opzione:** I beta potrebbero variare nel tempo; la dimensione del campione potrebbe essere inadeguata; i beta sono influenzati dalle variazioni della leva finanziaria e del rischio.
+**Distrattori:**
+- I beta potrebbero variare nel tempo; la dimensione del campione potrebbe essere inadeguata; i beta sono influenzati dalle bolle speculative e dalle voci di mercato.
+- Principalmente su due regole: usare il finanziamento interno; emettere prima i titoli più sicuri.
+- Determinare il reddito netto medio; determinare l'investimento medio; determinare il reddito contabile medio.
+
+**D:** ⚠️ Quali soluzioni ai problemi della stima del beta indica la slide della lezione 26?
+**R:** «I **primi due** problemi potrebbero essere risolti da **statistiche più attendibili**»; «Il **terzo** problema potrebbe essere attenuato dall'**adeguamento al rischio economico e finanziario**»; «Occorre esaminare le stime dei **beta medi di aziende comparabili del settore**». Attenzione all'abbinamento fra problemi e soluzioni.
+**Opzione:** I primi due problemi potrebbero essere risolti da statistiche più attendibili; il terzo potrebbe essere attenuato dall'adeguamento al rischio economico e finanziario; occorre esaminare le stime dei beta medi di aziende comparabili del settore.
+**Distrattori:**
+- I primi due problemi potrebbero essere attenuati dall'adeguamento al rischio economico e finanziario; il terzo potrebbe essere risolto da statistiche più attendibili; occorre esaminare le stime dei beta medi di aziende comparabili del settore.
+- L'IR o il VAN incrementale, perché non si possono classificare i progetti in base al VAN.
+- Le azioni sono un segnale di sopravvalutazione dell'equity; il debito ha un limite.
+
+**D:** ⚠️ Nella linea caratteristica del titolo (lezione 26), che cosa sono l'inclinazione e l'intercetta?
+**R:** «L'**inclinazione** della "linea caratteristica del titolo" costituisce il **Beta**»; «L'**intercetta** sulle asse delle **ordinate** costituisce l'**Alfa**». Nella Figura 12.3 la retta di KPN, quasi piatta, ha un beta di 0,186; quella di Danone di 0,484.
+**Opzione:** L'inclinazione è il beta; l'intercetta sull'asse delle ordinate è l'alfa.
+**Distrattori:**
+- L'inclinazione è l'alfa; l'intercetta sull'asse delle ordinate è il beta.
+- L'inclinazione è il beta; l'intercetta sull'asse delle ascisse è l'alfa.
+- L'inclinazione è l'alfa; l'intercetta sull'asse delle ascisse è il beta.
+
+**D:** ⚠️ Che periodi di analisi vanno scelti per stimare il beta, secondo la lezione 26?
+**R:** «Non vanno scelti né **periodi** troppo brevi di analisi, né troppo lunghi (le imprese potrebbero **cambiare settore di riferimento** nel tempo)». La Figura 12.3 usa cinque anni di rendimenti mensili (2007-2012).
+**Opzione:** Né troppo brevi né troppo lunghi, perché nel tempo le imprese potrebbero cambiare settore di riferimento.
+**Distrattori:**
+- Il più lunghi possibile, perché un campione ampio rende il beta più attendibile.
+- Il più brevi possibile, perché i beta potrebbero variare nel tempo.
+- Sempre cinque anni di rendimenti mensili, come nella Figura 12.3.
+
+**D:** ⚠️ Quanto vale il beta medio «di settore» delle imprese bancarie nel 2015, secondo la lezione 26?
+**R:** «Beta medio "di settore" **0,985**». Nella tabella della slide il beta più alto è quello di Bank of Ireland (2,327), il più basso quello di Hang Seng Bank (0,853); Société Générale vi ha 2,170, contro il 2,29 dell'Esempio 12.1.
+**Opzione:** 0,985
+**Distrattori:**
+- 2,327
+- 0,853
+- 1,724
+
+**D:** Secondo il docente della lezione 26, come riesce l'azionista a diversificare il rischio diversificabile?
+**R:** Componendo il portafoglio in modo bilanciato: mettendo insieme titoli i cui rendimenti sono **correlati negativamente**, «così i due rendimenti si stabilizzano fra loro», e si ottiene «un **rendimento medio del portafoglio** che non debba preoccuparsi del rendimento del singolo titolo» ([00:06:16]–[00:07:47]). Le correlazioni possono essere positive, non esattamente positive, inverse o neutre.
+**Opzione:** Mettendo nel portafoglio titoli con rendimenti correlati negativamente, che si stabilizzano fra loro: conta il rendimento medio del portafoglio, non quello del singolo titolo.
+**Distrattori:**
+- Mettendo nel portafoglio titoli con rendimenti correlati positivamente, che crescono insieme: conta il rendimento del singolo titolo più redditizio.
+- Attraverso l'homemade leverage gli individui possono duplicare o rimuovere gli effetti della leva finanziaria approntata dall'impresa.
+- Dall'imitazione: chi affronta una scelta rischiosa copia la leva dei concorrenti, e quella dei progetti vincenti diventa un leverage di industry.
+
+**D:** ⚠️ Il beta dipende da come l'investitore ha composto il suo portafoglio (lezione 26)?
+**R:** No, per la slide: il «beta **del titolo** i» è Cov(R_i, R_M) / Var(R_M), una misura del titolo rispetto al portafoglio di mercato. ⚠️ Il docente lo presenta come la propensione al rischio dell'investitore, più alta per il pensionato che punta tutto su Stellantis e più bassa per un fondo ben diversificato ([00:10:37]–[00:13:55]): vale la slide. La diversificazione riduce il rischio del portafoglio dell'investitore, non il beta del titolo.
+**Opzione:** No: è la covarianza fra i rendimenti del titolo e quelli del mercato divisa per la varianza dei rendimenti di mercato, una misura del titolo.
+**Distrattori:**
+- Sì: è più alto per chi concentra tutto su un titolo e più basso per un fondo ben diversificato.
+- Sì: è più alto per i singoli investitori e più basso per i fondi, che gestiscono soldi di altri.
+- No: è l'intercetta della linea caratteristica del titolo sull'asse delle ordinate.
+
+**D:** Secondo il docente della lezione 26, perché il manager deve conoscere la logica del beta, se è una logica di speculazione?
+**R:** Perché gli permette di rivolgersi ai finanziatori «con un **marketing finanziario giusto**», usando «il linguaggio del portafoglio piuttosto che il linguaggio dell'investitore», sapendo di parlare ai **fondi** e non ai singoli azionisti. Le esigenze dei fondi possono essere di **stabilizzazione del portafoglio**: il mercato può cercare titoli più rischiosi «perché magari in portafoglio ha già tanti titoli stabili». Non conta il numero del beta, ma capire se l'investitore compra «per restare» o «per speculare» ([00:22:02]–[00:24:05]).
+**Opzione:** Per rivolgersi ai finanziatori con un marketing finanziario giusto: usare il linguaggio del portafoglio con i fondi, che possono cercare anche la stabilizzazione del portafoglio.
+**Distrattori:**
+- Per calcolare con precisione il costo del capitale proprio, il numero con cui scegliere quali progetti strategici finanziare.
+- No: dà solidità, ma limita le prospettive di investimento; è più verosimile un equilibrato rapporto di indebitamento che aiuti l'impresa a crescere.
+- Ad alimentare operazioni speculative: i mercati rispondono con una grande domanda, per comprare a poco e rivendere quando il valore sale.
+
+**D:** ⚠️ Nelle imprese familiari, da che cosa dipende la struttura finanziaria secondo il test della lezione 26 (domanda 1)?
+**R:** «**Dipende dalla proprietà**». Distrattori del test: «dipende dal management», «dipende dal settore di appartenenza», «È correlato alla dimensione della famiglia». La chiave non è alla lettera nei materiali: viene dalla lezione 25, dove le imprese senza debito hanno «maggior controllo proprietario di tipo familiare» (slide 6) e i gruppi familiari temono che nuovi soci ostacolino la governance (transcript [00:18:33]). ⚠️ «Dipende dal settore» è la terza evidenza empirica della lezione 25, vera in generale ma non specifica delle imprese familiari.
+**Opzione:** Dipende dalla proprietà.
+**Distrattori:**
+- Dipende dal management.
+- Dipende dal settore di appartenenza.
+- È correlato alla dimensione della famiglia.
+
+**D:** ⚠️ Circa la definizione del rischio di un portafoglio di mercato, che cosa fa il beta secondo il test della lezione 26 (domanda 2)?
+**R:** «**Misura la sensibilità di un'azione alle variazioni che intervengono nel portafoglio di mercato**». È la formula della slide 6, Cov(R_i, R_M) / Var(R_M). Distrattori del test: «non misura la sensibilità…» (la negazione), «corrisponde alla media di tutti i titoli, ponderati in base alla proporzione del valore di mercato di ogni titolo rispetto al portafoglio di mercato», e la stessa frase con la coda «ed è pari a −1».
+**Opzione:** Misura la sensibilità di un'azione alle variazioni che intervengono nel portafoglio di mercato.
+**Distrattori:**
+- Corrisponde alla media di tutti i titoli, ponderati in base alla proporzione del valore di mercato di ogni titolo rispetto al portafoglio di mercato.
+- Non misura la sensibilità di un'azione alle variazioni che intervengono nel portafoglio di mercato.
+- Corrisponde alla media di tutti i titoli, ponderata in base alla proporzione del valore di mercato di ogni titolo rispetto al portafoglio di mercato, ed è pari a −1.
+
+**D:** ⚠️ Di quali due componenti consta il rendimento di un titolo azionario scambiato su un mercato finanziario, secondo il test della lezione 26 (domanda 3)?
+**R:** «**Il rendimento normale o atteso e rendimento incerto o rischioso**». Distrattori del test: «il rendimento atteso e rendimento calcolato», «il rendimento programmato e il rendimento atteso», «il rendimento certo e quello atteso». ⚠️ Non è nelle lezioni 01–26: nei materiali c'è solo il «rendimento atteso». La chiave è l'unica con una componente **incerta**.
+**Opzione:** Il rendimento normale o atteso e il rendimento incerto o rischioso.
+**Distrattori:**
+- Il rendimento atteso e il rendimento calcolato.
+- Il rendimento programmato e il rendimento atteso.
+- Il rendimento certo e quello atteso.
+
+**D:** ⚠️ Che cosa fa il rischio non sistematico, secondo il test della lezione 26 (domanda 4)?
+**R:** «**Influenza specificatamente una singola attività o un piccolo gruppo di attività**». Distrattori del test: «influenza tutte le attività contemporaneamente», «non può influenzare le attività», «influenza le attività esterne». ⚠️ Non è nelle lezioni 01–26. Il docente distingue un rischio «non diversificabile», che chiama «rischio unico» e identifica con il fallimento dell'azienda, e un rischio «diversificabile» ([00:04:56]): nomi ed esempi che non coincidono con la chiave, perché il fallimento di una singola impresa colpisce una singola attività.
+**Opzione:** Influenza specificatamente una singola attività o un piccolo gruppo di attività.
+**Distrattori:**
+- Influenza tutte le attività contemporaneamente.
+- Non può influenzare le attività.
+- Influenza le attività esterne.
+
+**D:** ⚠️ Che cosa sostiene l'Arbitrage Pricing Theory, secondo il test della lezione 26 (domanda 5)?
+**R:** «**Sostiene che i rendimenti dei titoli azionari sono generati secondo modelli fattoriali**». Distrattori del test: «ignora alcuni fattori, come accade per il CAPM», «non prevede che si possano aggiungere fattori finché il rischio non sistemico sia privo di correlazione con il rischio non sistemico di ciascun titolo», «sostiene che il rendimento atteso di un titolo è positivamente e linearmente correlato con il beta del titolo». ⚠️ L'APT non è nelle lezioni 01–26. L'ultimo distrattore descrive il **CAPM**, cioè la retta della Figura 12.2.
+**Opzione:** Sostiene che i rendimenti dei titoli azionari sono generati secondo modelli fattoriali.
+**Distrattori:**
+- Ignora alcuni fattori, come accade per il CAPM.
+- Non prevede che si possano aggiungere fattori finché il rischio non sistemico sia privo di correlazione con il rischio non sistemico di ciascun titolo.
+- Sostiene che il rendimento atteso di un titolo è positivamente e linearmente correlato con il beta del titolo.
