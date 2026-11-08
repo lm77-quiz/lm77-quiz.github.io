@@ -517,3 +517,261 @@
 - Meno attendibili.
 - Più attendibili.
 - Meno variabili.
+
+## Lezione 03 — Stato patrimoniale e conto economico
+
+**D:** ⚠️ Che cosa espone lo stato patrimoniale secondo i principi contabili nazionali, nella definizione della lezione 03?
+**R:** «È il prospetto contabile deputato a esporre **il patrimonio aziendale alla data di riferimento**, cioè, **la situazione patrimoniale dell'azienda e la sua situazione finanziaria**». La situazione **economica** è invece il campo del conto economico.
+**Opzione:** Il patrimonio aziendale alla data di riferimento, cioè la situazione patrimoniale dell'azienda e la sua situazione finanziaria.
+**Distrattori:**
+- Il risultato economico conseguito nell'esercizio, cioè la situazione economica dell'azienda.
+- Il patrimonio aziendale alla data di riferimento, cioè le sole attività dell'azienda esposte in base alla natura degli impieghi.
+- Le variazioni intervenute nelle poste di patrimonio netto nel periodo amministrativo.
+
+**D:** ⚠️ Secondo lo schema dell'art. 2424 c.c., in base a che cosa sono esposte le attività e raggruppate le passività dello stato patrimoniale?
+**R:** Lo schema «è idoneo a fornire un'informativa completa per ciò che concerne il profilo patrimoniale, ovvero delle **attività (esposte in base alla natura degli impieghi)** e delle **passività (raggruppate in base alla natura delle fonti di finanziamento)**».
+**Opzione:** Le attività in base alla natura degli impieghi, le passività in base alla natura delle fonti di finanziamento.
+**Distrattori:**
+- Le attività in base alla natura delle fonti di finanziamento, le passività in base alla natura degli impieghi.
+- Le attività al fair value, le passività al costo ammortizzato.
+- Le attività in base ai benefici futuri attesi, le passività in base alla loro scadenza.
+
+**D:** ⚠️ Quali articoli del Codice civile fissano lo schema dello stato patrimoniale e quello del conto economico nazionali, secondo la lezione 03?
+**R:** Lo stato patrimoniale l'**art. 2424** (slide 2 e docente, [00:01:09]); il conto economico l'**art. 2425**, che cita solo il docente ([00:16:05]). Sono schemi **obbligatori** per le imprese con sede legale in Italia che non sono obbligate a redigere il bilancio secondo i principi internazionali. Il prospetto delle variazioni del patrimonio netto sta invece nella nota integrativa per l'**art. 2427**, comma 1, n. 4.
+**Opzione:** Lo stato patrimoniale l'art. 2424, il conto economico l'art. 2425.
+**Distrattori:**
+- Lo stato patrimoniale l'art. 2425, il conto economico l'art. 2424.
+- Lo stato patrimoniale l'art. 2424, il conto economico l'art. 2427.
+- Entrambi l'art. 2423, che elenca i documenti del bilancio.
+
+**D:** ⚠️ Per il docente della lezione 03, che cosa distingue l'aspetto monetario dall'aspetto finanziario dello stato patrimoniale nazionale?
+**R:** «Normalmente distinguiamo l'aspetto di **entrata e uscita** come aspetto **monetario**, mentre l'aspetto di **crediti e debiti** come aspetto **finanziario**» ([00:02:44]). Il terzo aspetto è quello **patrimoniale**: le attività come costi immobilizzati, a fronte delle passività e del patrimonio netto. ⚠️ La slide parla solo del profilo patrimoniale e della situazione patrimoniale e finanziaria: l'aspetto monetario sta solo nel transcript.
+**Opzione:** Il monetario riguarda le entrate e le uscite, il finanziario i crediti e i debiti verso terzi.
+**Distrattori:**
+- Il monetario riguarda i crediti e i debiti verso terzi, il finanziario le entrate e le uscite.
+- Il monetario riguarda i costi immobilizzati, il finanziario il patrimonio netto.
+- Il monetario riguarda i componenti positivi e negativi di reddito, il finanziario il risultato economico.
+
+**D:** Perché il costo del bancone di un bar si capitalizza nello stato patrimoniale, secondo l'esempio del docente della lezione 03?
+**R:** Perché è un **costo immobilizzato**: un costo sostenuto per un bene che serve all'attività nel corso del tempo. Secondo i corretti principi contabili il suo costo non può andare nel conto economico come se desse utilità per un solo esercizio: si **capitalizza** nello stato patrimoniale e poi si **ammortizza** ([00:03:14]–[00:04:08]).
+**Opzione:** Perché è un costo immobilizzato, che dà utilità per più esercizi: si capitalizza e poi si ammortizza.
+**Distrattori:**
+- Perché è un costo sostenuto nell'esercizio, che va interamente nel conto economico dell'anno di acquisto.
+- Perché è un apporto dei soci, che va nel patrimonio netto.
+- Perché genera un debito verso il fornitore, che va fra le passività.
+
+**D:** ⚠️ Quali sono, per il docente della lezione 03, le due grandi differenze fra lo stato patrimoniale nazionale e quello internazionale?
+**R:** Prima: in ambito **internazionale** esiste una **definizione** di attivo, passivo e patrimonio netto, in ambito **nazionale** no. Seconda: in ambito **internazionale** non esiste uno **schema obbligatorio** di stato patrimoniale, in ambito **nazionale** sì, ed è quello dell'**art. 2424** ([00:05:54]–[00:06:40]).
+**Opzione:** In ambito internazionale c'è la definizione di attivo, passivo e patrimonio netto ma non uno schema obbligatorio; in ambito nazionale c'è lo schema obbligatorio dell'art. 2424 ma non la definizione.
+**Distrattori:**
+- In ambito nazionale c'è la definizione di attivo, passivo e patrimonio netto ma non uno schema obbligatorio; in ambito internazionale c'è lo schema obbligatorio ma non la definizione.
+- In entrambi gli ambiti ci sono sia la definizione sia uno schema obbligatorio; cambiano solo i criteri di valutazione.
+- In ambito internazionale ci sono sia la definizione sia uno schema obbligatorio; in ambito nazionale nessuno dei due.
+
+**D:** ⚠️ Che cosa propone il Framework dello IASB per lo stato patrimoniale, a differenza della disciplina civilistica e dei principi contabili nazionali?
+**R:** «A differenza della disciplina civilistica e dei principi contabili nazionali, che si limitano a **descrivere lo schema** dello S.P. **senza definire le caratteristiche degli elementi** che lo compongono, il Framework dello IASB propone **una definizione dei concetti di attivo, passivo e patrimonio netto**».
+**Opzione:** Una definizione dei concetti di attivo, passivo e patrimonio netto.
+**Distrattori:**
+- Uno schema obbligatorio di stato patrimoniale, con le voci in un ordine prestabilito.
+- La descrizione dello schema dello stato patrimoniale, senza definire le caratteristiche degli elementi che lo compongono.
+- Una definizione dei concetti di entrata e di uscita monetaria.
+
+**D:** ⚠️ Come definisce le attività il Framework dello IASB, secondo la lezione 03?
+**R:** «Le attività vengono considerate come **risorse controllate** dall'impresa, risultato delle operazioni svolte **in passato**, dalle quali **sono attesi benefici futuri**». L'esempio del docente è il bancone del bar: una risorsa controllata, frutto dell'acquisto, che darà benefici negli esercizi successivi ([00:06:57]–[00:07:53]).
+**Opzione:** Risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+**Distrattori:**
+- Risorse di proprietà dell'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+- Obbligazioni attuali dell'impresa nascenti da operazioni svolte in passato, il cui regolamento porterà alla fuoriuscita di risorse.
+- Incrementi di benefici economici ascrivibili all'esercizio, che trovano manifestazione nella forma di afflusso di attività.
+
+**D:** ⚠️ Come definisce le passività il Framework dello IASB, secondo la lezione 03?
+**R:** «Dal lato opposto le passività vengono definite come **obbligazioni attuali** dell'impresa nascenti da operazioni **svolte in passato** il cui regolamento porterà alla **fuoriuscita di risorse** che, se mantenute in azienda, darebbero futuri benefici economici». Per il docente sono obbligazioni che, per essere regolate, vanno pagate: un'uscita di denaro che, se non ci fosse stata, avrebbe dato all'impresa un ulteriore beneficio ([00:07:53]–[00:09:02]).
+**Opzione:** Obbligazioni attuali dell'impresa nascenti da operazioni svolte in passato, il cui regolamento porterà alla fuoriuscita di risorse che, se mantenute in azienda, darebbero futuri benefici economici.
+**Distrattori:**
+- Obbligazioni che l'impresa assumerà con operazioni future, il cui regolamento porterà alla fuoriuscita di risorse che, se mantenute in azienda, darebbero futuri benefici economici.
+- Risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+- Decrementi di benefici economici ascrivibili all'esercizio, che si concretizzano nel deflusso o nella svalutazione di attività.
+
+**D:** ⚠️ Come definisce il patrimonio netto il Framework dello IASB, secondo la lezione 03?
+**R:** «Il patrimonio netto viene definito, **residualmente**, come la **differenza tra elementi attivi e elementi passivi**». Per il docente è una definizione «in modo **derivato**» ([00:09:02]).
+**Opzione:** Residualmente, come la differenza tra elementi attivi e elementi passivi.
+**Distrattori:**
+- Direttamente, come l'insieme delle risorse apportate dai soci alla fondazione dell'impresa.
+- Residualmente, come la differenza tra i ricavi e i costi dell'esercizio.
+- Residualmente, come la differenza tra le entrate e le uscite dell'esercizio.
+
+**D:** Perché lo IASB ha dovuto definire attivo, passivo e patrimonio netto, mentre il legislatore italiano no, secondo il docente della lezione 03?
+**R:** Perché in ambito internazionale **non c'è una struttura obbligatoria**: chi redige lo stato patrimoniale ha bisogno di **elementi di guida** per capire quali voci inserire. In ambito nazionale la definizione non serviva, perché lo schema dell'**art. 2424** ha una forma in cui le scelte sono «già state compiute dal legislatore» ([00:09:43]–[00:11:38]). Lo stesso vale per costo e ricavo, con l'art. 2425.
+**Opzione:** Perché senza uno schema obbligatorio chi redige il bilancio ha bisogno di elementi di guida, mentre nello schema dell'art. 2424 le scelte le ha già compiute il legislatore.
+**Distrattori:**
+- Perché lo IASB ha potere normativo e può imporre definizioni, mentre il legislatore italiano può imporre solo schemi.
+- Perché lo schema dell'art. 2424 non distingue fra attivo, passivo e patrimonio netto.
+- Perché senza definizioni il bilancio nazionale non potrebbe applicare il principio di prudenza.
+
+**D:** ⚠️ Come definiscono il conto economico i principi contabili nazionali, secondo la lezione 03?
+**R:** «È il prospetto contabile deputato a fornire un'espressiva **rappresentazione e dimostrazione delle operazioni di gestione**, mediante una sintesi dei **componenti positivi e negativi di reddito** che hanno contribuito a determinare il **risultato economico** conseguito, raggruppati in modo da fornire **significativi risultati intermedi**».
+**Opzione:** Il prospetto deputato a rappresentare e dimostrare le operazioni di gestione, mediante una sintesi dei componenti positivi e negativi di reddito che hanno determinato il risultato economico, raggruppati in modo da fornire significativi risultati intermedi.
+**Distrattori:**
+- Il prospetto deputato a rappresentare e dimostrare la dinamica finanziaria, mediante una sintesi delle entrate e delle uscite che hanno determinato la variazione di liquidità, raggruppate in modo da fornire significativi risultati intermedi.
+- Il prospetto deputato a esporre il patrimonio aziendale alla data di riferimento, cioè la situazione patrimoniale dell'azienda e la sua situazione finanziaria.
+- Il prospetto che evidenzia le variazioni intervenute nelle poste di patrimonio netto nel periodo amministrativo.
+
+**D:** ⚠️ Secondo il docente della lezione 03, che cosa distingue nettamente il conto economico dallo stato patrimoniale da un esercizio all'altro?
+**R:** Il conto economico ha «l'**unica funzione** di determinare il risultato economico conseguito nell'esercizio» e, assolta questa funzione, **riparte da zero** nell'esercizio successivo. Lo stato patrimoniale invece **continua**: chiude i propri saldi alla fine dell'esercizio e li riapre all'inizio del successivo ([00:12:39]–[00:13:56]).
+**Opzione:** Il conto economico determina il risultato dell'esercizio e riparte da zero nel successivo; lo stato patrimoniale continua, chiudendo e riaprendo i propri saldi.
+**Distrattori:**
+- Lo stato patrimoniale determina il risultato dell'esercizio e riparte da zero nel successivo; il conto economico continua, chiudendo e riaprendo i propri saldi.
+- Entrambi ripartono da zero a ogni esercizio; cambia solo lo schema.
+- Entrambi continuano da un esercizio all'altro; il conto economico accumula i risultati di tutti gli esercizi.
+
+**D:** ⚠️ Che cosa propone il Framework dello IASB per il conto economico, a differenza della normativa civilistica e dei principi contabili nazionali?
+**R:** «A differenza della normativa civilistica e dei principi contabili nazionali, che si limitano a **disciplinare lo schema e i contenuti** del C.E., il Framework dello IASB propone **una precisa definizione dei concetti di "costo" e "ricavo"**». Per il docente si ripropone la dinamica dello stato patrimoniale: in ambito internazionale una definizione e nessuno schema obbligatorio, in ambito nazionale lo schema dell'art. 2425 ([00:14:29]–[00:17:09]).
+**Opzione:** Una precisa definizione dei concetti di costo e ricavo.
+**Distrattori:**
+- Uno schema obbligatorio di conto economico, con i risultati intermedi prestabiliti.
+- La disciplina dello schema e dei contenuti del conto economico, senza definirne gli elementi.
+- Una definizione dei concetti di entrata e di uscita monetaria.
+
+**D:** ⚠️ Come definisce i costi il Framework dello IASB, secondo la lezione 03?
+**R:** «I costi rappresentano **decrementi** di benefici economici ascrivibili all'esercizio, che si concretizzano nel **deflusso/nella svalutazione di attività** o nell'**incremento di passività**». La definizione «include anche le **perdite non ancora realizzate**». È speculare a quella dei ricavi.
+**Opzione:** Decrementi di benefici economici ascrivibili all'esercizio, che si concretizzano nel deflusso o nella svalutazione di attività o nell'incremento di passività.
+**Distrattori:**
+- Decrementi di benefici economici ascrivibili all'esercizio, che si concretizzano nel deflusso o nella svalutazione di attività o nel decremento di passività.
+- Incrementi di benefici economici ascrivibili all'esercizio, che trovano manifestazione nella forma di afflusso o rivalutazione di attività o di decremento di passività.
+- Obbligazioni attuali dell'impresa nascenti da operazioni svolte in passato, il cui regolamento porterà alla fuoriuscita di risorse.
+
+**D:** ⚠️ Come definisce i ricavi il Framework dello IASB, secondo la lezione 03?
+**R:** «Per contro, i ricavi rappresentano **incrementi** di benefici economici ascrivibili all'esercizio, che trovano manifestazione nella forma di **afflusso/rivalutazione di attività** o di **decremento di passività**». Gli esempi del docente: un'entrata di denaro, la rivalutazione di un'attività svalutata in precedenza, la riduzione di una passività ([00:21:45]–[00:22:56]).
+**Opzione:** Incrementi di benefici economici ascrivibili all'esercizio, che trovano manifestazione nella forma di afflusso o rivalutazione di attività o di decremento di passività.
+**Distrattori:**
+- Incrementi di benefici economici ascrivibili all'esercizio, che trovano manifestazione nella forma di afflusso o rivalutazione di attività o di incremento di passività.
+- Decrementi di benefici economici ascrivibili all'esercizio, che si concretizzano nel deflusso o nella svalutazione di attività o nell'incremento di passività.
+- Risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+
+**D:** ⚠️ Che cosa include anche la definizione di costo del Framework dello IASB, secondo la lezione 03?
+**R:** «La definizione di costo include anche **le perdite non ancora realizzate**». Per il docente sono, per esempio, i **fondi per oneri o rischi futuri** ([00:19:31]–[00:21:45]).
+**Opzione:** Le perdite non ancora realizzate.
+**Distrattori:**
+- Gli utili non ancora realizzati.
+- I soli costi che hanno già dato luogo a un'uscita di denaro.
+- Le distribuzioni di capitale agli azionisti.
+
+**D:** Quali esempi di perdite non ancora realizzate fa il docente della lezione 03?
+**R:** I **fondi per oneri o rischi futuri** ([00:19:44]–[00:21:42]). Un **contenzioso con il fisco** per un accertamento impugnato e non ancora deciso: il rischio è di pagare quanto richiesto, maggiorato di sanzioni e interessi. La **garanzia** sui prodotti venduti, per esempio tre anni di manutenzione gratuita: un costo futuro che si realizzerà e di cui bisogna tenere conto per i beni venduti nell'esercizio.
+**Opzione:** I fondi per oneri o rischi futuri, come un contenzioso fiscale non ancora deciso o la garanzia di manutenzione gratuita sui prodotti venduti.
+**Distrattori:**
+- Gli ammortamenti del bancone e il debito verso un fornitore non ancora pagato.
+- Una trattativa in corso non ancora conclusa e un ordine ricevuto non ancora evaso.
+- La rivalutazione di un'attività svalutata in precedenza e la riduzione di una passività.
+
+**D:** ⚠️ Negli esempi del docente della lezione 03, a che cosa corrispondono gli ammortamenti, un costo che genera un debito verso un fornitore e un costo pagato con un'uscita diretta di denaro?
+**R:** Gli **ammortamenti** sono la **svalutazione di un'attività**; il costo che genera un **debito verso un fornitore** è un **incremento di passività**; il costo pagato con un'**uscita diretta di denaro** è un **deflusso** di risorse monetarie ([00:18:12]–[00:18:47]). Per il docente è una definizione in un'ottica «più strettamente contabile», di corrispondenza fra la posta di costo e la sua contropartita.
+**Opzione:** Ammortamenti: svalutazione di un'attività; debito verso un fornitore: incremento di passività; uscita diretta di denaro: deflusso di risorse monetarie.
+**Distrattori:**
+- Ammortamenti: incremento di passività; debito verso un fornitore: svalutazione di un'attività; uscita diretta di denaro: deflusso di risorse monetarie.
+- Ammortamenti: rivalutazione di un'attività; debito verso un fornitore: decremento di passività; uscita diretta di denaro: afflusso di risorse monetarie.
+- Ammortamenti: svalutazione di un'attività; debito verso un fornitore: decremento di passività; uscita diretta di denaro: deflusso di risorse monetarie.
+
+**D:** ⚠️ Qual è il fulcro del modello di bilancio IASB, e perché, secondo la lezione 03?
+**R:** «Dalle definizioni esposte emerge chiaramente come il modello di bilancio IASB sia il risultato di un **sistema contabile di tipo patrimonialistico**, che individua nello **S.P. il fulcro del bilancio**». Il modello **nazionale**, invece, focalizza l'informazione sul **reddito di esercizio** (lezione 02).
+**Opzione:** Lo stato patrimoniale, perché il modello è il risultato di un sistema contabile di tipo patrimonialistico.
+**Distrattori:**
+- Il conto economico, perché il modello focalizza l'informazione sul reddito di esercizio.
+- Il prospetto delle variazioni del patrimonio netto, perché accoglie i componenti reddituali più rilevanti.
+- La nota integrativa, perché contiene le definizioni del Framework.
+
+**D:** Perché, per il docente della lezione 03, nel modello IASB è lo stato patrimoniale il prospetto più significativo?
+**R:** Perché i principi internazionali vogliono dare agli **investitori istituzionali o professionali** una misura del **valore dell'impresa**, per valutare a quanto scambiarla sul mercato. Quel valore si legge nello stato patrimoniale come **patrimonio netto**: «è proprio dalla valorizzazione del patrimonio netto che l'eventuale investitore istituzionale trae le proprie informazioni fondamentali, cioè quanto vale l'impresa» ([00:23:49]–[00:25:03]).
+**Opzione:** Perché gli investitori istituzionali o professionali cercano il valore dell'impresa, che si legge nello stato patrimoniale come patrimonio netto.
+**Distrattori:**
+- Perché i creditori cercano una misura delle garanzie, che si legge nel conto economico come utile dell'esercizio.
+- Perché il legislatore italiano impone anche alle imprese IAS lo schema dell'art. 2424.
+- Perché nel modello IASB il conto economico non esiste come documento separato.
+
+**D:** Come si articola lo stato patrimoniale, secondo il docente della lezione 03?
+**R:** In **tre sezioni**, **attivo**, **passivo** e **netto**, sia nel modello nazionale sia in quello internazionale. «Tecnicamente l'**attivo** è solo nella parte **sinistra**, mentre le due sezioni del **passivo e del netto** sono nella parte **destra**» ([00:24:23]–[00:24:49]).
+**Opzione:** In attivo, passivo e netto: l'attivo a sinistra, passivo e netto a destra, in entrambi i modelli.
+**Distrattori:**
+- In attivo, passivo e netto: attivo e passivo a sinistra, netto a destra, solo nel modello nazionale.
+- In attivo e passivo nel modello nazionale; in attivo, passivo e netto solo nel modello internazionale.
+- In attivo, passivo e netto: il netto a sinistra, attivo e passivo a destra, in entrambi i modelli.
+
+**D:** ⚠️ Dove sta il prospetto delle variazioni del patrimonio netto nel modello IAS e dove nel bilancio nazionale, secondo la lezione 03?
+**R:** Per lo IAS è **parte integrante del bilancio** di esercizio: un documento che evidenzia le variazioni delle poste di patrimonio netto nel periodo amministrativo. In Italia il legislatore impone «l'evidenziazione di **informazioni equivalenti** nell'ambito della **Nota Integrativa** (C.C **2427 comma 1 n.4**)». Per il docente è obbligatorio nei principi internazionali ed è «divenuto **di fatto obbligatorio anche in Italia**», ma qui non come documento separato: come prospetto **dentro** la nota integrativa ([00:25:30]–[00:26:31]).
+**Opzione:** Nel modello IAS è parte integrante del bilancio, come documento a sé; in Italia le informazioni equivalenti stanno nella nota integrativa, per l'art. 2427, comma 1, n. 4.
+**Distrattori:**
+- Nel modello IAS è parte integrante del bilancio, come documento a sé; in Italia è un allegato del bilancio, come la relazione degli amministratori dell'art. 2428.
+- In entrambi i modelli sta nella nota integrativa, e solo per le imprese di maggiore dimensione.
+- Nel modello IAS è facoltativo e soltanto incoraggiato; in Italia è un documento separato del bilancio.
+
+**D:** ⚠️ Perché il prospetto delle variazioni del patrimonio netto ha più rilievo nel modello IASB, secondo la lezione 03?
+**R:** Per la sua diversa valenza informativa: «i principi contabili internazionali prevedono infatti, che alcuni **componenti reddituali**, spesso di **notevole rilevanza quantitativa**, quali quelli derivanti dalla **modifica di principi contabili** **non transitino a C.E.** come nel modello Nazionale, ma siano imputati a riduzione del **patrimonio netto iniziale**». Per il docente, in ambito nazionale tutte le movimentazioni economiche passano **sempre** dal conto economico; in ambito internazionale alcune transitano in una **specifica riserva** di patrimonio netto, «in aumento o in riduzione» ([00:26:31]–[00:28:38]).
+**Opzione:** Perché alcuni componenti reddituali, come quelli derivanti dalla modifica di principi contabili, non transitano a conto economico ma sono imputati a riduzione del patrimonio netto iniziale.
+**Distrattori:**
+- Perché alcuni componenti reddituali, come quelli derivanti dalla modifica di principi contabili, non transitano a patrimonio netto ma sono imputati direttamente a conto economico.
+- Perché nel modello IASB manca la nota integrativa, e il prospetto ne prende il posto.
+- Perché nel modello IASB il fulcro del bilancio è il conto economico.
+
+**D:** ⚠️ Che cosa deve evidenziare la prima parte del prospetto delle variazioni del patrimonio netto, secondo lo IAS?
+**R:** Tre voci: «L'**utile o la perdita** dell'esercizio; Le voci relative ad **oneri o proventi** di cui altri principi contabili richiedono l'**imputazione a patrimonio netto**; L'**effetto complessivo dei cambiamenti di principi contabili** e la **correzione di errori** determinati secondo quanto richiesto dallo IAS».
+**Opzione:** L'utile o la perdita dell'esercizio; gli oneri o proventi che altri principi contabili imputano a patrimonio netto; l'effetto complessivo dei cambiamenti di principi contabili e la correzione di errori.
+**Distrattori:**
+- L'utile o la perdita dell'esercizio; gli oneri o proventi che altri principi contabili imputano a patrimonio netto; le operazioni sul capitale con i soci e le distribuzioni di capitale agli azionisti.
+- Le operazioni sul capitale con i soci; il saldo degli utili o delle perdite accumulati; la riconciliazione di ciascuna classe di azioni e di ciascuna riserva.
+- L'utile o la perdita dell'esercizio; le entrate e le uscite di cassa dell'esercizio; le disponibilità liquide all'inizio e al termine dell'esercizio.
+
+**D:** ⚠️ Che cosa deve illustrare la seconda parte del prospetto delle variazioni del patrimonio netto, secondo lo IAS?
+**R:** Tre voci: «Le **operazioni sul capitale con i soci** ed eventuali distribuzioni di capitale agli azionisti; Il **saldo degli utili o delle perdite accumulati** all'inizio dell'esercizio ed i movimenti intervenuti nell'esercizio; Una **riconciliazione** tra il valore di ciascuna classe di azioni, della **riserva sovrapprezzo azioni** e di ciascuna riserva all'inizio e al termine dell'esercizio, evidenziando ogni movimento».
+**Opzione:** Le operazioni sul capitale con i soci e le distribuzioni di capitale agli azionisti; il saldo degli utili o delle perdite accumulati all'inizio dell'esercizio e i movimenti dell'esercizio; la riconciliazione di ciascuna classe di azioni, della riserva sovrapprezzo azioni e di ciascuna riserva, con ogni movimento.
+**Distrattori:**
+- Le operazioni sul capitale con i soci e le distribuzioni di capitale agli azionisti; il saldo degli utili o delle perdite accumulati all'inizio dell'esercizio e i movimenti dell'esercizio; l'effetto complessivo dei cambiamenti di principi contabili e la correzione di errori.
+- L'utile o la perdita dell'esercizio; gli oneri o proventi che altri principi contabili imputano a patrimonio netto; l'effetto complessivo dei cambiamenti di principi contabili e la correzione di errori.
+- Le operazioni sul capitale con i soci e le distribuzioni di capitale agli azionisti; le entrate e le uscite di cassa dell'esercizio; la riconciliazione delle disponibilità liquide all'inizio e al termine dell'esercizio.
+
+**D:** ⚠️ In quale parte del prospetto delle variazioni del patrimonio netto va l'effetto complessivo dei cambiamenti di principi contabili, secondo lo IAS?
+**R:** Nella **prima parte**, con l'**utile o la perdita** dell'esercizio e gli **oneri o proventi** imputati a patrimonio netto, insieme alla **correzione di errori**. La seconda parte riguarda invece le operazioni con i soci, il saldo degli utili o delle perdite accumulati e la riconciliazione delle classi di azioni e delle riserve.
+**Opzione:** Nella prima parte, con l'utile o la perdita dell'esercizio e gli oneri o proventi imputati a patrimonio netto.
+**Distrattori:**
+- Nella seconda parte, con le operazioni sul capitale con i soci e il saldo degli utili o delle perdite accumulati.
+- In nessuna delle due: transita a conto economico, come nel modello nazionale.
+- Nella seconda parte, nella riconciliazione di ciascuna classe di azioni e di ciascuna riserva.
+
+**D:** ⚠️ Che cosa esprime lo stato patrimoniale nel bilancio nazionale, secondo il test della lezione 03 (domanda 1)?
+**R:** «**La situazione patrimoniale dell'azienda e la sua situazione finanziaria**», la formula della slide. Distrattori del test: «la situazione economica dell'azienda», che è il campo del **conto economico**, «i debiti dell'azienda» e «le attività dell'azienda», che sono solo **una parte** dello stato patrimoniale.
+**Opzione:** La situazione patrimoniale dell'azienda e la sua situazione finanziaria.
+**Distrattori:**
+- La situazione economica dell'azienda.
+- I debiti dell'azienda.
+- Le attività dell'azienda.
+
+**D:** ⚠️ Come sono considerate le attività patrimoniali nel modello di bilancio redatto secondo i principi internazionali, secondo il test della lezione 03 (domanda 2)?
+**R:** «**Come risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri**», la definizione del Framework dello IASB alla lettera. I distrattori del test negano **un requisito ciascuno**: operazioni «che si svolgeranno in futuro», benefici futuri «non attesi», risorse «non controllate».
+**Opzione:** Come risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+**Distrattori:**
+- Come risorse controllate dall'impresa, risultato delle operazioni che si svolgeranno in futuro.
+- Come risorse controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali non sono attesi benefici futuri.
+- Come risorse non controllate dall'impresa, risultato delle operazioni svolte in passato, dalle quali sono attesi benefici futuri.
+
+**D:** ⚠️ Come viene definito il patrimonio netto nel modello di bilancio redatto secondo i principi internazionali, secondo il test della lezione 03 (domanda 3)?
+**R:** «**La differenza tra elementi attivi e elementi passivi**»: per il Framework dello IASB il patrimonio netto è definito **residualmente**. Distrattori del test: «la differenza tra costi e ricavi», che dà il **risultato economico**, «la differenza tra crediti e debiti» e «la differenza tra entrate e uscite», cioè gli aspetti **finanziario** e **monetario** di cui parla il docente.
+**Opzione:** La differenza tra elementi attivi e elementi passivi.
+**Distrattori:**
+- La differenza tra costi e ricavi.
+- La differenza tra crediti e debiti.
+- La differenza tra entrate e uscite.
+
+**D:** ⚠️ Il prospetto delle variazioni del patrimonio netto è obbligatorio nel bilancio redatto secondo i principi contabili internazionali, secondo il test della lezione 03 (domanda 4)?
+**R:** «**Sì**». Per lo IAS fa «**parte integrante del bilancio** di esercizio», e per il docente è «un documento obbligatorio nell'ambito dei principi contabili internazionali» ([00:25:30]). Distrattori del test: «no», «non sempre», «solo se le dimensioni dell'impresa superano certi parametri», che è la condizione del **rendiconto finanziario** nel modello nazionale (lezione 02). ⚠️ In Italia le informazioni equivalenti stanno nella **nota integrativa** (art. 2427, comma 1, n. 4).
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- Non sempre.
+- Solo se le dimensioni dell'impresa superano certi parametri.
+
+**D:** ⚠️ Dove individua il proprio fulcro il modello di bilancio redatto secondo i principi contabili internazionali, secondo il test della lezione 03 (domanda 5)?
+**R:** «**Nello stato patrimoniale**»: il modello IASB è «il risultato di un sistema contabile di tipo **patrimonialistico**, che individua nello S.P. il fulcro del bilancio». Distrattori del test: il «contro economico» (refuso della piattaforma per conto economico), il prospetto delle variazioni del patrimonio netto e la nota integrativa.
+**Opzione:** Nello stato patrimoniale.
+**Distrattori:**
+- Nel conto economico.
+- Nel prospetto delle variazioni del patrimonio netto.
+- Nella nota integrativa.
