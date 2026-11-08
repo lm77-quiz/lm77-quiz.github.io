@@ -775,3 +775,260 @@
 - Nel conto economico.
 - Nel prospetto delle variazioni del patrimonio netto.
 - Nella nota integrativa.
+
+## Lezione 04 — Gli altri documenti di bilancio
+
+**D:** ⚠️ Secondo quale principio contabile la nota integrativa è il documento deputato a illustrare e supportare i dati dello stato patrimoniale e del conto economico, nella slide della lezione 04?
+**R:** Il **principio contabile n. 12 CNDC-CNR** (slide 2). Il contenuto della nota integrativa lo fissa l'**art. 2427** c.c., che compare nel titolo della slide e che il docente descrive come diviso in **numeri**, ciascuno un elemento specifico da inserire ([00:02:04]–[00:02:59]). Il docente non nomina il principio n. 12.
+**Opzione:** Il principio contabile n. 12 CNDC-CNR.
+**Distrattori:**
+- L'OIC 11.
+- L'OIC 16.
+- Lo IAS 16.
+
+**D:** ⚠️ Come definisce la nota integrativa il principio contabile n. 12 CNDC-CNR, citato nella lezione 04?
+**R:** «Il documento deputato a **illustrare e supportare** i dati esposti nello S.P. e nel C.E., per la loro natura **sintetici e quantitativi**, attraverso informazioni **esplicative, supplementari e complementari**» (slide 2). Per il docente è «assolutamente imprescindibile» per capire un bilancio: senza, resterebbero i soli numeri di stato patrimoniale e conto economico, poco comprensibili ([00:02:59]).
+**Opzione:** Il documento deputato a illustrare e supportare i dati esposti nello stato patrimoniale e nel conto economico, per la loro natura sintetici e quantitativi, attraverso informazioni esplicative, supplementari e complementari.
+**Distrattori:**
+- Il documento deputato a illustrare e supportare i dati esposti nello stato patrimoniale e nel conto economico, per la loro natura analitici e qualitativi, attraverso informazioni esplicative, supplementari e complementari.
+- Il documento deputato a illustrare quei profili della realtà aziendale che non possono trovare adeguata rappresentazione nei prospetti contabili.
+- Il documento deputato a rappresentare le variazioni intervenute nella situazione patrimoniale e finanziaria dell'impresa durante l'esercizio.
+
+**D:** ⚠️ Attraverso quali informazioni la nota integrativa illustra e supporta i dati dello stato patrimoniale e del conto economico, secondo la lezione 04?
+**R:** Informazioni «**esplicative, supplementari e complementari**» (slide 2). Per il docente la nota integrativa inserisce nel bilancio la parte **non numerica**: informazioni non solo numeriche ma anche letterarie, che spiegano gli elementi rappresentati numericamente ([00:02:17]–[00:02:59]).
+**Opzione:** Esplicative, supplementari e complementari.
+**Distrattori:**
+- Esplicative, supplementari e sostitutive.
+- Sintetiche e quantitative.
+- Patrimoniali, finanziarie e monetarie.
+
+**D:** ⚠️ Da quale documento è sostituita la nota integrativa nei principi contabili internazionali, e con quali funzioni, secondo la lezione 04?
+**R:** Dalle «**NOTE di BILANCIO**»: «le loro funzioni **coincidono** con quelle assegnate al documento descrittivo nel modello nazionale» (slide 2). Per il docente c'è «perfetta rispondenza» fra la nota integrativa dell'art. 2427 e le note di bilancio dello IASB ([00:02:59]–[00:05:07]). ⚠️ La slide 13 della lezione 02 chiama lo stesso documento «**note esplicative**».
+**Opzione:** Dalle note di bilancio, le cui funzioni coincidono con quelle del documento descrittivo nel modello nazionale.
+**Distrattori:**
+- Dalla relazione degli amministratori, le cui funzioni coincidono con quelle del documento descrittivo nel modello nazionale.
+- Dalle note di bilancio, le cui funzioni si limitano ai profili che non trovano rappresentazione nei prospetti contabili.
+- Dal prospetto delle variazioni del patrimonio netto, che ne accoglie le informazioni equivalenti.
+
+**D:** ⚠️ Quali sono i tre tipi di bilancio previsti oggi in ambito nazionale, e da quali documenti è composto ciascuno, secondo il docente della lezione 04?
+**R:** L'**ordinario**: stato patrimoniale, conto economico, nota integrativa **completa** e rendiconto finanziario. L'**abbreviato**: stato patrimoniale, conto economico e nota integrativa **semplificata**, senza obbligo di rendiconto finanziario. Quello delle **micro-imprese**: solo stato patrimoniale e conto economico; non sono obbligatori né la nota integrativa, salvo poche informazioni **in calce** allo stato patrimoniale, né il rendiconto finanziario ([00:06:46]–[00:10:09]). Sono tre tipologie «via via semplificate» in funzione della dimensione dell'impresa; in ambito internazionale la distinzione non esiste e il bilancio ha sempre i cinque documenti. Le slide non ne parlano.
+**Opzione:** Ordinario: stato patrimoniale, conto economico, nota integrativa completa e rendiconto finanziario; abbreviato: stato patrimoniale, conto economico e nota integrativa semplificata; micro-imprese: stato patrimoniale e conto economico, con alcune informazioni in calce allo stato patrimoniale.
+**Distrattori:**
+- Ordinario: stato patrimoniale, conto economico, nota integrativa completa e rendiconto finanziario; abbreviato: stato patrimoniale, conto economico, nota integrativa semplificata e rendiconto finanziario; micro-imprese: stato patrimoniale e conto economico, con alcune informazioni in calce allo stato patrimoniale.
+- Ordinario: stato patrimoniale, conto economico, nota integrativa e relazione sulla gestione; abbreviato: stato patrimoniale e conto economico; micro-imprese: il solo stato patrimoniale.
+- Ordinario e abbreviato, entrambi con stato patrimoniale, conto economico, prospetto delle variazioni del patrimonio netto, rendiconto finanziario e note di bilancio.
+
+**D:** ⚠️ Quali articoli del Codice civile prevedono il bilancio abbreviato e quello delle micro-imprese, secondo la lezione 04?
+**R:** L'**art. 2435-bis** il bilancio **abbreviato**, con una nota integrativa che ha un numero inferiore di punti da esplicitare; l'**art. 2435-ter** quello delle **micro-imprese**, in cui la nota integrativa può essere omessa se sono fornite alcune informazioni in calce allo stato patrimoniale ([00:06:46]). La slide 5 cita gli stessi due articoli per l'esonero dal rendiconto finanziario delle «imprese minori» e delle «micro imprese».
+**Opzione:** Il bilancio abbreviato l'art. 2435-bis, quello delle micro-imprese l'art. 2435-ter.
+**Distrattori:**
+- Il bilancio abbreviato l'art. 2435-ter, quello delle micro-imprese l'art. 2435-bis.
+- Il bilancio abbreviato l'art. 2427, quello delle micro-imprese l'art. 2428.
+- Entrambi l'art. 2423, che elenca i documenti del bilancio.
+
+**D:** ⚠️ Quali autorità possono prescrivere contenuti specifici della nota integrativa e della relazione sulla gestione, e per quali soggetti, secondo il docente della lezione 04?
+**R:** Gli organi di vigilanza: la **Banca d'Italia** per le **banche** (e le altre attività finanziarie), l'**IVASS** per le **assicurazioni** (nel transcript «Ivas»), la **Consob** per le società **quotate** in borsa ([00:10:09]–[00:11:38], [00:14:44]). Per le banche, per esempio, la nota integrativa deve indicare i rischi, la gestione dei crediti, la gestione dei titoli. Anche i punti dell'art. 2428 per la relazione sulla gestione possono essere ampliati dalle discipline di settore. Le slide non ne parlano.
+**Opzione:** La Banca d'Italia per le banche, l'IVASS per le assicurazioni, la Consob per le società quotate.
+**Distrattori:**
+- La Consob per le banche, l'IVASS per le assicurazioni, la Banca d'Italia per le società quotate.
+- La Banca d'Italia per le banche, la Consob per le assicurazioni, l'IVASS per le società quotate.
+- Lo IASB per le banche, l'OIC per le assicurazioni, la Consob per le società quotate.
+
+**D:** ⚠️ Su che cosa deve informare la relazione sulla gestione, secondo la formula dell'art. 2428 riportata nella lezione 04?
+**R:** «**Sulla situazione della società e sull'andamento della gestione**, nel suo complesso e nei vari settori in cui essa ha operato, anche attraverso **imprese controllate**, con particolare riguardo **ai costi, ai ricavi, agli investimenti**» (slide 3). ⚠️ Il docente aggiunge imprese «collegate o controllanti» e gli investimenti che l'impresa «intenderà realizzare nei successivi esercizi» ([00:13:08]): vale la slide.
+**Opzione:** Sulla situazione della società e sull'andamento della gestione, nel suo complesso e nei vari settori in cui essa ha operato, anche attraverso imprese controllate, con particolare riguardo ai costi, ai ricavi, agli investimenti.
+**Distrattori:**
+- Sulla situazione della società e sull'andamento della gestione, nel suo complesso e nei vari settori in cui essa ha operato, anche attraverso imprese controllate, con particolare riguardo alle variazioni del patrimonio netto.
+- Sulle variazioni intervenute nella situazione patrimoniale e finanziaria dell'impresa durante l'esercizio e sulle correlazioni fra investimenti e fonti di finanziamento.
+- Sui dati esposti nello stato patrimoniale e nel conto economico, attraverso informazioni esplicative, supplementari e complementari.
+
+**D:** ⚠️ Con quale coda si chiude la formula dell'art. 2428 sulla relazione sulla gestione: «con particolare riguardo…»?
+**R:** «…**ai costi, ai ricavi, agli investimenti**» (slide 3). Il docente parla dei costi, dei ricavi e degli investimenti che l'impresa ha realizzato «o che intenderà realizzare nei successivi esercizi» ([00:13:08]).
+**Opzione:** Ai costi, ai ricavi, agli investimenti.
+**Distrattori:**
+- Ai costi, ai ricavi, ai finanziamenti.
+- Alle attività, alle passività, al patrimonio netto.
+- Ai rischi, alla gestione dei crediti, alla gestione dei titoli.
+
+**D:** ⚠️ Per quali imprese è obbligatoria in ambito nazionale la relazione sulla gestione, secondo il docente della lezione 04?
+**R:** Per le imprese tenute al **bilancio ordinario**. **Non** è obbligatoria per le società che possono redigere il bilancio **in forma abbreviata**, se alcune delle sue informazioni sono integrate in **nota integrativa**, e non lo è per quelle che possono redigere il bilancio delle **micro-imprese** ([00:12:14]–[00:13:08]). Per il docente, inoltre, la relazione sulla gestione non fa parte dei documenti di bilancio ma ne è un **allegato**. ⚠️ La slide 3 riporta solo il contenuto: l'obbligatorietà sta solo nel transcript, ed è la domanda 1 del test.
+**Opzione:** Per le imprese tenute al bilancio ordinario.
+**Distrattori:**
+- Per tutte le imprese, comprese quelle che redigono il bilancio delle micro-imprese.
+- Per le sole imprese che redigono il bilancio secondo i principi contabili internazionali.
+- Per le imprese che redigono il bilancio in forma abbreviata, ma non per quelle tenute al bilancio ordinario.
+
+**D:** ⚠️ Come si chiama il documento dell'art. 2428 nel modello nazionale, e come si chiama il documento corrispondente nei principi contabili internazionali, secondo la lezione 04?
+**R:** Nel modello nazionale è la **relazione sulla gestione** (slide 3, art. 2428); nei principi internazionali è la **relazione degli amministratori** (slide 4). Per il docente «il nome del documento è leggermente diverso» ([00:14:44]–[00:18:20]). ⚠️ La slide 12 della lezione 02 chiamava «relazione degli amministratori» anche il documento dell'art. 2428: il test della lezione 04 segue la distinzione di questa lezione.
+**Opzione:** Nel modello nazionale relazione sulla gestione, nei principi internazionali relazione degli amministratori.
+**Distrattori:**
+- Nel modello nazionale relazione degli amministratori, nei principi internazionali relazione sulla gestione.
+- Nel modello nazionale nota integrativa, nei principi internazionali note di bilancio.
+- Nel modello nazionale relazione sulla gestione, nei principi internazionali prospetto delle variazioni del patrimonio netto.
+
+**D:** ⚠️ Come trattano i principi contabili internazionali la relazione degli amministratori, secondo la lezione 04?
+**R:** «Pur **non imponendone** la redazione, anche i principi contabili internazionali "**incoraggiano**" le imprese a presentare, oltre al bilancio, un documento denominato "RELAZIONE degli AMMINISTRATORI"» (slide 4). Per il docente, di fatto, tutte le imprese tenute ai principi internazionali la redigono **automaticamente**, perché l'obiettivo di quei bilanci è mettere gli investitori in condizione di scegliere se investire; anche qui non c'è una struttura obbligatoria ([00:20:00]–[00:20:47]). È la domanda 2 del test: «è consigliata la sua redazione ma non è obbligatoria».
+**Opzione:** Non ne impongono la redazione, ma incoraggiano le imprese a presentarla oltre al bilancio.
+**Distrattori:**
+- Le riconoscono il ruolo di elemento costitutivo del bilancio e ne prescrivono la redazione obbligatoria.
+- Ne impongono la redazione solo alle imprese le cui dimensioni superano certi parametri.
+- Non la prevedono, perché i suoi contenuti sono assorbiti dalle note di bilancio.
+
+**D:** ⚠️ Allo scopo di illustrare che cosa i principi contabili internazionali incoraggiano a presentare la relazione degli amministratori, secondo la lezione 04?
+**R:** «Allo scopo di illustrare **quei profili della realtà aziendale che non possono trovare adeguata rappresentazione nei prospetti contabili e nella nota integrativa**» (slide 4). Gli esempi del docente: gli obiettivi aziendali e le linee di sviluppo successivo, le politiche di allargamento o di evoluzione verso nuovi settori, l'abbandono di settori curati in precedenza, l'interesse per mercati innovativi, l'**analisi settoriale** riportata sulla realtà aziendale. Sono tutti elementi che la nota integrativa, dal contenuto «abbastanza standardizzato», non accoglie ([00:18:20]–[00:20:00]).
+**Opzione:** Quei profili della realtà aziendale che non possono trovare adeguata rappresentazione nei prospetti contabili e nella nota integrativa.
+**Distrattori:**
+- Quei profili della realtà aziendale che trovano già rappresentazione nei prospetti contabili, per spiegarne i dati sintetici e quantitativi.
+- Le variazioni intervenute nella situazione patrimoniale e finanziaria dell'impresa durante l'esercizio.
+- I flussi derivanti dalle movimentazioni sia delle passività in senso stretto, sia delle voci di patrimonio.
+
+**D:** ⚠️ Con quale atto il rendiconto finanziario è stato introdotto come documento obbligatorio del bilancio di esercizio nazionale, secondo la lezione 04?
+**R:** Con il **D.Lgs. n. 139/2015**, che ha recepito la **Direttiva 2013/34/UE**: il rendiconto è stato introdotto «come documento obbligatorio nella composizione del bilancio di esercizio (**art. 2423** C.C.)» (slide 5). Per il docente è obbligatorio dal **1° gennaio 2016** ([00:21:10]). La slide lo definisce, «nei rapporti di comunicazione aziendale col mondo esterno, un elemento informativo di **fondamentale importanza**».
+**Opzione:** Il D.Lgs. n. 139/2015, che ha recepito la Direttiva 2013/34/UE.
+**Distrattori:**
+- Il D.Lgs. n. 34/2013, che ha recepito la Direttiva 2015/139/UE.
+- Il principio contabile n. 12 CNDC-CNR.
+- L'art. 2435-bis del Codice civile, per le imprese minori.
+
+**D:** ⚠️ Quali imprese possono astenersi dalla compilazione del rendiconto finanziario nel modello nazionale, e per quali articoli del Codice civile?
+**R:** «Il Codice civile (articoli **2435 bis e 2435 ter**) ha previsto che le **imprese minori** e le **micro imprese** **possano astenersi** dalla compilazione del rendiconto finanziario» (slide 5). Per il docente serve ad agevolarle sui costi e sulla difficoltà di predisposizione del bilancio ([00:21:39]). È la domanda 3 del test: il rendiconto «è obbligatorio se le dimensioni dell'impresa sono superiori a certi parametri».
+**Opzione:** Le imprese minori e le micro imprese, per gli articoli 2435-bis e 2435-ter.
+**Distrattori:**
+- Le imprese di maggiore dimensione, per gli articoli 2435-bis e 2435-ter.
+- Le imprese minori e le micro imprese, per gli articoli 2427 e 2428.
+- Nessuna: per l'art. 2423 il rendiconto è obbligatorio per tutte le imprese.
+
+**D:** ⚠️ In che cosa si estrinseca la funzione del rendiconto finanziario nei principi contabili nazionali, secondo la lezione 04?
+**R:** «Nella rappresentazione delle **variazioni intervenute nella situazione patrimoniale e finanziaria** dell'impresa durante l'esercizio, nella esplicitazione delle **correlazioni esistenti fra investimenti e fonti di finanziamento**, nella evidenziazione delle **risorse finanziarie che si sono rese disponibili**» (slide 6). Per il docente le variazioni sono la **differenza fra valore finale e valore iniziale** dell'esercizio: nel rendiconto le voci dello stato patrimoniale non compaiono a una certa data, ma come variazioni fra due istanti di tempo ([00:21:39]–[00:24:52]).
+**Opzione:** Nella rappresentazione delle variazioni intervenute nella situazione patrimoniale e finanziaria dell'impresa durante l'esercizio, nella esplicitazione delle correlazioni esistenti fra investimenti e fonti di finanziamento, nella evidenziazione delle risorse finanziarie che si sono rese disponibili.
+**Distrattori:**
+- Nella rappresentazione delle variazioni intervenute nella situazione patrimoniale e finanziaria dell'impresa durante l'esercizio, nella esplicitazione delle correlazioni esistenti fra investimenti e fonti di finanziamento, nella evidenziazione del risultato economico conseguito.
+- Nella esposizione del patrimonio aziendale alla data di riferimento, cioè della situazione patrimoniale e della situazione finanziaria dell'azienda.
+- Nella sintesi dei componenti positivi e negativi di reddito, raggruppati in modo da fornire significativi risultati intermedi.
+
+**D:** ⚠️ Come trattano il rendiconto finanziario i principi contabili internazionali, secondo la lezione 04?
+**R:** «Gli riconoscono il ruolo di **elemento costitutivo del bilancio** e ne **prescrivono la redazione obbligatoria**» (slide 7). Per il docente è obbligatorio «a qualunque livello»: in ambito internazionale redigono il bilancio imprese di media e grande dimensione, per le quali il rendiconto sarebbe comunque obbligatorio, e conta per l'informazione del potenziale investitore internazionale ([00:22:46]–[00:23:24]). È la domanda 4 del test: «sì».
+**Opzione:** Gli riconoscono il ruolo di elemento costitutivo del bilancio e ne prescrivono la redazione obbligatoria.
+**Distrattori:**
+- Pur non imponendone la redazione, incoraggiano le imprese a presentarlo oltre al bilancio.
+- Ne prescrivono la redazione obbligatoria solo se le dimensioni dell'impresa superano certi parametri.
+- Ne consentono l'omissione alle imprese minori e alle micro imprese.
+
+**D:** ⚠️ Quali sono le tre sezioni del rendiconto finanziario individuate dalla disciplina IASB, secondo la lezione 04?
+**R:** «La **sezione operativa** che corrisponde all'area della **gestione reddituale**, la **sezione degli investimenti**, e la **sezione delle fonti**» (slide 7). ⚠️ La slide dice che la disciplina IASB «individua tre sezioni»; il docente parla di una struttura «più o meno obbligatoria», senza «un'obbligatorietà stringente», con «almeno tre aree» ([00:23:24]–[00:24:13]). Vale la slide.
+**Opzione:** La sezione operativa, che corrisponde all'area della gestione reddituale, la sezione degli investimenti e la sezione delle fonti.
+**Distrattori:**
+- La sezione operativa, che corrisponde all'area della gestione reddituale, la sezione degli investimenti e la sezione straordinaria.
+- La sezione degli investimenti, che corrisponde all'area della gestione reddituale, la sezione operativa e la sezione delle fonti.
+- La sezione patrimoniale, la sezione finanziaria e la sezione monetaria.
+
+**D:** ⚠️ Quali flussi somma in sé la sezione delle fonti del rendiconto finanziario IASB, secondo la lezione 04?
+**R:** «I flussi derivanti dalle movimentazioni **sia delle passività in senso stretto, sia delle voci di patrimonio**» (slide 7). Per il docente è la sezione in cui si vede dove l'impresa ha trovato le fonti di finanziamento, o se ha restituito fonti attivate in precedenza ([00:23:24]–[00:24:13]).
+**Opzione:** I flussi derivanti dalle movimentazioni sia delle passività in senso stretto, sia delle voci di patrimonio.
+**Distrattori:**
+- I flussi derivanti dalle movimentazioni delle sole passività in senso stretto, escluse le voci di patrimonio.
+- I flussi derivanti dalle movimentazioni sia delle attività, sia delle passività in senso stretto.
+- I flussi dell'area della gestione reddituale.
+
+**D:** ⚠️ Dove trovano collocazione le immobilizzazioni materiali nello schema dello stato patrimoniale, secondo la lezione 04?
+**R:** Nello schema dello stato patrimoniale «dettato dall'**art. 2424** C.C.», alla voce «**B) Immobilizzazioni: II – Immobilizzazioni materiali**» (slide 8). Il docente dice «voce B numero 2» ([00:24:52]).
+**Opzione:** Nello schema dell'art. 2424, alla voce B) Immobilizzazioni, II – Immobilizzazioni materiali.
+**Distrattori:**
+- Nello schema dell'art. 2425, alla voce B) Immobilizzazioni, II – Immobilizzazioni materiali.
+- Nello schema dell'art. 2424, fra le passività raggruppate in base alla natura delle fonti di finanziamento.
+- Fra le informazioni della nota integrativa, per l'art. 2427.
+
+**D:** ⚠️ Quali sono, nell'ordine, le cinque voci delle immobilizzazioni materiali nello schema dell'art. 2424?
+**R:** «1) **Terreni e fabbricati**; 2) **Impianti e macchinario**; 3) **Attrezzature industriali e commerciali**; 4) **Altri beni**; 5) **Immobilizzazioni in corso e acconti**» (slide 8). ⚠️ La slide dice «macchinario» al singolare; il docente dice «impianti e macchinari» ([00:25:18]), che è anche la forma dello IAS 16 («Immobili, impianti e macchinari»).
+**Opzione:** Terreni e fabbricati; impianti e macchinario; attrezzature industriali e commerciali; altri beni; immobilizzazioni in corso e acconti.
+**Distrattori:**
+- Terreni e fabbricati; impianti e macchinario; attrezzature industriali e commerciali; altri beni; prodotti destinati alla vendita.
+- Terreni e fabbricati; impianti e macchinario; attrezzature industriali e commerciali; costi anticipati o sospesi; immobilizzazioni in corso e acconti.
+
+**D:** ⚠️ Quali tre caratteristiche delle immobilizzazioni materiali evidenzia il documento OIC n. 16, secondo la lezione 04?
+**R:** «La **natura contabile**, ossia il fatto che si tratta di **costi anticipati o sospesi comuni a più periodi amministrativi**; la **natura fisica**, consistente nella caratteristica della **materialità**; la **natura economica**, consistente nella **strumentalità**» (slide 9). Per il docente la materialità è la **tangibilità**, il poter essere toccati; la strumentalità è l'uso del bene come strumento dell'attività dell'impresa ([00:25:18]–[00:28:25]).
+**Opzione:** Natura contabile: costi anticipati o sospesi comuni a più periodi amministrativi; natura fisica: materialità; natura economica: strumentalità.
+**Distrattori:**
+- Natura contabile: costi anticipati o sospesi comuni a più periodi amministrativi; natura fisica: strumentalità; natura economica: materialità.
+- Natura contabile: costi dell'esercizio in cui il bene è acquistato; natura fisica: materialità; natura economica: strumentalità.
+- Natura contabile: costi anticipati o sospesi comuni a più periodi amministrativi; natura fisica: immaterialità; natura economica: strumentalità.
+
+**D:** ⚠️ In che cosa consiste la natura contabile delle immobilizzazioni materiali secondo il documento OIC n. 16?
+**R:** Nel fatto che «si tratta di **costi anticipati o sospesi comuni a più periodi amministrativi**» (slide 9). Per il docente sono costi sospesi «in quanto riferiti a più esercizi» ([00:25:18]): è la «**durata pluriennale**» dell'opzione corretta della domanda 5 del test. Con la lezione 03: il costo del bancone si capitalizza e poi si ammortizza.
+**Opzione:** Nel fatto che si tratta di costi anticipati o sospesi comuni a più periodi amministrativi.
+**Distrattori:**
+- Nel fatto che si tratta di costi dell'esercizio in cui il bene è acquistato, da imputare interamente al conto economico.
+- Nel fatto che si tratta di ricavi anticipati o sospesi comuni a più periodi amministrativi.
+- Nel fatto che si tratta di beni tangibili, che possono essere toccati.
+
+**D:** Che differenza c'è fra l'acquisto delle bevande e l'acquisto del bancone di un bar, nell'esempio del docente della lezione 04?
+**R:** Le **bevande** sono l'oggetto di ciò che il bar vende ai clienti: sono **prodotti**. Il **bancone** lo si usa per svolgere l'attività di bar: è **strumentale** all'attività. Ciò che si acquista non per rivenderlo ma per usarlo come strumento dell'attività è un'**immobilizzazione** ([00:26:49]–[00:28:25]).
+**Opzione:** Le bevande sono prodotti destinati alla vendita; il bancone è strumentale all'attività, quindi è un'immobilizzazione.
+**Distrattori:**
+- Le bevande sono strumentali all'attività; il bancone è un prodotto destinato alla vendita.
+- Entrambi sono immobilizzazioni materiali, perché sono beni tangibili.
+- Il bancone è un'immobilizzazione immateriale, perché il suo costo è comune a più esercizi.
+
+**D:** ⚠️ Che cosa distingue un'immobilizzazione materiale da un'immobilizzazione immateriale, secondo il docente della lezione 04?
+**R:** La **tangibilità**, cioè la **materialità**: l'immobilizzazione strumentale è distinta in materiale o immateriale «a seconda che abbia o meno la caratteristica della tangibilità, cioè della materialità» ([00:26:49]–[00:28:25]). La strumentalità non le distingue: è il tratto comune da cui parte la distinzione.
+**Opzione:** La tangibilità, cioè la caratteristica della materialità.
+**Distrattori:**
+- La strumentalità, cioè l'uso come strumento dell'attività dell'impresa.
+- La natura contabile di costi anticipati o sospesi comuni a più periodi amministrativi.
+- La destinazione alla vendita ai clienti.
+
+**D:** ⚠️ Quali principi contabili disciplinano le immobilizzazioni materiali nel modello nazionale e in quello internazionale, secondo la lezione 04?
+**R:** Il **documento OIC n. 16** nel modello nazionale (slide 9) e lo **IAS 16** in quello internazionale (slide 10): per il docente c'è anche «coincidenza di numeri» ([00:28:25]). L'**OIC** è l'*Organismo Italiano di Contabilità*, deputato a emanare i principi contabili nazionali ([00:25:18]). La definizione dello IAS 16 «non si differenzia da quella dei principi contabili nazionali» (slide 10).
+**Opzione:** L'OIC 16 nel modello nazionale, lo IAS 16 in quello internazionale.
+**Distrattori:**
+- L'OIC 11 nel modello nazionale, lo IAS 16 in quello internazionale.
+- L'OIC 16 nel modello nazionale, il Framework dello IASB in quello internazionale.
+- Il principio contabile n. 12 CNDC-CNR nel modello nazionale, lo IAS 16 in quello internazionale.
+
+**D:** ⚠️ Come definisce lo IAS 16 immobili, impianti e macchinari, secondo la lezione 04?
+**R:** «Immobili, impianti e macchinari sono **attività materiali** che: sono **possedute dall'impresa per essere utilizzate nella produzione o nella fornitura di beni e servizi**; **e** ci si attende siano utilizzate **per più di un esercizio**» (slide 10). Le due condizioni valgono **insieme**. Per il docente restano le tre caratteristiche nazionali: durata nel tempo, strumentalità, materialità ([00:28:25]).
+**Opzione:** Attività materiali possedute dall'impresa per essere utilizzate nella produzione o nella fornitura di beni e servizi, e che ci si attende siano utilizzate per più di un esercizio.
+**Distrattori:**
+- Attività materiali possedute dall'impresa per essere utilizzate nella produzione o nella fornitura di beni e servizi, e che ci si attende siano utilizzate per un solo esercizio.
+- Attività materiali possedute dall'impresa per essere vendute ai clienti nel corso di più esercizi.
+- Attività materiali o immateriali possedute dall'impresa per essere utilizzate nella produzione o nella fornitura di beni e servizi, e che ci si attende siano utilizzate per più di un esercizio.
+
+**D:** ⚠️ La relazione sulla gestione è obbligatoria per il modello di bilancio redatto secondo i principi contabili nazionali, secondo il test della lezione 04 (domanda 1)?
+**R:** «**Non è obbligatoria se le dimensioni dell'impresa sono inferiori a certi parametri e le informazioni richieste sono contenute nella nota integrativa**». Per il docente è obbligatoria per il bilancio **ordinario** e non lo è per l'**abbreviato** se alcune sue informazioni sono integrate in nota integrativa ([00:12:14]–[00:13:08]). ⚠️ La slide 3 non dice nulla sull'obbligatorietà: la chiave viene **solo dal transcript**. Distrattori del test: «sempre», «mai», e la stessa frase con «**superiori**» al posto di «inferiori».
+**Opzione:** Non è obbligatoria se le dimensioni dell'impresa sono inferiori a certi parametri e le informazioni richieste sono contenute nella nota integrativa.
+**Distrattori:**
+- Sempre.
+- Mai.
+- Non è obbligatoria se le dimensioni dell'impresa sono superiori a certi parametri e le informazioni richieste sono contenute nella nota integrativa.
+
+**D:** ⚠️ La relazione degli amministratori è obbligatoria per il modello di bilancio redatto secondo i principi contabili internazionali, secondo il test della lezione 04 (domanda 2)?
+**R:** «**È consigliata la sua redazione ma non è obbligatoria**»: i principi internazionali, «pur non imponendone la redazione», la «incoraggiano» (slide 4). Distrattori del test: «sempre», «mai», ed «è obbligatoria se le dimensioni dell'impresa sono superiori a certi parametri», che è la **chiave della domanda 3** sul rendiconto finanziario nazionale. ⚠️ Per il docente di fatto la redigono tutte le imprese IAS ([00:20:00]), ma è una prassi, non un obbligo.
+**Opzione:** È consigliata la sua redazione ma non è obbligatoria.
+**Distrattori:**
+- Sempre.
+- Mai.
+- È obbligatoria se le dimensioni dell'impresa sono superiori a certi parametri.
+
+**D:** ⚠️ Nel modello di bilancio redatto secondo i principi nazionali la redazione del rendiconto finanziario è obbligatoria, secondo il test della lezione 04 (domanda 3)?
+**R:** «**È obbligatoria se le dimensioni dell'impresa sono superiori a certi parametri**»: il rendiconto è documento obbligatorio del bilancio (art. 2423), ma le imprese minori e le micro imprese «possano astenersi» dalla compilazione (artt. 2435-bis e 2435-ter, slide 5). Distrattori del test: «sempre», che dimentica gli esoneri, «mai», ed «è consigliata la sua redazione ma non è obbligatoria», che è la **chiave della domanda 2** sulla relazione degli amministratori.
+**Opzione:** È obbligatoria se le dimensioni dell'impresa sono superiori a certi parametri.
+**Distrattori:**
+- È consigliata la sua redazione ma non è obbligatoria.
+- Sempre.
+- Mai.
+
+**D:** ⚠️ Nel modello di bilancio redatto secondo i principi internazionali la redazione del rendiconto finanziario è obbligatoria, secondo il test della lezione 04 (domanda 4)?
+**R:** «**Sì**»: i principi internazionali «ne prescrivono la redazione obbligatoria» (slide 7), e per il docente «a qualunque livello» ([00:22:46]). Distrattori del test: «no», «non sempre», e «solo se le dimensioni dell'impresa superano certi parametri», che è la condizione del modello **nazionale** (domanda 3) e che compariva già, identica, nella domanda 4 del test della lezione 03.
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- Non sempre.
+- Solo se le dimensioni dell'impresa superano certi parametri.
+
+**D:** ⚠️ Quali caratteristiche hanno le immobilizzazioni materiali secondo l'OIC 16, secondo il test della lezione 04 (domanda 5)?
+**R:** «**Hanno la caratteristica della materialità, hanno durata pluriennale e sono strumentali**»: le tre nature della slide 9, fisica (materialità), contabile (costi comuni a più periodi amministrativi) ed economica (strumentalità). La chiave non è la slide alla lettera ma ricalca il riepilogo del docente: «durata nel tempo, strumentalità e materialità» ([00:28:25]). È una **matrice a tre assi**: materialità / non materialità × durata pluriennale / annuale × strumentali / non strumentali. Distrattori del test: «durata annuale e sono strumentali», la «non materialità», che è delle immateriali, e «non strumentali», come i prodotti, per esempio le bevande del bar.
+**Opzione:** Hanno la caratteristica della materialità, hanno durata pluriennale e sono strumentali.
+**Distrattori:**
+- Hanno durata annuale e sono strumentali.
+- Hanno la caratteristica della non materialità, hanno durata pluriennale e sono strumentali.
+- Hanno durata pluriennale e sono non strumentali.
