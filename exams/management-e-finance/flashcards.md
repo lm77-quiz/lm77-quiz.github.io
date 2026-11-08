@@ -6625,3 +6625,1083 @@
 - Ignora alcuni fattori, come accade per il CAPM.
 - Non prevede che si possano aggiungere fattori finché il rischio non sistemico sia privo di correlazione con il rischio non sistemico di ciascun titolo.
 - Sostiene che il rendimento atteso di un titolo è positivamente e linearmente correlato con il beta del titolo.
+
+## Lezione 27 — Il debito aziendale a lungo termine, le azioni privilegiate
+
+**D:** ⚠️ In che cosa possono essere suddivisi i titoli emessi dalle società, secondo la slide della lezione 27?
+**R:** «I titoli emessi dalle società possono essere suddivisi in **azioni e obbligazioni**». Le azioni formano il capitale azionario, le obbligazioni sono debito. ⚠️ Il docente dice che «il debito è evidentemente caratterizzato da titoli … divisi in questo caso in azioni e obbligazioni» ([00:02:50]): le azioni non sono debito.
+**Opzione:** In azioni e obbligazioni.
+**Distrattori:**
+- In azioni ordinarie e azioni privilegiate.
+- In debenture e bond.
+- In titoli senior e titoli junior.
+
+**D:** ⚠️ Che cosa rappresenta il debito (un mutuo, un'obbligazione…), secondo la lezione 27?
+**R:** «Il debito (un mutuo, un'obbligazione…) rappresenta una **somma rimborsabile** come conseguenza di un **prestito**». Il docente: è «una forma di finanziamento e non di una forma di partecipazione alla società» ([00:03:30]).
+**Opzione:** Una somma rimborsabile come conseguenza di un prestito.
+**Distrattori:**
+- Una somma non rimborsabile come conseguenza di un prestito.
+- Una forma di partecipazione alla proprietà dell'impresa.
+- Il pagamento rateale del debito.
+
+**D:** ⚠️ A che cosa si impegnano le società con l'emissione di obbligazioni, secondo la lezione 27?
+**R:** «Con l'emissione di obbligazioni le società si impegnano a **pagare a scadenze regolari degli interessi** ed a **restituire il capitale a scadenza** al ***creditore*** o ***mutuante***». Per il docente gli interessi sono «la misura del rischio che il prestatore corre» ([00:03:19]).
+**Opzione:** A pagare a scadenze regolari degli interessi ed a restituire il capitale a scadenza al creditore o mutuante.
+**Distrattori:**
+- A pagare a scadenze regolari dei dividendi ed a restituire il capitale a scadenza al creditore o mutuante.
+- A pagare a scadenze regolari degli interessi ed a restituire il capitale a scadenza agli azionisti.
+- A pagare a scadenze regolari dei dividendi ed a restituire il capitale a scadenza agli azionisti.
+
+**D:** ⚠️ Quali sono le principali differenze fra debito ed equity elencate nella lezione 27?
+**R:** Tre, nell'ordine della slide «Debito vs equity (principali differenze)»: «Il debito **non è una forma di partecipazione alla proprietà** dell'impresa»; «Il pagamento degli interessi sul debito da parte dell'azienda è considerato un **costo** e dunque è **deducibile fiscalmente**. I dividendi pagati agli azionisti invece **non sono un costo** per l'azienda»; «Il debito rappresenta una **passività** per l'azienda. Se non fosse ripagato, i creditori potrebbero **rivalersi legalmente sulle attività dell'impresa**, portando eventualmente alla liquidazione ed al fallimento della società».
+**Opzione:** Il debito non è una forma di partecipazione alla proprietà dell'impresa; il pagamento degli interessi sul debito da parte dell'azienda è considerato un costo e dunque è deducibile fiscalmente, i dividendi pagati agli azionisti invece non sono un costo per l'azienda; il debito rappresenta una passività per l'azienda.
+**Distrattori:**
+- Il debito non è una forma di partecipazione alla proprietà dell'impresa; il pagamento dei dividendi agli azionisti da parte dell'azienda è considerato un costo e dunque è deducibile fiscalmente, gli interessi sul debito invece non sono un costo per l'azienda; il debito rappresenta una passività per l'azienda.
+- La torta è la somma dei diritti finanziari vantati nei confronti dell'impresa; V = D + E; D + E rappresenta il valore dell'impresa.
+- La I riguarda il valore dell'impresa, che non dipende dalla struttura finanziaria; la II il costo dell'equity, che cresce con il rapporto debito-equity.
+
+**D:** ⚠️ Fra gli interessi sul debito e i dividendi pagati agli azionisti, quali sono deducibili fiscalmente per l'azienda, e perché (lezione 27)?
+**R:** Gli **interessi**: «Il pagamento degli interessi sul debito da parte dell'azienda è considerato un **costo** e dunque è **deducibile fiscalmente**. I dividendi pagati agli azionisti invece **non sono un costo** per l'azienda». Il docente: gli oneri finanziari non sono un reddito per chi possiede la società, «ma sono piuttosto un costo, oneri che possono essere fiscalmente dedotti» ([00:03:48]).
+**Opzione:** Gli interessi, perché il loro pagamento è considerato un costo; i dividendi pagati agli azionisti non sono un costo per l'azienda.
+**Distrattori:**
+- I dividendi, perché il loro pagamento è considerato un costo; gli interessi sul debito non sono un costo per l'azienda.
+- Entrambi, perché interessi e dividendi sono entrambi considerati un costo per l'azienda.
+- Nessuno dei due, perché né gli interessi né i dividendi sono un costo per l'azienda.
+
+**D:** ⚠️ Che cosa potrebbe accadere se il debito non fosse ripagato, secondo la slide della lezione 27?
+**R:** «Il debito rappresenta una **passività** per l'azienda. Se non fosse ripagato, i creditori potrebbero **rivalersi legalmente sulle attività dell'impresa**, portando **eventualmente** alla **liquidazione ed al fallimento** della società». Attenzione all'attenuazione «eventualmente».
+**Opzione:** I creditori potrebbero rivalersi legalmente sulle attività dell'impresa, portando eventualmente alla liquidazione ed al fallimento della società.
+**Distrattori:**
+- I creditori potrebbero rivalersi legalmente sulle attività dell'impresa, portando in ogni caso alla liquidazione ed al fallimento della società.
+- I creditori non potrebbero rivalersi sulle attività dell'impresa, perché il debito non è una forma di partecipazione alla proprietà.
+- I creditori subordinati sarebbero rimborsati prima dei creditori privilegiati.
+
+**D:** ⚠️ Come è denominato generalmente il debito a lungo termine, secondo la lezione 27?
+**R:** «Il debito a lungo termine è **generalmente** denominato in **multipli di 100** che rappresentano il suo **valore nominale**».
+**Opzione:** Generalmente in multipli di 100, che rappresentano il suo valore nominale.
+**Distrattori:**
+- Generalmente in multipli di 100, che rappresentano il suo valore di emissione.
+- Generalmente in multipli di 100, che rappresentano il suo valore di mercato.
+- Generalmente in multipli di 100, che rappresentano il suo prezzo di rimborso.
+
+**D:** ⚠️ Da che cosa dipende se il debito a lungo termine è emesso alla pari, sopra la pari o sotto la pari, secondo la slide della lezione 27?
+**R:** «Può essere emesso alla pari, sopra la pari o sotto la pari **a seconda del rapporto tra valore di emissione e valore nominale** (vedi cap. 5)». ⚠️ Il docente confronta invece il valore nominale con il **valore di mercato**, quello quotato ([00:09:03]): vale la slide. Il «cap. 5» è il capitolo del manuale.
+**Opzione:** Dal rapporto tra valore di emissione e valore nominale.
+**Distrattori:**
+- Dal rapporto tra valore di mercato e valore nominale.
+- Dal rapporto tra prezzo di rimborso (call price) e valore nominale.
+- Dal rapporto tra valore di emissione e prezzo di rimborso (call price).
+
+**D:** ⚠️ Per che cosa si differenziano in generale le obbligazioni, secondo la lezione 27?
+**R:** Quattro voci, nell'ordine della slide: «**Tipologia**; **Rimborso** (scadenze periodiche e possibilità di rimborso anticipato); **Seniority** (cioè condizioni preferenziali rispetto agli altri creditori); **Garanzie** (ad es. ipoteca)». ⚠️ Le slide successive sviluppano le prime tre; le garanzie no, e la slide 8 parla invece del contratto.
+**Opzione:** Tipologia; rimborso (scadenze periodiche e possibilità di rimborso anticipato); seniority (cioè condizioni preferenziali rispetto agli altri creditori); garanzie (ad es. ipoteca).
+**Distrattori:**
+- Tipologia; rimborso (scadenze periodiche e divieto di rimborso anticipato); seniority (cioè condizioni preferenziali rispetto agli altri creditori); garanzie (ad es. ipoteca).
+- La torta è la somma dei diritti finanziari vantati nei confronti dell'impresa; V = D + E; D + E rappresenta il valore dell'impresa.
+- R₀ è un punto singolo; R_E, R_D e R_WACC sono linee intere.
+
+**D:** ⚠️ Che cosa indica la seniority fra le caratteristiche che differenziano le obbligazioni (lezione 27)?
+**R:** «**Seniority** (cioè **condizioni preferenziali rispetto agli altri creditori**)». La slide sulla seniority la precisa: chi possiede un titolo di debito privilegiato (*senior*) «si trova in una condizione preferenziale (seniority) rispetto ai titoli di debito detti subordinati (*junior*)». ⚠️ Il docente la chiama «la caratteristica del debitore o del creditore» ([00:18:01]): è la condizione di chi possiede il titolo, cioè del creditore.
+**Opzione:** Condizioni preferenziali rispetto agli altri creditori.
+**Distrattori:**
+- Un diritto di prelazione nel pagamento dei dividendi.
+- Le scadenze periodiche e la possibilità di rimborso anticipato.
+- La durata del titolo, a lungo termine se supera un anno.
+
+**D:** ⚠️ Che differenza c'è fra debenture e bond, secondo la slide della lezione 27?
+**R:** «La ***debenture*** è un'obbligazione **non garantita**, mentre il ***bond*** è **garantito da un'ipoteca sui beni dell'azienda**. Tuttavia, nel linguaggio comune la parola "bond" è usata **indiscriminatamente**. Entrambi sono a lungo termine (> un anno)». Il docente: la debenture, senza garanzie standardizzate, è «un titolo che difficilmente potrà essere quotato»; il bond è standardizzato e il creditore può trasferirlo a un altro creditore ([00:11:19]–[00:12:23]).
+**Opzione:** La debenture è un'obbligazione non garantita, mentre il bond è garantito da un'ipoteca sui beni dell'azienda.
+**Distrattori:**
+- Il bond è un'obbligazione non garantita, mentre la debenture è garantita da un'ipoteca sui beni dell'azienda.
+- La debenture è un'obbligazione a breve termine, mentre il bond è un'obbligazione a lungo termine.
+- La debenture è un titolo di debito subordinato (junior), mentre il bond è un titolo di debito privilegiato (senior).
+
+**D:** ⚠️ Quale durata hanno debenture e bond, secondo la lezione 27?
+**R:** «**Entrambi** sono a **lungo termine (> un anno)**». Per il docente, in un'ottica di equilibrio finanziario dovrebbero quindi finanziare **investimenti di medio e lungo termine**, «non certo attività correnti»: usarli per la gestione corrente è un errore che a volte commettono imprese piccole e grandi ([00:12:28]–[00:12:58]).
+**Opzione:** Entrambi sono a lungo termine, oltre un anno.
+**Distrattori:**
+- Entrambi sono a breve termine, entro un anno.
+- La debenture è a lungo termine, oltre un anno; il bond è a breve termine, entro un anno.
+- Il bond è a lungo termine, oltre un anno; la debenture è a breve termine, entro un anno.
+
+**D:** ⚠️ Che cosa designa la note, secondo la slide della lezione 27?
+**R:** «La ***note*** designa un titolo di debito **non garantito** di durata **inferiore a quella di un'obbligazione non garantita (*debenture*)**, **quasi sempre al di sotto dei 10 anni**». ⚠️ Il docente dice prima che ha «la durata inferiore all'anno» ([00:12:58]), poi si corregge: «di solito è inferiore alla durata di 10 anni» ([00:13:29]). Vale la slide: sotto l'anno è il bill.
+**Opzione:** Un titolo di debito non garantito di durata inferiore a quella di un'obbligazione non garantita (debenture), quasi sempre al di sotto dei 10 anni.
+**Distrattori:**
+- Un titolo di debito non garantito di durata inferiore all'anno.
+- Un titolo di debito garantito di durata inferiore a quella di un'obbligazione garantita (bond), quasi sempre al di sotto dei 10 anni.
+- Un titolo di debito non garantito di durata superiore a quella di una debenture, quasi sempre al di sopra dei 10 anni.
+
+**D:** ⚠️ Che cosa indica il bill, secondo la slide della lezione 27?
+**R:** «Il ***bill*** indica **di solito** uno strumento di debito **a breve termine** che scade **tra meno di 1 anno**». ⚠️ Il docente aggiunge che «è garantito» ([00:13:44]): la slide non lo dice. Per il docente finanzia operazioni con «un'eccezionalità racchiusa nell'anno», come le emergenze o gli eventi ciclici della tesoreria ([00:14:38]).
+**Opzione:** Di solito uno strumento di debito a breve termine che scade tra meno di 1 anno.
+**Distrattori:**
+- Di solito uno strumento di debito a lungo termine che scade tra più di 1 anno.
+- Un titolo di debito non garantito di durata inferiore a quella di un'obbligazione non garantita (debenture), quasi sempre al di sotto dei 10 anni.
+- Un'obbligazione garantita da un'ipoteca sui beni dell'azienda.
+
+**D:** ⚠️ Come è generalmente rimborsato il debito a lungo termine, e come si chiama il suo pagamento rateale (lezione 27)?
+**R:** «Il debito a lungo termine/obbligazione è **generalmente** rimborsato a **scadenze periodiche** per **tutta la durata del vincolo contrattuale**. Il pagamento rateale del debito prende il nome di ***ammortamento***». Il docente: la quota di capitale addizionata dell'interesse restituita periodicamente al creditore «si chiama appunto ammortamento» ([00:15:21]). Da non confondere con l'ammortamento delle immobilizzazioni della lezione 17.
+**Opzione:** Generalmente a scadenze periodiche per tutta la durata del vincolo contrattuale; il pagamento rateale del debito prende il nome di ammortamento.
+**Distrattori:**
+- Generalmente in un'unica soluzione alla scadenza del vincolo contrattuale; quel pagamento prende il nome di ammortamento.
+- Generalmente a scadenze periodiche per tutta la durata del vincolo contrattuale; il pagamento rateale del debito prende il nome di call provision.
+- Generalmente a scadenze periodiche solo nell'ultimo anno del vincolo contrattuale; il pagamento rateale del debito prende il nome di ammortamento.
+
+**D:** ⚠️ Attraverso che cosa il debito può essere estinto prima della scadenza, secondo la lezione 27?
+**R:** «Il debito può essere estinto prima della scadenza attraverso una **clausola di rimborso anticipato** (***call provision***)». ⚠️ Il docente la accosta a «quello che una volta veniva chiamato lo sconto, lo sconto delle cambiali» ([00:15:49]): la slide non lo dice. Per il docente è una clausola scritta nel contratto, con il pagamento di una penale ([00:16:06]).
+**Opzione:** Attraverso una clausola di rimborso anticipato (call provision).
+**Distrattori:**
+- Attraverso una clausola restrittiva (restrictive covenant).
+- Attraverso l'ammortamento, cioè il pagamento rateale per tutta la durata del vincolo contrattuale.
+- Attraverso una condizione preferenziale (seniority) rispetto agli altri creditori.
+
+**D:** ⚠️ Rispetto al valore nominale del debito, quanto vale il prezzo di rimborso (call price) per estinguere il debito prima della scadenza (lezione 27)?
+**R:** «Il "prezzo di rimborso" (***call price***), per ritirare (estinguere) il debito prima della data di scadenza stabilita è **sempre superiore** al valore nominale del debito». Qui il «sempre» è nella slide. ⚠️ Il docente chiama «penale» il prezzo di rimborso stesso ([00:16:06]).
+**Opzione:** È sempre superiore al valore nominale del debito.
+**Distrattori:**
+- È sempre inferiore al valore nominale del debito.
+- È sempre uguale al valore nominale del debito.
+- Può essere superiore, uguale o inferiore, a seconda del rapporto tra valore di emissione e valore nominale.
+
+**D:** Secondo il docente della lezione 27, che cosa misura l'entità della call price, e per chi è conveniente il rimborso anticipato?
+**R:** «L'entità della call price evidentemente **misura la convenienza** a rimborsare in anticipo il debito, una convenienza che è **reciproca**», per il debitore e per il creditore ([00:16:27]). Il **debitore** estingue prima il debito e non paga gli interessi delle rate successive, che la call price deve almeno scontare; il **creditore** ha subito la somma e può reinvestirla. La call price è quindi «un **prezzo di equilibrio**» fra le due convenienze ([00:16:44]–[00:18:01]).
+**Opzione:** La convenienza a rimborsare in anticipo il debito, che è reciproca: la call price è un prezzo di equilibrio fra la convenienza del debitore e quella del creditore.
+**Distrattori:**
+- La convenienza a rimborsare in anticipo il debito, che è solo del debitore: la call price è la penale che compensa il danno subito dal creditore.
+- Del costo del capitale azionario: cresce con la leva, mentre il costo medio ponderato del capitale non cambia.
+- Utili attesi al netto degli interessi divisi per l'equity.
+
+**D:** ⚠️ Come si chiamano, secondo la lezione 27, i titoli di debito privilegiati e quelli subordinati?
+**R:** «Chi possiede un titolo di debito **privilegiato** (***senior***) si trova in una condizione preferenziale (seniority) rispetto ai titoli di debito detti **subordinati** (***junior***)».
+**Opzione:** Privilegiati: senior; subordinati: junior.
+**Distrattori:**
+- Privilegiati: junior; subordinati: senior.
+- Privilegiati: bond; subordinati: debenture.
+- Privilegiati: azioni privilegiate; subordinati: azioni ordinarie.
+
+**D:** ⚠️ In caso di inadempienza, che cosa devono fare i detentori di titoli di debito subordinati, secondo la lezione 27?
+**R:** «In caso di inadempienza, i detentori di titoli di debito subordinati **devono dare la precedenza ad altri creditori qualificati**».
+**Opzione:** Devono dare la precedenza ad altri creditori qualificati.
+**Distrattori:**
+- Hanno la precedenza sugli altri creditori qualificati.
+- Devono dare la precedenza agli azionisti privilegiati.
+- Concorrono alla pari con gli altri creditori qualificati.
+
+**D:** ⚠️ Quando saranno rimborsati i creditori subordinati, secondo la slide della lezione 27?
+**R:** «Ne discende che i creditori subordinati saranno rimborsati **solo dopo** aver rimborsato i creditori privilegiati, **ma comunque prima degli azionisti**». Il docente: il privilegio ha un costo, perché il creditore privilegiato «corre un rischio inferiore e di conseguenza ha diritto a un rendimento inferiore» ([00:19:54]–[00:20:36]); ai subordinati resta «l'alea di non poter essere più rimborsati» ([00:19:40]).
+**Opzione:** Solo dopo aver rimborsato i creditori privilegiati, ma comunque prima degli azionisti.
+**Distrattori:**
+- Solo dopo aver rimborsato i creditori privilegiati e gli azionisti.
+- Prima dei creditori privilegiati, ma comunque dopo gli azionisti.
+- Insieme agli azionisti, dopo aver rimborsato i creditori privilegiati.
+
+**D:** ⚠️ Unendo le slide della lezione 27 sulla seniority e sulle azioni privilegiate, in che ordine vengono soddisfatti creditori e azionisti?
+**R:** **Creditori privilegiati** (*senior*), poi **creditori subordinati** (*junior*), poi **azionisti privilegiati**, infine **azionisti ordinari**. I subordinati sono rimborsati «solo dopo aver rimborsato i creditori privilegiati, ma comunque prima degli azionisti»; le privilegiate hanno, rispetto alle ordinarie, «un diritto di prelazione nel pagamento dei dividendi e nella liquidazione delle attività in caso di fallimento». L'ordine completo è una deduzione dalle due slide: nessuna lo scrive per intero. Le ordinarie stanno in fondo: è il «ruolo residuale» della domanda 1 del test 20.
+**Opzione:** Creditori privilegiati, creditori subordinati, azionisti privilegiati, azionisti ordinari.
+**Distrattori:**
+- Creditori privilegiati, azionisti privilegiati, creditori subordinati, azionisti ordinari.
+- Creditori subordinati, creditori privilegiati, azionisti privilegiati, azionisti ordinari.
+- Creditori privilegiati, creditori subordinati, azionisti ordinari, azionisti privilegiati.
+
+**D:** ⚠️ Come si chiama l'accordo fra la società che emette debito e il creditore, e che cosa fa, secondo la lezione 27?
+**R:** «L'accordo tra società che emette debito e il creditore è chiamato ***contratto*** e descrive il tipo di indebitamento e tutti i vincoli imposti all'impresa (*covenants*). Il contratto: 1 **descrive dettagliatamente la natura dell'indebitamento**; 2 **elenca tutti i vincoli imposti all'impresa da parte dei creditori**. Tali vincoli sono contenuti nelle **clausole restrittive**». Il docente: la natura dell'indebitamento è «l'ammontare, gli oneri previsti, la scadenza e così via» ([00:21:46]); più dettagliate sono le clausole, meno rischia il creditore e più il debitore diventa «accountable», cioè affidabile ([00:22:21]).
+**Opzione:** È il contratto: descrive dettagliatamente la natura dell'indebitamento ed elenca tutti i vincoli imposti all'impresa da parte dei creditori, contenuti nelle clausole restrittive.
+**Distrattori:**
+- È il contratto: descrive dettagliatamente la natura dell'indebitamento ed elenca tutti i vincoli imposti ai creditori da parte dell'impresa, contenuti nelle clausole restrittive.
+- Consente di finanziare a debito la partecipazione, abbassando il capitale necessario per detenere il controllo.
+- Generalmente a scadenze periodiche per tutta la durata del vincolo contrattuale; il pagamento rateale del debito prende il nome di ammortamento.
+
+**D:** ⚠️ Quali tipiche clausole restrittive (restrictive covenants) elenca la slide della lezione 27?
+**R:** «Alcune tipiche clausole restrittive (*restrictive covenants*) sono: 1 le **limitazioni all'assunzione di ulteriore indebitamento**; 2 l'imposizione di un **tetto massimo all'ammontare di dividendi** che possono essere pagati; 3 la fissazione di un **livello minimo di capitale circolante** sul quale investire». «Alcune»: l'elenco è aperto. Per il docente il tetto serve perché con dividendi cospicui l'impresa «si è liberata della sua cassa affidandola ai suoi azionisti», ma resta debitrice verso il creditore ([00:23:36]–[00:24:36]). ⚠️ Il tetto ai dividendi è il distrattore C della domanda 3 del test 20, sulle clausole positive.
+**Opzione:** Le limitazioni all'assunzione di ulteriore indebitamento; l'imposizione di un tetto massimo all'ammontare di dividendi che possono essere pagati; la fissazione di un livello minimo di capitale circolante sul quale investire.
+**Distrattori:**
+- Le limitazioni all'assunzione di ulteriore indebitamento; l'imposizione di un tetto minimo all'ammontare di dividendi che devono essere pagati; la fissazione di un livello minimo di capitale circolante sul quale investire.
+- Tipologia; rimborso (scadenze periodiche e possibilità di rimborso anticipato); seniority (cioè condizioni preferenziali rispetto agli altri creditori); garanzie (ad es. ipoteca).
+- Creditori privilegiati, creditori subordinati, azionisti privilegiati, azionisti ordinari.
+
+**D:** ⚠️ In quale categoria di clausole la slide della lezione 27 colloca la fissazione di un livello minimo di capitale circolante sul quale investire?
+**R:** Fra le «tipiche **clausole restrittive** (*restrictive covenants*)», come terza voce dopo le limitazioni all'ulteriore indebitamento e il tetto massimo ai dividendi. ⚠️ Nella classificazione della manualistica richiamata nella domanda 3 del test 20, la soglia minima di capitale circolante è di solito l'esempio tipico di clausola **positiva**: all'esame conviene ricordare entrambe le collocazioni. ⚠️ Il docente la glossa come «un limite alla quantità di reddito corrente che può alimentare il capitale circolante» ([00:24:42]): la slide dice un livello **minimo**, che serve perché l'azienda «abbia sempre cassa».
+
+**D:** ⚠️ Che cosa costituiscono le azioni privilegiate insieme alle ordinarie, e in che cosa se ne distinguono, secondo la lezione 27?
+**R:** «Le **azioni privilegiate**, insieme alle azioni ordinarie, costituiscono il **capitale azionario** di una società, ma si distinguono da queste poiché comprendono il godimento di un **diritto di prelazione nel pagamento dei dividendi e nella liquidazione delle attività in caso di fallimento** ma, **in Italia**, **non hanno diritto di voto nelle assemblee ordinarie**». Il docente: per finanziare il capitale netto la corporation deve emettere nuove azioni ([00:25:05]).
+**Opzione:** Insieme alle azioni ordinarie costituiscono il capitale azionario di una società, ma comprendono il godimento di un diritto di prelazione nel pagamento dei dividendi e nella liquidazione delle attività in caso di fallimento; in Italia, non hanno diritto di voto nelle assemblee ordinarie.
+**Distrattori:**
+- Insieme alle azioni ordinarie costituiscono il capitale azionario di una società, ma comprendono il godimento di un diritto di prelazione nel pagamento degli interessi e nel rimborso del capitale a scadenza; in Italia, non hanno diritto di voto nelle assemblee ordinarie.
+- Solo dopo aver rimborsato i creditori privilegiati, ma comunque prima degli azionisti.
+- Del costo del capitale azionario: cresce con la leva, mentre il costo medio ponderato del capitale non cambia.
+
+**D:** ⚠️ In Italia, le azioni privilegiate hanno un diritto di prelazione nel pagamento dei dividendi? E il diritto di voto nelle assemblee ordinarie (lezione 27)?
+**R:** Hanno «un **diritto di prelazione nel pagamento dei dividendi** e nella liquidazione delle attività in caso di fallimento» ma, «in Italia, **non hanno diritto di voto nelle assemblee ordinarie**». ⚠️ Il docente omette «ordinarie»: il detentore «non ha diritto di voto nelle assemblee» ([00:25:56]). Per questo, nella domanda 1 del test 20, il voto è degli azionisti ordinari.
+**Opzione:** Hanno un diritto di prelazione nel pagamento dei dividendi, ma non hanno diritto di voto nelle assemblee ordinarie.
+**Distrattori:**
+- Hanno diritto di voto nelle assemblee ordinarie, ma non hanno un diritto di prelazione nel pagamento dei dividendi.
+- Hanno sia un diritto di prelazione nel pagamento dei dividendi sia il diritto di voto nelle assemblee ordinarie.
+- Non hanno né un diritto di prelazione nel pagamento dei dividendi né il diritto di voto nelle assemblee ordinarie.
+
+**D:** ⚠️ Che cosa significa «privilegiate», secondo la slide della lezione 27?
+**R:** «"Privilegiate" significa **solo** che il detentore di questi titoli riceverà un dividendo (**nell'ipotesi che la società decida di distribuirlo**) **prima** che i detentori di azioni ordinarie possano ricevere alcunché». La slide sui dividendi lo ripete attenuato: «**In genere** i dividendi delle azioni privilegiate sono pagati prima che gli azionisti ordinari ricevano qualcosa». Il docente: «il dividendo non è un diritto acquisito», perché lo decide il consiglio di amministrazione ([00:27:25]).
+**Opzione:** Solo che il detentore di questi titoli riceverà un dividendo, nell'ipotesi che la società decida di distribuirlo, prima che i detentori di azioni ordinarie possano ricevere alcunché.
+**Distrattori:**
+- Che il detentore di questi titoli riceverà in ogni caso un dividendo, anche se la società decide di non distribuirlo, prima che i detentori di azioni ordinarie possano ricevere alcunché.
+- A R₀, il costo del capitale dell'impresa non indebitata.
+- Devono dare la precedenza ad altri creditori qualificati.
+
+**D:** ⚠️ In che cosa i dividendi su un'azione privilegiata si differenziano dall'interesse di un'obbligazione, secondo la lezione 27?
+**R:** «I dividendi su un'azione privilegiata si differenziano dall'interesse di un'obbligazione poiché sono pagati ***a discrezione*** del ***consiglio di amministrazione***». Il docente: il dividendo non è un diritto acquisito, e il consiglio può destinare l'utile al capitale circolante o agli investimenti ([00:27:25]–[00:28:03]). Anche la slide su debito ed equity li separa: gli interessi sono un costo deducibile, i dividendi no.
+**Opzione:** Sono pagati a discrezione del consiglio di amministrazione.
+**Distrattori:**
+- Sono pagati a scadenze regolari, come previsto dal contratto.
+- Sono considerati un costo e dunque sono deducibili fiscalmente.
+- Sono pagati solo dopo i dividendi delle azioni ordinarie.
+
+**D:** ⚠️ Quali dividendi delle azioni privilegiate, se non devono essere pagati in un determinato anno, sono portati a nuovo nell'esercizio successivo (lezione 27)?
+**R:** «Possono essere ***cumulativi*** o ***non cumulativi***. Nel caso in cui siano **cumulativi** e non devono essere pagati in un determinato anno, sono **portati a nuovo nell'esercizio successivo**». Il docente non commenta questa parte della slide.
+**Opzione:** Quelli cumulativi.
+**Distrattori:**
+- Quelli non cumulativi.
+- Sia quelli cumulativi sia quelli non cumulativi.
+- Nessuno: i dividendi non pagati in un anno sono persi in ogni caso.
+
+**D:** Secondo il docente della lezione 27, quali diritti hanno le azioni ordinarie, a differenza delle privilegiate?
+**R:** «Il diritto a **partecipare alle assemblee**, il diritto a **esigere dividendi laddove siano previsti**, il **diritto di voto** e di **rappresentanza nel Consiglio di amministrazione**» ([00:25:33]). Le privilegiate hanno invece la prelazione su dividendi e liquidazione ma, in Italia, non votano nelle assemblee ordinarie. Il voto è la prima caratteristica degli azionisti ordinari nella domanda 1 del test 20; e già all'inizio della lezione il docente dice che l'azionista partecipa al capitale «in maniera **residuale**» ([00:05:41]).
+**Opzione:** Il diritto a partecipare alle assemblee, il diritto a esigere dividendi laddove siano previsti, il diritto di voto e di rappresentanza nel consiglio di amministrazione.
+**Distrattori:**
+- Il diritto a partecipare alle assemblee, un diritto di prelazione nel pagamento dei dividendi, il diritto di voto e di rappresentanza nel consiglio di amministrazione.
+- Tipologia; rimborso (scadenze periodiche e possibilità di rimborso anticipato); seniority (cioè condizioni preferenziali rispetto agli altri creditori); garanzie (ad es. ipoteca).
+- Creditori privilegiati, creditori subordinati, azionisti privilegiati, azionisti ordinari.
+
+**D:** Secondo il docente della lezione 27, perché si comprano le azioni privilegiate e perché le imprese le emettono?
+**R:** Si comprano come «**forme di investimento vere e proprie**»: «non si comprano azioni privilegiate per partecipare al capitale dell'impresa e quindi alle decisioni», ma come forma di investimento alternativa ad altre ([00:26:44]). Le imprese, emettendole, trovano «una fonte di finanziamento **diversa dal titolo di debito**» senza doversi mettere «**l'ospite in casa**», l'azionista che potrebbe partecipare alle decisioni ([00:27:03]). La slide: «Si tratta di uno strumento finanziario **molto comune**».
+**Opzione:** Si comprano come forma di investimento, non per partecipare alle decisioni; l'impresa trova una fonte diversa dal debito senza mettersi in casa un azionista che partecipi alle decisioni.
+**Distrattori:**
+- Si comprano per partecipare alle decisioni dell'impresa; l'impresa trova una fonte diversa dal debito e accoglie in casa un nuovo socio che partecipa alle decisioni.
+- Il costo del capitale di un'impresa unlevered, cioè non indebitata.
+- La convenienza a rimborsare in anticipo il debito, che è reciproca: la call price è un prezzo di equilibrio fra la convenienza del debitore e quella del creditore.
+
+**D:** ⚠️ Secondo il docente della lezione 27, perché molte imprese italiane, soprattutto familiari, preferiscono il debito all'ingresso di nuovi soci?
+**R:** Non per un calcolo finanziario: «**non sempre è vero che il costo del debito è più basso del costo dell'equity**» ([00:05:16]). È un atteggiamento di gestione: l'imprenditore «tende a **non gradire nuovi soci**», e nelle imprese familiari il socio non familiare «rischia di essere un **intruso**» ([00:06:27]). Il debito non dà partecipazione al dividendo né alle decisioni, ed è «un **impegno a termine**», esaurito il quale l'imprenditore torna in possesso dell'asset comprato a debito ([00:06:50]). Ma l'esposizione debitoria «**ha un limite**», ed è un limite alla crescita: per crescere l'impresa deve aprire il capitale azionario ([00:07:18]–[00:08:41]).
+**Opzione:** Perché l'imprenditore tende a non gradire nuovi soci, e il debito non dà partecipazione al dividendo né alle decisioni ed è un impegno a termine, esaurito il quale torna in possesso dell'asset.
+**Distrattori:**
+- Perché il costo del debito è sempre più basso del costo dell'equity, e il debito non dà partecipazione al dividendo né alle decisioni ed è un impegno a termine, esaurito il quale torna in possesso dell'asset.
+- Che la struttura finanziaria influenzi il costo medio del capitale: per Modigliani e Miller il livello di indebitamento non lo influenza.
+- Il rendimento atteso è correlato positivamente alla leva finanziaria.
+
+## Lezione 28 — Il controllo di un S.p.A.
+
+**D:** ⚠️ Quali tecniche di controllo di una S.p.A. elenca la slide 2 della lezione 28?
+**R:** Quattro «tecniche attraverso le quali è possibile pervenire al controllo di una S.p.A. con un capitale inferiore alla maggioranza assoluta», nell'ordine della slide: «**emissione di azioni a voto limitato**»; «**frazionamento del capitale sociale**»; «**sindacato di voto o di blocco**»; «**costituzione di società finanziarie**». Il docente chiama la catena delle società finanziarie un meccanismo di «scatole cinesi» ([00:03:17]).
+**Opzione:** Emissione di azioni a voto limitato; frazionamento del capitale sociale; sindacato di voto o di blocco; costituzione di società finanziarie.
+**Distrattori:**
+- Emissione di azioni a voto limitato; concentrazione del capitale sociale; sindacato di voto o di blocco; costituzione di società finanziarie.
+- No: è possibile rintracciare sostenitori in ciascuno dei tre approcci, la teoria del trade-off, dell'ordine di scelta e del market timing.
+- Pagano dividendi più elevati, sono più profittevoli, pagano più tasse, emettono meno equity e hanno maggiori disponibilità liquide; sono solitamente meno diversificate e con maggior controllo proprietario di tipo familiare.
+
+**D:** ⚠️ Con quale capitale, secondo la slide della lezione 28, le tecniche di controllo permettono di pervenire al controllo di una S.p.A.?
+**R:** «Con un capitale **inferiore alla maggioranza assoluta**». ⚠️ Il docente le presenta dal lato opposto, come tecniche che consentono all'impresa di finanziarsi «senza perdere capacità di controllo» ([00:02:26]): la formula della slide è quella del controllo con meno capitale.
+**Opzione:** Con un capitale inferiore alla maggioranza assoluta.
+**Distrattori:**
+- Con un capitale superiore alla maggioranza assoluta.
+- Soltanto con la maggioranza assoluta del capitale con diritto di voto.
+
+**D:** ⚠️ Secondo la slide della lezione 28, quali assemblee può riguardare la restrizione di voto delle azioni a voto limitato?
+**R:** «L'ordinamento giuridico italiano prevede diverse tipologie di azioni a voto limitato. La restrizione di voto può riguardare **solo l'assemblea ordinaria o anche quella straordinaria**». ⚠️ Il docente le descrive all'inizio come azioni che «non danno diritto di voto» ([00:02:43]): per la slide il voto è limitato, non necessariamente escluso.
+**Opzione:** Solo l'assemblea ordinaria o anche quella straordinaria.
+**Distrattori:**
+- Solo l'assemblea straordinaria o anche quella ordinaria.
+- Tutte le assemblee, perché queste azioni non danno diritto di voto.
+
+**D:** ⚠️ Per chi risultano particolarmente appetibili le azioni a voto limitato, secondo la lezione 28?
+**R:** «Esse risultano particolarmente appetibili per quei **risparmiatori** guidati da logiche **speculativo-finanziarie** e quindi **poco interessati all'esercizio del potere di governo aziendale**». Il docente: per chi non vede l'investimento azionario come una partecipazione al processo decisionale, «ma semplicemente come a un investimento speculativo», ed è più interessato al rendimento ([00:05:01]).
+**Opzione:** Per quei risparmiatori guidati da logiche speculativo-finanziarie e quindi poco interessati all'esercizio del potere di governo aziendale.
+**Distrattori:**
+- Per quegli azionisti rilevanti guidati da logiche speculativo-finanziarie e quindi poco interessati all'esercizio del potere di governo aziendale.
+- Imprese meno diversificate e con maggior controllo proprietario di tipo familiare.
+- Da azionisti rilevanti, che non detengono però singolarmente le quote di partecipazione necessarie per diventare il soggetto economico dell'impresa, al fine di pervenire al controllo dell'impresa.
+
+**D:** ⚠️ Fino a quale quota del capitale sociale la legislazione italiana ammette azioni privilegiate nella ripartizione degli utili e del capitale, secondo la lezione 28?
+**R:** «Nella legislazione italiana si ammettono azioni privilegiate nella ripartizione degli utili e del capitale **sino al 50%** del capitale sociale». Per il docente, oltre quella soglia «sarebbe chiaramente un patto leonino» ([00:06:48]).
+**Opzione:** Sino al 50% del capitale sociale.
+**Distrattori:**
+- Sino al 25% del capitale sociale.
+- Sino al 75% del capitale sociale.
+- Sino al 51% del capitale sociale.
+
+**D:** ⚠️ Sfruttando al massimo le azioni privilegiate, con quale quota minima del capitale sociale si può ottenere il controllo di una S.p.A., secondo la lezione 28?
+**R:** «In tal caso, sfruttando al massimo l'utilizzo di queste tipologie di azioni, il controllo di una S.p.A. si può ottenere con il **25%** del capitale sociale»: se metà del capitale non vota, la maggioranza delle azioni che votano è un quarto del capitale. ⚠️ Il docente dice «con un massimo del 25%» e che con il 25% la proprietà «controlla il 75% del capitale proprio» ([00:06:48]–[00:07:10]): con il 25% si controlla tutta la società, e il 25% è la soglia minima.
+**Opzione:** Con il 25% del capitale sociale.
+**Distrattori:**
+- Con il 75% del capitale sociale.
+- Con il 50% del capitale sociale.
+- Con il 51% del capitale sociale.
+
+**D:** ⚠️ Secondo il docente della lezione 28, perché le azioni privilegiate non possono superare il 50% del capitale sociale?
+**R:** Perché «altrimenti questo sarebbe chiaramente un **patto leonino**» ([00:06:48]). La ragione è solo del docente: la slide indica il limite senza spiegarlo. ⚠️ Nella lezione 10 il patto leonino è un'altra cosa: l'alleanza squilibrata in cui l'attore più forte consuma la capacità del più debole di contribuire al valore.
+
+**D:** ⚠️ Laddove il capitale sociale risulti disperso o particolarmente frazionato, attraverso quali quote può essere esercitato il controllo di un'impresa, secondo la lezione 28?
+**R:** «Il controllo di un'impresa può **di fatto** essere esercitato attraverso quote di capitale **a volte anche irrisorie**». L'esempio della slide sono le **public company**. Per il docente il frazionamento garantisce al soggetto economico una capacità di controllo «che non lo impegni fino al 51% del capitale sociale» ([00:11:03]).
+**Opzione:** Di fatto, attraverso quote di capitale a volte anche irrisorie.
+**Distrattori:**
+- Di fatto, solo attraverso quote di capitale superiori alla maggioranza assoluta.
+- Di fatto, attraverso quote di capitale mai inferiori al 25% del capitale sociale.
+
+**D:** ⚠️ Nelle imprese a capitale frazionato, chi sono la maggior parte degli azionisti e come deliberano le assemblee, secondo la lezione 28?
+**R:** «La maggior parte degli azionisti sono **azionisti risparmiatori**, disinteressati alla gestione della società e, quindi, al diritto di voto. Il grado di **assenteismo** nelle assemblee sociali è pertanto **molto elevato** e tali organi deliberano **solitamente** con maggioranze **di molto inferiori alla maggioranza assoluta**». L'esempio della slide sono le public company.
+**Opzione:** Azionisti risparmiatori, disinteressati alla gestione della società e quindi al diritto di voto: l'assenteismo nelle assemblee è molto elevato e si delibera solitamente con maggioranze di molto inferiori alla maggioranza assoluta.
+**Distrattori:**
+- Azionisti risparmiatori, disinteressati alla gestione della società e quindi al diritto di voto: l'assenteismo nelle assemblee è molto elevato e si delibera solitamente con la maggioranza assoluta del capitale sociale.
+- I compratori non la comprano e il prezzo scende fino al valore ritenuto dal mercato; ne nasce sfiducia verso i valori scritti nel bilancio.
+- No: dà solidità, ma limita le prospettive di investimento; è più verosimile un equilibrato rapporto di indebitamento che aiuti l'impresa a crescere.
+
+**D:** ⚠️ Come definisce la lezione 28 i sindacati di voto o di blocco?
+**R:** «Accordi, **in qualunque forma** stipulati, con cui **due o più** azionisti vincolano la gestione dell'impresa o il trasferimento delle proprie partecipazioni alle direttive e orientamenti stabiliti dalla **direzione del sindacato**». ⚠️ Per il docente sono «accordi di sindacato formalizzati, quindi sono dei veri e propri contratti che prevedono delle penalità» ([00:11:30]), e parla di decisioni prese dalle «due parti»: vale la slide, «in qualunque forma» e «due o più».
+**Opzione:** Accordi, in qualunque forma stipulati, con cui due o più azionisti vincolano la gestione dell'impresa o il trasferimento delle proprie partecipazioni alle direttive e orientamenti stabiliti dalla direzione del sindacato.
+**Distrattori:**
+- Accordi, stipulati soltanto come contratti formali con penalità, con cui due o più azionisti vincolano la gestione dell'impresa o il trasferimento delle proprie partecipazioni alle direttive e orientamenti stabiliti dalla direzione del sindacato.
+- Le vengono cedute le azioni di cui si vuole mantenere il controllo, e finanzia l'acquisto della partecipazione di comando collocando sul mercato la quota delle azioni che non servono per mantenere il controllo.
+- In caso di necessità è meglio emettere il debito prima dell'equity, e il debito tradizionale prima dei titoli ibridi.
+
+**D:** ⚠️ Da chi vengono solitamente sottoscritti i sindacati di voto o di blocco, e a quale fine, secondo la lezione 28?
+**R:** «Questi accordi vengono **solitamente** sottoscritti da **azionisti rilevanti**, che **non** detengono però **singolarmente** le quote di partecipazione necessarie per diventare il soggetto economico dell'impresa, al fine di **pervenire al controllo** dell'impresa».
+**Opzione:** Da azionisti rilevanti, che non detengono però singolarmente le quote di partecipazione necessarie per diventare il soggetto economico dell'impresa, al fine di pervenire al controllo dell'impresa.
+**Distrattori:**
+- Da azionisti risparmiatori, che non detengono però singolarmente le quote di partecipazione necessarie per diventare il soggetto economico dell'impresa, al fine di pervenire al controllo dell'impresa.
+- Per quei risparmiatori guidati da logiche speculativo-finanziarie e quindi poco interessati all'esercizio del potere di governo aziendale.
+- No: è possibile rintracciare sostenitori in ciascuno dei tre approcci, la teoria del trade-off, dell'ordine di scelta e del market timing.
+
+**D:** ⚠️ Quando il controllo passa per un sindacato, con chi si identifica il soggetto economico della società, secondo la lezione 28?
+**R:** «In questo caso, il soggetto economico della società **si identifica con la direzione del sindacato**», e non con il singolo azionista, che da solo non ha le quote necessarie per diventarlo.
+**Opzione:** Con la direzione del sindacato.
+**Distrattori:**
+- Con l'azionista del sindacato che detiene la quota maggiore.
+- Con il 25% del capitale sociale.
+
+**D:** ⚠️ A quali due tipologie principali sono riconducibili i patti parasociali, secondo la lezione 28?
+**R:** «Nella pratica si possono riscontrare numerosi tipi di patti parasociali, riconducibili, però, a due tipologie principali»: i patti che hanno per oggetto **l'esercizio del diritto di voto** nelle S.p.A. o nelle società che le controllano (**sindacati di voto**); i patti che pongono **anche limiti al trasferimento delle azioni** delle S.p.A. o delle partecipazioni in società che le controllano (**sindacati di blocco**).
+**Opzione:** I patti che hanno per oggetto l'esercizio del diritto di voto nelle S.p.A. o nelle società che le controllano (sindacati di voto); i patti che pongono anche limiti al trasferimento delle azioni delle S.p.A. o delle partecipazioni in società che le controllano (sindacati di blocco).
+**Distrattori:**
+- I patti che hanno per oggetto l'esercizio del diritto di voto nelle S.p.A. o nelle società che le controllano (sindacati di blocco); i patti che pongono anche limiti al trasferimento delle azioni delle S.p.A. o delle partecipazioni in società che le controllano (sindacati di voto).
+- Il farmaceutico e il tecnologico.
+- Emissione di azioni a voto limitato; frazionamento del capitale sociale; sindacato di voto o di blocco; costituzione di società finanziarie.
+
+**D:** ⚠️ Che cosa caratterizza i sindacati di blocco rispetto ai sindacati di voto, secondo la slide della lezione 28?
+**R:** Sono i patti che pongono «**anche limiti al trasferimento delle azioni** delle S.p.A. o delle partecipazioni in società che le controllano». ⚠️ Il docente li descrive prima come un accordo per votare insieme «no» alle proposte degli altri soci ([00:12:13]), che è un patto sul voto; poi si corregge, parlando del blocco dei trasferimenti di azioni che sposterebbero l'equilibrio verso un altro soggetto economico ([00:13:06]).
+**Opzione:** Pongono anche limiti al trasferimento delle azioni delle S.p.A. o delle partecipazioni in società che le controllano.
+**Distrattori:**
+- Vincolano i membri a votare insieme contro le proposte dei soci esterni al sindacato.
+- Un problema di dialettica interna al sindacato per conseguire il controllo della S.p.A.
+
+**D:** ⚠️ Quale problema dei sindacati di voto o di blocco segnala la slide della lezione 28?
+**R:** «Esiste, però, un problema di **dialettica interna al sindacato** per conseguire il controllo della S.p.A.»: il controllo dipende dall'accordo fra i membri. Il docente non lo commenta.
+**Opzione:** Un problema di dialettica interna al sindacato per conseguire il controllo della S.p.A.
+**Distrattori:**
+- Un problema di assenteismo nelle assemblee sociali, che deliberano con maggioranze di molto inferiori alla maggioranza assoluta.
+- Oneri finanziari elevati e, soprattutto, un effetto sull'accountability: le scatole cinesi nascondono al mercato e ai creditori la reale solidità dell'azionista di riferimento.
+
+**D:** ⚠️ Come funziona la società finanziaria descritta nella lezione 28?
+**R:** «Creazione di una società finanziaria a cui vengono **cedute le azioni di cui si vuole mantenere il controllo**. Questa finanzia l'acquisto della partecipazione di comando **collocando sul mercato la quota delle azioni che non servono per mantenere il controllo**». Il soggetto economico controlla poi «solo il capitale di comando di F».
+**Opzione:** Le vengono cedute le azioni di cui si vuole mantenere il controllo, e finanzia l'acquisto della partecipazione di comando collocando sul mercato la quota delle azioni che non servono per mantenere il controllo.
+**Distrattori:**
+- Le vengono cedute le azioni di cui si vuole mantenere il controllo, e finanzia l'acquisto della partecipazione di comando collocando sul mercato la quota delle azioni che servono per mantenere il controllo.
+- Accordi, in qualunque forma stipulati, con cui due o più azionisti vincolano la gestione dell'impresa o il trasferimento delle proprie partecipazioni alle direttive e orientamenti stabiliti dalla direzione del sindacato.
+- Con lo stesso scetticismo: non occorre preoccuparsene quando è possibile non rivolgersi ai finanziatori esterni.
+
+**D:** ⚠️ Che cosa si definisce «effetto leva azionaria» nella lezione 28?
+**R:** «L'**abbassamento della quota di capitale necessaria per controllare una società** si definisce "effetto leva azionaria"». Si ottiene con la società finanziaria, che colloca sul mercato le azioni che non servono al controllo. ⚠️ Da non confondere con la **leva creditizia**, che abbassa il fabbisogno di capitale finanziando l'investimento della società finanziaria «anche con capitale di credito».
+**Opzione:** L'abbassamento della quota di capitale necessaria per controllare una società.
+**Distrattori:**
+- L'abbassamento del fabbisogno di capitale per detenere il controllo, ottenuto finanziando con capitale di credito l'investimento della società finanziaria.
+- Dallo specifico fabbisogno finanziario da coprire, cioè dalla quantità di progetti disponibili e dalla fortuna che essi incontrano.
+- Quasi sempre il debito, perché l'azione è sottovalutata.
+
+**D:** ⚠️ Secondo la slide della lezione 28, con che cosa può essere finanziato l'investimento della società finanziaria nella società di cui si vuole acquisire il controllo, e che cosa ne deriva?
+**R:** «Può essere finanziato **anche con capitale di credito**. Ciò determina una "leva creditizia" che **abbassa il fabbisogno di capitale necessario per detenere il controllo**». ⚠️ «Anche»: la leva creditizia si aggiunge alla leva azionaria, mentre il docente le presenta come alternative, «senza debito si parlerà di leva azionaria, con debito si parlerà di leva creditizia» ([00:13:57]). Su questa slide verteva la domanda 5 del test 24.
+**Opzione:** Anche con capitale di credito: ne deriva una leva creditizia, che abbassa il fabbisogno di capitale necessario per detenere il controllo.
+**Distrattori:**
+- Solo con capitale di credito: ne deriva una leva creditizia, che abbassa il fabbisogno di capitale necessario per detenere il controllo.
+- Meno debito, perché hanno meno bisogno di finanziamenti esterni.
+- L'azione è sopravvalutata, e l'impresa tende maggiormente a raccogliere equity.
+
+**D:** ⚠️ Nel meccanismo della società finanziaria descritto nella lezione 28, controllando che cosa il soggetto economico controlla di fatto anche la società X?
+**R:** «Il soggetto economico, quindi, controllando **solo il capitale di comando di F** può di fatto controllare anche la società X». ⚠️ Il docente dice che con il 51% di X il soggetto economico «compra l'intero capitale della società F» e controlla «il 100% della società F», che avrebbe «un capitale molto più grande della società X» ([00:14:35]–[00:15:40]): vale la slide, e F, che possiede solo la quota di comando di X, è più piccola di X.
+**Opzione:** Solo il capitale di comando di F.
+**Distrattori:**
+- L'intero capitale sociale di F.
+- Solo il capitale di comando di X.
+- La maggioranza assoluta del capitale sociale di X.
+
+**D:** ⚠️ Come può essere replicato il meccanismo della società finanziaria, secondo la lezione 28?
+**R:** «Tale meccanismo può essere replicato **costituendo altre società finanziarie**, le quali collocano a loro volta sul mercato le partecipazioni che **non servono** al controllo delle imprese». Ne nasce la catena degli esempi, che il docente chiama «scatole cinesi» ([00:14:09]).
+**Opzione:** Costituendo altre società finanziarie, le quali collocano a loro volta sul mercato le partecipazioni che non servono al controllo delle imprese.
+**Distrattori:**
+- Costituendo altre società finanziarie, le quali collocano a loro volta sul mercato le partecipazioni di comando delle imprese.
+- Dall'imitazione: chi affronta una scelta rischiosa copia la leva dei concorrenti, e quella dei progetti vincenti diventa un leverage di industry.
+- Soprattutto per il passato: i confini dei settori si perdono, ma regge ancora dove servono forti investimenti, come le grandi infrastrutture.
+
+**D:** ⚠️ Nell'esempio della leva creditizia della lezione 28, quali leve usa il soggetto economico?
+**R:** Entrambe: «Il soggetto economico decide di utilizzare la **leva azionaria** per diminuire la quota di capitale necessaria per controllare C., creando due società *ad hoc*: B e A», e poi «decide di utilizzare **anche** la leva creditizia». ⚠️ Il docente presenta le due leve come alternative, «senza debito si parlerà di leva azionaria, con debito si parlerà di leva creditizia» ([00:13:57]): per la slide la leva creditizia si aggiunge.
+**Opzione:** La leva azionaria e anche la leva creditizia.
+**Distrattori:**
+- Solo la leva creditizia, al posto della leva azionaria.
+- Solo la leva azionaria, senza ricorso al debito.
+
+**D:** ⚠️ Nell'esempio della leva azionaria della lezione 28, com'è composto il capitale sociale di C e a quanto è pari la quota di comando?
+**R:** «Il capitale sociale della società C è composto **in parti uguali da azioni ordinarie e di risparmio**. La quota di comando in C è pari al **51% del capitale votante**»: 255 su 500 azioni ordinarie. ⚠️ Nell'esempio della leva creditizia la quota di comando in C è invece il «60% del C.S.», e non ci sono azioni di risparmio.
+**Opzione:** In parti uguali da azioni ordinarie e di risparmio; la quota di comando è pari al 51% del capitale votante.
+**Distrattori:**
+- In parti uguali da azioni ordinarie e di risparmio; la quota di comando è pari al 60% del capitale sociale.
+- Solo da azioni ordinarie; la quota di comando è pari al 60% del capitale sociale.
+- Solo da azioni ordinarie; la quota di comando è pari al 51% del capitale votante.
+
+**D:** ⚠️ Nell'esempio della leva azionaria della lezione 28, quale quota del capitale sociale è composta da azioni di risparmio in A e quale in C?
+**R:** «Il **40%** del C.S. di A è composto da azioni di risparmio» (52 su 130); il capitale di C è composto «**in parti uguali** da azioni ordinarie e di risparmio» (500 su 1.000). B non ha azioni di risparmio. Nel controllo, dice il docente, «gli azionisti di risparmio non pesano» ([00:20:35]).
+**Opzione:** In A il 40%, in C il 50%.
+**Distrattori:**
+- In A il 50%, in C il 40%.
+- In A il 49%, in C il 51%.
+- In A il 40%, in C nessuna.
+
+**D:** ⚠️ Nell'esempio della leva azionaria della lezione 28, che cosa viene apportato in B, che cosa in A, e che cosa apporta effettivamente il soggetto economico?
+**R:** «In B viene apportato il **capitale di comando di C**. In A viene apportato il **capitale di comando di B** (51% del capitale sociale). Il Soggetto economico apporta effettivamente **solo il capitale di comando di A** (51% del Capitale con diritto di voto)». In cifre: 255 in B, 130 in A, 40 dal soggetto economico.
+**Opzione:** In B il capitale di comando di C; in A il capitale di comando di B; il soggetto economico apporta effettivamente solo il capitale di comando di A.
+**Distrattori:**
+- In A il capitale di comando di C; in B il capitale di comando di A; il soggetto economico apporta effettivamente solo il capitale di comando di B.
+- In B il capitale di comando di C; in A il capitale di comando di B; il soggetto economico apporta effettivamente l'intero capitale sociale di A.
+
+**D:** ⚠️ Nella tabella dell'esempio della leva azionaria della lezione 28, qual è la quota di controllo in C?
+**R:** **255**, il 51% delle 500 azioni ordinarie, apportato da B: nella tabella la cella va a capo e il «5» finisce nella riga del totale. ⚠️ Il docente legge «25» e parla di «risorse reali per 745 più 25» ([00:18:29]–[00:18:58]); più avanti dice lui stesso che il socio di controllo «ha azioni per 255» ([00:21:40]). Aggiunge che senza società finanziarie servirebbe il 51% di 1.000, ma metà del capitale di C è in azioni di risparmio.
+**Opzione:** 255
+**Distrattori:**
+- 25
+- 510
+- 40
+
+**D:** ⚠️ Nell'esempio della leva azionaria della lezione 28, con quale capitale il soggetto economico controlla la società C, che ha attività per 1.000?
+**R:** Con **40**, il **4%**: la «Quota % del S.E.» è 31 in A (40/130), 16 in B (40/255), **4** in C (40/1.000). Il docente: il soggetto economico «ha pagato solo 40 e con questi 40 controlla un capitale di 1000» ([00:21:50]). ⚠️ Aggiungendo la leva creditizia gli bastano **26**, il 2,6%.
+**Opzione:** Con 40, cioè il 4% delle attività di C.
+**Distrattori:**
+- Con 26, cioè il 2,6% delle attività di C.
+- Con 255, cioè il 25,5% delle attività di C.
+- Con 130, cioè il 13% delle attività di C.
+
+**D:** ⚠️ Nel consolidato dell'esempio della leva azionaria della lezione 28, come si ripartisce il passivo di 1.000?
+**R:** Debiti **0**; soggetto economico **40**; azionisti di minoranza **408** (38 + 125 + 245); azioni di risparmio **552** (52 + 500). ⚠️ Il docente legge le azioni di risparmio come «542» ([00:19:44]): vale la slide, e solo con 552 il totale fa 1.000.
+**Opzione:** Debiti 0; soggetto economico 40; azionisti di minoranza 408; azioni di risparmio 552.
+**Distrattori:**
+- Debiti 0; soggetto economico 40; azionisti di minoranza 408; azioni di risparmio 542.
+- Debiti 0; soggetto economico 40; azionisti di minoranza 552; azioni di risparmio 408.
+- Debiti 670; soggetto economico 26; azionisti di minoranza 304; azioni di risparmio 0.
+
+**D:** ⚠️ Nell'esempio della leva creditizia della lezione 28, quali sono le quote di comando in C, in B e in A?
+**R:** «La quota di comando in C è pari al **60% del C.S.**»; in A viene apportato il capitale di comando di B, «**55%** del capitale sociale»; il soggetto economico apporta il capitale di comando di A, «**51%** del C.S.». In cifre 300 su 500, 100 su 180, 26 su 50 (a rigore il 52%). ⚠️ Nell'esempio della leva azionaria le quote sono tutte del 51%, e in C del capitale votante.
+**Opzione:** C 60%, B 55%, A 51% del capitale sociale.
+**Distrattori:**
+- C 51%, B 51%, A 51% del capitale sociale.
+- C 51%, B 55%, A 60% del capitale sociale.
+- C 60%, B 51%, A 55% del capitale sociale.
+
+**D:** ⚠️ Nell'esempio della leva creditizia della lezione 28, in che misura sono finanziate con debito le società A, B e C?
+**R:** «Le società A, B, C sono, infatti, finanziate con debito in misura rispettivamente del **50%, 40% e 50% del totale passivo**»: 50 su 100, 120 su 300, 500 su 1.000. Nel consolidato i debiti sono **670** su 1.000. Su questa leva verteva la domanda 5 del test 24.
+**Opzione:** Rispettivamente del 50%, 40% e 50% del totale passivo.
+**Distrattori:**
+- Rispettivamente del 40%, 50% e 40% del totale passivo.
+- Rispettivamente del 50%, 40% e 50% del capitale sociale.
+- Rispettivamente del 50%, 50% e 50% del totale passivo.
+
+**D:** ⚠️ Nell'esempio della leva creditizia della lezione 28, con quale capitale il soggetto economico controlla attività per 1.000?
+**R:** Con **26**, il **2,6%**: la «Quota % del S.E.» è 26 in A (26/100), 8,7 in B (26/300), **2,6** in C (26/1.000). Il docente: il soggetto economico «riesce a controllare un capitale di 1000 avendo fatto un investimento di 26» ([00:25:16]). ⚠️ Con la sola leva azionaria ne servivano **40**, il 4%.
+**Opzione:** Con 26, cioè il 2,6% delle attività di C.
+**Distrattori:**
+- Con 40, cioè il 4% delle attività di C.
+- Con 300, cioè il 30% delle attività di C.
+- Con 100, cioè il 10% delle attività di C.
+
+**D:** ⚠️ Nel consolidato dell'esempio della leva creditizia della lezione 28, come si ripartisce il passivo di 1.000?
+**R:** «C.S. **330**, di cui S.E. **26**, az.min. **304**; Debiti **670**». I debiti sono 50 + 120 + 500, le minoranze 24 + 80 + 200. Il docente lo legge così: «debiti per 670 e capitale proprio di 330» ([00:23:00]).
+**Opzione:** Capitale sociale 330, di cui soggetto economico 26 e azionisti di minoranza 304; debiti 670.
+**Distrattori:**
+- Capitale sociale 500, di cui soggetto economico 300 e azionisti di minoranza 200; debiti 500.
+- Capitale sociale 180, di cui soggetto economico 100 e azionisti di minoranza 80; debiti 120.
+- Soggetto economico 40, azionisti di minoranza 408, azioni di risparmio 552; debiti 0.
+
+**D:** Secondo il docente della lezione 28, quale delle due leve è più potente, e perché?
+**R:** La **leva creditizia**, «molto più potente della leva azionaria», perché permette di usare capitali «che non solo sono nostri ma anche capitali di **debito**»: con 26 si controlla un asset di 1.000 ([00:25:27]–[00:25:43]). Con la sola leva azionaria ne servivano 40.
+**Opzione:** La leva creditizia, perché usa non solo capitali propri ma anche capitali di debito.
+**Distrattori:**
+- La leva azionaria, perché usa soltanto capitali propri e non comporta oneri finanziari.
+- Nessuna delle due: in entrambi gli esempi il soggetto economico controlla 1.000 con 40.
+
+**D:** Secondo il docente della lezione 28, quali conseguenze ha l'uso della leva creditizia attraverso le società finanziarie?
+**R:** Gli **oneri finanziari** di un indebitamento così elevato e, soprattutto, un effetto sull'**accountability** della corporation: il creditore di C, se C non è solvente, deve risalire «la scala delle scatole cinesi» fino alla società madre, che può non avere la capacità finanziaria per fronteggiare quei debiti. Il meccanismo «nasconde al mercato, agli eventuali creditori, la reale solidità dell'azionista di riferimento» ([00:26:01]–[00:27:07]).
+**Opzione:** Oneri finanziari elevati e, soprattutto, un effetto sull'accountability: le scatole cinesi nascondono al mercato e ai creditori la reale solidità dell'azionista di riferimento.
+**Distrattori:**
+- Oneri finanziari elevati e, soprattutto, un effetto sull'accountability: le scatole cinesi mostrano al mercato e ai creditori la reale solidità dell'azionista di riferimento.
+- Ad alimentare operazioni speculative: i mercati rispondono con una grande domanda, per comprare a poco e rivendere quando il valore sale.
+- I compratori non la comprano e il prezzo scende fino al valore ritenuto dal mercato; ne nasce sfiducia verso i valori scritti nel bilancio.
+
+**D:** Secondo il docente della lezione 28, a che cosa servono le società finanziarie nei mercati globalizzati?
+**R:** A fronteggiare esigenze di **esposizione su mercati locali** e a rispondere a **legislazioni locali**, «ma spesso serve anche a **nascondere esposizioni finanziarie o anche solo tributarie**» ([00:27:07]–[00:27:25]). Sono uno strumento «molto diffuso soprattutto nell'uso delle leve creditizie».
+**Opzione:** A fronteggiare esigenze di esposizione su mercati locali e a rispondere a legislazioni locali, ma spesso anche a nascondere esposizioni finanziarie o anche solo tributarie.
+**Distrattori:**
+- A fronteggiare esigenze di esposizione su mercati locali e a rispondere a legislazioni locali, ma spesso anche a rendere trasparenti esposizioni finanziarie o tributarie.
+- Approfittano semplicemente delle condizioni di mercato.
+- Perché emettere azioni o debito è un segnale di debolezza, che il mercato può leggere come rischiosità facendo perdere all'impresa parte del suo valore.
+
+## Lezione 29 — Teorie internazionalizzazione: perché le imprese scelgono di internazionalizzarsi
+
+**D:** ⚠️ A chi si deve la teoria del ciclo di vita del prodotto, e in che anno, secondo la slide della lezione 29?
+**R:** A **R. Vernon (1966)**. È la prima delle tre teorie della lezione, e il docente la chiama «teoria molto antica» ([00:01:40]). Porter è l'autore della terza, quella del vantaggio competitivo nazionale.
+**Opzione:** R. Vernon (1966).
+**Distrattori:**
+- R. Vernon (1996).
+- Porter (1966).
+- Porter (1996).
+
+**D:** ⚠️ Quali teorie dell'internazionalizzazione presenta la lezione 29, e in che ordine?
+**R:** Tre: 1. la **teoria del ciclo di vita del prodotto** di **R. Vernon (1966)**; 2. la **nuova teoria del commercio internazionale**, che per il docente ha «addizionato di contenuti» quella di Vernon ([00:04:46]); 3. la **teoria del vantaggio competitivo nazionale**, con il **diamante di Porter**, che per il docente ha «forse una maggiore attualità» ([00:10:00]).
+**Opzione:** La teoria del ciclo di vita del prodotto di Vernon, la nuova teoria del commercio internazionale, la teoria del vantaggio competitivo nazionale di Porter.
+**Distrattori:**
+- La teoria del ciclo di vita del prodotto di Vernon, la nuova teoria del commercio internazionale, la teoria dell'ordine di scelta.
+- Il tasso corrispondente al titolo privo di rischio; il premio di rischio di mercato; il beta dell'azienda.
+- Scelte logistiche, vantaggi della prima mossa, politiche governative.
+
+**D:** ⚠️ Che cosa dice la slide della lezione 29 sulla teoria del ciclo di vita del prodotto di Vernon?
+**R:** Tre punti, nell'ordine: «Con la maturazione di un prodotto, cambia la **localizzazione ottimale** sia delle **vendite** che della **produzione**»; «Influenza la **direzione** e i **flussi di importazione ed esportazione**»; «La **globalizzazione** e l'**integrazione dell'economia** **riducono** la validità di questa teoria».
+**Opzione:** Con la maturazione di un prodotto, cambia la localizzazione ottimale sia delle vendite che della produzione; influenza la direzione e i flussi di importazione ed esportazione; la globalizzazione e l'integrazione dell'economia riducono la validità di questa teoria.
+**Distrattori:**
+- Con la maturazione di un prodotto, cambia la localizzazione ottimale sia delle vendite che della produzione; influenza la direzione e i flussi di importazione ed esportazione; la globalizzazione e l'integrazione dell'economia accrescono la validità di questa teoria.
+- La specializzazione fa aumentare la produzione e la capacità di sfruttare le economie di scala aumenta; vi sono forti effetti di apprendimento, con un risparmio sui costi dovuto al learning by doing.
+- Si ha successo dove esistono queste caratteristiche; maggiore la caratteristica, maggiore la probabilità di successo; il diamante si auto-rinforza.
+
+**D:** ⚠️ Secondo la teoria di Vernon, che cosa cambia con la maturazione di un prodotto (lezione 29)?
+**R:** «Cambia la **localizzazione ottimale** sia delle **vendite** che della **produzione**». Il docente lo spiega con le auto francesi desuete in Europa e vendute nelle ex colonie del nord Africa, e con i prodotti Fiat «prodotti lì … e venduti» in America Latina ([00:03:22]–[00:04:06]).
+**Opzione:** La localizzazione ottimale sia delle vendite che della produzione.
+**Distrattori:**
+- La localizzazione ottimale delle sole vendite, non della produzione.
+- La localizzazione ottimale della sola produzione, non delle vendite.
+- La relazione tra il costo del capitale aziendale e il beta dell'impresa.
+
+**D:** Secondo il docente della lezione 29, quale osservazione di Vernon apre alle imprese la strada dell'internazionalizzazione?
+**R:** Che i cicli di vita dei prodotti (entrano, crescono, maturano e muoiono) «**non sono sincroni fra paesi**»: alcuni paesi sono più evoluti, più «anticipatari» nei gusti e nella domanda. L'impresa può così collocare i prodotti **maturi** in certi paesi come prodotti **entranti** in altri, e «si sposta in altri paesi perché così **non deve cambiare la sua produzione**» ([00:02:13]–[00:03:17]).
+**Opzione:** I cicli di vita dei prodotti non sono sincroni fra paesi: i prodotti maturi in certi paesi si possono collocare come prodotti entranti in altri.
+**Distrattori:**
+- I cicli di vita dei prodotti sono sincroni fra paesi: i prodotti maturi in certi paesi sono maturi anche negli altri.
+- Che genera intervento governativo e politica commerciale strategica.
+- Perché i nuovi progetti sono simili a quelli già intrapresi, e si suppone che il loro beta medio sia uguale al beta della società.
+
+**D:** ⚠️ Secondo la nuova teoria del commercio internazionale, che cosa accade nei settori con elevati costi fissi (lezione 29)?
+**R:** «La **specializzazione** fa **aumentare** la produzione e la capacità di sfruttare le **economie di scala** **aumenta**»; «Vi sono **forti effetti di apprendimento**», cioè un «risparmio sui costi dovuto al "learning by doing"». Per il docente ne nasce una **sovrapproduzione** che spinge a vendere in altri mercati nazionali ([00:06:14]–[00:06:45]).
+**Opzione:** La specializzazione fa aumentare la produzione e la capacità di sfruttare le economie di scala aumenta; vi sono forti effetti di apprendimento, con un risparmio sui costi dovuto al learning by doing.
+**Distrattori:**
+- La specializzazione fa aumentare la produzione e la capacità di sfruttare le economie di scala diminuisce; vi sono forti effetti di apprendimento, con un risparmio sui costi dovuto al learning by doing.
+- Sebbene i fattori di base possano offrire un vantaggio iniziale, devono essere supportati da fattori avanzati per mantenere il successo.
+- I beta potrebbero variare nel tempo; la dimensione del campione potrebbe essere inadeguata; i beta sono influenzati dalle variazioni della leva finanziaria e del rischio.
+
+**D:** ⚠️ Nella nuova teoria del commercio internazionale, a che cosa è dovuto il risparmio sui costi degli effetti di apprendimento (lezione 29)?
+**R:** Al «**learning by doing**»: «Vi sono forti effetti di apprendimento — Risparmio sui costi dovuto al "learning by doing"». Il docente: le economie di apprendimento nascono dal rendere **ripetitivo** il lavoro, perché chi fa sempre la stessa mansione sulla linea di montaggio «produce sempre meno errori» ([00:06:45]–[00:07:23]).
+**Opzione:** Al learning by doing.
+**Distrattori:**
+- Al vantaggio della prima mossa.
+- Alla dotazione di fattori di base.
+- All'intervento governativo e alla politica commerciale strategica.
+
+**D:** Secondo il docente della lezione 29, qual è il motore dell'internazionalizzazione nella nuova teoria del commercio internazionale?
+**R:** «Il motore dell'internazionalizzazione è appunto questa **sovrapproduzione** alimentata dalla teoria delle **economie di scala**» ([00:06:36]). Le imprese dei settori con elevati costi fissi producevano «molto di più di quanto il **mercato nazionale** effettivamente richiedeva», e questo le spingeva a vendere in **mercati nazionali diversi** ([00:06:14]). Anche la maggiore produzione dovuta alle economie di apprendimento stimola l'internazionalizzazione ([00:07:11]).
+**Opzione:** La sovrapproduzione alimentata dalle economie di scala: si produce molto di più di quanto richiede il mercato nazionale, e si vende in mercati nazionali diversi.
+**Distrattori:**
+- La sottoproduzione rispetto alla domanda: il mercato nazionale richiede molto di più di quanto si produce, e si importa da mercati nazionali diversi.
+- I cicli di vita dei prodotti non sono sincroni fra paesi: i prodotti maturi in certi paesi si possono collocare come prodotti entranti in altri.
+- Mettendo nel portafoglio titoli con rendimenti correlati negativamente, che si stabilizzano fra loro: conta il rendimento medio del portafoglio, non quello del singolo titolo.
+
+**D:** ⚠️ Che cosa richiede tipicamente la nuova teoria del commercio internazionale, secondo la slide sulle sue applicazioni (lezione 29)?
+**R:** «Tipicamente, richiede **settori con alti costi fissi** — La domanda mondiale supporta **poche** imprese concorrenti». Il docente: sono imprese che, operando in settori con alti costi fissi, «si trovano nella necessità di affrontare mercati nuovi» ([00:07:23]–[00:07:45]).
+**Opzione:** Settori con alti costi fissi: la domanda mondiale supporta poche imprese concorrenti.
+**Distrattori:**
+- Settori con alti costi fissi: la domanda mondiale supporta molte imprese concorrenti.
+- Settori con bassi costi fissi: la domanda mondiale supporta poche imprese concorrenti.
+- Settori con bassi costi fissi: la domanda mondiale supporta molte imprese concorrenti.
+
+**D:** ⚠️ Secondo la slide sulle applicazioni della nuova teoria del commercio internazionale, perché possono emergere concorrenti, e con quali conseguenze (lezione 29)?
+**R:** «Possono emergere concorrenti a causa del "**vantaggio della prima mossa**"»: «Le **economie di scala precludono l'entrata** di nuovi concorrenti»; «Il **ruolo del governo** diventa **significativo**». Il docente qui non nomina la prima mossa: parla di governi che reagiscono con **dazi** o blocchi (l'Europa con i prodotti cinesi e con i produttori giapponesi dell'automotive) e dell'investimento in scala come **barriera naturale** all'ingresso ([00:07:45]–[00:08:57]).
+**Opzione:** A causa del vantaggio della prima mossa: le economie di scala precludono l'entrata di nuovi concorrenti, e il ruolo del governo diventa significativo.
+**Distrattori:**
+- A causa del vantaggio della prima mossa: le economie di scala favoriscono l'entrata di nuovi concorrenti, e il ruolo del governo diventa significativo.
+- Le ragioni del successo di un paese in un particolare settore.
+- Influenza specificatamente una singola attività o un piccolo gruppo di attività.
+
+**D:** ⚠️ Che cosa sostengono alcuni, secondo la slide della lezione 29, a proposito della nuova teoria del commercio internazionale?
+**R:** «Alcuni sostengono che genera **intervento governativo** e **politica commerciale strategica**». È una tesi attribuita ad «alcuni», nella stessa slide per cui, con il vantaggio della prima mossa, «il ruolo del governo diventa significativo».
+**Opzione:** Che genera intervento governativo e politica commerciale strategica.
+**Distrattori:**
+- Che riduce l'intervento governativo e la politica commerciale strategica.
+- Che il capitale sia interamente equity.
+- I flussi di commercio internazionale che osserviamo nel mondo reale.
+
+**D:** ⚠️ Che cosa cerca di analizzare la teoria del vantaggio competitivo nazionale (lezione 29)?
+**R:** «La teoria cerca di analizzare **le ragioni del successo di un paese in un particolare settore**». ⚠️ Il docente la legge dal lato dell'impresa che sceglie **dove** internazionalizzarsi, con il paese ospitante che deve rendersi attrattivo ([00:10:15]–[00:11:26]): la slide parla del successo **del paese**.
+**Opzione:** Le ragioni del successo di un paese in un particolare settore.
+**Distrattori:**
+- Le ragioni del successo di un'impresa in un particolare paese.
+- Le ragioni del successo di un paese in tutti i settori.
+- La localizzazione ottimale sia delle vendite che della produzione.
+
+**D:** ⚠️ Quanti settori e quanti paesi prese in esame Porter per la teoria del vantaggio competitivo nazionale (lezione 29)?
+**R:** «Porter prese in esame **100 settori in 10 paesi**». Il docente non lo dice.
+**Opzione:** 100 settori in 10 paesi.
+**Distrattori:**
+- 10 settori in 100 paesi.
+- 100 settori in 100 paesi.
+- 10 settori in 10 paesi.
+
+**D:** ⚠️ Su quali caratteristiche principali si basavano le determinanti del vantaggio competitivo di un paese individuate da Porter (lezione 29)?
+**R:** Su «quattro caratteristiche principali»: «**Dotazione dei fattori**», «**Condizioni della domanda**», «**Industrie collegate e di supporto**», «**Strategia di impresa, struttura e concorrenza**». ⚠️ Nella figura del diamante le caselle si chiamano «Dotazione dei fattori di produzione», «Natura della domanda interna», «Industrie collegate e di supporto» e «Strategia d'impresa, struttura di mercato e concorrenza»; un'altra slide abbrevia in «Strategia, struttura e concorrenza».
+**Opzione:** Quattro: dotazione dei fattori; condizioni della domanda; industrie collegate e di supporto; strategia di impresa, struttura e concorrenza.
+**Distrattori:**
+- Quattro: dotazione dei fattori; condizioni della domanda; industrie collegate e di supporto; strategia di impresa, struttura e politiche governative.
+- Scelte logistiche, vantaggi della prima mossa, politiche governative.
+- Il tasso corrispondente al titolo privo di rischio; il premio di rischio di mercato; il beta dell'azienda.
+
+**D:** ⚠️ Che cosa dice la slide della lezione 29 sul diamante di Porter, prima di mostrarne la figura?
+**R:** Tre punti: «Si ha successo **dove esistono queste caratteristiche**»; «**Maggiore** la caratteristica, **maggiore** la probabilità di successo»; «Il diamante si **auto-rinforza**». Il docente aggiunge che i quattro fattori «non sono indipendenti ma piuttosto sono **fortemente collegati** fra di loro» ([00:13:12]).
+**Opzione:** Si ha successo dove esistono queste caratteristiche; maggiore la caratteristica, maggiore la probabilità di successo; il diamante si auto-rinforza.
+**Distrattori:**
+- Si ha successo dove esistono queste caratteristiche; maggiore la caratteristica, maggiore la probabilità di successo; ogni caratteristica agisce indipendentemente dalle altre.
+- La specializzazione fa aumentare la produzione e la capacità di sfruttare le economie di scala aumenta; vi sono forti effetti di apprendimento, con un risparmio sui costi dovuto al learning by doing.
+- Né troppo brevi né troppo lunghi, perché nel tempo le imprese potrebbero cambiare settore di riferimento.
+
+**D:** ⚠️ Come definisce la slide della lezione 29 la dotazione dei fattori di produzione?
+**R:** «**Posizione di un paese** rispetto ai fattori di produzione come il **lavoro qualificato** o le **infrastrutture** necessarie per competere in un dato settore». Si distingue in «Dotazione di fattori **di base**» e «Dotazione di fattori **avanzati**». Il lavoro qualificato torna fra le voci dei fattori avanzati.
+**Opzione:** Posizione di un paese rispetto ai fattori di produzione come il lavoro qualificato o le infrastrutture necessarie per competere in un dato settore.
+**Distrattori:**
+- Posizione di un'impresa rispetto ai fattori di produzione come il lavoro qualificato o le infrastrutture necessarie per competere in un dato settore.
+- Le ragioni del successo di un paese in un particolare settore.
+- Misura la sensibilità di un'azione alle variazioni che intervengono nel portafoglio di mercato.
+
+**D:** ⚠️ Che cosa sono i fattori di base e quali sono, secondo la lezione 29?
+**R:** «**Fattori presenti in un paese**»: «Risorse naturali», «Clima», «Localizzazione geografica», «Aspetti demografici». ⚠️ Il docente vi aggiunge «la **logistica** e il **trasporto**» ([00:15:26]), che la slide non elenca. Fa gli esempi del **Bangladesh**, «un ponte verso l'Asia», e dell'**India**, con un'istruzione mediamente più alta degli altri paesi in via di sviluppo e una popolazione estremamente giovane ([00:15:54]–[00:16:37]).
+**Opzione:** Fattori presenti in un paese: risorse naturali, clima, localizzazione geografica, aspetti demografici.
+**Distrattori:**
+- Fattori presenti in un paese: risorse naturali, clima, localizzazione geografica, istruzione.
+- Comunicazioni, lavoro qualificato, ricerca, tecnologia, istruzione.
+- Il rendimento normale o atteso e il rendimento incerto o rischioso.
+
+**D:** ⚠️ Che limite hanno i fattori di base, secondo la slide della lezione 29?
+**R:** «Sebbene i fattori di base possano offrire un **vantaggio iniziale**, devono essere **supportati da fattori avanzati** per **mantenere** il successo». Attenzione all'ordine: i fattori di base vengono prima e danno l'avvio, quelli avanzati servono a durare.
+**Opzione:** Sebbene i fattori di base possano offrire un vantaggio iniziale, devono essere supportati da fattori avanzati per mantenere il successo.
+**Distrattori:**
+- Sebbene i fattori avanzati possano offrire un vantaggio iniziale, devono essere supportati da fattori di base per mantenere il successo.
+- Che genera intervento governativo e politica commerciale strategica.
+- Esportare i prodotti di quei settori in cui tutte le quattro componenti del diamante sono favorevoli e importare in quelle aree in cui le componenti non sono favorevoli.
+
+**D:** Secondo il docente della lezione 29, perché il tessile abbigliamento italiano delocalizzato in Bangladesh o in Vietnam tiene in Italia il design e la commercializzazione?
+**R:** Perché sono «le attività a **maggior valore aggiunto**» e hanno bisogno di **fattori avanzati** di supporto alla produzione, mentre in quei paesi «esistono **solo fattori base** di attrazione ma non fattori avanzati». Se ci fossero, «forse sarebbe opportuno spostarsi **interamente**» ([00:14:21]–[00:15:02]). È la slide: i fattori di base danno un vantaggio iniziale, ma per mantenere il successo servono quelli avanzati.
+**Opzione:** Perché sono le attività a maggior valore aggiunto e hanno bisogno di fattori avanzati, mentre in quei paesi esistono solo fattori di base.
+**Distrattori:**
+- Perché sono le attività a maggior valore aggiunto e hanno bisogno di fattori di base, mentre in quei paesi esistono solo fattori avanzati.
+- Perché i nuovi progetti sono simili a quelli già intrapresi, e si suppone che il loro beta medio sia uguale al beta della società.
+- Perché in quei paesi ci sono opportunità che nel paese di origine non ci sono: un fattore di attrazione generato dal paese, non una condizione strutturale che spinge l'impresa.
+
+**D:** ⚠️ Che cosa sono i fattori avanzati, secondo la slide della lezione 29?
+**R:** «I fattori avanzati sono il **risultato dell'investimento** da parte delle **persone**, delle **imprese** e del **governo** e generano **con maggior probabilità** un vantaggio competitivo». Il docente li descrive come investimenti che un paese ha fatto per generare «un'**esca** particolarmente appetibile» per gli investitori ([00:17:06]).
+**Opzione:** Il risultato dell'investimento da parte delle persone, delle imprese e del governo; generano con maggior probabilità un vantaggio competitivo.
+**Distrattori:**
+- Il risultato dell'investimento da parte del solo governo; generano con maggior probabilità un vantaggio competitivo.
+- Fattori presenti in un paese: risorse naturali, clima, localizzazione geografica, aspetti demografici.
+- Numeratore: covarianza fra i rendimenti del titolo e quelli del portafoglio di mercato; denominatore: varianza dei rendimenti di mercato.
+
+**D:** ⚠️ Che cosa deve fare un paese che non ha fattori di base, secondo la slide della lezione 29?
+**R:** «Se un paese non ha fattori di base, **deve** investire in **fattori avanzati**». ⚠️ Il docente dice che «**potrebbe** investire in fattori avanzati» ([00:17:22]): vale la slide, che ne fa un obbligo, non una facoltà.
+**Opzione:** Deve investire in fattori avanzati.
+**Distrattori:**
+- Può investire in fattori avanzati, ma non è necessario.
+- Non deve investire in fattori avanzati finché non dispone di fattori di base.
+- Deve investire in fattori di base.
+
+**D:** ⚠️ Quali fattori avanzati elenca la slide della lezione 29?
+**R:** Cinque, nell'ordine: «**Comunicazioni**», «**Lavoro qualificato**», «**Ricerca**», «**Tecnologia**», «**Istruzione**». Il docente li commenta nello stesso ordine: la rete di comunicazione, oggi satellitare e meno onerosa del cablaggio; la manodopera qualificata anche per **esperienza lavorativa**; i servizi di ricerca in loco; gli impianti tecnologicamente avanzati; l'istruzione che genera le **soft skills** ([00:17:30]–[00:19:42]).
+**Opzione:** Comunicazioni, lavoro qualificato, ricerca, tecnologia, istruzione.
+**Distrattori:**
+- Comunicazioni, lavoro qualificato, ricerca, tecnologia, clima.
+- Risorse naturali, lavoro qualificato, ricerca, tecnologia, istruzione.
+- Fattori presenti in un paese: risorse naturali, clima, localizzazione geografica, aspetti demografici.
+
+**D:** ⚠️ Che cosa fa la domanda nel diamante di Porter, secondo la slide della lezione 29?
+**R:** «Domanda: — **Crea capacità** — **Crea consumatori sofisticati ed esigenti**»; «La domanda **influenza la qualità e l'innovazione**». Il docente: in Italia e in alcuni paesi europei la domanda è molto evoluta, il mercato «fortemente critico» e «molto contendibile», e le imprese vi collocano **centri di ricerca e sviluppo** e il **lancio di nuovi prodotti** per testarli ([00:20:39]–[00:21:29]).
+**Opzione:** Crea capacità e crea consumatori sofisticati ed esigenti; influenza la qualità e l'innovazione.
+**Distrattori:**
+- Crea capacità e crea consumatori sofisticati ed esigenti; influenza i costi fissi e le economie di scala.
+- Si creano gruppi (cluster) di industrie di supporto competitivi a livello internazionale, che devono soddisfare anche le esigenze delle altre parti del diamante.
+- Il rendimento normale o atteso e il rendimento incerto o rischioso.
+
+**D:** ⚠️ Che cosa dice la slide della lezione 29 sulle industrie collegate e di supporto?
+**R:** «Si creano **gruppi (cluster)** di industrie di supporto **competitivi a livello internazionale**»; «Devono soddisfare **anche** le esigenze delle **altre parti del diamante**». Il docente: un'impresa che si muove da sola resta isolata dalle relazioni commerciali, industriali e informative del cluster, e senza un cluster nel paese dovrebbe convincere i fornitori a spostarsi, «cosa molto più complicata»; altrove si parlerebbe di «**sistema del valore**» ([00:21:29]–[00:23:10]).
+**Opzione:** Si creano gruppi (cluster) di industrie di supporto competitivi a livello internazionale, che devono soddisfare anche le esigenze delle altre parti del diamante.
+**Distrattori:**
+- Si creano gruppi (cluster) di industrie di supporto competitivi soltanto a livello locale, che devono soddisfare anche le esigenze delle altre parti del diamante.
+- Crea capacità e crea consumatori sofisticati ed esigenti; influenza la qualità e l'innovazione.
+- Il risultato dell'investimento da parte delle persone, delle imprese e del governo; generano con maggior probabilità un vantaggio competitivo.
+
+**D:** ⚠️ Che cosa dice la slide della lezione 29 su strategia, struttura e concorrenza?
+**R:** Tre punti: «La **visione aziendale di lungo periodo** è una determinante del successo»; «L'"**ideologia**" del management e la **struttura dell'impresa** possono avere un impatto **positivo o negativo**»; «La presenza di **concorrenza domestica** **accresce** la competitività di un'impresa».
+**Opzione:** La visione aziendale di lungo periodo è una determinante del successo; l'ideologia del management e la struttura dell'impresa possono avere un impatto positivo o negativo; la presenza di concorrenza domestica accresce la competitività di un'impresa.
+**Distrattori:**
+- La visione aziendale di lungo periodo è una determinante del successo; l'ideologia del management e la struttura dell'impresa hanno sempre un impatto positivo; la presenza di concorrenza domestica accresce la competitività di un'impresa.
+- Si ha successo dove esistono queste caratteristiche; maggiore la caratteristica, maggiore la probabilità di successo; il diamante si auto-rinforza.
+- La promozione del libero scambio è la scelta ottima del paese, non sempre però lo è per l'azienda, anche se molte imprese sostengono l'apertura dei mercati.
+
+**D:** ⚠️ Secondo la slide della lezione 29, che effetto ha la presenza di concorrenza domestica sulla competitività di un'impresa?
+**R:** «La presenza di concorrenza domestica **accresce** la competitività di un'impresa». ⚠️ Il docente guarda l'altro lato, quello dell'impresa che entra in un paese: una concorrenza «**accanita**» è «un **deterrente** all'internazionalizzazione», una competizione «**blanda** o esclusivamente locale» è un'occasione ([00:23:10]). Aggiunge che il governo non deve per questo ridurre la concorrenza interna ([00:23:42]). Vale la slide.
+**Opzione:** La accresce.
+**Distrattori:**
+- La riduce.
+- Non ha effetti sulla competitività.
+- La accresce solo se la concorrenza è blanda o esclusivamente locale.
+
+**D:** ⚠️ Che cosa dovrebbe prevedere la teoria di Porter, secondo la slide della lezione 29?
+**R:** «La teoria di Porter **dovrebbe prevedere** i **flussi di commercio internazionale** che osserviamo **nel mondo reale**». Il docente: «Porter suppone che determinati flussi di commercio internazionale o di internazionalizzazione delle imprese siano particolarmente legati alla configurazione del diamante» ([00:24:13]).
+**Opzione:** I flussi di commercio internazionale che osserviamo nel mondo reale.
+**Distrattori:**
+- I flussi di commercio internazionale che osserviamo nei soli settori con alti costi fissi.
+- La localizzazione ottimale sia delle vendite che della produzione.
+- La relazione tra il costo del capitale aziendale e il beta dell'impresa.
+
+**D:** ⚠️ Secondo le previsioni della teoria di Porter, quali prodotti dovrebbero esportare e importare i paesi (lezione 29)?
+**R:** «I paesi dovrebbero **esportare** i prodotti di quei settori in cui **tutte le quattro componenti** del diamante sono **favorevoli** e **importare** in quelle aree in cui le componenti **non** sono favorevoli». Attenzione al quantificatore: «tutte le quattro», non almeno una.
+**Opzione:** Esportare i prodotti di quei settori in cui tutte le quattro componenti del diamante sono favorevoli e importare in quelle aree in cui le componenti non sono favorevoli.
+**Distrattori:**
+- Esportare i prodotti di quei settori in cui almeno una delle quattro componenti del diamante è favorevole e importare in quelle aree in cui le componenti non sono favorevoli.
+- Sebbene i fattori di base possano offrire un vantaggio iniziale, devono essere supportati da fattori avanzati per mantenere il successo.
+- A e B sopra la SML, nell'area di accettazione; C sotto, nell'area di rifiuto.
+
+**D:** ⚠️ Quali implicazioni per l'impresa trae dalla teoria di Porter la slide della lezione 29?
+**R:** Tre, nell'ordine: «**Scelte logistiche**», «**Vantaggi della prima mossa**», «**Politiche governative**». Il docente le presenta come le conseguenze per l'impresa che sceglie di internazionalizzarsi ([00:24:31]).
+**Opzione:** Scelte logistiche, vantaggi della prima mossa, politiche governative.
+**Distrattori:**
+- Scelte logistiche, vantaggi della prima mossa, concorrenza domestica.
+- Rendimento in eccesso del mercato o premio di rischio del mercato.
+- Il costo del capitale, cioè dell'equity.
+
+**D:** ⚠️ In che cosa consistono le scelte logistiche fra le implicazioni per l'impresa della teoria di Porter (lezione 29)?
+**R:** Nella «**Dispersione** delle attività produttive nei paesi in cui possono essere svolte **in modo più efficiente**». ⚠️ Il docente parla invece di un «**aggravio nei costi logistici**», perché l'internazionalizzazione comporta una maggiore movimentazione di merci, componenti e materiali fra paesi ([00:24:31]): la slide dice dove collocare le attività, non quanto costa spostare le merci.
+**Opzione:** Dispersione delle attività produttive nei paesi in cui possono essere svolte in modo più efficiente.
+**Distrattori:**
+- Concentrazione delle attività produttive nel paese d'origine, dove possono essere svolte in modo più efficiente.
+- Posizione di un paese rispetto ai fattori di produzione come il lavoro qualificato o le infrastrutture necessarie per competere in un dato settore.
+- Il risultato dell'investimento da parte delle persone, delle imprese e del governo; generano con maggior probabilità un vantaggio competitivo.
+
+**D:** ⚠️ Che cosa comportano i vantaggi della prima mossa fra le implicazioni per l'impresa della teoria di Porter (lezione 29)?
+**R:** «**Investire notevoli risorse finanziarie** per costruire un vantaggio della prima mossa **o per anticipare i concorrenti**». Il docente: chi segue coglierà vantaggi «**via via decrescenti**», e chi si muove per primo consoliderà una posizione competitiva «che poi sarà **difficile scalzare**» ([00:24:47]–[00:25:16]).
+**Opzione:** Investire notevoli risorse finanziarie per costruire un vantaggio della prima mossa o per anticipare i concorrenti.
+**Distrattori:**
+- Investire notevoli risorse finanziarie per seguire i concorrenti che si sono già mossi per primi.
+- Dispersione delle attività produttive nei paesi in cui possono essere svolte in modo più efficiente.
+- La sovrapproduzione alimentata dalle economie di scala: si produce molto di più di quanto richiede il mercato nazionale, e si vende in mercati nazionali diversi.
+
+**D:** ⚠️ Che cosa dice la slide della lezione 29 sulle politiche governative, fra le implicazioni per l'impresa?
+**R:** «La promozione del **libero scambio** è la scelta ottima **del paese**, **non sempre** però lo è **per l'azienda**, anche se **molte imprese sostengono** l'apertura dei mercati». Il docente: l'**Unione Europea** favorisce la competizione fra gli Stati membri ma resta relativamente chiusa ai nuovi entranti **extra UE**, e alcuni paesi hanno una forte chiusura, che è un ostacolo importante ([00:25:16]–[00:25:54]).
+**Opzione:** La promozione del libero scambio è la scelta ottima del paese, non sempre però lo è per l'azienda, anche se molte imprese sostengono l'apertura dei mercati.
+**Distrattori:**
+- La promozione del libero scambio è la scelta ottima sia del paese sia dell'azienda, e per questo molte imprese sostengono l'apertura dei mercati.
+- Investire notevoli risorse finanziarie per costruire un vantaggio della prima mossa o per anticipare i concorrenti.
+- Esportare i prodotti di quei settori in cui tutte le quattro componenti del diamante sono favorevoli e importare in quelle aree in cui le componenti non sono favorevoli.
+
+**D:** ⚠️ Secondo il docente della lezione 29, per quale ragione ci si internazionalizza nella teoria di Porter, a differenza di Vernon e della nuova teoria del commercio internazionale?
+**R:** Non perché si è in una condizione di «**overproduzione**» e «il mercato nazionale non basta più», ma «perché in quei paesi ci sono delle **opportunità**, delle occasioni che io non ho nel mio paese di origine» ([00:11:26]–[00:12:08]). Le imprese si internazionalizzano «non già perché c'è una **condizione strutturale** che le spinge», ma per «un **fattore di attrazione** che è generato dal Paese» ([00:12:50]). Per questo la domanda diventa anche **dove** localizzare impianti e investimenti ([00:11:14]).
+**Opzione:** Perché in quei paesi ci sono opportunità che nel paese di origine non ci sono: un fattore di attrazione generato dal paese, non una condizione strutturale che spinge l'impresa.
+**Distrattori:**
+- Perché c'è una condizione strutturale che spinge l'impresa: la sovrapproduzione, per cui il mercato nazionale non basta più.
+- Perché sono le attività a maggior valore aggiunto e hanno bisogno di fattori avanzati, mentre in quei paesi esistono solo fattori di base.
+- I cicli di vita dei prodotti non sono sincroni fra paesi: i prodotti maturi in certi paesi si possono collocare come prodotti entranti in altri.
+
+**D:** Secondo il docente della lezione 29, che ruolo ha il paese ospitante nella teoria del vantaggio competitivo nazionale?
+**R:** C'è «una sorta di **complicità**» fra la corporation che si internazionalizza e il paese destinatario degli investimenti: è «anche **responsabilità del paese** che le ospita» creare le condizioni per essere **attrattivo**, e «il **governo ospitante** svolge un ruolo **fondamentale** perché appunto deve **investire** per creare queste occasioni» ([00:10:15]–[00:12:18]). Le occasioni del diamante sono «un'**esca**» a cui le imprese rispondono ([00:11:26]).
+**Opzione:** Un ruolo fondamentale: in una sorta di complicità con la corporation, il governo ospitante deve investire per creare le occasioni che rendono il paese attrattivo.
+**Distrattori:**
+- Un ruolo marginale: le occasioni dipendono dalle sole dotazioni naturali del paese, su cui il governo non può agire.
+- Investire notevoli risorse finanziarie per costruire un vantaggio della prima mossa o per anticipare i concorrenti.
+- La sovrapproduzione alimentata dalle economie di scala: si produce molto di più di quanto richiede il mercato nazionale, e si vende in mercati nazionali diversi.
+
+**D:** Con quali due condizioni, secondo il docente della lezione 29, va letto il diamante di Porter?
+**R:** 1. Per rispondere alla domanda **perché** internazionalizzarsi bisogna capire **dove**: lì, anche se l'impresa non è nella condizione di **doversi** internazionalizzare, si trova nella condizione di **potersi** internazionalizzare, perché in quel paese vede un vantaggio. 2. Il diamante serve a «dare **evidenza** di questo vantaggio»: classificando le opportunità in alcuni **contenitori** si capisce se il vantaggio esiste, «di che materia è fatto» e in quale area agire per cogliere in futuro occasioni di maggiore generazione di valore ([00:27:35]–[00:28:34]).
+
+## Lezione 30 — La corporate social responsability
+
+**D:** ⚠️ Come definisce la slide della lezione 30 la corporate social responsibility (CSR)?
+**R:** «La **tensione** di un'impresa a soddisfare le **legittime attese, sociali, ambientali, economiche** degli **stakeholders**». Sotto la definizione la slide elenca i «Portatori di interesse interni» e i «Portatori di interesse esterni». ⚠️ Il soggetto sono gli stakeholders, non gli shareholders, cioè gli azionisti.
+**Opzione:** La tensione di un'impresa a soddisfare le legittime attese, sociali, ambientali, economiche degli stakeholders.
+**Distrattori:**
+- La tensione di un'impresa a soddisfare le legittime attese, sociali, ambientali, economiche degli shareholders.
+- L'abbassamento della quota di capitale necessaria per controllare una società.
+- Una somma rimborsabile come conseguenza di un prestito.
+
+**D:** ⚠️ Quali portatori di interesse elenca la slide della lezione 30 sotto la definizione di CSR?
+**R:** Due categorie: i «Portatori di interesse **interni**» e i «Portatori di interesse **esterni**». ⚠️ Il docente presenta gli stakeholder come attori «esterni per certi versi» che «non siedono sulle sedie di comando» ([00:01:14]): vale la slide. Lo stesso docente indica i dipendenti, portatori di interesse interni, come primi beneficiari della CSR informale.
+**Opzione:** Sia i portatori di interesse interni sia quelli esterni.
+**Distrattori:**
+- Solo i portatori di interesse esterni, che non siedono sulle sedie di comando.
+- Solo i portatori di interesse interni, cioè gli azionisti.
+- Con la direzione del sindacato.
+
+**D:** Secondo il docente della lezione 30, come cambia con la CSR il modo di guardare agli stakeholder?
+**R:** Finora erano «attori esterni con i quali bisogna arrivare a **compromessi** perché l'impresa possa sopravvivere»; con la CSR «questi diventano **complici, partner**», interessati al processo di creazione di valore ([00:01:27]–[00:01:48]). Esempi: il territorio che ospita l'impresa può essere «un partner che ci aiuta a produrre meglio»; le banche possono diventare «veri e propri partner industriali». Per il docente la CSR è una «**crescita relazionale**», non una crescita «misurabile attraverso il valore azionario» ([00:00:09]).
+**Opzione:** Da attori esterni con cui arrivare a compromessi perché l'impresa possa sopravvivere, diventano complici, partner, interessati al processo di creazione di valore.
+**Distrattori:**
+- Da complici e partner interessati al processo di creazione di valore, diventano attori esterni con cui arrivare a compromessi perché l'impresa possa sopravvivere.
+- Perché l'imprenditore tende a non gradire nuovi soci, e il debito non dà partecipazione al dividendo né alle decisioni ed è un impegno a termine, esaurito il quale torna in possesso dell'asset.
+- Azionisti risparmiatori, disinteressati alla gestione della società e quindi al diritto di voto: l'assenteismo nelle assemblee è molto elevato e si delibera solitamente con maggioranze di molto inferiori alla maggioranza assoluta.
+
+**D:** ⚠️ Quali macro fenomeni sociali ed economici elenca la slide della lezione 30 come «motore della CSR»?
+**R:** Sette, nell'ordine: «**Globalizzazione**; Ecologia; Diritti umani; Integrazione mercati finanziari; Valori immateriali; Consumo responsabile; **Scandali e esigenze di certificazione e trasparenza**». Il docente li riassume con «l'**aumento della complessità nella competizione**» ([00:02:41]). ⚠️ La prima voce è la globalizzazione, non l'internazionalizzazione: per il docente sono due cose diverse.
+**Opzione:** Globalizzazione; ecologia; diritti umani; integrazione mercati finanziari; valori immateriali; consumo responsabile; scandali e esigenze di certificazione e trasparenza.
+**Distrattori:**
+- Internazionalizzazione; ecologia; diritti umani; integrazione mercati finanziari; valori immateriali; consumo responsabile; scandali e esigenze di certificazione e trasparenza.
+- Quattro: dotazione dei fattori; condizioni della domanda; industrie collegate e di supporto; strategia di impresa, struttura e concorrenza.
+- Emissione di azioni a voto limitato; frazionamento del capitale sociale; sindacato di voto o di blocco; costituzione di società finanziarie.
+
+**D:** ⚠️ Che differenza fa il docente della lezione 30 fra globalizzazione e internazionalizzazione?
+**R:** L'**internazionalizzazione** «è una **scelta strategica** dell'impresa che sceglie di andare a vendere o a produrre in altri paesi». La **globalizzazione** «è un processo che avviene **indipendentemente dalle scelte dell'impresa**, è trasversale, avviene nei mercati, nelle istituzioni, è un processo di **messa in trasparenza**» ([00:05:01]–[00:05:21]). Senza aree di asimmetria informativa, l'impresa è in competizione costante.
+**Opzione:** L'internazionalizzazione è una scelta strategica dell'impresa di vendere o produrre in altri paesi; la globalizzazione è un processo che avviene indipendentemente dalle scelte dell'impresa, un processo di messa in trasparenza.
+**Distrattori:**
+- La globalizzazione è una scelta strategica dell'impresa di vendere o produrre in altri paesi; l'internazionalizzazione è un processo che avviene indipendentemente dalle scelte dell'impresa, un processo di messa in trasparenza.
+- La promozione del libero scambio è la scelta ottima del paese, non sempre però lo è per l'azienda, anche se molte imprese sostengono l'apertura dei mercati.
+- I creditori potrebbero rivalersi legalmente sulle attività dell'impresa, portando eventualmente alla liquidazione ed al fallimento della società.
+
+**D:** ⚠️ Che cosa riportano gli assi del grafico «Lo sviluppo della CSR» nella lezione 30?
+**R:** Sull'asse verticale il «**Grado di integrazione nella corp.strat**», su quello orizzontale il «**Tempo**». Per il docente c'è una «**relazione diretta**»: col tempo il grado di integrazione della CSR nella strategia cresce, e l'impresa ne assume «crescente consapevolezza» ([00:07:43]–[00:08:10]). È «un modello di carattere **descrittivo**».
+**Opzione:** In verticale il grado di integrazione nella corporate strategy, in orizzontale il tempo.
+**Distrattori:**
+- In verticale il tempo, in orizzontale il grado di integrazione nella corporate strategy.
+- In verticale il grado di integrazione nella corporate strategy, in orizzontale la dimensione dell'impresa.
+- In verticale la rilevanza sociale, in orizzontale la convenienza aziendale.
+
+**D:** ⚠️ Quali sono, in ordine, i cinque stadi dello sviluppo della CSR nella lezione 30?
+**R:** **Informale**, **Corrente**, **Sistematica**, **Innovativa**, **Dominante**: col tempo cresce il grado di integrazione nella corporate strategy. Per il docente la corrente è «il livello al quale mediamente le nostre imprese si sono adeguate» ([00:14:10]); l'innovativa è «l'area dei sogni» ([00:15:45]); della dominante «oggi … non sarei in grado di farvi esempi» ([00:17:21]).
+**Opzione:** Informale, corrente, sistematica, innovativa, dominante.
+**Distrattori:**
+- Informale, sistematica, corrente, innovativa, dominante.
+- Informale, corrente, sistematica, dominante, innovativa.
+- Corrente, informale, sistematica, innovativa, dominante.
+
+**D:** ⚠️ Che cosa elenca il riquadro della CSR informale nel grafico della lezione 30?
+**R:** Tre voci: «**Misure a favore dei dipendenti**»; «**Iniziative occasionali a favore delle comunita**»; «**Azioni a tutela ambientale**». Gli esempi del docente: l'**asilo aziendale** per i figli delle dipendenti, e il **riscaldamento** dei quartieri vicini con i fumi caldi delle imprese chimiche e siderurgiche ([00:08:39]–[00:10:27]). ⚠️ Il «certificato ambientale» è della CSR corrente: l'azione ambientale informale è presa dall'impresa da sola, senza certificazione.
+**Opzione:** Misure a favore dei dipendenti; iniziative occasionali a favore delle comunità; azioni a tutela ambientale.
+**Distrattori:**
+- Misure a favore dei dipendenti; iniziative occasionali a favore delle comunità; certificato ambientale.
+- Comunicazioni, lavoro qualificato, ricerca, tecnologia, istruzione.
+- Le limitazioni all'assunzione di ulteriore indebitamento; l'imposizione di un tetto massimo all'ammontare di dividendi che possono essere pagati; la fissazione di un livello minimo di capitale circolante sul quale investire.
+
+**D:** ⚠️ Che cosa elenca il riquadro della CSR corrente nel grafico della lezione 30?
+**R:** Quattro voci: «**Codice etico**»; «**Certificato ambientale**»; «**Bilancio di sost**» (di sostenibilità); «**Cause related mkt**» (marketing). Per il docente sono azioni «che possono essere **codificate**» ([00:11:23]): il codice etico regola anche la reperibilità; la certificazione da parte di un soggetto terzo dà valore all'azione ambientale; il bilancio di sostenibilità affianca quello contabile e quantifica i risultati sociali, «ancorché questo valore non sia monetizzabile» ([00:13:00]). ⚠️ Lo stakeholder engagement è della CSR sistematica.
+**Opzione:** Codice etico; certificato ambientale; bilancio di sostenibilità; cause related marketing.
+**Distrattori:**
+- Codice etico; certificato ambientale; bilancio di sostenibilità; stakeholder engagement.
+- Privilegiati: senior; subordinati: junior.
+- 100 settori in 10 paesi.
+
+**D:** Secondo il docente della lezione 30, che cosa guadagna l'impresa codificando i suoi comportamenti di responsabilità sociale?
+**R:** «Avendo **standardizzato** certi comportamenti» diventa più **trasparente**: gli altri attori sanno già che reazioni aspettarsi. Non serve tempo per costruire una relazione di **fiducia**, quindi può avere rapporti con tanti attori, «i quali si fidano già del mio comportamento perché quel comportamento è codificato» ([00:13:28]–[00:14:10]).
+**Opzione:** Diventa più trasparente: gli altri sanno già che reazioni aspettarsi, si fidano senza bisogno di tempo, e l'impresa può avere relazioni con più attori.
+**Distrattori:**
+- Diventa meno trasparente: gli altri non sanno che reazioni aspettarsi, e serve tempo per costruire la fiducia con ciascun attore.
+- Oneri finanziari elevati e, soprattutto, un effetto sull'accountability: le scatole cinesi nascondono al mercato e ai creditori la reale solidità dell'azionista di riferimento.
+- Si comprano come forma di investimento, non per partecipare alle decisioni; l'impresa trova una fonte diversa dal debito senza mettersi in casa un azionista che partecipi alle decisioni.
+
+**D:** ⚠️ Secondo il docente della lezione 30, perché conviene far certificare un'azione ambientale?
+**R:** Perché l'azione ambientale fatta in maniera sporadica «**in sé non produce valore**», ma potrebbe produrne se un **soggetto terzo** la certifica. Ci sono **fondi** che si impegnano con i loro finanziatori a investire solo in aziende che fanno investimenti ecologici: la certificazione «potrebbe rappresentare un **vantaggio in termini di finanziamento**» ([00:12:24]–[00:13:00]). È la CSR corrente.
+**Opzione:** Perché l'azione sporadica in sé non produce valore, ma certificata da un soggetto terzo può attirare i fondi che investono solo in aziende con investimenti ecologici.
+**Distrattori:**
+- Perché l'azione sporadica in sé non produce valore, ma certificata dall'impresa stessa nel suo bilancio può attirare i fondi che investono solo in aziende con investimenti ecologici.
+- Dispersione delle attività produttive nei paesi in cui possono essere svolte in modo più efficiente.
+- Attraverso una clausola di rimborso anticipato (call provision).
+
+**D:** ⚠️ Che cosa elenca il riquadro della CSR sistematica nel grafico della lezione 30?
+**R:** Tre voci: «**CV per anticipare i danni**»; «**Stakeholder engagement**»; «**Razionalizzazione risorse**» («CV» non è sciolto né dalla slide né dal docente). Il docente le legge dal basso: destinare «risorse specifiche proprio a obiettivi di corporate social responsibility»; il coinvolgimento sistematico degli stakeholder; le «azioni anticipatorie che servono per evitare poi i danni» ([00:14:53]–[00:15:45]). ⚠️ La sistematica anticipa i **danni**; l'innovativa, per la domanda 3 del test, anticipa le **istanze sociali**, e il suo riquadro dice «Sintesi socio competitive» e «Gap sociali».
+**Opzione:** CV per anticipare i danni; stakeholder engagement; razionalizzazione risorse.
+**Distrattori:**
+- CV per anticipare i danni; stakeholder engagement; gap sociali.
+- Settori con alti costi fissi: la domanda mondiale supporta poche imprese concorrenti.
+- Hanno un diritto di prelazione nel pagamento dei dividendi, ma non hanno diritto di voto nelle assemblee ordinarie.
+
+**D:** ⚠️ Secondo il docente della lezione 30, che cosa cambia nella CSR sistematica rispetto agli stadi precedenti?
+**R:** Gli obiettivi di social responsibility diventano **obiettivi strategici**, verso i quali spingersi per ottenerne un vantaggio aziendale, e non più azioni che tamponano problemi ([00:14:10]–[00:14:53]). «Non vado più a **sostenere costi** di corporate social responsibility ma a **destinare risorse** perché la corporate social responsibility produca un risultato» ([00:15:18]).
+**Opzione:** Gli obiettivi di responsabilità sociale diventano obiettivi strategici: non si sostengono più costi di CSR, ma si destinano risorse perché la CSR produca un risultato.
+**Distrattori:**
+- Gli obiettivi di responsabilità sociale restano azioni che tamponano problemi: non si destinano più risorse perché la CSR produca un risultato, ma si sostengono costi di CSR.
+- La leva creditizia, perché usa non solo capitali propri ma anche capitali di debito.
+- Deve investire in fattori avanzati.
+
+**D:** ⚠️ Come definisce la slide della lezione 30 la CSR innovativa?
+**R:** «Garantire agli stakeholders una tutela dei diritti **più elevata** di quella garantita dalle **norme vigenti**», con due voci: «Creatività socio competitiva» e «Strategic philantropy» (Luxottica: *Give the gift of sight*; Snaidero: *Cucine skyline*). Per il docente l'impresa si muove «in via **anticipatoria** rispetto ai problemi che verranno» ([00:15:45]).
+**Opzione:** Garantire agli stakeholders una tutela dei diritti più elevata di quella garantita dalle norme vigenti.
+**Distrattori:**
+- Garantire agli stakeholders una tutela dei diritti pari a quella garantita dalle norme vigenti.
+- Condizioni preferenziali rispetto agli altri creditori.
+- Con un capitale inferiore alla maggioranza assoluta.
+
+**D:** ⚠️ Che cosa sono Give the gift of sight e Cucine skyline nella lezione 30?
+**R:** Gli esempi di «**Strategic philantropy**» della slide sulla **CSR innovativa**: «Luxottica: Give the gift of sight», con cui offre occhiali a persone con problemi di vista nei paesi poveri, che non possono permetterseli; «Snaidero: Cucine skyline», cucine per persone portatrici di handicap ([00:21:59]–[00:22:31]). ⚠️ Il cause related marketing sta invece fra le voci della CSR corrente.
+**Opzione:** Esempi di strategic philanthropy della CSR innovativa: Luxottica offre occhiali a chi non può permetterseli nei paesi poveri, Snaidero produce cucine per persone portatrici di handicap.
+**Distrattori:**
+- Esempi di cause related marketing della CSR corrente: Luxottica offre occhiali a chi non può permetterseli nei paesi poveri, Snaidero produce cucine per persone portatrici di handicap.
+- A fronteggiare esigenze di esposizione su mercati locali e a rispondere a legislazioni locali, ma spesso anche a nascondere esposizioni finanziarie o anche solo tributarie.
+- Crea capacità e crea consumatori sofisticati ed esigenti; influenza la qualità e l'innovazione.
+
+**D:** ⚠️ Secondo il docente della lezione 30, in quali casi la CSR innovativa risulta necessaria?
+**R:** Quando le imprese si internazionalizzano in **paesi non così sviluppati**, con condizioni sociali molto difficili: con le amministrazioni locali costruiscono **scuole**, finanziano **ospedali**, **strade** e **infrastrutture ferroviarie**, «cosa che lo Stato non sarebbe in grado di fare», e colmano i **gap sociali**, «quasi che la corporazione **si sostituisca allo Stato**» ([00:16:15]–[00:17:02]). Per il docente sono modelli «che ancora non sono diffusi fra le grandi imprese», «l'area dei sogni».
+**Opzione:** Quando le imprese si internazionalizzano in paesi non così sviluppati: con le amministrazioni locali costruiscono scuole e finanziano ospedali, strade e ferrovie, quasi sostituendosi allo Stato.
+**Distrattori:**
+- Quando le imprese si internazionalizzano in paesi molto sviluppati: con le amministrazioni locali costruiscono scuole e finanziano ospedali, strade e ferrovie, quasi sostituendosi allo Stato.
+- Un ruolo fondamentale: in una sorta di complicità con la corporation, il governo ospitante deve investire per creare le occasioni che rendono il paese attrattivo.
+- Solo l'assemblea ordinaria o anche quella straordinaria.
+
+**D:** ⚠️ Come descrive la slide della lezione 30 la CSR dominante?
+**R:** «**Cultura aziendale** e **leadership carismatica** orientata al CSR»; «Impegno sociale dei vertici – esempio»; «Il gruppo si assume la responsabilità di agire **per modificare il contesto**». Per il docente i vertici, come l'amministratore delegato, comunicano le politiche della corporation con i loro comportamenti, verso l'interno ai dipendenti e verso l'esterno ai potenziali azionisti ([00:22:31]–[00:23:21]).
+**Opzione:** Cultura aziendale e leadership carismatica orientata alla CSR; impegno sociale dei vertici; il gruppo si assume la responsabilità di agire per modificare il contesto.
+**Distrattori:**
+- Cultura aziendale e leadership carismatica orientata alla CSR; impegno sociale dei vertici; il gruppo si assume la responsabilità di adattarsi al contesto.
+- La visione aziendale di lungo periodo è una determinante del successo; l'ideologia del management e la struttura dell'impresa possono avere un impatto positivo o negativo; la presenza di concorrenza domestica accresce la competitività di un'impresa.
+- Pongono anche limiti al trasferimento delle azioni delle S.p.A. o delle partecipazioni in società che le controllano.
+
+**D:** ⚠️ Secondo il docente della lezione 30, che cosa caratterizza la CSR dominante?
+**R:** Le componenti di corporate social responsibility «diventano l'**obiettivo prioritario** della corporation **prima ancora del valore azionario**»; il docente aggiunge che oggi non saprebbe farne esempi ([00:17:21]–[00:17:37]). La slide la descrive con la cultura aziendale e la leadership carismatica orientate alla CSR; il valore azionario non vi compare.
+**Opzione:** Le componenti di CSR diventano l'obiettivo prioritario della corporation, prima ancora del valore azionario.
+**Distrattori:**
+- Il valore azionario resta l'obiettivo prioritario della corporation, prima ancora delle componenti di CSR.
+- È sempre superiore al valore nominale del debito.
+- Di fatto, attraverso quote di capitale a volte anche irrisorie.
+
+**D:** ⚠️ Quali elementi confluiscono nella sintesi socio competitiva, secondo lo schema della lezione 30?
+**R:** In alto l'«**Imprenditorialità Socialmente orientata**», da cui discendono le «**Esigenze manifeste o latenti / Interlocutori sociali**» e le «**Opportunità di sviluppo / Produttività crescita**»; i due riquadri convergono sulla «Sintesi socio Competitiva». Per il docente l'imprenditorialità socialmente orientata vuol dire che il **soggetto economico** ha una vision «non solo economica ma anche sociale», come Bill Gates con l'informatizzazione ([00:17:56]–[00:18:45]). ⚠️ Il docente aggiunge l'alleanza con i partner non profit, che nello schema non ha un riquadro suo.
+**Opzione:** Imprenditorialità socialmente orientata; esigenze manifeste o latenti, interlocutori sociali; opportunità di sviluppo, produttività, crescita.
+**Distrattori:**
+- Imprenditorialità socialmente orientata; esigenze manifeste o latenti, interlocutori sociali; vantaggio aziendale, risultati economici.
+- La leva azionaria e anche la leva creditizia.
+- Quelli cumulativi.
+
+**D:** ⚠️ Che cosa produce la sintesi socio competitiva, secondo lo schema della lezione 30?
+**R:** Tre esiti: «**Soddisf. interlocutori**», «**Vantaggio aziendale**» e «**Risultati economici**». Nello schema la soddisfazione degli interlocutori porta anche al vantaggio aziendale, ed entrambi portano ai risultati economici. L'esempio del docente sono le aziende estrattive americane in America Latina, che investivano in scuole, ospedali e strade: ne ebbero soddisfazione degli interlocutori, un risultato economico e soprattutto una relazione con il governo locale più forte di quella di un nuovo entrante, in paesi tentati dalla nazionalizzazione ([00:20:11]–[00:21:59]).
+**Opzione:** Soddisfazione degli interlocutori, vantaggio aziendale e risultati economici.
+**Distrattori:**
+- Soddisfazione degli interlocutori, opportunità di sviluppo e produttività.
+- Generalmente in multipli di 100, che rappresentano il suo valore nominale.
+- Solo il capitale di comando di F.
+
+**D:** ⚠️ Quali «relazioni non evolutive tra Cs e CSR» elenca la slide della lezione 30?
+**R:** Quattro, nell'ordine: «**Patrimonio genetico**»; «**Focus sulla sostanza**»; «**Reazione alla crisi**»; «**Cambio di leadership**». «Cs» è la corporate strategy. Per il docente la CSR dà una maggiore reattività nelle crisi grazie al capitale immateriale, e il cambio di leadership non è «in termini di cambio di persone che sono leader ma di **visione**» ([00:23:21]–[00:24:20]).
+**Opzione:** Patrimonio genetico; focus sulla sostanza; reazione alla crisi; cambio di leadership.
+**Distrattori:**
+- Patrimonio genetico; focus sulla sostanza; reazione alla crisi; cambio di proprietà.
+- Entrambi sono a lungo termine, oltre un anno.
+- La accresce.
+
+**D:** ⚠️ Come si lega la CSR al triangolo del valore, secondo la slide della lezione 30?
+**R:** Cinque voci: «La Csr trova espressione nella **vison**» (sic); «Csr e **Target**»; «Csr e **configurazione del portafoglio di business**»; «Csr e **sviluppo delle risorse (soprattutto intangibili)**»; «Csr e **organizzazione**». Ricalcano il triangolo della corporate strategy della lezione 01: visione e traguardi dentro il triangolo, business, risorse e organizzazione sui lati. Il docente legge «Target» come gli obiettivi e le mission assegnate alle singole business ([00:24:20]).
+**Opzione:** La CSR trova espressione nella vision; CSR e target; CSR e configurazione del portafoglio di business; CSR e sviluppo delle risorse (soprattutto intangibili); CSR e organizzazione.
+**Distrattori:**
+- La CSR trova espressione nella vision; CSR e target; CSR e configurazione del portafoglio di business; CSR e sviluppo delle risorse (soprattutto tangibili); CSR e organizzazione.
+- La teoria del ciclo di vita del prodotto di Vernon, la nuova teoria del commercio internazionale, la teoria del vantaggio competitivo nazionale di Porter.
+- In parti uguali da azioni ordinarie e di risparmio; la quota di comando è pari al 51% del capitale votante.
+
+**D:** ⚠️ Quali costi della CSR elenca la slide della lezione 30?
+**R:** Quattro: «**Incremento** quote di ammortamento»; «**Incremento** costi di funzionamento»; «**Distrazione** di tempo e risorse umane»; «**Limitazione** alle alternative strategiche». Per il docente si investe in ospedali e strade non funzionali alla produzione, l'organizzazione cresce e «le relazioni per definizione sono costose», le risorse umane dedicano tempo alle relazioni e hanno «una minore produttività», e le opzioni strategiche si riducono a quelle coerenti con i comportamenti sociali ([00:24:52]–[00:25:46]).
+**Opzione:** Incremento quote di ammortamento; incremento costi di funzionamento; distrazione di tempo e risorse umane; limitazione alle alternative strategiche.
+**Distrattori:**
+- Incremento quote di ammortamento; incremento costi di funzionamento; distrazione di tempo e risorse umane; ampliamento delle alternative strategiche.
+- Il diritto a partecipare alle assemblee, il diritto a esigere dividendi laddove siano previsti, il diritto di voto e di rappresentanza nel consiglio di amministrazione.
+- Costituendo altre società finanziarie, le quali collocano a loro volta sul mercato le partecipazioni che non servono al controllo delle imprese.
+
+**D:** ⚠️ Quali benefici economici della CSR indica la slide della lezione 30?
+**R:** Due: la «**Differenziazione** (es. cause related mktg)» e la «**Scala**». Per il docente «ci differenziamo dagli altri», perché le imprese socialmente orientate sono diverse da quelle che non lo sono, e «agiamo su una scala maggiore perché cresce la dimensione della nostra corporation in ragione dei **partner anche non profit**» ([00:25:46]–[00:26:07]). ⚠️ La riduzione dei rischi è un beneficio **intangibile**, del capitale organizzativo, nella slide successiva.
+**Opzione:** Differenziazione (es. cause related marketing) e scala.
+**Distrattori:**
+- Differenziazione (es. cause related marketing) e riduzione dei rischi.
+- In azioni e obbligazioni.
+- Al learning by doing.
+
+**D:** ⚠️ Quali benefici intangibili della CSR vanno al capitale organizzativo, secondo la slide della lezione 30?
+**R:** Cinque: «Certificazioni e miglioramento dei processi»; «Innalzamento livelli di salute»; «Miglioramento governance»; «**Riduzione rischi**»; «**Sviluppo capacità di anticipazione**». Per il docente i rischi si riducono perché sono condivisi con i partner («non parlo dei rischi finanziari ma evidentemente del rischio di fallimento sì», [00:26:38]), e l'anticipazione cresce perché i partner danno «maggiori antenne sul mercato» per i segnali deboli ([00:26:48]). ⚠️ Motivazione e competenze interne vanno al capitale **umano**; reputazione e visibilità al **relazionale**.
+**Opzione:** Certificazioni e miglioramento dei processi; innalzamento livelli di salute; miglioramento governance; riduzione rischi; sviluppo capacità di anticipazione.
+**Distrattori:**
+- Certificazioni e miglioramento dei processi; innalzamento livelli di salute; miglioramento governance; riduzione rischi; innalzamento motivazione.
+- Incremento quote di ammortamento; incremento costi di funzionamento; distrazione di tempo e risorse umane; limitazione alle alternative strategiche.
+- Dal rapporto tra valore di emissione e valore nominale.
+
+**D:** ⚠️ Quali benefici intangibili della CSR vanno al capitale umano e quali al capitale relazionale, nella lezione 30?
+**R:** Al **capitale umano** «Innalzamento motivazione» e «Crescita competenze interne»; al **capitale relazionale** «Reputazione» e «Visibilità». Per il docente l'impresa ha così «una migliore capacità di porsi in relazione con altri attori, perché ha una reputazione migliore e una maggiore visibilità» ([00:27:03]–[00:27:22]). Le altre cinque voci vanno al capitale organizzativo.
+**Opzione:** Capitale umano: innalzamento motivazione e crescita competenze interne; capitale relazionale: reputazione e visibilità.
+**Distrattori:**
+- Capitale umano: reputazione e visibilità; capitale relazionale: innalzamento motivazione e crescita competenze interne.
+- Capitale umano: innalzamento motivazione e riduzione rischi; capitale relazionale: reputazione e visibilità.
+- Capitale umano: innalzamento motivazione e crescita competenze interne; capitale relazionale: miglioramento governance e visibilità.
+
+**D:** ⚠️ Nella matrice della lezione 30, quali due variabili si incrociano e che cosa sta nelle caselle estreme?
+**R:** La «**Rilevanza Sociale**» (asse verticale) e la «**Convenienza aziendale**» (asse orizzontale), ciascuna «No / Incerta / Si». Nella casella «sì sì» c'è **A, Sinergie**, il «quadrante ottimale»; in quella «no no» c'è **E, Rinvio**, il comportamento che per il docente «non è interessante» ([00:27:45]–[00:28:05]).
+**Opzione:** Rilevanza sociale e convenienza aziendale: con entrambe sì, A Sinergie; con entrambe no, E Rinvio.
+**Distrattori:**
+- Rilevanza sociale e convenienza aziendale: con entrambe sì, A Sinergie; con entrambe no, D Trade off.
+- Rilevanza sociale e convenienza aziendale: con entrambe sì, B Orientamento sociale; con entrambe no, E Rinvio.
+- Grado di integrazione e tempo: con entrambi alti, A Sinergie; con entrambi bassi, E Rinvio.
+
+**D:** ⚠️ Nella matrice della lezione 30, che cosa sta nella casella con rilevanza sociale sì e convenienza aziendale no?
+**R:** **D, Trade off**. Per il docente non c'è convenienza aziendale ma c'è un'elevata rilevanza sociale: l'azienda «può rischiare, può decidere di farlo o no, ma questo dipende molto anche dalla **vision** che è maturata nella testa del management» ([00:28:38]).
+**Opzione:** D, Trade off: l'azienda può rischiare, e dipende dalla vision del management.
+**Distrattori:**
+- B, Orientamento sociale: l'operazione si fa solo se la corporation ha un orientamento sociale.
+- C, Spesa sostenibile: l'operazione si fa solo se la spesa è sostenibile, cioè se c'è budget.
+- E, Rinvio: il comportamento non è interessante.
+
+**D:** ⚠️ Nella matrice della lezione 30, che cosa sta nella casella con rilevanza sociale sì e convenienza aziendale incerta?
+**R:** **B, Orient. sociale**. Per il docente c'è «un'incerta convenienza aziendale ma c'è una forte rilevanza sociale»: certe operazioni «si fanno solo quando c'è un **orientamento sociale** della corporation» ([00:28:18]–[00:28:28]).
+**Opzione:** B, Orientamento sociale: l'operazione si fa solo se la corporation ha un orientamento sociale.
+**Distrattori:**
+- D, Trade off: l'azienda può rischiare, e dipende dalla vision del management.
+- C, Spesa sostenibile: l'operazione si fa solo se la spesa è sostenibile, cioè se c'è budget.
+- A, Sinergie: l'azione è socialmente rilevante e anche conveniente, quindi perché non farla.
+
+**D:** ⚠️ Nella matrice della lezione 30, che cosa sta nella casella con rilevanza sociale incerta e convenienza aziendale no?
+**R:** **C, Spesa Sost.** Per il docente c'è «un'incerta rilevanza sociale e non c'è convenienza aziendale»: l'operazione si fa «solo se la **spesa è sostenibile**, quindi se c'è **budget**» ([00:28:28]).
+**Opzione:** C, Spesa sostenibile: l'operazione si fa solo se la spesa è sostenibile, cioè se c'è budget.
+**Distrattori:**
+- E, Rinvio: il comportamento non è interessante.
+- D, Trade off: l'azienda può rischiare, e dipende dalla vision del management.
+- B, Orientamento sociale: l'operazione si fa solo se la corporation ha un orientamento sociale.
+
+**D:** ⚠️ Che cosa consente la distribuzione dei dividendi, secondo il test della lezione 30 (domanda 1)?
+**R:** «**Attrarre investitori desiderosi di flussi di cassa costanti ma restii a sostenere costi di transazione derivanti dalla vendita periodica delle azioni**» (nel test «perioda»). Distrattori del test: «tassare i dividendi come reddito ordinario», «ridurre le fonti interne di finanziamento», «evitare la tassazione». ⚠️ Non è nelle lezioni 01–30: viene dal manuale. I «costi di transazione» sono qui i costi di acquisto e vendita dei titoli, come nelle ipotesi di Modigliani e Miller (lezione 24). ⚠️ «Ridurre le fonti interne» è vero come **conseguenza**, perché i dividendi tolgono autofinanziamento (la prima regola della lezione 25), ma non è ciò che la distribuzione consente di ottenere; e i dividendi non evitano le imposte né sono un costo deducibile (lezione 27).
+**Opzione:** Attrarre investitori desiderosi di flussi di cassa costanti ma restii a sostenere costi di transazione derivanti dalla vendita periodica delle azioni.
+**Distrattori:**
+- Tassare i dividendi come reddito ordinario.
+- Ridurre le fonti interne di finanziamento.
+- Evitare la tassazione.
+
+**D:** ⚠️ Che cos'è la corporate social responsibility (CSR), secondo il test della lezione 30 (domanda 2)?
+**R:** «**La tensione dell'impresa a soddisfare le aspettative degli stakeholders**». È la definizione della slide 2, con «aspettative» al posto di «legittime attese, sociali, ambientali, economiche». Distrattori del test: «prevede un impegno sociale dell'impresa», «favorisce le scelte di benessere dei dipendenti», «punta a nuove forme di finanziamento». ⚠️ Ognuno descrive un pezzo della lezione, non la definizione: l'impegno sociale **dei vertici** è della CSR dominante (slide 7), le misure a favore dei dipendenti della CSR informale (slide 4), i fondi che finanziano le aziende certificate un effetto della CSR corrente (transcript [00:12:24]).
+**Opzione:** La tensione dell'impresa a soddisfare le aspettative degli stakeholders.
+**Distrattori:**
+- Prevede un impegno sociale dell'impresa.
+- Favorisce le scelte di benessere dei dipendenti.
+- Punta a nuove forme di finanziamento.
+
+**D:** ⚠️ Che cosa fa la CSR innovativa, secondo il test della lezione 30 (domanda 3)?
+**R:** «**Anticipa le istanze sociali degli stakeholders**». Distrattori del test: «promuove l'innovazione tecnologica», «immagina nuovi stakeholders», «segue le istanze sociali degli stakeholders». La chiave viene dal docente: l'impresa si muove «in via anticipatoria rispetto ai problemi che verranno», affrontando i gap sociali del territorio ([00:15:45]). ⚠️ «Segue» è il segno invertito; «innovazione tecnologica» deduce la funzione dal nome. Anche la CSR sistematica anticipa, ma i **danni** («CV per anticipare i danni», slide 4).
+**Opzione:** Anticipa le istanze sociali degli stakeholders.
+**Distrattori:**
+- Promuove l'innovazione tecnologica.
+- Immagina nuovi stakeholders.
+- Segue le istanze sociali degli stakeholders.
+
+**D:** ⚠️ Che cosa fa la CSR informale, secondo il test della lezione 30 (domanda 4)?
+**R:** «**Costruisce prassi di responsabilità sociale non previste dal piano strategico**». Distrattori del test: «informa gli stakeholders delle iniziative sociali intraprese», «evita responsabilità sociali per l'impresa», «risponde a requisiti di legge». Il docente: l'impresa assume comportamenti di CSR «in maniera non formalizzata, non lo scrive nel suo piano strategico» ([00:08:18]); l'asilo aziendale «non l'avevo nemmeno prevista nei piani strategici precedenti» ([00:09:18]). ⚠️ «Informa» deduce la funzione dal nome *informale*; le azioni informali sono prese «senza che vi sia una reale pressione» ([00:10:27]), non per obbligo di legge.
+**Opzione:** Costruisce prassi di responsabilità sociale non previste dal piano strategico.
+**Distrattori:**
+- Informa gli stakeholders delle iniziative sociali intraprese.
+- Evita responsabilità sociali per l'impresa.
+- Risponde a requisiti di legge.
+
+**D:** ⚠️ Che cosa fa la CSR corrente, secondo il test della lezione 30 (domanda 5)?
+**R:** «**Codifica i comportamenti di responsabilità sociale**». Distrattori del test: «si finanzia da risorse di lungo periodo», «si finanzia da risorse correnti», «favorisce le acquisizioni verticali» (nel test «acqusizioni»). Il docente: le azioni informali riuscite diventano «una soluzione corrente», «una serie di azioni che possono essere codificate» ([00:11:23]), come il codice etico, le certificazioni e il bilancio di sostenibilità. ⚠️ «Risorse correnti» deduce il contenuto dal nome *corrente*, e i due distrattori sul finanziamento sono speculari: insieme non dicono nulla della CSR.
+**Opzione:** Codifica i comportamenti di responsabilità sociale.
+**Distrattori:**
+- Si finanzia da risorse di lungo periodo.
+- Si finanzia da risorse correnti.
+- Favorisce le acquisizioni verticali.
