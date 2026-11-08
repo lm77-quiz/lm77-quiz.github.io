@@ -1032,3 +1032,261 @@
 - Hanno durata annuale e sono strumentali.
 - Hanno la caratteristica della non materialità, hanno durata pluriennale e sono strumentali.
 - Hanno durata pluriennale e sono non strumentali.
+
+## Lezione 05 — Le immobilizzazioni materiali
+
+**D:** Che cosa distingue l'OIC dal Consiglio Nazionale dei Dottori Commercialisti e dei Ragionieri, che prima redigeva i principi contabili nazionali, secondo il docente della lezione 05?
+**R:** Il Consiglio era un'associazione **totalmente privatistica**, e i suoi principi non avevano «nessuna validità normativa immediata». Anche l'OIC ha carattere privatistico, ma è **previsto dalla legge**: i suoi documenti non sono fonti normative di primo livello, ma possono essere considerati come provenienti «da poteri genericamente intesi dello Stato». Riunisce esperti contabili e civilistici, sindacati dei lavoratori e delle imprese e pubblica amministrazione ([00:00:07]–[00:02:16]). Le slide non ne parlano.
+**Opzione:** L'OIC, pur avendo carattere privatistico, è previsto dalla legge; il Consiglio era un'associazione totalmente privatistica, i cui principi non avevano validità normativa immediata.
+**Distrattori:**
+- L'OIC è un organismo pubblico i cui documenti sono fonti normative di primo livello; il Consiglio era un'associazione privatistica.
+- L'OIC è un'associazione totalmente privatistica; il Consiglio era previsto dalla legge e i suoi principi avevano validità normativa immediata.
+- L'OIC emana i principi contabili internazionali; il Consiglio emanava quelli nazionali.
+
+**D:** ⚠️ Con quale momento coincide, per il documento OIC n. 16, il momento di iscrivibilità di un'immobilizzazione all'attivo dello stato patrimoniale?
+**R:** «Il momento di iscrivibilità di una immobilizzazione all'attivo di S.P. coincide con quello di **passaggio del titolo di proprietà**» (slide 2). Per il docente è un criterio **giuridico-formale**: per un immobile, per esempio, è il giorno del **rogito notarile** ([00:05:17]). I principi internazionali guardano invece ai probabili benefici economici futuri.
+**Opzione:** Con quello di passaggio del titolo di proprietà.
+**Distrattori:**
+- Con quello in cui è probabile che i futuri benefici economici riferibili al bene siano goduti dall'impresa.
+- Con quello di consegna del bene, in ogni caso.
+- Con quello di pagamento dell'ultima rata del prezzo.
+
+**D:** ⚠️ Che cosa richiedono i principi contabili internazionali per iscrivere un'immobilizzazione materiale in bilancio, secondo la lezione 05?
+**R:** «Richiedono che sia **probabile** che i **futuri benefici economici** riferibili al bene siano goduti dall'impresa; **e** che il **costo** del bene sia **determinabile in maniera attendibile**» (slide 2). Le due condizioni valgono **insieme**, e non c'è alcun riferimento al passaggio del titolo di proprietà ([00:09:14]–[00:11:38]).
+**Opzione:** Che sia probabile che i futuri benefici economici riferibili al bene siano goduti dall'impresa, e che il costo del bene sia determinabile in maniera attendibile.
+**Distrattori:**
+- Che sia certo che i futuri benefici economici riferibili al bene siano goduti dall'impresa, e che il costo del bene sia determinabile in maniera attendibile.
+- Che sia probabile che i futuri benefici economici riferibili al bene siano goduti dall'impresa, e che sia avvenuto il passaggio del titolo di proprietà.
+- Che il bene sia iscritto in un registro pubblico e che il rogito notarile sia stato perfezionato.
+
+**D:** Quando passa il titolo di proprietà di un immobile, di un bene mobile registrato e di un bene mobile non registrato, secondo il docente della lezione 05?
+**R:** Per un **immobile**, terreno o fabbricato, il giorno in cui è sottoscritto e perfezionato il **rogito notarile**. Per un **bene mobile registrato**, come un'autovettura, un motociclo o un natante, il momento in cui si perfeziona il passaggio di proprietà. Per un **bene mobile non registrato**, come il bancone del bar o un tornio, dipende dagli **accordi contrattuali** ([00:05:17]–[00:09:14]). Le slide non ne parlano.
+**Opzione:** Immobile: il rogito notarile; bene mobile registrato: il perfezionamento del passaggio di proprietà; bene mobile non registrato: dipende dagli accordi contrattuali.
+**Distrattori:**
+- Immobile: il rogito notarile; bene mobile registrato: dipende dagli accordi contrattuali; bene mobile non registrato: il perfezionamento del passaggio di proprietà nel registro.
+- In tutti e tre i casi: la consegna del bene all'acquirente.
+- Immobile: l'iscrizione in un registro pubblico; bene mobile registrato e non registrato: il pagamento del prezzo.
+
+**D:** ⚠️ Per un bene mobile non registrato, quando può collocarsi contrattualmente il passaggio di proprietà, secondo il docente della lezione 05?
+**R:** Alla **spedizione** del bene, se i rischi del trasporto sono a carico dell'**acquirente**; alla **consegna**, se i rischi del trasporto sono a carico del **venditore** ([00:07:32]). Poco dopo il docente dice «a cura del venditore acquirente», un lapsus: vale la regola appena enunciata.
+**Opzione:** Alla spedizione se i rischi del trasporto sono a carico dell'acquirente, alla consegna se sono a carico del venditore.
+**Distrattori:**
+- Alla spedizione se i rischi del trasporto sono a carico del venditore, alla consegna se sono a carico dell'acquirente.
+- Sempre alla consegna, chiunque sopporti i rischi del trasporto.
+- Al rogito notarile, come per gli immobili.
+
+**D:** Perché i principi contabili internazionali non legano l'iscrizione delle immobilizzazioni materiali al passaggio del titolo di proprietà, secondo il docente della lezione 05?
+**R:** Perché le regole sul passaggio del titolo di proprietà cambiano da Stato a Stato: nei paesi di **common law** sono molto meno formali che in Italia o nei paesi mediterranei. Per essere «più omnicomprensivi» i principi internazionali si riferiscono a concetti di natura **economica**, i probabili benefici del bene, con un'attitudine «aziendalistico-economica» invece che «giuridico-formale» ([00:09:14]–[00:11:38]).
+**Opzione:** Perché le regole sul passaggio di proprietà cambiano da Stato a Stato, e preferiscono riferirsi a concetti economici invece che giuridico-formali.
+**Distrattori:**
+- Perché nei paesi di common law le regole sul passaggio di proprietà sono più formali che in Italia, e quindi più difficili da verificare.
+- Perché il passaggio di proprietà è disciplinato dallo IAS 17 sul leasing.
+- Perché nei principi internazionali il bene si iscrive solo quando il costo è stato interamente pagato.
+
+**D:** ⚠️ A quale costo devono essere iscritte le immobilizzazioni materiali nei principi nazionali, a seconda della provenienza, e che cosa si computa nel costo di acquisto?
+**R:** «Le I.M. devono essere iscritte al **costo di acquisto**, se acquisite **esternamente**, o **di produzione**, se realizzate **internamente**. Nel costo di acquisto **si computano i costi accessori**» (slide 3). Per il docente il Codice civile detta regole generiche, che l'OIC 16 esplicita e approfondisce ([00:11:38]).
+**Opzione:** Al costo di acquisto se acquisite esternamente, al costo di produzione se realizzate internamente; nel costo di acquisto si computano i costi accessori.
+**Distrattori:**
+- Al costo di produzione se acquisite esternamente, al costo di acquisto se realizzate internamente; nel costo di acquisto si computano i costi accessori.
+- Al costo di acquisto se acquisite esternamente, al costo di produzione se realizzate internamente; i costi accessori vanno nel conto economico dell'esercizio.
+- Al fair value, cioè al valore attuale dei pagamenti minimi.
+
+**D:** ⚠️ Quali sono i classici oneri accessori del costo di acquisto di un'immobilizzazione materiale, secondo il docente della lezione 05?
+**R:** I costi di **trasporto** connessi all'acquisto, i costi di **installazione** e i costi di **collaudo**, quando l'impianto lo richiede prima di essere posto in uso ([00:14:35]). Le spese stimate di smantellamento, rimozione e bonifica entrano invece nel costo iniziale solo nei principi internazionali (slide 3).
+**Opzione:** I costi di trasporto, di installazione e di collaudo.
+**Distrattori:**
+- I costi di trasporto, di installazione e di smantellamento.
+- Il materiale, le ore e il personale impiegati nella produzione del bene.
+- Le quote di ammortamento degli esercizi successivi.
+
+**D:** Da quali costi si desume il costo di produzione di un'immobilizzazione materiale realizzata internamente, secondo il docente della lezione 05?
+**R:** Dai costi sostenuti dall'impresa per produrre il bene: il **materiale**, le **ore** impiegate, il **personale** impiegato, l'eventuale **energia** e gli altri elementi impiegati. La loro somma è il costo di produzione, che va nello stato patrimoniale come valore dell'immobilizzazione. Gli esempi sono il **falegname** che si costruisce il tavolo da lavoro e il **fabbro** che si fa le grate per le finestre della sua attività ([00:14:22]–[00:16:11]).
+**Opzione:** Dal materiale, dalle ore e dal personale impiegati, dall'energia e dagli altri elementi impiegati per produrre il bene.
+**Distrattori:**
+- Dal prezzo riportato nel preventivo accettato e nella fattura di acquisto.
+- Dal valore di mercato del bene finito, cioè dal suo fair value.
+- Dai costi di trasporto, di installazione e di collaudo.
+
+**D:** ⚠️ Che cosa include lo IAS 16 nel costo iniziale di iscrizione di un'immobilizzazione materiale, oltre al costo, secondo la lezione 05?
+**R:** «Anche ai sensi dello IAS 16, devono essere inizialmente valutate al costo. Sono però incluse nel costo iniziale di iscrizione di un bene anche le **spese stimate** per lo **smantellamento**, per la **rimozione** dell'attività e la **bonifica del luogo**, nella misura in cui queste sono state rilevate come **accantonamenti** ai sensi dello IAS» (slide 3, che non dice quale IAS). Per il docente devono essere «attendibilmente definibili», e possono essere «molto molto ingenti» per impianti chimici, petrolchimici, di vernici o per le discariche ([00:16:11]–[00:17:46]).
+**Opzione:** Le spese stimate per lo smantellamento, per la rimozione dell'attività e la bonifica del luogo, nella misura in cui sono state rilevate come accantonamenti.
+**Distrattori:**
+- Le spese stimate per lo smantellamento, per la rimozione dell'attività e la bonifica del luogo, anche se non sono state rilevate come accantonamenti.
+- I soli costi accessori di trasporto, installazione e collaudo, come nei principi nazionali.
+- Gli interessi passivi sostenuti per finanziare l'acquisizione, in via generalizzata.
+
+**D:** ⚠️ Quali caratteristiche ha il leasing operativo nello schema della lezione 05, e con quale metodo si contabilizza?
+**R:** È una «**normale operazione di locazione**», con **2 soggetti** e la «**mancanza** trasferimento rischi e benefici connessi al bene»: si contabilizza con il **metodo patrimoniale** (slide 4 e 6). Per il docente i due soggetti sono chi concede il bene e chi lo utilizza ([00:18:19]). ⚠️ Il docente dice anche che «non vi è una mancanza di trasferimento»: è un lapsus, vale la slide.
+**Opzione:** Normale operazione di locazione, 2 soggetti, mancanza di trasferimento dei rischi e dei benefici connessi al bene: metodo patrimoniale.
+**Distrattori:**
+- Normale operazione di locazione, 2 soggetti, trasferimento dei rischi e dei benefici connessi al bene: metodo finanziario.
+- Operazione assimilata alla compravendita finanziaria, 3 soggetti, trasferimento dei rischi e dei benefici connessi al bene: metodo finanziario.
+- Normale operazione di locazione, 3 soggetti, mancanza di trasferimento dei rischi e dei benefici connessi al bene: metodo patrimoniale.
+
+**D:** ⚠️ Quali caratteristiche ha il leasing finanziario nello schema della lezione 05, e con quale metodo si contabilizza?
+**R:** Sono «**op. assimilate alla compravendita finanziaria**», con **3 soggetti** e il «**trasferimento** rischi e benefici connessi al bene»: per la **prevalenza della sostanza sulla forma** si contabilizza con il **metodo finanziario**, secondo lo **IAS 17** (slide 4 e 6). Per il docente il trasferimento avviene a favore dell'**utilizzatore**, e il leasing finanziario non è un affitto o un noleggio ma un **contratto di finanziamento** ([00:18:19]–[00:22:49]).
+**Opzione:** Operazione assimilata alla compravendita finanziaria, 3 soggetti, trasferimento dei rischi e dei benefici connessi al bene: per la prevalenza della sostanza sulla forma, metodo finanziario.
+**Distrattori:**
+- Operazione assimilata alla compravendita finanziaria, 3 soggetti, mancanza di trasferimento dei rischi e dei benefici connessi al bene: per la prevalenza della forma sulla sostanza, metodo patrimoniale.
+- Normale operazione di locazione, 2 soggetti, mancanza di trasferimento dei rischi e dei benefici connessi al bene: metodo patrimoniale.
+- Operazione assimilata alla compravendita finanziaria, 2 soggetti, trasferimento dei rischi e dei benefici connessi al bene: per la prevalenza della sostanza sulla forma, metodo finanziario.
+
+**D:** Quali sono i tre soggetti del leasing finanziario, secondo il docente della lezione 05?
+**R:** Il **venditore**, l'**acquirente**, cioè l'utilizzatore, e la **società di leasing** ([00:18:19]). Il leasing operativo ne ha due: chi concede il bene e chi lo utilizza. La slide 4 dà solo i numeri, 3 e 2.
+**Opzione:** Il venditore, l'acquirente e la società di leasing.
+**Distrattori:**
+- Il locatore e il locatario.
+- Il venditore, l'acquirente e la banca che concede il mutuo.
+- La società di leasing, l'utilizzatore e l'autorità di vigilanza.
+
+**D:** ⚠️ Dove iscrive il locatore le immobilizzazioni concesse in leasing, nei principi nazionali della lezione 05?
+**R:** «Nello stato patrimoniale del locatore le immobilizzazioni concesse in leasing vanno nella voce: **B) Immobilizzazioni**, con **separata indicazione** di quelle concesse in locazione finanziaria» (slide 5, che cita il **D.Lgs. n. 6/2003**). Per il docente la società di leasing le **ammortizza** e iscrive i canoni ricevuti fra i **ricavi** del conto economico ([00:18:19]–[00:20:59]).
+**Opzione:** Nella voce B) Immobilizzazioni, con separata indicazione di quelle concesse in locazione finanziaria.
+**Distrattori:**
+- In nessuna voce dello stato patrimoniale, solo nei conti d'ordine della nota integrativa.
+- Nella voce B) Immobilizzazioni, insieme alle altre e senza alcuna separata indicazione.
+- Non le iscrive: le iscrive l'utilizzatore fra le proprie immobilizzazioni, con un debito verso la società di leasing.
+
+**D:** ⚠️ Che cosa iscrive il locatario nel proprio stato patrimoniale per un leasing finanziario, nei principi nazionali della lezione 05?
+**R:** «Nello stato patrimoniale del locatario: **nulla**, solo **conti d'ordine** nella **nota integrativa** (sistema degli impegni)» (slide 5). Per il docente nei conti d'ordine vanno gli impegni futuri, cioè le rate che mancano all'estinzione del contratto, e il costo della rata va solo nel **conto economico**, fra i costi ([00:18:19]–[00:20:59]).
+**Opzione:** Nulla: solo conti d'ordine nella nota integrativa, cioè il sistema degli impegni.
+**Distrattori:**
+- Il bene fra le immobilizzazioni, al costo sostenuto dalla società di leasing, e il debito verso la società di leasing.
+- Il bene fra le immobilizzazioni, con separata indicazione di quelli presi in locazione finanziaria.
+- Nulla: e l'operazione non va indicata nemmeno nella nota integrativa.
+
+**D:** ⚠️ Che cosa deve contenere la nota integrativa per un'operazione di leasing, nei principi nazionali della lezione 05?
+**R:** «Deve contenere **tutte le informazioni necessarie per poter riesporre l'operazione con il metodo finanziario**» (slide 5). Il docente non ne parla: ricorda solo i conti d'ordine per le rate che mancano ([00:18:19]).
+**Opzione:** Tutte le informazioni necessarie per poter riesporre l'operazione con il metodo finanziario.
+**Distrattori:**
+- Tutte le informazioni necessarie per poter riesporre l'operazione con il metodo patrimoniale.
+- Le sole rate ancora da pagare, senza altre informazioni sull'operazione.
+- Il prospetto delle variazioni del patrimonio netto generate dal contratto.
+
+**D:** ⚠️ Quali sono le quattro caratteristiche del leasing finanziario elencate nella lezione 05?
+**R:** «a) **Trasferimento della proprietà al termine del contratto**; b) All'inizio del leasing, il **valore attuale dei pagamenti minimi** del leasing equivale al **fair value** del bene locato; c) Il locatario ha l'**opzione di acquisto** ad un prezzo **inferiore al fair value** alla data in cui si può esercitare l'opzione, per cui è probabile che il bene verrà acquistato; d) Le **perdite derivanti dalla risoluzione** del contratto gravano sul **locatario**» (slide 7).
+**Opzione:** Trasferimento della proprietà al termine del contratto; valore attuale dei pagamenti minimi pari al fair value del bene locato; opzione di acquisto a un prezzo inferiore al fair value; perdite da risoluzione del contratto a carico del locatario.
+**Distrattori:**
+- Trasferimento della proprietà al termine del contratto; valore attuale dei pagamenti minimi pari al fair value del bene locato; opzione di acquisto a un prezzo inferiore al fair value; perdite da risoluzione del contratto a carico del locatore.
+- Trasferimento della proprietà all'inizio del contratto; valore attuale dei pagamenti minimi pari al fair value del bene locato; opzione di acquisto a un prezzo superiore al fair value; perdite da risoluzione del contratto a carico del locatario.
+- Normale operazione di locazione; due soggetti; mancanza di trasferimento dei rischi e dei benefici connessi al bene.
+
+**D:** ⚠️ All'inizio di un leasing finanziario, a che cosa equivale il valore attuale dei pagamenti minimi del leasing, secondo la lezione 05?
+**R:** «Al **fair value** del bene locato» (slide 7, lettera b). Il docente parla dei «pagamenti del leasing», senza «minimi», e del «valore reale o al valore di mercato, cosiddetto fair value» ([00:20:59]).
+**Opzione:** Al fair value del bene locato.
+**Distrattori:**
+- Al prezzo dell'opzione di acquisto.
+- Al valore del bene al termine del contratto.
+- Alla somma delle perdite derivanti dalla risoluzione del contratto.
+
+**D:** ⚠️ A quale prezzo il locatario di un leasing finanziario ha l'opzione di acquisto, e che cosa ne consegue, secondo la lezione 05?
+**R:** «Ad un prezzo **inferiore al fair value** alla data in cui si può esercitare l'opzione, per cui è **probabile** che il bene verrà acquistato» (slide 7, lettera c). Per il docente l'opzione si esercita alla conclusione del pagamento dell'ultima rata ([00:20:59]).
+**Opzione:** A un prezzo inferiore al fair value alla data di esercizio, per cui è probabile che il bene verrà acquistato.
+**Distrattori:**
+- A un prezzo superiore al fair value alla data di esercizio, per cui è improbabile che il bene verrà acquistato.
+- A un prezzo pari al fair value alla data di esercizio, per cui l'acquisto è indifferente.
+- A un prezzo inferiore al fair value alla data di esercizio, per cui il bene resta sempre al locatore.
+
+**D:** ⚠️ Su chi gravano le perdite derivanti dalla risoluzione di un contratto di leasing finanziario, secondo la lezione 05?
+**R:** Sul **locatario** (slide 7, lettera d). Il docente aggiunge «**sempre**» ([00:20:59]), parola che la slide non ha.
+**Opzione:** Sul locatario.
+**Distrattori:**
+- Sul locatore.
+- Sul venditore del bene.
+- Secondo la volontà delle parti.
+
+**D:** ⚠️ Nel leasing finanziario, quando passa all'utilizzatore la proprietà del bene e che ne è dei rischi e dei benefici, secondo la lezione 05?
+**R:** La **proprietà** passa **al termine del contratto** (slide 7, lettera a). Il **trasferimento dei rischi e dei benefici** connessi al bene è invece il tratto che definisce il leasing finanziario (slide 4): le perdite da risoluzione gravano già sul locatario (lettera d), e per il test il trasferimento avviene «**sempre**» (domanda 3). Il distrattore «solo dopo un anno» gioca sulla confusione fra le due cose: nelle slide non c'è alcuna scadenza per i rischi.
+**Opzione:** La proprietà al termine del contratto; i rischi e i benefici sono trasferiti all'utilizzatore come tratto proprio del leasing finanziario.
+**Distrattori:**
+- La proprietà all'inizio del contratto; i rischi e i benefici solo dopo un anno.
+- La proprietà al termine del contratto; i rischi e i benefici restano al locatore.
+- La proprietà e i rischi insieme, solo al termine del contratto.
+
+**D:** ⚠️ Che cosa iscrive l'utilizzatore nello stato patrimoniale per un leasing finanziario contabilizzato con il metodo finanziario, secondo la lezione 05?
+**R:** «Tra le **Immobilizzazioni** valore del bene **al costo sostenuto dalla società di leasing**; **Non ci sono conti d'ordine**; **Debito v./ società di leasing**» (slide 8). Per il docente è come acquistare un immobile con un **mutuo** bancario: il bene nell'attivo, il debito dello stesso ammontare nel passivo ([00:22:49]).
+**Opzione:** Il bene fra le immobilizzazioni, al costo sostenuto dalla società di leasing, e il debito verso la società di leasing; non ci sono conti d'ordine.
+**Distrattori:**
+- Nulla: solo conti d'ordine nella nota integrativa, cioè il sistema degli impegni.
+- Il bene fra le immobilizzazioni, al costo sostenuto dalla società di leasing, e i conti d'ordine per le rate future, senza alcun debito.
+- Il bene fra le immobilizzazioni, al fair value alla data di esercizio dell'opzione, e un credito verso la società di leasing.
+
+**D:** ⚠️ Che cosa iscrive l'utilizzatore nel conto economico per un leasing finanziario con il metodo finanziario dello IAS 17, e che cosa nei principi nazionali, secondo la lezione 05?
+**R:** Con il **metodo finanziario** l'**ammortamento del costo** e gli **oneri finanziari** (slide 8); per il docente la quota di ammortamento per gli anni di durata del leasing e gli oneri finanziari contenuti nelle singole rate ([00:22:49]). Nei **principi nazionali**, dove il locatario non iscrive nulla nello stato patrimoniale, il **costo della rata** di leasing, fra i costi ([00:18:19]).
+**Opzione:** Metodo finanziario: l'ammortamento del costo e gli oneri finanziari; principi nazionali: il costo della rata di leasing.
+**Distrattori:**
+- Metodo finanziario: il costo della rata di leasing; principi nazionali: l'ammortamento del costo e gli oneri finanziari.
+- In entrambi i casi: l'ammortamento del costo e gli oneri finanziari.
+- Metodo finanziario: i canoni ricevuti fra i ricavi; principi nazionali: il costo della rata di leasing.
+
+**D:** ⚠️ Come trattano i principi contabili nazionali la capitalizzazione degli oneri finanziari, secondo la lezione 05?
+**R:** «I principi contabili nazionali ammettono **in via generalizzata** la capitalizzazione degli **interessi passivi sostenuti per finanziare l'acquisizione delle immobilizzazioni**» (slide 9). Per il docente «senza grandi restrizioni»: capitalizzare vuol dire aumentare il valore del bene iscritto nello stato patrimoniale degli interessi passivi sostenuti per l'acquisto ([00:24:03]).
+**Opzione:** La ammettono in via generalizzata, per gli interessi passivi sostenuti per finanziare l'acquisizione delle immobilizzazioni.
+**Distrattori:**
+- La ammettono solo quale trattamento contabile alternativo, e solo per i beni che richiedono un rilevante periodo di tempo prima di essere pronti per l'uso.
+- Non la ammettono mai: gli interessi passivi vanno sempre nel conto economico dell'esercizio.
+- La ammettono solo quando i beni vengono dismessi.
+
+**D:** ⚠️ Per quali beni lo IAS 16 ammette la capitalizzazione degli oneri finanziari, secondo la lezione 05?
+**R:** «**Solo** per quei beni che richiedono un **rilevante periodo di tempo prima di essere pronti per l'uso**», e «**solo** quale trattamento contabile **alternativo**» (slide 9). Per il docente serve un periodo «abbastanza lungo» fra l'acquisto e l'entrata del bene nel ciclo produttivo; se il bene entra subito nel ciclo produttivo la capitalizzazione non è ammessa ([00:26:01]).
+**Opzione:** Solo per quei beni che richiedono un rilevante periodo di tempo prima di essere pronti per l'uso.
+**Distrattori:**
+- Per i beni che al momento dell'acquisto sono già pronti per l'uso.
+- Per i normali investimenti di rinnovo.
+- Per tutti i beni, in via generalizzata.
+
+**D:** ⚠️ Quali casi non giustificano la capitalizzazione degli oneri finanziari nei principi contabili internazionali, secondo la lezione 05?
+**R:** «I normali **investimenti di rinnovo**, non giustificano la capitalizzazione, come i **beni che al momento dell'acquisto sono pronti per l'uso**» (slide 10). Per il docente i beni rinnovati entrano subito nel ciclo produttivo, e allora non ha senso iscrivere anche gli oneri finanziari ([00:26:01]).
+**Opzione:** I normali investimenti di rinnovo e i beni che al momento dell'acquisto sono pronti per l'uso.
+**Distrattori:**
+- I beni che richiedono un rilevante periodo di tempo prima di essere pronti per l'uso.
+- I normali investimenti di rinnovo, ma non i beni pronti per l'uso al momento dell'acquisto.
+- I soli beni acquisiti in leasing finanziario.
+
+**D:** ⚠️ Perché il tema della capitalizzazione degli oneri finanziari è delicato, secondo la lezione 05?
+**R:** «Perché consente di **evitare l'iscrizione a C.E. di oneri di competenza dell'esercizio** attraverso il loro inserimento fra le **attività di S.P.**, prestandosi a **politiche di bilancio** volte a **migliorare la performance aziendale artificiosamente**» (slide 10). Per il docente si toglie il costo dal conto economico e lo si aggiunge al valore dell'immobilizzazione, migliorando il risultato senza un miglioramento reale ([00:26:01]).
+**Opzione:** Perché consente di evitare l'iscrizione a conto economico di oneri di competenza dell'esercizio inserendoli fra le attività dello stato patrimoniale, prestandosi a politiche di bilancio volte a migliorare la performance artificiosamente.
+**Distrattori:**
+- Perché consente di evitare l'iscrizione a conto economico di oneri di competenza dell'esercizio inserendoli fra le passività dello stato patrimoniale, prestandosi a politiche di bilancio volte a migliorare la performance artificiosamente.
+- Perché obbliga a iscrivere a conto economico oneri di competenza di esercizi futuri, prestandosi a politiche di bilancio volte a peggiorare la performance.
+- Perché fa venir meno la prevalenza della sostanza sulla forma nella contabilizzazione del leasing.
+
+**D:** ⚠️ Come devono essere iscritte le immobilizzazioni materiali nel modello di bilancio redatto secondo i principi nazionali, secondo il test della lezione 05 (domanda 1)?
+**R:** «**Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente. Nel costo di acquisto si computano i costi accessori**», la slide 3 alla lettera. Distrattori del test: la stessa frase con «**non** si computano», che inserisce una negazione, e le due **restrizioni** «solo al costo di acquisto» e «solo al costo di produzione».
+**Opzione:** Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto si computano i costi accessori.
+**Distrattori:**
+- Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto non si computano i costi accessori.
+- Solo al costo di acquisto; nel costo di acquisto non si computano i costi accessori.
+- Solo al costo di produzione; nel costo di produzione si computano i costi accessori.
+
+**D:** ⚠️ Come devono essere iscritte le immobilizzazioni materiali nel modello di bilancio redatto secondo i principi internazionali, secondo il test della lezione 05 (domanda 2)?
+**R:** «**Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente. Nel costo di acquisto si computano i costi accessori, quelli di smantellamento rimozione e bonifica del luogo**». La slide 3 dice che per lo IAS 16 vanno valutate al costo e che vi sono incluse le spese stimate di smantellamento, rimozione e bonifica «nella misura in cui queste sono state rilevate come accantonamenti»: l'opzione del test tace questa condizione. «Acquisto o produzione» per lo IAS viene dal docente ([00:16:11]). Distrattori del test: la stessa frase con «**non** si computano», «solo al costo di acquisto», «solo al costo di produzione».
+**Opzione:** Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto si computano i costi accessori e quelli di smantellamento, rimozione e bonifica del luogo.
+**Distrattori:**
+- Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto non si computano i costi accessori, né quelli di smantellamento, rimozione e bonifica del luogo.
+- Solo al costo di acquisto; nel costo di acquisto non si computano i costi accessori.
+- Solo al costo di produzione; nel costo di produzione si computano i costi accessori.
+
+**D:** ⚠️ Nel leasing finanziario i rischi vengono trasferiti sull'utilizzatore, secondo il test della lezione 05 (domanda 3)?
+**R:** «**Sempre**»: il «trasferimento rischi e benefici connessi al bene» è il tratto che definisce il leasing finanziario (slide 4), e per il docente avviene «a favore dell'utilizzatore» ([00:18:19]). Distrattori del test: «mai», che è la chiave della domanda 4 sul leasing operativo, «secondo la volontà delle parti» e «solo dopo un anno», una condizione temporale che nelle slide non esiste. A passare al termine del contratto è la **proprietà**, non i rischi.
+**Opzione:** Sempre.
+**Distrattori:**
+- Mai.
+- Secondo la volontà delle parti.
+- Solo dopo un anno.
+
+**D:** ⚠️ Nel leasing operativo i rischi vengono trasferiti sull'utilizzatore, secondo il test della lezione 05 (domanda 4)?
+**R:** «**Mai**»: nello schema della slide 4 il leasing operativo è una normale operazione di locazione, con la «**mancanza** trasferimento rischi e benefici connessi al bene». ⚠️ Il docente dice che «non vi è una mancanza di trasferimento» ([00:18:19]): è un lapsus, vale la slide. Distrattori del test: le stesse opzioni della domanda 3, di cui «sempre» è la chiave.
+**Opzione:** Mai.
+**Distrattori:**
+- Sempre.
+- Secondo la volontà delle parti.
+- Solo dopo un anno.
+
+**D:** ⚠️ Come trattano i principi contabili internazionali la capitalizzazione degli oneri finanziari connessi all'acquisto di immobilizzazioni materiali, secondo il test della lezione 05 (domanda 5)?
+**R:** Lo IAS 16 «**ammette la capitalizzazione solo quale trattamento contabile alternativo, e solo per quei beni che richiedono un rilevante periodo di tempo prima di essere pronti per l'uso**», la slide 9 alla lettera. Distrattori del test: «sempre ammessa», vicina al modello **nazionale** («in via generalizzata»), «mai ammessa» e «solo quando i beni vengono dismessi», un momento che nelle slide non compare.
+**Opzione:** Ammette la capitalizzazione solo quale trattamento contabile alternativo, e solo per quei beni che richiedono un rilevante periodo di tempo prima di essere pronti per l'uso.
+**Distrattori:**
+- Sempre ammessa.
+- Mai ammessa.
+- Ammette la capitalizzazione solo quando i beni vengono dismessi.
