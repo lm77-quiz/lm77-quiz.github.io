@@ -3,6 +3,12 @@
   "_commento": "Generato da tools/quiz/esporta-pubblico.mjs: i soli esami con flashcard.",
   "exams": [
     {
+      "slug": "bilanci-degli-operatori-del-mercato-bancario-e-finanziario",
+      "nome": "I bilanci degli operatori del mercato bancario e finanziario",
+      "anno": 1,
+      "cfu": 12
+    },
+    {
       "slug": "management-e-finance",
       "nome": "Management e finance",
       "anno": 1,
