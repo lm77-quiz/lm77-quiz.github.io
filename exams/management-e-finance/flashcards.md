@@ -6119,3 +6119,248 @@
 - È vietata dalla legge.
 - Aumenta la liquidità dell'impresa.
 - Favorisce l'emissione di azioni ordinarie.
+
+## Lezione 25 — La teoria dell'ordine di scelta, La teoria del market timing, La determinazione della struttura finanziaria
+
+**D:** ⚠️ Su quali regole si basa la teoria dell'ordine di scelta (Pecking Order Theory) secondo la lezione 25?
+**R:** «Nella pratica si basa **principalmente su due regole**»: 1. «**usare il finanziamento interno**»; 2. «**emettere prima i titoli più sicuri**». L'ordine di scelta è quello delle **fonti di finanziamento**: prima l'interno, poi, in caso di necessità, i titoli più sicuri.
+**Opzione:** Principalmente su due regole: usare il finanziamento interno; emettere prima i titoli più sicuri.
+**Distrattori:**
+- Principalmente su due regole: usare il finanziamento interno; emettere prima i titoli più rischiosi.
+- Il differenziale tra valore di mercato e valore contabile.
+- Assenza di imposte; assenza di costi di transazione; individui e imprese si indebitano allo stesso tasso di interesse.
+
+**D:** ⚠️ Secondo la slide della lezione 25, con quale scetticismo gli investitori valutano il prezzo di emissione del debito rispetto a quello dell'equity, e che cosa ne segue per la prima regola dell'ordine di scelta?
+**R:** «Usare il finanziamento interno: gli investitori si ritroveranno a valutare il prezzo di emissione del debito **con lo stesso scetticismo** con cui valutano il prezzo di emissione dell'equity; non occorre preoccuparsi dello scetticismo dei finanziatori esterni quando è possibile **non rivolgersi a loro**». Il docente aggiunge che emettere azioni o debito sono «segnali di debolezza» per il mercato ([00:02:09]).
+**Opzione:** Con lo stesso scetticismo: non occorre preoccuparsene quando è possibile non rivolgersi ai finanziatori esterni.
+**Distrattori:**
+- Con meno scetticismo: conviene quindi rivolgersi subito ai finanziatori esterni con il debito.
+- Con più scetticismo: conviene quindi emettere l'equity prima del debito.
+- Con lo stesso scetticismo: conviene quindi emettere insieme debito ed equity.
+
+**D:** ⚠️ Come prosegue, nella slide della lezione 25, la seconda regola della teoria dell'ordine di scelta, «emettere prima i titoli più sicuri»?
+**R:** «In caso di necessità è meglio emettere il **debito prima dell'equity**. …E debito **«tradizionale» prima di titoli ibridi**». La coda sui titoli ibridi è solo sulla slide: il docente non la legge. La gerarchia completa è finanziamento interno, debito tradizionale, titoli ibridi, equity.
+**Opzione:** In caso di necessità è meglio emettere il debito prima dell'equity, e il debito tradizionale prima dei titoli ibridi.
+**Distrattori:**
+- In caso di necessità è meglio emettere il debito prima dell'equity, e i titoli ibridi prima del debito tradizionale.
+- In caso di necessità è meglio emettere l'equity prima del debito, e il debito tradizionale prima dei titoli ibridi.
+- In caso di necessità è meglio emettere l'equity prima del debito, e i titoli ibridi prima del debito tradizionale.
+
+**D:** Secondo il docente della lezione 25, perché il finanziamento interno viene prima dell'emissione di azioni o di titoli di debito?
+**R:** Perché collocare azioni o emettere debito sul mercato rappresenta «dei **segnali di debolezza**» che il mercato «potrebbe leggere come elementi di **rischiosità**»: l'impresa perde una parte del suo valore. Rivolgersi al mercato vuol dire esporsi alla valutazione dei terzi, da cui nasce un tasso, cioè il costo dell'onere finanziario o del dividendo ([00:02:09]–[00:03:32]).
+**Opzione:** Perché emettere azioni o debito è un segnale di debolezza, che il mercato può leggere come rischiosità facendo perdere all'impresa parte del suo valore.
+**Distrattori:**
+- Perché emettere azioni o debito è un segnale di forza, che il mercato può leggere come solidità facendo crescere il valore dell'impresa.
+- Perché nessuno di essi dà informazioni certe, e usarli tutti insieme dà una visione d'insieme.
+- Perché ragiona sui tassi: non più sul capitale e sulla disponibilità, ma sulla sua aleatorietà e variabilità nel tempo.
+
+**D:** Perché, secondo il docente della lezione 25, è meglio emettere il debito prima dell'equity?
+**R:** Sul debito l'impresa ha «elementi di **certezza**»: sulla possibilità di essere finanziata, sul **costo**, sui **tempi** e su ciò che accade dopo, perché estinto il debito il contratto è risolto e l'impresa torna libera di usare i flussi del progetto. Con l'equity si trova invece «un **nuovo azionista in casa**», che può non vendere quando il progetto finisce, o vendere durante il progetto se lo giudica troppo rischioso: se lo fanno in molti, si innesca «una **turbolenza** del valore del titolo» che non dipende dalla bontà del progetto ([00:03:32]–[00:05:37]).
+
+**D:** ⚠️ Quali sono le implicazioni della teoria dell'ordine di scelta elencate nella lezione 25?
+**R:** Tre, nell'ordine della slide: «**non esiste un ammontare target di leva finanziaria**» (contrariamente a quanto afferma la trade-off theory); «**le imprese redditizie usano meno debito**»; «**le imprese preferiscono una capacità finanziaria (liquidi) in eccesso**».
+**Opzione:** Non esiste un ammontare target di leva finanziaria; le imprese redditizie usano meno debito; le imprese preferiscono una capacità finanziaria (liquidi) in eccesso.
+**Distrattori:**
+- Non esiste un ammontare target di leva finanziaria; le imprese redditizie usano meno debito; le imprese preferiscono emettere azioni invece che accumulare liquidità.
+- Che il WACC di un'impresa è costante e non dipende dalla struttura finanziaria.
+- Il rapporto di indebitamento medio non raggiunge mai il 100%.
+
+**D:** ⚠️ Secondo la teoria dell'ordine di scelta esiste un ammontare target di leva finanziaria, e come si pone rispetto alla trade-off theory (lezione 25)?
+**R:** «**Non esiste** un ammontare target di leva finanziaria (**contrariamente** a quanto afferma la ***trade-off theory***)». È la trade-off theory a sostenere che un target esiste; e infatti le analisi empiriche dicono che i rapporti target osservati sono «in favore della trade-off theory».
+**Opzione:** No, contrariamente a quanto afferma la trade-off theory.
+**Distrattori:**
+- No, come afferma anche la trade-off theory.
+- Sì, come afferma anche la trade-off theory.
+- Sì, contrariamente a quanto afferma la trade-off theory.
+
+**D:** ⚠️ Da che cosa dipende l'ammontare di leva finanziaria secondo la teoria dell'ordine di scelta (lezione 25)?
+**R:** «La leva dipende dallo **specifico fabbisogno finanziario da coprire**. Così, l'ammontare di leva finanziaria dipende dalla **quantità di progetti disponibili** e dalla **fortuna che essi incontrano**». Non da un target, che per questa teoria non esiste.
+**Opzione:** Dallo specifico fabbisogno finanziario da coprire, cioè dalla quantità di progetti disponibili e dalla fortuna che essi incontrano.
+**Distrattori:**
+- Dallo specifico fabbisogno finanziario da coprire, cioè dalla quantità di debito disponibile e dal costo che esso comporta.
+- Il differenziale tra valore di mercato e valore contabile.
+- Il caso in cui non c'è abbastanza liquidità per investire in tutti i progetti che presentano un VAN positivo.
+
+**D:** ⚠️ Secondo la teoria dell'ordine di scelta, le imprese redditizie usano più o meno debito, e perché (lezione 25)?
+**R:** «Le imprese redditizie usano **meno** debito; esse hanno **meno bisogno di finanziamenti esterni**». Il docente: con un utile elevato l'impresa si autofinanzia e si espone meno alla leva ([00:07:15]–[00:07:53]). Le analisi empiriche vanno nella stessa direzione: le imprese senza debito «sono più profittevoli».
+**Opzione:** Meno debito, perché hanno meno bisogno di finanziamenti esterni.
+**Distrattori:**
+- Più debito, perché hanno più bisogno di finanziamenti esterni.
+- Meno debito, perché il debito ha un limite.
+- L'IR o il VAN incrementale, perché non si possono classificare i progetti in base al VAN.
+
+**D:** ⚠️ Perché, secondo la teoria dell'ordine di scelta, le imprese accumulano liquidità nel presente (lezione 25)?
+**R:** «Poiché le imprese sanno che dovranno **finanziare progetti redditizi nel futuro**, accumulano liquidità nel presente, così da **non dovere rivolgersi ai mercati dei capitali** quando emerge una buona opportunità di investimento». Per il docente questa liquidità, che l'impresa «non eroga», **penalizza gli azionisti** ([00:08:16]).
+**Opzione:** Perché sanno che dovranno finanziare progetti redditizi nel futuro, e così non dovranno rivolgersi ai mercati dei capitali quando emerge una buona opportunità di investimento.
+**Distrattori:**
+- Perché sanno che dovranno pagare dividendi elevati nel futuro, e così non dovranno ridurli quando emerge una buona opportunità di investimento.
+- Una proliferazione dei leverage, con azionisti che comprano a debito e un mercato meno efficiente: una logica più speculativa che strategica.
+- Perché può costruirsi un proprio leverage, comprando le azioni in parte a debito, e duplicare o rimuovere così gli effetti della leva scelta dall'impresa.
+
+**D:** ⚠️ Nella terza implicazione dell'ordine di scelta le imprese preferiscono la liquidità in eccesso invece che emettere azioni o debito. Che cosa dice la slide della lezione 25 di queste due alternative?
+**R:** Le **azioni** sono un «**segnale di sopravvalutazione** equity», il **debito** è un debito «**che ha un limite**». È lo stesso legame della teoria del market timing: le azioni si emettono quando sono sopravvalutate.
+**Opzione:** Le azioni sono un segnale di sopravvalutazione dell'equity; il debito ha un limite.
+**Distrattori:**
+- Le azioni sono un segnale di sottovalutazione dell'equity; il debito ha un limite.
+- Le azioni sono un segnale di sopravvalutazione dell'equity; il debito non ha limiti.
+- Le azioni sono un segnale di sottovalutazione dell'equity; il debito non ha limiti.
+
+**D:** ⚠️ Secondo la teoria del market timing, che cosa determina la struttura del capitale delle imprese (lezione 25)?
+**R:** «È invece il **differenziale tra valore di mercato e valore contabile** che determina la struttura del capitale delle imprese». L'«invece» la contrappone all'ordine di scelta, dove la leva dipende dal fabbisogno dei progetti. ⚠️ Il docente definisce il market timing «il tempo che il mercato ci mette per remunerare l'investimento» ([00:08:57]): vale la slide.
+**Opzione:** Il differenziale tra valore di mercato e valore contabile.
+**Distrattori:**
+- Il differenziale tra costo del capitale di terzi e costo del capitale proprio.
+- Il tempo che il mercato impiega per remunerare l'investimento.
+- Dallo specifico fabbisogno finanziario da coprire, cioè dalla quantità di progetti disponibili e dalla fortuna che essi incontrano.
+
+**D:** Secondo il docente della lezione 25, qual è l'assunto della teoria del market timing?
+**R:** «Il valore contabile si muove con una velocità **molto più lenta** rispetto al valore di mercato» ([00:09:27]). Il rapporto fra market value e book value indica quindi quanto il valore contabile sia davvero significativo rispetto al valore che i mercati danno al titolo.
+**Opzione:** Che il valore contabile si muove con una velocità molto più lenta rispetto al valore di mercato.
+**Distrattori:**
+- Che il valore di mercato si muove con una velocità molto più lenta rispetto al valore contabile.
+- Che il valore contabile e il valore di mercato si muovono con la stessa velocità.
+- Che il WACC di un'impresa è costante e non dipende dalla struttura finanziaria.
+
+**D:** ⚠️ Secondo la teoria del market timing, come si finanzia un'impresa che ha bisogno di fondi quando il suo rapporto tra valore di mercato e valore contabile è elevato (lezione 25)?
+**R:** L'azione «è **sopravvalutata**» e l'impresa «tende **maggiormente** a raccogliere **equity**». Con il rapporto basso l'azione è sottovalutata e il mezzo elettivo è «quasi sempre il debito». ⚠️ Il docente aggiunge «quindi a autofinanziarsi» ([00:13:35]): raccogliere equity sul mercato non è finanziamento interno.
+**Opzione:** L'azione è sopravvalutata, e l'impresa tende maggiormente a raccogliere equity.
+**Distrattori:**
+- L'azione è sottovalutata, e l'impresa tende maggiormente a raccogliere equity.
+- L'azione è sopravvalutata, e l'impresa tende maggiormente a ricorrere al debito.
+- L'azione è sopravvalutata, e l'impresa tende maggiormente ad autofinanziarsi.
+
+**D:** ⚠️ Secondo la slide della lezione 25, qual è il mezzo di finanziamento elettivo nei periodi in cui il rapporto tra valore di mercato e valore contabile è basso?
+**R:** «Nei periodi in cui il rapporto tra valore di mercato e valore contabile è **basso** (azione è **sottovalutata**), il mezzo di finanziamento elettivo è **quasi sempre il debito**». Attenzione al quantificatore: «quasi sempre», non «sempre».
+**Opzione:** Quasi sempre il debito, perché l'azione è sottovalutata.
+**Distrattori:**
+- Sempre il debito, perché l'azione è sottovalutata.
+- Quasi sempre il debito, perché l'azione è sopravvalutata.
+- Quasi sempre l'equity, perché l'azione è sottovalutata.
+
+**D:** Secondo il docente della lezione 25, che cosa accade a un'azione di prima emissione che il mercato ritiene sopravvalutata?
+**R:** In asta i compratori non la comprano e il prezzo scende fino al valore ritenuto dal mercato; la sopravvalutazione genera anche «una **mancanza di fiducia** del sistema nei confronti dei **valori scritti nel bilancio**» ([00:10:26]–[00:11:41]). Per il docente il prezzo di prima emissione non può essere molto distante dal valore contabile del capitale. ⚠️ Qui «sopravvalutata» vuol dire un prezzo d'emissione troppo alto rispetto al valore che il mercato dà all'impresa, non il rapporto fra valore di mercato e valore contabile della slide.
+**Opzione:** I compratori non la comprano e il prezzo scende fino al valore ritenuto dal mercato; ne nasce sfiducia verso i valori scritti nel bilancio.
+**Distrattori:**
+- I compratori la domandano in massa e il prezzo sale fino al valore ritenuto dal mercato; ne nascono operazioni speculative.
+- Al posto dei grandi industriali sono arrivati network di piccoli e medi industriali indebitati, e il debito ha poi messo in difficoltà la gestione industriale.
+- Consente di finanziare a debito la partecipazione, abbassando il capitale necessario per detenere il controllo.
+
+**D:** Secondo il docente della lezione 25, a che cosa porta emettere titoli sottovalutati?
+**R:** «Emettere titoli sottovalutati significa a un certo punto **alimentare operazioni speculative**» ([00:13:06]): i mercati rispondono «con una grande domanda», per comprare a poco e rivendere quando il valore sale. Per il docente la sottovalutazione nasce dai libri contabili costruiti a fini fiscali per contenere l'utile ([00:11:41]).
+**Opzione:** Ad alimentare operazioni speculative: i mercati rispondono con una grande domanda, per comprare a poco e rivendere quando il valore sale.
+**Distrattori:**
+- A una mancanza di fiducia del sistema nei confronti dei valori scritti nel bilancio, che fa scendere il prezzo.
+- Una proliferazione dei leverage, con azionisti che comprano a debito e un mercato meno efficiente: una logica più speculativa che strategica.
+- Vanno a beneficio degli azionisti se e solo se il valore dell'impresa aumenta.
+
+**D:** ⚠️ Che effetto prevede la teoria del market timing sulla struttura finanziaria (lezione 25)?
+**R:** «Un effetto **permanente** sulla struttura finanziaria che **non ha nulla a che vedere con i costi di fallimento o con le gerarchie**». I costi di fallimento rinviano alla trade-off theory, le gerarchie all'ordine di scelta.
+**Opzione:** Un effetto permanente, che non ha nulla a che vedere con i costi di fallimento o con le gerarchie.
+**Distrattori:**
+- Un effetto temporaneo, che non ha nulla a che vedere con i costi di fallimento o con le gerarchie.
+- Un effetto permanente, legato ai costi di fallimento e alle gerarchie delle fonti.
+- Un effetto temporaneo, legato ai costi di fallimento e alle gerarchie delle fonti.
+
+**D:** ⚠️ Secondo la teoria del market timing, come si comportano i manager quando decidono di raccogliere nuovo capitale (lezione 25)?
+**R:** «I manager **approfittano semplicemente delle condizioni di mercato** quando decidono di raccogliere nuovo capitale». Il docente: si finanziano sull'equity quando le azioni sono sopravvalutate, perché vendono a un prezzo più alto di quello reale, e con il debito quando sono sottovalutate ([00:14:35]–[00:15:21]).
+**Opzione:** Approfittano semplicemente delle condizioni di mercato.
+**Distrattori:**
+- Seguono la gerarchia delle fonti: prima il finanziamento interno, poi il debito, infine l'equity.
+- Puntano a un rapporto di indebitamento target, come i concorrenti del settore.
+- Mantengono costante il rapporto fra debito e capitale proprio, qualunque siano le condizioni di mercato.
+
+**D:** ⚠️ Secondo la lezione 25, gli studiosi di finanza aziendale arrivano a conclusioni unanimi sulla struttura finanziaria?
+**R:** No: la struttura finanziaria «è una fra le tante aree tematiche in cui le riflessioni degli studiosi di finanza aziendale **non approdano a conclusioni unanimi**. In effetti, è possibile rintracciare **sostenitori in ciascuno dei tre approcci** descritti nel presente capitolo (1. teoria del trade-off, 2. teoria dell'ordine di scelta e 3. teoria del market timing)».
+**Opzione:** No: è possibile rintracciare sostenitori in ciascuno dei tre approcci, la teoria del trade-off, dell'ordine di scelta e del market timing.
+**Distrattori:**
+- No: è possibile rintracciare sostenitori soltanto della teoria del trade-off e di quella del market timing.
+- Dimostra che in un mondo privo di imposte il valore dell'impresa non è influenzato dal rapporto debito-equity.
+- Vanno a beneficio degli azionisti se e solo se il valore dell'impresa aumenta.
+
+**D:** ⚠️ Come giudica la slide della lezione 25 le tre teorie (trade-off, pecking order, market timing) per la determinazione della struttura finanziaria ottimale?
+**R:** «Le tre teorie presentate (trade-off, pecking order, market timing) per la determinazione della struttura finanziaria ottimale che le imprese dovrebbero adottare **risultano alquanto vaghe**». Per questo la slide passa alle analisi empiriche.
+**Opzione:** Risultano alquanto vaghe.
+**Distrattori:**
+- Risultano alquanto precise.
+- Risultano equivalenti, perché indicano lo stesso rapporto ottimale.
+- Risultano smentite tutte e tre dalle analisi empiriche.
+
+**D:** ⚠️ Che cosa hanno mostrato le analisi empiriche sulla struttura del passivo, secondo la lezione 25?
+**R:** Quattro evidenze, nell'ordine delle slide: 1. «la maggior parte delle società ha **bassi** rapporti di indebitamento»; 2. «alcune società **non** fanno ricorso al debito»; 3. «le differenze nelle strutture finanziarie riflettono i differenti **settori** in cui operano le imprese»; 4. «la maggior parte delle società fa riferimento a rapporti di indebitamento **target**».
+**Opzione:** La maggior parte delle società ha bassi rapporti di indebitamento; alcune società non fanno ricorso al debito; le differenze nelle strutture finanziarie riflettono i differenti settori in cui operano le imprese; la maggior parte delle società fa riferimento a rapporti di indebitamento target.
+**Distrattori:**
+- La maggior parte delle società ha bassi rapporti di indebitamento; alcune società non fanno ricorso al debito; le differenze nelle strutture finanziarie riflettono i differenti settori in cui operano le imprese; non esiste un ammontare target di leva finanziaria.
+- Non esiste un ammontare target di leva finanziaria; le imprese redditizie usano meno debito; le imprese preferiscono una capacità finanziaria (liquidi) in eccesso.
+- V_L = V_U: il valore dell'impresa levered è uguale al valore dell'impresa unlevered.
+
+**D:** ⚠️ Quanto debito è utilizzato nel mondo reale, secondo la slide della lezione 25?
+**R:** «Il rapporto di indebitamento medio **non raggiunge mai il 100%**». È il commento alla prima evidenza empirica, «la maggior parte delle società ha bassi rapporti di indebitamento». Qui il «mai» è nella slide.
+**Opzione:** Il rapporto di indebitamento medio non raggiunge mai il 100%.
+**Distrattori:**
+- Il rapporto di indebitamento medio supera quasi sempre il 100%.
+- Il rapporto di indebitamento medio non scende mai sotto il 100%.
+- Il rapporto di indebitamento medio raggiunge il 100% solo nei settori ad alta crescita.
+
+**D:** ⚠️ Che caratteristiche hanno le imprese che non fanno ricorso al debito, secondo le analisi empiriche della lezione 25?
+**R:** «Queste imprese pagano **dividendi più elevati**, sono **più profittevoli**, pagano **più tasse**, emettono **meno equity** e hanno **maggiori disponibilità liquide**. Sono solitamente imprese **meno diversificate** e con maggior controllo proprietario di tipo **familiare**». ⚠️ Il docente dice che riducono gli utili «in modo da non esporsi alle tasse» ([00:16:44]): vale la slide, pagano più tasse.
+**Opzione:** Pagano dividendi più elevati, sono più profittevoli, pagano più tasse, emettono meno equity e hanno maggiori disponibilità liquide; sono solitamente meno diversificate e con maggior controllo proprietario di tipo familiare.
+**Distrattori:**
+- Pagano dividendi più elevati, sono più profittevoli, pagano meno tasse, emettono meno equity e hanno maggiori disponibilità liquide; sono solitamente meno diversificate e con maggior controllo proprietario di tipo familiare.
+- Il caso in cui non c'è abbastanza liquidità per investire in tutti i progetti che presentano un VAN positivo.
+- La I riguarda il valore dell'impresa, che non dipende dalla struttura finanziaria; la II il costo dell'equity, che cresce con il rapporto debito-equity.
+
+**D:** ⚠️ Che tipo di imprese sono solitamente quelle che non fanno ricorso al debito (lezione 25)?
+**R:** «Sono solitamente imprese **meno diversificate** e con **maggior controllo proprietario di tipo familiare**». Il docente vi lega il limite di molte PMI italiane, che vedevano nell'ingresso di nuovi soci un ostacolo alla governance ([00:18:33]).
+**Opzione:** Imprese meno diversificate e con maggior controllo proprietario di tipo familiare.
+**Distrattori:**
+- Imprese più diversificate e con maggior controllo proprietario di tipo familiare.
+- Imprese meno diversificate e a proprietà diffusa.
+- Imprese più diversificate e a proprietà diffusa.
+
+**D:** Per il docente della lezione 25, avere bassi rapporti di indebitamento è sempre un dato positivo?
+**R:** No. Il capitale proprio è un elemento di solidità, che per il docente abbassa il costo medio ponderato del capitale ed esprime forza verso il mercato, ma **limita le prospettive di investimento**: nessuna impresa può finanziare senza debito un vero progetto strategico, che nelle grandi corporation richiede una partnership finanziaria o di capitale. È più verosimile «un **equilibrato rapporto di indebitamento** che l'aiuti a crescere» ([00:17:15]–[00:18:33]). ⚠️ Che il capitale proprio abbassi il WACC lo dice il docente: per Modigliani e Miller, senza imposte, il WACC è costante (lezione 24).
+**Opzione:** No: dà solidità, ma limita le prospettive di investimento; è più verosimile un equilibrato rapporto di indebitamento che aiuti l'impresa a crescere.
+**Distrattori:**
+- Sì: dà solidità, e un'impresa grande e robusta può finanziare anche i progetti strategici senza ricorrere al debito.
+- Al posto dei grandi industriali sono arrivati network di piccoli e medi industriali indebitati, e il debito ha poi messo in difficoltà la gestione industriale.
+- È un rendimento deciso internamente, sulla base degli obiettivi di redditività che l'impresa si vuole dare.
+
+**D:** ⚠️ Come variano i rapporti debito-attività fra i settori, secondo le analisi empiriche della lezione 25?
+**R:** «I rapporti debito-attività tendono a essere **bassi** nei settori **ad alta crescita** con ampie opportunità future di investimento (come i settori **farmaceutico e tecnologico**). I settori con **grandi investimenti in attività tangibili** (come quello **immobiliare**) tendono invece ad avere **alti** rapporti di indebitamento».
+**Opzione:** Tendono a essere bassi nei settori ad alta crescita con ampie opportunità future di investimento, come il farmaceutico e il tecnologico; i settori con grandi investimenti in attività tangibili, come l'immobiliare, tendono invece ad avere alti rapporti di indebitamento.
+**Distrattori:**
+- Tendono a essere bassi nei settori con grandi investimenti in attività tangibili, come l'immobiliare; i settori ad alta crescita con ampie opportunità future di investimento, come il farmaceutico e il tecnologico, tendono invece ad avere alti rapporti di indebitamento.
+- Che la struttura finanziaria influenzi il costo medio del capitale: per Modigliani e Miller il livello di indebitamento non lo influenza.
+- Il costo del capitale azionario aumenta all'aumentare della leva finanziaria, perché il rischio connesso all'equity aumenta con la leva finanziaria.
+
+**D:** ⚠️ Quali settori indica la lezione 25 come esempi di bassi rapporti debito-attività?
+**R:** «I settori **farmaceutico e tecnologico**», ad alta crescita e con ampie opportunità future di investimento. L'**immobiliare**, con grandi investimenti in attività tangibili, è l'esempio opposto: alti rapporti di indebitamento.
+**Opzione:** Il farmaceutico e il tecnologico.
+**Distrattori:**
+- L'immobiliare.
+- Il farmaceutico e l'immobiliare.
+- Il tecnologico e l'immobiliare.
+
+**D:** ⚠️ Secondo la slide della lezione 25, il fatto che la maggior parte delle società faccia riferimento a rapporti di indebitamento target va a favore o contro la trade-off theory?
+**R:** «Per cui, tale affermazione sarebbe **in favore della trade-off theory**». ⚠️ Il docente dice il contrario, che la trade-off theory «sarebbe **negata** da questa evidenza» ([00:22:22]): vale la slide, coerente con l'altra slide della lezione per cui è proprio la trade-off theory ad affermare che un target esiste.
+**Opzione:** In favore della trade-off theory.
+**Distrattori:**
+- Contro la trade-off theory, che ne sarebbe negata.
+- In favore della teoria dell'ordine di scelta.
+- In favore della teoria del market timing.
+
+**D:** Per il docente della lezione 25, l'idea che le strutture finanziarie riflettano i settori vale ancora?
+**R:** Vale «soprattutto per il **passato**»: è il paradigma «struttura performance» che guidava la pianificazione dei grandi gruppi a fine Novecento. Oggi i confini dei settori si perdono per la trasversalità delle tecnologie e la mobilità dei capitali, e arrivano «concorrenti anomali» con strutture di leverage diverse. Regge ancora dove servono **forti investimenti**, come le grandi infrastrutture ([00:20:01]–[00:22:13]).
+**Opzione:** Soprattutto per il passato: i confini dei settori si perdono, ma regge ancora dove servono forti investimenti, come le grandi infrastrutture.
+**Distrattori:**
+- Sempre di più: con la mobilità dei capitali su scala globale i concorrenti di un settore adottano strutture di leverage sempre più simili.
+- Soggettivo: si ricava dalle previsioni di chi valuta su flussi di cassa, numero di periodi e rischio, non dal mercato.
+- No: è una valutazione ex post, costruita sulla storia dei bilanci, che si può proiettare nel futuro senza scontare il tempo.
+
+**D:** Secondo il docente della lezione 25, da dove nascono i rapporti di indebitamento target a cui fanno riferimento le imprese?
+**R:** Più che da una valutazione **ex post** di un processo svolto negli anni, da «un comportamento tipico delle imprese che affrontano **scelte rischiose**»: l'impresa si guarda intorno e **copia i concorrenti**, e la prima scelta copiata è quella di **leverage**. Se il progetto è vincente, quella leva viene copiata ancora e diventa «un **leverage di industry**». I target possono essere di settore, di area geografica o di mercato ([00:22:13]–[00:23:42]).
+**Opzione:** Dall'imitazione: chi affronta una scelta rischiosa copia la leva dei concorrenti, e quella dei progetti vincenti diventa un leverage di industry.
+**Distrattori:**
+- Da una valutazione ex post: l'impresa ricava dalla propria storia il rapporto fra debito e capitale proprio che ha dato i risultati migliori.
+- Attraverso l'homemade leverage gli individui possono duplicare o rimuovere gli effetti della leva finanziaria approntata dall'impresa.
+- È un rendimento deciso internamente, sulla base degli obiettivi di redditività che l'impresa si vuole dare.
