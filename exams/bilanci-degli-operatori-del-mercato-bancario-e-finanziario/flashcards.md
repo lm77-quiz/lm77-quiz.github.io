@@ -1290,3 +1290,245 @@
 - Sempre ammessa.
 - Mai ammessa.
 - Ammette la capitalizzazione solo quando i beni vengono dismessi.
+
+## Lezione 06 — Le variazioni di valore delle immobilizzazioni materiali
+
+**D:** ⚠️ A quale condizione le spese incrementative possono essere portate a incremento del valore del cespite nei principi nazionali, secondo la lezione 06?
+**R:** «Tali spese, denominate spese di manutenzione e riparazione straordinaria possono essere portate a incremento del valore del cespite **solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile**» (slide 2). Le tre alternative sono legate da «o»: ne basta una. Il docente dice «la capacità **e** la produttività o la vita utile» ([00:01:26]): vale la slide.
+**Opzione:** Solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile.
+**Distrattori:**
+- Solo se si traducono in un aumento significativo, anche se non misurabile, di capacità o di produttività o di vita utile.
+- Solo se si riflettono in un potenziamento dei benefici futuri ritraibili dal bene rispetto a quelli programmati.
+- Solo se sono di importo superiore a quello delle spese di manutenzione ordinaria dell'esercizio.
+
+**D:** ⚠️ Come sono denominate le spese incrementative nei principi nazionali, e dove va una spesa che non produce un aumento significativo e misurabile, secondo la lezione 06?
+**R:** Sono le «spese di **manutenzione e riparazione straordinaria**» (slide 2); il docente vi aggiunge l'**ammodernamento** ([00:00:06]). Se manca l'aumento significativo, e soprattutto la sua **misurabilità**, la spesa è di **manutenzione ordinaria** e va nel **conto economico**, non ad aumento del valore dell'immobilizzazione ([00:01:26]).
+**Opzione:** Spese di manutenzione e riparazione straordinaria; senza l'aumento significativo e misurabile la spesa è manutenzione ordinaria e va nel conto economico.
+**Distrattori:**
+- Spese di manutenzione e riparazione ordinaria; senza l'aumento significativo e misurabile la spesa va comunque a incremento del cespite.
+- Spese di manutenzione e riparazione straordinaria; senza l'aumento significativo e misurabile la spesa va alla riserva di rivalutazione.
+- Spese di smantellamento, rimozione e bonifica; senza l'aumento significativo e misurabile la spesa va fra gli oneri finanziari.
+
+**D:** ⚠️ Quando può essere capitalizzata una spesa successiva all'acquisto di un'immobilizzazione materiale nei principi internazionali, secondo la lezione 06?
+**R:** «Solo qualora si rifletta in un **potenziamento dei benefici futuri** ritraibili dal bene **rispetto a quelli programmati**» (slide 2). L'esempio del docente: un impianto programmato per 60 unità all'ora e potenziato a 70 assicura ricavi superiori a quelli programmati, ma il beneficio va **dimostrato** con dati rilevati durante la produzione, non solo ipotizzato ([00:03:48]–[00:05:21]).
+**Opzione:** Solo qualora si rifletta in un potenziamento dei benefici futuri ritraibili dal bene rispetto a quelli programmati.
+**Distrattori:**
+- Solo qualora si rifletta in un potenziamento dei benefici futuri ritraibili dal bene rispetto a quelli dell'esercizio precedente.
+- Solo qualora sia prevista da una specifica disposizione legislativa.
+- Sempre, purché il bene sia ancora in uso alla chiusura dell'esercizio.
+
+**D:** Che cosa distingue la disciplina nazionale da quella internazionale delle spese incrementative, secondo il docente della lezione 06?
+**R:** Non si distaccano molto. I principi internazionali sono **più generici**: parlano di benefici futuri rispetto a quelli programmati, senza dire di che natura. Quelli nazionali sono **più specifici**: nominano la maggiore **capacità**, **produttività** o **vita utile** del bene ([00:05:21]–[00:06:38]).
+**Opzione:** I principi internazionali sono più generici, perché parlano di benefici futuri senza specificarne la natura; quelli nazionali sono più specifici, perché nominano capacità, produttività o vita utile.
+**Distrattori:**
+- I principi nazionali sono più generici, perché parlano di benefici futuri senza specificarne la natura; quelli internazionali sono più specifici, perché nominano capacità, produttività o vita utile.
+- I principi internazionali non ammettono mai la capitalizzazione delle spese successive all'acquisto.
+- I principi nazionali richiedono una legge di rivalutazione, quelli internazionali no.
+
+**D:** ⚠️ Quando possono essere rivalutate le immobilizzazioni nei principi nazionali, e che ruolo ha il costo storico, secondo la lezione 06?
+**R:** «La normativa civilistica è fortemente ancorata al criterio del **costo storico** che rappresenta il **limite massimo** di iscrizione delle immobilizzazioni. Queste possono essere oggetto di rivalutazione **solo nei casi in cui specifiche disposizioni legislative lo prevedano**» (slide 3). Per il docente «ogni certo numero di anni il Parlamento italiano emana una legge» che consente di rivalutare, e stabilisce quali beni e con quali modalità ([00:08:16]).
+**Opzione:** Il costo storico è il limite massimo di iscrizione, e si può rivalutare solo nei casi in cui specifiche disposizioni legislative lo prevedano.
+**Distrattori:**
+- Il costo storico è il limite minimo di iscrizione, e si può rivalutare liberamente fino al fair value.
+- Il costo storico è il limite massimo di iscrizione, e si può rivalutare solo se lo delibera l'assemblea dei soci.
+- Il costo storico è il trattamento di riferimento, e la rivalutazione al fair value è ammessa come criterio alternativo.
+
+**D:** ⚠️ Come tratta lo IAS 16 la rivalutazione delle immobilizzazioni materiali, secondo la lezione 06?
+**R:** «Lo IAS n.16 pur indicando quale **trattamento contabile di riferimento** quello del **costo**, accetta, quale **criterio alternativo** la possibilità di procedere alla rivalutazione del costo storico **sino al fair value**, **al netto degli ammortamenti**» (slide 3). Per il docente il costo vale «in prima approssimazione» per l'iscrizione iniziale; la rivalutazione riguarda i valori dei bilanci successivi ([00:09:45]–[00:10:12]). Il docente non dice «al netto degli ammortamenti».
+**Opzione:** Indica il costo come trattamento contabile di riferimento e accetta come criterio alternativo la rivalutazione del costo storico sino al fair value, al netto degli ammortamenti.
+**Distrattori:**
+- Indica la rivalutazione al fair value come trattamento contabile di riferimento e accetta il costo come criterio alternativo.
+- Indica il costo come trattamento contabile di riferimento e accetta come criterio alternativo la rivalutazione del costo storico oltre il fair value.
+- Indica il costo come unico trattamento ammesso, salvo specifiche disposizioni legislative.
+
+**D:** Che cos'è il fair value, secondo il docente della lezione 06?
+**R:** È il **valore corrente**: il valore a cui il bene «si scambierebbe fra **due parti indipendenti**» in quello stato di mercato e in quello stato d'uso, secondo le regole proprie di quel mercato. È il valore a cui si potrebbe vendere il bene in quel momento e in quel mercato ([00:10:12]–[00:10:43]). Le slide non lo definiscono.
+**Opzione:** Il valore corrente, cioè il valore a cui il bene si scambierebbe fra due parti indipendenti, in quello stato di mercato e d'uso.
+**Distrattori:**
+- Il costo storico, cioè il costo di acquisto del bene al netto degli ammortamenti.
+- Il valore attuale dei flussi finanziari netti che il bene genererà in futuro.
+- Il valore fissato da una specifica legge di rivalutazione.
+
+**D:** Da che cosa dipende la frequenza dell'aggiornamento del valore, quando si applica la rivalutazione dello IAS 16, secondo la lezione 06?
+**R:** «La frequenza dell'aggiornamento del valore dipende dalle **oscillazioni dei relativi valori correnti**» (slide 4). L'opzione della rivalutazione determina il passaggio a un sistema fondato sui **valori correnti**, «costantemente aggiornato con rivalutazioni periodiche dei cespiti». Per il docente a ogni chiusura d'esercizio il valore corrente va rideterminato, su elementi il più possibile oggettivi ([00:12:15]–[00:15:01]).
+**Opzione:** Dalle oscillazioni dei relativi valori correnti.
+**Distrattori:**
+- Dalla durata del processo di ammortamento.
+- Dalle leggi di rivalutazione emanate dal Parlamento.
+- Dall'andamento dell'inflazione.
+
+**D:** ⚠️ Quali sono i parametri di stima del fair value per terreni e fabbricati e per impianti e macchinari, secondo la lezione 06?
+**R:** «a) Per **terreni e fabbricati** il **prezzo di mercato**; b) La stesso vale per **impianti e macchinari** dove esista un valore di mercato; in caso contrario il valore corrente è dato dal **costo di sostituzione ammortizzato**» (slide 4). Il docente dice «costo di sostituzione del bene stesso», senza «ammortizzato» ([00:15:01]).
+**Opzione:** Terreni e fabbricati: il prezzo di mercato; impianti e macchinari: il valore di mercato, se esiste, altrimenti il costo di sostituzione ammortizzato.
+**Distrattori:**
+- Terreni e fabbricati: il costo di sostituzione ammortizzato; impianti e macchinari: il prezzo di mercato, se esiste, altrimenti il costo storico.
+- Terreni e fabbricati: il prezzo di mercato; impianti e macchinari: il valore di mercato, se esiste, altrimenti il costo storico di acquisto.
+- Per tutti i beni: il valore attuale dei flussi finanziari netti futuri.
+
+**D:** ⚠️ Che cosa dice la lezione 06 sull'estensione della rivalutazione IAS: deve riguardare il singolo cespite o qualcosa di più ampio?
+**R:** «In ordine alle modalità di rivalutazione, questa deve riguardare **l'intera classe di beni cui il cespite appartiene**» (slide 5). L'esempio del docente: chi valuta un fabbricato al valore corrente deve valutare così **tutti** i fabbricati dell'impresa, e non può valutarne alcuni al costo storico ([00:15:57]). ⚠️ A [00:12:44] il docente usa «classe» per tutte le immobilizzazioni materiali e «tipologia» per i fabbricati: la classe della slide è la categoria di beni.
+**Opzione:** L'intera classe di beni cui il cespite appartiene.
+**Distrattori:**
+- Il singolo cespite, scelto dal redattore del bilancio.
+- Tutte le immobilizzazioni materiali dell'impresa, di qualunque categoria.
+- I soli cespiti il cui valore corrente è aumentato nell'esercizio.
+
+**D:** ⚠️ Dove va il maggior valore attribuito ai cespiti con la rivalutazione IAS, e in quale caso va invece fra i ricavi, secondo la lezione 06?
+**R:** Va «imputato a **P.N.** come "**riserva di rivalutazione**"». «Solo nel caso in cui la rivalutazione rappresenti un **ripristino di valore** successivo ad una precedente **svalutazione** è prevista la sua contabilizzazione come **ricavo**» (slide 5). L'esempio del docente: un fabbricato acquistato a 100 e valutato 130; i 30 in più vanno nella riserva di rivalutazione ([00:16:49]–[00:17:42]).
+**Opzione:** A patrimonio netto come riserva di rivalutazione; fra i ricavi solo se la rivalutazione è un ripristino di valore dopo una precedente svalutazione.
+**Distrattori:**
+- Fra i ricavi del conto economico; a riserva di rivalutazione solo se è un ripristino di valore dopo una precedente svalutazione.
+- A patrimonio netto come riserva legale; fra i ricavi solo se il bene viene venduto.
+- A patrimonio netto come riserva di rivalutazione, in ogni caso, anche per il ripristino di valore.
+
+**D:** ⚠️ Nei principi internazionali, dove va un aumento di valore in questi tre casi: rivalutazione di un'immobilizzazione materiale, ripristino di valore dopo una svalutazione, variazione di fair value di un investimento immobiliare?
+**R:** La **rivalutazione** di un'immobilizzazione materiale va alla **riserva di rivalutazione** del patrimonio netto (slide 5). Il **ripristino di valore** va fra i **ricavi** (slide 5). Le variazioni di valore degli **investimenti immobiliari** vanno a **conto economico** (slide 10). Per il docente è «la principale differenza» fra investimenti immobiliari e immobilizzazioni strumentali ([00:27:18]). È la trappola della domanda 3 del test.
+**Opzione:** Rivalutazione: riserva di rivalutazione; ripristino di valore: ricavo; investimento immobiliare: conto economico.
+**Distrattori:**
+- Rivalutazione: conto economico; ripristino di valore: riserva di rivalutazione; investimento immobiliare: riserva di rivalutazione.
+- In tutti e tre i casi: riserva di rivalutazione.
+- Rivalutazione: riserva di rivalutazione; ripristino di valore: riserva di rivalutazione; investimento immobiliare: riserva legale.
+
+**D:** ⚠️ Quando diventa distribuibile la riserva di rivalutazione, secondo la lezione 06?
+**R:** «La riserva di rivalutazione diviene distribuibile **solo quando il relativo saldo viene realizzato**» (slide 6). Per il docente è distribuibile ai soci, nelle società di capitali, quando il valore è effettivamente conseguito: con la vendita del bene o anno per anno con l'ammortamento ([00:17:42]).
+**Opzione:** Solo quando il relativo saldo viene realizzato.
+**Distrattori:**
+- Subito, come gli utili dell'esercizio.
+- Mai, finché l'impresa è in funzionamento.
+- Solo quando lo prevede una specifica disposizione legislativa.
+
+**D:** ⚠️ In quali due modi si realizza il saldo della riserva di rivalutazione, secondo la lezione 06?
+**R:** «a. **Diretta**, in occasione della **realizzazione o della dismissione** del bene. b. **Indiretta**, attraverso il **processo di ammortamento**» (slide 6). Per il docente la realizzazione diretta trasforma il valore contabile in denaro con la vendita a terzi ([00:17:42]).
+**Opzione:** In modo diretto, con la realizzazione o la dismissione del bene; in modo indiretto, attraverso il processo di ammortamento.
+**Distrattori:**
+- In modo diretto, attraverso il processo di ammortamento; in modo indiretto, con la realizzazione o la dismissione del bene.
+- In modo diretto, con la realizzazione o la dismissione del bene; in modo indiretto, con un ripristino di valore.
+- In modo diretto, con una delibera di distribuzione; in modo indiretto, con una legge di rivalutazione.
+
+**D:** ⚠️ A che cosa corrisponde il valore realizzato quando la riserva di rivalutazione si realizza in modo indiretto, attraverso l'ammortamento?
+**R:** «Il valore realizzato corrisponde alla **differenza fra la quota di ammortamento sul valore rivalutato e quella conteggiata sul costo originario**» (slide 6). Per il docente è un valore che si realizza «anno per anno» ([00:17:42]).
+**Opzione:** Alla differenza fra la quota di ammortamento sul valore rivalutato e quella conteggiata sul costo originario.
+**Distrattori:**
+- All'intera quota di ammortamento calcolata sul valore rivalutato.
+- Alla differenza fra il fair value del bene e il suo costo originario.
+- Alla quota di ammortamento conteggiata sul costo originario.
+
+**D:** ⚠️ Quando si deve procedere alla svalutazione di un'immobilizzazione materiale nei principi nazionali, secondo la lezione 06?
+**R:** Quando il costo «sia **superiore** al valore dell'immobilizzazione alla **data di chiusura dell'esercizio**»; e «per procedere alla svalutazione occorre che la perdita di valore sia **durevole**, ossia **non transitoria**» (slide 7). Le due condizioni valgono insieme. Per il docente la causa è «quasi sempre esogena»; l'esempio è un fabbricato in cui si aprono crepe strutturali ([00:20:12]–[00:22:13]).
+**Opzione:** Quando il costo è superiore al valore dell'immobilizzazione alla data di chiusura dell'esercizio e la perdita di valore è durevole, ossia non transitoria.
+**Distrattori:**
+- Quando il costo è superiore al valore dell'immobilizzazione alla data di chiusura dell'esercizio, anche se la perdita di valore è transitoria.
+- Quando il valore dell'immobilizzazione alla data di chiusura dell'esercizio è superiore al costo e la perdita di valore è durevole.
+- Quando lo decide il redattore del bilancio, indipendentemente dal valore alla chiusura dell'esercizio.
+
+**D:** ⚠️ A quali condizioni può essere effettuata la svalutazione delle immobilizzazioni materiali nei principi internazionali, secondo la lezione 06?
+**R:** «Solo qualora: a) siano state **individuate le attività** che abbiano subito una **perdita durevole** di valore; b) sia stato **stimato il valore recuperabile**» (slide 8). Per il docente la durevolezza della perdita la chiedono **entrambi** i modelli; i principi internazionali chiedono **in più** la stima del valore recuperabile ([00:22:13]).
+**Opzione:** Solo qualora siano state individuate le attività che hanno subito una perdita durevole di valore e sia stato stimato il valore recuperabile.
+**Distrattori:**
+- Solo qualora sia stato stimato il valore recuperabile, anche se la perdita di valore è transitoria.
+- Solo qualora siano state individuate le attività che hanno subito una perdita di valore, anche transitoria, e lo preveda una specifica legge.
+- Solo qualora il bene sia stato permanentemente ritirato dall'uso.
+
+**D:** ⚠️ Come definisce la lezione 06 il valore recuperabile di un'immobilizzazione materiale nei principi internazionali?
+**R:** «Il valore recuperabile è il **minore** tra **prezzo netto di vendita** e **valore d'uso** di ogni singola attività» (slide 8); il docente dice lo stesso ([00:22:13]–[00:23:43]). ⚠️ È la formula della slide: la nota della lezione 06 spiega, in un blocco ℹ️, che gli standard la definiscono in modo diverso. All'esame vale la slide.
+**Opzione:** Il minore tra prezzo netto di vendita e valore d'uso di ogni singola attività.
+**Distrattori:**
+- Il minore tra costo storico e valore d'uso di ogni singola attività.
+- Il minore tra prezzo netto di vendita e costo di sostituzione ammortizzato di ogni singola attività.
+- La media tra prezzo netto di vendita e valore d'uso dell'intera classe di beni.
+
+**D:** ⚠️ Che cos'è il valore d'uso di un'immobilizzazione materiale, secondo la lezione 06?
+**R:** «Il valore d'uso coincide col **valore attuale** dei **flussi finanziari netti** che l'attività si prevede sarà in grado di generare **in futuro**» (slide 8). Per il docente si sommano, **attualizzandoli**, i flussi di ricavi o di minori costi che il bene può ancora assicurare nei prossimi esercizi ([00:23:43]).
+**Opzione:** Il valore attuale dei flussi finanziari netti che l'attività si prevede sarà in grado di generare in futuro.
+**Distrattori:**
+- La somma non attualizzata dei flussi finanziari netti che l'attività si prevede sarà in grado di generare in futuro.
+- Il prezzo netto a cui l'attività potrebbe essere venduta alla chiusura dell'esercizio.
+- Il costo di sostituzione ammortizzato dell'attività.
+
+**D:** ⚠️ Che cosa sono gli investimenti immobiliari nei principi internazionali, secondo la lezione 06?
+**R:** «Un investimento immobiliare è costituito da **immobili posseduti al fine di percepirne canoni di locazione e/o per l'apprezzamento del capitale investito**» (slide 10). Per il docente l'impresa investe in terreni e fabbricati la propria liquidità, invece di tenerla sul conto corrente o in BOT, non per farne lo strumento dell'attività ([00:23:43]).
+**Opzione:** Immobili posseduti al fine di percepirne canoni di locazione e/o per l'apprezzamento del capitale investito.
+**Distrattori:**
+- Immobili posseduti come strumento attraverso il quale l'impresa realizza la propria attività.
+- Immobili posseduti esclusivamente per percepirne canoni di locazione, esclusi quelli detenuti per l'apprezzamento del capitale.
+- Immobili destinati alla vendita nel normale svolgimento dell'attività.
+
+**D:** ⚠️ Qual è la caratteristica economica fondamentale degli investimenti immobiliari, secondo la lezione 06?
+**R:** «Quella di originare **flussi finanziari indipendenti dalle altre attività possedute dall'impresa**» (slide 10). Il docente parla di flussi «non collegati all'attività caratteristica dell'impresa» ([00:27:18]).
+**Opzione:** Originare flussi finanziari indipendenti dalle altre attività possedute dall'impresa.
+**Distrattori:**
+- Originare flussi finanziari strettamente collegati alle altre attività possedute dall'impresa.
+- Essere strumentali all'attività dell'impresa.
+- Richiedere un rilevante periodo di tempo prima di essere pronti per l'uso.
+
+**D:** ⚠️ Come trattano gli investimenti immobiliari i principi nazionali e i principi internazionali, secondo la lezione 06?
+**R:** I principi nazionali «non trattano tali investimenti **in maniera differenziata** rispetto agli altri investimenti in immobilizzazioni»; i principi internazionali ne trattano espressamente «in un **documento loro dedicato**» (slide 9). Per il docente i principi nazionali «non ne trattano assolutamente» ([00:23:43]): la slide è più sfumata, perché questi immobili restano fra le immobilizzazioni.
+**Opzione:** I nazionali non li trattano in maniera differenziata dalle altre immobilizzazioni; gli internazionali ne trattano in un documento dedicato.
+**Distrattori:**
+- I nazionali ne trattano in un documento dedicato; gli internazionali non li trattano in maniera differenziata dalle altre immobilizzazioni.
+- Entrambi li trattano come titoli finanziari, insieme ai BOT.
+- Entrambi ne trattano nello stesso documento delle immobilizzazioni materiali, l'OIC 16 e lo IAS 16.
+
+**D:** ⚠️ Come si valutano gli investimenti immobiliari nei principi internazionali, e dove vanno le variazioni di valore, secondo la lezione 06?
+**R:** «La valutazione iniziale fa riferimento al **criterio del costo**; per le successive è ammessa la valutazione al **fair value**. Le variazioni di valore devono essere imputate a **C.E.**» (slide 10). Per il docente il fair value è ammesso «se riferito all'intera categoria», e le variazioni vanno **direttamente** a conto economico, mentre per le immobilizzazioni dello IAS 16 vanno nella riserva di rivalutazione ([00:27:18]).
+**Opzione:** Inizialmente al costo, successivamente anche al fair value; le variazioni di valore vanno a conto economico.
+**Distrattori:**
+- Inizialmente al costo, successivamente anche al fair value; le variazioni di valore vanno alla riserva di rivalutazione.
+- Inizialmente al fair value, successivamente al costo; le variazioni di valore vanno a conto economico.
+- Sempre al costo storico, salvo specifiche disposizioni legislative.
+
+**D:** ⚠️ Come si determina il risultato della dismissione di un bene strumentale nei principi nazionali, secondo la lezione 06?
+**R:** «La differenza fra il **valore netto contabile** e il **valore di realizzo** concorre a formare il risultato di esercizio come **plus o minusvalenza**» (slide 11). Per il docente è una **minusvalenza** se il valore netto contabile è maggiore del valore di realizzo, una **plusvalenza** se è maggiore il valore di realizzo ([00:27:18]).
+**Opzione:** La differenza fra valore netto contabile e valore di realizzo concorre al risultato come plus o minusvalenza: minusvalenza se il valore netto contabile è maggiore.
+**Distrattori:**
+- La differenza fra valore netto contabile e valore di realizzo concorre al risultato come plus o minusvalenza: plusvalenza se il valore netto contabile è maggiore.
+- La differenza fra costo storico e valore di realizzo va alla riserva di rivalutazione.
+- La differenza fra valore netto contabile e valore di realizzo va fra i conti d'ordine della nota integrativa.
+
+**D:** ⚠️ In quale caso lo IAS 16 impone di rilevare una minusvalenza anche se il bene non è stato alienato, secondo la lezione 06?
+**R:** Quando il bene, «pur non essendo alienato, sia **permanentemente ritirato dall'uso** e dalla sua dismissione **non siano attesi benefici economici futuri**» (slide 11). Per il docente è come se il bene fosse venduto «a prezzo pari a zero», ed è una regola «più severa» di quella nazionale, dove la minusvalenza si rileva solo con la cessione ([00:29:21]).
+**Opzione:** Quando il bene è permanentemente ritirato dall'uso e dalla sua dismissione non sono attesi benefici economici futuri.
+**Distrattori:**
+- Quando il bene è temporaneamente ritirato dall'uso, anche se dalla sua dismissione sono attesi benefici economici futuri.
+- Mai: la minusvalenza si rileva solo con la cessione a un valore inferiore al valore netto contabile.
+- Quando il valore di realizzo atteso supera il valore netto contabile.
+
+**D:** ⚠️ Le spese incrementative delle immobilizzazioni materiali nel modello nazionale possono essere portate a incremento del valore del cespite, secondo il test della lezione 06 (domanda 1)?
+**R:** «**Possono essere portate a incremento del valore del cespite solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile**», la slide 2 alla lettera. Distrattori del test: «non possono mai», «possono essere sempre» e «solo se di importo superiore al **50%** del costo di acquisto», una **soglia inventata** che nelle slide non esiste.
+**Opzione:** Possono essere portate a incremento del valore del cespite solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile.
+**Distrattori:**
+- Non possono mai essere portate a incremento del valore del cespite.
+- Possono essere sempre portate a incremento del valore del cespite.
+- Possono essere portate a incremento del valore del cespite solo se di importo superiore al 50% del costo di acquisto.
+
+**D:** ⚠️ Le rivalutazioni delle immobilizzazioni materiali nel modello nazionale sono consentite, secondo il test della lezione 06 (domanda 2)?
+**R:** «**Sono consentite solo se vi è una specifica norma di legge**»: per la slide 3 le immobilizzazioni «possono essere oggetto di rivalutazione solo nei casi in cui specifiche disposizioni legislative lo prevedano». Distrattori del test: «sempre», «mai» e «solo se vi è una **delibera assembleare**», una condizione che nelle slide non c'è.
+**Opzione:** Sono consentite solo se vi è una specifica norma di legge.
+**Distrattori:**
+- Sono sempre consentite.
+- Non sono mai consentite.
+- Sono consentite solo se vi è una delibera assembleare.
+
+**D:** ⚠️ A quale riserva vanno imputate le variazioni di valore delle immobilizzazioni materiali nel modello internazionale, secondo il test della lezione 06 (domanda 3)?
+**R:** Alla «**riserva di rivalutazione**»: per la slide 5 il maggior valore attribuito ai cespiti «deve essere imputato a P.N. come "riserva di rivalutazione"». ⚠️ Il distrattore «nessuna riserva, va contabilizzato in conto economico» è la risposta giusta **altrove** nella stessa lezione: per il **ripristino di valore** (slide 5) e per gli **investimenti immobiliari** (slide 10). La domanda parla delle immobilizzazioni materiali, cioè dei beni strumentali. Gli altri distrattori sono la riserva legale e le altre riserve.
+**Opzione:** Alla riserva di rivalutazione.
+**Distrattori:**
+- A nessuna riserva: vanno contabilizzate in conto economico.
+- Alla riserva legale.
+- Alle altre riserve.
+
+**D:** ⚠️ Quando si deve procedere alla svalutazione delle immobilizzazioni materiali nel modello nazionale, secondo il test della lezione 06 (domanda 4)?
+**R:** «**Se il costo di acquisto o produzione è superiore al valore dell'immobilizzazione alla data di chiusura dell'esercizio**», il primo punto della slide 7. ⚠️ La chiave tace la seconda condizione della slide: la perdita deve essere **durevole**, ossia non transitoria. Distrattori del test: «se sale l'inflazione», «a scelta del compilatore del bilancio», «mai».
+**Opzione:** Se il costo di acquisto o produzione è superiore al valore dell'immobilizzazione alla data di chiusura dell'esercizio.
+**Distrattori:**
+- Se sale l'inflazione.
+- A scelta del compilatore del bilancio.
+- Mai.
+
+**D:** ⚠️ Gli investimenti immobiliari sono trattati nei principi contabili nazionali, secondo il test della lezione 06 (domanda 5)?
+**R:** «**No**»: per la slide 9 i principi nazionali «non trattano tali investimenti in maniera differenziata rispetto agli altri investimenti in immobilizzazioni», e per il docente «non ne trattano assolutamente» ([00:23:43]). Il «no» vuol dire che manca una disciplina apposita, che invece i principi internazionali hanno in un documento dedicato. Distrattori del test: «sì», «solo quelli più rilevanti», «solo se realizzati all'estero».
+**Opzione:** No.
+**Distrattori:**
+- Sì.
+- Solo quelli più rilevanti.
+- Solo se realizzati all'estero.
