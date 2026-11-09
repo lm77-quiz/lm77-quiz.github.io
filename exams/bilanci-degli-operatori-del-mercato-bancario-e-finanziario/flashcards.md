@@ -4920,3 +4920,253 @@
 - Nella relazione del collegio sindacale, che i sindaci devono redigere e allegare al bilancio.
 - I criteri di iscrizione, di classificazione, di valutazione e di cancellazione delle attività e delle passività che ha adottato la banca.
 - Per categorie di rischi (di credito, di mercato, di liquidità, operativi), informazioni qualitative sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni quantitative.
+
+## Lezione 20 — Redditività, efficienza e produttività: ulteriori elementi di analisi
+
+**D:** ⚠️ In quali tre categorie può essere distinto l'attivo di bilancio ai fini analitici, secondo il test della lezione 20 (domanda 1)?
+**R:** **Attività fruttifere di proventi finanziari; attività non fruttifere di proventi finanziari; attività immobilizzate**: sono le categorie della slide 5 nella riclassificazione per fonti di proventi e di oneri. Distrattori del test: tengono le ultime due e sostituiscono la prima con «attività di terzi», «attività estere», «attività e obbligazioni».
+**Opzione:** Attività fruttifere di proventi finanziari; attività non fruttifere di proventi finanziari; attività immobilizzate.
+**Distrattori:**
+- Attività di terzi; attività non fruttifere di proventi finanziari; attività immobilizzate.
+- Attività estere; attività non fruttifere di proventi finanziari; attività immobilizzate.
+- Attività e obbligazioni; attività non fruttifere di proventi finanziari; attività immobilizzate.
+
+**D:** ⚠️ In quali tre categorie può essere distinto il passivo di bilancio ai fini analitici, secondo il test della lezione 20 (domanda 2)?
+**R:** **Passività onerose di oneri finanziari, passività non onerose di oneri finanziari, patrimonio netto** (slide 5). Distrattori del test: tengono il patrimonio netto e cambiano una delle altre due, con «obbligazioni estere», «passività di terzi», «obbligazioni e debiti verso terzi».
+**Opzione:** Passività onerose di oneri finanziari, passività non onerose di oneri finanziari, patrimonio netto.
+**Distrattori:**
+- Passività onerose di oneri finanziari, obbligazioni estere, patrimonio netto.
+- Passività di terzi, passività non onerose di oneri finanziari, patrimonio netto.
+- Obbligazioni e debiti verso terzi, passività non onerose di oneri finanziari, patrimonio netto.
+
+**D:** ⚠️ In quale categoria di riclassificazione rientrano i crediti verso la clientela, secondo il test della lezione 20 (domanda 3)?
+**R:** Fra le **attività fruttifere di proventi finanziari**: sono la voce 70, compresa fra le voci 10–100 che la slide 6 raggruppa nelle AFPF. Distrattori del test: «attività immobilizzate», «patrimonio netto», «attività non fruttifere di proventi finanziari».
+**Opzione:** Attività fruttifere di proventi finanziari.
+**Distrattori:**
+- Attività immobilizzate.
+- Patrimonio netto.
+- Attività non fruttifere di proventi finanziari.
+
+**D:** ⚠️ In quale categoria di riclassificazione rientrano le altre attività, secondo il test della lezione 20 (domanda 4)?
+**R:** Fra le **attività non fruttifere di proventi finanziari**: sono la voce 150, con le attività fiscali (130) e le attività non correnti in via di dismissione (140) (slide 6). Distrattori del test: «attività immobilizzate», «patrimonio netto», «attività fruttifere di proventi finanziari», le stesse opzioni della domanda 3 con un'altra chiave.
+**Opzione:** Attività non fruttifere di proventi finanziari.
+**Distrattori:**
+- Attività immobilizzate.
+- Patrimonio netto.
+- Attività fruttifere di proventi finanziari.
+
+**D:** ⚠️ In quale categoria di riclassificazione rientrano le passività fiscali, secondo il test della lezione 20 (domanda 5)?
+**R:** Fra le **passività non onerose di oneri finanziari**: sono la voce 80 del passivo, con le passività associate ad attività in via di dismissione, le altre passività, il TFR, i fondi per rischi e oneri e le azioni rimborsabili (slide 6). Distrattori del test: «passività onerose di oneri finanziari», «patrimonio netto» e una categoria dell'attivo, «attività non fruttifere di proventi finanziari», dove stanno le **attività** fiscali.
+**Opzione:** Passività non onerose di oneri finanziari.
+**Distrattori:**
+- Passività onerose di oneri finanziari.
+- Patrimonio netto.
+- Attività non fruttifere di proventi finanziari.
+
+**D:** ⚠️ Secondo quale criterio si riclassifica lo stato patrimoniale della banca per fonti di proventi e di oneri, secondo la slide 5 della lezione 20?
+**R:** «Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della **capacità o meno di produrre proventi e oneri** per la banca» (slide 5). Per il docente serve a capire quali poste producono i proventi e gli oneri della banca ([00:23:46]–[00:24:07]).
+**Opzione:** Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della capacità o meno di produrre proventi e oneri per la banca.
+**Distrattori:**
+- Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della scadenza entro o oltre l'esercizio successivo.
+- Rischio di credito, rischio di mercato, rischio di liquidità e rischi operativi.
+- Stagnazione economica insieme a inflazione, di solito un'inflazione importata, per l'aumento dei prezzi dei beni energetici che lo Stato compra da altri.
+
+**D:** ⚠️ Che cosa avverte la slide 5 della lezione 20 sulle attività fruttifere e sulle passività onerose?
+**R:** Che le attività fruttifere possono produrre **anche oneri finanziari**, non solo proventi, «ad esempio, a causa di risultati negativi dell'attività di negoziazione di attività finanziarie». E che le passività onerose possono produrre **anche proventi finanziari**, «ad esempio, a fronte di risultati positivi dell'attività di negoziazione di passività finanziarie» (slide 5). Per il docente: un titolo che perde valore, un prestito obbligazionario emesso che si svaluta ([00:25:22]–[00:26:52]).
+**Opzione:** Che le attività fruttifere possono produrre anche oneri finanziari, per esempio per risultati negativi della negoziazione; e le passività onerose anche proventi, per risultati positivi della negoziazione di passività.
+**Distrattori:**
+- Che le attività fruttifere producono solo proventi finanziari e le passività onerose solo oneri finanziari, qualunque sia il risultato della negoziazione.
+- Che resteranno meno di 10 grandi banche, perché la dimensione è diventata strategica e il nanismo non paga più: si regge solo chi ripartisce i costi fissi su molti clienti.
+- Azioni riconosciute a condizioni più vantaggiose a dipendenti, collaboratori o amministratori: aumenti di capitale riservati a queste categorie.
+
+**D:** ⚠️ Quali voci dell'attivo formano le attività immobilizzate nello stato patrimoniale riclassificato per fonti di proventi e di oneri, secondo la slide 6 della lezione 20?
+**R:** Le **attività materiali** (voce 110) e le **attività immateriali** (voce 120), con l'avviamento (slide 6). Per il docente sono «le voci residuali» ([00:27:09]). Le partecipazioni stanno invece fra le attività fruttifere.
+**Opzione:** Le attività materiali e le attività immateriali, avviamento compreso.
+**Distrattori:**
+- Le attività materiali, le attività immateriali e le partecipazioni.
+- Patrimonializzazione e rischiosità della banca.
+- Come differenza tra crediti e debiti verso Banche centrali.
+
+**D:** ⚠️ Quali voci dell'attivo formano le attività non fruttifere di proventi finanziari, secondo la slide 6 della lezione 20?
+**R:** Le **attività fiscali**, correnti e anticipate (voce 130); le **attività non correnti e gruppi di attività in via di dismissione** (140); le **altre attività** (150) (slide 6). Per il docente sono la somma delle voci 130, 140 e 150 ([00:26:52]).
+**Opzione:** Le attività fiscali; le attività non correnti e gruppi di attività in via di dismissione; le altre attività.
+**Distrattori:**
+- Le attività fiscali; le attività non correnti e gruppi di attività in via di dismissione; la cassa e disponibilità liquide.
+- Nell'immediato le principali peculiarità della banca in termini di struttura delle fonti.
+- A parità di altri fattori, la redditività migliora.
+
+**D:** ⚠️ Quali voci del passivo formano le passività non onerose di oneri finanziari, secondo la slide 6 della lezione 20?
+**R:** Le **passività fiscali** (voce 80); le passività associate ad attività in via di dismissione (90); le **altre passività** (100); il **trattamento di fine rapporto** del personale (110); i **fondi per rischi e oneri** (120); le **azioni rimborsabili** (140) (slide 6).
+**Opzione:** Passività fiscali; passività associate ad attività in via di dismissione; altre passività; trattamento di fine rapporto del personale; fondi per rischi e oneri; azioni rimborsabili.
+**Distrattori:**
+- Passività fiscali; passività associate ad attività in via di dismissione; altre passività; trattamento di fine rapporto del personale; fondi per rischi e oneri; titoli in circolazione.
+- Capitale (azioni ordinarie e altre azioni); sovrapprezzi di emissione; riserve (di utili e altre); riserve da valutazione; strumenti di capitale; acconti su dividendi; azioni proprie; utile (perdita) di esercizio.
+- Debiti verso banche / totale passivo; debiti verso clientela / totale passivo; titoli in circolazione / totale passivo; passività finanziarie / totale passivo.
+
+**D:** ⚠️ In quale categoria dello stato patrimoniale riclassificato per fonti di proventi e di oneri stanno la cassa e disponibilità liquide e le partecipazioni, secondo la slide 6 della lezione 20?
+**R:** Fra le **attività fruttifere di proventi finanziari**: le AFPF sono le voci dalla 10, cassa e disponibilità liquide, alla 100, partecipazioni (slide 6). Le partecipazioni però non producono interessi: nella slide 7, fra le attività fruttifere di interessi, non ci sono.
+**Opzione:** Fra le attività fruttifere di proventi finanziari.
+**Distrattori:**
+- Fra le attività immobilizzate.
+- Composizione della struttura finanziaria.
+- Non in assoluto, ma in relazione ai livelli di rischio che la banca si assume.
+
+**D:** ⚠️ In quale categoria del passivo riclassificato per fonti di proventi e di oneri stanno le azioni rimborsabili, secondo la slide 6 della lezione 20?
+**R:** Fra le **passività non onerose di oneri finanziari**, non nel patrimonio netto (slide 6). La voce 140 è numerata fra le voci del patrimonio, dalla 130 alla 200, ma la slide la mette con passività fiscali, altre passività, TFR e fondi; anche il docente la conta fra le non onerose ([00:27:58]).
+**Opzione:** Fra le passività non onerose di oneri finanziari.
+**Distrattori:**
+- Nel patrimonio netto.
+- Che la durata media finanziaria dell'attivo sia leggermente più breve di quella del passivo.
+- In serie storica, sugli ultimi 5–10 anni della banca, e nel confronto con i concorrenti e con la media del settore.
+
+**D:** ⚠️ Quali voci del passivo formano le passività onerose di oneri finanziari, secondo la slide 6 della lezione 20?
+**R:** Le voci **10–70**: debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; adeguamento di valore delle passività finanziarie oggetto di copertura generica (slide 6). Per il docente sono i debiti con cui la banca si procura il denaro che presta ([00:27:44], [00:30:05]).
+**Opzione:** Debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; adeguamento di valore delle passività oggetto di copertura generica.
+**Distrattori:**
+- Debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; fondi per rischi e oneri.
+- Generata da vendite di partecipazioni, dividendi incassati su partecipazioni, vendite di attività materiali, immateriali e di rami d'azienda; assorbita dagli acquisti di partecipazioni, attività materiali, immateriali e rami d'azienda.
+- Emissioni/acquisti di azioni proprie; emissioni/acquisti di strumenti di capitale; distribuzione dividendi e altre finalità.
+
+**D:** ⚠️ Quali voci delle attività fruttifere di proventi finanziari restano fuori dalle attività fruttifere di interessi attivi, nella slide 7 della lezione 20?
+**R:** L'**adeguamento di valore delle attività finanziarie oggetto di copertura generica** (voce 90) e le **partecipazioni** (voce 100). Le attività fruttifere di interessi sono le voci 10–80, dalla cassa ai derivati di copertura. Nel passivo resta fuori allo stesso modo l'adeguamento di valore (voce 70): le passività onerose di interessi sono le voci 10–60 (slide 6–7).
+**Opzione:** L'adeguamento di valore delle attività finanziarie oggetto di copertura generica e le partecipazioni.
+**Distrattori:**
+- La cassa e disponibilità liquide e le partecipazioni.
+- L'incapacità di avere il denaro necessario a pagare le obbligazioni alla scadenza; la banca vi è esposta se il passivo scade prima dell'attivo.
+- Esistenze al 31.12.T0, modifica saldi apertura, esistenze al 1.1.T1; l'allocazione del risultato precedente ha le colonne riserve e dividendi e altre destinazioni.
+
+**D:** Che cosa mostra la riclassificazione dello stato patrimoniale per fonti di interessi attivi e passivi, nella slide 7 della lezione 20?
+**R:** Le «voci da cui scaturiscono le componenti positive o negative del conto economico che contribuiscono al **margine di interesse**»: le attività fruttifere di interessi attivi e proventi assimilati (AF) e le passività onerose di interessi passivi e oneri assimilati (PO) (slide 7).
+**Opzione:** Le voci da cui scaturiscono le componenti positive o negative del conto economico che contribuiscono al margine di interesse.
+**Distrattori:**
+- Le voci da cui scaturiscono le componenti positive o negative del conto economico che contribuiscono alle commissioni nette.
+- A una più completa interpretazione dei risultati economici conseguiti e dei diversi profili gestionali che incidono sulla performance bancaria complessiva.
+- Una prima evidenza della tipologia di impieghi effettuati dalla banca, consentendo un'immediata identificazione della tipologia di attività prevalente.
+
+**D:** ⚠️ Come si ottengono il margine di gestione denaro e servizi e il margine di intermediazione nel conto economico riclassificato per aree gestionali, secondo le slide 2–3 della lezione 20?
+**R:** Il **MGDS** è il margine di interesse più le commissioni nette (G = C + F). Il **margine di intermediazione** (MINTM, voce 120) è il MGDS più il **risultato netto delle operazioni finanziarie** (N = G + M) (slide 2–3). Per il docente le tre gestioni, denaro, servizi e operazioni finanziarie, insieme danno il margine di intermediazione ([00:14:04]–[00:16:41]).
+**Opzione:** MGDS = margine di interesse + commissioni nette; margine di intermediazione = MGDS + risultato netto delle operazioni finanziarie.
+**Distrattori:**
+- MGDS = margine di interesse + risultato netto delle operazioni finanziarie; margine di intermediazione = MGDS + commissioni nette.
+- Totale attivo / patrimonio netto: più è basso più è positivo, più è alto più è rischioso.
+- Equivale a una riduzione del capitale sociale, e per questo le azioni proprie sono riportate sempre con il segno negativo.
+
+**D:** ⚠️ Da quali aggregati è formato il risultato netto delle operazioni finanziarie (RNOF) nel conto economico riclassificato, secondo la slide 2 della lezione 20?
+**R:** Dalla somma di **dividendi e proventi simili** (DPS, voce 70), **risultato netto da negoziazione** (RNEG, 80), **risultato netto da coperture** (RCOP, 90), **utili/perdite da cessione o riacquisto** (RCR, 100) e **risultato netto delle attività e passività al fair value** (RFV, 110): M = H+I+J+K+L. Stanno tutti nell'area **gestione operazioni finanziarie** (slide 2).
+**Opzione:** Dividendi e proventi simili; risultato netto da negoziazione; risultato netto da coperture; utili/perdite da cessione o riacquisto; risultato netto delle attività e passività al fair value.
+**Distrattori:**
+- Commissioni nette; risultato netto da negoziazione; risultato netto da coperture; utili/perdite da cessione o riacquisto; risultato netto delle attività e passività al fair value.
+- All'andamento economico generale, alle condizioni del sistema bancario, al posizionamento delle altre banche.
+- Il diretto solo chi dispone della contabilità; l'indiretto anche chi ha solo il bilancio, e per questo di norma si usa l'indiretto.
+
+**D:** ⚠️ In quale area di produzione bancaria stanno i dividendi e proventi simili nel conto economico riclassificato, secondo la slide 2 della lezione 20?
+**R:** Nella **gestione operazioni finanziarie**, con negoziazione, coperture, cessioni e fair value (slide 2). La gestione denaro comprende solo interessi attivi e passivi e il margine di interesse; la gestione servizi le commissioni. Per il docente il terzo motore è la capacità di realizzare utili con il trading e di riscuotere dividendi e proventi degli investimenti finanziari ([00:14:23]).
+**Opzione:** Nella gestione operazioni finanziarie.
+**Distrattori:**
+- Nella gestione denaro.
+- Raccolta presso la clientela, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+- Il risultato lordo di gestione (RLG) e il risultato netto di gestione (RNG).
+
+**D:** ⚠️ Quali aggregati compongono i costi operativi nel conto economico riclassificato per aree gestionali, secondo la slide 3 della lezione 20?
+**R:** Le **spese amministrative** (SA), cioè spese per il personale e altre spese amministrative; gli **accantonamenti netti** ai fondi per rischi e oneri (ARO); le **rettifiche/riprese di valore nette su attività materiali e immateriali** (RMI); gli **altri oneri/proventi di gestione** (AOPG): X = T+U+V+W (slide 3).
+**Opzione:** Spese amministrative (per il personale e altre); accantonamenti netti ai fondi per rischi e oneri; rettifiche/riprese su attività materiali e immateriali; altri oneri/proventi di gestione.
+**Distrattori:**
+- Spese amministrative (per il personale e altre); accantonamenti netti ai fondi per rischi e oneri; rettifiche/riprese per deterioramento di crediti; altri oneri/proventi di gestione.
+- Relazione sulla gestione alla parte E; stato patrimoniale alla parte B, sezione 7; conto economico alla parte C, sezioni 1 (interessi), 6 (cessioni o riacquisti) e 8 (rettifiche e riprese).
+- Le voci di conto economico l'insieme dei crediti, verso clientela e verso banche; le sezioni 6 e 8 della nota integrativa i soli crediti verso clientela.
+
+**D:** ⚠️ Come si ottiene il risultato lordo di gestione (RLG) nel conto economico riclassificato, e a che cosa lo assimila il docente della lezione 20?
+**R:** È il **margine di intermediazione più i costi operativi** (Y = N + X); nel consolidato si aggiunge il risultato netto della gestione assicurativa (Y = N + Q + X). È l'area della **gestione finanziaria lorda** (slide 3). Per il docente si può assimilare al **margine operativo lordo** (MOL) dell'industria ([00:19:56]–[00:20:05]).
+**Opzione:** Margine di intermediazione più costi operativi (nel consolidato anche il risultato della gestione assicurativa); per il docente è assimilabile al margine operativo lordo.
+**Distrattori:**
+- Margine di intermediazione più rettifiche per deterioramento dei crediti (nel consolidato anche il risultato della gestione assicurativa); per il docente è assimilabile al margine operativo lordo.
+- L'andamento economico generale perché ne è necessariamente influenzata l'attività bancaria; le condizioni del sistema bancario perché indicano le tendenze in atto e sono un parametro di riferimento per la singola banca.
+- Nell'attività operativa, dopo la gestione: la liquidità delle attività finanziarie e quella delle passività finanziarie.
+
+**D:** ⚠️ Come si ottiene il risultato netto di gestione (RNG) nel conto economico riclassificato, secondo la lezione 20?
+**R:** È il **risultato lordo di gestione più le rettifiche/riprese di valore nette per deterioramento** di crediti, attività finanziarie e altre operazioni finanziarie (ZC = Y + ZB): l'area della **gestione finanziaria netta** (slide 3). Per il docente è «una specie di **margine operativo netto**» ([00:21:36]).
+**Opzione:** Risultato lordo di gestione più le rettifiche/riprese di valore nette per deterioramento di crediti, attività finanziarie e altre operazioni finanziarie.
+**Distrattori:**
+- Risultato lordo di gestione più gli oneri/proventi straordinari della gestione straordinaria.
+- Struttura dell'intermediazione; redditività, efficienza e produttività; patrimonializzazione; rischiosità.
+- Solo nella gestione dell'attività operativa: il diretto elenca incassi e pagamenti, come gli interessi attivi incassati; l'indiretto parte dal risultato d'esercizio e lo rettifica.
+
+**D:** ⚠️ Dove si collocano le rettifiche/riprese di valore per deterioramento nel conto economico riclassificato per aree gestionali, rispetto allo schema obbligatorio, secondo la lezione 20?
+**R:** Nel riclassificato vengono **dopo i costi operativi**: formano l'area **gestione e controllo dei rischi**, fra il risultato lordo e il risultato netto di gestione (slide 3). Nello schema obbligatorio la voce 130 viene **prima** dei costi operativi: con il margine di intermediazione dà il risultato netto della gestione finanziaria (voce 140), e solo dopo vengono le spese amministrative (slide 8).
+**Opzione:** Dopo i costi operativi, nella gestione e controllo dei rischi fra RLG e RNG; nello schema obbligatorio vengono prima, e danno il risultato netto della gestione finanziaria.
+**Distrattori:**
+- Prima dei costi operativi, come nello schema obbligatorio, dove danno il risultato netto della gestione finanziaria.
+- La Tav. 7.1, con la composizione merceologica dei crediti, e la Tav. 7.2, con la composizione per debitori/emittenti; entrambe con dati sulle attività deteriorate.
+- Fornire dati (informazioni quantitative) che consentano di ricostruire e approfondire i valori di sintesi dello stato patrimoniale e del conto economico; dare informazioni qualitative, ad esempio sui rischi e sulle relative politiche di copertura.
+
+**D:** ⚠️ Quali aggregati formano gli oneri/proventi straordinari (OPS) nel conto economico riclassificato, secondo la slide 4 della lezione 20?
+**R:** **Utili (perdite) delle partecipazioni** (PART); **risultato netto della valutazione al fair value delle attività materiali e immateriali** (FVMI); **rettifiche di valore dell'avviamento** (RAVV); **utili (perdite) da cessioni di investimenti** (INV): ZH = ZD+ZE+ZF+ZG, area **gestione straordinaria** (slide 4). Sommati al RNG danno il risultato dell'operatività corrente al lordo delle imposte.
+**Opzione:** Utili (perdite) delle partecipazioni; risultato netto della valutazione al fair value delle attività materiali e immateriali; rettifiche di valore dell'avviamento; utili (perdite) da cessioni di investimenti.
+**Distrattori:**
+- Utili (perdite) delle partecipazioni; risultato netto della valutazione al fair value delle attività materiali e immateriali; rettifiche di valore dell'avviamento; imposte sul reddito dell'esercizio dell'operatività corrente.
+- Crediti verso banche / totale attivo; crediti verso clientela / totale attivo; attività finanziarie / totale attivo.
+- CB/TA il mercato interbancario; CC/TA l'intermediazione verso la clientela; AF/TA i mercati finanziari.
+
+**D:** Come si ottiene il risultato della operatività corrente al lordo delle imposte nel conto economico riclassificato, secondo la slide 4 della lezione 20?
+**R:** È il **risultato netto di gestione più gli oneri/proventi straordinari** (ZI = ZC + ZH), voce 250 dell'individuale e 280 del consolidato (slide 4). Seguono le imposte, il risultato al netto delle imposte, i gruppi in via di dismissione e il risultato di esercizio.
+**Opzione:** Risultato netto di gestione più oneri/proventi straordinari.
+**Distrattori:**
+- Risultato lordo di gestione più oneri/proventi straordinari.
+- Alla correlazione tra l'attivo e il passivo di bilancio, per una prima ricognizione della struttura finanziaria e per cogliere prime indicazioni in tema di equilibrio finanziario di tipo strutturale.
+- Il loan to deposit ratio il rapporto fra la raccolta e l'investimento della raccolta; PIN/TA quanto la banca è esposta rispetto al mercato interbancario.
+
+**D:** In quale bilancio compare la gestione assicurativa nel conto economico riclassificato, e con quali aggregati, secondo la slide 3 della lezione 20?
+**R:** **Solo nel consolidato**: premi netti (PN, voce 150), saldo altri proventi/oneri della gestione assicurativa (APOGA, 160) e risultato netto della gestione assicurativa (RNGA = O + P). Nell'individuale le colonne sono vuote (slide 3). Per il docente la banca «può avere anche» una gestione assicurativa ([00:16:41]).
+**Opzione:** Solo nel consolidato, con premi netti, saldo degli altri proventi/oneri della gestione assicurativa e risultato netto della gestione assicurativa.
+**Distrattori:**
+- Solo nell'individuale, con premi netti, saldo degli altri proventi/oneri della gestione assicurativa e risultato netto della gestione assicurativa.
+- Posizione interbancaria netta / totale attivo; loan to deposit ratio (crediti verso clientela / debiti verso clientela); leverage ratio (totale attivo / patrimonio netto).
+- Redditività: produrre reddito con una data organizzazione; efficienza: ottenere risultati con meno mezzi impiegati; produttività: ottenere il risultato impiegando meno tempo.
+
+**D:** Come si divide il risultato di esercizio nel conto economico consolidato riclassificato, secondo la slide 4 della lezione 20?
+**R:** Nel **risultato di esercizio di pertinenza di terzi** (voce 330) e nel **risultato di esercizio di pertinenza della capogruppo** (RECAP, voce 340). Nell'individuale queste righe non ci sono (slide 4). Per il docente dipende da quanta parte del capitale è della capogruppo, per esempio il 90, l'80 o il 70% ([00:23:15]).
+**Opzione:** Nel risultato di pertinenza di terzi e nel risultato di pertinenza della capogruppo.
+**Distrattori:**
+- Nel risultato dell'operatività corrente e nel risultato dei gruppi di attività in via di dismissione.
+- Composizione delle fonti, posizione netta di liquidità, contributo alla posizione interbancaria netta complessiva.
+- Debiti verso banche centrali / totale passivo; debiti verso banche centrali / debiti verso banche.
+
+**D:** ⚠️ Perché il margine di interesse si è ridotto negli anni '90 e 2000, secondo il docente della lezione 20?
+**R:** Per due fenomeni: la **disintermediazione creditizia** e l'**abbassamento dei tassi di interesse**. Con i tassi scesi sotto il 10% e poi sotto il 5, il 4 e il 3%, lo **spread** fra il tasso dei prestiti e il costo della raccolta si è ristretto. Prima, nelle banche più piccole e in quelle degli anni '70–'90, il margine di interesse copriva tutti i costi ([00:07:35]–[00:12:50]).
+**Opzione:** Per la disintermediazione creditizia e l'abbassamento dei tassi di interesse, che hanno ristretto lo spread fra tasso dei prestiti e costo della raccolta.
+**Distrattori:**
+- Per la disintermediazione creditizia e l'innalzamento dei tassi di interesse, che hanno ristretto lo spread fra tasso dei prestiti e costo della raccolta.
+- Posizione interbancaria netta verso Banche centrali / totale attivo; posizione interbancaria netta verso Banche centrali / posizione interbancaria netta.
+- Cambia anche il leverage ratio, perché gli indicatori sono correlati: per incidere sul leverage si deve agire su crediti, debiti e titoli in circolazione.
+
+**D:** Da quale tasso di riferimento partono i tassi dei prestiti bancari, e come si arriva al tasso applicato, secondo il docente della lezione 20?
+**R:** Fino agli anni 2000 dal **TUS**, il tasso ufficiale di sconto a cui la Banca d'Italia apriva credito alle banche; oggi, per il docente, dall'**Euribor** a 3–6 mesi o a un anno. Al tasso base si aggiungono **punti** secondo il rischio del cliente: meno per i clienti affidabili, più per quelli rischiosi ([00:10:31]–[00:12:22]). La nota precisa in un blocco ℹ️ che l'Euribor è un tasso di mercato, non fissato dalle autorità.
+**Opzione:** Dal TUS della Banca d'Italia, oggi sostituito dall'Euribor; al tasso base si aggiungono più punti quanto più il cliente è rischioso.
+**Distrattori:**
+- Dal TUS della Banca d'Italia, oggi sostituito dall'Euribor; al tasso base si aggiungono più punti quanto più il cliente è affidabile.
+- Perché moltiplica gli utili quando crescono, ma amplifica le perdite quando gli utili diventano una perdita, e il rischio di insolvenza diventa molto alto.
+- L'attitudine della banca a produrre reddito, ovvero a operare in equilibrio economico tra costi e ricavi.
+
+**D:** ⚠️ Che differenza c'è, per il docente della lezione 20, fra le rettifiche di valore per deterioramento dei crediti e gli accantonamenti ai fondi per rischi e oneri?
+**R:** Le **rettifiche** rappresentano le **perdite effettivamente** scontate dalla banca sui prestiti; gli **accantonamenti** sono «solo programmatici, solo probabilistici», fatti per rischi e spese futuri ([00:19:09]–[00:21:02]). Nel riclassificato gli accantonamenti stanno fra i costi operativi, le rettifiche nella gestione e controllo dei rischi (slide 3).
+**Opzione:** Le rettifiche sono perdite effettivamente scontate sui prestiti; gli accantonamenti sono solo programmatici e probabilistici, per rischi e spese futuri.
+**Distrattori:**
+- Gli accantonamenti sono perdite effettivamente scontate sui prestiti; le rettifiche sono solo programmatiche e probabilistiche, per rischi e spese futuri.
+- Operativa: la capacità di minimizzare i costi gestionali; allocativa: la capacità di allocare le risorse intermediate minimizzando i rischi e i costi (in termini di perdite).
+- Al rendimento dei fattori produttivi, ovvero alla massimizzazione del risultato ottenuto in termini di prodotti e servizi erogati.
+
+**D:** Che effetto ha avuto, per il docente della lezione 20, lo sviluppo delle tecnologie bancarie sulle spese per il personale?
+**R:** Le ha **ridotte** in modo sensibile: la maggior parte delle operazioni si fa dai portali e dai siti delle banche. Un tempo per un bonifico si andava allo sportello, oggi lo fanno i clienti in autonomia ([00:17:33]–[00:18:43]).
+**Opzione:** Le ha ridotte sensibilmente, perché la maggior parte delle operazioni, come i bonifici, i clienti la fanno in autonomia dai portali delle banche.
+**Distrattori:**
+- Le ha aumentate sensibilmente, perché i portali delle banche richiedono più personale per assistere i clienti nelle operazioni.
+- Funziona con l'inflazione endogena, legata alla crescita dell'economia; non serve con l'inflazione importata, come quella dei prezzi energetici.
+- Nella relazione sulla gestione, che il consiglio di amministrazione deve redigere e allegare al bilancio.
+
+**D:** Come hanno reagito le banche alla riduzione del margine di interesse, e quali sono state più performanti, secondo il docente della lezione 20?
+**R:** Sviluppando **servizi**, su cui applicano **commissioni**. Le banche **più grandi** sono state più performanti delle piccole, perché solo loro potevano sostenere i costi di ricerca e sviluppo e di struttura ([00:12:38]–[00:14:04]).
+**Opzione:** Sviluppando servizi su cui applicano commissioni; le più grandi sono state più performanti, perché potevano sostenere i costi di ricerca e sviluppo e di struttura.
+**Distrattori:**
+- Sviluppando servizi su cui applicano commissioni; le più piccole sono state più performanti, perché avevano costi di struttura più bassi.
+- Ha poco senso su un unico esercizio; ha molto senso sugli ultimi 10 esercizi della stessa impresa, e riferito a più imprese in più anni.
+- La composizione dell'attivo, la composizione del passivo e la struttura finanziaria.
