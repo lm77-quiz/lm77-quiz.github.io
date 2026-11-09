@@ -5170,3 +5170,245 @@
 - Sviluppando servizi su cui applicano commissioni; le più piccole sono state più performanti, perché avevano costi di struttura più bassi.
 - Ha poco senso su un unico esercizio; ha molto senso sugli ultimi 10 esercizi della stessa impresa, e riferito a più imprese in più anni.
 - La composizione dell'attivo, la composizione del passivo e la struttura finanziaria.
+
+## Lezione 21 — Riepilogo degli indici di redditività, l'albero del ROE e il margine di interesse
+
+**D:** ⚠️ A quale tipologia di indici appartiene il ROE, secondo il test della lezione 21 (domanda 1)?
+**R:** Agli indici **reddituali**, con il ROA (slide 3). È il rapporto fra risultato di esercizio e patrimonio netto. Distrattori del test: «produttività», «efficienza operativa», «efficienza allocativa».
+**Opzione:** Reddituali.
+**Distrattori:**
+- Produttività.
+- Efficienza operativa.
+- Efficienza allocativa.
+
+**D:** ⚠️ A quale tipologia di indici appartiene il rapporto costi operativi / margine di intermediazione, secondo il test della lezione 21 (domanda 2)?
+**R:** Agli indici di **efficienza operativa**: è il *cost to income ratio* della slide 3, con il cost to total assets. La categoria la decide il numeratore, i costi operativi. Distrattori del test: «produttività», «efficienza allocativa», «reddituali».
+**Opzione:** Efficienza operativa.
+**Distrattori:**
+- Produttività.
+- Efficienza allocativa.
+- Reddituali.
+
+**D:** ⚠️ A quale tipologia di indici appartiene il rapporto rettifiche nette per deterioramento / margine di intermediazione, secondo il test della lezione 21 (domanda 3)?
+**R:** Agli indici di **efficienza allocativa**, con rettifiche nette per deterioramento / totale attivo (slide 3). Al numeratore ci sono le rettifiche: più crediti si deteriorano, peggio la banca ha allocato le risorse. Distrattori del test: «produttività», «efficienza operativa», «reddituali».
+**Opzione:** Efficienza allocativa.
+**Distrattori:**
+- Produttività.
+- Efficienza operativa.
+- Reddituali.
+
+**D:** ⚠️ A quale tipologia di indici appartiene il rapporto crediti verso la clientela / numero dei dipendenti, secondo il test della lezione 21 (domanda 4)?
+**R:** Agli indici di **produttività**: tutti quelli della slide 3 con i **dipendenti** al denominatore. La slide dice solo «dipendenti»; per il docente si può intendere numero o costo ([00:18:32]). Distrattori del test: «efficienza operativa», «efficienza allocativa», «reddituali».
+**Opzione:** Produttività.
+**Distrattori:**
+- Efficienza operativa.
+- Efficienza allocativa.
+- Reddituali.
+
+**D:** ⚠️ A quale tipologia di indici appartiene il rapporto margine di interesse / margine di intermediazione, secondo il test della lezione 21 (domanda 5)?
+**R:** Agli indici di **composizione dei risultati reddituali**, con commissioni nette e risultato delle operazioni finanziarie sul margine di intermediazione (slide 3). Dice quanta parte del margine di intermediazione viene dal margine di interesse. Distrattori del test: «efficienza operativa», «efficienza allocativa», «reddituali»; qui «produttività» non c'è.
+**Opzione:** Composizione dei risultati reddituali.
+**Distrattori:**
+- Efficienza operativa.
+- Efficienza allocativa.
+- Reddituali.
+
+**D:** ⚠️ In quali categorie si distinguono gli indicatori utili all'analisi della redditività della banca, secondo la slide 2 della lezione 21?
+**R:** Indici **reddituali**; indici di **efficienza operativa**; indici di **efficienza allocativa**; indici di **produttività**; indici di **composizione dei risultati reddituali** (slide 2). L'analisi per indici consente di effettuare agevolmente valutazioni e confronti intertemporali e interaziendali.
+**Opzione:** Indici reddituali; di efficienza operativa; di efficienza allocativa; di produttività; di composizione dei risultati reddituali.
+**Distrattori:**
+- Indici reddituali; di efficienza operativa; di efficienza allocativa; di produttività; di struttura finanziaria.
+- Attività fruttifere di proventi finanziari; attività non fruttifere di proventi finanziari; attività immobilizzate.
+- Nell'immediato le principali peculiarità della banca in termini di struttura delle fonti.
+
+**D:** ⚠️ Quali sono gli indici reddituali, e con quali formule, secondo la slide 3 della lezione 21?
+**R:** Il **ROE**, *return on equity*, RE/PN; il **ROA**, *return on assets*, RE/TA (slide 3). Per il docente il ROE è la redditività del patrimonio netto, cioè dei soldi dei soci; il ROA la redditività di tutto l'attivo, l'investimento complessivo ([00:06:20]–[00:08:25]).
+**Opzione:** ROE, risultato di esercizio / patrimonio netto; ROA, risultato di esercizio / totale attivo.
+**Distrattori:**
+- ROE, risultato di esercizio / totale attivo; ROA, risultato di esercizio / patrimonio netto.
+- Come differenza tra crediti e debiti verso Banche centrali.
+- Le attività materiali e le attività immateriali, avviamento compreso.
+
+**D:** ⚠️ Quali sono gli indici di efficienza operativa, e come si leggono, secondo la lezione 21?
+**R:** Il **cost to income ratio**, costi operativi / margine di intermediazione (CO/MINTM), e il **cost to total assets**, costi operativi / totale attivo (CO/TA) (slide 3). Per il docente «più l'indicatore si **abbassa**, più significa che l'impresa diventa **efficiente**» ([00:08:25]–[00:10:43]).
+**Opzione:** Cost to income ratio (costi operativi / margine di intermediazione) e cost to total assets (costi operativi / totale attivo): più sono bassi, più la banca è efficiente.
+**Distrattori:**
+- Cost to income ratio (costi operativi / margine di intermediazione) e cost to total assets (costi operativi / totale attivo): più sono alti, più la banca è efficiente.
+- Raccolta presso la clientela, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+- Le attività fiscali; le attività non correnti e gruppi di attività in via di dismissione; le altre attività.
+
+**D:** ⚠️ Quali sono gli indici di efficienza allocativa, e come si leggono, secondo la lezione 21?
+**R:** **Rettifiche nette per deterioramento / margine di intermediazione** (RND/MINTM) e **rettifiche nette per deterioramento / totale attivo** (RND/TA) (slide 3). Per il docente più è alto il deterioramento, più sono alte le perdite a conto economico e **minore è l'efficienza allocativa** ([00:16:03]–[00:18:12]).
+**Opzione:** Rettifiche nette per deterioramento / margine di intermediazione e rettifiche nette per deterioramento / totale attivo: più sono alti, minore è l'efficienza allocativa.
+**Distrattori:**
+- Accantonamenti netti ai fondi per rischi e oneri / margine di intermediazione e accantonamenti netti / totale attivo: più sono alti, minore è l'efficienza allocativa.
+- Passività fiscali; passività associate ad attività in via di dismissione; altre passività; trattamento di fine rapporto del personale; fondi per rischi e oneri; azioni rimborsabili.
+- La raccolta, cioè la capacità di raccogliere denaro anche oltre la Banca centrale; la fonte più semplice e comune è la raccolta presso la clientela con i conti correnti.
+
+**D:** ⚠️ Quali sono gli indici di produttività, secondo la slide 3 della lezione 21?
+**R:** Crediti verso clientela / dipendenti (CC/DIP); debiti verso clientela / dipendenti (DC/DIP); totale attivo / dipendenti (TA/DIP); margine di intermediazione / dipendenti (MINTM/DIP); risultato lordo di gestione / dipendenti (RLG/DIP) (slide 3). Per il docente «dipendenti» può voler dire **numero o costo** dei dipendenti ([00:18:12]–[00:19:19]).
+**Opzione:** Crediti verso clientela, debiti verso clientela, totale attivo, margine di intermediazione e risultato lordo di gestione, ciascuno rapportato ai dipendenti.
+**Distrattori:**
+- Crediti verso clientela, debiti verso clientela, totale attivo, margine di intermediazione e risultato lordo di gestione, ciascuno rapportato al patrimonio netto.
+- Fra le attività fruttifere di proventi finanziari.
+- Crediti verso banche centrali / totale attivo; crediti verso banche centrali / crediti verso banche.
+
+**D:** ⚠️ Quali sono gli indici di composizione dei risultati reddituali, e quanto fa la loro somma, secondo la lezione 21?
+**R:** Margine d'interesse / margine di intermediazione (MINT/MINTM); commissioni nette / margine di intermediazione (CN/MINTM); risultato delle operazioni finanziarie / margine di intermediazione (RNOF/MINTM) (slide 3). Per il docente dicono quanta parte del margine di intermediazione viene da ogni componente, e la loro somma fa **100%**, perché le tre componenti formano il margine di intermediazione ([00:19:19]–[00:20:53]).
+**Opzione:** Margine d'interesse, commissioni nette e risultato delle operazioni finanziarie, ciascuno sul margine di intermediazione; la loro somma fa 100%.
+**Distrattori:**
+- Margine d'interesse, commissioni nette e risultato delle operazioni finanziarie, ciascuno sul totale attivo; la loro somma fa 100%.
+- Fra le passività non onerose di oneri finanziari.
+- Che per ogni euro dei soci altri soggetti hanno messo 6 euro; in generale va bene fra 1,5 e 2,5, ma per la banca conta la media di settore.
+
+**D:** ⚠️ A quale categoria appartiene l'indice costi operativi / totale attivo, secondo la slide 3 della lezione 21?
+**R:** All'**efficienza operativa**: è il *cost to total assets*, accanto al cost to income (slide 3). Al numeratore ci sono i costi operativi; il totale attivo al denominatore non lo rende un indice reddituale.
+**Opzione:** Efficienza operativa.
+**Distrattori:**
+- Efficienza allocativa.
+- Nella gestione operazioni finanziarie.
+- Attività fruttifere di proventi finanziari.
+
+**D:** ⚠️ A quale categoria appartiene l'indice risultato lordo di gestione / dipendenti, secondo la slide 3 della lezione 21?
+**R:** Alla **produttività**: tutti gli indici con i **dipendenti** al denominatore sono di produttività, anche se al numeratore c'è un risultato reddituale (slide 3).
+**Opzione:** Produttività.
+**Distrattori:**
+- Reddituali.
+- Passività non onerose di oneri finanziari.
+- Risultato netto di gestione più oneri/proventi straordinari.
+
+**D:** Che cosa significa efficienza allocativa per il docente della lezione 21, e perché si parla di deterioramento dei crediti?
+**R:** È la capacità di «prestare soldi solo a quei soggetti che potenzialmente sono in grado di restituirli», così che la redditività non sia soggetta a rettifiche. Si parla di **deterioramento** perché il credito può essere restituito solo in parte, o con le rate in capitale ma senza gli interessi: la banca allora rettifica il credito e rileva una perdita a conto economico ([00:15:20]–[00:18:12]).
+**Opzione:** Prestare soldi solo a chi è in grado di restituirli; si parla di deterioramento perché il credito può essere restituito solo in parte, o senza gli interessi.
+**Distrattori:**
+- Ridurre i costi operativi a parità di risultati; si parla di deterioramento perché i costi della struttura crescono nel tempo.
+- Per la disintermediazione creditizia e l'abbassamento dei tassi di interesse, che hanno ristretto lo spread fra tasso dei prestiti e costo della raccolta.
+- Dal TUS della Banca d'Italia, oggi sostituito dall'Euribor; al tasso base si aggiungono più punti quanto più il cliente è rischioso.
+
+**D:** ⚠️ Che cos'è il ROE per la slide 4 della lezione 21, e a che cosa serve scomporlo?
+**R:** «L'indicatore di sintesi di **maggiore importanza** riguardo la performance reddituale della banca». Si scompone progressivamente in diversi ratios reddituali, in uno **schema sistematico** di indicatori. La scomposizione evidenzia il **contributo delle diverse aree gestionali** alla redditività complessiva, mette in rilievo i **fattori** alla base della performance e spinge a ricercarne le **cause** (slide 4).
+**Opzione:** L'indicatore di sintesi di maggiore importanza della performance reddituale; scomporlo evidenzia il contributo delle aree gestionali, i fattori alla base della performance e le cause che vi hanno influito.
+**Distrattori:**
+- L'indicatore di sintesi di maggiore importanza della solidità patrimoniale; scomporlo evidenzia il contributo delle aree gestionali, i fattori alla base della performance e le cause che vi hanno influito.
+- Le rettifiche sono perdite effettivamente scontate sui prestiti; gli accantonamenti sono solo programmatici e probabilistici, per rischi e spese futuri.
+- Le ha ridotte sensibilmente, perché la maggior parte delle operazioni, come i bonifici, i clienti la fanno in autonomia dai portali delle banche.
+
+**D:** ⚠️ Quali due caratteristiche strutturali distinguono l'albero del ROE dal conto economico elaborato per margini, secondo la slide 4 della lezione 21?
+**R:** 1) **procede al contrario** rispetto alla formazione del conto economico: **scompone anziché comporre** i risultati; 2) si basa su **indici**, invece che su **dati assoluti** (slide 4). Per il docente parte dall'indicatore più complesso e lo scompone, e usa sempre rapporti, «mai valori assoluti» ([00:22:18]–[00:23:33]).
+**Opzione:** Procede al contrario rispetto alla formazione del conto economico, scomponendo anziché comporre i risultati, e si basa su indici invece che su dati assoluti.
+**Distrattori:**
+- Procede nello stesso verso della formazione del conto economico, componendo i risultati, e si basa su indici invece che su dati assoluti.
+- Sviluppando servizi su cui applicano commissioni; le più grandi sono state più performanti, perché potevano sostenere i costi di ricerca e sviluppo e di struttura.
+- Nel risultato di pertinenza di terzi e nel risultato di pertinenza della capogruppo.
+
+**D:** Quale punto in comune ha l'albero del ROE con l'analisi del conto economico, secondo la slide 4 della lezione 21?
+**R:** Il **risultato d'esercizio**: è l'**ultima voce** del conto economico e la **prima voce, al numeratore**, dell'albero del ROE (slide 4).
+**Opzione:** Il risultato d'esercizio, ultima voce del conto economico e prima voce, al numeratore, dell'albero del ROE.
+**Distrattori:**
+- Il margine di intermediazione, voce intermedia del conto economico e prima voce, al numeratore, dell'albero del ROE.
+- Solo nel consolidato, con premi netti, saldo degli altri proventi/oneri della gestione assicurativa e risultato netto della gestione assicurativa.
+- L'adeguamento di valore delle attività finanziarie oggetto di copertura generica e le partecipazioni.
+
+**D:** ⚠️ In quali due indici si scompone il ROE al primo livello dell'albero, secondo la slide 5 della lezione 21?
+**R:** Nel **ROA**, risultato di esercizio / totale attivo, e nella **leva** (LEV), totale attivo / patrimonio netto: **ROE = ROA × LEV** (slide 5). Per il docente è la «leva di bilancio»: moltiplicando ROA e leva si ritorna al ROE ([00:23:33]–[00:24:46]).
+**Opzione:** ROA (risultato di esercizio / totale attivo) × leva (totale attivo / patrimonio netto).
+**Distrattori:**
+- ROA (risultato di esercizio / totale attivo) × leva (patrimonio netto / totale attivo).
+- MGDS = margine di interesse + commissioni nette; margine di intermediazione = MGDS + risultato netto delle operazioni finanziarie.
+- Dividendi e proventi simili; risultato netto da negoziazione; risultato netto da coperture; utili/perdite da cessione o riacquisto; risultato netto delle attività e passività al fair value.
+
+**D:** ⚠️ In quali tre indici si scompone il ROA nell'albero del ROE, secondo la slide 5 della lezione 21?
+**R:** **RI**, margine di intermediazione / totale attivo; **risultato di esercizio / risultato lordo di gestione**; **risultato lordo di gestione / margine di intermediazione**. Il prodotto dei tre dà RE/TA (slide 5). Per il docente scomporre il ROA serve a capire su quali attività agire per migliorarlo, e quindi migliorare il ROE ([00:24:46]–[00:25:36]).
+**Opzione:** Margine di intermediazione / totale attivo; risultato di esercizio / risultato lordo di gestione; risultato lordo di gestione / margine di intermediazione.
+**Distrattori:**
+- Margine di intermediazione / totale attivo; risultato di esercizio / risultato lordo di gestione; risultato lordo di gestione / patrimonio netto.
+- Spese amministrative (per il personale e altre); accantonamenti netti ai fondi per rischi e oneri; rettifiche/riprese su attività materiali e immateriali; altri oneri/proventi di gestione.
+- Utili (perdite) delle partecipazioni; risultato netto della valutazione al fair value delle attività materiali e immateriali; rettifiche di valore dell'avviamento; utili (perdite) da cessioni di investimenti.
+
+**D:** ⚠️ Che cosa influenza, nell'albero del ROE, il rapporto risultato di esercizio / risultato lordo di gestione, e che cosa misura il rapporto risultato lordo di gestione / margine di intermediazione, secondo la slide 5 della lezione 21?
+**R:** Il primo dipende da **rettifiche, oneri/proventi straordinari ed effetto fiscale**; il secondo misura l'**efficienza operativa** (slide 5). Per il docente, con meno rettifiche, meno oneri straordinari e un effetto fiscale meno pesante migliora RE/RLG; migliorando l'efficienza operativa migliora RLG/MINTM; in entrambi i casi migliorano ROA e ROE ([00:25:36]–[00:27:00]).
+**Opzione:** Il primo dipende da rettifiche, oneri/proventi straordinari ed effetto fiscale; il secondo misura l'efficienza operativa.
+**Distrattori:**
+- Il primo misura l'efficienza operativa; il secondo dipende da rettifiche, oneri/proventi straordinari ed effetto fiscale.
+- Le voci da cui scaturiscono le componenti positive o negative del conto economico che contribuiscono al margine di interesse.
+- Che le attività fruttifere possono produrre anche oneri finanziari, per esempio per risultati negativi della negoziazione; e le passività onerose anche proventi, per risultati positivi della negoziazione di passività.
+
+**D:** ⚠️ In quali due indici si scompone il rapporto margine di intermediazione / totale attivo (RI) nell'albero del ROE, e a che cosa rimandano, secondo la slide 5 della lezione 21?
+**R:** Nella **RGD**, margine di interesse / totale attivo, che rimanda alla **formazione del margine di interesse**, e nel rapporto **margine di intermediazione / margine di interesse**, che rimanda agli **altri ricavi netti** (slide 5). Per il docente più gli altri ricavi netti sono sviluppati, più sale il secondo indicatore e, a catena, il ROE ([00:27:00]–[00:28:42]).
+**Opzione:** Margine di interesse / totale attivo (formazione del margine di interesse) e margine di intermediazione / margine di interesse (altri ricavi netti).
+**Distrattori:**
+- Margine di interesse / totale attivo (altri ricavi netti) e margine di intermediazione / margine di interesse (formazione del margine di interesse).
+- Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della capacità o meno di produrre proventi e oneri per la banca.
+- Debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; adeguamento di valore delle passività oggetto di copertura generica.
+
+**D:** ⚠️ Che cosa sono il margine d'interesse e la redditività della gestione denaro (RGD), secondo la slide 6 della lezione 21?
+**R:** Il **margine d'interesse** (MINT) è il **risultato netto della gestione denaro**. La **RGD** è il **rapporto tra margine di interesse e totale attivo** (slide 6). Per il docente la gestione denaro è la raccolta presso il pubblico e il prestito alla clientela ([00:28:42]).
+**Opzione:** Il margine d'interesse è il risultato netto della gestione denaro; la RGD è il rapporto tra margine di interesse e totale attivo.
+**Distrattori:**
+- Il margine d'interesse è il risultato netto della gestione denaro; la RGD è il rapporto tra margine di interesse e margine di intermediazione.
+- Passività onerose di oneri finanziari, passività non onerose di oneri finanziari, patrimonio netto.
+- Nella relazione sulla gestione, che il consiglio di amministrazione deve redigere e allegare al bilancio.
+
+**D:** ⚠️ Come si esprime il margine di interesse in funzione di rendimenti, costi e volumi, e come si definisce lo spread, secondo la slide 6 della lezione 21?
+**R:** MINT = IA − IP = **rm·AF − cm·PO**, con rm il rendimento medio delle attività fruttifere e cm il costo medio delle passività onerose. Lo **spread** è **s = rm − cm**, quindi rm = s + cm (slide 6; docente [00:29:11]–[00:30:01]).
+**Opzione:** MINT = rm·AF − cm·PO; lo spread è s = rm − cm, la differenza fra rendimento medio delle attività fruttifere e costo medio delle passività onerose.
+**Distrattori:**
+- MINT = rm·AF − cm·PO; lo spread è s = cm − rm, la differenza fra costo medio delle passività onerose e rendimento medio delle attività fruttifere.
+- Funziona con l'inflazione endogena, legata alla crescita dell'economia; non serve con l'inflazione importata, come quella dei prezzi energetici.
+- Il risultato lordo di gestione (RLG) e il risultato netto di gestione (RNG).
+
+**D:** ⚠️ A quale espressione si arriva per il margine di interesse sostituendo rm = s + cm, e quale per la RGD, secondo le slide 6–7 della lezione 21?
+**R:** **MINT = s·AF + cm·(AF − PO)**; dividendo per il totale attivo, **RGD = s·(AF/TA) + cm·(AF − PO)/TA** (slide 6–7). ⚠️ La slide 6 scrive «cm * [AF – (PO / TA)]», con la parentesi spostata; la forma corretta è quella della slide 7.
+**Opzione:** MINT = s·AF + cm·(AF − PO); RGD = s·(AF/TA) + cm·(AF − PO)/TA.
+**Distrattori:**
+- MINT = s·AF + cm·(AF + PO); RGD = s·(AF/TA) + cm·(AF + PO)/TA.
+- Il conto economico per aree gestionali di produzione bancaria; lo stato patrimoniale per fonti di proventi e di oneri.
+- Margine di gestione denaro e servizi (MGDS); risultato netto delle operazioni finanziarie (RNOF); risultato netto della gestione assicurativa (RNGA); oneri/proventi straordinari (OPS).
+
+**D:** ⚠️ A che cosa è uguale la differenza fra attività fruttifere e passività onerose nella formazione del margine di interesse, secondo la slide 6 della lezione 21?
+**R:** **AF − PO = PN − AI = PL**: al patrimonio netto meno le attività immobilizzate, cioè al **patrimonio libero**. Quindi MINT = s·AF + cm·PL e RGD = s·(AF/TA) + cm·(PL/TA) (slide 6). Per il docente il patrimonio libero sono i soldi messi dai soci o gli utili non distribuiti, non la raccolta presso il pubblico ([00:30:58]–[00:32:06]). La nota segnala in un blocco ℹ️ che l'uguaglianza richiede che attività non fruttifere e passività non onerose si compensino.
+**Opzione:** Al patrimonio netto meno le attività immobilizzate, cioè al patrimonio libero.
+**Distrattori:**
+- Al patrimonio netto più le attività immobilizzate, cioè al patrimonio libero.
+- Per delineare la modalità di formazione dei margini intermedi e il contributo delle diverse voci al risultato di esercizio, e per consentire il calcolo dei relativi indicatori di analisi.
+- La modalità di formazione dei risultati economici e dei margini intermedi, e il contributo delle diverse aree gestionali della banca alla formazione del risultato finale.
+
+**D:** ⚠️ Da quali cinque fattori dipendono il margine di interesse e la redditività della gestione denaro, secondo la slide 7 della lezione 21?
+**R:** **Effetto spread**; **effetto patrimonio libero**; **effetto volumi**; **effetto tasso**; **effetto composizione del bilancio** (slide 7). Per il docente: lo spread fra rendimento e costo; il patrimonio dei soci e gli utili non distribuiti; il valore complessivo di attività fruttifere e passività onerose; quanto incidono i tassi; i rapporti fra le voci dello stato patrimoniale ([00:31:43]–[00:33:37]).
+**Opzione:** Effetto spread; effetto patrimonio libero; effetto volumi; effetto tasso; effetto composizione del bilancio.
+**Distrattori:**
+- Effetto spread; effetto patrimonio libero; effetto volumi; effetto tasso; effetto leva finanziaria.
+- A parità di altri fattori, la redditività migliora.
+- Ha poco senso su un unico esercizio; ha molto senso sugli ultimi 10 esercizi della stessa impresa, e riferito a più imprese in più anni.
+
+**D:** ⚠️ Quale termine della formula del margine di interesse corrisponde all'effetto spread e quale all'effetto patrimonio libero, secondo la slide 7 della lezione 21?
+**R:** **s·AF** è l'**effetto spread**; **cm·(AF − PO)** è l'**effetto patrimonio libero**. Effetto volumi, effetto tasso ed effetto composizione del bilancio agiscono su **entrambi** i termini (slide 7).
+**Opzione:** s·AF è l'effetto spread; cm·(AF − PO) è l'effetto patrimonio libero; volumi, tasso e composizione del bilancio agiscono su entrambi.
+**Distrattori:**
+- s·AF è l'effetto patrimonio libero; cm·(AF − PO) è l'effetto spread; volumi, tasso e composizione del bilancio agiscono su entrambi.
+- Per margini, cogliere la formazione del risultato d'esercizio e il contributo delle componenti di ricavo e di costo; per indici, valutazioni e confronti intertemporali e interaziendali.
+- Dalla lettura del conto economico, cioè l'analisi per margini, e dalla costruzione di opportuni indicatori reddituali, cioè l'analisi per indici.
+
+**D:** ⚠️ Dove si analizza la patrimonializzazione della banca, e quali componenti dei fondi propri vi sono dettagliate, secondo la slide 8 della lezione 21?
+**R:** Nella **parte F** della nota integrativa. Vi sono dettagliati il **capitale primario di classe 1** (*Common Equity Tier 1*, CET1), il **capitale aggiuntivo di classe 1** (*Additional Tier 1*, AT1), il **capitale di classe 2** (*Tier 2*, T2) e il **totale fondi propri** (slide 8). Per il docente sono le tre componenti del «patrimonio di rischio» ([00:33:37]–[00:34:22]).
+**Opzione:** Nella parte F della nota integrativa: capitale primario di classe 1 (CET1), capitale aggiuntivo di classe 1 (AT1), capitale di classe 2 (T2) e totale fondi propri.
+**Distrattori:**
+- Nella parte E della nota integrativa: capitale primario di classe 1 (CET1), capitale aggiuntivo di classe 1 (AT1), capitale di classe 2 (T2) e totale fondi propri.
+- L'attitudine della banca a produrre reddito, ovvero a operare in equilibrio economico tra costi e ricavi.
+- Al rendimento dei fattori produttivi, ovvero alla massimizzazione del risultato ottenuto in termini di prodotti e servizi erogati.
+
+**D:** ⚠️ Come si ottiene il totale fondi propri nello schema della parte F, secondo la slide 8 della lezione 21?
+**R:** **Q = F + L + P**: totale CET1 (F = C − D ± E) più totale AT1 (L = G − H ± I) più totale T2 (P = M − N ± O). Per ciascuna componente si parte dal valore lordo, si tolgono gli elementi da dedurre e si aggiunge o toglie l'impatto del regime transitorio; per il CET1 si applicano prima i filtri prudenziali (slide 8).
+**Opzione:** Sommando il totale del capitale primario di classe 1 (CET1), il totale del capitale aggiuntivo di classe 1 (AT1) e il totale del capitale di classe 2 (T2).
+**Distrattori:**
+- Sommando il totale del capitale primario di classe 1 (CET1) e il totale del capitale aggiuntivo di classe 1 (AT1), senza il capitale di classe 2 (T2).
+- Cambia anche il leverage ratio, perché gli indicatori sono correlati: per incidere sul leverage si deve agire su crediti, debiti e titoli in circolazione.
+- Perché moltiplica gli utili quando crescono, ma amplifica le perdite quando gli utili diventano una perdita, e il rischio di insolvenza diventa molto alto.
+
+**D:** Come si passa dal capitale primario di classe 1 lordo al totale CET1 nello schema della parte F, secondo la slide 8 della lezione 21?
+**R:** Si parte dal CET1 **prima dell'applicazione dei filtri prudenziali** (A); si applicano i **filtri prudenziali** (B), ottenendo C = A ± B; si tolgono gli **elementi da dedurre** (D) e si aggiunge o toglie l'**impatto del regime transitorio** (E): F = C − D ± E (slide 8).
+**Opzione:** Si applicano al CET1 lordo i filtri prudenziali, poi si tolgono gli elementi da dedurre e si aggiunge o toglie l'impatto del regime transitorio.
+**Distrattori:**
+- Si applicano al CET1 lordo i filtri prudenziali, poi si tolgono gli elementi da dedurre e si aggiunge il capitale aggiuntivo di classe 1.
+- Posizione interbancaria netta verso Banche centrali / totale attivo; posizione interbancaria netta verso Banche centrali / posizione interbancaria netta.
+- Debiti verso banche centrali / totale passivo; debiti verso banche centrali / debiti verso banche.
