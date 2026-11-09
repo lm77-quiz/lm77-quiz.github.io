@@ -2859,3 +2859,292 @@
 - Al valore di presunto realizzo.
 - Al valore delle sanzioni.
 - Al valore derivante dal contenzioso in essere.
+
+## Lezione 12 — La struttura del bilancio della banca
+
+**D:** Con quale argomento si chiude l'agenda della lezione 12 sulla struttura del bilancio della banca?
+**R:** Con la voce XII, «**Percorsi di lettura: i crediti alla clientela**» (slide 2). L'agenda ha dodici voci: la lezione 12 copre le prime quattro, e le altre corrispondono ai deck 13–17.
+**Opzione:** Percorsi di lettura: i crediti alla clientela.
+**Distrattori:**
+- La struttura della nota integrativa.
+- Il Rendiconto Finanziario.
+- Il Prospetto delle Variazioni del Patrimonio Netto.
+
+**D:** ⚠️ Da chi è stato adottato, e quando, il Regolamento (CE) 1606/2002, secondo la lezione 12?
+**R:** «Il Regolamento (CE) 1606/2002 del **Parlamento europeo e del Consiglio** del **19 luglio 2002**» (slide 3). Il docente dice solo «dal Parlamento Europeo nel 2002» ([00:12:50]).
+**Opzione:** Dal Parlamento europeo e dal Consiglio, il 19 luglio 2002.
+**Distrattori:**
+- Dal Parlamento europeo e dal Consiglio, il 22 dicembre 2005.
+- Dalla Banca d'Italia, il 19 luglio 2002.
+- Dal documento OIC n. 28, che esamina la funzione e le modalità di formazione delle singole voci.
+
+**D:** ⚠️ Quale obiettivo si è posto il Regolamento (CE) 1606/2002, secondo la lezione 12?
+**R:** «Armonizzare l'informazione finanziaria in modo da tendere a un elevato livello di **trasparenza e comparabilità** dei bilanci che consenta di porre le basi informative per un più efficiente funzionamento del **mercato comunitario dei capitali** e del **mercato interno**» (slide 3). Per il docente il mezzo è un unico set di regole per tutti, i principi contabili internazionali ([00:13:05]–[00:15:11]).
+**Opzione:** Armonizzare l'informazione finanziaria in modo da tendere a un elevato livello di trasparenza e comparabilità dei bilanci, che consenta di porre le basi informative per un più efficiente funzionamento del mercato comunitario dei capitali e del mercato interno.
+**Distrattori:**
+- Armonizzare l'informazione finanziaria in modo da tendere a un elevato livello di prudenza nella determinazione dell'utile, che consenta di porre le basi informative per un più efficiente funzionamento del mercato comunitario dei capitali e del mercato interno.
+- L'estraneità della fonte del provento o dell'onere rispetto alla gestione ordinaria.
+- Per consentire al terzo lettore del bilancio un'immediata percezione dell'esistenza di azioni proprie.
+
+**D:** ⚠️ Da quale esercizio il d.lgs. 38/2005 obbliga le banche ad adottare gli IAS/IFRS nel bilancio consolidato e in quello di esercizio, secondo la lezione 12?
+**R:** Il d.lgs. 38/2005 «ha dato applicazione all'obbligo per le banche di redigere il **bilancio consolidato** in conformità ai nuovi principi contabili internazionali (IAS/IFRS) a partire dall'esercizio **2005** (a partire dall'esercizio **2006** per la redazione del **bilancio di esercizio**, con l'opzione, in quest'ultimo caso, di **anticipare all'esercizio 2005**)» (slide 3; docente [00:20:09]–[00:20:45]).
+**Opzione:** Il consolidato dall'esercizio 2005; il bilancio di esercizio dall'esercizio 2006, con l'opzione di anticipare al 2005.
+**Distrattori:**
+- Il bilancio di esercizio dall'esercizio 2005; il consolidato dall'esercizio 2006, con l'opzione di anticipare al 2005.
+- Il 5% degli utili, finché la riserva non raggiunge almeno il 20% del capitale sociale.
+- Come passività, al netto, di norma, degli eventuali crediti verso l'erario e degli acconti versati.
+
+**D:** ⚠️ Con quale circolare, di quale data e con quale titolo la Banca d'Italia ha emanato le istruzioni per il bilancio delle banche, secondo la lezione 12?
+**R:** «Con la **Circolare 262 del 22 dicembre 2005** Il bilancio bancario: **schemi e regole di compilazione**» (slide 3). Per il docente disciplina come vanno adottati gli schemi di bilancio e quali voci devono essere obbligatoriamente presenti ([00:20:48]–[00:21:54]).
+**Opzione:** La Circolare 262 del 22 dicembre 2005, Il bilancio bancario: schemi e regole di compilazione.
+**Distrattori:**
+- La Circolare 262 del 18 novembre 2009, Il bilancio bancario: schemi e regole di compilazione.
+- La Circolare 262 del 19 luglio 2002, Il bilancio bancario: schemi e regole di compilazione.
+- Una voce di costo del prospetto dell'art. 2425 c.c.: imposte sul reddito d'esercizio, correnti, differite, anticipate.
+
+**D:** Quali aggiornamenti della Circolare 262 cita la slide 3 della lezione 12?
+**R:** La circolare è stata «successivamente modificata il **18 novembre 2009** (I aggiornamento), il **21 gennaio 2014** (II aggiornamento) e il **22 dicembre 2014** (III aggiornamento)» (slide 3). Lo schema di stato patrimoniale della slide 6 viene invece dal **VI aggiornamento del 30 novembre 2018**. Per il docente si aggiorna «quasi ogni anno o ogni 2-3 anni» ([00:21:54]).
+**Opzione:** Il I il 18 novembre 2009, il II il 21 gennaio 2014 e il III il 22 dicembre 2014.
+**Distrattori:**
+- Il I il 22 dicembre 2005, il II il 18 novembre 2009 e il III il 21 gennaio 2014.
+- Il I il 18 novembre 2009, il II il 21 gennaio 2014 e il III il 30 novembre 2018.
+- Non si effettua alcuno stanziamento in bilancio.
+
+**D:** Quali soggetti risentono, per il docente della lezione 12, di una doppia disciplina di bilancio, nazionale speciale e internazionale?
+**R:** Le **società quotate in borsa**, le **banche** e le **compagnie assicuratrici**, oltre ad altri soggetti vigilati da autorità speciali ([00:00:45]–[00:02:33]). In ambito nazionale hanno regole specifiche di redazione; in ambito internazionale l'obbligo di adottare gli IAS «a determinate condizioni».
+**Opzione:** Le società quotate in borsa, le banche e le compagnie assicuratrici, oltre ad altri soggetti vigilati da autorità speciali.
+**Distrattori:**
+- Le società quotate in borsa e le banche, mentre le compagnie assicuratrici seguono solo la disciplina nazionale.
+- Non li trattano espressamente: li considerano all'interno delle più ampie classi di debiti e crediti.
+- Ripartendo il provento o l'onere, per attribuire la quota parte di competenza dell'esercizio in chiusura.
+
+**D:** ⚠️ In che cosa consiste l'intermediazione finanziaria delle banche, secondo il docente della lezione 12?
+**R:** Nel trasferire la liquidità **dai soggetti in surplus ai soggetti in deficit** finanziario: la banca raccoglie il risparmio delle famiglie e degli enti e lo mette a disposizione delle imprese, che ne hanno bisogno a medio-lungo termine. È la «**cinghia di trasmissione**» fra raccolta del risparmio e investimento ([00:03:59]–[00:05:31]).
+**Opzione:** Nel trasferire la liquidità dai soggetti in surplus a quelli in deficit finanziario: la banca raccoglie il risparmio di famiglie ed enti e lo impiega presso le imprese, come cinghia di trasmissione fra risparmio e investimento.
+**Distrattori:**
+- Nel trasferire la liquidità dai soggetti in deficit a quelli in surplus finanziario: la banca raccoglie presso le imprese e impiega presso famiglie ed enti, come cinghia di trasmissione fra risparmio e investimento.
+- Il TFR spetta a qualunque lavoratore per qualunque causa di cessazione del rapporto, con un accantonamento annuale; la quiescenza comprende gli eventuali ulteriori trattamenti in caso di pensionamento.
+- I fondi per oneri fronteggiano passività di competenza dell'esercizio in chiusura, certe nell'esistenza; i fondi rischi passività la cui esistenza è solo probabile.
+
+**D:** ⚠️ Quale rischio introduce, per il docente della lezione 12, l'elemento decisivo della specialità dei bilanci bancari?
+**R:** Il **rischio di credito**: investendo il denaro raccolto sotto forma di prestiti a terzi, la banca corre il rischio che la controparte non restituisca, in tutto o in parte, gli **interessi** o il **capitale** ([00:05:53]–[00:07:27]). Si aggiunge alla **tutela del risparmio**, che il docente mette «prima fra tutti» le altre funzioni.
+**Opzione:** Il rischio di credito: che la controparte a cui la banca ha prestato il denaro non restituisca, in tutto o in parte, gli interessi o il capitale.
+**Distrattori:**
+- Il rischio di credito: che la banca non restituisca ai depositanti, in tutto o in parte, il denaro raccolto.
+- Non fra fondi rischi e fondi per oneri secondo la certezza o probabilità della passività, ma fra accantonamenti e passività potenziali.
+- Solo se si può ritenere probabile il verificarsi di eventi che faranno sorgere passività o perdere attività, e se l'onere è stimabile con sufficiente ragionevolezza.
+
+**D:** ⚠️ Che cosa accade a una banca in dissesto, e perché è più pericoloso del dissesto di un'impresa, secondo il docente della lezione 12?
+**R:** Le banche **non vengono dichiarate fallite**: sono sottoposte alla **liquidazione coatta amministrativa**. Il perimetro coinvolto è molto più vasto: creditori, **depositanti**, imprese finanziate, dipendenti, azionisti. Poiché le banche si prestano denaro fra loro, il dissesto può innescare **fallimenti a catena** e il «**panico da sportello**» ([00:08:26]–[00:10:28]).
+**Opzione:** Non fallisce, ma è sottoposta a liquidazione coatta amministrativa; il perimetro coinvolto è molto più vasto e, poiché le banche si prestano denaro fra loro, può innescare fallimenti a catena e il panico da sportello.
+**Distrattori:**
+- Viene dichiarata fallita come ogni altra impresa; il perimetro coinvolto è molto più vasto e, poiché le banche si prestano denaro fra loro, può innescare fallimenti a catena e il panico da sportello.
+- Può essere iscritto nell'attivo, purché le ragioni siano indicate in nota integrativa; la differenza può dipendere da un cattivo affare o dal maggior valore attribuito al complesso rispetto ai singoli beni.
+- In un consolidamento sintetico: produce gli stessi effetti di un bilancio consolidato sulla consistenza patrimoniale e sul risultato d'esercizio.
+
+**D:** ⚠️ Come si confrontavano due banche di paesi diversi prima del Regolamento europeo del 2002, secondo il docente della lezione 12?
+**R:** Ogni banca seguiva le regole nazionali del suo paese, quindi bisognava **riesprimere** il bilancio dell'una secondo i principi nazionali dell'altra. Moltiplicato per 10, 15, 20 banche, il confronto era «lunghissimo, costosissimo e difficilissimo», e si facevano scelte non corrette ([00:17:37]–[00:19:08]). Oggi i bilanci delle banche dell'Unione sono «immediatamente comparabili».
+**Opzione:** Bisognava riesprimere il bilancio dell'una secondo i principi nazionali dell'altra: un confronto lunghissimo, costosissimo e difficilissimo.
+**Distrattori:**
+- Bastava confrontare i bilanci, perché ogni banca li redigeva già secondo i principi contabili internazionali.
+- In maniera piuttosto sintetica, tanto che i principi nazionali possono essere un'utile guida anche per applicare gli IAS.
+- Per motivi non strettamente economici, come una successione ereditaria, il pensionamento o la necessità di cambiare settore.
+
+**D:** ⚠️ Quale finalità preminente hanno i principi civilistici e gli IAS/IFRS, secondo la lezione 12?
+**R:** I **civilistici**: «determinare **utile e patrimonio netto** con criteri di **prudenza**». Gli **IAS/IFRS**: «fornire ai **mercati finanziari** informazioni sul **valore reale** dell'impresa» (slide 4). Per il docente i primi tutelano i terzi creditori, i secondi informano sul valore di potenziale scambio ([00:22:40]–[00:24:07]).
+**Opzione:** Civilistici: determinare utile e patrimonio netto con criteri di prudenza; IAS/IFRS: fornire ai mercati finanziari informazioni sul valore reale dell'impresa.
+**Distrattori:**
+- Civilistici: fornire ai mercati finanziari informazioni sul valore reale dell'impresa; IAS/IFRS: determinare utile e patrimonio netto con criteri di prudenza.
+- Lo schema nazionale per natura del costo; lo IAS 19 più specificamente per il tempo.
+- Nei nazionali solo quando una legge specifica consente la rivalutazione, e nei suoi limiti; negli IAS teoricamente tutti gli anni, perché segue le variazioni di fair value dei cespiti.
+
+**D:** ⚠️ Come sono fra loro le finalità dei due sistemi contabili, e chi deve conciliarle, secondo il docente della lezione 12?
+**R:** Le due finalità «non sono convergenti ma anzi per alcuni versi potrebbero risultare addirittura **divergenti**». Per questo l'autorità di vigilanza, la **Banca d'Italia**, deve fare «un grosso sforzo interpretativo» per **conciliare l'applicazione contemporanea** dei due sistemi ([00:24:07]–[00:24:31]).
+**Opzione:** Non sono convergenti, anzi per alcuni versi divergenti; spetta all'autorità di vigilanza, la Banca d'Italia, conciliarne l'applicazione contemporanea.
+**Distrattori:**
+- Sono convergenti, perché entrambi mirano al valore reale dell'impresa; la Banca d'Italia si limita a recepirli.
+- Solo le differenze temporanee, che possono riflettersi sulla competenza delle imposte; se ne occupano l'OIC 25 e lo IAS 12.
+- Nessun principio emanato dallo IASB se ne occupa specificamente: il tema è trattato incidentalmente nei documenti interpretativi SIC 16 e 17 e in alcuni IAS.
+
+**D:** ⚠️ Quali sono le principali novità degli IAS-IFRS nei criteri di redazione e di valutazione del bilancio, secondo la lezione 12?
+**R:** «**Applicazione del fair value**; **applicazione del costo ammortizzato**; **nuova classificazione delle attività finanziarie**» (slide 4). Per il docente il fair value è il valore di mercato, e la classificazione segue la vendibilità del portafoglio nel breve o nel medio-lungo termine ([00:24:31]–[00:25:25]).
+**Opzione:** Applicazione del fair value; applicazione del costo ammortizzato; nuova classificazione delle attività finanziarie.
+**Distrattori:**
+- Applicazione del fair value; applicazione del costo ammortizzato; capitalizzazione dei costi di emissione di nuove azioni.
+- Compensi a breve termine; compensi successivi al rapporto di lavoro; compensi a lungo termine; indennità di fine rapporto; compensi legati al patrimonio netto.
+- Fondo per manutenzioni cicliche; fondo ripristino e sostituzione beni gratuitamente devolvibili; fondo per concorsi e operazioni a premio; fondo per rischi collaudo.
+
+**D:** ⚠️ Che cos'è il costo ammortizzato, secondo il docente della lezione 12?
+**R:** Il **costo del finanziamento** calcolato «tenendo presente il **tasso effettivo** e **non il tasso nominale**» ([00:24:59]). È una delle tre principali novità degli IAS-IFRS della slide 4.
+**Opzione:** Il costo del finanziamento calcolato tenendo presente il tasso effettivo, e non il tasso nominale.
+**Distrattori:**
+- Il costo del finanziamento calcolato tenendo presente il tasso nominale, e non il tasso effettivo.
+- Del fair value.
+- È l'unica deroga al criterio-base del costo, assieme a quella relativa ai lavori in corso su ordinazione.
+
+**D:** ⚠️ Di quali documenti si compone il bilancio bancario secondo le Istruzioni della Banca d'Italia, e quali sono le relazioni accessorie, secondo la lezione 12?
+**R:** Il bilancio comprende la **relazione sulla gestione** (RG), gli **schemi di bilancio** (SB) e la **nota integrativa** (NI). Le **relazioni accessorie** sono la relazione del **collegio sindacale** (RCS) e quella del **revisore legale** (RRL) (slide 5). Per il docente quella del revisore legale è «ovvero della società di revisione» ([00:26:57]).
+**Opzione:** Relazione sulla gestione, schemi di bilancio e nota integrativa; relazioni accessorie: del collegio sindacale e del revisore legale.
+**Distrattori:**
+- Relazione sulla gestione, schemi di bilancio e nota integrativa; relazioni accessorie: della Banca d'Italia e del revisore legale.
+- Nella classe D dell'attivo, ratei e risconti attivi, e nella classe E del passivo, ratei e risconti passivi.
+- Voce B del passivo, prima classe delle passività: per trattamento di quiescenza ed obblighi similari; per imposte, anche differite; strumenti finanziari derivati passivi; altri.
+
+**D:** ⚠️ Quali sono gli schemi di bilancio della banca, secondo la lezione 12?
+**R:** **SP** stato patrimoniale; **CE** conto economico; **PRC** prospetto della redditività complessiva; **PVPN** prospetto delle variazioni del patrimonio netto; **RF** rendiconto finanziario (slide 5). Per il docente il prospetto della redditività complessiva è, in inglese, l'**OCI**, *Other Comprehensive Income* ([00:25:53]–[00:26:15]).
+**Opzione:** Stato patrimoniale; conto economico; prospetto della redditività complessiva; prospetto delle variazioni del patrimonio netto; rendiconto finanziario.
+**Distrattori:**
+- Stato patrimoniale; conto economico; prospetto della redditività complessiva; prospetto delle variazioni del patrimonio netto; nota integrativa.
+- Nella voce B9, fra i costi della produzione: salari e stipendi; oneri sociali; trattamento di fine rapporto; trattamento di quiescenza e simili; altri costi.
+- Estraneità all'attività ordinaria dell'impresa; estraneità all'esercizio di riferimento; aspetti tecnico-contabili, cioè oneri e proventi derivanti da modifiche di stime e da mutamenti di principi o criteri contabili.
+
+**D:** ⚠️ In quali parti si articola la nota integrativa del bilancio bancario, secondo la lezione 12?
+**R:** «Parte A **Politiche contabili**; Parte B Informazioni sullo **stato patrimoniale**; Parte C Informazioni sul **conto economico**; Parte D **Redditività complessiva**; Parte E Informazioni sui **rischi** e sulle relative politiche di copertura; Parte F Informazioni sul **patrimonio**; Parte G Operazioni di **aggregazione** riguardanti imprese o rami d'azienda; Parte H Operazioni con **parti correlate**; Parte I **Accordi di pagamento** basati su propri strumenti patrimoniali; Parte L **Informativa di settore**» (slide 5).
+**Opzione:** A Politiche contabili; B Informazioni sullo stato patrimoniale; C Informazioni sul conto economico; D Redditività complessiva; E Informazioni sui rischi e sulle relative politiche di copertura; F Informazioni sul patrimonio; G Operazioni di aggregazione riguardanti imprese o rami d'azienda; H Operazioni con parti correlate; I Accordi di pagamento basati su propri strumenti patrimoniali; L Informativa di settore.
+**Distrattori:**
+- A Politiche contabili; B Informazioni sullo stato patrimoniale; C Informazioni sul conto economico; D Redditività complessiva; E Informazioni sul patrimonio; F Informazioni sui rischi e sulle relative politiche di copertura; G Operazioni di aggregazione riguardanti imprese o rami d'azienda; H Operazioni con parti correlate; I Accordi di pagamento basati su propri strumenti patrimoniali; L Informativa di settore.
+- Costi anticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in ricavi anticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare.
+- Il risultato civilistico è la differenza fra ricavi e costi d'esercizio; il reddito imponibile è l'utile o la perdita con le variazioni in aumento o in diminuzione dovute alle differenze fra disciplina civilistica e fiscale.
+
+**D:** In quante parti si articola la nota integrativa del bilancio bancario, e come sono identificate, secondo il docente della lezione 12?
+**R:** In «sostanzialmente **10 parti**», ciascuna identificata da una **lettera maiuscola**, «partendo dalla parte **A** per arrivare fino alla parte **L**»; ogni parte si occupa di una specifica tematica ([00:26:29]–[00:26:57]).
+**Opzione:** In 10 parti, identificate da lettere maiuscole dalla A alla L.
+**Distrattori:**
+- In 12 parti, identificate da lettere maiuscole dalla A alla N.
+- In 10 parti, identificate da numeri romani dal I al X.
+
+**D:** ⚠️ Che cosa contiene la parte E della nota integrativa del bilancio bancario, secondo la lezione 12?
+**R:** Le «**Informazioni sui rischi e sulle relative politiche di copertura**» (slide 5). La parte F contiene invece le informazioni sul patrimonio, la H le operazioni con parti correlate, la L l'informativa di settore.
+**Opzione:** Informazioni sui rischi e sulle relative politiche di copertura.
+**Distrattori:**
+- Informazioni sul patrimonio.
+- Operazioni con parti correlate.
+- Informativa di settore.
+
+**D:** ⚠️ Quali sono le voci 20, 30 e 40 dell'attivo dello stato patrimoniale della banca, secondo la lezione 12?
+**R:** «20. Attività finanz. valutate al **fair value con impatto a c.e.**; 30. Attività finanz. valutate al **fair value con impatto a r.c.**; 40. Attività finanziarie valutate al **costo ammortizzato**» (slide 6). «a r.c.» sta per «sulla redditività complessiva».
+**Opzione:** 20 Attività finanziarie valutate al fair value con impatto a conto economico; 30 al fair value con impatto sulla redditività complessiva; 40 al costo ammortizzato.
+**Distrattori:**
+- 20 Attività finanziarie valutate al fair value con impatto sulla redditività complessiva; 30 al fair value con impatto a conto economico; 40 al costo ammortizzato.
+- Minusvalenze latenti; avviamento negativo, per l'insufficiente redditività prospettica del complesso; un buon affare, cioè beni che valgono più del prezzo pagato.
+- Al valore della corrispondente frazione di patrimonio netto della partecipata; a ogni esercizio il valore di carico va adeguato alle modifiche del patrimonio netto della partecipata.
+
+**D:** ⚠️ Come si articola la voce 20 dell'attivo della banca, Attività finanziarie valutate al fair value con impatto a conto economico, secondo la lezione 12?
+**R:** «a) Attività finanziarie **detenute per la negoziazione**; b) Attività finanziarie **designate al fair value**; c) Attività finanziarie **obbligatoriamente valutate al fair value**» (slide 6).
+**Opzione:** a) detenute per la negoziazione; b) designate al fair value; c) obbligatoriamente valutate al fair value.
+**Distrattori:**
+- a) detenute per la negoziazione; b) designate al fair value; c) detenute per la vendita.
+- Le partecipazioni sono di controllo o collegamento e sono iscritte tra le immobilizzazioni finanziarie.
+- Il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata.
+
+**D:** ⚠️ Come si articola la voce 40 dell'attivo della banca, Attività finanziarie valutate al costo ammortizzato, secondo la lezione 12?
+**R:** «a) **crediti verso banche**; b) **crediti verso la clientela**» (slide 6). Sul lato del passivo la voce 10, passività finanziarie al costo ammortizzato, ha i debiti verso banche, i debiti verso la clientela e i titoli in circolazione.
+**Opzione:** a) crediti verso banche; b) crediti verso la clientela.
+**Distrattori:**
+- a) debiti verso banche; b) debiti verso la clientela.
+- a) crediti verso banche; b) titoli in circolazione.
+- Il fondo per rischi collaudo.
+
+**D:** ⚠️ Come si articolano le attività fiscali (voce 100 dell'attivo) e le passività fiscali (voce 60 del passivo) nello stato patrimoniale della banca, secondo la lezione 12?
+**R:** Le **attività fiscali** in «a) correnti; b) **anticipate**»; le **passività fiscali** in «a) correnti; b) **differite**» (slide 6). Sono le imposte anticipate e differite della lezione 11.
+**Opzione:** Attività fiscali: a) correnti, b) anticipate; passività fiscali: a) correnti, b) differite.
+**Distrattori:**
+- Attività fiscali: a) correnti, b) differite; passività fiscali: a) correnti, b) anticipate.
+- Sulla base dell'aliquota d'imposta attesa per l'esercizio in cui si prevede avvenga il riversamento di ciascuna differenza temporanea.
+- Fondo per oneri: le manutenzioni cicliche degli autobus del trasporto pubblico; fondo rischi: un contenzioso con il fisco di esito incerto.
+
+**D:** ⚠️ Quale componente evidenzia lo schema della banca, con la formula «di cui», dentro la voce 90 dell'attivo, Attività immateriali, secondo la lezione 12?
+**R:** L'**avviamento** (slide 6). I costi di impianto e ampliamento, prima voce delle immobilizzazioni immateriali nazionali, una banca che adotta gli IAS non li capitalizza mai (lezione 08).
+**Opzione:** L'avviamento.
+**Distrattori:**
+- I costi di impianto e ampliamento.
+- Le spese di pubblicità.
+- Le partecipazioni.
+
+**D:** ⚠️ Come si articola la voce 10 del passivo della banca, Passività finanziarie valutate al costo ammortizzato, secondo la lezione 12?
+**R:** «a) **debiti verso banche**; b) **debiti verso la clientela**; c) **titoli in circolazione**» (slide 6).
+**Opzione:** a) debiti verso banche; b) debiti verso la clientela; c) titoli in circolazione.
+**Distrattori:**
+- a) debiti verso banche; b) debiti verso la clientela; c) crediti verso la clientela.
+- Altri costi: una voce residuale di chiusura, per esempio buoni pasto, rimborsi spese, uniformi e abiti da lavoro.
+- L'OIC n. 31: accolgono gli accantonamenti destinati a coprire perdite o debiti.
+
+**D:** ⚠️ Come si articola la voce 100 del passivo della banca, Fondi per rischi e oneri, secondo la lezione 12?
+**R:** «a) **impegni e garanzie**; b) **quiescenza e obblighi simili**; c) **altri fondi**» (slide 6). Lo schema nazionale della lezione 10 aveva quattro sottovoci, fra cui quella **per imposte, anche differite**.
+**Opzione:** a) impegni e garanzie; b) quiescenza e obblighi simili; c) altri fondi.
+**Distrattori:**
+- a) impegni e garanzie; b) quiescenza e obblighi simili; c) per imposte, anche differite.
+- La ammette e la impone solo per gli accantonamenti, mentre la esclude per le passività potenziali.
+- Sulle percentuali di casi negativi verificatisi negli anni precedenti, per prudenza.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci del patrimonio netto nello stato patrimoniale della banca, secondo la lezione 12?
+**R:** «110. **Riserve da valutazione**; 120. Azioni rimborsabili; 130. Strumenti di capitale; 140. Riserve; 150. Sovrapprezzi di emissione; 160. Capitale; 170. **Azioni proprie (-)**; 180. Utile (Perdita) di esercizio (+/-)» (slide 6).
+**Opzione:** 110 Riserve da valutazione; 120 Azioni rimborsabili; 130 Strumenti di capitale; 140 Riserve; 150 Sovrapprezzi di emissione; 160 Capitale; 170 Azioni proprie (-); 180 Utile (Perdita) di esercizio (+/-).
+**Distrattori:**
+- 110 Riserve da valutazione; 120 Azioni rimborsabili; 130 Strumenti di capitale; 140 Riserve; 150 Sovrapprezzi di emissione; 160 Capitale; 170 Azioni proprie (-); 180 Utili (perdite) portati a nuovo (+/-).
+- Natura determinata, esistenza certa o probabile, ammontare o data di sopravvenienza indeterminati.
+- Solo l'ammontare o la data di sopravvenienza; la natura è determinata e l'esistenza è certa o probabile.
+
+**D:** ⚠️ In quali voci del passivo della banca stanno le riserve da valutazione e le azioni proprie, secondo la lezione 12?
+**R:** Le **riserve da valutazione** alla voce **110**, la prima del patrimonio netto; le **azioni proprie** alla voce **170**, con il **segno meno** (slide 6). Nello schema nazionale le azioni proprie sono la riserva negativa della voce A X (lezione 11).
+**Opzione:** Le riserve da valutazione alla voce 110; le azioni proprie alla voce 170, con il segno meno.
+**Distrattori:**
+- Le riserve da valutazione alla voce 140; le azioni proprie alla voce 170, con il segno meno.
+- Le riserve da valutazione alla voce 110; le azioni proprie alla voce 70 dell'attivo, fra le partecipazioni.
+- Per gli IAS a riduzione della corrispondente riserva; per la disciplina interna a conto economico.
+
+**D:** ⚠️ Con quale criterio sono ordinate le voci dell'attivo e del passivo nello stato patrimoniale della banca, secondo il docente della lezione 12?
+**R:** L'attivo va «dalle poste più liquide alle poste meno liquide», cioè a **liquidità decrescente**. Il passivo va da un'esigibilità più immediata a una più lunga, cioè a **esigibilità crescente**: per questo il patrimonio netto sta nelle ultime voci ([00:27:47]–[00:28:49]).
+**Opzione:** L'attivo a liquidità decrescente, dalle poste più liquide alle meno liquide; il passivo a esigibilità crescente, con il patrimonio netto nelle ultime voci.
+**Distrattori:**
+- L'attivo a liquidità crescente, dalle poste meno liquide alle più liquide; il passivo a esigibilità decrescente, con il patrimonio netto nelle prime voci.
+- Gli accantonamenti per rischi alla voce B12, accantonamenti per rischi; quelli ai fondi per oneri alla voce B13, altri accantonamenti.
+- Se paga in anticipo, un risconto attivo per la metà di competenza dell'esercizio successivo; se paga a marzo, un rateo passivo per ottobre–dicembre.
+
+**D:** ⚠️ Dove sta il patrimonio netto nello stato patrimoniale della banca, e dove nel bilancio civilistico, secondo il docente della lezione 12?
+**R:** Nel bilancio della banca le voci del patrimonio netto iniziano dalla **voce 110** in poi, fra le **ultime**. Nel bilancio civilistico l'**art. 2424** prevede invece che la **prima** voce del passivo e patrimonio netto sia proprio il patrimonio netto, la **voce A** ([00:28:20]–[00:29:01]). Le voci della banca sono divise in **decine**, per poterne aggiungere altre in futuro ([00:27:35]).
+**Opzione:** Nella banca dalla voce 110 in poi, fra le ultime voci; nel bilancio civilistico è la prima voce del passivo, la A.
+**Distrattori:**
+- Nella banca è la prima voce del passivo; nel bilancio civilistico sta fra le ultime voci, dopo i debiti.
+- Se incassa in anticipo, risconto passivo per la metà di competenza dell'esercizio successivo; se incassa a marzo, rateo attivo per ottobre–dicembre.
+- A oneri o ricavi che maturano a cavallo di due o più esercizi, con la manifestazione finanziaria prima o dopo la maturazione economica.
+
+**D:** ⚠️ Qual è il Regolamento della UE che disciplina il bilancio delle banche, secondo il test della lezione 12 (domanda 1)?
+**R:** Il **1606/2002**: per la slide 3 è il «Regolamento (CE) 1606/2002 del Parlamento europeo e del Consiglio del 19 luglio 2002». ⚠️ I distrattori del test tolgono cifre al numero: 1/2002, 16/2002, 160/2002. La domanda non è che cosa dice, ma quale numero sta sulla slide.
+**Opzione:** 1606/2002.
+**Distrattori:**
+- 1/2002.
+- 16/2002.
+- 160/2002.
+
+**D:** ⚠️ Qual è la normativa che ha recepito in Italia il Regolamento UE sul bilancio delle banche, secondo il test della lezione 12 (domanda 2)?
+**R:** Il **d.lgs. 38/2005**, che per la slide 3 «ha dato applicazione all'obbligo per le banche» di adottare gli IAS/IFRS. «Recepito» è la parola del docente: un regolamento europeo è direttamente applicabile, e la nota lo spiega in un blocco ℹ️. ⚠️ I distrattori del test rimescolano le cifre: 380/2005, 83/2005, 831/2005.
+**Opzione:** Il D.Lgs. n. 38/2005.
+**Distrattori:**
+- Il D.Lgs. n. 380/2005.
+- Il D.Lgs. n. 83/2005.
+- Il D.Lgs. n. 831/2005.
+
+**D:** ⚠️ Qual è la circolare della Banca d'Italia che contiene le istruzioni per la compilazione del bilancio della banca, secondo il test della lezione 12 (domanda 3)?
+**R:** La **Circolare n. 262 del 2005**: per la slide 3 è la «Circolare 262 del 22 dicembre 2005 Il bilancio bancario: schemi e regole di compilazione». ⚠️ I distrattori del test prendono pezzi del numero: n. 2, n. 22, n. 26 del 2005. Il 22 è anche il giorno della circolare.
+**Opzione:** La Circolare n. 262 del 2005.
+**Distrattori:**
+- La Circolare n. 2 del 2005.
+- La Circolare n. 22 del 2005.
+- La Circolare n. 26 del 2005.
+
+**D:** ⚠️ Il bilancio della banca adotta i principi contabili internazionali, secondo il test della lezione 12 (domanda 4)?
+**R:** «**Sempre**». Il d.lgs. 38/2005 obbliga le banche agli IAS/IFRS nel consolidato e nel bilancio di esercizio (slide 3). Per il docente tutte le banche dell'Unione Europea redigono il bilancio con i principi internazionali ([00:15:11]–[00:15:45]). ⚠️ I distrattori del test sono una scala: «no», «non sempre», «solo per le banche di maggiore dimensione», una soglia che nei materiali non esiste.
+**Opzione:** Sempre.
+**Distrattori:**
+- No.
+- Non sempre.
+- Solo per le banche di maggiore dimensione.
+
+**D:** ⚠️ La struttura del bilancio della banca in Italia è libera o deve seguire una determinata struttura obbligatoria, secondo il test della lezione 12 (domanda 5)?
+**R:** «**A struttura obbligatoria**»: per il docente la Circolare 262 prevede «degli **schemi obbligatori** che le banche stesse devono adottare e delle regole di compilazione», e fissa le voci che devono essere obbligatoriamente presenti ([00:21:02]–[00:21:54]). ⚠️ Distrattori del test: «libera», «libera solo per la nota integrativa», «libera solo per lo stato patrimoniale e il conto economico». Non va confusa con la forma libera degli schemi IAS di cui il docente parla nella lezione 10.
+**Opzione:** A struttura obbligatoria.
+**Distrattori:**
+- Libera.
+- Libera solo per la nota integrativa.
+- Libera solo per lo stato patrimoniale e il conto economico.
