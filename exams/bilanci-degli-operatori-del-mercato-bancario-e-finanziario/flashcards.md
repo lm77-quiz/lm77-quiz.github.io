@@ -3912,3 +3912,285 @@
 - Flussi di cassa.
 - Costo di sostituzione.
 - Costo storico.
+
+## Lezione 16 — IFRS 9, conto economico e PRC
+
+**D:** ⚠️ Quali attività finanziarie figurano nella voce 20 dell'attivo della banca, al fair value con impatto a conto economico, secondo la slide 2 della lezione 16?
+**R:** «Tutte le attività finanziarie **non classificate** nel portafoglio attività finanziarie valutate al fair value con impatto sulla **redditività complessiva** e nel portafoglio attività finanziarie valutate al **costo ammortizzato**» (slide 2). È una definizione per esclusione: per il docente vi stanno «tutte le attività finanziarie diverse» da quelle degli altri due portafogli ([00:07:05]–[00:08:10]).
+**Opzione:** Tutte le attività finanziarie non classificate nel portafoglio valutato al fair value con impatto sulla redditività complessiva e nel portafoglio valutato al costo ammortizzato.
+**Distrattori:**
+- Tutte le attività finanziarie non classificate nel portafoglio di negoziazione e nel portafoglio valutato al costo ammortizzato.
+- Finanziamenti accordati a clientela sotto varie forme (aperture di credito in conto corrente, mutui, leasing finanziari, ecc.); costituiscono il portafoglio crediti e riflettono le politiche del credito.
+- Prestiti obbligazionari di altri istituti, rimborsabili solo dopo il rimborso di tutti gli altri creditori dell'emittente.
+
+**D:** ⚠️ Quali partecipazioni rientrano anche nella voce 20, al fair value con impatto a conto economico, secondo la slide 2 della lezione 16?
+**R:** «Le partecipazioni in imprese sottoposte a **influenza notevole** o a **controllo congiunto** che lo **IAS 28** e l'**IFRS 11** **consentono** di assegnare a tale portafoglio» (slide 2). È una facoltà: le partecipazioni non classificate fra le attività finanziarie stanno nella voce 70 (lezione 13, slide 9). Il docente dice che «dentro a questa categoria vi sono le partecipazioni» ([00:08:10]).
+**Opzione:** Le partecipazioni in imprese sottoposte a influenza notevole o a controllo congiunto che lo IAS 28 e l'IFRS 11 consentono di assegnare a tale portafoglio.
+**Distrattori:**
+- Tutte le partecipazioni in imprese controllate, sottoposte a influenza notevole o a controllo congiunto, che lo IAS 28 e l'IFRS 11 obbligano ad assegnare a tale portafoglio.
+- Le AF classificate come disponibili per la vendita, o non classificate fra le detenute per la negoziazione, le valutate al fair value, le detenute fino a scadenza, i crediti verso banche e le altre Loans and Receivable.
+- Le PF che, indipendentemente dalla loro forma tecnica, sono state designate fin dalla rilevazione iniziale per la valutazione al fair value; non comprende derivati.
+
+**D:** ⚠️ Quali sono, nell'ordine, le tre sottovoci della voce 20 dell'attivo, al fair value con impatto a conto economico, secondo la lezione 16?
+**R:** a) le attività finanziarie **detenute per la negoziazione**; b) le attività **designate al fair value**, con la *fair value option*; c) le **altre attività finanziarie obbligatoriamente valutate al fair value** (slide 2). Sono le stesse tre sottovoci della voce 20 nello schema della lezione 12 (slide 6).
+**Opzione:** a) attività finanziarie detenute per la negoziazione; b) attività designate al fair value; c) altre attività finanziarie obbligatoriamente valutate al fair value.
+**Distrattori:**
+- a) attività finanziarie detenute per la negoziazione; b) attività designate al fair value; c) attività finanziarie disponibili per la vendita.
+- Il portafoglio di negoziazione, il portafoglio degli investimenti immobilizzati e il portafoglio dei titoli disponibili per la vendita.
+- Attività finanziarie valutate al fair value con impatto a conto economico, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ A quale categoria appartengono le attività finanziarie detenute per la negoziazione, secondo il test della lezione 16 (domanda 1)?
+**R:** Alle **attività finanziarie valutate al fair value con impatto a conto economico**: sono la sottovoce a) della voce 20 (slide 2). Distrattori del test: «al fair value con impatto sulla redditività complessiva», «al costo ammortizzato», «Partecipazioni». Le partecipazioni sono una voce a sé dell'attivo, la 70 (lezione 13).
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+- Partecipazioni.
+
+**D:** ⚠️ A quale categoria appartengono le attività finanziarie designate al fair value, secondo il test della lezione 16 (domanda 2)?
+**R:** Alle **attività finanziarie valutate al fair value con impatto a conto economico**: sono la sottovoce b) della voce 20, «con i risultati valutativi iscritti nel **conto economico**» grazie alla *fair value option* (slide 2). ⚠️ Anche la voce 30 è «al fair value», ma con impatto sulla redditività complessiva. Distrattori del test: «al fair value con impatto sulla redditività complessiva», «al costo ammortizzato», «Partecipazioni».
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+- Partecipazioni.
+
+**D:** ⚠️ Quali strumenti comprendono le attività finanziarie detenute per la negoziazione, secondo la slide 2 della lezione 16?
+**R:** **Titoli di debito, titoli di capitale, finanziamenti, quote di OICR e derivati** (slide 2). È l'unica sottovoce della voce 20 che comprende i **derivati**. Per il docente l'obiettivo è «rivenderle entro l'esercizio successivo, approfittando delle oscillazioni di mercato» ([00:10:02]).
+**Opzione:** Titoli di debito, titoli di capitale, finanziamenti, quote di OICR e derivati.
+**Distrattori:**
+- Titoli di debito, titoli di capitale, finanziamenti e quote di OICR, esclusi i derivati.
+- Riceve 950 euro ma paga gli interessi al 7% su 1.000: il costo effettivo è superiore al 7%.
+- I debiti verso banche.
+
+**D:** Che cosa sono le attività designate al fair value della voce 20, e quali strumenti comprendono, secondo la slide 2 della lezione 16?
+**R:** Attività (**titoli di debito e finanziamenti**) «con i risultati valutativi iscritti nel **conto economico** sulla base della facoltà riconosciuta alle imprese (c.d. **fair value option**) dall'IFRS 9» (slide 2). Per il docente nello IAS 39 erano una categoria autonoma; l'IFRS 9 le ha assorbite nella voce 20 ([00:14:39]–[00:16:03]).
+**Opzione:** Titoli di debito e finanziamenti con i risultati valutativi iscritti nel conto economico sulla base della facoltà riconosciuta alle imprese (c.d. fair value option) dall'IFRS 9.
+**Distrattori:**
+- Titoli di debito e finanziamenti con i risultati valutativi iscritti in una riserva di patrimonio netto sulla base della facoltà riconosciuta alle imprese (c.d. fair value option) dall'IFRS 9.
+- A determinare gli interessi che matureranno nel tempo e che il cliente dovrà pagare.
+- Le banche la Banca d'Italia, le assicurazioni l'IVASS, gli altri operatori finanziari la Banca d'Italia.
+
+**D:** ⚠️ Quali sono le altre attività finanziarie obbligatoriamente valutate al fair value della voce 20, secondo la slide 2 della lezione 16?
+**R:** Le attività finanziarie (titoli di debito, titoli di capitale, quote di OICR e finanziamenti), diverse da quelle designate al fair value con impatto a conto economico, «che **non soddisfano i requisiti** per la classificazione al costo ammortizzato, al fair value con impatto sulla redditività complessiva **o che non hanno finalità di negoziazione**» (slide 2). Per il docente sono «un po' una categoria residuale» ([00:16:03]–[00:16:50]).
+**Opzione:** Le attività finanziarie, diverse da quelle designate al fair value con impatto a conto economico, che non soddisfano i requisiti per la classificazione al costo ammortizzato, al fair value con impatto sulla redditività complessiva o che non hanno finalità di negoziazione.
+**Distrattori:**
+- Le attività finanziarie, diverse da quelle designate al fair value con impatto a conto economico, che soddisfano i requisiti per la classificazione al costo ammortizzato, al fair value con impatto sulla redditività complessiva o che hanno finalità di negoziazione.
+- Le AF che, indipendentemente dalla loro forma tecnica, sono state designate fin dalla loro rilevazione iniziale per la valutazione al fair value.
+- Viene riclassificato fra le attività finanziarie disponibili per la vendita.
+
+**D:** ⚠️ In quale sottovoce della voce 20 compaiono i derivati, secondo la slide 2 della lezione 16?
+**R:** Solo nella a), le attività finanziarie **detenute per la negoziazione**: «titoli di debito, titoli di capitale, finanziamenti, quote di OICR e **derivati**». Le **designate** comprendono titoli di debito e finanziamenti; le **altre obbligatoriamente valutate** titoli di debito, titoli di capitale, quote di OICR e finanziamenti (slide 2). Nemmeno la voce 30 li comprende (slide 3).
+**Opzione:** Solo fra le attività finanziarie detenute per la negoziazione.
+**Distrattori:**
+- Solo fra le altre attività finanziarie obbligatoriamente valutate al fair value.
+- Fra i crediti verso banche, come crediti verso le Banche Centrali diversi dai depositi liberi; i depositi liberi stanno invece nella cassa e disponibilità liquide.
+- I derivati di copertura.
+
+**D:** Che fine ha fatto con l'IFRS 9 la categoria delle attività designate al fair value, e perché, secondo il docente della lezione 16?
+**R:** Nello IAS 39 era una categoria **autonoma**: quelle attività erano classificate fin dall'acquisto come valutate sempre e solamente al fair value. L'IFRS 9 l'ha **assorbita** nella categoria più generale delle attività al fair value con impatto a conto economico, perché era «molto **poco rilevante** dal punto di vista numerico» ([00:14:57]–[00:16:03]).
+**Opzione:** Non è più autonoma: è stata assorbita fra le attività al fair value con impatto a conto economico, perché numericamente molto poco rilevante.
+**Distrattori:**
+- Non è più autonoma: è stata assorbita fra le attività al fair value con impatto sulla redditività complessiva, perché numericamente molto poco rilevante.
+- È stata rimandata più volte, per eventi imprevisti e straordinari, in attesa di un quadro macroeconomico più chiaro.
+- Una struttura dello stato patrimoniale diversa da un anno all'altro: non un errore del compilatore, ma il passaggio dalle categorie dello IAS 39 a quelle dell'IFRS 9.
+
+**D:** ⚠️ Quali strumenti figurano nella voce 30 dell'attivo, al fair value con impatto sulla redditività complessiva, secondo la slide 3 della lezione 16?
+**R:** «Tutte le attività finanziarie (**titoli di debito, titoli di capitale e finanziamenti**) classificate nel portafoglio valutato al fair value con impatto sulla redditività complessiva» (slide 3). Niente quote di OICR e niente derivati: per il docente «non vi rientrano normalmente neanche i derivati» ([00:17:32]).
+**Opzione:** Titoli di debito, titoli di capitale e finanziamenti.
+**Distrattori:**
+- Titoli di debito, titoli di capitale, finanziamenti, quote di OICR e derivati.
+- I debiti verso la clientela e i titoli in circolazione.
+- La differenza tra il valore contabile dell'attività e il valore attuale dei flussi finanziari stimati, scontati al tasso di interesse effettivo originario.
+
+**D:** A quale categoria dello IAS 39 corrispondono, per il docente della lezione 16, le attività finanziarie al fair value con impatto sulla redditività complessiva?
+**R:** Alle **available for sale**, le **disponibili per la vendita**: la categoria «ha cambiato nome». Sono attività non acquistate per essere rivendute entro l'anno successivo, di norma senza derivati e non designate al fair value fin dalla nascita ([00:17:00]–[00:17:55]).
+**Opzione:** Alle available for sale, cioè le disponibili per la vendita: la categoria ha cambiato nome.
+**Distrattori:**
+- Alle held to maturity, cioè le detenute fino a scadenza: la categoria ha cambiato nome.
+- Held for trading: attività finanziarie detenute per la negoziazione.
+- Entrambe a conto economico.
+
+**D:** ⚠️ Quali strumenti figurano nella voce 40 dell'attivo, al costo ammortizzato, secondo la slide 4 della lezione 16?
+**R:** «I **titoli di debito** e i **finanziamenti** allocati nel portafoglio valutato al costo ammortizzato» (slide 4): niente titoli di capitale. Formano oggetto di rilevazione i crediti verso banche e i crediti verso clientela; vi figurano anche le operazioni di leasing finanziario nel bilancio del locatore.
+**Opzione:** I titoli di debito e i finanziamenti allocati nel portafoglio valutato al costo ammortizzato.
+**Distrattori:**
+- I titoli di debito, i titoli di capitale e i finanziamenti allocati nel portafoglio valutato al costo ammortizzato.
+- Interessenze azionarie diverse da quelle di controllo, quote di fondi comuni non quotati o con scarsa movimentazione, attività subordinate; non comprende derivati.
+- Partecipazioni in società controllate o sottoposte a influenza notevole non incluse in attività finanziarie.
+
+**D:** ⚠️ A quale categoria appartengono i crediti verso banche, secondo il test della lezione 16 (domanda 3)?
+**R:** Alle **attività finanziarie valutate al costo ammortizzato**: sono la sottovoce a) della voce 40 (slide 4). Distrattori del test: «al fair value con impatto sulla redditività complessiva», «al fair value con impatto a conto economico», «Partecipazioni».
+**Opzione:** Attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al fair value con impatto a conto economico.
+- Partecipazioni.
+
+**D:** ⚠️ A quale categoria appartengono i crediti verso la clientela, secondo il test della lezione 16 (domanda 4)?
+**R:** Alle **attività finanziarie valutate al costo ammortizzato**: sono la sottovoce b) della voce 40 (slide 4). Per il docente sono la parte più rilevante della categoria, che nell'attivo della banca ha di norma un valore molto ingente ([00:20:43]). Distrattori del test: «al fair value con impatto sulla redditività complessiva», «al fair value con impatto a conto economico», «Partecipazioni».
+**Opzione:** Attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al fair value con impatto a conto economico.
+- Partecipazioni.
+
+**D:** Che cosa comprendono i crediti verso banche della voce 40, secondo la slide 4 della lezione 16?
+**R:** Conti correnti, depositi cauzionali, titoli di debito, «ecc.». Sono inclusi i **crediti di funzionamento** connessi con attività e servizi finanziari del TUB e del TUF, «ad esempio, **distribuzione di prodotti finanziari**», e i crediti verso **Banche Centrali**, «ad esempio, **riserva obbligatoria**», diversi dai depositi a vista inclusi nella «Cassa e disponibilità liquide» (slide 4).
+**Opzione:** Conti correnti, depositi cauzionali, titoli di debito, ecc.; i crediti di funzionamento del TUB e del TUF (ad esempio, distribuzione di prodotti finanziari); i crediti verso Banche Centrali (ad esempio, riserva obbligatoria), diversi dai depositi a vista inclusi nella Cassa e disponibilità liquide.
+**Distrattori:**
+- Conti correnti, depositi cauzionali, titoli di debito, ecc.; i crediti di funzionamento del TUB e del TUF (ad esempio, distribuzione di prodotti finanziari); i crediti verso Banche Centrali (ad esempio, riserva obbligatoria), compresi i depositi a vista della Cassa e disponibilità liquide.
+- Comprendono, fra le altre, le riserve da valutazione delle attività finanziarie disponibili per la vendita.
+- Quelle classificate nel portafoglio di negoziazione indipendentemente dalla forma tecnica, comprese le passività da scoperti tecnici nella negoziazione in titoli e i derivati con valore negativo non parte di efficaci relazioni di copertura.
+
+**D:** ⚠️ Che cosa comprendono i crediti verso clientela della voce 40, secondo la slide 4 della lezione 16?
+**R:** **Mutui, operazioni di locazione finanziaria, operazioni di factoring, titoli di debito**, «ecc.». Sono inclusi anche i crediti verso gli **Uffici Postali** e la **Cassa Depositi e Prestiti**, i **margini di variazione** presso organismi di compensazione per operazioni su contratti derivati e i **crediti di funzionamento** del TUB e del TUF, «ad esempio, **attività di servicing**» (slide 4).
+**Opzione:** Mutui, operazioni di locazione finanziaria, operazioni di factoring, titoli di debito, ecc.; anche i crediti verso gli Uffici Postali e la Cassa Depositi e Prestiti, i margini di variazione presso organismi di compensazione su contratti derivati e i crediti di funzionamento del TUB e del TUF (ad esempio, attività di servicing).
+**Distrattori:**
+- Mutui, operazioni di locazione finanziaria, operazioni di factoring, titoli di debito, ecc.; anche i crediti verso Banche Centrali (ad esempio, riserva obbligatoria), i margini di variazione presso organismi di compensazione su contratti derivati e i crediti di funzionamento del TUB e del TUF (ad esempio, attività di servicing).
+- AF quotate su mercati attivi con pagamenti contrattuali fissi o determinabili e scadenza fissa, per le quali vi è l'effettiva intenzione e la capacità di detenerle fino a scadenza; non comprende derivati.
+- Al solo valore nominale erogato al cliente; oppure al valore nominale erogato, al netto di eventuali ricavi percepiti dalla banca e di eventuali oneri accessori sostenuti al momento dell'erogazione.
+
+**D:** ⚠️ Dove stanno nell'attivo della banca la riserva obbligatoria e i depositi a vista presso le Banche Centrali, secondo la slide 4 della lezione 16?
+**R:** La **riserva obbligatoria** sta fra i **crediti verso banche** della voce 40, come credito verso Banche Centrali; i **depositi a vista** sono «inclusi nella voce "**Cassa e disponibilità liquide**"» (slide 4). È la stessa distinzione della lezione 13 fra riserve obbligatorie e depositi liberi.
+**Opzione:** La riserva obbligatoria fra i crediti verso banche, come credito verso Banche Centrali; i depositi a vista nella voce Cassa e disponibilità liquide.
+**Distrattori:**
+- La riserva obbligatoria nella voce Cassa e disponibilità liquide; i depositi a vista fra i crediti verso banche, come credito verso Banche Centrali.
+- Al fair value, determinato tenendo conto del costo complessivo che la banca sostiene per erogarlo.
+- Al valore di potenziale realizzazione, cioè già scontate le ipotesi di potenziale perdita per fallimenti, mancati rientri e difficoltà.
+
+**D:** In quale bilancio le operazioni di leasing finanziario figurano nella voce 40, al costo ammortizzato, secondo la slide 4 della lezione 16?
+**R:** **Nel bilancio del locatore** (slide 4). Per il docente il locatore è «colui che dà in concessione il bene all'utilizzatore» ([00:19:58]–[00:20:43]). Fra i crediti verso clientela la slide elenca anche le «operazioni di locazione finanziaria».
+**Opzione:** Nel bilancio del locatore, cioè di chi concede il bene in uso all'utilizzatore.
+**Distrattori:**
+- Nel bilancio dell'utilizzatore, cioè di chi riceve il bene in uso dal locatore.
+- A conto economico, per entrambe le categorie.
+- Perché vi è differenza tra il credito vantato verso il cliente e il costo complessivamente sostenuto dal cliente stesso.
+
+**D:** ⚠️ Quali voci del conto economico della banca stanno fra il margine d'interesse (30) e il margine di intermediazione (120), secondo la slide 5 della lezione 16?
+**R:** Nell'ordine: **40** commissioni attive; **50** commissioni passive; **60** commissioni nette; **70** dividendi e proventi simili; **80** risultato netto dell'attività di **negoziazione**; **90** risultato netto dell'attività di **copertura**; **100** utili (perdite) da **cessione o riacquisto**; **110** risultato netto delle altre attività e passività finanziarie valutate al **fair value** con impatto a conto economico (slide 5).
+**Opzione:** Commissioni attive, passive e nette; dividendi e proventi simili; risultato netto dell'attività di negoziazione; risultato netto dell'attività di copertura; utili (perdite) da cessione o riacquisto; risultato netto delle altre attività e passività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Commissioni attive, passive e nette; dividendi e proventi simili; risultato netto dell'attività di negoziazione; risultato netto dell'attività di copertura; utili (perdite) da cessione o riacquisto; rettifiche/riprese di valore nette per rischio di credito.
+- (+) interessi attivi al tasso nominale ed eventuali commissioni; (+/-) effetto costo ammortizzato; (-) rettifiche di valore; (+) riprese di valore.
+- L'applicazione del criterio del costo o del costo ammortizzato al credito in essere a fine periodo; l'impairment test, con la rettifica di valore ove la qualità del credito si sia deteriorata fino a poter portare a perdite durevoli.
+
+**D:** ⚠️ Su quali attività e passività si rilevano gli utili (perdite) da cessione o riacquisto della voce 100 del conto economico, secondo la slide 5 della lezione 16?
+**R:** a) **attività finanziarie valutate al costo ammortizzato**; b) **attività finanziarie valutate al fair value con impatto sulla redditività complessiva**; c) **passività finanziarie** (slide 5). Le attività al fair value con impatto a conto economico hanno voci proprie: la 80, negoziazione, e la 110.
+**Opzione:** a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto sulla redditività complessiva; c) passività finanziarie.
+**Distrattori:**
+- a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto a conto economico; c) passività finanziarie.
+- Investimenti in titoli di debito, titoli di capitale, derivati non di copertura con valore positivo, altre attività finanziarie.
+- Detenute per la negoziazione (HFT); valutate al fair value; disponibili per la vendita (AFS); detenute fino a scadenza (HTM).
+
+**D:** ⚠️ Su quali attività si rilevano le rettifiche/riprese di valore nette per rischio di credito della voce 130 del conto economico, secondo la slide 5 della lezione 16?
+**R:** a) **attività finanziarie valutate al costo ammortizzato**; b) **attività finanziarie valutate al fair value con impatto sulla redditività complessiva** (slide 5). ⚠️ La slide 6 descrive la stessa voce con le categorie dello IAS 39: crediti, attività disponibili per la vendita, detenute sino alla scadenza.
+**Opzione:** a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+**Distrattori:**
+- a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto a conto economico.
+- Rettifica del valore del credito.
+- Al fair value, di norma il corrispettivo pagato o incassato.
+
+**D:** ⚠️ Con quali numeri di voce compaiono nel conto economico della banca il margine d'interesse, le commissioni nette, il margine di intermediazione e il risultato netto della gestione finanziaria, secondo la lezione 16?
+**R:** **30** margine d'interesse; **60** commissioni nette; **120** margine di intermediazione; **150** risultato netto della gestione finanziaria (slide 5–6). Seguono i costi operativi (210) e l'utile (perdita) d'esercizio (300).
+**Opzione:** 30 margine d'interesse; 60 commissioni nette; 120 margine di intermediazione; 150 risultato netto della gestione finanziaria.
+**Distrattori:**
+- 30 margine d'interesse; 60 commissioni nette; 120 risultato netto della gestione finanziaria; 150 margine di intermediazione.
+- 981 all'erogazione, poi 984,4; 987,9; 991,6; 995,6; e 1.000 alla scadenza.
+- 77,4; 77,5; 77,7; 78,0; 78,4: i 74 di interessi e commissioni più la differenza fra interessi effettivi e nominali.
+
+**D:** ⚠️ Che cosa registra il margine di interesse (voce 30) del conto economico della banca, secondo la slide 6 della lezione 16?
+**R:** «Gli **interessi maturati** sulle diverse tipologie di attività e passività in contropartita con **clientela**, con **banche**, con **altri operatori** dei mercati finanziari (crediti e debiti, attività finanziarie **quale che sia la categoria di appartenenza**)» (slide 6). Per il docente è la differenza fra interessi attivi e passivi: «identifica la mia attività pura di banca», raccogliere denaro e prestarlo ([00:23:41]–[00:24:19]).
+**Opzione:** Gli interessi maturati sulle diverse tipologie di attività e passività in contropartita con clientela, con banche, con altri operatori dei mercati finanziari (crediti e debiti, attività finanziarie quale che sia la categoria di appartenenza).
+**Distrattori:**
+- Gli interessi maturati sulle diverse tipologie di attività e passività in contropartita con clientela, con banche, con altri operatori dei mercati finanziari (crediti e debiti, solo le attività finanziarie valutate al costo ammortizzato).
+- Il tasso che, attraverso l'attualizzazione finanziaria, rende uguali i futuri flussi di cassa al valore (costo) di iscrizione.
+- Per ripartirli sull'intera durata del credito invece di farli gravare su un unico esercizio, rispettando il principio della competenza economica.
+
+**D:** ⚠️ Che cosa racchiudono le commissioni nette (voce 60) del conto economico della banca, secondo la slide 6 della lezione 16?
+**R:** «I **proventi e gli oneri** inerenti i servizi **erogati** e i servizi **ricevuti**: di **incasso e pagamento**, di **intermediazione e gestione** di strumenti finanziari, **per garanzie**, e così via» (slide 6). Per il docente identificano l'attività di **prestazione di servizi**; l'esempio è la commissione sul bonifico, attiva per la banca ([00:24:19]–[00:25:32]).
+**Opzione:** I proventi e gli oneri inerenti i servizi erogati e i servizi ricevuti: di incasso e pagamento, di intermediazione e gestione di strumenti finanziari, per garanzie, e così via.
+**Distrattori:**
+- I proventi inerenti i servizi erogati, senza gli oneri dei servizi ricevuti: di incasso e pagamento, di intermediazione e gestione di strumenti finanziari, per garanzie, e così via.
+- Quasi sempre superiore, perché tiene conto anche degli altri oneri diretti o indiretti previsti a carico del cliente, e non solo della percentuale sul capitale nominale.
+- Un criterio, cioè una modalità di calcolo di una posta di bilancio, che tiene conto di tutti i costi che gravano sul credito per tutta la sua durata.
+
+**D:** ⚠️ Che cosa racchiude il margine d'intermediazione (voce 120) del conto economico della banca, secondo la slide 6 della lezione 16?
+**R:** «Le componenti reddituali **tipiche delle operazioni** effettuate nel corso dell'esercizio (interessi, commissioni, prezzi di acquisto/vendita negoziati sui mercati finanziari) e gli effetti delle **valutazioni di fine periodo** dei portafogli di negoziazione di attività e passività finanziarie, delle operazioni di copertura dei rischi, delle attività e passività finanziarie valutate al fair value» (slide 6). Per il docente esprime la capacità della banca di operare sul mercato ([00:26:51]–[00:27:26]).
+**Opzione:** Le componenti reddituali tipiche delle operazioni effettuate nel corso dell'esercizio (interessi, commissioni, prezzi di acquisto/vendita negoziati sui mercati finanziari) e gli effetti delle valutazioni di fine periodo dei portafogli di negoziazione di attività e passività finanziarie, delle operazioni di copertura dei rischi, delle attività e passività finanziarie valutate al fair value.
+**Distrattori:**
+- Le componenti reddituali tipiche delle operazioni effettuate nel corso dell'esercizio (interessi, commissioni, prezzi di acquisto/vendita negoziati sui mercati finanziari) e gli effetti delle valutazioni di fine periodo dei crediti e delle altre operazioni finanziarie, cioè le rettifiche e le riprese di valore per deterioramento.
+- Nell'adeguare di anno in anno l'originario valore di iscrizione del credito, attualizzando i futuri flussi di cassa al tasso di interesse effettivo calcolato al momento della prima iscrizione.
+- Confrontando il valore di iscrizione con il valore attuale dei minori flussi di cassa attesi; la differenza decurta il credito ed è portata a conto economico fra le rettifiche di valore.
+
+**D:** ⚠️ Che cos'è e come si ottiene il risultato netto della gestione finanziaria (voce 150) del conto economico della banca, secondo la slide 6 della lezione 16?
+**R:** È «la **sintesi dei risultati netti e dei margini tipici** dell'attività della banca»: si consegue **sommando al margine d'intermediazione** le **rettifiche e le riprese di valore per deterioramento** (voce 130) di crediti e di altre attività e operazioni finanziarie (slide 6). ⚠️ Per il docente è la somma algebrica di margine d'interesse, commissioni e margine di intermediazione ([00:27:26]–[00:28:05]); fa testo la slide.
+**Opzione:** La sintesi dei risultati netti e dei margini tipici dell'attività della banca: si consegue sommando al margine d'intermediazione le rettifiche e le riprese di valore per deterioramento (voce 130).
+**Distrattori:**
+- La sintesi dei risultati netti e dei margini tipici dell'attività della banca: si consegue sottraendo dal margine d'intermediazione i costi operativi (voce 210).
+- 1.000 di valore nominale, meno 20 di commissione up-front del 2% addebitata al cliente, più 1 di imposta sostitutiva sostenuta dalla banca.
+- La differenza fra valore nominale erogato (1.000) e costo originario (981); si riduce di 3,4 il primo anno, 3,5 il secondo e così via, in misura crescente man mano che si avvicina la scadenza.
+
+**D:** ⚠️ Per quali margini il conto economico della banca prosegue «per vie non tipiche dell'attività bancaria, ma comuni a tutte le imprese», secondo la slide 6 della lezione 16?
+**R:** **Costi operativi** (voce 210), **utile (perdita) della operatività corrente**, **utile (perdita) d'esercizio** (voce 300) (slide 6). Margine d'interesse, commissioni nette, margine di intermediazione e risultato netto della gestione finanziaria sono invece tipici dell'attività bancaria; per il docente la banca «è un'impresa e… come tale va gestita» ([00:29:01]–[00:29:39]).
+**Opzione:** Costi operativi (voce 210); utile (perdita) della operatività corrente; utile (perdita) d'esercizio (voce 300).
+**Distrattori:**
+- Margine di intermediazione (voce 120); utile (perdita) della operatività corrente; utile (perdita) d'esercizio (voce 300).
+- Il valore di iscrizione del credito nell'attivo patrimoniale si modifica nel tempo.
+- Qualsiasi contratto che dia contemporaneamente origine ad un'attività finanziaria per un'entità e a una passività finanziaria o a uno strumento rappresentativo di patrimonio netto per un'altra entità.
+
+**D:** Che struttura ha il conto economico della banca, a differenza dello stato patrimoniale, secondo il docente della lezione 16?
+**R:** **Scalare**: si parte dai ricavi e, scendendo, si incontrano **costi** e **margini**, cioè differenze. Lo stato patrimoniale della banca è invece **a sezioni contrapposte**. Vale per le banche e per gli istituti finanziari diversi dalle compagnie assicurative ([00:21:27]–[00:22:22]).
+**Opzione:** Scalare: si parte dai ricavi e scendendo si incontrano costi e margini; lo stato patrimoniale è invece a sezioni contrapposte.
+**Distrattori:**
+- A sezioni contrapposte, con ricavi e costi in due colonne affiancate; lo stato patrimoniale è invece scalare.
+- Lo IAS 32 della struttura e della classificazione delle attività finanziarie, lo IAS 39 della loro valutazione; l'IFRS 9 ha sostituito lo IAS 39.
+- Ritardi nelle rate di restituzione, o procedimenti esecutivi di terzi creditori, che mostrano che il debitore non fa più fronte con regolarità ai propri impegni.
+
+**D:** Che differenza c'è fra margine e indice, secondo il docente della lezione 16?
+**R:** «Il **margine** è una **differenza**, mentre l'**indice** è un **rapporto**, un quoziente» ([00:22:22]). Per questo il conto economico scalare della banca evidenzia margini: differenze fra ricavi e costi.
+**Opzione:** Il margine è una differenza, mentre l'indice è un rapporto, un quoziente.
+**Distrattori:**
+- Il margine è un rapporto, un quoziente, mentre l'indice è una differenza.
+- Lifetime expected loss e incurred loss: per il docente, le perdite attese e le perdite già patite.
+- Al tasso interno di rendimento dei flussi in entrata e in uscita dell'operazione, che ne rende nulla la somma algebrica attualizzata.
+
+**D:** ⚠️ Quali sono i tre motori dei ricavi del conto economico di una banca, secondo il docente della lezione 16?
+**R:** 1) l'**intermediazione**, raccogliere denaro e prestarlo: il **margine d'interesse**; 2) la **prestazione di servizi** a correntisti e clientela: **commissioni** attive e passive; 3) le **operazioni sul mercato finanziario**: dividendi, negoziazione, copertura, cessioni, attività al fair value ([00:25:32]–[00:26:51]). Negli ultimi anni, con il margine d'interesse molto ridotto, le banche più importanti si sono spostate sulle commissioni nette.
+**Opzione:** L'intermediazione, con il margine d'interesse; la prestazione di servizi alla clientela, con le commissioni attive e passive; le operazioni sul mercato finanziario.
+**Distrattori:**
+- L'intermediazione, con il margine d'interesse; la prestazione di servizi alla clientela, con le commissioni attive e passive; le rettifiche e le riprese di valore sui crediti.
+- Il valore di iscrizione del credito fra le attività si modifica nel tempo, e può aumentare o diminuire secondo il segno delle componenti non ricorrenti; contestualmente lo stesso effetto si ripercuote di anno in anno sul conto economico.
+- Il consiglio di amministrazione, con una delibera di inizio esercizio sulle politiche di investimento nel rispetto della normativa di vigilanza; le attua l'ufficio titoli.
+
+**D:** ⚠️ Che cosa espone il prospetto della redditività complessiva (PRC), e di che cosa si tratta essenzialmente, secondo la slide 7 della lezione 16?
+**R:** Espone, **oltre all'utile (perdita) d'esercizio**, «altre componenti reddituali **non rilevate a conto economico**». Si tratta, essenzialmente, «delle **variazioni di valore delle attività** registrate nell'esercizio **in contropartita delle riserve da valutazione**», il cui controvalore a fine esercizio sta al passivo fra le riserve da valutazione (slide 7). Per il docente è l'OCI, *Other Comprehensive Income* ([00:29:39]–[00:30:52]).
+**Opzione:** Oltre all'utile (perdita) d'esercizio, altre componenti reddituali non rilevate a conto economico: essenzialmente le variazioni di valore delle attività registrate nell'esercizio in contropartita delle riserve da valutazione.
+**Distrattori:**
+- Oltre all'utile (perdita) d'esercizio, altre componenti reddituali non rilevate a conto economico: essenzialmente le variazioni di valore delle attività registrate nell'esercizio in contropartita dei fondi per rischi e oneri.
+- Ogni voce è un comparto del portafoglio investimenti, distinto per finalità, per tipologie di attività comprese e per criteri di valutazione; riflettono le politiche di investimento sui mercati finanziari.
+- Con i prezzi ufficiali rilevati alla data di bilancio, se quotati in mercati attivi; altrimenti con quotazioni di strumenti simili, flussi di cassa scontati, modelli di prezzo delle opzioni, valori di recenti transazioni comparabili.
+
+**D:** ⚠️ In quale sezione del prospetto della redditività complessiva stanno i titoli di capitale designati al fair value con impatto sulla redditività complessiva, e in quale le attività finanziarie valutate al fair value con impatto sulla redditività complessiva, secondo la slide 7 della lezione 16?
+**R:** I **titoli di capitale designati** stanno fra le altre componenti reddituali **senza rigiro** a conto economico (voce **20**); le **attività finanziarie** al fair value con impatto sulla redditività complessiva fra quelle **con rigiro** a conto economico (voce **140**) (slide 7). Entrambe le sezioni sono al netto delle imposte.
+**Opzione:** I titoli di capitale designati fra le componenti senza rigiro a conto economico; le attività finanziarie al fair value con impatto sulla redditività complessiva fra quelle con rigiro.
+**Distrattori:**
+- I titoli di capitale designati fra le componenti con rigiro a conto economico; le attività finanziarie al fair value con impatto sulla redditività complessiva fra quelle senza rigiro.
+- All'attivo quelli con fair value positivo alla data di bilancio, al passivo quelli con fair value negativo; coprono i rischi di variazione del fair value degli strumenti in relazioni di copertura efficace.
+- Al fair value, di norma il corrispettivo incassato; valutate al fair value, con i risultati della valutazione a conto economico.
+
+**D:** ⚠️ Vi è differenza tra l'utile (perdita) di esercizio e la redditività complessiva, secondo il test della lezione 16 (domanda 5)?
+**R:** «**Sì**». Il prospetto della redditività complessiva parte dall'utile (perdita) d'esercizio (voce 10) e vi aggiunge le altre componenti reddituali non rilevate a conto economico (voce 170): la redditività complessiva è la voce 180 (slide 7). Per il docente «il vero risultato di esercizio è quello che io trovo alla fine del conto economico» ([00:32:01]). Distrattori del test: «no», «solo nelle imprese di maggiore dimensione», «solo nelle imprese partecipate».
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- Solo nelle imprese di maggiore dimensione.
+- Solo nelle imprese partecipate.
+
+**D:** Quale dei due, utile d'esercizio o redditività complessiva, è il vero risultato di esercizio, e perché esiste l'altro, secondo il docente della lezione 16?
+**R:** Il **vero risultato** è quello «alla fine del **conto economico**». La redditività complessiva è solo la risultante delle componenti reddituali che, per i principi internazionali, non passano dal conto economico ma affluiscono alla **riserva da valutazione** del patrimonio netto; con i principi nazionali sarebbero state nel conto economico. Il prospetto serve a dare un'informativa più completa sull'effettiva performance economica ([00:30:52]–[00:33:16]).
+**Opzione:** L'utile d'esercizio alla fine del conto economico; la redditività complessiva dà un'informativa più completa sulle componenti affluite alla riserva da valutazione invece che al conto economico.
+**Distrattori:**
+- La redditività complessiva alla fine del prospetto; l'utile d'esercizio dà un'informativa più completa sulle componenti affluite alla riserva da valutazione invece che al conto economico.
+- Scritta e tracciabile nel tempo: ogni categoria ha regole di contabilizzazione e di rappresentazione diverse, e una classificazione sbagliata altererebbe il bilancio.
+- Solo una perdita durevole e non facilmente recuperabile, come in uno stato di pre-fallimento; le mere oscillazioni di quotazione restano variazioni di fair value da riserva.
