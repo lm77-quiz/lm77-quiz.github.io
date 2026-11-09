@@ -5412,3 +5412,237 @@
 - Si applicano al CET1 lordo i filtri prudenziali, poi si tolgono gli elementi da dedurre e si aggiunge il capitale aggiuntivo di classe 1.
 - Posizione interbancaria netta verso Banche centrali / totale attivo; posizione interbancaria netta verso Banche centrali / posizione interbancaria netta.
 - Debiti verso banche centrali / totale passivo; debiti verso banche centrali / debiti verso banche.
+
+## Lezione 22 — Patrimonializzazione e rischiosità della banca
+
+**D:** ⚠️ In quale parte della nota integrativa sono comprese le informazioni sui rischi e sulle relative politiche di copertura, secondo il test della lezione 22 (domanda 1)?
+**R:** Nella **parte E**: per la slide 3 è la fonte informativa di riferimento per la rischiosità della banca. Le parti A, B e C sono politiche contabili, informazioni sullo stato patrimoniale e sul conto economico (lezione 17). Distrattori del test: «parte A», «parte B», «parte C».
+**Opzione:** Parte E.
+**Distrattori:**
+- Parte A.
+- Parte B.
+- Parte C.
+
+**D:** ⚠️ A quale classe di rischi appartengono i rischi di cambio, secondo il test della lezione 22 (domanda 2)?
+**R:** Ai **rischi di mercato**: nella parte E il rischio di cambio è la voce 2.3 della sezione 2, rischi di mercato (slide 3). Distrattori del test: «rischi di credito», «rischi di liquidità», «rischi operativi».
+**Opzione:** Rischi di mercato.
+**Distrattori:**
+- Rischi di credito.
+- Rischi di liquidità.
+- Rischi operativi.
+
+**D:** ⚠️ A quale classe di rischi appartengono i rischi di insolvenza, secondo il test della lezione 22 (domanda 3)?
+**R:** Ai **rischi di credito**. Le slide non nominano l'insolvenza, ma per il docente il rischio di credito è il rischio che il soggetto a cui si è prestato non restituisca capitale e interessi ([00:01:59]). Distrattori del test: «rischi di mercato», «rischi di liquidità», «rischi operativi».
+**Opzione:** Rischi di credito.
+**Distrattori:**
+- Rischi di mercato.
+- Rischi di liquidità.
+- Rischi operativi.
+
+**D:** ⚠️ A quale classe di rischi appartengono gli strumenti derivati, secondo il test della lezione 22 (domanda 4)?
+**R:** Ai **rischi di mercato**: nella parte E gli strumenti derivati sono la voce 2.4 della sezione 2, rischi di mercato (slide 3). Distrattori del test: «rischi di credito», «rischi di liquidità», «rischi operativi».
+**Opzione:** Rischi di mercato.
+**Distrattori:**
+- Rischi di credito.
+- Rischi di liquidità.
+- Rischi operativi.
+
+**D:** ⚠️ A quale classe di rischi appartengono i rischi di incendio, secondo il test della lezione 22 (domanda 5)?
+**R:** Ai **rischi operativi**. L'incendio non compare né nelle slide né nel transcript: la nota spiega in un blocco ℹ️ che il rischio operativo comprende le perdite da eventi esogeni. Distrattori del test: «rischi di credito», «rischi di mercato», «rischi di liquidità».
+**Opzione:** Rischi operativi.
+**Distrattori:**
+- Rischi di credito.
+- Rischi di mercato.
+- Rischi di liquidità.
+
+**D:** ⚠️ In quali sezioni si articola la parte E della nota integrativa nel bilancio individuale della banca, secondo la slide 3 della lezione 22?
+**R:** **Sezione 1**, rischio di credito; **sezione 2**, rischi di mercato; **sezione 3**, rischio di liquidità; **sezione 4**, rischi operativi (slide 3). Nel consolidato le stesse classi sono sottosezioni di un'unica sezione 1, «Rischi del gruppo bancario».
+**Opzione:** Sezione 1 rischio di credito; sezione 2 rischi di mercato; sezione 3 rischio di liquidità; sezione 4 rischi operativi.
+**Distrattori:**
+- Sezione 1 rischio di credito; sezione 2 rischi di mercato; sezione 3 rischio di liquidità; sezione 4 rischi reputazionali.
+- Indici reddituali; di efficienza operativa; di efficienza allocativa; di produttività; di composizione dei risultati reddituali.
+- Attività fruttifere di proventi finanziari; attività non fruttifere di proventi finanziari; attività immobilizzate.
+
+**D:** ⚠️ Quali voci compongono la sezione 2, rischi di mercato, della parte E della nota integrativa, secondo la slide 3 della lezione 22?
+**R:** **2.1** rischio di tasso di interesse e rischio di prezzo, portafoglio di **negoziazione** di Vigilanza; **2.2** rischio di tasso di interesse e di prezzo, portafoglio **bancario**; **2.3** **rischio di cambio**; **2.4** gli **strumenti derivati** (slide 3).
+**Opzione:** Rischio di tasso di interesse e di prezzo del portafoglio di negoziazione di Vigilanza; rischio di tasso di interesse e di prezzo del portafoglio bancario; rischio di cambio; strumenti derivati.
+**Distrattori:**
+- Rischio di tasso di interesse e di prezzo del portafoglio di negoziazione di Vigilanza; rischio di tasso di interesse e di prezzo del portafoglio bancario; rischio di cambio; rischio di controparte.
+- Dividendi e proventi simili; risultato netto da negoziazione; risultato netto da coperture; utili/perdite da cessione o riacquisto; risultato netto delle attività e passività al fair value.
+- Le attività fiscali; le attività non correnti e gruppi di attività in via di dismissione; le altre attività.
+
+**D:** Come è organizzata la parte E della nota integrativa nel bilancio consolidato, secondo la slide 3 della lezione 22?
+**R:** Tutto sta nella **sezione 1, «Rischi del gruppo bancario»**: 1.1 rischio di credito; 1.2 rischi di mercato, con le voci 1.2.1–1.2.4; 1.3 rischio di liquidità; 1.4 rischi operativi (slide 3). Nel bilancio individuale le stesse classi sono quattro sezioni separate.
+**Opzione:** In un'unica sezione 1, rischi del gruppo bancario, con le sottosezioni 1.1 credito, 1.2 mercato, 1.3 liquidità, 1.4 operativi.
+**Distrattori:**
+- In quattro sezioni separate, 1 credito, 2 mercato, 3 liquidità, 4 operativi, come nel bilancio individuale.
+- Nel risultato di pertinenza di terzi e nel risultato di pertinenza della capogruppo.
+- Solo nel consolidato, con premi netti, saldo degli altri proventi/oneri della gestione assicurativa e risultato netto della gestione assicurativa.
+
+**D:** ⚠️ Quali sono i coefficienti di vigilanza della banca, e con quali formule, secondo la slide 2 della lezione 22?
+**R:** Il **CET1 capital ratio**, capitale primario di classe 1 / attività di rischio ponderate; il **Tier 1 capital ratio**, capitale di classe 1 / attività di rischio ponderate; il **Total capital ratio**, totale fondi propri / attività di rischio ponderate (slide 2). Il denominatore è sempre lo stesso; al numeratore stanno aggregati via via più ampi.
+**Opzione:** CET1 capital ratio, capitale primario di classe 1 / attività di rischio ponderate; Tier 1 capital ratio, capitale di classe 1 / attività ponderate; Total capital ratio, totale fondi propri / attività ponderate.
+**Distrattori:**
+- CET1 capital ratio, capitale primario di classe 1 / totale attivo; Tier 1 capital ratio, capitale di classe 1 / totale attivo; Total capital ratio, totale fondi propri / totale attivo.
+- ROE, risultato di esercizio / patrimonio netto; ROA, risultato di esercizio / totale attivo.
+- Cost to income ratio (costi operativi / margine di intermediazione) e cost to total assets (costi operativi / totale attivo): più sono bassi, più la banca è efficiente.
+
+**D:** ⚠️ Per quali rischi si calcolano i requisiti patrimoniali di vigilanza nello schema della slide 2 della lezione 22?
+**R:** B.1 rischio di **credito e di controparte**; B.2 rischio di **aggiustamento della valutazione del credito**; B.3 rischio di **regolamento**; B.4 **rischi di mercato**; B.5 **rischio operativo**; poi B.6 altri elementi di calcolo e B.7 totale requisiti prudenziali (slide 2). Il rischio di liquidità non vi compare.
+**Opzione:** Rischio di credito e di controparte; rischio di aggiustamento della valutazione del credito; rischio di regolamento; rischi di mercato; rischio operativo.
+**Distrattori:**
+- Rischio di credito e di controparte; rischio di aggiustamento della valutazione del credito; rischio di regolamento; rischi di mercato; rischio di liquidità.
+- Effetto spread; effetto patrimonio libero; effetto volumi; effetto tasso; effetto composizione del bilancio.
+- Rettifiche nette per deterioramento / margine di intermediazione e rettifiche nette per deterioramento / totale attivo: più sono alti, minore è l'efficienza allocativa.
+
+**D:** ⚠️ Con quali metodologie si misurano le attività di rischio per il rischio di credito e di controparte, secondo la slide 2 della lezione 22?
+**R:** La **metodologia standardizzata** e quella **basata sui rating interni**, nelle versioni **base** e **avanzata**; a parte le **cartolarizzazioni** (slide 2). Per il docente la standardizzata, con coefficienti fissi, è adatta alle banche più piccole ([00:06:05]).
+**Opzione:** La metodologia standardizzata e quella basata sui rating interni, nelle versioni base e avanzata; a parte le cartolarizzazioni.
+**Distrattori:**
+- La sola metodologia basata sui rating interni, nelle versioni base e avanzata; a parte le cartolarizzazioni.
+- Crediti verso clientela, debiti verso clientela, totale attivo, margine di intermediazione e risultato lordo di gestione, ciascuno rapportato ai dipendenti.
+- Margine d'interesse, commissioni nette e risultato delle operazioni finanziarie, ciascuno sul margine di intermediazione; la loro somma fa 100%.
+
+**D:** ⚠️ Con quali metodi si calcolano i requisiti per i rischi di mercato e per il rischio operativo, secondo la slide 2 della lezione 22?
+**R:** Per i **rischi di mercato**: metodologia standard, modelli interni, rischio di concentrazione. Per il **rischio operativo**: metodo base, metodo standardizzato, metodo avanzato (slide 2).
+**Opzione:** Rischi di mercato: metodologia standard, modelli interni, rischio di concentrazione; rischio operativo: metodo base, metodo standardizzato, metodo avanzato.
+**Distrattori:**
+- Rischi di mercato: metodo base, metodo standardizzato, metodo avanzato; rischio operativo: metodologia standard, modelli interni, rischio di concentrazione.
+- Prestare soldi solo a chi è in grado di restituirli; si parla di deterioramento perché il credito può essere restituito solo in parte, o senza gli interessi.
+- L'indicatore di sintesi di maggiore importanza della performance reddituale; scomporlo evidenzia il contributo delle aree gestionali, i fattori alla base della performance e le cause che vi hanno influito.
+
+**D:** ⚠️ Come è organizzata la tabella A.1.2 della parte E della nota integrativa, secondo la slide 4 della lezione 22?
+**R:** Distribuisce le attività finanziarie **per portafogli di appartenenza e per qualità creditizia**, con valori lordi e netti. Per le **attività deteriorate**: esposizione lorda, **rettifiche specifiche**, esposizione netta. Per le **altre attività**: esposizione lorda, **rettifiche di portafoglio**, esposizione netta. Chiude il totale dell'esposizione netta (slide 4). Per i crediti verso clientela i sei valori sono A1–A6.
+**Opzione:** Per portafogli e per qualità creditizia: per le attività deteriorate esposizione lorda, rettifiche specifiche ed esposizione netta; per le altre attività esposizione lorda, rettifiche di portafoglio ed esposizione netta.
+**Distrattori:**
+- Per portafogli e per qualità creditizia: per le attività deteriorate esposizione lorda, rettifiche di portafoglio ed esposizione netta; per le altre attività esposizione lorda, rettifiche specifiche ed esposizione netta.
+- Procede al contrario rispetto alla formazione del conto economico, scomponendo anziché comporre i risultati, e si basa su indici invece che su dati assoluti.
+- Il risultato d'esercizio, ultima voce del conto economico e prima voce, al numeratore, dell'albero del ROE.
+
+**D:** ⚠️ Quali sono gli indicatori di stock della qualità del credito, e con quali formule, secondo la slide 5 della lezione 22?
+**R:** **Crediti deteriorati lordi / crediti lordi verso clientela**, **A1/(A1+A4)**, e **crediti deteriorati netti / crediti netti verso clientela**, **A3/(A3+A6)** (slide 5). A1 e A3 sono i deteriorati lordi e netti, A4 e A6 gli altri crediti lordi e netti della tabella A.1.2.
+**Opzione:** Crediti deteriorati lordi / crediti lordi verso clientela, A1/(A1+A4); crediti deteriorati netti / crediti netti verso clientela, A3/(A3+A6).
+**Distrattori:**
+- Crediti deteriorati lordi / crediti lordi verso clientela, A1/A4; crediti deteriorati netti / crediti netti verso clientela, A3/A6.
+- ROA (risultato di esercizio / totale attivo) × leva (totale attivo / patrimonio netto).
+- Margine di intermediazione / totale attivo; risultato di esercizio / risultato lordo di gestione; risultato lordo di gestione / margine di intermediazione.
+
+**D:** ⚠️ Quali sono gli indicatori di flusso della qualità del credito, e come si calcolano, secondo la slide 5 della lezione 22?
+**R:** I **tassi di decadimento** dei crediti deteriorati: **lordi**, (A1(T) − A1(T−1)) / A4(T−1); **netti**, (A3(T) − A3(T−1)) / A6(T−1) (slide 5). Misurano l'aumento dei deteriorati nell'esercizio rispetto agli altri crediti dell'anno precedente.
+**Opzione:** I tassi di decadimento dei crediti deteriorati, lordi (A1(T) − A1(T−1)) / A4(T−1) e netti (A3(T) − A3(T−1)) / A6(T−1).
+**Distrattori:**
+- I rapporti fra crediti deteriorati e crediti complessivi verso clientela, lordi A1/(A1+A4) e netti A3/(A3+A6).
+- Il primo dipende da rettifiche, oneri/proventi straordinari ed effetto fiscale; il secondo misura l'efficienza operativa.
+- Margine di interesse / totale attivo (formazione del margine di interesse) e margine di intermediazione / margine di interesse (altri ricavi netti).
+
+**D:** ⚠️ Che cos'è il coverage ratio, e come si calcola sulla tabella A.1.2, secondo la lezione 22?
+**R:** È l'**indicatore di copertura**: **rettifiche specifiche / crediti deteriorati lordi verso clientela**, **A2/A1** (slide 5). Per il docente dice quante perdite sono state registrate a conto economico a fronte dei crediti deteriorati ([00:31:47]).
+**Opzione:** Rettifiche specifiche / crediti deteriorati lordi verso clientela (A2/A1): quante perdite sono state registrate a fronte dei crediti deteriorati.
+**Distrattori:**
+- Rettifiche di portafoglio / altri crediti lordi verso clientela (A5/A4): quante perdite sono state registrate a fronte dei crediti non deteriorati.
+- Il margine d'interesse è il risultato netto della gestione denaro; la RGD è il rapporto tra margine di interesse e totale attivo.
+- MINT = rm·AF − cm·PO; lo spread è s = rm − cm, la differenza fra rendimento medio delle attività fruttifere e costo medio delle passività onerose.
+
+**D:** ⚠️ A quale categoria di indicatori di qualità del credito appartiene il rapporto crediti deteriorati lordi / crediti lordi verso clientela, secondo la slide 5 della lezione 22?
+**R:** Agli **indicatori di stock** (slide 5). ⚠️ Il docente li chiama «indicatori di flusso» ([00:30:46]); fa testo la slide, dove i flussi sono i tassi di decadimento e la copertura è il coverage ratio.
+**Opzione:** Indicatori di stock.
+**Distrattori:**
+- Indicatori di flusso.
+- Composizione dei risultati reddituali.
+- Nella gestione operazioni finanziarie.
+
+**D:** ⚠️ Che cosa stabiliva il primo accordo di Basilea del 1988, secondo il docente della lezione 22?
+**R:** Un livello minimo di patrimonializzazione per la solvibilità a fronte dei rischi di **credito e di controparte**: il **patrimonio di vigilanza** doveva essere almeno l'**8%** delle **attività ponderate per il rischio**, cioè dei prestiti ponderati per il loro rischio ([00:03:16]–[00:05:39]). Il lavoro era cominciato nel 1985.
+**Opzione:** Che il patrimonio di vigilanza fosse almeno l'8% delle attività ponderate per il rischio, a fronte dei soli rischi di credito e di controparte.
+**Distrattori:**
+- Che il patrimonio di vigilanza fosse almeno l'8% del totale attivo, a fronte dei soli rischi di credito e di controparte.
+- MINT = s·AF + cm·(AF − PO); RGD = s·(AF/TA) + cm·(AF − PO)/TA.
+- Al patrimonio netto meno le attività immobilizzate, cioè al patrimonio libero.
+
+**D:** ⚠️ Che cosa deve fare una banca che scende sotto l'8% nel rapporto fra patrimonio di vigilanza e attività ponderate per il rischio, e che cosa rischia, secondo il docente della lezione 22?
+**R:** Deve **ricapitalizzarsi** con capitale proprio o **cedere** parte delle attività ponderate per il rischio, per riportare il rapporto almeno all'8% ([00:09:30]–[00:11:08]). Altrimenti la banca centrale, per l'Italia la Banca d'Italia, può **sospendere l'attività bancaria** per mancanza dei requisiti ([00:13:51]–[00:15:36]).
+**Opzione:** Ricapitalizzarsi o cedere parte delle attività ponderate per il rischio; altrimenti la Banca d'Italia può sospenderne l'attività.
+**Distrattori:**
+- Ridurre i depositi della clientela o aumentare la riserva obbligatoria; altrimenti la Banca d'Italia può sospenderne l'attività.
+- s·AF è l'effetto spread; cm·(AF − PO) è l'effetto patrimonio libero; volumi, tasso e composizione del bilancio agiscono su entrambi.
+- Le ha ridotte sensibilmente, perché la maggior parte delle operazioni, come i bonifici, i clienti la fanno in autonomia dai portali delle banche.
+
+**D:** ⚠️ Che differenza c'è, per il docente della lezione 22, fra la metodologia standardizzata e quella basata sui rating interni per il rischio di credito?
+**R:** La **standardizzata**, adatta alle banche più piccole, usa **coefficienti fissi**, uguali per ogni affidamento. Quella basata sui **rating interni**, base o avanzata, usa analisi statistiche per assegnare a ciascun cliente un **rating** della banca: più è alto, più il cliente è affidabile e ottiene condizioni migliori ([00:06:05]–[00:09:30], [00:20:40]).
+**Opzione:** La standardizzata usa coefficienti fissi uguali per tutti, adatta alle banche piccole; quella a rating interni assegna a ogni cliente un rating della banca, con analisi statistiche.
+**Distrattori:**
+- La standardizzata assegna a ogni cliente un rating della banca, con analisi statistiche; quella a rating interni usa coefficienti fissi uguali per tutti, adatta alle banche piccole.
+- Per la disintermediazione creditizia e l'abbassamento dei tassi di interesse, che hanno ristretto lo spread fra tasso dei prestiti e costo della raccolta.
+- Dal TUS della Banca d'Italia, oggi sostituito dall'Euribor; al tasso base si aggiungono più punti quanto più il cliente è rischioso.
+
+**D:** ⚠️ Che effetto ha sulla patrimonializzazione richiesta la scelta di modelli di misura del rischio più sofisticati, secondo il docente della lezione 22?
+**R:** Più i modelli sono **sofisticati**, più accurata è la misura, e **meno patrimonio di vigilanza** serve a parità di rischi. Con un modello standardizzato, che misura il rischio in modo più grezzo, ne serve di più ([00:17:38]–[00:19:13]).
+**Opzione:** Con modelli più sofisticati serve meno patrimonio di vigilanza a parità di rischi; con modelli standardizzati ne serve di più.
+**Distrattori:**
+- Con modelli più sofisticati serve più patrimonio di vigilanza a parità di rischi; con modelli standardizzati ne serve di meno.
+- Sviluppando servizi su cui applicano commissioni; le più grandi sono state più performanti, perché potevano sostenere i costi di ricerca e sviluppo e di struttura.
+- Risultato netto di gestione più oneri/proventi straordinari.
+
+**D:** Quali rischi ha aggiunto Basilea 2 al rischio di credito, secondo il docente della lezione 22?
+**R:** I **rischi operativi** e i **rischi di mercato**, con metodologie di calcolo base, standardizzate o avanzate. Poi, con Basilea 2 e 3, si sono aggiunti il rischio di regolamento e il rischio di aggiustamento della valutazione del credito ([00:15:36]–[00:16:44], [00:23:13]). La nota segnala in un blocco ℹ️ che i rischi di mercato erano già stati aggiunti nel 1996.
+**Opzione:** I rischi operativi e i rischi di mercato.
+**Distrattori:**
+- I rischi di liquidità e i rischi di mercato.
+- Fra le attività fruttifere di proventi finanziari.
+- Fra le passività non onerose di oneri finanziari.
+
+**D:** ⚠️ Quali sono le quattro fasi della gestione dei rischi (risk management), secondo il docente della lezione 22?
+**R:** 1) l'**individuazione** del rischio; 2) la **misurazione**; 3) la **gestione**, cioè la mitigazione: il rischio «non può mai essere eliminato… ma può essere mitigato»; 4) il **follow up**, la verifica degli effetti della gestione ([00:19:13]–[00:20:40], [00:22:57]).
+**Opzione:** Individuazione del rischio; misurazione del rischio; gestione, cioè mitigazione, del rischio; follow up, cioè la verifica degli effetti della gestione.
+**Distrattori:**
+- Individuazione del rischio; misurazione del rischio; eliminazione del rischio; follow up, cioè la verifica degli effetti della gestione.
+- Le attività materiali e le attività immateriali, avviamento compreso.
+- L'adeguamento di valore delle attività finanziarie oggetto di copertura generica e le partecipazioni.
+
+**D:** ⚠️ Con quali misure la banca può mitigare il rischio di credito di una controparte troppo rischiosa, secondo il docente della lezione 22?
+**R:** La più facile è **negarle il finanziamento**. Oppure concederne uno **più basso** di quello richiesto, **alzare il tasso di interesse** a parità di somma, o chiedere **garanzie**: fideiussioni, ipoteche, pegni su beni mobili o immobili ([00:21:56]–[00:22:57]).
+**Opzione:** Negarle il finanziamento, concederne uno più basso, alzare il tasso di interesse o chiedere garanzie come fideiussioni, ipoteche e pegni.
+**Distrattori:**
+- Negarle il finanziamento, concederne uno più basso, alzare il tasso di interesse o aumentare la riserva obbligatoria presso la Banca centrale.
+- Le voci da cui scaturiscono le componenti positive o negative del conto economico che contribuiscono al margine di interesse.
+- MGDS = margine di interesse + commissioni nette; margine di intermediazione = MGDS + risultato netto delle operazioni finanziarie.
+
+**D:** Perché il rischio di liquidità non è impossibile per una banca, secondo il docente della lezione 22?
+**R:** Perché i depositi non stanno nei forzieri: sono stati prestati alle imprese. Su 100 di depositi la banca ha fisicamente 1–1,5. Se tutti i depositanti, o anche solo metà, chiedessero insieme la restituzione, qualunque banca fallirebbe; per evidenza statistica non succede, ma la banca deve tenerne conto ([00:27:50]–[00:29:21]).
+**Opzione:** Perché i depositi sono stati in gran parte prestati alle imprese: su 100 di depositi la banca ha fisicamente 1–1,5, e se molti depositanti chiedessero insieme i loro soldi fallirebbe.
+**Distrattori:**
+- Perché i depositi sono stati in gran parte versati alla Banca centrale come riserva obbligatoria: su 100 di depositi la banca ha fisicamente 1–1,5, e se molti depositanti chiedessero insieme i loro soldi fallirebbe.
+- Spese amministrative (per il personale e altre); accantonamenti netti ai fondi per rischi e oneri; rettifiche/riprese su attività materiali e immateriali; altri oneri/proventi di gestione.
+- Margine di intermediazione più costi operativi (nel consolidato anche il risultato della gestione assicurativa); per il docente è assimilabile al margine operativo lordo.
+
+**D:** ⚠️ Com'è composto il patrimonio di vigilanza della banca, e come si rapporta al patrimonio netto, secondo il docente della lezione 22?
+**R:** È un aggregato fissato dalle circolari della Banca d'Italia, formato da **common equity tier**, **tier 1** e **tier 2**, «aggregati via via sempre più ampi», con voci di patrimonio netto e di debito, in tutto o in parte. È quasi sempre **più ampio del patrimonio netto**, e la componente più significativa è il **capitale sociale** ([00:11:08]–[00:13:21]).
+**Opzione:** Da common equity tier, tier 1 e tier 2, aggregati via via più ampi con voci di patrimonio e di debito; è quasi sempre più ampio del patrimonio netto, e la componente più significativa è il capitale sociale.
+**Distrattori:**
+- Da common equity tier, tier 1 e tier 2, aggregati via via più ampi con voci di patrimonio e di debito; è quasi sempre più piccolo del patrimonio netto, e la componente più significativa è il capitale sociale.
+- Risultato lordo di gestione più le rettifiche/riprese di valore nette per deterioramento di crediti, attività finanziarie e altre operazioni finanziarie.
+- Dopo i costi operativi, nella gestione e controllo dei rischi fra RLG e RNG; nello schema obbligatorio vengono prima, e danno il risultato netto della gestione finanziaria.
+
+**D:** Che cosa fissa la banca centrale per limitare i prestiti di una banca, secondo il docente della lezione 22?
+**R:** Non un **valore massimo dei prestiti**, ma un **rapporto** fra patrimonio di vigilanza e attività ponderate per il rischio. Più è alto il rischio di credito o di controparte che la banca si assume, più alto deve essere il suo patrimonio per restare almeno all'8% ([00:12:58]–[00:13:51]).
+**Opzione:** Non un valore massimo dei prestiti, ma un rapporto minimo fra patrimonio di vigilanza e attività ponderate per il rischio.
+**Distrattori:**
+- Un valore massimo dei prestiti, pari a otto volte il patrimonio di vigilanza.
+- Utili (perdite) delle partecipazioni; risultato netto della valutazione al fair value delle attività materiali e immateriali; rettifiche di valore dell'avviamento; utili (perdite) da cessioni di investimenti.
+- Passività fiscali; passività associate ad attività in via di dismissione; altre passività; trattamento di fine rapporto del personale; fondi per rischi e oneri; azioni rimborsabili.
+
+**D:** Che cosa intende il docente della lezione 22 per rischio di credito e per rischio di controparte, e come li misura la banca?
+**R:** Il rischio di **credito** è che il soggetto a cui si è prestato non restituisca, in tutto o in parte, capitale e interessi; il rischio di **controparte** è la **non affidabilità** di quel soggetto. La banca li misura in termini **qualitativi**, quanto è affidabile la controparte, e **quantitativi**, quanto rischia di perdere ([00:01:59]–[00:03:16]).
+**Opzione:** Il rischio di credito è la mancata restituzione di capitale e interessi, quello di controparte la non affidabilità del soggetto; si misurano in termini qualitativi e quantitativi.
+**Distrattori:**
+- Il rischio di credito è la mancata restituzione di capitale e interessi, quello di controparte la non affidabilità del soggetto; si misurano solo in termini quantitativi, con coefficienti fissi.
+- Si applicano al CET1 lordo i filtri prudenziali, poi si tolgono gli elementi da dedurre e si aggiunge o toglie l'impatto del regime transitorio.
+- Che le attività fruttifere possono produrre anche oneri finanziari, per esempio per risultati negativi della negoziazione; e le passività onerose anche proventi, per risultati positivi della negoziazione di passività.
+
+**D:** ⚠️ Perché, secondo il docente della lezione 22, non basta rivedere una volta l'anno la posizione degli affidati, e che cosa segnala una rata in ritardo?
+**R:** Per il rischio di **aggiustamento della valutazione del credito**: la situazione del debitore può deteriorarsi rispetto all'inizio del rapporto, e serve un **monitoraggio continuo**. Se un cliente paga puntuale tre rate trimestrali e ritarda la quarta di una settimana, è già un primo campanello d'allarme, e il credito va svalutato almeno in parte ([00:23:56]–[00:26:16]).
+**Opzione:** Perché la situazione del debitore può deteriorarsi e serve un monitoraggio continuo; anche il ritardo di una settimana su una rata è un primo campanello d'allarme, e il credito va svalutato almeno in parte.
+**Distrattori:**
+- Perché la situazione del debitore può deteriorarsi e serve un monitoraggio continuo; ma il ritardo di una settimana su una rata non conta, finché il debitore paga entro l'anno.
+- Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della capacità o meno di produrre proventi e oneri per la banca.
+- Debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; adeguamento di valore delle passività oggetto di copertura generica.
