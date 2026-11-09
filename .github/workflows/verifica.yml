@@ -74,30 +74,54 @@ jobs:
           echo "::error::Pages did not publish this commit within 10 minutes (expected $atteso)"
           exit 1
 
+      # Right after a deployment Pages may answer 5xx for a few seconds (a 503
+      # on a path that was a 404 a moment later failed run c7fcebc). A 5xx, or
+      # 000 when curl gets no answer at all, says nothing about the path, so
+      # each request is retried; only a real answer counts.
       - name: Everything the app needs is served
         run: |
+          codice() {
+            for t in 1 2 3 4 5; do
+              c=$(curl -s -o /dev/null -w '%{http_code}' "$1")
+              case "$c" in 5??|000) sleep 10 ;; *) break ;; esac
+            done
+            echo "$c"
+          }
           for p in "" tools/quiz/ sw.js tools/quiz/manifest.webmanifest \
                    tools/quiz/config-pubblico.json tools/quiz/icone/icona-512.png \
                    tools/quiz/icone/apple-touch-icon.png tools/quiz/exams.json; do
-            code=$(curl -s -o /dev/null -w '%{http_code}' "https://lm77-quiz.github.io/$p")
+            code=$(codice "https://lm77-quiz.github.io/$p")
             echo "  $code  /$p"
             [ "$code" = 200 ] || { echo "::error::/$p returned $code"; exit 1; }
           done
           for s in $(ls exams); do
-            code=$(curl -s -o /dev/null -w '%{http_code}' "https://lm77-quiz.github.io/exams/$s/flashcards.md")
+            code=$(codice "https://lm77-quiz.github.io/exams/$s/flashcards.md")
             echo "  $code  /exams/$s/flashcards.md"
             [ "$code" = 200 ] || { echo "::error::flashcards of $s returned $code"; exit 1; }
           done
 
       # The mirror image: what must NOT be reachable, checked against the
-      # deployment rather than against the tree.
+      # deployment rather than against the tree. Only a real answer other than
+      # 404 means reachable; a 5xx that outlasts the retries still fails the
+      # job, but as "could not be checked", not as a leak.
       - name: Private material is not reachable
         run: |
+          codice() {
+            for t in 1 2 3 4 5; do
+              c=$(curl -s -o /dev/null -w '%{http_code}' "$1")
+              case "$c" in 5??|000) sleep 10 ;; *) break ;; esac
+            done
+            echo "$c"
+          }
           for s in $(ls exams); do
             for p in "exams/$s/notes/" "exams/$s/README.md" "exams/$s/glossario.md"; do
-              code=$(curl -s -o /dev/null -w '%{http_code}' "https://lm77-quiz.github.io/$p")
+              code=$(codice "https://lm77-quiz.github.io/$p")
               echo "  $code  /$p"
-              [ "$code" = 404 ] || { echo "::error::/$p is reachable ($code)"; exit 1; }
+              case "$code" in
+                404) ;;
+                5??|000) echo "::error::/$p could not be checked ($code after 5 attempts)"; exit 1 ;;
+                *) echo "::error::/$p is reachable ($code)"; exit 1 ;;
+              esac
             done
           done
 
