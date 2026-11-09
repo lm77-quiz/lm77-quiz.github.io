@@ -2295,3 +2295,285 @@
 - Il valore del costo di acquisto.
 - Il valore di mercato.
 - Il valore di presumibile realizzo tramite la cessione.
+
+## Lezione 10 — Ratei, risconti e fondi
+
+**D:** ⚠️ Dove si iscrivono i ratei e i risconti nello stato patrimoniale, secondo i principi nazionali della lezione 10?
+**R:** «Devono essere iscritti nello S.P. nelle classi "**D**" dell'attivo "**ratei e risconti attivi**" e "**E**" del passivo "**ratei e risconti passivi**"» (slide 2). Per il docente è lo schema dell'art. 2424 c.c. per i bilanci ordinari ([00:00:25]–[00:00:58]).
+**Opzione:** Nella classe D dell'attivo, ratei e risconti attivi, e nella classe E del passivo, ratei e risconti passivi.
+**Distrattori:**
+- Nella classe E dell'attivo, ratei e risconti attivi, e nella classe D del passivo, ratei e risconti passivi.
+- Alla voce C) Attivo circolante, III; l'elenco si chiude con gli altri titoli.
+- Alla voce B) Immobilizzazioni, I – Immobilizzazioni immateriali.
+
+**D:** ⚠️ Come si determina l'ammontare dei ratei e dei risconti nei principi nazionali, secondo la lezione 10?
+**R:** «Il loro ammontare deve essere determinato mediante **ripartizione del provento o dell'onere**, al fine di attribuire la **quota parte di competenza dell'esercizio in chiusura**» (slide 2). Si ripartisce la componente economica, non l'entrata o l'uscita finanziaria. Per il docente la ripartizione riguarda un ricavo o un costo «a cavallo di due o più esercizi» ([00:00:58]–[00:01:27]).
+**Opzione:** Ripartendo il provento o l'onere, per attribuire la quota parte di competenza dell'esercizio in chiusura.
+**Distrattori:**
+- Ripartendo il provento o l'onere, per attribuire la quota parte di competenza dell'esercizio successivo.
+- Per entrambi, il costo al netto del valore di presunto realizzo al termine della vita utile.
+- Il valore di presumibile realizzo desumibile dall'andamento del mercato, perché sono destinati a essere venduti entro un breve lasso temporale.
+
+**D:** ⚠️ A quali oneri e ricavi si riferiscono i ratei e i risconti, secondo il docente della lezione 10?
+**R:** A oneri o ricavi la cui maturazione avviene «a cavallo di **due o più esercizi**». La manifestazione **finanziaria** avviene **prima** o **dopo** la maturazione **economica**, e ratei e risconti attribuiscono a ciascun esercizio la sua quota di competenza ([00:01:27]–[00:02:01]).
+**Opzione:** A oneri o ricavi che maturano a cavallo di due o più esercizi, con la manifestazione finanziaria prima o dopo la maturazione economica.
+**Distrattori:**
+- A oneri o ricavi che maturano a cavallo di due o più esercizi, con la manifestazione finanziaria sempre contemporanea alla maturazione economica.
+- Gli esercizi contabili per i quali il bene sarà utilizzato nel processo produttivo; la fissa l'estensore del bilancio, normalmente gli amministratori.
+- È durevole se supera un certo periodo, normalmente fra i 4 e i 6 mesi; un calo di un giorno, una settimana o un mese è transitorio.
+
+**D:** ⚠️ Nell'esempio del docente della lezione 10, che cosa rileva l'inquilino di un capannone con canone semestrale da ottobre a marzo se paga tutto in anticipo, e che cosa se paga alla fine del semestre?
+**R:** Se paga **in anticipo**, metà del canone è costo dell'esercizio successivo, e va rinviata con un **risconto attivo**. Se paga **alla fine**, a marzo, ottobre–dicembre sono costo dell'esercizio precedente, da rilevare con un **rateo passivo**: non farlo «violerebbe il principio di competenza economica» ([00:02:01]–[00:03:20]).
+**Opzione:** Se paga in anticipo, un risconto attivo per la metà di competenza dell'esercizio successivo; se paga a marzo, un rateo passivo per ottobre–dicembre.
+**Distrattori:**
+- Se paga in anticipo, un rateo passivo per la metà di competenza dell'esercizio successivo; se paga a marzo, un risconto attivo per ottobre–dicembre.
+- Se paga in anticipo, un risconto passivo per la metà di competenza dell'esercizio successivo; se paga a marzo, un rateo attivo per ottobre–dicembre.
+- In entrambi i casi nulla: il costo segue il pagamento.
+
+**D:** ⚠️ Nell'esempio del docente della lezione 10, che cosa rileva il proprietario di un capannone con canone semestrale da ottobre a marzo se incassa tutto in anticipo, e che cosa se incassa alla fine del semestre?
+**R:** Se incassa **in anticipo**, la parte di ricavo di competenza dell'esercizio successivo va rinviata con un **risconto passivo**. Se incassa **alla fine**, a marzo, a dicembre deve iscrivere un **rateo attivo** per la quota di ricavo dell'esercizio precedente, cioè ottobre–dicembre ([00:03:25]–[00:04:10]).
+**Opzione:** Se incassa in anticipo, risconto passivo per la metà di competenza dell'esercizio successivo; se incassa a marzo, rateo attivo per ottobre–dicembre.
+**Distrattori:**
+- Se incassa in anticipo, rateo attivo per la metà di competenza dell'esercizio successivo; se incassa a marzo, risconto passivo per ottobre–dicembre.
+- Se incassa in anticipo, risconto attivo per la metà di competenza dell'esercizio successivo; se incassa a marzo, rateo passivo per ottobre–dicembre.
+- In entrambi i casi nulla: il ricavo segue l'incasso.
+
+**D:** ⚠️ Come trattano i ratei e i risconti i principi contabili internazionali, secondo la lezione 10?
+**R:** «**Non trattano espressamente** dei ratei e dei risconti, considerandoli all'interno delle più ampie classi di **debiti e crediti**» (slide 2). Per il docente gli IAS non stabiliscono regole specifiche, e li fanno rientrare nelle regole dei debiti e crediti ([00:04:26]–[00:04:50]).
+**Opzione:** Non li trattano espressamente: li considerano all'interno delle più ampie classi di debiti e crediti.
+**Distrattori:**
+- Li trattano in un documento dedicato, distinto da quello dei debiti e crediti.
+- Allo IAS 22, avente ad oggetto il trattamento contabile dell'aggregazione tra imprese.
+- IAS 27 per le controllate; IAS 28 per le collegate; IAS 31 per le imprese a controllo congiunto; IAS 39, sostituito dall'IFRS 9, per gli altri titoli in generale.
+
+**D:** ⚠️ Come si inquadrano e come si valutano i ratei nei principi internazionali, secondo la lezione 10?
+**R:** «I ratei rientrano nella definizione di **attività finanziarie**, in tutto **assimilati ai debiti e crediti**, ai quali si estendono i criteri di valutazione indicati» (slide 3). I **risconti**, invece, si valutano in relazione al valore del futuro beneficio economico.
+**Opzione:** Rientrano nella definizione di attività finanziarie, in tutto assimilati ai debiti e crediti, ai quali si estendono i criteri di valutazione.
+**Distrattori:**
+- Rientrano nella definizione di attività finanziarie, ma si valutano in relazione al valore del futuro beneficio economico da acquistare o erogare.
+- Il costo non ammortizzato.
+- Alle sole partecipazioni in imprese controllate e collegate iscritte fra le immobilizzazioni finanziarie, facoltativamente.
+
+**D:** ⚠️ Che cosa sono i risconti e come si valutano nei principi internazionali, secondo la lezione 10?
+**R:** «I risconti consistendo in **costi anticipati** per i quali il beneficio economico futuro è rappresentato dal **ricevimento di servizi** o in **ricavi anticipati**, devono essere valutati in relazione al **valore del futuro beneficio economico** da acquistare o erogare» (slide 3). Nell'esempio del docente il risconto attivo dell'inquilino è un costo già pagato che maturerà con l'uso dello spazio; il risconto passivo del proprietario è il ricavo dei mesi dell'anno successivo ([00:04:50]–[00:06:07]).
+**Opzione:** Costi anticipati, il cui beneficio futuro è il ricevimento di servizi, o ricavi anticipati, valutati in base al valore del futuro beneficio economico da acquistare o erogare.
+**Distrattori:**
+- Attività finanziarie in tutto assimilate ai debiti e crediti, ai quali si estendono i criteri di valutazione indicati.
+- Un procedimento tecnico-contabile di ripartizione di un costo avente utilità pluriennale fra gli esercizi che beneficeranno del suo concorso alla formazione dei ricavi.
+- Non il costo di acquisto, ma la quota del patrimonio netto contabile della partecipata corrispondente alla percentuale posseduta.
+
+**D:** ⚠️ In quale voce del conto economico e con quali sottovoci si colloca il costo del lavoro nei principi nazionali, secondo la lezione 10?
+**R:** «B) Costi della produzione — 9) Per il personale: a) **Salari e stipendi**; b) **Oneri sociali**; c) **Trattamento di fine rapporto**; d) **Trattamento di quiescenza e simili**; e) **Altri costi**» (slide 4). Per il docente è lo schema obbligatorio dell'art. 2425 c.c., e classifica i costi **per natura**, non per destinazione ([00:06:25]–[00:08:26]).
+**Opzione:** Nella voce B9, fra i costi della produzione: salari e stipendi; oneri sociali; trattamento di fine rapporto; trattamento di quiescenza e simili; altri costi.
+**Distrattori:**
+- Nella voce B9, fra i costi della produzione: salari e stipendi; oneri sociali; trattamento di fine rapporto; trattamento di quiescenza e simili; accantonamenti per rischi.
+- Dividendi distribuiti; aumenti di capitale a pagamento; rivalutazione di beni; riduzione del capitale; iscrizione a patrimonio netto di contributi in conto capitale.
+- Di partecipazioni; di immobilizzazioni finanziarie che non costituiscono partecipazioni; di titoli iscritti nell'attivo circolante che non costituiscono immobilizzazioni.
+
+**D:** ⚠️ Con quale sottovoce si chiude la voce B9 del conto economico, e che cosa vi rientra, secondo il docente della lezione 10?
+**R:** Con gli «**altri costi**» (slide 4), che per il docente sono una **voce residuale di chiusura** per tutti gli altri costi del personale: per esempio i buoni pasto, i rimborsi spese, le uniformi e gli abiti da lavoro ([00:16:00]–[00:16:34]).
+**Opzione:** Altri costi: una voce residuale di chiusura, per esempio buoni pasto, rimborsi spese, uniformi e abiti da lavoro.
+**Distrattori:**
+- Trattamento di quiescenza e simili: gli eventuali ulteriori trattamenti in caso di pensionamento.
+- Trattamento di fine rapporto: l'indennità che spetta a qualunque lavoratore per qualunque causa di cessazione.
+- Oneri sociali: i contributi pensionistici dei lavoratori.
+
+**D:** ⚠️ Che differenza c'è fra il trattamento di fine rapporto e il trattamento di quiescenza, secondo il docente della lezione 10?
+**R:** Il **trattamento di fine rapporto** è l'indennità che spetta a **qualunque lavoratore** per **qualunque causa di cessazione** del rapporto, attraverso l'accantonamento di una quota annuale. I **trattamenti di quiescenza** sono gli eventuali **ulteriori** trattamenti a favore dei lavoratori in caso di **pensionamento** ([00:15:31]–[00:16:00]).
+**Opzione:** Il TFR spetta a qualunque lavoratore per qualunque causa di cessazione del rapporto, con un accantonamento annuale; la quiescenza comprende gli eventuali ulteriori trattamenti in caso di pensionamento.
+**Distrattori:**
+- Il TFR comprende gli eventuali ulteriori trattamenti in caso di pensionamento; la quiescenza spetta a qualunque lavoratore per qualunque causa di cessazione del rapporto.
+- I dividendi distribuiti fra le variazioni di carattere patrimoniale; gli utili d'esercizio fra quelle aventi rilevanza reddituale.
+- Partecipazioni: investimenti nel capitale di altre imprese; altri titoli: titoli del debito pubblico e obbligazioni emesse da enti pubblici.
+
+**D:** ⚠️ Con quale criterio classificano i costi del personale lo schema nazionale e lo IAS 19, secondo il docente della lezione 10?
+**R:** Lo schema dell'art. 2425 li classifica **per natura** del costo, non per destinazione. Lo IAS 19 li distingue «più specificamente per il **tempo**»: compensi a breve termine, successivi al rapporto, a lungo termine ([00:07:41], [00:16:36]–[00:16:54]).
+**Opzione:** Lo schema nazionale per natura del costo; lo IAS 19 più specificamente per il tempo.
+**Distrattori:**
+- Lo schema nazionale per il tempo; lo IAS 19 per natura del costo.
+- Entrambi per destinazione del costo.
+- Entrambi per natura del costo.
+
+**D:** ⚠️ In quali tipologie lo IAS 19 distingue i costi per il personale, secondo la lezione 10?
+**R:** «Lo IAS 19 distingue i costi per il personale in **5 tipologie** principali: 1) **Compensi a breve termine**; 2) **Compensi successivi al rapporto di lavoro**; 3) **Compensi a lungo termine**; 4) **Indennità di fine rapporto**; 5) **Compensi legati al patrimonio netto**» (slide 5). Per il docente i compensi a lungo termine maturano per esempio con contratti di fidelizzazione; quelli legati al patrimonio netto premiano i miglioramenti del patrimonio netto, degli utili o della capitalizzazione ([00:16:54]–[00:17:54]).
+**Opzione:** Compensi a breve termine; compensi successivi al rapporto di lavoro; compensi a lungo termine; indennità di fine rapporto; compensi legati al patrimonio netto.
+**Distrattori:**
+- Compensi a breve termine; compensi successivi al rapporto di lavoro; compensi a lungo termine; indennità di fine rapporto; trattamento di quiescenza e simili.
+- Costi di impianto e ampliamento; costi di sviluppo; diritti di brevetto industriale e diritti di utilizzazione opere dell'ingegno; concessioni, licenze, marchi e diritti simili; avviamento; immobilizzazioni in corso e acconti; altre.
+- A seconda della loro destinazione nell'economia dell'impresa: detenuti fino a scadenza, detenuti per negoziazione, detenuti per la vendita.
+
+**D:** ⚠️ I principi contabili internazionali prevedono uno schema obbligatorio di conto economico e di stato patrimoniale, secondo il docente della lezione 10?
+**R:** **No**: la forma di redazione del bilancio è **libera**. Gli IAS valgono per più paesi, e uno schema obbligatorio per tutti sarebbe stato «molto limitante», in concorrenza con le regole interne dei singoli paesi. Nei principi nazionali la forma è quella degli **artt. 2424** (stato patrimoniale) e **2425** (conto economico) ([00:08:26]–[00:11:29]).
+**Opzione:** No: la forma è libera, perché valgono per più paesi e uno schema obbligatorio sarebbe entrato in concorrenza con le regole interne dei singoli paesi.
+**Distrattori:**
+- Sì: lo IASB ha adottato per tutti i paesi gli schemi degli articoli 2424 e 2425 del Codice civile.
+- Quella internazionale è più collegata all'aspetto economico-aziendalistico, quella nazionale al dato normativo giuridico.
+- In maniera piuttosto sintetica, tanto che i principi nazionali possono essere un'utile guida anche per applicare gli IAS.
+
+**D:** ⚠️ Come trattano il fisco IRES e IRPEF salari, stipendi, oneri sociali e TFR, secondo la lezione 10?
+**R:** «Sul fronte di salari, stipendi e oneri sociali a carico delle imprese, la normativa nazionale IRES e IRPEF **non diverge sostanzialmente** da quella civilistica; detti costi infatti sono deducibili **secondo competenza economica**. Anche la disciplina IRPEF/IRES del T.F.R. è **normalmente conforme** a quella civilistica» (slide 6). Per il docente i costi del personale non sono deducibili ai fini IRAP, ma per l'IRAP c'è una deduzione specifica legata alle caratteristiche dei lavoratori ([00:18:19]–[00:19:12]).
+**Opzione:** Non diverge sostanzialmente dalla disciplina civilistica: i costi sono deducibili secondo competenza economica, e anche il TFR è normalmente conforme.
+**Distrattori:**
+- Diverge dalla disciplina civilistica: i costi sono deducibili solo al momento del pagamento, e il TFR solo quando viene liquidato.
+- Che non è deducibile la parte di costo di acquisto eccedente il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio della partecipata.
+- Nei nazionali sì, fino al 2015, e non più dal 1° gennaio 2016; per lo IAS 38 non lo sono mai state.
+
+**D:** ⚠️ Dove si collocano i fondi per rischi e oneri nello stato patrimoniale nazionale, e quali sono le loro sottovoci, secondo la lezione 10?
+**R:** «Nello schema di S.P. rappresentano la **prima classe delle passività** e sono così suddivisi: **B) Fondi per rischi e oneri**: 1) Per **trattamento di quiescenza** ed obblighi similari; 2) Per **imposte, anche differite**; 3) **Strumenti finanziari derivati passivi**; 4) **Altri**» (slide 7). Il docente omette «passivi» ([00:19:33]).
+**Opzione:** Voce B del passivo, prima classe delle passività: per trattamento di quiescenza ed obblighi similari; per imposte, anche differite; strumenti finanziari derivati passivi; altri.
+**Distrattori:**
+- Voce B del passivo, prima classe delle passività: per trattamento di quiescenza ed obblighi similari; per imposte, anche differite; strumenti finanziari derivati attivi; altri.
+- Controllate; collegate; controllanti; sottoposte al controllo delle controllanti; altre imprese.
+- A: crediti verso soci per versamenti ancora dovuti; B: immobilizzazioni, divise in I immateriali, II materiali e III finanziarie.
+
+**D:** ⚠️ Quale documento nazionale tratta i fondi per rischi e oneri, e che cosa accolgono, secondo la lezione 10?
+**R:** «Sono trattati dal documento **OIC n.31** il quale evidenzia che gli stessi accolgono gli **accantonamenti destinati a coprire perdite o debiti**» (slide 7).
+**Opzione:** L'OIC n. 31: accolgono gli accantonamenti destinati a coprire perdite o debiti.
+**Distrattori:**
+- L'OIC n. 24: accolgono gli accantonamenti destinati a coprire perdite o debiti.
+- L'OIC n. 31: accolgono gli utili non distribuiti destinati a riserva.
+- L'OIC n. 20: accolgono gli accantonamenti destinati a coprire perdite o debiti.
+
+**D:** ⚠️ Nei fondi per rischi e oneri, che cosa può restare indeterminato, secondo la lezione 10?
+**R:** **Solo** l'**ammontare** o la **data di sopravvenienza**: la **natura** è **determinata** e l'**esistenza** è **certa o probabile** (slide 8). Per il docente «solo l'ammontare o la data di sopravvenienza possa rimanere indeterminata» ([00:19:55]–[00:20:31]).
+**Opzione:** Solo l'ammontare o la data di sopravvenienza; la natura è determinata e l'esistenza è certa o probabile.
+**Distrattori:**
+- La natura del rischio o dell'onere; l'ammontare e la data di sopravvenienza sono determinati.
+- L'esistenza della passività, che può essere anche solo possibile.
+- Nulla: natura, esistenza, ammontare e data devono essere tutti determinati.
+
+**D:** ⚠️ Che cosa distingue i fondi per oneri dai fondi rischi, secondo la lezione 10?
+**R:** «I **fondi per oneri**, ossia gli accantonamenti volti a fronteggiare passività di competenza dell'esercizio in chiusura, **certe nell'esistenza**; i **fondi rischi**, ossia accantonamenti a fronte di passività la cui esistenza è **solo probabile**» (slide 8). Per il docente nei fondi per oneri «sono certo che sosterrò degli oneri», nei fondi rischi è «solo probabile» ([00:20:31]–[00:21:28]).
+**Opzione:** I fondi per oneri fronteggiano passività di competenza dell'esercizio in chiusura, certe nell'esistenza; i fondi rischi passività la cui esistenza è solo probabile.
+**Distrattori:**
+- I fondi rischi fronteggiano passività di competenza dell'esercizio in chiusura, certe nell'esistenza; i fondi per oneri passività la cui esistenza è solo probabile.
+- Il cattivo affare un costo superiore alla quota di patrimonio netto; il buon affare un costo inferiore.
+- Per entrambi l'unico criterio è il fair value; per la negoziazione le differenze vanno a conto economico, per la vendita in una riserva di patrimonio netto.
+
+**D:** ⚠️ In quali voci del conto economico vanno gli accantonamenti per rischi e quelli ai fondi per oneri, secondo la lezione 10?
+**R:** «Gli accantonamenti per rischi vanno iscritti alla voce **B12) Accantonamenti per rischi**, mentre gli accantonamenti ai fondi per oneri vanno iscritti alla voce **B13) Altri accantonamenti**» (slide 9). La distinzione fra i due fondi «determina una diversa contropartita a C.E.» ([00:22:46]).
+**Opzione:** Gli accantonamenti per rischi alla voce B12, accantonamenti per rischi; quelli ai fondi per oneri alla voce B13, altri accantonamenti.
+**Distrattori:**
+- Gli accantonamenti per rischi alla voce B13, altri accantonamenti; quelli ai fondi per oneri alla voce B12, accantonamenti per rischi.
+- Entrambi alla voce B9, per il personale.
+- Entrambi alla voce 18, rivalutazioni.
+
+**D:** ⚠️ Come si quantificano i fondi per oneri, secondo la lezione 10?
+**R:** «La loro quantificazione deve avvenire sulla base di una **stima realistica delle somme o del valore dei beni** che dovranno essere forniti per soddisfare l'obbligazione» (slide 9). Per il docente i beni possono essere, per esempio, beni di ricambio o sostitutivi ([00:23:13]–[00:23:46]).
+**Opzione:** Sulla base di una stima realistica delle somme o del valore dei beni che dovranno essere forniti per soddisfare l'obbligazione.
+**Distrattori:**
+- Sulla base delle percentuali di casi negativi verificatisi negli anni precedenti.
+- Le quotazioni alla data di chiusura del bilancio, oppure una media delle quotazioni di un periodo.
+- Il costo non ammortizzato.
+
+**D:** ⚠️ Quando vanno rilevati in bilancio i fondi rischi, secondo la lezione 10?
+**R:** «Vanno rilevati in bilancio come accantonamenti ad appositi fondi **solo quando**: si possa ritenere **probabile** il verificarsi di eventi che comporteranno il sorgere di passività o la perdita di attività; sia possibile **stimare l'onere con sufficiente ragionevolezza**» (slide 10). Le due condizioni valgono insieme.
+**Opzione:** Solo se si può ritenere probabile il verificarsi di eventi che faranno sorgere passività o perdere attività, e se l'onere è stimabile con sufficiente ragionevolezza.
+**Distrattori:**
+- Solo se si può ritenere probabile il verificarsi di eventi che faranno sorgere passività o perdere attività, anche se l'onere non è suscettibile di alcuna stima attendibile.
+- No: occorre che il ribasso abbia un carattere di persistenza temporale e che manchino elementi che lascino fondatamente ritenere probabile un'inversione di tendenza.
+- Con il consenso del collegio sindacale, solo se acquisito a titolo oneroso e nei limiti del costo sostenuto.
+
+**D:** ⚠️ Che cosa si fa se l'ammontare dell'onere di un fondo rischi non è suscettibile di alcuna stima attendibile, secondo la lezione 10?
+**R:** «Se l'ammontare dell'onere non è suscettibile di alcuna stima attendibile, **non va effettuato alcun stanziamento** in bilancio» (slide 10). Per il docente la stima non dev'essere perfettamente precisa, ma deve legarsi a qualche elemento oggettivo ([00:24:16]).
+**Opzione:** Non si effettua alcuno stanziamento in bilancio.
+**Distrattori:**
+- Si stanzia comunque un importo forfettario, per prudenza.
+- Si stanzia il massimo importo possibile, per prudenza.
+- Si iscrive l'onere fra le passività potenziali dello stato patrimoniale.
+
+**D:** Quale esempio di fondo per oneri e quale di fondo rischi fa il docente della lezione 10?
+**R:** Un **fondo per oneri** sono le **manutenzioni cicliche**: gli autobus di un'azienda di trasporto pubblico urbano vanno sottoposti per legge a manutenzione periodica, e l'onere è certo. Un **fondo rischi** è un **contenzioso con il fisco** di esito incerto: pagare le maggiori somme richieste è solo probabile ([00:21:28]–[00:22:46]).
+**Opzione:** Fondo per oneri: le manutenzioni cicliche degli autobus del trasporto pubblico; fondo rischi: un contenzioso con il fisco di esito incerto.
+**Distrattori:**
+- Fondo per oneri: un contenzioso con il fisco di esito incerto; fondo rischi: le manutenzioni cicliche degli autobus del trasporto pubblico.
+- Entrambi fondi per oneri, perché l'esito è certo in tutti e due i casi.
+- Entrambi fondi rischi, perché l'ammontare è indeterminato in tutti e due i casi.
+
+**D:** Su che cosa si basa la stima del fondo per i danni causati da una crema solare, nell'esempio del docente della lezione 10?
+**R:** Sulle **percentuali di casi negativi** verificatisi negli **anni precedenti**. Chi mette in commercio un cosmetico solare, anche testato, sa che su soggetti sensibili può dare effetti dannosi e generare richieste di risarcimento: **per prudenza** accantona una somma stimata in modo attendibile, «con sufficiente ragionevolezza» ([00:24:38]–[00:26:00]).
+**Opzione:** Sulle percentuali di casi negativi verificatisi negli anni precedenti, per prudenza.
+**Distrattori:**
+- Sulla stima realistica delle somme o del valore dei beni che dovranno essere forniti per soddisfare l'obbligazione.
+- Su nessuna base: il danno è solo possibile, quindi non si stanzia nulla.
+- Sul prezzo di vendita della crema, moltiplicato per le unità vendute.
+
+**D:** ⚠️ Secondo quale distinzione lo IAS 37 tratta i fondi, rispetto ai principi nazionali, secondo la lezione 10?
+**R:** «Lo IAS 37 "Accantonamenti, passività e attività potenziali", rispetto alle previsioni dei principi contabili nazionali, **non distingue in relazione alla certezza o probabilità** del verificarsi della passività, tra fondi rischi e fondi per oneri, **ma tra "accantonamenti" e "passività potenziali"**» (slide 11).
+**Opzione:** Non fra fondi rischi e fondi per oneri secondo la certezza o probabilità della passività, ma fra accantonamenti e passività potenziali.
+**Distrattori:**
+- Fra fondi rischi e fondi per oneri secondo la certezza o probabilità della passività, come i principi nazionali.
+- Fra l'attività acquisita separatamente e quella che è parte di un'azienda o ramo aziendale acquistata unitariamente.
+- I dividendi distribuiti fra le variazioni di carattere patrimoniale; gli utili d'esercizio fra quelle aventi rilevanza reddituale.
+
+**D:** ⚠️ Per quali poste lo IAS 37 ammette l'iscrizione di fondi in bilancio, e per quali la esclude, secondo la lezione 10?
+**R:** «Il principio **ammette (e impone)** l'imputazione a bilancio di fondi **solo** in relazione agli "**accantonamenti**", mentre la **esclude** per le "**passività potenziali**"» (slide 11). Per il docente non permette l'iscrizione di passività «solo potenziali» ([00:26:45]–[00:27:06]).
+**Opzione:** La ammette e la impone solo per gli accantonamenti, mentre la esclude per le passività potenziali.
+**Distrattori:**
+- La ammette e la impone solo per le passività potenziali, mentre la esclude per gli accantonamenti.
+- La ammette sia per gli accantonamenti sia per le passività potenziali, a scelta del redattore del bilancio.
+- La esclude sia per gli accantonamenti sia per le passività potenziali.
+
+**D:** ⚠️ Quali accantonamenti ai fondi per rischi e oneri sono deducibili ai fini fiscali secondo l'art. 107 TUIR, nella lezione 10?
+**R:** Solo quelli «specificatamente indicati nell'art. 107 TUIR»: «**Fondo per manutenzioni cicliche**; **Fondo ripristino e sostituzione beni gratuitamente devolvibili**; **Fondo per concorsi e operazioni a premio**; **Fondo per rischi collaudo**» (slide 12). Per il docente il collaudo riguarda opere pubbliche o private ([00:27:06]–[00:27:56]).
+**Opzione:** Fondo per manutenzioni cicliche; fondo ripristino e sostituzione beni gratuitamente devolvibili; fondo per concorsi e operazioni a premio; fondo per rischi collaudo.
+**Distrattori:**
+- Fondo per manutenzioni cicliche; fondo ripristino e sostituzione beni gratuitamente devolvibili; fondo per concorsi e operazioni a premio; fondo per contenziosi con il fisco.
+- Minusvalenze latenti; avviamento negativo, per l'insufficiente redditività prospettica del complesso; un buon affare, cioè beni che valgono più del prezzo pagato.
+- BOT, CCT e CTZ come titoli del debito pubblico; BOC dei comuni e BOR delle regioni come obbligazioni di enti pubblici.
+
+**D:** Quale dei quattro fondi deducibili dell'art. 107 TUIR non è, secondo il docente della lezione 10, sostanzialmente un fondo per oneri?
+**R:** Il **fondo per rischi collaudo**. Per il docente, «tranne i rischi collaudo», gli altri tre (manutenzioni cicliche, ripristino e sostituzione dei beni gratuitamente devolvibili, concorsi e operazioni a premio) sono «sostanzialmente fondi per oneri» ([00:28:02]).
+**Opzione:** Il fondo per rischi collaudo.
+**Distrattori:**
+- Il fondo per manutenzioni cicliche.
+- Il fondo per concorsi e operazioni a premio.
+- Il fondo ripristino e sostituzione beni gratuitamente devolvibili.
+
+**D:** Che cosa succede, ai fini fiscali, a un fondo per rischi e oneri correttamente costituito nel bilancio civilistico ma non previsto dall'art. 107 TUIR, secondo il docente della lezione 10?
+**R:** Si può costituire nel bilancio civilistico, se ne ricorrono le caratteristiche, ma l'accantonamento **non è deducibile** e va quindi **sottoposto a tassazione** ([00:28:19]–[00:28:37]).
+**Opzione:** Si può costituire nel bilancio civilistico, ma l'accantonamento non è deducibile e va tassato.
+**Distrattori:**
+- Non si può costituire nemmeno nel bilancio civilistico.
+- È deducibile, purché ci sia il parere favorevole del collegio sindacale.
+- È deducibile per metà, secondo competenza economica.
+
+**D:** ⚠️ Come valutano i ratei e i risconti i principi nazionali, secondo il test della lezione 10 (domanda 1)?
+**R:** «**Il loro ammontare deve essere determinato mediante ripartizione del provento o dell'onere, al fine di attribuire la quota parte di competenza dell'esercizio in chiusura**», la slide 2 alla lettera. ⚠️ Due distrattori sostituiscono il provento e l'onere con l'**uscita** e l'**entrata finanziaria** «tra due esercizi consecutivi»: proprio la manifestazione finanziaria, che ratei e risconti servono a separare dalla competenza. Il terzo pesca la quota di ammortamento delle immobilizzazioni materiali dalla lezione 07.
+**Opzione:** Il loro ammontare deve essere determinato mediante ripartizione del provento o dell'onere, al fine di attribuire la quota parte di competenza dell'esercizio in chiusura.
+**Distrattori:**
+- Il loro ammontare deve essere determinato mediante ripartizione dell'uscita finanziaria tra due esercizi consecutivi.
+- Il loro ammontare deve essere determinato mediante ripartizione dell'entrata finanziaria tra due esercizi consecutivi.
+- Il loro ammontare deve essere determinato mediante ripartizione della quota di ammortamento delle immobilizzazioni materiali.
+
+**D:** ⚠️ Come considerano i risconti attivi i principi contabili nazionali, secondo il test della lezione 10 (domanda 2)?
+**R:** Come «**costi anticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in ricavi anticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare**». ⚠️ È la slide 3 alla lettera, ma la slide la presenta sotto i principi **internazionali**, e descrive tutti i risconti, non solo quelli attivi. I distrattori sono una matrice *costi o ricavi per primi* × *anticipati o posticipati*. L'unica opzione giusta su entrambi gli assi è questa: il ricevimento di servizi è il beneficio di un **costo** pagato in anticipo.
+**Opzione:** Costi anticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in ricavi anticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare.
+**Distrattori:**
+- Ricavi posticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in costi posticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare.
+- Ricavi anticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in costi anticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare.
+- Costi posticipati per i quali il beneficio economico futuro è rappresentato dal ricevimento di servizi o in ricavi posticipati, devono essere valutati in relazione al valore del futuro beneficio economico da acquistare o erogare.
+
+**D:** ⚠️ In quale voce del conto economico redatto secondo l'art. 2425 c.c. si trova il costo del personale, secondo il test della lezione 10 (domanda 3)?
+**R:** Nella «**voce B9**»: per la slide 4 il costo del lavoro sta fra i «B) Costi della produzione», alla voce «9) Per il personale». Distrattori del test: le voci **A5**, **C17** e **B7**, che il corso non nomina. Nello schema dell'art. 2425 sono gli altri ricavi e proventi, gli interessi e altri oneri finanziari e i costi per servizi: la nota lo segnala in un blocco ℹ️.
+**Opzione:** Voce B9.
+**Distrattori:**
+- Voce A5.
+- Voce C17.
+- Voce B7.
+
+**D:** ⚠️ Quali caratteristiche devono avere i fondi per rischi e oneri per i principi contabili nazionali, secondo il test della lezione 10 (domanda 4)?
+**R:** «**Natura determinata, esistenza certa o probabile, ammontare o data di sopravvenienza indeterminati**», la slide 8 alla lettera. ⚠️ È una matrice *natura* × *esistenza*: i distrattori dicono natura «indeterminata», oppure esistenza «incerta» o «possibile». Il terzo asse, ammontare o data indeterminati, è identico in tutte le opzioni.
+**Opzione:** Natura determinata, esistenza certa o probabile, ammontare o data di sopravvenienza indeterminati.
+**Distrattori:**
+- Natura indeterminata, esistenza possibile, ammontare o data di sopravvenienza indeterminati.
+- Natura indeterminata, esistenza incerta, ammontare o data di sopravvenienza indeterminati.
+- Natura determinata, esistenza incerta, ammontare o data di sopravvenienza indeterminati.
+
+**D:** ⚠️ I principi contabili internazionali ammettono l'iscrizione in bilancio di passività potenziali, secondo il test della lezione 10 (domanda 5)?
+**R:** «**No**»: per la slide 11 lo IAS 37 ammette, e impone, l'iscrizione di fondi solo per gli **accantonamenti**, e la esclude per le **passività potenziali**. Distrattori del test: «sì», «solo per costi superiori a **10.000 euro**», la soglia inventata già vista nel test 08, e «solo se il risultato di esercizio è positivo», una condizione inventata.
+**Opzione:** No.
+**Distrattori:**
+- Sì.
+- Solo per costi superiori a 10.000 euro.
+- Solo se il risultato di esercizio è positivo.
