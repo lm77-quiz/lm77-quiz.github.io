@@ -4476,3 +4476,221 @@
 - La Tav. 7.1, con la composizione merceologica dei crediti, e la Tav. 7.2, con le rettifiche e le riprese di valore per deterioramento; entrambe con dati sulle attività deteriorate.
 - Titoli di debito e finanziamenti con i risultati valutativi iscritti nel conto economico sulla base della facoltà riconosciuta alle imprese (c.d. fair value option) dall'IFRS 9.
 - Non è più autonoma: è stata assorbita fra le attività al fair value con impatto a conto economico, perché numericamente molto poco rilevante.
+
+## Lezione 18 — Le performance della banca: profili e strumenti di analisi
+
+**D:** ⚠️ Che cosa significa analizzare le performance di una banca, secondo la slide 3 della lezione 18?
+**R:** «Utilizzare il **patrimonio informativo** a disposizione al fine di indagare i diversi **profili gestionali** che ne caratterizzano l'operatività, individuandone **specificità di rilievo, punti di forza e punti di debolezza** in relazione all'**ambiente operativo** di riferimento» (slide 3).
+**Opzione:** Utilizzare il patrimonio informativo a disposizione al fine di indagare i diversi profili gestionali che ne caratterizzano l'operatività, individuandone specificità di rilievo, punti di forza e punti di debolezza in relazione all'ambiente operativo di riferimento.
+**Distrattori:**
+- Utilizzare il patrimonio informativo a disposizione al fine di indagare i diversi profili gestionali che ne caratterizzano l'operatività, individuandone specificità di rilievo, punti di forza e punti di debolezza in relazione agli obiettivi fissati dal consiglio di amministrazione.
+- Tutte le attività finanziarie non classificate nel portafoglio valutato al fair value con impatto sulla redditività complessiva e nel portafoglio valutato al costo ammortizzato.
+- Gli interessi maturati sulle diverse tipologie di attività e passività in contropartita con clientela, con banche, con altri operatori dei mercati finanziari (crediti e debiti, attività finanziarie quale che sia la categoria di appartenenza).
+
+**D:** ⚠️ A che cosa occorre guardare, preventivamente e nel continuo, nel valutare le performance bancarie, secondo il test della lezione 18 (domanda 1)?
+**R:** **All'andamento economico generale, alle condizioni del sistema bancario, al posizionamento delle altre banche**: sono i tre riferimenti della slide 3. Distrattori del test: «all'andamento dell'inflazione», «alla media dei redditi nazionale», «al mercato bancario nazionale e internazionale».
+**Opzione:** All'andamento economico generale, alle condizioni del sistema bancario, al posizionamento delle altre banche.
+**Distrattori:**
+- All'andamento dell'inflazione.
+- Alla media dei redditi nazionale.
+- Al mercato bancario nazionale e internazionale.
+
+**D:** ⚠️ Perché, secondo la slide 3 della lezione 18, nel valutare le performance di una banca si guarda all'andamento economico generale e alle condizioni del sistema bancario?
+**R:** L'andamento economico generale perché è quello «dal quale l'attività bancaria è **necessariamente influenzata**». Le condizioni del sistema bancario nel suo complesso perché sono «indicative delle **tendenze in atto** e utile **parametro di riferimento** nella valutazione delle performance della singola banca». Il posizionamento di altre banche è un «altro elemento di **confronto**» (slide 3).
+**Opzione:** L'andamento economico generale perché ne è necessariamente influenzata l'attività bancaria; le condizioni del sistema bancario perché indicano le tendenze in atto e sono un parametro di riferimento per la singola banca.
+**Distrattori:**
+- L'andamento economico generale perché indica le tendenze in atto ed è un parametro di riferimento per la singola banca; le condizioni del sistema bancario perché ne è necessariamente influenzata l'attività bancaria.
+- Perché il patrimonio netto ha anche una funzione di copertura dei rischi: per la vigilanza è il cuscinetto che assorbe i rischi non correttamente definiti o calcolati.
+- Un'impresa può restare in vita anche in perdita economica, ma se le uscite superano le entrate e non trova altro denaro l'attività finisce: la liquidità è la condizione essenziale per la sua vita.
+
+**D:** ⚠️ Quali sono i principali profili di analisi funzionali alla valutazione della performance della banca, secondo la slide 4 della lezione 18?
+**R:** **Struttura dell'intermediazione**; **redditività, efficienza e produttività**; **patrimonializzazione**; **rischiosità**, con il rischio di credito, i rischi di mercato, il rischio di liquidità e i rischi operativi (slide 4).
+**Opzione:** Struttura dell'intermediazione; redditività, efficienza e produttività; patrimonializzazione; rischiosità.
+**Distrattori:**
+- Struttura dell'intermediazione; redditività, efficienza e produttività; patrimonializzazione; dimensione della rete degli sportelli.
+- A attività operativa, B attività di investimento, C attività di provvista; la liquidità netta dell'esercizio è D = A ± B ± C.
+- Emissione nuove azioni; acquisto azioni proprie; distribuzione straordinaria dividendi; variazione strumenti di capitale; derivati su proprie azioni; stock options.
+
+**D:** ⚠️ Quali sono i principali rischi per la banca, secondo il test della lezione 18 (domanda 2)?
+**R:** **Rischio di credito, rischio di mercato, rischio di liquidità e rischi operativi**: è la rischiosità della slide 4, che dice «rischi di mercato». Per il docente il più rilevante è il **rischio di credito** ([00:17:06]). Distrattori del test: tengono credito e mercato e cambiano gli ultimi due, «rischio estero e rischi ambientali», «rischio di cambio e rischi finanziari», «rischio Paese, rischi reputazionali».
+**Opzione:** Rischio di credito, rischio di mercato, rischio di liquidità e rischi operativi.
+**Distrattori:**
+- Rischio di credito, rischio di mercato, rischio estero e rischi ambientali.
+- Rischio di credito, rischio di mercato, rischio di cambio e rischi finanziari.
+- Rischio di credito, rischio di mercato, rischio Paese, rischi reputazionali.
+
+**D:** Con quale punto si chiude l'agenda della lezione 18 sulle performance della banca?
+**R:** Con il punto IV, **patrimonializzazione e rischiosità della banca**. Gli altri sono: I, analisi delle performance della banca: inquadramento generale; II, la struttura dell'intermediazione; III, redditività, efficienza e produttività (slide 2). La lezione ne copre i primi due.
+**Opzione:** Patrimonializzazione e rischiosità della banca.
+**Distrattori:**
+- Redditività, efficienza e produttività.
+- A sofferenza, a incaglio, ristrutturati, past due.
+- Il margine è una differenza, mentre l'indice è un rapporto, un quoziente.
+
+**D:** A che cosa contribuisce, secondo la slide 5 della lezione 18, conoscere la composizione dell'attivo e del passivo della banca, la loro correlazione e struttura per scadenze?
+**R:** «A una più completa **interpretazione dei risultati economici** conseguiti e dei diversi **profili gestionali** che incidono sulla performance bancaria complessiva» (slide 5). Per il docente la correlazione fra le scadenze mostra i profili di rischio di struttura: se il passivo scade prima dell'attivo, la banca è esposta al rischio di liquidità ([00:17:33]–[00:19:27]).
+**Opzione:** A una più completa interpretazione dei risultati economici conseguiti e dei diversi profili gestionali che incidono sulla performance bancaria complessiva.
+**Distrattori:**
+- A una più completa interpretazione dei risultati economici conseguiti e dei diversi rischi di mercato che incidono sulla performance bancaria complessiva.
+- Accrescere il grado di leggibilità del bilancio e della gestione aziendale rappresentata in esso.
+- Le voci che compongono il patrimonio netto della banca e le variazioni che si registrano in ciascuna di esse nel corso dell'esercizio.
+
+**D:** ⚠️ Che cosa influenza la struttura dell'intermediazione della banca, secondo il test della lezione 18 (domanda 3)?
+**R:** **La composizione dell'attivo, la composizione del passivo e la struttura finanziaria**: per la slide 5 la prima analisi della struttura dell'intermediazione si conduce sullo stato patrimoniale, guardando a queste tre cose. Distrattori del test: «la composizione del portafoglio delle attività finanziarie, delle passività finanziarie e delle riserve di patrimonio», «le immobilizzazioni finanziarie, i debiti finanziari e il costo del personale», «la composizione delle immobilizzazioni dei debiti e del patrimonio netto».
+**Opzione:** La composizione dell'attivo, la composizione del passivo e la struttura finanziaria.
+**Distrattori:**
+- La composizione del portafoglio delle attività finanziarie, delle passività finanziarie e delle riserve di patrimonio.
+- Le immobilizzazioni finanziarie, i debiti finanziari e il costo del personale.
+- La composizione delle immobilizzazioni, dei debiti e del patrimonio netto.
+
+**D:** ⚠️ Che cosa fornisce l'analisi della composizione dell'attivo della banca, secondo la slide 6 della lezione 18?
+**R:** «Una prima evidenza della **tipologia di impieghi** effettuati dalla banca, consentendo un'**immediata identificazione della tipologia di attività prevalente**» (slide 6).
+**Opzione:** Una prima evidenza della tipologia di impieghi effettuati dalla banca, consentendo un'immediata identificazione della tipologia di attività prevalente.
+**Distrattori:**
+- Una prima evidenza della struttura delle fonti della banca, consentendo un'immediata identificazione della tipologia di raccolta prevalente.
+- I flussi finanziari assorbiti o generati nel corso dell'esercizio.
+- I criteri di iscrizione, di classificazione, di valutazione e di cancellazione delle attività e delle passività che ha adottato la banca.
+
+**D:** ⚠️ Quali sono gli indicatori tipici di composizione dell'attivo della banca, secondo la slide 6 della lezione 18?
+**R:** **CB/TA**, crediti verso banche / totale attivo; **CC/TA**, crediti verso clientela / totale attivo; **AF/TA**, attività finanziarie / totale attivo (slide 6). Per il docente misurano tre mondi: il mercato interbancario, l'intermediazione verso la clientela, i mercati finanziari ([00:23:24]).
+**Opzione:** Crediti verso banche / totale attivo; crediti verso clientela / totale attivo; attività finanziarie / totale attivo.
+**Distrattori:**
+- Crediti verso banche / totale attivo; crediti verso clientela / debiti verso clientela; attività finanziarie / totale attivo.
+- 30 margine d'interesse; 60 commissioni nette; 120 margine di intermediazione; 150 risultato netto della gestione finanziaria.
+- Capitale (azioni ordinarie e altre azioni); sovrapprezzi di emissione; riserve (di utili e altre); riserve da valutazione; strumenti di capitale; acconti su dividendi; azioni proprie; utile (perdita) di esercizio.
+
+**D:** ⚠️ A che cosa è riferito l'indice crediti verso la clientela / totale attivo, secondo il test della lezione 18 (domanda 4)?
+**R:** Alla **composizione dell'attivo**: CC/TA è uno dei tre indicatori della slide 6, con CB/TA e AF/TA. Distrattori del test: «composizione del netto», «composizione del passivo», «composizione della relazione di gestione». Le famiglie delle slide sono tre: composizione dell'attivo, composizione del passivo, struttura finanziaria.
+**Opzione:** Composizione dell'attivo.
+**Distrattori:**
+- Composizione del netto.
+- Composizione del passivo.
+- Composizione della relazione di gestione.
+
+**D:** Quali «tre mondi» della banca misurano, per il docente della lezione 18, i tre indicatori di composizione dell'attivo?
+**R:** CB/TA il rapporto con il **mercato interbancario**; CC/TA quello con l'**intermediazione verso la clientela**; AF/TA quello con i **mercati finanziari** ([00:23:24]–[00:23:49]). In serie storica mostrano se la banca ha privilegiato l'uno o l'altro.
+**Opzione:** CB/TA il mercato interbancario; CC/TA l'intermediazione verso la clientela; AF/TA i mercati finanziari.
+**Distrattori:**
+- CB/TA l'intermediazione verso la clientela; CC/TA il mercato interbancario; AF/TA i mercati finanziari.
+- La Tav. 7.1, con la composizione merceologica dei crediti, e la Tav. 7.2, con la composizione per debitori/emittenti; entrambe con dati sulle attività deteriorate.
+- Interessi attivi nella sezione 1 (voci 10 e 20); dividendi nella sezione 3 (voce 70); risultato netto dell'attività di negoziazione nella sezione 4 (voce 80).
+
+**D:** Che cosa consente di capire la composizione del passivo della banca, secondo la slide 7 della lezione 18?
+**R:** «Nell'immediato le principali peculiarità della banca in termini di **struttura delle fonti**» (slide 7). Per il docente il passivo dice da dove arrivano i soldi, l'attivo dove vengono investiti ([00:26:16]).
+**Opzione:** Nell'immediato le principali peculiarità della banca in termini di struttura delle fonti.
+**Distrattori:**
+- Nell'immediato le principali peculiarità della banca in termini di tipologia degli impieghi.
+- Negli OIC dentro la nota integrativa; nei principi internazionali è un documento a sé stante del bilancio.
+- Nel bilancio del locatore, cioè di chi concede il bene in uso all'utilizzatore.
+
+**D:** ⚠️ Quali sono gli indicatori tipici di composizione del passivo della banca, secondo la slide 7 della lezione 18?
+**R:** **DB/TP**, debiti verso banche / totale passivo; **DC/TP**, debiti verso clientela / totale passivo; **TC/TP**, titoli in circolazione / totale passivo; **PF/TP**, passività finanziarie / totale passivo (slide 7). Sono quattro, uno più degli indicatori dell'attivo.
+**Opzione:** Debiti verso banche / totale passivo; debiti verso clientela / totale passivo; titoli in circolazione / totale passivo; passività finanziarie / totale passivo.
+**Distrattori:**
+- Debiti verso banche / totale passivo; debiti verso clientela / totale passivo; titoli in circolazione / totale passivo; totale attivo / patrimonio netto.
+- Emissioni/acquisti di azioni proprie; emissioni/acquisti di strumenti di capitale; distribuzione dividendi e altre finalità.
+- Esistenze al 31.12.T0, modifica saldi apertura, esistenze al 1.1.T1; l'allocazione del risultato precedente ha le colonne riserve e dividendi e altre destinazioni.
+
+**D:** ⚠️ A che cosa guarda l'analisi della struttura finanziaria della banca, secondo la slide 8 della lezione 18?
+**R:** «Alla **correlazione tra l'attivo e il passivo** di bilancio», rintracciando elementi per una prima ricognizione delle caratteristiche della struttura finanziaria della banca e cercando di cogliere prime indicazioni in tema di **equilibrio finanziario di tipo strutturale** (slide 8).
+**Opzione:** Alla correlazione tra l'attivo e il passivo di bilancio, per una prima ricognizione della struttura finanziaria e per cogliere prime indicazioni in tema di equilibrio finanziario di tipo strutturale.
+**Distrattori:**
+- Alla composizione del solo attivo di bilancio, per una prima ricognizione della struttura finanziaria e per cogliere prime indicazioni in tema di equilibrio finanziario di tipo strutturale.
+- La liquidità generata o assorbita dalla banca per effetto dell'attività operativa, di investimento e di provvista che essa ha posto in essere nel periodo.
+- Le variazioni di riserve, le operazioni sul patrimonio netto e la redditività complessiva dell'esercizio T1.
+
+**D:** ⚠️ Quali sono i principali indicatori di struttura finanziaria della banca, secondo la slide 8 della lezione 18?
+**R:** **PIN/TA**, posizione interbancaria netta / totale attivo; il **loan to deposit ratio**, **CC/DC**, crediti verso clientela / debiti verso clientela; il **leverage ratio**, **TA/PN**, totale attivo / patrimonio netto (slide 8). Ognuno mette in rapporto una posta dell'attivo con una del passivo o del patrimonio.
+**Opzione:** Posizione interbancaria netta / totale attivo; loan to deposit ratio (crediti verso clientela / debiti verso clientela); leverage ratio (totale attivo / patrimonio netto).
+**Distrattori:**
+- Posizione interbancaria netta / totale attivo; loan to deposit ratio (crediti verso clientela / totale attivo); leverage ratio (totale attivo / patrimonio netto).
+- Il diretto solo chi dispone della contabilità; l'indiretto anche chi ha solo il bilancio, e per questo di norma si usa l'indiretto.
+- La cassa iniziale, più o meno la liquidità netta dell'esercizio e l'effetto della variazione dei cambi, dà la cassa e disponibilità liquide alla chiusura.
+
+**D:** ⚠️ A che cosa è relativo il loan to deposit ratio, secondo il test della lezione 18 (domanda 5)?
+**R:** Alla **composizione della struttura finanziaria**: per la slide 8 il loan to deposit ratio, crediti verso clientela / debiti verso clientela, è uno dei principali indicatori di struttura finanziaria. Rapporta una voce dell'attivo a una del passivo, non a un totale. Distrattori del test: «composizione del netto», «composizione del passivo», «composizione dell'attivo».
+**Opzione:** Composizione della struttura finanziaria.
+**Distrattori:**
+- Composizione del netto.
+- Composizione del passivo.
+- Composizione dell'attivo.
+
+**D:** ⚠️ Come si calcola il leverage ratio della banca, e come si legge, secondo la lezione 18?
+**R:** **Totale attivo / patrimonio netto**, TA/PN (slide 8). Per il docente, che lo chiama «leverage netto», è «un indicatore molto importante della **sostenibilità nel tempo**» dell'attività: «più è **basso** questo indice più è **positivo**, più è alto più è rischioso» ([00:28:36]–[00:29:12]).
+**Opzione:** Totale attivo / patrimonio netto: più è basso più è positivo, più è alto più è rischioso.
+**Distrattori:**
+- Patrimonio netto / totale attivo: più è basso più è positivo, più è alto più è rischioso.
+- Equivale a una riduzione del capitale sociale, e per questo le azioni proprie sono riportate sempre con il segno negativo.
+- Le plus/minusvalenze con il segno (-/+); le rettifiche/riprese di valore nette per rischio di credito con il segno (+/-).
+
+**D:** Che cosa esprimono, per il docente della lezione 18, il loan to deposit ratio e la posizione interbancaria netta / totale attivo?
+**R:** Il **loan to deposit ratio** è «il rapporto fra la **raccolta** e l'**investimento della raccolta**», cioè fra raccolta e intermediazione ([00:29:12]). **PIN/TA** dice «quanto sono **esposto** rispetto al **mercato interbancario**» ([00:29:23]).
+**Opzione:** Il loan to deposit ratio il rapporto fra la raccolta e l'investimento della raccolta; PIN/TA quanto la banca è esposta rispetto al mercato interbancario.
+**Distrattori:**
+- Il loan to deposit ratio quanto la banca è esposta rispetto al mercato interbancario; PIN/TA il rapporto fra la raccolta e l'investimento della raccolta.
+- Solo nella gestione dell'attività operativa: il diretto elenca incassi e pagamenti, come gli interessi attivi incassati; l'indiretto parte dal risultato d'esercizio e lo rettifica.
+- Nell'attività operativa, dopo la gestione: la liquidità delle attività finanziarie e quella delle passività finanziarie.
+
+**D:** ⚠️ Come distingue il docente della lezione 18 redditività, efficienza e produttività?
+**R:** Sono «tutti e tre elementi di efficienza». La **redditività** è la capacità di produrre reddito avendo a disposizione una determinata organizzazione; l'**efficienza** è la capacità di ottenere risultati con **meno mezzi** impiegati; la **produttività** è il risultato ottenuto impiegando **meno tempo** ([00:15:41]–[00:16:11]).
+**Opzione:** Redditività: produrre reddito con una data organizzazione; efficienza: ottenere risultati con meno mezzi impiegati; produttività: ottenere il risultato impiegando meno tempo.
+**Distrattori:**
+- Redditività: produrre reddito con una data organizzazione; efficienza: ottenere il risultato impiegando meno tempo; produttività: ottenere risultati con meno mezzi impiegati.
+- Azioni riconosciute a condizioni più vantaggiose a dipendenti, collaboratori o amministratori: aumenti di capitale riservati a queste categorie.
+- Per categorie di rischi (di credito, di mercato, di liquidità, operativi), informazioni qualitative sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni quantitative.
+
+**D:** ⚠️ In relazione a che cosa va valutata la patrimonializzazione di una banca, secondo il docente della lezione 18?
+**R:** **Non in assoluto**, ma **in relazione ai livelli di rischio** che la banca si assume: per questo si parla di patrimonializzazione in correlazione alla rischiosità ([00:16:11]–[00:16:40]). Nell'agenda il punto IV è appunto «patrimonializzazione e rischiosità della banca» (slide 2).
+**Opzione:** Non in assoluto, ma in relazione ai livelli di rischio che la banca si assume.
+**Distrattori:**
+- Non in assoluto, ma in relazione al patrimonio medio delle altre banche del settore.
+- Relazione sulla gestione alla parte E; stato patrimoniale alla parte B, sezione 7; conto economico alla parte C, sezioni 1 (interessi), 6 (cessioni o riacquisti) e 8 (rettifiche e riprese).
+- Titoli di debito, titoli di capitale e finanziamenti.
+
+**D:** ⚠️ Che cos'è il rischio di liquidità, e quando la banca vi è esposta strutturalmente, secondo il docente della lezione 18?
+**R:** È il rischio «connesso all'**incapacità** da parte dell'impresa di avere il denaro necessario a **pagare le obbligazioni** nel momento in cui queste vengono a scadenza». La banca vi è esposta se il **passivo scade prima dell'attivo**, cioè se deve pagare i debiti prima di poter tramutare in denaro le attività. Le attività vanno convertite in denaro in tempo e a **condizioni economiche** non penalizzanti, non «di disperazione» ([00:18:40]–[00:22:03]).
+**Opzione:** L'incapacità di avere il denaro necessario a pagare le obbligazioni alla scadenza; la banca vi è esposta se il passivo scade prima dell'attivo.
+**Distrattori:**
+- L'incapacità di avere il denaro necessario a pagare le obbligazioni alla scadenza; la banca vi è esposta se l'attivo scade prima del passivo.
+- Dal 1° gennaio 2016, dopo la riforma del codice civile del 2015; prima lo prevedevano solo i principi dei dottori commercialisti, senza forza di legge.
+- Generata da vendite di partecipazioni, dividendi incassati su partecipazioni, vendite di attività materiali, immateriali e di rami d'azienda; assorbita dagli acquisti di partecipazioni, attività materiali, immateriali e rami d'azienda.
+
+**D:** Qual è, per il docente della lezione 18, il rapporto ottimale fra la durata media finanziaria dell'attivo e quella del passivo?
+**R:** «L'**optimum** sarebbe che la durata media finanziaria dell'attivo fosse **leggermente più breve** della durata finanziaria media del passivo». La durata media finanziaria si chiama in inglese **duration** ([00:22:03]–[00:22:57]).
+**Opzione:** Che la durata media finanziaria dell'attivo sia leggermente più breve di quella del passivo.
+**Distrattori:**
+- Che la durata media finanziaria dell'attivo sia leggermente più lunga di quella del passivo.
+- Le voci di conto economico l'insieme dei crediti, verso clientela e verso banche; le sezioni 6 e 8 della nota integrativa i soli crediti verso clientela.
+- Dividendi e proventi simili nella gestione dell'attività operativa; dividendi incassati su partecipazioni nell'attività di investimento; distribuzione dividendi nell'attività di provvista.
+
+**D:** Quando gli indicatori di composizione dell'attivo e del passivo sono più significativi, secondo il docente della lezione 18?
+**R:** Quando hanno **profondità temporale**, cioè sono letti in **serie storica**, sugli ultimi 5, 7 o 10 anni della banca, e quando sono **confrontati** con quelli dei **concorrenti** e con la **media del settore**, in un'ottica «spaziale» ([00:23:49]–[00:28:36]).
+**Opzione:** In serie storica, sugli ultimi 5–10 anni della banca, e nel confronto con i concorrenti e con la media del settore.
+**Distrattori:**
+- In un singolo esercizio, purché recente, e nel confronto con i concorrenti e con la media del settore.
+- L'utile d'esercizio alla fine del conto economico; la redditività complessiva dà un'informativa più completa sulle componenti affluite alla riserva da valutazione invece che al conto economico.
+- In una specifica riserva di patrimonio netto, dove si cumulano algebricamente fino alla cessione; alla dismissione utili e perdite cumulati vengono trasferiti a conto economico.
+
+**D:** Come può procurarsi i fondi una banca, secondo il docente della lezione 18, con gli esempi per ciascuna fonte?
+**R:** Con **debiti verso altre banche**, che le prestano denaro; con **debiti verso la clientela**, tipicamente i **conti correnti**; aumentando i **titoli in circolazione**, per esempio emettendo **certificati di deposito**; aumentando le **passività finanziarie**, per esempio emettendo un **prestito obbligazionario** ([00:26:45]–[00:28:01]). Sono le quattro voci degli indicatori di composizione del passivo (slide 7).
+**Opzione:** Debiti verso altre banche; debiti verso la clientela, come i conti correnti; titoli in circolazione, come i certificati di deposito; passività finanziarie, come un prestito obbligazionario.
+**Distrattori:**
+- Debiti verso altre banche; debiti verso la clientela, come i conti correnti; titoli in circolazione, come i certificati di deposito; crediti verso la clientela, come i mutui.
+- Titoli di debito, titoli di capitale, finanziamenti, quote di OICR e derivati.
+- Interessenze azionarie diverse da quelle di controllo, quote di fondi comuni non quotati o con scarsa movimentazione, attività subordinate; non comprende derivati.
+
+**D:** Che cos'è la stagflazione, e da quale inflazione nasce, secondo il docente della lezione 18?
+**R:** Una situazione di **stagnazione** economica, con il PIL che non cresce o diminuisce, insieme a **inflazione**. Di solito l'inflazione accompagna la crescita; nella stagflazione è invece un'**inflazione importata**, generata dall'aumento dei prezzi dei beni, come quelli energetici, che uno Stato compra da altri. L'esempio è la prima crisi petrolifera degli anni Settanta ([00:06:47]–[00:10:02]).
+**Opzione:** Stagnazione economica insieme a inflazione, di solito un'inflazione importata, per l'aumento dei prezzi dei beni energetici che lo Stato compra da altri.
+**Distrattori:**
+- Crescita economica insieme a inflazione, di solito un'inflazione da surriscaldamento, per l'aumento della velocità di circolazione della moneta.
+- La sintesi dei risultati netti e dei margini tipici dell'attività della banca: si consegue sommando al margine d'intermediazione le rettifiche e le riprese di valore per deterioramento (voce 130).
+- Scalare: si parte dai ricavi e scendendo si incontrano costi e margini; lo stato patrimoniale è invece a sezioni contrapposte.
+
+**D:** Che cosa prevede il docente della lezione 18 per il sistema bancario italiano, e perché?
+**R:** Che prima della fine del terzo decennio del secolo resteranno **meno di 10 grandi banche**, o poco più. La **dimensione** è diventata strategica: i costi di base di un'organizzazione bancaria sono così alti che si regge solo chi li ripartisce su molti clienti. «Il **nanismo** non è più una politica che paga»: o si trova una nicchia molto specializzata, o la banca retail deve crescere assorbendo altre banche ([00:11:08]–[00:15:41]).
+**Opzione:** Che resteranno meno di 10 grandi banche, perché la dimensione è diventata strategica e il nanismo non paga più: si regge solo chi ripartisce i costi fissi su molti clienti.
+**Distrattori:**
+- Che aumenteranno le piccole banche, perché la specializzazione è diventata strategica e la grande dimensione non paga più: si regge solo chi resta vicino al territorio.
+- Le partecipazioni in imprese sottoposte a influenza notevole o a controllo congiunto che lo IAS 28 e l'IFRS 11 consentono di assegnare a tale portafoglio.
+- Fornire dati (informazioni quantitative) che consentano di ricostruire e approfondire i valori di sintesi dello stato patrimoniale e del conto economico; dare informazioni qualitative, ad esempio sui rischi e sulle relative politiche di copertura.
