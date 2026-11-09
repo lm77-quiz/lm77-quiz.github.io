@@ -3148,3 +3148,255 @@
 - Libera.
 - Libera solo per la nota integrativa.
 - Libera solo per lo stato patrimoniale e il conto economico.
+
+## Lezione 13 — Le voci principali dello stato patrimoniale della banca
+
+**D:** ⚠️ Che cosa comprende la voce 10 dell'attivo della banca, Cassa e disponibilità liquide, secondo la lezione 13?
+**R:** «**Banconote e monete** espresse nelle diverse valute negoziate dalla banca; **depositi liberi** detenuti presso le Banche Centrali dei paesi in cui la banca opera» (slide 2). ⚠️ Le **riserve obbligatorie** non ci stanno: per la slide 4 sono crediti verso banche, perché sono crediti verso le Banche Centrali «diversi dai depositi liberi».
+**Opzione:** Banconote e monete espresse nelle diverse valute negoziate dalla banca; depositi liberi detenuti presso le Banche Centrali dei paesi in cui la banca opera.
+**Distrattori:**
+- Banconote e monete espresse nelle diverse valute negoziate dalla banca; riserve obbligatorie detenute presso le Banche Centrali dei paesi in cui la banca opera.
+- Sono state eliminate dal D.Lgs. 139/2015: erano le voci E20 ed E21.
+- Costi anticipati, il cui beneficio futuro è il ricevimento di servizi, o ricavi anticipati, valutati in base al valore del futuro beneficio economico da acquistare o erogare.
+
+**D:** ⚠️ Che cosa esprime il saldo della voce Cassa e disponibilità liquide della banca, secondo la lezione 13?
+**R:** «Il saldo esprime il **risultato netto positivo della partecipazione al sistema dei pagamenti** (attraverso l'utilizzo del contante e i servizi di incasso e di pagamento erogati e ricevuti), e riflette la **gestione della liquidità e della tesoreria** della banca nella misura in cui si esprime in aumenti / riduzioni del saldo quotidiano sui conti di gestione accentrati presso le banche centrali» (slide 2).
+**Opzione:** Il risultato netto positivo della partecipazione al sistema dei pagamenti; riflette la gestione della liquidità e della tesoreria, nella misura in cui muove il saldo quotidiano sui conti accentrati presso le banche centrali.
+**Distrattori:**
+- Il risultato netto positivo delle politiche del credito; riflette la gestione della liquidità e della tesoreria, nella misura in cui muove il saldo quotidiano sui conti accentrati presso le banche centrali.
+- Non sono convergenti, anzi per alcuni versi divergenti; spetta all'autorità di vigilanza, la Banca d'Italia, conciliarne l'applicazione contemporanea.
+- Che per contenere l'onere fiscale si dovessero imputare a C.E. civilistico anche componenti negativi privi di giustificazione economica o civilistica, con un forte inquinamento del risultato d'esercizio.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca stanno le riserve obbligatorie presso la Banca Centrale, secondo la lezione 13?
+**R:** Fra i **crediti verso banche** (40Aa): la voce «comprende i crediti verso le Banche Centrali che sono **diversi dai depositi liberi** presso di esse (ad es., le **riserve obbligatorie**)» (slide 4). I **depositi liberi** stanno invece nella **cassa e disponibilità liquide** (slide 2). ⚠️ A [00:04:02] il docente mette le riserve nella cassa, ma a [00:15:48] dice come la slide: fa testo la slide.
+**Opzione:** Fra i crediti verso banche, come crediti verso le Banche Centrali diversi dai depositi liberi; i depositi liberi stanno invece nella cassa e disponibilità liquide.
+**Distrattori:**
+- Nella cassa e disponibilità liquide, insieme ai depositi liberi; i crediti verso banche comprendono solo i rapporti con le altre banche.
+- Le riserve da valutazione alla voce 110; le azioni proprie alla voce 170, con il segno meno.
+- Il debito tra gli elementi del passivo, alla voce D11; il credito fra gli elementi dell'attivo circolante, alla voce C II.5-bis.
+
+**D:** Che effetto ha, secondo il docente della lezione 13, un aumento delle riserve obbligatorie deciso dalla banca centrale?
+**R:** Le banche devono aumentare le riserve presso la banca centrale e «avranno **meno danaro da prestare** ai propri clienti». È «una delle classiche modalità di controllo della quantità di moneta in circolazione», per esempio per il **controllo dell'inflazione** ([00:03:22]–[00:04:02]).
+**Opzione:** Le banche hanno meno denaro da prestare ai clienti: è una modalità classica di controllo della quantità di moneta, per esempio contro l'inflazione.
+**Distrattori:**
+- Le banche hanno più denaro da prestare ai clienti: è una modalità classica di controllo della quantità di moneta, per esempio contro l'inflazione.
+- Civilistici: determinare utile e patrimonio netto con criteri di prudenza; IAS/IFRS: fornire ai mercati finanziari informazioni sul valore reale dell'impresa.
+- Secondo il principio di competenza, come ogni altro componente negativo di reddito; per le discrepanze fra le norme, non è infrequente che le imposte di competenza e quelle dovute non coincidano.
+
+**D:** ⚠️ Che cosa sono i crediti verso clientela della banca, e che cosa riflettono, secondo la lezione 13?
+**R:** «**Finanziamenti accordati a clientela** sotto varie forme (aperture di credito in conto corrente, mutui, leasing finanziari, ecc.)». «Costituiscono il **portafoglio crediti** verso la clientela; riflettono le **politiche del credito** perseguite dalla banca» (slide 3). L'elenco delle forme è aperto.
+**Opzione:** Finanziamenti accordati a clientela sotto varie forme (aperture di credito in conto corrente, mutui, leasing finanziari, ecc.); costituiscono il portafoglio crediti e riflettono le politiche del credito.
+**Distrattori:**
+- Finanziamenti accordati a clientela sotto varie forme (aperture di credito in conto corrente, mutui, leasing finanziari, ecc.); costituiscono il portafoglio crediti e riflettono le politiche di raccolta.
+- Il loro ammontare deve essere determinato mediante ripartizione del provento o dell'onere, al fine di attribuire la quota parte di competenza dell'esercizio in chiusura.
+- Al valore nominale per l'OIC 25; per lo IAS 12, con una disposizione sostanzialmente analoga, in base all'importo che si prevede di versare o di recuperare.
+
+**D:** ⚠️ Che cosa sono i debiti verso clientela della banca, secondo la lezione 13?
+**R:** La «**raccolta da clientela**, tipicamente attraverso **depositi in conto corrente** e **depositi a risparmio**» (slide 3). Per il docente sono «massimamente rappresentati dai conti correnti aperti dai depositanti» ([00:12:42]–[00:13:17]).
+**Opzione:** La raccolta da clientela, tipicamente attraverso depositi in conto corrente e depositi a risparmio.
+**Distrattori:**
+- I finanziamenti accordati a clientela, tipicamente attraverso aperture di credito in conto corrente e mutui.
+- Le società quotate in borsa, le banche e le compagnie assicuratrici, oltre ad altri soggetti vigilati da autorità speciali.
+- In 10 parti, identificate da lettere maiuscole dalla A alla L.
+
+**D:** ⚠️ Che cosa costituisce la raccolta diretta da clientela della banca, secondo la lezione 13?
+**R:** I **debiti verso clientela** insieme ai **titoli in circolazione** sottoscritti da clientela: entrambe le voci «riflettono le **politiche di raccolta** perseguite dalla banca» (slide 3).
+**Opzione:** I debiti verso clientela, insieme ai titoli in circolazione sottoscritti da clientela; riflettono le politiche di raccolta.
+**Distrattori:**
+- I debiti verso clientela, insieme ai debiti verso banche; riflettono le politiche di raccolta.
+- Il I il 18 novembre 2009, il II il 21 gennaio 2014 e il III il 22 dicembre 2014.
+- Il consolidato dall'esercizio 2005; il bilancio di esercizio dall'esercizio 2006, con l'opzione di anticipare al 2005.
+
+**D:** ⚠️ Che cosa sono i titoli in circolazione della banca, e chi li sottoscrive, secondo la lezione 13?
+**R:** «**Titoli emessi dalla banca** (obbligazioni, buoni fruttiferi, certificati di deposito, titoli subordinati) **per raccogliere fondi**. Corrispondono ai titoli sottoscritti dalla **clientela** (e in parte da **altre banche**… e da **altri intermediari finanziari**)» (slide 3). Per il docente la banca vende l'obbligazione al risparmiatore e impiega il denaro per i prestiti alla clientela ([00:14:13]–[00:14:49]).
+**Opzione:** Titoli emessi dalla banca (obbligazioni, buoni fruttiferi, certificati di deposito, titoli subordinati) per raccogliere fondi; li sottoscrive la clientela, e in parte altre banche e altri intermediari finanziari.
+**Distrattori:**
+- Titoli emessi da altri soggetti e acquistati dalla banca (obbligazioni, buoni fruttiferi, certificati di deposito, titoli subordinati) per investire la liquidità raccolta presso la clientela.
+- Nei nazionali si possono capitalizzare fra i costi di impianto e ampliamento, con il consenso del collegio sindacale; negli IAS non si capitalizzano e vanno portati a riduzione delle somme acquisite con l'operazione.
+- A modalità di contabilizzazione, non ammissibili nel nostro ordinamento, che non fanno concorrere il componente reddituale alla formazione del risultato dell'esercizio corrente.
+
+**D:** A quale valore esprime i crediti verso la clientela la voce 40 dell'attivo della banca, secondo il docente della lezione 13?
+**R:** Al **valore di potenziale realizzazione**, «avendo già scontato le ipotesi di potenziale perdita per fallimenti, per non rientri, per difficoltà» ([00:06:43]–[00:07:17]).
+**Opzione:** Al valore di potenziale realizzazione, cioè già scontate le ipotesi di potenziale perdita per fallimenti, mancati rientri e difficoltà.
+**Distrattori:**
+- Al valore nominale dei finanziamenti accordati, senza scontare le ipotesi di potenziale perdita per fallimenti, mancati rientri e difficoltà.
+- Sulla base dell'aliquota d'imposta promulgata o sostanzialmente in vigore alla data di bilancio; il criterio è accolto anche dalla prassi contabile nazionale.
+- Solo l'estraneità alla gestione ordinaria dell'impresa, e non anche l'estraneità all'esercizio di riferimento o la derivazione da aspetti tecnico-contabili.
+
+**D:** ⚠️ In quali voci dello stato patrimoniale, secondo il docente della lezione 13, è rappresentata la funzione di intermediazione finanziaria della banca?
+**R:** «Nella voce 40, quindi **credito verso la clientela**, e nella voce **debiti verso clientela** e **titoli in circolazione**»: il passivo mostra da dove la banca prende il denaro che presta, cioè i conti correnti dei depositanti e i titoli emessi ([00:13:28]–[00:14:13]). I prestiti **interbancari** stanno invece nei crediti e debiti verso banche.
+**Opzione:** I crediti verso la clientela all'attivo; i debiti verso clientela e i titoli in circolazione al passivo.
+**Distrattori:**
+- I crediti verso banche all'attivo; i debiti verso banche e i titoli in circolazione al passivo.
+- Attività fiscali: a) correnti, b) anticipate; passività fiscali: a) correnti, b) differite.
+- a) impegni e garanzie; b) quiescenza e obblighi simili; c) altri fondi.
+
+**D:** ⚠️ Che cosa comprendono i crediti verso banche della banca, secondo la lezione 13?
+**R:** «Finanziamenti accordati e crediti verso banche rappresentati da **attività finanziarie non quotate** (depositi attivi in conto corrente, titoli di debito emessi da altre banche, ecc.). La voce **comprende i crediti verso le Banche Centrali che sono diversi dai depositi liberi** presso di esse (ad es., le **riserve obbligatorie**)» (slide 4). Riflettono le politiche di impiego sul mercato interbancario.
+**Opzione:** Finanziamenti e crediti verso banche rappresentati da attività finanziarie non quotate (depositi attivi in conto corrente, titoli di debito emessi da altre banche, ecc.), compresi i crediti verso le Banche Centrali diversi dai depositi liberi, come le riserve obbligatorie.
+**Distrattori:**
+- Finanziamenti e crediti verso banche rappresentati da attività finanziarie quotate (depositi attivi in conto corrente, titoli di debito emessi da altre banche, ecc.), compresi i crediti verso le Banche Centrali diversi dai depositi liberi, come le riserve obbligatorie.
+- Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, non viene riassorbito negli esercizi successivi.
+- Che le passività superano le attività: realizzando tutte le attività non si pagherebbero i debiti, una situazione di potenziale insolvenza che apre le porte al fallimento.
+
+**D:** ⚠️ Che cosa comprendono i debiti verso banche della banca, secondo la lezione 13?
+**R:** «Finanziamenti ricevuti da banche (depositi passivi in conto corrente, altri finanziamenti, ecc.) e altri debiti verso banche. La voce **comprende i debiti verso le Banche Centrali** (ad es., a fronte dei "**rifinanziamenti**" ricevuti nell'ambito di operazioni di politica monetaria poste in essere dalla Banca Centrale Europea)» (slide 4).
+**Opzione:** Finanziamenti ricevuti da banche (depositi passivi in conto corrente, altri finanziamenti, ecc.) e altri debiti verso banche, compresi i debiti verso le Banche Centrali, come i rifinanziamenti della BCE.
+**Distrattori:**
+- Finanziamenti ricevuti da banche (depositi passivi in conto corrente, altri finanziamenti, ecc.) e altri debiti verso banche, esclusi i debiti verso le Banche Centrali, che stanno fra le passività finanziarie.
+- Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono assorbite in quelli successivi, da una o più variazioni di segno opposto.
+- Nell'OCI, Other Comprehensive Income, che raccoglie le variazioni di natura economica che non trovano indicazione nel conto economico.
+
+**D:** ⚠️ Che cosa costituisce la raccolta da altre banche, e che cosa riflette, secondo la lezione 13?
+**R:** I **debiti verso banche**, «insieme a **parte dei "titoli in circolazione"**». Riflettono «le politiche di raccolta sul mercato interbancario dei depositi e nei rapporti di finanziamento con altre banche e con le **Autorità di politica monetaria**» (slide 4).
+**Opzione:** I debiti verso banche, insieme a parte dei titoli in circolazione; riflettono le politiche di raccolta sul mercato interbancario e nei rapporti con altre banche e con le Autorità di politica monetaria.
+**Distrattori:**
+- I debiti verso banche, insieme ai debiti verso clientela; riflettono le politiche di raccolta sul mercato interbancario e nei rapporti con altre banche e con le Autorità di politica monetaria.
+- In sede di Dichiarazione dei Redditi, nel prospetto di raccordo tra il risultato economico di competenza e il reddito imponibile.
+- Bisognava riesprimere il bilancio dell'una secondo i principi nazionali dell'altra: un confronto lunghissimo, costosissimo e difficilissimo.
+
+**D:** Chi presta a chi, prevalentemente, sul mercato interbancario, secondo il docente della lezione 13?
+**R:** «Prevalentemente sono le **banche di minori dimensioni** che prestano alle **banche di maggiori dimensioni** e non viceversa». In Italia le **BCC** hanno crediti verso banche più elevati; le grandi banche, come UniCredit e Intesa, si approvvigionano dalle altre e hanno più debiti verso banche ([00:16:52]–[00:17:31]).
+**Opzione:** Le banche minori prestano alle maggiori: le BCC hanno più crediti verso banche, le grandi banche come UniCredit e Intesa più debiti verso banche.
+**Distrattori:**
+- Le banche maggiori prestano alle minori: le grandi banche come UniCredit e Intesa hanno più crediti verso banche, le BCC più debiti verso banche.
+- Il rischio di credito: che la controparte a cui la banca ha prestato il denaro non restituisca, in tutto o in parte, gli interessi o il capitale.
+- Non possono mai essere contabilizzate fra le attività, ma devono essere portate direttamente a riduzione del valore del patrimonio netto.
+
+**D:** Qual è, per il docente della lezione 13, il più noto dei tassi dei prestiti interbancari, e a quali prestiti si riferisce?
+**R:** Il **tasso overnight**, «tasso notturno», «che supera la notte», perché riguarda prestiti fra banche «anche di **24 ore** o addirittura di meno di 24 ore» ([00:16:12]–[00:16:52]).
+**Opzione:** Il tasso overnight: prestiti fra banche anche di 24 ore o meno.
+**Distrattori:**
+- Il tasso overnight: prestiti fra banche e imprese a medio-lungo termine.
+- Il tasso effettivo: prestiti fra banche anche di 24 ore o meno.
+
+**D:** Che cosa segnala, per il docente della lezione 13, un rifinanziamento della banca centrale fra i debiti verso banche?
+**R:** «Già dovrebbe essere un grosso **campanello d'allarme**»: significherebbe che la banca è in difficoltà e che l'autorità di vigilanza è dovuta intervenire per darle liquidità ([00:17:40]–[00:18:33]). La slide 4 cita i rifinanziamenti come operazioni di politica monetaria della BCE, senza giudizio; la nota precisa il punto in un blocco ℹ️.
+**Opzione:** Un grosso campanello d'allarme: la banca è in difficoltà e l'autorità di vigilanza è dovuta intervenire per darle liquidità.
+**Distrattori:**
+- Un segnale di solidità: la banca ha accesso diretto alla liquidità della banca centrale e non dipende dal mercato interbancario.
+- No: la forma è libera, perché valgono per più paesi e uno schema obbligatorio sarebbe entrato in concorrenza con le regole interne dei singoli paesi.
+- La Circolare 262 del 22 dicembre 2005, Il bilancio bancario: schemi e regole di compilazione.
+
+**D:** ⚠️ Che cosa comprendono le attività finanziarie della banca, secondo la lezione 13?
+**R:** «Investimenti in **titoli di debito**, **titoli di capitale**, **derivati non di copertura con valore positivo**, altre attività finanziarie» (slide 5). Per il docente: obbligazioni anche statali come BOT, CCT e CTZ, azioni di imprese o di altre banche ([00:19:40]–[00:20:14]).
+**Opzione:** Investimenti in titoli di debito, titoli di capitale, derivati non di copertura con valore positivo, altre attività finanziarie.
+**Distrattori:**
+- Investimenti in titoli di debito, titoli di capitale, derivati di copertura con valore positivo, altre attività finanziarie.
+- Stato patrimoniale; conto economico; prospetto della redditività complessiva; prospetto delle variazioni del patrimonio netto; rendiconto finanziario.
+- Relazione sulla gestione, schemi di bilancio e nota integrativa; relazioni accessorie: del collegio sindacale e del revisore legale.
+
+**D:** ⚠️ Perché le attività finanziarie della banca sono suddivise in più voci, e che cosa riflettono, secondo la lezione 13?
+**R:** «La suddivisione in quattro voci dell'attivo riconduce a quattro diversi **comparti del portafoglio investimenti**, ciascun distinto per **finalità**, per **tipologie** di attività finanziarie che vi sono comprese, per **criteri di valutazione** adottati. Riflettono le **politiche di investimento sui mercati finanziari**» (slide 5). Le «quattro voci» sono quelle dello schema precedente: la nota lo spiega in un blocco ℹ️.
+**Opzione:** Ogni voce è un comparto del portafoglio investimenti, distinto per finalità, per tipologie di attività comprese e per criteri di valutazione; riflettono le politiche di investimento sui mercati finanziari.
+**Distrattori:**
+- Ogni voce è un comparto del portafoglio investimenti, distinto per finalità, per tipologie di attività comprese e per criteri di valutazione; riflettono le politiche del credito verso la clientela.
+- Nel trasferire la liquidità dai soggetti in surplus a quelli in deficit finanziario: la banca raccoglie il risparmio di famiglie ed enti e lo impiega presso le imprese, come cinghia di trasmissione fra risparmio e investimento.
+- Non fallisce, ma è sottoposta a liquidazione coatta amministrativa; il perimetro coinvolto è molto più vasto e, poiché le banche si prestano denaro fra loro, può innescare fallimenti a catena e il panico da sportello.
+
+**D:** ⚠️ Che cosa comprendono le passività finanziarie della banca, secondo la lezione 13?
+**R:** «Titoli di debito, finanziamenti, **derivati non di copertura con valore negativo** e altre passività finanziarie classificati tra le passività finanziarie **di negoziazione** e tra le passività finanziarie **valutate al fair value**» (slide 5). «Sono **fonti di raccolta** per la banca».
+**Opzione:** Titoli di debito, finanziamenti, derivati non di copertura con valore negativo e altre passività finanziarie, classificati fra le passività di negoziazione e fra quelle valutate al fair value.
+**Distrattori:**
+- Titoli di debito, finanziamenti, derivati di copertura con valore negativo e altre passività finanziarie, classificati fra le passività di negoziazione e fra quelle valutate al fair value.
+- Il costo del finanziamento calcolato tenendo presente il tasso effettivo, e non il tasso nominale.
+- L'attivo a liquidità decrescente, dalle poste più liquide alle meno liquide; il passivo a esigibilità crescente, con il patrimonio netto nelle ultime voci.
+
+**D:** ⚠️ In che cosa le passività finanziarie differiscono dalle voci del passivo che hanno la stessa forma tecnica, come i titoli in circolazione e i debiti, secondo la lezione 13?
+**R:** «Per i **criteri di valutazione** adottati (**al fair value**) e per la presenza di **derivati non di copertura** che presentano valori negativi al momento della valutazione. Sono **fonti di raccolta** per la banca» (slide 5).
+**Opzione:** Per i criteri di valutazione adottati, al fair value, e per la presenza di derivati non di copertura con valori negativi; sono fonti di raccolta per la banca.
+**Distrattori:**
+- Per la forma tecnica, diversa da quella dei titoli in circolazione e dei debiti; sono fonti di raccolta per la banca.
+- Nella banca dalla voce 110 in poi, fra le ultime voci; nel bilancio civilistico è la prima voce del passivo, la A.
+- Informazioni sui rischi e sulle relative politiche di copertura.
+
+**D:** Che cosa sono i derivati non di copertura, secondo il docente della lezione 13?
+**R:** «Quei prodotti derivati che **non sono finalizzati a coprirsi da uno specifico rischio**, ma su cui ci si investe esclusivamente per **motivi speculativi**» ([00:20:14]–[00:20:25]). Stanno fra le attività finanziarie se hanno valore positivo, fra le passività finanziarie se l'hanno negativo (slide 5).
+**Opzione:** Derivati non finalizzati a coprirsi da uno specifico rischio, in cui si investe esclusivamente per motivi speculativi.
+**Distrattori:**
+- Derivati stipulati per coprirsi da specifici rischi di tasso, di cambio o di paese, in relazioni di copertura efficace.
+- 110 Riserve da valutazione; 120 Azioni rimborsabili; 130 Strumenti di capitale; 140 Riserve; 150 Sovrapprezzi di emissione; 160 Capitale; 170 Azioni proprie (-); 180 Utile (Perdita) di esercizio (+/-).
+- Portate in diretta deduzione delle somme incassate con l'operazione di emissione.
+
+**D:** ⚠️ Dove stanno nello stato patrimoniale della banca i derivati di copertura, e perché sono negoziati, secondo la lezione 13?
+**R:** All'**attivo** (50A) quelli che «alla data di bilancio, presentano valori ("fair value") **positivi**», al **passivo** (40P) quelli con fair value **negativi**. Sono negoziati «per dare copertura dai rischi di variazione del fair value degli strumenti con i quali sono state individuate specifiche relazioni di "**copertura efficace**"» (slide 6). Per il docente è «semplicemente un problema di segno opposto» ([00:23:30]).
+**Opzione:** All'attivo quelli con fair value positivo alla data di bilancio, al passivo quelli con fair value negativo; coprono i rischi di variazione del fair value degli strumenti in relazioni di copertura efficace.
+**Distrattori:**
+- All'attivo quelli con fair value negativo alla data di bilancio, al passivo quelli con fair value positivo; coprono i rischi di variazione del fair value degli strumenti in relazioni di copertura efficace.
+- a) detenute per la negoziazione; b) designate al fair value; c) obbligatoriamente valutate al fair value.
+- a) debiti verso banche; b) debiti verso la clientela; c) titoli in circolazione.
+
+**D:** ⚠️ Che cosa rileva la voce Adeguamento di valore delle attività (o passività) finanziarie oggetto di copertura generica, secondo la lezione 13?
+**R:** Il «saldo, positivo o negativo, delle variazioni di valore delle attività oggetto di **copertura generica (macrohedging)** dal **rischio di tasso d'interesse**». È «la **somma algebrica cumulata nel tempo** delle variazioni di valore positive o negative rilevate alla fine dei singoli esercizi» (slide 7; lo stesso per le passività). Per il docente la copertura generica serve «esclusivamente» per il rischio di tasso ([00:25:32]–[00:26:06]).
+**Opzione:** Il saldo, positivo o negativo, delle variazioni di valore delle attività o passività coperte con macrohedging dal rischio di tasso d'interesse: la somma algebrica cumulata nel tempo.
+**Distrattori:**
+- Il saldo, positivo o negativo, delle variazioni di valore delle attività o passività coperte con macrohedging dal rischio di cambio: la somma algebrica cumulata nel tempo.
+- a) crediti verso banche; b) crediti verso la clientela.
+- Il D.Lgs. n. 38/2005.
+
+**D:** 🚨 Quali riserve comprendono le riserve da valutazione della voce 110 del passivo della banca, secondo la slide 8 della lezione 13?
+**R:** «Comprendono, fra le altre, le riserve da valutazione delle attività finanziarie **disponibili per la vendita**» (slide 8). Il docente: «derivano dalla valutazione al fair value delle attività finanziarie disponibili per la vendita» ([00:26:44]). 🚨 Il test della lezione 13 (domanda 4) segna invece le attività finanziarie «per la negoziazione», le cui variazioni vanno a conto economico (lezione 09). Le partecipazioni sono il lapsus del docente a [00:27:34], subito corretto.
+**Opzione:** Comprendono, fra le altre, le riserve da valutazione delle attività finanziarie disponibili per la vendita.
+**Distrattori:**
+- Comprendono, fra le altre, le riserve da valutazione delle attività finanziarie detenute per la negoziazione.
+- Comprendono, fra le altre, le riserve da valutazione delle partecipazioni in società controllate.
+- Riserva negativa per azioni proprie in portafoglio.
+
+**D:** ⚠️ Come si formano le riserve da valutazione delle attività finanziarie disponibili per la vendita, secondo la lezione 13?
+**R:** Sono «la **somma algebrica** delle loro variazioni di valore positive o negative alle fine dei singoli esercizi. Variazioni che **non incidono sul conto economico**, ma – **al netto della relativa fiscalità** – sono "**cristallizzate**" in una specifica riserva di patrimonio netto **fino al momento in cui l'attività finanziaria non è ceduta**» (slide 8). Per il docente la riserva, alla voce 110, «oscilla continuamente» ([00:27:34]).
+**Opzione:** Sono la somma algebrica delle variazioni di valore a fine esercizio: non incidono sul conto economico, ma al netto della fiscalità restano cristallizzate in una riserva di patrimonio netto fino alla cessione dell'attività.
+**Distrattori:**
+- Sono la somma algebrica delle variazioni di valore a fine esercizio: non incidono sul conto economico, ma al netto della fiscalità restano cristallizzate in una riserva di patrimonio netto anche dopo la cessione dell'attività.
+- Applicazione del fair value; applicazione del costo ammortizzato; nuova classificazione delle attività finanziarie.
+- La Circolare n. 262 del 2005.
+
+**D:** ⚠️ Che cosa costituiscono le partecipazioni della banca, secondo la lezione 13?
+**R:** «L'insieme delle società attraverso cui il "**gruppo**" esercita la propria attività (banche-rete, banche specializzate, ecc.), l'insieme delle **società strumentali** (per il recupero dei crediti non performing, per la gestione dei sistemi informativi, ecc.), l'insieme degli investimenti in **altre partecipazioni significative**» (slide 9). Per il docente anche leasing, factoring e noleggio a lungo termine ([00:28:39]–[00:29:17]).
+**Opzione:** Le società attraverso cui il gruppo esercita la propria attività (banche-rete, banche specializzate, ecc.), le società strumentali (recupero dei crediti non performing, gestione dei sistemi informativi, ecc.) e gli investimenti in altre partecipazioni significative.
+**Distrattori:**
+- Le società attraverso cui il gruppo esercita la propria attività (banche-rete, banche specializzate, ecc.), le società strumentali (recupero dei crediti non performing, gestione dei sistemi informativi, ecc.) e i titoli di capitale detenuti per la negoziazione.
+- 20 Attività finanziarie valutate al fair value con impatto a conto economico; 30 al fair value con impatto sulla redditività complessiva; 40 al costo ammortizzato.
+- Percorsi di lettura: i crediti alla clientela.
+
+**D:** Con quale intento la banca detiene le partecipazioni, secondo il docente della lezione 13?
+**R:** Con un intento «prevalentemente di natura **strategica partecipativa**», per un tempo molto lungo, perché le società fanno parte del gruppo o sono strumentali all'attività della banca. **Non** come attività finanziarie da cui ottenere un guadagno vendendole con una **plusvalenza** ([00:28:15]–[00:30:17]).
+**Opzione:** Per detenerle in portafoglio a lungo, con intento strategico partecipativo, perché fanno parte del gruppo o sono strumentali all'attività della banca.
+**Distrattori:**
+- Per rivenderle a breve realizzando una plusvalenza, come le attività finanziarie di negoziazione.
+- Al valore nominale.
+- Dal Parlamento europeo e dal Consiglio, il 19 luglio 2002.
+
+**D:** ⚠️ Da che cosa sono finanziati i crediti verso la clientela, secondo il test della lezione 13 (domanda 1)?
+**R:** Dai «**debiti verso la clientela e i titoli in circolazione**»: per la slide 3 insieme sono la **raccolta diretta** da clientela, e per il docente le tre voci rappresentano la funzione di intermediazione finanziaria ([00:13:28]). ⚠️ Due distrattori del test sono **metà** della chiave, i soli titoli in circolazione o i soli debiti verso la clientela. Il terzo è il patrimonio netto.
+**Opzione:** I debiti verso la clientela e i titoli in circolazione.
+**Distrattori:**
+- I titoli in circolazione.
+- I debiti verso la clientela.
+- Il patrimonio netto.
+
+**D:** ⚠️ Da che cosa sono finanziati i crediti verso le banche, secondo il test della lezione 13 (domanda 2)?
+**R:** Dai «**debiti verso banche**»: la slide 4 affianca i crediti verso banche (40Aa) ai debiti verso banche (10Pa), e per il docente le due voci riassumono i **prestiti interbancari** ([00:14:49]). ⚠️ Un distrattore del test aggiunge i debiti verso la clientela; gli altri sono il patrimonio netto e i soli debiti verso la clientela. È la stessa batteria delle domande 1 e 3.
+**Opzione:** I debiti verso banche.
+**Distrattori:**
+- I debiti verso banche e i debiti verso la clientela.
+- Il patrimonio netto.
+- I debiti verso la clientela.
+
+**D:** ⚠️ Da che cosa sono «finanziati» i derivati di copertura, secondo il test della lezione 13 (domanda 3)?
+**R:** Dai «**derivati di copertura**»: la slide 6 affianca i derivati di copertura dell'attivo (50A, fair value positivo) a quelli del passivo (40P, fair value negativo). Per il docente «hanno lo stesso significato… è semplicemente un problema di segno opposto» ([00:23:30]). ⚠️ «Finanziati» è usato in senso largo; i distrattori ripetono la batteria delle domande 1 e 2.
+**Opzione:** I derivati di copertura.
+**Distrattori:**
+- I debiti verso banche e i debiti verso la clientela.
+- I debiti verso la clientela.
+- I debiti verso banche.
+
+**D:** 🚨 A che cosa è relativa la riserva da valutazione secondo il test della lezione 13 (domanda 4), e che cosa non va nella chiave?
+**R:** La piattaforma segna «**a variazione del valore delle attività finanziarie per la negoziazione**» (A). È la risposta da dare all'esame, ma è sbagliata: la slide 8 e il docente dicono «attività finanziarie **disponibili per la vendita**», e le variazioni delle attività di negoziazione vanno a **conto economico** (lezione 09, slide 3). Nessuna opzione riporta la slide. Gli altri distrattori: le immobilizzazioni, vere fuori dal corso per le rivalutazioni IAS 16; le partecipazioni, il lapsus del docente a [00:27:34]; le variazioni del patrimonio netto, una tautologia.
+
+**D:** ⚠️ A che cosa sono relative le partecipazioni della banca, secondo il test della lezione 13 (domanda 5)?
+**R:** A «**partecipazioni in società controllate o sottoposte a influenza notevole non incluse in attività finanziarie**»: la slide 9 quasi alla lettera. ⚠️ Il distrattore «immobilizzazioni finanziarie» è la classificazione **nazionale** delle partecipazioni (lezioni 08 e 09), che nello schema della banca non esiste. «Titoli di Stato» e «titoli di Stati esteri» sono titoli di debito, cioè attività finanziarie.
+**Opzione:** Partecipazioni in società controllate o sottoposte a influenza notevole non incluse in attività finanziarie.
+**Distrattori:**
+- Immobilizzazioni finanziarie.
+- Titoli di Stato.
+- Titoli di Stati esteri.
