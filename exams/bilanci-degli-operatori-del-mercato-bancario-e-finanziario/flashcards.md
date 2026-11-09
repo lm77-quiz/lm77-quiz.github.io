@@ -1784,3 +1784,265 @@
 - L'attività immateriale sia univocamente identificata e vi sia la fattura di acquisto.
 - L'attività immateriale sia univocamente identificata e vi sia il documento di trasporto.
 - L'attività immateriale sia univocamente identificata e vi siano i documenti di identificazione del bene stesso.
+
+## Lezione 08 — Le immobilizzazioni immateriali e finanziarie
+
+**D:** ⚠️ In che cosa consiste la fase di ricerca, e dove vanno i suoi costi per i principi internazionali, secondo la lezione 08?
+**R:** «La fase di ricerca attiene all'attività volta ad **accrescere e migliorare conoscenze tecniche e scientifiche**. **Tutti i costi** sostenuti in tale fase devono essere **imputati a C.E.**» (slide 2). Per il docente è la ricerca «di base», sulle conoscenze tecnico-scientifiche «genericamente intese» e non riferite al prodotto specifico che si sta realizzando ([00:01:49]–[00:02:25]).
+**Opzione:** Attiene all'attività volta ad accrescere e migliorare conoscenze tecniche e scientifiche; tutti i costi sostenuti in tale fase devono essere imputati a conto economico.
+**Distrattori:**
+- Attiene all'attività volta ad accrescere e migliorare conoscenze tecniche e scientifiche; i costi sostenuti in tale fase si capitalizzano se ne è verificata la fattibilità tecnica ed economica.
+- Spese di manutenzione e riparazione straordinaria; senza l'aumento significativo e misurabile la spesa è manutenzione ordinaria e va nel conto economico.
+- I costi di trasporto, di installazione e di collaudo.
+
+**D:** Perché, secondo il docente della lezione 08, i costi della ricerca di base non possono essere capitalizzati?
+**R:** Perché non si possono sintetizzare in un valore che produrrà flussi futuri per l'impresa: non sono i costi che producono il bene da cui verranno i ricavi. L'esempio è la **formula della Coca-Cola**: la formula è l'immobilizzazione, ma le ricerche di base sulle interazioni fra i componenti chimici, fatte prima, sarebbero andate a conto economico, perché collegate solo vagamente alla realizzazione del prodotto ([00:02:25]–[00:04:13]).
+
+**D:** ⚠️ In che cosa consiste la fase di sviluppo, e il suo raggiungimento basta per capitalizzare i costi, secondo la lezione 08?
+**R:** «La fase di sviluppo consiste nell'**implementazione del nuovo prodotto**: il raggiungimento di tale fase **per sé non consente la capitalizzazione** dei costi» (slide 2): occorre verificare tre condizioni. Per il docente è il passaggio dal miglioramento delle conoscenze tecniche alla realizzazione di un prodotto nuovo, come la nuova formula, la nuova crema o il nuovo profumo, che darà i flussi di cassa futuri ([00:04:13]–[00:05:23]).
+**Opzione:** Consiste nell'implementazione del nuovo prodotto; il raggiungimento di tale fase per sé non consente la capitalizzazione dei costi.
+**Distrattori:**
+- Consiste nell'implementazione del nuovo prodotto; il raggiungimento di tale fase consente per sé la capitalizzazione dei costi.
+- Che il sistema di calcolo delle quote è definito prima dell'inizio dell'ammortamento e mantenuto per tutta la vita utile; le quote possono essere costanti, crescenti o decrescenti.
+- Originare flussi finanziari indipendenti dalle altre attività possedute dall'impresa.
+
+**D:** ⚠️ Quali condizioni occorre verificare per capitalizzare i costi della fase di sviluppo, secondo la lezione 08?
+**R:** «Occorre verificare: 1) la **fattibilità tecnica ed economica**; 2) la **disponibilità di risorse**; 3) la **capacità dell'impresa di valutare il costo attribuibile all'attività**» (slide 2). Per il docente sono «condizioni oggettive», tipiche delle società farmaceutiche quando sviluppano un nuovo medicinale o un vaccino ([00:05:15]–[00:08:21]).
+**Opzione:** La fattibilità tecnica ed economica, la disponibilità di risorse e la capacità dell'impresa di valutare il costo attribuibile all'attività.
+**Distrattori:**
+- La fattibilità tecnica ed economica, la disponibilità di risorse e il parere favorevole del collegio sindacale, se presente.
+- Che abbiano un'utilità futura, siano distintamente identificabili e siano attendibilmente qualificabili.
+- Immobile: il rogito notarile; bene mobile registrato: il perfezionamento del passaggio di proprietà; bene mobile non registrato: dipende dagli accordi contrattuali.
+
+**D:** Quali risorse deve avere a disposizione l'impresa per capitalizzare i costi di sviluppo, secondo il docente della lezione 08?
+**R:** Le risorse «**finanziarie, umane e materiali**»: non solo i mezzi finanziari, ma anche persone con le **competenze** necessarie, e perfino **risorse temporali**, perché l'impresa potrebbe essere anticipata dai concorrenti ([00:05:41]–[00:06:23]). La slide 2 dice solo «la disponibilità di risorse».
+**Opzione:** Finanziarie, umane e materiali, e anche temporali, perché i concorrenti potrebbero arrivare prima.
+**Distrattori:**
+- Solo finanziarie: le competenze del personale e i tempi non contano.
+- Solo umane: le persone con le competenze necessarie a realizzare il prodotto.
+- Solo materiali e finanziarie, senza vincoli di tempo.
+
+**D:** ⚠️ A quale disciplina occorre rifarsi per le spese incrementative delle immobilizzazioni immateriali nei principi nazionali, secondo la lezione 08?
+**R:** «Occorre rifarsi **per analogia** a quanto previsto dal **documento n.16** per le I.M.» (slide 3), cioè all'OIC 16. Per il docente le regole sono «esattamente identiche», «una pedissequa ripetizione»: la spesa deve aumentare in modo dimostrabile la capacità, la produttività o la durata utile del bene ([00:08:34]–[00:09:15]).
+**Opzione:** Per analogia, a quanto previsto dal documento n. 16 per le immobilizzazioni materiali.
+**Distrattori:**
+- Per analogia, a quanto previsto dallo IAS 38 per le attività immateriali.
+- Il costo storico è il limite massimo di iscrizione, e si può rivalutare solo nei casi in cui specifiche disposizioni legislative lo prevedano.
+
+**D:** ⚠️ A quali condizioni lo IAS 38 consente di capitalizzare una spesa sostenuta per un'attività immateriale, secondo la lezione 08?
+**R:** «Lo IAS 38 prevede che una spesa sostenuta per una A.I. può essere capitalizzata a condizione che: a) Sia **probabile** che la stessa consenta all'attività di generare futuri benefici economici **superiori a quelli attesi**; b) Sia **quantificabile attendibilmente** e **attribuibile** all'I.I.» (slide 3). Per il docente i benefici devono superare quelli «inizialmente» attesi, e servono documenti oggettivi sulle potenzialità economiche del bene prima e dopo la spesa ([00:09:15]–[00:11:34]). ⚠️ Lo IAS 16 della lezione 06 parlava di benefici superiori a quelli «programmati».
+**Opzione:** Che sia probabile che consenta all'attività di generare futuri benefici economici superiori a quelli attesi, e che sia quantificabile attendibilmente e attribuibile all'immobilizzazione immateriale.
+**Distrattori:**
+- Che sia probabile che consenta all'attività di generare futuri benefici economici superiori a quelli attesi, anche se non è attribuibile a una specifica immobilizzazione immateriale.
+- La ammettono in via generalizzata, per gli interessi passivi sostenuti per finanziare l'acquisizione delle immobilizzazioni.
+- Quando il costo è superiore al valore dell'immobilizzazione alla data di chiusura dell'esercizio e la perdita di valore è durevole, ossia non transitoria.
+
+**D:** Perché, secondo il docente della lezione 08, i principi internazionali sono più attenti al dato aziendalistico e i principi nazionali al dato giuridico?
+**R:** I principi nazionali si rifanno spesso a elementi giuridici del **Codice civile**. Gli IAS, «proprio perché internazionali», sono svincolati dai codici dei singoli paesi: devono rifarsi a concetti di **gestione aziendale**, e quindi ai **benefici economici futuri** ritraibili dall'attività. Ancorarsi alla legislazione di un paese contrasterebbe con il loro spirito internazionale ([00:11:47]–[00:13:23]).
+
+**D:** ⚠️ Quale disciplina vale per le rivalutazioni e le svalutazioni delle immobilizzazioni immateriali, nei principi nazionali e in quelli internazionali, secondo la lezione 08?
+**R:** «Vale la **stessa disciplina prevista per le I.M.**», sia per le rivalutazioni sia per le svalutazioni, sia nei principi nazionali sia in quelli internazionali (slide 4). Per il docente nei principi nazionali il limite è il costo, salvo una legge di rivalutazione; negli IAS si può passare al fair value per l'intera categoria; le svalutazioni sono obbligatorie per perdite durevoli, con ripristino quando ne viene meno il motivo ([00:13:23]–[00:15:19]).
+**Opzione:** La stessa disciplina prevista per le immobilizzazioni materiali, sia nei principi nazionali sia in quelli internazionali.
+**Distrattori:**
+- La stessa disciplina prevista per le immobilizzazioni materiali, ma solo nei principi nazionali: gli IAS non ne ammettono la rivalutazione.
+- Il venditore, l'acquirente e la società di leasing.
+- Tutte le informazioni necessarie per poter riesporre l'operazione con il metodo finanziario.
+
+**D:** Come si può rivalutare un'immobilizzazione immateriale nei principi internazionali, secondo il docente della lezione 08?
+**R:** Il costo di acquisto o di produzione si può superare con il **fair value**, cioè il valore corrente, ma per l'**intera categoria** di riferimento: per esempio per **tutte** le spese di sviluppo, se il fair value è più rappresentativo della situazione aziendale. Nei principi nazionali, invece, il costo si supera solo con una **legge di rivalutazione** specifica ([00:13:23]–[00:14:45]).
+**Opzione:** Con il fair value, ma per l'intera categoria di riferimento, per esempio per tutte le spese di sviluppo.
+**Distrattori:**
+- Con il fair value, anche per una singola spesa di sviluppo scelta dal redattore del bilancio.
+- Sono consentite solo se vi è una specifica norma di legge.
+- Mai: per le attività immateriali gli IAS ammettono solo il costo.
+
+**D:** ⚠️ Che cosa sono i costi di impianto e i costi di ampliamento, secondo il docente della lezione 08?
+**R:** Costi legati a operazioni sul **capitale** o sulla **forma giuridica** dell'impresa. I classici costi di **impianto** sono i **costi notarili di costituzione**; i costi di **ampliamento** sono, per esempio, quelli di **fusione**, **scissione** o **trasformazione**, come il passaggio da società di persone a società di capitali, o la liquidazione ([00:15:19]–[00:16:23]). ⚠️ «Solo all'atto della costituzione dell'impresa» è un distrattore delle domande 2, 3 e 4 del test.
+**Opzione:** Costi di operazioni sul capitale o sulla forma giuridica dell'impresa: di impianto, come i costi notarili di costituzione; di ampliamento, come quelli di fusione, scissione o trasformazione.
+**Distrattori:**
+- Costi di operazioni sul capitale o sulla forma giuridica dell'impresa: di impianto, come quelli di fusione, scissione o trasformazione; di ampliamento, come i costi notarili di costituzione.
+- Le spese stimate per lo smantellamento, per la rimozione dell'attività e la bonifica del luogo, nella misura in cui sono state rilevate come accantonamenti.
+- Dal materiale, dalle ore e dal personale impiegati, dall'energia e dagli altri elementi impiegati per produrre il bene.
+
+**D:** ⚠️ Come trattano i costi di impianto e ampliamento i principi nazionali e lo IAS 38, secondo la lezione 08?
+**R:** Nei principi nazionali «la loro iscrizione tra le attività è **facoltativa** e necessita del **parere favorevole del collegio sindacale, se presente**»; «per lo IAS 38 tale categoria di oneri **non è suscettibile di capitalizzazione**» (slide 5). Per il docente l'iscrizione la decide il consiglio di amministrazione, il parere va espresso **per iscritto**, e senza collegio la scelta ricade sugli amministratori. Per gli IAS questi costi non si possono «mai» capitalizzare: è «una prima evidente divaricazione» fra i due modelli ([00:16:23]–[00:19:11]).
+**Opzione:** Nei nazionali l'iscrizione è facoltativa e necessita del parere favorevole del collegio sindacale, se presente; per lo IAS 38 non sono suscettibili di capitalizzazione.
+**Distrattori:**
+- Nei nazionali l'iscrizione è obbligatoria e necessita del parere favorevole del collegio sindacale, se presente; per lo IAS 38 non sono suscettibili di capitalizzazione.
+- I nazionali non li trattano in maniera differenziata dalle altre immobilizzazioni; gli internazionali ne trattano in un documento dedicato.
+- Metodo finanziario: l'ammortamento del costo e gli oneri finanziari; principi nazionali: il costo della rata di leasing.
+
+**D:** ⚠️ Una banca e un'impresa commerciale che applica i principi nazionali possono capitalizzare i costi di impianto e ampliamento, secondo il docente della lezione 08?
+**R:** La **banca**, che adotta i principi internazionali, **non potrà mai** capitalizzarli: restano nel conto economico dell'esercizio, e un parere favorevole del collegio sindacale sarebbe «inutile». L'impresa **commerciale** o di servizi che applica i **principi nazionali** può valutare se capitalizzarli, chiedendo prima il **parere favorevole** del collegio sindacale, se presente; senza collegio la scelta ricade sugli **amministratori** ([00:17:52]–[00:19:11]).
+**Opzione:** La banca, che adotta gli IAS, non può mai capitalizzarli; l'impresa commerciale può farlo con il parere favorevole del collegio sindacale, se presente.
+**Distrattori:**
+- L'impresa commerciale non può mai capitalizzarli; la banca, che adotta gli IAS, può farlo con il parere favorevole del collegio sindacale, se presente.
+- Degli amministratori: anche se la redazione è delegata a figure apicali o dirigenziali, la responsabilità ultima resta sempre loro.
+- Entrambe possono capitalizzarli, purché acquisiti a titolo oneroso.
+
+**D:** ⚠️ Che cosa è cambiato per le spese di pubblicità nei principi nazionali, e da quando, secondo la lezione 08?
+**R:** «A seguito del recepimento della Direttiva n.2013/344/Ue le spese di pubblicità **non rientrano più tra le immobilizzazioni immateriali**, pertanto tale categoria di oneri **dal 1° gennaio 2016 non è più suscettibile di capitalizzazione**» (slide 6). Per il docente erano capitalizzabili **fino al 2015** ([00:19:17]). La direttiva della lezione 04 è la **2013/34/UE**: «2013/344» è un refuso della slide.
+**Opzione:** Non rientrano più fra le immobilizzazioni immateriali e, dal 1° gennaio 2016, non sono più suscettibili di capitalizzazione.
+**Distrattori:**
+- Dal 1° gennaio 2016 sono capitalizzabili solo con il parere favorevole del collegio sindacale, se presente.
+- Possono essere portate a incremento del valore del cespite solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile.
+- Alla riserva di rivalutazione.
+
+**D:** ⚠️ Le spese di pubblicità sono mai state capitalizzabili nei principi nazionali e nello IAS 38, secondo il docente della lezione 08?
+**R:** Nei principi **nazionali** sì, **fino al 2015**; dal bilancio dell'esercizio che inizia il **1° gennaio 2016** non lo sono più. Per i principi **internazionali** «non sono **mai state** capitalizzabili» ([00:19:11]–[00:20:00]); la slide 6 dice che per lo IAS 38 questa categoria di oneri «non è suscettibile di capitalizzazione».
+**Opzione:** Nei nazionali sì, fino al 2015, e non più dal 1° gennaio 2016; per lo IAS 38 non lo sono mai state.
+**Distrattori:**
+- Per lo IAS 38 sì, fino al 2015, e non più dal 1° gennaio 2016; nei nazionali non lo sono mai state.
+- In entrambi i modelli sì, fino al 2015, e non più dal 1° gennaio 2016.
+- Nei nazionali sì, e lo sono ancora con il parere favorevole del collegio sindacale; per lo IAS 38 non lo sono mai state.
+
+**D:** ⚠️ A quali condizioni può essere iscritto l'avviamento nei principi nazionali, secondo la lezione 08?
+**R:** «Può essere iscritto, **con il consenso del collegio sindacale**, **solo se acquisito a titolo oneroso** e **nei limiti del costo sostenuto**» (slide 7). Per il docente sono le «**tre cautele**»: a titolo oneroso vuol dire che l'avviamento è stato **pagato** all'impresa da cui lo si è acquistato, e nei limiti del costo sostenuto specificamente per quella voce ([00:20:00]–[00:20:55]). ⚠️ La chiave della domanda 4 del test omette «nei limiti del costo sostenuto».
+**Opzione:** Con il consenso del collegio sindacale, solo se acquisito a titolo oneroso e nei limiti del costo sostenuto.
+**Distrattori:**
+- Con il consenso del collegio sindacale, anche se generato internamente, nei limiti del costo sostenuto.
+- Al fair value del bene locato.
+- Solo quando il relativo saldo viene realizzato.
+
+**D:** ⚠️ A quale principio rinvia lo IAS 38 per la contabilizzazione, la valutazione e l'ammortamento dell'avviamento, secondo la lezione 08?
+**R:** «Per le modalità di contabilizzazione, valutazione ed ammortamento dell'avviamento, lo IAS 38 **rinvia allo IAS 22**, avente ad oggetto il trattamento contabile dell'**aggregazione tra imprese**» (slide 7). Per il docente l'avviamento è iscrivibile solo se c'è la **prova** della sua utilità nel generare benefici economici futuri, attendibilmente stimabili anche negli esercizi successivi ([00:20:55]–[00:21:48]).
+**Opzione:** Allo IAS 22, avente ad oggetto il trattamento contabile dell'aggregazione tra imprese.
+**Distrattori:**
+- Allo IAS 27, avente ad oggetto le partecipazioni in imprese controllate.
+- Allo IAS 16, avente ad oggetto le immobilizzazioni materiali.
+- Allo IAS 31, avente ad oggetto le partecipazioni in imprese a controllo congiunto.
+
+**D:** ⚠️ Che cosa sono la voce A e le tre sottovoci della voce B dello stato patrimoniale attivo, secondo il docente della lezione 08?
+**R:** La voce **A** sono i **crediti verso soci per versamenti ancora dovuti**; la voce **B** sono le **immobilizzazioni**, divise in **I immateriali**, **II materiali** e **III finanziarie** ([00:22:02]–[00:22:44]).
+**Opzione:** A: crediti verso soci per versamenti ancora dovuti; B: immobilizzazioni, divise in I immateriali, II materiali e III finanziarie.
+**Distrattori:**
+- A: crediti verso soci per versamenti ancora dovuti; B: immobilizzazioni, divise in I materiali, II immateriali e III finanziarie.
+- A: immobilizzazioni, divise in I immateriali, II materiali e III finanziarie; B: crediti verso soci per versamenti ancora dovuti.
+- A: crediti verso soci per versamenti ancora dovuti; B: immobilizzazioni, divise in I immateriali, II finanziarie e III materiali.
+
+**D:** ⚠️ In quali imprese si articolano, nell'ordine, le partecipazioni iscritte fra le immobilizzazioni finanziarie, secondo la lezione 08?
+**R:** «1) Partecipazioni in: a) Imprese **controllate**; b) Imprese **collegate**; c) Imprese **controllanti**; d) Imprese **sottoposte al controllo delle controllanti**; d bis) **Altre imprese**» (slide 8). Per il docente l'articolazione è «in funzione del soggetto nei confronti del quale viene detenuta la partecipazione»; nel suo elenco salta le controllanti ([00:22:54]–[00:23:25]).
+**Opzione:** Controllate; collegate; controllanti; sottoposte al controllo delle controllanti; altre imprese.
+**Distrattori:**
+- Controllate; collegate; a controllo congiunto; sottoposte al controllo delle controllanti; altre imprese.
+- Controllate; collegate; controllanti; sottoposte al controllo delle collegate; altre imprese.
+- Controllate; collegate; controllanti; sottoposte al controllo delle controllanti; enti pubblici.
+
+**D:** ⚠️ Quali sono, nell'ordine, le quattro voci delle immobilizzazioni finanziarie (B III), secondo la lezione 08?
+**R:** «1) **Partecipazioni**; 2) **Crediti**; 3) **Altri titoli**; 4) **Strumenti finanziari derivati attivi**» (slide 8–9). Per il docente le immobilizzazioni finanziarie si dividono «sostanzialmente» in **titoli** e **partecipazioni** ([00:21:53], [00:23:25]). ⚠️ Fra le attività finanziarie del circolante (C III) l'elenco si chiude invece con gli altri titoli, e i crediti non ci sono.
+**Opzione:** Partecipazioni; crediti; altri titoli; strumenti finanziari derivati attivi.
+**Distrattori:**
+- Partecipazioni; crediti; altri titoli; strumenti finanziari derivati passivi.
+- Partecipazioni; crediti verso soci per versamenti ancora dovuti; altri titoli; strumenti finanziari derivati attivi.
+
+**D:** ⚠️ Dove si collocano le attività finanziarie che non costituiscono immobilizzazioni, e con quale voce si chiude il loro elenco, secondo la lezione 08?
+**R:** Alla voce «**C) Attivo circolante — III – Attività finanziarie che non costituiscono immobilizzazioni**». L'elenco: 1) partecipazioni in imprese controllate; 2) collegate; 3) controllanti; 3 bis) sottoposte al controllo delle controllanti; 4) altre partecipazioni; 5) strumenti finanziari derivati attivi; 6) **altri titoli** (slide 9). ⚠️ Le immobilizzazioni finanziarie (B III) si chiudono invece con gli strumenti finanziari derivati attivi.
+**Opzione:** Alla voce C) Attivo circolante, III; l'elenco si chiude con gli altri titoli.
+**Distrattori:**
+- Alla voce B) Immobilizzazioni, III; l'elenco si chiude con gli altri titoli.
+- Alla voce C) Attivo circolante, III; l'elenco si chiude con gli strumenti finanziari derivati attivi.
+- Alla voce C) Attivo circolante, III; l'elenco si chiude con i crediti.
+
+**D:** ⚠️ Che cosa distingue le partecipazioni iscritte fra le immobilizzazioni finanziarie da quelle iscritte nell'attivo circolante, secondo il docente della lezione 08?
+**R:** La **volontà dell'impresa**. Vanno fra le **immobilizzazioni finanziarie** se sono detenute **per più esercizi**, con una **finalità strategica**: per esempio le società di una **holding bancaria** o **finanziaria**. Vanno nell'**attivo circolante** se sono comprate per essere **rivendute a breve termine**, sfruttando l'andamento del mercato: per esempio le azioni di una società quotata al **Nasdaq**, comprate prevedendo un rialzo ([00:24:07]–[00:26:35]).
+**Opzione:** La volontà dell'impresa: detenerle per più esercizi con finalità strategica, fra le immobilizzazioni; rivenderle a breve sfruttando l'andamento del mercato, nel circolante.
+**Distrattori:**
+- La volontà dell'impresa: rivenderle a breve sfruttando l'andamento del mercato, fra le immobilizzazioni; detenerle per più esercizi con finalità strategica, nel circolante.
+- Alla spedizione se i rischi del trasporto sono a carico dell'acquirente, alla consegna se sono a carico del venditore.
+- La differenza fra valore netto contabile e valore di realizzo concorre al risultato come plus o minusvalenza: minusvalenza se il valore netto contabile è maggiore.
+
+**D:** ⚠️ Come definisce l'OIC 20 le partecipazioni e gli altri titoli, secondo la lezione 08?
+**R:** «Per **partecipazioni** si intendono **investimenti nel capitale di altre imprese**; per "**altri titoli**" si intendono **titoli del debito pubblico e obbligazioni emesse da enti pubblici**» (slide 10). ⚠️ «Altri» non vuol dire residuale: è la trappola della domanda 5 del test.
+**Opzione:** Partecipazioni: investimenti nel capitale di altre imprese; altri titoli: titoli del debito pubblico e obbligazioni emesse da enti pubblici.
+**Distrattori:**
+- Partecipazioni: titoli del debito pubblico e obbligazioni emesse da enti pubblici; altri titoli: investimenti nel capitale di altre imprese.
+- Partecipazioni: investimenti nel capitale di altre imprese; altri titoli: categoria residuale non identificata specificamente.
+- Con quello di passaggio del titolo di proprietà.
+
+**D:** Quali esempi di altri titoli fa il docente della lezione 08?
+**R:** Per i titoli del debito pubblico, «tipicamente **BOT**, **CCT**, **CTZ**»; per le obbligazioni emesse da enti pubblici, i **BOC**, buoni ordinari dei **comuni**, e i **BOR**, buoni ordinari delle **regioni** ([00:26:35]–[00:27:16]).
+**Opzione:** BOT, CCT e CTZ come titoli del debito pubblico; BOC dei comuni e BOR delle regioni come obbligazioni di enti pubblici.
+**Distrattori:**
+- BOT, CCT e CTZ come obbligazioni di enti pubblici; BOC dei comuni e BOR delle regioni come titoli del debito pubblico.
+- Le azioni di una società quotata al Nasdaq, comprate per rivenderle appena il mercato sale.
+- Le partecipazioni di una holding bancaria nelle società che vendono strumenti finanziari al mercato.
+
+**D:** ⚠️ In quali principi trattano titoli e partecipazioni i principi contabili internazionali, e con quale oggetto ciascuno, secondo la lezione 08?
+**R:** «Non trattano **unitariamente** di titoli e partecipazioni, ma lo fanno nell'ambito di **4 distinti principi**: lo **IAS 27** relativo alle partecipazioni in imprese **controllate**; lo **IAS 28** relativo alle partecipazioni in imprese **collegate**; lo **IAS 31** relativo alle partecipazioni in imprese a **controllo congiunto**; lo **IAS 39** (sostituito dallo **IFRS9**), relativo agli **altri titoli in generale**» (slide 11). ⚠️ Il docente attribuisce per lapsus lo IAS 27 alle «collegate» ([00:27:21]): vale la slide.
+**Opzione:** IAS 27 per le controllate; IAS 28 per le collegate; IAS 31 per le imprese a controllo congiunto; IAS 39, sostituito dall'IFRS 9, per gli altri titoli in generale.
+**Distrattori:**
+- IAS 27 per le collegate; IAS 28 per le controllate; IAS 31 per le imprese a controllo congiunto; IAS 39, sostituito dall'IFRS 9, per gli altri titoli in generale.
+- Lo IAS 22 sulle aggregazioni di imprese: solo se l'attività è identificabile e il suo costo può essere stimato attendibilmente, e in tal caso va iscritta al fair value.
+- L'OIC n. 24, che non fornisce ulteriori indicazioni rispetto a quelle previste per le immobilizzazioni materiali e rimarca solo la distinzione tra beni immateriali veri e propri e oneri pluriennali.
+
+**D:** ⚠️ Come si valutano i titoli e le partecipazioni iscritti fra le immobilizzazioni finanziarie nei principi nazionali, secondo la lezione 08?
+**R:** «Sono valutati col **criterio del costo** e vige l'**obbligo di svalutazione** nel caso di **perdita durevole** di valore, nonché di **ripristino** quando vengano meno le cause della svalutazione» (slide 12). Il docente lo ripete ([00:28:15]–[00:28:37]). ⚠️ Nell'attivo circolante a far scattare la svalutazione è invece il minor valore di realizzazione desumibile dall'andamento del mercato (slide 13).
+**Opzione:** Col criterio del costo, con obbligo di svalutazione nel caso di perdita durevole di valore e di ripristino quando vengano meno le cause della svalutazione.
+**Distrattori:**
+- Col criterio del costo, con obbligo di svalutazione nel caso di minor valore di realizzazione desumibile dall'andamento del mercato e di ripristino del valore originario.
+- Rivalutazione: riserva di rivalutazione; ripristino di valore: ricavo; investimento immobiliare: conto economico.
+- Dalle oscillazioni dei relativi valori correnti.
+
+**D:** ⚠️ A quali partecipazioni, e con quale carattere, è applicabile il metodo del patrimonio netto nei principi nazionali, secondo la lezione 08?
+**R:** «Per le **sole** partecipazioni in imprese **controllate e collegate** iscritte **tra le I.F.** è inoltre applicabile **facoltativamente**, il criterio di valutazione del "**patrimonio netto**" o **equity method**» (slide 12). Non vale quindi per le controllanti e le altre imprese, né per le partecipazioni dell'attivo circolante ([00:28:37]–[00:28:56]).
+**Opzione:** Alle sole partecipazioni in imprese controllate e collegate iscritte fra le immobilizzazioni finanziarie, facoltativamente.
+**Distrattori:**
+- A tutte le partecipazioni iscritte fra le immobilizzazioni finanziarie, facoltativamente.
+- Alle sole partecipazioni in imprese controllate e collegate iscritte fra le immobilizzazioni finanziarie, obbligatoriamente.
+- Alle sole partecipazioni in imprese controllate e collegate iscritte nell'attivo circolante, facoltativamente.
+
+**D:** ⚠️ Che valore attribuisce alla partecipazione il metodo del patrimonio netto, secondo il docente della lezione 08?
+**R:** Non il costo di acquisto, ma la **parte del patrimonio netto contabile** della partecipata **corrispondente alla percentuale posseduta**: «per questo si chiama criterio di valutazione del patrimonio netto» ([00:28:56]–[00:29:18]).
+**Opzione:** Non il costo di acquisto, ma la quota del patrimonio netto contabile della partecipata corrispondente alla percentuale posseduta.
+**Distrattori:**
+- Non il costo di acquisto, ma la quota del fair value della partecipata corrispondente alla percentuale posseduta.
+- Il valore corrente, cioè il valore a cui il bene si scambierebbe fra due parti indipendenti, in quello stato di mercato e d'uso.
+- Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto si computano i costi accessori.
+
+**D:** ⚠️ Che cosa fa scattare l'obbligo di svalutazione di titoli e partecipazioni fra le immobilizzazioni finanziarie e nell'attivo circolante, nei principi nazionali, secondo la lezione 08?
+**R:** Fra le **immobilizzazioni finanziarie** la **perdita durevole di valore** (slide 12); nell'**attivo circolante** il «**minor valore di realizzazione desumibile dall'andamento del mercato**» (slide 13). In entrambi i casi il criterio è il costo e c'è l'obbligo di ripristino. Per il docente nel circolante il valore originario si ripristina «qualora la quotazione dovesse successivamente riprendersi» ([00:29:18]–[00:29:55]).
+**Opzione:** Immobilizzazioni finanziarie: una perdita durevole di valore; attivo circolante: un minor valore di realizzazione desumibile dall'andamento del mercato.
+**Distrattori:**
+- Immobilizzazioni finanziarie: un minor valore di realizzazione desumibile dall'andamento del mercato; attivo circolante: una perdita durevole di valore.
+- In entrambi i casi, una perdita durevole di valore.
+- In entrambi i casi, una scelta del redattore del bilancio.
+
+**D:** ⚠️ A quali condizioni i principi contabili internazionali ammettono che una spesa sostenuta per un'immobilizzazione immateriale possa essere capitalizzata, secondo il test della lezione 08 (domanda 1)?
+**R:** Se «**sia probabile che la stessa consenta all'attività di generare futuri benefici economici superiori a quelli attesi, sia quantificabile attendibilmente e attribuibile alla specifica immobilizzazione**»: è la slide 3, con «alla specifica immobilizzazione» al posto di «all'I.I.». Distrattori del test: «**come** quelli attesi», un segno invertito; «non vi siano perdite future superiori ai benefici attesi»; «sia ipotizzabile una vendita dell'immobilizzazione entro i successivi **5 anni**», una condizione temporale inventata.
+**Opzione:** Sia probabile che la stessa consenta all'attività di generare futuri benefici economici superiori a quelli attesi, sia quantificabile attendibilmente e attribuibile alla specifica immobilizzazione.
+**Distrattori:**
+- Sia probabile che la stessa consenta all'attività di generare futuri benefici economici come quelli attesi, sia quantificabile attendibilmente e attribuibile alla specifica immobilizzazione.
+- Non vi siano perdite future superiori ai benefici attesi.
+- Sia ipotizzabile una vendita dell'immobilizzazione entro i successivi 5 anni.
+
+**D:** ⚠️ I costi di impianto e ampliamento possono essere capitalizzati per i principi contabili internazionali, secondo il test della lezione 08 (domanda 2)?
+**R:** «**Non possono mai essere capitalizzati**»: per la slide 5 «per lo IAS 38 tale categoria di oneri non è suscettibile di capitalizzazione», e il docente dice «mai» ([00:17:23]). Distrattori del test: «sempre»; «solo all'atto della costituzione dell'impresa», che pesca dai costi notarili di costituzione del docente; «solo se superiori a euro 10.000», una soglia inventata. ⚠️ Nei principi **nazionali** l'iscrizione è invece facoltativa, con il parere favorevole del collegio sindacale, se presente.
+**Opzione:** Non possono mai essere capitalizzati.
+**Distrattori:**
+- Possono sempre essere capitalizzati.
+- Possono essere capitalizzati solo all'atto della costituzione dell'impresa.
+- Possono essere capitalizzati solo se superiori a euro 10.000.
+
+**D:** ⚠️ I costi di pubblicità possono essere capitalizzati, secondo il test della lezione 08 (domanda 3)?
+**R:** «**Non possono mai essere capitalizzati**». ⚠️ Il testo della domanda dice «principi contabili **rnazioali**», un refuso. Per lo IAS 38 non lo sono mai stati; nei principi nazionali non lo sono più **dal 1° gennaio 2016** (slide 6), mentre fino al 2015 lo erano (docente, [00:19:17]). In entrambe le letture «mai» è l'opzione migliore. Distrattori del test: la batteria della domanda 2, cioè «solo all'atto della costituzione dell'impresa», «sempre» e «solo se superiori a euro 10.000».
+**Opzione:** Non possono mai essere capitalizzati.
+**Distrattori:**
+- Possono essere capitalizzati solo all'atto della costituzione dell'impresa.
+- Possono sempre essere capitalizzati.
+- Possono essere capitalizzati solo se superiori a euro 10.000.
+
+**D:** ⚠️ A quali condizioni può essere capitalizzato l'avviamento per i principi contabili nazionali, secondo il test della lezione 08 (domanda 4)?
+**R:** «**Solo se acquistato a titolo oneroso e con il consenso del collegio sindacale**». ⚠️ La chiave tace la terza condizione della slide 7: l'iscrizione «**nei limiti del costo sostenuto**». Distrattori del test: «solo all'atto della costituzione dell'impresa», «sempre» e «mai», cioè la batteria delle domande 2 e 3.
+**Opzione:** Può essere capitalizzato solo se acquistato a titolo oneroso e con il consenso del collegio sindacale.
+**Distrattori:**
+- Può essere capitalizzato solo all'atto della costituzione dell'impresa.
+- Può sempre essere capitalizzato.
+- Non può mai essere capitalizzato.
+
+**D:** ⚠️ Che cosa si intende per «altri titoli» per l'OIC n. 20, secondo il test della lezione 08 (domanda 5)?
+**R:** «**Titoli del debito pubblico e obbligazioni emesse da enti pubblici**», la slide 10 alla lettera. ⚠️ «Categoria residuale non identificata specificamente» è una **trappola lessicale**: deduce il contenuto dalla parola «altri». «Azioni di tutte le imprese» sono le **partecipazioni**, cioè investimenti nel capitale di altre imprese. «Buoni postali del tesoro» fonde i buoni postali con i buoni del tesoro. Gli esempi del docente sono BOT, CCT, CTZ, BOC e BOR ([00:26:35]).
+**Opzione:** Titoli del debito pubblico e obbligazioni emesse da enti pubblici.
+**Distrattori:**
+- Categoria residuale non identificata specificamente.
+- Azioni di tutte le imprese.
+- Buoni postali del tesoro.
