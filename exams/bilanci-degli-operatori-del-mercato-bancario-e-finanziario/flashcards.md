@@ -2577,3 +2577,285 @@
 - Sì.
 - Solo per costi superiori a 10.000 euro.
 - Solo se il risultato di esercizio è positivo.
+
+## Lezione 11 — Patrimonio netto, voci di conto economico e imposte anticipate e differite
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci del patrimonio netto nello schema dello stato patrimoniale, secondo la lezione 11?
+**R:** «A) Patrimonio netto: I – **Capitale**; II – **Riserva sovrapprezzo azioni**; III – **Riserve da rivalutazione**; IV – **Riserva legale**; V – **Riserve statutarie**; VI – **Altre riserve distintamente indicate**; VII – **Riserve per operazioni di copertura dei flussi finanziari attesi**; VIII – **Utili (perdite) portati a nuovo**; IX – **Utile (perdita) dell'esercizio**; X – **Riserva negativa per azioni proprie in portafoglio**» (slide 2). Per il docente è la voce A del passivo dello schema dell'art. 2424 c.c. ([00:00:21]).
+**Opzione:** I Capitale; II Riserva sovrapprezzo azioni; III Riserve da rivalutazione; IV Riserva legale; V Riserve statutarie; VI Altre riserve distintamente indicate; VII Riserve per operazioni di copertura dei flussi finanziari attesi; VIII Utili (perdite) portati a nuovo; IX Utile (perdita) dell'esercizio; X Riserva negativa per azioni proprie in portafoglio.
+**Distrattori:**
+- I Capitale; II Riserva sovrapprezzo azioni; III Riserve da rivalutazione; IV Riserva legale; V Riserve statutarie; VI Altre riserve distintamente indicate; VII Riserve per operazioni di copertura dei flussi finanziari attesi; VIII Utili (perdite) portati a nuovo; IX Utile (perdita) dell'esercizio; X Fondi per rischi e oneri.
+- Compensi a breve termine; compensi successivi al rapporto di lavoro; compensi a lungo termine; indennità di fine rapporto; compensi legati al patrimonio netto.
+- Fondo per manutenzioni cicliche; fondo ripristino e sostituzione beni gratuitamente devolvibili; fondo per concorsi e operazioni a premio; fondo per rischi collaudo.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco del patrimonio netto nello schema dello stato patrimoniale, secondo la lezione 11?
+**R:** Con la voce **X – Riserva negativa per azioni proprie in portafoglio** (slide 2), l'unica con il segno meno. Per il docente segnala che la società ha ricomprato azioni proprie, con un «annacquamento» del capitale ([00:06:48]–[00:07:32]).
+**Opzione:** Riserva negativa per azioni proprie in portafoglio.
+**Distrattori:**
+- Utile (perdita) dell'esercizio.
+- Utili (perdite) portati a nuovo.
+- Riserve per operazioni di copertura dei flussi finanziari attesi.
+
+**D:** Da quale documento è trattato il patrimonio netto nei principi contabili nazionali, e con quale contenuto, secondo la lezione 11?
+**R:** Dal documento **OIC n. 28**, «il quale effettua un esame circa la **funzione** e le **modalità di formazione** delle singole voci» (slide 3). Per il docente che i principi nazionali dedichino un principio specifico al patrimonio netto «distingue nettamente» questa macrovoce dal livello internazionale ([00:07:32]–[00:08:12]).
+**Opzione:** Dal documento OIC n. 28, che esamina la funzione e le modalità di formazione delle singole voci.
+**Distrattori:**
+- Dal documento OIC n. 12, che esamina la funzione e le modalità di formazione delle singole voci.
+- L'OIC n. 31: accolgono gli accantonamenti destinati a coprire perdite o debiti.
+- Per analogia, a quanto previsto dal documento n. 16 per le immobilizzazioni materiali.
+
+**D:** ⚠️ Come trattano il patrimonio netto i principi contabili internazionali, secondo la lezione 11?
+**R:** «**Non esiste alcun principio emanato dallo IASB** che si occupi specificamente del PN; il tema è trattato **incidentalmente** nei documenti interpretativi **SIC 16 e 17** e in alcuni IAS» (slide 3). Per il docente i SIC sono documenti integrativi dei principi internazionali, emessi dal comitato che ne cura l'interpretazione ([00:08:21]–[00:09:30]).
+**Opzione:** Nessun principio emanato dallo IASB se ne occupa specificamente: il tema è trattato incidentalmente nei documenti interpretativi SIC 16 e 17 e in alcuni IAS.
+**Distrattori:**
+- Se ne occupa specificamente un principio emanato dallo IASB, integrato dai documenti interpretativi SIC 16 e 17.
+- IAS 27 per le controllate; IAS 28 per le collegate; IAS 31 per le imprese a controllo congiunto; IAS 39, sostituito dall'IFRS 9, per gli altri titoli in generale.
+- Non fra fondi rischi e fondi per oneri secondo la certezza o probabilità della passività, ma fra accantonamenti e passività potenziali.
+
+**D:** ⚠️ Come vanno contabilizzate le azioni proprie per il SIC 16, secondo la lezione 11?
+**R:** «Le azioni proprie **non possono mai** essere contabilizzate fra le **attività**, ma devono essere portate **direttamente a riduzione del valore del PN**» (slide 3). Il docente precisa: non come se fossero partecipazioni fra le immobilizzazioni finanziarie ([00:09:30]–[00:10:09]).
+**Opzione:** Non possono mai essere contabilizzate fra le attività, ma devono essere portate direttamente a riduzione del valore del patrimonio netto.
+**Distrattori:**
+- Devono essere contabilizzate fra le attività, come partecipazioni fra le immobilizzazioni finanziarie, e non a riduzione del patrimonio netto.
+- Col criterio del costo, con obbligo di svalutazione nel caso di perdita durevole di valore e di ripristino quando vengano meno le cause della svalutazione.
+- Con il fair value, ma per l'intera categoria di riferimento, per esempio per tutte le spese di sviluppo.
+
+**D:** ⚠️ A quale scopo, secondo il docente della lezione 11, l'OIC 28 si è allineato al SIC 16 portando le azioni proprie a diretta riduzione del patrimonio netto?
+**R:** Per consentire al **terzo lettore** del bilancio un'**immediata percezione** dell'esistenza di azioni proprie ([00:10:30]–[00:11:01]). In Italia l'allineamento passa per la **decima voce** del patrimonio netto, la riserva negativa per azioni proprie in portafoglio ([00:10:09]).
+**Opzione:** Per consentire al terzo lettore del bilancio un'immediata percezione dell'esistenza di azioni proprie.
+**Distrattori:**
+- Per consentire al terzo lettore del bilancio di conoscere il valore di mercato delle azioni proprie.
+- Un avviamento implicito: il patrimonio netto contabile non esprime il reale valore economico potenziale dell'impresa.
+- Per motivi non strettamente economici, come una successione ereditaria, il pensionamento o la necessità di cambiare settore.
+
+**D:** ⚠️ Come trattano i costi di emissione di nuove azioni i principi nazionali e quelli internazionali, secondo la lezione 11?
+**R:** Per il docente nei **nazionali** si possono **capitalizzare** fra i **costi di impianto e ampliamento**, con il **consenso del collegio sindacale** ([00:11:20]–[00:12:13]). Negli **IAS** «non possono essere capitalizzati, ma devono essere portati direttamente a **riduzione delle somme acquisite** dalla società con l'operazione» (slide 4). ⚠️ Il docente dice invece che negli IAS vanno «a conto economico» ([00:11:45]): fa testo la slide, e il test 11 usa la versione del docente come distrattore (domanda 2).
+**Opzione:** Nei nazionali si possono capitalizzare fra i costi di impianto e ampliamento, con il consenso del collegio sindacale; negli IAS non si capitalizzano e vanno portati a riduzione delle somme acquisite con l'operazione.
+**Distrattori:**
+- Nei nazionali si possono capitalizzare fra i costi di impianto e ampliamento, con il consenso del collegio sindacale; negli IAS non si capitalizzano e vanno imputati a conto economico.
+- La fattibilità tecnica ed economica, la disponibilità di risorse e la capacità dell'impresa di valutare il costo attribuibile all'attività.
+- Si può costituire nel bilancio civilistico, ma l'accantonamento non è deducibile e va tassato.
+
+**D:** ⚠️ Quando si alimenta la riserva di rivalutazione nei principi nazionali e in quelli internazionali, secondo la lezione 11?
+**R:** Nei **nazionali** le rivalutazioni «non sono possibili, **salvo specifiche leggi**» (slide 4): la riserva si alimenta solo quando interviene una legge di rivalutazione, e nei suoi limiti. Negli **IAS**, per il docente, la riserva si può usare «teoricamente anche **tutti gli anni**», perché accoglie le oscillazioni dei beni valutati al **fair value** e può aumentare o diminuire ([00:12:35]–[00:14:49]).
+**Opzione:** Nei nazionali solo quando una legge specifica consente la rivalutazione, e nei suoi limiti; negli IAS teoricamente tutti gli anni, perché segue le variazioni di fair value dei cespiti.
+**Distrattori:**
+- Nei nazionali teoricamente tutti gli anni, perché segue le variazioni di fair value dei cespiti; negli IAS solo quando una legge specifica consente la rivalutazione, e nei suoi limiti.
+- La stessa disciplina prevista per le immobilizzazioni materiali, sia nei principi nazionali sia in quelli internazionali.
+- Se le ragioni della precedente svalutazione persistono o sono venute meno; se sono venute meno, il ripristino va a conto economico, alla voce 18 Rivalutazioni.
+
+**D:** ⚠️ Dove vanno le perdite di valore dei cespiti rivalutati negli IAS e nella disciplina interna, secondo la lezione 11?
+**R:** «Per gli IAS le eventuali perdite di valore dei cespiti rivalutati devono essere contabilizzate **a riduzione della corrispondente riserva**, mentre per la disciplina interna devono essere imputate **a C.E.**» (slide 4). Il docente non lo dice: è solo nella slide.
+**Opzione:** Per gli IAS a riduzione della corrispondente riserva; per la disciplina interna a conto economico.
+**Distrattori:**
+- Per gli IAS a conto economico; per la disciplina interna a riduzione della corrispondente riserva.
+- Immobilizzazioni finanziarie: una perdita durevole di valore; attivo circolante: un minor valore di realizzazione desumibile dall'andamento del mercato.
+- Perdita di valore accertata che abbia il carattere della durevolezza.
+
+**D:** ⚠️ Che cosa era necessario, per l'OIC 12, per qualificare straordinario un componente reddituale, secondo la lezione 11?
+**R:** «L'**estraneità della fonte** del provento o dell'onere rispetto alla **gestione ordinaria**» (slide 5). La slide ne parla al passato, perché la distinzione è «superata». Per il docente la gestione ordinaria è quella caratteristica, ciò che l'impresa svolge normalmente come attività principale ([00:15:29]–[00:16:31]).
+**Opzione:** L'estraneità della fonte del provento o dell'onere rispetto alla gestione ordinaria.
+**Distrattori:**
+- La riconducibilità della fonte del provento o dell'onere alla gestione ordinaria.
+- Lo schema nazionale per natura del costo; lo IAS 19 più specificamente per il tempo.
+- Sulle percentuali di casi negativi verificatisi negli anni precedenti, per prudenza.
+
+**D:** ⚠️ Quali erano le cause di estraneità alla gestione ordinaria individuate dall'OIC 12, secondo la lezione 11?
+**R:** «a) Estraneità all'**attività ordinaria** dell'impresa; b) Estraneità all'**esercizio di riferimento**; c) **Aspetti tecnico-contabili** (oneri e proventi derivanti da **modifiche di stime** e da **mutamenti di principi o criteri contabili**)» (slide 5). Gli esempi del docente: un costo di un esercizio precedente «di cui non mi sono accorto»; il cambio del criterio di valutazione delle rimanenze ([00:18:24]–[00:19:18]).
+**Opzione:** Estraneità all'attività ordinaria dell'impresa; estraneità all'esercizio di riferimento; aspetti tecnico-contabili, cioè oneri e proventi derivanti da modifiche di stime e da mutamenti di principi o criteri contabili.
+**Distrattori:**
+- Estraneità all'attività ordinaria dell'impresa; estraneità all'esercizio di riferimento; eventi imprevedibili, come alluvioni o furti che distruggono il magazzino o le strutture.
+- Di partecipazioni; di immobilizzazioni finanziarie che non costituiscono partecipazioni; di titoli iscritti nell'attivo circolante che non costituiscono immobilizzazioni.
+- A seconda della loro destinazione nell'economia dell'impresa: detenuti fino a scadenza, detenuti per negoziazione, detenuti per la vendita.
+
+**D:** ⚠️ Che cosa è successo alle voci straordinarie del conto economico nazionale, e quali erano, secondo la lezione 11?
+**R:** «In forza delle disposizioni di cui al **D.Lgs. 139/2015** le voci straordinarie del conto economico, corrispondenti alle voci **E20 ed E21**, sono state **eliminate**» (slide 5). Per il docente dal 1° gennaio 2016 ([00:19:18]–[00:19:41]).
+**Opzione:** Sono state eliminate dal D.Lgs. 139/2015: erano le voci E20 ed E21.
+**Distrattori:**
+- Sono state introdotte dal D.Lgs. 139/2015, alle voci E20 ed E21.
+- Sono state eliminate dal D.Lgs. 139/2015: erano le voci D18 e D19.
+- Non si effettua alcuno stanziamento in bilancio.
+
+**D:** ⚠️ Che cosa rileva per lo IAS 8 ai fini della distinzione fra componenti ordinarie e straordinarie, secondo la lezione 11?
+**R:** «Rilevi **solo** l'estraneità alla **gestione ordinaria** dell'impresa e **non anche** l'estraneità del componente all'esercizio di riferimento o la sua derivazione da aspetti tecnico-contabili» (slide 6). Per il docente lo IAS 8 «non ha subito modifiche» e prevede ancora la distinzione ([00:19:41]–[00:20:41]).
+**Opzione:** Solo l'estraneità alla gestione ordinaria dell'impresa, e non anche l'estraneità all'esercizio di riferimento o la derivazione da aspetti tecnico-contabili.
+**Distrattori:**
+- Solo l'estraneità all'esercizio di riferimento, e non anche l'estraneità alla gestione ordinaria dell'impresa o la derivazione da aspetti tecnico-contabili.
+- Solo l'ammontare o la data di sopravvenienza; la natura è determinata e l'esistenza è certa o probabile.
+- La ammette e la impone solo per gli accantonamenti, mentre la esclude per le passività potenziali.
+
+**D:** ⚠️ A che cosa danno luogo, negli IAS, l'estraneità all'esercizio di riferimento e gli aspetti tecnico-contabili, secondo la lezione 11?
+**R:** «All'adozione di modalità di contabilizzazione, **non ammissibili nel nostro ordinamento**, che hanno l'effetto di **non far concorrere** il componente reddituale alla formazione del risultato dell'**esercizio corrente**» (slide 6). La nota segnala in un blocco ℹ️ che la formula precede la riforma del 2016.
+**Opzione:** A modalità di contabilizzazione, non ammissibili nel nostro ordinamento, che non fanno concorrere il componente reddituale alla formazione del risultato dell'esercizio corrente.
+**Distrattori:**
+- A modalità di contabilizzazione, non ammissibili nel nostro ordinamento, che fanno concorrere il componente reddituale alla formazione del risultato dell'esercizio corrente.
+- Non diverge sostanzialmente dalla disciplina civilistica: i costi sono deducibili secondo competenza economica, e anche il TFR è normalmente conforme.
+- In un consolidamento sintetico: produce gli stessi effetti di un bilancio consolidato sulla consistenza patrimoniale e sul risultato d'esercizio.
+
+**D:** In quale prospetto, secondo il docente della lezione 11, gli IAS raccolgono alcuni componenti straordinari che non concorrono all'utile o alla perdita dell'esercizio?
+**R:** Nell'«OSHI», cioè l'**OCI**, **Other Comprehensive Income**, «o altre fonti di reddito»: un prospetto che raccoglie le variazioni di natura economica che non trovano indicazione nel conto economico ([00:20:41]–[00:21:30]). La slide 6 dice solo che quei componenti non concorrono al risultato corrente; la nota precisa il punto in un blocco ℹ️.
+**Opzione:** Nell'OCI, Other Comprehensive Income, che raccoglie le variazioni di natura economica che non trovano indicazione nel conto economico.
+**Distrattori:**
+- Nel rendiconto finanziario, che raccoglie le variazioni di natura economica che non trovano indicazione nel conto economico.
+- Alla voce C) Attivo circolante, III; l'elenco si chiude con gli altri titoli.
+- Titoli del debito pubblico e obbligazioni emesse da enti pubblici.
+
+**D:** ⚠️ Che differenza c'è fra risultato civilistico e reddito imponibile, secondo il docente della lezione 11?
+**R:** Il **risultato civilistico** è «solo la differenza fra **ricavi** di esercizio e **costi** di esercizio». Il **reddito imponibile** è l'utile o la perdita con le **variazioni in aumento o in diminuzione** dovute alle differenze fra disciplina civilistica e fiscale: tutti i costi vanno in bilancio, ma non tutti sono deducibili ([00:21:30]–[00:22:43]).
+**Opzione:** Il risultato civilistico è la differenza fra ricavi e costi d'esercizio; il reddito imponibile è l'utile o la perdita con le variazioni in aumento o in diminuzione dovute alle differenze fra disciplina civilistica e fiscale.
+**Distrattori:**
+- Il reddito imponibile è la differenza fra ricavi e costi d'esercizio; il risultato civilistico è l'utile o la perdita con le variazioni in aumento o in diminuzione dovute alle differenze fra disciplina civilistica e fiscale.
+- Il cattivo affare un costo superiore alla quota di patrimonio netto; il buon affare un costo inferiore.
+- Per entrambi l'unico criterio è il fair value; per la negoziazione le differenze vanno a conto economico, per la vendita in una riserva di patrimonio netto.
+
+**D:** ⚠️ Secondo quale principio si iscrivono in bilancio le imposte, e coincidono con le imposte dovute, secondo la lezione 11?
+**R:** «Al pari di ogni altro componente negativo di reddito, anche le imposte devono essere iscritte in bilancio in ossequio al **principio di competenza**». Per le «innumerevoli discrepanze» fra le norme sul risultato di bilancio e sul reddito imponibile, «**non è infrequente** che le imposte di competenza e le imposte dovute non coincidano» (slide 7).
+**Opzione:** Secondo il principio di competenza, come ogni altro componente negativo di reddito; per le discrepanze fra le norme, non è infrequente che le imposte di competenza e quelle dovute non coincidano.
+**Distrattori:**
+- Secondo il principio di competenza, come ogni altro componente negativo di reddito; per questo le imposte di competenza coincidono sempre con quelle dovute.
+- Sulla base di una stima realistica delle somme o del valore dei beni che dovranno essere forniti per soddisfare l'obbligazione.
+- Le quotazioni alla data di chiusura del bilancio, oppure una media delle quotazioni di un periodo.
+
+**D:** ⚠️ Quale esempio di differenza permanente fa il docente della lezione 11?
+**R:** I costi delle **autovetture non strumentali**, indeducibili per l'**80%**: su **1.000 euro** di manutenzione dell'auto intestata alla società, **800** non sono deducibili, «come se come costo fiscale non esistessero», e non sono recuperabili negli anni successivi ([00:23:11]–[00:23:50]).
+**Opzione:** I costi delle autovetture non strumentali, indeducibili all'80%: su 1.000 euro di manutenzione, 800 non saranno mai deducibili.
+**Distrattori:**
+- Il compenso dell'amministratore accantonato e non pagato entro il 31 dicembre, deducibile nell'anno in cui viene pagato.
+- Fondo per oneri: le manutenzioni cicliche degli autobus del trasporto pubblico; fondo rischi: un contenzioso con il fisco di esito incerto.
+- BOT, CCT e CTZ come titoli del debito pubblico; BOC dei comuni e BOR delle regioni come obbligazioni di enti pubblici.
+
+**D:** ⚠️ Quale esempio di differenza temporanea fa il docente della lezione 11?
+**R:** Il **compenso dell'amministratore**, deducibile solo nell'anno in cui viene **pagato**: 1.000 euro accantonati nell'anno X e pagati a gennaio di X+1 sono deducibili in **X+1**. Il componente indeducibile l'anno prima diventa deducibile l'anno dopo, cioè viene riassorbito ([00:24:02]–[00:24:52]).
+**Opzione:** Il compenso dell'amministratore accantonato e non pagato entro il 31 dicembre, deducibile nell'anno in cui viene pagato.
+**Distrattori:**
+- I costi delle autovetture non strumentali, indeducibili all'80%: su 1.000 euro di manutenzione, 800 non saranno mai deducibili.
+- Altri costi: una voce residuale di chiusura, per esempio buoni pasto, rimborsi spese, uniformi e abiti da lavoro.
+- È durevole se supera un certo periodo, normalmente fra i 4 e i 6 mesi; un calo di un giorno, una settimana o un mese è transitorio.
+
+**D:** ⚠️ Quali differenze fra disciplina civilistica e fiscale hanno rilevanza civilistica, e quali principi se ne occupano, secondo il docente della lezione 11?
+**R:** Le differenze **permanenti** non hanno «alcuna rilevanza» civilistica; le **temporanee** sì, perché possono riflettersi sulla **competenza** delle imposte. Se ne occupano l'**OIC 25** in ambito nazionale e lo **IAS 12** in ambito internazionale ([00:24:52]–[00:25:19]).
+**Opzione:** Solo le differenze temporanee, che possono riflettersi sulla competenza delle imposte; se ne occupano l'OIC 25 e lo IAS 12.
+**Distrattori:**
+- Solo le differenze permanenti, che possono riflettersi sulla competenza delle imposte; se ne occupano l'OIC 25 e lo IAS 12.
+- Gli accantonamenti per rischi alla voce B12, accantonamenti per rischi; quelli ai fondi per oneri alla voce B13, altri accantonamenti.
+- Che non è deducibile la parte di costo di acquisto eccedente il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio della partecipata.
+
+**D:** ⚠️ Come devono essere iscritti in bilancio i debiti e i crediti tributari per l'OIC 25 e per lo IAS 12, secondo la lezione 11?
+**R:** «Al **valore nominale** (documento **OIC n. 25**): ovvero, secondo una disposizione **sostanzialmente analoga**, in base all'**importo che si prevede di versare o di recuperare** alla/dalla Amministrazione finanziaria (**IAS 12**)» (slide 9).
+**Opzione:** Al valore nominale per l'OIC 25; per lo IAS 12, con una disposizione sostanzialmente analoga, in base all'importo che si prevede di versare o di recuperare.
+**Distrattori:**
+- Al valore di presunto realizzo per l'OIC 25; per lo IAS 12, con una disposizione sostanzialmente analoga, in base all'importo che si prevede di versare o di recuperare.
+- Il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata.
+- Il costo, il patrimonio netto e il fair value, secondo le previsioni dello IAS 39 (dal 2018 IFRS 9).
+
+**D:** ⚠️ Sulla base di quale aliquota va effettuata, per lo IAS 12, la stima dei debiti e dei crediti tributari, e il criterio vale anche in Italia, secondo la lezione 11?
+**R:** «Sulla base dell'aliquota di imposta **promulgata o sostanzialmente in vigore alla data di bilancio**»; e «tale criterio deve considerarsi **accolto anche dalla prassi contabile nazionale**» (slide 9). Per le attività e passività fiscali **differite** la slide 10 indica invece l'aliquota **attesa** per l'esercizio del riversamento.
+**Opzione:** Sulla base dell'aliquota d'imposta promulgata o sostanzialmente in vigore alla data di bilancio; il criterio è accolto anche dalla prassi contabile nazionale.
+**Distrattori:**
+- Sulla base dell'aliquota d'imposta promulgata o sostanzialmente in vigore alla data di bilancio; il criterio non è accolto dalla prassi contabile nazionale.
+- È l'unica deroga al criterio-base del costo, assieme a quella relativa ai lavori in corso su ordinazione.
+- Non il costo di acquisto, ma la quota del patrimonio netto contabile della partecipata corrispondente alla percentuale posseduta.
+
+**D:** ⚠️ Sulla base di quale aliquota devono essere iscritte le attività e le passività fiscali differite, secondo la lezione 11?
+**R:** «Sulla base dell'aliquota di imposta **attesa per l'esercizio in cui si prevede avvenga il riversamento** di ciascuna differenza temporanea» (slide 10). ⚠️ Il docente dice invece l'aliquota **vigente** al momento in cui si redige il bilancio, perché quella futura non si può prevedere ([00:25:31]–[00:26:39]): è la regola della slide 9 per la stima dei debiti e crediti tributari. Fa testo la slide.
+**Opzione:** Sulla base dell'aliquota d'imposta attesa per l'esercizio in cui si prevede avvenga il riversamento di ciascuna differenza temporanea.
+**Distrattori:**
+- Sulla base dell'aliquota d'imposta attesa per l'esercizio in cui si è originata ciascuna differenza temporanea.
+- Il costo originario viene modificato per recepire le modifiche proprie del metodo e per tenere conto delle quote di utili e delle perdite della partecipata.
+- Al valore della corrispondente frazione di patrimonio netto della partecipata; a ogni esercizio il valore di carico va adeguato alle modifiche del patrimonio netto della partecipata.
+
+**D:** ⚠️ Come devono essere collocati in bilancio i debiti per le imposte correnti, secondo i principi nazionali e internazionali della lezione 11?
+**R:** I debiti per le imposte correnti «**dell'esercizio e degli esercizi precedenti**» devono trovare collocazione in bilancio «come **passività al netto**, di norma, degli eventuali **crediti verso l'erario** e degli **acconti versati**» (slide 10). Per il docente si sottraggono anche gli eventuali crediti d'imposta ([00:26:39]–[00:27:21]).
+**Opzione:** Come passività, al netto, di norma, degli eventuali crediti verso l'erario e degli acconti versati.
+**Distrattori:**
+- Come passività, al lordo degli eventuali crediti verso l'erario e degli acconti versati, che si iscrivono separatamente nell'attivo.
+- Rientrano nella definizione di attività finanziarie, in tutto assimilati ai debiti e crediti, ai quali si estendono i criteri di valutazione.
+- A oneri o ricavi che maturano a cavallo di due o più esercizi, con la manifestazione finanziaria prima o dopo la maturazione economica.
+
+**D:** ⚠️ In quali voci dello stato patrimoniale si iscrivono il debito e il credito verso l'erario, secondo la lezione 11?
+**R:** «L'eventuale **debito** verso l'erario viene iscritto tra gli elementi del **passivo** alla voce **D11**; l'eventuale **credito** verso l'erario deve essere iscritto fra gli elementi dell'**attivo circolante** alla voce **C II.5-bis**» (slide 11). ℹ️ Nello schema vigente i debiti tributari sono la voce D12: la nota lo spiega in un blocco di integrazione.
+**Opzione:** Il debito tra gli elementi del passivo, alla voce D11; il credito fra gli elementi dell'attivo circolante, alla voce C II.5-bis.
+**Distrattori:**
+- Il debito fra i fondi per rischi e oneri, alla voce B2; il credito fra gli elementi dell'attivo circolante, alla voce C II.5-bis.
+- Nella classe D dell'attivo, ratei e risconti attivi, e nella classe E del passivo, ratei e risconti passivi.
+- Partecipazioni: investimenti nel capitale di altre imprese; altri titoli: titoli del debito pubblico e obbligazioni emesse da enti pubblici.
+
+**D:** Quale voce di conto economico si rileva in contropartita al debito tributario per imposte correnti, secondo la lezione 11?
+**R:** «Una voce di **costo** a C.E., che trova collocazione nel prospetto di cui all'**art. 2425** C.C., **imposte sul reddito d'esercizio, correnti, differite, anticipate**» (slide 11). Per il docente è la **penultima voce** del conto economico ([00:27:45]–[00:28:08]).
+**Opzione:** Una voce di costo del prospetto dell'art. 2425 c.c.: imposte sul reddito d'esercizio, correnti, differite, anticipate.
+**Distrattori:**
+- Una voce di costo del prospetto dell'art. 2425 c.c.: accantonamenti per rischi, alla voce B12.
+- Una riduzione del credito verso l'erario, alla voce C II.5-bis.
+- Voce B9.
+
+**D:** ⚠️ Che cosa prevedeva il previgente art. 75 TUIR, e con quale effetto sul bilancio, secondo la lezione 11?
+**R:** Che il redattore del bilancio che intendeva sfruttare le opportunità del **contenimento dell'onere fiscale** dovesse imputare a **C.E. civilistico** anche componenti negativi di reddito che potevano non presentare **alcuna giustificazione economica o civilistica**. «Ne derivava un **forte inquinamento** del risultato d'esercizio civilistico» (slide 12). Per il docente si potevano dedurre solo i componenti negativi previamente imputati a conto economico ([00:28:08]–[00:28:47]).
+**Opzione:** Che per contenere l'onere fiscale si dovessero imputare a C.E. civilistico anche componenti negativi privi di giustificazione economica o civilistica, con un forte inquinamento del risultato d'esercizio.
+**Distrattori:**
+- Che per contenere l'onere fiscale si dovessero indicare solo in dichiarazione dei redditi i componenti negativi privi di giustificazione economica o civilistica, senza inquinare il risultato d'esercizio.
+- Quelle in cui un'altra impresa ha la maggioranza assoluta dei voti esprimibili nell'assemblea ordinaria.
+- Dividendi distribuiti; aumenti di capitale a pagamento; rivalutazione di beni; riduzione del capitale; iscrizione a patrimonio netto di contributi in conto capitale.
+
+**D:** ⚠️ Dove trovano legittimazione oggi le poste di natura esclusivamente tributaria, secondo la lezione 11?
+**R:** Venuta meno la possibilità di inserirle nel bilancio civilistico, «dovranno trovare legittimazione in sede di **Dichiarazione dei Redditi**, nel **prospetto di raccordo** tra il risultato economico di competenza e il reddito imponibile» (slide 13). L'obiettivo di redigere i rendiconti solo secondo le disposizioni civilistiche e i corretti principi contabili è «normativamente raggiunto».
+**Opzione:** In sede di Dichiarazione dei Redditi, nel prospetto di raccordo tra il risultato economico di competenza e il reddito imponibile.
+**Distrattori:**
+- In nota integrativa, nel prospetto di raccordo tra il risultato economico di competenza e il reddito imponibile.
+- Con il consenso del collegio sindacale, solo se acquisito a titolo oneroso e nei limiti del costo sostenuto.
+- Le partecipazioni sono di controllo o collegamento e sono iscritte tra le immobilizzazioni finanziarie.
+
+**D:** ⚠️ Che cosa segnala un patrimonio netto negativo, secondo il docente della lezione 11?
+**R:** Che le **passività superano le attività**: anche realizzando tutte le attività, il denaro raccolto non basterebbe a pagare i debiti. È una situazione di **potenziale insolvenza**, che «apre le porte al **fallimento**» o a provvedimenti dell'autorità giudiziaria: un «gravissimo campanello di allarme» ([00:01:58]–[00:04:16]).
+**Opzione:** Che le passività superano le attività: realizzando tutte le attività non si pagherebbero i debiti, una situazione di potenziale insolvenza che apre le porte al fallimento.
+**Distrattori:**
+- Che le attività superano le passività: realizzando tutte le attività si pagherebbero i debiti, una situazione di solidità che allontana il fallimento.
+- La volontà dell'impresa: detenerle per più esercizi con finalità strategica, fra le immobilizzazioni; rivenderle a breve sfruttando l'andamento del mercato, nel circolante.
+- Può essere iscritto nell'attivo, purché le ragioni siano indicate in nota integrativa; la differenza può dipendere da un cattivo affare o dal maggior valore attribuito al complesso rispetto ai singoli beni.
+
+**D:** Quanto si accantona alla riserva legale, e fino a quando, secondo il docente della lezione 11?
+**R:** La riserva legale va «obbligatoriamente costituita» nelle società di capitali, accantonando il **5% degli utili** realizzati finché la riserva non raggiunge almeno il **20% del capitale sociale** nominale ([00:05:23]–[00:05:42]). La slide 2 la elenca come voce IV del patrimonio netto.
+**Opzione:** Il 5% degli utili, finché la riserva non raggiunge almeno il 20% del capitale sociale.
+**Distrattori:**
+- Il 20% degli utili, finché la riserva non raggiunge almeno il 5% del capitale sociale.
+- 72.000 euro, cioè il 60% di 120.000.
+- Il fondo per rischi collaudo.
+
+**D:** ⚠️ La riserva di valutazione è presente sia nei bilanci redatti con i principi contabili nazionali sia in quelli redatti con gli internazionali, secondo il test della lezione 11 (domanda 1)?
+**R:** «**No**», secondo la chiave. ⚠️ La domanda è ambigua: le slide della lezione non parlano mai di «riserva di valutazione». La chiave regge se si intende la riserva da fair value degli IAS, che il docente della lezione 09 chiama «riserva di valutazione», perché nel modello nazionale le rivalutazioni «non sono possibili, salvo specifiche leggi» (slide 4). Se invece si intende la riserva **da rivalutazione**, la slide 2 la elenca come voce III dello schema nazionale. Distrattori del test: «sì», «solo se l'impresa ha sedi all'estero», «su opzione del compilatore del bilancio».
+**Opzione:** No.
+**Distrattori:**
+- Sì.
+- Solo se l'impresa ha sedi all'estero.
+- Su opzione del compilatore del bilancio.
+
+**D:** ⚠️ Come consentono di trattare i costi di emissione di nuove azioni i principi contabili internazionali, secondo il test della lezione 11 (domanda 2)?
+**R:** **Portate in diretta deduzione delle somme incassate con l'operazione di emissione**: per la slide 4 «non possono essere capitalizzati, ma devono essere portati direttamente a riduzione delle somme acquisite dalla società con l'operazione». ⚠️ Il distrattore «portate a conto economico» è ciò che dice il docente ([00:11:45]): fa testo la slide. «Capitalizzarle» è la regola nazionale, che per il docente le ammette fra i costi di impianto e ampliamento con il consenso del collegio sindacale. «Registrate nei costi di emissione» è una tautologia.
+**Opzione:** Portate in diretta deduzione delle somme incassate con l'operazione di emissione.
+**Distrattori:**
+- Capitalizzarle.
+- Portate a conto economico.
+- Registrate nei costi di emissione.
+
+**D:** ⚠️ Quando si considerano permanenti le differenze di imposta nei principi contabili nazionali, secondo il test della lezione 11 (domanda 3)?
+**R:** Si determinano quando «**il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, non viene riassorbito negli esercizi successivi**», la slide 8 alla lettera. ⚠️ Un distrattore toglie il «non» ed è la logica delle differenze temporanee. Gli altri due aggiungono una coda temporale inventata: riassorbito «ma oltre il quinto» o «ma oltre il terzo». L'esempio del docente sono le autovetture non strumentali, indeducibili all'80% ([00:23:11]).
+**Opzione:** Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, non viene riassorbito negli esercizi successivi.
+**Distrattori:**
+- Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, viene riassorbito negli esercizi successivi.
+- Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, viene riassorbito negli esercizi successivi ma oltre il quinto.
+- Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, viene riassorbito negli esercizi successivi ma oltre il terzo.
+
+**D:** ⚠️ Quando si considerano temporanee le differenze di imposta nei principi contabili nazionali, secondo il test della lezione 11 (domanda 4)?
+**R:** Quando «**sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono assorbite in quelli successivi, da una o più variazioni di segno opposto**», la slide 8 alla lettera. ⚠️ I distrattori dicono che «non vengono assorbite», la logica delle permanenti; che vengono assorbite da variazioni «dello stesso segno»; o che «vengono raddoppiate». L'esempio del docente è il compenso dell'amministratore, deducibile nell'anno del pagamento ([00:24:02]).
+**Opzione:** Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono assorbite in quelli successivi, da una o più variazioni di segno opposto.
+**Distrattori:**
+- Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, non vengono assorbite in quelli successivi.
+- Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono assorbite in quelli successivi, da una o più variazioni dello stesso segno.
+- Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono raddoppiate in quelli successivi.
+
+**D:** ⚠️ Come devono essere iscritti in bilancio i debiti e i crediti tributari per i principi contabili nazionali, secondo il test della lezione 11 (domanda 5)?
+**R:** «**Al valore nominale**»: per la slide 9 è la regola del documento **OIC n. 25**. Lo IAS 12 segue una disposizione sostanzialmente analoga, l'importo che si prevede di versare o di recuperare. ⚠️ Il vicino è il «valore di presunto realizzo»; gli altri distrattori sono il «valore delle sanzioni» e il «valore derivante dal contenzioso in essere».
+**Opzione:** Al valore nominale.
+**Distrattori:**
+- Al valore di presunto realizzo.
+- Al valore delle sanzioni.
+- Al valore derivante dal contenzioso in essere.
