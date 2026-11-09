@@ -3400,3 +3400,268 @@
 - Immobilizzazioni finanziarie.
 - Titoli di Stato.
 - Titoli di Stati esteri.
+
+## Lezione 14 — I criteri di iscrizione e valutazione delle voci principali del bilancio della banca
+
+**D:** ⚠️ Come si iscrive in bilancio un credito della banca, secondo la lezione 14?
+**R:** «Un credito è iscritto al **fair value**. Questo è determinato tenendo conto del "**costo**" **complessivo** che la banca sostiene per erogarlo» (slide 2). Per il docente il solo valore nominale basterebbe solo se l'erogazione non desse luogo a nessun costo e a nessun ricavo, cosa che «non avviene mai» ([00:03:06]–[00:03:32]).
+**Opzione:** Al fair value, determinato tenendo conto del costo complessivo che la banca sostiene per erogarlo.
+**Distrattori:**
+- Al valore nominale erogato al cliente, senza tener conto dei ricavi e degli oneri dell'erogazione.
+- La raccolta da clientela, tipicamente attraverso depositi in conto corrente e depositi a risparmio.
+- Il tasso overnight: prestiti fra banche anche di 24 ore o meno.
+
+**D:** ⚠️ A che cosa può corrispondere il «costo» complessivo di un credito della banca, secondo la lezione 14?
+**R:** «Il "costo" complessivo può corrispondere a: il **solo valore nominale** erogato al cliente; oppure, il **valore nominale erogato, al netto di eventuali ricavi** percepiti dalla banca **e di eventuali oneri accessori** sostenuti al momento dell'erogazione» (slide 2). Nell'esempio della slide 4 la commissione di 20 riduce il costo e l'imposta di 1 lo aumenta: 1.000 − 20 + 1 = 981.
+**Opzione:** Al solo valore nominale erogato al cliente; oppure al valore nominale erogato, al netto di eventuali ricavi percepiti dalla banca e di eventuali oneri accessori sostenuti al momento dell'erogazione.
+**Distrattori:**
+- Al solo valore nominale erogato al cliente; oppure al valore nominale erogato, maggiorato degli interessi nominali che matureranno fino alla scadenza.
+- Banconote e monete espresse nelle diverse valute negoziate dalla banca; depositi liberi detenuti presso le Banche Centrali dei paesi in cui la banca opera.
+- I debiti verso clientela, insieme ai titoli in circolazione sottoscritti da clientela; riflettono le politiche di raccolta.
+
+**D:** ⚠️ A che cosa serve il tasso di interesse nominale fissato contrattualmente, secondo la lezione 14?
+**R:** A determinare «gli **interessi che matureranno nel tempo** e che il **cliente dovrà pagare**» (slide 2). Per il docente è quello riportato nel contratto, e serve «esclusivamente per la determinazione degli interessi nominali» ([00:04:46]–[00:05:28]). Il valore di iscrizione del credito si ricalcola invece con il tasso effettivo.
+**Opzione:** A determinare gli interessi che matureranno nel tempo e che il cliente dovrà pagare.
+**Distrattori:**
+- A determinare anno per anno il valore di iscrizione del credito in bilancio, attualizzando i flussi futuri.
+- Un grosso campanello d'allarme: la banca è in difficoltà e l'autorità di vigilanza è dovuta intervenire per darle liquidità.
+- Sono state eliminate dal D.Lgs. 139/2015: erano le voci E20 ed E21.
+
+**D:** ⚠️ Il tasso effettivo è di norma superiore o inferiore al tasso nominale, e perché, secondo il docente della lezione 14?
+**R:** «Sarà **quasi sempre superiore** al tasso nominale». Il nominale tiene conto «esclusivamente della percentuale applicata al capitale nominale»; l'effettivo «anche di tutti gli altri **oneri diretti o indiretti**» previsti a carico del cliente, o a volte della banca ([00:05:28]–[00:06:16]).
+**Opzione:** Quasi sempre superiore, perché tiene conto anche degli altri oneri diretti o indiretti previsti a carico del cliente, e non solo della percentuale sul capitale nominale.
+**Distrattori:**
+- Sempre uguale, perché il tasso effettivo è quello fissato nel contratto di finanziamento.
+- Le banche minori prestano alle maggiori: le BCC hanno più crediti verso banche, le grandi banche come UniCredit e Intesa più debiti verso banche.
+- Le banche hanno meno denaro da prestare ai clienti: è una modalità classica di controllo della quantità di moneta, per esempio contro l'inflazione.
+
+**D:** Nell'esempio del docente della lezione 14, che cosa succede al cliente che prende in prestito 1.000 euro al 7% se la banca trattiene 50 euro di costi di istruttoria?
+**R:** Sul conto corrente gli arrivano **950** euro, ma gli interessi li paga al 7% su **1.000**. Il costo effettivo è quindi «il 7% più qualcosa», più elevato del tasso nominale ([00:07:02]–[00:09:53]).
+**Opzione:** Riceve 950 euro ma paga gli interessi al 7% su 1.000: il costo effettivo è superiore al 7%.
+**Distrattori:**
+- Riceve 950 euro e paga gli interessi al 7% su 950: il costo effettivo resta il 7%.
+- I costi delle autovetture non strumentali, indeducibili all'80%: su 1.000 euro di manutenzione, 800 non saranno mai deducibili.
+- Il 5% degli utili, finché la riserva non raggiunge almeno il 20% del capitale sociale.
+
+**D:** ⚠️ Da quali due processi scaturiscono la valutazione dei crediti e il suo impatto sul conto economico, secondo la lezione 14?
+**R:** «L'applicazione del criterio del **costo** o del **costo ammortizzato** al credito iscritto in bilancio e in essere a fine periodo; la sottoposizione a **impairment test** e la conseguente **rettifica di valore** ove la qualità del credito abbia subìto deterioramenti che possano portare a **perdite durevoli** di valore» (slide 2).
+**Opzione:** L'applicazione del criterio del costo o del costo ammortizzato al credito in essere a fine periodo; l'impairment test, con la rettifica di valore ove la qualità del credito si sia deteriorata fino a poter portare a perdite durevoli.
+**Distrattori:**
+- L'applicazione del criterio del costo o del costo ammortizzato al credito in essere a fine periodo; la rivalutazione al fair value di fine periodo, con la differenza imputata a una riserva di patrimonio netto.
+- Estraneità all'attività ordinaria dell'impresa; estraneità all'esercizio di riferimento; aspetti tecnico-contabili, cioè oneri e proventi derivanti da modifiche di stime e da mutamenti di principi o criteri contabili.
+- Sono determinate da variazioni del reddito imponibile, rispetto al risultato civilistico ante-imposte, che prodotte in un determinato esercizio, vengono assorbite in quelli successivi, da una o più variazioni di segno opposto.
+
+**D:** ⚠️ In che cosa consiste l'applicazione del criterio del costo ammortizzato ai crediti, secondo la lezione 14?
+**R:** «Nell'**adeguare di anno in anno** l'originario valore di iscrizione del credito in bilancio. Ciò è fatto **attualizzando i futuri flussi di cassa** in base al **tasso di interesse effettivo** calcolato **al momento della prima iscrizione** dell'operazione» (slide 3).
+**Opzione:** Nell'adeguare di anno in anno l'originario valore di iscrizione del credito, attualizzando i futuri flussi di cassa al tasso di interesse effettivo calcolato al momento della prima iscrizione.
+**Distrattori:**
+- Nell'adeguare di anno in anno l'originario valore di iscrizione del credito, attualizzando i futuri flussi di cassa al tasso di interesse effettivo ricalcolato alla fine di ogni esercizio.
+- Il saldo, positivo o negativo, delle variazioni di valore delle attività o passività coperte con macrohedging dal rischio di tasso d'interesse: la somma algebrica cumulata nel tempo.
+- Sono la somma algebrica delle variazioni di valore a fine esercizio: non incidono sul conto economico, ma al netto della fiscalità restano cristallizzate in una riserva di patrimonio netto fino alla cessione dell'attività.
+
+**D:** ⚠️ Che cos'è il tasso d'interesse effettivo, secondo la lezione 14?
+**R:** Il «tasso che, attraverso l'**attualizzazione finanziaria**, rende uguali i futuri flussi di cassa al **valore (costo) di iscrizione**» (slide 3). Nell'esempio il valore di iscrizione è 981, non il nominale di 1.000.
+**Opzione:** Il tasso che, attraverso l'attualizzazione finanziaria, rende uguali i futuri flussi di cassa al valore (costo) di iscrizione.
+**Distrattori:**
+- Il tasso che, attraverso l'attualizzazione finanziaria, rende uguali i futuri flussi di cassa al valore nominale erogato al cliente.
+- Sulla base dell'aliquota d'imposta attesa per l'esercizio in cui si prevede avvenga il riversamento di ciascuna differenza temporanea.
+- Derivati non finalizzati a coprirsi da uno specifico rischio, in cui si investe esclusivamente per motivi speculativi.
+
+**D:** A quale grandezza della matematica finanziaria corrisponde il tasso di interesse effettivo, secondo il docente della lezione 14?
+**R:** Al **tasso interno di rendimento** applicato ai flussi in entrata e in uscita dell'operazione, dalla concessione del prestito alla sua restituzione: è il tasso che rende **zero** la somma algebrica dei flussi attualizzati ([00:14:25]–[00:15:24]).
+**Opzione:** Al tasso interno di rendimento dei flussi in entrata e in uscita dell'operazione, che ne rende nulla la somma algebrica attualizzata.
+**Distrattori:**
+- Al tasso nominale fissato nel contratto, applicato al capitale nominale prestato.
+- Per i criteri di valutazione adottati, al fair value, e per la presenza di derivati non di copertura con valori negativi; sono fonti di raccolta per la banca.
+- Una voce di costo del prospetto dell'art. 2425 c.c.: imposte sul reddito d'esercizio, correnti, differite, anticipate.
+
+**D:** Il costo ammortizzato è un principio o un criterio, e di che cosa tiene conto, secondo il docente della lezione 14?
+**R:** «Attenzione **non è un principio ma è un criterio**, cioè una modalità di calcolo di una specifica posta di bilancio»: si tiene conto di **tutti i costi** che gravano sul credito **per tutta la durata** del credito stesso ([00:10:19]–[00:10:48]).
+**Opzione:** Un criterio, cioè una modalità di calcolo di una posta di bilancio, che tiene conto di tutti i costi che gravano sul credito per tutta la sua durata.
+**Distrattori:**
+- Un principio contabile autonomo, che sostituisce il fair value nella valutazione dei crediti.
+- Nessun principio emanato dallo IASB se ne occupa specificamente: il tema è trattato incidentalmente nei documenti interpretativi SIC 16 e 17 e in alcuni IAS.
+- Per detenerle in portafoglio a lungo, con intento strategico partecipativo, perché fanno parte del gruppo o sono strumentali all'attività della banca.
+
+**D:** ⚠️ Nell'esempio della lezione 14, come si arriva al «costo» complessivo di 981 del credito originato?
+**R:** **1.000** di valore nominale erogato, meno **20** di commissione attiva **up-front del 2%**, «addebitata al cliente», più **1** di imposta sostitutiva, «sostenuta dalla banca» (slide 4). Il docente: «981 sarebbe 1000 meno 20 più 1» ([00:16:13]–[00:16:30]).
+**Opzione:** 1.000 di valore nominale, meno 20 di commissione up-front del 2% addebitata al cliente, più 1 di imposta sostitutiva sostenuta dalla banca.
+**Distrattori:**
+- 1.000 di valore nominale, meno 20 di commissione up-front del 2%, meno 1 di imposta sostitutiva addebitata al cliente.
+- Il consolidato dall'esercizio 2005; il bilancio di esercizio dall'esercizio 2006, con l'opzione di anticipare al 2005.
+- Il I il 18 novembre 2009, il II il 21 gennaio 2014 e il III il 22 dicembre 2014.
+
+**D:** ⚠️ Nell'esempio della lezione 14, quali sono i flussi di cassa annui del finanziamento e quale tasso effettivo ne risulta?
+**R:** **74** all'anno, cioè **70** di interessi al 7% su 1.000 più **4** di commissione annuale, e **1.074** il quinto anno, con il rimborso. Il tasso di rendimento effettivo, il TIR, è del **7,87%** (slide 4; docente [00:16:41]–[00:18:18]).
+**Opzione:** 74 all'anno, cioè 70 di interessi al 7% su 1.000 più 4 di commissione, e 1.074 il quinto anno; il tasso effettivo è del 7,87%.
+**Distrattori:**
+- 74 all'anno, cioè 70 di interessi al 7% su 1.000 più 4 di commissione, e 1.074 il quinto anno; il tasso effettivo è del 7%, uguale al nominale.
+- Come passività, al netto, di norma, degli eventuali crediti verso l'erario e degli acconti versati.
+- Le riserve da valutazione alla voce 110; le azioni proprie alla voce 170, con il segno meno.
+
+**D:** ⚠️ Nell'esempio della lezione 14, come evolve il valore d'iscrizione in bilancio del credito al costo ammortizzato?
+**R:** **981** all'erogazione, poi **984,4**, **987,9**, **991,6**, **995,6** e **1.000** alla scadenza (slide 4). Ogni anno si aggiunge la differenza fra interessi effettivi e nominali: 981 + 3,4 = 984,4, e così via ([00:18:32]–[00:20:20]).
+**Opzione:** 981 all'erogazione, poi 984,4; 987,9; 991,6; 995,6; e 1.000 alla scadenza.
+**Distrattori:**
+- 1.000 all'erogazione, poi 995,6; 991,6; 987,9; 984,4; e 981 alla scadenza.
+- La Circolare n. 262 del 2005.
+- In 10 parti, identificate da lettere maiuscole dalla A alla L.
+
+**D:** ⚠️ Nell'esempio della lezione 14, quale effetto ha ogni anno il credito sul conto economico della banca?
+**R:** **77,4**, **77,5**, **77,7**, **78,0** e **78,4**: i **74** di interessi liquidati e commissioni più la **differenza** fra interessi effettivi e nominali, cioè 3,4; 3,5; 3,7; 4,0; 4,4 (slide 4–5). Il rendimento di riscontro è sempre 7,87%.
+**Opzione:** 77,4; 77,5; 77,7; 78,0; 78,4: i 74 di interessi e commissioni più la differenza fra interessi effettivi e nominali.
+**Distrattori:**
+- 74 ogni anno: solo gli interessi nominali e le commissioni periodiche, perché la differenza va a patrimonio netto.
+- 110 Riserve da valutazione; 120 Azioni rimborsabili; 130 Strumenti di capitale; 140 Riserve; 150 Sovrapprezzi di emissione; 160 Capitale; 170 Azioni proprie (-); 180 Utile (Perdita) di esercizio (+/-).
+- Attività fiscali: a) correnti, b) anticipate; passività fiscali: a) correnti, b) differite.
+
+**D:** ⚠️ Che cosa sono i 19 dell'esempio della lezione 14, e come si riducono nel tempo?
+**R:** «La differenza complessiva di **19** tra valore nominale erogato (**1.000**) e costo originario iscritto (**981**) si ridurrà di **3,4** alla fine del primo anno, **3,5** alla fine del secondo anno, e così via **in misura crescente** man mano che si ridurrà il tempo mancante alla scadenza» (slide 5).
+**Opzione:** La differenza fra valore nominale erogato (1.000) e costo originario (981); si riduce di 3,4 il primo anno, 3,5 il secondo e così via, in misura crescente man mano che si avvicina la scadenza.
+**Distrattori:**
+- La differenza fra valore nominale erogato (1.000) e costo originario (981); si riduce di 3,4 il primo anno, 3,5 il secondo e così via, in misura decrescente man mano che si avvicina la scadenza.
+- Si determinano quando il maggiore o minore valore fiscale assegnato ad una posta in bilancio di un determinato esercizio, non viene riassorbito negli esercizi successivi.
+- Che per contenere l'onere fiscale si dovessero imputare a C.E. civilistico anche componenti negativi privi di giustificazione economica o civilistica, con un forte inquinamento del risultato d'esercizio.
+
+**D:** Perché, secondo il docente della lezione 14, il costo ammortizzato ripartisce i 19 euro sull'intera durata del credito?
+**R:** Per non farli «gravare su un unico esercizio», ma ripartirli per l'intera durata del credito, «rispettando il principio della **competenza economica**». La somma delle differenze fra interessi effettivi e nominali dà esattamente 19, cioè la commissione di istruttoria meno l'imposta ([00:21:21]–[00:22:27]).
+**Opzione:** Per ripartirli sull'intera durata del credito invece di farli gravare su un unico esercizio, rispettando il principio della competenza economica.
+**Distrattori:**
+- Per imputarli interamente all'esercizio dell'erogazione, rispettando il principio di prudenza.
+- Per consentire al terzo lettore del bilancio un'immediata percezione dell'esistenza di azioni proprie.
+- In sede di Dichiarazione dei Redditi, nel prospetto di raccordo tra il risultato economico di competenza e il reddito imponibile.
+
+**D:** ⚠️ Quali due impatti sul bilancio ha il processo di attualizzazione sulla base del tasso di interesse effettivo, secondo la lezione 14?
+**R:** «Il **valore di iscrizione del credito** fra le attività dello stato patrimoniale **si modifica nel tempo** e può sia aumentare che diminuire, in relazione al fatto che le componenti non ricorrenti siano negative o positive»; «contestualmente, lo stesso effetto si ripercuoterà… anche sul **conto economico**» (slide 5).
+**Opzione:** Il valore di iscrizione del credito fra le attività si modifica nel tempo, e può aumentare o diminuire secondo il segno delle componenti non ricorrenti; contestualmente lo stesso effetto si ripercuote di anno in anno sul conto economico.
+**Distrattori:**
+- Il valore di iscrizione del credito resta fermo al valore nominale erogato; solo il conto economico registra di anno in anno la differenza fra interessi effettivi e nominali.
+- A modalità di contabilizzazione, non ammissibili nel nostro ordinamento, che non fanno concorrere il componente reddituale alla formazione del risultato dell'esercizio corrente.
+- Non fallisce, ma è sottoposta a liquidazione coatta amministrativa; il perimetro coinvolto è molto più vasto e, poiché le banche si prestano denaro fra loro, può innescare fallimenti a catena e il panico da sportello.
+
+**D:** ⚠️ Che cosa occorre verificare con l'impairment test di un credito, secondo la lezione 14?
+**R:** «Se il valore del credito è **sempre integro**; o se, a causa del **deteriorarsi della solvibilità del debitore**, possano attendersi **perdite in conto capitale e/o in conto interessi** che andranno a diminuire i futuri flussi di cassa attesi» (slide 6). Per il docente è un «test di mantenimento del valore» ([00:11:45]).
+**Opzione:** Se il valore del credito è sempre integro, o se per il deteriorarsi della solvibilità del debitore possano attendersi perdite in conto capitale e/o in conto interessi che diminuiranno i futuri flussi di cassa attesi.
+**Distrattori:**
+- Se il valore del credito è sempre integro, o se per il deteriorarsi della solvibilità della banca possano attendersi perdite in conto capitale e/o in conto interessi che diminuiranno i futuri flussi di cassa attesi.
+- I debiti verso banche, insieme a parte dei titoli in circolazione; riflettono le politiche di raccolta sul mercato interbancario e nei rapporti con altre banche e con le Autorità di politica monetaria.
+- Titoli emessi dalla banca (obbligazioni, buoni fruttiferi, certificati di deposito, titoli subordinati) per raccogliere fondi; li sottoscrive la clientela, e in parte altre banche e altri intermediari finanziari.
+
+**D:** ⚠️ Come si misura la rettifica di valore da impairment test di un credito, e dove va, secondo la lezione 14?
+**R:** Con il «confronto tra l'originario valore di iscrizione in bilancio con il nuovo valore rettificato ottenuto rideterminando il **valore attuale dei minori flussi di cassa** ora attesi». «La differenza **decurta il valore di iscrizione del credito** fra le attività dello stato patrimoniale ed è portata **in conto economico** tra gli elementi negativi di reddito (**rettifiche di valore**)» (slide 6).
+**Opzione:** Confrontando il valore di iscrizione con il valore attuale dei minori flussi di cassa attesi; la differenza decurta il credito ed è portata a conto economico fra le rettifiche di valore.
+**Distrattori:**
+- Confrontando il valore di iscrizione con il valore attuale dei minori flussi di cassa attesi; la differenza decurta il credito ed è portata a patrimonio netto, in una riserva da valutazione.
+- Il risultato netto positivo della partecipazione al sistema dei pagamenti; riflette la gestione della liquidità e della tesoreria, nella misura in cui muove il saldo quotidiano sui conti accentrati presso le banche centrali.
+- Ogni voce è un comparto del portafoglio investimenti, distinto per finalità, per tipologie di attività comprese e per criteri di valutazione; riflettono le politiche di investimento sui mercati finanziari.
+
+**D:** ⚠️ Quali impatti ha un credito sul conto economico di una banca, con il loro segno, secondo la lezione 14?
+**R:** «**(+)** interessi attivi, determinati **al tasso nominale**, ed eventuali commissioni; **(+/−)** effetto costo ammortizzato; **(−)** rettifiche di valore; **(+)** riprese di valore» (slide 6). Per il docente il segno dell'effetto costo ammortizzato «dipende dalle caratteristiche del prestito» ([00:25:38]).
+**Opzione:** (+) interessi attivi al tasso nominale ed eventuali commissioni; (+/-) effetto costo ammortizzato; (-) rettifiche di valore; (+) riprese di valore.
+**Distrattori:**
+- (+) interessi attivi al tasso effettivo ed eventuali commissioni; (+/-) effetto costo ammortizzato; (-) rettifiche di valore; (+) riprese di valore.
+- Stato patrimoniale; conto economico; prospetto della redditività complessiva; prospetto delle variazioni del patrimonio netto; rendiconto finanziario.
+- a) impegni e garanzie; b) quiescenza e obblighi simili; c) altri fondi.
+
+**D:** Quali segnali indicano, per il docente della lezione 14, che un credito si è deteriorato?
+**R:** Per esempio «un **ritardo nelle rate** di restituzione», o l'incapacità dell'impresa di far fronte ai creditori perché sottoposta a **procedimenti esecutivi** da parte di terzi: elementi che mostrano che il debitore non fa più fronte con regolarità ai propri impegni ([00:13:04]–[00:13:35]).
+**Opzione:** Ritardi nelle rate di restituzione, o procedimenti esecutivi di terzi creditori, che mostrano che il debitore non fa più fronte con regolarità ai propri impegni.
+**Distrattori:**
+- L'aumento dei tassi di interesse di mercato, che riduce il valore del credito anche se il debitore paga con regolarità.
+- Le società quotate in borsa, le banche e le compagnie assicuratrici, oltre ad altri soggetti vigilati da autorità speciali.
+- Bisognava riesprimere il bilancio dell'una secondo i principi nazionali dell'altra: un confronto lunghissimo, costosissimo e difficilissimo.
+
+**D:** Quali due logiche di perdita contrappone la lezione 14 nell'impairment test, e come le legge il docente?
+**R:** «**Lifetime expected loss** vs **incurred loss**» (slide 6). Il docente le legge come «**perdite attese** o perdite effettivamente **già scontate**, già in qualche modo patite» ([00:25:17]). La nota spiega in un blocco ℹ️ il passaggio dallo IAS 39 all'IFRS 9.
+**Opzione:** Lifetime expected loss e incurred loss: per il docente, le perdite attese e le perdite già patite.
+**Distrattori:**
+- Lifetime expected loss e incurred loss: per il docente, le perdite su crediti e le perdite su titoli.
+- I derivati di copertura.
+
+**D:** ⚠️ Di che cosa si occupano lo IAS 32, lo IAS 39 e l'IFRS 9, secondo il docente della lezione 14?
+**R:** Lo **IAS 32** «della struttura e della classificazione» delle attività finanziarie; lo **IAS 39** «della loro valorizzazione, quindi valutazione»; l'**IFRS 9** «ha sostituito lo IAS 39» ([00:26:31]–[00:27:19]). In tutti e tre c'è la definizione di strumento finanziario.
+**Opzione:** Lo IAS 32 della struttura e della classificazione delle attività finanziarie, lo IAS 39 della loro valutazione; l'IFRS 9 ha sostituito lo IAS 39.
+**Distrattori:**
+- Lo IAS 39 della struttura e della classificazione delle attività finanziarie, lo IAS 32 della loro valutazione; l'IFRS 9 ha sostituito lo IAS 32.
+- Nell'OCI, Other Comprehensive Income, che raccoglie le variazioni di natura economica che non trovano indicazione nel conto economico.
+- Dal documento OIC n. 28, che esamina la funzione e le modalità di formazione delle singole voci.
+
+**D:** ⚠️ Che cos'è un'attività finanziaria secondo IAS 32, IAS 39 e IFRS 9, nella lezione 14?
+**R:** «Una qualsiasi attività che sia: una **disponibilità liquida**; un **diritto contrattuale a ricevere** disponibilità liquide o un'altra attività finanziaria da un'altra entità; un **diritto contrattuale a scambiare** strumenti finanziari con un'altra entità a condizioni potenzialmente favorevoli; uno **strumento rappresentativo di patrimonio netto di un'altra impresa**» (slide 7).
+**Opzione:** Una disponibilità liquida; un diritto contrattuale a ricevere disponibilità liquide o un'altra attività finanziaria da un'altra entità; un diritto contrattuale a scambiare strumenti finanziari con un'altra entità a condizioni potenzialmente favorevoli; uno strumento rappresentativo di patrimonio netto di un'altra impresa.
+**Distrattori:**
+- Una disponibilità liquida; un diritto contrattuale a ricevere disponibilità liquide o un'altra attività finanziaria da un'altra entità; un diritto contrattuale a scambiare strumenti finanziari con un'altra entità a condizioni potenzialmente favorevoli; uno strumento rappresentativo di patrimonio netto della stessa impresa.
+- Titoli di debito, finanziamenti, derivati non di copertura con valore negativo e altre passività finanziarie, classificati fra le passività di negoziazione e fra quelle valutate al fair value.
+- Finanziamenti ricevuti da banche (depositi passivi in conto corrente, altri finanziamenti, ecc.) e altri debiti verso banche, compresi i debiti verso le Banche Centrali, come i rifinanziamenti della BCE.
+
+**D:** ⚠️ In quali comparti operativi è suddiviso sostanzialmente il portafoglio di attività finanziarie di una banca, secondo la slide 8 della lezione 14?
+**R:** «Il **portafoglio di negoziazione**, il **portafoglio degli investimenti immobilizzati**, il **portafoglio dei titoli disponibili per la vendita**» (slide 8). Per il docente su questi comparti opera l'ufficio titoli della banca ([00:28:31]). ⚠️ Il test della lezione 14 (domanda 5) usa lo stesso enunciato, ma dà come risposta le tre categorie IFRS 9 della slide 9.
+**Opzione:** Il portafoglio di negoziazione, il portafoglio degli investimenti immobilizzati e il portafoglio dei titoli disponibili per la vendita.
+**Distrattori:**
+- Il portafoglio di negoziazione, il portafoglio degli investimenti immobilizzati e il portafoglio dei crediti verso la clientela.
+- a) debiti verso banche; b) debiti verso la clientela; c) titoli in circolazione.
+- I crediti verso la clientela all'attivo; i debiti verso clientela e i titoli in circolazione al passivo.
+
+**D:** ⚠️ Per quali due motivi una banca ha attività finanziarie in portafoglio, dal punto di vista della gestione operativa, secondo la lezione 14?
+**R:** «**Partecipare alle negoziazioni di mercato**, e trarne utili (o perdite) dalle **differenze tra i prezzi** di acquisizione e i prezzi di cessione; effettuare **investimenti di non breve periodo**, e registrarne ricavi dai **frutti** (interessi maturati, dividendi distribuiti, plusvalenze – e minusvalenze – realizzate)» (slide 8). Per il docente il secondo è una gestione «molto più conservativa» ([00:29:53]).
+**Opzione:** Partecipare alle negoziazioni di mercato, traendo utili o perdite dalle differenze tra prezzi di acquisizione e di cessione; effettuare investimenti di non breve periodo, registrandone i frutti: interessi, dividendi, plusvalenze e minusvalenze realizzate.
+**Distrattori:**
+- Partecipare alle negoziazioni di mercato, registrandone i frutti: interessi, dividendi, plusvalenze e minusvalenze realizzate; effettuare investimenti di non breve periodo, traendo utili dalle differenze tra prezzi di acquisizione e di cessione.
+- Nel trasferire la liquidità dai soggetti in surplus a quelli in deficit finanziario: la banca raccoglie il risparmio di famiglie ed enti e lo impiega presso le imprese, come cinghia di trasmissione fra risparmio e investimento.
+- Nei nazionali si possono capitalizzare fra i costi di impianto e ampliamento, con il consenso del collegio sindacale; negli IAS non si capitalizzano e vanno portati a riduzione delle somme acquisite con l'operazione.
+
+**D:** ⚠️ Quali sigle usa la lezione 14 per le tre categorie di attività finanziarie dell'IFRS 9?
+**R:** «Attività finanziarie valutate al fair value con impatto a conto economico (**FVTPL**)», «Attività finanz. valutate al fair value con impatto a redditività complessiva (**FVTOCI**)», «Attività finanziarie valutate al costo ammortizzato (**HTC**)» (slide 9). Le FVTPL comprendono le detenute per la negoziazione, le designate al fair value (FVO) e le obbligatoriamente valutate al fair value; le HTC i crediti verso banche e verso la clientela.
+**Opzione:** FVTPL per il fair value con impatto a conto economico; FVTOCI per il fair value con impatto a redditività complessiva; HTC per il costo ammortizzato.
+**Distrattori:**
+- FVTOCI per il fair value con impatto a conto economico; FVTPL per il fair value con impatto a redditività complessiva; HTC per il costo ammortizzato.
+- Civilistici: determinare utile e patrimonio netto con criteri di prudenza; IAS/IFRS: fornire ai mercati finanziari informazioni sul valore reale dell'impresa.
+- Nella banca dalla voce 110 in poi, fra le ultime voci; nel bilancio civilistico è la prima voce del passivo, la A.
+
+**D:** ⚠️ Quali erano le categorie di attività finanziarie nella precedente versione dello IAS 39, secondo la lezione 14?
+**R:** «Attività finanziarie **detenute per la negoziazione** (HFT – Held for Trading); attività finanziarie **valutate al fair value**; attività finanziarie **disponibili per la vendita** (AFS – Available for Sale); attività finanziarie **detenute fino a scadenza** (HTM – Held to Maturity)» (slide 9). Per il docente erano quattro, e con l'IFRS 9 sono diventate tre ([00:30:48]–[00:31:31]).
+**Opzione:** Detenute per la negoziazione (HFT); valutate al fair value; disponibili per la vendita (AFS); detenute fino a scadenza (HTM).
+**Distrattori:**
+- Detenute per la negoziazione (HFT); valutate al fair value; disponibili per la vendita (AFS); valutate al costo ammortizzato (HTC).
+- L'attivo a liquidità decrescente, dalle poste più liquide alle meno liquide; il passivo a esigibilità crescente, con il patrimonio netto nelle ultime voci.
+- Relazione sulla gestione, schemi di bilancio e nota integrativa; relazioni accessorie: del collegio sindacale e del revisore legale.
+
+**D:** ⚠️ Perché il tasso di interesse effettivo è diverso dal tasso di interesse nominale, secondo il test della lezione 14 (domanda 1)?
+**R:** «**Perché vi è differenza tra il credito vantato verso il cliente e il costo complessivamente sostenuto dal cliente stesso**». La slide 2 parla di «non coincidenza tra credito vantato verso il cliente e costo complessivo sostenuto», cioè il costo che la banca sostiene per erogare il credito. «Dal cliente» è la versione del docente ([00:04:27]): è la stessa grandezza vista dall'altra parte. Distrattori del test: l'inflazione, «perché sono crediti verso la clientela», «perché sono debiti verso la clientela».
+**Opzione:** Perché vi è differenza tra il credito vantato verso il cliente e il costo complessivamente sostenuto dal cliente stesso.
+**Distrattori:**
+- Perché vi è inflazione.
+- Perché sono crediti verso la clientela.
+- Perché sono debiti verso la clientela.
+
+**D:** ⚠️ Qual è il principale impatto sul bilancio dell'attualizzazione sulla base dell'interesse effettivo, secondo il test della lezione 14 (domanda 2)?
+**R:** «**Il valore di iscrizione del credito nell'attivo patrimoniale si modifica nel tempo**»: è il primo dei due impatti della slide 5. Nell'esempio sale da 981 a 1.000. ⚠️ I distrattori del test applicano la stessa formula alla **cassa**, al **debito** nel passivo e al **capitale sociale** nel patrimonio netto: è un oggetto scambiato.
+**Opzione:** Il valore di iscrizione del credito nell'attivo patrimoniale si modifica nel tempo.
+**Distrattori:**
+- Il valore di iscrizione della cassa nell'attivo patrimoniale si modifica nel tempo.
+- Il valore di iscrizione del debito nel passivo patrimoniale si modifica nel tempo.
+- Il valore di iscrizione del capitale sociale nel patrimonio netto si modifica nel tempo.
+
+**D:** ⚠️ Che cosa comporta l'impairment test dei crediti, secondo il test della lezione 14 (domanda 3)?
+**R:** Una «**rettifica del valore del credito**»: per la slide 6 «l'impairment test comporta una rettifica del valore del credito (costo ammortizzato, o costo)». La differenza decurta il credito e va a conto economico fra le rettifiche di valore. Distrattori del test: la cancellazione, l'«immobilizzazione» e la trasformazione del credito in debito.
+**Opzione:** Rettifica del valore del credito.
+**Distrattori:**
+- Cancellazione del credito.
+- Immobilizzazione del credito.
+- Trasformazione del credito in debito.
+
+**D:** ⚠️ Che cosa si intende per strumento finanziario, secondo il test della lezione 14 (domanda 4)?
+**R:** «**Qualsiasi contratto che dia contemporaneamente origine ad un'attività finanziaria per un'entità e a una passività finanziaria o a uno strumento rappresentativo di patrimonio netto per un'altra entità**», la slide 7 alla lettera. ⚠️ Il vicino del test è «crediti e debiti»: somiglia alla parafrasi del docente, ma perde lo strumento rappresentativo di patrimonio netto, cioè le azioni. Gli altri distrattori sono «un'immobilizzazione e un fondo» e «un rateo e un risconto».
+**Opzione:** Qualsiasi contratto che dia contemporaneamente origine ad un'attività finanziaria per un'entità e a una passività finanziaria o a uno strumento rappresentativo di patrimonio netto per un'altra entità.
+**Distrattori:**
+- Qualsiasi contratto che dia contemporaneamente origine a crediti e debiti.
+- Qualsiasi contratto che dia contemporaneamente origine ad una immobilizzazione e ad un fondo.
+- Qualsiasi contratto che dia contemporaneamente origine ad un rateo e ad un risconto.
+
+**D:** ⚠️ In che cosa è suddiviso il portafoglio di attività finanziarie di una banca, secondo il test della lezione 14 (domanda 5)?
+**R:** In «**attività finanziarie valutate al fair value con impatto a conto economico, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al costo ammortizzato**»: le tre categorie IFRS 9 della slide 9. ⚠️ L'enunciato è quello della slide 8, che però continua con i tre **comparti operativi** (negoziazione, investimenti immobilizzati, titoli disponibili per la vendita), assenti dalle opzioni. I distrattori sono una matrice a tre assi: impatto «stato patrimoniale», «disponibilità» complessiva, «ricavo» ammortizzato.
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto stato patrimoniale, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al costo ammortizzato.
+- Attività finanziarie valutate al fair value con impatto stato patrimoniale, attività finanziarie valutate al fair value con impatto sulla disponibilità complessiva, attività finanziarie valutate al costo ammortizzato.
+- Attività finanziarie valutate al fair value con impatto a conto economico, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al ricavo ammortizzato.
