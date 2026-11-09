@@ -4194,3 +4194,285 @@
 - La redditività complessiva alla fine del prospetto; l'utile d'esercizio dà un'informativa più completa sulle componenti affluite alla riserva da valutazione invece che al conto economico.
 - Scritta e tracciabile nel tempo: ogni categoria ha regole di contabilizzazione e di rappresentazione diverse, e una classificazione sbagliata altererebbe il bilancio.
 - Solo una perdita durevole e non facilmente recuperabile, come in uno stato di pre-fallimento; le mere oscillazioni di quotazione restano variazioni di fair value da riserva.
+
+## Lezione 17 — PVPN, rendiconto finanziario e nota integrativa
+
+**D:** ⚠️ Quale finalità ha il prospetto delle variazioni del patrimonio netto (PVPN), secondo il test della lezione 17 (domanda 1)?
+**R:** «Porre in rilievo **le voci che compongono il patrimonio netto della banca e le variazioni che si registrano in ciascuna di esse nel corso dell'esercizio**»: è la slide 2 alla lettera. Distrattori del test: «le riserve di patrimonio netto», «la perdita dell'esercizio», «l'utile dell'esercizio», cioè singole voci del prospetto.
+**Opzione:** Le voci che compongono il patrimonio netto della banca e le variazioni che si registrano in ciascuna di esse nel corso dell'esercizio.
+**Distrattori:**
+- Le riserve di patrimonio netto.
+- La perdita dell'esercizio.
+- L'utile dell'esercizio.
+
+**D:** ⚠️ Quali voci compongono, nell'ordine, le righe del prospetto delle variazioni del patrimonio netto della banca, secondo la slide 2 della lezione 17?
+**R:** **Capitale** (a) azioni ordinarie; b) altre azioni); **sovrapprezzi di emissione**; **riserve** (a) di utili; b) altre); **riserve da valutazione**; **strumenti di capitale**; **acconti su dividendi**; **azioni proprie**; **utile (perdita) di esercizio**; in fondo il **patrimonio netto** (slide 2).
+**Opzione:** Capitale (azioni ordinarie e altre azioni); sovrapprezzi di emissione; riserve (di utili e altre); riserve da valutazione; strumenti di capitale; acconti su dividendi; azioni proprie; utile (perdita) di esercizio.
+**Distrattori:**
+- Capitale (azioni ordinarie e altre azioni); sovrapprezzi di emissione; riserve (di utili e altre); riserve da valutazione; strumenti di capitale; acconti su dividendi; azioni proprie; fondi per rischi e oneri.
+- 30 margine d'interesse; 60 commissioni nette; 120 margine di intermediazione; 150 risultato netto della gestione finanziaria.
+- Detenute per la negoziazione (HFT); valutate al fair value; disponibili per la vendita (AFS); detenute fino a scadenza (HTM).
+
+**D:** ⚠️ Con quali colonne si apre il prospetto delle variazioni del patrimonio netto, e quali colonne ha l'allocazione del risultato dell'esercizio precedente, secondo la slide 2 della lezione 17?
+**R:** Si apre con **esistenze al 31.12.T0**, **modifica saldi apertura** ed **esistenze al 1.1.T1**. L'**allocazione del risultato dell'esercizio precedente** ha due colonne: **riserve** e **dividendi e altre destinazioni** (slide 2). Per il docente la modifica dei saldi di apertura corregge errori di classificazione o di quantificazione, ed è «molto raro che sia valorizzata» ([00:10:18]).
+**Opzione:** Esistenze al 31.12.T0, modifica saldi apertura, esistenze al 1.1.T1; l'allocazione del risultato precedente ha le colonne riserve e dividendi e altre destinazioni.
+**Distrattori:**
+- Esistenze al 31.12.T0, modifica saldi apertura, esistenze al 1.1.T1; l'allocazione del risultato precedente ha le colonne riserve e acquisto azioni proprie.
+- 74 all'anno, cioè 70 di interessi al 7% su 1.000 più 4 di commissione, e 1.074 il quinto anno; il tasso effettivo è del 7,87%.
+- Le banche la Banca d'Italia, le assicurazioni l'IVASS, gli altri operatori finanziari la Banca d'Italia.
+
+**D:** ⚠️ Quali sono, nell'ordine, le operazioni sul patrimonio netto del prospetto delle variazioni del patrimonio netto, secondo la slide 2 della lezione 17?
+**R:** **Emissione nuove azioni**; **acquisto azioni proprie**; **distribuzione straordinaria dividendi**; **variazione strumenti di capitale**; **derivati su proprie azioni**; ***stock options*** (slide 2). Insieme alle variazioni di riserve e alla redditività complessiva dell'esercizio T1 formano le variazioni dell'esercizio.
+**Opzione:** Emissione nuove azioni; acquisto azioni proprie; distribuzione straordinaria dividendi; variazione strumenti di capitale; derivati su proprie azioni; stock options.
+**Distrattori:**
+- Emissione nuove azioni; acquisto azioni proprie; distribuzione straordinaria dividendi; variazione strumenti di capitale; derivati su proprie azioni; accantonamenti ai fondi per rischi e oneri.
+- Costi operativi (voce 210); utile (perdita) della operatività corrente; utile (perdita) d'esercizio (voce 300).
+- FVTPL per il fair value con impatto a conto economico; FVTOCI per il fair value con impatto a redditività complessiva; HTC per il costo ammortizzato.
+
+**D:** ⚠️ Quali tre gruppi di colonne compongono le variazioni dell'esercizio nel prospetto delle variazioni del patrimonio netto, secondo la slide 2 della lezione 17?
+**R:** Le **variazioni di riserve**; le **operazioni sul patrimonio netto**; la **redditività complessiva esercizio T1** (slide 2). Dopo viene la colonna di chiusura, il **patrimonio netto al 31.12.T1**. La redditività complessiva è il risultato del prospetto della redditività complessiva della lezione 16.
+**Opzione:** Le variazioni di riserve, le operazioni sul patrimonio netto e la redditività complessiva dell'esercizio T1.
+**Distrattori:**
+- Le variazioni di riserve, le operazioni sul patrimonio netto e l'utile (perdita) dell'esercizio T1.
+- Il portafoglio di negoziazione, il portafoglio degli investimenti immobilizzati e il portafoglio dei titoli disponibili per la vendita.
+- Alle available for sale, cioè le disponibili per la vendita: la categoria ha cambiato nome.
+
+**D:** Perché il prospetto delle variazioni del patrimonio netto è ancora più importante nel bilancio della banca, secondo il docente della lezione 17?
+**R:** Perché nella banca il patrimonio netto non ha solo una funzione contabile, ma anche di **copertura dei rischi** assunti verso terzi: per la vigilanza è «il **cuscinetto**», l'elemento che assorbe i rischi non correttamente definiti o calcolati. Rappresenta i soldi che ci ha messo la banca stessa, cioè i soci ([00:03:33]–[00:05:37], [00:14:23]).
+**Opzione:** Perché il patrimonio netto ha anche una funzione di copertura dei rischi: per la vigilanza è il cuscinetto che assorbe i rischi non correttamente definiti o calcolati.
+**Distrattori:**
+- Perché il patrimonio netto ha anche una funzione di raccolta dei depositi: per la vigilanza è la fonte che finanzia i crediti verso la clientela.
+- Una struttura dello stato patrimoniale diversa da un anno all'altro: non un errore del compilatore, ma il passaggio dalle categorie dello IAS 39 a quelle dell'IFRS 9.
+- Scritta e tracciabile nel tempo: ogni categoria ha regole di contabilizzazione e di rappresentazione diverse, e una classificazione sbagliata altererebbe il bilancio.
+
+**D:** Che effetto ha l'acquisto di azioni proprie sul patrimonio netto, e con quale segno compaiono nel prospetto, secondo il docente della lezione 17?
+**R:** «L'acquisto di azioni proprie equivale a una **riduzione del capitale** sociale»: la società «annacqua» il proprio capitale. Per questo le azioni proprie sono riportate sempre con il **segno negativo** ([00:09:10]–[00:09:37]).
+**Opzione:** Equivale a una riduzione del capitale sociale, e per questo le azioni proprie sono riportate sempre con il segno negativo.
+**Distrattori:**
+- Equivale a un aumento del capitale sociale, e per questo le azioni proprie sono riportate sempre con il segno positivo.
+- Viene riclassificato fra le attività finanziarie disponibili per la vendita.
+- Entrambe a conto economico.
+
+**D:** ⚠️ Dove sta il prospetto delle variazioni del patrimonio netto negli OIC e dove nei principi internazionali, secondo il docente della lezione 17?
+**R:** Negli **OIC** la sua compilazione è prevista, ma **dentro la nota integrativa**, senza rilevanza separata. Nei principi internazionali, per banche, altri operatori finanziari e compagnie assicurative, è un **documento a sé stante**, costitutivo del bilancio ([00:14:52]–[00:15:58]).
+**Opzione:** Negli OIC dentro la nota integrativa; nei principi internazionali è un documento a sé stante del bilancio.
+**Distrattori:**
+- Negli OIC dentro la relazione sulla gestione; nei principi internazionali è un documento a sé stante del bilancio.
+- Held for trading: attività finanziarie detenute per la negoziazione.
+- Nel bilancio del locatore, cioè di chi concede il bene in uso all'utilizzatore.
+
+**D:** Che cosa sono le stock options del prospetto delle variazioni del patrimonio netto, secondo il docente della lezione 17?
+**R:** Azioni riconosciute a **condizioni più vantaggiose** a **dipendenti, collaboratori o amministratori** della società: aumenti di capitale riservati a queste categorie di soggetti ([00:13:17]–[00:13:44]).
+**Opzione:** Azioni riconosciute a condizioni più vantaggiose a dipendenti, collaboratori o amministratori: aumenti di capitale riservati a queste categorie.
+**Distrattori:**
+- Azioni riconosciute a condizioni più vantaggiose agli azionisti di minoranza: aumenti di capitale riservati a questa categoria.
+- Prestiti obbligazionari di altri istituti, rimborsabili solo dopo il rimborso di tutti gli altri creditori dell'emittente.
+- Rettifica del valore del credito.
+
+**D:** ⚠️ Che cosa evidenzia il rendiconto finanziario della banca, secondo il test della lezione 17 (domanda 2)?
+**R:** **I flussi finanziari assorbiti o generati nel corso dell'esercizio**: per la slide 3 il rendiconto «rileva la **liquidità generata o assorbita** dalla banca per effetto dell'attività operativa, di investimento e di provvista». Distrattori del test: «le entrate della banca», «le uscite della banca», «quanto rimane in cassa al termine dell'esercizio». Le entrate e le uscite sono metà del flusso; la cassa finale è l'ultima riga della riconciliazione.
+**Opzione:** I flussi finanziari assorbiti o generati nel corso dell'esercizio.
+**Distrattori:**
+- Le entrate della banca.
+- Le uscite della banca.
+- Quanto rimane in cassa al termine dell'esercizio.
+
+**D:** ⚠️ Che cosa rileva il rendiconto finanziario della banca, secondo la slide 3 della lezione 17?
+**R:** «La **liquidità generata o assorbita** dalla banca per effetto dell'attività **operativa**, di **investimento** e di **provvista** che essa ha posto in essere nel periodo» (slide 3). Per il docente dice «se e quanta liquidità è stata generata o assorbita» ([00:18:41]–[00:19:34]).
+**Opzione:** La liquidità generata o assorbita dalla banca per effetto dell'attività operativa, di investimento e di provvista che essa ha posto in essere nel periodo.
+**Distrattori:**
+- La liquidità generata o assorbita dalla banca per effetto dell'attività operativa, di investimento e di copertura dei rischi che essa ha posto in essere nel periodo.
+- Oltre all'utile (perdita) d'esercizio, altre componenti reddituali non rilevate a conto economico: essenzialmente le variazioni di valore delle attività registrate nell'esercizio in contropartita delle riserve da valutazione.
+- Al tasso interno di rendimento dei flussi in entrata e in uscita dell'operazione, che ne rende nulla la somma algebrica attualizzata.
+
+**D:** ⚠️ La redazione del rendiconto finanziario della banca è obbligatoria, secondo il test della lezione 17 (domanda 3)?
+**R:** «**Sì**». Per il docente il rendiconto è da sempre obbligatorio per i principi internazionali, che le banche adottano; in Italia lo è per legge dal 1° gennaio 2016, «quindi va sempre redatto» ([00:15:58]–[00:19:11]). Distrattori del test: «no» e due soglie inventate, «solo per importo del totale attivo superiore a 10 milioni di euro» e «… a 20 milioni di euro». Ricordano la condizione dimensionale del rendiconto nazionale dei test 03 e 04.
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- Solo per importo del totale attivo superiore a 10 milioni di euro.
+- Solo per importo del totale attivo superiore a 20 milioni di euro.
+
+**D:** ⚠️ Da quando il rendiconto finanziario è obbligatorio per legge in Italia, e come era prima, secondo il docente della lezione 17?
+**R:** Dalla riforma del codice civile del **2015**, con applicazione dal **1° gennaio 2016**. Prima lo prevedevano solo i principi del Consiglio dell'Ordine dei Dottori Commercialisti e degli Esperti Contabili, che non avevano forza di legge: «una specie di consiglio». I principi internazionali lo hanno invece sempre previsto come obbligatorio ([00:15:58]–[00:19:11]).
+**Opzione:** Dal 1° gennaio 2016, dopo la riforma del codice civile del 2015; prima lo prevedevano solo i principi dei dottori commercialisti, senza forza di legge.
+**Distrattori:**
+- Dal 1° gennaio 2006, dopo il decreto legislativo del 2005; prima lo prevedevano solo i principi dei dottori commercialisti, senza forza di legge.
+- È stata rimandata più volte, per eventi imprevisti e straordinari, in attesa di un quadro macroeconomico più chiaro.
+- Il consiglio di amministrazione, con una delibera di inizio esercizio sulle politiche di investimento nel rispetto della normativa di vigilanza; le attua l'ufficio titoli.
+
+**D:** Perché, secondo il docente della lezione 17, la liquidità è più decisiva del risultato economico per la sopravvivenza dell'impresa?
+**R:** Un'impresa può restare in vita anche in **perdita economica**, con costi superiori ai ricavi. Se invece le **uscite superano le entrate** e non trova altro denaro, l'attività finisce: non può pagare stipendi, bollette, affitti, tasse, contributi. La liquidità è «la condizione essenziale per la vita dell'impresa» ([00:19:34]–[00:21:30]).
+**Opzione:** Un'impresa può restare in vita anche in perdita economica, ma se le uscite superano le entrate e non trova altro denaro l'attività finisce: la liquidità è la condizione essenziale per la sua vita.
+**Distrattori:**
+- Un'impresa può restare in vita anche senza liquidità, ma se i costi superano i ricavi l'attività finisce: il risultato economico è la condizione essenziale per la sua vita.
+- Un criterio, cioè una modalità di calcolo di una posta di bilancio, che tiene conto di tutti i costi che gravano sul credito per tutta la sua durata.
+- Il valore di iscrizione del credito fra le attività si modifica nel tempo, e può aumentare o diminuire secondo il segno delle componenti non ricorrenti; contestualmente lo stesso effetto si ripercuote di anno in anno sul conto economico.
+
+**D:** ⚠️ Chi può redigere il rendiconto finanziario con il metodo diretto e chi con l'indiretto, e quale si usa di norma, secondo il docente della lezione 17?
+**R:** Il **diretto** solo chi dispone della **contabilità** dell'impresa, perché bisogna sapere, per ogni costo e ricavo di competenza, se è stato pagato o incassato. L'**indiretto** anche chi ha solo il **bilancio** redatto secondo i principi internazionali: «per cui normalmente si utilizza il metodo **indiretto**» ([00:21:30]–[00:22:37]).
+**Opzione:** Il diretto solo chi dispone della contabilità; l'indiretto anche chi ha solo il bilancio, e per questo di norma si usa l'indiretto.
+**Distrattori:**
+- Il diretto anche chi ha solo il bilancio; l'indiretto solo chi dispone della contabilità, e per questo di norma si usa il diretto.
+- I proventi e gli oneri inerenti i servizi erogati e i servizi ricevuti: di incasso e pagamento, di intermediazione e gestione di strumenti finanziari, per garanzie, e così via.
+- Al fair value, di norma il corrispettivo incassato; valutate al fair value, con i risultati della valutazione a conto economico.
+
+**D:** ⚠️ In quale parte dello schema differiscono il rendiconto finanziario con il metodo diretto e quello con il metodo indiretto, e da dove parte l'indiretto, secondo le slide 3–4 della lezione 17?
+**R:** Solo nella **gestione** (A.1) dell'attività operativa. Il **diretto** elenca flussi di cassa: interessi attivi **incassati**, interessi passivi **pagati**, dividendi, commissioni nette, spese per il personale, ecc. L'**indiretto** parte dal **risultato d'esercizio** e lo rettifica: plus/minusvalenze, rettifiche e riprese di valore, accantonamenti, imposte non liquidate, altri aggiustamenti. Il resto dello schema è identico (slide 3–4).
+**Opzione:** Solo nella gestione dell'attività operativa: il diretto elenca incassi e pagamenti, come gli interessi attivi incassati; l'indiretto parte dal risultato d'esercizio e lo rettifica.
+**Distrattori:**
+- Solo nell'attività di provvista: il diretto elenca incassi e pagamenti, come gli interessi attivi incassati; l'indiretto parte dal risultato d'esercizio e lo rettifica.
+- (+) interessi attivi al tasso nominale ed eventuali commissioni; (+/-) effetto costo ammortizzato; (-) rettifiche di valore; (+) riprese di valore.
+- L'applicazione del criterio del costo o del costo ammortizzato al credito in essere a fine periodo; l'impairment test, con la rettifica di valore ove la qualità del credito si sia deteriorata fino a poter portare a perdite durevoli.
+
+**D:** ⚠️ Quali voci compongono la gestione dell'attività operativa nel rendiconto finanziario con il metodo diretto, secondo la slide 3 della lezione 17?
+**R:** Interessi attivi incassati (+); interessi passivi pagati (−); dividendi e proventi simili (+); commissioni nette (+/−); spese per il personale (−); altri costi (−); altri ricavi (+); imposte e tasse (−); costi/ricavi relativi alle attività operative cessate al netto dell'effetto fiscale (+/−) (slide 3).
+**Opzione:** Interessi attivi incassati; interessi passivi pagati; dividendi e proventi simili; commissioni nette; spese per il personale; altri costi; altri ricavi; imposte e tasse; costi/ricavi relativi alle attività operative cessate al netto dell'effetto fiscale.
+**Distrattori:**
+- Risultato d'esercizio; interessi passivi pagati; dividendi e proventi simili; commissioni nette; spese per il personale; altri costi; altri ricavi; imposte e tasse; costi/ricavi relativi alle attività operative cessate al netto dell'effetto fiscale.
+- Al costo ammortizzato, con il metodo dell'interesse effettivo, cioè il tasso che sconta i futuri flussi di cassa stimati per la vita attesa dello strumento; e con l'impairment test.
+- Gli interessi maturati sulle diverse tipologie di attività e passività in contropartita con clientela, con banche, con altri operatori dei mercati finanziari (crediti e debiti, attività finanziarie quale che sia la categoria di appartenenza).
+
+**D:** ⚠️ Con quale segno entrano nella gestione del rendiconto finanziario con il metodo indiretto le plus/minusvalenze su attività di negoziazione e al fair value con impatto a conto economico, e le rettifiche/riprese di valore nette per rischio di credito, secondo la slide 4 della lezione 17?
+**R:** Le **plus/minusvalenze** su attività finanziarie detenute per la negoziazione e su attività/passività al fair value con impatto a conto economico entrano con il segno **(−/+)**, come quelle su attività di copertura. Le **rettifiche/riprese di valore** nette per rischio di credito con il segno **(+/−)**, come quelle su immobilizzazioni e gli accantonamenti (slide 4). Il punto di partenza è il risultato d'esercizio (+/−).
+**Opzione:** Le plus/minusvalenze con il segno (-/+); le rettifiche/riprese di valore nette per rischio di credito con il segno (+/-).
+**Distrattori:**
+- Le plus/minusvalenze con il segno (+/-); le rettifiche/riprese di valore nette per rischio di credito con il segno (-/+).
+- Solo fra le attività finanziarie detenute per la negoziazione.
+- A conto economico, per entrambe le categorie.
+
+**D:** ⚠️ In quali tre aree è diviso il rendiconto finanziario della banca, e come si ottiene la liquidità netta dell'esercizio, secondo la lezione 17?
+**R:** **A** attività **operativa**; **B** attività di **investimento**; **C** attività di **provvista**. La liquidità netta generata/assorbita nell'esercizio è **D = A ± B ± C** (slide 3–4). Per il docente sono «tre motori»: la gestione corrente, l'investimento o disinvestimento, la provvista o restituzione ([00:22:37]–[00:24:08]).
+**Opzione:** A attività operativa, B attività di investimento, C attività di provvista; la liquidità netta dell'esercizio è D = A ± B ± C.
+**Distrattori:**
+- A attività operativa, B attività di investimento, C attività di negoziazione; la liquidità netta dell'esercizio è D = A ± B ± C.
+- Scalare: si parte dai ricavi e scendendo si incontrano costi e margini; lo stato patrimoniale è invece a sezioni contrapposte.
+- In una specifica riserva di patrimonio netto, dove si cumulano algebricamente fino alla cessione; alla dismissione utili e perdite cumulati vengono trasferiti a conto economico.
+
+**D:** ⚠️ In quale area del rendiconto finanziario della banca sta la liquidità generata o assorbita dalle attività e dalle passività finanziarie, secondo la lezione 17?
+**R:** Nell'**attività operativa**. Dopo la gestione, la parte 2 riguarda le attività finanziarie: detenute per la negoziazione, designate al fair value, obbligatoriamente valutate al fair value, al fair value con impatto sulla redditività complessiva, al costo ammortizzato, altre attività. La parte 3 riguarda le passività finanziarie: al costo ammortizzato, di negoziazione, designate al fair value, altre passività (slide 3–4). L'attività di investimento riguarda invece partecipazioni, attività materiali e immateriali e rami d'azienda.
+**Opzione:** Nell'attività operativa, dopo la gestione: la liquidità delle attività finanziarie e quella delle passività finanziarie.
+**Distrattori:**
+- Nell'attività di investimento, dopo le partecipazioni: la liquidità delle attività finanziarie e quella delle passività finanziarie.
+- La riserva obbligatoria fra i crediti verso banche, come credito verso Banche Centrali; i depositi a vista nella voce Cassa e disponibilità liquide.
+- Le partecipazioni in imprese sottoposte a influenza notevole o a controllo congiunto che lo IAS 28 e l'IFRS 11 consentono di assegnare a tale portafoglio.
+
+**D:** ⚠️ Da che cosa è generata e da che cosa è assorbita la liquidità dell'attività di investimento nel rendiconto finanziario della banca, secondo la lezione 17?
+**R:** **Generata** da: vendite di partecipazioni; **dividendi incassati su partecipazioni**; vendite di attività materiali; vendite di attività immateriali; vendite di rami d'azienda. **Assorbita** da: acquisti di partecipazioni; acquisti di attività materiali; acquisti di attività immateriali; acquisti di rami d'azienda (slide 3–4).
+**Opzione:** Generata da vendite di partecipazioni, dividendi incassati su partecipazioni, vendite di attività materiali, immateriali e di rami d'azienda; assorbita dagli acquisti di partecipazioni, attività materiali, immateriali e rami d'azienda.
+**Distrattori:**
+- Generata da vendite di partecipazioni, emissioni di azioni proprie, vendite di attività materiali, immateriali e di rami d'azienda; assorbita dagli acquisti di partecipazioni, attività materiali, immateriali e rami d'azienda.
+- a) attività finanziarie detenute per la negoziazione; b) attività designate al fair value; c) altre attività finanziarie obbligatoriamente valutate al fair value.
+- Le AF classificate come disponibili per la vendita, o non classificate fra le detenute per la negoziazione, le valutate al fair value, le detenute fino a scadenza, i crediti verso banche e le altre Loans and Receivable.
+
+**D:** ⚠️ Dove stanno i dividendi nel rendiconto finanziario della banca, secondo la lezione 17?
+**R:** In tre punti. Nella **gestione** dell'attività operativa, i «dividendi e proventi simili» (+), nel metodo diretto. Nell'attività di **investimento**, i «dividendi incassati su **partecipazioni**», fra la liquidità generata. Nell'attività di **provvista**, la «**distribuzione** dividendi e altre finalità», cioè quelli pagati dalla banca (slide 3–4).
+**Opzione:** Dividendi e proventi simili nella gestione dell'attività operativa; dividendi incassati su partecipazioni nell'attività di investimento; distribuzione dividendi nell'attività di provvista.
+**Distrattori:**
+- Dividendi e proventi simili nella gestione dell'attività operativa; dividendi incassati su partecipazioni nell'attività di provvista; distribuzione dividendi nell'attività di investimento.
+- I titoli di capitale designati fra le componenti senza rigiro a conto economico; le attività finanziarie al fair value con impatto sulla redditività complessiva fra quelle con rigiro.
+- a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto sulla redditività complessiva; c) passività finanziarie.
+
+**D:** Quali voci compongono l'attività di provvista nel rendiconto finanziario della banca, secondo la lezione 17?
+**R:** Emissioni/acquisti di **azioni proprie**; emissioni/acquisti di **strumenti di capitale**; **distribuzione dividendi** e altre finalità (slide 3–4). Per il docente è l'emissione di nuove azioni e strumenti di capitale, o la distribuzione di dividendi e l'acquisto di azioni proprie ([00:23:42]).
+**Opzione:** Emissioni/acquisti di azioni proprie; emissioni/acquisti di strumenti di capitale; distribuzione dividendi e altre finalità.
+**Distrattori:**
+- Emissioni/acquisti di azioni proprie; emissioni/acquisti di strumenti di capitale; acquisti di partecipazioni e di rami d'azienda.
+- Titoli di debito, titoli di capitale e finanziamenti.
+- Il margine è una differenza, mentre l'indice è un rapporto, un quoziente.
+
+**D:** ⚠️ Come si riconcilia il rendiconto finanziario con la cassa della banca, secondo la lezione 17?
+**R:** Cassa e disponibilità liquide **all'inizio** dell'esercizio (E), più o meno la **liquidità totale netta** generata/assorbita nell'esercizio (D) e l'**effetto della variazione dei cambi** (F), danno la cassa e disponibilità liquide **alla chiusura** (G = E ± D ± F) (slide 3–4). Per il docente il valore finale deve essere pari alla prima voce dell'attivo, cassa e disponibilità liquide; altrimenti ci sono errori ([00:24:08]–[00:25:27]).
+**Opzione:** La cassa iniziale, più o meno la liquidità netta dell'esercizio e l'effetto della variazione dei cambi, dà la cassa e disponibilità liquide alla chiusura.
+**Distrattori:**
+- La cassa iniziale, più o meno la liquidità netta dell'esercizio e il risultato d'esercizio, dà la cassa e disponibilità liquide alla chiusura.
+- La sintesi dei risultati netti e dei margini tipici dell'attività della banca: si consegue sommando al margine d'intermediazione le rettifiche e le riprese di valore per deterioramento (voce 130).
+- Al fair value, determinato tenendo conto del costo complessivo che la banca sostiene per erogarlo.
+
+**D:** ⚠️ Qual è la finalità della redazione della nota integrativa, secondo il test della lezione 17 (domanda 4)?
+**R:** «**Accrescere il grado di leggibilità del bilancio e della gestione aziendale rappresentata in esso**»: è la slide 5 alla lettera. Distrattori del test: «presentare l'attività aziendale», «determinare la forza lavoro impiegata», «consentire di conoscere i prodotti dell'impresa».
+**Opzione:** Accrescere il grado di leggibilità del bilancio e della gestione aziendale rappresentata in esso.
+**Distrattori:**
+- Presentare l'attività aziendale.
+- Determinare la forza lavoro impiegata.
+- Consentire di conoscere i prodotti dell'impresa.
+
+**D:** ⚠️ Attraverso quali due strade la nota integrativa persegue l'obiettivo di disclosure, secondo la slide 5 della lezione 17?
+**R:** 1) **fornire dati** («informazioni **quantitative**») che consentano di **ricostruire e approfondire** i valori di sintesi esposti nelle voci dello stato patrimoniale e del conto economico; 2) **dare informazioni qualitative**, «ad esempio, sui **rischi** e sulle relative politiche di copertura adottate dalla banca» (slide 5). Per il docente la disclosure è la **trasparenza**, e un racconto dei rischi può dire più di una tabella ([00:25:45]–[00:28:02]).
+**Opzione:** Fornire dati (informazioni quantitative) che consentano di ricostruire e approfondire i valori di sintesi dello stato patrimoniale e del conto economico; dare informazioni qualitative, ad esempio sui rischi e sulle relative politiche di copertura.
+**Distrattori:**
+- Fornire dati (informazioni quantitative) che consentano di ricostruire e approfondire i valori di sintesi dello stato patrimoniale e del conto economico; dare previsioni sui risultati degli esercizi futuri, ad esempio sugli utili attesi.
+- L'intermediazione, con il margine d'interesse; la prestazione di servizi alla clientela, con le commissioni attive e passive; le operazioni sul mercato finanziario.
+- Per le attività finanziarie disponibili per la vendita: le variazioni di fair value restano cristallizzate in una riserva di patrimonio netto fino alla cessione.
+
+**D:** ⚠️ La redazione della nota integrativa della banca è obbligatoria, secondo il test della lezione 17 (domanda 5)?
+**R:** «**Sì**». Per il docente è un «documento fondamentale che costituisce **parte integrante** del bilancio» ([00:25:27]); la lezione 12 la elenca accanto agli schemi del bilancio della banca (slide 5). Distrattori del test: «no», «solo nelle imprese di maggiore dimensione», «solo nelle imprese partecipate», gli stessi della domanda 5 del test 16.
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- Solo nelle imprese di maggiore dimensione.
+- Solo nelle imprese partecipate.
+
+**D:** ⚠️ Che cosa riporta la parte A, politiche contabili, della nota integrativa della banca, secondo la slide 6 della lezione 17?
+**R:** «I criteri di **iscrizione**, di **classificazione**, di **valutazione** e di **cancellazione** delle attività e delle passività che ha adottato la banca» (slide 6). Per i crediti alla clientela, la sezione A.2 indica i criteri per il valore di prima iscrizione, la valutazione a fine periodo e la rilevazione delle componenti reddituali (slide 8).
+**Opzione:** I criteri di iscrizione, di classificazione, di valutazione e di cancellazione delle attività e delle passività che ha adottato la banca.
+**Distrattori:**
+- I criteri di iscrizione, di classificazione, di valutazione e di rivalutazione delle attività e delle passività che ha adottato la banca.
+- Tutte le attività finanziarie non classificate nel portafoglio valutato al fair value con impatto sulla redditività complessiva e nel portafoglio valutato al costo ammortizzato.
+- AF quotate su mercati attivi con pagamenti contrattuali fissi o determinabili e scadenza fissa, per le quali vi è l'effettiva intenzione e la capacità di detenerle fino a scadenza; non comprende derivati.
+
+**D:** ⚠️ In quali sezioni della parte C della nota integrativa si trovano interessi, dividendi e risultato di negoziazione delle attività detenute per la negoziazione, secondo la slide 6 della lezione 17?
+**R:** Gli **interessi attivi** nella **sezione 1**, Gli interessi, voci 10 e 20 del conto economico; i **dividendi** nella **sezione 3**, Dividendi e proventi simili, voce 70; il **risultato netto dell'attività di negoziazione**, con plus e minusvalenze e utili e perdite da negoziazione, nella **sezione 4**, voce 80 (slide 6). La parte B dedica invece alla voce 20 dell'attivo la sezione 2, con la composizione merceologica e per debitori/emittenti.
+**Opzione:** Interessi attivi nella sezione 1 (voci 10 e 20); dividendi nella sezione 3 (voce 70); risultato netto dell'attività di negoziazione nella sezione 4 (voce 80).
+**Distrattori:**
+- Interessi attivi nella sezione 1 (voci 10 e 20); dividendi nella sezione 4 (voce 80); risultato netto dell'attività di negoziazione nella sezione 3 (voce 70).
+- a) attività finanziarie valutate al costo ammortizzato; b) attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Se il valore del credito è sempre integro, o se per il deteriorarsi della solvibilità del debitore possano attendersi perdite in conto capitale e/o in conto interessi che diminuiranno i futuri flussi di cassa attesi.
+
+**D:** ⚠️ Che cosa racchiude la parte E della nota integrativa della banca, secondo la slide 6 della lezione 17?
+**R:** Per **categorie di rischi**, **di credito, di mercato, di liquidità, operativi**, informazioni di natura **qualitativa**, sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni di natura **quantitativa** (slide 6). La relazione sulla gestione, con i dati su crediti in bonis e non performing, vi rimanda (slide 7).
+**Opzione:** Per categorie di rischi (di credito, di mercato, di liquidità, operativi), informazioni qualitative sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni quantitative.
+**Distrattori:**
+- Per categorie di rischi (di credito, di mercato, di liquidità, reputazionali), informazioni qualitative sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni quantitative.
+- L'utile d'esercizio alla fine del conto economico; la redditività complessiva dà un'informativa più completa sulle componenti affluite alla riserva da valutazione invece che al conto economico.
+- Al solo valore nominale erogato al cliente; oppure al valore nominale erogato, al netto di eventuali ricavi percepiti dalla banca e di eventuali oneri accessori sostenuti al momento dell'erogazione.
+
+**D:** ⚠️ A quali parti e sezioni della nota integrativa rimandano relazione sulla gestione, stato patrimoniale e conto economico nel percorso di lettura dei crediti alla clientela, secondo la slide 7 della lezione 17?
+**R:** La **relazione sulla gestione**, con i dati su crediti in bonis e non performing, alla **parte E**. Lo **stato patrimoniale**, crediti verso clientela, alla **parte B, sezione 7**. Il **conto economico** alla **parte C**: sezione **1** per gli interessi attivi, sezione **6** per utili e perdite da cessione o riacquisto, sezione **8** per le rettifiche e riprese per deterioramento (slide 7).
+**Opzione:** Relazione sulla gestione alla parte E; stato patrimoniale alla parte B, sezione 7; conto economico alla parte C, sezioni 1 (interessi), 6 (cessioni o riacquisti) e 8 (rettifiche e riprese).
+**Distrattori:**
+- Relazione sulla gestione alla parte A; stato patrimoniale alla parte B, sezione 7; conto economico alla parte C, sezioni 1 (interessi), 6 (cessioni o riacquisti) e 8 (rettifiche e riprese).
+- Confrontando il valore di iscrizione con il valore attuale dei minori flussi di cassa attesi; la differenza decurta il credito ed è portata a conto economico fra le rettifiche di valore.
+- Nell'adeguare di anno in anno l'originario valore di iscrizione del credito, attualizzando i futuri flussi di cassa al tasso di interesse effettivo calcolato al momento della prima iscrizione.
+
+**D:** ⚠️ Quali crediti riguardano le voci 100 e 130 del conto economico, e quali le sezioni 6 e 8 della parte C della nota integrativa, nel percorso di lettura della slide 7 della lezione 17?
+**R:** Le voci di conto economico riguardano l'**insieme dei crediti**, verso clientela **e** verso banche. Le sezioni 6 e 8 della parte C danno invece i «dati relativi ai **soli crediti verso clientela**» (slide 7). Nella slide 8 la Tav. 8.1 distingue i crediti verso clientela da quelli verso banche.
+**Opzione:** Le voci di conto economico l'insieme dei crediti, verso clientela e verso banche; le sezioni 6 e 8 della nota integrativa i soli crediti verso clientela.
+**Distrattori:**
+- Le voci di conto economico i soli crediti verso clientela; le sezioni 6 e 8 della nota integrativa l'insieme dei crediti, verso clientela e verso banche.
+- Il tasso che, attraverso l'attualizzazione finanziaria, rende uguali i futuri flussi di cassa al valore (costo) di iscrizione.
+- Qualsiasi contratto che dia contemporaneamente origine ad un'attività finanziaria per un'entità e a una passività finanziaria o a uno strumento rappresentativo di patrimonio netto per un'altra entità.
+
+**D:** ⚠️ Che cosa riguardano le informazioni qualitative e quantitative della parte E, sezione 1, rischio di credito, nel percorso di lettura della slide 8 della lezione 17?
+**R:** Le **qualitative**: gli aspetti organizzativi; i sistemi di gestione, misurazione e controllo del rischio di credito; le tecniche di mitigazione del rischio di credito; i criteri di classificazione dei crediti deteriorati (a sofferenza, a incaglio, ristrutturati, *past due*) e le modalità di previsione dei recuperi su crediti *non performing*. Le **quantitative**: A, la **qualità del credito**; B, la **distribuzione e concentrazione del credito** (slide 8).
+**Opzione:** Qualitative: aspetti organizzativi; sistemi di gestione, misurazione e controllo del rischio di credito; tecniche di mitigazione; criteri di classificazione dei crediti deteriorati e modalità di previsione dei recuperi su crediti non performing. Quantitative: la qualità del credito; la distribuzione e concentrazione del credito.
+**Distrattori:**
+- Qualitative: aspetti organizzativi; sistemi di gestione, misurazione e controllo del rischio di credito; tecniche di mitigazione; criteri di classificazione dei crediti deteriorati e modalità di previsione dei recuperi su crediti non performing. Quantitative: la qualità del credito; il rendimento e la redditività del credito.
+- Solo una perdita durevole e non facilmente recuperabile, come in uno stato di pre-fallimento; le mere oscillazioni di quotazione restano variazioni di fair value da riserva.
+- La differenza tra il valore contabile dell'attività e il valore attuale dei flussi finanziari stimati, scontati al tasso di interesse effettivo originario.
+
+**D:** ⚠️ In quali categorie la slide 8 della lezione 17 classifica i crediti deteriorati?
+**R:** «**A sofferenza, a incaglio, ristrutturati, past due**» (slide 8, parte E, sezione 1): i criteri di classificazione fanno parte delle informazioni qualitative sul rischio di credito, con le modalità di previsione dei recuperi sui crediti non performing. La nota spiega in un blocco ℹ️ che dal 2015 la Banca d'Italia usa altre categorie.
+**Opzione:** A sofferenza, a incaglio, ristrutturati, past due.
+**Distrattori:**
+- A sofferenza, a incaglio, ristrutturati, in bonis.
+- Al fair value, di norma il corrispettivo pagato o incassato.
+- Fair value.
+
+**D:** Quali tavole riporta la parte B, sezione 7, crediti verso clientela, della nota integrativa, secondo il percorso di lettura della slide 8 della lezione 17?
+**R:** La **Tav. 7.1**, con la **composizione merceologica** dei crediti (conti correnti, mutui, carte di credito e prestiti personali, «ecc.»), e la **Tav. 7.2**, con la **composizione per debitori/emittenti** (finanziamenti accordati a Governi, altri enti pubblici, imprese non finanziarie, «ecc.»). Entrambe forniscono anche dati sulle **attività deteriorate** (slide 8).
+**Opzione:** La Tav. 7.1, con la composizione merceologica dei crediti, e la Tav. 7.2, con la composizione per debitori/emittenti; entrambe con dati sulle attività deteriorate.
+**Distrattori:**
+- La Tav. 7.1, con la composizione merceologica dei crediti, e la Tav. 7.2, con le rettifiche e le riprese di valore per deterioramento; entrambe con dati sulle attività deteriorate.
+- Titoli di debito e finanziamenti con i risultati valutativi iscritti nel conto economico sulla base della facoltà riconosciuta alle imprese (c.d. fair value option) dall'IFRS 9.
+- Non è più autonoma: è stata assorbita fra le attività al fair value con impatto a conto economico, perché numericamente molto poco rilevante.
