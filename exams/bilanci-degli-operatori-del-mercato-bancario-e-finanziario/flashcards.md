@@ -2046,3 +2046,252 @@
 - Categoria residuale non identificata specificamente.
 - Azioni di tutte le imprese.
 - Buoni postali del tesoro.
+
+## Lezione 09 — I titoli e le partecipazioni
+
+**D:** ⚠️ Quali metodi consentono alternativamente i principi internazionali per le partecipazioni in imprese controllate e collegate, secondo la lezione 09?
+**R:** «**Costo**; **Patrimonio netto**; **Fair value**, secondo le previsioni dello IAS39 (dal 2018 IFRS9)» (slide 2), che completa la frase della slide 13 della lezione 08: per le partecipazioni in controllate e collegate gli IAS «consentono alternativamente l'adozione dei seguenti metodi». Per il docente l'IFRS 9 «sarebbe dovuto entrare in vigore dal 2018 anche se ha avuto dei successivi slittamenti» ([00:00:20]–[00:00:36]).
+**Opzione:** Il costo, il patrimonio netto e il fair value, secondo le previsioni dello IAS 39 (dal 2018 IFRS 9).
+**Distrattori:**
+- Il costo, il patrimonio netto e il valore di presumibile realizzo desumibile dall'andamento del mercato.
+- Per analogia, a quanto previsto dal documento n. 16 per le immobilizzazioni materiali.
+- L'intera classe di beni cui il cespite appartiene.
+
+**D:** ⚠️ In quali categorie lo IAS 39 distingue le partecipazioni in altre imprese e i titoli in genere, e secondo quale criterio, secondo la lezione 09?
+**R:** «Per le partecipazioni in altre imprese e per i titoli in genere lo IAS39 (IFRS9 dal 2018) distingue, a seconda della loro **destinazione nell'economia dell'impresa** fra quelli: **Detenuti fino a scadenza**; **Detenuti per negoziazione**; **Detenuti per la vendita**» (slide 2). Per il docente dalla destinazione dipende la modalità di iscrizione del valore in bilancio ([00:01:05]–[00:01:25]).
+**Opzione:** A seconda della loro destinazione nell'economia dell'impresa: detenuti fino a scadenza, detenuti per negoziazione, detenuti per la vendita.
+**Distrattori:**
+- A seconda della percentuale di capitale posseduta: detenuti fino a scadenza, detenuti per negoziazione, detenuti per la vendita.
+- Controllate; collegate; controllanti; sottoposte al controllo delle controllanti; altre imprese.
+- Partecipazioni; crediti; altri titoli; strumenti finanziari derivati attivi.
+
+**D:** ⚠️ Qual è il criterio di valutazione dei titoli detenuti fino a scadenza per lo IAS 39, secondo la slide della lezione 09?
+**R:** «Per la prima categoria il criterio di valutazione applicabile è quello del **costo non ammortizzato**» (slide 2). Per il docente è «sostanzialmente il costo di iscrizione», che non cambia nel tempo salvo evidenti motivi di svalutazione; gli esempi sono i classici BOT e CCT e le obbligazioni di imprese di primaria importanza ([00:01:30]–[00:01:56], [00:02:43]). ⚠️ La nota spiega in un blocco ℹ️ che lo IAS 39 dice costo ammortizzato: all'esame vale la slide.
+**Opzione:** Il costo non ammortizzato.
+**Distrattori:**
+- Il fair value, con imputazione delle differenze da valutazione a conto economico.
+- Il fair value, con il differenziale imputato a una riserva di patrimonio netto.
+- Il metodo del patrimonio netto.
+
+**D:** ⚠️ Che cosa hanno in comune e che cosa distingue i titoli detenuti per la negoziazione e quelli detenuti per la vendita, secondo lo IAS 39 nella lezione 09?
+**R:** Per entrambi «l'**unico criterio ammesso** è quello del **fair value**». Per quelli detenuti per la **negoziazione** le differenze da valutazione vanno a **C.E.**; per quelli detenuti per la **vendita** si può imputare il differenziale in una **riserva di P.N.** (slide 3). Per il docente è la **riserva di valutazione** ([00:04:07]–[00:04:56]).
+**Opzione:** Per entrambi l'unico criterio è il fair value; per la negoziazione le differenze vanno a conto economico, per la vendita in una riserva di patrimonio netto.
+**Distrattori:**
+- Per entrambi l'unico criterio è il fair value; per la negoziazione le differenze vanno in una riserva di patrimonio netto, per la vendita a conto economico.
+- Rivalutazione: riserva di rivalutazione; ripristino di valore: ricavo; investimento immobiliare: conto economico.
+- Immobilizzazioni finanziarie: una perdita durevole di valore; attivo circolante: un minor valore di realizzazione desumibile dall'andamento del mercato.
+
+**D:** Dove va l'aumento di valore di un titolo detenuto per la vendita, comprato a 100 e valutato 104 al 31 dicembre, nell'esempio del docente della lezione 09?
+**R:** I **4** in più **non** vanno nel conto economico, ma in una riserva di patrimonio netto specifica, la **riserva di valutazione** ([00:04:07]–[00:04:37]). Se il titolo fosse detenuto per la **negoziazione**, la differenza andrebbe nelle differenze da valutazione del **conto economico**: nell'esempio del docente, azioni da 100 a 105, con i 5 in più fra i ricavi ([00:03:21]–[00:03:44]).
+**Opzione:** In una riserva di patrimonio netto specifica, la riserva di valutazione, e non nel conto economico.
+**Distrattori:**
+- Nelle differenze da valutazione del conto economico, fra i ricavi.
+- Da nessuna parte: il titolo resta iscritto al costo di acquisto di 100.
+- Alla voce 18 Rivalutazioni del conto economico.
+
+**D:** ⚠️ Quando una perdita di valore di una partecipazione immobilizzata è durevole e quando è transitoria, secondo il docente della lezione 09?
+**R:** Una perdita di un giorno, una settimana o anche un mese è **transitoria**, e non se ne tiene conto. È durevole quella che supera un certo periodo, «normalmente individuato **fra i 4 e i 6 mesi**» ([00:05:04]–[00:05:49]). La slide 4 chiede che la perdita accertata abbia «il carattere della durevolezza, ossia non sia transitoria», senza indicare un periodo.
+**Opzione:** È durevole se supera un certo periodo, normalmente fra i 4 e i 6 mesi; un calo di un giorno, una settimana o un mese è transitorio.
+**Distrattori:**
+- È durevole qualunque perdita accertata alla chiusura dell'esercizio, anche se dura un giorno, una settimana o un mese.
+- È durevole solo se dura almeno un intero esercizio.
+- Dalle oscillazioni dei relativi valori correnti.
+
+**D:** ⚠️ Un importante e generalizzato ribasso dei prezzi di mercato basta a svalutare i titoli immobilizzati, secondo la lezione 09?
+**R:** No: «un importante e generalizzato ribasso dei prezzi di mercato **non rappresenta di per sé motivo di svalutazione**, occorre che lo stesso abbia un **carattere di persistenza temporale** e l'**assenza di elementi** che lascino fondatamente ritenere **probabile un'inversione di tendenza**» (slide 4). Per il docente il valore dell'obbligazione deve essere «durevolmente e stabilmente ridotto», senza elementi oggettivi che facciano pensare a una ripresa ([00:05:58]–[00:06:44]).
+**Opzione:** No: occorre che il ribasso abbia un carattere di persistenza temporale e che manchino elementi che lascino fondatamente ritenere probabile un'inversione di tendenza.
+**Distrattori:**
+- Sì: un importante e generalizzato ribasso dei prezzi di mercato rappresenta di per sé motivo di svalutazione.
+- Quando il bene è permanentemente ritirato dall'uso e dalla sua dismissione non sono attesi benefici economici futuri.
+- Entro un periodo massimo di 5 anni, salvo quanto disposto per l'avviamento (10 anni).
+
+**D:** ⚠️ Che cosa deve verificare l'impresa a ogni data di riferimento del bilancio sui titoli e le partecipazioni svalutati, e dove si iscrive il ripristino, secondo la lezione 09?
+**R:** «L'impresa deve cioè verificare, **ad ogni data di riferimento del bilancio**, se le ragioni della precedente svalutazione **persistono o sono venute meno**. In tale caso il valore svalutato **deve** essere ripristinato e il ripristino di valore deve essere iscritto a **C.E.**, alla **voce 18 Rivalutazioni**» (slide 5). Per il docente a ogni fine esercizio si riprendono tutti i titoli e le partecipazioni svalutati ([00:06:44]–[00:07:56]).
+**Opzione:** Se le ragioni della precedente svalutazione persistono o sono venute meno; se sono venute meno, il ripristino va a conto economico, alla voce 18 Rivalutazioni.
+**Distrattori:**
+- Se le ragioni della precedente svalutazione persistono o sono venute meno; se sono venute meno, il ripristino va alla riserva di rivalutazione del patrimonio netto.
+- Con il fair value, ma per l'intera categoria di riferimento, per esempio per tutte le spese di sviluppo.
+- Alla differenza fra la quota di ammortamento sul valore rivalutato e quella conteggiata sul costo originario.
+
+**D:** ⚠️ In quali tre sottovoci si articola la voce 18 Rivalutazioni del conto economico, in cui va il ripristino di valore, secondo la lezione 09?
+**R:** «a) di **partecipazioni**; b) di **immobilizzazioni finanziarie che non costituiscono partecipazioni**; c) di **titoli iscritti nell'attivo circolante che non costituiscono immobilizzazioni**» (slide 5). Per il docente è la voce del conto economico in cui «sono previste specificamente le rivalutazioni» di partecipazioni, immobilizzazioni finanziarie e titoli dell'attivo circolante ([00:07:40]).
+**Opzione:** Di partecipazioni; di immobilizzazioni finanziarie che non costituiscono partecipazioni; di titoli iscritti nell'attivo circolante che non costituiscono immobilizzazioni.
+**Distrattori:**
+- Di partecipazioni; di immobilizzazioni finanziarie che non costituiscono partecipazioni; di immobilizzazioni materiali e immateriali.
+- Partecipazioni; crediti; altri titoli; strumenti finanziari derivati attivi.
+- Costi di impianto e ampliamento; costi di sviluppo; diritti di brevetto industriale e diritti di utilizzazione opere dell'ingegno; concessioni, licenze, marchi e diritti simili; avviamento; immobilizzazioni in corso e acconti; altre.
+
+**D:** ⚠️ Qual è il parametro con cui confrontare il costo dei titoli e delle partecipazioni dell'attivo circolante, ai fini di una loro svalutazione, e perché, secondo la lezione 09?
+**R:** «Poiché i titoli in esame sono **destinati ad essere venduti entro un breve lasso temporale**, è il **valore di presumibile realizzo desumibile dall'andamento del mercato** che deve rappresentare il parametro cui raffrontare il costo ai fini di una sua eventuale svalutazione» (slide 6).
+**Opzione:** Il valore di presumibile realizzo desumibile dall'andamento del mercato, perché sono destinati a essere venduti entro un breve lasso temporale.
+**Distrattori:**
+- Il valore della corrispondente frazione di patrimonio netto della partecipata, perché sono destinati a essere venduti entro un breve lasso temporale.
+- Il valore attuale dei flussi finanziari netti che l'attività si prevede sarà in grado di generare in futuro.
+- Per entrambi, il costo al netto del valore di presunto realizzo al termine della vita utile.
+
+**D:** ⚠️ Quali due possibilità indica la lezione 09 per misurare il valore di presumibile realizzo dei titoli dell'attivo circolante?
+**R:** «Utilizzare le **quotazioni alla data di chiusura del bilancio**; utilizzare una **media delle quotazioni di un periodo**» (slide 6). Per il docente la media può essere quella dell'**ultimo mese** dell'esercizio, dicembre per chi chiude al 31 dicembre ([00:08:51]–[00:09:29]).
+**Opzione:** Le quotazioni alla data di chiusura del bilancio, oppure una media delle quotazioni di un periodo.
+**Distrattori:**
+- Le quotazioni alla data di acquisto, oppure una media delle quotazioni di un periodo.
+- Solo le quotazioni alla data di chiusura del bilancio, senza medie.
+- La frazione di patrimonio netto risultante dall'ultimo bilancio della partecipata.
+
+**D:** ⚠️ Che posto ha il metodo del patrimonio netto rispetto al criterio-base del costo nei principi nazionali, secondo la lezione 09?
+**R:** «La valutazione delle partecipazioni secondo il criterio del patrimonio netto (in inglese equity method) rappresenta l'**unica deroga**, assieme a quella relativa ai **lavori in corso su ordinazione**, al **criterio-base del costo**» (slide 7). Il docente lo ripete ([00:09:50]–[00:10:15]).
+**Opzione:** È l'unica deroga al criterio-base del costo, assieme a quella relativa ai lavori in corso su ordinazione.
+**Distrattori:**
+- È l'unica deroga al criterio-base del costo, assieme a quella relativa agli investimenti immobiliari.
+- È l'unica deroga al criterio-base del costo, assieme a quella relativa ai costi di impianto e ampliamento.
+- La stessa disciplina prevista per le immobilizzazioni materiali, sia nei principi nazionali sia in quelli internazionali.
+
+**D:** ⚠️ Come opera il metodo del patrimonio netto sul costo originario della partecipazione, nei principi nazionali, secondo la lezione 09?
+**R:** «Secondo il metodo del P.N., il **costo originario** della partecipazione **viene modificato** per recepire le modifiche proprie di tale metodologia e per tenere conto delle **quote di utili e delle perdite** della partecipata» (slide 7). Per il docente «il costo di prima iscrizione è **sempre il costo di acquisto**», modificato negli esercizi successivi per tenere conto delle variazioni del patrimonio netto della partecipata ([00:10:46]–[00:11:18]).
+**Opzione:** Il costo originario viene modificato per recepire le modifiche proprie del metodo e per tenere conto delle quote di utili e delle perdite della partecipata.
+**Distrattori:**
+- Il costo originario resta invariato e viene ridotto solo in caso di perdita durevole di valore.
+- Che il sistema di calcolo delle quote è definito prima dell'inizio dell'ammortamento e mantenuto per tutta la vita utile; le quote possono essere costanti, crescenti o decrescenti.
+- Originare flussi finanziari indipendenti dalle altre attività possedute dall'impresa.
+
+**D:** ⚠️ In che cosa si traduce di fatto il metodo del patrimonio netto secondo la lezione 09, e perché?
+**R:** «Tale metodo di valutazione si traduce di fatto in un "**consolidamento sintetico**", in quanto l'utilizzo del metodo produce gli **stessi effetti** in termini di **consistenza patrimoniale** e di riflessi sul **risultato d'esercizio** della redazione di un **bilancio consolidato**» (slide 8). Per il docente si parla spesso di «consolidato sintetico» ([00:11:44]–[00:12:50]).
+**Opzione:** In un consolidamento sintetico: produce gli stessi effetti di un bilancio consolidato sulla consistenza patrimoniale e sul risultato d'esercizio.
+**Distrattori:**
+- In un consolidamento sintetico: produce gli stessi effetti di una valutazione al fair value sulla consistenza patrimoniale e sul risultato d'esercizio.
+- Con il lasso temporale in cui il cespite potrà essere utilizzato dall'impresa; si tiene conto del deterioramento fisico, dell'obsolescenza tecnica, delle condizioni di operatività.
+- Le stesse prescrizioni già viste per l'acquisto di immobilizzazioni materiali.
+
+**D:** ⚠️ A quale valore comporta l'iscrizione della partecipazione il metodo del patrimonio netto, e che cosa occorre fare a ogni esercizio, secondo la lezione 09?
+**R:** «L'adozione di tale metodo comporta l'iscrizione in bilancio della partecipazione al **valore della corrispondente frazione di P.N. della partecipata**; **ad ogni esercizio** occorre **adeguare il valore di carico** della partecipazione alle modifiche intervenute nella consistenza del P.N. della partecipata» (slide 9). ⚠️ Si parte comunque dal costo di acquisto (slide 8; docente, [00:10:49]).
+**Opzione:** Al valore della corrispondente frazione di patrimonio netto della partecipata; a ogni esercizio il valore di carico va adeguato alle modifiche del patrimonio netto della partecipata.
+**Distrattori:**
+- Al valore della corrispondente frazione di patrimonio netto della partecipata; il valore di carico resta poi invariato negli esercizi successivi.
+- Indica il costo come trattamento contabile di riferimento e accetta come criterio alternativo la rivalutazione del costo storico sino al fair value, al netto degli ammortamenti.
+- Allo IAS 22, avente ad oggetto il trattamento contabile dell'aggregazione tra imprese.
+
+**D:** ⚠️ Quali imprese sono controllate per l'art. 2359 c.c., secondo il docente della lezione 09?
+**R:** «Si considerano imprese controllate quelle in cui un'impresa ha la **maggioranza assoluta dei voti esprimibili in assemblea ordinaria**» ([00:14:16]). Chi compra il **60%** del capitale controlla l'impresa, salvo particolari categorie di azioni ([00:14:29]). Le slide non citano l'articolo.
+**Opzione:** Quelle in cui un'altra impresa ha la maggioranza assoluta dei voti esprimibili nell'assemblea ordinaria.
+**Distrattori:**
+- Quelle in cui un'altra impresa ha la maggioranza assoluta dei voti esprimibili nell'assemblea straordinaria.
+- Quelle in cui un'altra impresa detiene una partecipazione iscritta fra le immobilizzazioni finanziarie.
+- Quelle sottoposte al controllo delle controllanti.
+
+**D:** ⚠️ Un'impresa acquista il 60% di un'altra per 60.000 euro, e a fine esercizio il patrimonio netto della partecipata è di 120.000 euro: quanto vale la partecipazione con il metodo del patrimonio netto, nell'esempio del docente della lezione 09?
+**R:** **72.000 euro**, cioè il 60% di 120.000: «non varrà 60.000 euro, ma varrà 72.000 euro». Con un patrimonio netto di 90.000 varrebbe invece 54.000 euro ([00:15:25]–[00:19:38]). Il metodo prende la parte di patrimonio netto corrispondente alla percentuale di capitale posseduta, non il costo di acquisto.
+**Opzione:** 72.000 euro, cioè il 60% di 120.000.
+**Distrattori:**
+- 60.000 euro, cioè il costo di acquisto.
+- 120.000 euro, cioè l'intero patrimonio netto della partecipata.
+- 12.000 euro, cioè la differenza fra 72.000 e 60.000.
+
+**D:** ⚠️ Che cosa prevede la lezione 09 se, alla prima iscrizione, il costo di acquisto supera la corrispondente quota di patrimonio netto, e a che cosa può essere dovuta la differenza?
+**R:** «Costo di acquisto > corrispondente quota PN: **può essere iscritto nell'attivo, purché ne siano indicate le ragioni in N.I.** La differenza può essere dovuta a: a) evidenziazione di un "**cattivo affare**"; b) al **maggior valore attribuito al complesso** in sede di negoziazione rispetto al valore dei singoli beni» (slide 10). Per il docente il costo si iscrive perché è «un costo oggettivo», e il maggior valore del complesso è un «avviamento implicito» ([00:19:38]–[00:21:44]).
+**Opzione:** Può essere iscritto nell'attivo, purché le ragioni siano indicate in nota integrativa; la differenza può dipendere da un cattivo affare o dal maggior valore attribuito al complesso rispetto ai singoli beni.
+**Distrattori:**
+- Può essere iscritto nell'attivo, purché le ragioni siano indicate nella relazione sulla gestione; la differenza può dipendere da un cattivo affare o dal maggior valore attribuito al complesso rispetto ai singoli beni.
+- Nei nazionali l'iscrizione è facoltativa e necessita del parere favorevole del collegio sindacale, se presente; per lo IAS 38 non sono suscettibili di capitalizzazione.
+- Non rientrano più fra le immobilizzazioni immateriali e, dal 1° gennaio 2016, non sono più suscettibili di capitalizzazione.
+
+**D:** ⚠️ A che cosa può essere dovuta la differenza quando, alla prima iscrizione, il costo di acquisto è inferiore alla corrispondente quota di patrimonio netto, secondo la lezione 09?
+**R:** «a) Al minor valore attribuito alle attività e/o al maggior valore attribuito alle passività della partecipata (**minusvalenze latenti**); b) al minor valore attribuito al complesso rispetto alla somma algebrica dei valori dei beni che lo compongono, in virtù dell'insufficiente redditività prospettica del complesso (**avviamento negativo**); c) al maggior valore effettivo dei beni della partecipata rispetto al prezzo pagato ("**buon affare**")» (slide 10–11). Per il docente l'avviamento negativo anticipa perdite future che l'azienda realizzerà a breve ([00:21:44]–[00:23:15]).
+**Opzione:** Minusvalenze latenti; avviamento negativo, per l'insufficiente redditività prospettica del complesso; un buon affare, cioè beni che valgono più del prezzo pagato.
+**Distrattori:**
+- Minusvalenze latenti; avviamento negativo, per l'insufficiente redditività prospettica del complesso; un cattivo affare, cioè beni che valgono meno del prezzo pagato.
+- Spese di manutenzione e riparazione straordinaria; senza l'aumento significativo e misurabile la spesa è manutenzione ordinaria e va nel conto economico.
+- Costi di operazioni sul capitale o sulla forma giuridica dell'impresa: di impianto, come i costi notarili di costituzione; di ampliamento, come quelli di fusione, scissione o trasformazione.
+
+**D:** ⚠️ Il «cattivo affare» e il «buon affare» spiegano quale differenza fra costo di acquisto e quota di patrimonio netto, secondo la lezione 09?
+**R:** Il **cattivo affare** spiega un costo di acquisto **superiore** alla corrispondente quota di patrimonio netto (slide 10); il **buon affare** un costo **inferiore**, perché i beni della partecipata valgono più del prezzo pagato (slide 11). Per il docente nel cattivo affare «ho pagato di più una cosa che valeva di meno», nel buon affare «ho pagato meno una cosa che valeva di più» ([00:20:38], [00:23:15]).
+**Opzione:** Il cattivo affare un costo superiore alla quota di patrimonio netto; il buon affare un costo inferiore.
+**Distrattori:**
+- Il cattivo affare un costo inferiore alla quota di patrimonio netto; il buon affare un costo superiore.
+- Entrambi un costo superiore alla quota di patrimonio netto.
+- Entrambi un costo inferiore alla quota di patrimonio netto.
+
+**D:** ⚠️ Come chiama il docente della lezione 09 il maggior valore attribuito al complesso aziendale rispetto ai singoli beni, quando il costo supera la quota di patrimonio netto?
+**R:** Un «**avviamento implicito**»: si ritiene che il patrimonio netto contabile, cioè la somma algebrica di attivi e passivi, non esprima il reale valore economico potenziale dell'impresa, e quindi «ho pagato di più perché ritengo che il reale valore sia maggiore» ([00:20:47]–[00:21:44]). ⚠️ Il caso opposto, il minor valore del complesso per l'insufficiente redditività prospettica, è l'**avviamento negativo** (slide 11).
+**Opzione:** Un avviamento implicito: il patrimonio netto contabile non esprime il reale valore economico potenziale dell'impresa.
+**Distrattori:**
+- Un avviamento negativo, per l'insufficiente redditività prospettica del complesso.
+- Una minusvalenza latente, non ancora emersa in contabilità.
+- Un buon affare, perché i beni valgono più del prezzo pagato.
+
+**D:** Per quali motivi un venditore può accettare un prezzo inferiore alla quota di patrimonio netto, nel «buon affare» descritto dal docente della lezione 09?
+**R:** Per motivi **non strettamente economici**: una **successione ereditaria**, il **pensionamento**, la necessità di **cambiare settore**, o altri elementi esterni che consigliano al venditore di liberarsi rapidamente dell'impresa ([00:23:15]–[00:23:56]).
+**Opzione:** Per motivi non strettamente economici, come una successione ereditaria, il pensionamento o la necessità di cambiare settore.
+**Distrattori:**
+- Per minusvalenze latenti non ancora emerse in contabilità, che ridurrebbero il patrimonio netto.
+- Per perdite future già prevedibili, cioè un avviamento negativo.
+
+**D:** ⚠️ Come trattano il metodo del patrimonio netto i principi internazionali rispetto a quelli nazionali, secondo la lezione 09?
+**R:** «I principi internazionali trattano del metodo del P.N. in **maniera piuttosto sintetica**, tanto che i **principi nazionali** possono rappresentare un'**utile guida** anche per l'applicazione degli IAS» (slide 12). Per il docente il principio nazionale «è molto ampio di spiegazioni», e così i principi nazionali «una volta tanto» guidano gli IAS ([00:23:56]–[00:24:58]).
+**Opzione:** In maniera piuttosto sintetica, tanto che i principi nazionali possono essere un'utile guida anche per applicare gli IAS.
+**Distrattori:**
+- In maniera molto ampia, tanto che gli IAS possono essere un'utile guida anche per applicare i principi nazionali.
+- Quella internazionale è più collegata all'aspetto economico-aziendalistico, quella nazionale al dato normativo giuridico.
+- Nei nazionali sì, fino al 2015, e non più dal 1° gennaio 2016; per lo IAS 38 non lo sono mai state.
+
+**D:** ⚠️ Quali variazioni di carattere patrimoniale elenca la lezione 09 fra quelle che modificano il valore di una partecipazione valutata con il metodo del patrimonio netto?
+**R:** «b) Variazioni di carattere patrimoniale quali: **dividendi distribuiti**; **aumenti di capitale a pagamento**; **rivalutazione di beni**; **riduzione del capitale**; **iscrizione a P.N. di contributi in conto capitale**» (slide 13). L'altro gruppo sono le variazioni aventi **rilevanza reddituale**, cioè utili o perdite d'esercizio. Per il docente la rivalutazione avviene «in base ad una legge specifica» e la riduzione del capitale con una delibera dell'assemblea straordinaria ([00:25:19]–[00:26:10]).
+**Opzione:** Dividendi distribuiti; aumenti di capitale a pagamento; rivalutazione di beni; riduzione del capitale; iscrizione a patrimonio netto di contributi in conto capitale.
+**Distrattori:**
+- Dividendi distribuiti; aumenti di capitale a pagamento; rivalutazione di beni; riduzione del capitale; utili o perdite d'esercizio.
+- A: crediti verso soci per versamenti ancora dovuti; B: immobilizzazioni, divise in I immateriali, II materiali e III finanziarie.
+- Criterio del costo; ammortamento sistematico per il periodo di vita utile; obbligo di svalutazione per perdite durevoli e obbligo di ripristino del valore originario.
+
+**D:** ⚠️ In quale gruppo di variazioni rientrano i dividendi distribuiti e in quale gli utili d'esercizio della partecipata, secondo la lezione 09?
+**R:** Gli **utili o le perdite d'esercizio** sono variazioni aventi **rilevanza reddituale**; i **dividendi distribuiti** sono variazioni di **carattere patrimoniale**, come gli aumenti di capitale a pagamento, la rivalutazione di beni, la riduzione del capitale e i contributi in conto capitale (slide 13).
+**Opzione:** I dividendi distribuiti fra le variazioni di carattere patrimoniale; gli utili d'esercizio fra quelle aventi rilevanza reddituale.
+**Distrattori:**
+- I dividendi distribuiti fra le variazioni aventi rilevanza reddituale; gli utili d'esercizio fra quelle di carattere patrimoniale.
+- Entrambi fra le variazioni aventi rilevanza reddituale.
+- Entrambi fra le variazioni di carattere patrimoniale.
+
+**D:** ⚠️ Che cosa prevede l'art. 101, comma 3, del D.P.R. 917/86 per le partecipazioni in imprese controllate o collegate iscritte fra le immobilizzazioni finanziarie, secondo la lezione 09?
+**R:** Che «per le I.F. costituite da partecipazioni in imprese controllate o collegate, iscritte in bilancio a norma dell'art. 2426 C.C. **non è deducibile la parte di costo di acquisto eccedente il valore corrispondente alla frazione del P.N. risultante dall'ultimo bilancio dell'impresa partecipata**» (slide 14). Il D.P.R. 917/86 è il **TUIR**, il testo unico delle imposte sui redditi; il docente dice «ultimo bilancio **approvato**» ([00:26:34]–[00:27:55]).
+**Opzione:** Che non è deducibile la parte di costo di acquisto eccedente il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio della partecipata.
+**Distrattori:**
+- Che non è deducibile la parte di costo di acquisto inferiore al valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio della partecipata.
+- Il costo storico è il limite massimo di iscrizione, e si può rivalutare solo nei casi in cui specifiche disposizioni legislative lo prevedano.
+- La banca, che adotta gli IAS, non può mai capitalizzarli; l'impresa commerciale può farlo con il parere favorevole del collegio sindacale, se presente.
+
+**D:** ⚠️ Con quale criterio i principi contabili internazionali prevedono che siano iscritte le attività finanziarie detenute per la negoziazione, secondo il test della lezione 09 (domanda 1)?
+**R:** «**Del fair value**»: per la slide 3 «per quelli detenuti per la negoziazione l'unico criterio ammesso è quello del fair value, con imputazione delle differenze da valutazione a C.E.». Distrattori del test: il **patrimonio netto** e il **costo**, cioè gli altri due metodi della slide 2, e il **costo ammortizzato**, che richiama il «costo non ammortizzato» dei titoli detenuti fino a scadenza.
+**Opzione:** Del fair value.
+**Distrattori:**
+- Del patrimonio netto.
+- Del costo.
+- Del costo ammortizzato.
+
+**D:** ⚠️ Quando i principi contabili nazionali prevedono che le svalutazioni delle immobilizzazioni finanziarie debbano essere registrate, secondo il test della lezione 09 (domanda 2)?
+**R:** Quando c'è una «**perdita di valore accertata che abbia il carattere della durevolezza**»: è la slide 4 alla lettera, che prosegue con «ossia non sia transitoria». ⚠️ I distrattori sono una scala di certezza: perdita «**molto probabile**», «**ipotetica**», «**recuperata**». «Probabile» compare nella slide, ma per l'inversione di tendenza dei titoli, cioè per la ragione di non svalutare.
+**Opzione:** Perdita di valore accertata che abbia il carattere della durevolezza.
+**Distrattori:**
+- Perdita di valore molto probabile.
+- Perdita di valore ipotetica.
+- Perdita di valore recuperata.
+
+**D:** ⚠️ Come opera il metodo del patrimonio netto ai sensi dello IAS 28, secondo il test della lezione 09 (domanda 3)?
+**R:** «**La partecipazione è inizialmente rilevata al costo** e il valore contabile è aumentato o diminuito per rilevare la quota spettante alla partecipante degli utili o delle perdite della collegata realizzati dopo la data di acquisizione», la slide 8 alla lettera. ⚠️ La coda è identica nelle quattro opzioni: cambia solo il valore iniziale. Distrattori del test: il **valore di mercato**; il **valore del patrimonio netto**, che deduce il valore iniziale dal nome del metodo; il **valore di potenziale realizzo**.
+**Opzione:** La partecipazione è inizialmente rilevata al costo e il valore contabile è aumentato o diminuito per rilevare la quota spettante alla partecipante degli utili o delle perdite della collegata realizzati dopo la data di acquisizione.
+**Distrattori:**
+- La partecipazione è inizialmente rilevata al valore di mercato e il valore contabile è aumentato o diminuito per rilevare la quota spettante alla partecipante degli utili o delle perdite della collegata realizzati dopo la data di acquisizione.
+- La partecipazione è inizialmente rilevata al valore del patrimonio netto e il valore contabile è aumentato o diminuito per rilevare la quota spettante alla partecipante degli utili o delle perdite della collegata realizzati dopo la data di acquisizione.
+- La partecipazione è inizialmente rilevata al valore di potenziale realizzo e il valore contabile è aumentato o diminuito per rilevare la quota spettante alla partecipante degli utili o delle perdite della collegata realizzati dopo la data di acquisizione.
+
+**D:** ⚠️ Quando trova applicazione il metodo del patrimonio netto per la valutazione delle partecipazioni, secondo il test della lezione 09 (domanda 4)?
+**R:** Se «**le partecipazioni sono di controllo o collegamento e sono iscritte tra le immobilizzazioni finanziarie**»: per la slide 9 il metodo vale «limitatamente» alle partecipazioni di controllo o di collegamento iscritte tra le immobilizzazioni. ⚠️ I tre distrattori mettono tutti le partecipazioni nell'**attivo circolante**, variando solo il tipo: di controllo, di collegamento, di controllo e collegamento. Per il docente il metodo non si applica «mai» al circolante ([00:13:12]).
+**Opzione:** Le partecipazioni sono di controllo o collegamento e sono iscritte tra le immobilizzazioni finanziarie.
+**Distrattori:**
+- Le partecipazioni sono di controllo e sono iscritte nell'attivo circolante.
+- Le partecipazioni sono di collegamento e sono iscritte nell'attivo circolante.
+- Le partecipazioni sono di controllo e collegamento e sono iscritte nell'attivo circolante.
+
+**D:** ⚠️ Quale parte del costo di acquisto non è deducibile ai fini fiscali per l'art. 101 del TUIR, secondo il test della lezione 09 (domanda 5)?
+**R:** La parte eccedente «**il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata**», la slide 14 alla lettera (art. 101, comma 3, D.P.R. 917/86). Distrattori del test: «il valore del **costo di acquisto**», che si contraddice da solo; «il valore di **mercato**»; «il valore di **presumibile realizzo** tramite la cessione», che richiama il parametro dell'attivo circolante.
+**Opzione:** Il valore corrispondente alla frazione di patrimonio netto risultante dall'ultimo bilancio dell'impresa partecipata.
+**Distrattori:**
+- Il valore del costo di acquisto.
+- Il valore di mercato.
+- Il valore di presumibile realizzo tramite la cessione.
