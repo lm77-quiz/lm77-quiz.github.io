@@ -4694,3 +4694,229 @@
 - Che aumenteranno le piccole banche, perché la specializzazione è diventata strategica e la grande dimensione non paga più: si regge solo chi resta vicino al territorio.
 - Le partecipazioni in imprese sottoposte a influenza notevole o a controllo congiunto che lo IAS 28 e l'IFRS 11 consentono di assegnare a tale portafoglio.
 - Fornire dati (informazioni quantitative) che consentano di ricostruire e approfondire i valori di sintesi dello stato patrimoniale e del conto economico; dare informazioni qualitative, ad esempio sui rischi e sulle relative politiche di copertura.
+
+## Lezione 19 — L'analisi della struttura dell'intermediazione, della redditività, dell'efficienza e della produttività
+
+**D:** ⚠️ Quali fattori sono rilevanti per la composizione delle fonti di una banca, secondo il test della lezione 19 (domanda 1)?
+**R:** **Composizione delle fonti, posizione netta di liquidità, contributo alla posizione interbancaria netta complessiva**: sono i tre termini in cui la slide 2 chiede di guardare al contributo della liquidità fornita dalle Banche centrali. Distrattori del test: cambiano la prima voce in «composizione degli impieghi», o la terza in «posizione interbancaria lorda» o «variazione delle immobilizzazioni». La posizione netta di liquidità è uguale in tutte le opzioni.
+**Opzione:** Composizione delle fonti, posizione netta di liquidità, contributo alla posizione interbancaria netta complessiva.
+**Distrattori:**
+- Composizione degli impieghi, posizione netta di liquidità, contributo alla posizione interbancaria netta complessiva.
+- Composizione degli impieghi, posizione netta di liquidità, contributo alla posizione interbancaria lorda.
+- Composizione delle fonti, posizione netta di liquidità, variazione delle immobilizzazioni.
+
+**D:** ⚠️ Come si definisce la posizione netta di liquidità di una banca, secondo la slide 2 della lezione 19?
+**R:** Come **differenza tra crediti e debiti verso Banche centrali** (slide 2). Per il docente è «semplicemente la differenza fra i crediti e i debiti» verso la Banca centrale ([00:03:15]). La stessa differenza è al numeratore della posizione interbancaria netta verso Banche centrali ([00:10:40]).
+**Opzione:** Come differenza tra crediti e debiti verso Banche centrali.
+**Distrattori:**
+- Come differenza tra crediti e debiti verso le altre banche.
+- Patrimonializzazione e rischiosità della banca.
+- A sofferenza, a incaglio, ristrutturati, past due.
+
+**D:** ⚠️ Da che cosa può dipendere il funding della banca, secondo il test della lezione 19 (domanda 2)?
+**R:** Dalla **raccolta presso la clientela**, dalla **raccolta sul mercato interbancario** e dalla **messa a disposizione di liquidità da Banche centrali**: è la slide 2, che parla di «raccolta istituzionale» sul mercato interbancario. Distrattori del test: cambiano solo la prima fonte, con «i mercati stranieri», «lo Stato» o «operatori previdenziali».
+**Opzione:** Raccolta presso la clientela, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+**Distrattori:**
+- Raccolta presso i mercati stranieri, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+- Raccolta presso lo Stato, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+- Raccolta presso operatori previdenziali, raccolta sul mercato interbancario, messa a disposizione di liquidità da Banche centrali.
+
+**D:** Che cosa intende per funding il docente della lezione 19, e qual è la fonte più semplice e comune?
+**R:** La **raccolta**, cioè la capacità della banca di raccogliere denaro anche in altri modi oltre che presso la Banca centrale. Il modo più semplice e comune è la **raccolta presso la clientela**, con l'apertura di **conti correnti**; poi il **mercato interbancario** e infine i fondi della Banca centrale ([00:03:58]–[00:05:49]).
+**Opzione:** La raccolta, cioè la capacità di raccogliere denaro anche oltre la Banca centrale; la fonte più semplice e comune è la raccolta presso la clientela con i conti correnti.
+**Distrattori:**
+- La raccolta, cioè la capacità di raccogliere denaro anche oltre la Banca centrale; la fonte più semplice e comune è il rifinanziamento presso la Banca centrale.
+- Stagnazione economica insieme a inflazione, di solito un'inflazione importata, per l'aumento dei prezzi dei beni energetici che lo Stato compra da altri.
+- Titoli di debito e finanziamenti con i risultati valutativi iscritti nel conto economico sulla base della facoltà riconosciuta alle imprese (c.d. fair value option) dall'IFRS 9.
+
+**D:** ⚠️ Quali indicatori di composizione dell'attivo riguardano le Banche centrali, secondo la slide 2 della lezione 19?
+**R:** **Crediti verso banche centrali / totale attivo** e **crediti verso banche centrali / crediti verso banche** (slide 2). Per il docente misurano l'incidenza dei crediti verso l'autorità centrale sul totale dell'attivo e sul totale dei crediti verso banche ([00:10:40]).
+**Opzione:** Crediti verso banche centrali / totale attivo; crediti verso banche centrali / crediti verso banche.
+**Distrattori:**
+- Crediti verso banche centrali / totale attivo; crediti verso banche centrali / debiti verso banche centrali.
+- Non in assoluto, ma in relazione ai livelli di rischio che la banca si assume.
+- Alle available for sale, cioè le disponibili per la vendita: la categoria ha cambiato nome.
+
+**D:** ⚠️ Quali indicatori di composizione del passivo riguardano le Banche centrali, secondo la slide 2 della lezione 19?
+**R:** **Debiti verso banche centrali / totale passivo** e **debiti verso banche centrali / debiti verso banche** (slide 2): per il docente è «esattamente la stessa cosa» dei crediti ([00:11:04]).
+**Opzione:** Debiti verso banche centrali / totale passivo; debiti verso banche centrali / debiti verso banche.
+**Distrattori:**
+- Debiti verso banche centrali / totale passivo; debiti verso banche centrali / patrimonio netto.
+- Che la durata media finanziaria dell'attivo sia leggermente più breve di quella del passivo.
+- Solo fra le attività finanziarie detenute per la negoziazione.
+
+**D:** ⚠️ Quali indicatori di struttura finanziaria riguardano le Banche centrali, secondo la slide 2 della lezione 19?
+**R:** **Posizione interbancaria netta verso Banche centrali / totale attivo** e **posizione interbancaria netta verso Banche centrali / posizione interbancaria netta** (slide 2). Per il docente al numeratore stanno i crediti meno i debiti verso Banche centrali ([00:10:40]–[00:11:57]).
+**Opzione:** Posizione interbancaria netta verso Banche centrali / totale attivo; posizione interbancaria netta verso Banche centrali / posizione interbancaria netta.
+**Distrattori:**
+- Posizione interbancaria netta verso Banche centrali / totale attivo; posizione interbancaria netta verso Banche centrali / patrimonio netto.
+- L'incapacità di avere il denaro necessario a pagare le obbligazioni alla scadenza; la banca vi è esposta se il passivo scade prima dell'attivo.
+- Non è più autonoma: è stata assorbita fra le attività al fair value con impatto a conto economico, perché numericamente molto poco rilevante.
+
+**D:** ⚠️ A quale famiglia di indicatori appartiene il rapporto crediti verso banche centrali / crediti verso banche, secondo la slide 2 della lezione 19?
+**R:** Alla **composizione dell'attivo**, con crediti verso banche centrali / totale attivo (slide 2). Il denominatore non è il totale attivo ma i crediti verso banche, la voce di cui i crediti verso Banche centrali sono una parte. Resta un indicatore di **composizione**, perché numeratore e denominatore stanno entrambi nell'attivo. Lo stesso vale per i debiti nel passivo.
+**Opzione:** Composizione dell'attivo.
+**Distrattori:**
+- Composizione del passivo.
+- Composizione della struttura finanziaria.
+- I flussi finanziari assorbiti o generati nel corso dell'esercizio.
+
+**D:** ⚠️ Fra quali indicatori rientra il rapporto crediti verso la clientela / debiti verso la clientela, secondo il test della lezione 19 (domanda 3)?
+**R:** Fra gli indicatori **di struttura finanziaria**: è il loan to deposit ratio, che rapporta una voce dell'attivo a una del passivo (slide 3; lezione 18, slide 8). Distrattori del test: «di composizione dell'attivo», «di composizione del patrimonio netto», «di composizione del passivo».
+**Opzione:** Di struttura finanziaria.
+**Distrattori:**
+- Di composizione dell'attivo.
+- Di composizione del patrimonio netto.
+- Di composizione del passivo.
+
+**D:** ⚠️ Fra quali indicatori rientra il rapporto crediti verso banche / totale attivo, secondo il test della lezione 19 (domanda 4)?
+**R:** Fra gli indicatori **di composizione dell'attivo**: CB/TA ha al denominatore il totale attivo (slide 3; lezione 18, slide 6). Distrattori del test: «di composizione del patrimonio netto», «di struttura finanziaria», «di composizione del passivo».
+**Opzione:** Di composizione dell'attivo.
+**Distrattori:**
+- Di composizione del patrimonio netto.
+- Di struttura finanziaria.
+- Di composizione del passivo.
+
+**D:** ⚠️ Fra quali indicatori rientra il rapporto titoli in circolazione / totale passivo, secondo il test della lezione 19 (domanda 5)?
+**R:** Fra gli indicatori **di composizione del passivo**: TC/TP ha al denominatore il totale passivo (slide 3; lezione 18, slide 7). Distrattori del test: «di composizione dell'attivo», «di composizione del patrimonio netto», «di struttura finanziaria».
+**Opzione:** Di composizione del passivo.
+**Distrattori:**
+- Di composizione dell'attivo.
+- Di composizione del patrimonio netto.
+- Di struttura finanziaria.
+
+**D:** Che cosa succede al leverage ratio quando cambiano gli altri indicatori della struttura dell'intermediazione, secondo il docente della lezione 19?
+**R:** Cambia anche lui: gli indicatori «sono correlati fra loro», e tutti insieme portano al leverage ratio. Per incidere sul leverage bisogna incidere su crediti e debiti verso clientela e banche, titoli in circolazione e così via. Serve una visione completa del sistema aziendale bancario ([00:18:56]–[00:20:19]).
+**Opzione:** Cambia anche il leverage ratio, perché gli indicatori sono correlati: per incidere sul leverage si deve agire su crediti, debiti e titoli in circolazione.
+**Distrattori:**
+- Il leverage ratio non cambia, perché gli indicatori sono indipendenti: per incidere sul leverage si deve agire solo sul patrimonio netto.
+- In serie storica, sugli ultimi 5–10 anni della banca, e nel confronto con i concorrenti e con la media del settore.
+- La riserva obbligatoria fra i crediti verso banche, come credito verso Banche Centrali; i depositi a vista nella voce Cassa e disponibilità liquide.
+
+**D:** ⚠️ Perché un leverage ratio troppo elevato è pericoloso, secondo il docente della lezione 19?
+**R:** Il leverage è usato spesso come **moltiplicatore di utili**, ma funziona solo se gli utili crescono. Se diventano una **perdita**, un indicatore troppo elevato **amplifica la perdita**, e il rischio di **insolvenza** diventa molto alto ([00:14:10]–[00:15:10]). Per la banca non deve essere troppo alto, perché aumenta la rischiosità complessiva ([00:17:37]–[00:18:34]).
+**Opzione:** Perché moltiplica gli utili quando crescono, ma amplifica le perdite quando gli utili diventano una perdita, e il rischio di insolvenza diventa molto alto.
+**Distrattori:**
+- Perché attenua gli utili quando crescono e attenua anche le perdite, così la banca perde redditività senza ridurre il rischio di insolvenza.
+- Che resteranno meno di 10 grandi banche, perché la dimensione è diventata strategica e il nanismo non paga più: si regge solo chi ripartisce i costi fissi su molti clienti.
+- Rischio di credito, rischio di mercato, rischio di liquidità e rischi operativi.
+
+**D:** ⚠️ Che cosa significa, per il docente della lezione 19, un leverage ratio uguale a 6, e quale range indica come molto buono in generale?
+**R:** Per il docente, che «per ogni euro messo dai soci, altri soggetti hanno messo **6 euro**»; con 15, ne hanno messi 15 ([00:15:40]–[00:16:21]). Il rapporto non può essere **uno**, perché tutto l'attivo sarebbe coperto da patrimonio netto. In generale «va bene se sta fra **1,5 e 2,5**», ma dipende dal settore, e per la banca il riferimento è la **media di settore** ([00:16:56]–[00:18:34]). La nota precisa in un blocco ℹ️ che con TA/PN uguale a 6 i terzi finanziano 5 euro per euro di patrimonio.
+**Opzione:** Che per ogni euro dei soci altri soggetti hanno messo 6 euro; in generale va bene fra 1,5 e 2,5, ma per la banca conta la media di settore.
+**Distrattori:**
+- Che per ogni euro dei soci altri soggetti hanno messo 6 euro; in generale va bene fra 6 e 15, ma per la banca conta la media di settore.
+- Debiti verso altre banche; debiti verso la clientela, come i conti correnti; titoli in circolazione, come i certificati di deposito; passività finanziarie, come un prestito obbligazionario.
+- I titoli di debito e i finanziamenti allocati nel portafoglio valutato al costo ammortizzato.
+
+**D:** ⚠️ Che cosa esprime la redditività della banca, secondo la slide 4 della lezione 19?
+**R:** «L'**attitudine** della banca a **produrre reddito**, ovvero a operare in **equilibrio economico tra costi e ricavi**» (slide 4). Per il docente l'utile si ha quando i ricavi di competenza superano i costi di competenza ([00:20:21]–[00:21:13]).
+**Opzione:** L'attitudine della banca a produrre reddito, ovvero a operare in equilibrio economico tra costi e ricavi.
+**Distrattori:**
+- L'attitudine della banca a produrre liquidità, ovvero a operare in equilibrio finanziario tra entrate e uscite.
+- La liquidità generata o assorbita dalla banca per effetto dell'attività operativa, di investimento e di provvista che essa ha posto in essere nel periodo.
+- All'andamento economico generale, alle condizioni del sistema bancario, al posizionamento delle altre banche.
+
+**D:** ⚠️ Che cosa sono l'efficienza operativa e l'efficienza allocativa della banca, secondo la slide 4 della lezione 19?
+**R:** L'efficienza attiene alla capacità di **minimizzare i costi**. Quella **operativa** è la capacità di minimizzare i **costi gestionali**; quella **allocativa** è la capacità di **allocare le risorse intermediate** minimizzando i **rischi** e i costi «(in termini di perdite)» (slide 4). Per il docente l'efficienza allocativa è prestare soldi solo a chi li ridarà nei tempi e nei modi del contratto ([00:21:13]–[00:22:33]).
+**Opzione:** Operativa: la capacità di minimizzare i costi gestionali; allocativa: la capacità di allocare le risorse intermediate minimizzando i rischi e i costi (in termini di perdite).
+**Distrattori:**
+- Operativa: la capacità di allocare le risorse intermediate minimizzando i rischi e i costi (in termini di perdite); allocativa: la capacità di minimizzare i costi gestionali.
+- I proventi e gli oneri inerenti i servizi erogati e i servizi ricevuti: di incasso e pagamento, di intermediazione e gestione di strumenti finanziari, per garanzie, e così via.
+- L'andamento economico generale perché ne è necessariamente influenzata l'attività bancaria; le condizioni del sistema bancario perché indicano le tendenze in atto e sono un parametro di riferimento per la singola banca.
+
+**D:** ⚠️ A che cosa attiene la produttività della banca, secondo la slide 4 della lezione 19?
+**R:** «Al **rendimento dei fattori produttivi**, ovvero alla **massimizzazione del risultato** ottenuto in termini di **prodotti e servizi erogati**» (slide 4). Per il docente l'esempio è l'automobile che con un litro di benzina fa 25 km invece di 18 ([00:22:33]–[00:24:31]).
+**Opzione:** Al rendimento dei fattori produttivi, ovvero alla massimizzazione del risultato ottenuto in termini di prodotti e servizi erogati.
+**Distrattori:**
+- Al costo dei fattori produttivi, ovvero alla minimizzazione dei costi sostenuti in termini di personale e di strutture.
+- L'intermediazione, con il margine d'interesse; la prestazione di servizi alla clientela, con le commissioni attive e passive; le operazioni sul mercato finanziario.
+- Struttura dell'intermediazione; redditività, efficienza e produttività; patrimonializzazione; rischiosità.
+
+**D:** ⚠️ Che cosa succede alla redditività della banca al crescere della produttività e della capacità di minimizzare i costi, secondo la slide 4 della lezione 19?
+**R:** «A **parità di altri fattori**, al crescere della produttività e della capacità della banca di minimizzare i costi sostenuti – **operativi o allocativi** – la redditività **migliora**» (slide 4).
+**Opzione:** A parità di altri fattori, la redditività migliora.
+**Distrattori:**
+- A parità di altri fattori, la redditività peggiora.
+- Composizione dell'attivo.
+- Le variazioni di riserve, le operazioni sul patrimonio netto e la redditività complessiva dell'esercizio T1.
+
+**D:** ⚠️ Che cosa consentono l'analisi per margini e l'analisi per indici della redditività della banca, secondo la slide 5 della lezione 19?
+**R:** L'**analisi per margini** consente di cogliere la **modalità di formazione del risultato d'esercizio** e il **contributo** al risultato finale delle diverse componenti di ricavo e di costo dei principali margini intermedi. L'**analisi per indici** consente di effettuare valutazioni e **confronti intertemporali e interaziendali** (slide 5).
+**Opzione:** Per margini, cogliere la formazione del risultato d'esercizio e il contributo delle componenti di ricavo e di costo; per indici, valutazioni e confronti intertemporali e interaziendali.
+**Distrattori:**
+- Per margini, valutazioni e confronti intertemporali e interaziendali; per indici, cogliere la formazione del risultato d'esercizio e il contributo delle componenti di ricavo e di costo.
+- I titoli di capitale designati fra le componenti senza rigiro a conto economico; le attività finanziarie al fair value con impatto sulla redditività complessiva fra quelle con rigiro.
+- A una più completa interpretazione dei risultati economici conseguiti e dei diversi profili gestionali che incidono sulla performance bancaria complessiva.
+
+**D:** Da che cosa muove l'analisi della redditività della banca, secondo la slide 5 della lezione 19?
+**R:** «Dalla **lettura del conto economico** (analisi per margini) e dalla **costruzione di opportuni indicatori reddituali** utili all'individuazione e all'interpretazione dei principali aspetti di rilievo (analisi per indici)» (slide 5). Per il docente i margini sono **differenze**, gli indici **quozienti** ([00:24:31]–[00:25:39]).
+**Opzione:** Dalla lettura del conto economico, cioè l'analisi per margini, e dalla costruzione di opportuni indicatori reddituali, cioè l'analisi per indici.
+**Distrattori:**
+- Dalla lettura del rendiconto finanziario, cioè l'analisi per flussi, e dalla costruzione di opportuni indicatori reddituali, cioè l'analisi per indici.
+- Crediti verso banche / totale attivo; crediti verso clientela / totale attivo; attività finanziarie / totale attivo.
+- Le voci che compongono il patrimonio netto della banca e le variazioni che si registrano in ciascuna di esse nel corso dell'esercizio.
+
+**D:** Quando, per il docente della lezione 19, un indice di redditività ha poco senso e quando ha molto senso?
+**R:** Un indice relativo a un **unico esercizio** «ha poco senso». Ha molto senso costruirlo sugli **ultimi 10 esercizi** della stessa impresa, perché mostra il **trend**; e gli stessi indicatori riferiti a **più imprese in più anni** hanno un contenuto informativo molto importante ([00:25:39]–[00:26:25]).
+**Opzione:** Ha poco senso su un unico esercizio; ha molto senso sugli ultimi 10 esercizi della stessa impresa, e riferito a più imprese in più anni.
+**Distrattori:**
+- Ha poco senso riferito a più imprese; ha molto senso su un unico esercizio della stessa impresa, purché recente.
+- Dal 1° gennaio 2016, dopo la riforma del codice civile del 2015; prima lo prevedevano solo i principi dei dottori commercialisti, senza forza di legge.
+- Costi operativi (voce 210); utile (perdita) della operatività corrente; utile (perdita) d'esercizio (voce 300).
+
+**D:** ⚠️ A quali fini è opportuno riclassificare conto economico e stato patrimoniale per analizzare la redditività della banca, secondo la slide 6 della lezione 19?
+**R:** Per **delineare la modalità di formazione dei margini intermedi** e il contributo delle diverse voci al risultato economico di esercizio, e per **consentire il calcolo dei relativi indicatori** di analisi (slide 6). Per il docente riclassificare vuol dire «riesprimere i valori» secondo una modalità più adatta alle esigenze di analisi ([00:26:44]).
+**Opzione:** Per delineare la modalità di formazione dei margini intermedi e il contributo delle diverse voci al risultato di esercizio, e per consentire il calcolo dei relativi indicatori di analisi.
+**Distrattori:**
+- Per delineare la modalità di formazione dei margini intermedi e il contributo delle diverse voci al risultato di esercizio, e per consentire il calcolo delle imposte sul reddito.
+- Accrescere il grado di leggibilità del bilancio e della gestione aziendale rappresentata in esso.
+- Perché il patrimonio netto ha anche una funzione di copertura dei rischi: per la vigilanza è il cuscinetto che assorbe i rischi non correttamente definiti o calcolati.
+
+**D:** ⚠️ Secondo quali modalità si riclassificano, rispettivamente, il conto economico e lo stato patrimoniale per l'analisi della redditività della banca, secondo la slide 6 della lezione 19?
+**R:** Il conto economico **per aree gestionali di produzione bancaria**; lo stato patrimoniale **per fonti di proventi e di oneri** (slide 6, «rispettivamente»). Per il docente si riclassifica per aree funzionali o gestionali, o in base a «da dove provengono», cioè per fonte, i proventi e gli oneri ([00:27:13]).
+**Opzione:** Il conto economico per aree gestionali di produzione bancaria; lo stato patrimoniale per fonti di proventi e di oneri.
+**Distrattori:**
+- Il conto economico per fonti di proventi e di oneri; lo stato patrimoniale per aree gestionali di produzione bancaria.
+- Negli OIC dentro la nota integrativa; nei principi internazionali è un documento a sé stante del bilancio.
+- Oltre all'utile (perdita) d'esercizio, altre componenti reddituali non rilevate a conto economico: essenzialmente le variazioni di valore delle attività registrate nell'esercizio in contropartita delle riserve da valutazione.
+
+**D:** Che cosa consente di apprezzare la riclassificazione del conto economico per aree gestionali di produzione bancaria, secondo la slide 7 della lezione 19?
+**R:** La **modalità di formazione dei risultati economici e dei margini intermedi**, e il **contributo delle diverse aree gestionali** della banca alla formazione del risultato finale (slide 7).
+**Opzione:** La modalità di formazione dei risultati economici e dei margini intermedi, e il contributo delle diverse aree gestionali della banca alla formazione del risultato finale.
+**Distrattori:**
+- La modalità di formazione dei flussi di liquidità e dei saldi di cassa, e il contributo delle diverse aree gestionali della banca alla formazione del risultato finale.
+- Interessi attivi nella sezione 1 (voci 10 e 20); dividendi nella sezione 3 (voce 70); risultato netto dell'attività di negoziazione nella sezione 4 (voce 80).
+- Totale attivo / patrimonio netto: più è basso più è positivo, più è alto più è rischioso.
+
+**D:** ⚠️ Quali margini intermedi ulteriori individua esplicitamente la riclassificazione del conto economico per aree gestionali di produzione bancaria, rispetto agli schemi obbligatori, secondo la slide 7 della lezione 19?
+**R:** Quattro: il **margine di gestione denaro e servizi** (MGDS); il **risultato netto delle operazioni finanziarie** (RNOF); il **risultato netto della gestione assicurativa** (RNGA); gli **oneri/proventi straordinari** (OPS) (slide 7). Identifica inoltre due risultati gestionali, RLG e RNG.
+**Opzione:** Margine di gestione denaro e servizi (MGDS); risultato netto delle operazioni finanziarie (RNOF); risultato netto della gestione assicurativa (RNGA); oneri/proventi straordinari (OPS).
+**Distrattori:**
+- Margine di gestione denaro e servizi (MGDS); risultato netto delle operazioni finanziarie (RNOF); risultato netto della gestione assicurativa (RNGA); risultato lordo di gestione (RLG).
+- A attività operativa, B attività di investimento, C attività di provvista; la liquidità netta dell'esercizio è D = A ± B ± C.
+- Emissione nuove azioni; acquisto azioni proprie; distribuzione straordinaria dividendi; variazione strumenti di capitale; derivati su proprie azioni; stock options.
+
+**D:** ⚠️ Quali risultati gestionali identifica la riclassificazione del conto economico per aree gestionali di produzione bancaria, secondo la slide 7 della lezione 19?
+**R:** Il **risultato lordo di gestione** (RLG) e il **risultato netto di gestione** (RNG) (slide 7). Sono distinti dai quattro margini intermedi ulteriori MGDS, RNOF, RNGA e OPS. Per il docente negli schemi di legge questi elementi non ci sono ([00:28:01]).
+**Opzione:** Il risultato lordo di gestione (RLG) e il risultato netto di gestione (RNG).
+**Distrattori:**
+- Il risultato lordo di gestione (RLG) e il risultato netto della gestione finanziaria (RNGF).
+- Le plus/minusvalenze con il segno (-/+); le rettifiche/riprese di valore nette per rischio di credito con il segno (+/-).
+- La cassa iniziale, più o meno la liquidità netta dell'esercizio e l'effetto della variazione dei cambi, dà la cassa e disponibilità liquide alla chiusura.
+
+**D:** ⚠️ Quando funziona, per il docente della lezione 19, l'aumento delle riserve presso la Banca centrale per contenere l'inflazione, e quando no?
+**R:** Funziona con l'inflazione **endogena**, legata alla crescita del PIL e degli scambi: i fondi depositati restano bloccati, si interrompe il moltiplicatore dei depositi, la massa monetaria diminuisce e l'economia viene «**raffreddata**». **Non serve** con l'inflazione **importata**, per esempio quando il prezzo delle materie energetiche sale per una guerra fra paesi esportatori, perché non incide sul prezzo del venditore ([00:07:29]–[00:10:40]).
+**Opzione:** Funziona con l'inflazione endogena, legata alla crescita dell'economia; non serve con l'inflazione importata, come quella dei prezzi energetici.
+**Distrattori:**
+- Funziona con l'inflazione importata, come quella dei prezzi energetici; non serve con l'inflazione endogena, legata alla crescita dell'economia.
+- Dividendi e proventi simili nella gestione dell'attività operativa; dividendi incassati su partecipazioni nell'attività di investimento; distribuzione dividendi nell'attività di provvista.
+- Un'impresa può restare in vita anche in perdita economica, ma se le uscite superano le entrate e non trova altro denaro l'attività finisce: la liquidità è la condizione essenziale per la sua vita.
+
+**D:** In quale documento, per il docente della lezione 19, la banca stessa può già svolgere buona parte delle analisi sulla struttura dell'intermediazione e sulla redditività?
+**R:** Nella **relazione sulla gestione**, il documento obbligatorio che il **consiglio di amministrazione** deve redigere e allegare al bilancio. Se è redatta correttamente, ne contiene buona parte, e l'analista può farsi una valutazione fondata ([00:01:07]–[00:02:16]).
+**Opzione:** Nella relazione sulla gestione, che il consiglio di amministrazione deve redigere e allegare al bilancio.
+**Distrattori:**
+- Nella relazione del collegio sindacale, che i sindaci devono redigere e allegare al bilancio.
+- I criteri di iscrizione, di classificazione, di valutazione e di cancellazione delle attività e delle passività che ha adottato la banca.
+- Per categorie di rischi (di credito, di mercato, di liquidità, operativi), informazioni qualitative sulle politiche, i processi di gestione e i metodi di misurazione dei rischi, e informazioni quantitative.
