@@ -1532,3 +1532,255 @@
 - Sì.
 - Solo quelli più rilevanti.
 - Solo se realizzati all'estero.
+
+## Lezione 07 — L'ammortamento delle immobilizzazioni materiali e le immobilizzazioni immateriali
+
+**D:** ⚠️ Come definisce l'ammortamento la lezione 07?
+**R:** «L'ammortamento costituisce un **procedimento tecnico-contabile di ripartizione di un costo avente utilità pluriennale fra gli esercizi che beneficeranno del suo concorso alla formazione dei ricavi**» (slide 2). Per il docente il costo si ripartisce sugli esercizi che beneficeranno del concorso di quel **bene strumentale** alla formazione dei ricavi ([00:00:07]–[00:00:35]).
+**Opzione:** Un procedimento tecnico-contabile di ripartizione di un costo avente utilità pluriennale fra gli esercizi che beneficeranno del suo concorso alla formazione dei ricavi.
+**Distrattori:**
+- Un procedimento tecnico-contabile di ripartizione di un costo avente utilità pluriennale fra gli esercizi in cui ne avviene il pagamento.
+- Il valore attuale dei flussi finanziari netti che l'attività si prevede sarà in grado di generare in futuro.
+- In modo diretto, con la realizzazione o la dismissione del bene; in modo indiretto, attraverso il processo di ammortamento.
+
+**D:** ⚠️ Quali beni sono ammortizzabili e quali sono esclusi dall'ammortamento, secondo la lezione 07?
+**R:** «Sono quei beni **suscettibili di deterioramento attraverso l'uso**. Ne consegue che sono esclusi da tale procedura i **beni non deperibili** (per esempio i **terreni salvo eccezioni**). Tale impostazione vale **sia per i principi nazionali che internazionali**» (slide 2). Le eccezioni del docente sono i terreni utilizzati per **discariche**, **cave** o **torbiere**, che l'uso deteriora ([00:00:57]–[00:01:47]).
+**Opzione:** I beni suscettibili di deterioramento attraverso l'uso; sono esclusi i beni non deperibili, per esempio i terreni salvo eccezioni, sia nei principi nazionali sia in quelli internazionali.
+**Distrattori:**
+- I beni suscettibili di deterioramento attraverso l'uso; sono esclusi i beni non deperibili, per esempio i terreni salvo eccezioni, ma solo nei principi nazionali.
+- Immobili posseduti al fine di percepirne canoni di locazione e/o per l'apprezzamento del capitale investito.
+- Quando il bene è permanentemente ritirato dall'uso e dalla sua dismissione non sono attesi benefici economici futuri.
+
+**D:** Quali terreni si ammortizzano, in deroga alla regola, secondo il docente della lezione 07?
+**R:** Normalmente il terreno non si ammortizza, perché non si deteriora con l'uso. Fanno eccezione i terreni utilizzati per **discariche**, **cave** o **torbiere**, che l'uso strumentale dell'impresa deteriora ([00:00:57]–[00:01:47]). La slide 2 dice solo «i terreni salvo eccezioni».
+**Opzione:** I terreni utilizzati per discariche, cave o torbiere, che l'uso strumentale dell'impresa deteriora.
+**Distrattori:**
+- Nessuno: i terreni non si ammortizzano mai, senza eccezioni.
+- Tutti i terreni, come ogni altra immobilizzazione materiale.
+
+**D:** ⚠️ Qual è il valore da ammortizzare nei principi nazionali e in quelli internazionali, secondo la lezione 07?
+**R:** «Il valore da ammortizzare è costituito per i principi **sia nazionali sia internazionali** dal **costo, al netto del valore di presunto realizzo al termine della vita utile**» (slide 3). Per il docente quel valore è «quasi sempre» pari a **zero**, salvo elementi che consentano di stimarlo in modo attendibile ([00:02:21]–[00:03:25]).
+**Opzione:** Per entrambi, il costo al netto del valore di presunto realizzo al termine della vita utile.
+**Distrattori:**
+- Per entrambi, il costo maggiorato del valore di presunto realizzo al termine della vita utile.
+- Terreni e fabbricati: il prezzo di mercato; impianti e macchinari: il valore di mercato, se esiste, altrimenti il costo di sostituzione ammortizzato.
+- Il minore tra prezzo netto di vendita e valore d'uso di ogni singola attività.
+
+**D:** Quanto vale di solito il valore di presunto realizzo al termine della vita utile, e quando se ne può tenere conto, secondo il docente della lezione 07?
+**R:** È «**quasi sempre**» pari a **zero**: quando il bene si acquista per impiegarlo nel processo produttivo, un valore residuo è molto difficile da prevedere in maniera attendibile. Se però esistono elementi che consentono di definirlo **in maniera attendibile**, si possono usare per determinarlo ([00:02:21]–[00:03:25]).
+**Opzione:** È quasi sempre pari a zero; se ne tiene conto solo se ci sono elementi per definirlo in maniera attendibile.
+**Distrattori:**
+- È sempre pari a zero; non se ne tiene conto nemmeno se ci sono elementi per definirlo in maniera attendibile.
+- Il valore corrente, cioè il valore a cui il bene si scambierebbe fra due parti indipendenti, in quello stato di mercato e d'uso.
+
+**D:** ⚠️ Con che cosa coincide il periodo di ammortamento, e di quali fattori si deve tenere conto per determinarlo, secondo la lezione 07?
+**R:** «Coincide con il **lasso temporale in cui il cespite potrà essere utilizzato dall'impresa**. Sia i principi nazionali sia gli IAS prevedono si debba tenere conto del **deterioramento fisico**, dell'**obsolescenza tecnica**, delle **condizioni di operatività**» (slide 3). Per il docente l'obsolescenza tecnica è quella degli apparati elettronici e tecnici superati da impianti più prestazionali ([00:03:47]–[00:04:34]).
+**Opzione:** Con il lasso temporale in cui il cespite potrà essere utilizzato dall'impresa; si tiene conto del deterioramento fisico, dell'obsolescenza tecnica, delle condizioni di operatività.
+**Distrattori:**
+- Con il lasso temporale in cui il cespite potrà essere utilizzato dall'impresa; si tiene conto del deterioramento fisico, dell'obsolescenza tecnica, del valore di presunto realizzo.
+- Con quello di passaggio del titolo di proprietà.
+- Entro un periodo massimo di 5 anni, salvo quanto disposto per l'avviamento (10 anni).
+
+**D:** ⚠️ Chi determina il periodo di ammortamento di un'immobilizzazione materiale, e su quali basi, secondo il docente della lezione 07?
+**R:** Né i principi nazionali né quelli internazionali fissano un numero di anni: «tre anni, cinque anni, sette anni, dieci anni, trent'anni» sono esempi. Il periodo lo determina l'**estensore del bilancio** sulla base dei **tre criteri**, cioè deterioramento fisico, obsolescenza tecnica e condizioni di operatività, di **quello specifico bene** nel ciclo di **quella specifica impresa** ([00:04:46]–[00:05:26]). ⚠️ Le cifre 3, 5 e 7 anni sono i distrattori della domanda 3 del test.
+**Opzione:** L'estensore del bilancio, sulla base del deterioramento fisico, dell'obsolescenza tecnica e delle condizioni di operatività di quello specifico bene in quella specifica impresa.
+**Distrattori:**
+- Il Codice civile, che fissa un periodo di 5 anni uguale per tutte le immobilizzazioni materiali.
+- Il venditore, l'acquirente e la società di leasing.
+- Al consenso del collegio sindacale, se presente; se il collegio non c'è, la responsabilità ricade sugli amministratori.
+
+**D:** ⚠️ Dove si collocano le immobilizzazioni immateriali nello schema dello stato patrimoniale, secondo la lezione 07?
+**R:** Alla voce «**B) Immobilizzazioni — I – Immobilizzazioni immateriali**» (slide 4). Per il docente il Codice civile le indica nella voce B dello stato patrimoniale attivo, sottovoce «primo» ([00:05:47]). Le immobilizzazioni materiali sono la **II** (lezione 04).
+**Opzione:** Alla voce B) Immobilizzazioni, I – Immobilizzazioni immateriali.
+**Distrattori:**
+- Alla voce B) Immobilizzazioni, II – Immobilizzazioni immateriali.
+- Nello schema dell'art. 2424, alla voce B) Immobilizzazioni, II – Immobilizzazioni materiali.
+- Nulla: solo conti d'ordine nella nota integrativa, cioè il sistema degli impegni.
+
+**D:** ⚠️ Quali sono, nell'ordine, le sette voci delle immobilizzazioni immateriali nello schema dello stato patrimoniale, secondo la lezione 07?
+**R:** «1) Costi di impianto e ampliamento; 2) Costi di sviluppo; 3) Diritti di brevetto industriale e diritti di utilizzazione opere dell'ingegno; 4) Concessioni, licenze, marchi e diritti simili; 5) Avviamento; 6) Immobilizzazioni in corso e acconti; 7) Altre» (slide 4). Il docente separa brevetto e opere dell'ingegno e tratta «altre» come categoria conclusiva ([00:06:14]–[00:06:35]): vale la slide.
+**Opzione:** Costi di impianto e ampliamento; costi di sviluppo; diritti di brevetto industriale e diritti di utilizzazione opere dell'ingegno; concessioni, licenze, marchi e diritti simili; avviamento; immobilizzazioni in corso e acconti; altre.
+**Distrattori:**
+- Costi di impianto e ampliamento; costi di ricerca e sviluppo; diritti di brevetto industriale e diritti di utilizzazione opere dell'ingegno; concessioni, licenze, marchi e diritti simili; avviamento; immobilizzazioni in corso e acconti; altre.
+- Terreni e fabbricati; impianti e macchinario; attrezzature industriali e commerciali; altri beni; immobilizzazioni in corso e acconti.
+- Natura contabile: costi anticipati o sospesi comuni a più periodi amministrativi; natura fisica: materialità; natura economica: strumentalità.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco delle immobilizzazioni immateriali, e a che cosa serve, secondo la lezione 07?
+**R:** Con la voce «**7) Altre**» (slide 4). Per il docente è una categoria che ha «natura di **chiusura**» dell'elencazione, «in modo che sia **omnicomprensivo**» ([00:06:35]). ⚠️ «Immobilizzazioni in corso e acconti» è qui la penultima voce, ma è l'ultima dell'elenco delle immobilizzazioni materiali (lezione 04).
+**Opzione:** Con la voce altre, che chiude l'elencazione perché sia omnicomprensiva.
+**Distrattori:**
+- Con la voce immobilizzazioni in corso e acconti, che chiude l'elencazione perché sia omnicomprensiva.
+- Con la voce avviamento, che chiude l'elencazione perché sia omnicomprensiva.
+- Con la voce altri beni, che chiude l'elencazione perché sia omnicomprensiva.
+
+**D:** ⚠️ Quale documento nazionale disciplina le immobilizzazioni immateriali, e che cosa rimarca, secondo la lezione 07?
+**R:** «Le I.I. sono oggetto del documento **OIC n.24**, il quale **non fornisce ulteriori indicazioni** rispetto a quelle previste per le I.M.; rimarca **solo** la distinzione tra **beni immateriali veri e propri e oneri pluriennali**» (slide 5). Per il docente l'OIC 24 dà «più ampie delucidazioni» rispetto alle scarne informazioni del Codice civile ([00:07:19]): vale la slide.
+**Opzione:** L'OIC n. 24, che non fornisce ulteriori indicazioni rispetto a quelle previste per le immobilizzazioni materiali e rimarca solo la distinzione tra beni immateriali veri e propri e oneri pluriennali.
+**Distrattori:**
+- L'OIC n. 24, che non fornisce ulteriori indicazioni rispetto a quelle previste per le immobilizzazioni materiali e rimarca solo la distinzione tra attività acquisite separatamente e attività acquisite con un ramo d'azienda.
+- L'OIC 16 nel modello nazionale, lo IAS 16 in quello internazionale.
+- Il principio contabile n. 12 CNDC-CNR.
+
+**D:** ⚠️ Come definiscono gli IAS le attività immateriali, secondo la lezione 07?
+**R:** Come «attività **non monetaria**, **identificabile**, **priva di consistenza fisica** e posseduta per essere **utilizzata nella produzione o fornitura di beni o servizi**» (slide 5). Per il docente la mancanza di consistenza fisica non impedisce di usare il bene nella produzione ([00:09:06]–[00:09:32]). ⚠️ Nella domanda 4 del test ogni distrattore capovolge uno solo dei primi tre attributi.
+**Opzione:** Attività non monetaria, identificabile, priva di consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi.
+**Distrattori:**
+- Attività non monetaria, identificabile, priva di consistenza fisica e posseduta per essere destinata alla vendita.
+- Hanno la caratteristica della materialità, hanno durata pluriennale e sono strumentali.
+- La tangibilità, cioè la caratteristica della materialità.
+
+**D:** Che cosa distingue la definizione di attività immateriale dei principi internazionali da quella dei principi nazionali, secondo il docente della lezione 07?
+**R:** La definizione dei principi internazionali è «decisamente più collegata all'aspetto **economico-aziendalistico**», mentre i principi nazionali sono «più strettamente collegati al **dato normativo giuridico**». Per il docente è la caratteristica che segna le principali differenze fra i due modelli in tutte le fattispecie ([00:08:24]–[00:09:06]).
+**Opzione:** Quella internazionale è più collegata all'aspetto economico-aziendalistico, quella nazionale al dato normativo giuridico.
+**Distrattori:**
+- Quella nazionale è più collegata all'aspetto economico-aziendalistico, quella internazionale al dato normativo giuridico.
+- I principi internazionali sono più generici, perché parlano di benefici futuri senza specificarne la natura; quelli nazionali sono più specifici, perché nominano capacità, produttività o vita utile.
+- L'OIC, pur avendo carattere privatistico, è previsto dalla legge; il Consiglio era un'associazione totalmente privatistica, i cui principi non avevano validità normativa immediata.
+
+**D:** Perché la formula della Coca-Cola è, per il docente della lezione 07, una classica immobilizzazione immateriale?
+**R:** Perché **non ha materialità**, non la si può toccare fisicamente, eppure genera **flussi ingenti di ricavi** e di entrate per l'impresa. Gli altri esempi del docente sono i grandi **marchi** della moda, dell'automotive, dei profumi e dell'estetica, che garantiscono flussi di ricavi e di cassa negli esercizi successivi ([00:09:49]–[00:11:06]).
+
+**D:** ⚠️ Quali punti dell'art. 2426 c.c. si applicano all'iscrizione e alla valutazione delle immobilizzazioni immateriali nei principi nazionali, secondo la lezione 07?
+**R:** «a) **Criterio del costo**; b) **Ammortamento sistematico per il periodo di vita utile**; c) **Obbligo di svalutazione per perdite durevoli e obbligo di ripristino del valore originario**» (slide 6). Per il docente sono regole simili a quelle delle immobilizzazioni materiali; il ripristino è obbligatorio quando vengono meno i motivi della svalutazione ([00:11:30]–[00:12:41]).
+**Opzione:** Criterio del costo; ammortamento sistematico per il periodo di vita utile; obbligo di svalutazione per perdite durevoli e obbligo di ripristino del valore originario.
+**Distrattori:**
+- Criterio del costo; ammortamento sistematico per il periodo di vita utile; obbligo di svalutazione per perdite durevoli e facoltà di ripristino del valore originario.
+- Indica il costo come trattamento contabile di riferimento e accetta come criterio alternativo la rivalutazione del costo storico sino al fair value, al netto degli ammortamenti.
+- Che sia probabile che i futuri benefici economici riferibili al bene siano goduti dall'impresa, e che il costo del bene sia determinabile in maniera attendibile.
+
+**D:** ⚠️ Che cosa vuol dire che l'ammortamento delle immobilizzazioni immateriali deve essere sistematico, secondo il docente della lezione 07?
+**R:** Vuol dire **predefinito**: prima che l'ammortamento cominci si definisce un **sistema**, cioè una modalità di calcolo delle quote, che salvo eventi non prevedibili va **mantenuta per tutta la vita utile**. Le quote possono essere **costanti**, ma si può prevedere anche una sistematicità **crescente** o **decrescente** ([00:13:03]–[00:13:51]).
+**Opzione:** Che il sistema di calcolo delle quote è definito prima dell'inizio dell'ammortamento e mantenuto per tutta la vita utile; le quote possono essere costanti, crescenti o decrescenti.
+**Distrattori:**
+- Che il sistema di calcolo delle quote è definito prima dell'inizio dell'ammortamento e mantenuto per tutta la vita utile; le quote devono essere sempre costanti.
+- Alla differenza fra la quota di ammortamento sul valore rivalutato e quella conteggiata sul costo originario.
+- In modo diretto, con la realizzazione o la dismissione del bene; in modo indiretto, attraverso il processo di ammortamento.
+
+**D:** ⚠️ Che cosa si intende per vita utile, e chi la fissa, secondo il docente della lezione 07?
+**R:** Gli anni, «o meglio gli **esercizi contabili**», per i quali il bene sarà utilizzato nel processo produttivo dell'impresa: 2, 3, 5, 10, 15 o 30 anni. La fissa l'**estensore del bilancio**, normalmente gli **amministratori**, che ne hanno la responsabilità, in base alle loro informazioni, alla loro esperienza e alla loro capacità di gestione del ciclo produttivo ([00:13:51]–[00:14:57]).
+**Opzione:** Gli esercizi contabili per i quali il bene sarà utilizzato nel processo produttivo; la fissa l'estensore del bilancio, normalmente gli amministratori.
+**Distrattori:**
+- Gli esercizi contabili per i quali il bene sarà utilizzato nel processo produttivo; la fissa il collegio sindacale, se presente.
+- Le imprese minori e le micro imprese, per gli articoli 2435-bis e 2435-ter.
+- Per le imprese tenute al bilancio ordinario.
+
+**D:** ⚠️ A che cosa è subordinata l'iscrivibilità dei costi pluriennali e dell'avviamento nei principi nazionali, e chi ne risponde se manca il collegio sindacale, secondo la lezione 07?
+**R:** «L'iscrivibilità di tali costi sia subordinata al **consenso del collegio sindacale (se presente)**» (slide 7, art. 2426, comma 1, nn. 5 e 6). Per il docente è «un **criterio di prudenza**»: il collegio, fatto di dottori commercialisti e/o avvocati, valuta con più competenza se ricorrono le caratteristiche di legge. **Se il collegio non c'è**, la responsabilità dell'iscrizione ricade sugli **amministratori** ([00:15:51]–[00:17:31]).
+**Opzione:** Al consenso del collegio sindacale, se presente; se il collegio non c'è, la responsabilità ricade sugli amministratori.
+**Distrattori:**
+- Al consenso del collegio sindacale in ogni caso; se il collegio non c'è, i costi non si possono iscrivere.
+- Sono consentite solo se vi è una specifica norma di legge.
+- Solo quando il relativo saldo viene realizzato.
+
+**D:** ⚠️ Entro quale periodo deve essere completato l'ammortamento dei costi pluriennali e dell'avviamento nei principi nazionali, secondo la lezione 07?
+**R:** «L'ammortamento sia completato in un **periodo massimo di 5 anni**, salvo quanto disposto per l'**avviamento (10 anni)**» (slide 7). ⚠️ Il docente dice che l'avviamento «può arrivare a 10 anni e anche **superare** i 10 anni» ([00:17:37]): all'esame vale la slide. ⚠️ I 5 anni sono dei costi pluriennali, non delle immobilizzazioni materiali, il cui periodo è il lasso temporale di utilizzo (domanda 3 del test).
+**Opzione:** Entro un periodo massimo di 5 anni, salvo quanto disposto per l'avviamento (10 anni).
+**Distrattori:**
+- Entro un periodo massimo di 10 anni, salvo quanto disposto per l'avviamento (5 anni).
+- Entro un periodo massimo di 5 anni, avviamento compreso, senza eccezioni.
+- Entro un periodo massimo di 3 anni, salvo quanto disposto per l'avviamento (5 anni).
+
+**D:** ⚠️ Quali requisiti richiedono i principi nazionali per la capitalizzazione dei costi pluriennali e dell'avviamento, secondo la lezione 07?
+**R:** «I principi richiedono per la capitalizzazione dei relativi costi che: **abbiano un'utilità futura**; **siano distintamente identificabili**; **siano attendibilmente qualificabili**» (slide 7). Il docente aggiunge che senza utilità futura non possono essere iscritti fra le immobilizzazioni ([00:17:51]–[00:18:21]). «Qualificabili» è la parola della slide e del docente: il senso, riferito al valore, è quello di una stima attendibile.
+**Opzione:** Che abbiano un'utilità futura, siano distintamente identificabili e siano attendibilmente qualificabili.
+**Distrattori:**
+- Che abbiano un'utilità futura, siano distintamente identificabili e abbiano consistenza fisica.
+- Solo se si traducono in un aumento significativo e misurabile di capacità o di produttività o di vita utile.
+- Al costo di acquisto se acquisite esternamente, al costo di produzione se realizzate internamente; nel costo di acquisto si computano i costi accessori.
+
+**D:** ⚠️ Perché il legislatore nazionale circonda di cautele la capitalizzazione dei costi pluriennali e dell'avviamento, secondo il docente della lezione 07?
+**R:** Per evitare che **costi ordinari** siano **tolti dal conto economico** e **iscritti nello stato patrimoniale**. Poiché il risultato è la differenza fra ricavi e costi, togliere costi dal conto economico lo **migliora** o **riduce la perdita**: si darebbe al conto economico un «**make up**» senza che ne ricorrano i presupposti ([00:18:21]–[00:20:13]). È la stessa ragione per cui è delicata la capitalizzazione degli oneri finanziari (lezione 05).
+
+**D:** ⚠️ Che cosa richiede lo IAS 38 per rilevare un elemento come attività immateriale, secondo la lezione 07?
+**R:** «Per lo IAS 38, la rilevazione di un elemento come attività immateriale richiede che l'impresa **dimostri** che lo stesso soddisfi: a) La **definizione di attività immateriale**; b) Sia **probabile** che i **futuri benefici economici** siano goduti dall'impresa; c) Il **costo** del bene sia determinato **in maniera attendibile**» (slide 8). ⚠️ Le condizioni b) e c) sono quelle che i principi internazionali chiedono anche per le immobilizzazioni materiali (lezione 05); lo IAS 38 aggiunge la definizione.
+**Opzione:** Che l'impresa dimostri che l'elemento soddisfi la definizione di attività immateriale, che sia probabile che i futuri benefici economici siano goduti dall'impresa e che il costo del bene sia determinato in maniera attendibile.
+**Distrattori:**
+- Che l'impresa dimostri che l'elemento soddisfi la definizione di attività immateriale, che sia certo che i futuri benefici economici siano goduti dall'impresa e che il costo del bene sia determinato in maniera attendibile.
+- Solo qualora siano state individuate le attività che hanno subito una perdita durevole di valore e sia stato stimato il valore recuperabile.
+- Al consenso del collegio sindacale, se presente; se il collegio non c'è, la responsabilità ricade sugli amministratori.
+
+**D:** ⚠️ Di chi è la responsabilità dell'iscrizione di un costo fra le immobilizzazioni immateriali, anche nelle strutture complesse come banche e assicurazioni, secondo il docente della lezione 07?
+**R:** Di chi ha il potere e la responsabilità di redigere il bilancio, normalmente gli **amministratori**. Nelle strutture molto complesse, come **banche**, **assicurazioni** o **società finanziarie**, il compito di redigere il bilancio può essere **delegato** a soggetti con funzioni **apicali o dirigenziali**, ma «la responsabilità **ultima** comunque della redazione del bilancio è **sempre degli amministratori**», che lo approvano ([00:21:24]–[00:22:38]).
+**Opzione:** Degli amministratori: anche se la redazione è delegata a figure apicali o dirigenziali, la responsabilità ultima resta sempre loro.
+**Distrattori:**
+- Delle figure apicali o dirigenziali a cui è delegata la redazione del bilancio, che ne assumono la responsabilità ultima.
+- La Banca d'Italia per le banche, l'IVASS per le assicurazioni, la Consob per le società quotate.
+- Sul locatario.
+
+**D:** ⚠️ A quale valore devono essere iscritte inizialmente le immobilizzazioni immateriali nei principi nazionali, secondo la lezione 07?
+**R:** «Devono essere iscritte al **costo di acquisto, se acquisite esternamente**, o **di produzione, se realizzate internamente**. Nel costo di acquisto si computano **anche i costi accessori**» (slide 9). Per il docente il costo di produzione richiede il dettaglio dei costi interni, come materiali e stipendi del personale; i costi accessori sono tipicamente quelli di **installazione** e di **collaudo** ([00:22:48]–[00:24:00]). È la stessa formula delle immobilizzazioni materiali (lezione 05).
+**Opzione:** Al costo di acquisto, se acquisite esternamente, o di produzione, se realizzate internamente; nel costo di acquisto si computano anche i costi accessori.
+**Distrattori:**
+- Al costo di produzione, se acquisite esternamente, o di acquisto, se realizzate internamente; nel costo di acquisto si computano anche i costi accessori.
+- Il minore tra prezzo netto di vendita e valore d'uso di ogni singola attività.
+- Terreni e fabbricati: il prezzo di mercato; impianti e macchinari: il valore di mercato, se esiste, altrimenti il costo di sostituzione ammortizzato.
+
+**D:** ⚠️ Quale distinzione fa lo IAS 38 per il valore di iscrizione iniziale delle attività immateriali, che il principio nazionale OIC 24 non fa, secondo la lezione 07?
+**R:** «Lo IAS 38 distingue il caso in cui un'attività immateriale è **acquisita separatamente** da quello in cui è **parte di un'azienda o ramo aziendale acquistata unitariamente**» (slide 9). Il docente sottolinea che è una distinzione «che il principio nazionale OIC24 non fa» ([00:24:00]–[00:24:40]).
+**Opzione:** Fra l'attività acquisita separatamente e quella che è parte di un'azienda o ramo aziendale acquistata unitariamente.
+**Distrattori:**
+- Fra l'attività acquisita esternamente e quella realizzata internamente.
+- Fra i beni immateriali veri e propri e gli oneri pluriennali.
+
+**D:** ⚠️ Quali prescrizioni valgono per un'attività immateriale acquisita separatamente, secondo lo IAS 38 nella lezione 07?
+**R:** «Nel primo caso valgono le **stesse prescrizioni già viste per l'acquisto di I.M.**» (slide 10). Per il docente sono le regole dello IAS 16: costo di acquisto o di produzione, e fair value per le valutazioni successive ([00:24:40]–[00:25:08]).
+**Opzione:** Le stesse prescrizioni già viste per l'acquisto di immobilizzazioni materiali.
+**Distrattori:**
+- Le prescrizioni dello IAS 22 sulle aggregazioni di imprese, con l'iscrizione al fair value.
+- Non ne impongono la redazione, ma incoraggiano le imprese a presentarla oltre al bilancio.
+
+**D:** ⚠️ Quale principio si applica quando un'attività immateriale fa parte di un complesso aziendale, a quali condizioni le si attribuisce una parte del prezzo, e a quale valore si iscrive, secondo la lezione 07?
+**R:** «Viene in rilievo lo **IAS 22 "aggregazioni di imprese"**, il quale consente l'attribuzione di una parte del prezzo complessivo all'attività immateriale **solo se**: a) La stessa è **identificabile**; b) Se il **costo** dell'attività può essere **stimato attendibilmente**. Al verificarsi di tali condizioni l'A.I. **deve** essere iscritta al suo **fair value** tra le attività» (slide 10). Per il docente le due condizioni valgono insieme: «non solo» identificabile, «ma anche» stimabile ([00:25:08]–[00:26:34]).
+**Opzione:** Lo IAS 22 sulle aggregazioni di imprese: solo se l'attività è identificabile e il suo costo può essere stimato attendibilmente, e in tal caso va iscritta al fair value.
+**Distrattori:**
+- Lo IAS 22 sulle aggregazioni di imprese: solo se l'attività è identificabile e il suo costo può essere stimato attendibilmente, e in tal caso va iscritta al costo storico.
+- Il bene fra le immobilizzazioni, al costo sostenuto dalla società di leasing, e il debito verso la società di leasing; non ci sono conti d'ordine.
+- Gli riconoscono il ruolo di elemento costitutivo del bilancio e ne prescrivono la redazione obbligatoria.
+
+**D:** ⚠️ Che cosa comprende il costo di produzione delle immobilizzazioni immateriali nei principi nazionali, e che cosa richiedono i principi internazionali, secondo la lezione 07?
+**R:** Nei principi nazionali, «come per le I.M. il costo di produzione comprende **tutti i costi direttamente imputabili al prodotto**»; nei principi internazionali «occorre distinguere il processo di realizzazione in **due distinte fasi**: a) **Fase di ricerca**; b) **Fase di sviluppo**» (slide 11). Per il docente i costi tipici sono quelli del personale impiegato, e i principi internazionali sono «più severi, più specifici» ([00:26:34]–[00:27:18]). La lezione si interrompe qui; le due fasi sono sviluppate nella slide 2 del deck 08.
+**Opzione:** Nei nazionali tutti i costi direttamente imputabili al prodotto; negli internazionali occorre distinguere la fase di ricerca dalla fase di sviluppo.
+**Distrattori:**
+- Nei nazionali occorre distinguere la fase di ricerca dalla fase di sviluppo; negli internazionali tutti i costi direttamente imputabili al prodotto.
+- Le spese stimate per lo smantellamento, per la rimozione dell'attività e la bonifica del luogo, nella misura in cui sono state rilevate come accantonamenti.
+- La sezione operativa, che corrisponde all'area della gestione reddituale, la sezione degli investimenti e la sezione delle fonti.
+
+**D:** ⚠️ Quali beni materiali sono ammortizzabili, secondo il test della lezione 07 (domanda 1)?
+**R:** Quelli che «**sono suscettibili di deperimento attraverso l'uso**». La slide 2 dice «deterioramento», e chiama «beni **non deperibili**» quelli esclusi, per esempio i terreni salvo eccezioni. Distrattori del test: «non sono deperibili», cioè proprio la categoria esclusa; «a scelta del compilatore del bilancio», lo stesso distrattore della domanda 4 del test 06; «se di importo superiore ad un determinato ammontare», una **soglia inventata** come il 50% della domanda 1 del test 06.
+**Opzione:** Sono suscettibili di deperimento attraverso l'uso.
+**Distrattori:**
+- Non sono deperibili.
+- A scelta del compilatore del bilancio.
+- Se di importo superiore ad un determinato ammontare.
+
+**D:** ⚠️ A quanto è pari il valore da ammortizzare dei beni materiali, secondo il test della lezione 07 (domanda 2)?
+**R:** Al «**costo, al netto del valore di presunto realizzo al termine della vita utile**», la slide 3 alla lettera. I distrattori del test vengono dalle lezioni precedenti: il **costo di sostituzione**, parametro del fair value per impianti e macchinari senza valore di mercato (lezione 06); i **costi di manutenzione** durante la vita utile, cioè le spese della lezione 06; il **costo di smantellamento**, che lo IAS 16 include nel costo iniziale (lezione 05).
+**Opzione:** Costo, al netto del valore di presunto realizzo al termine della vita utile.
+**Distrattori:**
+- Costo di sostituzione.
+- Costi di manutenzione durante la vita utile del bene.
+- Costo di smantellamento.
+
+**D:** ⚠️ A che cosa è pari il periodo di ammortamento di un bene materiale, secondo il test della lezione 07 (domanda 3)?
+**R:** Al «**lasso temporale in cui il cespite potrà essere utilizzato dall'impresa**», la slide 3 alla lettera. ⚠️ I distrattori **5, 3 e 7 anni** vengono dal transcript: il docente cita «tre anni, cinque anni, sette anni, dieci anni, trent'anni» come esempi, e dice che il periodo lo determina l'estensore del bilancio ([00:04:46]). ⚠️ **5 anni** è il periodo massimo di ammortamento dei **costi pluriennali** (slide 7), non delle immobilizzazioni materiali.
+**Opzione:** Lasso temporale in cui il cespite potrà essere utilizzato dall'impresa.
+**Distrattori:**
+- 5 anni.
+- 3 anni.
+- 7 anni.
+
+**D:** ⚠️ Come definiscono le immobilizzazioni immateriali i principi contabili internazionali, secondo il test della lezione 07 (domanda 4)?
+**R:** «**Attività non monetaria, identificabile, priva di consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi**», la slide 5 alla lettera. ⚠️ È una matrice a tre assi: ogni distrattore capovolge **uno solo** degli attributi, «monetaria», «non identificabile» o «con consistenza fisica».
+**Opzione:** Attività non monetaria, identificabile, priva di consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi.
+**Distrattori:**
+- Attività monetaria, identificabile, priva di consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi.
+- Attività non monetaria, non identificabile, priva di consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi.
+- Attività non monetaria, identificabile, con consistenza fisica e posseduta per essere utilizzata nella produzione o fornitura di beni o servizi.
+
+**D:** ⚠️ Quali caratteristiche deve avere un'immobilizzazione immateriale per essere iscritta in bilancio secondo i principi contabili internazionali, secondo il test della lezione 07 (domanda 5)?
+**R:** Che «**l'attività immateriale sia univocamente identificata, sia probabile che i benefici futuri siano goduti dall'impresa e il costo del bene sia determinato in maniera attendibile**». ⚠️ La chiave non è alla lettera: la slide 8 chiede che l'elemento soddisfi «la **definizione** di attività immateriale», e «identificabile» è solo uno dei suoi attributi. Distrattori del test: la stessa apertura seguita da un **documento**, cioè «vi sia la **fattura** di acquisto», «il **documento di trasporto**», «i **documenti di identificazione** del bene». La fattura viene dal transcript ([00:12:41]), dove serve a provare il costo di acquisto, non l'iscrivibilità.
+**Opzione:** L'attività immateriale sia univocamente identificata, sia probabile che i benefici futuri siano goduti dall'impresa e il costo del bene sia determinato in maniera attendibile.
+**Distrattori:**
+- L'attività immateriale sia univocamente identificata e vi sia la fattura di acquisto.
+- L'attività immateriale sia univocamente identificata e vi sia il documento di trasporto.
+- L'attività immateriale sia univocamente identificata e vi siano i documenti di identificazione del bene stesso.
