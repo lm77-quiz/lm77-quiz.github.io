@@ -3665,3 +3665,250 @@
 - Attività finanziarie valutate al fair value con impatto stato patrimoniale, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al costo ammortizzato.
 - Attività finanziarie valutate al fair value con impatto stato patrimoniale, attività finanziarie valutate al fair value con impatto sulla disponibilità complessiva, attività finanziarie valutate al costo ammortizzato.
 - Attività finanziarie valutate al fair value con impatto a conto economico, attività finanziarie valutate al fair value con impatto sulla redditività complessiva, attività finanziarie valutate al ricavo ammortizzato.
+
+## Lezione 15 — I criteri di classificazione e valutazione delle attività finanziarie
+
+**D:** ⚠️ In quale caso, secondo la lezione 15, le componenti reddituali delle attività finanziarie hanno impatto anche su una riserva di patrimonio netto?
+**R:** Per le attività finanziarie **disponibili per la vendita** (AFS): le variazioni di fair value sono «**cristallizzate**» in una specifica riserva di patrimonio netto, **sino al momento in cui l'attività viene ceduta** (slide 5). È il «caso» della slide 2: le componenti reddituali hanno impatti sul conto economico «e, in un caso, anche su una apposita riserva di patrimonio netto».
+**Opzione:** Per le attività finanziarie disponibili per la vendita: le variazioni di fair value restano cristallizzate in una riserva di patrimonio netto fino alla cessione.
+**Distrattori:**
+- Per le attività finanziarie detenute per la negoziazione: le variazioni di fair value restano cristallizzate in una riserva di patrimonio netto fino alla cessione.
+- Fra i crediti verso banche, come crediti verso le Banche Centrali diversi dai depositi liberi; i depositi liberi stanno invece nella cassa e disponibilità liquide.
+- Il tasso overnight: prestiti fra banche anche di 24 ore o meno.
+
+**D:** Che cosa può trovare un analista che confronta bilanci della stessa banca su più esercizi, secondo il docente della lezione 15?
+**R:** Uno stato patrimoniale con una **struttura diversa** da un anno all'altro. «Non è un errore del compilatore del bilancio»: i bilanci precedenti classificano le attività finanziarie secondo lo **IAS 39**, quelli attuali secondo l'**IFRS 9**. Le analisi coprono da 3 fino a 7-10 anni, per questo conviene conoscere entrambe le classificazioni ([00:01:21]–[00:04:20]).
+**Opzione:** Una struttura dello stato patrimoniale diversa da un anno all'altro: non un errore del compilatore, ma il passaggio dalle categorie dello IAS 39 a quelle dell'IFRS 9.
+**Distrattori:**
+- Una struttura dello stato patrimoniale identica in tutti gli anni, perché l'IFRS 9 ha ripreso le categorie dello IAS 39 senza modificarle.
+- Un grosso campanello d'allarme: la banca è in difficoltà e l'autorità di vigilanza è dovuta intervenire per darle liquidità.
+- Non sono convergenti, anzi per alcuni versi divergenti; spetta all'autorità di vigilanza, la Banca d'Italia, conciliarne l'applicazione contemporanea.
+
+**D:** ⚠️ Chi stabilisce le motivazioni dell'inserimento delle attività finanziarie nell'una o nell'altra categoria, e chi le attua, secondo il docente della lezione 15?
+**R:** Il **consiglio di amministrazione**, con una **delibera assunta all'inizio dell'esercizio** che traccia le politiche di investimento, nel rispetto della normativa di vigilanza. Le realizza poi l'**ufficio titoli**, che opera sui mercati finanziari ([00:07:49]–[00:09:40], [00:14:10]).
+**Opzione:** Il consiglio di amministrazione, con una delibera di inizio esercizio sulle politiche di investimento nel rispetto della normativa di vigilanza; le attua l'ufficio titoli.
+**Distrattori:**
+- L'ufficio titoli, operazione per operazione, senza indirizzi del consiglio di amministrazione né vincoli di legge.
+- Le banche minori prestano alle maggiori: le BCC hanno più crediti verso banche, le grandi banche come UniCredit e Intesa più debiti verso banche.
+- Per detenerle in portafoglio a lungo, con intento strategico partecipativo, perché fanno parte del gruppo o sono strumentali all'attività della banca.
+
+**D:** Come deve essere la documentazione delle motivazioni di classificazione delle attività finanziarie, e perché conta, secondo il docente della lezione 15?
+**R:** Deve essere **scritta** e **rintracciabile nel tempo**, cioè «tracciata», a garanzia del corretto inserimento di ogni operazione nella sua categoria. Ogni categoria ha regole diverse di contabilizzazione e di rappresentazione in bilancio: mettendo un'operazione nella categoria sbagliata **si altererebbe il bilancio** ([00:14:31]–[00:16:35]).
+**Opzione:** Scritta e tracciabile nel tempo: ogni categoria ha regole di contabilizzazione e di rappresentazione diverse, e una classificazione sbagliata altererebbe il bilancio.
+**Distrattori:**
+- Anche solo orale: le categorie hanno le stesse regole di contabilizzazione e cambiano solo il nome della voce.
+- Le banche hanno meno denaro da prestare ai clienti: è una modalità classica di controllo della quantità di moneta, per esempio contro l'inflazione.
+- Il rischio di credito: che la controparte a cui la banca ha prestato il denaro non restituisca, in tutto o in parte, gli interessi o il capitale.
+
+**D:** Quali autorità vigilano sugli investimenti di banche, assicurazioni e altri operatori finanziari, secondo il docente della lezione 15?
+**R:** Per le **banche** la **Banca d'Italia**; per le **assicurazioni** l'**IVASS**, «il vecchio ISVAP»; per gli **altri operatori finanziari** di nuovo la **Banca d'Italia** ([00:10:00]–[00:11:09]).
+**Opzione:** Le banche la Banca d'Italia, le assicurazioni l'IVASS, gli altri operatori finanziari la Banca d'Italia.
+**Distrattori:**
+- Le banche e le assicurazioni la Banca d'Italia, gli altri operatori finanziari l'IVASS.
+- Dal Parlamento europeo e dal Consiglio, il 19 luglio 2002.
+- La Circolare 262 del 22 dicembre 2005, Il bilancio bancario: schemi e regole di compilazione.
+
+**D:** ⚠️ Quali attività finanziarie rientrano fra le detenute per la negoziazione (HFT), secondo la lezione 15?
+**R:** «Attività finanziarie che, **indipendentemente dalla loro forma tecnica**, sono **designate** come da detenere per negoziazione **e** sono **effettivamente detenute** per scopi di negoziazione **nel breve periodo**. Sono inclusi i **derivati con valore positivo**, anche rivenienti da operazioni di scorporo di derivati impliciti, che **non** sono parte di efficaci relazioni di copertura» (slide 3). Per il docente il breve periodo è «entro la chiusura dell'esercizio» ([00:17:17]).
+**Opzione:** Quelle che, indipendentemente dalla forma tecnica, sono designate come da detenere per negoziazione e sono effettivamente detenute per scopi di negoziazione nel breve periodo, compresi i derivati con valore positivo non parte di efficaci relazioni di copertura.
+**Distrattori:**
+- Quelle che, indipendentemente dalla forma tecnica, sono designate come da detenere per negoziazione e sono effettivamente detenute per scopi di negoziazione nel medio-lungo periodo, compresi i derivati con valore positivo non parte di efficaci relazioni di copertura.
+- Titoli emessi dalla banca (obbligazioni, buoni fruttiferi, certificati di deposito, titoli subordinati) per raccogliere fondi; li sottoscrive la clientela, e in parte altre banche e altri intermediari finanziari.
+- Finanziamenti ricevuti da banche (depositi passivi in conto corrente, altri finanziamenti, ecc.) e altri debiti verso banche, compresi i debiti verso le Banche Centrali, come i rifinanziamenti della BCE.
+
+**D:** ⚠️ Come si determina il fair value delle attività finanziarie detenute per la negoziazione, secondo la lezione 15?
+**R:** «Sulla base dei "**prezzi ufficiali rilevati alla data di bilancio**, se gli strumenti finanziari sono **quotati in mercati attivi**"». Se non sono quotati, con modalità diverse: «quotazioni di **strumenti simili**, calcoli di **flussi di cassa scontati**, **modelli** di determinazione del prezzo delle opzioni, valori rilevati in **recenti transazioni comparabili**» (slide 3). L'elenco riguarda anche i titoli di capitale non quotati.
+**Opzione:** Con i prezzi ufficiali rilevati alla data di bilancio, se quotati in mercati attivi; altrimenti con quotazioni di strumenti simili, flussi di cassa scontati, modelli di prezzo delle opzioni, valori di recenti transazioni comparabili.
+**Distrattori:**
+- Con i prezzi ufficiali rilevati alla data di bilancio, se quotati in mercati attivi; altrimenti al costo storico di acquisto, senza altre stime.
+- Il risultato netto positivo della partecipazione al sistema dei pagamenti; riflette la gestione della liquidità e della tesoreria, nella misura in cui muove il saldo quotidiano sui conti accentrati presso le banche centrali.
+- I debiti verso banche, insieme a parte dei titoli in circolazione; riflettono le politiche di raccolta sul mercato interbancario e nei rapporti con altre banche e con le Autorità di politica monetaria.
+
+**D:** ⚠️ Quale criterio di iscrizione indicano le tabelle della lezione 15 per le attività finanziarie detenute per la negoziazione, valutate al fair value e disponibili per la vendita?
+**R:** «**Al fair value** (di norma il **corrispettivo pagato o incassato**)» (slide 3, 4 e 5). Per le passività finanziarie la slide 7 dice «di norma il corrispettivo incassato». Nella tabella delle attività detenute fino a scadenza (slide 6) la colonna dell'iscrizione è vuota.
+**Opzione:** Al fair value, di norma il corrispettivo pagato o incassato.
+**Distrattori:**
+- Al costo storico, di norma il corrispettivo pagato o incassato.
+- Al fair value, di norma il prezzo ufficiale rilevato alla data di bilancio.
+- Al valore di potenziale realizzazione, cioè già scontate le ipotesi di potenziale perdita per fallimenti, mancati rientri e difficoltà.
+
+**D:** ⚠️ Dove vanno i risultati della valutazione delle attività finanziarie detenute per la negoziazione e di quelle valutate al fair value, secondo la lezione 15?
+**R:** A **conto economico**, per entrambe (slide 3 e 4); non ci sono effetti sulle riserve di patrimonio netto. Nell'esempio del docente un'attività HFT comprata a 100 vale 105 a fine anno: i 5 euro vanno direttamente a conto economico come maggiori proventi ([00:19:22]–[00:19:58]).
+**Opzione:** A conto economico, per entrambe le categorie.
+**Distrattori:**
+- In una riserva di patrimonio netto, per entrambe, fino alla cessione.
+- A conto economico le prime, in una riserva di patrimonio netto le seconde.
+
+**D:** ⚠️ Quali attività finanziarie rientrano fra le valutate al fair value (FV), secondo la lezione 15?
+**R:** «Comprende le AF che, **indipendentemente dalla loro forma tecnica**, sono state **designate fin dalla loro rilevazione iniziale** per la valutazione al fair value» (slide 4). Per il docente non è richiesta una destinazione alla negoziazione nel breve periodo, e sono «molto più rare», «quasi sempre voci residuali» ([00:20:12]–[00:21:32]).
+**Opzione:** Le AF che, indipendentemente dalla loro forma tecnica, sono state designate fin dalla loro rilevazione iniziale per la valutazione al fair value.
+**Distrattori:**
+- Le AF che, indipendentemente dalla loro forma tecnica, sono effettivamente detenute per scopi di negoziazione nel breve periodo.
+- La raccolta da clientela, tipicamente attraverso depositi in conto corrente e depositi a risparmio.
+- I crediti verso la clientela all'attivo; i debiti verso clientela e i titoli in circolazione al passivo.
+
+**D:** ⚠️ Quali attività finanziarie rientrano fra le disponibili per la vendita (AFS), secondo la lezione 15?
+**R:** «AF classificate come disponibili per la vendita, **o non classificate** in: detenute per la negoziazione; valutate al fair value; detenute fino a scadenza; crediti verso banche; altre tipologie di LR, **Loans and Receivable**» (slide 5). È la categoria **residuale**.
+**Opzione:** Le AF classificate come disponibili per la vendita, o non classificate fra le detenute per la negoziazione, le valutate al fair value, le detenute fino a scadenza, i crediti verso banche e le altre Loans and Receivable.
+**Distrattori:**
+- Le sole AF quotate su mercati attivi, con pagamenti fissi e scadenza fissa, che la banca ha l'intenzione e la capacità di detenere fino a scadenza.
+- Finanziamenti accordati a clientela sotto varie forme (aperture di credito in conto corrente, mutui, leasing finanziari, ecc.); costituiscono il portafoglio crediti e riflettono le politiche del credito.
+- Il saldo, positivo o negativo, delle variazioni di valore delle attività o passività coperte con macrohedging dal rischio di tasso d'interesse: la somma algebrica cumulata nel tempo.
+
+**D:** ⚠️ Che cosa comprende in particolare la categoria delle attività finanziarie disponibili per la vendita, e che cosa non comprende, secondo la lezione 15?
+**R:** «La categoria comprende, in particolare, **interessenze azionarie diverse da quelle di controllo**, **quote di fondi comuni non quotati**, ovvero aventi **scarsa movimentazione**, **attività subordinate**. **NON COMPRENDE DERIVATI**» (slide 5). Per il docente non comprende «derivati di nessun tipo» ([00:25:04]).
+**Opzione:** Interessenze azionarie diverse da quelle di controllo, quote di fondi comuni non quotati o con scarsa movimentazione, attività subordinate; non comprende derivati.
+**Distrattori:**
+- Interessenze azionarie diverse da quelle di controllo, quote di fondi comuni non quotati o con scarsa movimentazione, attività subordinate; comprende i derivati con valore positivo non di copertura.
+- Partecipazioni in società controllate o sottoposte a influenza notevole non incluse in attività finanziarie.
+- Banconote e monete espresse nelle diverse valute negoziate dalla banca; depositi liberi detenuti presso le Banche Centrali dei paesi in cui la banca opera.
+
+**D:** Che cosa sono le attività subordinate, secondo il docente della lezione 15?
+**R:** La sottoscrizione di **prestiti obbligazionari emessi da altri istituti** che prevedono il loro rimborso **solo dopo il rimborso di tutti gli altri creditori** dell'emittente ([00:24:23]–[00:25:04]). Per la slide 5 rientrano fra le attività disponibili per la vendita.
+**Opzione:** Prestiti obbligazionari di altri istituti, rimborsabili solo dopo il rimborso di tutti gli altri creditori dell'emittente.
+**Distrattori:**
+- Prestiti obbligazionari di altri istituti, rimborsabili prima di tutti gli altri creditori dell'emittente.
+- I debiti verso clientela, insieme ai titoli in circolazione sottoscritti da clientela; riflettono le politiche di raccolta.
+- Percorsi di lettura: i crediti alla clientela.
+
+**D:** ⚠️ Dove vanno le variazioni di fair value delle attività finanziarie disponibili per la vendita, e che cosa succede alla loro cessione, secondo la lezione 15?
+**R:** Sono «"**cristallizzate**" in una riserva patrimoniale»: utili e perdite da variazioni di fair value sono «rilevati (e cumulati algebricamente) in una **specifica riserva di patrimonio netto**, sino al momento in cui l'attività viene ceduta». «Al momento della **dismissione** dell'attività, gli utili o perdite cumulati nella riserva… vengono **trasferiti a conto economico**» (slide 5). Per il docente è la «riserva di valutazione» ([00:28:01]).
+**Opzione:** In una specifica riserva di patrimonio netto, dove si cumulano algebricamente fino alla cessione; alla dismissione utili e perdite cumulati vengono trasferiti a conto economico.
+**Distrattori:**
+- A conto economico ogni anno; alla dismissione utili e perdite cumulati vengono trasferiti in una specifica riserva di patrimonio netto.
+- All'attivo quelli con fair value positivo alla data di bilancio, al passivo quelli con fair value negativo; coprono i rischi di variazione del fair value degli strumenti in relazioni di copertura efficace.
+- Per i criteri di valutazione adottati, al fair value, e per la presenza di derivati non di copertura con valori negativi; sono fonti di raccolta per la banca.
+
+**D:** ⚠️ Dove vanno, per le attività finanziarie disponibili per la vendita, le perdite di valore da impairment test e le successive riprese di valore, secondo la lezione 15?
+**R:** **Entrambe a conto economico**: «in presenza di obiettive evidenze di perdita per riduzione di valore… l'ammontare della perdita è registrato a conto economico»; le «successive riprese di valore… sono effettuate con imputazione a conto economico» (slide 5). Solo le variazioni di fair value vanno nella riserva.
+**Opzione:** Entrambe a conto economico.
+**Distrattori:**
+- Le perdite a conto economico, le riprese nella riserva di patrimonio netto.
+- Entrambe nella riserva di patrimonio netto, fino alla cessione.
+
+**D:** Quale perdita di valore delle attività disponibili per la vendita emerge con l'impairment test, secondo il docente della lezione 15?
+**R:** Una **perdita durevole**, «non facilmente recuperabile», come in uno «stato di **pre-fallimento**». Le «mere oscillazioni di quotazione» restano variazioni di fair value e vanno nella riserva di patrimonio netto, non a conto economico ([00:27:09]–[00:28:10]).
+**Opzione:** Solo una perdita durevole e non facilmente recuperabile, come in uno stato di pre-fallimento; le mere oscillazioni di quotazione restano variazioni di fair value da riserva.
+**Distrattori:**
+- Qualunque calo della quotazione rispetto al bilancio precedente, anche una mera oscillazione di prezzo, da imputare a conto economico.
+- Derivati non finalizzati a coprirsi da uno specifico rischio, in cui si investe esclusivamente per motivi speculativi.
+- Informazioni sui rischi e sulle relative politiche di copertura.
+
+**D:** ⚠️ Quali attività finanziarie rientrano fra le detenute fino alla scadenza (HTM), secondo la lezione 15?
+**R:** «AF quotate su mercati attivi, che presentano (a) **pagamenti contrattuali fissi o determinabili** e (b) **scadenza fissa**, per le quali vi è l'effettiva (c) **intenzione** e la (d) **capacità** di detenere l'attività fino a scadenza». «La categoria **non comprende derivati**» (slide 6). Per il docente sono tipicamente obbligazioni e titoli di Stato ([00:29:00]).
+**Opzione:** AF quotate su mercati attivi con pagamenti contrattuali fissi o determinabili e scadenza fissa, per le quali vi è l'effettiva intenzione e la capacità di detenerle fino a scadenza; non comprende derivati.
+**Distrattori:**
+- AF quotate su mercati attivi con pagamenti contrattuali fissi o determinabili e scadenza fissa, per le quali vi è l'effettiva intenzione o la capacità di detenerle fino a scadenza; non comprende derivati.
+- Titoli di debito, finanziamenti, derivati non di copertura con valore negativo e altre passività finanziarie, classificati fra le passività di negoziazione e fra quelle valutate al fair value.
+- Comprendono, fra le altre, le riserve da valutazione delle attività finanziarie disponibili per la vendita.
+
+**D:** ⚠️ Che cosa succede a un investimento detenuto fino a scadenza se non si verificano più le condizioni della categoria, secondo la lezione 15?
+**R:** «Se non si verificano più queste condizioni, l'investimento viene **riclassificato tra le AF disponibili per la vendita**» (slide 6).
+**Opzione:** Viene riclassificato fra le attività finanziarie disponibili per la vendita.
+**Distrattori:**
+- Viene riclassificato fra le attività finanziarie detenute per la negoziazione.
+- Viene riclassificato fra i crediti verso banche.
+- L'avviamento.
+
+**D:** ⚠️ Come si valutano le attività finanziarie detenute fino alla scadenza, secondo la lezione 15?
+**R:** «(1) Valutate al **costo ammortizzato** (Metodo dell'**interesse effettivo**: applicazione del tasso che sconta i futuri flussi di cassa stimati, in entrata e in uscita, per la **vita attesa** dello strumento finanziario); (2) Assoggettate a verifica (**impairment test**) per eventuali perdite per riduzioni di valore» (slide 6). Per il docente è il calcolo del tasso interno di rendimento ([00:29:46]).
+**Opzione:** Al costo ammortizzato, con il metodo dell'interesse effettivo, cioè il tasso che sconta i futuri flussi di cassa stimati per la vita attesa dello strumento; e con l'impairment test.
+**Distrattori:**
+- Al fair value, con i prezzi ufficiali rilevati alla data di bilancio; e con l'impairment test.
+- 1.000 di valore nominale, meno 20 di commissione up-front del 2% addebitata al cliente, più 1 di imposta sostitutiva sostenuta dalla banca.
+- Riceve 950 euro ma paga gli interessi al 7% su 1.000: il costo effettivo è superiore al 7%.
+
+**D:** ⚠️ Come si misura la perdita da impairment delle attività finanziarie detenute fino alla scadenza, secondo la lezione 15?
+**R:** «In presenza di obiettive evidenze di perdita per riduzione di valore, l'ammontare della perdita registrato a conto economico è pari alla **differenza tra il valore contabile dell'attività e il valore attuale dei flussi finanziari stimati, scontati al tasso di interesse effettivo originario**» (slide 6).
+**Opzione:** La differenza tra il valore contabile dell'attività e il valore attuale dei flussi finanziari stimati, scontati al tasso di interesse effettivo originario.
+**Distrattori:**
+- La differenza tra il valore contabile dell'attività e il valore attuale dei flussi finanziari stimati, scontati al tasso di interesse di mercato alla data di bilancio.
+- 77,4; 77,5; 77,7; 78,0; 78,4: i 74 di interessi e commissioni più la differenza fra interessi effettivi e nominali.
+- 74 all'anno, cioè 70 di interessi al 7% su 1.000 più 4 di commissione, e 1.074 il quinto anno; il tasso effettivo è del 7,87%.
+
+**D:** ⚠️ Con quale limite si rilevano le riprese di valore delle attività finanziarie detenute fino alla scadenza, e quando vanno a conto economico utili e perdite, secondo la lezione 15?
+**R:** Le successive riprese di valore vanno a conto economico, «**mai tali da superare l'originario valore contabile**»; «gli **utili e le perdite** sono rilevati a conto economico nel momento in cui le attività sono **cancellate**» (slide 6).
+**Opzione:** A conto economico, ma mai oltre l'originario valore contabile; utili e perdite vanno a conto economico quando le attività sono cancellate.
+**Distrattori:**
+- A conto economico, anche oltre l'originario valore contabile, fino al fair value; utili e perdite vanno a conto economico quando le attività sono cancellate.
+- 981 all'erogazione, poi 984,4; 987,9; 991,6; 995,6; e 1.000 alla scadenza.
+- A determinare gli interessi che matureranno nel tempo e che il cliente dovrà pagare.
+
+**D:** ⚠️ Quali passività finanziarie rientrano nel portafoglio di negoziazione, secondo la lezione 15?
+**R:** «Passività finanziarie che, **indipendentemente dalla loro forma tecnica**, sono classificate nel portafoglio di negoziazione. Comprende le passività che derivano da **scoperti tecnici** generati dall'attività di negoziazione in titoli. Sono inclusi i **derivati con valore negativo**, anche rivenienti da operazioni di scorporo di derivati impliciti, che **non** sono parte di efficaci relazioni di copertura» (slide 7).
+**Opzione:** Quelle classificate nel portafoglio di negoziazione indipendentemente dalla forma tecnica, comprese le passività da scoperti tecnici nella negoziazione in titoli e i derivati con valore negativo non parte di efficaci relazioni di copertura.
+**Distrattori:**
+- Quelle classificate nel portafoglio di negoziazione indipendentemente dalla forma tecnica, comprese le passività da scoperti tecnici nella negoziazione in titoli e i derivati di copertura con valore negativo.
+- Perché vi è differenza tra il credito vantato verso il cliente e il costo complessivamente sostenuto dal cliente stesso.
+- Quasi sempre superiore, perché tiene conto anche degli altri oneri diretti o indiretti previsti a carico del cliente, e non solo della percentuale sul capitale nominale.
+
+**D:** ⚠️ Quali passività finanziarie rientrano fra le valutate al fair value, secondo la lezione 15?
+**R:** «Comprende le PF che, **indipendentemente dalla loro forma tecnica**, sono state **designate fin dalla loro rilevazione iniziale** per la valutazione al fair value. **Non comprende derivati**» (slide 7).
+**Opzione:** Le PF che, indipendentemente dalla loro forma tecnica, sono state designate fin dalla rilevazione iniziale per la valutazione al fair value; non comprende derivati.
+**Distrattori:**
+- Le PF che, indipendentemente dalla loro forma tecnica, sono state designate fin dalla rilevazione iniziale per la valutazione al fair value; comprende i derivati con valore negativo.
+- Il valore di iscrizione del credito nell'attivo patrimoniale si modifica nel tempo.
+- Per ripartirli sull'intera durata del credito invece di farli gravare su un unico esercizio, rispettando il principio della competenza economica.
+
+**D:** ⚠️ Come si iscrivono e si valutano le passività finanziarie di negoziazione e quelle valutate al fair value, e dove vanno i risultati, secondo la lezione 15?
+**R:** Si iscrivono «**al fair value** (di norma il **corrispettivo incassato**)», si valutano **al fair value**, e i risultati della valutazione sono registrati **a conto economico** (slide 7).
+**Opzione:** Al fair value, di norma il corrispettivo incassato; valutate al fair value, con i risultati della valutazione a conto economico.
+**Distrattori:**
+- Al fair value, di norma il corrispettivo incassato; valutate al fair value, con i risultati della valutazione in una riserva di patrimonio netto.
+- Lifetime expected loss e incurred loss: per il docente, le perdite attese e le perdite già patite.
+- Lo IAS 32 della struttura e della classificazione delle attività finanziarie, lo IAS 39 della loro valutazione; l'IFRS 9 ha sostituito lo IAS 39.
+
+**D:** Che cosa è accaduto all'entrata in vigore dell'IFRS 9, secondo il docente della lezione 15?
+**R:** Il processo è stato «tutt'altro che semplice e rapido»: ha richiesto molti anni e numerose revisioni, e per **eventi imprevisti e straordinari** l'entrata in vigore è stata **più volte rimandata**, in attesa di un quadro macroeconomico più chiaro ([00:04:20]–[00:05:41]).
+**Opzione:** È stata rimandata più volte, per eventi imprevisti e straordinari, in attesa di un quadro macroeconomico più chiaro.
+**Distrattori:**
+- È stata anticipata rispetto ai tempi previsti, perché lo IAS 39 era già stato abrogato dal legislatore europeo.
+- Ritardi nelle rate di restituzione, o procedimenti esecutivi di terzi creditori, che mostrano che il debitore non fa più fronte con regolarità ai propri impegni.
+- Il D.Lgs. n. 38/2005.
+
+**D:** ⚠️ Che cosa significa la sigla HFT nella classificazione dello IAS 39, secondo la lezione 15?
+**R:** *Held for trading*: «AF **detenute per la negoziazione**» (slide 3), la voce 20.A. ⚠️ Il docente la traduce «operazione al fair value» ([00:17:48]), ma le «AF **valutate** al fair value» sono un'altra categoria, la voce 30.A (slide 4).
+**Opzione:** Held for trading: attività finanziarie detenute per la negoziazione.
+**Distrattori:**
+- Held for trading: attività finanziarie valutate al fair value.
+- Held for trading: attività finanziarie disponibili per la vendita.
+
+**D:** ⚠️ In che cosa risiede essenzialmente la specificità delle attività finanziarie, secondo il test della lezione 15 (domanda 1)?
+**R:** «**Nelle motivazioni alla base del loro inserimento nell'una o nell'altra categoria, nei criteri di valutazione applicabili nei singoli casi, nei criteri di rilevazione delle componenti reddituali, con impatti sul conto economico e, in un caso, anche su una apposita riserva di patrimonio netto della banca**»: la slide 2 alla lettera. ⚠️ I distrattori cambiano una parola alla volta: «criteri di contabilizzazione» al posto di quelli di valutazione; la coda «nella contabilizzazione degli interessi»; «criteri di iscrizione iniziale».
+**Opzione:** Nelle motivazioni alla base del loro inserimento nell'una o nell'altra categoria, nei criteri di valutazione applicabili nei singoli casi, nei criteri di rilevazione delle componenti reddituali, con impatti sul conto economico e, in un caso, anche su una apposita riserva di patrimonio netto della banca.
+**Distrattori:**
+- Nelle motivazioni alla base del loro inserimento nell'una o nell'altra categoria, nei criteri di contabilizzazione applicabili nei singoli casi, nei criteri di rilevazione delle componenti reddituali, con impatti sul conto economico e, in un caso, anche su una apposita riserva di patrimonio netto della banca.
+- Nelle motivazioni alla base del loro inserimento nell'una o nell'altra categoria, nei criteri di valutazione applicabili nei singoli casi, nella contabilizzazione degli interessi.
+- Nelle motivazioni alla base del loro inserimento nell'una o nell'altra categoria, nei criteri di iscrizione iniziale applicabili nei singoli casi, nella contabilizzazione degli interessi.
+
+**D:** ⚠️ Qual è il criterio di iscrizione delle attività finanziarie valutate al fair value con impatto a conto economico, secondo il test della lezione 15 (domanda 2)?
+**R:** Il **fair value**: per le slide 3 e 4 le attività detenute per la negoziazione e quelle valutate al fair value, che nell'IFRS 9 formano le FVTPL, si iscrivono «al fair value (di norma il corrispettivo pagato o incassato)». ⚠️ La batteria dei distrattori è la stessa delle domande 3–5: costo storico, flussi di cassa, costo di sostituzione.
+**Opzione:** Fair value.
+**Distrattori:**
+- Costo storico.
+- Flussi di cassa.
+- Costo di sostituzione.
+
+**D:** ⚠️ Qual è il criterio di iscrizione delle attività finanziarie valutate al fair value con impatto sulla redditività complessiva, secondo il test della lezione 15 (domanda 3)?
+**R:** Il **fair value**: per la slide 5 le attività disponibili per la vendita, l'antecedente IAS 39 delle FVTOCI, si iscrivono «al fair value (di norma il corrispettivo pagato o incassato)». ⚠️ Distrattori del test: flussi di cassa, costo di sostituzione, costo storico.
+**Opzione:** Fair value.
+**Distrattori:**
+- Flussi di cassa.
+- Costo di sostituzione.
+- Costo storico.
+
+**D:** ⚠️ Qual è il criterio di iscrizione delle attività finanziarie valutate al costo ammortizzato, secondo il test della lezione 15 (domanda 4)?
+**R:** Il **fair value**, non il costo storico. Il costo ammortizzato è il criterio di **valutazione** successiva; all'**iscrizione**, per la slide 2 della lezione 14, «un credito è iscritto al fair value», nell'esempio a 981. ⚠️ Nella slide 6 di questa lezione, sulle attività detenute fino a scadenza, la colonna dell'iscrizione è vuota. Distrattori del test: flussi di cassa, costo di sostituzione, costo storico.
+**Opzione:** Fair value.
+**Distrattori:**
+- Flussi di cassa.
+- Costo di sostituzione.
+- Costo storico.
+
+**D:** ⚠️ Qual è il criterio di iscrizione delle passività finanziarie di negoziazione, secondo il test della lezione 15 (domanda 5)?
+**R:** Il **fair value**: per la slide 7 le passività finanziarie di negoziazione si iscrivono «al fair value (di norma il corrispettivo incassato)», si valutano al fair value, e i risultati vanno a conto economico. ⚠️ Distrattori del test: flussi di cassa, costo di sostituzione, costo storico.
+**Opzione:** Fair value.
+**Distrattori:**
+- Flussi di cassa.
+- Costo di sostituzione.
+- Costo storico.
