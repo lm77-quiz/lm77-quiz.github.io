@@ -6738,3 +6738,1149 @@
 - Esistenze al 31.12.2020; modifica saldi apertura; esistenze al 1.1.2021; allocazione risultato esercizio precedente; variazioni dell'esercizio; rendiconto finanziario 2021; patrimonio netto al 31.12.2021.
 - In valore assoluto, come numero di esercizi: quanti ne servirebbero perché i premi ricostituiscano le riserve; se vale 3, le riserve corrispondono grosso modo a 3 anni di premi.
 - Provvigioni più costi di acquisizione, fratto premi d'esercizio.
+
+## Lezione 27 — La parte iniziale della Nota Integrativa del bilancio della banca
+
+**D:** ⚠️ Che cosa stabiliscono «in modo vincolante» le istruzioni della Banca d'Italia sul bilancio delle banche, secondo la slide 2 della lezione 27?
+**R:** «Gli **schemi di bilancio** e le relative **modalità di compilazione**, nonché il **contenuto della Nota integrativa**.» Sono le istruzioni emanate con il **Provvedimento del 22 dicembre 2005**, la **Circolare 262/2005**, nell'esercizio dei poteri dell'art. 43 del d.lgs. 136/2015, con sette aggiornamenti fino al 29 ottobre 2021. Per il docente la struttura della nota integrativa «non è volontaria, non è a scelta della banca, ma è obbligatoria» ([00:01:43]–[00:02:59]).
+**Opzione:** Gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Nota integrativa.
+**Distrattori:**
+- Gli schemi di bilancio e le relative modalità di compilazione, ma non il contenuto della Nota integrativa, lasciato alla banca.
+- La tolleranza creditizia della banca nei confronti dei propri debitori.
+- Da giugno 2020 alle proiezioni delle banche centrali; nel 2021 è tornata agli scenari interni della Direzione Studi e Ricerche.
+
+**D:** ⚠️ Dove si trova, nel bilancio di esercizio, la dichiarazione di conformità ai principi contabili internazionali, secondo il test della lezione 27 (domanda 1)?
+**R:** «**All'inizio**»: è il primo paragrafo della nota integrativa, «*Politiche contabili – 1. Dichiarazione di conformità ai principi contabili internazionali*» (slide 2). Per il docente la nota integrativa «deve prevedere come primo paragrafo» proprio questo ([00:02:59]). ⚠️ Nell'ordine della slide 8 la nota integrativa viene dopo i prospetti contabili, ma la chiave è «all'inizio». Distrattori del test: «alla fine», «dopo i prospetti contabili», «dopo il verbale di approvazione del bilancio di esercizio».
+**Opzione:** All'inizio.
+**Distrattori:**
+- Alla fine.
+- Dopo i prospetti contabili.
+- Dopo il verbale di approvazione del bilancio di esercizio.
+
+**D:** ⚠️ Quali principi contabili osserva il bilancio della banca, secondo il test della lezione 27 (domanda 2)?
+**R:** I principi contabili **internazionali**, IAS/IFRS, emanati dallo **IASB** e omologati dalla **Commissione Europea**, in applicazione del d.lgs. 38/2005 (slide 2; [00:02:59]). ⚠️ «Europei» è la trappola: la Commissione Europea li **omologa**, non li emana. Distrattori del test: «statunitensi», «italiani», «europei».
+**Opzione:** Internazionali.
+**Distrattori:**
+- Statunitensi.
+- Italiani.
+- Europei.
+
+**D:** Chi emana e chi omologa i principi contabili IAS/IFRS, secondo la dichiarazione di conformità della slide 2 della lezione 27?
+**R:** Li **emana** l'**International Accounting Standards Board (IASB)**, con le relative interpretazioni dell'**IFRS-IC**, l'*International Financial Reporting Standards – Interpretations Committee*; li **omologa** la **Commissione Europea**, come stabilito dal **Regolamento Comunitario n. 1606 del 19 luglio 2002**. Il bilancio di Intesa Sanpaolo vi si attiene in applicazione del **d.lgs. 28 febbraio 2005 n. 38**.
+**Opzione:** Li emana lo IASB, li omologa la Commissione Europea.
+**Distrattori:**
+- Li emana la Commissione Europea, li omologa lo IASB.
+- Li emana lo IASB, li omologa la Banca d'Italia.
+- Li emana l'IFRS-IC, li omologa il Parlamento Europeo.
+
+**D:** ⚠️ Quale regolamento comunitario stabilisce l'omologazione degli IAS/IFRS citata nella dichiarazione di conformità della slide 2 della lezione 27?
+**R:** Il **Regolamento Comunitario n. 1606 del 19 luglio 2002**. La legge italiana in applicazione della quale il bilancio della banca è redatto secondo gli IAS/IFRS è il **d.lgs. 28 febbraio 2005 n. 38**; le istruzioni della Banca d'Italia sono la **Circolare 262**, emanata con il Provvedimento del **22 dicembre 2005**.
+**Opzione:** Il Regolamento n. 1606 del 19 luglio 2002.
+**Distrattori:**
+- Il Regolamento n. 1606 del 22 dicembre 2005.
+- Il Regolamento n. 262 del 19 luglio 2002.
+- Il Regolamento n. 38 del 28 febbraio 2005.
+
+**D:** Quali principi contabili sono stati applicati nella predisposizione del bilancio 2021 di Intesa Sanpaolo, secondo la slide 2 della lezione 27?
+**R:** I principi **IAS/IFRS omologati ed in vigore al 31 dicembre 2021**, **inclusi** i documenti interpretativi denominati **SIC** e **IFRS-IC**, il cui elenco è riportato tra gli **allegati** del bilancio. Per il docente sono i principi modificati «entro il 31-12-2021» e quindi utilizzati per la redazione di questo bilancio ([00:05:38]).
+**Opzione:** Gli IAS/IFRS omologati ed in vigore al 31 dicembre 2021, inclusi i documenti interpretativi SIC e IFRS-IC.
+**Distrattori:**
+- Gli IAS/IFRS omologati ed in vigore al 1° gennaio 2022, inclusi i documenti interpretativi SIC e IFRS-IC.
+- Gli IAS/IFRS omologati ed in vigore al 31 dicembre 2021, esclusi i documenti interpretativi SIC e IFRS-IC.
+- Gli IAS/IFRS emanati dallo IASB al 31 dicembre 2021, anche se non ancora omologati dalla Commissione Europea.
+
+**D:** ⚠️ Quali regolamenti di omologazione elenca la tabella dei principi in vigore dal 2021, nella slide 3 della lezione 27?
+**R:** Tre. Il **2097/2020**, modifiche all'**IFRS 4** Contratti assicurativi – proroga dell'**esenzione temporanea dall'applicazione dell'IFRS 9**. Il **25/2021**, **riforma degli indici di riferimento** per la determinazione dei tassi di interesse — **fase 2**, con modifiche all'IFRS 9, allo IAS 39, all'IFRS 7, all'IFRS 4 e all'IFRS 16. Il **1421/2021**, modifica all'**IFRS 16 Leasing** – **concessioni sui canoni connesse alla COVID-19** dopo il 30 giugno 2021. I primi due entrano in vigore il 01/01/2021, il terzo il **01/04/2021**.
+**Opzione:** 2097/2020, proroga dell'esenzione temporanea dall'IFRS 9 (IFRS 4); 25/2021, riforma degli indici di riferimento dei tassi, fase 2; 1421/2021, concessioni sui canoni COVID-19 (IFRS 16).
+**Distrattori:**
+- 2097/2020, proroga dell'esenzione temporanea dall'IFRS 9 (IFRS 4); 25/2021, riforma degli indici di riferimento dei tassi, fase 2; 2036/2021, nuovo IFRS 17 Contratti assicurativi.
+- In euro, ai sensi dell'art. 5 del d.lgs. 38/2005; gli importi sono in milioni di euro, salvo diversa indicazione.
+- La Legge di Bilancio 178/2020 al 30 giugno 2021; il D.L. Sostegni bis al 31 dicembre 2021.
+
+**D:** ⚠️ Quali indici di riferimento riguarda la IBOR Reform, e sulla base delle indicazioni di chi, secondo la slide 3 della lezione 27?
+**R:** La revisione o sostituzione di alcuni indici di riferimento dei tassi di interesse «in varie giurisdizioni, come il **LIBOR** e, in ambito europeo, l'**EONIA**, sulla base delle indicazioni del **G20** e del **Financial Stability Board**». Le modifiche sono recepite dal **Regolamento n. 25/2021 del 13 gennaio 2021** e sono applicabili **obbligatoriamente e per la prima volta dal 2021**. ⚠️ Il docente scambia i nomi e dice che il nuovo tasso «si chiama IBOR» ([00:07:33]): per la slide 4 il tasso **IBOR** esistente è sostituito dal **Risk Free Rate**.
+**Opzione:** Il LIBOR e, in ambito europeo, l'EONIA, sulla base delle indicazioni del G20 e del Financial Stability Board.
+**Distrattori:**
+- Il LIBOR e, in ambito europeo, l'EONIA, sulla base delle indicazioni della BCE e della Banca d'Italia.
+- Il LIBOR e, in ambito europeo, l'EONIA, sulla base delle indicazioni dell'EBA e dell'ESMA.
+- Il Risk Free Rate e, in ambito europeo, l'EONIA, sulla base delle indicazioni del G20 e del Financial Stability Board.
+
+**D:** ⚠️ In quali due fasi lo IASB ha affrontato gli impatti contabili della riforma dei tassi benchmark, e con quali regolamenti si sono concluse, secondo la slide 4 della lezione 27?
+**R:** **Prima fase**: gli impatti in tema di **hedge accounting** nel periodo che **precede** la sostituzione dei tassi benchmark esistenti con i nuovi tassi, la cosiddetta **pre-replacement issue**; si è conclusa con il **Regolamento n. 34/2020**. **Seconda fase**: gli impatti derivanti dall'**applicazione dei nuovi tassi**, la cosiddetta **replacement issue**; si è conclusa con il **Regolamento n. 25/2021**. Le sue principali modifiche riguardano la rappresentazione contabile delle modifiche dei contratti in essere e le coperture contabili.
+**Opzione:** Prima fase: hedge accounting prima della sostituzione (pre-replacement issue), Regolamento 34/2020; seconda fase: effetti dei nuovi tassi (replacement issue), Regolamento 25/2021.
+**Distrattori:**
+- Prima fase: hedge accounting prima della sostituzione (pre-replacement issue), Regolamento 25/2021; seconda fase: effetti dei nuovi tassi (replacement issue), Regolamento 34/2020.
+- Invertendo righe e colonne rispetto allo schema della Circolare 262, con le azioni proprie in diminuzione del patrimonio netto.
+- Perché è riferito a un evento specifico, che non è previsto nella normalità dei bilanci.
+
+**D:** ⚠️ Come vanno considerate contabilmente, ai sensi dell'IFRS 9, le modifiche contrattuali che sostituiscono il tasso IBOR esistente con il nuovo Risk Free Rate, secondo la slide 4 della lezione 27?
+**R:** **Non** costituiscono un evento di **cancellazione contabile** (*derecognition*): sono da considerare contabilmente come una **modifica** (*modification*). Lo stesso vale, in modo analogo, per l'IFRS 16 e l'IFRS 4. Un **espediente pratico** consente di rappresentarle, se effettuate come diretta conseguenza della IBOR Reform e su **basi economiche equivalenti**, con un **adeguamento prospettico del tasso di interesse effettivo**, con impatti sul margine di interesse dei futuri periodi.
+**Opzione:** Non come una cancellazione contabile (derecognition), ma come una modifica (modification).
+**Distrattori:**
+- Come una cancellazione contabile (derecognition), non come una modifica (modification).
+- Come una modifica (modification), con un adeguamento retroattivo del tasso di interesse effettivo.
+- Come un evento di default, con il passaggio del credito fra i deteriorati.
+
+**D:** Che cosa consentono le eccezioni allo IAS 39 introdotte dalla IBOR Reform in tema di hedge accounting, e dove va l'eventuale inefficacia, secondo la slide 5 della lezione 27?
+**R:** Consentono di **non effettuare il discontinuing** della copertura a seguito dell'aggiornamento della documentazione sulla relazione di copertura (rischio coperto, sottostante, derivato o modalità di verifica della tenuta), in caso di modifiche necessarie come diretta conseguenza della riforma ed effettuate su basi economiche equivalenti. Valgono anche per l'IFRS 9, per chi lo ha adottato per le coperture. L'eventuale effetto di **inefficacia** deve comunque essere rilevato **a conto economico**.
+**Opzione:** Di non effettuare il discontinuing della copertura quando se ne aggiorna la documentazione per la riforma; l'eventuale inefficacia va comunque rilevata a conto economico.
+**Distrattori:**
+- Di non effettuare il discontinuing della copertura quando se ne aggiorna la documentazione per la riforma; l'eventuale inefficacia va rilevata nella riserva da valutazione.
+- Si rimanda alla corrispondente informativa del bilancio consolidato.
+- Li emana lo IASB, li omologa la Commissione Europea.
+
+**D:** ⚠️ Che cosa recepisce il Regolamento 2097/2020, e a quale livello è rilevante per Intesa Sanpaolo, secondo la slide 5 della lezione 27?
+**R:** Il **Regolamento n. 2097/2020 del 15 dicembre 2020**, in vigore dal **1° gennaio 2021**, recepisce la **proroga al 1° gennaio 2023** dell'**esenzione temporanea dall'applicazione dell'IFRS 9** (modifiche all'**IFRS 4** Contratti assicurativi), pubblicata dallo IASB il 25 giugno 2020. Assume rilevanza **solo a livello di Gruppo** Intesa Sanpaolo. ⚠️ Il docente la lega alla fase 2 della sostituzione dei tassi e ne conclude che il bilancio non ne è interessato ([00:11:46]–[00:13:13]). La fase 2 è invece il Regolamento 25/2021, applicabile dal 2021 senza impatti per la Banca.
+**Opzione:** La proroga al 1° gennaio 2023 dell'esenzione temporanea dall'applicazione dell'IFRS 9 (modifiche all'IFRS 4), rilevante solo a livello di Gruppo.
+**Distrattori:**
+- La proroga al 1° gennaio 2023 dell'esenzione temporanea dall'applicazione dell'IFRS 9 (modifiche all'IFRS 4), rilevante anche per il bilancio d'impresa della Banca.
+- Con il metodo indiretto: il risultato dell'esercizio rettificato degli effetti delle operazioni di natura non monetaria.
+- La tolleranza creditizia della banca nei confronti dei propri debitori.
+
+**D:** ⚠️ A chi è rivolto e che cosa consente l'espediente pratico dell'emendamento all'IFRS 16 sulle concessioni sui canoni connesse al COVID-19, secondo la slide 6 della lezione 27?
+**R:** Ai **locatari**: la **facoltà** di **non applicare** le regole di contabilizzazione delle **modifiche del leasing** nel caso di concessioni sui canoni come conseguenza diretta della pandemia, come **sospensioni o riduzioni temporanee** dei pagamenti. L'emendamento è del **maggio 2020**. Il **Regolamento n. 1421/2021 del 30 agosto 2021** recepisce le modifiche dello IASB del 31 marzo 2021, che ne estendono l'applicazione di un anno, ai canoni dovuti entro il 30 giugno 2022. ⚠️ Il docente racconta invece il caso della banca che concede beni in leasing, i cui canoni non pagati non sarebbero crediti deteriorati ([00:13:13]–[00:16:07]): la slide parla dei locatari.
+**Opzione:** Ai locatari: la facoltà di non applicare le regole sulle modifiche del leasing alle concessioni sui canoni dovute alla pandemia, come sospensioni o riduzioni temporanee.
+**Distrattori:**
+- Ai locatari: l'obbligo di applicare le regole sulle modifiche del leasing alle concessioni sui canoni dovute alla pandemia, come sospensioni o riduzioni temporanee.
+- Partendo dall'utile d'esercizio, le componenti reddituali rilevate in contropartita delle riserve da valutazione, al netto dell'effetto fiscale, distinguendo quelle che non saranno riversate a conto economico da quelle riclassificabili.
+- Gli IAS/IFRS omologati ed in vigore al 31 dicembre 2021, inclusi i documenti interpretativi SIC e IFRS-IC.
+
+**D:** ⚠️ Perché Intesa Sanpaolo non si è avvalsa dell'espediente pratico dell'IFRS 16 sulle concessioni sui canoni COVID-19, secondo le slide 6 e 20 della lezione 27?
+**R:** Per la slide 6 ha scelto di non avvalersene **già a partire dal 2020**, anche in considerazione della **non materialità degli impatti**, quindi le ulteriori modifiche non sono rilevanti per la Banca. Per la slide 20, con riferimento ai contratti di leasing **lato locatario**, ha valutato la **natura dei contratti** in essere e il **ruolo attivo** svolto dalla Banca **nel supporto all'economia**, e ha stabilito di non applicarlo ai **contratti di leasing passivi** in essere. ⚠️ Il docente dà un altro motivo, che la banca non svolge attività di leasing ([00:27:31]): fanno testo le slide.
+**Opzione:** Per la non materialità degli impatti e, sui leasing passivi, per la natura dei contratti e il ruolo attivo della Banca nel supporto all'economia.
+**Distrattori:**
+- Per la materialità degli impatti e, sui leasing passivi, per la natura dei contratti e il ruolo attivo della Banca nel supporto all'economia.
+- Si rimanda alla corrispondente informativa del bilancio consolidato.
+- Perché è riferito a un evento specifico, che non è previsto nella normalità dei bilanci.
+
+**D:** ⚠️ Quale regolamento omologa il nuovo IFRS 17 «Contratti assicurativi», da quando si applica e a quale livello è rilevante, secondo la slide 7 della lezione 27?
+**R:** Il **Regolamento n. 2036/2021 del 19 novembre**, pubblicato nella Gazzetta Ufficiale dell'UE del 23 novembre 2021. Il principio, pubblicato a maggio 2017 e modificato il 25 giugno 2020, ha la prima applicazione posticipata di un anno al **1° gennaio 2023**, e assume rilevanza **solo a livello di Gruppo** Intesa Sanpaolo. Sta fra i principi con applicazione obbligatoria dal 2022 o da data successiva, per i quali la Banca non si è avvalsa di un'applicazione anticipata.
+**Opzione:** Il Regolamento 2036/2021 del 19 novembre: prima applicazione dal 1° gennaio 2023, rilevante solo a livello di Gruppo.
+**Distrattori:**
+- Il Regolamento 1080/2021 del 28 giugno: prima applicazione dal 1° gennaio 2022, rilevante solo a livello di Gruppo.
+- Il Regolamento 2036/2021 del 19 novembre: prima applicazione dal 1° gennaio 2022, rilevante solo a livello di Gruppo.
+- Il Regolamento 2097/2020 del 15 dicembre: prima applicazione dal 1° gennaio 2021, rilevante solo a livello di Gruppo.
+
+**D:** ⚠️ Da quali documenti è costituito il bilancio della banca, secondo i principi generali di redazione della slide 8 della lezione 27, e da che cosa è corredato?
+**R:** È costituito dallo **Stato patrimoniale**, dal **Conto economico**, dal **Prospetto della redditività complessiva**, dal **Prospetto delle variazioni di patrimonio netto**, dal **Rendiconto finanziario**, dalla **Nota integrativa** e dalle relative **informazioni comparative**. È inoltre **corredato** da una **Relazione degli amministratori** sull'andamento della gestione, sui risultati economici conseguiti e sulla situazione patrimoniale e finanziaria ([00:16:32]). La relazione accompagna il bilancio, ma non è fra i documenti che lo costituiscono.
+**Opzione:** Stato patrimoniale, conto economico, prospetto della redditività complessiva, prospetto delle variazioni di patrimonio netto, rendiconto finanziario, nota integrativa e informazioni comparative; corredato dalla relazione degli amministratori.
+**Distrattori:**
+- Stato patrimoniale, conto economico, prospetto della redditività complessiva, prospetto delle variazioni di patrimonio netto, rendiconto finanziario, relazione degli amministratori e informazioni comparative; corredato dalla nota integrativa.
+- 2097/2020, proroga dell'esenzione temporanea dall'IFRS 9 (IFRS 4); 25/2021, riforma degli indici di riferimento dei tassi, fase 2; 1421/2021, concessioni sui canoni COVID-19 (IFRS 16).
+- Il LIBOR e, in ambito europeo, l'EONIA, sulla base delle indicazioni del G20 e del Financial Stability Board.
+
+**D:** ⚠️ Il prospetto della redditività complessiva è parte del bilancio della banca, secondo il test della lezione 27 (domanda 3)?
+**R:** «**Sì**»: per la slide 8 il bilancio è costituito da stato patrimoniale, conto economico, **prospetto della redditività complessiva**, prospetto delle variazioni di patrimonio netto, rendiconto finanziario e nota integrativa ([00:16:32]). Nei materiali non c'è alcuna restrizione per dimensione o per operatività all'estero. Distrattori del test: «solo per le banche che operano all'estero», «solo per le banche di maggiori dimensioni», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per le banche che operano all'estero.
+- Solo per le banche di maggiori dimensioni.
+- No.
+
+**D:** ⚠️ Il redattore del bilancio della banca deve tenere conto delle norme intervenute prima dell'approvazione del bilancio, secondo il test della lezione 27 (domanda 4)?
+**R:** «**Sì**», secondo la chiave. ⚠️ La formula non è nelle slide né nel transcript: si ricava dalla nota integrativa. Questa riporta i principi **omologati ed in vigore al 31 dicembre 2021** e quelli **entrati in vigore nell'esercizio** (slide 2–3), ma anche i principi già **omologati** con applicazione obbligatoria dal **1° gennaio 2022**, come l'**IFRS 17**, omologato il 19 novembre 2021 (slide 6–7). Per questi ultimi «tenere conto» vuol dire darne informativa: per il docente non interessano questo bilancio ([00:16:07]–[00:16:32]). Distrattori del test: «solo per le banche che operano all'estero», «solo per le banche di maggiori dimensioni», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per le banche che operano all'estero.
+- Solo per le banche di maggiori dimensioni.
+- No.
+
+**D:** ⚠️ Nel bilancio della banca lo scenario macroeconomico viene analizzato, secondo il test della lezione 27 (domanda 5)?
+**R:** «**Sì**»: la parte iniziale della nota integrativa contiene il paragrafo «*Scenario macroeconomico di Intesa Sanpaolo per la valutazione dei crediti nel bilancio 2021*» (slide 13). Per il docente i crediti verso banche e verso clientela sono la voce in valore assoluto più significativa del bilancio della banca ([00:20:07]). Distrattori del test: «solo per le banche che operano all'estero», «no», «solo per le banche di maggiori dimensioni».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per le banche che operano all'estero.
+- No.
+- Solo per le banche di maggiori dimensioni.
+
+**D:** In quale moneta e in quale unità sono espressi gli importi del bilancio 2021 di Intesa Sanpaolo, secondo la slide 8 della lezione 27?
+**R:** In conformità all'**art. 5 del d.lgs. 38/2005** il bilancio è redatto utilizzando l'**euro** quale moneta di conto. Gli importi dei prospetti contabili e della nota integrativa, come quelli della relazione sulla gestione, sono espressi, qualora non diversamente specificato, in **milioni di euro** ([00:16:32]–[00:17:23]).
+**Opzione:** In euro, ai sensi dell'art. 5 del d.lgs. 38/2005; gli importi sono in milioni di euro, salvo diversa indicazione.
+**Distrattori:**
+- In euro, ai sensi dell'art. 5 del d.lgs. 38/2005; gli importi sono in migliaia di euro, salvo diversa indicazione.
+- In euro, ai sensi dell'art. 43 del d.lgs. 136/2015; gli importi sono in milioni di euro, salvo diversa indicazione.
+- In euro, ai sensi dell'art. 5 del d.lgs. 38/2005; gli importi sono in miliardi di euro, salvo diversa indicazione.
+
+**D:** ⚠️ Quali principali novità di rappresentazione ha introdotto il 7° aggiornamento della Circolare 262, secondo la slide 8 della lezione 27?
+**R:** Sono le «**principali** novità»: alcune categorie di attività finanziarie, i **crediti a vista verso banche** e i **crediti impaired acquisiti e originati**, rappresentate come nelle segnalazioni armonizzate europee (**FINREP**); fra le attività immateriali, una specifica evidenza dei **software** che non costituiscono parte integrante di hardware ai sensi dello **IAS 38**; le **commissioni attive e passive** illustrate secondo un diverso schema di dettaglio; i **contributi al fondo di risoluzione e agli schemi di garanzia dei depositi** con **disclosure separata** nelle voci. Per questo il bilancio fornisce i dati di raffronto al 31 dicembre 2020, ove pertinente.
+**Opzione:** Crediti a vista verso banche e crediti impaired acquisiti e originati rappresentati come in FINREP; evidenza dei software non parte integrante di hardware; commissioni attive e passive con un diverso schema di dettaglio; disclosure separata dei contributi al fondo di risoluzione e agli schemi di garanzia dei depositi.
+**Distrattori:**
+- Crediti a vista verso banche e crediti impaired acquisiti e originati rappresentati come in FINREP; evidenza dei software non parte integrante di hardware; commissioni attive e passive con un diverso schema di dettaglio; contributi al fondo di risoluzione e agli schemi di garanzia dei depositi accorpati nelle altre spese amministrative.
+- Ha riaperto sino al 31 marzo 2021 la concessione di moratorie e ha fissato una durata massima di nove mesi per le nuove moratorie o le estensioni, sommando i periodi non consecutivi.
+- Gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Nota integrativa.
+
+**D:** ⚠️ Come sono trattate, negli schemi di stato patrimoniale e conto economico della slide 9 della lezione 27, le voci che non presentano importi, e perché secondo il docente?
+**R:** Rispetto agli schemi della Banca d'Italia **sono riportate anche le voci che non presentano importi né per l'esercizio** al quale si riferisce il bilancio, **né per quello precedente**. Lo stesso vale per il prospetto della redditività complessiva. Per il docente non si eliminano le voci a zero «per favorire una maggiore chiarezza nella lettura di questi prospetti» ([00:17:23]).
+**Opzione:** Sono riportate anche se non hanno importi né per l'esercizio né per quello precedente, per una maggiore chiarezza nella lettura.
+**Distrattori:**
+- Sono eliminate se non hanno importi né per l'esercizio né per quello precedente, per una maggiore chiarezza nella lettura.
+- Sono riportate solo se hanno importi almeno nell'esercizio precedente, per consentire il raffronto.
+- Sono raggruppate nella voce altre attività, per una maggiore chiarezza nella lettura.
+
+**D:** Come sono indicati i ricavi e i costi nel conto economico della banca, secondo la slide 9 della lezione 27?
+**R:** I **ricavi** sono indicati **senza segno**, mentre i **costi** sono preceduti dal **segno meno**. Nel prospetto della redditività complessiva gli importi negativi sono preceduti dal segno meno; nel rendiconto finanziario i flussi generati sono indicati senza segno, quelli assorbiti con il segno meno (slide 10).
+**Opzione:** I ricavi senza segno, i costi preceduti dal segno meno.
+**Distrattori:**
+- I ricavi preceduti dal segno più, i costi senza segno.
+- I costi senza segno, i ricavi preceduti dal segno meno.
+- I ricavi senza segno, i costi fra parentesi.
+
+**D:** ⚠️ Che cosa espone il prospetto della redditività complessiva, secondo la slide 9 della lezione 27?
+**R:** Partendo dall'**utile (perdita) d'esercizio**, espone le componenti reddituali rilevate **in contropartita delle riserve da valutazione**, **al netto del relativo effetto fiscale**, in conformità ai principi contabili internazionali. Dà **separata evidenza** delle componenti che **non saranno in futuro riversate** nel conto economico e di quelle che **potranno essere successivamente riclassificate** nell'utile (perdita) dell'esercizio al verificarsi di determinate condizioni ([00:17:23]–[00:19:23]).
+**Opzione:** Partendo dall'utile d'esercizio, le componenti reddituali rilevate in contropartita delle riserve da valutazione, al netto dell'effetto fiscale, distinguendo quelle che non saranno riversate a conto economico da quelle riclassificabili.
+**Distrattori:**
+- Partendo dall'utile d'esercizio, le componenti reddituali rilevate in contropartita delle riserve da valutazione, al lordo dell'effetto fiscale, distinguendo quelle che non saranno riversate a conto economico da quelle riclassificabili.
+- Non come una cancellazione contabile (derecognition), ma come una modifica (modification).
+- Il Regolamento 2036/2021 del 19 novembre: prima applicazione dal 1° gennaio 2023, rilevante solo a livello di Gruppo.
+
+**D:** ⚠️ Come è presentato il prospetto delle variazioni del patrimonio netto di Intesa Sanpaolo rispetto allo schema della Circolare 262, e dove vanno le azioni proprie, secondo la slide 9 della lezione 27?
+**R:** È presentato **invertendo le righe e le colonne** rispetto al medesimo prospetto previsto dalla Circolare 262/2005. Riporta composizione e movimentazione dei conti di patrimonio netto nell'esercizio e in quello precedente, suddivisi fra capitale sociale, riserve di capitale, di utili e da valutazione, e risultato economico. Le **azioni proprie** in portafoglio sono portate **in diminuzione** del patrimonio netto.
+**Opzione:** Invertendo righe e colonne rispetto allo schema della Circolare 262, con le azioni proprie in diminuzione del patrimonio netto.
+**Distrattori:**
+- Con le stesse righe e colonne dello schema della Circolare 262, con le azioni proprie in diminuzione del patrimonio netto.
+- Invertendo righe e colonne rispetto allo schema della Circolare 262, con le azioni proprie in aumento del patrimonio netto.
+- Invertendo righe e colonne rispetto allo schema della Circolare 262, con le azioni proprie fra le attività finanziarie.
+
+**D:** ⚠️ Con quale metodo è predisposto il rendiconto finanziario di Intesa Sanpaolo, e come vi sono rappresentati i flussi dell'attività operativa, secondo la slide 10 della lezione 27?
+**R:** Con il **metodo indiretto**, in base al quale i flussi derivanti dall'**attività operativa** sono rappresentati dal **risultato dell'esercizio rettificato degli effetti delle operazioni di natura non monetaria** ([00:19:23]). I flussi sono suddivisi fra attività **operativa**, di **investimento** e di **provvista**; quelli generati sono indicati senza segno, quelli assorbiti con il segno meno.
+**Opzione:** Con il metodo indiretto: il risultato dell'esercizio rettificato degli effetti delle operazioni di natura non monetaria.
+**Distrattori:**
+- Con il metodo diretto: il risultato dell'esercizio rettificato degli effetti delle operazioni di natura non monetaria.
+- Con il metodo indiretto: il risultato dell'esercizio rettificato degli effetti delle operazioni di natura monetaria.
+- Con il metodo indiretto: gli incassi e i pagamenti dell'esercizio, senza partire dal risultato.
+
+**D:** Che cosa dice la nota integrativa d'impresa di Intesa Sanpaolo sugli eventi successivi alla data di riferimento del bilancio, secondo la slide 10 della lezione 27?
+**R:** «**Si rimanda alla corrispondente informativa del Bilancio consolidato.**» Il paragrafo sta nella parte iniziale della nota integrativa, subito prima degli «Altri aspetti».
+**Opzione:** Si rimanda alla corrispondente informativa del bilancio consolidato.
+**Distrattori:**
+- Si rimanda alla relazione semestrale dell'esercizio successivo.
+- Non sono indicati, perché successivi alla data di riferimento del bilancio.
+- Sono illustrati nella Parte E della nota integrativa d'impresa.
+
+**D:** ⚠️ Quali sono le principali aree di incertezza nella stima, secondo la slide 12 della lezione 27?
+**R:** Le **perdite su crediti**, il **fair value di strumenti finanziari** (inclusi derivati), le **imposte sul reddito** delle società, i **benefici per i dipendenti**, l'**avviamento e le attività immateriali**, il **fair value delle attività e passività identificabili** a seguito di aggregazioni aziendali, la **riduzione di valore di attività non finanziarie**, la **cancellazione di attività e passività finanziarie** e gli **accantonamenti per rischi ed oneri**. L'elenco è aperto («includono»). Le stime del management si basano sull'esperienza storica e su altri presupposti ragionevoli, e sono supportate da analisi di sensitività.
+**Opzione:** Perdite su crediti; fair value di strumenti finanziari, inclusi derivati; imposte sul reddito; benefici per i dipendenti; avviamento e attività immateriali; fair value delle attività e passività identificabili da aggregazioni aziendali; riduzione di valore di attività non finanziarie; cancellazione di attività e passività finanziarie; accantonamenti per rischi ed oneri.
+**Distrattori:**
+- Perdite su crediti; fair value di strumenti finanziari, esclusi i derivati; imposte sul reddito; benefici per i dipendenti; avviamento e attività immateriali; fair value delle attività e passività identificabili da aggregazioni aziendali; riduzione di valore di attività non finanziarie; cancellazione di attività e passività finanziarie; accantonamenti per rischi ed oneri.
+- Li emana lo IASB, li omologa la Commissione Europea.
+- Stato patrimoniale, conto economico, prospetto della redditività complessiva, prospetto delle variazioni di patrimonio netto, rendiconto finanziario, nota integrativa e informazioni comparative; corredato dalla relazione degli amministratori.
+
+**D:** ⚠️ A quali previsioni macroeconomiche ha ancorato i modelli di Expected Credit Losses Intesa Sanpaolo da giugno 2020, e a quali è tornata nel bilancio 2021, secondo la slide 13 della lezione 27?
+**R:** Da **giugno 2020**, seguendo le indicazioni di regulator e standard setter, aveva ancorato le proprie previsioni alle **proiezioni pubblicate dalle banche centrali**. Nel 2021, con un quadro in sensibile ripresa e minore incertezza, è **tornata agli scenari prodotti internamente dalla Direzione Studi e Ricerche** come input ai modelli di ECL. Così gli scenari tornano uniformi con quelli degli altri processi valutativi, come l'impairment test e il budget, e con il nuovo Piano d'impresa 2022. La scelta è sostenuta dalla convergenza con le previsioni di BCE e Banca d'Italia.
+**Opzione:** Da giugno 2020 alle proiezioni delle banche centrali; nel 2021 è tornata agli scenari interni della Direzione Studi e Ricerche.
+**Distrattori:**
+- Da giugno 2020 agli scenari interni della Direzione Studi e Ricerche; nel 2021 è passata alle proiezioni delle banche centrali.
+- Da giugno 2020 alle proiezioni dell'ESMA; nel 2021 è tornata agli scenari interni della Direzione Studi e Ricerche.
+- Da giugno 2020 alle proiezioni delle banche centrali; nel 2021 è passata agli scenari del Financial Stability Board.
+
+**D:** ⚠️ Su quali temi la Banca fornisce analisi di sensitività in nota integrativa, secondo la slide 14 della lezione 27?
+**R:** Come negli esercizi precedenti e come raccomandato dall'**ESMA** (*European common enforcement priorities for 2021 annual financial reports*), su sette temi: (1) gli effetti del cambiamento di parametri **non osservabili** per il **fair value di livello 3**; (2) le **attività immobiliari** valutate al fair value, essenzialmente gli **immobili di Intesa Sanpaolo** del perimetro Core; (3) il **valore d'uso delle Cash Generating Unit** con **attività intangibili a vita indefinita**; (4) le variazioni dei tassi delle **passività nette a benefici definiti**; (5) l'**ECL IFRS 9** nei singoli scenari alternativi; (6) il **margine di interesse** al variare dei tassi e il **rischio di prezzo** delle attività quotate **HTCS**; (7) l'**analisi di scenario** su prezzi azionari, tassi, spread creditizi, cambi e **materie prime** per l'attività di **trading**. ⚠️ Il docente salta la prima voce ([00:23:40]–[00:24:21]).
+**Opzione:** Fair value di livello 3; immobili valutati al fair value; valore d'uso delle CGU con intangibili a vita indefinita; passività nette a benefici definiti; ECL IFRS 9 negli scenari alternativi; margine di interesse e rischio di prezzo HTCS; scenari di mercato per il trading.
+**Distrattori:**
+- Fair value di livello 3; immobili valutati al fair value; valore d'uso delle CGU con intangibili a vita indefinita; passività nette a benefici definiti; ECL IFRS 9 negli scenari alternativi; margine di interesse e rischio di prezzo HTCS; probability test sulla fiscalità differita.
+- Il Regolamento n. 1606 del 19 luglio 2002.
+- Di non effettuare il discontinuing della copertura quando se ne aggiorna la documentazione per la riforma; l'eventuale inefficacia va comunque rilevata a conto economico.
+
+**D:** ⚠️ Quali imposte anticipate sono sottoposte al probability test, e perché le altre no, secondo la slide 15 della lezione 27?
+**R:** Per lo **IAS 12** un'attività fiscale differita (**imposta anticipata**, **DTA**) va rilevata per tutte le **differenze temporanee deducibili**, se è **probabile** il realizzo di redditi imponibili capienti. Le imposte anticipate si distinguono in due tipi. Per le «**qualificate**» la normativa italiana prevede la **conversione in crediti d'imposta**, che ne legittima di per sé l'iscrizione. L'ammontare delle «**non qualificate**» è invece sottoposto a **test**, per verificare la probabilità di imponibili futuri che ne consentano il recupero: il **probability test**. Anche nella pandemia la verifica non ha fatto emergere impatti negativi. ⚠️ Il docente lo descrive come recupero di perdite fiscali pregresse ([00:24:21]).
+**Opzione:** Solo le non qualificate: per le qualificate la normativa italiana prevede la conversione in crediti d'imposta, che ne legittima di per sé l'iscrizione.
+**Distrattori:**
+- Solo le qualificate: per le non qualificate la normativa italiana prevede la conversione in crediti d'imposta, che ne legittima di per sé l'iscrizione.
+- Prima fase: hedge accounting prima della sostituzione (pre-replacement issue), Regolamento 34/2020; seconda fase: effetti dei nuovi tassi (replacement issue), Regolamento 25/2021.
+- Ai locatari: la facoltà di non applicare le regole sulle modifiche del leasing alle concessioni sui canoni dovute alla pandemia, come sospensioni o riduzioni temporanee.
+
+**D:** ⚠️ Che effetto ha sulla classificazione del credito la concessione di una moratoria COVID-19 secondo le Guidelines EBA, secondo la slide 16 della lezione 27?
+**R:** La concessione di moratorie **ex lege**, o anche **private** purché correlate a un'**oggettiva esigenza di contesto** che riguarda **più soggetti finanziati** e non il singolo prestito, **non costituisce automaticamente un evento di default**, con classificazione del credito come deteriorato, **né una misura di forbearance**, con passaggio del credito a **Stage 2**. Le misure riguardano clienti **già in bonis**, con procedure semplificate e senza penalizzazioni.
+**Opzione:** Non è automaticamente un evento di default, con il credito fra i deteriorati, né una misura di forbearance, con il passaggio a Stage 2.
+**Distrattori:**
+- È automaticamente una misura di forbearance, con il passaggio a Stage 2, ma non un evento di default, con il credito fra i deteriorati.
+- È automaticamente un evento di default, con il credito fra i deteriorati, e quindi comporta la derecognition.
+- Non è un evento di default né una misura di forbearance solo se la moratoria riguarda il singolo prestito.
+
+**D:** ⚠️ Che cosa ha stabilito l'EBA sulle moratorie con la comunicazione del 2 dicembre 2020, dopo la seconda ondata di COVID-19, secondo la slide 17 della lezione 27?
+**R:** Ha **riaperto sino al 31 marzo 2021** la possibilità di concedere moratorie secondo le linee guida preesistenti. Ha introdotto una **durata massima di nove mesi** per le nuove moratorie o per l'estensione di una moratoria esistente, anche per periodi di sospensione **non consecutivi**, le cui durate **si sommano**. Il limite **non si applicava retroattivamente** alle moratorie concesse sino al 30 settembre 2020. A dicembre 2020 la Banca si è adeguata, con una valutazione caso per caso sulla classificazione forborne delle moratorie oltre i nove mesi.
+**Opzione:** Ha riaperto sino al 31 marzo 2021 la concessione di moratorie e ha fissato una durata massima di nove mesi per le nuove moratorie o le estensioni, sommando i periodi non consecutivi.
+**Distrattori:**
+- Ha riaperto sino al 31 marzo 2021 la concessione di moratorie e ha fissato una durata massima di sei mesi per le nuove moratorie o le estensioni, sommando i periodi non consecutivi.
+- La proroga al 1° gennaio 2023 dell'esenzione temporanea dall'applicazione dell'IFRS 9 (modifiche all'IFRS 4), rilevante solo a livello di Gruppo.
+- Solo le non qualificate: per le qualificate la normativa italiana prevede la conversione in crediti d'imposta, che ne legittima di per sé l'iscrizione.
+
+**D:** ⚠️ Fino a quando hanno prorogato le moratorie ex lege alle PMI la Legge di Bilancio n. 178 del dicembre 2020 e il D.L. «Sostegni bis», secondo le slide 17–18 della lezione 27?
+**R:** Le moratorie, già prorogate a partire dal **D.L. Cura Italia** del marzo 2020, sono state prorogate dalla **Legge di Bilancio n. 178** del dicembre 2020 **al 30 giugno 2021**, e Intesa Sanpaolo vi ha dato attuazione con una **proroga massiva** centralizzata. Il **D.L. «Sostegni bis»** ha poi consentito un'ulteriore proroga **fino al 31 dicembre 2021**, solo su richiesta delle imprese già ammesse con il Cura Italia, da formalizzare **entro il 15 giugno**. ⚠️ Il docente cita anche «aiuti, aiuti bis» ([00:27:31]), che le slide non nominano.
+**Opzione:** La Legge di Bilancio 178/2020 al 30 giugno 2021; il D.L. Sostegni bis al 31 dicembre 2021.
+**Distrattori:**
+- La Legge di Bilancio 178/2020 al 31 dicembre 2021; il D.L. Sostegni bis al 30 giugno 2021.
+- La Legge di Bilancio 178/2020 al 31 marzo 2021; il D.L. Sostegni bis al 31 dicembre 2021.
+- La Legge di Bilancio 178/2020 al 30 giugno 2021; il D.L. Sostegni bis al 30 giugno 2022.
+
+**D:** Su quale quota del finanziamento valeva la sospensione dal 1° luglio 2021 prevista dalla proroga del D.L. «Sostegni bis», secondo la slide 18 della lezione 27?
+**R:** Sulla **sola quota capitale**: gli **interessi** dovevano essere pagati. La proroga valeva solo su richiesta delle imprese già ammesse alla moratoria del D.L. Cura Italia, da formalizzare entro il 15 giugno. Su questa proroga la Banca ha individuato un limitato cluster a qualità creditizia particolarmente elevata, senza targatura forborne; per le altre posizioni ha fatto verificare caso per caso i gestori.
+**Opzione:** Sulla sola quota capitale: gli interessi dovevano essere pagati.
+**Distrattori:**
+- Sulla sola quota interessi: il capitale doveva essere rimborsato.
+- Su capitale e interessi, senza alcun pagamento fino al 31 dicembre 2021.
+- Sulla sola quota capitale, e solo per le imprese con la qualità creditizia più elevata.
+
+**D:** Che cos'è la forbearance, secondo il docente della lezione 27?
+**R:** La cosiddetta **tolleranza creditizia** della banca nei confronti dei propri debitori ([00:27:31]). Per le slide 16–17 una misura di forbearance comporta il passaggio del credito a **Stage 2**. Le moratorie COVID-19 concesse secondo le Guidelines EBA non lo sono automaticamente, mentre quelle concesse a clientela già **non performing** sono considerate misure di forbearance.
+**Opzione:** La tolleranza creditizia della banca nei confronti dei propri debitori.
+**Distrattori:**
+- La cancellazione contabile del credito, cioè la derecognition.
+- La sospensione generalizzata dei pagamenti decisa per legge, cioè la moratoria ex lege.
+- Il passaggio automatico del credito fra i deteriorati, cioè lo Stage 3.
+
+**D:** ⚠️ Quali requisiti devono rispettare le moratorie concesse dalla Banca in linea con le indicazioni EBA, e perché non comportano la derecognition del credito, secondo la slide 20 della lezione 27?
+**R:** Devono essere **offerte indistintamente a una platea di soggetti** (*performing*) o a seguito e secondo **disposizioni di legge**, e **non prevedere rinunce** a interessi contrattuali o capitali, ma solo un **mero differimento/allungamento** dei pagamenti. Proprio perché prevedono solo un differimento del periodo in cui i pagamenti sono dovuti, l'applicazione di una moratoria **non comporta la derecognition** del credito. ⚠️ Per il docente la derecognition è «la cancellazione del credito per perdite» ([00:27:31]); la slide 4 la chiama «cancellazione contabile».
+**Opzione:** Offerte indistintamente a una platea di soggetti performing, o secondo disposizioni di legge, con un mero differimento dei pagamenti senza rinunce a interessi o capitale: per questo non comportano la derecognition.
+**Distrattori:**
+- Offerte indistintamente a una platea di soggetti performing, o secondo disposizioni di legge, con la rinuncia a una parte degli interessi contrattuali: per questo non comportano la derecognition.
+- La proroga al 1° gennaio 2023 dell'esenzione temporanea dall'applicazione dell'IFRS 9 (modifiche all'IFRS 4), rilevante solo a livello di Gruppo.
+- I ricavi senza segno, i costi preceduti dal segno meno.
+
+**D:** Perché il docente della lezione 27 definisce «anomalo» il paragrafo della nota integrativa sul COVID-19?
+**R:** Perché è **riferito a un evento specifico**, che **non è previsto nella normalità dei bilanci** ([00:24:21]). Vi sono esposte le regole di classificazione e valutazione dei crediti oggetto di **moratorie**, nate da interventi europei o da leggi italiane approvate con il placet europeo. Il contenuto non è facoltativo: la Banca d'Italia ha integrato la Circolare 262 con la comunicazione del 15 dicembre 2020 (slide 10).
+**Opzione:** Perché è riferito a un evento specifico, che non è previsto nella normalità dei bilanci.
+**Distrattori:**
+- Perché non è previsto dalla Circolare 262 ed è inserito per scelta volontaria della banca.
+- Perché riguarda solo il bilancio consolidato e non quello d'impresa.
+
+## Lezione 28 — La Nota Integrativa del bilancio della banca. Le attività finanziarie e materiali
+
+**D:** ⚠️ È possibile spostare un'attività finanziaria da una classificazione a un'altra, secondo il test della lezione 28 (domanda 1)?
+**R:** Sì, ma **solo in caso di variazione del modello di business per la gestione delle attività finanziarie** (slide 4, 7 e 10). Per l'IFRS 9 «non sono ammesse riclassifiche verso altre categorie di attività finanziarie salvo il caso in cui l'entità modifichi il proprio modello di business», in casi che «ci si attende siano altamente infrequenti». ⚠️ «Mai» vale per i soli **titoli di capitale**, «per cui non è ammessa alcuna riclassifica». Il docente non ne parla. Distrattori del test: «mai», «sempre», «a discrezione del compilatore del bilancio».
+**Opzione:** In caso di variazione del modello di business per la gestione delle attività finanziarie.
+**Distrattori:**
+- Mai.
+- Sempre.
+- A discrezione del compilatore del bilancio.
+
+**D:** ⚠️ Come sono valorizzate le attività finanziarie valutate al fair value con impatto a conto economico, secondo il test della lezione 28 (domanda 2)?
+**R:** **Al fair value** (slide 5): dopo la rilevazione iniziale «sono valorizzate al fair value», e gli effetti «sono imputati nel Conto Economico». Anche all'iscrizione sono rilevate al fair value, senza i costi di transazione. ⚠️ Il costo vale solo come stima del fair value, «in via residuale», per i titoli di capitale non quotati. Nell'esempio del docente un titolo comprato a 100 vale 103 al 31 dicembre, e i 3 di differenza vanno fra i proventi del conto economico ([00:11:14]). Distrattori del test: «al costo di acquisto rettificato per tenere conto di eventuali perdite di valore», «al costo di sostituzione», «metodo del tasso di interesse effettivo».
+**Opzione:** Al fair value.
+**Distrattori:**
+- Al costo di acquisto rettificato per tenere conto di eventuali perdite di valore.
+- Al costo di sostituzione.
+- Metodo del tasso di interesse effettivo.
+
+**D:** ⚠️ Come sono valorizzate le attività finanziarie valutate al fair value con impatto sulla redditività complessiva, secondo il test della lezione 28 (domanda 3)?
+**R:** **Al fair value** (slide 8). ⚠️ Per quelle diverse dai titoli di capitale vanno però a conto economico gli impatti del **costo ammortizzato**, gli effetti dell'impairment e l'effetto cambio; gli altri utili e perdite da variazione di fair value vanno in una specifica **riserva di patrimonio netto** finché l'attività non è cancellata. Per il docente: comprata a 100, vale 103 a fine anno, e il 3 va nelle riserve di valutazione, non a conto economico ([00:14:33]–[00:15:41]). Distrattori del test: «al costo di acquisto rettificato per tenere conto di eventuali perdite di valore», «al costo di sostituzione», «metodo del tasso di interesse effettivo».
+**Opzione:** Al fair value.
+**Distrattori:**
+- Al costo di acquisto rettificato per tenere conto di eventuali perdite di valore.
+- Al costo di sostituzione.
+- Metodo del tasso di interesse effettivo.
+
+**D:** ⚠️ Come sono valorizzate le attività finanziarie valutate al costo ammortizzato, secondo il test della lezione 28 (domanda 4)?
+**R:** Con il **metodo del tasso di interesse effettivo** (slide 12): «successivamente alla rilevazione iniziale, le attività finanziarie in esame sono valutate al costo ammortizzato, utilizzando il metodo del tasso di interesse effettivo». ⚠️ All'**iscrizione** sono invece contabilizzate **al fair value**, comprensivo dei costi o proventi di transazione (slide 11): il fair value è il criterio di iscrizione, non di valutazione. Per il docente «non sono più valutate al fair value come avveniva per le due categorie precedenti» ([00:15:41]). Distrattori del test: «al costo di acquisto rettificato per tenere conto di eventuali perdite di valore», «al costo di sostituzione», «al fair value».
+**Opzione:** Metodo del tasso di interesse effettivo.
+**Distrattori:**
+- Al costo di acquisto rettificato per tenere conto di eventuali perdite di valore.
+- Al costo di sostituzione.
+- Al fair value.
+
+**D:** ⚠️ Come sono valorizzate le partecipazioni, secondo il test della lezione 28 (domanda 5)?
+**R:** **Al costo di acquisto rettificato per tenere conto di eventuali perdite di valore** (slide 21): «le partecipazioni sono valutate al costo, eventualmente rettificato per perdite di valore». Il «di acquisto» è del docente: «costo sostenuto per l'acquisto» ([00:21:09]). ⚠️ La slide non nomina il metodo del patrimonio netto. Il fair value vale per gli strumenti di capitale **non** qualificabili di controllo, collegamento e controllo congiunto (slide 3 e 7). Distrattori del test: «al costo di sostituzione», «metodo del tasso di interesse effettivo», «al fair value».
+**Opzione:** Al costo di acquisto rettificato per tenere conto di eventuali perdite di valore.
+**Distrattori:**
+- Al costo di sostituzione.
+- Metodo del tasso di interesse effettivo.
+- Al fair value.
+
+**D:** ⚠️ Quali attività include la voce delle attività finanziarie valutate al fair value con impatto a conto economico, nell'ordine della slide 3 della lezione 28?
+**R:** «Le attività finanziarie **detenute per la negoziazione**, essenzialmente rappresentate da titoli di debito e di capitale e dal valore positivo dei contratti derivati detenuti con finalità di negoziazione; le attività finanziarie **obbligatoriamente valutate al fair value**…; le attività finanziarie **designate al fair value**». La categoria è definita per esclusione: sono le attività «diverse» da quelle classificate fra le FVOCI e al costo ammortizzato. Vi stanno anche le **quote di OICR**. ⚠️ Lo schema della slide 2 della lezione 26 ha un altro ordine: a) detenute per la negoziazione, b) designate al fair value, c) altre obbligatoriamente valutate al fair value.
+**Opzione:** Le detenute per la negoziazione, le obbligatoriamente valutate al fair value e le designate al fair value.
+**Distrattori:**
+- Le detenute per la negoziazione, le obbligatoriamente valutate al fair value e le detenute fino alla scadenza.
+- Le detenute per la negoziazione, le disponibili per la vendita e le designate al fair value.
+- Le detenute per la negoziazione, le obbligatoriamente valutate al fair value e le valutate al costo ammortizzato.
+
+**D:** ⚠️ Quando lo «SPPI test» risulta non superato, secondo la slide 3 della lezione 28?
+**R:** Quando i termini contrattuali dell'attività «**non prevedono esclusivamente** rimborsi del capitale e pagamenti dell'interesse sull'importo del capitale da restituire». Sono attività **obbligatoriamente valutate al fair value** con impatto a conto economico, come quelle non detenute in un business model Hold to Collect o Hold to Collect and Sell. ⚠️ Il test guarda i **termini contrattuali**, il business model l'**obiettivo** della gestione. Il docente li sovrappone: per lui lo SPPI test riguarda le attività in cui «si aspetta solo l'incasso del capitale e degli interessi senza un'attività di negoziazione» ([00:07:35]).
+**Opzione:** Quando i termini contrattuali non prevedono esclusivamente rimborsi del capitale e pagamenti dell'interesse sull'importo del capitale da restituire.
+**Distrattori:**
+- Quando i termini contrattuali prevedono esclusivamente rimborsi del capitale e pagamenti dell'interesse sull'importo del capitale da restituire.
+- Quanta parte dell'attivo può essere facilmente e rapidamente convertita in denaro entro l'anno successivo, in condizioni di equilibrio economico.
+- Quanto costa percentualmente all'impresa di assicurazione aver realizzato i premi di quell'esercizio.
+
+**D:** Che cosa distingue il business model «Hold to Collect» dal «Hold to Collect and Sell», secondo la slide 3 della lezione 28?
+**R:** Nel **Hold to Collect** l'obiettivo è «il possesso di attività finalizzato alla raccolta dei flussi finanziari contrattuali». Nel **Hold to Collect and Sell** è conseguito «sia mediante la raccolta dei flussi finanziari contrattuali che mediante la vendita di attività finanziarie». Il terzo business model è **Other/Trading**. Il docente usa le sigle HTC e HTCS ([00:05:19]).
+**Opzione:** HTC: possesso finalizzato alla raccolta dei flussi contrattuali; HTCS: raccolta dei flussi contrattuali e vendita delle attività.
+**Distrattori:**
+- HTC: raccolta dei flussi contrattuali e vendita delle attività; HTCS: possesso finalizzato alla raccolta dei flussi contrattuali.
+- HTC: possesso finalizzato alla vendita delle attività; HTCS: raccolta dei flussi contrattuali e vendita delle attività.
+- HTC: possesso finalizzato alla raccolta dei flussi contrattuali; HTCS: vendita delle attività entro l'esercizio successivo.
+
+**D:** ⚠️ Quando un'entità può designare un'attività finanziaria come valutata al fair value con impatto a conto economico, secondo la slide 3 della lezione 28?
+**R:** «Irrevocabilmente all'iscrizione… **se, e solo se**, così facendo **elimina o riduce significativamente un'incoerenza valutativa**». Le attività designate sono quelle «così definite al momento della rilevazione iniziale e ove ne sussistano i presupposti» ([00:05:19]).
+**Opzione:** Irrevocabilmente all'iscrizione, se, e solo se, così facendo elimina o riduce significativamente un'incoerenza valutativa.
+**Distrattori:**
+- In qualunque momento e revocabilmente, se, e solo se, così facendo elimina o riduce significativamente un'incoerenza valutativa.
+- Irrevocabilmente all'iscrizione, se, e solo se, così facendo aumenta significativamente la redditività complessiva.
+- Revocabilmente alla data di bilancio, ove ne sussistano i presupposti.
+
+**D:** ⚠️ Quando i derivati incorporati in contratti finanziari complessi sono oggetto di rilevazione separata, secondo la slide 4 della lezione 28?
+**R:** Quando il contratto primario è una **passività finanziaria** e: «le loro caratteristiche economiche ed i rischi **non sono strettamente correlati** alle caratteristiche del contratto sottostante; gli strumenti incorporati, anche se separati, **soddisfano la definizione di derivato**; gli strumenti ibridi cui appartengono **non sono valutati al fair value** con le relative variazioni rilevate a Conto Economico». Sono inclusi fra i derivati delle FVTPL. Per il docente il caso tipico sono le obbligazioni complesse, cioè un'obbligazione più un contratto derivato ([00:09:17]).
+**Opzione:** Se caratteristiche economiche e rischi non sono strettamente correlati a quelle del contratto sottostante, se gli strumenti incorporati, anche se separati, soddisfano la definizione di derivato e se gli ibridi non sono valutati al fair value con variazioni a conto economico.
+**Distrattori:**
+- Se caratteristiche economiche e rischi non sono strettamente correlati a quelle del contratto sottostante, se gli strumenti incorporati, anche se separati, soddisfano la definizione di derivato e se gli ibridi sono valutati al fair value con variazioni a conto economico.
+- In quelle che gestiscono i rami danni.
+- Perché confronta le attività investite per coprire gli impegni futuri con le riserve tecniche nette, che rappresentano quegli impegni; dovrebbe essere sempre superiore a 1, cioè al 100%.
+
+**D:** ⚠️ A quale valore e con quali effetti si riclassifica un'attività finanziaria quando cambia il modello di business, secondo le slide 4, 7 e 10 della lezione 28?
+**R:** «Il valore di trasferimento è rappresentato dal **fair value al momento della riclassificazione** e gli effetti della riclassificazione operano **in maniera prospettica** a partire dalla data di riclassificazione». Sono casi che «ci si attende siano altamente infrequenti». Per le attività che escono dalle FVTPL il tasso di interesse effettivo si determina sul fair value alla data di riclassificazione, che vale come data di rilevazione iniziale per lo **stage assignment** (slide 4).
+**Opzione:** Al fair value al momento della riclassificazione, con effetti in maniera prospettica a partire dalla data di riclassificazione.
+**Distrattori:**
+- Al fair value al momento della riclassificazione, con effetti retroattivi dalla data di rilevazione iniziale.
+- Al costo ammortizzato al momento della riclassificazione, con effetti in maniera prospettica a partire dalla data di riclassificazione.
+- Al valore di prima iscrizione, con effetti retroattivi dalla data di rilevazione iniziale.
+
+**D:** ⚠️ In quale data avviene l'iscrizione iniziale delle attività finanziarie valutate al fair value con impatto a conto economico, secondo la slide 5 della lezione 28?
+**R:** «Alla **data di regolamento** per i titoli di debito e per i titoli di capitale, alla **data di erogazione** per i finanziamenti ed alla **data di sottoscrizione** per i contratti derivati». Per il docente la data di regolamento è «quando pago», quella di sottoscrizione «quando firmo il contratto» ([00:10:04]). Per le FVOCI la slide 7 nomina solo le prime due date; per il costo ammortizzato la slide 11 parla di titoli di debito e di crediti; le partecipazioni si iscrivono alla data di regolamento (slide 21).
+**Opzione:** Titoli di debito e di capitale: data di regolamento; finanziamenti: data di erogazione; contratti derivati: data di sottoscrizione.
+**Distrattori:**
+- Titoli di debito e di capitale: data di sottoscrizione; finanziamenti: data di erogazione; contratti derivati: data di regolamento.
+- Titoli di debito e di capitale: data di regolamento; finanziamenti: data di sottoscrizione; contratti derivati: data di erogazione.
+- Titoli di debito e di capitale: data di erogazione; finanziamenti: data di regolamento; contratti derivati: data di sottoscrizione.
+
+**D:** ⚠️ In quale categoria di attività finanziarie la rilevazione iniziale al fair value non considera i costi o proventi di transazione, secondo le slide 5, 7 e 11 della lezione 28?
+**R:** Solo nelle **FVTPL**, rilevate al fair value «**senza considerare** i costi o proventi di transazione direttamente attribuibili allo strumento stesso» (slide 5). Le **FVOCI** (slide 7) e le attività **al costo ammortizzato** (slide 11) sono contabilizzate al fair value «**comprensivo** dei costi o proventi di transazione». Per il docente i costi, come le provvigioni pagate per l'acquisto, non vanno in aumento del valore di acquisto ma a conto economico come costo ([00:10:04]–[00:11:14]). Per il costo ammortizzato sottolinea la differenza, «a differenza di quanto avevamo visto prima» ([00:15:41]), ma non dice nulla dei costi delle FVOCI: per la slide 7 anche queste li comprendono.
+**Opzione:** Solo nelle FVTPL: le FVOCI e quelle al costo ammortizzato sono iscritte al fair value comprensivo dei costi o proventi di transazione.
+**Distrattori:**
+- Solo in quelle al costo ammortizzato: le FVTPL e le FVOCI sono iscritte al fair value comprensivo dei costi o proventi di transazione.
+- Nelle FVTPL e in quelle al costo ammortizzato: solo le FVOCI sono iscritte al fair value comprensivo dei costi o proventi di transazione.
+- In nessuna: tutte e tre le categorie sono iscritte al fair value comprensivo dei costi o proventi di transazione.
+
+**D:** ⚠️ Quando le attività finanziarie vengono cancellate dal bilancio, secondo le slide 6, 9 e 16 della lezione 28?
+**R:** «**Solamente** se la cessione ha comportato il **sostanziale trasferimento di tutti i rischi e benefici** connessi alle attività stesse». Se è stata mantenuta una quota parte rilevante dei rischi e benefici, restano in bilancio «ancorché giuridicamente la titolarità delle attività stesse sia stata effettivamente trasferita». Se il trasferimento non si può accertare, si cancellano qualora non sia stato mantenuto **alcun tipo di controllo**; altrimenti restano in misura pari al **coinvolgimento residuo**. La formula è la stessa per le tre categorie. Il docente la ripete, una volta con «rischi e oneri» ([00:15:41]).
+**Opzione:** Solamente se la cessione ha comportato il sostanziale trasferimento di tutti i rischi e benefici connessi alle attività stesse.
+**Distrattori:**
+- Quando ne è stata giuridicamente trasferita la titolarità, anche se ne è stata mantenuta una quota parte rilevante dei rischi e benefici.
+- Solamente se la cessione ha comportato il trasferimento della titolarità giuridica, con qualunque quota di rischi e benefici.
+- Solamente se l'attività è giunta a scadenza e ne sono stati incassati tutti i flussi contrattuali.
+
+**D:** ⚠️ Quali attività finanziarie sono incluse fra quelle valutate al fair value con impatto sulla redditività complessiva, secondo la slide 6 della lezione 28?
+**R:** Quelle che soddisfano **entrambe** le condizioni: sono possedute secondo un business model il cui obiettivo è conseguito «sia mediante l'incasso dei flussi finanziari previsti contrattualmente che mediante la vendita» (**Hold to Collect and Sell**), e i termini contrattuali prevedono flussi «rappresentati unicamente da pagamenti del capitale e dell'interesse» (**SPPI test superato**). Sono inoltre inclusi gli **strumenti di capitale non detenuti per finalità di negoziazione** per cui, alla rilevazione iniziale, si è esercitata l'opzione per la designazione al FVOCI. ⚠️ Il docente legge «contemporaneamente», ma poi presenta lo SPPI test come un'aggiunta: «inoltre… sono anche ricompresi» ([00:11:14]–[00:14:33]).
+**Opzione:** Quelle con entrambe le condizioni, business model Hold to Collect and Sell e SPPI test superato; inoltre gli strumenti di capitale non di negoziazione designati al FVOCI all'iscrizione.
+**Distrattori:**
+- Quelle con entrambe le condizioni, business model Hold to Collect e SPPI test superato; inoltre gli strumenti di capitale non di negoziazione designati al FVOCI all'iscrizione.
+- La compagnia di assicurazione che compra o costituisce una banca, per gestire flussi monetari e prodotti bancari senza dipendere da terzi.
+- Gli indici tecnico-assicurativi: sono propri dell'attività della compagnia di assicurazione e non si ritrovano in altri tipi di azienda.
+
+**D:** ⚠️ Che cosa succede alla riserva da valutazione delle attività FVOCI al momento della dismissione, secondo la slide 8 della lezione 28?
+**R:** Per le attività **diverse dai titoli di capitale**, l'utile o la perdita cumulati nella riserva da valutazione «vengono **riversati**, in tutto o in parte, a Conto Economico». Per i **titoli di capitale** designati al FVOCI gli importi rilevati nel patrimonio netto «**non devono essere successivamente trasferiti a conto economico, neanche in caso di cessione**»: a conto economico vanno solo i **dividendi**. Il docente dice solo che le variazioni restano in riserva «fino al momento in cui l'attività non viene cancellata» ([00:15:41]).
+**Opzione:** Altre attività: riversata, in tutto o in parte, a conto economico; titoli di capitale: non trasferita a conto economico, neanche in caso di cessione.
+**Distrattori:**
+- Altre attività: non trasferita a conto economico, neanche in caso di cessione; titoli di capitale: riversata, in tutto o in parte, a conto economico.
+- Riversata, in tutto o in parte, a conto economico, sia per i titoli di capitale sia per le altre attività.
+- Non trasferita a conto economico, neanche in caso di cessione, sia per i titoli di capitale sia per le altre attività.
+
+**D:** Che cosa viene rilevato a conto economico per le attività FVOCI diverse dai titoli di capitale, secondo la slide 8 della lezione 28?
+**R:** «Gli impatti derivanti dall'applicazione del **costo ammortizzato**, degli effetti dell'**impairment** e dell'eventuale **effetto cambio**». Gli altri utili o perdite da variazione di fair value vanno in una **specifica riserva di patrimonio netto** finché l'attività non viene cancellata. Per i titoli di capitale l'unica componente a conto economico sono i **dividendi**, e non c'è impairment. Per questo nel test (domanda 3) il «metodo del tasso di interesse effettivo» è il distrattore vicino.
+**Opzione:** Gli impatti dell'applicazione del costo ammortizzato, gli effetti dell'impairment e l'eventuale effetto cambio.
+**Distrattori:**
+- Gli impatti dell'applicazione del costo ammortizzato, gli effetti dell'impairment e gli altri utili o perdite da variazione di fair value.
+- Gli effetti dell'impairment e l'eventuale effetto cambio, ma non gli impatti dell'applicazione del costo ammortizzato.
+- Tutti gli utili o perdite derivanti da una variazione di fair value, ma non gli effetti dell'impairment.
+
+**D:** ⚠️ Quale perdita attesa si contabilizza sugli strumenti in Stage 1, Stage 2 e Stage 3, secondo la slide 8 della lezione 28?
+**R:** In **Stage 1**, cioè sulle attività al momento dell'origination, ove non deteriorate, e su quelle senza un significativo incremento del rischio creditizio, una **perdita attesa ad un anno**. In **Stage 2** (bonis con incremento significativo del rischio creditizio) e in **Stage 3** (esposizioni deteriorate) una **perdita attesa per l'intera vita residua** dello strumento finanziario. I **titoli di capitale** non sono assoggettati all'impairment. La slide 13 parla di perdita attesa «a dodici mesi» e «lifetime».
+**Opzione:** Stage 1: perdita attesa ad un anno; Stage 2 e Stage 3: perdita attesa per l'intera vita residua dello strumento.
+**Distrattori:**
+- Stage 1 e Stage 2: perdita attesa ad un anno; Stage 3: perdita attesa per l'intera vita residua dello strumento.
+- Stage 1: perdita attesa per l'intera vita residua dello strumento; Stage 2 e Stage 3: perdita attesa ad un anno.
+- Stage 1, Stage 2 e Stage 3: perdita attesa per l'intera vita residua dello strumento.
+
+**D:** ⚠️ Quali attività formano oggetto di rilevazione fra le attività finanziarie valutate al costo ammortizzato, secondo la slide 10 della lezione 28?
+**R:** Le attività, «in particolare finanziamenti e titoli di debito», con business model **Hold to Collect** e **SPPI test superato**. Più in particolare: «gli **impieghi con banche** nelle diverse forme tecniche…; gli **impieghi con clientela** nelle diverse forme tecniche…; i **titoli di debito** che presentano i requisiti di cui sopra». Sono inoltre inclusi i **crediti di funzionamento** connessi con la prestazione di attività e di servizi finanziari come definiti dal TUB e dal TUF, «ad esempio» per distribuzione di prodotti finanziari e attività di servicing. Per il docente sono «prevalentemente tipi di obbligazioni di varia natura», per esempio obbligazioni bancarie ([00:15:41]).
+**Opzione:** Gli impieghi con banche e con clientela nelle diverse forme tecniche e i titoli di debito con i requisiti; inoltre i crediti di funzionamento connessi con la prestazione di attività e servizi finanziari.
+**Distrattori:**
+- Gli impieghi con banche e con clientela nelle diverse forme tecniche e i titoli di debito con i requisiti; inoltre le quote di OICR.
+- L'indice dei costi di acquisizione, l'indice di sinistralità e la velocità di liquidazione.
+- Patrimoniali, finanziari, economici, tecnico-assicurativi.
+
+**D:** ⚠️ Per quale ammontare è riconosciuta in bilancio un'attività valutata al costo ammortizzato, secondo la slide 12 della lezione 28?
+**R:** «Un ammontare pari al **valore di prima iscrizione diminuito dei rimborsi di capitale**, più o meno l'**ammortamento cumulato** (calcolato con il metodo del tasso di interesse effettivo) della differenza tra tale importo iniziale e l'importo alla scadenza… e **rettificato dell'eventuale fondo a copertura delle perdite**». Il **tasso di interesse effettivo** eguaglia il valore attuale dei flussi futuri, per capitale ed interesse, all'ammontare erogato **inclusivo** dei costi/proventi ricondotti all'attività. Così l'effetto economico di quei costi/proventi si distribuisce lungo la vita residua attesa.
+**Opzione:** Il valore di prima iscrizione diminuito dei rimborsi di capitale, più o meno l'ammortamento cumulato, con il tasso di interesse effettivo, della differenza fra importo iniziale e importo alla scadenza, rettificato dell'eventuale fondo a copertura delle perdite.
+**Distrattori:**
+- Il valore di prima iscrizione diminuito dei rimborsi di capitale, più o meno l'ammortamento cumulato, con il tasso di interesse nominale, della differenza fra importo iniziale e importo alla scadenza, rettificato dell'eventuale fondo a copertura delle perdite.
+- Provvigioni più costi di acquisizione, fratto premi d'esercizio.
+- Riserve tecniche nette fratto premi emessi.
+
+**D:** ⚠️ Per quali attività non viene utilizzato il metodo del costo ammortizzato, secondo la slide 12 della lezione 28?
+**R:** Per le attività, **valorizzate al costo storico**, «la cui **breve durata** fa ritenere trascurabile l'effetto dell'applicazione della logica dell'attualizzazione, per quelle **senza una scadenza definita** e per i **crediti a revoca**».
+**Opzione:** Per quelle di breve durata, per quelle senza una scadenza definita e per i crediti a revoca, valorizzate al costo storico.
+**Distrattori:**
+- Per quelle di breve durata, per quelle senza una scadenza definita e per i titoli di debito quotati, valorizzate al costo storico.
+- Per quelle di lunga durata, per quelle con una scadenza definita e per i crediti a revoca, valorizzate al fair value.
+- Per quelle di breve durata, per quelle senza una scadenza definita e per i crediti a revoca, valorizzate al fair value.
+
+**D:** ⚠️ Come si rappresentano, di norma, le rinegoziazioni per motivi commerciali e le misure di forbearance, secondo le slide 14 e 15 della lezione 28?
+**R:** Le **rinegoziazioni commerciali**, volte a «trattenere» un cliente che non è in difficoltà finanziaria, «in linea generale» vanno considerate **sostanziali**: senza, il cliente potrebbe finanziarsi presso un altro intermediario. Le modifiche sostanziali conducono alla cancellazione dell'attività e all'iscrizione di una nuova (slide 14). Le **misure di forbearance**, per «ragioni di rischio creditizio», «di norma» non trasferiscono rischi e benefici. Si rappresentano quindi con il «**modification accounting**», che rileva a conto economico la differenza fra valore contabile e valore attuale dei flussi modificati scontati al tasso originario, «e non tramite la derecognition». I **trigger** oggettivi, come il cambiamento di divisa, comportano la derecognition.
+**Opzione:** Rinegoziazioni commerciali: modifiche sostanziali, con derecognition; forbearance: modification accounting e non derecognition.
+**Distrattori:**
+- Rinegoziazioni commerciali: modification accounting e non derecognition; forbearance: modifiche sostanziali, con derecognition.
+- Entrambe con il modification accounting e non con la derecognition.
+- Entrambe come modifiche sostanziali, con derecognition.
+
+**D:** ⚠️ Quale disciplina dell'hedge accounting applica Intesa Sanpaolo, secondo la slide 17 della lezione 28?
+**R:** Si avvale della possibilità, prevista in sede di introduzione dell'**IFRS 9**, di **continuare ad applicare integralmente** le previsioni dello **IAS 39** in tema di hedge accounting, «nella versione **Carve-out** omologata dalla **Commissione Europea**», per **ogni tipologia di copertura**: sia le coperture specifiche sia le macro coperture. Nel transcript diventa «Kerbaut» ([00:15:41]). Per questa scelta i titoli di capitale FVOCI non possono essere designati come oggetti coperti per il rischio di prezzo o di cambio.
+**Opzione:** Continua ad applicare integralmente lo IAS 39, nella versione Carve-out omologata dalla Commissione Europea, per ogni tipologia di copertura, specifica o macro.
+**Distrattori:**
+- Applica le nuove regole dell'IFRS 9, nella versione Carve-out omologata dalla Commissione Europea, per ogni tipologia di copertura, specifica o macro.
+- Costruzione di indici attraverso i quali l'analista può esprimere un giudizio compiuto e coerente sull'impresa oggetto di esame.
+- Fra gli indici patrimoniali.
+
+**D:** ⚠️ Quali tipologie di coperture utilizza Intesa Sanpaolo, secondo la slide 17 della lezione 28?
+**R:** Tre. La **copertura di fair value** copre l'esposizione alla variazione del fair value di attività e passività, inclusi i core deposits; ne fanno parte le **coperture generiche** («macro hedge») sul rischio di tasso di interesse. La **copertura di flussi finanziari** serve essenzialmente a stabilizzare il flusso di interessi della raccolta a tasso variabile che finanzia impieghi a tasso fisso. La **copertura di un investimento in valuta** riguarda un'impresa estera. Solo gli strumenti con una **controparte esterna** alla Banca possono essere designati come strumenti di copertura. ⚠️ Il docente nomina solo le coperture di fair value e il macro hedge ([00:15:41]).
+**Opzione:** Copertura di fair value, copertura di flussi finanziari, copertura di un investimento in valuta.
+**Distrattori:**
+- Copertura di fair value, copertura di flussi finanziari, copertura del rischio operativo.
+- Copertura di fair value, copertura del rischio di credito, copertura di un investimento in valuta.
+- Copertura di flussi finanziari, copertura di un investimento in valuta, copertura degli importi netti fra attività e passività.
+
+**D:** ⚠️ Quando si ha efficacia della copertura, secondo la slide 19 della lezione 28?
+**R:** «Quando le variazioni di fair value (o dei flussi di cassa) dello strumento finanziario di copertura **neutralizzano quasi integralmente**, cioè nei limiti stabiliti dall'**intervallo 80-125%**, le variazioni dello strumento coperto, per l'elemento di rischio oggetto di copertura». La valutazione si fa a ogni chiusura di bilancio o di situazione infrannuale, con **test prospettici**, che dimostrano l'efficacia attesa, e **test retrospettivi**, che misurano quanto i risultati effettivi si sono discostati dalla copertura perfetta. Se l'efficacia non è confermata, il derivato è riclassificato fra gli strumenti di negoziazione.
+**Opzione:** Se le variazioni dello strumento di copertura neutralizzano quasi integralmente, nei limiti dell'intervallo 80-125%, quelle dello strumento coperto.
+**Distrattori:**
+- Se le variazioni dello strumento di copertura neutralizzano quasi integralmente, nei limiti dell'intervallo 75-125%, quelle dello strumento coperto.
+- Se le variazioni dello strumento di copertura neutralizzano quasi integralmente, nei limiti dell'intervallo 80-120%, quelle dello strumento coperto.
+- Se le variazioni dello strumento coperto neutralizzano integralmente, nei limiti dell'intervallo 100%, quelle dello strumento di copertura.
+
+**D:** ⚠️ Quali entità sono considerate sottoposte a influenza notevole (collegate), secondo la slide 21 della lezione 28?
+**R:** Quelle in cui Intesa Sanpaolo «possiede **almeno il 20% dei diritti di voto** (ivi inclusi i diritti di voto "**potenziali**") o nelle quali – **pur con una quota di diritti di voto inferiore** – ha il potere di partecipare alla determinazione delle politiche finanziarie e gestionali della partecipata in virtù di particolari legami giuridici quali la partecipazione a **patti di sindacato**». Per il docente i patti di sindacato sono i **patti parasociali** ([00:21:09]).
+**Opzione:** Quelle in cui possiede almeno il 20% dei diritti di voto, inclusi quelli potenziali, o in cui, pur con una quota inferiore, ha il potere di partecipare alla determinazione delle politiche finanziarie e gestionali per legami giuridici come i patti di sindacato.
+**Distrattori:**
+- Quelle in cui possiede almeno il 50% dei diritti di voto, inclusi quelli potenziali, o in cui, pur con una quota inferiore, ha il potere di partecipare alla determinazione delle politiche finanziarie e gestionali per legami giuridici come i patti di sindacato.
+- È di solito molto rilevante: non è anomalo che superi ampiamente il 50% e arrivi al 60–70%, perché le riserve tecniche sono la posta più significativa del passivo.
+- Più è alto, più l'impresa risulta immobilizzata; per le compagnie non è opportuno, e infatti il loro indice è normalmente abbastanza basso.
+
+**D:** ⚠️ Quando un'interessenza superiore al 20% non è considerata sottoposta a influenza notevole, secondo la slide 21 della lezione 28?
+**R:** Quando Intesa Sanpaolo «detiene **esclusivamente diritti patrimoniali** su una porzione dei frutti degli investimenti, **non ha accesso alle politiche di gestione** e può esercitare **diritti di governance limitati alla tutela degli interessi patrimoniali**». Per il docente sarebbero azioni di risparmio o azioni di godimento ([00:21:09]).
+**Opzione:** Quando detiene esclusivamente diritti patrimoniali su una porzione dei frutti degli investimenti, non ha accesso alle politiche di gestione e può esercitare diritti di governance limitati alla tutela degli interessi patrimoniali.
+**Distrattori:**
+- Quando detiene esclusivamente diritti patrimoniali su una porzione dei frutti degli investimenti, ha accesso alle politiche di gestione e può esercitare diritti di governance limitati alla tutela degli interessi patrimoniali.
+- Non può fallire: va in liquidazione coatta amministrativa, con il giudice, il Ministero di competenza e l'autorità di vigilanza.
+- L'ampliamento della gamma di prodotti e la fidelizzazione del cliente, perché i contratti vita durano raramente meno di 10 anni.
+
+**D:** ⚠️ Quali entità sono considerate sottoposte a controllo congiunto (joint ventures), secondo la slide 21 della lezione 28?
+**R:** Quelle per le quali, **su base contrattuale**, il controllo è condiviso fra Intesa Sanpaolo e un altro o più **soggetti esterni al Gruppo**, ovvero quando per le decisioni riguardanti le attività rilevanti è richiesto il **consenso unanime** di tutte le parti che condividono il controllo. ⚠️ Il docente dice prima «controllate insieme a un'altra società del gruppo» ([00:19:19]), poi legge «soggetti esterni al gruppo» ([00:21:09]): vale la slide.
+**Opzione:** Quelle in cui, su base contrattuale, il controllo è condiviso con uno o più soggetti esterni al Gruppo, o le decisioni sulle attività rilevanti richiedono il consenso unanime delle parti che lo condividono.
+**Distrattori:**
+- Quelle in cui, su base contrattuale, il controllo è condiviso con uno o più soggetti esterni al Gruppo, o le decisioni sulle attività rilevanti richiedono il consenso della maggioranza delle parti che lo condividono.
+- Dopo le crisi dei primi del Novecento nelle imprese industriali e bancarie degli Stati Uniti; dalla crisi del 1929 si svilupparono indicatori per banche, compagnie e società quotate, il cui fallimento danneggia l'intera economia.
+- Loss ratio.
+
+**D:** ⚠️ Come si procede se esistono evidenze che il valore di una partecipazione possa aver subito una riduzione, secondo la slide 21 della lezione 28?
+**R:** «Si procede alla stima del **valore recuperabile** della partecipazione stessa, tenendo conto del **valore attuale dei flussi finanziari futuri** che la partecipazione potrà generare, **incluso il valore di dismissione finale** dell'investimento». Se il valore di recupero è inferiore al valore contabile, la differenza va **a conto economico**; se i motivi della perdita sono rimossi da un evento successivo, si effettuano **riprese di valore** a conto economico. Nell'esempio del docente la partecipazione comprata a 100 si svaluta a 90 con un costo per svalutazione, e torna a 100 con un ripristino di valore. Per lui sopra 100 «non ci posso mai andare» senza una specifica legge di rivalutazione; la slide 21 non fissa limiti ([00:21:09]–[00:23:55]).
+**Opzione:** Si stima il valore recuperabile, tenendo conto del valore attuale dei flussi finanziari futuri che la partecipazione potrà generare, incluso il valore di dismissione finale dell'investimento.
+**Distrattori:**
+- Si stima il valore recuperabile, tenendo conto del valore attuale dei flussi finanziari futuri che la partecipazione potrà generare, escluso il valore di dismissione finale dell'investimento.
+- Dovrebbe avvicinarsi all'unità: pari a 1 vorrebbe dire tutti i sinistri denunciati liquidati nell'esercizio, cosa che non avviene mai; più è vicina a 1, più l'impresa è efficiente.
+- In valore assoluto, come numero di esercizi: quanti ne servirebbero perché i premi ricostituiscano le riserve; se vale 3, le riserve corrispondono grosso modo a 3 anni di premi.
+
+**D:** ⚠️ Che cosa comprendono le attività materiali, secondo la slide 22 della lezione 28?
+**R:** «I **terreni**, gli **immobili strumentali**, gli **investimenti immobiliari**, il **patrimonio artistico di pregio**, gli **impianti tecnici**, i **mobili e gli arredi** nonché le **attrezzature di qualsiasi tipo** che si ritiene di utilizzare **per più di un periodo**». Quelle ad uso funzionale seguono lo **IAS 16**, gli immobili posseduti con finalità di investimento lo **IAS 40**. La voce accoglie anche i beni IAS 2 derivanti dall'escussione di garanzie o dall'acquisto in asta, i **diritti d'uso** acquisiti con il leasing (per i locatari) e le attività concesse in **leasing operativo** (per i locatori). Il docente cita come patrimonio artistico tappeti, quadri e sculture ([00:25:07]).
+**Opzione:** Terreni, immobili strumentali, investimenti immobiliari, patrimonio artistico di pregio, impianti tecnici, mobili e arredi, nonché le attrezzature di qualsiasi tipo che si ritiene di utilizzare per più di un periodo.
+**Distrattori:**
+- Terreni, immobili strumentali, investimenti immobiliari, patrimonio artistico di pregio, impianti tecnici, mobili e arredi, nonché il software che si ritiene di utilizzare per più di un periodo.
+- Immobilizzazione, disponibilità, incidenza delle riserve tecniche, copertura delle riserve tecniche, durata delle riserve tecniche.
+- Costi di acquisizione: premi d'esercizio; sinistralità: premi di competenza; velocità di liquidazione: sinistri denunciati.
+
+**D:** ⚠️ Come sono valutate le attività materiali, secondo la slide 22 della lezione 28?
+**R:** «**Al costo, dedotti eventuali ammortamenti e perdite di valore**, ad eccezione degli **immobili ad uso funzionale** e del **patrimonio artistico di pregio** che sono valutati secondo il **metodo della rideterminazione del valore**. Gli **immobili detenuti a scopo di investimento** sono valutati con il **metodo del fair value**». I beni IAS 2 sono al minore tra il costo e il valore netto di realizzo (slide 24). Per il docente il valore si ridetermina «ogni anno»; nei principi nazionali, a differenza dello IAS 40, gli immobili stanno tutti sotto la stessa voce ([00:25:45]).
+**Opzione:** Al costo, dedotti eventuali ammortamenti e perdite di valore, salvo gli immobili ad uso funzionale e il patrimonio artistico di pregio, con la rideterminazione del valore; gli immobili d'investimento al fair value.
+**Distrattori:**
+- Al costo, dedotti eventuali ammortamenti e perdite di valore, salvo gli immobili d'investimento e il patrimonio artistico di pregio, con la rideterminazione del valore; gli immobili ad uso funzionale al fair value.
+- Riserve tecniche nette fratto passività totali.
+- Attività immobilizzate fratto riserve tecniche nette.
+
+**D:** ⚠️ Come si rilevano gli incrementi e le diminuzioni di valore delle attività materiali valutate con il metodo della rideterminazione, secondo la slide 23 della lezione 28?
+**R:** Se il valore contabile **aumenta**, l'incremento va nel **prospetto della redditività complessiva** e si accumula nel patrimonio netto nella **riserva di rivalutazione**; ma se **ripristina una svalutazione** della stessa attività rilevata prima a conto economico, è un **provento**. Se il valore **diminuisce**, la diminuzione va nella redditività complessiva **nella misura in cui** vi siano saldi a credito nella riserva di rivalutazione di quell'attività; «**altrimenti** tale riduzione va contabilizzata nel conto economico». ⚠️ Il docente omette quest'ultima coda ([00:25:45]–[00:28:09]).
+**Opzione:** Incremento: redditività complessiva e riserva di rivalutazione, salvo il ripristino di una svalutazione già a conto economico, che è un provento; diminuzione: redditività complessiva nei limiti della riserva, altrimenti conto economico.
+**Distrattori:**
+- Incremento: redditività complessiva e riserva di rivalutazione, salvo il ripristino di una svalutazione già a conto economico, che è un provento; diminuzione: sempre conto economico, anche con saldi a credito nella riserva.
+- Dice se la gestione tecnico-assicurativa copre i sinistri: sotto l'unità i premi superano i sinistri, sopra l'unità i sinistri superano i premi; sarebbe opportuno che fosse sempre inferiore a 1.
+- Bilanci compatibili, redatti con gli stessi principi contabili per tutto il periodo, da verificare nella nota integrativa; e la riclassificazione del bilancio prima di calcolare gli indici.
+
+**D:** ⚠️ In quali cluster è segmentato il patrimonio immobiliare del Gruppo per la vita utile, e con quali durate, secondo la slide 23 della lezione 28?
+**R:** In **quattro**: (i) **immobili storici**, vita utile **65 anni**; (ii) **immobili cielo-terra**, **33 anni**; (iii) **filiali bancarie**, **20 anni**; (iv) **altri immobili**, **20 anni**. Ne esula il **Nuovo Centro Direzionale Intesa Sanpaolo a Torino**, la cui vita utile è stimata con un'analisi specifica. L'ammortamento è a **quote costanti**. Le altre attività materiali: mobili da 5 a 10 anni, impianti da 4 a 10, hardware e apparecchiature IT da 4 a 8, altri beni da 3 a 13. Il docente non ne parla.
+**Opzione:** Immobili storici 65 anni; immobili cielo-terra 33; filiali bancarie 20; altri immobili 20.
+**Distrattori:**
+- Immobili storici 33 anni; immobili cielo-terra 65; filiali bancarie 20; altri immobili 20.
+- Immobili storici 65 anni; immobili cielo-terra 33; filiali bancarie 33; altri immobili 20.
+- Immobili storici 65 anni; immobili cielo-terra 20; filiali bancarie 33; altri immobili 20.
+
+**D:** ⚠️ Quali attività materiali non vengono ammortizzate, secondo la slide 24 della lezione 28?
+**R:** I **terreni**, acquisiti singolarmente o incorporati nel valore dei fabbricati, perché hanno **vita utile indefinita**; il **patrimonio artistico di pregio** e gli altri beni storico artistici e decorativi, perché la loro vita utile **non può essere stimata** e il loro valore è normalmente **destinato ad aumentare** nel tempo; gli **immobili ad uso investimento**, che lo IAS 40 vuole valutati **al fair value** con contropartita il conto economico. Per il docente un quadro del 1600 non si può ammortizzare perché il tempo è indefinito ([00:28:09]).
+**Opzione:** I terreni, il patrimonio artistico di pregio con gli altri beni storico artistici e decorativi, e gli immobili ad uso investimento.
+**Distrattori:**
+- I terreni, il patrimonio artistico di pregio con gli altri beni storico artistici e decorativi, e gli immobili ad uso funzionale.
+- I terreni, le filiali bancarie e gli immobili ad uso investimento.
+- Il patrimonio artistico di pregio, gli immobili storici e i mobili e gli arredi.
+
+**D:** ⚠️ Come è rilevato il diritto d'uso acquisito con il leasing, secondo la slide 25 della lezione 28?
+**R:** Per l'**IFRS 16** il leasing è «un contratto, o parte di un contratto, che, **in cambio di un corrispettivo**, trasferisce il **diritto di utilizzo** di un'attività (l'attività sottostante) per un periodo di tempo», contabilizzato con il modello del **right of use**. Il diritto d'uso è la **somma** del **valore attuale dei canoni futuri** da pagare per la durata contrattuale, dei **pagamenti** per leasing corrisposti alla data o prima della decorrenza, degli eventuali **incentivi ricevuti**, dei **costi diretti iniziali** e degli eventuali **costi stimati per lo smantellamento o il ripristino** dell'attività sottostante. La passività è il valore attuale dei pagamenti dovuti. ⚠️ Il docente parla invece dell'emendamento COVID-19, che queste slide non riportano ([00:29:05]).
+**Opzione:** Come somma del valore attuale dei canoni futuri, dei pagamenti corrisposti alla data o prima della decorrenza, degli eventuali incentivi ricevuti, dei costi diretti iniziali e degli eventuali costi stimati di smantellamento o ripristino.
+**Distrattori:**
+- Come somma del valore attuale dei canoni futuri, dei pagamenti corrisposti alla data o prima della decorrenza, degli eventuali incentivi ricevuti, dei costi diretti iniziali e del valore residuo non garantito del bene locato.
+- Sinistri di competenza fratto premi di competenza.
+- Sinistri liquidati fratto sinistri denunciati.
+
+## Lezione 29 — La Nota Integrativa del bilancio della banca. Le attività immateriali e le passività finanziarie
+
+**D:** ⚠️ Come sono iscritte le attività immateriali, secondo il test della lezione 29 (domanda 1)?
+**R:** **Al costo** (slide 2): «*Le attività immateriali sono iscritte al costo, rettificato per eventuali oneri accessori solo se è probabile che i futuri benefici economici attribuibili all'attività si realizzino e se il costo dell'attività stessa può essere determinato attendibilmente*». Per il docente è «la stessa modalità di iscrizione prevista per i principi contabili nazionali» ([00:00:33]). ⚠️ Il distrattore vicino è «al costo ammortizzato». Per le attività a vita utile definita **il costo è ammortizzato** in quote costanti o decrescenti, ma il **costo ammortizzato** è un altro criterio, quello delle attività e passività finanziarie, con il tasso di interesse effettivo. Distrattori del test: «al valore di realizzo», «al fair value», «al costo ammortizzato».
+**Opzione:** Al costo.
+**Distrattori:**
+- Al valore di realizzo.
+- Al fair value.
+- Al costo ammortizzato.
+
+**D:** ⚠️ In base a quale principio devono essere registrate le imposte nella fiscalità corrente e differita, secondo il test della lezione 29 (domanda 2)?
+**R:** **In base al principio di competenza economica** (slide 6): le imposte sul reddito, calcolate nel rispetto delle legislazioni fiscali nazionali, «*sono contabilizzate come costo in base al criterio della competenza economica, coerentemente con le modalità di rilevazione in bilancio dei costi e ricavi che le hanno generate*». Per il docente il bilancio segue i principi internazionali, ma la fiscalità resta quella **nazionale** ([00:09:30]). Distrattori del test: principio di cassa, di accertamento, di realizzazione finanziaria.
+**Opzione:** In base al principio di competenza economica.
+**Distrattori:**
+- In base al principio di cassa.
+- In base al principio di accertamento.
+- In base al principio di realizzazione finanziaria.
+
+**D:** ⚠️ Come deve essere il sostenimento futuro dei costi perché si iscrivano gli altri fondi per rischi e oneri, secondo il test della lezione 29 (domanda 3)?
+**R:** **Probabile** (slide 8): gli altri fondi accolgono gli accantonamenti «*per i quali sia probabile l'esborso di risorse economiche per l'adempimento delle obbligazioni stesse, sempre che possa essere effettuata una stima attendibile del relativo ammontare*». La probabilità è una delle **tre** condizioni «se e solo se», con l'obbligazione in corso da un evento passato e la stima attendibile. ⚠️ «Improbabile» non è inventato: sulla stessa slide è la condizione per **stornare** l'accantonamento. Distrattori del test: «possibile», «certo», «improbabile».
+**Opzione:** Probabile.
+**Distrattori:**
+- Possibile.
+- Certo.
+- Improbabile.
+
+**D:** ⚠️ Come sono valutate le passività finanziarie di negoziazione, secondo il test della lezione 29 (domanda 4)?
+**R:** **Al fair value** (slide 10): «*Tutte le passività di negoziazione sono valutate al fair value con imputazione del risultato della valutazione nel Conto Economico*». Il docente: «valutate a fair value con impatto a conto economico» ([00:20:59]). ⚠️ Il distrattore vicino è «al costo ammortizzato»: è il criterio delle **passività finanziarie valutate al costo ammortizzato**, cioè debiti verso banche, debiti verso clientela e titoli in circolazione, con il metodo del tasso di interesse effettivo (slide 9). Distrattori del test: «al costo storico», «al valore di sostituzione», «al costo ammortizzato».
+**Opzione:** Al fair value.
+**Distrattori:**
+- Al costo storico.
+- Al valore di sostituzione.
+- Al costo ammortizzato.
+
+**D:** ⚠️ Come devono essere valutate alla fine dell'esercizio le poste monetarie in valuta estera, secondo il test della lezione 29 (domanda 5)?
+**R:** **Utilizzando il tasso di cambio alla chiusura dell'esercizio** (slide 12): a ogni chiusura di bilancio o di situazione infrannuale «*le poste monetarie sono convertite al tasso di cambio alla data di chiusura*». ⚠️ La regola non vale per tutte le poste: le **non monetarie valutate al costo storico** si convertono al tasso **alla data dell'operazione**, quelle **valutate al fair value** ai tassi alla data di chiusura. Le tre medie dei distrattori, dell'ultimo mese, degli ultimi tre e degli ultimi sei mesi, non compaiono nelle slide. Il docente dice solo che le operazioni in valuta vanno convertite in euro «al momento della chiusura di ogni bilancio» ([00:21:54]).
+**Opzione:** Utilizzando il tasso di cambio alla chiusura dell'esercizio.
+**Distrattori:**
+- Utilizzando la media dell'ultimo mese del tasso di cambio.
+- Utilizzando la media degli ultimi tre mesi del tasso di cambio.
+- Utilizzando la media degli ultimi sei mesi del tasso di cambio.
+
+**D:** Che cosa comprendono le attività immateriali, e quando sono iscritte come tali, secondo la slide 2 della lezione 29?
+**R:** Comprendono **l'avviamento** e le **altre attività immateriali disciplinate dallo IAS 38**. Possono includere i **diritti d'uso** acquisiti con il leasing e relativi all'utilizzo di un'attività immateriale (per i **locatari**) e le attività concesse in **leasing operativo** (per i **locatori**). Sono iscritte come tali se sono **identificabili** e trovano origine in **diritti legali o contrattuali**. Il docente dice «diritti legali **e** contrattuali» ([00:00:33]): fa testo la slide.
+**Opzione:** L'avviamento e le altre attività immateriali disciplinate dallo IAS 38; sono iscritte come tali se sono identificabili e trovano origine in diritti legali o contrattuali.
+**Distrattori:**
+- L'avviamento e le altre attività immateriali disciplinate dallo IAS 16; sono iscritte come tali se sono identificabili e trovano origine in diritti legali o contrattuali.
+- Azioni o quote di altre imprese tenute a scopo strategico e non per negoziarle, per lo più dello stesso gruppo, per lungo periodo.
+- I contratti derivati con valore positivo stipulati per coprirsi, sostanzialmente, dal rischio di tasso di interesse.
+
+**D:** ⚠️ Che cos'è l'avviamento, secondo la slide 2 della lezione 29?
+**R:** «*La differenza positiva tra il costo di acquisto ed il fair value delle attività e passività di pertinenza di un'impresa acquisita*». Per il docente il fair value è il «valore di mercato» ([00:00:33]). ⚠️ La slide 4 scrive i due termini nell'ordine opposto, «*differenza positiva fra il fair value degli elementi patrimoniali acquisiti e il costo di acquisto della partecipazione*», ma il senso non cambia: quando la differenza è **negativa** si ha il **badwill**, che va direttamente a conto economico.
+**Opzione:** La differenza positiva tra il costo di acquisto ed il fair value delle attività e passività di pertinenza di un'impresa acquisita.
+**Distrattori:**
+- La differenza positiva tra il costo di acquisto ed il fair value delle sole attività materiali di pertinenza di un'impresa acquisita.
+- I crediti verso banche e verso clientela, al costo ammortizzato: le poste più significative dell'attivo, cioè i prestiti in essere al 31.12, 599 miliardi.
+- Le voci che per gli IAS/IFRS non vanno a conto economico ma nella riserva di valutazione, voce 110 del passivo: un impatto indiretto.
+
+**D:** ⚠️ Con quale formula la slide 2 della lezione 29 fissa il criterio di iscrizione delle attività immateriali, e che cosa succede in caso contrario?
+**R:** «*Le attività immateriali sono iscritte al costo, rettificato per eventuali oneri accessori solo se è probabile che i futuri benefici economici attribuibili all'attività si realizzino e se il costo dell'attività stessa può essere determinato attendibilmente. In caso contrario il costo dell'attività immateriale è rilevato a conto economico nell'esercizio in cui è stato sostenuto.*» Per il docente è una «leggera differenza» rispetto ai principi nazionali, dove gli oneri accessori si aggiungono al costo senza tenere conto dei benefici futuri ([00:00:33]). Per il caso contrario il docente dice «attività **materiali**»: è un lapsus.
+**Opzione:** Al costo, rettificato per eventuali oneri accessori solo se è probabile che i futuri benefici economici attribuibili all'attività si realizzino e se il costo dell'attività stessa può essere determinato attendibilmente; in caso contrario il costo è rilevato a conto economico nell'esercizio in cui è stato sostenuto.
+**Distrattori:**
+- Al costo, rettificato per eventuali oneri accessori solo se è probabile che i futuri benefici economici attribuibili all'attività si realizzino e se il costo dell'attività stessa può essere determinato attendibilmente; in caso contrario il costo è ripartito a conto economico lungo la vita utile dell'attività.
+- Si tolgono i costi operativi e si ha l'utile dell'operatività corrente al lordo delle imposte; tolte le imposte, l'utile d'esercizio.
+- Quelle per cui è stato avviato un processo di dismissione e la cui vendita è ritenuta altamente probabile; si valutano al minore tra il valore di carico e il fair value al netto dei costi di cessione.
+
+**D:** ⚠️ Come si trattano dopo l'iscrizione le attività immateriali a vita utile definita e quelle a vita utile indefinita, secondo la slide 2 della lezione 29?
+**R:** A vita **definita**: il costo è **ammortizzato** in quote costanti o in quote decrescenti, determinate in funzione dell'afflusso dei benefici economici attesi dall'attività. A vita **indefinita**: **nessun ammortamento sistematico**, ma un **test periodico** di verifica dell'adeguatezza del valore di iscrizione in bilancio, che il docente chiama **impairment test** ([00:00:33]–[00:03:51]). Se c'è indicazione di una perdita di valore si stima il valore di recupero, e la perdita, pari alla differenza fra valore contabile e valore recuperabile, va a conto economico.
+**Opzione:** Definita: ammortamento in quote costanti o decrescenti; indefinita: nessun ammortamento sistematico, ma un test periodico sul valore.
+**Distrattori:**
+- Definita: nessun ammortamento sistematico, ma un test periodico sul valore; indefinita: ammortamento in quote costanti o decrescenti.
+- Definita: ammortamento in quote costanti o decrescenti; indefinita: ammortamento sistematico in sole quote costanti.
+- Definita e indefinita: nessun ammortamento sistematico, ma un test periodico sul valore.
+
+**D:** ⚠️ Come si ammortizza il software applicativo, secondo la slide 3 della lezione 29?
+**R:** È un'attività immateriale **basata sulla tecnologia**, ammortizzata «*in funzione della prevista obsolescenza tecnologica delle stesse e comunque non oltre un periodo massimo di sette anni*». Il docente cita l'obsolescenza tecnologica ma non il limite dei **sette anni** ([00:04:27]).
+**Opzione:** In funzione della prevista obsolescenza tecnologica, e comunque non oltre un periodo massimo di sette anni.
+**Distrattori:**
+- In funzione della prevista obsolescenza tecnologica, e comunque non oltre un periodo massimo di cinque anni.
+- In funzione della prevista obsolescenza tecnologica, e comunque non oltre un periodo massimo di dieci anni.
+- Non si ammortizza: è a vita indefinita e va sottoposto a un test periodico di verifica del valore.
+
+**D:** ⚠️ A quali condizioni i costi sostenuti internamente per lo sviluppo di progetti di software sono iscritti all'attivo, secondo la slide 3 della lezione 29?
+**R:** «*Solo se tutte le seguenti condizioni sono rispettate*»: i) il costo attribuibile all'attività di sviluppo è **attendibilmente determinabile**; ii) vi è l'**intenzione**, la **disponibilità di risorse finanziarie** e la **capacità tecnica** a rendere l'attività disponibile all'uso o alla vendita; iii) è **dimostrabile** che l'attività è in grado di produrre **benefici economici futuri**. I costi capitalizzati comprendono le **sole** spese attribuibili direttamente al processo di sviluppo. Per il docente «quasi tutte le banche hanno un proprio software interno», ma lo si iscrive solo rispettando «una serie di condizioni», che non elenca ([00:04:27]).
+**Opzione:** i) il costo attribuibile all'attività di sviluppo è attendibilmente determinabile; ii) vi è l'intenzione, la disponibilità di risorse finanziarie e la capacità tecnica a rendere l'attività disponibile all'uso o alla vendita; iii) è dimostrabile che l'attività è in grado di produrre benefici economici futuri.
+**Distrattori:**
+- i) il costo attribuibile all'attività di sviluppo è attendibilmente determinabile; ii) vi è l'intenzione, la disponibilità di risorse finanziarie e la capacità tecnica a rendere l'attività disponibile all'uso o alla vendita; iii) l'attività ha una vita utile indefinita e non è soggetta ad ammortamento.
+- Se e solo se vi è un'obbligazione in corso (legale o implicita) quale risultato di un evento passato, è probabile l'impiego di risorse per adempierla e può esserne effettuata una stima attendibile.
+- a) impegni e garanzie rilasciate, cioè fideiussioni; b) quiescenza e obblighi simili, cioè pensioni complementari del personale; c) altri fondi per rischi e oneri.
+
+**D:** ⚠️ Quale vita utile hanno le attività immateriali legate alla clientela e quelle legate al marketing, secondo la slide 3 della lezione 29?
+**R:** Le attività legate alla **clientela**, cioè i rapporti di asset management, le attività non finanziarie correlate a prestazioni di servizi e il portafoglio assicurativo valorizzati in occasione di operazioni di aggregazione, sono **a vita definita** e si ammortizzano. Il **brand name**, attività legata al **marketing** e anch'esso iscritto in occasione di operazioni di aggregazione, è **a vita indefinita**, «*in quanto si ritiene che possa contribuire per un periodo indeterminato alla formazione dei flussi reddituali*». Per il docente il marchio «non è che ha una scadenza» ([00:05:40]).
+**Opzione:** Clientela: a vita definita; marketing (brand name): a vita indefinita.
+**Distrattori:**
+- Clientela: a vita indefinita; marketing (brand name): a vita definita.
+- Clientela e marketing (brand name): entrambe a vita definita.
+- Clientela e marketing (brand name): entrambe a vita indefinita.
+
+**D:** ⚠️ Quando si iscrive l'avviamento nelle operazioni di aggregazione, e dove va la differenza se è negativa, secondo la slide 4 della lezione 29?
+**R:** L'avviamento si iscrive quando la differenza «*è rappresentativo delle capacità reddituali future della partecipazione (goodwill)*». «*Qualora tale differenza risulti negativa (badwill) o nell'ipotesi in cui il goodwill non trovi giustificazione nelle capacità reddituali future della partecipata, la differenza stessa viene iscritta direttamente a conto economico.*»
+**Opzione:** Si iscrive se la differenza è rappresentativa delle capacità reddituali future della partecipazione (goodwill); se è negativa (badwill), o se il goodwill non trova giustificazione nelle capacità reddituali future, va direttamente a conto economico.
+**Distrattori:**
+- Si iscrive se la differenza è rappresentativa delle capacità reddituali future della partecipazione (goodwill); se è negativa (badwill), o se il goodwill non trova giustificazione nelle capacità reddituali future, va direttamente a patrimonio netto, nelle riserve.
+- Non vanno rivendute per forza entro l'esercizio successivo, e le loro variazioni non vanno a conto economico ma nella riserva di valutazione.
+- Investimenti da vendere prevalentemente nell'esercizio successivo; la sottovoce più rilevante è quella delle detenute per la negoziazione.
+
+**D:** ⚠️ Con quale periodicità si verifica il valore dell'avviamento, e su che cosa, secondo la slide 4 della lezione 29?
+**R:** «*Con periodicità annuale (od ogni volta che vi sia evidenza di perdita di valore)*» si effettua un test di verifica dell'adeguatezza del valore dell'avviamento. A tal fine si identifica l'**Unità generatrice di flussi finanziari** (*Cash Generating Unit*, **CGU**) cui attribuirlo. In Intesa Sanpaolo le CGU corrispondono alle **divisioni operative** del **segment reporting**: il business della Capogruppo rientra nelle CGU **Banca dei Territori** e **Corporate e Investment Banking**, fra le quali l'avviamento è allocato.
+**Opzione:** Con periodicità annuale, od ogni volta che vi sia evidenza di perdita di valore, sull'Unità generatrice di flussi finanziari cui è attribuito.
+**Distrattori:**
+- Con periodicità triennale, od ogni volta che vi sia evidenza di perdita di valore, sull'Unità generatrice di flussi finanziari cui è attribuito.
+- Solo quando vi sia evidenza di perdita di valore, sull'Unità generatrice di flussi finanziari cui è attribuito.
+- Con periodicità annuale, od ogni volta che vi sia evidenza di perdita di valore, sul bilancio della società acquisita.
+
+**D:** ⚠️ A quanto è pari il valore di recupero dell'avviamento, secondo la slide 4 della lezione 29?
+**R:** «*Al maggiore tra il fair value dell'Unità generatrice di flussi finanziari, al netto degli eventuali costi di vendita, ed il relativo valore d'uso*». La riduzione di valore è la differenza fra il valore di iscrizione dell'avviamento e il suo valore di recupero, se inferiore, e le rettifiche vanno a conto economico. ⚠️ La slide 8 della lezione 06 definiva il valore recuperabile come «il **minore** tra prezzo netto di vendita e valore d'uso»: la slide 4 di questa lezione dice **maggiore**.
+**Opzione:** Al maggiore tra il fair value della CGU, al netto degli eventuali costi di vendita, e il relativo valore d'uso.
+**Distrattori:**
+- Al maggiore tra il fair value della CGU, al netto degli eventuali costi di vendita, e il costo di acquisto della partecipazione.
+- Al fair value della CGU attestato dalla perizia di un esperto indipendente.
+- Al solo valore d'uso della CGU, senza considerare il fair value.
+
+**D:** ⚠️ Quali attività vanno fra le attività non correnti in via di dismissione, e come si valutano, secondo la slide 5 della lezione 29?
+**R:** Le attività non correnti o i gruppi di attività/passività per i quali **è stato avviato un processo di dismissione** e la cui vendita è ritenuta **altamente probabile**. Si valutano **al minore** tra il **valore di carico** e il **fair value al netto dei costi di cessione**, salvo alcune tipologie di attività, come le attività finanziarie dell'IFRS 9, per cui l'**IFRS 5** prevede i criteri del principio di pertinenza. I proventi e gli oneri, al netto dell'effetto fiscale, vanno a conto economico **in voce separata**. Per il docente sono «quasi sempre» attività materiali, e se la vendita è solo eventuale restano nelle loro voci ([00:05:40]).
+**Opzione:** Quelle per cui è stato avviato un processo di dismissione e la cui vendita è ritenuta altamente probabile; si valutano al minore tra il valore di carico e il fair value al netto dei costi di cessione.
+**Distrattori:**
+- Quelle per cui è stato avviato un processo di dismissione e la cui vendita è ritenuta altamente probabile; si valutano al maggiore tra il valore di carico e il fair value al netto dei costi di cessione.
+- A liquidità decrescente: dalla voce 10, cassa e disponibilità liquide, alla voce 120, altre attività.
+- Applicando in via analogica l'IFRS 9: business model Hold to Collect, costo ammortizzato, senza calcolo dell'ECL; li classifica in via residuale fra le Altre attività.
+
+**D:** ⚠️ Con quale criterio si determina la fiscalità differita, secondo la slide 6 della lezione 29?
+**R:** Con il «*cosiddetto **balance sheet liability method***», tenuto conto dell'effetto fiscale connesso alle **differenze temporanee** tra il **valore contabile** delle attività e passività e il loro **valore fiscale**, che determineranno importi imponibili o deducibili nei futuri periodi ([00:11:06]). Il docente nomina solo gli «importi imponibili».
+**Opzione:** Balance sheet liability method: l'effetto fiscale delle differenze temporanee tra valore contabile e valore fiscale di attività e passività.
+**Distrattori:**
+- Balance sheet liability method: l'effetto fiscale delle differenze permanenti tra valore contabile e valore fiscale di attività e passività.
+- Balance sheet liability method: l'effetto fiscale delle differenze temporanee tra fair value e costo storico di attività e passività.
+- Principio di cassa: si rilevano solo le imposte pagate nell'esercizio, senza considerare le differenze temporanee.
+
+**D:** ⚠️ A quali differenze temporanee si applicano le aliquote nel calcolo della fiscalità differita, il cosiddetto probability test, secondo la slide 6 della lezione 29?
+**R:** Si applicano le aliquote stabilite dalle disposizioni di legge in vigore «*alle differenze temporanee tassabili per cui esiste la **probabilità** di un effettivo sostenimento di imposte ed alle differenze temporanee deducibili per cui esiste una **ragionevole certezza** che vi siano ammontari imponibili futuri al momento in cui si manifesterà la relativa deducibilità fiscale (c.d. probability test)*». Le **tassabili** sono quelle che nei periodi futuri determineranno importi imponibili, le **deducibili** quelle che determineranno importi deducibili ([00:11:06]).
+**Opzione:** Tassabili: probabilità di un effettivo sostenimento di imposte; deducibili: ragionevole certezza di ammontari imponibili futuri.
+**Distrattori:**
+- Tassabili: ragionevole certezza di ammontari imponibili futuri; deducibili: probabilità di un effettivo sostenimento di imposte.
+- Tassabili: certezza di un effettivo sostenimento di imposte; deducibili: possibilità di ammontari imponibili futuri.
+- Tassabili: probabilità di un effettivo sostenimento di imposte; deducibili: nessuna condizione, si iscrivono sempre.
+
+**D:** ⚠️ Quali esempi fa il docente della lezione 29 di imposte differite e di imposte anticipate?
+**R:** **Differite**: la **plusvalenza** sulla vendita di un bene strumentale, come 100 scrivanie, detenuto da **almeno tre anni**, che si può tassare **per quinti**, nell'esercizio e nei quattro successivi. Le imposte sono di competenza dell'esercizio della vendita: si rilevano tutte nel 2021 e negli anni successivi se ne ripartisce solo il peso finanziario ([00:11:06]–[00:15:30]). **Anticipate**: i **compensi dell'amministratore** deliberati ma non pagati entro il 31 dicembre, deducibili solo nell'anno del pagamento. Si pagano più imposte nel 2021 e le si recupera nel 2022, con il conto **crediti per imposte anticipate** ([00:15:30]–[00:17:57]).
+**Opzione:** Differite: la plusvalenza tassata per quinti; anticipate: il compenso dell'amministratore dedotto solo quando è pagato.
+**Distrattori:**
+- Differite: il compenso dell'amministratore dedotto solo quando è pagato; anticipate: la plusvalenza tassata per quinti.
+- Differite: la plusvalenza tassata per quinti; anticipate: gli interessi di mora rilevati solo al momento dell'incasso.
+- Differite: l'ammortamento del software in sette anni; anticipate: la plusvalenza tassata per quinti.
+
+**D:** ⚠️ Come si qualificano i fondi di quiescenza, e con quale metodo si determina la passività, secondo la slide 8 della lezione 29?
+**R:** Sono costituiti in attuazione di **accordi aziendali** e si qualificano come **piani a benefici definiti**. La passività e il relativo costo previdenziale delle prestazioni di lavoro corrente si determinano con ipotesi attuariali applicando il metodo della «**Proiezione Unitaria del Credito**»: si proiettano gli esborsi futuri sulla base di analisi storiche statistiche e della curva demografica e li si attualizza a un tasso di interesse di mercato. Per il docente sono i trattamenti integrativi pensionistici a vantaggio dei dipendenti ([00:17:57]).
+**Opzione:** Piani a benefici definiti; la passività si determina con il metodo della Proiezione Unitaria del Credito.
+**Distrattori:**
+- Piani a contribuzione definita; la passività si determina con il metodo della Proiezione Unitaria del Credito.
+- Piani a benefici definiti; la passività si determina con il metodo del tasso di interesse effettivo.
+- Piani a contribuzione definita; la passività è pari ai contributi dovuti, senza calcoli attuariali.
+
+**D:** ⚠️ Quando avviene la rilevazione di un accantonamento negli altri fondi per rischi e oneri, secondo la slide 8 della lezione 29?
+**R:** «*Se e solo se*»: vi è un'**obbligazione in corso** (legale o implicita) quale risultato di un **evento passato**; è **probabile** che per adempiere all'obbligazione si renderà necessario l'impiego di risorse atte a produrre benefici economici; e può essere effettuata una **stima attendibile** dell'importo. L'importo è la **migliore stima** della spesa richiesta alla data di riferimento del bilancio, e se l'elemento temporale è significativo gli accantonamenti si **attualizzano** ai tassi correnti di mercato. Gli altri fondi accolgono accantonamenti per obbligazioni legali, rapporti di lavoro o contenziosi, anche fiscali ([00:17:57]–[00:19:00]).
+**Opzione:** Se e solo se vi è un'obbligazione in corso (legale o implicita) quale risultato di un evento passato, è probabile l'impiego di risorse per adempierla e può esserne effettuata una stima attendibile.
+**Distrattori:**
+- Se e solo se vi è un'obbligazione in corso (legale o implicita) quale risultato di un evento passato, è certo l'impiego di risorse per adempierla e può esserne effettuata una stima attendibile.
+- L'utilizzo in compensazione, la cedibilità a terzi acquirenti e la non rimborsabilità da parte dell'Erario.
+- Dai debiti più rapidamente esigibili, a brevissimo termine, verso le poste che scadono sempre più lontano nel tempo.
+
+**D:** ⚠️ Quando viene stornato l'accantonamento degli altri fondi per rischi e oneri, secondo la slide 8 della lezione 29?
+**R:** «*Quando diviene **improbabile** l'impiego di risorse atte a produrre benefici economici per adempiere l'obbligazione oppure quando si **estingue** l'obbligazione*». Il docente dice invece che l'accantonamento è eliminato «nel momento in cui l'evento positivo o negativo si verifica» ([00:19:14]): fa testo la slide. ⚠️ È lo stesso «improbabile» che nel test della lezione (domanda 3) fa da distrattore alla condizione di iscrizione.
+**Opzione:** Quando diviene improbabile l'impiego di risorse per adempiere l'obbligazione, oppure quando l'obbligazione si estingue.
+**Distrattori:**
+- Quando diviene probabile l'impiego di risorse per adempiere l'obbligazione, oppure quando l'obbligazione si estingue.
+- Quando diviene certo l'impiego di risorse per adempiere l'obbligazione, oppure quando l'obbligazione si estingue.
+- Quando diviene improbabile l'impiego di risorse per adempiere l'obbligazione, oppure quando l'obbligazione sorge.
+
+**D:** ⚠️ Dove si rilevano gli utili e le perdite attuariali dei fondi di quiescenza e quelli dei benefici a lungo termine inclusi negli altri fondi, secondo la slide 8 della lezione 29?
+**R:** Per i **fondi di quiescenza** gli utili e le perdite attuariali, cioè le variazioni del valore attuale dell'obbligazione dovute a modifiche delle ipotesi attuariali e a rettifiche basate sull'esperienza passata, sono riconosciuti nel **prospetto della redditività complessiva**. Per i **benefici a lungo termine** ai dipendenti, inclusi negli altri fondi, «*vengono rilevati tutti immediatamente nel conto economico*». Anche per il TFR a benefici definiti vanno nella redditività complessiva (slide 13).
+**Opzione:** Quiescenza: nel prospetto della redditività complessiva; benefici a lungo termine: tutti immediatamente nel conto economico.
+**Distrattori:**
+- Quiescenza: tutti immediatamente nel conto economico; benefici a lungo termine: nel prospetto della redditività complessiva.
+- Quiescenza e benefici a lungo termine: tutti immediatamente nel conto economico.
+- Quiescenza e benefici a lungo termine: nel prospetto della redditività complessiva.
+
+**D:** ⚠️ Che cosa ricomprendono i debiti verso banche, i debiti verso clientela e i titoli in circolazione fra le passività finanziarie al costo ammortizzato, secondo la slide 9 della lezione 29?
+**R:** «*Le varie forme di provvista interbancaria e con clientela, le operazioni di pronti contro termine con obbligo di riacquisto a termine e la raccolta effettuata attraverso certificati di deposito, titoli obbligazionari ed altri strumenti di raccolta in circolazione, al netto degli eventuali ammontari riacquistati*». Sono inoltre inclusi i **debiti** iscritti dalla Banca **in qualità di locatario** nell'ambito di operazioni di leasing ([00:19:27]).
+**Opzione:** Le varie forme di provvista interbancaria e con clientela, i pronti contro termine con obbligo di riacquisto a termine e la raccolta con certificati di deposito, titoli obbligazionari e altri strumenti in circolazione, al netto degli ammontari riacquistati; inoltre i debiti della Banca come locatario nel leasing.
+**Distrattori:**
+- Le varie forme di provvista interbancaria e con clientela, i pronti contro termine con obbligo di riacquisto a termine e la raccolta con certificati di deposito, titoli obbligazionari e altri strumenti in circolazione, al netto degli ammontari riacquistati; inoltre i crediti della Banca come locatore nel leasing.
+- Riserve da valutazione, azioni rimborsabili, strumenti di capitale, riserve, acconti su dividendi (−), sovrapprezzi di emissione, capitale, azioni proprie (−), utile (perdita) d'esercizio.
+- Margine di interesse: intermediazione; commissioni nette: servizi; negoziazione: trading; gestione finanziaria: il totale al netto delle rettifiche.
+
+**D:** ⚠️ Come si valutano dopo la rilevazione iniziale le passività finanziarie al costo ammortizzato, e quali fanno eccezione, secondo la slide 9 della lezione 29?
+**R:** «*Al costo ammortizzato col metodo del tasso di interesse effettivo*». Fanno eccezione le **passività a breve termine**, per le quali il fattore temporale risulta trascurabile, che rimangono iscritte per il **valore incassato**. I debiti per leasing si rideterminano quando vi è una *lease modification*, in contropartita all'attività per diritto d'uso ([00:20:20]).
+**Opzione:** Al costo ammortizzato col tasso di interesse effettivo; le passività a breve termine restano iscritte per il valore incassato.
+**Distrattori:**
+- Al costo ammortizzato col tasso di interesse effettivo; le passività a lungo termine restano iscritte per il valore incassato.
+- Al fair value con impatto a conto economico; le passività a breve termine restano iscritte per il valore incassato.
+- Al costo ammortizzato col tasso di interesse nominale; le passività a breve termine restano iscritte per il valore incassato.
+
+**D:** ⚠️ Che differenza c'è nella prima iscrizione fra le passività al costo ammortizzato e le passività di negoziazione, secondo le slide 9 e 10 della lezione 29?
+**R:** Entrambe si iscrivono alla **data di sottoscrizione** (quelle di negoziazione anche alla data di emissione) sulla base del **fair value**. Per le passività al **costo ammortizzato** il fair value, normalmente pari all'ammontare incassato o al prezzo di emissione, è **aumentato** degli eventuali costi/proventi aggiuntivi direttamente attribuibili alla singola operazione di provvista o di emissione; sono esclusi i costi interni di carattere amministrativo. Per le passività di **negoziazione** il fair value si prende **senza considerare** eventuali costi o proventi di transazione direttamente attribuibili.
+**Opzione:** Costo ammortizzato: fair value più i costi/proventi direttamente attribuibili; negoziazione: fair value senza i costi o proventi di transazione.
+**Distrattori:**
+- Costo ammortizzato: fair value senza i costi o proventi di transazione; negoziazione: fair value più i costi/proventi direttamente attribuibili.
+- Costo ammortizzato e negoziazione: fair value più i costi/proventi direttamente attribuibili, compresi i costi interni amministrativi.
+- Costo ammortizzato: valore nominale del debito; negoziazione: fair value senza i costi o proventi di transazione.
+
+**D:** ⚠️ Che cosa è incluso nelle passività finanziarie di negoziazione, secondo la slide 10 della lezione 29?
+**R:** «*In particolare*» i **contratti derivati di trading con fair value negativo**, **nonché** i **derivati impliciti con fair value negativo** oggetto di scorporo dalle passività valutate al costo ammortizzato. Inoltre le passività da **scoperti tecnici** generati dall'attività di negoziazione di titoli e i **certificates** rientranti nel business model di **trading**. ⚠️ Nel transcript si sente «non quei contratti impliciti con fair value negativo» ([00:20:20]): la slide li **include**. I certificates del business model di **banking book** stanno invece fra le passività **designate al fair value** (slide 11).
+**Opzione:** I derivati di trading con fair value negativo, i derivati impliciti con fair value negativo scorporati dalle passività al costo ammortizzato, gli scoperti tecnici della negoziazione di titoli e i certificates del business model di trading.
+**Distrattori:**
+- I derivati di trading con fair value negativo, i derivati impliciti con fair value negativo scorporati dalle passività al costo ammortizzato, gli scoperti tecnici della negoziazione di titoli e i certificates del business model di banking book.
+- Esistenze al 31.12.2020; modifica saldi apertura; esistenze al 1.1.2021; allocazione risultato esercizio precedente; variazioni dell'esercizio; redditività complessiva esercizio 2021; patrimonio netto al 31.12.2021.
+- Senza rigiro a conto economico, voci 20–90, e con rigiro a conto economico, voci 100–160.
+
+**D:** ⚠️ Dove si rilevano le variazioni di fair value delle passività finanziarie designate al fair value, secondo la slide 11 della lezione 29?
+**R:** Secondo le regole dell'**IFRS 9**: le variazioni attribuibili alla variazione del **proprio merito creditizio** nel **prospetto della redditività complessiva** (patrimonio netto); le **restanti** variazioni nel **conto economico**. Gli importi rilevati nella redditività complessiva **non rigirano** successivamente a conto economico. Fa eccezione il caso in cui la rilevazione a patrimonio netto determini o accentui un **accounting mismatch** a conto economico: allora tutto va a conto economico. Sono le passività della **fair value option**, fra cui i **certificates** del business model di **banking book**. Per il docente «sono pochissime» e hanno come contropartita il conto economico ([00:20:59]–[00:21:35]).
+**Opzione:** Merito creditizio proprio: nella redditività complessiva, senza rigiro; restanti variazioni: nel conto economico.
+**Distrattori:**
+- Merito creditizio proprio: nel conto economico; restanti variazioni: nella redditività complessiva, senza rigiro.
+- Merito creditizio proprio: nella redditività complessiva, con rigiro a conto economico alla cancellazione; restanti variazioni: nel conto economico.
+- Tutte nella redditività complessiva, senza rigiro a conto economico.
+
+**D:** ⚠️ A quale tasso di cambio si convertono le poste in valuta estera alla rilevazione iniziale e a ogni chiusura, secondo la slide 12 della lezione 29?
+**R:** **Alla rilevazione iniziale**, in divisa di conto, al **tasso di cambio in vigore alla data dell'operazione**. **A ogni chiusura** di bilancio o di situazione infrannuale: le **poste monetarie** al tasso di cambio **alla data di chiusura**; le **poste non monetarie valutate al costo storico** al tasso **in essere alla data dell'operazione**; le **poste non monetarie valutate al fair value** ai tassi **in essere alla data di chiusura**. La valuta estera è una valuta differente dalla **valuta funzionale**, cioè dalla valuta dell'ambiente economico prevalente in cui l'impresa opera.
+**Opzione:** All'inizio al tasso alla data dell'operazione; a ogni chiusura le monetarie al tasso di chiusura, le non monetarie al costo storico al tasso dell'operazione, quelle al fair value al tasso di chiusura.
+**Distrattori:**
+- All'inizio al tasso alla data dell'operazione; a ogni chiusura le monetarie al tasso di chiusura, le non monetarie al costo storico al tasso di chiusura, quelle al fair value al tasso dell'operazione.
+- Al costo ammortizzato col tasso di interesse effettivo; le passività a breve termine restano iscritte per il valore incassato.
+- Merito creditizio proprio: nella redditività complessiva, senza rigiro; restanti variazioni: nel conto economico.
+
+**D:** Come sono trattate le azioni proprie, secondo la slide 13 della lezione 29?
+**R:** «*Le eventuali azioni proprie detenute sono portate in riduzione del patrimonio netto. Analogamente, il costo originario delle stesse e gli utili o le perdite derivanti dalla loro successiva vendita sono rilevati come movimenti del patrimonio netto.*» Per il docente sono quelle «detenute e ricomprate sul mercato», voci che si trovano anche nei bilanci ordinari e che «non sono interessanti» ([00:21:54]).
+**Opzione:** In riduzione del patrimonio netto; anche il costo e gli utili o le perdite della loro vendita sono movimenti del patrimonio netto.
+**Distrattori:**
+- Fra le attività; il costo e gli utili o le perdite della loro vendita sono movimenti del patrimonio netto.
+- In riduzione del patrimonio netto; gli utili o le perdite della loro vendita vanno però a conto economico.
+- Fra le attività finanziarie detenute per la negoziazione; gli utili o le perdite della loro vendita vanno a conto economico.
+
+**D:** ⚠️ Come si classifica il trattamento di fine rapporto del personale, secondo la slide 13 della lezione 29?
+**R:** È un «*beneficio successivo al rapporto di lavoro*». È un **piano a contribuzione definita** per le quote maturande **dal 1° gennaio 2007**, data di entrata in vigore della riforma della previdenza complementare del **d.lgs. 5 dicembre 2005 n. 252**, sia con l'opzione per la previdenza complementare sia con la destinazione al fondo di Tesoreria dell'INPS: si contabilizzano i contributi dovuti, senza calcoli attuariali. È un **piano a benefici definiti** per la quota maturata **sino al 31 dicembre 2006**, iscritta al valore attuariale con il metodo della Proiezione Unitaria del Credito; i suoi utili e perdite attuariali vanno nella redditività complessiva. Il docente non lo commenta ([00:21:54]).
+**Opzione:** Contribuzione definita per le quote maturande dal 1° gennaio 2007; benefici definiti per la quota maturata sino al 31 dicembre 2006.
+**Distrattori:**
+- Benefici definiti per le quote maturande dal 1° gennaio 2007; contribuzione definita per la quota maturata sino al 31 dicembre 2006.
+- Contribuzione definita per le quote maturande dal 1° gennaio 2005; benefici definiti per la quota maturata sino al 31 dicembre 2004.
+- Benefici definiti per tutte le quote, maturate sia prima sia dopo il 1° gennaio 2007.
+
+**D:** ⚠️ Quali sono le caratteristiche principali dei crediti d'imposta dei Decreti Legge «Cura Italia» e «Rilancio», secondo la slide 15 della lezione 29?
+**R:** i) la **possibilità di utilizzo in compensazione**; ii) la **cedibilità a terzi acquirenti**; iii) la **non rimborsabilità da parte dell'Erario**. Gli incentivi, introdotti dal **D.L. 18/2020** («Cura Italia») e dal **D.L. 34/2020** («Rilancio»), sono connessi sia con spese per investimenti, come eco e sismabonus, sia con spese correnti, come i canoni di locazione di locali ad uso non abitativo. Si applicano a famiglie o imprese, sono commisurati a una percentuale della spesa, che in alcuni casi raggiunge anche il **110%**, e sono erogati come crediti o detrazioni d'imposta ([00:21:54]–[00:24:41]).
+**Opzione:** L'utilizzo in compensazione, la cedibilità a terzi acquirenti e la non rimborsabilità da parte dell'Erario.
+**Distrattori:**
+- L'utilizzo in compensazione, la cedibilità a terzi acquirenti e la rimborsabilità da parte dell'Erario.
+- L'utilizzo in compensazione, la non cedibilità a terzi e la non rimborsabilità da parte dell'Erario.
+- L'utilizzo in compensazione da parte del solo beneficiario diretto e la non rimborsabilità da parte dell'Erario.
+
+**D:** ⚠️ Come contabilizza Intesa Sanpaolo i crediti d'imposta acquistati, e dove li classifica, secondo la slide 16 della lezione 29?
+**R:** Nessun principio IAS/IFRS li tratta in modo specifico, e lo **IAS 8** chiede alla direzione di definire un'**accounting policy**. Intesa, tenendo conto del documento del **Tavolo di coordinamento fra Banca d'Italia, Consob e IVASS** del **5 gennaio 2021**, applica **in via analogica l'IFRS 9**. Acquista i crediti secondo la propria **tax capacity**, per detenerli e usarli nelle compensazioni future: business model **Hold to Collect**, rilevazione al **costo ammortizzato**, remunerazione nel **margine di interesse**. **Non** si calcola l'**ECL**, perché non c'è un rischio di credito della controparte: il credito si realizza per compensazione con dei debiti, non per incasso. Poiché non sono attività fiscali, contributi pubblici, attività immateriali o attività finanziarie, vanno in via residuale fra le **Altre attività** ([00:24:41]–[00:25:20]).
+**Opzione:** Applicando in via analogica l'IFRS 9: business model Hold to Collect, costo ammortizzato, senza calcolo dell'ECL; li classifica in via residuale fra le Altre attività.
+**Distrattori:**
+- Applicando in via analogica l'IFRS 9: business model Hold to Collect, costo ammortizzato, senza calcolo dell'ECL; li classifica fra le attività fiscali correnti.
+- Dalla Circolare 262 del 2005 della Banca d'Italia, più volte aggiornata.
+- Riesprimere uno dei due bilanci secondo le regole dell'altro, con un'operazione lunga, costosa e delicata, e solo dopo confrontarli.
+
+**D:** ⚠️ A che cosa mirano le operazioni TLTRO III, e con quale cadenza e durata sono condotte, secondo la slide 17 della lezione 29?
+**R:** Le **TLTRO III** (*Targeted Longer Term Refinancing Operation*) «*mirano a preservare condizioni favorevoli del credito bancario e a sostenere l'orientamento definito di politica monetaria*». Sono condotte con cadenza **trimestrale** a partire da **settembre 2019**, e ciascuna ha **durata pari a tre anni**. Il finanziamento ottenibile dipende dai prestiti concessi a società non finanziarie e famiglie, i *prestiti idonei*. I parametri, stabiliti dalla BCE il **6 giugno 2019**, sono stati rivisti in senso migliorativo, da ultimo il **10 dicembre 2020**, per il protrarsi del COVID-19. Il docente le chiama «Target Long Term Refinancing Operation», operazioni di rifinanziamento delle banche a medio e lungo termine ([00:25:20]).
+**Opzione:** A preservare condizioni favorevoli del credito bancario e a sostenere la politica monetaria; cadenza trimestrale, durata di tre anni.
+**Distrattori:**
+- A preservare condizioni favorevoli del credito bancario e a sostenere la politica monetaria; cadenza mensile, durata di un anno.
+- A preservare condizioni favorevoli del credito bancario e a sostenere la politica monetaria; cadenza trimestrale, durata di cinque anni.
+- A finanziare direttamente le società non finanziarie e le famiglie; cadenza trimestrale, durata di tre anni.
+
+**D:** ⚠️ Quali criteri deve soddisfare il modello di rilevazione dei ricavi, secondo la slide 18 della lezione 29?
+**R:** I ricavi sono flussi lordi di benefici economici derivanti dall'attività ordinaria, rilevati quando viene **trasferito il controllo** dei beni o servizi al cliente, per l'importo del corrispettivo a cui si ritiene di avere diritto. Il modello: 1) **identificazione del contratto**; 2) **individuazione** delle singole obbligazioni di fare (*performance obligations*); 3) **determinazione del prezzo** della transazione; 4) **ripartizione del prezzo** a ciascuna performance obligation, sulla base dei prezzi di vendita della singola obbligazione; 5) **riconoscimento dei ricavi** nel momento in cui, o man mano che, l'obbligazione di fare risulta adempiuta. Il docente dice solo che la nota spiega come si rilevano ricavi e costi in generale ([00:25:20]).
+**Opzione:** Identificazione del contratto; individuazione delle performance obligations; determinazione del prezzo della transazione; ripartizione del prezzo a ciascuna performance obligation; riconoscimento dei ricavi nel momento in cui, o man mano che, l'obbligazione di fare risulta adempiuta.
+**Distrattori:**
+- Identificazione del contratto; individuazione delle performance obligations; determinazione del prezzo della transazione; ripartizione del prezzo a ciascuna performance obligation; riconoscimento dei ricavi al momento dell'incasso del corrispettivo.
+- Come si passa dal patrimonio netto al 31.12 dell'esercizio precedente a quello finale, con le modifiche di ogni posta e le loro causali.
+- Dalla voce 110 alla 180, a destra insieme al passivo, che va dalla voce 10 alla 100.
+
+## Lezione 30 — La Nota Integrativa del bilancio della banca. Il business model e le perdite di valore
+
+**D:** ⚠️ Quali sono le tre fattispecie di business model applicabili alle attività finanziarie individuate dall'IFRS 9, secondo il test della lezione 30 (domanda 1)?
+**R:** «**Hold to collect, Hold to collect and sell, Other/Trading**» (slide 2). L'IFRS 9 le individua «in relazione alla modalità con cui sono gestiti i flussi di cassa e le vendite delle attività finanziarie». Il docente le chiama «all to collect», «hold to collect and sell» e «Other Trading», la «categoria di chiusura» ([00:00:05]–[00:01:27]). ⚠️ I distrattori mescolano le voci giuste con «Hold to maturity», che ricorda le *Held to Maturity* dello IAS 39 (lezioni 14 e 15), e con «Shares», che non è un business model. Distrattori del test: «Hold to collect and sell, Hold to maturity, Shares», «Hold to collect, Hold to maturity, Shares», «Hold to collect, Hold to collect and sell, Shares».
+**Opzione:** Hold to collect, Hold to collect and sell, Other/Trading.
+**Distrattori:**
+- Hold to collect and sell, Hold to maturity, Shares.
+- Hold to collect, Hold to maturity, Shares.
+- Hold to collect, Hold to collect and sell, Shares.
+
+**D:** ⚠️ Come si realizza l'obiettivo del business model Hold to Collect, e che cosa bisogna considerare sulle vendite, secondo la slide 2 della lezione 30?
+**R:** È «un modello di business il cui obiettivo si realizza attraverso l'**incasso dei flussi di cassa contrattuali** delle attività finanziarie incluse nei portafogli ad esso associati». L'inserimento in questo modello «**non comporta necessariamente l'impossibilità di vendere** gli strumenti», anche se è necessario considerare la **frequenza**, il **valore** e la **tempistica** delle vendite negli esercizi precedenti, le **ragioni** delle vendite e le **aspettative** riguardo alle vendite future. ⚠️ Il docente dice che sono strumenti «mantenuti fino alla loro naturale scadenza», con una possibilità di vendita «solo eventuale» e per importi limitati ([00:01:27]): per la slide 4 le vendite sono ammesse in tre casi.
+**Opzione:** Attraverso l'incasso dei flussi di cassa contrattuali; non comporta necessariamente l'impossibilità di vendere, ma vanno considerati frequenza, valore e tempistica delle vendite passate, le loro ragioni e le aspettative sulle vendite future.
+**Distrattori:**
+- Attraverso l'incasso dei flussi di cassa contrattuali; comporta necessariamente l'impossibilità di vendere, qualunque siano frequenza, valore e tempistica delle vendite passate, le loro ragioni e le aspettative future.
+- Almeno tre mesi dal momento in cui non soddisfano più le condizioni per essere classificate come deteriorate.
+- Sulla sola quota capitale: gli interessi dovevano essere pagati.
+
+**D:** Che cos'è il business model Hold to Collect and Sell, e come sono le vendite rispetto all'HTC, secondo la slide 2 della lezione 30?
+**R:** «È un modello di business **misto**, il cui obiettivo viene raggiunto attraverso l'incasso dei flussi di cassa contrattuali delle attività finanziarie in portafoglio e (anche) attraverso un'**attività di vendita che è parte integrante della strategia**.» Entrambe le attività, raccolta dei flussi contrattuali e vendita, sono **indispensabili** per raggiungere l'obiettivo. Pertanto le vendite sono **più frequenti e significative** rispetto a un business model HTC. Per il docente si valuta la vendita «nel momento in cui se ne presentasse l'opportunità sulla base di andamenti di mercato favorevoli» ([00:01:27]).
+**Opzione:** Un modello misto: l'obiettivo si raggiunge con l'incasso dei flussi contrattuali e (anche) con la vendita, entrambi indispensabili; le vendite sono più frequenti e significative rispetto a un HTC.
+**Distrattori:**
+- Un modello misto: l'obiettivo si raggiunge con l'incasso dei flussi contrattuali e (anche) con la vendita, entrambi indispensabili; le vendite sono meno frequenti e significative rispetto a un HTC.
+- Non è automaticamente un evento di default, con il credito fra i deteriorati, né una misura di forbearance, con il passaggio a Stage 2.
+- Irrecuperabilità del credito, risultante da elementi certi e precisi; cessione di credito; rinuncia al credito; senza rinuncia al credito.
+
+**D:** ⚠️ Che cosa comprende la categoria Other/Trading, e su quale base sono valutate gestione e performance del portafoglio, secondo la slide 2 della lezione 30?
+**R:** «Si tratta di una categoria **residuale** che comprende **sia** le attività finanziarie detenute con **finalità di trading** **sia** le attività finanziarie gestite con un modello di business **non riconducibile alle categorie precedenti** (Hold to Collect ed Hold to Collect and Sell).» In generale la classificazione si applica a un portafoglio la cui gestione e performance sono valutate **sulla base del fair value**. Per il docente è la «categoria di chiusura», tipica delle attività acquistate per essere immediatamente rivendute o per una plusvalenza da cessione a brevissimo termine ([00:01:27]).
+**Opzione:** Una categoria residuale: sia le attività detenute con finalità di trading sia quelle gestite con un modello non riconducibile a HTC e HTCS; gestione e performance sono valutate sulla base del fair value.
+**Distrattori:**
+- Una categoria residuale: solo le attività detenute con finalità di trading, non quelle gestite con un modello diverso da HTC e HTCS; gestione e performance sono valutate sulla base del fair value.
+- Offerte indistintamente a una platea di soggetti performing, o secondo disposizioni di legge, con un mero differimento dei pagamenti senza rinunce a interessi o capitale: per questo non comportano la derecognition.
+- PD: probabilità di migrare da bonis a deteriorato in un anno; LGD: percentuale di perdita in caso di default; EAD: esposizione al momento del default.
+
+**D:** ⚠️ Quali sono le tre caratteristiche del business model «in sintesi», secondo la slide 2 della lezione 30?
+**R:** Il business model «**riflette le modalità** con cui le attività finanziarie sono gestite per **generare flussi di cassa**; viene **definito dal top management**, mediante l'opportuno coinvolgimento delle **strutture di business**; deve essere **osservabile** considerando le modalità di gestione delle attività finanziarie». ⚠️ Per il docente le attività da far rientrare nei diversi modelli sono decise dai regolamenti interni deliberati «dai vari livelli di dirigenza fino ad arrivare al consiglio di amministrazione», e la ripartizione deve essere osservabile e misurabile per essere giustificata davanti alla Banca d'Italia ([00:04:00]). La slide dice top management.
+**Opzione:** Riflette le modalità con cui le attività finanziarie sono gestite per generare flussi di cassa; è definito dal top management, con il coinvolgimento delle strutture di business; deve essere osservabile.
+**Distrattori:**
+- Riflette le modalità con cui le attività finanziarie sono gestite per generare flussi di cassa; è definito dalle strutture di business, con il coinvolgimento del top management; deve essere osservabile.
+- Stage 1: perdite attese nei dodici mesi successivi; Stage 2: perdite attese lungo l'intera vita residua dello strumento.
+- Going Concern, continuità operativa: i flussi operativi del debitore continuano e ripagano i debiti; Gone Concern, cessazione dell'attività: il recupero si basa sul valore delle garanzie, al netto di un haircut.
+
+**D:** ⚠️ Su quali scenari non avviene la valutazione del modello di business, secondo la slide 2 della lezione 30?
+**R:** «La valutazione non avviene sulla base di scenari che, in base a **previsioni ragionevoli dell'entità**, **non sono destinati a verificarsi**, come i cosiddetti scenari "**worst case**" o "**stress case**".» Per esempio, se l'entità prevede di vendere un determinato portafoglio **solo** in uno scenario stress case, quello scenario non influisce sulla valutazione del modello di business, se in base a previsioni ragionevoli non è destinato a verificarsi.
+**Opzione:** Su scenari che, in base a previsioni ragionevoli dell'entità, non sono destinati a verificarsi, come i «worst case» o «stress case».
+**Distrattori:**
+- Su scenari che, in base a previsioni ragionevoli dell'entità, sono destinati a verificarsi, come i «worst case» o «stress case».
+- Su scenari che, in base alle previsioni dell'Autorità di Vigilanza, non sono destinati a verificarsi, come i «worst case» o «stress case».
+- Su scenari che, in base a previsioni ragionevoli dell'entità, non sono destinati a verificarsi, salvo i «worst case» o «stress case».
+
+**D:** ⚠️ A che cosa fa riferimento il modello di business, e da che cosa non dipende, secondo la slide 2 della lezione 30?
+**R:** «Il modello di business **non dipende dalle intenzioni** che il management ha con riferimento ad un **singolo strumento finanziario**, ma fa riferimento alle modalità con le quali **gruppi di attività finanziarie** vengono gestiti ai fini del raggiungimento di un determinato obiettivo di business.»
+**Opzione:** Alle modalità con cui gruppi di attività finanziarie sono gestiti per un obiettivo di business; non dipende dalle intenzioni sul singolo strumento.
+**Distrattori:**
+- Alle intenzioni del management sul singolo strumento finanziario; non dipende dalle modalità di gestione di gruppi di attività.
+- Alle modalità con cui gruppi di attività finanziarie sono gestiti per un obiettivo di business; non dipende dalle scelte del top management.
+- Alle modalità con cui singoli strumenti finanziari sono gestiti per un obiettivo di business; non dipende dalle intenzioni sul portafoglio.
+
+**D:** ⚠️ Quali fattori si utilizzano nell'effettuare l'assessment del business model, secondo il test della lezione 30 (domanda 2)?
+**R:** «**Tutti i fattori rilevanti disponibili alla data dell'assessment**» (slide 3). Le evidenze comprendono la strategia, i rischi e la loro gestione, le politiche di remunerazione, il reporting e l'ammontare delle vendite. ⚠️ I tre distrattori sono tre restrizioni con «solo». Distrattori del test: «solo i fattori dichiarati inizialmente alla data dell'assestment», «solo i fattori previsti dall'Autorità di Vigilanza», «solo i fattori utilizzati dal mercato».
+**Opzione:** Tutti i fattori rilevanti disponibili alla data dell'assessment.
+**Distrattori:**
+- Solo i fattori dichiarati inizialmente alla data dell'assessment.
+- Solo i fattori previsti dall'Autorità di Vigilanza.
+- Solo i fattori utilizzati dal mercato.
+
+**D:** ⚠️ In coerenza con quali elementi viene effettuato, in termini operativi, l'assessment del modello di business, secondo la slide 3 della lezione 30?
+**R:** «In coerenza con l'**organizzazione aziendale**, la **specializzazione delle funzioni di business**, il modello di **risk cascading** e l'**assegnazione dei poteri delegati (limiti)**.» Per il docente il risk cascading è il modello di come i rischi vengono gestiti all'interno del gruppo bancario, e i poteri di delega sono i limiti alle capacità decisionali dei dirigenti; saranno più interessati gli uffici titoli e trading ([00:04:00]–[00:06:51]). ⚠️ Le politiche di remunerazione non sono fra questi elementi: sono fra le evidenze dell'assessment.
+**Opzione:** Organizzazione aziendale, specializzazione delle funzioni di business, modello di risk cascading e assegnazione dei poteri delegati (limiti).
+**Distrattori:**
+- Organizzazione aziendale, specializzazione delle funzioni di business, modello di risk cascading e politiche di remunerazione.
+- Organizzazione aziendale, specializzazione delle funzioni di business, modello di risk cascading e indicazioni dell'Autorità di Vigilanza.
+- Organizzazione aziendale, intenzioni del management sul singolo strumento, modello di risk cascading e assegnazione dei poteri delegati (limiti).
+
+**D:** ⚠️ Che cosa comprendono le evidenze utilizzate nell'assessment del business model, secondo la slide 3 della lezione 30?
+**R:** «La **strategia**, i **rischi e la loro gestione**, le **politiche di remunerazione**, il **reporting** e l'**ammontare delle vendite**.» Gli elementi indagati devono mostrare **coerenza** tra di loro e in particolare con la strategia perseguita; «l'evidenza di attività non in linea con la strategia deve essere analizzata e adeguatamente giustificata».
+**Opzione:** La strategia, i rischi e la loro gestione, le politiche di remunerazione, il reporting e l'ammontare delle vendite.
+**Distrattori:**
+- La strategia, i rischi e la loro gestione, le politiche di remunerazione, il reporting e il prezzo di mercato delle attività.
+- La strategia, i rischi e la loro gestione, le politiche di remunerazione, il reporting e il rating dell'emittente.
+- La strategia, i rischi e la loro gestione, l'organizzazione aziendale, il reporting e l'ammontare delle vendite.
+
+**D:** Chi effettua il monitoraggio del business model in Intesa Sanpaolo, e con quale obiettivo usa i suoi indicatori, secondo la slide 4 della lezione 30?
+**R:** La **Direzione Centrale Rischi Finanziari e di Mercato**, che utilizza indicatori «aventi l'obiettivo di **verificare la coerenza tra strategia dichiarata e quella perseguita** all'interno dei modelli di business». Gli indicatori sono **differenziati per i diversi business model** e sviluppati in linea con l'IFRS 9 e in coerenza con policy e regole aziendali. La stessa Direzione, nell'Area Chief Risk Officer, sovraintende alla procedura per determinare il modello di business e ne riporta gli aggiornamenti, **con cadenza almeno annuale**, nelle «Regole in materia di business model» (slide 3). Per il docente il confronto è fra la strategia dichiarata dal consiglio di amministrazione e quella perseguita giorno per giorno dalla struttura operativa ([00:08:17]).
+**Opzione:** La Direzione Centrale Rischi Finanziari e di Mercato, per verificare la coerenza tra strategia dichiarata e quella perseguita nei modelli di business.
+**Distrattori:**
+- La Direzione Studi e Ricerche, per verificare la coerenza tra strategia dichiarata e quella perseguita nei modelli di business.
+- I competenti Organi di controllo, per verificare la coerenza tra strategia dichiarata e quella perseguita nei modelli di business.
+- La Direzione Centrale Rischi Finanziari e di Mercato, per verificare la coerenza tra strategia dichiarata e quella prevista dall'IFRS 9.
+
+**D:** 🚨 Nel modello Hold to collect le vendite sono ammesse, secondo il test della lezione 30 (domanda 3), e che cosa non va nella chiave?
+**R:** La piattaforma segna «**sì, ma solo in caso di aumento del rischio di credito**» (A). È la risposta da dare all'esame, ma il «solo» la rende falsa: per la slide 4 le vendite in un HTC sono ammesse in **tre** casi, cioè in caso di **aumento del rischio di credito**, per i **titoli prossimi a scadenza** (nei 6 mesi precedenti) e quando sono **frequenti ma non significative** o **infrequenti anche se significative**. Lo dice anche il docente ([00:11:22]–[00:11:42]). Nessuna opzione riporta la slide. Gli altri distrattori sono più lontani: «sì sempre» ignora le soglie di frequenza e significatività; «sì, ma solo in caso di aumento del rischio operativo» scambia il rischio; «no» contraddice la slide 2, per cui l'HTC non comporta necessariamente l'impossibilità di vendere.
+
+**D:** ⚠️ In quali casi sono ammesse le vendite nell'ambito di un modello di business HTC, secondo la slide 4 della lezione 30?
+**R:** In **tre** casi: «**in caso di aumento del rischio di credito**», cioè per i titoli con un downgrade di predeterminati notches rispetto al rating all'origination e per i crediti con cessioni di crediti deteriorati o classificati in Stage 2; «**per i titoli prossimi a scadenza** (ovvero, secondo le norme di Gruppo, nei 6 mesi precedenti la scadenza), purché quanto incassato approssimi il valore attuale dei flussi contrattuali rimanenti»; «quando sono **frequenti ma non significative** in termini di valore o **infrequenti anche se significative** in termini di valore, previo assessment autorizzativo a cura dei competenti Organi di controllo». ⚠️ Nel test (domanda 3) la piattaforma segna «solo in caso di aumento del rischio di credito», che tace gli altri due casi.
+**Opzione:** In caso di aumento del rischio di credito; per i titoli prossimi a scadenza; quando sono frequenti ma non significative in termini di valore o infrequenti anche se significative.
+**Distrattori:**
+- In caso di aumento del rischio di credito; per i titoli prossimi a scadenza; quando sono infrequenti ma non significative in termini di valore o frequenti anche se significative.
+- Sofferenze e inadempienze probabili: analitico-statistica sotto i 2 milioni, analitico-specifica sopra; scaduti e/o sconfinanti: analitica su basi statistiche indipendentemente dall'ammontare.
+- Non è automaticamente un evento di default, con il credito fra i deteriorati, né una misura di forbearance, con il passaggio a Stage 2.
+
+**D:** ⚠️ Quando si ha, ai fini delle vendite ammesse in un HTC, un aumento del rischio di credito per i titoli e per i crediti, secondo la slide 4 della lezione 30?
+**R:** **Per i titoli**, quando si verifica un **downgrade di predeterminati notches** rispetto al **rating all'origination**; il numero di notch è differenziato in funzione del rating all'origination, in coerenza con la metodologia per la «significant deterioration», cioè per il passaggio di staging. **Per i crediti**, se si tratta di **cessioni di crediti deteriorati** o di **crediti classificati in Stage 2**.
+**Opzione:** Titoli: downgrade di predeterminati notches rispetto al rating all'origination; crediti: cessioni di crediti deteriorati o classificati in Stage 2.
+**Distrattori:**
+- Titoli: downgrade di predeterminati notches rispetto al rating all'origination; crediti: cessioni di crediti deteriorati o classificati in Stage 1.
+- Titoli: upgrade di predeterminati notches rispetto al rating all'origination; crediti: cessioni di crediti deteriorati o classificati in Stage 2.
+- Titoli: cessioni di titoli deteriorati o classificati in Stage 2; crediti: downgrade di predeterminati notches rispetto al rating all'origination.
+
+**D:** ⚠️ Quando un titolo è «prossimo a scadenza», ai fini delle vendite ammesse in un HTC, e a quale condizione la vendita è ammessa, secondo la slide 4 della lezione 30?
+**R:** Secondo le norme di Gruppo, **nei 6 mesi precedenti la scadenza**, «purché quanto incassato **approssimi il valore attuale dei flussi contrattuali rimanenti**». Il docente non cita i 6 mesi ([00:11:22]).
+**Opzione:** Nei 6 mesi precedenti la scadenza, purché quanto incassato approssimi il valore attuale dei flussi contrattuali rimanenti.
+**Distrattori:**
+- Nei 12 mesi precedenti la scadenza, purché quanto incassato approssimi il valore attuale dei flussi contrattuali rimanenti.
+- Nei 3 mesi precedenti la scadenza, purché quanto incassato approssimi il valore attuale dei flussi contrattuali rimanenti.
+- Nei 6 mesi precedenti la scadenza, purché quanto incassato approssimi il valore nominale del titolo.
+
+**D:** ⚠️ Come sono definite la frequenza e la significatività delle vendite di un portafoglio HTC, secondo la slide 4 della lezione 30?
+**R:** «La **frequenza** è definita come il rapporto percentuale tra il **numero di posizioni vendute** nel corso dell'anno e il **numero di posizioni in portafoglio**; la **significatività** è definita come il rapporto percentuale tra il **valore nominale delle vendite** intervenute durante l'anno in corso e il **valore nominale degli strumenti in portafoglio**.» Il docente le ripete ([00:11:42]), ma al denominatore della significatività mette «il valore complessivo dei titoli detenuti» nell'HTC.
+**Opzione:** Frequenza: numero di posizioni vendute nell'anno su numero di posizioni in portafoglio; significatività: valore nominale delle vendite dell'anno su valore nominale degli strumenti in portafoglio.
+**Distrattori:**
+- Frequenza: numero di posizioni vendute nell'anno su numero di posizioni acquistate nell'anno; significatività: valore nominale delle vendite dell'anno su valore nominale degli strumenti in portafoglio.
+- Dalle posizioni in sofferenza, dalle inadempienze probabili e dalle posizioni scadute e/o sconfinanti da oltre 90 giorni.
+- Presentano livelli medi di perdita più contenuti per effetto delle Forbearance Measures e risentono dei vincoli normativi che ne impediscono il rientro in bonis prima dei 12 mesi dalla rinegoziazione.
+
+**D:** ⚠️ Quali indicatori ha stabilito Intesa Sanpaolo per i modelli HTCS e Other/Trading, benché l'IFRS 9 non preveda limiti alle vendite dell'HTCS, secondo la slide 5 della lezione 30?
+**R:** Per l'**HTCS** «il principio IFRS 9 **non prevede la necessità di limiti** alla frequenza o al valore delle vendite», ma Intesa Sanpaolo ha stabilito, **per i soli titoli di debito**, l'**Holding Period**, che misura la giacenza temporale di un determinato strumento in portafoglio, e l'**Indice di Turnover**, che misura la velocità di rotazione delle posizioni su un predefinito arco temporale, con limiti e soglie di early warning. Per i titoli di debito o di capitale **detenuti con finalità di trading** c'è l'indicatore di «**permanenza media attesa**» (c.d. **Vintage**), che misura la giacenza temporale osservata di ogni titolo ([00:13:50]). Le soglie di frequenza e significatività sono invece dell'HTC.
+**Opzione:** HTCS: Holding Period e Indice di Turnover, per i soli titoli di debito; trading: la «permanenza media attesa» (c.d. Vintage).
+**Distrattori:**
+- HTCS: la «permanenza media attesa» (c.d. Vintage); trading: Holding Period e Indice di Turnover, per i soli titoli di debito.
+- HTCS: Holding Period e Indice di Turnover, per i soli titoli di capitale; trading: la «permanenza media attesa» (c.d. Vintage).
+- HTCS: soglie di frequenza e significatività delle vendite; trading: la «permanenza media attesa» (c.d. Vintage).
+
+**D:** ⚠️ Come è definito il costo ammortizzato di un'attività o passività finanziaria, secondo la slide 5 della lezione 30?
+**R:** «Il costo ammortizzato di un'attività o passività finanziaria è il **valore a cui è stata misurata, alla rilevazione iniziale**, l'attività o la passività finanziaria **al netto dei rimborsi di capitale**, **accresciuto o diminuito dall'ammortamento complessivo**, calcolato usando il **metodo dell'interesse effettivo**, delle **differenze tra il valore iniziale e quello a scadenza** e **al netto di qualsiasi perdita di valore**.» Il docente identifica il valore iniziale con «il valore di mercato al momento iniziale» e omette le differenze fra valore iniziale e a scadenza e le perdite di valore ([00:13:50]–[00:15:57]).
+**Opzione:** Il valore misurato alla rilevazione iniziale, al netto dei rimborsi di capitale, accresciuto o diminuito dall'ammortamento complessivo, con il metodo dell'interesse effettivo, delle differenze tra valore iniziale e a scadenza, e al netto di qualsiasi perdita di valore.
+**Distrattori:**
+- Il valore misurato alla rilevazione iniziale, al netto dei rimborsi di capitale, accresciuto o diminuito dall'ammortamento complessivo, con il metodo dell'interesse nominale, delle differenze tra valore iniziale e a scadenza, e al netto di qualsiasi perdita di valore.
+- La variazione oltre soglie della PD lifetime rispetto all'iscrizione iniziale, driver principale; uno scaduto da almeno 30 giorni; la presenza di misure di forbearance.
+- Sulla sola quota capitale: gli interessi dovevano essere pagati.
+
+**D:** ⚠️ Per quali attività e passività viene effettuata la valutazione al costo ammortizzato, secondo la slide 6 della lezione 30?
+**R:** «Per le **attività finanziarie valutate al costo ammortizzato** e per quelle **valutate al fair value con impatto sulla redditività complessiva**, nonché per le **passività finanziarie valutate al costo ammortizzato**.» Per la slide 8 non si applica alle attività e passività coperte con le variazioni di fair value del rischio coperto a conto economico, a quelle la cui breve durata rende trascurabile l'effetto dell'attualizzazione e ai crediti senza una scadenza definita o a revoca.
+**Opzione:** Per le attività finanziarie al costo ammortizzato e per quelle al fair value con impatto sulla redditività complessiva, nonché per le passività finanziarie al costo ammortizzato.
+**Distrattori:**
+- Per le attività finanziarie al costo ammortizzato e per quelle al fair value con impatto a conto economico, nonché per le passività finanziarie al costo ammortizzato.
+- Offerte indistintamente a una platea di soggetti performing, o secondo disposizioni di legge, con un mero differimento dei pagamenti senza rinunce a interessi o capitale: per questo non comportano la derecognition.
+- Stage 1: nessuna evidenza di significativo incremento del rischio di credito; Stage 2: significativo incremento del rischio creditizio; Stage 3: evidenze di perdite di valore, deteriorate.
+
+**D:** ⚠️ Quali costi e quali ricavi riconducibili ai crediti si considerano nel calcolo del costo ammortizzato, secondo la slide 7 della lezione 30?
+**R:** **Costi**: le **provvigioni pagate ai canali distributivi**, i **compensi pagati per consulenza/assistenza** per l'organizzazione e/o la partecipazione ai **prestiti sindacati** e le **commissioni up front** correlate a crediti erogati a tassi **superiori** a quelli di mercato. **Ricavi**: le commissioni up-front correlate a crediti erogati a tassi **inferiori** a quelli di mercato, quelle di **partecipazione alle operazioni sindacate** e le **commissioni di brokeraggio** collegate a provvigioni riconosciute da società di intermediazione. Il docente cita solo i costi, e senza le commissioni up front ([00:15:57]).
+**Opzione:** Costi: provvigioni ai canali distributivi, compensi per consulenza/assistenza per l'organizzazione e/o la partecipazione ai prestiti sindacati, commissioni up front su crediti a tassi superiori a quelli di mercato; ricavi: commissioni up-front su crediti a tassi inferiori, di partecipazione alle operazioni sindacate e di brokeraggio.
+**Distrattori:**
+- Costi: provvigioni ai canali distributivi, compensi per consulenza/assistenza per l'organizzazione e/o la partecipazione ai prestiti sindacati, commissioni up front su crediti a tassi inferiori a quelli di mercato; ricavi: commissioni up-front su crediti a tassi superiori, di partecipazione alle operazioni sindacate e di brokeraggio.
+- Volta a verificare se esistano evidenze che possano far ritenere non interamente recuperabile il valore di iscrizione delle attività stesse.
+- Alle banche con un'incidenza di crediti deteriorati superiore alla media europea, una strategia di progressiva riduzione; le strategie sono nel «NPL plan», approvato dal CdA e aggiornato annualmente.
+
+**D:** ⚠️ Quando un'attività finanziaria è qualificata come POCI, e quale tasso si applica per il costo ammortizzato, secondo la slide 8 della lezione 30?
+**R:** Quando è **considerata deteriorata al momento della rilevazione iniziale**, poiché il rischio di credito è molto elevato e, in caso di acquisto, è acquistata **con grossi sconti** rispetto al valore di erogazione iniziale, **e** sulla base dei driver di classificazione (**SPPI test** e **Business model**) è classificata fra le attività al **costo ammortizzato** o al **fair value con impatto sulla redditività complessiva**. È un «*Purchased or Originated Credit Impaired Asset*», con un trattamento peculiare nel processo di impairment. Alla rilevazione iniziale si calcola un **tasso di interesse effettivo corretto per il credito** (*credit-adjusted effective interest rate*), che include nelle stime dei flussi le **perdite attese iniziali**. Il docente non cita la condizione sulla classificazione ([00:15:57]).
+**Opzione:** Quando è deteriorata già alla rilevazione iniziale, per un rischio di credito molto elevato, ed è classificata al costo ammortizzato o al fair value con impatto sulla redditività complessiva; si applica un tasso effettivo corretto per il credito.
+**Distrattori:**
+- Quando è deteriorata già alla rilevazione iniziale, per un rischio di credito molto elevato, ed è classificata al fair value con impatto a conto economico; si applica un tasso effettivo corretto per il credito.
+- Nei 6 mesi precedenti la scadenza, purché quanto incassato approssimi il valore attuale dei flussi contrattuali rimanenti.
+- La Direzione Centrale Rischi Finanziari e di Mercato, per verificare la coerenza tra strategia dichiarata e quella perseguita nei modelli di business.
+
+**D:** ⚠️ A quale valutazione sono sottoposte, ad ogni data di bilancio, le attività finanziarie diverse da quelle valutate al fair value con impatto a conto economico, secondo il test della lezione 30 (domanda 4)?
+**R:** A una valutazione «**volta a verificare se esistano evidenze che possano far ritenere non interamente recuperabile il valore di iscrizione delle attività stesse**» (slide 9). Un'analisi analoga si fa per gli impegni ad erogare fondi e per le garanzie rilasciate che rientrano nel perimetro dell'impairment. ⚠️ Il docente dice invece che vi sono sottoposte «in particolare le attività finanziarie valutate al fair value con impatto a conto economico», cioè proprio quelle escluse dalla slide ([00:15:57]). Distrattori del test: «volta a verificare l'aumento del valore in base a specifiche evidenze», «volta a verificare la vendibilità sul mercato», «volta a verificare il diritto di proprietà».
+**Opzione:** Volta a verificare se esistano evidenze che possano far ritenere non interamente recuperabile il valore di iscrizione delle attività stesse.
+**Distrattori:**
+- Volta a verificare l'aumento del valore in base a specifiche evidenze.
+- Volta a verificare la vendibilità sul mercato.
+- Volta a verificare il diritto di proprietà.
+
+**D:** ⚠️ Come sono definite le tre categorie dello Stage Assignment, secondo la slide 9 della lezione 30?
+**R:** **Stage 1**: gli strumenti per i quali, dalla rilevazione iniziale sino alla data di reporting, **non** siano state rilevate evidenze di un **significativo incremento del rischio di credito**. **Stage 2**: le attività che **hanno evidenziato** un significativo incremento del rischio creditizio rispetto al momento della rilevazione iniziale. **Stage 3**: se sussistono **evidenze di perdite di valore** («evidenze di impairment»), le attività, coerentemente con tutte quelle restanti della **medesima controparte**, sono considerate **deteriorate** (*impaired*). L'allocazione si fa **ad ogni data di reporting**, prima di determinare le perdite di valore. Per il docente gli stage stanno nei report predisposti «ogni tre mesi circa» ([00:18:53]).
+**Opzione:** Stage 1: nessuna evidenza di significativo incremento del rischio di credito; Stage 2: significativo incremento del rischio creditizio; Stage 3: evidenze di perdite di valore, deteriorate.
+**Distrattori:**
+- Stage 1: nessuna evidenza di significativo incremento del rischio di credito; Stage 2: evidenze di perdite di valore, deteriorate; Stage 3: significativo incremento del rischio creditizio.
+- Organizzazione aziendale, specializzazione delle funzioni di business, modello di risk cascading e assegnazione dei poteri delegati (limiti).
+- Hold to collect, Hold to collect and sell, Other/Trading.
+
+**D:** ⚠️ Su quale orizzonte si rilevano le perdite attese per le attività in Stage 1 e per quelle in Stage 2, secondo la slide 10 della lezione 30?
+**R:** **Stage 2**: rettifiche di valore pari alle **perdite attese lungo l'intera vita residua** dello strumento, pur in assenza di una perdita di valore manifesta. **Stage 1**: perdite attese **nel corso dei dodici mesi successivi**, anche qui pur in assenza di perdita di valore manifesta. Le rettifiche si rivedono a ogni data successiva. Per le POCI la perdita attesa è sempre pari all'ECL lifetime (slide 23).
+**Opzione:** Stage 1: perdite attese nei dodici mesi successivi; Stage 2: perdite attese lungo l'intera vita residua dello strumento.
+**Distrattori:**
+- Stage 1: perdite attese lungo l'intera vita residua dello strumento; Stage 2: perdite attese nei dodici mesi successivi.
+- Stage 1: nessuna perdita attesa finché non è manifesta; Stage 2: perdite attese lungo l'intera vita residua dello strumento.
+- Stage 1: perdite attese nei dodici mesi successivi; Stage 2: perdite attese nei ventiquattro mesi successivi.
+
+**D:** ⚠️ Quali sono le determinanti principali del «significativo incremento» del rischio di credito, condizione per il passaggio a Stage 2, secondo la slide 10 della lezione 30?
+**R:** La **variazione (oltre soglie determinate) delle probabilità di default lifetime** rispetto all'iscrizione iniziale, un criterio «**relativo**» che è il «**driver» principale**; l'eventuale presenza di uno **scaduto da almeno 30 giorni**, che fa ritenere la rischiosità **presuntivamente** «significativamente incrementata»; l'eventuale presenza di **misure di forbearance**, che sempre in via presuntiva comportano la stessa classificazione. Il significativo incremento è «condizione necessaria e sufficiente» per lo Stage 2. Per il docente si usano dei **trigger**, indicatori della probabilità di default nel corso della vita del titolo ([00:20:30]).
+**Opzione:** La variazione oltre soglie della PD lifetime rispetto all'iscrizione iniziale, driver principale; uno scaduto da almeno 30 giorni; la presenza di misure di forbearance.
+**Distrattori:**
+- La variazione oltre soglie della PD lifetime rispetto all'iscrizione iniziale, driver principale; uno scaduto da almeno 90 giorni; la presenza di misure di forbearance.
+- Una categoria residuale: sia le attività detenute con finalità di trading sia quelle gestite con un modello non riconducibile a HTC e HTCS; gestione e performance sono valutate sulla base del fair value.
+- Un modello misto: l'obiettivo si raggiunge con l'incasso dei flussi contrattuali e (anche) con la vendita, entrambi indispensabili; le vendite sono più frequenti e significative rispetto a un HTC.
+
+**D:** ⚠️ Come sono definiti PD, LGD ed EAD, i parametri da cui parte la determinazione delle perdite attese, secondo la slide 12 della lezione 30?
+**R:** **PD** (Probabilità di Default): «probabilità di **migrare dallo stato di bonis a quello di credito deteriorato nell'orizzonte temporale di un anno**»; nei modelli di vigilanza si quantifica tipicamente con il rating. **LGD** (Loss Given Default): «**percentuale di perdita in caso di default**», quantificata con l'esperienza storica dei recuperi attualizzati. **EAD** (Exposure At Default) o equivalente creditizio: «**ammontare dell'esposizione al momento del default**». L'ECL si determina a livello di singola operazione o tranche di titolo, partendo dalla modellistica IRB/Gestionale, con interventi correttivi per l'IFRS 9.
+**Opzione:** PD: probabilità di migrare da bonis a deteriorato in un anno; LGD: percentuale di perdita in caso di default; EAD: esposizione al momento del default.
+**Distrattori:**
+- PD: percentuale di perdita in caso di default; LGD: probabilità di migrare da bonis a deteriorato in un anno; EAD: esposizione al momento del default.
+- PD: probabilità di migrare da bonis a deteriorato in un anno; LGD: percentuale di perdita in caso di default; EAD: esposizione all'origination.
+- PD: probabilità di migrare da deteriorato a bonis in un anno; LGD: percentuale di perdita in caso di default; EAD: esposizione al momento del default.
+
+**D:** ⚠️ Quale approccio ha adottato Intesa Sanpaolo per il condizionamento macroeconomico di PD e LGD, secondo la slide 13 della lezione 30?
+**R:** Il c.d. «**Most likely scenario + Add-on**»: il condizionamento macroeconomico di PD e LGD si fa tramite uno **scenario base** («Most Likely», coerente con quello usato per altre finalità aziendali come budget e piani di impresa), poi **corretto con un Add-On** volto a includere le eventuali differenze rispetto a **scenari peggiorativi e migliorativi**. Lo scenario è determinato dalla **Direzione Studi e Ricerche** (slide 14). ⚠️ Per i crediti deteriorati la componente forward looking ignora in ottica prudenziale lo scenario migliorativo (slide 21).
+**Opzione:** Il «Most likely scenario + Add-on»: uno scenario base, coerente con budget e piani d'impresa, corretto con un Add-On per le differenze rispetto a scenari peggiorativi e migliorativi.
+**Distrattori:**
+- Il «Worst case scenario + Add-on»: uno scenario di stress, coerente con budget e piani d'impresa, corretto con un Add-On per le differenze rispetto a scenari peggiorativi e migliorativi.
+- Organizzazione aziendale, specializzazione delle funzioni di business, modello di risk cascading e assegnazione dei poteri delegati (limiti).
+- HTCS: Holding Period e Indice di Turnover, per i soli titoli di debito; trading: la «permanenza media attesa» (c.d. Vintage).
+
+**D:** ⚠️ Da quali posizioni sono rappresentati i crediti deteriorati, secondo il test della lezione 30 (domanda 5)?
+**R:** «Dalle posizioni in **sofferenza**, dalle **inadempienze probabili** e dalle posizioni **scadute e/o sconfinanti da oltre 90 giorni**» (slide 17). La slide 9 le chiama esposizioni deteriorate (*impaired*): sofferenze, inadempienze probabili («unlikely to pay» – UTP) ed esposizioni scadute **da oltre novanta giorni**, «definite nella **Circolare di Banca d'Italia n.272/2008**». ⚠️ I distrattori cambiano solo i giorni. I «180 giorni» della slide 20 sono una fascia della griglia di LGD degli scaduti, non la soglia della categoria. Il docente non cita i giorni e attribuisce le tre categorie alla NPL Guidance della BCE ([00:21:39]). Distrattori del test: «… da oltre 180 giorni», «… da oltre 360 giorni», «… da oltre 270 giorni».
+**Opzione:** Dalle posizioni in sofferenza, dalle inadempienze probabili e dalle posizioni scadute e/o sconfinanti da oltre 90 giorni.
+**Distrattori:**
+- Dalle posizioni in sofferenza, dalle inadempienze probabili e dalle posizioni scadute e/o sconfinanti da oltre 180 giorni.
+- Dalle posizioni in sofferenza, dalle inadempienze probabili e dalle posizioni scadute e/o sconfinanti da oltre 360 giorni.
+- Dalle posizioni in sofferenza, dalle inadempienze probabili e dalle posizioni scadute e/o sconfinanti da oltre 270 giorni.
+
+**D:** ⚠️ Come sono valutati i crediti deteriorati a seconda della categoria e dell'importo, secondo le slide 17–18 della lezione 30?
+**R:** **Sofferenze** e **inadempienze probabili**: **valutazione analitico-statistica** per le esposizioni **inferiori a 2 milioni**, basata su apposite griglie di LGD più un Add-On; **valutazione analitico-specifica** per le esposizioni **superiori a 2 milioni**, basata sulle percentuali di svalutazione attribuite dal gestore, più un Add-On. I crediti **scaduti e/o sconfinanti** sono valutati in modo analitico **su basi statistiche indipendentemente dall'ammontare** dell'esposizione. ⚠️ Per il docente sotto i 2 milioni la valutazione è «puramente statistica» e sopra «non meramente statistica ma … analitica» ([00:21:39]): per la slide sono analitiche entrambe.
+**Opzione:** Sofferenze e inadempienze probabili: analitico-statistica sotto i 2 milioni, analitico-specifica sopra; scaduti e/o sconfinanti: analitica su basi statistiche indipendentemente dall'ammontare.
+**Distrattori:**
+- Sofferenze e inadempienze probabili: analitico-specifica sotto i 2 milioni, analitico-statistica sopra; scaduti e/o sconfinanti: analitica su basi statistiche indipendentemente dall'ammontare.
+- Attraverso l'incasso dei flussi di cassa contrattuali; non comporta necessariamente l'impossibilità di vendere, ma vanno considerati frequenza, valore e tempistica delle vendite passate, le loro ragioni e le aspettative sulle vendite future.
+- Per le attività finanziarie al costo ammortizzato e per quelle al fair value con impatto sulla redditività complessiva, nonché per le passività finanziarie al costo ammortizzato.
+
+**D:** ⚠️ Per quanto tempo un'esposizione deve continuare a essere rilevata come deteriorata dopo che non ne soddisfa più le condizioni, il c.d. probation period, secondo la slide 18 della lezione 30?
+**R:** **Almeno tre mesi**: le esposizioni «devono continuare a essere rilevate come deteriorate sino a quando non siano trascorsi almeno tre mesi dal momento in cui non soddisfano più le condizioni per essere classificate come tali (cd probation period)». Restano nelle rispettive classi di rischio, valutate tenendo conto della loro minore rischiosità. ⚠️ Non va confuso con i **12 mesi** dalla rinegoziazione prima dei quali i crediti forborne non possono rientrare in bonis (slide 20).
+**Opzione:** Almeno tre mesi dal momento in cui non soddisfano più le condizioni per essere classificate come deteriorate.
+**Distrattori:**
+- Almeno dodici mesi dal momento in cui non soddisfano più le condizioni per essere classificate come deteriorate.
+- Almeno sei mesi dal momento in cui non soddisfano più le condizioni per essere classificate come deteriorate.
+- Almeno trenta giorni dal momento in cui non soddisfano più le condizioni per essere classificate come deteriorate.
+
+**D:** Su quali due approcci alternativi si stima la perdita da impairment delle inadempienze probabili, secondo la slide 19 della lezione 30?
+**R:** **Going Concern Approach**, scenario di **continuità operativa**: i flussi di cassa operativi del debitore, o del garante effettivo, continuano a essere prodotti e sono usati per ripagare i debiti finanziari; non esclude il realizzo di garanzie, ma solo se ciò non pregiudica la capacità di generare flussi futuri. **Gone Concern Approach**, scenario di **cessazione dell'attività**: si applica quando si ritiene che i flussi di cassa del debitore siano destinati a venir meno; il recupero si basa sostanzialmente sul **valore delle garanzie**, al netto di un haircut, e in subordine sul valore di realizzo degli asset patrimoniali.
+**Opzione:** Going Concern, continuità operativa: i flussi operativi del debitore continuano e ripagano i debiti; Gone Concern, cessazione dell'attività: il recupero si basa sul valore delle garanzie, al netto di un haircut.
+**Distrattori:**
+- Going Concern, cessazione dell'attività: i flussi operativi del debitore continuano e ripagano i debiti; Gone Concern, continuità operativa: il recupero si basa sul valore delle garanzie, al netto di un haircut.
+- Riflette le modalità con cui le attività finanziarie sono gestite per generare flussi di cassa; è definito dal top management, con il coinvolgimento delle strutture di business; deve essere osservabile.
+- In caso di aumento del rischio di credito; per i titoli prossimi a scadenza; quando sono frequenti ma non significative in termini di valore o infrequenti anche se significative.
+
+**D:** ⚠️ Perché le inadempienze probabili forborne hanno griglie di LGD differenziate da quelle non forborne, secondo la slide 20 della lezione 30?
+**R:** Per tenere conto delle caratteristiche dei crediti forborne, che «oltre a presentare **livelli medi di perdita più contenuti** per effetto delle "Forbearance Measures", risentono anche dei **vincoli normativi** che ne impediscono il **rientro in bonis prima dei 12 mesi** dalla data dell'avvenuta rinegoziazione». La LGD delle inadempienze probabili si ottiene ricalibrando la LGD sofferenza con il **Danger Rate**, un fattore correttivo moltiplicativo. ⚠️ Per il docente forborne e non forborne sono le inadempienze «tollerabili o non tollerabili» a seconda del pregresso del debitore ([00:21:39]).
+**Opzione:** Presentano livelli medi di perdita più contenuti per effetto delle Forbearance Measures e risentono dei vincoli normativi che ne impediscono il rientro in bonis prima dei 12 mesi dalla rinegoziazione.
+**Distrattori:**
+- Presentano livelli medi di perdita più elevati per effetto delle Forbearance Measures e risentono dei vincoli normativi che ne impediscono il rientro in bonis prima dei 12 mesi dalla rinegoziazione.
+- La strategia, i rischi e la loro gestione, le politiche di remunerazione, il reporting e l'ammontare delle vendite.
+- Frequenza: numero di posizioni vendute nell'anno su numero di posizioni in portafoglio; significatività: valore nominale delle vendite dell'anno su valore nominale degli strumenti in portafoglio.
+
+**D:** ⚠️ Che cosa ha richiesto la BCE con la «NPL Guidance» del marzo 2017, e dove sono rappresentate le strategie di riduzione dei crediti deteriorati, secondo la slide 22 della lezione 30?
+**R:** Ha richiesto alle banche con un'**incidenza di crediti deteriorati superiore alla media delle Banche Europee** la definizione di una **strategia volta a raggiungere una progressiva riduzione** degli stessi. Allo scenario «ordinario» di recupero, basato su azioni legali, mandati a società di recupero e realizzo delle garanzie ipotecarie, si affianca lo **scenario di vendita** del credito. Le strategie sono nel «**NPL plan**», approvato dal **Consiglio di Amministrazione** per l'invio all'Organo di Vigilanza e aggiornato **annualmente**. ⚠️ Per il docente la NPL Guidance «dava queste tre categorie di crediti deteriorati» ([00:21:39]): per la slide 9 le categorie sono definite nella Circolare Banca d'Italia 272/2008.
+**Opzione:** Alle banche con un'incidenza di crediti deteriorati superiore alla media europea, una strategia di progressiva riduzione; le strategie sono nel «NPL plan», approvato dal CdA e aggiornato annualmente.
+**Distrattori:**
+- A tutte le banche europee, qualunque sia l'incidenza dei crediti deteriorati, una strategia di progressiva riduzione; le strategie sono nel «NPL plan», approvato dal CdA e aggiornato annualmente.
+- Quando è deteriorata già alla rilevazione iniziale, per un rischio di credito molto elevato, ed è classificata al costo ammortizzato o al fair value con impatto sulla redditività complessiva; si applica un tasso effettivo corretto per il credito.
+- Su scenari che, in base a previsioni ragionevoli dell'entità, non sono destinati a verificarsi, come i «worst case» o «stress case».
+
+**D:** ⚠️ Quali rettifiche si contabilizzano sulle attività POCI, e in quale Stage sono inizialmente iscritte, secondo la slide 23 della lezione 30?
+**R:** Sin dalla data di rilevazione iniziale e per tutta la vita degli strumenti, rettifiche di valore **pari all'ECL lifetime**, adeguate a ogni data di bilancio con la variazione a conto economico. Le POCI sono **inizialmente iscritte nello Stage 3**, ferma restando la possibilità di essere spostate successivamente fra i crediti **performing**, sui quali però continuerà a essere rilevata una perdita attesa **pari all'ECL lifetime**.
+**Opzione:** Rettifiche pari all'ECL lifetime dalla rilevazione iniziale; iscrizione iniziale in Stage 3, con ECL lifetime anche se spostate fra i performing.
+**Distrattori:**
+- Rettifiche pari all'ECL lifetime dalla rilevazione iniziale; iscrizione iniziale in Stage 1, con ECL lifetime anche se spostate fra i performing.
+- Rettifiche pari all'ECL a dodici mesi dalla rilevazione iniziale; iscrizione iniziale in Stage 3, con ECL lifetime anche se spostate fra i performing.
+- Rettifiche pari all'ECL lifetime dalla rilevazione iniziale; iscrizione iniziale in Stage 3, con ECL a dodici mesi se spostate fra i performing.
+
+**D:** ⚠️ In quali casi Intesa Sanpaolo ricorre allo stralcio (write-off) dei crediti deteriorati, secondo la slide 23 della lezione 30?
+**R:** «**Irrecuperabilità del credito**, risultante da elementi certi e precisi (quali, a titolo di esempio, irreperibilità e nullatenenza del debitore, mancati recuperi da esecuzioni mobiliari ed immobiliari, pignoramenti negativi, procedure concorsuali chiuse con non completo ristoro per la Banca, se non vi sono ulteriori garanzie utilmente escutibili ecc.); **cessione di credito**; **rinuncia al credito**, in conseguenza di remissione unilaterale del debito o residuo a fronte di contratti transattivi; **senza rinuncia al credito**.» Lo stralcio può interessare **solo la porzione di credito coperta da accantonamenti**, fino al limite del **Net Book Value**. I portafogli di sofferenze da stralciare hanno copertura **pari al 100%** e anzianità **> 1 anno**, oppure copertura **> 95%** e anzianità **> 5 anni** per i crediti non ipotecari e **> 8 anni** per quelli ipotecari.
+**Opzione:** Irrecuperabilità del credito, risultante da elementi certi e precisi; cessione di credito; rinuncia al credito; senza rinuncia al credito.
+**Distrattori:**
+- Irrecuperabilità del credito, risultante da elementi certi e precisi; cessione di credito; rinuncia al credito; passaggio a inadempienza probabile.
+- Irrecuperabilità del credito, risultante da elementi certi e precisi; cessione di credito; rinuncia al credito; scaduto da oltre 90 giorni.
+- Downgrade di predeterminati notches; cessione di credito; rinuncia al credito; senza rinuncia al credito.
