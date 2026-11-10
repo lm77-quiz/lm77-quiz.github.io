@@ -6192,3 +6192,549 @@
 - Perché dà una visione unitaria, senza spezzare il risultato fra danni, vita e conto non tecnico: è più utile in una logica di comunicazione dei dati, mentre lo schema di legge serve alla gestione.
 - Composizione dei risultati reddituali.
 - Indicatori di stock.
+
+## Lezione 25 — Gli indici di bilancio della compagnia di assicurazioni
+
+**D:** Come definisce gli indici di bilancio la slide 2 della lezione 25?
+**R:** «Costruzione di indici attraverso i quali l'analista può esprimere un **giudizio compiuto e coerente** sull'impresa oggetto di esame».
+**Opzione:** Costruzione di indici attraverso i quali l'analista può esprimere un giudizio compiuto e coerente sull'impresa oggetto di esame.
+**Distrattori:**
+- Costruzione di indici attraverso i quali l'autorità di vigilanza può esprimere un giudizio compiuto e coerente sull'impresa oggetto di esame.
+- Le somme aggiunte al premio per tenere conto dei costi operativi della struttura aziendale.
+- Una rettifica diretta degli elementi dell'attivo.
+
+**D:** ⚠️ Quali tipologie di indici di bilancio elenca la slide 2 della lezione 25?
+**R:** **Patrimoniali, finanziari, economici, tecnico-assicurativi.** Gli indici tecnico-assicurativi chiudono l'elenco: per il docente sono i più particolari, perché propri della compagnia di assicurazione.
+**Opzione:** Patrimoniali, finanziari, economici, tecnico-assicurativi.
+**Distrattori:**
+- Patrimoniali, finanziari, economici, di qualità del credito.
+- Patrimoniali, finanziari, economici, di efficienza operativa.
+- Patrimoniali, finanziari, di vigilanza, tecnico-assicurativi.
+
+**D:** Quali indici di bilancio sono, per il docente della lezione 25, i più particolari, e perché?
+**R:** Gli **indici tecnico-assicurativi**: sono propri dell'attività della compagnia di assicurazione e non si ritrovano in altri tipi di azienda ([00:19:22]).
+**Opzione:** Gli indici tecnico-assicurativi: sono propri dell'attività della compagnia di assicurazione e non si ritrovano in altri tipi di azienda.
+**Distrattori:**
+- Gli indici economici: sono propri dell'attività della compagnia di assicurazione e non si ritrovano in altri tipi di azienda.
+- Gestione tecnica e gestione finanziaria.
+- Crescente di liquidità ed esigibilità.
+
+**D:** Su che cosa si costruiscono gli indici patrimoniali, quelli finanziari e quelli economici, secondo il docente della lezione 25?
+**R:** I **patrimoniali** sulle voci dello stato patrimoniale attinenti al patrimonio, come attività immateriali, attività materiali, partecipazioni e investimenti in attività finanziarie; i **finanziari** sulla capacità finanziaria dell'impresa, come i crediti a breve rispetto ai debiti a breve e la scadenza dei crediti rispetto ai debiti; gli **economici** sui valori del conto economico ([00:19:22]).
+**Opzione:** I patrimoniali sulle voci dello stato patrimoniale attinenti al patrimonio, come attività materiali, immateriali e partecipazioni; i finanziari sulla capacità finanziaria, come crediti e debiti a breve; gli economici sui valori del conto economico.
+**Distrattori:**
+- I patrimoniali sulle voci dello stato patrimoniale attinenti al patrimonio, come attività materiali, immateriali e partecipazioni; i finanziari sui valori del conto economico; gli economici sulla capacità finanziaria, come crediti e debiti a breve.
+- Le include entrambe in un solo stato patrimoniale; i due rami sono separati solo nei conti tecnici del conto economico.
+- Nell'attivo si parte dalle poste meno liquide verso le più liquide, nel passivo dalle meno esigibili verso le più esigibili.
+
+**D:** ⚠️ Come si calcola l'indice di immobilizzazione, secondo la slide 3 della lezione 25?
+**R:** **Attività immobilizzate / attività totali.** È detto anche rigidità degli impieghi. Attenzione al vicino d'esame «attività correnti fratto attività totali», che è l'indice di disponibilità.
+**Opzione:** Attività immobilizzate fratto attività totali.
+**Distrattori:**
+- Attività correnti fratto attività totali.
+- Attività immobilizzate fratto patrimonio netto.
+- Attività correnti fratto attività immobilizzate.
+
+**D:** ⚠️ Come si calcola l'indice di disponibilità, secondo la slide 3 della lezione 25?
+**R:** **Attività correnti / attività totali.** È detto anche elasticità degli impieghi. Attenzione al vicino d'esame «attività immobilizzate fratto attività totali», che è l'indice di immobilizzazione.
+**Opzione:** Attività correnti fratto attività totali.
+**Distrattori:**
+- Attività immobilizzate fratto attività totali.
+- Attività immobilizzate fratto patrimonio netto.
+- Attività correnti fratto attività immobilizzate.
+
+**D:** Con quali altri nomi indica la slide 3 della lezione 25 l'indice di immobilizzazione e l'indice di disponibilità?
+**R:** **Rigidità degli impieghi** l'indice di immobilizzazione, **elasticità degli impieghi** l'indice di disponibilità.
+**Opzione:** Rigidità degli impieghi il primo, elasticità degli impieghi il secondo.
+**Distrattori:**
+- Elasticità degli impieghi il primo, rigidità degli impieghi il secondo.
+- Rigidità delle fonti il primo, elasticità delle fonti il secondo.
+- Elasticità delle fonti il primo, rigidità delle fonti il secondo.
+
+**D:** Che cosa indica un indice di immobilizzazione alto, e com'è di solito nelle compagnie di assicurazione, secondo il docente della lezione 25?
+**R:** Più è alto, più l'impresa risulta **immobilizzata**; per le compagnie questo non è opportuno, e infatti il loro indice di rigidità degli impieghi è normalmente **abbastanza basso** ([00:19:22]).
+**Opzione:** Più è alto, più l'impresa risulta immobilizzata; per le compagnie non è opportuno, e infatti il loro indice è normalmente abbastanza basso.
+**Distrattori:**
+- Più è alto, più l'impresa risulta liquida; per le compagnie è opportuno, e infatti il loro indice è normalmente abbastanza alto.
+- Crescono anch'esse: c'è una diretta corrispondenza, perché più polizze significano più impegni verso gli assicurati.
+- Redditività, sicurezza e liquidità: in teoria andrebbero massimizzati tutti e tre, ma nella realtà le assicurazioni diversificano i propri investimenti.
+
+**D:** Che cosa evidenzia l'indice di disponibilità, secondo il docente della lezione 25?
+**R:** Quanta parte dell'attivo può essere **facilmente e rapidamente liquidata**, cioè convertita in denaro **entro l'anno successivo**, in condizioni di equilibrio economico. È l'esatto contraltare dell'indice di immobilizzazione ([00:21:42]).
+**Opzione:** Quanta parte dell'attivo può essere facilmente e rapidamente convertita in denaro entro l'anno successivo, in condizioni di equilibrio economico.
+**Distrattori:**
+- Quanta parte dell'attivo può essere facilmente e rapidamente convertita in denaro entro i cinque anni successivi, in condizioni di equilibrio economico.
+- Le attività a copertura delle riserve tecniche: l'IVASS pone stringenti vincoli in termini di sicurezza, redditività, diversificazione e liquidità, a tutela degli assicurati.
+- Tolta l'imposta sulle assicurazioni e i caricamenti per i costi operativi, il resto, la stragrande maggioranza, viene investito in attesa di pagare gli eventuali sinistri.
+
+**D:** ⚠️ Come si calcola l'indice di incidenza delle riserve tecniche, secondo la slide 4 della lezione 25?
+**R:** **Riserve tecniche nette / passività totali.** Il test della lezione omette «nette». Attenzione al vicino d'esame «riserve tecniche fratto attività immobilizzate», che è l'indice di copertura capovolto.
+**Opzione:** Riserve tecniche nette fratto passività totali.
+**Distrattori:**
+- Riserve tecniche nette fratto attività immobilizzate.
+- Riserve tecniche nette fratto patrimonio netto.
+- Riserve tecniche nette fratto attività correnti.
+
+**D:** Quanto vale di solito l'indice di incidenza delle riserve tecniche, e perché, secondo il docente della lezione 25?
+**R:** È di solito **molto rilevante**: non è anomalo che superi ampiamente il **50%** e arrivi al **60–70%**, perché le riserve tecniche sono la posta più significativa del passivo ([00:22:59]–[00:23:21]).
+**Opzione:** È di solito molto rilevante: non è anomalo che superi ampiamente il 50% e arrivi al 60–70%, perché le riserve tecniche sono la posta più significativa del passivo.
+**Distrattori:**
+- È di solito contenuto: non è anomalo che resti sotto il 20–30%, perché la posta più significativa del passivo è il patrimonio netto.
+- Dal 1861, l'unificazione del Regno d'Italia: hanno sempre avuto una legislazione speciale, sia sulla vigilanza sia sulla redazione dei bilanci e la tenuta della contabilità.
+- Rigidità degli impieghi il primo, elasticità degli impieghi il secondo.
+
+**D:** ⚠️ Come si calcola l'indice di copertura delle riserve tecniche, secondo la slide 4 della lezione 25?
+**R:** **Attività immobilizzate / riserve tecniche nette.** Attenzione al vicino d'esame «passività totali fratto riserve tecniche», che è l'indice di incidenza capovolto.
+**Opzione:** Attività immobilizzate fratto riserve tecniche nette.
+**Distrattori:**
+- Passività totali fratto riserve tecniche nette.
+- Patrimonio netto fratto riserve tecniche nette.
+- Attività correnti fratto riserve tecniche nette.
+
+**D:** Perché l'indice di copertura delle riserve tecniche si chiama così, e quale valore dovrebbe avere, secondo il docente della lezione 25?
+**R:** Perché confronta le **attività in cui la compagnia ha investito** per coprire i propri impegni futuri con le **riserve tecniche nette**, che rappresentano quegli impegni: dice se gli investimenti sono sufficienti a coprire le riserve. Dovrebbe essere **sempre superiore a 1**, cioè al 100% ([00:23:21]–[00:24:01]).
+**Opzione:** Perché confronta le attività investite per coprire gli impegni futuri con le riserve tecniche nette, che rappresentano quegli impegni; dovrebbe essere sempre superiore a 1, cioè al 100%.
+**Distrattori:**
+- Perché confronta le attività investite per coprire gli impegni futuri con le riserve tecniche nette, che rappresentano quegli impegni; dovrebbe essere sempre inferiore a 1, cioè al 100%.
+- Perché, con l'inversione del ciclo produttivo, la compagnia incassa i premi prima di pagare i sinistri, e in teoria non dovrebbe aver bisogno di indebitarsi.
+- Fra gli indici patrimoniali.
+
+**D:** ⚠️ Come si calcola la durata delle riserve tecniche, secondo la slide 4 della lezione 25?
+**R:** **Riserve tecniche nette / premi emessi.** Il docente parla di premi «di competenza economica» ([00:24:01]), ma fa testo la slide.
+**Opzione:** Riserve tecniche nette fratto premi emessi.
+**Distrattori:**
+- Riserve tecniche nette fratto premi di competenza.
+- Riserve tecniche nette fratto passività totali.
+- Premi emessi fratto riserve tecniche nette.
+
+**D:** Come si legge la durata delle riserve tecniche, secondo il docente della lezione 25?
+**R:** In **valore assoluto**, come numero di **esercizi**: dice a quanti anni di premi corrispondono le riserve, cioè quanti esercizi servirebbero perché i premi ricostituiscano le riserve iscritte in bilancio. Se vale **3**, le riserve corrispondono grosso modo a 3 anni di premi, cioè a 3 anni di attività ([00:24:01]–[00:25:44]).
+**Opzione:** In valore assoluto, come numero di esercizi: quanti ne servirebbero perché i premi ricostituiscano le riserve; se vale 3, le riserve corrispondono grosso modo a 3 anni di premi.
+**Distrattori:**
+- In percentuale, come quota dei premi: quanta parte dei premi dell'esercizio è stata accantonata a riserva; se vale 3, il 3% dei premi è andato a riserva.
+- Accantonamenti, ratei e risconti o debiti in attesa di pagamento che derivano dalla gestione tecnica: esprimono, su base probabilistica, gli impegni verso gli assicurati, da rilevare per competenza anno per anno.
+- Sinistri liquidati fratto sinistri denunciati.
+
+**D:** ⚠️ Dove stanno le riserve tecniche nette negli indici della slide 4 della lezione 25?
+**R:** Al **numeratore** nell'indice di incidenza e nella durata delle riserve tecniche, al **denominatore** nell'indice di copertura. Il test della lezione sfrutta proprio le inversioni.
+**Opzione:** Al numeratore nell'incidenza e nella durata delle riserve tecniche, al denominatore nella copertura.
+**Distrattori:**
+- Al numeratore nell'incidenza e nella copertura delle riserve tecniche, al denominatore nella durata.
+- Al numeratore nella copertura e nella durata delle riserve tecniche, al denominatore nell'incidenza.
+- Al numeratore in tutti e tre gli indici: incidenza, copertura e durata delle riserve tecniche.
+
+**D:** ⚠️ In quale categoria colloca la slide 4 della lezione 25 incidenza, copertura e durata delle riserve tecniche?
+**R:** Fra gli **indici patrimoniali** («Gli indici patrimoniali – II»). Il docente li presenta però come indicatori «più specificamente assicurativi», e dice che l'incidenza è tipica solo dei bilanci assicurativi ([00:22:26]).
+**Opzione:** Fra gli indici patrimoniali.
+**Distrattori:**
+- Fra gli indici di gestione tecnico-assicurativi.
+- Fra gli indici finanziari.
+- Fra gli indici economici.
+
+**D:** Quali indici patrimoniali presentano le slide 3 e 4 della lezione 25?
+**R:** L'indice di **immobilizzazione** e l'indice di **disponibilità** (slide 3); l'indice di **incidenza** delle riserve tecniche, l'indice di **copertura** delle riserve tecniche e la **durata** delle riserve tecniche (slide 4).
+**Opzione:** Immobilizzazione, disponibilità, incidenza delle riserve tecniche, copertura delle riserve tecniche, durata delle riserve tecniche.
+**Distrattori:**
+- Immobilizzazione, disponibilità, incidenza delle riserve tecniche, copertura delle riserve tecniche, velocità di liquidazione.
+- Immobilizzazione, disponibilità, incidenza delle riserve tecniche, sinistralità, durata delle riserve tecniche.
+- Immobilizzazione, costi di acquisizione, incidenza delle riserve tecniche, copertura delle riserve tecniche, durata delle riserve tecniche.
+
+**D:** Quali indici presenta la slide 5 della lezione 25 fra gli indici di gestione tecnico-assicurativi?
+**R:** L'indice dei **costi di acquisizione**, l'indice di **sinistralità** (*loss ratio*) e la **velocità di liquidazione**.
+**Opzione:** L'indice dei costi di acquisizione, l'indice di sinistralità e la velocità di liquidazione.
+**Distrattori:**
+- L'indice dei costi di acquisizione, l'indice di sinistralità e la durata delle riserve tecniche.
+- L'indice dei costi di acquisizione, l'indice di copertura delle riserve tecniche e la velocità di liquidazione.
+- L'indice di incidenza delle riserve tecniche, l'indice di sinistralità e la velocità di liquidazione.
+
+**D:** ⚠️ Come si calcola l'indice dei costi di acquisizione, secondo la slide 5 della lezione 25?
+**R:** **(Provvigioni + costi di acquisizione) / premi d'esercizio.** Per il docente al numeratore ci sono le provvigioni passive più gli altri costi di acquisizione ([00:25:44]).
+**Opzione:** Provvigioni più costi di acquisizione, fratto premi d'esercizio.
+**Distrattori:**
+- Provvigioni più costi di acquisizione, fratto premi di competenza.
+- Provvigioni più costi di acquisizione, fratto sinistri di competenza.
+- Premi d'esercizio, fratto provvigioni più costi di acquisizione.
+
+**D:** Che cosa esprime l'indice dei costi di acquisizione, secondo il docente della lezione 25?
+**R:** Quanto costa **percentualmente** all'impresa di assicurazione aver realizzato i premi di quell'esercizio ([00:25:44]).
+**Opzione:** Quanto costa percentualmente all'impresa di assicurazione aver realizzato i premi di quell'esercizio.
+**Distrattori:**
+- Quanto costa percentualmente all'impresa di assicurazione aver liquidato i sinistri di quell'esercizio.
+- Le somme aggiunte al premio per tenere conto dei costi operativi della struttura aziendale.
+- Una rettifica diretta degli elementi dell'attivo.
+
+**D:** ⚠️ Come si calcola l'indice di sinistralità, secondo la slide 5 della lezione 25?
+**R:** **Sinistri di competenza / premi di competenza.** È detto anche *loss ratio*. Attenzione ai distrattori d'esame, che tengono i sinistri di competenza al numeratore e cambiano il denominatore: attività correnti, attività immobilizzate, patrimonio netto.
+**Opzione:** Sinistri di competenza fratto premi di competenza.
+**Distrattori:**
+- Sinistri di competenza fratto attività correnti.
+- Sinistri di competenza fratto attività immobilizzate.
+- Sinistri di competenza fratto patrimonio netto.
+
+**D:** Con quale nome inglese la slide 5 della lezione 25 indica l'indice di sinistralità?
+**R:** **Loss ratio.**
+**Distrattori:**
+- Coverage ratio.
+- Tier 1 ratio.
+- Loan to deposit ratio.
+
+**D:** Come si legge l'indice di sinistralità, secondo il docente della lezione 25?
+**R:** Dice se la gestione tecnico-assicurativa è in grado di **coprire i sinistri**: **sotto l'unità**, o sotto il 100%, i premi sono superiori ai sinistri; **sopra l'unità** i sinistri superano i premi. Sarebbe opportuno che fosse **sempre inferiore a 1** ([00:25:44]).
+**Opzione:** Dice se la gestione tecnico-assicurativa copre i sinistri: sotto l'unità i premi superano i sinistri, sopra l'unità i sinistri superano i premi; sarebbe opportuno che fosse sempre inferiore a 1.
+**Distrattori:**
+- Dice se la gestione tecnico-assicurativa copre i sinistri: sotto l'unità i sinistri superano i premi, sopra l'unità i premi superano i sinistri; sarebbe opportuno che fosse sempre superiore a 1.
+- Immobilizzazioni materiali, azioni, obbligazioni, crediti, immobilizzazioni immateriali, liquidità e altre attività: insieme sono le attività a copertura delle riserve tecniche.
+- Crescono anch'esse: c'è una diretta corrispondenza, perché più polizze significano più impegni verso gli assicurati.
+
+**D:** Secondo il docente della lezione 25, in quali compagnie l'indice di sinistralità è normalmente superiore all'unità?
+**R:** In quelle che gestiscono i **rami danni**, dove per il docente i sinistri di competenza superano normalmente i premi di competenza; l'indice inferiore a 1 si verifica soprattutto nelle compagnie **vita** ([00:25:44]). È un'affermazione del docente: la nota la discute in un'integrazione.
+**Opzione:** In quelle che gestiscono i rami danni.
+**Distrattori:**
+- In quelle che gestiscono i rami vita.
+- In quelle che praticano la bancassicurazione.
+- In tutte, vita e danni, perché i sinistri superano sempre i premi.
+
+**D:** ⚠️ Come si calcola la velocità di liquidazione, secondo la slide 5 della lezione 25?
+**R:** **Sinistri liquidati / sinistri denunciati.**
+**Opzione:** Sinistri liquidati fratto sinistri denunciati.
+**Distrattori:**
+- Sinistri denunciati fratto sinistri liquidati.
+- Sinistri liquidati fratto premi di competenza.
+- Sinistri liquidati fratto sinistri di competenza.
+
+**D:** Come si legge la velocità di liquidazione, secondo il docente della lezione 25?
+**R:** Dovrebbe avvicinarsi all'**unità**: se fosse pari a 1, tutti i sinistri denunciati sarebbero stati liquidati nell'esercizio, e «non è mai così». Più è vicina a 1, più è alta la velocità di liquidazione e più l'impresa è **efficiente** e risponde alle richieste degli assicurati ([00:25:44]).
+**Opzione:** Dovrebbe avvicinarsi all'unità: pari a 1 vorrebbe dire tutti i sinistri denunciati liquidati nell'esercizio, cosa che non avviene mai; più è vicina a 1, più l'impresa è efficiente.
+**Distrattori:**
+- Dovrebbe avvicinarsi all'unità: pari a 1 vorrebbe dire tutti i sinistri denunciati liquidati nell'esercizio, cosa che di norma avviene; più è vicina a 1, più l'impresa è efficiente.
+- Rami danni: riserva premi, riserva sinistri, altre riserve; rami vita: riserve matematiche, riserve per somme da pagare.
+- Del d.lgs. 173/97, in attuazione della direttiva 91/674/CEE in materia di conti annuali e consolidati delle imprese di assicurazione.
+
+**D:** ⚠️ Che cosa hanno al denominatore i tre indici di gestione tecnico-assicurativi della slide 5 della lezione 25?
+**R:** L'indice dei costi di acquisizione i **premi d'esercizio**, l'indice di sinistralità i **premi di competenza**, la velocità di liquidazione i **sinistri denunciati**. Nella slide 4 la durata delle riserve tecniche ha invece i premi **emessi**.
+**Opzione:** Costi di acquisizione: premi d'esercizio; sinistralità: premi di competenza; velocità di liquidazione: sinistri denunciati.
+**Distrattori:**
+- Costi di acquisizione: premi di competenza; sinistralità: premi d'esercizio; velocità di liquidazione: sinistri denunciati.
+- Costi di acquisizione: premi emessi; sinistralità: premi di competenza; velocità di liquidazione: sinistri liquidati.
+- Costi di acquisizione: premi d'esercizio; sinistralità: premi emessi; velocità di liquidazione: sinistri di competenza.
+
+**D:** Quando e perché nasce l'analisi per indici, secondo il docente della lezione 25?
+**R:** All'indomani di una serie di **crisi** dei primi anni del Novecento che avevano colpito le imprese **industriali e bancarie** degli **Stati Uniti**; dopo la grande crisi del **1929** si svilupparono indicatori per capire gli andamenti delle aziende, soprattutto banche, compagnie assicuratrici e società quotate, il cui fallimento danneggia l'intera economia ([00:00:27]–[00:00:52]).
+**Opzione:** Dopo le crisi dei primi del Novecento nelle imprese industriali e bancarie degli Stati Uniti; dalla crisi del 1929 si svilupparono indicatori per banche, compagnie e società quotate, il cui fallimento danneggia l'intera economia.
+**Distrattori:**
+- Dopo le crisi dei primi del Novecento nelle imprese industriali e bancarie degli Stati Uniti; dal trattato di Versailles del 1919 si svilupparono indicatori per banche, compagnie e società quotate, il cui fallimento danneggia l'intera economia.
+- Dal 2005–2006 per le compagnie quotate in borsa e per quelle tenute al bilancio consolidato; le altre possono continuare a usare i principi contabili nazionali.
+- Del d.lgs. 173/97, in attuazione della direttiva 91/674/CEE in materia di conti annuali e consolidati delle imprese di assicurazione.
+
+**D:** ⚠️ Che cosa accade a una compagnia di assicurazione in dissesto, e chi interviene, secondo il docente della lezione 25?
+**R:** Non può fallire: viene sottoposta alla **liquidazione coatta amministrativa**, «l'equivalente del fallimento», che richiede oltre al **giudice** l'intervento del **Ministero di competenza** e dell'**autorità di vigilanza**, per la complessità e il peso degli interessi coinvolti ([00:07:12]).
+**Opzione:** Non può fallire: va in liquidazione coatta amministrativa, con il giudice, il Ministero di competenza e l'autorità di vigilanza.
+**Distrattori:**
+- Non può fallire: va in liquidazione coatta amministrativa, con il giudice e la sola autorità di vigilanza.
+- Fallisce come ogni impresa: la procedura è gestita dal solo giudice, senza Ministero né autorità di vigilanza.
+- Non può fallire: va in liquidazione coatta amministrativa, con il Ministero di competenza ma senza il giudice.
+
+**D:** Che cos'è la bancassicurazione, secondo il docente della lezione 25?
+**R:** La banca che **compra o costituisce ex novo** una compagnia di assicurazione, **per lo più vita**, e ne vende i prodotti attraverso la **rete bancaria**. Per il docente è diventata possibile con la riforma bancaria del 1992, che chiama «legge Amato» ([00:07:12]).
+**Opzione:** La banca che compra o costituisce una compagnia di assicurazione, per lo più vita, e ne vende i prodotti attraverso la rete bancaria.
+**Distrattori:**
+- La compagnia di assicurazione che compra o costituisce una banca, per gestire flussi monetari e prodotti bancari senza dipendere da terzi.
+- La banca che compra o costituisce una compagnia di assicurazione, per lo più danni, e ne vende i prodotti attraverso la rete bancaria.
+- La banca che compra o costituisce una compagnia di assicurazione, per lo più vita, e ne vende i prodotti attraverso agenti propri.
+
+**D:** Quali vantaggi dà alla banca la bancassicurazione, secondo il docente della lezione 25?
+**R:** L'**ampliamento della gamma di prodotti** e la **fidelizzazione** del cliente, perché i contratti assicurativi del ramo vita hanno durate che raramente sono inferiori ai **10 anni**. Sulla clientela fidelizzata si possono poi veicolare altri prodotti, come credito al consumo, leasing e mutui ([00:07:12]).
+**Opzione:** L'ampliamento della gamma di prodotti e la fidelizzazione del cliente, perché i contratti vita durano raramente meno di 10 anni.
+**Distrattori:**
+- L'ampliamento della gamma di prodotti e la fidelizzazione del cliente, perché i contratti danni durano raramente meno di 10 anni.
+- L'ampliamento della gamma di prodotti e la fidelizzazione del cliente, perché i contratti vita durano raramente più di un anno.
+- L'ampliamento della gamma di prodotti e la gestione autonoma dei flussi monetari, senza dipendere da terzi.
+
+**D:** Che cos'è l'assurbanca, secondo il docente della lezione 25?
+**R:** Il caso inverso della bancassicurazione: la **compagnia di assicurazione** che compra o costituisce una **banca**, per gestire i flussi monetari e i prodotti bancari in modo più autonomo, senza dipendere da terzi. Gli esempi sono **Banca Generali** e **Banca Reale**, realtà più piccole e di nicchia ([00:07:12]–[00:14:44]).
+**Opzione:** La compagnia di assicurazione che compra o costituisce una banca, per gestire flussi monetari e prodotti bancari senza dipendere da terzi.
+**Distrattori:**
+- La banca che compra o costituisce una compagnia di assicurazione, per lo più vita, e ne vende i prodotti attraverso la rete bancaria.
+- La compagnia di assicurazione che compra o costituisce una banca, per vendere le proprie polizze vita attraverso gli sportelli bancari.
+- La compagnia di assicurazione che cede a terzi, i riassicuratori, una parte dei propri contratti.
+
+**D:** ⚠️ Quali condizioni presuppone l'analisi per indici, secondo il docente della lezione 25?
+**R:** Bilanci **compatibili**, cioè redatti con gli **stessi principi contabili** per tutto il periodo, da verificare nella **nota integrativa** di ogni bilancio; e la **riclassificazione** del bilancio, che riaggrega o disaggrega le poste per far emergere i valori utili prima di calcolare gli indici ([00:14:44]–[00:18:23]).
+**Opzione:** Bilanci compatibili, redatti con gli stessi principi contabili per tutto il periodo, da verificare nella nota integrativa; e la riclassificazione del bilancio prima di calcolare gli indici.
+**Distrattori:**
+- Bilanci compatibili, redatti con gli stessi principi contabili per tutto il periodo, da verificare nella nota integrativa; e la certificazione del bilancio da parte di una società di revisione prima di calcolare gli indici.
+- La gestione tecnica genera il saldo tecnico, risultante dal confronto tra raccolta premi e costi industriali; la gestione finanziaria il risultato degli investimenti, cioè dell'attività di investimento del capitale proprio e delle riserve tecniche.
+- Al numeratore nell'incidenza e nella durata delle riserve tecniche, al denominatore nella copertura.
+
+**D:** Che cosa si deve fare se, nel periodo analizzato, la compagnia è passata dai principi contabili nazionali a quelli internazionali, secondo il docente della lezione 25?
+**R:** Bisogna prima **riesprimere** i bilanci redatti con i principi nazionali come se fossero stati redatti con gli IAS, e solo dopo calcolare gli indici; altrimenti si confronterebbero «**mele con pere**», con conclusioni incerte o addirittura fuorvianti ([00:14:44]–[00:17:48]).
+**Opzione:** Riesprimere i bilanci redatti con i principi nazionali come se fossero stati redatti con gli IAS, e solo dopo calcolare gli indici, per non fare confronti disomogenei.
+**Distrattori:**
+- Escludere dall'analisi i bilanci redatti con i principi nazionali e calcolare gli indici solo su quelli redatti con gli IAS, per non fare confronti disomogenei.
+- Investimenti, immobilizzazioni strumentali, attività diverse e attività correnti, che sommate danno il capitale investito.
+- Rami danni: riserva premi, riserva sinistri, altre riserve; rami vita: riserve matematiche, riserve per somme da pagare.
+
+## Lezione 26 — Stato patrimoniale e conto economico nel bilancio della banca
+
+**D:** Da quale fonte vengono, secondo il docente della lezione 26, le specifiche sulle singole voci del bilancio bancario?
+**R:** Dalla **Circolare 262 del 2005** della **Banca d'Italia**, «molto ponderosa», che ha avuto numerosi aggiornamenti, anche significativi negli ultimi anni, per le modifiche della legge nazionale e soprattutto di quella comunitaria ([00:04:51]).
+**Opzione:** Dalla Circolare 262 del 2005 della Banca d'Italia, più volte aggiornata.
+**Distrattori:**
+- Dalla Circolare 262 del 2005 della Consob, più volte aggiornata.
+- Dal Regolamento (CE) 1606/2002 del Parlamento europeo e del Consiglio.
+- Dal d.lgs. 38/2005, che ha esteso gli IAS ai bilanci delle banche.
+
+**D:** Perché le banche dell'Unione Europea redigono il bilancio con le stesse regole, secondo il docente della lezione 26?
+**R:** Perché la disciplina dei bilanci bancari nasce da **direttive comunitarie** che rendono **omogenee** le regole per tutte le banche con **sede legale** in un paese dell'UE. Le performance si calcolano prevalentemente sui risultati di bilancio: solo con numeri omogenei si possono confrontare una banca italiana e una francese senza conclusioni fuorvianti ([00:04:51]–[00:08:01]).
+**Opzione:** Perché le direttive comunitarie rendono omogenee le regole per le banche con sede legale nell'UE, così le performance si confrontano su numeri omogenei.
+**Distrattori:**
+- Perché le direttive comunitarie rendono omogenee le regole per le sole banche quotate nell'UE, così le performance si confrontano su numeri omogenei.
+- Riesprimere i bilanci redatti con i principi nazionali come se fossero stati redatti con gli IAS, e solo dopo calcolare gli indici, per non fare confronti disomogenei.
+- La compagnia incassa i premi all'emissione della polizza, prima di sostenere i relativi costi: il contrario delle imprese ordinarie, che prima sostengono i costi e poi incassano i ricavi.
+
+**D:** Che cosa bisognerebbe fare, secondo il docente della lezione 26, per confrontare il bilancio di una banca italiana con quello di una banca algerina?
+**R:** **Riesprimere** il bilancio della banca algerina secondo le regole dell'Unione Europea, oppure quello della banca italiana secondo le regole contabili algerine, e solo dopo confrontarli: un'operazione «lunga, costosa e anche delicata». Con una banca francese basta invece confrontare i bilanci pubblici, perché le regole sono le stesse ([00:11:39]–[00:12:45]).
+**Opzione:** Riesprimere uno dei due bilanci secondo le regole dell'altro, con un'operazione lunga, costosa e delicata, e solo dopo confrontarli.
+**Distrattori:**
+- Confrontare direttamente i bilanci pubblici, perché entrambe le banche seguono le regole delle direttive comunitarie.
+- Riesprimere il solo bilancio italiano secondo le regole dell'Unione Europea, e solo dopo confrontarli.
+
+**D:** Con quale ordine sono esposte le voci dell'attivo della banca, secondo il docente della lezione 26, e da quale voce a quale vanno?
+**R:** A **liquidità decrescente**: dalla voce 10, **cassa e disponibilità liquide**, la più liquida, cioè il denaro immediatamente spendibile, alla voce 120, **altre attività**, una voce residuale ([00:02:55], [00:12:45]).
+**Opzione:** A liquidità decrescente: dalla voce 10, cassa e disponibilità liquide, alla voce 120, altre attività.
+**Distrattori:**
+- A liquidità crescente: dalla voce 10, altre attività, alla voce 120, cassa e disponibilità liquide.
+- A liquidità decrescente: dalla voce 10, attività al costo ammortizzato, alla voce 120, partecipazioni.
+- A liquidità crescente: dalla voce 10, partecipazioni, alla voce 120, cassa e disponibilità liquide.
+
+**D:** ⚠️ Quali sottovoci compongono la voce 20 dell'attivo, attività finanziarie valutate al fair value con impatto a conto economico, nella slide 2 della lezione 26?
+**R:** a) **attività finanziarie detenute per la negoziazione**; b) **attività finanziarie designate al fair value**; c) **altre attività finanziarie obbligatoriamente valutate al fair value**. Tutte e tre sono chiavi del test della lezione (domande 1–3).
+**Opzione:** Detenute per la negoziazione; designate al fair value; altre obbligatoriamente valutate al fair value.
+**Distrattori:**
+- Detenute per la negoziazione; designate al fair value; crediti verso clientela.
+- Detenute per la negoziazione; designate al fair value; disponibili per la vendita.
+- Designate al fair value; altre obbligatoriamente valutate al fair value; partecipazioni.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca sono comprese le attività finanziarie designate al fair value, secondo la slide 2 della lezione 26?
+**R:** Nella voce **20, attività finanziarie valutate al fair value con impatto a conto economico**, come sottovoce b). È la domanda 1 del test: le «designate» stanno nella voce 20 anche se il loro nome non dice «conto economico».
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Partecipazioni.
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca sono comprese le attività finanziarie detenute per la negoziazione, secondo la slide 2 della lezione 26?
+**R:** Nella voce **20, attività finanziarie valutate al fair value con impatto a conto economico**, come sottovoce a). È la domanda 2 del test.
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Partecipazioni.
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca sono comprese le altre attività finanziarie obbligatoriamente valutate al fair value, secondo la slide 2 della lezione 26?
+**R:** Nella voce **20, attività finanziarie valutate al fair value con impatto a conto economico**, come sottovoce c). È la domanda 3 del test: «obbligatoriamente valutate al fair value» non dice dove va l'impatto, ma nello schema è la terza sottovoce della voce 20.
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Partecipazioni.
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca sono compresi i crediti verso banche, secondo la slide 2 della lezione 26?
+**R:** Nella voce **40, attività finanziarie valutate al costo ammortizzato**, come sottovoce a). È la domanda 4 del test.
+**Opzione:** Attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Partecipazioni.
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+- Attività finanziarie valutate al fair value con impatto a conto economico.
+
+**D:** ⚠️ In quale voce dello stato patrimoniale della banca sono compresi i crediti verso clientela, secondo la slide 2 della lezione 26?
+**R:** Nella voce **40, attività finanziarie valutate al costo ammortizzato**, come sottovoce b), insieme ai crediti verso banche. Lo conferma il docente ([00:17:00]). 🚨 Nella domanda 5 del test la piattaforma segna invece «attività finanziarie valutate al fair value con impatto a conto economico», la chiave delle domande 1–3: è una chiave sbagliata.
+**Opzione:** Attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Attività finanziarie valutate al fair value con impatto a conto economico.
+- Partecipazioni.
+- Attività finanziarie valutate al fair value con impatto sulla redditività complessiva.
+
+**D:** Che cosa sono, per il docente della lezione 26, le attività finanziarie valutate al fair value con impatto a conto economico, e quale sottovoce pesa di più?
+**R:** Investimenti finanziari destinati **prevalentemente a essere venduti nel corso dell'esercizio successivo**. La sottovoce nettamente più rilevante è la a), **detenute per la negoziazione**, 47,7 miliardi; le designate al fair value sono «molto molto ridotte» ([00:12:45]).
+**Opzione:** Investimenti da vendere prevalentemente nell'esercizio successivo; la sottovoce più rilevante è quella delle detenute per la negoziazione.
+**Distrattori:**
+- Investimenti da vendere prevalentemente nell'esercizio successivo; la sottovoce più rilevante è quella delle designate al fair value.
+- Investimenti detenuti a scopo strategico per lungo periodo; la sottovoce più rilevante è quella delle detenute per la negoziazione.
+- Investimenti da vendere prevalentemente nell'esercizio successivo; la sottovoce più rilevante è quella dei crediti verso clientela.
+
+**D:** Che cosa distingue, per il docente della lezione 26, le attività finanziarie valutate al fair value con impatto sulla redditività complessiva?
+**R:** Pur essendo finalizzate alla negoziazione, **non** sono obbligatoriamente o prevalentemente da rivendere entro l'esercizio successivo; le variazioni della loro valutazione a fine anno **non vanno a conto economico** ma in una riserva di patrimonio netto, la **riserva di valutazione** ([00:12:45]).
+**Opzione:** Non vanno rivendute per forza entro l'esercizio successivo, e le loro variazioni non vanno a conto economico ma nella riserva di valutazione.
+**Distrattori:**
+- Non vanno rivendute per forza entro l'esercizio successivo, e le loro variazioni vanno a conto economico e non nella riserva di valutazione.
+- Vanno rivendute per forza entro l'esercizio successivo, e le loro variazioni non vanno a conto economico ma nella riserva di valutazione.
+- Non vanno rivendute per forza entro l'esercizio successivo, e le loro variazioni non vanno a conto economico ma nelle riserve di utili.
+
+**D:** Che cosa contiene la voce 40 dell'attivo della banca, e che cosa esprime, secondo la lezione 26?
+**R:** Le **attività finanziarie valutate al costo ammortizzato**, con le sottovoci a) **crediti verso banche** e b) **crediti verso clientela**: per il docente le due poste più significative dell'attivo di una banca. Esprimono quanti prestiti la banca ha in essere al 31.12: **599 miliardi** nel 2021 ([00:17:00]).
+**Opzione:** I crediti verso banche e verso clientela, al costo ammortizzato: le poste più significative dell'attivo, cioè i prestiti in essere al 31.12, 599 miliardi.
+**Distrattori:**
+- I crediti verso banche e verso clientela, al fair value con impatto a conto economico: le poste più significative dell'attivo, cioè i prestiti in essere al 31.12, 599 miliardi.
+- È di solito molto rilevante: non è anomalo che superi ampiamente il 50% e arrivi al 60–70%, perché le riserve tecniche sono la posta più significativa del passivo.
+- Le include entrambe in un solo stato patrimoniale; i due rami sono separati solo nei conti tecnici del conto economico.
+
+**D:** ⚠️ Quanto valgono nel 2021 i crediti verso clientela e i crediti verso banche di Intesa Sanpaolo, secondo la slide 2 della lezione 26?
+**R:** Crediti verso clientela **438,99 miliardi**, crediti verso banche **160,49 miliardi**: insieme la voce 40, **599,48 miliardi**, su un totale dell'attivo di **774,24 miliardi**.
+**Opzione:** Crediti verso clientela 439,0 miliardi, crediti verso banche 160,5 miliardi; insieme 599,5 miliardi su 774,2 di attivo.
+**Distrattori:**
+- Crediti verso clientela 160,5 miliardi, crediti verso banche 439,0 miliardi; insieme 599,5 miliardi su 774,2 di attivo.
+- Crediti verso clientela 439,0 miliardi, crediti verso banche 160,5 miliardi; insieme 599,5 miliardi su 638,9 di attivo.
+- Crediti verso clientela 357,5 miliardi, crediti verso banche 191,2 miliardi; insieme 548,6 miliardi su 774,2 di attivo.
+
+**D:** Che cosa sono le partecipazioni nello stato patrimoniale della banca, secondo il docente della lezione 26?
+**R:** Azioni o quote di capitale di altre imprese detenute **non per negoziarle** ma **a scopo strategico**, per un controllo strategico: per lo più imprese dello stesso gruppo, o società attraverso cui si veicolano prodotti bancari. Restano in portafoglio **per lungo periodo** ([00:17:00]).
+**Opzione:** Azioni o quote di altre imprese tenute a scopo strategico e non per negoziarle, per lo più dello stesso gruppo, per lungo periodo.
+**Distrattori:**
+- Azioni o quote di altre imprese tenute per negoziarle e non a scopo strategico, per lo più dello stesso gruppo, per breve periodo.
+- Azioni o quote di altre imprese tenute a scopo strategico e non per negoziarle, per lo più di altri gruppi, per breve periodo.
+- Prestiti ad altre imprese tenuti a scopo strategico e non per negoziarli, per lo più dello stesso gruppo, per lungo periodo.
+
+**D:** Che cosa sono i derivati di copertura dell'attivo della banca, secondo il docente della lezione 26?
+**R:** I contratti derivati con **valore positivo** stipulati per coprirsi, sostanzialmente, dal **rischio di tasso di interesse** ([00:17:00]).
+**Opzione:** I contratti derivati con valore positivo stipulati per coprirsi, sostanzialmente, dal rischio di tasso di interesse.
+**Distrattori:**
+- I contratti derivati con valore negativo stipulati per coprirsi, sostanzialmente, dal rischio di tasso di interesse.
+- I contratti derivati con valore positivo acquistati per essere rivenduti entro l'esercizio successivo.
+- I contratti derivati con valore positivo stipulati per coprirsi, sostanzialmente, dal rischio operativo.
+
+**D:** Che peso hanno attività materiali e immateriali nel bilancio della banca, secondo il docente della lezione 26?
+**R:** Sono voci **residuali**, mentre nei bilanci delle società operative sono le principali ([00:17:00]).
+**Opzione:** Sono voci residuali, mentre nei bilanci delle società operative sono le principali.
+**Distrattori:**
+- Sono le voci principali, come nei bilanci delle società operative.
+- Sono voci residuali, come nei bilanci delle società operative.
+- Sono le voci principali, mentre nei bilanci delle società operative sono residuali.
+
+**D:** Come descrive il docente della lezione 26 l'ordine delle voci del passivo della banca?
+**R:** Si parte dai debiti **più rapidamente esigibili**, che scadono a brevissimo termine, e si procede verso poste che scadono **sempre più lontano nel tempo**. Il docente lo chiama «esigibilità decrescente»; nella lezione 12 lo stesso ordine era detto «esigibilità crescente» ([00:19:24]).
+**Opzione:** Dai debiti più rapidamente esigibili, a brevissimo termine, verso le poste che scadono sempre più lontano nel tempo.
+**Distrattori:**
+- Dalle poste che scadono più lontano nel tempo verso i debiti più rapidamente esigibili, a brevissimo termine.
+- Dal patrimonio netto verso i debiti più rapidamente esigibili, a brevissimo termine.
+- Dai debiti verso clientela, la posta più grande, verso quelle via via più piccole, in ordine di importo.
+
+**D:** ⚠️ Quali sottovoci compongono la voce 10 del passivo, passività finanziarie valutate al costo ammortizzato, nella slide 3 della lezione 26?
+**R:** a) **debiti verso banche**; b) **debiti verso clientela**; c) **titoli in circolazione**. Per il docente sono la raccolta di risparmio con cui la banca ottiene il denaro da prestare ([00:19:24]).
+**Opzione:** Debiti verso banche, debiti verso clientela, titoli in circolazione.
+**Distrattori:**
+- Debiti verso banche, debiti verso clientela, passività finanziarie di negoziazione.
+- Crediti verso banche, crediti verso clientela, titoli in circolazione.
+- Debiti verso banche, debiti verso clientela, trattamento di fine rapporto del personale.
+
+**D:** ⚠️ Che rapporto c'è fra raccolta e impieghi nello stato patrimoniale di Intesa Sanpaolo, secondo il docente della lezione 26?
+**R:** Le passività al costo ammortizzato, la **raccolta**, valgono **638 miliardi**; le attività al costo ammortizzato, gli **impieghi**, **599**. «Non è un caso»: la prima attività della banca è l'intermediazione. Le voci 10, 20 e 30 del passivo valgono più o meno quanto le voci 10, 20, 30 e 40 dell'attivo: «le due parti della stessa medaglia» ([00:19:24]–[00:22:45]).
+**Opzione:** La raccolta, 638 miliardi al costo ammortizzato nel passivo, corrisponde più o meno agli impieghi, 599 miliardi nell'attivo.
+**Distrattori:**
+- La raccolta, 599 miliardi al costo ammortizzato nel passivo, corrisponde più o meno agli impieghi, 638 miliardi nell'attivo.
+- La raccolta, 638 miliardi al costo ammortizzato nel passivo, è del tutto slegata dagli impieghi, 599 miliardi nell'attivo.
+- La raccolta, 638 miliardi al costo ammortizzato nel passivo, corrisponde più o meno alle partecipazioni dell'attivo.
+
+**D:** ⚠️ Quali sottovoci ha la voce 100 del passivo, fondi per rischi e oneri, e che cosa sono le prime due, secondo la lezione 26?
+**R:** a) **impegni e garanzie rilasciate**, cioè le **fideiussioni** rilasciate dalla banca; b) **quiescenza e obblighi simili**, i fondi per le **pensioni complementari** del personale previste dai contratti bancari; c) **altri fondi per rischi e oneri**, che per il docente accolgono gli accantonamenti per rischi su crediti ([00:22:45]).
+**Opzione:** a) impegni e garanzie rilasciate, cioè fideiussioni; b) quiescenza e obblighi simili, cioè pensioni complementari del personale; c) altri fondi per rischi e oneri.
+**Distrattori:**
+- a) impegni e garanzie rilasciate, cioè pensioni complementari del personale; b) quiescenza e obblighi simili, cioè fideiussioni; c) altri fondi per rischi e oneri.
+- Patrimoniali, finanziari, economici, tecnico-assicurativi.
+- Riserve tecniche nette fratto premi emessi.
+
+**D:** ⚠️ Da quale voce a quale va il patrimonio netto nello stato patrimoniale della banca, e dove sta, secondo la lezione 26?
+**R:** Dalla voce **110** alla **180**, nella sezione di **destra** dello stato patrimoniale, che è a sezioni contrapposte: a destra ci sono il **passivo**, voci 10–100, e il **patrimonio netto**, voci 110–180 ([00:22:45]–[00:24:48]).
+**Opzione:** Dalla voce 110 alla 180, a destra insieme al passivo, che va dalla voce 10 alla 100.
+**Distrattori:**
+- Dalla voce 10 alla 100, a destra insieme al passivo, che va dalla voce 110 alla 180.
+- Dalla voce 110 alla 180, a sinistra insieme all'attivo, che va dalla voce 10 alla 120.
+- Dalla voce 140 alla 180, a destra insieme al passivo, che va dalla voce 10 alla 130.
+
+**D:** Quali voci formano il patrimonio netto della banca nella slide 3 della lezione 26?
+**R:** 110 **riserve da valutazione**; 120 **azioni rimborsabili**; 130 **strumenti di capitale**; 140 **riserve**; 145 **acconti su dividendi** (−); 150 **sovrapprezzi di emissione**; 160 **capitale**; 170 **azioni proprie** (−); 180 **utile (perdita) d'esercizio** (+/−). Per il docente le voci 145 e 170 si sommano in negativo ([00:22:45]).
+**Opzione:** Riserve da valutazione, azioni rimborsabili, strumenti di capitale, riserve, acconti su dividendi (−), sovrapprezzi di emissione, capitale, azioni proprie (−), utile (perdita) d'esercizio.
+**Distrattori:**
+- Riserve da valutazione, azioni rimborsabili, strumenti di capitale, riserve, acconti su dividendi (−), sovrapprezzi di emissione, capitale, azioni proprie (−), fondi per rischi e oneri.
+- I patrimoniali sulle voci dello stato patrimoniale attinenti al patrimonio, come attività materiali, immateriali e partecipazioni; i finanziari sulla capacità finanziaria, come crediti e debiti a breve; gli economici sui valori del conto economico.
+- Sinistri di competenza fratto premi di competenza.
+
+**D:** ⚠️ Come sono strutturati il conto economico e lo stato patrimoniale della banca, secondo il docente della lezione 26?
+**R:** Il **conto economico** è **scalare**: parte dagli interessi attivi, toglie gli interessi passivi e fa emergere via via dei margini; **non** è a sezioni contrapposte, costi e ricavi. Lo **stato patrimoniale** è invece **a sezioni contrapposte**: attivo a sinistra, passivo e patrimonio netto a destra ([00:24:09]–[00:24:48]).
+**Opzione:** Il conto economico è scalare, lo stato patrimoniale a sezioni contrapposte.
+**Distrattori:**
+- Il conto economico è a sezioni contrapposte, lo stato patrimoniale scalare.
+- Sono entrambi a sezioni contrapposte.
+- Sono entrambi scalari.
+
+**D:** ⚠️ Quali sono i margini intermedi del conto economico della banca, e con quali numeri di voce, nella slide 4 della lezione 26?
+**R:** **30** margine di interesse, **60** commissioni nette, **120** margine di intermediazione, **150** risultato netto della gestione finanziaria. Il docente dice «al numero 40» per le commissioni nette, ma la 40 sono le commissioni attive.
+**Opzione:** 30 margine di interesse; 60 commissioni nette; 120 margine di intermediazione; 150 risultato netto della gestione finanziaria.
+**Distrattori:**
+- 30 margine di interesse; 40 commissioni nette; 120 margine di intermediazione; 150 risultato netto della gestione finanziaria.
+- 30 margine di interesse; 60 commissioni nette; 150 margine di intermediazione; 120 risultato netto della gestione finanziaria.
+- 30 margine di interesse; 60 commissioni nette; 120 margine di intermediazione; 210 risultato netto della gestione finanziaria.
+
+**D:** Quale redditività fanno capire i margini del conto economico della banca, secondo il docente della lezione 26?
+**R:** Il **margine di interesse** quella dell'attività di **intermediazione**; le **commissioni nette** quella dell'attività di **servizi**; il risultato di negoziazione quella del **trading**, cioè di acquisto e rivendita di attività finanziarie sul mercato; il **risultato netto della gestione finanziaria** la somma di tutto ciò **al netto delle rettifiche** ([00:24:48]–[00:26:21]).
+**Opzione:** Margine di interesse: intermediazione; commissioni nette: servizi; negoziazione: trading; gestione finanziaria: il totale al netto delle rettifiche.
+**Distrattori:**
+- Margine di interesse: servizi; commissioni nette: intermediazione; negoziazione: trading; gestione finanziaria: il totale al netto delle rettifiche.
+- Margine di interesse: intermediazione; commissioni nette: trading; negoziazione: servizi; gestione finanziaria: il totale al netto delle rettifiche.
+- Margine di interesse: intermediazione; commissioni nette: servizi; negoziazione: trading; gestione finanziaria: il totale al lordo delle rettifiche.
+
+**D:** Come si arriva, nel conto economico della banca, dal risultato netto della gestione finanziaria all'utile d'esercizio, secondo la lezione 26?
+**R:** Si tolgono i **costi operativi** (voce 210) e si ottiene l'utile dell'**operatività corrente al lordo delle imposte** (260); tolte le **imposte** (270) si ha il **risultato netto**, fino all'**utile (perdita) d'esercizio** (300) ([00:26:21]).
+**Opzione:** Si tolgono i costi operativi e si ha l'utile dell'operatività corrente al lordo delle imposte; tolte le imposte, l'utile d'esercizio.
+**Distrattori:**
+- Si tolgono le imposte e si ha l'utile dell'operatività corrente al lordo dei costi; tolti i costi operativi, l'utile d'esercizio.
+- Si tolgono le rettifiche per rischio di credito e si ha l'utile al lordo delle imposte; tolte le imposte, l'utile d'esercizio.
+- Si aggiungono le commissioni nette e si ha il margine di intermediazione; tolte le imposte, l'utile d'esercizio.
+
+**D:** ⚠️ Quanto valgono nel 2021 l'utile d'esercizio e la redditività complessiva di Intesa Sanpaolo, e quale dei due è l'utile ufficiale, secondo la lezione 26?
+**R:** L'**utile d'esercizio**, voce **300** del conto economico, è di **2.947.642.948 euro**: è l'utile «ufficiale». La **redditività complessiva**, voce 180 del prospetto della redditività complessiva, è di **2.601.094.296 euro**, «leggermente diversa» ([00:26:21]–[00:29:27]).
+**Opzione:** Utile d'esercizio 2,95 miliardi (voce 300), redditività complessiva 2,60 miliardi; l'utile ufficiale è il primo.
+**Distrattori:**
+- Utile d'esercizio 2,60 miliardi (voce 300), redditività complessiva 2,95 miliardi; l'utile ufficiale è il primo.
+- Utile d'esercizio 2,95 miliardi (voce 300), redditività complessiva 2,60 miliardi; l'utile ufficiale è il secondo.
+- Utile d'esercizio 2,88 miliardi (voce 260), redditività complessiva 2,60 miliardi; l'utile ufficiale è il primo.
+
+**D:** ⚠️ Che cosa contiene il prospetto della redditività complessiva, secondo il docente della lezione 26?
+**R:** Le voci che «potrebbero essere indicate nel conto economico» ma che, per l'applicazione degli **IAS/IFRS**, non vi sono comprese: si rilevano nella **riserva di valutazione**, voce **110** del passivo, e il loro impatto sulla redditività è **indiretto**. Il prospetto parte dall'utile d'esercizio e vi somma o sottrae queste voci ([00:26:21]–[00:28:50]).
+**Opzione:** Le voci che per gli IAS/IFRS non vanno a conto economico ma nella riserva di valutazione, voce 110 del passivo: un impatto indiretto.
+**Distrattori:**
+- Le voci che per gli IAS/IFRS non vanno a conto economico ma nelle riserve, voce 140 del passivo: un impatto indiretto.
+- Le voci che per gli IAS/IFRS vanno a conto economico e non nella riserva di valutazione, voce 110 del passivo: un impatto diretto.
+- Le voci che per gli IAS/IFRS non vanno a conto economico ma nei fondi per rischi e oneri, voce 100 del passivo: un impatto indiretto.
+
+**D:** ⚠️ Come si calcola la redditività complessiva nel prospetto della slide 5 della lezione 26?
+**R:** È la voce **180**, «Redditività complessiva (**Voce 10+170**)»: l'**utile (perdita) d'esercizio**, voce 10, più il **totale delle altre componenti reddituali al netto delle imposte**, voce 170. La slide 7 della lezione 16 scriveva «Voce 10+130».
+**Opzione:** Voce 10, utile d'esercizio, più voce 170, totale delle altre componenti reddituali al netto delle imposte.
+**Distrattori:**
+- Voce 10, utile d'esercizio, più voce 120, copertura dei flussi finanziari.
+- Voce 10, utile d'esercizio, meno voce 170, totale delle altre componenti reddituali al netto delle imposte.
+- Voce 300 del conto economico più voce 110 del passivo, riserve da valutazione.
+
+**D:** In quali due blocchi si dividono le altre componenti reddituali nel prospetto della redditività complessiva della slide 5 della lezione 26?
+**R:** Le altre componenti reddituali al netto delle imposte **senza rigiro a conto economico** (voci 20–90) e quelle **con rigiro a conto economico** (voci 100–160); il loro totale è la voce 170.
+**Opzione:** Senza rigiro a conto economico, voci 20–90, e con rigiro a conto economico, voci 100–160.
+**Distrattori:**
+- Con rigiro a conto economico, voci 20–90, e senza rigiro a conto economico, voci 100–160.
+- Al lordo delle imposte, voci 20–90, e al netto delle imposte, voci 100–160.
+- Realizzate, voci 20–90, e non realizzate, voci 100–160.
+
+**D:** ⚠️ Che cosa mostra il prospetto delle variazioni del patrimonio netto, secondo il docente della lezione 26?
+**R:** È un prospetto **sempre obbligatorio**. Parte dal valore al **31.12 dell'esercizio precedente** ed espone tutte le **modifiche** intervenute nelle poste del patrimonio netto, con le **causali** indicate nelle colonne, fino al valore finale: spiega come si passa dai valori al 31.12.2020 a quelli al 31.12.2021 ([00:29:40]).
+**Opzione:** Come si passa dal patrimonio netto al 31.12 dell'esercizio precedente a quello finale, con le modifiche di ogni posta e le loro causali.
+**Distrattori:**
+- Come si passa dall'utile d'esercizio alla redditività complessiva, con le componenti che vanno nella riserva di valutazione.
+- Come si passa dal patrimonio netto al 31.12 dell'esercizio precedente a quello finale, con le sole variazioni del capitale.
+- Come si passa dalla cassa iniziale a quella finale, con i flussi dell'attività operativa, di investimento e di provvista.
+
+**D:** Quali blocchi di righe ha il prospetto delle variazioni del patrimonio netto della slide 6 della lezione 26?
+**R:** Esistenze al 31.12.2020; modifica saldi apertura; esistenze al 1.1.2021; **allocazione del risultato dell'esercizio precedente** (riserve; dividendi e altre destinazioni); **variazioni dell'esercizio** (variazioni di riserve e operazioni sul patrimonio netto); **redditività complessiva dell'esercizio 2021**; patrimonio netto al 31.12.2021.
+**Opzione:** Esistenze al 31.12.2020; modifica saldi apertura; esistenze al 1.1.2021; allocazione risultato esercizio precedente; variazioni dell'esercizio; redditività complessiva esercizio 2021; patrimonio netto al 31.12.2021.
+**Distrattori:**
+- Esistenze al 31.12.2020; modifica saldi apertura; esistenze al 1.1.2021; allocazione risultato esercizio precedente; variazioni dell'esercizio; rendiconto finanziario 2021; patrimonio netto al 31.12.2021.
+- In valore assoluto, come numero di esercizi: quanti ne servirebbero perché i premi ricostituiscano le riserve; se vale 3, le riserve corrispondono grosso modo a 3 anni di premi.
+- Provvigioni più costi di acquisizione, fratto premi d'esercizio.
