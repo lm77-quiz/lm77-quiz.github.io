@@ -5646,3 +5646,549 @@
 - Perché la situazione del debitore può deteriorarsi e serve un monitoraggio continuo; ma il ritardo di una settimana su una rata non conta, finché il debitore paga entro l'anno.
 - Distinguendo le poste dell'attivo e del passivo a seconda, rispettivamente, della capacità o meno di produrre proventi e oneri per la banca.
 - Debiti verso banche; debiti verso clientela; titoli in circolazione; passività finanziarie di negoziazione; passività finanziarie valutate al fair value; derivati di copertura; adeguamento di valore delle passività oggetto di copertura generica.
+
+## Lezione 23 — Il bilancio della compagnia di assicurazioni e lo stato patrimoniale
+
+**D:** ⚠️ Quali sono le due gestioni tipiche della compagnia di assicurazioni, secondo il test della lezione 23 (domanda 1)?
+**R:** La **gestione tecnica** e la **gestione finanziaria** (slide 2): la prima genera il saldo tecnico, la seconda il risultato degli investimenti. La gestione immobiliare non esiste: terreni e fabbricati sono fra gli investimenti. Distrattori del test: «gestione tecnica e gestione immobiliare», «gestione immobiliare e gestione finanziaria», «gestione economica e gestione finanziaria».
+**Opzione:** Gestione tecnica e gestione finanziaria.
+**Distrattori:**
+- Gestione tecnica e gestione immobiliare.
+- Gestione immobiliare e gestione finanziaria.
+- Gestione economica e gestione finanziaria.
+
+**D:** ⚠️ Secondo quale grado sono esposte le attività e le passività dello stato patrimoniale della compagnia di assicurazioni, secondo il test della lezione 23 (domanda 2)?
+**R:** Secondo un **grado crescente di liquidità ed esigibilità** (slide 3; allegato I, d.lgs. 173/97): l'attivo va dalle poste meno liquide alle più liquide, il passivo dalle meno esigibili alle più esigibili ([00:17:22]). ⚠️ È una matrice 2×2: liquidità ed esigibilità crescono insieme. Distrattori del test: «crescente di liquidità e decrescente di esigibilità», «decrescente di liquidità e crescente di esigibilità», «decrescente di liquidità ed esigibilità».
+**Opzione:** Crescente di liquidità ed esigibilità.
+**Distrattori:**
+- Crescente di liquidità e decrescente di esigibilità.
+- Decrescente di liquidità e crescente di esigibilità.
+- Decrescente di liquidità ed esigibilità.
+
+**D:** ⚠️ Com'è la struttura del conto economico della compagnia di assicurazioni, secondo il test della lezione 23 (domanda 3)?
+**R:** **Scalare** (slide 3). ⚠️ «A sezioni contrapposte» è la forma che il corso attribuisce allo stato patrimoniale della banca (lezioni 12 e 16); le sezioni «sovrapposte» e «alternate» non compaiono nei materiali. Distrattori del test: «a sezioni contrapposte», «a sezioni sovrapposte», «a sezioni alternate».
+**Opzione:** Scalare.
+**Distrattori:**
+- A sezioni contrapposte.
+- A sezioni sovrapposte.
+- A sezioni alternate.
+
+**D:** ⚠️ In quante sottosintesi è articolato il conto economico della compagnia di assicurazioni, secondo il test della lezione 23 (domanda 4)?
+**R:** In **tre sottosintesi**: conto tecnico dei rami danni, conto tecnico dei rami vita, conto non tecnico (slide 3). ⚠️ I tipi di conto sono due, tecnico e non tecnico (test 24, domanda 1), ma le sottosintesi sono tre. Distrattori del test: «due sottosintesi», «quattro sottosintesi», «cinque sottosintesi».
+**Opzione:** Tre sottosintesi.
+**Distrattori:**
+- Due sottosintesi.
+- Quattro sottosintesi.
+- Cinque sottosintesi.
+
+**D:** ⚠️ Qual è la posta più caratteristica dello stato patrimoniale della compagnia di assicurazioni, secondo il test della lezione 23 (domanda 5)?
+**R:** Le **riserve tecniche**: «parte preponderante del passivo» per la slide 5, «particolari e specifiche delle compagnie di assicurazione» per il docente ([00:17:22]). Le altre poste del test esistono, ma si trovano in qualunque bilancio. Distrattori del test: «trattamento di fine rapporto», «attività immobilizzate», «patrimonio netto».
+**Opzione:** Riserve tecniche.
+**Distrattori:**
+- Trattamento di fine rapporto.
+- Attività immobilizzate.
+- Patrimonio netto.
+
+**D:** ⚠️ Che cosa genera la gestione tecnica e che cosa la gestione finanziaria della compagnia di assicurazioni, secondo la slide 2 della lezione 23?
+**R:** La **gestione tecnica** genera il «**saldo tecnico**», risultante dal confronto tra **raccolta premi e costi industriali**. La **gestione finanziaria** genera il «**risultato degli investimenti**», cioè il risultato dell'attività di investimento del **capitale proprio e delle riserve tecniche** (slide 2).
+**Opzione:** La gestione tecnica genera il saldo tecnico, risultante dal confronto tra raccolta premi e costi industriali; la gestione finanziaria il risultato degli investimenti, cioè dell'attività di investimento del capitale proprio e delle riserve tecniche.
+**Distrattori:**
+- La gestione tecnica genera il saldo tecnico, risultante dal confronto tra raccolta premi e costi industriali; la gestione finanziaria il risultato degli investimenti, cioè dell'attività di investimento del solo capitale proprio, senza le riserve tecniche.
+- Risultato lordo di gestione più le rettifiche/riprese di valore nette per deterioramento di crediti, attività finanziarie e altre operazioni finanziarie.
+- L'integrazione fra prodotti bancari e assicurativi: la banca incorpora quasi sempre una compagnia e vende polizze sulla propria rete e sul proprio sito, agli stessi clienti.
+
+**D:** ⚠️ Che cosa dice la slide 2 della lezione 23 sul rapporto fra gestione tecnica e gestione finanziaria?
+**R:** Che c'è **complementarietà** tra le due gestioni, **più forte nel ramo vita**; che **una quota degli utili derivanti da investimenti confluisce nel saldo tecnico**; e che **la tariffa di polizza è costruita anche considerando il rendimento finanziario delle riserve tecniche** (slide 2).
+**Opzione:** Sono complementari, più nel ramo vita; una quota degli utili derivanti da investimenti confluisce nel saldo tecnico; la tariffa di polizza è costruita anche considerando il rendimento finanziario delle riserve tecniche.
+**Distrattori:**
+- Sono complementari, più nel ramo danni; una quota degli utili derivanti da investimenti confluisce nel saldo tecnico; la tariffa di polizza è costruita anche considerando il rendimento finanziario delle riserve tecniche.
+- Sul posizionamento competitivo in termini di quota di mercato, sulla diversificazione geografica, sulla diversificazione di prodotto e sulla ripartizione del portafoglio per area di business danni e vita.
+- Dopo i costi operativi, nella gestione e controllo dei rischi fra RLG e RNG; nello schema obbligatorio vengono prima, e danno il risultato netto della gestione finanziaria.
+
+**D:** Che cosa comprendono la gestione tecnica e la gestione finanziaria, secondo il docente della lezione 23?
+**R:** La **gestione tecnica** riguarda la **gestione dei sinistri** e la **raccolta dei premi**. La **gestione finanziaria** riguarda l'**investimento dei premi** raccolti con la gestione tecnica e il **disinvestimento** quando bisogna rimborsare, risarcire o indennizzare l'assicurato. Operativamente si possono ritenere distinte, ma da un punto di vista gestionale complessivo «devono essere necessariamente considerate insieme» ([00:02:24]–[00:03:58]).
+**Opzione:** La tecnica riguarda la raccolta dei premi e i sinistri; la finanziaria investe i premi raccolti e disinveste quando bisogna risarcire o indennizzare l'assicurato.
+**Distrattori:**
+- La finanziaria riguarda la raccolta dei premi e i sinistri; la tecnica investe i premi raccolti e disinveste quando bisogna risarcire o indennizzare l'assicurato.
+- La riassicurazione è la cessione a terzi, i riassicuratori, di una parte dei contratti; il saldo tecnico della riassicurazione è la differenza fra oneri e proventi di riassicurazione.
+- Le quote di utile riconosciute agli assicurati che sono anche soci, nelle società di mutua assicurazione.
+
+**D:** ⚠️ Perché la complementarietà fra gestione tecnica e gestione finanziaria è più forte nel ramo vita, secondo il docente della lezione 23?
+**R:** Perché nel ramo vita i contratti durano molto di più: una RC auto normalmente non supera l'anno, mentre «una qualunque polizza vita non ha mai durata inferiore ai **5 anni**». Per anni la compagnia **incassa premi senza pagare nulla**, e solo alla scadenza paga la prestazione: un'indennità, una pensione o un capitale aumentato di interessi ([00:08:49]).
+**Opzione:** Perché i contratti vita durano molto di più: una polizza vita non ha mai durata inferiore ai 5 anni, mentre una RC auto di norma non supera l'anno, e la compagnia incassa premi a lungo prima di pagare.
+**Distrattori:**
+- Perché i contratti vita durano molto di più: una polizza vita non ha mai durata inferiore ai 10 anni, mentre una RC auto di norma non supera l'anno, e la compagnia incassa premi a lungo prima di pagare.
+- Per facilitarne la lettura: rende comprensibile l'andamento economico dei rami danni, del ramo vita e dell'impresa nel suo complesso, per una platea molto ampia di utenti.
+- Per supportare il rendimento del ramo danni, che normalmente è deficitario: è una scelta gestionale di chi redige il bilancio.
+
+**D:** Come si ripartisce il premio incassato dalla compagnia di assicurazioni, secondo il docente della lezione 23?
+**R:** Una parte va all'**erario** come **imposta sulle assicurazioni**; un'altra sono i **caricamenti**, somme aggiunte al premio per i **costi operativi** della struttura; il resto, «normalmente la **stragrande maggioranza**», viene **investito** in attesa di pagare gli eventuali sinistri ([00:05:35]).
+**Opzione:** Tolta l'imposta sulle assicurazioni e i caricamenti per i costi operativi, il resto, la stragrande maggioranza, viene investito in attesa di pagare gli eventuali sinistri.
+**Distrattori:**
+- Tolta l'imposta sulle assicurazioni e i caricamenti per i costi operativi, il resto, la stragrande maggioranza, resta in cassa senza essere investito, in attesa di pagare gli eventuali sinistri.
+- Premi al netto della riassicurazione; sinistri netti pagati; variazione delle riserve tecniche al netto della riassicurazione; oneri di acquisizione netti; altri proventi e oneri tecnici netti; ne risulta il risultato tecnico.
+- Proventi straordinari; oneri straordinari; risultato dell'attività straordinaria; risultato prima delle imposte; imposte sul reddito dell'esercizio; utile (perdita) dell'esercizio.
+
+**D:** ⚠️ Che cosa sono i caricamenti del premio assicurativo, secondo il docente della lezione 23?
+**R:** Le somme **aggiunte al premio** per tenere conto dei **costi operativi della struttura aziendale** ([00:05:35]). Non vanno confusi con l'**imposta sulle assicurazioni**, l'altra parte del premio che non viene investita, da riversare all'erario.
+**Opzione:** Le somme aggiunte al premio per tenere conto dei costi operativi della struttura aziendale.
+**Distrattori:**
+- Le somme aggiunte al premio da riversare all'erario come imposta sulle assicurazioni.
+- La parte del premio che viene investita in attesa di pagare i sinistri.
+- Conto non tecnico.
+
+**D:** ⚠️ Che cos'è l'inversione del ciclo produttivo della compagnia di assicurazioni, secondo il docente della lezione 23?
+**R:** Nelle imprese ordinarie si sostengono **prima i costi** e, solo dopo la vendita, si **incassano i ricavi**. Nella compagnia di assicurazione il meccanismo è «esattamente invertito»: quando emette la polizza non ha ancora reso alcuna prestazione, ma «**incassa immediatamente dei ricavi**, ma senza aver sostenuto i relativi costi» ([00:11:58]). Il fenomeno si rileva in bilancio con poste specifiche.
+**Opzione:** La compagnia incassa i premi all'emissione della polizza, prima di sostenere i relativi costi: il contrario delle imprese ordinarie, che prima sostengono i costi e poi incassano i ricavi.
+**Distrattori:**
+- La compagnia paga i sinistri prima di incassare i relativi premi: il contrario delle imprese ordinarie, che prima incassano i ricavi e poi sostengono i costi.
+- Si distingue nettamente dalla quarta direttiva CEE e dagli artt. 2424 e 2425 c.c., perché è disciplinato da una normativa speciale, il d.lgs. 173/1997.
+- Proventi e plusvalenze non realizzate (voce 3) e oneri patrimoniali e finanziari e minusvalenze non realizzate (voce 10); sono polizze come le unit linked e le index linked, con il rischio a carico degli assicurati.
+
+**D:** ⚠️ Perché un alto indebitamento della compagnia di assicurazioni «non è mai un buon segno», secondo il docente della lezione 23?
+**R:** Per l'**inversione del ciclo produttivo**: la compagnia incassa i ricavi prima di sostenere i costi, quindi «in teoria non dovrebbe avere bisogno di ulteriore indebitamento» ([00:27:05]).
+**Opzione:** Perché, con l'inversione del ciclo produttivo, la compagnia incassa i premi prima di pagare i sinistri, e in teoria non dovrebbe aver bisogno di indebitarsi.
+**Distrattori:**
+- Perché, con l'inversione del ciclo produttivo, la compagnia paga i sinistri prima di incassare i premi, e il debito aggrava questo squilibrio.
+- Perché dà una visione unitaria, senza spezzare il risultato fra danni, vita e conto non tecnico: è più utile in una logica gestionale, mentre lo schema di legge serve alla comunicazione dei dati.
+- Per facilitarne la lettura: rende comprensibile l'andamento economico dei rami danni, del ramo vita e dell'impresa nel suo complesso, per una platea molto ampia di utenti.
+
+**D:** Da quando le compagnie di assicurazione hanno in Italia una disciplina speciale, e su che cosa, secondo il docente della lezione 23?
+**R:** **Dal 1861**, cioè dall'unificazione del Regno d'Italia: per la loro particolare attività hanno sempre avuto una **legislazione speciale**, sia sulla **vigilanza** sia sulla **redazione dei bilanci** e la **tenuta della contabilità** ([00:00:34]).
+**Opzione:** Dal 1861, l'unificazione del Regno d'Italia: hanno sempre avuto una legislazione speciale, sia sulla vigilanza sia sulla redazione dei bilanci e la tenuta della contabilità.
+**Distrattori:**
+- Dal 1997, con il d.lgs. 173: prima seguivano la disciplina comune delle società, sia sulla vigilanza sia sulla redazione dei bilanci e la tenuta della contabilità.
+- La compagnia incassa i premi all'emissione della polizza, prima di sostenere i relativi costi: il contrario delle imprese ordinarie, che prima sostengono i costi e poi incassano i ricavi.
+- Perché i contratti vita durano molto di più: una polizza vita non ha mai durata inferiore ai 5 anni, mentre una RC auto di norma non supera l'anno, e la compagnia incassa premi a lungo prima di pagare.
+
+**D:** ⚠️ A norma di quale decreto, e in attuazione di quale direttiva, il bilancio delle imprese di assicurazione ha una struttura obbligatoria, secondo la slide 3 della lezione 23?
+**R:** Del **d.lgs. 173/97**, in attuazione della **direttiva 91/674/CEE** in materia di conti annuali e consolidati delle imprese di assicurazione (slide 3). Per il docente ogni compagnia italiana deve usare quella struttura e **non può derogarvi** ([00:11:58]–[00:16:05]).
+**Opzione:** Del d.lgs. 173/97, in attuazione della direttiva 91/674/CEE in materia di conti annuali e consolidati delle imprese di assicurazione.
+**Distrattori:**
+- Del d.lgs. 173/97, in attuazione della quarta direttiva CEE in materia di conti annuali delle società di capitali.
+- La quota trasferita al conto tecnico è il rendimento delle riserve tecniche; il saldo della gestione finanziaria non attribuita al conto tecnico è il rendimento del free capital.
+- Quelli del ramo vita nel conto tecnico dei rami vita; quelli dei rami danni nel conto non tecnico, da cui una quota può essere trasferita al conto tecnico dei rami danni.
+
+**D:** ⚠️ Per quali compagnie di assicurazione sono obbligatori i principi contabili internazionali, secondo il docente della lezione 23?
+**R:** Dal **2005–2006** per le compagnie **quotate in borsa** e per quelle **tenute alla redazione del bilancio consolidato**. Per le compagnie non quotate e non tenute al consolidato non sono obbligatori: possono continuare con i **principi nazionali**. Chi legge il bilancio di una compagnia deve quindi conoscere entrambi ([00:16:05]–[00:17:22]).
+**Opzione:** Dal 2005–2006 per le compagnie quotate in borsa e per quelle tenute al bilancio consolidato; le altre possono continuare a usare i principi contabili nazionali.
+**Distrattori:**
+- Dal 2005–2006 per tutte le compagnie di assicurazione, quotate e non quotate, che non possono più usare i principi contabili nazionali.
+- Per supportare il rendimento del ramo danni, che normalmente è deficitario: è una scelta gestionale di chi redige il bilancio.
+- Le quote di utile riconosciute agli assicurati che sono anche soci, nelle società di mutua assicurazione.
+
+**D:** ⚠️ Che cosa significa esporre attività e passività secondo un grado crescente di liquidità ed esigibilità, secondo il docente della lezione 23?
+**R:** Che nell'**attivo** si parte dalle poste **meno liquide** verso le **più liquide**, e nel **passivo** dalle poste **meno esigibili** verso le **più esigibili** ([00:17:22]). È la struttura dell'allegato I del d.lgs. 173/97 (slide 3).
+**Opzione:** Nell'attivo si parte dalle poste meno liquide verso le più liquide, nel passivo dalle meno esigibili verso le più esigibili.
+**Distrattori:**
+- Nell'attivo si parte dalle poste più liquide verso le meno liquide, nel passivo dalle più esigibili verso le meno esigibili.
+- I premi sono la tipica voce di ricavo, i sinistri la tipica voce di costo.
+- Conto tecnico e conto non tecnico.
+
+**D:** ⚠️ Quali classi compongono lo stato patrimoniale sintetico della compagnia di assicurazioni nella slide 4 della lezione 23?
+**R:** Nell'**attivo** gli **investimenti** e i **crediti**; nel **passivo** il **patrimonio netto**, le **riserve tecniche** e i **debiti finanziari** (slide 4). Sono cinque classi: per il docente una «ipersemplificazione» per mostrare gli aggregati più significativi ([00:17:22]).
+**Opzione:** Nell'attivo investimenti e crediti; nel passivo patrimonio netto, riserve tecniche e debiti finanziari.
+**Distrattori:**
+- Nell'attivo investimenti e crediti; nel passivo patrimonio netto, riserve tecniche e trattamento di fine rapporto.
+- Nell'attivo investimenti e riserve tecniche; nel passivo patrimonio netto, crediti e debiti finanziari.
+- La politica riassicurativa adottata.
+
+**D:** ⚠️ Come tratta la gestione danni e la gestione vita lo stato patrimoniale della compagnia di assicurazioni, rispetto al conto economico, secondo la lezione 23?
+**R:** In un **unico** stato patrimoniale: «la struttura dello Stato Patrimoniale include sia la gestione danni che la gestione vita» (slide 4). Per il docente, «a differenza del conto economico», non ci sono due stati patrimoniali ma uno solo ([00:22:23]). Danni e vita sono separati solo nei conti tecnici del conto economico.
+**Opzione:** Le include entrambe in un solo stato patrimoniale; i due rami sono separati solo nei conti tecnici del conto economico.
+**Distrattori:**
+- Le separa in due stati patrimoniali, uno per i rami danni e uno per i rami vita, come i conti tecnici del conto economico.
+- Conto tecnico: risultati dei conti tecnici dei rami danni e dei rami vita; conto non tecnico: risultato della gestione tecnico-assicurativa, della gestione ordinaria, della gestione straordinaria e utile (perdita) dell'esercizio.
+- Somma del risultato del conto tecnico ramo danni e del risultato del conto tecnico rami vita.
+
+**D:** ⚠️ Quali obiettivi devono perseguire gli investimenti della compagnia di assicurazioni, e come si comportano le compagnie nella realtà, secondo la slide 4 della lezione 23?
+**R:** **Redditività, sicurezza e liquidità**. «Teoricamente bisogna massimizzare questi tre aspetti; nella realtà le assicurazioni **diversificano** i propri investimenti» (slide 4). Per il docente nessun investimento li massimizza tutti e tre contemporaneamente ([00:22:23]).
+**Opzione:** Redditività, sicurezza e liquidità: in teoria andrebbero massimizzati tutti e tre, ma nella realtà le assicurazioni diversificano i propri investimenti.
+**Distrattori:**
+- Redditività, sicurezza e liquidità: le assicurazioni li massimizzano tutti e tre insieme, scegliendo gli investimenti che li garantiscono contemporaneamente.
+- Si distingue nettamente dalla quarta direttiva CEE e dagli artt. 2424 e 2425 c.c., perché è disciplinato da una normativa speciale, il d.lgs. 173/1997.
+- Sul posizionamento competitivo in termini di quota di mercato, sulla diversificazione geografica, sulla diversificazione di prodotto e sulla ripartizione del portafoglio per area di business danni e vita.
+
+**D:** ⚠️ Che tipo di rettifica degli elementi dell'attivo prevede lo stato patrimoniale della compagnia di assicurazioni, secondo la slide 4 della lezione 23?
+**R:** Una **rettifica diretta** degli elementi dell'attivo (slide 4). Per il docente avviene «tramite le riserve tecniche», «direttamente in conto» ([00:24:49]).
+**Opzione:** Una rettifica diretta degli elementi dell'attivo.
+**Distrattori:**
+- Una rettifica indiretta, tramite fondi iscritti nel passivo.
+- Scalare.
+- Tre sottosintesi.
+
+**D:** ⚠️ Che cosa sono gli impieghi della compagnia di assicurazioni, e quali vincoli vi pone l'IVASS, secondo la slide 5 della lezione 23?
+**R:** Sono le **attività a copertura delle riserve tecniche**. L'**IVASS** pone stringenti vincoli in termini di **sicurezza, redditività, diversificazione e liquidità**, **a tutela degli assicurati** (slide 5). ⚠️ I vincoli sono quattro: agli obiettivi degli investimenti della slide 4 si aggiunge la diversificazione.
+**Opzione:** Le attività a copertura delle riserve tecniche: l'IVASS pone stringenti vincoli in termini di sicurezza, redditività, diversificazione e liquidità, a tutela degli assicurati.
+**Distrattori:**
+- Le attività a copertura delle riserve tecniche: la Banca d'Italia pone stringenti vincoli in termini di sicurezza, redditività, diversificazione e liquidità, a tutela degli assicurati.
+- Le polizze online: l'intervento umano è ridotto al minimo, l'utente fa tutto sulla piattaforma internet e la polizza decorre dal pagamento del premio.
+- Nel ramo danni la quota degli utili degli investimenti viene trasferita al conto tecnico dopo il margine di sottoscrizione; nel ramo vita gli utili da investimento stanno dentro il saldo tecnico, e una quota viene trasferita al conto non tecnico.
+
+**D:** ⚠️ Quali fonti elenca la slide 5 della lezione 23, e che cosa dice di ciascuna?
+**R:** Le **riserve tecniche**: parte **preponderante** del passivo; dalla loro corretta determinazione dipende la capacità della compagnia di far fronte ai rischi in portafoglio. Il **capitale sociale e le riserve patrimoniali**: i coefficienti patrimoniali. L'**indebitamento**: ricorso alla **leva finanziaria**, con un **costo del debito influenzato dal rating** (slide 5).
+**Opzione:** Riserve tecniche, parte preponderante del passivo, dalla cui corretta determinazione dipende la capacità di far fronte ai rischi in portafoglio; capitale sociale e riserve patrimoniali, per i coefficienti patrimoniali; indebitamento, ricorso alla leva finanziaria con costo del debito influenzato dal rating.
+**Distrattori:**
+- Riserve tecniche, parte preponderante del passivo, dalla cui corretta determinazione dipende la capacità di far fronte ai rischi in portafoglio; capitale sociale e riserve patrimoniali, per i coefficienti patrimoniali; indebitamento, ricorso alla leva finanziaria con costo del debito fissato dall'IVASS.
+- Margine tecnico finanziario + risultato dell'attività di investimento assegnato al conto non tecnico per la quota riferibile al patrimonio libero di impresa.
+- Dal d.lgs. 173/1997, che recepisce la direttiva del 1991 sui conti delle imprese di assicurazione; ha omogeneizzato struttura e contenuto del bilancio in Europa, facilitando i confronti fra compagnie.
+
+**D:** ⚠️ Che cosa sono le riserve tecniche, secondo il docente della lezione 23?
+**R:** «Accantonamenti sostanzialmente o anche **ratei e risconti** o anche veri e propri **debiti** in via di pagamento» che derivano dalla **gestione tecnica**, da cui il nome. Nascono dall'**inversione del ciclo produttivo**, e i costi che coprono sono calcolati solo su base **probabilistica**. Esprimono gli **impegni contrattuali** verso gli assicurati, che avranno manifestazione finanziaria fra 2, 3, 5 o 15 esercizi ma per **competenza** vanno rilevati anno per anno ([00:17:22]–[00:24:49]).
+**Opzione:** Accantonamenti, ratei e risconti o debiti in attesa di pagamento che derivano dalla gestione tecnica: esprimono, su base probabilistica, gli impegni verso gli assicurati, da rilevare per competenza anno per anno.
+**Distrattori:**
+- Accantonamenti, ratei e risconti o debiti in attesa di pagamento che derivano dalla gestione finanziaria: esprimono, su base probabilistica, gli impegni verso gli assicurati, da rilevare per competenza anno per anno.
+- Quelli del ramo vita nel conto tecnico dei rami vita; quelli dei rami danni nel conto non tecnico, da cui una quota può essere trasferita al conto tecnico dei rami danni.
+- La quota trasferita al conto tecnico è il rendimento delle riserve tecniche; il saldo della gestione finanziaria non attribuita al conto tecnico è il rendimento del free capital.
+
+**D:** ⚠️ Come variano le riserve tecniche al crescere del volume d'affari della compagnia di assicurazioni, secondo il docente della lezione 23?
+**R:** **Crescono**: c'è «una **diretta corrispondenza** fra volume di affari e riserve tecniche». Più polizze la compagnia stipula, più alte sono le riserve tecniche, perché più numerosi sono gli impegni verso gli assicurati ([00:22:23]).
+**Opzione:** Crescono anch'esse: c'è una diretta corrispondenza, perché più polizze significano più impegni verso gli assicurati.
+**Distrattori:**
+- Diminuiscono: c'è una corrispondenza inversa, perché più polizze significano più premi a copertura degli impegni verso gli assicurati.
+- Le rettifiche sono perdite effettivamente scontate sui prestiti; gli accantonamenti sono solo programmatici e probabilistici, per rischi e spese futuri.
+- In tre: il conto tecnico dei rami danni, il conto tecnico dei rami vita e il conto non tecnico, che riassume i risultati dei due conti tecnici e porta all'utile o alla perdita.
+
+**D:** ⚠️ Quali voci dell'attivo elenca la slide 6 della lezione 23, e a quale concetto corrispondono insieme?
+**R:** **Immobilizzazioni materiali, azioni, obbligazioni, crediti, immobilizzazioni immateriali, liquidità, altre attività**: insieme sono le **attività a copertura di riserve tecniche** (slide 6). Per il docente sono le attività in cui la compagnia è investita, pronta a disinvestire per pagare danni e indennizzi ([00:27:05]).
+**Opzione:** Immobilizzazioni materiali, azioni, obbligazioni, crediti, immobilizzazioni immateriali, liquidità e altre attività: insieme sono le attività a copertura delle riserve tecniche.
+**Distrattori:**
+- Immobilizzazioni materiali, azioni, obbligazioni, crediti, immobilizzazioni immateriali, liquidità e altre attività: insieme sono il margine di solvibilità.
+- Dal 2005–2006 per le compagnie quotate in borsa e per quelle tenute al bilancio consolidato; le altre possono continuare a usare i principi contabili nazionali.
+- Perché, con l'inversione del ciclo produttivo, la compagnia incassa i premi prima di pagare i sinistri, e in teoria non dovrebbe aver bisogno di indebitarsi.
+
+**D:** ⚠️ A quale concetto corrispondono patrimonio netto e passività subordinate nella slide 6 della lezione 23, e che funzione ha, secondo il docente?
+**R:** Al **margine di solvibilità** (slide 6): «quel **cuscinetto** che deve assorbire eventuali non corretti calcoli in relazione all'impatto dei rischi assunti dall'impresa», con «la stessa funzione del **patrimonio di vigilanza** delle banche» ([00:27:05]).
+**Opzione:** Al margine di solvibilità: un cuscinetto che assorbe eventuali errori nel calcolo dell'impatto dei rischi assunti, con la stessa funzione del patrimonio di vigilanza delle banche.
+**Distrattori:**
+- All'indebitamento: un cuscinetto che assorbe eventuali errori nel calcolo dell'impatto dei rischi assunti, con la stessa funzione del patrimonio di vigilanza delle banche.
+- Il margine di sottoscrizione è il saldo tecnico assicurativo dei rami danni; aggiungendo la quota degli utili degli investimenti trasferita al conto tecnico si ottiene il saldo tecnico totale dei rami danni, cioè il margine tecnico-finanziario.
+- Per il ramo danni in entrambe le direzioni, anche dal conto non tecnico al conto tecnico per sostenerlo; per il ramo vita solo verso il conto non tecnico, per gli utili realizzati con il patrimonio libero.
+
+**D:** ⚠️ Quali classi compongono l'attivo dello stato patrimoniale della compagnia di assicurazioni nello schema della slide 7 della lezione 23?
+**R:** **A.** Crediti verso soci per capitale sociale sottoscritto e non versato; **B.** Attivi immateriali; **C.** Investimenti; **D.** Investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; **D bis.** Riserve tecniche a carico dei riassicurati; **E.** Crediti; **F.** Altri elementi dell'attivo; **G.** Ratei e risconti (slide 7). La nota segnala in ℹ️ che nello schema di legge la D bis è «a carico dei riassicuratori».
+**Opzione:** Crediti verso soci per capitale sociale sottoscritto e non versato; attivi immateriali; investimenti; investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; riserve tecniche a carico dei riassicurati; crediti; altri elementi dell'attivo; ratei e risconti.
+**Distrattori:**
+- Crediti verso soci per capitale sociale sottoscritto e non versato; attivi immateriali; investimenti; investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; riserve tecniche a carico dei riassicurati; crediti; altri elementi dell'attivo; fondi per rischi e oneri.
+- Riserve tecniche nette, passività consolidate, passività diverse e passività correnti, che sommate danno le passività totali; con il patrimonio netto si hanno le fonti di finanziamento.
+- Sono complementari, più nel ramo vita; una quota degli utili derivanti da investimenti confluisce nel saldo tecnico; la tariffa di polizza è costruita anche considerando il rendimento finanziario delle riserve tecniche.
+
+**D:** ⚠️ Quali classi compongono il passivo dello stato patrimoniale della compagnia di assicurazioni nello schema della slide 8 della lezione 23?
+**R:** **A.** Patrimonio netto; **B.** Passività subordinate; **C.** Riserve tecniche; **D.** Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; **E.** Fondi per rischi e oneri; **F.** Depositi ricevuti da riassicuratori; **G.** Debiti e altre passività; infine i ratei e risconti, che la slide segna ancora con la lettera G (slide 8).
+**Opzione:** Patrimonio netto; passività subordinate; riserve tecniche; riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; fondi per rischi e oneri; depositi ricevuti da riassicuratori; debiti e altre passività; ratei e risconti.
+**Distrattori:**
+- Patrimonio netto; passività subordinate; riserve tecniche; riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; fondi per rischi e oneri; riserve tecniche a carico dei riassicurati; debiti e altre passività; ratei e risconti.
+- Investimenti, immobilizzazioni strumentali, attività diverse e attività correnti, che sommate danno il capitale investito.
+- Redditività, sicurezza e liquidità: in teoria andrebbero massimizzati tutti e tre, ma nella realtà le assicurazioni diversificano i propri investimenti.
+
+**D:** ⚠️ Quali riserve tecniche elenca la slide 8 della lezione 23 per i rami danni e per i rami vita?
+**R:** Per i **rami danni**: **riserva premi**, **riserva sinistri**, altre riserve. Per i **rami vita**: **riserve matematiche**, **riserve per somme da pagare** (slide 8). ⚠️ Le riserve matematiche sono del vita: la loro variazione è la voce 6 del conto tecnico dei rami vita (lezione 24).
+**Opzione:** Rami danni: riserva premi, riserva sinistri, altre riserve; rami vita: riserve matematiche, riserve per somme da pagare.
+**Distrattori:**
+- Rami danni: riserve matematiche, riserve per somme da pagare; rami vita: riserva premi, riserva sinistri, altre riserve.
+- Rami danni: riserva premi, riserve matematiche, altre riserve; rami vita: riserva sinistri, riserve per somme da pagare.
+- Nell'attivo investimenti e crediti; nel passivo patrimonio netto, riserve tecniche e debiti finanziari.
+
+**D:** ⚠️ Quali aggregati compongono l'attivo nella riclassificazione dello stato patrimoniale della compagnia di assicurazioni, secondo la slide 9 della lezione 23?
+**R:** **Investimenti** (INV), **immobilizzazioni strumentali** (IS), **attività diverse** (AD) e **attività correnti** (AC), che sommati danno il **capitale investito** (CI) (slide 9).
+**Opzione:** Investimenti, immobilizzazioni strumentali, attività diverse e attività correnti, che sommate danno il capitale investito.
+**Distrattori:**
+- Investimenti, immobilizzazioni strumentali, attività diverse e attività correnti, che sommate danno le fonti di finanziamento.
+- Immobilizzazioni materiali, azioni, obbligazioni, crediti, immobilizzazioni immateriali, liquidità e altre attività: insieme sono le attività a copertura delle riserve tecniche.
+- Dal 1861, l'unificazione del Regno d'Italia: hanno sempre avuto una legislazione speciale, sia sulla vigilanza sia sulla redazione dei bilanci e la tenuta della contabilità.
+
+**D:** ⚠️ Quali aggregati compongono il passivo nella riclassificazione dello stato patrimoniale della compagnia di assicurazioni, secondo la slide 9 della lezione 23?
+**R:** **Riserve tecniche nette** (RISN), **passività consolidate** (PCO), **passività diverse** (PD) e **passività correnti** (PC), che sommate danno le **passività totali** (PT). Con il **patrimonio netto** (PN) si hanno le **fonti di finanziamento** (FF) (slide 9).
+**Opzione:** Riserve tecniche nette, passività consolidate, passività diverse e passività correnti, che sommate danno le passività totali; con il patrimonio netto si hanno le fonti di finanziamento.
+**Distrattori:**
+- Riserve tecniche nette, passività consolidate, passività diverse e passività correnti, che sommate danno le fonti di finanziamento; con il patrimonio netto si hanno le passività totali.
+- Al margine di solvibilità: un cuscinetto che assorbe eventuali errori nel calcolo dell'impatto dei rischi assunti, con la stessa funzione del patrimonio di vigilanza delle banche.
+- La tecnica riguarda la raccolta dei premi e i sinistri; la finanziaria investe i premi raccolti e disinveste quando bisogna risarcire o indennizzare l'assicurato.
+
+**D:** ⚠️ In quale aggregato della riclassificazione dello stato patrimoniale stanno le passività subordinate, secondo la slide 9 della lezione 23?
+**R:** Fra le **passività diverse** (PD), con le altre passività (slide 9). ⚠️ Nella slide 6 le passività subordinate sono invece, con il patrimonio netto, il **margine di solvibilità**.
+**Opzione:** Fra le passività diverse.
+**Distrattori:**
+- Fra le passività consolidate.
+- Fra le passività correnti.
+- Fra le riserve tecniche nette.
+
+**D:** ⚠️ In quale aggregato della riclassificazione dello stato patrimoniale stanno i titoli destinati alla vendita, secondo la slide 9 della lezione 23?
+**R:** Fra le **attività correnti** (AC), con crediti, scorte e beni diversi, disponibilità liquide, ratei e risconti (slide 9). Gli altri titoli stanno fra gli **investimenti** (INV), con terreni e fabbricati e partecipazioni.
+**Opzione:** Fra le attività correnti.
+**Distrattori:**
+- Fra gli investimenti.
+- Fra le immobilizzazioni strumentali.
+- Fra le attività diverse.
+
+## Lezione 24 — Il conto economico del bilancio della compagnia di assicurazioni
+
+**D:** ⚠️ In che cosa è diviso il conto economico della compagnia di assicurazioni, secondo il test della lezione 24 (domanda 1)?
+**R:** In **conto tecnico** e **conto non tecnico** (slide 2). Il conto tecnico contiene i risultati dei rami danni e dei rami vita; il conto non tecnico parte dal risultato della gestione tecnico-assicurativa e arriva all'utile. ⚠️ «Conto assicurativo» e «conto finanziario» non esistono: assicurativa e finanziaria sono **gestioni**, non conti. Distrattori del test: «conto assicurativo e conto tecnico», «conto assicurativo e conto finanziario», «conto finanziario e conto non tecnico».
+**Opzione:** Conto tecnico e conto non tecnico.
+**Distrattori:**
+- Conto assicurativo e conto tecnico.
+- Conto assicurativo e conto finanziario.
+- Conto finanziario e conto non tecnico.
+
+**D:** ⚠️ Da che cosa deriva il risultato della gestione tecnico-assicurativa, secondo il test della lezione 24 (domanda 2)?
+**R:** Dalla **somma del risultato del conto tecnico dei rami danni e del risultato del conto tecnico dei rami vita** (slide 2). Il conto non tecnico viene dopo: riprende i due risultati come voci 1 e 2 (slide 8) e vi aggiunge le altre voci fino all'utile. Distrattori del test: danni più conto non tecnico, vita più conto non tecnico, il solo conto tecnico dei rami vita.
+**Opzione:** Somma del risultato del conto tecnico ramo danni e del risultato del conto tecnico rami vita.
+**Distrattori:**
+- Somma del risultato del conto tecnico ramo danni e del risultato del conto non tecnico.
+- Somma del risultato del conto tecnico rami vita e del risultato del conto non tecnico.
+- Il risultato del conto tecnico rami vita.
+
+**D:** ⚠️ Che cosa esprime il saldo tecnico della riassicurazione, secondo il test della lezione 24 (domanda 3)?
+**R:** **La politica riassicurativa adottata** (slide 3). ⚠️ Il distrattore più vicino è «i rapporti con le altre compagnie di assicurazioni»: la riassicurazione passa per altre compagnie, ma la slide dice che il saldo esprime una **politica**, cioè la scelta di quanti rischi cedere. «La politica perseguita con le banche» richiama la bancassicurazione, che per il docente incide sulle spese di gestione. Distrattori del test: «la politica perseguita con le banche», «i rapporti con la vigilanza», «i rapporti con le altre compagnie di assicurazioni».
+**Opzione:** La politica riassicurativa adottata.
+**Distrattori:**
+- La politica perseguita con le banche.
+- I rapporti con la vigilanza.
+- I rapporti con le altre compagnie di assicurazioni.
+
+**D:** ⚠️ Dalla somma di quali voci deriva la gestione finanziaria della compagnia di assicurazioni, secondo il test della lezione 24 (domanda 4)?
+**R:** **Margine tecnico finanziario + risultato dell'attività di investimento assegnato al conto non tecnico per la quota riferibile al patrimonio libero di impresa** (slide 3). Il margine tecnico finanziario è il risultato degli investimenti attribuito al conto tecnico per la quota imputabile alle **riserve tecniche**. ⚠️ Il «margine **non** tecnico finanziario» non esiste; il saldo della riassicurazione e i risultati dei conti tecnici appartengono alla gestione tecnica. Distrattori del test: lo stesso con «margine non tecnico finanziario», «margine non tecnico finanziario + saldo tecnico della riassicurazione», «margine tecnico finanziario + risultato conto tecnico rami danni e vita».
+**Opzione:** Margine tecnico finanziario + risultato dell'attività di investimento assegnato al conto non tecnico per la quota riferibile al patrimonio libero di impresa.
+**Distrattori:**
+- Margine non tecnico finanziario + risultato dell'attività di investimento assegnato al conto non tecnico per la quota riferibile al patrimonio libero di impresa.
+- Margine non tecnico finanziario + saldo tecnico della riassicurazione.
+- Margine tecnico finanziario + risultato conto tecnico rami danni e vita.
+
+**D:** ⚠️ In quale parte del conto economico sono riportate le voci «altri proventi» e «altri oneri», secondo il test della lezione 24 (domanda 5)?
+**R:** Nel **conto non tecnico**: sono le voci 7 e 8 dello schema (slide 8). ⚠️ I conti tecnici hanno voci simili ma con l'aggettivo: «altri proventi **tecnici**» e «altri oneri **tecnici**» (slide 6, voci 3 e 8; slide 7, voci 4 e 11). Senza «tecnici» si è nel conto non tecnico. Distrattori del test: «conto tecnico rami danni», «conto tecnico rami vita», «patrimonio netto».
+**Opzione:** Conto non tecnico.
+**Distrattori:**
+- Conto tecnico rami danni.
+- Conto tecnico rami vita.
+- Patrimonio netto.
+
+**D:** ⚠️ Da quale normativa è disciplinato il bilancio delle compagnie di assicurazione, e che vantaggio ha portato, secondo il docente della lezione 24?
+**R:** Da una normativa speciale, il **d.lgs. 173 del 1997**, che ha recepito la direttiva comunitaria del **1991** sui conti annuali e consolidati delle imprese di assicurazione. La slide 3 della lezione 23 la indica come **91/674/CEE**, mentre il docente dice «634». Ha **omogeneizzato struttura e contenuto del bilancio a livello europeo**, rendendo più facili i confronti fra le compagnie dei diversi paesi ([00:01:15]–[00:03:59]). La legislazione precedente risaliva alla metà degli anni '70.
+**Opzione:** Dal d.lgs. 173/1997, che recepisce la direttiva del 1991 sui conti delle imprese di assicurazione; ha omogeneizzato struttura e contenuto del bilancio in Europa, facilitando i confronti fra compagnie.
+**Distrattori:**
+- Dal d.lgs. 38/2005, che recepisce la direttiva del 1991 sui conti delle imprese di assicurazione; ha omogeneizzato struttura e contenuto del bilancio in Europa, facilitando i confronti fra compagnie.
+- Procede al contrario rispetto alla formazione del conto economico, scomponendo anziché comporre i risultati, e si basa su indici invece che su dati assoluti.
+- Nella parte F della nota integrativa: capitale primario di classe 1 (CET1), capitale aggiuntivo di classe 1 (AT1), capitale di classe 2 (T2) e totale fondi propri.
+
+**D:** ⚠️ Che rapporto ha il conto economico della compagnia di assicurazioni con lo schema del codice civile, secondo il docente della lezione 24?
+**R:** Nessuno: «si distingue nettamente» dalla **quarta direttiva CEE** e dagli **artt. 2424 e 2425 del codice civile**, perché è disciplinato da una normativa speciale, il **d.lgs. 173/1997** ([00:00:52]–[00:01:15]). Ha aspetti che lo distinguono dal conto economico di tutti gli altri operatori, finanziari e non.
+**Opzione:** Si distingue nettamente dalla quarta direttiva CEE e dagli artt. 2424 e 2425 c.c., perché è disciplinato da una normativa speciale, il d.lgs. 173/1997.
+**Distrattori:**
+- Riprende la quarta direttiva CEE e gli artt. 2424 e 2425 c.c., perché la normativa speciale, il d.lgs. 173/1997, vi aggiunge solo i conti tecnici.
+- Non un valore massimo dei prestiti, ma un rapporto minimo fra patrimonio di vigilanza e attività ponderate per il rischio.
+- I tassi di decadimento dei crediti deteriorati, lordi (A1(T) − A1(T−1)) / A4(T−1) e netti (A3(T) − A3(T−1)) / A6(T−1).
+
+**D:** ⚠️ In quanti insiemi è suddiviso il conto economico della compagnia di assicurazioni, e quali sono, secondo il docente della lezione 24?
+**R:** In **tre**: il **conto tecnico dei rami danni**, il **conto tecnico dei rami vita** e il **conto non tecnico**, che riassume i risultati dei due conti tecnici e aggiunge le voci che portano all'utile o alla perdita dell'intera impresa ([00:03:59]–[00:04:17]). Sono le «tre sottosintesi» della slide 3 della lezione 23. ⚠️ I **tipi** di conto sono due, tecnico e non tecnico (slide 2), ma gli insiemi sono **tre**, perché i conti tecnici sono due.
+**Opzione:** In tre: il conto tecnico dei rami danni, il conto tecnico dei rami vita e il conto non tecnico, che riassume i risultati dei due conti tecnici e porta all'utile o alla perdita.
+**Distrattori:**
+- In tre: il conto tecnico dei rami danni, il conto tecnico dei rami vita e il conto finanziario, che riassume i risultati dei due conti tecnici e porta all'utile o alla perdita.
+- In un'unica sezione 1, rischi del gruppo bancario, con le sottosezioni 1.1 credito, 1.2 mercato, 1.3 liquidità, 1.4 operativi.
+- Indici reddituali; di efficienza operativa; di efficienza allocativa; di produttività; di composizione dei risultati reddituali.
+
+**D:** Perché il legislatore ha dato al conto economico della compagnia di assicurazioni una struttura tripartita, secondo il docente della lezione 24?
+**R:** Per **facilitarne la lettura**: rende comprensibile l'andamento economico dei **rami danni**, del **ramo vita** e dell'**impresa nel suo complesso** ([00:04:17]–[00:06:47]). Il bilancio si rivolge a una platea «potenzialmente infinita» di utenti: fisco, autorità di vigilanza, assicurati, dipendenti, altre compagnie con rapporti di riassicurazione o coassicurazione, danneggiati che devono essere risarciti. Le voci restano però tecniche, e richiedono una preparazione specialistica.
+**Opzione:** Per facilitarne la lettura: rende comprensibile l'andamento economico dei rami danni, del ramo vita e dell'impresa nel suo complesso, per una platea molto ampia di utenti.
+**Distrattori:**
+- Per facilitarne il controllo fiscale: rende verificabili le imposte dei rami danni, del ramo vita e dell'impresa nel suo complesso, a beneficio dell'amministrazione finanziaria.
+- Prestare soldi solo a chi è in grado di restituirli; si parla di deterioramento perché il credito può essere restituito solo in parte, o senza gli interessi.
+- Con modelli più sofisticati serve meno patrimonio di vigilanza a parità di rischi; con modelli standardizzati ne serve di più.
+
+**D:** ⚠️ Come è strutturato il conto economico della compagnia di assicurazioni nella slide 2 della lezione 24?
+**R:** Il **conto tecnico** contiene il risultato del conto tecnico dei **rami danni** e quello dei **rami vita**. Il **conto non tecnico** parte dal **risultato della gestione tecnico-assicurativa**, che è la loro somma, e prosegue con il risultato della **gestione ordinaria**, quello della **gestione straordinaria** e l'**utile (perdita) dell'esercizio** (slide 2).
+**Opzione:** Conto tecnico: risultati dei conti tecnici dei rami danni e dei rami vita; conto non tecnico: risultato della gestione tecnico-assicurativa, della gestione ordinaria, della gestione straordinaria e utile (perdita) dell'esercizio.
+**Distrattori:**
+- Conto tecnico: risultati dei conti tecnici dei rami danni e dei rami vita; conto non tecnico: risultato della gestione tecnico-assicurativa, della gestione ordinaria, della gestione finanziaria e utile (perdita) dell'esercizio.
+- CET1 capital ratio, capitale primario di classe 1 / attività di rischio ponderate; Tier 1 capital ratio, capitale di classe 1 / attività ponderate; Total capital ratio, totale fondi propri / attività ponderate.
+- ROE, risultato di esercizio / patrimonio netto; ROA, risultato di esercizio / totale attivo.
+
+**D:** ⚠️ Quali voci della gestione tecnica elenca la slide 3 della lezione 24, e che cosa esprime ciascuna?
+**R:** **Premi**: tipica voce di **ricavo**; **sinistri**: tipica voce di **costo**; **spese di gestione**: **costi di struttura**, influenzati da strategie distributive, assetto organizzativo e modello gestionale; **saldo tecnico della riassicurazione**: esprime la **politica riassicurativa adottata** (slide 3).
+**Opzione:** Premi, tipica voce di ricavo; sinistri, tipica voce di costo; spese di gestione, costi di struttura influenzati da strategie distributive, assetto organizzativo e modello gestionale; saldo tecnico della riassicurazione, la politica riassicurativa adottata.
+**Distrattori:**
+- Premi, tipica voce di ricavo; sinistri, tipica voce di costo; spese di gestione, costi di struttura influenzati da strategie distributive, assetto organizzativo e modello gestionale; saldo tecnico della riassicurazione, i rapporti con le altre compagnie di assicurazioni.
+- Rischio di credito e di controparte; rischio di aggiustamento della valutazione del credito; rischio di regolamento; rischi di mercato; rischio operativo.
+- Rischio di tasso di interesse e di prezzo del portafoglio di negoziazione di Vigilanza; rischio di tasso di interesse e di prezzo del portafoglio bancario; rischio di cambio; strumenti derivati.
+
+**D:** ⚠️ Qual è la tipica voce di ricavo e quale la tipica voce di costo del conto economico della compagnia di assicurazioni, secondo la slide 3 della lezione 24?
+**R:** I **premi** sono la tipica voce di **ricavo**, i **sinistri** la tipica voce di **costo**, nel ramo danni come nel ramo vita (slide 3). Il sinistro è ciò che la compagnia deve pagare all'assicurato, o ai terzi danneggiati dall'assicurato, in base ai contratti ([00:08:05]).
+**Opzione:** I premi sono la tipica voce di ricavo, i sinistri la tipica voce di costo.
+**Distrattori:**
+- I sinistri sono la tipica voce di ricavo, i premi la tipica voce di costo.
+- Parte E.
+- La politica riassicurativa adottata.
+
+**D:** ⚠️ Su che cosa informa la voce premi della compagnia di assicurazioni, secondo la slide 3 della lezione 24?
+**R:** I premi sono la **tipica voce di ricavo** e informano sul **posizionamento competitivo in termini di quota di mercato**, sulla **diversificazione geografica**, sulla **diversificazione di prodotto** e sulla **ripartizione del portafoglio per area di business, danni e vita** (slide 3). Per il docente queste informazioni accessorie si ritrovano nella nota integrativa ([00:08:05]).
+**Opzione:** Sul posizionamento competitivo in termini di quota di mercato, sulla diversificazione geografica, sulla diversificazione di prodotto e sulla ripartizione del portafoglio per area di business danni e vita.
+**Distrattori:**
+- Sul posizionamento competitivo in termini di quota di mercato, sulla diversificazione geografica, sulla diversificazione di prodotto e sulla politica riassicurativa adottata.
+- Rischi di mercato: metodologia standard, modelli interni, rischio di concentrazione; rischio operativo: metodo base, metodo standardizzato, metodo avanzato.
+- Sezione 1 rischio di credito; sezione 2 rischi di mercato; sezione 3 rischio di liquidità; sezione 4 rischi operativi.
+
+**D:** ⚠️ Da che cosa sono influenzate le spese di gestione della compagnia di assicurazioni, secondo la slide 3 della lezione 24?
+**R:** Sono **costi di struttura** influenzati da **strategie distributive**, **assetto organizzativo** e **modello gestionale** (slide 3). Il docente fa esempi per ciascuno: rete agenziale, bancassicurazione, vendita telefonica; struttura classica o polizze online; governance e organizzazione per divisioni, funzioni o team ([00:08:05]–[00:15:34]).
+**Opzione:** Sono costi di struttura influenzati da strategie distributive, assetto organizzativo e modello gestionale.
+**Distrattori:**
+- Sono costi di struttura influenzati da strategie distributive, assetto organizzativo e politica riassicurativa.
+- I rischi operativi e i rischi di mercato.
+- Indicatori di stock.
+
+**D:** Che cos'è la bancassicurazione, secondo il docente della lezione 24?
+**R:** È l'integrazione fra prodotti bancari e prodotti assicurativi: una banca si integra con una compagnia di assicurazione, «quasi sempre fondendola al proprio interno», e vende prodotti assicurativi sulla propria **rete** e sul proprio **sito internet**, agli stessi clienti della banca ([00:09:52]). È una delle strategie distributive che influenzano le spese di gestione.
+**Opzione:** L'integrazione fra prodotti bancari e assicurativi: la banca incorpora quasi sempre una compagnia e vende polizze sulla propria rete e sul proprio sito, agli stessi clienti.
+**Distrattori:**
+- L'integrazione fra prodotti bancari e assicurativi: la compagnia incorpora quasi sempre una banca e vende conti correnti sulla propria rete agenziale, agli stessi assicurati.
+- Negarle il finanziamento, concederne uno più basso, alzare il tasso di interesse o chiedere garanzie come fideiussioni, ipoteche e pegni.
+- Ricapitalizzarsi o cedere parte delle attività ponderate per il rischio; altrimenti la Banca d'Italia può sospenderne l'attività.
+
+**D:** Quale assetto organizzativo descrive il docente della lezione 24 come meno costoso, e come funziona?
+**R:** Le **polizze online**, «un pochino più disumanizzanti, ma sicuramente meno costose», di grande successo negli ultimi anni. L'intervento umano della compagnia è ridotto al minimo: l'utente fa tutto sulla piattaforma internet, sottoscrive e rinvia il contratto per via telematica, e la polizza decorre dal **pagamento del premio**, con bonifico o carta di credito. L'alternativa è l'assetto classico, con molto personale e rapporto diretto con l'assicurato ([00:11:54]).
+**Opzione:** Le polizze online: l'intervento umano è ridotto al minimo, l'utente fa tutto sulla piattaforma internet e la polizza decorre dal pagamento del premio.
+**Distrattori:**
+- La vendita tramite call center: l'intervento umano è ridotto al minimo, l'utente fa tutto al telefono e la polizza decorre dalla telefonata.
+- La standardizzata usa coefficienti fissi uguali per tutti, adatta alle banche piccole; quella a rating interni assegna a ogni cliente un rating della banca, con analisi statistiche.
+- Perché la situazione del debitore può deteriorarsi e serve un monitoraggio continuo; anche il ritardo di una settimana su una rata è un primo campanello d'allarme, e il credito va svalutato almeno in parte.
+
+**D:** Che cos'è la riassicurazione, e come si calcola il saldo tecnico della riassicurazione, secondo il docente della lezione 24?
+**R:** La **riassicurazione** è la modalità con cui una parte dei contratti assicurativi viene **ceduta a terzi**, i riassicuratori, che si prendono il rischio ultimo in cambio di un premio. Il **saldo tecnico della riassicurazione** è la **differenza fra gli oneri e i proventi di riassicurazione** ([00:11:54], [00:16:10]). Nella riassicurazione **attiva** è invece la compagnia a prendere contratti ceduti da un'altra, che così migliora il proprio profilo di rischio. Per la slide 3 il saldo esprime la politica riassicurativa adottata.
+**Opzione:** La riassicurazione è la cessione a terzi, i riassicuratori, di una parte dei contratti; il saldo tecnico della riassicurazione è la differenza fra oneri e proventi di riassicurazione.
+**Distrattori:**
+- La riassicurazione è la cessione a terzi, i riassicuratori, di una parte dei contratti; il saldo tecnico della riassicurazione è la differenza fra premi emessi e sinistri pagati.
+- Sono costi di struttura influenzati da strategie distributive, assetto organizzativo e modello gestionale.
+- Il patrimonio che non attiene alle riserve tecniche, cioè i conferimenti dei soci e gli utili non distribuiti; i proventi del suo investimento vanno al conto non tecnico.
+
+**D:** ⚠️ Quali voci della gestione finanziaria elenca la slide 3 della lezione 24?
+**R:** Il **margine tecnico finanziario**: risultato dell'attività di investimento **attribuito al conto tecnico** per la quota imputabile alle **riserve tecniche**; e il **risultato dell'attività di investimento assegnato al conto non tecnico** per la quota riferibile al **patrimonio libero di impresa** (slide 3).
+**Opzione:** Il margine tecnico finanziario, risultato dell'attività di investimento attribuito al conto tecnico per la quota imputabile alle riserve tecniche; e il risultato dell'attività di investimento assegnato al conto non tecnico per la quota riferibile al patrimonio libero di impresa.
+**Distrattori:**
+- Il margine tecnico finanziario, risultato dell'attività di investimento attribuito al conto tecnico per la quota riferibile al patrimonio libero di impresa; e il risultato dell'attività di investimento assegnato al conto non tecnico per la quota imputabile alle riserve tecniche.
+- Margine di interesse / totale attivo (formazione del margine di interesse) e margine di intermediazione / margine di interesse (altri ricavi netti).
+- MINT = rm·AF − cm·PO; lo spread è s = rm − cm, la differenza fra rendimento medio delle attività fruttifere e costo medio delle passività onerose.
+
+**D:** ⚠️ Che cosa si intende per patrimonio libero dell'impresa di assicurazione, e dove va il risultato del suo investimento, secondo il docente della lezione 24?
+**R:** È il patrimonio che **non attiene alle riserve tecniche**: i soldi messi dai **soci** e gli **utili non distribuiti** accumulati negli anni; il docente lo chiama anche **free capital**. I proventi del suo investimento vanno al **conto non tecnico**, perché non derivano dalla gestione tecnica del ramo danni o del ramo vita ([00:11:54]–[00:15:34]). ⚠️ Nella lezione 21 il patrimonio libero della banca era un'altra cosa: AF − PO = PN − AI.
+**Opzione:** Il patrimonio che non attiene alle riserve tecniche, cioè i conferimenti dei soci e gli utili non distribuiti; i proventi del suo investimento vanno al conto non tecnico.
+**Distrattori:**
+- Il patrimonio che non attiene alle riserve tecniche, cioè i conferimenti dei soci e gli utili non distribuiti; i proventi del suo investimento vanno al conto tecnico dei rami vita.
+- Il risultato d'esercizio, ultima voce del conto economico e prima voce, al numeratore, dell'albero del ROE.
+- Da common equity tier, tier 1 e tier 2, aggregati via via più ampi con voci di patrimonio e di debito; è quasi sempre più ampio del patrimonio netto, e la componente più significativa è il capitale sociale.
+
+**D:** ⚠️ Che cosa sono il margine di sottoscrizione e il margine tecnico-finanziario nel conto economico del ramo danni della slide 4 della lezione 24?
+**R:** Il **margine di sottoscrizione** è il **saldo tecnico assicurativo dei rami danni**, che segue premi emessi, sinistri, provvigioni di acquisizione e incasso, altre spese di gestione e saldo tecnico della riassicurazione. Aggiungendo la **quota degli utili degli investimenti trasferita al conto tecnico** si ottiene il **saldo tecnico totale dei rami danni**, cioè il **margine tecnico-finanziario** (slide 4). ⚠️ Nella slide 3 il «margine tecnico finanziario» è invece il solo risultato degli investimenti attribuito al conto tecnico.
+**Opzione:** Il margine di sottoscrizione è il saldo tecnico assicurativo dei rami danni; aggiungendo la quota degli utili degli investimenti trasferita al conto tecnico si ottiene il saldo tecnico totale dei rami danni, cioè il margine tecnico-finanziario.
+**Distrattori:**
+- Il margine tecnico-finanziario è il saldo tecnico assicurativo dei rami danni; aggiungendo la quota degli utili degli investimenti trasferita al conto tecnico si ottiene il saldo tecnico totale dei rami danni, cioè il margine di sottoscrizione.
+- Il primo dipende da rettifiche, oneri/proventi straordinari ed effetto fiscale; il secondo misura l'efficienza operativa.
+- Rettifiche specifiche / crediti deteriorati lordi verso clientela (A2/A1): quante perdite sono state registrate a fronte dei crediti deteriorati.
+
+**D:** ⚠️ Che differenza c'è fra il conto economico gestionale del ramo danni e quello del ramo vita nella collocazione degli utili da investimento, secondo le slide 4–5 della lezione 24?
+**R:** Nel **ramo danni** il saldo tecnico assicurativo, o margine di sottoscrizione, si calcola **prima** degli investimenti; poi si aggiunge la **quota degli utili degli investimenti trasferita al conto tecnico** (slide 4). Nel **ramo vita** gli **utili investimento**, rendimento delle riserve tecniche, stanno **dentro** la parte tecnica, prima del saldo tecnico della riassicurazione e del saldo tecnico dei rami vita; dopo si toglie la **quota degli utili degli investimenti trasferita al conto non tecnico** (slide 5).
+**Opzione:** Nel ramo danni la quota degli utili degli investimenti viene trasferita al conto tecnico dopo il margine di sottoscrizione; nel ramo vita gli utili da investimento stanno dentro il saldo tecnico, e una quota viene trasferita al conto non tecnico.
+**Distrattori:**
+- Nel ramo vita la quota degli utili degli investimenti viene trasferita al conto tecnico dopo il margine di sottoscrizione; nel ramo danni gli utili da investimento stanno dentro il saldo tecnico, e una quota viene trasferita al conto non tecnico.
+- Crediti deteriorati lordi / crediti lordi verso clientela, A1/(A1+A4); crediti deteriorati netti / crediti netti verso clientela, A3/(A3+A6).
+- Si applicano al CET1 lordo i filtri prudenziali, poi si tolgono gli elementi da dedurre e si aggiunge o toglie l'impatto del regime transitorio.
+
+**D:** ⚠️ Nei conti economici gestionali delle slide 4–5 della lezione 24, a quale concetto corrispondono la quota degli utili trasferita al conto tecnico e il saldo della gestione finanziaria non attribuita al conto tecnico?
+**R:** Nel ramo danni la **quota utili investimento trasferita al conto tecnico** è il **rendimento delle riserve tecniche**; il **saldo della gestione finanziaria non attribuita al conto tecnico** è il **rendimento del free capital** (slide 4). Nel ramo vita gli **utili investimento** sono il rendimento delle riserve tecniche e la **quota utili investimento trasferita al conto non tecnico** è il rendimento del free capital (slide 5).
+**Opzione:** La quota trasferita al conto tecnico è il rendimento delle riserve tecniche; il saldo della gestione finanziaria non attribuita al conto tecnico è il rendimento del free capital.
+**Distrattori:**
+- La quota trasferita al conto tecnico è il rendimento del free capital; il saldo della gestione finanziaria non attribuita al conto tecnico è il rendimento delle riserve tecniche.
+- L'integrazione fra prodotti bancari e assicurativi: la banca incorpora quasi sempre una compagnia e vende polizze sulla propria rete e sul proprio sito, agli stessi clienti.
+- Le polizze online: l'intervento umano è ridotto al minimo, l'utente fa tutto sulla piattaforma internet e la polizza decorre dal pagamento del premio.
+
+**D:** ⚠️ In quale direzione si possono trasferire le quote di utili degli investimenti fra conti tecnici e conto non tecnico, secondo il docente della lezione 24?
+**R:** Per il **ramo danni** in **andata e ritorno**: anche dal conto non tecnico al conto tecnico, per sostenere un ramo che di norma è deficitario. Per il **ramo vita** **solo verso il conto non tecnico**, e solo per gli utili realizzati con il **patrimonio libero** (free capital): gli utili degli investimenti delle riserve tecniche vita «non si trasferiscono mai» ([00:15:34]–[00:20:20]). Gli schemi sono coerenti: «+/–» nel conto tecnico danni (slide 6, voce 2), «(–)» nel conto tecnico vita (slide 7, voce 12).
+**Opzione:** Per il ramo danni in entrambe le direzioni, anche dal conto non tecnico al conto tecnico per sostenerlo; per il ramo vita solo verso il conto non tecnico, per gli utili realizzati con il patrimonio libero.
+**Distrattori:**
+- Per il ramo vita in entrambe le direzioni, anche dal conto non tecnico al conto tecnico per sostenerlo; per il ramo danni solo verso il conto non tecnico, per gli utili realizzati con il patrimonio libero.
+- Individuazione del rischio; misurazione del rischio; gestione, cioè mitigazione, del rischio; follow up, cioè la verifica degli effetti della gestione.
+- Perché i depositi sono stati in gran parte prestati alle imprese: su 100 di depositi la banca ha fisicamente 1–1,5, e se molti depositanti chiedessero insieme i loro soldi fallirebbe.
+
+**D:** ⚠️ Perché si trasferiscono utili degli investimenti dal conto non tecnico al conto tecnico del ramo danni, e si tratta di un obbligo, secondo il docente della lezione 24?
+**R:** Per **supportare il rendimento del ramo danni**, che normalmente è **deficitario** ([00:15:34]). Non è un obbligo: è «una **scelta gestionale** di chi predispone il bilancio per dare una maggiore sostenibilità alla redditività tecnica del ramo danni» ([00:16:10]). Anche il trasferimento degli utili del free capital del vita al conto non tecnico «non è obbligatorio».
+**Opzione:** Per supportare il rendimento del ramo danni, che normalmente è deficitario: è una scelta gestionale di chi redige il bilancio.
+**Distrattori:**
+- Per supportare il rendimento del ramo danni, che normalmente è deficitario: è un obbligo fissato dal d.lgs. 173/1997.
+- Che il patrimonio di vigilanza fosse almeno l'8% delle attività ponderate per il rischio, a fronte dei soli rischi di credito e di controparte.
+- Il rischio di credito è la mancata restituzione di capitale e interessi, quello di controparte la non affidabilità del soggetto; si misurano in termini qualitativi e quantitativi.
+
+**D:** ⚠️ Quali voci compongono il conto tecnico dei rami danni nello schema della slide 6 della lezione 24?
+**R:** 1. Premi di competenza; 2. +/– quota dell'utile degli investimenti trasferita dal conto non tecnico; 3. Altri proventi tecnici; 4. Oneri relativi ai sinistri; 5. Variazioni delle altre riserve tecniche; 6. Ristorni e partecipazioni agli utili; 7. Spese di gestione; 8. Altri oneri tecnici; 9. Variazione delle riserve di perequazione; poi il risultato del conto tecnico dei rami danni (slide 6).
+**Opzione:** Premi di competenza; +/– quota dell'utile degli investimenti trasferita dal conto non tecnico; altri proventi tecnici; oneri relativi ai sinistri; variazioni delle altre riserve tecniche; ristorni e partecipazioni agli utili; spese di gestione; altri oneri tecnici; variazione delle riserve di perequazione.
+**Distrattori:**
+- Premi di competenza; +/– quota dell'utile degli investimenti trasferita dal conto non tecnico; altri proventi tecnici; oneri relativi ai sinistri; variazioni delle altre riserve tecniche; ristorni e partecipazioni agli utili; spese di gestione; altri oneri tecnici; variazione delle riserve matematiche.
+- Per portafogli e per qualità creditizia: per le attività deteriorate esposizione lorda, rettifiche specifiche ed esposizione netta; per le altre attività esposizione lorda, rettifiche di portafoglio ed esposizione netta.
+- Rettifiche nette per deterioramento / margine di intermediazione e rettifiche nette per deterioramento / totale attivo: più sono alti, minore è l'efficienza allocativa.
+
+**D:** ⚠️ Quali voci compongono il conto tecnico dei rami vita nello schema della slide 7 della lezione 24?
+**R:** 1. Premi dell'esercizio; 2. Proventi da investimenti; 3. Proventi e plusvalenze non realizzate relativi a investimenti a beneficio di assicurati i quali ne sopportano il rischio e a investimenti derivanti dalla gestione dei fondi pensione; 4. Altri proventi tecnici; 5. Oneri relativi ai sinistri; 6. Variazione delle riserve matematiche e delle altre riserve tecniche; 7. Ristorni e partecipazioni agli utili; 8. Spese di gestione; 9. Oneri patrimoniali e finanziari; 10. Oneri patrimoniali e finanziari e minusvalenze non realizzate relativi a investimenti a beneficio di assicurati i quali ne sopportano il rischio e a investimenti derivanti dalla gestione dei fondi pensione; 11. Altri oneri tecnici; 12. (–) quota dell'utile degli investimenti trasferita al conto non tecnico; poi il risultato del conto tecnico dei rami vita (slide 7).
+
+**D:** ⚠️ Quali voci del conto tecnico dei rami vita riguardano gli investimenti il cui rischio è sopportato dagli assicurati, e di quali polizze si tratta, secondo la lezione 24?
+**R:** La voce 3, «**proventi e plusvalenze non realizzate** relativi a investimenti a beneficio di assicurati i quali ne sopportano il rischio e a investimenti derivanti dalla gestione dei fondi pensione», e la voce 10, «**oneri patrimoniali e finanziari e minusvalenze non realizzate**» relativi agli stessi investimenti (slide 7). Per il docente sono polizze come le **unit linked** e le **index linked**, in cui il rischio della perdita del capitale è a carico degli assicurati ([00:20:20]).
+**Opzione:** Proventi e plusvalenze non realizzate (voce 3) e oneri patrimoniali e finanziari e minusvalenze non realizzate (voce 10); sono polizze come le unit linked e le index linked, con il rischio a carico degli assicurati.
+**Distrattori:**
+- Proventi e plusvalenze non realizzate (voce 3) e oneri patrimoniali e finanziari e minusvalenze non realizzate (voce 10); sono polizze come le unit linked e le index linked, con il rischio a carico della compagnia.
+- Sommando il totale del capitale primario di classe 1 (CET1), il totale del capitale aggiuntivo di classe 1 (AT1) e il totale del capitale di classe 2 (T2).
+- La metodologia standardizzata e quella basata sui rating interni, nelle versioni base e avanzata; a parte le cartolarizzazioni.
+
+**D:** ⚠️ Quali voci del conto non tecnico portano al risultato dell'attività ordinaria, secondo la slide 8 della lezione 24?
+**R:** Le prime otto: 1. Risultato del conto tecnico dei rami danni; 2. Risultato del conto tecnico dei rami vita; 3. Proventi da investimenti dei rami danni; 4. Quota dell'utile degli investimenti trasferita dal conto tecnico dei rami vita; 5. Oneri patrimoniali e finanziari dei rami danni; 6. Quota dell'utile degli investimenti trasferita dal conto tecnico dei rami danni; 7. Altri proventi; 8. Altri oneri. La loro somma algebrica è il **risultato dell'attività ordinaria** (voce 9), che per il docente si può considerare un risultato operativo (slide 8; [00:20:20]). Sulla voce 6 la nota ha un'integrazione ℹ️.
+**Opzione:** Risultato del conto tecnico dei rami danni; risultato del conto tecnico dei rami vita; proventi da investimenti dei rami danni; quota dell'utile degli investimenti trasferita dal conto tecnico dei rami vita; oneri patrimoniali e finanziari dei rami danni; quota dell'utile degli investimenti trasferita dal conto tecnico dei rami danni; altri proventi; altri oneri.
+**Distrattori:**
+- Risultato del conto tecnico dei rami danni; risultato del conto tecnico dei rami vita; proventi da investimenti dei rami danni; quota dell'utile degli investimenti trasferita dal conto tecnico dei rami vita; oneri patrimoniali e finanziari dei rami danni; quota dell'utile degli investimenti trasferita dal conto tecnico dei rami danni; altri proventi tecnici; altri oneri tecnici.
+- Rischi di mercato: metodologia standard, modelli interni, rischio di concentrazione; rischio operativo: metodo base, metodo standardizzato, metodo avanzato.
+- CET1 capital ratio, capitale primario di classe 1 / attività di rischio ponderate; Tier 1 capital ratio, capitale di classe 1 / attività ponderate; Total capital ratio, totale fondi propri / attività ponderate.
+
+**D:** ⚠️ Come si arriva dal risultato dell'attività ordinaria all'utile (perdita) dell'esercizio nel conto non tecnico, secondo la slide 8 della lezione 24?
+**R:** 10. **Proventi straordinari**; 11. **Oneri straordinari**; 12. **Risultato dell'attività straordinaria**; 13. **Risultato prima delle imposte**, somma algebrica del risultato dell'attività ordinaria e di quello straordinario; 14. **Imposte sul reddito dell'esercizio**; infine l'**utile (perdita) dell'esercizio** (slide 8; [00:20:20]).
+**Opzione:** Proventi straordinari; oneri straordinari; risultato dell'attività straordinaria; risultato prima delle imposte; imposte sul reddito dell'esercizio; utile (perdita) dell'esercizio.
+**Distrattori:**
+- Proventi straordinari; oneri straordinari; risultato dell'attività straordinaria; risultato prima delle imposte; ammortamenti; utile (perdita) dell'esercizio.
+- I tassi di decadimento dei crediti deteriorati, lordi (A1(T) − A1(T−1)) / A4(T−1) e netti (A3(T) − A3(T−1)) / A6(T−1).
+- In un'unica sezione 1, rischi del gruppo bancario, con le sottosezioni 1.1 credito, 1.2 mercato, 1.3 liquidità, 1.4 operativi.
+
+**D:** ⚠️ In quale conto stanno i proventi da investimenti del ramo vita e quelli dei rami danni, negli schemi di legge della lezione 24?
+**R:** I **proventi da investimenti** del **ramo vita** stanno nel **conto tecnico dei rami vita** (slide 7, voce 2). Quelli dei **rami danni** stanno nel **conto non tecnico** (slide 8, voce 3), da cui una quota può essere trasferita al conto tecnico dei rami danni (slide 6, voce 2). Lo stesso vale per gli **oneri patrimoniali e finanziari**: voce 9 del conto tecnico vita, voce 5 del conto non tecnico per i danni.
+**Opzione:** Quelli del ramo vita nel conto tecnico dei rami vita; quelli dei rami danni nel conto non tecnico, da cui una quota può essere trasferita al conto tecnico dei rami danni.
+**Distrattori:**
+- Quelli dei rami danni nel conto tecnico dei rami danni; quelli del ramo vita nel conto non tecnico, da cui una quota può essere trasferita al conto tecnico dei rami vita.
+- Rettifiche specifiche / crediti deteriorati lordi verso clientela (A2/A1): quante perdite sono state registrate a fronte dei crediti deteriorati.
+- La standardizzata usa coefficienti fissi uguali per tutti, adatta alle banche piccole; quella a rating interni assegna a ogni cliente un rating della banca, con analisi statistiche.
+
+**D:** Che cosa sono i ristorni e le partecipazioni agli utili, voce dei due conti tecnici, secondo il docente della lezione 24?
+**R:** Sono le quote di utile riconosciute agli assicurati che sono anche **soci**, nelle **società di mutua assicurazione**: l'esempio del docente è la Reale Mutua ([00:16:10], [00:20:20]). Compaiono in entrambi i conti tecnici (slide 6, voce 6; slide 7, voce 7).
+**Opzione:** Le quote di utile riconosciute agli assicurati che sono anche soci, nelle società di mutua assicurazione.
+**Distrattori:**
+- Le quote di utile riconosciute agli azionisti come dividendo, nelle società per azioni.
+- Parte E.
+- Conto non tecnico.
+
+**D:** ⚠️ Come si articola la riclassificazione del conto economico della compagnia di assicurazioni fino al risultato tecnico, secondo la slide 9 della lezione 24?
+**R:** **Premi al netto della riassicurazione** (Pn), **sinistri netti pagati** (Sn), **variazione delle riserve tecniche al netto della riassicurazione** (RISN), **oneri di acquisizione netti** (Oan), **altri proventi e oneri tecnici netti** (Pon): ne risulta il **risultato tecnico** (RT). Ogni voce è distinta fra rami danni e rami vita (slide 9). Per il docente il risultato tecnico è assimilabile al margine operativo lordo, o margine industriale ([00:20:20]). ⚠️ Il docente dice «sinistri netti di competenza», la slide «sinistri netti **pagati**».
+**Opzione:** Premi al netto della riassicurazione; sinistri netti pagati; variazione delle riserve tecniche al netto della riassicurazione; oneri di acquisizione netti; altri proventi e oneri tecnici netti; ne risulta il risultato tecnico.
+**Distrattori:**
+- Premi al netto della riassicurazione; sinistri netti pagati; variazione delle riserve tecniche al netto della riassicurazione; oneri di acquisizione netti; spese generali; ne risulta il risultato tecnico.
+- Negarle il finanziamento, concederne uno più basso, alzare il tasso di interesse o chiedere garanzie come fideiussioni, ipoteche e pegni.
+- Ricapitalizzarsi o cedere parte delle attività ponderate per il rischio; altrimenti la Banca d'Italia può sospenderne l'attività.
+
+**D:** ⚠️ Come si passa dal risultato tecnico all'utile (perdita) di esercizio nella riclassificazione della slide 9 della lezione 24?
+**R:** Dal **risultato tecnico** (RT), con le **spese generali** (SG) e gli **altri proventi e oneri** (APO), si ha il **risultato della gestione assicurativa** (RGA). I **proventi patrimoniali** (PP) meno gli **oneri patrimoniali** (OP) danno il **risultato della gestione finanziaria** (RF). I **proventi e oneri straordinari** (POS) danno il **risultato della gestione straordinaria** (RGS). Si arriva così al **risultato lordo imposte** (RLI) e, tolte le imposte (T), all'**utile (perdita) di esercizio** (RN) (slide 9; [00:20:20]). Per il docente il RGA è assimilabile al risultato operativo lordo.
+**Opzione:** Risultato tecnico, spese generali e altri proventi e oneri danno il risultato della gestione assicurativa; proventi e oneri patrimoniali il risultato della gestione finanziaria; con la gestione straordinaria si ha il risultato lordo imposte, e tolte le imposte l'utile.
+**Distrattori:**
+- Risultato tecnico, spese generali e altri proventi e oneri danno il risultato della gestione finanziaria; proventi e oneri patrimoniali il risultato della gestione assicurativa; con la gestione straordinaria si ha il risultato lordo imposte, e tolte le imposte l'utile.
+- Non un valore massimo dei prestiti, ma un rapporto minimo fra patrimonio di vigilanza e attività ponderate per il rischio.
+- Perché la situazione del debitore può deteriorarsi e serve un monitoraggio continuo; anche il ritardo di una settimana su una rata è un primo campanello d'allarme, e il credito va svalutato almeno in parte.
+
+**D:** ⚠️ Che differenza c'è fra il risultato della gestione tecnico-assicurativa della slide 2 e il risultato della gestione assicurativa della riclassificazione della slide 9, nella lezione 24?
+**R:** Il **risultato della gestione tecnico-assicurativa** (slide 2) è la somma dei risultati dei due **conti tecnici**, danni e vita, dello schema di legge, che contengono anche quote dei rendimenti degli investimenti. Il **risultato della gestione assicurativa** (RGA, slide 9) è un margine della riclassificazione: risultato tecnico meno spese generali, più o meno altri proventi e oneri, **senza** proventi e oneri patrimoniali, che formano a parte il risultato della gestione finanziaria. I nomi sono simili, ma gli aggregati sono diversi.
+
+**D:** Perché, secondo il docente della lezione 24, è utile riclassificare il conto economico della compagnia di assicurazioni?
+**R:** Perché la riclassificazione **non tiene conto della ripartizione** fra conti tecnici e conto non tecnico e dà una **visione unitaria** dell'aspetto economico, senza spezzettare il risultato fra danni, vita e gestione non tecnica: è più utile in una **logica gestionale**. Lo schema del d.lgs. 173/1997 resta invece più utile in una **logica di comunicazione dei dati** ([00:20:20]).
+**Opzione:** Perché dà una visione unitaria, senza spezzare il risultato fra danni, vita e conto non tecnico: è più utile in una logica gestionale, mentre lo schema di legge serve alla comunicazione dei dati.
+**Distrattori:**
+- Perché dà una visione unitaria, senza spezzare il risultato fra danni, vita e conto non tecnico: è più utile in una logica di comunicazione dei dati, mentre lo schema di legge serve alla gestione.
+- Composizione dei risultati reddituali.
+- Indicatori di stock.
