@@ -8994,3 +8994,1074 @@
 - Al fair value, in conformità allo IAS 16; l'aggiornamento del fair value si rileva nelle sottovoci B.3 e C.3, variazioni positive e negative.
 - Al fair value, in conformità allo IAS 40; l'aggiornamento del fair value si rileva nelle sottovoci B.4 e C.4, variazioni positive e negative.
 - Al costo, in conformità allo IAS 40; l'aggiornamento del valore si rileva nelle sottovoci C.2 e C.4, ammortamenti e rettifiche di valore.
+
+## Lezione 35 — La Nota Integrativa del bilancio della banca. La redditività e le politiche di copertura
+
+**D:** ⚠️ Che cosa chiede il test di autovalutazione della lezione 35, e quale delle sue chiavi è sbagliata?
+**R:** Le **5** domande di fine lezione della 35 sono **identiche** a quelle della lezione 34, come mostrano le schermate dell'utente: stesse domande, stesse opzioni nello stesso ordine, stesse chiavi. Anche il «Paragrafo di riferimento» è quello della 34 («I derivati, le partecipazioni e le attività materiali»). Chiedono in che cosa si dividono i derivati di copertura («derivati finanziari e derivati creditizi»), a quale rischio si riferisce la copertura generica («rischio di interesse») e se l'impairment test si applica alle partecipazioni («sì»). Chiedono poi come sono valutate le attività materiali ad uso funzionale, «al costo storico», chiave ⚠️ parziale perché la parte maggiore è rivalutata, e quelle a scopo di investimento. 🚨 Nella **domanda 5** la piattaforma segna di nuovo «al costo storico», ma per la slide 18 della lezione 34 le attività a scopo di investimento «sono valutate al fair value, in conformità allo IAS 40»: nel merito la risposta è «al fair value». Le slide della 35 non spostano nessuna chiave. Le card del test, con i distrattori della piattaforma, sono nella sezione della lezione 34.
+
+**D:** Che cosa significa, secondo il docente della lezione 35, che il conto economico della banca è scalare?
+**R:** Che è «un conto economico che **parte dalle voci di ricavo** e via via **sottrae** a queste voci i relativi **costi** e quindi fa emergere una serie di **margini**, cioè di differenze» ([00:00:31]). I margini evidenziano la redditività di ciascuna componente e poi la redditività complessiva dell'esercizio. Come lo stato patrimoniale, anche il conto economico è analizzato e dettagliato nella nota integrativa, che ne spiega le singole voci.
+**Opzione:** Che parte dalle voci di ricavo e via via sottrae i relativi costi, facendo emergere una serie di margini.
+**Distrattori:**
+- Che parte dalle voci di costo e via via sottrae i relativi ricavi, facendo emergere una serie di margini.
+- Perché la struttura non è libera: la predispone la Circolare 262 del 2005 della Banca d'Italia, e la banca vi inserisce i valori.
+- Se i flussi pagati sono solo interessi e capitale; si fonda sulla prevalenza della sostanza sulla forma, per scoprire un prestito mascherato.
+
+**D:** ⚠️ Quali sono i tre motori dei ricavi della banca, secondo il docente della lezione 35?
+**R:** «I tre motori che caratterizzano i ricavi e quindi anche la capacità economica di una banca» sono: l'attività di **intermediazione**, «quindi raccolta del denaro e prestito del denaro»; l'attività di **servizi**, cioè la prestazione di servizi bancari; l'attività di **trading** sul mercato, cioè acquisto e vendita di azioni, titoli, obbligazioni «e quant'altro». Il trading si fa per sfruttare i dividendi o gli interessi, «ovvero più spesso anche per sfruttare gli andamenti di mercato» ([00:01:33]–[00:02:35]). Le tre aree sono evidenziate nelle voci del conto economico scalare ([00:03:00]). ⚠️ Gli interessi attivi su leasing finanziario mostrano per il docente che la banca svolge «anche» l'attività di leasing ([00:08:29]), ma il leasing non è uno dei tre motori.
+**Opzione:** L'intermediazione, cioè raccolta e prestito del denaro; la prestazione di servizi bancari; il trading sul mercato, cioè acquisto e vendita di azioni, titoli e obbligazioni.
+**Distrattori:**
+- L'intermediazione, cioè raccolta e prestito del denaro; la prestazione di servizi bancari; il leasing finanziario, cioè la concessione di beni in locazione finanziaria.
+- Finanziamenti: soprattutto società non finanziarie, poi famiglie; titoli di debito: soprattutto amministrazioni pubbliche.
+- Private equity e venture capital per 798 milioni, fondi immobiliari per 396, private debt per 351, hedge fund per 199, infrastrutture per 163, altri fondi azionari per 64.
+
+**D:** ⚠️ Quanto valgono gli interessi attivi del 2021, e quale forma tecnica ne è la voce principale, secondo la tabella della slide 2 della lezione 35?
+**R:** Il totale è **8.259 milioni** (7.265 nel 2020). La voce principale sono i **finanziamenti verso clientela**, **6.717 milioni**, dentro i 7.236 dei crediti verso clientela al costo ammortizzato. Per forma tecnica i titoli di debito danno 886 milioni, i finanziamenti 6.918, le altre operazioni −990. Per il docente i finanziamenti verso la clientela sono i prestiti onerosi che la banca eroga a terzi, «quasi sempre imprese o famiglie o enti» ([00:04:43]).
+**Opzione:** 8.259 milioni; la voce principale sono i finanziamenti verso clientela, 6.717 milioni.
+**Distrattori:**
+- 7.265 milioni; la voce principale sono i finanziamenti verso clientela, 6.734 milioni.
+- 8.259 milioni; la voce principale sono i titoli di debito verso clientela, 519 milioni.
+- 8.259 milioni; la voce principale sono i finanziamenti verso banche, 164 milioni.
+
+**D:** ⚠️ Perché la riga «Passività finanziarie» compare fra gli interessi attivi, e quanto vi pesano le TLTRO, secondo la slide 2 della lezione 35?
+**R:** Perché nella voce «Passività finanziarie» «sono inclusi gli interessi su operazioni di **raccolta con tassi negativi**»: **1.445 milioni** nel 2021 (748 nel 2020). «In tale ambito, sono stati rilevati interessi attivi su operazioni di finanziamento **TLTRO** per complessivi **1.162 milioni** nell'esercizio 2021», maturati sulle operazioni **TLTRO III**. Gli interessi sono stati rilevati nel presupposto del conseguimento dei benchmark previsti, che sono stati effettivamente raggiunti. Per il docente le passività finanziarie sono quelle che consentono la raccolta con tassi negativi, e le «TL e TRO» sono finanziamenti della BCE a medio e lungo termine, per evitare alle banche problemi di liquidità ([00:07:13]).
+**Opzione:** Perché vi sono inclusi gli interessi su operazioni di raccolta con tassi negativi: 1.445 milioni, di cui 1.162 sulle operazioni TLTRO III.
+**Distrattori:**
+- Perché vi sono inclusi gli interessi su operazioni di impiego con tassi negativi: 1.445 milioni, di cui 1.162 sulle operazioni TLTRO III.
+- Per il mancato superamento del test sulle caratteristiche contrattuali dei cash flow (SPPI Test) previsto dall'IFRS 9.
+- Perché la Banca continua ad applicare integralmente lo IAS 39 sull'hedge accounting, versione Carve-out, per ogni tipologia di copertura: la riga è prevista per chi applica l'IFRS 9 anche alle coperture.
+
+**D:** ⚠️ Che cosa figura nella riga «Derivati di copertura» della tabella degli interessi attivi, e per quale importo, secondo la slide 2 della lezione 35?
+**R:** «I **differenziali** relativi ai derivati di copertura che **correggono gli interessi attivi** rilevati sugli strumenti finanziari coperti»: **−1.017 milioni** nel 2021 (−942 nel 2020), nella colonna delle altre operazioni. ⚠️ Non sono le variazioni di fair value dei derivati, che stanno nel risultato netto dell'attività di copertura, voce 90 (slide 9). La slide 3 dà poi il saldo dei differenziali delle operazioni di copertura, −553 milioni, senza riconciliarlo con questa riga. Il docente, dopo aver letto i differenziali, spiega la valutazione dei derivati al fair value alla data di chiusura ([00:08:52]).
+**Opzione:** I differenziali relativi ai derivati di copertura che correggono gli interessi attivi rilevati sugli strumenti finanziari coperti: −1.017 milioni.
+**Distrattori:**
+- I differenziali relativi ai derivati di copertura che correggono gli interessi passivi rilevati sulle passività finanziarie coperte: −1.017 milioni.
+- Interessenze nel Fondo Atlante e in Italian Recovery Fund, fondi d'investimento alternativi a sostegno delle banche italiane nella ricapitalizzazione e nella gestione dei crediti in sofferenza.
+- I titoli di debito correlati con strumenti finanziari valutati al fair value in contropartita del conto economico, quali derivati finanziari, senza coperture tramite derivati creditizi.
+
+**D:** ⚠️ Quanto valgono nel 2021 i differenziali relativi alle operazioni di copertura, e con quale saldo, secondo la slide 3 della lezione 35?
+**R:** Differenziali **positivi 2.536 milioni**, **negativi −3.089**, **saldo (A−B) −553** (2020: 2.301, −2.866, −565). Il docente: «un saldo negativo di 553 milioni», «sostanzialmente identica» ai 565 dell'anno precedente; fra differenziali positivi e negativi delle operazioni di copertura «abbiamo una posizione negativa» ([00:08:52]). Per operazioni di copertura si intendono per lui «gli investimenti in derivati finanziari finalizzati alla copertura di uno specifico rischio». Nella stessa slide gli interessi attivi su attività finanziarie in valuta ammontano a 434 milioni.
+**Opzione:** Positivi 2.536 milioni, negativi 3.089: saldo negativo di 553 milioni.
+**Distrattori:**
+- Positivi 3.089 milioni, negativi 2.536: saldo positivo di 553 milioni.
+- Positivi 2.536 milioni, negativi 3.089: saldo negativo di 565 milioni.
+- Positivi 2.301 milioni, negativi 2.866: saldo negativo di 553 milioni.
+
+**D:** ⚠️ Che cosa ha previsto per le commissioni attive il 7° aggiornamento della Circolare 262 della Banca d'Italia, secondo la slide 4 della lezione 35?
+**R:** «La rappresentazione delle commissioni attive **secondo un diverso schema di dettaglio**»: per questo nella tabella «si è provveduto a fornire i dati di raffronto dell'esercizio 2020 in conformità alle nuove disposizioni del 7° aggiornamento». La stessa nota accompagna le commissioni passive (slide 6). È una delle principali novità del 7° aggiornamento elencate nella lezione 27. ⚠️ Per il docente la novità è che in nota integrativa debba essere esposta la composizione delle commissioni attive, cioè da quali attività derivano ([00:12:36]). Per lui la Circolare 262 del 2005 è stata aggiornata più o meno ogni 2-3 anni, fino al settimo aggiornamento ([00:11:50]).
+**Opzione:** La rappresentazione delle commissioni attive secondo un diverso schema di dettaglio, con i dati di raffronto 2020 forniti in conformità alle nuove disposizioni.
+**Distrattori:**
+- La rappresentazione delle commissioni attive secondo un diverso schema di dettaglio, con i dati di raffronto 2020 lasciati secondo le disposizioni precedenti.
+- Alle quote dei prestiti sindacati sottoscritti e destinati alla successiva cessione.
+- Le attività oggetto di moratoria che rientrano nelle Guidelines dell'EBA sulle moratorie legislative e non legislative per la crisi COVID-19.
+
+**D:** ⚠️ Quali sono le tipologie maggiori di commissioni attive nel 2021, e quanto vale il totale, secondo la slide 4 della lezione 35?
+**R:** Il totale è **6.602 milioni** (5.243 nel 2020), su diciassette tipologie, dalla a) alla q). Le maggiori sono h) **servizi di pagamento**, **2.396** (conti correnti 1.313, carte di credito 396, carte di debito ed altre carte di pagamento 171, bonifici e altri ordini di pagamento 243, altre commissioni legate ai servizi di pagamento 273); a) **strumenti finanziari**, **1.590** (collocamento titoli 1.410, ricezione e trasmissione ed esecuzione di ordini per conto dei clienti 179, altre 1); i) **distribuzione di servizi di terzi**, **1.060** (prodotti assicurativi 885, altri prodotti 175); n) **operazioni di finanziamento**, **784**, di cui 83 per operazioni di factoring. Seguono m) garanzie finanziarie rilasciate 371, q) altre commissioni attive 139, c) consulenza in materia di investimenti 106, e) custodia e amministrazione 71, j) finanza strutturata 69, o) negoziazione di valute 14 e b) corporate finance 2.
+**Opzione:** Servizi di pagamento 2.396 milioni, strumenti finanziari 1.590, distribuzione di servizi di terzi 1.060; totale 6.602.
+**Distrattori:**
+- Strumenti finanziari 2.396 milioni, servizi di pagamento 1.590, distribuzione di servizi di terzi 1.060; totale 6.602.
+- Servizi di pagamento 2.396 milioni, strumenti finanziari 1.590, operazioni di finanziamento 1.060; totale 6.602.
+- Servizi di pagamento 2.396 milioni, strumenti finanziari 1.590, distribuzione di servizi di terzi 1.060; totale 5.243.
+
+**D:** ⚠️ Da quali canali distributivi vengono le commissioni attive su prodotti e servizi nel 2021, secondo la slide 5 della lezione 35 e il docente?
+**R:** a) **Presso propri sportelli**, **2.443 milioni** (collocamento di titoli 1.393, servizi e prodotti di terzi 1.050; 2.000 nel 2020). b) **Offerta fuori sede**, **25** (15 e 10; 7 nel 2020). c) **Altri canali distributivi**, **2** (1 nel 2020). Le gestioni di portafogli sono a zero in tutti i canali. Il docente: gli sportelli, cioè la rete fisica, fanno «la parte del leone», mentre offerta fuori sede e altri canali sono «quasi veramente poco rilevanti». L'offerta fuori sede però passa da 7 a 25 milioni, cioè «più che triplica»: segno che le offerte fuori sede «sono state fortemente implementate» ([00:14:15]–[00:15:19]).
+**Opzione:** Presso propri sportelli 2.443 milioni; offerta fuori sede 25, da 7 nel 2020; altri canali distributivi 2.
+**Distrattori:**
+- Presso propri sportelli 2.443 milioni; offerta fuori sede 7, da 25 nel 2020; altri canali distributivi 2.
+- Presso propri sportelli 2.000 milioni; offerta fuori sede 25, da 7 nel 2020; altri canali distributivi 1.
+- Offerta fuori sede 2.443 milioni; presso propri sportelli 25, da 7 nel 2020; altri canali distributivi 2.
+
+**D:** ⚠️ Quali sono, nell'ordine, le tipologie della tabella delle commissioni passive, dalla a) alla j), secondo la slide 6 della lezione 35?
+**R:** a) **Strumenti finanziari** (99 milioni); b) **Compensazione e regolamento** (19); c) **Custodia e amministrazione** (57); d) **Servizi di incasso e pagamento** (371, la voce maggiore, di cui 274 per carte); e) **Attività di servicing per operazioni di cartolarizzazione**; f) **Impegni a ricevere fondi**; g) **Garanzie finanziarie ricevute** (212); h) **Offerta fuori sede di strumenti finanziari, prodotti e servizi** (20); i) **Negoziazione di valute** (4); j) **Altre commissioni passive** (147). Il totale è 929 milioni (848 nel 2020). ⚠️ Fra le commissioni attive (slide 4) le garanzie sono quelle **rilasciate** (m) e gli impegni sono «a erogare fondi» (l); fra le passive sono le garanzie **ricevute** (g) e gli impegni «a ricevere fondi» (f). Il docente cita solo una parte delle tipologie e salta compensazione e regolamento e negoziazione di valute ([00:15:19]).
+**Opzione:** Strumenti finanziari; compensazione e regolamento; custodia e amministrazione; servizi di incasso e pagamento; attività di servicing per operazioni di cartolarizzazione; impegni a ricevere fondi; garanzie finanziarie ricevute; offerta fuori sede di strumenti finanziari, prodotti e servizi; negoziazione di valute; altre commissioni passive.
+**Distrattori:**
+- Strumenti finanziari; compensazione e regolamento; custodia e amministrazione; servizi di incasso e pagamento; attività di servicing per operazioni di cartolarizzazione; impegni a ricevere fondi; garanzie finanziarie rilasciate; offerta fuori sede di strumenti finanziari, prodotti e servizi; negoziazione di valute; altre commissioni passive.
+- 1.050 milioni di prodotti strutturati di credito, ABS per 772 e CLO per 278, oltre a 6 milioni di strumenti convertibili in azioni.
+- Funzionale al costo 1.839; investimento al costo zero; funzionale rivalutate 5.358; investimento al fair value 606; rimanenze IAS 2: 72.
+
+**D:** ⚠️ Che cosa distingue la voce 70 dalla voce 80 del conto economico, secondo il docente della lezione 35?
+**R:** La voce 70 «passa nella **terza area**, cioè sostanzialmente quella del **trading**», ed espone i **dividendi e i proventi simili**, divisi per tipologia di attività finanziarie; l'elemento più significativo sono i dividendi da partecipazioni. La voce 80 è l'**attività di negoziazione**, «cioè la vera e propria attività di trading», dove «la parte del leone la fanno gli strumenti derivati» ([00:16:31]); il risultato netto è «praticamente di 442 milioni» ([00:17:49]). Nella slide 7 i dividendi sono 2.381 milioni, di cui 2.307 distribuiti da società controllate e collegate, più 73 milioni di proventi simili su quote di fondi chiusi.
+**Opzione:** La voce 70 espone i dividendi e i proventi simili; la voce 80 l'attività di negoziazione, cioè la vera e propria attività di trading.
+**Distrattori:**
+- La voce 70 espone l'attività di negoziazione, cioè la vera e propria attività di trading; la voce 80 i dividendi e i proventi simili.
+- Voce 20: a conto economico; voce 30: nella riserva da valutazione, cioè nella redditività complessiva.
+- Attività per cassa: livello 1; strumenti derivati: livello 2.
+
+**D:** ⚠️ Come sono esposti gli utili e le perdite delle attività finanziarie di negoziazione, e che cosa include la colonna «Risultato netto», secondo la slide 8 della lezione 35?
+**R:** «Gli utili e le perdite delle "Attività finanziarie di negoziazione" sono esposti **per singola operazione di compravendita**, conformemente alle modalità di rilevazione contabile in uso presso la Banca, e includono il risultato **sia delle posizioni lunghe sia delle posizioni corte**. Nella colonna "Risultato netto" sono inclusi gli utili, perdite, plusvalenze e minusvalenze da **operazioni su valute** e da **derivati su valute e oro**.» Per questo la riga dei derivati su valute e oro e quella delle differenze di cambio hanno solo il risultato netto, 36 e 21 milioni.
+**Opzione:** Per singola operazione di compravendita, con il risultato sia delle posizioni lunghe sia delle posizioni corte; il risultato netto include utili, perdite, plusvalenze e minusvalenze da operazioni su valute e da derivati su valute e oro.
+**Distrattori:**
+- Per singola operazione di compravendita, con il risultato delle sole posizioni lunghe; il risultato netto include utili, perdite, plusvalenze e minusvalenze da operazioni su valute e da derivati su valute e oro.
+- La compensazione contabile ai sensi dello IAS 32 paragrafo 42, con il compensatore legale LCH Ltd. per 38.716 milioni; al lordo il fair value positivo sarebbe di 62.733 milioni.
+- Fra i titoli di capitale di livello 2 della voce 30, per 1.109 milioni, con il metodo delle transazioni dirette, supportato da un DDM.
+
+**D:** ⚠️ In quali due gruppi si dividono gli strumenti derivati nella tabella del risultato netto dell'attività di negoziazione, e con quale risultato, secondo la slide 8 della lezione 35?
+**R:** In **4.1 Derivati finanziari**, **525 milioni** (su titoli di debito e tassi di interesse 286, su titoli di capitale e indici azionari 191, su valute e oro 36, altri 12), e **4.2 Derivati su crediti**, **−54**. Gli strumenti derivati danno in tutto 471 milioni, più di tutto il risultato netto dell'attività di negoziazione (442), perché le attività finanziarie di negoziazione chiudono a −270. È la stessa coppia della tabella dei derivati di copertura della voce 50 (lezione 34, slide 2; test della lezione 34, domanda 1), qui per i derivati di negoziazione. ⚠️ L'etichetta è «derivati **su crediti**», non «derivati creditizi» come nella voce 50 e nella chiave del test. Il docente: «la parte del leone la fanno gli strumenti derivati», con «38 mila milioni di plusvalenze e 39 mila» ([00:16:31]).
+**Opzione:** Derivati finanziari, 525 milioni, e derivati su crediti, −54.
+**Distrattori:**
+- Derivati finanziari, −54 milioni, e derivati su crediti, 525.
+- Derivati finanziari, 525 milioni, e derivati di cambio, −54.
+- Derivati su tassi di interesse, 525 milioni, e derivati su crediti, −54.
+
+**D:** ⚠️ Quali sono, nell'ordine, le righe dei proventi e degli oneri dell'attività di copertura della voce 90, secondo la slide 9 della lezione 35?
+**R:** Per i proventi (A) e per gli oneri (B) le righe sono le stesse cinque: 1. **derivati di copertura del fair value**; 2. **attività finanziarie coperte (fair value)**; 3. **passività finanziarie coperte (fair value)**; 4. **derivati finanziari di copertura dei flussi finanziari**; 5. **attività e passività in valuta**. Nel 2021 sono valorizzate solo le prime tre: proventi **8.398 milioni** (6.406, 141, 1.851), oneri **−8.359** (−3.657, −4.609, −93), risultato netto **39** (36 nel 2020). Il docente: in alto i proventi dei derivati di copertura del fair value e delle attività e passività coperte, negli oneri quelli degli stessi derivati ([00:18:08]).
+**Opzione:** Derivati di copertura del fair value; attività finanziarie coperte (fair value); passività finanziarie coperte (fair value); derivati finanziari di copertura dei flussi finanziari; attività e passività in valuta.
+**Distrattori:**
+- Derivati di copertura del fair value; attività finanziarie coperte (fair value); passività finanziarie coperte (fair value); derivati finanziari di copertura dei flussi finanziari; copertura di investimenti esteri.
+- Grogu e Yoda: 1.090 milioni, su crediti in sofferenza; Kerdos e Kerma: 1.548 milioni, su crediti principalmente UTP; Romulus Funding Corporation: 5.703 milioni, veicolo consolidato.
+- Perizie aggiornate: l'intero patrimonio degli immobili ad uso investimento e i Trophy Asset; analisi di scenario: gli altri immobili ad uso funzionale e il patrimonio artistico di pregio, valutati integralmente a fine 2020.
+
+**D:** ⚠️ Perché nella tabella del risultato netto dell'attività di copertura non è valorizzata la riga «di cui: risultato delle coperture su posizioni nette», secondo la slide 9 della lezione 35?
+**R:** Perché «Intesa Sanpaolo si avvale della facoltà, prevista in sede di introduzione dell'**IFRS 9**, di continuare ad applicare integralmente le previsioni del principio contabile **IAS 39** in tema di "hedge accounting" (nella versione "**Carve-out**" omologata dalla Commissione Europea) per ogni tipologia di copertura (sia per le coperture specifiche che per le macro-coperture)». La riga è «prevista per i soggetti che applicano il principio contabile IFRS 9 anche per le coperture». È la scelta delle lezioni 28 (slide 17) e 34 (slide 4).
+**Opzione:** Perché la Banca continua ad applicare integralmente lo IAS 39 sull'hedge accounting, versione Carve-out, per ogni tipologia di copertura: la riga è prevista per chi applica l'IFRS 9 anche alle coperture.
+**Distrattori:**
+- Perché la Banca continua ad applicare integralmente lo IAS 39 sull'hedge accounting, versione Carve-out, per le sole macro-coperture: la riga è prevista per chi applica l'IFRS 9 anche alle coperture.
+- Perché vi sono inclusi gli interessi su operazioni di raccolta con tassi negativi: 1.445 milioni, di cui 1.162 sulle operazioni TLTRO III.
+- Alzando la quota della raccolta da depositare presso la banca centrale si drena denaro dal sistema e si frena il moltiplicatore creditizio.
+
+**D:** ⚠️ Quanto valgono nel 2021 l'utile d'esercizio, le altre componenti reddituali e la redditività complessiva, nel prospetto analitico della slide 10 della lezione 35?
+**R:** Utile (perdita) d'esercizio, voce 10: **2.948 milioni**. Totale altre componenti reddituali, voce 190: **−347**, cioè −21 senza rigiro e −326 con rigiro a conto economico. Redditività complessiva, voce 200, «Voce 10+190»: **2.601**. Nel 2020 erano 679, −213 e 466. Sono le cifre in euro della lezione 26 (2.947.642.948, −346.548.652, 2.601.094.296), dove però lo schema chiude con la voce 180, «Voce 10+170». Nel prospetto analitico le imposte hanno righe proprie: la 100 per le componenti senza rigiro, la 180 per quelle con rigiro.
+**Opzione:** Utile 2.948 milioni; altre componenti reddituali −347; redditività complessiva 2.601.
+**Distrattori:**
+- Utile 2.601 milioni; altre componenti reddituali 347; redditività complessiva 2.948.
+- Utile 679 milioni; altre componenti reddituali −213; redditività complessiva 466.
+- Utile 2.948 milioni; altre componenti reddituali −326; redditività complessiva 2.622.
+
+**D:** ⚠️ In quale sezione del prospetto analitico della redditività complessiva stanno i titoli di capitale designati al fair value con impatto sulla redditività complessiva, e in quale le altre attività finanziarie della stessa categoria, secondo la slide 10 della lezione 35?
+**R:** I **titoli di capitale** stanno fra le altre componenti reddituali **senza rigiro** a conto economico (voce 20, −30 milioni). Le **attività finanziarie diverse dai titoli di capitale** valutate al fair value con impatto sulla redditività complessiva stanno fra quelle **con rigiro** (voce 150, −761 milioni). Il loro rigiro a conto economico, −561, è fatto di rettifiche per rischio di credito (15) e soprattutto di utili/perdite da realizzo (−576). È il criterio del rigiro della lezione 16.
+**Opzione:** Titoli di capitale: senza rigiro a conto economico; altre attività: con rigiro a conto economico.
+**Distrattori:**
+- Titoli di capitale: con rigiro a conto economico; altre attività: senza rigiro a conto economico.
+- Titoli di capitale: senza rigiro a conto economico; altre attività: senza rigiro a conto economico.
+- Titoli di capitale: con rigiro a conto economico; altre attività: con rigiro a conto economico.
+
+**D:** ⚠️ Dove stanno le «Attività materiali» nel prospetto analitico della redditività complessiva, e per quale importo nel 2021, secondo la slide 10 della lezione 35?
+**R:** Fra le **altre componenti reddituali senza rigiro a conto economico**, alla **voce 50**: **−14 milioni** (+10 nel 2020). La slide non lo spiega. È coerente con la rideterminazione del valore degli immobili ad uso funzionale e del patrimonio artistico di pregio, le cui variazioni di fair value vanno in parte a patrimonio netto (lezione 34, slide 16). Una parte delle attività ad uso funzionale, quindi, non è al costo: è l'avvertenza ⚠️ sulla domanda 4 del test della lezione 34. Fra le componenti con rigiro la copertura dei flussi finanziari, voce 130, vale invece +275 milioni.
+**Opzione:** Fra le componenti senza rigiro a conto economico, alla voce 50: −14 milioni.
+**Distrattori:**
+- Fra le componenti con rigiro a conto economico, alla voce 50: −14 milioni.
+- Fra le componenti senza rigiro a conto economico, alla voce 60: −14 milioni.
+- Fra le componenti con rigiro a conto economico, alla voce 130: 275 milioni.
+
+**D:** ⚠️ Che cosa fa vedere il prospetto della redditività complessiva, secondo il docente della lezione 35?
+**R:** Le operazioni che, «solo per il fatto che la banca adotta i **principi contabili internazionali**», pur avendo rilevanza economica non vengono rilevate nel conto economico, ma vanno ad alimentare una riserva di patrimonio netto, «che si chiama **riserva di valutazione**». Il prospetto «ci fa vedere quali sarebbero stati gli effetti sul conto economico nel caso in cui quelle variazioni non fossero affluite alla riserva di patrimonio netto ma fossero appunto state registrate nel conto economico» ([00:18:08]–[00:19:43]). Il docente non legge le cifre della slide 10.
+**Opzione:** Quali sarebbero stati gli effetti sul conto economico se le variazioni affluite per gli IAS/IFRS alla riserva di valutazione fossero state registrate nel conto economico.
+**Distrattori:**
+- Quali sarebbero stati gli effetti sulla riserva di valutazione se le variazioni registrate per gli IAS/IFRS nel conto economico fossero affluite al patrimonio netto.
+- Il valore delle attività impaired acquisite o originate, cioè deteriorate già alla rilevazione iniziale.
+- Le informazioni quantitative sui rischi riferite alla Capogruppo; per quelle qualitative rinvia alla Parte E della Nota Integrativa consolidata.
+
+**D:** ⚠️ Quali informazioni sui rischi fornisce la parte E della nota integrativa d'esercizio di Intesa Sanpaolo, e dove rinvia per le altre, secondo la slide 11 della lezione 35?
+**R:** Fornisce «le informazioni di natura **quantitativa** sui rischi riferite alla **Capogruppo** Intesa Sanpaolo». Per quelle di carattere **qualitativo** rinvia alla **Parte E della Nota Integrativa consolidata**: modalità di gestione e monitoraggio dei rischi, organizzazione del governo dei rischi, processi e funzioni chiave, cultura del rischio, principali rischi del modello di business, risk appetite, uso di stress test. Rinvia lì anche per gli impatti della pandemia COVID-19 su ciascuna tipologia di rischio. Per il docente il rinvio si spiega perché le politiche di contenimento del rischio di credito «sono gestite a livello di gruppo e non a livello di singola unità aziendale» ([00:19:43]).
+**Opzione:** Le informazioni quantitative sui rischi riferite alla Capogruppo; per quelle qualitative rinvia alla Parte E della Nota Integrativa consolidata.
+**Distrattori:**
+- Le informazioni qualitative sui rischi riferite alla Capogruppo; per quelle quantitative rinvia alla Parte E della Nota Integrativa consolidata.
+- Il valore delle attività impaired acquisite o originate, cioè deteriorate già alla rilevazione iniziale.
+- Le attività finanziarie detenute per la negoziazione e i derivati di copertura, rilevati convenzionalmente tra le esposizioni creditizie non deteriorate.
+
+**D:** ⚠️ Secondo quale ordine è esposta l'informativa qualitativa e quantitativa della parte E, e con quale eccezione, secondo la slide 11 della lezione 35?
+**R:** «Secondo l'ordine stabilito dalla **Circolare n. 262** della Banca d'Italia, che disciplina in modo puntuale – oltre che la **forma** delle esposizioni tabellari – anche la **sequenza** dei diversi argomenti, **ad eccezione della sezione relativa ai rischi di mercato in relazione all'applicazione dei modelli interni**.»
+**Opzione:** Secondo l'ordine della Circolare n. 262, che disciplina la forma delle esposizioni tabellari e la sequenza degli argomenti, ad eccezione della sezione relativa ai rischi di mercato in relazione all'applicazione dei modelli interni.
+**Distrattori:**
+- Secondo l'ordine della Circolare n. 262, che disciplina la forma delle esposizioni tabellari e la sequenza degli argomenti, ad eccezione della sezione relativa al rischio di credito in relazione all'applicazione dei modelli interni.
+- Alle quote dei prestiti sindacati sottoscritti e destinati alla successiva cessione.
+- Tutte le attività finanziarie per cassa vantate verso banche o clientela, qualunque sia il loro portafoglio di allocazione contabile.
+
+**D:** ⚠️ Che cosa contemplava il Piano d'Impresa 2018-2021 per la qualità del credito, secondo la slide 11 della lezione 35?
+**R:** «Il Piano d'Impresa 2018-2021 contemplava – **tra le altre** – l'ambizione di **eccellere nella qualità degli attivi**, nel cui ambito la **gestione efficace dei Crediti deteriorati** è tra le prime priorità.» Nel 2021 sono state finalizzate le operazioni di de-risking pianificate a fine 2020. Sono stati poi destinati alla cessione altri portafogli e single name a sofferenza o inadempienza probabile, per un gross book value di **4,0 miliardi**, già classificati fra le attività in via di dismissione. Per il 2022 l'obiettivo è di altri **4,7 miliardi**, nell'ambito di due portafogli di complessivi 6,6 miliardi. ⚠️ Per il docente migliorare la qualità degli attivi, e quindi ridurre il rischio di credito, era «l'obiettivo principale» del Piano ([00:19:43]): la slide dice «tra le altre».
+**Opzione:** Tra le altre, l'ambizione di eccellere nella qualità degli attivi, nel cui ambito la gestione efficace dei crediti deteriorati è tra le prime priorità.
+**Distrattori:**
+- Come unico obiettivo, l'ambizione di eccellere nella qualità degli attivi, nel cui ambito la gestione efficace dei crediti deteriorati è tra le prime priorità.
+- La rappresentazione delle commissioni attive secondo un diverso schema di dettaglio, con i dati di raffronto 2020 forniti in conformità alle nuove disposizioni.
+- Tutte le operazioni finanziarie diverse da quelle per cassa che comportano l'assunzione di un rischio creditizio, qualunque sia la finalità di tali operazioni.
+
+**D:** ⚠️ Che cosa si intende escluso dal termine «esposizioni creditizie», ai fini dell'informativa quantitativa sulla qualità del credito, secondo la slide 12 della lezione 35?
+**R:** «Con il termine "esposizioni creditizie" si intendono **esclusi i titoli di capitale e le quote di OICR**.» Il docente: le quote di OICR «sarebbero i fondi comuni» ([00:21:00]). ⚠️ I crediti a vista verso banche e Banche Centrali, invece, rientrano nella definizione di esposizioni creditizie per cassa: sono solo convenzionalmente esclusi dalle tabelle della Sezione 1, salvo i casi espressamente previsti dalla Circolare 262.
+**Opzione:** I titoli di capitale e le quote di OICR.
+**Distrattori:**
+- I titoli di debito e le quote di OICR.
+- I titoli di capitale e i finanziamenti.
+- I crediti a vista verso banche e le quote di OICR.
+
+**D:** ⚠️ Che cosa si intende per «esposizioni creditizie per cassa», e come sono trattati i crediti a vista verso banche e Banche Centrali, secondo la slide 12 della lezione 35?
+**R:** «Tutte le attività finanziarie per cassa vantate verso banche o clientela, **qualunque sia il loro portafoglio di allocazione contabile** (valutate al fair value con impatto a conto economico, valutate al fair value con impatto sulla redditività complessiva, valutate al costo ammortizzato, attività finanziarie in via di dismissione).» ⚠️ «I crediti a vista verso banche e Banche Centrali, pur rientrando nella definizione di esposizioni creditizie per cassa, sono **convenzionalmente esclusi** dalle tabelle della Sezione 1, **salvo i casi espressamente previsti** dalla Circolare n. 262 della Banca d'Italia, in cui gli stessi vanno considerati.» Nello stato patrimoniale stanno nella cassa e disponibilità liquide (lezione 33), e i loro interessi fra i crediti verso banche (slide 2).
+**Opzione:** Tutte le attività finanziarie per cassa vantate verso banche o clientela, qualunque sia il loro portafoglio di allocazione contabile.
+**Distrattori:**
+- Tutte le attività finanziarie per cassa vantate verso banche o clientela valutate al costo ammortizzato.
+- Primo stadio 48.902 milioni, di cui 438 a basso rischio di credito; secondo 144; terzo 35; rettifiche −22, −11 e −35; nessun write-off.
+- Titoli di debito: livello 1; finanziamenti: solo livelli 2 e 3.
+
+**D:** Che cosa si intende per «esposizioni creditizie fuori bilancio», secondo la slide 12 della lezione 35?
+**R:** «Tutte le operazioni finanziarie diverse da quelle per cassa (garanzie finanziarie rilasciate, impegni revocabili e irrevocabili, derivati, ecc.) che comportano l'assunzione di un rischio creditizio, **qualunque sia la finalità** di tali operazioni (negoziazione, copertura, ecc.).» Gli esempi sono un elenco aperto. Vi è incluso anche il rischio di controparte delle operazioni di **prestito titoli**. Se del caso è riportato quello connesso a operazioni pronti contro termine passive, di concessione o assunzione di merci in prestito, «nonché con i finanziamenti con margini rientranti nella nozione di "Operazioni **SFT**" (Securities Financing Transactions) definita nella normativa prudenziale». ⚠️ Per il docente le SFT sono operazioni di finanziamento tramite indebitamento «con emissione di prestito obbligazionari» ([00:21:00]): la slide non nomina i prestiti obbligazionari.
+**Opzione:** Tutte le operazioni finanziarie diverse da quelle per cassa che comportano l'assunzione di un rischio creditizio, qualunque sia la finalità di tali operazioni.
+**Distrattori:**
+- Tutte le operazioni finanziarie diverse da quelle per cassa che comportano l'assunzione di un rischio creditizio, se effettuate con finalità di copertura.
+- Negoziazione 1.092 milioni; obbligatoriamente al fair value 106; redditività complessiva 1.695; costo ammortizzato 4.831.
+- Titoli di debito: amministrazioni pubbliche; strumenti derivati: controparti diverse da quelle centrali.
+
+**D:** ⚠️ Quali attività non sono incluse fra le esposizioni creditizie deteriorate, e dove sono rilevate, secondo la slide 12 della lezione 35?
+**R:** «Le esposizioni creditizie deteriorate (per cassa e fuori bilancio) **non includono** le attività finanziarie **detenute per la negoziazione** e i **derivati di copertura**, che sono pertanto, convenzionalmente, rilevati tra le esposizioni creditizie **non deteriorate**.» Per queste due voci la slide 15 dà una tabella a parte. Le attività di evidente scarsa qualità creditizia hanno minusvalenze cumulate per −26 milioni ed esposizione netta per 21. Le altre attività hanno un'esposizione netta di 46.972 milioni di negoziazione e 1.566 di derivati di copertura.
+**Opzione:** Le attività finanziarie detenute per la negoziazione e i derivati di copertura, rilevati convenzionalmente tra le esposizioni creditizie non deteriorate.
+**Distrattori:**
+- Le attività finanziarie detenute per la negoziazione e i derivati di copertura, rilevati convenzionalmente tra le esposizioni scadute deteriorate.
+- Primo stadio 542.415 milioni; secondo 52.497; terzo 13.609; impaired acquisite o originate 482; write-off parziali 6.367.
+- Verso banche 15 milioni, con riprese di valore non significative; verso clientela 631 milioni, con rettifiche non significative.
+
+**D:** ⚠️ Quali sono, nell'ordine, le colonne di qualità creditizia della tabella dei valori di bilancio delle attività finanziarie, secondo la slide 13 della lezione 35?
+**R:** **Sofferenze**, **inadempienze probabili**, **esposizioni scadute deteriorate**, **esposizioni scadute non deteriorate**, **altre esposizioni non deteriorate**, poi il totale. Le prime tre sono le deteriorate, come le tre categorie della slide 17 della lezione 30. ⚠️ Il docente conta invece «quattro livelli di deterioramento» in ordine di gravità: scadute non deteriorate, scadute deteriorate, inadempienze probabili, sofferenze. Chiama le scadute non deteriorate «il primissimo livello di deterioramento» ([00:21:00]), ma nella tabella stanno fra le non deteriorate. Per lui le sofferenze sono «il massimo livello di deterioramento» e le inadempienze probabili «un livello intermedio».
+**Opzione:** Sofferenze, inadempienze probabili, esposizioni scadute deteriorate, esposizioni scadute non deteriorate, altre esposizioni non deteriorate.
+**Distrattori:**
+- Sofferenze, inadempienze probabili, esposizioni ristrutturate, esposizioni scadute non deteriorate, altre esposizioni non deteriorate.
+- Sofferenze, incagli, esposizioni scadute deteriorate, esposizioni scadute non deteriorate, altre esposizioni non deteriorate.
+- Sofferenze, inadempienze probabili, esposizioni scadute deteriorate, esposizioni forborne non deteriorate, altre esposizioni non deteriorate.
+
+**D:** ⚠️ Quanto valgono al 31.12.2021 sofferenze, inadempienze probabili ed esposizioni scadute deteriorate, nella tabella dei valori di bilancio della slide 13 della lezione 35?
+**R:** Sofferenze **2.346 milioni**, inadempienze probabili **4.902**, esposizioni scadute deteriorate **527**: in tutto **7.775 milioni** di deteriorate nette, su un totale di **650.773**. Nel 2020 erano 3.710, 5.899 e 385, cioè 9.994. Le esposizioni scadute non deteriorate sono 5.087 (1.979 nel 2020), le altre esposizioni non deteriorate 637.911. Le attività in corso di dismissione sono solo sofferenze (395) e inadempienze probabili (772).
+**Opzione:** Sofferenze 2.346 milioni, inadempienze probabili 4.902, scadute deteriorate 527: 7.775 in tutto.
+**Distrattori:**
+- Sofferenze 4.902 milioni, inadempienze probabili 2.346, scadute deteriorate 527: 7.775 in tutto.
+- Sofferenze 3.710 milioni, inadempienze probabili 5.899, scadute deteriorate 385: 9.994 in tutto.
+- Sofferenze 2.346 milioni, inadempienze probabili 4.902, scadute deteriorate 5.087: 12.335 in tutto.
+
+**D:** ⚠️ Come si chiamano le rettifiche delle attività deteriorate e di quelle non deteriorate nella tabella dei valori lordi e netti della slide 14 della lezione 35?
+**R:** «**Rettifiche di valore complessive**», per entrambi i gruppi. Accanto alle deteriorate c'è la colonna dei «**Write-off parziali complessivi**», 7.035 milioni. Le deteriorate hanno esposizione lorda 18.197, rettifiche −10.422 ed esposizione netta 7.775; le non deteriorate 644.028, −2.058 e 642.998. ⚠️ Nella tabella A.1.2 della lezione 22, con i portafogli dello IAS 39, le rettifiche erano «specifiche» per le deteriorate e «di portafoglio» per le altre attività. Il titolo della tabella è lo stesso: «Distribuzione delle attività finanziarie per portafogli di appartenenza e per qualità creditizia (valori lordi e netti)».
+**Opzione:** Rettifiche di valore complessive, sia per le deteriorate sia per le non deteriorate.
+**Distrattori:**
+- Rettifiche specifiche per le deteriorate, rettifiche di portafoglio per le non deteriorate.
+- Rettifiche di portafoglio per le deteriorate, rettifiche specifiche per le non deteriorate.
+- Write-off parziali complessivi, sia per le deteriorate sia per le non deteriorate.
+
+**D:** ⚠️ Per quali portafogli la slide 15 della lezione 35 distingue le attività di evidente scarsa qualità creditizia, e con quali colonne?
+**R:** Per le attività finanziarie **detenute per la negoziazione** e i **derivati di copertura**, cioè i due portafogli che la slide 12 esclude dalle esposizioni deteriorate. Per le attività di evidente scarsa qualità creditizia le colonne sono le **minusvalenze cumulate** e l'**esposizione netta**: −26 e 21 milioni, tutti della negoziazione (−44 e 33 nel 2020). Per le altre attività c'è solo l'esposizione netta: 46.972 milioni di negoziazione e 1.566 di derivati di copertura, 48.538 in tutto. ⚠️ Il docente parla di minusvalenze generate «nell'ambito dell'esercizio stesso» ([00:24:14]): la slide dice «cumulate».
+**Opzione:** Per le attività detenute per la negoziazione e i derivati di copertura, con le minusvalenze cumulate e l'esposizione netta.
+**Distrattori:**
+- Per le attività detenute per la negoziazione e i derivati di copertura, con le rettifiche di valore complessive e l'esposizione netta.
+- Fra i crediti verso Banche centrali della voce 40, al costo ammortizzato: 121.401 milioni al 31.12.2021.
+- Terreni 2.214, fabbricati 2.833 e patrimonio artistico di pregio 311 milioni: 5.358 milioni, tutti di livello 3.
+
+**D:** ⚠️ Come è costruita la tabella della distribuzione delle attività finanziarie per fasce di scaduto, secondo la slide 16 della lezione 35?
+**R:** Le colonne sono i **quattro stadi di rischio**: primo stadio, secondo stadio, terzo stadio e impaired acquisite o originate. Ciascuno è diviso in **tre fasce di scaduto**: «Da 1 giorno a 30 giorni», «Da oltre 30 giorni fino a 90 giorni», «Oltre 90 giorni». Le righe sono le attività al costo ammortizzato, al fair value con impatto sulla redditività complessiva e in corso di dismissione. La cifra maggiore è il terzo stadio oltre 90 giorni, 5.166 milioni (7.280 nel 2020). ⚠️ Il docente fa coincidere le fasce con gli stadi: «il primo, secondo e terzo stadio, quindi a seconda della gravità dello scaduto» ([00:24:30]).
+**Opzione:** Per stadi di rischio, primo, secondo, terzo e impaired acquisite o originate, ciascuno diviso in tre fasce: da 1 a 30 giorni, da oltre 30 fino a 90, oltre 90.
+**Distrattori:**
+- Per stadi di rischio, primo, secondo, terzo e impaired acquisite o originate, ciascuno diviso in tre fasce: da 1 a 90 giorni, da oltre 90 fino a 180, oltre 180.
+- Sofferenze, inadempienze probabili, esposizioni scadute deteriorate, esposizioni scadute non deteriorate, altre esposizioni non deteriorate.
+- Rettifiche di valore complessive, sia per le deteriorate sia per le non deteriorate.
+
+**D:** ⚠️ Come cambiano nel 2021 le rettifiche di valore complessive del terzo stadio sulle attività al costo ammortizzato, secondo la slide 18 della lezione 35?
+**R:** Scendono da **8.906** a **7.339 milioni**. Le rettifiche/riprese di valore nette per rischio di credito aggiungono **2.668**. Le cancellazioni diverse dai write-off tolgono **3.225** e i write-off non rilevati direttamente a conto economico 1.056; le modifiche contrattuali senza cancellazioni aggiungono 56, le altre variazioni tolgono 10. Ci sono poi 53 milioni di recuperi da incasso su attività oggetto di write-off e 119 di write-off rilevati direttamente a conto economico. Nei primi due stadi la riga del rischio di credito è in ripresa (−305 e −128), e le rettifiche passano da 507 a 520 e da 1.497 a 1.503 (slide 17). Il titolo delle due slide è «Attività finanziarie, impegni a erogare fondi e garanzie finanziarie rilasciate: dinamica delle rettifiche di valore complessive e degli accantonamenti complessivi».
+**Opzione:** Scendono da 8.906 a 7.339 milioni, nonostante 2.668 di rettifiche nette per rischio di credito.
+**Distrattori:**
+- Salgono da 7.339 a 8.906 milioni, con 2.668 di rettifiche nette per rischio di credito.
+- Scendono da 8.906 a 7.339 milioni, con 2.668 di riprese nette per rischio di credito.
+- Salgono da 507 a 520 milioni, nonostante 305 di riprese nette per rischio di credito.
+
+## Lezione 36 — La Nota Integrativa del bilancio della banca. Rischi e modalità di copertura
+
+**D:** ⚠️ A quanti livelli differenti viene misurata la sensitivity del margine di interesse, secondo il test della lezione 36 (domanda 1)?
+**R:** A **tre**: le ipotesi di variazione dei tassi di **+50**, **−50** e **+100 punti base**, che a fine 2021 danno rispettivamente **795 milioni**, **−688 milioni** e **1.561 milioni** (slide 2). Il docente le legge allo stesso modo ([00:06:37]). ⚠️ Gli scenari sono **asimmetrici**, due al rialzo e uno al ribasso, senza un −100; «livelli» è la parola del test. Il vicino è «due»: due sono le **ampiezze** (50 e 100 punti base) e due gli shock di prezzo (+10% e −10%) della slide 3. La shift sensitivity del valore usa un solo scenario, +100 punti base. Distrattori del test: «due», «quattro», «cinque».
+**Opzione:** Tre.
+**Distrattori:**
+- Due.
+- Quattro.
+- Cinque.
+
+**D:** ⚠️ In che cosa si sostanzia il rischio di controparte, secondo il test della lezione 36 (domanda 2)?
+**R:** Nell'**inadempienza della controparte**. Il docente: il rischio di controparte «è che il deterioramento della posizione della controparte sia tale da non consentire più di essere in grado di **adempiere ai propri obblighi** nei confronti della banca» ([00:16:36]). ⚠️ La chiave sta **solo nel transcript**: la slide 5 nomina il «requisito per il rischio di controparte», misurato con i modelli EPE, senza definirlo. Nella lezione 31 il bCVA riguarda la possibilità «che le controparti non onorino i propri impegni». Il vicino è la «liquidazione»: il docente spiega l'EAD come l'esposizione «nel momento in cui la controparte viene **dichiarata fallita**», ma il rischio è che la controparte non adempia. Distrattori del test: «trasformazione della controparte», «liquidazione della controparte», «cessione della controparte».
+**Opzione:** Inadempienza della controparte.
+**Distrattori:**
+- Trasformazione della controparte.
+- Liquidazione della controparte.
+- Cessione della controparte.
+
+**D:** ⚠️ Che cosa sono i mercati over the counter, secondo il test della lezione 36 (domanda 3)?
+**R:** Un **mercato mobiliare non regolamentato**. La slide 14 lo dice due volte: «I derivati **non sono quotati su mercati regolamentati**, ma negoziati nell'ambito dei circuiti over the counter (OTC). Rientrano tra i contratti over the counter (OTC) **anche quelli stipulati tramite Clearing House**». Il docente: «over the counter, cioè non gestiti in un mercato regolamentato» ([00:21:11]); over the counter «vuol dire fuori dal mercato» ([00:18:40]). ⚠️ È una matrice 2×2. «Non regolamentato» è testuale, «mobiliare» no: si decide sui sottostanti dei derivati OTC, cioè titoli, tassi, valute e merci (slide 6). Il vicino è «mercato mobiliare regolamentato», la colonna «Mercati organizzati» della slide 6. Distrattori del test: «mercato immobiliare non regolamentato», «mercato immobiliare regolamentato», «mercato mobiliare regolamentato».
+**Opzione:** Mercato mobiliare non regolamentato.
+**Distrattori:**
+- Mercato immobiliare non regolamentato.
+- Mercato immobiliare regolamentato.
+- Mercato mobiliare regolamentato.
+
+**D:** ⚠️ Fra quali derivati rientrano i credit default products, secondo il test della lezione 36 (domanda 4)?
+**R:** Fra i **derivati creditizi di negoziazione**: sono la riga a) delle tabelle «Derivati creditizi di negoziazione», per gli acquisti e le vendite di protezione (slide 10) e per il fair value (slide 11). Sono l'unica categoria valorizzata: acquisti 7.531 milioni su un singolo soggetto e 67.468 su più soggetti, vendite 8.243 e 63.098; fair value positivo 2.248, negativo 2.341. Il docente: sono «gli unici utilizzati sui derivati di negoziazione» ([00:23:08]). ⚠️ Il vicino è «derivati creditizi di copertura». Questi esistono nella voce 50 (lezione 34, slide 2), divisi per tipo di copertura e a zero, ma nessuna tabella li divide per prodotto. Distrattori del test: «derivati finanziari», «derivati creditizi di copertura», «derivati creditizi esteri».
+**Opzione:** Derivati creditizi di negoziazione.
+**Distrattori:**
+- Derivati finanziari.
+- Derivati creditizi di copertura.
+- Derivati creditizi esteri.
+
+**D:** ⚠️ Fra quali derivati rientrano i total rate of return swap, secondo il test della lezione 36 (domanda 5)?
+**R:** Fra i **derivati creditizi di negoziazione**, secondo la chiave: sono la riga c) delle tabelle «Derivati creditizi di negoziazione» (slide 10–11). ⚠️ La chiave regge solo per lo **schema** della tabella: la riga è **vuota** in tutte le tabelle, Intesa Sanpaolo non ne ha, e il docente non li nomina mai. Il vicino è «derivati finanziari», perché sono **swap**, e gli swap riempiono le tabelle dei derivati finanziari (slide 6–7: swap, interest rate swap, cross currency swap, equity swap). Lo schema li mette però fra gli acquisti e le vendite di **protezione**, cioè fra i derivati creditizi. Distrattori del test: «derivati finanziari», «derivati creditizi di copertura», «derivati creditizi esteri».
+**Opzione:** Derivati creditizi di negoziazione.
+**Distrattori:**
+- Derivati finanziari.
+- Derivati creditizi di copertura.
+- Derivati creditizi esteri.
+
+**D:** ⚠️ Dove sono illustrate le informazioni qualitative e quantitative sul rischio di tasso di interesse e di prezzo del portafoglio di negoziazione di vigilanza e del portafoglio bancario, secondo la slide 2 della lezione 36?
+**R:** Per il **portafoglio di negoziazione di vigilanza** sia le informazioni **qualitative** sia quelle **quantitative** di natura gestionale «sono illustrate nella **Parte E della Nota Integrativa consolidata**». Per il **portafoglio bancario** solo le qualitative stanno nella consolidata; le quantitative sono nella nota d'esercizio, sotto il titolo «Portafoglio bancario: modelli interni e altre metodologie per l'analisi di sensitività». Per il docente la gestione dei rischi di Intesa Sanpaolo avviene a livello di gruppo consolidato, e qui si danno informazioni più quantitative che qualitative ([00:01:09]–[00:01:42]).
+**Opzione:** Negoziazione di vigilanza: qualitative e quantitative nella Parte E della Nota Integrativa consolidata; portafoglio bancario: qualitative nella consolidata, quantitative nella nota d'esercizio.
+**Distrattori:**
+- Negoziazione di vigilanza: qualitative nella consolidata, quantitative nella nota d'esercizio; portafoglio bancario: qualitative e quantitative nella Parte E della Nota Integrativa consolidata.
+- Secondo l'ordine della Circolare n. 262, che disciplina la forma delle esposizioni tabellari e la sequenza degli argomenti, ad eccezione della sezione relativa ai rischi di mercato in relazione all'applicazione dei modelli interni.
+- Quali sarebbero stati gli effetti sul conto economico se le variazioni affluite per gli IAS/IFRS alla riserva di valutazione fossero state registrate nel conto economico.
+
+**D:** ⚠️ Quanto vale a fine 2021 la sensitivity del margine di interesse nelle tre ipotesi di variazione dei tassi, secondo la slide 2 della lezione 36?
+**R:** «La sensitivity del margine di interesse – nell'ipotesi di variazione di **+50, -50 e di +100 punti base** dei tassi – ammonta alla fine dell'esercizio 2021, rispettivamente a **795 milioni, - 688 milioni e a 1.561 milioni**. Quest'ultimo dato è in diminuzione rispetto al valore di fine 2020 che è pari a **2.141 milioni**.» Il docente legge «più 795 milioni, meno 688 milioni e … più 1.561 milioni» ([00:06:37]), senza il dato del 2020.
+**Opzione:** +50 punti base: 795 milioni; −50: −688 milioni; +100: 1.561 milioni, in calo dai 2.141 di fine 2020.
+**Distrattori:**
+- +50 punti base: 795 milioni; −50: −688 milioni; +100: 2.141 milioni, in calo dai 1.561 di fine 2020.
+- +50 punti base: −688 milioni; −50: 795 milioni; +100: 1.561 milioni, in calo dai 2.141 di fine 2020.
+- +50 punti base: 795 milioni; −50: −688 milioni; +100: −853 milioni, in calo dai −485 di fine 2020.
+
+**D:** ⚠️ Che cosa misura la shift sensitivity del valore usata per il rischio di tasso del portafoglio bancario, secondo la slide 2 della lezione 36?
+**R:** La «**variazione di valore del portafoglio** conseguente a uno **spostamento parallelo e uniforme di +100 punti base** della curva». È un solo scenario, al rialzo, mentre la sensitivity del margine di interesse ne ha tre (+50, −50, +100). Il docente: la variazione del valore del portafoglio conseguente a uno spostamento uniforme di più 100 punti base della curva, «cioè dell'1%» ([00:07:25]).
+**Opzione:** La variazione di valore del portafoglio conseguente a uno spostamento parallelo e uniforme di +100 punti base della curva.
+**Distrattori:**
+- La variazione del margine di interesse conseguente a uno spostamento parallelo e uniforme di +100 punti base della curva.
+- La variazione di valore del portafoglio conseguente a uno spostamento parallelo e uniforme di +50 e −50 punti base della curva.
+- Il VaR del portafoglio, con un intervallo di confidenza del 99% e un holding period di 10 giorni.
+
+**D:** ⚠️ Quanto vale nel 2021 la shift sensitivity del valore del portafoglio bancario di Intesa Sanpaolo, in media e a fine anno, secondo la slide 2 della lezione 36?
+**R:** Ha registrato nel 2021 «un **valore medio** pari a **-428 milioni**, attestandosi a **fine anno** su di un valore pari a **-853 milioni** (**-485 milioni** il valore di fine 2020)». ⚠️ A fine anno l'esposizione è **più negativa** di un anno prima. Il docente dice invece che la shift sensitivity è «sicuramente negativa, però meno negativa» dell'anno precedente ([00:08:48]): confronta la media del 2021 con il valore di fine 2020.
+**Opzione:** Media −428 milioni; fine 2021 −853 milioni, contro −485 a fine 2020.
+**Distrattori:**
+- Media −853 milioni; fine 2021 −428 milioni, contro −485 a fine 2020.
+- Media −428 milioni; fine 2021 −485 milioni, contro −853 a fine 2020.
+- Media −405 milioni; fine 2021 −477 milioni, contro −485 a fine 2020.
+
+**D:** ⚠️ A che cosa è dovuta la variazione della shift sensitivity del valore del portafoglio bancario nel 2021, secondo la slide 2 della lezione 36?
+**R:** «Tale variazione è dovuta, **soprattutto nell'ultimo trimestre del 2021**, all'**accresciuta operatività di impiego a tasso fisso** ed alle **coperture della raccolta a vista da clientela**.» Il docente: si è privilegiata l'operatività a tasso fisso di impiego, «quindi di prestiti a tassi fissi», e la raccolta a vista dalla clientela ([00:07:25]).
+**Opzione:** Soprattutto nell'ultimo trimestre del 2021, all'accresciuta operatività di impiego a tasso fisso ed alle coperture della raccolta a vista da clientela.
+**Distrattori:**
+- Soprattutto nell'ultimo trimestre del 2021, all'accresciuta operatività di impiego a tasso variabile ed alle coperture della raccolta a vista da clientela.
+- Tra le altre, l'ambizione di eccellere nella qualità degli attivi, nel cui ambito la gestione efficace dei crediti deteriorati è tra le prime priorità.
+- Coperture gestionali del rischio di cambio sul costo della raccolta in divisa e sugli utili in valuta delle filiali estere; essendo gestionali, non rilevano come coperture contabili.
+
+**D:** ⚠️ Quanto vale nel 2021 il VaR del rischio di tasso di interesse e quello del rischio di prezzo del portafoglio bancario, in media e a fine anno, secondo la slide 3 della lezione 36?
+**R:** Con un intervallo di confidenza del **99%** e un holding period di **10 giorni**. Il **rischio di tasso** è stato «mediamente pari a **405 milioni**, con un valore massimo pari a 486 milioni e un valore minimo pari a 301 milioni, attestandosi a fine anno su di un valore pari a **477 milioni**». Il **rischio di prezzo** del portafoglio azionario di minoranza quotato, in gran parte HTCS, ha registrato un livello medio di **200 milioni**, massimo 278 e minimo 151, «attestandosi a fine 2021 su di un valore pari a **230 milioni** (304 milioni il valore di fine 2020)». Gli scostamenti sono «principalmente dovuti alla volatilità dei mercati». ⚠️ Il docente chiama i 200 milioni «rischio medio di tasso di interesse» e legge 304 e 230 come livelli medi ([00:10:59]).
+**Opzione:** Rischio di tasso: media 405 milioni, fine anno 477; rischio di prezzo: media 200, fine anno 230 (304 a fine 2020).
+**Distrattori:**
+- Rischio di tasso: media 200 milioni, fine anno 230; rischio di prezzo: media 405, fine anno 477 (304 a fine 2020).
+- Rischio di tasso: media 405 milioni, fine anno 477; rischio di prezzo: media 200, fine anno 304 (230 a fine 2020).
+- Rischio di tasso: media 486 milioni, fine anno 301; rischio di prezzo: media 278, fine anno 151 (304 a fine 2020).
+
+**D:** ⚠️ Su quale aggregato e per quanto incide al 31 dicembre 2021 uno shock dei prezzi di ±10% sulle attività quotate del portafoglio HTCS, secondo la slide 3 della lezione 36?
+**R:** Sul **patrimonio netto**: la tabella «Rischio di prezzo: impatto sul patrimonio netto» dà **177 milioni** per uno shock di +10% e **−177** per uno shock di −10%. Alle date precedenti gli effetti sono sempre simmetrici: 181 al 30 settembre, 208 al 30 giugno, 152 al 31 marzo 2021, 147 al 31 dicembre 2020. Il docente: è l'effetto netto se si rivendessero oggi i titoli in portafoglio con un prezzo variato del 10% in più o in meno ([00:12:54]).
+**Opzione:** Sul patrimonio netto: +177 milioni con uno shock di +10%, −177 con uno shock di −10%.
+**Distrattori:**
+- Sul conto economico: +177 milioni con uno shock di +10%, −177 con uno shock di −10%.
+- Sul patrimonio netto: +147 milioni con uno shock di +10%, −147 con uno shock di −10%.
+- Sul patrimonio netto: +208 milioni con uno shock di +10%, −208 con uno shock di −10%.
+
+**D:** ⚠️ Per quali valute lo sbilancio fra attività e passività, derivati compresi, è positivo e per quali negativo a fine 2021, secondo la slide 4 della lezione 36?
+**R:** Nella tabella «Distribuzione per valuta di denominazione delle attività e passività e dei derivati» lo sbilancio è **positivo** per **dollaro USA** (168 milioni), **sterlina** (143) e **altre valute** (331). È **negativo** per **franco svizzero** (−11), **yen** (−69) e **dollaro australiano** (−50). Il totale attività somma attività finanziarie, altre attività e posizioni lunghe in derivati; il totale passività fa lo stesso con le posizioni corte. Il docente cita le «cinque principali valute» e conclude che la situazione complessiva è «sostanzialmente positiva», ma non nomina le altre valute ([00:12:54]).
+**Opzione:** Positivo: dollaro USA 168 milioni, sterlina 143, altre valute 331; negativo: franco svizzero −11, yen −69, dollaro australiano −50.
+**Distrattori:**
+- Positivo: dollaro USA 168 milioni, sterlina 143, franco svizzero 11; negativo: yen −69, dollaro australiano −50, altre valute −331.
+- Positivo: dollaro USA 168 milioni, sterlina 143, dollaro australiano 50; negativo: franco svizzero −11, yen −69, altre valute −331.
+- Positivo: dollaro USA 168 milioni, yen 69, altre valute 331; negativo: franco svizzero −11, sterlina −143, dollaro australiano −50.
+
+**D:** ⚠️ Quanto vale a fine 2021 il VaR del rischio di cambio degli investimenti partecipativi in divisa estera, e su che cosa si rifletterebbe, secondo la slide 5 della lezione 36?
+**R:** «Il rischio di cambio espresso dagli **investimenti partecipativi in divisa estera (banking book)** origina a fine esercizio 2021 un VaR (intervallo di confidenza 99%, holding period 10 giorni) pari a **93 milioni**. Tale impatto potenziale si rifletterebbe **unicamente sul Patrimonio Netto**.» Il rischio di cambio delle attività di **negoziazione** è invece inserito nelle procedure operative e nelle metodologie del modello interno basato sui calcoli di VaR, illustrate nella Parte E consolidata. Il docente: è un rischio «molto più contenuto rispetto al rischio prezzo», con un impatto potenziale «direttamente sul patrimonio netto» ([00:15:52]).
+**Opzione:** 93 milioni, con intervallo di confidenza 99% e holding period 10 giorni; si rifletterebbe unicamente sul Patrimonio Netto.
+**Distrattori:**
+- 93 milioni, con intervallo di confidenza 99% e holding period 10 giorni; si rifletterebbe unicamente sul conto economico.
+- 230 milioni, con intervallo di confidenza 99% e holding period 10 giorni; si rifletterebbe unicamente sul Patrimonio Netto.
+- 93 milioni, con intervallo di confidenza 99% e holding period 10 giorni; si rifletterebbe sul Patrimonio Netto e sul conto economico.
+
+**D:** ⚠️ Quale quota dell'EAD complessiva dei derivati finanziari e creditizi è valutata con modelli EPE al 31 dicembre 2021, e che cosa resta fuori, secondo la slide 5 della lezione 36?
+**R:** «Al 31 dicembre 2021 **circa il 98%** dell'EAD complessiva relativa ai derivati finanziari e creditizi è valutata con modelli **EPE**» (*Expected Positive Exposure*), che la Banca è autorizzata a usare per il requisito per il rischio di controparte. I derivati misurati con metodi diversi dai modelli interni sono «una quota residuale del portafoglio (al 31 dicembre 2021 pari a **circa il 2%** dell'EAD complessiva) e si riferiscono a **contratti residuali non simulati**, nel rispetto delle **soglie di non materialità stabilite da EBA**». Il modello EPE tiene conto del collaterale: circa 8 miliardi di garanzie ricevute e circa 19 miliardi di collaterale pagato. La tabella dell'EAD per metodologia, annunciata dalla slide, non è riprodotta.
+**Opzione:** Circa il 98%; il restante 2% circa sono contratti residuali non simulati, nel rispetto delle soglie di non materialità stabilite da EBA.
+**Distrattori:**
+- Circa il 98%; il restante 2% circa sono contratti residuali non simulati, nel rispetto delle soglie di non materialità stabilite dalla BCE.
+- Circa il 2%; il restante 98% circa sono contratti residuali non simulati, nel rispetto delle soglie di non materialità stabilite da EBA.
+- Circa il 98%; il restante 2% circa sono derivati Exchange Traded e contratti con le Controparti centrali, esclusi dal perimetro.
+
+**D:** ⚠️ Che cosa ha previsto per il rischio di controparte l'entrata in vigore delle regole di Basilea 3, secondo la slide 5 della lezione 36?
+**R:** «L'inclusione nel perimetro segnalato del rischio di controparte anche dei derivati **Exchange Traded Derivatives (ETD)** e dei **contratti con le Controparti centrali CCP**» (la slide scrive «Exchage»). ⚠️ Il docente dice che Basilea 3 ha allargato le regole di misurazione del rischio di controparte «anche ai **derivati del rischio di cambio**» ([00:17:34]): legge *exchange* come cambio, ma qui è la borsa. Per lui le controparti centrali sono «le famose clearing house», controparti terze che garantiscono l'adempimento fra le parti, con un rischio di fallimento «residuale ma non pari a zero».
+**Opzione:** L'inclusione nel perimetro segnalato del rischio di controparte anche dei derivati Exchange Traded Derivatives (ETD) e dei contratti con le Controparti centrali CCP.
+**Distrattori:**
+- L'inclusione nel perimetro segnalato del rischio di controparte anche dei derivati sul rischio di cambio e dei contratti con le Controparti centrali CCP.
+- Tutte le attività finanziarie per cassa vantate verso banche o clientela, qualunque sia il loro portafoglio di allocazione contabile.
+- Alla raccolta a vista stabile (core deposit); alla quota già fissata di impieghi a tasso variabile; a una porzione degli impieghi creditizi a tasso fisso.
+
+**D:** ⚠️ Che cos'è l'EAD a cui si fa riferimento per il calcolo del rischio di controparte, secondo il docente della lezione 36?
+**R:** La «cosiddetta **exposure at default**, cioè l'esposizione della banca nei confronti della controparte nel momento in cui la controparte viene **dichiarata fallita**» ([00:16:36]). Nella lezione 30 l'EAD è l'«ammontare dell'esposizione al momento del default». Nella slide 5 circa il 98% dell'EAD dei derivati finanziari e creditizi è valutata con i modelli interni EPE, *Expected Positive Exposure*, che il docente chiama «esposizione positiva attesa».
+**Opzione:** L'exposure at default: l'esposizione della banca verso la controparte nel momento in cui la controparte viene dichiarata fallita.
+**Distrattori:**
+- L'exposure at default: l'esposizione della banca verso la controparte nel momento in cui il contratto derivato viene stipulato.
+- I titoli di capitale e le quote di OICR.
+- La variazione di valore del portafoglio conseguente a uno spostamento parallelo e uniforme di +100 punti base della curva.
+
+**D:** ⚠️ In quale colonna e in quale riga della tabella dei valori nozionali dei derivati finanziari di negoziazione al 31 dicembre 2021 stanno i 1.933.669 milioni, secondo la slide 6 della lezione 36?
+**R:** Nella colonna **over the counter con controparti centrali**, alla riga b) **Swap** dei **titoli di debito e tassi d'interesse**: è l'unica casella valorizzata della colonna, che ha lo stesso totale. Le altre colonne sono over the counter senza controparti centrali, con accordi di compensazione (482.897) e senza (121.010), e **mercati organizzati** (171.783), dove stanno soprattutto i futures su tassi (160.633). Il nozionale OTC complessivo è di 2.537.576 milioni, come nella tabella della vita residua (slide 9). Il docente: le controparti centrali sono «società o enti che assicurano l'adempimento delle parti» ([00:18:40]).
+**Opzione:** Over the counter con controparti centrali: swap su titoli di debito e tassi d'interesse.
+**Distrattori:**
+- Over the counter senza controparti centrali, con accordi di compensazione: swap su titoli di debito e tassi d'interesse.
+- Mercati organizzati: futures su titoli di debito e tassi d'interesse.
+- Over the counter con controparti centrali: forward su valute e oro.
+
+**D:** ⚠️ Quali sono, nell'ordine, le attività sottostanti della tabella dei valori nozionali dei derivati finanziari di negoziazione, secondo la slide 6 della lezione 36?
+**R:** 1. **Titoli di debito e tassi d'interesse**; 2. **Titoli di capitale e indici azionari**; 3. **Valute e oro**; 4. **Merci**; 5. **Altri sottostanti**. Ciascuno si divide per tipologia di derivato: a) opzioni, b) swap, c) forward, d) futures, e) altri. Gli stessi sottostanti tornano, numerati A.1–A.5, nella vita residua dei derivati finanziari OTC (slide 9). ⚠️ Il **credito** non è un sottostante dei derivati finanziari: i derivati creditizi hanno tabelle proprie (slide 10–13). Il docente legge i sottostanti nella vita residua: titoli di debito e tassi di interesse, titoli di capitale e indici azionari, valute e oro, merci e altri derivati finanziari ([00:21:11]).
+**Opzione:** Titoli di debito e tassi d'interesse; titoli di capitale e indici azionari; valute e oro; merci; altri sottostanti.
+**Distrattori:**
+- Titoli di debito e tassi d'interesse; titoli di capitale e indici azionari; valute e oro; merci; crediti.
+- Titoli di debito e tassi d'interesse; titoli di capitale e indici azionari; valute e oro; immobili; altri sottostanti.
+- Opzioni; swap; forward; futures; altri.
+
+**D:** ⚠️ Quali sono, nell'ordine, le tipologie della tabella del fair value lordo dei derivati finanziari di negoziazione ripartito per prodotti, secondo la slide 7 della lezione 36?
+**R:** a) **Opzioni**; b) **Interest rate swap**; c) **Cross currency swap**; d) **Equity swap**; e) **Forward**; f) **Futures**; g) **Altri**, sia per il fair value positivo sia per il negativo. Al 31 dicembre 2021 il fair value positivo è di 39.039 milioni con controparti centrali, tutti interest rate swap, 14.718 con accordi di compensazione, 6.680 senza e 26 sui mercati organizzati. Gli equity swap e i futures OTC sono a zero. ⚠️ La tabella dei valori nozionali (slide 6) ha invece solo cinque tipologie: opzioni, swap, forward, futures, altri.
+**Opzione:** Opzioni; interest rate swap; cross currency swap; equity swap; forward; futures; altri.
+**Distrattori:**
+- Opzioni; interest rate swap; cross currency swap; credit default swap; forward; futures; altri.
+- Opzioni; interest rate swap; overnight index swap; equity swap; forward; futures; altri.
+- Opzioni; interest rate swap; cross currency swap; equity swap; forward; futures; total rate of return swap.
+
+**D:** ⚠️ Quali sono, nell'ordine, le categorie della tabella dei valori nozionali dei derivati creditizi di negoziazione, per gli acquisti e per le vendite di protezione, secondo la slide 10 della lezione 36?
+**R:** a) **Credit default products**; b) **Credit spread products**; c) **Total rate of return swap**; d) **Altri**. Sono le stesse quattro righe per gli **acquisti** e per le **vendite di protezione**, e tornano nel fair value lordo per prodotti (slide 11). Le colonne sono «su un singolo soggetto» e «su più soggetti (basket)». ⚠️ Sono valorizzati solo i credit default products; le altre tre righe sono vuote (test, domande 4 e 5). Il docente nomina solo i credit default products ([00:21:49], [00:23:08]).
+**Opzione:** Credit default products; credit spread products; total rate of return swap; altri.
+**Distrattori:**
+- Credit default products; credit spread products; interest rate swap; altri.
+- Credit default products; cross currency swap; total rate of return swap; altri.
+- Su un singolo soggetto; su più soggetti (basket).
+
+**D:** ⚠️ Quali valori nozionali hanno a fine 2021 gli acquisti e le vendite di protezione con credit default products, su un singolo soggetto e su più soggetti, secondo la slide 10 della lezione 36?
+**R:** **Acquisti di protezione**: **7.531 milioni** su un singolo soggetto e **67.468** su più soggetti (basket), 74.999 in tutto (7.072 e 58.756 nel 2020). **Vendite di protezione**: **8.243** e **63.098**, 71.341 in tutto (7.453 e 51.887 nel 2020). ⚠️ Gli **acquisti superano le vendite**; le vendite sono maggiori solo su un singolo soggetto. Il docente legge i 67.468 come il «totale» degli acquisti e conclude che «le vendite sono state superiori agli acquisti» ([00:22:36]). La vita residua (slide 13) conferma 74.999 e 71.341, per un totale di 146.340 milioni, quasi tutti fra 1 e 5 anni.
+**Opzione:** Acquisti: 7.531 milioni su un singolo soggetto e 67.468 su più soggetti; vendite: 8.243 e 63.098.
+**Distrattori:**
+- Acquisti: 8.243 milioni su un singolo soggetto e 63.098 su più soggetti; vendite: 7.531 e 67.468.
+- Acquisti: 67.468 milioni su un singolo soggetto e 7.531 su più soggetti; vendite: 63.098 e 8.243.
+- Acquisti: 7.072 milioni su un singolo soggetto e 58.756 su più soggetti; vendite: 7.453 e 51.887.
+
+**D:** ⚠️ A che cosa è finalizzata l'attività di copertura del fair value posta in essere dalla Banca, secondo la slide 14 della lezione 36?
+**R:** «Ad **immunizzare il portafoglio bancario dalle variazioni di fair value della raccolta e degli impieghi** causate dai movimenti della curva dei tassi di interesse (**rischio tasso**).» La Banca adotta sia coperture specifiche (*micro fair value hedge*) sia coperture generiche (*macro fair value hedge*). ⚠️ La copertura dei **flussi finanziari** ha un altro oggetto: la variazione dei **flussi di cassa futuri**. Il docente: l'attività di copertura è finalizzata a «sterilizzare il portafoglio bancario delle variazioni del fair value» ([00:23:29]).
+**Opzione:** Ad immunizzare il portafoglio bancario dalle variazioni di fair value della raccolta e degli impieghi causate dai movimenti della curva dei tassi di interesse (rischio tasso).
+**Distrattori:**
+- Ad immunizzare il portafoglio bancario dalle variazioni dei flussi di cassa futuri della raccolta e degli impieghi causate dai movimenti della curva dei tassi di interesse (rischio tasso).
+- L'intermediazione, cioè raccolta e prestito del denaro; la prestazione di servizi bancari; il trading sul mercato, cioè acquisto e vendita di azioni, titoli e obbligazioni.
+- Sul patrimonio netto: +177 milioni con uno shock di +10%, −177 con uno shock di −10%.
+
+**D:** ⚠️ A che cosa viene applicata la copertura generica nell'ambito del macro fair value hedge, secondo la slide 14 della lezione 36?
+**R:** A tre oggetti: 1. la **raccolta a vista stabile (core deposit)**, sulla base della versione «**Carve-out**» dello IAS 39; 2. la **quota già fissata di impieghi a tasso variabile**, cioè il rischio di tasso delle cedole a tasso variabile quando il tasso cedolare viene fissato; 3. **una porzione degli impieghi creditizi a tasso fisso**, con un modello di copertura generica a portafoglio aperto secondo un approccio **bottom-layer**. ⚠️ La raccolta a tasso variabile che finanzia impieghi a tasso fisso è invece oggetto del **macro cash flow hedge**. Nel micro fair value hedge sono coperti principalmente prestiti obbligazionari emessi, titoli dell'attivo e impieghi a clientela.
+**Opzione:** Alla raccolta a vista stabile (core deposit); alla quota già fissata di impieghi a tasso variabile; a una porzione degli impieghi creditizi a tasso fisso.
+**Distrattori:**
+- Alla raccolta a vista stabile (core deposit); alla quota già fissata di impieghi a tasso variabile; alla raccolta a tasso variabile utilizzata per finanziare impieghi a tasso fisso.
+- Derivati di copertura del fair value; attività finanziarie coperte (fair value); passività finanziarie coperte (fair value); derivati finanziari di copertura dei flussi finanziari; attività e passività in valuta.
+- Titoli di debito e tassi d'interesse; titoli di capitale e indici azionari; valute e oro; merci; altri sottostanti.
+
+**D:** ⚠️ A che cosa viene applicata la copertura generica nell'ambito del macro cash flow hedge, secondo la slide 14 della lezione 36?
+**R:** Alla «**raccolta a tasso variabile** nella misura in cui è utilizzata per **finanziare impieghi a tasso fisso**» e agli «**impieghi a tasso variabile** a copertura della **raccolta a tasso fisso**». I derivati utilizzati sono interest rate swap (IRS) realizzati con controparti terze, negoziati OTC. La copertura dei flussi finanziari copre la variazione dei flussi di cassa futuri attribuibili ai movimenti della curva dei tassi. Nel micro cash flow hedge sono coperti principalmente prestiti obbligazionari emessi.
+**Opzione:** Alla raccolta a tasso variabile nella misura in cui è utilizzata per finanziare impieghi a tasso fisso; agli impieghi a tasso variabile a copertura della raccolta a tasso fisso.
+**Distrattori:**
+- Alla raccolta a tasso fisso nella misura in cui è utilizzata per finanziare impieghi a tasso variabile; agli impieghi a tasso fisso a copertura della raccolta a tasso variabile.
+- Per stadi di rischio, primo, secondo, terzo e impaired acquisite o originate, ciascuno diviso in tre fasce: da 1 a 30 giorni, da oltre 30 fino a 90, oltre 90.
+- Credit default products; credit spread products; total rate of return swap; altri.
+
+**D:** ⚠️ Quali sono le principali tipologie di derivati utilizzati nell'attività di copertura del fair value, e dove sono negoziati, secondo la slide 14 della lezione 36?
+**R:** «Le principali tipologie di derivati utilizzati sono rappresentate da **interest rate swap (IRS) plain o strutturati**, **overnight index swap (OIS)**, **cross currency swap (CCS)**, **vendite forward** ed **opzioni su tassi**, realizzati con **controparti terze**. I derivati **non sono quotati su mercati regolamentati**, ma negoziati nell'ambito dei circuiti **over the counter (OTC)**. Rientrano tra i contratti over the counter (OTC) anche quelli stipulati tramite **Clearing House**.» Per la copertura dei flussi finanziari si usano interest rate swap. Il docente: gli OIS sono «scambi di indice di brevissima durata», i CCS «scambi per la protezione dai rischi di cambio» ([00:24:48]).
+**Opzione:** Interest rate swap plain o strutturati, overnight index swap, cross currency swap, vendite forward ed opzioni su tassi, con controparti terze, negoziati over the counter e non quotati su mercati regolamentati.
+**Distrattori:**
+- Interest rate swap plain o strutturati, overnight index swap, cross currency swap, vendite forward ed opzioni su tassi, con controparti terze, quotati su mercati regolamentati e non negoziati over the counter.
+- Derivati finanziari, 525 milioni, e derivati su crediti, −54.
+- Acquisti: 7.531 milioni su un singolo soggetto e 67.468 su più soggetti; vendite: 8.243 e 63.098.
+
+**D:** ⚠️ Che cosa ha fatto la Banca nel 2021 per la copertura di investimenti esteri, e come la rappresenta, secondo la slide 15 della lezione 36?
+**R:** «Nel corso del 2021 sono stati posti in essere interventi di **copertura gestionale** del rischio di cambio relativi al **costo della raccolta in divisa** ed agli **utili in valuta** generati dalle **filiali estere** della Capogruppo; trattandosi di copertura gestionale, **non rileva quale copertura contabile** oggetto della presente sezione.» Le informazioni qualitative sulle attività di copertura del rischio di cambio sono rinviate alla Parte E consolidata (slide 4).
+**Opzione:** Coperture gestionali del rischio di cambio sul costo della raccolta in divisa e sugli utili in valuta delle filiali estere; essendo gestionali, non rilevano come coperture contabili.
+**Distrattori:**
+- Coperture gestionali del rischio di cambio sul costo della raccolta in divisa e sugli utili in valuta delle filiali estere; pur gestionali, rilevano come coperture contabili di investimenti esteri.
+- Cassa e disponibilità liquide.
+- Circa il 98%; il restante 2% circa sono contratti residuali non simulati, nel rispetto delle soglie di non materialità stabilite da EBA.
+
+**D:** ⚠️ A quali fenomeni sono imputabili le principali cause di inefficacia del modello adottato dalla Banca per la verifica dell'efficacia delle coperture, secondo la slide 15 della lezione 36?
+**R:** 1. Al **disallineamento tra nozionale del derivato e del sottostante coperto**, rilevato alla designazione iniziale o generato dopo, «come nel caso di rimborsi parziali dei mutui o riacquisto dei prestiti obbligazionari». 2. All'**applicazione di curve diverse** su derivato di copertura ed oggetto coperto nel test di efficacia delle coperture fair value hedge: i derivati, normalmente collateralizzati o stipulati tramite Clearing House, sono scontati alle **curve Overnight**, gli oggetti coperti alla **curva di indicizzazione dello strumento di copertura**. 3. All'**inclusione nel test di efficacia del valore della gamba variabile** del derivato di copertura, nel fair value hedge. L'inefficacia è «prontamente rilevata» ai fini dell'effetto a conto economico e della possibilità di continuare ad applicare l'hedge accounting. La Banca non utilizza le coperture dinamiche dell'IFRS 7, paragrafo 23C.
+**Opzione:** Il disallineamento tra nozionale del derivato e del sottostante coperto; l'applicazione di curve diverse su derivato di copertura e oggetto coperto; l'inclusione nel test di efficacia del valore della gamba variabile del derivato.
+**Distrattori:**
+- Il disallineamento tra nozionale del derivato e del sottostante coperto; l'applicazione della stessa curva su derivato di copertura e oggetto coperto; l'inclusione nel test di efficacia del valore della gamba variabile del derivato.
+- Rettifiche di valore complessive, sia per le deteriorate sia per le non deteriorate.
+- Soprattutto nell'ultimo trimestre del 2021, all'accresciuta operatività di impiego a tasso fisso ed alle coperture della raccolta a vista da clientela.
+
+**D:** ⚠️ Quali sono, nell'ordine, le principali tipologie di elementi coperti, secondo la slide 15 della lezione 36?
+**R:** 1. **titoli di debito dell'attivo**; 2. **titoli di debito emessi e raccolta non cartolare**; 3. **impieghi a tasso fisso**; 4. **impieghi a tasso variabile**; 5. **componente opzionale implicita nei mutui a tasso variabile**; 6. **cedola già fissata di impieghi a tasso variabile**; 7. **raccolta a vista modellizzata**. Le slide 16–17 le descrivono nello stesso ordine. ⚠️ La componente opzionale implicita è quella dei mutui **a tasso variabile**, coperta in micro fair value hedge con opzioni cap, floor e collar (slide 17). Il docente cita titoli di debito dell'attivo ed emessi, impieghi a tasso fisso e variabile e cedole, «eccetera eccetera» ([00:24:48]).
+**Opzione:** Titoli di debito dell'attivo; titoli di debito emessi e raccolta non cartolare; impieghi a tasso fisso; impieghi a tasso variabile; componente opzionale implicita nei mutui a tasso variabile; cedola già fissata di impieghi a tasso variabile; raccolta a vista modellizzata.
+**Distrattori:**
+- Titoli di debito dell'attivo; titoli di debito emessi e raccolta non cartolare; impieghi a tasso fisso; impieghi a tasso variabile; componente opzionale implicita nei mutui a tasso fisso; cedola già fissata di impieghi a tasso variabile; raccolta a vista modellizzata.
+- L'intermediazione, cioè raccolta e prestito del denaro; la prestazione di servizi bancari; il trading sul mercato, cioè acquisto e vendita di azioni, titoli e obbligazioni.
+- Sofferenze 2.346 milioni, inadempienze probabili 4.902, scadute deteriorate 527: 7.775 in tutto.
+
+**D:** ⚠️ Su che cosa è basato il Dollar Offset Method con cui si verifica l'efficacia delle coperture di tipo micro, secondo la slide 16 della lezione 36?
+**R:** «Sul **rapporto** tra le **variazioni cumulate (da inizio copertura)** di fair value dello strumento di copertura, attribuibili al rischio coperto, e le **variazioni passate** di fair value dell'elemento coperto (cd. **delta fair value**), **al netto del rateo di interesse**.» Per la raccolta si usano anche le variazioni dei flussi di cassa. Il metodo si usa per i titoli di debito dell'attivo, per le coperture micro della raccolta e degli impieghi a tasso fisso, per la componente opzionale dei mutui, per la cedola già fissata e per la raccolta a vista modellizzata. ⚠️ Per le coperture macro di tipo cash flow si usa invece il **test di capienza**.
+**Opzione:** Sul rapporto tra le variazioni cumulate, da inizio copertura, di fair value dello strumento di copertura attribuibili al rischio coperto e le variazioni passate di fair value dell'elemento coperto, al netto del rateo di interesse.
+**Distrattori:**
+- Sul rapporto tra le variazioni cumulate, da inizio copertura, di fair value dello strumento di copertura attribuibili al rischio coperto e le variazioni passate di fair value dell'elemento coperto, al lordo del rateo di interesse.
+- I differenziali relativi ai derivati di copertura che correggono gli interessi attivi rilevati sugli strumenti finanziari coperti: −1.017 milioni.
+- In un confronto tra la consistenza degli elementi coperti e quella degli strumenti di copertura, che deve essere sempre riscontrata lungo l'intera vita della relazione di copertura e per singola fascia temporale.
+
+**D:** ⚠️ In che cosa consiste il test di capienza con cui si verifica l'efficacia delle coperture di tipo macro della raccolta e degli impieghi a tasso variabile, secondo le slide 16–17 della lezione 36?
+**R:** «Tale test prevede un **confronto tra la consistenza degli elementi coperti**, riferiti alla raccolta in essere e prevista (cd. operazioni future altamente probabili) a tasso variabile **e quella degli strumenti di copertura**, che deve essere **sempre riscontrata lungo l'intera vita della relazione di copertura e per singola fascia temporale**.» L'oggetto coperto sono i flussi di cassa attesi dalla raccolta o dagli impieghi. Lo stesso test verifica la consistenza degli elementi coperti nella cedola già fissata di impieghi a tasso variabile (slide 17). ⚠️ Per le coperture micro si usa il Dollar Offset Method.
+**Opzione:** In un confronto tra la consistenza degli elementi coperti e quella degli strumenti di copertura, che deve essere sempre riscontrata lungo l'intera vita della relazione di copertura e per singola fascia temporale.
+**Distrattori:**
+- In un confronto tra la consistenza degli elementi coperti e quella degli strumenti di copertura, che deve essere riscontrata solo al momento della designazione iniziale e per singola fascia temporale.
+- La voce 70 espone i dividendi e i proventi simili; la voce 80 l'attività di negoziazione, cioè la vera e propria attività di trading.
+- Sul rapporto tra le variazioni cumulate, da inizio copertura, di fair value dello strumento di copertura attribuibili al rischio coperto e le variazioni passate di fair value dell'elemento coperto, al netto del rateo di interesse.
+
+**D:** ⚠️ Che cosa si designa come strumento di copertura nelle vendite forward su titoli del portafoglio HTCS, e perché la vendita forward è un derivato, secondo la slide 16 della lezione 36?
+**R:** Le vendite forward su titoli HTCS sono relazioni di **micro fair value hedge**, «effettuate per consentire un hedge dei rischi sul fair value da movimenti di spread di credito e delle curve di tasso». Il contratto di vendita forward «si configura come derivato in quanto transazione "**non regular way**"»: per questo «si procede alla separazione della **componente spot** (il prezzo a pronti) dalla componente interessi designando come strumento di copertura in una relazione di fair value hedging **solo la componente spot**».
+**Opzione:** Solo la componente spot, cioè il prezzo a pronti, separata dalla componente interessi; la vendita forward è un derivato in quanto transazione non regular way.
+**Distrattori:**
+- Solo la componente interessi, separata dalla componente spot, cioè il prezzo a pronti; la vendita forward è un derivato in quanto transazione non regular way.
+- Titoli di capitale: senza rigiro a conto economico; altre attività: con rigiro a conto economico.
+- Con opzioni cap, floor e collar, in relazioni di micro fair value hedge.
+
+**D:** ⚠️ Qual è lo scopo della copertura della raccolta a vista modellizzata, e con quali strumenti si realizza, secondo la slide 17 della lezione 36?
+**R:** È coperta in relazioni di **macro fair value hedge**, «come previsto dal "Carve-out" dello IAS 39», utilizzando **interest rate swap (IRS)** e **overnight index swap (OIS)**. «Scopo di questo tipo di copertura è quello di **immunizzare il margine di interesse da possibili cali dei tassi** che riducano lo spread generato dalla **raccolta core** della Banca.» Il modello è monitorato dalla Direzione Centrale Market and Financial Risk Management, per recepire le variazioni di masse, stabilità e reattività. L'efficacia si verifica con il Dollar Offset Method.
+**Opzione:** Immunizzare il margine di interesse da possibili cali dei tassi che riducano lo spread generato dalla raccolta core della Banca, con interest rate swap e overnight index swap.
+**Distrattori:**
+- Immunizzare il margine di interesse da possibili rialzi dei tassi che riducano lo spread generato dalla raccolta core della Banca, con interest rate swap e overnight index swap.
+- Utile 2.948 milioni; altre componenti reddituali −347; redditività complessiva 2.601.
+- Negoziazione di vigilanza: qualitative e quantitative nella Parte E della Nota Integrativa consolidata; portafoglio bancario: qualitative nella consolidata, quantitative nella nota d'esercizio.
+
+**D:** ⚠️ Con quali strumenti, e in quale tipo di relazione di copertura, è coperta la componente opzionale implicita nei mutui a tasso variabile, secondo la slide 17 della lezione 36?
+**R:** In relazioni di **micro fair value hedge**, «utilizzando **opzioni (cap, floor, collar)** come strumenti di copertura». Le componenti coperte sono le opzioni di tasso implicite nei mutui. «I sottostanti possono essere coperti **parzialmente o totalmente**, nel tempo e nell'importo.» L'efficacia si verifica con il Dollar Offset Method. ⚠️ La **cedola già fissata** degli impieghi a tasso variabile è coperta invece in **macro** fair value hedge con **OIS**, e gli impieghi a tasso variabile in **macro cash flow hedge** con IRS.
+**Opzione:** Con opzioni cap, floor e collar, in relazioni di micro fair value hedge.
+**Distrattori:**
+- Con opzioni cap, floor e collar, in relazioni di macro cash flow hedge.
+- Con overnight index swap, in relazioni di micro fair value hedge.
+- Con vendite forward, in relazioni di micro fair value hedge.
+
+## Lezione 37 — La Nota Integrativa del bilancio della compagnia di assicurazioni. I dati di sintesi
+
+**D:** ⚠️ Come si chiamano i ricavi caratteristici della compagnia di assicurazione, secondo il test della lezione 37 (domanda 1)?
+**R:** **Premi**: sono la «*tipica voce di ricavo*» della compagnia, come i sinistri sono la tipica voce di costo (lezione 24, slide 3). Aprono la tabella di sintesi di UnipolSai, con i premi lordi e i premi diretti (slide 2). Il docente chiama «ricavi» i premi dell'RC auto ([00:10:37]). ⚠️ Le **polizze** sono i contratti da cui nascono i premi, non i ricavi. «Ricavi» ed «entrate» sono nomi generici, validi per qualunque impresa. Distrattori del test: «polizze», «ricavi», «entrate».
+**Opzione:** Premi.
+**Distrattori:**
+- Polizze.
+- Ricavi.
+- Entrate.
+
+**D:** ⚠️ Quali sono i rami che possono essere esercitati da una compagnia di assicurazione, secondo il test della lezione 37 (domanda 2)?
+**R:** **Danni e vita**: la tabella dei premi per ramo segue la classificazione dei rischi del **D.Lgs. 209/2005**, art. 2, primo comma per i **rami Vita** e terzo comma per i **rami Danni** (slide 10). ⚠️ L'RC auto è **un solo** ramo Danni, il 10, R.C. autoveicoli terrestri (slide 11). «Previdenza e pensioni» richiama il ramo VI Vita, fondi pensione. «Solo investimenti» non è un ramo. ⚠️ Per il docente le compagnie **nuove** possono esercitare **o** i danni **o** i vita, e UnipolSai li esercita entrambi perché è una delle «vecchie compagnie» ([00:16:00]). Distrattori del test: «rc auto», «previdenza e pensioni», «solo investimenti».
+**Opzione:** Danni e vita.
+**Distrattori:**
+- RC auto.
+- Previdenza e pensioni.
+- Solo investimenti.
+
+**D:** ⚠️ Qual è la posta caratteristica del passivo patrimoniale della compagnia di assicurazione, secondo il test della lezione 37 (domanda 3)?
+**R:** Le **riserve tecniche**, la «*parte preponderante del passivo*» (lezione 23, slide 5): è la domanda 5 del test 23. In UnipolSai valgono **44.238,9 milioni** contro un patrimonio netto di 6.561,9 (slide 3). ⚠️ Le **riserve di capitale** stanno nel patrimonio netto e si trovano in qualunque società. I «fondi spese» non esistono nello schema, che ha i fondi per rischi e oneri. Gli ammortamenti non sono una posta del passivo. Distrattori del test: «riserve di capitale», «fondi spese», «ammortamenti».
+**Opzione:** Riserve tecniche.
+**Distrattori:**
+- Riserve di capitale.
+- Fondi spese.
+- Ammortamenti.
+
+**D:** ⚠️ Che cos'è la riassicurazione, secondo il test della lezione 37 (domanda 4)?
+**R:** «**Una compagnia assume i premi di un'altra compagnia senza che gli assicurati lo sappiano**», secondo la chiave. È la riassicurazione **attiva**, il lavoro indiretto delle «*accettazioni in riassicurazione attiva*» (slide 15). Il docente la descrive come il «prendere contratti fatti da una precedente società di assicurazione che li cede» (lezione 24, [00:16:10]). ⚠️ La coda «senza che gli assicurati lo sappiano» non compare nei transcript né nel testo delle slide del corso: vedi l'integrazione nella nota. ⚠️ Il vicino è «vende polizze ad un'altra compagnia»: chi cede in riassicurazione non vende, **paga** un premio al riassicuratore (lezione 24, [00:16:10]). «Più compagnie assicurano contemporaneamente lo stesso assicurato» è la coassicurazione, chiave della domanda 5. Distrattori del test: «una compagnia è acquistata da un'altra compagnia», «una compagnia vende polizze ad un'altra compagnia», «più compagnie assicurano contemporaneamente lo stesso assicurato».
+**Opzione:** Una compagnia assume i premi di un'altra compagnia senza che gli assicurati lo sappiano.
+**Distrattori:**
+- Una compagnia è acquistata da un'altra compagnia.
+- Una compagnia vende polizze ad un'altra compagnia.
+- Più compagnie assicurano contemporaneamente lo stesso assicurato.
+
+**D:** ⚠️ Che cos'è la coassicurazione, secondo il test della lezione 37 (domanda 5)?
+**R:** «**Più compagnie assicurano contemporaneamente lo stesso assicurato**», secondo la chiave. ⚠️ Il corso nomina la coassicurazione accanto alla riassicurazione senza mai definirla (lezione 23, [00:27:05]; lezione 24, [00:05:18]): la definizione è nell'integrazione della nota. ⚠️ La domanda è **speculare** alla 4: stessa batteria, e la chiave della 4, «una compagnia assume i premi di un'altra compagnia senza che gli assicurati lo sappiano», qui è il distrattore vicino. Distrattori del test: «una compagnia assume i premi di un'altra compagnia senza che gli assicurati lo sappiano», «una compagnia è acquistata da un'altra compagnia», «una compagnia vende polizze ad un'altra compagnia».
+**Opzione:** Più compagnie assicurano contemporaneamente lo stesso assicurato.
+**Distrattori:**
+- Una compagnia assume i premi di un'altra compagnia senza che gli assicurati lo sappiano.
+- Una compagnia è acquistata da un'altra compagnia.
+- Una compagnia vende polizze ad un'altra compagnia.
+
+**D:** ⚠️ Dove si trovano i dati di sintesi più significativi dell'attività assicurativa nel fascicolo di bilancio della compagnia, secondo il docente della lezione 37?
+**R:** «In apertura del fascicolo di bilancio», nella **relazione sulla gestione** o nella **parte iniziale della nota integrativa**: «dipende da come è organizzata graficamente la redazione di questi due documenti» ([00:00:55]), cioè dalle «scelte editoriali» della compagnia ([00:27:28]). Nelle slide di UnipolSai la parte sul titolo è intitolata «Relazione sulla gestione» (slide 4). Per il docente non è «una tabellina economica»: evidenzia i dati essenziali per capire l'andamento dell'esercizio ([00:01:53]).
+**Opzione:** In apertura del fascicolo di bilancio, nella relazione sulla gestione o nella parte iniziale della nota integrativa, secondo le scelte editoriali della compagnia.
+**Distrattori:**
+- In apertura del fascicolo di bilancio, sempre nella parte iniziale della nota integrativa, secondo lo schema obbligatorio previsto per le compagnie.
+- Con un trattato stop loss.
+- Conservazione Danni 95,8%, conservazione Vita 99,8%, ritenzione netta 97,1%.
+
+**D:** ⚠️ Come è definito l'expense ratio nella tabella di sintesi della lezione 37, e quanto vale nel 2021?
+**R:** Nota (2) della slide 2: «*Rapporto percentuale tra le **spese di gestione** e i **premi contabilizzati** del **lavoro diretto***». Nel 2021 è del **29,8%** nel comparto Danni (29,4% nel 2020) e del **5,4%** nel comparto Vita (4,7%), in aumento in entrambi. Il docente: è «una prima valutazione delle spese di gestione rispetto ai premi», il costo dell'erogazione dei premi, e aumentando dice che «è stato più costoso poter realizzare quel livello di premi» ([00:03:39]). ⚠️ Il denominatore sono i premi **contabilizzati**: l'OTI ratio della nota (3) usa invece i premi di competenza.
+**Opzione:** Rapporto percentuale tra le spese di gestione e i premi contabilizzati del lavoro diretto.
+**Distrattori:**
+- Rapporto percentuale tra le spese di gestione e i premi di competenza del lavoro diretto.
+- Rischio di interesse.
+- 283,6 milioni (260,0 nel 2020), quasi interamente attribuiti ai rami Danni.
+
+**D:** ⚠️ Come è definito il loss ratio con OTI ratio nella tabella di sintesi della lezione 37, e quanto vale nel 2021?
+**R:** Nota (3) della slide 2: «*Rapporto sinistri a premi del lavoro diretto comprensivo di **OTI ratio** che è il rapporto tra il **saldo netto delle altre partite tecniche** e la **variazione delle altre riserve tecniche** e i **premi di competenza***». Nel 2021 è del **64,0%** (56,9% nel 2020). La slide 5 lo dice «*comprensivo del saldo delle altre partite tecniche*». Il docente: «il rapporto tra sinistri e premi sostanzialmente» ([00:04:05]). ⚠️ Nella lezione 25 l'indice di sinistralità è sinistri di competenza / premi di competenza.
+**Opzione:** Rapporto sinistri a premi del lavoro diretto comprensivo di OTI ratio, cioè il rapporto tra il saldo netto delle altre partite tecniche e la variazione delle altre riserve tecniche e i premi di competenza.
+**Distrattori:**
+- Rapporto sinistri a premi del lavoro diretto comprensivo di OTI ratio, cioè il rapporto tra il saldo netto delle altre partite tecniche e la variazione delle altre riserve tecniche e i premi contabilizzati.
+- Al trattato sottoscritto dal 2020 con la controllata UniSalute, che prevede una cessione proporzionale al 50% degli affari sottoscritti nei rami Infortuni e Malattia.
+- Da Unipol Gruppo, ai sensi dell'art. 2359, primo comma, numero 1) del Codice Civile, con il 60,988%.
+
+**D:** ⚠️ Come è definito il combined ratio nella tabella di sintesi della lezione 37, e quanto vale nel 2021?
+**R:** Nota (4) della slide 2: «*Somma del loss ratio e del rapporto tra le spese di gestione e i premi contabilizzati*». Nel 2021 è del **93,8%**, contro l'**86,3%** del 2020. I conti tornano con il loss ratio e l'expense ratio del comparto Danni: 64,0 + 29,8 e 56,9 + 29,4. La slide 5 lo lega alla sinistralità, «*influenzato da questo contesto*». ⚠️ Il docente dice prima che è aumentato, poi che «è migliorato tuttavia rispetto all'anno precedente ma non in maniera sufficiente» ([00:04:33]): passa da 86,3% a 93,8%.
+**Opzione:** Somma del loss ratio e del rapporto tra le spese di gestione e i premi contabilizzati.
+**Distrattori:**
+- Differenza fra il loss ratio e il rapporto tra le spese di gestione e i premi contabilizzati.
+- Derivati finanziari e derivati creditizi.
+- Il D.Lgs. 7 settembre 2005, n. 209, Codice delle Assicurazioni, art. 2: primo comma per i rami Vita, terzo comma per i rami Danni.
+
+**D:** ⚠️ Quanto valgono nel 2021 l'expense ratio del comparto Danni, il loss ratio con OTI ratio e il combined ratio di UnipolSai, nella tabella di sintesi della lezione 37?
+**R:** Expense ratio comparto Danni **29,8%** (29,4% nel 2020), loss ratio con OTI ratio **64,0%** (56,9%), combined ratio lavoro diretto compreso OTI ratio **93,8%** (86,3%) (slide 2, 5). L'expense ratio del comparto Vita è del 5,4% (4,7%). Sono tutti in aumento, e 64,0 + 29,8 = 93,8.
+**Opzione:** Expense ratio Danni 29,8%, loss ratio 64,0%, combined ratio 93,8%.
+**Distrattori:**
+- Expense ratio Danni 29,4%, loss ratio 56,9%, combined ratio 86,3%.
+- Expense ratio Danni 29,8%, loss ratio 56,9%, combined ratio 86,3%.
+- Expense ratio Danni 29,4%, loss ratio 64,0%, combined ratio 93,8%.
+
+**D:** ⚠️ Quanto valgono nel 2021 i premi lordi, i premi diretti e i pagamenti di UnipolSai, e come variano, secondo la tabella di sintesi della lezione 37?
+**R:** Premi lordi **9.874,5 milioni** (−2,5%; 10.130,3 nel 2020), premi diretti **9.590,9** (−2,8%; 9.870,4), pagamenti per sinistri, scadenze, riscatti e rendite **7.261,0** (−11,9%; 8.240,0) (slide 2). ⚠️ Il docente dice «rispetto ai 10.000 dell'anno precedente», «9.590.000», «7.261.000.000» e «una diminuzione dell'11%» ([00:02:13]–[00:02:53]): fa testo la slide.
+**Opzione:** Premi lordi 9.874,5 milioni (−2,5%), premi diretti 9.590,9 (−2,8%), pagamenti 7.261,0 (−11,9%).
+**Distrattori:**
+- Premi lordi 9.590,9 milioni (−2,8%), premi diretti 9.874,5 (−2,5%), pagamenti 7.261,0 (−11,9%).
+- Premi lordi 9.874,5 milioni (−2,5%), premi diretti 9.590,9 (−2,8%), pagamenti 7.261,0 (−11,0%).
+- Premi lordi 10.130,3 milioni (−8,6%), premi diretti 9.870,4 (−10,8%), pagamenti 8.240,0 (−8,6%).
+
+**D:** ⚠️ Quanto valgono nel 2021 i proventi patrimoniali e finanziari netti nelle due righe della tabella di sintesi della lezione 37?
+**R:** Esclusa la classe «D» e **le** rettifiche/riprese di valore: **1.377,4 milioni** (+7,6%; 1.279,7 nel 2020). Esclusa la classe «D» e **comprese** le rettifiche/riprese di valore: **1.303,2** (+19,9%; 1.087,3) (slide 2). La slide 7 dà poi 1.161,8 milioni di proventi al netto degli oneri ed esclusa la classe D, con un decremento di 8,8 milioni, senza raccordarli con le due righe. Il docente cita il +7,6%, «sicuramente molto positivo» ([00:04:33]).
+**Opzione:** Esclusa la classe D e le rettifiche: 1.377,4 milioni (+7,6%); esclusa la classe D e comprese le rettifiche: 1.303,2 (+19,9%).
+**Distrattori:**
+- Esclusa la classe D e le rettifiche: 1.303,2 milioni (+19,9%); esclusa la classe D e comprese le rettifiche: 1.377,4 (+7,6%).
+- Esclusa la classe D e le rettifiche: 1.377,4 milioni (+19,9%); esclusa la classe D e comprese le rettifiche: 1.303,2 (+7,6%).
+- Esclusa la classe D e le rettifiche: 1.161,8 milioni (+7,6%); esclusa la classe D e comprese le rettifiche: 1.303,2 (+19,9%).
+
+**D:** ⚠️ Di quanto sono cresciuti negli ultimi 12 mesi del 2021 il titolo UnipolSai e i tre indici di confronto, secondo la slide 4 della lezione 37?
+**R:** Il titolo, a un prezzo ufficiale di **2,48 euro**, è cresciuto del **14,3%**, «*a fronte di incrementi dell'indice generale **FTSE Italia all-share del 23,7%**, dell'indice **FTSEMIB del 23,0%** e dell'indice **FTSE Italia All Share Insurance del 30,6%***» (slide 4). La capitalizzazione sale da 6.140 a **7.018 milioni**. ⚠️ Il docente attribuisce il 30 al «Fuzzi All Share», senza «Insurance», e dice che il titolo «ha sottoperformato» ([00:07:16]).
+**Opzione:** Titolo +14,3%; FTSE Italia All-Share +23,7%; FTSE MIB +23,0%; FTSE Italia All Share Insurance +30,6%.
+**Distrattori:**
+- Titolo +14,3%; FTSE Italia All-Share +30,6%; FTSE MIB +23,0%; FTSE Italia All Share Insurance +23,7%.
+- Titolo +23,7%; FTSE Italia All-Share +14,3%; FTSE MIB +23,0%; FTSE Italia All Share Insurance +30,6%.
+- Titolo +14,3%; FTSE Italia All-Share +23,0%; FTSE MIB +23,7%; FTSE Italia All Share Insurance +30,6%.
+
+**D:** ⚠️ Da chi è controllata UnipolSai, ai sensi di quale norma e con quale quota, secondo la slide 4 della lezione 37?
+**R:** «*La società è **controllata**, ai sensi dell'**art. 2359, primo comma, numero 1) del Codice Civile**, da **Unipol Gruppo***» (slide 4). Nel grafico dei principali azionisti al 31 dicembre 2021 Unipol Gruppo ha il **60,988%**, il mercato il 15,084%, Unipolpart I e Unipol Finance il 9,900% ciascuna, Unipol Investment il 4,128%. Il docente: «la buona parte dell'azionariato» è riconducibile al gruppo Unipol ([00:08:21]–[00:08:38]).
+**Opzione:** Da Unipol Gruppo, ai sensi dell'art. 2359, primo comma, numero 1) del Codice Civile, con il 60,988%.
+**Distrattori:**
+- Da Unipol Gruppo, ai sensi dell'art. 2359, primo comma, numero 2) del Codice Civile, con il 60,988%.
+- Da Unipol Gruppo, ai sensi dell'art. 2359, primo comma, numero 1) del Codice Civile, con il 15,084%.
+- Da Unipol Investment, ai sensi dell'art. 2359, primo comma, numero 1) del Codice Civile, con il 60,988%.
+
+**D:** ⚠️ Quanto vale nel 2021 la raccolta premi diretti dei comparti Danni, Auto e Non Auto di UnipolSai, e come varia, secondo la slide 5 della lezione 37?
+**R:** Danni **6.721,2 milioni**, «*in leggero calo*» (−0,7%; 6.771,7 nel 2020). Auto **3.582,7** (−4,1%; 3.735,9). Non Auto **3.138,4** (+3,4%). Il Non Auto ha permesso «*di assorbire, in gran parte, il contenimento registrato nel comparto Auto*». Cresce anche il ramo Corpi Veicoli Terrestri, 798,9 milioni (+5,6%) (slide 5, 13).
+**Opzione:** Danni 6.721,2 milioni (−0,7%); Auto 3.582,7 (−4,1%); Non Auto 3.138,4 (+3,4%).
+**Distrattori:**
+- Danni 6.721,2 milioni (−0,7%); Auto 3.138,4 (−4,1%); Non Auto 3.582,7 (+3,4%).
+- Danni 6.721,2 milioni (−0,7%); Auto 3.582,7 (+3,4%); Non Auto 3.138,4 (−4,1%).
+- Danni 6.771,7 milioni (−0,7%); Auto 3.735,9 (−4,1%); Non Auto 3.138,4 (+3,4%).
+
+**D:** ⚠️ Che cosa ha consentito l'iniziativa #UnMesePerTe di UnipolSai, e a quali clienti, secondo la slide 5 della lezione 37?
+**R:** «*A partire da aprile 2020 e fino a tutto il 2021, per i clienti che **non** ne avevano già usufruito in sede di primo rinnovo della polizza, ha consentito ai clienti UnipolSai uno **sconto pari ad 1/12 (un mese) del premio precedentemente pagato***» (slide 5). È una delle «*misure adottate dalla Compagnia a tutela della clientela*» che, con la forte competizione, spiegano il calo dell'Auto. Per la slide 13 incide sulla contrazione del premio medio R.C. Auto.
+**Opzione:** Da aprile 2020 a tutto il 2021, ai clienti che non ne avevano già usufruito al primo rinnovo della polizza, uno sconto pari ad 1/12 (un mese) del premio precedentemente pagato.
+**Distrattori:**
+- Da aprile 2020 a tutto il 2021, ai clienti che ne avevano già usufruito al primo rinnovo della polizza, uno sconto pari ad 1/12 (un mese) del premio precedentemente pagato.
+- Frazionando il piano di riassicurazione e collocandolo presso i principali riassicuratori professionali, valutati a elevato parametro di solidità finanziaria dalle principali agenzie di rating.
+- Esclusa la classe D e le rettifiche: 1.377,4 milioni (+7,6%); esclusa la classe D e comprese le rettifiche: 1.303,2 (+19,9%).
+
+**D:** ⚠️ Come hanno inciso nel 2021 le restrizioni alla circolazione sulla frequenza dei sinistri, secondo la slide 5 della lezione 37?
+**R:** «*Le restrizioni alla circolazione messe in atto nel corso del primo semestre, pur significative, hanno inciso **in misura minore** sulla frequenza dei sinistri **rispetto al 2020***» (slide 5). Il loss ratio sale da 56,9% a 64,0%. I rami Non Auto hanno risentito, nei rami **property**, di un incremento dovuto a eventi di importo significativo. ⚠️ Il docente dice che «vi è stata una minore frequenza di sinistri rispetto al 2020», anche se non così significativa ([00:12:03]): fa testo la slide.
+**Opzione:** Pur significative, hanno inciso in misura minore sulla frequenza dei sinistri rispetto al 2020.
+**Distrattori:**
+- Pur significative, hanno inciso in misura maggiore sulla frequenza dei sinistri rispetto al 2020.
+- Perché è una delle vecchie compagnie, autorizzate a entrambi prima della riforma della vigilanza: alle nuove compagnie è consentito esercitare o i rami danni o i rami vita, non entrambi.
+- Anche le riserve integrative.
+
+**D:** ⚠️ Quali rami Non Auto fanno eccezione alla crescita della raccolta premi nel 2021, secondo la slide 13 della lezione 37?
+**R:** «*Nel Non Auto la crescita della raccolta premi è diffusa tra i rami fatta eccezione per le **Merci in leggera contrazione** e per gli **Infortuni stabili** sui livelli del 2020*» (slide 13). Nella tabella della slide 11 le merci trasportate calano del 2,9% e gli infortuni dello 0,2%.
+**Opzione:** Le Merci, in leggera contrazione, e gli Infortuni, stabili sui livelli del 2020.
+**Distrattori:**
+- Le Merci, stabili sui livelli del 2020, e gli Infortuni, in leggera contrazione.
+- Gli Infortuni, in leggera contrazione, e la Malattia, stabile sui livelli del 2020.
+- Le Merci, in leggera contrazione, e l'Incendio, stabile sui livelli del 2020.
+
+**D:** ⚠️ A che cosa è stata tesa nel 2021 la strategia commerciale del comparto Vita di UnipolSai, secondo la slide 6 della lezione 37?
+**R:** «*La strategia commerciale, considerato il livello registrato dai tassi di interesse di mercato, è stata principalmente tesa a **preservare l'equilibrio reddituale delle gestioni separate**, orientando la raccolta verso **prodotti multiramo o di ramo III** che hanno chiuso in significativa crescita*» (slide 6). La raccolta Vita cala del 7,4% (2.869,7 milioni), anche per alcuni contratti di importo rilevante del 2020 non ripetuti. Nella tabella della slide 11 il ramo III cresce del 64,7%. Il docente: i prodotti multiramo consentono «la contemporanea sottoscrizione di assicurazioni sulla vita di diverse tipologie» ([00:13:16]).
+**Opzione:** A preservare l'equilibrio reddituale delle gestioni separate, orientando la raccolta verso prodotti multiramo o di ramo III.
+**Distrattori:**
+- A preservare l'equilibrio reddituale delle gestioni separate, orientando la raccolta verso prodotti di ramo I e operazioni di capitalizzazione.
+- Frodi: Regolamento IVASS n. 44 del 9 agosto 2012; reclami: Regolamento ISVAP n. 24 del 19 maggio 2008.
+- Expense ratio Danni 29,8%, loss ratio 64,0%, combined ratio 93,8%.
+
+**D:** ⚠️ Che cosa include il risultato della gestione tecnica assicurativa, e quanto vale nel 2021 con il contributo dei due comparti, secondo la slide 7 della lezione 37?
+**R:** «*Il risultato della gestione tecnica assicurativa, che **include anche le spese di gestione e l'attribuzione degli utili degli investimenti di pertinenza**, è complessivamente positivo per **745,9** milioni di euro (926,2 milioni di euro nel 2020), cui contribuisce per **155,6** milioni di euro il comparto **Vita** e per **590,3** milioni di euro il comparto **Danni***» (slide 7). Il docente: resta positivo ma meno dell'anno prima, e in UnipolSai «la parte del leone la fa la gestione danni» ([00:15:02]–[00:15:32]).
+**Opzione:** Include anche le spese di gestione e l'attribuzione degli utili degli investimenti di pertinenza: 745,9 milioni, di cui 155,6 dal comparto Vita e 590,3 dal comparto Danni.
+**Distrattori:**
+- Include anche le spese di gestione e l'attribuzione degli utili degli investimenti di pertinenza: 745,9 milioni, di cui 590,3 dal comparto Vita e 155,6 dal comparto Danni.
+- Titolo +14,3%; FTSE Italia All-Share +23,7%; FTSE MIB +23,0%; FTSE Italia All Share Insurance +30,6%.
+- Le Merci, in leggera contrazione, e gli Infortuni, stabili sui livelli del 2020.
+
+**D:** ⚠️ Che cosa comprendono le spese di gestione della compagnia, e quanto valgono nel 2021, secondo la slide 7 della lezione 37?
+**R:** «*Le spese di gestione (che comprendono **le provvigioni di acquisizione e di incasso e le altre spese di acquisizione e di amministrazione**) ammontano complessivamente a **2.215,7** milioni di euro (+0,3% rispetto al 2020), con un'incidenza sui premi (Danni e Vita) del **22,4%** (21,8% nel 2020)*» (slide 7). Al netto delle provvigioni riconosciute ai riassicuratori sono 2.132,8 milioni. ⚠️ Le **spese di liquidazione** sono una voce a parte: il grafico della slide 14 è intitolato «*Spese di Gestione (acquisizione e amministrazione) e spese di liquidazione*». Le spese di acquisizione (1.804,2) e di amministrazione (411,6) fanno i 2.215,7, mentre quelle di liquidazione valgono 446,3.
+**Opzione:** Le provvigioni di acquisizione e di incasso e le altre spese di acquisizione e di amministrazione: 2.215,7 milioni, con un'incidenza sui premi del 22,4%.
+**Distrattori:**
+- Le provvigioni di acquisizione e di incasso, le altre spese di acquisizione e di amministrazione e le spese di liquidazione: 2.215,7 milioni, con un'incidenza sui premi del 22,4%.
+- In apertura del fascicolo di bilancio, nella relazione sulla gestione o nella parte iniziale della nota integrativa, secondo le scelte editoriali della compagnia.
+- Riserve premi Danni 3.109 milioni, riserve sinistri Danni 9.869, riserve tecniche Vita 31.261: 44.239 in tutto.
+
+**D:** ⚠️ Come si compongono le riserve tecniche di UnipolSai al 31 dicembre 2021 nel grafico della slide 10 della lezione 37?
+**R:** Riserve premi Danni **3.109 milioni**, riserve sinistri Danni **9.869**, riserve tecniche Vita **31.261**, riserve complessive **44.239** (slide 10); nel 2020 erano 3.120, 9.747, 30.722 e 43.588. Le riserve premi Danni comprendono anche le riserve integrative. Il docente: le riserve vita sono «ovviamente molto più significative», e le complessive «non sono altro» che la somma delle tre ([00:18:28]–[00:18:45]). Al netto delle quote a carico dei riassicuratori le riserve tecniche sono 43.733,9 milioni (slide 7).
+**Opzione:** Riserve premi Danni 3.109 milioni, riserve sinistri Danni 9.869, riserve tecniche Vita 31.261: 44.239 in tutto.
+**Distrattori:**
+- Riserve premi Danni 9.869 milioni, riserve sinistri Danni 3.109, riserve tecniche Vita 31.261: 44.239 in tutto.
+- Riserve premi Danni 3.120 milioni, riserve sinistri Danni 9.747, riserve tecniche Vita 30.722: 43.588 in tutto.
+- Riserve premi Danni 3.109 milioni, riserve sinistri Danni 31.261, riserve tecniche Vita 9.869: 44.239 in tutto.
+
+**D:** ⚠️ Che cosa comprendono anche le riserve premi dei rami Danni, secondo la nota del grafico delle riserve tecniche della slide 10 della lezione 37?
+**R:** «*N.B. Le Riserve premi dei rami Danni comprendono anche le **riserve integrative***» (slide 10). Nel 2021 valgono 3.109 milioni, contro 9.869 di riserve sinistri Danni e 31.261 di riserve tecniche Vita.
+**Opzione:** Anche le riserve integrative.
+**Distrattori:**
+- Anche le riserve tecniche dei rami Vita.
+- Anche le riserve matematiche.
+- Anche le riserve sinistri dei rami Danni.
+
+**D:** ⚠️ Secondo quale norma è classificata la ripartizione dei premi per ramo, e quali commi riguardano i rami Vita e i rami Danni, secondo la slide 10 della lezione 37?
+**R:** La tabella è «*rispondente alla **classificazione dei rischi** prevista dal **Decreto Legislativo 7 settembre 2005, n. 209 ("Codice delle Assicurazioni"), art. 2, primo comma (rami Vita), e terzo comma (rami Danni)***» (slide 10). ⚠️ Il docente cita il d.lgs. 209/2005 per le modalità di composizione delle riserve ([00:19:13]). Lo schema di bilancio della compagnia viene invece dal d.lgs. 173/1997 (lezione 23).
+**Opzione:** Il D.Lgs. 7 settembre 2005, n. 209, Codice delle Assicurazioni, art. 2: primo comma per i rami Vita, terzo comma per i rami Danni.
+**Distrattori:**
+- Il D.Lgs. 7 settembre 2005, n. 209, Codice delle Assicurazioni, art. 2: primo comma per i rami Danni, terzo comma per i rami Vita.
+- Il D.Lgs. n. 173 del 1997, art. 2: primo comma per i rami Vita, terzo comma per i rami Danni.
+- Il D.Lgs. 7 settembre 2005, n. 209, Codice delle Assicurazioni, art. 3: primo comma per i rami Vita, terzo comma per i rami Danni.
+
+**D:** ⚠️ Quali rami Vita compaiono, con il loro numero, nella tabella dei premi per ramo della slide 11 della lezione 37?
+**R:** Cinque, in cifre romane: **I** Assicurazione sulla durata della vita umana (1.783,8 milioni, il 18,6% del lavoro diretto), **III** Assicurazioni connesse con fondi di investimento o indici di mercato (271,8), **IV** Malattia (8,5), **V** Operazioni di capitalizzazione (223,9), **VI** Fondi pensione (581,7) (slide 11). Il ramo II non compare. Il totale dei rami Vita è 2.869,7 milioni, il 29,9% del lavoro diretto. Il ramo III cresce del 64,7%, i rami V e VI calano del 38,0% e del 17,4%.
+**Opzione:** I assicurazione sulla durata della vita umana; III connesse con fondi di investimento o indici di mercato; IV malattia; V operazioni di capitalizzazione; VI fondi pensione.
+**Distrattori:**
+- I assicurazione sulla durata della vita umana; III connesse con fondi di investimento o indici di mercato; IV malattia; V fondi pensione; VI operazioni di capitalizzazione.
+- Da aprile 2020 a tutto il 2021, ai clienti che non ne avevano già usufruito al primo rinnovo della polizza, uno sconto pari ad 1/12 (un mese) del premio precedentemente pagato.
+- Una stima circa la riduzione degli oneri per i sinistri derivante dall'accertamento delle frodi: per il 2021 circa 37 milioni.
+
+**D:** ⚠️ Che cosa distingue il lavoro diretto dal lavoro indiretto nella tabella dei premi di UnipolSai, secondo le slide 6 e 15 della lezione 37?
+**R:** Il **lavoro diretto** sono i premi «non realizzati tramite riassicurazione», come il docente definisce i premi diretti ([00:02:29]): 9.590,9 milioni, di cui 6.721,2 Danni e 2.869,7 Vita. Il **lavoro indiretto** sono i premi delle «*accettazioni in **riassicurazione attiva***»: 283,6 milioni (slide 6, 15). Insieme fanno i 9.874,5 milioni di premi complessivi. I **premi ceduti** (290,2) stanno in una riga a parte e si sottraggono per avere i premi conservati (9.584,3). La slide 5 parla di «raccolta diretta assicurativa, al lordo delle cessioni in riassicurazione».
+**Opzione:** Il lavoro diretto sono i premi non realizzati tramite riassicurazione; il lavoro indiretto i premi delle accettazioni in riassicurazione attiva.
+**Distrattori:**
+- Il lavoro diretto sono i premi non realizzati tramite riassicurazione; il lavoro indiretto i premi ceduti in riassicurazione passiva.
+- Rischio di interesse.
+- Include anche le spese di gestione e l'attribuzione degli utili degli investimenti di pertinenza: 745,9 milioni, di cui 155,6 dal comparto Vita e 590,3 dal comparto Danni.
+
+**D:** ⚠️ Quanto valgono nel 2021 i premi delle accettazioni in riassicurazione attiva di UnipolSai, e a quali rami sono attribuiti, secondo la slide 15 della lezione 37?
+**R:** «*Il totale dei premi delle accettazioni in riassicurazione attiva ammonta complessivamente a **283,6 milioni** di euro al 31 dicembre 2021 (260,0 milioni di euro al 31 dicembre 2020), **quasi interamente** attribuiti ai rami Danni*» (slide 15). Nella tabella della slide 11 il lavoro indiretto Vita vale 48 migliaia di euro. ⚠️ Il docente dice «286 milioni», «tutti attribuiti ai rami danni», «esclusivamente» ([00:25:42]–[00:25:51]): fa testo la slide.
+**Opzione:** 283,6 milioni (260,0 nel 2020), quasi interamente attribuiti ai rami Danni.
+**Distrattori:**
+- 286 milioni (260,0 nel 2020), esclusivamente attribuiti ai rami Danni.
+- 283,6 milioni (260,0 nel 2020), quasi interamente attribuiti ai rami Vita.
+- 283,4 milioni (281,0 nel 2020), quasi interamente attribuiti ai rami Danni.
+
+**D:** ⚠️ A che cosa si riferiscono principalmente i valori del lavoro indiretto nel comparto Danni, secondo la slide 15 della lezione 37?
+**R:** «*Nel comparto Danni i valori si riferiscono principalmente al **trattato** sottoscritto a partire dall'esercizio **2020** con la controllata **UniSalute**, che prevede una **cessione proporzionale al 50%** degli affari sottoscritti nei rami **Infortuni e Malattia***» (slide 15). UnipolSai accetta quegli affari: per questo stanno nel lavoro indiretto, i 283,6 milioni di accettazioni in riassicurazione attiva.
+**Opzione:** Al trattato sottoscritto dal 2020 con la controllata UniSalute, che prevede una cessione proporzionale al 50% degli affari sottoscritti nei rami Infortuni e Malattia.
+**Distrattori:**
+- Al trattato sottoscritto dal 2020 con la controllata UniSalute, che prevede una cessione proporzionale al 50% degli affari sottoscritti nei rami R.C. Auto e Corpi Veicoli Terrestri.
+- A preservare l'equilibrio reddituale delle gestioni separate, orientando la raccolta verso prodotti multiramo o di ramo III.
+- Premi lordi 9.874,5 milioni (−2,5%), premi diretti 9.590,9 (−2,8%), pagamenti 7.261,0 (−11,9%).
+
+**D:** ⚠️ Con quale tipo di trattato è protetto il ramo Grandine, fra le coperture acquisite per le cessioni in riassicurazione dei rami Danni, secondo la slide 15 della lezione 37?
+**R:** Con un **trattato stop loss** (slide 15). Le altre coperture acquisite, nell'ordine della slide, sono i **trattati in eccesso di sinistro** per la protezione dei portafogli R.C. Auto, R.C. Generale, Incendio (per rischio e per evento), eventi atmosferici Corpi di Veicoli Terrestri, Furto, Infortuni e Trasporti, e i **trattati in forma proporzionale** per rischi Tecnologici (C.A.R., Montaggio e Decennale Postuma), Cauzioni, Aviazione, Tutela Giudiziaria, settore responsabilità civile «D & O» e «Cyber». Il CAT Bond Azzurro REII è stato rinnovato in continuità, con coperture «Bridge» per gli eventi Terremoto.
+**Opzione:** Con un trattato stop loss.
+**Distrattori:**
+- Con un trattato in eccesso di sinistro.
+- Con un trattato in forma proporzionale.
+- Con un trattato proporzionale in eccedente a premio di rischio.
+
+**D:** ⚠️ Come riduce UnipolSai il rischio di controparte nel piano di riassicurazione, secondo la slide 15 della lezione 37?
+**R:** «*Al fine di ridurre il più possibile il rischio di controparte, il piano di riassicurazione continua a essere **frazionato e collocato presso i principali riassicuratori professionali**, valutati a elevato parametro di solidità finanziaria dalle principali agenzie di rating, in un'ottica di completezza e concorrenzialità del servizio fornito*» (slide 15). I rischi di Tutela Giudiziaria e parte dei Trasporti sono invece ceduti «*a riassicuratori specializzati e/o compagnie specialistiche del Gruppo*».
+**Opzione:** Frazionando il piano di riassicurazione e collocandolo presso i principali riassicuratori professionali, valutati a elevato parametro di solidità finanziaria dalle principali agenzie di rating.
+**Distrattori:**
+- Concentrando il piano di riassicurazione presso un unico riassicuratore professionale, valutato a elevato parametro di solidità finanziaria dalle principali agenzie di rating.
+- Le provvigioni di acquisizione e di incasso e le altre spese di acquisizione e di amministrazione: 2.215,7 milioni, con un'incidenza sui premi del 22,4%.
+- Somma del loss ratio e del rapporto tra le spese di gestione e i premi contabilizzati.
+
+**D:** ⚠️ Quanto valgono nel 2021 gli indici di conservazione dei rami Danni e dei rami Vita di UnipolSai e la ritenzione netta dei premi, secondo le slide 7 e 16 della lezione 37?
+**R:** Indice di conservazione **95,8%** nei rami Danni e **99,8%** nei rami Vita, entrambi invariati rispetto al 2020 (slide 16). La ritenzione netta dei premi acquisiti è del **97,1%** (97,2% nel 2020) (slide 7). I premi del lavoro diretto ceduti sono 283,4 milioni nei Danni e 5,9 nel Vita. Il docente: la ritenzione del 97% vuol dire «pochissima attività di riassicurazione passiva» ([00:15:02]).
+**Opzione:** Conservazione Danni 95,8%, conservazione Vita 99,8%, ritenzione netta 97,1%.
+**Distrattori:**
+- Conservazione Danni 99,8%, conservazione Vita 95,8%, ritenzione netta 97,1%.
+- Conservazione Danni 95,8%, conservazione Vita 99,8%, ritenzione netta 97,2%.
+- Conservazione Danni 97,1%, conservazione Vita 99,8%, ritenzione netta 95,8%.
+
+**D:** ⚠️ Quali regolamenti disciplinano il contrasto alle frodi e il registro dei reclami, secondo le slide 16 e 17 della lezione 37?
+**R:** Il contrasto alle **frodi** nel ramo R.C. Auto segue il **Regolamento n. 44 del 9 agosto 2012**, emanato dall'**IVASS** dopo il **D.L. 24 gennaio 2012 n. 1**, convertito nella L. 24 marzo 2012 n. 27 (slide 16). I **reclami** sono rilevati ai sensi del **Regolamento ISVAP n. 24 del 19 maggio 2008** (slide 17): nel 2021 sono **12.485**, 11.939 Danni e 546 Vita, con un'incidenza dello 0,034% sulle polizze in portafoglio. ⚠️ Il docente li riconduce entrambi al «regolamento IVAS del 2012» ([00:26:36]).
+**Opzione:** Frodi: Regolamento IVASS n. 44 del 9 agosto 2012; reclami: Regolamento ISVAP n. 24 del 19 maggio 2008.
+**Distrattori:**
+- Frodi: Regolamento ISVAP n. 24 del 19 maggio 2008; reclami: Regolamento IVASS n. 44 del 9 agosto 2012.
+- Frodi e reclami: Regolamento IVASS n. 44 del 9 agosto 2012.
+- Frodi: Regolamento IVASS n. 44 del 9 agosto 2012; reclami: Regolamento IVASS n. 24 del 19 maggio 2008.
+
+**D:** ⚠️ Che cosa devono indicare le compagnie, in materia di frodi, nella relazione o nella nota integrativa, e quanto vale la stima di UnipolSai per il 2021, secondo la slide 16 della lezione 37?
+**R:** Il D.L. 1/2012 prevede che le compagnie siano tenute «*ad indicare nella relazione o nella nota integrativa allegata al bilancio annuale e a pubblicare, sui propri siti internet o con altra idonea forma di diffusione, una **stima circa la riduzione degli oneri per i sinistri derivante dall'accertamento delle frodi***» (slide 16). Per il 2021, ai sensi dell'art. 30, comma 2, la stima è di circa **37 milioni**. È «*la somma delle riserve/previsioni di spesa sui sinistri oggetto di approfondimento antifrode e definiti senza seguito nel corso del 2021, indipendentemente dall'anno di generazione degli stessi*».
+**Opzione:** Una stima circa la riduzione degli oneri per i sinistri derivante dall'accertamento delle frodi: per il 2021 circa 37 milioni.
+**Distrattori:**
+- Una stima circa l'aumento degli oneri per i sinistri derivante dall'accertamento delle frodi: per il 2021 circa 37 milioni.
+- Una stima circa la riduzione dei premi derivante dall'accertamento delle frodi: per il 2021 circa 37 milioni.
+- Una stima circa la riduzione degli oneri per i sinistri derivante dall'accertamento delle frodi: per il 2021 circa 80 milioni.
+
+**D:** Perché, secondo il docente della lezione 37, l'RC auto è spesso usata come modalità per contattare il cliente?
+**R:** Perché è un ramo con una «**fortissima disciplina normativa**», che consente «capacità gestionali molto più ridotte rispetto agli altri rami». Ha aspetti positivi, «dovuti alla stabilità del ramo». Ma l'«ipernormazione» e una tariffazione che a volte è prevista a livello nazionale ne fanno un ramo molto tradizionale, in cui le innovazioni sono lente ([00:22:24]–[00:23:29]). Gli altri comparti, meno normati, consentono forme di «aggressione del mercato» più performanti. Così l'RC auto serve a entrare in rapporto con il cliente, a cui poi si propongono contratti di natura diversa, «vita, contratti per esempio antincendio, malattie, infortuni e così via»: è il **cross selling** ([00:24:11]–[00:24:50]). È anche obbligatoria per chi possiede un veicolo a motore che circola su strada ([00:09:17]). Da sola raccoglie il 28,9% dei premi diretti, contro il 29,9% di tutti i rami Vita (slide 12).
+**Opzione:** Perché, molto normata e con capacità gestionali ridotte, serve a entrare in rapporto con il cliente, a cui poi si propongono contratti di natura diversa, per esempio vita, antincendio, malattie, infortuni.
+**Distrattori:**
+- Perché, poco normata e con ampie capacità gestionali, serve a entrare in rapporto con il cliente, a cui poi si propongono contratti di natura diversa, per esempio vita, antincendio, malattie, infortuni.
+- Rapporto sinistri a premi del lavoro diretto comprensivo di OTI ratio, cioè il rapporto tra il saldo netto delle altre partite tecniche e la variazione delle altre riserve tecniche e i premi di competenza.
+- Pur significative, hanno inciso in misura minore sulla frequenza dei sinistri rispetto al 2020.
+
+**D:** ⚠️ Perché UnipolSai può esercitare insieme i rami danni e i rami vita, secondo il docente della lezione 37?
+**R:** Perché è «ancora una di quelle **vecchie compagnie**». Prima della riforma della disciplina di vigilanza sulle assicurazioni private, parecchie compagnie erano già autorizzate a entrambi i rami, e hanno potuto continuare. Alle **nuove** compagnie l'IVASS consente invece di svolgere «esclusivamente o i rami danni o i rami vita, ma non i due rami contemporaneamente» ([00:16:00]–[00:16:48]). Le slide non ne parlano: vedi l'integrazione nella nota. In UnipolSai prevale la gestione danni: 590,3 milioni di risultato tecnico contro 155,6 del vita (slide 7).
+**Opzione:** Perché è una delle vecchie compagnie, autorizzate a entrambi prima della riforma della vigilanza: alle nuove compagnie è consentito esercitare o i rami danni o i rami vita, non entrambi.
+**Distrattori:**
+- Perché è una delle nuove compagnie, autorizzate dopo la riforma della vigilanza: alle vecchie compagnie era consentito esercitare o i rami danni o i rami vita, non entrambi.
+- Rapporto percentuale tra le spese di gestione e i premi contabilizzati del lavoro diretto.
+- Danni 6.721,2 milioni (−0,7%); Auto 3.582,7 (−4,1%); Non Auto 3.138,4 (+3,4%).
+
+## Lezione 38 — La Nota Integrativa del bilancio della compagnia di assicurazioni. La gestione patrimoniale e finanziaria e i rischi
+
+**D:** ⚠️ Quali sono le due gestioni tipiche della compagnia di assicurazioni, secondo il test della lezione 38 (domanda 1)?
+**R:** La **gestione tecnica** e la **gestione patrimoniale**. Per il docente la compagnia «si caratterizza per la coesistenza di due gestioni contemporanee, la gestione **tecnico-assicurativa** e la gestione **patrimoniale e finanziaria**», strettamente connesse e «autoalimentanti» ([00:00:05]). La slide 2 si intitola «Gestione patrimoniale e finanziaria». ⚠️ Nel test della lezione 23 (domanda 1) la stessa coppia era «gestione tecnica e gestione **finanziaria**»: è la stessa gestione. La **gestione immobiliare** è un paragrafo della gestione patrimoniale e finanziaria (slide 3), non una gestione tipica; la gestione dei **sinistri** è parte della gestione tecnica. Distrattori del test: «gestione tecnica e gestione immobiliare», «gestione patrimoniale e gestione immobiliare», «gestione tecnica e gestione dei sinistri».
+**Opzione:** Gestione tecnica e gestione patrimoniale.
+**Distrattori:**
+- Gestione tecnica e gestione immobiliare.
+- Gestione patrimoniale e gestione immobiliare.
+- Gestione tecnica e gestione dei sinistri.
+
+**D:** ⚠️ Su che cosa vertono gli investimenti prevalenti a copertura delle riserve tecniche, secondo il test della lezione 38 (domanda 2)?
+**R:** Sui **titoli a reddito fisso**. Nella tabella degli investimenti e disponibilità le «obbligazioni e altri titoli a reddito fisso» sono il **63,6%** del totale, 31.111 milioni su 48.936 (slide 2). Per il docente il codice delle assicurazioni prevede che «la preferenza vada appunto data ai titoli a reddito fisso, quindi sostanzialmente alle obbligazioni», emesse dallo Stato o da istituzioni sovranazionali ([00:10:09]). ⚠️ Il vicino è «le obbligazioni estere»: per il docente sono titoli «emessi sostanzialmente dallo Stato italiano», e le slide non dividono il portafoglio per paese. Le azioni e quote sono il 2,6% degli impieghi, e i derivati compaiono solo come strumenti di mitigazione del rischio (slide 13). Distrattori del test: «le azioni estere», «le obbligazioni estere», «i derivati».
+**Opzione:** I titoli a reddito fisso.
+**Distrattori:**
+- Le azioni estere.
+- Le obbligazioni estere.
+- I derivati.
+
+**D:** ⚠️ Che cosa si intende per duration, secondo il test della lezione 38 (domanda 3)?
+**R:** La **durata media finanziaria degli investimenti** prima della scadenza (la chiave scrive «finanziari»). Per il docente la duration è «la durata media finanziaria espressa in anni», che dà «la misura del tempo necessario a recuperare l'investimento» ([00:20:52]). Nella slide 5 la duration complessiva del portafoglio investimenti di classe C, 6,53 anni, è l'«*indicatore dell'esposizione al rischio tasso*». ⚠️ «Prima della scadenza» non è nei materiali. Il vicino è «durata media finanziaria della manutenzione dei beni immobili»: tiene la formula e cambia l'oggetto. La **durata delle riserve tecniche** della lezione 25 è un'altra cosa, un indice: riserve tecniche nette su premi emessi. Distrattori del test: «durata media finanziaria della manutenzione dei beni immobili», «durata media dei prestiti», «durata media dei finanziamenti».
+**Opzione:** Durata media finanziaria degli investimenti prima della scadenza.
+**Distrattori:**
+- Durata media finanziaria della manutenzione dei beni immobili.
+- Durata media dei prestiti.
+- Durata media dei finanziamenti.
+
+**D:** ⚠️ Come viene misurato il rischio di credito sugli investimenti, secondo il test della lezione 38 (domanda 4)?
+**R:** Con la «*misura della **sensitivity** del portafoglio alla variazione degli **spread di credito** di riferimento*»: è la slide 6 alla lettera (il test scrive «rischio di crediti»). Per il docente il rischio di credito è «prevalentemente riferito al rischio di controparte» ed è gestito «tramite lo spread di credito che è derivante praticamente dal rating» ([00:20:52]–[00:22:18]). ⚠️ Il vicino è «misura desunta dall'andamento di settore»: gli **indici settoriali** sono il riferimento del **rischio azionario** (slide 7). L'Autorità di Vigilanza approva il modello interno parziale, che per Solvency II misura il rischio di credito con il CreditRisk+, ma non «comunica» misure (slide 12–13). Distrattori del test: «misura comunicata dall'autorità di vigilanza», «misura desunta dall'andamento di settore», «misura della variazione dei risultati delle imprese del settore».
+**Opzione:** Misura della sensitivity del portafoglio alla variazione degli spread di credito di riferimento.
+**Distrattori:**
+- Misura comunicata dall'autorità di vigilanza.
+- Misura desunta dall'andamento di settore.
+- Misura della variazione dei risultati delle imprese del settore.
+
+**D:** ⚠️ Come viene gestito il rischio di liquidità, secondo il test della lezione 38 (domanda 5)?
+**R:** Con il **monitoraggio del cash flow matching**: «*la Compagnia monitora costantemente il cash flow matching tra attivi e passivi*» (slide 8). Per il docente è «una gestione dei cash flow, quindi un monitoraggio costante dei cash flow per evitare che si verifichino delle situazioni di crisi di liquidità» ([00:25:23]). ⚠️ Il vicino è «monitoraggio delle cessioni e degli acquisti»: la slide 8 parla di acquisti e di vendite, ma per **limitare quantitativamente** l'acquisto di titoli che non garantiscono una vendita in tempi brevi e/o a condizioni eque. Proventi e oneri, utili e perdite sono le voci della tabella della slide 4. Distrattori del test: «monitoraggio delle cessioni e degli acquisti», «monitoraggio dei proventi e degli oneri», «monitoraggio degli utili e delle perdite».
+**Opzione:** Monitoraggio del cash flow matching.
+**Distrattori:**
+- Monitoraggio delle cessioni e degli acquisti.
+- Monitoraggio dei proventi e degli oneri.
+- Monitoraggio degli utili e delle perdite.
+
+**D:** ⚠️ Quali caratteristiche dovrebbe avere l'investimento della compagnia, secondo il docente della lezione 38, e come si possono massimizzare insieme?
+**R:** **Redditività**, un rendimento «pari o possibilmente superiore al rendimento medio di quel settore»; **liquidità**, cioè poter trasformare l'investimento in denaro «in tempi brevi e in condizioni economiche eque»; **sicurezza**, «la capacità di mantenere inalterato il valore rispetto al valore iniziale» ([00:07:15]). Un singolo investimento «ha solo una o al massimo due di queste caratteristiche». Per questo la massimizzazione dei tre elementi «si ottiene esclusivamente costruendo un apposito **portafoglio**». Gli immobili sono relativamente sicuri ma poco liquidi, con una redditività non necessariamente soddisfacente; le azioni sono molto liquide ma poco sicure ([00:07:15]–[00:10:09]). È la triade della slide 4 della lezione 23.
+**Opzione:** Redditività, liquidità e sicurezza: si massimizzano insieme solo costruendo un apposito portafoglio, perché un singolo investimento ne ha al massimo due.
+**Distrattori:**
+- Redditività, liquidità e sicurezza: si massimizzano insieme scegliendo un singolo investimento che le abbia tutte e tre, come gli immobili.
+- Non indica la specifica attività finanziaria da acquistare, ma la tipologia di attività finanziaria, e fissa delle percentuali sul totale complessivo degli investimenti.
+- Per limitare, in particolar modo per le gestioni separate non più alimentate da nuova produzione, l'esigenza di liquidare investimenti senza adeguato preavviso.
+
+**D:** ⚠️ Che cosa stabilisce il codice delle assicurazioni (D.Lgs. 209/2005) sugli investimenti delle compagnie, secondo il docente della lezione 38?
+**R:** Per motivi di **vigilanza prudenziale** le compagnie «non sono libere di scegliere dove investire i loro soldi». Il codice definisce la modalità di investimento «in funzione chiaramente percentuale». Il legislatore non dice «quale specifica attività finanziaria deve essere acquistata»: indica la **tipologia** di attività, per esempio titoli a reddito fisso emessi da Stati sovrani o da organismi sovranazionali, «e fissa delle **percentuali** sul totale complessivo degli investimenti». La preferenza va ai **titoli a reddito fisso**: BOT, CCT, CTZ, buoni postali e obbligazioni di istituzioni come BEI e Banca Mondiale ([00:10:09]). Le slide citano il D.Lgs. 209/2005 solo come il Codice delle Assicurazioni Private modificato dal recepimento di Solvency II (slide 10).
+**Opzione:** Non indica la specifica attività finanziaria da acquistare, ma la tipologia di attività finanziaria, e fissa delle percentuali sul totale complessivo degli investimenti.
+**Distrattori:**
+- Indica la specifica attività finanziaria da acquistare, per esempio i titoli di Stato italiani, e fissa delle percentuali sul totale complessivo degli investimenti.
+- A tutti gli immobili ceduti nel 2021, la Torre Velasca e alcuni immobili o porzioni di immobili ritenuti non performanti, con plusvalenze nette di 82,8 milioni.
+- Le azioni proprie a deduzione del patrimonio netto, nella Riserva negativa per azioni proprie; quelle della controllante Unipol Gruppo nell'Attivo, tra gli Altri investimenti finanziari.
+
+**D:** ⚠️ Quali quote degli impieghi di UnipolSai rappresentano al 31 dicembre 2021, nell'ordine, gli altri investimenti finanziari, le imprese del Gruppo e altre partecipate, gli immobili, gli investimenti connessi con fondi d'investimento, indici di mercato e fondi pensione, e la liquidità bancaria, secondo la slide 2 della lezione 38?
+**R:** «*Il **76,8%** degli impieghi è rappresentato da investimenti in obbligazioni e altri titoli a reddito fisso, azioni e quote di fondi comuni e altri investimenti finanziari; gli investimenti in imprese del Gruppo e in altre partecipate sono pari all'**8,7%**, mentre gli impieghi in immobili si attestano al **2,3%**. Gli investimenti relativi a prestazioni connesse con fondi d'investimento, indici di mercato e attività derivanti dalla gestione dei fondi pensione rappresentano l'**11,0%**. La liquidità bancaria è pari allo **0,8%**.*» (slide 2). Il restante 0,3% sono i depositi presso imprese cedenti. Il totale, al netto degli ammortamenti dei beni immobili e tenuto conto delle rettifiche di valore, è di **48.935,8 milioni**. Le sole obbligazioni e altri titoli a reddito fisso pesano il 63,6%. Per il docente l'immobile, che fino agli anni 80-90 «faceva la parte del leone», è stato «fortissimamente ridotto» ([00:10:09]).
+**Opzione:** 76,8%, 8,7%, 2,3%, 11,0% e 0,8%.
+**Distrattori:**
+- 76,8%, 11,0%, 2,3%, 8,7% e 0,8%.
+- 76,8%, 8,7%, 0,8%, 11,0% e 2,3%.
+- 63,6%, 8,7%, 2,3%, 11,0% e 0,8%.
+
+**D:** ⚠️ A quanto ammontano gli investimenti in imprese del Gruppo ed altre partecipate al 31 dicembre 2021, e come si compongono, secondo la slide 3 della lezione 38?
+**R:** «*L'importo complessivo degli investimenti in imprese del Gruppo e in altre partecipate ammonta a **4.263,3 milioni** di euro (4.312,7 milioni di euro al 31 dicembre 2020), di cui **3.677,6** milioni di euro si riferiscono ad **azioni e quote** di società partecipate (3.530,0), **9,4** milioni di euro sono costituiti da **obbligazioni** emesse da società facenti parte del Gruppo (9,4) e **576,3** milioni di euro si riferiscono a **finanziamenti** ad imprese del Gruppo (773,2)*» (slide 3). Il dettaglio delle partecipazioni e delle movimentazioni è negli **allegati 6 e 7** di Nota Integrativa. Pesano l'8,7% degli impieghi (slide 2). ⚠️ Il docente riferisce i 9,4 milioni sia alle obbligazioni sia ai finanziamenti, e omette i 576,3 ([00:18:32]).
+**Opzione:** 4.263,3 milioni: 3.677,6 di azioni e quote, 9,4 di obbligazioni del Gruppo, 576,3 di finanziamenti a imprese del Gruppo.
+**Distrattori:**
+- 4.263,3 milioni: 3.677,6 di azioni e quote, 576,3 di obbligazioni del Gruppo, 9,4 di finanziamenti a imprese del Gruppo.
+- 4.312,7 milioni: 3.530,0 di azioni e quote, 9,4 di obbligazioni del Gruppo, 773,2 di finanziamenti a imprese del Gruppo.
+
+**D:** ⚠️ A quali immobili si riferisce il corrispettivo di vendita di circa 170,9 milioni di euro del 2021, e quali plusvalenze nette ha fatto rilevare, secondo la slide 3 della lezione 38?
+**R:** A **tutti gli immobili ceduti nel corso dell'anno**: oltre al perfezionamento della vendita della **Torre Velasca**, in piazza Velasca a Milano, «*si evidenziano le cessioni di alcuni immobili o porzioni di immobili ritenuti non performanti*», agevolate dagli incentivi fiscali. «*Complessivamente il corrispettivo di vendita degli immobili ceduti nel corso dell'anno è pari a circa 170,9 milioni di euro, facendo rilevare **plusvalenze nette pari a 82,8 milioni** di euro, con una riduzione del patrimonio immobiliare della compagnia pari a circa **96 milioni** di euro*» (slide 3). Il patrimonio immobiliare scende da 1.240,6 a **1.140,3 milioni**. ⚠️ Il docente attribuisce i 170 milioni alla sola Torre Velasca: «la vendita di questo bene ha comportato sostanzialmente l'incasso di 170 milioni» ([00:16:51]–[00:17:11]). Fa testo la slide.
+**Opzione:** A tutti gli immobili ceduti nel 2021, la Torre Velasca e alcuni immobili o porzioni di immobili ritenuti non performanti, con plusvalenze nette di 82,8 milioni.
+**Distrattori:**
+- Alla sola vendita della Torre Velasca, in piazza Velasca a Milano, con plusvalenze nette di 82,8 milioni.
+- A tutti gli immobili ceduti nel 2021, la Torre Velasca e alcuni immobili o porzioni di immobili ritenuti non performanti, con plusvalenze nette di 96 milioni.
+- Agli oltre 60 immobili riqualificati nel 2021, per un ammontare di oltre 27 milioni, con plusvalenze nette di 82,8 milioni.
+
+**D:** ⚠️ Quanto valgono nel 2021 i proventi da investimenti e da impieghi di liquidità al netto degli oneri, i profitti netti su realizzi e il loro totale prima delle valutazioni di fine periodo, secondo la slide 4 della lezione 38?
+**R:** I proventi da investimenti e da impieghi di liquidità, **al netto degli oneri patrimoniali e finanziari**, ammontano a **1.161,8 milioni**; i **profitti netti su realizzi** a **215,6 milioni**; insieme, «*prima delle valutazioni di fine periodo*», a **1.377,4 milioni** (slide 4; nella tabella i Totali (a), (b) e (a+b)). I profitti comprendono plusvalenze nette da cessioni di investimenti durevoli per 103,9 milioni, mentre le partecipazioni registrano minusvalenze nette per 2,7. Dopo le riprese e rettifiche nette di valore, −74,2, il risultato è di **1.303,2 milioni**. La classe D aggiunge 161,6 milioni. Il docente legge «1.161 milioni» e «215 milioni» ([00:18:53]).
+**Opzione:** Proventi netti 1.161,8 milioni, profitti netti su realizzi 215,6, totale prima delle valutazioni 1.377,4.
+**Distrattori:**
+- Proventi netti 1.161,8 milioni, profitti netti su realizzi 215,6, totale prima delle valutazioni 1.303,2.
+- Proventi netti 1.377,4 milioni, profitti netti su realizzi 215,6, totale prima delle valutazioni 1.161,8.
+- Proventi netti 1.161,8 milioni, profitti netti su realizzi 103,9, totale prima delle valutazioni 1.377,4.
+
+**D:** ⚠️ Di quanto sono negative nel 2021 le riprese e rettifiche nette di valore sugli investimenti, e da che cosa sono costituite, secondo la slide 4 della lezione 38?
+**R:** «*Le riprese e rettifiche nette di valore sono **negative per −74,2 milioni** di euro e sono costituite da rettifiche nette su investimenti finanziari del **comparto non durevole** per **34,8** milioni di euro, rettifiche su **immobili** per **38,8** milioni di euro (di cui **35,2** milioni di euro per **ammortamenti** di periodo) e da rettifiche di valore su **partecipazioni in imprese del gruppo** per **0,6** milioni di euro*» (slide 4). Nella tabella è il Totale (c), −74.214 migliaia. ⚠️ Per il docente significa «sostanzialmente una svalutazione del valore delle attività finanziarie» ([00:19:38]), ma 38,8 milioni sono rettifiche su immobili, per lo più ammortamenti.
+**Opzione:** −74,2 milioni: 34,8 su investimenti finanziari del comparto non durevole, 38,8 su immobili (35,2 di ammortamenti), 0,6 su partecipazioni del gruppo.
+**Distrattori:**
+- −74,2 milioni: 34,8 su investimenti finanziari del comparto durevole, 38,8 su immobili (35,2 di ammortamenti), 0,6 su partecipazioni del gruppo.
+- −74,2 milioni: 38,8 su investimenti finanziari del comparto non durevole, 34,8 su immobili (35,2 di ammortamenti), 0,6 su partecipazioni del gruppo.
+
+**D:** ⚠️ Che differenza c'è fra gli investimenti di classe C e quelli di classe D della compagnia, secondo la lezione 38?
+**R:** Nella **classe C** il rischio è sopportato dalla **compagnia** stessa: per il docente sono «gli investimenti in cui il rischio è sopportato dalla compagnia stessa» ([00:19:38]), e la loro duration complessiva è di 6,53 anni (slide 5). La **classe D** comprende gli investimenti «*a beneficio degli assicurati che ne sopportano il rischio e derivanti dalla gestione dei fondi pensione*», i cui proventi la tabella espone separatamente (slide 4): nel 2021 positivi per **161,6 milioni**, 124,6 da fondi di investimento e indici di mercato e 37,0 da fondi pensione. Nella slide 2 sono l'11,0% degli impieghi. Sono le classi C («Investimenti») e D dell'attivo dello stato patrimoniale (lezione 23, slide 7). Anche il Modello Interno distingue il portafoglio il cui rischio «*non è sopportato dagli assicurati*», misurato con il Monte Carlo VaR, da quello sopportato dagli assicurati, valutato con la Standard Formula Market Wide (slide 13).
+**Opzione:** Nella classe C il rischio è sopportato dalla compagnia stessa; la classe D comprende gli investimenti a beneficio degli assicurati che ne sopportano il rischio e quelli derivanti dalla gestione dei fondi pensione.
+**Distrattori:**
+- Nella classe D il rischio è sopportato dalla compagnia stessa; la classe C comprende gli investimenti a beneficio degli assicurati che ne sopportano il rischio e quelli derivanti dalla gestione dei fondi pensione.
+- L'aggiustamento per la volatilità previsto dall'art. 36-septies del Codice delle Assicurazioni Private.
+- Un andamento più che proporzionale rispetto al mercato: se il mercato perde il 10%, il settore perde l'11%.
+
+**D:** ⚠️ Di quali rischi si monitorano periodicamente i principali indicatori di esposizione, per il controllo del rischio finanziario, secondo la slide 5 della lezione 38?
+**R:** «*Il controllo del rischio finanziario viene effettuato attraverso il periodico monitoraggio dei principali indicatori di esposizione al **rischio tasso**, al **rischio credito**, al **rischio azionario** ed al **rischio di liquidità***» (slide 5, sotto il titolo «Politiche di gestione dei rischi (art. 2428, Codice Civile)»). Per il docente «questi sono i quattro rischi principali che vengono gestiti in relazione alla gestione patrimoniale e finanziaria» ([00:19:38]). Le slide 5–8 li trattano uno per uno, nello stesso ordine.
+**Opzione:** Al rischio tasso, al rischio credito, al rischio azionario ed al rischio di liquidità.
+**Distrattori:**
+- Al rischio tasso, al rischio credito, al rischio azionario ed al rischio operativo.
+- Al rischio tasso, al rischio di cambio, al rischio azionario ed al rischio di liquidità.
+- Al rischio tasso, al rischio credito, al rischio catastrofale ed al rischio di liquidità.
+
+**D:** ⚠️ Quale articolo del Codice Civile richiama il titolo del paragrafo sulle politiche di gestione dei rischi, nella slide 5 della lezione 38?
+**R:** L'**art. 2428**: il titolo è «*Politiche di gestione dei rischi (art. 2428, Codice Civile)*» (slide 5). È l'articolo della **relazione sulla gestione** (lezione 04). Il docente non lo cita. L'art. 36-septies, che la slide 11 richiama per l'aggiustamento per la volatilità, è invece del Codice delle Assicurazioni Private.
+**Opzione:** L'art. 2428 del Codice Civile.
+**Distrattori:**
+- L'art. 2427 del Codice Civile.
+- L'art. 2424 del Codice Civile.
+- L'art. 36-septies del Codice Civile.
+
+**D:** ⚠️ Quanto vale al 31 dicembre 2021 la duration complessiva del portafoglio investimenti di classe C, di quale rischio è indicatore, e quanto vale quella del solo portafoglio obbligazionario, secondo la slide 5 della lezione 38?
+**R:** «*La duration complessiva del portafoglio investimenti di classe C, **indicatore dell'esposizione al rischio tasso** della Società, al 31 dicembre 2021 risulta pari a **6,53 anni**; con specifico riferimento al portafoglio obbligazionario, la duration risulta pari a **8,31 anni***» (slide 5). Nella tabella per risk sector il **Government** pesa il 63,90% con duration **10,58**, il Financial il 27,52% con 3,99, il Corporate l'8,59% con 5,24. ⚠️ Il 63,90% è il peso dei titoli Government sulle obbligazioni, il 63,6% della slide 2 quello delle obbligazioni sugli impieghi.
+**Opzione:** 6,53 anni, indicatore dell'esposizione al rischio tasso; 8,31 anni per il portafoglio obbligazionario.
+**Distrattori:**
+- 6,53 anni, indicatore dell'esposizione al rischio credito; 8,31 anni per il portafoglio obbligazionario.
+- 8,31 anni, indicatore dell'esposizione al rischio tasso; 6,53 anni per il portafoglio obbligazionario.
+- 10,58 anni, indicatore dell'esposizione al rischio tasso; 8,31 anni per il portafoglio obbligazionario.
+
+**D:** ⚠️ Come si lega la duration al rischio di tasso, secondo il docente della lezione 38?
+**R:** «**Più è lunga la duration, più il rischio di tasso è elevato. Più è breve la duration, più il rischio di tasso è contenuto.**» Quindi la duration, «sebbene misurata in anni, misura di fatto il rischio di tasso di interesse» ([00:20:52]). Per il docente 6,53 anni di duration media significano che «mediamente a recuperare un investimento che ho fatto ci metto, con il rendimento di quell'investimento stesso, 6,53 anni». Per la slide 5 la duration è l'indicatore dell'esposizione al rischio tasso.
+**Opzione:** Più è lunga la duration, più il rischio di tasso è elevato; più è breve, più il rischio di tasso è contenuto.
+**Distrattori:**
+- Più è lunga la duration, più il rischio di tasso è contenuto; più è breve, più il rischio di tasso è elevato.
+- Più è lunga la duration, più il rischio di credito è elevato; più è breve, più il rischio di credito è contenuto.
+- La duration è misurata in anni, quindi non misura il rischio di tasso di interesse.
+
+**D:** ⚠️ In quali titoli investe principalmente la gestione del portafoglio titoli, e per quale quota del portafoglio obbligazionario, secondo la slide 6 della lezione 38?
+**R:** «*La gestione del portafoglio titoli prevede principalmente l'investimento in titoli del segmento "**Investment grade**" (**88,7%** del portafoglio obbligazionario)*» (slide 6). Nella tabella per rating i titoli **BBB** sono il **69,09%**, gli A il 14,65%, gli AA il 4,59%, gli AAA lo 0,38%; i non investment grade (**NIG**) l'**11,30%**. Per il docente l'investment grade, determinato in funzione del rating, è «la certezza o meno che la controparte sia in grado di assicurare il pagamento dei capitali e degli interessi» ([00:22:18]). ⚠️ Il 69,09% dei BBB non va confuso con il 69,61% dei Fondi nel portafoglio azionario (slide 7).
+**Opzione:** In titoli del segmento Investment grade, l'88,7% del portafoglio obbligazionario.
+**Distrattori:**
+- In titoli del segmento Investment grade, il 69,1% del portafoglio obbligazionario.
+- In titoli con rating AAA, l'88,7% del portafoglio obbligazionario.
+- In titoli del segmento non investment grade, l'11,3% del portafoglio obbligazionario.
+
+**D:** ⚠️ Come avviene il monitoraggio del rischio azionario, secondo la slide 7 della lezione 38?
+**R:** «*Il monitoraggio del rischio azionario avviene attraverso l'**analisi di sensitivity** del portafoglio azionario alla variazione dei **mercati di riferimento rappresentati dagli indici settoriali***» (slide 7). La tabella dà per ogni settore la composizione, il **beta** e l'effetto di uno **shock del −10%**: per l'intero portafoglio azionario beta 1,01 e (478.541.426). Per il docente «ciò che viene analizzato è il beta del settore» ([00:22:18]). ⚠️ Per il **rischio di credito** la sensitivity è invece alla variazione degli **spread di credito** di riferimento (slide 6).
+**Opzione:** Attraverso l'analisi di sensitivity del portafoglio azionario alla variazione dei mercati di riferimento rappresentati dagli indici settoriali.
+**Distrattori:**
+- Attraverso la misura della sensitivity del portafoglio azionario alla variazione degli spread di credito di riferimento.
+- Attraverso l'analisi di sensitivity del portafoglio azionario alla variazione dei risultati delle imprese del settore.
+- Attraverso la duration complessiva del portafoglio azionario, indicatore dell'esposizione al rischio tasso.
+
+**D:** ⚠️ Che cosa significa un beta di settore maggiore di 1, secondo il docente della lezione 38?
+**R:** «Vi è un andamento **più che proporzionale** rispetto al mercato. Quindi se il mercato cresce del 10%, il mio settore cresce dell'11%, se però il mercato perde il 10%, il mio settore perde l'11%» ([00:22:18]). Con un beta **inferiore a 1**, se il mercato perde il 10% il titolo perde «il 5, il 6, il 7, quindi meno del mercato»: sono i settori **difensivi**. Per il docente il beta è il coefficiente angolare della retta di regressione fra i rendimenti del singolo titolo e quelli del comparto, o fra i rendimenti del comparto e quelli dell'intero mercato. Nella tabella della slide 7 hanno beta maggiore di 1, fra gli altri, la Finanza (1,17) e l'Energia (1,11). I Fondi, il 69,61% del portafoglio, hanno beta 1,00, «sostanzialmente neutro» ([00:25:23]). ⚠️ Poco prima il docente chiama «anticiclico» il beta inferiore a 1, e alla fine chiama «difensivi» anche i settori con beta maggiore di 1: vedi l'integrazione nella nota della lezione.
+**Opzione:** Un andamento più che proporzionale rispetto al mercato: se il mercato perde il 10%, il settore perde l'11%.
+**Distrattori:**
+- Un andamento meno che proporzionale rispetto al mercato: se il mercato perde il 10%, il settore perde il 5, il 6 o il 7%.
+- Un andamento neutro rispetto al mercato: se il mercato perde il 10%, il settore perde il 10%.
+
+**D:** ⚠️ Come avviene la costruzione del portafoglio degli investimenti a copertura delle riserve, a presidio del rischio di liquidità, secondo la slide 8 della lezione 38?
+**R:** «*La costruzione del portafoglio degli investimenti a copertura delle riserve avviene **dando la preferenza a strumenti finanziari di pronta liquidità** e **limitando quantitativamente** la possibilità di acquisto titoli che, per la loro tipologia o per loro condizioni specifiche, non garantiscono un'eventuale vendita **in tempi brevi e/o a condizioni eque***» (slide 8). In tale ottica la Compagnia monitora costantemente il **cash flow matching** tra attivi e passivi. «Tempi brevi» e «condizioni economiche eque» sono le parole con cui il docente definisce la **liquidità** di un investimento ([00:07:15]).
+**Opzione:** Dando la preferenza a strumenti finanziari di pronta liquidità e limitando quantitativamente la possibilità di acquisto titoli che, per la loro tipologia o per loro condizioni specifiche, non garantiscono un'eventuale vendita in tempi brevi e/o a condizioni eque.
+**Distrattori:**
+- Dando la preferenza a strumenti finanziari di pronta liquidità e limitando quantitativamente la possibilità di acquisto titoli che, per la loro tipologia o per loro condizioni specifiche, non garantiscono un rendimento pari o superiore al rendimento medio del settore.
+- Attraverso l'analisi di sensitivity del portafoglio azionario alla variazione dei mercati di riferimento rappresentati dagli indici settoriali.
+- Le azioni proprie a deduzione del patrimonio netto, nella Riserva negativa per azioni proprie; quelle della controllante Unipol Gruppo nell'Attivo, tra gli Altri investimenti finanziari.
+
+**D:** ⚠️ A quale fine la Compagnia monitora costantemente il cash flow matching tra attivi e passivi, secondo la slide 8 della lezione 38?
+**R:** «*Al fine di limitare, in particolar modo per le **gestioni separate non più alimentate da nuova produzione**, l'esigenza di **liquidare investimenti senza adeguato preavviso***» (slide 8). Per il docente il rischio di liquidità è «il rischio che la società non abbia la liquidità sufficiente a fare fronte alle esigenze immediate di cassa» ([00:25:23]).
+**Opzione:** Per limitare, in particolar modo per le gestioni separate non più alimentate da nuova produzione, l'esigenza di liquidare investimenti senza adeguato preavviso.
+**Distrattori:**
+- Per limitare, in particolar modo per le gestioni separate alimentate da nuova produzione, l'esigenza di liquidare investimenti senza adeguato preavviso.
+- Il D.Lgs. 12 maggio 2015 n. 74, che ha modificato ed integrato il D.Lgs. 209/2005, Codice delle Assicurazioni Private.
+- Redditività, liquidità e sicurezza: si massimizzano insieme solo costruendo un apposito portafoglio, perché un singolo investimento ne ha al massimo due.
+
+**D:** ⚠️ Dove sono esposte in bilancio le azioni proprie di UnipolSai e dove le azioni della controllante Unipol Gruppo, secondo le slide 8–9 della lezione 38?
+**R:** Le **118.624 azioni proprie**, per 0,3 milioni, hanno un valore «*esposto a **deduzione del patrimonio netto** nella voce **Riserva negativa per azioni proprie** (valore corrispondente al **costo storico di acquisto** come previsto dai principi contabili in vigore)*» (slide 8). Le **68.783 azioni della Controllante Unipol Gruppo**, per 0,3 milioni, sono «*iscritte **nell'Attivo tra gli Altri investimenti finanziari***» (slide 9). In entrambi i casi gli acquisti del 2021 servono ai **Piani di compensi basati su strumenti finanziari, del tipo performance share**, per gli anni 2016-2018 e 2019-2021, con l'assegnazione delle azioni ai Dirigenti di UnipolSai. È la riserva negativa della lezione 11.
+**Opzione:** Le azioni proprie a deduzione del patrimonio netto, nella Riserva negativa per azioni proprie; quelle della controllante Unipol Gruppo nell'Attivo, tra gli Altri investimenti finanziari.
+**Distrattori:**
+- Le azioni proprie nell'Attivo, tra gli Altri investimenti finanziari; quelle della controllante Unipol Gruppo a deduzione del patrimonio netto, nella Riserva negativa per azioni proprie.
+- Non indica la specifica attività finanziaria da acquistare, ma la tipologia di attività finanziaria, e fissa delle percentuali sul totale complessivo degli investimenti.
+- I Rischi Tecnico Assicurativi Danni e Salute relativi alla componente catastrofale inerente al terremoto, i Rischi Tecnico Assicurativi Vita, il Rischio di Mercato e il Rischio di Credito.
+
+**D:** ⚠️ Con quale atto è stata recepita nell'ordinamento italiano la Direttiva Quadro 2009/138/CE (Solvency II), e quale codice ha modificato, secondo la slide 10 della lezione 38?
+**R:** Con il **Decreto Legislativo 12 maggio 2015, n. 74**, che ha **modificato ed integrato il D.Lgs. 209/2005** (Codice delle Assicurazioni Private). La normativa Solvency II è entrata in vigore dal **1° gennaio 2016**. Gli **Atti Delegati** sono emanati con il **Regolamento Delegato UE n. 35/2015**, che **integra** la Direttiva; le **Linee Guida dell'EIOPA** sono recepite tramite i **regolamenti IVASS** (slide 10). Per il docente la Solvency 2 è «la direttiva che in ambito europeo ha definito quali sono i modelli di gestione della vigilanza prudenziale sulle compagnie di assicurazione» ([00:25:23]).
+**Opzione:** Il D.Lgs. 12 maggio 2015 n. 74, che ha modificato ed integrato il D.Lgs. 209/2005, Codice delle Assicurazioni Private.
+**Distrattori:**
+- Il Regolamento Delegato UE n. 35/2015, che ha modificato ed integrato il D.Lgs. 209/2005, Codice delle Assicurazioni Private.
+- Il Regolamento IVASS n. 18 del 15 marzo 2016, che ha modificato ed integrato il D.Lgs. 209/2005, Codice delle Assicurazioni Private.
+
+**D:** ⚠️ Quale regolamento IVASS reca le regole applicative e le metodologie da adottare per la determinazione delle riserve tecniche, fra quelli richiamati nella slide 10 della lezione 38?
+**R:** Il **Regolamento IVASS n. 18 del 15 marzo 2016** (slide 10). Gli altri richiamati, «*tra cui in particolare*», sono: il **n. 25 del 26 luglio 2016**, sull'individuazione, valutazione e classificazione degli elementi dei **fondi propri di base**; il **n. 32 del 9 novembre 2016**, sulla **valutazione del rischio e della solvibilità**; il **n. 34 del 7 febbraio 2017**, sulla valutazione delle **attività e delle passività** nel Bilancio Solvency II **diverse dalle riserve tecniche**; il **n. 35 del 7 febbraio 2017**, sull'aggiustamento per la **capacità di assorbimento delle perdite** delle riserve tecniche e delle imposte differite nella determinazione del requisito patrimoniale di solvibilità. Recepiscono le Linee Guida dell'EIOPA. ⚠️ Il numero 35 è anche quello del Regolamento Delegato UE n. 35/2015, che contiene gli Atti Delegati.
+**Opzione:** Il Regolamento IVASS n. 18 del 15 marzo 2016.
+**Distrattori:**
+- Il Regolamento IVASS n. 34 del 7 febbraio 2017.
+- Il Regolamento IVASS n. 25 del 26 luglio 2016.
+- Il Regolamento IVASS n. 35 del 7 febbraio 2017.
+
+**D:** ⚠️ Quante volte i fondi propri ammissibili coprono il Requisito Patrimoniale di Solvibilità (SCR) e il Requisito Patrimoniale Minimo (MCR) al 31 dicembre 2021, secondo la slide 11 della lezione 38?
+**R:** **3,26 volte l'SCR** (3,18 al 31 dicembre 2020) e **7,03 volte l'MCR** (6,42 al 31 dicembre 2020) (slide 11). Nella tabella, in milioni: fondi propri ammissibili a copertura dell'SCR **9.720,1** (Tier 1 unrestricted 7.715,3, Tier 1 restricted 1.459,0, Tier 2 545,8) contro un SCR di **2.982,8**; ammissibili a copertura dell'MCR **9.442,7**, con il Tier 2 che scende a 268,5, contro un MCR di **1.342,3**. I requisiti sono calcolati con il **modello interno parziale** approvato dall'Autorità di Vigilanza. Per il docente la Solvency 2 stabilisce «quale debba essere il livello di capitale netto che deve avere la compagnia per poter risultare solvibile in relazione ai rischi che assume» ([00:25:23]).
+**Opzione:** 3,26 volte l'SCR e 7,03 volte l'MCR.
+**Distrattori:**
+- 7,03 volte l'SCR e 3,26 volte l'MCR.
+- 3,18 volte l'SCR e 6,42 volte l'MCR.
+- 3,26 volte l'SCR e 6,42 volte l'MCR.
+
+**D:** ⚠️ Quale aggiustamento viene applicato ai fini della determinazione dei fondi propri, e da quale norma è previsto, secondo la slide 11 della lezione 38?
+**R:** «*Ai fini della determinazione dei fondi propri viene applicato l'**aggiustamento per la volatilità** previsto dall'**art. 36-septies del Codice delle Assicurazioni Private***» (slide 11). L'aggiustamento per la **capacità di assorbimento delle perdite** delle riserve tecniche e delle imposte differite è invece l'oggetto del Regolamento IVASS n. 35 del 7 febbraio 2017, nella determinazione del requisito patrimoniale di solvibilità (slide 10). L'art. 2428 del Codice Civile è quello del titolo della slide 5.
+**Opzione:** L'aggiustamento per la volatilità previsto dall'art. 36-septies del Codice delle Assicurazioni Private.
+**Distrattori:**
+- L'aggiustamento per la volatilità previsto dall'art. 2428 del Codice Civile.
+- L'aggiustamento per la capacità di assorbimento delle perdite previsto dall'art. 36-septies del Codice delle Assicurazioni Private.
+- L'aggiustamento per la volatilità previsto dal Regolamento IVASS n. 35 del 7 febbraio 2017.
+
+**D:** ⚠️ Per la valutazione di quali fattori di rischio è utilizzato il Modello Interno Parziale di UnipolSai, secondo la slide 12 della lezione 38?
+**R:** «*Il Modello Interno Parziale è utilizzato con riferimento alle valutazioni dei seguenti fattori di rischio, nonché nel **processo di aggregazione**: Rischi **Tecnico Assicurativi Danni e Salute** relativi alla **componente catastrofale inerente al terremoto**; Rischi **Tecnico Assicurativi Vita**; **Rischio di Mercato**; **Rischio di Credito**.*» (slide 12). L'autorizzazione decorre dalle valutazioni al **31 dicembre 2016**. Il 28 aprile 2021, con il Provvedimento n. 0089983/21, l'IVASS ha autorizzato **modifiche rilevanti** ai moduli di rischio mercato e di credito, applicate dalle valutazioni al **30 giugno 2021**. È previsto un piano di estensione verso un **Full Internal Model**. Per il docente il modello è applicato «sia al comparto danni che al comparto vita» ([00:25:23]): nei danni, però, copre solo la componente catastrofale del terremoto.
+**Opzione:** I Rischi Tecnico Assicurativi Danni e Salute relativi alla componente catastrofale inerente al terremoto, i Rischi Tecnico Assicurativi Vita, il Rischio di Mercato e il Rischio di Credito.
+**Distrattori:**
+- I Rischi Tecnico Assicurativi Danni e Salute relativi alla componente catastrofale inerente al terremoto, i Rischi Tecnico Assicurativi Vita, il Rischio di Mercato e il Rischio di Liquidità.
+- Il campionamento congiunto dei fattori di rischio, l'aggregazione mediante metodo Var-Covar, con la PDF a posteriori, e l'aggregazione di più distribuzioni marginali mediante funzioni copula.
+- Nella classe C il rischio è sopportato dalla compagnia stessa; la classe D comprende gli investimenti a beneficio degli assicurati che ne sopportano il rischio e quelli derivanti dalla gestione dei fondi pensione.
+
+**D:** ⚠️ Da quali sotto-moduli di rischio è rappresentato il rischio Tecnico Assicurativo Danni e Salute, secondo la slide 12 della lezione 38?
+**R:** «*Il rischio Tecnico Assicurativo – Danni e Salute è rappresentato dai sotto-moduli di rischio: rischio di **tariffazione**, rischio di **riservazione**, rischio **catastrofale** e rischio di **riscatto***» (slide 12). Per il calcolo del requisito si usano il **Modello Interno Parziale** (per il rischio catastrofale Terremoto), i **Parametri Specifici della Compagnia** e la **Standard Formula**. I parametri specifici, autorizzati con Provvedimento del 2 febbraio 2016 dal 1° gennaio 2016, valgono per i rischi di tariffazione e di riservazione nei Segmenti 1 (R.C. autoveicoli), 4 (Incendio e Altri Danni ai Beni) e 5 (R.C. Generale). Fatta eccezione per il Terremoto, i rischi catastrofali e il rischio di riscatto sono valutati con la Standard Formula. ⚠️ Il rischio di sottoscrizione **Vita** è invece mortalità/longevità, riscatto e spese (slide 13).
+**Opzione:** Rischio di tariffazione, rischio di riservazione, rischio catastrofale e rischio di riscatto.
+**Distrattori:**
+- Rischio di tariffazione, rischio di riservazione, rischio catastrofale e rischio spese.
+- Rischio mortalità/longevità, rischio riscatto e rischio spese.
+- Rischio di tariffazione, rischio di riservazione, rischio di concentrazione e rischio di riscatto.
+
+**D:** ⚠️ Da quali rischi è composto il rischio di sottoscrizione Vita, e con quale metodologia lo misura il Modello Interno Parziale, secondo la slide 13 della lezione 38?
+**R:** «*Il rischio di sottoscrizione Vita (rischio **mortalità/longevità**, rischio **riscatto** e rischio **spese**) è misurato attraverso il Modello Interno Parziale basato sulla metodologia **Least Square Monte Carlo***», coerente con Solvency II, che permette la determinazione della **Probability Distribution Forecast** relativa ai fattori di rischio vita (slide 13). Il rischio catastrofale e i rischi di sottoscrizione vita dei prodotti **Unit Linked** e **Fondi Pensione** sono valutati con la **Standard Formula**.
+**Opzione:** Mortalità/longevità, riscatto e spese, misurati con il Modello Interno Parziale basato sulla metodologia Least Square Monte Carlo.
+**Distrattori:**
+- Mortalità/longevità, riscatto e spese, misurati con il Modello Interno Parziale basato sulla metodologia CreditRisk+.
+- Tariffazione, riservazione, catastrofale e riscatto, misurati con il Modello Interno Parziale basato sulla metodologia Least Square Monte Carlo.
+- Mortalità/longevità, riscatto e spese, misurati con la Standard Formula Market Wide.
+
+**D:** ⚠️ Con quale metodologia il Modello Interno Parziale misura il rischio di mercato del portafoglio titoli il cui rischio di investimento non è sopportato dagli assicurati, e con quale il rischio di credito, secondo la slide 13 della lezione 38?
+**R:** Il **rischio di mercato** con la metodologia di tipo **Monte Carlo VaR**; il **rischio di credito** con la metodologia **CreditRisk+**. Il CreditRisk+ misura il rischio di default delle controparti di tipo bancario, per la liquidità disponibile e i derivati di mitigazione del rischio finanziario, delle esposizioni assicurative e riassicurative e di quelle verso intermediari e assicurati (slide 13). Il rischio di mercato del portafoglio il cui rischio è sopportato dagli assicurati, e il rischio di concentrazione, sono valutati con la **Standard Formula Market Wide**. Nel modello di mercato le liabilities Vita sono replicate con cash flow con scadenza equivalente allo smontamento delle riserve per la componente garantita, e con funzioni polinomiali (Least Square Monte Carlo) per i Future Discretionary Benefits. ⚠️ Per il docente il modello usa «prevalentemente la metodologia VAR e in particolare la metodologia Monte Carlo» ([00:25:23]): per la slide il Monte Carlo VaR è solo del rischio di mercato.
+**Opzione:** Il rischio di mercato con il Monte Carlo VaR, il rischio di credito con il CreditRisk+.
+**Distrattori:**
+- Il rischio di mercato con il CreditRisk+, il rischio di credito con il Monte Carlo VaR.
+- Il rischio di mercato con la Standard Formula Market Wide, il rischio di credito con il CreditRisk+.
+- Il rischio di mercato con il Monte Carlo VaR, il rischio di credito con il Least Square Monte Carlo.
+
+**D:** ⚠️ Quali sono i tre distinti approcci all'aggregazione dei sotto-moduli di rischio nel Modello Interno Parziale, secondo la slide 13 della lezione 38?
+**R:** «*L'aggregazione dei sotto-moduli prevede tre distinti approcci: **campionamento congiunto** dei fattori di rischio; aggregazione mediante metodo **Var-Covar** (con determinazione della PDF a posteriori); aggregazione di più **distribuzioni marginali** mediante **funzioni copula***» (slide 13). Il processo di aggregazione dei rischi, adottato dal Gruppo, è **bottom-up** e si scompone in **due fasi**: l'aggregazione dei sotto-moduli dei rischi di Mercato, Tecnico Assicurativi Danni e Salute, Tecnico Assicurativi Vita e di Credito, per ottenere la **Probability Distribution Forecast** (PDF) di ogni modulo; poi l'aggregazione dei moduli per calcolare il **Basic SCR**.
+**Opzione:** Il campionamento congiunto dei fattori di rischio, l'aggregazione mediante metodo Var-Covar, con la PDF a posteriori, e l'aggregazione di più distribuzioni marginali mediante funzioni copula.
+**Distrattori:**
+- Il campionamento congiunto dei fattori di rischio, l'aggregazione mediante metodo Var-Covar, con la PDF a posteriori, e l'aggregazione mediante la Standard Formula Market Wide.
+- Attraverso l'analisi di sensitivity del portafoglio azionario alla variazione dei mercati di riferimento rappresentati dagli indici settoriali.
+- Più è lunga la duration, più il rischio di tasso è elevato; più è breve, più il rischio di tasso è contenuto.
