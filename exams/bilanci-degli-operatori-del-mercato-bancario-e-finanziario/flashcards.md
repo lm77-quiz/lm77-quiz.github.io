@@ -8443,3 +8443,285 @@
 - Tutte al livello 2: 5.964 al 31.12.2021, contro 4.875 al 31.12.2020.
 - Tutte al livello 1: 5.964 al 31.12.2021, contro 4.875 al 31.12.2020.
 - Tutte al livello 3: 4.875 al 31.12.2021, contro 5.964 al 31.12.2020.
+
+## Lezione 33 — La Nota Integrativa del bilancio della banca. Il dettaglio delle attività finanziarie
+
+**D:** ⚠️ Dove vengono classificati nel bilancio della banca i crediti a vista verso le banche, secondo il test della lezione 33 (domanda 1)?
+**R:** Nella voce **Cassa e disponibilità liquide** (slide 2, ripetuta nella slide 13): il **7° aggiornamento della Circolare n. 262** della Banca d'Italia «*ha previsto la rappresentazione dei crediti a vista verso banche alla voce "Cassa e disponibilità liquide" e non più alla voce "Attività finanziarie valutate al costo ammortizzato" tra i "Crediti verso banche"*». Nella tabella della voce 10 sono la riga c), «Conti correnti e depositi a vista presso banche», per 2.358 milioni. ⚠️ Il distrattore vicino è «crediti verso banche», la collocazione di prima. Distrattori del test: «crediti verso clientela», «crediti verso banche», «altri crediti».
+**Opzione:** Cassa e disponibilità liquide.
+**Distrattori:**
+- Crediti verso clientela.
+- Crediti verso banche.
+- Altri crediti.
+
+**D:** ⚠️ Come si classificano gli strumenti derivati non finalizzati alla copertura di rischi generici o specifici, secondo il test della lezione 33 (domanda 2)?
+**R:** Fra le **attività finanziarie valutate al fair value con impatto a conto economico**: nella tabella delle detenute per la negoziazione della voce 20 la sezione B è «Strumenti derivati», derivati finanziari e creditizi di negoziazione (slide 3). I derivati di copertura stanno in un'altra voce (slide 4). ⚠️ La chiave non è testuale: la sostengono la lezione 15 (le HFT comprendono i derivati positivi non parte di efficaci relazioni di copertura) e la lezione 28 (i derivati detenuti con finalità di negoziazione). Il distrattore vicino è il fair value con impatto sulla redditività complessiva, la voce 30, che non contiene derivati (slide 10). Distrattori del test: «al costo storico», «al fair value con impatto a redditività complessiva» (con il refuso «redditiivtà»), «al costo ammortizzato».
+**Opzione:** Attività finanziarie valutate al fair value con impatto a conto economico.
+**Distrattori:**
+- Attività finanziarie valutate al costo storico.
+- Attività finanziarie valutate al fair value con impatto a redditività complessiva.
+- Attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ Come si classificano le quote di OICR, secondo il test della lezione 33 (domanda 3)?
+**R:** **Tra le attività finanziarie detenute per la negoziazione**: la loro tabella ha la riga «3. Quote di O.I.C.R.», 24 milioni al livello 1 e 25 al livello 3 (slide 3), e la slide 5 ne dà la composizione. Il docente: «gli OICR sarebbero i fondi di investimento» ([00:10:09]). ⚠️ È l'unica opzione sostenuta dalle slide, ma la gran parte delle quote di OICR, **2.297 milioni** contro 49, sta fra le **altre attività finanziarie obbligatoriamente valutate al fair value** (slide 8–9), che non è fra le opzioni. Il distrattore vicino è «tra le partecipazioni», che sono la voce 70. Immobilizzate e detenute fino a scadenza sono categorie del vecchio schema. Distrattori del test: «tra le partecipazioni», «tra le attività finanziarie immobilizzate», «tra le attività finanziarie detenute fino a scadenza» (con il refuso «deternute»).
+**Opzione:** Tra le attività finanziarie detenute per la negoziazione.
+**Distrattori:**
+- Tra le partecipazioni.
+- Tra le attività finanziarie immobilizzate.
+- Tra le attività finanziarie detenute fino a scadenza.
+
+**D:** ⚠️ Come si classificano le quote di SICAV, secondo il test della lezione 33 (domanda 4)?
+**R:** **Tra le attività finanziarie detenute per la negoziazione** (slide 5): accanto alla loro tabella, «*Le quote di OICR in portafoglio a fine esercizio sono rappresentate da hedge fund per 27 milioni, da **quote SICAV per 11 milioni**, da investimenti in fondi immobiliari per 7 milioni e da altre tipologie per 4 milioni*». Il docente: le SICAV sono «le società di investimento a capitale variabile» ([00:13:42]). ⚠️ È la gemella della domanda 3, con la stessa batteria. Il distrattore vicino è «tra le partecipazioni», perché la SICAV è una società: per le slide le sue quote sono quote di OICR. Distrattori del test: «tra le partecipazioni», «tra le attività finanziarie immobilizzate», «tra le attività finanziarie detenute fino a scadenza».
+**Opzione:** Tra le attività finanziarie detenute per la negoziazione.
+**Distrattori:**
+- Tra le partecipazioni.
+- Tra le attività finanziarie immobilizzate.
+- Tra le attività finanziarie detenute fino a scadenza.
+
+**D:** ⚠️ Come si classificano i finanziamenti, secondo il test della lezione 33 (domanda 5)?
+**R:** **Tra le attività finanziarie valutate al costo ammortizzato**, la voce 40: i finanziamenti verso clientela sono 388.895 milioni in primo e secondo stadio (slide 14), quelli verso banche 37.378 (slide 13). ⚠️ La chiave vince **per prevalenza**. La riga «Finanziamenti» c'è anche fra le detenute per la negoziazione (19 milioni, slide 3 e 5), fra le obbligatoriamente valutate al fair value (967 milioni, che non superano lo SPPI test, slide 8–9) e nella voce 30 (739 milioni di prestiti sindacati destinati alla cessione, slide 10–11). Il distrattore vicino è quindi «tra le attività finanziarie detenute per la negoziazione». Distrattori del test: «tra le attività finanziarie detenute per la negoziazione», «tra le partecipazioni», «tra le attività finanziarie detenute fino a scadenza».
+**Opzione:** Tra le attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Tra le attività finanziarie detenute per la negoziazione.
+- Tra le partecipazioni.
+- Tra le attività finanziarie detenute fino a scadenza.
+
+**D:** ⚠️ Quali sono le tre sottovoci della voce 10 «Cassa e disponibilità liquide» nella nota integrativa 2021 di Intesa Sanpaolo, secondo la slide 2 della lezione 33?
+**R:** In milioni di euro, al 31.12.2021 (fra parentesi il 2020): «*a) Cassa*» 2.416 (2.545); «*b) Conti correnti e depositi a vista presso Banche Centrali*» 2.956 (2.857); «*c) Conti correnti e depositi a vista presso banche*» 2.358 (1.346). Il **totale** è 7.730 (6.748). La riga c) è quella dei crediti a vista verso banche, spostati qui dal 7° aggiornamento della Circolare 262. ⚠️ La **riserva obbligatoria** non c'è: sta fra i crediti verso Banche centrali della voce 40 (slide 13). Il docente: la cassa sono i soldi «direttamente disponibili», e il valore è «determinato a vista», senza tecniche particolari ([00:04:22]–[00:08:07]).
+**Opzione:** Cassa; conti correnti e depositi a vista presso Banche Centrali; conti correnti e depositi a vista presso banche.
+**Distrattori:**
+- Cassa; conti correnti e depositi a vista presso Banche Centrali; riserva obbligatoria.
+- Cassa; riserva obbligatoria; conti correnti e depositi a vista presso banche.
+- Cassa; conti correnti e depositi a vista presso Banche Centrali; depositi a scadenza presso banche.
+
+**D:** Come agisce sull'inflazione la riserva obbligatoria, secondo il docente della lezione 33?
+**R:** Ogni banca autorizzata deve depositare presso la banca centrale una parte di ogni euro raccolto presso i risparmiatori, e il regolatore, oggi la BCE, può muoverne il livello. Se la quota passa per esempio dal 20% al 30% o al 40% della raccolta, si **drena denaro dal sistema**. La banca presta meno alle imprese, si blocca alla radice il **moltiplicatore creditizio** e diminuisce la moneta in circolazione: è un **effetto antinflattivo**. L'altro strumento è il **tasso di interesse**, cioè il tasso di sconto ([00:04:22]–[00:08:07]). ⚠️ Il docente ne parla commentando i depositi presso le banche centrali della voce 10, ma la slide 13 mette la riserva obbligatoria fra i crediti verso Banche centrali della voce 40. Le slide non spiegano la riserva obbligatoria.
+**Opzione:** Alzando la quota della raccolta da depositare presso la banca centrale si drena denaro dal sistema e si frena il moltiplicatore creditizio.
+**Distrattori:**
+- Alzando la quota della raccolta da depositare presso la banca centrale si alza il tasso di sconto applicato ai prestiti alle banche.
+- Abbassando la quota della raccolta da depositare presso la banca centrale si drena denaro dal sistema e si frena il moltiplicatore.
+- Alzando la quota della raccolta da depositare presso la banca centrale si aumentano i prestiti alle imprese e la moneta in circolazione.
+
+**D:** ⚠️ Dove sta la riserva obbligatoria nella nota integrativa 2021 di Intesa Sanpaolo, e per quale importo, secondo la slide 13 della lezione 33?
+**R:** Fra i **crediti verso Banche centrali** della voce 40, «Attività finanziarie valutate al **costo ammortizzato**»: la riga «2. Riserva obbligatoria» vale **121.401 milioni** al 31.12.2021 (52.554 nel 2020). È quasi tutto il totale dei crediti verso Banche centrali, 121.493 milioni, insieme ai depositi a scadenza (87) e agli altri (5), con fair value di livello 2. ⚠️ Il docente spiega la riserva obbligatoria commentando i «conti correnti e depositi a vista presso banche centrali» della **voce 10** ([00:04:22]): la slide la mette nella voce 40. È la stessa collocazione della slide 4 della lezione 16.
+**Opzione:** Fra i crediti verso Banche centrali della voce 40, al costo ammortizzato: 121.401 milioni al 31.12.2021.
+**Distrattori:**
+- Nella voce 10, fra i conti correnti e depositi a vista presso Banche Centrali: 2.956 milioni al 31.12.2021.
+- Fra i crediti verso banche della voce 40, al costo ammortizzato: 38.942 milioni al 31.12.2021.
+- Fra i crediti verso Banche centrali della voce 40, al costo ammortizzato: 52.554 milioni al 31.12.2021.
+
+**D:** Perché tutte le note integrative delle banche hanno sostanzialmente la stessa struttura, secondo il docente della lezione 33?
+**R:** Perché la nota integrativa delle banche **non ha una struttura libera**: la predispone una circolare del **2005** della **Banca d'Italia**, la **262**, e la banca deve inserire i valori secondo quella struttura ([00:00:06]–[00:01:54]). Per il docente è un documento **molto tecnico**, non di facile lettura. Presuppone la contabilità di base e avanzata, la conoscenza dei mercati finanziari, del loro funzionamento e della loro terminologia, e delle modalità di determinazione dei valori secondo i principi contabili internazionali e il fair value. È ispirato ai principi di chiarezza, comprensibilità e comparabilità, ma chi è digiuno di queste nozioni non lo comprende a pieno ([00:01:54]–[00:03:24]).
+**Opzione:** Perché la struttura non è libera: la predispone la Circolare 262 del 2005 della Banca d'Italia, e la banca vi inserisce i valori.
+**Distrattori:**
+- Perché la struttura non è libera: la predispone l'IFRS 9, e la banca vi inserisce i valori.
+- Perché la struttura non è libera: la predispone una circolare del 2005 della BCE, e la banca vi inserisce i valori.
+- Perché la struttura è libera, ma tutte le banche seguono il modello della principale banca italiana.
+
+**D:** ⚠️ Quali sono, nell'ordine del deck, le tre sottovoci della voce 20 «Attività finanziarie valutate al fair value con impatto a conto economico», secondo le slide 3–8 della lezione 33?
+**R:** Le attività finanziarie **detenute per la negoziazione** (tabella 2.1, slide 3–5), le attività finanziarie **designate al fair value** (slide 6–7) e le **altre attività finanziarie obbligatoriamente valutate al fair value** (slide 8–9). È l'ordine a), b), c) dello schema della lezione 26. Il docente: «siamo sempre nell'ambito ovviamente del primo aggregato» ([00:15:02]). La voce 30 (fair value con impatto sulla redditività complessiva) e la voce 40 (costo ammortizzato) vengono dopo.
+**Opzione:** Detenute per la negoziazione; designate al fair value; altre obbligatoriamente valutate al fair value.
+**Distrattori:**
+- Detenute per la negoziazione; designate al fair value; valutate al fair value con impatto sulla redditività complessiva.
+- Detenute per la negoziazione; detenute fino a scadenza; altre obbligatoriamente valutate al fair value.
+- Detenute per la negoziazione; designate al fair value; disponibili per la vendita.
+
+**D:** ⚠️ Un titolo comprato a 100 vale 103 alla chiusura dell'esercizio: dove va il 3 di differenza se il titolo sta nella voce 20 e se sta nella voce 30, secondo il docente della lezione 33?
+**R:** In entrambi i casi l'iscrizione è al prezzo di acquisto e la valutazione di fine esercizio è al **fair value**. Nella **voce 20** il 3 va **direttamente a conto economico** e incide sull'utile o sulla perdita dell'esercizio ([00:08:07]–[00:09:49]). Nella **voce 30** va in una riserva di patrimonio netto, la **riserva da valutazione**: l'impatto è sulla **redditività complessiva**, cioè sull'OCI (*Other Comprehensive Income*), e non sul risultato dell'esercizio, che è quello che esce dal conto economico ([00:18:03]–[00:22:05]).
+**Opzione:** Voce 20: a conto economico; voce 30: nella riserva da valutazione, cioè nella redditività complessiva.
+**Distrattori:**
+- Voce 20: nella riserva da valutazione, cioè nella redditività complessiva; voce 30: a conto economico.
+- Voce 20 e voce 30: nella riserva da valutazione, cioè nella redditività complessiva.
+- Voce 20: a conto economico; voce 30: in nessun prospetto, finché il titolo resta in portafoglio.
+
+**D:** ⚠️ Come si articola la composizione merceologica delle attività finanziarie detenute per la negoziazione, secondo la slide 3 della lezione 33?
+**R:** «*A. Attività per cassa*»: 1. Titoli di debito (1.1 Titoli strutturati, 1.2 Altri titoli di debito); 2. Titoli di capitale; 3. Quote di O.I.C.R.; 4. Finanziamenti (4.1 Pronti contro termine, 4.2 Altri). «*B. Strumenti derivati*»: 1. Derivati finanziari e 2. Derivati creditizi, ciascuno ripartito in «di negoziazione», «connessi con la fair value option» e «altri». Solo le righe «di negoziazione» hanno valori. Ogni riga è divisa fra **livello 1, 2 e 3** di fair value, per il 2021 e il 2020. Per il docente la tabella dà sia la composizione merceologica sia il livello di fair value usato ([00:10:09]–[00:11:15]).
+**Opzione:** Attività per cassa: titoli di debito, titoli di capitale, quote di O.I.C.R., finanziamenti; strumenti derivati: derivati finanziari e derivati creditizi.
+**Distrattori:**
+- Attività per cassa: titoli di debito, titoli di capitale, quote di O.I.C.R., finanziamenti; strumenti derivati: derivati finanziari e derivati di copertura.
+- Cassa; conti correnti e depositi a vista presso Banche Centrali; conti correnti e depositi a vista presso banche.
+- Conti correnti; pronti contro termine attivi; mutui; carte di credito, prestiti personali e cessioni del quinto; finanziamenti per leasing; factoring; altri finanziamenti.
+
+**D:** ⚠️ A quale livello di fair value sono prevalentemente le attività per cassa e gli strumenti derivati detenuti per la negoziazione, e perché, secondo la slide 3 e il docente della lezione 33?
+**R:** Al 31.12.2021 le **attività per cassa** sono soprattutto di **livello 1**: 22.253 milioni, contro 1.326 di livello 2 e 135 di livello 3. Gli **strumenti derivati** sono quasi tutti di **livello 2**: 23.939 milioni, contro 26 di livello 1 e 52 di livello 3. Il totale è 22.279 / 25.265 / 187. Il docente: per titoli di debito e di capitale il livello più adottato è l'1, per i derivati, finanziari e creditizi, il 2, «perché chiaramente per i derivati non vi è un mercato attivo di scambio» da cui ricavare subito il valore di mercato ([00:11:31]).
+**Opzione:** Attività per cassa: livello 1; strumenti derivati: livello 2.
+**Distrattori:**
+- Attività per cassa: livello 2; strumenti derivati: livello 1.
+- Attività per cassa: livello 1; strumenti derivati: livello 3.
+- Attività per cassa: livello 2; strumenti derivati: livello 3.
+
+**D:** ⚠️ Quanto ammontano i titoli di debito connessi con operazioni di cartolarizzazione fra le attività detenute per la negoziazione, e come si ripartiscono, secondo la slide 4 della lezione 33?
+**R:** «*I Titoli di debito connessi con operazioni di cartolarizzazione ammontano complessivamente a **1.092 milioni**, di cui **666** milioni riferibili a titoli **senior**, **412** milioni riferibili a titoli **mezzanine** e **14** milioni riferibili a titoli **junior**, prevalentemente rappresentati tra gli **Altri titoli di debito**.*» Il docente legge i 666 senior e i 412 mezzanine, e la cifra dei junior non si sente ([00:11:31]). Fra le obbligatoriamente valutate al fair value le cartolarizzazioni sono 106 milioni: 44 senior, 46 mezzanine e 16 junior (slide 8).
+**Opzione:** 1.092 milioni: 666 senior, 412 mezzanine, 14 junior, prevalentemente tra gli Altri titoli di debito.
+**Distrattori:**
+- 1.092 milioni: 666 senior, 14 mezzanine, 412 junior, prevalentemente tra gli Altri titoli di debito.
+- 1.092 milioni: 666 senior, 412 mezzanine, 14 junior, prevalentemente tra i Titoli strutturati.
+- 106 milioni: 44 senior, 46 mezzanine, 16 junior, prevalentemente tra gli Altri titoli di debito.
+
+**D:** ⚠️ Di che cosa si compongono i titoli strutturati detenuti per la negoziazione al 31 dicembre 2021, secondo la slide 4 della lezione 33?
+**R:** «*I Titoli strutturati al 31 dicembre 2021 si compongono in **1.050 milioni di prodotti strutturati di credito**, rappresentati da investimenti in **ABS** (Asset Backed Securities) per **772 milioni** e in **CLO** (Credit Loan Obligations) per **278 milioni**, oltre a **6 milioni** di strumenti **convertibili in azioni**.*» Nella tabella della slide 3 i titoli strutturati sono 5 + 1.009 + 42 = 1.056 milioni. Il docente: sono quasi tutti asset-backed securities, obbligazioni da cartolarizzazione, e CLO relativi prevalentemente a European corporate high yield ([00:11:31]–[00:13:15]).
+**Opzione:** 1.050 milioni di prodotti strutturati di credito, ABS per 772 e CLO per 278, oltre a 6 milioni di strumenti convertibili in azioni.
+**Distrattori:**
+- 1.050 milioni di prodotti strutturati di credito, ABS per 278 e CLO per 772, oltre a 6 milioni di strumenti convertibili in azioni.
+- 1.050 milioni di prodotti strutturati di credito, ABS per 772 e CLO per 278, oltre a 6 milioni di quote di O.I.C.R.
+- 1.050 milioni di prodotti strutturati di credito, ABS per 772 e titoli junior per 278, oltre a 6 milioni di strumenti convertibili in azioni.
+
+**D:** ⚠️ Quale compensazione includono i valori degli strumenti derivati detenuti per la negoziazione, e a quanto ammonterebbe il loro fair value positivo al lordo delle compensazioni, secondo la slide 4 della lezione 33?
+**R:** I valori «*includono i risultati della **compensazione contabile** tra saldi lordi positivi e negativi ai sensi dello **IAS 32 paragrafo 42** che non trovano rappresentazione nella Parte E*». Il fair value lordo positivo dei contratti con il compensatore legale **LCH Ltd.** è di **38.716 milioni**: 37.948 per l'operatività in conto proprio e 768 per quella originata da clientela e società del Gruppo. Soddisfacendo i requisiti della compensazione, è stato **nettizzato** tra le Passività in Derivati di copertura e tra le Passività finanziarie di negoziazione. «*Il fair value positivo complessivo degli strumenti derivati al lordo delle compensazioni in bilancio si attesterebbe a **62.733 milioni** (Derivati finanziari per 60.485 milioni e Derivati creditizi per 2.248 milioni).*» Il docente non ne parla.
+**Opzione:** La compensazione contabile ai sensi dello IAS 32 paragrafo 42, con il compensatore legale LCH Ltd. per 38.716 milioni; al lordo il fair value positivo sarebbe di 62.733 milioni.
+**Distrattori:**
+- La compensazione contabile ai sensi dello IAS 32 paragrafo 42, con il compensatore legale LCH Ltd. per 38.716 milioni; al lordo il fair value positivo sarebbe di 24.017 milioni.
+- All'exit price con un livello di certezza del 90%; l'AVA è la differenza fra il valore prudente e il fair value.
+- Canoni di mercato (uso funzionale) ed exit value (investimento) +5%/-5%: scostamento medio del fair value del 6% in entrambi gli scenari.
+
+**D:** ⚠️ Quali emittenti prevalgono fra i titoli di debito e quali controparti fra gli strumenti derivati detenuti per la negoziazione, secondo la slide 5 della lezione 33?
+**R:** Fra i **titoli di debito** (22.957 milioni) prevalgono le **amministrazioni pubbliche**, con 20.129 milioni; seguono altre società finanziarie (1.250), banche (1.149), società non finanziarie (385) e Banche Centrali (44). Fra gli **strumenti derivati** (24.017 milioni) le **controparti centrali** valgono 1.858 milioni e le **altre** 22.159. Il totale A+B è 47.731 milioni. Il docente: «la gran parte sono amministrazioni pubbliche, banche e altre società finanziarie che la fanno da padrone» ([00:13:42]).
+**Opzione:** Titoli di debito: amministrazioni pubbliche; strumenti derivati: controparti diverse da quelle centrali.
+**Distrattori:**
+- Titoli di debito: amministrazioni pubbliche; strumenti derivati: controparti centrali.
+- Titoli di debito: banche; strumenti derivati: controparti diverse da quelle centrali.
+- Titoli di debito: banche; strumenti derivati: controparti centrali.
+
+**D:** ⚠️ Da che cosa sono rappresentate le quote di OICR detenute per la negoziazione a fine esercizio, secondo la slide 5 della lezione 33?
+**R:** «*Le quote di OICR in portafoglio a fine esercizio sono rappresentate da **hedge fund per 27 milioni**, da **quote SICAV per 11 milioni**, da investimenti in **fondi immobiliari per 7 milioni** e da **altre tipologie per 4 milioni**.*» Il totale, 49 milioni, è la riga «3. Quote di OICR» della tabella per debitori/emittenti. ⚠️ Il docente legge «fondi in investimenti **mobiliari**» e tace le altre tipologie. Per lui questi investimenti, «meno gestiti sul mercato ma più privati», sono molto ridotti ([00:13:42]).
+**Opzione:** Hedge fund per 27 milioni, quote SICAV per 11, fondi immobiliari per 7, altre tipologie per 4.
+**Distrattori:**
+- Hedge fund per 27 milioni, quote SICAV per 11, fondi mobiliari per 7, altre tipologie per 4.
+- Hedge fund per 11 milioni, quote SICAV per 27, fondi immobiliari per 7, altre tipologie per 4.
+- Fondi di private equity per 27 milioni, quote SICAV per 11, fondi immobiliari per 7, altre tipologie per 4.
+
+**D:** ⚠️ Che cosa ha incluso la Banca fra le attività finanziarie designate al fair value, e con quali coperture, secondo la slide 6 della lezione 33?
+**R:** «*La Banca ha incluso in tale categoria i **titoli di debito correlati con strumenti finanziari valutati al fair value in contropartita del conto economico, quali derivati finanziari**. A fronte dei titoli di debito **non** sono state attivate coperture per il tramite di derivati creditizi o strumenti similari ad attenuazione del relativo rischio di credito. La variazione del fair value attribuibile alla misurazione del rischio di credito delle attività finanziarie designate al fair value è risultata essere, sia nell'esercizio che cumulativamente, **poco significativa**.*» La categoria vale **1 milione**, un titolo di debito di livello 2 emesso da amministrazioni pubbliche, in entrambi gli esercizi (slide 6–7). Il docente: «sono pochissime, sono solo un milione di euro» ([00:14:41]).
+**Opzione:** I titoli di debito correlati con strumenti finanziari valutati al fair value in contropartita del conto economico, quali derivati finanziari, senza coperture tramite derivati creditizi.
+**Distrattori:**
+- I titoli di debito correlati con strumenti finanziari valutati al fair value in contropartita del conto economico, quali derivati finanziari, coperti tramite derivati creditizi.
+- Almeno 3 fonti tra loro differenti: la principale è l'Agenzia delle Entrate, secondo le zone OMI; la seconda è Nomisma; la terza sono le variazioni delle offerte presenti sul mercato immobiliare.
+- Agli investimenti in fondi effettuati tramite acquisto diretto di quote e a quelli tramite l'utilizzo di una managed account platform (MAP), che garantisce trasparenza quotidiana sugli strumenti sottostanti ai fondi.
+
+**D:** ⚠️ A che cosa si riferisce la voce «Quote di OICR» delle altre attività finanziarie obbligatoriamente valutate al fair value, secondo la slide 9 della lezione 33?
+**R:** «*La voce 3. "Quote di OICR" si riferisce a fondi di **private equity e venture capital per 798 milioni**, **fondi immobiliari per 396 milioni**, **fondi di private debt per 351 milioni**, **hedge fund per 199 milioni**, **fondi per le infrastrutture per 163 milioni** e **altri fondi azionari per 64 milioni**.*» Include anche **326 milioni** di interessenze nel Fondo Atlante e in Italian Recovery Fund. Il totale, 2.297 milioni, è la riga delle quote di OICR della slide 8: 115 al livello 1, 136 al livello 2, 2.046 al livello 3. Il docente legge lo stesso elenco ([00:16:26]).
+**Opzione:** Private equity e venture capital per 798 milioni, fondi immobiliari per 396, private debt per 351, hedge fund per 199, infrastrutture per 163, altri fondi azionari per 64.
+**Distrattori:**
+- Private equity e venture capital per 798 milioni, fondi immobiliari per 396, hedge fund per 351, private debt per 199, infrastrutture per 163, altri fondi azionari per 64.
+- Hedge fund per 27 milioni, quote SICAV per 11, fondi immobiliari per 7, altre tipologie per 4.
+- 1.092 milioni: 666 senior, 412 mezzanine, 14 junior, prevalentemente tra gli Altri titoli di debito.
+
+**D:** ⚠️ Che cosa sono i 326 milioni di interessenze inclusi fra le quote di OICR obbligatoriamente valutate al fair value, secondo la slide 9 della lezione 33?
+**R:** «*La voce include, altresì, per **326 milioni** le interessenze detenute dalla Banca nel **Fondo Atlante** e in **Italian Recovery Fund (già Fondo Atlante II)**, quali **fondi d'investimento alternativi** a sostegno delle banche italiane nelle operazioni di **ricapitalizzazione** e nella gestione dei **crediti in sofferenza** del settore.*» ⚠️ Il docente cita solo le operazioni di ricapitalizzazione ([00:16:56]).
+**Opzione:** Interessenze nel Fondo Atlante e in Italian Recovery Fund, fondi d'investimento alternativi a sostegno delle banche italiane nella ricapitalizzazione e nella gestione dei crediti in sofferenza.
+**Distrattori:**
+- Interessenze nel Fondo Atlante e in Italian Recovery Fund, fondi d'investimento alternativi a sostegno delle banche italiane nella ricapitalizzazione e nella gestione dei crediti in bonis.
+- Con nuove perizie ogni anno; nel 2021 sono stati valutati i trophy asset e gli immobili ad uso investimento.
+- A un valore rideterminato, pari al loro fair value alla data della rideterminazione di valore, per le attività materiali il cui fair value può essere attendibilmente determinato.
+
+**D:** ⚠️ Perché i finanziamenti della voce 4 stanno fra le altre attività finanziarie obbligatoriamente valutate al fair value, secondo la slide 9 della lezione 33?
+**R:** «*La voce 4. "Finanziamenti" include le esposizioni creditizie classificate tra le attività finanziarie obbligatoriamente valutate al fair value per il **mancato superamento del test sulle caratteristiche contrattuali dei cash flow (SPPI Test)** previsto dal principio contabile internazionale **IFRS 9**.*» Nella slide 8 sono 433 milioni al livello 2 e 534 al livello 3, tutti nella sottovoce «Altri»: i pronti contro termine sono zero. Il docente lo legge alla lettera ([00:16:56]–[00:18:03]).
+**Opzione:** Per il mancato superamento del test sulle caratteristiche contrattuali dei cash flow (SPPI Test) previsto dall'IFRS 9.
+**Distrattori:**
+- Per il superamento del test sulle caratteristiche contrattuali dei cash flow (SPPI Test) previsto dall'IFRS 9.
+- Per il mancato superamento del test di impairment sulle esposizioni creditizie previsto dall'IFRS 9.
+- Per la designazione al fair value all'iscrizione, per ridurre un'incoerenza valutativa.
+
+**D:** Che cosa verifica lo SPPI test, e su quale principio si fonda, secondo il docente della lezione 33?
+**R:** Verifica «se i flussi che ti vengono pagati sono solamente flussi relativi al pagamento di **interessi e capitale**, che è il tipico pagamento delle attività finanziarie». Se ci sono anche altri tipi di pagamento, per il docente quei pagamenti non sono di un'attività finanziaria in senso proprio ma sono «più assimilabili a un finanziamento». Il test serve a capire se l'attività sottoscritta è «un **prestito mascherato**» o un vero acquisto di attività finanziarie. Il fondamento è il principio della **prevalenza della sostanza sulla forma**: ai fini della classificazione non interessa la veste giuridica ma «cosa c'è sotto» ([00:16:56]–[00:18:03] e seguenti). ⚠️ Il docente scioglie la sigla come «Solvent Payment of Principle and Interest». La slide 9 parla solo del «test sulle caratteristiche contrattuali dei cash flow (SPPI Test)», e la lezione 29 lo scioglie *solely payment of principal and interest*.
+**Opzione:** Se i flussi pagati sono solo interessi e capitale; si fonda sulla prevalenza della sostanza sulla forma, per scoprire un prestito mascherato.
+**Distrattori:**
+- Se i flussi pagati sono solo interessi e capitale; si fonda sulla prevalenza della forma giuridica, per scoprire un prestito mascherato.
+- Se il valore di iscrizione è interamente recuperabile; si fonda sulla prudenza, per scoprire un prestito mascherato.
+- Se i flussi pagati sono solo interessi e capitale; si fonda sulla prudenza, per anticipare le perdite attese.
+
+**D:** ⚠️ A quale livello di fair value sono prevalentemente i titoli di debito della voce 30, e a quali livelli stanno i finanziamenti, secondo la slide 10 della lezione 33?
+**R:** Al 31.12.2021, in milioni, per livello 1 / 2 / 3: **titoli di debito** 45.919 / 2.352 / 3, con 587 milioni di titoli strutturati tutti di livello 2; **titoli di capitale** 1.512 / 1.297 / 327; **finanziamenti** – / 686 / 53. I titoli di debito sono quindi soprattutto di **livello 1** e i finanziamenti solo ai **livelli 2 e 3**. Il docente: «la stragrande maggioranza di questa voce è composta da altri titoli di debito che sono determinati a livello 1», «un livello di valutazione molto affidabile» ([00:22:05]).
+**Opzione:** Titoli di debito: livello 1; finanziamenti: solo livelli 2 e 3.
+**Distrattori:**
+- Titoli di debito: livello 2; finanziamenti: solo livelli 2 e 3.
+- Titoli di debito: livello 1; finanziamenti: solo livello 1.
+- Titoli di debito: livello 3; finanziamenti: solo livelli 1 e 2.
+
+**D:** ⚠️ A che cosa sono riferiti i finanziamenti valutati al fair value con impatto sulla redditività complessiva, secondo la slide 10 della lezione 33?
+**R:** «*I finanziamenti, come illustrato nella Parte A Politiche Contabili, sono riferiti alle **quote dei prestiti sindacati sottoscritti e destinati alla successiva cessione**.*» Sono 686 milioni di livello 2 e 53 di livello 3 (slide 10), 739 in tutto, verso altre società finanziarie (61) e società non finanziarie (678) (slide 11). Non ci sono finanziamenti FVOCI oggetto di misure di sostegno COVID-19: «*Al 31 dicembre 2021 la fattispecie non risulta presente*» (slide 13). Il docente non ne parla.
+**Opzione:** Alle quote dei prestiti sindacati sottoscritti e destinati alla successiva cessione.
+**Distrattori:**
+- Alle quote dei prestiti sindacati sottoscritti e destinati a essere detenuti fino a scadenza.
+- Alle esposizioni creditizie che non hanno superato il test sulle caratteristiche contrattuali dei cash flow.
+- Ai finanziamenti oggetto di misure di sostegno COVID-19.
+
+**D:** ⚠️ Dove è classificata la partecipazione nel capitale di Banca d'Italia, per quale importo, e con quale metodo è valutata, secondo la slide 10 della lezione 33?
+**R:** Fra le attività finanziarie valutate al fair value con impatto sulla redditività complessiva, voce «*2. Titoli di capitale – **Livello 2***», per **1.109 milioni**. Si usa, come nei precedenti esercizi, il metodo delle **transazioni dirette**, «*in considerazione delle compravendite intervenute a partire dal 2015 e proseguite negli esercizi seguenti, compreso il 2021*». Poiché le principali transazioni sono avvenute **al valore nominale**, il metodo conferma il valore di iscrizione. A supporto è stata fatta una valutazione con il **DDM** (*Discounted Dividend Model*), che ha restituito un valore sostanzialmente allineato. L'uso del prezzo delle transazioni dirette conferma il **livello 2** della gerarchia. Il docente non ne parla.
+**Opzione:** Fra i titoli di capitale di livello 2 della voce 30, per 1.109 milioni, con il metodo delle transazioni dirette, supportato da un DDM.
+**Distrattori:**
+- Fra i titoli di capitale di livello 1 della voce 30, per 1.109 milioni, con il metodo delle transazioni dirette, supportato da un DDM.
+- Fra le partecipazioni della voce 70, per 1.109 milioni, con il metodo delle transazioni dirette, supportato da un DDM.
+- Fra i titoli di capitale di livello 2 della voce 30, per 1.109 milioni, con il DDM, supportato dal metodo delle transazioni dirette.
+
+**D:** ⚠️ Quanto valgono i titoli di debito connessi con operazioni di cartolarizzazione in ciascun portafoglio, secondo le slide 4, 8, 10 e 14 della lezione 33?
+**R:** **Detenute per la negoziazione**: 1.092 milioni, di cui 666 senior, 412 mezzanine e 14 junior (slide 4). **Altre obbligatoriamente valutate al fair value**: 106 milioni, di cui 44 senior, 46 mezzanine e 16 junior (slide 8). **Fair value con impatto sulla redditività complessiva**: 1.695 milioni, di cui 1.652 senior e 43 mezzanine (slide 10). **Costo ammortizzato**, crediti verso clientela: 4.831 milioni, di cui 4.819 senior e 12 mezzanine (slide 14). A questi si aggiungono i 5.703 milioni del veicolo consolidato Romulus Funding Corporation. Il docente cita le cifre della voce 20 ([00:11:31], [00:16:26]).
+**Opzione:** Negoziazione 1.092 milioni; obbligatoriamente al fair value 106; redditività complessiva 1.695; costo ammortizzato 4.831.
+**Distrattori:**
+- Negoziazione 106 milioni; obbligatoriamente al fair value 1.092; redditività complessiva 1.695; costo ammortizzato 4.831.
+- Negoziazione 1.092 milioni; obbligatoriamente al fair value 106; redditività complessiva 4.831; costo ammortizzato 1.695.
+- Negoziazione 1.695 milioni; obbligatoriamente al fair value 106; redditività complessiva 1.092; costo ammortizzato 4.831.
+
+**D:** ⚠️ Che cosa riporta la tabella del valore lordo e delle rettifiche di valore delle attività finanziarie valutate al fair value con impatto sulla redditività complessiva al 31.12.2021, secondo la slide 12 della lezione 33?
+**R:** **Valore lordo**: primo stadio **48.902** milioni, di cui **438** strumenti con basso rischio di credito; secondo stadio **144**; terzo stadio **35**; nessuna impaired acquisita o originata. **Rettifiche di valore complessive**: **−22**, **−11** e **−35**. Nessun write-off parziale. Nel 2020: 36.772 / 910 / 39, con rettifiche −13, −13 e −38. ⚠️ Il docente legge «48 miliardi 982 mila» e rettifiche di primo stadio «29» ([00:23:43]–[00:24:15]): la slide dice 48.902 e −22. Dice anche che sono minori dell'anno prima «tranne che per il primo stadio», ed è giusto: −22 contro −13.
+**Opzione:** Primo stadio 48.902 milioni, di cui 438 a basso rischio di credito; secondo 144; terzo 35; rettifiche −22, −11 e −35; nessun write-off.
+**Distrattori:**
+- Primo stadio 48.982 milioni, di cui 438 a basso rischio di credito; secondo 144; terzo 35; rettifiche −29, −11 e −35; nessun write-off.
+- Primo stadio 48.902 milioni, di cui 438 a basso rischio di credito; secondo 144; terzo 35; rettifiche −13, −13 e −38; nessun write-off.
+- Primo stadio 48.902 milioni, di cui 438 a basso rischio di credito; secondo 35; terzo 144; rettifiche −22, −11 e −35; nessun write-off.
+
+**D:** ⚠️ Che cosa sono i crediti di funzionamento inclusi negli «Altri finanziamenti» al costo ammortizzato, quanto valgono verso banche e verso clientela, e con quali effetti di valore, secondo le slide 13 e 14 della lezione 33?
+**R:** Sono «*crediti per operazioni connesse con la prestazione di attività e di servizi finanziari privi di affidamento*», classificati nel **Primo stadio**. **Verso banche** valgono **15 milioni** (65 al 31 dicembre 2020), e «*sono state registrate **riprese** di valore non significative*» (slide 13). **Verso clientela** valgono **631 milioni** (490 al 31 dicembre 2020), e «*sono state registrate **rettifiche** di valore non significative*» (slide 14). ⚠️ Le due note sono identiche salvo l'importo e la parola riprese / rettifiche. Il docente non ne parla.
+**Opzione:** Verso banche 15 milioni, con riprese di valore non significative; verso clientela 631 milioni, con rettifiche non significative.
+**Distrattori:**
+- Verso banche 15 milioni, con rettifiche di valore non significative; verso clientela 631 milioni, con riprese non significative.
+- Verso banche 631 milioni, con riprese di valore non significative; verso clientela 15 milioni, con rettifiche non significative.
+- Verso banche 65 milioni, con riprese di valore non significative; verso clientela 490 milioni, con rettifiche non significative.
+
+**D:** ⚠️ Quali sono, nell'ordine, le forme tecniche dei finanziamenti verso clientela valutati al costo ammortizzato, secondo la slide 14 della lezione 33?
+**R:** «*1.1. Conti correnti; 1.2. Pronti contro termine attivi; 1.3. Mutui; 1.4. Carte di credito, prestiti personali e cessioni del quinto; 1.5 Finanziamenti per leasing; 1.6. Factoring; 1.7. Altri finanziamenti*». Poi vengono i «*2. Titoli di debito*» (2.1 strutturati, vuota; 2.2 altri). La voce più grande sono i **mutui**: 235.350 milioni in primo e secondo stadio. Il totale dei crediti verso clientela è di **432.454** milioni in primo e secondo stadio, 6.217 in terzo stadio e 317 impaired acquisite o originate. Il docente non elenca le forme tecniche ([00:24:37]–[00:26:14]).
+**Opzione:** Conti correnti; pronti contro termine attivi; mutui; carte di credito, prestiti personali e cessioni del quinto; finanziamenti per leasing; factoring; altri finanziamenti.
+**Distrattori:**
+- Conti correnti; pronti contro termine attivi; mutui; carte di credito, prestiti personali e cessioni del quinto; finanziamenti per leasing; factoring; riserva obbligatoria.
+- Cassa; conti correnti e depositi a vista presso Banche Centrali; conti correnti e depositi a vista presso banche.
+- Attività per cassa: titoli di debito, titoli di capitale, quote di O.I.C.R., finanziamenti; strumenti derivati: derivati finanziari e derivati creditizi.
+
+**D:** ⚠️ Quali notes di veicoli di cartolarizzazione figurano fra i titoli di debito dei crediti verso clientela, e su quali crediti ceduti, secondo la slide 14 della lezione 33?
+**R:** Fra i **titoli senior** ci sono **1.090 milioni** di notes dei veicoli **Grogu SPV S.r.l.** e **Yoda SPV S.r.l.**, a cui nel 2021 e nel 2020 sono stati ceduti, ai sensi della **L. 130/99**, crediti classificati come «**sofferenze**». Ci sono poi **1.548 milioni** di notes dei veicoli **Kerdos SPV S.r.l.** e **Kerma SPV S.r.l.**, a cui nel 2021 e nel 2019 sono stati ceduti crediti classificati principalmente come «**inadempienze probabili**» (UTP). Ci sono inoltre titoli di debito per **5.703 milioni** connessi alla cartolarizzazione del veicolo **Romulus Funding Corporation**, incluso nel perimetro di consolidamento del Gruppo. Le cartolarizzazioni sono in tutto 4.831 milioni: 4.819 senior e 12 mezzanine. Il docente cita solo Romulus ([00:24:37]).
+**Opzione:** Grogu e Yoda: 1.090 milioni, su crediti in sofferenza; Kerdos e Kerma: 1.548 milioni, su crediti principalmente UTP; Romulus Funding Corporation: 5.703 milioni, veicolo consolidato.
+**Distrattori:**
+- Grogu e Yoda: 1.090 milioni, su crediti principalmente UTP; Kerdos e Kerma: 1.548 milioni, su crediti in sofferenza; Romulus Funding Corporation: 5.703 milioni, veicolo consolidato.
+- Tutte al livello 3: 5.964 al 31.12.2021, contro 4.875 al 31.12.2020.
+- Uso funzionale: rideterminazione di valore (IAS 16); investimento: fair value (IAS 40).
+
+**D:** ⚠️ Verso quali debitori sono stati erogati soprattutto i finanziamenti al costo ammortizzato, e quali emittenti prevalgono fra i titoli di debito, secondo la slide 15 della lezione 33?
+**R:** **Finanziamenti verso** (388.895 milioni in primo e secondo stadio): società non finanziarie **182.069**, famiglie **141.030**, altre società finanziarie 52.621, amministrazioni pubbliche 13.175. **Titoli di debito** (43.559): amministrazioni pubbliche **25.310**, altre società finanziarie 14.561, società non finanziarie 3.688. Il docente: «la parte del leone la fanno le società non finanziarie, cioè le società ordinarie, commerciali, distributive, manifatturiere eccetera, e le famiglie» ([00:26:14]).
+**Opzione:** Finanziamenti: soprattutto società non finanziarie, poi famiglie; titoli di debito: soprattutto amministrazioni pubbliche.
+**Distrattori:**
+- Finanziamenti: soprattutto famiglie, poi società non finanziarie; titoli di debito: soprattutto amministrazioni pubbliche.
+- Finanziamenti: soprattutto società non finanziarie, poi famiglie; titoli di debito: soprattutto altre società finanziarie.
+- Finanziamenti: soprattutto amministrazioni pubbliche, poi famiglie; titoli di debito: soprattutto società non finanziarie.
+
+**D:** ⚠️ Che cosa riporta la tabella del valore lordo e delle rettifiche di valore delle attività finanziarie valutate al costo ammortizzato al 31.12.2021, secondo la slide 16 della lezione 33?
+**R:** **Valore lordo**: primo stadio **542.415** milioni, di cui **24.787** strumenti con basso rischio di credito; secondo stadio **52.497**; terzo stadio **13.609**; impaired acquisite o originate **482**. **Rettifiche di valore complessive**: −520, −1.503, −7.339 e −165. **Write-off parziali complessivi**: **6.367**. Quasi tutto viene dai finanziamenti: 500.235 milioni in primo stadio contro 42.180 di titoli di debito. ⚠️ Il docente legge i 24.787 come «24.000» e i 482 come crediti «con problematiche irrisolvibili», mentre sono le impaired acquisite o originate. Per lui i write-off sono «un livello abbastanza importante» ([00:27:33]–[00:28:39]).
+**Opzione:** Primo stadio 542.415 milioni; secondo 52.497; terzo 13.609; impaired acquisite o originate 482; write-off parziali 6.367.
+**Distrattori:**
+- Primo stadio 542.415 milioni; secondo 13.609; terzo 52.497; impaired acquisite o originate 482; write-off parziali 6.367.
+- Primo stadio 542.415 milioni; secondo 52.497; terzo 13.609; impaired acquisite o originate 482; write-off parziali 7.339.
+- Primo stadio 542.415 milioni; secondo 52.497; terzo 13.609; impaired acquisite o originate 6.367; write-off parziali 482.
+
+**D:** ⚠️ Che cosa sono i 317 milioni della tabella dei crediti verso clientela e i 482 della tabella delle rettifiche, che il docente della lezione 33 legge come impairment e come crediti «con problematiche irrisolvibili»?
+**R:** Sono i valori della colonna **«Impaired acquisite o originate»**, cioè le attività **POCI**, deteriorate già alla rilevazione iniziale (lezione 30). I 317 milioni sono il valore di bilancio dei finanziamenti verso clientela in quella colonna (slide 14–15). I 482 sono il valore lordo dei finanziamenti impaired acquisiti o originati (slide 16). Le loro rettifiche sono −165. ⚠️ Il docente: «317 milioni di impairment, quindi di sottovalutazione, di svalutazione» ([00:27:17]–[00:27:33]) e «con problematiche irrisolvibili 482» ([00:28:02]). Le rettifiche di valore sono un'altra colonna: per il terzo stadio −7.339.
+**Opzione:** Il valore delle attività impaired acquisite o originate, cioè deteriorate già alla rilevazione iniziale.
+**Distrattori:**
+- Le perdite da impairment rilevate sui crediti verso clientela nell'esercizio.
+- Le rettifiche di valore complessive del terzo stadio.
+- I write-off parziali complessivi dell'esercizio.
+
+**D:** ⚠️ Quali finanziamenti riporta la riga «Finanziamenti oggetto di concessione conformi con le GL» della tabella sulle misure di sostegno COVID-19, secondo la slide 17 della lezione 33?
+**R:** «*Nella riga "Finanziamenti oggetto di concessione conformi con le GL" sono riportate le informazioni relative alle attività finanziarie oggetto di **moratoria** che rientrano nell'ambito di applicazione delle "**Guidelines on legislative and non legislative moratoria on loan repayments applied in the light of the COVID-19 crisis**" pubblicate dall'**EBA** (**EBA/GL/2020/02**) e successive modifiche e integrazioni.*» I dati 2020 sono riesposti secondo la **Comunicazione di Banca d'Italia del 21 dicembre 2021**, che aggiorna le integrazioni alla Circolare 262 sugli impatti del COVID-19. Le righe sono quattro, e la quarta sono i **nuovi finanziamenti**: 34.036 milioni in primo stadio, 4.495 in secondo, 190 in terzo. Il docente: sono finanziamenti **controgarantiti dallo Stato**, con un rischio di credito «decisamente più contenuto», quindi senza write-off e quasi senza impairment ([00:28:39]–[00:29:29]).
+**Opzione:** Le attività oggetto di moratoria che rientrano nelle Guidelines dell'EBA sulle moratorie legislative e non legislative per la crisi COVID-19.
+**Distrattori:**
+- Le attività oggetto di moratoria che rientrano nelle Guidelines della BCE sulle moratorie legislative e non legislative per la crisi COVID-19.
+- Le attività oggetto di moratoria che rientrano nella Comunicazione di Banca d'Italia del 21 dicembre 2021 sugli impatti del COVID-19.
+- I nuovi finanziamenti concessi nel 2021 con la garanzia dello Stato per la crisi COVID-19.
