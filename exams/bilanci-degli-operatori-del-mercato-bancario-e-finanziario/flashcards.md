@@ -8725,3 +8725,272 @@
 - Le attività oggetto di moratoria che rientrano nelle Guidelines della BCE sulle moratorie legislative e non legislative per la crisi COVID-19.
 - Le attività oggetto di moratoria che rientrano nella Comunicazione di Banca d'Italia del 21 dicembre 2021 sugli impatti del COVID-19.
 - I nuovi finanziamenti concessi nel 2021 con la garanzia dello Stato per la crisi COVID-19.
+
+## Lezione 34 — La Nota Integrativa del bilancio della banca. I derivati, le partecipazioni e le attività materiali
+
+**D:** ⚠️ In che cosa si dividono i derivati di copertura, secondo il test della lezione 34 (domanda 1)?
+**R:** In **derivati finanziari** e **derivati creditizi**: sono le due sezioni, A e B, della tabella della voce 50 (slide 2). Ciascuna si divide per tipo di copertura: fair value, flussi finanziari e, per i finanziari, investimenti esteri. Nel 2021 i creditizi sono a zero. ⚠️ Il **cambio** non è una famiglia di derivati: «valute e oro» è una colonna del **rischio coperto** nella slide 3, come «titoli di debito e tassi di interesse». Distrattori del test: «derivati su interessi e derivati di cambio», «derivati di cambio e derivati creditizi», «derivati finanziari e derivati di cambio».
+**Opzione:** Derivati finanziari e derivati creditizi.
+**Distrattori:**
+- Derivati su interessi e derivati di cambio.
+- Derivati di cambio e derivati creditizi.
+- Derivati finanziari e derivati di cambio.
+
+**D:** ⚠️ A quale rischio si riferisce la copertura generica tramite derivati, secondo il test della lezione 34 (domanda 2)?
+**R:** Al **rischio di interesse**. La voce 60 rileva il saldo delle variazioni di valore delle attività «*oggetto di copertura generica (macrohedging) dal rischio di tasso di interesse*» (slide 4). Il docente: «per macro-edging si intende … **esclusivamente** dal rischio di tasso di interesse» ([00:09:23]). ⚠️ Il vicino è il «rischio di mercato», il titolo della Parte E a cui la slide 2 rinvia per gli obiettivi delle coperture. Nei rischi di mercato stanno il rischio di tasso e di prezzo, il rischio di cambio e gli strumenti derivati (lezione 22, slide 3): il rischio di tasso ne è solo una parte. Distrattori del test: «rischio di cambio», «rischio di credito», «rischio di mercato».
+**Opzione:** Rischio di interesse.
+**Distrattori:**
+- Rischio di cambio.
+- Rischio di credito.
+- Rischio di mercato.
+
+**D:** ⚠️ L'impairment test si applica alle partecipazioni, secondo il test della lezione 34 (domanda 3)?
+**R:** «**Sì**»: «*come richiesto dai principi IAS/IFRS le partecipazioni sono state sottoposte al test di impairment*» (slide 10). Il docente: le partecipazioni «devono essere sottoposte al test di impairment» ([00:18:12]). ⚠️ Non c'è una soglia d'importo: le rettifiche del 2021 colpiscono anche «*altri investimenti minori per 2 milioni*» (slide 10) e «*altre minori per 1 milione*» (slide 11). Per le partecipazioni di controllo cambia solo il livello del test, che si svolge nelle CGU. Distrattori del test: «no», «a discrezione del compilatore del bilancio», «solo se di importo superiore a 1 milione di euro».
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- A discrezione del compilatore del bilancio.
+- Solo se di importo superiore a 1 milione di euro.
+
+**D:** ⚠️ Come sono valutate le attività materiali detenute a scopo funzionale, secondo il test della lezione 34 (domanda 4)?
+**R:** **Al costo storico**, secondo la chiave: la prima riga della voce 80 è «*Attività materiali ad uso funzionale, valutate al costo*», 1.839 milioni (slide 12), e il docente la legge così ([00:20:26]). ⚠️ La chiave è **parziale**. La terza riga, «*ad uso funzionale, rivalutate*», vale **5.358 milioni**. Comprende tutti i terreni e fabbricati di proprietà e il patrimonio artistico di pregio, con la **rideterminazione del valore** (slide 13, 16). Al costo restano mobili, impianti elettronici, altre e i diritti d'uso in leasing. «Storico» non è nei materiali. Il vicino è «al fair value». Distrattori del test: «al fair value», «al costo di sostituzione», «al costo di vendita».
+**Opzione:** Al costo storico.
+**Distrattori:**
+- Al fair value.
+- Al costo di sostituzione.
+- Al costo di vendita.
+
+**D:** ⚠️ Come sono valutate le attività materiali detenute a scopo di investimento, secondo le slide della lezione 34 e il test (domanda 5)?
+**R:** **Al fair value**, in conformità allo **IAS 40**: «*Le attività materiali detenute a scopo di investimento, costituite da terreni e fabbricati, sono valutate al fair value*» (slide 18). «*Non sono presenti attività materiali detenute a scopo di investimento valutate al costo*» (slide 13): nella voce 80 la riga del costo è vuota, quella del fair value vale 606 milioni (slide 12). 🚨 Nella domanda 5 del test la piattaforma segna invece «al costo storico», la chiave della domanda 4: è una chiave sbagliata. Viene con ogni probabilità dal docente, che legge l'etichetta della riga vuota, «anche esse valutate al costo» ([00:20:26]), e poi dice che queste attività «non ci sono» ([00:22:40]).
+**Opzione:** Al fair value.
+**Distrattori:**
+- Al costo storico.
+- Al costo di sostituzione.
+- Al costo di vendita.
+
+**D:** ⚠️ A quale parte della nota integrativa rinvia la slide 2 della lezione 34 per gli obiettivi e le strategie sottostanti alle operazioni di copertura?
+**R:** Alla **Parte E** – Informazioni sui rischi e sulle relative politiche di copertura – **Rischi di mercato** (slide 2). La compensazione contabile fra saldi lordi positivi e negativi dei derivati di copertura, invece, «*non trova rappresentazione nella Parte E*».
+**Opzione:** Alla Parte E – Informazioni sui rischi e sulle relative politiche di copertura – Rischi di mercato.
+**Distrattori:**
+- Alla Parte E – Informazioni sui rischi e sulle relative politiche di copertura – Rischi di credito.
+- Alla Parte E – Informazioni sui rischi e sulle relative politiche di copertura – Rischi operativi.
+- Alla Parte A – Fair value del patrimonio immobiliare e del patrimonio artistico di pregio.
+
+**D:** ⚠️ Perché i derivati di copertura dell'attivo valgono in bilancio 1.566 milioni, mentre il loro fair value positivo al lordo delle compensazioni si attesterebbe a 3.933 milioni, secondo la slide 2 della lezione 34?
+**R:** Perché i valori al 31 dicembre 2021 «*includono i risultati della **compensazione contabile** tra saldi lordi positivi e negativi ai sensi dello **IAS 32 paragrafo 42**, che non trovano rappresentazione nella Parte E*». Il fair value lordo positivo dell'operatività in conto proprio con il compensatore legale **LCH Ltd.**, per **2.367 milioni**, soddisfa i requisiti della compensazione ed è stato **nettizzato tra le passività** in derivati di copertura. Al lordo il fair value positivo sarebbe di 3.933 milioni, di cui 3.928 a copertura di fair value e 5 di flussi finanziari. Il docente: il valore di 1.566 «è già al netto della compensazione»; al lordo l'attivo riporterebbe 3.933 milioni, «e ovviamente la differenza l'avremmo riportata nel passivo» ([00:04:57]–[00:05:40]).
+**Opzione:** Perché i valori includono la compensazione contabile tra saldi lordi positivi e negativi ai sensi dello IAS 32 paragrafo 42: il fair value lordo positivo con il compensatore legale LCH Ltd., 2.367 milioni, è stato nettizzato tra le passività.
+**Distrattori:**
+- Perché i valori includono la compensazione contabile tra saldi lordi positivi e negativi ai sensi dello IAS 39 paragrafo 42: il fair value lordo positivo con il compensatore legale LCH Ltd., 2.367 milioni, è stato nettizzato tra le passività.
+- Perché non sono detenute per incassare dividendi o utili né per essere rivendute sulle oscillazioni del mercato, ma per fini strategici; per questo sono sottoposte al test di impairment.
+- Perché l'informativa non è richiesta dalle istruzioni della Banca d'Italia in materia di bilanci: si rimanda alla Nota Integrativa consolidata.
+
+**D:** ⚠️ A quale livello di fair value sono i derivati di copertura dell'attivo al 31 dicembre 2021, e come si dividono fra i tipi di copertura, secondo la slide 2 della lezione 34?
+**R:** **Tutti al livello 2**: 1.566 milioni, di cui **1.561** a copertura di **fair value** e **5** a copertura di **flussi finanziari**, tutti derivati finanziari. Il valore nozionale è di 179.007 milioni. Nel 2020 c'erano 1 milione di livello 1, 999 di livello 2 e 15 di livello 3, con un nozionale di 83.474. Il docente: non sono quotati in mercati regolamentati, e il valore è determinato «sulla base di indicatori desumibili dall'andamento del mercato, ma non sulla base di quotazioni direttamente osservabili» ([00:01:24]).
+**Opzione:** Tutti al livello 2: 1.566 milioni, di cui 1.561 a copertura di fair value e 5 di flussi finanziari.
+**Distrattori:**
+- Tutti al livello 1: 1.566 milioni, di cui 1.561 a copertura di fair value e 5 di flussi finanziari.
+- Tutti al livello 3: 1.566 milioni, di cui 1.561 a copertura di fair value e 5 di flussi finanziari.
+- Tutti al livello 2: 1.566 milioni, di cui 1.561 di flussi finanziari e 5 a copertura di fair value.
+
+**D:** ⚠️ Nella copertura di quali poste prevalgono i contratti derivati, considerando i valori al lordo della compensazione in bilancio, secondo la slide 3 della lezione 34?
+**R:** «*Emerge la prevalenza di contratti derivati utilizzati nella **copertura specifica** di fair value delle **passività emesse** e dei **titoli di debito dell'attivo** nonché nella **copertura generica** di fair value di **crediti erogati** e di **passività rappresentate da poste a vista (core deposit)**.*» Al netto, nella tabella, la cifra maggiore è la copertura specifica delle passività finanziarie su titoli di debito e tassi di interesse, 520 milioni. La copertura generica vale 189 milioni sul portafoglio di attività e 56 su quello di passività. ⚠️ Il docente motiva la copertura delle poste a vista con l'inflazione ([00:07:51]): per le slide 3 e 4 la copertura generica riguarda il rischio di tasso di interesse.
+**Opzione:** Nella copertura specifica di fair value delle passività emesse e dei titoli di debito dell'attivo, e nella copertura generica di fair value di crediti erogati e di passività rappresentate da poste a vista (core deposit).
+**Distrattori:**
+- Nella copertura generica di fair value delle passività emesse e dei titoli di debito dell'attivo, e nella copertura specifica di fair value di crediti erogati e di passività rappresentate da poste a vista (core deposit).
+- Rispettivamente le variazioni positive e negative di fair value degli immobili (terreni e fabbricati) ad uso funzionale e dei beni artistici di pregio, per i quali la Banca applica il criterio della rideterminazione del valore.
+- Alle attività riferite alla medesima CGU non già testate individualmente, ovvero l'avviamento, il brand name e le partecipazioni di controllo.
+
+**D:** ⚠️ Che cosa forma oggetto di rilevazione nella voce 60 dell'attivo, e di quale possibilità si avvale la Banca per applicarla, secondo la slide 4 della lezione 34?
+**R:** «*Forma oggetto di rilevazione nella presente voce il **saldo delle variazioni di valore** delle attività oggetto di **copertura generica (macrohedging) dal rischio di tasso di interesse**, per la cui applicazione la Banca si avvale della possibilità, prevista dall'**IFRS 9**, di **continuare ad applicare** le previsioni consentite dallo **IAS 39** nella versione "Carve-out".*» È la scelta della slide 17 della lezione 28. Nel 2021 l'adeguamento è tutto positivo, 393 milioni, su attività al costo ammortizzato (2.333 nel 2020).
+**Opzione:** Il saldo delle variazioni di valore delle attività oggetto di copertura generica dal rischio di tasso di interesse; la Banca si avvale della possibilità, prevista dall'IFRS 9, di continuare ad applicare lo IAS 39 nella versione Carve-out.
+**Distrattori:**
+- Il saldo delle variazioni di valore delle attività oggetto di copertura generica dal rischio di tasso di interesse; la Banca si avvale della possibilità, prevista dallo IAS 39, di continuare ad applicare l'IFRS 9 nella versione Carve-out.
+- Al fair value al netto degli oneri di dismissione, o al valore d'uso se determinabile e se esso risulta superiore al fair value.
+- Al fair value, in conformità allo IAS 40; l'aggiornamento del fair value si rileva nelle sottovoci B.3 e C.3, variazioni positive e negative.
+
+**D:** ⚠️ A che cosa è conseguente la variazione annua dell'adeguamento positivo delle attività al costo ammortizzato, nella voce 60, secondo la slide 4 della lezione 34?
+**R:** «*All'**aumento dei tassi di riferimento** utilizzati nella definizione del fair value degli attivi coperti dalle variazioni di fair value per il rischio tasso di interesse.*» L'adeguamento positivo scende da **2.333** a **393 milioni**. ⚠️ Il docente dice che i titoli di debito dell'attivo si svalutano «per effetto della **riduzione** dei tassi» ([00:07:51]): fa testo la slide. Spiega poi la copertura delle poste a vista con l'inflazione, ma per la slide la copertura generica è dal rischio di tasso.
+**Opzione:** All'aumento dei tassi di riferimento usati nella definizione del fair value degli attivi coperti per il rischio tasso di interesse.
+**Distrattori:**
+- Alla riduzione dei tassi di riferimento usati nella definizione del fair value degli attivi coperti per il rischio tasso di interesse.
+- All'aumento dei tassi di cambio usati nella definizione del fair value degli attivi coperti per il rischio di cambio.
+- All'aumento dell'inflazione, che accresce il valore delle poste a vista coperte dalla copertura generica.
+
+**D:** Con quali strumenti, secondo il docente della lezione 34, si sterilizzano le variazioni del tasso di interesse, e come funzionano?
+**R:** Con gli **interest rate swap** (IRS), la strategia «più frequente», che converte determinate posizioni con degli swap di interessi ([00:09:40]). Nell'esempio del docente chi ha erogato un finanziamento a **tasso fisso** compra un IRS: «l'acquirente incasserà il mio tasso fisso e io incasserò il suo tasso variabile», cioè «incrociamo le nostre posizioni». Bisogna ipotizzare uno spostamento dei tassi in una certa direzione, e «se sbaglio direzione ovviamente ci andrò a rimettere». Le slide non nominano gli swap. Il docente motiva l'esempio con tassi attesi in calo: vedi l'integrazione nella nota della lezione.
+**Opzione:** Con gli interest rate swap: chi ha erogato un finanziamento a tasso fisso scambia con la controparte il proprio tasso fisso, che lei incasserà, con il suo tasso variabile.
+**Distrattori:**
+- Con i derivati creditizi: chi ha erogato un finanziamento a tasso fisso scambia con la controparte il proprio tasso fisso, che lei incasserà, con il suo tasso variabile.
+- Esclusivamente per fini di contenimento del rischio, mai per fini speculativi.
+- Per la prevalenza della sostanza sulla forma, come se il proprietario fosse l'utilizzatore: il valore dei beni è iscritto nell'attivo patrimoniale dell'utilizzatore e non di chi concede in leasing.
+
+**D:** ⚠️ Per quali fini sono fatti i derivati di copertura, secondo il docente della lezione 34?
+**R:** «Queste coperture **non sono mai fatte per fini speculativi**, sono fatti **esclusivamente** per fini di **contenimento del rischio**» ([00:11:24]). Per questo si chiamano derivati di copertura, a differenza dei derivati **speculativi o di investimento**: l'obiettivo è «solo coprirsi da un rischio», eliminarlo o ridurlo al massimo. Poco prima, parlando dell'IRS, dice che bisogna ipotizzare la direzione dei tassi, e «se sbaglio direzione ovviamente ci andrò a rimettere» ([00:09:40]).
+**Opzione:** Esclusivamente per fini di contenimento del rischio, mai per fini speculativi.
+**Distrattori:**
+- Per fini di contenimento del rischio e, in via residuale, per fini speculativi.
+- Esclusivamente per fini di investimento, mai per fini speculativi.
+- Per fini speculativi, quando la banca prevede la direzione dei tassi.
+
+**D:** ⚠️ In quali tre gruppi sono elencate le partecipazioni nelle informazioni sui rapporti partecipativi, e quali dati riporta la tabella per ciascuna impresa, secondo le slide 5–7 della lezione 34?
+**R:** **A. Imprese controllate in via esclusiva** (53 voci), **B. Imprese controllate in modo congiunto** (3), **C. Imprese sottoposte ad influenza notevole** (46). Per ciascuna impresa: **denominazione**, **sede legale**, **sede operativa**, **quota di partecipazione %** e **disponibilità voti %**, quest'ultima solo dove differisce dalla quota. ⚠️ Valore di bilancio, fair value e dividendi percepiti delle partecipazioni significative stanno invece nella nota integrativa consolidata (slide 8).
+**Opzione:** Controllate in via esclusiva, controllate in modo congiunto, sottoposte ad influenza notevole; per ciascuna denominazione, sede legale, sede operativa, quota di partecipazione % e disponibilità voti %.
+**Distrattori:**
+- Controllate in via esclusiva, controllate in modo congiunto, sottoposte ad influenza notevole; per ciascuna denominazione, sede legale, sede operativa, quota di partecipazione % e dividendi percepiti.
+- Ad uso funzionale, valutate al costo; detenute a scopo investimento, valutate al costo; ad uso funzionale, rivalutate; detenute a scopo investimento, valutate al fair value; rimanenze di attività materiali disciplinate dallo IAS 2.
+- Il socio di minoranza ha la facoltà di vendere, ed Intesa Sanpaolo dovrà acquistare, l'intera partecipazione di minoranza.
+
+**D:** Come distingue il docente della lezione 34 le imprese controllate in via esclusiva, quelle controllate in modo congiunto e quelle sottoposte a influenza notevole?
+**R:** Le controllate in via esclusiva sono quelle con «un **controllo totale** o un controllo **più che del 50%**». Le controllate in modo congiunto sono quelle in cui «la maggioranza si ha per effetto di **accordi**, di **patti, di sindacato** con altre imprese, quasi sempre lo stesso gruppo». Le imprese sottoposte a influenza notevole sono quelle in cui non si ha la maggioranza assoluta dei voti, ma si può comunque esercitare un'influenza notevole «nelle **assemblee ordinarie**» ([00:12:13]–[00:13:19]). ⚠️ Le slide non danno definizioni. La slide 5 elenca tre controllate sotto il 50%, e nella slide 21 della lezione 28 i patti di sindacato sono l'esempio dell'influenza notevole: vedi la nota.
+**Opzione:** Esclusiva: controllo totale o più che del 50%; congiunto: la maggioranza per effetto di accordi o patti di sindacato con altre imprese; influenza notevole: senza maggioranza assoluta, ma con un'influenza notevole nelle assemblee ordinarie.
+**Distrattori:**
+- Esclusiva: controllo totale o più che del 50%; congiunto: la maggioranza per effetto di accordi o patti di sindacato con altre imprese; influenza notevole: senza maggioranza assoluta, ma con un'influenza notevole nelle assemblee straordinarie.
+- Linee Guida: il Consiglio di Amministrazione, previo parere favorevole del Comitato Rischi Finanziari di Gruppo, con il supporto del Comitato Rischi; Regole: il Comitato Rischi Finanziari di Gruppo; entrambe con frequenza almeno annuale.
+- Perizie aggiornate: l'intero patrimonio degli immobili ad uso investimento e i Trophy Asset; analisi di scenario: gli altri immobili ad uso funzionale e il patrimonio artistico di pregio, valutati integralmente a fine 2020.
+
+**D:** Perché, secondo il docente della lezione 34, per l'influenza notevole «non è indifferente» parlare di assemblee ordinarie o straordinarie?
+**R:** Perché in molte di queste società ci sono **azioni privilegiate**, che possono votare solo in assemblea **straordinaria** e non in ordinaria. Quella parte del capitale non concorre a determinare le maggioranze dell'assemblea ordinaria, quindi «potrei avere un controllo notevole anche con una quota di capitale poco significativa» ([00:13:19]). Le note della slide 7 spiegano esplicitamente le differenze fra quota e voti con altre cause: le azioni di classe C senza voto e le categorie di azioni A e B.
+
+**D:** ⚠️ Che cosa indica la colonna «disponibilità voti %» della tabella delle partecipazioni, ove differente dalla quota di partecipazione, secondo la slide 7 della lezione 34?
+**R:** «*Ove differente dalla quota di partecipazione %, viene indicata l'**effettiva disponibilità dei voti nell'assemblea ordinaria**, distinguendo, ove applicabile, tra diritti di voto **effettivi e potenziali**.*» Un esempio è **Private Equity International S.A.**, con il 94,39% di quota e il 100% dei voti. Nel 2016 ha emesso azioni di **classe C**, il 5,6% del capitale, che «*non dispongono di diritti di voto in assemblea*». Altri esempi sono SRM Studi e Ricerche per il Mezzogiorno (60% e 25%), Backtowork24 (30,58% e 51%) e CAMFIN (4,60% e 10,70%). La nota sulle categorie di azioni A e B, con il voto alla sola A, spiega con ogni probabilità il caso di CAMFIN. Il docente: la colonna mostra «l'importanza del tipo di partecipazione», cioè se consente di votare in assemblea ([00:14:29]).
+**Opzione:** L'effettiva disponibilità dei voti nell'assemblea ordinaria, distinguendo, ove applicabile, tra diritti di voto effettivi e potenziali.
+**Distrattori:**
+- L'effettiva disponibilità dei voti nell'assemblea straordinaria, distinguendo, ove applicabile, tra diritti di voto effettivi e potenziali.
+- L'effettiva disponibilità dei voti nell'assemblea ordinaria, distinguendo, ove applicabile, tra azioni ordinarie e privilegiate.
+- Il valore di bilancio della partecipazione, distinguendo, ove applicabile, tra fair value e dividendi percepiti.
+
+**D:** ⚠️ Che cosa prevede la nota per il socio di minoranza e per Intesa Sanpaolo in caso di messa in liquidazione della partecipazione, secondo la slide 7 della lezione 34?
+**R:** «*Si segnala la presenza di un **impegno di legge** nei confronti degli azionisti di minoranza per l'acquisto del residuo **0,7%** del capitale sociale. In caso di messa in liquidazione della partecipazione, il **socio di minoranza ha la facoltà di vendere**, ed **Intesa Sanpaolo dovrà acquistare**, l'intera partecipazione di minoranza.*» Sono due note distinte: la prima riguarda l'impegno di legge sul residuo 0,7%, la seconda la messa in liquidazione. Il docente le legge ([00:15:07]). ⚠️ È una scala deontica: la facoltà è del socio di minoranza, l'obbligo di Intesa Sanpaolo.
+**Opzione:** Il socio di minoranza ha la facoltà di vendere, ed Intesa Sanpaolo dovrà acquistare, l'intera partecipazione di minoranza.
+**Distrattori:**
+- Intesa Sanpaolo ha la facoltà di acquistare, ed il socio di minoranza dovrà vendere, l'intera partecipazione di minoranza.
+- Il socio di minoranza dovrà vendere, ed Intesa Sanpaolo dovrà acquistare, l'intera partecipazione di minoranza.
+- Il socio di minoranza ha la facoltà di vendere, ed Intesa Sanpaolo ha la facoltà di acquistare, l'intera partecipazione di minoranza.
+
+**D:** ⚠️ Perché la nota integrativa d'esercizio rinvia alla consolidata per le informazioni sulle partecipazioni significative e non significative, secondo la slide 8 della lezione 34?
+**R:** Perché è un'informativa «*non richiesta dalle istruzioni della Banca d'Italia in materia di bilanci*»: «*si rimanda al contenuto dell'analoga sezione della **Nota Integrativa consolidata***». I paragrafi sono tre: partecipazioni significative, con valore di bilancio, fair value e dividendi percepiti; partecipazioni significative, con le informazioni contabili; partecipazioni non significative, con le informazioni contabili. La slide 10 rinvia alla consolidata anche impegni, restrizioni significative e altre informazioni. ⚠️ Il docente lo spiega con il fatto che si legge la nota del **bilancio di esercizio** e non del consolidato ([00:15:53]).
+**Opzione:** Perché l'informativa non è richiesta dalle istruzioni della Banca d'Italia in materia di bilanci: si rimanda alla Nota Integrativa consolidata.
+**Distrattori:**
+- Perché l'informativa non è richiesta dalle istruzioni della Banca d'Italia in materia di bilanci: si rimanda alla Parte E della Nota Integrativa.
+- Perché l'informativa non è richiesta dai principi IAS/IFRS in materia di bilanci: si rimanda alla Nota Integrativa consolidata.
+- Perché le partecipazioni non stanno nel bilancio d'esercizio ma solo nel consolidato: si rimanda alla Nota Integrativa consolidata.
+
+**D:** ⚠️ Come passano le partecipazioni dalle esistenze iniziali alle rimanenze finali del 2021, secondo la slide 8 della lezione 34?
+**R:** Da **24.668** a **23.420 milioni**, con aumenti per **6.016** e diminuzioni per **7.264** (24.668 + 6.016 − 7.264 = 23.420). Riprese di valore e rivalutazioni sono a zero, le rettifiche di valore dell'anno sono 290 e le rettifiche totali 8.085. Nel 2020 la voce era passata da 24.411 a 24.668. ⚠️ Il docente legge le cifre senza le migliaia: aumenti «per 6 milioni», diminuzioni «per 7 milioni», rimanenze finali «per 23 milioni», rettifiche totali «per 8 milioni» ([00:15:53]–[00:17:28]).
+**Opzione:** Da 24.668 a 23.420 milioni, con aumenti per 6.016 e diminuzioni per 7.264.
+**Distrattori:**
+- Da 24.668 a 23.420 milioni, con aumenti per 7.264 e diminuzioni per 6.016.
+- Da 24.668 milioni a 23 milioni, con aumenti per 6 milioni e diminuzioni per 7 milioni.
+- Da 24.411 a 24.668 milioni, con aumenti per 5.171 e diminuzioni per 4.914.
+
+**D:** ⚠️ Quale partecipazione ha la svalutazione maggiore nella sottovoce C.2 «Rettifiche di valore» del 2021, e quanto valgono le rettifiche di valore dell'anno, secondo le slide 8–9 della lezione 34?
+**R:** Intesa Sanpaolo **Provis** S.p.A., per **172 milioni**, su rettifiche di valore per **290 milioni**. Seguono Qingdao Yicai Fund Distribution (25), FI.NAV Comparto A Crediti (23), Back2Bonis (17), Risanamento (15), Immobiliare Novoli (9), RSCT Fund Comparto Crediti (8), Vesta OML (7), Cassa di Risparmio di Fermo (6) e altre minori (8). Le **rettifiche totali** cumulate (F) sono 8.085 milioni. Provis è una controllata in perdita senza avviamenti nel consolidato, allineata al patrimonio netto pro-quota (slide 11).
+**Opzione:** Intesa Sanpaolo Provis, per 172 milioni, su rettifiche di valore dell'anno per 290 milioni.
+**Distrattori:**
+- Intesa Sanpaolo Provis, per 172 milioni, su rettifiche di valore dell'anno per 8.085 milioni.
+- Qingdao Yicai Fund Distribution, per 25 milioni, su rettifiche di valore dell'anno per 290 milioni.
+- FI.NAV Comparto A Crediti, per 23 milioni, su rettifiche di valore dell'anno per 290 milioni.
+
+**D:** ⚠️ Su quali valutazioni si sono basate le verifiche delle partecipazioni di collegamento o a controllo congiunto con indicatori di impairment, secondo la slide 10 della lezione 34?
+**R:** «*Sono state effettuate valutazioni basate **in via prioritaria su metodologie di mercato** (transazioni dirette o comparabili e multipli di mercato) o **in alternativa su valutazioni "fondamentali"**, basate principalmente sulla stima dei flussi di cassa attesi attualizzati attraverso il metodo "**discounted cash flow**" o sul **patrimonio netto rettificato (c.d. ANAV)**.*» Ne sono derivate rettifiche principalmente su FI.NAV Comparto A Crediti (23 milioni), Back2Bonis (17) e Immobiliare Novoli (9). ⚠️ Il docente cita la metodologia di mercato e il discounted cash flow, ma riferisce le valutazioni alle partecipazioni «di controllo o a controllo congiunto» ([00:19:59]–[00:20:26]).
+**Opzione:** In via prioritaria su metodologie di mercato (transazioni dirette o comparabili e multipli di mercato), in alternativa su valutazioni fondamentali: flussi di cassa attesi attualizzati con il discounted cash flow o patrimonio netto rettificato (ANAV).
+**Distrattori:**
+- In via prioritaria su valutazioni fondamentali (transazioni dirette o comparabili e multipli di mercato), in alternativa su metodologie di mercato: flussi di cassa attesi attualizzati con il discounted cash flow o patrimonio netto rettificato (ANAV).
+- Incertezza dei dati di input, illiquidità delle posizioni o dei fattori di rischio sottostanti, rischio di modello, di controparte e di finanziamento.
+- All'aumento dei tassi di riferimento usati nella definizione del fair value degli attivi coperti per il rischio tasso di interesse.
+
+**D:** ⚠️ Perché le partecipazioni di controllo non assumono rilevanza individualmente ai fini dell'impairment test nel bilancio separato, secondo la slide 11 della lezione 34?
+**R:** Perché, «*benché rilevanti in qualità di singoli asset dal punto di vista contabile, **non presentano capacità autonome di generazione e governo dei flussi di cassa**, in considerazione del modello organizzativo che prevede **CGU di maggiori dimensioni** delle singole entità giuridiche*». Sono aggregate, con le attività operative della Capogruppo, in CGU coerenti con quelle del Bilancio consolidato: calcolarne il valore recuperabile individuale secondo lo **IAS 36** «*risulterebbe impossibile*». Il docente: bisogna riferirsi a CGU di maggiori dimensioni, «quindi al gruppo sostanzialmente» ([00:20:26]).
+**Opzione:** Perché non presentano capacità autonome di generazione e governo dei flussi di cassa, dato un modello organizzativo con CGU di maggiori dimensioni delle singole entità giuridiche: il valore recuperabile individuale non sarebbe calcolabile.
+**Distrattori:**
+- Perché non presentano capacità autonome di generazione e governo dei flussi di cassa, dato un modello organizzativo con CGU di minori dimensioni delle singole entità giuridiche: il valore recuperabile individuale non sarebbe calcolabile.
+- Perché i valori includono la compensazione contabile tra saldi lordi positivi e negativi ai sensi dello IAS 32 paragrafo 42: il fair value lordo positivo con il compensatore legale LCH Ltd., 2.367 milioni, è stato nettizzato tra le passività.
+- Il saldo delle variazioni di valore delle attività oggetto di copertura generica dal rischio di tasso di interesse; la Banca si avvale della possibilità, prevista dall'IFRS 9, di continuare ad applicare lo IAS 39 nella versione Carve-out.
+
+**D:** ⚠️ A quali attività del bilancio separato va attribuita la svalutazione dell'avviamento di una CGU emersa a livello di bilancio consolidato, secondo la slide 11 della lezione 34?
+**R:** «*Tale svalutazione deve essere attribuita nel Bilancio separato alle attività, riferite alla medesima CGU, **non già testate individualmente**, ovvero **l'avviamento, il brand name e le partecipazioni di controllo**.*» Gli avviamenti delle CGU si riflettono in parte nell'avviamento della sola Capogruppo e in parte nei valori di carico delle partecipazioni di controllo, ed emergono nel consolidato con il consolidamento, ai valori determinati all'acquisizione secondo l'IFRS 3. Nel 2021 i test sulle CGU non hanno richiesto svalutazioni dell'avviamento, quindi nessuna rettifica sulle partecipazioni di controllo che ne hanno.
+**Opzione:** Alle attività riferite alla medesima CGU non già testate individualmente, ovvero l'avviamento, il brand name e le partecipazioni di controllo.
+**Distrattori:**
+- Alle attività riferite alla medesima CGU non già testate individualmente, ovvero l'avviamento, il brand name e le partecipazioni di collegamento.
+- Alla Parte E – Informazioni sui rischi e sulle relative politiche di copertura – Rischi di mercato.
+- A rinegoziazioni sui contratti di locazione (IFRS 16) e, per la sola parte di variazioni in diminuzione, agli ammortamenti sui cespiti dei rami d'azienda delle ex Banche Venete, fronteggiati dal fondo per rischi ed oneri a suo tempo costituito.
+
+**D:** ⚠️ Come sono state trattate nel 2021 le partecipazioni di controllo che non presentano avviamenti nel bilancio consolidato ma hanno chiuso l'esercizio in perdita, secondo la slide 11 della lezione 34?
+**R:** «*Si è prudenzialmente verificato che quest'ultimo risultato fosse dovuto a situazioni **contingenti o strutturali**; da tale analisi è emersa la necessità di effettuare alcune rettifiche di valore, allineando il valore di bilancio degli investimenti al **patrimonio netto pro-quota** delle partecipate.*» Le svalutazioni: Intesa Sanpaolo Provis 172 milioni, Qingdao Yicai Fund Distribution 25, Risanamento 15, Intesa Sanpaolo Re.O.Co. 2, altre minori 1.
+**Opzione:** Si è prudenzialmente verificato se la perdita fosse dovuta a situazioni contingenti o strutturali; ne sono emerse rettifiche di valore che allineano il valore di bilancio al patrimonio netto pro-quota delle partecipate.
+**Distrattori:**
+- Si è prudenzialmente verificato se la perdita fosse dovuta a situazioni contingenti o strutturali; ne sono emerse rettifiche di valore che allineano il valore di bilancio al valore d'uso delle partecipate.
+- Con gli interest rate swap: chi ha erogato un finanziamento a tasso fisso scambia con la controparte il proprio tasso fisso, che lei incasserà, con il suo tasso variabile.
+- L'effettiva disponibilità dei voti nell'assemblea ordinaria, distinguendo, ove applicabile, tra diritti di voto effettivi e potenziali.
+
+**D:** ⚠️ Quali sono le cinque righe della voce 80 «Attività materiali» del bilancio della banca, secondo la slide 12 della lezione 34?
+**R:** 1. Attività materiali **ad uso funzionale, valutate al costo**; 2. Attività materiali **detenute a scopo investimento, valutate al costo**; 3. Attività materiali **ad uso funzionale, rivalutate**; 4. Attività materiali **detenute a scopo investimento, valutate al fair value**; 5. **Rimanenze** di attività materiali disciplinate dallo **IAS 2**. Il totale 2021 è di 7.875 milioni. ⚠️ La riga 2 è vuota: per Intesa Sanpaolo le attività a scopo di investimento sono tutte al fair value. Il docente la legge come «anche esse valutate al costo» ([00:20:26]), ed è con ogni probabilità l'origine della chiave sbagliata della domanda 5 del test.
+**Opzione:** Ad uso funzionale, valutate al costo; detenute a scopo investimento, valutate al costo; ad uso funzionale, rivalutate; detenute a scopo investimento, valutate al fair value; rimanenze di attività materiali disciplinate dallo IAS 2.
+**Distrattori:**
+- Ad uso funzionale, valutate al costo; detenute a scopo investimento, valutate al costo; ad uso funzionale, valutate al fair value; detenute a scopo investimento, rivalutate; rimanenze di attività materiali disciplinate dallo IAS 2.
+- Nella copertura specifica di fair value delle passività emesse e dei titoli di debito dell'attivo, e nella copertura generica di fair value di crediti erogati e di passività rappresentate da poste a vista (core deposit).
+- Controllate in via esclusiva, controllate in modo congiunto, sottoposte ad influenza notevole; per ciascuna denominazione, sede legale, sede operativa, quota di partecipazione % e disponibilità voti %.
+
+**D:** ⚠️ Quanto valgono nel 2021 le cinque righe della voce 80 «Attività materiali», che totalizza 7.875 milioni, secondo la slide 12 della lezione 34?
+**R:** Uso funzionale al costo **1.839** milioni, di cui 995 di diritti d'uso in leasing; investimento al costo **nessuna**; uso funzionale rivalutate **5.358**; investimento al fair value **606**; rimanenze IAS 2 **72**. Nel 2020 erano 1.610, zero, 4.652, 223 e 73, per 6.558. ⚠️ Le rivalutate valgono quasi tre volte quelle al costo: la chiave «al costo storico» della domanda 4 del test ne copre la parte minore.
+**Opzione:** Funzionale al costo 1.839; investimento al costo zero; funzionale rivalutate 5.358; investimento al fair value 606; rimanenze IAS 2: 72.
+**Distrattori:**
+- Funzionale al costo 5.358; investimento al costo zero; funzionale rivalutate 1.839; investimento al fair value 606; rimanenze IAS 2: 72.
+- Funzionale al costo 1.839; investimento al costo 606; funzionale rivalutate 5.358; investimento al fair value zero; rimanenze IAS 2: 72.
+- Funzionale al costo 1.610; investimento al costo zero; funzionale rivalutate 4.652; investimento al fair value 223; rimanenze IAS 2: 73.
+
+**D:** Come sono rilevati i beni acquisiti in leasing, secondo il docente della lezione 34, e per quale principio?
+**R:** «Sempre per il principio della **prevalenza della sostanza sulla forma**», i leasing vengono rilevati «come se il proprietario fosse l'**utilizzatore**»: il valore dei beni acquisiti in leasing è iscritto «nell'attivo patrimoniale dell'utilizzatore e non di chi concede in leasing» ([00:21:41]–[00:22:40]). Nella voce 80 sono i «*Diritti d'uso acquisiti con il leasing*», 995 milioni fra le attività ad uso funzionale al costo, soprattutto fabbricati (957). ⚠️ Il docente lo chiama «metodo patrimoniale». Nella lezione 05 quello è il metodo del leasing **operativo**, mentre l'iscrizione presso l'utilizzatore è il metodo **finanziario**.
+**Opzione:** Per la prevalenza della sostanza sulla forma, come se il proprietario fosse l'utilizzatore: il valore dei beni è iscritto nell'attivo patrimoniale dell'utilizzatore e non di chi concede in leasing.
+**Distrattori:**
+- Per la prevalenza della sostanza sulla forma, come se il proprietario fosse il concedente: il valore dei beni è iscritto nell'attivo patrimoniale di chi concede in leasing e non dell'utilizzatore.
+- Si è prudenzialmente verificato se la perdita fosse dovuta a situazioni contingenti o strutturali; ne sono emerse rettifiche di valore che allineano il valore di bilancio al patrimonio netto pro-quota delle partecipate.
+- Fabbricati ottenuti tramite l'escussione delle garanzie ricevute per 64 milioni e altre rimanenze per 8: in tutto 72 milioni.
+
+**D:** ⚠️ Come si compongono le attività materiali ad uso funzionale rivalutate, e a quale livello di fair value, secondo la slide 13 della lezione 34?
+**R:** Terreni **2.214**, fabbricati **2.833** e patrimonio artistico di pregio **311** milioni, per **5.358**, tutti di **livello 3** e tutti di proprietà. Nel 2020 erano 1.947, 2.411 e 294, cioè 4.652. Il docente: «qui non c'è un mercato di riferimento e quindi il fair value può essere applicato solo nella configurazione di livello 3» ([00:22:40]). ⚠️ Fra le attività di proprietà al costo non ci sono terreni né fabbricati (slide 12): gli immobili di proprietà ad uso funzionale sono tutti rivalutati.
+**Opzione:** Terreni 2.214, fabbricati 2.833 e patrimonio artistico di pregio 311 milioni: 5.358 milioni, tutti di livello 3.
+**Distrattori:**
+- Terreni 2.214, fabbricati 2.833 e patrimonio artistico di pregio 311 milioni: 5.358 milioni, tutti di livello 2.
+- Terreni 2.214, fabbricati 2.833 e impianti elettronici 311 milioni: 5.358 milioni, tutti di livello 3.
+- Terreni 1.947, fabbricati 2.411 e patrimonio artistico di pregio 294 milioni: 4.652 milioni, tutti di livello 3.
+
+**D:** ⚠️ Quali immobili hanno avuto a fine 2021 l'aggiornamento delle perizie, e quali solo l'analisi di scenario, secondo la slide 14 della lezione 34?
+**R:** «*A fine 2021 si è proceduto all'**aggiornamento delle perizie** dell'**intero patrimonio degli immobili ad uso investimento** e dei **Trophy Asset**, immobili inclusi tra quelli ad uso funzionale.*» Gli immobili ad uso funzionale **diversi dai Trophy Asset**, valutati integralmente a fine 2020, hanno avuto un'**analisi di scenario** per il 2021. Lo stesso vale per il **patrimonio artistico di pregio**. Le perizie sono affidate a Società esterne con struttura internazionale, sulla base degli standard **RICS Valuation**. Questi garantiscono un valore coerente con il fair value dei principi contabili internazionali e il rispetto dei requisiti professionali, etici e di indipendenza dei periti. Il docente le legge ([00:23:22]–[00:24:37]).
+**Opzione:** Perizie aggiornate: l'intero patrimonio degli immobili ad uso investimento e i Trophy Asset; analisi di scenario: gli altri immobili ad uso funzionale e il patrimonio artistico di pregio, valutati integralmente a fine 2020.
+**Distrattori:**
+- Perizie aggiornate: l'intero patrimonio degli immobili ad uso investimento e il patrimonio artistico di pregio; analisi di scenario: gli altri immobili ad uso funzionale e i Trophy Asset, valutati integralmente a fine 2020.
+- Esclusiva: controllo totale o più che del 50%; congiunto: la maggioranza per effetto di accordi o patti di sindacato con altre imprese; influenza notevole: senza maggioranza assoluta, ma con un'influenza notevole nelle assemblee ordinarie.
+- Perché non presentano capacità autonome di generazione e governo dei flussi di cassa, dato un modello organizzativo con CGU di maggiori dimensioni delle singole entità giuridiche: il valore recuperabile individuale non sarebbe calcolabile.
+
+**D:** ⚠️ Come si compongono le rimanenze di attività materiali disciplinate dallo IAS 2 nel 2021, secondo la slide 15 della lezione 34?
+**R:** **Fabbricati** ottenuti tramite l'**escussione delle garanzie ricevute** per **64 milioni** e **altre rimanenze** di attività materiali per **8**: **72 milioni**, contro i 73 del 2020 (65 di fabbricati). Nessuna è valutata al fair value al netto dei costi di vendita. Nel 2021 i fabbricati da escussione hanno 1 milione di rettifiche di valore da deterioramento (slide 20). Il docente: sono valutate «come vere e proprie rimanenze», «un valore molto basso» ([00:24:37]–[00:25:42]). Non dice che vengono dall'escussione di garanzie. Per la lezione 28 lo IAS 2 comprende i beni da escussione di garanzie o da acquisto in asta che l'impresa intende vendere.
+**Opzione:** Fabbricati ottenuti tramite l'escussione delle garanzie ricevute per 64 milioni e altre rimanenze per 8: in tutto 72 milioni.
+**Distrattori:**
+- Fabbricati acquistati in asta per 64 milioni e altre rimanenze per 8: in tutto 72 milioni.
+- Terreni ottenuti tramite l'escussione delle garanzie ricevute per 64 milioni e altre rimanenze per 8: in tutto 72 milioni.
+- Fabbricati ottenuti tramite l'escussione delle garanzie ricevute per 8 milioni e altre rimanenze per 64: in tutto 72 milioni.
+
+**D:** ⚠️ Che cosa riportano le sottovoci B.4 e C.4 delle variazioni annue delle attività materiali ad uso funzionale, secondo la slide 16 della lezione 34?
+**R:** «*Le variazioni, rispettivamente, **positive e negative di fair value** relative agli **immobili (terreni e fabbricati) ad uso funzionale** e ai **beni artistici di pregio**, per i quali la Banca applica il criterio della **rideterminazione del valore**.*» Nel 2021 sono +5 milioni, a patrimonio netto, e −22, di cui −12 a patrimonio netto e −10 a conto economico. La sottovoce «*E – Valutazione al costo*» è valorizzata **per le sole** attività valutate con la rideterminazione del valore, come vuole la Circolare 262: 3.590 milioni. Le rimanenze finali nette sono 7.197 milioni, cioè 1.839 al costo più 5.358 rivalutate.
+**Opzione:** Rispettivamente le variazioni positive e negative di fair value degli immobili (terreni e fabbricati) ad uso funzionale e dei beni artistici di pregio, per i quali la Banca applica il criterio della rideterminazione del valore.
+**Distrattori:**
+- Rispettivamente le variazioni positive e negative di fair value degli immobili (terreni e fabbricati) ad uso funzionale e dei beni artistici di pregio, per i quali la Banca applica il criterio del fair value previsto dallo IAS 40.
+- Tutti al livello 2: 1.566 milioni, di cui 1.561 a copertura di fair value e 5 di flussi finanziari.
+- In via prioritaria su metodologie di mercato (transazioni dirette o comparabili e multipli di mercato), in alternativa su valutazioni fondamentali: flussi di cassa attesi attualizzati con il discounted cash flow o patrimonio netto rettificato (ANAV).
+
+**D:** ⚠️ A che cosa si riferiscono principalmente le «Altre variazioni» in aumento e in diminuzione delle attività materiali ad uso funzionale, secondo la slide 16 della lezione 34?
+**R:** «*Principalmente a **rinegoziazioni** avvenute nel corso dell'anno sui **contratti di locazione (IFRS 16)** e, **per la sola parte di variazioni in diminuzione**, agli **ammortamenti** contabilizzati nell'esercizio su cespiti rivenienti dall'acquisizione dei rami d'azienda delle **ex Banche Venete**, fronteggiati dal **fondo per rischi ed oneri** a suo tempo appositamente costituito.*» Vi sono incluse anche le **riclassifiche**, soprattutto su «Impianti elettronici» e «Altre», per l'omogeneizzazione delle modalità di rilevazione dei cespiti dopo le incorporazioni societarie dell'esercizio.
+**Opzione:** A rinegoziazioni sui contratti di locazione (IFRS 16) e, per la sola parte di variazioni in diminuzione, agli ammortamenti sui cespiti dei rami d'azienda delle ex Banche Venete, fronteggiati dal fondo per rischi ed oneri a suo tempo costituito.
+**Distrattori:**
+- A rinegoziazioni sui contratti di locazione (IFRS 16) e, per la sola parte di variazioni in aumento, agli ammortamenti sui cespiti dei rami d'azienda delle ex Banche Venete, fronteggiati dal fondo per rischi ed oneri a suo tempo costituito.
+- Da 24.668 a 23.420 milioni, con aumenti per 6.016 e diminuzioni per 7.264.
+- Intesa Sanpaolo Provis, per 172 milioni, su rettifiche di valore dell'anno per 290 milioni.
+
+**D:** ⚠️ Come sono valutate le attività materiali detenute a scopo di investimento, e in quali sottovoci delle variazioni annue si rilevano gli effetti dell'aggiornamento del fair value, secondo la slide 18 della lezione 34?
+**R:** «*Sono valutate al fair value, in conformità allo IAS 40*». Gli effetti dell'aggiornamento del fair value «*sono rilevabili nelle sottovoci **B.3** "Variazioni positive di fair value" e **C.3** "Variazioni negative di fair value"*»: +2 e +3, −5 e −10 milioni per terreni e fabbricati. Valgono 606 milioni, tutti di livello 3 (slide 14). I terreni passano da 71 a 225 e i fabbricati da 152 a 381, soprattutto per acquisti da aggregazione aziendale (118 e 152) e per trasferimenti dall'uso funzionale (47 e 90). La riga degli ammortamenti è vuota. Il docente: sono beni non strumentali, per lo più immobili affittati. I principi internazionali vi dedicano lo IAS 40, mentre i principi nazionali «non prevedono nulla al riguardo» ([00:25:58]). 🚨 Nella domanda 5 del test la piattaforma le dà al costo storico.
+**Opzione:** Al fair value, in conformità allo IAS 40; l'aggiornamento del fair value si rileva nelle sottovoci B.3 e C.3, variazioni positive e negative.
+**Distrattori:**
+- Al fair value, in conformità allo IAS 16; l'aggiornamento del fair value si rileva nelle sottovoci B.3 e C.3, variazioni positive e negative.
+- Al fair value, in conformità allo IAS 40; l'aggiornamento del fair value si rileva nelle sottovoci B.4 e C.4, variazioni positive e negative.
+- Al costo, in conformità allo IAS 40; l'aggiornamento del valore si rileva nelle sottovoci C.2 e C.4, ammortamenti e rettifiche di valore.
