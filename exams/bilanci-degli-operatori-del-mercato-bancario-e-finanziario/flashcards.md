@@ -10901,3 +10901,559 @@
 - Durevoli 24.362.746, con un fair value di 20.380.043; a breve 10.731.185 migliaia di euro.
 - Durevoli 20.380.043, con un fair value di 24.362.746; a breve 11.954.344 migliaia di euro.
 - Durevoli 10.731.185, con un fair value di 24.362.746; a breve 20.380.043 migliaia di euro.
+
+## Lezione 43 — La Nota integrativa del bilancio della compagnia di assicurazioni. Le altre riserve tecniche e le altre informazioni di vigilanza
+
+**D:** ⚠️ Quando aumenta la riserva sinistri, secondo il test della lezione 43 (domanda 1)?
+**R:** **Quando le denunce di sinistri aumentano.** La slide 3: «*L'aumento della riserva sinistri è conseguenza dei sinistri dell'esercizio: le **denunce sono infatti in ripresa** rispetto all'esercizio 2020, caratterizzato dal rallentamento delle attività dovuto al lockdown*». La riserva sale da 9.746.935 a 9.869.193 migliaia (slide 2). Il docente: la ripresa dell'attività nel 2021 «ha fatto elevare il livello di sinistri denunciati e quindi automaticamente anche gli accantonamenti a riserva per sinistri» ([00:02:55]). ⚠️ Le denunce non sono l'unico fattore: la riserva comprende anche i sinistri avvenuti e non denunciati (1.034.319) e le spese di liquidazione (600.165). Il vicino è il segno invertito: per il docente nel 2020 il lockdown «aveva ridotto i sinistri di tutti i tipi e quindi anche aveva ridotto la riserva a sinistri». Distrattori del test: «quando le denunce di sinistri diminuiscono», «rimangono invariate», «sono annullate».
+**Opzione:** Quando le denunce di sinistri aumentano.
+**Distrattori:**
+- Quando le denunce di sinistri diminuiscono.
+- Quando le denunce di sinistri rimangono invariate.
+- Quando le denunce di sinistri sono annullate.
+
+**D:** ⚠️ Quali sono le principali riserve dei rami vita, secondo il test della lezione 43 (domanda 2)?
+**R:** **La riserva matematica e la riserva per somme da pagare.** È la formula del docente: «le riserve tecniche in ramo vita **prevalenti** sono più importanti, diciamo, sono la riserva matematica e la riserva per somme da pagare» ([00:06:50]). Nella slide 4, su 25.859.011 migliaia, la riserva matematica del lavoro diretto e delle complementari vale 25.485.124 e le somme da pagare del lavoro diretto 269.519. ⚠️ Il vicino è «la riserva matematica e la riserva sinistri»: la riserva sinistri è «la riserva tipica del ramo danni» ([00:02:55]), voce C.I.2. Nel vita i sinistri da pagare stanno dentro la riserva per somme da pagare (lezione 40, slide 11). Le riserve tecniche diverse sono del vita, ma valgono 96.520 e sono accantonamenti per spese future di gestione. Distrattori del test: «la riserva matematica e la riserva sinistri», «la riserva sinistri e la riserva per somme da pagare», «la riserva sinistri e le riserve tecniche diverse».
+**Opzione:** La riserva matematica e la riserva per somme da pagare.
+**Distrattori:**
+- La riserva matematica e la riserva sinistri.
+- La riserva sinistri e la riserva per somme da pagare.
+- La riserva sinistri e le riserve tecniche diverse.
+
+**D:** ⚠️ A quali polizze sono relative le riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati (voce D.I), secondo il test della lezione 43 (domanda 3)?
+**R:** **Unit linked e index linked.** Nella tabella della slide 5 le «*Polizze Index-Linked*» valgono **649** migliaia e le «*Polizze Unit-Linked*» **1.099.723**: insieme 1.100.372, la voce D.I dello schema (lezione 39, slide 8). Le altre righe sono i fondi pensione della D.II. La slide 5 parla di contratti vita «*il cui rendimento viene determinato in funzione di **investimenti o indici** per cui l'assicurato ne sopporta il rischio*». Il docente cita le «index linked di cui abbiamo già parlato» ([00:12:24]); la slide 2 della lezione 42 dice «*in particolare dei prodotti Index-Linked e Unit-Linked*». ⚠️ È una matrice: «unit linked e morte» e «morte e index linked» sono giuste a metà. La «temporanea a caso morte» è per il docente una polizza vita residuale ([00:11:41]), la «vita intera» compare nella senescenza della lezione 42. Distrattori del test: «unit linked e morte», «morte e index linked», «morte e vita intera».
+**Opzione:** Unit linked e index linked.
+**Distrattori:**
+- Unit linked e morte.
+- Morte e index linked.
+- Morte e vita intera.
+
+**D:** ⚠️ A quali eventi devono essere riferiti i fondi per rischi e oneri per poter essere inseriti in bilancio, secondo il test della lezione 43 (domanda 4)?
+**R:** **A eventi probabili**, secondo la chiave. ⚠️ Il deck 43 non dà il criterio. Lo danno i criteri della stessa nota integrativa: passività «*di natura determinata, di **esistenza certa o probabile***», con ammontare o data di sopravvenienza indeterminati (lezione 40, slide 12; lezione 10, slide 8). I fondi rischi si rilevano «*solo quando si possa ritenere **probabile** il verificarsi di eventi*» che faranno sorgere passività, e l'onere è stimabile (lezione 10, slide 10). Il vicino, «a eventi certi», **non è falso**: è l'altra metà della formula, quella dei **fondi per oneri**, «*certe nell'esistenza*». La chiave vince come condizione minima. «Incerti» è la famiglia di distrattori del test 10, domanda 4. Distrattori del test: «a eventi certi», «a eventi incerti», «a eventi impossibili».
+**Opzione:** A eventi probabili.
+**Distrattori:**
+- A eventi certi.
+- A eventi incerti.
+- A eventi impossibili.
+
+**D:** ⚠️ Gli eventuali accertamenti subiti dall'IVASS debbono essere riportati in nota integrativa, secondo il test della lezione 43 (domanda 5)?
+**R:** **Sì.** La nota integrativa di UnipolSai ha un paragrafo «*Accertamenti IVASS*» (slide 10): la sanzione di **27.500 euro** del 2014, il ricorso al TAR, l'annullamento del Consiglio di Stato nel 2019, il recupero nel 2021 e gli accertamenti ispettivi avviati l'11 ottobre 2021. Il docente: «Di tutto questo **è obbligatorio** che le compagnie ne diano formale comunicazione nella nota integrativa, l'omissione di queste indicazioni sarebbe punita con sanzioni di natura amministrativa» ([00:23:52]). ⚠️ Il vicino aggiunge una soglia di 100.000 euro che nei materiali non esiste. La slide 10 la smentisce due volte: la sanzione riportata è di 27.500 euro, e gli accertamenti del 2021 sono riportati senza alcuna sanzione. Lo stesso distrattore torna nel test 44 (domanda 1), sugli accertamenti dell'Antitrust. Distrattori del test: «solo se l'accertamento ha portato alla emissione di una sanzione superiore a 100.000 euro», «a discrezione del compilatore del bilancio», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo se l'accertamento ha portato alla emissione di una sanzione superiore a 100.000 euro.
+- A discrezione del compilatore del bilancio.
+- No.
+
+**D:** ⚠️ Quale ramo ha la quota maggiore delle riserve di perequazione del lavoro diretto, e quanto valgono in tutto, secondo la slide 2 della lezione 43?
+**R:** L'**incendio**, con **45.500** migliaia su **88.896** del lavoro diretto, più della metà. Seguono i corpi veicoli terrestri (31.747) e gli infortuni (4.070). Con **293** di lavoro indiretto il totale è **89.189**, la voce C.I.5 «Riserve di perequazione» dello schema (89.188.585 euro, lezione 39, slide 8). La tabella ha dodici rami: 1 infortuni 4.070, 2 malattia 10, 3 corpi veicoli terrestri 31.747, 4 ferroviari 26, 5 aerei 204, 6 marittimi 783, 7 merci trasportate 2.562, 8 incendio 45.500, 9 altri danni ai beni 3.287, 14 credito 70, 16 perdite pecuniarie 288, 18 assistenza 350 (slide 2). Per il docente nell'incendio la riserva «ha subito il maggiore adeguamento» per una maggiore sinistrosità ([00:00:04]–[00:01:54]).
+**Opzione:** L'incendio, con 45.500 su 88.896 migliaia del lavoro diretto; con 293 di lavoro indiretto il totale è 89.189.
+**Distrattori:**
+- I corpi veicoli terrestri, con 45.500 su 88.896 migliaia del lavoro diretto; con 293 di lavoro indiretto il totale è 89.189.
+- L'incendio, con 31.747 su 88.896 migliaia del lavoro diretto; con 293 di lavoro indiretto il totale è 89.189.
+- L'incendio, con 45.500 su 89.189 migliaia del lavoro diretto; con 293 di lavoro indiretto il totale è 89.482.
+
+**D:** ⚠️ A che cosa servono le riserve di perequazione, secondo il docente della lezione 43?
+**R:** Servono «a equilibrare sostanzialmente l'andamento delle riserve in relazione ai rami a cui si riferiscono, in relazione a variazioni che possono intervenire per effetto di **fatti esterni**», che incidono sulle percentuali «considerate nel momento dell'emissione della polizza» quando in seguito «quelle percentuali di **sinistrosità** possono aumentare» ([00:00:04]). È coerente con la slide 9 della lezione 40: perequare le «*fluttuazioni nel tasso dei sinistri degli anni futuri*» o coprire rischi particolari, come credito, calamità naturali ed energia nucleare. ⚠️ Nella lezione 24 il docente le aveva legate all'**età dell'assicurato** ([00:20:20] della 24): per la slide 9 della lezione 40 l'età è il criterio della riserva di **senescenza** del ramo malattia.
+**Opzione:** A equilibrare l'andamento delle riserve dei rami rispetto a variazioni dovute a fatti esterni, per cui le percentuali di sinistrosità considerate all'emissione della polizza possono aumentare.
+**Distrattori:**
+- A equilibrare l'andamento delle riserve dei rami rispetto all'aumento dell'età degli assicurati, per cui le percentuali di sinistrosità considerate all'emissione della polizza possono aumentare.
+- Per rischio demografico; per lo scostamento fra tassi di rendimento prevedibili e impegni assunti; per lo sfasamento temporale nel riconoscimento del rendimento; per i rischi di mortalità del ramo III; per le prestazioni garantite dei rami III e VI.
+- È la riserva tipica del ramo danni: rappresenta il valore degli indennizzi che verosimilmente dovranno essere sostenuti dalla compagnia a favore dei terzi o dei propri assicurati.
+
+**D:** ⚠️ Che cosa si intende per lavoro diretto e per lavoro indiretto, secondo il docente della lezione 43?
+**R:** «Lavoro diretto si intende quei premi assicurativi che vengono gestiti per polizze **emesse direttamente** dalla società assicuratrice». «Per lavoro indiretto si intende quei contratti che la società ha **assunto in riassicurazione** da altre società assicurative»: queste hanno stipulato la polizza con l'assicurato e poi, «per loro motivi di gestione tecnico assicurativa del contratto», l'hanno ceduta in riassicurazione a UnipolSai ([00:01:54]). È la riassicurazione attiva delle «*accettazioni*» della lezione 37 (slide 15). Il lavoro indiretto vale 293 migliaia nelle riserve di perequazione (slide 2) e 222.430 nella riserva sinistri (slide 3). Vale anche nel vita: la riserva matematica del lavoro indiretto riguarda polizze stipulate da altre compagnie e cedute in riassicurazione a UnipolSai ([00:09:01]).
+**Opzione:** Il diretto sono i premi delle polizze emesse direttamente dalla compagnia; l'indiretto i contratti che la compagnia ha assunto in riassicurazione da altre compagnie, che li avevano stipulati con l'assicurato.
+**Distrattori:**
+- Il diretto sono i premi delle polizze emesse direttamente dalla compagnia; l'indiretto i contratti che la compagnia ha ceduto in riassicurazione ad altre compagnie, dopo averli stipulati con l'assicurato.
+- I depositi presso imprese cedenti, le passività subordinate e i debiti e altre passività.
+- Con il metodo dell'inventario e metodologie statistico-attuariali, come stabilito dall'art. 24 dell'allegato n. 15 al Regolamento ISVAP n. 22/2008.
+
+**D:** ⚠️ Quanto vale la riserva sinistri di UnipolSai al 31 dicembre 2021, e come si compone quella del lavoro diretto, secondo la slide 2 della lezione 43?
+**R:** «*La riserva sinistri (lavoro diretto e indiretto) ammonta a **9.869.193** migliaia di euro in aumento rispetto al dato dell'esercizio precedente pari a **9.746.935** migliaia di euro. È costituita, per quanto riguarda il lavoro diretto, da: **8.012.280** migliaia di euro per risarcimenti e spese dirette; **1.034.319** migliaia di euro di riserva per sinistri avvenuti e non denunciati; **600.165** migliaia di euro di riserva per spese di liquidazione.*» (slide 2). Il lavoro indiretto vale **222.430** (slide 3), e la somma fa 9.869.194. È la voce C.I.2 dello schema, 9.869.193.040 euro (lezione 39, slide 8). ⚠️ Il docente legge «8 miliardi 0,12 milioni» e arrotonda a «un miliardo» e «600 milioni» ([00:02:55]).
+**Opzione:** 9.869.193 migliaia; nel diretto: risarcimenti e spese dirette 8.012.280, avvenuti e non denunciati 1.034.319, spese di liquidazione 600.165.
+**Distrattori:**
+- 9.869.193 migliaia; nel diretto: risarcimenti e spese dirette 8.012.280, avvenuti e non denunciati 600.165, spese di liquidazione 1.034.319.
+- 9.746.935 migliaia; nel diretto: risarcimenti e spese dirette 8.012.280, avvenuti e non denunciati 1.034.319, spese di liquidazione 600.165.
+- 9.869.193 migliaia; nel diretto: risarcimenti e spese dirette 8.012.280, avvenuti e non denunciati 1.034.319, spese di liquidazione 222.430.
+
+**D:** ⚠️ Che cosa rappresenta la riserva sinistri, secondo il docente della lezione 43?
+**R:** «La riserva sinistri è la riserva **tipica del ramo danni** in quanto sostanzialmente rappresenta il valore degli **indennizzi che verosimilmente dovranno essere sostenuti** dalla compagnia a favore dei terzi o dei propri assicurati» ([00:02:55]). Nel 2021 vale 9.869.193 migliaia (slide 2). Per la slide 9 della lezione 40 si determina in modo analitico, stimando «*il costo presunto di tutti i sinistri aperti alla fine dell'esercizio*». Riguarda pagamenti **futuri**: quando il sinistro viene pagato la riserva si smonta ([00:02:55]). Nei rami vita i sinistri da pagare stanno dentro la riserva per somme da pagare (lezione 40, slide 11; test, domanda 2).
+**Opzione:** È la riserva tipica del ramo danni: rappresenta il valore degli indennizzi che verosimilmente dovranno essere sostenuti dalla compagnia a favore dei terzi o dei propri assicurati.
+**Distrattori:**
+- È la riserva tipica del ramo danni: rappresenta il valore degli indennizzi già liquidati dalla compagnia nell'esercizio a favore dei terzi o dei propri assicurati.
+- A coprire l'aggravarsi del rischio al crescere dell'età degli assicurati, nella misura del 10% dei premi lordi contabilizzati dell'esercizio.
+- La riserva per frazioni di premi con il metodo analitico pro rata temporis; la riserva per rischi in corso con il metodo semplificato.
+
+**D:** ⚠️ Come si sono mossi nel 2021 la velocità di liquidazione dei sinistri e gli smontamenti positivi, secondo la slide 3 della lezione 43?
+**R:** «*Si mantiene su livelli elevati, **anche se in calo**, la velocità di liquidazione dei sinistri e gli smontamenti positivi risultano essere **minori** rispetto allo scorso esercizio.*» (slide 3). Il docente omette «anche se in calo» e definisce la velocità di liquidazione come «quanti giorni impiego a liquidare un sinistro, cioè dal momento della denuncia al momento del pagamento» ([00:02:55]). ⚠️ Nella lezione 25 la velocità di liquidazione è un rapporto, sinistri liquidati su sinistri denunciati (slide 5). Lo smontamento positivo è la riserva eliminata al pagamento del sinistro con un'eccedenza, cioè una sopravvenienza attiva.
+**Opzione:** La velocità di liquidazione si mantiene su livelli elevati, anche se in calo; gli smontamenti positivi risultano minori rispetto allo scorso esercizio.
+**Distrattori:**
+- La velocità di liquidazione si mantiene su livelli elevati, anche se in calo; gli smontamenti positivi risultano maggiori rispetto allo scorso esercizio.
+- 5.401.491 migliaia (+315.750, +6,2%): unit linked 1.099.723, index linked 649, il resto fondi pensione.
+- Il 70% per la gestione Vita e il 60% per la gestione Danni.
+
+**D:** ⚠️ Che cos'è lo smontamento della riserva sinistri, e che cosa produce, secondo l'esempio del docente della lezione 43?
+**R:** «Lo smontamento corrisponde al momento in cui viene **pagato il sinistro** e la relativa riserva viene **eliminata**». Se la riserva accantonata è **110** e il pagamento **100**, «quel 10 in più è un surplus, è una plusvalenza, o meglio, più correttamente, è una **sopravvenienza attiva** per la società». Se la riserva è 100 e il sinistro costa 110, c'è «una minusvalenza, o meglio una **sopravvenienza passiva** di 10». «In entrambi i casi ho smontato la riserva», perché il sinistro è liquidato ([00:02:55]). Per la slide 3 nel 2021 gli smontamenti positivi sono **minori** rispetto all'esercizio precedente. Il caso numerico è del solo transcript.
+**Opzione:** Si ha quando il sinistro viene pagato e la riserva eliminata: con 110 riservati e 100 pagati si ha una sopravvenienza attiva di 10, con 100 riservati e 110 pagati una sopravvenienza passiva di 10.
+**Distrattori:**
+- Si ha quando il sinistro viene pagato e la riserva eliminata: con 110 riservati e 100 pagati si ha una sopravvenienza passiva di 10, con 100 riservati e 110 pagati una sopravvenienza attiva di 10.
+- Nel caso in cui si traducano in un incremento della vita utile dei cespiti e della loro redditività.
+- Sulla base dell'incidenza degli investimenti tra le due gestioni.
+
+**D:** ⚠️ Con quale metodo si calcola la riserva sinistri del lavoro diretto, e secondo quale norma, per la slide 3 della lezione 43?
+**R:** «*Per il lavoro diretto la riserva sinistri viene calcolata con il cosiddetto **metodo dell'inventario** unitamente a valutazioni svolte con **metodologie statistico-attuariali**, così come stabilito dall'**art. 24 dell'allegato n. 15** al Regolamento ISVAP n. 22 del 4 aprile 2008 e successive integrazioni o modificazioni.*» (slide 3). Il docente: il metodo di inventario è «sulla base di tutti i sinistri denunciati» ([00:06:50]). ⚠️ L'allegato **15** è quello dei rami Danni, gli allegati **14 e 14bis** sono dei rami Vita (lezione 40, slide 8 e 10). Per la slide 9 della lezione 40 le stime dei liquidatori sono integrate da Chain-Ladder, Bornhuetter Ferguson e ACPC. Il metodo pro rata temporis è quello della riserva per frazioni di premi.
+**Opzione:** Con il metodo dell'inventario e metodologie statistico-attuariali, come stabilito dall'art. 24 dell'allegato n. 15 al Regolamento ISVAP n. 22/2008.
+**Distrattori:**
+- Con il metodo dell'inventario e metodologie statistico-attuariali, come stabilito dall'art. 24 dell'allegato n. 14 al Regolamento ISVAP n. 22/2008.
+- Con il metodo pro rata temporis e metodologie statistico-attuariali, come stabilito dall'art. 24 dell'allegato n. 15 al Regolamento ISVAP n. 22/2008.
+- Con il solo metodo dell'inventario, come stabilito dall'art. 24 dell'allegato n. 15 al Regolamento ISVAP n. 22/2008.
+
+**D:** ⚠️ Che cosa assume il liquidatore all'apertura di un sinistro, e quando deve aggiornare la riserva, secondo la slide 3 della lezione 43?
+**R:** «*All'apertura dei sinistri viene proposto a sistema un **preventivo di riferimento** che il liquidatore è tenuto ad assumere fino al momento in cui non disponga di informazioni che gli consentano una valutazione più circostanziata del sinistro stesso. L'aggiornamento delle riserve è previsto **in continuo**. Il liquidatore deve aggiornare la riserva **ogni qual volta** venga a conoscenza di informazioni che, incidendo sulla **responsabilità** o sul **valore del danno**, determinano un **sensibile spostamento** del valore della posizione trattata.*» (slide 3). Il docente legge la stessa formula ([00:06:50]). L'aggiornamento è monitorato da uno scadenziario automatico.
+**Opzione:** Assume il preventivo di riferimento proposto a sistema finché non dispone di informazioni per una valutazione più circostanziata; l'aggiornamento è in continuo, ogni qual volta informazioni sulla responsabilità o sul valore del danno ne determinano un sensibile spostamento.
+**Distrattori:**
+- Assume il preventivo di riferimento proposto a sistema finché non dispone di informazioni per una valutazione più circostanziata; l'aggiornamento è solo alla chiusura dell'esercizio, anche quando informazioni sulla responsabilità o sul valore del danno ne determinano un sensibile spostamento.
+- Nel portafoglio non durevole, al minore tra valore di costo e valore di mercato.
+- Le immobilizzazioni al cambio al momento del loro acquisto, le altre partite ai cambi di fine anno.
+
+**D:** ⚠️ Da che cosa viene innescato lo scadenziario automatico che monitora l'aggiornamento delle riserve sinistri, secondo la slide 3 della lezione 43?
+**R:** «*L'aggiornamento delle riserve viene monitorato grazie alla creazione di uno **scadenziario automatico** che viene innescato dal verificarsi di alcune condizioni (**assenza di preventivo, riapertura, cambio di esito**) o dal fatto che sia trascorso un **numero di mesi massimo, variabile a seconda del ramo**, oltre il quale il liquidatore deve aggiornare la valutazione della riserva.*» (slide 3). Il docente aggiunge un «eccetera» alle tre condizioni ([00:06:50]): fa testo la slide, che ne elenca tre.
+**Opzione:** Da assenza di preventivo, riapertura o cambio di esito, oppure dal decorso di un numero massimo di mesi variabile a seconda del ramo.
+**Distrattori:**
+- Da assenza di preventivo, riapertura o cambio di esito, oppure dal decorso di un numero massimo di mesi uguale per tutti i rami.
+- Da presenza di preventivo, riapertura o cambio di esito, oppure dal decorso di un numero massimo di mesi variabile a seconda del ramo.
+- Da assenza di preventivo, riapertura o cambio di esito, oppure dal decorso di un numero minimo di mesi variabile a seconda del ramo.
+
+**D:** ⚠️ Su quali valutazioni si basa la riserva per i sinistri di generazione corrente del ramo R.C. Auto, secondo la slide 3 della lezione 43?
+**R:** «*In particolare per i sinistri di **generazione corrente** del ramo R.C. Auto è previsto l'utilizzo di valutazioni derivanti dall'andamento del **mix cose/persone**, dalla **velocità di liquidazione** e dal **costo medio dell'anno precedente**.*» (slide 3). Il docente dice «soprattutto per il ramo RC auto» e aggiunge «e così via» ([00:06:50]). ⚠️ Non va confuso con le tre ipotesi del metodo **ACPC** della lezione 40 (slide 9): velocità di liquidazione, costi medi di base, inflazione esogena ed endogena.
+**Opzione:** Sull'andamento del mix cose/persone, sulla velocità di liquidazione e sul costo medio dell'anno precedente.
+**Distrattori:**
+- Sull'andamento del mix cose/persone, sulla velocità di liquidazione e sul costo medio dell'anno corrente.
+- Sull'andamento del mix cose/persone, sulla velocità di liquidazione e sul costo massimo dell'anno precedente.
+- Sul solo andamento del mix cose/persone, senza la velocità di liquidazione né il costo medio dell'anno precedente.
+
+**D:** ⚠️ Come si valuta la riserva per spese di liquidazione dirette e indirette, secondo la slide 3 della lezione 43?
+**R:** «*La valutazione della riserva per spese di liquidazione dirette e indirette è stata effettuata applicando, **per anno di accadimento** dei sinistri, all'importo delle riserve stimate **a costo ultimo** la percentuale ricavata dall'**analisi storica dell'incidenza delle spese pagate sugli indennizzi**.*» Prima le spese di liquidazione **indirette** si quantificano con «*un'analisi per **centro di costo** delle spese del personale e generali*», catalogando a priori ciò che è riconducibile alle spese di liquidazione, e si attribuiscono ai rami e alla generazione di competenza «*in funzione degli **indennizzi pagati***». Per gli accantonamenti si tiene conto anche del consuntivo dell'anno rispetto alle previsioni dell'esercizio precedente (slide 3). La riserva per spese di liquidazione del lavoro diretto vale 600.165 migliaia (slide 2).
+**Opzione:** Applicando, per anno di accadimento, alle riserve stimate a costo ultimo la percentuale ricavata dall'analisi storica dell'incidenza delle spese pagate sugli indennizzi.
+**Distrattori:**
+- Applicando, per anno di accadimento, alle riserve stimate a costo ultimo la percentuale ricavata dall'analisi storica dell'incidenza delle spese pagate sui premi contabilizzati.
+- Sulla base dell'incidenza degli investimenti tra le due gestioni.
+- Al costo di acquisto o di sottoscrizione, o ad un valore inferiore al costo nei casi in cui le partecipate presentino perdite durevoli di valore.
+
+**D:** ⚠️ Come si compongono le riserve tecniche dei rami Vita (classe C.II) al 31 dicembre 2021, secondo la slide 4 della lezione 43?
+**R:** «*Le riserve tecniche dei rami Vita (Classe C.II) al 31 dicembre 2021 ammontano complessivamente a **25.859.011** migliaia di euro*» (25.635.922 nel 2020), con un aumento di 223.089. Sono composte da: **25.485.124** di riserva matematica del lavoro diretto e riserve delle assicurazioni complementari; **269.519** di somme da pagare del lavoro diretto; **96.520** di riserve tecniche diverse, «*che si riferiscono interamente ad accantonamenti per spese future di gestione*»; **5.525** di riserva per partecipazione agli utili e ristorni; **1.814** di riserva matematica del lavoro indiretto; **510** di somme da pagare del lavoro indiretto (slide 4). La somma fa 25.859.012. Il docente legge le stesse cifre arrotondate ([00:06:50]–[00:09:01]). Nello schema della lezione 39 (slide 8) riserve matematiche e riserva premi delle complementari fanno 25.486.938, cioè 25.485.124 + 1.814.
+**Opzione:** Matematica del diretto e complementari 25.485.124; somme da pagare del diretto 269.519; riserve tecniche diverse 96.520; partecipazione agli utili e ristorni 5.525; matematica dell'indiretto 1.814; somme da pagare dell'indiretto 510.
+**Distrattori:**
+- Matematica del diretto e complementari 25.485.124; somme da pagare del diretto 96.520; riserve tecniche diverse 269.519; partecipazione agli utili e ristorni 5.525; matematica dell'indiretto 1.814; somme da pagare dell'indiretto 510.
+- Velocità di liquidazione, costi medi di base e inflazione esogena ed endogena.
+- 422.233 migliaia, −38.403 (−8,3%) sul 2020; il fondo maggiore è il fondo rischi e oneri futuri, con 317.428.
+
+**D:** ⚠️ A che cosa si riferiscono le altre riserve tecniche dei rami Vita (voce C.II.5), e quanto valgono, secondo la slide 4 della lezione 43?
+**R:** «*Le altre riserve tecniche (voce C.II.5), che al 31 dicembre 2021 ammontano a **96.520** migliaia di euro (**97.224** migliaia di euro al 31 dicembre 2020), si riferiscono **interamente ad accantonamenti per spese future di gestione***» (slide 4). Per ramo: ramo I **79.026**, ramo III 1.450, ramo IV 229, ramo V 15.815. Il docente le chiama «riserve tecniche diverse che sono sostanzialmente accantonamenti per spese future di gestione» ([00:09:01]). ⚠️ Nei rami **Danni** le «altre riserve tecniche» (C.I.4, 527) sono invece la riserva di **senescenza** (lezione 42, slide 16).
+**Opzione:** Interamente ad accantonamenti per spese future di gestione: 96.520 migliaia, contro 97.224 nel 2020; il ramo I ne ha 79.026.
+**Distrattori:**
+- Interamente alla riserva di senescenza: 96.520 migliaia, contro 97.224 nel 2020; il ramo I ne ha 79.026.
+- Interamente ad accantonamenti per spese future di gestione: 96.520 migliaia, contro 97.224 nel 2020; il ramo V ne ha 79.026.
+- Interamente alla partecipazione agli utili e ristorni: 96.520 migliaia, contro 97.224 nel 2020; il ramo I ne ha 79.026.
+
+**D:** ⚠️ Perché la riserva per somme da pagare del lavoro diretto scende da 502.455 a 269.519 migliaia, secondo la slide 4 della lezione 43?
+**R:** «*La riserva per somme da pagare del lavoro diretto al termine dell'esercizio risulta di **269.519** migliaia di euro (**502.455** migliaia di euro al 31 dicembre 2020), di cui **137.372** relativi all'esercizio precedente. Il confronto con il dato di fine 2020 risente di importanti **volumi scaduti a fine dicembre 2020** regolati nei primi mesi del 2021, a fronte di contratti emessi a **fine 2000**, ultimo anno con beneficio di **detraibilità fiscale su tutte le polizze vita**.*» (slide 4). Il docente non commenta la variazione.
+**Opzione:** Il dato di fine 2020 risente di importanti volumi scaduti a fine dicembre 2020 e regolati nei primi mesi del 2021, su contratti emessi a fine 2000, ultimo anno con detraibilità fiscale su tutte le polizze vita.
+**Distrattori:**
+- Il dato di fine 2020 risente di importanti volumi scaduti a fine dicembre 2020 e regolati nei primi mesi del 2021, su contratti emessi a fine 2010, ultimo anno con detraibilità fiscale su tutte le polizze vita.
+- Gli oneri di portafoglio Vita a quote costanti sulla durata media residua dei contratti interessati; i marchi in 10 anni.
+- Al valore corrente, secondo l'art. 17 comma 2 del D.Lgs. 173/97: per gli investimenti quotati, il valore dell'ultimo giorno di transazione dell'esercizio.
+
+**D:** ⚠️ Che differenza c'è fra la riserva matematica e la riserva per somme da pagare, secondo il docente della lezione 43?
+**R:** Le somme da pagare sono «veri e propri **debiti**, cioè sono somme che l'impresa di assicurazione deve pagare ai beneficiari o agli assicurati ma che ancora **non sono state corrisposte** al termine dell'esercizio ma che **già sono maturate**». L'esempio: una polizza vita decennale scaduta, di cui si è chiesta la liquidazione il 22 dicembre 2021, mentre l'assegno o il bonifico non è ancora arrivato ([00:09:01]). È «un vero e proprio debito maturato, certo, esigibile, certo nell'ammontare, certo nell'esistenza» ([00:10:57]). La **riserva matematica** invece «accantona ogni anno l'importo relativo al **progressivo obbligo** della compagnia nei confronti dell'assicurato» ([00:12:24]). Per la slide 11 della lezione 40 le somme da pagare comprendono le prestazioni maturate e non ancora liquidate, i riscatti e i sinistri da pagare.
+**Opzione:** Le somme da pagare sono veri e propri debiti, già maturati e certi ma non ancora corrisposti a fine esercizio; la riserva matematica accantona ogni anno il progressivo obbligo della compagnia verso l'assicurato.
+**Distrattori:**
+- Le somme da pagare sono veri e propri debiti, già maturati e certi ma non ancora corrisposti a fine esercizio; la riserva matematica non accantona nulla fino alla scadenza, quando si iscrive l'intero importo da liquidare.
+- Le imposte anticipate solo se esiste la ragionevole certezza della loro recuperabilità; le imposte differite sempre.
+- Nella gestione Vita qualora coerenti con l'orizzonte temporale ed il livello della prestazione garantita agli assicurati; nella gestione Danni con finalità d'investimento duraturo in quanto funzionali all'attività assicurativa.
+
+**D:** ⚠️ Quanto vale la riserva matematica dopo il primo, il secondo e il terzo anno, nell'esempio del docente della lezione 43 con premi di 1.000 euro l'anno per dieci anni?
+**R:** L'assicurato versa **1.000 euro** l'anno per dieci anni, cioè 10.000 euro, che alla fine la compagnia dovrà restituire «eventualmente maggiorati dei rendimenti». Non può incassare i premi senza accantonare nulla, perché violerebbe «il principio della **competenza economica**» e «tutti i principi di **gestione prudenziale** dei rischi». Deve quindi registrare anno per anno nella riserva matematica «quanta parte del proprio impegno contrattuale è maturata»: «dopo il primo anno saranno maturati un impegno di circa **950** euro, dopo il secondo anno … **1980** euro, dopo il terzo anno di **2930** euro e così via». Alla fine del decimo anno la riserva «dovrebbe esattamente corrispondere all'importo che deve essere liquidato» ([00:12:24]). Il caso è del solo transcript.
+**Opzione:** Circa 950 euro dopo il primo anno, 1.980 dopo il secondo, 2.930 dopo il terzo; alla fine corrisponde all'importo da liquidare.
+**Distrattori:**
+- 1.000 euro dopo il primo anno, 2.000 dopo il secondo, 3.000 dopo il terzo; alla fine corrisponde all'importo da liquidare.
+- Circa 950 euro dopo il primo anno, 1.900 dopo il secondo, 2.850 dopo il terzo; alla fine corrisponde all'importo da liquidare.
+- Nulla fino al decimo anno, quando si accantonano 10.000 euro maggiorati dei rendimenti.
+
+**D:** ⚠️ Quali contratti rientrano fra le riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati, e come se ne calcolano le riserve matematiche, secondo la slide 5 della lezione 43?
+**R:** «*Fanno parte di questa categoria i contratti di assicurazione sulla vita umana il cui **rendimento** viene determinato in funzione di **investimenti o indici** per cui l'**assicurato** ne sopporta il rischio. Le relative riserve matematiche sono calcolate con riferimento agli **impegni previsti dai contratti** e sono rappresentate con la **massima approssimazione possibile dagli attivi di riferimento**.*» (slide 5). Sono le voci D.I e D.II del passivo (lezione 39, slide 8). ⚠️ Il docente dice che gli impegni rimasti alla compagnia sono «molto più ridotti, quasi sempre riferiti al solo capitale», perché il rischio del rendimento è degli assicurati, «così come avviene con la gestione dei fondi pensione» ([00:15:49]). La classe D del passivo vale però quanto quella dell'attivo, 5.401.491 migliaia (lezione 39): le riserve seguono il valore degli attivi. Per unit linked e ramo VI si calcolano sul numero e sul valore delle quote (lezione 40, slide 12).
+**Opzione:** I contratti vita il cui rendimento dipende da investimenti o indici e il cui rischio sopporta l'assicurato; le riserve si calcolano sugli impegni previsti dai contratti e sono rappresentate con la massima approssimazione possibile dagli attivi di riferimento.
+**Distrattori:**
+- I contratti vita il cui rendimento dipende da investimenti o indici e il cui rischio sopporta la compagnia; le riserve si calcolano sugli impegni previsti dai contratti e sono rappresentate con la massima approssimazione possibile dagli attivi di riferimento.
+- Al costo medio di acquisto o di sottoscrizione, rettificato o integrato della quota maturata nell'esercizio della differenza tra valore di rimborso e prezzo di acquisto; svalutati solo per accertate perdite permanenti di valore.
+- Vengono ammortizzati anch'essi, a meno che la manutenzione effettuata per prolungarne l'utilizzazione nel tempo e mantenerne il valore non ne giustifichi il mancato ammortamento.
+
+**D:** ⚠️ Quanto valgono le riserve della classe D al 31 dicembre 2021, e quanto le polizze unit linked e index linked, secondo la slide 5 della lezione 43?
+**R:** «*L'importo complessivo di tali riserve al 31 dicembre 2021 ammonta a **5.401.491** migliaia di euro con un incremento rispetto all'esercizio precedente di **315.750** migliaia di euro (**+6,2%**).*» Nella tabella per tipologia di prodotto le **Polizze Unit-Linked** valgono **1.099.723** e le **Polizze Index-Linked** **649**: insieme 1.100.372, la voce D.I. Le altre righe sono fondi pensione (D.II, 4.301.119), i maggiori Unipol Previdenza FPA (912.535) e Fonte (815.883) (slide 5). Nel 2020 la classe D valeva 5.085.741 (lezione 39). Il docente nomina solo le index linked ([00:12:24]), che sono la riga più piccola.
+**Opzione:** 5.401.491 migliaia (+315.750, +6,2%): unit linked 1.099.723, index linked 649, il resto fondi pensione.
+**Distrattori:**
+- 5.401.491 migliaia (+315.750, +6,2%): index linked 1.099.723, unit linked 649, il resto fondi pensione.
+- 5.085.741 migliaia (−315.750, −6,2%): unit linked 1.099.723, index linked 649, il resto fondi pensione.
+- 1.100.372 migliaia (+315.750, +6,2%): unit linked 1.099.723, index linked 649, nessun fondo pensione.
+
+**D:** ⚠️ Quanto valgono in tutto i fondi per rischi ed oneri (voce E) di UnipolSai al 31 dicembre 2021, e qual è il fondo maggiore, secondo la slide 6 della lezione 43?
+**R:** Il totale della «*Sezione 12 – Fondi per rischi ed oneri (voce E)*» è **422.233** migliaia di euro, contro **460.636** nel 2020: −38.403, il −8,3% (slide 6). Il fondo maggiore è il **fondo rischi e oneri futuri**, **317.428** (291.635 nel 2020), che per il docente fa «la parte del leone» ([00:15:49]). Seguono il fondo di solidarietà ed esodo personale (43.835) e il fondo imposte differite (33.238). Nello schema della lezione 39 (slide 10) la voce E vale 422.232.841 euro: quiescenza 1.989.560, fondi per imposte 42.555.228 (33.238 + 9.317), altri accantonamenti 377.688.053 (gli altri cinque fondi).
+**Opzione:** 422.233 migliaia, −38.403 (−8,3%) sul 2020; il fondo maggiore è il fondo rischi e oneri futuri, con 317.428.
+**Distrattori:**
+- 422.233 migliaia, −38.403 (−8,3%) sul 2020; il fondo maggiore è il fondo di solidarietà ed esodo personale, con 317.428.
+- 460.636 migliaia, +38.403 (+8,3%) sul 2020; il fondo maggiore è il fondo rischi e oneri futuri, con 317.428.
+- 422.233 migliaia, −38.403 (−8,3%) sul 2020; il fondo maggiore è il fondo imposte differite, con 317.428.
+
+**D:** ⚠️ Quali fondi espone la voce E dello stato patrimoniale di UnipolSai, nell'ordine della tabella della slide 6 della lezione 43?
+**R:** La tabella della slide 6 elenca **otto** fondi: fondi trattamento di quiescenza ed obblighi simili (1.990); fondo imposte differite (33.238); fondi per rischi fiscali (9.317); fondo rischi e oneri futuri (317.428); fondo oneri immobiliari (11.427); fondo di solidarietà ed esodo personale (43.835); fondo erogazioni liberali (1.257); **fondo sanzioni IVASS** (3.741). Il totale è 422.233. ⚠️ L'ultimo fondo è delle sanzioni **IVASS**, non della Consob: le sanzioni Consob del 2014, 650.000 euro per UnipolSai, sono state pagate (slide 9–10).
+**Opzione:** Quiescenza ed obblighi simili; imposte differite; rischi fiscali; rischi e oneri futuri; oneri immobiliari; solidarietà ed esodo personale; erogazioni liberali; sanzioni IVASS.
+**Distrattori:**
+- Quiescenza ed obblighi simili; imposte differite; rischi fiscali; rischi e oneri futuri; oneri immobiliari; solidarietà ed esodo personale; erogazioni liberali; sanzioni Consob.
+- Il recepimento delle recenti disposizioni normative, il rispetto della convenzione Card e i connessi aspetti di governo e controllo.
+- 9.869.193 migliaia; nel diretto: risarcimenti e spese dirette 8.012.280, avvenuti e non denunciati 1.034.319, spese di liquidazione 600.165.
+
+**D:** ⚠️ Che cosa accoglie il fondo per rischi fiscali, e come si ripartiscono i suoi 9.317 migliaia, secondo la slide 7 della lezione 43?
+**R:** «*Il fondo per rischi fiscali, pari a 9.317 migliaia di euro accoglie partite inerenti il **contenzioso tributario in essere e potenziale**, di cui **7.642** migliaia di euro a fronte di vertenze in contenzioso e **1.675** migliaia di euro a fronte di altri rischi stimati.*» (slide 7). Il **fondo imposte differite**, 33.238, «*si riferisce all'onere previsto per imposte che si renderanno dovute in esercizi futuri*», e il prospetto dell'art. 2427, comma 1, punto 14 c.c. sta nella sezione 21 del conto economico. Il docente: il fondo rischi fiscali riguarda i «contenziosi tributari in corso» ([00:15:49]). Insieme i due fondi fanno 42.555, la voce E.2 «Fondi per imposte» dello schema (lezione 39, slide 10). Nella lezione 10 il contenzioso con il fisco è l'esempio tipico di fondo **rischi**.
+**Opzione:** Il contenzioso tributario in essere e potenziale: 7.642 per vertenze in contenzioso e 1.675 per altri rischi stimati.
+**Distrattori:**
+- Il contenzioso tributario in essere e potenziale: 1.675 per vertenze in contenzioso e 7.642 per altri rischi stimati.
+- L'onere per imposte che si renderanno dovute in esercizi futuri: 7.642 per vertenze in contenzioso e 1.675 per altri rischi stimati.
+- Il solo contenzioso tributario già instaurato: 7.642 per vertenze in contenzioso e 1.675 per altri rischi stimati.
+
+**D:** ⚠️ Quanto accantona il fondo oneri futuri per i rapporti con gli intermediari, e per che cosa, secondo la slide 7 della lezione 43?
+**R:** Il fondo oneri futuri, **317.428** migliaia, cresce di **25.793** ed «*è **principalmente** costituito da*»: **111.506** per stanziamenti a fronte di oneri derivanti dai rapporti con gli **intermediari**, «*sia per partite in contenzioso, sia per le perdite stimate su indennità di portafoglio da assegnare*» (113.791 nel 2020); 60.602 per pratiche in contenzioso affidate a legali; 29.322 per eventuali rischi connessi a partecipazioni; 34.000 per eventuali premi di fedeltà a dirigenti previsti dalla Politica di Remunerazione (17.000 nel 2020); 6.324 per contenziosi con il personale; 2.725 per contenziosi con compagnie di assicurazione e riassicurazione (slide 7–8). ⚠️ L'elenco è aperto: le sei voci fanno 244.479 su 317.428. Per il docente le indennità di portafoglio sono «come se fossero delle indennità di buonuscita future sul portafoglio degli agenti» ([00:15:49]).
+**Opzione:** 111.506 migliaia, sia per partite in contenzioso sia per perdite stimate su indennità di portafoglio da assegnare.
+**Distrattori:**
+- 60.602 migliaia, sia per partite in contenzioso sia per perdite stimate su indennità di portafoglio da assegnare.
+- 111.506 migliaia, sia per partite in contenzioso sia per premi di fedeltà da erogare agli intermediari.
+- 111.506 migliaia, solo per perdite stimate su indennità di portafoglio già assegnate.
+
+**D:** ⚠️ Dove trovano contropartita a conto economico gli accantonamenti dei fondi rischi e oneri, secondo la slide 8 della lezione 43?
+**R:** «*Gli accantonamenti dei fondi rischi e oneri trovano contropartita nel conto economico **principalmente alla voce altri oneri** e alla voce **imposte sul reddito dell'esercizio**; il fondo di **solidarietà ed esodo del personale** nella voce degli **oneri straordinari**.*» (slide 8). I movimenti sono riepilogati nell'allegato 15. Nel conto non tecnico (lezione 39, slide 16–18) altri oneri, oneri straordinari e imposte sul reddito dell'esercizio sono le voci III.8, III.11 e III.14. ⚠️ Nello schema civilistico della lezione 10 gli accantonamenti vanno invece alle voci B12 e B13 (slide 9).
+**Opzione:** Principalmente negli altri oneri e nelle imposte sul reddito; quelli del fondo di solidarietà ed esodo del personale negli oneri straordinari.
+**Distrattori:**
+- Principalmente negli altri oneri e nelle imposte sul reddito; quelli del fondo di solidarietà ed esodo del personale nelle spese di gestione.
+- Principalmente negli oneri straordinari; quelli del fondo di solidarietà ed esodo del personale negli altri oneri e nelle imposte sul reddito.
+- Principalmente nelle voci B12 e B13; quelli del fondo di solidarietà ed esodo del personale negli oneri straordinari.
+
+**D:** ⚠️ Quali sanzioni ha irrogato la Consob con la delibera del 20 marzo 2014, secondo la slide 9 della lezione 43?
+**R:** «*In data 20/3/2014 la Consob ha emanato una delibera con la quale, non ritenendo meritevoli di accoglimento le difese delle parti, ha sanzionato: **Jonella Ligresti** al pagamento di euro **250.000** e all'interdizione per **quattro mesi**; **Emanuele Erbetta** al pagamento di euro **400.000** e all'interdizione per **otto mesi**; **UnipolSai** al pagamento di euro **650.000**.*» (slide 9). I procedimenti erano stati avviati il 19 aprile 2013 contro Fondiaria-SAI e Milano Assicurazioni, per addebiti sui bilanci consolidati 2010 (art. 187-ter, comma 1, del TUF). UnipolSai ha pagato agendo in regresso verso Ligresti, Erbetta ha pagato direttamente (slide 10). Il docente cita solo i 650.000 euro ([00:21:09]).
+**Opzione:** Ligresti 250.000 euro e interdizione per quattro mesi; Erbetta 400.000 euro e otto mesi; UnipolSai 650.000 euro.
+**Distrattori:**
+- Ligresti 400.000 euro e interdizione per otto mesi; Erbetta 250.000 euro e quattro mesi; UnipolSai 650.000 euro.
+- Ligresti 250.000 euro e interdizione per quattro mesi; Erbetta 400.000 euro e otto mesi; UnipolSai 27.500 euro.
+- Ligresti 250.000 euro e interdizione per otto mesi; Erbetta 400.000 euro e quattro mesi; UnipolSai 650.000 euro.
+
+**D:** ⚠️ Per quali gradi è passata l'impugnazione della sanzione Consob da parte di UnipolSai, secondo la slide 10 della lezione 43?
+**R:** UnipolSai «*ha comunque impugnato ritualmente il provvedimento innanzi alla **Corte d'Appello di Bologna** che, il 6 marzo 2015, ha respinto il ricorso*». Poi la **Corte di Cassazione**, che il 6 dicembre 2018 «*ha respinto il ricorso confermando il provvedimento sanzionatorio Consob*». Nel marzo 2019 la Società ha fatto ricorso alla **Corte Europea dei Diritti dell'Uomo (CEDU)**, chiedendo l'annullamento della sanzione per violazione del principio del **ne bis in idem**, «*in base al quale non è consentito sottoporre a procedimento sanzionatorio o giudiziale un soggetto più volte per il medesimo fatto*» (slide 10). ⚠️ La sanzione **IVASS** ha seguito un'altra strada: **TAR**, che ha respinto il ricorso il 9 settembre 2015, e **Consiglio di Stato**, che l'ha annullata il 21 febbraio 2019.
+**Opzione:** Corte d'Appello di Bologna (2015), Corte di Cassazione (2018), poi ricorso alla CEDU (2019) per il ne bis in idem.
+**Distrattori:**
+- TAR (2015), Consiglio di Stato (2018), poi ricorso alla CEDU (2019) per il ne bis in idem.
+- Corte d'Appello di Bologna (2015), Corte di Cassazione (2018), poi ricorso alla Corte costituzionale (2019) per il ne bis in idem.
+- Corte d'Appello di Bologna (2015), Corte di Cassazione (2018), che ha annullato la sanzione per il ne bis in idem.
+
+**D:** ⚠️ Che cosa riguardava la sanzione IVASS del 2014, e come si è conclusa, secondo la slide 10 della lezione 43?
+**R:** «*In data 2 luglio 2014 IVASS ha inviato a UnipolSai il provvedimento sanzionatorio al termine del procedimento avviato nel 2012 a carico di Unipol Assicurazioni avente a oggetto la **valutazione delle riserve sinistri dei rami R.C.Auto e Natanti**. La sanzione irrogata è pari a euro **27.500**.*» Il **TAR** ha respinto il ricorso il 9 settembre 2015; il **Consiglio di Stato**, il 21 febbraio 2019, «*accogliendo un'eccezione della Società, ha annullato la sanzione*», recuperata il 26 agosto 2021 (slide 10). Il docente ripete la sequenza ([00:21:09]). È la sanzione che smentisce la soglia dei 100.000 euro del test (domanda 5).
+**Opzione:** La valutazione delle riserve sinistri R.C. Auto e Natanti: 27.500 euro, annullata dal Consiglio di Stato nel 2019 e recuperata nel 2021.
+**Distrattori:**
+- La valutazione delle riserve sinistri R.C. Auto e Natanti: 27.500 euro, confermata dal Consiglio di Stato nel 2019 e pagata nel 2021.
+- I processi assuntivi e liquidativi della R.C. Auto: 27.500 euro, annullata dal Consiglio di Stato nel 2019 e recuperata nel 2021.
+- La valutazione delle riserve sinistri R.C. Auto e Natanti: 650.000 euro, annullata dal Consiglio di Stato nel 2019 e recuperata nel 2021.
+
+**D:** ⚠️ Su che cosa vertono, per i processi assuntivi e liquidativi del ramo R.C. Auto, gli accertamenti ispettivi che l'IVASS ha avviato l'11 ottobre 2021, secondo la slide 10 della lezione 43?
+**R:** «*IVASS ha disposto l'avvio di accertamenti ispettivi volti alla verifica, in relazione ai **processi assuntivi e liquidativi del ramo R.C. Auto**, del **recepimento delle recenti disposizioni normative**, del **rispetto della convenzione Card** e dei **connessi aspetti di governo e controllo**.*» (slide 10). Il docente: accertamenti «sempre in relazione al ramo RC Auto, in relazione a una convenzione specifica, la cosiddetta convenzione CARD e ai connessi aspetti di governo e controllo» ([00:21:09]). Sono riportati in nota senza che ne sia derivata alcuna sanzione (test, domanda 5).
+**Opzione:** Il recepimento delle recenti disposizioni normative, il rispetto della convenzione Card e i connessi aspetti di governo e controllo.
+**Distrattori:**
+- Il recepimento delle recenti disposizioni normative, il rispetto della convenzione Card e la valutazione delle riserve sinistri dei Natanti.
+- Il recepimento delle recenti disposizioni normative, il rispetto della convenzione Card e la campagna promozionale #UnMesePerTe.
+- Le operazioni con parti correlate della famiglia Ligresti, il rispetto della convenzione Card e i connessi aspetti di governo e controllo.
+
+**D:** ⚠️ Con quali incarichi l'IVASS ha nominato nel 2012 il Commissario ad acta di Fondiaria-SAI, secondo la slide 11 della lezione 43?
+**R:** Con il **Provvedimento n. 3001 del 12 settembre 2012** l'IVASS «*ha nominato il Prof. **Matteo Caratozzolo** quale Commissario ad acta di Fondiaria-SAI*», anche quale Capogruppo, ritenuti sussistenti i presupposti dell'**art. 229** del D.Lgs. 7 settembre 2005, n. 209. L'aveva preceduto il Provvedimento n. 2985 del 15 giugno 2012, che contestava irregolarità sulle operazioni con **parti correlate** e dava quindici giorni per rimuoverne gli effetti. Gli incarichi sono quattro: (i) **individuare** specificamente i soggetti responsabili delle operazioni; (ii) **determinare il danno** patito; (iii) **promuovere** o far promuovere ogni iniziativa anche giudiziale per salvaguardare e reintegrare il patrimonio di Fondiaria-SAI e delle controllate; (iv) **esercitare i poteri** che spettano a Fondiaria-SAI quale Capogruppo e quale socio nelle Assemblee delle controllate (slide 11). Le operazioni erano soprattutto immobiliari, nel periodo 2003–2011.
+**Opzione:** Individuare specificamente i soggetti responsabili delle operazioni, determinare il danno patito, promuovere o far promuovere ogni iniziativa anche giudiziale per salvaguardare e reintegrare il patrimonio, esercitare i poteri che spettano a Fondiaria-SAI quale Capogruppo e quale socio nelle Assemblee delle controllate.
+**Distrattori:**
+- Individuare specificamente i soggetti responsabili delle operazioni, determinare il danno patito, promuovere o far promuovere ogni iniziativa anche giudiziale per salvaguardare e reintegrare il patrimonio, approvare il bilancio di Fondiaria-SAI in luogo del Consiglio di Amministrazione.
+- Il recepimento delle recenti disposizioni normative, il rispetto della convenzione Card e i connessi aspetti di governo e controllo.
+- Ha accettato gli impegni proposti dalla Compagnia e chiuso il procedimento senza accertamento di infrazioni e senza sanzioni.
+
+**D:** ⚠️ Come si è chiuso il procedimento dell'AGCM sulla campagna #UnMesePerTe, secondo la slide 15 della lezione 43?
+**R:** L'8 maggio 2020 l'**Autorità Garante della Concorrenza e del Mercato** avvia un procedimento sulla campagna «#UnMesePerTe», per messaggi pubblicitari che «*non avrebbero avuto i connotati di chiarezza e trasparenza richiesti*». UnipolSai propone impegni il 26 giugno 2020, integrati il 6 novembre 2020. «*Con provvedimento assunto in data 26 febbraio 2021, l'AGCM ha **accettato gli impegni** proposti dalla Compagnia e ha definito il procedimento **senza accertamento di infrazioni** e, quindi, **senza comminazione di sanzioni**.*» (slide 15). ⚠️ Il docente dice che l'AGCM «ha emesso una serie di sanzioni a carico di Unipol Sai, in particolare per la campagna promozionale Un Mese per Te» ([00:23:52]): fa testo la slide. È ancora in corso il secondo procedimento, avviato il 26 novembre 2020, sulla liquidazione dei sinistri R.C. Auto: accesso agli atti, criteri di quantificazione del danno, termini dell'art. 148 del CAP (slide 16).
+**Opzione:** Ha accettato gli impegni proposti dalla Compagnia e chiuso il procedimento senza accertamento di infrazioni e senza sanzioni.
+**Distrattori:**
+- Ha respinto gli impegni proposti dalla Compagnia e chiuso il procedimento con l'accertamento di infrazioni e una sanzione.
+- Ha accettato gli impegni proposti dalla Compagnia e chiuso il procedimento senza accertamento di infrazioni, ma con una sanzione ridotta.
+- Ha accettato gli impegni proposti dalla Compagnia, ma il procedimento è tuttora in corso.
+
+## Lezione 44 — La Nota integrativa del bilancio della compagnia di assicurazioni. Le altre voci del passivo
+
+**D:** ⚠️ Gli eventuali accertamenti subiti dall'Autorità Garante della Concorrenza e del Mercato debbono essere riportati in nota integrativa, secondo il test della lezione 44 (domanda 1)?
+**R:** **Sì.** Il docente apre la lezione così: la compagnia «ha l'obbligo di riportare specificamente i contenziosi in corso soprattutto con le autorità sia di settore», cioè l'IVASS, «sia con le altre autorità, quindi con la Consob o con l'autorità garante della concorrenza del mercato» ([00:00:25]). La slide 2 riporta il procedimento su #UnMesePerTe, chiuso il 26 febbraio 2021 «*senza comminazione di sanzioni*», e quello sulla liquidazione dei sinistri R.C. Auto, ancora in corso. ⚠️ Il vicino aggiunge una soglia di 100.000 euro che nei materiali non esiste: è lo stesso distrattore della domanda 5 del test 43, sugli accertamenti IVASS. Distrattori del test: «solo se l'accertamento ha portato alla emissione di una sanzione superiore a 100.000 euro», «no», «a discrezione del compilatore del bilancio».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo se l'accertamento ha portato alla emissione di una sanzione superiore a 100.000 euro.
+- No.
+- A discrezione del compilatore del bilancio.
+
+**D:** ⚠️ Dove vanno inseriti i depositi ricevuti da riassicuratori, secondo il test della lezione 44 (domanda 2)?
+**R:** **Nel passivo**: sono la classe **F**, «*Depositi ricevuti da riassicuratori*», 122.160 migliaia nel 2021 (slide 2), 122.160.473 euro nello schema (lezione 39, slide 10). La slide 7 li chiama «*la voce F del passivo*». Per il docente nascono dalla riassicurazione passiva e per la cedente sono «debiti potenziali» ([00:03:43]). ⚠️ Il vicino è «nell'attivo», dove sta il deposito speculare, i **depositi presso imprese cedenti** (C.IV), che la slide 2 richiama per la durata. Distrattori del test: «nell'attivo», «nel patrimonio netto», «nel conto economico».
+**Opzione:** Nel passivo.
+**Distrattori:**
+- Nell'attivo.
+- Nel patrimonio netto.
+- Nel conto economico.
+
+**D:** ⚠️ Dove vanno inseriti i debiti ed altre passività, secondo il test della lezione 44 (domanda 3)?
+**R:** **Nel passivo**: sono la classe **G**, «*Debiti ed altre passività*», 1.618.349 migliaia al 31 dicembre 2021, +2,6% (slide 3). La slide 7 parla dei debiti «*iscritti … nella voce G del passivo*». Per il docente è «una voce di chiusura» ([00:12:41]). ⚠️ Il vicino è «nell'attivo»: la stessa tabella della slide 7 espone i crediti delle voci C ed E dell'attivo. Distrattori del test: «nel patrimonio netto», «nell'attivo», «nel conto economico».
+**Opzione:** Nel passivo.
+**Distrattori:**
+- Nel patrimonio netto.
+- Nell'attivo.
+- Nel conto economico.
+
+**D:** ⚠️ Dove vanno inseriti i conti d'ordine, secondo il test della lezione 44 (domanda 4)?
+**R:** **Solo in nota integrativa**: «*Garanzie, impegni, passività potenziali e altri conti d'ordine*» è un paragrafo della nota integrativa, con un totale di 51.803.314 migliaia (slide 8–11). Lo schema di stato patrimoniale si chiude con il totale del passivo e del patrimonio netto, senza conti d'ordine in calce (lezione 39, slide 10). La slide 5 della lezione 05 lo dice per il leasing: «*solo conti d'ordine nella nota integrativa*». ⚠️ Il docente li dice «riportati sotto il totale dell'attivo e del passivo» ([00:21:22]), ma aggiunge che «non incidono» sui saldi. Il vicino è «nel passivo», perché il paragrafo comprende garanzie, impegni e passività potenziali. Distrattori del test: «nel patrimonio netto», «nell'attivo», «nel passivo».
+**Opzione:** Solo in nota integrativa.
+**Distrattori:**
+- Nel patrimonio netto.
+- Nell'attivo.
+- Nel passivo.
+
+**D:** ⚠️ Dove vanno inserite le informazioni sugli strumenti finanziari derivati, secondo il test della lezione 44 (domanda 5)?
+**R:** **In nota integrativa**: «*Informazioni sugli strumenti finanziari derivati*» è un paragrafo della nota integrativa di UnipolSai, con finalità, metodi di valutazione, modelli, parametri e posizioni aperte (slide 12–14). Il fair value dei derivati si indica «*secondo quanto previsto dall'art. 2427-bis del Codice Civile*» (lezione 40, slide 6). ⚠️ Il vicino è la **relazione sulla gestione**, a cui la slide 7 rinvia per le imprese del Gruppo e in cui la lezione 38 colloca le politiche di gestione dei rischi (art. 2428). La «delibera» richiama quella del Consiglio di Amministrazione che elenca i derivati ammessi (slide 12), che non è la delibera di approvazione del bilancio. Distrattori del test: «nella delibera di approvazione del bilancio», «nella relazione sulla gestione», «nella relazione del revisore».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella delibera di approvazione del bilancio.
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+
+**D:** ⚠️ Su che cosa verte il secondo procedimento dell'AGCM contro UnipolSai, notificato il 26 novembre 2020, e come è stato esteso, secondo la slide 2 della lezione 44?
+**R:** «*In data 26 novembre 2020, l'AGCM ha notificato a UnipolSai Assicurazioni l'avvio di un secondo procedimento istruttorio avente ad oggetto l'attività di **liquidazione dei sinistri R.C. Auto**, caratterizzata da un presunto **ostacolo al diritto dei consumatori di accedere agli atti dei fascicoli** e dalla **mancata indicazione dei criteri di quantificazione del danno** nella fase di formulazione dell'offerta risarcitoria. In data **16 aprile 2021** l'AGCM ha poi notificato l'estensione oggettiva di tale procedimento, contestando il mancato rispetto dei **termini di legge ex art. 148 del CAP** per la liquidazione/contestazione dei sinistri R.C. Auto.*» Il procedimento «*è tuttora in corso*». ⚠️ Il CAP è il Codice delle Assicurazioni Private. Per il docente le contestazioni vengono «dagli assicurati» ([00:01:42]); nella slide le muove l'AGCM.
+**Opzione:** La liquidazione dei sinistri R.C. Auto: presunto ostacolo all'accesso agli atti dei fascicoli e mancata indicazione dei criteri di quantificazione del danno; esteso poi ai termini dell'art. 148 del CAP.
+**Distrattori:**
+- La liquidazione dei sinistri R.C. Auto: presunto ostacolo all'accesso agli atti dei fascicoli e mancata indicazione dei criteri di quantificazione del danno; esteso poi ai termini dell'art. 148 del TUF.
+- Nessuna passività potenziale ex art. 2427 c.c.; altri conti d'ordine 9.334, soprattutto depositi per libretti su sinistri pagati.
+- Gli strumenti finanziari derivati, 4.948.676 migliaia, connessi interamente ad investimenti di classe C.
+
+**D:** ⚠️ Che cosa comprende la voce F «Depositi ricevuti da riassicuratori» del passivo di UnipolSai, secondo la slide 2 della lezione 44?
+**R:** «*La voce comprende i **depositi costituiti a garanzia presso la Società** in relazione ai **rischi ceduti** e a quelli **retroceduti**, che passano da 127.337 migliaia di euro (il dato al 31 dicembre 2020) a 122.160 migliaia di euro alla fine del 2021, con una variazione in diminuzione di 5.177 migliaia di euro (−4,1%).*» Per la durata la slide rinvia alla voce C.IV dell'attivo, i **depositi presso imprese cedenti**: il deposito speculare, che UnipolSai costituisce quando è riassicuratrice, «*in relazione a rischi assunti in riassicurazione*» (lezione 40, slide 6). ⚠️ Il docente nomina solo i rischi ceduti ([00:03:43]).
+**Opzione:** I depositi costituiti a garanzia presso la Società in relazione ai rischi ceduti e a quelli retroceduti.
+**Distrattori:**
+- I depositi costituiti a garanzia presso le imprese cedenti in relazione ai rischi assunti e a quelli retroceduti.
+- I depositi costituiti a garanzia presso la Società in relazione ai soli rischi ceduti.
+- I depositi costituiti a garanzia presso i riassicuratori in relazione ai rischi ceduti e a quelli retroceduti.
+
+**D:** ⚠️ Come sono considerati, quanto all'esigibilità, i debiti della voce F (Depositi ricevuti da riassicuratori) nella tabella dei crediti e debiti, secondo la slide 7 della lezione 44?
+**R:** «*Per quanto riguarda la voce F del passivo (Depositi ricevuti da riassicuratori) e facendo riferimento a quanto esposto nel relativo paragrafo, si considerano i debiti ivi registrati **tutti esigibili entro l'esercizio successivo**.*» Nella tabella compaiono infatti con il solo saldo, 122.160 migliaia, senza importi oltre il 31/12/2022 o oltre il 31/12/2026. La tabella espone i crediti delle voci C ed E dell'attivo e i debiti della voce G del passivo, distinguendo quelli esigibili oltre l'esercizio successivo e, separatamente, oltre i cinque anni. ⚠️ Nella riclassificazione della lezione 23 i depositi ricevuti da riassicuratori stanno fra le passività consolidate.
+**Opzione:** Tutti esigibili entro l'esercizio successivo.
+**Distrattori:**
+- Tutti esigibili oltre l'esercizio successivo.
+- Esigibili oltre l'esercizio successivo, e in parte oltre i cinque anni.
+- Tutti ad utilizzo durevole.
+
+**D:** ⚠️ Che cosa sono, per il docente della lezione 44, i depositi ricevuti da riassicuratori nel bilancio della compagnia cedente?
+**R:** Siamo nella **riassicurazione passiva**. La cedente paga i premi al riassicuratore, che li incassa ma «dovrà costituire un **deposito cauzionale** a garanzia dei successivi eventuali obblighi di indennizzo a favore della compagnia che ha ceduto i premi e i contratti». Per la cedente questi depositi «sono dei **debiti potenziali**», somme ricevute in attesa che si verifichino i sinistri ([00:03:28]–[00:03:43]). Al sinistro c'è un doppio trasferimento: il riassicuratore indennizza la compagnia riassicurata, che paga il danneggiato.
+**Opzione:** Depositi cauzionali che il riassicuratore costituisce presso la cedente a garanzia degli eventuali indennizzi futuri: per la cedente sono debiti potenziali.
+**Distrattori:**
+- Depositi cauzionali che il riassicuratore costituisce presso la cedente a garanzia degli eventuali indennizzi futuri: per la cedente sono crediti potenziali.
+- Cedono soprattutto piccole compagnie o compagnie iper specializzate, per migliorare il profilo di rischio; accettano grandi compagnie internazionali, il cui rischio medio non cambia.
+- La liquidazione dei sinistri R.C. Auto: presunto ostacolo all'accesso agli atti dei fascicoli e mancata indicazione dei criteri di quantificazione del danno; esteso poi ai termini dell'art. 148 del CAP.
+
+**D:** ⚠️ Che cosa distingue la riassicurazione attiva dalla riassicurazione passiva, secondo il docente della lezione 44?
+**R:** «Ciò che ci interessa a noi perché ha un riflesso diretto sul bilancio sono le **riassicurazioni attive**, cioè io sono la compagnia che **riceve** le polizze, o le **riassicurazioni passive**, cioè io sono la compagnia che **cede** le polizze a un'altra compagnia» ([00:06:36]). I depositi ricevuti da riassicuratori (voce F) nascono dalla riassicurazione passiva ([00:03:28]). I depositi presso imprese cedenti (C.IV) nascono da quella attiva (lezione 40, [00:15:43]).
+**Opzione:** Nell'attiva la compagnia riceve le polizze cedute da un'altra compagnia; nella passiva cede le proprie polizze a un'altra compagnia.
+**Distrattori:**
+- Nell'attiva la compagnia cede le proprie polizze a un'altra compagnia; nella passiva riceve le polizze cedute da un'altra compagnia.
+- Il rischio è ripartito pro quota fra più compagnie sin dall'origine, e l'assicurato sa di essere assicurato da più compagnie.
+- Più contratti distinti stipulati dall'assicurato sullo stesso rischio, all'insaputa delle compagnie.
+
+**D:** ⚠️ Che cos'è la coassicurazione, e che cosa ne sa l'assicurato, secondo il docente della lezione 44?
+**R:** È «cosa ben diversa, da tenere ben distinta dalla riassicurazione»: la sistemazione del premio «è già **ripartita fra più compagnie** assicuratrici **sin dall'origine** e l'assicurato **è a conoscenza** del fatto che il suo rischio è assicurato contemporaneamente **pro quota** da più compagnie» ([00:05:29]–[00:06:36]). Riguarda i grandi rischi: nell'esempio delle ginocchia di Messi, dieci compagnie al 10% del rischio ricevono ciascuna il 10% del premio. Nella riassicurazione invece l'assicurato «non viene mai a conoscenza» della cessione ([00:05:29]). ⚠️ Sono le chiavi delle domande 5 e 4 del test 37, che qui trovano riscontro nel transcript.
+**Opzione:** Il rischio è ripartito pro quota fra più compagnie sin dall'origine, e l'assicurato sa di essere assicurato da più compagnie.
+**Distrattori:**
+- Il rischio è ripartito pro quota fra più compagnie sin dall'origine, e l'assicurato non sa di essere assicurato da più compagnie.
+- Nell'attiva la compagnia riceve le polizze cedute da un'altra compagnia; nella passiva cede le proprie polizze a un'altra compagnia.
+- Più contratti distinti stipulati dall'assicurato sullo stesso rischio, all'insaputa delle compagnie.
+
+**D:** ⚠️ Che cos'è la contro-assicurazione, secondo il docente della lezione 44?
+**R:** È «un'operazione che viene fatta dall'**assicurato** che appunto fa **più distinti contratti** di assicurazione»; l'assicurato «fa più assicurazioni in cui ognuna è relativa allo **stesso rischio**», e «in quel caso sono **le compagnie che non sanno** di essere l'una assicurata contro l'altra» ([00:06:36]). Per il docente riassicurazione, coassicurazione e contro-assicurazione sono «tre termini completamente diversi». ⚠️ È la terminologia del docente, che la nota discute in un'integrazione ℹ️.
+**Opzione:** Più contratti distinti stipulati dall'assicurato sullo stesso rischio, all'insaputa delle compagnie.
+**Distrattori:**
+- Più contratti distinti stipulati dalla compagnia sullo stesso rischio, all'insaputa degli assicurati.
+- Cedono soprattutto piccole compagnie o compagnie iper specializzate, per migliorare il profilo di rischio; accettano grandi compagnie internazionali, il cui rischio medio non cambia.
+- Nell'attiva la compagnia riceve le polizze cedute da un'altra compagnia; nella passiva cede le proprie polizze a un'altra compagnia.
+
+**D:** ⚠️ Quali compagnie cedono contratti in riassicurazione e quali li accettano, e perché, secondo il docente della lezione 44?
+**R:** Una compagnia cede «per **migliorare il suo profilo di rischio**», cioè i contratti che non rientrano nei parametri che vuole gestire: nella R.C. Auto, per esempio, i **maschi fra i 18 e i 30 anni** ([00:06:36]). Cedono soprattutto «**piccole compagnie** o compagnie **iper specializzate** in alcuni rami». Accettano compagnie «di ordine **internazionale** o addirittura mondiale», con una platea di assicurati così estesa che migliaia di contratti più rischiosi «non modifica il livello di rischio medio» ([00:10:34]–[00:12:33]).
+**Opzione:** Cedono soprattutto piccole compagnie o compagnie iper specializzate, per migliorare il profilo di rischio; accettano grandi compagnie internazionali, il cui rischio medio non cambia.
+**Distrattori:**
+- Cedono soprattutto grandi compagnie internazionali, per migliorare il profilo di rischio; accettano piccole compagnie o compagnie iper specializzate, il cui rischio medio non cambia.
+- Depositi cauzionali che il riassicuratore costituisce presso la cedente a garanzia degli eventuali indennizzi futuri: per la cedente sono debiti potenziali.
+- Conti di memoria che non incidono sui saldi dell'attivo e del passivo, ma evidenziano garanzie, impegni, potenziali passività future e beni propri presso terzi o di terzi presso di noi.
+
+**D:** ⚠️ Quali sottovoci, nell'ordine, ha la tabella dei debiti ed altre passività (voce G) di UnipolSai 2021, secondo la slide 3 della lezione 44?
+**R:** «*G.I Debiti da operazioni di assicurazione diretta 63.506; G.II Debiti da operazioni di riassicurazione 57.778; G.VI Prestiti diversi e altri debiti finanziari 11.746; G.VII Trattamento di fine rapporto di lavoro subordinato 38.570; G.VIII Altri debiti 544.264; G.IX Altre passività 902.486*», in tutto **1.618.349** migliaia, +40.513 (+2,6%). Le sottovoci G.III prestiti obbligazionari, G.IV debiti verso banche e istituti finanziari e G.V debiti con garanzia reale sono vuote, e la tabella non le riporta (lezione 39, slide 10). ⚠️ Il **TFR** sta fra i debiti, alla G.VII. Per il docente la voce G è «una voce di chiusura» ([00:12:41]).
+**Opzione:** Debiti da operazioni di assicurazione diretta; debiti da operazioni di riassicurazione; prestiti diversi e altri debiti finanziari; trattamento di fine rapporto; altri debiti; altre passività.
+**Distrattori:**
+- Debiti da operazioni di assicurazione diretta; debiti da operazioni di riassicurazione; debiti verso banche e istituti finanziari; trattamento di fine rapporto; altri debiti; altre passività.
+- Progetti di sviluppo e integrazione 245.161, software e licenze 57.223, migliorie su beni di terzi 6.000, altri oneri pluriennali 88.
+- Titoli emessi da Stati ed enti pubblici quotati 59,7%, altri titoli quotati 38,4%.
+
+**D:** ⚠️ Di che cosa è composta la voce G.VI «prestiti diversi e altri debiti finanziari» al 31 dicembre 2021, secondo la slide 3 della lezione 44?
+**R:** «*La voce G.VI "prestiti diversi e altri debiti finanziari", pari a **11.746** migliaia di euro al 31 dicembre 2021, si riferisce interamente a debiti di natura finanziaria. In particolare la voce è composta da **4.188** migliaia di euro relative a due **Cross currency swap** e da **7.558** migliaia di euro relative ai **premi incassati su due opzioni call** su indici azionari.*» ⚠️ Sono i premi **incassati**: per i criteri della lezione 40 (slide 6) quelli **pagati** stanno nella C.III.7 dell'attivo. Le 2 opzioni sono le 2 vendite di opzioni call del prospetto dei derivati, e i 4.188 sono il fair value negativo dei 2 cross currency swap (slide 14). Gli asset swap stanno invece fra le passività finanziarie della G.IX.
+**Opzione:** 4.188 migliaia per due cross currency swap e 7.558 per i premi incassati su due opzioni call su indici azionari.
+**Distrattori:**
+- 4.188 migliaia per due cross currency swap e 7.558 per i premi pagati su due opzioni call su indici azionari.
+- 7.558 migliaia per due cross currency swap e 4.188 per i premi incassati su due opzioni call su indici azionari.
+- 4.188 migliaia per due asset swap e 7.558 per i premi incassati su due opzioni call su indici azionari.
+
+**D:** ⚠️ Dove sta e quanto vale il trattamento di fine rapporto nel passivo di UnipolSai 2021, e dove ne sono dettagliate le variazioni, secondo la slide 3 della lezione 44?
+**R:** È la voce **G.VII** dei debiti ed altre passività, «*Trattamento di fine rapporto di lavoro subordinato*»: **38.570** migliaia (42.116 nel 2020). «*Le variazioni intervenute nel periodo … sono dettagliate nell'**allegato 15**. Le utilizzazioni relative a tale fondo sono rappresentate principalmente da **liquidazioni** effettuate per **40.404** migliaia di euro.*» ⚠️ Non sta fra i fondi per rischi e oneri della voce E (lezione 39, slide 10). L'allegato 16 è quello delle imprese del Gruppo (slide 7). Il docente non ne parla.
+**Opzione:** Nella voce G.VII dei debiti, per 38.570 migliaia; le variazioni sono nell'allegato 15.
+**Distrattori:**
+- Nella voce G.VII dei debiti, per 38.570 migliaia; le variazioni sono nell'allegato 16.
+- Nella voce E dei fondi per rischi e oneri, per 38.570 migliaia; le variazioni sono nell'allegato 15.
+- Nella voce G.VII dei debiti, per 42.116 migliaia; le variazioni sono nell'allegato 15.
+
+**D:** ⚠️ Quali sono le quattro sottovoci degli altri debiti (voce G.VIII) di UnipolSai 2021, con i saldi, secondo la slide 4 della lezione 44?
+**R:** «*G.VIII.1 "debiti per imposte a carico degli assicurati"*», **152.103**: imposte sulle assicurazioni 123.628 e debito verso il S.S.N. 28.476. «*G.VIII.2 "debiti per oneri tributari diversi"*», **54.111**: IRAP 22.521, oneri tributari relativi al personale 15.251, altre ritenute d'acconto 9.433. «*G.VIII.3 "Altri debiti verso enti assistenziali e previdenziali"*», **30.861**: cassa di previdenza agenti 12.251, INPS 18.610. «*G.VIII.4 "debiti diversi"*», **307.189**. In tutto **544.264** migliaia, +40.002. ⚠️ I **fornitori** (54.792) sono una riga dei debiti diversi, non una sottovoce. I debiti per imposte a carico degli assicurati sono importi «che deve pagare la compagnia» ([00:14:56]).
+**Opzione:** Debiti per imposte a carico degli assicurati 152.103; debiti per oneri tributari diversi 54.111; altri debiti verso enti assistenziali e previdenziali 30.861; debiti diversi 307.189.
+**Distrattori:**
+- Debiti per imposte a carico degli assicurati 152.103; debiti per oneri tributari diversi 54.111; altri debiti verso enti assistenziali e previdenziali 30.861; debiti verso fornitori 307.189.
+- Acquisti e sottoscrizioni 210.247, vendite (20), rettifiche nette di valore (634), altre variazioni in diminuzione (62.084).
+- Durevoli 20.380.043, con un fair value di 24.362.746; a breve 10.731.185 migliaia di euro.
+
+**D:** ⚠️ Qual è la riga maggiore dei debiti diversi (voce G.VIII.4), e quale esposizione contiene, secondo la slide 4 della lezione 44?
+**R:** **Società del Gruppo**, **152.004** migliaia (92.860 nel 2020), su un totale di 307.189 (+12,2%). Contiene «*l'esposizione verso la consolidante **Unipol Gruppo** per il **saldo Ires** dovuto per l'esercizio in corso per un importo pari a **137.322** migliaia di euro*». Le altre righe: fornitori 54.792 (−27.665), gestione sinistri 7.869, intermediari finanziari 58.820, depositi cauzionali e anticipi versati 14.055, altri 19.650. «*Trattasi prevalentemente di debiti di breve durata*». Per il docente il saldo IRES è dovuto perché il gruppo esercita l'opzione per il consolidato fiscale ([00:14:56]). ⚠️ L'**IRAP** sta invece fra gli oneri tributari diversi (G.VIII.2, 22.521).
+**Opzione:** Società del Gruppo, 152.004 migliaia, di cui 137.322 verso la consolidante Unipol Gruppo per il saldo IRES dell'esercizio.
+**Distrattori:**
+- Società del Gruppo, 152.004 migliaia, di cui 137.322 verso la consolidante Unipol Gruppo per il saldo IRAP dell'esercizio.
+- Intermediari finanziari, 58.820 migliaia, raddoppiati rispetto ai 29.330 del 2020.
+- Fornitori, 54.792 migliaia, in calo di 27.665 rispetto al 2020.
+
+**D:** ⚠️ Quali sono, nell'ordine, le righe della tabella delle altre passività (voce G.IX) di UnipolSai 2021, secondo la slide 5 della lezione 44?
+**R:** «*Provvigioni per premi in corso di riscossione; Passività finanziarie; Accantonamenti per costi del personale; Incentivi e contributi alla rete agenziale; Fatture da ricevere; Conto di collegamento Danni/Vita; Partite tecniche di riassicurazione; Passività inerenti le contabilità tecniche; Passività varie*», in tutto **902.486** migliaia (−3.606, −0,4%). La riga maggiore sono gli incentivi e contributi alla rete agenziale (194.103), poi le passività finanziarie (188.758). Le provvigioni per premi in corso di riscossione (87.260) sono la G.IX.2 dello schema, le altre otto righe la G.IX.3 «*Passività diverse*» (lezione 39, slide 10). ⚠️ Le **provvigioni di acquisizione da ammortizzare** non sono una passività: sono un attivo immateriale (B.1).
+**Opzione:** Provvigioni per premi in corso di riscossione; passività finanziarie; accantonamenti per costi del personale; incentivi e contributi alla rete agenziale; fatture da ricevere; conto di collegamento Danni/Vita; partite tecniche di riassicurazione; passività inerenti le contabilità tecniche; passività varie.
+**Distrattori:**
+- Provvigioni di acquisizione da ammortizzare; passività finanziarie; accantonamenti per costi del personale; incentivi e contributi alla rete agenziale; fatture da ricevere; conto di collegamento Danni/Vita; partite tecniche di riassicurazione; passività inerenti le contabilità tecniche; passività varie.
+- Immobili ad uso strumentale, immobili ad uso terzi, altri immobili, altri diritti reali; il maggiore è l'uso terzi, con 649.821 netti.
+- Debiti da operazioni di assicurazione diretta; debiti da operazioni di riassicurazione; prestiti diversi e altri debiti finanziari; trattamento di fine rapporto; altri debiti; altre passività.
+
+**D:** ⚠️ Come sono composte le passività finanziarie (188.758 migliaia) fra le altre passività (voce G.IX), secondo la slide 5 della lezione 44?
+**R:** «*contropartita delle valutazioni di **asset swaps** per **182.562** migliaia di euro; contropartita delle valutazioni di **forward divise** per **4.179** migliaia di euro; **margini di variazione netti incassati** pari a **2.016** migliaia di euro.*» Per il docente sono «le contropartite alle valutazioni di swap o di forward», cioè di contratti derivati, e le variazioni dei margini netti incassati alla chiusura di operazioni di copertura ([00:17:13]). ⚠️ I due cross currency swap e i premi delle opzioni call non stanno qui ma nella G.VI.
+**Opzione:** Contropartita delle valutazioni di asset swaps 182.562, di forward divise 4.179, margini di variazione netti incassati 2.016.
+**Distrattori:**
+- Contropartita delle valutazioni di forward divise 182.562, di asset swaps 4.179, margini di variazione netti incassati 2.016.
+- Contropartita delle valutazioni di asset swaps 182.562, di forward divise 4.179, margini di variazione netti pagati 2.016.
+- Contropartita delle valutazioni di cross currency swap 182.562, di forward divise 4.179, margini di variazione netti incassati 2.016.
+
+**D:** ⚠️ Qual è la componente maggiore dei ratei e risconti passivi (voce H) di UnipolSai 2021, secondo la slide 6 della lezione 44?
+**R:** Gli **interessi su prestiti subordinati**, **46.229** migliaia (47.761 nel 2020), su un totale di **74.656** (+16.704, +28,8%). Seguono gli **strumenti finanziari derivati**, 28.111, che con +18.424 spiegano tutto l'aumento; poi interessi su prestiti polizze Vita 206, ratei e risconti diversi 97, affitti/subaffitti 14. Quasi tutto sono **ratei** per interessi, 74.548; i **risconti** sono 108, di cui 14 per canoni di locazione e 94 altri. Per il docente i ratei passivi riguardano «sostanzialmente» le cedole sui prestiti obbligazionari emessi, e i risconti i canoni di locazione attivi incassati in anticipo ([00:18:39]–[00:20:11]).
+**Opzione:** Gli interessi su prestiti subordinati, 46.229 migliaia.
+**Distrattori:**
+- Gli strumenti finanziari derivati, 28.111 migliaia.
+- Gli interessi su prestiti polizze Vita, 46.229 migliaia.
+- Gli interessi su prestiti subordinati, 74.548 migliaia.
+
+**D:** ⚠️ Che cos'è «UnipolSai Previdenza Futura», e come si qualificano le risorse delle forme pensionistiche individuali, secondo la slide 8 della lezione 44?
+**R:** «*Al 31 dicembre 2021 UnipolSai Assicurazioni ha in essere la **forma pensionistica individuale**, di cui all'**art. 13, comma 1, del D.Lgs. 252/05**, denominata "UnipolSai Previdenza Futura" di tipo **multiramo** con prestazioni collegate, nella fase di accumulo, alla **gestione separata Previattiva UnipolSai** e/o alle quotazioni del **fondo interno PreviGlobale**. Le risorse relative alle forme pensionistiche individuali costituiscono **patrimonio autonomo e separato** all'interno della Compagnia.*» Per il docente sono i **PIP** ([00:21:22]). ⚠️ È il D.Lgs. 252/05, non il D.Lgs. 209/2005 del Codice delle Assicurazioni.
+**Opzione:** La forma pensionistica individuale dell'art. 13, comma 1, del D.Lgs. 252/05, multiramo, collegata alla gestione separata Previattiva UnipolSai e/o al fondo interno PreviGlobale; le risorse sono patrimonio autonomo e separato.
+**Distrattori:**
+- La forma pensionistica individuale dell'art. 13, comma 1, del D.Lgs. 209/05, multiramo, collegata alla gestione separata Previattiva UnipolSai e/o al fondo interno PreviGlobale; le risorse sono patrimonio autonomo e separato.
+- Unicamente alla copertura del rischio di posizione titoli e del rischio di cambio o all'ottimizzazione della gestione di portafoglio, escludendo fini puramente speculativi, nel rispetto del Regolamento IVASS n. 24/2016.
+- Con una valutazione analitica prudente del loro probabile valore di realizzo.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 garanzie, impegni, passività potenziali e altri conti d'ordine di UnipolSai, e quali sono le due componenti principali, secondo la slide 8 della lezione 44?
+**R:** «*L'importo complessivo al 31 dicembre 2021, pari a **51.803.314** migliaia di euro (+638.055 migliaia di euro rispetto al 31 dicembre 2020), è costituito principalmente dai **titoli depositati presso terzi** (**44.229.569** migliaia di euro) e dal **conto impegni** (**6.414.274** migliaia di euro).*» Il docente: «51 miliardi», «titoli depositati presso terzi, cioè i nostri beni presso terzi, per 44 miliardi e conti impegni per 6 miliardi» ([00:23:47]). I titoli presso terzi stanno soprattutto presso istituti bancari (38.774.922, slide 11).
+**Opzione:** 51.803.314 migliaia, soprattutto titoli depositati presso terzi 44.229.569 e impegni 6.414.274.
+**Distrattori:**
+- 51.803.314 migliaia, soprattutto titoli depositati presso terzi 6.414.274 e impegni 44.229.569.
+- 51.165.259 migliaia, soprattutto titoli depositati presso terzi 43.807.942 e impegni 5.761.020.
+- 51.803.314 migliaia, soprattutto titoli depositati presso terzi 44.229.569 e garanzie prestate da terzi 6.414.274.
+
+**D:** ⚠️ Che cosa sono i conti d'ordine per il docente della lezione 44?
+**R:** «Come noto i conti d'ordine sono quei conti che vengono riportati sotto il totale dell'attivo e del passivo, quindi **non incidono** direttamente» sui saldi dell'attivo e del passivo patrimoniale. Evidenziano le garanzie rilasciate o ricevute, gli impegni assunti o assunti da terzi nei nostri confronti, le potenziali passività future come le rate di leasing, i beni nostri presso terzi o di terzi presso di noi. Sono «i cosiddetti **conti di memoria**», che servono a dare «ulteriori elementi di conoscenza per chi legge il bilancio» ([00:21:22]). ⚠️ La collocazione «sotto il totale» è del docente: nelle slide i conti d'ordine stanno solo in nota integrativa (test, domanda 4).
+**Opzione:** Conti di memoria che non incidono sui saldi dell'attivo e del passivo, ma evidenziano garanzie, impegni, potenziali passività future e beni propri presso terzi o di terzi presso di noi.
+**Distrattori:**
+- Conti di memoria che incidono sui saldi dell'attivo e del passivo, perché evidenziano garanzie, impegni, potenziali passività future e beni propri presso terzi o di terzi presso di noi.
+- I depositi costituiti a garanzia presso la Società in relazione ai rischi ceduti e a quelli retroceduti.
+- L'avviamento (voce B.4), con 328.558 migliaia di euro.
+
+**D:** ⚠️ Quali sono, nell'ordine, le righe della tabella di garanzie, impegni e altri conti d'ordine di UnipolSai 2021, secondo la slide 8 della lezione 44?
+**R:** «*Garanzie prestate: Fidejussioni; Garanzie prestate: Altre garanzie; Garanzie prestate: Garanzie reali; Garanzie ricevute: Fidejussioni; Garanzie ricevute: Garanzie reali; Garanzie prestate da terzi nell'interesse dell'impresa; Impegni; Beni di terzi; Attività di pertinenza dei f. di pens. gestiti in nome e per conto terzi; Titoli depositati presso terzi; Altri conti d'ordine*», in tutto 51.803.314 migliaia. Le garanzie prestate da terzi scendono da 750.030 a 187.134 per la cancellazione di 561.689 di garanzie di Unipol Gruppo sui prestiti subordinati rimborsati nel 2021 (slide 9; lezione 42). ⚠️ Le **passività potenziali** non hanno una riga: la slide 11 dice che non ce ne sono da segnalare ai sensi dell'art. 2427 c.c.
+**Opzione:** Garanzie prestate (fidejussioni, altre garanzie, garanzie reali); garanzie ricevute (fidejussioni, garanzie reali); garanzie prestate da terzi nell'interesse dell'impresa; impegni; beni di terzi; attività dei fondi pensione gestiti per conto terzi; titoli depositati presso terzi; altri conti d'ordine.
+**Distrattori:**
+- Garanzie prestate (fidejussioni, altre garanzie, garanzie reali); garanzie ricevute (fidejussioni, garanzie reali); garanzie prestate da terzi nell'interesse dell'impresa; impegni; beni di terzi; attività dei fondi pensione gestiti per conto terzi; titoli depositati presso terzi; passività potenziali.
+- Debiti per imposte a carico degli assicurati 152.103; debiti per oneri tributari diversi 54.111; altri debiti verso enti assistenziali e previdenziali 30.861; debiti diversi 307.189.
+- Contropartita delle valutazioni di asset swaps 182.562, di forward divise 4.179, margini di variazione netti incassati 2.016.
+
+**D:** ⚠️ Qual è la componente maggiore degli impegni di UnipolSai al 31 dicembre 2021, e a quali investimenti è connessa, secondo le slide 9–10 della lezione 44?
+**R:** Gli impegni per **strumenti finanziari derivati**, **4.948.676** migliaia su 6.414.274: «*sono connessi **interamente ad investimenti di classe C***» (slide 10). È l'esposizione complessiva del prospetto delle posizioni aperte in derivati (slide 14). Seguono i **capitali sottoscritti**, 1.186.841, ancora da versare sui fondi chiusi, «*di cui 54.615 migliaia di euro relativi alla **classe D***», il versamento su riserve tecniche Vita, 73.900, e gli altri impegni, 204.857.
+**Opzione:** Gli strumenti finanziari derivati, 4.948.676 migliaia, connessi interamente ad investimenti di classe C.
+**Distrattori:**
+- Gli strumenti finanziari derivati, 4.948.676 migliaia, connessi interamente ad investimenti di classe D.
+- I capitali sottoscritti, 1.186.841 migliaia, connessi interamente ad investimenti di classe C.
+- Gli strumenti finanziari derivati, 4.527.871 migliaia, connessi interamente ad investimenti di classe C.
+
+**D:** ⚠️ A che cosa si riferisce l'impegno «Versamento su riserve tecniche Vita» (73.900 migliaia), secondo la slide 10 della lezione 44?
+**R:** «*Le imposte da versare su riserve tecniche Vita sono riferite all'impegno di corresponsione dell'**imposta sostitutiva** dovuta per l'esercizio 2021 sulle **riserve matematiche**, ai sensi del **D.L. 209/2002**, da versare nell'anno **2022**.*» ⚠️ È il **D.L. 209/2002**, non il **D.Lgs. 209/2005**, il Codice delle Assicurazioni: stesso numero, testo diverso. Nel 2020 l'impegno era di 73.827.
+**Opzione:** All'imposta sostitutiva dovuta per il 2021 sulle riserve matematiche, ai sensi del D.L. 209/2002, da versare nel 2022.
+**Distrattori:**
+- All'imposta sostitutiva dovuta per il 2021 sulle riserve matematiche, ai sensi del D.Lgs. 209/2005, da versare nel 2022.
+- All'imposta sostitutiva dovuta per il 2021 sulle riserve sinistri, ai sensi del D.L. 209/2002, da versare nel 2022.
+- All'imposta sostitutiva dovuta per il 2021 sulle riserve matematiche, ai sensi del D.L. 209/2002, già versata nel 2021.
+
+**D:** ⚠️ Che cosa dice la nota integrativa di UnipolSai sulle passività potenziali al 31 dicembre 2021, e che cosa sono gli altri conti d'ordine, secondo la slide 11 della lezione 44?
+**R:** «*Gli altri conti d'ordine, il cui saldo al 31 dicembre 2021 ammonta a **9.334** migliaia di euro, sono costituiti principalmente da **depositi per libretti su sinistri pagati**. Alla data del 31 dicembre 2021 **non risultano passività potenziali** da segnalare ai sensi dell'**art. 2427 del Codice Civile**.*» ⚠️ L'art. 2427 è quello della nota integrativa. L'art. 2428 è la relazione sulla gestione (lezione 04), l'art. 2427-bis il fair value dei derivati (lezione 40, slide 6).
+**Opzione:** Nessuna passività potenziale ex art. 2427 c.c.; altri conti d'ordine 9.334, soprattutto depositi per libretti su sinistri pagati.
+**Distrattori:**
+- Nessuna passività potenziale ex art. 2428 c.c.; altri conti d'ordine 9.334, soprattutto depositi per libretti su sinistri pagati.
+- Passività potenziali ex art. 2427 c.c. per 9.334, soprattutto depositi per libretti su sinistri pagati.
+- Nessuna passività potenziale ex art. 2427 c.c.; altri conti d'ordine 9.334, soprattutto titoli ottenuti in garanzia dai riassicuratori.
+
+**D:** ⚠️ A quali finalità è stato rivolto nel 2021 l'utilizzo degli strumenti finanziari derivati di UnipolSai, e nel rispetto di quale regolamento, secondo la slide 12 della lezione 44?
+**R:** «*Nel rispetto delle disposizioni emanate dall'IVASS (**Regolamento n. 24 del 6 giugno 2016**) e coerentemente con le linee di indirizzo stabilite dal Consiglio di Amministrazione della Società, l'utilizzo di strumenti finanziari derivati nel corso dell'anno è stato rivolto **unicamente** a finalità di puro intento di **copertura del rischio di posizione titoli e del rischio di cambio** o di **ottimizzazione della gestione di portafoglio**, **escludendo fini puramente speculativi**.*» Gli strumenti sono quelli «*elencati nella delibera del Consiglio di Amministrazione*», le controparti «*di natura bancaria o assimilata, di comprovata affidabilità*». ⚠️ Nella lezione 40 (slide 6) i derivati erano definiti dal Regolamento ISVAP n. 36/2011.
+**Opzione:** Unicamente alla copertura del rischio di posizione titoli e del rischio di cambio o all'ottimizzazione della gestione di portafoglio, escludendo fini puramente speculativi, nel rispetto del Regolamento IVASS n. 24/2016.
+**Distrattori:**
+- Unicamente alla copertura del rischio di posizione titoli e del rischio di cambio, escludendo l'ottimizzazione della gestione di portafoglio e i fini speculativi, nel rispetto del Regolamento IVASS n. 24/2016.
+- La forma pensionistica individuale dell'art. 13, comma 1, del D.Lgs. 252/05, multiramo, collegata alla gestione separata Previattiva UnipolSai e/o al fondo interno PreviGlobale; le risorse sono patrimonio autonomo e separato.
+- Con metodi Mark to Model in linea con quelli comunemente usati dal mercato; senza modelli consistenti e validati, sulla base dei prezzi forniti dalla controparte.
+
+**D:** ⚠️ Come determina UnipolSai il fair value dei derivati OTC, e come valuta i derivati per i quali non ci sono modelli consistenti e validati, secondo le slide 12–13 della lezione 44?
+**R:** «*Per la determinazione del fair value dei derivati di tipo OTC, UnipolSai utilizza metodi di valutazione (**Mark to Model**) in linea con i metodi comunemente utilizzati dal mercato e sulla base dei dati direttamente disponibili sul mercato.*» (slide 12). «*I derivati per i quali non siano eventualmente disponibili modelli di valutazione consistenti e validati ai fini della determinazione del fair value vengono valutati sulla base dei **prezzi forniti dalla controparte**.*» (slide 13). Al 31 dicembre 2021 tutte le posizioni sono valutate Mark to Model interno. Per il docente gli OTC sono derivati «one to one» con la controparte ([00:24:22]).
+**Opzione:** Con metodi Mark to Model in linea con quelli comunemente usati dal mercato; senza modelli consistenti e validati, sulla base dei prezzi forniti dalla controparte.
+**Distrattori:**
+- Con metodi Mark to Model in linea con quelli comunemente usati dal mercato; senza modelli consistenti e validati, al costo di acquisto.
+- 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace solo le opzioni call.
+- All'imposta sostitutiva dovuta per il 2021 sulle riserve matematiche, ai sensi del D.L. 209/2002, da versare nel 2022.
+
+**D:** ⚠️ Quale curva di sconto si usa per i derivati con accordo CSA, e quali aggiustamenti per quelli non collateralizzati, secondo la slide 12 della lezione 44?
+**R:** «*Per i derivati sui quali è in essere un accordo di collateralizzazione "**CSA**" (Credit Support Annex) … è previsto l'utilizzo della curva di sconto **EONIA** (Euro OverNight Index Average) o della curva **ESTR** (Euro Short Term Rate). Nel caso di derivati **non collateralizzati** è previsto l'utilizzo di aggiustamenti **CVA** (Credit Valuation Adjustment) e **DVA** (Debit Valuation Adjustment).*» Al 31 dicembre 2021 **tutte** le posizioni si riferiscono a contratti collateralizzati con accordi di CSA. Sono i CSA e gli XVA della lezione 31.
+**Opzione:** Con CSA la curva di sconto EONIA o ESTR; per i derivati non collateralizzati gli aggiustamenti CVA e DVA.
+**Distrattori:**
+- Con CSA gli aggiustamenti CVA e DVA; per i derivati non collateralizzati la curva di sconto EONIA o ESTR.
+- Con CSA la curva di sconto Euribor; per i derivati non collateralizzati gli aggiustamenti CVA e DVA.
+- Con CSA la curva di sconto EONIA o ESTR; per i derivati non collateralizzati i prezzi forniti dalla controparte.
+
+**D:** ⚠️ Quali modelli usa UnipolSai per il pricing Mark to Model dei derivati OTC, per categoria, secondo la slide 12 della lezione 44?
+**R:** «*Titoli e derivati su **tassi di interesse**: Discounted cash flows; Black; Black-Derman-Toy; Hull & White 1,2 fattori; Libor Market Model; Longstaff & Schwartz; Kirk. Titoli e derivati su **inflazione**: Discounted cash flows; Jarrow-Yildirim. Titoli e derivati su **azioni, indici e tassi di cambio**: Discounted cash flows; Black-Scholes. Titoli e derivati **di credito**: Discounted cash flows; Hazard rate models.*» Il Discounted cash flows vale per tutte e quattro le categorie.
+**Opzione:** Tassi di interesse: Discounted cash flows, Black, Black-Derman-Toy, Hull & White 1,2 fattori, Libor Market Model, Longstaff & Schwartz, Kirk; inflazione: Discounted cash flows, Jarrow-Yildirim; azioni, indici e tassi di cambio: Discounted cash flows, Black-Scholes; credito: Discounted cash flows, Hazard rate models.
+**Distrattori:**
+- Tassi di interesse: Discounted cash flows, Black, Black-Derman-Toy, Hull & White 1,2 fattori, Libor Market Model, Longstaff & Schwartz, Kirk; inflazione: Discounted cash flows, Black-Scholes; azioni, indici e tassi di cambio: Discounted cash flows, Jarrow-Yildirim; credito: Discounted cash flows, Hazard rate models.
+- Obbligazioni e altri titoli a reddito fisso 31.111.228, quote di fondi comuni 5.004.271, azioni e quote 1.265.314.
+- 648.137 migliaia di euro: 487.623 di pertinenza dei rami Danni e 160.514 dei rami Vita.
+
+**D:** ⚠️ Di che tipo sono, al 31 dicembre 2021, la valutazione e i parametri di mercato di tutte le posizioni in derivati di UnipolSai, secondo la slide 13 della lezione 44?
+**R:** «*Si precisa che alla data del 31 dicembre 2021 la **totalità delle posizioni** in essere su derivati si riferisce a contratti per i quali la valutazione è di tipo **Mark to Model interno** e i parametri di mercato utilizzati per la valutazione sono **esclusivamente di tipo osservabile**.*» I parametri non osservabili previsti sono tre: matrici di correlazione tra fattori di rischio, volatilità storiche, recovery rate se non disponibile nella quotazione CDS. ⚠️ Le **volatilità storiche** sono non osservabili; le **superfici di volatilità** di tassi, cambi, azioni o indici sono osservabili.
+**Opzione:** Mark to Model interno, con parametri di mercato esclusivamente di tipo osservabile.
+**Distrattori:**
+- Mark to Model interno, con parametri di mercato esclusivamente di tipo non osservabile.
+- Mark to Model interno, con parametri di mercato in parte non osservabili.
+- Sulla base dei prezzi forniti dalla controparte, con parametri di mercato esclusivamente di tipo osservabile.
+
+**D:** ⚠️ Con quante controparti e con quale frazionamento sono poste in essere le posizioni aperte in derivati al 31 dicembre 2021, e quali operazioni sono di gestione efficace, secondo la slide 14 della lezione 44?
+**R:** «*Le posizioni aperte in strumenti derivati al 31 dicembre 2021, poste in essere con **15 controparti** e con frazionamento dei capitali di riferimento fino ad un massimo di **150.000** migliaia di euro*». Nel prospetto le **opzioni call** (7 acquisti, fair value 66.238; 2 vendite, (8.323)) sono le uniche operazioni di **gestione efficace**. Le valute a termine e gli swap sono di **copertura**: 126 contratti, fair value (360.605). In tutto 135 contratti, fair value (302.690), esposizione complessiva **4.948.676**, quanto gli impegni per derivati. Il docente legge «15 controparti e con 15» ([00:24:22]).
+**Opzione:** 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace solo le opzioni call.
+**Distrattori:**
+- 150 controparti, capitali di riferimento frazionati fino a 15.000 migliaia; di gestione efficace solo le opzioni call.
+- 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace solo gli asset swap.
+- 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace le valute a termine e le opzioni call.
