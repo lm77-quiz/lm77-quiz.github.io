@@ -10065,3 +10065,839 @@
 - Il campionamento congiunto dei fattori di rischio, l'aggregazione mediante metodo Var-Covar, con la PDF a posteriori, e l'aggregazione mediante la Standard Formula Market Wide.
 - Attraverso l'analisi di sensitivity del portafoglio azionario alla variazione dei mercati di riferimento rappresentati dagli indici settoriali.
 - Più è lunga la duration, più il rischio di tasso è elevato; più è breve, più il rischio di tasso è contenuto.
+
+## Lezione 39 — La Nota Integrativa del bilancio della compagnia di assicurazioni. I prospetti contabili
+
+**D:** ⚠️ Dove sono classificate le provvigioni di acquisizione, secondo il test della lezione 39 (domanda 1)?
+**R:** **Nell'attivo patrimoniale**, fra gli attivi immateriali: è la voce B.1 «*Provvigioni di acquisizione da ammortizzare*», 78,3 milioni nel 2021, di cui 63,0 dei rami vita e 15,2 dei rami danni (slide 2). Il docente: la provvigione pagata all'agente per un nuovo contratto «non sarà iscritta a costo come provvigione passiva, ma sarà capitalizzata in questa voce» e ammortizzata per la durata del contratto ([00:02:20]–[00:04:49]). ⚠️ Nell'attivo sta solo la quota **da ammortizzare**. Le provvigioni di acquisizione dell'anno sono la voce a) delle spese di gestione del **conto economico**, 1.232,3 milioni nei danni e 56,3 nel vita (slide 12 e 16): è il vicino. Nel passivo ci sono solo le provvigioni per premi in corso di riscossione (G.IX.2). Distrattori del test: «nel patrimonio netto», «nel passivo patrimoniale», «nel conto economico».
+**Opzione:** Nell'attivo patrimoniale.
+**Distrattori:**
+- Nel patrimonio netto.
+- Nel passivo patrimoniale.
+- Nel conto economico.
+
+**D:** ⚠️ Dove sono classificate le altre spese di acquisizione, secondo il test della lezione 39 (domanda 2)?
+**R:** **Nell'attivo patrimoniale**, fra gli attivi immateriali: è la voce B.2 «*Altre spese di acquisizione*» (slide 2). Il docente le descrive fra le voci dell'attivo, come le altre spese, oltre alle provvigioni, sostenute per l'acquisizione di contratti, «che come vedete qui non sono valorizzate» ([00:05:09]). ⚠️ È la chiave più debole del test: in UnipolSai la voce B.2 è **vuota** in entrambi gli esercizi, e per la slide 21 «*ogni altro onere inerente all'acquisizione dei contratti ed alla loro gestione viene riflesso nel conto economico dell'esercizio in cui viene sostenuto*». Fra le spese di gestione del conto economico le altre spese di acquisizione valgono 319,4 milioni nei danni e 35,4 nel vita (slide 12 e 16). La chiave regge sullo schema. Distrattori del test: «nel patrimonio netto», «nel passivo patrimoniale», «nel conto economico».
+**Opzione:** Nell'attivo patrimoniale.
+**Distrattori:**
+- Nel patrimonio netto.
+- Nel passivo patrimoniale.
+- Nel conto economico.
+
+**D:** ⚠️ Dove sono classificati i finanziamenti alle imprese, secondo il test della lezione 39 (domanda 3)?
+**R:** **Nell'attivo patrimoniale**, fra gli investimenti in imprese del gruppo ed in altre partecipate: voce C.II.3 «*Finanziamenti ad imprese*», 576.290.195 euro, di cui 300.000.000 a controllanti, 266.812.577 a controllate e 9.477.618 a collegate (slide 2). Il docente: gli investimenti in imprese del gruppo sono divisi «in azioni e quote, obbligazioni e finanziamenti» ([00:05:38]). Anche gli altri investimenti finanziari hanno una voce «Finanziamenti» (C.III.4, 19,3 milioni). ⚠️ Il vicino è «nel passivo patrimoniale»: lì stanno i finanziamenti **ricevuti**, come i prestiti diversi e altri debiti finanziari (G.VI). Distrattori del test: «nel conto economico», «nel passivo patrimoniale», «nel patrimonio netto».
+**Opzione:** Nell'attivo patrimoniale.
+**Distrattori:**
+- Nel conto economico.
+- Nel passivo patrimoniale.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Dove sono classificate le riserve tecniche a carico dei riassicuratori, secondo il test della lezione 39 (domanda 4)?
+**R:** **Nell'attivo patrimoniale**: sono la classe **D bis**, 504.989.156 euro, di cui 490.871.132 dei rami danni e 14.118.024 dei rami vita (slide 4). Per il docente sono «la parte di riserve tecniche che va a **rettificare** le riserve tecniche effettive per effetto del fatto che ho ceduto a terzi soggetti il mio livello di premi e quindi automaticamente ho ceduto anche le relative riserve tecniche» ([00:13:27]–[00:14:04]). ⚠️ Il vicino è «nel passivo patrimoniale», dove le riserve tecniche (classe C, 38.837,4 milioni) stanno al **lordo** della quota ceduta. Il conto economico ne ha solo le variazioni. Distrattori del test: «nel conto economico», «nel patrimonio netto», «nel passivo patrimoniale».
+**Opzione:** Nell'attivo patrimoniale.
+**Distrattori:**
+- Nel conto economico.
+- Nel patrimonio netto.
+- Nel passivo patrimoniale.
+
+**D:** ⚠️ Dove sono classificati gli attivi materiali e scorte, secondo il test della lezione 39 (domanda 5)?
+**R:** **Nell'attivo patrimoniale**, fra gli **altri elementi dell'attivo** (classe F): sottoclasse I «*Attivi materiali e scorte*», 63.203.648 euro (slide 6). Comprende mobili, macchine d'ufficio e mezzi di trasporto interno (43,98 milioni), beni mobili iscritti in pubblici registri (vuota), impianti e attrezzature (14,86) e scorte e beni diversi (4,37). Il test scrive «gli **altri** attivi materiali e scorte»: l'aggettivo viene probabilmente dal nome della classe. Né il passivo né il conto economico hanno voci di beni materiali o di scorte. Distrattori del test: «nel conto economico», «nel passivo patrimoniale», «nel patrimonio netto».
+**Opzione:** Nell'attivo patrimoniale.
+**Distrattori:**
+- Nel conto economico.
+- Nel passivo patrimoniale.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Quali sono, nell'ordine, le classi dello stato patrimoniale attivo della compagnia di assicurazioni nello schema di UnipolSai 2021, secondo le slide 2–6 della lezione 39?
+**R:** «*A. Crediti verso soci per capitale sociale sottoscritto non versato; B. Attivi immateriali; C. Investimenti; D. Investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; D bis. Riserve tecniche a carico dei riassicuratori; E. Crediti; F. Altri elementi dell'attivo; G. Ratei e risconti*». Il totale attivo è di 54.948.166.410 euro. Per il docente solo la voce A coincide con quella dell'art. 2424 c.c. ([00:00:05]). ⚠️ Le **disponibilità liquide** non sono una classe: sono la sottoclasse II degli altri elementi dell'attivo (F.II). La D bis è «a carico dei **riassicuratori**», come conferma questa slide contro la slide 7 della lezione 23.
+**Opzione:** A Crediti verso soci per capitale sociale sottoscritto non versato; B Attivi immateriali; C Investimenti; D Investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; D bis Riserve tecniche a carico dei riassicuratori; E Crediti; F Altri elementi dell'attivo; G Ratei e risconti.
+**Distrattori:**
+- A Crediti verso soci per capitale sociale sottoscritto non versato; B Attivi immateriali; C Investimenti; D Investimenti a beneficio di assicurati dei rami vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione; D bis Riserve tecniche a carico dei riassicuratori; E Crediti; F Disponibilità liquide; G Ratei e risconti.
+- I Terreni e fabbricati; II Investimenti in imprese del gruppo ed in altre partecipate; III Altri investimenti finanziari; IV Depositi presso imprese cedenti.
+- I assicurazione sulla durata della vita umana; III connesse con fondi di investimento o indici di mercato; IV malattia; V operazioni di capitalizzazione; VI fondi pensione.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci degli attivi immateriali (classe B) nello stato patrimoniale attivo di UnipolSai 2021, secondo la slide 2 della lezione 39?
+**R:** «*1. Provvigioni di acquisizione da ammortizzare (a) rami vita, b) rami danni); 2. Altre spese di acquisizione; 3. Costi di impianto e di ampliamento; 4. Avviamento; 5. Altri costi pluriennali*». In euro: 78.271.794 (63.024.038 vita e 15.247.756 danni), vuota, vuota, 328.557.716 e 308.472.399, in tutto **715.301.909**. Nella slide l'etichetta della voce 1 è tagliata («Provvigioni di acquisizione da»): il nome intero è nella slide 21. Per il docente la voce 1 «è una voce che troverete solo in questo tipo di bilancio» ([00:05:38]). ⚠️ Le **provvigioni di incasso** non sono un attivo immateriale: sono la voce d) delle spese di gestione del conto economico. I **marchi** sono fra gli altri costi pluriennali, ammortizzati in 10 anni (slide 22).
+**Opzione:** Provvigioni di acquisizione da ammortizzare; altre spese di acquisizione; costi di impianto e di ampliamento; avviamento; altri costi pluriennali.
+**Distrattori:**
+- Provvigioni di acquisizione da ammortizzare; provvigioni di incasso; costi di impianto e di ampliamento; avviamento; altri costi pluriennali.
+- Provvigioni di acquisizione da ammortizzare; altre spese di acquisizione; costi di impianto e di ampliamento; avviamento; marchi.
+- Mobili, macchine d'ufficio e mezzi di trasporto interno; beni mobili iscritti in pubblici registri; impianti e attrezzature; scorte e beni diversi.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 le provvigioni di acquisizione da ammortizzare di UnipolSai, e come si dividono fra rami vita e rami danni, secondo la slide 2 della lezione 39?
+**R:** **78.271.794 euro**: 63.024.038 per i **rami vita** e 15.247.756 per i **rami danni** (voce B.1). Nel 2020 erano 76.645.896: 60.259.110 vita e 16.386.786 danni (slide 3). Sono la voce valorizzata più piccola degli attivi immateriali, che in tutto fanno 715,3 milioni, con l'avviamento a 328,6 e gli altri costi pluriennali a 308,5. ⚠️ Il docente le dice «molto significative come valori» ([00:05:38]). Lo sono nel conto economico, dove le provvigioni di acquisizione dell'anno valgono 1.288,6 milioni fra danni e vita.
+**Opzione:** 78,3 milioni: 63,0 per i rami vita e 15,2 per i rami danni.
+**Distrattori:**
+- 78,3 milioni: 15,2 per i rami vita e 63,0 per i rami danni.
+- 76,6 milioni: 60,3 per i rami vita e 16,4 per i rami danni.
+- 715,3 milioni: 328,6 per i rami vita e 308,5 per i rami danni.
+
+**D:** ⚠️ Come sono ammortizzate le provvigioni di acquisizione da ammortizzare nei rami Danni e nei rami Vita, secondo i criteri di valutazione di UnipolSai (slide 21 della lezione 39)?
+**R:** «*Le provvigioni di acquisizione **precontate** sui contratti con durata pluriennale relativi ai **rami Danni** sono capitalizzate ed ammortizzate a quote costanti in un periodo di **tre anni**. Per i **rami Vita** le provvigioni sono ammortizzate, **fino a concorrenza dei rispettivi caricamenti**, in base alla durata del contratto, per un periodo in ogni caso **non superiore a dieci anni**.*» (slide 21). ⚠️ Il docente legge i tre anni senza dire che valgono per i Danni, e omette i caricamenti e il tetto dei dieci anni ([00:23:47]). Il suo esempio, un contratto vita di 10 anni ammortizzato per un decimo all'anno, sta dentro quel tetto ([00:02:20]–[00:04:49]).
+**Opzione:** Rami Danni: quelle precontate sui contratti pluriennali, a quote costanti in tre anni; rami Vita: fino a concorrenza dei caricamenti, in base alla durata del contratto, per non più di dieci anni.
+**Distrattori:**
+- Rami Danni: quelle precontate sui contratti pluriennali, a quote costanti in dieci anni; rami Vita: fino a concorrenza dei caricamenti, in base alla durata del contratto, per non più di tre anni.
+- Solo se acquisito a titolo oneroso: iscritto nell'attivo al costo e ammortizzato in base alla vita utile per un periodo non superiore a 20 anni.
+- Nel conto economico dell'esercizio in cui viene sostenuto.
+
+**D:** ⚠️ Dove va, secondo i criteri di valutazione di UnipolSai, ogni altro onere inerente all'acquisizione dei contratti e alla loro gestione, diverso dalle provvigioni da ammortizzare (slide 21 della lezione 39)?
+**R:** «*Ogni altro onere inerente all'acquisizione dei contratti ed alla loro gestione viene riflesso nel **conto economico dell'esercizio in cui viene sostenuto***» (slide 21). Per questo la voce B.2 dell'attivo, «Altre spese di acquisizione», è vuota in entrambi gli esercizi (slide 2). Fra le spese di gestione del conto economico, invece, le altre spese di acquisizione valgono 319,4 milioni nei danni e 35,4 nel vita (slide 12 e 16). ⚠️ È il motivo per cui la chiave della domanda 2 del test, «nell'attivo patrimoniale», regge solo sullo schema.
+**Opzione:** Nel conto economico dell'esercizio in cui viene sostenuto.
+**Distrattori:**
+- Nel patrimonio netto, a riduzione delle altre riserve.
+- Nell'attivo, ammortizzato a quote costanti in un periodo di tre anni.
+- Nel passivo, fra le provvigioni per premi in corso di riscossione.
+
+**D:** ⚠️ A che cosa corrisponde la voce c) delle spese di gestione, «Variazione delle provvigioni e delle altre spese di acquisizione da ammortizzare», nei conti tecnici di UnipolSai 2021, secondo le slide 2–3, 12 e 16 della lezione 39?
+**R:** Alla **variazione della voce B.1 dell'attivo** fra il 2020 e il 2021. Nei rami **danni** le provvigioni da ammortizzare scendono da 16.386.786 a 15.247.756 euro, e la voce 7.c vale **(1.139.030)**. Nei rami **vita** salgono da 60.259.110 a 63.024.038, e la voce 8.c vale **2.764.928**. Nel totale delle spese di gestione la voce c) entra con il segno opposto: quando la quota capitalizzata cresce le spese di gestione scendono, e viceversa. Le altre spese di acquisizione non vi concorrono, perché la voce B.2 è vuota. Le provvigioni di acquisizione dell'anno, voce a), sono 1.232,3 milioni nei danni e 56,3 nel vita.
+**Opzione:** Alla variazione delle provvigioni da ammortizzare dell'attivo: danni −1,1 milioni, da 16,4 a 15,2; vita +2,8, da 60,3 a 63,0.
+**Distrattori:**
+- Alla variazione delle provvigioni da ammortizzare dell'attivo: danni +1,1 milioni, da 15,2 a 16,4; vita −2,8, da 63,0 a 60,3.
+- Alla variazione delle provvigioni per premi in corso di riscossione del passivo: danni −1,1 milioni; vita +2,8.
+- Alla variazione della riserva premi a carico dei riassicuratori: danni −1,1 milioni; vita +2,8.
+
+**D:** ⚠️ Quali sono, nell'ordine, le sottovoci delle spese di gestione nel conto tecnico dei rami danni di UnipolSai (voce 7), secondo la slide 12 della lezione 39?
+**R:** «*a) Provvigioni di acquisizione; b) Altre spese di acquisizione; c) Variazione delle provvigioni e delle altre spese di acquisizione da ammortizzare; d) Provvigioni di incasso; e) Altre spese di amministrazione; f) (−) Provvigioni e partecipazioni agli utili ricevute dai riassicuratori*». In euro: 1.232.303.962; 319.412.413; (1.139.030); 157.006.020; 351.878.483; 82.282.755; in tutto **1.979.457.153**. Nel conto tecnico dei rami vita le stesse sei sottovoci formano la voce 8, per 153.346.762 (slide 16). ⚠️ La f) si **sottrae**: sono le provvigioni che la compagnia **riceve** dai riassicuratori. I premi ceduti in riassicurazione stanno nella voce 1.b.
+**Opzione:** a) Provvigioni di acquisizione; b) altre spese di acquisizione; c) variazione delle provvigioni e delle altre spese di acquisizione da ammortizzare; d) provvigioni di incasso; e) altre spese di amministrazione; f) (−) provvigioni e partecipazioni agli utili ricevute dai riassicuratori.
+**Distrattori:**
+- a) Provvigioni di acquisizione; b) altre spese di acquisizione; c) variazione delle provvigioni e delle altre spese di acquisizione da ammortizzare; d) provvigioni di incasso; e) altre spese di amministrazione; f) (−) premi ceduti in riassicurazione.
+- Opzioni; interest rate swap; cross currency swap; equity swap; forward; futures; altri.
+- Azioni e quote; quote di fondi comuni di investimento; obbligazioni e altri titoli a reddito fisso; finanziamenti; quote di investimenti comuni; depositi presso enti creditizi; investimenti finanziari diversi.
+
+**D:** ⚠️ Come è iscritto e ammortizzato l'avviamento nel bilancio di UnipolSai, secondo i criteri di valutazione (slide 22 della lezione 39)?
+**R:** «*L'avviamento acquisito **a titolo oneroso** è iscritto nell'attivo **al costo**, in quanto incluso nel corrispettivo pagato per l'acquisizione, ed è ammortizzato in base alla vita utile per un periodo **non superiore a 20 anni***» (slide 22). Nel 2021 vale 328.557.716 euro (voce B.4, slide 2). Il docente: «avviamento solo se acquistato a titolo oneroso e viene ammortizzato per non più di 20 anni» ([00:25:31]); è «il maggior valore che viene pagato per l'acquisizione di un complesso aziendale» ([00:05:38]). ⚠️ Il limite di **10 anni** è quello dello schema civilistico della lezione 07, non il criterio di UnipolSai.
+**Opzione:** Solo se acquisito a titolo oneroso: iscritto nell'attivo al costo e ammortizzato in base alla vita utile per un periodo non superiore a 20 anni.
+**Distrattori:**
+- Solo se acquisito a titolo oneroso: iscritto nell'attivo al costo e ammortizzato in base alla vita utile per un periodo non superiore a 10 anni.
+- Rami Danni: quelle precontate sui contratti pluriennali, a quote costanti in tre anni; rami Vita: fino a concorrenza dei caricamenti, in base alla durata del contratto, per non più di dieci anni.
+- Frazionando il piano di riassicurazione e collocandolo presso i principali riassicuratori professionali, valutati a elevato parametro di solidità finanziaria dalle principali agenzie di rating.
+
+**D:** ⚠️ Quali sono, nell'ordine, le sottoclassi degli investimenti (classe C) nello stato patrimoniale attivo di UnipolSai 2021, secondo le slide 2 e 4 della lezione 39?
+**R:** «*I – Terreni e fabbricati; II – Investimenti in imprese del gruppo ed in altre partecipate; III – Altri investimenti finanziari; IV – Depositi presso imprese cedenti*». In euro: 1.140.292.629; 4.263.265.698; 37.563.720.788; 170.703.926; in tutto **43.137.983.041**, il 78,5% del totale attivo. Per il docente gli investimenti sono «la voce più importante dell'attivo patrimoniale di una compagnia di assicurazioni», distinti «in base alla natura» ([00:05:38]). ⚠️ I **depositi presso enti creditizi** sono la voce 6 degli altri investimenti finanziari (C.III.6), non una sottoclasse.
+**Opzione:** I Terreni e fabbricati; II Investimenti in imprese del gruppo ed in altre partecipate; III Altri investimenti finanziari; IV Depositi presso imprese cedenti.
+**Distrattori:**
+- I Terreni e fabbricati; II Investimenti in imprese del gruppo ed in altre partecipate; III Altri investimenti finanziari; IV Depositi presso enti creditizi.
+- Somma del loss ratio e del rapporto tra le spese di gestione e i premi contabilizzati.
+- Stato Patrimoniale, Conto Economico e Nota Integrativa con gli allegati, secondo gli schemi del Regolamento, e Rendiconto Finanziario in forma libera; è corredato dalla Relazione sulla gestione.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci degli altri investimenti finanziari (C.III) nello stato patrimoniale attivo di UnipolSai 2021, secondo la slide 4 della lezione 39?
+**R:** «*1. Azioni e quote; 2. Quote di fondi comuni di investimento; 3. Obbligazioni e altri titoli a reddito fisso; 4. Finanziamenti; 5. Quote di investimenti comuni; 6. Depositi presso enti creditizi; 7. Investimenti finanziari diversi*». In milioni: 1.265,3; 5.004,3; 31.111,2; 19,3; vuota; 118,1; 45,5; in tutto 37.563,7. Per il docente «la voce da padrone» è la sottovoce 3, le obbligazioni e altri titoli a reddito fisso ([00:07:56]). ⚠️ I **depositi presso imprese cedenti** non stanno qui: sono la sottoclasse IV degli investimenti (C.IV).
+**Opzione:** Azioni e quote; quote di fondi comuni di investimento; obbligazioni e altri titoli a reddito fisso; finanziamenti; quote di investimenti comuni; depositi presso enti creditizi; investimenti finanziari diversi.
+**Distrattori:**
+- Azioni e quote; quote di fondi comuni di investimento; obbligazioni e altri titoli a reddito fisso; finanziamenti; quote di investimenti comuni; depositi presso enti creditizi; depositi presso imprese cedenti.
+- Provvigioni di acquisizione da ammortizzare; altre spese di acquisizione; costi di impianto e di ampliamento; avviamento; altri costi pluriennali.
+- Stato Patrimoniale, Conto Economico e Nota Integrativa con gli allegati, secondo gli schemi del Regolamento, e Rendiconto Finanziario in forma libera; è corredato dalla Relazione sulla gestione.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 le obbligazioni e altri titoli a reddito fisso di UnipolSai (voce C.III.3), e come si dividono, secondo la slide 4 della lezione 39?
+**R:** **31.111.228.412 euro**: a) quotati **30.528.011.516**; b) non quotati 582.225.879; c) obbligazioni convertibili 991.017. Nel 2020 erano 32.267.148.035 (slide 5). Per il docente è «la voce da padrone» degli altri investimenti finanziari, e la voce principale sono i titoli quotati: «si tratta sostanzialmente dei titoli di Stato» ([00:07:56]–[00:09:11]). ⚠️ Nella slide 5 della lezione 38 il Government è il 63,90% del portafoglio obbligazionario: «sostanzialmente» va preso con cautela. Nella tabella degli impieghi della lezione 38 queste obbligazioni sono il 63,6%.
+**Opzione:** 31.111,2 milioni: 30.528,0 quotati, 582,2 non quotati, 1,0 di obbligazioni convertibili.
+**Distrattori:**
+- 31.111,2 milioni: 582,2 quotati, 30.528,0 non quotati, 1,0 di obbligazioni convertibili.
+- 32.267,1 milioni: 30.528,0 quotati, 582,2 non quotati, 1,0 di obbligazioni convertibili.
+- 37.563,7 milioni: 31.111,2 quotati, 5.004,3 non quotati, 1.265,3 di obbligazioni convertibili.
+
+**D:** ⚠️ In quali due voci dell'attivo di UnipolSai 2021 compaiono i finanziamenti, e quanto valgono, secondo le slide 2 e 4 della lezione 39?
+**R:** Fra gli **investimenti in imprese del gruppo ed in altre partecipate**, voce C.II.3 «*Finanziamenti ad imprese*»: **576.290.195** euro, di cui 300.000.000 a controllanti, 266.812.577 a controllate e 9.477.618 a collegate. Fra gli **altri investimenti finanziari**, voce C.III.4 «*Finanziamenti*»: **19.333.006**, cioè 12.123.561 di prestiti su polizze e 7.209.445 di altri prestiti, con i prestiti con garanzia reale vuoti. Per il docente i prestiti su polizze e gli altri prestiti «sono poco significativi» ([00:07:56]). È la domanda 3 del test. I finanziamenti **ricevuti** stanno nel passivo, fra i debiti (G.VI, 11,7 milioni).
+**Opzione:** Finanziamenti ad imprese del gruppo (C.II.3), 576,3 milioni; finanziamenti degli altri investimenti finanziari (C.III.4), 19,3 milioni.
+**Distrattori:**
+- Finanziamenti ad imprese del gruppo (C.II.3), 19,3 milioni; finanziamenti degli altri investimenti finanziari (C.III.4), 576,3 milioni.
+- Finanziamenti ad imprese del gruppo (C.II.3), 576,3 milioni; prestiti diversi e altri debiti finanziari (G.VI), 11,7 milioni.
+- Finanziamenti ad imprese del gruppo (C.II.3), 773,2 milioni; finanziamenti degli altri investimenti finanziari (C.III.4), 20,9 milioni.
+
+**D:** ⚠️ Quanto vale la classe D dell'attivo di UnipolSai 2021, come si compone e che rapporto ha con la classe D del passivo, secondo le slide 4 e 8 della lezione 39?
+**R:** **5.401.491.442 euro**: I — investimenti relativi a prestazioni connesse con fondi di investimento e indici di mercato, 1.100.372.346; II — investimenti derivanti dalla gestione dei fondi pensione, 4.301.119.096 (slide 4). La classe D del passivo, «*Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione*», ha le stesse due voci e lo **stesso importo**, all'euro (slide 8). Così anche nel 2020, con 5.085.741.539. Per il docente la classe D sono le polizze del ramo terzo, index linked e unit linked ([00:12:32]–[00:13:27]). ⚠️ Non nomina i fondi pensione, che ne sono l'80%.
+**Opzione:** 5.401,5 milioni: 1.100,4 legati a fondi di investimento e indici di mercato, 4.301,1 ai fondi pensione; uguale alla classe D del passivo.
+**Distrattori:**
+- 5.401,5 milioni: 4.301,1 legati a fondi di investimento e indici di mercato, 1.100,4 ai fondi pensione; uguale alla classe D del passivo.
+- 5.401,5 milioni: 1.100,4 legati a fondi di investimento e indici di mercato, 4.301,1 ai fondi pensione; uguale alla D bis dell'attivo.
+- 5.085,7 milioni: 808,2 legati a fondi di investimento e indici di mercato, 4.277,6 ai fondi pensione; uguale alla classe D del passivo.
+
+**D:** ⚠️ Quali sono le voci delle riserve tecniche a carico dei riassicuratori dei rami danni (D bis, I) nell'attivo di UnipolSai 2021, e quali sono valorizzate, secondo la slide 4 della lezione 39?
+**R:** «*1. Riserva premi; 2. Riserva sinistri; 3. Riserva per partecipazione agli utili e ristorni; 4. Altre riserve tecniche*». Sono valorizzate solo le prime due: riserva premi **90.825.594** euro e riserva sinistri **400.045.538**, in tutto 490.871.132. ⚠️ Le **riserve di perequazione**, quinta voce dei rami danni nel passivo (C.I.5), non hanno una quota a carico dei riassicuratori. Con i rami vita (14.118.024) la D bis fa **504.989.156**: per il docente è la parte di riserve tecniche che rettifica quelle effettive, perché la compagnia ha ceduto i premi a terzi ([00:14:04]).
+**Opzione:** Riserva premi (90,8 milioni), riserva sinistri (400,0), riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+**Distrattori:**
+- Riserva premi (90,8 milioni), riserva sinistri (400,0), riserva per partecipazione agli utili e ristorni, riserve di perequazione.
+- Riserva premi (400,0 milioni), riserva sinistri (90,8), riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+- Riserve matematiche (12,2 milioni), riserva per somme da pagare (2,0), riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci delle riserve tecniche a carico dei riassicuratori dei rami vita (D bis, II) nell'attivo di UnipolSai 2021, secondo la slide 4 della lezione 39?
+**R:** «*1. Riserve matematiche; 2. Riserva premi delle assicurazioni complementari; 3. Riserva per somme da pagare; 4. Riserva per partecipazione agli utili e ristorni; 5. Altre riserve tecniche; 6. Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione*». Sono valorizzate solo la 1 (12.156.208 euro) e la 3 (1.961.816), in tutto 14.118.024. ⚠️ La sesta voce non c'è fra le riserve tecniche dei rami vita del passivo (C.II): lì le riserve a rischio degli assicurati formano una classe a sé, la D. Le **riserve di perequazione** sono solo dei rami danni, e solo nel passivo.
+**Opzione:** Riserve matematiche; riserva premi delle assicurazioni complementari; riserva per somme da pagare; riserva per partecipazione agli utili e ristorni; altre riserve tecniche; riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione.
+**Distrattori:**
+- Riserve matematiche; riserva premi delle assicurazioni complementari; riserva per somme da pagare; riserva per partecipazione agli utili e ristorni; altre riserve tecniche; riserve di perequazione.
+- Riserva premi (90,8 milioni), riserva sinistri (400,0), riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+- Il lavoro diretto sono i premi non realizzati tramite riassicurazione; il lavoro indiretto i premi delle accettazioni in riassicurazione attiva.
+
+**D:** ⚠️ Quali sono le voci degli attivi materiali e scorte (F.I) fra gli altri elementi dell'attivo di UnipolSai 2021, secondo la slide 6 della lezione 39?
+**R:** «*1. Mobili, macchine d'ufficio e mezzi di trasporto interno; 2. Beni mobili iscritti in pubblici registri; 3. Impianti e attrezzature; 4. Scorte e beni diversi*». In euro: 43.976.012; vuota; 14.855.796; 4.371.840; in tutto **63.203.648**. Gli altri elementi dell'attivo (F) comprendono anche le disponibilità liquide (II, 396.354.388) e le altre attività (IV, 937.115.234): la slide salta la III. È la domanda 5 del test. Gli **immobili** stanno fra gli investimenti, nei terreni e fabbricati (C.I).
+**Opzione:** Mobili, macchine d'ufficio e mezzi di trasporto interno; beni mobili iscritti in pubblici registri; impianti e attrezzature; scorte e beni diversi.
+**Distrattori:**
+- Mobili, macchine d'ufficio e mezzi di trasporto interno; beni mobili iscritti in pubblici registri; impianti e attrezzature; disponibilità liquide.
+- Immobili destinati all'esercizio; beni mobili iscritti in pubblici registri; impianti e attrezzature; scorte e beni diversi.
+- Mobili, macchine d'ufficio e mezzi di trasporto interno; terreni e fabbricati; impianti e attrezzature; scorte e beni diversi.
+
+**D:** ⚠️ Quali sono, nell'ordine, le classi del passivo e patrimonio netto della compagnia di assicurazioni nello schema di UnipolSai 2021, secondo le slide 8 e 10 della lezione 39?
+**R:** «*A. Patrimonio netto; B. Passività subordinate; C. Riserve tecniche; D. Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; E. Fondi per rischi e oneri; F. Depositi ricevuti da riassicuratori; G. Debiti e altre passività; H. Ratei e risconti*». Il totale è di 54.948.166.410 euro, come l'attivo. ⚠️ I ratei e risconti sono la classe **H**, mentre la slide 8 della lezione 23 ripeteva la G. I **depositi presso imprese cedenti** stanno nell'attivo, fra gli investimenti (C.IV).
+**Opzione:** A Patrimonio netto; B Passività subordinate; C Riserve tecniche; D Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; E Fondi per rischi e oneri; F Depositi ricevuti da riassicuratori; G Debiti e altre passività; H Ratei e risconti.
+**Distrattori:**
+- A Patrimonio netto; B Passività subordinate; C Riserve tecniche; D Riserve tecniche allorché il rischio dell'investimento è sopportato dagli assicurati e riserve derivanti dalla gestione dei fondi pensione; E Fondi per rischi e oneri; F Depositi presso imprese cedenti; G Debiti e altre passività; H Ratei e risconti.
+- Alla raccolta a vista stabile (core deposit); alla quota già fissata di impieghi a tasso variabile; a una porzione degli impieghi creditizi a tasso fisso.
+- Interest rate swap plain o strutturati, overnight index swap, cross currency swap, vendite forward ed opzioni su tassi, con controparti terze, negoziati over the counter e non quotati su mercati regolamentati.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci del patrimonio netto nello schema di UnipolSai 2021, secondo la slide 8 della lezione 39?
+**R:** «*I – Capitale sociale sottoscritto o fondo equivalente; II – Riserva da sovrapprezzo di emissione; III – Riserve di rivalutazione; IV – Riserva legale; V – Riserve statutarie; VI – Riserva per azioni della controllante; VII – Altre riserve; VIII – Utili (perdite) portati a nuovo; IX – Utile (perdita) dell'esercizio; X – Riserva negativa per azioni proprie in portafoglio*». In tutto 6.561.909.680 euro, con un utile di 648.137.176 e una riserva negativa di (288.720). ⚠️ La riserva per azioni della controllante non c'è nell'elenco dell'art. 2424 della lezione 11, che ha invece la riserva per operazioni di copertura dei flussi finanziari attesi, assente qui.
+**Opzione:** Capitale sociale sottoscritto o fondo equivalente; riserva da sovrapprezzo di emissione; riserve di rivalutazione; riserva legale; riserve statutarie; riserva per azioni della controllante; altre riserve; utili (perdite) portati a nuovo; utile (perdita) dell'esercizio; riserva negativa per azioni proprie in portafoglio.
+**Distrattori:**
+- Capitale sociale sottoscritto o fondo equivalente; riserva da sovrapprezzo di emissione; riserve di rivalutazione; riserva legale; riserve statutarie; riserva per operazioni di copertura dei flussi finanziari attesi; altre riserve; utili (perdite) portati a nuovo; utile (perdita) dell'esercizio; riserva negativa per azioni proprie in portafoglio.
+- Il disallineamento tra nozionale del derivato e del sottostante coperto; l'applicazione di curve diverse su derivato di copertura e oggetto coperto; l'inclusione nel test di efficacia del valore della gamba variabile del derivato.
+- Fra le altre passività dei debiti e altre passività: provvigioni per premi in corso di riscossione, 87,3 milioni.
+
+**D:** ⚠️ Quanto vale nel 2021 la riserva per azioni della controllante nel patrimonio netto di UnipolSai, e a quale voce dell'attivo corrisponde, secondo le slide 2 e 8 della lezione 39?
+**R:** **308.635 euro** (voce VI), quanto le **azioni e quote di imprese controllanti** fra gli investimenti in imprese del gruppo ed in altre partecipate (voce C.II.1.a). Nel 2020 valevano entrambe 788.763 (slide 3 e 9). Sono le 68.783 azioni Unipol Gruppo della slide 9 della lezione 38, per 0,3 milioni (0,8 nel 2020). ⚠️ La slide 9 della lezione 38 le dice iscritte «tra gli Altri investimenti finanziari», mentre lo schema le espone alla voce C.II.1.a. Per la slide 23 stanno nel portafoglio non durevole, al minore tra costo e valore di mercato. La riserva negativa per azioni proprie vale invece (288.720).
+**Opzione:** 308.635 euro, quanto le azioni e quote di imprese controllanti fra gli investimenti in imprese del gruppo.
+**Distrattori:**
+- 288.720 euro, quanto le azioni e quote di imprese controllanti fra gli investimenti in imprese del gruppo.
+- 308.635 euro, quanto la riserva negativa per azioni proprie in portafoglio del patrimonio netto.
+- 788.763 euro, quanto le azioni e quote di imprese controllanti fra gli investimenti in imprese del gruppo.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci delle riserve tecniche dei rami danni e dei rami vita (classe C del passivo) di UnipolSai 2021, secondo la slide 8 della lezione 39?
+**R:** Rami danni: «*1. Riserva premi; 2. Riserva sinistri; 3. Riserva per partecipazione agli utili e ristorni; 4. Altre riserve tecniche; 5. Riserve di perequazione*», in tutto 12.978.355.989 euro. Rami vita: «*1. Riserve matematiche; 2. Riserva premi delle assicurazioni complementari; 3. Riserva per somme da pagare; 4. Riserva per partecipazione agli utili e ristorni; 5. Altre riserve tecniche*», in tutto 25.859.010.766. Il totale è **38.837.366.755**, «la voce principale del passivo» per il docente ([00:14:44]). Le voci più grandi sono la riserva sinistri (9.869,2 milioni) e le riserve matematiche (25.486,3). ⚠️ Le riserve di perequazione sono solo dei rami danni, le riserve matematiche solo dei rami vita.
+**Opzione:** Danni: riserva premi, riserva sinistri, riserva per partecipazione agli utili e ristorni, altre riserve tecniche, riserve di perequazione; vita: riserve matematiche, riserva premi delle assicurazioni complementari, riserva per somme da pagare, riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+**Distrattori:**
+- Danni: riserva premi, riserva sinistri, riserva per partecipazione agli utili e ristorni, altre riserve tecniche, riserve matematiche; vita: riserve di perequazione, riserva premi delle assicurazioni complementari, riserva per somme da pagare, riserva per partecipazione agli utili e ristorni, altre riserve tecniche.
+- Danni: premi di competenza, al netto delle cessioni in riassicurazione; vita: premi dell'esercizio, al netto delle cessioni in riassicurazione.
+- Le Merci, in leggera contrazione, e gli Infortuni, stabili sui livelli del 2020.
+
+**D:** ⚠️ Che cosa sono, per il docente della lezione 39, le riserve premi?
+**R:** Tengono conto della **competenza temporale**: una polizza può decorrere da qualunque giorno dell'anno. Se va dal 15 giugno al 14 giugno dell'anno dopo, il premio si incassa tutto alla sottoscrizione, ma copre il rischio sia fino al 31 dicembre sia nell'anno successivo. «Quindi sostanzialmente le riserve premi sono dei **risconti passivi**» ([00:14:44]). La **riserva sinistri** copre invece l'obbligo di pagare il sinistro o l'indennità, e le **riserve matematiche** gli impegni verso gli assicurati dei rami vita. Nel 2021 la riserva premi dei rami danni vale 3.015.972.759 euro, la riserva sinistri 9.869.193.040 (slide 8).
+**Opzione:** Risconti passivi, per la quota del premio incassato che copre il rischio dell'esercizio successivo.
+**Distrattori:**
+- Ratei passivi, per la quota del premio incassato che copre il rischio dell'esercizio successivo.
+- Accantonamenti per l'obbligo di pagare i sinistri e le indennità a fronte delle polizze emesse.
+- Impegni verso gli assicurati dei rami vita di pagare indennità, capitali o altre forme di indennizzo.
+
+**D:** ⚠️ In quale voce del passivo di UnipolSai 2021 compaiono delle provvigioni, e quanto valgono, secondo la slide 10 della lezione 39?
+**R:** Fra le **altre passività** dei debiti e altre passività: voce G.IX.2 «*Provvigioni per premi in corso di riscossione*», **87.260.463 euro**. Le altre passività comprendono anche i conti transitori passivi di riassicurazione (vuoti) e le passività diverse (815.225.574), in tutto 902.486.037. ⚠️ Le provvigioni di **acquisizione** stanno invece nell'attivo, per la quota da ammortizzare (B.1), e nel conto economico, fra le spese di gestione. Per questo il test 39 (domanda 1) dà per sbagliato «nel passivo patrimoniale».
+**Opzione:** Fra le altre passività dei debiti e altre passività: provvigioni per premi in corso di riscossione, 87,3 milioni.
+**Distrattori:**
+- Fra i fondi per rischi e oneri: provvigioni per premi in corso di riscossione, 87,3 milioni.
+- Fra le altre passività dei debiti e altre passività: provvigioni di acquisizione da ammortizzare, 78,3 milioni.
+- Fra le altre passività dei debiti e altre passività: provvigioni di incasso, 157,0 milioni.
+
+**D:** ⚠️ Dove stanno, nello stato patrimoniale di UnipolSai 2021, i depositi ricevuti da riassicuratori e i depositi presso imprese cedenti, e quanto valgono, secondo le slide 4 e 10 della lezione 39?
+**R:** I **depositi ricevuti da riassicuratori** sono la classe **F del passivo**, 122.160.473 euro (slide 10). Per il docente «sono appunto i depositi per la riassicurazione passiva» ([00:14:44]). I **depositi presso imprese cedenti** sono la sottoclasse **IV degli investimenti** dell'attivo, 170.703.926 euro (slide 4). ⚠️ Da non confondere con i **depositi presso enti creditizi**, voce 6 degli altri investimenti finanziari (118,1 milioni), e con i depositi bancari e c/c postali delle disponibilità liquide (396,3 milioni).
+**Opzione:** I primi nel passivo (classe F), 122,2 milioni; i secondi nell'attivo fra gli investimenti (C.IV), 170,7 milioni.
+**Distrattori:**
+- I primi nell'attivo fra gli investimenti (C.IV), 122,2 milioni; i secondi nel passivo (classe F), 170,7 milioni.
+- I primi nel passivo (classe F), 170,7 milioni; i secondi nell'attivo fra gli investimenti (C.IV), 122,2 milioni.
+- I primi nel passivo (classe F), 122,2 milioni; i secondi nell'attivo fra gli altri investimenti finanziari (C.III.6), 118,1 milioni.
+
+**D:** ⚠️ Con quale voce si apre il conto tecnico dei rami danni, e con quale quello dei rami vita, nel conto economico di UnipolSai 2021, secondo le slide 12 e 14 della lezione 39?
+**R:** Il conto tecnico dei **rami danni** si apre con i «*Premi **di competenza**, al netto delle cessioni in riassicurazione*», 6.743.742.223 euro: premi lordi contabilizzati 7.004.737.692, meno i premi ceduti in riassicurazione, più le variazioni della riserva premi. Il conto tecnico dei **rami vita** si apre con i «*Premi **dell'esercizio**, al netto delle cessioni in riassicurazione*», 2.863.850.224: premi lordi 2.869.775.824 meno 5.925.600 di ceduti. Il docente cita solo la prima: «la prima voce sono i premi di competenza al netto delle cessioni riassicurative» ([00:14:44]). I premi lordi sommati fanno i 9.874,5 milioni della lezione 37.
+**Opzione:** Danni: premi di competenza, al netto delle cessioni in riassicurazione; vita: premi dell'esercizio, al netto delle cessioni in riassicurazione.
+**Distrattori:**
+- Danni: premi dell'esercizio, al netto delle cessioni in riassicurazione; vita: premi di competenza, al netto delle cessioni in riassicurazione.
+- Danni: premi lordi contabilizzati, senza le cessioni in riassicurazione; vita: premi dell'esercizio, al netto delle cessioni in riassicurazione.
+- Danni: premi di competenza, al netto delle cessioni in riassicurazione; vita: proventi da investimenti, al netto delle cessioni in riassicurazione.
+
+**D:** ⚠️ Quanto vale nel 2021 la quota dell'utile degli investimenti trasferita fra conto non tecnico e conti tecnici di UnipolSai, e in quale direzione, secondo le slide 12, 16 e 18 della lezione 39?
+**R:** **309.849.325 euro** vanno **dal conto non tecnico al conto tecnico dei rami danni**: voce I.2 «(+) quota dell'utile degli investimenti trasferita dal conto non tecnico (voce III.6)» e voce III.6 «(−) quota … trasferita al conto tecnico dei rami danni (voce I.2)». **94.632.458** vanno **dal conto tecnico dei rami vita al conto non tecnico**: voci II.12 e III.4. Il docente: «quei 309 milioni» ([00:19:50]). ⚠️ La slide 18 scrive «trasferita **al** conto tecnico dei rami danni», come lo schema di legge: conferma l'integrazione della lezione 24.
+**Opzione:** 309,8 milioni dal conto non tecnico al conto tecnico danni; 94,6 milioni dal conto tecnico vita al conto non tecnico.
+**Distrattori:**
+- 94,6 milioni dal conto non tecnico al conto tecnico danni; 309,8 milioni dal conto tecnico vita al conto non tecnico.
+- 590,3 milioni dal conto non tecnico al conto tecnico danni; 155,6 milioni dal conto tecnico vita al conto non tecnico.
+- 309,8 milioni dal conto non tecnico al conto tecnico danni; 94,6 milioni dal conto non tecnico al conto tecnico vita.
+
+**D:** ⚠️ Quali sono nel 2021 il risultato del conto tecnico dei rami danni, quello dei rami vita e l'utile d'esercizio di UnipolSai, secondo le slide 12, 16 e 18 della lezione 39?
+**R:** Conto tecnico dei rami danni **590.275.881 euro** (936.095.339 nel 2020); conto tecnico dei rami vita **155.630.354** (−9.926.208 nel 2020); utile d'esercizio **648.137.175** (814.306.666). In mezzo stanno il risultato dell'attività ordinaria, 744.503.373, quello dell'attività straordinaria, 134.326.367, il risultato prima delle imposte, 878.829.740, e le imposte, 230.692.565. Nel patrimonio netto l'utile è stampato 648.137.176. Sono le cifre della slide 7 della lezione 37.
+**Opzione:** Danni 590,3 milioni, vita 155,6, utile 648,1.
+**Distrattori:**
+- Danni 155,6 milioni, vita 590,3, utile 648,1.
+- Danni 590,3 milioni, vita 155,6, utile 744,5.
+- Danni 936,1 milioni, vita −9,9, utile 814,3.
+
+**D:** Perché, secondo il docente della lezione 39, nel conto tecnico dei rami danni non compare la gestione finanziaria, mentre in quello dei rami vita sì?
+**R:** Perché «nel ramo danni la componente di investimento patrimoniale e finanziario è **scarsamente significativa**». Si è preferito esporre i risultati degli investimenti dei premi danni nel **conto non tecnico**, e lasciare nel conto tecnico danni solo la voce 2, la **quota dell'utile degli investimenti trasferita dal conto non tecnico** (309,8 milioni nel 2021). Nel ramo vita invece la gestione finanziaria «è evidenziata nel conto tecnico stesso» ([00:19:50]). Per il docente lo schema è stato scelto dal legislatore europeo «per facilitare la comprensione delle poste» ([00:23:47]). ⚠️ Nelle cifre di UnipolSai i proventi da investimenti dei rami danni sono 702,0 milioni, contro i 1.100,0 del vita (slide 14 e 16).
+
+**D:** ⚠️ Da quali documenti è costituito il bilancio di UnipolSai, e da che cosa è corredato, secondo la premessa della nota integrativa (slide 20 della lezione 39)?
+**R:** «*Il bilancio è costituito dallo **Stato Patrimoniale**, dal **Conto Economico** e dalla presente **Nota Integrativa** e relativi allegati, redatti secondo gli schemi previsti dal Regolamento, nonché dal **Rendiconto Finanziario redatto in forma libera**. È inoltre corredato dalla **Relazione degli Amministratori sulla gestione**.*» Il Regolamento è il Regolamento ISVAP n. 22 del 4 aprile 2008. Stato patrimoniale e conto economico sono in unità di euro senza decimali, la nota integrativa e gli altri prospetti in migliaia di euro. Per il docente il documento di bilancio comprende anche la relazione sulla gestione e altri allegati ([00:00:05]).
+**Opzione:** Stato Patrimoniale, Conto Economico e Nota Integrativa con gli allegati, secondo gli schemi del Regolamento, e Rendiconto Finanziario in forma libera; è corredato dalla Relazione sulla gestione.
+**Distrattori:**
+- Stato Patrimoniale, Conto Economico, Nota Integrativa con gli allegati e Rendiconto Finanziario, tutti secondo gli schemi del Regolamento; è corredato dalla Relazione sulla gestione.
+- In apertura del fascicolo di bilancio, nella relazione sulla gestione o nella parte iniziale della nota integrativa, secondo le scelte editoriali della compagnia.
+- Il formato XHTML per la relazione finanziaria annuale, con le specifiche XBRL per alcune informazioni del consolidato, dall'esercizio 2021.
+
+**D:** ⚠️ Che cosa impone il Regolamento ESEF, e da quando, secondo la nota integrativa di UnipolSai (slide 21 della lezione 39)?
+**R:** La **Direttiva Transparency (2004/109/CE)** obbliga le società quotate a pubblicare la relazione finanziaria annuale in un «*formato elettronico unico di comunicazione*». Il **Regolamento UE 2019/815** del 2018 (Regolamento ESEF) impone di redigerla in formato **XHTML**, marcando alcune informazioni del bilancio consolidato, cioè gli schemi e alcuni dati identificativi dell'emittente, con le specifiche **XBRL**. A seguito di una proroga nazionale, l'obbligo decorre **dall'esercizio 2021** (slide 21). Il docente: «il bilancio è redatto in formato elettronico» ([00:23:47]).
+**Opzione:** Il formato XHTML per la relazione finanziaria annuale, con le specifiche XBRL per alcune informazioni del consolidato, dall'esercizio 2021.
+**Distrattori:**
+- Il formato XBRL per la relazione finanziaria annuale, con le specifiche XHTML per alcune informazioni del consolidato, dall'esercizio 2021.
+- Il formato XHTML per la relazione finanziaria annuale, con le specifiche XBRL per alcune informazioni del consolidato, dall'esercizio 2019.
+- Il formato XHTML per la relazione finanziaria annuale, con le specifiche XBRL per alcune informazioni del consolidato, dall'esercizio 2016.
+
+**D:** ⚠️ Con quale aliquota si ammortizzano gli immobili di UnipolSai, quali immobili, e che cosa non si ammortizza, secondo i criteri di valutazione (slide 23 della lezione 39)?
+**R:** «*Gli immobili di natura **strumentale**, destinati all'esercizio dell'Impresa **o dati in uso a terzi**, sono ammortizzati con una aliquota costante pari al **3%**.*» I **terreni**, comprese le quote di terreno degli immobili cielo-terra, si contabilizzano separatamente e **non si ammortizzano**. Si ammortizzano anche gli immobili **non strumentali** ad uso civile abitazione, salvo che la manutenzione ne giustifichi il mancato ammortamento. Il valore di mercato è determinato da una perizia di un ente esterno autonomo (slide 23). Il docente: gli immobili che rientrano nelle immobilizzazioni «sono ammortizzati con una aliquota costante al 3%» ([00:25:31]).
+**Opzione:** Al 3% costante gli immobili strumentali, destinati all'esercizio dell'Impresa o dati in uso a terzi; i terreni non si ammortizzano.
+**Distrattori:**
+- Al 3% costante i soli immobili destinati all'esercizio dell'Impresa, non quelli dati in uso a terzi; i terreni non si ammortizzano.
+- Al 3% costante gli immobili strumentali, destinati all'esercizio dell'Impresa o dati in uso a terzi, compresi i terreni.
+- Dai due ai dieci anni gli immobili strumentali, destinati all'esercizio dell'Impresa o dati in uso a terzi; i terreni non si ammortizzano.
+
+## Lezione 40 — La Nota Integrativa del bilancio della compagnia di assicurazioni. I criteri di valutazione
+
+**D:** ⚠️ A quale valore sono iscritti gli attivi immateriali, secondo il test della lezione 40 (domanda 1)?
+**R:** Al **costo storico**. La slide 2: «*Gli attivi immateriali considerati **ad utilizzo durevole** sono iscritti al **costo di acquisto o di produzione**. Nel costo di acquisto si computano anche gli oneri accessori mentre nel costo di produzione sono compresi tutti i costi direttamente imputabili ai singoli elementi dell'attivo.*» È la formula dei principi nazionali per le immobilizzazioni immateriali (lezione 07, slide 9), che il docente di quella lezione chiama «costo storico» ([00:11:30] della lezione 07). ⚠️ La chiave non è testuale: «storico» non compare né nelle slide né nel transcript della lezione 40, e la chiave tace la condizione «ad utilizzo durevole». Il vicino è «fair value»: nel deck 40 compare solo per i derivati, come informativa dell'art. 2427-bis c.c. (slide 6), e per gli IAS un'immateriale si può rivalutare fino al fair value per l'intera categoria (lezione 08). Il costo di sostituzione viene dalla lezione 06 (slide 4), il valore di vendita non è nei materiali. Distrattori del test: «costo di sostituzione», «fair value», «valore di vendita».
+**Opzione:** Costo storico.
+**Distrattori:**
+- Costo di sostituzione.
+- Fair value.
+- Valore di vendita.
+
+**D:** ⚠️ A quale valore sono iscritte le provvigioni di acquisizione, secondo il test della lezione 40 (domanda 2)?
+**R:** Al **costo storico**. Le provvigioni di acquisizione da ammortizzare sono la prima voce degli **attivi immateriali** (lezione 23, slide 7), che la slide 2 iscrive «*al costo di acquisto o di produzione*». Per la slide 2 le provvigioni sono «*capitalizzate ed ammortizzate*»: nei rami Danni a quote costanti in tre anni, nei rami Vita fino a concorrenza dei caricamenti e per non più di dieci anni. Si capitalizza la provvigione pagata all'agente, per il docente nell'ordine del 3-5% del valore del contratto ([00:03:57]). ⚠️ È la chiave più debole delle tre: la slide non dà un criterio di iscrizione per le provvigioni, e «storico» non compare nella lezione. Il vicino è «fair value», il criterio alternativo degli IAS, che nel deck 40 vale solo come informativa sui derivati (slide 6). Distrattori del test: «costo di sostituzione», «fair value», «valore di vendita».
+**Opzione:** Costo storico.
+**Distrattori:**
+- Costo di sostituzione.
+- Fair value.
+- Valore di vendita.
+
+**D:** ⚠️ A quale valore sono iscritti i costi di impianto e ampliamento, secondo il test della lezione 40 (domanda 3)?
+**R:** Al **costo storico**. La slide 2: «*In questa voce vengono iscritte le **spese sostenute** in caso di costituzione della società o per modifiche dello statuto*», e gli oneri per aumenti di capitale si ammortizzano in un periodo massimo di cinque anni. ⚠️ «Storico» non compare nella lezione: la chiave regge perché le spese sostenute sono un costo, e i costi di impianto e ampliamento sono attivi immateriali, iscritti al costo di acquisto o di produzione. Il vicino è «fair value»: per lo IAS 38 questi costi non si capitalizzano affatto (lezione 08, slide 5). Il collegio sindacale delle lezioni 07–08 condiziona se si iscrivono, non a quale valore, e nel deck 40 non compare. Distrattori del test: «costo di sostituzione», «fair value», «valore di vendita».
+**Opzione:** Costo storico.
+**Distrattori:**
+- Costo di sostituzione.
+- Fair value.
+- Valore di vendita.
+
+**D:** ⚠️ Quale organo aziendale decide se un investimento vada considerato durevole o non durevole, secondo il test della lezione 40 (domanda 4)?
+**R:** Il **consiglio di amministrazione**. La slide 4: «*Tutti i titoli di debito e di capitale durevoli o non durevoli, rientranti nel portafoglio della Società, sono assegnati sulla base dei criteri di classificazione fissati in apposita **delibera quadro** assunta dal **Consiglio di Amministrazione***». Per il docente i criteri si stabiliscono «ogni anno» ([00:12:02]): la cadenza annuale la dice solo lui. ⚠️ Il vicino è il **collegio sindacale**, che nelle lezioni 07–08 dà il consenso all'iscrizione di costi pluriennali, costi di impianto e ampliamento e avviamento: anche lì decide il consiglio di amministrazione (lezione 08, [00:15:10]). L'assemblea approva i piani di performance share (lezione 38, slide 8). Il Consiglio di Amministrazione assume anche la delibera quadro sulla ripartizione dei costi comuni fra Danni e Vita (slide 15). Distrattori del test: «assemblea dei soci», «collegio sindacale», «società di revisione».
+**Opzione:** Consiglio di amministrazione.
+**Distrattori:**
+- Assemblea dei soci.
+- Collegio sindacale.
+- Società di revisione.
+
+**D:** ⚠️ A quale valore sono iscritti in bilancio i finanziamenti, secondo il test della lezione 40 (domanda 5)?
+**R:** Al **valore di presumibile realizzo**: è la slide 6 alla lettera, «*Finanziamenti — Sono iscritti al valore di presumibile realizzo*». Il docente lo ripete ([00:15:43]). Lo stesso criterio vale per i **crediti** (slide 7). ⚠️ Il vicino è il **valore nominale**: nella stessa slide 6 è il criterio dei **depositi presso imprese cedenti**, e nelle slide 8 e 13 quello delle **passività subordinate** e dei **debiti**. Il collegio sindacale non compare nel deck 40: nelle lezioni 07–08 condiziona l'iscrizione di alcuni costi, non ne determina il valore. Il valore di cessione non è nei materiali. Distrattori del test: «valore determinato dal collegio sindacale», «valore di cessione», «valore nominale».
+**Opzione:** Valore di presumibile realizzo.
+**Distrattori:**
+- Valore determinato dal collegio sindacale.
+- Valore di cessione.
+- Valore nominale.
+
+**D:** ⚠️ A quale valore sono iscritti gli attivi immateriali considerati ad utilizzo durevole, che cosa vi si computa e da quando si ammortizzano, secondo la slide 2 della lezione 40?
+**R:** «*Gli attivi immateriali considerati ad utilizzo durevole sono iscritti al **costo di acquisto o di produzione**. Nel costo di acquisto si computano anche gli **oneri accessori** mentre nel costo di produzione sono compresi tutti i **costi direttamente imputabili** ai singoli elementi dell'attivo. Vengono ammortizzati **dal momento in cui sono disponibili per l'utilizzo** o, comunque, producano benefici economici.*» (slide 2). È la formula dei principi nazionali per le immobilizzazioni immateriali (lezione 07, slide 9), cioè il costo storico del test (domanda 1). Il docente: «vengono naturalmente ammortizzati dal momento in cui sono disponibili per l'utilizzo e quindi producono benefici economici» ([00:00:05]). Per lo stesso motivo, fra gli altri costi pluriennali, l'ammortamento dei progetti in corso d'opera è sospeso fino all'esercizio in cui inizierà l'utilizzo.
+**Opzione:** Al costo di acquisto, con gli oneri accessori, o di produzione, con tutti i costi direttamente imputabili; si ammortizzano dal momento in cui sono disponibili per l'utilizzo o, comunque, producano benefici economici.
+**Distrattori:**
+- Al costo di acquisto, con gli oneri accessori, o di produzione, con tutti i costi direttamente imputabili; si ammortizzano dal momento in cui i costi sono sostenuti, anche se non ancora disponibili per l'utilizzo.
+- Redditività, liquidità e sicurezza: si massimizzano insieme solo costruendo un apposito portafoglio, perché un singolo investimento ne ha al massimo due.
+- Esclusivamente per finalità di copertura; valutati secondo il principio di coerenza valutativa, imputando a conto economico minusvalenze o plusvalenze coerentemente con quelle calcolate sulle attività o passività coperte.
+
+**D:** ⚠️ Come si ammortizzano gli oneri relativi ad acquisti di portafoglio dei rami Vita e i marchi, secondo la slide 2 della lezione 40?
+**R:** «*Gli oneri relativi ad **acquisti di portafoglio** riguardanti i rami Vita sono ammortizzati **a quote costanti**, in considerazione della **durata media residua dei contratti interessati**. I **marchi** vengono ammortizzati **in 10 anni**.*» (slide 2, «Altri costi pluriennali»). Il docente: gli oneri per l'acquisto di portafogli di rami vita da altre compagnie si ammortizzano a quote costanti «in considerazione della durata media dei contratti acquisiti», e «i marchi, come avviene per la gestione civilistica, vengono ammortizzati in 10 anni» ([00:09:43]). Nella stessa slide gli altri costi pluriennali vanno dai due ai dieci anni, l'avviamento non oltre 20 anni, gli oneri per aumenti di capitale non oltre cinque. Le provvigioni di acquisizione si ammortizzano in tre anni nei rami Danni e in non più di dieci nei rami Vita (lezione 39, slide 21).
+**Opzione:** Gli oneri di portafoglio Vita a quote costanti sulla durata media residua dei contratti interessati; i marchi in 10 anni.
+**Distrattori:**
+- Gli oneri di portafoglio Vita a quote costanti sulla durata media residua dei contratti interessati; i marchi in 20 anni.
+- Gli oneri di portafoglio Vita in un periodo massimo di cinque anni dalla data dell'acquisto; i marchi in 10 anni.
+- Gli oneri di portafoglio Vita a quote costanti sulla durata massima dei contratti interessati; i marchi in 10 anni.
+
+**D:** ⚠️ Che differenza c'è fra provvigioni di acquisizione e provvigioni di incasso, secondo il docente della lezione 40?
+**R:** Le **provvigioni di incasso** la compagnia le riconosce ad agenti, subagenti e mandatari per **contratti in corso**, in cui l'unica incombenza dell'agente «è quella di riscuotere il premio annuale successivo»: la percentuale è «molto molto bassa» e il costo va **direttamente a conto economico**. Le **provvigioni di acquisizione** si riconoscono agli agenti «nel momento in cui acquisiscono un nuovo contratto», per allargare il portafoglio: la percentuale è «molto più elevata, nell'ordine del **3-5%** del valore complessivo del contratto». «Proprio per questo suo maggior peso» l'IVASS ha ritenuto più corretto «relazionare il peso di questo onere al contratto che è stato acquisito», cioè capitalizzarlo e ammortizzarlo ([00:03:57]). La distinzione è solo nel transcript: la slide 2 tratta le sole provvigioni di acquisizione. Nel conto economico le provvigioni di acquisizione e di incasso stanno insieme fra le spese di gestione (lezione 37, slide 7).
+**Opzione:** Quelle di incasso remunerano la riscossione del premio annuale dei contratti in corso, sono molto basse e vanno subito a conto economico; quelle di acquisizione, per un nuovo contratto, sono nell'ordine del 3-5% del suo valore e si capitalizzano.
+**Distrattori:**
+- Quelle di acquisizione remunerano la riscossione del premio annuale dei contratti in corso, sono molto basse e vanno subito a conto economico; quelle di incasso, per un nuovo contratto, sono nell'ordine del 3-5% del suo valore e si capitalizzano.
+- −74,2 milioni: 34,8 su investimenti finanziari del comparto non durevole, 38,8 su immobili (35,2 di ammortamenti), 0,6 su partecipazioni del gruppo.
+- Al minore tra il costo medio e il valore di mercato, per i quotati la media aritmetica dei prezzi di dicembre; le riduzioni di valore non si mantengono se sono venuti meno i motivi che le hanno originate.
+
+**D:** ⚠️ Quali spese si iscrivono fra i costi di impianto ed ampliamento, e in quale periodo si ammortizzano gli oneri relativi ad aumenti di capitale, secondo la slide 2 della lezione 40?
+**R:** «*In questa voce vengono iscritte le spese sostenute in caso di **costituzione della società** o per **modifiche dello statuto**. Gli oneri relativi ad **aumenti di capitale** sono ammortizzati in un periodo **massimo di cinque anni**, a decorrere dalla **data di effetto dell'operazione** a cui sono correlati, tenendo conto della utilità futura dei medesimi e della loro presunta vita utile.*» (slide 2). Il docente aggiunge che per le compagnie di vecchia data le spese di costituzione sono limitate, e restano quelle per modifiche statutarie, aumenti di capitale e operazioni straordinarie come scissioni, acquisizioni e fusioni ([00:05:57]). Non cita i cinque anni. Cinque anni è anche il massimo dei costi pluriennali dell'art. 2426 (lezione 07, slide 7). Nei principi nazionali l'iscrizione richiede il parere favorevole del collegio sindacale, se presente (lezione 08, slide 5), che il deck 40 non nomina.
+**Opzione:** Le spese sostenute in caso di costituzione della società o per modifiche dello statuto; gli oneri per aumenti di capitale in un periodo massimo di cinque anni, dalla data di effetto dell'operazione.
+**Distrattori:**
+- Le spese sostenute in caso di costituzione della società o per modifiche dello statuto; gli oneri per aumenti di capitale in un periodo massimo di dieci anni, dalla data di effetto dell'operazione.
+- Proventi netti 1.161,8 milioni, profitti netti su realizzi 215,6, totale prima delle valutazioni 1.377,4.
+- Analiticamente per ogni contratto sulla base dei premi puri, senza detrazioni per spese di acquisizione delle polizze da ammortizzare; è sempre non inferiore al valore di riscatto.
+
+**D:** ⚠️ Quando si genera l'avviamento che la compagnia iscrive nell'attivo, secondo l'esempio del docente della lezione 40?
+**R:** Per il docente l'avviamento si genera «spesso e volentieri nel caso in cui la compagnia proceda all'acquisto di una partecipazione per lo più **totalitaria** di un'altra azienda», pagandola più del valore del suo **patrimonio netto**. Se poi la società «viene incorporata, quindi fusa per incorporazione», il **maggior valore pagato** rispetto al patrimonio netto della società acquisita «determina un avviamento» ([00:05:57]–[00:07:41]). È il valore che si ritiene possa generare la «collaborazione fra gli strumenti operativi» delle due società ([00:08:15]). L'avviamento si iscrive separatamente «solo nel caso in cui sia stato oneroso», e non per esempio nella fusione per incorporazione di una società «di cui non viene pagato l'avviamento» ([00:08:15]–[00:08:59]). Per la slide 2 l'avviamento acquisito a titolo oneroso è iscritto al costo, in quanto incluso nel corrispettivo pagato, e si ammortizza in base alla vita utile per non più di **20 anni**. ⚠️ La slide 7 della lezione 07 dava **10 anni**: l'integrazione nella nota della lezione 40 spiega i due limiti.
+**Opzione:** Quando paga una partecipazione, per lo più totalitaria, più del patrimonio netto dell'azienda e poi la incorpora: il maggior valore pagato rispetto al patrimonio netto è avviamento.
+**Distrattori:**
+- Quando paga una partecipazione, per lo più totalitaria, meno del patrimonio netto dell'azienda e poi la incorpora: il minor valore pagato rispetto al patrimonio netto è avviamento.
+- 6,53 anni, indicatore dell'esposizione al rischio tasso; 8,31 anni per il portafoglio obbligazionario.
+- Al costo medio di acquisto o di sottoscrizione, rettificato o integrato della quota maturata nell'esercizio della differenza tra valore di rimborso e prezzo di acquisto; svalutati solo per accertate perdite permanenti di valore.
+
+**D:** ⚠️ Che cosa si iscrive fra gli altri costi pluriennali e in quale periodo si ammortizza, secondo la slide 2 della lezione 40?
+**R:** «*Tra i costi pluriennali sono iscritti quelli sostenuti per **progetti di riorganizzazione societaria** nonché **spese incrementative su immobili non di proprietà**. Detti costi sono ammortizzati in un periodo che va **dai due ai dieci anni** in considerazione della loro funzionalità e presunta residua utilità futura.*» Per i **progetti in corso d'opera** l'ammortamento è **sospeso** fino all'esercizio in cui inizierà il relativo utilizzo. Gli oneri per **acquisti di portafoglio** dei rami Vita si ammortizzano a quote costanti sulla **durata media residua** dei contratti, i **marchi** in **10 anni**, gli altri costi pluriennali in base alla presunta vita utile (slide 2). ⚠️ Per il docente le spese incrementative su immobili non di proprietà, in affitto o in leasing, si ammortizzano «per il periodo residuo di utilizzo del bene stesso in base al contratto di locazione», e la vita utile degli altri costi la determina «il Consiglio di amministrazione» ([00:08:59]–[00:09:43]). Fa testo la slide.
+**Opzione:** I costi per progetti di riorganizzazione societaria e le spese incrementative su immobili non di proprietà, ammortizzati in un periodo dai due ai dieci anni, secondo funzionalità e presunta residua utilità futura.
+**Distrattori:**
+- I costi per progetti di riorganizzazione societaria e le spese incrementative su immobili di proprietà, ammortizzati in un periodo dai due ai dieci anni, secondo funzionalità e presunta residua utilità futura.
+- In titoli del segmento Investment grade, l'88,7% del portafoglio obbligazionario.
+- Per perequare le fluttuazioni nel tasso dei sinistri degli anni futuri o coprire rischi particolari, quali il rischio del credito, di calamità naturali o dei danni da energia nucleare; secondo il D.M. n. 705 del 19 novembre 1996.
+
+**D:** ⚠️ Quando vengono capitalizzati i costi per migliorie e trasformazioni dei beni immobili, secondo la slide 3 della lezione 40?
+**R:** «*I costi per migliorie e trasformazioni vengono capitalizzati nel caso in cui si traducano in un **incremento della vita utile** dei cespiti **e della loro redditività**.*» (slide 3). Per il docente sono interventi di natura straordinaria, «restauro, risanamento, ristrutturazione», molto frequenti per le compagnie, che consentono una maggiore durata di utilizzo dell'immobile ([00:10:47]). È la regola delle spese incrementative della lezione 06: si capitalizzano solo se aumentano capacità, produttività o vita utile. Il **valore di mercato** degli immobili è un'altra cosa: lo determina una valutazione peritale analitica di un ente esterno autonomo (slide 3).
+**Opzione:** Nel caso in cui si traducano in un incremento della vita utile dei cespiti e della loro redditività.
+**Distrattori:**
+- Nel caso in cui si traducano in un incremento del valore di mercato dei cespiti e della loro redditività.
+- Sempre, anche quando non si traducono in un incremento della vita utile dei cespiti.
+- Mai: sono riflessi nel conto economico dell'esercizio in cui vengono sostenuti.
+
+**D:** ⚠️ Come si trattano gli immobili non strumentali destinati ad uso civile abitazione, secondo la slide 3 della lezione 40?
+**R:** «*Anche gli immobili **non strumentali** destinati ad **uso civile abitazione** vengono ammortizzati, **a meno che** la manutenzione effettuata per prolungarne l'utilizzazione nel tempo e mantenerne il valore non ne giustifichi il mancato ammortamento.*» (slide 3). Gli immobili **strumentali**, destinati all'esercizio dell'Impresa o dati in uso a terzi, si ammortizzano con un'aliquota costante pari al **3%**; i **terreni**, comprese le quote degli immobili **cielo-terra**, si contabilizzano separatamente e non si ammortizzano. ⚠️ Il docente dice «anche gli immobili **strumentali** che normalmente sono quelli destinati a uso di abitazione civile sono ammortizzati», con «una aliquota costante del 3%» ([00:12:02]). Per la slide gli immobili a uso civile abitazione sono **non strumentali**, e il 3% è degli strumentali: fa testo la slide. Per il docente i terreni non si ammortizzano perché non sono consumabili, salvo cave, torbiere, miniere e attività di smaltimento dei rifiuti.
+**Opzione:** Vengono ammortizzati anch'essi, a meno che la manutenzione effettuata per prolungarne l'utilizzazione nel tempo e mantenerne il valore non ne giustifichi il mancato ammortamento.
+**Distrattori:**
+- Vengono ammortizzati anch'essi, anche quando la manutenzione effettuata per prolungarne l'utilizzazione nel tempo e mantenerne il valore ne giustifichi il mancato ammortamento.
+- 4.263,3 milioni: 3.677,6 di azioni e quote, 9,4 di obbligazioni del Gruppo, 576,3 di finanziamenti a imprese del Gruppo.
+- Sempre al comparto degli investimenti ad utilizzo non durevole, per coerenza con il criterio di valutazione a valori correnti, ancorché abbiano le caratteristiche per rientrare tra quelli ad utilizzo durevole.
+
+**D:** ⚠️ A quale valore sono iscritte le partecipazioni in imprese del Gruppo ed in altre partecipate, secondo la slide 3 della lezione 40?
+**R:** «*Sono principalmente rappresentati da impieghi di carattere durevole quali partecipazioni di controllo, partecipazioni in società consociate ed in altre imprese. Tali partecipazioni sono iscritte in bilancio **al costo di acquisto o di sottoscrizione** o **ad un valore inferiore al costo** nei casi in cui le partecipate presentino, sulla base della loro situazione patrimoniale, **perdite durevoli di valore**.*» (slide 3). Il docente le descrive come impieghi di carattere durevole, ma non dice il criterio ([00:12:02]). ⚠️ Le **azioni delle imprese controllanti** detenute per i piani di incentivazione dei dirigenti seguono un criterio diverso: portafoglio non durevole, al minore tra costo e mercato. È il criterio del costo delle partecipazioni immobilizzate della lezione 09.
+**Opzione:** Al costo di acquisto o di sottoscrizione, o ad un valore inferiore al costo nei casi in cui le partecipate presentino perdite durevoli di valore.
+**Distrattori:**
+- Al costo di acquisto o di sottoscrizione, anche nei casi in cui le partecipate presentino perdite durevoli di valore.
+- Un andamento più che proporzionale rispetto al mercato: se il mercato perde il 10%, il settore perde l'11%.
+- Al valore corrente, secondo l'art. 17 comma 2 del D.Lgs. 173/97: per gli investimenti quotati, il valore dell'ultimo giorno di transazione dell'esercizio.
+
+**D:** ⚠️ Dove sono iscritte e come sono valutate le azioni delle imprese controllanti detenute al servizio dei piani di incentivazione del personale dirigente, secondo la slide 3 della lezione 40?
+**R:** «*Le azioni delle imprese controllanti, detenute al servizio dei piani di incentivazione del personale dirigente basato su strumenti finanziari, sono iscritte nel **portafoglio non durevole** e valutate **al minore tra valore di costo e valore di mercato**.*» (slide 3). Nella lezione 38 sono le 68.783 azioni della controllante **Unipol Gruppo**, per 0,3 milioni, «*iscritte nell'Attivo tra gli Altri investimenti finanziari*» (slide 9), al servizio dei piani di performance share. Le **azioni proprie** si rilevano invece in base al valore di acquisto a diretta diminuzione del patrimonio netto, nella Riserva negativa per azioni proprie in portafoglio (slide 13).
+**Opzione:** Nel portafoglio non durevole, al minore tra valore di costo e valore di mercato.
+**Distrattori:**
+- Nel portafoglio durevole, al costo di acquisto o di sottoscrizione.
+- Nel portafoglio non durevole, al valore corrente dell'ultimo giorno di transazione dell'esercizio.
+- A diretta diminuzione del patrimonio netto, nella Riserva negativa per azioni proprie in portafoglio.
+
+**D:** ⚠️ Quale limite massimo, sul totale delle voci C.III.1, C.III.2 e C.III.3, non devono superare gli investimenti ad uso durevole dei punti c) e d) della gestione Vita e quelli dei punti e) e f) della gestione Danni, secondo le slide 4–5 della lezione 40?
+**R:** «*Gli investimenti di cui al punto c) e al punto d) non dovranno in ogni caso superare il limite massimo del **70%** del totale voci C.III.1, C.III.2 e C.III.3*» (slide 4, gestione **Vita**). Per la gestione **Danni** quelli dei punti e) e f) non devono superare «*il limite massimo del **60%***» (slide 5). Nella gestione Vita il limite esclude, al numeratore e al denominatore, gli investimenti del punto b), le obbligazioni a copertura delle riserve delle polizze a prestazione predefinita. I punti c) ed e) sono le obbligazioni e altri titoli a reddito fisso (C.III.3), i punti d) ed f) i titoli di capitale e le quote di fondi (C.III.1 e C.III.2). Le lettere non sono stampate nella slide: si ricostruiscono dai rinvii. Il docente non cita i limiti.
+**Opzione:** Il 70% per la gestione Vita e il 60% per la gestione Danni.
+**Distrattori:**
+- Il 60% per la gestione Vita e il 70% per la gestione Danni.
+- Il 70% sia per la gestione Vita sia per la gestione Danni.
+- Il 70% per la gestione Vita e il 50% per la gestione Danni.
+
+**D:** ⚠️ A quale comparto devono essere sempre assegnati gli investimenti della voce D, e per quale ragione, secondo la slide 4 della lezione 40?
+**R:** «*Si precisa che gli investimenti in strumenti finanziari di cui alla voce **D** (Investimenti a beneficio di assicurati dei rami Vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione) […] dovranno essere **sempre** assegnati al comparto degli "**investimenti ad utilizzo non durevole**", **per coerenza con il criterio di valutazione a valori correnti** ad essi applicato, **ancorché** abbiano le caratteristiche per rientrare tra gli "investimenti ad utilizzo durevole".*» (slide 4). Il criterio è quello della slide 7: il valore corrente dell'art. 17, comma 2, del D.Lgs. 173/97. La classe D è quella degli investimenti a rischio degli assicurati delle lezioni 23 e 38.
+**Opzione:** Sempre al comparto degli investimenti ad utilizzo non durevole, per coerenza con il criterio di valutazione a valori correnti, ancorché abbiano le caratteristiche per rientrare tra quelli ad utilizzo durevole.
+**Distrattori:**
+- Sempre al comparto degli investimenti ad utilizzo non durevole, per coerenza con il criterio di valutazione al costo d'acquisto, ancorché abbiano le caratteristiche per rientrare tra quelli ad utilizzo durevole.
+- Il D.Lgs. 12 maggio 2015 n. 74, che ha modificato ed integrato il D.Lgs. 209/2005, Codice delle Assicurazioni Private.
+- Le spese sostenute in caso di costituzione della società o per modifiche dello statuto; gli oneri per aumenti di capitale in un periodo massimo di cinque anni, dalla data di effetto dell'operazione.
+
+**D:** ⚠️ A quale condizione le obbligazioni e altri titoli a reddito fisso della voce C.III.3 sono classificati fra gli investimenti ad uso durevole nella gestione Vita, e a quale nella gestione Danni, secondo le slide 4–5 della lezione 40?
+**R:** Nella gestione **Vita** (punto c), quelli diversi dal punto b), «*qualora coerenti con l'**orizzonte temporale** ed il **livello della prestazione garantita** agli assicurati*» (slide 4). Nella gestione **Danni** (punto e), «*con **finalità d'investimento duraturo** in quanto **funzionali all'attività assicurativa***» (slide 5). Gli altri durevoli sono gli investimenti in imprese del Gruppo (C.II) «*qualora considerati strategici*», le obbligazioni Vita a copertura delle riserve delle polizze a prestazione predefinita, «*poiché caratterizzati dalla massima correlazione con gli impegni assunti*», e i titoli di capitale (C.III.1 e C.III.2) «*qualora risulti evidente la loro attitudine a costituire un investimento durevole*», con «*carattere residuale*» rispetto al portafoglio durevole. I criteri li fissa la delibera quadro del Consiglio di Amministrazione.
+**Opzione:** Nella gestione Vita qualora coerenti con l'orizzonte temporale ed il livello della prestazione garantita agli assicurati; nella gestione Danni con finalità d'investimento duraturo in quanto funzionali all'attività assicurativa.
+**Distrattori:**
+- Nella gestione Vita con finalità d'investimento duraturo in quanto funzionali all'attività assicurativa; nella gestione Danni qualora coerenti con l'orizzonte temporale ed il livello della prestazione garantita agli assicurati.
+- Al rischio tasso, al rischio credito, al rischio azionario ed al rischio di liquidità.
+- Al costo di acquisto, con gli oneri accessori, o di produzione, con tutti i costi direttamente imputabili; si ammortizzano dal momento in cui sono disponibili per l'utilizzo o, comunque, producano benefici economici.
+
+**D:** ⚠️ A quale valore sono iscritti i titoli azionari che non costituiscono immobilizzazioni e le quote di fondi comuni di investimento, e come si determina il valore di mercato, secondo la slide 5 della lezione 40?
+**R:** «*I titoli azionari che non costituiscono immobilizzazioni e le quote di fondi comuni di investimento, sono iscritti **al minore fra il costo medio d'acquisto ed il valore di mercato**, corrispondente, per i titoli **quotati**, alla **media aritmetica dei prezzi rilevati nell'ultimo mese** dell'esercizio e, per i titoli **non quotati**, ad una **stima prudente del loro presumibile valore di realizzo**.*» (slide 5). Le azioni e quote classificate come **durevoli** restano **al costo d'acquisto**, rettificato dalle svalutazioni per perdite di valore ritenute durature. Per il docente il minore fra costo e mercato risponde al **criterio della prudenza** ([00:15:43]). ⚠️ Per gli investimenti quotati della **classe D** vale invece il valore dell'**ultimo giorno di transazione** dell'esercizio (slide 7).
+**Opzione:** Al minore fra il costo medio d'acquisto ed il valore di mercato: per i quotati la media aritmetica dei prezzi dell'ultimo mese dell'esercizio, per i non quotati una stima prudente del presumibile valore di realizzo.
+**Distrattori:**
+- Al minore fra il costo medio d'acquisto ed il valore di mercato: per i quotati il valore dell'ultimo giorno di transazione dell'esercizio, per i non quotati una stima prudente del presumibile valore di realizzo.
+- 3,26 volte l'SCR e 7,03 volte l'MCR.
+- I costi per progetti di riorganizzazione societaria e le spese incrementative su immobili non di proprietà, ammortizzati in un periodo dai due ai dieci anni, secondo funzionalità e presunta residua utilità futura.
+
+**D:** ⚠️ Come sono valutati i titoli a reddito fisso destinati a permanere durevolmente nel patrimonio della Società, e quando si svalutano, secondo la slide 5 della lezione 40?
+**R:** «*I titoli destinati a permanere durevolmente nel patrimonio della Società sono valutati **al costo medio di acquisto o di sottoscrizione**, **rettificato o integrato** dell'importo pari alla **quota maturata nell'esercizio** della differenza negativa o positiva **tra il valore di rimborso ed il prezzo di acquisto**, con separata rilevazione della quota di competenza relativa agli eventuali scarti di emissione. Vengono eventualmente svalutati **solo a fronte di accertate perdite permanenti di valore**.*» (slide 5). Per i titoli a tasso implicito, come gli zero coupon bond, si tiene conto per competenza della quota di adeguamento del capitale già maturata. Il docente dice «rettificato e integrato» ([00:15:43]). ⚠️ Sono i titoli immobilizzati dei principi nazionali (lezione 09): la slide non parla di costo ammortizzato, che è un criterio degli IAS. I titoli **a breve** sono invece allineati al minore fra costo medio e mercato.
+**Opzione:** Al costo medio di acquisto o di sottoscrizione, rettificato o integrato della quota maturata nell'esercizio della differenza tra valore di rimborso e prezzo di acquisto; svalutati solo per accertate perdite permanenti di valore.
+**Distrattori:**
+- Al costo medio di acquisto o di sottoscrizione, rettificato o integrato della quota maturata nell'esercizio della differenza tra valore di rimborso e prezzo di acquisto; svalutati ogni volta che il valore di mercato è inferiore al costo.
+- Rischio di tariffazione, rischio di riservazione, rischio catastrofale e rischio di riscatto.
+- Quelle di incasso remunerano la riscossione del premio annuale dei contratti in corso, sono molto basse e vanno subito a conto economico; quelle di acquisizione, per un nuovo contratto, sono nell'ordine del 3-5% del suo valore e si capitalizzano.
+
+**D:** ⚠️ A quale valore sono allineati i titoli a reddito fisso utilizzati per impieghi a breve, e che cosa accade alle riduzioni di valore di esercizi precedenti, secondo la slide 5 della lezione 40?
+**R:** «*I titoli utilizzati per impieghi a breve sono allineati **al minore tra il costo medio**, incrementato o rettificato degli scarti di emissione maturati, **e quello di mercato** costituito, per i titoli quotati, dalla **media aritmetica dei prezzi rilevati nel mese di dicembre** e, per quelli non quotati, dal **presumibile valore di realizzo** di fine esercizio, determinato sulla base del valore corrente dei titoli, negoziati in mercati regolamentati, aventi analoghe caratteristiche. Le riduzioni di valore di esercizi precedenti **non vengono mantenute** qualora siano **venuti meno i motivi** che le hanno originate.*» (slide 5). È il **ripristino di valore** della lezione 06. Il valore di presumibile realizzo desumibile dall'andamento del mercato è il parametro dei titoli del circolante della lezione 09.
+**Opzione:** Al minore tra il costo medio e il valore di mercato, per i quotati la media aritmetica dei prezzi di dicembre; le riduzioni di valore non si mantengono se sono venuti meno i motivi che le hanno originate.
+**Distrattori:**
+- Al minore tra il costo medio e il valore di mercato, per i quotati la media aritmetica dei prezzi di dicembre; le riduzioni di valore si mantengono anche se sono venuti meno i motivi che le hanno originate.
+- Mortalità/longevità, riscatto e spese, misurati con il Modello Interno Parziale basato sulla metodologia Least Square Monte Carlo.
+- Quando paga una partecipazione, per lo più totalitaria, più del patrimonio netto dell'azienda e poi la incorpora: il maggior valore pagato rispetto al patrimonio netto è avviamento.
+
+**D:** ⚠️ A quale valore sono iscritti i crediti, e in base a che cosa il fondo svalutazione dei crediti verso assicurati per premi stima la possibile perdita futura, secondo la slide 7 della lezione 40?
+**R:** «*Sono iscritti al **valore di presumibile realizzo**.*» I crediti verso assicurati per premi dell'esercizio e di esercizi precedenti sono i crediti maturati ma non ancora incassati: «*Il fondo svalutazione appositamente costituito tiene conto della possibile perdita futura determinata **in base all'esperienza e ai dati consuntivi dell'esercizio in corso***» (slide 7). I crediti verso **intermediari** accolgono quelli verso agenti, brokers ed altri intermediari e le rivalse per indennizzi ad agenti cessati, svalutati dopo la verifica analitica delle singole posizioni. Negli **altri crediti** stanno i crediti d'imposta acquistati, come ecobonus e sismabonus, su raccomandazione dell'IVASS del 23 marzo 2021. ⚠️ Per il docente il fondo si basa sui «dati statistici sostanzialmente storici» delle perdite su crediti ([00:15:43]). Lo stesso criterio del presumibile realizzo vale per i finanziamenti (slide 6).
+**Opzione:** Al valore di presumibile realizzo; il fondo svalutazione stima la perdita in base all'esperienza e ai dati consuntivi dell'esercizio in corso.
+**Distrattori:**
+- Al valore nominale; il fondo svalutazione stima la perdita in base all'esperienza e ai dati consuntivi dell'esercizio in corso.
+- Il rischio di mercato con il Monte Carlo VaR, il rischio di credito con il CreditRisk+.
+- Durata media finanziaria degli investimenti prima della scadenza.
+
+**D:** ⚠️ Per quali finalità sono utilizzati gli strumenti finanziari derivati, e secondo quale principio sono valutati quelli in essere a fine periodo, secondo la slide 6 della lezione 40?
+**R:** Gli strumenti finanziari derivati, come definiti dal **Regolamento ISVAP n. 36 del 31 gennaio 2011**, «*sono **esclusivamente** utilizzati per **finalità di copertura**, a riduzione del profilo di rischio delle attività/passività coperte ovvero ad ottimizzazione del profilo di rischio/rendimento delle stesse. I contratti derivati in essere a fine periodo sono valutati secondo il "**principio di coerenza valutativa**"; in particolare, vengono imputate a conto economico le minusvalenze o le plusvalenze da valutazione **coerentemente con le corrispondenti plusvalenze o minusvalenze** da valutazione calcolate sulle attività o passività coperte.*» (slide 6). Per le operazioni in essere alla chiusura se ne indica il **fair value**, come chiede l'**art. 2427-bis** c.c.: senza mercato attivo, il valore corrente di uno strumento analogo, o modelli e tecniche di valutazione generalmente accettati. Il docente: «esclusivamente per finalità di copertura, ovviamente» ([00:15:43]).
+**Opzione:** Esclusivamente per finalità di copertura; valutati secondo il principio di coerenza valutativa, imputando a conto economico minusvalenze o plusvalenze coerentemente con quelle calcolate sulle attività o passività coperte.
+**Distrattori:**
+- Anche per finalità di negoziazione; valutati secondo il principio di coerenza valutativa, imputando a conto economico minusvalenze o plusvalenze coerentemente con quelle calcolate sulle attività o passività coperte.
+- Misura della sensitivity del portafoglio alla variazione degli spread di credito di riferimento.
+- In modo analitico, stimando il costo presunto di tutti i sinistri aperti alla fine dell'esercizio; per i denunciati con il metodo dell'inventario, integrato dove possibile da metodi statistici come il Chain-Ladder.
+
+**D:** ⚠️ Quali tre voci, nei rispettivi paragrafi delle slide 6, 8 e 13 della lezione 40, sono iscritte al valore nominale?
+**R:** I **depositi presso imprese cedenti**, costituiti in relazione a rischi assunti in riassicurazione, «*sono iscritti al valore nominale*» (slide 6). Le **passività subordinate**: «*I prestiti emessi rientranti in questa categoria sono iscritti al valore nominale*» (slide 8). I **debiti e altre passività** «*sono iscritti al loro valore nominale e rappresentano il debito della Società verso terzi*» (slide 13). Per la classe D, le altre attività e passività e le disponibilità liquide sono «*generalmente*» al valore nominale (slide 7). ⚠️ **Finanziamenti** e **crediti** sono invece al **valore di presumibile realizzo** (slide 6–7; test, domanda 5). Per il docente le passività subordinate hanno «natura di quasi capitale», perché si rimborsano dopo tutti gli altri creditori ([00:19:34]).
+**Opzione:** I depositi presso imprese cedenti, le passività subordinate e i debiti e altre passività.
+**Distrattori:**
+- I finanziamenti, le passività subordinate e i debiti e altre passività.
+- I depositi presso imprese cedenti, i crediti e i debiti e altre passività.
+- I depositi presso imprese cedenti, le passività subordinate e i fondi per rischi e oneri.
+
+**D:** ⚠️ A quale valore sono iscritti gli investimenti a beneficio degli assicurati dei rami Vita i quali ne sopportano il rischio e derivanti dalla gestione dei fondi pensione, e che cosa si intende per quelli quotati, secondo la slide 7 della lezione 40?
+**R:** «*Sono iscritti al **valore corrente**, secondo quanto disposto dall'**articolo 17 comma 2 del D.Lgs. 173/97**, in particolare: per gli investimenti **quotati**, si intende il **valore dell'ultimo giorno di transazione** dell'esercizio; per gli investimenti trattati in **mercati non regolamentati** si intende una **stima del loro presumibile valore di realizzo** alla medesima data; per le altre attività e passività e le disponibilità liquide si intende generalmente il loro **valore nominale**.*» (slide 7). Per coerenza con questo criterio la classe D sta sempre fra gli investimenti ad utilizzo non durevole (slide 4). ⚠️ La media aritmetica dei prezzi dell'ultimo mese è invece il valore di mercato delle azioni e quote non immobilizzate (slide 5). Il docente parla di investimenti «quotati che sono trattati in mercati non regolamentati» ([00:15:43]).
+**Opzione:** Al valore corrente, secondo l'art. 17 comma 2 del D.Lgs. 173/97: per gli investimenti quotati, il valore dell'ultimo giorno di transazione dell'esercizio.
+**Distrattori:**
+- Al valore corrente, secondo l'art. 17 comma 2 del D.Lgs. 173/97: per gli investimenti quotati, la media aritmetica dei prezzi rilevati nell'ultimo mese dell'esercizio.
+- L'art. 2428 del Codice Civile.
+- 76,8%, 8,7%, 2,3%, 11,0% e 0,8%.
+
+**D:** ⚠️ Con quale metodo è conteggiata la riserva per frazioni di premi e con quale è costituita la riserva per rischi in corso, secondo la slide 8 della lezione 40?
+**R:** «*La riserva per frazioni di premi è conteggiata utilizzando, per tutti i rami esercitati, il **metodo analitico "pro rata temporis"***» (paragrafo 5 dell'allegato 15 al Regolamento ISVAP n. 22/2008), salvo i rischi del ramo **Credito** per i contratti stipulati o rinnovati entro il 31 dicembre 1991 (allegato 15-bis). «*La riserva per rischi in corso, connessa all'andamento tecnico e destinata a coprire la parte di rischio ricadente nel periodo successivo alla chiusura dell'esercizio, è costituita, sulla base del **metodo semplificato***» (paragrafo 6), nei rami in cui gli indennizzi attesi superano la riserva per frazioni di premio e le rate esigibili dopo la chiusura (slide 8). Le **riserve integrative** coprono la grandine e le altre calamità naturali, l'energia nucleare e il ramo Cauzioni. ⚠️ Il docente chiama la riserva per rischi in corso «riserva ulteriore» ([00:19:34]–[00:20:24]).
+**Opzione:** La riserva per frazioni di premi con il metodo analitico pro rata temporis; la riserva per rischi in corso con il metodo semplificato.
+**Distrattori:**
+- La riserva per frazioni di premi con il metodo semplificato; la riserva per rischi in corso con il metodo analitico pro rata temporis.
+- La riserva per frazioni di premi con il metodo dell'inventario; la riserva per rischi in corso con il metodo semplificato.
+- La riserva per frazioni di premi con il metodo analitico pro rata temporis; la riserva per rischi in corso con il metodo forfettario.
+
+**D:** ⚠️ A che cosa sono destinate le riserve di senescenza del ramo malattia, e in quale misura sono calcolate con il metodo forfettario, secondo la slide 9 della lezione 40?
+**R:** «*La voce comprende le riserve di senescenza del ramo malattia, destinate a coprire **l'aggravarsi del rischio al crescere dell'età degli assicurati**, calcolate sulla base del **metodo forfettario** previsto dal paragrafo 44 comma 3 dell'allegato n. 15 al Regolamento ISVAP n. 22 del 4 aprile 2008 […], nella misura del **10% dei premi lordi contabilizzati** dell'esercizio*» (slide 9, «Altre riserve tecniche»). Il docente: sono «diminuite o aumentate in funzione dell'età degli assicurati» ([00:20:24]–[00:20:51]). ⚠️ Nella lezione 24 il docente aveva legato all'età le riserve di **perequazione**: qui l'età è della senescenza.
+**Opzione:** A coprire l'aggravarsi del rischio al crescere dell'età degli assicurati, nella misura del 10% dei premi lordi contabilizzati dell'esercizio.
+**Distrattori:**
+- A coprire l'aggravarsi del rischio al crescere dell'età degli assicurati, nella misura del 20% dei premi lordi contabilizzati dell'esercizio.
+- A coprire l'aggravarsi del rischio al crescere dell'età degli assicurati, nella misura del 10% dei sinistri pagati nell'esercizio.
+- A coprire l'aggravarsi del rischio al crescere dell'età degli assicurati, nella misura del 3% dei premi lordi contabilizzati dell'esercizio.
+
+**D:** ⚠️ A quale scopo sono accantonate le riserve di perequazione, e secondo quale decreto sono determinate, secondo la slide 9 della lezione 40?
+**R:** «*Le riserve di perequazione accantonate allo scopo di **perequare le fluttuazioni nel tasso dei sinistri degli anni futuri** o **coprire rischi particolari** quali il rischio del **credito**, di **calamità naturali** o dei danni derivanti dall'**energia nucleare** sono determinate secondo le disposizioni contenute nel **decreto ministeriale n. 705 del 19 novembre 1996** come definito nel paragrafo 50 dell'allegato 15 al Regolamento ISVAP n. 22 del 4 aprile 2008.*» (slide 9). Il docente segue la slide, ma dice «calamità nucleari» ([00:20:51]–[00:21:12]). ⚠️ Nella lezione 24 lo stesso docente le aveva legate all'età dell'assicurato, e la nota di quella lezione dava in ℹ️ la definizione normativa, che è questa.
+**Opzione:** Per perequare le fluttuazioni nel tasso dei sinistri degli anni futuri o coprire rischi particolari, quali il rischio del credito, di calamità naturali o dei danni da energia nucleare; secondo il D.M. n. 705 del 19 novembre 1996.
+**Distrattori:**
+- Per perequare le fluttuazioni nel tasso dei premi degli anni futuri o coprire rischi particolari, quali il rischio del credito, di calamità naturali o dei danni da energia nucleare; secondo il D.M. n. 705 del 19 novembre 1996.
+- I titoli a reddito fisso.
+- Al minore fra il costo medio d'acquisto ed il valore di mercato: per i quotati la media aritmetica dei prezzi dell'ultimo mese dell'esercizio, per i non quotati una stima prudente del presumibile valore di realizzo.
+
+**D:** ⚠️ Come è determinata la riserva sinistri del lavoro diretto, e con quale metodo si stima la riserva per i sinistri denunciati, secondo la slide 9 della lezione 40?
+**R:** «*La riserva sinistri del lavoro diretto è determinata **in modo analitico** mediante la **stima del costo presunto di tutti i sinistri aperti** alla fine dell'esercizio e sulla base di valutazioni tecniche prudenziali […]. In particolare, la stima delle riserve per i sinistri denunciati è ottenuta attraverso il **metodo dell'inventario**, inoltre, dove ricorrano le condizioni di applicabilità, le stime dei liquidatori sono integrate in base alle risultanze di **metodi statistici come il Chain-Ladder, il Bornhuetter Ferguson e l'ACPC** (Average Cost Per Claim)*» (slide 9). Il Chain-Ladder non è adatto senza una serie storica stabile o con forti variazioni della velocità di liquidazione; il Bornhuetter Ferguson si usa per gli anni recenti e le nuove classi di rischio. I sinistri avvenuti ma non ancora denunciati si stimano sui trend storici interni (slide 10). Il docente: i metodi servono a stimare «il costo ultimo» del sinistro, e la nota dice quale si è usato ([00:21:12]–[00:22:13]). Non cita il metodo dell'inventario.
+**Opzione:** In modo analitico, stimando il costo presunto di tutti i sinistri aperti alla fine dell'esercizio; per i denunciati con il metodo dell'inventario, integrato dove possibile da metodi statistici come il Chain-Ladder.
+**Distrattori:**
+- In modo analitico, stimando il costo presunto di tutti i sinistri aperti alla fine dell'esercizio; per i denunciati con il metodo pro rata temporis, integrato dove possibile da metodi statistici come il Chain-Ladder.
+- Durata media finanziaria degli investimenti prima della scadenza.
+- Nella gestione Vita qualora coerenti con l'orizzonte temporale ed il livello della prestazione garantita agli assicurati; nella gestione Danni con finalità d'investimento duraturo in quanto funzionali all'attività assicurativa.
+
+**D:** ⚠️ Su quali tre ipotesi fondamentali si basa il metodo ACPC (Average Cost Per Claim) per la riserva sinistri, secondo la slide 9 della lezione 40?
+**R:** «*Il metodo ACPC è un metodo basato sulla **proiezione del numero di sinistri da pagare e dei rispettivi costi medi**. Tale metodologia si basa su **tre ipotesi fondamentali**: **velocità di liquidazione**, **costi medi di base** e **inflazione esogena ed endogena**.*» (slide 9). Il **Chain-Ladder** si basa invece sull'analisi storica dei **fattori di sviluppo** dei sinistri, scelti sui dati del pagato cumulato; il **Bornhuetter Ferguson** combina un benchmark o stime **a priori** del rapporto sinistri a premi con la stima del Chain-Ladder. Per il docente i tre metodi servono a stimare il costo ultimo del sinistro ([00:21:12]).
+**Opzione:** Velocità di liquidazione, costi medi di base e inflazione esogena ed endogena.
+**Distrattori:**
+- Velocità di liquidazione, costi medi di base e fattori di sviluppo del pagato cumulato.
+- Velocità di liquidazione, costi medi di base e tassi tecnici di interesse.
+- Velocità di liquidazione, rapporto sinistri a premi a priori e inflazione esogena ed endogena.
+
+**D:** ⚠️ Come è calcolata la riserva matematica delle assicurazioni dirette, e rispetto a quale valore non può essere inferiore, secondo la slide 10 della lezione 40?
+**R:** «*La riserva matematica delle assicurazioni dirette è calcolata **analiticamente per ogni contratto** sulla base dei **premi puri**, **senza detrazioni per spese di acquisizione** delle polizze da ammortizzare e facendo riferimento alle assunzioni attuariali (tassi tecnici di interesse, ipotesi demografiche di eliminazione per morte o invalidità) adottate per il calcolo dei premi relativi ai contratti in essere*». Comprende le quote di premio puro delle rate maturate nell'esercizio e le rivalutazioni contrattuali, «*ed è **sempre non inferiore al valore di riscatto***» (slide 10). Il docente: è «calcolata analiticamente sulla base dei premi puri senza detrazioni per le spese di acquisizione delle polizze da ammortizzare» ([00:22:13]). Le riserve delle assicurazioni **complementari** si calcolano invece sui **premi lordi**, pro-rata temporis (slide 11). Il premio puro è il premio tolti i caricamenti e le imposte (lezione 38).
+**Opzione:** Analiticamente per ogni contratto sulla base dei premi puri, senza detrazioni per spese di acquisizione delle polizze da ammortizzare; è sempre non inferiore al valore di riscatto.
+**Distrattori:**
+- Analiticamente per ogni contratto sulla base dei premi lordi, senza detrazioni per spese di acquisizione delle polizze da ammortizzare; è sempre non inferiore al valore di riscatto.
+- Monitoraggio del cash flow matching.
+- Al valore di presumibile realizzo; il fondo svalutazione stima la perdita in base all'esperienza e ai dati consuntivi dell'esercizio in corso.
+
+**D:** ⚠️ Quali riserve aggiuntive dei rami Vita elenca la nota integrativa di UnipolSai, secondo le slide 10–11 della lezione 40?
+**R:** Cinque (slide 10–11): la riserva aggiuntiva per **rischio demografico**, per lo scostamento fra le basi demografiche delle rendite vitalizie e la **tavola A62** elaborata dall'ANIA; quella a copertura del possibile **scostamento fra i tassi di rendimento prevedibili** delle attività a copertura delle riserve tecniche e gli **impegni assunti**; quella a copertura dello **sfasamento temporale** tra il periodo in cui è maturato il rendimento e il momento in cui viene riconosciuto agli assicurati; quella per i **rischi di mortalità** sui contratti del **ramo III** che garantiscono una prestazione in caso di decesso; quella a fronte di **prestazioni garantite** alla scadenza o al verificarsi di eventi predefiniti, sui contratti dei **rami III e VI**. Per il docente la riserva sui tassi «dipende dall'andamento dei tassi di rendimento» ([00:23:35]). Le **altre riserve tecniche** Vita sono invece accantonamenti per **spese future di gestione** (slide 11).
+**Opzione:** Per rischio demografico; per lo scostamento fra tassi di rendimento prevedibili e impegni assunti; per lo sfasamento temporale nel riconoscimento del rendimento; per i rischi di mortalità del ramo III; per le prestazioni garantite dei rami III e VI.
+**Distrattori:**
+- Per rischio demografico; per lo scostamento fra tassi di rendimento prevedibili e impegni assunti; per lo sfasamento temporale nel riconoscimento del rendimento; per i rischi di mortalità del ramo III; per le spese future di gestione.
+- Il Regolamento IVASS n. 18 del 15 marzo 2016.
+- Monitoraggio del cash flow matching.
+
+**D:** ⚠️ Quando vengono rilevate le attività per imposte anticipate e quando le imposte differite, secondo la slide 13 della lezione 40?
+**R:** «*Le attività per imposte anticipate vengono rilevate **solo se esiste la ragionevole certezza della loro recuperabilità** negli esercizi futuri. Le imposte differite vengono **sempre** rilevate.*» (slide 13). La fiscalità anticipata e differita è quantificata sulle aliquote della normativa in vigore «*riferibili agli esercizi futuri*» nei quali si prevede di assorbire le differenze temporanee: è l'aliquota attesa per il riversamento della lezione 11. Dal 2015 UnipolSai aderisce al regime di tassazione di Gruppo (art. 117 e seguenti del DPR 917/86), con la consolidante Unipol Gruppo (slide 12).
+**Opzione:** Le imposte anticipate solo se esiste la ragionevole certezza della loro recuperabilità; le imposte differite sempre.
+**Distrattori:**
+- Le imposte differite solo se esiste la ragionevole certezza della loro recuperabilità; le imposte anticipate sempre.
+- Entrambe sempre, in ogni esercizio in cui sorgono le differenze temporanee.
+- Entrambe solo se esiste la ragionevole certezza della loro recuperabilità.
+
+**D:** ⚠️ A quale cambio sono iscritte le immobilizzazioni materiali, immateriali e finanziarie in valuta, e a quale le altre partite in valuta estera, secondo l'art. 2426, comma 8-bis, richiamato nella slide 14 della lezione 40?
+**R:** «*Le partite espresse in valuta estera sono gestite secondo i principi della **contabilità plurimonetaria**. In ottemperanza a quanto previsto dall'**art. 2426, comma 8-bis** del Codice Civile, le immobilizzazioni materiali, immateriali e finanziarie (costituite da partecipazioni) in valuta, sono iscritte **al cambio al momento del loro acquisto**; le altre partite espresse in valuta estera sono iscritte **ai cambi di fine anno**. Tutti i saldi di conversione sono imputati al **conto economico**.*» (slide 14). Nella tabella dei cambi adottati il dollaro USA vale 1,1326 per euro al 31 dicembre 2021 (1,2271 nel 2020).
+**Opzione:** Le immobilizzazioni al cambio al momento del loro acquisto, le altre partite ai cambi di fine anno.
+**Distrattori:**
+- Le immobilizzazioni ai cambi di fine anno, le altre partite al cambio al momento del loro acquisto.
+- Tutte le partite in valuta ai cambi di fine anno.
+- Le immobilizzazioni al cambio medio dell'esercizio, le altre partite ai cambi di fine anno.
+
+**D:** ⚠️ Su quale base sono ripartiti fra le gestioni Danni e Vita i costi comuni degli oneri patrimoniali e finanziari, secondo la slide 16 della lezione 40?
+**R:** «*Sono in gran parte rilevati in forma distinta (Vita e Danni) sin dall'origine. I costi comuni, afferenti per lo più alle spese di struttura, vengono ripartiti **sulla base dell'incidenza degli investimenti** tra le due gestioni.*» (slide 16). Gli altri parametri sono diversi (slide 15–16): per le **spese di acquisizione** parametri di produttività, principalmente il **valore dei premi** e il **numero di contratti**; per le **spese di amministrazione** parametri quantitativi come il **numero delle teste**, delle **polizze** e l'**importo dei premi**; spese di **liquidazione** comuni, in linea di massima, non ce ne sono; i **proventi** rispecchiano gli introiti effettivi; le **imposte sui redditi** si attribuiscono in base all'**apporto al risultato fiscale**. I costi e ricavi comuni si ripartiscono secondo la **delibera quadro del Consiglio di Amministrazione**, ai sensi dell'art. 7 del Regolamento ISVAP n. 17 dell'11 marzo 2008. ⚠️ Per il docente il volume degli investimenti vale per tutte le voci ([00:25:05]).
+**Opzione:** Sulla base dell'incidenza degli investimenti tra le due gestioni.
+**Distrattori:**
+- Sulla base del valore dei premi e del numero di contratti.
+- Sulla base del numero delle teste e delle polizze in portafoglio.
+- Sulla base dell'apporto di ciascuna gestione al risultato fiscale.
+
+## Lezione 41 — La Nota Integrativa del bilancio della compagnia di assicurazioni. Le voci dell'attivo dello Stato Patrimoniale
+
+**D:** ⚠️ Che cosa chiede il test di autovalutazione della lezione 41, e da quale lezione viene?
+**R:** Le **5** domande di fine lezione della 41 sono **identiche** a quelle della lezione 40, come mostrano le schermate dell'utente: stesse domande, stesse opzioni nello stesso ordine, stesse chiavi (C, C, C, A, C). Anche il «Paragrafo di riferimento» è quello della 40 («I criteri di valutazione»). Chiedono a quale valore sono iscritti gli attivi immateriali, le provvigioni di acquisizione e i costi di impianto e ampliamento, sempre «costo storico», con la batteria costo di sostituzione / fair value / valore di vendita. ⚠️ La chiave non è testuale: la slide 2 della 40 dice «costo di acquisto o di produzione» per gli attivi immateriali «considerati ad utilizzo durevole», e la slide 3 della 41 dice che tutti gli attivi della voce B lo sono. Chiedono poi quale organo decide se un investimento è durevole o non durevole, il **consiglio di amministrazione**, con la delibera quadro della slide 4 della 40, e a quale valore sono iscritti i finanziamenti, il **valore di presumibile realizzo** della slide 6 della 40. Nessuna chiave è sbagliata. Le card del test, con i distrattori della piattaforma, sono nella sezione della lezione 40.
+
+**D:** ⚠️ Con quale utile chiude il bilancio d'esercizio 2021 di UnipolSai, e come si ripartisce fra rami Danni e rami Vita, secondo la slide 2 della lezione 41?
+**R:** «*Il bilancio dell'esercizio 2021 chiude con un utile pari a **648.137** migliaia di euro, di cui **487.623** migliaia di euro di pertinenza dei rami **Danni** e **160.514** migliaia di euro di pertinenza dei rami **Vita***» (slide 2). Per il docente la redditività viene «oltre il 75%» dai rami danni (487.623 su 648.137 fanno il 75,2%): è «una compagnia prevalentemente focalizzata sulla gestione dei rami danni», anche se la gestione vita resta «un elemento molto importante» ([00:00:40]–[00:01:57]).
+**Opzione:** 648.137 migliaia di euro: 487.623 di pertinenza dei rami Danni e 160.514 dei rami Vita.
+**Distrattori:**
+- 648.137 migliaia di euro: 160.514 di pertinenza dei rami Danni e 487.623 dei rami Vita.
+- 715.302 migliaia di euro: 487.623 di pertinenza dei rami Danni e 160.514 dei rami Vita.
+- 648.137 migliaia di euro: 275.569 di pertinenza dei rami Danni e 52.988 dei rami Vita.
+
+**D:** ⚠️ Come redige gli stati patrimoniali un'impresa che esercita congiuntamente le assicurazioni nei rami Danni e nei rami Vita, secondo la slide 2 della lezione 41?
+**R:** «*L'Impresa esercita congiuntamente le assicurazioni nei rami Danni e nei rami Vita e redige, come previsto dal **Regolamento ISVAP n. 22 del 4 aprile 2008** e successive integrazioni o modificazioni, **separatamente** uno Stato Patrimoniale relativo alla **gestione Danni (allegato 1)** ed uno Stato Patrimoniale relativo alla **gestione Vita (allegato 2)**, nonché il **prospetto relativo alla ripartizione del risultato di esercizio** tra rami Danni e rami Vita (**allegato 3**)*» (slide 2). Per il docente lo stato patrimoniale del bilancio «è **uno solo**», omnicomprensivo; quelli dei due rami sono «informazioni complementari» in sede di allegato, «per dare maggiore comprensibilità alle poste che attengono all'uno e all'altra gestione» ([00:02:29]). ⚠️ L'allegato 3 ripartisce il **risultato**, non il patrimonio netto.
+**Opzione:** Separatamente uno Stato Patrimoniale della gestione Danni (allegato 1) e uno della gestione Vita (allegato 2), più il prospetto di ripartizione del risultato di esercizio fra rami Danni e Vita (allegato 3).
+**Distrattori:**
+- Separatamente uno Stato Patrimoniale della gestione Danni (allegato 1) e uno della gestione Vita (allegato 2), più il prospetto di ripartizione del patrimonio netto fra rami Danni e Vita (allegato 3).
+- Nell'allegato 8, con l'indicazione del corrispondente valore corrente.
+- Solo le compagnie già autorizzate all'esercizio di entrambi i rami possono continuare a gestirli; quelle di nuova costituzione si costituiscono per gestire esclusivamente o i rami Danni o i rami Vita.
+
+**D:** ⚠️ Quali compagnie possono gestire congiuntamente i rami Danni e i rami Vita, secondo il docente della lezione 41?
+**R:** UnipolSai, che «esiste da moltissimi anni», ha ottenuto a suo tempo l'autorizzazione a gestire congiuntamente i due rami. «Ormai da circa **20 anni**», o qualcosa di più, l'autorità di vigilanza rilascia «**esclusivamente** autorizzazioni o a gestire i rami vita o a gestire i rami danni», perché l'attività assicurativa richiede una «iper specializzazione». «**Solo** le compagnie che avevano già ottenuto l'autorizzazione all'esercizio di entrambi i rami possono continuare a gestire entrambi i rami», come UnipolSai, Generali, Reale Mutua, Italiana Assicurazioni. Le compagnie costituite «dalla metà degli anni 90» si sono potute costituire per gestire esclusivamente o i danni o i vita; molte sono nate dalle **banche** con la sola gestione vita (Intesa Vita, Unicredit Vita), per vendere i prodotti vita agli sportelli ([00:03:44]–[00:06:15]). Le slide dicono solo che l'Impresa esercita congiuntamente i due rami (slide 2). È la regola già vista nella lezione 37.
+**Opzione:** Solo le compagnie già autorizzate all'esercizio di entrambi i rami possono continuare a gestirli; quelle di nuova costituzione si costituiscono per gestire esclusivamente o i rami Danni o i rami Vita.
+**Distrattori:**
+- Solo le compagnie di nuova costituzione possono gestire entrambi i rami; quelle già autorizzate all'esercizio congiunto devono gestire esclusivamente o i rami Danni o i rami Vita.
+- Separatamente uno Stato Patrimoniale della gestione Danni (allegato 1) e uno della gestione Vita (allegato 2), più il prospetto di ripartizione del risultato di esercizio fra rami Danni e Vita (allegato 3).
+- Le spese per prestazioni di terzi relative a progetti di sviluppo informatico e di integrazione; i costi di ricerca, sviluppo e pubblicità non figurano fra gli attivi immateriali e sono spesati a conto economico.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 gli attivi immateriali (voce B) e le loro tre componenti, secondo le slide 2–3 della lezione 41?
+**R:** «*La voce "attivi immateriali" ammonta al 31 dicembre 2021 a **715.302** migliaia di euro, con una variazione negativa di **16.380** migliaia di euro rispetto alla situazione patrimoniale dell'esercizio precedente (−2,2%)*» (slide 2). Le componenti commentate sono tre, e la loro somma dà il totale: **provvigioni di acquisizione da ammortizzare** (B.1) **78.272**, **avviamento** (B.4) **328.558**, **altri costi pluriennali** (B.5) **308.472** (slide 2–3). ⚠️ Non ci sono costi di impianto e ampliamento: nello schema della slide 2 della lezione 39 la B.2 (altre spese di acquisizione) e la B.3 (costi di impianto e di ampliamento) sono vuote. Il docente legge l'avviamento come «228 milioni» ([00:07:11]).
+**Opzione:** 715.302 migliaia: provvigioni di acquisizione 78.272, avviamento 328.558, altri costi pluriennali 308.472.
+**Distrattori:**
+- 715.302 migliaia: provvigioni di acquisizione 328.558, avviamento 78.272, altri costi pluriennali 308.472.
+- 715.302 migliaia: provvigioni di acquisizione 78.272, avviamento 228.558, altri costi pluriennali 308.472.
+- 715.302 migliaia: provvigioni di acquisizione 78.272, costi di impianto e ampliamento 328.558, altri costi pluriennali 308.472.
+
+**D:** ⚠️ Qual è la componente maggiore degli attivi immateriali (voce B) di UnipolSai al 31 dicembre 2021, secondo le slide 2–3 della lezione 41?
+**R:** L'**avviamento** (voce B.4), con **328.558** migliaia di euro, davanti agli altri costi pluriennali (B.5, 308.472) e alle provvigioni di acquisizione da ammortizzare (B.1, 78.272), che sono la componente **minore** (slide 2–3). ⚠️ Il docente dice il contrario: «come è noto, la principale componente degli attivi materiali è provvigioni di acquisizione da ammortizzare» ([00:06:15]), dove «materiali» sta per immateriali. Fa testo la slide. I progetti di sviluppo e integrazione (245.161) sono la riga maggiore della sola voce B.5.
+**Opzione:** L'avviamento (voce B.4), con 328.558 migliaia di euro.
+**Distrattori:**
+- Le provvigioni di acquisizione da ammortizzare (voce B.1), con 78.272 migliaia di euro.
+- Gli altri costi pluriennali (voce B.5), con 308.472 migliaia di euro.
+- I progetti di sviluppo e integrazione, con 245.161 migliaia di euro.
+
+**D:** ⚠️ Quanto valgono le provvigioni di acquisizione da ammortizzare (voce B.1) al 31 dicembre 2021, e come si ripartiscono fra i rami, secondo la slide 2 della lezione 41?
+**R:** «*Le provvigioni di acquisizione da ammortizzare ammontano a **78.272** migliaia di euro, di cui **63.024** migliaia di euro relative ai rami **Vita** e **15.248** migliaia di euro ai rami **Danni**. La variazione è **positiva per 1.626** migliaia di euro rispetto alla situazione patrimoniale dell'esercizio precedente*» (slide 2). Per il docente l'aumento significa che «sono stati verosimilmente finalizzati più contratti», in particolare vita. Il vita pesa di più «non tanto per la numerosità quanto normalmente per il valore»: è «l'ammontare su cui è calcolata la provvigione che mediamente è molto più alto per i rami vita» ([00:06:15]–[00:07:11]). Il criterio (tre anni per i Danni, non oltre dieci per i Vita) è nella slide 2 della lezione 40.
+**Opzione:** 78.272 migliaia: 63.024 relative ai rami Vita e 15.248 ai rami Danni, in aumento di 1.626.
+**Distrattori:**
+- 78.272 migliaia: 15.248 relative ai rami Vita e 63.024 ai rami Danni, in aumento di 1.626.
+- 78.272 migliaia: 63.024 relative ai rami Vita e 15.248 ai rami Danni, in diminuzione di 1.626.
+- 308.472 migliaia: 6.792 relative ai rami Vita e 301.680 ai rami Danni, in aumento di 37.065.
+
+**D:** ⚠️ Quanto vale l'avviamento (voce B.4) al 31 dicembre 2021, come si ripartisce e in quanto tempo è ammortizzato, secondo la slide 2 della lezione 41?
+**R:** «*Gli avviamenti per complessivi **328.558** migliaia di euro, dei quali **275.569** di pertinenza della gestione **Danni** e **52.988** relativi alla gestione **Vita**, sono **ammortizzati in un periodo ventennale**. La variazione è negativa per **55.071** migliaia di euro rispetto alla situazione patrimoniale dell'esercizio precedente, dovuta ad ammortamenti del periodo*» (slide 2). È il limite di 20 anni della slide 2 della lezione 40. ⚠️ Nei principi nazionali della lezione 07 l'avviamento si ammortizza in 10 anni. Il docente legge «228 milioni», poi giusti 275 e 53 ([00:07:11]–[00:07:55]).
+**Opzione:** 328.558 migliaia: 275.569 della gestione Danni e 52.988 della Vita, ammortizzati in un periodo ventennale.
+**Distrattori:**
+- 328.558 migliaia: 275.569 della gestione Danni e 52.988 della Vita, ammortizzati in un periodo decennale.
+- 328.558 migliaia: 52.988 della gestione Danni e 275.569 della Vita, ammortizzati in un periodo ventennale.
+- 328.558 migliaia: 275.569 della gestione Danni e 52.988 della Vita, non ammortizzati ma sottoposti a impairment test.
+
+**D:** ⚠️ Da quali operazioni deriva l'avviamento (voce B.4) di UnipolSai, nell'ordine della slide, secondo le slide 2–3 della lezione 41?
+**R:** «*La voce comprende*» cinque operazioni (slide 2–3): (1) l'avviamento delle operazioni societarie concluse nel **2004** da **Aurora Assicurazioni** incorporata in Unipol Assicurazioni (residuo 17.703 Danni e 12.970 Vita); (2) il **disavanzo** della **fusione di Unipol, Milano e Premafin in UnipolSai** del 6 gennaio **2014** (residuo **260.784**, la voce maggiore: 220.864 Danni e 39.920 Vita); (3) il disavanzo della **fusione per incorporazione** di UnipolSai Real Estate, Europa Tutela Giudiziaria, Sai Holding, Systema e UnipolSai Servizi Tecnologici in UnipolSai, del 31 dicembre **2015** con effetto contabile 1° gennaio 2015 (754, Danni); (4) l'avviamento per l'acquisizione al 31 dicembre **2015** del **ramo d'azienda di Linear Life** (99, Vita); (5) il disavanzo della **fusione di Liguria e Liguria Vita** del 31 gennaio **2016** con effetto contabile 1° gennaio 2016 (36.248, Danni). Per il docente la lettura serve a capire le operazioni portate a termine da Unipol, che «ancora si riflettono in bilancio» attraverso gli avanzi o disavanzi di fusione o di incorporazione. Quella del 2004 è «un caso di fusione per incorporazione», quella del 2014 servì «per dare una maggiore solidità patrimoniale all'intero gruppo», quella del 2015 fu «una grossa operazione di razionalizzazione delle controllate» ([00:07:55]–[00:10:29]). ⚠️ Arca Vita è una partecipata (slide 11), non un'operazione dell'avviamento.
+**Opzione:** Aurora Assicurazioni (2004), fusione di Unipol, Milano e Premafin in UnipolSai (2014), fusione per incorporazione di cinque società in UnipolSai (2015), ramo d'azienda Linear Life (2015), fusione di Liguria e Liguria Vita (2016).
+**Distrattori:**
+- Aurora Assicurazioni (2004), fusione di Unipol, Milano e Premafin in UnipolSai (2014), fusione per incorporazione di cinque società in UnipolSai (2015), ramo d'azienda Linear Life (2015), acquisizione di Arca Vita (2016).
+- DCF per Gruppo Una, Centri Medici Dyadea, Cambiomarcia e UnipolRental; MNTTN e UnipolPay sono considerate in fase di start up.
+- Acquisti: solo azioni di Unipol Gruppo; vendite: Servizi Immobiliari Martinelli; rettifiche di valore: Visconti, Unica Lab, Ital H&R, Borsetto e Unipol Gruppo.
+
+**D:** ⚠️ Quali righe e quali saldi al 31 dicembre 2021 ha la tabella degli altri costi pluriennali (voce B.5), secondo la slide 3 della lezione 41?
+**R:** In migliaia di euro: **progetti di sviluppo e integrazione 245.161**, **software e licenze 57.223**, **migliorie su beni di terzi 6.000**, **altri oneri pluriennali 88**; totale **308.472** (271.407 nel 2020, con acquisti per 104.360 e ammortamenti per 67.294). La voce presenta una variazione positiva netta di **37.065** e si riferisce per 6.792 alla gestione Vita e per 301.680 alla gestione Danni. «*La voce altri oneri pluriennali comprende **marchi** per 68 migliaia di euro*» (slide 3). Il docente elenca le stesse quattro righe e dice che la voce è «per la gran parte» della gestione danni ([00:10:29]).
+**Opzione:** Progetti di sviluppo e integrazione 245.161, software e licenze 57.223, migliorie su beni di terzi 6.000, altri oneri pluriennali 88.
+**Distrattori:**
+- Progetti di sviluppo e integrazione 57.223, software e licenze 245.161, migliorie su beni di terzi 6.000, altri oneri pluriennali 88.
+- Progetti di sviluppo e integrazione 245.161, software e licenze 57.223, migliorie su beni di terzi 88, altri oneri pluriennali 6.000.
+- Progetti di sviluppo e integrazione 245.161, software e licenze 57.223, marchi 6.000, altri oneri pluriennali 88.
+
+**D:** ⚠️ Che cosa riguarda la componente più consistente degli altri costi pluriennali, e quali costi non figurano fra gli attivi immateriali, secondo la slide 3 della lezione 41?
+**R:** «*La componente più consistente riguarda le **spese per prestazioni di terzi relative a progetti di sviluppo informatico e di integrazione**, che presenta un saldo al 31 dicembre 2021 pari a **245.161** migliaia di euro, con incrementi nel periodo per **82.565** migliaia di euro dovuti principalmente a progetti di natura informatica e sviluppo di tecnologie digitali.*» E: «*Non figurano, fra gli attivi immateriali, **costi di ricerca, sviluppo e pubblicità**. Tali costi sono **spesati a conto economico** in linea con quanto fatto anche nei precedenti esercizi*» (slide 3). Per il docente sono gli allineamenti informatici fra le realtà incorporate in UnipolSai e i software da adeguare alle norme di primo livello (leggi) e di secondo livello (IVASS, agenzie per la concorrenza, la privacy, l'anticorruzione) ([00:10:29]–[00:13:08]). ⚠️ Il vicino scambia la riga: software e licenze valgono 57.223.
+**Opzione:** Le spese per prestazioni di terzi relative a progetti di sviluppo informatico e di integrazione; i costi di ricerca, sviluppo e pubblicità non figurano fra gli attivi immateriali e sono spesati a conto economico.
+**Distrattori:**
+- Le spese per software e licenze acquistati da terzi; i costi di ricerca, sviluppo e pubblicità non figurano fra gli attivi immateriali e sono spesati a conto economico.
+- Con perizie di stima di esperti indipendenti nominati dal Consiglio di Amministrazione, con la valutazione distinta di ogni cespite e metodi patrimoniali integrati dalla redditività, comparativi o della trasformazione.
+- Rappresenta l'avviamento, ed è supportato da una stima interna volta a determinare il valore d'uso della partecipazione.
+
+**D:** ⚠️ Come sono considerati, quanto all'utilizzo, gli attivi immateriali (voce B), i terreni e fabbricati e le obbligazioni emesse da società del Gruppo, secondo le slide 3, 4 e 13 della lezione 41?
+**R:** **Tutti ad utilizzo durevole.** «*Tutti gli attivi classificati in questa voce sono considerati ad utilizzo durevole*» (slide 3, attivi immateriali). «*Tutti i terreni ed i fabbricati posseduti sono considerati ad utilizzo durevole*» (slide 4); il docente: «non vi sono terreni fabbricati considerati a utilizzo non durevole» ([00:13:08]). Le obbligazioni emesse da società del Gruppo e altre partecipate (9.419) sono «*classificate tutte tra gli investimenti ad utilizzo durevole*» (slide 13). ⚠️ È la condizione che regge la chiave delle domande 1–3 del test: per la slide 2 della lezione 40 gli attivi immateriali «considerati ad utilizzo durevole» sono iscritti al costo di acquisto o di produzione. La ripartizione fra durevole e non durevole dell'**allegato 8** riguarda invece gli **altri investimenti finanziari** (slide 15).
+**Opzione:** Tutti ad utilizzo durevole.
+**Distrattori:**
+- Tutti ad utilizzo non durevole.
+- Ad utilizzo durevole solo gli attivi immateriali; terreni, fabbricati e obbligazioni del Gruppo ad utilizzo non durevole.
+- Ripartiti fra utilizzo durevole e non durevole, come indicato nell'allegato 8.
+
+**D:** ⚠️ Quali sono le quattro righe della tabella dei terreni e fabbricati (voce C.I), e quale ha l'attivo netto maggiore, secondo la slide 4 della lezione 41?
+**R:** In migliaia di euro, al netto degli ammortamenti (attivo / fondi / attivo netto): **immobili ad uso strumentale** 666.591 / 187.495 / 479.096; **immobili ad uso terzi** 819.991 / 170.170 / **649.821**; **altri immobili** 9.096 / – / 9.096; **altri diritti reali** 2.630 / 350 / 2.279; **totale** **1.498.307** / **358.014** / **1.140.293** (slide 4). L'attivo netto maggiore è degli immobili **ad uso terzi**, che per il docente «sostanzialmente sono beni affittati a terzi» ([00:11:30]). ⚠️ 819.991 è l'attivo lordo, non il netto.
+**Opzione:** Immobili ad uso strumentale, immobili ad uso terzi, altri immobili, altri diritti reali; il maggiore è l'uso terzi, con 649.821 netti.
+**Distrattori:**
+- Immobili ad uso strumentale, immobili ad uso terzi, altri immobili, altri diritti reali; il maggiore è l'uso strumentale, con 649.821 netti.
+- Immobili ad uso strumentale, immobili ad uso terzi, altri immobili, immobilizzazioni in corso; il maggiore è l'uso terzi, con 649.821 netti.
+- Immobili ad uso strumentale, immobili ad uso terzi, altri immobili, altri diritti reali; il maggiore è l'uso terzi, con 819.991 netti.
+
+**D:** ⚠️ Quanto valgono il valore contabile e il valore corrente dei terreni e fabbricati al 31 dicembre 2021, e che cosa rappresenta la differenza, secondo le slide 4–5 della lezione 41?
+**R:** Il valore contabile netto è **1.140.293** migliaia (slide 4). «*Il valore corrente complessivo degli immobili al 31 dicembre 2021 è pari a **1.274.556** migliaia di euro, con una **eccedenza positiva di circa 134.263** migliaia di euro rispetto al relativo valore contabile*» (slide 5). Per il docente è una «**plusvalenza latente**», un «valore inespresso in bilancio»: il valore corrente viene dalle stime dei periti al 31 dicembre 2021, il valore contabile «dalla contabilizzazione in base al **costo storico** ammortizzata anno per anno» ([00:14:11]). ⚠️ I 3.666 sono le **svalutazioni** durevoli apportate sulla base delle perizie, non l'eccedenza.
+**Opzione:** Valore contabile 1.140.293, valore corrente 1.274.556: eccedenza positiva di circa 134.263 migliaia di euro.
+**Distrattori:**
+- Valore contabile 1.274.556, valore corrente 1.140.293: eccedenza positiva di circa 134.263 migliaia di euro.
+- Valore contabile 1.140.293, valore corrente 1.274.556: eccedenza positiva di circa 3.666 migliaia di euro.
+- Valore contabile 1.498.307, valore corrente 1.274.556: eccedenza positiva di circa 134.263 migliaia di euro.
+
+**D:** ⚠️ Come ha determinato la Società il valore corrente dei terreni e fabbricati di proprietà, secondo la slide 4 della lezione 41?
+**R:** «*In attuazione di quanto previsto dalla normativa IVASS di riferimento (**Regolamento ISVAP n. 22 del 4 aprile 2008**), la Società ha determinato, mediante **perizie di stima** effettuate da **esperti indipendenti nominati dal Consiglio di Amministrazione**, il valore corrente dei terreni e fabbricati di proprietà, attraverso la **valutazione distinta di ogni cespite**, applicando metodologie, differenziate a seconda delle caratteristiche del bene, o di tipo **patrimoniale** integrate da elementi che tengono conto della **redditività** degli immobili, o di tipo **comparativo** oppure il **metodo della trasformazione***» (slide 4). ⚠️ Il docente parla di perizie «effettuate da terzi indipendenti» e omette chi li nomina ([00:13:08]). Il Consiglio di Amministrazione qui **nomina i periti**; nella lezione 40 fissa i criteri di classificazione dei titoli (test, domanda 4). Il collegio sindacale non compare.
+**Opzione:** Con perizie di stima di esperti indipendenti nominati dal Consiglio di Amministrazione, con la valutazione distinta di ogni cespite e metodi patrimoniali integrati dalla redditività, comparativi o della trasformazione.
+**Distrattori:**
+- Con perizie di stima di esperti indipendenti nominati dal Collegio Sindacale, con la valutazione distinta di ogni cespite e metodi patrimoniali integrati dalla redditività, comparativi o della trasformazione.
+- Considerando il patrimonio netto, eventualmente rettificato per tener conto di valori correnti degli attivi nonché, laddove riscontrabile, un valore d'avviamento.
+- A ridurre il peso degli investimenti in titoli governativi a favore di un incremento delle obbligazioni di emittenti non governativi, sia corporate finanziari che industriali.
+
+**D:** ⚠️ Come passa la consistenza delle partecipazioni (voce C.II.1) da 3.530.048 a 3.677.557 migliaia nel 2021, secondo la tabella della slide 6 della lezione 41?
+**R:** In migliaia di euro: consistenza all'inizio dell'esercizio **3.530.048**; **acquisti e sottoscrizioni 210.247**; **vendite (20)**; **(rettifiche)/riprese nette di valore (634)**; **altre variazioni in diminuzione (62.084)**; consistenza al 31/12/2021 **3.677.557**, con un incremento netto di **147.509** (slide 6). ⚠️ I 634 sono fra parentesi, quindi sono **rettifiche** nette. Il docente li chiama «riprese di valore per 634 mila euro» e aggiunge «20 milioni di perdite», che nella tabella non esistono ([00:15:49]).
+**Opzione:** Acquisti e sottoscrizioni 210.247, vendite (20), rettifiche nette di valore (634), altre variazioni in diminuzione (62.084).
+**Distrattori:**
+- Acquisti e sottoscrizioni 210.247, vendite (20), riprese nette di valore 634, altre variazioni in diminuzione (62.084).
+- Acquisti e sottoscrizioni 147.509, vendite (20), rettifiche nette di valore (634), altre variazioni in diminuzione (62.084).
+- Acquisti e sottoscrizioni 210.247, vendite (634), rettifiche nette di valore (20), altre variazioni in diminuzione (62.084).
+
+**D:** ⚠️ A quali partecipazioni si riferiscono gli acquisti, le vendite e le rettifiche di valore del 2021, secondo la slide 7 della lezione 41?
+**R:** «*Gli **acquisti** sono riferiti **unicamente** ad azioni di **Unipol Gruppo** per 6.784 migliaia di euro.*» «*Le **vendite** sono riferite a **Servizi Immobiliari Martinelli** avvenuta in data 1° marzo 2021.*» «*Le **rettifiche di valore** sono riferibili alle seguenti partecipazioni: **Visconti** per 235 migliaia di euro; **Unica Lab** per 231 migliaia di euro; **Ital H&R** per 128 migliaia di euro. **Borsetto** per 39 migliaia di euro; **Unipol Gruppo** per 1 migliaia di euro*» (slide 7). ⚠️ Il docente mette fra le vendite «servizi mobiliari Martinelli, Unica Lab, Visconti, Italo HR e così via» ([00:17:22]): fa testo la slide, che dà una sola vendita. Per Martinelli UnipolSai ha incassato 100 migliaia, con una plusvalenza di 80 (slide 9).
+**Opzione:** Acquisti: solo azioni di Unipol Gruppo; vendite: Servizi Immobiliari Martinelli; rettifiche di valore: Visconti, Unica Lab, Ital H&R, Borsetto e Unipol Gruppo.
+**Distrattori:**
+- Acquisti: solo azioni di Unipol Gruppo; vendite: Servizi Immobiliari Martinelli, Visconti, Unica Lab e Ital H&R; rettifiche di valore: Borsetto e Unipol Gruppo.
+- Aurora Assicurazioni (2004), fusione di Unipol, Milano e Premafin in UnipolSai (2014), fusione per incorporazione di cinque società in UnipolSai (2015), ramo d'azienda Linear Life (2015), fusione di Liguria e Liguria Vita (2016).
+- DCF per Gruppo Una, Centri Medici Dyadea, Cambiomarcia e UnipolRental; MNTTN e UnipolPay sono considerate in fase di start up.
+
+**D:** ⚠️ Quali sottoscrizioni del 2021 compongono, con gli acquisti di azioni di Unipol Gruppo, i 210.247 migliaia di acquisti e sottoscrizioni delle partecipazioni, nell'ordine della slide 7 della lezione 41?
+**R:** «*Le sottoscrizioni, comprensive anche di altre forme di capitalizzazione delle partecipate, si riferiscono a: **Gruppo UNA** per 40.000 migliaia di euro; **UnipolSai Nederland** per **75.000**; **Meridiano Secondo** per 45.000; **Nuove Iniziative Toscane** per 500; **Centri Medici Dyadea** per 5.000; **Cambiomarcia** per 5.000; **MNTTN** per 120; **Nextalia** per 5.050; **UnipolPay** per 27.351; **Ital H&R** per 300; **UnipolAssistance** per 141; **Cooptech Scarl** per 1*» (slide 7). Le dodici fanno 203.463; con i 6.784 di azioni Unipol Gruppo danno i 210.247 della tabella. La maggiore è UnipolSai Nederland: UnipolSai le ha versato i 75.000 nella riserva Share Premium, per dotarla dei mezzi per sottoscrivere un aumento di capitale di pari importo della controllata UnipolRe Dac (slide 9). ⚠️ Servizi Immobiliari Martinelli è la **vendita** dell'anno, non una sottoscrizione.
+**Opzione:** Gruppo UNA 40.000; UnipolSai Nederland 75.000; Meridiano Secondo 45.000; Nuove Iniziative Toscane 500; Centri Medici Dyadea 5.000; Cambiomarcia 5.000; MNTTN 120; Nextalia 5.050; UnipolPay 27.351; Ital H&R 300; UnipolAssistance 141; Cooptech Scarl 1.
+**Distrattori:**
+- Gruppo UNA 40.000; UnipolSai Nederland 75.000; Meridiano Secondo 45.000; Nuove Iniziative Toscane 500; Centri Medici Dyadea 5.000; Cambiomarcia 5.000; MNTTN 120; Nextalia 5.050; UnipolPay 27.351; Ital H&R 300; UnipolAssistance 141; Servizi Immobiliari Martinelli 100.
+- Unipol Gruppo 300.000 e UnipolRental 230.000 migliaia, su un totale di 576.290.
+- Valore di carico superiore al patrimonio netto pro quota; la differenza maggiore è di UniSalute, 530.777 migliaia.
+
+**D:** ⚠️ Quali sono le altre variazioni in diminuzione delle partecipazioni nel 2021 (62.084 migliaia), secondo la slide 7 della lezione 41?
+**R:** «*Tra le altre variazioni in diminuzione si segnalano:*» la **distribuzione parziale** da parte di **UnipolSai Nederland** di **riserva Share Premium** per 23.000; la **conclusione del processo di liquidazione** di **UnipolSai Servizi Consortili**, con una riduzione della voce per 31.744; un decremento di 77 della controllata **Cambiomarcia** per l'**aggiustamento del prezzo** dopo la determinazione della posizione finanziaria netta e del patrimonio netto alla data di esecuzione della compravendita (3 giugno 2021); l'**assegnazione di azioni della capogruppo Unipol al personale dirigente**, in esecuzione dei piani di compensi basati su strumenti finanziari, per 7.264 (slide 7). Il docente chiama «stock option» l'assegnazione ai dirigenti ([00:17:22]). Nella lezione 38 quei piani sono del tipo performance share. ⚠️ Le rettifiche su Visconti, Unica Lab e Ital H&R sono una riga a parte, i (634).
+**Opzione:** Rimborso parziale della riserva Share Premium di UnipolSai Nederland (23.000), liquidazione di UnipolSai Servizi Consortili (31.744), aggiustamento del prezzo di Cambiomarcia (77), assegnazione di azioni Unipol ai dirigenti (7.264).
+**Distrattori:**
+- Rimborso parziale della riserva Share Premium di UnipolSai Nederland (23.000), liquidazione di UnipolSai Servizi Consortili (31.744), aggiustamento del prezzo di Cambiomarcia (77), rettifiche di valore su Visconti e Unica Lab (7.264).
+- Il rimborso integrale da Unipol di 267.785 di finanziamenti legati ai prestiti subordinati e i rimborsi di UnipolRec, UnipolTech e Cambiomarcia, al netto delle nuove erogazioni a UnipolRental.
+- Linear e UniSalute: DDM excess capital; Arca: Sum of the Parts, con Appraisal Value per Arca Vita e Arca Vita International e DDM excess capital per Arca Assicurazioni; DDOR Novi Sad: DDM excess capital.
+
+**D:** ⚠️ Come è stato determinato il valore corrente degli investimenti trattati in mercati non regolamentati, secondo la slide 10 della lezione 41?
+**R:** «*Per gli investimenti trattati in **mercati non regolamentati** è stata effettuata una **valutazione analitica prudente** del loro **probabile valore di realizzo***» (slide 10, «*Valore corrente degli investimenti (di cui agli allegati 5 e 7)*»). Il docente dice «una valutazione prudente», senza «analitica» ([00:20:44]). Per i titoli **quotati** il valore di mercato è invece la media dei prezzi del mese di dicembre (slide 15; lezione 40, slide 5). Il costo di acquisto o di sottoscrizione è il criterio d'**iscrizione** delle partecipazioni (lezione 40, slide 3), non il loro valore corrente.
+**Opzione:** Con una valutazione analitica prudente del loro probabile valore di realizzo.
+**Distrattori:**
+- Con una valutazione analitica prudente del loro valore nominale.
+- Alla media dei prezzi del mese di dicembre.
+- Al costo di acquisto o di sottoscrizione, rettificato per le perdite durevoli di valore.
+
+**D:** ⚠️ Come è stato determinato il valore corrente delle partecipazioni in società controllate e collegate, secondo la slide 10 della lezione 41?
+**R:** «*In particolare, il valore corrente delle partecipazioni in società controllate e collegate è stato determinato considerando il **patrimonio netto**, eventualmente **rettificato** per tener conto di valori correnti degli attivi nonché, laddove riscontrabile, un **valore d'avviamento***.» L'eventuale **maggior valore di iscrizione** rispetto alla frazione di patrimonio netto dell'ultimo bilancio della partecipata è riferibile a una **stima del valore del capitale economico**: da **perizie** di esperti indipendenti **in sede di acquisizione**, da **stime interne** con metodologie e parametri della prassi professionale, e dalla valutazione dei **piani prospettici** della società stessa (slide 10). Il docente: «il valore corrente è stato determinato considerando il patrimonio netto eventualmente rettificato» ([00:20:44]–[00:21:32]). Il valore corrente delle partecipazioni è 3.599.137, contro un contabile di 3.677.557: la differenza è riferita esclusivamente a società **quotate**.
+**Opzione:** Considerando il patrimonio netto, eventualmente rettificato per tener conto di valori correnti degli attivi nonché, laddove riscontrabile, un valore d'avviamento.
+**Distrattori:**
+- Considerando il capitale sociale, eventualmente rettificato per tener conto di valori correnti degli attivi nonché, laddove riscontrabile, un valore d'avviamento.
+- Valore contabile 1.140.293, valore corrente 1.274.556: eccedenza positiva di circa 134.263 migliaia di euro.
+- La titolarità di almeno un decimo del capitale o dei diritti di voto esercitabili nell'assemblea ordinaria.
+
+**D:** ⚠️ Quali partecipazioni elenca la tabella prescritta dall'art. 16 del D.Lgs. 173/97, e quale ha la differenza maggiore, secondo le slide 10–11 della lezione 41?
+**R:** Le partecipazioni in società **controllate e collegate**, classificate «**ad utilizzo durevole**», «*il cui **valore di carico** risulta **superiore al patrimonio netto pro quota** della partecipata*» (slide 10). La differenza maggiore è di **UniSalute**: 745.000 di valore di bilancio contro 214.223 di patrimonio netto pro quota, **530.777** migliaia. Seguono **Arca Vita** (220.503) e **Linear Assicurazioni** (180.000 contro 132.874, **47.126**), la riga che legge il docente ([00:22:36]). La tabella ha 18 righe, da Linear a Isola (slide 11).
+**Opzione:** Valore di carico superiore al patrimonio netto pro quota; la differenza maggiore è di UniSalute, 530.777 migliaia.
+**Distrattori:**
+- Valore di carico inferiore al patrimonio netto pro quota; la differenza maggiore è di UniSalute, 530.777 migliaia.
+- Valore di carico superiore al patrimonio netto pro quota; la differenza maggiore è di Arca Vita, 220.503 migliaia.
+- Valore di carico superiore al patrimonio netto pro quota; la differenza maggiore è di Linear Assicurazioni, 47.126 migliaia.
+
+**D:** ⚠️ Che cosa rappresenta il maggior valore di iscrizione in bilancio delle partecipazioni rispetto alla corrispondente quota di patrimonio netto, secondo la slide 12 della lezione 41?
+**R:** «*Per le partecipazioni sopra indicate si rileva che il maggior valore di iscrizione in bilancio rispetto alla corrispondente quota di patrimonio netto **rappresenta l'avviamento**; tale maggior valore è supportato da una **stima interna** volta a determinare il "**valore d'uso**" della partecipazione*» (slide 12). Per alcune società non assicurative la slide lo riconduce a **plusvalori latenti** su beni immobili (Marina di Loano, Meridiano Secondo, Villa Donatello) o alla plusvalenza latente su UnipolRe (UnipolSai Nederland). ⚠️ Il docente prima lo chiama una «sopravvalutazione», una «**minusvalenza latente** di 47 milioni» per Linear, che emergerebbe cedendo la partecipazione al valore del patrimonio netto ([00:23:29]); poi legge la formula della slide ([00:24:27]). Fa testo la slide.
+**Opzione:** Rappresenta l'avviamento, ed è supportato da una stima interna volta a determinare il valore d'uso della partecipazione.
+**Distrattori:**
+- Rappresenta una minusvalenza latente, che si realizzerebbe cedendo la partecipazione al valore del patrimonio netto.
+- Le spese per prestazioni di terzi relative a progetti di sviluppo informatico e di integrazione; i costi di ricerca, sviluppo e pubblicità non figurano fra gli attivi immateriali e sono spesati a conto economico.
+- 9.419 migliaia, classificate tutte tra gli investimenti ad utilizzo durevole, senza variazione sul 2020.
+
+**D:** ⚠️ Con quali metodologie sono stimati i valori d'uso delle partecipazioni in società assicurative, secondo la slide 12 della lezione 41?
+**R:** «*Per le partecipazioni detenute in società assicurative sono state utilizzate le seguenti metodologie:*» **Linear e UniSalute**: una metodologia del tipo **Dividend Discount Model (DDM)** nella versione «**excess capital**»; **Arca**: una metodologia del tipo **SOP («Sum of the Parts»)**, utilizzando per **Arca Vita** ed **Arca Vita International** una metodologia del tipo **Appraisal Value** e per **Arca Assicurazioni** il **DDM** nella versione «excess capital»; **DDOR Novi Sad**: il **DDM** nella versione «excess capital» (slide 12). Per il docente il DDM è «il modello della attualizzazione dei dividendi», la SOP «una metodologia più di patrimonializzazione»; non nomina l'Appraisal Value ([00:24:27]–[00:25:09]). ⚠️ Il **Discounted Cash Flow** è per le partecipate **non** assicurative.
+**Opzione:** Linear e UniSalute: DDM excess capital; Arca: Sum of the Parts, con Appraisal Value per Arca Vita e Arca Vita International e DDM excess capital per Arca Assicurazioni; DDOR Novi Sad: DDM excess capital.
+**Distrattori:**
+- Linear e UniSalute: Discounted Cash Flow; Arca: Sum of the Parts, con Appraisal Value per Arca Vita e Arca Vita International e DDM excess capital per Arca Assicurazioni; DDOR Novi Sad: DDM excess capital.
+- 715.302 migliaia: provvigioni di acquisizione 78.272, avviamento 328.558, altri costi pluriennali 308.472.
+- In due voci: C.II.3, finanziamenti a imprese del Gruppo (576.290), e C.III.4, finanziamenti fra gli altri investimenti finanziari (19.333).
+
+**D:** ⚠️ Per quali partecipate non assicurative è stato usato il Discounted Cash Flow, e come sono giustificate MNTTN e UnipolPay, secondo la slide 12 della lezione 41?
+**R:** Per **Gruppo Una, Centri Medici Dyadea, Cambiomarcia e UnipolRental**, «*ai fini della determinazione del "valore d'uso", è stata utilizzata una metodologia del tipo **Discounted Cash Flow (DCF)***». **MNTTN** (intermediazione assicurativa, costituita a giugno 2021) e **UnipolPay** (emissione di moneta elettronica, costituita a fine 2020 e iscritta nel Registro delle Imprese a luglio 2021) sono «*considerate in fase di **start up***». Per Marina di Loano il maggior valore è riconducibile a plusvalori latenti su beni immobili; per Meridiano Secondo e Villa Donatello anche a poste fiscali; per UnipolSai Nederland alla plusvalenza latente su UnipolRe; per Funivie Piccolo San Bernardo al patrimonio netto rettificato per il ristoro statale (slide 12). Il docente chiama il DCF «l'attualizzazione dei flussi di cassa futuri» ([00:25:09]).
+**Opzione:** DCF per Gruppo Una, Centri Medici Dyadea, Cambiomarcia e UnipolRental; MNTTN e UnipolPay sono considerate in fase di start up.
+**Distrattori:**
+- DCF per Gruppo Una, Centri Medici Dyadea, Cambiomarcia e UnipolRental; MNTTN e UnipolPay hanno plusvalori latenti su beni immobili.
+- DCF per Linear, UniSalute e DDOR Novi Sad; MNTTN e UnipolPay sono considerate in fase di start up.
+- DCF per Marina di Loano e Meridiano Secondo; MNTTN e UnipolPay sono considerate in fase di start up.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 le obbligazioni emesse da società del Gruppo e altre partecipate (voce C.II.2), e come sono classificate, secondo la slide 13 della lezione 41?
+**R:** «*Al 31 dicembre 2021 risultano in carico obbligazioni emesse da società del Gruppo e altre partecipate per **9.419** migliaia di euro, classificate **tutte tra gli investimenti ad utilizzo durevole**, **senza variazione** rispetto al valore del periodo precedente*» (slide 13). Sono **profit Partecipating Bonds** di Garibaldi S.C.A. (5.052), Ex Var. S.C.A. (1.069) e Isola S.C.A. (1.797), e obbligazioni della partecipata Syneristiki (1.500). ⚠️ I 576.290 sono i **finanziamenti** alle imprese del Gruppo (C.II.3), in calo di 196.930.
+**Opzione:** 9.419 migliaia, classificate tutte tra gli investimenti ad utilizzo durevole, senza variazione sul 2020.
+**Distrattori:**
+- 9.419 migliaia, classificate tutte tra gli investimenti ad utilizzo non durevole, senza variazione sul 2020.
+- 9.419 migliaia, classificate tutte tra gli investimenti ad utilizzo durevole, in riduzione di 196.930 sul 2020.
+- 576.290 migliaia, classificate tutte tra gli investimenti ad utilizzo durevole, senza variazione sul 2020.
+
+**D:** ⚠️ Quali sono i due finanziamenti maggiori alle imprese del Gruppo (voce C.II.3) al 31 dicembre 2021, secondo la tabella della slide 13 della lezione 41?
+**R:** **Unipol Gruppo 300.000** e **UnipolRental 230.000** migliaia, su un totale di **576.290** (slide 13). Seguono Meridiano Secondo 36.813, Borsetto 6.015 e Ufficio Centrale Italiano 3.462, nuovo. Nel 2020 erano Unipol Gruppo 567.785 e UnipolRental 123.882, su 773.220, con UnipolReC 30.843, UnipolTech 7.000 e Cambiomarcia 882, rimborsati nel 2021. La riduzione è di 196.930.
+**Opzione:** Unipol Gruppo 300.000 e UnipolRental 230.000 migliaia, su un totale di 576.290.
+**Distrattori:**
+- Unipol Gruppo 567.785 e UnipolRental 123.882 migliaia, su un totale di 773.220.
+- Unipol Gruppo 230.000 e UnipolRental 300.000 migliaia, su un totale di 576.290.
+- Unipol Gruppo 300.000 e Meridiano Secondo 230.000 migliaia, su un totale di 576.290.
+
+**D:** ⚠️ Da quali operazioni dipende il calo dei finanziamenti alle imprese del Gruppo nel 2021, secondo la slide 14 della lezione 41?
+**R:** «*Il decremento della voce è sostanzialmente dovuto all'effetto netto delle seguenti operazioni:*» il **rimborso integrale da parte di Unipol**, per un **valore nominale residuo** di **267.785**, dei finanziamenti concessi da UnipolSai al subentro come **emittente di prestiti subordinati** originariamente emessi da Unipol; l'erogazione a **UnipolRental** di **26.118** (quota residua del finanziamento del 21 luglio 2020 di 150.000) e di **80.000** (9 luglio 2021, su un ulteriore finanziamento fino a 150.000); il **rimborso integrale** dei finanziamenti a **UnipolRec** (30.843), **UnipolTech** (7.000) e **Cambiomarcia** (882) (slide 14). Le variazioni delle voci C.II.2 e C.II.3 sono nell'allegato 5. ⚠️ Il finanziamento a Meridiano Secondo (36.813) è invariato. Il valore nominale è l'importo rimborsato: il criterio d'iscrizione dei finanziamenti è il presumibile realizzo (lezione 40, slide 6).
+**Opzione:** Il rimborso integrale da Unipol di 267.785 di finanziamenti legati ai prestiti subordinati e i rimborsi di UnipolRec, UnipolTech e Cambiomarcia, al netto delle nuove erogazioni a UnipolRental.
+**Distrattori:**
+- Il rimborso integrale da Unipol di 267.785 di finanziamenti legati ai prestiti subordinati e i rimborsi di UnipolRec, UnipolTech e Cambiomarcia, al netto delle nuove erogazioni a Meridiano Secondo.
+- Rimborso parziale della riserva Share Premium di UnipolSai Nederland (23.000), liquidazione di UnipolSai Servizi Consortili (31.744), aggiustamento del prezzo di Cambiomarcia (77), assegnazione di azioni Unipol ai dirigenti (7.264).
+- Gruppo UNA 40.000; UnipolSai Nederland 75.000; Meridiano Secondo 45.000; Nuove Iniziative Toscane 500; Centri Medici Dyadea 5.000; Cambiomarcia 5.000; MNTTN 120; Nextalia 5.050; UnipolPay 27.351; Ital H&R 300; UnipolAssistance 141; Cooptech Scarl 1.
+
+**D:** ⚠️ In quali voci dell'attivo stanno i finanziamenti della compagnia, e quanto valgono al 31 dicembre 2021, secondo le slide 13–14 della lezione 41?
+**R:** In **due** voci: la **C.II.3**, finanziamenti a imprese del Gruppo, **576.290** migliaia (slide 13), e la **C.III.4**, finanziamenti fra gli altri investimenti finanziari, **19.333** (20.877 nel 2020, slide 14). Per la slide 6 della lezione 40 i finanziamenti «*sono iscritti al valore di presumibile realizzo*» (test, domanda 5). ⚠️ I 118.097 della C.III.6 sono **depositi presso enti creditizi**.
+**Opzione:** In due voci: C.II.3, finanziamenti a imprese del Gruppo (576.290), e C.III.4, finanziamenti fra gli altri investimenti finanziari (19.333).
+**Distrattori:**
+- In due voci: C.II.3, finanziamenti a imprese del Gruppo (19.333), e C.III.4, finanziamenti fra gli altri investimenti finanziari (576.290).
+- Solo nella voce C.II.3, finanziamenti a imprese del Gruppo (576.290).
+- In due voci: C.II.3, finanziamenti a imprese del Gruppo (576.290), e C.III.6, depositi presso enti creditizi (118.097).
+
+**D:** ⚠️ Quali sono le tre componenti maggiori degli altri investimenti finanziari (voce C.III) al 31 dicembre 2021, secondo la tabella della slide 14 della lezione 41?
+**R:** In migliaia di euro: **C.III.3 obbligazioni e altri titoli a reddito fisso 31.111.228**, **C.III.2 quote di fondi comuni d'investimento 5.004.271**, **C.III.1 azioni e quote 1.265.314**. Seguono C.III.6 depositi presso enti creditizi 118.097, C.III.7 investimenti finanziari diversi 45.478 e C.III.4 finanziamenti 19.333. Il totale è **37.563.721**, in calo di 26.449 (−0,1%) sui 37.590.169 del 2020 (slide 14). Le azioni e quote sono salite di 696.674 (+122,5%), con rettifiche nette per 21.833; i fondi comuni di 315.744, con rettifiche per 17.026 (slide 15). Per il docente sono investimenti «molto significativi», «sostanzialmente» in titoli di Stato ([00:25:48]).
+**Opzione:** Obbligazioni e altri titoli a reddito fisso 31.111.228, quote di fondi comuni 5.004.271, azioni e quote 1.265.314.
+**Distrattori:**
+- Obbligazioni e altri titoli a reddito fisso 31.111.228, quote di fondi comuni 1.265.314, azioni e quote 5.004.271.
+- Obbligazioni e altri titoli a reddito fisso 31.111.228, quote di fondi comuni 5.004.271, depositi presso enti creditizi 1.265.314.
+- Obbligazioni e altri titoli a reddito fisso 32.267.148, quote di fondi comuni 4.688.527, azioni e quote 568.641.
+
+**D:** ⚠️ Quale soglia di partecipazione non raggiunge nessuno degli altri investimenti finanziari, secondo la slide 15 della lezione 41?
+**R:** «*Nella voce complessiva degli "altri investimenti finanziari" **non sono presenti** investimenti in imprese nelle quali la Compagnia abbia la titolarità di **almeno un decimo** del capitale o dei diritti di voto esercitabili nell'**assemblea ordinaria***» (slide 15). Le partecipazioni nelle imprese del Gruppo e nelle altre partecipate stanno infatti nella voce C.II.
+**Opzione:** La titolarità di almeno un decimo del capitale o dei diritti di voto esercitabili nell'assemblea ordinaria.
+**Distrattori:**
+- La titolarità di almeno un quinto del capitale o dei diritti di voto esercitabili nell'assemblea ordinaria.
+- La titolarità della maggioranza del capitale o dei diritti di voto esercitabili nell'assemblea ordinaria.
+- La titolarità di almeno un decimo del capitale o dei diritti di voto esercitabili nell'assemblea straordinaria.
+
+**D:** ⚠️ In quale allegato della nota integrativa è dettagliata la ripartizione degli altri investimenti finanziari fra utilizzo durevole e non durevole, per la gestione Danni e Vita, secondo la slide 15 della lezione 41?
+**R:** «*La ripartizione di azioni e quote, quote di fondi comuni di investimento, obbligazioni/altri titoli a reddito fisso ed investimenti finanziari diversi, in base all'utilizzo durevole e non durevole, separatamente per la gestione Danni e Vita, è dettagliata nell'**allegato 8**, con l'indicazione del corrispondente **valore corrente***» (slide 15). ⚠️ Gli altri allegati della lezione: 1 e 2 gli stati patrimoniali Danni e Vita, 3 la ripartizione del risultato (slide 2), 4 le movimentazioni degli immobili (slide 5), 5 le variazioni di azioni e quote, obbligazioni e finanziamenti, 6 le informazioni sulle imprese partecipate, 7 le movimentazioni degli investimenti in partecipate (slide 10 e 14).
+**Opzione:** Nell'allegato 8, con l'indicazione del corrispondente valore corrente.
+**Distrattori:**
+- Nell'allegato 5, con l'indicazione del corrispondente valore corrente.
+- Nell'allegato 7, con l'indicazione del corrispondente valore corrente.
+- Nell'allegato 4, con l'indicazione del corrispondente valore corrente.
+
+**D:** ⚠️ Quanto pesano nel portafoglio delle obbligazioni e altri titoli a reddito fisso (voce C.III.3) i titoli emessi da Stati ed enti pubblici quotati e gli altri titoli quotati, secondo la tabella della slide 15 della lezione 41?
+**R:** I **titoli emessi da Stati, enti pubblici quotati** sono **18.573.667** migliaia, il **59,7%**; gli **altri titoli quotati** **11.954.344**, il **38,4%**. Il resto sono titoli di Stato non quotati (299.108, 1,0%), altri titoli non quotati (283.118, 0,9%) e obbligazioni convertibili (991, 0,0%). Il totale è **31.111.228**, in calo di 1.155.920 (−3,6%) (slide 15). ⚠️ I titoli di Stato, quotati e non, fanno il 60,7%: il docente dice che gli altri investimenti finanziari «sostanzialmente sono gli investimenti in titoli di Stato» ([00:25:48]). Il 63,90% di Government e il 27,52% di Financial della lezione 38 (slide 5) sono un'altra classificazione, per risk sector.
+**Opzione:** Titoli emessi da Stati ed enti pubblici quotati 59,7%, altri titoli quotati 38,4%.
+**Distrattori:**
+- Titoli emessi da Stati ed enti pubblici quotati 38,4%, altri titoli quotati 59,7%.
+- Titoli emessi da Stati ed enti pubblici quotati 63,9%, altri titoli quotati 27,5%.
+- Titoli emessi da Stati ed enti pubblici quotati 59,7%, altri titoli non quotati 38,4%.
+
+**D:** ⚠️ Come è stata orientata nel 2021 l'operatività sui titoli obbligazionari, secondo la slide 15 della lezione 41?
+**R:** «*L'operatività del 2021 sui titoli obbligazionari è stata orientata, come si evince anche dalla tabella, a **ridurre il peso degli investimenti in titoli governativi** a favore di un **incremento delle obbligazioni di emittenti non governativi**, sia **corporate finanziari che industriali***» (slide 15). ⚠️ Nella tabella però calano sia i titoli di Stato quotati (−707.679) sia gli altri titoli quotati (−466.989), e le quote restano quasi ferme (59,7% e 38,4%). Il docente non commenta l'operatività.
+**Opzione:** A ridurre il peso degli investimenti in titoli governativi a favore di un incremento delle obbligazioni di emittenti non governativi, sia corporate finanziari che industriali.
+**Distrattori:**
+- A incrementare il peso degli investimenti in titoli governativi a scapito delle obbligazioni di emittenti non governativi, sia corporate finanziari che industriali.
+- Rappresenta l'avviamento, ed è supportato da una stima interna volta a determinare il valore d'uso della partecipazione.
+- Solo le compagnie già autorizzate all'esercizio di entrambi i rami possono continuare a gestirli; quelle di nuova costituzione si costituiscono per gestire esclusivamente o i rami Danni o i rami Vita.
+
+**D:** ⚠️ Come si ripartiscono le obbligazioni e altri titoli a reddito fisso (voce C.III.3) fra impieghi durevoli e a breve, e che fair value hanno quelli durevoli, secondo le slide 15–16 della lezione 41?
+**R:** «*La ripartizione fra impieghi a carattere **durevole** e impieghi **a breve** è rispettivamente di **20.380.043** migliaia di euro e **10.731.185** migliaia di euro*» (slide 15). «*Tra le obbligazioni classificate come immobilizzazioni finanziare si rilevano titoli per un controvalore complessivo di 20.380.043 migliaia di euro, che presentano un **fair value di 24.362.746** migliaia di euro*», e le riprese nette di valore sul portafoglio circolante sono 693 (slide 16). I titoli quotati, per nominali 32.267.039, sono iscritti per 30.528.012, e alla media dei prezzi di dicembre varrebbero 35.475.699. I non quotati, per nominali 626.889, sono iscritti per 582.226 contro un valore di mercato di 642.158 (slide 15–16).
+**Opzione:** Durevoli 20.380.043, con un fair value di 24.362.746; a breve 10.731.185 migliaia di euro.
+**Distrattori:**
+- Durevoli 24.362.746, con un fair value di 20.380.043; a breve 10.731.185 migliaia di euro.
+- Durevoli 20.380.043, con un fair value di 24.362.746; a breve 11.954.344 migliaia di euro.
+- Durevoli 10.731.185, con un fair value di 24.362.746; a breve 20.380.043 migliaia di euro.
