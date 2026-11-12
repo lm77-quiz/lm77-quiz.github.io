@@ -15506,3 +15506,291 @@
 - Il rischio di credito e il rischio di liquidità; poi il rischio di tasso, meno rilevante ma comunque significativo, e i rischi operativi.
 - Il rischio di tasso e il rischio di liquidità; poi il rischio di credito, meno rilevante ma comunque significativo, e i rischi operativi.
 - Il rischio di credito e il rischio di concentrazione; poi il rischio di liquidità, meno rilevante ma comunque significativo, e i rischi operativi.
+
+## Lezione 59 — Il bilancio della società di factoring. Rischi e patrimonio di vigilanza
+
+**D:** ⚠️ La distribuzione delle esposizioni creditizie per attività economica della controparte deve essere esposta in nota integrativa, secondo il test della lezione 59 (domanda 1)?
+**R:** «**Sì**». La nota integrativa di UniCredit Factoring la espone nella prima tabella della slide 4, «Distribuzione delle esposizioni creditizie per cassa e fuori bilancio per settore di attività economica della controparte»: governi e altri enti pubblici 4.068.734, imprese non finanziarie 7.566.673, imprese finanziarie 1.614.188, assicurazioni 1.857, altri 1.550.004, per 14.801.456 mila euro. Il docente la commenta ([00:06:16]). Il «deve» ha due appigli. La slide 3 dichiara perfino una tabella vuota, quella per classi di rating interni, «non alimentata in quanto la Società utilizza il metodo standard». E per la lezione 50 le istruzioni della Banca d'Italia stabiliscono «in modo vincolante» il contenuto della nota integrativa degli intermediari non bancari (slide 9). Il vicino è «a discrezione del revisore»: il revisore giudica il bilancio, non lo redige (lezione 48, slide 7). La nota è quella individuale, non un consolidato. Distrattori del test: «a discrezione del revisore», «solo per il bilancio consolidato», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del revisore.
+- Solo per il bilancio consolidato.
+- No.
+
+**D:** ⚠️ La distribuzione delle esposizioni creditizie per area geografica della controparte deve essere esposta in nota integrativa, secondo il test della lezione 59 (domanda 2)?
+**R:** «**Sì**». È la seconda tabella della slide 4, che però si intitola «Distribuzione dei finanziamenti verso clientela per area geografica della controparte»: Nord Ovest 5.376.707, Nord Est 1.210.357, Centro 6.427.279, Sud 640.649, Isole 179.128, Estero 967.335, per 14.801.456 mila euro. ⚠️ Il totale è lo stesso della tabella per settore, quindi le due tabelle distribuiscono lo stesso aggregato. Per il docente «la parte del Leone la fa il centro», poi viene il Nord-Ovest ([00:06:16]). Gli appigli del «deve» e i distrattori sono quelli della domanda 1: la tabella «non alimentata» della slide 3, le istruzioni vincolanti della Banca d'Italia (lezione 50, slide 9), il revisore che non redige la nota (lezione 48, slide 7). ⚠️ Qui la «si» è la C, nella domanda 1 era la D. Distrattori del test: «a discrezione del revisore», «solo per il bilancio consolidato», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del revisore.
+- Solo per il bilancio consolidato.
+- No.
+
+**D:** ⚠️ Di quale rischio la «Net Interest Income Sensitivity» è una misura di monitoraggio, secondo il test della lezione 59 (domanda 3)?
+**R:** Del «**rischio di tasso di interesse**». È la slide 6 alla lettera: «Le tre principali misure utilizzate per il monitoraggio del rischio di tasso d'interesse e per la fissazione dei limiti sono le seguenti: "Net Interest Income Sensitivity"…», poi la Basis Point Value Sensitivity e la Economic Value Sensitivity. La NIIS misura la variazione del margine d'interesse nei 12 mesi successivi, con +100 e −30 punti base. ⚠️ Il vicino è «rischio di mercato». Nella parte E della banca il rischio di tasso sta fra i rischi di mercato (lezione 22, slide 3), e il docente chiama il rischio prezzo «sostanzialmente un rischio di mercato» ([00:18:31]). Ma la slide nomina il rischio di tasso «del banking book», e nella relazione sulla gestione i rischi di mercato riguardano il trading, che la società non fa (lezione 55, slide 6). «Tasso di cambio» conserva la parola «tasso» e cambia l'oggetto; il «tasso di inflazione» non compare nei materiali. Distrattori del test: «rischio di tasso di cambio», «rischio di tasso di inflazione», «rischio di mercato».
+**Opzione:** Rischio di tasso di interesse.
+**Distrattori:**
+- Rischio di mercato.
+- Rischio di tasso di cambio.
+- Rischio di tasso di inflazione.
+
+**D:** ⚠️ La distribuzione per durata residua delle attività e passività finanziarie deve essere esposta in nota integrativa, secondo il test della lezione 59 (domanda 4)?
+**R:** «**Sì**». Le tabelle sono due, in due sezioni diverse: la «Distribuzione per durata residua (data di riprezzamento)» del rischio di tasso (slide 7–8) e la «Distribuzione temporale per durata residua contrattuale» del rischio di liquidità (slide 13–14). Nella prima l'81% delle attività riprezza entro tre mesi. Gli appigli del «deve» sono quelli delle domande 1 e 2: la tabella «non alimentata» della slide 3 e le istruzioni vincolanti della Banca d'Italia (lezione 50, slide 9). ⚠️ «Solo per il bilancio consolidato» qui tenta, perché la posizione di liquidità «va vista all'interno del consolidato della Regione Italia del Gruppo» (slide 12). Ma le tabelle stanno nella nota individuale. Il revisore giudica il bilancio, non lo redige (lezione 48, slide 7). ⚠️ L'ordine delle opzioni cambia ancora, e la «si» è la C. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ Di quale rischio la «Maturity Match Gap» è una tecnica di gestione, secondo il test della lezione 59 (domanda 5)?
+**R:** Del «**rischio di liquidità**». Per la slide 12 UniCredit Factoring fa la provvista unicamente tramite la Capogruppo, «dalla quale viene anche monitorata in termini di rischio di liquidità, in particolare sulla metrica di Maturity Match Gap e la Maturity Ladder». ⚠️ La slide dice «metrica», il test «tecnica di gestione», e il docente non la nomina ([00:22:31]). Il vicino è il «rischio di tasso di interesse», che si legge anch'esso per scadenze: la slide 7 distribuisce attività e passività per data di riprezzamento. E la slide 6 riconduce gli impieghi a due tipologie «ai fini della gestione del rischio di liquidità e di tasso di interesse». Ma le misure del rischio di tasso sono le tre sensitività, e la Maturity Match Gap sta nel paragrafo della liquidità. I rischi operativi si gestiscono con Disaster Recovery, Business Continuity e Politiche Assicurative (slide 11). I rischi reputazionali non sono in questo deck. Distrattori del test: «rischi reputazionali», «rischi operativi», «rischio di tasso di interesse».
+**Opzione:** Rischio di liquidità.
+**Distrattori:**
+- Rischio di tasso di interesse.
+- Rischi operativi.
+- Rischi reputazionali.
+
+**D:** ⚠️ Quali sono, nell'ordine, le tre principali misure utilizzate da UniCredit Factoring per il monitoraggio del rischio di tasso d'interesse e per la fissazione dei limiti, secondo la slide 6 della lezione 59?
+**R:** 1. La «**Net Interest Income Sensitivity**», sulla variazione del margine d'interesse nei successivi 12 mesi; 2. la «**Basis Point Value Sensitivity**», sulla variazione del valore attuale delle posizioni per uno shock di 1 bp; 3. la «**Economic Value Sensitivity**», sull'effetto di variazioni di +200 e −200 pb sul valore di attività, passività e strumenti fuori bilancio (slide 6). Per il docente «sono tutte misure di reazione che in finanza si chiama sensitività», la reattività dei valori alla variazione dei tassi ([00:09:55]). ⚠️ Maturity Match Gap e Maturity Ladder sono invece le metriche del rischio di liquidità (slide 12). Intesa Sanpaolo misurava il rischio di tasso con la sensitivity del margine di interesse, la shift sensitivity del valore e il VaR (lezione 36, slide 2–3).
+**Opzione:** Net Interest Income Sensitivity, Basis Point Value Sensitivity ed Economic Value Sensitivity.
+**Distrattori:**
+- Net Interest Income Sensitivity, Basis Point Value Sensitivity e Maturity Match Gap.
+- Maturity Match Gap, Maturity Ladder ed Economic Value Sensitivity.
+- Net Interest Income Sensitivity, shift sensitivity del valore e Value at Risk.
+
+**D:** ⚠️ Che cosa misura la «Net Interest Income Sensitivity» di UniCredit Factoring, e con quali variazioni dei tassi, secondo la slide 6 della lezione 59?
+**R:** «La variazione del margine d'interesse nei successivi 12 mesi, **in assenza di nuova operatività**, al variare di **+100 punti base** ("RAF Parallel Up") e **-30 punti base** ("RAF Parallel Down", che include lo stress sulle valute principali) dei tassi d'interesse» (slide 6). ⚠️ Gli scenari non sono simmetrici: +100 e −30. Il docente: «100 punti base sarebbe l'1%, oppure 30 punti base in basso» ([00:13:16]). A fine 2021 la sensitivity del margine è di circa −5,6 milioni con +100 bp e di circa 8,5 milioni con −30 bp (slide 9). Intesa Sanpaolo usava invece +50, −50 e +100 punti base (lezione 36, slide 2).
+**Opzione:** La variazione del margine d'interesse nei successivi 12 mesi, in assenza di nuova operatività, al variare di +100 punti base (RAF Parallel Up) e -30 punti base (RAF Parallel Down, che include lo stress sulle valute principali) dei tassi d'interesse.
+**Distrattori:**
+- La variazione del margine d'interesse nei successivi 12 mesi, in assenza di nuova operatività, al variare di +100 punti base (RAF Parallel Up) e -100 punti base (RAF Parallel Down, che include lo stress sulle valute principali) dei tassi d'interesse.
+- Fra l'80% ed il 125%; in fase iniziale il test prospettico, alla redazione del bilancio annuale il test retrospettivo.
+- Di un Risk Weight del 20% per una significativa quota del portafoglio in pro soluto.
+
+**D:** ⚠️ Che cosa misura la «Basis Point Value Sensitivity» di UniCredit Factoring, e quali flussi considera, secondo la slide 6 della lezione 59?
+**R:** «La variazione nel valore attuale delle posizioni di tasso di interesse derivanti da uno **shock istantaneo di 1bp** dei tassi di interesse. Considera il valore attuale di **tutti i flussi di cassa futuri generati dall'attivo, dal passivo, e dai derivati esistenti**» (slide 6). La NIIS guarda al margine d'interesse, la BPV al valore attuale. Per il docente la BPV «è sostanzialmente la stessa cosa» della NIIS, per uno shock di un basis point ([00:13:16]).
+**Opzione:** La variazione nel valore attuale delle posizioni di tasso di interesse derivanti da uno shock istantaneo di 1bp dei tassi di interesse; considera il valore attuale di tutti i flussi di cassa futuri generati dall'attivo, dal passivo e dai derivati esistenti.
+**Distrattori:**
+- La variazione nel valore attuale delle posizioni di tasso di interesse derivanti da uno shock istantaneo di 100bp dei tassi di interesse; considera il valore attuale di tutti i flussi di cassa futuri generati dall'attivo, dal passivo e dai derivati esistenti.
+- Il corrispettivo che potrebbe essere ricevuto per vendere un'attività, o pagato per trasferire una passività, in una transazione ordinaria tra controparti di mercato nel mercato principale alla data di misurazione (exit price).
+- Stage 1: ECL a 12 mesi; Stage 2: ECL lifetime; Stage 3: ECL lifetime, con gli interessi attivi calcolati sul valore contabile netto dell'attività.
+
+**D:** ⚠️ Che cosa monitora la «Economic Value Sensitivity» di UniCredit Factoring, e con quali variazioni dei tassi, secondo la slide 6 della lezione 59?
+**R:** «Come i cambiamenti dei tassi di interesse (**principalmente variazioni di +200 pb e di -200 pb**) influiscono sul **valore di attività, passività e strumenti fuori bilancio** incidendo sul valore economico dei flussi finanziari futuri» (slide 6). ⚠️ Qui gli scenari sono simmetrici, ±200 pb, a differenza dei +100 e −30 della NIIS. A fine 2021 la sensitivity del valore economico secondo l'EBA è di circa −13,2 milioni con +200 bp e di circa 4,1 milioni con −200 bp (slide 9). Il docente: «variazioni di più o meno 200 basis point» ([00:13:16]).
+**Opzione:** Come i cambiamenti dei tassi di interesse (principalmente variazioni di +200 pb e di -200 pb) influiscono sul valore di attività, passività e strumenti fuori bilancio incidendo sul valore economico dei flussi finanziari futuri.
+**Distrattori:**
+- Come i cambiamenti dei tassi di interesse (principalmente variazioni di +100 pb e di -30 pb) influiscono sul valore di attività, passività e strumenti fuori bilancio incidendo sul valore economico dei flussi finanziari futuri.
+- Una designazione e documentazione formale della relazione di copertura, degli obiettivi della Società nella gestione del rischio e della strategia nell'effettuare la copertura.
+- Il Risk Appetite è il livello di rischio che la Società è disposta ad assumere; la Risk Taking Capacity è il rapporto tra le risorse finanziarie effettivamente disponibili ed il capitale interno.
+
+**D:** ⚠️ Quanto vale al 31 dicembre 2021 la sensitivity del margine di interesse di UniCredit Factoring a +100 e a -30 bp, e quella del valore economico del patrimonio secondo l'EBA a +200 e a -200 bp, secondo la slide 9 della lezione 59?
+**R:** Margine di interesse: circa **−5,6 milioni** con +100 bp, circa **8,5 milioni** con −30 bp. Valore economico del patrimonio secondo l'Autorità Bancaria Europea: circa **−13,2 milioni** con +200 bp, circa **4,1 milioni** con −200 bp. Sono variazioni «istantanee e parallele» dei tassi (slide 9): un rialzo riduce sia il margine sia il valore economico. ⚠️ Il docente legge le prime due come variazioni del «patrimonio netto» e le seconde del «patrimonio di vigilanza», e confronta 5,6 e 13,2, «poco più del doppio», come se fossero la stessa misura ([00:17:36]–[00:18:31]). Sono invece due misure diverse, la NIIS e l'EVS della slide 6.
+**Opzione:** Margine di interesse: circa -5,6 milioni a +100 bp e circa 8,5 milioni a -30 bp; valore economico: circa -13,2 milioni a +200 bp e circa 4,1 milioni a -200 bp.
+**Distrattori:**
+- Margine di interesse: circa 5,6 milioni a +100 bp e circa -8,5 milioni a -30 bp; valore economico: circa 13,2 milioni a +200 bp e circa -4,1 milioni a -200 bp.
+- Sofferenze da 117.561 a 121.546 mila euro; inadempienze probabili da 94.774 a 94.607; scadute deteriorate da 83.863 a 72.244.
+- Attività obbligatoriamente al fair value al livello 1 (3.840); attività FVOCI al livello 3 (11.784); derivati di copertura al livello 2 (10.316).
+
+**D:** ⚠️ Con quale esempio il docente della lezione 59 spiega come la variazione dei tassi incide sul patrimonio netto, e come propone di sterilizzarla?
+**R:** Attività 100, tutte in BOT; passività 80, un prestito obbligazionario **a tasso fisso**; patrimonio netto 20. Se i tassi aumentano, per il docente il passivo a tasso fisso resta 80, mentre le attività, a tasso variabile, scendono per esempio a **82**: il netto passa da 20 a **2**, e «probabilmente» non basta più a coprire i rischi ([00:12:52]–[00:13:16]). Per evitarlo attivo e passivo vanno «sterilizzati»: con un **interest rate swap sull'attivo** si converte il tasso variabile in fisso. Sterilizzare vuol dire che attivo e passivo non variano, oppure variano nella stessa direzione e dello stesso ammontare ([00:16:35]). Per lui l'esempio «è ipersemplificato». ⚠️ La nota segnala con un'integrazione ℹ️ che di norma a oscillare di valore sono le poste a tasso fisso. La regola che il docente richiama è che, se i tassi si alzano, il valore delle attività e delle passività si abbassa ([00:09:55]–[00:11:09]).
+**Opzione:** Attività 100, passività 80 a tasso fisso e netto 20: se i tassi aumentano le attività a tasso variabile scendono a 82 e il netto a 2; si sterilizza con un interest rate swap sull'attivo, che converte il tasso variabile in fisso.
+**Distrattori:**
+- Attività 100, passività 80 a tasso fisso e netto 20: se i tassi diminuiscono le attività a tasso variabile scendono a 82 e il netto a 2; si sterilizza con un interest rate swap sull'attivo, che converte il tasso variabile in fisso.
+- Un rischio di credito attenuato nei confronti del debitore principale, ma pieno nei confronti del creditore cedente.
+- Quasi sempre la capogruppo: sono subordinate, ma rendono più delle obbligazioni non subordinate, le senior; queste sono junior.
+
+**D:** ⚠️ A quali due principali tipologie di operazione si riconducono le forme tecniche di impiego di UniCredit Factoring ai fini della gestione del rischio di liquidità e di tasso di interesse, e a quale tasso sono regolate, secondo la slide 6 della lezione 59?
+**R:** 1. Le «operazioni di acquisto crediti **a titolo definitivo e/o sottosconto**: sono operazioni **a tasso fisso** con una durata definita anche se incerta in quanto la scadenza dell'operazione comprende un periodo stimato di ritardo per l'incasso delle fatture rispetto alla loro scadenza naturale»; 2. le «operazioni **standard (pro soluto e pro solvendo)**: sono esposizioni di natura **revolving**, in linea di principio revocabili a determinate condizioni, e sono normalmente regolate **a tasso variabile** determinato mensilmente in base alle rilevazioni medie del mese e liquidato mensilmente/trimestralmente» (slide 6). In linea di massima la prima si finanzia con depositi a tempo, la seconda con depositi a tempo di durata coerente al tasso di riferimento applicato alla clientela. Così si minimizza il rischio di tasso, «già di per sé limitato» perché l'operatività è «quasi interamente nel breve termine», oltre a quello di liquidità. Il docente non legge questa parte.
+**Opzione:** Acquisto crediti a titolo definitivo e/o sottosconto: operazioni a tasso fisso, con una durata definita anche se incerta; operazioni standard (pro soluto e pro solvendo): esposizioni di natura revolving, in linea di principio revocabili a determinate condizioni, normalmente regolate a tasso variabile determinato mensilmente in base alle rilevazioni medie del mese e liquidato mensilmente/trimestralmente.
+**Distrattori:**
+- Acquisto crediti a titolo definitivo e/o sottosconto: operazioni a tasso variabile, con una durata definita anche se incerta; operazioni standard (pro soluto e pro solvendo): esposizioni di natura revolving, in linea di principio revocabili a determinate condizioni, normalmente regolate a tasso fisso determinato mensilmente in base alle rilevazioni medie del mese e liquidato mensilmente/trimestralmente.
+- a) crediti verso banche 20.595.460; b) crediti verso società finanziarie 254.688.019; c) crediti verso clientela 12.368.035.233, cioè i crediti anticipati alla clientela come anticipi pro soluto, pro solvendo e su contratti.
+- Commerciale: origination; Credit Operations: valutazione all'atto dell'assunzione; Gestione Debitori: rapporti continuativi con i debitori.
+
+**D:** ⚠️ A che cosa è legato il rischio prezzo di UniCredit Factoring, secondo la slide 9 della lezione 59?
+**R:** «La Società, dal 2020, detiene **titoli azionari quotati e strumenti finanziari partecipativi di una ex controparte creditizia**, in seguito al perfezionamento dell'operazione di ristrutturazione del debito della controparte come previsto nel **piano concordatario**. Il rischio prezzo è pertanto legato alla fluttuazione dei valori di mercato espressi dai **mercati azionari** nonché, per gli SFP, dal valore degli asset inseriti all'interno del **patrimonio destinato** del quale la società detiene quote partecipative» (slide 9). Sono le azioni quotate e gli SFP «assegnati alla società nell'ambito di una ristrutturazione del debito» della lezione 57 (slide 9–10). Per il docente il rischio prezzo «è sostanzialmente un rischio di mercato»: un'attività comprata sul mercato perde prezzo dopo l'acquisto ([00:18:31]).
+**Opzione:** Alla fluttuazione dei valori di mercato espressi dai mercati azionari nonché, per gli SFP, dal valore degli asset inseriti all'interno del patrimonio destinato del quale la società detiene quote partecipative.
+**Distrattori:**
+- Alla fluttuazione dei valori di mercato espressi dai mercati obbligazionari nonché, per gli SFP, dal valore degli asset inseriti all'interno del patrimonio destinato del quale la società detiene quote partecipative.
+- Le attività non monetarie, identificabili pur se prive di consistenza fisica, dalle quali è probabile che affluiranno benefici economici futuri.
+- Il rischio di annacquamento, il rischio di ritardato pagamento (in cui rientra anche la perenzione amministrativa) e il rischio di compensazione.
+
+**D:** ⚠️ Come definisce il rischio di cambio la nota integrativa di UniCredit Factoring, secondo la slide 9 della lezione 59?
+**R:** «Il rischio di cambio esprime il rischio di incorrere in perdite a causa delle oscillazioni dei corsi delle valute **e del prezzo dell'oro**» (slide 9). ⚠️ La coda è «e del prezzo dell'oro», che il docente omette: per lui è «il rischio di incorrere in perdita a causa di oscillazioni dei corsi delle valute» ([00:18:31]). La politica della Società prevede che i crediti ceduti in divisa estera siano anticipati e finanziati nella stessa divisa. Con anticipazioni in euro, differenze e costi di conversione sono governati da contratti che attribuiscono il rischio di cambio alla clientela.
+**Opzione:** Il rischio di incorrere in perdite a causa delle oscillazioni dei corsi delle valute e del prezzo dell'oro.
+**Distrattori:**
+- Il rischio di incorrere in perdite a causa delle oscillazioni dei corsi delle valute e dei tassi di interesse.
+- Il rischio di incorrere in perdite a causa delle oscillazioni dei tassi di interesse e del prezzo dell'oro.
+- Il rischio di incorrere in perdite a causa delle oscillazioni dei corsi delle valute e dei titoli azionari.
+
+**D:** ⚠️ Come è determinata la copertura patrimoniale richiesta per il rischio di cambio, e quanto capitale assorbono a fine 2021 le posizioni aperte in cambi di UniCredit Factoring, secondo la slide 9 della lezione 59?
+**R:** «La copertura patrimoniale richiesta per il rischio di cambio è determinata applicando alla **posizione netta aperta in cambi** il coefficente dell'**8%**, **ridotto del 25%** per le società che appartengono ad un gruppo bancario. Al 31 dicembre 2021 le posizioni aperte in cambi della Società **non determinano assorbimenti di capitale**» (slide 9). L'8% ridotto del 25% fa il 6%. Nella tabella dell'adeguatezza la riga dei rischi di mercato è vuota (slide 20). La distribuzione per valuta della slide 10 dà sbilanci di (1.861) per i dollari USA, (4.299) per le sterline, 28.695 per i dollari canadesi, 139 per la corona ceca, 335 per lo zloty polacco e (444) per le altre valute. Per il docente le valute dell'Est europeo ci sono per la presenza di UniCredit in quell'area ([00:18:31]). Del requisito non parla.
+**Opzione:** Applicando alla posizione netta aperta in cambi il coefficiente dell'8%, ridotto del 25% per le società che appartengono ad un gruppo bancario; al 31 dicembre 2021 le posizioni aperte in cambi non determinano assorbimenti di capitale.
+**Distrattori:**
+- Applicando alla posizione netta aperta in cambi il coefficiente dell'8%, aumentato del 25% per le società che appartengono ad un gruppo bancario; al 31 dicembre 2021 le posizioni aperte in cambi non determinano assorbimenti di capitale.
+- Le operazioni al tasso di cambio corrente alla data dell'operazione; le attività e passività monetarie al tasso di cambio di chiusura del periodo.
+- Nessun accantonamento, ma comunque una descrizione della natura della passività; l'accantonamento già iscritto viene stornato.
+
+**D:** ⚠️ Come definisce il rischio operativo la nota integrativa di UniCredit Factoring, secondo la slide 11 della lezione 59?
+**R:** «Conformemente alla normativa interna ed esterna al Gruppo, il rischio operativo consiste nella possibilità di incorrere in perdite dovute ad **errori, infrazioni, interruzioni o danni** riconducibili a **processi interni, persone, sistemi o eventi esterni**» (slide 11). ⚠️ Il docente dice «processi esterni» ([00:20:04]): vale la slide, «processi interni». I suoi esempi sono i dati persi dell'hard disk, truffe e furti, alluvioni e terremoti, le «male pratiche» di dipendenti o collaboratori, furto, incendio e danneggiamento ([00:20:04]–[00:20:43]). Nella lezione 22 il rischio di incendio stava fra i rischi operativi (test 22, domanda 5).
+**Opzione:** La possibilità di incorrere in perdite dovute ad errori, infrazioni, interruzioni o danni riconducibili a processi interni, persone, sistemi o eventi esterni.
+**Distrattori:**
+- La possibilità di incorrere in perdite dovute ad errori, infrazioni, interruzioni o danni riconducibili a processi esterni, persone, sistemi o eventi esterni.
+- Al maggiore tra il fair value, dedotti i costi di vendita, ed il relativo valore d'uso.
+- L'analisi dei bilanci, della centrale rischi, delle informazioni commerciali e delle informazioni a disposizione del Gruppo UniCredit.
+
+**D:** ⚠️ Con quale metodo UniCredit Factoring calcola il requisito patrimoniale a fronte del rischio operativo, e quanto vale a fine 2021, secondo la slide 11 della lezione 59?
+**R:** Con il metodo «**Base**», «ovvero applicando un coefficiente regolamentare pari al **15% della media del margine d'intermediazione degli ultimi tre esercizi**». L'assorbimento patrimoniale è di **25,6 milioni** a fine 2021, «in linea con quanto rilevato alla fine dell'anno precedente» (slide 11). ⚠️ Nella tabella della slide 20 sono 25.627 mila contro 27.450 nel 2020. Il docente: i rischi operativi «determinano che una parte del mio patrimonio netto deve essere dedicata alla copertura dei rischi operativi». Con margini di 100, 110 e 120 la media è 110, e il 15% fa 16,5 ([00:22:00]–[00:22:31]). Nella lezione 22 il rischio operativo aveva tre metodi: base, standardizzato e avanzato (slide 2).
+**Opzione:** Con il metodo Base: il 15% della media del margine d'intermediazione degli ultimi tre esercizi, pari a 25,6 milioni a fine 2021.
+**Distrattori:**
+- Con il metodo Base: il 15% della media del margine d'interesse degli ultimi tre esercizi, pari a 25,6 milioni a fine 2021.
+- Con il metodo Base: l'8% della media del margine d'intermediazione degli ultimi tre esercizi, pari a 25,6 milioni a fine 2021.
+- Con il metodo standardizzato: il 15% della media del margine d'intermediazione degli ultimi tre esercizi, pari a 25,6 milioni a fine 2021.
+
+**D:** ⚠️ Per quali tre ambiti UniCredit Factoring utilizza gli strumenti e le metodologie di Gruppo nella gestione del rischio operativo, e come li spiega il docente della lezione 59?
+**R:** «Disaster Recovery, Business Continuity e Politiche Assicurative» (slide 11). Il docente ([00:21:17]): il **disaster recovery** è il «recupero del disastro», cioè «se domani mattina il mio server va distrutto oppure me lo rubano, quanto ci metto io a ritornare in linea». La **business continuity** è la capacità di «assicurare che … la mia gestione ordinaria continuerà qualunque cosa succede». Con le **politiche assicurative** «mi assicuro contro i rischi». Nella relazione sulla gestione il nuovo piano di Business Continuity contemplava il Remote Working (lezione 55, slide 10).
+**Opzione:** Disaster Recovery, Business Continuity e Politiche Assicurative.
+**Distrattori:**
+- Disaster Recovery, Business Continuity e Remote Working.
+- Disaster Recovery, Risk Appetite Framework e Politiche Assicurative.
+- Credit Tableau de Bord, Business Continuity e Politiche Assicurative.
+
+**D:** ⚠️ Che cosa fa UniCredit Factoring ai fini della misurazione e gestione del rischio operativo, secondo l'elenco completo della slide 11 della lezione 59?
+**R:** Sei attività, nell'ordine della slide 11: 1. «mappare i processi aziendali (comprese le mappature richieste dalla normativa L. 262/2005)»; 2. «implementare procedure informatiche con controlli automatici, ove possibile, e sistemi di gestione delle anomalie»; 3. «procedere a fornire al personale le informazioni necessarie per identificare i rischi operativi»; 4. «utilizzare gli strumenti e le metodologie di Gruppo per Disaster Recovery, Business Continuity e Politiche Assicurative»; 5. «raccogliere gli eventi di perdita operativa registrandoli nell'applicativo di Gruppo»; 6. «calcolare il requisito patrimoniale a fronte del rischio operativo utilizzando il metodo "Base"», cioè il 15% della media del margine d'intermediazione degli ultimi tre esercizi. Il docente si ferma sulla quarta e sulla sesta ([00:21:17]–[00:22:31]).
+
+**D:** ⚠️ Tramite chi UniCredit Factoring effettua la propria provvista, e su quali metriche ne viene monitorato il rischio di liquidità, secondo la slide 12 della lezione 59?
+**R:** «UniCredit Factoring effettua la propria provvista **unicamente tramite la Capogruppo** dalla quale viene anche monitorata in termini di rischio di liquidità, in particolare sulla metrica di **Maturity Match Gap e la Maturity Ladder**» (slide 12). La Società adotta la normativa del rischio di liquidità recepita dalla Capogruppo e rientra nel perimetro del **Regional Liquidity Center Italia**, che gestisce il rischio di liquidità a livello centralizzato e accede ai mercati dei capitali anche per conto delle banche e società prodotto del perimetro. Il margine di fido non utilizzato «costituisce una riserva di liquidità prontamente disponibile», e la posizione di liquidità della Società «non ha una valenza autonoma significativa, ma va vista all'interno del consolidato della Regione Italia del Gruppo». Il docente: è il rischio «di non avere le risorse necessarie a coprire i debiti che andranno a scadenza», con la normativa della Capogruppo ([00:22:31]). Le metriche non le nomina. È la domanda 5 del test.
+**Opzione:** Unicamente tramite la Capogruppo, dalla quale viene anche monitorata in termini di rischio di liquidità, in particolare sulla metrica di Maturity Match Gap e la Maturity Ladder.
+**Distrattori:**
+- Unicamente tramite la Capogruppo, dalla quale viene anche monitorata in termini di rischio di liquidità, in particolare sulla metrica di Net Interest Income Sensitivity e la Basis Point Value Sensitivity.
+- Il Credit Tableau de Bord al CDA; il monitoraggio strategie e il Risk Appetite Framework al Comitato Rischi.
+- No, ha valutato di non ricorrervi; ha ripristinato NPF FAST, un sistema di scoring semaforico interno.
+
+**D:** ⚠️ Con quali modalità UniCredit Factoring effettua la provvista, e a che cosa serve ciascuna, secondo la slide 12 della lezione 59?
+**R:** Tre modalità, «all'interno di un affidamento periodicamente rivisto in funzione dei budget e dei piani di sviluppo approvati» (slide 12): 1. «**Depositi a scadenza (da un mese e oltre)**: sono la principale forma di provvista e finanziamento»; 2. «**Depositi a brevissima scadenza (da overnight a 2 settimane)**: sono gli strumenti utilizzati per coprire i fabbisogni di liquidità giornalieri e finanziare le oscillazioni di breve termine degli impieghi»; 3. «**Conto corrente**: il conto corrente con la banca è il canale dal quale transita tutta l'operatività della Società (erogazioni, incassi, accensione ed estinzione depositi, ecc.)». Nella distribuzione per durata residua contrattuale i debiti verso banche sono quasi tutte le passività (slide 13). Il docente non legge questa parte.
+**Opzione:** Depositi a scadenza (da un mese e oltre): la principale forma di provvista e finanziamento; depositi a brevissima scadenza (da overnight a 2 settimane): sono gli strumenti utilizzati per coprire i fabbisogni di liquidità giornalieri e finanziare le oscillazioni di breve termine degli impieghi; conto corrente con la banca: il canale da cui transita tutta l'operatività della Società.
+**Distrattori:**
+- Depositi a scadenza (da overnight a 2 settimane): la principale forma di provvista e finanziamento; depositi a brevissima scadenza (da un mese e oltre): sono gli strumenti utilizzati per coprire i fabbisogni di liquidità giornalieri e finanziare le oscillazioni di breve termine degli impieghi; conto corrente con la banca: il canale da cui transita tutta l'operatività della Società.
+- Dal TFR: fino al 2006 è mantenuto presso la società, dal 2007 è devoluto al fondo di previdenza complementare; il fondo accantonato fino al 2006 è un piano a benefici definiti, da erogare all'interruzione del rapporto con i dipendenti.
+- Scaduto oltre 30 giorni; downgrading del rating interno assegnato alla controparte, oltre le soglie stabilite dalla Società; incrementi della Probabilità di Default oltre le soglie stabilite dalla Società; eventi di forbearance.
+
+**D:** ⚠️ Come definisce il Patrimonio dell'Impresa la nota integrativa di UniCredit Factoring, e come ne legge le due parti il docente della lezione 59?
+**R:** «Il Patrimonio dell'Impresa costituisce l'ammontare dei mezzi propri destinati **al conseguimento dell'oggetto sociale** ed **al presidio dei rischi connessi all'attività della società**. Un'adeguata dotazione patrimoniale è pertanto il presupposto per lo sviluppo della Società garantendone nel contempo la solidità e stabilità nel tempo» (slide 15). Il docente separa le due parti: la prima «è la definizione civilistica», la seconda vale «in un'ottica di vigilanza» ([00:22:31]). Al 31/12/2021 il patrimonio vale 821.677 mila euro (slide 16).
+**Opzione:** L'ammontare dei mezzi propri destinati al conseguimento dell'oggetto sociale ed al presidio dei rischi connessi all'attività della società; per il docente la prima parte è la definizione civilistica, la seconda quella in un'ottica di vigilanza.
+**Distrattori:**
+- L'ammontare dei mezzi propri destinati al conseguimento dell'oggetto sociale ed al presidio dei rischi connessi all'attività della società; per il docente la prima parte è quella in un'ottica di vigilanza, la seconda la definizione civilistica.
+- L'eliminazione del trattamento contabile opzionale del metodo del corridoio, con utili/perdite attuariali in contropartita di Riserve da valutazione.
+- L'emissione di documenti periodici e sistematici nonché la produzione di stime ad hoc.
+
+**D:** ⚠️ Quale requisito patrimoniale devono mantenere gli intermediari che non effettuano raccolta di risparmio verso il pubblico, e da quali norme è definita la misura del capitale, secondo la slide 15 della lezione 59?
+**R:** La misura del capitale è quella del «**Regolamento UE n 575/2013** del 26 giugno 2013 (CRR)» e della «**circolare n. 288 del 3 aprile 2015**» della Banca d'Italia, relativa alle «Disposizioni di Vigilanza per gli Intermediari Finanziari». La circolare «prevede che gli intermediari che non effettuano raccolta di risparmio verso il pubblico mantengano un requisito patrimoniale a fronte dei rischi di credito e di controparte pari al **6%** dell'esposizione ponderata per il rischio» (slide 15). Il docente: sono «gli intermediari finanziari non bancari» ([00:24:12]). Nella tabella della slide 20 il requisito per il credito e la controparte, 220.037, è proprio il 6% delle esposizioni ponderate, 3.667.279. ⚠️ Per la banca il docente della lezione 22 indicava l'8%. La relazione sulla gestione parlava solo di un «minimo consentito del 6,0%» (lezione 55, slide 8).
+**Opzione:** Un requisito patrimoniale a fronte dei rischi di credito e di controparte pari al 6% dell'esposizione ponderata per il rischio; la misura del capitale è definita dal Regolamento UE n. 575/2013 del 26 giugno 2013 (CRR) e dalla circolare n. 288 del 3 aprile 2015 della Banca d'Italia e successivi aggiornamenti.
+**Distrattori:**
+- Un requisito patrimoniale a fronte dei rischi di credito e di controparte pari all'8% dell'esposizione ponderata per il rischio; la misura del capitale è definita dal Regolamento UE n. 575/2013 del 26 giugno 2013 (CRR) e dalla circolare n. 288 del 3 aprile 2015 della Banca d'Italia e successivi aggiornamenti.
+- Come un piano a contribuzione definita; le quote lasciate in azienda le versa al fondo di Tesoreria dell'INPS se ha più di 50 dipendenti.
+- Quattro, PD, LGD, EAD e maturity; la maturity è posta uguale a 1 perché i crediti sono quasi tutti di durata inferiore all'anno.
+
+**D:** ⚠️ Chi monitora i coefficienti patrimoniali di UniCredit Factoring, con quale cadenza, e quali sono le principali leve della gestione del capitale, secondo la slide 15 della lezione 59?
+**R:** «Dal punto di vista organizzativo il monitoraggio dei coefficienti patrimoniali viene effettuato dalla **Direzione Pianificazione, Finanza e Amministrazione**, **su base mensile**, sia a consuntivo, sia in ottica prospettica. L'attività di gestione del capitale è svolta in coordinamento con le competenti strutture di Capogruppo utilizzando come **principali leve**, da un lato, **la politica dei dividendi e l'emissione di prestiti subordinati**, e dall'altro, **l'emissione di fideiussioni e indirizzi di carattere commerciale**» (slide 15). ⚠️ Per la slide 20 il monitoraggio prospettico ha invece «generalmente» frequenza trimestrale. La gestione del capitale punta sia a massimizzare il ritorno per l'azionista sia a sostenere la crescita degli impieghi. Il docente non legge questa parte.
+**Opzione:** La Direzione Pianificazione, Finanza e Amministrazione, su base mensile, sia a consuntivo sia in ottica prospettica; le principali leve sono, da un lato, la politica dei dividendi e l'emissione di prestiti subordinati, e dall'altro, l'emissione di fideiussioni e indirizzi di carattere commerciale.
+**Distrattori:**
+- La Direzione Crediti e Rischi, su base mensile, sia a consuntivo sia in ottica prospettica; le principali leve sono, da un lato, la politica dei dividendi e l'emissione di prestiti subordinati, e dall'altro, l'emissione di fideiussioni e indirizzi di carattere commerciale.
+- Il debito residuo verso i cedenti risultante dalla differenza tra il valore dei crediti acquisiti pro soluto e l'anticipo erogato.
+- Bonis, in osservazione, a rientro, a recupero crediti, past due, inadempienze probabili, sofferenza, con eventuale indicazione di esposizioni in forborne.
+
+**D:** ⚠️ Come si compone il patrimonio dell'impresa di UniCredit Factoring al 31/12/2021, in migliaia di euro, secondo la slide 16 della lezione 59?
+**R:** **Capitale 414.348; sovrapprezzi di emissione 951; riserve 337.445; riserve da valutazione (1.100); utile d'esercizio 70.033; totale 821.677** (slide 16). Le riserve sono tutte di utili: legale 43.750, statutaria 185, altre 293.510. Le riserve da valutazione sono (526) di titoli di capitale designati al fair value con impatto sulla redditività complessiva e (574) di utili/perdite attuariali dei piani a benefici definiti. Azioni proprie e strumenti di capitale sono a zero. Nel 2020 il totale era 791.513, con riserve 319.761, riserve da valutazione (1.177) e utile 57.631. Per il docente «è il patrimonio contabile, cioè quello che troviamo nel bilancio», gli «821 milioni» ([00:25:37]). Sono le voci 110–170 dello stato patrimoniale della lezione 56, in euro.
+**Opzione:** Capitale 414.348; sovrapprezzi di emissione 951; riserve 337.445; riserve da valutazione (1.100); utile d'esercizio 70.033; totale 821.677.
+**Distrattori:**
+- Capitale 414.348; sovrapprezzi di emissione 951; riserve 319.761; riserve da valutazione (1.177); utile d'esercizio 57.631; totale 791.513.
+- Capitale 414.348; sovrapprezzi di emissione 951; riserve 337.445; riserve da valutazione 1.100; utile d'esercizio 70.033; totale 823.877.
+
+**D:** ⚠️ Che cosa rappresentano i fondi propri, secondo la nota integrativa di UniCredit Factoring (slide 18 della lezione 59)?
+**R:** «I fondi propri rappresentano **il primo presidio** a fronte dei rischi connessi con l'attività degli intermediari finanziari e **il principale parametro di riferimento** per gli istituti prudenziali e per le valutazioni dell'Autorità di vigilanza. La disciplina detta le modalità di determinazione dei fondi propri, i criteri e i limiti di computo delle voci che li compongono» (slide 18). Al 31 dicembre 2021 sono determinati secondo il CRR e la circolare 288 della Banca d'Italia. Per il docente il CET 1 è «la parte più valida, più affidabile» dei fondi propri ([00:27:10]).
+**Opzione:** Il primo presidio a fronte dei rischi connessi con l'attività degli intermediari finanziari e il principale parametro di riferimento per gli istituti prudenziali e per le valutazioni dell'Autorità di vigilanza.
+**Distrattori:**
+- Il primo presidio a fronte dei rischi connessi con l'attività degli intermediari finanziari e il principale parametro di riferimento per gli istituti prudenziali e per le valutazioni del revisore.
+- La voce 20, FVPL (Fair Value at Profit and Loss), impatta direttamente sull'utile o sulla perdita; la voce 30, FVOCI (Fair Value Other Comprehensive Income), non incide direttamente sul conto economico ma sulla riserva di valutazione, voce 160.
+- Il fornitore cedente ed il debitore ceduto, che vengono entrambi analizzati per qualificarne il profilo creditizio.
+
+**D:** ⚠️ Da che cosa è costituito il capitale primario di classe 1 di UniCredit Factoring, e che cosa comprende dell'utile, secondo la slide 18 della lezione 59?
+**R:** «Il Capitale primario di classe 1 (CET 1) è costituito dai **mezzi propri della Società non essendoci deduzioni né filtri prudenziali applicabili**. Il Capitale primario di classe 1 è comprensivo dell'**intero utile di esercizio al netto dei dividendi da distribuire**, in linea con la ripartizione dell'utile proposta dal Consiglio di Amministrazione all'Assemblea dei Soci» (slide 18). Il capitale di classe 2 «è rappresentato da strumenti ibridi di patrimonializzazione», ma nella tabella della slide 19 è a zero, come l'AT1: il CET 1, 772.614, è tutto il totale dei fondi propri. ⚠️ Da 821.677 di patrimonio a 772.614 la differenza è 49.063, circa il 70% dell'utile di 70.033 da distribuire (lezione 55, slide 8). Il docente la attribuisce invece ai 526 dei titoli di capitale al fair value ([00:27:10]), che stanno già dentro il patrimonio.
+**Opzione:** Dai mezzi propri della Società, non essendoci deduzioni né filtri prudenziali applicabili; è comprensivo dell'intero utile di esercizio al netto dei dividendi da distribuire, in linea con la ripartizione dell'utile proposta dal Consiglio di Amministrazione all'Assemblea dei Soci.
+**Distrattori:**
+- Dai mezzi propri della Società, non essendoci deduzioni né filtri prudenziali applicabili; è comprensivo dell'intero utile di esercizio, compresi i dividendi da distribuire, in linea con la ripartizione dell'utile proposta dal Consiglio di Amministrazione all'Assemblea dei Soci.
+- Strutture e processi consolidati nel tempo ed affidati a risorse competenti ed esperte.
+- Individuazione, misurazione, gestione e controllo dei rischi.
+
+**D:** ⚠️ Quanto valgono a fine 2021 il CET 1 capital ratio, il Tier 1 capital ratio e il Total capital ratio di UniCredit Factoring, e su quali attività di rischio ponderate, secondo la tabella dell'adeguatezza patrimoniale della nota integrativa (slide 20 della lezione 59)?
+**R:** Tutti e tre il **18,87%**, contro il **10,74%** del 2020. Le attività di rischio ponderate sono **4.095.215** mila euro (6.989.732 nel 2020), i fondi propri 772.614 (750.727). I requisiti sono 220.037 per il rischio di credito e di controparte, il 6% dei 3.667.279 ponderati, e 25.627 per il rischio operativo con il metodo base: in tutto 245.664 (419.300 nel 2020). I rischi di mercato non hanno requisito (slide 20). I tre coefficienti coincidono perché AT1 e T2 sono a zero (slide 19). ⚠️ La relazione sulla gestione dà invece il **19,37%** (10,93% nel 2020), su attività ponderate di 3.988 milioni (lezione 55, slide 8–9). Il docente legge il 18,87% contro il minimo del 6%: «io sto al 18 quindi vuol dire sto molto più in alto» ([00:28:44]–[00:29:09]).
+**Opzione:** Tutti e tre il 18,87% (10,74% nel 2020), con fondi propri di 772.614 su attività di rischio ponderate di 4.095.215.
+**Distrattori:**
+- Tutti e tre il 10,74% (18,87% nel 2020), con fondi propri di 772.614 su attività di rischio ponderate di 6.989.732.
+- Il CET 1 capital ratio il 18,87% e il Total capital ratio il 10,74%, con fondi propri di 772.614 su attività di rischio ponderate di 4.095.215.
+
+**D:** ⚠️ Come viene monitorato il livello di adeguatezza patrimoniale di UniCredit Factoring, a consuntivo e in modo prospettico, secondo la slide 20 della lezione 59?
+**R:** «Il livello di adeguatezza patrimoniale viene monitorato regolarmente: **a consuntivo, ogni fine mese**, applicando integralmente le regole per la predisposizione delle **segnalazioni trimestrali** all'Organo di vigilanza; **in modo prospettico, generalmente con frequenza trimestrale**, sulla base dell'evoluzione e composizione attesa dei crediti e del Patrimonio» (slide 20). Se fosse opportuno intervenire, si valutano con la Capogruppo le opzioni che prevedono, «**tra le altre**», l'aumento di capitale, una particolare politica di distribuzione degli utili, l'emissione di strumenti di capitale computabili nel Patrimonio supplementare, la cessione di crediti. ⚠️ L'elenco è aperto. ⚠️ La slide 15 dava al monitoraggio dei coefficienti una cadenza mensile anche in ottica prospettica.
+**Opzione:** A consuntivo, ogni fine mese, applicando integralmente le regole per la predisposizione delle segnalazioni trimestrali all'Organo di vigilanza; in modo prospettico, generalmente con frequenza trimestrale, sulla base dell'evoluzione e composizione attesa dei crediti e del Patrimonio.
+**Distrattori:**
+- A consuntivo, ogni fine trimestre, applicando integralmente le regole per la predisposizione delle segnalazioni mensili all'Organo di vigilanza; in modo prospettico, generalmente con frequenza trimestrale, sulla base dell'evoluzione e composizione attesa dei crediti e del Patrimonio.
+- L'1,5% in misura fissa più il 75% della variazione dei prezzi al consumo Istat, sul paniere di impiegati e operai (indice FOI).
+- Presenza di conto corrente vincolato nelle operazioni non notificate su base continuativa.
+
+**D:** ⚠️ Che cosa sarebbe successo, secondo il docente della lezione 59, se il total capital ratio di UniCredit Factoring fosse stato del 5,99% invece del 18,87%?
+**R:** Per il docente la società «avrebbe dovuto **interrompere immediatamente la sua operatività** e aumentare il proprio capitale sociale per portare questo valore almeno a **6%**»: sotto la soglia del 6%, il regolamento dell'Unione Europea e la circolare della Banca d'Italia dispongono «che si deve immediatamente sospendere l'attività e prima provvedere all'integrazione dei fondi propri e poi si può ricominciare a esercitare» ([00:29:09]). ⚠️ È solo del docente. La slide 20 dice che, «nel caso si rendesse opportuno intervenire», si valutano con la Capogruppo opzioni come l'aumento di capitale, una particolare politica di distribuzione degli utili, l'emissione di strumenti di capitale computabili nel Patrimonio supplementare, la cessione di crediti. Per la banca il docente della lezione 22 indicava l'8%.
+**Opzione:** Avrebbe dovuto interrompere immediatamente la sua operatività e aumentare il proprio capitale sociale per portare il rapporto almeno al 6%, e solo dopo ricominciare a esercitare.
+**Distrattori:**
+- Avrebbe dovuto interrompere immediatamente la sua operatività e aumentare il proprio capitale sociale per portare il rapporto almeno all'8%, e solo dopo ricominciare a esercitare.
+- I beni tra le attività materiali, sul modello del diritto d'uso; i debiti per leasing tra i debiti, ai sensi dell'IFRS 16, dal 01.01.2019.
+- Nelle inadempienze probabili, la posizione più di confine: con la tolleranza si cerca di non farle passare a sofferenza.
+
+**D:** ⚠️ Quale valutazione si usa per una stessa posizione quando esistono valutazioni di due ECAI, e quale quando ne esistono tre o più, secondo la slide 2 della lezione 59?
+**R:** «Qualora per una stessa posizione esistano valutazioni di **due ECAI** si prende quella corrispondente al **fattore di ponderazione più alto**; in caso di **3 o più valutazioni** si considerano le due valutazioni a cui corrispondono i **fattori di ponderazione più bassi**, utilizzando **il peggiore tra i due, se diversi**» (slide 2). Le società di rating utilizzate sono Standard & Poor's, Moody's e Fitch. Il docente le chiama «CRA» e richiama un «principio di prudenza»: il fattore più alto corrisponde alla valutazione «più bassa» ([00:03:36]).
+**Opzione:** Con due ECAI quella corrispondente al fattore di ponderazione più alto; con 3 o più valutazioni le due a cui corrispondono i fattori di ponderazione più bassi, utilizzando il peggiore tra i due, se diversi.
+**Distrattori:**
+- Con due ECAI quella corrispondente al fattore di ponderazione più alto; con 3 o più valutazioni le due a cui corrispondono i fattori di ponderazione più bassi, utilizzando il migliore tra i due, se diversi.
+- Derivati di copertura: voce 50 dell'attivo e 40 del passivo; copertura generica: voce 60 dell'attivo e 50 del passivo.
+- Non subisce alcuna esposizione al rischio.
+
+**D:** ⚠️ Quante sono le classi di merito che UniCredit Factoring usa per le tre agenzie, e in quale classe cadono i rating da BBB+ a BBB- di Standard & Poor's e Fitch e da Baa1 a Baa3 di Moody's, secondo la slide 3 della lezione 59?
+**R:** **Sei**, e quei rating sono la **classe 3** (slide 3). La tabella: classe 1 da AAA a AA- (Moody's da Aaa a Aa3); classe 2 da A+ a A- (A1–A3); classe 3 da BBB+ a BBB- (Baa1–Baa3); classe 4 da BB+ a BB- (Ba1–Ba3); classe 5 da B+ a B- (B1–B3); classe 6 CCC+ e inferiori (Caa1 e inferiori). Standard & Poor's e Fitch usano le stesse sigle. Il docente: S&P e Fitch «sono praticamente identiche, mentre Moody's è un pochino diversa», e le classi «sono sei» ([00:05:34]). La tabella per rating interni è «non alimentata» perché la Società usa il metodo standard (slide 3).
+**Opzione:** Sei classi; da BBB+ a BBB- e da Baa1 a Baa3 sono la classe 3.
+**Distrattori:**
+- Sei classi; da BBB+ a BBB- e da Baa1 a Baa3 sono la classe 2.
+- Sei classi; da BBB+ a BBB- e da Baa1 a Baa3 sono la classe 4.
+- Cinque classi; da BBB+ a BBB- e da Baa1 a Baa3 sono la classe 3.
+
+**D:** ⚠️ Come si distribuiscono le esposizioni creditizie per cassa e fuori bilancio di UniCredit Factoring per settore di attività economica della controparte, secondo la slide 4 della lezione 59?
+**R:** Nell'ordine della slide 4, in migliaia di euro: governi e altri enti pubblici **4.068.734**; imprese non finanziarie **7.566.673**; imprese finanziarie 1.614.188; assicurazioni 1.857; altri 1.550.004; totale **14.801.456**. Le imprese non finanziarie sono il 51%, i governi il 27%. Per il docente sono «società commerciali, manifatturiere, produttive in genere», «la stragrande maggioranza», mentre imprese finanziarie e assicurazioni «hanno un peso decisamente meno significativo» ([00:06:16]). Per area geografica, sullo stesso totale, prevale il Centro (6.427.279), poi il Nord Ovest (5.376.707).
+**Opzione:** Governi e altri enti pubblici 4.068.734; imprese non finanziarie 7.566.673; imprese finanziarie 1.614.188; assicurazioni 1.857; altri 1.550.004.
+**Distrattori:**
+- Governi e altri enti pubblici 7.566.673; imprese non finanziarie 4.068.734; imprese finanziarie 1.614.188; assicurazioni 1.857; altri 1.550.004.
+- Governi e altri enti pubblici 4.068.734; imprese non finanziarie 7.566.673; imprese finanziarie 1.857; assicurazioni 1.614.188; altri 1.550.004.
+
+**D:** ⚠️ Quanti sono i grandi rischi di UniCredit Factoring a fine 2021, e quanto valgono all'ammontare nominale e dopo CRM ed esenzioni ex art. 400 CRR, secondo la slide 5 della lezione 59?
+**R:** **32** posizioni, con un ammontare nominale di **17.066.541** e un ammontare post CRM ed esenzioni ex art. 400 CRR di **3.490.831** (slide 5): resta il 20,5% del nominale. Sono le grandi esposizioni oltre il 10% dei Fondi Propri della lezione 58 (slide 7). ⚠️ Il docente dice «17 milioni» e «3 milioni 490», e attribuisce il calo a fideiussioni e garanzie immobiliari ([00:06:16]). La slide non indica l'unità. Con quella delle altre tabelle, le migliaia di euro, sarebbero 17,07 e 3,49 miliardi, e ciascuna esposizione supera il 10% di 772 milioni di fondi propri: 32 esposizioni non possono fare 17 milioni. ⚠️ Ma in migliaia il nominale supererebbe le esposizioni lorde della slide 2 (15.980.330): le slide non lo spiegano. La slide nomina anche le esenzioni, non solo la mitigazione.
+**Opzione:** 32 posizioni; ammontare nominale 17.066.541, ammontare post CRM ed esenzioni ex art. 400 CRR 3.490.831.
+**Distrattori:**
+- 32 posizioni; ammontare nominale 3.490.831, ammontare post CRM ed esenzioni ex art. 400 CRR 17.066.541.
+- 23 posizioni; ammontare nominale 17.066.541, ammontare post CRM ed esenzioni ex art. 400 CRR 3.490.831.
+
+**D:** ⚠️ Come svaluta UniCredit Factoring le posizioni in default per le quali non è possibile applicare svalutazioni analitiche, e quelle non in default, secondo la slide 5 della lezione 59?
+**R:** «Le svalutazioni **analitiche** vengono effettuate puntualmente in funzione delle previsioni di perdita effettuate tempo per tempo; per le **altre posizioni in default** per le quali non è possibile applicare svalutazioni analitiche, si utilizza un **approccio statistico** (svalutazioni specifiche su base forfetaria) ed infine, per le **posizioni non in default**, le svalutazioni vengono calcolate basandosi sui **modelli di valutazione della Perdita Attesa in uso presso la Capogruppo** in compliance con i criteri IFRS9, adattate alla specificità dell'attività del factoring» (slide 5). ⚠️ Il docente dice che i modelli della perdita attesa, l'ECL, si usano «per le posizioni in default» ([00:06:16]): vale la slide, posizioni non in default. Nella lezione 56 sofferenze e inadempienze probabili si valutano su base analitica, gli scaduti deteriorati in modo forfetario (slide 17–18).
+**Opzione:** Le altre posizioni in default con un approccio statistico (svalutazioni specifiche su base forfetaria); le posizioni non in default sui modelli di valutazione della Perdita Attesa in uso presso la Capogruppo in compliance con i criteri IFRS9, adattate alla specificità dell'attività del factoring.
+**Distrattori:**
+- Le altre posizioni in default sui modelli di valutazione della Perdita Attesa in uso presso la Capogruppo in compliance con i criteri IFRS9, adattate alla specificità dell'attività del factoring; le posizioni non in default con un approccio statistico (svalutazioni specifiche su base forfetaria).
+- Decorso un periodo prefissato di giorni da quando i crediti sono divenuti esigibili, salvo i casi di acquisto a titolo definitivo in cui il pagamento (sconto) avviene contestualmente alla cessione.
+- Come il livello minimo fra tutti gli input significativi utilizzati.
+
+**D:** ⚠️ Con quale esempio numerico il docente della lezione 59 spiega quanta parte del patrimonio netto va dedicata alla copertura dei rischi operativi?
+**R:** Con margini di intermediazione di **100, 110 e 120** negli ultimi tre esercizi, la media è **110**, e il **15%** di 110 fa **16,5**: «16,5 è quanta parte del patrimonio netto deve esistere a copertura dei rischi operativi» ([00:22:00]–[00:22:31]). È il metodo Base della slide 11: «un coefficiente regolamentare pari al 15% della media del margine d'intermediazione degli ultimi tre esercizi». Per UniCredit Factoring l'assorbimento è di 25,6 milioni a fine 2021. Per il docente i rischi operativi contano proprio perché «una parte del mio patrimonio netto deve essere dedicata alla copertura dei rischi operativi».
+**Opzione:** Margini di intermediazione di 100, 110 e 120: la media è 110, e il 15% fa 16,5.
+**Distrattori:**
+- Margini di interesse di 100, 110 e 120: la media è 110, e il 15% fa 16,5.
+- Margini di intermediazione di 100, 110 e 120: la media è 110, e l'8% fa 8,8.
+- Margini di intermediazione di 100, 110 e 120: l'ultimo è 120, e il 15% fa 18.
+
+**D:** ⚠️ Perché il capitale primario di classe 1 è, per il docente della lezione 59, la parte più affidabile dei fondi propri?
+**R:** Perché è «sostanzialmente» **capitale e riserve**: «effettivamente soldi che appartengono solo alla banca e non a terzi» ([00:27:10]). Il docente lo chiama «il Common Equity Tier 1, cioè la parte più valida, più affidabile dei mezzi propri, dei fondi propri, per far fronte ai rischi», e parla di «banca» anche se la società è UniCredit Factoring. Per la slide 18 il CET 1 è costituito dai mezzi propri della Società, «non essendoci deduzioni né filtri prudenziali applicabili». In UniCredit Factoring vale 772.614 mila euro ed è tutto il totale dei fondi propri, perché AT1 e T2 sono a zero (slide 19).
+**Opzione:** Perché è sostanzialmente capitale e riserve: soldi che appartengono solo alla società e non a terzi.
+**Distrattori:**
+- Perché è sostanzialmente capitale e riserve: soldi che appartengono sia alla società sia a terzi.
+- Perché è sostanzialmente capitale e prestiti subordinati: soldi che appartengono solo alla società e non a terzi.
