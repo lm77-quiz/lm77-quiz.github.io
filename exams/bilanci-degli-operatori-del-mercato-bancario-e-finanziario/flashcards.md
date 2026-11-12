@@ -15794,3 +15794,270 @@
 **Distrattori:**
 - Perché è sostanzialmente capitale e riserve: soldi che appartengono sia alla società sia a terzi.
 - Perché è sostanzialmente capitale e prestiti subordinati: soldi che appartengono solo alla società e non a terzi.
+
+## Lezione 60 — Il bilancio della società di factoring. Le altre informazioni rilevanti
+
+**D:** ⚠️ Il prospetto della redditività complessiva fa parte del bilancio, secondo il test della lezione 60 (domanda 1)?
+**R:** «**Sì**». Per la lezione 56 il bilancio di UniCredit Factoring «è formato dallo Stato Patrimoniale, dal Conto Economico, dal Prospetto della Redditività Complessiva, dal Rendiconto Finanziario, dal Prospetto delle Variazioni del Patrimonio Netto e dalla Nota Integrativa» (slide 8 di quella lezione), e il docente diceva questa composizione «obbligatoria per legge» ([00:16:02] di quella lezione). Lo schema è la slide 4 della lezione 56. La slide 2 di questa lezione è il «Prospetto analitico» della nota integrativa, con la redditività complessiva di 70.112 mila euro («Voce 10+190»); il docente non lo commenta. Il vicino è «solo per il bilancio consolidato», ma il bilancio è quello d'esercizio di UniCredit Factoring. È la batteria della domanda 4 del test 56, sul prospetto delle variazioni del patrimonio netto, con la stessa chiave. Distrattori del test: «a discrezione del revisore», «no», «solo per il bilancio consolidato».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del revisore.
+- No.
+- Solo per il bilancio consolidato.
+
+**D:** ⚠️ Da quale principio sono definite le parti correlate, secondo il test della lezione 60 (domanda 2)?
+**R:** Dallo «**IAS 24**»: «Le tipologie di parti correlate, così come definite dallo IAS 24, significative per UniCredit Factoring, comprendono…» (slide 3). Il docente: la società le definisce «riferendosi a quello che già era disciplinato dallo IAS 24 che è il principio contabile numero 24» ([00:13:57]). Lo IAS 24 torna per i compensi dei dirigenti con responsabilità strategiche, forniti «così come richiesto dallo IAS 24» (slide 3), e per le transazioni ([00:14:44]). ⚠️ IAS 32, IAS 39 e IFRS9 sono tre delle quattro opzioni anche dei test 51 (domanda 2, chiave IFRS9) e 58 (domanda 3, chiave IFRS7): principi sugli strumenti finanziari, che con le parti correlate non c'entrano. La chiave è cambiata ogni volta, quindi conta l'oggetto della domanda. Distrattori del test: «IAS 32», «IAS 39», «IFRS9».
+**Opzione:** IAS 24.
+**Distrattori:**
+- IAS 32.
+- IAS 39.
+- IFRS9.
+
+**D:** ⚠️ La società deve fornire informazioni sulle transazioni con parti correlate, secondo il test della lezione 60 (domanda 3)?
+**R:** «**Sì**». La nota integrativa di UniCredit Factoring ha il paragrafo «Informazioni sulle transazioni con parti correlate», scritto «al fine di assicurare il costante rispetto delle disposizioni legislative e regolamentari attualmente vigenti in materia di informativa societaria riguardanti le operazioni con parti correlate» (slide 4). Ha anche il prospetto delle attività, passività, garanzie e dati economici per tipologia di parte correlata (slide 5). Il docente: «questa è proprio l'informativa specifica richiesta appunto dalla normativa e anche da IAS 24» ([00:14:44]). Il vicino è «solo per il bilancio consolidato»: le parti correlate sono quasi tutte società del Gruppo, ma il prospetto sta nel bilancio d'esercizio della controllata. Il revisore non decide l'informativa. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ Nella nota integrativa del bilancio della controllata deve essere data evidenza dei risultati di bilancio della controllante, secondo il test della lezione 60 (domanda 4)?
+**R:** «**Sì**». La nota integrativa di UniCredit Factoring riporta lo stato patrimoniale riclassificato al 31.12.2020 e il conto economico riclassificato dell'esercizio 2020 di UniCredit S.p.A., chiuso con una perdita di 2.732 (slide 10–11). ⚠️ Le slide non citano la norma: l'obbligo lo enuncia il docente, perché UniCredit S.p.A. esercita «l'azione di direzione e controllo» e «la disciplina prevede obbligatoriamente» che il bilancio delle controllate ne riporti i dati ([00:25:11]–[00:25:16]). Nella lezione 46 il prospetto di Unipol Gruppo è richiesto «ai sensi dell'art. 2497 e seguenti del c.c.» (slide 2 di quella lezione), nel bilancio d'esercizio della controllata, «non del bilancio consolidato» ([00:00:35] di quella lezione). Per questo il vicino è «solo per il bilancio consolidato». Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ Nella nota integrativa del bilancio della controllata deve essere data evidenza delle verifiche effettuate dalla società di revisione, secondo il test della lezione 60 (domanda 5)?
+**R:** «**Sì**», secondo la chiave, che regge sul docente: la nota dà informazione sui corrispettivi della società di revisione «e quindi l'attività svolta dalla società di revisione e le verifiche contabili trimestrali», ed evidenza «di quali sono state le attività principali» svolte da Deloitte ([00:26:24]–[00:26:45]). La slide 13 descrive i servizi, ha il sottotitolo «Le verifiche contabili trimestrali» e in tabella le «Limitate procedure di verifica sulla situazione contabile semestrale». ⚠️ La nota però espone i **corrispettivi** per servizio, «ai sensi … dell'art. 149 duodecies del Regolamento Emittenti Consob», non gli esiti delle verifiche: il giudizio sta nella relazione del revisore (lezione 48). Per questo il vicino è «no». Distrattori del test: «solo per il bilancio consolidato», «no», «a discrezione del revisore».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- No.
+- A discrezione del revisore.
+
+**D:** ⚠️ Quanto valgono nel 2021 l'utile d'esercizio, il totale delle altre componenti reddituali e la redditività complessiva di UniCredit Factoring, nel prospetto analitico della slide 2 della lezione 60?
+**R:** Utile d'esercizio (voce 10) **70.034** mila euro; totale altre componenti reddituali (voce 190) **78**; redditività complessiva (voce 200, «Voce 10+190») **70.112** (slide 2). Le altre componenti valorizzate sono due, entrambe senza rigiro a conto economico: 119 dei titoli di capitale designati al fair value con impatto sulla redditività complessiva (voce 20) e (41) dei piani a benefici definiti (voce 70). Sono, in migliaia, i 70.033.557, 77.992 e 70.111.549 euro dello schema della lezione 56 (slide 4), che però chiude con la voce 180, «Voce 10+170». Le righe delle imposte (voci 100 e 180) sono vuote. Il docente non commenta la slide.
+**Opzione:** Utile 70.034 mila euro; altre componenti reddituali 78; redditività complessiva 70.112.
+**Distrattori:**
+- Utile 70.112 mila euro; altre componenti reddituali 78; redditività complessiva 70.034.
+- Utile 57.631 mila euro; altre componenti reddituali (655); redditività complessiva 56.976.
+- Utile 70.034 mila euro; altre componenti reddituali 119; redditività complessiva 70.112.
+
+**D:** ⚠️ Quali tipologie di parti correlate, così come definite dallo IAS 24, sono significative per UniCredit Factoring, secondo l'elenco completo della slide 3 della lezione 60?
+**R:** Cinque, nell'ordine della slide 3: 1. «la società controllante»; 2. «le società controllate dalla controllante»; 3. «i "dirigenti con responsabilità strategiche" di UniCredit Factoring e della controllante»; 4. «i familiari stretti dei "dirigenti con responsabilità strategiche" e le società controllate dal (o collegate al) dirigente con responsabilità strategiche o loro stretti familiari»; 5. «i fondi pensione a beneficio dei dipendenti del Gruppo». Il docente le legge ([00:11:48]–[00:12:31]): le controllate dalla controllante sono «le altre società del gruppo», e la controllante è UniCredit. Salta l'inciso «(o collegate al)».
+**Opzione:** La società controllante; le società controllate dalla controllante; i dirigenti con responsabilità strategiche di UniCredit Factoring e della controllante; i familiari stretti dei dirigenti con responsabilità strategiche e le società controllate dal (o collegate al) dirigente con responsabilità strategiche o loro stretti familiari; i fondi pensione a beneficio dei dipendenti del Gruppo.
+**Distrattori:**
+- La società controllante; le società controllate dalla controllante; i dirigenti con responsabilità strategiche di UniCredit Factoring e della controllante; i familiari stretti dei dirigenti con responsabilità strategiche e le società controllate dal (o collegate al) dirigente con responsabilità strategiche o loro stretti familiari; i fondi pensione a beneficio dei clienti del Gruppo.
+- Il rating di controparte calcolato dalla controllante, integrato nelle pratiche elettroniche cedente e debitore.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco delle tipologie di parti correlate significative per UniCredit Factoring, secondo la slide 3 della lezione 60?
+**R:** «I **fondi pensione** a beneficio dei **dipendenti** del **Gruppo**» (slide 3). Il docente la legge per ultima: «i fondi pensione a beneficio dei dipendenti del gruppo, questi sono i soggetti che si considerano parti correlate» ([00:12:15]). ⚠️ I beneficiari sono i dipendenti, e il perimetro è il Gruppo, non la sola Società. La voce che la precede riguarda i familiari stretti dei dirigenti con responsabilità strategiche e le società da loro controllate o a loro collegate.
+**Opzione:** I fondi pensione a beneficio dei dipendenti del Gruppo.
+**Distrattori:**
+- I fondi pensione a beneficio dei dipendenti della sola Società.
+- I fondi pensione a beneficio degli azionisti del Gruppo.
+- I familiari stretti dei dirigenti con responsabilità strategiche.
+
+**D:** ⚠️ Chi sono i dirigenti con responsabilità strategiche, e chi viene incluso in questa categoria, secondo la slide 3 della lezione 60?
+**R:** «I dirigenti con responsabilità strategiche sono i soggetti che nell'ambito della controllante o di UniCredit Factoring hanno il potere e la responsabilità, **direttamente o indirettamente**, della **pianificazione, della direzione e del controllo** delle attività della Società. Vengono inclusi in questa categoria, oltre l'**Amministratore Delegato** e gli altri componenti del **Consiglio di Amministrazione**, i membri dell'**Executive Committee**» (slide 3). Il docente non legge la definizione. Nella lezione 51 lo IAS 24 identifica l'«alta dirigenza» che decide le modifiche del business model di BCC Lease (slide 8 di quella lezione).
+**Opzione:** I soggetti che nell'ambito della controllante o di UniCredit Factoring hanno il potere e la responsabilità, direttamente o indirettamente, della pianificazione, della direzione e del controllo delle attività della Società. Vengono inclusi in questa categoria, oltre l'Amministratore Delegato e gli altri componenti del Consiglio di Amministrazione, i membri dell'Executive Committee.
+**Distrattori:**
+- I soggetti che nell'ambito della controllante o di UniCredit Factoring hanno il potere e la responsabilità, solo direttamente, della pianificazione, della direzione e del controllo delle attività della Società. Vengono inclusi in questa categoria, oltre l'Amministratore Delegato e gli altri componenti del Consiglio di Amministrazione, i membri dell'Executive Committee.
+- Il fornitore cedente ed il debitore ceduto, che vengono entrambi analizzati per qualificarne il profilo creditizio.
+
+**D:** ⚠️ Perché è importante definire chi sono le parti correlate, secondo il docente della lezione 60?
+**R:** Perché i rapporti fra UniCredit Factoring e le parti correlate «sono assoggettati a particolare prudenza da parte dell'autorità di vigilanza» ([00:12:35]). Il timore è che, «per effetto di vincoli diversi da meri vincoli commerciali», cioè vincoli di gruppo, di controllo, familiari o di posizione occupata in società controllate o controllanti, «si possano generare delle pratiche amministrative non corrette», anche per l'esperienza di fatti accaduti in precedenza ([00:12:51]–[00:13:12]). La Banca d'Italia e, a livello europeo, l'Unione Europea, l'EBA e l'ESMA hanno disciplinato questi rapporti «in maniera molto vincolata e molto attenta» ([00:13:12]–[00:13:35]). Il primo problema è definire le parti correlate, e la società lo fa con lo IAS 24 ([00:13:57]).
+**Opzione:** Perché i rapporti con le parti correlate sono assoggettati a particolare prudenza da parte dell'autorità di vigilanza.
+**Distrattori:**
+- Perché i rapporti con le parti correlate sono assoggettati a particolare favore da parte dell'autorità di vigilanza.
+- Perché le operazioni con parti correlate sono vietate dalla normativa di vigilanza.
+- Perché i rapporti con le parti correlate sono esclusi dal bilancio d'esercizio della società.
+
+**D:** ⚠️ Quanto valgono nel 2021 e nel 2020 i compensi corrisposti ai dirigenti con responsabilità strategiche di UniCredit Factoring, e di quale tipo sono, secondo la slide 3 della lezione 60?
+**R:** **520** mila euro nel 2021 e **656** nel 2020, tutti «benefici a breve termine per i dipendenti» (slide 3). Le altre righe sono vuote: benefici successivi al rapporto di lavoro, con i piani a prestazioni definite e a contribuzione definita; altri benefici a lungo termine; indennità per la cessazione del rapporto di lavoro; pagamenti in azioni. Le informazioni sono date «così come richiesto dallo IAS 24, in linea con le indicazioni di Banca d'Italia» (slide 3). Il docente: «sono 520.000 euro in questo caso» ([00:14:05]–[00:14:21]). ⚠️ Nel prospetto delle transazioni la colonna dei dirigenti ha invece (315) di altre spese per il personale (slide 5), e le slide non spiegano la differenza.
+**Opzione:** 520 mila euro nel 2021 e 656 nel 2020, tutti benefici a breve termine per i dipendenti.
+**Distrattori:**
+- 656 mila euro nel 2021 e 520 nel 2020, tutti benefici a breve termine per i dipendenti.
+- 520 mila euro nel 2021 e 656 nel 2020, tutti pagamenti in azioni.
+- 520 mila euro nel 2021 e 656 nel 2020, tutti indennità per la cessazione del rapporto di lavoro.
+
+**D:** ⚠️ Che cosa dichiara la nota integrativa di UniCredit Factoring sui crediti e sulle garanzie a favore di Amministratori e Sindaci, secondo la slide 4 della lezione 60?
+**R:** «La Società **non ha rilasciato** crediti e garanzie a favore di Amministratori e Sindaci» (slide 4). Il docente: «si vuole sapere se la società abbia rilasciato lei a favore di amministratori e sindaci, garanzie o fideiussioni», e «se avesse scritto ha rilasciato non sarebbe stato un bel segno» ([00:14:21]–[00:14:38]).
+**Opzione:** La Società non ha rilasciato crediti e garanzie a favore di Amministratori e Sindaci.
+**Distrattori:**
+- La Società ha rilasciato garanzie, ma non crediti, a favore di Amministratori e Sindaci.
+- La Società ha rilasciato crediti e garanzie a favore di Amministratori e Sindaci, a condizioni analoghe a quelle con soggetti terzi indipendenti.
+- La Società non ha rilasciato crediti e garanzie a favore degli Amministratori, ma solo a favore dei Sindaci.
+
+**D:** ⚠️ A quali condizioni sono state effettuate le operazioni con parti correlate di UniCredit Factoring, secondo la slide 4 della lezione 60?
+**R:** «Le operazioni in argomento sono state effettuate, **di norma**, a condizioni analoghe a quelle applicate per operazioni concluse con **soggetti terzi indipendenti**» (slide 4). ⚠️ L'attenuazione «di norma» c'è: la regola non è assoluta. Il docente: «si vuole verificare che se la controparte della società … è una parte correlata, il comportamento sarebbe lo stesso che si avrebbe se la controparte fosse un terzo soggetto indipendente» ([00:15:26]). Le operazioni infragruppo seguono invece la «reciproca convenienza economica» e la «correttezza sostanziale» (slide 4). Per UnipolSai le operazioni infragruppo sono «regolate a condizioni di mercato» (lezione 47, slide 9).
+**Opzione:** Di norma, a condizioni analoghe a quelle applicate per operazioni concluse con soggetti terzi indipendenti.
+**Distrattori:**
+- Sempre, a condizioni analoghe a quelle applicate per operazioni concluse con soggetti terzi indipendenti.
+- Di norma, a condizioni più favorevoli di quelle applicate per operazioni concluse con soggetti terzi indipendenti.
+- Di norma, a condizioni fissate dalla Capogruppo diverse da quelle applicate per operazioni concluse con soggetti terzi indipendenti.
+
+**D:** ⚠️ In coerenza con le indicazioni di quale autorità UniCredit Factoring ha definito i criteri di individuazione delle operazioni con parti correlate, e in linea con le indicazioni di quale autorità fornisce i compensi dei dirigenti con responsabilità strategiche, secondo le slide 3–4 della lezione 60?
+**R:** I **criteri di individuazione** sono stati definiti «in accordo con le direttive impartite dalla Capogruppo», «in coerenza con le indicazioni fornite dalla **Consob**» (slide 4). I **compensi** sono forniti «così come richiesto dallo IAS 24, in linea con le indicazioni di **Banca d'Italia**» (slide 3). ⚠️ È una coppia soggetto + norma. Il docente aggancia la Consob alle condizioni delle operazioni, «in coerenza con quanto indicato da Consob, le operazioni sono effettuate a condizioni analoghe» ([00:15:18]), ma nella slide la Consob riguarda i criteri: vale la slide. Per UnipolSai la procedura sulle parti correlate segue il Regolamento Consob del 12 marzo 2010 (lezione 47, slide 8).
+**Opzione:** Criteri di individuazione: Consob; compensi dei dirigenti: Banca d'Italia.
+**Distrattori:**
+- Criteri di individuazione: Banca d'Italia; compensi dei dirigenti: Consob.
+- Criteri di individuazione: Consob; compensi dei dirigenti: Consob.
+- Criteri di individuazione: Banca d'Italia; compensi dei dirigenti: Banca d'Italia.
+
+**D:** ⚠️ Su quale base sono state poste in essere le operazioni infragruppo di UniCredit Factoring, e quale principio si aggiunge per le prestazioni di servizi infragruppo, secondo la slide 4 della lezione 60?
+**R:** «Le operazioni infragruppo sono state poste in essere sulla base di valutazioni di **reciproca convenienza economica** e la definizione delle condizioni da applicare è avvenuta nel rispetto dei criteri di **correttezza sostanziale**, presente l'obiettivo comune di creare valore per l'**intero gruppo**. Il medesimo principio è stato applicato anche nel caso di prestazioni di servizi infragruppo, unitamente a quello di regolare tali prestazioni su di una **base minimale** commisurata al **recupero dei relativi costi di produzione**» (slide 4). Il docente legge la seconda frase ([00:15:46]).
+**Opzione:** Sulla base di valutazioni di reciproca convenienza economica, con le condizioni definite nel rispetto dei criteri di correttezza sostanziale, presente l'obiettivo comune di creare valore per l'intero gruppo; per le prestazioni di servizi infragruppo, anche il principio di regolarle su di una base minimale commisurata al recupero dei relativi costi di produzione.
+**Distrattori:**
+- Sulla base di valutazioni di reciproca convenienza economica, con le condizioni definite nel rispetto dei criteri di correttezza sostanziale, presente l'obiettivo di creare valore per la sola Società; per le prestazioni di servizi infragruppo, anche il principio di regolarle su di una base minimale commisurata al recupero dei relativi costi di produzione.
+- Strutture e processi consolidati nel tempo ed affidati a risorse competenti ed esperte.
+
+**D:** ⚠️ Quali attività gestisce la Capogruppo per conto di UniCredit Factoring, secondo l'elenco delle sinergie della slide 4 della lezione 60?
+**R:** «La Capogruppo gestisce l'**amministrazione del personale**, le attività relative alla **postalizzazione**, le attività relative alle **leggi speciali** con un referente interno, l'attività di **soft collection** finalizzata al recupero dei crediti scaduti e non pagati e le attività di **back office** con la service line Business Transformation» (slide 4). ⚠️ Il docente salta le prime due voci e legge le altre di seguito a UniCredit Services, a cui attribuisce «tutta una parte di attività operativa» ([00:16:36]). Nella slide UniCredit Services S.c.p.a. fornisce l'outsourcing tecnologico e le attività operative relative agli acquisti. Le altre sinergie sono i locali di via Livio Cambi 5, in locazione da UniCredit Business Integrated Solutions, service line Real Estate, e l'attività di sviluppo delle Filiali di UniCredit S.p.A. (slide 4).
+**Opzione:** L'amministrazione del personale, le attività relative alla postalizzazione, le attività relative alle leggi speciali con un referente interno, l'attività di soft collection finalizzata al recupero dei crediti scaduti e non pagati e le attività di back office con la service line Business Transformation.
+**Distrattori:**
+- L'amministrazione del personale, le attività relative alla postalizzazione, le attività relative alle leggi speciali con un referente interno, l'attività di soft collection finalizzata al recupero dei crediti scaduti e non pagati e le attività di back office con la service line Real Estate.
+- Il rischio di credito e il rischio di tasso; poi il rischio di liquidità, meno rilevante ma comunque significativo, e i rischi operativi.
+
+**D:** ⚠️ Che cosa precisa infine la nota integrativa di UniCredit Factoring sulle operazioni atipiche e/o inusuali dell'esercizio 2021, secondo la slide 5 della lezione 60?
+**R:** «Si precisa infine, ai fini di quanto disposto dalle vigenti disposizioni, che nell'esercizio 2021 **non sono state effettuate operazioni atipiche e/o inusuali** che per significatività/rilevanza possano dare luogo a dubbi in ordine alla salvaguardia del Patrimonio aziendale, **né con parti correlate né con soggetti diversi** dalle parti correlate» (slide 5). Il docente non la legge. Nella lezione 47 è il collegio sindacale di UnipolSai ad accertare «l'assenza di operazioni infragruppo e/o con parti correlate atipiche o inusuali» (slide 9 di quella lezione).
+**Opzione:** Che nell'esercizio 2021 non sono state effettuate operazioni atipiche e/o inusuali che per significatività/rilevanza possano dare luogo a dubbi in ordine alla salvaguardia del Patrimonio aziendale, né con parti correlate né con soggetti diversi dalle parti correlate.
+**Distrattori:**
+- Che nell'esercizio 2021 non sono state effettuate operazioni atipiche e/o inusuali che per significatività/rilevanza possano dare luogo a dubbi in ordine alla salvaguardia del Patrimonio aziendale con parti correlate, ma solo con soggetti diversi dalle parti correlate.
+- No, ha valutato di non ricorrervi; ha ripristinato NPF FAST, un sistema di scoring semaforico interno.
+
+**D:** ⚠️ Qual è la voce principale delle transazioni con parti correlate di UniCredit Factoring, e quanto valgono al 31.12.2021 i debiti verso enti creditizi della società controllante, secondo le slide 4–5 della lezione 60?
+**R:** «La voce principale è rappresentata dai **finanziamenti e conti correnti** in euro e altre divise per operazioni di **provvista**» (slide 4). Nel prospetto i **debiti verso enti creditizi** della società controllante sono **11.298.942** mila euro, su un totale del passivo verso la controllante di 11.306.505, con 7.563 di altre voci del passivo; l'attivo verso la controllante è di 43.658 (slide 5). Verso le società controllate dalla controllante l'attivo è 10.975 e il passivo 11.849. Il docente non legge le cifre: «qui vengono evidenziate le transazioni con le parti collegate», cioè correlate ([00:18:10]).
+**Opzione:** I finanziamenti e conti correnti in euro e altre divise per operazioni di provvista; i debiti verso enti creditizi della controllante sono 11.298.942 mila euro.
+**Distrattori:**
+- I finanziamenti e conti correnti in euro e altre divise per operazioni di provvista; i debiti verso enti creditizi delle società controllate dalla controllante sono 11.298.942 mila euro.
+- Lorde 288.398 mila euro, rettifiche 165.114, nette 123.284; write-off parziali complessivi 106.952.
+
+**D:** ⚠️ Per quali leasing UniCredit Factoring ha deciso di non iscrivere diritti d'uso o debiti per leasing, e quando un bene è di modico valore unitario, secondo la slide 6 della lezione 60?
+**R:** «Così come consentito dal principio contabile», per i «**leasing di breve termine, inferiore a 12 mesi**» e per i «**leasing di beni aventi un modico valore unitario**». Un bene è di modico valore unitario «qualora il suo fair value da nuovo sia **uguale o inferiore a 5 mila euro**» (slide 6). La categoria comprende, prevalentemente, le macchine da ufficio (PC, monitor, tablet, ecc.) e gli apparati di telefonia fissa e mobile. I canoni vanno a voce «160. Spese amministrative» per competenza: nel 2021 sono 0,3 milioni, compresa l'IVA non inclusa nel debito per leasing (slide 6). Il docente non ne parla.
+**Opzione:** Per i leasing di breve termine, inferiore a 12 mesi, e per i leasing di beni aventi un modico valore unitario, cioè con un fair value da nuovo uguale o inferiore a 5 mila euro.
+**Distrattori:**
+- Per i leasing di breve termine, inferiore a 12 mesi, e per i leasing di beni aventi un modico valore unitario, cioè con un fair value da nuovo uguale o superiore a 5 mila euro.
+- Per importi eccedenti il 25% del Patrimonio di Vigilanza della Società, al fine di rispettare i limiti imposti dalla normativa sui grandi rischi.
+
+**D:** ⚠️ Che cosa ha fatto UniCredit Factoring, in qualità di locatario, della possibilità di dilazionare il pagamento delle quote di leasing prevista per il Covid-19, secondo il docente della lezione 60?
+**R:** «Non si è avvalsa» di quella possibilità, prevista dalla normativa sul Covid-19 e dal «cosiddetto amendment» all'IFRS 16 emanato dallo IASB: «non ha usufruito di questa moratoria e ha continuato regolarmente il pagamento dei leasing in corso» ([00:18:13]–[00:19:59]). ⚠️ La slide 6 non ne parla. Per la lezione 56 «non è stato applicato il pratical expedient previsto dal Regolamento (UE) n. 1434/2020, in quanto non sono intervenute modifiche nella durata dei contratti in essere» (slide 11 di quella lezione). E per il docente l'emendamento consentiva di non pagare le rate del 2020 e di parte del 2021, mentre per la lezione 56 dava ai locatari la facoltà di contabilizzare le riduzioni dei canoni senza valutare la lease modification (slide 10 di quella lezione). Il docente dice «locatrice», ma intende locataria.
+**Opzione:** Non ne ha usufruito e ha continuato regolarmente il pagamento dei leasing in corso.
+**Distrattori:**
+- Ne ha usufruito per l'esercizio 2020 e parte del 2021, senza incidenza contabile.
+- Ha rinegoziato la durata dei contratti in essere, applicando il practical expedient del Regolamento (UE) n. 1434/2020.
+
+**D:** ⚠️ Quali piani sono utilizzati nell'ambito dei piani di incentivazione a medio-lungo termine destinati ai dipendenti delle società del Gruppo UniCredit, e che cosa prevedono, secondo la slide 7 della lezione 60?
+**R:** «Piani di **Equity-Settled Share Based Payment** che prevedono la corresponsione di **azioni della Capogruppo UniCredit S.p.A.**» (slide 7, «Parte I) Accordi di pagamento basati su propri strumenti patrimoniali»). Vi sono riconducibili il Group Executive Incentive System (Bonus Pool), il Long term incentive 2017-2019 e il Long term incentive 2020-2023. Il docente: sono «piani di distribuzione di azioni … a favore dei dipendenti, come piano di incentivazione e fidelizzazione», «i cosiddetti stock option ai dipendenti» ([00:20:23]–[00:20:49]). ⚠️ Per la lezione 57 le stock option propriamente dette sono una sola delle tre forme dei pagamenti su azioni della Capogruppo, con performance shares e restricted shares (slide 7 di quella lezione), e il Bonus Pool paga anche in denaro.
+**Opzione:** Piani di Equity-Settled Share Based Payment, che prevedono la corresponsione di azioni della Capogruppo UniCredit S.p.A.
+**Distrattori:**
+- Piani di Equity-Settled Share Based Payment, che prevedono la corresponsione di azioni di UniCredit Factoring S.p.A.
+- Piani a benefici definiti, che prevedono la corresponsione del TFR maturato fino al 2006.
+
+**D:** ⚠️ Che cosa offre il Group Executive Incentive System (Bonus Pool), a chi e su quale arco temporale, secondo la slide 7 della lezione 60?
+**R:** «Group Executive Incentive System (Bonus Pool) che offre a **selezionati executive di gruppo** e a **personale rilevante identificato in base ai requisiti normativi**, una struttura di bonus che è composta da pagamenti **immediati** (a seguito della valutazione della performance) e **differiti**, in **denaro e in azioni ordinarie UniCredit**, su un arco temporale compreso **tra 1 e 7 anni**» (slide 7). La struttura «garantisce l'allineamento con gli interessi degli azionisti». Il docente: gli executive sono «solo la parte dirigenziale», il personale rilevante «i funzionari di più alto livello», e le azioni sono di UniCredit «perché sono quotate sul mercato e quindi te le puoi vendere» ([00:20:49]–[00:21:18]). ⚠️ Il sistema incentivante 2021 distribuisce invece i pagamenti su un arco di 6 anni (slide 9).
+**Opzione:** A selezionati executive di gruppo e a personale rilevante identificato in base ai requisiti normativi, una struttura di bonus composta da pagamenti immediati (a seguito della valutazione della performance) e differiti, in denaro e in azioni ordinarie UniCredit, su un arco temporale compreso tra 1 e 7 anni.
+**Distrattori:**
+- A tutti i dipendenti del Gruppo, una struttura di bonus composta da pagamenti immediati (a seguito della valutazione della performance) e differiti, in denaro e in azioni ordinarie UniCredit, su un arco temporale compreso tra 1 e 7 anni.
+- L'emissione di documenti periodici e sistematici nonché la produzione di stime ad hoc.
+
+**D:** ⚠️ Quando si applicano le clausole di malus aziendale del Group Executive Incentive System (Bonus Pool), secondo la slide 7 della lezione 60?
+**R:** «Nel caso specifiche soglie di **profittabilità, patrimonio e liquidità non siano raggiunte** a livello di **Gruppo e/o a livello di paese/divisione**» (slide 7). Accanto ci sono le clausole di **malus/clawback individuale**, «per quanto legalmente applicabili», secondo il regolamento del piano: entrambe «rappresentano condizioni di maturazione differenti da condizioni di mercato» (slide 7). ⚠️ Il docente spiega il malus aziendale come il caso in cui «il soggetto dirigenziale si è avvantaggiato a danno della società», e il clawback individuale come quello in cui «io ho fatto proprio l'interesse mio specifico» ([00:21:20]–[00:21:47]). La slide lega il malus aziendale alle soglie di Gruppo e di paese/divisione.
+**Opzione:** Nel caso specifiche soglie di profittabilità, patrimonio e liquidità non siano raggiunte a livello di Gruppo e/o a livello di paese/divisione.
+**Distrattori:**
+- Nel caso specifiche soglie di profittabilità, patrimonio e liquidità siano superate a livello di Gruppo e/o a livello di paese/divisione.
+- Nel caso specifiche soglie di profittabilità, patrimonio e liquidità non siano raggiunte dal singolo beneficiario del piano.
+- Nel caso specifiche soglie di profittabilità, patrimonio e liquidità non siano raggiunte solo a livello di UniCredit Factoring.
+
+**D:** ⚠️ Su quale periodo di performance sono strutturati il Long term incentive 2017-2019 e il Long term incentive 2020-2023, e a quale piano strategico sono legati, secondo la slide 7 della lezione 60?
+**R:** Il **2017-2019** è strutturato su un periodo di performance di **3 anni**, con condizioni di performance «allineate al piano **Transform 2019**», e offre a selezionati executive e risorse chiave «un incentivo basato al 100% su azioni ordinarie UniCredit, soggette ad un differimento triennale». Il **2020-2023** è strutturato su un periodo di **4 anni**, con incentivi in azioni ordinarie gratuite «subordinate al raggiungimento di specifici indicatori di performance legati al Piano Strategico **Team 23**». Prevede il possibile award nel **2024**, «soggetto a differimento di quattro anni», e al rispetto delle condizioni minime di patrimonio, capitale e liquidità e della positiva valutazione del Risk Appetite Framework (slide 7). Il docente legge solo il secondo: «un periodo di performance di 4 anni, 20, 21, 22 e 23» ([00:21:47]–[00:22:19]).
+**Opzione:** 2017-2019: 3 anni, piano Transform 2019; 2020-2023: 4 anni, Piano Strategico Team 23.
+**Distrattori:**
+- 2017-2019: 4 anni, piano Transform 2019; 2020-2023: 3 anni, Piano Strategico Team 23.
+- 2017-2019: 3 anni, Piano Strategico Team 23; 2020-2023: 4 anni, piano Transform 2019.
+- 2017-2019: 4 anni, Piano Strategico Team 23; 2020-2023: 3 anni, piano Transform 2019.
+
+**D:** ⚠️ A quanto è pari il valore economico delle azioni assegnate nei modelli di valutazione dei piani di incentivazione, secondo le slide 8–9 della lezione 60?
+**R:** «Il valore economico delle azioni assegnate è pari al **prezzo di mercato** dell'azione **ridotto** del valore attuale dei **dividendi non assegnati** nel periodo che intercorre fra la data della promessa e la futura consegna dell'azione» (slide 8). La formula è la stessa per il Group Executive Incentive System (Bonus pool) e per i Long Term Incentive Plan 2017-2019 e 2020-2023 (slide 8–9). Il docente: il piano di attribuzione è il momento della promessa, ma l'azione «viene consegnata a fine, quindi per esempio in questo caso fra quattro anni», e c'è «un disallineamento» fra l'assegnazione e la consegna ([00:23:58]–[00:24:39]). La trascrizione dice «dipendenti non assegnati»: sono i dividendi.
+**Opzione:** Al prezzo di mercato dell'azione ridotto del valore attuale dei dividendi non assegnati nel periodo che intercorre fra la data della promessa e la futura consegna dell'azione.
+**Distrattori:**
+- Al prezzo di mercato dell'azione aumentato del valore attuale dei dividendi non assegnati nel periodo che intercorre fra la data della promessa e la futura consegna dell'azione.
+- Quando supera il 10% dei Fondi Propri dell'ente verso un singolo cliente o gruppo di clienti connessi, con un limite del 25% del Capitale Ammissibile.
+
+**D:** ⚠️ Da quante rate di pagamenti in azioni differiti può essere composto ciascun cluster nel Group Executive Incentive System (Bonus pool), nel Long Term Incentive Plan 2017-2019 e nel Long Term Incentive Plan 2020-2023, secondo le slide 8–9 della lezione 60?
+**R:** **Bonus pool: da tre a sei** rate (slide 8); **Long Term Incentive Plan 2017-2019: da una a quattro** (slide 9); **Long Term Incentive Plan 2020-2023: da una a cinque** (slide 9), sempre «secondo l'intervallo temporale definito dal regolamento del piano». Nei due Long Term Incentive i cluster sono «definiti sulla base della tipologia di beneficiario». Il docente legge solo il primo, «da tre [a sei] rate», e dice che per i due Long Term Incentive «ci spiega la stessa cosa» ([00:24:39]–[00:24:54]): la formula del valore è la stessa, le rate no.
+**Opzione:** Bonus pool: da tre a sei; LTI 2017-2019: da una a quattro; LTI 2020-2023: da una a cinque.
+**Distrattori:**
+- Bonus pool: da una a quattro; LTI 2017-2019: da tre a sei; LTI 2020-2023: da una a cinque.
+- Bonus pool: da tre a sei; LTI 2017-2019: da una a cinque; LTI 2020-2023: da una a quattro.
+- Bonus pool: da una a cinque; LTI 2017-2019: da una a quattro; LTI 2020-2023: da tre a sei.
+
+**D:** ⚠️ Su quale arco temporale è distribuita la struttura di pagamenti del sistema incentivante 2021 (Bonus Pool), e a quale direttiva è allineata, secondo la slide 9 della lezione 60?
+**R:** «Una struttura di pagamenti distribuita su un arco temporale di **6 anni** e composta da un mix di denaro e azioni, allineata ai più recenti requisiti normativi espressi dalla **Direttiva 2013/36/UE (CRD IV)**» (slide 9). È l'ultima delle quattro cose che il sistema 2021 «definisce». Le altre tre sono: la sostenibilità, con il collegamento diretto ai risultati aziendali e l'allineamento alle categorie di rischio rilevanti tramite indicatori che rispecchiano il risk appetite framework; il legame fra i bonus e la struttura organizzativa, con i bonus pool declinati a livello di Paese/Divisione e rivisti a livello di Gruppo; l'allocazione dei bonus agli executive e all'altro personale più rilevante, identificato con i criteri del Regolamento EBA, e ad altri ruoli specifici. ⚠️ Il Bonus Pool della slide 7 ha un arco «compreso tra 1 e 7 anni». Il docente non legge la slide 9.
+**Opzione:** Su un arco temporale di 6 anni, con un mix di denaro e azioni, allineata alla Direttiva 2013/36/UE (CRD IV).
+**Distrattori:**
+- Su un arco temporale compreso tra 1 e 7 anni, con un mix di denaro e azioni, allineata alla Direttiva 2013/36/UE (CRD IV).
+- Su un arco temporale di 6 anni, con un mix di denaro e azioni, allineata al 25° aggiornamento della circolare 285 di Banca d'Italia.
+- Su un arco temporale di 4 anni, con un mix di denaro e azioni, allineata alla Direttiva 2013/36/UE (CRD IV).
+
+**D:** ⚠️ Con quali pagamenti si liquida una parte dei golden parachute (e.g. severance) a favore del personale più rilevante, secondo la slide 8 della lezione 60?
+**R:** Con «**equity settled-share based payments** rappresentati da pagamenti **differiti in azioni ordinarie UniCredit non soggetti a condizioni di maturazione**». La slide lo dice «coerentemente con le previsioni contenute nel **25° aggiornamento della circolare 285 di Banca d'Italia del 23 ottobre 2018** (politiche e prassi di remunerazione e incentivazione)» (slide 8). Prima ricorda che, «in linea con i requisiti di Banca d'Italia e di EBA», il Piano prevede regole per la gestione delle violazioni per non conformità e del loro impatto sulla remunerazione, con clausole di malus e claw-back. Il docente non ne parla. Nella lezione 49 la stessa Circolare 285, al 34° aggiornamento, regola l'esternalizzazione di BCC Lease.
+**Opzione:** Con equity settled-share based payments rappresentati da pagamenti differiti in azioni ordinarie UniCredit non soggetti a condizioni di maturazione.
+**Distrattori:**
+- Con equity settled-share based payments rappresentati da pagamenti differiti in azioni ordinarie UniCredit soggetti a condizioni di maturazione.
+- Con equity settled-share based payments rappresentati da pagamenti immediati in azioni ordinarie UniCredit non soggetti a condizioni di maturazione.
+
+**D:** ⚠️ A quale esercizio si riferiscono i dati di UniCredit S.p.A. riportati nella nota integrativa 2021 di UniCredit Factoring, e perché, secondo le slide 10–11 e il docente della lezione 60?
+**R:** All'esercizio **2020**: stato patrimoniale riclassificato al 31.12.2020 e conto economico riclassificato dell'esercizio 2020 (slide 10–11). Il docente: «quello del 2021 ancora non c'è, UniCredit S.p.A. approva i bilanci dopo le sue controllate ovviamente» ([00:25:38]–[00:26:07]). È la regola della lezione 46: la capogruppo approva il bilancio dopo le controllate, perché deve includerne i bilanci nel consolidato ([00:05:26] di quella lezione). ⚠️ Lì però i dati di Unipol Gruppo erano di due esercizi, 2020 e 2019 (slide 2 di quella lezione). Qui le slide ne danno uno solo, anche se il docente parla dell'«ultimo esercizio, o meglio se i precedenti due esercizi» ([00:25:16]).
+**Opzione:** All'esercizio 2020, perché il bilancio 2021 di UniCredit S.p.A. ancora non c'è: la capogruppo approva i bilanci dopo le sue controllate.
+**Distrattori:**
+- All'esercizio 2021, perché la capogruppo approva i bilanci prima delle sue controllate.
+- All'esercizio 2020, con il solo stato patrimoniale riclassificato, perché la capogruppo approva i bilanci dopo le sue controllate.
+
+**D:** ⚠️ Ai sensi di quale norma la nota integrativa di UniCredit Factoring riporta i corrispettivi della società di revisione, e a favore di chi sono erogati, secondo la slide 13 della lezione 60?
+**R:** «Ai sensi di quanto disposto dall'**art. 149 duodecies del Regolamento Emittenti Consob**», i corrispettivi «erogati a favore della società di revisione **Deloitte & Touche S.p.A.** ed alle società appartenenti alla **stessa rete**» (slide 13). È la stessa norma dei corrispettivi di UnipolSai, dove il revisore è EY S.p.A., con EY Advisory dello stesso network (lezione 46, slide 4). Il docente: «quanto è stato corrisposto alla Deloitte in questo caso per la sua attività di revisione nel corso dell'anno» ([00:26:45]). Deloitte & Touche è il revisore del bilancio d'esercizio di UniCredit Factoring (lezione 56, slide 10).
+**Opzione:** Art. 149 duodecies del Regolamento Emittenti Consob; Deloitte & Touche S.p.A. e le società appartenenti alla stessa rete.
+**Distrattori:**
+- Art. 149 duodecies del Regolamento Emittenti Consob; EY S.p.A. e le società appartenenti alla stessa rete.
+- Art. 2497 del Codice civile; Deloitte & Touche S.p.A. e le società appartenenti alla stessa rete.
+- Art. 149 duodecies del Regolamento Emittenti Consob; Deloitte & Touche S.p.A., escluse le società appartenenti alla stessa rete.
+
+**D:** ⚠️ A che cosa è finalizzata l'attività di controllo dei conti annuali delle imprese, fra i servizi di revisione di cui la nota integrativa di UniCredit Factoring espone i corrispettivi, secondo la slide 13 della lezione 60?
+**R:** «All'**espressione di un giudizio professionale**». La slide 13: «Servizi di revisione che comprendono: L'attività di controllo dei conti annuali delle imprese, finalizzata all'espressione di un giudizio professionale; L'attività di controllo dei conti infrannuali». Seguono il sottotitolo «Le verifiche contabili trimestrali», i servizi di attestazione, con cui il revisore esprime «una conclusione che fornisca al destinatario un grado di affidabilità» su uno specifico elemento, e gli altri servizi, «incarichi di natura residuale». Il giudizio professionale è quello della relazione del revisore (lezione 48).
+**Opzione:** All'espressione di un giudizio professionale.
+**Distrattori:**
+- All'espressione di una conclusione che fornisca al destinatario un grado di affidabilità in relazione a uno specifico elemento.
+- Al controllo dei conti infrannuali.
+- Alla due diligence contabile, fiscale, legale e amministrativa.
+
+**D:** ⚠️ Nei servizi di attestazione, chi determina lo specifico elemento che il revisore valuta, e a quale fine il revisore lo valuta, secondo la slide 13 della lezione 60?
+**R:** «Servizi di attestazione che comprendono incarichi con cui il revisore valuta uno specifico elemento, la cui determinazione è effettuata da **un altro soggetto che ne è responsabile**, attraverso opportuni criteri, al fine di esprimere **una conclusione che fornisca al destinatario un grado di affidabilità** in relazione a tale specifico elemento» (slide 13). Per UniCredit Factoring valgono 26 e riguardano tre attività: la revisione del Reporting Package per il resoconto intermedio di gestione del gruppo UniCredit al 30 settembre 2021, la sottoscrizione delle dichiarazioni fiscali, la traduzione in inglese della relazione di revisione (slide 13, nota). Gli altri servizi sono «incarichi di natura residuale», con un elenco di esempi «a titolo esemplificativo e non esaustivo» (slide 13).
+**Opzione:** Un altro soggetto che ne è responsabile; il fine è esprimere una conclusione che fornisca al destinatario un grado di affidabilità.
+**Distrattori:**
+- Lo stesso revisore; il fine è esprimere una conclusione che fornisca al destinatario un grado di affidabilità.
+- Un altro soggetto che ne è responsabile; il fine è esprimere un giudizio professionale sui conti annuali.
+
+**D:** ⚠️ Quanto valgono, per tipologia di servizio, i corrispettivi 2021 di Deloitte & Touche per UniCredit Factoring, secondo la tabella della slide 13 della lezione 60?
+**R:** Revisione contabile: **bilancio d'esercizio 85** e «Limitate procedure di verifica sulla situazione contabile **semestrale**» **18**; **servizi di attestazione 26**; servizi di consulenza fiscale senza importo; altri servizi «-»; **totale 129** (slide 13). Li eroga Deloitte & Touche S.p.A., e la destinataria è UniCredit Factoring S.p.A. Sono i corrispettivi «contrattualizzati, comprensivi di eventuali indicizzazioni (non includono le spese vive, l'eventuale contributo di vigilanza e l'IVA)». ⚠️ L'intestazione dice «COMPENSI (EURO)», ma la nota integrativa è in migliaia di euro (lezione 56, slide 8). Il sottotitolo parla di verifiche «trimestrali», la tabella di situazione «semestrale». Per UnipolSai i corrispettivi erano 1.934 (lezione 46, slide 4).
+**Opzione:** Bilancio d'esercizio 85; limitate procedure di verifica sulla situazione contabile semestrale 18; servizi di attestazione 26; totale 129.
+**Distrattori:**
+- Bilancio d'esercizio 85; limitate procedure di verifica sulla situazione contabile trimestrale 18; servizi di attestazione 26; totale 129.
+- Bilancio d'esercizio 85; limitate procedure di verifica sulla situazione contabile semestrale 26; servizi di attestazione 18; totale 129.
+- Bilancio d'esercizio 85; limitate procedure di verifica sulla situazione contabile semestrale 18; servizi di consulenza fiscale 26; totale 129.
+
+**D:** ⚠️ Qual è la differenza fra il gruppo bancario polifunzionale e il gruppo conglomerato finanziario, secondo il docente della lezione 60?
+**R:** «Nel **conglomerato** è presente la **società di assicurazioni** e nel gruppo polifunzionale bancario no» ([00:04:16]–[00:04:29]). UniCredit è diventata un agglomerato in cui la capogruppo partecipa, direttamente o indirettamente, in società finanziarie non bancarie: leasing, factoring, carte di credito, credito al consumo, assicurazioni «e così via» ([00:02:57]–[00:04:05]). La distinzione conta per la vigilanza: le assicurazioni private sono vigilate dall'IVASS, prima ISVAP, mentre la Banca d'Italia vigila sulle banche e sugli altri intermediari finanziari non bancari e non assicurativi ([00:04:30]–[00:05:05]). ⚠️ Poco prima il docente usa i due nomi come sinonimi: «gruppo polifunzionale finanziario, ovvero gruppo conglomerato finanziario» ([00:04:05]).
+**Opzione:** Nel conglomerato è presente la società di assicurazioni, nel gruppo polifunzionale bancario no.
+**Distrattori:**
+- Nel gruppo polifunzionale bancario è presente la società di assicurazioni, nel conglomerato no.
+- Nel conglomerato è presente la società di leasing, nel gruppo polifunzionale bancario no.
+- Nel conglomerato è presente la società di factoring, nel gruppo polifunzionale bancario no.
+
+**D:** ⚠️ Perché, per il docente della lezione 60, i vertici di UniCredit o di Intesa Sanpaolo decidono per l'intero gruppo ma non potranno mai avere un unico bilancio consolidato di gruppo?
+**R:** Perché «la parte assicurativa è sempre esclusa»: la parte bancaria e quella finanziaria non bancaria «può essere aggregata in un unico bilancio», quella assicurativa no ([00:06:52]–[00:07:09]). Le decisioni manageriali dell'amministratore delegato o del comitato esecutivo, «la parte ristretta del CDA che ha competenze decisionali», valgono per il gruppo «inteso nella sua interezza» ([00:05:53]); vigilanza e bilancio no. È una «volontà legislativa», nazionale ed europea, di tenere distinte le attività contabili, di vigilanza e bilancistiche delle assicurazioni da quelle delle banche e degli altri intermediari non bancari. Per questo i bilanci di banca, leasing e factoring sono «sostanzialmente uguali», quello assicurativo «completamente diverso» ([00:07:09]–[00:08:24]). Per il docente l'autorità di vigilanza è «un pochino in ritardo rispetto alle logiche di gestione» ([00:17:58]).
+**Opzione:** Perché la parte assicurativa è sempre esclusa: la parte bancaria e quella finanziaria non bancaria possono essere aggregate in un unico consolidato, quella assicurativa no.
+**Distrattori:**
+- Perché la parte finanziaria non bancaria è sempre esclusa: la parte bancaria e quella assicurativa possono essere aggregate in un unico consolidato, quella finanziaria non bancaria no.
+- Perché le decisioni strategiche escludono il gruppo assicurativo, e vengono prese solo per il gruppo bancario.
