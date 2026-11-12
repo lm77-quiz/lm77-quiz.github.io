@@ -10902,6 +10902,367 @@
 - Durevoli 20.380.043, con un fair value di 24.362.746; a breve 11.954.344 migliaia di euro.
 - Durevoli 10.731.185, con un fair value di 24.362.746; a breve 20.380.043 migliaia di euro.
 
+## Lezione 42 — La Nota integrativa del bilancio della compagnia di assicurazioni. Le altre voci dell'attivo, PN e riserve tecniche
+
+**D:** ⚠️ I crediti verso assicurati per premi sono svalutabili, secondo il test della lezione 42 (domanda 1)?
+**R:** «**Sì**»: i crediti verso assicurati (E.I.1) «*includono crediti di dubbia esigibilità, a fronte dei quali è stata operata una svalutazione pari a 58.610 migliaia di euro*», invariata sul 2020, e la valutazione tiene conto dell'«*andamento storico dei tassi di recupero dei crediti*» (slide 4). Per il criterio della lezione 40 (slide 7) i crediti sono iscritti «*al valore di presumibile realizzo*», con un fondo svalutazione appositamente costituito. Il docente lo dice a voce: i crediti verso assicurati «includono ovviamente anche crediti di dubbia esigibilità a fronte dei quali si opera una svalutazione» ([00:05:59]). ⚠️ Il vicino è «solo alcuni»: la svalutazione è operata «a fronte» dei crediti dubbi, ma il fondo si stima sull'esperienza e sui tassi di recupero di tutta la voce. Distrattori del test: «a discrezione del responsabile del bilancio», «solo alcuni», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del responsabile del bilancio.
+- Solo alcuni.
+- No.
+
+**D:** ⚠️ Gli attivi materiali e le scorte sono beni durevoli, secondo il test della lezione 42 (domanda 2)?
+**R:** «**Sì**»: «*Gli attivi materiali e scorte, registrati nella voce F.I, sono considerati attivi ad utilizzo durevole*», al netto dei fondi di ammortamento, per 63.204 migliaia di euro (slide 6). La qualifica copre tutta la voce, comprese le **scorte e beni diversi** (4.372) (slide 7). Il docente lo ripete: gli attivi materiali e scorte «sono attivi ad utilizzo durevole», cioè mobili, macchine d'ufficio e mezzi di trasporto interni, impianti e attrezzature, scorte e beni diversi ([00:14:21]). ⚠️ Il test scrive «beni durevoli» per «attivi ad utilizzo durevole». Il vicino è «solo alcuni»: nella riclassificazione della lezione 23 (slide 9) le scorte stanno fra le **attività correnti**. La chiave segue la nota integrativa. Distrattori del test: «a discrezione del responsabile del bilancio», «solo alcuni», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del responsabile del bilancio.
+- Solo alcuni.
+- No.
+
+**D:** ⚠️ I valori bollati sono compresi nelle disponibilità liquide, secondo il test della lezione 42 (domanda 3)?
+**R:** «**Sì**»: le disponibilità liquide (F.II) ammontano a 396.354 migliaia di euro, «*di cui 396.341 migliaia di euro sono riferiti a depositi di conto corrente … e 14 migliaia di euro alla cassa e ai valori bollati*» (slide 7). Per il docente nelle disponibilità liquide ci sono «i depositi in conto corrente, le casse e i valori bollati» ([00:14:21]–[00:14:46]). ⚠️ Lo schema della lezione 39 non li nomina: la voce F.II.2 si chiama «*Assegni e consistenza di cassa*» (13.874 euro). È il commento della nota integrativa a contarli con la cassa. Il vicino è «no». Distrattori del test: «a discrezione del responsabile del bilancio», «solo alcuni», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del responsabile del bilancio.
+- Solo alcuni.
+- No.
+
+**D:** ⚠️ In quale sezione del bilancio si inserisce la riserva sovrapprezzo emissione azioni, secondo il test della lezione 42 (domanda 4)?
+**R:** Nel **patrimonio netto**: è la voce A.II «*Riserva sovrapprezzo emissione azioni*», 407.256 migliaia di euro, invariata (slide 10). È la voce II del patrimonio netto nello schema della lezione 39 e nell'elenco civilistico della lezione 11. Il docente la nomina per prima fra le riserve patrimoniali, dentro il patrimonio netto ([00:17:44]). ⚠️ Il vicino è «passivo»: la slide 9 apre il patrimonio netto sotto il titolo «*Stato Patrimoniale - Passivo*», perché nello schema è la classe A del passivo e patrimonio netto. Distrattori del test: «attivo», «passivo», «conto economico».
+**Opzione:** Patrimonio netto.
+**Distrattori:**
+- Attivo.
+- Passivo.
+- Conto economico.
+
+**D:** ⚠️ Dove si colloca la riserva per azioni proprie in portafoglio, secondo il test della lezione 42 (domanda 5)?
+**R:** Nel **patrimonio netto**: è la voce A.X «*Riserva negativa per azioni proprie in portafoglio*», (289) migliaia di euro, da (734) nel 2020 (slide 10). Per la slide 13 della lezione 40 le azioni proprie si rilevano al valore di acquisto «*a diretta diminuzione del patrimonio netto*», in quella voce. Il docente: sono «azioni della società stessa detenute dalla UnipolSai, che come è noto vanno a riduzione del patrimonio netto» ([00:17:44]). ⚠️ Il test omette «negativa». Il vicino è «attivo»: le azioni proprie stavano nell'attivo prima del 2016, e la riserva per azioni della **controllante** (A.VI, 309) ha il suo corrispettivo nell'attivo, fra gli investimenti in imprese del gruppo (C.II.1.a). Distrattori del test: «attivo», «passivo», «conto economico».
+**Opzione:** Patrimonio netto.
+**Distrattori:**
+- Attivo.
+- Passivo.
+- Conto economico.
+
+**D:** ⚠️ Che cosa riporta la classe D.I dell'attivo di UnipolSai 2021, secondo la slide 2 della lezione 42?
+**R:** «*Nella classe D.I sono riportati gli investimenti relativi alle riserve tecniche afferenti i contratti aventi le caratteristiche indicate dall'**art. 41** del Decreto Legislativo 7/9/2005 n. 209 "Codice delle assicurazioni private". Trattasi in particolare dei prodotti **Index-Linked** e **Unit-Linked**.*» Il saldo è di **1.100.372** migliaia di euro, +292.214 (+36,2%). Nel periodo non ci sono stati trasferimenti di attività fra la classe D.I e la classe C (slide 2). ⚠️ Il fondo pensione aperto e i fondi pensione negoziali sono la **D.II**. L'art. 37 del Codice è quello delle riserve tecniche dei rami danni (slide 13).
+**Opzione:** Gli investimenti delle riserve tecniche dei contratti dell'art. 41 del Codice delle assicurazioni: in particolare prodotti Index-Linked e Unit-Linked.
+**Distrattori:**
+- Gli investimenti delle riserve tecniche dei contratti dell'art. 37 del Codice delle assicurazioni: in particolare prodotti Index-Linked e Unit-Linked.
+- Gli investimenti delle riserve tecniche dei contratti dell'art. 41 del Codice delle assicurazioni: in particolare fondi pensione negoziali.
+- Gli investimenti delle riserve tecniche dei contratti dell'art. 41 del Codice delle assicurazioni: in particolare polizze a prestazione predefinita.
+
+**D:** ⚠️ Che cosa comprende la classe D.II dell'attivo di UnipolSai 2021, secondo la slide 2 della lezione 42?
+**R:** «*Nella classe D.II sono iscritti gli investimenti relativi al **fondo pensione aperto a contribuzione definita** e comprende inoltre **17 fondi pensione negoziali** per i quali si effettua una **gestione assistita da garanzia***». A fine 2021 valgono **4.301.119** migliaia di euro, +23.536 (+0,6%) (slide 2). ⚠️ Gli allegati di dettaglio sono diciotto oltre al totale: il 12/4 per il fondo aperto «UnipolSai Previdenza FPA» e diciassette per i fondi negoziali. Per la Deliberazione **COVIP** del 17 giugno 1998 il **Rendiconto del Fondo Pensione aperto** è allegato al bilancio della Compagnia.
+**Opzione:** Gli investimenti del fondo pensione aperto a contribuzione definita e di 17 fondi pensione negoziali con gestione assistita da garanzia.
+**Distrattori:**
+- Gli investimenti del fondo pensione aperto a prestazione definita e di 17 fondi pensione negoziali con gestione assistita da garanzia.
+- Gli investimenti del fondo pensione aperto a contribuzione definita e di 18 fondi pensione negoziali con gestione assistita da garanzia.
+- Gli investimenti del fondo pensione negoziale a contribuzione definita e di 17 fondi pensione aperti con gestione assistita da garanzia.
+
+**D:** ⚠️ A che cosa è collegato il rendimento delle polizze index linked, secondo il docente della lezione 42?
+**R:** «Le assicurazioni **index linked** sono quelle assicurazioni il cui rendimento è collegato all'andamento di un **paniere di indici**»: indici **di borsa**, **di tassi di interesse**, **relativi alle obbligazioni** oppure **ai tassi di cambio** ([00:01:26]). ⚠️ Delle **unit linked** il transcript dice che il rendimento è collegato «all'andamento dei tassi di cambio», frase confusa, e subito dopo che «di fatto questi sono dei **fondi comuni di investimento**»: polizze che hanno al loro interno dei fondi comuni, il cui andamento definisce quello del prodotto ([00:02:52]). Nella lezione 39 la D.I sono gli «*Investimenti relativi a prestazioni connesse con fondi di investimento e indici di mercato*» (slide 4).
+**Opzione:** All'andamento di un paniere di indici: di borsa, di tassi di interesse, relativi alle obbligazioni o ai tassi di cambio.
+**Distrattori:**
+- All'andamento delle quote dei fondi comuni di investimento contenuti nella polizza.
+- Sull'andamento del mix cose/persone, sulla velocità di liquidazione e sul costo medio dell'anno precedente.
+- Titoli emessi da Stati ed enti pubblici quotati 59,7%, altri titoli quotati 38,4%.
+
+**D:** ⚠️ Che cosa distingue, per il docente della lezione 42, le polizze index e unit linked italiane da quelle del modello anglosassone?
+**R:** Nella gestione originaria **anglosassone** queste polizze potevano essere costruite in modo che le eventuali **perdite** fossero «del tutto riconosciute a carico degli assicurati». In Italia invece sono «a **capitale coperto**»: «non ci sono **perdite in conto capitale** per l'assicurato», ma i **guadagni** «possono realizzarsi ma possono essere anche persi», e alla scadenza si può riavere solo il capitale investito ([00:02:52]–[00:03:43]). Per questo la classe D si chiama investimenti «a beneficio degli assicurati, i quali ne sopportano il rischio», e lo stesso vale per i **fondi pensione** ([00:03:43]). ⚠️ Il docente aggiunge che si può riavere «di solito anche meno», al netto dei caricamenti, e questo contraddice il capitale coperto. Nella lezione 43 dice gli impegni rimasti alla compagnia «quasi sempre riferiti al solo capitale» ([00:12:24]).
+**Opzione:** In Italia sono a capitale coperto: nessuna perdita in conto capitale per l'assicurato, ma i guadagni possono anche andare persi; nel modello anglosassone le perdite potevano essere tutte a carico degli assicurati.
+**Distrattori:**
+- In Italia le perdite possono essere tutte a carico degli assicurati; nel modello anglosassone le polizze sono a capitale coperto, e per l'assicurato possono andare persi solo i guadagni.
+- Le somme da pagare sono veri e propri debiti, già maturati e certi ma non ancora corrisposti a fine esercizio; la riserva matematica accantona ogni anno il progressivo obbligo della compagnia verso l'assicurato.
+- Il rischio è ripartito pro quota fra più compagnie sin dall'origine, e l'assicurato sa di essere assicurato da più compagnie.
+
+**D:** ⚠️ Quanto valgono al 31 dicembre 2021 le riserve tecniche a carico dei riassicuratori (D bis) di UnipolSai, e qual è la voce maggiore?
+**R:** **504.989** migliaia di euro (556.876 nel 2020, −9,3%). La voce maggiore è la **riserva sinistri dei rami danni**, 400.046. Seguono la riserva premi dei rami danni (90.826), le riserve tecniche dei rami vita (12.156) e le somme da pagare dei rami vita (1.962) (slide 3). ⚠️ La riserva premi dei rami danni è l'unica voce in **aumento** (+9.088); la riserva sinistri scende di 55.871. Nello schema della lezione 39 la D bis vale 504.989.156 euro, di cui 490.871.132 dei rami danni. Per il docente sono «molto basse»: «sono solo 504 milioni», poco rispetto al bilancio di Unipol, segno che la sua politica di riassicurazione è «molto contenuta» e non cede tantissimi contratti ([00:05:08]–[00:05:59]).
+**Opzione:** 505,0 milioni; la voce maggiore è la riserva sinistri dei rami danni, 400,0.
+**Distrattori:**
+- 505,0 milioni; la voce maggiore è la riserva premi dei rami danni, 90,8.
+- 78,3 milioni: 63,0 per i rami vita e 15,2 per i rami danni.
+- 5.401,5 milioni: 1.100,4 legati a fondi di investimento e indici di mercato, 4.301,1 ai fondi pensione; uguale alla classe D del passivo.
+
+**D:** Perché sono diminuite nel 2021 le riserve tecniche a carico dei riassicuratori di UnipolSai (da 556.876 a 504.989 migliaia di euro)?
+**R:** «*L'importo, in riduzione rispetto allo scorso esercizio, riflette l'andamento del **lavoro diretto** della società e l'evoluzione dei **rapporti riassicurativi***» (slide 3). La diminuzione è di 51.887, il −9,3%, e viene quasi tutta dalla riserva sinistri dei rami danni (−55.871).
+**Opzione:** Riflette l'andamento del lavoro diretto della società e l'evoluzione dei rapporti riassicurativi.
+**Distrattori:**
+- Riflette l'andamento del lavoro indiretto della società e l'evoluzione dei rapporti riassicurativi.
+- Per l'opzione di riallineamento ai fini fiscali dei valori di avviamenti e altre attività al 31 dicembre 2020, con l'onere di vincolare una specifica riserva.
+- 309,8 milioni dal conto non tecnico al conto tecnico danni; 94,6 milioni dal conto tecnico vita al conto non tecnico.
+
+**D:** ⚠️ Con quali criteri sono calcolate le riserve tecniche a carico dei riassicuratori, secondo la slide 3 della lezione 42?
+**R:** «*Le riserve tecniche a carico dei riassicuratori sono calcolate con gli **stessi criteri** utilizzati per l'appostazione delle riserve del **lavoro diretto**, tenendo altresì conto delle **clausole contrattuali di riassicurazione**.*» ⚠️ Per le riserve a carico dei **retrocessionari** valgono invece «*gli stessi criteri utilizzati per la formazione delle riserve dei **rischi assunti***», e rappresentano la quota a loro carico degli impegni contrattualmente previsti (slide 3).
+**Opzione:** Con gli stessi criteri delle riserve del lavoro diretto, tenendo altresì conto delle clausole contrattuali di riassicurazione.
+**Distrattori:**
+- Con gli stessi criteri delle riserve dei rischi assunti, tenendo altresì conto delle clausole contrattuali di riassicurazione.
+- Al 3% costante gli immobili strumentali, destinati all'esercizio dell'Impresa o dati in uso a terzi; i terreni non si ammortizzano.
+- Derivano da rapporti di riassicurazione attiva e passiva; sono al netto di un fondo svalutazione di 22.087, e le posizioni dubbie sono valutate singolarmente.
+
+**D:** ⚠️ Come registra la compagnia cedente, nel proprio bilancio, le riserve tecniche cedute al riassicuratore, secondo il docente della lezione 42?
+**R:** Con una **posta di rettifica nell'attivo**. Quando si cede una parte del portafoglio si cedono anche le riserve tecniche: «il riassicuratore nel proprio bilancio iscrive **maggiori riserve tecniche**», mentre il cedente «**riduce proporzionalmente** le proprie riserve», e lo fa «iscrivendo una **posta di rettifica nell'attivo patrimoniale**». Le riserve tecniche sono iscritte nel passivo, e quelle cedute, «a rettifica delle riserve tecniche iscritte al passivo», vanno nell'attivo: sono le **riserve tecniche a carico dei riassicuratori**, la classe D bis ([00:04:42]–[00:05:08]). ⚠️ Le maggiori riserve nel passivo le iscrive il riassicuratore, non il cedente. È la chiave della domanda 4 del test della lezione 39 (D bis «nell'attivo patrimoniale»).
+**Opzione:** Riduce proporzionalmente le proprie riserve iscrivendo nell'attivo una posta di rettifica, le riserve tecniche a carico dei riassicuratori.
+**Distrattori:**
+- Iscrive nel proprio passivo maggiori riserve tecniche, pari a quelle cedute al riassicuratore.
+- Le immobilizzazioni al cambio al momento del loro acquisto, le altre partite ai cambi di fine anno.
+- Con una valutazione analitica prudente del loro probabile valore di realizzo.
+
+**D:** ⚠️ Come è stata effettuata la valutazione dei crediti verso assicurati (E.I.1) di UnipolSai 2021, e quanto vale la svalutazione?
+**R:** «*La valutazione dei crediti verso assicurati è stata effettuata tenendo conto dell'**andamento storico dei tassi di recupero** dei crediti*». I crediti includono crediti di dubbia esigibilità, «*a fronte dei quali è stata operata una svalutazione pari a **58.610** migliaia di euro (**invariato** rispetto al dato del 31 dicembre 2020)*». Sono il 5,7% dei premi diretti (6,1% nel 2020), e fra quelli dubbi non ci sono importi unitari di rilievo (slide 4). Il docente legge la svalutazione invariata come il segno che «si è ritenuto» che i crediti non siano diventati meno riscuotibili rispetto al bilancio precedente, e dice che si tiene conto «**solo** dell'andamento storico dei tassi di recupero» ([00:05:59]–[00:07:09]). Il «solo» non è nella slide. ⚠️ Il fondo di **18.111** è quello dei crediti verso **intermediari**, quello di **22.087** dei crediti da **riassicurazione**, dove le posizioni dubbie sono valutate **singolarmente**.
+**Opzione:** Tenendo conto dell'andamento storico dei tassi di recupero dei crediti; svalutazione di 58.610, invariata sul 2020.
+**Distrattori:**
+- Valutando singolarmente le posizioni dubbie; svalutazione di 58.610, invariata sul 2020.
+- Tenendo conto dell'andamento storico dei tassi di recupero dei crediti; svalutazione di 18.111, invariata sul 2020.
+- Tenendo conto dell'andamento storico dei tassi di recupero dei crediti; svalutazione di 58.610, in aumento sul 2020.
+
+**D:** ⚠️ Entro quanto l'agente deve riversare alla compagnia i premi incassati, e perché a fine anno restano crediti verso agenti, secondo il docente della lezione 42?
+**R:** L'agente «è tenuto **per legge e per contratto** a riversare queste somme entro una certa quantità di giorni», che dipende dai rapporti fra agente e compagnia e «normalmente oscillano fra **10 e 15 giorni**»: ogni 10 giorni versa ciò che ha incassato nei 10 giorni precedenti, oppure entro 15. Le somme incassate dal **16 al 31 dicembre** all'inizio dell'anno successivo verosimilmente non sono ancora versate: sono «di competenza dell'assicurazione» ma l'agente non le ha ancora riversate ([00:07:09]–[00:08:56]). Sono i «*premi incassati sul finire dell'anno*» dei crediti verso agenti e altri intermediari (E.I.2), accanto alle rivalse di portafoglio (slide 4).
+**Opzione:** Per legge e per contratto, di norma entro 10–15 giorni, secondo i rapporti con la compagnia: i premi incassati a fine dicembre restano crediti verso agenti.
+**Distrattori:**
+- Per legge e per contratto, di norma entro 3 mesi dalla chiusura di ciascun semestre: i premi incassati a fine dicembre restano crediti verso agenti.
+- Tutti esigibili entro l'esercizio successivo.
+- Da assenza di preventivo, riapertura o cambio di esito, oppure dal decorso di un numero massimo di mesi variabile a seconda del ramo.
+
+**D:** ⚠️ Da che cosa derivano e come sono valutati i crediti da operazioni di riassicurazione (E.II) di UnipolSai 2021?
+**R:** Sono «*prevalentemente di breve durata*» e «*derivano da rapporti di **riassicurazione attiva e passiva***». Valgono **64.846** migliaia di euro (+7.148, +12,4%), «*al netto del relativo fondo svalutazione che ammonta a **22.087***». «*Le posizioni dubbie sono valutate **singolarmente**.*» (slide 4). ⚠️ Per i crediti verso assicurati la valutazione tiene conto invece dei tassi di recupero storici. Il docente: sono «tutti naturalmente crediti di breve durata», e gli intermediari di riassicurazione «sono coloro che consentono che avvengano questi rapporti» ([00:09:19]–[00:09:37]).
+**Opzione:** Derivano da rapporti di riassicurazione attiva e passiva; sono al netto di un fondo svalutazione di 22.087, e le posizioni dubbie sono valutate singolarmente.
+**Distrattori:**
+- Derivano da rapporti di riassicurazione solo passiva; sono al netto di un fondo svalutazione di 22.087, e le posizioni dubbie sono valutate singolarmente.
+- I primi nel passivo (classe F), 122,2 milioni; i secondi nell'attivo fra gli investimenti (C.IV), 170,7 milioni.
+- Tenendo conto dell'andamento storico dei tassi di recupero dei crediti; svalutazione di 58.610, invariata sul 2020.
+
+**D:** ⚠️ Che effetti ha la riassicurazione passiva sul bilancio della compagnia cedente, secondo il docente della lezione 42?
+**R:** Nella riassicurazione passiva la compagnia cede contratti a un'altra, e «pagherà dei premi alla compagnia di riassicurazione affinché si assuma il rischio connesso a quei contratti ceduti». **Riduce** il valore delle riserve accantonate con la posta delle **riserve tecniche a carico dei riassicuratori**. Ha una posta di **depositi cauzionali ricevuti**, perché la società a cui ha ceduto i contratti le dà un deposito cauzionale. **Riduce proporzionalmente i premi** nel conto economico. «Quindi **riduco il mio rischio ma riduco anche i miei ricavi**» ([00:10:43]). ⚠️ Nella riassicurazione **attiva** è la riassicuratrice ad accantonare le riserve e a mettere a disposizione «un deposito cauzionale a favore dell'impresa che ha ceduto», e paga l'indennizzo se si verifica il sinistro ([00:09:37]–[00:10:43]).
+**Opzione:** Riduce le riserve con le riserve tecniche a carico dei riassicuratori, iscrive i depositi cauzionali ricevuti e riduce i premi a conto economico: meno rischio, ma anche meno ricavi.
+**Distrattori:**
+- Riduce le riserve con le riserve tecniche a carico dei riassicuratori, iscrive i depositi cauzionali versati e riduce i premi a conto economico: meno rischio, ma anche meno ricavi.
+- Il diretto sono i premi delle polizze emesse direttamente dalla compagnia; l'indiretto i contratti che la compagnia ha assunto in riassicurazione da altre compagnie, che li avevano stipulati con l'assicurato.
+- Separatamente uno Stato Patrimoniale della gestione Danni (allegato 1) e uno della gestione Vita (allegato 2), più il prospetto di ripartizione del risultato di esercizio fra rami Danni e Vita (allegato 3).
+
+**D:** ⚠️ Qual è la componente maggiore dei crediti verso l'Erario (1.079.838 migliaia di euro) di UnipolSai 2021?
+**R:** I crediti verso l'Erario sono «*principalmente costituiti da*»: **558.259** relativi all'**acconto dell'imposta sulle assicurazioni** (D.L. 282/2004, modificato dalla Legge n. 205 del 27 dicembre 2017); 226.530 di crediti da agevolazioni fiscali «*Ecobonus*» e «*Superbonus*» acquistati; 185.409 versati per l'**imposta sostitutiva sulle riserve matematiche** (D.L. 209 del 25/9/2002); 72.785 di ritenute; 13.033 di credito IRAP; 3.156 di istanze di rimborso verso erari esteri (slide 5). ⚠️ L'elenco è aperto: le sei voci fanno 1.059.172. Per il docente «gran parte di questi crediti verso l'erario» sono proprio i crediti per il versamento in acconto ([00:12:41]).
+**Opzione:** L'acconto dell'imposta sulle assicurazioni, 558.259.
+**Distrattori:**
+- L'imposta sostitutiva sulle riserve matematiche, 558.259.
+- I crediti Ecobonus e Superbonus acquistati, 558.259.
+- I crediti per ritenute, 558.259.
+
+**D:** ⚠️ Che cosa fa la compagnia con l'imposta sulle assicurazioni, e da che cosa nascono quindi i crediti verso l'Erario, secondo il docente della lezione 42?
+**R:** Tutti i contratti assicurativi scontano un'imposta sulle assicurazioni che «si aggira intorno al **12,50%**» del premio: la compagnia la **incassa** e la **riversa allo Stato**, come **sostituto d'imposta**. Oltre a questo deve fare un **versamento in acconto**, e «gran parte di questi crediti verso l'erario sono appunto costituiti da questi crediti per versamento in acconto» ([00:12:19]–[00:12:41]). Nella slide 5 l'acconto vale **558.259** migliaia di euro su 1.079.838 (D.L. 282/2004, modificato dalla Legge n. 205 del 27 dicembre 2017). ⚠️ L'aliquota la dà solo il docente, la slide non la riporta. L'imposta sostitutiva sulle **riserve matematiche** (185.409) è un'altra imposta.
+**Opzione:** La incassa con il premio, intorno al 12,50%, e la riversa allo Stato come sostituto d'imposta; deve anche versare un acconto, che è gran parte dei crediti verso l'Erario.
+**Distrattori:**
+- La incassa con il premio, intorno al 12,50%, e la riversa allo Stato come sostituto d'imposta; l'imposta sostitutiva sulle riserve matematiche è gran parte dei crediti verso l'Erario.
+- Società del Gruppo, 152.004 migliaia, di cui 137.322 verso la consolidante Unipol Gruppo per il saldo IRES dell'esercizio.
+- Le imposte anticipate solo se esiste la ragionevole certezza della loro recuperabilità; le imposte differite sempre.
+
+**D:** ⚠️ Che cosa sono i 226.530 migliaia di euro di crediti verso l'Erario legati a «Ecobonus» e «Superbonus»?
+**R:** «*Crediti da agevolazioni fiscali (c.d. "Ecobonus" e "Superbonus") **acquistati** dai beneficiari diretti o precedenti acquirenti, recuperabili in **compensazione** dai versamenti futuri per un importo complessivo riconosciuto dall'Erario di **242.071** migliaia di euro*» (slide 5). Per il criterio della lezione 40 (slide 7) stanno fra gli altri crediti, come raccomandato dal chiarimento applicativo dell'IVASS del 23 marzo 2021. Il docente: sono agevolazioni fiscali a favore di persone fisiche, che potevano **cedere** i bonus a terzi, anche a compagnie di assicurazione, e UnipolSai quei crediti «ancora non ha utilizzato» ([00:12:41]). ⚠️ Fra i bonus il docente nomina anche il **Sismabonus**, che la slide non cita.
+**Opzione:** Crediti da agevolazioni fiscali acquistati dai beneficiari diretti o da precedenti acquirenti, recuperabili in compensazione dai versamenti futuri.
+**Distrattori:**
+- Crediti da agevolazioni fiscali ceduti ai beneficiari diretti o a successivi acquirenti, recuperabili in compensazione dai versamenti futuri.
+- Alla garanzia sulla congruità delle riserve tecniche al 31 dicembre 2004 delle compagnie MMI Danni e MMI Assicurazioni, acquisite nel 2005.
+- Versamenti effettuati come cash collateral a garanzia dell'operatività in derivati.
+
+**D:** ⚠️ A che cosa si riferisce il credito di 17.315 migliaia di euro verso la Compagnia Mutuelle du Mans?
+**R:** Alla **garanzia sulla congruità delle riserve tecniche al 31 dicembre 2004** delle compagnie **MMI Danni** e **MMI Assicurazioni**, acquisite nel 2005, rilasciata all'atto dell'acquisto dalla cedente Compagnia Mutuelle du Mans (slide 5). Per l'accordo transattivo del 3 novembre 2017 MMA corrisponde a UnipolSai il differenziale fra il **netto pagato** e il valore delle riserve al 31 dicembre 2004, convalidato da un Auditor indipendente (KPMG). Il credito è assistito da una **garanzia bancaria a prima richiesta**, ridotta da 29.823.750 a 18.171.750 euro (slide 6).
+**Opzione:** Alla garanzia sulla congruità delle riserve tecniche al 31 dicembre 2004 delle compagnie MMI Danni e MMI Assicurazioni, acquisite nel 2005.
+**Distrattori:**
+- Alla garanzia sulla congruità delle riserve tecniche al 31 dicembre 2014 delle compagnie MMI Danni e MMI Assicurazioni, acquisite nel 2005.
+- Crediti da agevolazioni fiscali acquistati dai beneficiari diretti o da precedenti acquirenti, recuperabili in compensazione dai versamenti futuri.
+- L'acconto dell'imposta sulle assicurazioni, 558.259.
+
+**D:** ⚠️ Che cosa sono i «depositi a garanzia dei contratti derivati» (386.320 migliaia di euro) fra gli altri crediti di UnipolSai?
+**R:** «*Versamenti effettuati come **cash collateral** a garanzia dell'**operatività in derivati** per 386.320 migliaia di euro*» (slide 6). Sono la seconda voce degli altri crediti dopo l'Erario, +129.870 sul 2020 (slide 5). ⚠️ Sono versamenti **effettuati**, quindi un credito. Le **marginazioni** pagate a JP Morgan come clearing broker degli Interest Rate Swap (31.209) stanno invece fra le attività diverse, nella voce «*Attività finanziarie*» (slide 8).
+**Opzione:** Versamenti effettuati come cash collateral a garanzia dell'operatività in derivati.
+**Distrattori:**
+- Versamenti ricevuti come cash collateral a garanzia dell'operatività in derivati.
+- Versamenti effettuati come cash collateral a garanzia della riassicurazione passiva.
+- Versamenti effettuati come acconto dell'imposta sulle assicurazioni.
+
+**D:** ⚠️ Come si compongono gli altri elementi dell'attivo (voce F, 1.396.673 migliaia di euro) di UnipolSai 2021?
+**R:** F.I **attivi materiali e scorte** 63.204; F.II **disponibilità liquide** 396.354; F.IV **altre attività** 937.115 (slide 6). Il totale scende del 18,5%, soprattutto per le altre attività (−275.656). ⚠️ La sottoclasse **III** non c'è, come nello schema della lezione 39. Le azioni proprie stanno nel patrimonio netto, nella riserva negativa (A.X).
+**Opzione:** F.I attivi materiali e scorte 63.204; F.II disponibilità liquide 396.354; F.IV altre attività 937.115.
+**Distrattori:**
+- F.I attivi materiali e scorte 63.204; F.II disponibilità liquide 396.354; F.III azioni proprie 937.115.
+- F.I attivi materiali e scorte 396.354; F.II disponibilità liquide 63.204; F.IV altre attività 937.115.
+- F.I attivi immateriali 63.204; F.II disponibilità liquide 396.354; F.IV altre attività 937.115.
+
+**D:** ⚠️ Che cos'è il «forfait gestionaria» fra le partite tecniche sui sinistri, secondo il docente della lezione 42?
+**R:** Sono «quegli **ammontari che devono essere recuperati** da altre compagnie o da altri soggetti per il pagamento dei sinistri, quindi sono **rivalse** sostanzialmente che la compagnia ha nei confronti di terzi» ([00:15:12]). Nella slide 8 la quota da recuperare vale **88.510** migliaia di euro (84.946 nel 2020), dentro le partite tecniche su sinistri (94.979) delle attività diverse (F.IV.2). La slide non lo definisce.
+**Opzione:** Ammontari da recuperare da altre compagnie o da altri soggetti per il pagamento dei sinistri: rivalse della compagnia verso terzi.
+**Distrattori:**
+- Ammontari da pagare ad altre compagnie o ad altri soggetti per il pagamento dei sinistri: debiti della compagnia verso terzi.
+- Si ha quando il sinistro viene pagato e la riserva eliminata: con 110 riservati e 100 pagati si ha una sopravvenienza attiva di 10, con 100 riservati e 110 pagati una sopravvenienza passiva di 10.
+- Applicando, per anno di accadimento, alle riserve stimate a costo ultimo la percentuale ricavata dall'analisi storica dell'incidenza delle spese pagate sugli indennizzi.
+
+**D:** Come si dividono i ratei e risconti attivi (voce G, 360.827 migliaia di euro) di UnipolSai 2021?
+**R:** **Ratei 330.004**: 329.936 per interessi e 68 di altri ratei. **Risconti 30.824**: 2.401 per canoni di locazione e 28.423 di altri risconti (slide 9). La voce G.1 «*interessi*» è «*prevalentemente costituita da ratei su titoli per 314.531*», da ratei su derivati (12.114) e su finanziamenti infragruppo (2.094). La voce G scende di 38.207 (−9,6%) (slide 8).
+**Opzione:** Ratei 330.004, quasi tutti per interessi (329.936); risconti 30.824.
+**Distrattori:**
+- Ratei 30.824; risconti 330.004, quasi tutti per interessi (329.936).
+- Ratei 330.004, quasi tutti per canoni di locazione (329.936); risconti 30.824.
+- Ratei 330.004, quasi tutti su finanziamenti infragruppo (329.936); risconti 30.824.
+
+**D:** ⚠️ Com'è costituito il capitale sociale di UnipolSai al 31 dicembre 2021?
+**R:** «*Al 31 dicembre 2021 il capitale sociale ammontava a **2.031.456** migliaia di euro (invariato rispetto all'esercizio precedente), **interamente sottoscritto e versato**, costituito da n. **2.829.717.372 azioni ordinarie** tutte **prive di indicazione del valore nominale***» (slide 10). Il docente le dice senza valore nominale «in quanto gestite direttamente sul mercato» ([00:17:44]). Capitale sociale e riserve patrimoniali ammontano a 5.913.773 (slide 9). ⚠️ I crediti verso soci per capitale sociale sottoscritto non versato, classe A dell'attivo, sono vuoti (lezione 39).
+**Opzione:** 2.031.456 migliaia di euro, interamente sottoscritto e versato, in 2.829.717.372 azioni ordinarie prive di valore nominale.
+**Distrattori:**
+- 2.031.456 migliaia di euro, sottoscritto ma non interamente versato, in 2.829.717.372 azioni ordinarie prive di valore nominale.
+- 2.031.456 migliaia di euro, interamente sottoscritto e versato, in 2.829.717.372 azioni ordinarie con indicazione del valore nominale.
+- 406.291 migliaia di euro, interamente sottoscritto e versato, in 2.829.717.372 azioni ordinarie prive di valore nominale.
+
+**D:** ⚠️ Come è stato destinato l'utile dell'esercizio 2020 di UnipolSai con la delibera assembleare del 28 aprile 2021?
+**R:** «*A dividendo per complessivi **537.574** migliaia di euro*», di cui 430.560 della gestione Danni e 107.014 della gestione Vita, con un dividendo unitario di **0,190 euro** per ogni azione ordinaria avente diritto; «*a **Riserva Straordinaria** appostata nella voce delle Altre Riserve del patrimonio netto per complessivi **276.732** migliaia di euro, interamente attribuita alla gestione Danni*» (slide 9). Il riparto tiene conto delle azioni proprie in portafoglio alla data di stacco cedola. Insieme fanno 814.306, l'utile 2020 della lezione 39.
+**Opzione:** A dividendo 537.574 (0,190 euro per azione) e a Riserva Straordinaria 276.732, tutta della gestione Danni.
+**Distrattori:**
+- A dividendo 276.732 (0,190 euro per azione) e a Riserva Straordinaria 537.574, tutta della gestione Danni.
+- A dividendo 537.574 (0,190 euro per azione) e a Riserva Straordinaria 276.732, tutta della gestione Vita.
+- Danni 590,3 milioni, vita 155,6, utile 648,1.
+
+**D:** ⚠️ Quali sono, nell'ordine, le riserve patrimoniali di UnipolSai al 31 dicembre 2021 nella tabella della slide 10 della lezione 42?
+**R:** A.II **Riserva sovrapprezzo emissione azioni** (407.256); A.III Riserva rivalutazione beni immobili (96.559); A.IV Riserva legale (406.291); A.VI **Riserva per azioni della controllante** (309); A.VII **Altre riserve** (2.972.190); A.X **Riserva negativa per azioni proprie in portafoglio** (−289). In tutto **3.882.316** migliaia di euro (slide 10). La tabella non riporta il capitale (A.I) e l'utile (A.IX); le riserve statutarie (A.V) e gli utili portati a nuovo (A.VIII) sono vuoti. ⚠️ La riserva **negativa** è quella delle azioni **proprie**, non della controllante.
+**Opzione:** A.II Riserva sovrapprezzo emissione azioni; A.III Riserva rivalutazione beni immobili; A.IV Riserva legale; A.VI Riserva per azioni della controllante; A.VII Altre riserve; A.X Riserva negativa per azioni proprie in portafoglio.
+**Distrattori:**
+- A.II Riserva sovrapprezzo emissione azioni; A.III Riserva rivalutazione beni immobili; A.IV Riserva legale; A.VI Riserva per azioni proprie; A.VII Altre riserve; A.X Riserva negativa per azioni della controllante.
+- Riserva da fusioni; riserve straordinarie; riserva da riallineamento ex DL 104/2020; riserva conguaglio dividendo; riserva sovrapprezzo per alienazione diritti d'opzione non esercitati; riserva da differenze su realizzo azioni proprie.
+- Frazioni di premio e riserve integrative 2.910.204; rischi in corso 59.691; assicurazioni indirette 46.078.
+
+**D:** ⚠️ Quali voci compongono le altre riserve (A.VII, 2.972.190 migliaia di euro) di UnipolSai 2021, nell'ordine della slide 10 della lezione 42?
+**R:** Riserva da fusioni (1.815.800); riserve straordinarie (889.289); riserva da riallineamento ex DL 104/2020 (332.546); riserva conguaglio dividendo (826); riserva sovrapprezzo per alienazione diritti d'opzione non esercitati (5); riserva da differenze su realizzo azioni proprie (−66.275) (slide 10). ⚠️ L'ultima ha il segno meno ma non è la **riserva negativa per azioni proprie in portafoglio**, che è una voce a sé (A.X). La riserva da fusioni cresce di 480, l'eccedenza della riserva per azioni della controllante.
+**Opzione:** Riserva da fusioni; riserve straordinarie; riserva da riallineamento ex DL 104/2020; riserva conguaglio dividendo; riserva sovrapprezzo per alienazione diritti d'opzione non esercitati; riserva da differenze su realizzo azioni proprie.
+**Distrattori:**
+- Riserva da fusioni; riserve straordinarie; riserva da riallineamento ex DL 104/2020; riserva conguaglio dividendo; riserva sovrapprezzo per alienazione diritti d'opzione non esercitati; riserva negativa per azioni proprie in portafoglio.
+- A.II Riserva sovrapprezzo emissione azioni; A.III Riserva rivalutazione beni immobili; A.IV Riserva legale; A.VI Riserva per azioni della controllante; A.VII Altre riserve; A.X Riserva negativa per azioni proprie in portafoglio.
+- Ramo cauzione 38.164; calamità naturali (terremoto, maremoto, eruzione vulcanica) 319.967; grandine, nessun accantonamento; ramo credito 10.
+
+**D:** ⚠️ Come è stata adeguata nel 2021 la riserva per azioni della controllante (A.VI) di UnipolSai?
+**R:** «*La riserva per azioni della controllante è stata adeguata al **valore a fine periodo** dei titoli detenuti in portafoglio, con l'attribuzione dell'eccedenza alla **riserva per avanzo di fusione** da cui era stata originariamente prelevata*» (slide 10). Scende da 789 a 309 migliaia di euro, e la riserva da fusioni sale di 480. Vale quanto le azioni della controllante nell'attivo (C.II.1.a, 308.635 euro nella lezione 39).
+**Opzione:** Al valore di fine periodo dei titoli detenuti, con l'eccedenza attribuita alla riserva per avanzo di fusione da cui era stata prelevata.
+**Distrattori:**
+- Al valore di fine periodo dei titoli detenuti, con l'eccedenza attribuita alla riserva straordinaria da cui era stata prelevata.
+- Per il richiamo anticipato di due prestiti ex Unipol Assicurazioni (300.000 e 261.689) e il rimborso di una tranche di 80.000 del finanziamento Mediobanca.
+- A dividendo 537.574 (0,190 euro per azione) e a Riserva Straordinaria 276.732, tutta della gestione Danni.
+
+**D:** ⚠️ Perché è variata nel 2021 la riserva negativa per azioni proprie in portafoglio di UnipolSai (da −734 a −289 migliaia di euro)?
+**R:** «*La riserva negativa per azioni proprie in portafoglio è stata adeguata a seguito dell'operatività effettuata in relazione ai **Piani di compenso basati su strumenti finanziari** destinati al **personale dirigente***» (slide 10). È la voce A.X. Nella tabella ha il segno meno anche la riserva da differenze su realizzo azioni proprie (−66.275), che sta fra le altre riserve. Per la slide 13 della lezione 40 le azioni proprie si rilevano al valore di acquisto, a diretta diminuzione del patrimonio netto.
+**Opzione:** A seguito dell'operatività sui piani di compenso basati su strumenti finanziari destinati al personale dirigente.
+**Distrattori:**
+- A seguito dell'operatività sui piani di compenso basati su strumenti finanziari destinati agli agenti.
+- Al valore di fine periodo dei titoli detenuti, con l'eccedenza attribuita alla riserva per avanzo di fusione da cui era stata prelevata.
+- 308.635 euro, quanto le azioni e quote di imprese controllanti fra gli investimenti in imprese del gruppo.
+
+**D:** ⚠️ Perché UnipolSai ha costituito nel 2021 riserve di utili in sospensione d'imposta per 332.546 migliaia di euro?
+**R:** Per l'esercizio dell'opzione del **D.Lgs. 104 del 2020** (così la slide 11; la tabella della slide 10 scrive «ex DL 104/2020»), «*che ha consentito il **riallineamento ai fini fiscali** dei valori di avviamenti e altre attività alla data del 31 dicembre 2020, comportando di conseguenza l'onere di **vincolare una specifica riserva** per un importo corrispondente ai maggior valori fiscalmente riconosciuti al netto dell'imposta sostitutiva dovuta*» (slide 11). Il trasferimento ha ridotto le riserve straordinarie di 55.807, al netto dei 276.732 dell'utile 2020. Il docente parla di «riallineamento fiscale» ([00:17:44]), ma poi la chiama «una legge di rivalutazione» che ha consentito «di riallineare, cioè di aumentare il valore degli avviamenti e delle altre attività», iscrivendo una riserva di pari valore al netto dell'imposta sostitutiva ([00:20:21]). ⚠️ La slide dice «ai fini fiscali».
+**Opzione:** Per l'opzione di riallineamento ai fini fiscali dei valori di avviamenti e altre attività al 31 dicembre 2020, con l'onere di vincolare una specifica riserva.
+**Distrattori:**
+- Per l'opzione di riallineamento ai fini civilistici dei valori di avviamenti e altre attività al 31 dicembre 2020, con l'onere di vincolare una specifica riserva.
+- Riflette l'andamento del lavoro diretto della società e l'evoluzione dei rapporti riassicurativi.
+- A seguito dell'operatività sui piani di compenso basati su strumenti finanziari destinati al personale dirigente.
+
+**D:** ⚠️ Quando possono essere restituite le passività subordinate, secondo il docente della lezione 42?
+**R:** Sono prestiti obbligazionari emessi «che possono essere **restituiti solo una volta che siano estinte tutte le altre passività**, proprio per questo si chiamano subordinate» ([00:20:21]). Alcuni hanno le caratteristiche per essere computati fra gli elementi costitutivi del **margine di solvibilità**, come avviene per le banche, secondo la disciplina dell'IVASS che recepisce le direttive comunitarie di **Solvency 2** ([00:21:43]–[00:22:27]). Nella lezione 23 (slide 6) patrimonio netto e passività subordinate formano il margine di solvibilità.
+**Opzione:** Solo una volta che siano estinte tutte le altre passività.
+**Distrattori:**
+- Prima che siano estinte tutte le altre passività.
+- Quando le denunce di sinistri aumentano.
+- Gli interessi su prestiti subordinati, 46.229 migliaia.
+
+**D:** ⚠️ Perché le passività subordinate di UnipolSai sono diminuite di 641.689 migliaia di euro nel 2021?
+**R:** Con l'autorizzazione dell'Autorità di Vigilanza del 22 gennaio 2021 la compagnia ha **richiamato anticipatamente** due prestiti subordinati **ex Unipol Assicurazioni**: 300.000 emessi a giugno 2001, e 300.000 emessi a luglio 2003, il cui debito effettivo era di **261.689** dopo un riacquisto parziale di 38.311 a fine 2009. Il **23 luglio 2021** è stata poi rimborsata la terza tranche di **80.000** del finanziamento **Mediobanca** (slide 12). La somma, 300.000 + 261.689 + 80.000, fa 641.689: il saldo scende da 2.551.689 a **1.910.000**.
+**Opzione:** Per il richiamo anticipato di due prestiti ex Unipol Assicurazioni (300.000 e 261.689) e il rimborso di una tranche di 80.000 del finanziamento Mediobanca.
+**Distrattori:**
+- Per il richiamo anticipato di due prestiti ex Fondiaria-SAI (300.000 e 261.689) e il rimborso di una tranche di 80.000 del finanziamento Mediobanca.
+- 1.250.000 di prestiti obbligazionari ibridi, 500.000 di prestiti obbligazionari subordinati, 160.000 di finanziamenti subordinati.
+- 31.111,2 milioni: 30.528,0 quotati, 582,2 non quotati, 1,0 di obbligazioni convertibili.
+
+**D:** ⚠️ Come si compongono le passività subordinate di UnipolSai al 31 dicembre 2021 (1.910.000 migliaia di euro)?
+**R:** «*1.250.000 migliaia di euro di prestiti obbligazionari **ibridi**; 500.000 migliaia di euro di prestiti obbligazionari **subordinati**; 160.000 migliaia di euro di **finanziamenti subordinati***» (slide 11). ⚠️ La slide non dice quali siano gli ibridi. Per somma sono i due prestiti a durata indeterminata (750.000 del 2014 e 500.000 del 2020); il subordinato è il decennale del 2018, il finanziamento è quello di Mediobanca. Tutti sono computabili fra gli elementi costitutivi del margine di solvibilità (slide 11–12). Il docente: «prestiti obbligazionari ibridi e prestiti obbligazionari puramente subordinati o finanziamenti subordinati» ([00:20:21]).
+**Opzione:** 1.250.000 di prestiti obbligazionari ibridi, 500.000 di prestiti obbligazionari subordinati, 160.000 di finanziamenti subordinati.
+**Distrattori:**
+- 500.000 di prestiti obbligazionari ibridi, 1.250.000 di prestiti obbligazionari subordinati, 160.000 di finanziamenti subordinati.
+- 1.250.000 di prestiti obbligazionari ibridi, 160.000 di prestiti obbligazionari subordinati, 500.000 di finanziamenti subordinati.
+- 1.250.000 di prestiti obbligazionari senior, 500.000 di prestiti obbligazionari subordinati, 160.000 di finanziamenti subordinati.
+
+**D:** Quali sono le condizioni del prestito obbligazionario subordinato da 750.000 migliaia di euro emesso da UnipolSai il 18 giugno 2014?
+**R:** È a **durata indeterminata**, quotato al Luxembourg Stock Exchange, con opzione di rimborso anticipato dal decimo anno, previa autorizzazione dell'Autorità di Vigilanza. Paga il **5,75%** fisso per i primi 10 anni, poi una cedola variabile pari all'**Euribor 3 mesi + 518 basis points**. Ha un livello di subordinazione assimilabile al **Tier I** ed è soggetto alle misure transitorie di Solvency II; gli interessi di competenza 2021 sono 43.243 (slide 11). ⚠️ Il 6,375% con Mid-Swap 5 anni + 674,4 bp è il prestito del 27 ottobre 2020, **Restricted Tier I**; il 3,875% fisso è il decennale del 2018, **Tier II** (slide 11–12). ⚠️ Il docente dice il livello di subordinazione «pari a tier 1 o pari più spesso al tier 2» ([00:21:43]), ma fra i quattro strumenti in essere è Tier II solo il decennale del 2018. Tier II erano i due prestiti richiamati nel 2021 (slide 12).
+**Opzione:** Durata indeterminata; 5,75% fisso per i primi 10 anni, poi Euribor 3 mesi + 518 bp; subordinazione assimilabile al Tier I.
+**Distrattori:**
+- Durata decennale; 5,75% fisso per i primi 10 anni, poi Euribor 3 mesi + 518 bp; subordinazione assimilabile al Tier I.
+- Durata indeterminata; 6,375% fisso per i primi 10 anni, poi Mid-Swap 5 anni + 674,4 bp; Restricted Tier I.
+- Durata indeterminata; 5,75% fisso per i primi 10 anni, poi Euribor 3 mesi + 518 bp; subordinazione assimilabile al Tier II.
+
+**D:** ⚠️ Quali sono le riserve tecniche più significative dei rami danni, secondo il docente della lezione 42?
+**R:** «Le riserve tecniche ramo danni più significative sono le **riserve premi** e la **riserva sinistri**» ([00:22:57]). La riserva premi a sua volta si divide nella riserva per frazioni di premio, nella riserva per rischi in corso e nella riserva premi per le assicurazioni indirette. Nel prospetto della slide 13 la riserva sinistri (9.869.193) vale più del triplo della riserva premi (3.015.973), mentre le altre riserve dei rami danni, perequazione compresa, fanno 93.190. ⚠️ La riserva matematica e le somme da pagare sono riserve dei rami **vita** (lezione 43).
+**Opzione:** La riserva premi e la riserva sinistri.
+**Distrattori:**
+- La riserva premi e la riserva di perequazione.
+- La riserva matematica e la riserva per somme da pagare.
+
+**D:** ⚠️ Come è costituita la riserva premi dei rami danni di UnipolSai al 31 dicembre 2021 (3.015.973 migliaia di euro)?
+**R:** «*2.910.204 migliaia di euro di riserva premi per **frazioni di premio e riserve integrative**; 59.691 migliaia di euro di riserva premi **rischi in corso**; 46.078 migliaia di euro di riserva premi per le **assicurazioni indirette***» (slide 13). La riserva premi scende dello 0,5%. Nella tabella per ramo i rischi in corso sono solo dell'incendio (15.852) e della R.C. autoveicoli terrestri (43.839) (slide 14).
+**Opzione:** Frazioni di premio e riserve integrative 2.910.204; rischi in corso 59.691; assicurazioni indirette 46.078.
+**Distrattori:**
+- Frazioni di premio e riserve integrative 2.910.204; rischi in corso 46.078; assicurazioni indirette 59.691.
+- Frazioni di premio e riserve integrative 2.910.204; riserve di perequazione 59.691; assicurazioni indirette 46.078.
+- Frazioni di premio e riserve integrative 2.910.204; rischi in corso 59.691; riserva di senescenza 46.078.
+
+**D:** ⚠️ Come è calcolata la riserva per frazioni di premio di UnipolSai, secondo la slide 15 della lezione 42?
+**R:** «*La riserva per frazioni di premio è calcolata **per ciascun rischio** secondo il metodo "**pro rata temporis**", che prevede di **rinviare al periodo successivo** una quota di premio **proporzionale al tempo di copertura mancante alla scadenza della quietanza**.*» Poi si deducono i costi di acquisizione direttamente imputabili (slide 15). Il docente lo legge alla lettera ([00:22:57]). È il risconto passivo di cui parla il docente nella lezione 39 ([00:14:44]): il premio incassato copre anche il rischio dopo il 31 dicembre.
+**Opzione:** Per ciascun rischio con il metodo pro rata temporis, che rinvia al periodo successivo una quota di premio proporzionale al tempo di copertura mancante alla scadenza della quietanza.
+**Distrattori:**
+- Per ciascun rischio con il metodo pro rata temporis, che rinvia al periodo successivo una quota di premio proporzionale al tempo di copertura già trascorso alla chiusura dell'esercizio.
+- Solo se il rapporto sinistri a premi, nella media degli ultimi tre bilanci, supera il 100%: per ristabilire l'equilibrio fra riserve premi più rate a scadere e costi attesi.
+- Con l'aliquota forfettaria del 10% sui premi lordi 2021, pari a 4.903, dei contratti malattia che hanno le caratteristiche dell'art. 43.
+
+**D:** ⚠️ Quando UnipolSai accantona la riserva per rischi in corso, secondo la slide 15 della lezione 42?
+**R:** Per il rapporto sinistri a premi la Società ha considerato «*la **media** dei valori registrati negli **ultimi tre bilanci***». «***Solamente** nel caso in cui tale rapporto sia risultato **superiore a 100%** è stata accantonata una riserva per rischi in corso, pari alla somma che permette di ristabilire l'equilibrio fra le riserve premi più le rate a scadere e i costi attesi.*» Il calcolo segue l'art. 8 dell'allegato n. 15 al Regolamento ISVAP n. 22/2008 (**metodo empirico**); le rate a scadere sono la somma delle frazioni di premi non ancora emesse fino al compimento dell'annualità (slide 15). ⚠️ La slide 8 della lezione 40 parla invece del «*metodo semplificato*» del paragrafo 6. ⚠️ Il docente legge «solamente lì dove il rapporto sia risultato **al** 100%» ([00:24:47]): vale la slide, «superiore a 100%».
+**Opzione:** Solo se il rapporto sinistri a premi, nella media degli ultimi tre bilanci, supera il 100%: per ristabilire l'equilibrio fra riserve premi più rate a scadere e costi attesi.
+**Distrattori:**
+- Solo se il rapporto sinistri a premi, nella media degli ultimi cinque bilanci, supera il 100%: per ristabilire l'equilibrio fra riserve premi più rate a scadere e costi attesi.
+- Per ciascun rischio con il metodo pro rata temporis, che rinvia al periodo successivo una quota di premio proporzionale al tempo di copertura mancante alla scadenza della quietanza.
+- Alla variazione delle provvigioni da ammortizzare dell'attivo: danni −1,1 milioni, da 16,4 a 15,2; vita +2,8, da 60,3 a 63,0.
+
+**D:** ⚠️ In quali rami UnipolSai ha accantonato nel 2021 la riserva per rischi in corso?
+**R:** «*Sulla base di tali calcoli si è proceduto con l'accantonamento sui rami **R.C. Autoveicoli Terrestri** e **Incendio** unici rami dove la sinistralità attesa supera il valore della riserva premi incrementata delle rate a scadere*» (slide 15). Nella tabella per ramo i rischi in corso sono 43.839 per la R.C. autoveicoli terrestri e 15.852 per l'incendio, 59.691 in tutto (slide 14). Nella stessa riserva è accantonato anche lo sconto **#UnMesePerTe** sul rinnovo della R.C. Auto, un mese del premio non goduto, con un residuo di 43.839.
+**Opzione:** R.C. Autoveicoli Terrestri e Incendio, unici rami dove la sinistralità attesa supera la riserva premi più le rate a scadere.
+**Distrattori:**
+- R.C. Autoveicoli Terrestri e Corpi veicoli terrestri, unici rami dove la sinistralità attesa supera la riserva premi più le rate a scadere.
+- R.C. Generale e Incendio, unici rami dove la sinistralità attesa supera la riserva premi più le rate a scadere.
+- R.C. Autoveicoli Terrestri e Incendio, unici rami dove la sinistralità attesa è inferiore alla riserva premi più le rate a scadere.
+
+**D:** ⚠️ Come è calcolata la riserva di senescenza del lavoro diretto di UnipolSai, secondo la slide 16 della lezione 42?
+**R:** Dal calcolo sono esclusi i contratti di assicurazione contro le **malattie** del portafoglio italiano **non aventi le caratteristiche dell'art. 43** dell'allegato n. 15. Sui premi lordi 2021 del portafoglio rimanente, **4.903** migliaia di euro, si applica l'**aliquota forfettaria del 10%**: 490. L'aliquota è ritenuta sufficiente per la **bassa durata media contrattuale** delle polizze (**5 anni**) e perché non c'è alcun prodotto a «*vita intera*» di lunga durata (slide 16). Per la slide 9 della lezione 40 la senescenza copre l'aggravarsi del rischio al crescere dell'età degli assicurati. Il docente motiva il 10% con la «bassa durata media delle polizze», quinquennale, e con l'assenza di prodotti a vita intera ([00:26:24]).
+**Opzione:** Con l'aliquota forfettaria del 10% sui premi lordi 2021, pari a 4.903, dei contratti malattia che hanno le caratteristiche dell'art. 43.
+**Distrattori:**
+- Con l'aliquota forfettaria del 10% sui premi lordi 2021, pari a 4.903, dei contratti infortuni che hanno le caratteristiche dell'art. 43.
+- R.C. Autoveicoli Terrestri e Incendio, unici rami dove la sinistralità attesa supera la riserva premi più le rate a scadere.
+- Alla variazione delle provvigioni da ammortizzare dell'attivo: danni −1,1 milioni, da 16,4 a 15,2; vita +2,8, da 60,3 a 63,0.
+
+**D:** ⚠️ Che cosa si intende per senescenza, secondo il docente della lezione 42?
+**R:** «Per senescenza si intende l'**aumento della vita media degli assicurati** in relazione alle assicurazioni rami danni **malattie**»: «col passare del tempo la vita media degli assicurati aumenta e quindi la **probabilità di malattia aumenta** corrispondentemente», e per questo la riserva di senescenza viene aumentata ([00:24:47]). Per la slide 9 della lezione 40 le riserve di senescenza del ramo malattia sono «*destinate a coprire l'aggravarsi del rischio al crescere dell'età degli assicurati*». ⚠️ Poco dopo il docente parla di «malattie del ramo vita» ([00:26:24]): la malattia è il ramo 2 dei rami **danni** (slide 14).
+**Opzione:** L'aumento della vita media degli assicurati nelle assicurazioni malattia dei rami danni: con l'età cresce la probabilità di malattia.
+**Distrattori:**
+- L'aumento della vita media degli assicurati nelle assicurazioni infortuni dei rami danni: con l'età cresce la probabilità di infortunio.
+- A equilibrare l'andamento delle riserve dei rami rispetto a variazioni dovute a fatti esterni, per cui le percentuali di sinistrosità considerate all'emissione della polizza possono aumentare.
+- Risconti passivi, per la quota del premio incassato che copre il rischio dell'esercizio successivo.
+
+**D:** ⚠️ Quali sono le riserve integrative della riserva premi descritte nella slide 15 della lezione 42, con i loro importi?
+**R:** La riserva integrativa del **ramo cauzione**, 38.164 (artt. 10 e 11 dell'allegato n. 15); quella per i danni delle **calamità naturali** costituite da **terremoto, maremoto, eruzione vulcanica**, 319.967 (art. 16); quella dei danni della **grandine** (artt. 12 e 13), per cui «*non è stato necessario effettuare accantonamenti*»; quella del **ramo credito**, 10 (allegato n. 15-bis e D.M. 23 maggio 1981) (slide 15). ⚠️ La maggiore è quella delle calamità naturali, salita da 278.566. Il docente elenca le calamità come «terremoto, maremoto, eruzione e così via» ([00:22:57]), ma la slide chiude l'elenco con l'eruzione vulcanica.
+**Opzione:** Ramo cauzione 38.164; calamità naturali (terremoto, maremoto, eruzione vulcanica) 319.967; grandine, nessun accantonamento; ramo credito 10.
+**Distrattori:**
+- Ramo cauzione 319.967; calamità naturali (terremoto, maremoto, eruzione vulcanica) 38.164; grandine, nessun accantonamento; ramo credito 10.
+- Ramo cauzione 38.164; calamità naturali (terremoto, maremoto, eruzione vulcanica) 319.967; grandine 10; ramo credito, nessun accantonamento.
+- Ramo cauzione 38.164; calamità naturali (terremoto, maremoto, alluvione) 319.967; grandine, nessun accantonamento; ramo credito 10.
+
+**D:** ⚠️ Che cosa si deduce nel calcolo della riserva premi di UnipolSai, secondo la slide 15 della lezione 42?
+**R:** «*Ai fini del calcolo della riserva premi vengono poi dedotti i **costi di acquisizione direttamente imputabili**, calcolati in base alla percentuale di incidenza, rispetto ai premi lordi contabilizzati, delle voci di spesa relative a **provvigioni di acquisizione, sovrapprovvigioni e altre voci direttamente imputabili** sostenute nell'anno.*» (slide 15). ⚠️ Le **provvigioni di incasso** non sono costi di acquisizione: nella lezione 39 sono la voce d) delle spese di gestione.
+**Opzione:** I costi di acquisizione direttamente imputabili: provvigioni di acquisizione, sovrapprovvigioni e altre voci, in base alla loro incidenza sui premi lordi contabilizzati.
+**Distrattori:**
+- I costi di acquisizione direttamente imputabili: provvigioni di incasso, sovrapprovvigioni e altre voci, in base alla loro incidenza sui premi lordi contabilizzati.
+- Fra le altre passività dei debiti e altre passività: provvigioni per premi in corso di riscossione, 87,3 milioni.
+- Nel conto economico dell'esercizio in cui viene sostenuto.
+
 ## Lezione 43 — La Nota integrativa del bilancio della compagnia di assicurazioni. Le altre riserve tecniche e le altre informazioni di vigilanza
 
 **D:** ⚠️ Quando aumenta la riserva sinistri, secondo il test della lezione 43 (domanda 1)?
