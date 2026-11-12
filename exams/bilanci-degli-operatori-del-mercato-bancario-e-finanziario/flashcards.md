@@ -12832,3 +12832,255 @@
 **Distrattori:**
 - Quando per due esercizi successivi sono superati tutti e tre i livelli: 4 milioni di euro di totale attivo o passivo, 4 milioni di fatturato, 20 unità lavorative; per le assicurazioni la relazione di revisione è comunque obbligatoria.
 - A tutte le società, anche non assicurative; se non viene adempiuto, oltre a una sanzione viene ritirata l'erogazione pubblica.
+
+## Lezione 49 — Il bilancio della società di leasing. Informazioni introduttive
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi del contesto macroeconomico di riferimento, secondo il test della lezione 49 (domanda 1)?
+**R:** «**Sì**», secondo la chiave. Il secondo capitolo della relazione sulla gestione 2021 di BCC Lease è «*CONTESTO ECONOMICO E DI MERCATO*», dove si legge «*Sul piano macroeconomico il 2021 ha visto un forte recupero del PIL*» (slide 2). Il docente: «Viene poi fatto una rapida analisi del contesto economico di mercato, quindi sul piano macroeconomico…» ([00:05:23]). ⚠️ Nessuna fonte dice che il capitolo sia **obbligatorio**: le slide mostrano la relazione di una società, e l'unico appiglio è il titolo «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» (slide 15), che presuppone obbligatorie anche le parti precedenti. Il vicino è «a discrezione del compilatore del bilancio». «Solo per il bilancio consolidato» è smentito: è la relazione di un bilancio d'esercizio (slide 18). Distrattori del test: «solo per il bilancio consolidato», «a discrezione del compilatore del bilancio», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del compilatore del bilancio.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dell'attività commerciale, secondo il test della lezione 49 (domanda 2)?
+**R:** «**Sì**»: il terzo capitolo della relazione di BCC Lease è «*L'ATTIVITÁ COMMERCIALE*», con le domande raccolte (30.879 per 415 milioni), i contratti stipulati (21.878 per 259,3 milioni), le linee di business e le reti di vendita (slide 5–8). Già le considerazioni generali giudicano il 2021 «*sia per quanto riguarda l'attività commerciale che per quanto riguarda i risultati reddituali*» (slide 2). Il docente: «Attività commerciale, il flusso di nuove domande raccolte da BCC nel corso del 2021 è stato superiore a quello dello scorso anno» ([00:12:09]). Per l'art. 2428 c.c. la relazione informa sull'andamento della gestione «*nel suo complesso e nei vari settori in cui essa ha operato*» (lezione 04, slide 3). ⚠️ Il vicino è «a discrezione del compilatore del bilancio»: le slide non usano mai la parola «obbligatorio» per questo capitolo. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del compilatore del bilancio», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del compilatore del bilancio.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dei processi e dell'organizzazione, secondo il test della lezione 49 (domanda 3)?
+**R:** «**Sì**», secondo la chiave: il quarto capitolo della relazione di BCC Lease è «*PROCESSI E ORGANIZZAZIONE*», con la digitalizzazione dei processi, l'esternalizzazione della firma digitale, la gestione delle moratorie e i progetti della Capogruppo (slide 9–10). Il docente: «altro focus viene fatto sull'attività organizzativa» ([00:17:31]). ⚠️ Che il capitolo sia obbligatorio non è scritto: l'appiglio è il titolo «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» (slide 15). Il vicino è «a discrezione del revisore», che però non redige la relazione sulla gestione: la sottopone l'Organo Amministrativo (slide 18), e il revisore ne giudica la coerenza con il bilancio (lezione 47, slide 13). Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dell'ambiente di controllo, secondo il test della lezione 49 (domanda 4)?
+**R:** «**Sì**», secondo la chiave: il capitolo «*L'AMBIENTE DI CONTROLLO*» c'è davvero (slide 11–12). Descrive il modello accentrato delle Funzioni Aziendali di Controllo del Gruppo Bancario Cooperativo Iccrea, le aree CAE, CCO, CRO e CAMLO, l'esternalizzazione nella Capogruppo e il programma di lavoro delle funzioni nel 2021. Il docente: «L'ambiente di controllo è stato definito attraverso un modello di governo…» ([00:18:36]). ⚠️ Come per le altre domande, l'obbligo non è detto in nessuna fonte, salvo l'appiglio di «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» (slide 15). Il vicino è «a discrezione del revisore»: le funzioni di controllo sono della Capogruppo, e il revisore non redige la relazione sulla gestione. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dei risultati di esercizio, secondo il test della lezione 49 (domanda 5)?
+**R:** «**Sì**»: il capitolo «*I RISULTATI DI ESERCIZIO*» riporta crediti, interessi, margine di interesse, costi di struttura, cost-income, costo del rischio, crediti deteriorati e utile (slide 13–15). Il docente: «I risultati dell'esercizio sono dei risultati molto positivi» ([00:22:51]). È la chiave più solida delle cinque: per l'art. 2428 c.c. la relazione informa sull'andamento della gestione «*con particolare riguardo ai costi, ai ricavi, agli investimenti*» (lezione 04, slide 3). Il vicino è «a discrezione del revisore», che giudica la relazione ma non la redige (lezione 47, slide 13). Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ Come si sono organizzati i gruppi bancari per svolgere l'attività di leasing, secondo il docente della lezione 49?
+**R:** In Italia le società di leasing si sono sviluppate «soprattutto in connessione con le principali realtà bancarie», per facilitare e commercializzare questa modalità di finanziamento dell'acquisto di beni materiali o immateriali: «ciascun gruppo bancario ha sviluppato al proprio interno o una **specifica divisione** dedicata all'attività di leasing o una propria **società controllata normalmente al 100%** che abbia come oggetto e attività esclusiva lo svolgimento dell'attività di leasing» ([00:00:48]). BCC Lease è «la società di leasing del gruppo BCC, quindi del gruppo delle banche di credito cooperative» ([00:05:23]). Nella lezione 13 leasing e factoring svolti in una società separata sono un esempio di partecipazione strategica della banca (lezione 13, transcript [00:27:55]).
+**Opzione:** O una specifica divisione dedicata all'attività di leasing o una propria società controllata, normalmente al 100%, con oggetto e attività esclusiva il leasing.
+**Distrattori:**
+- O una specifica divisione dedicata all'attività di leasing o una società collegata, partecipata in minoranza, con oggetto e attività esclusiva il leasing.
+- Ai sensi dell'art. 153 del TUF, D.Lgs. 58/1998; il collegio ha operato anche quale Comitato per il Controllo Interno e la Revisione Contabile.
+
+**D:** ⚠️ Quanti e quali soggetti ci sono nel leasing operativo e nel leasing finanziario, secondo il docente della lezione 49?
+**R:** «Qui noi ci riferiamo al leasing finanziario e non al leasing operativo». Nel leasing **operativo** «abbiamo due soli soggetti, colui che prende, utilizza il bene e colui che costruisce o predispone il bene, e quindi vi è un rapporto diretto fra fornitore e utilizzatore»; nel leasing **finanziario** «abbiamo invece tre soggetti, e cioè il fornitore, l'utilizzatore e il terzo finanziatore», che «è appunto la società di leasing» ([00:00:48]). È lo schema della lezione 05 (slide 4): 2 soggetti nell'operativo, 3 nel finanziario. ⚠️ BCC Lease però è anche «*uno dei principali player di origine nazionale nella locazione operativa*» (slide 2), che vale il 25% del suo stipulato 2021 (slide 8).
+**Opzione:** Operativo: due soli soggetti, fornitore e utilizzatore, in rapporto diretto; finanziario: tre, fornitore, utilizzatore e terzo finanziatore, la società di leasing.
+**Distrattori:**
+- Operativo: tre soggetti, fornitore, utilizzatore e terzo finanziatore, la società di leasing; finanziario: due soli, fornitore e utilizzatore, in rapporto diretto.
+- Funzioni di Controllo: Chief Risk Officer, Audit, Compliance and Anti-Money Laundering; Funzioni Fondamentali: le Funzioni di Controllo più la Funzione Attuariale.
+
+**D:** ⚠️ Come si svolge lo schema del leasing finanziario, e che cosa comprende il canone, secondo il docente della lezione 49?
+**R:** L'utilizzatore intende acquistare un'immobilizzazione (un'autovettura, un autocarro, un impianto, una struttura materiale o anche un marchio) ma, «non avendo o non volendo impiegare immediatamente tutte le risorse necessarie», si rivolge a una società di leasing, «la quale acquista il bene dal fornitore e poi lo mette a disposizione dell'utilizzatore, il quale pagherà un canone alla società di leasing comprensivo di una parte di **quota capitale**, quindi di quota di restituzione del prestito, e di una parte di **quota interessi**, quindi dell'effettivo interesse che viene applicato al prestito» ([00:00:48]). È «un'attività prettamente finanziaria, perché sostanzialmente è un'attività di finanziamento dell'acquisto di un bene».
+**Opzione:** La società di leasing acquista il bene dal fornitore e lo mette a disposizione dell'utilizzatore, che le paga un canone comprensivo di una quota capitale e di una quota interessi.
+**Distrattori:**
+- Il fornitore acquista il bene dalla società di leasing e lo mette a disposizione dell'utilizzatore, che gli paga un canone comprensivo di una quota capitale e di una quota interessi.
+- L'insieme delle regole, delle procedure e delle strutture organizzative dirette a una effettiva ed efficace identificazione, misurazione, gestione e monitoraggio dei principali rischi, al fine di contribuire al successo sostenibile delle imprese.
+
+**D:** ⚠️ Chi utilizza il bene nel leasing finanziario, e chi ne ha la responsabilità di gestione e di eventuale perimento, secondo il docente della lezione 49?
+**R:** «Il bene non viene mai utilizzato dalla società di leasing ma entra immediatamente, sin dal primo momento, entra nella disponibilità del soggetto **utilizzatore**, il quale ne ha la responsabilità di gestione e di eventuale perimento o deperimento del bene stesso» ([00:00:48]). La società che acquista il bene lo mette «in immediata disposizione del soggetto». Nella lezione 05 il leasing finanziario trasferisce i rischi e i benefici connessi al bene (slide 4), e le perdite da risoluzione sono a carico del locatario (slide 7).
+**Opzione:** Mai la società di leasing: il bene entra sin dal primo momento nella disponibilità dell'utilizzatore, che ne ha la responsabilità di gestione e di eventuale perimento o deperimento.
+**Distrattori:**
+- La società di leasing fino al riscatto: solo allora il bene entra nella disponibilità dell'utilizzatore, che da quel momento ne ha la responsabilità di gestione e di perimento.
+- Un allegato obbligatorio al bilancio: non è parte del bilancio né un documento che lo costituisce.
+
+**D:** ⚠️ Da quando si è sviluppato il mercato del leasing, e perché è una forma di acquisto favorevole, secondo il docente della lezione 49?
+**R:** È «un mercato che a partire dagli **anni 80** del secolo scorso si è molto sviluppato», perché è una forma di acquisto di beni strumentali, materiali o immateriali, «molto favorevole in quanto consente un pagamento non immediato dell'intero importo ma un **pagamento dilazionato** nel tempo, normalmente 5, 6, 10, 12, 15 anni». La durata dipende dal tipo di bene: mobile o immobile, materiale o immateriale ([00:00:48]).
+**Opzione:** Dagli anni 80 del secolo scorso: consente un pagamento non immediato dell'intero importo ma dilazionato nel tempo, normalmente 5, 6, 10, 12, 15 anni, a seconda del bene.
+**Distrattori:**
+- Dagli anni 80 del secolo scorso: consente un pagamento non immediato dell'intero importo ma dilazionato nel tempo, sempre in 5 anni, qualunque sia il bene.
+- Il progetto di bilancio almeno 30 giorni prima, la relazione del collegio almeno 15 giorni prima.
+
+**D:** ⚠️ Quali sono, nell'ordine, i capitoli della relazione sulla gestione 2021 di BCC Lease presentata nella lezione 49?
+**R:** Il docente: «questa è la relazione sulla gestione del bilancio al 31-12-2021 della BCC Lease» ([00:05:23]). I titoli in maiuscolo sono, nell'ordine: «*CONSIDERAZIONI GENERALI*» e «*CONTESTO ECONOMICO E DI MERCATO*» (slide 2), «*L'ATTIVITÁ COMMERCIALE*» (slide 5), «*PROCESSI E ORGANIZZAZIONE*» (slide 9), «*LA FINANZA*» e «*L'AMBIENTE DI CONTROLLO*» (slide 11), «*I RISULTATI DI ESERCIZIO*» (slide 13), «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» (slide 15). Il test chiede di cinque: contesto macroeconomico, attività commerciale, processi e organizzazione, ambiente di controllo, risultati di esercizio, sempre con chiave «sì». ⚠️ Il giudizio del revisore sta nella sua relazione (lezione 48), non nella relazione sulla gestione.
+**Opzione:** Considerazioni generali; contesto economico e di mercato; l'attività commerciale; processi e organizzazione; la finanza; l'ambiente di controllo; i risultati di esercizio; le altre informazioni obbligatorie.
+**Distrattori:**
+- Considerazioni generali; contesto economico e di mercato; l'attività commerciale; processi e organizzazione; la finanza; l'ambiente di controllo; i risultati di esercizio; il giudizio della società di revisione.
+- Dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; ruolo del Presidente; dinamiche interne al Collegio.
+
+**D:** ⚠️ Che cosa sono lo «small ticket leasing» e l'approccio «vendor» di BCC Lease, secondo la slide 2 e il docente della lezione 49?
+**R:** Nel 2021 BCC Lease si è confermata «*come punto di riferimento nel Gruppo e sul mercato italiano per il segmento dello "small ticket leasing"*». È uno dei principali player nazionali «*nella locazione operativa e nel leasing strumentale di piccolo taglio, dove ricordiamo la Società opera già da anni con approccio "vendor" (orientando l'attività al supporto di rivenditori di beni strumentali)*» (slide 2). Il docente: lo small ticket leasing sono «quei leasing di **piccolo importo**, quindi prevalentemente rivolti a **artigiani, commercianti e piccole imprese**, che sono il tipico profilo del cliente delle BCC»; l'approccio vendor è «un approccio tramite **rivenditori** sostanzialmente» ([00:05:23]).
+**Opzione:** Small ticket: leasing di piccolo importo, rivolti prevalentemente ad artigiani, commercianti e piccole imprese; vendor: l'attività orientata al supporto di rivenditori di beni strumentali.
+**Distrattori:**
+- Small ticket: leasing di piccolo importo, rivolti prevalentemente a famiglie e privati consumatori; vendor: l'attività orientata al supporto di rivenditori di beni strumentali.
+- Le parti che hanno rapporti diretti o indiretti di affari, di parentela o in qualche modo di correlazione con gli amministratori.
+
+**D:** ⚠️ Che cos'è Assilea, e quanti nuovi investimenti ha finanziato il mercato del leasing nel 2021, secondo la lezione 49?
+**R:** Per il docente è «l'associazione delle società di leasing italiane», di cui la relazione riporta i dati dei contratti stipulati nel 2021 «a livello di intero mercato» ([00:12:09]). Nel 2021 il mercato del leasing e del noleggio a lungo termine «*ha finanziato oltre 612 mila nuovi investimenti, per un valore di circa 28,8 miliardi di euro*» e «*ha superato del 3,1% i livelli pre-pandemia*» (slide 2–3). Nella tabella dello stipulato Assilea gennaio-dicembre 2021 sono 612.565 contratti per 28.779.431 migliaia di euro, +13,6% nel numero e +25,6% nel valore (slide 4). ⚠️ I 10,2 miliardi sono i nuovi contratti del leasing finanziario strumentale (slide 3; 10.256.713 migliaia nella tabella).
+**Opzione:** L'associazione delle società di leasing italiane: nel 2021 il mercato ha finanziato oltre 612 mila nuovi investimenti, per circa 28,8 miliardi di euro.
+**Distrattori:**
+- L'associazione delle società di leasing italiane: nel 2021 il mercato ha finanziato oltre 612 mila nuovi investimenti, per circa 10,2 miliardi di euro.
+- Il dirigente responsabile di elaborare il bilancio dal punto di vista tecnico contabile: lo predispone e ne riferisce al collegio sindacale e al Consiglio di amministrazione, che lo recepisce con propria delibera.
+
+**D:** ⚠️ Come è andato il comparto automotive del mercato del leasing nel 2021, secondo la slide 3 della lezione 49?
+**R:** Nel comparto Automotive (+14,2% in numero e +18,6% in valore) «*si osserva una crescita superiore al 30% nel comparto veicoli industriali rispetto a una dinamica più contenuta del leasing di autovetture e ad una flessione nel leasing di veicoli commerciali*»; crescono anche i sottocomparti del noleggio a lungo termine di autovetture e di veicoli commerciali (slide 3). Nella tabella Assilea i veicoli industriali fanno +29,3% nel numero e +34,7% nel valore, le autovetture in leasing −0,8% e +2,7%, i veicoli commerciali in leasing −9,8% e −7,3% (slide 4). Per il docente è «uno dei comparti più significativi» per le società di leasing: i veicoli industriali sono autocarri, tir e camion, destinati al trasporto prevalentemente di merce; le autovetture sono le macchine destinate al trasporto di passeggeri ([00:12:09]).
+**Opzione:** Crescita superiore al 30% nei veicoli industriali, dinamica più contenuta nelle autovetture, flessione nei veicoli commerciali.
+**Distrattori:**
+- Crescita superiore al 30% nelle autovetture, dinamica più contenuta nei veicoli industriali, flessione nei veicoli commerciali.
+- Crescita superiore al 30% nei veicoli industriali, dinamica più contenuta nei veicoli commerciali, flessione nelle autovetture.
+
+**D:** ⚠️ Di quanto è calata la locazione operativa nel mercato del leasing 2021, e perché, secondo la lezione 49?
+**R:** «*Male la locazione operativa che cala del -10,5% nei valori e del -7,9% nei numeri, sfavorita dagli incentivi fiscali dati dal Credito di Imposta che portano le aziende a trovare maggior convenienza nel leasing finanziario*» (slide 3; strumentale operativo nella tabella Assilea, −7,9% nel numero e −10,5% nel valore, slide 4). Il Credito di Imposta, «*non essendo applicabile alla locazione operativa, ha reso il leasing finanziario più conveniente*» (slide 7). Il docente: non è applicabile alla locazione operativa «ma solo al leasing finanziario» ([00:15:05]). ⚠️ BCC Lease fa meglio del mercato: «*anche se poco – cresce negli importi*» (+2,0%, con −1,3% nel numero) e aumenta la sua quota di mercato nella locazione operativa (slide 6–7).
+**Opzione:** Del 10,5% nei valori e del 7,9% nei numeri, sfavorita dagli incentivi fiscali dati dal Credito di Imposta, non applicabile alla locazione operativa.
+**Distrattori:**
+- Del 7,9% nei valori e del 10,5% nei numeri, sfavorita dagli incentivi fiscali dati dal Credito di Imposta, non applicabile alla locazione operativa.
+- Perché rientra nei casi di esonero e di equivalenza dell'art. 6, comma 2: è una società figlia ricompresa nella Dichiarazione consolidata di carattere non finanziario redatta dalla Capogruppo Unipol.
+
+**D:** ⚠️ Che cos'è la legge Sabatini secondo il docente della lezione 49, e perché nel 2021 ha fatto perdere trattative a BCC Lease?
+**R:** Per il docente è una legge «rifinanziata dallo Stato anche per l'anno 2021», che prevede «un contributo da parte dello Stato alle imprese che acquistano **beni nuovi** o in leasing o in proprietà»: «va a coprire gli interessi» pagati su queste forme di acquisto, e rifinanziandola lo Stato ha incentivato il ricorso al leasing finanziario ([00:15:05]). Per la slide 7 nel 2021 il mercato vi ha fatto ampio ricorso, perché «*prevedendo un contributo unico è risultata molto conveniente anche per operazioni di importi sotto i 100 mila euro. Considerando che BCC Lease non è attualmente operativa con questa agevolazione, ciò ha portato la società a perdere alcune trattative a scapito della concorrenza*». Nel mercato gli incentivi della Nuova Sabatini hanno favorito il leasing finanziario strumentale (slide 3).
+**Opzione:** Un contributo dello Stato alle imprese che acquistano beni nuovi, in leasing o in proprietà, a copertura degli interessi; BCC Lease non è attualmente operativa con questa agevolazione.
+**Distrattori:**
+- Un contributo dello Stato alle imprese che acquistano beni nuovi, solo in proprietà, a copertura degli interessi; BCC Lease non è attualmente operativa con questa agevolazione.
+- Perché controllano l'operato del Consiglio di amministrazione: non vi possono essere parentele, rapporti di interesse, rapporti di lavoro dipendente o professionale.
+
+**D:** ⚠️ Su quali due linee di business è articolata l'attività di BCC Lease, secondo la slide 5 della lezione 49?
+**R:** «*Come noto l'attività della Società è articolata su due diverse linee di business: la prima, al servizio dei fornitori di beni strumentali (attività "vendor"), con i prodotti locazione operativa, locazione finanziaria e finanziamento finalizzato; la seconda è invece al servizio del canale BCC a complemento di quella di Iccrea BancaImpresa nel settore "small ticket", tutta concentrata nel leasing finanziario e in particolare nel leasing targato (leggero e solo parzialmente nel pesante) e nel leasing strumentale fino a 50K euro*». Completa il portafoglio il leasing targato verso il canale Agenti, attivo dal 2018 anche nel pesante: un'attività «*non tipicamente vendor*», evidenziata a parte (slide 5). Nella tabella dei contratti stipulati sono le sezioni «*Vendor strumentale*», «*BCC*» e «*Altri*» (slide 6).
+**Opzione:** La prima al servizio dei fornitori di beni strumentali (attività vendor), con locazione operativa, locazione finanziaria e finanziamento finalizzato; la seconda al servizio del canale BCC nel settore small ticket, tutta concentrata nel leasing finanziario e in particolare nel leasing targato (leggero e solo parzialmente nel pesante) e nel leasing strumentale fino a 50K euro.
+**Distrattori:**
+- La prima al servizio del canale BCC (attività vendor), con locazione operativa, locazione finanziaria e finanziamento finalizzato; la seconda al servizio dei fornitori di beni strumentali nel settore small ticket, tutta concentrata nel leasing finanziario e in particolare nel leasing targato (leggero e solo parzialmente nel pesante) e nel leasing strumentale fino a 50K euro.
+- L'audit il rispetto delle procedure interne; la compliance la rispondenza delle procedure alla legge; l'antiriciclaggio il rispetto della normativa antiriciclaggio.
+
+**D:** ⚠️ Che cos'è «Smatik» e che cosa permette, secondo la slide 5 e il docente della lezione 49?
+**R:** «*Le BCC operano attraverso il portale "Smatik", a cui oggi sono collegate le 128 BCC del Gruppo Bancario Cooperativo Iccrea con circa 500 addetti autorizzati all'accesso ed attivi. Lo strumento permette la segnalazione, la preparazione di preventivi, la gestione documentale di tutto il leasing targato (leggero e pesante), del piccolo leasing strumentale*» (slide 5). Per il docente «praticamente tutte le BCC possono prenotare un leasing per i propri clienti attraverso questo portale», accessibile da tutte le BCC aderenti al gruppo ([00:14:15]). ⚠️ Il segmento vendor viene invece originato prevalentemente da una rete di 92 Agenti in attività finanziaria, con 182 collaboratori e circa 4.600 fornitori convenzionati attivi (slide 5).
+**Opzione:** Il portale delle 128 BCC del Gruppo Bancario Cooperativo Iccrea: permette la segnalazione, la preparazione di preventivi, la gestione documentale di tutto il leasing targato (leggero e pesante), del piccolo leasing strumentale.
+**Distrattori:**
+- Il portale delle 128 BCC del Gruppo Bancario Cooperativo Iccrea: permette la segnalazione, la preparazione di preventivi, la gestione documentale della locazione operativa e del finanziamento finalizzato.
+- Modelli interni finalizzati a rendere impossibile commettere reati senza violare il modello di organizzazione, gestione e controllo.
+
+**D:** ⚠️ Come si compone in percentuale lo stipulato 2021 di BCC Lease, secondo il grafico della slide 8 della lezione 49?
+**R:** «*Composizione % stipulato 2021*»: **leasing strumentale 30%**, **locazione operativa 25%**, **finanziamento finalizzato 23%**, leasing targato leggero (Agenti + BCC) 12%, leasing strumentale BCC 6%, leasing targato pesante (Agenti + BCC) 4% (slide 8). Le quote tornano con gli importi della tabella dei contratti stipulati, 259.315 migliaia in tutto: 78.143, 64.850, 59.400, 25.693 + 6.663, 15.041, 4.027 + 5.497 (slide 6). Il docente commenta il grafico a torta ([00:15:05]). ⚠️ Gli **stipulati** sono 21.878 per 259,3 milioni, +22,2% sull'importo (slide 5–6); i nuovi contratti **entrati in decorrenza** sono 21.530 per 247,8 milioni contro 19.369 per 209,7, +18,2% (slide 8).
+**Opzione:** Leasing strumentale 30%, locazione operativa 25%, finanziamento finalizzato 23%, targato leggero 12%, strumentale BCC 6%, targato pesante 4%.
+**Distrattori:**
+- Leasing strumentale 30%, finanziamento finalizzato 25%, locazione operativa 23%, targato leggero 12%, strumentale BCC 6%, targato pesante 4%.
+- Locazione operativa 30%, leasing strumentale 25%, finanziamento finalizzato 23%, targato leggero 12%, strumentale BCC 6%, targato pesante 4%.
+
+**D:** ⚠️ Da chi è dominato il segmento del leasing targato, e quale formula sta prendendo piede, secondo la slide 7 della lezione 49?
+**R:** «*Si evidenzia che il targato, soprattutto il leggero, è un segmento dominato dalle Società di estrazione industriale (cosiddette captive di marca) e che in questi ultimi anni sta prendendo maggior piede il noleggio a lungo termine a scapito del leasing finanziario*» (slide 7). Per il docente, nel comparto automotive «il leasing è stato sostituito in parte con quest'altra formula del noleggio a lungo termine» ([00:12:09]). Nel targato leggero e pesante il canale BCC fa comunque meglio del mercato, anche per la peggiore performance del 2020 (slide 7).
+**Opzione:** Soprattutto il leggero, dalle società di estrazione industriale, le cosiddette captive di marca; sta prendendo maggior piede il noleggio a lungo termine a scapito del leasing finanziario.
+**Distrattori:**
+- Soprattutto il leggero, dalle società di estrazione industriale, le cosiddette captive di marca; sta prendendo maggior piede il leasing finanziario a scapito del noleggio a lungo termine.
+- A una società di revisione o a un revisore; ma il revisore unico normalmente non ha le risorse per organizzarlo da solo, quindi lo si assegna a una società di revisione.
+
+**D:** ⚠️ Con quale fornitore BCC Lease ha esternalizzato firma digitale e conservazione elettronica, e in linea con quali disposizioni, secondo la slide 9 della lezione 49?
+**R:** Nell'ultimo trimestre 2021 la società «*ha siglato l'accordo di esternalizzazione di Firma Digitale e Conservazione Elettronica a Norma col fornitore In.Te.S.A. S.p.A., in linea con le nuove disposizioni introdotte dal 34°aggiornamento della Circolare 285 della Banca d'Italia, che recepisce altresì gli Orientamenti EBA (Guidelines on outsourcing, EBA/GL/2019/02)*» (slide 9). Chiude la digitalizzazione avviata nel secondo semestre 2019 con la firma digitale dei contratti: finanziamento finalizzato nel primo semestre 2021, leasing finanziario strumentale nell'ultimo trimestre, e così l'intera gamma dei prodotti significativi del canale Vendor è paper-less (slide 9). Allo stesso aggiornamento sono adeguati tutti gli accordi di esternalizzazione di Funzioni Essenziali/Importanti (slide 10). ⚠️ La **Circolare 262** è quella del bilancio bancario (lezione 12, slide 3).
+**Opzione:** Con In.Te.S.A. S.p.A., in linea con il 34° aggiornamento della Circolare 285 della Banca d'Italia, che recepisce altresì gli Orientamenti EBA (Guidelines on outsourcing).
+**Distrattori:**
+- Con In.Te.S.A. S.p.A., in linea con il 34° aggiornamento della Circolare 262 della Banca d'Italia, che recepisce altresì gli Orientamenti EBA (Guidelines on outsourcing).
+- La Società di Revisione EY, ai sensi dell'art. 11 del Regolamento (UE) n. 537/2014: non sono emerse carenze significative sul sistema di controllo interno per l'informativa finanziaria e/o su quello contabile.
+
+**D:** ⚠️ Fino a quando sono durate le misure di sospensione dei pagamenti sui finanziamenti, e in base a quale decreto BCC Lease ha gestito le proroghe per le PMI, secondo la lezione 49?
+**R:** «*Ricordiamo che le misure di sospensione dei pagamenti sui finanziamenti rateali sono terminate il 31/12/2021*» (slide 2). Nel 2021 la società ha continuato a gestire il flusso legato alla moratoria, «*sia per quanto riguarda i rinnovi nel rispetto della legge di bilancio 2021 e delle proroghe per le PMI ai sensi dell'art. 16 del Decreto Legge 25 maggio 2021 n. 73 – "D.L. Sostegni Bis"*», sia per il recupero crediti (slide 9). Per il docente il decreto rinnovava la moratoria, «cioè la possibilità per le imprese di non pagare le rate in scadenza, anche se relative a leasing finanziari», perché il pagamento non togliesse alle imprese le risorse per sopravvivere; le moratorie «sono arrivate fino al 31-12-2021 e poi non sono state più rinnovate» ([00:17:31]; anche [00:07:47]). Al 31.12.2021 le moratorie approvate in essere sono 1.818 per 29.895 migliaia di esposizione lorda, il 34% del totale (slide 10).
+**Opzione:** Fino al 31/12/2021; le proroghe per le PMI ai sensi dell'art. 16 del D.L. 25 maggio 2021 n. 73, il D.L. Sostegni Bis.
+**Distrattori:**
+- Fino al 30/06/2021; le proroghe per le PMI ai sensi dell'art. 16 del D.L. 25 maggio 2021 n. 73, il D.L. Sostegni Bis.
+- L'antiriciclaggio il D.Lgs. 21 novembre 2007 n. 231; il modello di organizzazione, gestione e controllo il D.Lgs. 8 giugno 2001 n. 231.
+
+**D:** ⚠️ Quali aree ha costituito il Gruppo Bancario Cooperativo Iccrea per le Funzioni Aziendali di Controllo, e per quale funzione ciascuna, secondo la slide 11 della lezione 49?
+**R:** «*In particolare, sono costituite le seguenti Aree: area Chief Audit Executive (CAE) per la Funzione di revisione interna (Internal Audit); area Chief Compliance Officer (CCO) per la Funzione di conformità alle norme (Compliance); area Chief Risk Officer (CRO) per la Funzione di controllo dei rischi (Risk Management); area Chief AML Officer (CAMLO) per la Funzione Antiriciclaggio (Anti Money Laundering)*» (slide 11). Il docente le ripete: AML «sarebbe anti money laundering» ([00:18:36]). ⚠️ In UnipolSai le «*Funzioni di Controllo*» erano il Chief Risk Officer, l'Audit e una sola Funzione Compliance and Anti-Money Laundering (lezione 47, slide 3); qui compliance e antiriciclaggio sono aree distinte.
+**Opzione:** CAE la revisione interna, CCO la conformità alle norme, CRO il controllo dei rischi, CAMLO l'antiriciclaggio.
+**Distrattori:**
+- CAE la conformità alle norme, CCO la revisione interna, CRO il controllo dei rischi, CAMLO l'antiriciclaggio.
+- CAE la revisione interna, CCO la conformità alle norme, CRO l'antiriciclaggio, CAMLO il controllo dei rischi.
+
+**D:** ⚠️ Alle dipendenze di chi sono collocate le Funzioni Aziendali di Controllo del Gruppo, e come è stato completato nel 2021 il loro accentramento per BCC Lease, secondo la slide 11 della lezione 49?
+**R:** «*Il Gruppo Bancario Cooperativo Iccrea ha definito un modello di governo delle Funzioni Aziendali di Controllo accentrato*»: la Capogruppo Iccrea Banca ne disciplina i criteri di funzionamento e le principali attribuzioni, e ne definisce le interrelazioni con gli Organi Aziendali. Le FAC sono «*dotate di autonomia e indipendenza, e collocate alle dirette dipendenze del Consiglio di Amministrazione della Capogruppo*». «*Nel corso del 2021 è stato completato l'accentramento delle Funzioni Aziendali di Controllo di BCC Lease, mediante l'esternalizzazione nella Capogruppo, disciplinata per il tramite di appositi accordi di esternalizzazione*» (slide 11). Per il docente BCC Lease «non ha propri organi interni»: le funzioni le sono garantite dalla capogruppo ([00:18:36]).
+**Opzione:** Alle dirette dipendenze del Consiglio di Amministrazione della Capogruppo; l'accentramento è avvenuto mediante l'esternalizzazione nella Capogruppo, con appositi accordi di esternalizzazione.
+**Distrattori:**
+- Alle dirette dipendenze del Consiglio di Amministrazione di BCC Lease; l'accentramento è avvenuto mediante l'esternalizzazione nella Capogruppo, con appositi accordi di esternalizzazione.
+- In particolare: il conflitto Russia-Ucraina attualmente in corso; la risoluzione dell'accordo con Intesa Sanpaolo S.p.A.; il rimborso anticipato del finanziamento erogato da UnipolSai a Unipol con scadenza 2024.
+
+**D:** ⚠️ Perché le funzioni di controllo e il DPO delle società del Gruppo Iccrea sono esternalizzati nella capogruppo, secondo il docente della lezione 49?
+**R:** «Ovviamente questa esternalizzazione è fatta per garantire una maggiore **economicità di gestione**, perché è chiaro che se io in ogni società controllata dovessi avere un responsabile compliance, un responsabile audit, un responsabile risk officer, un responsabile anti money laundering, un responsabile dei dati della privacy, è chiaro che dovrei replicare il costo di tutte queste funzioni per ogni società». La capogruppo ha creato aree che svolgono queste funzioni in tutte le società controllate, «come delle divisioni interne»: «c'è un unico gruppo, un unico team che si occupa di ciascuna funzione di controllo e la svolge presso tutte le società controllate» ([00:18:36]). Per la slide 12 il DPO (Data Privacy Officer) «*è esternalizzato nella Capogruppo, che si interfaccia con BCC Lease tramite il referente interno del DPO, individuato nella Società*».
+**Opzione:** Per una maggiore economicità di gestione: altrimenti il costo di ciascuna funzione andrebbe replicato in ogni società controllata, mentre un unico team la svolge presso tutte.
+**Distrattori:**
+- Per una maggiore economicità di gestione: il costo di ciascuna funzione viene ripartito fra le società controllate, ognuna delle quali mantiene un proprio team.
+- Perché una parte della relazione prescinde dal bilancio e riguarda le scelte e le modalità di gestione del Consiglio di amministrazione; per perfezionarla serve il progetto di bilancio.
+
+**D:** ⚠️ Che cosa hanno riguardato le verifiche pianificate della Funzione di Conformità di BCC Lease nel 2021, e che cosa sono le sue attività ex ante, secondo la slide 12 della lezione 49?
+**R:** «*Per la Funzione di Conformità, sono state completate le verifiche pianificate (attività ex post), che hanno riguardato la normativa Antiusura, la Trasparenza, la Product Governance (c.d. POG) e le polizze assicurative abbinate ai finanziamenti; si evidenzia che nel corso del 2021 la Funzione è stata inoltre coinvolta nelle consuete attività di supporto e consulenza (attività ex ante)*» (slide 12). ⚠️ Le verifiche dell'Internal Audit hanno riguardato invece le esternalizzazioni, il processo istruttorio del credito e, in materia di antiriciclaggio, il processo di individuazione delle operazioni sospette (slide 12).
+**Opzione:** La normativa Antiusura, la Trasparenza, la Product Governance (POG) e le polizze assicurative abbinate ai finanziamenti; ex ante, le attività di supporto e consulenza.
+**Distrattori:**
+- La normativa Antiusura, la Trasparenza, la Product Governance (POG) e il processo di individuazione delle operazioni sospette; ex ante, le attività di supporto e consulenza.
+- Ai sensi dell'art. 154-ter del TUF e del Regolamento IVASS n. 7 del 13 luglio 2007, secondo i principi contabili internazionali IAS/IFRS.
+
+**D:** ⚠️ Come sono variati gli interessi attivi, gli interessi passivi e il margine di interesse di BCC Lease nel 2021, secondo la slide 13 della lezione 49?
+**R:** Gli interessi attivi sono 27.831 mila euro contro 26.753 del 2020: «*un incremento pari al 4% rispetto al 2020 in linea con la crescita degli impieghi*». Gli interessi passivi calano a 4.016 mila da 5.097, −21,2%, e riflettono «*il calo delle condizioni della provvista iniziato a metà 2019*». «*Il margine di interesse quindi per effetto di entrambe le dinamiche cresce del 10%, passando dai 21.656 mila euro del 2020 agli attuali 23.815 mila euro*» (slide 13). Il docente arrotonda: interessi «pari a 27 milioni di euro contro i 26», +4% «in linea con la crescita degli impieghi, cioè con la crescita dei prestiti per leasing» ([00:22:51]).
+**Opzione:** Interessi attivi +4%, interessi passivi −21,2%: il margine di interesse cresce del 10%, da 21.656 a 23.815 mila euro.
+**Distrattori:**
+- Interessi attivi +21,2%, interessi passivi −4%: il margine di interesse cresce del 10%, da 21.656 a 23.815 mila euro.
+- Interessi attivi +4%, interessi passivi −21,2%: il margine di interesse cresce del 12,9%, da 21.656 a 23.815 mila euro.
+
+**D:** ⚠️ Come è calcolato il cost-income gestionale di BCC Lease, e quanto vale nel 2021, secondo la slide 14 della lezione 49?
+**R:** «*Il cost-income gestionale (calcolato inserendo nell'"income" anche il saldo "altri oneri e proventi di gestione") è sostanzialmente stabile rispetto all'anno precedente attestandosi attorno al 36%*» (slide 14). Per il docente è «il calcolo dell'incidenza dei costi», «intorno al 36%» ([00:23:40]). Il saldo «*Altri oneri e proventi di gestione*» è positivo per 5.984 mila euro, e i costi di struttura sono 10.499 mila, +12,9% (slide 13). Nella lezione 21 il cost to income è il rapporto fra costi operativi e margine di intermediazione (CO/MINTM), un indice di efficienza operativa (slide 3).
+**Opzione:** Inserendo nell'income anche il saldo altri oneri e proventi di gestione: è sostanzialmente stabile, attorno al 36%.
+**Distrattori:**
+- Inserendo fra i costi anche il saldo altri oneri e proventi di gestione: è sostanzialmente stabile, attorno al 36%.
+- Inserendo nell'income anche il saldo altri oneri e proventi di gestione: è in forte calo, attorno al 26%.
+
+**D:** ⚠️ Quanto vale il costo del rischio 2021 di BCC Lease, e come si scompone, secondo la slide 14 della lezione 49?
+**R:** «*Il costo del rischio dell'anno è pari a 4.391 mila euro e risulta inferiore rispetto all'anno precedente del 33,7% (dove era stato pari a 6.628 mila euro)*». Si scompone in **3.548** mila di passaggi a perdita e minusvalenze su cespiti relativi a posizioni per cui erano state effettuate tutte le azioni di recupero possibili, **2.016** mila di nuovi accantonamenti sul fondo generico relativo a crediti in bonis (l'ECL sale a 8,3 milioni, da 6,3 a dicembre 2020 e 3,2 a dicembre 2019) e una differenza di **1.172** mila riferita alla ripresa nelle coperture specifiche (slide 14). Il docente: «pari a 4 milioni di euro e risulta inferiore addirittura del 33% rispetto all'anno precedente» ([00:23:40]).
+**Opzione:** 4.391 mila euro, il 33,7% in meno del 2020: 3.548 di passaggi a perdita e minusvalenze, 2.016 di accantonamenti sui crediti in bonis, 1.172 di ripresa sulle coperture specifiche.
+**Distrattori:**
+- 4.391 mila euro, il 33,7% in meno del 2020: 2.016 di passaggi a perdita e minusvalenze, 3.548 di accantonamenti sui crediti in bonis, 1.172 di ripresa sulle coperture specifiche.
+- Obbligatoria; nel 2021 il collegio ha partecipato alle 8 riunioni del Consiglio di Amministrazione.
+
+**D:** ⚠️ Quali paragrafi seguono il titolo «Le altre informazioni obbligatorie» nella relazione sulla gestione di BCC Lease, secondo le slide 15–18 della lezione 49?
+**R:** Sotto «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» la relazione riporta «*I progetti in corso*» («*Non sussistono progetti rilevanti in corso*»), «*Debiti e crediti*» verso la controllante, con rinvio alla Nota Integrativa, «*Numero e valore nominale delle azioni proprie o possedute*» e «*Numero e valore nominale delle azioni acquisite o alienate*» (nessuna) ed «*Eventi successivi alla data di riferimento del bilancio*» (slide 15). Seguono «*Evoluzione prevedibile della gestione*» (slide 16–17), «*Continuità Aziendale*» e la «*Proposta di delibera*» (slide 18). Il docente li scorre tutti ([00:24:02]–[00:26:52]). ⚠️ «*Altre*» presuppone che anche i capitoli precedenti siano informazioni obbligatorie: è l'unico appiglio delle slide per le chiavi «sì» del test.
+**Opzione:** I progetti in corso; debiti e crediti; numero e valore nominale delle azioni proprie o possedute; numero e valore nominale delle azioni acquisite o alienate; eventi successivi alla data di riferimento del bilancio; evoluzione prevedibile della gestione; continuità aziendale; proposta di delibera.
+**Distrattori:**
+- I procedimenti contenziosi in corso; debiti e crediti; numero e valore nominale delle azioni proprie o possedute; numero e valore nominale delle azioni acquisite o alienate; eventi successivi alla data di riferimento del bilancio; evoluzione prevedibile della gestione; continuità aziendale; proposta di delibera.
+- Il riciclaggio, l'usura e il finanziamento al terrorismo.
+
+**D:** ⚠️ Come qualifica la relazione sulla gestione di BCC Lease gli accadimenti legati al conflitto fra Russia e Ucraina, e perché per il docente sono eventi successivi, secondo la lezione 49?
+**R:** «*Nessun altro evento di rilievo si è verificato successivamente alla data di riferimento del bilancio tale da poter modificare in maniera significativa i valori ed i risultati esposti. Per quanto riguarda i recenti accadimenti legati al conflitto in corso tra Russia ed Ucrains, si ritengono non "adjusting" ai fini delle risultanze del presente bilancio*» (slide 15). Per il docente non adjusting vuol dire «non incidenti ai fini del presente bilancio»: la relazione è di una data intorno a marzo 2022, con la guerra iniziata da un mese circa ([00:24:02]). La guerra «è iniziata il 24 febbraio del 2022» ed è «un evento successivo a quello a cui si riferisce il bilancio», che arriva al 31 dicembre 2021 ([00:07:47]–[00:11:02]).
+**Opzione:** Non adjusting ai fini delle risultanze del presente bilancio, cioè non incidenti: la guerra è iniziata il 24 febbraio 2022, dopo la data di riferimento del 31 dicembre 2021.
+**Distrattori:**
+- Adjusting ai fini delle risultanze del presente bilancio, cioè incidenti: la guerra è iniziata il 24 febbraio 2022, dopo la data di riferimento del 31 dicembre 2021.
+- Il revisore un giudizio sulla coerenza della Relazione sulla Gestione con il Bilancio di esercizio e sulla sua conformità alle norme di legge; il collegio la ritiene esaustiva.
+
+**D:** ⚠️ Qual è il principale canale di trasmissione degli effetti del conflitto fra Russia e Ucraina, secondo l'evoluzione prevedibile della gestione della slide 16 della lezione 49?
+**R:** «*A riguardo, il principale canale di trasmissione è rappresentato dall'aumento dei prezzi dei beni energetici (gas naturale e petrolio), di alcune materie prime agricole (ad esempio, il grano esportato da Russia e Ucraina) e industriali (come l'alluminio)*», con pressioni al rialzo dell'inflazione al consumo mondiale «*che potrebbe sforare il 6% quest'anno, posticipando l'atteso rallentamento della stessa al 2023*». Altri canali spaziano dalle relazioni commerciali al canale bancario-finanziario, alla fiducia degli operatori. L'area dell'euro è esposta soprattutto tramite il canale energetico e commerciale, l'Italia anche per l'elevata dipendenza dall'importazione di gas russo (slide 16). Per il docente l'inflazione, intorno all'1% o sotto nel 2021, a fine 2022 si attesta fra il 9 e il 10% ([00:11:02]). ⚠️ La carenza di componentistica, come i chip per l'automotive, è uno dei condizionamenti delle previsioni del 2021 (slide 2).
+**Opzione:** L'aumento dei prezzi dei beni energetici (gas naturale e petrolio), di alcune materie prime agricole (ad esempio, il grano) e industriali (come l'alluminio).
+**Distrattori:**
+- L'aumento dei prezzi dei beni energetici (gas naturale e petrolio), di alcune materie prime agricole (ad esempio, il grano) e la carenza di microchip per il settore automotive.
+- L'assenza di operazioni infragruppo e/o con parti correlate atipiche o inusuali che possano suscitare dubbi in merito alla correttezza ed alla completezza dell'informazione, ai conflitti d'interesse ed alla salvaguardia del patrimonio aziendale.
+
+**D:** ⚠️ Quale crescita del PIL 2021 prevedono i dati preliminari, dopo la caduta del 2020, secondo la slide 2 e il docente della lezione 49?
+**R:** «*Sul piano macroeconomico il 2021 ha visto un forte recupero del PIL grazie al favorevole effetto-confronto rispetto alla caduta registrata nell'anno precedente (-9%)*»: i dati preliminari prevedono una crescita del PIL 2021 pari al **6,3%**, con il ritorno ai livelli di produzione pre-pandemici nel corso del 2022 (slide 2). Per il docente il recupero è stato completato nel 2022, con un PIL «intorno al 3,5, 3,4»: insieme circa un 10%, «grosso modo» quanto perso nel 2020, e sommando i due anni «si è più che recuperato il PIL perso nel corso dell'anno precedente» ([00:07:47]). La disoccupazione resta «*ancora stabile su livelli elevati (poco sotto al 10%)*» (slide 2).
+**Opzione:** Il 6,3%, dopo il −9% del 2020; per il docente con il 3,4-3,5% del 2022 si è più che recuperato il PIL perso.
+**Distrattori:**
+- Il 9%, dopo il −6,3% del 2020; per il docente con il 3,4-3,5% del 2022 si è più che recuperato il PIL perso.
+- Il 6,3%, dopo il −9% del 2020; per il docente con il 3,4-3,5% del 2022 il PIL perso non è ancora stato recuperato.
+
+**D:** ⚠️ Da chi è confermato il presupposto della continuità aziendale nel bilancio d'esercizio di BCC Lease, secondo la slide 18 della lezione 49?
+**R:** «*Il presente bilancio d'esercizio è stato redatto in base al presupposto della continuità aziendale che è confermato dagli amministratori, stante le prospettive economico finanziarie della Società*» (slide 18). Per il docente «la continuità aziendale è confermata» ([00:26:25]). Nella lezione 02 l'impresa in funzionamento è uno dei due assunti dei principi internazionali, e chi redige il bilancio la valuta volta per volta (lezione 02, slide 7).
+**Opzione:** Dagli amministratori, stante le prospettive economico finanziarie della Società.
+**Distrattori:**
+- Dalla società di revisione, stante le prospettive economico finanziarie della Società.
+- Dal collegio sindacale, stante le prospettive economico finanziarie della Società.
+
+**D:** ⚠️ Come propone di destinare l'utile netto 2021 la proposta di delibera di BCC Lease, e come lo spiega il docente della lezione 49?
+**R:** La proposta si rivolge al «*Signor Socio*» e sottopone il bilancio «*chiuso con Euro 10.757.695 di utile netto*»: si propone di «*Accantonare a riserva legale ordinaria il 10%*» per 1.075.769 euro e di «*Rinviare a nuovo l'utile d'esercizio*» per 9.681.926 euro (slide 18). Il docente arrotonda, «un milione da accantonare a riserva legale e 9 milioni da rinviare a nuovo», e aggiunge che «le BCC, essendo delle cooperative, normalmente non prevedono una distribuzione a favore dei singoli soci» ([00:26:25]–[00:26:52]). ⚠️ La slide motiva la proposta con lo scenario: «*Nell'attuale scenario macroeconomico in cu – oltre alle conseguenze della pandemia da Covid-19 - si stanno manifestando inaspettati eventi di natura geopolitica*», e si propone «*nelle more di poter valutare con maggior grado di confidenza le possibili conseguenze*». Non parla di cooperative, e si rivolge a un solo socio. Nella lezione 11 il docente parla di un 5% degli utili accantonato a riserva legale.
+**Opzione:** Accantonare a riserva legale ordinaria il 10%, per 1.075.769 euro, e rinviare a nuovo l'utile d'esercizio, per 9.681.926 euro.
+**Distrattori:**
+- Accantonare a riserva legale ordinaria il 10%, per 1.075.769 euro, e distribuire ai soci l'utile residuo, per 9.681.926 euro.
+- Ne ha verificato la compatibilità con i divieti dell'art. 5 del Regolamento (UE) n. 537/2014 e l'assenza di potenziali rischi per l'indipendenza del revisore, e ne ha approvato il conferimento.
