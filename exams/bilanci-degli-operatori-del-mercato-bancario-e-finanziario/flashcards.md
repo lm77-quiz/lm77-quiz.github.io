@@ -13084,3 +13084,284 @@
 **Distrattori:**
 - Accantonare a riserva legale ordinaria il 10%, per 1.075.769 euro, e distribuire ai soci l'utile residuo, per 9.681.926 euro.
 - Ne ha verificato la compatibilità con i divieti dell'art. 5 del Regolamento (UE) n. 537/2014 e l'assenza di potenziali rischi per l'indipendenza del revisore, e ne ha approvato il conferimento.
+
+## Lezione 50 — Il bilancio della società di leasing. Gli schemi contabili
+
+**D:** ⚠️ Dove sono inseriti i crediti verso le banche, secondo il test della lezione 50 (domanda 1)?
+**R:** **Nell'attivo**: sono la sottovoce **a)** della voce **40** dello stato patrimoniale attivo di BCC Lease, «*Attività finanziarie valutate al costo ammortizzato*», 1.661.998 euro al 31/12/2021 (slide 2). Il docente: la voce 40 è «sottoarticolata, così come avviene per le banche, in crediti verso banche, crediti verso società finanziarie e crediti verso la clientela» ([00:00:41]). ⚠️ La domanda nomina la sottovoce, non la voce. Il vicino è «nel passivo», dove stanno i **debiti** verso Iccrea Banca, 458,6 milioni nella voce 10 (slide 3). Nel test 26 (domanda 4) la stessa sottovoce era chiesta a livello di voce: la 40, al costo ammortizzato. Distrattori del test: «nel passivo», «nel patrimonio netto», «nel conto economico».
+**Opzione:** Nell'attivo.
+**Distrattori:**
+- Nel passivo.
+- Nel patrimonio netto.
+- Nel conto economico.
+
+**D:** ⚠️ Dove sono inseriti i crediti verso società finanziarie, secondo il test della lezione 50 (domanda 2)?
+**R:** **Nell'attivo**: sono la sottovoce **b)** della voce **40**, «*Attività finanziarie valutate al costo ammortizzato*», 1.423.228 euro al 31/12/2021 (slide 2), fra i crediti verso banche (a) e i crediti verso clientela, che la slide etichetta di nuovo «b)». Il docente li nomina fra le tre sottovoci della voce 40 ([00:00:41]). ⚠️ Nello schema di Intesa Sanpaolo la voce 40 ha due sottovoci soltanto, crediti verso banche e verso clientela (lezione 26, slide 2): i crediti verso società finanziarie sono la sottovoce in più dello schema di BCC Lease. Il vicino è «nel passivo», con i debiti della voce 10. Distrattori del test: «nel passivo», «nel patrimonio netto», «nel conto economico».
+**Opzione:** Nell'attivo.
+**Distrattori:**
+- Nel passivo.
+- Nel patrimonio netto.
+- Nel conto economico.
+
+**D:** ⚠️ Dove sono inserite le attività fiscali, secondo il test della lezione 50 (domanda 3)?
+**R:** **Nell'attivo**: sono la voce **100** dello stato patrimoniale attivo, 4.151.045 euro, con a) correnti 96.208 e b) anticipate 4.054.837 (slide 2). Il docente: «molto rilevanti sono le attività fiscali, soprattutto le attività fiscali anticipate, su cui poi faremo un focus specifico» ([00:05:32]). ⚠️ Qui il nome aiuta, «attività» porta all'attivo. Il vicino è «nel passivo», dove stanno le **passività** fiscali, voce 60, 552.546 euro, correnti e differite (slide 3): per il docente imposte da versare e imposte da versare negli anni successivi ([00:06:58]). Distrattori del test: «nel passivo», «nel patrimonio netto», «nel conto economico».
+**Opzione:** Nell'attivo.
+**Distrattori:**
+- Nel passivo.
+- Nel patrimonio netto.
+- Nel conto economico.
+
+**D:** ⚠️ Dove sono inserite le spese amministrative, secondo il test della lezione 50 (domanda 4)?
+**R:** **Nel conto economico**: sono la voce **160**, (10.499.763) euro, con a) spese per il personale (2.989.064) e b) altre spese amministrative (7.510.699) (slide 4). Sono uno dei costi coperti dal margine di interesse: «le spese amministrative, cioè le spese del personale, le altre spese amministrative» ([00:06:58]). Nella relazione sulla gestione sono i «costi di struttura» di 10.499 mila euro, +12,9% (lezione 49, slide 13). Il vicino più plausibile è «nel passivo», per chi confonde il costo con il debito per spese ancora da pagare. Distrattori del test: «nel passivo», «nell'attivo», «nel patrimonio netto».
+**Opzione:** Nel conto economico.
+**Distrattori:**
+- Nel passivo.
+- Nell'attivo.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Dove sono inserite le commissioni passive, secondo il test della lezione 50 (domanda 5)?
+**R:** **Nel conto economico**: sono la voce **50**, (1.152.605) euro, che con le commissioni attive (voce 40, 716.963) dà le commissioni nette (voce 60), negative per 435.642 euro (slide 4). ⚠️ È la **trappola lessicale sul nome**: «passive» indica un costo, come gli interessi passivi della voce 20, e non una voce del passivo. Il vicino è proprio «nel passivo». ⚠️ Il docente non nomina mai le commissioni: la chiave regge sulla sola slide 4. Distrattori del test: «nel passivo», «nell'attivo», «nel patrimonio netto».
+**Opzione:** Nel conto economico.
+**Distrattori:**
+- Nel passivo.
+- Nell'attivo.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Quali intermediari sono tenuti a redigere il bilancio secondo i principi contabili internazionali, e quando lo sono le compagnie di assicurazione, secondo il docente della lezione 50?
+**R:** «Anche le società di leasing, così come le banche, a partire dall'esercizio 2005, sono tenute a redigere i propri bilanci in adozione dei principi contabili internazionali». Vi sono tenute anche le società di factoring: «banche, leasing, factoring e così via, sono tutte tenute». Le compagnie di assicurazione invece «non sono tenute a utilizzare i principi contabili internazionali a meno che non redigano il bilancio consolidato, nel qual caso per la redazione del bilancio consolidato sono tenute» ad adottarli, «ovvero non siano quotate in borsa». Quindi «una società di assicurazioni non quotata in borsa e che predispone il proprio bilancio di esercizio non è tenuta» ([00:00:41]). È la regola del docente della lezione 23 ([00:16:05]–[00:17:22]). BCC Lease applica il D.Lgs. 38/2005 (slide 9).
+**Opzione:** Banche, società di leasing e di factoring, dall'esercizio 2005; le compagnie di assicurazione solo per il bilancio consolidato o se quotate in borsa.
+**Distrattori:**
+- Banche, società di leasing e di factoring solo per il bilancio consolidato o se quotate in borsa; le compagnie di assicurazione dall'esercizio 2005.
+- Quando per due esercizi successivi è superato uno di tre livelli: 4 milioni di euro di totale attivo o passivo, 4 milioni di fatturato, 20 unità lavorative; per le assicurazioni la relazione di revisione è comunque obbligatoria.
+- Perché rientra nei casi di esonero e di equivalenza dell'art. 6, comma 2: è una società figlia ricompresa nella Dichiarazione consolidata di carattere non finanziario redatta dalla Capogruppo Unipol.
+
+**D:** ⚠️ Quali voci non sono riportate negli schemi di stato patrimoniale e conto economico di BCC Lease, secondo la slide 14 della lezione 50?
+**R:** «*Gli schemi dello Stato patrimoniale e del Conto economico sono costituiti da voci, sottovoci e da ulteriori dettagli informativi (i "di cui" delle voci e sottovoci). Non sono riportate le voci che non presentano importi né per l'esercizio al quale si riferisce il bilancio, né per quello precedente.*» (slide 14). Per il docente lo schema «risponde strutturalmente a quello che è il bilancio della banca», con «le stesse voci e sottovoci», ma «non avremo l'indicazione di quelle voci che non interessano in quanto non sono di significativa rilevanza per la società di leasing» ([00:00:41]). ⚠️ Il criterio della slide è l'assenza di importi in **entrambi** gli esercizi: una voce vuota nel 2021 ma valorizzata nel 2020 resta nello schema. La nota integrativa invece riporta anche i titoli delle sezioni senza importi (slide 15).
+**Opzione:** Le voci che non presentano importi né per l'esercizio al quale si riferisce il bilancio, né per quello precedente.
+**Distrattori:**
+- Le voci che non presentano importi per l'esercizio al quale si riferisce il bilancio, anche se ne presentano per quello precedente.
+- Subito dopo il giudizio del revisore.
+- La valutazione di investimenti finanziari complessi o non quotati e la stima delle riserve sinistri.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci dello stato patrimoniale attivo di BCC Lease al 31/12/2021, secondo la slide 2 della lezione 50?
+**R:** **10** Cassa e disponibilità liquide (110.505 euro); **40** Attività finanziarie valutate al costo ammortizzato (500.788.130), con a) crediti verso banche, b) crediti verso società finanziarie, c) crediti verso clientela; **80** Attività materiali (105.787); **90** Attività immateriali (243.718, di cui avviamento: nessuno); **100** Attività fiscali (4.151.045), a) correnti e b) anticipate; **120** Altre attività (11.354.811), per il docente «una voce residuale di chiusura» molto ingente perché comprende «una congerie di valori molto differenti fra loro» ([00:05:32]). Il totale dell'attivo è **516.753.996** euro (488.888.083 nel 2020). ⚠️ Non ci sono le voci 20 e 30 al fair value, né le voci 50, 60, 70 e 110 dello schema della banca (lezione 26, slide 2).
+**Opzione:** 10 Cassa e disponibilità liquide; 40 Attività finanziarie valutate al costo ammortizzato; 80 Attività materiali; 90 Attività immateriali; 100 Attività fiscali; 120 Altre attività.
+**Distrattori:**
+- 10 Cassa e disponibilità liquide; 40 Attività finanziarie valutate al costo ammortizzato; 80 Attività materiali; 90 Attività immateriali; 100 Attività fiscali; 110 Attività non correnti e gruppi di attività in via di dismissione.
+- La verifica del sistema di controllo interno e di gestione dei rischi, con particolare riferimento al sistema amministrativo contabile e al processo di informativa finanziaria.
+
+**D:** ⚠️ Quali due voci dell'attivo della banca il docente della lezione 50 indica come assenti nello schema di BCC Lease, e come sono valutate le sue attività e passività finanziarie?
+**R:** «Non troviamo però le voci 20 e 30 che corrispondono nel bilancio della banca alle attività finanziarie … valutate al fair value con impatto al conto economico e la voce 30 che sono appunto le attività finanziarie valutate al fair value con impatto alla redditività complessiva. Quindi queste due voci non ci sono proprio» ([00:00:41]). E nel passivo: «anche qui non abbiamo né attività né passività finanziarie valutate al fair value, ma tutte valutate al costo ammortizzato» ([00:05:32]). Le attività sono la voce 40 dell'attivo, le passività la voce 10 del passivo (slide 2–3). ⚠️ Il docente nomina solo la 20 e la 30, ma dallo schema mancano anche la 50, la 60, la 70 e la 110 della banca (lezione 26, slide 2).
+**Opzione:** Le voci 20 e 30, cioè le attività al fair value con impatto a conto economico e con impatto sulla redditività complessiva: tutte le attività e passività finanziarie sono al costo ammortizzato.
+**Distrattori:**
+- Le voci 20 e 30, cioè le attività al fair value con impatto a conto economico e con impatto sulla redditività complessiva: le passività finanziarie sono invece valutate al fair value.
+- Con metodologie di valutazione che massimizzano l'utilizzo di parametri osservabili sul mercato e minimizzano l'utilizzo di parametri non osservabili per la determinazione del valore di presumibile realizzo (fair value).
+
+**D:** ⚠️ In quali sottovoci è articolata la voce 40 dell'attivo di BCC Lease, e quale è la più rilevante, secondo la lezione 50?
+**R:** La voce 40, «*Attività finanziarie valutate al costo ammortizzato*», vale 500.788.130 euro: a) crediti verso banche 1.661.998; b) crediti verso società finanziarie 1.423.228; c) crediti verso clientela 497.702.904 (slide 2, che stampa «b)» anche per la terza). Per il docente corrisponde «alla voce 40 dello Stato patrimoniale delle banche» ed è «sottoarticolata … in crediti verso banche, crediti verso società finanziarie e crediti verso la clientela». «Di questi tre aggregati quello più rilevante è quello dei crediti verso la clientela, perché rappresenta sostanzialmente il valore dei finanziamenti concessi in leasing alla clientela» ([00:00:41]). Nel bilancio del locatore il leasing finanziario è un credito verso la clientela (lezione 16, [00:19:32]). ⚠️ Intesa Sanpaolo ha due sottovoci, banche e clientela (lezione 26, slide 2).
+**Opzione:** a) crediti verso banche; b) crediti verso società finanziarie; c) crediti verso clientela, la più rilevante: il valore dei finanziamenti concessi in leasing alla clientela.
+**Distrattori:**
+- a) crediti verso banche; b) crediti verso società finanziarie; c) crediti verso clientela, la più rilevante: il valore dei beni concessi in leasing operativo alla clientela.
+- Sull'adeguatezza del sistema di controllo interno e di gestione dei rischi, e del sistema amministrativo-contabile, nonché sull'affidabilità di quest'ultimo a rappresentare correttamente i fatti di gestione.
+
+**D:** ⚠️ Verso chi sono i debiti della voce 10 del passivo di BCC Lease, e perché il docente della lezione 50 li confronta con i crediti verso la clientela?
+**R:** La voce 10, «*Passività finanziarie valutate al costo ammortizzato*», ha la sola sottovoce a) Debiti, 458.600.303 euro (436.615.285 nel 2020) (slide 3). Per il docente sono «molto rilevanti, questi sono ovviamente i debiti nei confronti sostanzialmente di banca Iccrea per la provvista necessaria a erogare i crediti alla clientela, non a caso i due valori non sono molto distanti, infatti i debiti sono pari a 458 milioni, mentre i crediti verso la clientela sono 497, questo per farvi vedere come vi siano queste corrispondenze» ([00:05:32]–[00:06:58]). La provvista è «*integralmente coperta da Iccrea Banca*» (lezione 49, slide 11). È la corrispondenza fra raccolta e impieghi mostrata per Intesa Sanpaolo (lezione 26, [00:19:24]).
+**Opzione:** Sostanzialmente verso Iccrea Banca, per la provvista necessaria a erogare i crediti alla clientela: 458 milioni di debiti contro 497 di crediti verso la clientela.
+**Distrattori:**
+- Sostanzialmente verso la clientela, per la raccolta diretta necessaria a erogare i crediti: 458 milioni di debiti contro 497 di crediti verso la clientela.
+- La vigilanza, nei termini previsti dalla legge, sul processo di predisposizione dell'informativa finanziaria della Società.
+- Al collegio sindacale, nella sua funzione di comitato per il controllo interno e la revisione contabile, ai sensi dell'art. 11 del Regolamento (UE) n. 537/2014.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci del passivo di BCC Lease prima del patrimonio netto, secondo la slide 3 della lezione 50?
+**R:** **10** Passività finanziarie valutate al costo ammortizzato, 458.600.303 euro, tutte nella sottovoce a) Debiti; **60** Passività fiscali, 552.546, con a) correnti 513.152 e b) differite 39.394; **80** Altre passività, 15.735.112; **90** Trattamento di fine rapporto del personale, 166.459; **100** Fondi per rischi e oneri, 216.234, con a) impegni e garanzie rilasciate 209.082 e c) altri fondi per rischi e oneri 7.152 (slide 3). Il docente le scorre nello stesso ordine ([00:05:32]–[00:06:58]). ⚠️ Fra i fondi manca la b), che nello schema di Intesa Sanpaolo è «quiescenza e obblighi simili» (lezione 26, slide 3).
+**Opzione:** 10 Passività finanziarie valutate al costo ammortizzato; 60 Passività fiscali; 80 Altre passività; 90 Trattamento di fine rapporto del personale; 100 Fondi per rischi e oneri.
+**Distrattori:**
+- 10 Passività finanziarie valutate al costo ammortizzato; 60 Passività fiscali; 80 Altre passività; 90 Trattamento di fine rapporto del personale; 100 Fondi di quiescenza e obblighi simili.
+- A una società di revisione o a un revisore; ma il revisore unico normalmente non ha le risorse per organizzarlo da solo, quindi lo si assegna a una società di revisione.
+
+**D:** ⚠️ Che cosa sono le passività fiscali correnti e quelle differite di BCC Lease, secondo il docente della lezione 50?
+**R:** Sono la voce 60 del passivo, 552.546 euro: a) correnti 513.152 (nulle nel 2020), b) differite 39.394 (slide 3). Il docente: «abbiamo poi delle passività fiscali correnti, cioè imposte sostanzialmente da versare e differite, cioè imposte da versare negli anni successivi» ([00:06:58]). Nell'attivo il loro corrispettivo sono le attività fiscali della voce 100, quasi tutte anticipate (slide 2). Le differenze temporanee da cui nascono anticipate e differite sono nella lezione 11.
+**Opzione:** Correnti: imposte sostanzialmente da versare; differite: imposte da versare negli anni successivi.
+**Distrattori:**
+- Correnti: imposte da versare negli anni successivi; differite: imposte sostanzialmente da versare.
+- Correnti: imposte già versate in acconto; differite: imposte da versare negli anni successivi.
+- Correnti: imposte sostanzialmente da versare; differite: imposte già pagate da recuperare negli anni successivi.
+
+**D:** ⚠️ Che cos'è il TFR per il docente della lezione 50, e quali sottovoci hanno i fondi per rischi e oneri di BCC Lease?
+**R:** Il trattamento di fine rapporto del personale, voce 90, 166.459 euro: per il docente «sono i fondi per il personale che dovesse interrompere il rapporto per qualunque causa con la società». Seguono «i fondi per rischi e oneri che sono impegni e garanzie e altri fondi per rischi e oneri» ([00:06:58]). Nella slide 3 la voce 100 vale 216.234 euro: a) impegni e garanzie rilasciate 209.082, c) altri fondi per rischi e oneri 7.152. ⚠️ Manca la b), «quiescenza e obblighi simili» nello schema di Intesa Sanpaolo (lezione 26, slide 3). Per la lezione 10 il TFR spetta per qualunque causa di cessazione del rapporto.
+**Opzione:** TFR: i fondi per il personale che dovesse interrompere il rapporto per qualunque causa; fondi: a) impegni e garanzie rilasciate, c) altri fondi per rischi e oneri.
+**Distrattori:**
+- TFR: i fondi per il personale che dovesse interrompere il rapporto per qualunque causa; fondi: a) impegni e garanzie rilasciate, b) quiescenza e obblighi simili.
+- Perché la frode può implicare l'esistenza di collusioni, falsificazioni, omissioni intenzionali, rappresentazioni fuorvianti o forzature del controllo interno.
+
+**D:** ⚠️ Che cosa accolgono le riserve da valutazione, secondo il docente della lezione 50, e quanto valgono in BCC Lease?
+**R:** «Le riserve da valutazione che come è noto sono quelle riserve che accolgono quelle variazioni che derivano sostanzialmente da valutazioni richieste dai principi contabili internazionali che sono variazioni non effettivamente realizzate ma derivanti da valutazioni di mercato che incidono sui valori iscritti nell'attivo patrimoniale» ([00:06:58]). In BCC Lease sono la voce 160 del passivo, **negativa**: (24.172) euro, contro (20.551) nel 2020 (slide 3). L'unica variazione del 2021 viene dai piani a benefici definiti, −3.621 euro (slide 5). ⚠️ Il docente le chiama anche «riserva di rivalutazione» ([00:15:16]), che nel corso è un'altra riserva, quella dello IAS 16 (lezione 06).
+**Opzione:** Le variazioni derivanti da valutazioni richieste dai principi contabili internazionali, non effettivamente realizzate ma derivanti da valutazioni di mercato; in BCC Lease sono negative per 24.172 euro.
+**Distrattori:**
+- Le variazioni derivanti da valutazioni richieste dai principi contabili internazionali, effettivamente realizzate con la vendita delle attività; in BCC Lease sono negative per 24.172 euro.
+- Un livello elevato di sicurezza che, tuttavia, non fornisce la garanzia che una revisione contabile svolta in conformità ai principi di revisione internazionali (ISA Italia) individui sempre un errore significativo, qualora esistente.
+
+**D:** ⚠️ Quali voci compongono il patrimonio netto di BCC Lease, con la loro numerazione, secondo la slide 3 della lezione 50?
+**R:** **110** Capitale, 20.000.000 euro; **150** Riserve, 10.749.819; **160** Riserve da valutazione, (24.172); **170** Utile (Perdita) d'esercizio, 10.757.695 (slide 3). In tutto 41.483.342 euro (41.483.341 nella slide 7), contro 38.953.015 nel 2020. Il docente: «abbiamo poi il capitale sociale, le riserve sociali e le riserve da valutazione», poi «l'utile o la perdita dell'esercizio» ([00:06:58]). ⚠️ La numerazione non è quella della banca: in Intesa Sanpaolo le riserve da valutazione sono la 110, le riserve la 140, il capitale la 160 e l'utile la 180 (lezione 26, slide 3).
+**Opzione:** 110 Capitale; 150 Riserve; 160 Riserve da valutazione; 170 Utile (Perdita) d'esercizio.
+**Distrattori:**
+- 110 Riserve da valutazione; 140 Riserve; 160 Capitale; 180 Utile (Perdita) d'esercizio.
+- 110 Capitale; 150 Riserve; 160 Riserve da valutazione; 180 Utile (Perdita) d'esercizio.
+- 110 Capitale; 140 Riserve; 150 Riserve da valutazione; 170 Utile (Perdita) d'esercizio.
+
+**D:** ⚠️ Quanto è l'utile d'esercizio 2021 di BCC Lease, e in quali voci compare negli schemi della lezione 50?
+**R:** **10.757.695** euro (9.137.498 nel 2020). È la voce **170** del passivo (slide 3) e la voce **300** del conto economico, uguale alla 280 perché non ci sono attività operative cessate (slide 4). È anche la voce **10** del prospetto della redditività complessiva, che con le altre componenti (−3.621) dà la redditività complessiva di 10.754.074 (voce 180, slide 5). Il docente: «c'è un utile, come vediamo, di 10.757.000 euro» ([00:06:58]). ⚠️ Nella banca l'utile è la voce 180 del passivo (lezione 26, slide 3).
+**Opzione:** 10.757.695 euro: voce 170 del passivo, voce 300 del conto economico, voce 10 del prospetto della redditività complessiva.
+**Distrattori:**
+- 10.757.695 euro: voce 180 del passivo, voce 300 del conto economico, voce 10 del prospetto della redditività complessiva.
+- 10.754.074 euro: voce 170 del passivo, voce 300 del conto economico, voce 180 del prospetto della redditività complessiva.
+
+**D:** ⚠️ Quali sono, nell'ordine, i margini e i risultati intermedi del conto economico di BCC Lease, secondo la slide 4 della lezione 50?
+**R:** **30** Margine di interesse, 23.815.038 euro; **60** Commissioni nette, (435.642); **120** Margine di intermediazione, 23.379.396; **150** Risultato netto della gestione finanziaria, 18.987.666; **260** Utile (Perdita) della operatività corrente al lordo delle imposte, 14.231.241 (la slide stampa 14.234.241, ma i conti e la relazione sulla gestione danno 14.231); **280** al netto delle imposte, 10.757.695; **300** Utile (Perdita) d'esercizio, 10.757.695 (slide 4). Per il docente la struttura è «esattamente identica a quello del conto economico bancario», «la stessa struttura scalare che inizia dagli interessi e gli altri proventi e gli interessi passivi» ([00:06:58]). Fra la 150 e la 260 ci sono i costi operativi (210).
+**Opzione:** 30 Margine di interesse; 60 Commissioni nette; 120 Margine di intermediazione; 150 Risultato netto della gestione finanziaria; 260 Utile (Perdita) della operatività corrente al lordo delle imposte; 280 al netto delle imposte; 300 Utile (Perdita) d'esercizio.
+**Distrattori:**
+- 30 Margine di interesse; 60 Commissioni nette; 120 Risultato netto della gestione finanziaria; 150 Margine di intermediazione; 260 Utile (Perdita) della operatività corrente al lordo delle imposte; 280 al netto delle imposte; 300 Utile (Perdita) d'esercizio.
+- Il riciclaggio, l'usura e il finanziamento al terrorismo.
+- All'inizio della relazione.
+
+**D:** ⚠️ Perché per il docente della lezione 50 tutto il conto economico di BCC Lease «si regge sul margine di interesse»?
+**R:** Il margine di interesse è 27.831.602 − 4.016.564 = 23.815.038 euro (slide 4). Il docente: «il primo valore intermedio è il margine di interesse, così come lo è nella banca, che rappresenta sostanzialmente il valore di riferimento, cioè sostanzialmente tutto il conto economico si regge sul margine di interesse. Infatti i 23 milioni del margine di interesse … poi corrispondono ai 23 milioni del margine intermediazione sostanzialmente, vanno a coprire sia le rettifiche di valore per rischi di crediti, sia poi tutte le spese». Così il margine «copre di fatto tutti gli altri costi e consente di realizzare un utile dell'esercizio dopo le imposte di 10.757.000 euro» ([00:06:58]). ⚠️ Il margine di intermediazione (23.379.396) è un po' più basso, perché le commissioni nette sono negative.
+**Opzione:** Perché i suoi 23 milioni, che corrispondono sostanzialmente al margine di intermediazione, coprono le rettifiche per rischio di credito e tutti gli altri costi, e consentono l'utile.
+**Distrattori:**
+- Perché i suoi 23 milioni, sommati a commissioni nette di pari importo, coprono le rettifiche per rischio di credito e tutti gli altri costi, e consentono l'utile.
+- In particolare: il conflitto Russia-Ucraina attualmente in corso; la risoluzione dell'accordo con Intesa Sanpaolo S.p.A.; il rimborso anticipato del finanziamento erogato da UnipolSai a Unipol con scadenza 2024.
+
+**D:** ⚠️ Perché il margine di intermediazione di BCC Lease è più basso del margine di interesse, secondo la slide 4 della lezione 50?
+**R:** Perché le **commissioni nette** (voce 60) sono **negative**: le commissioni attive (voce 40) sono 716.963 euro, le passive (voce 50) 1.152.605, e il saldo è (435.642). La voce 100, utili da cessione o riacquisto di attività al costo ammortizzato, non ha importi. Così 23.815.038 − 435.642 = 23.379.396 euro (2020: 21.656.696 − 523.523 = 21.133.173) (slide 4). Le rettifiche per rischio di credito (voce 130) vengono dopo, e portano al risultato netto della gestione finanziaria (voce 150). ⚠️ Le commissioni passive sono un costo del conto economico, non una voce del passivo (test, domanda 5).
+**Opzione:** Perché le commissioni nette sono negative: le commissioni passive, 1.152.605 euro, superano le commissioni attive, 716.963.
+**Distrattori:**
+- Perché le commissioni nette sono negative: le rettifiche di valore per rischio di credito, 4.391.730 euro, superano le commissioni attive, 716.963.
+- Una percentuale fra lo 0,5% e il 2% dei ricavi: con ricavi di 100, ogni errore superiore a 2 è significativo.
+
+**D:** ⚠️ Quali voci compongono i costi operativi (voce 210) di BCC Lease, e perché sono più bassi delle sole spese amministrative, secondo la slide 4 della lezione 50?
+**R:** **160** Spese amministrative (10.499.763), con a) spese per il personale (2.989.064) e b) altre spese amministrative (7.510.699); **170** Accantonamenti netti ai fondi per rischi e oneri, a) impegni per garanzie rilasciate (66.222); **180** Rettifiche/riprese di valore nette su attività materiali (29.988); **190** su attività immateriali (144.782); **200** Altri oneri/proventi di gestione, **positivi** per 5.984.330 (slide 4). Il totale è (4.756.425): il saldo positivo della voce 200 riduce i costi. Nella relazione sulla gestione i proventi di gestione sono soprattutto corrispettivi per spese istruttorie e per gestione incasso (lezione 49, slide 13). Il docente li elenca fra i costi coperti dal margine di interesse ([00:06:58]).
+**Opzione:** 160 spese amministrative; 170 accantonamenti netti ai fondi per rischi e oneri; 180 e 190 rettifiche nette su attività materiali e immateriali; 200 altri oneri/proventi di gestione, positivi per 5.984.330 euro.
+**Distrattori:**
+- 160 spese amministrative; 170 accantonamenti netti ai fondi per rischi e oneri; 180 e 190 rettifiche nette su attività materiali e immateriali; 200 altri oneri/proventi di gestione, negativi per 5.984.330 euro.
+- L'audit il rispetto delle procedure interne; la compliance la rispondenza delle procedure alla legge; l'antiriciclaggio il rispetto della normativa antiriciclaggio.
+
+**D:** ⚠️ Che cosa riporta il prospetto della redditività complessiva di BCC Lease, secondo la slide 14 e il docente della lezione 50?
+**R:** «*Il prospetto della redditività complessiva riporta, nelle voci relative alle Altre componenti reddituali al netto delle imposte, le variazioni di valore delle attività registrate nell'esercizio in contropartita delle Riserve da valutazione.*» Gli importi negativi sono fra parentesi (slide 14). Il docente: si trova «indicato a livello internazionale come OC, che significa Other Comprehensive Income». Vi sono indicate «quelle voci che in base ai principi contabili internazionali … non hanno un impatto direttamente sul conto economico, ma vanno a impattare la riserva di valutazione che abbiamo visto essere presente nel patrimonio netto» ([00:09:59]). È obbligatorio come il prospetto delle variazioni del patrimonio netto e il rendiconto finanziario ([00:16:32]).
+**Opzione:** Nelle voci delle altre componenti reddituali al netto delle imposte, le variazioni di valore delle attività registrate nell'esercizio in contropartita delle riserve da valutazione.
+**Distrattori:**
+- Nelle voci delle altre componenti reddituali al netto delle imposte, le variazioni di valore delle attività registrate nell'esercizio in contropartita del conto economico.
+- Quegli aspetti che, secondo il nostro giudizio professionale, sono stati maggiormente significativi nell'ambito della revisione contabile del bilancio dell'esercizio in esame; su tali aspetti non esprimiamo un giudizio separato.
+
+**D:** ⚠️ Qual è l'unica componente valorizzata nel prospetto della redditività complessiva 2021 di BCC Lease, e che effetto ha sulla riserva da valutazione, secondo la lezione 50?
+**R:** La voce **70**, **piani a benefici definiti**, (3.621) euro [(9.410) nel 2020], fra le altre componenti reddituali **senza rigiro** a conto economico; le componenti con rigiro sono tutte vuote. Il totale delle altre componenti (voce 170) è (3.621), e la redditività complessiva («*Voce 10+170*», voce 180) è 10.757.695 − 3.621 = **10.754.074** euro (slide 5). Il docente: «l'unico elemento la cui variazione non è stata rilevata a conto economico ma è stata rilevata nella riserva di valutazione, è la variazione dei piani a benefici definiti» ([00:09:59]–[00:11:07]). Nel prospetto delle variazioni del patrimonio netto «la riserva di valutazione passa da meno 20.551 a meno 24.172 per effetto di questa voce di 3.621 riferita al maggior onere per piani a benefici definiti a favore dei dipendenti» ([00:15:47]; slide 7).
+**Opzione:** La voce 70, piani a benefici definiti, senza rigiro a conto economico: −3.621 euro, che portano la riserva da valutazione da −20.551 a −24.172.
+**Distrattori:**
+- La voce 70, piani a benefici definiti, con rigiro a conto economico: −3.621 euro, che portano la riserva da valutazione da −20.551 a −24.172.
+- Sostanzialmente di quattro tipi: giudizio senza rilievi, giudizio con rilievi, giudizio negativo, impossibilità di esprimere un giudizio.
+
+**D:** ⚠️ Che cosa sono i piani a benefici definiti, e perché la quota che l'impresa deve versare varia, secondo il docente della lezione 50?
+**R:** Sono «quei piani di previdenza integrativa, di previdenza complementare, che viene riconosciuta a favore dei dipendenti in base ai contratti aziendali»: oltre al TFR, «che è obbligatorio per legge», un ulteriore versamento «per la costituzione di un piano pensionistico integrativo». «Se sono a benefici definiti vuol dire che il livello di pensione rimane invariato, cambiano i contributi che devo versare per poter mantenere sempre quel livello di pensione.» La variazione dei tassi di interesse, di attualizzazione e attuariali, cioè della durata della vita media, «fanno cambiare l'importo» da versare ogni anno: «il beneficio è definito, ti darò 500 euro di pensione al mese in più, ma la quota che l'impresa deve versare … varia» ([00:11:07]). ⚠️ Le slide non dicono a quale piano si riferiscano i −3.621 euro: BCC Lease non ha fondi di quiescenza (slide 3), e per la lezione 29 anche il TFR maturato fino al 2006 è un piano a benefici definiti (slide 13).
+**Opzione:** Piani di previdenza integrativa per i dipendenti, in base ai contratti aziendali: il beneficio è definito, mentre la quota da versare varia con i tassi di interesse e la durata della vita umana.
+**Distrattori:**
+- Piani di previdenza integrativa per i dipendenti, in base ai contratti aziendali: la quota da versare è definita, mentre il beneficio varia con i tassi di interesse e la durata della vita umana.
+- Modelli interni finalizzati a rendere impossibile commettere reati senza violare il modello di organizzazione, gestione e controllo.
+- Dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; ruolo del Presidente; dinamiche interne al Collegio.
+
+**D:** ⚠️ Come è stato destinato nel 2021 l'utile 2020 di BCC Lease, secondo il prospetto delle variazioni del patrimonio netto della lezione 50?
+**R:** L'utile 2020, 9.137.498 euro, va per **913.750** a riserve (le riserve di utili passano da 4.174.540 a 5.088.290) e per **8.223.748** a «*Dividendi e altre destinazioni*» (slide 7). Con la redditività complessiva di 10.754.074, il patrimonio netto passa da 38.953.015 a **41.483.341** euro. Nel 2020 l'utile 2019, 9.408.103, era andato per 940.810 a riserve e per 8.467.293 a dividendi (slide 6). Sulle cifre, in entrambi gli anni è il 10% a riserva e il 90% a dividendi. Il docente commenta del prospetto solo la riserva da valutazione ([00:11:07]–[00:15:47]). ⚠️ Per l'utile 2021 la proposta di delibera è diversa: il 10% a riserva legale ordinaria e il resto **rinviato a nuovo** (lezione 49, slide 18).
+**Opzione:** 913.750 euro a riserve e 8.223.748 a dividendi e altre destinazioni: il patrimonio netto passa da 38.953.015 a 41.483.341.
+**Distrattori:**
+- 913.750 euro a riserve e 8.223.748 rinviati a nuovo: il patrimonio netto passa da 38.953.015 a 41.483.341.
+- 940.810 euro a riserve e 8.467.293 a dividendi e altre destinazioni: il patrimonio netto passa da 38.953.015 a 41.483.341.
+
+**D:** ⚠️ Con quale metodo è redatto il rendiconto finanziario di BCC Lease, e in quali flussi è suddiviso, secondo la slide 15 della lezione 50?
+**R:** «*Il prospetto dei flussi finanziari intervenuti nell'esercizio di riferimento del bilancio ed in quello precedente è stato predisposto seguendo il metodo indiretto, in base al quale i flussi derivanti dall'attività operativa sono rappresentati dal risultato dell'esercizio rettificato degli effetti delle operazioni di natura non monetaria. I flussi finanziari sono suddivisi tra quelli derivanti dall'attività operativa, quelli generati dall'attività di investimento e quelli prodotti dall'attività di provvista. Nel prospetto i flussi generati nel corso dell'esercizio sono indicati senza segno, mentre quelli assorbiti sono indicati fra parentesi.*» (slide 15). Il docente: «qui viene determinato in modo indiretto» ([00:16:32]). ⚠️ Per lui però il prospetto è diviso «sostanzialmente in due aree, cioè attività operativa e attività di investimenti» ([00:17:27]). La slide 8 ne ha tre, A, B e C, come il rendiconto della banca (lezione 17).
+**Opzione:** Con il metodo indiretto, che rettifica il risultato dell'esercizio degli effetti delle operazioni di natura non monetaria; flussi dell'attività operativa, di investimento e di provvista.
+**Distrattori:**
+- Con il metodo indiretto, che rettifica il risultato dell'esercizio degli effetti delle operazioni di natura monetaria; flussi dell'attività operativa, di investimento e di provvista.
+- Perché controllano l'operato del Consiglio di amministrazione: non vi possono essere parentele, rapporti di interesse, rapporti di lavoro dipendente o professionale.
+
+**D:** ⚠️ La gestione 2021 di BCC Lease ha generato o assorbito liquidità, e per quanto, secondo il rendiconto finanziario della lezione 50?
+**R:** L'ha **assorbita**: la liquidità netta dell'esercizio è (696.911) euro, e la cassa scende da 807.417 a 110.506 (riconciliazione, slide 8). Il docente: «eravamo partiti da una cassa, quindi disponibilità liquida di circa 800 mila euro, questa cassa è diminuita fino a 110 mila euro, quindi vuol dire che quasi 700 mila euro sono stati spesi … Attenzione, non sono stati dilapidati, sono stati utilizzati sia nella gestione corrente, nella gestione operativa, sia nell'attività di investimento» ([00:17:27]). ⚠️ Sulle cifre l'attività operativa genera 7.557.004 euro e l'investimento ne assorbe 30.167: l'assorbimento viene dalla provvista, cioè dalla distribuzione dei dividendi (8.223.748, slide 7). Nel 2020 la liquidità era stata generata, 806.011 euro.
+**Opzione:** Assorbito: la liquidità netta è di −696.911 euro, e la cassa scende da 807.417 a 110.506.
+**Distrattori:**
+- Generato: la liquidità netta è di +696.911 euro, e la cassa sale da 110.506 a 807.417.
+- Assorbito: la liquidità netta è di −806.011 euro, e la cassa scende da 807.414 a 1.403.
+
+**D:** ⚠️ Perché il rendiconto finanziario è importante per un intermediario finanziario, secondo il docente della lezione 50?
+**R:** Il rendiconto «serve a determinare se la gestione aziendale ha prodotto un assorbimento o una generazione di risorse finanziarie», intese «sostanzialmente in termini di cassa e disponibilità liquide» ([00:17:16]–[00:17:27]). È importante perché «il primo rischio, uno dei principali rischi che tutti gli intermediari finanziari devono affrontare e superare è il rischio di liquidità, cioè il rischio di non avere le risorse finanziarie sufficienti per poter far fronte agli impegni che hanno assunto» ([00:17:27]). «Quindi questo documento consente immediatamente di capire quale sia la situazione finanziaria in termini di liquidità disponibile», e se l'impresa «ha i soldi immediatamente disponibili per far fronte alle proprie obbligazioni» ([00:19:31]). È il rischio di liquidità della lezione 18 (slide 4).
+**Opzione:** Perché mostra subito se l'impresa ha le risorse finanziarie per far fronte ai propri impegni: il rischio di liquidità è uno dei principali rischi di tutti gli intermediari finanziari.
+**Distrattori:**
+- Perché mostra subito se i debitori dell'impresa rimborseranno i finanziamenti ricevuti: il rischio di credito è uno dei principali rischi di tutti gli intermediari finanziari.
+- Le parti che hanno rapporti diretti o indiretti di affari, di parentela o in qualche modo di correlazione con gli amministratori.
+- Sono più alte quanto più piccolo è l'ammontare di riferimento: più basse sul fatturato, più elevate sull'utile lordo.
+
+**D:** ⚠️ Da quali documenti è costituito il bilancio di BCC Lease, e da quale è corredato, secondo la slide 13 della lezione 50?
+**R:** «*Il bilancio è costituito dallo Stato patrimoniale, dal Conto economico, dal Prospetto della redditività complessiva, dal Prospetto delle variazioni di Patrimonio netto, dal Rendiconto finanziario e dalla Nota Integrativa ed è inoltre corredato da una Relazione degli amministratori sull'andamento della gestione, sui risultati economici conseguiti e sulla situazione patrimoniale e finanziaria della BCC Lease*» (slide 13). Il docente: «Attenzione, questa potrebbe anche essere una domanda d'esame, cioè quali sono i documenti che costituiscono il bilancio di esercizio di una società di leasing o di una banca?». E: «È inoltre corredato, quindi non è costituito, ma è corredato dalla relazione degli amministratori sull'andamento della gestione, che quindi non è un documento costitutivo del bilancio, ma è un documento allegato al bilancio, di corredo» ([00:19:31]). Il docente nomina due volte la nota integrativa: i documenti sono sei. È la regola della lezione 02 (slide 12–13).
+**Opzione:** Stato patrimoniale, conto economico, prospetto della redditività complessiva, prospetto delle variazioni di patrimonio netto, rendiconto finanziario e nota integrativa; è corredato dalla relazione degli amministratori sull'andamento della gestione.
+**Distrattori:**
+- Stato patrimoniale, conto economico, prospetto della redditività complessiva, prospetto delle variazioni di patrimonio netto, rendiconto finanziario e relazione degli amministratori sull'andamento della gestione; è corredato dalla nota integrativa.
+- L'assemblea degli azionisti, il 17 aprile 2019, per gli esercizi dal 31 dicembre 2021 al 31 dicembre 2029.
+- L'antiriciclaggio il D.Lgs. 21 novembre 2007 n. 231; il modello di organizzazione, gestione e controllo il D.Lgs. 8 giugno 2001 n. 231.
+
+**D:** ⚠️ In applicazione di quale decreto e secondo quali principi è redatto il bilancio di BCC Lease, secondo la dichiarazione di conformità della slide 9 della lezione 50?
+**R:** «*Il bilancio della società BCC Lease S.p.A. in applicazione del D. Lgs. 28 febbraio 2005 n. 38, è redatto secondo i principi contabili IAS/IFRS emanati dall'International Accounting Standards Board (IASB) e le relative interpretazioni dell'International Financial Reporting Interpretations Committee (IFRIC) ed omologati dalla Commissione Europea, come stabilito dal Regolamento Comunitario n. 1606 del 19 luglio 2002 e successive modifiche e/o integrazioni.*» (slide 9). Il docente lo legge: le società di leasing «sono obbligate ad adottare i principi contabili internazionali e qui ne viene data evidenza» ([00:19:31]). È la stessa formula della banca (lezione 27, test, domanda 1).
+**Opzione:** In applicazione del D.Lgs. 28 febbraio 2005 n. 38, secondo gli IAS/IFRS emanati dallo IASB, con le interpretazioni dell'IFRIC, omologati dalla Commissione Europea come stabilito dal Regolamento n. 1606 del 19 luglio 2002.
+**Distrattori:**
+- In applicazione del D.Lgs. 28 febbraio 2005 n. 38, secondo gli IAS/IFRS emanati dallo IASB, con le interpretazioni dell'IFRIC, omologati dalla Banca d'Italia come stabilito dal Regolamento n. 1606 del 19 luglio 2002.
+- Il dirigente responsabile di elaborare il bilancio dal punto di vista tecnico contabile: lo predispone e ne riferisce al collegio sindacale e al Consiglio di amministrazione, che lo recepisce con propria delibera.
+- Ai sensi dell'art. 14 del D.Lgs. 27 gennaio 2010, n. 39, dell'art. 10 del Regolamento (UE) n. 537/2014 e dell'art. 102 del D.Lgs. 7 settembre 2005, n. 209.
+
+**D:** ⚠️ Quali disposizioni della Banca d'Italia seguono gli schemi di BCC Lease, e che cosa stabiliscono, secondo la slide 9 della lezione 50?
+**R:** Il bilancio usa «*le principali tabelle previste dalle disposizioni relative a "Il bilancio degli intermediari IFRS diversi dagli intermediari bancari"*», aggiornamento della Banca d'Italia del **29 ottobre 2021**, emanato «*nell'esercizio dei poteri stabiliti dall'art. 43 del D. Lgs. n. 136/2015*», con la Comunicazione del 27 gennaio 2021 sugli impatti del COVID-19. «*Queste Istruzioni stabiliscono in modo vincolante gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Nota Integrativa.*» (slide 9). Il docente: «questa è la struttura del bilancio prevista dalla Banca d'Italia per gli intermediari non bancari. In realtà … la struttura è praticamente identica a quelli degli intermediari bancari» ([00:19:31]). Per le banche le regole sono la Circolare 262 (lezione 12, slide 3).
+**Opzione:** Le disposizioni sul bilancio degli intermediari IFRS diversi dagli intermediari bancari: stabiliscono in modo vincolante gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Nota Integrativa.
+**Distrattori:**
+- Le disposizioni sul bilancio degli intermediari IFRS diversi dagli intermediari bancari: stabiliscono in modo vincolante gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Relazione sulla gestione.
+- Degli amministratori; per il revisore le riserve tecniche sono sufficienti in conformità alle vigenti disposizioni di legge e regolamentari e a corrette tecniche attuariali, nel rispetto dei principi del Regolamento ISVAP n. 22/2008.
+
+**D:** ⚠️ Chi deve formulare valutazioni, stime e ipotesi nel bilancio di BCC Lease, su che cosa incidono e su che cosa si basano, secondo la slide 13 della lezione 50?
+**R:** «*In conformità agli IFRS, la direzione aziendale deve formulare valutazioni, stime e ipotesi che influenzano l'applicazione dei principi contabili e gli importi delle attività, delle passività, dei costi e dei ricavi rilevati in bilancio. Le stime e le relative ipotesi si basano sulle esperienze pregresse e su altri fattori considerati ragionevoli nella fattispecie e sono state adottate per stimare il valore contabile delle attività e delle passività che non è facilmente desumibile da altre fonti.*» (slide 13). La slide 15 lo ripete con altre parole: la formulazione delle stime «*si basa su esperienze pregresse, informazioni disponibili, nonché sull'adozione di assunzioni e valutazioni soggettive*». Il docente: «questo è quello che dicevamo in relazione al fatto che il bilancio è soggetto a stime e valutazioni, quindi non esistono bilanci veri, esistono solo bilanci veritieri» ([00:19:31]), la tesi della lezione 48.
+**Opzione:** La direzione aziendale: valutazioni, stime e ipotesi che influenzano l'applicazione dei principi contabili e gli importi di attività, passività, costi e ricavi, basate sulle esperienze pregresse e su altri fattori considerati ragionevoli.
+**Distrattori:**
+- La società di revisione: valutazioni, stime e ipotesi che influenzano l'applicazione dei principi contabili e gli importi di attività, passività, costi e ricavi, basate sulle esperienze pregresse e su altri fattori considerati ragionevoli.
+- Funzioni di Controllo: Chief Risk Officer, Audit, Compliance and Anti-Money Laundering; Funzioni Fondamentali: le Funzioni di Controllo più la Funzione Attuariale.
+
+**D:** ⚠️ In quale periodo si rilevano le variazioni conseguenti alla revisione delle stime, secondo la slide 14 della lezione 50?
+**R:** «*Le stime e le ipotesi sono riviste regolarmente. Le eventuali variazioni conseguenti a tali revisioni sono rilevate nel periodo in cui la revisione viene effettuata qualora la stessa interessi solo quel periodo. Nel caso in cui la revisione interessi periodi sia correnti sia futuri, la variazione è rilevata nel periodo in cui la revisione viene effettuata e nei relativi periodi futuri.*» (slide 14). I processi di stima sono fatti «*in un'ottica di continuità aziendale, ossia prescindendo da ipotesi di liquidazione forzata delle poste oggetto di valutazione*» (slide 14).
+**Opzione:** Nel periodo in cui la revisione viene effettuata, se interessa solo quel periodo; se interessa periodi correnti e futuri, in quel periodo e nei relativi periodi futuri.
+**Distrattori:**
+- Nel periodo in cui la revisione viene effettuata, se interessa solo quel periodo; se interessa periodi correnti e futuri, solo nei relativi periodi futuri.
+- Nella relazione del Collegio Sindacale.
+
+**D:** ⚠️ Per quali poste il bilancio di BCC Lease adotta processi di stima a supporto del valore di iscrizione, secondo la slide 16 della lezione 50?
+**R:** Per «*alcune delle più rilevanti poste valutative iscritte nel bilancio, in particolare*»: 1) nella verifica dei requisiti per classificare le attività finanziarie nei portafogli al **costo ammortizzato** (**Test SPPI**), con particolare riferimento al cosiddetto **benchmark test**; 2) nella quantificazione delle perdite per riduzione di valore dei crediti e, in genere, delle altre attività finanziarie; 3) nella valutazione della congruità del valore delle partecipazioni e delle altre attività non finanziarie (es: avviamenti); 4) nei modelli valutativi per il **fair value** degli strumenti finanziari non quotati in mercati attivi; 5) nella stima e nelle assunzioni sulla recuperabilità delle **attività fiscali per imposte anticipate**; 6) nella determinazione dei **tassi di attualizzazione** per le passività riferite ai **contratti di leasing**; 7) nella quantificazione dei **fondi per rischi ed oneri** di natura legale e fiscale (slide 16). Il docente: i processi di stima sono spiegati «soprattutto in particolare in relazione alla classificazione delle attività finanziarie» ([00:24:21]).
+
+**D:** ⚠️ Che cosa dice la nota integrativa di BCC Lease sugli eventi successivi alla data di riferimento del bilancio, e chi ha approvato il bilancio il 16 marzo 2022, secondo la lezione 50?
+**R:** «*Si informa che nel periodo intercorrente tra la data di riferimento del bilancio e la sua approvazione da parte del Consiglio di Amministrazione in data 16 marzo 2022 non sono intervenuti fatti che comportino una rettifica dei dati di bilancio approvati in tale sede.*» (slide 15). Il docente: è il periodo fra la fine dell'esercizio, il 31-12-2021, «e il momento in cui il Consiglio di Amministrazione approva il progetto di bilancio che poi sottoporrà all'Assemblea, l'approvazione del progetto di bilancio è avvenuta il 16 marzo 2022» ([00:23:21]–[00:23:58]). ⚠️ Il CdA approva il **progetto**, l'Assemblea lo riceve dopo. Nella relazione sulla gestione il conflitto Russia-Ucraina è «*non "adjusting"*» (lezione 49, slide 15).
+**Opzione:** Fra la data di riferimento del bilancio e la sua approvazione da parte del Consiglio di Amministrazione, il 16 marzo 2022, non sono intervenuti fatti che comportino una rettifica dei dati.
+**Distrattori:**
+- Fra la data di riferimento del bilancio e la sua approvazione da parte dell'Assemblea, il 16 marzo 2022, non sono intervenuti fatti che comportino una rettifica dei dati.
+- Delle attività di verifica svolte dalla funzione attuariale della Società e dei relativi esiti; si è avvalsa dell'ausilio di esperti in materie statistico-attuariali.
+- Perché la verità è una sola: con il bilancio vero avremmo un unico bilancio possibile, mentre la discrezionalità degli amministratori consente più bilanci della stessa società per lo stesso esercizio.
+
+**D:** ⚠️ Che cos'è la forbearance per il docente della lezione 50, e le moratorie COVID-19 vanno classificate automaticamente come forbearance, secondo l'EBA nella slide 19?
+**R:** Il docente parla delle «modifiche contrattuali e la forbearance relativa ai crediti, quindi la tolleranza relativa ai crediti», su cui hanno inciso le moratorie previste per legge ([00:24:43]). Per lo statement dell'EBA del 25 marzo 2020 le misure di moratoria, pubbliche e private, «*poiché finalizzate a mitigare rischi di natura sistemica e non esigenze specifiche di un singolo debitore, non devono essere automaticamente classificate come misure di "forbearance"*». Non lo sono né per la classificazione dei crediti, né ai fini IFRS 9 (migrazione fra gli stadi), né per la classificazione prudenziale fra i non performing. Gli intermediari devono però valutare il merito di credito dei debitori, «*rifuggire da approcci automatici e prioritizzare le analisi con criteri risk-based*» (slide 19). ⚠️ Per il docente le moratorie hanno inciso sulla forbearance, «cioè sul fatto che alcuni crediti si sono deteriorati» ([00:24:43]): per la slide la forbearance non è automatica.
+**Opzione:** La tolleranza relativa ai crediti; le moratorie, finalizzate a mitigare rischi di natura sistemica e non esigenze specifiche di un singolo debitore, non vanno classificate automaticamente come forbearance.
+**Distrattori:**
+- La tolleranza relativa ai crediti; le moratorie, finalizzate a mitigare esigenze specifiche di un singolo debitore e non rischi di natura sistemica, vanno classificate automaticamente come forbearance.
+- Nell'albo dei revisori contabili o in quello delle società di revisione, secondo che eserciti come soggetto individuale o societario; le assicurazioni si rivolgono prevalentemente a società di revisione.
+
+**D:** ⚠️ In che cosa si deve sostanziare una moratoria «di portata generale» secondo le linee guida dell'EBA, e può modificare il tasso d'interesse, secondo la slide 20 della lezione 50?
+**R:** Fra le condizioni che devono essere **tutte** soddisfatte: «*la misura si deve sostanziare esclusivamente in una modifica delle tempistiche di pagamento e, pertanto, consistere in una sospensione dei pagamenti, in un loro riscadenziamento, o in una temporanea riduzione del capitale e/o degli interessi da corrispondere. La moratoria, quindi, non può comportare la modifica di altre clausole contrattuali (quali ad esempio il tasso d'interesse)*». Le altre condizioni: la fonte è la legge nazionale o l'iniziativa privata, in questo caso con uno schema largamente condiviso nel settore bancario; si applica a un ampio spettro di debitori su criteri generali; alle medesime condizioni a tutti i beneficiari; non su finanziamenti erogati dopo l'annuncio; per l'emergenza COVID-19, applicata prima del 30 giugno 2020 (termine prorogato al 30 settembre 2020) (slide 20).
+**Opzione:** Esclusivamente in una modifica delle tempistiche di pagamento: sospensione, riscadenziamento o temporanea riduzione del capitale e/o degli interessi; non può modificare altre clausole, come il tasso d'interesse.
+**Distrattori:**
+- Esclusivamente in una modifica delle tempistiche di pagamento: sospensione, riscadenziamento o temporanea riduzione del capitale e/o degli interessi; può modificare anche altre clausole, come il tasso d'interesse.
+- Quando non ha potuto assumere le informazioni necessarie, per l'ostilità del Consiglio d'amministrazione, per l'impossibilità di reperimento o per malfunzionamenti del sistema contabile: è di fatto un giudizio negativo.
+
+**D:** ⚠️ Perché le sospensioni COVID-19 concesse da BCC Lease non comportano la derecognition dei crediti, secondo la slide 22 della lezione 50?
+**R:** Sospendere le rate o allungare la scadenza modifica le condizioni contrattuali, e l'IFRS 9 chiede di verificare se l'attività resta in bilancio o va cancellata (*derecognition*) e sostituita da un nuovo strumento. Ma «*la modalità operativa con cui sono concesse le sospensioni Covid 19 prevede l'applicazione di interessi corrispettivi all'intero debito residuo. Tale impostazione implica una sostanziale neutralità attuariale*», come la relazione illustrativa del Decreto Cura Italia e lo statement EBA del 2 aprile 2020. «*Le modifiche contrattuali in questione non incidono sulle caratteristiche e sui flussi contrattuali originari, conseguentemente non comportano la derecognition contabile.*» (slide 22). Con il secondo emendamento del 2 dicembre 2020 la modifica dei pagamenti da moratorie generali «*non dovrebbe superare i nove mesi*».
+**Opzione:** Perché prevedono interessi corrispettivi sull'intero debito residuo, con una sostanziale neutralità attuariale: non incidono sulle caratteristiche e sui flussi contrattuali originari.
+**Distrattori:**
+- Perché prevedono interessi corrispettivi sulle sole rate sospese, con una sostanziale neutralità attuariale: non incidono sulle caratteristiche e sui flussi contrattuali originari.
+- Che i valori di riapertura dello stato patrimoniale siano esattamente identici ai valori di chiusura dell'esercizio precedente; i valori del conto economico ripartono da zero.
+- Un allegato obbligatorio al bilancio: non è parte del bilancio né un documento che lo costituisce.
