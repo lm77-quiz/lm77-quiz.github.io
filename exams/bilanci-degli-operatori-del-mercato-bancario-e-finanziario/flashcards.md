@@ -13624,3 +13624,813 @@
 **Distrattori:**
 - Con un'obbligazione attuale, legale o implicita, derivante da un evento passato, per cui è ritenuto possibile che l'adempimento sia oneroso, se la perdita può essere stimata attendibilmente: l'onere può essere anche solo possibile.
 - L'associazione delle società di leasing italiane: nel 2021 il mercato ha finanziato oltre 612 mila nuovi investimenti, per circa 28,8 miliardi di euro.
+
+## Lezione 52 — Il bilancio della società di leasing. Le attività e le passività finanziarie
+
+**D:** ⚠️ Tra quali passività si classificano i debiti, verso banche e verso clientela, e i titoli in circolazione non detenuti con finalità di negoziazione, secondo il test della lezione 52 (domanda 1)?
+**R:** **Tra le passività finanziarie valutate al costo ammortizzato.** La slide 2: «*Sono classificati tra le passività finanziarie valutate al costo ammortizzato i debiti, verso banche e verso clientela, e i titoli in circolazione non detenuti con finalità di negoziazione nel breve periodo*». La domanda omette «nel breve periodo». Per il docente in BCC Lease «abbiamo solo passività finanziarie valutate al costo ammortizzato» ([00:05:55]): la società non ha passività di negoziazione né passività designate al fair value (slide 3). Il vicino è il fair value con impatto a conto economico, il criterio delle passività di negoziazione (lezione 29, slide 10). Distrattori del test: «altri debiti», «al fair value con impatto al conto economico», «al fair value con impatto alla redditività complessiva».
+**Opzione:** Passività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Altri debiti.
+- Passività finanziarie valutate al fair value con impatto al conto economico.
+- Passività finanziarie valutate al fair value con impatto alla redditività complessiva.
+
+**D:** ⚠️ Dove è classificato il trattamento di fine rapporto, secondo il test della lezione 52 (domanda 2)?
+**R:** **Nel passivo.** Nello schema di BCC Lease è la voce **90** del passivo, «*Trattamento di fine rapporto del personale*», 166.459 euro al 31/12/2021 (lezione 50, slide 3). La slide 3 della lezione 52 lo tratta come un'**obbligazione** dell'impresa verso il dipendente, ma non scrive mai «passivo». Il vicino è il conto economico: nei principi nazionali l'accantonamento annuo è la sottovoce c) della voce B9 «Per il personale» (lezione 10, slide 4), ma il fondo accumulato è un debito. Nel patrimonio netto finiscono solo gli utili e le perdite attuariali dei piani a benefici definiti, nella riserva da valutazione (lezione 50, slide 5). Distrattori del test: «attivo», «patrimonio netto», «contro economico» (sic).
+**Opzione:** Passivo.
+**Distrattori:**
+- Attivo.
+- Patrimonio netto.
+- Conto economico.
+
+**D:** ⚠️ Quando sono contabilizzati i ricavi, secondo il test della lezione 52 (domanda 3)?
+**R:** **Nel momento in cui vengono realizzati.** La slide 4: «*I ricavi sono contabilizzati nel momento in cui vengono realizzati o, comunque, nel caso di vendita di beni o servizi, in funzione del grado di soddisfacimento dell'obbligazione di fare*». La chiave è la prima metà della formula. ⚠️ Il vicino è «nel momento in cui vengono incassati»: vale solo per gli **interessi di mora**, contabilizzati «*solo al momento del loro effettivo incasso*», per il docente «per cassa e non per competenza» ([00:09:26]). La data di inizio del contratto (*inception date*) serve all'IFRS 15 per allocare il prezzo, non per riconoscere il ricavo (slide 4). Distrattori del test: «nel momento in cui vengono incassati», «alla firma del contratto», «alla fine del contratto».
+**Opzione:** Nel momento in cui vengono realizzati.
+**Distrattori:**
+- Nel momento in cui vengono incassati.
+- Alla firma del contratto.
+- Alla fine del contratto.
+
+**D:** ⚠️ Che cosa si intende per PD, secondo il test della lezione 52 (domanda 4)?
+**R:** **Probability of default**, la probabilità di default. È il primo dei tre parametri della perdita attesa: «*Probabilità di Default (PD), Loss Given Default (LGD) e Exposure At Default (EAD)*» (slide 6). La slide 17 scrive «*Probability of Default*», e il docente dice «la PD, Probability of Default» ([00:16:10]). Per la lezione 30 è la probabilità di migrare dallo stato di bonis a quello di credito deteriorato nell'orizzonte di un anno (slide 12). ⚠️ I distrattori sono trappole lessicali sulla sigla: rispettano le iniziali P e D, ma non compaiono nelle slide. Distrattori del test: «price of debt», «primo debito», «parte debitoria».
+**Opzione:** Probability of default.
+**Distrattori:**
+- Price of debt.
+- Primo debito.
+- Parte debitoria.
+
+**D:** 🚨 Come si valutano i titoli di capitale, secondo le slide della lezione 52 e il test (domanda 5)?
+**R:** **Al fair value.** «*I titoli di capitale non sono assoggettati al processo di impairment*» (slide 7). Il docente lo ripete: «non sono assoggettati al processo di valutazione di mantenimento di valore» ([00:18:52]). Fra le tecniche dei livelli di fair value 2 e 3, «*I titoli di capitale sono valutati con riferimento a transazioni dirette sullo stesso titolo o su titoli similari osservate in un congruo arco temporale rispetto alla data di valutazione, al metodo dei multipli di mercato di società comparabili e in via subordinata a metodi di valutazione finanziaria e reddituale*» (slide 16). 🚨 Nella domanda 5 del test la piattaforma segna invece «impairment test»: è una chiave sbagliata. Può venire dalla riga successiva: le altre attività non finanziarie «*sono soggette a test di impairment*» (slide 8), e il docente lo dice nella stessa frase ([00:18:52]). Oppure dalle partecipazioni, che all'impairment test sono soggette (test 34, domanda 3). Distrattori del test: «valore storico», «valore di acquisto», «impairment test».
+**Opzione:** Fair value.
+**Distrattori:**
+- Impairment test.
+- Valore storico.
+- Valore di acquisto.
+
+**D:** ⚠️ Quali passività classifica BCC Lease tra le passività finanziarie valutate al costo ammortizzato, e quali debiti vi include ai sensi dell'IFRS 16, secondo la slide 2 della lezione 52?
+**R:** «*Sono classificati tra le passività finanziarie valutate al costo ammortizzato i debiti, verso banche e verso clientela, e i titoli in circolazione non detenuti con finalità di negoziazione nel breve periodo, ricomprendendo le diverse forme tecniche di provvista interbancaria e con clientela e la raccolta effettuata tramite emissione di titoli obbligazionari, al netto degli eventuali ammontari riacquistati. Sono inoltre inclusi i debiti iscritti dal locatario nell'ambito di operazioni di leasing (finanziario ed operativo) ai sensi dell'IFRS 16.*» (slide 2). Il docente legge la prima frase senza «nel breve periodo» e senza i riacquisti ([00:00:35]). ⚠️ I debiti IFRS 16 sono quelli che BCC Lease iscrive come **locatario**, non come locatore. È la regola della banca (lezione 29, slide 9).
+**Opzione:** I debiti verso banche e verso clientela e i titoli in circolazione non detenuti con finalità di negoziazione nel breve periodo, al netto degli eventuali ammontari riacquistati; inoltre i debiti iscritti dal locatario nelle operazioni di leasing, finanziario ed operativo.
+**Distrattori:**
+- I debiti verso banche e verso clientela e i titoli in circolazione non detenuti con finalità di negoziazione nel breve periodo, al netto degli eventuali ammontari riacquistati; inoltre i debiti iscritti dal locatore nelle operazioni di leasing, finanziario ed operativo.
+- 10 Passività finanziarie valutate al costo ammortizzato; 60 Passività fiscali; 80 Altre passività; 90 Trattamento di fine rapporto del personale; 100 Fondi per rischi e oneri.
+
+**D:** ⚠️ Su quale base avviene la prima iscrizione delle passività finanziarie al costo ammortizzato di BCC Lease, e quali costi ne sono esclusi, secondo la slide 2 della lezione 52?
+**R:** «*La prima iscrizione è effettuata sulla base del fair value della passività, che è normalmente pari al valore incassato o al prezzo di emissione, aumentato/diminuito degli eventuali costi e proventi marginali direttamente attribuibili alla transazione e non rimborsati dalla controparte creditrice; sono esclusi i costi interni di carattere amministrativo.*» (slide 2). Il docente: il fair value è «cioè il valore nominale sostanzialmente», e i costi marginali sono quelli «che rimangono a carico dell'emittente». I costi interni sono esclusi «ovviamente perché non sono obiettivamente determinabili» ([00:00:35]). ⚠️ «Valore nominale» è del docente: la slide dice valore incassato o prezzo di emissione.
+**Opzione:** Sul fair value, normalmente pari al valore incassato o al prezzo di emissione, aumentato/diminuito dei costi e proventi marginali direttamente attribuibili e non rimborsati dalla controparte creditrice; esclusi i costi interni di carattere amministrativo.
+**Distrattori:**
+- Sul fair value, normalmente pari al valore incassato o al prezzo di emissione, aumentato/diminuito dei costi e proventi marginali direttamente attribuibili e non rimborsati dalla controparte creditrice; inclusi i costi interni di carattere amministrativo.
+- Correnti: imposte sostanzialmente da versare; differite: imposte da versare negli anni successivi.
+
+**D:** ⚠️ Come si iscrivono le passività finanziarie emesse da BCC Lease a condizioni diverse da quelle prevalenti sul mercato, e dove va la differenza, secondo la slide 2 della lezione 52?
+**R:** «*Le passività finanziarie eventualmente emesse a condizioni diverse da quelle prevalenti sul mercato sono iscritte al fair value, utilizzando una stima, e la differenza rispetto al corrispettivo o valore di emissione è imputata a Conto economico.*» (slide 2). Il docente: «l'eventuale condizione peggiorativa rispetto a quella di mercato dovrebbe essere direttamente imputata al conto economico» ([00:00:35]).
+**Opzione:** Al fair value, utilizzando una stima; la differenza rispetto al corrispettivo o valore di emissione è imputata a Conto economico.
+**Distrattori:**
+- Al fair value, utilizzando una stima; la differenza rispetto al corrispettivo o valore di emissione è imputata alla riserva da valutazione.
+- Nelle voci delle altre componenti reddituali al netto delle imposte, le variazioni di valore delle attività registrate nell'esercizio in contropartita delle riserve da valutazione.
+
+**D:** ⚠️ Come sono valutate le passività finanziarie al costo ammortizzato di BCC Lease dopo l'iscrizione iniziale, e quali fanno eccezione, secondo la slide 2 della lezione 52?
+**R:** «*Successivamente alla iscrizione iniziale, le presenti voci sono valutate al costo ammortizzato con il metodo del tasso di interesse effettivo, ad esclusione delle passività a breve termine, che, ricorrendone i presupposti secondo il criterio generale della significatività e rilevanza, sono iscritte al valore incassato.*» Per i criteri di determinazione del costo ammortizzato la slide rinvia al paragrafo sulle attività valutate al costo ammortizzato (slide 2; lezione 51). Il docente: «a ogni 31 dicembre», perché «la modalità di determinazione è esattamente la stessa» delle attività ([00:00:35]). È la regola della banca (lezione 29, slide 9).
+**Opzione:** Al costo ammortizzato con il metodo del tasso di interesse effettivo, salvo le passività a breve termine, che, ricorrendone i presupposti secondo il criterio generale della significatività e rilevanza, sono iscritte al valore incassato.
+**Distrattori:**
+- Al costo ammortizzato con il metodo del tasso di interesse effettivo, salvo le passività a lungo termine, che, ricorrendone i presupposti secondo il criterio generale della significatività e rilevanza, sono iscritte al valore incassato.
+- Con il metodo indiretto, che rettifica il risultato dell'esercizio degli effetti delle operazioni di natura non monetaria; flussi dell'attività operativa, di investimento e di provvista.
+
+**D:** ⚠️ Che effetto hanno a conto economico il riacquisto di titoli propri e il loro successivo ricollocamento sul mercato, secondo la slide 2 della lezione 52?
+**R:** Il **riacquisto** cancella la passività dallo stato patrimoniale, e «*la differenza tra il valore contabile della passività e l'ammontare pagato per acquistarla viene registrato a Conto economico*». Il **ricollocamento** «*è considerato come una nuova emissione e pertanto comporta l'iscrizione al nuovo prezzo di collocamento, senza alcun effetto a Conto economico*» (slide 2). Il docente: è il caso di chi emette un prestito obbligazionario e poi «se lo ricompra», cioè lo rimborsa in anticipo. La differenza va a conto economico «sia che sia positivo sia che sia negativo». Se poi lo rivende prima della scadenza, la rivendita «viene gestita contabilmente come se fosse una nuova emissione» ([00:03:05]).
+**Opzione:** Riacquisto: la differenza fra valore contabile e ammontare pagato va a conto economico; ricollocamento: nuova emissione al nuovo prezzo di collocamento, senza alcun effetto a conto economico.
+**Distrattori:**
+- Riacquisto: la differenza fra valore contabile e ammontare pagato va a conto economico; ricollocamento: nuova emissione al nuovo prezzo di collocamento, con la differenza rispetto al valore contabile a conto economico.
+- Nel periodo in cui la revisione viene effettuata, se interessa solo quel periodo; se interessa periodi correnti e futuri, in quel periodo e nei relativi periodi futuri.
+
+**D:** ⚠️ Quando viene cancellata una passività finanziaria di BCC Lease, e come si tratta la sua sostituzione con un'altra dello stesso prestatore a condizioni sostanzialmente diverse, secondo la slide 2 della lezione 52?
+**R:** «*Una passività finanziaria viene cancellata quando l'obbligazione sottostante la passività è estinta, annullata ovvero onorata. Laddove una passività finanziaria esistente fosse sostituita da un'altra dello stesso prestatore, a condizioni sostanzialmente diverse, oppure le condizioni di una passività esistente venissero sostanzialmente modificate, tale scambio o modifica viene trattato come una cancellazione contabile della passività originale, accompagnata dalla rilevazione di una nuova passività, con iscrizione nel prospetto dell'utile (perdita) d'esercizio di eventuali differenze tra i valori contabili.*» (slide 2). Il docente omette «annullata», e spiega la regola con uno scambio di obbligazioni «soprattutto infragruppo», con l'eventuale utile o perdita a conto economico ([00:03:05]). ⚠️ La slide parla però di una passività sostituita da un'altra **dello stesso prestatore**.
+**Opzione:** Quando l'obbligazione sottostante è estinta, annullata ovvero onorata; la sostituzione si tratta come cancellazione della passività originale e rilevazione di una nuova, con le differenze nel prospetto dell'utile (perdita) d'esercizio.
+**Distrattori:**
+- Quando l'obbligazione sottostante è estinta, annullata ovvero onorata; la sostituzione si tratta come modifica della passività originale, senza cancellazione, con le differenze nel prospetto dell'utile (perdita) d'esercizio.
+- Esclusivamente in una modifica delle tempistiche di pagamento: sospensione, riscadenziamento o temporanea riduzione del capitale e/o degli interessi; non può modificare altre clausole, come il tasso d'interesse.
+- Perché prevedono interessi corrispettivi sull'intero debito residuo, con una sostanziale neutralità attuariale: non incidono sulle caratteristiche e sui flussi contrattuali originari.
+
+**D:** ⚠️ Per quali cause di interruzione del rapporto spetta il TFR, e come lo si chiamava una volta, secondo il docente della lezione 52?
+**R:** È «quel trattamento che viene riconosciuto ai dipendenti della società per qualunque motivo si interrompe il rapporto con la società stessa datrice di lavoro»: «morte, pensionamento, dimissioni, licenziamento, invalidità permanente». «Qualunque sia il motivo», la società datrice «deve pagare al dipendente un quantum». È «quello che una volta veniva chiamato, in termini molto più beceri, liquidazione» ([00:05:55]). L'elenco delle cause e la «liquidazione» sono solo del docente. Nel bilancio il TFR è la voce 90 del passivo, 166.459 euro (lezione 50, slide 3). Per la lezione 10 spetta per qualunque causa di cessazione del rapporto.
+**Opzione:** Per qualunque motivo: morte, pensionamento, dimissioni, licenziamento, invalidità permanente; una volta lo si chiamava liquidazione.
+**Distrattori:**
+- Solo per pensionamento e dimissioni, non per morte, licenziamento o invalidità permanente; una volta lo si chiamava liquidazione.
+- Piani di previdenza integrativa per i dipendenti, in base ai contratti aziendali: il beneficio è definito, mentre la quota da versare varia con i tassi di interesse e la durata della vita umana.
+
+**D:** ⚠️ Quale decreto ha riformato la previdenza complementare modificando la rilevazione del TFR, e a quale ministro attribuisce la riforma il docente della lezione 52?
+**R:** «*La riforma della previdenza complementare di cui al Decreto legislativo 5 dicembre 2005, n° 252, ha determinato modifiche nelle modalità di rilevazione del TFR.*» (slide 3). Per il docente il TFR «ha subito una forte modifica nel corso dei primi anni 2000», per una modifica «intervenuta grazie all'allora Ministro del Lavoro, Maroni, che ha inciso profondamente sulla struttura del TFR» ([00:07:35]–[00:07:47]). La disciplina «è cambiata dal 2005 con applicazione al 1 gennaio 2007» ([00:09:26]). Il ministro è solo nel transcript. ⚠️ Il D.Lgs. 28 febbraio 2005 n. 38 è un altro decreto: quello che impone gli IAS/IFRS (lezione 50, slide 9).
+**Opzione:** Il D.Lgs. 5 dicembre 2005, n. 252; per il docente la riforma è dell'allora Ministro del Lavoro, Maroni.
+**Distrattori:**
+- Il D.Lgs. 28 febbraio 2005, n. 38; per il docente la riforma è dell'allora Ministro del Lavoro, Maroni.
+- Fra la data di riferimento del bilancio e la sua approvazione da parte del Consiglio di Amministrazione, il 16 marzo 2022, non sono intervenuti fatti che comportino una rettifica dei dati.
+
+**D:** ⚠️ Che tipo di piano sono le quote di TFR maturate al 31 dicembre 2006 e quelle maturande dal 1° gennaio 2007, secondo la slide 3 della lezione 52?
+**R:** Le quote **maturate al 31 dicembre 2006** sono un piano «*a benefici definiti*», «*poiché è l'impresa che è obbligata a corrispondere al dipendente, nei casi previsti dalla legge, l'importo determinato ai sensi dell'art. 2120 del Codice Civile*». Le quote **maturande dal 1° gennaio 2007**, destinate alla previdenza complementare o al fondo di tesoreria INPS, sono un piano «*a contribuzione definita*», «*poiché l'obbligazione dell'Impresa nei confronti del dipendente cessa con il versamento delle quote maturande al fondo*» (slide 3). Per il docente il TFR fino al 2006 «rimane in azienda», mentre per le quote successive «io so quanto devo versare ogni anno» ([00:09:26]). È la disciplina della banca (lezione 29, slide 13).
+**Opzione:** Maturate al 31 dicembre 2006: piano a benefici definiti; maturande dal 1° gennaio 2007: piano a contribuzione definita.
+**Distrattori:**
+- Maturate al 31 dicembre 2006: piano a contribuzione definita; maturande dal 1° gennaio 2007: piano a benefici definiti.
+- Maturate al 31 dicembre 2006 e maturande dal 1° gennaio 2007: piano a benefici definiti.
+- Maturate al 31 dicembre 2006 e maturande dal 1° gennaio 2007: piano a contribuzione definita.
+
+**D:** ⚠️ Quali ipotesi di incremento devono includere le ipotesi attuariali del TFR maturato al 31 dicembre 2006, secondo la slide 3 della lezione 52?
+**R:** La variazione rispetto alla situazione ante 31 dicembre 2006 «*ha riguardato le ipotesi attuariali del modello che dovevano includere le ipotesi di incremento previste dall'art. 2120 del Codice Civile (applicazione di un tasso costituito dall'1,5 per cento in misura fissa e dal 75 per cento dell'indice inflattivo Istat) e non quelle stimate dall'azienda*» (slide 3). Il docente: prima del 2006 le quote già accantonate «venivano anno per anno rivalutate di un fattore pari all'1,5% fisso più il 75% dell'inflazione, o meglio della variazione dei tassi del costo della vita per le famiglie, degli operai e degli impiegati». La quota annua era «la retribuzione annua diviso 13,5%» ([00:07:47]–[00:08:59]).
+**Opzione:** L'1,5 per cento in misura fissa e il 75 per cento dell'indice inflattivo Istat dell'art. 2120 c.c., e non quelle stimate dall'azienda.
+**Distrattori:**
+- Il 75 per cento in misura fissa e l'1,5 per cento dell'indice inflattivo Istat dell'art. 2120 c.c., e non quelle stimate dall'azienda.
+- Quelle stimate dall'azienda, e non l'1,5 per cento in misura fissa e il 75 per cento dell'indice inflattivo Istat dell'art. 2120 c.c.
+
+**D:** ⚠️ Di quali variabili non tiene più conto il nuovo modello di valutazione del fondo TFR al 31 dicembre 2006, secondo la slide 3 della lezione 52?
+**R:** Ne è conseguita «*la necessità di procedere ad una valutazione del fondo al 31 dicembre 2006 in base ad un nuovo modello, che non tenesse più conto di alcune variabili quali il tasso annuo medio di aumento delle retribuzioni, la linea della retribuzione, in funzione dell'anzianità, l'aumento percentuale della retribuzione nel passaggio alla categoria superiore*» (slide 3). ⚠️ «Alcune variabili quali» introduce esempi: l'elenco è aperto, e il docente lo chiude con «eccetera eccetera» ([00:09:26]). Le ipotesi di incremento sono ora quelle dell'art. 2120, «*e non quelle stimate dall'azienda*». L'attualizzazione resta: per il docente il TFR al 2006 dà luogo «solo a rivalutazioni attuariali, ma anche attualizzate sulla base dei tassi» ([00:09:26]).
+**Opzione:** Di alcune variabili quali il tasso annuo medio di aumento delle retribuzioni, la linea della retribuzione, in funzione dell'anzianità, l'aumento percentuale della retribuzione nel passaggio alla categoria superiore.
+**Distrattori:**
+- Di alcune variabili quali il tasso annuo medio di aumento delle retribuzioni, la linea della retribuzione, in funzione dell'anzianità, le ipotesi di incremento previste dall'art. 2120 del Codice Civile.
+- 160 spese amministrative; 170 accantonamenti netti ai fondi per rischi e oneri; 180 e 190 rettifiche nette su attività materiali e immateriali; 200 altri oneri/proventi di gestione, positivi per 5.984.330 euro.
+
+**D:** ⚠️ Da quando decorre il trattamento a contribuzione definita del TFR destinato alla previdenza complementare, e da quando se il dipendente non esercita alcuna opzione, secondo la slide 3 della lezione 52?
+**R:** «*In particolare, tale trattamento decorre, nel caso di TFR destinato alla previdenza complementare, dal momento della scelta oppure, nel caso in cui il dipendente non eserciti alcuna opzione, dal 1° luglio 2007.*» (slide 3). Il docente la legge ([00:09:26]). ⚠️ Il 1° gennaio 2007 è la data da cui le quote maturande configurano un piano a contribuzione definita; il 1° luglio 2007 vale per chi non sceglie. Dal 1° gennaio 2007 BCC Lease rileva l'obbligazione «*sulla base dei contributi dovuti in ogni esercizio*», mentre le quote al 31 dicembre 2006 restano a benefici definiti, secondo lo IAS 19 revised (slide 3).
+**Opzione:** Dal momento della scelta; se il dipendente non esercita alcuna opzione, dal 1° luglio 2007.
+**Distrattori:**
+- Dal momento della scelta; se il dipendente non esercita alcuna opzione, dal 1° gennaio 2007.
+- Dal momento della scelta; se il dipendente non esercita alcuna opzione, dal 31 dicembre 2006.
+
+**D:** ⚠️ Qual è lo svantaggio e quale il vantaggio, per la società, del versamento delle quote di TFR ai fondi dal 1° gennaio 2007, secondo il docente della lezione 52?
+**R:** «Lo svantaggio è uno svantaggio eminentemente finanziario, perché chiaramente la società si priva di quelle risorse finanziarie perché versa i soldi nel fondo complementare»: è «un esborso finanziario e quindi un depauperamento finanziario» che prima non c'era, perché il TFR restava in azienda fino all'interruzione del rapporto. «Ma il vantaggio è un vantaggio di gestione»: la società «non deve più gestire questi soldi», e «non ha più problematiche connesse a rivalutazioni, svalutazioni, piani a benefici definiti, quindi calcolo di attualizzazioni con tassi che cambiano o con tabelle di mortalità che cambiano» ([00:09:26]). Il confronto è solo nel transcript.
+**Opzione:** Svantaggio finanziario: la società si priva delle risorse versate al fondo; vantaggio di gestione: niente più rivalutazioni e attualizzazioni con tassi e tabelle di mortalità che cambiano.
+**Distrattori:**
+- Svantaggio di gestione: la società deve calcolare ogni anno le quote da versare al fondo; vantaggio finanziario: le risorse restano in azienda fino all'interruzione del rapporto.
+- Perché mostra subito se l'impresa ha le risorse finanziarie per far fronte ai propri impegni: il rischio di liquidità è uno dei principali rischi di tutti gli intermediari finanziari.
+
+**D:** ⚠️ Come sono contabilizzati gli interessi di mora nel conto economico di BCC Lease, e secondo quale principio, per la slide 4 e il docente della lezione 52?
+**R:** «*gli interessi sono riconosciuti pro-rata temporis sulla base del tasso di interesse contrattuale o di quello effettivo nel caso di applicazione del costo ammortizzato; gli interessi di mora, eventualmente previsti, sono contabilizzati a Conto economico solo al momento del loro effettivo incasso*» (slide 4). Il docente: «il principio che dovrebbe prevalere ovviamente per la contabilizzazione dei ricavi è il principio di competenza economica, però già vediamo che c'è un'eccezione». Gli interessi di mora si contabilizzano «per cassa e non per competenza»: «questo è un caso di violazione, ma violazione autorizzata dalla legge, del principio di competenza». E insiste: «Ricordatevi, gli interessi di mora sono contabilizzati secondo il principio di cassa» ([00:09:26]). È la regola della banca (lezione 29, slide 18).
+**Opzione:** Solo al momento dell'effettivo incasso: per cassa e non per competenza, una violazione del principio di competenza autorizzata dalla legge.
+**Distrattori:**
+- Pro-rata temporis, al tasso contrattuale: per competenza e non per cassa, come tutti gli altri interessi.
+- Solo al momento dell'effettivo incasso: per cassa e non per competenza, una violazione del principio di competenza non autorizzata dalla legge.
+
+**D:** ⚠️ Quando sono riconosciuti a conto economico i ricavi dalla vendita di strumenti finanziari, determinati dalla differenza fra prezzo della transazione e fair value, secondo la slide 4 della lezione 52?
+**R:** «*… vengono riconosciuti al conto economico in sede di rilevazione dell'operazione se il fair value è determinabile con riferimento a parametri o transazioni recenti osservabili sullo stesso mercato nel quale lo strumento è negoziato; qualora questi valori non siano agevolmente riscontrabili o essi presentino una ridotta liquidità, lo strumento finanziario viene iscritto per un importo pari al prezzo della transazione, depurato del margine commerciale; la differenza rispetto al fair value affluisce al conto economico lungo la durata dell'operazione attraverso una progressiva riduzione, nel modello valutativo, del fattore correttivo connesso con la ridotta liquidità dello strumento*» (slide 4). Il docente la legge senza «osservabili sullo stesso mercato», senza «agevolmente» e senza la riduzione progressiva ([00:09:26]).
+**Opzione:** In sede di rilevazione, se il fair value è determinabile con parametri o transazioni recenti osservabili sullo stesso mercato; se questi valori non sono agevolmente riscontrabili o presentano una ridotta liquidità, lo strumento si iscrive al prezzo della transazione depurato del margine commerciale, e la differenza affluisce a conto economico lungo la durata dell'operazione.
+**Distrattori:**
+- In sede di rilevazione, se il fair value è determinabile con parametri o transazioni recenti osservabili sullo stesso mercato; se questi valori non sono agevolmente riscontrabili o presentano una ridotta liquidità, lo strumento si iscrive al prezzo della transazione depurato del margine commerciale, e la differenza affluisce al patrimonio netto lungo la durata dell'operazione.
+- La voce 70, piani a benefici definiti, senza rigiro a conto economico: −3.621 euro, che portano la riserva da valutazione da −20.551 a −24.172.
+
+**D:** ⚠️ Quali sono, nell'ordine, i passi seguiti in applicazione dell'IFRS 15 per riconoscere i ricavi dai contratti con i clienti, secondo la slide 4 della lezione 52?
+**R:** 1) «*individuazione ed analisi approfondita del contratto sottoscritto con il cliente per identificare la tipologia di ricavo*», talvolta combinando più contratti in uno; 2) «*identificazione delle specifiche obbligazioni di adempimento derivanti dal contratto*»: se i beni o servizi sono distinti, sono «*performance obligations*» contabilizzate separatamente; 3) «*determinazione del prezzo della transazione*», che può includere componenti variabili o non monetarie; 4) «*allocazione del prezzo della transazione*» fra le performance obligations, sulla base dei prezzi di vendita stand-alone o di una stima, alla data di inizio del contratto (*inception date*); 5) «*riconoscimento del ricavo nel momento del soddisfacimento della "performance obligation"*», quando il cliente ottiene il controllo del bene o servizio (slide 4). Il docente non legge questa parte. Sono i cinque criteri della banca (lezione 29, slide 18).
+**Opzione:** Individuazione e analisi del contratto; identificazione delle performance obligations; determinazione del prezzo della transazione; allocazione del prezzo fra le performance obligations; riconoscimento del ricavo al soddisfacimento della performance obligation.
+**Distrattori:**
+- Individuazione e analisi del contratto; identificazione delle performance obligations; determinazione del prezzo della transazione; allocazione del prezzo fra le performance obligations; riconoscimento del ricavo all'incasso del corrispettivo.
+- 10 Cassa e disponibilità liquide; 40 Attività finanziarie valutate al costo ammortizzato; 80 Attività materiali; 90 Attività immateriali; 100 Attività fiscali; 120 Altre attività.
+
+**D:** ⚠️ Dove sono iscritti in bilancio i ratei e i risconti di BCC Lease, secondo la slide 5 della lezione 52?
+**R:** «*I ratei ed i risconti che accolgono oneri e proventi di competenza dell'esercizio maturati su attività e passività sono iscritti in bilancio a rettifica delle attività e passività a cui si riferiscono.*» (slide 5). Il docente: sono «oneri o proventi di competenza di esercizi maturati su attività o passività a cavallo di due o più esercizi» ([00:16:10]). È la regola della banca (lezione 29, slide 13). ⚠️ Nei principi nazionali stanno invece in classi proprie, la D dell'attivo e la E del passivo (lezione 10).
+**Opzione:** A rettifica delle attività e passività a cui si riferiscono.
+**Distrattori:**
+- Tra le altre attività e le altre passività.
+- Nella classe D dell'attivo e nella classe E del passivo.
+- A rettifica dei ricavi e dei costi del conto economico a cui si riferiscono.
+
+**D:** ⚠️ Dove sono classificati gli oneri di ristrutturazione di immobili di terzi privi di autonoma funzionalità, e dove vanno i loro ammortamenti, secondo la slide 5 della lezione 52?
+**R:** «*Gli oneri di ristrutturazione di immobili di terzi privi di autonoma funzionalità ed utilizzabilità sono convenzionalmente classificati in bilancio tra le altre attività; i relativi ammortamenti, effettuati per un periodo che non eccede la durata del contratto di affitto, sono esposti in bilancio tra gli altri oneri di gestione.*» (slide 5). Per il docente le spese per migliorie su beni di terzi «vengono gestite come nei normali bilanci» ([00:16:10]). Per la banca le migliorie si capitalizzano fra le altre attività e si ammortizzano per un periodo non superiore alla durata dell'affitto (lezione 29, slide 13).
+**Opzione:** Tra le altre attività; gli ammortamenti, per un periodo non eccedente la durata del contratto di affitto, tra gli altri oneri di gestione.
+**Distrattori:**
+- Tra le attività materiali; gli ammortamenti, per un periodo non eccedente la durata del contratto di affitto, tra gli altri oneri di gestione.
+- Tra le altre attività; gli ammortamenti, per un periodo non eccedente la vita utile dell'immobile, tra gli altri oneri di gestione.
+- Tra le altre attività; gli ammortamenti, per un periodo non eccedente la durata del contratto di affitto, tra le spese amministrative.
+
+**D:** ⚠️ Con quali parametri di rischio BCC Lease calcola la perdita attesa (ECL), secondo la slide 6 della lezione 52, e quale altro parametro aggiunge il docente?
+**R:** La Società «*definisce una metodologia per il calcolo della perdita attesa (ECL) e dei relativi parametri di rischio necessari alla determinazione della stessa: Probabilità di Default (PD), Loss Given Default (LGD) e Exposure At Default (EAD)*» (slide 6). ⚠️ Il docente dice «la PD, Probability of Default, Loss Given Default, LGD e ECL»: l'ECL è la perdita attesa che si calcola, il terzo parametro della slide è l'EAD. Poi aggiunge: «in teoria ce ne sarebbe pure un'altra che è la maturity, cioè la scadenza dell'attività finanziaria» ([00:16:10]–[00:17:19]). Sono i parametri della banca (lezione 30, slide 12).
+**Opzione:** Probabilità di Default (PD), Loss Given Default (LGD) ed Exposure At Default (EAD); il docente aggiunge, in teoria, la maturity, cioè la scadenza dell'attività finanziaria.
+**Distrattori:**
+- Probabilità di Default (PD), Loss Given Default (LGD) e Credit Value Adjustment (CVA); il docente aggiunge, in teoria, la maturity, cioè la scadenza dell'attività finanziaria.
+- La tolleranza relativa ai crediti; le moratorie, finalizzate a mitigare rischi di natura sistemica e non esigenze specifiche di un singolo debitore, non vanno classificate automaticamente come forbearance.
+
+**D:** ⚠️ Quali crediti rientrano nello stage 1 e nello stage 2, e su quale orizzonte vi si misura la perdita attesa, secondo la slide 6 della lezione 52?
+**R:** «*stage 1: rientrano i rapporti/tranche associati a crediti performing che, alla data di analisi, non registrano un aumento significativo del rischio di credito rispetto alla data di erogazione/acquisto; in questo caso la perdita attesa viene misurata su un orizzonte temporale di un anno; stage 2: rientrano i rapporti/tranche associati a crediti performing che, alla data di analisi, registrano un aumento significativo del rischio di credito rispetto alla data di erogazione/acquisto. In questo caso la perdita attesa viene misurata su un orizzonte temporale che copre l'intera vita dello strumento finanziario*» (slide 6). ⚠️ Il docente non dice gli orizzonti. Per lui lo stage 1 sono crediti «che saranno presumibilmente onorati fino all'ultimo», lo stage 2 crediti «ancora non in sofferenza» ma con un'incassabilità «meno probabile» ([00:17:19]).
+**Opzione:** Stage 1: crediti performing senza aumento significativo del rischio di credito rispetto alla data di erogazione/acquisto, perdita attesa a un anno; stage 2: crediti performing con aumento significativo, perdita attesa sull'intera vita dello strumento.
+**Distrattori:**
+- Stage 1: crediti performing senza aumento significativo del rischio di credito rispetto alla data di erogazione/acquisto, perdita attesa sull'intera vita dello strumento; stage 2: crediti performing con aumento significativo, perdita attesa a un anno.
+- Sostanzialmente verso Iccrea Banca, per la provvista necessaria a erogare i crediti alla clientela: 458 milioni di debiti contro 497 di crediti verso la clientela.
+
+**D:** ⚠️ Quali crediti rientrano nello stage 3 e come si calcola la loro perdita, secondo la slide 6 della lezione 52?
+**R:** «*stage 3: rientrano tutti i rapporti/tranche associati a crediti in default per i quali la perdita è calcolata come differenza fra i flussi di cassa contrattuali e i flussi di cassa attesi, scontati all'effettivo tasso del rapporto (cd. perdita attesa lifetime), di fatto in continuità con quanto previsto dal precedente principio contabile*» (slide 6). Il docente: «tutti i rapporti in default, cioè in sofferenza», in cui è saltata una o più rate o il cui debitore è fallito o in esecuzione ([00:17:19]). ⚠️ Per la lezione 30 le esposizioni deteriorate comprendono anche inadempienze probabili e scaduti oltre 90 giorni (slide 9): il default non è solo la sofferenza.
+**Opzione:** I crediti in default: la perdita è la differenza fra i flussi di cassa contrattuali e i flussi di cassa attesi, scontati all'effettivo tasso del rapporto (perdita attesa lifetime).
+**Distrattori:**
+- I crediti in default: la perdita è la differenza fra i flussi di cassa contrattuali e i flussi di cassa attesi, scontati all'effettivo tasso del rapporto (perdita attesa a un anno).
+- a) crediti verso banche; b) crediti verso società finanziarie; c) crediti verso clientela, la più rilevante: il valore dei finanziamenti concessi in leasing alla clientela.
+
+**D:** ⚠️ Che cosa prevede per i titoli di debito il principio della low credit risk exemption, secondo la slide 7 della lezione 52?
+**R:** «*Per i titoli di debito, la metodologia prevede di utilizzare il principio della low credit risk exemption che, a prescindere dalla presenza o meno del rating all'origination, alloca in stage 1 le esposizioni che presentano un rating migliore o uguale a quello associato all'investment grade alla reporting date.*» (slide 7). ⚠️ Il docente lo legge, poi lo parafrasa con il rating «al momento in cui il titolo è stato acquistato» ([00:18:52]): per la slide conta la reporting date, a prescindere dal rating all'origination. L'investment grade è il segmento da AAA a BBB (lezione 38, slide 6).
+**Opzione:** A prescindere dalla presenza o meno del rating all'origination, alloca in stage 1 le esposizioni che presentano un rating migliore o uguale a quello associato all'investment grade alla reporting date.
+**Distrattori:**
+- A prescindere dalla presenza o meno del rating all'origination, alloca in stage 1 le esposizioni che presentano un rating inferiore a quello associato all'investment grade alla reporting date.
+- In applicazione del D.Lgs. 28 febbraio 2005 n. 38, secondo gli IAS/IFRS emanati dallo IASB, con le interpretazioni dell'IFRIC, omologati dalla Commissione Europea come stabilito dal Regolamento n. 1606 del 19 luglio 2002.
+
+**D:** ⚠️ Quando le attività materiali e immateriali con vita utile definita sono soggette a test di impairment, e in quali casi valore di carico e valore d'uso si discostano, secondo la slide 8 della lezione 52?
+**R:** «*Le attività materiali ed immateriali con vita utile definita sono soggette a test di impairment se esiste un'indicazione che il valore contabile del bene non può più essere recuperato.*» Il valore recuperabile è il fair value al netto degli oneri di dismissione, o il valore d'uso se determinabile e superiore. Per le altre immobilizzazioni il valore di carico corrisponde normalmente al valore d'uso: «*I due valori si discostano, dando luogo a impairment, in caso di danneggiamenti, uscita dal processo produttivo o altre circostanze similari non ricorrenti.*» (slide 8). Il docente: quando «ci sono stati eventi che hanno determinato sostanzialmente una non recuperabilità del bene» ([00:18:52]). ⚠️ Il docente dice «le altre attività finanziarie», ma il titolo della slide è «*ALTRE ATTIVITÀ NON FINANZIARIE*».
+**Opzione:** Se esiste un'indicazione che il valore contabile del bene non può più essere recuperato; i due valori si discostano in caso di danneggiamenti, uscita dal processo produttivo o altre circostanze similari non ricorrenti.
+**Distrattori:**
+- Se esiste un'indicazione che il valore contabile del bene non può più essere recuperato; i due valori si discostano in caso di danneggiamenti, uscita dal processo produttivo o altre circostanze similari ricorrenti.
+- Le voci che non presentano importi né per l'esercizio al quale si riferisce il bilancio, né per quello precedente.
+
+**D:** ⚠️ Come definisce il fair value la slide 9 della lezione 52, e che cosa il fair value non è?
+**R:** «*Il fair value è l'ammontare al quale un'attività (o una passività) può essere scambiata a condizioni di mercato tra controparti consapevoli ed esperte non soggette ad alcuna costrizione.*» Si presume un'entità pienamente operativa, senza intenzione né necessità di liquidare. «*In altri termini, il fair value non è l'importo che un'entità riceverebbe o pagherebbe in caso di un'operazione forzosa, una liquidazione non volontaria o una vendita sottocosto.*» Riflette la qualità creditizia, perché incorpora il rischio di controparte (slide 9). ⚠️ È una delle tre definizioni del deck: la slide 13 dà due volte quella dell'IFRS 13, il prezzo di uscita (*exit price*).
+**Opzione:** L'ammontare al quale un'attività (o una passività) può essere scambiata a condizioni di mercato tra controparti consapevoli ed esperte non soggette ad alcuna costrizione; non è l'importo di un'operazione forzosa, una liquidazione non volontaria o una vendita sottocosto.
+**Distrattori:**
+- L'ammontare al quale un'attività (o una passività) può essere scambiata a condizioni di mercato tra controparti consapevoli ed esperte non soggette ad alcuna costrizione; non è l'importo di un'operazione forzosa, una liquidazione non volontaria o una vendita fra parti indipendenti.
+- Le variazioni derivanti da valutazioni richieste dai principi contabili internazionali, non effettivamente realizzate ma derivanti da valutazioni di mercato; in BCC Lease sono negative per 24.172 euro.
+
+**D:** ⚠️ Come definisce il fair value l'IFRS 13 nell'informativa qualitativa della slide 13 della lezione 52, e che cosa aggiunge il docente?
+**R:** «*Il fair value è definito come il prezzo che si percepirebbe per la vendita di un'attività ovvero che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di valutazione (c.d. exit price) sul mercato principale (o più vantaggioso), a prescindere se tale prezzo sia direttamente osservabile o stimato attraverso una tecnica di valutazione.*» (slide 13). Il docente la rilegge «a titolo di mero memento» e aggiunge: «io aggiungerei pure fra parti indipendenti, che non fa mai male» ([00:21:40]). È la definizione della banca (lezione 31, slide 10).
+**Opzione:** Il prezzo che si percepirebbe per la vendita di un'attività ovvero che si pagherebbe per il trasferimento di una passività in una regolare operazione tra operatori di mercato alla data di valutazione, sul mercato principale o più vantaggioso; il docente aggiunge: fra parti indipendenti.
+**Distrattori:**
+- Il prezzo che si pagherebbe per l'acquisto di un'attività ovvero che si percepirebbe per l'emissione di una passività in una regolare operazione tra operatori di mercato alla data di valutazione, sul mercato principale o più vantaggioso; il docente aggiunge: fra parti indipendenti.
+- Le disposizioni sul bilancio degli intermediari IFRS diversi dagli intermediari bancari: stabiliscono in modo vincolante gli schemi di bilancio e le relative modalità di compilazione, nonché il contenuto della Nota Integrativa.
+
+**D:** ⚠️ Quale prezzo corrente è solitamente il fair value di un'attività posseduta o di una passività da emettere, e quale di un'attività da acquistare o di una passività emessa, secondo la slide 10 della lezione 52?
+**R:** «*per un'attività posseduta o per una passività da emettere, solitamente, il fair value è il prezzo corrente di offerta ("denaro"), mentre per un'attività da acquistare o per una passività emessa è il prezzo corrente richiesto ("lettera")*» (slide 10). Per gli strumenti quotati la slide 11 usa il «denaro» per le attività finanziarie e la «lettera» per le passività, rilevati sul mercato principale alla chiusura dell'esercizio. Si usa un prezzo medio se il differenziale domanda-offerta è scarsamente rilevante o se le posizioni sono compensative per il rischio di mercato. È la regola della banca (lezione 31).
+**Opzione:** Attività posseduta o passività da emettere: prezzo di offerta (denaro); attività da acquistare o passività emessa: prezzo richiesto (lettera).
+**Distrattori:**
+- Attività posseduta o passività da emettere: prezzo richiesto (lettera); attività da acquistare o passività emessa: prezzo di offerta (denaro).
+- Attività posseduta o passività emessa: prezzo di offerta (denaro); attività da acquistare o passività da emettere: prezzo richiesto (lettera).
+- Attività posseduta o passività da emettere: prezzo di offerta (denaro); attività da acquistare o passività emessa: prezzo medio di mercato.
+
+**D:** ⚠️ Quando uno strumento finanziario è di livello 1, 2 o 3 della gerarchia del fair value, secondo la slide 10 della lezione 52?
+**R:** «*Livello 1: quando si dispone di quotazioni (unadjusted) di mercato attivo per le attività e le passività finanziarie oggetto di valutazione; Livello 2: quando si dispone di quotazioni in mercati attivi per attività o passività simili oppure di prezzi calcolati attraverso tecniche di valutazione dove tutti gli input significativi sono basati su parametri osservabili (direttamente o indirettamente) sul mercato; Livello 3: quando si dispone di prezzi calcolati attraverso tecniche di valutazione che utilizzano input significativi basati su parametri non osservabili sul mercato.*» «*La scelta tra le suddette categorie non è discrezionale*» (slide 10). ⚠️ Il docente sposta le formule: dà al livello 1 i parametri osservabili e al livello 2 gli input desunti solo parzialmente dal mercato ([00:18:52]–[00:20:06]). Vale la slide.
+**Opzione:** Livello 1: quotazioni (unadjusted) di mercato attivo per le attività e passività oggetto di valutazione; livello 2: quotazioni in mercati attivi per attività o passività simili, o tecniche con tutti gli input significativi osservabili; livello 3: tecniche con input significativi non osservabili.
+**Distrattori:**
+- Livello 1: quotazioni (unadjusted) di mercato attivo per attività o passività simili; livello 2: quotazioni in mercati attivi per le attività e passività oggetto di valutazione, o tecniche con tutti gli input significativi osservabili; livello 3: tecniche con input significativi non osservabili.
+- 110 Capitale; 150 Riserve; 160 Riserve da valutazione; 170 Utile (Perdita) d'esercizio.
+
+**D:** ⚠️ Quali strumenti sono generalmente considerati quotati in un mercato attivo (livello 1), secondo la slide 10 della lezione 52?
+**R:** «*Sono generalmente considerati quotati in un mercato attivo (Livello 1): i titoli azionari quotati; i titoli di Stato quotati su mercati regolamentati; i titoli obbligazionari con contribuzione di prezzo significativa; i fondi quotati o fondi con NAV (Net Asset Value) calcolato con frequenza giornaliera; i contratti derivati per i quali siano disponibili quotazioni su un mercato regolamentato (cd. listed derivatives).*» (slide 10). Il docente cita come esempi di livello 1 «titoli azionari quotati, titoli di Stato quotati o titoli obbligazionari quotati» ([00:20:06]). ⚠️ «Generalmente» è un'attenuazione della slide. Per Intesa Sanpaolo l'elenco del livello 1 è diverso, con le operazioni in cambi spot e i fondi hedge (lezione 31, slide 15).
+**Opzione:** I titoli azionari quotati; i titoli di Stato quotati su mercati regolamentati; i titoli obbligazionari con contribuzione di prezzo significativa; i fondi quotati o con NAV giornaliero; i derivati con quotazioni su un mercato regolamentato.
+**Distrattori:**
+- I titoli azionari quotati; i titoli di Stato quotati su mercati regolamentati; i titoli obbligazionari con contribuzione di prezzo significativa; i fondi quotati o con NAV giornaliero; i prodotti strutturati di credito e gli ABS.
+- Banche, società di leasing e di factoring, dall'esercizio 2005; le compagnie di assicurazione solo per il bilancio consolidato o se quotate in borsa.
+
+**D:** ⚠️ A quale livello della gerarchia del fair value corrispondono il Mark to Market, il Comparable Approach e il Mark to Model, secondo le slide 13–14 della lezione 52?
+**R:** **Mark to Market**: «*metodo di valutazione coincidente con la classificazione al Livello 1*». **Comparable Approach**: metodo «*basato sull'utilizzo di prezzi di strumenti similari rispetto a quello valutato il cui utilizzo implica una classificazione al Livello 2*» (slide 13). **Mark to Model**: modelli di pricing «*i cui input determinano la classificazione al Livello 2 (in caso di utilizzo di soli input osservabili sul mercato) o al Livello 3 (in caso di utilizzo di almeno un input significativo non osservabile)*» (slide 14). La slide 15 lo ripete: la tecnica «*non determina una classificazione univoca*». ⚠️ Per la slide 10 il «*mark to model approach*» è il livello 3, e per il docente è la valutazione «discrezionale» ([00:20:06]).
+**Opzione:** Mark to Market: livello 1; Comparable Approach: livello 2; Mark to Model: livello 2 con soli input osservabili, livello 3 con almeno un input significativo non osservabile.
+**Distrattori:**
+- Mark to Market: livello 1; Comparable Approach: livello 2; Mark to Model: livello 2 con almeno un input significativo non osservabile, livello 3 con soli input osservabili.
+- La direzione aziendale: valutazioni, stime e ipotesi che influenzano l'applicazione dei principi contabili e gli importi di attività, passività, costi e ricavi, basate sulle esperienze pregresse e su altri fattori considerati ragionevoli.
+
+**D:** ⚠️ Quali esempi di strumenti di livello 1, 2 e 3 della gerarchia del fair value fa il docente della lezione 52?
+**R:** Il docente: «a livello 1 titoli azionari quotati, titoli di Stato quotati o titoli obbligazionari quotati». «A livello 2 sostanzialmente abbiamo tutti quei titoli che non sono quotati direttamente in borsa ma per i quali sostanzialmente possiamo fare riferimento a titoli equivalenti che sono quotati in borsa». «A livello 3 invece abbiamo tutti quei titoli, per esempio prodotti strutturati del credito, asset backed securities, cioè titoli cartolarizzati, tutti quegli strumenti over the counter, cioè fuori mercato». L'esempio è un prestito obbligazionario non quotato di una società del gruppo, valutato mark to model: «il livello meno affidabile» ([00:20:06]–[00:21:40]). ⚠️ Per la slide 11 i derivati OTC si valutano con parametri osservati sul mercato, e gli ABS con parametri desumibili dal mercato. Per la lezione 31 entrambi possono essere di livello 2 (slide 16).
+**Opzione:** Livello 1: titoli azionari, titoli di Stato o obbligazionari quotati; livello 2: titoli non quotati con titoli equivalenti quotati; livello 3: prodotti strutturati del credito, ABS e strumenti over the counter.
+**Distrattori:**
+- Livello 1: titoli azionari, titoli di Stato o obbligazionari quotati; livello 2: titoli obbligazionari con contribuzione di prezzo significativa; livello 3: prodotti strutturati del credito, ABS e strumenti over the counter.
+- 10.757.695 euro: voce 170 del passivo, voce 300 del conto economico, voce 10 del prospetto della redditività complessiva.
+
+**D:** ⚠️ Come sono rilevate le commissioni attive sulle garanzie finanziarie rilasciate, e come lo spiega il docente della lezione 52 per una garanzia a cavallo d'anno?
+**R:** «*Le commissioni attive percepite sulle garanzie rilasciate, al netto della quota rappresentativa del recupero dei costi sostenuti nel periodo di emissione, sono rilevate nel conto economico "pro-rata temporis" alla voce "Commissioni attive" tenendo conto della durata e del valore residuo delle garanzie stesse.*» Le garanzie sono «*lettere di credito, accettazioni e altre garanzie*» (slide 12). Il docente: «se io ho rilasciato una garanzia a cavallo d'anno andrà registrata la commissione in relazione al momento dal giorno in cui ho rilasciato la garanzia fino al 31 dicembre dell'anno di riferimento e la parte eccedente andrà riscontata all'esercizio successivo» ([00:21:40]). Dopo la rilevazione iniziale la passività è misurata al maggiore fra l'importo iniziale meno l'ammortamento cumulato e la migliore stima della spesa (slide 12).
+**Opzione:** Pro-rata temporis alla voce Commissioni attive, al netto del recupero dei costi di emissione; per una garanzia a cavallo d'anno la quota oltre il 31 dicembre si risconta all'esercizio successivo.
+**Distrattori:**
+- Pro-rata temporis alla voce Commissioni attive, al netto del recupero dei costi di emissione; per una garanzia a cavallo d'anno la quota oltre il 31 dicembre si rileva come rateo attivo.
+- Perché le commissioni nette sono negative: le commissioni passive, 1.152.605 euro, superano le commissioni attive, 716.963.
+
+## Lezione 53 — Il bilancio della società di leasing. Analisi delle voci dello Stato Patrimoniale
+
+**D:** ⚠️ In quale categoria sono classificati i crediti verso banche, secondo il test della lezione 53 (domanda 1)?
+**R:** «**Attività finanziarie valutate al costo ammortizzato**». La slide 2 li presenta sotto il titolo «*ATTIVITÀ FINANZIARIE VALUTATE AL COSTO AMMORTIZZATO – VOCE 40*»: finanziamenti per 1.662 mila euro, di cui 1.395 per leasing e 267 altri. Il docente: «sostanzialmente questi non sono valutati al fair value ma sono valutati al costo ammortizzato» ([00:01:49]). È la chiave della domanda 3 del test 16 e della domanda 4 del test 26; nel test 50 (domanda 1) la stessa voce stava «nell'attivo». ⚠️ BCC Lease non ha attività al fair value: per il docente della lezione 50 «non troviamo però le voci 20 e 30». «Altri crediti» non è una voce dello schema: richiama solo gli «*Altri finanziamenti*» delle tabelle. Distrattori del test: «altri crediti», «attività finanziarie valutate al fair value con impatto al conto economico», «attività finanziarie valutate al fair value con impatto alla redditività complesiva».
+**Opzione:** Attività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Altri crediti.
+- Attività finanziarie valutate al fair value con impatto al conto economico.
+- Attività finanziarie valutate al fair value con impatto alla redditività complessiva.
+
+**D:** ⚠️ In quale voce sono classificate le attività materiali ad uso funzionale, secondo il test della lezione 53 (domanda 2), e che difetto ha la domanda?
+**R:** «**Attività materiali**», la voce 80 dell'attivo. La tabella è la «*8.1 Attività materiali ad uso funzionale: composizione delle attività valutate al costo*» (slide 7), che il titolo stampa «*VOCE 0*»; nello schema la voce 80 vale 105.787 euro (lezione 50). Ad uso funzionale ci sono solo diritti d'uso acquisiti con il leasing, 67 mila euro, iscritti «*come disposto dal principio IFRS 16*»; il resto della voce sono 39 mila di rimanenze IAS 2 (slide 8). ⚠️ Nel test le opzioni **B e C sono identiche** parola per parola, «attività finanziarie valutate al costo ammortizzato»: è un difetto della piattaforma, e le opzioni distinte sono tre. Il doppione è il vicino, perché la tabella è delle attività «*valutate al costo*»: ma i diritti d'uso e le rimanenze sono beni, non attività finanziarie. Distrattori del test: «altri crediti», «attività finanziarie valutate al costo ammortizzato» (due volte).
+**Opzione:** Attività materiali.
+**Distrattori:**
+- Altri crediti.
+- Attività finanziarie valutate al costo ammortizzato.
+
+**D:** ⚠️ A quali imposte sono relative le attività fiscali anticipate, secondo il test della lezione 53 (domanda 3)?
+**R:** «**Imposte anticipate**». Le «*Attività fiscali anticipate*» si riferiscono «*per € 3.984 mila a imposte anticipate di cui alla L. 214/2011, riferibili alle svalutazioni di crediti non dedotte, ai sensi del comma 3 dell'articolo 106 del TUIR; per € 71 mila ad altre imposte anticipate*» (slide 13). ⚠️ Il vicino è «**imposte differite**»: la slide 16 chiama le stesse DTA «*imposte differite attive*». Ma le imposte differite senza aggettivo sono le **passività** fiscali differite, sottovoce 60 b), 39 mila euro (slide 14, 17): per il docente quelle «il cui presupposto civilistico si è verificato nell'esercizio ma che fiscalmente saranno imponibili in esercizi successivi» ([00:15:10]). Le imposte correnti sono l'altra sottovoce delle attività fiscali, 96 mila (slide 13). Le «imposte future» non sono una categoria dello schema: le anticipate sono imposte già pagate, che si recuperano negli esercizi successivi ([00:12:24]). Distrattori del test: «imposte differite», «imposte correnti», «imposte future».
+**Opzione:** Imposte anticipate.
+**Distrattori:**
+- Imposte differite.
+- Imposte correnti.
+- Imposte future.
+
+**D:** ⚠️ In quale voce sono classificati i finanziamenti passivi, secondo il test della lezione 53 (domanda 4)?
+**R:** «**Passività finanziarie valutate al costo ammortizzato**», la voce 10 del passivo. Nella tabella dei debiti la riga «*1. Finanziamenti*» vale 454.053 mila euro verso banche: 405.228 mila di finanziamenti a medio termine concessi da Iccrea Banca e 48.825 di conto corrente ordinario (slide 19). Il docente: «sono tutti finanziamenti sostanzialmente» ([00:22:03]). ⚠️ Il vicino è «**altre passività**», la voce 80, che accoglie «*le passività non riconducibili nelle altre voci del passivo dello stato patrimoniale*» (slide 20). BCC Lease non ha passività al fair value: «anche qui non abbiamo né attività né passività finanziarie valutate al fair value» (lezione 50, [00:05:32]). È la chiave della domanda 1 del test 52, con «altri debiti» al posto di «altre passività». Distrattori del test: «altre passività», «passività finanziarie valutate al fair value con impatto al conto economico», «passività finanziarie valutate al fair value con impatto alla redditività complessiva».
+**Opzione:** Passività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Altre passività.
+- Passività finanziarie valutate al fair value con impatto al conto economico.
+- Passività finanziarie valutate al fair value con impatto alla redditività complessiva.
+
+**D:** ⚠️ In quale voce sono classificati i debiti per leasing, secondo il test della lezione 53 (domanda 5)?
+**R:** «**Passività finanziarie valutate al costo ammortizzato**». I «*Debiti per leasing*» sono la riga 2 della tabella della voce 10, 63 mila euro verso clientela (94 nel 2020) (slide 19). La tabella «*DEBITI PER LEASING*» li attribuisce ai diritti d'uso «*Altre*», tutti fra le «*Passività entro 5 anni*» (slide 20). Sono la passività IFRS 16 di BCC Lease come **locataria**, a fronte del diritto d'uso di 67 mila fra le attività materiali (slide 7). Il docente: «sono come vedete bassissimi» ([00:23:11]). ⚠️ Gli importi piccoli non li spostano fra le **altre passività**, il vicino: la nota integrativa li espone nella voce 10. È la stessa chiave della domanda 4. Distrattori del test: «altre passività» e le due categorie di passività al fair value.
+**Opzione:** Passività finanziarie valutate al costo ammortizzato.
+**Distrattori:**
+- Altre passività.
+- Passività finanziarie valutate al fair value con impatto al conto economico.
+- Passività finanziarie valutate al fair value con impatto alla redditività complessiva.
+
+**D:** ⚠️ Che cosa comprende la voce 10 «Cassa e disponibilità liquide» di BCC Lease, e a che cosa è dovuto il decremento dei conti correnti, secondo la slide 2 della lezione 53?
+**R:** «*La voce è relativa a denaro in contante esistente in cassa detenuta presso la sede di Roma*»: a) cassa 1 mila euro (2 nel 2020). Comprende anche i c) conti correnti e depositi a vista presso banche, 109 mila (806 nel 2020), per un totale di 110 mila (808). «*Il decremento, rispetto al precedente esercizio, è imputabile al maggior utilizzo del conto in essere presso Banca Sviluppo S.p.A. per i pagamenti a terzi*» (slide 2). Il docente aggiunge che la sede di Roma è «l'unica sostanzialmente» della società ([00:00:36]). ⚠️ I conti correnti attivi sono presso Banca Sviluppo; verso **Iccrea Banca** BCC Lease ha invece il debito di conto corrente ordinario, 48.825 mila, fra le passività (slide 19).
+**Opzione:** Il denaro in contante in cassa presso la sede di Roma e i conti correnti e depositi a vista presso banche; il decremento è imputabile al maggior utilizzo del conto presso Banca Sviluppo S.p.A. per i pagamenti a terzi.
+**Distrattori:**
+- Il denaro in contante in cassa presso la sede di Roma e i conti correnti e depositi a vista presso banche; il decremento è imputabile al maggior utilizzo del conto presso Iccrea Banca S.p.A. per i pagamenti a terzi.
+- Di non contabilizzare come lease modification le riduzioni temporanee e/o le sospensioni di pagamento di affitti relativi al periodo che va dall'inizio dell'epidemia fino al 30 giugno 2021, operate in conseguenza diretta del Covid-19.
+
+**D:** ⚠️ Come si compongono i crediti verso banche e verso società finanziarie di BCC Lease al 31/12/2021, secondo le slide 2–3 della lezione 53?
+**R:** Verso **banche** (slide 2): finanziamenti per 1.662 mila euro, di cui 1.395 per leasing e 267 altri finanziamenti; la riga dei conti correnti è vuota. Verso **società finanziarie** (slide 3): 1.421 mila in primo e secondo stadio, di cui 1.289 per leasing e 132 altri, più 2 mila di finanziamenti per leasing in terzo stadio. Tornano con lo schema della lezione 50: 1.661.998 e 1.423.228 euro. ⚠️ Il docente legge come crediti verso banche i 1.421 mila delle società finanziarie ([00:00:36]). ⚠️ Nel 2020 il totale verso banche stampa 3.158 mila, perché vi sono contati anche gli 806 mila di conti correnti che stanno nella cassa.
+**Opzione:** Banche: 1.662 mila, di cui 1.395 per leasing e 267 altri finanziamenti; società finanziarie: 1.421 mila in primo e secondo stadio (1.289 per leasing, 132 altri) più 2 mila in terzo stadio.
+**Distrattori:**
+- Banche: 1.662 mila, di cui 1.395 per leasing e 267 di conti correnti; società finanziarie: 1.421 mila in primo e secondo stadio (1.289 per leasing, 132 altri) più 2 mila in terzo stadio.
+- Con i criteri della Capogruppo, stimando il reddito o la perdita fiscali (IRES/IRAP) lungo un arco temporale di previsione di 5 anni e verificandone la capienza rispetto all'ammontare complessivo delle DTA iscritte da sottoporre a test.
+
+**D:** ⚠️ Come si compongono i crediti verso clientela di BCC Lease al 31/12/2021, secondo la slide 4 della lezione 53?
+**R:** «*1.1 Finanziamenti per leasing*» 428.760 mila euro in primo e secondo stadio e 4.498 in terzo stadio; «*1.7 Altri finanziamenti*» 64.175 e 272. Il totale è 492.934 mila in primo e secondo stadio e 4.770 in terzo, cioè i 497.702.904 euro della lezione 50. Il fair value, di livello 3, è 539.637 mila (slide 4). Il docente: i finanziamenti per leasing «fanno la parte del leone», mentre gli altri «sono solo» 64 ([00:01:58]). Per debitori vanno per 362 mila alle amministrazioni pubbliche, per 276.378 alle società non finanziarie e per 216.194 alle famiglie (slide 5).
+**Opzione:** Finanziamenti per leasing 428.760 mila in primo e secondo stadio e 4.498 in terzo; altri finanziamenti 64.175 e 272: in tutto 492.934 e 4.770 mila.
+**Distrattori:**
+- Altri finanziamenti 428.760 mila in primo e secondo stadio e 4.498 in terzo; finanziamenti per leasing 64.175 e 272: in tutto 492.934 e 4.770 mila.
+- Alla stregua di un pagamento variabile, da rilevare quale minor costo a conto economico, senza dover necessariamente ricalcolare la passività finanziaria; BCC Lease non ha richiesto alcuna riduzione o sospensione dei canoni.
+
+**D:** ⚠️ Quanto vale il totale dei crediti per beni concessi in locazione di BCC Lease, e come è esposto, secondo la slide 4 della lezione 53?
+**R:** «*Il totale dei crediti per beni concessi in locazione, pari ad Euro 435.943 mila (di cui Euro 1.395 mila verso banche, Euro 1.291 mila verso enti finanziari ed Euro 433.257 mila verso clienti), è esposto al netto delle rettifiche*» (slide 4). Le tre cifre sono i finanziamenti per leasing delle tre tabelle della voce 40: 1.395 verso banche, 1.289 + 2 verso società finanziarie, 428.760 + 4.498 verso clientela. Il docente: «è esposto al netto delle rettifiche, quindi già rettificato degli eventuali crediti non riscuotibili» ([00:02:24]).
+**Opzione:** 435.943 mila euro (1.395 verso banche, 1.291 verso enti finanziari, 433.257 verso clienti), esposto al netto delle rettifiche.
+**Distrattori:**
+- 435.943 mila euro (1.395 verso banche, 1.291 verso enti finanziari, 433.257 verso clienti), esposto al lordo delle rettifiche.
+- 435.943 mila euro (1.291 verso banche, 1.395 verso enti finanziari, 433.257 verso clienti), esposto al netto delle rettifiche.
+
+**D:** ⚠️ Quanto valgono le rettifiche di valore dei crediti di BCC Lease alla data del bilancio 2021, e come sono composte, secondo la slide 4 della lezione 53?
+**R:** «*Le rettifiche di valore dei crediti alla data del presente bilancio sono pari ad Euro 23.050 mila e risultano così composte: Euro 8.342 mila per rettifiche generiche di valore dei crediti di cui Euro 7.237 mila in stage 1 ed Euro 1.105 mila in stage 2; Euro 14.707 mila per rettifiche specifiche di valore dei crediti Leasing*» (slide 4). Erano 22.207 mila: l'accantonamento è di 7.354 (3.349 specifiche, 4.005 di portafoglio), al netto di riprese di valore per 6.511. «*Ai fini di quadratura con le risultanze economiche*» vanno considerate anche perdite su crediti per 3.548 mila. Il docente: le generiche sono «un accantonamento generico», lo stage 1 sono «quelli performing», lo stage 2 «quelli semi performing» ([00:02:24]–[00:02:46]).
+**Opzione:** 23.050 mila euro: 8.342 di rettifiche generiche (7.237 in stage 1 e 1.105 in stage 2) e 14.707 di rettifiche specifiche dei crediti leasing.
+**Distrattori:**
+- 23.050 mila euro: 8.342 di rettifiche generiche (1.105 in stage 1 e 7.237 in stage 2) e 14.707 di rettifiche specifiche dei crediti leasing.
+- 23.050 mila euro: 14.707 di rettifiche generiche (7.237 in stage 1 e 1.105 in stage 2) e 8.342 di rettifiche specifiche dei crediti leasing.
+
+**D:** ⚠️ Quanto valgono, per stadio, il valore lordo e le rettifiche di valore complessive delle attività finanziarie al costo ammortizzato di BCC Lease al 31/12/2021, secondo la slide 5 della lezione 53?
+**R:** Primo stadio 458.644 mila euro lordi con 7.237 di rettifiche, secondo stadio 45.715 con 1.105, terzo stadio 19.479 con 14.708 (slide 5). Le rettifiche fanno 23.050, come nella slide 4. ⚠️ La tabella copre tutta la voce 40: al netto dà 500.788 mila, crediti verso banche e società finanziarie compresi. Il docente chiama il secondo stadio «crediti parzialmente deteriorati» e il terzo «totalmente deteriorati», quelli «che verosimilmente non rivedrò mai più» ([00:03:28]). ⚠️ Per la slide 10 della lezione 51 gli stage 1 e 2 sono in bonis, e la slide 4 mette le rettifiche di stage 2 fra le generiche. Nel 2020 i valori lordi erano 432.337, 40.626 e 21.157, con 5.528, 798 e 15.880 di rettifiche.
+**Opzione:** Primo stadio 458.644 mila lordi con 7.237 di rettifiche, secondo 45.715 con 1.105, terzo 19.479 con 14.708.
+**Distrattori:**
+- Primo stadio 458.644 mila lordi con 1.105 di rettifiche, secondo 45.715 con 7.237, terzo 19.479 con 14.708.
+- Primo stadio 432.337 mila lordi con 5.528 di rettifiche, secondo 40.626 con 798, terzo 21.157 con 15.880.
+- Primo stadio 458.644 mila lordi con 7.237 di rettifiche, secondo 19.479 con 1.105, terzo 45.715 con 14.708.
+
+**D:** ⚠️ Quanto valgono, per stadio, i finanziamenti oggetto di misure di sostegno COVID-19 di BCC Lease al 31/12/2021, secondo la slide 6 della lezione 53?
+**R:** Valori lordi di 44.854 mila euro in primo stadio, 40.457 in secondo e 2.071 in terzo, con rettifiche di valore complessive di 648, 991 e 1.718 mila (slide 6). Quasi tutto sta nella riga «*Finanziamenti oggetto di concessione conformi con le GL*»; seguono i finanziamenti «*oggetto di misure di moratoria in essere non più conformi alle GL e non valutate come oggetto di concessione*». Nel 2020 il primo stadio era di 83.117 mila e il secondo di 7.757. ⚠️ Il docente legge come «svalutazione di 40 milioni … tutto quanto in 44 milioni, di cui 40 milioni di secondo stadio e 2 milioni di terzo stadio» quelli che sono i **valori lordi** ([00:04:30]): le rettifiche sono in tutto 3.357 mila.
+**Opzione:** Valori lordi di 44.854 mila in primo stadio, 40.457 in secondo e 2.071 in terzo, con rettifiche di 648, 991 e 1.718 mila.
+**Distrattori:**
+- Valori lordi di 40.457 mila in primo stadio, 44.854 in secondo e 2.071 in terzo, con rettifiche di 648, 991 e 1.718 mila.
+- Valori lordi di 83.117 mila in primo stadio, 7.757 in secondo e 1.719 in terzo, con rettifiche di 881, 584 e 829 mila.
+- Valori lordi di 44.854 mila in primo stadio, 40.457 in secondo e 2.071 in terzo, con rettifiche di 1.718, 991 e 648 mila.
+
+**D:** ⚠️ Che cosa è iscritto fra le attività materiali ad uso funzionale di BCC Lease, e in base a quale principio, secondo la slide 7 della lezione 53?
+**R:** Nessuna attività di proprietà: solo **diritti d'uso acquisiti con il leasing**, 67 mila euro (97 nel 2020). «*Alla sottovoce "Attività acquisite in leasing finanziario" è stato iscritto il "diritto d'uso" relativo a beni in leasing (locazione di immobili e noleggio auto) come disposto dal principio IFRS 16*» (slide 7). Il decremento è dovuto «*all'ammortamento delle autovetture ad uso promiscuo*», e non ci sono stati acquisti. ⚠️ Il commento dice un decremento di 20 mila, la tabella e le variazioni annue di 30 (slide 7, 9). Il docente: sono leasing «che la società ha fatto a sua volta», beni presi «da un'altra società» ([00:05:00]–[00:05:52]). Con le rimanenze IAS 2, 39 mila, formano la voce 80.
+**Opzione:** Solo diritti d'uso acquisiti con il leasing, 67 mila euro, relativi a beni in leasing (locazione di immobili e noleggio auto) come disposto dal principio IFRS 16; nessuna attività di proprietà.
+**Distrattori:**
+- Solo diritti d'uso acquisiti con il leasing, 67 mila euro, relativi a beni in leasing (locazione di immobili e noleggio auto) come disposto dal principio IAS 2; nessuna attività di proprietà.
+- I crediti alla data di erogazione, i titoli di debito alla data di regolamento; all'ammontare erogato o prezzo di sottoscrizione, comprensivo dei costi e dei proventi marginali direttamente riconducibili alla transazione.
+
+**D:** ⚠️ Perché BCC Lease iscrive fra le proprie attività materiali beni presi in leasing da un'altra società, pur non essendone proprietaria, secondo il docente della lezione 53?
+**R:** Sono «beni che usa la BCC Lease avendoli presi in leasing da un'altra società». Si contabilizzano «utilizzando la tecnica prevista dai principi contabili internazionali della prevalenza della sostanza sulla forma … quindi i valori dei beni in leasing vengono patrimonializzati pur non essendo in proprietà». Lo prescrive l'**IFRS 16**, «il principio contabile internazionale che prevede come debbano essere iscritte le immobilizzazioni e i beni in leasing» ([00:05:52]). La slide 7 dice solo «*come disposto dal principio IFRS 16*». ⚠️ Il docente chiama questa contabilizzazione «metodo patrimoniale»: nella lezione 05 il metodo patrimoniale è quello del leasing operativo, e l'iscrizione del bene presso l'utilizzatore è il **metodo finanziario**. È la stessa confusione della lezione 34.
+**Opzione:** Per la prevalenza della sostanza sulla forma prevista dai principi contabili internazionali: i valori dei beni in leasing vengono patrimonializzati pur non essendo in proprietà, come prescrive l'IFRS 16.
+**Distrattori:**
+- Per la prevalenza della forma sulla sostanza prevista dai principi contabili internazionali: i valori dei beni in leasing vengono patrimonializzati pur non essendo in proprietà, come prescrive l'IFRS 16.
+- Esclusivamente a seguito di una modifica del modello di business, che dovrebbe accadere molto raramente, decisa dall'alta dirigenza (IAS 24); al fair value al momento della riclassificazione, in maniera prospettica.
+
+**D:** ⚠️ Con quali aliquote BCC Lease ammortizza le proprie immobilizzazioni materiali, secondo la slide 7 della lezione 53?
+**R:** «*Gli ammortamenti sono calcolati in modo sistematico e costante sulla base delle aliquote ritenute rappresentative della vita utile economico- tecnica stimata dei cespiti. Tali immobilizzazioni sono ammortizzate utilizzando l'aliquota del 12% per i mobili e arredi e del 20% per gli impianti elettronici e del 25% per le autovetture. Nel corso dell'esercizio non sono stati effettuati acquisti di attività materiali*» (slide 7). Il docente legge le stesse aliquote, ma dice «20% per gli impianti», senza «elettronici» ([00:05:00]). Per la lezione 51 gli immobili si ammortizzano al 3% annuo e i terreni non si ammortizzano (slide 14), ma BCC Lease non ha immobili di proprietà.
+**Opzione:** 12% per i mobili e arredi, 20% per gli impianti elettronici, 25% per le autovetture.
+**Distrattori:**
+- 20% per i mobili e arredi, 12% per gli impianti elettronici, 25% per le autovetture.
+- 12% per i mobili e arredi, 25% per gli impianti elettronici, 20% per le autovetture.
+- 25% per i mobili e arredi, 20% per gli impianti elettronici, 12% per le autovetture.
+
+**D:** ⚠️ Che cosa sono le rimanenze IAS 2 di BCC Lease, e perché aumentano di 7 mila euro, secondo le slide 8 e 10 della lezione 53?
+**R:** Sono «*Rimanenze di attività materiali ottenute tramite l'escussione delle garanzie ricevute*», 39 mila euro (32 nel 2020), tutte fra le «altre»; nessun'altra rimanenza (slide 8). «*L'incremento pari ad Euro 7 mila è da ricondurre alla vendita delle giacenze relative all'esercizio precedente pari ad € 40 mila ed all'ingresso di nuovi beni nel corso dell'esercizio corrente pari ad € 47 mila*»: 32 + 47 − 40 = 39 (slide 8, 10). Con i diritti d'uso, 67 mila, formano la voce 80. Il docente: «sarebbero sostanzialmente rimanenze … cifre molto molto piccole e quindi veramente poco significative» ([00:05:52]). Nella lezione 28 la banca vi mette i beni da escussione di garanzie o da acquisto in asta (slide 22); BCC Lease ha solo i primi.
+**Opzione:** Rimanenze di attività materiali ottenute tramite l'escussione delle garanzie ricevute, 39 mila euro: aumentano per la vendita delle giacenze dell'esercizio precedente, 40 mila, e l'ingresso di nuovi beni, 47 mila.
+**Distrattori:**
+- Rimanenze di attività materiali ottenute tramite l'acquisto in asta, 39 mila euro: aumentano per la vendita delle giacenze dell'esercizio precedente, 40 mila, e l'ingresso di nuovi beni, 47 mila.
+- Se lo vende, se ha incassato tutti i flussi previsti, oppure, se ne mantiene il rischio, quando il recupero è impossibile.
+
+**D:** ⚠️ Come si compongono le attività immateriali di BCC Lease al 31/12/2021, e come sono iscritte e ammortizzate, secondo la slide 11 della lezione 53?
+**R:** Altre attività immateriali di proprietà per 244 mila euro (365 nel 2020), di cui software 170 (219), nessuna generata internamente; nessun avviamento e nessuna attività riferibile al leasing finanziario, cioè beni inoptati, beni ritirati a seguito di risoluzione e altri beni (slide 11). «*Le immobilizzazioni immateriali sono iscritte al costo di acquisto, comprensivo degli oneri accessori. Le immobilizzazioni di cui persiste utilità economica, sono sistematicamente ammortizzate a quote costanti in relazione alla residua possibilità di utilizzazione e comunque non oltre i cinque anni*»; sono soprattutto «*Licenze ed evoluzione del software resisi necessari all'adeguamento dei processi ed adempimenti*» (slide 11). Nel 2021 gli acquisti sono 24 mila e gli ammortamenti 145 (slide 12). ⚠️ Il docente dice che sono «esclusivamente» software ([00:07:21]): la tabella dice 170 su 244.
+**Opzione:** Altre attività immateriali di proprietà per 244 mila euro, di cui software 170, iscritte al costo di acquisto comprensivo degli oneri accessori; quelle di cui persiste utilità economica sono sistematicamente ammortizzate a quote costanti in relazione alla residua possibilità di utilizzazione e comunque non oltre i cinque anni.
+**Distrattori:**
+- Altre attività immateriali di proprietà per 244 mila euro, di cui software 170, iscritte al costo di acquisto comprensivo degli oneri accessori; quelle di cui persiste utilità economica sono sistematicamente ammortizzate a quote costanti in relazione alla residua possibilità di utilizzazione e comunque non meno di cinque anni.
+- Stage 1 e 2 le attività finanziarie in bonis, stage 3 le deteriorate; all'atto della rilevazione iniziale la rettifica è pari alla perdita attesa a dodici mesi.
+
+**D:** ⚠️ Perché il software ha un valore strumentale necessario all'attività di una società di leasing, e perché va aggiornato di continuo, secondo il docente della lezione 53?
+**R:** «Tutta l'attività operativa della società di leasing, così come nelle banche e così come nelle compagnie assicurative, è costituita prevalentemente da sistemi informatici» ([00:07:54]). Software e licenze sono «il core operativo della strumentazione utilizzata dalle strutture», con «un valore strumentale necessario allo svolgimento dell'attività ordinaria». Richiedono un continuo aggiornamento e una continua evoluzione «per soddisfare anche sempre maggiori richieste da parte della clientela, maggiori richieste di conoscenza e informazione, nonché adeguamento alle previsioni normative»: «variazioni normative o regolamentari importano l'esigenza di avere anche variazioni di natura software». La slide 11 parla di «*Licenze ed evoluzione del software resisi necessari all'adeguamento dei processi ed adempimenti*».
+**Opzione:** Perché l'attività operativa della società di leasing, come quella di banche e compagnie assicurative, è costituita prevalentemente da sistemi informatici, da aggiornare per le richieste della clientela e per l'adeguamento alle previsioni normative.
+**Distrattori:**
+- Perché l'attività operativa della società di leasing, come quella di banche e compagnie assicurative, è costituita prevalentemente da sistemi informatici, da aggiornare solo per le richieste della clientela.
+- Di entrambi: il Business Model identificato per la gestione delle attività finanziarie e le caratteristiche relative ai flussi finanziari contrattuali dell'attività finanziaria (SPPI Test).
+
+**D:** ⚠️ A che cosa si riferiscono le attività fiscali anticipate di BCC Lease, secondo la slide 13 della lezione 53?
+**R:** «*Le "Attività fiscali anticipate" ammontano a complessivi Euro 3.723 mila e si riferiscono: per € 3.984 mila a imposte anticipate di cui alla L. 214/2011, riferibili alle svalutazioni di crediti non dedotte, ai sensi del comma 3 dell'articolo 106 del TUIR; per € 71 mila ad altre imposte anticipate*» (slide 13). ⚠️ Le due componenti fanno 4.055 mila, il totale della tabella (3.723 di IRES e 332 di IRAP) e dello schema della lezione 50: i «*complessivi*» 3.723 sono la sola IRES. Le altre 71 mila sono soprattutto rettifiche di valore per deterioramento di garanzie rilasciate, 57 mila. Le correnti, 96 mila, sono «*interamente riconducibili alla trasformazione di crediti d'imposta*». L'**art. 77**, comma 1, del TUIR è quello dell'aliquota IRES del 24% (slide 16).
+**Opzione:** Per 3.984 mila euro a imposte anticipate di cui alla L. 214/2011, riferibili alle svalutazioni di crediti non dedotte ai sensi del comma 3 dell'articolo 106 del TUIR; per 71 mila ad altre imposte anticipate.
+**Distrattori:**
+- Per 3.984 mila euro a imposte anticipate di cui alla L. 214/2011, riferibili alle svalutazioni di crediti non dedotte ai sensi del comma 1 dell'articolo 77 del TUIR; per 71 mila ad altre imposte anticipate.
+- Con il valore di recupero, pari al maggiore tra il fair value ed il valore d'uso, inteso come il valore attuale dei flussi futuri originati dall'asset.
+
+**D:** ⚠️ Perché la svalutazione dei crediti genera imposte anticipate, e perché vanno rilevate, secondo il docente della lezione 53?
+**R:** Per l'**art. 106 del TUIR** la svalutazione dei crediti «non possa essere dedotta tutta in un unico esercizio, ma debba essere spalmata in più esercizi» ([00:11:00]). Nell'anno della svalutazione l'imponibile fiscale è più alto: «io pago le imposte su un maggior importo», e lo recupero negli esercizi successivi deducendo la parte non dedotta. Nell'esempio, su un fondo svalutazione crediti di 100 se ne deducono 30, e i 70 si deducono negli anni seguenti, ad esempio 10 all'anno ([00:12:24]). Le imposte anticipate «esistono come elemento contabile proprio per consentire il rispetto del principio della competenza economica»: senza, si contabilizzerebbero le imposte «per cassa e non per competenza». Per la slide 13 sono i 3.984 mila di DTA della L. 214/2011.
+**Opzione:** Perché per l'art. 106 del TUIR non si deduce tutta nell'esercizio ma in più esercizi: si pagano prima più imposte e si recuperano dopo, e rilevarle rispetta la competenza economica invece della cassa.
+**Distrattori:**
+- Perché per l'art. 106 del TUIR non si deduce tutta nell'esercizio ma in più esercizi: si pagano prima meno imposte e di più dopo, e rilevarle rispetta la competenza economica invece della cassa.
+- Al 3 per cento annuo; non sono soggetti ad ammortamento i terreni, acquisiti singolarmente o incorporati nel valore di un fabbricato terra-cielo.
+
+**D:** ⚠️ Perché i crediti per imposte anticipate di BCC Lease sono iscritti in bilancio, secondo la slide 16 della lezione 53?
+**R:** «*I crediti per imposte anticipate sono iscritti in bilancio, nel rispetto al principio della prudenza, in quanto vi è la ragionevole certezza dell'esistenza negli esercizi in cui si riverseranno le differenze temporanee deducibili, che hanno portato all'iscrizione delle imposte anticipate, di un reddito imponibile non inferiore all'ammontare delle differenze che si andranno ad annullare.*» E «*In virtù dell'adesione della Società al consolidato fiscale nazionale di gruppo e di elementi oggettivi forniti dalle previsioni reddituali del piano pluriennale risulta sussistere la ragionevole certezza che i redditi imponibili degli esercizi futuri saranno sufficienti a consentire l'utilizzo della fiscalità iscritta in bilancio*» (slide 16). Il docente: «ci sarà spazio per l'imposizione per poter utilizzare queste imposte anticipate» ([00:18:13]). ⚠️ Per i debiti per imposte differite la regola è speculare: non sono iscritti «*qualora vi siano scarse probabilità che la passività corrispondente possa manifestarsi*».
+**Opzione:** Nel rispetto del principio della prudenza, in quanto vi è la ragionevole certezza dell'esistenza negli esercizi in cui si riverseranno le differenze temporanee deducibili, che hanno portato all'iscrizione delle imposte anticipate, di un reddito imponibile non inferiore all'ammontare delle differenze che si andranno ad annullare.
+**Distrattori:**
+- Nel rispetto del principio della prudenza, in quanto vi è la ragionevole certezza dell'esistenza negli esercizi in cui si riverseranno le differenze temporanee tassabili, che hanno portato all'iscrizione delle imposte anticipate, di un reddito imponibile non inferiore all'ammontare delle differenze che si andranno ad annullare.
+- Il consiglio di amministrazione, all'inizio dell'anno o nel corso dell'anno, in funzione degli obiettivi che intende realizzare sul mercato finanziario.
+
+**D:** ⚠️ Quali aliquote sono state applicate alle imposte anticipate e differite di BCC Lease, secondo le slide 15–17 della lezione 53?
+**R:** «*L'aliquota utilizzata per la rilevazione delle imposte anticipate ai fini IRES è pari al 24% così come previsto dall'art. 77, co. 1, del TUIR e ai fini IRAP è pari al 5,23%*» (slide 16). Le stesse aliquote valgono per le passività per imposte differite (slide 17). Il docente: il 5,23% dipende dal fatto che «per gli istituti di credito o per le società di intermediazione … l'aliquota IRAP è più elevata, 24 invece è l'IRES ordinaria» ([00:17:19]); la spiegazione non è nelle slide. L'**art. 106**, comma 3, del TUIR è quello delle svalutazioni di crediti non dedotte (slide 13).
+**Opzione:** 24% per l'IRES, come previsto dall'art. 77, co. 1, del TUIR, e 5,23% per l'IRAP.
+**Distrattori:**
+- 5,23% per l'IRES, come previsto dall'art. 77, co. 1, del TUIR, e 24% per l'IRAP.
+- 24% per l'IRES, come previsto dall'art. 106, co. 3, del TUIR, e 5,23% per l'IRAP.
+
+**D:** ⚠️ A che cosa si riferiscono l'utilizzo di 762 mila euro e l'incremento di 24 mila delle imposte anticipate di BCC Lease nel 2021, secondo la slide 16 della lezione 53?
+**R:** Le imposte anticipate passano da 4.794 a 4.055 mila: +24 rilevate nell'esercizio, −762 di rigiri (slide 15). «*Le imposte anticipate annullate nell'esercizio hanno avuto contropartita a conto economico nella voce 190 "imposte sul reddito dell'esercizio dell'operatività corrente" per Euro 762 mila. Tale utilizzo si riferisce principalmente al rigiro delle imposte differite attive rilevate nei precedenti esercizi con riferimento alle rettifiche dei crediti eccedenti i limiti di deducibilità fiscale e all'ammortamento civilistico dei beni in misura maggiore rispetto a quanto consentito fiscalmente. L'incremento del periodo, pari a Euro 24 mila, si riferisce alla fiscalità differita attiva rilevata sulla perdita fiscale dell'esercizio*» (slide 16). Dei 762, 759 riguardano le DTA della L. 214/2011 (slide 16; [00:17:54]). ⚠️ Il docente attribuisce i 759 a «perdite registrate in anni precedenti», e i 24 prima a «una svalutazione dei crediti», poi alle perdite dell'esercizio ([00:16:44], [00:19:31]). Nello schema della lezione 50 le imposte sono la voce 270, non la 190.
+**Opzione:** Principalmente al rigiro delle imposte differite attive rilevate nei precedenti esercizi con riferimento alle rettifiche dei crediti eccedenti i limiti di deducibilità fiscale e all'ammortamento civilistico dei beni in misura maggiore rispetto a quanto consentito fiscalmente; i 24 mila alla fiscalità differita attiva rilevata sulla perdita fiscale dell'esercizio.
+**Distrattori:**
+- Principalmente al rigiro delle imposte differite attive rilevate nei precedenti esercizi con riferimento alle rettifiche dei crediti eccedenti i limiti di deducibilità fiscale e all'ammortamento civilistico dei beni in misura minore rispetto a quanto consentito fiscalmente; i 24 mila alla fiscalità differita attiva rilevata sulla perdita fiscale dell'esercizio.
+- Il software applicativo in non più di 5 anni, con un criterio lineare; gli avviamenti non subiscono ammortamenti e sono sottoposti a test di impairment alla data di bilancio.
+
+**D:** ⚠️ Come sono composte le passività fiscali correnti di BCC Lease al 31/12/2021, e come sono esposte, secondo la slide 14 della lezione 53?
+**R:** «*Le passività fiscali per imposte correnti ammontano ad Euro 1.028 mila, e sono costituite dal debito IRAP per € 779 mila e dall'addizionale IRES per € 249 mila; sono esposte al netto degli acconti versati pari ad Euro 515 mila*» (slide 14). Torna con lo schema: 1.028 − 515 = 513, le correnti di 513.152 euro della lezione 50. Il docente: le correnti «sono sostanzialmente le imposte di competenza dell'esercizio», esposte al netto degli acconti «perché vengono versati gli acconti nel corso dell'esercizio» ([00:15:10]).
+**Opzione:** 1.028 mila euro: debito IRAP per 779 mila e addizionale IRES per 249 mila, esposte al netto degli acconti versati per 515 mila.
+**Distrattori:**
+- 1.028 mila euro: debito IRES per 779 mila e addizionale IRAP per 249 mila, esposte al netto degli acconti versati per 515 mila.
+- 1.028 mila euro: debito IRAP per 779 mila e addizionale IRES per 249 mila, esposte al lordo degli acconti versati per 515 mila.
+
+**D:** ⚠️ Che cosa sono le passività fiscali correnti e quelle differite, secondo il docente della lezione 53, e quanto valgono le differite di BCC Lease?
+**R:** «Le passività fiscali correnti sono sostanzialmente le imposte di competenza dell'esercizio. Le passività fiscali differite sono invece quelle passività fiscali il cui presupposto civilistico si è verificato nell'esercizio ma che fiscalmente saranno imponibili in esercizi successivi» ([00:15:10]). In BCC Lease le differite sono 39 mila euro, tutte IRES e in contropartita del conto economico (slide 14), «uguali a quelle dell'anno precedente, quindi probabilmente è una componente la cui tassazione è ancora rinviata». Per la slide 17 «*Nell'esercizio non vi è stata alcuna movimentazione della voce imposte differite*». Nella lezione 50 il docente le chiamava «imposte da versare negli anni successivi».
+**Opzione:** Le correnti sono le imposte di competenza dell'esercizio; le differite hanno il presupposto civilistico nell'esercizio ma saranno fiscalmente imponibili in esercizi successivi: in BCC Lease 39 mila euro, senza movimenti.
+**Distrattori:**
+- Le correnti sono le imposte di competenza dell'esercizio; le differite hanno il presupposto fiscale nell'esercizio ma saranno civilisticamente rilevate in esercizi successivi: in BCC Lease 39 mila euro, senza movimenti.
+- Non è di per sé determinante al fine di definire il modello di business: un modello HTC non implica necessariamente la detenzione fino a scadenza, e lo stesso principio prevede fattispecie di vendite ritenute ammissibili.
+
+**D:** ⚠️ Quali righe compongono le altre attività di BCC Lease, e con quale scadenza, secondo la slide 18 della lezione 53?
+**R:** «*Le altre attività risultano composte dalle voci, con scadenza a vista, dettagliate nella seguente tabella*»: crediti tributari verso Erario ed altri Enti impositori 8.798 mila euro; risconti attivi non riconducibili a voce propria 145; IVA di Gruppo 376; consolidato fiscale 79; altre partite attive 1.957; totale 11.355 (11.454 nel 2020) (slide 18). Fra i crediti tributari c'è il credito IVA «*maturato nel 2018 per mancato rinnovo della liquidazione IVA di gruppo*», 9.352 mila, di cui residuano 7.986 dopo l'utilizzo parziale in compensazione; «*dal primo luglio 2019 si è costituito il gruppo IVA ICCREA*». Ci sono poi acconti di bollo per 639 mila e di sostitutiva per 162. Fra le altre partite attive stanno gli anticipi a fornitori per immatricolazione delle autovetture destinate ai contratti di leasing, 1.884 mila. I depositi cauzionali sono invece debiti verso la clientela (slide 19).
+**Opzione:** Crediti tributari verso Erario ed altri Enti impositori, risconti attivi non riconducibili a voce propria, IVA di Gruppo, consolidato fiscale e altre partite attive, tutte con scadenza a vista.
+**Distrattori:**
+- Crediti tributari verso Erario ed altri Enti impositori, risconti attivi non riconducibili a voce propria, IVA di Gruppo, consolidato fiscale e depositi cauzionali, tutte con scadenza a vista.
+- Terreni, immobili strumentali, investimenti immobiliari, impianti tecnici, mobili, arredi e attrezzature; anche i beni utilizzati nell'ambito di contratti di leasing finanziario.
+
+**D:** ⚠️ Da che cosa sono costituiti i finanziamenti della voce 10 del passivo di BCC Lease al 31/12/2021, secondo la slide 19 della lezione 53?
+**R:** «*per Euro 405.228 mila a finanziamenti a medio termine concessi da Iccrea Banca, il tasso applicato varia tra 0,221% e 2,679% con scadenza dal 21/01/2022 al 22/07/2026. Per Euro 48.825 mila al debito Iccrea Banca per il saldo di conto corrente ordinario (nell'esercizio 2020 il c/c Euro 55.608); tale decremento del saldo di c/c ha corrispondenza con aumento dell'indebitamento a medio termine*» (slide 19). In tutto 454.053 mila, la riga «*1. Finanziamenti*» verso banche. ⚠️ La slide apre con «*La voce finanziamenti, pari ad Euro 436.616 mila*», che è il totale della voce nel 2020, e il docente ripete «405 milioni su 436» ([00:22:03]). Per il docente sono stati concessi «per poter fare i finanziamenti per i leasing ai propri clienti». Dal 2007 la società chiede anche depositi cauzionali ai clienti, 1.447 mila, fra gli altri debiti verso clientela.
+**Opzione:** Per 405.228 mila euro da finanziamenti a medio termine di Iccrea Banca, al tasso fra 0,221% e 2,679%, e per 48.825 mila dal saldo di conto corrente ordinario verso Iccrea Banca, sceso da 55.608 mila.
+**Distrattori:**
+- Per 405.228 mila euro da finanziamenti a breve termine di Iccrea Banca, al tasso fra 0,221% e 2,679%, e per 48.825 mila dal saldo di conto corrente ordinario verso Iccrea Banca, sceso da 55.608 mila.
+- Le perdite fiscali delle controllate in perdita compensano gli utili delle controllate in utile, fino a poter non pagare imposte né per le une né per le altre.
+
+**D:** ⚠️ Come si compongono le altre passività di BCC Lease al 31/12/2021, secondo le slide 20–21 della lezione 53?
+**R:** Sono «*le passività non riconducibili nelle altre voci del passivo dello stato patrimoniale*» (slide 20): debiti verso enti previdenziali e Stato 249 mila euro; verso l'erario ed altri enti impositori 698; relativi al personale dipendente 537; altre 14.251; totale 15.735 (12.925 nel 2020). Le «altre» sono debiti verso fornitori per 12.085 mila, in aumento di 1.130, e altri debiti per 2.166, di cui 1.717 verso la consolidante per imposte correnti e 424 per premi assicurativi (slide 21). Per il docente i debiti verso fornitori «sono veri e propri debiti commerciali» ([00:24:45]). I debiti verso l'erario sono soprattutto imposta di bollo e sostitutiva, 645 mila, «perché sui contratti di leasing va applicato il bollo»; quelli verso il personale sono le competenze maturate e non liquidate, per il docente «gli stipendi di dicembre» ([00:23:36]).
+**Opzione:** Debiti verso enti previdenziali e Stato 249 mila; verso l'erario ed altri enti impositori 698; relativi al personale dipendente 537; altre 14.251, di cui 12.085 di debiti verso fornitori.
+**Distrattori:**
+- Debiti verso enti previdenziali e Stato 249 mila; verso l'erario ed altri enti impositori 537; relativi al personale dipendente 698; altre 14.251, di cui 12.085 di debiti verso fornitori.
+- Solo attività finanziarie valutate al costo ammortizzato: non ci sono attività al fair value con impatto a conto economico né al fair value con impatto sulla redditività complessiva.
+
+**D:** ⚠️ Verso chi sono 179 mila euro dei debiti verso istituti previdenziali di BCC Lease, e perché ci sono, secondo la slide 21 e il docente della lezione 53?
+**R:** «*per Euro 179 mila per debiti verso Enasarco*», sui 249 mila di debiti verso istituti previdenziali; gli altri 65 mila sono oneri previdenziali a carico della Società o trattenuti sulle retribuzioni ai dipendenti e ai collaboratori coordinati e continuativi (slide 21). Il docente: l'Enasarco «è l'ente previdenziale degli agenti, perché abbiamo detto che la BCC Lease vende i propri leasing anche attraverso una rete agenziale» ([00:24:45]). Per la lezione 49 BCC Lease lavora anche con i fornitori di beni strumentali (vendor) e con il canale BCC (slide 5).
+**Opzione:** Verso Enasarco, l'ente previdenziale degli agenti: BCC Lease vende i propri leasing anche attraverso una rete agenziale.
+**Distrattori:**
+- Verso Enasarco, l'ente previdenziale degli agenti: BCC Lease vende i propri leasing solo attraverso una rete agenziale.
+- Verso Enasarco, l'ente previdenziale dei dipendenti: BCC Lease vende i propri leasing anche attraverso una rete agenziale.
+
+**D:** ⚠️ Come si è mosso il TFR di BCC Lease nel 2021, secondo la tabella delle variazioni annue della slide 22 della lezione 53?
+**R:** Esistenze iniziali 209 mila euro, accantonamenti dell'esercizio 13, liquidazioni effettuate 55, rimanenze finali **166** (slide 22), come nello schema della lezione 50 (166.459 euro). ⚠️ Il commento della stessa slide dice «*Il valore iscritto in bilancio è pari ad Euro 209 mila con un incremento, rispetto al precedente esercizio, di Euro 11 mila*»: sono le cifre del 2020, da 198 a 209. Il fondo civilistico finale è 176 mila, e con la riga «*Surplus/(Deficit)*» di (10) dà il fondo TFR IAS 19 di 166 (slide 23). Per il docente è il TFR «mantenuto in azienda fino al 2006, perché poi è stato trasferito ai fondi complementari» ([00:24:45]).
+**Opzione:** Da 209 a 166 mila euro: accantonamenti dell'esercizio per 13 mila e liquidazioni effettuate per 55 mila.
+**Distrattori:**
+- Da 209 a 166 mila euro: accantonamenti dell'esercizio per 55 mila e liquidazioni effettuate per 13 mila.
+- Da 209 a 166 mila euro: accantonamenti dell'esercizio per 13 mila e altre variazioni in diminuzione per 55 mila.
+
+**D:** ⚠️ Con quale metodo sono attualizzati i flussi futuri di TFR di BCC Lease, e con quali ipotesi economico-finanziarie, secondo le slide 22–23 della lezione 53?
+**R:** «*I flussi futuri di TFR sono attualizzati alla data di bilancio in base al "metodo della proiezione unitaria del credito"*» (slide 22). Le ipotesi economico-finanziarie, in «*ipotesi dinamica*», sono: tasso annuo di attualizzazione dalla **Curva EuroComposite AA**, tasso di inflazione **1,750%**, tasso annuo incremento TFR **2,813%**, tasso annuo di incremento salariale **0,880%** (slide 23). Le ipotesi demografiche: mortalità dalle Tabelle RG48 della Ragioneria Generale dello Stato, invalidità dalle tavole INPS distinte per età e sesso, pensionamento al 100% al raggiungimento dei requisiti AGO adeguati al D.L. n. 4/2019, uscite stimate sul 2005–2011 e fissate all'1,50% annuo (slide 22). È il metodo della lezione 29 per il TFR maturato fino al 2006. Il docente non legge le ipotesi.
+**Opzione:** Con il metodo della proiezione unitaria del credito; attualizzazione sulla curva EuroComposite AA, inflazione 1,750%, incremento del TFR 2,813%, incremento salariale 0,880%.
+**Distrattori:**
+- Con il metodo della proiezione unitaria del credito; attualizzazione sulla curva EuroComposite AA, inflazione 1,750%, incremento del TFR 0,880%, incremento salariale 2,813%.
+- I crediti a sofferenza, le inadempienze probabili, le esposizioni ristrutturate e le esposizioni scadute o sconfinate, secondo le regole della Banca d'Italia.
+- Perché i crediti per fiscalità anticipata restano iscritti solo se il recupero delle perdite fiscali è perlomeno verosimile o probabile; se il test fallisce, in teoria dovrebbero essere eliminati.
+
+**D:** ⚠️ Come si compongono i fondi per rischi e oneri di BCC Lease al 31/12/2021, secondo le slide 24–25 della lezione 53?
+**R:** «*1. Fondi per rischio di credito relativo a impegni e garanzie finanziarie rilasciate*» 209 mila euro (143 nel 2020), e «*4. Altri fondi per rischi ed oneri*», tutti «*4.2 oneri per il personale*», 7 mila (4): totale 216 mila contro 147 (slide 24). I 209 mila sono tutti «*Impegni a erogare fondi*» in **primo stadio** (slide 25). Gli altri fondi crescono per un accantonamento di 3 mila. Non ci sono fondi di quiescenza. ⚠️ Il docente dice che i fondi «sono rimasti praticamente invariati» ([00:24:45]). Per la lezione 51 i fondi per impegni e garanzie seguono gli stadi e la perdita attesa dell'IFRS 9 (slide 18).
+**Opzione:** Fondi per rischio di credito relativo a impegni e garanzie finanziarie rilasciate, 209 mila euro, tutti impegni a erogare fondi in primo stadio, e altri fondi per oneri per il personale, 7 mila.
+**Distrattori:**
+- Fondi per rischio di credito relativo a impegni e garanzie finanziarie rilasciate, 209 mila euro, tutti impegni a erogare fondi in terzo stadio, e altri fondi per oneri per il personale, 7 mila.
+- Quando sono esclusivamente rappresentati da pagamenti di capitale e interessi maturati sull'importo del capitale da restituire: sono compatibili con un contratto base di concessione del credito (Basic Lending Arrangement).
+
+**D:** ⚠️ Da quali voci è composto il patrimonio netto di BCC Lease alla chiusura dell'esercizio 2021, secondo la slide 25 della lezione 53?
+**R:** «*Capitale Sociale per Euro 20 milioni; Riserva legale per Euro 4.881 mila; Riserva straordinaria Euro 208 mila; Riserve relative a versamenti dei soci per copertura perdite future per Euro 5.750 mila; Riserve di utili negativa da FTA per Euro - 88 mila; Riserva da valutazione per Euro – 24 mila. Utile dell'esercizio per Euro 10.758 mila*» (slide 25). Sono le voci 110, 150, 160 e 170 dello schema della lezione 50. La riserva straordinaria è 207 mila nelle slide 27–28. Il docente legge l'elenco arrotondando: riserva legale «per 4 milioni», versamenti «per 5 milioni» ([00:24:45]).
+**Opzione:** Capitale sociale 20 milioni; riserva legale 4.881 mila; riserva straordinaria 208; versamenti dei soci per copertura perdite future 5.750; riserve di utili negativa da FTA −88; riserva da valutazione −24; utile 10.758.
+**Distrattori:**
+- Capitale sociale 20 milioni; riserva legale 5.750 mila; riserva straordinaria 208; versamenti dei soci per copertura perdite future 4.881; riserve di utili negativa da FTA −88; riserva da valutazione −24; utile 10.758.
+- Di solito più elevato del nominale; la sua maturazione è ripartita per tutta la durata del credito, non concentrata né sull'esercizio iniziale né su quello finale.
+
+**D:** ⚠️ Com'è composto il capitale sociale di BCC Lease, e chi lo possiede, secondo la slide 26 della lezione 53?
+**R:** 20.000.000 di euro, tutto in azioni ordinarie, invariato. «*Il capitale sociale risulta interamente sottoscritto e versato, ed è composto da n. 2.000.000 (duemilioni) azioni del valore nominale di Euro 10,00 (dieci) cadauna*» (slide 26). L'unico azionista è **Iccrea BancaImpresa S.p.A.**, con 2.000.000 di azioni, il 100%. ⚠️ Il docente dice «Iccrea Banca» ([00:24:45]): per la lezione 49 Iccrea BancaImpresa è la controllante, e Iccrea Banca è la capogruppo che concede i finanziamenti (slide 19).
+**Opzione:** 2.000.000 di azioni ordinarie del valore nominale di 10 euro, interamente sottoscritte e versate, tutte di Iccrea BancaImpresa S.p.A.
+**Distrattori:**
+- 2.000.000 di azioni privilegiate del valore nominale di 10 euro, interamente sottoscritte e versate, tutte di Iccrea BancaImpresa S.p.A.
+- 20.000.000 di azioni ordinarie del valore nominale di 1 euro, interamente sottoscritte e versate, tutte di Iccrea BancaImpresa S.p.A.
+
+**D:** ⚠️ A che cosa è connessa la riserva di utili negativa di 88 mila euro di BCC Lease, secondo la slide 27 della lezione 53?
+**R:** «*La riserva di utili negativa, pari ad Euro 88 mila, è connessa agli effetti della transizione ai principi contabili internazionali Ias/Ifrs*» (slide 27): è la riserva FTA della slide 25, invariata nel 2021. Nella stessa slide gli utili portati a nuovo, 207 mila, «*si riferiscono alla riserva straordinaria costituita a far data dall'esercizio 2018*», e la riserva c/copertura perdite future, 5.750 mila, «*accoglie i versamenti effettuati in precedenti esercizi dalla controllante al fine di ripianare le perdite maturate*». ⚠️ Il docente dice prima «da FTA, cioè da imposte anticipate», poi «connesse agli effetti della transizione dei principi di contabilità internazionale» ([00:24:45]): vale la seconda, come la slide. La riserva da valutazione, −24 mila, viene invece dai piani a benefici definiti (lezione 50).
+**Opzione:** Agli effetti della transizione ai principi contabili internazionali Ias/Ifrs.
+**Distrattori:**
+- Ai versamenti effettuati in precedenti esercizi dalla controllante al fine di ripianare le perdite maturate.
+- Alla riserva straordinaria costituita a far data dall'esercizio 2018.
+- Agli effetti della valutazione dei piani a benefici definiti.
+
+**D:** ⚠️ Per quali utilizzi è disponibile la riserva legale di BCC Lease, e per quale quota, secondo la slide 28 della lezione 53?
+**R:** La riserva legale, 4.881 mila euro, ha possibilità di utilizzazione «**B – C**», cioè per copertura perdita e per distribuzione soci, con una quota disponibile di **881** mila; la quota non distribuibile è 4.000 mila (slide 28). È il quinto del capitale di 20.000 mila, la soglia della lezione 11: è disponibile solo l'eccedenza. La riserva straordinaria (207) e i versamenti in conto copertura perdite (5.750) sono «A – B – C», interamente disponibili. Il docente: «la riserva legale può essere usata solo per copertura perdite e distribuzione di soci» ([00:24:45]). Nel 2021 la legale è cresciuta di 914 mila per attribuzione di utili (slide 27).
+**Opzione:** Per copertura perdita e per distribuzione soci (B e C), con una quota disponibile di 881 mila euro su 4.881: la quota non distribuibile è di 4.000 mila.
+**Distrattori:**
+- Per aumento di capitale sociale, copertura perdita e distribuzione soci (A, B e C), con una quota disponibile di 881 mila euro su 4.881: la quota non distribuibile è di 4.000 mila.
+- Civilisticamente nell'esercizio della cessione; fiscalmente possono essere tassate in cinque anni, quello della cessione e i quattro successivi.
+
+**D:** ⚠️ Che cosa indicano le lettere A, B e C della possibilità di utilizzazione delle riserve di BCC Lease, secondo la legenda della slide 28 della lezione 53?
+**R:** «*A: per aumento di capitale sociale B: per copertura perdita C: per distribuzione soci*» (slide 28). Riserva straordinaria e versamenti in conto copertura perdite sono «A – B – C», la riserva legale «B – C». ⚠️ Nella lezione 46 la slide di UnipolSai non aveva la legenda, e il docente leggeva «A, B e C» come copertura perdite, distribuzione e aumento di altre riserve ([00:24:46] di quella lezione). Qui la **A** è l'aumento di capitale sociale.
+**Opzione:** A per aumento di capitale sociale, B per copertura perdita, C per distribuzione soci.
+**Distrattori:**
+- A per copertura perdita, B per aumento di capitale sociale, C per distribuzione soci.
+- A per aumento di capitale sociale, B per distribuzione soci, C per copertura perdita.
+- A per distribuzione soci, B per copertura perdita, C per aumento di capitale sociale.
+
+## Lezione 54 — Il bilancio della società di factoring. La relazione sulla gestione
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi macroeconomica, secondo il test della lezione 54 (domanda 1)?
+**R:** «**Sì**», secondo la chiave, ed è la chiave più solida del test. La relazione 2021 di UniCredit Factoring si apre con il PIL (+6,5%) e l'inflazione (4,2% a fine anno) (slide 2) e ha il paragrafo «*Lo Scenario esterno - Il quadro macroeconomico*» (slide 5–6). Il docente: la relazione «inizia da un'analisi macroeconomica sostanzialmente» ([00:02:39]), e poi «continua con l'analisi del quadro macroeconomico» ([00:17:13]). ⚠️ Che l'analisi sia **dovuta** non lo dice nessuna fonte della lezione, e qui manca anche il titolo «*LE ALTRE INFORMAZIONI OBBLIGATORIE*» che faceva da appiglio nella lezione 49. È la domanda 1 del test 49, riformulata e con le opzioni in altro ordine: la «si» passa da D a B. Il vicino è «a discrezione del compilatore del bilancio». Distrattori del test: «no», «a discrezione del compilatore del bilancio», «solo per il bilancio consolidato».
+**Opzione:** Sì.
+**Distrattori:**
+- No.
+- A discrezione del compilatore del bilancio.
+- Solo per il bilancio consolidato.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dell'attività commerciale, secondo il test della lezione 54 (domanda 2)?
+**R:** «**Sì**», secondo la chiave. ⚠️ Nella relazione di UniCredit Factoring nessun paragrafo si intitola all'attività commerciale, come «*L'ATTIVITÁ COMMERCIALE*» di BCC Lease (lezione 49), ma il contenuto c'è. Ci sono turnover, crediti e quote di mercato (slide 2–3) e i 13 punti commerciali (slide 4). C'è «*L'Attività della Società*», con la cooperazione fra la rete commerciale della Società e quella del Gruppo (slide 7). C'è «*L'attività di marketing*» (slide 12–13). Il docente: «viene specificata qual è l'attività della società» ([00:20:01]), poi «un'attività di marketing abbastanza importante» ([00:25:24]). Per l'art. 2428 c.c. la relazione informa sull'andamento della gestione «*nel suo complesso e nei vari settori in cui essa ha operato*» (lezione 04, slide 3). Rispetto al test 49 la «si» passa da C ad A. Distrattori del test: «a discrezione del compilatore del bilancio», «solo per il bilancio consolidato», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del compilatore del bilancio.
+- Solo per il bilancio consolidato.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dei processi e dell'organizzazione, secondo il test della lezione 54 (domanda 3)?
+**R:** «**Sì**»: il paragrafo «*La Struttura organizzativa*» parla proprio di processi. Nel 2021 la struttura è stata modificata «*con il principale obiettivo di rendere più efficaci ed efficienti i processi a supporto delle decisioni del Senior Management e di presidio dei rischi e del pricing*». Le iniziative sono la revisione dei Comitati Manageriali, la struttura tecnica «*Pricing*» e l'esternalizzazione di tasse e fiscalità alla Capogruppo (slide 7), più le iniziative ICT (slide 8). Il docente: «la struttura organizzativa è stata in parte rivista» ([00:20:01]). ⚠️ L'obbligo non è detto. Il vicino è «a discrezione del revisore»: il revisore giudica la coerenza della relazione con il bilancio, ma a predisporla sono gli amministratori (lezione 48, slide 7). È la domanda 3 del test 49, identica anche nell'ordine delle opzioni: chiave in D. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dell'ambiente di controllo, secondo il test della lezione 54 (domanda 4)?
+**R:** «**Sì**», secondo la chiave. ⚠️ Ma il deck 54 e il docente **non trattano** l'ambiente di controllo. Ci sono solo il «*presidio dei rischi*» e il controllo sul rispetto delle strategie di pricing (slide 7), e gli interventi per i rischi operativi e la Compliance (slide 8). La relazione di UniCredit Factoring ne parla più avanti, nella lezione 55, con «*Gestione dei rischi e metodologie di controllo*» e «*L'attività di auditing*». La chiave regge sul test 49, dove il capitolo «*L'AMBIENTE DI CONTROLLO*» di BCC Lease c'era (lezione 49, slide 11–12), e nulla la contraddice. Il vicino è «a discrezione del revisore», ma il revisore non redige la relazione sulla gestione (lezione 48, slide 7). Rispetto al test 49 la «si» passa da B a C. Distrattori del test: «solo per il bilancio consolidato», «a discrezione del revisore», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- Solo per il bilancio consolidato.
+- A discrezione del revisore.
+- No.
+
+**D:** ⚠️ La relazione sulla gestione deve contenere un'analisi dei risultati di esercizio, secondo il test della lezione 54 (domanda 5)?
+**R:** «**Sì**»: i risultati stanno già nella sintesi della slide 2. I ricavi sono «*inferiori al 2020 ma superiori alle previsioni di piano*», il margine di intermediazione è di 154 milioni (−9,0%), il cost/income del 33,8%, l'utile netto di 70,0 milioni (+21,5%) e il ROE del 9,3%. Seguono le tabelle dei dati economici e degli indici di redditività (slide 3–4), commentate dal docente ([00:08:57]–[00:13:35]). Per l'art. 2428 c.c. la relazione informa sull'andamento della gestione «*con particolare riguardo ai costi, ai ricavi, agli investimenti*» (lezione 04, slide 3). Il vicino è «a discrezione del revisore», che la relazione la giudica ma non la redige (lezione 48, slide 7). Rispetto al test 49 la «si» passa da A a C. Distrattori del test: «a discrezione del revisore», «solo per il bilancio consolidato», «no».
+**Opzione:** Sì.
+**Distrattori:**
+- A discrezione del revisore.
+- Solo per il bilancio consolidato.
+- No.
+
+**D:** ⚠️ A chi è rivolta prevalentemente l'attività delle società di factoring, secondo il docente della lezione 54?
+**R:** Le società di factoring, «così come le società di leasing, le società bancarie, le società assicurative, costituiscono uno degli intermediari finanziari sicuramente più presenti nella nostra realtà nazionale» ([00:00:04]). «Si distinguono soprattutto per la loro attività rivolta prevalentemente alle **imprese** e agli **enti istituzionali**, prevalentemente **enti pubblici**». Fra i loro clienti prevalenti ci sono quindi «enti pubblici e imprese private di varia dimensione, di piccola, media e grande dimensione» ([00:00:04]–[00:01:24]). Le slide non ne parlano: cominciano direttamente con la relazione sulla gestione.
+**Opzione:** Prevalentemente alle imprese e agli enti istituzionali, prevalentemente enti pubblici: enti pubblici e imprese private di piccola, media e grande dimensione.
+**Distrattori:**
+- Prevalentemente alle imprese e agli enti istituzionali, prevalentemente enti pubblici: enti pubblici e solo imprese private di grande dimensione.
+- Per qualunque motivo: morte, pensionamento, dimissioni, licenziamento, invalidità permanente; una volta lo si chiamava liquidazione.
+- Nel momento in cui vengono realizzati.
+
+**D:** ⚠️ In che cosa è specializzata UniCredit Factoring, e di quali servizi correlati possono usufruire i clienti, secondo la slide 7 della lezione 54?
+**R:** «*UniCredit Factoring è la Società italiana del Gruppo UniCredit specializzata nell'acquisto pro soluto e pro-solvendo di crediti commerciali ceduti dai clienti, i quali, oltre ad ottimizzare la struttura patrimoniale, possono usufruire di una serie di servizi correlati, quali l'incasso, la gestione e l'assicurazione dei crediti stessi*» (slide 7). Il docente aggiunge «la contabilizzazione, l'accredito direttamente nei propri conti e così via», e dice che i clienti ottimizzano la struttura patrimoniale «mediante la cessione dei propri crediti» ([00:20:01]). ⚠️ Le forme sono **due**, pro soluto **e** pro solvendo, e l'elenco dei servizi è aperto («*quali*»). Il docente non spiega la differenza fra le due forme: la nota della lezione la dà in un blocco ℹ️.
+**Opzione:** Nell'acquisto pro soluto e pro-solvendo di crediti commerciali ceduti dai clienti, che oltre ad ottimizzare la struttura patrimoniale possono usufruire di servizi correlati, quali l'incasso, la gestione e l'assicurazione dei crediti stessi.
+**Distrattori:**
+- Nell'acquisto esclusivamente pro soluto di crediti commerciali ceduti dai clienti, che oltre ad ottimizzare la struttura patrimoniale possono usufruire di servizi correlati, quali l'incasso, la gestione e l'assicurazione dei crediti stessi.
+- Solo al momento dell'effettivo incasso: per cassa e non per competenza, una violazione del principio di competenza autorizzata dalla legge.
+- A rettifica delle attività e passività a cui si riferiscono.
+
+**D:** ⚠️ Su quali mercati è attiva UniCredit Factoring, e con quale supporto, secondo la slide 7 della lezione 54?
+**R:** «*La Società è attiva sia sul mercato domestico, sia su quello cross-border. Per entrambe le tipologie di operazioni si avvale del supporto delle banche del Gruppo avendo sviluppato una salda cooperazione tra la propria rete commerciale e quella del Gruppo*» (slide 7). Per il docente UniCredit Factoring opera con i clienti del gruppo UniCredit, e «verosimilmente ha una scarsa clientela esterna» ([00:20:01]). ⚠️ Il docente traduce cross-border con il mercato «confinante, quindi con i paesi direttamente confinanti con l'Italia»: la slide non lo definisce.
+**Opzione:** Sia sul mercato domestico, sia su quello cross-border; per entrambe le tipologie di operazioni si avvale del supporto delle banche del Gruppo, con una salda cooperazione tra la propria rete commerciale e quella del Gruppo.
+**Distrattori:**
+- Solo sul mercato domestico, non su quello cross-border; per le sue operazioni si avvale del supporto delle banche del Gruppo, con una salda cooperazione tra la propria rete commerciale e quella del Gruppo.
+- Attività posseduta o passività da emettere: prezzo di offerta (denaro); attività da acquistare o passività emessa: prezzo richiesto (lettera).
+
+**D:** ⚠️ Di quanto è cresciuto il PIL italiano nel 2021, e quando è previsto il ritorno ai livelli pre-pandemia, secondo la relazione di UniCredit Factoring (lezione 54)?
+**R:** «*Nel 2021 il prodotto interno lordo (PIL) è aumentato del 6,5% su base annua ed è previsto tornare a livelli pre-pandemia nel primo trimestre dell'esercizio in corso*» (slide 2). Per il docente è «l'esercizio 2022» ([00:02:39]). Il 2020 aveva chiuso a «*- 8,9%*» (slide 6). ⚠️ Il docente dice che nel 2020 il PIL «era calato del 9,5%» ([00:03:00]): vale la slide. Il 5,1% è la crescita dell'**area euro** nel 2021, il 4,2% quella prevista per il 2022 (slide 5). ⚠️ Nella relazione di BCC Lease il PIL 2021 cresce del 6,3% (lezione 49, slide 2): sono due relazioni con stime diverse.
+**Opzione:** Del 6,5% su base annua, con il ritorno ai livelli pre-pandemia previsto nel primo trimestre del 2022.
+**Distrattori:**
+- Del 5,1% su base annua, con il ritorno ai livelli pre-pandemia previsto nel primo trimestre del 2022.
+- Del 6,5% su base annua, con il ritorno ai livelli pre-pandemia già raggiunto nel quarto trimestre del 2021.
+- Del 4,2% su base annua, con il ritorno ai livelli pre-pandemia previsto nel primo trimestre del 2023.
+
+**D:** ⚠️ Quale inflazione registra l'Italia a fine 2021, e per quale causa, secondo la relazione di UniCredit Factoring (lezione 54)?
+**R:** «*Si è verificata una forte pressione inflattiva, sul fine anno i prezzi al consumo segnano un 4,2% riflettendo il rincaro dei prezzi dell'energia*» (slide 2). La slide 6 precisa: «*L'inflazione ha raggiunto valori elevati in dicembre (4,2%) sulla spinta delle quotazioni energetiche con un aumento annuale di 1,9%, anche se al netto delle componenti volatili la variazione annuale dei prezzi resta modesta a 0,8%*». Il docente: i prezzi al consumo «segnano un rincaro del 4,2%», a causa prevalentemente del rincaro dei prezzi dell'energia ([00:03:48]). ⚠️ Il 2,6% è la variazione sui dodici mesi in **eurozona**, il 3,2% la proiezione dell'Eurosistema per il 2022 (slide 6).
+**Opzione:** Un 4,2% a dicembre, riflettendo il rincaro dei prezzi dell'energia; aumento annuale dell'1,9%, 0,8% al netto delle componenti volatili.
+**Distrattori:**
+- Un 1,9% a dicembre, riflettendo il rincaro dei prezzi dell'energia; aumento annuale del 4,2%, 0,8% al netto delle componenti volatili.
+- Un 2,6% a dicembre, riflettendo il rincaro dei prezzi dell'energia; aumento annuale dell'1,9%, 0,8% al netto delle componenti volatili.
+- Un 4,2% a dicembre, riflettendo il rincaro dei prezzi dell'energia; aumento annuale dell'1,9%, 3,2% al netto delle componenti volatili.
+
+**D:** ⚠️ Quando si era innescata la spirale inflazionistica da rincaro dell'energia, rispetto alla guerra russo-ucraina, secondo il docente della lezione 54?
+**R:** Il dato dei prezzi al consumo, 4,2% a fine 2021 (slide 2), «è significativo sottolinearlo». Il prezzo della componente energia «era aumentato già prima della fine dell'esercizio 2021 e quindi già prima dell'inizio della guerra russa-ucraina». È la testimonianza che «una spirale inflazionistica da rincaro della componente … energetica si era innescato prima già dell'inizio del conflitto russo-ucraino» ([00:03:48]). Del conflitto la relazione non dà conto, perché si riferisce al 2021. Ma «quel conflitto aumenterà la spirale inflazionistica», per la ricerca di altre fonti e altri fornitori delle risorse energetiche venute a mancare ([00:05:14]–[00:05:25]).
+**Opzione:** Già prima dell'inizio del conflitto russo-ucraino, che poi aumenterà la spirale inflazionistica.
+**Distrattori:**
+- Solo dopo l'inizio del conflitto russo-ucraino, che ne è stato la causa scatenante.
+- L'1,5 per cento in misura fissa e il 75 per cento dell'indice inflattivo Istat dell'art. 2120 c.c., e non quelle stimate dall'azienda.
+
+**D:** ⚠️ Che cosa prevedevano le proiezioni dell'Eurosistema sull'inflazione, e come le giudica il docente della lezione 54?
+**R:** «*L'inflazione in eurozona risente dell'andamento dei rincari energetici con una variazione dei prezzi al consumo sui dodici mesi pari al 2,6% (ma con valori fine anno ai massimi degli ultimi tre decenni). Secondo le proiezioni dell'Eurosistema l'inflazione si porterebbe al 3,2% nel 2022 per poi abbassarsi all'1,8% nel 2023, valore prossimo all'obiettivo di stabilità dei prezzi nel medio termine del 2%*» (slide 6). Per il docente «queste previsioni erano molto ottimiste»: l'inflazione è arrivata «circa al 10%», per il convergere della coda della pandemia e del conflitto russo-ucraino ([00:17:31]).
+**Opzione:** Il 3,2% nel 2022 e l'1,8% nel 2023, vicino all'obiettivo del 2%; per il docente molto ottimiste: si è arrivati a circa il 10%.
+**Distrattori:**
+- Il 3,2% nel 2023 e l'1,8% nel 2022, vicino all'obiettivo del 2%; per il docente molto ottimiste: si è arrivati a circa il 10%.
+- Il 2,6% nel 2022 e il 3,2% nel 2023, oltre l'obiettivo del 2%; per il docente molto ottimiste: si è arrivati a circa il 10%.
+- Il 3,2% nel 2022 e l'1,8% nel 2023, vicino all'obiettivo del 2%; per il docente troppo pessimiste: si è scesi sotto il 2%.
+
+**D:** ⚠️ Come sono andati nel 2021 i prestiti bancari alle società non finanziarie e alle famiglie, secondo la slide 6 della lezione 54?
+**R:** «*La dinamica dei prestiti alle società non finanziarie mostra una minima crescita all'interno di un quadro stagnante, (0,4% annuale a novembre 2021) riflesso di una scarsa domanda di nuovi finanziamenti anche dovuta alla consistente liquidità accantonata da inizio pandemia. Per contro i prestiti alle famiglie segnano una continua espansione a ritmo sostenuto (3,8% annuale a novembre 2021) con crescita dei mutui per abitazioni e di altri prestiti e un andamento ancora debole del credito al consumo*» (slide 6, in sintesi anche nella slide 2). Il tasso sui finanziamenti alle imprese resta contenuto, all'1,1% a novembre (slide 6). Il docente: la crescita dei prestiti alle imprese è debole, «se non stagnante, dovuta alla liquidità accantonata nel biennio», mentre il credito alle famiglie prosegue a ritmo sostenuto ([00:05:25]).
+**Opzione:** Società non finanziarie: minima crescita in un quadro stagnante, dovuta anche alla liquidità accantonata; famiglie: espansione a ritmo sostenuto.
+**Distrattori:**
+- Società non finanziarie: espansione a ritmo sostenuto, dovuta anche alla liquidità accantonata; famiglie: minima crescita in un quadro stagnante.
+- Società non finanziarie: minima crescita in un quadro stagnante, dovuta anche alla liquidità accantonata; famiglie: contrazione a ritmo sostenuto.
+- Società non finanziarie: minima crescita in un quadro stagnante, dovuta anche all'aumento dei tassi; famiglie: espansione a ritmo sostenuto.
+
+**D:** ⚠️ Quanto valgono nel 2021 il turnover cumulativo del mercato italiano del factoring e lo stock delle anticipazioni erogate, secondo la lezione 54?
+**R:** «*Il mercato italiano del factoring torna a crescere in misura consistente nel 2021 registrando un turnover cumulativo di circa 250 miliardi di euro, in crescita del 9,7% rispetto all'anno precedente, crescita superiore a quella del PIL del paese. Torna a crescere del 2,1% rispetto al 2020 anche lo stock delle anticipazioni erogate, raggiungendo 51,4 miliardi di euro*» (slide 7). Nella slide 2 lo stock delle anticipazioni sono gli «*impieghi per 51,4 miliardi, + 2,1%*». Il docente: il settore cresce «più del 6,5» del PIL. ⚠️ Dice però che gli impieghi «crescono di 51 miliardi pari al 2,1%», mentre 51,4 miliardi è il loro ammontare ([00:05:25]). I 55,9 miliardi (+5,6%) sono il turnover della sola UniCredit Factoring (slide 2).
+**Opzione:** Turnover di circa 250 miliardi di euro (+9,7%, più del PIL); anticipazioni erogate per 51,4 miliardi (+2,1%).
+**Distrattori:**
+- Turnover di circa 250 miliardi di euro (+2,1%, meno del PIL); anticipazioni erogate per 51,4 miliardi (+9,7%).
+- Turnover di circa 55,9 miliardi di euro (+5,6%, meno del PIL); anticipazioni erogate per 12,6 miliardi (+7,0%).
+- Turnover di circa 250 miliardi di euro (+9,7%, più del PIL); anticipazioni erogate per 51,4 miliardi (−16,57%).
+
+**D:** ⚠️ Quanto è concentrato il mercato italiano del factoring, e quali quote stima di avere UniCredit Factoring, secondo la lezione 54?
+**R:** «*Il mercato si conferma altamente competitivo e concentrato. Sulla base dei dati a novembre, i primi tre competitor detengono infatti una quota di mercato sul turnover superiore al 50%*» (slide 7). UniCredit Factoring «*ha confermato la leadership di mercato sia nella quota di turnover (stima 22,4%) che in quella degli impieghi (stima 24,5%)*». Il contesto ha «*un livello di concorrenza sempre alto nel segmento degli impieghi a breve*» e «*una costante pressione sui margini*» (slide 2). Per il docente sono «3-4 circa società» a dividersi la parte prevalente del mercato, «quasi tutte società di derivazione bancaria» ([00:05:25]).
+**Opzione:** I primi tre competitor hanno oltre il 50% del turnover; UniCredit Factoring stima quote del 22,4% sul turnover e del 24,5% sugli impieghi.
+**Distrattori:**
+- I primi tre competitor hanno oltre il 50% del turnover; UniCredit Factoring stima quote del 24,5% sul turnover e del 22,4% sugli impieghi.
+- I primi cinque competitor hanno oltre il 50% del turnover; UniCredit Factoring stima quote del 22,4% sul turnover e del 24,5% sugli impieghi.
+- I primi tre competitor hanno oltre il 50% del turnover; UniCredit Factoring stima quote del 9,7% sul turnover e del 2,1% sugli impieghi.
+
+**D:** ⚠️ Quanto valgono nel 2021 il turnover e i crediti di fine periodo di UniCredit Factoring, secondo la slide 2 della lezione 54?
+**R:** «*Il flusso di turnover è stato pari a 55,9 miliardi in aumento del 5,6% sul dato 2020, mentre i crediti di fine periodo si attestano a 12,6 miliardi, in crescita del 7,0% sull'anno precedente*» (slide 2). Nella tabella: turnover 55.868 milioni (52.900 nel 2020), outstanding 15.266 (+9,9%), crediti 12.643 (+7,1%) (slide 3). ⚠️ Il docente chiama il turnover «il flusso derivante dai ricavi» e l'outstanding «sostanzialmente i crediti» ([00:05:25], [00:08:57]). Ma il margine di intermediazione è di soli 154 milioni, e outstanding e crediti sono due righe diverse della tabella. I 250 miliardi (+9,7%) sono il turnover dell'intero mercato (slide 7).
+**Opzione:** Turnover di 55,9 miliardi (+5,6% sul 2020); crediti di fine periodo di 12,6 miliardi (+7,0%).
+**Distrattori:**
+- Turnover di 55,9 miliardi (+7,0% sul 2020); crediti di fine periodo di 12,6 miliardi (+5,6%).
+- Turnover di 15,3 miliardi (+9,9% sul 2020); crediti di fine periodo di 12,6 miliardi (+7,0%).
+- Turnover di circa 250 miliardi (+9,7% sul 2020); crediti di fine periodo di 51,4 miliardi (+2,1%).
+
+**D:** ⚠️ In quale livello di ricavi si è tradotto lo scenario 2021 per UniCredit Factoring, rispetto al 2020 e alle previsioni, secondo la slide 2 della lezione 54?
+**R:** «*Lo scenario descritto si è tradotto, in termini economici, in un livello di ricavi inferiore al 2020 ma superiore alle previsioni di piano*» (slide 2). Il docente: «un livello di ricavi inferiore al 2020, ma comunque superiore alle previsioni del budget» ([00:08:57]). Il margine di intermediazione cala infatti del 9,0%, a 154 milioni (slide 2–3).
+**Opzione:** In un livello di ricavi inferiore al 2020 ma superiore alle previsioni di piano.
+**Distrattori:**
+- In un livello di ricavi superiore al 2020 ma inferiore alle previsioni di piano.
+- In un livello di ricavi inferiore al 2020 e alle previsioni di piano.
+- In un livello di ricavi superiore al 2020 e alle previsioni di piano.
+
+**D:** ⚠️ Come sono andati nel 2021 margine di intermediazione, cost/income e utile netto di UniCredit Factoring, secondo la slide 2 della lezione 54?
+**R:** «*Il margine di intermediazione, pari a 154 milioni, ha infatti registrato un decremento del 9,0% rispetto all'anno precedente. I costi operativi, in leggera crescita sull'anno precedente, confermano un ottimo rapporto costi/ricavi che si attesta al 33,8%*». L'utile netto, «*dopo imposte pari a 31,6 milioni, è pari a 70,0 milioni, rispetto a 57,6 milioni dell'anno precedente, ovvero un incremento del 21,5%*». L'utile lordo è di 101,6 milioni (slide 2). Nella tabella: margine 154 (169), costi operativi −52 (−49), utile netto 70 (58) (slide 3). ⚠️ Il rapporto è «*ottimo*», ma peggiora dal 28,9% (slide 4). Per il docente il margine di intermediazione è «uno dei principali indicatori della redditività aziendale» ([00:08:57]).
+**Opzione:** Margine di intermediazione 154 milioni, in calo del 9,0%; cost/income al 33,8%; utile netto 70,0 milioni, in crescita del 21,5% da 57,6.
+**Distrattori:**
+- Margine di intermediazione 154 milioni, in crescita del 9,0%; cost/income al 33,8%; utile netto 70,0 milioni, in crescita del 21,5% da 57,6.
+- Margine di intermediazione 154 milioni, in calo del 9,0%; cost/income al 28,9%; utile netto 70,0 milioni, in crescita del 21,5% da 57,6.
+- Margine di intermediazione 154 milioni, in calo del 9,0%; cost/income al 33,8%; utile netto 101,6 milioni, in crescita del 21,5% da 57,6.
+
+**D:** ⚠️ Perché l'utile netto 2021 di UniCredit Factoring supera quello del 2020 nonostante un risultato della gestione peggiore, secondo il docente della lezione 54?
+**R:** Il margine di intermediazione cala e i costi operativi crescono, quindi il risultato della gestione peggiora: 102 milioni contro 120, −15,3%. Il risultato netto della gestione è invece superiore, 103 contro 93, +9,8% (slide 3). Il docente: «sono gli accantonamenti, i minori accantonamenti o i recuperi sulle rettifiche fatti in anni precedenti, quindi sostanzialmente i **ripristini**, che consentono di raggiungere una redditività superiore a quella dell'anno precedente. Questo però non deve distrarre dal fatto che la redditività della gestione non è particolarmente esaltante e anzi appare più contenuta rispetto a quella dell'anno precedente» ([00:12:03]–[00:12:47]). Per la slide 2 «*Un saldo positivo degli accantonamenti per svalutazione crediti e rischi ed oneri hanno influenzato l'utile lordo*».
+**Opzione:** Per i minori accantonamenti o i recuperi sulle rettifiche fatti in anni precedenti, cioè i ripristini; la redditività della gestione appare anzi più contenuta rispetto all'anno precedente.
+**Distrattori:**
+- Per i minori accantonamenti o i recuperi sulle rettifiche fatti in anni precedenti, cioè i ripristini; la redditività della gestione appare anzi migliore rispetto all'anno precedente.
+- Svantaggio finanziario: la società si priva delle risorse versate al fondo; vantaggio di gestione: niente più rivalutazioni e attualizzazioni con tassi e tabelle di mortalità che cambiano.
+- Se esiste un'indicazione che il valore contabile del bene non può più essere recuperato; i due valori si discostano in caso di danneggiamenti, uscita dal processo produttivo o altre circostanze similari non ricorrenti.
+
+**D:** ⚠️ Come cambiano nel 2021 il ROE e il cost/income di UniCredit Factoring, secondo gli indici di redditività della slide 4 della lezione 54?
+**R:** Negli «*INDICI DI REDDITIVITA'*» il ROE passa dal 7,9% al **9,3%** (+1,5) e il cost/income dal 28,9% al **33,8%** (+4,9) (slide 4). Il docente: il ROE, cioè «la misurazione della redditività netta aziendale rispetto ai mezzi propri», è migliorato ([00:08:57]). Invece «il rapporto fra costi e ricavi è peggiorato nel senso che l'incidenza dei costi è maggiore rispetto a quella dell'anno precedente» ([00:13:35]). ⚠️ La slide 2 lo chiama comunque «*un ottimo rapporto costi/ricavi*».
+**Opzione:** ROE dal 7,9% al 9,3%, migliorato; cost/income dal 28,9% al 33,8%, peggiorato: l'incidenza dei costi è maggiore.
+**Distrattori:**
+- ROE dal 7,9% al 9,3%, migliorato; cost/income dal 33,8% al 28,9%, migliorato: l'incidenza dei costi è minore.
+- ROE dal 9,3% al 7,9%, peggiorato; cost/income dal 28,9% al 33,8%, peggiorato: l'incidenza dei costi è maggiore.
+- ROE dal 7,9% al 9,3%, migliorato; cost/income dal 28,9% al 33,8%, migliorato: l'incidenza dei costi è minore.
+
+**D:** ⚠️ Quali sono gli indici di rischiosità di UniCredit Factoring, e come cambiano nel 2021, secondo la slide 4 della lezione 54?
+**R:** Negli «*INDICI DI RISCHIOSITA'*»: «*Crediti in sofferenza netti / Crediti*» dallo 0,22% allo **0,13%**, «*Crediti deteriorati netti / Crediti*» dall'1,11% allo **0,98%** (slide 4). La slide 2 parla di «*una diminuzione dell'incidenza dei crediti deteriorati sul totale*». La copertura è «*particolarmente elevata per le sofferenze (92,66% considerando anche i passaggi a perdita parziali) ed in diminuzione per le inadempienze probabili dal 72,8 al 59,94%*». Il docente: sono «i due indici prevalentemente utilizzati per determinare la rischiosità di credito», ed «entrambi … sono migliorati» ([00:13:35]).
+**Opzione:** Sofferenze nette / crediti, dallo 0,22% allo 0,13%; deteriorati netti / crediti, dall'1,11% allo 0,98%: entrambi migliorati.
+**Distrattori:**
+- Sofferenze nette / crediti, dall'1,11% allo 0,98%; deteriorati netti / crediti, dallo 0,22% allo 0,13%: entrambi migliorati.
+- Sofferenze nette / crediti, dallo 0,13% allo 0,22%; deteriorati netti / crediti, dallo 0,98% all'1,11%: entrambi peggiorati.
+- Sofferenze nette / patrimonio netto, dallo 0,22% allo 0,13%; deteriorati netti / patrimonio netto, dall'1,11% allo 0,98%.
+
+**D:** ⚠️ Perché il CET 1 ratio di UniCredit Factoring sale dal 10,93% al 19,37% nel 2021, secondo la slide 2 della lezione 54?
+**R:** «*Il Patrimonio Netto si attesta a 822 milioni, a cui corrisponde, una volta dedotto il 70% dell'utile da distribuire a dividendo, un Capitale primario di classe 1 di 772 milioni, in aumento del 2,8% su fine 2020. Tenuto conto che il totale attivo ponderato registra una diminuzione del 42,0%, il CET 1 ratio sale da 10,93 a 19,37%*» (slide 2). Nella tabella: capitale primario 772 (751), totale attività ponderate per il rischio 3.988 (6.874), CET 1 19,37% (10,93%) (slide 5). Il docente: «un valore ampiamente superiore a quello previsto dalla normativa» ([00:16:12]). Le slide non dicono da che cosa dipenda il calo dell'attivo ponderato.
+**Opzione:** Perché, a fronte di un capitale primario di classe 1 di 772 milioni (+2,8%), il totale attivo ponderato diminuisce del 42,0%.
+**Distrattori:**
+- Perché il capitale primario di classe 1 cresce del 42,0%, a 772 milioni, mentre il totale attivo ponderato diminuisce del 2,8%.
+- Al fair value, utilizzando una stima; la differenza rispetto al corrispettivo o valore di emissione è imputata a Conto economico.
+
+**D:** ⚠️ A che cosa serve il CET 1, e che cosa indicano le sigle UL ed ECL, secondo il docente della lezione 54?
+**R:** Il CET 1, «la parte più core del capitale di rischio», è il capitale che deve essere presente nella società di factoring «per garantire la sua solidità patrimoniale a fronte dei rischi che si assume» ([00:13:35]–[00:15:46]). Garantisce «una migliore capacità dell'impresa di assorbire eventuali perdite non previste, le cosiddette **unexpected loss**, che spesso trovate indicate con l'acronimo **UL**, mentre le perdite attese sono quelle che trovate indicate con **ECL**», cioè «Expected Credit Loss, che appunto sono le perdite attese sui crediti». Il capitale di sicurezza «serve a coprire le eventuali unexpected loss, cioè le perdite inattese» ([00:16:12]–[00:17:05]). Nella lezione 30 la perdita attesa è già compresa nel tasso di interesse, e quando le perdite la superano serve più capitale di vigilanza (lezione 30, transcript [00:26:42]).
+**Opzione:** A coprire le eventuali perdite inattese, le unexpected loss (UL); le perdite attese sui crediti sono invece le ECL, Expected Credit Loss.
+**Distrattori:**
+- A coprire le perdite attese sui crediti, le Expected Credit Loss (ECL); le perdite inattese sono invece le unexpected loss (UL).
+- Probability of default.
+
+**D:** ⚠️ Quanti FTE conta l'organico di UniCredit Factoring a fine 2021, e come si compone la variazione, secondo la slide 8 della lezione 54?
+**R:** «*L'organico di UniCredit Factoring al 31 dicembre 2021 è pari a 281,32 Full Time Equivalent (FTE), registrando una diminuzione di 25,08 FTE rispetto alla fine dell'anno precedente. Nello specifico, a fronte di 15 nuovi ingressi dal Gruppo e 3 ingressi dal mercato esterno, vi è stata l'uscita di 46 risorse (2 distacchi "out", 12 chiusure di distacchi in essere, 4 dimissioni, 9 cessioni di contratto e 19 esodi)*» (slide 8). Nei dati di struttura: 281 dipendenti FTE contro 306 (−8,2%) e 13 punti commerciali, invariati (slide 4). ⚠️ 18 ingressi meno 46 uscite fanno 28 persone in meno: la diminuzione di 25 è misurata in FTE. Il docente: 281 unità, «con una diminuzione» ([00:05:25]), e «in totale i dipendenti sono diminuiti di 25 unità» ([00:22:29]).
+**Opzione:** 281,32 FTE, 25,08 in meno: 15 ingressi dal Gruppo e 3 dal mercato esterno, contro 46 uscite (2 distacchi out, 12 chiusure di distacchi in essere, 4 dimissioni, 9 cessioni di contratto, 19 esodi).
+**Distrattori:**
+- 281,32 FTE, 25,08 in meno: 3 ingressi dal Gruppo e 15 dal mercato esterno, contro 46 uscite (2 distacchi out, 12 chiusure di distacchi in essere, 4 dimissioni, 9 cessioni di contratto, 19 esodi).
+- Dal momento della scelta; se il dipendente non esercita alcuna opzione, dal 1° luglio 2007.
+- Maturate al 31 dicembre 2006: piano a benefici definiti; maturande dal 1° gennaio 2007: piano a contribuzione definita.
+
+**D:** ⚠️ Come cambia nel 2021 l'inquadramento contrattuale del personale di UniCredit Factoring, secondo la slide 9 della lezione 54?
+**R:** «*Per quanto riguarda l'inquadramento contrattuale dell'intera Società, si registra una riduzione diffusa del numero dei Quadri Direttivi di 4° e 3°livello, di 2° e di 1° livello e delle Aree Professionali, ed un leggero aumento dei Dirigenti*» (slide 9). Nella tabella: Dirigenti 13 (12, +8,3%), Quadri direttivi di 4° e 3° livello 86 (94), di 2° e 1° livello 86 (94), Aree professionali 97 (106). ⚠️ Il docente dice che «i dirigenti sono rimasti sostanzialmente invariati» ([00:22:29]): vale la slide.
+**Opzione:** Riduzione diffusa dei Quadri Direttivi di 4° e 3° livello, di 2° e di 1° livello e delle Aree Professionali, e leggero aumento dei Dirigenti.
+**Distrattori:**
+- Riduzione diffusa dei Quadri Direttivi di 4° e 3° livello, di 2° e di 1° livello e dei Dirigenti, e leggero aumento delle Aree Professionali.
+- Il D.Lgs. 5 dicembre 2005, n. 252; per il docente la riforma è dell'allora Ministro del Lavoro, Maroni.
+
+**D:** ⚠️ Che cosa guarda la valutazione dei dipendenti di UniCredit Factoring, secondo il paragrafo «Gestire la performance» della slide 10 della lezione 54?
+**R:** «*Al fine di rendere sempre più concreto l'obiettivo di premiare la performance e il merito, si continua a raccomandare un approccio rigoroso alla valutazione dei Dipendenti che guarda non solo il raggiungimento degli obiettivi ma anche le modalità con cui essi vengono conseguiti, in termini di comportamenti sostenibili ed aderenti ai "Five Fundamentals", alle UniCredit Capabilities e ai valori di Etica e Rispetto, che costituiscono le fondamenta del Gruppo*» (slide 10). L'approccio garantisce l'accuratezza della valutazione del manager, per supportare le prestazioni, guidare i comportamenti e promuovere lo sviluppo delle persone. Per il docente la performance dei dipendenti «sostanzialmente coincide con la performance della società» ([00:23:33]).
+**Opzione:** Non solo il raggiungimento degli obiettivi ma anche le modalità con cui sono conseguiti, in termini di comportamenti sostenibili e aderenti ai Five Fundamentals, alle UniCredit Capabilities e ai valori di Etica e Rispetto.
+**Distrattori:**
+- Solo il raggiungimento degli obiettivi, e non le modalità con cui sono conseguiti in termini di comportamenti sostenibili e aderenti ai Five Fundamentals, alle UniCredit Capabilities e ai valori di Etica e Rispetto.
+- Di alcune variabili quali il tasso annuo medio di aumento delle retribuzioni, la linea della retribuzione, in funzione dell'anzianità, l'aumento percentuale della retribuzione nel passaggio alla categoria superiore.
+
+**D:** ⚠️ Di quanto crescono nel 2021 le ore di formazione pro capite in UniCredit Factoring, e come si ripartiscono per tipologia, secondo le slide 10–11 della lezione 54?
+**R:** «*Nel 2021 si è dedicata grande attenzione alla formazione del personale, con un incremento dell'8% rispetto all'anno precedente delle ore pro capite fruite, in particolare su percorsi formativi tecnici e comportamentali*» (slide 10). Le ore si suddividono fra «*comportamentale/manageriale; mandatory; tecnica/linguistica*». Nel grafico «*Formazione 2021*» la tecnica/linguistica vale il 63%, la mandatory il 25% e la comportamentale/manageriale il 12% (slide 11; le fette sono attribuite dai colori della legenda). Il docente parla di formazione «obbligatoria» e «facoltativa» ([00:23:33]).
+**Opzione:** Dell'8%; tecnica/linguistica 63%, mandatory 25%, comportamentale/manageriale 12%.
+**Distrattori:**
+- Dell'8%; mandatory 63%, tecnica/linguistica 25%, comportamentale/manageriale 12%.
+- Dell'8%; tecnica/linguistica 63%, comportamentale/manageriale 25%, mandatory 12%.
+- Del 12%; tecnica/linguistica 63%, mandatory 25%, comportamentale/manageriale 8%.
+
+**D:** ⚠️ Con quali tre obiettivi UniCredit Factoring ha dedicato grande attenzione alla formazione del personale nel 2021, secondo la slide 10 della lezione 54?
+**R:** «*… con l'obiettivo di: garantire lo sviluppo di tutti i Colleghi di UniCredit Factoring, attraverso l'erogazione di una formazione sempre più costruita "ad hoc" ottimizzando le sinergie con il Gruppo ed in particolare con la Divisione CIB; soddisfare le esigenze formative identificate in collaborazione con i Manager, evidenziate nell'UniCredit Performance Management e segnalate direttamente dai Colleghi; accrescere e rafforzare le competenze dei dipendeti per contribuire al percorso di sviluppo e trasformazione della Società*» (slide 10). Seguono i corsi di lingua inglese e i corsi di settore con AssiFact, le iniziative «*Knowledge Sharing*» e «*HR Factor*» della People Survey, il training interno e il Leadership Meeting sul Change Management con la SDA Bocconi. ⚠️ L'equilibrio di genere è un obiettivo di «*Diversità e inclusione*» (slide 11), non della formazione.
+**Opzione:** Garantire lo sviluppo di tutti i Colleghi, attraverso l'erogazione di una formazione sempre più costruita ad hoc ottimizzando le sinergie con il Gruppo e in particolare con la Divisione CIB; soddisfare le esigenze formative identificate in collaborazione con i Manager, evidenziate nell'UniCredit Performance Management e segnalate direttamente dai Colleghi; accrescere e rafforzare le competenze dei dipendenti per contribuire al percorso di sviluppo e trasformazione della Società.
+**Distrattori:**
+- Garantire lo sviluppo di tutti i Colleghi, attraverso l'erogazione di una formazione sempre più costruita ad hoc ottimizzando le sinergie con il Gruppo e in particolare con la Divisione CIB; soddisfare le esigenze formative identificate in collaborazione con i Manager, evidenziate nell'UniCredit Performance Management e segnalate direttamente dai Colleghi; favorire l'equilibrio di genere e supportare le persone con disabilità.
+- Al costo ammortizzato con il metodo del tasso di interesse effettivo, salvo le passività a breve termine, che, ricorrendone i presupposti secondo il criterio generale della significatività e rilevanza, sono iscritte al valore incassato.
+- I titoli azionari quotati; i titoli di Stato quotati su mercati regolamentati; i titoli obbligazionari con contribuzione di prezzo significativa; i fondi quotati o con NAV giornaliero; i derivati con quotazioni su un mercato regolamentato.
+
+**D:** ⚠️ A che cosa è volto il percorso di diversità e inclusione di UniCredit Factoring, secondo la slide 11 della lezione 54?
+**R:** «*In linea con l'impegno di Gruppo nella promozione della diversità che si ritiene essere, a tutti i livelli, fondamentale per generare valore nei confronti dei nostri dipendenti, clienti, comunità e azionisti, continua il percorso volto a favorire l'equilibrio di genere, superare le differenze generazionali e supportare le persone con disabilità*» (slide 11). Nel 2021 sei donne sono state nominate in ruoli di responsabilità, e sul Gender Pay Gap si è lavorato alla riduzione della differenza retributiva fra uomini e donne. ⚠️ Il docente nomina solo le differenze generazionali e la disabilità ([00:24:48]): l'equilibrio di genere è il primo dei tre obiettivi della slide. L'equilibrio tra vita privata e professionale è il paragrafo successivo (slide 12).
+**Opzione:** A favorire l'equilibrio di genere, superare le differenze generazionali e supportare le persone con disabilità.
+**Distrattori:**
+- A favorire l'equilibrio tra vita privata e professionale, superare le differenze generazionali e supportare le persone con disabilità.
+- A prescindere dalla presenza o meno del rating all'origination, alloca in stage 1 le esposizioni che presentano un rating migliore o uguale a quello associato all'investment grade alla reporting date.
+
+**D:** ⚠️ Che cosa prevede il prodotto Confirming sviluppato nel 2021 da UniCredit Factoring, e con quale partner, secondo la slide 12 della lezione 54?
+**R:** «*Nel corso del 2021 è stato ulteriormente sviluppato il prodotto Confirming, che ora prevede che il caricamento delle fatture da parte del Buyer possa essere automatizzato grazie ad una soluzione, sviluppata da UniCredit Factoring con la Fintech FinDynamic, in grado di consentire l'estrazione delle fatture direttamente dai sistemi gestionali (ERP) dei Buyer*» (slide 12). FinDynamic è una «*fintech già partner del Gruppo*», e con la sua piattaforma è stato ultimato un progetto di integrazione (slide 8). Il docente non ne parla.
+**Opzione:** Che il caricamento delle fatture da parte del Buyer possa essere automatizzato, con una soluzione sviluppata con la Fintech FinDynamic, in grado di consentire l'estrazione delle fatture direttamente dai sistemi gestionali (ERP) dei Buyer.
+**Distrattori:**
+- Che il caricamento delle fatture da parte del Fornitore possa essere automatizzato, con una soluzione sviluppata con la Fintech FinDynamic, in grado di consentire l'estrazione delle fatture direttamente dai sistemi gestionali (ERP) dei Fornitori.
+- Probabilità di Default (PD), Loss Given Default (LGD) ed Exposure At Default (EAD); il docente aggiunge, in teoria, la maturity, cioè la scadenza dell'attività finanziaria.
+- Pro-rata temporis alla voce Commissioni attive, al netto del recupero dei costi di emissione; per una garanzia a cavallo d'anno la quota oltre il 31 dicembre si risconta all'esercizio successivo.
+
+**D:** ⚠️ Che oggetto e quali canali hanno avuto le due campagne di comunicazione 2021 di UniCredit Factoring, secondo le slide 12–13 della lezione 54?
+**R:** Le campagne servono a diffondere la conoscenza sul Supply Chain Finance e a presentare UniCredit Factoring «*come partner strategico per le imprese a sostegno alla filiera produttiva*». La **prima**, multicanale, «*ha avuto come oggetto le soluzioni U-FACTOR e i prodotti Supply Chain Finance*»: pagine pubblicitarie su «*Il Sole24Ore*», due spot su Radio24 (per il Buyer e per il Fornitore) e post su LinkedIn (slide 12). La **seconda**, in continuità, «*ha utilizzato testimonial esterni ed interni per raccontare l'efficacia delle soluzioni Working Capital*». Ci sono le audio pillole Q&A di Radio24 nella rubrica «*UniCredit Factoring per te*», un mini-sito e i post di advocacy sul canale LinkedIn di UniCredit SpA (slide 13). Il docente: «il Sole 24 Ore, Radio 24 o LinkedIn o altri strumenti più specificamente indirizzati ovviamente alle imprese» ([00:26:40]).
+**Opzione:** La prima, multicanale, sulle soluzioni U-FACTOR e i prodotti Supply Chain Finance (Il Sole24Ore, due spot su Radio24, LinkedIn); la seconda, con testimonial esterni ed interni, sulle soluzioni Working Capital (audio pillole di Radio24, un mini-sito, post di advocacy su LinkedIn).
+**Distrattori:**
+- La prima, multicanale, sulle soluzioni Working Capital (Il Sole24Ore, due spot su Radio24, LinkedIn); la seconda, con testimonial esterni ed interni, sulle soluzioni U-FACTOR e i prodotti Supply Chain Finance (audio pillole di Radio24, un mini-sito, post di advocacy su LinkedIn).
+- Riacquisto: la differenza fra valore contabile e ammontare pagato va a conto economico; ricollocamento: nuova emissione al nuovo prezzo di collocamento, senza alcun effetto a conto economico.
+- Livello 1: titoli azionari, titoli di Stato o obbligazionari quotati; livello 2: titoli non quotati con titoli equivalenti quotati; livello 3: prodotti strutturati del credito, ABS e strumenti over the counter.
+
+**D:** ⚠️ Che cosa dicono i dati Assifact di novembre 2021 su turnover cumulativo e montecrediti, secondo la slide 13 della lezione 54?
+**R:** «*Nel corso del 2021 sia il turvover che gli impieghi di settore hanno registrato una ripresa dopo gli effetti negativi della pandemia Covid-19, Sulla base dei dati riferiti a novembre 2021 forniti dall'associazione di categoria Assifact il turnover cumulativo ha segnato un aumento rispetto allo stesso periodo del 2020 del 10,14%, mentre il montecrediti segna una diminuzione del 16,57%*» (slide 13). ⚠️ Il +9,7% è il turnover dell'intero anno (slide 2, 7). Assifact è l'associazione di categoria del factoring, come Assilea per il leasing (lezione 49). Il docente: «un recupero di fatturato e di impieghi» ([00:27:04]).
+**Opzione:** Turnover cumulativo in aumento del 10,14% sullo stesso periodo del 2020; montecrediti in diminuzione del 16,57%.
+**Distrattori:**
+- Turnover cumulativo in diminuzione del 16,57% sullo stesso periodo del 2020; montecrediti in aumento del 10,14%.
+- Turnover cumulativo in aumento del 10,14% sullo stesso periodo del 2020; montecrediti in aumento del 16,57%.
+- Turnover cumulativo in aumento del 16,57% sullo stesso periodo del 2020; montecrediti in diminuzione del 10,14%.
+
+**D:** ⚠️ Con quale obiettivo è stata modificata nel 2021 la struttura organizzativa di UniCredit Factoring, e con quali iniziative, secondo la slide 7 della lezione 54?
+**R:** «*Nel corso del 2021 la struttura organizzativa della Società è stata modificata con il principale obiettivo di rendere più efficaci ed efficienti i processi a supporto delle decisioni del Senior Management e di presidio dei rischi e del pricing*». Le iniziative più rilevanti sono tre. È stata rivista la struttura dei **Comitati Manageriali**, con le attribuzioni riviste e la composizione ottimizzata. È stata istituita la struttura tecnica «*Pricing*», nell'ambito del Department Planning, Finance & Administration, per il supporto alla definizione delle strategie di pricing e il controllo sul loro rispetto, in linea con la Capogruppo. Ed è stato perfezionato un contratto di **esternalizzazione** con la Capogruppo UniCredit per tasse e fiscalità (slide 7). Il docente: «la struttura organizzativa è stata in parte rivista» ([00:20:01]). È il paragrafo su cui regge la domanda 3 del test.
+**Opzione:** Rendere più efficaci ed efficienti i processi a supporto delle decisioni del Senior Management e di presidio dei rischi e del pricing: rivista la struttura dei Comitati Manageriali, istituita la struttura tecnica Pricing, esternalizzate alla Capogruppo tasse e fiscalità.
+**Distrattori:**
+- Rendere più efficaci ed efficienti i processi a supporto delle decisioni del Senior Management e di presidio dei rischi e del pricing: rivista la struttura dei Comitati Manageriali, istituita la struttura tecnica Pricing, riportate dalla Capogruppo all'interno della Società tasse e fiscalità.
+- Quando l'obbligazione sottostante è estinta, annullata ovvero onorata; la sostituzione si tratta come cancellazione della passività originale e rilevazione di una nuova, con le differenze nel prospetto dell'utile (perdita) d'esercizio.
+- Tra le altre attività; gli ammortamenti, per un periodo non eccedente la durata del contratto di affitto, tra gli altri oneri di gestione.
+
+**D:** ⚠️ Che cosa sono il programma Digital Factoring e il progetto Capital Relief di UniCredit Factoring, secondo la slide 8 della lezione 54?
+**R:** Fra le iniziative ICT a supporto della struttura organizzativa, «*è stato approvato ed attivato il programma pluriannuale denominato Digital Factoring, volto a sostituire il front end verso la clientela, il back end e la pratica elettronica per la valutazione del merito creditizio*», con l'evoluzione della piattaforma già usata dalla Società. Poi «*è stato completato il progetto Capital Relief volto alla gestione di una nuova polizza assicurativa su operazioni pro soluto, i cui effetti comportano benefici sia in termini di mitigazioni patrimoniali per la vigilanza prudenziale sia ai fini della riduzione dei rischi operativi connessi alla gestione delle coperture delle singole controparti assicurate*» (slide 8). Le altre iniziative sono l'integrazione con la piattaforma FinDynamic e gli interventi sull'applicativo gestionale factoring. Il docente non ne parla.
+**Opzione:** Digital Factoring: programma pluriannuale volto a sostituire il front end verso la clientela, il back end e la pratica elettronica per la valutazione del merito creditizio; Capital Relief: gestione di una nuova polizza assicurativa su operazioni pro soluto.
+**Distrattori:**
+- Digital Factoring: programma pluriannuale volto a sostituire il front end verso la clientela, il back end e la pratica elettronica per la valutazione del merito creditizio; Capital Relief: gestione di una nuova polizza assicurativa su operazioni pro solvendo.
+- Mark to Market: livello 1; Comparable Approach: livello 2; Mark to Model: livello 2 con soli input osservabili, livello 3 con almeno un input significativo non osservabile.
+- I crediti in default: la perdita è la differenza fra i flussi di cassa contrattuali e i flussi di cassa attesi, scontati all'effettivo tasso del rapporto (perdita attesa lifetime).
+
+**D:** ⚠️ Come cambiano nel 2021 gli indici di produttività di UniCredit Factoring, secondo la slide 4 della lezione 54?
+**R:** Negli «*INDICI DI PRODUTTIVITA'*» il turnover per dipendente passa da 169,9 a **190,1** (+20,2, +11,9%) e il margine di intermediazione per dipendente da 0,54 a **0,52** (−0,02, −3,7%) (slide 4). ⚠️ Il docente dice che il turnover per dipendente «è leggermente aumentato». Del margine per dipendente dice prima che «aumenta», poi che «è invece leggerissimamente diminuito» ([00:13:35]): vale la tabella. Per lui, in sintesi, «la produttività si è mantenuta su livelli abbastanza similari a quello dell'esercizio precedente».
+**Opzione:** Turnover per dipendente da 169,9 a 190,1 (+11,9%); margine di intermediazione per dipendente da 0,54 a 0,52 (−3,7%).
+**Distrattori:**
+- Turnover per dipendente da 169,9 a 190,1 (+11,9%); margine di intermediazione per dipendente da 0,52 a 0,54 (+3,7%).
+- Turnover per dipendente da 190,1 a 169,9 (−11,9%); margine di intermediazione per dipendente da 0,54 a 0,52 (−3,7%).
+- Turnover per dipendente da 169,9 a 190,1 (+3,7%); margine di intermediazione per dipendente da 0,54 a 0,52 (−11,9%).
