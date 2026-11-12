@@ -11818,3 +11818,789 @@
 - 150 controparti, capitali di riferimento frazionati fino a 15.000 migliaia; di gestione efficace solo le opzioni call.
 - 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace solo gli asset swap.
 - 15 controparti, capitali di riferimento frazionati fino a 150.000 migliaia; di gestione efficace le valute a termine e le opzioni call.
+
+## Lezione 45 — La Nota integrativa del bilancio della compagnia di assicurazioni. Le voci del Conto economico
+
+**D:** ⚠️ Dove si trova il saldo tecnico dei rami danni e dei rami vita, secondo il test della lezione 45 (domanda 1)?
+**R:** **Nel conto economico**: i saldi tecnici sono le prime due righe del «*prospetto di riclassificazione del conto economico*», **Vita 155.630** e **Danni 590.276** migliaia nel 2021 (slide 2). Nello schema sono i risultati dei due conti tecnici, voci I.10 e II.13, che il conto non tecnico riprende come voci III.1 e III.2 (lezione 39, slide 12, 16, 18). ⚠️ Il vicino è «nel patrimonio netto», dove compare l'utile dell'esercizio (voce A.IX, 648.137.176 euro, lezione 39, slide 8), non i saldi tecnici. Distrattori del test: «nel passivo», «nell'attivo», «nel patrimonio netto».
+**Opzione:** Nel conto economico.
+**Distrattori:**
+- Nel passivo.
+- Nell'attivo.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Dove si trova l'accantonamento a riserva sinistri, secondo il test della lezione 45 (domanda 2)?
+**R:** **Nel conto economico**: l'onere dei sinistri dei rami Danni (voce I.4) «*comprende, oltre alla **variazione della riserva sinistri**, gli importi pagati nell'esercizio*» (slide 3). Nello schema la variazione della riserva sinistri è la voce 4.c del conto tecnico Danni, 175.823.471 euro (lezione 39, slide 12). ⚠️ La slide dice «variazione», non «accantonamento»: la chiave regge nel merito. Il vicino è «nel passivo», dove sta la **riserva sinistri** in sé, voce C.I.2, 9.869.193.040 euro (lezione 39, slide 8). L'accantonamento è il flusso dell'anno, la riserva il fondo accumulato. Distrattori del test: «nel passivo», «nell'attivo», «nel patrimonio netto».
+**Opzione:** Nel conto economico.
+**Distrattori:**
+- Nel passivo.
+- Nell'attivo.
+- Nel patrimonio netto.
+
+**D:** ⚠️ Qual è la differenza tra lavoro diretto e lavoro indiretto, secondo il test della lezione 45 (domanda 3)?
+**R:** **Il lavoro diretto è quello delle polizze emesse agli assicurati e l'indiretto è il lavoro fatto con altre compagnie di assicurazione.** Per il docente il lavoro diretto «si intende la gestione dei contratti sottoscritti direttamente dalla compagnia» ([00:10:23]) e il lavoro indiretto è «cioè di riassicurazione» ([00:01:51]). Nella lezione 43 lo definiva come i contratti assunti in riassicurazione da altre compagnie ([00:01:54] della 43). ⚠️ Il vicino è la stessa frase con i due termini invertiti. Fondi pensione e gestioni separate sono altre cose, e i rami danni e vita hanno entrambi lavoro diretto e indiretto. Distrattori del test, con i refusi della piattaforma corretti: «il lavoro diretto è quello fatto con le compagnie di assicurazione e l'indiretto sono le polizze emesse agli assicurati», «il lavoro diretto è quello per i fondi pensione e l'indiretto è quello delle polizze rami danni e vita», «il lavoro diretto è quello per le gestioni separate e l'indiretto è quello delle polizze rami danni e vita».
+**Opzione:** Il lavoro diretto è quello delle polizze emesse agli assicurati e l'indiretto è il lavoro fatto con altre compagnie di assicurazione.
+**Distrattori:**
+- Il lavoro diretto è quello fatto con le compagnie di assicurazione e l'indiretto sono le polizze emesse agli assicurati.
+- Il lavoro diretto è quello per i fondi pensione e l'indiretto è quello delle polizze rami danni e vita.
+- Il lavoro diretto è quello per le gestioni separate e l'indiretto è quello delle polizze rami danni e vita.
+
+**D:** ⚠️ Dove vanno inserite le informazioni concernenti il conto non tecnico, secondo il test della lezione 45 (domanda 4)?
+**R:** **In nota integrativa**: «*Informazioni concernenti il conto non tecnico (III)*» è un paragrafo della nota integrativa di UnipolSai, con proventi e oneri patrimoniali, altri proventi, altri oneri, proventi e oneri straordinari e imposte (slide 8–12). Il docente lo legge come tale ([00:20:56]). ⚠️ Il vicino è la **relazione sulla gestione**, a cui la nota integrativa rinvia per la ripartizione della raccolta per settori (slide 2) e per l'operatività sui titoli durevoli (slide 11). Le stesse quattro opzioni tornano nella domanda 5 di questo test e nella domanda 5 del test 44. Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove vanno inserite le informazioni concernenti il conto tecnico dei rami vita, secondo il test della lezione 45 (domanda 5)?
+**R:** **In nota integrativa**: «*Informazioni concernenti il conto tecnico dei rami Vita (II)*» è un paragrafo della nota integrativa di UnipolSai: premi, proventi da investimenti, oneri relativi alle prestazioni, spese di gestione, altri oneri tecnici e trasferimento dell'utile degli investimenti al conto non tecnico (slide 5–7). ⚠️ Il vicino è ancora la **relazione sulla gestione**. È la stessa batteria della domanda 4 di questo test e della domanda 5 del test 44, sugli strumenti finanziari derivati: la chiave è sempre «in nota integrativa». Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Quali saldi tecnici e quale risultato netto espone il prospetto di riclassificazione del conto economico di UnipolSai 2021, secondo la slide 2 della lezione 45?
+**R:** «*I risultati conseguiti nel 2021 sono sinteticamente esposti nel prospetto di riclassificazione del conto economico allegato*» (slide 2): saldo tecnico **Vita 155.630** migliaia (−9.926 nel 2020), **Danni 590.276** (936.095), totale 745.906 (926.169); risultato netto **648.137** (814.307). Per il docente il risultato netto è «molto positivo» ma «in decisa riduzione» ([00:00:28]). ⚠️ Il Vita passa da negativo a positivo (+165.557): il calo dell'utile viene dal saldo tecnico Danni (−345.819) e dalle componenti straordinarie (−128.497).
+**Opzione:** Vita 155.630 (−9.926 nel 2020), Danni 590.276 (936.095); risultato netto 648.137, contro 814.307.
+**Distrattori:**
+- Vita 590.276 (936.095 nel 2020), Danni 155.630 (−9.926); risultato netto 648.137, contro 814.307.
+- Vita 155.630 (−9.926 nel 2020), Danni 590.276 (936.095); risultato netto 814.307, contro 648.137.
+- Vita 155.630 (−9.926 nel 2020), Danni 590.276 (936.095); risultato attività ordinaria 648.137, contro 814.307.
+
+**D:** ⚠️ Dove si trovano la ripartizione della raccolta Danni per settori di attività e le informazioni di sintesi sul conto tecnico dei rami Danni, secondo la slide 2 della lezione 45?
+**R:** «*La ripartizione della raccolta per settori di attività è illustrata nella **Relazione sulla Gestione**. Le informazioni di sintesi concernenti il conto tecnico dei rami Danni – lavoro italiano e lavoro estero - sono riportate nell'**allegato 19**.*» (slide 2). ⚠️ Per il Vita le informazioni di sintesi su premi e saldo di riassicurazione sono nell'allegato **20** (slide 5). Le informazioni concernenti i conti tecnici e il conto non tecnico sono invece paragrafi della nota integrativa (test, domande 4 e 5).
+**Opzione:** La ripartizione per settori nella Relazione sulla Gestione; le informazioni di sintesi, lavoro italiano e lavoro estero, nell'allegato 19.
+**Distrattori:**
+- La ripartizione per settori nell'allegato 19; le informazioni di sintesi, lavoro italiano e lavoro estero, nella Relazione sulla Gestione.
+- La ripartizione per settori nella Relazione sulla Gestione; le informazioni di sintesi, lavoro italiano e lavoro estero, nell'allegato 20.
+- La ripartizione per settori nella Nota Integrativa; le informazioni di sintesi, lavoro italiano e lavoro estero, nell'allegato 19.
+
+**D:** ⚠️ Che cosa comprendono gli altri proventi tecnici dei rami Danni (voce I.3, 34.702 migliaia di euro), secondo la slide 3 della lezione 45?
+**R:** «*Gli altri proventi tecnici, al netto delle cessioni in riassicurazione (voce I.3), risultano al 31 dicembre 2021 pari a 34.702 migliaia di euro (41.656 migliaia di euro al 31 dicembre 2020) e comprendono 8.548 migliaia di euro relativi al ramo R.C. Autoveicoli Terrestri, costituiti da **recuperi di spese per la gestione di sinistri per conto di compagnie**, 1.056 migliaia di euro di **recuperi di provvigioni precontate** e 12.014 migliaia di euro per **storno di provvigioni su premi di esercizi precedenti annullati**. Tra le poste del lavoro indiretto si segnalano 3.690 migliaia di euro quali **premi di reintegro** previsti contrattualmente dai trattati di riassicurazione…*» (slide 3). Le cifre fanno 25.308: l'elenco è aperto. Per il docente lo storno vuol dire che «sono state annullate provvigioni riconosciute su premi che evidentemente non erano stati correttamente incassati» ([00:01:51]). ⚠️ Gli **annullamenti di premi** degli esercizi precedenti (84.729) sono invece un onere: stanno negli altri oneri tecnici del lavoro diretto (slide 5).
+**Opzione:** Comprendono 8.548 migliaia di recuperi di spese per la gestione di sinistri per conto di compagnie (R.C. Autoveicoli Terrestri), 1.056 di recuperi di provvigioni precontate e 12.014 di storno di provvigioni su premi di esercizi precedenti annullati; nel lavoro indiretto, 3.690 di premi di reintegro previsti contrattualmente dai trattati di riassicurazione.
+**Distrattori:**
+- Comprendono 8.548 migliaia di recuperi di spese per la gestione di sinistri per conto di compagnie (R.C. Autoveicoli Terrestri), 1.056 di recuperi di provvigioni precontate e 12.014 di annullamenti di premi degli esercizi precedenti; nel lavoro indiretto, 3.690 di premi di reintegro previsti contrattualmente dai trattati di riassicurazione.
+- F.I attivi materiali e scorte 63.204; F.II disponibilità liquide 396.354; F.IV altre attività 937.115.
+- L'acconto dell'imposta sulle assicurazioni, 558.259.
+
+**D:** ⚠️ Che cosa comprende l'onere dei sinistri dei rami Danni (voce I.4), e quale norma lo stabilisce, secondo la slide 3 della lezione 45?
+**R:** «*L'onere dei sinistri nei rami Danni (voce I.4) ammonta a 4.365.220 migliaia di euro, (3.747.221 migliaia di euro al 31 dicembre 2020) e comprende, oltre alla **variazione della riserva sinistri**, gli **importi pagati** nell'esercizio per il lavoro diretto ed indiretto a titolo di **risarcimenti e spese di liquidazione**, **al netto** dei recuperi di competenza nonché delle quote a carico dei riassicuratori, così come stabilito dall'**art. 48, D.Lgs. 26 maggio 1997 n. 173**.*» (slide 3). Nello schema la variazione della riserva sinistri è la voce 4.c, 175.823.471 euro (lezione 39, slide 12): è l'accantonamento della domanda 2 del test.
+**Opzione:** Oltre alla variazione della riserva sinistri, gli importi pagati nell'esercizio per il lavoro diretto ed indiretto a titolo di risarcimenti e spese di liquidazione, al netto dei recuperi di competenza nonché delle quote a carico dei riassicuratori: art. 48 del D.Lgs. 26 maggio 1997 n. 173.
+**Distrattori:**
+- Oltre alla variazione della riserva sinistri, gli importi pagati nell'esercizio per il lavoro diretto ed indiretto a titolo di risarcimenti e spese di liquidazione, al lordo dei recuperi di competenza nonché delle quote a carico dei riassicuratori: art. 48 del D.Lgs. 26 maggio 1997 n. 173.
+- Con gli stessi criteri delle riserve del lavoro diretto, tenendo altresì conto delle clausole contrattuali di riassicurazione.
+
+**D:** ⚠️ Quanto vale lo smontamento della riserva sinistri di esercizi precedenti (lavoro diretto italiano) di UnipolSai 2021, e come si ottiene, secondo la slide 3 della lezione 45?
+**R:** Dalla tabella della slide 3: riserva sinistri iniziale **9.557.944** migliaia, pagamenti dell'esercizio per sinistri di esercizi precedenti **2.367.548**, riserva sinistri finale **6.999.188**, **smontamento 191.208**, incidenza sulla riserva iniziale **2,00%**. Per il docente è «uno smontamento molto contenuto» ([00:01:51]). Con le somme da recuperare (variazione **83.656**) il «*totale effetto*» sale a **274.865** (slide 4). Le movimentazioni sono «*riferite al lavoro diretto italiano*».
+**Opzione:** 191.208 migliaia (2,00%): riserva iniziale 9.557.944 meno pagamenti per sinistri di esercizi precedenti 2.367.548 meno riserva finale 6.999.188.
+**Distrattori:**
+- 191.208 migliaia (2,00%): riserva iniziale 9.557.944 meno pagamenti per sinistri dell'esercizio corrente 2.367.548 meno riserva finale 6.999.188.
+- 191.208 migliaia (2,00%): riserva iniziale 9.557.944 più pagamenti per sinistri di esercizi precedenti 2.367.548 meno riserva finale 6.999.188.
+- 274.865 migliaia (2,00%): riserva iniziale 9.557.944 meno pagamenti per sinistri di esercizi precedenti 2.367.548 meno riserva finale 6.999.188.
+
+**D:** ⚠️ Come sono stati utilizzati, e in particolare in quali rami, i risparmi realizzati sui sinistri chiusi rispetto alla riserva sinistri iniziale, secondo la slide 4 della lezione 45?
+**R:** «*Lo smontamento delle riserve dei sinistri di esercizi precedenti è stato positivo su quasi tutti i rami. I risparmi realizzati sui sinistri chiusi rispetto alla riserva sinistri iniziale sono elevati e, in particolare per i rami di **Responsabilità Civile (RCA e RCG)**, sono stati utilizzati, **in gran parte**, per **rivalutare le pratiche ancora a riserva**.*» (slide 4). Per il docente lo smontamento c'è quando i sinistri pagati sono inferiori alla parte di riserva accantonata: «avevo accantonato 110 e ho pagato 100», quindi «10 di risparmio» ([00:05:32]). ⚠️ Il docente aggiunge che questi risparmi «hanno alimentato la mia redditività, come sotto forma di sopravvenienze attive»: fa testo la slide.
+**Opzione:** In particolare per i rami di Responsabilità Civile (RCA e RCG), sono stati utilizzati, in gran parte, per rivalutare le pratiche ancora a riserva.
+**Distrattori:**
+- In particolare per i rami di Responsabilità Civile (RCA e RCG), sono stati utilizzati, in gran parte, per svalutare le pratiche ancora a riserva.
+- In particolare per i rami Incendio e Altri danni ai beni, sono stati utilizzati, in gran parte, per rivalutare le pratiche ancora a riserva.
+- In particolare per i rami di Responsabilità Civile (RCA e RCG), sono stati utilizzati, in piccola parte, per rivalutare le pratiche ancora a riserva.
+
+**D:** ⚠️ Che cosa comprende la responsabilità civile generale (RCG), secondo il docente della lezione 45?
+**R:** La RCG comprende «**tutti gli altri tipi di responsabilità civile esclusa la responsabilità civile auto**»: per esempio «la responsabilità civile per danni da familiari, da minorenni, da animali o da altri danni arrecati a terzi». Vi rientrano anche la **responsabilità civile professionale**, «per esempio il danno fatto dal medico al paziente», il morso del mio cane a un terzo e «il vetro rotto dai miei figli che giocano a pallone in strada» ([00:05:32]). La slide 4 nomina i rami di Responsabilità Civile «*RCA e RCG*» senza spiegare le sigle.
+**Opzione:** Tutti gli altri tipi di responsabilità civile esclusa la R.C. Auto: per esempio i danni da familiari, minorenni o animali e la responsabilità professionale, come il danno del medico al paziente.
+**Distrattori:**
+- Tutti gli altri tipi di responsabilità civile esclusa la R.C. Auto e la responsabilità professionale: per esempio i danni da familiari, minorenni o animali, come il morso del cane a un terzo.
+- L'aumento della vita media degli assicurati nelle assicurazioni malattia dei rami danni: con l'età cresce la probabilità di malattia.
+- All'andamento di un paniere di indici: di borsa, di tassi di interesse, relativi alle obbligazioni o ai tassi di cambio.
+
+**D:** ⚠️ A che cosa si riferiscono i ristorni e partecipazioni agli utili del conto tecnico Danni (voce I.6) e del conto tecnico Vita (voce II.7) di UnipolSai 2021, secondo le slide 4 e 6 della lezione 45?
+**R:** Nei **Danni** la voce I.6 «*presenta un saldo netto pari a 3.775 migliaia di euro (2.857 migliaia di euro al 31 dicembre 2020) e si riferisce **quasi interamente a partecipazioni agli utili tecnici***» (slide 4). Nel **Vita** la voce II.7 «*ammonta al 31 dicembre 2021 a 13 migliaia di euro (277 migliaia di euro il dato 2020) ed è costituita **interamente da ristorni***» (slide 6). Il docente: UnipolSai ha riconosciuto agli assicurati «un saldo netto di 3.775.000 euro. Partecipazione agli utili tecnici appunto» ([00:09:25]).
+**Opzione:** Danni 3.775 migliaia, quasi interamente partecipazioni agli utili tecnici; Vita 13 migliaia, interamente ristorni.
+**Distrattori:**
+- Danni 3.775 migliaia, quasi interamente ristorni; Vita 13 migliaia, interamente partecipazioni agli utili tecnici.
+- Danni 3.775 migliaia, interamente partecipazioni agli utili tecnici; Vita 13 migliaia, quasi interamente ristorni.
+- Danni 13 migliaia, interamente ristorni; Vita 3.775 migliaia, quasi interamente partecipazioni agli utili tecnici.
+
+**D:** ⚠️ Che cosa distingue i ristorni dalle partecipazioni agli utili, secondo il docente della lezione 45?
+**R:** «I **ristorni** sono proprio **tipici delle cooperative**, sono il riconoscimento di una parte dell'utile ai **soci cooperatori**, le **partecipazioni agli utili** sono per le **altre società** nel caso in cui riconoscano utili ai propri soci» ([00:07:20]). Si trovano soprattutto nelle **mutue**, «tipicamente la Reale Mutua Assicurazioni», dove tutti gli assicurati sono anche soci perché la società è una cooperativa. Il paragone: la **Coop** è una cooperativa di consumo (vendite promozionali ai soci), la **BCC** una cooperativa di credito (condizioni di credito più vantaggiose), la **mutua assicurazione** una cooperativa assicurativa (premi più bassi o condizioni più vantaggiose).
+**Opzione:** I ristorni sono tipici delle cooperative, come le mutue assicuratrici: il riconoscimento di una parte dell'utile ai soci cooperatori; le partecipazioni agli utili sono per le altre società.
+**Distrattori:**
+- Le partecipazioni agli utili sono tipiche delle cooperative, come le mutue assicuratrici: il riconoscimento di una parte dell'utile ai soci cooperatori; i ristorni sono per le altre società.
+- In Italia sono a capitale coperto: nessuna perdita in conto capitale per l'assicurato, ma i guadagni possono anche andare persi; nel modello anglosassone le perdite potevano essere tutte a carico degli assicurati.
+- Solo una volta che siano estinte tutte le altre passività.
+
+**D:** ⚠️ Dove compaiono, e per quanto, i premi di reintegro previsti dai trattati di riassicurazione nel conto tecnico Danni di UnipolSai 2021, secondo le slide 3 e 5 della lezione 45?
+**R:** Due volte. Fra gli **altri proventi tecnici**: «*Tra le poste del **lavoro indiretto** si segnalano **3.690** migliaia di euro quali premi di reintegro previsti contrattualmente dai trattati di riassicurazione e stimati in base alle riserve sinistri alla data di fine esercizio*» (slide 3). Fra gli **altri oneri tecnici**: «*Il **lavoro ceduto** comprende prevalentemente la stima dei premi di reintegro previsti contrattualmente dai trattati di riassicurazione e stimati in **1.604** migliaia di euro*» (slide 5). ⚠️ Nel lavoro indiretto UnipolSai è riassicuratrice e li riceve, nel lavoro ceduto è cedente e li paga.
+**Opzione:** Fra gli altri proventi tecnici, nel lavoro indiretto, per 3.690 migliaia; fra gli altri oneri tecnici, nel lavoro ceduto, per 1.604.
+**Distrattori:**
+- Fra gli altri proventi tecnici, nel lavoro ceduto, per 3.690 migliaia; fra gli altri oneri tecnici, nel lavoro indiretto, per 1.604.
+- Fra gli altri proventi tecnici, nel lavoro indiretto, per 1.604 migliaia; fra gli altri oneri tecnici, nel lavoro ceduto, per 3.690.
+- Fra gli altri oneri tecnici, nel lavoro indiretto, per 3.690 migliaia; fra gli altri proventi tecnici, nel lavoro ceduto, per 1.604.
+
+**D:** ⚠️ Quali sono le poste più significative del lavoro diretto negli altri oneri tecnici dei rami Danni (voce I.8), secondo la slide 5 della lezione 45?
+**R:** «*Nel lavoro diretto le poste più significative riguardano gli **annullamenti di premi degli esercizi precedenti** per **84.729** migliaia di euro, **costi per "scatole nere"** per **44.518** migliaia di euro, e i **diritti di gestione della stanza CARD** per **7.316** migliaia di euro.*» (slide 5). Le tre poste fanno 136.563 sui 141.340 del lavoro diretto; gli altri oneri tecnici sono in tutto 143.987, con 293 di lavoro indiretto e 2.354 di lavoro ceduto (slide 4). La slide non spiega la stanza CARD; per il docente è una polizza sanitaria predisposta da Unipol ([00:10:23]), e la nota la discute in un'integrazione ℹ️. ⚠️ Le **management fee** sono invece la voce principale degli altri oneri tecnici del **Vita** (slide 7).
+**Opzione:** Annullamenti di premi degli esercizi precedenti 84.729 migliaia, costi per scatole nere 44.518, diritti di gestione della stanza CARD 7.316.
+**Distrattori:**
+- Annullamenti di premi degli esercizi precedenti 84.729 migliaia, costi per scatole nere 44.518, management fee 7.316.
+- Annullamenti di premi degli esercizi precedenti 84.729 migliaia, costi per scatole nere 7.316, diritti di gestione della stanza CARD 44.518.
+- Storno di provvigioni su premi annullati 84.729 migliaia, costi per scatole nere 44.518, diritti di gestione della stanza CARD 7.316.
+
+**D:** ⚠️ Che cosa sono le scatole nere, i cui costi compaiono negli altri oneri tecnici del lavoro diretto, secondo il docente della lezione 45?
+**R:** Sono «dei **meccanismi elettronici** che vengono posti sulla macchina, sulle autovetture, per verificare il comportamento dell'automobilista e che riconoscono uno **sconto** sul premio **RC Auto** se il comportamento dell'automobilista è particolarmente prudente». La scatola nera «registra lo **stile di guida**», e più è buono, molto buono o ottimo, «più viene riconosciuta una scontistica sul **rinnovo** dei premi successivi per l'RC Auto». Alcune hanno anche il GPS, utile nell'assicurazione contro il **furto** per ritrovare l'autovettura ([00:10:23]). Nel 2021 costano 44.518 migliaia (slide 5).
+**Opzione:** Meccanismi elettronici posti sulle autovetture che registrano lo stile di guida: se l'automobilista è prudente, si riconosce uno sconto sul rinnovo del premio R.C. Auto.
+**Distrattori:**
+- Meccanismi elettronici posti sulle autovetture che registrano lo stile di guida: se l'automobilista è prudente, si riconosce uno sconto sul rinnovo del premio dell'assicurazione furto.
+- Gli investimenti del fondo pensione aperto a contribuzione definita e di 17 fondi pensione negoziali con gestione assistita da garanzia.
+
+**D:** ⚠️ Che cos'è il lavoro ceduto, e che cosa comprende negli altri oneri tecnici dei rami Danni, secondo la lezione 45?
+**R:** Per il docente «il **lavoro ceduto** invece attiene a quei contratti assicurativi che la Unipol ha **ceduto a terzi riassicuratori**» ([00:10:23]). Negli altri oneri tecnici vale **2.354** migliaia (slide 4) e «*comprende prevalentemente la stima dei **premi di reintegro** previsti contrattualmente dai trattati di riassicurazione e stimati in **1.604** migliaia di euro in base alle riserve sinistri alla data del 31 dicembre 2021*» (slide 5). ⚠️ I contratti assunti in riassicurazione da altre compagnie sono il lavoro **indiretto** ([00:01:51]; lezione 43, [00:01:54]).
+**Opzione:** I contratti assicurativi che la compagnia ha ceduto a terzi riassicuratori; negli altri oneri tecnici (2.354 migliaia) comprende prevalentemente la stima dei premi di reintegro, 1.604.
+**Distrattori:**
+- I contratti assicurativi che la compagnia ha assunto in riassicurazione da altre compagnie; negli altri oneri tecnici (2.354 migliaia) comprende prevalentemente la stima dei premi di reintegro, 1.604.
+- Per legge e per contratto, di norma entro 10–15 giorni, secondo i rapporti con la compagnia: i premi incassati a fine dicembre restano crediti verso agenti.
+- Gli investimenti delle riserve tecniche dei contratti dell'art. 41 del Codice delle assicurazioni: in particolare prodotti Index-Linked e Unit-Linked.
+
+**D:** ⚠️ Di quanto varia la voce I.9 «variazione delle riserve di perequazione» nel 2021, e perché, secondo la slide 5 della lezione 45?
+**R:** «*La voce I.9 "variazione delle riserve di perequazione", **negativa per 5.730** migliaia di euro, è dovuta al **minor accantonamento** dell'esercizio rispetto a quello effettuato nell'esercizio precedente. Il dettaglio di tali riserve, per ramo, è stato esposto nella sezione n. 10 (Riserve Tecniche). La variazione nel lavoro indiretto è pari a 25 migliaia di euro di costi.*» (slide 5). Il dettaglio per ramo è la tabella della lezione 43 (slide 2), con l'incendio in testa. Per il docente i 25 mila euro del lavoro indiretto sono «molto molto molto contenuto» ([00:12:52]).
+**Opzione:** È negativa per 5.730 migliaia, per il minor accantonamento dell'esercizio rispetto a quello effettuato nell'esercizio precedente.
+**Distrattori:**
+- È negativa per 5.730 migliaia, per il maggiore accantonamento dell'esercizio rispetto a quello effettuato nell'esercizio precedente.
+- È negativa per 25 migliaia, per il minor accantonamento dell'esercizio rispetto a quello effettuato nell'esercizio precedente.
+- È negativa per 5.730 migliaia, per il minor accantonamento dell'esercizio rispetto alla media degli ultimi tre esercizi.
+
+**D:** ⚠️ Come si calcola la quota dell'utile degli investimenti da trasferire al conto tecnico dei rami Danni (voce I.2), secondo la slide 5 della lezione 45?
+**R:** L'utile degli investimenti «*è dato dalla somma degli ammontari, **iscritti nel conto non tecnico**, dei proventi da investimenti e dei relativi oneri patrimoniali e finanziari*». La quota da attribuire al conto tecnico, ai sensi del **Regolamento ISVAP n. 22 del 4 aprile 2008**, «*viene ricavata applicando al suddetto utile degli investimenti il rapporto risultante tra la **semisomma delle riserve tecniche al netto della riassicurazione** alla fine dell'esercizio corrente e alla fine di quello precedente e la **stessa semisomma aumentata del valore della semisomma del patrimonio netto***» (slide 5). In formula: utile × RT / (RT + PN). Nel 2021 sono stati trasferiti **309.849** migliaia (156.260 nel 2020). ⚠️ Il rapporto inverso, PN / (PN + RT), è quello del trasferimento Vita al conto non tecnico (slide 7).
+**Opzione:** Si applica all'utile degli investimenti iscritto nel conto non tecnico il rapporto fra la semisomma delle riserve tecniche al netto della riassicurazione, di fine esercizio corrente e precedente, e la stessa semisomma aumentata della semisomma del patrimonio netto.
+**Distrattori:**
+- Si applica all'utile degli investimenti iscritto nel conto non tecnico il rapporto fra la semisomma del patrimonio netto, di fine esercizio corrente e precedente, e la stessa semisomma aumentata della semisomma delle riserve tecniche al netto della riassicurazione.
+- I costi di acquisizione direttamente imputabili: provvigioni di acquisizione, sovrapprovvigioni e altre voci, in base alla loro incidenza sui premi lordi contabilizzati.
+
+**D:** ⚠️ Come si calcola la quota dell'utile degli investimenti da trasferire dal conto tecnico dei rami Vita al conto non tecnico (voce II.12), secondo la slide 7 della lezione 45?
+**R:** L'utile degli investimenti è la somma degli ammontari, «*iscritti nel conto tecnico*», dei proventi da investimenti e dei relativi oneri patrimoniali e finanziari, esclusi quelli della classe D. La quota da attribuire al conto non tecnico, ai sensi del Regolamento ISVAP n. 22/2008, «*viene ricavata applicando al suddetto utile degli investimenti il rapporto risultante tra: la **semisomma del patrimonio netto** risultante alla fine dell'esercizio corrente e alla fine di quello precedente; **detto ammontare aumentato della semisomma delle riserve tecniche** (al netto della riassicurazione)*» (slide 7). In formula: utile × PN / (PN + RT). Nel 2021 sono stati trasferiti **94.632** migliaia (83.814 nel 2020). ⚠️ È il rapporto speculare a quello dei Danni, RT / (RT + PN) (slide 5).
+**Opzione:** Si applica all'utile degli investimenti iscritto nel conto tecnico il rapporto fra la semisomma del patrimonio netto, di fine esercizio corrente e precedente, e lo stesso ammontare aumentato della semisomma delle riserve tecniche al netto della riassicurazione.
+**Distrattori:**
+- Si applica all'utile degli investimenti iscritto nel conto tecnico il rapporto fra la semisomma delle riserve tecniche al netto della riassicurazione, di fine esercizio corrente e precedente, e lo stesso ammontare aumentato della semisomma del patrimonio netto.
+- La incassa con il premio, intorno al 12,50%, e la riversa allo Stato come sostituto d'imposta; deve anche versare un acconto, che è gran parte dei crediti verso l'Erario.
+
+**D:** ⚠️ Quali proventi e oneri restano esclusi dall'utile degli investimenti da trasferire al conto non tecnico, e dove restano attribuiti, secondo la slide 7 della lezione 45?
+**R:** «*Sono comunque esclusi ai suddetti fini i proventi e le plusvalenze non realizzate, nonché gli oneri patrimoniali e finanziari e le minusvalenze non realizzate, relativi ad investimenti a beneficio di assicurati i quali ne sopportano il rischio e ad investimenti derivanti dalla gestione dei fondi pensione, che **rimangono pertanto attribuiti integralmente al conto tecnico**.*» (slide 7). Sono le voci II.3 (316.477 migliaia) e II.10 (154.852) del conto tecnico Vita, cioè la classe D (slide 5, 7).
+**Opzione:** I proventi e le plusvalenze non realizzate, nonché gli oneri patrimoniali e finanziari e le minusvalenze non realizzate, relativi a investimenti a beneficio di assicurati che ne sopportano il rischio e a investimenti derivanti dalla gestione dei fondi pensione: restano attribuiti integralmente al conto tecnico.
+**Distrattori:**
+- I proventi e le plusvalenze non realizzate, nonché gli oneri patrimoniali e finanziari e le minusvalenze non realizzate, relativi a investimenti a beneficio di assicurati che ne sopportano il rischio e a investimenti derivanti dalla gestione dei fondi pensione: restano attribuiti integralmente al conto non tecnico.
+- Crediti da agevolazioni fiscali acquistati dai beneficiari diretti o da precedenti acquirenti, recuperabili in compensazione dai versamenti futuri.
+
+**D:** ⚠️ Quando la quota dell'utile degli investimenti da trasferire dal conto tecnico Vita al conto non tecnico deve essere ridotta, secondo la slide 7 della lezione 45?
+**R:** «*Qualora l'utile degli investimenti che resta assegnato al conto tecnico dei rami Vita risulti però **inferiore** all'ammontare degli **utili degli investimenti contrattualmente riconosciuti agli assicurati** nell'esercizio, la quota da trasferire al conto non tecnico deve essere **opportunamente ridotta, fino al suo eventuale annullamento**, in misura pari a tale minor valore.*» (slide 7). La quota relativa al conto tecnico si ripartisce poi fra portafogli e rami sulla base dell'effettiva provenienza, fino a concorrenza degli utili riconosciuti agli assicurati, e sul resto con il metodo proporzionale del Regolamento ISVAP.
+**Opzione:** Quando l'utile degli investimenti che resta assegnato al conto tecnico Vita è inferiore agli utili degli investimenti contrattualmente riconosciuti agli assicurati nell'esercizio: va ridotta, fino al suo eventuale annullamento, in misura pari a tale minor valore.
+**Distrattori:**
+- Quando l'utile degli investimenti che resta assegnato al conto tecnico Vita è superiore agli utili degli investimenti contrattualmente riconosciuti agli assicurati nell'esercizio: va ridotta, fino al suo eventuale annullamento, in misura pari a tale maggior valore.
+- Riduce proporzionalmente le proprie riserve iscrivendo nell'attivo una posta di rettifica, le riserve tecniche a carico dei riassicuratori.
+
+**D:** ⚠️ Quanto hanno trasferito nel 2021 il conto non tecnico al conto tecnico Danni e il conto tecnico Vita al conto non tecnico, secondo le slide 5 e 7 della lezione 45?
+**R:** «*Al 31 dicembre 2021 sono stati trasferiti utili degli investimenti dal conto non tecnico al conto tecnico per **309.849** migliaia di euro (156.260 migliaia di euro il dato 2020)*» (slide 5). «*Sono stati trasferiti dal conto tecnico Vita al conto Non tecnico utili degli investimenti per **94.632** migliaia di euro (83.814 migliaia di euro il dato 2020)*» (slide 7). Nello schema sono le voci I.2 e III.6, II.12 e III.4 (lezione 39, slide 12, 16, 18). Il docente: per il Vita «è il contrario» del Danni ([00:20:01]).
+**Opzione:** Dal conto non tecnico al conto tecnico Danni 309.849 migliaia (156.260 nel 2020); dal conto tecnico Vita al conto non tecnico 94.632 (83.814).
+**Distrattori:**
+- Dal conto non tecnico al conto tecnico Danni 94.632 migliaia (83.814 nel 2020); dal conto tecnico Vita al conto non tecnico 309.849 (156.260).
+- Dal conto non tecnico al conto tecnico Danni 156.260 migliaia (309.849 nel 2020); dal conto tecnico Vita al conto non tecnico 83.814 (94.632).
+- Dal conto tecnico Danni al conto non tecnico 309.849 migliaia (156.260 nel 2020); dal conto non tecnico al conto tecnico Vita 94.632 (83.814).
+
+**D:** ⚠️ Perché il conto tecnico dei rami Danni non riporta la gestione finanziaria, salvo la quota dell'utile degli investimenti trasferita, secondo il docente della lezione 45?
+**R:** Il legislatore europeo, recepito in Italia nel 1997, ha ritenuto più comprensibile un conto tecnico danni «in cui non vi fossero componenti di natura finanziaria». Si è voluto dare «una impostazione **strettamente tecnico-assicurativa** al conto tecnico del ramo danni, cioè far vedere solo i costi e i ricavi strettamente tecnici e assicurativi, senza tra virgolette **sporcare** il conto tecnico ramo danni con componenti positive o negative di natura finanziaria» ([00:14:26]). Il rendimento netto degli investimenti sta nel conto non tecnico. ⚠️ Nella lezione 39 il docente dava un'altra ragione, una componente di investimento «scarsamente significativa» ([00:19:50] della 39), smentita dai 701.965 migliaia di proventi da investimenti Danni (slide 8).
+**Opzione:** Per dare al conto tecnico Danni un'impostazione strettamente tecnico-assicurativa, con i soli costi e ricavi tecnici, senza sporcarlo con componenti di natura finanziaria.
+**Distrattori:**
+- Per dare al conto tecnico Danni un'impostazione strettamente finanziaria, con i soli proventi e oneri degli investimenti, senza sporcarlo con componenti di natura tecnico-assicurativa.
+- Riduce le riserve con le riserve tecniche a carico dei riassicuratori, iscrive i depositi cauzionali ricevuti e riduce i premi a conto economico: meno rischio, ma anche meno ricavi.
+
+**D:** ⚠️ Come incide il patrimonio netto sulla quota dell'utile degli investimenti trasferita al conto tecnico dei rami Danni, secondo il docente della lezione 45?
+**R:** La quota «sarà sempre solo una quota»: «più il patrimonio netto è **grande** **minore** è la quota che viene trasferita al conto tecnico, più il patrimonio netto è **piccolo** rispetto al valore delle riserve tecniche più sarà **grande** la quota trasferita al conto tecnico» ([00:18:15]). È l'effetto del rapporto della slide 5, semisomma delle riserve tecniche su riserve tecniche più patrimonio netto: RT / (RT + PN).
+**Opzione:** Più il patrimonio netto è grande, minore è la quota trasferita al conto tecnico; più è piccolo rispetto alle riserve tecniche, maggiore è la quota.
+**Distrattori:**
+- Più il patrimonio netto è grande, maggiore è la quota trasferita al conto tecnico; più è piccolo rispetto alle riserve tecniche, minore è la quota.
+- Più le riserve tecniche sono grandi rispetto al patrimonio netto, minore è la quota trasferita al conto tecnico.
+
+**D:** ⚠️ In quali allegati la nota integrativa di UnipolSai espone le informazioni di sintesi su premi e saldo di riassicurazione dei rami Vita e il dettaglio dei proventi da investimenti Vita, secondo la slide 5 della lezione 45?
+**R:** «*Le informazioni di sintesi relative ai premi ed al saldo di riassicurazione sono contenute nell'**allegato 20**. Il dettaglio dei proventi da investimenti (voce II.2), che al 31 dicembre 2021 ammontano a 1.100.036 migliaia di euro …, è esposto nell'**allegato 21**.*» (slide 5). Gli altri allegati: **19** sintesi del conto tecnico Danni (slide 2); **22** proventi e plusvalenze non realizzate della classe D, 316.477 (slide 5); **23** oneri patrimoniali e finanziari Vita (slide 6); **24** oneri e minusvalenze non realizzate della classe D (slide 7); **25** conti tecnici per singolo ramo Danni (slide 8). ⚠️ Il docente attribuisce i 316 milioni all'allegato 21 ([00:18:49]).
+**Opzione:** Nell'allegato 20 le informazioni di sintesi su premi e saldo di riassicurazione; nell'allegato 21 il dettaglio dei proventi da investimenti.
+**Distrattori:**
+- Nell'allegato 19 le informazioni di sintesi su premi e saldo di riassicurazione; nell'allegato 21 il dettaglio dei proventi da investimenti.
+- Nell'allegato 20 le informazioni di sintesi su premi e saldo di riassicurazione; nell'allegato 22 il dettaglio dei proventi da investimenti.
+- Nell'allegato 21 le informazioni di sintesi su premi e saldo di riassicurazione; nell'allegato 20 il dettaglio dei proventi da investimenti.
+
+**D:** ⚠️ Come sono costituite le somme lorde pagate dei rami Vita (voce II.5.a.aa, 2.835.770 migliaia di euro), e qual è la voce maggiore, secondo la slide 6 della lezione 45?
+**R:** Le somme lorde pagate «*sono ammontate a 2.835.770 migliaia di euro (−20,5% rispetto al 31 dicembre 2020 pari a 3.568.395 migliaia di euro)*» (slide 6): capitali e rendite maturate **915.379** (1.922.960 nel 2020); **riscatti e anticipazioni 1.671.265** (1.421.633); sinistri **243.687**; spese di liquidazione **4.623**; lavoro indiretto **817**. ⚠️ Nel 2021 la voce maggiore sono i riscatti e anticipazioni; nel 2020 lo erano i capitali e rendite maturate, che scendono di 1.007.581. Il docente elenca le stesse voci ([00:18:49]).
+**Opzione:** Capitali e rendite maturate 915.379; riscatti e anticipazioni 1.671.265, la voce maggiore; sinistri 243.687; spese di liquidazione 4.623; lavoro indiretto 817.
+**Distrattori:**
+- Capitali e rendite maturate 1.671.265, la voce maggiore; riscatti e anticipazioni 915.379; sinistri 243.687; spese di liquidazione 4.623; lavoro indiretto 817.
+- Durata indeterminata; 5,75% fisso per i primi 10 anni, poi Euribor 3 mesi + 518 bp; subordinazione assimilabile al Tier I.
+
+**D:** ⚠️ Perché la riserva per somme da pagare dei rami Vita varia di −229.192 migliaia di euro nel 2021, secondo la slide 6 della lezione 45?
+**R:** «*La variazione della riserva per somme da pagare, al netto della quota a carico dei riassicuratori, è di −229.192 migliaia di euro (159.330 migliaia di euro il dato 2020). La variazione è dovuta **sostanzialmente** a **volumi scaduti a fine 2020 e pagati nei primi mesi del 2021** riconducibili anche a **contratti emessi a fine 2000**, **ultimo anno con beneficio di detraibilità fiscale** su tutte le polizze vita.*» (slide 6). È la stessa spiegazione con cui la lezione 43 (slide 4) commenta il calo della riserva da 502.455 a 269.519.
+**Opzione:** Sostanzialmente per volumi scaduti a fine 2020 e pagati nei primi mesi del 2021, riconducibili anche a contratti emessi a fine 2000, ultimo anno con beneficio di detraibilità fiscale su tutte le polizze vita.
+**Distrattori:**
+- Sostanzialmente per volumi scaduti a fine 2021 e da pagare nei primi mesi del 2022, riconducibili anche a contratti emessi a fine 2000, ultimo anno con beneficio di detraibilità fiscale su tutte le polizze vita.
+- Ammontari da recuperare da altre compagnie o da altri soggetti per il pagamento dei sinistri: rivalse della compagnia verso terzi.
+
+**D:** ⚠️ Da che cosa sono principalmente costituiti gli altri oneri tecnici dei rami Vita (voce II.11, 47.722 migliaia di euro), secondo la slide 7 della lezione 45?
+**R:** Gli altri oneri tecnici, al netto delle cessioni in riassicurazione, pari a 47.722 migliaia (−8,3%), «*sono principalmente costituiti da*»: **management fee** per **36.890**; **annullamenti di premi degli esercizi precedenti** per **7.784**; **commissioni su investimenti relativi a polizze Unit-Linked e fondi pensione** per **1.389** (slide 7). Le tre cifre fanno 46.063: l'elenco è aperto. ⚠️ Scatole nere e stanza CARD sono poste del lavoro diretto **Danni** (slide 5); gli annullamenti di premi compaiono in entrambi i rami.
+**Opzione:** Principalmente management fee per 36.890 migliaia, annullamenti di premi degli esercizi precedenti per 7.784 e commissioni su investimenti relativi a polizze Unit-Linked e fondi pensione per 1.389.
+**Distrattori:**
+- Principalmente management fee per 36.890 migliaia, annullamenti di premi degli esercizi precedenti per 7.784 e diritti di gestione della stanza CARD per 1.389.
+- 2.031.456 migliaia di euro, interamente sottoscritto e versato, in 2.829.717.372 azioni ordinarie prive di valore nominale.
+
+**D:** ⚠️ Quali parametri nomina la slide 8 della lezione 45 per imputare ai singoli rami i costi di struttura di UnipolSai nei Danni e nel Vita?
+**R:** **Danni**: per i costi di struttura «*si è operato in parte con attribuzioni dirette ed in parte attraverso l'applicazione di parametri di allocazione differenziati in funzione della natura della spesa da ripartire. I principali parametri utilizzati sono stati determinati in base ai **premi**, al **numero delle polizze** ed ai **risarcimenti pagati***». **Vita**: «*L'attribuzione dei costi di struttura ai singoli rami è stata effettuata mediante diversi parametri quali i **pagamenti**, le **teste assicurate** e le **provvigioni pagate***» (slide 8). ⚠️ Entrambi gli elenchi sono aperti: «i principali parametri» nei Danni, «diversi parametri quali» nel Vita. Nel Vita sono comuni a più rami anche i **redditi degli investimenti**, imputati ai rami in proporzione alle riserve tecniche.
+**Opzione:** Danni: i principali sono premi, numero delle polizze e risarcimenti pagati; Vita: parametri quali pagamenti, teste assicurate e provvigioni pagate.
+**Distrattori:**
+- Danni: i principali sono pagamenti, teste assicurate e provvigioni pagate; Vita: parametri quali premi, numero delle polizze e risarcimenti pagati.
+- Danni: i principali sono premi, numero delle polizze e provvigioni pagate; Vita: parametri quali pagamenti, teste assicurate e risarcimenti pagati.
+- Danni: i principali sono premi, teste assicurate e risarcimenti pagati; Vita: parametri quali pagamenti, numero delle polizze e provvigioni pagate.
+
+**D:** ⚠️ Che cosa comprendono gli oneri di gestione degli investimenti ed interessi passivi dei rami Danni (voce C.III.5.a, 88.692 migliaia di euro), secondo la slide 8 della lezione 45?
+**R:** «*comprendono*»: spese di amministrazione attribuite alla gestione degli investimenti **39.296**; oneri finanziari connessi a strumenti finanziari derivati **19.884**; imposte sugli investimenti **8.984** (6.373 di IMU, 1.673 di altre imposte indirette e tributi sugli investimenti immobiliari, 938 di altre imposte sugli investimenti finanziari); scarti di emissione/negoziazione **5.076**; spese su dossier titoli **9.286**; interessi su depositi ricevuti da riassicuratori **423** (slide 8). Le sei righe fanno 82.949: l'elenco è aperto. ⚠️ Gli interessi passivi sui **prestiti subordinati** (101.704) stanno invece negli **altri oneri**, voce III.8 (slide 10).
+**Opzione:** Comprendono spese di amministrazione attribuite alla gestione degli investimenti 39.296, oneri finanziari connessi a strumenti finanziari derivati 19.884, imposte sugli investimenti 8.984, scarti di emissione/negoziazione 5.076, spese su dossier titoli 9.286, interessi su depositi ricevuti da riassicuratori 423.
+**Distrattori:**
+- Comprendono spese di amministrazione attribuite alla gestione degli investimenti 39.296, oneri finanziari connessi a strumenti finanziari derivati 19.884, imposte sugli investimenti 8.984, scarti di emissione/negoziazione 5.076, spese su dossier titoli 9.286, interessi su prestiti subordinati 423.
+- Ratei 330.004, quasi tutti per interessi (329.936); risconti 30.824.
+- 505,0 milioni; la voce maggiore è la riserva sinistri dei rami danni, 400,0.
+
+**D:** ⚠️ Dove stanno le quote di ammortamento dei beni immobili nel conto non tecnico di UnipolSai 2021, e per quanto, secondo la slide 9 della lezione 45?
+**R:** Nelle **rettifiche di valore sugli investimenti** (voce III.5.b, 82.803 migliaia, −46,3%): «*Nella voce sono ricomprese anche le riduzioni di valore su beni immobili per complessivi **37.916** migliaia di euro, di cui **34.249** riferite alle **quote di ammortamento** e **3.666** riferite alle **svalutazioni** per adeguamenti di valore.*» Il resto sono allineamenti su azioni, partecipazioni e quote di fondi (39.315), su titoli obbligazionari (5.029) e su altri investimenti finanziari (544) (slide 9). ⚠️ Gli **ammortamenti su avviamenti e altri attivi immateriali** (112.341) stanno invece negli **altri oneri**, voce III.8 (slide 10).
+**Opzione:** Nelle rettifiche di valore sugli investimenti (voce III.5.b): 34.249 di quote di ammortamento e 3.666 di svalutazioni, in tutto 37.916.
+**Distrattori:**
+- Negli altri oneri (voce III.8), con gli ammortamenti su avviamenti: 34.249 di quote di ammortamento e 3.666 di svalutazioni, in tutto 37.916.
+- Nelle rettifiche di valore sugli investimenti (voce III.5.b): 3.666 di quote di ammortamento e 34.249 di svalutazioni, in tutto 37.916.
+- Negli oneri straordinari (voce III.11): 34.249 di quote di ammortamento e 3.666 di svalutazioni, in tutto 37.916.
+
+**D:** ⚠️ Come si compone l'onere per imposte sul reddito dell'esercizio (voce III.14) di UnipolSai 2021, secondo la slide 12 della lezione 45?
+**R:** «*La voce III.14 "Imposte sul reddito dell'esercizio" dà evidenza di un onere complessivo di **230.693** migliaia di euro (284.246 migliaia di euro il dato 2020), di cui **217.954** migliaia di euro relativi alle **imposte correnti IRES e IRAP** dell'esercizio, oltre al **saldo netto della fiscalità anticipata e differita passiva** pari a **12.738** migliaia di euro.*» (slide 12). Nelle movimentazioni l'IRES vale 185.153 e l'IRAP 45.539 (slide 13). ⚠️ Per il docente il «peso totale» è di «185 milioni» ([00:22:59]): è la sola colonna IRES.
+**Opzione:** 230.693 migliaia: 217.954 di imposte correnti IRES e IRAP e 12.738 di saldo netto della fiscalità anticipata e differita passiva.
+**Distrattori:**
+- 230.693 migliaia: 12.738 di imposte correnti IRES e IRAP e 217.954 di saldo netto della fiscalità anticipata e differita passiva.
+- 230.693 migliaia: 217.954 di imposte correnti IRES e IRAP e 12.738 di saldo netto della fiscalità anticipata e differita attiva.
+- 230.693 migliaia: 217.954 di imposte correnti IRES e IRAP e 12.738 di imposte sostitutive.
+
+**D:** ⚠️ Che cosa dice il docente della lezione 45 sul prospetto di riconciliazione fra onere fiscale teorico e onere fiscale effettivo IRES e IRAP?
+**R:** «Questo è un **prospetto obbligatorio** che è previsto anche nella nota integrativa ai sensi dell'**articolo 2427** per le imprese che redigono il **bilancio ordinario**»; vi si confrontano il peso teorico e il peso effettivo delle imposte ([00:22:59]). Nel prospetto di UnipolSai (slide 13–14) l'IRES teorica è di 210.919 migliaia sul risultato prima delle imposte di 878.830, l'IRES di competenza di 184.089, l'IRAP di 45.539, il totale delle imposte sul reddito di 230.693. ⚠️ L'art. 2427 c.c. è quello della nota integrativa; la relazione sulla gestione è l'art. 2428 (lezione 04).
+**Opzione:** È un prospetto obbligatorio, previsto anche nella nota integrativa ai sensi dell'art. 2427 c.c. per le imprese che redigono il bilancio ordinario.
+**Distrattori:**
+- È un prospetto obbligatorio, previsto anche nella nota integrativa ai sensi dell'art. 2428 c.c. per le imprese che redigono il bilancio ordinario.
+- È un prospetto facoltativo, previsto anche nella nota integrativa ai sensi dell'art. 2427 c.c. per le imprese che redigono il bilancio ordinario.
+- È un prospetto obbligatorio, previsto nella nota integrativa ai sensi dell'art. 2427 c.c. solo per le compagnie di assicurazione.
+
+## Lezione 46 — La Nota integrativa del bilancio della compagnia di assicurazioni. Altre informazioni
+
+**D:** ⚠️ Dove vanno inserite le informazioni su erogazioni pubbliche ricevute, secondo il test della lezione 46 (domanda 1)?
+**R:** **In nota integrativa**: «*Informazioni su erogazioni pubbliche ricevute*» è un paragrafo delle altre informazioni della nota integrativa di UnipolSai, richiesto dalla «*disciplina sulla trasparenza delle erogazioni pubbliche introdotta dall'art.1, comma 125 della legge n.124/2017*» (slide 3). Il docente: «qui sempre nell'ambito delle altre informazioni vanno anche indicate le eventuali erogazioni pubbliche ricevute» ([00:09:16]). Nel 2021 UnipolSai non ha beneficiato di sovvenzioni, contributi e comunque vantaggi economici soggetti all'obbligo di informativa. ⚠️ Il vicino è la relazione sulla gestione, l'altro documento descrittivo che gli amministratori allegano al bilancio (lezione 04). Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove vanno inserite le informazioni relative ai corrispettivi di revisione contabile e di servizi diversi dalla revisione, secondo il test della lezione 46 (domanda 2)?
+**R:** **In nota integrativa**: «*Ai sensi dell'art. 149-duodecies del Regolamento Emittenti Consob*» la nota integrativa indica «*i corrispettivi di competenza dell'esercizio per incarichi di revisione e per prestazione di altri servizi, indicati distintamente per categoria*», forniti dalla società di revisione o da entità del suo network (slide 4): 1.934 in tutto, a EY S.p.A. e EY Advisory S.p.A. ⚠️ Il vicino è la relazione del revisore: i compensi sono quelli di EY, che firma la relazione di revisione, ma è la società a indicarli nella propria nota integrativa. Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove va inserita la proposta di approvazione del bilancio dell'esercizio, secondo il test della lezione 46 (domanda 3)?
+**R:** **In nota integrativa**: le «*Proposte di approvazione del bilancio, della destinazione dell'utile e relativi effetti sul patrimonio netto*» stanno nel deck della nota integrativa, altre informazioni: «*Il Consiglio di Amministrazione sottopone all'Assemblea Ordinaria le seguenti proposte di deliberazione*» (slide 4–5). Il docente: «viene poi proposta, sempre nell'ambito della nota integrativa, l'approvazione del bilancio con la predisposizione di quella che dovrebbe essere la delibera di approvazione» ([00:14:06]); «sempre la proposta questa è contenuta nella nota integrativa» ([00:18:02]). ⚠️ Il vicino è la delibera di approvazione: la proposta ne è il testo, ma diventa delibera solo quando l'assemblea la approva; fino ad allora il bilancio resta un progetto ([00:15:13]). Il testo del paragrafo non dice dove sta: la collocazione viene dal titolo del deck e dal docente (vedi la nota). Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove va inserita la composizione del patrimonio netto dei rami danni, secondo il test della lezione 46 (domanda 4)?
+**R:** **In nota integrativa**: «*Effetti sul patrimonio netto … Composizione del Patrimonio Netto Danni*» è un paragrafo della nota integrativa, con i saldi al 31 dicembre 2021 (totale 4.178.080), il riparto dell'utile e i saldi post delibera (3.773.908) (slide 7; [00:20:15]). ⚠️ Il vicino è la delibera di approvazione, perché il prospetto è «*aggiornato sulla base della proposta di distribuzione dell'utile*» e mostra i «*saldi post delibera*»: ma la delibera dispone la destinazione dell'utile, non espone la composizione del patrimonio netto. Anche lo stato patrimoniale della gestione Danni è un allegato alla nota integrativa (allegato 1, lezione 41). Distrattori del test: «nella relazione sulla gestione», «nella delibera di approvazione del bilancio», «nella relazione del revisore».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella delibera di approvazione del bilancio.
+- Nella relazione del revisore.
+
+**D:** ⚠️ Dove va inserita la composizione del patrimonio netto dei rami vita, secondo il test della lezione 46 (domanda 5)?
+**R:** **In nota integrativa**: «*Composizione del Patrimonio Netto Vita*» è il prospetto speculare a quello dei Danni, nella stessa nota integrativa: totale 2.383.830 al 31 dicembre 2021, 2.250.720 post delibera (slide 8). Il docente: «stessa cosa per il patrimonio netto del ramo vita» ([00:20:15]–[00:21:26]). ⚠️ Il vicino è la delibera di approvazione, per i saldi post delibera. Lo stato patrimoniale della gestione Vita è l'allegato 2 alla nota integrativa (lezione 41). È la domanda gemella della 4, come le domande 4 e 5 del test 45. Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** In nota integrativa.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Perché la nota integrativa di UnipolSai riporta il prospetto riepilogativo dei dati essenziali dei bilanci di Unipol Gruppo, secondo la slide 2 della lezione 46?
+**R:** Perché «*La società Unipol Gruppo svolge l'attività di direzione e coordinamento ai sensi dell'art. 2497 e seguenti del c.c.*» (slide 2). Per il docente l'obbligo è reciproco: i bilanci della società che svolge la direzione e il coordinamento vanno nelle note integrative delle società dirette e coordinate, e nella nota integrativa della capogruppo vanno allegati i bilanci delle controllate ([00:00:35]–[00:01:11]). Il prospetto riporta stato patrimoniale e conto economico di Unipol Gruppo al 31 dicembre 2020 e 2019 (slide 2–3). ⚠️ Un vicino rovescia i ruoli: è Unipol Gruppo a dirigere UnipolSai, non il contrario. L'altro cambia l'articolo: l'art. 2359 c.c. è quello del controllo, con cui la lezione 37 dice UnipolSai controllata da Unipol Gruppo.
+**Opzione:** Perché Unipol Gruppo svolge l'attività di direzione e coordinamento ai sensi dell'art. 2497 e seguenti del c.c.
+**Distrattori:**
+- Perché UnipolSai svolge l'attività di direzione e coordinamento su Unipol Gruppo ai sensi dell'art. 2497 e seguenti del c.c.
+- Perché Unipol Gruppo svolge l'attività di direzione e coordinamento ai sensi dell'art. 2359 e seguenti del c.c.
+
+**D:** ⚠️ A quali date si riferiscono i dati essenziali di Unipol Gruppo nella nota integrativa 2021 di UnipolSai, e perché, secondo il docente della lezione 46?
+**R:** Al **31 dicembre 2020** e al **31 dicembre 2019** (slide 2), non al 2021. Per il docente la capogruppo «normalmente, anzi direi di regola, approva il bilancio **dopo** le singole controllate, in quanto deve includere nel proprio bilancio consolidato i bilanci delle singole società controllate» ([00:05:26]). Unipol Gruppo redigerà il consolidato 2021 solo dopo che UnipolSai avrà redatto il suo bilancio 2021: riportarne i dati 2021 «sarebbe evidentemente impossibile». ⚠️ Il docente dice «31 febbraio 2020» ([00:03:33]): è un lapsus.
+**Opzione:** Al 31 dicembre 2020 e 2019: la capogruppo approva il bilancio dopo le controllate, perché nel consolidato deve includere i loro bilanci.
+**Distrattori:**
+- Al 31 dicembre 2020 e 2019: la capogruppo approva il bilancio prima delle controllate, perché nel consolidato deve includere i loro bilanci.
+- Il dato di fine 2020 risente di importanti volumi scaduti a fine dicembre 2020 e regolati nei primi mesi del 2021, su contratti emessi a fine 2000, ultimo anno con detraibilità fiscale su tutte le polizze vita.
+
+**D:** ⚠️ Che cosa interessa al legislatore del Codice civile quando impone a capogruppo e controllate di indicare ciascuna i dati di bilancio dell'altra, secondo il docente della lezione 46?
+**R:** Non tanto una finalità gestionale, «afferendo più a una disciplina manageriale che non a una disciplina di tutela codicistica», quanto «chiarire ai **terzi**, soprattutto, quali siano i **rapporti** fra la società capogruppo e le sue controllate». Se nella gestione delle controllate vi sono omissioni o gravi lacune, «in alcuni casi, molti casi» ne può rispondere direttamente la capogruppo, chiamata a rispondere **solidalmente**: per esempio dei debiti verso l'INPS, dei debiti tributari, di quelli verso i dipendenti e di natura assistenziale, delle operazioni di fusione e scissione, delle ristrutturazioni e dei passaggi di personale, «e così via». La direzione e coordinamento «lega quasi indissolubilmente i destini della capogruppo ai destini della controllata» e rende meno facili le operazioni di bad company e good company ([00:01:11]–[00:05:26]).
+**Opzione:** Chiarire ai terzi i rapporti fra capogruppo e controllate, perché la capogruppo può essere chiamata a rispondere solidalmente dei debiti delle controllate.
+**Distrattori:**
+- Consentire alla capogruppo di verificare la gestione delle controllate, perché è un'esigenza manageriale che il Codice civile tutela in primo luogo.
+- A equilibrare l'andamento delle riserve dei rami rispetto a variazioni dovute a fatti esterni, per cui le percentuali di sinistrosità considerate all'emissione della polizza possono aumentare.
+
+**D:** ⚠️ Ai sensi di quali norme e secondo quali principi UnipolSai redige il bilancio consolidato, secondo la slide 3 della lezione 46?
+**R:** «*UnipolSai redige il bilancio consolidato ai sensi dell'art.154-ter del D. Lgs. n. 58/1998 (TUF) e del Regolamento ISVAP n. 7 del 13 luglio 2007, e successive modificazioni e integrazioni, in conformità ai principi contabili internazionali IAS/IFRS emanati dallo IASB ed omologati dall'Unione Europea.*» Copia del consolidato è disponibile sul sito della Compagnia, e Unipol Gruppo redige il proprio ai sensi delle stesse norme (slide 3). ⚠️ Il vicino scambia il regolamento: il Regolamento ISVAP n. 22 del 4 aprile 2008 è quello del bilancio d'esercizio (lezione 39, slide 20).
+**Opzione:** Ai sensi dell'art. 154-ter del D.Lgs. n. 58/1998 (TUF) e del Regolamento ISVAP n. 7 del 13 luglio 2007, secondo gli IAS/IFRS emanati dallo IASB ed omologati dall'Unione Europea.
+**Distrattori:**
+- Ai sensi dell'art. 154-ter del D.Lgs. n. 58/1998 (TUF) e del Regolamento ISVAP n. 22 del 4 aprile 2008, secondo gli IAS/IFRS emanati dallo IASB ed omologati dall'Unione Europea.
+- Mark to Model interno, con parametri di mercato esclusivamente di tipo osservabile.
+
+**D:** ⚠️ Che cosa dice la nota integrativa di UnipolSai della sua controllante diretta Unipol Gruppo S.p.A., secondo la slide 3 della lezione 46?
+**R:** Che è una «*società quotata alla Borsa Italiana di Milano, con sede legale in Bologna, via Stalingrado 45*», che redige il consolidato secondo gli IAS/IFRS; che «*esercita nei confronti delle società controllate (dirette e indirette) attività di direzione e coordinamento*»; e che «*è inoltre capogruppo del Gruppo Assicurativo Unipol, iscritta all'Albo dei Gruppi Assicurativi al n. 046*» (slide 3). Il docente legge «numero 46» e dice «la società controllata» al singolare ([00:09:16]). ⚠️ Il vicino restringe la direzione e coordinamento alle sole controllate dirette.
+**Opzione:** Quotata alla Borsa Italiana di Milano, esercita la direzione e coordinamento sulle controllate dirette e indirette ed è capogruppo del Gruppo Assicurativo Unipol, iscritta all'Albo al n. 046.
+**Distrattori:**
+- Quotata alla Borsa Italiana di Milano, esercita la direzione e coordinamento sulle sole controllate dirette ed è capogruppo del Gruppo Assicurativo Unipol, iscritta all'Albo al n. 046.
+- La valutazione delle riserve sinistri R.C. Auto e Natanti: 27.500 euro, annullata dal Consiglio di Stato nel 2019 e recuperata nel 2021.
+
+**D:** ⚠️ Secondo quali principi contabili UnipolSai redige il bilancio d'esercizio e il bilancio consolidato, e in che cosa le assicurazioni differiscono dalle banche, secondo il docente della lezione 46?
+**R:** Per il docente le banche, dall'esercizio iniziato il 1° gennaio 2005, sono tenute agli IAS/IFRS **sia** per il bilancio d'esercizio **sia** per il consolidato. Le assicurazioni no: il **consolidato** lo redigono «**sempre**» secondo i principi contabili internazionali, mentre «se non sono quotate e se devono redigere solo il bilancio di esercizio, possono continuare a utilizzare i **principi contabili nazionali**». UnipolSai redige così il bilancio d'esercizio con i principi nazionali e il consolidato con gli IAS/IFRS ([00:06:34]–[00:08:47]). ⚠️ Il docente lo giustifica dicendo che la quotata è Unipol Gruppo, ma nella lezione 37 lui stesso dice che «il titolo UnipolSai è quotato in borsa». ⚠️ Per la lezione 12 le banche applicano gli IAS al bilancio d'esercizio dal 2006, con l'opzione di anticipare al 2005.
+**Opzione:** Il bilancio d'esercizio secondo i principi contabili nazionali, il consolidato sempre secondo gli IAS/IFRS; le banche applicano gli IAS a entrambi.
+**Distrattori:**
+- Il bilancio d'esercizio secondo gli IAS/IFRS, il consolidato sempre secondo i principi contabili nazionali; le banche applicano gli IAS a entrambi.
+- Con CSA la curva di sconto EONIA o ESTR; per i derivati non collateralizzati gli aggiustamenti CVA e DVA.
+
+**D:** ⚠️ Quale disciplina richiama il paragrafo sulle erogazioni pubbliche ricevute, e che cosa dichiara UnipolSai per il 2021, secondo la slide 3 della lezione 46?
+**R:** «*Con riferimento alla disciplina sulla trasparenza delle erogazioni pubbliche introdotta dall'art.1, comma 125 della legge n.124/2017 e successive modifiche ed integrazioni, si segnala che la società, nel corso dell'esercizio 2021, **non ha beneficiato** di sovvenzioni, contributi e comunque vantaggi economici soggetti all'obbligo di informativa in bilancio ai sensi della normativa citata.*» (slide 3). Il docente: «UnipolSai non ha ricevuto pubbliche sovvenzioni nel corso dell'esercizio 2021» ([00:11:04]). ⚠️ A [00:09:50] il docente dice prima «legge 124 del 2017», poi «legge 124 del 2007»: la slide dice 2017, ed è la trappola del vicino.
+**Opzione:** L'art. 1, comma 125, della legge n. 124/2017; nel 2021 la società non ha beneficiato di sovvenzioni, contributi e comunque vantaggi economici soggetti all'obbligo di informativa in bilancio.
+**Distrattori:**
+- L'art. 1, comma 125, della legge n. 124/2007; nel 2021 la società non ha beneficiato di sovvenzioni, contributi e comunque vantaggi economici soggetti all'obbligo di informativa in bilancio.
+- Il contenzioso tributario in essere e potenziale: 7.642 per vertenze in contenzioso e 1.675 per altri rischi stimati.
+
+**D:** ⚠️ Che cosa precisa la nota integrativa di UnipolSai, per completezza informativa, sul Registro Nazionale degli Aiuti di Stato, secondo la slide 3 della lezione 46?
+**R:** «*Per completezza informativa, pur essendo tali contributi **esclusi** dagli obblighi di trasparenza stabiliti nella normativa citata, si precisa che nel Registro Nazionale degli Aiuti di Stato, pubblicamente consultabile sul relativo sito internet nella sezione trasparenza, sono pubblicate le misure di Aiuto e i relativi Aiuti individuali concessi e registrati nel sistema dalle Autorità Concedenti a beneficio della Società in qualità di presentatore della relativa istanza, anche per conto di società controllate.*» (slide 3). ⚠️ Il vicino sopprime la concessiva: i contributi del Registro sono esclusi dagli obblighi di trasparenza, non soggetti.
+**Opzione:** Che, pur essendo tali contributi esclusi dagli obblighi di trasparenza, nel Registro Nazionale degli Aiuti di Stato sono pubblicate le misure di Aiuto e i relativi Aiuti individuali concessi e registrati dalle Autorità Concedenti a beneficio della Società in qualità di presentatore della relativa istanza, anche per conto di società controllate.
+**Distrattori:**
+- Che, essendo tali contributi soggetti agli obblighi di trasparenza, nel Registro Nazionale degli Aiuti di Stato sono pubblicate le misure di Aiuto e i relativi Aiuti individuali concessi e registrati dalle Autorità Concedenti a beneficio della Società in qualità di presentatore della relativa istanza, anche per conto di società controllate.
+- Ha accettato gli impegni proposti dalla Compagnia e chiuso il procedimento senza accertamento di infrazioni e senza sanzioni.
+
+**D:** ⚠️ A quali società si applica l'obbligo di indicare le erogazioni pubbliche ricevute, e che cosa succede se non viene adempiuto, secondo il docente della lezione 46?
+**R:** È «obbligatorio anche per le società **non assicurative**»: la legge 124 del 2017 «prevede l'obbligo per **tutte** le società di indicare se nel corso dell'esercizio a cui si riferisce il bilancio hanno beneficiato di erogazioni pubbliche», e se non lo fanno «oltre che una **sanzione** viene anche **ritirata** la erogazione pubblica» ([00:09:16]–[00:09:50]). Per il docente è «un'ulteriore integrazione» della nota integrativa. ⚠️ Il vicino tiene la sanzione e toglie il ritiro dell'erogazione.
+**Opzione:** A tutte le società, anche non assicurative; se non viene adempiuto, oltre a una sanzione viene ritirata l'erogazione pubblica.
+**Distrattori:**
+- A tutte le società, anche non assicurative; se non viene adempiuto, si applica una sanzione, ma l'erogazione pubblica resta acquisita.
+- Ligresti 250.000 euro e interdizione per quattro mesi; Erbetta 400.000 euro e otto mesi; UnipolSai 650.000 euro.
+
+**D:** ⚠️ Ai sensi di quale norma e con quale perimetro la nota integrativa di UnipolSai indica i corrispettivi della società di revisione, secondo la slide 4 della lezione 46?
+**R:** «*Ai sensi dell'art. 149-duodecies del Regolamento Emittenti Consob, nel prospetto seguente vengono indicati i corrispettivi di competenza dell'esercizio per incarichi di revisione e per prestazione di altri servizi, indicati distintamente per categoria, forniti dalla società di revisione, oppure da entità appartenenti al medesimo network della stessa. Si precisa che i compensi **non includono l'IVA e le spese**.*» (slide 4). Per questo la tabella comprende EY Advisory S.p.A. accanto a EY S.p.A. ⚠️ Il vicino rende i compensi comprensivi di IVA e spese.
+**Opzione:** Art. 149-duodecies del Regolamento Emittenti Consob: corrispettivi di competenza per revisione e altri servizi, distinti per categoria, della società di revisione o di entità del suo network, senza IVA e spese.
+**Distrattori:**
+- Art. 149-duodecies del Regolamento Emittenti Consob: corrispettivi di competenza per revisione e altri servizi, distinti per categoria, della società di revisione o di entità del suo network, comprensivi di IVA e spese.
+- Con metodi Mark to Model in linea con quelli comunemente usati dal mercato; senza modelli consistenti e validati, sulla base dei prezzi forniti dalla controparte.
+
+**D:** ⚠️ Quali corrispettivi espone la tabella dei servizi della società di revisione di UnipolSai per il 2021, secondo la slide 4 della lezione 46?
+**R:** Il destinatario è sempre UnipolSai Assicurazioni S.p.A.: **revisione contabile** 1.315, **servizi di attestazione** 400 e **altri servizi** 195, resi da **EY S.p.A.**, più **altri servizi** per 24 resi da **EY Advisory S.p.A.**, per un **totale di 1.934** (slide 4). La tabella non indica l'unità; la nota integrativa è in migliaia di euro (lezione 39, slide 20), quindi sono circa 1,9 milioni. ⚠️ Il docente legge «1 miliardo 934 milioni» ([00:11:22]), mille volte tanto.
+**Opzione:** Revisione contabile 1.315, servizi di attestazione 400 e altri servizi 195 da EY S.p.A.; altri servizi 24 da EY Advisory S.p.A.; totale 1.934.
+**Distrattori:**
+- Revisione contabile 400, servizi di attestazione 1.315 e altri servizi 195 da EY S.p.A.; altri servizi 24 da EY Advisory S.p.A.; totale 1.934.
+- Revisione contabile 1.315, servizi di attestazione 400 e altri servizi 219, tutti da EY S.p.A.; totale 1.934.
+
+**D:** ⚠️ Chi sottopone a chi le proposte di deliberazione della nota integrativa di UnipolSai, e quali sono nell'ordine, secondo le slide 4–6 della lezione 46?
+**R:** «*Il Consiglio di Amministrazione sottopone all'Assemblea Ordinaria le seguenti proposte di deliberazione*» (slide 4), nel paragrafo «*Proposte di approvazione del bilancio, della destinazione dell'utile e relativi effetti sul patrimonio netto*». Sono tre: la **proposta di costituzione di una riserva in sospensione di imposta ex art.110 Decreto Legge n. 104/2020** (slide 4), la **proposta di approvazione del bilancio dell'esercizio 2021** (slide 5) e la **proposta di approvazione della destinazione dell'utile di esercizio** (slide 6). Seguono gli effetti sul patrimonio netto (slide 7–8). Per il docente sarà poi l'assemblea ordinaria a decidere se la proposta sarà approvata ([00:14:06]). ⚠️ Il vicino sostituisce il proponente con il Collegio Sindacale, che invece redige una relazione di cui l'assemblea prende atto (slide 5).
+**Opzione:** Il Consiglio di Amministrazione all'Assemblea Ordinaria: costituzione di una riserva in sospensione di imposta ex art. 110 DL 104/2020; approvazione del bilancio 2021; approvazione della destinazione dell'utile.
+**Distrattori:**
+- Il Collegio Sindacale all'Assemblea Ordinaria: costituzione di una riserva in sospensione di imposta ex art. 110 DL 104/2020; approvazione del bilancio 2021; approvazione della destinazione dell'utile.
+- Quiescenza ed obblighi simili; imposte differite; rischi fiscali; rischi e oneri futuri; oneri immobiliari; solidarietà ed esodo personale; erogazioni liberali; sanzioni IVASS.
+
+**D:** ⚠️ Per quale importo, ripartito come fra Danni e Vita, e attingendo a quale riserva UnipolSai propone di costituire la riserva in sospensione di imposta ex art. 110 del D.L. 104/2020, secondo la slide 4 della lezione 46?
+**R:** «*… delibera di approvare la costituzione di una riserva in sospensione di imposta ex art. 110 del Decreto Legge n. 104/2020, mediante apposizione di un **vincolo fiscale** per l'importo di Euro **332.545.574,59**, di cui Euro **278.801.134,35** attribuiti alla gestione **Danni** ed Euro **53.744.440,24** attribuiti alla gestione **Vita**, utilizzando quota parte della **riserva straordinaria di utili**, ridenominata "Riserva da riallineamento ex DL 104/2020".*» (slide 4). Nell'analisi del patrimonio netto la riserva da riallineamento vale 332.546 migliaia, fra le riserve di utili (slide 12; lezione 42). ⚠️ Il vicino scambia le quote di Danni e Vita.
+**Opzione:** 332.545.574,59 euro, di cui 278.801.134,35 Danni e 53.744.440,24 Vita, con un vincolo fiscale su quota parte della riserva straordinaria di utili, ridenominata Riserva da riallineamento ex DL 104/2020.
+**Distrattori:**
+- 332.545.574,59 euro, di cui 278.801.134,35 Vita e 53.744.440,24 Danni, con un vincolo fiscale su quota parte della riserva straordinaria di utili, ridenominata Riserva da riallineamento ex DL 104/2020.
+- Matematica del diretto e complementari 25.485.124; somme da pagare del diretto 269.519; riserve tecniche diverse 96.520; partecipazione agli utili e ristorni 5.525; matematica dell'indiretto 1.814; somme da pagare dell'indiretto 510.
+
+**D:** ⚠️ Per che cosa UnipolSai ha usato l'art. 110 del D.L. 104/2020, e a quanto deve ammontare la riserva in sospensione d'imposta, secondo il docente della lezione 46?
+**R:** Per il docente UnipolSai ha usato l'art. 110 del decreto legge 104 del 2020 «per **rivalutare** i propri attivi materiali e i propri **avviamenti** contabilizzati nello Stato patrimoniale». La legge prevede che in caso di rivalutazione «occorra costituire una apposita riserva in sospensione d'imposta pari al valore della rivalutazione, **diminuito** del costo fiscale della rivalutazione stessa, che normalmente è il **3%**». La costituzione della riserva va deliberata in sede di approvazione del bilancio ([00:12:04]–[00:13:11]). ⚠️ La slide 4 parla di «*Riserva da riallineamento*», e per la lezione 42 l'opzione ha consentito il riallineamento ai fini fiscali dei valori: il 3% e la rivalutazione sono del docente.
+**Opzione:** Per rivalutare attivi materiali e avviamenti; la riserva è pari al valore della rivalutazione diminuito del costo fiscale della rivalutazione stessa, normalmente il 3%.
+**Distrattori:**
+- Per rivalutare attivi materiali e avviamenti; la riserva è pari al valore della rivalutazione aumentato del costo fiscale della rivalutazione stessa, normalmente il 3%.
+- Principalmente negli altri oneri e nelle imposte sul reddito; quelli del fondo di solidarietà ed esodo del personale negli oneri straordinari.
+
+**D:** ⚠️ Quando il progetto di bilancio diventa bilancio d'esercizio, e che cosa cambia, secondo il docente della lezione 46?
+**R:** Con la **delibera dell'assemblea ordinaria**. La proposta è quella che il consiglio di amministrazione sottopone all'assemblea: «finché questa proposta non viene deliberata dall'assemblea ordinaria degli azionisti questo documento non diventa un bilancio ma rimane **progetto di bilancio**». Lo dicono le parole stesse: l'assemblea ha «esaminato il progetto di bilancio» e delibera «di approvare il bilancio di esercizio». Con la delibera il bilancio diventa «**intoccabile, immodificabile**, se non attraverso una nuova delibera»; prima è **modificabile** ([00:15:13]). ⚠️ Il vicino attribuisce il passaggio al consiglio di amministrazione, che invece propone.
+**Opzione:** Con la delibera dell'assemblea ordinaria: prima è un progetto modificabile, dopo è immodificabile se non attraverso una nuova delibera.
+**Distrattori:**
+- Con la delibera del consiglio di amministrazione: prima è un progetto modificabile, dopo è immodificabile se non attraverso una nuova delibera.
+- La velocità di liquidazione si mantiene su livelli elevati, anche se in calo; gli smontamenti positivi risultano minori rispetto allo scorso esercizio.
+
+**D:** ⚠️ Che cosa avviene se l'assemblea non approva il progetto di bilancio, secondo il docente della lezione 46?
+**R:** L'assemblea non scrive «di non approvare il bilancio d'esercizio», ma «di non approvare il **progetto** di bilancio di esercizio e di **rimandarlo al consiglio di amministrazione** perché vi apporti le seguenti modifiche», elencandole. A quel punto «sarebbe ripartito tutto il processo»: il consiglio rifà il progetto, lo risottopone al **collegio sindacale** e alla **società di revisione**, riallega gli allegati, rifà la **relazione sulla gestione** e riconvoca l'assemblea dei soci ([00:15:13]). ⚠️ Il vicino fa modificare il progetto direttamente all'assemblea.
+**Opzione:** Delibera di non approvare il progetto e lo rimanda al consiglio di amministrazione perché vi apporti le modifiche elencate; poi riparte tutto il processo, fino a una nuova assemblea.
+**Distrattori:**
+- Apporta essa stessa al progetto le modifiche elencate e approva il bilancio così modificato, senza rimandarlo al consiglio di amministrazione.
+- Le somme da pagare sono veri e propri debiti, già maturati e certi ma non ancora corrisposti a fine esercizio; la riserva matematica accantona ogni anno il progressivo obbligo della compagnia verso l'assicurato.
+
+**D:** ⚠️ Perché la proposta di destinazione dell'utile 2021 di UnipolSai non accantona nulla a riserva legale, secondo la slide 6 della lezione 46?
+**R:** Perché, come dice la proposta, «*la riserva legale esistente in bilancio al 31 dicembre 2021 e invariata alla data attuale ha già raggiunto il limite del **20% del capitale sociale***» (slide 6). Vale 406.291 migliaia su un capitale di 2.031.456 (slide 11–12). Per la lezione 11 si accantona il 5% degli utili finché la riserva non raggiunge il 20% del capitale. Nell'analisi del patrimonio netto la riserva legale è utilizzabile solo per copertura perdite (B) e non entra nella quota disponibile (slide 12). ⚠️ I vicini cambiano la base (l'utile) o la soglia (il 5%, che è la quota degli utili da accantonare).
+**Opzione:** Perché la riserva legale ha già raggiunto il limite del 20% del capitale sociale.
+**Distrattori:**
+- Perché la riserva legale ha già raggiunto il limite del 20% dell'utile d'esercizio.
+- Perché la riserva legale ha già raggiunto il limite del 5% del capitale sociale.
+
+**D:** ⚠️ Come propone UnipolSai di destinare l'utile d'esercizio 2021, secondo la slide 6 della lezione 46?
+**R:** «*… distribuzione a tutti gli Azionisti della Società di complessivi Euro **537.281.762,12**, di cui Euro 404.172.094,69 afferenti alla gestione Danni ed Euro 133.109.667,43 afferenti alla gestione Vita, e dunque distribuzione di un **dividendo unitario** … pari ad Euro **0,19** per ogni azione ordinaria avente diritto …; accantonamento dell'Utile di Esercizio residuo – pari a complessivi Euro **110.855.414,02**, alla **Riserva straordinaria** appostata nella voce "Altre Riserve" del patrimonio netto, di cui Euro 83.450.656,40 attribuita alla gestione Danni ed Euro 27.404.757,62 attribuita alla gestione Vita*», «*in conformità all'art. 27 dello Statuto sociale*» (slide 6). Le due quote fanno l'utile di 648.137.176,14. ⚠️ Il docente legge «333» per i 133 milioni della Vita ([00:18:43]), poi dice 133 ([00:20:15]). ⚠️ I 537.574 migliaia di dividendi distribuiti nel 2021 (slide 11 e 14) sono quelli sull'utile 2020 (lezione 42).
+**Opzione:** Dividendi per 537.281.762,12 euro, cioè 0,19 euro per azione ordinaria avente diritto, e il residuo di 110.855.414,02 euro a Riserva straordinaria, nelle Altre Riserve.
+**Distrattori:**
+- Dividendi per 110.855.414,02 euro, cioè 0,19 euro per azione ordinaria avente diritto, e il residuo di 537.281.762,12 euro a Riserva straordinaria, nelle Altre Riserve.
+- 51.803.314 migliaia, soprattutto titoli depositati presso terzi 44.229.569 e impegni 6.414.274.
+
+**D:** ⚠️ Che effetto ha sul dividendo una variazione del numero di azioni proprie in portafoglio al momento della distribuzione, secondo la proposta della slide 6 della lezione 46?
+**R:** «*… fatta peraltro avvertenza che l'eventuale variazione del numero di azioni proprie in portafoglio della Società al momento della distribuzione **non avrà incidenza sull'importo del dividendo unitario** come sopra stabilito, ma andrà ad **incremento o decremento dell'importo accantonato a Riserva straordinaria***» (slide 6). Alla data della proposta la Società detiene direttamente **1.918.624** azioni proprie, e il dividendo di 0,19 euro tiene conto «*della redistribuzione di spettanza delle azioni proprie*». ⚠️ Il vicino rovescia l'effetto.
+**Opzione:** Nessuna incidenza sul dividendo unitario: la variazione andrà ad incremento o decremento dell'importo accantonato a Riserva straordinaria.
+**Distrattori:**
+- Incide sul dividendo unitario, mentre l'importo accantonato a Riserva straordinaria resta invariato.
+- Nella voce G.VII dei debiti, per 38.570 migliaia; le variazioni sono nell'allegato 15.
+
+**D:** ⚠️ Quali date fissa la proposta di destinazione dell'utile 2021 per il dividendo, secondo la slide 6 della lezione 46?
+**R:** «*… di fissare nel giorno **25 maggio 2022** la data di inizio pagamento del dividendo (**stacco cedola** data **23 maggio 2022** e **record date** **24 maggio 2022**).*» (slide 6). Per il docente lo stacco cedola è l'individuazione delle cedole azionarie (il 23), la record date la registrazione (il 24), poi viene l'attribuzione (il 25) ([00:18:43]). ⚠️ I vicini permutano le tre date.
+**Opzione:** Stacco cedola 23 maggio 2022, record date 24 maggio 2022, inizio del pagamento del dividendo 25 maggio 2022.
+**Distrattori:**
+- Stacco cedola 24 maggio 2022, record date 23 maggio 2022, inizio del pagamento del dividendo 25 maggio 2022.
+- Stacco cedola 23 maggio 2022, record date 25 maggio 2022, inizio del pagamento del dividendo 24 maggio 2022.
+- Circa 950 euro dopo il primo anno, 1.980 dopo il secondo, 2.930 dopo il terzo; alla fine corrisponde all'importo da liquidare.
+
+**D:** ⚠️ Che cosa riportano i prospetti degli effetti sul patrimonio netto, secondo la slide 7 della lezione 46?
+**R:** «*Di seguito sono riportati, **separatamente per i rami Danni e Vita**, i prospetti relativi all'ammontare di ciascun elemento patrimoniale indicato nelle voci **da A.I a A.X** dello Stato Patrimoniale Passivo e Patrimonio netto aggiornato sulla base della **proposta di distribuzione dell'utile** risultante dal bilancio.*» (slide 7). Le colonne sono i saldi al 31 dicembre 2021, il riparto utile e distribuzione dividendi e i **saldi post delibera**, in migliaia di euro (slide 7–8). Per il docente le altre riserve aumentano e l'utile «viene azzerato perché viene ripartito» ([00:20:15]). ⚠️ Il vicino fonde i due rami in un unico prospetto.
+**Opzione:** Separatamente per i rami Danni e Vita, l'ammontare di ciascun elemento delle voci da A.I a A.X del patrimonio netto, aggiornato sulla base della proposta di distribuzione dell'utile.
+**Distrattori:**
+- In un unico prospetto per i rami Danni e Vita, l'ammontare di ciascun elemento delle voci da A.I a A.X del patrimonio netto, aggiornato sulla base della proposta di distribuzione dell'utile.
+- Interamente ad accantonamenti per spese future di gestione: 96.520 migliaia, contro 97.224 nel 2020; il ramo I ne ha 79.026.
+
+**D:** ⚠️ Come cambia il patrimonio netto Danni di UnipolSai con la delibera sull'utile 2021, secondo la slide 7 della lezione 46?
+**R:** Dai saldi al 31 dicembre 2021 ai saldi post delibera, in migliaia di euro: l'utile dell'esercizio (IX) di **487.623** si azzera; **83.451** vanno alle **altre riserve** (VII), che salgono da 1.611.774 a 1.695.225, e **404.172** alla **distribuzione dei dividendi**. Il totale scende da **4.178.080** a **3.773.908**; le altre voci restano invariate (slide 7). Il docente: «83 milioni con destinazione ad altre riserve e per 404 milioni come distribuzione» ([00:20:15]). ⚠️ Un vicino scambia le due quote, l'altro riporta le cifre del prospetto Vita.
+**Opzione:** L'utile di 487.623 si azzera: 83.451 vanno alle altre riserve e 404.172 ai dividendi; il totale scende da 4.178.080 a 3.773.908.
+**Distrattori:**
+- L'utile di 487.623 si azzera: 404.172 vanno alle altre riserve e 83.451 ai dividendi; il totale scende da 4.178.080 a 3.773.908.
+- L'utile di 160.514 si azzera: 27.405 vanno alle altre riserve e 133.110 ai dividendi; il totale scende da 2.383.830 a 2.250.720.
+
+**D:** ⚠️ Come cambia il patrimonio netto Vita di UnipolSai con la delibera sull'utile 2021, secondo la slide 8 della lezione 46?
+**R:** In migliaia di euro: l'utile dell'esercizio (IX) di **160.514** si azzera; **27.405** vanno alle **altre riserve** (VII), che salgono da 1.360.416 a 1.387.821, e **133.110** alla **distribuzione dei dividendi**. Il totale scende da **2.383.830** a **2.250.720** (slide 8). Il docente: dei 160 milioni di competenza, «133 milioni utilizzati per la distribuzione» dei dividendi «e 27 per l'aumento delle riserve» ([00:20:15]–[00:21:26]). ⚠️ Un vicino scambia le due quote, l'altro riporta le cifre del prospetto Danni.
+**Opzione:** L'utile di 160.514 si azzera: 27.405 vanno alle altre riserve e 133.110 ai dividendi; il totale scende da 2.383.830 a 2.250.720.
+**Distrattori:**
+- L'utile di 160.514 si azzera: 133.110 vanno alle altre riserve e 27.405 ai dividendi; il totale scende da 2.383.830 a 2.250.720.
+- L'utile di 487.623 si azzera: 83.451 vanno alle altre riserve e 404.172 ai dividendi; il totale scende da 4.178.080 a 3.773.908.
+
+**D:** ⚠️ Quali voci del patrimonio netto sono valorizzate nel prospetto dei rami Danni e vuote in quello dei rami Vita, secondo le slide 7–8 della lezione 46?
+**R:** Le **riserve di rivalutazione** (III, 96.559), le **riserve per azioni della controllante** (VI, 309) e la **riserva negativa per azioni proprie in portafoglio** (X, −289): nel prospetto Vita sono vuote. In entrambi ci sono capitale sociale (1.528.514 Danni, 502.943 Vita), riserva da sovrapprezzo di emissione, riserva legale (305.703 e 100.589), altre riserve e utile; riserve statutarie e utili portati a nuovo sono vuote in entrambi (slide 7–8). ⚠️ La riserva legale è in tutti e due i prospetti, le riserve statutarie in nessuno.
+**Opzione:** Le riserve di rivalutazione, le riserve per azioni della controllante e la riserva negativa per azioni proprie in portafoglio.
+**Distrattori:**
+- Le riserve di rivalutazione, la riserva legale e la riserva negativa per azioni proprie in portafoglio.
+- Le riserve di rivalutazione, le riserve per azioni della controllante e le riserve statutarie.
+
+**D:** ⚠️ Quale dei due prospetti riclassificati della nota integrativa di UnipolSai distingue i rami Vita e Danni, secondo il docente della lezione 46?
+**R:** Il **rendiconto economico riclassificato**, con le colonne Vita, Danni e Totale per il 2021 e il 2020 (slide 10). Il **prospetto di riclassificazione dello stato patrimoniale** al 31 dicembre 2021 e 2020 è invece «solo diviso in attivo e passivo»: è «una modalità di riclassificazione che **non tiene conto della distinzione fra ramo danni e ramo vita**», «una modalità di riaggregazione dei valori per favorire una più semplice lettura», fatta dalla compagnia «in voci più significative dal punto di vista analitico» (slide 9; [00:21:26]). Anche il conto economico riclassificato è «semplicemente un'aggregazione delle voci che trovate già nel conto economico» ([00:21:26]). ⚠️ Il vicino inverte i due prospetti.
+**Opzione:** Il rendiconto economico riclassificato, con colonne Vita, Danni e Totale; la riclassificazione dello stato patrimoniale non distingue i due rami.
+**Distrattori:**
+- La riclassificazione dello stato patrimoniale, con colonne Vita, Danni e Totale; il rendiconto economico riclassificato non distingue i due rami.
+- Unit linked e index linked.
+
+**D:** ⚠️ Quanto valgono nel 2021 il risultato del conto tecnico e il risultato dell'attività ordinaria nel rendiconto economico riclassificato di UnipolSai, secondo la slide 10 della lezione 46?
+**R:** Il **risultato del conto tecnico** è **745.906** migliaia (Vita 155.630, Danni 590.276), la gestione «strettamente tecnica, assicurativa» per il docente ([00:23:49]). Il **risultato dell'attività ordinaria** è **744.503** (slide 10): si ottiene dal conto tecnico aggiungendo le voci del conto non tecnico, redditi degli investimenti 232.479 e altri proventi 122.834, e togliendo gli altri oneri 356.717, che insieme fanno −1.404. ⚠️ Il docente presenta i 744 milioni come il risultato del conto non tecnico, «un'attività prevalentemente di natura finanziaria» ([00:24:24]): sono invece il risultato cumulato, ed è la trappola del vicino. Poi proventi straordinari 145.139 e oneri straordinari 10.813 danno 878.830 prima delle imposte; con imposte per 230.693 il risultato netto è 648.137.
+**Opzione:** Conto tecnico 745.906 migliaia; attività ordinaria 744.503, cioè il conto tecnico più le voci del conto non tecnico, che insieme fanno −1.404.
+**Distrattori:**
+- Conto tecnico 745.906 migliaia; conto non tecnico 744.503, il risultato della sola attività finanziaria, che si aggiunge al conto tecnico.
+- L'incendio, con 45.500 su 88.896 migliaia del lavoro diretto; con 293 di lavoro indiretto il totale è 89.189.
+
+**D:** ⚠️ Quanto valgono nel 2021 i redditi netti degli investimenti del conto tecnico, e quale ramo ne ha la parte maggiore, secondo la slide 10 della lezione 46?
+**R:** **1.228.371** migliaia, di cui **918.521** nei rami **Vita** e **309.849** nei rami **Danni** (slide 10). Per il docente il risultato lordo del lavoro diretto, 882.670, è il risultato della gestione tecnico-assicurativa «oltre alla gestione degli investimenti **prevalentemente ramo vita**, come possiamo vedere» ([00:23:33]). Legge anche i premi contabilizzati, «oltre 9 miliardi» (9.590.882), la variazione delle riserve tecniche, «quasi 900 milioni» (868.772), gli oneri relativi ai sinistri, «quasi 7 miliardi» (6.793.534), e le spese di gestione, «2 miliardi» (2.156.084) ([00:22:49]). ⚠️ Un vicino inverte i due rami, l'altro dà il risultato lordo del lavoro diretto, prevalentemente Danni.
+**Opzione:** 1.228.371 migliaia, di cui 918.521 nei rami Vita e 309.849 nei rami Danni: prevalentemente ramo vita.
+**Distrattori:**
+- 1.228.371 migliaia, di cui 309.849 nei rami Vita e 918.521 nei rami Danni: prevalentemente ramo danni.
+- 882.670 migliaia, di cui 158.598 nei rami Vita e 724.071 nei rami Danni: prevalentemente ramo danni.
+
+**D:** ⚠️ Che cosa significa la sola lettera B attribuita alla riserva legale nell'analisi del patrimonio netto ai sensi dell'art. 2427, numero 7 bis, c.c., secondo il docente della lezione 46?
+**R:** Per il docente le lettere indicano la **possibilità di utilizzazione** delle riserve: «A, B e C vuol dire che lo posso utilizzare sia per copertura perdite sia per distribuzione sia per aumento di altre riserve», mentre «B vuol dire solo che lo posso utilizzare **solo per copertura perdite**» ([00:24:46]). Nella slide 12 la sola B ha la riserva legale (406.291), che non entra nella quota disponibile; la riserva per azioni della società controllante (309) ha un trattino e nemmeno lei entra nella quota disponibile; le altre riserve hanno A, B, C. ⚠️ La slide non riporta la legenda delle lettere: il vicino attribuisce alla B la distribuzione.
+**Opzione:** Che la riserva legale si può utilizzare solo per copertura perdite, e quindi non entra nella quota disponibile.
+**Distrattori:**
+- Che la riserva legale si può utilizzare solo per distribuzione ai soci, e quindi entra per intero nella quota disponibile.
+- Solo in nota integrativa.
+
+**D:** ⚠️ Quanto valgono il totale, la quota disponibile e la residua quota distribuibile nell'analisi del patrimonio netto di UnipolSai, secondo la slide 12 della lezione 46?
+**R:** Capitale e riserve fanno **5.913.773** migliaia: capitale 2.031.456, riserve di capitale 1.605.448 e riserve di utili 2.276.868; l'utile 2021 non è nel prospetto. La **quota disponibile** è **3.409.152**; tolta la **quota non distribuibile** di **78.272**, la **residua quota distribuibile** è **3.330.881** (slide 12). ⚠️ I due subtotali della quota disponibile, 1.605.139 e 1.870.577, fanno 3.475.716: la differenza dal totale stampato, 66.564, è pari alle due riserve negative per azioni proprie (66.275 + 289). La quota non distribuibile coincide con gli oneri di acquisizione in corso di ammortamento della slide 9. ⚠️ Il vicino mette come totale il patrimonio netto con l'utile, 6.561.910.
+**Opzione:** Totale 5.913.773 migliaia; quota disponibile 3.409.152; tolta la quota non distribuibile di 78.272, residua quota distribuibile 3.330.881.
+**Distrattori:**
+- Totale 6.561.910 migliaia; quota disponibile 3.409.152; tolta la quota non distribuibile di 78.272, residua quota distribuibile 3.330.881.
+- 111.506 migliaia, sia per partite in contenzioso sia per perdite stimate su indennità di portafoglio da assegnare.
+
+**D:** ⚠️ Come si sono mosse le disponibilità di cassa di UnipolSai nel 2020 e nel 2021, secondo il rendiconto finanziario della lezione 46?
+**R:** I conti bancari attivi e le disponibilità di cassa passano da **393.270** migliaia a inizio 2020 a **436.631** a fine 2020 (+43.361) e tornano a **396.354** a fine 2021 (−40.277) (slide 14). Per il docente nel 2020 «vi è stato prima una **generazione** di cassa» e nel 2021 «un **assorbimento** di cassa», spiegati dalle fonti, cioè la liquidità generata dalla gestione, e dagli impieghi, cioè investimenti, aumenti di depositi, altri impieghi e dividendi distribuiti ([00:26:41]). Nel 2021 il totale impieghi, 2.389.726, supera il totale fonti, 2.349.450. ⚠️ Il vicino inverte generazione e assorbimento.
+**Opzione:** Da 393.270 migliaia a inizio 2020 a 436.631 a fine 2020, generazione di cassa; poi a 396.354 a fine 2021, assorbimento di cassa.
+**Distrattori:**
+- Da 393.270 migliaia a inizio 2020 a 436.631 a fine 2020, assorbimento di cassa; poi a 396.354 a fine 2021, generazione di cassa.
+- Corte d'Appello di Bologna (2015), Corte di Cassazione (2018), poi ricorso alla CEDU (2019) per il ne bis in idem.
+
+**D:** ⚠️ Quali voci compongono gli impieghi di liquidità di UnipolSai nel 2021, secondo la slide 14 della lezione 46?
+**R:** **Investimenti** 1.566.540 (incremento investimenti in azioni e quote 1.199.419, riprese di valore su obbligazioni 16.816 e su partecipazioni 34.555, incremento investimenti classe D 315.750); **aumento depositi presso enti creditizi** 97.982; **altri impieghi di liquidità** 187.630; **dividendi distribuiti** 537.574: **totale impieghi 2.389.726** (slide 14). La diminuzione di cassa di 40.277 porta il totale a 2.349.450, pari al totale fonti (slide 13). ⚠️ I dividendi distribuiti nel 2021 sono quelli sull'utile 2020 (lezione 42). Il vicino li sostituisce con i dividendi prescritti, che sono una delle altre fonti di finanziamento (6).
+**Opzione:** Investimenti 1.566.540; aumento depositi presso enti creditizi 97.982; altri impieghi di liquidità 187.630; dividendi distribuiti 537.574; totale 2.389.726.
+**Distrattori:**
+- Investimenti 1.566.540; aumento depositi presso enti creditizi 97.982; altri impieghi di liquidità 187.630; dividendi prescritti 537.574; totale 2.389.726.
+- 4.188 migliaia per due cross currency swap e 7.558 per i premi incassati su due opzioni call su indici azionari.
+
+## Lezione 47 — La relazione del Collegio sindacale
+
+**D:** ⚠️ Dove deve essere riportata l'attività del collegio sindacale svolta nell'esercizio, secondo il test della lezione 47 (domanda 1)?
+**R:** **Nella relazione del Collegio Sindacale**: «*In ottemperanza a quanto previsto dall'art. 153 del D. Lgs. 24 febbraio 1998, n. 58 (il "Testo Unico della Finanza" o il "TUF"), il Collegio Sindacale riferisce pertanto in merito all'attività di vigilanza svolta*», e il primo paragrafo della relazione è «*Attività del Collegio Sindacale nel corso dell'esercizio chiuso al 31 dicembre 2021*» (slide 2). Per il docente il collegio «nell'ambito della relazione deve dare conto delle attività e degli esiti della propria attività di vigilanza e di riscontro» ([00:14:26]). ⚠️ Il vicino è «nella delibera di approvazione del bilancio»: la proposta di delibera si limita a prendere atto della relazione del Collegio Sindacale (lezione 46, slide 5). La relazione sulla gestione è il documento degli amministratori, sul cui contenuto il collegio vigila (slide 13); la nota integrativa fa parte del bilancio, la relazione del collegio è un allegato ([00:02:53]). Distrattori del test: «nella relazione sulla gestione», «in nota integrativa», «nella delibera di approvazione del bilancio».
+**Opzione:** Nella relazione del Collegio Sindacale.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- In nota integrativa.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove deve essere riportata la verifica delle operazioni di maggior rilievo economico, secondo il test della lezione 47 (domanda 2)?
+**R:** **Nella relazione del Collegio Sindacale**, nel paragrafo «*Operazioni di maggior rilievo economico, finanziario e patrimoniale. Altri eventi meritevoli di richiamo*»: il collegio dà atto di aver «*vigilato sull'osservanza della legge e dello statuto sociale, nonché sul rispetto dei principi di corretta amministrazione, con particolare riferimento alle operazioni rilevanti sotto il profilo economico, finanziario e patrimoniale*» e di aver ottenuto dagli amministratori informazioni «*sulle operazioni di maggior rilievo economico, finanziario e patrimoniale*» (slide 3); le elenca poi nei «*Principali eventi di rilievo*» (slide 5–6). ⚠️ Il vicino è «nella relazione sulla gestione»: «*Maggiori informazioni in relazione alle suddette operazioni e ad ulteriori eventi sono riportate nella Relazione sulla Gestione e nella Nota Integrativa*» (slide 6). Lì stanno le informazioni sulle operazioni, nella relazione del collegio la verifica. Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** Nella relazione del Collegio Sindacale.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove deve essere riportata la verifica delle operazioni avvenute dopo la chiusura dell'esercizio, secondo il test della lezione 47 (domanda 3)?
+**R:** **Nella relazione del Collegio Sindacale**, nel paragrafo «*Principali eventi di rilievo avvenuti dopo la chiusura dell'esercizio*»: «*Con riferimento ai fatti di rilievo avvenuti dopo la chiusura dell'esercizio, il Collegio ritiene di dare menzione, in particolare, di quanto segue*»: il conflitto Russia-Ucraina, la risoluzione dell'accordo con Intesa Sanpaolo (10 febbraio 2022) e il rimborso anticipato del finanziamento di 300 milioni erogato da UnipolSai a Unipol con scadenza 2024 (1° marzo 2022) (slide 7). ⚠️ Il vicino è «nella relazione sulla gestione», che tratta anch'essa gli effetti del conflitto: «*come rappresentato nella Relazione sulla Gestione, la situazione di incertezza e i timori per gli impatti che possono derivare dallo scontro bellico stanno producendo tensioni sui mercati finanziari*» (slide 4). La nota integrativa dice invece che dopo la chiusura «*non si sono verificati eventi di rilievo che possano incidere sulle risultanze del bilancio*» (lezione 39, slide 20). Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** Nella relazione del Collegio Sindacale.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Dove deve essere riportata la verifica dei procedimenti contenziosi in corso, secondo il test della lezione 47 (domanda 4)?
+**R:** **Nella relazione del Collegio Sindacale**, nel paragrafo «*Procedimenti contenziosi*»: «*Con riferimento ai contenziosi che hanno interessato la Società nel corso dell'esercizio 2021, il Collegio Sindacale è stato informato ed aggiornato in relazione ai procedimenti sanzionatori e giudiziari in corso, descritti nella Nota Integrativa del Bilancio al 31 dicembre 2021, a cui si fa rinvio*» (slide 8). Il docente: «vengono inoltre analizzati con molta attenzione i procedimenti contenziosi» ([00:17:59]). ⚠️ La descrizione dei contenziosi sta nella **nota integrativa** (lezione 43, slide 8–16; test 44, domanda 1), che fra le opzioni manca: nella relazione del collegio c'è la verifica. Il vicino è «nella relazione sulla gestione», l'altro documento a cui la relazione del collegio rinvia per gli eventi dell'esercizio (slide 4 e 6), ma non per i contenziosi. Distrattori del test: «nella relazione sulla gestione», «nella delibera di approvazione del bilancio», «nella relazione del revisore».
+**Opzione:** Nella relazione del Collegio Sindacale.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella delibera di approvazione del bilancio.
+- Nella relazione del revisore.
+
+**D:** ⚠️ Dove deve essere riportata la verifica del sistema amministrativo contabile e del processo di informativa finanziaria, secondo il test della lezione 47 (domanda 5)?
+**R:** **Nella relazione del Collegio Sindacale**, nel paragrafo «*Sistema amministrativo contabile e processo di informativa finanziaria*» (slide 13): il collegio ha esaminato la Relazione 262 e ha vigilato, mediante incontri con il Dirigente Preposto e con la Società di Revisione, «*sul processo di formazione e diffusione dell'informativa finanziaria*»; aveva già vigilato «*sull'adeguatezza del sistema di controllo interno e di gestione dei rischi, e del sistema amministrativo-contabile, nonché sull'affidabilità di quest'ultimo a rappresentare correttamente i fatti di gestione*» (slide 12). Per il docente è «l'altro controllo principale» del collegio, con il dirigente preposto come principale controparte ([00:17:59]). ⚠️ Il vicino è «nella relazione del revisore»: dalla Relazione Aggiuntiva di EY «*non sono emerse carenze significative sul sistema di controllo interno per l'informativa finanziaria e/o su quello contabile*» (slide 13), e il docente assegna il controllo contabile alla società di revisione ([00:00:23]); ma la verifica del sistema la riporta il collegio. Il modello di controllo è descritto nella **Relazione di Governance**, che non è la relazione sulla gestione. Distrattori del test: «nella relazione sulla gestione», «nella relazione del revisore», «nella delibera di approvazione del bilancio».
+**Opzione:** Nella relazione del Collegio Sindacale.
+**Distrattori:**
+- Nella relazione sulla gestione.
+- Nella relazione del revisore.
+- Nella delibera di approvazione del bilancio.
+
+**D:** ⚠️ Che cos'è la relazione del collegio sindacale rispetto al bilancio di esercizio, secondo il docente della lezione 47?
+**R:** «La relazione è un documento **allegato al bilancio**, quindi **non è parte del bilancio**, non è un documento che costituisce il bilancio di esercizio, ma è un allegato al bilancio ed è un **allegato obbligatorio**»: il collegio deve redigerla «così come previsto dalle disposizioni del Codice Civile» ([00:02:53]). Si apre con l'indicazione dei destinatari, i soci: «*Signori Azionisti*» (slide 2; [00:06:29]). ⚠️ Per la lezione 02 (slide 12) la relazione degli amministratori è un «semplice allegato, al pari della **eventuale** relazione del collegio sindacale e del soggetto incaricato del controllo contabile»: «eventuale» come il collegio «se presente» delle lezioni 07 (slide 7) e 08 (slide 5).
+**Opzione:** Un allegato obbligatorio al bilancio: non è parte del bilancio né un documento che lo costituisce.
+**Distrattori:**
+- Uno dei documenti che costituiscono il bilancio di esercizio, obbligatorio come la nota integrativa.
+- È un prospetto obbligatorio, previsto anche nella nota integrativa ai sensi dell'art. 2427 c.c. per le imprese che redigono il bilancio ordinario.
+
+**D:** ⚠️ Con quale anticipo rispetto all'Assemblea il Consiglio di amministrazione deposita il progetto di bilancio e il collegio sindacale la propria relazione, secondo il docente della lezione 47?
+**R:** Il Consiglio di amministrazione, coadiuvato dagli organi e dalle funzioni aziendali, predispone il progetto di bilancio e lo deposita presso la sede legale «almeno **30 giorni** prima rispetto a quello fissato per l'assemblea» ([00:04:07]). «Contestualmente il progetto di bilancio viene consegnato anche al collegio sindacale», che deposita la propria relazione «almeno **15 giorni** prima, presso la sede sociale, rispetto al giorno fissato per la convocazione dell'Assemblea» ([00:04:28]; anche [00:02:53]). Le slide non danno i termini.
+**Opzione:** Il progetto di bilancio almeno 30 giorni prima, la relazione del collegio almeno 15 giorni prima.
+**Distrattori:**
+- Il progetto di bilancio almeno 15 giorni prima, la relazione del collegio almeno 30 giorni prima.
+- Il progetto di bilancio e la relazione del collegio entrambi almeno 30 giorni prima.
+
+**D:** ⚠️ Perché il collegio sindacale può impostare la propria relazione prima di ricevere il progetto di bilancio, e che cosa gli serve per perfezionarla, secondo il docente della lezione 47?
+**R:** Il collegio «non deve necessariamente attendere di ricevere il progetto di bilancio per poter iniziare a stendere la propria relazione», perché la relazione comprende «degli aspetti che prescindono dal contenuto strettamente numerico e informativo del progetto di bilancio» e che «attengono al comportamento e alle scelte e alle modalità di svolgimento della gestione da parte del Consiglio di amministrazione» ([00:05:06]). Ma per essere perfezionata e pronta per il deposito «occorrerà previamente ricevere il testo, il progetto di bilancio senza il quale la relazione non può essere definitivamente perfezionata» ([00:05:59]).
+**Opzione:** Perché una parte della relazione prescinde dal bilancio e riguarda le scelte e le modalità di gestione del Consiglio di amministrazione; per perfezionarla serve il progetto di bilancio.
+**Distrattori:**
+- Perché una parte della relazione prescinde dal bilancio e riguarda le scelte e le modalità di gestione del Consiglio di amministrazione; per perfezionarla serve la delibera di approvazione dell'Assemblea.
+- Più il patrimonio netto è grande, minore è la quota trasferita al conto tecnico; più è piccolo rispetto alle riserve tecniche, maggiore è la quota.
+
+**D:** ⚠️ Perché i membri del collegio sindacale devono essere indipendenti dal Consiglio di amministrazione, e che cosa lo esclude, secondo il docente della lezione 47?
+**R:** I membri del collegio «devono avere la caratteristica dell'**indipendenza**, cioè devono essere terzi rispetto al consiglio di amministrazione»: «non vi possono essere **parentele**, non vi possono essere **rapporti di interesse**, non vi possono essere **rapporti di lavoro dipendente o professionale**», perché il collegio, organo di controllo, svolge la propria attività «proprio sull'operato del Consiglio di amministrazione»; con dipendenze dirette o indirette non avrebbe «quella serenità e equanimità di giudizio» per una valutazione oggettiva ([00:06:29]). L'indipendenza dei componenti va verificata ogni anno ([00:23:36]; slide 15).
+**Opzione:** Perché controllano l'operato del Consiglio di amministrazione: non vi possono essere parentele, rapporti di interesse, rapporti di lavoro dipendente o professionale.
+**Distrattori:**
+- Perché controllano l'operato del Consiglio di amministrazione: non vi possono essere parentele né rapporti di lavoro dipendente, mentre sono ammessi i rapporti di interesse e quelli professionali.
+- I ristorni sono tipici delle cooperative, come le mutue assicuratrici: il riconoscimento di una parte dell'utile ai soci cooperatori; le partecipazioni agli utili sono per le altre società.
+
+**D:** ⚠️ A chi è assegnato, nelle società di assicurazione, il controllo contabile distinto dal controllo del collegio sindacale, secondo il docente della lezione 47?
+**R:** «Nell'ambito delle società di assicurazione in particolare è distinta dal controllo del collegio sindacale il **controllo di natura contabile** che invece è assegnato a una **società di revisione o a un revisore**. Normalmente tuttavia il revisore unico non ha le capacità né le risorse umane economiche e di skills professionali per poter da solo organizzare il controllo contabile. Pertanto il controllo contabile viene assegnato a una società di revisione» ([00:00:23]). Il collegio opera «*anche quale Comitato per il Controllo Interno e la Revisione Contabile*» (slide 2), ma per il docente «solo come controllo interno, non come incaricato della revisione» ([00:06:29]). Per UnipolSai la revisione legale è affidata a EY per il novennio 2021-2029 (slide 9).
+**Opzione:** A una società di revisione o a un revisore; ma il revisore unico normalmente non ha le risorse per organizzarlo da solo, quindi lo si assegna a una società di revisione.
+**Distrattori:**
+- Al collegio sindacale stesso, che lo svolge quale Comitato per il Controllo Interno e la Revisione Contabile, come incaricato della revisione.
+- I contratti assicurativi che la compagnia ha ceduto a terzi riassicuratori; negli altri oneri tecnici (2.354 migliaia) comprende prevalentemente la stima dei premi di reintegro, 1.604.
+
+**D:** ⚠️ Com'è la partecipazione dei membri del collegio sindacale alle riunioni del Consiglio di amministrazione, secondo il docente della lezione 47, e a quante riunioni del Consiglio ha partecipato il collegio di UnipolSai nel 2021?
+**R:** «È **obbligatoria** la partecipazione dei membri del collegio sindacale alle riunioni del Consiglio di Amministrazione» ([00:09:10]). Nel 2021 il collegio di UnipolSai ha tenuto **20** riunioni, «*incluse quelle svolte dal precedente Organo di Controllo*», di durata media di circa un'ora e quaranta minuti, e ha partecipato alle **8** riunioni del Consiglio di Amministrazione, alle **10** del Comitato Controllo e Rischi, alle **6** del Comitato Parti Correlate e alle **4** del Comitato per la Remunerazione. Dei lavori del Comitato Nomine e Corporate Governance (**5** riunioni) è stato informato, e dal secondo semestre 2021 vi è invitato a partecipare il Presidente del Collegio Sindacale (slide 2).
+**Opzione:** Obbligatoria; nel 2021 il collegio ha partecipato alle 8 riunioni del Consiglio di Amministrazione.
+**Distrattori:**
+- Facoltativa; nel 2021 il collegio ha partecipato alle 8 riunioni del Consiglio di Amministrazione.
+- Obbligatoria; nel 2021 il collegio ha partecipato alle 10 riunioni del Consiglio di Amministrazione.
+- Solo su invito; nel 2021 il collegio ha partecipato alle 8 riunioni del Consiglio di Amministrazione.
+
+**D:** ⚠️ Ai sensi di quale norma è predisposta la relazione del collegio sindacale di UnipolSai, e in quale veste il collegio ha svolto le sue attività, secondo la slide 2 della lezione 47?
+**R:** La relazione è «*predisposta ai sensi dell'art. 153 del D.Lgs. n. 58/1998*», il **TUF**: «*In ottemperanza a quanto previsto dall'art. 153 … il Collegio Sindacale riferisce pertanto in merito all'attività di vigilanza svolta*». Il collegio ha svolto le attività di propria competenza «*anche quale Comitato per il Controllo Interno e la Revisione Contabile*», tenuto conto delle Norme di comportamento del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, delle comunicazioni della CONSOB (DEM/1025564 del 6 aprile 2001) e del Codice di Corporate Governance (slide 2). Per il docente la relazione è prevista dal Codice Civile ([00:02:53]), e il collegio è comitato per la revisione contabile «solo come controllo interno, non come incaricato della revisione» ([00:06:29]). ⚠️ L'art. **154-bis** del TUF è quello delle attestazioni del Dirigente Preposto (slide 13); il **Comitato Controllo e Rischi** è un comitato endoconsiliare, alle cui riunioni il collegio partecipa (slide 2).
+**Opzione:** Ai sensi dell'art. 153 del TUF, D.Lgs. 58/1998; il collegio ha operato anche quale Comitato per il Controllo Interno e la Revisione Contabile.
+**Distrattori:**
+- Ai sensi dell'art. 154-bis del TUF, D.Lgs. 58/1998; il collegio ha operato anche quale Comitato per il Controllo Interno e la Revisione Contabile.
+- Ai sensi dell'art. 153 del TUF, D.Lgs. 58/1998; il collegio ha operato anche quale Comitato Controllo e Rischi.
+
+**D:** ⚠️ Quali funzioni la relazione del collegio sindacale di UnipolSai chiama «Funzioni di Controllo» e quali «Funzioni Fondamentali», secondo la slide 3 della lezione 47?
+**R:** Il collegio ha incontrato «*il **Chief Risk Officer** e i Titolari rispettivamente dell'**Audit**, della **Funzione Compliance and Anti-Money Laundering** (congiuntamente le "Funzioni di Controllo"), e della **Funzione Attuariale** (congiuntamente alle Funzioni di Controllo, le "Funzioni Fondamentali")*», poi il Dirigente Preposto, l'Organismo di Vigilanza del D.Lgs. 231/2001 e la società di revisione EY (slide 3). ⚠️ Il docente conta «queste 3-4 funzioni», separando compliance e antiriciclaggio, e poi mette funzione attuariale e dirigente preposto fra «tutte queste funzioni che vanno sotto il nome di funzioni di controllo o funzioni fondamentali» ([00:11:42]). Nella slide il dirigente preposto non è una funzione fondamentale, e le due espressioni non sono sinonimi.
+**Opzione:** Funzioni di Controllo: Chief Risk Officer, Audit, Compliance and Anti-Money Laundering; Funzioni Fondamentali: le Funzioni di Controllo più la Funzione Attuariale.
+**Distrattori:**
+- Funzioni di Controllo: Audit, Compliance and Anti-Money Laundering, Funzione Attuariale; Funzioni Fondamentali: le Funzioni di Controllo più il Chief Risk Officer.
+- Danni: i principali sono premi, numero delle polizze e risarcimenti pagati; Vita: parametri quali pagamenti, teste assicurate e provvigioni pagate.
+
+**D:** ⚠️ Che cosa verificano l'audit, la funzione di compliance e la funzione antiriciclaggio, secondo il docente della lezione 47?
+**R:** L'**audit** è la funzione di controllo interno, in una struttura «semi-indipendente» rispetto al Consiglio di amministrazione e alle linee operative, e «ha il compito di verificare il **rispetto delle procedure interne** aziendali» ([00:10:01]–[00:11:42]). «La funzione di **compliance** ha la funzione di verificare la **rispondenza delle procedure alla legge**, mentre l'**anti-money laundering** ha la funzione di verificare che le procedure e le modalità svolgimento delle attività aziendali rispettino la **normativa antiriciclaggio**» ([00:11:42]). Il **Chief Risk Officer** è «il responsabile della gestione dei rischi», decisivo in una compagnia che gestisce professionalmente rischi propri e degli assicurati: conoscerli serve a valutarne la capacità di essere solvibile ([00:10:01]). Nella slide 3 sono le «*Funzioni di Controllo*».
+**Opzione:** L'audit il rispetto delle procedure interne; la compliance la rispondenza delle procedure alla legge; l'antiriciclaggio il rispetto della normativa antiriciclaggio.
+**Distrattori:**
+- L'audit la rispondenza delle procedure alla legge; la compliance il rispetto delle procedure interne; l'antiriciclaggio il rispetto della normativa antiriciclaggio.
+- 230.693 migliaia: 217.954 di imposte correnti IRES e IRAP e 12.738 di saldo netto della fiscalità anticipata e differita passiva.
+
+**D:** ⚠️ Chi è il dirigente preposto, e perché è la principale controparte del collegio sindacale sul sistema amministrativo contabile, secondo il docente della lezione 47?
+**R:** È «il dirigente che ha la responsabilità di **elaborare il bilancio dal punto di vista tecnico contabile**», che diventa il progetto di bilancio sottoposto al Consiglio di amministrazione e poi all'assemblea ([00:11:42]). Sul sistema amministrativo contabile e sull'informativa finanziaria «la principale controparte del collegio sindacale è il dirigente preposto»: ha «la carica, la responsabilità e la collocazione all'interno dell'organizzazione aziendale appunto di predisporre il bilancio aziendale e di riferirne ovviamente al collegio sindacale e al consiglio di amministrazione che poi recepisce con propria delibera» ([00:17:59]–[00:22:15]). Nella slide 3 è il «*Dirigente preposto alla redazione dei documenti contabili societari*»; con il Presidente del Consiglio di Amministrazione sottoscrive le attestazioni dell'art. 154-bis del TUF (slide 13).
+**Opzione:** Il dirigente responsabile di elaborare il bilancio dal punto di vista tecnico contabile: lo predispone e ne riferisce al collegio sindacale e al Consiglio di amministrazione, che lo recepisce con propria delibera.
+**Distrattori:**
+- Il dirigente responsabile della gestione dei rischi della compagnia: li individua e ne riferisce al collegio sindacale e al Consiglio di amministrazione, che ne recepisce le politiche con propria delibera.
+- Meccanismi elettronici posti sulle autovetture che registrano lo stile di guida: se l'automobilista è prudente, si riconosce uno sconto sul rinnovo del premio R.C. Auto.
+
+**D:** ⚠️ Quale verifica è per il docente della lezione 47 il «core business» del collegio sindacale?
+**R:** «Vengono inoltre particolarmente assoggettate a verifica e a controllo il **sistema di controllo interno e la gestione dei rischi**, con particolare riferimento al **sistema amministrativo contabile e al processo di informazione finanziaria**, che sostanzialmente è il core […] business del collegio sindacale, cioè l'**attività prevalente** del collegio sindacale» ([00:17:59]; il transcript spezza «core interno. business»). Il sistema conta soprattutto in una compagnia di assicurazioni, che gestisce rischi «non solo interni ma anche assunti in relazione all'emissione di polizze». Nella relazione è il paragrafo «*Sistema di controllo interno e di gestione dei rischi, sistema amministrativo contabile e processo di informativa finanziaria*» (slide 10–13). ⚠️ La regolare tenuta della contabilità e la corretta rilevazione dei fatti di gestione sono invece le verifiche della società di revisione (slide 17).
+**Opzione:** La verifica del sistema di controllo interno e di gestione dei rischi, con particolare riferimento al sistema amministrativo contabile e al processo di informativa finanziaria.
+**Distrattori:**
+- La verifica della revisione legale dei conti, con particolare riferimento alla regolare tenuta della contabilità sociale e alla corretta rilevazione dei fatti di gestione nelle scritture contabili.
+- Per dare al conto tecnico Danni un'impostazione strettamente tecnico-assicurativa, con i soli costi e ricavi tecnici, senza sporcarlo con componenti di natura finanziaria.
+
+**D:** ⚠️ Che cosa sono le parti correlate, secondo il docente della lezione 47?
+**R:** «Le parti correlate sono quelle parti che hanno **rapporti diretti o indiretti di affari di parentela** o in qualche modo **di correlazione con gli amministratori**» ([00:09:10]). Il collegio ha partecipato alle **6** riunioni del Comitato per le operazioni con parti correlate (slide 2) e ha vigilato che le operazioni con parti correlate rispondessero «*a criteri di correttezza sostanziale e procedurale*» e non fossero «*in contrasto con l'interesse della Società*», secondo il Regolamento Consob del 12 marzo 2010 e la Procedura OPC (slide 8). ⚠️ L'assenza di rapporti con gli amministratori è invece il requisito d'indipendenza dei sindaci ([00:06:29]).
+**Opzione:** Le parti che hanno rapporti diretti o indiretti di affari, di parentela o in qualche modo di correlazione con gli amministratori.
+**Distrattori:**
+- Le parti che non hanno rapporti diretti o indiretti di affari, di parentela o di lavoro con gli amministratori, e possono quindi controllarne l'operato.
+- Tutti gli altri tipi di responsabilità civile esclusa la R.C. Auto: per esempio i danni da familiari, minorenni o animali e la responsabilità professionale, come il danno del medico al paziente.
+
+**D:** ⚠️ Che cosa sono i modelli di organizzazione e gestione del D.Lgs. 231/2001, secondo il docente della lezione 47, e che cosa ne dice la relazione del collegio sindacale?
+**R:** Sono «i cosiddetti **modelli interni** finalizzati alla **impossibilità di commettere reati senza la violazione del modello** di organizzazione, gestione e controllo» ([00:23:36]). Nella relazione il collegio prende atto dell'inserimento di **ulteriori fattispecie di reato** nel D.Lgs. 231/2001 e dell'avvio delle analisi per l'eventuale adeguamento del Modello, predisposto ai sensi dell'**art. 6, comma 1, lettera a)** (slide 16), e si confronta con l'**Organismo di Vigilanza** (art. 6, comma 1, lettera b), slide 3), dalla cui informativa «*non sono emersi fatti e/o circostanze meritevoli di essere segnalati*» (slide 17). ⚠️ Da non confondere con il **Modello Interno Parziale**, con cui UnipolSai calcola i requisiti patrimoniali di solvibilità, autorizzata dall'IVASS dal 31 dicembre 2016 (slide 16).
+**Opzione:** Modelli interni finalizzati a rendere impossibile commettere reati senza violare il modello di organizzazione, gestione e controllo.
+**Distrattori:**
+- Modelli interni con cui si calcolano i requisiti patrimoniali di solvibilità, al cui utilizzo la compagnia è autorizzata dall'IVASS.
+- Il lavoro diretto è quello delle polizze emesse agli assicurati e l'indiretto è il lavoro fatto con altre compagnie di assicurazione.
+- È negativa per 5.730 migliaia, per il minor accantonamento dell'esercizio rispetto a quello effettuato nell'esercizio precedente.
+
+**D:** ⚠️ Con quale formula il collegio sindacale di UnipolSai giudica le attività e operazioni deliberate e poste in essere, secondo la slide 3 della lezione 47?
+**R:** «*Sulla base delle informazioni rese disponibili, il Collegio Sindacale è giunto a ritenere ragionevolmente che le attività e operazioni deliberate e poste in essere sono da considerarsi **conformi alla legge, allo statuto sociale e ai principi di corretta amministrazione** e **non appaiono manifestamente imprudenti, o azzardate, né in contrasto con le delibere assunte dall'Assemblea, o tali da compromettere l'integrità del patrimonio sociale***» (slide 3). Inoltre «*le operazioni in potenziale conflitto di interessi sono state deliberate in conformità alla legge, ai regolamenti ed ai codici di comportamento adottati*». Per il docente il collegio deve dare conto delle conclusioni sulla vigilanza «sull'osservanza della legge dello statuto sociale nonché sui principi di corretta amministrazione» ([00:14:26]). ⚠️ I principi contabili internazionali sono quelli del bilancio consolidato (slide 19), non un criterio di giudizio delle operazioni.
+**Opzione:** Ragionevolmente conformi alla legge, allo statuto sociale e ai principi di corretta amministrazione; non appaiono manifestamente imprudenti, o azzardate, né in contrasto con le delibere assunte dall'Assemblea, o tali da compromettere l'integrità del patrimonio sociale.
+**Distrattori:**
+- Ragionevolmente conformi alla legge, allo statuto sociale e ai principi contabili internazionali; non appaiono manifestamente imprudenti, o azzardate, né in contrasto con le delibere assunte dall'Assemblea, o tali da compromettere l'integrità del patrimonio sociale.
+- Sostanzialmente per volumi scaduti a fine 2020 e pagati nei primi mesi del 2021, riconducibili anche a contratti emessi a fine 2000, ultimo anno con beneficio di detraibilità fiscale su tutte le polizze vita.
+
+**D:** ⚠️ Che cosa ha verificato il collegio sindacale di UnipolSai sull'esposizione della Società al conflitto Russia-Ucraina, secondo la slide 4 della lezione 47?
+**R:** «*A tale proposito l'Organo di Controllo ha verificato che la Società **non svolge attività economiche rilevanti** nell'area interessata dal conflitto; **non detiene, se non in misura del tutto marginale**, investimenti finanziari in titoli di emittenti russi o ucraini, e **non è parte contrattuale in transazioni economiche rilevanti** con soggetti o entità colpite da sanzioni internazionali.*» (slide 4; ripetuto nella slide 7). Il collegio monitora gli effetti del conflitto «*anche in conformità al richiamo di attenzione emanato dalla CONSOB in data 18 marzo 2022*» (slide 4). Per il docente il collegio ha esaminato le previsioni assunte per la guerra e per le sanzioni applicate alla Russia: con il Covid, due normative specifiche, «una di natura sanitaria e una di natura sanzionatoria» ([00:15:33]).
+**Opzione:** Che la Società non svolge attività economiche rilevanti nell'area interessata dal conflitto; non detiene, se non in misura del tutto marginale, investimenti finanziari in titoli di emittenti russi o ucraini, e non è parte contrattuale in transazioni economiche rilevanti con soggetti o entità colpite da sanzioni internazionali.
+**Distrattori:**
+- Che la Società non svolge attività economiche rilevanti nell'area interessata dal conflitto; non detiene alcun investimento finanziario in titoli di emittenti russi o ucraini, e non è parte contrattuale in transazioni economiche rilevanti con soggetti o entità colpite da sanzioni internazionali.
+- In particolare per i rami di Responsabilità Civile (RCA e RCG), sono stati utilizzati, in gran parte, per rivalutare le pratiche ancora a riserva.
+
+**D:** ⚠️ Quali sono i principali eventi di rilievo dell'esercizio 2021 che il collegio sindacale di UnipolSai ritiene di evidenziare, secondo le slide 5–6 della lezione 47?
+**R:** «*Con riferimento ai principali eventi e alle operazioni di maggior rilievo economico, finanziario e patrimoniale effettuate dalla Società nel corso dell'esercizio 2021, il Collegio Sindacale ritiene di evidenziare quanto segue*»: «*Accordo transattivo inerente alle azioni sociali di responsabilità nei confronti di alcuni ex amministratori ed ex sindaci*» (provento complessivo di 42 milioni, di cui 29,7 di pertinenza di UnipolSai); «*Rimborso anticipato dei prestiti subordinati con scadenza 2021 e 2023*» (300 e 262 milioni nominali); «*Esercizio dell'opzione di riallineamento fiscale (D.L. n. 104/2020)*»; «*Acquisto Azioni Banca Popolare di Sondrio S.p.A.*» (circa il 9,51% del capitale); «*Perfezionamento della cessione di Torre Velasca*» (160 milioni, plusvalenza di circa 80,1 milioni); «*Versamento in conto capitale a Gruppo UNA S.p.A.*» (40 milioni) (slide 5–6). «*Maggiori informazioni in relazione alle suddette operazioni e ad ulteriori eventi sono riportate nella Relazione sulla Gestione e nella Nota Integrativa*» (slide 6). ⚠️ La risoluzione dell'accordo con Intesa Sanpaolo e il rimborso anticipato del finanziamento a Unipol con scadenza 2024 sono eventi successivi alla chiusura (slide 7).
+**Opzione:** Accordo transattivo inerente alle azioni sociali di responsabilità nei confronti di alcuni ex amministratori ed ex sindaci; rimborso anticipato dei prestiti subordinati con scadenza 2021 e 2023; esercizio dell'opzione di riallineamento fiscale (D.L. n. 104/2020); acquisto azioni Banca Popolare di Sondrio S.p.A.; perfezionamento della cessione di Torre Velasca; versamento in conto capitale a Gruppo UNA S.p.A.
+**Distrattori:**
+- Accordo transattivo inerente alle azioni sociali di responsabilità nei confronti di alcuni ex amministratori ed ex sindaci; rimborso anticipato dei prestiti subordinati con scadenza 2021 e 2023; esercizio dell'opzione di riallineamento fiscale (D.L. n. 104/2020); acquisto azioni Banca Popolare di Sondrio S.p.A.; perfezionamento della cessione di Torre Velasca; risoluzione dell'accordo con Intesa Sanpaolo S.p.A.
+- Capitali e rendite maturate 915.379; riscatti e anticipazioni 1.671.265, la voce maggiore; sinistri 243.687; spese di liquidazione 4.623; lavoro indiretto 817.
+- Vita 155.630 (−9.926 nel 2020), Danni 590.276 (936.095); risultato netto 648.137, contro 814.307.
+
+**D:** ⚠️ Quali fatti di rilievo avvenuti dopo la chiusura dell'esercizio menziona il collegio sindacale di UnipolSai, secondo la slide 7 della lezione 47?
+**R:** «*Con riferimento ai fatti di rilievo avvenuti dopo la chiusura dell'esercizio, il Collegio ritiene di dare menzione, **in particolare**, di quanto segue*»: «*Conflitto Russia-Ucraina attualmente in corso*»; «*Risoluzione dell'accordo con Intesa Sanpaolo S.p.A.*», perfezionata il 10 febbraio 2022, sull'acquisizione di rami d'azienda di compagnie partecipate da UBI Banca, per la valutazione condivisa fra le parti che l'operazione non fosse più conveniente; «*Rimborso anticipato del finanziamento erogato da UnipolSai a Unipol con scadenza 2024*», 300 milioni rimborsati da Unipol il 1° marzo 2022 (slide 7). ⚠️ «In particolare»: l'elenco è aperto. Il rimborso anticipato dei **prestiti subordinati** con scadenza 2021 e 2023 è invece un evento del 2021 (slide 5). È il paragrafo della domanda 3 del test.
+**Opzione:** In particolare: il conflitto Russia-Ucraina attualmente in corso; la risoluzione dell'accordo con Intesa Sanpaolo S.p.A.; il rimborso anticipato del finanziamento erogato da UnipolSai a Unipol con scadenza 2024.
+**Distrattori:**
+- In particolare: il conflitto Russia-Ucraina attualmente in corso; la risoluzione dell'accordo con Intesa Sanpaolo S.p.A.; il rimborso anticipato dei prestiti subordinati con scadenza 2021 e 2023.
+- Annullamenti di premi degli esercizi precedenti 84.729 migliaia, costi per scatole nere 44.518, diritti di gestione della stanza CARD 7.316.
+
+**D:** ⚠️ Che cosa ha accertato infine il collegio sindacale di UnipolSai sulle operazioni infragruppo e con parti correlate, secondo la slide 9 della lezione 47?
+**R:** «*È stata infine accertata l'**assenza di operazioni infragruppo e/o con parti correlate atipiche o inusuali** che possano suscitare dubbi in merito alla correttezza ed alla completezza dell'informazione, ai conflitti d'interesse ed alla salvaguardia del patrimonio aziendale.*» (slide 9). Prima: le operazioni con parti correlate rispondono «*a criteri di correttezza sostanziale e procedurale*» e non sono «*in contrasto con l'interesse della Società*» (slide 8: Regolamento Consob delibera n. 17221 del 12 marzo 2010, Procedura OPC); le operazioni infragruppo sono conformi alla Politica Infragruppo (Regolamento IVASS n. 30 del 26 ottobre 2016) e «*regolate a condizioni di mercato*» (slide 9). Per il docente le operazioni atipiche o inusuali vengono analizzate «con molta attenzione» ([00:17:59]).
+**Opzione:** L'assenza di operazioni infragruppo e/o con parti correlate atipiche o inusuali che possano suscitare dubbi in merito alla correttezza ed alla completezza dell'informazione, ai conflitti d'interesse ed alla salvaguardia del patrimonio aziendale.
+**Distrattori:**
+- La presenza di operazioni infragruppo e/o con parti correlate atipiche o inusuali, nessuna delle quali suscita dubbi in merito alla correttezza ed alla completezza dell'informazione, ai conflitti d'interesse ed alla salvaguardia del patrimonio aziendale.
+- Principalmente management fee per 36.890 migliaia, annullamenti di premi degli esercizi precedenti per 7.784 e commissioni su investimenti relativi a polizze Unit-Linked e fondi pensione per 1.389.
+
+**D:** ⚠️ Perché UnipolSai si qualifica come «società grande» e «a proprietà concentrata» ai sensi del Codice di Corporate Governance, secondo la slide 9 della lezione 47?
+**R:** «*in conformità alle disposizioni contenute nel Codice di Corporate Governance UnipolSai si qualifica come "**società grande**", avendo avuto una **capitalizzazione superiore ad Euro 1 miliardo l'ultimo giorno di mercato aperto di ciascuno dei tre anni solari precedenti**, e "**a proprietà concentrata**", in quanto **Unipol dispone della maggioranza dei voti esercitabili nell'Assemblea ordinaria degli Azionisti***» (slide 9). Il docente riporta solo la prima qualifica, con la capitalizzazione superiore a un miliardo «così come risultante dall'ultimo giorno di mercato» ([00:17:59]). Nella stessa slide UnipolSai è soggetta a direzione e coordinamento della Capogruppo Unipol (artt. 2497 e seguenti c.c.), adotta il modello di governo societario «rafforzato» (Regolamento IVASS n. 38 del 3 luglio 2018) e il sistema di amministrazione e controllo «tradizionale».
+**Opzione:** Grande, per una capitalizzazione superiore a 1 miliardo di euro l'ultimo giorno di mercato aperto di ciascuno dei tre anni solari precedenti; a proprietà concentrata, perché Unipol dispone della maggioranza dei voti esercitabili nell'Assemblea ordinaria.
+**Distrattori:**
+- Grande, per una capitalizzazione superiore a 1 miliardo di euro l'ultimo giorno di mercato aperto dell'anno solare precedente; a proprietà concentrata, perché Unipol dispone della maggioranza dei voti esercitabili nell'Assemblea ordinaria.
+- Danni 3.775 migliaia, quasi interamente partecipazioni agli utili tecnici; Vita 13 migliaia, interamente ristorni.
+
+**D:** ⚠️ Come definisce il sistema di controllo interno e di gestione dei rischi la relazione del collegio sindacale di UnipolSai, secondo la slide 10 della lezione 47?
+**R:** «*Il sistema di controllo interno e di gestione dei rischi è un **elemento fondamentale del complessivo sistema di governo societario**; esso è costituito dall'**insieme delle regole, delle procedure e delle strutture organizzative** dirette a una effettiva ed efficace **identificazione, misurazione, gestione e monitoraggio** dei principali rischi, **al fine di contribuire al successo sostenibile delle imprese***» (slide 10). Il docente lo ripete senza il fine del successo sostenibile e lo chiama «risk management, cioè identificazione, misurazione, gestione e monitoraggio dei rischi» ([00:17:59]).
+**Opzione:** L'insieme delle regole, delle procedure e delle strutture organizzative dirette a una effettiva ed efficace identificazione, misurazione, gestione e monitoraggio dei principali rischi, al fine di contribuire al successo sostenibile delle imprese.
+**Distrattori:**
+- L'insieme delle regole, delle procedure e delle strutture organizzative dirette a una effettiva ed efficace identificazione, misurazione, gestione e mitigazione dei principali rischi, al fine di contribuire al successo sostenibile delle imprese.
+- La ripartizione per settori nella Relazione sulla Gestione; le informazioni di sintesi, lavoro italiano e lavoro estero, nell'allegato 19.
+
+**D:** ⚠️ Con particolare riferimento a quali attività illecite il sistema di controllo interno e di gestione dei rischi mira a prevenire il coinvolgimento della Società, secondo la slide 11 della lezione 47?
+**R:** Fra gli obiettivi il sistema mira ad assicurare «*la prevenzione del rischio che la Società sia coinvolta, **anche involontariamente**, in attività illecite, con particolare riferimento a quelle connesse con il **riciclaggio, l'usura e il finanziamento al terrorismo***» (slide 11). Gli altri obiettivi sono l'efficacia e l'efficienza dei processi aziendali, il controllo dei rischi, la gestione dei conflitti d'interesse con parti correlate e controparti infragruppo, l'attuazione delle strategie, la salvaguardia del patrimonio, l'affidabilità delle informazioni, il reporting e la conformità alle norme. Il collegio verifica anche gli adempimenti antiriciclaggio del **D.Lgs. 21 novembre 2007 n. 231** (slide 15).
+**Opzione:** Il riciclaggio, l'usura e il finanziamento al terrorismo.
+**Distrattori:**
+- Il riciclaggio, la corruzione e il finanziamento al terrorismo.
+- Il riciclaggio, l'usura e l'evasione fiscale.
+
+**D:** ⚠️ Su che cosa ha costantemente vigilato il collegio sindacale di UnipolSai mediante le informazioni dei responsabili delle funzioni, l'esame dei documenti aziendali e l'analisi dei lavori della società di revisione, secondo la slide 12 della lezione 47?
+**R:** «*In tale contesto il Collegio Sindacale ha costantemente vigilato – mediante (i) le informazioni ottenute dai responsabili delle rispettive funzioni, (ii) l'esame dei documenti aziendali, (iii) l'analisi dei piani di lavoro e dei risultati delle attività svolte dalla società incaricata della revisione legale, nonché dagli organi e dalle funzioni preposti al controllo interno – **sull'adeguatezza del sistema di controllo interno e di gestione dei rischi, e del sistema amministrativo-contabile, nonché sull'affidabilità di quest'ultimo a rappresentare correttamente i fatti di gestione***» (slide 12). ⚠️ La «*regolare tenuta della contabilità sociale*» e la «*corretta rilevazione dei fatti di gestione nelle scritture contabili*» sono invece le verifiche della Società di Revisione, di cui il collegio è informato (slide 17).
+**Opzione:** Sull'adeguatezza del sistema di controllo interno e di gestione dei rischi, e del sistema amministrativo-contabile, nonché sull'affidabilità di quest'ultimo a rappresentare correttamente i fatti di gestione.
+**Distrattori:**
+- Sull'adeguatezza del sistema di controllo interno e di gestione dei rischi, nonché sulla regolare tenuta della contabilità sociale e sulla corretta rilevazione dei fatti di gestione nelle scritture contabili.
+- 191.208 migliaia (2,00%): riserva iniziale 9.557.944 meno pagamenti per sinistri di esercizi precedenti 2.367.548 meno riserva finale 6.999.188.
+
+**D:** ⚠️ Chi predispone la Relazione Aggiuntiva, ai sensi di quale norma, e che cosa ne è emerso per UnipolSai 2021, secondo la slide 13 della lezione 47?
+**R:** «*In particolare, dalla Relazione aggiuntiva (la "Relazione Aggiuntiva") predisposta da **EY** ai sensi dell'**art. 11 del Regolamento (UE) n. 537/2014** del Parlamento Europeo e del Consiglio … **non sono emerse carenze significative sul sistema di controllo interno per l'informativa finanziaria e/o su quello contabile***» (slide 13). Il collegio, quale Comitato per il Controllo Interno e la Revisione Contabile, la trasmette all'organo amministrativo «*corredata da eventuali osservazioni*» (art. 19 del D.Lgs. 39/2010) e l'ha esaminata senza evidenze meritevoli di segnalazione (slide 17). ⚠️ Le attestazioni dell'**art. 154-bis del TUF** le sottoscrivono invece il Presidente del Consiglio di Amministrazione, all'uopo delegato, e il **Dirigente Preposto**, a esito delle verifiche descritte nella Relazione 262 (slide 13).
+**Opzione:** La Società di Revisione EY, ai sensi dell'art. 11 del Regolamento (UE) n. 537/2014: non sono emerse carenze significative sul sistema di controllo interno per l'informativa finanziaria e/o su quello contabile.
+**Distrattori:**
+- Il Dirigente Preposto, ai sensi dell'art. 11 del Regolamento (UE) n. 537/2014: non sono emerse carenze significative sul sistema di controllo interno per l'informativa finanziaria e/o su quello contabile.
+- Nell'allegato 20 le informazioni di sintesi su premi e saldo di riassicurazione; nell'allegato 21 il dettaglio dei proventi da investimenti.
+
+**D:** ⚠️ Quale giudizio sulla Relazione sulla Gestione riporta la Società di Revisione, ai sensi dell'art. 14 del D.Lgs. 39/2010, e quale il collegio sindacale, secondo la slide 13 della lezione 47?
+**R:** «*Il Collegio ha inoltre vigilato, per quanto di competenza, sull'osservanza delle norme di legge nel processo di formazione del Bilancio di esercizio e sul contenuto della Relazione sulla Gestione, **che si ritiene esaustiva**. Tenuto conto che – ai sensi dell'art. 14 del Decreto Legislativo 27 gennaio 2010, n. 39 … – la Società di Revisione riporta, tra l'altro, nella propria relazione un **giudizio sulla coerenza della Relazione sulla Gestione con il Bilancio di esercizio e sulla sua conformità alle norme di legge**, il Collegio Sindacale ha verificato che dalla relazione emessa da EY non emergono rilievi in proposito.*» (slide 13). Per il consolidato il giudizio di coerenza discende anche dall'art. 41 del D.Lgs. 127/1991 (slide 18).
+**Opzione:** Il revisore un giudizio sulla coerenza della Relazione sulla Gestione con il Bilancio di esercizio e sulla sua conformità alle norme di legge; il collegio la ritiene esaustiva.
+**Distrattori:**
+- Il revisore la ritiene esaustiva; il collegio esprime un giudizio sulla coerenza della Relazione sulla Gestione con il Bilancio di esercizio e sulla sua conformità alle norme di legge.
+- Dal conto non tecnico al conto tecnico Danni 309.849 migliaia (156.260 nel 2020); dal conto tecnico Vita al conto non tecnico 94.632 (83.814).
+
+**D:** ⚠️ Perché UnipolSai non è soggetta all'obbligo di comunicazione di informazioni di carattere non finanziario del D.Lgs. 254/2016, secondo la slide 14 della lezione 47?
+**R:** «*il Collegio Sindacale ha verificato che UnipolSai non è soggetta a tale obbligo rientrando nei **casi di esonero e di equivalenza previsti dall'art. 6, comma 2**, in quanto **società figlia ricompresa nella Dichiarazione consolidata di carattere non finanziario redatta dalla Capogruppo Unipol***» (slide 14). Il D.Lgs. 30 dicembre 2016 n. 254 riguarda la comunicazione di informazioni di carattere non finanziario e sulla diversità «*da parte di talune imprese e di taluni gruppi di grandi dimensioni*». Per il docente queste informazioni «assumeranno sempre di più rilevanza con i prossimi esercizi», e per ora l'onere «ricade sulla capogruppo Unipol» ([00:22:57]).
+**Opzione:** Perché rientra nei casi di esonero e di equivalenza dell'art. 6, comma 2: è una società figlia ricompresa nella Dichiarazione consolidata di carattere non finanziario redatta dalla Capogruppo Unipol.
+**Distrattori:**
+- Perché rientra nei casi di esonero e di equivalenza dell'art. 6, comma 2: le informazioni di carattere non finanziario sono ricomprese nella sua Relazione sulla Gestione.
+- Nelle rettifiche di valore sugli investimenti (voce III.5.b): 34.249 di quote di ammortamento e 3.666 di svalutazioni, in tutto 37.916.
+
+**D:** ⚠️ Quali tematiche ha affrontato l'autovalutazione del collegio sindacale di UnipolSai sulla propria composizione e sul proprio funzionamento, secondo la slide 14 della lezione 47?
+**R:** Nei primi mesi del 2022, in linea con la **Norma Q.1.1** di comportamento del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili, il collegio ha effettuato l'autovalutazione con il supporto dello stesso consulente esterno usato dal Consiglio di Amministrazione per la **Board Performance Evaluation**, e ne ha esaminato i risultati nella riunione del **1° marzo 2022**. «*Le tematiche affrontate hanno riguardato: **dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; ruolo del Presidente; dinamiche interne al Collegio***». Il risultato è «*un quadro complessivo di sintesi positivo*» (slide 14). ⚠️ L'indipendenza dei componenti è accertata a parte (slide 15).
+**Opzione:** Dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; ruolo del Presidente; dinamiche interne al Collegio.
+**Distrattori:**
+- Dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; ruolo del Presidente; indipendenza dei componenti.
+- Dimensione e composizione; organizzazione e funzionamento; poteri ed attribuzioni; rapporti con il revisore; dinamiche interne al Collegio.
+
+**D:** ⚠️ Quale decreto n. 231 disciplina l'antiriciclaggio e quale il modello di organizzazione, gestione e controllo, nella relazione del collegio sindacale della lezione 47?
+**R:** L'**antiriciclaggio** e il contrasto al finanziamento del terrorismo: «*Decreto Legislativo del **21 novembre 2007 n. 231** e successive modifiche*», con la disciplina regolamentare dell'IVASS; il collegio ne verifica il rispetto anche tramite gli incontri con il Responsabile del Presidio Antiriciclaggio (slide 15). Il **modello di organizzazione, gestione e controllo** e l'**Organismo di Vigilanza**: «*Decreto Legislativo **8 giugno 2001 n. 231***», art. 6, comma 1, lettere a) e b) (slide 3, 16). ⚠️ Stesso numero, testi diversi.
+**Opzione:** L'antiriciclaggio il D.Lgs. 21 novembre 2007 n. 231; il modello di organizzazione, gestione e controllo il D.Lgs. 8 giugno 2001 n. 231.
+**Distrattori:**
+- L'antiriciclaggio il D.Lgs. 8 giugno 2001 n. 231; il modello di organizzazione, gestione e controllo il D.Lgs. 21 novembre 2007 n. 231.
+- Entrambi il D.Lgs. 8 giugno 2001 n. 231, che disciplina anche l'Organismo di Vigilanza.
+
+**D:** ⚠️ Che cosa ha fatto il collegio sindacale di UnipolSai sulle proposte di ulteriori incarichi di consulenza a EY Advisory, società del network del revisore, secondo la slide 18 della lezione 47?
+**R:** Ha esaminato le proposte «*verificando sia la compatibilità di detti incarichi con i divieti di cui al predetto **art. 5 del Regolamento (UE) n. 537/2014**, sia l'assenza di potenziali rischi per l'indipendenza del revisore*». «*Ad esito delle istruttorie il Collegio Sindacale ha ritenuto che gli incarichi esaminati non rappresentassero un rischio per l'indipendenza della Società di Revisione e **ha approvato il conferimento** degli stessi a EY Advisory. I corrispettivi concordati per le prestazioni in argomento sono riportati in dettaglio nella **Nota Integrativa**, alla quale si rinvia.*» (slide 18). È il compito, fissato dall'art. 19 del D.Lgs. 39/2010, di «*verificare e monitorare l'indipendenza del revisore legale*», in particolare per i servizi diversi dalla revisione (slide 17).
+**Opzione:** Ne ha verificato la compatibilità con i divieti dell'art. 5 del Regolamento (UE) n. 537/2014 e l'assenza di potenziali rischi per l'indipendenza del revisore, e ne ha approvato il conferimento.
+**Distrattori:**
+- Ne ha verificato la compatibilità con i divieti dell'art. 5 del Regolamento (UE) n. 537/2014 e l'assenza di potenziali rischi per l'indipendenza del revisore, e ne ha rimesso l'approvazione al Consiglio di Amministrazione.
+- Fra gli altri proventi tecnici, nel lavoro indiretto, per 3.690 migliaia; fra gli altri oneri tecnici, nel lavoro ceduto, per 1.604.
+
+**D:** ⚠️ Quali denunce ed esposti sono pervenuti al collegio sindacale di UnipolSai nel 2021, secondo la slide 19 della lezione 47?
+**R:** «*Nel corso dell'esercizio 2021 **non sono pervenuti** al Collegio Sindacale **denunce ai sensi dell'art. 2408 del codice civile né esposti da parte di terzi**. Nel corso dell'attività di vigilanza … non sono state rilevate omissioni e/o fatti censurabili e/o irregolarità o comunque fatti significativi tali da richiedere la menzione nella presente Relazione.*» (slide 19). Il docente: «non sono stati ricevuti nel corso dell'esercizio denunce o esposti da parte di soci o di terzi» ([00:23:36]). ⚠️ La denuncia ai sensi dell'art. 2408 di **Amber Capital** al collegio sindacale di Fondiaria-SAI risale al 17 ottobre 2011 (lezione 43, slide 10).
+**Opzione:** Nessuna: né denunce ai sensi dell'art. 2408 del codice civile né esposti da parte di terzi.
+**Distrattori:**
+- Una denuncia ai sensi dell'art. 2408 del codice civile da parte di Amber Capital, nessun esposto da parte di terzi.
+- Nessuna denuncia ai sensi dell'art. 2408 del codice civile, ma alcuni esposti da parte di terzi.
+
+**D:** ⚠️ Ai sensi di quali norme UnipolSai redige il Bilancio Consolidato, e secondo quali principi, secondo la slide 19 della lezione 47?
+**R:** Il collegio rileva che UnipolSai, «*emittente strumenti finanziari quotati su mercati regolamentati, nonché impresa assicurativa, redige ai sensi dell'**art. 154-ter del TUF** e del **Regolamento IVASS n. 7 del 13 luglio 2007** e successive modifiche … il Bilancio Consolidato*», approvato dal Consiglio di Amministrazione il **24 marzo 2022**. È «*conforme ai principi contabili internazionali **IAS/IFRS** emanati dallo IASB ed omologati dall'Unione Europea*», con le interpretazioni dell'IFRIC, secondo il Regolamento comunitario n. 1606/2002; lo schema segue il Titolo III del Regolamento IVASS 7/2007 (slide 19). Il docente: UnipolSai, «pur non essendo una capogruppo», ha sotto di sé società controllate e quindi deve redigere il consolidato ([00:26:35]). ⚠️ Il bilancio d'esercizio segue invece il Regolamento ISVAP n. 22 del 4 aprile 2008 (lezione 39, slide 20).
+**Opzione:** Ai sensi dell'art. 154-ter del TUF e del Regolamento IVASS n. 7 del 13 luglio 2007, secondo i principi contabili internazionali IAS/IFRS.
+**Distrattori:**
+- Ai sensi dell'art. 154-ter del TUF e del Regolamento ISVAP n. 22 del 4 aprile 2008, secondo i principi contabili internazionali IAS/IFRS.
+- Ai sensi dell'art. 154-ter del TUF e del Regolamento IVASS n. 7 del 13 luglio 2007, secondo i principi contabili nazionali dell'OIC.
