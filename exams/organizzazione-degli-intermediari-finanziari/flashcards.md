@@ -575,3 +575,276 @@
 - Nuove tecnologie e nuovi regolamenti interni capaci di evolvere e rinnovarsi (superamento della rigidità della burocrazia tradizionale).
 - Efficienza, specializzazione, precisione, flessibilità, disintermediazione, aspazialità, atemporalità, innovazione costante.
 - Liberare le risorse da impiegare in attività a maggior valore.
+
+## Lezione 03 — Nuove competenze per nuove organizzazioni
+
+**D:** ⚠️ Come cambia la catena del valore nel contesto di Bancatech, secondo la lezione 03?
+**R:** «Si amplifica e si estende ad Aree di **Fintech**»; «È **al di fuori della dimensione spaziale** (le componenti della catena potrebbero essere fisicamente collocate ovunque e operare ubiquitariamente)»; «**Comprime la dimensione temporale** (esalta l'istantaneità dell'azione attraverso la trasformazione di procedure ripetitive in software)»; «Il modello di coordinamento principale avviene attraverso il **protocollo informatico**»: **raccolta**, **elaborazione**, **conservazione**, **gestione dei dati e delle informazioni** (slide 2, che scrive «avviane»). Per la docente è l'**aspazialità** già vista, e i dati diventano cruciali per definire, sviluppare, rivedere e valutare il servizio bancario e finanziario ([00:00:22]–[00:01:56]).
+**Opzione:** Si amplifica e si estende ad aree di Fintech; è al di fuori della dimensione spaziale; comprime la dimensione temporale; il modello di coordinamento principale avviene attraverso il protocollo informatico (raccolta, elaborazione, conservazione, gestione dei dati e delle informazioni).
+**Distrattori:**
+- Si amplifica e si estende ad aree di Fintech; è al di fuori della dimensione spaziale; dilata la dimensione temporale; il modello di coordinamento principale avviene attraverso il protocollo informatico (raccolta, elaborazione, conservazione, gestione dei dati e delle informazioni).
+- 1) Evoluzione dell'organizzazione verso forme affidabili, adattive e facilmente accessibili, come la piattaforma; 2) riconfigurazione delle competenze necessarie per sostenere la trasformazione del business.
+- Ricercare le competenze sul mercato; coltivare la formazione continua; aumentare la motivazione dei collaboratori; creare le condizioni favorevoli all'innovazione; sostenere lo sviluppo di una cultura organizzativa adeguata.
+
+**D:** ⚠️ Che cosa significa che la catena del valore di Bancatech «comprime la dimensione temporale», secondo la lezione 03?
+**R:** «Esalta l'**istantaneità dell'azione** attraverso la **trasformazione di procedure ripetitive in software**» (slide 2). Per la docente esalta «l'istantaneità, la rapidità dell'azione», perché alcune procedure ripetitive passano a macchine e strumenti digitali ([00:00:49]). ⚠️ Non va confusa con la dimensione **spaziale**, da cui la catena è «al di fuori»: le sue componenti «potrebbero essere fisicamente collocate ovunque e operare ubiquitariamente».
+**Opzione:** Esalta l'istantaneità dell'azione attraverso la trasformazione di procedure ripetitive in software.
+**Distrattori:**
+- Le componenti della catena potrebbero essere fisicamente collocate ovunque e operare ubiquitariamente.
+- Le persone, investendo nelle competenze sociali ed emotive per rendere proficue le competenze tecnologiche.
+- Sono la condizione necessaria per il funzionamento adeguato delle hard skills.
+
+**D:** ⚠️ Come distingue la lezione 03 le competenze dagli skills?
+**R:** Sono «concetti strettamente connessi tra di loro»: «1. **Competenze** come **responsabilità e autonomie**; 2. **Skills** come **declinazione operativa** delle competenze» (slide 3). Per la docente le competenze sono «delle responsabilità, delle autonomie che possono essere performate dalle persone, dai dipendenti», mentre gli skills sono «una declinazione più operativa delle competenze» ([00:02:40]–[00:02:53]).
+**Opzione:** Competenze come responsabilità e autonomie; skills come declinazione operativa delle competenze.
+**Distrattori:**
+- Skills come responsabilità e autonomie; competenze come declinazione operativa degli skills.
+- 1) Richiede tempo; 2) necessita di una dotazione adeguata delle soft skills.
+- L'employability di una risorsa umana, in una prospettiva di flessibilità occupazionale sostenibile (flexicurity).
+
+**D:** ⚠️ Come presenta le hard skills la slide 3 della lezione 03?
+**R:** «Hard skills – **non sono solo** le competenze e conoscenze legate all'applicazione della tecnologia in un mondo ipertecnologico: l'uomo non è uno schiavo della macchina MA **responsabile dei risultati del proprio lavoro**; automazione di alcuni processi VS **pensiero critico e creativo** dell'essere umano» (slide 3). Per la docente non si parla soltanto delle competenze digitali e tecnologiche, ma delle **competenze tecniche**; l'automazione alleggerisce alcuni compiti e libera le energie per il pensiero critico e creativo ([00:03:28]–[00:04:16]).
+**Opzione:** Non sono solo le competenze e conoscenze legate all'applicazione della tecnologia in un mondo ipertecnologico: l'uomo non è uno schiavo della macchina ma responsabile dei risultati del proprio lavoro.
+**Distrattori:**
+- Sono solo le competenze e conoscenze legate all'applicazione della tecnologia in un mondo ipertecnologico: l'uomo non è uno schiavo della macchina ma responsabile dei risultati del proprio lavoro.
+- Competenze durevoli, non soggette a decadimento, possono essere apprese.
+- Un insieme di attitudini, intuizioni, attributi e pratiche che si esercitano indipendentemente dall'ambito disciplinare.
+
+**D:** ⚠️ Che ruolo hanno le soft skills rispetto alle hard skills nella slide 3 della lezione 03?
+**R:** «Soft skills come **condizione necessaria per il funzionamento adeguato delle hard skills**» (slide 3). Per la docente il dipendente di una banca deve essere preparato, ma deve possedere anche **competenze trasversali**, importanti per qualsiasi settore, che permettono di attivare le competenze tecniche specifiche della mansione ([00:04:27]–[00:04:43]).
+**Opzione:** Sono la condizione necessaria per il funzionamento adeguato delle hard skills.
+**Distrattori:**
+- Le hard skills sono la condizione necessaria per il funzionamento adeguato delle soft skills.
+- L'obsolescenza; maggiore criticità per i segmenti del mercato del lavoro popolati da lavoratori più maturi e meno preparati.
+- Competenze come responsabilità e autonomie; skills come declinazione operativa delle competenze.
+
+**D:** ⚠️ Che cosa sono le soft skills, e quali caratteristiche elenca la slide 4, secondo la lezione 03?
+**R:** «Sono le competenze **interpersonali, sociali, comportamentali e metodologiche** necessarie per applicare capacità e conoscenze tecniche nel lavoro»: «Tratti della personalità, obiettivi, motivazioni e preferenze che hanno un valore nel mercato del lavoro»; «Un insieme de attitudini, intuizioni, attributi e pratiche che si esercitano indipendentemente dall'ambito disciplinare (**competenze trasversali**)»; «Si esprimono in modo diverso in funzione dei differenti contesti (**trasferibilità** da un campo di applicazione all'altro, da un'organizzazione all'altra, dalla vita privata alla vita professionale)»; «Possono essere **combinate in maniera dinamica** per consentire alle persone di adattarsi e assumere comportamenti consoni ed efficaci»; «Competenze **durevoli, non soggette a decadimento**, possono essere apprese» (slide 4). Per la docente un annuncio di lavoro elenca sia le competenze hard sia quelle soft, che acquistano un ruolo sempre più importante ([00:05:43]).
+
+**D:** ⚠️ Quale caratteristica delle soft skills la slide 4 chiama «competenze trasversali», secondo la lezione 03?
+**R:** «Un insieme de attitudini, intuizioni, attributi e pratiche che si esercitano **indipendentemente dall'ambito disciplinare** (competenze trasversali)» (slide 4, con il refuso «de»). Per la docente sono competenze come il lavoro di gruppo, lo spirito di iniziativa, la creatività, la capacità di risolvere un problema, il pensiero critico, applicabili in diverse mansioni e aziende ([00:06:11]–[00:06:53]).
+**Opzione:** Un insieme di attitudini, intuizioni, attributi e pratiche che si esercitano indipendentemente dall'ambito disciplinare.
+**Distrattori:**
+- Un insieme di attitudini, intuizioni, attributi e pratiche che si esercitano solo all'interno di uno specifico ambito disciplinare.
+- Hanno un campo di applicazione circoscritto e sono legate all'evoluzione del campo disciplinare.
+- Non sono solo le competenze e conoscenze legate all'applicazione della tecnologia in un mondo ipertecnologico: l'uomo non è uno schiavo della macchina ma responsabile dei risultati del proprio lavoro.
+
+**D:** ⚠️ Che cosa dice l'ultimo punto della slide 4 sulla durata delle soft skills e sul loro apprendimento, secondo la lezione 03?
+**R:** «Competenze **durevoli, non soggette a decadimento**, **possono essere apprese**» (slide 4). La docente aggiunge che si apprendono «anche in maniera abbastanza facile» ([00:07:48]). Sono l'opposto delle hard skills, che soffrono dell'**obsolescenza** (slide 5).
+**Opzione:** Competenze durevoli, non soggette a decadimento, possono essere apprese.
+**Distrattori:**
+- Competenze durevoli, non soggette a decadimento, non possono essere apprese.
+- Richiedono di essere aggiornate o ricreate dalle fondamenta in presenza di rivoluzioni tecnologiche.
+- L'obsolescenza; maggiore criticità per i segmenti del mercato del lavoro popolati da lavoratori più maturi e meno preparati.
+
+**D:** ⚠️ Quali skills la slide 5 definisce «competenze specifiche per ciascun dominio di conoscenza», secondo la lezione 03?
+**R:** Le **hard skills**: «sono competenze specifiche per ciascun dominio di conoscenza» (slide 5). Per la docente sono legate a una determinata mansione, a un determinato ruolo organizzativo ([00:07:58]). ⚠️ Le formule delle soft skills (slide 4) e delle life skills (slide 11) sono le chiavi delle domande 2 e 5 del test, con la stessa batteria di quattro etichette.
+**Opzione:** Hard skills.
+**Distrattori:**
+- Soft skills.
+- Life skills.
+- Digital skills.
+
+**D:** ⚠️ Quali caratteristiche delle hard skills elenca la slide 5 della lezione 03?
+**R:** «Sono competenze specifiche per ciascun dominio di conoscenza: Hanno un **campo di applicazione circoscritto**; Soffrono si un terribile problema: "**l'obsolescenza**"; Legate all'**evoluzione del campo disciplinare**; Richiedono di essere **aggiornate o ricreate dalle fondamenta** in presenza di rivoluzioni tecnologiche; **Maggiore criticità** per i segmenti del mercato del lavoro popolati da lavoratori **più maturi e meno preparati**; La **perdita di valore di lavoratori = il livello di innovazione tecnologica**» (slide 5). Per la docente sono difficilmente trasferibili da un'azienda all'altra, e fare la banca oggi è molto diverso da cinquant'anni fa ([00:08:12]–[00:09:25]); la perdita di valore dei lavoratori «corrisponde anche» al livello di innovazione tecnologica ([00:10:36]).
+
+**D:** ⚠️ Di quale «terribile problema» soffrono le hard skills, e per quali segmenti del mercato del lavoro la criticità è maggiore, secondo la lezione 03?
+**R:** «Soffrono si un terribile problema: "**l'obsolescenza**"» (slide 5, refuso «si» per «di»), e c'è una «maggiore criticità per i segmenti del mercato del lavoro popolati da lavoratori **più maturi e meno preparati**». Per la docente le persone di 50–60 anni hanno hard skills diverse da quelle delle generazioni **Y e Z**, perché si formano con l'educazione scolastica e universitaria, e spesso si dice che **baby boomer** e **generazione X** non sono disposti ad apprendere continuamente ([00:09:44]–[00:11:44]).
+**Opzione:** L'obsolescenza; maggiore criticità per i segmenti del mercato del lavoro popolati da lavoratori più maturi e meno preparati.
+**Distrattori:**
+- L'obsolescenza; maggiore criticità per i segmenti del mercato del lavoro popolati da lavoratori più giovani e meno preparati.
+- 1) Richiede tempo; 2) necessita di una dotazione adeguata delle soft skills.
+- Competenze durevoli, non soggette a decadimento, possono essere apprese.
+
+**D:** ⚠️ Quali sono le due difficoltà di ricostruzione delle hard skills, secondo la lezione 03?
+**R:** «1) **Richiede tempo**; 2) **Necessita di una dotazione adeguata delle soft skills**» (slide 6). Per la docente le hard skills difficilmente si apprendono durante l'esperienza di lavoro, lavorando in team, «come invece insomma avviene invece per soft skills» ([00:10:55]–[00:11:14]).
+**Opzione:** 1) Richiede tempo; 2) necessita di una dotazione adeguata delle soft skills.
+**Distrattori:**
+- 1) Richiede tempo; 2) necessita di una dotazione adeguata di risorse tecnologiche.
+- Quanto più l'innovazione tecnologica richiede il possesso delle hard skill, tanto più è necessario lo sviluppo delle soft skill.
+- Competenze come responsabilità e autonomie; skills come declinazione operativa delle competenze.
+
+**D:** ⚠️ Quali soft skills elenca la slide 6 come dotazione necessaria per ricostruire le hard skills, secondo la lezione 03?
+**R:** «Consapevolezza di sé; Capacità di apprendere; Creatività; Flessibilità; Resilienza; Impegno verso l'organizzazione; Capacità di relazionarsi a tutti i livelli; Collaborazione; **Visione**» (slide 6): nove voci, l'ultima è la visione. Per la docente la capacità di apprendere vuol dire studiare «lungo tutta la vita»; l'impegno verso l'organizzazione è la fidelizzazione, il senso di appartenenza all'impresa; la visione è «la visione del futuro, l'apertura mentale» ([00:11:14]–[00:12:14]).
+**Opzione:** Consapevolezza di sé; capacità di apprendere; creatività; flessibilità; resilienza; impegno verso l'organizzazione; capacità di relazionarsi a tutti i livelli; collaborazione; visione.
+**Distrattori:**
+- Consapevolezza di sé; capacità di apprendere; creatività; flessibilità; resilienza; impegno verso l'organizzazione; capacità di relazionarsi a tutti i livelli; collaborazione; competenze digitali.
+- Gestione della complessità, relazione con il cliente, utilizzo della tecnologia.
+- Velocità, precisione, snellimento delle procedure, personalizzazione del servizio.
+
+**D:** Che cosa dice il riquadro a destra della slide 6, e a quali skills lo riferisce la docente della lezione 03?
+**R:** «Vengono sviluppate durante l'**infanzia e l'adolescenza** e nell'arco della vita grazie a adeguati approcci formativi; Legate al **contesto culturale e sociale**; Responsabilità dei **sistemi educativi nazionali e delle aziende**» (slide 6). ⚠️ La slide **non dice** a quali competenze si riferisce, e il riquadro sta accanto all'elenco delle soft skills; la docente lo riferisce alle **hard skills** («le competenze hard vengono sviluppate…», [00:12:40]–[00:13:08]). Per la docente diverse banche hanno al proprio interno una **corporate university**, perché hanno capito che lo sviluppo delle competenze serve anche a raggiungere gli obiettivi strategici ([00:13:11]–[00:13:34]).
+
+**D:** ⚠️ Che cosa richiede l'evoluzione tecnologica, secondo la slide 7 della lezione 03?
+**R:** «L'evoluzione tecnologiche non richiede **solo** competenze tecnologiche, hard skill, ma **anche e soprattutto soft skill**, affinché le prime possano essere proficuamente impiegate nel contesto lavorativo» (slide 7, con il refuso «tecnologiche»). La docente lo ripete quasi alla lettera ([00:13:48]).
+**Opzione:** Non solo competenze tecnologiche, hard skill, ma anche e soprattutto soft skill, affinché le prime possano essere proficuamente impiegate nel contesto lavorativo.
+**Distrattori:**
+- Non solo soft skill, ma anche e soprattutto competenze tecnologiche, hard skill, affinché le prime possano essere proficuamente impiegate nel contesto lavorativo.
+- L'employability di una risorsa umana, in una prospettiva di flessibilità occupazionale sostenibile (flexicurity).
+- Reputazione dell'azienda bancaria; employer branding; capacità di attrarre, trattenere e motivare le risorse migliori e creare il capitale intellettuale.
+
+**D:** ⚠️ In che modo hard skill e soft skill sono interconnesse, secondo la lezione 03?
+**R:** «Hard skill e soft skill sono interconnesse, **quanto più** l'innovazione tecnologica richiese il possesso delle prime, **tanto più** è necessario lo sviluppo delle seconde!» (slide 7, refuso «richiese»). Per la docente anche i corsi di formazione per i dipendenti delle banche devono considerare lo sviluppo di diverse competenze ([00:14:04]).
+**Opzione:** Quanto più l'innovazione tecnologica richiede il possesso delle hard skill, tanto più è necessario lo sviluppo delle soft skill.
+**Distrattori:**
+- Quanto più l'innovazione tecnologica richiede il possesso delle hard skill, tanto meno è necessario lo sviluppo delle soft skill.
+- Non riguardano solo il mercato del lavoro e la riduzione del tasso di disoccupazione, ma ambiti differenti (individuale, sociale, organizzativo).
+- 1) Evoluzione dell'organizzazione verso forme affidabili, adattive e facilmente accessibili, come la piattaforma; 2) riconfigurazione delle competenze necessarie per sostenere la trasformazione del business.
+
+**D:** ⚠️ Che cosa devono mettere al centro dei propri interessi le piattaforme, e in quali competenze devono investire, secondo la lezione 03?
+**R:** «Le piattaforme devono mettere al centro dei propri interessi **LE PERSONE**, investendo nelle **competenze sociali ed emotive** per rendere proficue le competenze tecnologiche» (slide 7). Per la docente non esclusivamente le tecnologie, ma le persone, «che poi fanno la differenza» ([00:15:07]). La stessa slide chiede «**persone complete** per gestire le piattaforme intese come le organizzazioni», cioè per la docente persone con tutte le tipologie di competenze e disposte a imparare e a cambiare ([00:14:30]), e chiude: «Non esiste l'*Homo technologicus* disgiunto dalla sua natura intrinsecamente relazionale».
+**Opzione:** Le persone, investendo nelle competenze sociali ed emotive per rendere proficue le competenze tecnologiche.
+**Distrattori:**
+- Le tecnologie, investendo nelle competenze tecnologiche per rendere proficue le competenze sociali ed emotive.
+- Ricercare le competenze sul mercato; coltivare la formazione continua; aumentare la motivazione dei collaboratori; creare le condizioni favorevoli all'innovazione; sostenere lo sviluppo di una cultura organizzativa adeguata.
+- Un insieme di attitudini, intuizioni, attributi e pratiche che si esercitano indipendentemente dall'ambito disciplinare.
+
+**D:** ⚠️ Quali fattori spingono la trasformazione dell'organizzazione della banca, secondo la slide 8 della lezione 03?
+**R:** «Il cambiamento degli scenari economici a livello globale»; «Modifica dell'offerta bancaria e delle strategie competitive per soddisfare le mutate esigenze della clientela (**sia corporate sia retail**)»; «Aspettative sempre più elevate in termini di: **velocità**, **precisione**, **snellimento delle procedure**, **personalizzazione del servizio**» (slide 8, «Bancatech: quali prospettive? – Trasformazione dell'organizzazione della banca»). La docente lo ripete quasi alla lettera ([00:16:29]–[00:16:44]).
+**Opzione:** Il cambiamento degli scenari economici a livello globale; modifica dell'offerta bancaria e delle strategie competitive per soddisfare le mutate esigenze della clientela (sia corporate sia retail); aspettative sempre più elevate in termini di velocità, precisione, snellimento delle procedure, personalizzazione del servizio.
+**Distrattori:**
+- Il cambiamento degli scenari economici a livello globale; modifica dell'offerta bancaria e delle strategie competitive per soddisfare le mutate esigenze della clientela (sia corporate sia retail); aspettative sempre più elevate in termini di velocità, precisione, snellimento delle procedure, standardizzazione del servizio.
+- Consapevolezza di sé; capacità di apprendere; creatività; flessibilità; resilienza; impegno verso l'organizzazione; capacità di relazionarsi a tutti i livelli; collaborazione; visione.
+- Costruiscono la cittadinanza organizzativa; conferiscono la proprietà di resilienza, flessibilità, coesione; facilitano il cambiamento organizzativo.
+
+**D:** ⚠️ Quali due conseguenze trae la slide 8 dalla trasformazione dell'organizzazione della banca, secondo la lezione 03?
+**R:** «1) Evoluzione dell'organizzazione verso forme **affidabili, adattive e facilmente accessibili, come la piattaforma**; 2) **Riconfigurazione delle competenze** necessarie per sostenere la trasformazione del business» (slide 8, dopo la freccia). Per la docente è per questo che la piattaforma si considera un'alternativa così importante per lo sviluppo del settore ([00:17:06]–[00:17:22]).
+**Opzione:** 1) Evoluzione dell'organizzazione verso forme affidabili, adattive e facilmente accessibili, come la piattaforma; 2) riconfigurazione delle competenze necessarie per sostenere la trasformazione del business.
+**Distrattori:**
+- 1) Evoluzione dell'organizzazione verso forme affidabili, adattive e facilmente accessibili, come la filiale tradizionale; 2) riconfigurazione delle competenze necessarie per sostenere la trasformazione del business.
+- Restringimento dell'orizzonte del pensiero e della creatività all'interno delle regole, procedure, gerarchie rigide; non c'è spazio per fantasia e assunzione del rischio; sindrome di disimpegno e scarico delle responsabilità.
+- Quanto più l'innovazione tecnologica richiede il possesso delle hard skill, tanto più è necessario lo sviluppo delle soft skill.
+
+**D:** ⚠️ Come va utilizzata la tecnologia nella banca del futuro, e per quali attività, secondo la slide 9 della lezione 03?
+**R:** «Utilizzo della tecnologia **non come una sostituzione ma come il rafforzamento** delle competenze necessarie per una serie di attività: Valutare il merito di credito di un piccolo imprenditore; Comprendere le esigenze e le propensioni di una clientela diversificata di risparmiatori; Offrire i servizi ed i prodotti più adeguati; Sostenete la creazione di una start-up; Accompagnare la crescita di un'azienda ecc.» (slide 9; l'elenco è **aperto**). Per la docente il merito di credito si valuta con il supporto delle tecnologie digitali ma con competenze tecniche specifiche, e le esigenze dei risparmiatori si capiscono anche tracciando il passaggio del cliente in un sito internet o in un'applicazione mobile ([00:18:10]–[00:19:04]).
+**Opzione:** Non come una sostituzione ma come il rafforzamento delle competenze necessarie per una serie di attività: valutare il merito di credito di un piccolo imprenditore, comprendere le esigenze e le propensioni di una clientela diversificata di risparmiatori, offrire i servizi ed i prodotti più adeguati, sostenere la creazione di una start-up, accompagnare la crescita di un'azienda ecc.
+**Distrattori:**
+- Come una sostituzione delle competenze necessarie per una serie di attività: valutare il merito di credito di un piccolo imprenditore, comprendere le esigenze e le propensioni di una clientela diversificata di risparmiatori, offrire i servizi ed i prodotti più adeguati, sostenere la creazione di una start-up, accompagnare la crescita di un'azienda ecc.
+- Consapevolezza di sé; capacità di apprendere; creatività; flessibilità; resilienza; impegno verso l'organizzazione; capacità di relazionarsi a tutti i livelli; collaborazione; visione.
+- Velocità, precisione, snellimento delle procedure, personalizzazione del servizio.
+
+**D:** ⚠️ Che cosa si intende per liberazione delle competenze dedicate al processo, e quali competenze specialistiche elenca la slide 10, secondo la lezione 03?
+**R:** «**Liberazione delle competenze dedicate al processo** per ricercare/creare le **competenze specialistiche legate al business** al fine di offrire un servizio più completo e specializzato di maggiore qualità: Marketing bancario; Finanza internazionale; Competenze giuridiche; Gestione del personale; Compliance; Finanza aziendale» (slide 10). La docente dice anche «più personalizzato» e chiude l'elenco con un «eccetera» ([00:19:51]–[00:20:17]); i compiti dei dipendenti diventano più complessi, e le persone vanno formate e aggiornate di conseguenza ([00:20:33]).
+**Opzione:** Liberare le competenze dedicate al processo per ricercare/creare le competenze specialistiche legate al business al fine di offrire un servizio più completo e specializzato di maggiore qualità: marketing bancario, finanza internazionale, competenze giuridiche, gestione del personale, compliance, finanza aziendale.
+**Distrattori:**
+- Liberare le competenze specialistiche legate al business per ricercare/creare le competenze dedicate al processo al fine di offrire un servizio più completo e specializzato di maggiore qualità: marketing bancario, finanza internazionale, competenze giuridiche, gestione del personale, compliance, finanza aziendale.
+- Reputazione dell'azienda bancaria; employer branding; capacità di attrarre, trattenere e motivare le risorse migliori e creare il capitale intellettuale.
+- Le persone, investendo nelle competenze sociali ed emotive per rendere proficue le competenze tecnologiche.
+
+**D:** ⚠️ Che cosa permettono di migliorare le soft skill, e in quale prospettiva, secondo la slide 10 della lezione 03?
+**R:** «Soft skill come chiave per migliorare l'**employability** di una risorsa umana in una prospettiva di **flessibilità occupazionale sostenibile (flexicurity)**» (slide 10). Per la docente l'employability è la possibilità di essere occupati, di trovare un lavoro, anche «girando diverse aziende»; la flexicurity (il transcript scrive «Flex security») si lega ai contratti a tempo determinato, a progetto, a chiamata, che riducono il tempo in cui il dipendente resta occupato nella stessa azienda ([00:21:35]–[00:22:35]). Il punto precedente della slide porta l'esempio della crisi sanitaria e dello **smart working**.
+**Opzione:** L'employability di una risorsa umana, in una prospettiva di flessibilità occupazionale sostenibile (flexicurity).
+**Distrattori:**
+- La flessibilità occupazionale sostenibile (flexicurity) di una risorsa umana, in una prospettiva di employability.
+- Esalta l'istantaneità dell'azione attraverso la trasformazione di procedure ripetitive in software.
+- Richiedono di essere aggiornate o ricreate dalle fondamenta in presenza di rivoluzioni tecnologiche.
+
+**D:** ⚠️ Per far crescere quali cittadini le life skills sono qualità fondamentali, secondo la lezione 03?
+**R:** «Qualità fondamentali per far crescere cittadini **consapevoli resilienti, autonomi**» (slide 11). Per la docente sono competenze trasversali, che si applicano anche nella vita quotidiana e non soltanto nel mercato del lavoro ([00:23:18]).
+**Opzione:** Cittadini consapevoli, resilienti, autonomi.
+**Distrattori:**
+- Cittadini consapevoli, resilienti, competitivi.
+- Lavoratori più maturi e meno preparati.
+
+**D:** ⚠️ Che cosa riguardano le life skills, oltre al mercato del lavoro, secondo la lezione 03?
+**R:** «**Non riguardano solo** il mercato del lavoro e la riduzione del tasso di disoccupazione, ma ambiti differenti (**individuale, sociale, organizzativo**)» (slide 11). La docente lo dice così: «non riguardano solo il mercato del lavoro, aiutano anche a ridurre il tasso di disoccupazione in ambiti differenti», e per questo università e scuole si impegnano tanto a svilupparle ([00:23:37]–[00:23:49]).
+**Opzione:** Non riguardano solo il mercato del lavoro e la riduzione del tasso di disoccupazione, ma ambiti differenti (individuale, sociale, organizzativo).
+**Distrattori:**
+- Non riguardano solo il mercato del lavoro e la riduzione del tasso di disoccupazione, ma ambiti differenti (individuale, sociale, politico).
+- Esalta l'istantaneità dell'azione attraverso la trasformazione di procedure ripetitive in software.
+- Hanno un campo di applicazione circoscritto e sono legate all'evoluzione del campo disciplinare.
+
+**D:** ⚠️ Qual è il valore delle soft skills all'interno dell'organizzazione, secondo la slide 11 della lezione 03?
+**R:** «Costruiscono la **cittadinanza organizzativa**; Conferiscono la proprietà di **resilienza, flessibilità, coesione**; **Facilitano il cambiamento organizzativo**» (slide 11). La docente dice che le soft skills «costituisce» la cittadinanza organizzativa e parla di coesione «tra diversi collaboratori»: le persone con le proprie competenze sono un driver della trasformazione verso il modello organizzativo digitale ([00:23:56]–[00:24:29]).
+**Opzione:** Costruiscono la cittadinanza organizzativa; conferiscono la proprietà di resilienza, flessibilità, coesione; facilitano il cambiamento organizzativo.
+**Distrattori:**
+- Costruiscono la cittadinanza organizzativa; conferiscono la proprietà di resilienza, flessibilità, coesione; facilitano il controllo gerarchico.
+- Non sono solo le competenze e conoscenze legate all'applicazione della tecnologia in un mondo ipertecnologico: l'uomo non è uno schiavo della macchina ma responsabile dei risultati del proprio lavoro.
+- Gestione della complessità, relazione con il cliente, utilizzo della tecnologia.
+
+**D:** ⚠️ Che cosa produce la cultura di open innovation e creatività, secondo la slide 12 della lezione 03?
+**R:** «La cultura di open innovation e creatività -> la **piena espressione delle soft skill** (tra cui: leadership, capacità di lavorare in team, flessibilità, ascolto attivo, consapevolezza organizzativa, resistenza allo stress, autocontrollo e pensiero critico ecc.) -> **condizioni per una più proficua acquisizione e applicazione delle hard skill**» (slide 12). La premessa è l'«Importanza dell'allineamento tra la cultura e le skill richieste dai lavoratori»; l'elenco delle soft skill è **aperto**, e la docente vi aggiunge la «resilienza» accanto alla resistenza allo stress ([00:25:24]–[00:25:57]).
+**Opzione:** La piena espressione delle soft skill, e quindi le condizioni per una più proficua acquisizione e applicazione delle hard skill.
+**Distrattori:**
+- La piena espressione delle hard skill, e quindi le condizioni per una più proficua acquisizione e applicazione delle soft skill.
+- Restringimento dell'orizzonte del pensiero e della creatività all'interno delle regole, procedure, gerarchie rigide; non c'è spazio per fantasia e assunzione del rischio; sindrome di disimpegno e scarico delle responsabilità.
+- Le componenti della catena potrebbero essere fisicamente collocate ovunque e operare ubiquitariamente.
+
+**D:** ⚠️ A che cosa porta la cultura aziendale resistente alle innovazioni, secondo la slide 12 della lezione 03?
+**R:** «La cultura aziendale resistente alle innovazioni -> **restringimento dell'orizzonte del pensiero e della creatività** all'interno delle regole, procedure, gerarchie rigide -> non c'è spazio per fantasia e assunzione del rischio -> **sindrome di disimpegno e scarico delle responsabilità**» (slide 12). La docente aggiunge l'«iniziativa» fra ciò che non trova spazio e non nomina la sindrome: conclude che in questo caso «non possiamo parlare del cambiamento organizzativo» ([00:26:20]).
+**Opzione:** Restringimento dell'orizzonte del pensiero e della creatività all'interno delle regole, procedure, gerarchie rigide; non c'è spazio per fantasia e assunzione del rischio; sindrome di disimpegno e scarico delle responsabilità.
+**Distrattori:**
+- Restringimento dell'orizzonte del pensiero e della creatività all'interno delle regole, procedure, gerarchie rigide; non c'è spazio per fantasia e assunzione del rischio; sindrome di disimpegno e accentramento delle responsabilità.
+- La piena espressione delle soft skill, e quindi le condizioni per una più proficua acquisizione e applicazione delle hard skill.
+- Non solo competenze tecnologiche, hard skill, ma anche e soprattutto soft skill, affinché le prime possano essere proficuamente impiegate nel contesto lavorativo.
+
+**D:** ⚠️ Quali sono le condizioni per la crescita della domanda di soft skills, secondo la lezione 03?
+**R:** «Espansione dell'open innovation; Esigenza di ottimizzare le relazioni con i clienti e i partner esterni; Necessità di collaborare all'interno di team multiprofessionali e interfunzionali; Richiesta di cogliere con rapidità i segnali dell'ambiente interno ed esterno; Garanzia di gestire efficacemente processi di **problem setting e problem solving**» (slide 13, che nel titolo scrive «Condizione», al singolare). Per la docente i prodotti diventano più complessi e il ventaglio dei servizi più differenziato, e la collaborazione è «uno degli strumenti di innovazione» ([00:26:49]–[00:27:27]).
+**Opzione:** Espansione dell'open innovation; esigenza di ottimizzare le relazioni con i clienti e i partner esterni; necessità di collaborare all'interno di team multiprofessionali e interfunzionali; richiesta di cogliere con rapidità i segnali dell'ambiente interno ed esterno; garanzia di gestire efficacemente processi di problem setting e problem solving.
+**Distrattori:**
+- Espansione dell'open innovation; esigenza di ottimizzare le relazioni con i clienti e i partner esterni; necessità di collaborare all'interno di team multiprofessionali e interfunzionali; richiesta di cogliere con rapidità i segnali dell'ambiente interno ed esterno; garanzia di automatizzare le procedure ripetitive attraverso il software.
+- Costruiscono la cittadinanza organizzativa; conferiscono la proprietà di resilienza, flessibilità, coesione; facilitano il cambiamento organizzativo.
+
+**D:** ⚠️ Qual è il ruolo della Direzione del personale, secondo la slide 14 della lezione 03?
+**R:** «Ricercare le competenze sul mercato; Coltivare la formazione continua; Aumentare la motivazione dei collaboratori; Creare le condizioni favorevoli all'innovazione; Sostenere lo sviluppo di una **cultura organizzativa adeguata**» (slide 14). Per la docente il mercato delle competenze è diventato **globale**; la formazione continua risponde all'**obsolescenza** delle hard skills; per motivare si lavora sull'**empowerment**, cioè delegare, dare la responsabilità e l'autonomia nello svolgimento di alcune procedure, perché spesso l'innovazione non avviene non per mancanza di competenze ma di motivazione; sostenendo la cultura organizzativa la Direzione del personale diventa il **partner strategico** del vertice aziendale ([00:28:18]–[00:30:24]).
+**Opzione:** Ricercare le competenze sul mercato; coltivare la formazione continua; aumentare la motivazione dei collaboratori; creare le condizioni favorevoli all'innovazione; sostenere lo sviluppo di una cultura organizzativa adeguata.
+**Distrattori:**
+- Ricercare le competenze sul mercato; coltivare la formazione continua; aumentare la motivazione dei collaboratori; creare le condizioni favorevoli all'innovazione; sostenere lo sviluppo di una struttura gerarchica adeguata.
+- Non solo competenze tecnologiche, hard skill, ma anche e soprattutto soft skill, affinché le prime possano essere proficuamente impiegate nel contesto lavorativo.
+- Non riguardano solo il mercato del lavoro e la riduzione del tasso di disoccupazione, ma ambiti differenti (individuale, sociale, organizzativo).
+
+**D:** ⚠️ Su quali risultati incide il ruolo della Direzione del personale, secondo la slide 14 della lezione 03?
+**R:** Dopo la freccia: «Reputazione dell'azienda bancaria; **Employer Branding**; Capacità di **attrarre, trattenere e motivare** le risorse migliore e creare il **capitale intellettuale**» (slide 14, refuso «migliore»). Per la docente l'employer branding è il brand del datore di lavoro, che può diventare più attrattivo per i nuovi lavoratori; da qui il **talent management**, cioè catturare le competenze e le risorse umane migliori e dar loro la possibilità di svilupparsi ([00:30:53]–[00:31:47]).
+**Opzione:** Reputazione dell'azienda bancaria; employer branding; capacità di attrarre, trattenere e motivare le risorse migliori e creare il capitale intellettuale.
+**Distrattori:**
+- Reputazione dell'azienda bancaria; employer branding; capacità di attrarre, trattenere e motivare le risorse migliori e ridurre il costo del lavoro.
+- La piena espressione delle soft skill, e quindi le condizioni per una più proficua acquisizione e applicazione delle hard skill.
+- Cittadini consapevoli, resilienti, autonomi.
+
+**D:** ⚠️ Come chiama la letteratura le soft skills, nella classificazione delle competenze citata dalla docente della lezione 03?
+**R:** **Competenze universali**. Per la docente la letteratura parla di competenze **obsolete**, **mature**, **universali** «come soft skills» ed **emergenti**; per Bancatech e Fintech le emergenti sono le competenze tecnologiche, digitali, di trattamento e di analisi dei dati, poco importanti qualche anno fa e sempre più importanti perché cambiano il mercato, l'ambiente e il modello organizzativo ([00:08:21]–[00:09:06]). La classificazione non è nelle slide.
+**Opzione:** Competenze universali.
+**Distrattori:**
+- Competenze emergenti.
+- Competenze mature.
+- Competenze obsolete.
+
+**D:** ⚠️ Come può essere definita la capacità di applicare le conoscenze e utilizzare il know-how per completare i compiti e risolvere i problemi, secondo il test della lezione 03 (domanda 1)?
+**R:** «**Skill**». È la slide 3 alla lettera: «Skill come la capacità di applicare le conoscenze e utilizzare il know-how per completare i compiti e risolvere i problemi», che «È acquisita attraverso l'educazione, la formazione e/o l'esperienza». Distrattori del test: «competenza», «autonomia», «responsabilità». Per la stessa slide le **competenze** sono «responsabilità e autonomie», e lo skill ne è la **declinazione operativa**: le tre opzioni sbagliate sono la parola vicina e le due parole della sua definizione.
+**Opzione:** Skill.
+**Distrattori:**
+- Competenza.
+- Autonomia.
+- Responsabilità.
+
+**D:** ⚠️ Come si chiamano le competenze interpersonali, sociali, comportamentali e metodologiche necessarie per applicare capacità e conoscenze tecniche nel lavoro, secondo il test della lezione 03 (domanda 2)?
+**R:** «**Soft skills**». È la slide 4 alla lettera (la piattaforma scrive «metodologichenecessarie»). Distrattori del test: «life skills», «hard skills», «digital skills». ⚠️ La domanda 5 dello stesso test ha **le stesse quattro opzioni** e la chiave «life skills», per la formula della slide 11: la domanda non è *che cosa sono*, ma *a quale etichetta la slide attacca la formula*. Le hard skills sono le «competenze specifiche per ciascun dominio di conoscenza» (slide 5); le digital skills non compaiono nelle slide.
+**Opzione:** Soft skills.
+**Distrattori:**
+- Life skills.
+- Hard skills.
+- Digital skills.
+
+**D:** ⚠️ Quali competenze chiave devono essere coltivate nella banca del futuro, secondo il test della lezione 03 (domanda 3)?
+**R:** «**Gestione della complessità, relazione con il cliente, utilizzo della tecnologia**». Sono le tre voci della slide 9, nell'ordine; la slide dice per intero «Gestione della complessità del settore bancario» e «Utilizzo della tecnologia non come una sostituzione ma come il rafforzamento delle competenze». Distrattori del test: «utilizzo della tecnologia, team working, conoscenza delle lingue straniere», «conoscenza delle lingue straniere, team working, relazione con il cliente», «utilizzo della tecnologia, leadership, team working». Ognuno tiene una voce vera e la mescola con la **leadership** e il **lavoro in team**, che sono soft skill della slide 12, o con le **lingue straniere**, che nella lezione non compaiono.
+**Opzione:** Gestione della complessità, relazione con il cliente, utilizzo della tecnologia.
+**Distrattori:**
+- Utilizzo della tecnologia, team working, conoscenza delle lingue straniere.
+- Conoscenza delle lingue straniere, team working, relazione con il cliente.
+- Utilizzo della tecnologia, leadership, team working.
+
+**D:** ⚠️ Come si chiama la modalità di esecuzione del rapporto di lavoro subordinato senza vincoli orari o spaziali, organizzata per fasi, cicli e obiettivi e stabilita mediante accordo tra dipendente e datore di lavoro, secondo il test della lezione 03 (domanda 4)?
+**R:** «**Smart working**». La definizione **non è nelle slide né nel transcript** del corso: la slide 10 cita lo smart working solo come esempio dell'importanza delle soft skills («esperienza della crisi sanitaria -> continuità di processi e relazioni con i clienti attraverso lo smart working»), e la docente parla della possibilità di lavorare da remoto ([00:20:48]). Distrattori del test: «employability» e «flexicurity», che stanno nella stessa slide 10 ma indicano l'occupabilità di una risorsa umana e la flessibilità occupazionale sostenibile, e «telelavoro», che non compare nelle slide del corso e nei transcript compare solo come voce di elenco accanto allo smart working, senza definizione (lezione 01, [00:22:26]; lezione 08, [00:15:24]).
+**Opzione:** Smart working.
+**Distrattori:**
+- Employability.
+- Telelavoro.
+- Flexicurity.
+
+**D:** ⚠️ Come si chiamano le competenze fondamentali per una vita di successo in una società che funziona bene nonché per il progresso sociale, secondo il test della lezione 03 (domanda 5)?
+**R:** «**Life skills**». È la slide 11 alla lettera: «Life skill sono: competenze fondamentali per una vita di successo in una società che funziona bene nonché per il progresso sociale». Distrattori del test: «hard skills», «soft skills», «digital skills». ⚠️ La slide 11 si intitola «Soft skill come competenze per la vita (life skills)», e la docente dice che alcuni studiosi definiscono le soft skills «come life skills» ([00:23:04]): «soft skills» è sbagliata solo di **posizione**, perché la formula la slide la attacca alle life skills. La domanda 2 dello stesso test ha le stesse quattro opzioni e la chiave «soft skills».
+**Opzione:** Life skills.
+**Distrattori:**
+- Hard skills.
+- Soft skills.
+- Digital skills.
