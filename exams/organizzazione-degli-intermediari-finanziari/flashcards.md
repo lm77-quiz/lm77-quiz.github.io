@@ -3761,3 +3761,307 @@
 - Un notevole cambiamento di prodotto e mercato (non del sistema di risorse): investimento/disinvestimento, sostituzione/innovazione.
 - Un limitato cambiamento del sistema di risorse (non solo prodotto e mercato): investimento/disinvestimento, sostituzione/innovazione.
 - Le autorità di controllo o il top management.
+
+## Lezione 14 — Obiettivi e cause della diversificazione
+
+**D:** ⚠️ Qual è l'obiettivo della strategia di diversificazione, secondo la slide 2 della lezione 14?
+**R:** «Obiettivo della strategia di diversificazione: **miglioramento della performance reddituale** -> l'ingresso nella nuova ASA è conveniente e migliorativo in termini di **ROE aggiustato per il rischio** rispetto al **posizionamento precedente**» (slide 2). La docente scioglie la sigla, «ROE, Return on Equity», e aggiunge che deve esserci «necessariamente» un vantaggio economico reddittuale: la diversificazione è «una situazione sempre di miglioria, di miglioramento rispetto alla situazione precedente» ([00:00:18]–[00:01:03]). ⚠️ Il confronto è con il **posizionamento precedente**, non con i concorrenti, e il ROE è **aggiustato per il rischio**.
+**Opzione:** Miglioramento della performance reddituale: l'ingresso nella nuova ASA è conveniente e migliorativo in termini di ROE aggiustato per il rischio rispetto al posizionamento precedente.
+**Distrattori:**
+- Miglioramento della performance reddituale: l'ingresso nella nuova ASA è conveniente e migliorativo in termini di ROE aggiustato per il rischio rispetto al posizionamento dei concorrenti.
+- Eccedenza e disponibilità; specificità, fungibilità e correlati costi di conversione; cedibilità, vendibilità e correlati costi di transazione.
+- Costo di adattamento della risorsa alla nuova funzione: di adattamento/specializzazione; costi precedentemente sostenuti e non recuperabili.
+
+**D:** ⚠️ Quali sono, nell'ordine, le spiegazioni teoriche della diversificazione, secondo la slide 2 della lezione 14?
+**R:** «Spiegazioni teoriche della diversificazione: 1. **Produzioni congiunte ed economie di scopo** 2. Approccio ***demand-side*** 3. Approccio ***supply-side***» (slide 2). Per la docente sono «tre concetti importanti»: prima la produzione congiunta ed economia di scopo, poi due approcci «di cui si parla nella letteratura teorica, nella letteratura accademica» ([00:01:03]–[00:01:54]). ⚠️ La prima voce è l'economia di **scopo**, non di **scala** (lezione 10). La domanda 1 del test le chiama tutte «approccio teorico» e vi aggiunge l'intrusa «digitalizzazione».
+**Opzione:** Produzioni congiunte ed economie di scopo; approccio demand-side; approccio supply-side.
+**Distrattori:**
+- Produzioni congiunte ed economie di scala; approccio demand-side; approccio supply-side.
+- Caratteri desiderati dell'output; tecnologia del processo; organizzazione della produzione/erogazione.
+- Search goods.
+
+**D:** ⚠️ Quale tra approccio supply-side, digitalizzazione, approccio demand-side e produzioni congiunte ed economie di scopo non è un approccio teorico alla diversificazione, secondo il test della lezione 14 (domanda 1)?
+**R:** «**Digitalizzazione**». Le spiegazioni teoriche della diversificazione della slide 2 sono tre, nell'ordine: «1. Produzioni congiunte ed economie di scopo 2. Approccio *demand-side* 3. Approccio *supply-side*» ([00:01:03]–[00:01:54]). La digitalizzazione compare nel corso nelle lezioni 01, 02 e 08, come fenomeno tecnologico, mai come spiegazione della diversificazione. ⚠️ La domanda è **negativa**, e chiama «approccio teorico» quelle che la slide chiama «spiegazioni teoriche». Distrattori del test: «approccio supply-side», «approccio demand-side», «produzioni congiunte ed economie di scopo», cioè la terza, la seconda e la prima spiegazione.
+**Opzione:** Digitalizzazione.
+**Distrattori:**
+- Approccio supply-side.
+- Approccio demand-side.
+- Produzioni congiunte ed economie di scopo.
+
+**D:** ⚠️ Quando vi è convenienza a diversificare, secondo la spiegazione delle produzioni congiunte ed economie di scopo della slide 3 della lezione 14?
+**R:** «Vi è convenienza a diversificare quando, dati 2 output x e y, il costo C della loro **produzione congiunta** è **inferiore** alla **somma** dei costi della loro **produzione disgiunta**: C (x, y) < C (x) + C (y)» (slide 3). Per la docente la produzione disgiunta è quella in cui si produce «in un momento il prodotto X in un altro momento il prodotto Y», oppure in cui i due prodotti li fanno «due aziende differenti», e risulta più costosa ([00:01:54]–[00:02:53]). ⚠️ Il segno: la produzione congiunta costa **meno** della somma delle disgiunte.
+**Opzione:** Quando, dati 2 output x e y, il costo C della loro produzione congiunta è inferiore alla somma dei costi della loro produzione disgiunta: C (x, y) < C (x) + C (y).
+**Distrattori:**
+- Quando, dati 2 output x e y, il costo C della loro produzione congiunta è superiore alla somma dei costi della loro produzione disgiunta: C (x, y) > C (x) + C (y).
+- Combinazioni produttive in cui una singola risorsa produttiva risulta eccedente perché non può essere ridotta tecnicamente (risorse umane o risorse fisiche).
+- Se il livello minimo di diversificazione richiesta sia inferiore o superiore alla capacità di diversificazione dell'intermediario.
+
+**D:** ⚠️ Qual è il vantaggio competitivo delle produzioni congiunte, secondo la slide 3 della lezione 14?
+**R:** «Vantaggio competitivo: la possibilità di collocare **entrambi** i prodotti **a minor prezzo o con maggior profitto** sui rispettivi mercati» (slide 3, in grassetto). La docente lo lega alle strategie di business: si può vendere a un costo minore dei concorrenti, «e quindi vado ad utilizzare la strategia cost leadership», oppure lasciare il prezzo uguale o aumentarlo, con posizionamento e segmentazione, puntando sulla qualità. Il costo scende, il prezzo resta stabile e «il margine, il mio profitto aumenta» ([00:02:53]–[00:04:09]). ⚠️ Sono **entrambi** i prodotti, e i due rami sono legati da «**o**».
+**Opzione:** La possibilità di collocare entrambi i prodotti a minor prezzo o con maggior profitto sui rispettivi mercati.
+**Distrattori:**
+- La possibilità di collocare soltanto il prodotto principale a minor prezzo o con maggior profitto sul proprio mercato.
+- Ridotta esposizione alla price competition.
+- Se cedibili, vengono vendute sul mercato e quindi trasformate in risorse finanziarie.
+
+**D:** ⚠️ Da dove deriva la convenienza della produzione congiunta, secondo la slide 3 della lezione 14?
+**R:** «La convenienza dalla produzione congiunta deriva dalle **economie di costo (economie di raggio d'azione o *scope economies*)**: le 2 produzioni **impiegano e condividono fattori produttivi comuni (*shared factors*)**» (slide 3, «dalla» così). Il punto successivo aggiunge: «La possibilità di impiegare lo stesso fattore produttivo in più processi o per più output consente una **maggiore ripartizione del suo costo**». La docente le chiama «quindi economie di scopo». L'esempio è il personale: se le stesse persone erogano i servizi 1, 2 e 3, il costo di ogni servizio scende rispetto a quando ne erogano uno solo ([00:04:09]–[00:05:27]). ⚠️ I fattori sono **condivisi**, non distinti né dedicati a un solo output (domanda 2 del test).
+**Opzione:** Dalle economie di costo (economie di raggio d'azione o scope economies): le 2 produzioni impiegano e condividono fattori produttivi comuni (shared factors).
+**Distrattori:**
+- Dalle economie di costo (economie di raggio d'azione o scope economies): le 2 produzioni impiegano fattori produttivi distinti, ciascuno specializzato per un solo output.
+- Non solo barriere normative all'entrata ma anche resource position barrier; le risorse hanno un ruolo centrale e primario nella diversificazione d'impresa.
+- Innesco esogeno della diversificazione (mutamenti della domanda, cambiamenti ambientali): necessità anche minima di trasformazione dell'intermediario finanziario per la sopravvivenza.
+
+**D:** ⚠️ Di che cosa si tratta quando la produzione di 2 prodotti/servizi impiega e condivide fattori produttivi comuni, secondo il test della lezione 14 (domanda 2)?
+**R:** «**Economie di scopo**». La slide 3, sotto il titolo «Produzioni congiunte ed economie di scopo», dice che la convenienza della produzione congiunta deriva dalle «economie di costo (economie di raggio d'azione o *scope economies*): le 2 produzioni impiegano e condividono fattori produttivi comuni (*shared factors*)». La docente: «economie di raggio d'azione o scope economies, quindi economie di scopo» ([00:04:09]–[00:04:32]). ⚠️ La trappola è «**economie di scala**», della lezione 10: vengono dall'aumento delle **dimensioni**, che abbassa i costi unitari, non dalla condivisione dei fattori fra più output. Distrattori del test: «economie di scala», «maggiore soddisfazione dei clienti», «maggiore soddisfazione dei dipendenti». La soddisfazione dei dipendenti non compare nello strato di testo dei 30 deck né nei 20 transcript disponibili.
+**Opzione:** Economie di scopo.
+**Distrattori:**
+- Economie di scala.
+- Maggiore soddisfazione dei clienti.
+- Maggiore soddisfazione dei dipendenti.
+
+**D:** ⚠️ Come descrive la slide 4 della lezione 14 l'approccio demand-side alla diversificazione?
+**R:** «Approccio *demand-side* Innesco **esogeno** della diversificazione (mutamenti della domanda, cambiamenti ambientali) -> necessità **anche minima** di trasformazione dell'intermediario finanziario **per la sopravvivenza**» (slide 4). La docente: si analizza l'ambiente esterno per capire quali aree strategiche potrebbero diventare convenienti. L'azienda deve fare «almeno una minima trasformazione per la sopravvivenza», perché le esigenze dei clienti cambiano ([00:05:36]–[00:06:34]). ⚠️ La trasformazione «**massima**» è del *supply-side*: qui basta che sia «anche minima».
+**Opzione:** Innesco esogeno della diversificazione (mutamenti della domanda, cambiamenti ambientali): necessità anche minima di trasformazione dell'intermediario finanziario per la sopravvivenza.
+**Distrattori:**
+- Innesco esogeno della diversificazione (mutamenti della domanda, cambiamenti ambientali): la struttura dell'intermediario che permette la trasformazione massima.
+- Se non sono sufficienti: apporto di finanza esterna (debito o/e capitale proprio); acquisizione di risorse (fattori) utili per la formazione delle combinazioni produttive della nuova ASA.
+- La disponibilità delle risorse fungibili è la condizione necessaria per la diversificazione; i costi della risorsa condivisa per diverse ASA sono il driver della convenienza.
+
+**D:** ⚠️ Di che cosa parliamo quando si tratta di un innesco esogeno della diversificazione, causato da mutamenti della domanda e cambiamenti ambientali, secondo il test della lezione 14 (domanda 3)?
+**R:** «**Approccio demand-side**». Slide 4: «Approccio *demand-side* Innesco esogeno della diversificazione (mutamenti della domanda, cambiamenti ambientali) -> necessità anche minima di trasformazione dell'intermediario finanziario per la sopravvivenza». La docente: è l'approccio «legato al lato domanda», che considera i mutamenti della domanda e i cambiamenti dell'ambiente esterno ([00:05:36]–[00:06:10]). ⚠️ **Esogeno = demand-side, endogeno = supply-side**: la domanda 4 ha la stessa batteria e la chiave opposta. Distrattori del test: «approccio supply-side», «economie di scala» (lezione 10), «produzioni congiunte ed economie di scopo». La piattaforma scrive «innesco esogeno […] causati».
+**Opzione:** Approccio demand-side.
+**Distrattori:**
+- Approccio supply-side.
+- Economie di scala.
+- Produzioni congiunte ed economie di scopo.
+
+**D:** ⚠️ Come descrive la slide 4 della lezione 14 l'approccio supply-side alla diversificazione?
+**R:** «Approccio *supply-side*: Innesco **endogeno** della diversificazione -> la stessa impresa **può generare** la disponibilità sia di **nuove risorse prima non possedute**, sia di **risorse già possedute e liberate** dai processi di **reingegnerizzazione** e di **sostituzione tecnologica** -> la struttura dell'intermediario che permette la trasformazione **massima**» (slide 4). La docente: le risorse umane si liberano quando un tipo di lavoro passa a macchine, computer e software, e il tempo liberato va a un altro prodotto o servizio, perché «è l'azienda stessa che poi inventa, che spinge». La trasformazione può essere «anche radicale, quindi l'innovazione radicale» ([00:06:34]–[00:07:58]). ⚠️ La necessità «anche minima» per la sopravvivenza è del *demand-side*.
+**Opzione:** Innesco endogeno della diversificazione: la stessa impresa può generare la disponibilità sia di nuove risorse prima non possedute, sia di risorse già possedute e liberate dai processi di reingegnerizzazione e di sostituzione tecnologica; la struttura dell'intermediario che permette la trasformazione massima.
+**Distrattori:**
+- Innesco endogeno della diversificazione: la stessa impresa può generare la disponibilità sia di nuove risorse prima non possedute, sia di risorse già possedute e liberate dai processi di reingegnerizzazione e di sostituzione tecnologica; necessità anche minima di trasformazione dell'intermediario finanziario per la sopravvivenza.
+- Quando, dati 2 output x e y, il costo C della loro produzione congiunta è inferiore alla somma dei costi della loro produzione disgiunta: C (x, y) < C (x) + C (y).
+- Dalla misurabilità oggettiva: materiale (es. spazio) o immateriale (es. informazioni e competenze).
+
+**D:** ⚠️ Di che cosa parliamo nel caso di un innesco endogeno della diversificazione, quando l'impresa stessa genera la disponibilità sia di nuove risorse, sia di risorse già possedute e liberate dai processi di reingegnerizzazione e di sostituzione tecnologica, secondo il test della lezione 14 (domanda 4)?
+**R:** «**Approccio supply-side**». Slide 4: «Approccio *supply-side*: Innesco endogeno della diversificazione -> la stessa impresa può generare la disponibilità sia di nuove risorse prima non possedute, sia di risorse già possedute e liberate dai processi di reingegnerizzazione e di sostituzione tecnologica». La docente: un innesco «interno», in cui «è l'azienda stessa che poi inventa, che spinge» ([00:06:34]–[00:07:29]). ⚠️ È lo specchio della domanda 3, con la stessa batteria: **endogeno = supply-side**. La domanda scrive «genera» per «può generare» e toglie «prima non possedute». Distrattori del test: «economie di scala» (lezione 10), «approccio demand-side», «produzioni congiunte ed economie di scopo».
+**Opzione:** Approccio supply-side.
+**Distrattori:**
+- Economie di scala.
+- Approccio demand-side.
+- Produzioni congiunte ed economie di scopo.
+
+**D:** ⚠️ Che cosa occorre valutare, secondo la frase in maiuscolo della slide 4 della lezione 14?
+**R:** «LA NECESSITA' DI VALUTAZIONE SE IL **LIVELLO MINIMO** DI DIVERSIFICAZIONE **RICHIESTA** SIA INFERIORE O SUPERIORE ALLA **CAPACITA'** DI DIVERSIFICAZIONE **DELL'INTERMEDIARIO**» (slide 4). Per la docente è «la cosa essenziale»: da un lato il grado di diversificazione che si può effettuare «grazie alle risorse nel nostro possesso», dall'altro le richieste dell'ambiente esterno. Se l'azienda non soddisfa «neanche minimamente» le richieste del mercato, si tratta «della necessità dell'uscita dal mercato, della morte dell'azienda» ([00:07:58]–[00:09:16]). ⚠️ Il confronto è fra la diversificazione **richiesta** e la **capacità dell'intermediario**, non con i concorrenti.
+**Opzione:** Se il livello minimo di diversificazione richiesta sia inferiore o superiore alla capacità di diversificazione dell'intermediario.
+**Distrattori:**
+- Se il livello minimo di diversificazione richiesta sia inferiore o superiore al livello di diversificazione dei concorrenti.
+- La possibilità di collocare entrambi i prodotti a minor prezzo o con maggior profitto sui rispettivi mercati.
+- Combinazioni produttive in cui una singola risorsa produttiva risulta eccedente perché non può essere ridotta tecnicamente (risorse umane o risorse fisiche).
+
+**D:** ⚠️ Quale abbinamento fra approccio, filone teorico e tipo di diversificazione è corretto, secondo le slide 5 e 6 della lezione 14?
+**R:** Slide 5: «Approccio *demand-side (industrial organization economics)* – *la diversificazione "trainata"*»; slide 6: «Approccio supply-side (teorie organizzative) – la diversificazione "spinta"». La docente: la diversificazione trainata è quella «richiesta dal mercato, dal lato domanda» ([00:09:16]); la spinta è «pensata, creata, voluta dall'organizzazione stessa» ([00:14:22]). ⚠️ Nella lezione 13 i motivi della diversificazione erano una «spinta da fuori» e una «spinta dall'interno». Qui «spinta» è solo il *supply-side*, mentre il *demand-side*, mosso dall'esterno, è «trainato». Gli assi sono due, il filone teorico e l'aggettivo: la corretta è giusta su entrambi.
+**Opzione:** Demand-side: industrial organization economics, diversificazione trainata; supply-side: teorie organizzative, diversificazione spinta.
+**Distrattori:**
+- Demand-side: industrial organization economics, diversificazione spinta; supply-side: teorie organizzative, diversificazione trainata.
+- Demand-side: teorie organizzative, diversificazione trainata; supply-side: industrial organization economics, diversificazione spinta.
+- Demand-side: teorie organizzative, diversificazione trainata; supply-side: teorie organizzative, diversificazione spinta.
+
+**D:** ⚠️ Come si leggono struttura, condotta e performance nell'approccio demand-side, secondo la slide 5 della lezione 14?
+**R:** «*Struttura-condotta-performance* • **Struttura del settore come variabile esogena** (confini e composizione erano determinati e regolati dagli ordinamenti bancari – *industry view of the firm*) • **Condotta e performance coma variabili endogene e dipendenti**» (slide 5, «coma» così). È il paradigma «di cui ne abbiamo già parlato nelle lezioni precedenti» ([00:09:35]; lezione 06). Per la docente struttura, dinamiche e trend del settore sono le variabili esogene che influenzano il comportamento organizzativo, e il settore bancario «è in qualche modo regolato anche dalle autorità». Condotta e performance sono endogene e «dipendenti dalla struttura esterna» ([00:09:44]–[00:11:25]). ⚠️ Esogena è la **struttura**, endogene sono **condotta e performance**. Con il progresso degli studi di *industrial organization* è la struttura a diventare endogena.
+**Opzione:** Struttura del settore come variabile esogena (confini e composizione erano determinati e regolati dagli ordinamenti bancari – industry view of the firm); condotta e performance come variabili endogene e dipendenti.
+**Distrattori:**
+- Struttura del settore come variabile endogena (confini e composizione erano determinati e regolati dagli ordinamenti bancari – industry view of the firm); condotta e performance come variabili esogene e indipendenti.
+- La strategia e la performance organizzativa (anche la diversificazione) dipendono dalla capacità-possibilità dell'impresa di allineare la struttura interna (risorse e organizzazione) alle mutevoli condizioni dell'ambiente.
+- Dalle economie di costo (economie di raggio d'azione o scope economies): le 2 produzioni impiegano e condividono fattori produttivi comuni (shared factors).
+
+**D:** ⚠️ Quali sono le due cause dell'indebolimento dell'esogeneità della struttura, e che cosa comporta la prima, secondo la slide 5 della lezione 14?
+**R:** «Indebolimento dell'esogeneità della struttura: 1. **Deregolamentazione degli ordinamenti bancari vigenti**: • Confini del settore più indeterminati • Barriere normative all'entrata e all'uscita ridotte 2. **Progresso degli studi di *industrial organization*** (mercati contendibili e economie di scopo)» (slide 5). Per la docente negli ultimi anni c'è stata questa deregolamentazione, e si è indebolito «quel legame con l'ambiente esterno»: non c'è più «così tanta rigidità del settore» ([00:11:25]–[00:12:26]). ⚠️ Le barriere normative si riducono **all'entrata e all'uscita**, e la seconda causa è un progresso degli **studi**, non della tecnologia.
+**Opzione:** 1. Deregolamentazione degli ordinamenti bancari vigenti: confini del settore più indeterminati, barriere normative all'entrata e all'uscita ridotte; 2. progresso degli studi di industrial organization (mercati contendibili e economie di scopo).
+**Distrattori:**
+- 1. Deregolamentazione degli ordinamenti bancari vigenti: confini del settore più indeterminati, barriere normative all'entrata e all'uscita ridotte; 2. progresso delle tecnologie di digitalizzazione dei prodotti e dei servizi bancari.
+- Eccedenza e disponibilità; specificità, fungibilità e correlati costi di conversione; cedibilità, vendibilità e correlati costi di transazione.
+- Miglioramento della performance reddituale: l'ingresso nella nuova ASA è conveniente e migliorativo in termini di ROE aggiustato per il rischio rispetto al posizionamento precedente.
+
+**D:** ⚠️ Che cosa comporta il progresso degli studi di industrial organization (mercati contendibili e economie di scopo), secondo la slide 5 della lezione 14?
+**R:** Slide 5, sotto il punto 2 dell'indebolimento dell'esogeneità della struttura: «• **Struttura come variabile endogena** (non dominata dalla struttura del settore) • **Maggior grado di libertà del comportamento strategico** (imprese multiprodotto e multisettore) • **Barriere di mobilità**», con le due voci delle barriere di mobilità sotto l'ultimo punto. La docente dice «non dominata **esclusivamente** dalla struttura del settore, ma dipendente anche proprio dalla struttura organizzativa» ([00:12:41]). La libertà vale soprattutto per le imprese attive in settori affini, come finanza, banca e assicurazioni ([00:12:54]–[00:13:28]). ⚠️ Con il progresso degli studi è la **struttura** a diventare **endogena**: nel paradigma struttura-condotta-performance era la variabile esogena.
+**Opzione:** Struttura come variabile endogena (non dominata dalla struttura del settore); maggior grado di libertà del comportamento strategico (imprese multiprodotto e multisettore); barriere di mobilità.
+**Distrattori:**
+- Struttura come variabile esogena (dominata dalla struttura del settore); maggior grado di libertà del comportamento strategico (imprese multiprodotto e multisettore); barriere di mobilità.
+- Struttura del settore come variabile esogena (confini e composizione erano determinati e regolati dagli ordinamenti bancari – industry view of the firm); condotta e performance come variabili endogene e dipendenti.
+- Flessibilità/convertibilità delle combinazioni attuate (specificità e specializzazione delle risorse) -> cambiamento delle funzioni d'uso delle risorse disponibili.
+
+**D:** ⚠️ Quali sono le due voci delle barriere di mobilità, secondo la slide 5 della lezione 14?
+**R:** «• Barriere di mobilità: • Possibilità di diversificare oltre i confini del **gruppo strategico di origine endogena** – difficoltà a modificare combinazioni **prodotto-mercato-risorse** • Grado di specificità delle risorse come **impedimento** per la diversificazione» (slide 5, terzo effetto del progresso degli studi di *industrial organization*). La docente: le barriere di mobilità sono diverse rispetto a quando c'era uno stretto legame con il settore ([00:13:28]). La specificità delle risorse in alcuni casi è un vantaggio competitivo, in altri impedisce la diversificazione, perché le risorse specifiche servono a fatica processi produttivi diversi ([00:13:51]–[00:14:22]). ⚠️ Per la slide la specificità delle risorse è un **impedimento**, non uno stimolo.
+**Opzione:** Possibilità di diversificare oltre i confini del gruppo strategico di origine endogena – difficoltà a modificare combinazioni prodotto-mercato-risorse; grado di specificità delle risorse come impedimento per la diversificazione.
+**Distrattori:**
+- Possibilità di diversificare oltre i confini del gruppo strategico di origine endogena – difficoltà a modificare combinazioni prodotto-mercato-risorse; grado di specificità delle risorse come stimolo alla diversificazione.
+- 1. Deregolamentazione degli ordinamenti bancari vigenti: confini del settore più indeterminati, barriere normative all'entrata e all'uscita ridotte; 2. progresso degli studi di industrial organization (mercati contendibili e economie di scopo).
+- Se il livello minimo di diversificazione richiesta sia inferiore o superiore alla capacità di diversificazione dell'intermediario.
+
+**D:** ⚠️ Che cosa afferma la resource view of the firm, su cui poggia l'approccio supply-side, secondo la slide 6 della lezione 14?
+**R:** «*Resource view of the firm* – la strategia e la performance organizzativa (**anche la diversificazione**) dipendono dalla capacità-possibilità dell'impresa di "**allineare**" la **struttura interna** (risorse e organizzazione) **alle** mutevoli condizioni dell'ambiente *organizational allignment skill*» (slide 6, «allignment» così). La docente aggiunge i processi organizzativi alla struttura interna, e spiega l'*organizational alignment skill* come «la capacità dell'organizzazione di allinearsi, di trasformarsi» ([00:14:54]–[00:15:37]). ⚠️ È la struttura interna ad allinearsi all'ambiente, non il contrario.
+**Opzione:** La strategia e la performance organizzativa (anche la diversificazione) dipendono dalla capacità-possibilità dell'impresa di allineare la struttura interna (risorse e organizzazione) alle mutevoli condizioni dell'ambiente.
+**Distrattori:**
+- La strategia e la performance organizzativa (anche la diversificazione) dipendono dalla capacità-possibilità dell'impresa di adattare le mutevoli condizioni dell'ambiente alla propria struttura interna.
+- Struttura del settore come variabile esogena (confini e composizione erano determinati e regolati dagli ordinamenti bancari – industry view of the firm); condotta e performance come variabili endogene e dipendenti.
+- Possibilità di diversificare oltre i confini del gruppo strategico di origine endogena – difficoltà a modificare combinazioni prodotto-mercato-risorse; grado di specificità delle risorse come impedimento per la diversificazione.
+
+**D:** ⚠️ Quali barriere contano nell'approccio supply-side, e che ruolo hanno le risorse, secondo la slide 6 della lezione 14?
+**R:** «• Non solo barriere normative all'entrata ma anche ***resourse position barrier*** • Risorse hanno un **ruolo centrale e primario** nella diversificazione d'impresa» (slide 6, «resourse» così). Per la docente le *resource position barrier* sono «le barriere legate proprio alle risorse necessarie per operare, per performare in un determinato settore, per erogare un determinato servizio» ([00:15:37]–[00:16:04]). ⚠️ «**Non solo**… **ma anche**»: le barriere normative restano. Il ruolo delle risorse è **centrale e primario**.
+**Opzione:** Non solo barriere normative all'entrata ma anche resource position barrier; le risorse hanno un ruolo centrale e primario nella diversificazione d'impresa.
+**Distrattori:**
+- Non solo barriere normative all'entrata ma anche resource position barrier; le risorse hanno un ruolo accessorio e secondario nella diversificazione d'impresa.
+- 1. Deregolamentazione degli ordinamenti bancari vigenti: confini del settore più indeterminati, barriere normative all'entrata e all'uscita ridotte; 2. progresso degli studi di industrial organization (mercati contendibili e economie di scopo).
+- Costo di adattamento della risorsa alla nuova funzione: di adattamento/specializzazione; costi precedentemente sostenuti e non recuperabili.
+
+**D:** ⚠️ Qual è la catena che va dal cambiamento ambientale al riposizionamento nel mercato, secondo la slide 6 della lezione 14?
+**R:** «Cambiamento ambientale (minacce e opportunità) **->** **crisi** (diminuzione dell'efficienza delle combinazioni prodotto-mercato-risorse) **->** diminuzione della reddittività **di lungo periodo** **->** **reimpostazione strategica** delle combinazioni (riposizionamento nel mercato)» (slide 6, «reddittività» così). Per la docente la redditività di lungo periodo è «la sostenibilità economica dell'azienda a lungo termine»; di minacce e opportunità «parleremo nelle lezioni successive» ([00:16:04]–[00:16:56]). ⚠️ Cala la redditività **di lungo periodo**, e la crisi è una diminuzione dell'**efficienza** delle combinazioni.
+**Opzione:** Cambiamento ambientale (minacce e opportunità) -> crisi (diminuzione dell'efficienza delle combinazioni prodotto-mercato-risorse) -> diminuzione della redditività di lungo periodo -> reimpostazione strategica delle combinazioni (riposizionamento nel mercato).
+**Distrattori:**
+- Cambiamento ambientale (minacce e opportunità) -> crisi (diminuzione dell'efficienza delle combinazioni prodotto-mercato-risorse) -> diminuzione della redditività di breve periodo -> reimpostazione strategica delle combinazioni (riposizionamento nel mercato).
+- Se non sono sufficienti: apporto di finanza esterna (debito o/e capitale proprio); acquisizione di risorse (fattori) utili per la formazione delle combinazioni produttive della nuova ASA.
+- Risorse molto specializzate che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata.
+
+**D:** ⚠️ In che cosa consiste il successo competitivo nell'approccio supply-side, secondo la slide 6 della lezione 14?
+**R:** «**Il successo competitivo = flessibilità/convertibilità delle combinazioni attuate** (specificità e specializzazione delle risorse) **-> cambiamento delle funzioni d'uso delle risorse disponibili**» (slide 6, in grassetto). La docente: il successo si verifica quando flessibilità e convertibilità delle combinazioni riescono a cambiare la funzione d'uso delle risorse disponibili, che devono poter essere «replicate, utilizzate, allocate» per diversi prodotti e servizi. Specificità e specializzazione delle risorse «riducono poi il grado di diversificazione» ([00:16:56]–[00:17:42]). ⚠️ Il successo è la **flessibilità/convertibilità**, e porta a **cambiare** le funzioni d'uso, non a conservarle.
+**Opzione:** Flessibilità/convertibilità delle combinazioni attuate (specificità e specializzazione delle risorse) -> cambiamento delle funzioni d'uso delle risorse disponibili.
+**Distrattori:**
+- Stabilità/specializzazione delle combinazioni attuate (specificità e specializzazione delle risorse) -> conservazione delle funzioni d'uso delle risorse disponibili.
+- Innesco esogeno della diversificazione (mutamenti della domanda, cambiamenti ambientali): necessità anche minima di trasformazione dell'intermediario finanziario per la sopravvivenza.
+- Produzioni congiunte ed economie di scopo; approccio demand-side; approccio supply-side.
+
+**D:** ⚠️ Che cosa prevede per le risorse finanziarie disponibili o eccedenti la logica del processo decisionale della slide 7 della lezione 14?
+**R:** Nello schema della slide 7 il ramo «Finanziarie» porta a due riquadri affiancati: «Se non sono sufficienti: **apporto di finanza esterna** (debito o/e capitale proprio)» e «**Acquisizione di risorse (fattori)** utili per la formazione delle combinazioni produttive della nuova ASA», da cui una freccia va allo «Sviluppo della nuova ASA obiettivo». La docente: se le risorse finanziarie non bastano ci si rivolge alla finanza esterna, cioè al debito o al capitale proprio degli azionisti. Se ci sono, si acquisiscono nuovi fattori produttivi per entrare nella nuova ASA, «che diventa il nostro obiettivo di sviluppo» ([00:17:42]–[00:19:03]). ⚠️ La restituzione del controvalore monetario ai fornitori finanziari (creditori o/e azionisti) sta nella nota dello schema. Vale solo se mancasse l'ipotesi b, l'accessibilità conveniente di una nuova ASA obiettivo.
+**Opzione:** Se non sono sufficienti: apporto di finanza esterna (debito o/e capitale proprio); acquisizione di risorse (fattori) utili per la formazione delle combinazioni produttive della nuova ASA.
+**Distrattori:**
+- Se non sono sufficienti: restituzione del controvalore monetario ai propri fornitori finanziari (creditori o/e azionisti); acquisizione di risorse (fattori) utili per la formazione delle combinazioni produttive della nuova ASA.
+- La disponibilità delle risorse fungibili è la condizione necessaria per la diversificazione; i costi della risorsa condivisa per diverse ASA sono il driver della convenienza.
+- Dalle economie di costo (economie di raggio d'azione o scope economies): le 2 produzioni impiegano e condividono fattori produttivi comuni (shared factors).
+
+**D:** ⚠️ Che cosa avviene, nella logica del processo decisionale della slide 7 della lezione 14, alle risorse non finanziarie non convenientemente fungibili rispetto alla nuova ASA?
+**R:** Nello schema della slide 7, per le risorse «Non finanziarie» «Occorre accertarne il grado di specializzazione (specificità) rispetto al prodotto, al mercato e/o al processo della nuova ASA». Le «Non convenientemente fungibili rispetto alla nuova ASA» si dividono in «**Cedibili: vengono vendute sul mercato e quindi trasformate in risorse finanziarie**» e «Non cedibili (?)», con il punto interrogativo. Le «Convenientemente fungibili» vanno invece alla «Destinazione alla formazione delle combinazioni produttive della nuova ASA». La docente: le cedibili si vendono, e con le risorse finanziarie si acquistano quelle necessarie alla nuova ASA; le fungibili si riallocano ([00:19:03]–[00:20:35]). ⚠️ La vendita riguarda le **cedibili**. Il destino delle non cedibili lo dice la matrice della slide 13.
+**Opzione:** Se cedibili, vengono vendute sul mercato e quindi trasformate in risorse finanziarie.
+**Distrattori:**
+- Se non cedibili, vengono vendute sul mercato e quindi trasformate in risorse finanziarie.
+- Disponibilità delle risorse prima di essere percepite come risorse eccedenti.
+- Produzioni congiunte ed economie di scopo; approccio demand-side; approccio supply-side.
+
+**D:** ⚠️ Quali sono, nell'ordine, le tre voci della natura delle risorse, secondo la slide 8 della lezione 14?
+**R:** «Natura delle risorse: 1. **Eccedenza e disponibilità** 2. **Specificità, fungibilità e correlati costi di conversione** 3. **Cedibilità, vendibilità e correlati costi di transazione**» (slide 8). La docente: «specificità e quindi fungibilità e correlati costi di conversione di una risorsa specifica in un'altra risorsa specifica», poi «cedibilità e correlati costi di transazione» ([00:20:35]–[00:21:10]). ⚠️ I costi di **conversione** vanno con la fungibilità, quelli di **transazione** con la cedibilità.
+**Opzione:** Eccedenza e disponibilità; specificità, fungibilità e correlati costi di conversione; cedibilità, vendibilità e correlati costi di transazione.
+**Distrattori:**
+- Eccedenza e disponibilità; specificità, fungibilità e correlati costi di transazione; cedibilità, vendibilità e correlati costi di conversione.
+- Caratteri desiderati dell'output; tecnologia del processo; organizzazione della produzione/erogazione.
+- Dalla misurabilità oggettiva: materiale (es. spazio) o immateriale (es. informazioni e competenze).
+
+**D:** ⚠️ Che cosa riguarda l'eccedenza delle risorse, e che cosa richiede, secondo la slide 9 della lezione 14?
+**R:** «Eccedenza **Legame tra risorse e tipo di diversificazione** • Risorse eccedenti (*excess resources*) – capacità produttiva eccedente (*excess capacity*) • Necessità di **complesse azioni organizzative, tecniche e gestionali** (combinazioni di risorse eccedenti per ottenere nuove combinazioni produttive)» (slide 9). Per la docente l'eccedenza «definisce il tipo di diversificazione». Per ricombinare le risorse che si hanno in più servono «competenze importanti come competenze organizzative e tecniche gestionali» ([00:21:12]–[00:22:05]). ⚠️ Le risorse eccedenti si **ricombinano** in nuove combinazioni produttive, con azioni **complesse**.
+**Opzione:** Il legame tra risorse e tipo di diversificazione: risorse eccedenti (excess resources) – capacità produttiva eccedente (excess capacity); necessità di complesse azioni organizzative, tecniche e gestionali (combinazioni di risorse eccedenti per ottenere nuove combinazioni produttive).
+**Distrattori:**
+- Il legame tra risorse e tipo di diversificazione: risorse eccedenti (excess resources) – capacità produttiva eccedente (excess capacity); necessità di complesse azioni organizzative, tecniche e gestionali (riduzione delle risorse eccedenti fino alla capacità produttiva necessaria).
+- Se cedibili, vengono vendute sul mercato e quindi trasformate in risorse finanziarie.
+- Quando, dati 2 output x e y, il costo C della loro produzione congiunta è inferiore alla somma dei costi della loro produzione disgiunta: C (x, y) < C (x) + C (y).
+
+**D:** ⚠️ In base a che cosa si definisce la quantità dei singoli fattori impiegati, secondo la slide 9 della lezione 14?
+**R:** «Definizione della quantità dei singoli fattori impiegati in base a: • **Caratteri desiderati dell'output** • **Tecnologia del processo** • **Organizzazione della produzione/erogazione**» (slide 9). La docente: non basta capire la qualità e la tipologia della risorsa eccedente, bisogna determinarne la **quantità** necessaria. L'esempio è un nuovo servizio di assicurazione: quali risorse umane servono, operatori di sportello o manager e specialisti, e quante ([00:22:05]–[00:23:13]). ⚠️ Le voci sono tre, e l'ultima è l'organizzazione della produzione/erogazione.
+**Opzione:** Caratteri desiderati dell'output; tecnologia del processo; organizzazione della produzione/erogazione.
+**Distrattori:**
+- Caratteri desiderati dell'output; tecnologia del processo; dimensione operativa dell'intermediario.
+- Disponibilità delle risorse prima di essere percepite come risorse eccedenti.
+- Sulla propria immagine/reputazione; differenziazione al livello globale piuttosto che al livello dei singoli prodotti/servizi.
+
+**D:** ⚠️ Da che cosa dipende la misurazione della risorsa eccedente, e con quali esempi, secondo la slide 9 della lezione 14?
+**R:** «Misurazione della risorsa eccedente (dipende dalla **misurabilità oggettiva**: **Materiale - es. spazio** o **immateriale – es. informazioni e competenze**)» (slide 9). La docente: la risorsa materiale è «più misurabile», come gli spazi interni di uffici, sportelli e filiali. Quella immateriale (informazioni, competenze, capacità, *skills*) si misura «in maniera più difficoltosa» e richiede «più strumenti, più sforzi, più impegno» ([00:23:13]–[00:23:58]). ⚠️ Lo spazio è l'esempio **materiale**, informazioni e competenze quello **immateriale**.
+**Opzione:** Dalla misurabilità oggettiva: materiale (es. spazio) o immateriale (es. informazioni e competenze).
+**Distrattori:**
+- Dalla misurabilità oggettiva: materiale (es. informazioni e competenze) o immateriale (es. spazio).
+- La possibilità di collocare entrambi i prodotti a minor prezzo o con maggior profitto sui rispettivi mercati.
+- Economie di scopo.
+
+**D:** ⚠️ Che cos'è la disponibilità delle risorse, secondo la slide 10 della lezione 14?
+**R:** «Disponibilità Combinazioni produttive in cui una **singola** risorsa produttiva risulta eccedente perché **non può essere ridotta tecnicamente** (risorse umane o risorse fisiche): • Competenze professionali non completamente impiegate (es. una parte del tempo di un addetto alla clientela piccole imprese) che non possono essere riallocate in altre combinazioni • Utilizzo di una work station o di un terminale • Disponibilità delle risorse prima di essere percepite come risorse eccedenti» (slide 10). La docente aggiunge che spesso sono costi fissi. Alla cassa della banca servono due dipendenti anche se i clienti non si presentano; la work station o il terminale è il **bancomat** (ATM), disponibile quando nessuno lo usa ([00:23:58]–[00:26:09]). ⚠️ La risorsa risulta eccedente perché non si può **ridurre tecnicamente**, non perché non si possa cedere.
+**Opzione:** Combinazioni produttive in cui una singola risorsa produttiva risulta eccedente perché non può essere ridotta tecnicamente (risorse umane o risorse fisiche).
+**Distrattori:**
+- Combinazioni produttive in cui una singola risorsa produttiva risulta eccedente perché non può essere ceduta sul mercato (risorse umane o risorse fisiche).
+- Risorse molto specializzate che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata.
+- Non solo barriere normative all'entrata ma anche resource position barrier; le risorse hanno un ruolo centrale e primario nella diversificazione d'impresa.
+
+**D:** ⚠️ In che rapporto stanno disponibilità ed eccedenza delle risorse, secondo l'ultimo punto della slide 10 della lezione 14?
+**R:** «Disponibilità delle risorse **prima** di essere percepite come risorse eccedenti» (slide 10, terzo punto). La docente: «Quindi c'è comunque la differenza tra eccedenza e disponibilità» ([00:26:09]–[00:26:22]). ⚠️ La disponibilità viene **prima** che le risorse siano percepite come eccedenti: le due cose non coincidono.
+**Opzione:** Disponibilità delle risorse prima di essere percepite come risorse eccedenti.
+**Distrattori:**
+- Disponibilità delle risorse dopo essere state percepite come risorse eccedenti.
+- Disponibilità delle risorse soltanto quando sono percepite come risorse eccedenti.
+
+**D:** ⚠️ Come si chiama la risorsa che può essere impiegata per molteplici funzioni d'uso e in una gamma più ampia e diversificata di combinazioni produttive, secondo il test della lezione 14 (domanda 5)?
+**R:** «**Fungibile**». È la slide 11 alla lettera: «La risorsa è fungibile quando può essere impiegata per molteplici funzioni d'uso e in una gamma più ampia e diversificata di combinazioni produttive». La docente: si può riutilizzare e riallocare, «la sua natura è fungibile» ([00:26:50]–[00:27:11]). ⚠️ Gli altri tre aggettivi hanno un significato proprio nella lezione. «Specializzata» è la definizione opposta della stessa slide: caratteri specifici per l'uso che se ne fa. «Disponibile» ed «eccedente» vengono dalla prima voce della natura delle risorse, eccedenza e disponibilità (slide 8–10). Distrattori del test: «specializzata», «disponibile», «eccedente».
+**Opzione:** Fungibile.
+**Distrattori:**
+- Specializzata.
+- Disponibile.
+- Eccedente.
+
+**D:** ⚠️ Come si chiama, secondo la slide 11 della lezione 14, la risorsa la cui definizione dei caratteri è specifica per l'uso che se ne fa (funzione d'uso)?
+**R:** «**La risorsa è specializzata** (rispetto al prodotto, mercato, processo, combinazione produttiva) quando la definizione dei sui caratteri è specifica per l'uso che se ne fa (funzione d'uso)» (slide 11, «sui» così). Per la docente ha una funzione d'uso molto specifica e «in maniera molto difficile può essere utilizzata per un'altra funzione d'uso» ([00:26:22]–[00:26:50]). ⚠️ È la definizione **opposta** a quella di risorsa **fungibile**, nella stessa slide (domanda 5 del test). Disponibile ed eccedente vengono dalla prima voce della natura delle risorse (slide 8–10).
+**Opzione:** Specializzata.
+**Distrattori:**
+- Fungibile.
+- Disponibile.
+- Eccedente.
+
+**D:** ⚠️ Che cos'è il costo di conversione, e quali voci comprende, secondo la slide 11 della lezione 14?
+**R:** «**Costo di conversione** – costo di adattamento della risorsa alla nuova funzione: • di adattamento/specializzazione • costi precedentemente sostenuti e non recuperabili», con l'esempio «Layout di un ufficio VS competenze professionali» (slide 11). La docente parla dell'addetto allo sportello, le cui attività sono passate in gran parte a internet banking e mobile banking. Si può riqualificare con corsi di formazione, affiancamento o un coach, e questi sono i costi di adattamento; i costi della sua formazione iniziale sono già spesi e non si recuperano. Il layout di un ufficio si adatta «in maniera più facile» delle competenze professionali, che richiedono «più sforzo, più tempo e più costi» ([00:27:11]–[00:30:01]). ⚠️ I costi di **transazione** (contrattualizzazione, controllo) sono della cedibilità (slide 12), non della conversione.
+**Opzione:** Costo di adattamento della risorsa alla nuova funzione: di adattamento/specializzazione; costi precedentemente sostenuti e non recuperabili.
+**Distrattori:**
+- Costo di adattamento della risorsa alla nuova funzione: di adattamento/specializzazione; costi di transazione (contrattualizzazione, controllo).
+- Miglioramento della performance reddituale: l'ingresso nella nuova ASA è conveniente e migliorativo in termini di ROE aggiustato per il rischio rispetto al posizionamento precedente.
+- Flessibilità/convertibilità delle combinazioni attuate (specificità e specializzazione delle risorse) -> cambiamento delle funzioni d'uso delle risorse disponibili.
+
+**D:** ⚠️ Che cosa dice la slide 11 della lezione 14 delle risorse non fungibili o convertibili?
+**R:** «Le risorse non fungibili o convertibili **devono essere cedute**» (slide 11, ultima riga). La docente: «le risorse non fungibili e non convertibili non possono essere adattate, non possono essere reallocate e quindi in questo caso dovrebbero essere cedute» ([00:30:01]). ⚠️ Nelle opzioni vale la slide, che dice «devono»; la docente dice «dovrebbero». Non si reimpiegano né si riconvertono: si cedono.
+**Opzione:** Devono essere cedute.
+**Distrattori:**
+- Devono essere reimpiegate.
+- Devono essere riconvertite.
+
+**D:** ⚠️ Quando una risorsa non è cedibile, secondo la slide 12 della lezione 14?
+**R:** «La risorsa non è cedibile quando: • **Non esiste una domanda, non esistono concreti acquirenti** (es. programmi software progettati per processi e prodotti particolari) • La risorsa rappresenta un **fattore di vantaggio strategico e competitivo esclusivo** e non può essere trasferita a terzi competitori effettivi o potenziali (es. impianto informativo, informativo e decisionale di un sistema di *risk management*) • **Difficoltà di contrattualizzazione**: trasferimento della proprietà, vendita del diritto di uso o di accesso (es. cessione di proprietà) + costi di transazione (contrattualizzazione, controllo)» (slide 12). Per la docente vendere un sistema del genere a un concorrente significherebbe vendere il proprio vantaggio competitivo e perdere il posizionamento sul mercato ([00:30:47]–[00:32:32]). ⚠️ I costi di **transazione** sono della cedibilità, quelli di **conversione** della fungibilità.
+**Opzione:** Non esiste una domanda, non esistono concreti acquirenti (es. programmi software progettati per processi e prodotti particolari); la risorsa rappresenta un fattore di vantaggio strategico e competitivo esclusivo e non può essere trasferita a terzi competitori effettivi o potenziali (es. impianto informativo, informativo e decisionale di un sistema di risk management); difficoltà di contrattualizzazione: trasferimento della proprietà, vendita del diritto di uso o di accesso (es. cessione di proprietà) + costi di transazione (contrattualizzazione, controllo).
+**Distrattori:**
+- Non esiste una domanda, non esistono concreti acquirenti (es. programmi software progettati per processi e prodotti particolari); la risorsa rappresenta un fattore di vantaggio strategico e competitivo esclusivo e non può essere trasferita a terzi competitori effettivi o potenziali (es. impianto informativo, informativo e decisionale di un sistema di risk management); costi di conversione (di adattamento/specializzazione) superiori al valore della risorsa.
+- Struttura come variabile endogena (non dominata dalla struttura del settore); maggior grado di libertà del comportamento strategico (imprese multiprodotto e multisettore); barriere di mobilità.
+- La strategia e la performance organizzativa (anche la diversificazione) dipendono dalla capacità-possibilità dell'impresa di allineare la struttura interna (risorse e organizzazione) alle mutevoli condizioni dell'ambiente.
+
+**D:** ⚠️ Che cosa si fa delle risorse fungibili rispetto alla nuova ASA ma non cedibili, secondo la matrice della slide 13 della lezione 14?
+**R:** «**Solo reimpiego**». Nella matrice fungibilità × cedibilità della slide 13 la casella fungibilità sì / cedibilità no è «Risorse non specializzate che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata — Solo reimpiego». La docente: non si possono vendere, quindi si reimpiegano e si riallocano, e qui si parla «della conversione, di rispecializzazione magari della risorsa» ([00:33:10]–[00:33:33]). ⚠️ La **fungibilità** decide il reimpiego, la **cedibilità** la vendita. Le altre caselle sono vendita o reimpiego (sì/sì), solo vendita (no/sì), eliminazione (no/no).
+**Opzione:** Solo reimpiego.
+**Distrattori:**
+- Solo vendita.
+- Eliminazione.
+- Vendita o reimpiego.
+
+**D:** ⚠️ Che cosa si fa delle risorse non fungibili rispetto alla nuova ASA ma cedibili, secondo la matrice della slide 13 della lezione 14?
+**R:** «**Solo vendita**». Nella matrice della slide 13 la casella fungibilità no / cedibilità sì è «Risorse molto specializzate, non più utili e perciò cedibili senza rischio strategico — Solo vendita». La docente: la risorsa non può essere usata per altri scopi dell'organizzazione, ma è cedibile, quindi si vende per ottenere le risorse finanziarie con cui acquistare quelle necessarie alla nuova ASA ([00:33:33]–[00:34:06]). ⚠️ Sono risorse **molto specializzate**, cedibili **senza rischio strategico**.
+**Opzione:** Solo vendita.
+**Distrattori:**
+- Solo reimpiego.
+- Eliminazione.
+- Vendita o reimpiego.
+
+**D:** ⚠️ Quali risorse vanno eliminate, secondo la matrice fungibilità × cedibilità della slide 13 della lezione 14?
+**R:** È la casella fungibilità no / cedibilità no: «Risorse **molto specializzate** che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata — **Eliminazione**» (slide 13). La docente: non si possono né riutilizzare né vendere, quindi «la andiamo a eliminare o comunque conservare all'interno delle organizzazioni come un patrimonio», per esempio di conoscenze e competenze ([00:34:06]–[00:34:59]). La conservazione è un'aggiunta a voce. ⚠️ La casella accanto ha la stessa coda con «risorse **non** specializzate», ed è il **solo reimpiego**.
+**Opzione:** Risorse molto specializzate che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata.
+**Distrattori:**
+- Risorse non specializzate che sono fonte di vantaggio strategico esclusivo, o la cui cessione non può essere contrattualizzata.
+- Demand-side: industrial organization economics, diversificazione trainata; supply-side: teorie organizzative, diversificazione spinta.
+- L'assoluta prevalenza della marca (brand) sui marchi (trade marks): la banca comunica se stessa in quanto organizzazione di risorse e di capacità eccellenti.
+
+**D:** ⚠️ Qual è la condizione necessaria per la diversificazione, e che cosa sono i costi della risorsa condivisa per diverse ASA, secondo la slide 13 della lezione 14?
+**R:** «• **La disponibilità delle risorse fungibili è la condizione necessaria per la diversificazione** • **I costi della risorsa condivisa per diverse ASA -> driver della convenienza**» (slide 13, in grassetto sotto la matrice). La docente non legge le due frasi: chiude la lezione con la matrice ([00:34:59]). ⚠️ La condizione necessaria riguarda le risorse **fungibili**, non quelle specializzate. La risorsa condivisa richiama gli *shared factors* delle economie di scopo (slide 3).
+**Opzione:** La disponibilità delle risorse fungibili è la condizione necessaria per la diversificazione; i costi della risorsa condivisa per diverse ASA sono il driver della convenienza.
+**Distrattori:**
+- La disponibilità delle risorse specializzate è la condizione necessaria per la diversificazione; i costi della risorsa condivisa per diverse ASA sono il driver della convenienza.
+- Demand-side: industrial organization economics, diversificazione trainata; supply-side: teorie organizzative, diversificazione spinta.
+- Soltanto in parte con il concreto utilizzo, ma devono essere in parte creduti (quali sarebbero state le condizioni di altre banche?).
