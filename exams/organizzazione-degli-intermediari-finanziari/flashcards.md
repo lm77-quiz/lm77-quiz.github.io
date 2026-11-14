@@ -3485,3 +3485,279 @@
 - I segmenti (S1, S2, S3…) e le strategie: leadership dei costi, differenziazione del prodotto, segmentazione.
 - I modelli di business (1, 2, 3…) e i prodotti e servizi con le loro varianti (A1, A2, A3…, B1, B2, B3…).
 - I segmenti (S1, S2, S3…) e i prodotti e servizi con le loro varianti (A1, A2, A3…, B1, B2, B3…).
+
+## Lezione 13 — Le strategie riferite al portafoglio di attività: la diversificazione
+
+**D:** ⚠️ In quali 3 aree strategiche svolgeva attività l'intermediario finanziario (la banca), che in origine già era un'impresa diversificata, secondo la slide 2 della lezione 13?
+**R:** «L'intermediario finanziaria (la banca) in origine già era un'impresa diversificata. Svolgeva attività in 3 aree strategiche: 1. **Servizi di incasso e pagamento** 2. **Raccolta di risparmio mediante emissione di proprie passività** 3. **Concessione di finanziamento**» (slide 2; [00:00:47]–[00:01:14]). La docente: «sono le attività differenti tra loro» ([00:01:14]). ⚠️ L'intermediazione **mobiliare** non è fra le aree originarie: si affianca dopo, «oltre all'originaria intermediazione creditizia» (slide 3).
+**Opzione:** Servizi di incasso e pagamento; raccolta di risparmio mediante emissione di proprie passività; concessione di finanziamento.
+**Distrattori:**
+- Servizi di incasso e pagamento; raccolta di risparmio mediante emissione di proprie passività; intermediazione mobiliare.
+- Margine di interesse per l'intermediazione creditizia, margine provvigionale per l'intermediazione mobiliare.
+- Un notevole cambiamento del sistema di risorse (non solo prodotto e mercato): investimento/disinvestimento, sostituzione/innovazione.
+
+**D:** ⚠️ L'intermediario finanziario (la banca) in origine già era un'impresa diversificata: quante erano originariamente le sue aree d'affari, secondo il test della lezione 13 (domanda 1)?
+**R:** **3**: «Svolgeva attività in 3 aree strategiche: 1. Servizi di incasso e pagamento 2. Raccolta di risparmio mediante emissione di proprie passività 3. Concessione di finanziamento» (slide 2). La docente: «svolgeva attività in tre aree strategiche differenti» ([00:00:59]). Distrattori del test: 2, 4, 5. ⚠️ Il 4 è il numero dei passi per definire la strategia di diversificazione (slide 5–6), non delle aree; e l'intermediazione mobiliare, che porterebbe a 4, è un'attività successiva (slide 3).
+**Opzione:** 3
+**Distrattori:**
+- 2
+- 4
+- 5
+
+**D:** ⚠️ Per quali motivi sono correlate le tre attività originarie della banca, secondo la slide 2 della lezione 13?
+**R:** «Queste attività sono correlate per motivi di: • **strumentalità reciproca** […] • **Convergenza sulle stessi classi di clientela**» (slide 2, che scrive «stessi»; [00:01:19]–[00:02:25]). Per la docente sono «tre aree strategiche d'affari diverse, però molto correlate, strettamente correlate tra loro» ([00:01:22]). ⚠️ Le attività convergono sulle **stesse** classi di clientela: tutte sono rivolte a tutte le classi, non a sottoinsiemi diversi.
+**Opzione:** Strumentalità reciproca e convergenza sulle stesse classi di clientela.
+**Distrattori:**
+- Strumentalità reciproca e segmentazione delle classi di clientela.
+- Intermediazione creditizia e attività di intermediazione mobiliare.
+- Prodotti, segmenti di clientela, risorse.
+
+**D:** ⚠️ In che cosa consiste la strumentalità reciproca fra le attività originarie della banca, secondo la slide 2 della lezione 13?
+**R:** «La **raccolta** è strumentale al **finanziamento**, la **funzione monetaria** è strumentale alla **liquidità dei depositi** e all'**utilizzo del credito**» (slide 2). La docente: «per esempio la raccolta è strumentale al finanziamento, la funzione monetaria è strumentale alla liquidità dei depositi o all'utilizzo del credito» ([00:01:22]). ⚠️ La direzione conta: è la raccolta a servire il finanziamento, non il contrario.
+**Opzione:** La raccolta è strumentale al finanziamento, la funzione monetaria è strumentale alla liquidità dei depositi e all'utilizzo del credito.
+**Distrattori:**
+- Il finanziamento è strumentale alla raccolta, la funzione monetaria è strumentale alla liquidità dei depositi e all'utilizzo del credito.
+- Corporate strategy -> business strategy -> portfolio strategy -> horizontal strategy.
+- Intermediazione creditizia e attività di intermediazione mobiliare.
+
+**D:** ⚠️ In che cosa consiste la convergenza sulle stesse classi di clientela delle attività originarie della banca, e quali sono queste classi, secondo la slide 2 della lezione 13?
+**R:** «Con l'**intensità diversa** tutte le attività di produzione e di servizio sono rivolte a **tutte** le classi di clientela: **famiglie, imprese, PA**» (slide 2). La docente: le attività «1, 2, 3 di cui abbiamo parlato prima, sono rivolte a tutte le classi di clientela, famiglie e imprese, pubblica amministrazione», anche se l'interesse di ogni segmento «può essere differente rispetto alla tipologia delle attività» ([00:01:47]–[00:02:25]). ⚠️ «Con l'intensità **diversa**», non uguale. La domanda 2 del test ripropone la terna come «allargamento del targer (privati, impresa, PA)», ma qui è un motivo di correlazione delle aree originarie, non una diversificazione.
+**Opzione:** Con l'intensità diversa tutte le attività di produzione e di servizio sono rivolte a tutte le classi di clientela: famiglie, imprese, PA.
+**Distrattori:**
+- Con la stessa intensità tutte le attività di produzione e di servizio sono rivolte a tutte le classi di clientela: famiglie, imprese, PA.
+- Sia come condizione statica (l'impresa diversificata), sia come processo dinamico (l'impresa diversificante).
+- La totale è praticamente inesistente; la più frequente è la diversificazione parziale.
+
+**D:** ⚠️ Com'è aumentata la diversificazione delle attività bancarie, e in che modo l'attività di intermediazione ha cambiato natura, secondo la slide 3 della lezione 13?
+**R:** «• La diversificazione delle attività bancarie è aumentata **in modo considerevole e innovativo** • L'attività di intermediazione ha cambiato natura: • Oltre all'originaria intermediazione **creditizia** -> attività di intermediazione **mobiliare** • Diversi modelli di economicità: **margine di interesse -> margine provigionale** • Ingresso in nuove ASA con profili significativi di diversità (*private banking, corporate banking, investment banking*)» (slide 3, che scrive «provigionale»; [00:02:25]–[00:03:56]). La docente aggiunge «negli ultimi periodi» ([00:02:25]).
+**Opzione:** È aumentata in modo considerevole e innovativo; oltre all'originaria intermediazione creditizia, attività di intermediazione mobiliare; diversi modelli di economicità: dal margine di interesse al margine provvigionale; ingresso in nuove ASA con profili significativi di diversità (private banking, corporate banking, investment banking).
+**Distrattori:**
+- È aumentata in modo considerevole e innovativo; oltre all'originaria intermediazione creditizia, attività di intermediazione mobiliare; diversi modelli di economicità: dal margine provvigionale al margine di interesse; ingresso in nuove ASA con profili significativi di diversità (private banking, corporate banking, investment banking).
+- Le caratteristiche di struttura e finanziamento degli intermediari finanziari: forme istituzionali e modelli organizzativi specifici e in parte innovativi (es. banca universale e gruppo bancario -> modello multidivisionale).
+- Condividono 1 solo elemento (prodotto o mercato o risorse): diversificazione a bassa correlazione; condividono 2 elementi (prodotto + mercato, prodotto + risorse, mercato + risorse): diversificazione a elevata correlazione.
+
+**D:** ⚠️ Quale tra i seguenti è un esempio della diversificazione della natura dell'attività di un intermediario finanziario, secondo il test della lezione 13 (domanda 2)?
+**R:** **Intermediazione creditizia e attività di intermediazione mobiliare**: è il primo sottopunto della slide 3, «L'attività di intermediazione ha cambiato natura: • Oltre all'originaria intermediazione creditizia -> attività di intermediazione mobiliare». La docente: «oltre all'originaria intermediazione creditizia si affianca anche l'attività di intermediazione mobiliare, quindi è un'altra tipologia di attività» ([00:02:37]). Distrattori del test: «allargamento del targer (privati, impresa, PA)», che richiama la convergenza sulle stesse classi di clientela delle attività originarie (slide 2: «famiglie, imprese, PA»); «cambiamento del modello organizzativo», che è un effetto della diversificazione attuata (slide 4: banca universale e gruppo bancario -> modello multidivisionale); «cambiamento del modello di economicità». ⚠️ Quest'ultimo è la trappola: nella slide 3 i «diversi modelli di economicità» stanno sotto lo stesso titolo, ma per la docente cambia «non soltanto la sostanza, la natura dell'attività ma anche il modo di creare profitto e reddittività, quindi il modello di business» ([00:03:21]).
+**Opzione:** Intermediazione creditizia e attività di intermediazione mobiliare.
+**Distrattori:**
+- Allargamento del targer (privati, impresa, PA).
+- Cambiamento del modello organizzativo.
+- Cambiamento del modello di economicità.
+
+**D:** ⚠️ Quale modello di economicità corrisponde all'intermediazione creditizia e quale a quella mobiliare, secondo la slide 3 e la docente nella lezione 13?
+**R:** La slide 3: «Diversi modelli di economicità: **margine di interesse -> margine provigionale**». La docente: «se parliamo di intermediazione creditizia parliamo di un modello di business basato sul **margine di interesse**», se parliamo di attività di intermediazione mobiliare «parliamo della creazione del valore, del profitto, sulla base di **margine provvigionale**» ([00:03:02]–[00:03:21]). Cambia «il modo di creare profitto e reddittività, quindi il modello di business» ([00:03:21]). Il transcript riporta «intermediazione immobiliare»; la slide dice mobiliare.
+**Opzione:** Margine di interesse per l'intermediazione creditizia, margine provvigionale per l'intermediazione mobiliare.
+**Distrattori:**
+- Margine provvigionale per l'intermediazione creditizia, margine di interesse per l'intermediazione mobiliare.
+- Strumentalità reciproca e convergenza sulle stesse classi di clientela.
+- Le autorità di controllo o il top management.
+
+**D:** ⚠️ Che cosa ha modificato la diversificazione attuata dagli intermediari finanziari, e con quale esempio, secondo la slide 4 della lezione 13?
+**R:** «La diversificazione attuata ha modificato le caratteristiche di **struttura e finanziamento** degli intermediari finanziari: Ø Forme istituzionali e modelli organizzativi specifici e **in parte innovativi** Ø Es. **Banca universale e gruppo bancario -> Modello multidivisionale**» (slide 4). La docente: banca universale e gruppo bancario sono «una struttura degli anni precedenti», che «adesso si è trasformato spesso in un modello multidivisionale» ([00:03:56]–[00:04:26]); dell'impatto delle strategie sulla struttura organizzativa si parlerà nelle lezioni successive ([00:04:31]).
+**Opzione:** Le caratteristiche di struttura e finanziamento degli intermediari finanziari: forme istituzionali e modelli organizzativi specifici e in parte innovativi (es. banca universale e gruppo bancario -> modello multidivisionale).
+**Distrattori:**
+- Le caratteristiche di struttura e finanziamento degli intermediari finanziari: forme istituzionali e modelli organizzativi specifici e in parte innovativi (es. modello multidivisionale -> banca universale e gruppo bancario).
+- La raccolta è strumentale al finanziamento, la funzione monetaria è strumentale alla liquidità dei depositi e all'utilizzo del credito.
+- Lo sviluppo dei prodotti di bancassurance (complementarietà): correlazione – cliente; diversificazione – prodotto e risorse.
+
+**D:** ⚠️ A che cosa sono rivolte le strategie di diversificazione degli intermediari finanziari, e quali strategie applicano all'interno di ogni ASA, secondo la slide 4 della lezione 13?
+**R:** «Gli intermediari finanziari (le banche) hanno sviluppato e mettono in atto strategie di diversificazione rivolte a combinare nel portafoglio di attività un **numero crescente di ASA diverse**, applicando all'interno di ognuna di esse le **strategie di business** (*cost leadership*, differenziazione, segmentazione)» (slide 4; [00:05:00]–[00:05:43]). Sono le tre strategie delle lezioni 09–12: per ogni singola ASA si sceglie fra «cost leadership, differenziazione piuttosto che segmentazione» ([00:05:33]). ⚠️ Cost leadership, differenziazione e segmentazione restano strategie **di business**, della singola ASA.
+**Opzione:** A combinare nel portafoglio di attività un numero crescente di ASA diverse, applicando all'interno di ognuna di esse le strategie di business (cost leadership, differenziazione, segmentazione).
+**Distrattori:**
+- A combinare nel portafoglio di attività un numero crescente di ASA diverse, applicando all'interno di ognuna di esse le strategie di portafoglio (cost leadership, differenziazione, segmentazione).
+- Sia come condizione statica (l'impresa diversificata), sia come processo dinamico (l'impresa diversificante).
+- L'oggetto al quale si riferisce il carattere di diversità; il grado di diversificazione; i criteri e i metodi per misurare la diversificazione.
+
+**D:** ⚠️ Qual è la sequenza di strategie con cui si apre la slide 5 della lezione 13?
+**R:** «*Corporate strategy -> business strategy -> portfolio strategy -> horizontal strategy*» (slide 5). La docente: «il passaggio dalla corporate strategy [al]la business strategy, portafoglio, strategia di portafoglio e quindi è una specie di strategia orizzontale» ([00:05:43]–[00:05:51]). ⚠️ Nella lezione 05 (slide 14) la *corporate strategy* è la «strategia di portafoglio»; qui *corporate strategy* e *portfolio strategy* sono due tappe distinte della freccia. La *business strategy* è un distrattore della domanda 3 del test.
+**Opzione:** Corporate strategy -> business strategy -> portfolio strategy -> horizontal strategy.
+**Distrattori:**
+- Business strategy -> corporate strategy -> portfolio strategy -> horizontal strategy.
+- Corporate strategy -> portfolio strategy -> business strategy -> horizontal strategy.
+- Corporate strategy -> business strategy -> horizontal strategy -> portfolio strategy.
+
+**D:** ⚠️ Che cos'è la horizontal strategy, e qual è il concetto centrale, secondo la slide 5 della lezione 13?
+**R:** «*Horizontal strategy* è un **insieme coordinato** di obiettivi e di politiche **trasversalmente** riferite a diverse ASA, fra loro **distinte e interrelate**» e «Il concetto centrale è "**la diversità**" fra ASA (strategic business areas) -> "diversificazione"» (slide 5). La docente ripete la definizione alla lettera ([00:06:03]) e aggiunge: «parlando del concetto di diversità parliamo anche della strategia di diversificazione» ([00:06:20]). È la chiave della domanda 3 del test.
+**Opzione:** Un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse ASA, fra loro distinte e interrelate; il concetto centrale è la diversità fra ASA, da cui la diversificazione.
+**Distrattori:**
+- Un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse ASA, fra loro distinte e indipendenti; il concetto centrale è la diversità fra ASA, da cui la diversificazione.
+- Con l'intensità diversa tutte le attività di produzione e di servizio sono rivolte a tutte le classi di clientela: famiglie, imprese, PA.
+- Un notevole cambiamento del sistema di risorse (non solo prodotto e mercato): investimento/disinvestimento, sostituzione/innovazione.
+
+**D:** ⚠️ Come si chiama un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse aree strategiche d'affari, fra loro distinte e interrelate, secondo il test della lezione 13 (domanda 3)?
+**R:** **Horizontal strategy**: è la slide 5 alla lettera, salvo «diverse ASA» sciolto in «diverse aree strategiche d'affari». La docente: «Che cos'è horizontal strategy? È un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse ASA, fra loro distinte e interrelate» ([00:06:00]–[00:06:03]). Distrattori del test: «business strategy», seconda tappa della sequenza della stessa slide 5 e, nella lezione 05 (slide 14), la strategia di «Un campo relativamente omogeneo di attività», già distrattore nel test 06; «business model», la chiave del test 09 (domanda 5, «modello di business»), riferito alla «singola, specifica e reale» ASA, non a diverse ASA; «business plan», che non compare nello strato di testo dei 30 deck e torna solo a voce nel transcript della lezione 06, per il progetto dell'imprenditore che crea un'impresa nuova.
+**Opzione:** Horizontal strategy.
+**Distrattori:**
+- Business strategy.
+- Business model.
+- Business plan.
+
+**D:** ⚠️ Quali sono, nell'ordine, i quattro passi per definire la strategia di diversificazione, secondo le slide 5 e 6 della lezione 13?
+**R:** «1. **Dare definizione** di diversità/diversificazione 2. **L'analisi dei motivi** che inducono o convincono gli attori della strategia di impresa a fare la scelta della diversificazione» (slide 5); «3. **L'identificazione delle modalità** secondo le quali la diversificazione viene realizzata […] 4. **Identificazione dei confini di efficienza**» (slide 6). Per la docente sono i passi «per capire meglio su che cosa si basa la strategia di diversificazione» ([00:06:31]–[00:06:39]); il quarto è «importantissimo» ([00:09:21]). ⚠️ I confini sono «di efficienza», non i confini del settore della lezione 07.
+**Opzione:** 1. Dare definizione di diversità/diversificazione; 2. l'analisi dei motivi che inducono o convincono gli attori della strategia di impresa a fare la scelta della diversificazione; 3. l'identificazione delle modalità secondo le quali la diversificazione viene realizzata; 4. identificazione dei confini di efficienza.
+**Distrattori:**
+- 1. Dare definizione di diversità/diversificazione; 2. l'analisi dei motivi che inducono o convincono gli attori della strategia di impresa a fare la scelta della diversificazione; 3. l'identificazione delle modalità secondo le quali la diversificazione viene realizzata; 4. identificazione dei confini del settore.
+- L'oggetto al quale si riferisce il carattere di diversità; il grado di diversificazione; i criteri e i metodi per misurare la diversificazione.
+- Un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse ASA, fra loro distinte e interrelate; il concetto centrale è la diversità fra ASA, da cui la diversificazione.
+
+**D:** ⚠️ Quali sono i motivi che inducono o convincono gli attori della strategia di impresa a scegliere la diversificazione, e che cosa ne segue, secondo la slide 5 della lezione 13?
+**R:** «• Una **spinta da fuori** (es. diminuzione della domanda sul prodotto/servizio esistente, ingresso delle tecnologie innovative e nuovi prodotti competitivi) • Una **spinta dall'interno** (es. sviluppo e accumulazione di risorse, competenze) -> **Misurazione del profilo di convenienza!**» (slide 5). La docente aggiunge alla spinta esterna le «nuove richieste di mercato» ([00:07:16]) e precisa che le risorse della spinta interna «possono essere risorse umane, tecnologiche, materiali» ([00:07:59]). Il profilo di convenienza si misura come nella scelta dei segmenti (lezione 12): «dobbiamo capire quanto ci conviene andare a diversificare le nostre aree strategiche d'affari» ([00:08:13]–[00:08:59]).
+**Opzione:** Una spinta da fuori (es. diminuzione della domanda sul prodotto/servizio esistente, ingresso delle tecnologie innovative e nuovi prodotti competitivi) e una spinta dall'interno (es. sviluppo e accumulazione di risorse, competenze); ne segue la misurazione del profilo di convenienza.
+**Distrattori:**
+- Una spinta da fuori (es. sviluppo e accumulazione di risorse, competenze) e una spinta dall'interno (es. diminuzione della domanda sul prodotto/servizio esistente, ingresso delle tecnologie innovative e nuovi prodotti competitivi); ne segue la misurazione del profilo di convenienza.
+- Costi di natura organizzativa a causa dell'aumento di complessità, la cui gestione (coordinamento vs disciplina) richiede un'organizzazione raffinata e perciò costosa.
+- Le ASA non condividono nessuna delle 3 componenti (prodotto, mercato, risorse); le rispettive funzioni di domanda presentano una elasticità incrociata nulla; i rispettivi fattori produttivi non sono trasferibili, fungibili, intersostituibili.
+
+**D:** ⚠️ Chi sono, per la docente, gli attori della strategia di impresa che fanno la scelta della diversificazione, nella lezione 13?
+**R:** «Quali sono gli attori della strategia di impresa? Sono **o le autorità di controllo o il top management** che comunque poi va a creare, va a individuare una strategia» ([00:07:03]–[00:07:05]). È solo nel transcript: la slide 5 dice soltanto «gli attori della strategia di impresa». ⚠️ Il cliente, per la docente, è invece una delle forze di Porter dell'ambiente esterno ([00:12:22]).
+**Opzione:** Le autorità di controllo o il top management.
+**Distrattori:**
+- Le autorità di controllo o i clienti.
+- Prodotti, segmenti di clientela, risorse.
+- Horizontal strategy.
+
+**D:** ⚠️ In che cosa consistono il terzo e il quarto passo della strategia di diversificazione, secondo la slide 6 della lezione 13?
+**R:** «3. **L'identificazione delle modalità** secondo le quali la diversificazione viene realizzata: scelte, fasi, comportamenti, azioni progettazione organizzativa ecc. 4. **Identificazione dei confini di efficienza**: le condizioni e i limiti di sostenibilità di un portafoglio di attività sempre più diversificato (costi/benefici)» (slide 6). La docente: il terzo passo riguarda «attraverso quale misure, quali strumenti possiamo diversificare la nostra strategia a livello corporate» ([00:09:10]); nel quarto si valutano costi e benefici, e i benefici sono il vantaggio competitivo «sia dal punto di vista economico sia anche dal punto di vista per esempio della soddisfazione dei nostri clienti» ([00:09:21]–[00:09:53]).
+**Opzione:** 3. Le modalità secondo le quali la diversificazione viene realizzata: scelte, fasi, comportamenti, azioni progettazione organizzativa ecc.; 4. i confini di efficienza: le condizioni e i limiti di sostenibilità di un portafoglio di attività sempre più diversificato (costi/benefici).
+**Distrattori:**
+- 3. Le modalità secondo le quali la diversificazione viene realizzata: le condizioni e i limiti di sostenibilità di un portafoglio di attività sempre più diversificato (costi/benefici); 4. i confini di efficienza: scelte, fasi, comportamenti, azioni progettazione organizzativa ecc.
+- Scelte e strategie di diversificazione centrate su 1 elemento: diversificazione linked, con relazioni direzionali; scelte e strategie centrate su più elementi in modo ricorrente: diversificazione constrained, con relazioni di tipo ciclico.
+- Le ASA non condividono nessuna delle 3 componenti (prodotto, mercato, risorse); le rispettive funzioni di domanda presentano una elasticità incrociata nulla; i rispettivi fattori produttivi non sono trasferibili, fungibili, intersostituibili.
+
+**D:** ⚠️ Di che natura sono i costi di un portafoglio di attività sempre più diversificato, e che cosa richiede la loro gestione, secondo la slide 6 della lezione 13?
+**R:** «Costi di **natura organizzativa** a causa dell'**aumento di complessità**, la cui gestione (**coordinamento VS disciplina**) richiede un'organizzazione **raffinata e perciò costosa**» (slide 6). La docente: con diverse aree, riferimenti, mercati e modelli di business «cresce anche la complessità che richiede gestione», e la gestione «richiede coordinamento, disciplina» ([00:09:53]–[00:10:24]). La strategia di diversificazione richiede l'adattamento della struttura organizzativa ([00:10:40]), ma vanno considerati anche i benefici ([00:10:53]).
+**Opzione:** Costi di natura organizzativa a causa dell'aumento di complessità, la cui gestione (coordinamento vs disciplina) richiede un'organizzazione raffinata e perciò costosa.
+**Distrattori:**
+- Costi di natura tecnologica a causa dell'aumento di complessità, la cui gestione (coordinamento vs disciplina) richiede un'organizzazione raffinata e perciò costosa.
+- La raccolta è strumentale al finanziamento, la funzione monetaria è strumentale alla liquidità dei depositi e all'utilizzo del credito.
+- Nuovi strumenti di pagamento innovativi su base digitale (sostituzione): correlazione – prodotto, cliente; diversificazione – risorse.
+
+**D:** ⚠️ In che cosa consiste il legame stretto tra la strategia di diversificazione e l'organizzazione strumentale e funzionale dell'esecuzione della strategia, secondo la slide 6 della lezione 13?
+**R:** «• La **sostenibilità** di una certa strategia richiede la **capacità manageriale** di predisporre un'**organizzazione adeguata** • Esiste una **relazione di interdipendenza** tra il sistema di risorse posseduto e governato che consente o meno l'attuazione di una strategia (**e anche il suo concepimento**) AMBIENTE-STRATEGIA-STRUTTURA!» (slide 6). La docente: bisogna capire «qual è il modello organizzativo che ci permette, che supporta poi la nostra strategia di diversificazione» ([00:11:14]); il richiamo è al «paradigma fondamentale da cui siamo partiti, che è ambiente, strategia, struttura» ([00:11:54]).
+**Opzione:** La sostenibilità di una certa strategia richiede la capacità manageriale di predisporre un'organizzazione adeguata; esiste una relazione di interdipendenza tra il sistema di risorse posseduto e governato che consente o meno l'attuazione di una strategia (e anche il suo concepimento).
+**Distrattori:**
+- La sostenibilità di una certa strategia richiede la capacità manageriale di predisporre un'organizzazione adeguata; esiste una relazione di interdipendenza tra il sistema di risorse posseduto e governato che consente o meno l'attuazione di una strategia (ma non il suo concepimento).
+- Scelte e strategie di diversificazione centrate su 1 elemento: diversificazione linked, con relazioni direzionali; scelte e strategie centrate su più elementi in modo ricorrente: diversificazione constrained, con relazioni di tipo ciclico.
+- Condividono 1 solo elemento (prodotto o mercato o risorse): diversificazione a bassa correlazione; condividono 2 elementi (prodotto + mercato, prodotto + risorse, mercato + risorse): diversificazione a elevata correlazione.
+
+**D:** Perché, per la docente, nella strategia di diversificazione conta anche l'influenza dell'ambiente interno, e non solo quella dell'ambiente esterno?
+**R:** Per il paradigma ambiente-strategia-struttura «c'è l'influenza da entrambe le parti» ([00:12:02]). Nella strategia di segmentazione l'influenza veniva dall'**esterno**: l'analisi della clientela, e il cliente «è comunque una delle forze di Michael Porter che sta all'interno dell'ambiente» ([00:12:02]–[00:12:34]). La diversificazione è invece una strategia «a livello globale, a livello dell'azienda, dell'intera azienda», e lì conta anche l'influenza **interna**, quella «delle risorse possedute dall'organizzazione», che influiscono sulla definizione della strategia ([00:12:34]–[00:13:08]). Sulla slide 6 è la relazione di interdipendenza fra il sistema di risorse e l'attuazione della strategia, «e anche il suo concepimento».
+
+**D:** ⚠️ In quali due modi è intesa la diversificazione, secondo la slide 7 della lezione 13?
+**R:** «La diversificazione – intesa sia come **condizione statica** (l'impresa **diversificata**), sia come **processo dinamico** (l'impresa **diversificante**)» (slide 7). La docente: l'impresa diversificata «si è diversificata e ci sono diverse aree strategiche d'affari»; quella diversificante sta cercando «di entrare nelle nuove aree strategiche d'affari» ([00:13:15]–[00:13:42]). La stessa coppia torna nella tabella della slide 10: approccio **statico** (il portafoglio ASA 1, ASA 2, … ASA n) e approccio **dinamico** (l'impresa diversificante verso ASA n).
+**Opzione:** Sia come condizione statica (l'impresa diversificata), sia come processo dinamico (l'impresa diversificante).
+**Distrattori:**
+- Sia come condizione statica (l'impresa diversificante), sia come processo dinamico (l'impresa diversificata).
+- Sia come condizione dinamica (l'impresa diversificata), sia come processo statico (l'impresa diversificante).
+- Sia come condizione dinamica (l'impresa diversificante), sia come processo statico (l'impresa diversificata).
+
+**D:** ⚠️ Che cosa hanno cercato di capire diversi studi sulla diversificazione, secondo la slide 7 della lezione 13?
+**R:** «Diversi studi hanno cercato di capire: • L'**oggetto** al quale si riferisce il carattere di diversità • Il **grado** di diversificazione • I **criteri e i metodi per misurare** la diversificazione» (slide 7). Per la docente sono «diversi studi scientifici e accademici» ([00:13:42]–[00:14:00]). La lezione tratta poi l'oggetto (slide 8) e il grado (slide 9–10). ⚠️ Le modalità con cui la diversificazione «viene realizzata» sono invece il terzo passo (slide 6).
+**Opzione:** L'oggetto al quale si riferisce il carattere di diversità; il grado di diversificazione; i criteri e i metodi per misurare la diversificazione.
+**Distrattori:**
+- L'oggetto al quale si riferisce il carattere di diversità; il grado di diversificazione; i criteri e i metodi per realizzare la diversificazione.
+- Strumentalità reciproca e convergenza sulle stesse classi di clientela.
+- Corporate strategy -> business strategy -> portfolio strategy -> horizontal strategy.
+
+**D:** ⚠️ Quali sono, alla lettera, i 3 elementi fondamentali che caratterizzano ogni ASA, l'oggetto di diversificazione, secondo la slide 8 della lezione 13?
+**R:** «L'oggetto di diversificazione: • L'attività svolta dall'impresa (ASA) • Ogni ASA si caratterizza per la combinazione specifica di 3 elementi fondamentali: 1. I **prodotti/servizi** corrispondenti a una certa **funzione d'uso generale** 2. I **segmenti di clientela** (domanda e mercati) i cui bisogni si relazionano alla funzione d'uso 3. Il **sistema di risorse** che l'impresa acquista, produce internamente e organizza per gestire le combinazioni prodotto-segmento: • Processi di produzione • Processi di distribuzione • Processi amministrativi e di servizio» (slide 8; [00:14:00]–[00:15:03]). La docente dice «acquista, produce internamente o organizza» e «processi amministrativi e di servizio di supporto» ([00:14:45]–[00:14:55]).
+**Opzione:** I prodotti/servizi corrispondenti a una certa funzione d'uso generale; i segmenti di clientela (domanda e mercati) i cui bisogni si relazionano alla funzione d'uso; il sistema di risorse che l'impresa acquista, produce internamente e organizza per gestire le combinazioni prodotto-segmento: processi di produzione, di distribuzione, amministrativi e di servizio.
+**Distrattori:**
+- I prodotti/servizi corrispondenti a una certa funzione d'uso specifica; i segmenti di clientela (domanda e mercati) i cui bisogni si relazionano alla funzione d'uso; il sistema di risorse che l'impresa acquista, produce internamente e organizza per gestire le combinazioni prodotto-segmento: processi di produzione, di distribuzione, amministrativi e di servizio.
+- Un insieme coordinato di obiettivi e di politiche trasversalmente riferite a diverse ASA, fra loro distinte e interrelate; il concetto centrale è la diversità fra ASA, da cui la diversificazione.
+- A combinare nel portafoglio di attività un numero crescente di ASA diverse, applicando all'interno di ognuna di esse le strategie di business (cost leadership, differenziazione, segmentazione).
+
+**D:** ⚠️ Ogni ASA si caratterizza per la combinazione specifica di 3 elementi fondamentali: quali sono, secondo il test della lezione 13 (domanda 4)?
+**R:** **Prodotti, segmenti di clientela, risorse**: è la slide 8, «Ogni ASA si caratterizza per la combinazione specifica di 3 elementi fondamentali: 1. I prodotti/servizi […] 2. I segmenti di clientela (domanda e mercati) […] 3. Il sistema di risorse […]», ridotta alle teste delle tre voci ([00:14:09]–[00:14:45]). È la stessa terna della definizione di ASA della lezione 09 (slide 4). Distrattori del test: ogni opzione sbagliata tiene una voce vera, o due se si legge «clienti» per segmenti di clientela, e cambia le altre: «prodotti, dipendenti, management»; «risorse, fornitori, clienti»; «segmenti di clientela, reputazione, organizzazione aziendale». I fornitori dei fattori sono una delle forze di Porter (lezione 07), l'organizzazione aziendale una leva della cost leadership (lezione 10), la reputazione una leva della differenziazione (lezione 11).
+**Opzione:** Prodotti, segmenti di clientela, risorse.
+**Distrattori:**
+- Prodotti, dipendenti, management.
+- Risorse, fornitori, clienti.
+- Segmenti di clientela, reputazione, organizzazione aziendale.
+
+**D:** ⚠️ Che cosa caratterizza la diversificazione totale, secondo la slide 9 della lezione 13?
+**R:** «**Diversificazione totale**: le ASA **non condividono nessuna** delle 3 componenti (prodotto, mercato, risorse) • Le rispettive funzioni di domanda presentano una **elasticità incrociata nulla** • I rispettivi fattori produttivi **non sono trasferibili, fungibili, intersostituibili**» (slide 9). La docente: «ogni ASA ha il proprio prodotto, il proprio mercato di riferimento e si serve delle risorse specifiche» ([00:15:29]); «non ci sono gli incroci tra diverse ASA» ([00:15:53]). Manca quindi l'**economia di scopo**, «l'utilizzo delle stesse risorse per la produzione di diversi output», di cui si parlerà più avanti ([00:16:14]–[00:16:19]).
+**Opzione:** Le ASA non condividono nessuna delle 3 componenti (prodotto, mercato, risorse); le rispettive funzioni di domanda presentano una elasticità incrociata nulla; i rispettivi fattori produttivi non sono trasferibili, fungibili, intersostituibili.
+**Distrattori:**
+- Le ASA non condividono nessuna delle 3 componenti (prodotto, mercato, risorse); le rispettive funzioni di domanda presentano una elasticità incrociata elevata; i rispettivi fattori produttivi non sono trasferibili, fungibili, intersostituibili.
+- Servizi di incasso e pagamento; raccolta di risparmio mediante emissione di proprie passività; concessione di finanziamento.
+- Lo sviluppo dei prodotti di bancassurance (complementarietà): correlazione – cliente; diversificazione – prodotto e risorse.
+
+**D:** ⚠️ Che cosa manca, per la docente, nella diversificazione totale, e in che cosa consiste, nella lezione 13?
+**R:** L'**economia di scopo**. Siccome le risorse necessarie per la produzione di un output «sono completamente diverse», «non c'è in questo caso l'economia di scopo di cui parleremo poi successivamente, quindi **l'utilizzo delle stesse risorse per la produzione di diversi output**» ([00:16:14]–[00:16:19]). È solo nel transcript: la slide 9 dice che i fattori produttivi «non sono trasferibili, fungibili, intersostituibili». ⚠️ Da non confondere con l'economia di scala della lezione 10, «un abbassamento del livello dei costi unitari (per unità di prodotto)».
+**Opzione:** L'economia di scopo, cioè l'utilizzo delle stesse risorse per la produzione di diversi output.
+**Distrattori:**
+- L'economia di scala, cioè l'utilizzo delle stesse risorse per la produzione di diversi output.
+- L'economia di scopo, cioè l'utilizzo di risorse diverse per la produzione dello stesso output.
+
+**D:** ⚠️ Nel caso in cui le ASA non condividono nessuna delle 3 componenti di diversificazione, come viene definita la diversificazione, secondo il test della lezione 13 (domanda 5)?
+**R:** **Totale**: è la slide 9 alla lettera, «Diversificazione totale: le ASA non condividono nessuna delle 3 componenti (prodotto, mercato, risorse)»; la docente: «La diversificazione totale sono le ASA che non condividono nessuna delle tre componenti» ([00:15:25]–[00:15:29]). Distrattori del test: «parziale», l'altro grado, in cui le ASA condividono 1 o 2 componenti (slide 10); «assente» e «innovativa», che come gradi di diversificazione non compaiono nello strato di testo dei 30 deck né nei 20 transcript disponibili. ⚠️ «Assente» è la trappola: nessuna componente condivisa non vuol dire nessuna diversificazione, ma diversità massima. «Innovativa» richiama la slide 3 («in modo considerevole e innovativo») e l'intensità della slide 12 («il grado di diversificazione o di innovazione»).
+**Opzione:** Totale.
+**Distrattori:**
+- Assente.
+- Parziale.
+- Innovativa.
+
+**D:** ⚠️ A che cosa è dovuta la mancanza di casi di diversificazione totale per gli intermediari finanziari, secondo la slide 9 della lezione 13?
+**R:** «La mancanza di casi per gli intermediari finanziari dovuta a: • **Necessità di investimenti completamente nuovi** -> un **rischio imprenditoriale elevato** (l'impresa non possiede esperienza consolidata e deve governare le situazione di grande incertezza • **Impossibilità di sfruttare i vantaggi competitivi** distintivi e specifici relativamente ai concorrenti» (slide 9, con la parentesi non chiusa). La docente: manca «quel trasferimento, quell'apprendimento organizzativo perché le ASA sono completamente diverse tra loro» ([00:16:59]).
+**Opzione:** Necessità di investimenti completamente nuovi, quindi un rischio imprenditoriale elevato (l'impresa non possiede esperienza consolidata e deve governare situazioni di grande incertezza); impossibilità di sfruttare i vantaggi competitivi distintivi e specifici relativamente ai concorrenti.
+**Distrattori:**
+- Necessità di investimenti completamente nuovi, quindi un rischio imprenditoriale elevato (l'impresa non possiede esperienza consolidata e deve governare situazioni di grande incertezza); possibilità di sfruttare i vantaggi competitivi distintivi e specifici relativamente ai concorrenti.
+- A combinare nel portafoglio di attività un numero crescente di ASA diverse, applicando all'interno di ognuna di esse le strategie di business (cost leadership, differenziazione, segmentazione).
+- Nuovi strumenti di pagamento innovativi su base digitale (sostituzione): correlazione – prodotto, cliente; diversificazione – risorse.
+
+**D:** ⚠️ Quanto è frequente la diversificazione totale fra gli intermediari finanziari, e quale grado di diversificazione è il più frequente, secondo la docente nella lezione 13?
+**R:** Per la docente la diversificazione totale, per gli intermediari finanziari, «è praticamente una situazione **inesistente**» ([00:16:33]) e nella *financial industry* «accade veramente **molto molto raramente**» ([00:16:59]). «La situazione **più frequente** invece riguarda la **diversificazione parziale**, quindi sono le aree strategiche d'affari che condividono almeno una o due componenti» ([00:17:27]–[00:17:29]). La slide 9 parla di «mancanza di casi per gli intermediari finanziari».
+**Opzione:** La totale è praticamente inesistente; la più frequente è la diversificazione parziale.
+**Distrattori:**
+- La parziale è praticamente inesistente; la più frequente è la diversificazione totale.
+- Totale.
+- Horizontal strategy.
+
+**D:** ⚠️ Nell'approccio statico alla diversificazione parziale, che cosa condividono le ASA e come si chiama la diversificazione in ciascun caso, secondo la tabella della slide 10 della lezione 13?
+**R:** «Diversificazione parziale: le ASA condividono 1 o 2 componenti». Approccio statico (portafoglio ASA 1, ASA 2, … ASA n): «Condividono **1 solo elemento** (prodotto o mercato o risorse)» → «Diversificazione a **bassa correlazione**»; «Condividono **2 elementi**: Prodotto + mercato, Prodotto + risorse, Mercato + risorse» → «Diversificazione a **elevata correlazione**» (slide 10). La docente: con un solo elemento «la correlazione c'è, però comunque si basa soltanto su una componente» ([00:18:09]); con due elementi «parliamo di diversificazione a correlazione elevata» ([00:18:16]–[00:18:54]). ⚠️ Più elementi condivisi, più correlazione.
+**Opzione:** Condividono 1 solo elemento (prodotto o mercato o risorse): diversificazione a bassa correlazione; condividono 2 elementi (prodotto + mercato, prodotto + risorse, mercato + risorse): diversificazione a elevata correlazione.
+**Distrattori:**
+- Condividono 1 solo elemento (prodotto o mercato o risorse): diversificazione a elevata correlazione; condividono 2 elementi (prodotto + mercato, prodotto + risorse, mercato + risorse): diversificazione a bassa correlazione.
+- Margine di interesse per l'intermediazione creditizia, margine provvigionale per l'intermediazione mobiliare.
+- La totale è praticamente inesistente; la più frequente è la diversificazione parziale.
+
+**D:** ⚠️ Nell'approccio dinamico alla diversificazione parziale, come si chiama la diversificazione dell'impresa diversificante, e con quali relazioni, secondo la tabella della slide 10 della lezione 13?
+**R:** Approccio dinamico (impresa diversificante verso ASA n): «Scelte e strategie di diversificazione **centrate su 1 elemento**» → «Diversificazione ***linked***, con **relazioni direzionali**»; «Scelte e strategie di diversificazione **centrate su più elementi in modo ricorrente**» → «Diversificazione ***constrained***, con **relazioni di tipo ciclico**» (slide 10). La docente traduce *linked* con «collegata» e spiega che nella *constrained* «non c'è soltanto una relazione causa-effetto tra due elementi ma c'è l'interdipendenza tra diversi elementi in maniera ciclica» ([00:18:54]–[00:19:46]).
+**Opzione:** Scelte e strategie di diversificazione centrate su 1 elemento: diversificazione linked, con relazioni direzionali; scelte e strategie centrate su più elementi in modo ricorrente: diversificazione constrained, con relazioni di tipo ciclico.
+**Distrattori:**
+- Scelte e strategie di diversificazione centrate su 1 elemento: diversificazione constrained, con relazioni direzionali; scelte e strategie centrate su più elementi in modo ricorrente: diversificazione linked, con relazioni di tipo ciclico.
+- Servizi di incasso e pagamento; raccolta di risparmio mediante emissione di proprie passività; concessione di finanziamento.
+- Con l'intensità diversa tutte le attività di produzione e di servizio sono rivolte a tutte le classi di clientela: famiglie, imprese, PA.
+
+**D:** ⚠️ Quale esempio porta la slide 11 della lezione 13 per la condivisione di 1 elemento, e quali sono gli elementi di correlazione e di diversificazione?
+**R:** «Prodotto statico (condivisione di 1 elemento): Es. sviluppo dei prodotti di ***bancassurance*** (**complementarietà**) (correlazione – **cliente**, diversificazione – **prodotto e risorse**» (slide 11, con la parentesi non chiusa). La docente: si serve lo stesso cliente proponendo prodotti diversi, realizzati con risorse diverse, come il cliente con un conto bancario che acquista anche un'assicurazione bancaria; è la «complementarità dei prodotti e dei servizi», «di cross selling» ([00:19:46]–[00:20:55]).
+**Opzione:** Lo sviluppo dei prodotti di bancassurance (complementarietà): correlazione – cliente; diversificazione – prodotto e risorse.
+**Distrattori:**
+- Lo sviluppo dei prodotti di bancassurance (sostituzione): correlazione – cliente; diversificazione – prodotto e risorse.
+- Lo sviluppo dei prodotti di bancassurance (complementarietà): correlazione – prodotto; diversificazione – cliente e risorse.
+- Lo sviluppo dei prodotti di bancassurance (complementarietà): correlazione – prodotto, cliente; diversificazione – risorse.
+
+**D:** ⚠️ Quale esempio porta la slide 11 della lezione 13 per la condivisione di 2 elementi, e quali sono gli elementi di correlazione e di diversificazione?
+**R:** «Prodotto statico (condivisione di 2 elementi): Es. Inserimento di **nuovi strumenti di pagamento innovativi su base digitale** (**sostituzione**) (correlazione – **prodotto, cliente**; diversificazione – **risorse**)» (slide 11). La docente: il prodotto (il servizio di pagamento) e il cliente restano gli stessi, cambiano le risorse: lo stesso cliente può fare un bonifico allo sportello classico oppure con l'applicazione mobile, il sito internet, l'online banking. Non è complementarietà, perché il cliente «fa sempre la stessa cosa attraverso diverse modalità»: è sostituzione ([00:20:55]–[00:22:41]).
+**Opzione:** Nuovi strumenti di pagamento innovativi su base digitale (sostituzione): correlazione – prodotto, cliente; diversificazione – risorse.
+**Distrattori:**
+- Nuovi strumenti di pagamento innovativi su base digitale (complementarietà): correlazione – prodotto, cliente; diversificazione – risorse.
+- Nuovi strumenti di pagamento innovativi su base digitale (sostituzione): correlazione – prodotto, risorse; diversificazione – cliente.
+- Nuovi strumenti di pagamento innovativi su base digitale (sostituzione): correlazione – cliente; diversificazione – prodotto e risorse.
+
+**D:** ⚠️ Quali sono le 3 dimensioni della diversificazione evidenziate dall'approccio dinamico, e che cosa riguarda ciascuna, secondo la slide 12 della lezione 13?
+**R:** «La sequenza di ingresso nelle nuove ASA rispetto a quelle precedenti evidenzia 3 dimensioni della diversificazione: • **La direzione** – riguarda l'oggetto della diversificazione: prodotti/servizi, clienti e mercati, sistema di risorse • **L'estensione** – rileva i confini sempre più ampi raggiunti nelle direzioni seguite per realizzare i nuovi posizionamenti • **L'intensità** – evidenzia il grado di diversificazione o di innovazione realizzato rispetto ai posizionamenti precedenti» (slide 12; [00:22:41]–[00:24:07]). Per l'estensione la docente parla di «ampliamento» ([00:23:29]). ⚠️ L'ordine della slide è direzione, estensione, intensità; il titolo della lezione 15 le ordina direzione, intensità, estensione.
+**Opzione:** La direzione riguarda l'oggetto della diversificazione: prodotti/servizi, clienti e mercati, sistema di risorse; l'estensione rileva i confini sempre più ampi raggiunti nelle direzioni seguite per realizzare i nuovi posizionamenti; l'intensità evidenzia il grado di diversificazione o di innovazione realizzato rispetto ai posizionamenti precedenti.
+**Distrattori:**
+- La direzione riguarda l'oggetto della diversificazione: prodotti/servizi, clienti e mercati, sistema di risorse; l'estensione evidenzia il grado di diversificazione o di innovazione realizzato rispetto ai posizionamenti precedenti; l'intensità rileva i confini sempre più ampi raggiunti nelle direzioni seguite per realizzare i nuovi posizionamenti.
+- Costi di natura organizzativa a causa dell'aumento di complessità, la cui gestione (coordinamento vs disciplina) richiede un'organizzazione raffinata e perciò costosa.
+- Le caratteristiche di struttura e finanziamento degli intermediari finanziari: forme istituzionali e modelli organizzativi specifici e in parte innovativi (es. banca universale e gruppo bancario -> modello multidivisionale).
+
+**D:** ⚠️ Che cosa portano le strategie di diversificazione al sistema di risorse, secondo la slide 12 della lezione 13?
+**R:** «Le strategie di diversificazione portano un **notevole cambiamento** del **sistema di risorse** (**non solo** prodotto e mercato): • **Investimento/disinvestimento** • **Sostituzione/innovazione**» (slide 12). La docente: il cambiamento non riguarda soltanto l'offerta (il prodotto) e la domanda, ma anche il sistema di risorse usato «nel processo di trasformazione dell'input in output» ([00:24:07]–[00:24:55]). Con la Figura 4.1 della slide 13 la strategia di diversificazione «diventa tridimensionale»: alla mappa di prodotti e mercati si aggiungono le risorse ([00:25:10]).
+**Opzione:** Un notevole cambiamento del sistema di risorse (non solo prodotto e mercato): investimento/disinvestimento, sostituzione/innovazione.
+**Distrattori:**
+- Un notevole cambiamento di prodotto e mercato (non del sistema di risorse): investimento/disinvestimento, sostituzione/innovazione.
+- Un limitato cambiamento del sistema di risorse (non solo prodotto e mercato): investimento/disinvestimento, sostituzione/innovazione.
+- Le autorità di controllo o il top management.
