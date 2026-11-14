@@ -1127,3 +1127,296 @@
 - Modello SWOT.
 - Modello di Ansoff.
 - Modello di Business Process Analysis.
+
+## Lezione 06 — Il paradigma ambiente-strategia-struttura
+
+**D:** ⚠️ Quali sono le tre variabili del paradigma ambiente-strategia-struttura, e che cosa comprende ciascuna, secondo la slide 2 della lezione 06?
+**R:** Nell'ordine dello schema a frecce: «**Ambiente** • Analisi dell'ambiente • Opportunità e minacce competitive ecc.»; «**Strategia** • Scelta ed elaborazione della strategia • **Strategia di posizionamento**»; «**Struttura** • Progettazione della struttura • Sistema delle risorse **rigorosamente funzionale alla strategia**» (slide 2). Per la docente la strategia è «la seconda variabile del paradigma» e riguarda il posizionamento dell'azienda sul mercato; la struttura è il terzo elemento, progettata «dopo aver analizzato l'ambiente, dopo aver definito la strategia» ([00:00:27]–[00:01:22]). ⚠️ La direzione: è la struttura a essere funzionale alla strategia.
+**Opzione:** Ambiente: analisi dell'ambiente, opportunità e minacce competitive ecc.; strategia: scelta ed elaborazione della strategia, strategia di posizionamento; struttura: progettazione della struttura, sistema delle risorse rigorosamente funzionale alla strategia.
+**Distrattori:**
+- Ambiente: analisi dell'ambiente, opportunità e minacce competitive ecc.; strategia: scelta ed elaborazione della strategia, strategia di posizionamento; struttura: progettazione della struttura, sistema delle risorse rigorosamente funzionale all'ambiente.
+- Strategie fortemente innovative che innescano il cambiamento dell'ambiente (disruptive innovation) e adottano combinazioni di fattori altamente innovative; strategie di adattamento, imitative, difensive e conservative.
+- I processi di privatizzazione, liberalizzazione, deregolamentazione, con una graduale restituzione del ruolo imprenditoriale strategico ai gruppi bancari e la struttura del settore come variabile endogena (il modello dell'economia di mercato).
+
+**D:** ⚠️ Che cosa caratterizza la «situazione ideale», secondo la slide 3 della lezione 06?
+**R:** «L'impresa **nuova o emergente** che ha la **massima discrezionalità** nella scelta dei fattori necessari e modi per combinarli»; «l'imprenditore ha un progetto di investimento e dispone **esclusivamente del capitale finanziario** necessario per mettere in atto l'idea imprenditoriale e acquisire dal mercato I fattori materiale e immateriali per lo sviluppo del progetto» (slide 3, con i refusi). Per la docente è la **startup**: quando c'è solo un business plan, l'imprenditore sceglie le risorse e le combina come ritiene più utile ([00:01:32]–[00:02:54]). ⚠️ Le imprese **esistenti** sono la situazione **normale** (slide 5).
+**Opzione:** L'impresa nuova o emergente che ha la massima discrezionalità nella scelta dei fattori necessari e modi per combinarli; l'imprenditore ha un progetto di investimento e dispone esclusivamente del capitale finanziario necessario per mettere in atto l'idea imprenditoriale e acquisire dal mercato i fattori materiali e immateriali per lo sviluppo del progetto.
+**Distrattori:**
+- L'impresa esistente che ha la massima discrezionalità nella scelta dei fattori necessari e modi per combinarli; l'imprenditore ha un progetto di investimento e dispone esclusivamente del capitale finanziario necessario per mettere in atto l'idea imprenditoriale e acquisire dal mercato i fattori materiali e immateriali per lo sviluppo del progetto.
+- Riflette e replica modelli di pensiero e di azione (cultura) derivanti per tradizione dal passato: effetto di ereditarietà (effetto legacy) ed effetto di dipendenza culturale (fenomeno della path dependency).
+- Molto stretta e bidirezionale (interdipendenza): da un lato la strategia si serve di un'organizzazione, dall'altro lato ogni organizzazione produce la propria strategia, la concepisce, la sceglie, l'attua.
+
+**D:** ⚠️ Com'è la relazione fra strategia e struttura (organizzazione), secondo la slide 4 della lezione 06?
+**R:** «La relazione fra strategia e struttura (organizzazione) è **molto stretta e bidirezionale (interdipendenza)**»: «Da un lato la strategia si serve di un'organizzazione, dall'altro lato ogni organizzazione "**produce**" la propria strategia, la concepisce, la sceglie, l'attua» (slide 4). Per la docente la strategia influisce sulla struttura, ma anche la struttura ha un impatto «abbastanza diretto» e può modificare la strategia; ogni organizzazione produce la propria strategia «perché parliamo comunque della performance quotidiana» ([00:03:09]–[00:04:08]).
+**Opzione:** Molto stretta e bidirezionale (interdipendenza): da un lato la strategia si serve di un'organizzazione, dall'altro lato ogni organizzazione produce la propria strategia, la concepisce, la sceglie, l'attua.
+**Distrattori:**
+- Molto stretta e unidirezionale (dipendenza): da un lato la strategia si serve di un'organizzazione, dall'altro lato ogni organizzazione si limita ad attuare la strategia, senza concepirla né sceglierla.
+- Per lo sviluppo delle strategie capaci di cogliere le nuove opportunità e di evitare le nuove minacce (create da un cambiamento rapido e poco prevedibile dell'ambiente).
+- Il forte cambiamento dell'ambiente, che introduce grande incertezza nelle strategie e mette in crisi le strutture aziendali esistenti.
+
+**D:** ⚠️ Quali sono i tre elementi della strategia totale di un'organizzazione secondo Jensen (1998), citato nella slide 4 della lezione 06?
+**R:** «*There are 3 main elements in an'organization's total strategy: its **competitive strategy**, its **organizational strategy** and its **human strategy***» (Jensen, 1998; slide 4, sotto «La strategia appartiene all'organizzazione»). La docente li presenta come gradini: la **competitiva** è il posizionamento tra i competitors, le relazioni con l'ambiente, «il livello un pochino più ampio»; l'**organizzativa** riguarda l'ambiente interno e la struttura; l'**umana** è «il livello un pochino più approfondito», per il ruolo del capitale umano ([00:04:13]–[00:05:37]).
+**Opzione:** La strategia competitiva, la strategia organizzativa e la strategia umana.
+**Distrattori:**
+- La strategia competitiva, la strategia organizzativa e la strategia tecnologica.
+- La relazione tra struttura-condotta-performance.
+- Competenze universali.
+
+**D:** ⚠️ Di chi è, e di quale anno, la citazione sui «3 main elements in an organization's total strategy» della slide 4 della lezione 06?
+**R:** **Jensen, 1998** (slide 4; la docente: «questa citazione di Jensen del 1998», [00:04:13]). ⚠️ L'altra citazione in inglese della lezione, sul management come «organ of institution», è di **Drucker, 2005** (slide 8): i due autori e i due anni formano una matrice 2×2.
+**Opzione:** Jensen, 1998.
+**Distrattori:**
+- Drucker, 2005.
+- Jensen, 2005.
+- Drucker, 1998.
+
+**D:** ⚠️ Da che cosa dipende la fattibilità o praticabilità di una strategia di posizionamento, secondo il test della lezione 06 (domanda 1)?
+**R:** «**Disponibilità delle risorse specifiche necessarie**» (la piattaforma scrive «disponibilitàdelle»). È la slide 4 alla lettera: «La fattibilità o praticabilità di una strategia di posizionamento dipende dalla disponibilità delle risorse specifiche necessarie **di cui è dotata la struttura**»; la docente la legge identica ([00:05:37]). Distrattori del test: «management», «cultura organizzativa», «codice etico». Il management è l'oggetto della slide 8, la cultura organizzativa era già un distrattore del test 01 (domanda 4), il codice etico non compare in nessuna slide del corso né nei transcript disponibili (lezioni 01–20).
+**Opzione:** Disponibilità delle risorse specifiche necessarie.
+**Distrattori:**
+- Management.
+- Cultura organizzativa.
+- Codice etico.
+
+**D:** ⚠️ Che cosa possono rappresentare le combinazioni di fattori già possedute, secondo la slide 4 della lezione 06?
+**R:** «Le combinazioni di fattori già possedute **possono rappresentare** una condizione **ex ante di vincolo**» (slide 4). Per la docente le aziende che operano già da anni o da mesi possiedono risorse e fattori, e non possono definire una strategia «molto ambiziosa» quando mancano le risorse reali ([00:06:30]–[00:07:18]).
+**Opzione:** Una condizione ex ante di vincolo.
+**Distrattori:**
+- Una condizione ex post di vincolo.
+- Smart working.
+- L'incoerenza fra il paradigma rigido e la sopravvivenza dell'azienda.
+
+**D:** ⚠️ Come possono essere trasformate le risorse, e con quali costi, secondo la slide 4 della lezione 06?
+**R:** «Le risorse possono essere trasformate mediante **cessione** di alcune risorse **al** mercato e **contemporanea acquisizione** di altre diverse risorse **dal** mercato (**costi di transazione** e **costi sommersi non recuperabili**)» (slide 4). Per la docente le risorse possono essere vendute, cedute o acquisite «quelle nuove di cui abbiamo bisogno domani» dall'ambiente esterno; i costi di transazione e i *sunk costs* (il transcript scrive «sun costs») riducono l'efficienza e l'economicità dell'organizzazione ([00:07:26]–[00:08:20]).
+**Opzione:** Mediante cessione di alcune risorse al mercato e contemporanea acquisizione di altre diverse risorse dal mercato (costi di transazione e costi sommersi non recuperabili).
+**Distrattori:**
+- Mediante cessione di alcune risorse al mercato e contemporanea acquisizione di altre diverse risorse dal mercato (costi di transazione e costi sommersi interamente recuperabili).
+- Mediante regimi autorizzativi, al fine di ottenere la performance desiderata.
+- Dall'imprenditorialità creatrice e distruttiva di Schumpeter all'imprenditorialità sistematica e metodica, incrementale di Marshall.
+
+**D:** ⚠️ Che cos'è la «situazione normale», secondo la slide 5 della lezione 06?
+**R:** «Le **imprese esistenti** che hanno necessità di scegliere le strategie praticabili con i fattori **effettivamente disponibili** (**situazione di vincolo**)» (slide 5). Per la docente è «la situazione più frequente», mentre la situazione ideale è quella dell'impresa che sta nascendo ([00:08:20]). ⚠️ L'impresa **nuova o emergente** è la situazione **ideale** (slide 3).
+**Opzione:** Le imprese esistenti che hanno necessità di scegliere le strategie praticabili con i fattori effettivamente disponibili (situazione di vincolo).
+**Distrattori:**
+- Le imprese nuove o emergenti che hanno necessità di scegliere le strategie praticabili con i fattori effettivamente disponibili (situazione di vincolo).
+- Hanno difficoltà a evolvere in una cultura del cambiamento e a declinare il paradigma ambiente-strategia-struttura.
+- Il manager appartiene alla struttura che a sua volta appartiene all'ambiente (attingendo da esso le risorse).
+
+**D:** ⚠️ A che cosa serve l'analisi dell'ambiente nella situazione normale, secondo la slide 5 della lezione 06?
+**R:** «L'analisi dell'ambiente **non** per identificare la strategia **astrattamente migliore** rispetto alle opportunità e alle minacce dell'ambiente, **ma** per ricercare e selezionare la strategia di posizionamento **realisticamente preferibile** in termini di prospettiva di **rendimento/rischio**» (slide 5, frase sottolineata). Per la docente il rendimento sono i benefici, la redditività delle azioni; il rischio dipende dalla prevedibilità dell'ambiente e dalle incertezze ([00:08:44]–[00:09:34]).
+**Opzione:** Non per identificare la strategia astrattamente migliore rispetto alle opportunità e alle minacce dell'ambiente, ma per ricercare e selezionare la strategia di posizionamento realisticamente preferibile in termini di prospettiva di rendimento/rischio.
+**Distrattori:**
+- Per identificare la strategia astrattamente migliore rispetto alle opportunità e alle minacce dell'ambiente, non per ricercare e selezionare la strategia di posizionamento realisticamente preferibile in termini di prospettiva di rendimento/rischio.
+- Riflette e replica modelli di pensiero e di azione (cultura) derivanti per tradizione dal passato: effetto di ereditarietà (effetto legacy) ed effetto di dipendenza culturale (fenomeno della path dependency).
+- Molto stretta e bidirezionale (interdipendenza): da un lato la strategia si serve di un'organizzazione, dall'altro lato ogni organizzazione produce la propria strategia, la concepisce, la sceglie, l'attua.
+
+**D:** ⚠️ In funzione di che cosa viene selezionato l'ambiente (segmentazione) nella situazione normale, secondo la slide 5 della lezione 06?
+**R:** «Viene selezionato l'ambiente (segmentazione) in funziona della **strategia possibile**» (slide 5, refuso «in funziona»). Per la docente si definisce il segmento da servire sul mercato «in funzione alla strategia possibile» ([00:09:39]). ⚠️ La direzione: è l'ambiente a essere selezionato in funzione della strategia, e la strategia è quella **possibile**, non quella astrattamente migliore.
+**Opzione:** In funzione della strategia possibile.
+**Distrattori:**
+- In funzione della strategia astrattamente migliore.
+- Una condizione ex ante di vincolo.
+- Un modello deterministico, con stabilità delle relazioni di causa-effetto.
+
+**D:** ⚠️ Quale scelta caratterizza la situazione normale, secondo la slide 5 della lezione 06?
+**R:** «La **scelta vincolata** del *second o third (ecc.) best*» (slide 5). Per la docente non c'è una strategia migliore in assoluto, ma anche la seconda, la terza, la quarta: l'ambiente può cambiare, e la prima strategia migliore potrebbe non essere praticabile perché mancano risorse e fattori produttivi ([00:09:52]–[00:10:25]).
+**Opzione:** La scelta vincolata del second o third (ecc.) best.
+**Distrattori:**
+- La scelta libera del first best.
+- La relazione tra struttura-condotta-performance.
+- L'incoerenza fra il paradigma rigido e la sopravvivenza dell'azienda.
+
+**D:** ⚠️ Qual è l'obiettivo di lungo termine nella situazione normale, secondo la slide 5 della lezione 06?
+**R:** «L'obiettivo i lungo termine è quello di **rimuovere le situazioni di vincolo** e realizzare le condizioni di struttura che consente il **posizionamento migliore**» (slide 5, con i refusi). La docente lo legge quasi alla lettera e aggiunge che la strategia non si sceglie una volta sola, perché vincoli e condizioni esterne possono cambiare il posizionamento e il *decision making* ([00:10:48]–[00:11:19]).
+**Opzione:** Rimuovere le situazioni di vincolo e realizzare le condizioni di struttura che consentono il posizionamento migliore.
+**Distrattori:**
+- Mantenere le situazioni di vincolo e realizzare le condizioni di struttura che consentono il posizionamento migliore.
+- Le risorse appartengono all'ambiente, presenti nel mercato e scambiate dall'impresa.
+- L'approccio dirigistico della vigilanza strutturale focalizzata alla stabilità del settore.
+
+**D:** Come illustra la docente le relazioni paradigmatiche della slide 6 della lezione 06, e con quale esempio?
+**R:** La slide 6 è un'immagine: tre riquadri, **Ambiente**, **Strategia** e **Struttura**, con frecce brevi in **entrambe le direzioni** fra i riquadri vicini e due frecce lunghe tratteggiate che legano **direttamente** ambiente e struttura, nei due sensi. Per la docente l'ambiente impatta la strategia e la strategia la struttura, ma anche la struttura può influire sulla strategia e la strategia sull'ambiente: le aziende bancarie che hanno sviluppato **per prime il mobile banking** hanno definito l'andamento di tutto il mercato e le preferenze dei clienti. È la bidirezionalità «sia top down sia bottom up», e anche l'ambiente può impattare direttamente la struttura e la struttura l'ambiente ([00:11:19]–[00:12:52]).
+
+**D:** ⚠️ Che cosa dice delle risorse la «lettura bidirezionale e circolare» della slide 7 della lezione 06?
+**R:** «**Le risorse appartengono all'ambiente**, presenti nel mercato e scambiate dall'impresa» (slide 7). Per la docente sono presenti nel mercato, «scambiate ovviamente acquisite dall'impresa» ([00:12:52]). ⚠️ Le risorse si **scambiano**: la slide 4 le trasforma con la cessione al mercato e l'acquisizione dal mercato. Il manager, invece, appartiene alla **struttura**, che a sua volta appartiene all'ambiente, da cui attinge le risorse (slide 8).
+**Opzione:** Le risorse appartengono all'ambiente, presenti nel mercato e scambiate dall'impresa.
+**Distrattori:**
+- Le risorse appartengono all'ambiente, presenti nel mercato e non scambiabili dall'impresa.
+- Un modello deterministico, con stabilità delle relazioni di causa-effetto.
+- Per le azioni imprenditoriali efficienti ed efficaci: progetti strategici e implementazioni organizzative.
+
+**D:** ⚠️ Come si distinguono le strategie per il loro grado di innovazione, secondo la slide 7 della lezione 06?
+**R:** «Le strategie diverse per il loro grado di innovazione: • Strategie **fortemente innovative** che **innescano** il cambiamento dell'ambiente (*disruptive innovation*) e adottano combinazioni di fattori **altamente innovative** • Strategie di **adattamento, imitative, difensive e conservative**» (slide 7): quattro voci nel secondo gruppo, l'ultima è «conservative». Per la docente le aziende innovative cambiano la propria struttura, «sempre più piatta, sempre più flessibile», e l'ambiente ([00:14:07]–[00:14:28]); il secondo gruppo non lo commenta.
+**Opzione:** Strategie fortemente innovative che innescano il cambiamento dell'ambiente (disruptive innovation) e adottano combinazioni di fattori altamente innovative; strategie di adattamento, imitative, difensive e conservative.
+**Distrattori:**
+- Strategie fortemente innovative che innescano il cambiamento dell'ambiente (disruptive innovation) e adottano combinazioni di fattori altamente innovative; strategie di adattamento, imitative, difensive e offensive.
+- Mediante cessione di alcune risorse al mercato e contemporanea acquisizione di altre diverse risorse dal mercato (costi di transazione e costi sommersi non recuperabili).
+- I processi di privatizzazione, liberalizzazione, deregolamentazione, con una graduale restituzione del ruolo imprenditoriale strategico ai gruppi bancari e la struttura del settore come variabile endogena (il modello dell'economia di mercato).
+
+**D:** ⚠️ Come si chiamano le strategie fortemente innovative che innescano il cambiamento dell'ambiente e adottano combinazioni di fattori altamente innovative, secondo il test della lezione 06 (domanda 2)?
+**R:** «***Disruptive innovation***». È la slide 7 alla lettera: «Strategie fortemente innovative che innescano il cambiamento dell'ambiente (*disruptive innovation*) e adottano combinazioni di fattori altamente innovative». L'esempio della docente è la prima applicazione per il **mobile banking**: prima i clienti si rivolgevano allo sportello bancario ([00:13:13]–[00:13:55]). Distrattori del test: «incremental innovation», «business strategy», «start up». L'innovazione **incrementale** è per la docente l'opposto, «con il grado di cambiamento molto più basso rispetto alla disruptive innovation» ([00:17:08]); la *business strategy* è un livello di strategia della **lezione 05** (slide 14); la *startup* è la situazione ideale nelle parole della docente ([00:01:32]).
+**Opzione:** Disruptive innovation.
+**Distrattori:**
+- Incremental innovation.
+- Business strategy.
+- Start up.
+
+**D:** ⚠️ A che cosa portano le crisi economiche e finanziarie, secondo la slide 7 della lezione 06?
+**R:** «Le crisi economiche e finanziarie portano al forte **cambiamento dell'ambiente** che introduce grande **incertezza nelle strategie** e mette in **crisi le strutture aziendali** esistenti» (slide 7). Per la docente non è solo l'impresa a determinare i cambiamenti all'esterno: anche il contesto ha impatto, e la relazione va dal contesto verso la strategia e poi verso la struttura ([00:14:28]–[00:15:19]). ⚠️ L'incertezza è nelle **strategie**, la crisi è delle **strutture**.
+**Opzione:** Il forte cambiamento dell'ambiente, che introduce grande incertezza nelle strategie e mette in crisi le strutture aziendali esistenti.
+**Distrattori:**
+- Il forte cambiamento dell'ambiente, che introduce grande incertezza nelle strutture e mette in crisi le strategie aziendali esistenti.
+- Rimuovere le situazioni di vincolo e realizzare le condizioni di struttura che consentono il posizionamento migliore.
+- Mediante regimi autorizzativi, al fine di ottenere la performance desiderata.
+
+**D:** ⚠️ Per che cosa è importante la flessibilità delle strutture, secondo la slide 7 della lezione 06?
+**R:** «L'importanza della **flessibilità delle strutture** per lo sviluppo delle strategie capaci a cogliere le **nuove opportunità** e di evitare le **nuove minacce** (create da un cambiamento **rapido e poco prevedibile** dell'ambiente)» (slide 7). Per la docente la struttura più flessibile e più piatta rende il cambiamento più praticabile, più facile da attuare, rispetto a una struttura «molto gerarchica, molto rigida» ([00:15:19]–[00:16:02]).
+**Opzione:** Per lo sviluppo delle strategie capaci di cogliere le nuove opportunità e di evitare le nuove minacce (create da un cambiamento rapido e poco prevedibile dell'ambiente).
+**Distrattori:**
+- Per lo sviluppo delle strategie capaci di cogliere le nuove opportunità e di evitare le nuove minacce (create da un cambiamento lento e prevedibile dell'ambiente).
+- Le imprese esistenti che hanno necessità di scegliere le strategie praticabili con i fattori effettivamente disponibili (situazione di vincolo).
+- Una cultura passiva dell'adattamento e di conformità alla regia regolamentare, e la cultura di strategie imitative.
+
+**D:** ⚠️ Quale passaggio indica la slide 7 della lezione 06 nella varietà delle situazioni in diversi cicli di vita del progetto imprenditoriale?
+**R:** «Dall'imprenditorialità "**creatrice e distruttive**" di **Schumpeter** all'imprenditorialità "**sistematica e metodica, incrementale**" di **Marshall**» (slide 7, refuso «distruttive»). Per la docente la relazione fra le variabili non è «uguale, statica» in tutti i cicli di vita dell'azienda; Schumpeter (il transcript scrive «Schampeter») «ha parlato ovviamente del cambiamento dell'innovazione» ([00:16:17]–[00:16:54]). ⚠️ La coppia autore/formula è la domanda 3 del test.
+**Opzione:** Dall'imprenditorialità creatrice e distruttiva di Schumpeter all'imprenditorialità sistematica e metodica, incrementale di Marshall.
+**Distrattori:**
+- Dall'imprenditorialità creatrice e distruttiva di Marshall all'imprenditorialità sistematica e metodica, incrementale di Schumpeter.
+- Hanno difficoltà a evolvere in una cultura del cambiamento e a declinare il paradigma ambiente-strategia-struttura.
+- L'approccio dirigistico della vigilanza strutturale focalizzata alla stabilità del settore.
+
+**D:** ⚠️ Quale studioso si è occupato dell'imprenditorialità «sistematica, metodica ed incrementale», secondo il test della lezione 06 (domanda 3)?
+**R:** «**Marshall**». La slide 7 dice «l'imprenditorialità "sistematica e metodica, incrementale" di Marshall», e la docente «l'imprenditorialità sistematica, metodica, incrementale di uno studioso come Marshall» ([00:16:45]): la chiave è giusta, con una formula appena diversa. Distrattori del test: «schumpeter», «schein», «taylor». **Schumpeter** è l'altro autore della stessa riga, quello dell'imprenditorialità «creatrice e distruttive»; **Schein** e **Taylor** vengono dalla **lezione 01** (slide 8 e 14).
+**Opzione:** Marshall.
+**Distrattori:**
+- Schumpeter.
+- Schein.
+- Taylor.
+
+**D:** ⚠️ Quale studioso associa la slide 7 della lezione 06 all'imprenditorialità «creatrice e distruttive»?
+**R:** **Schumpeter**: «Dall'imprenditorialità "creatrice e distruttive" di Schumpeter all'imprenditorialità "sistematica e metodica, incrementale" di Marshall» (slide 7). La docente: «l'imprenditorialità creatrice, distruttiva, definita da Schampeter [così il transcript], che ha parlato ovviamente del cambiamento dell'innovazione» ([00:16:32]). ⚠️ È lo specchio della domanda 3 del test, che ha per chiave Marshall.
+**Opzione:** Schumpeter.
+**Distrattori:**
+- Marshall.
+- Drucker.
+- Jensen.
+
+**D:** ⚠️ Dove si colloca il manager all'interno del paradigma, secondo la slide 8 della lezione 06?
+**R:** «Il manager appartiene alla **struttura** che a sua volta appartiene all'**ambiente** (attingendo da esso le risorse)» (slide 8). Per la docente il manager è uno degli elementi chiave della struttura organizzativa, «una specie di ponte, un anello di collegamento tra l'ambiente interno e l'ambiente esterno» ([00:17:23]–[00:17:55]).
+**Opzione:** Il manager appartiene alla struttura che a sua volta appartiene all'ambiente (attingendo da esso le risorse).
+**Distrattori:**
+- Il manager appartiene all'ambiente che a sua volta appartiene alla struttura (attingendo da essa le risorse).
+- In funzione della strategia possibile.
+- Le risorse appartengono all'ambiente, presenti nel mercato e scambiate dall'impresa.
+
+**D:** ⚠️ Che cosa dice la slide 8 della lezione 06 del ruolo imprenditoriale primario?
+**R:** «Il ruolo imprenditoriale primario (**strategico e organizzativo**) è **del management** che **determina** il cambiamento» (slide 8). Per la docente il manager deve gestire e determinare il cambiamento, e il suo livello diventa «veramente strategico» per gli obiettivi di **change management** ([00:17:55]–[00:18:18]).
+**Opzione:** Il ruolo imprenditoriale primario (strategico e organizzativo) è del management che determina il cambiamento.
+**Distrattori:**
+- Il ruolo imprenditoriale primario (strategico e organizzativo) è del management che subisce il cambiamento.
+- Per le azioni imprenditoriali efficienti ed efficaci: progetti strategici e implementazioni organizzative.
+- Rimuovere le situazioni di vincolo e realizzare le condizioni di struttura che consentono il posizionamento migliore.
+
+**D:** ⚠️ Che cosa fa il management come «accumulatore di esperienza e di apprendimento», e con quali due effetti, secondo la slide 8 della lezione 06?
+**R:** «Management come accumulatore di esperienza e di apprendimento (**riflette e replica** modelli di pensiero e di azione (**cultura**) derivanti per tradizione **dal passato**): • Effetto di **ereditarietà** (effetto ***legacy***) • Effetto di **dipendenza culturale** (fenomento della ***path dependency***)» (slide 8, refuso «fenomento»). Per la docente l'apprendimento serve a ridurre la resistenza al cambiamento; il manager deve avere la propensione al cambiamento «nonostante questo forte legame con il passato» (il transcript scrive «past dependency», [00:18:18]–[00:19:58]).
+**Opzione:** Riflette e replica modelli di pensiero e di azione (cultura) derivanti per tradizione dal passato: effetto di ereditarietà (effetto legacy) ed effetto di dipendenza culturale (fenomeno della path dependency).
+**Distrattori:**
+- Riflette e replica modelli di pensiero e di azione (cultura) derivanti per tradizione dal passato: effetto di ereditarietà (fenomeno della path dependency) ed effetto di dipendenza culturale (effetto legacy).
+- Il forte cambiamento dell'ambiente, che introduce grande incertezza nelle strategie e mette in crisi le strutture aziendali esistenti.
+- Le imprese esistenti che hanno necessità di scegliere le strategie praticabili con i fattori effettivamente disponibili (situazione di vincolo).
+
+**D:** ⚠️ Come può essere definito l'«effetto di ereditarietà» o «effetto di memoria» che può rallentare il cambiamento organizzativo, secondo il test della lezione 06 (domanda 4)?
+**R:** «**Effetto legacy**». La slide 8 dice «Effetto di ereditarietà (effetto *legacy*)», e la docente «l'effetto di ereditarietà, effetto cosiddetto legacy, quindi il legame con il passato» ([00:19:24]). ⚠️ La «**memoria**» non è in questa lezione: viene dalla slide 18 della **lezione 07**, «Il presente ha "memoria" del passato, ne subisce l'eredità (effetto legacy e condizionamento culturale)». Distrattori del test: «effetto placebo», «effetto farfalla», «effetto serra», che non compaiono in nessuna slide del corso né nei transcript disponibili. L'altro effetto della slide 8, la dipendenza culturale, è la *path dependency*.
+**Opzione:** Effetto legacy.
+**Distrattori:**
+- Effetto placebo.
+- Effetto farfalla.
+- Effetto serra.
+
+**D:** ⚠️ Secondo la definizione di Drucker (2005) citata nella slide 8 della lezione 06, che cosa converte il management, e in che cosa?
+**R:** «*Management is the organ of institution (…) the organ that converts **a mob into organization**, and **human efforts into performance***» (Drucker, 2005; slide 8, con «organization» e «performance» in grassetto). La docente: «il management è un organo istituzionale, è un organo che converte una folla in un'organizzazione, gli sforzi umani in una performance»; è un ponte fra il vertice aziendale e tutti i livelli organizzativi ([00:20:01]–[00:20:41]).
+**Opzione:** Una folla (a mob) in organizzazione, e gli sforzi umani (human efforts) in performance.
+**Distrattori:**
+- Una folla (a mob) in performance, e gli sforzi umani (human efforts) in organizzazione.
+- Una condizione ex ante di vincolo.
+- Cittadini consapevoli, resilienti, autonomi.
+
+**D:** ⚠️ Quale altro paradigma introduce la slide 8 della lezione 06?
+**R:** «Un altro paradigma: relazione tra **struttura-condotta-performance**» (slide 8, sotto la freccia; la slide 9 scrive «struttura-condotto-performance»). Per la docente la struttura organizzativa determina i **comportamenti organizzativi**, che influiscono sulla **performance**, cioè sul raggiungimento degli obiettivi di breve e di lungo termine ([00:20:41]–[00:21:14]). ⚠️ È il paradigma **storico** e **rigido** degli anni '30-'80 (slide 9), opposto all'ambiente-strategia-struttura.
+**Opzione:** La relazione tra struttura-condotta-performance.
+**Distrattori:**
+- La relazione tra strategia-condotta-performance.
+- Competenze universali.
+- La strategia competitiva, la strategia organizzativa e la strategia umana.
+
+**D:** ⚠️ In quale periodo storico l'organizzazione di un intermediario finanziario si basava sull'approccio della vigilanza prudenziale, secondo il test della lezione 06 (domanda 5)?
+**R:** «**Anni '30-80**». È la prima riga della slide 9 alla lettera: «Gli anni '30-'80 -> approccio della vigilanza prudenziale», e la docente la legge così ([00:21:14]). Distrattori del test: «anni '90», «anni 2000», «anni '20-40». ⚠️ La stessa slide descrive quel periodo con «l'approccio dirigistico della vigilanza **strutturale**», e la **lezione 18** colloca il passaggio dalla vigilanza strutturale a quella prudenziale nel **1990-2005** (slide 14): per la lezione 18 la risposta sarebbe «anni '90». Per questo test vale la slide 9.
+**Opzione:** Anni '30-80.
+**Distrattori:**
+- Anni '90.
+- Anni 2000.
+- Anni '20-40.
+
+**D:** ⚠️ Come descrive la slide 9 della lezione 06 il paradigma storico struttura-condotta-performance?
+**R:** «Paradigma storico struttura-condotto-performance (**modello deterministico**, **stabilità** delle relazioni di causa-effetto)» (slide 9, refuso «condotto»). Per la docente le regole e le normative, cioè leggi e decreti, sono le cause; l'organizzazione che attua le regole prescritte dalle autorità di controllo produce l'effetto ([00:21:35]–[00:22:27]).
+**Opzione:** Un modello deterministico, con stabilità delle relazioni di causa-effetto.
+**Distrattori:**
+- Un modello probabilistico, con stabilità delle relazioni di causa-effetto.
+- La scelta vincolata del second o third (ecc.) best.
+- Dall'imprenditorialità creatrice e distruttiva di Schumpeter all'imprenditorialità sistematica e metodica, incrementale di Marshall.
+
+**D:** ⚠️ A che cosa portava l'impostazione regolamentare delle Autorità di controllo del settore bancario nel paradigma storico, secondo la slide 9 della lezione 06?
+**R:** «L'impostazione regolamentare delle Autorità di controllo del settore bancario -> l'approccio **dirigistico** della **vigilanza strutturale** focalizzata alla **stabilità** del settore» (slide 9). La docente lo legge quasi alla lettera ([00:21:46]). ⚠️ La prima riga della stessa slide chiama il periodo «approccio della vigilanza **prudenziale**» (domanda 5 del test).
+**Opzione:** L'approccio dirigistico della vigilanza strutturale focalizzata alla stabilità del settore.
+**Distrattori:**
+- L'approccio dirigistico della vigilanza strutturale focalizzata alla competitività del settore.
+- Il ruolo imprenditoriale primario (strategico e organizzativo) è del management che determina il cambiamento.
+- La strategia competitiva, la strategia organizzativa e la strategia umana.
+
+**D:** ⚠️ In che modo il governo esogeno influiva sulla condotta nel paradigma storico, secondo la slide 9 della lezione 06?
+**R:** «Il governo **esogeno** (mediante **regimi autorizzativi**) influiva sulla condotta, al fine di ottenere la **performance desiderata**» (slide 9). Per la docente la performance desiderata la stabiliscono le autorità esterne: l'azienda ha poco controllo sulla scelta e poca flessibilità nel definire strategie e strutture, «perché sono prescritte ex ante» ([00:22:27]–[00:22:59]).
+**Opzione:** Mediante regimi autorizzativi, al fine di ottenere la performance desiderata.
+**Distrattori:**
+- Mediante meccanismi di mercato, al fine di ottenere la performance desiderata.
+- In funzione della strategia possibile.
+- Sono la condizione necessaria per il funzionamento adeguato delle hard skills.
+
+**D:** ⚠️ Quali culture si sviluppano nel paradigma storico struttura-condotta-performance, secondo la slide 9 della lezione 06?
+**R:** «Spazio limitato alla libertà imprenditoriale di concepimento strategico -> una **cultura passiva dell'adattamento** e di **conformità alla regia regolamentare**»; «Sviluppo della cultura di **strategie imitative**» (slide 9). Per la docente l'azienda ha poca libertà, poca autonomia, «fa quello che fanno altri» ([00:22:59]–[00:23:29]).
+**Opzione:** Una cultura passiva dell'adattamento e di conformità alla regia regolamentare, e la cultura di strategie imitative.
+**Distrattori:**
+- Una cultura passiva dell'adattamento e di conformità alla regia regolamentare, e la cultura di strategie innovative.
+- Una folla (a mob) in organizzazione, e gli sforzi umani (human efforts) in performance.
+- Per lo sviluppo delle strategie capaci di cogliere le nuove opportunità e di evitare le nuove minacce (create da un cambiamento rapido e poco prevedibile dell'ambiente).
+
+**D:** ⚠️ Che difficoltà hanno le culture che si consolidano in contesti di attività fortemente e stabilmente regolati, secondo la slide 9 della lezione 06?
+**R:** «Le culture che si consolidano in contesti di attività fortemente e stabilmente regolati hanno difficoltà a evolvere in una **cultura del cambiamento** e a declinare il paradigma "**ambiente-strategia-struttura**"» (slide 9). Per la docente è «un paradigma opposto molto più flessibile», che parte dalle relazioni con l'ambiente; il paradigma rigido struttura-condotta-performance non permette di fare scelte né di prevedere scenari alternativi di sviluppo ([00:23:29]–[00:24:17]).
+**Opzione:** Hanno difficoltà a evolvere in una cultura del cambiamento e a declinare il paradigma ambiente-strategia-struttura.
+**Distrattori:**
+- Hanno difficoltà a evolvere in una cultura del cambiamento e a declinare il paradigma struttura-condotta-performance.
+- Il ruolo imprenditoriale primario (strategico e organizzativo) è del management che determina il cambiamento.
+- Il manager appartiene alla struttura che a sua volta appartiene all'ambiente (attingendo da esso le risorse).
+
+**D:** ⚠️ Che cosa avviene a partire dagli anni '80, e con quale conseguenza per la struttura del settore, secondo la slide 10 della lezione 06?
+**R:** «A partire dagli anni '80: i processi di **privatizzazione, liberalizzazione, deregolamentazione** • Una **graduale restituzione** del ruolo imprenditoriale strategico ai gruppi bancari -> la struttura del settore come **variabile endogena** (il modello dell'economia di mercato)» (slide 10). Per la docente la struttura del settore non è «più gestita soltanto da autorità esterne» ([00:24:17]–[00:24:52]; il transcript scrive «di regolamentazione», quasi certamente per «deregolamentazione»). ⚠️ Nella **lezione 14** (slide 5) la struttura del settore come variabile **esogena** è quella del paradigma struttura-condotta-performance.
+**Opzione:** I processi di privatizzazione, liberalizzazione, deregolamentazione, con una graduale restituzione del ruolo imprenditoriale strategico ai gruppi bancari e la struttura del settore come variabile endogena (il modello dell'economia di mercato).
+**Distrattori:**
+- I processi di privatizzazione, liberalizzazione, deregolamentazione, con una graduale restituzione del ruolo imprenditoriale strategico ai gruppi bancari e la struttura del settore come variabile esogena (il modello dell'economia di mercato).
+- Mediante cessione di alcune risorse al mercato e contemporanea acquisizione di altre diverse risorse dal mercato (costi di transazione e costi sommersi non recuperabili).
+- Strategie fortemente innovative che innescano il cambiamento dell'ambiente (disruptive innovation) e adottano combinazioni di fattori altamente innovative; strategie di adattamento, imitative, difensive e conservative.
+
+**D:** ⚠️ Che cosa ha asseverato la crisi finanziaria del 2007-2009, secondo la slide 10 della lezione 06?
+**R:** «La crisi finanziaria del 2007-2009 ha asseverato l'**incoerenza** fra il paradigma "**rigido**" e la **sopravvivenza** dell'azienda» (slide 10). Per la docente (il transcript scrive «ha severato») la possibilità di estendere il ciclo di vita dell'azienda, di restare sostenibile a lungo termine, dipende anche dall'ambiente, e seguire i cambiamenti esterni diventa molto rilevante ([00:24:52]–[00:25:25]).
+**Opzione:** L'incoerenza fra il paradigma rigido e la sopravvivenza dell'azienda.
+**Distrattori:**
+- La coerenza fra il paradigma rigido e la sopravvivenza dell'azienda.
+- Una folla (a mob) in organizzazione, e gli sforzi umani (human efforts) in performance.
+- Una cultura passiva dell'adattamento e di conformità alla regia regolamentare, e la cultura di strategie imitative.
+
+**D:** ⚠️ Per che cosa è importante considerare il cambiamento ambientale, e in quali due ambiti, secondo la slide 10 della lezione 06?
+**R:** «L'importanza della considerazione del cambiamento ambientale (contesto tecnologico, mercato, domanda…) per le **azioni imprenditoriali efficienti ed efficaci**: • **Progetti strategici** • **Implementazioni organizzative**» (slide 10; l'elenco fra parentesi è **aperto**). La docente aggiunge le **preferenze del cliente** e dice che gli imprenditori manager diventano protagonisti dei progetti strategici e dei processi organizzativi ([00:25:25]–[00:26:17]).
+**Opzione:** Per le azioni imprenditoriali efficienti ed efficaci: progetti strategici e implementazioni organizzative.
+**Distrattori:**
+- Per le azioni imprenditoriali efficienti ed efficaci: progetti strategici e regimi autorizzativi.
+- Disruptive innovation.
+- La scelta vincolata del second o third (ecc.) best.
