@@ -1702,3 +1702,280 @@
 - Per le azioni imprenditoriali efficienti ed efficaci: progetti strategici e regimi autorizzativi.
 - Disruptive innovation.
 - La scelta vincolata del second o third (ecc.) best.
+
+## Lezione 07 — L'ambiente di riferimento: prospettive, ampiezza, dimensioni e oggetti dell'analisi
+
+**D:** ⚠️ Da quale punto di vista e secondo quale approccio ogni soggetto percepisce l'ambiente, secondo la lezione 07?
+**R:** «Ogni soggetto percepisce l'ambiente **dal proprio punto di osservazione**, secondo un approccio **cognitivo soggettivo e autoreferenziale**» (slide 2; [00:00:30]). Per la docente il soggetto è «l'impresa nel nostro caso» ([00:00:43]).
+**Opzione:** Dal proprio punto di osservazione, secondo un approccio cognitivo soggettivo e autoreferenziale.
+**Distrattori:**
+- Dal proprio punto di osservazione, secondo un approccio cognitivo oggettivo e condiviso.
+- È la dimensione spaziale: dal contesto all'impresa e dall'impresa al contesto (es. pressioni politiche, lobbying, innovazione).
+- Di Porter (1998): un modello consolidato mediante continue e diffuse applicazioni e verifiche empiriche.
+
+**D:** ⚠️ Quali realtà il soggetto tende a «leggere» con maggiore tempestività e attenzione, secondo la lezione 07?
+**R:** «Il soggetto tende a "leggere" con maggiore tempestività e attenzione le **realtà più prossime** (quelle che hanno l'impatto **diretto, rilevante e rapido**)» (slide 2). Per la docente l'impatto è «sull'operato, sulla performance del soggetto e dell'azienda» ([00:00:56]–[00:00:59]). ⚠️ Tre aggettivi, e l'ultimo è temporale: **rapido**.
+**Opzione:** Le realtà più prossime, quelle che hanno l'impatto diretto, rilevante e rapido.
+**Distrattori:**
+- Le realtà più prossime, quelle che hanno l'impatto diretto, rilevante e duraturo.
+- Delle aspettative/previsioni rivolte al futuro: il presente considera diversi futuri alternativamente possibili con il rispettivo tasso di probabilità.
+- Capitale sociale.
+
+**D:** ⚠️ L'ambiente può essere percepito come piani o spazi concentrici caratterizzati da distanze progressivamente crescenti dal soggetto: come va intesa la «distanza», secondo la lezione 07?
+**R:** «Distanza è intesa o declinata come **livello di intensità, frequenza o rilevanza dell'interazione** con gli altri soggetti presenti nell'ambiente e quindi influenti sul risultato (successo/insuccesso) delle politiche aziendali poste in atto» (slide 2, nota; [00:01:15]–[00:01:24]). ⚠️ I tre parametri dell'interazione sono **intensità, frequenza, rilevanza**.
+**Opzione:** Come livello di intensità, frequenza o rilevanza dell'interazione con gli altri soggetti presenti nell'ambiente e quindi influenti sul risultato (successo/insuccesso) delle politiche aziendali poste in atto.
+**Distrattori:**
+- Come livello di intensità, frequenza o durata dell'interazione con gli altri soggetti presenti nell'ambiente e quindi influenti sul risultato (successo/insuccesso) delle politiche aziendali poste in atto.
+- Come variabile dell'ambiente generale: concorre a modificare e a innovare le condizioni di svolgimento (processi e prodotti, produzione e distribuzione) dell'attività di intermediazione finanziaria.
+- Dalla consuetudine di accomunare intermediari finanziari omologhi (distinti dagli stessi caratteri, tipi e forme di attività, forma di processo produttivo e distributivo).
+
+**D:** ⚠️ Che caratteri hanno gli attori dei cerchi a breve e a lunga distanza, e chi sta al centro, nello schema della slide 3 della lezione 07?
+**R:** Lo schema a cerchi concentrici della slide 3: **lunga distanza** – bassa intensità, bassa frequenza, bassa rilevanza; **breve distanza** – alta intensità, alta frequenza, alta rilevanza; **soggetto** – intermediario finanziario, banca. Per la docente, quando fa l'analisi dell'ambiente il soggetto tende ad analizzare «sicuramente» gli attori del cerchio **a breve distanza** ([00:01:50]–[00:02:48]).
+**Opzione:** Breve distanza: alta intensità, alta frequenza, alta rilevanza; lunga distanza: bassa intensità, bassa frequenza, bassa rilevanza; al centro il soggetto (intermediario finanziario, banca).
+**Distrattori:**
+- Breve distanza: alta intensità, alta frequenza, bassa rilevanza; lunga distanza: bassa intensità, bassa frequenza, alta rilevanza; al centro il soggetto (intermediario finanziario, banca).
+- I mercati di input e di output in cui gli stessi intermediari finanziari agiscono; comprende clienti, organizzazioni alternative, nuovi entranti competitori potenziali, fornitori dei fattori.
+- Dai soggetti che hanno il potere di determinare le regole che disciplinano lo svolgimento delle attività ai diversi livelli (nazionale e internazionale).
+
+**D:** ⚠️ Come si configura l'ambiente, e per quali obiettivi vi compete l'intermediario finanziario, secondo la slide 4 della lezione 07?
+**R:** «L'ambiente si configura come **ambiente o scenario competitivo**, contesto in cui l'intermediario finanziario compete su diversi fronti **per perseguire e conseguire i propri obiettivi**: Rendimento/rischio; Volumi di produzione; Segmentazione della clientela; Selezione e acquisizione delle risorse; Quota di mercato **ecc.**» (slide 4). ⚠️ L'elenco è aperto. La docente li chiama «indicatori» da misurare con una certa frequenza per capire se la strategia funziona ([00:02:50]–[00:03:38]).
+**Opzione:** Come ambiente o scenario competitivo, contesto in cui l'intermediario finanziario compete su diversi fronti per perseguire e conseguire i propri obiettivi: rendimento/rischio, volumi di produzione, segmentazione della clientela, selezione e acquisizione delle risorse, quota di mercato ecc.
+**Distrattori:**
+- Come quadro istituzionale, contesto in cui l'intermediario finanziario compete su diversi fronti per perseguire e conseguire i propri obiettivi: rendimento/rischio, volumi di produzione, segmentazione della clientela, selezione e acquisizione delle risorse, quota di mercato ecc.
+- Volumi di produzione, prezzi, diversificazione, innovazione, investimento, tecnologie di processo, riorganizzazione e ristrutturazione delle combinazioni produttive e distributive, crescita/espansione, acquisizioni e fusioni.
+- Sugli attori dello scenario competitivo in cui l'impresa agisce per la produzione di valore; gli attori sono principalmente gli intermediari finanziari che formano il settore (Financial Services Industry).
+
+**D:** ⚠️ Di chi e di che anno è il modello di analisi dell'ambiente o dello scenario competitivo della lezione 07, e come si è consolidato?
+**R:** «Il modello di analisi dell'ambiente o della scenario competitivo di **Porter (1998)**: Un modello consolidato mediante **continue e diffuse applicazioni e verifiche empiriche**» (slide 5, refuso compreso). La docente: «Michael Porter, che è stato sviluppato nel 1998», usato sia dalla comunità accademica sia da quella manageriale ([00:03:50]–[00:04:02]). ⚠️ Il **1988** della slide 16 è l'anno di Basilea 1.
+**Opzione:** Di Porter (1998): un modello consolidato mediante continue e diffuse applicazioni e verifiche empiriche.
+**Distrattori:**
+- Di Porter (1988): un modello consolidato mediante continue e diffuse applicazioni e verifiche empiriche.
+- Basilea 1 – 1988 e Basilea 2 – 2007, del Basel Committee on Bank Supervision.
+- Modello SECI.
+
+**D:** ⚠️ Su che cosa pone l'attenzione il modello di Porter, e chi ne sono principalmente gli attori, secondo la lezione 07?
+**R:** «**Attenzione agli attori dello scenario competitivo** in cui l'impresa agisce **per la produzione di valore**» e «Gli attori sono **principalmente gli intermediari finanziari che formano il settore** (*Financial Services Industry*)» (slide 5; [00:04:22]–[00:04:39]). ⚠️ Le **imprese di assicurazione** non appartengono convenzionalmente al settore (stessa slide).
+**Opzione:** Sugli attori dello scenario competitivo in cui l'impresa agisce per la produzione di valore; gli attori sono principalmente gli intermediari finanziari che formano il settore (Financial Services Industry).
+**Distrattori:**
+- Sugli attori dello scenario competitivo in cui l'impresa agisce per la produzione di valore; gli attori sono principalmente gli intermediari finanziari e le imprese di assicurazione che formano il settore (Financial Services Industry).
+- Con tecnologie di processo in parte diverse replicano i prodotti e i servizi degli intermediari finanziari classici, e quindi intermediano anch'essi; l'esempio è il promotore creditizio.
+- Il presente ha memoria del passato, ne subisce l'eredità (effetto legacy e condizionamento culturale): in situazione di basso cambiamento il passato è un'esperienza utile, in situazione di alto cambiamento è un'esperienza inutile.
+
+**D:** ⚠️ Da che cosa deriva la definizione convenzionale del settore, secondo la lezione 07?
+**R:** «Definizione convenzionale deriva da **consuetudine** di accomunare intermediari finanziari "**omologhi**" (distinti dagli **stessi** caratteri, tipi e forme di attività, forma di processo produttivo e distributivo)» (slide 5). Per la docente sono «gruppi abbastanza omogenei» ([00:04:56]–[00:05:18]).
+**Opzione:** Dalla consuetudine di accomunare intermediari finanziari omologhi (distinti dagli stessi caratteri, tipi e forme di attività, forma di processo produttivo e distributivo).
+**Distrattori:**
+- Dalla consuetudine di accomunare intermediari finanziari omologhi (distinti dagli stessi caratteri, tipi e forme di attività, stessa dimensione e quota di mercato).
+- Come livello di intensità, frequenza o rilevanza dell'interazione con gli altri soggetti presenti nell'ambiente e quindi influenti sul risultato (successo/insuccesso) delle politiche aziendali poste in atto.
+- Circuiti dello scambio diretto in grado di sostituire gli intermediari finanziari: surroga dell'offerta e della capacità produttiva/distributiva; soddisfazione dei bisogni finanziari dei clienti degli intermediari finanziari.
+
+**D:** ⚠️ Che posizione hanno le imprese di assicurazione rispetto al settore, secondo la definizione convenzionale della lezione 07?
+**R:** «Le imprese di assicurazione **non appartengono convenzionalmente** al settore, **pur** svolgendo attività, e avendo caratteri di struttura e di funzionamento, simili (omologabili) a quelli degli intermediari finanziari, di tipo creditizio o/e mobiliare» (slide 5; [00:05:22]). ⚠️ La concessiva conta: sono simili, eppure escluse. Il settore si può però **allargare** fino a includerle, come nella figura della slide 6 ([00:05:46]–[00:06:23]).
+**Opzione:** Non appartengono convenzionalmente al settore, pur svolgendo attività, e avendo caratteri di struttura e di funzionamento, simili (omologabili) a quelli degli intermediari finanziari, di tipo creditizio o/e mobiliare.
+**Distrattori:**
+- Appartengono convenzionalmente al settore, perché svolgono attività, e hanno caratteri di struttura e di funzionamento, simili (omologabili) a quelli degli intermediari finanziari, di tipo creditizio o/e mobiliare.
+- Gli attori della domanda, rappresentati dalle famiglie, dalle imprese e dalla PA o da qualsiasi altro soggetto acquirente, consumatore e utente di prodotti e servizi finanziari; mercati degli output o di sbocco.
+- È la dimensione spaziale: dal contesto all'impresa e dall'impresa al contesto (es. pressioni politiche, lobbying, innovazione).
+
+**D:** Quali tipologie di intermediari comprende il settore finanziario «allargato» della slide 6 della lezione 07?
+**R:** La figura della slide 6 ha cinque bolle: **banche**, **assicurazioni**, **credito al consumo**, **SIM** (Società di Intermediazione Mobiliare), **SGR** (Società di Gestione del Risparmio). La docente le elenca nell'ordine banche, SIM, SGR, credito al consumo «e anche le assicurazioni»: è il settore «un pochino più allargato» rispetto alla definizione convenzionale, che esclude le assicurazioni ([00:06:07]–[00:06:23]).
+**Opzione:** Banche, SIM (Società di Intermediazione Mobiliare), SGR (Società di Gestione del Risparmio), credito al consumo e assicurazioni.
+**Distrattori:**
+- Banche, SIM (Società di Intermediazione Mobiliare), SGR (Società di Gestione del Risparmio) e credito al consumo, senza le assicurazioni.
+- Nuovi concorrenti ed entranti potenziali, fornitori, clienti, prodotti e servizi sostitutivi.
+- Volumi di produzione, prezzi, diversificazione, innovazione, investimento, tecnologie di processo, riorganizzazione e ristrutturazione delle combinazioni produttive e distributive, crescita/espansione, acquisizioni e fusioni.
+
+**D:** ⚠️ Quali forze, oltre alla rivalità fra gli intermediari concorrenti, circondano il «settore o industria» nello schema del modello di Porter della slide 7 della lezione 07?
+**R:** In alto «**Nuovi concorrenti, Entranti potenziali**», a sinistra «**Fornitori**», a destra «**Clienti**», in basso «**Prodotti e servizi sostitutivi**»; al centro il settore o industria («Inintermediari concorrenti», refuso; «Rivalità competitiva -> comportamenti, evoluzione strutturale») (slide 7; [00:06:42]–[00:08:10]). ⚠️ Il «**contesto istituzionale e normativo e ambiente tecnologico**» sta **alla base** dello schema e non è una delle cinque forze: «dobbiamo andare a analizzare sì 5 forze di Porter [...] ma dobbiamo anche andare ad analizzare il contesto» ([00:20:12]).
+**Opzione:** Nuovi concorrenti ed entranti potenziali, fornitori, clienti, prodotti e servizi sostitutivi.
+**Distrattori:**
+- Nuovi concorrenti ed entranti potenziali, fornitori, clienti, contesto istituzionale e normativo e ambiente tecnologico.
+- Banche, SIM (Società di Intermediazione Mobiliare), SGR (Società di Gestione del Risparmio), credito al consumo e assicurazioni.
+- Le organizzazioni alternative determinano un effetto di disintermediazione; i competitori potenziali un'intermediazione ulteriore.
+
+**D:** ⚠️ Che posto occupano gli intermediari concorrenti nello scenario competitivo, e chi è un concorrente, secondo la slide 8 della lezione 07?
+**R:** «1. Intermediari concorrenti • **Spazio centrale** (la **prima** dimensione dello scenario competitivo da considerare) • Omologazione di origine "**normativa**": concorrente è un **intermediario omologo** (es. banca – banca)» (slide 8). Per la docente la prima cosa da fare è «definire i competitors»: se l'azienda è una banca, i concorrenti sono le banche, secondo «una regola convenzionale» ([00:08:41]–[00:09:14]).
+**Opzione:** Lo spazio centrale (la prima dimensione dello scenario competitivo da considerare); omologazione di origine normativa: concorrente è un intermediario omologo (es. banca – banca).
+**Distrattori:**
+- Lo spazio centrale (la prima dimensione dello scenario competitivo da considerare); omologazione di origine normativa: concorrente è qualsiasi impresa capace di offrire prodotti e servizi in grado di competere (es. banca – promotore creditizio).
+- Non appartengono convenzionalmente al settore, pur svolgendo attività, e avendo caratteri di struttura e di funzionamento, simili (omologabili) a quelli degli intermediari finanziari, di tipo creditizio o/e mobiliare.
+- Dai soggetti che hanno il potere di determinare le regole che disciplinano lo svolgimento delle attività ai diversi livelli (nazionale e internazionale).
+
+**D:** ⚠️ Chi sono gli incumbent, e quali comportamenti se ne osservano, secondo la slide 8 della lezione 07?
+**R:** «Osservazione dei comportamenti competitivi (**attivi e reattivi**) degli **attori interni** (*incumbent* – **già presenti sul mercato**)» (slide 8; [00:09:30]). ⚠️ Sono gli intermediari concorrenti: «concorrenti» (domande 3 e 4 del test) e «incumbent players» (domande 3, 4 e 5), distrattori della piattaforma, indicano la stessa categoria. Chi non è ancora sul mercato è un **nuovo entrante** (slide 12).
+**Opzione:** Gli attori interni, già presenti sul mercato: se ne osservano i comportamenti competitivi (attivi e reattivi).
+**Distrattori:**
+- Gli attori esterni, non ancora presenti sul mercato: se ne osservano i comportamenti competitivi (attivi e reattivi).
+- Organizzazioni alternative.
+- Competitori potenziali.
+
+**D:** ⚠️ Quali scelte degli incumbent vanno osservate nell'analisi degli intermediari concorrenti, secondo la slide 8 della lezione 07?
+**R:** «Volumi di produzione • Prezzi • Diversificazione • Innovazione • Investimento • Tecnologie di processo • Riorganizzazione e ristrutturazione delle combinazioni produttive e distributive • Crescita/espansione • **Acquisizioni e fusioni**» (slide 8; [00:09:30]–[00:10:22]). ⚠️ Nove voci, senza «ecc.». «Segmentazione della clientela» e «quota di mercato» sono **obiettivi** della slide 4, non scelte degli incumbent.
+**Opzione:** Volumi di produzione, prezzi, diversificazione, innovazione, investimento, tecnologie di processo, riorganizzazione e ristrutturazione delle combinazioni produttive e distributive, crescita/espansione, acquisizioni e fusioni.
+**Distrattori:**
+- Volumi di produzione, prezzi, diversificazione, innovazione, investimento, tecnologie di processo, riorganizzazione e ristrutturazione delle combinazioni produttive e distributive, crescita/espansione, segmentazione della clientela.
+- Dal proprio punto di osservazione, secondo un approccio cognitivo soggettivo e autoreferenziale.
+- Come variabile dell'ambiente generale: concorre a modificare e a innovare le condizioni di svolgimento (processi e prodotti, produzione e distribuzione) dell'attività di intermediazione finanziaria.
+
+**D:** ⚠️ Che cos'è lo spazio circostante al settore, e quali soggetti o organizzazioni comprende, secondo la slide 9 della lezione 07?
+**R:** «Spazio circostante al settore: i **mercati di input e di output** in cui gli stessi intermediari finanziari agiscono e che comprende diversi soggetti/organizzazioni: Clienti; Organizzazioni alternative; Nuovi entranti competitori potenziali; **Fornitori dei fattori**» (slide 9; [00:11:16]–[00:11:46]). La slide sottolinea che vanno analizzati i soggetti che scambiano o/e competono con gli intermediari «**fuori dai confini del settore**». ⚠️ Gli **intermediari concorrenti** non sono nello spazio circostante: sono lo spazio **centrale** (slide 8).
+**Opzione:** I mercati di input e di output in cui gli stessi intermediari finanziari agiscono; comprende clienti, organizzazioni alternative, nuovi entranti competitori potenziali, fornitori dei fattori.
+**Distrattori:**
+- I mercati di input e di output in cui gli stessi intermediari finanziari agiscono; comprende clienti, organizzazioni alternative, nuovi entranti competitori potenziali, intermediari concorrenti.
+- Sugli attori dello scenario competitivo in cui l'impresa agisce per la produzione di valore; gli attori sono principalmente gli intermediari finanziari che formano il settore (Financial Services Industry).
+- Breve distanza: alta intensità, alta frequenza, alta rilevanza; lunga distanza: bassa intensità, bassa frequenza, bassa rilevanza; al centro il soggetto (intermediario finanziario, banca).
+
+**D:** ⚠️ Come si chiamano gli attori della domanda, rappresentati dalle famiglie, dalle imprese e dalla PA, secondo il test della lezione 07 (domanda 3)?
+**R:** **Clienti**: è la slide 10 alla lettera, «2. Clienti — Gli attori della domanda, rappresentanti dalle famiglie, dalle imprese e dalla PA» (refuso della slide), che la domanda tronca prima di «o da qualsiasi altro soggetto acquirente, consumatore e utente di prodotti e servizi finanziari» ([00:12:00]). Distrattori del test: «concorrenti» e «incumbent players», che sono la stessa categoria (gli intermediari omologhi già presenti sul mercato, slide 8), e «fornitori», che stanno sui mercati degli **input** (slide 13), mentre i clienti sono i mercati degli **output**.
+**Opzione:** Clienti.
+**Distrattori:**
+- Concorrenti.
+- Fornitori.
+- Incumbent players.
+
+**D:** ⚠️ Come definisce i clienti la slide 10 della lezione 07, e a quali mercati corrispondono?
+**R:** «Gli attori della domanda, rappresentanti dalle famiglie, dalle imprese e dalla PA **o da qualsiasi altro soggetto acquirente, consumatore e utente** di prodotti e servizi finanziari • Soddisfazione dei **mutevoli** bisogni di natura finanziaria • **Mercati degli output o di sbocco**» (slide 10, refuso «rappresentanti» compreso; [00:12:00]–[00:12:36]). ⚠️ L'elenco non si chiude con la PA, come fa la domanda 3 del test.
+**Opzione:** Gli attori della domanda, rappresentati dalle famiglie, dalle imprese e dalla PA o da qualsiasi altro soggetto acquirente, consumatore e utente di prodotti e servizi finanziari; mercati degli output o di sbocco.
+**Distrattori:**
+- Gli attori della domanda, rappresentati soltanto dalle famiglie, dalle imprese e dalla PA; mercati degli output o di sbocco.
+- Gli attori interni, già presenti sul mercato: se ne osservano i comportamenti competitivi (attivi e reattivi).
+- Dal proprio punto di osservazione, secondo un approccio cognitivo soggettivo e autoreferenziale.
+
+**D:** Perché, per la docente, l'analisi dei clienti è fondamentale per un intermediario finanziario?
+**R:** Perché il settore finanziario ha un'**alta intensità dei servizi**, e nel **terziario** il ruolo del cliente è fondamentale: le sue preferenze impattano su tutto ciò che avviene nella struttura organizzativa e si ripercuotono sulla strategia organizzativa. L'analisi dei clienti serve a definire la **strategia di posizionamento**, e di conseguenza i processi e la struttura organizzativa ([00:12:40]–[00:13:21]). I mercati dei clienti sono «l'elemento finale a cui si rivolge tutto il processo produttivo» ([00:12:17]).
+
+**D:** ⚠️ Come si chiamano le organizzazioni che offrono prodotti e servizi sostitutivi a quelli classici degli intermediari finanziari, utilizzando modalità di scambio alternativa, secondo il test della lezione 07 (domanda 4)?
+**R:** **Organizzazioni alternative**: è la slide 11 alla lettera, «3. Organizzazioni alternative — Organizzazioni che offrono prodotti e servizi sostituitivi a quelli classici degli intermediari finanziari (prestiti e depositi), utilizzando modalità di scambio alternativa», senza la parentesi ([00:13:30]). Nello schema della slide 7 sono la casella «Prodotti e servizi sostitutivi». Distrattori del test: «concorrenti» e «incumbent players» (gli intermediari omologhi, slide 8) e «fornitori» (slide 13). ⚠️ Nella domanda 5 «organizzazioni alternative» diventa un distrattore.
+**Opzione:** Organizzazioni alternative.
+**Distrattori:**
+- Concorrenti.
+- Fornitori.
+- Incumbent players.
+
+**D:** ⚠️ Che cosa sono i mercati mobiliari, e in che modo sostituiscono gli intermediari finanziari, secondo la slide 11 della lezione 07?
+**R:** «**Mercati mobiliari** (**circuiti dello scambio diretto**) in grado di sostituire gli intermediari finanziari: • **Surroga** dell'offerta e della capacità produttiva/distributiva • **Soddisfazione dei bisogni finanziari** dei clienti degli intermediari finanziari», e ne segue che le organizzazioni alternative «Determinano un effetto di **disintermediazione**» (slide 11). ⚠️ La docente dice «mercati **immobiliari**» ([00:13:44]) e fa l'esempio di un costruttore che vende casa senza mutuo bancario ([00:14:33]): nelle opzioni vale la slide.
+**Opzione:** Circuiti dello scambio diretto in grado di sostituire gli intermediari finanziari: surroga dell'offerta e della capacità produttiva/distributiva; soddisfazione dei bisogni finanziari dei clienti degli intermediari finanziari.
+**Distrattori:**
+- Circuiti dello scambio indiretto in grado di sostituire gli intermediari finanziari: surroga dell'offerta e della capacità produttiva/distributiva; soddisfazione dei bisogni finanziari dei clienti degli intermediari finanziari.
+- Con tecnologie di processo in parte diverse replicano i prodotti e i servizi degli intermediari finanziari classici, e quindi intermediano anch'essi; l'esempio è il promotore creditizio.
+- Sono contendibili; la combinazione settore-mercato si colloca in uno spazio più ampio (il quadro istituzionale e ambiente tecnologico), che definisce le regole e le condizioni in cui si svolge l'attività finanziaria e quella di intermediazione.
+
+**D:** ⚠️ Qual è la differenza tra le organizzazioni alternative e i competitori potenziali, secondo la lezione 07?
+**R:** «La differenza tra le organizzazioni alternative e i competitori potenziali: **disintermediazione VS intermediazione ulteriore**» (slide 12); le organizzazioni alternative «Determinano un effetto di disintermediazione» (slide 11). Gli esempi della docente: il **costruttore** che vende casa al cliente senza che questi si rivolga a una banca per il mutuo (disintermediazione, [00:14:33]–[00:14:48]); il **promotore creditizio**, che media le relazioni fra la banca e il cliente, «un passaggio ulteriore» (intermediazione «a intensità ancora più elevata», [00:16:21]–[00:17:11]).
+**Opzione:** Le organizzazioni alternative determinano un effetto di disintermediazione; i competitori potenziali un'intermediazione ulteriore.
+**Distrattori:**
+- Le organizzazioni alternative determinano un'intermediazione ulteriore; i competitori potenziali un effetto di disintermediazione.
+- Breve distanza: alta intensità, alta frequenza, alta rilevanza; lunga distanza: bassa intensità, bassa frequenza, bassa rilevanza; al centro il soggetto (intermediario finanziario, banca).
+- Gli attori interni, già presenti sul mercato: se ne osservano i comportamenti competitivi (attivi e reattivi).
+
+**D:** ⚠️ Come si chiamano le imprese non omologabili come intermediari finanziari in senso proprio, capaci di offrire prodotti e servizi in grado di competere con quelli degli intermediari, secondo il test della lezione 07 (domanda 5)?
+**R:** **Competitori potenziali**: è la slide 12 alla lettera, «4. Nuovi entranti competitori potenziali — Le imprese non omologabili come intermediari finanziari in senso proprio, capaci di offrire, con ampiezza di gamma piò o meno estesa, prodotti e servizi in grado di competere con quelli degli intermediari finanziari per la soddisfazione dei bisogni dei clienti (es. promotore creditizio)» (refuso «piò» compreso; [00:15:17]). La piattaforma aggiunge «degli **stessi** bisogni» e riprende il refuso «piò». ⚠️ La trappola è «**organizzazioni alternative**», la chiave della domanda 4: quelle offrono prodotti **sostitutivi** con modalità di scambio alternativa, qui la parola che discrimina è «**non omologabili**». Gli altri distrattori sono «fornitori» (slide 13) e «incumbent players» (gli intermediari già presenti, slide 8).
+**Opzione:** Competitori potenziali.
+**Distrattori:**
+- Fornitori.
+- Incumbent players.
+- Organizzazioni alternative.
+
+**D:** ⚠️ Come riescono i nuovi entranti a replicare i prodotti e i servizi degli intermediari finanziari classici, con quale conseguenza e con quale esempio, secondo la slide 12 della lezione 07?
+**R:** «I nuovi entranti riescono con **tecnologie di processo in parte diverse** a replicare i prodotti e i servizi degli intermediari finanziari classici e quindi **intermediano anch'essi**» (slide 12); l'esempio della slide è il **promotore creditizio**. La docente: «tecnologie magari diverse, con le tecnologie innovative di processo» ([00:15:45]); il promotore creditizio «diventa a sua volta un'intermediazione» fra il cliente e la banca ([00:16:42]). ⚠️ La disintermediazione è l'effetto delle organizzazioni alternative, non dei nuovi entranti.
+**Opzione:** Con tecnologie di processo in parte diverse replicano i prodotti e i servizi degli intermediari finanziari classici, e quindi intermediano anch'essi; l'esempio è il promotore creditizio.
+**Distrattori:**
+- Con tecnologie di processo in parte diverse replicano i prodotti e i servizi degli intermediari finanziari classici, e quindi determinano un effetto di disintermediazione; l'esempio è il promotore creditizio.
+- Circuiti dello scambio diretto in grado di sostituire gli intermediari finanziari: surroga dell'offerta e della capacità produttiva/distributiva; soddisfazione dei bisogni finanziari dei clienti degli intermediari finanziari.
+- Dalla consuetudine di accomunare intermediari finanziari omologhi (distinti dagli stessi caratteri, tipi e forme di attività, forma di processo produttivo e distributivo).
+
+**D:** ⚠️ Che cosa dice la slide 13 della lezione 07 dei fornitori dei fattori delle combinazioni produttive?
+**R:** «5. Fornitori dei fattori delle combinazioni produttive • **Mercati degli input** • I fornitori sono in grado di esercitare **pressioni competitive** sugli intermediari finanziari • **Concorrenza tra gli intermediari** finanziari nell'attività di acquisizione delle risorse • Opportunità di implementare le strategie di successo» (slide 13). Per la docente i fornitori pesano perché gestiscono le **risorse critiche**, le risorse chiave ([00:17:48]); relazioni stabili con loro portano al contenimento dei costi e alla **riduzione dei costi di transazione**, quindi a una redditività maggiore ([00:18:46]). ⚠️ I mercati degli **output** sono dei clienti (slide 10).
+**Opzione:** Mercati degli input; i fornitori sono in grado di esercitare pressioni competitive sugli intermediari finanziari; concorrenza tra gli intermediari finanziari nell'attività di acquisizione delle risorse; opportunità di implementare le strategie di successo.
+**Distrattori:**
+- Mercati degli output o di sbocco; i fornitori sono in grado di esercitare pressioni competitive sugli intermediari finanziari; concorrenza tra gli intermediari finanziari nell'attività di acquisizione delle risorse; opportunità di implementare le strategie di successo.
+- Sempre più permeabili e indefinibili, poiché per diverse ragioni (normative, tecnologiche…) diventano sempre più superabili: si abbassano le barriere all'entrata; si riducono le barriere alla mobilità.
+- Come livello di intensità, frequenza o rilevanza dell'interazione con gli altri soggetti presenti nell'ambiente e quindi influenti sul risultato (successo/insuccesso) delle politiche aziendali poste in atto.
+
+**D:** ⚠️ Come sono i confini del settore, e perché, secondo la slide 14 della lezione 07?
+**R:** «I confini del settore: • Sempre più **permeabili e indefinibili**, poiché per diverse ragioni (normative, tecnologiche…) diventano sempre più superabili: • **si abbassano** "le barriere all'entrata" • **si riducono** "le barriere alla mobilità"» (slide 14). Per la docente tecnologie e normative permettono di superare le barriere; quelle alla mobilità sono «tra una categoria delle imprese e l'altra» ([00:19:11]–[00:19:40]). ⚠️ Le ragioni sono un elenco aperto.
+**Opzione:** Sempre più permeabili e indefinibili, poiché per diverse ragioni (normative, tecnologiche…) diventano sempre più superabili: si abbassano le barriere all'entrata; si riducono le barriere alla mobilità.
+**Distrattori:**
+- Sempre più permeabili e indefinibili, poiché per diverse ragioni (normative, tecnologiche…) diventano sempre più superabili: si abbassano le barriere all'entrata; aumentano le barriere alla mobilità.
+- Il presente ha memoria del passato, ne subisce l'eredità (effetto legacy e condizionamento culturale): in situazione di basso cambiamento il passato è un'esperienza utile, in situazione di alto cambiamento è un'esperienza inutile.
+- Le realtà più prossime, quelle che hanno l'impatto diretto, rilevante e rapido.
+
+**D:** ⚠️ Come sono i mercati e le attività degli intermediari finanziari, e in quale spazio si colloca la combinazione settore-mercato, secondo la slide 14 della lezione 07?
+**R:** «I mercati e le attività degli intermediari finanziari sono "**contendibili**" • La combinazione settore-mercato si colloca in uno **spazio più ampio** (il **quadro istituzionale e ambiente tecnologico**) -> definisce le regole e le condizioni in cui si svolge l'attività finanziaria e quella di intermediazione» (slide 14). La docente: «abbastanza contendibili, discutibili» ([00:19:49]–[00:20:12]). Lo spazio più ampio è il contesto alla base dello schema della slide 7.
+**Opzione:** Sono contendibili; la combinazione settore-mercato si colloca in uno spazio più ampio (il quadro istituzionale e ambiente tecnologico), che definisce le regole e le condizioni in cui si svolge l'attività finanziaria e quella di intermediazione.
+**Distrattori:**
+- Sono contendibili; la combinazione settore-mercato si colloca in uno spazio più ristretto (i mercati di input e di output), che definisce le regole e le condizioni in cui si svolge l'attività finanziaria e quella di intermediazione.
+- Nuovi concorrenti ed entranti potenziali, fornitori, clienti, prodotti e servizi sostitutivi.
+- Gli attori della domanda, rappresentati dalle famiglie, dalle imprese e dalla PA o da qualsiasi altro soggetto acquirente, consumatore e utente di prodotti e servizi finanziari; mercati degli output o di sbocco.
+
+**D:** ⚠️ Da chi è formato il quadro istituzionale, prima componente dell'ambiente generale, secondo la slide 15 della lezione 07?
+**R:** «1. Il quadro istituzionale è formato dai **soggetti che hanno il potere di determinare le regole** che disciplinano lo svolgimento delle attività **ai diversi livelli (nazionale e internazionale)**: • Hanno diversa natura e valenza delle regole: direttive, leggi, decreti, regolamenti, istruzioni, Indirizzi, contratti ecc. • Fanno riferimento a realtà specifiche e diverse: intermediari, mercati, strumenti finanziari, concorrenza, governance ecc.)» (slide 15). La docente lega il livello internazionale alla globalizzazione e all'accesso ai mercati internazionali ([00:20:34]–[00:21:31]).
+**Opzione:** Dai soggetti che hanno il potere di determinare le regole che disciplinano lo svolgimento delle attività ai diversi livelli (nazionale e internazionale).
+**Distrattori:**
+- Dai soggetti che hanno il potere di determinare le regole che disciplinano lo svolgimento delle attività al solo livello nazionale.
+- Le realtà più prossime, quelle che hanno l'impatto diretto, rilevante e rapido.
+- Le organizzazioni alternative determinano un effetto di disintermediazione; i competitori potenziali un'intermediazione ulteriore.
+
+**D:** ⚠️ Quali soggetti elenca la slide 16 della lezione 07 nel quadro istituzionale del settore-mercato degli intermediari finanziari?
+**R:** «Parlamento e Commissione dell'Unione Europea • International Accounting Standard Board (International Accounting Standards) • Banca dei Regolamenti Internazionali (Il Basel Committee on Bank Supervision "gli accordi sul capitale" Basilea 1 – 1988 e Basilea 2 - 2007) • Banca Centrale Europea (area dell'euro) • Parlamento e Governo nazionale • Banca d'Italia • Commissione Nazionale per le Società e la Borsa (**Consob**) • Autorità Garante della Concorrenza e del Mercato (**Antitrust**) • Associazione di categoria (l'**Associazione Bancaria Italiana**) • **Organizzazioni sindacali di settore**» (slide 16; [00:21:42]–[00:22:50]). La docente introduce l'elenco con «come per esempio».
+**Opzione:** Parlamento e Commissione dell'Unione Europea; International Accounting Standard Board (International Accounting Standards); Banca dei Regolamenti Internazionali (il Basel Committee on Bank Supervision, gli accordi sul capitale Basilea 1 – 1988 e Basilea 2 – 2007); Banca Centrale Europea (area dell'euro); Parlamento e Governo nazionale; Banca d'Italia; Commissione Nazionale per le Società e la Borsa (Consob); Autorità Garante della Concorrenza e del Mercato (Antitrust); Associazione di categoria (l'Associazione Bancaria Italiana); organizzazioni sindacali di settore.
+**Distrattori:**
+- Parlamento e Commissione dell'Unione Europea; International Accounting Standard Board (International Accounting Standards); Banca dei Regolamenti Internazionali (il Basel Committee on Bank Supervision, gli accordi sul capitale Basilea 1 – 1988 e Basilea 2 – 2007); Banca Centrale Europea (area dell'euro); Parlamento e Governo nazionale; Banca d'Italia; Commissione Nazionale per le Società e la Borsa (Antitrust); Autorità Garante della Concorrenza e del Mercato (Consob); Associazione di categoria (l'Associazione Bancaria Italiana); organizzazioni sindacali di settore.
+- Banche, SIM (Società di Intermediazione Mobiliare), SGR (Società di Gestione del Risparmio), credito al consumo e assicurazioni.
+- I mercati di input e di output in cui gli stessi intermediari finanziari agiscono; comprende clienti, organizzazioni alternative, nuovi entranti competitori potenziali, fornitori dei fattori.
+
+**D:** ⚠️ Quali accordi sul capitale, e di che anni, ricorda la slide 16 della lezione 07 accanto alla Banca dei Regolamenti Internazionali?
+**R:** «Banca dei Regolamenti Internazionali (Il Basel Committee on Bank Supervision "gli accordi sul capitale" **Basilea 1 – 1988** e **Basilea 2 - 2007**)» (slide 16). La docente non legge la parentesi ([00:21:42]). ⚠️ Il **1998** è l'anno del modello di Porter (slide 5).
+**Opzione:** Basilea 1 – 1988 e Basilea 2 – 2007, del Basel Committee on Bank Supervision.
+**Distrattori:**
+- Basilea 1 – 1998 e Basilea 2 – 2007, del Basel Committee on Bank Supervision.
+- Di Porter (1998): un modello consolidato mediante continue e diffuse applicazioni e verifiche empiriche.
+- Capitale intellettuale.
+
+**D:** ⚠️ Come variabile di quale ambiente è presentata la tecnologia, e che cosa fa, secondo la slide 17 della lezione 07?
+**R:** «2. La tecnologia come **variabile dell'ambiente generale** • Concorre a **modificare e a innovare** le condizioni di svolgimento (processi e prodotti, produzione e distribuzione) dell'attività di intermediazione finanziaria» (slide 17). È la seconda componente, dopo il quadro istituzionale; per la docente lo sviluppo tecnologico va considerato per definire la strategia e la struttura organizzativa ([00:22:59]–[00:23:18]).
+**Opzione:** Come variabile dell'ambiente generale: concorre a modificare e a innovare le condizioni di svolgimento (processi e prodotti, produzione e distribuzione) dell'attività di intermediazione finanziaria.
+**Distrattori:**
+- Come variabile dell'ambiente generale: concorre a conservare e a stabilizzare le condizioni di svolgimento (processi e prodotti, produzione e distribuzione) dell'attività di intermediazione finanziaria.
+- Sono contendibili; la combinazione settore-mercato si colloca in uno spazio più ampio (il quadro istituzionale e ambiente tecnologico), che definisce le regole e le condizioni in cui si svolge l'attività finanziaria e quella di intermediazione.
+- Non appartengono convenzionalmente al settore, pur svolgendo attività, e avendo caratteri di struttura e di funzionamento, simili (omologabili) a quelli degli intermediari finanziari, di tipo creditizio o/e mobiliare.
+
+**D:** ⚠️ In che senso l'influenza fra contesto e impresa è bidirezionale, e a quale dimensione appartiene, secondo la slide 18 della lezione 07?
+**R:** «Influenza bidirezionale (**dimensione spaziale**): • Dal contesto all'impresa • Dall'impresa al contesto (es. pressioni politiche, lobbying, innovazione)» (slide 18). La docente aggiunge alle innovazioni la **disruptive innovation** «di cui abbiamo parlato prima» ([00:23:33]). ⚠️ La relazione passato-presente-futuro è invece la dimensione **temporale**.
+**Opzione:** È la dimensione spaziale: dal contesto all'impresa e dall'impresa al contesto (es. pressioni politiche, lobbying, innovazione).
+**Distrattori:**
+- È la dimensione temporale: dal contesto all'impresa e dall'impresa al contesto (es. pressioni politiche, lobbying, innovazione).
+- Lo spazio centrale (la prima dimensione dello scenario competitivo da considerare); omologazione di origine normativa: concorrente è un intermediario omologo (es. banca – banca).
+- Delle aspettative/previsioni rivolte al futuro: il presente considera diversi futuri alternativamente possibili con il rispettivo tasso di probabilità.
+
+**D:** ⚠️ Che memoria ha il presente del passato, e che cosa vale il passato in situazione di basso e di alto cambiamento, secondo la slide 18 della lezione 07?
+**R:** «Il presente ha "**memoria**" del passato, ne subisce l'eredità (**effetto legacy e condizionamento culturale**): • In situazione di **basso** cambiamento il passato è "un'esperienza **utile**" • In situazione di **alto** cambiamento il passato è "un'esperienza **inutile**"» (slide 18). Per la docente in alto cambiamento il passato è «obsoleto», perché le condizioni cambiano e ciò che si è appreso va rivisto; parla anche di «past dependency, la dipendenza del proprio percorso» ([00:24:04]–[00:25:06]).
+**Opzione:** Il presente ha memoria del passato, ne subisce l'eredità (effetto legacy e condizionamento culturale): in situazione di basso cambiamento il passato è un'esperienza utile, in situazione di alto cambiamento è un'esperienza inutile.
+**Distrattori:**
+- Il presente ha memoria del passato, ne subisce l'eredità (effetto legacy e condizionamento culturale): in situazione di basso cambiamento il passato è un'esperienza inutile, in situazione di alto cambiamento è un'esperienza utile.
+- Lo spazio centrale (la prima dimensione dello scenario competitivo da considerare); omologazione di origine normativa: concorrente è un intermediario omologo (es. banca – banca).
+- Sempre più permeabili e indefinibili, poiché per diverse ragioni (normative, tecnologiche…) diventano sempre più superabili: si abbassano le barriere all'entrata; si riducono le barriere alla mobilità.
+
+**D:** ⚠️ Di che cosa tiene conto lo spessore temporale dell'ambiente, e quanti futuri considera il presente, secondo la slide 18 della lezione 07?
+**R:** «Lo spessore temporale dell'ambiente tiene conto delle **aspettative/previsioni rivolte al futuro**: • Il presente considera **diversi futuri alternativamente possibili** con il **rispettivo tasso di probabilità**» (slide 18; [00:25:17]–[00:25:25]). Per la docente serve una prospettiva al futuro per definire diversi **scenari di sviluppo** e alternative da percorrere se l'ambiente analizzato con le cinque forze di Porter cambia ([00:25:34]–[00:25:42]).
+**Opzione:** Delle aspettative/previsioni rivolte al futuro: il presente considera diversi futuri alternativamente possibili con il rispettivo tasso di probabilità.
+**Distrattori:**
+- Delle aspettative/previsioni rivolte al futuro: il presente considera un unico futuro possibile, quello con il più alto tasso di probabilità.
+- Basilea 1 – 1988 e Basilea 2 – 2007, del Basel Committee on Bank Supervision.
+- Modello di 5 forze di Porter.
+
+**D:** ⚠️ Come si chiama la realtà in cui il soggetto esiste e svolge la propria attività e con la quale si pone in relazione, secondo il test della lezione 07 (domanda 1)?
+**R:** **Ambiente**: è la slide 2 alla lettera, «L'ambiente è tutto ciò che sta intorno, realtà in cui il soggetto esiste e svolge la propria attività e con la quale si pone in relazione», senza «tutto ciò che sta intorno» ([00:00:43]). Distrattori del test: «organizzazione», che è il soggetto stesso, l'impresa, non ciò che la circonda; «famiglia», che nella slide 10 è uno degli attori della domanda; «comunità», che compare solo nel transcript, per la comunità accademica e manageriale che usa il modello di Porter ([00:04:02]).
+**Opzione:** Ambiente.
+**Distrattori:**
+- Organizzazione.
+- Comunità.
+- Famiglia.
+
+**D:** ⚠️ Qual è uno dei principali modelli di analisi dell'ambiente o dello scenario competitivo, secondo il test della lezione 07 (domanda 2)?
+**R:** Il **modello di 5 forze di Porter**. La slide 5 dice «Il modello di analisi dell'ambiente o della scenario competitivo di Porter (1998)»; «uno dei principali modelli» ([00:03:50]) e «5 forze di Porter» ([00:20:12]) sono parole della docente: la chiave è giusta ma non testuale. Distrattori del test, da altre lezioni o da un altro corso: il **modello SECI**, chiave della domanda 5 del test 04 (slide 4 della **lezione 04**) e distrattore nella domanda 5 del test 05; il **modello di Ansoff**, distrattore negli stessi due test, e il **modello di BCG**, che non compaiono nello strato di testo dei 30 deck né nei 20 transcript disponibili di questo corso (si studiano in *Management e finance*).
+**Opzione:** Modello di 5 forze di Porter.
+**Distrattori:**
+- Modello SECI.
+- Modello di Ansoff.
+- Modello di BCG.
