@@ -2,6 +2,322 @@
 
 <!-- Formato: blocchi "**D:** domanda" / "**R:** risposta", raggruppati per lezione sotto un'intestazione "## Lezione NN". -->
 
+## Lezione 01 — Bancatech e Fintech: banche, tecnologie e persone
+
+**D:** ⚠️ Quali tecnologie indica la slide 2 della lezione 01 come «il futuro del settore bancario»?
+**R:** «**Digitalizzazione, Data Management, Cloud Computing, Artificial Intellegence, Blockchain, Cybersecurity** - il futuro del settore bancario» (slide 2; «Intellegence» è un refuso della slide). La docente le elenca nello stesso ordine: fanno parte della vita odierna e del settore bancario, e costringono le imprese a ripensare le strategie di business e organizzative ([00:00:21]–[00:00:56]).
+**Opzione:** Digitalizzazione, Data Management, Cloud Computing, Artificial Intelligence, Blockchain, Cybersecurity.
+**Distrattori:**
+- Digitalizzazione, Data Management, Cloud Computing, Artificial Intelligence, Blockchain, Disintermediazione.
+- Efficienza; specializzazione; inclusione di segmenti di clientela prima non compatibili con l'offerta bancaria tradizionale; disintermediazione; superamento dei confini geografici.
+- Non più lo svolgimento di attività prescritte all'interno di un tempo quotidiano scandito e controllato, ma un flusso di prestazioni finalizzate al raggiungimento di obiettivi individuali e collettivi in un contesto globotico.
+
+**D:** Come definisce le «risorse umane» la slide 2 della lezione 01, a proposito del compimento della trasformazione?
+**R:** «"**Risorse umane**" – risorse preziose che **generano valore** e che possono essere **oggetto di investimento** per creare e sviluppare "**il patrimonio umano**"» (slide 2), sotto la voce «**Compimento della trasformazione tramite le PERSONE**». Per la docente la trasformazione è guidata «non soltanto dalle tecnologie digitali ma **anche e soprattutto dalle persone**», e il patrimonio umano è «il patrimonio essenziale per guidare poi la trasformazione organizzativa» ([00:00:56]–[00:01:32]).
+**Opzione:** Risorse preziose che generano valore e che possono essere oggetto di investimento per creare e sviluppare il patrimonio umano.
+**Distrattori:**
+- Risorse preziose che generano valore e che possono essere oggetto di investimento per creare e sviluppare il capitale finanziario.
+- La riconsiderazione del modello di business e del rapporto tra azienda e lavoratore.
+- Il concetto del tempo si è contratto nello stesso modo in cui lo spazio si è dissolto.
+
+**D:** ⚠️ Come definisce la Bancatech la slide 2 della lezione 01?
+**R:** «"**Bancatech**" – è una banca che si rende **protagonista** dello sviluppo del settore finanziario con l'**adozione tempestiva** delle **più avanzate tecnologie**, rappresentando un **vettore di crescita per tutta l'economia**» (slide 2). La slide la introduce con «Dalla banda del Medioevo alla Bancatech», dove «banda» è un refuso per banca: la docente parla della «banca che esiste dal medioevo». Per lei la Bancatech adotta le tecnologie «digitali ed informatiche» ed è un vettore di crescita per l'economia «**sia nazionale sia globale**» ([00:01:35]–[00:02:06]).
+**Opzione:** È una banca che si rende protagonista dello sviluppo del settore finanziario con l'adozione tempestiva delle più avanzate tecnologie, rappresentando un vettore di crescita per tutta l'economia.
+**Distrattori:**
+- È una banca che si rende protagonista dello sviluppo del settore finanziario con l'adozione tempestiva delle più avanzate tecnologie, rappresentando un vettore di crescita per il solo settore bancario.
+- Il fenomeno non è provocato dalla tecnologia, bensì quest'ultima è un catalizzatore dell'innovazione finanziaria: una risposta a esigenze economiche nate in altri ambiti.
+- Una nuova categoria di lavoratori, prodotto di un contesto globotico, cioè globalizzazione + robotica.
+
+**D:** ⚠️ Che cos'è il Fintech per la slide 2 della lezione 01, e che tipo di rivoluzione rappresenta?
+**R:** «Bacnatech -> Fintech -> **intersezione tra tecnologia e finanza** -> rivoluzione **culturale ancora prima che economica**» (slide 2; «Bacnatech» è un refuso per Bancatech). ⚠️ L'ordine conta: prima culturale, poi economica. La docente parla di servizi che si collocano «a confine tra la finanza e le tecnologie» e che rivoluzionano «dal punto di vista culturale e dal punto di vista economico» mercati, imprese e aspettative dei clienti, senza dare la priorità ([00:02:20]–[00:02:52]).
+**Opzione:** L'intersezione tra tecnologia e finanza: una rivoluzione culturale ancora prima che economica.
+**Distrattori:**
+- L'intersezione tra tecnologia e finanza: una rivoluzione economica ancora prima che culturale.
+- Una nuova categoria di lavoratori, prodotto di un contesto globotico, cioè globalizzazione + robotica.
+- Il disallineamento delle competenze tra domanda e offerta; la competizione per attrarre e trattenere le risorse più preziose per lo sviluppo aziendale.
+
+**D:** ⚠️ Da quando, e da quale punto di vista, è dibattuto il Fintech, e su che cosa si concentra il focus nel 2015, secondo la slide 3 della lezione 01?
+**R:** «Fintech è un concetto dibattuto dal punto di vista **definitorio ed eziologico** sin dal **2007** (**Crisi finanziaria globale**)»; «Nel **2015** il focus sui fenomeni di **digitalizzazione** e sugli effetti di "**disruptive innovation**"» (slide 3). Per la docente è un concetto «recente», dibattuto dalla crisi finanziaria **del 2007-2009**; nel 2015 il focus «si è spostato» e gli studiosi cominciano a parlare dell'importanza degli strumenti digitali ([00:02:52]–[00:03:34]). ⚠️ Le due date non vanno scambiate.
+**Opzione:** Dal 2007 (crisi finanziaria globale), dal punto di vista definitorio ed eziologico; nel 2015 il focus passa ai fenomeni di digitalizzazione e agli effetti di disruptive innovation.
+**Distrattori:**
+- Dal 2015, dal punto di vista definitorio ed eziologico; nel 2007 (crisi finanziaria globale) il focus passa ai fenomeni di digitalizzazione e agli effetti di disruptive innovation.
+- Un fenomeno nuovo, rafforzato dalla crisi sanitaria (Covid-19): risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+- L'adozione delle più avanzate tecnologie per svolgere l'attività bancaria e il cambiamento delle aspettative e delle necessità della clientela.
+
+**D:** ⚠️ Che ruolo ha la tecnologia nel fenomeno Fintech, secondo la slide 3 della lezione 01?
+**R:** «Il fenomeno **non è provocato** dalla tecnologia, **bensì** quest'ultima è un **catalizzatore** dell'innovazione finanziaria -> risposta a esigenze economiche nate **in altri ambiti**» (slide 3). ⚠️ La docente attenua: il fenomeno «non è provocato **soltanto ed esclusivamente** dalla tecnologia», e le esigenze nascono anche in ambiti «economici, lavorativi e anche della vita di tutti i giorni» ([00:03:34]–[00:04:06]). All'esame vale la slide.
+**Opzione:** Il fenomeno non è provocato dalla tecnologia, bensì quest'ultima è un catalizzatore dell'innovazione finanziaria: una risposta a esigenze economiche nate in altri ambiti.
+**Distrattori:**
+- Il fenomeno non è provocato dalla finanza, bensì quest'ultima è un catalizzatore dell'innovazione tecnologica: una risposta a esigenze economiche nate in altri ambiti.
+- È una banca che si rende protagonista dello sviluppo del settore finanziario con l'adozione tempestiva delle più avanzate tecnologie, rappresentando un vettore di crescita per tutta l'economia.
+- La rapidità (o l'instantaneità), con poco margine di riflessività: ne deriva la richiesta di una superiore attenzione e concentrazione nell'esecuzione delle attività.
+
+**D:** ⚠️ Quali due cambiamenti riguardano il mercato del lavoro, fra i cambiamenti demografici della slide 4 della lezione 01?
+**R:** «MERCATO DEL LAVORO: • Uscita dal mercato di lavoro **dei baby boomers** • **Progressiva affermazione** delle generazioni **X, Y, Z** (*digital natives*) -> **Apertura** verso l'innovazione tecnologica» (slide 4). Per la docente i baby boomers sono le persone anziane che vanno in pensione; le generazioni X, Y «e soprattutto Z» sono più aperte all'innovazione, e il cambiamento demografico provoca un cambiamento dentro l'organizzazione bancaria e finanziaria ([00:05:48]–[00:06:33]).
+**Opzione:** L'uscita dal mercato di lavoro dei baby boomers e la progressiva affermazione delle generazioni X, Y, Z (digital natives), con l'apertura verso l'innovazione tecnologica.
+**Distrattori:**
+- L'uscita dal mercato di lavoro dei baby boomers e la progressiva affermazione delle generazioni X, Y, Z (digital natives), con la resistenza verso l'innovazione tecnologica.
+- Risorse preziose che generano valore e che possono essere oggetto di investimento per creare e sviluppare il patrimonio umano.
+- L'adozione delle più avanzate tecnologie per svolgere l'attività bancaria e il cambiamento delle aspettative e delle necessità della clientela.
+
+**D:** ⚠️ Quali cambiamenti riguardano la clientela, fra i cambiamenti demografici della slide 4 della lezione 01?
+**R:** «CLIENTELA: • **Cambiamento generazionale** • Portatrice di un **cambiamento di aspettative** promosso dall'interazione con **altri servizi non finanziari** (es. logistica: Amazon, Deliveroo, JustEat ecc.) • Preferenza dei modelli di business basati su **rapidità, precisione, semplicità, personalizzazione** e focalizzati sui **bisogni specifici del cliente** (*customer centricity*)» (slide 4). Per la docente ogni persona è insieme lavoratore e cliente, quindi lo stesso cambiamento generazionale riguarda i clienti; la customer centricity è «la centralità del cliente e la necessità di trattarlo in maniera molto personalizzata» ([00:06:33]–[00:08:49]). Dice «servizi non sempre finanziari» ([00:07:13]): vale la slide.
+**Opzione:** Il cambiamento generazionale; un cambiamento di aspettative promosso dall'interazione con altri servizi non finanziari (es. logistica: Amazon, Deliveroo, JustEat); la preferenza per modelli di business basati su rapidità, precisione, semplicità, personalizzazione e focalizzati sui bisogni specifici del cliente (customer centricity).
+**Distrattori:**
+- Il cambiamento generazionale; un cambiamento di aspettative promosso dall'interazione con altri servizi non finanziari (es. logistica: Amazon, Deliveroo, JustEat); la preferenza per modelli di business basati su rapidità, precisione, semplicità, standardizzazione e focalizzati sui bisogni specifici del cliente (customer centricity).
+- L'uscita dal mercato di lavoro dei baby boomers e la progressiva affermazione delle generazioni X, Y, Z (digital natives), con l'apertura verso l'innovazione tecnologica.
+- Percepire dipendenti e collaboratori come clienti interni, destinatari di servizi di gestione come la retribuzione, i corsi di formazione, la premiazione, il sistema di incentivazione.
+
+**D:** ⚠️ Che cosa richiede la centralità del cliente, secondo la slide 5 della lezione 01?
+**R:** «• Semplificazione e di snellimento delle **procedure formali** • Utilizzo delle **tecnologie digitali** che consentono di soddisfare il cliente, dando la **sensazione** di **trasparenza** e di **dominio sulle proprie scelte** • Sviluppo dei servizi bancari verso **piattaforme user-friendly** che valorizzano **customer experience** • **Cambiamento profondo** nei processi di lavoro e nell'organizzazione aziendale • **Aggiornamento delle competenze** dei lavoratori (dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity)» (slide 5). ⚠️ «Sensazione»: per la docente il dominio sulle scelte è, «tra virgolette», un'**illusione**, perché è l'impresa a guidare la scelta del consumatore, ma sposta la potenza nelle mani del cliente ([00:10:03]–[00:10:27]). La customer experience comincia **prima** dell'erogazione del servizio e continua **dopo**, con la fidelizzazione ([00:10:48]–[00:11:35]).
+**Opzione:** Semplificazione e snellimento delle procedure formali; utilizzo delle tecnologie digitali che consentono di soddisfare il cliente, dando la sensazione di trasparenza e di dominio sulle proprie scelte; sviluppo dei servizi bancari verso piattaforme user-friendly che valorizzano customer experience; cambiamento profondo nei processi di lavoro e nell'organizzazione aziendale; aggiornamento delle competenze dei lavoratori (dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity).
+**Distrattori:**
+- Semplificazione e snellimento delle procedure formali; utilizzo delle tecnologie digitali che consentono di soddisfare il cliente, dando la garanzia di trasparenza e di dominio sulle proprie scelte; sviluppo dei servizi bancari verso piattaforme user-friendly che valorizzano customer experience; cambiamento profondo nei processi di lavoro e nell'organizzazione aziendale; aggiornamento delle competenze dei lavoratori (dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity).
+- Efficienza; specializzazione; inclusione di segmenti di clientela prima non compatibili con l'offerta bancaria tradizionale; disintermediazione; superamento dei confini geografici.
+- Meccanismi di sviluppo del personale e di carriera (capacità di investire nelle proprie risorse umane); modifiche nelle relazioni tra manager e lavoratori; creazione della cultura di competenza a ogni livello.
+
+**D:** ⚠️ In che direzione va l'aggiornamento delle competenze dei lavoratori richiesto dalla centralità del cliente, secondo la slide 5 della lezione 01?
+**R:** «Aggiornamento delle competenze dei lavoratori (**dalla** tecnica bancaria e lettura dei bilanci **al** data management e alla cybersecurity)» (slide 5). Per la docente servono non solo le competenze tecniche specifiche, ma anche quelle tecnologiche e trasversali: analizzare, gestire ed elaborare i dati, e la cybersecurity, importante quando il modello organizzativo si sposta da uno spazio fisico a uno spazio virtuale ([00:12:13]–[00:13:15]).
+**Opzione:** Dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity.
+**Distrattori:**
+- Dal data management e dalla cybersecurity alla tecnica bancaria e lettura dei bilanci.
+- Dal tempo cronologico al tempo vissuto come esperienza individuale.
+- Dal controllo sul tempo di lavoro al controllo sul raggiungimento degli obiettivi; dalla presenza fisica alla disponibilità delle competenze.
+
+**D:** ⚠️ Quali altri fattori, oltre quello umano, sostengono la diffusione del fenomeno Fintech nell'ambito bancario, secondo la slide 6 della lezione 01?
+**R:** «• **Efficienza** • **Specializzazione** • **Inclusione** di segmenti di clientela **prima non compatibili** con l'offerta bancaria tradizionale • **Disintermediazione** • **Superamento dei confini geografici**» (slide 6). Per la docente questi fattori costringono l'azienda a rivedere struttura, strategia, organizzazione del lavoro e persone ([00:13:15]–[00:14:02]).
+**Opzione:** Efficienza; specializzazione; inclusione di segmenti di clientela prima non compatibili con l'offerta bancaria tradizionale; disintermediazione; superamento dei confini geografici.
+**Distrattori:**
+- Efficienza; specializzazione; inclusione di segmenti di clientela prima non compatibili con l'offerta bancaria tradizionale; intermediazione; superamento dei confini geografici.
+- Digitalizzazione, Data Management, Cloud Computing, Artificial Intelligence, Blockchain, Cybersecurity.
+- Pervasivo, inclusivo, irreversibile.
+
+**D:** ⚠️ Con quali tre aggettivi la slide 7 della lezione 01 qualifica il fenomeno Fintech e la sua declinazione Bancatech?
+**R:** «Fintech e la sua declinazione Bancatech è il fenomeno: • **Pervasivo** • **Inclusivo** • **Irreversibile**» (slide 7). «Irreversibile» risponde alla domanda della slide 3, se il fenomeno sia «solo una moda, una trasformazione effimera». La trascrizione automatica scrive «deriversibile» ([00:14:02]).
+**Opzione:** Pervasivo, inclusivo, irreversibile.
+**Distrattori:**
+- Pervasivo, inclusivo, reversibile.
+- Pervasivo, esclusivo, irreversibile.
+- Effimero, inclusivo, irreversibile.
+
+**D:** ⚠️ Che cosa ridefinisce il cambiamento epocale del Fintech, secondo la slide 7 della lezione 01?
+**R:** «E' un **cambiamento epocale** che ridefinisce: • il **modello di business delle banche** • Il **ruolo e la qualità delle persone che fanno la banca**» (slide 7). Per la docente le persone che fanno la banca aiutano a raggiungere l'obiettivo finale in termini di economicità e di qualità del servizio e soddisfazione del consumatore ([00:14:12]–[00:14:41]).
+**Opzione:** Il modello di business delle banche e il ruolo e la qualità delle persone che fanno la banca.
+**Distrattori:**
+- Il modello di business delle banche e il ruolo e il numero delle persone che fanno la banca.
+- Il modello di vigilanza delle banche e il ruolo e la qualità delle persone che fanno la banca.
+
+**D:** ⚠️ Come definisce la cultura Schein (2017), nella slide 8 della lezione 01?
+**R:** «**Cultura** è un **modello di principi condivisi** da un **gruppo sociale**, **appresi nel tempo** e **dimostratisi efficaci** per affrontare e risolvere problemi di **adattamento esterno** e i **integrazione interna** e che pertanto sono **insegnati ai nuovi membri** del gruppo come **modo corretto di percepire, pensare e provare sensazioni** in relazione a tali problemi (**Schein, 2017**)» (slide 8; «e i integrazione» è un refuso per «e di integrazione»). Per la docente i principi sono insegnati «non soltanto ai lavoratori che lavorano da tempo… ma anche ai nuovi membri, ai neoassunti», e la cultura definisce «un piano d'azione delle prassi» dell'azienda ([00:15:11]–[00:15:59]). ⚠️ Esterno con l'adattamento, interno con l'integrazione.
+**Opzione:** Un modello di principi condivisi da un gruppo sociale, appresi nel tempo e dimostratisi efficaci per affrontare e risolvere problemi di adattamento esterno e di integrazione interna e che pertanto sono insegnati ai nuovi membri del gruppo come modo corretto di percepire, pensare e provare sensazioni in relazione a tali problemi.
+**Distrattori:**
+- Un modello di principi condivisi da un gruppo sociale, appresi nel tempo e dimostratisi efficaci per affrontare e risolvere problemi di adattamento interno e di integrazione esterna e che pertanto sono insegnati ai nuovi membri del gruppo come modo corretto di percepire, pensare e provare sensazioni in relazione a tali problemi.
+- Non più lo svolgimento di attività prescritte all'interno di un tempo quotidiano scandito e controllato, ma un flusso di prestazioni finalizzate al raggiungimento di obiettivi individuali e collettivi in un contesto globotico.
+- Il fenomeno non è provocato dalla tecnologia, bensì quest'ultima è un catalizzatore dell'innovazione finanziaria: una risposta a esigenze economiche nate in altri ambiti.
+
+**D:** ⚠️ Quali due fattori modificano i riferimenti culturali del settore bancario, secondo la slide 8 della lezione 01?
+**R:** «1) L'**adozione delle più avanzate tecnologie** per svolgere l'attività bancarie e 2) Il **cambiamento delle aspettative e delle necessità della clientela** -> modifica dei riferimenti culturali del settore!» (slide 8). Per la docente anche la cultura organizzativa va quindi rivista «con la periodicità sicuramente **più breve**» ([00:15:59]–[00:16:29]).
+**Opzione:** L'adozione delle più avanzate tecnologie per svolgere l'attività bancaria e il cambiamento delle aspettative e delle necessità della clientela.
+**Distrattori:**
+- L'adozione delle più avanzate tecnologie per svolgere l'attività bancaria e il cambiamento delle aspettative e delle necessità dei dipendenti.
+- L'uscita dal mercato di lavoro dei baby boomers e la progressiva affermazione delle generazioni X, Y, Z (digital natives), con l'apertura verso l'innovazione tecnologica.
+- Digitalizzazione dei processi; implicazioni culturali, economiche, sociali (competenze, conoscenze, cultura, abitudini di lavoro); concorrenza nel mercato del lavoro di tutto il mondo (global employer e global employee).
+
+**D:** ⚠️ Quali sono, nell'ordine, gli aspetti di una cultura che cambia, secondo la slide 9 della lezione 01?
+**R:** «• L'**atteggiamento verso l'innovazione** • La **disponibilità alla collaborazione** e al **confronto inter-organizzativo** • I **modelli di relazione con i clienti e con il personale** • L'**apertura alla diversità** • La **visione del futuro** • La **modificazione dei concetti di spazio e di tempo**» (slide 9). ⚠️ L'ultima voce è la chiave della domanda 3 del test. Per la docente il confronto inter-organizzativo allarga i confini dell'organizzazione, e la relazione con il personale è il marketing interno ([00:16:36]–[00:18:34]).
+**Opzione:** L'atteggiamento verso l'innovazione; la disponibilità alla collaborazione e al confronto inter-organizzativo; i modelli di relazione con i clienti e con il personale; l'apertura alla diversità; la visione del futuro; la modificazione dei concetti di spazio e di tempo.
+**Distrattori:**
+- L'atteggiamento verso l'innovazione; la disponibilità alla collaborazione e al confronto inter-organizzativo; i modelli di relazione con i clienti e con il personale; l'apertura alla diversità; la visione del futuro; la modificazione dei concetti di lavoro e di risorse umane.
+- Meccanismi di sviluppo del personale e di carriera (capacità di investire nelle proprie risorse umane); modifiche nelle relazioni tra manager e lavoratori; creazione della cultura di competenza a ogni livello.
+- Digitalizzazione dei processi; implicazioni culturali, economiche, sociali (competenze, conoscenze, cultura, abitudini di lavoro); concorrenza nel mercato del lavoro di tutto il mondo (global employer e global employee).
+
+**D:** Che cosa intende la docente della lezione 01 per marketing interno?
+**R:** Accanto al marketing tradizionale, che cura le relazioni con i clienti, il marketing **interno** è la necessità di **percepire dipendenti e collaboratori come clienti interni**. Non sono clienti dei **servizi finanziari** che la banca offre alla clientela, ma di **servizi di gestione** «come la **retribuzione**, come i **corsi di formazione**, come la **premiazione**, il **sistema di incentivazione** e quant'altro». Con il personale si stabiliscono relazioni **durature**, per sviluppare e aggiornare le competenze chiave della trasformazione ([00:17:28]–[00:18:34]). È il senso della voce «modelli di relazione con i clienti e con il personale» della slide 9.
+**Opzione:** Percepire dipendenti e collaboratori come clienti interni, destinatari di servizi di gestione come la retribuzione, i corsi di formazione, la premiazione, il sistema di incentivazione.
+**Distrattori:**
+- Percepire dipendenti e collaboratori come clienti interni, destinatari dei servizi finanziari che la banca offre alla clientela.
+- Risorse preziose che generano valore e che possono essere oggetto di investimento per creare e sviluppare il patrimonio umano.
+- La presenza fisica sul posto di lavoro oltre l'orario a dimostrazione della fedeltà del lavoratore all'azienda non può più essere criterio di merito.
+
+**D:** ⚠️ Come sono cambiati i concetti di tempo e di spazio nel contesto della rivoluzione digitale, secondo la slide 10 della lezione 01?
+**R:** «Nel contesto della rivoluzione digitale **il concetto del tempo si è contratto** nello stesso modo in cui **lo spazio si è dissolto**» (slide 10). La docente: lo spazio «si è dissolto, si è diffuso» ([00:19:01]). ⚠️ Il tempo si contrae, lo spazio si dissolve: non vanno scambiati.
+**Opzione:** Il concetto del tempo si è contratto nello stesso modo in cui lo spazio si è dissolto.
+**Distrattori:**
+- Il concetto dello spazio si è contratto nello stesso modo in cui il tempo si è dissolto.
+- Il concetto del tempo si è dilatato nello stesso modo in cui lo spazio si è dissolto.
+
+**D:** ⚠️ Che cosa domina l'operatività nella rivoluzione digitale, e che cosa ne deriva, secondo la slide 10 della lezione 01?
+**R:** «La **rapidità** (o l'**instantaneità**) domina l'operatività con **poca margine della riflessività** -> richiesta di una **superiore attenzione e concentrazione** nell'esecuzione delle attività» (slide 10; «poca margine» è un refuso). Per la docente collaboratori e dipendenti non hanno molto tempo per rispondere a clienti, stakeholder e partner, e devono essere «molto reattivi o anzi proattivi» ([00:19:11]–[00:19:49]).
+**Opzione:** La rapidità (o l'instantaneità), con poco margine di riflessività: ne deriva la richiesta di una superiore attenzione e concentrazione nell'esecuzione delle attività.
+**Distrattori:**
+- La rapidità (o l'instantaneità), con poco margine di riflessività: ne deriva la richiesta di una minore attenzione e concentrazione nell'esecuzione delle attività.
+- Dal 2007 (crisi finanziaria globale), dal punto di vista definitorio ed eziologico; nel 2015 il focus passa ai fenomeni di digitalizzazione e agli effetti di disruptive innovation.
+- Dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity.
+
+**D:** ⚠️ Da quale concezione del tempo a quale si passa, secondo la slide 10 della lezione 01?
+**R:** «Dal "**tempo cronologico**" al tempo "**vissuto**" come esperienza "**individuale**"» (slide 10). La docente riferisce il tempo vissuto all'esperienza individuale «di ogni consumatore, di ogni cliente» ([00:20:24]–[00:20:40]).
+**Opzione:** Dal tempo cronologico al tempo vissuto come esperienza individuale.
+**Distrattori:**
+- Dal tempo vissuto come esperienza individuale al tempo cronologico.
+- Dal tempo cronologico al tempo vissuto come esperienza collettiva.
+
+**D:** ⚠️ Che cosa richiede la modificazione dei concetti di spazio e di tempo, nella conclusione della slide 10 della lezione 01?
+**R:** Un «**Ampio ventaglio di competenze** (**hard + soft skills** = **cognitive, tecnologiche, emotive, relazionali**)», a cui la slide 10 arriva con una freccia. Per la docente bisogna reagire in modo molto rapido, ma per dare una risposta adeguata servono competenze cognitive, tecniche e trasversali, quindi si deve investire nello sviluppo del capitale umano ([00:19:49]–[00:20:59]).
+**Opzione:** Un ampio ventaglio di competenze: hard + soft skills, cioè cognitive, tecnologiche, emotive, relazionali.
+**Distrattori:**
+- Un ampio ventaglio di sole hard skills: cognitive, tecnologiche, emotive, relazionali.
+- Un fenomeno nuovo, rafforzato dalla crisi sanitaria (Covid-19): risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+
+**D:** ⚠️ Quali conseguenze ha la dissoluzione della dimensione spaziale tramite la connessione virtuale, secondo la slide 11 della lezione 01?
+**R:** «• **Decontestualizzazione** dei processi • **Flessibilità della presenza** di lavoratori e manager sul posto di lavoro • Possibilità di **reperire e impiegare** delle competenze **senza spostamento** della risorsa umana che le detiene • Nascita di una nuova categoria di lavoratori – "**i telemigranti**" (prodotto di un contesto "**globotico**" = globalizzazione + robotica) • **Telemigrazione** è un fenomeno nuovo rafforzato dalla **crisi sanitaria (Covid-19)**: risiedere in una Nazione e lavorare in un'altra senza spostarsi» (slide 11). La freccia porta ai «Cambiamenti nel mondo del lavoro» della slide 12. Per la docente non si parla più di un ufficio fisico ma di uno spazio virtuale molto allargato, e i manager delle risorse umane possono accedere alle competenze in altri Paesi e contesti ([00:20:59]–[00:22:16]).
+**Opzione:** Decontestualizzazione dei processi; flessibilità della presenza di lavoratori e manager sul posto di lavoro; possibilità di reperire e impiegare delle competenze senza spostamento della risorsa umana che le detiene; nascita di una nuova categoria di lavoratori, i telemigranti (prodotto di un contesto globotico = globalizzazione + robotica); telemigrazione, fenomeno nuovo rafforzato dalla crisi sanitaria (Covid-19): risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+**Distrattori:**
+- Decontestualizzazione dei processi; rigidità della presenza di lavoratori e manager sul posto di lavoro; possibilità di reperire e impiegare delle competenze senza spostamento della risorsa umana che le detiene; nascita di una nuova categoria di lavoratori, i telemigranti (prodotto di un contesto globotico = globalizzazione + robotica); telemigrazione, fenomeno nuovo rafforzato dalla crisi sanitaria (Covid-19): risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+- L'intersezione tra tecnologia e finanza: una rivoluzione culturale ancora prima che economica.
+- Il modello di business delle banche e il ruolo e la qualità delle persone che fanno la banca.
+
+**D:** ⚠️ Chi sono i telemigranti, secondo la slide 11 della lezione 01?
+**R:** «Nascita di una **nuova categoria di lavoratori** – "**i telemigranti**" (prodotto di un contesto "**globotico**" = **globalizzazione + robotica**)» (slide 11). ⚠️ Per la docente i telemigranti vanno **oltre** il telelavoro, lo smart working, il lavoro flessibile e il lavoro agile; il contesto globotico «integra globalizzazione con robotica» ([00:22:16]–[00:22:43]).
+**Opzione:** Una nuova categoria di lavoratori, prodotto di un contesto globotico, cioè globalizzazione + robotica.
+**Distrattori:**
+- Una nuova categoria di lavoratori, prodotto di un contesto globotico, cioè globalizzazione + telelavoro.
+- I lavoratori in smart working, cioè in telelavoro, lavoro flessibile o lavoro agile, senza altre differenze.
+
+**D:** ⚠️ Che cos'è la telemigrazione, e da che cosa è stata rafforzata, secondo la slide 11 della lezione 01?
+**R:** «**Telemigrazione** è un **fenomeno nuovo** rafforzato dalla **crisi sanitaria (Covid-19)**: **risiedere in una Nazione e lavorare in un'altra senza spostarsi**» (slide 11). Per la docente è rafforzata «ancora di più» dalla crisi del Covid-19, e permette di lavorare per un'altra città o nazione perché si lavora in spazi globali, virtuali e digitali ([00:22:43]–[00:23:28]). ⚠️ La crisi che rafforza la telemigrazione è quella **sanitaria**; la crisi finanziaria globale (2007) è quella da cui parte il dibattito sul Fintech (slide 3).
+**Opzione:** Un fenomeno nuovo, rafforzato dalla crisi sanitaria (Covid-19): risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+**Distrattori:**
+- Un fenomeno nuovo, rafforzato dalla crisi finanziaria globale: risiedere in una Nazione e lavorare in un'altra senza spostarsi.
+- Dal 2007 (crisi finanziaria globale), dal punto di vista definitorio ed eziologico; nel 2015 il focus passa ai fenomeni di digitalizzazione e agli effetti di disruptive innovation.
+- Il concetto del tempo si è contratto nello stesso modo in cui lo spazio si è dissolto.
+
+**D:** ⚠️ Quali cambiamenti nel mondo del lavoro elenca la slide 12 della lezione 01, prima della freccia?
+**R:** «• **Digitalizzazione dei processi** • **Implicazioni culturali, economiche, sociali** (competenze, conoscenze, cultura, abitudini di lavoro) • **Concorrenza** nel mercato del lavoro **di tutto il mondo** (*global employer e global employee*)» (slide 12). Per la docente la concorrenza è «sicuramente aumentata» perché ogni impresa bancaria e finanziaria può accedere ai lavoratori di tutto il mondo; per restare competitivi bisogna accrescere il proprio potenziale ([00:23:28]–[00:24:41]).
+**Opzione:** Digitalizzazione dei processi; implicazioni culturali, economiche, sociali (competenze, conoscenze, cultura, abitudini di lavoro); concorrenza nel mercato del lavoro di tutto il mondo (global employer e global employee).
+**Distrattori:**
+- Digitalizzazione dei processi; implicazioni culturali, economiche, sociali (competenze, conoscenze, cultura, abitudini di lavoro); cooperazione nel mercato del lavoro di tutto il mondo (global employer e global employee).
+- Un ampio ventaglio di competenze: hard + soft skills, cioè cognitive, tecnologiche, emotive, relazionali.
+
+**D:** ⚠️ Quali sono le quattro conseguenze numerate dei cambiamenti nel mondo del lavoro, secondo la slide 12 della lezione 01?
+**R:** «1. **Superamento delle barriere locali** 2. **Relazioni con una pluralità di livelli istituzionali** 3. **Cambiamento nelle prassi di gestione del personale**: selezione e formazione nel contesto globale 4. **Modalità di erogazione dei servizi/gamma di prodotti** (rispetto delle tradizioni culturali locali e modelli istituzionali diversificati)» (slide 12). Per la docente le prassi cambiano dalla selezione e dal reclutamento fino alla formazione, allo sviluppo e al talent management; il rispetto delle tradizioni locali va abbinato alle specificità dei mercati internazionali, perché «il nostro cliente è globale, il nostro dipendente è globale» ([00:24:41]–[00:26:19]).
+**Opzione:** Superamento delle barriere locali; relazioni con una pluralità di livelli istituzionali; cambiamento nelle prassi di gestione del personale: selezione e formazione nel contesto globale; modalità di erogazione dei servizi/gamma di prodotti (rispetto delle tradizioni culturali locali e modelli istituzionali diversificati).
+**Distrattori:**
+- Superamento delle barriere locali; relazioni con una pluralità di livelli istituzionali; cambiamento nelle prassi di gestione del personale: selezione e formazione nel contesto globale; modalità di erogazione dei servizi/gamma di prodotti (superamento delle tradizioni culturali locali e modelli istituzionali diversificati).
+- Digitalizzazione, Data Management, Cloud Computing, Artificial Intelligence, Blockchain, Cybersecurity.
+- La rapidità (o l'instantaneità), con poco margine di riflessività: ne deriva la richiesta di una superiore attenzione e concentrazione nell'esecuzione delle attività.
+
+**D:** ⚠️ Come definisce il lavoro la slide 13 della lezione 01?
+**R:** «**Il lavoro** non è più lo svolgimento di **attività prescritte** all'interno di un **tempo quotidiano scandito e controllato**, ma un **flusso di prestazioni** finalizzate al raggiungimento di **obiettivi individuali e collettivi** in un contesto "**globotico**"». Ne seguono due punti: «Il **controllo sulla presenza fisica** in ufficio e il **rispetto dell'orario** di lavoro **perdono il loro significato**» e «Lo spazio e il tempo di lavoro **virtuali**, traslati in una **dimensione tecnologica**» (slide 13). La docente parla di obiettivi «individuali, collettivi e organizzativi», e al posto del controllo sulla presenza mette la valutazione dei risultati, il **management by objectives** ([00:26:19]–[00:27:13]).
+**Opzione:** Non più lo svolgimento di attività prescritte all'interno di un tempo quotidiano scandito e controllato, ma un flusso di prestazioni finalizzate al raggiungimento di obiettivi individuali e collettivi in un contesto globotico.
+**Distrattori:**
+- Non più un flusso di prestazioni finalizzate al raggiungimento di obiettivi individuali e collettivi in un contesto globotico, ma lo svolgimento di attività prescritte all'interno di un tempo quotidiano scandito e controllato.
+- È una banca che si rende protagonista dello sviluppo del settore finanziario con l'adozione tempestiva delle più avanzate tecnologie, rappresentando un vettore di crescita per tutta l'economia.
+- Il modello di business delle banche e il ruolo e la qualità delle persone che fanno la banca.
+
+**D:** ⚠️ Come caratterizza la slide 14 della lezione 01 il management scientifico (Taylor, 1919)?
+**R:** «Il "**management scientifico**" (**Taylor, 1919**) – spazio e tempo come **elementi fondamentali** per la definizione dell'assetto di un'**organizzazione ideale**, capaci di funzionare con la **precisione di una macchina** (**non si considera l'umanità del lavoro**)» (slide 14). Per la docente, «all'inizio del secolo scorso, 1919», definendo spazio e tempo di lavoro l'azienda funzionava con la precisione «di una macchina, di un orologio» e raggiungeva gli obiettivi prestabiliti ([00:27:13]–[00:27:51]).
+**Opzione:** Spazio e tempo come elementi fondamentali per la definizione dell'assetto di un'organizzazione ideale, capaci di funzionare con la precisione di una macchina (non si considera l'umanità del lavoro).
+**Distrattori:**
+- Spazio e tempo come elementi fondamentali per la definizione dell'assetto di un'organizzazione ideale, capaci di funzionare con la precisione di una macchina (si considera soprattutto l'umanità del lavoro).
+- Il valore dei sentimenti collocati in una dimensione spazio-temporale su cui si fonda il modello organizzativo: uno spazio e un tempo per le relazioni lavorative, per governare i sentimenti dei lavoratori e gestire le relazioni umane.
+- Spazio e tempo non sono più definiti; controllo e meccanismi di coordinamento che si fondano su tali concetti si rivelano inefficaci e potenzialmente capaci di indurre distorsioni nelle relazioni e inefficienze.
+
+**D:** ⚠️ Come caratterizza la slide 14 della lezione 01 la scuola delle relazioni umane (Mayo, 1945)?
+**R:** «La "**scuola delle relazioni umane**" (**Mayo, 1945**) – il **valore dei sentimenti** collocati in una **dimensione spazio-temporale** su cui si fonda il modello organizzativo: uno spazio e un tempo per le relazioni lavorative, per **governare i sentimenti** dei lavoratori e **gestire le relazioni umane**» (slide 14). ⚠️ Per la docente il filone ha sottolineato l'importanza dell'essere umano e delle relazioni, «ma queste relazioni erano **sempre collocate all'interno di uno spazio, di un tempo predefinito**» ([00:27:51]–[00:28:40]). La trascrizione automatica scrive «Maio».
+**Opzione:** Il valore dei sentimenti collocati in una dimensione spazio-temporale su cui si fonda il modello organizzativo: uno spazio e un tempo per le relazioni lavorative, per governare i sentimenti dei lavoratori e gestire le relazioni umane.
+**Distrattori:**
+- Il valore dei sentimenti, che sfuggono a ogni dimensione spazio-temporale: le relazioni umane non si possono collocare in uno spazio e in un tempo per le relazioni lavorative.
+- Spazio e tempo come elementi fondamentali per la definizione dell'assetto di un'organizzazione ideale, capaci di funzionare con la precisione di una macchina (non si considera l'umanità del lavoro).
+- Spazio e tempo non sono più definiti; controllo e meccanismi di coordinamento che si fondano su tali concetti si rivelano inefficaci e potenzialmente capaci di indurre distorsioni nelle relazioni e inefficienze.
+
+**D:** ⚠️ Come caratterizza la slide 14 della lezione 01 la rivoluzione digitale (Fintech), a proposito di spazio, tempo e coordinamento?
+**R:** «**Rivoluzione digitale (Fintech)** – spazio e tempo **non sono più definiti**, controllo e meccanismi di coordinamento che si fondano su tali concetti si rivelano **inefficaci** e potenzialmente capaci di **indurre distorsioni nelle relazioni e inefficienze**» (slide 14). Per la docente «non c'è più controllo»: coordinamento, supervisione e gestione delle persone vanno ripensati ([00:28:40]–[00:29:09]).
+**Opzione:** Spazio e tempo non sono più definiti; controllo e meccanismi di coordinamento che si fondano su tali concetti si rivelano inefficaci e potenzialmente capaci di indurre distorsioni nelle relazioni e inefficienze.
+**Distrattori:**
+- Spazio e tempo non sono più definiti; controllo e meccanismi di coordinamento che si fondano su tali concetti si rivelano più efficaci e capaci di ridurre distorsioni nelle relazioni e inefficienze.
+- Spazio e tempo come elementi fondamentali per la definizione dell'assetto di un'organizzazione ideale, capaci di funzionare con la precisione di una macchina (non si considera l'umanità del lavoro).
+- Il valore dei sentimenti collocati in una dimensione spazio-temporale su cui si fonda il modello organizzativo: uno spazio e un tempo per le relazioni lavorative, per governare i sentimenti dei lavoratori e gestire le relazioni umane.
+
+**D:** ⚠️ Quali due passaggi segnano le prassi di gestione del personale, secondo la slide 15 della lezione 01?
+**R:** «• **Dal controllo sul tempo di lavoro al controllo sul raggiungimento degli obiettivi** • **Dalla presenza fisica alla disponibilità delle competenze**» (slide 15). Per la docente strategie e tattiche vanno definite anche con i lavoratori dei livelli intermedi, perché gli obiettivi siano condivisi e più facilmente raggiungibili; con le competenze adeguate il lavoratore può lavorare da qualsiasi parte del mondo ([00:29:12]–[00:30:07]). ⚠️ La direzione non va invertita.
+**Opzione:** Dal controllo sul tempo di lavoro al controllo sul raggiungimento degli obiettivi; dalla presenza fisica alla disponibilità delle competenze.
+**Distrattori:**
+- Dal controllo sul raggiungimento degli obiettivi al controllo sul tempo di lavoro; dalla presenza fisica alla disponibilità delle competenze.
+- Dal tempo cronologico al tempo vissuto come esperienza individuale.
+- Dalla tecnica bancaria e lettura dei bilanci al data management e alla cybersecurity.
+
+**D:** ⚠️ Che cosa discende dalle modifiche nelle prassi di gestione del personale, secondo la slide 15 della lezione 01?
+**R:** Dopo la freccia: «• **Meccanismi di sviluppo del personale e di carriera** (capacità di investire nelle proprie risorse umane) • **Modifiche nelle relazioni tra manager e lavoratori** • **Creazione della cultura di competenza a ogni livello**» (slide 15). Per la docente ogni dipendente deve capire che sarà valutato, premiato e incentivato non per la quantità delle ore lavorate, ma per le competenze che gli permettono di raggiungere lo scopo ([00:30:01]–[00:30:38]).
+**Opzione:** Meccanismi di sviluppo del personale e di carriera (capacità di investire nelle proprie risorse umane); modifiche nelle relazioni tra manager e lavoratori; creazione della cultura di competenza a ogni livello.
+**Distrattori:**
+- Meccanismi di sviluppo del personale e di carriera (capacità di investire nelle proprie risorse umane); modifiche nelle relazioni tra manager e lavoratori; creazione della cultura di competenza ai soli livelli manageriali.
+- Pervasivo, inclusivo, irreversibile.
+- L'intersezione tra tecnologia e finanza: una rivoluzione culturale ancora prima che economica.
+
+**D:** ⚠️ Che cosa dice del face time la slide 16 della lezione 01?
+**R:** «Il **face time**, la **presenza fisica sul posto di lavoro oltre l'orario** a dimostrazione della **fedeltà** del lavoratore all'azienda **non può più essere criterio di merito**» (slide 16). Per la docente si premia invece, con il management by objectives, il raggiungimento del risultato «con il minor tempo possibile»; la slide prosegue con l'importanza delle **soft skills**, «con cui il lavoratore contribuisce alla generazione del valore» ([00:30:38]–[00:31:26]). La trascrizione automatica scrive «fail time».
+**Opzione:** La presenza fisica sul posto di lavoro oltre l'orario a dimostrazione della fedeltà del lavoratore all'azienda non può più essere criterio di merito.
+**Distrattori:**
+- La presenza fisica sul posto di lavoro oltre l'orario a dimostrazione della fedeltà del lavoratore all'azienda resta il principale criterio di merito.
+- Un ampio ventaglio di competenze: hard + soft skills, cioè cognitive, tecnologiche, emotive, relazionali.
+- Percepire dipendenti e collaboratori come clienti interni, destinatari di servizi di gestione come la retribuzione, i corsi di formazione, la premiazione, il sistema di incentivazione.
+
+**D:** ⚠️ Che cos'è lo skill mismatch, e quale competizione lo accompagna, secondo la slide 16 della lezione 01?
+**R:** «Nuove politiche per affrontare i problemi di ***skill mismatch*** – **disallineamento delle competenze tra domanda e offerta**; **competizione per attrarre e trattenere le risorse più preziose** per lo sviluppo aziendale» (slide 16). Per la docente nello spazio globale è «molto più facile» allineare le competenze di cui l'azienda ha bisogno con quelle che trova sul mercato ([00:31:26]–[00:31:49]).
+**Opzione:** Il disallineamento delle competenze tra domanda e offerta; la competizione per attrarre e trattenere le risorse più preziose per lo sviluppo aziendale.
+**Distrattori:**
+- Il disallineamento delle retribuzioni tra domanda e offerta; la competizione per attrarre e trattenere le risorse più preziose per lo sviluppo aziendale.
+- La riconsiderazione del modello di business e del rapporto tra azienda e lavoratore.
+- Dal controllo sul tempo di lavoro al controllo sul raggiungimento degli obiettivi; dalla presenza fisica alla disponibilità delle competenze.
+
+**D:** ⚠️ Che cosa comportano le competenze del management per la gestione del cambiamento (skill di change management), secondo la slide 16 della lezione 01?
+**R:** «Competenze del management per la gestione del cambiamento (*skill di change management*): **riconsiderazione del modello di business**, **del rapporto tra azienda e lavoratore**» (slide 16). Per la docente è uno degli skill più richiesti a chi vuole lavorare in ambito manageriale, anche per la trasformazione «energetica»; nel chiudere aggiunge il rapporto fra «l'azienda e il cliente» ([00:31:49]–[00:32:24]): vale la slide.
+**Opzione:** La riconsiderazione del modello di business e del rapporto tra azienda e lavoratore.
+**Distrattori:**
+- La riconsiderazione del modello di business e del rapporto tra azienda e autorità di vigilanza.
+- Il disallineamento delle competenze tra domanda e offerta; la competizione per attrarre e trattenere le risorse più preziose per lo sviluppo aziendale.
+- La presenza fisica sul posto di lavoro oltre l'orario a dimostrazione della fedeltà del lavoratore all'azienda non può più essere criterio di merito.
+
+**D:** ⚠️ Quali sono i principali cambiamenti demografici che hanno portato all'innovazione nel settore bancario, secondo il test della lezione 01 (domanda 1)?
+**R:** **Mercato del lavoro e clientela**: sono i due sottotitoli dei «Cambiamenti demografici» della slide 4, «MERCATO DEL LAVORO» e «CLIENTELA». La docente parla di una «prospettiva duplice» ([00:05:43]). ⚠️ Ogni distrattore del test tiene una metà giusta o vicina: «mercato del lavoro e **dipendenti**», dove i dipendenti stanno dentro il mercato del lavoro; «**pubblica amministrazione** e clientela»; «clientela e **direzione d'impresa**».
+**Opzione:** Mercato del lavoro e clientela.
+**Distrattori:**
+- Pubblica amministrazione e clientela.
+- Mercato del lavoro e dipendenti.
+- Clientela e direzione d'impresa.
+
+**D:** ⚠️ Chi ha formulato la definizione di cultura come «un modello di principi condivisi da un gruppo sociale, appresi nel tempo e dimostratisi efficaci…», secondo il test della lezione 01 (domanda 2)?
+**R:** **Edgar Schein**: la slide 8 chiude la definizione con «(**Schein, 2017**)», e il testo della domanda la copia alla lettera, refuso «e i integrazione» compreso. La docente: uno studioso «che sicuramente conoscete», che nel 2017 «ha rivisto un po'» la definizione di cultura organizzativa ([00:14:48]; la trascrizione automatica scrive «Shane»). ⚠️ I distrattori **Maslow**, **Weber** e **Fayol** sono autori della lezione 17 (e Weber della lezione 02); Taylor e Mayo, gli autori della slide 14 di questa lezione, non sono fra le opzioni.
+**Opzione:** Edgar Schein.
+**Distrattori:**
+- Abraham Harold Maslow.
+- Max Weber.
+- Henri Fayol.
+
+**D:** ⚠️ Quali concetti si sono modificati maggiormente nel contesto della rivoluzione digitale, secondo il test della lezione 01 (domanda 3)?
+**R:** **Spazio e tempo**: «La modificazione dei concetti di spazio e di tempo» è l'ultimo degli aspetti di una cultura che cambia (slide 9) e il titolo della slide 10, che comincia con «Nel contesto della rivoluzione digitale il concetto del tempo si è contratto nello stesso modo in cui lo spazio si è dissolto» ([00:18:34]–[00:19:11]). ⚠️ La chiave non è alla lettera: «maggiormente» non è nelle slide, che non fanno graduatorie. ⚠️ La trappola è «lavoro e risorse umane»: anche il lavoro e la gestione del personale cambiano (slide 12, 13 e 15), ma come conseguenza, mentre la «modificazione dei **concetti**» le slide 9 e 10 la dicono solo di spazio e tempo. Organigramma e mansionario, mission e vision aziendale non compaiono nella lezione.
+**Opzione:** Spazio e tempo.
+**Distrattori:**
+- Lavoro e risorse umane.
+- Organigramma e mansionario.
+- Mission e vision aziendale.
+
+**D:** ⚠️ Quale fenomeno è stato rafforzato dalla dissoluzione della dimensione spaziale tramite la connessione virtuale, secondo il test della lezione 01 (domanda 4)?
+**R:** La **telemigrazione**, l'unico fenomeno delle opzioni che compare nella slide 11, intitolata «Dissoluzione della dimensione spaziale tramite la connessione virtuale». ⚠️ La chiave non è alla lettera: per la slide la telemigrazione è un fenomeno nuovo «rafforzato dalla **crisi sanitaria (Covid-19)**», e la dissoluzione dello spazio è il titolo sotto cui compare ([00:22:43]). Distrattori: «cultura organizzativa» viene dalla slide 8 della stessa lezione; «inflazione» ed «empowerment» non compaiono in questa lezione.
+**Opzione:** Telemigrazione.
+**Distrattori:**
+- Inflazione.
+- Empowerment.
+- Cultura organizzativa.
+
+**D:** ⚠️ Come si definisce la mancata corrispondenza tra le competenze richieste dalle aziende e quelle possedute dai lavoratori e/o dai candidati, secondo il test della lezione 01 (domanda 5)?
+**R:** **Skill mismatch** (nel test «skill mismath»): la slide 16 lo definisce «**disallineamento delle competenze tra domanda e offerta**» ([00:31:26]). ⚠️ La definizione della domanda è una parafrasi, non la formula della slide. Distrattori: **change management** è la voce successiva della stessa slide 16, che riguarda le competenze del management per la gestione del cambiamento; «aggiornamento professionale» richiama l'«aggiornamento delle competenze dei lavoratori» della slide 5; «gap» è generico.
+**Opzione:** Skill mismatch.
+**Distrattori:**
+- Gap.
+- Change management.
+- Aggiornamento professionale.
+
 ## Lezione 02 — Banca del futuro basata sulla piattaforma digitale
 
 **D:** ⚠️ Quali sono, nell'ordine, gli elementi chiave di una banca tecnologica, secondo la slide 2 della lezione 02?
