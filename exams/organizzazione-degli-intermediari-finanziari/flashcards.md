@@ -2846,3 +2846,333 @@
 - Un effetto maggiore di economie di costo: la diminuzione dei costi per unità di output è maggiore, più rapida ma si esaurisce più presto nel tempo.
 - La necessità e la preferenza di controparti di dimensioni adeguate.
 - Ambiente.
+
+## Lezione 11 — Strategie di differenziazione
+
+**D:** ⚠️ Come si chiama la strategia competitiva che consiste nella sequenza-combinazione di tutte le azioni idonee a rendere il prodotto/servizio e/o l'immagine dell'intermediario finanziario differente rispetto agli intermediari concorrenti, secondo il test della lezione 11 (domanda 1)?
+**R:** «**Strategia di differenziazione**». È la slide 2 alla lettera: «Una strategia di differenziazione consiste nella sequenza-combinazione di tutte le azioni Idonee a rendere (**oggettivamente o percettivamente**) il prodotto/servizio **e/o l'immagine** dell'intermediario finanziario **differente** rispetto agli intermediati concorrenti» (refuso «intermediati» nella slide e nella piattaforma). La domanda toglie la parentesi «(oggettivamente o percettivamente)», su cui la docente insiste: la differenziazione può avvenire «a livello oggettivo o a livello di percezione del nostro cliente, quindi a livello soggettivo» ([00:01:02]–[00:01:42]). Distrattori del test: «cost leadership», «stategia di segmentazione» (così), «strategia di posizionamento»: le altre strategie competitive della **lezione 09**, la stessa batteria delle domande 3 e 4 del test 09.
+**Opzione:** Strategia di differenziazione.
+**Distrattori:**
+- Cost leadership.
+- Stategia di segmentazione.
+- Strategia di posizionamento.
+
+**D:** ⚠️ Che cosa si propone di modificare la differenziazione, e quali caratteri elenca la slide 2 della lezione 11?
+**R:** «La differenziazione si propone a modificare **i caratteri accessori del prodotto senza modificare la funzionalità d'uso principale**. • Forma • Immagine • Aspetti tecnici • Facilità di utilizzo • Accessibilità • Tempestività di prestazione» (slide 2, «si propone a» così): sei caratteri, l'ultimo è la tempestività di prestazione. La docente aggiunge «la rapidità della risposta che possiamo dare al nostro cliente» ([00:01:42]–[00:02:15]). ⚠️ Si modificano gli **accessori**, non la funzionalità d'uso principale. ⚠️ Gli «aspetti tecnici» stanno qui, non fra le leve della differenziazione del prodotto della slide 5: è l'ambiguità della domanda 2 del test.
+**Opzione:** I caratteri accessori del prodotto senza modificare la funzionalità d'uso principale: forma, immagine, aspetti tecnici, facilità di utilizzo, accessibilità, tempestività di prestazione.
+**Distrattori:**
+- La funzionalità d'uso principale del prodotto senza modificare i caratteri accessori: forma, immagine, aspetti tecnici, facilità di utilizzo, accessibilità, tempestività di prestazione.
+- Il concetto, o idea, secondo cui, durante il processo decisionale, la razionalità di un individuo è limitata da vari fattori: dalle informazioni che possiede, dai limiti cognitivi, dalla quantità di tempo di cui dispone per prendere una decisione.
+- Facilmente ex post, poiché le prestazioni sono precise e accertabili, mentre l'esito dell'operazione di copertura dipende dall'andamento dei tassi di interesse (variabile esogena).
+
+**D:** ⚠️ Qual è l'obiettivo finale della strategia di differenziazione, secondo la slide 2 della lezione 11?
+**R:** «Obiettivo finale: **Generazione della preferenza dei clienti reali e potenziali** / **Applicazione dei prezzi più elevati** (rispetto ai prodotti concorrenti)» (slide 2, dopo la freccia). Per la docente i clienti sono quelli «reali, effettivi» e quelli potenziali ([00:02:20]); i prezzi più elevati servono a remunerare i maggiori costi e i maggiori investimenti richiesti dalla modifica del prodotto, e generano un «maggiore valore» per il titolare, il top management e il cliente ([00:02:46]–[00:03:40]). ⚠️ I prezzi sono **più elevati**, non più bassi; e i clienti sono reali **e** potenziali.
+**Opzione:** Generazione della preferenza dei clienti reali e potenziali; applicazione dei prezzi più elevati (rispetto ai prodotti concorrenti).
+**Distrattori:**
+- Generazione della preferenza dei clienti reali e potenziali; applicazione dei prezzi più contenuti (rispetto ai prodotti concorrenti).
+- Generazione della preferenza dei soli clienti reali; applicazione dei prezzi più elevati (rispetto ai prodotti concorrenti).
+- Solo a posteriori e nei limiti delle prestazioni richieste, utilizzate e sperimentate.
+
+**D:** ⚠️ Qual è la prima condizione di convenienza della SD, secondo la slide 3 della lezione 11?
+**R:** «1) Possibilità di attuare una politica di prezzi che sia in grado **non solo** di remunerare i **maggiori costi** (di produzione e di distribuzione), **ma anche** di ricavare **maggiori margini di profitto**» (slide 3). La docente: servono maggiori costi per la produzione e la distribuzione del prodotto differenziato, e bisogna anche «garantire la maggiore reddittività per i titolari» ([00:03:45]–[00:04:20]). ⚠️ Non basta coprire i costi: servono anche maggiori **margini di profitto**.
+**Opzione:** Possibilità di attuare una politica di prezzi che sia in grado non solo di remunerare i maggiori costi (di produzione e di distribuzione), ma anche di ricavare maggiori margini di profitto.
+**Distrattori:**
+- Possibilità di attuare una politica di prezzi che sia in grado non solo di remunerare i maggiori costi (di produzione e di distribuzione), ma anche di ricavare maggiori quote di mercato.
+- Valutazione del produttore piuttosto che del prodotto (input e non output); l'importanza delle opinioni dei clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze non sono pienamente ripetibili).
+- Con la partecipazione attiva del cliente (partnership tra la banca e il cliente): la prestazione della banca si differenzia in funzione di ogni singolo cliente, strategia di differenziazione totale.
+
+**D:** ⚠️ Che cosa mira a conseguire la differenziazione, e come, secondo la frase sottolineata della slide 3 della lezione 11?
+**R:** «La differenziazione mira a conseguire un **vantaggio competitivo non transitorio (stabile)**, **riducendo l'elasticità** della domanda rispetto al prezzo» (slide 3, sottolineata). La docente spiega l'elasticità: «con l'aumento del prezzo la domanda della clientela diminuisce, quindi in questo caso parliamo di elasticità elevata»; ridurla significa far sì che con l'aumento del prezzo la domanda «non diminuisca» ([00:04:20]–[00:05:06]). ⚠️ Due assi: il vantaggio è **non transitorio**, l'elasticità si **riduce**.
+**Opzione:** Un vantaggio competitivo non transitorio (stabile), riducendo l'elasticità della domanda rispetto al prezzo.
+**Distrattori:**
+- Un vantaggio competitivo non transitorio (stabile), aumentando l'elasticità della domanda rispetto al prezzo.
+- Un vantaggio competitivo transitorio (temporaneo), riducendo l'elasticità della domanda rispetto al prezzo.
+- Un vantaggio competitivo transitorio (temporaneo), aumentando l'elasticità della domanda rispetto al prezzo.
+
+**D:** ⚠️ Da quale constatazione si desume il successo della SD che la slide 3 della lezione 11 chiude con «(value proposition)»?
+**R:** «I clienti sono **meno sensibili** alle variazioni di prezzo, sono **disposti a pagare di più**, riconoscendo un **valore distintivo** del prodotto (*value proposition*)» (slide 3), prima delle tre constatazioni da cui «La verifica dell'efficacia e del successo della SD si desume». Per la docente si fornisce al cliente il prodotto diversificato, specifico, di qualità maggiore, e il cliente è disposto a pagare di più per questa offerta di qualità ([00:05:14]–[00:06:03]). ⚠️ Il cliente riconosce un **valore distintivo**, non i maggiori costi del produttore.
+**Opzione:** I clienti sono meno sensibili alle variazioni di prezzo, sono disposti a pagare di più, riconoscendo un valore distintivo del prodotto.
+**Distrattori:**
+- I clienti sono meno sensibili alle variazioni di prezzo, sono disposti a pagare di più, riconoscendo i maggiori costi di produzione del prodotto.
+- Soltanto in parte con il concreto utilizzo, ma devono essere in parte creduti (quali sarebbero state le condizioni di altre banche?).
+- Limitarsi a esemplificare modalità d'uso standard e a esibire le prove (test); esporre le testimonianze dei clienti che hanno già sperimentato (testimonials).
+
+**D:** ⚠️ Quale constatazione della verifica del successo della SD corrisponde alla «ridotta esposizione alla price competition», secondo la slide 3 della lezione 11?
+**R:** «La **fedeltà** dei clienti, in termini di **stabilità della loro preferenza di acquisto nel tempo**, rimane elevata **anche in presenza** di azioni competitive sul prezzo da parte dei concorrenti (ridotta esposizione alla *price competition*)» (slide 3), la seconda constatazione. Per la docente il cliente continua a preferire l'azienda anche quando i concorrenti abbassano il prezzo o fanno promozioni; e con la differenziazione e la segmentazione l'esposizione alla concorrenza in base al prezzo diminuisce, perché ci sono altri attributi di qualità valutabili dal cliente ([00:06:03]–[00:07:09]). ⚠️ «**Anche in presenza**», non «solo in assenza»: la parentesi è la chiave della domanda 3 del test.
+**Opzione:** La fedeltà dei clienti, in termini di stabilità della loro preferenza di acquisto nel tempo, rimane elevata anche in presenza di azioni competitive sul prezzo da parte dei concorrenti.
+**Distrattori:**
+- La fedeltà dei clienti, in termini di stabilità della loro preferenza di acquisto nel tempo, rimane elevata solo in assenza di azioni competitive sul prezzo da parte dei concorrenti.
+- Alla nozione di prestazione futura: l'intermediario finanziario vende produzioni future, vende quindi capacità produttive e distributive in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle aspettative.
+- A posteriori in modo approssimativo a causa della mancanza dei riferimenti sicuri sia interni sia esterni: il cliente deve limitarsi a credere di aver ricevuto un risultato più o meno buono in termini assoluti o relativi.
+
+**D:** ⚠️ Quale constatazione della slide 3 della lezione 11 indica il vantaggio competitivo della SD?
+**R:** «I **margini di reddittività** sono più elevati rispetto alla situazione **pre-differenziazione** e rispetto ai concorrenti **orientati a competere sul prezzo** (vantaggio competitivo)» (slide 3, «reddittività» così), la terza constatazione. La docente indica due confronti: un benchmark **interno**, fra il periodo prima e quello dopo l'introduzione della strategia di differenziazione, e un'analisi **trasversale**, esterna, con i concorrenti che non la applicano e seguono la cost leadership ([00:07:14]–[00:08:42]). ⚠️ Sono i **margini** a crescere, non i volumi.
+**Opzione:** I margini di redditività sono più elevati rispetto alla situazione pre-differenziazione e rispetto ai concorrenti orientati a competere sul prezzo.
+**Distrattori:**
+- I volumi di vendita sono più elevati rispetto alla situazione pre-differenziazione e rispetto ai concorrenti orientati a competere sul prezzo.
+- I beni i cui valori non possono essere accertati neanche ex post, se non in modo approssimativo e soggettivo.
+- L'assoluta prevalenza della marca (brand) sui marchi (trade marks): la banca comunica se stessa in quanto organizzazione di risorse e di capacità eccellenti.
+
+**D:** ⚠️ Quale tra ridotta esposizione alla price competition, preferenza dei clienti in termini di prezzo, riduzione dei costi e maggiore sostenibilità è uno dei vantaggi della strategia di differenziazione, secondo il test della lezione 11 (domanda 3)?
+**R:** «**Ridotta esposizione alla price competition**». È la parentesi della seconda constatazione della slide 3, alla lettera: la fedeltà dei clienti «rimane elevata anche in presenza di azioni competitive sul prezzo da parte dei concorrenti (ridotta esposizione alla *price competition*)»; la docente: «quindi in questo caso parliamo di una ridotta esposizione alla price competition» ([00:06:50]). ⚠️ La slide non la chiama «vantaggio»: è una constatazione da cui si desume il successo della SD. Distrattori del test: «preferenza dei clienti in termini di prezzo» storpia la stabilità della **preferenza di acquisto nel tempo**, che resiste proprio alle azioni sul prezzo; «riduzione dei costi» è il terreno della **cost leadership**, mentre la differenziazione ha **maggiori** costi da remunerare (slide 3); «maggiore sostenibilità» non compare nella lezione.
+**Opzione:** Ridotta esposizione alla price competition.
+**Distrattori:**
+- Preferenza dei clienti in termini di prezzo.
+- Riduzione dei costi.
+- Maggiore sostenibilità.
+
+**D:** ⚠️ Che cosa significano «la percettività» e «la ricettività» dei clienti, seconda condizione di convenienza della SD secondo la slide 4 della lezione 11?
+**R:** «2) "La percettività" e "la ricettività" dei clienti: • in grado di **percepire la differenza** (la proposta di valore) • In grado di **ricevere e di accettare in chiave di convenienza rispetto al prezzo**» (slide 4). Per la docente bisogna capire se il cliente è pronto, se percepisce le differenze del prodotto e se è disposto a pagare di più per una proposta di valore più elevata ([00:08:42]–[00:09:45]). ⚠️ La convenienza si misura **rispetto al prezzo**.
+**Opzione:** In grado di percepire la differenza (la proposta di valore); in grado di ricevere e di accettare in chiave di convenienza rispetto al prezzo.
+**Distrattori:**
+- In grado di percepire la differenza (la proposta di valore); in grado di ricevere e di accettare in chiave di convenienza rispetto alla qualità.
+- Facilmente ex post, poiché le prestazioni sono precise e accertabili, mentre l'esito dell'operazione di copertura dipende dall'andamento dei tassi di interesse (variabile esogena).
+- In base alla conoscibilità ex ante dell'intrinseco valore d'uso del bene considerato.
+
+**D:** ⚠️ A differenza di quale strategia la differenziazione è un concetto selettivo, che cosa fa, e con quale strategia non ha un confine preciso, secondo la slide 4 della lezione 11?
+**R:** «La differenziazione è un concetto selettivo (**a differenza della strategia di *cost leadership***) -> seleziona i clienti **percettivi e ricettivi** - > attua una **segmentazione** della clientela e della domanda. Non c'è il confine preciso fra la strategia di differenziazione e la strategia di **segmentazione**» (slide 4). Per la docente la differenziazione non si rivolge «a tutta la popolazione, a tutto il mercato», ma a una parte della clientela; le strategie della letteratura teorica sono tre (cost leadership, differenziazione, segmentazione) e differenziazione e segmentazione «impattano una sull'altra» ([00:09:45]–[00:11:05]). ⚠️ I clienti selezionati sono quelli percettivi e ricettivi, non i più sensibili al prezzo.
+**Opzione:** A differenza della strategia di cost leadership: seleziona i clienti percettivi e ricettivi e attua una segmentazione della clientela e della domanda; non c'è il confine preciso con la strategia di segmentazione.
+**Distrattori:**
+- A differenza della strategia di cost leadership: seleziona i clienti più sensibili al prezzo e attua una segmentazione della clientela e della domanda; non c'è il confine preciso con la strategia di segmentazione.
+- I beni i cui valori possono essere accertati soltanto dopo l'acquisto (contratto) o durante l'uso con un processo di sperimentazione; la sperimentazione è a carico dell'acquirente che introduce elementi di soggettività.
+- Dalla volontà e dalla capacità tecnica, professionale e organizzativa dell'intermediario di porre in essere le future azioni o attività attese o richieste dal cliente.
+
+**D:** ⚠️ Quali sono le leve della differenziazione del prodotto, secondo la slide 5 della lezione 11?
+**R:** Nell'ordine: «• Design • Forma • Marchio • Caratteri funzionali • Comunicazione • **Modalità di definizione del prezzo**» (slide 5): sei voci, l'ultima è la modalità di definizione del prezzo. Per la docente la comunicazione qui riguarda «ogni singolo prodotto o servizio e non tutto il brand, non tutta l'impresa» ([00:11:33]), e la leva del prodotto «può riguardare anche modalità di definizione del prezzo di ogni singolo prodotto» ([00:11:58]). ⚠️ Reputazione, tecnologia di processo e modalità distributive sono leve dell'**impresa**. ⚠️ La domanda 2 del test dà il «prezzo» come intrusa: vedi la card del test.
+**Opzione:** Design, forma, marchio, caratteri funzionali, comunicazione, modalità di definizione del prezzo.
+**Distrattori:**
+- Design, forma, reputazione, caratteri funzionali, comunicazione, modalità di definizione del prezzo.
+- Design, forma, marchio, caratteri funzionali, comunicazione, tecnologia di processo.
+- Design, forma, marchio, modalità distributive, comunicazione, modalità di definizione del prezzo.
+
+**D:** ⚠️ Quali sono le leve della differenziazione dell'impresa, secondo la slide 5 della lezione 11?
+**R:** Nell'ordine: «• Immagine • Reputazione • Tecnologia di processo • Modalità distributive • Sistemi dell'assistenza pre-vendita (consulenza all'acquisto) • Assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione) • **Modalità di comunicazione**» (slide 5): sette voci. Per la docente sono leve «a livello globale dell'intera impresa»: la consulenza all'acquisto vale per diversi prodotti, e l'assistenza post-vendita dei **call center** riguarda tutto il portfolio, tutta la gamma dei prodotti e dei servizi ([00:11:58]–[00:13:51]). ⚠️ Il **marchio** è una leva del **prodotto**; l'**efficienza** non è in nessuno dei due elenchi (domanda 4 del test).
+**Opzione:** Immagine, reputazione, tecnologia di processo, modalità distributive, sistemi dell'assistenza pre-vendita (consulenza all'acquisto), assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione), modalità di comunicazione.
+**Distrattori:**
+- Immagine, reputazione, marchio, modalità distributive, sistemi dell'assistenza pre-vendita (consulenza all'acquisto), assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione), modalità di comunicazione.
+- Sul fondamento di ipotesi, convincimenti e pregiudizi che sostituiscono la mancata sperimentabilità del bene; la mancanza è legata all'inesistenza di standard o benchmark per una valutazione comparativa.
+- Possibilità di attuare una politica di prezzi che sia in grado non solo di remunerare i maggiori costi (di produzione e di distribuzione), ma anche di ricavare maggiori margini di profitto.
+
+**D:** ⚠️ Quale tra forma, design, prezzo e aspetti tecnici non è una leva della differenziazione del prodotto, secondo il test della lezione 11 (domanda 2)?
+**R:** «**Prezzo**» per la chiave della piattaforma, ma 🚨 la domanda è **ambigua**. La slide 5 elenca fra le leve della differenziazione del prodotto «Design • Forma • Marchio • Caratteri funzionali • Comunicazione • **Modalità di definizione del prezzo**», e la docente lo conferma: la leva del prodotto «può riguardare anche modalità di definizione del prezzo di ogni singolo prodotto» ([00:11:58]). Gli «**aspetti tecnici**» invece non stanno nella slide 5: stanno nella slide 2, fra i caratteri accessori che la differenziazione si propone di modificare. Forma e design sono leve del prodotto della slide 5. Si segna «prezzo»: il prezzo nudo non è una leva, e il prezzo più **elevato** è un **obiettivo** della differenziazione (slide 2). ⚠️ Se la domanda tornasse con «modalità di definizione del prezzo» fra le opzioni, quella **sarebbe** una leva del prodotto.
+**Opzione:** Prezzo.
+**Distrattori:**
+- Forma.
+- Design.
+- Aspetti tecnici.
+
+**D:** ⚠️ Quale tra reputazione, efficienza, modalità di comunicazione e modalità distributive non è una leva della differenziazione dell'impresa, secondo il test della lezione 11 (domanda 4)?
+**R:** «**Efficienza**». Le leve della differenziazione dell'impresa della slide 5 sono «Immagine • Reputazione • Tecnologia di processo • Modalità distributive • Sistemi dell'assistenza pre-vendita (consulenza all'acquisto) • Assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione) • Modalità di comunicazione»: l'efficienza non c'è, e non compare in nessun punto della lezione ([00:11:58]–[00:13:51]). È il terreno della **cost leadership** (lezione 10). Distrattori del test: «reputazione», «modalità di comunicazione», «modalità distributive», cioè la seconda, la settima e la quarta leva dell'impresa. ⚠️ È lo specchio della domanda 2, anch'essa negativa: prima di rispondere bisogna sapere **quale** dei due elenchi chiede la domanda.
+**Opzione:** Efficienza.
+**Distrattori:**
+- Reputazione.
+- Modalità di comunicazione.
+- Modalità distributive.
+
+**D:** ⚠️ Quali sono le strutture portanti della strategia di differenziazione, secondo la slide 6 della lezione 11?
+**R:** «Le strutture portanti della strategia di differenziazione: • I caratteri del prodotto/servizio e la loro differenziabilità • L'immagine dell'impresa produttrice e distributrice e la sua differenziabilità • Le capacità di analisi, le soglie di percezione e i livelli di ricettività dei potenziali clienti» (slide 6, tre riquadri che puntano a «SD»). Per la docente sono «tre pilastri»: i primi due richiedono un'analisi «più che altro **interna**», il terzo un'analisi **esterna** della clientela, dei suoi livelli di percezione e di ricettività della value proposition ([00:13:51]–[00:15:53]). ⚠️ Il terzo pilastro riguarda i clienti **potenziali**.
+**Opzione:** I caratteri del prodotto/servizio e la loro differenziabilità; l'immagine dell'impresa produttrice e distributrice e la sua differenziabilità; le capacità di analisi, le soglie di percezione e i livelli di ricettività dei potenziali clienti.
+**Distrattori:**
+- I caratteri del prodotto/servizio e la loro differenziabilità; l'immagine dell'impresa produttrice e distributrice e la sua differenziabilità; i costi di produzione e di distribuzione e la loro comprimibilità.
+- A posteriori in modo approssimativo a causa della mancanza dei riferimenti sicuri sia interni sia esterni: il cliente deve limitarsi a credere di aver ricevuto un risultato più o meno buono in termini assoluti o relativi.
+- La fedeltà dei clienti, in termini di stabilità della loro preferenza di acquisto nel tempo, rimane elevata anche in presenza di azioni competitive sul prezzo da parte dei concorrenti.
+
+**D:** ⚠️ In base a che cosa la slide 7 della lezione 11 classifica i processi di acquisto per l'applicabilità della SD alle attività degli intermediari finanziari?
+**R:** «La classificazione dei processi di acquisto in base alla **conoscibilità ex ante dell'intrinseco valore d'uso** del bene considerato» (slide 7): search goods, experience goods, credence goods. Per la docente «tutti i beni possono essere divisi in tre macro-categorie», un riepilogo di concetti forse già visti in altri corsi ([00:15:53]–[00:16:47]). ⚠️ La conoscibilità è **ex ante**, e riguarda il **valore d'uso**.
+**Opzione:** In base alla conoscibilità ex ante dell'intrinseco valore d'uso del bene considerato.
+**Distrattori:**
+- In base alla conoscibilità ex post dell'intrinseco valore d'uso del bene considerato.
+- In base alla conoscibilità ex ante del prezzo di vendita del bene considerato.
+- Un vantaggio competitivo non transitorio (stabile), riducendo l'elasticità della domanda rispetto al prezzo.
+
+**D:** ⚠️ Come si chiamano i beni i cui valori possono essere accertati prima dell'acquisto con analisi tecniche e oggettive dei caratteri del bene, secondo il test della lezione 11 (domanda 5)?
+**R:** «***Search goods***». È la slide 7 alla lettera: «*Search goods* • I beni i cui valori possono essere accertati **prima dell'acquisto** con analisi tecniche e oggettive dei caratteri del bene • I caratteri devono essere **dichiarati e comunicati dall'impresa produttrice**». L'esempio della docente è il computer: memoria, velocità, risoluzione e dimensione dello schermo si leggono nella scheda tecnica prima di comprare ([00:16:51]–[00:18:13]). Distrattori del test: «experience goods» (valore accertabile **soltanto dopo** l'acquisto), «credence goods» (**neanche ex post**), «common goods», che non compare nei materiali del corso.
+**Opzione:** Search goods.
+**Distrattori:**
+- Experience goods.
+- Credence goods.
+- Common goods.
+
+**D:** ⚠️ Che cosa sono gli experience goods, e a carico di chi è la sperimentazione, secondo la slide 7 della lezione 11?
+**R:** «*Experience goods* • I beni i cui valori possono essere accertati **soltanto dopo l'acquisto (contratto) o durante l'uso** con un processo di sperimentazione • La sperimentazione è **a carico dell'acquirente** che introduce elementi di **soggettività**» (slide 7). L'esempio della docente è il **corso di formazione**: se ne dichiarano le lezioni, la durata, il livello del professore, ma la qualità si valuta solo seguendolo, e lo stesso corso può essere eccellente per uno studente e mediocre per un altro ([00:18:13]–[00:20:04]). ⚠️ La sperimentazione è dell'**acquirente**, non dell'impresa.
+**Opzione:** I beni i cui valori possono essere accertati soltanto dopo l'acquisto (contratto) o durante l'uso con un processo di sperimentazione; la sperimentazione è a carico dell'acquirente che introduce elementi di soggettività.
+**Distrattori:**
+- I beni i cui valori possono essere accertati soltanto dopo l'acquisto (contratto) o durante l'uso con un processo di sperimentazione; la sperimentazione è a carico dell'impresa produttrice che introduce elementi di soggettività.
+- I caratteri del prodotto/servizio e la loro differenziabilità; l'immagine dell'impresa produttrice e distributrice e la sua differenziabilità; le capacità di analisi, le soglie di percezione e i livelli di ricettività dei potenziali clienti.
+- A differenza della strategia di cost leadership: seleziona i clienti percettivi e ricettivi e attua una segmentazione della clientela e della domanda; non c'è il confine preciso con la strategia di segmentazione.
+
+**D:** ⚠️ Che cosa deve fare l'impresa per gli experience goods, secondo la slide 7 della lezione 11?
+**R:** «• L'impresa deve **limitarsi a esemplificare modalità d'uso standard** e a **esibire le prove (test)** • Esporre le **testimonianze** dei clienti che hanno già sperimentato (***testimonials***)» (slide 7). Per la docente la prova è la **demo version** o la versione beta di un software o di un'applicazione; anche un intermediario finanziario può far provare un'opzione prima dell'acquisto ([00:20:04]–[00:22:01]). ⚠️ Le modalità d'uso sono **standard**. Dichiarare e comunicare i caratteri del bene è invece compito dell'impresa per i *search goods*.
+**Opzione:** Limitarsi a esemplificare modalità d'uso standard e a esibire le prove (test); esporre le testimonianze dei clienti che hanno già sperimentato (testimonials).
+**Distrattori:**
+- Limitarsi a esemplificare modalità d'uso personalizzate e a esibire le prove (test); esporre le testimonianze dei clienti che hanno già sperimentato (testimonials).
+- I margini di redditività sono più elevati rispetto alla situazione pre-differenziazione e rispetto ai concorrenti orientati a competere sul prezzo.
+- In grado di percepire la differenza (la proposta di valore); in grado di ricevere e di accettare in chiave di convenienza rispetto al prezzo.
+
+**D:** ⚠️ Che cosa sono i credence goods, secondo la slide 7 della lezione 11?
+**R:** «*Credence goods* • I beni i cui valori **non possono essere accertate neanche ex post**, se non in modo **approssimativo e soggettivo**» (slide 7, «accertate» così). Per la docente «la maggior parte dei servizi degli intermediari finanziari si trovano proprio qui»: anche sperimentando non si riesce a capire fino in fondo se il servizio è di qualità o se altri ne forniscono uno migliore ([00:22:01]–[00:22:50]). ⚠️ **Neanche ex post**: è ciò che li distingue dagli *experience goods*.
+**Opzione:** I beni i cui valori non possono essere accertati neanche ex post, se non in modo approssimativo e soggettivo.
+**Distrattori:**
+- I beni i cui valori non possono essere accertati neanche ex post, se non con un processo di sperimentazione.
+- Generazione della preferenza dei clienti reali e potenziali; applicazione dei prezzi più elevati (rispetto ai prodotti concorrenti).
+- Design, forma, marchio, caratteri funzionali, comunicazione, modalità di definizione del prezzo.
+
+**D:** ⚠️ Su quale fondamento vengono «creduti» il valore e la qualità dei credence goods, e a che cosa è legata la mancanza, secondo la slide 7 della lezione 11?
+**R:** «• Il valore e la qualità del bene vengono "creduti" sul fondamento dei **ipotesi, convincimenti e pregiudizi** che sostituiscono la **mancata sperimentabilità** del bene • La mancanza è legata all'**inesistenza di standard o benchmark** per una valutazione comparativa» (slide 7, «dei ipotesi» così). L'esempio della docente è il **conto corrente**: raramente se ne hanno in banche diverse, quindi è difficile paragonarne la funzionalità ([00:22:50]–[00:24:10]). ⚠️ Manca il **benchmark**, non le testimonianze: le opinioni dei clienti, per i credence goods, sono anzi importanti.
+**Opzione:** Sul fondamento di ipotesi, convincimenti e pregiudizi che sostituiscono la mancata sperimentabilità del bene; la mancanza è legata all'inesistenza di standard o benchmark per una valutazione comparativa.
+**Distrattori:**
+- Sul fondamento di ipotesi, convincimenti e pregiudizi che sostituiscono la mancata sperimentabilità del bene; la mancanza è legata all'inesistenza di testimonianze dei clienti che hanno già sperimentato (testimonials).
+- Immagine, reputazione, tecnologia di processo, modalità distributive, sistemi dell'assistenza pre-vendita (consulenza all'acquisto), assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione), modalità di comunicazione.
+- La fedeltà dei clienti, in termini di stabilità della loro preferenza di acquisto nel tempo, rimane elevata anche in presenza di azioni competitive sul prezzo da parte dei concorrenti.
+
+**D:** ⚠️ Che cosa si valuta nei credence goods, e quale importanza hanno le opinioni dei clienti, secondo la slide 7 della lezione 11?
+**R:** «• **Valutazione del produttore piuttosto che del prodotto (input e non output)** • L'importanza delle **opinioni** del clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze **non sono pienamente ripetibili**)» (slide 7, «del clienti» così). Per la docente si valuta l'input, cioè l'immagine e la reputazione dell'impresa: per i credence goods la differenziazione più adatta è quindi quella «a livello generale, a livello globale», «a livello corporate». Le esperienze altrui non sono pienamente ripetibili perché ogni cliente usa servizi diversi ([00:24:10]–[00:25:49]). ⚠️ Il **produttore**, cioè l'**input**.
+**Opzione:** Valutazione del produttore piuttosto che del prodotto (input e non output); l'importanza delle opinioni dei clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze non sono pienamente ripetibili).
+**Distrattori:**
+- Valutazione del prodotto piuttosto che del produttore (output e non input); l'importanza delle opinioni dei clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze non sono pienamente ripetibili).
+- Possibilità di attuare una politica di prezzi che sia in grado non solo di remunerare i maggiori costi (di produzione e di distribuzione), ma anche di ricavare maggiori margini di profitto.
+- È imprecisa, assertiva e convincente; il rischio di creare illusione-delusione del cliente: gestione delle percezioni, amplificazione delle aspettative.
+
+**D:** ⚠️ A quali classi appartengono i prodotti dell'intermediario finanziario, secondo la slide 8 della lezione 11?
+**R:** «I prodotti dell'intermediario finanziari appartengono a: • Classe delle ***experience goods*** • Classe delle ***credence goods***» (slide 8, «finanziari» così): due classi, nessuna traccia dei search goods. La docente aggiunge tre volte che la maggior parte sono *credence goods* ([00:22:01], [00:26:01], [00:32:55]). ⚠️ La slide nomina **entrambe** le classi: «soltanto credence goods» è la versione della docente portata all'estremo, e non è nella slide.
+**Opzione:** Classe delle experience goods; classe delle credence goods.
+**Distrattori:**
+- Classe delle search goods; classe delle experience goods.
+- Classe delle search goods; classe delle credence goods.
+- Soltanto classe delle credence goods.
+
+**D:** ⚠️ Che cosa dice la slide 8 della lezione 11 del valore e della qualità del prodotto e del servizio degli intermediari finanziari?
+**R:** «• **Non possono mai** essere accertati con analisi preventive oggettive (pre-contrattuale) • Possono essere accertati **con molta incertezza** nell'esperienza post-contrattuale • **Non sono riscontrabili** con un'esperienza alternativa e comparativa idonea a definire un *benchmark*» (slide 8). Per la docente a livello pre-contrattuale è difficile capire come si svolgerà il servizio di investimento, di finanziamento, di consulenza, e dopo la valutazione resta molto soggettiva per la mancanza di paragonabilità ([00:26:01]–[00:27:20]). ⚠️ Il quantificatore è «**mai**»; l'esperienza post-contrattuale dà **molta incertezza**, non precisione.
+**Opzione:** Non possono mai essere accertati con analisi preventive oggettive (pre-contrattuale); possono essere accertati con molta incertezza nell'esperienza post-contrattuale; non sono riscontrabili con un'esperienza alternativa e comparativa idonea a definire un benchmark.
+**Distrattori:**
+- Non possono mai essere accertati con analisi preventive oggettive (pre-contrattuale); possono essere accertati con molta precisione nell'esperienza post-contrattuale; non sono riscontrabili con un'esperienza alternativa e comparativa idonea a definire un benchmark.
+- Con la partecipazione attiva del cliente (partnership tra la banca e il cliente): la prestazione della banca si differenzia in funzione di ogni singolo cliente, strategia di differenziazione totale.
+- I caratteri accessori del prodotto senza modificare la funzionalità d'uso principale: forma, immagine, aspetti tecnici, facilità di utilizzo, accessibilità, tempestività di prestazione.
+
+**D:** ⚠️ Come possono essere conosciuti la qualità e il valore del conto corrente bancario (prodotti e servizi di incasso e pagamento), secondo la tabella della slide 9 della lezione 11?
+**R:** «La qualità, il valore del conto corrente bancario possono essere conosciuti **solo a posteriori** e **nei limiti delle prestazioni richieste, utilizzate e sperimentate**» (slide 9, prima riga). L'esempio della docente sono i **bonifici all'estero**: lei li fa spesso e può valutare quella funzionalità, chi non ne ha bisogno non la scoprirà mai ([00:27:42]–[00:28:40]). La docente non dice a quale classe appartenga questa riga.
+**Opzione:** Solo a posteriori e nei limiti delle prestazioni richieste, utilizzate e sperimentate.
+**Distrattori:**
+- Solo a posteriori e indipendentemente dalle prestazioni richieste, utilizzate e sperimentate.
+- Facilmente ex ante e nei limiti delle prestazioni richieste, utilizzate e sperimentate.
+- Sono facilmente differenziabili.
+
+**D:** ⚠️ Come possono essere determinati la qualità e il valore di un'apertura di credito (prodotti e servizi di finanziamento), secondo la tabella della slide 9 della lezione 11?
+**R:** «La qualità e il valore di un'apertura di credito possono **soltanto in parte** essere determinati con il concreto utilizzo, ma devono essere **in parte creduti** (quali sarebbero state le condizioni di altre banche?)» (slide 9, seconda riga). Per la docente per questo «diventa credence good»: chi ha preso un **mutuo** in una banca non saprà mai quali condizioni avrebbe avuto in un'altra ([00:28:40]–[00:29:38]). ⚠️ La parentesi è una domanda **senza risposta**: le condizioni delle altre banche non si possono confrontare.
+**Opzione:** Soltanto in parte con il concreto utilizzo, ma devono essere in parte creduti (quali sarebbero state le condizioni di altre banche?).
+**Distrattori:**
+- Soltanto in parte con il concreto utilizzo, ma devono essere in parte confrontati con le condizioni di altre banche.
+- I clienti sono meno sensibili alle variazioni di prezzo, sono disposti a pagare di più, riconoscendo un valore distintivo del prodotto.
+- Sulla propria immagine/reputazione; differenziazione al livello globale piuttosto che al livello dei singoli prodotti/servizi.
+
+**D:** ⚠️ Come sono accertabili la qualità e il valore di un servizio di gestione patrimoniale (prodotti e servizi di investimento), secondo la tabella della slide 9 della lezione 11?
+**R:** «La qualità e il valore di un servizio di gestione patrimoniale sono accertabili **a posteriori in modo approssimativo** a causa della mancanza dei riferimenti sicuri **sia interni sia esterni**. Il cliente deve limitarsi a **credere** di aver ricevuto un risultato più o meno buono in termini assoluti o relativi. L'esperienza accumulata dal cliente ha un significato valutativo limitato» (slide 9, terza riga). Per la docente «anche qui manca il benchmark», ed è un **credence good** ([00:29:38]–[00:30:28]). ⚠️ Mancano i riferimenti sicuri **sia interni sia esterni**.
+**Opzione:** A posteriori in modo approssimativo a causa della mancanza dei riferimenti sicuri sia interni sia esterni: il cliente deve limitarsi a credere di aver ricevuto un risultato più o meno buono in termini assoluti o relativi.
+**Distrattori:**
+- A posteriori in modo approssimativo a causa della mancanza dei riferimenti sicuri solo esterni: il cliente deve limitarsi a credere di aver ricevuto un risultato più o meno buono in termini assoluti o relativi.
+- A differenza della strategia di cost leadership: seleziona i clienti percettivi e ricettivi e attua una segmentazione della clientela e della domanda; non c'è il confine preciso con la strategia di segmentazione.
+- È imprecisa, assertiva e convincente; il rischio di creare illusione-delusione del cliente: gestione delle percezioni, amplificazione delle aspettative.
+
+**D:** ⚠️ Com'è determinabile la qualità e il valore di contratti di copertura del rischio di interesse (prodotti e servizi di gestione del rischio), secondo la tabella della slide 9 della lezione 11?
+**R:** «La qualità e il valore di contratti di copertura del rischio di interesse è **facilmente determinabile ex post**, poiché le prestazioni sono **precise e accertabili**, mentre l'esito dell'operazione di copertura dipende dall'andamento dei tassi di interesse (**variabile esogena**)» (slide 9, quarta riga). Per la docente ci sono indicatori misurabili, quindi «in qualche modo parliamo di **experience good**», ma l'andamento dei tassi non è sotto il controllo dell'intermediario ([00:30:28]–[00:31:28]). ⚠️ È l'unica riga «facilmente» determinabile; la variabile è **esogena**.
+**Opzione:** Facilmente ex post, poiché le prestazioni sono precise e accertabili, mentre l'esito dell'operazione di copertura dipende dall'andamento dei tassi di interesse (variabile esogena).
+**Distrattori:**
+- Facilmente ex post, poiché le prestazioni sono precise e accertabili, mentre l'esito dell'operazione di copertura dipende dall'andamento dei tassi di interesse (variabile endogena).
+- I caratteri del prodotto/servizio e la loro differenziabilità; l'immagine dell'impresa produttrice e distributrice e la sua differenziabilità; le capacità di analisi, le soglie di percezione e i livelli di ricettività dei potenziali clienti.
+- In grado di percepire la differenza (la proposta di valore); in grado di ricevere e di accettare in chiave di convenienza rispetto al prezzo.
+
+**D:** ⚠️ Da che cosa dipendono la qualità e il valore del prodotto/servizio offerto dall'intermediario finanziario, secondo la slide 10 della lezione 11?
+**R:** «La qualità e il valore del prodotto/servizio offerto dall'intermediario finanziario dipendono dalla **volontà e dalla capacità tecnica, professionale e organizzativa dell'intermediario** di porre in essere le **future** azioni o attività **attese o richieste dal cliente**» (slide 10). Per la docente qualità e valore dipendono «soggettivamente dall'intermediario finanziario di cui ci fidiamo» e dalla sua capacità gestionale, professionale e organizzativa ([00:31:28]–[00:32:04]). ⚠️ Le capacità sono dell'**intermediario**, le attese e le richieste del **cliente**.
+**Opzione:** Dalla volontà e dalla capacità tecnica, professionale e organizzativa dell'intermediario di porre in essere le future azioni o attività attese o richieste dal cliente.
+**Distrattori:**
+- Dalla volontà e dalla capacità tecnica, professionale e organizzativa del cliente di porre in essere le future azioni o attività attese o richieste dall'intermediario.
+- I caratteri accessori del prodotto senza modificare la funzionalità d'uso principale: forma, immagine, aspetti tecnici, facilità di utilizzo, accessibilità, tempestività di prestazione.
+- Limitarsi a esemplificare modalità d'uso standard e a esibire le prove (test); esporre le testimonianze dei clienti che hanno già sperimentato (testimonials).
+
+**D:** ⚠️ Che cosa promettono il deposito o il titolo obbligazionario, il conto corrente e l'apertura di credito, le «promesse di dare o di fare» della slide 10 della lezione 11?
+**R:** «Il prodotto o il servizio di intermediario sono "**promesse di dare o di fare**". • Il **deposito o il titolo obbligazionario** è una promessa di **rimborso del capitale e di pagamento degli interessi** • Il **conto corrente** è una promessa di **prestazione di servizi di incasso-pagamento a richiesta del cliente** • L'**apertura di credito** è una promessa di **concessione di credito in vista di utilizzi futuri** da parte del cliente» (slide 10). Per la docente il servizio dell'intermediario «non è altro che una promessa», quindi la maggior parte dei servizi rientra nei *credence goods*; l'esempio dell'apertura di credito è il cliente che vuole acquistare un'automobile o una casa ([00:32:04]–[00:33:19]).
+**Opzione:** Il deposito o il titolo obbligazionario è una promessa di rimborso del capitale e di pagamento degli interessi; il conto corrente è una promessa di prestazione di servizi di incasso-pagamento a richiesta del cliente; l'apertura di credito è una promessa di concessione di credito in vista di utilizzi futuri da parte del cliente.
+**Distrattori:**
+- Il deposito o il titolo obbligazionario è una promessa di rimborso del capitale e di pagamento degli interessi; il conto corrente è una promessa di concessione di credito in vista di utilizzi futuri da parte del cliente; l'apertura di credito è una promessa di prestazione di servizi di incasso-pagamento a richiesta del cliente.
+- Design, forma, marchio, caratteri funzionali, comunicazione, modalità di definizione del prezzo.
+- I margini di redditività sono più elevati rispetto alla situazione pre-differenziazione e rispetto ai concorrenti orientati a competere sul prezzo.
+
+**D:** ⚠️ A che cosa allude il contenuto «promissorio», prima delle 4 considerazioni nella prospettiva della SD della slide 11 della lezione 11?
+**R:** «1. Il contenuto "promissorio" allude alla nozione di **prestazione futura**: l'intermediario finanziario vende **produzioni future**, vende quindi **capacità produttive e distributive** in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle **aspettative**» (slide 11, l'ultima parte sottolineata). Per la docente l'intermediario non vende «effettivi prodotti in questo specifico momento», e c'è sempre un legame fra le aspettative e i bisogni del cliente e ciò che potrà essere prodotto ([00:33:30]–[00:34:08]). ⚠️ Gli standard corrispondono alle **aspettative** del cliente.
+**Opzione:** Alla nozione di prestazione futura: l'intermediario finanziario vende produzioni future, vende quindi capacità produttive e distributive in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle aspettative.
+**Distrattori:**
+- Alla nozione di prestazione futura: l'intermediario finanziario vende produzioni future, vende quindi capacità produttive e distributive in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle norme di vigilanza.
+- Sul fondamento di ipotesi, convincimenti e pregiudizi che sostituiscono la mancata sperimentabilità del bene; la mancanza è legata all'inesistenza di standard o benchmark per una valutazione comparativa.
+- Immagine, reputazione, tecnologia di processo, modalità distributive, sistemi dell'assistenza pre-vendita (consulenza all'acquisto), assistenza post-vendita (consulenza all'uso, prestazioni ulteriori, manutenzione), modalità di comunicazione.
+
+**D:** ⚠️ Che cosa dice della decisione di acquisto la seconda delle 4 considerazioni nella prospettiva della SD della slide 11 della lezione 11?
+**R:** «2. La decisione di acquisto ha **sempre** un solido **presupposto fiduciario** nella dimensione **concettuale ed emozionale** della ***credence good*** (il cliente pensa di fare l'acquisto giusto). La fiducia si fonda sulla **credibilità** dell'impresa che si basa sulla **reputazione**, connotazione **pubblica**, **condivisa nello spazio** e **tramandata nel tempo**» (slide 11). Per la docente il cliente, a livello emozionale, pensa di fare la scelta giusta; e la reputazione è la **brand reputation** ([00:34:08]–[00:34:51]). ⚠️ La dimensione è della ***credence good***, e la credibilità poggia sulla **reputazione**.
+**Opzione:** Ha sempre un solido presupposto fiduciario nella dimensione concettuale ed emozionale della credence good (il cliente pensa di fare l'acquisto giusto); la fiducia si fonda sulla credibilità dell'impresa che si basa sulla reputazione, connotazione pubblica, condivisa nello spazio e tramandata nel tempo.
+**Distrattori:**
+- Ha sempre un solido presupposto fiduciario nella dimensione concettuale ed emozionale della experience good (il cliente pensa di fare l'acquisto giusto); la fiducia si fonda sulla credibilità dell'impresa che si basa sulla reputazione, connotazione pubblica, condivisa nello spazio e tramandata nel tempo.
+- I beni i cui valori possono essere accertati soltanto dopo l'acquisto (contratto) o durante l'uso con un processo di sperimentazione; la sperimentazione è a carico dell'acquirente che introduce elementi di soggettività.
+- I clienti sono meno sensibili alle variazioni di prezzo, sono disposti a pagare di più, riconoscendo un valore distintivo del prodotto.
+
+**D:** ⚠️ Che cos'è la razionalità limitata (bounded rationality), richiamata dalla terza delle 4 considerazioni della slide 12 della lezione 11?
+**R:** «La razionalità limitata è il concetto, o idea, secondo cui, durante il processo decisionale, la razionalità di un individuo è limitata da vari fattori: dalle **informazioni** che possiede, dai **limiti cognitivi**, dalla **quantità di tempo** di cui dispone per prendere una decisione» (slide 12, nota a piè di slide richiamata da un asterisco). La terza considerazione: «La dimensione o componente **non razionale** della scelta del produttore-fornitore e della decisione d'acquisto sul fondamento della reputazione trova riscontro negli studi di **psicologia del consumatore** e sulla ***bounded rationality***». La docente aggiunge l'esperienza e il background, e conclude che il comportamento del consumatore va studiato anche dal punto di vista psicologico ([00:34:51]–[00:36:05]). ⚠️ Tre fattori nella slide; l'ultimo è il **tempo**.
+**Opzione:** Il concetto, o idea, secondo cui, durante il processo decisionale, la razionalità di un individuo è limitata da vari fattori: dalle informazioni che possiede, dai limiti cognitivi, dalla quantità di tempo di cui dispone per prendere una decisione.
+**Distrattori:**
+- Il concetto, o idea, secondo cui, durante il processo decisionale, la razionalità di un individuo è limitata da vari fattori: dalle informazioni che possiede, dai limiti cognitivi, dalle risorse finanziarie di cui dispone per prendere una decisione.
+- Generazione della preferenza dei clienti reali e potenziali; applicazione dei prezzi più elevati (rispetto ai prodotti concorrenti).
+- Consiste in un'offerta di servizio a contenuto verbale, riferito a prestazioni non dimostrabili: può essere solo creduto (credence goods) o meno spesso sperimentato post-acquisto (experience goods).
+
+**D:** ⚠️ Che cosa dice del contratto la quarta delle 4 considerazioni nella prospettiva della SD della slide 12 della lezione 11?
+**R:** «4. Condivisione del contenuto "promissorio" + Valorizzazione del concetto di "aspettativa" del cliente -> **la caratterizzazione psicologica del contratto**. Il contratto **legale/formale** costituisce il **corpo centrale ma non esclusivo** di un **contratto psicologico o implicito** (più ampio, contorni indefiniti, contenuti imprecisati). "**Contratto incompleto**" – diversità fra **prestazione attesa** e **prestazione ricevuta**» (slide 12). Per la docente il contratto diventa «praticamente sempre incompleto»: dopo il servizio va valutato il gap fra aspettative e servizio reso, per colmarlo e avviare il **miglioramento continuo** ([00:36:05]–[00:37:42]). ⚠️ Centrale **ma non esclusivo**.
+**Opzione:** Il contratto legale/formale costituisce il corpo centrale ma non esclusivo di un contratto psicologico o implicito (più ampio, contorni indefiniti, contenuti imprecisati); il contratto incompleto è la diversità fra prestazione attesa e prestazione ricevuta.
+**Distrattori:**
+- Il contratto legale/formale costituisce il corpo centrale ed esclusivo di un contratto psicologico o implicito (più ampio, contorni indefiniti, contenuti imprecisati); il contratto incompleto è la diversità fra prestazione attesa e prestazione ricevuta.
+- Consiste in un'offerta di servizio a contenuto verbale, riferito a prestazioni non dimostrabili: può essere solo creduto (credence goods) o meno spesso sperimentato post-acquisto (experience goods).
+- In base alla conoscibilità ex ante dell'intrinseco valore d'uso del bene considerato.
+
+**D:** ⚠️ Come sono la natura immateriale e il contenuto promissorio del prodotto dell'intermediario finanziario, secondo la slide 13 della lezione 11?
+**R:** «La natura immateriale e il contenuto promissorio sono **facilmente differenziabili**» (slide 13), prima risposta a «Come e perché l'intermediario finanziario può differenziare la propria offerta e/o differenziarsi rispetto ad altri concorrenti?». La docente: «Basta promettere una cosa diversa che il nostro prodotto diventa diversificato, differenziato» ([00:38:03]–[00:38:20]). ⚠️ **Facilmente** differenziabili; le prestazioni, invece, sono «non dimostrabili» (slide 13).
+**Opzione:** Sono facilmente differenziabili.
+**Distrattori:**
+- Sono difficilmente differenziabili.
+- Sono facilmente dimostrabili.
+- Internet banking.
+
+**D:** ⚠️ Com'è la comunicazione della differenza dell'intermediario finanziario, e quale rischio corre, secondo la slide 13 della lezione 11?
+**R:** «• La comunicazione è **imprecisa, assertiva e convincente** • Il rischio di creare "**illusione-delusione**" del cliente: **gestione delle percezioni**, **amplificazione delle aspettative**» (slide 13). Per la docente la comunicazione è «sempre imprecisa»: non bisogna amplificare troppo le aspettative, perché ne soffrono la soddisfazione, la fidelizzazione e la ripetizione dell'acquisto ([00:38:56]–[00:39:59]). La slide aggiunge che la comunicazione deve essere **credibile**, e la credibilità dipende dall'immagine che la banca ha presso la clientela e il pubblico ([00:39:59]–[00:40:27]). ⚠️ **Imprecisa**, non precisa.
+**Opzione:** È imprecisa, assertiva e convincente; il rischio di creare illusione-delusione del cliente: gestione delle percezioni, amplificazione delle aspettative.
+**Distrattori:**
+- È precisa, assertiva e convincente; il rischio di creare illusione-delusione del cliente: gestione delle percezioni, amplificazione delle aspettative.
+- Solo a posteriori e nei limiti delle prestazioni richieste, utilizzate e sperimentate.
+- Un vantaggio competitivo non transitorio (stabile), riducendo l'elasticità della domanda rispetto al prezzo.
+
+**D:** ⚠️ In che cosa consiste la comunicazione dell'intermediario finanziario, che non è in grado di esibire il prodotto, secondo la slide 13 della lezione 11?
+**R:** «La comunicazione non è in grado di esibire il prodotto, ma consiste in un'offerta di servizio a **contenuto verbale**, riferito a prestazioni **non dimostrabili** –può essere **solo creduto** (*credence goods*) o **meno spesso** sperimentato post-acquisto (*experience goods*)» (slide 13). La docente dice «non facilmente dimostrabile» ([00:38:31]–[00:38:56]): nelle opzioni vale la slide. ⚠️ **Solo creduto** di norma, **meno spesso** sperimentato: l'ordine rispecchia la prevalenza dei credence goods.
+**Opzione:** Consiste in un'offerta di servizio a contenuto verbale, riferito a prestazioni non dimostrabili: può essere solo creduto (credence goods) o meno spesso sperimentato post-acquisto (experience goods).
+**Distrattori:**
+- Consiste in un'offerta di servizio a contenuto verbale, riferito a prestazioni non dimostrabili: può essere solo sperimentato post-acquisto (experience goods) o meno spesso creduto (credence goods).
+- Il concetto, o idea, secondo cui, durante il processo decisionale, la razionalità di un individuo è limitata da vari fattori: dalle informazioni che possiede, dai limiti cognitivi, dalla quantità di tempo di cui dispone per prendere una decisione.
+- Dalla volontà e dalla capacità tecnica, professionale e organizzativa dell'intermediario di porre in essere le future azioni o attività attese o richieste dal cliente.
+
+**D:** ⚠️ Su che cosa fa leva l'intermediario finanziario per differenziare la propria offerta, e a quale livello avviene la differenziazione, secondo la slide 14 della lezione 11?
+**R:** «• L'intermediario finanziario tende a differenziare la propria offerta facendo leva sulla propria **IMMAGINE/REPUTAZIONE**. […] • Differenziazione **al livello globale** piuttosto che al livello dei singoli prodotti/servizi» (slide 14). Per la docente «non soltanto esclusivamente sul prodotto… ma soprattutto sull'immagine e sulla reputazione» ([00:40:27]); «la differenziazione quindi avviene a livello globale piuttosto che a livello dei singoli prodotti e servizi» ([00:41:20]). È la stessa conclusione a cui la docente arriva per i credence goods ([00:24:30]). ⚠️ **Globale**, non il singolo prodotto.
+**Opzione:** Sulla propria immagine/reputazione; differenziazione al livello globale piuttosto che al livello dei singoli prodotti/servizi.
+**Distrattori:**
+- Sulla propria immagine/reputazione; differenziazione al livello dei singoli prodotti/servizi piuttosto che al livello globale.
+- Sulla propria efficienza; differenziazione al livello globale piuttosto che al livello dei singoli prodotti/servizi.
+- Classe delle experience goods; classe delle credence goods.
+
+**D:** ⚠️ Che cosa prevale nell'attività finanziaria, e come comunica se stessa la banca, secondo la slide 14 della lezione 11?
+**R:** «L'**assoluta prevalenza della marca (*brand*) sui marchi (*trade marks*)** nell'attività finanziaria -> la banca comunica **se stessa** in quanto "**organizzazione di risorse e di capacità eccellenti**"» (slide 14). Per la docente l'immagine generale della banca crea la fiducia del cliente indipendentemente dal prodotto, e fa preferire anche prodotti di categorie diverse della stessa banca ([00:40:43]–[00:41:20]). ⚠️ La **marca** prevale sui **marchi**; il marchio, nella slide 5, è una leva del **prodotto**.
+**Opzione:** L'assoluta prevalenza della marca (brand) sui marchi (trade marks): la banca comunica se stessa in quanto organizzazione di risorse e di capacità eccellenti.
+**Distrattori:**
+- L'assoluta prevalenza dei marchi (trade marks) sulla marca (brand): la banca comunica se stessa in quanto organizzazione di risorse e di capacità eccellenti.
+- I beni i cui valori non possono essere accertati neanche ex post, se non in modo approssimativo e soggettivo.
+- Classe delle experience goods; classe delle credence goods.
+
+**D:** ⚠️ Con che cosa può essere realizzata la differenziazione del servizio, e a quale strategia porta, secondo la slide 14 della lezione 11?
+**R:** «La possibilità di differenziazione del servizio può essere realizzata con la **partecipazione attiva del cliente** (*partenrship* tra la banca e il cliente) -> la prestazione della banca si differenzia in funzione di **ogni singolo cliente** -> strategia di differenziazione "**totale**"» (slide 14, «partenrship» così). Per la docente è la **personalizzazione** dell'offerta: il cliente, coinvolto nella creazione del proprio prodotto o servizio, diventa «il nostro partner, il nostro collaboratore» ([00:41:26]–[00:42:32]). ⚠️ Ogni **singolo cliente**, non un segmento. ⚠️ Da non confondere con la *total strategy* di Jensen della **lezione 06** (strategia competitiva, organizzativa e umana).
+**Opzione:** Con la partecipazione attiva del cliente (partnership tra la banca e il cliente): la prestazione della banca si differenzia in funzione di ogni singolo cliente, strategia di differenziazione totale.
+**Distrattori:**
+- Con la partecipazione attiva del cliente (partnership tra la banca e il cliente): la prestazione della banca si differenzia in funzione di ogni segmento di clientela, strategia di differenziazione totale.
+- Alla nozione di prestazione futura: l'intermediario finanziario vende produzioni future, vende quindi capacità produttive e distributive in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle aspettative.
+- Valutazione del produttore piuttosto che del prodotto (input e non output); l'importanza delle opinioni dei clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze non sono pienamente ripetibili).
