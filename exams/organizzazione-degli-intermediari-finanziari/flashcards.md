@@ -3176,3 +3176,312 @@
 - Con la partecipazione attiva del cliente (partnership tra la banca e il cliente): la prestazione della banca si differenzia in funzione di ogni segmento di clientela, strategia di differenziazione totale.
 - Alla nozione di prestazione futura: l'intermediario finanziario vende produzioni future, vende quindi capacità produttive e distributive in quanto organizzazione capace di produrre secondo gli standard corrispondenti alle aspettative.
 - Valutazione del produttore piuttosto che del prodotto (input e non output); l'importanza delle opinioni dei clienti che hanno già utilizzato il prodotto/servizio (anche se le esperienze non sono pienamente ripetibili).
+
+## Lezione 12 — Strategie di segmentazione e di posizionamento
+
+**D:** ⚠️ In che cosa consiste la strategia di segmentazione e di posizionamento, secondo la slide 2 della lezione 12?
+**R:** «Consiste nella decisione e nell'attività di **rappresentare la domanda per sotto-insiemi significativi** (i segmenti), a loro volta caratterizzati da profili di **omogeneità interna** e di **diversità trasversale o reciproca**, dal punto di vista dei **comportamenti di acquisto** rispetto alle politiche di offerta (prodotto, prezzo, comunicazione, distribuzione) attuate dall'azienda» (slide 2). Per la docente dentro un segmento i clienti sono più o meno omogenei e hanno comportamenti di acquisto simili, mentre la differenza fra un segmento e l'altro è notevole ([00:00:26]–[00:01:38]). ⚠️ L'omogeneità è **interna** al segmento, la diversità è **fra** i segmenti: non scambiarle. La lezione 09 (slide 8) dà una formula diversa: «Segmentare = identificare e scegliere sottoinsiemi di clienti».
+**Opzione:** Nella decisione e nell'attività di rappresentare la domanda per sotto-insiemi significativi (i segmenti), a loro volta caratterizzati da profili di omogeneità interna e di diversità trasversale o reciproca, dal punto di vista dei comportamenti di acquisto rispetto alle politiche di offerta (prodotto, prezzo, comunicazione, distribuzione) attuate dall'azienda.
+**Distrattori:**
+- Nella decisione e nell'attività di rappresentare la domanda per sotto-insiemi significativi (i segmenti), a loro volta caratterizzati da profili di diversità interna e di omogeneità trasversale o reciproca, dal punto di vista dei comportamenti di acquisto rispetto alle politiche di offerta (prodotto, prezzo, comunicazione, distribuzione) attuate dall'azienda.
+- Un posizionamento; le risposte: entrare-rimanere-uscire dalla combinazione specifica, aumentare-diminuire la presenza.
+- Aperta, poiché qualsiasi ASA o mercato può essere ri-segmentato o segmentato in modo più analitico, in relazione ai cambiamenti ambientali e alla possibilità di introdurre nuovi prodotti nell'ASA.
+
+**D:** ⚠️ Quale strategia competitiva consiste nella decisione e nell'attività di rappresentare la domanda per sotto-insiemi significativi, a loro volta caratterizzati da profili di omogeneità interna e di diversità trasversale o reciproca, dal punto di vista dei comportamenti di acquisto rispetto alle politiche di offerta, secondo il test della lezione 12 (domanda 1)?
+**R:** «**Strategia di segmentazione e posizionamento**». È la slide 2 quasi alla lettera, senza «(i segmenti)» e senza la coda «(prodotto, prezzo, comunicazione, distribuzione) attuate dall'azienda»; la docente la legge identica ([00:00:26]). Distrattori del test: «cost leadership», «strategia di differenziazione», «business strategy». ⚠️ La **differenziazione** è la trappola: il suo confine con la segmentazione è «abbastanza imprecisabile» (slide 7). «Business strategy» non è falso in astratto, ma è il **genere**: nella lezione 09 (slide 12) cost leadership, differenziazione e segmentazione sono tutte «tipicamente strategie di business». Qui la piattaforma tiene insieme segmentazione e posizionamento, che nei test 09 e 11 aveva spezzato in due opzioni.
+**Opzione:** Strategia di segmentazione e posizionamento.
+**Distrattori:**
+- Cost leadership.
+- Strategia di differenziazione.
+- Business strategy.
+
+**D:** ⚠️ Perché la segmentazione ha una valenza competitiva, secondo la slide 2 della lezione 12?
+**R:** «La segmentazione ha una valenza competitiva: • **Fornisce gli strumenti conoscitivi** necessari per decidere il **posizionamento** • Permette d **adattare le specifiche dell'offerta ai caratteri o profili distintivi del segmento**» (slide 2, con il refuso). La docente: dopo aver capito il segmento, le sue preferenze, le caratteristiche e le aspettative, si adattano di conseguenza l'offerta, il prodotto e il servizio. Rispetto alla differenziazione il legame è «un pochino inverso»: il cliente ha la priorità, e solo dopo si modifica il prodotto ([00:01:45]–[00:03:03]). ⚠️ La direzione: è l'**offerta** ad adattarsi al **segmento**.
+**Opzione:** Fornisce gli strumenti conoscitivi necessari per decidere il posizionamento e permette di adattare le specifiche dell'offerta ai caratteri o profili distintivi del segmento.
+**Distrattori:**
+- Fornisce gli strumenti conoscitivi necessari per decidere il posizionamento e permette di adattare i caratteri o profili distintivi del segmento alle specifiche dell'offerta.
+- Competenze statistiche; conoscenza di psicologia comportamentale del cliente; competenze di rilevazione ed elaborazione dati.
+- Nell'utilità di aumentare il volume di vendita di un certo prodotto.
+
+**D:** ⚠️ Che cosa produce l'adattamento dell'offerta al segmento, secondo la freccia della slide 2 della lezione 12?
+**R:** «Progettazione più precisa del prodotto/servizio rispetto ai bisogni e alle aspettative del segmento. Presentazione alla clientela di una "**proposta di valore**" (*value proposition*) migliore: - Più attraente, più convincente - Ottenimento di una **maggiore soddisfazione del cliente** e **maggiore preferenza d'acquisto**» (slide 2). Per la docente la proposta diventa più attraente e convincente perché il miglioramento del prodotto parte dalle aspettative dei clienti, da uno studio approfondito di ogni segmento ([00:03:03]–[00:03:51]). ⚠️ Anche la segmentazione porta una maggiore preferenza d'acquisto: nella lezione 09 (slide 8) la differenziazione la ottiene «**indipendentemente dai costi**», ed è quell'inciso a distinguerla.
+**Opzione:** Progettazione più precisa del prodotto/servizio rispetto ai bisogni e alle aspettative del segmento; presentazione alla clientela di una proposta di valore (value proposition) migliore: più attraente, più convincente; ottenimento di una maggiore soddisfazione del cliente e maggiore preferenza d'acquisto.
+**Distrattori:**
+- Progettazione più precisa del prodotto/servizio rispetto ai bisogni e alle aspettative del segmento; presentazione alla clientela di una proposta di valore (value proposition) migliore: più attraente, più convincente; ottenimento di una maggiore soddisfazione del cliente e minori costi unitari.
+- Enabling technology: per segmentare la clientela e per gestire le segmentazioni nel tempo.
+- I modelli di business (1, 2, 3…) e le strategie: leadership dei costi, differenziazione del prodotto, segmentazione.
+
+**D:** ⚠️ In che cosa consiste la segmentazione, e che conoscenza della clientela richiede, secondo la slide 3 della lezione 12?
+**R:** «Il processo di acquisizione e di elaborazione della conoscenza delle clientela: La segmentazione consiste nell'identificazione di **cluster relativamente omogenei** e Richiede una approfondita conoscenza della **clientela effettiva e potenziale**» (slide 3, con i refusi). Per la docente è «un processo graduale» ([00:03:51]). ⚠️ Due quantificatori: cluster **relativamente** omogenei; clientela effettiva **e potenziale**, non solo quella già servita.
+**Opzione:** Nell'identificazione di cluster relativamente omogenei; richiede una approfondita conoscenza della clientela effettiva e potenziale.
+**Distrattori:**
+- Nell'identificazione di cluster relativamente eterogenei; richiede una approfondita conoscenza della clientela effettiva e potenziale.
+- Nell'identificazione di cluster relativamente omogenei; richiede una approfondita conoscenza della sola clientela effettiva.
+- Nell'identificazione di cluster relativamente eterogenei; richiede una approfondita conoscenza della sola clientela effettiva.
+
+**D:** ⚠️ Quali sono, nell'ordine, le cinque fasi del processo di segmentazione nella freccia della slide 3 della lezione 12?
+**R:** 1. «Analisi e rilevazione dei profili comportamentali relativi alla ricerca di soddisfazione di un certo bisogno» → 2. «Costruzione di "**tipi comportamentali**"- profili omogenei all'interno e significativamente diversi tra loro (cluster o segmento)» → 3. «Identificazione e verifica delle **variabili proxy** che distinguono ogni cluster (caratteri anagrafici, biologici, sociali, economici ecc.)» → 4. «**Classificazione della clientela** mediante variabili proxy -> rilevazione concreta dei segmenti» → 5. «**Test di significatività** dei rispettivi segmenti (uniformità, gamma di bisogni, volumi potenziali di domanda) -> valutazione della convenienza di servire il segmento» (slide 3). Per la docente prima si rilevano i comportamenti principali e le loro differenze, poi si costruiscono tipi comportamentali omogenei e si valuta se dividere un macro-segmento in più segmenti; le proxy sono gli indicatori in base ai quali un cluster si differenzia dall'altro ([00:04:10]–[00:07:50]). ⚠️ Le proxy prima si **identificano e verificano**, poi servono a **classificare** la clientela; il test di significatività chiude il processo.
+
+**D:** ⚠️ Che cosa si fa con le variabili proxy nel processo di segmentazione, secondo la slide 3 della lezione 12?
+**R:** Due fasi della freccia: «Identificazione e verifica delle **variabili proxy che distinguono ogni cluster** (caratteri anagrafici, biologici, sociali, economici ecc.)», poi «**Classificazione della clientela** mediante variabili proxy -> **rilevazione concreta dei segmenti**» (slide 3; l'elenco dei caratteri è aperto). La docente: con le variabili anagrafiche si segmenta per **genere** e per **età**, per esempio per generazione (X, Y, Z, baby boomers). Se una banca rileva differenze di comportamento molto significative fra la generazione Z e i baby boomers, segmenta per età e può differenziare il prodotto secondo le aspettative di ogni segmento ([00:05:01]–[00:07:07]). ⚠️ Le proxy **distinguono** i cluster.
+**Opzione:** Identificazione e verifica delle variabili proxy che distinguono ogni cluster (caratteri anagrafici, biologici, sociali, economici ecc.); classificazione della clientela mediante variabili proxy, con la rilevazione concreta dei segmenti.
+**Distrattori:**
+- Identificazione e verifica delle variabili proxy che accomunano tutti i cluster (caratteri anagrafici, biologici, sociali, economici ecc.); classificazione della clientela mediante variabili proxy, con la rilevazione concreta dei segmenti.
+- La vendita incrociata: la possibilità di vendere allo stesso segmento più prodotti, come al segmento S3 sia la variante B2 sia la B3.
+- Non come scelte alternative reciprocamente esclusive: possono essere combinate secondo le priorità e secondo i caratteri specifici del contesto.
+
+**D:** ⚠️ Qual è l'ultima fase del processo di segmentazione, che cosa verifica e a che cosa porta, secondo la slide 3 della lezione 12?
+**R:** «**Test di significatività** dei rispettivi segmenti (**uniformità, gamma di bisogni, volumi potenziali di domanda**) -> **valutazione della convenienza di servire il segmento**» (slide 3, quinto riquadro). La docente aggiunge «l'omogeneità» e spiega che il test serve a decidere se rivolgere la propria offerta a un segmento o a più segmenti ([00:07:07]–[00:07:50]). ⚠️ Il test chiude il processo, dopo la classificazione della clientela mediante le proxy.
+**Opzione:** Il test di significatività dei rispettivi segmenti (uniformità, gamma di bisogni, volumi potenziali di domanda), che porta alla valutazione della convenienza di servire il segmento.
+**Distrattori:**
+- Il test di significatività dei rispettivi segmenti (uniformità, gamma di bisogni, potenziali entranti), che porta alla valutazione della convenienza di servire il segmento.
+- All'opportunità di vendere prodotti connessi o complementari (politica di loss leader mirata a un obiettivo di cross-selling: conto corrente e servizi su di esso innestati).
+- 2 strategie di posizionamento competitivo nel mercato; obiettivo principale di entrambe: ottimizzazione della relazione offerta-domanda (prodotto-cliente) rispetto alle imprese concorrenti.
+
+**D:** ⚠️ Quali sono le principali risorse richieste per il processo di segmentazione, secondo il test della lezione 12 (domanda 2)?
+**R:** «**Risorse umane e tecnologiche**» (la piattaforma scrive «risrose»). La slide 4: «Risorse e competenze richieste per il processo di segmentazione: **Risorse umane**: • Competenze statistiche • Conoscenza di psicologia comportamentale del cliente • Competenze di rilevazione ed elaborazione dati. **Risorse tecnologiche** (*enabling technology*) • Per segmentare la clientela • Per gestire le segmentazioni nel tempo». La docente: «soprattutto parliamo delle risorse umane, delle risorse tecnologiche» ([00:08:02]). Distrattori del test: «risorse economiche», «risorse relazionali e sociali», «risorse immobiliari», nessuna delle quali compare nella slide 4. ⚠️ Le «relazionali e sociali» ricordano il capitale sociale della lezione 04, ma non sono risorse della segmentazione.
+**Opzione:** Risorse umane e tecnologiche.
+**Distrattori:**
+- Risorse economiche.
+- Risorse relazionali e sociali.
+- Risorse immobiliari.
+
+**D:** ⚠️ Quali competenze delle risorse umane richiede il processo di segmentazione, secondo la slide 4 della lezione 12?
+**R:** «Risorse umane: • **Competenze statistiche** • **Conoscenza di psicologia comportamentale del cliente** • **Competenze di rilevazione ed elaborazione dati**» (slide 4: tre voci, l'ultima è la rilevazione ed elaborazione dati). Per la docente la psicologia comportamentale serve a capire le motivazioni e le cause dei comportamenti di un segmento rispetto a un altro; dopo la raccolta dei dati, le risorse umane devono saperli analizzare per fare la segmentazione ([00:08:13]–[00:09:04]).
+**Opzione:** Competenze statistiche; conoscenza di psicologia comportamentale del cliente; competenze di rilevazione ed elaborazione dati.
+**Distrattori:**
+- Competenze statistiche; conoscenza di psicologia comportamentale del cliente; competenze di progettazione e innovazione del prodotto.
+- I fattori che definiscono le funzioni d'uso del prodotto; le modalità di pricing; le politiche di comunicazione; i canali di distribuzione.
+- Produzione di valore.
+
+**D:** ⚠️ Che tipo di tecnologia sono le risorse tecnologiche richieste per il processo di segmentazione, e a che cosa servono, secondo la slide 4 della lezione 12?
+**R:** «Risorse tecnologiche (***enabling technology***) • **Per segmentare la clientela** • **Per gestire le segmentazioni nel tempo**» (slide 4). La docente: le tecnologie aiutano a segmentare la clientela e poi a gestire i segmenti, i cluster, nel tempo; l'esempio sono i sistemi di **Customer Relationship Management** ([00:08:08], [00:09:04]–[00:09:20]). ⚠️ Nella lezione 08 l'*enabling technology* è il secondo campo di applicazione della tecnologia, accanto alla *substituting technology* (slide 4 e 6 di quel deck). E le segmentazioni si gestiscono anche **nel tempo**, non solo all'inizio.
+**Opzione:** Enabling technology: per segmentare la clientela e per gestire le segmentazioni nel tempo.
+**Distrattori:**
+- Substituting technology: per segmentare la clientela e per gestire le segmentazioni nel tempo.
+- Enabling technology: per segmentare la clientela, non per gestire le segmentazioni nel tempo.
+- Substituting technology: per segmentare la clientela, non per gestire le segmentazioni nel tempo.
+
+**D:** ⚠️ Quale strumento cita la docente della lezione 12 come esempio di risorsa tecnologica per la segmentazione, e a che cosa serve?
+**R:** I sistemi di **Customer Relationship Management**: «si creano tantissimi flussi di dati, di informazioni che possono essere analizzate non soltanto dal punto di vista **statico** ma anche dal punto di vista **dinamico**», un database per capire la gestione di ogni cliente nel tempo ([00:09:20]–[00:09:45]). Il CRM è un software, un sistema applicato dall'azienda, che può servire «**ex ante** andare a definire e individuare i segmenti e anche poi **in itinere** andare a gestire le relazioni con ogni segmento o anzi con ogni singolo cliente» ([00:09:45]–[00:10:14]). È solo nel transcript: la slide 4 dice soltanto «enabling technology».
+**Opzione:** I sistemi di Customer Relationship Management: creano flussi di dati analizzabili dal punto di vista statico e dinamico, e servono ex ante a individuare i segmenti e in itinere a gestire le relazioni con ogni segmento o singolo cliente.
+**Distrattori:**
+- I sistemi di Customer Relationship Management: creano flussi di dati analizzabili soltanto dal punto di vista statico, e servono ex ante a individuare i segmenti e in itinere a gestire le relazioni con ogni segmento o singolo cliente.
+- Da una combinazione di parametri: la dimensione del patrimonio finanziario del cliente, il flusso periodico di risparmio, l'età, la professione, il livello di cultura finanziaria.
+- Aperta, poiché qualsiasi ASA o mercato può essere ri-segmentato o segmentato in modo più analitico, in relazione ai cambiamenti ambientali e alla possibilità di introdurre nuovi prodotti nell'ASA.
+
+**D:** ⚠️ A che cosa è propedeutica la segmentazione nell'approccio di tipo selettivo, e a che cosa in quello di tipo trasversale, secondo la slide 5 della lezione 12?
+**R:** «Approccio di tipo selettivo: • La segmentazione è propedeutica alla **scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri**»; «Approccio di tipo trasversale (multi-segmento): • La segmentazione è propedeutica a una **scelta di offerta differenziata per segmenti**» (slide 5). Per la docente nel selettivo si crea «una specie di classifica, di scaletta, di priorità» e si scelgono uno o pochi segmenti, perché «la strategia è necessariamente una scelta»; nel trasversale non si escludono segmenti, ma si personalizza l'offerta per ognuno ([00:10:41]–[00:13:09]). ⚠️ «1 **o pochi**»: il selettivo non sceglie per forza un solo segmento.
+**Opzione:** Selettivo: alla scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri; trasversale (multi-segmento): a una scelta di offerta differenziata per segmenti.
+**Distrattori:**
+- Trasversale (multi-segmento): alla scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri; selettivo: a una scelta di offerta differenziata per segmenti.
+- Un'unica relazione biunivoca prodotto-segmento: ogni segmento richiede una specifica e distintiva variante del prodotto.
+- I prodotti e servizi, con le loro varianti (A1, A2, A3…, B1, B2, B3…), e i segmenti (S1, S2, S3…): la relazione prodotto-segmento, che individua le aree strategiche d'affari.
+
+**D:** ⚠️ Qual è l'approccio della segmentazione il cui obiettivo è la focalizzazione o la specializzazione, secondo il test della lezione 12 (domanda 4)?
+**R:** «**Selettivo**». È la slide 5 alla lettera: «Approccio di tipo selettivo: • La segmentazione è propedeutica alla scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri • **L'obiettivo di focalizzazione o di specializzazione** (es. clientela di livello elevato nell'ambito del private banking oppure le imprese di *new technologies* nell' attività di *mergers and acquisitions*)». La docente: «L'obiettivo quindi in questo caso di focalizzazione o di specializzazione», con una *expertise* per quella clientela ([00:11:42]–[00:12:10]). Distrattori del test: «trasversale», «universale», «innovativo». ⚠️ Gli approcci della slide 5 sono **due**, selettivo e trasversale («due tipi di approcci», [00:10:31]), e la stessa batteria torna nella domanda 3 con la chiave sul trasversale. «Universale» e «innovativo» non esistono nei materiali come approcci alla segmentazione.
+**Opzione:** Selettivo.
+**Distrattori:**
+- Trasversale.
+- Universale.
+- Innovativo.
+
+**D:** ⚠️ Qual è l'approccio della segmentazione il cui obiettivo è la proposta di servizio standardizzato e soluzioni personalizzate, secondo il test della lezione 12 (domanda 3)?
+**R:** «**Trasversale**». La slide 5: «Approccio di tipo trasversale (multi-segmento): • La segmentazione è propedeutica a una scelta di offerta differenziata per segmenti (…) • **Proposta di servizio standardizzato e soluzioni personalizzate**». La chiave è giusta ma **non testuale**: la slide non chiama «obiettivo» la proposta, la parola sta solo sotto il selettivo. La docente: «una proposta di servizio standardizzato però con delle soluzioni di personalizzazione, quindi il servizio potrebbe essere in qualche misura personalizzato» ([00:13:15]). Distrattori del test: «selettivo», «universale», «innovativo». ⚠️ La stessa batteria torna nella domanda 4 con la chiave sul selettivo, l'approccio della focalizzazione. L'ordine degli aggettivi: servizio **standardizzato**, soluzioni **personalizzate**.
+**Opzione:** Trasversale.
+**Distrattori:**
+- Selettivo.
+- Universale.
+- Innovativo.
+
+**D:** ⚠️ Quali esempi dà la slide 5 della lezione 12 per l'approccio selettivo, e quale per quello trasversale?
+**R:** Selettivo: «(es. **clientela di livello elevato nell'ambito del private banking** oppure le **imprese di *new technologies* nell' attività di *mergers and acquisitions***)»; trasversale: «(es. **offerta di servizi di investimento ad ampia gamma di segmenti**: dalle fasce di clientela di patrimoni medi alle fasce di clientela di patrimoni elevati)» (slide 5). La docente legge gli stessi esempi, «acquisizioni e fusioni» ([00:11:42]), e per il trasversale spiega che non si escludono segmenti ma si adatta l'offerta di servizi di investimento a ciascuno ([00:12:23]–[00:13:09]). ⚠️ Una matrice 2×2: chi si focalizza (private banking, M&A) è selettivo, chi copre i patrimoni dai medi agli elevati è trasversale.
+**Opzione:** Selettivo: clientela di livello elevato nell'ambito del private banking oppure le imprese di new technologies nell'attività di mergers and acquisitions; trasversale: offerta di servizi di investimento ad ampia gamma di segmenti, dalle fasce di clientela di patrimoni medi alle fasce di clientela di patrimoni elevati.
+**Distrattori:**
+- Trasversale: clientela di livello elevato nell'ambito del private banking oppure le imprese di new technologies nell'attività di mergers and acquisitions; selettivo: offerta di servizi di investimento ad ampia gamma di segmenti, dalle fasce di clientela di patrimoni medi alle fasce di clientela di patrimoni elevati.
+- Fornisce gli strumenti conoscitivi necessari per decidere il posizionamento e permette di adattare le specifiche dell'offerta ai caratteri o profili distintivi del segmento.
+- Il test di significatività dei rispettivi segmenti (uniformità, gamma di bisogni, volumi potenziali di domanda), che porta alla valutazione della convenienza di servire il segmento.
+
+**D:** ⚠️ Attraverso quali strumenti si può rifocalizzare l'offerta sul segmento, secondo la slide 6 della lezione 12?
+**R:** «L'opportunità di rifocalizzare l'offerta sul segmento attraverso strumenti diversi: • I fattori che definiscono le **funzioni d'uso del prodotto** • Le modalità di ***pricing*** • Le **politiche di comunicazione** • I **canali di distribuzione**» (slide 6: quattro voci, l'ultima sono i canali). Sotto, lo schema mette la **SEGMENTAZIONE** nel mezzo, fra la «Considerazione del cliente, dei suoi bisogni, della sua domanda» e «Le politiche di offerta (produzione e distribuzione) e tutta la catena del valore». La docente fa l'esempio dei canali di pagamento: lo stesso servizio passa per l'assegno o il bonifico allo sportello, oppure per il bonifico online, la carta usata online, intermediari come PayPal ([00:13:33]–[00:15:41]).
+**Opzione:** I fattori che definiscono le funzioni d'uso del prodotto; le modalità di pricing; le politiche di comunicazione; i canali di distribuzione.
+**Distrattori:**
+- I fattori che definiscono le funzioni d'uso del prodotto; le modalità di pricing; le politiche di comunicazione; la struttura di costo.
+- Nell'identificazione di cluster relativamente omogenei; richiede una approfondita conoscenza della clientela effettiva e potenziale.
+- 2 strategie di posizionamento competitivo nel mercato; obiettivo principale di entrambe: ottimizzazione della relazione offerta-domanda (prodotto-cliente) rispetto alle imprese concorrenti.
+
+**D:** ⚠️ Com'è il confine fra strategia di segmentazione e strategia di differenziazione, e dove sta la differenza, secondo la slide 7 della lezione 12?
+**R:** «La politica di offerta si propone l'obiettivo di modificarne le specifiche del prodotto in funzione della più approfondita conoscenza del cliente. ↓ L'intermedio differenzia l'offerta e si differenzia rispetto alla concorrenza ↓ **Il confine fra strategia di segmentazione e di differenziazione** è **abbastanza imprecisabile** (la differenza sta nelle **diverse priorità**)» (slide 7, con i refusi). La docente: prima si studia il cliente, poi si modificano alcune caratteristiche del prodotto, e così l'intermediario differenzia l'offerta ([00:15:54]–[00:16:44]). ⚠️ La differenza sta nelle **priorità**, non negli obiettivi: la slide 8 dà alle due strategie lo **stesso** obiettivo principale. Anche la lezione 11 (slide 4) dice che «Non c'è il confine preciso».
+**Opzione:** Abbastanza imprecisabile: la differenza sta nelle diverse priorità.
+**Distrattori:**
+- Abbastanza imprecisabile: la differenza sta nei diversi obiettivi.
+- Netto e preciso: la differenza sta nelle diverse priorità.
+- Netto e preciso: la differenza sta nei diversi obiettivi.
+
+**D:** ⚠️ Su che cosa è il focus della strategia di differenziazione e su che cosa quello della strategia di segmentazione, e a che cosa è strumentale ciascuno, secondo la slide 7 della lezione 12?
+**R:** «• Il focus della strategia di differenziazione è sul **PRODOTTO**, strumentale a **stimolare la preferenza d'acquisto** del cliente • Il focus della strategia di segmentazione è sul **CLIENTE** e sulle specificità del suo bisogno, strumentale a **perfezionare la funzionalità del prodotto e del sistema di erogazione del servizio**» (slide 7). La docente: nella differenziazione «parte tutto il processo dal prodotto», reso diverso e migliore per ottenere la preferenza del cliente; nella segmentazione «si cambia la priorità», e le specificità del bisogno del cliente diventano strumentali a perfezionare la funzionalità del prodotto ([00:16:44]–[00:17:52]). ⚠️ Il prodotto e la preferenza d'acquisto vanno con la differenziazione, il cliente e la funzionalità del prodotto con la segmentazione: scambiare le due strategie è la trappola della domanda 5 del test.
+**Opzione:** Differenziazione: sul prodotto, strumentale a stimolare la preferenza d'acquisto del cliente; segmentazione: sul cliente e sulle specificità del suo bisogno, strumentale a perfezionare la funzionalità del prodotto e del sistema di erogazione del servizio.
+**Distrattori:**
+- Segmentazione: sul prodotto, strumentale a stimolare la preferenza d'acquisto del cliente; differenziazione: sul cliente e sulle specificità del suo bisogno, strumentale a perfezionare la funzionalità del prodotto e del sistema di erogazione del servizio.
+- All'opportunità di vendere prodotti connessi o complementari (politica di loss leader mirata a un obiettivo di cross-selling: conto corrente e servizi su di esso innestati).
+- Potrebbe essere utile per presidiare il posizionamento in un segmento giudicato importante.
+
+**D:** ⚠️ Qual è il principale focus della strategia di segmentazione, secondo il test della lezione 12 (domanda 5)?
+**R:** «**Cliente**». È la slide 7 alla lettera: «Il focus della strategia di segmentazione è sul **CLIENTE** e sulle specificità del suo bisogno, strumentale a perfezionare la funzionalità del prodotto e del sistema di erogazione del servizio»; la docente: «Invece il focus della strategia di segmentazione è sul cliente» ([00:17:20]). Distrattori del test: «prodotto», «dipendente», «management». ⚠️ Il **prodotto** è la trappola: nella stessa slide è il focus della **differenziazione**. ⚠️ Nella lezione 09 il «principale focus per la definizione della strategia» di segmentazione e di posizionamento è il **posizionamento di mercato** (slide 6): fra le opzioni non c'è, e qui vale la slide 7.
+**Opzione:** Cliente.
+**Distrattori:**
+- Prodotto.
+- Dipendente.
+- Management.
+
+**D:** ⚠️ Che cosa sono la differenziazione dell'offerta e la segmentazione della domanda, e qual è il loro obiettivo principale, secondo la slide 8 della lezione 12?
+**R:** «Differenziazione dell'**offerta** VS segmentazione della **domanda**: **2 strategie di posizionamento competitivo nel mercato**. OBIETTIVO PRINICIPALE DI **ENTRAMBE** LE STRATEGIE: ➢ **Ottimizzazione della relazione offerta-domanda (prodotto-cliente) rispetto alle imprese concorrenti**» (slide 8, con il refuso). La docente: ci sono delle differenze, ma entrambe mirano a definire un posizionamento competitivo sul mercato, «come andare a relazionarsi con i competitors» ([00:17:52]–[00:18:25]). ⚠️ L'obiettivo è **comune**, la differenza sta nelle priorità (slide 7). Nella lezione 09 (slide 12) sono strategie **di business**, focalizzate alla singola area di affari, non strategie di portafoglio.
+**Opzione:** 2 strategie di posizionamento competitivo nel mercato; obiettivo principale di entrambe: ottimizzazione della relazione offerta-domanda (prodotto-cliente) rispetto alle imprese concorrenti.
+**Distrattori:**
+- 2 strategie di portafoglio, rivolte a una pluralità di aree d'affari; obiettivo principale di entrambe: ottimizzazione della relazione offerta-domanda (prodotto-cliente) rispetto alle imprese concorrenti.
+- Identificazione e verifica delle variabili proxy che distinguono ogni cluster (caratteri anagrafici, biologici, sociali, economici ecc.); classificazione della clientela mediante variabili proxy, con la rilevazione concreta dei segmenti.
+- La vendita incrociata: la possibilità di vendere allo stesso segmento più prodotti, come al segmento S3 sia la variante B2 sia la B3.
+
+**D:** ⚠️ A quali tre domande risponde il posizionamento, secondo la slide 8 della lezione 12?
+**R:** «POSIZIONAMENTO: • **Che cosa si propone di essere l'intermediario finanziario** • **Per quali clienti** • **Con quali modalità**» (slide 8). Per la docente le modalità sono quelle con cui l'intermediario può produrre il prodotto o erogare il proprio servizio ([00:18:25]). ⚠️ Il soggetto è l'**intermediario finanziario**. Nella lezione 09 (slide 4) il posizionamento di mercato «evoca la scelta del "dove"».
+**Opzione:** Che cosa si propone di essere l'intermediario finanziario; per quali clienti; con quali modalità.
+**Distrattori:**
+- Che cosa si propongono di essere i concorrenti; per quali clienti; con quali modalità.
+- Enabling technology: per segmentare la clientela e per gestire le segmentazioni nel tempo.
+- Strategia di leadership dei costi.
+
+**D:** ⚠️ Che cosa incrocia la mappa strategica di posizionamento della slide 9 della lezione 12?
+**R:** «Mappa strategica di posizionamento (**relazione prodotto-segmento**)»: in colonna i **Segmenti** (S1, S2, S3, …), in riga i **Prodotti e servizi** con le loro varianti (A1, A2, A3, …, B1, B2, B3, …); le celle colorate sono combinazioni prodotto-segmento, e due frecce le indicano come «Area strategica d'affari x y z» (slide 9). La docente: dopo un'analisi approfondita l'impresa definisce con quali segmenti perfezionare quali prodotti, e così definisce le proprie aree strategiche d'affari ([00:18:41]–[00:19:28]). ⚠️ Non confonderla con la mappa della slide 15, che incrocia **modelli di business** e **strategie**.
+**Opzione:** I prodotti e servizi, con le loro varianti (A1, A2, A3…, B1, B2, B3…), e i segmenti (S1, S2, S3…): la relazione prodotto-segmento, che individua le aree strategiche d'affari.
+**Distrattori:**
+- I prodotti e servizi, con le loro varianti (A1, A2, A3…, B1, B2, B3…), e le strategie (leadership dei costi, differenziazione del prodotto, segmentazione), che individuano le aree strategiche d'affari.
+- Competenze statistiche; conoscenza di psicologia comportamentale del cliente; competenze di rilevazione ed elaborazione dati.
+- Abbastanza imprecisabile: la differenza sta nelle diverse priorità.
+
+**D:** ⚠️ Com'è la matrice della mappa strategica di posizionamento nelle sue 2 dimensioni, e perché, secondo la slide 10 della lezione 12?
+**R:** «La matrice è **aperta** nelle 2 dimensioni poiché: • Qualsiasi ASA o mercato può essere **ri-segmentato** o segmentato in modo più analitico, in relazione ai **cambiamenti ambientali** e alla possibilità di **introdurre nuovi prodotti** nell'ASA» (slide 10). La docente: la mappa va rifatta «con una frequenza», «non si definisce una volta per tutte»; con i cambiamenti ambientali si ridefiniscono prodotti, segmenti e quindi ASA ([00:19:28]–[00:20:29]).
+**Opzione:** Aperta, poiché qualsiasi ASA o mercato può essere ri-segmentato o segmentato in modo più analitico, in relazione ai cambiamenti ambientali e alla possibilità di introdurre nuovi prodotti nell'ASA.
+**Distrattori:**
+- Chiusa, poiché nessuna ASA o mercato può essere ri-segmentato o segmentato in modo più analitico, nonostante i cambiamenti ambientali e la possibilità di introdurre nuovi prodotti nell'ASA.
+- Differenziazione del prodotto, rispetto all'offerta dei concorrenti, in modo da ottenere, indipendentemente dai costi, maggiore preferenza di acquisto da parte dei clienti, e quindi maggiori ricavi unitari.
+- Fornisce gli strumenti conoscitivi necessari per decidere il posizionamento e permette di adattare le specifiche dell'offerta ai caratteri o profili distintivi del segmento.
+
+**D:** ⚠️ Che relazione prodotto-segmento c'è nel caso del prodotto A, nella mappa della slide 10 della lezione 12?
+**R:** «Nel caso del prodotto A, esiste un'**unica relazione biunivoca** prodotto-segmento: **ogni segmento richiede una specifica e distintiva variante del prodotto**» (slide 10). Nella mappa della slide 9: A1 per S1, A2 per S2, A3 per S3. La docente: «ogni segmento ha la propria preferenza ecco perché si parla della relazione b univoca tra prodotto e segmento» ([00:20:59]; poco prima il transcript scrive «bionivoca», [00:20:29]: sono errori della trascrizione automatica). ⚠️ Il caso opposto è il prodotto B.
+**Opzione:** Un'unica relazione biunivoca prodotto-segmento: ogni segmento richiede una specifica e distintiva variante del prodotto.
+**Distrattori:**
+- Un'unica relazione biunivoca prodotto-segmento: ogni segmento accetta indifferentemente tutte le varianti del prodotto.
+- I sistemi di Customer Relationship Management: creano flussi di dati analizzabili dal punto di vista statico e dinamico, e servono ex ante a individuare i segmenti e in itinere a gestire le relazioni con ogni segmento o singolo cliente.
+- Che cosa si propone di essere l'intermediario finanziario; per quali clienti; con quali modalità.
+
+**D:** ⚠️ Che cosa accade nel caso del prodotto B, nella mappa della slide 10 della lezione 12?
+**R:** «Nel caso del prodotto B, la stessa variante **B1** potrebbe soddisfare le esigenze di **segmenti diversi** (**le funzioni d'uso più ampie**), mentre lo stesso segmento **S3** potrebbe accettare le proposte diverse **B2 e B3** (**segmenti con bisogni meno specifici** disposti di utilizzare diverse varianti del prodotto)» (slide 10, con il refuso «disposti di»). Nella mappa della slide 9, B1 serve S1 e S2, mentre B2 e B3 servono entrambe S3. La docente ne trae due conseguenze: S1 e S2 «potrebbero essere uniti tra di loro perché la preferenza è la stessa»; per S3 si può produrre un prodotto unico invece di due, risparmiando costi di produzione e distribuzione ([00:20:59]–[00:22:41]). ⚠️ Le **funzioni d'uso** sono della variante (B1), i **bisogni** sono del segmento (S3): le funzioni d'uso più ampie spiegano B1, i bisogni meno specifici spiegano S3.
+**Opzione:** La stessa variante B1 potrebbe soddisfare le esigenze di segmenti diversi (le funzioni d'uso più ampie), mentre lo stesso segmento S3 potrebbe accettare le proposte diverse B2 e B3 (segmenti con bisogni meno specifici disposti di utilizzare diverse varianti del prodotto).
+**Distrattori:**
+- La stessa variante B1 potrebbe soddisfare le esigenze di segmenti diversi (i bisogni più ampi), mentre lo stesso segmento S3 potrebbe accettare le proposte diverse B2 e B3 (segmenti con funzioni d'uso meno specifiche disposti di utilizzare diverse varianti del prodotto).
+- Selettivo: alla scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri; trasversale (multi-segmento): a una scelta di offerta differenziata per segmenti.
+- Abbastanza imprecisabile: la differenza sta nelle diverse priorità.
+
+**D:** ⚠️ Da che cosa possono essere definiti i segmenti nell'ASA dei servizi di investimento, secondo la slide 11 della lezione 12?
+**R:** «L'ASA: Servizi di investimento. I segmenti possono essere definiti da una **combinazione di parametri**: • La dimensione del patrimonio finanziario del cliente • Il flusso periodico di risparmio • L'età • La professione • Il livello di cultura finanziaria» (slide 11: cinque voci, l'ultima è la cultura finanziaria). La docente li introduce con «per esempio» ([00:22:41]–[00:23:22]): l'elenco è aperto. ⚠️ Una **combinazione** di parametri, non uno solo.
+**Opzione:** Da una combinazione di parametri: la dimensione del patrimonio finanziario del cliente, il flusso periodico di risparmio, l'età, la professione, il livello di cultura finanziaria.
+**Distrattori:**
+- Da un unico parametro, scelto fra la dimensione del patrimonio finanziario del cliente, il flusso periodico di risparmio, l'età, la professione, il livello di cultura finanziaria.
+- Un posizionamento; le risposte: entrare-rimanere-uscire dalla combinazione specifica, aumentare-diminuire la presenza.
+- Il test di significatività dei rispettivi segmenti (uniformità, gamma di bisogni, volumi potenziali di domanda), che porta alla valutazione della convenienza di servire il segmento.
+
+**D:** ⚠️ Come possono essere definiti i prodotti-servizi nell'ASA dei servizi di investimento, secondo la slide 11 della lezione 12?
+**R:** «I prodotti-servizi possono essere definiti per **macro-tipo**: • La gestione patrimoniale individuale • La gestione patrimoniale collettiva …e declinati successivamente nelle rispettive varianti **sotto-tipi**: • La gestione patrimoniale in valori mobiliari o in quote di fondi • Linee di gestione diversificate per profili crescenti rendimento/rischio • Diversi tipi di fondi (per la gestione patrimoniale collettiva)» (slide 11). Per la docente i due macro-tipi sono il prodotto A e il prodotto B della mappa, e i sotto-tipi le loro varianti A1, A2, A3 e B1, B2, B3 ([00:23:22]–[00:24:58]). ⚠️ Individuale e collettiva sono i **macro-tipi**; le gestioni in valori mobiliari o in quote di fondi, le linee di gestione e i tipi di fondi sono i **sotto-tipi**.
+**Opzione:** Per macro-tipo: la gestione patrimoniale individuale e la gestione patrimoniale collettiva; poi, nelle rispettive varianti sotto-tipi: la gestione patrimoniale in valori mobiliari o in quote di fondi, linee di gestione diversificate per profili crescenti rendimento/rischio, diversi tipi di fondi (per la gestione patrimoniale collettiva).
+**Distrattori:**
+- Per macro-tipo: la gestione patrimoniale in valori mobiliari o in quote di fondi, linee di gestione diversificate per profili crescenti rendimento/rischio, diversi tipi di fondi (per la gestione patrimoniale collettiva); poi, nelle rispettive varianti sotto-tipi: la gestione patrimoniale individuale e la gestione patrimoniale collettiva.
+- I fattori che definiscono le funzioni d'uso del prodotto; le modalità di pricing; le politiche di comunicazione; i canali di distribuzione.
+- I modelli di business (1, 2, 3…) e le strategie: leadership dei costi, differenziazione del prodotto, segmentazione.
+
+**D:** ⚠️ Che cos'è ogni incrocio fra segmento e variante di prodotto, e quali risposte concrete deve dare la strategia, secondo la slide 12 della lezione 12?
+**R:** «1. **Ogni incrocio** fra segmento e variante di prodotto è **un posizionamento** rispetto al quale la strategia deve dare delle risposte concrete a diversi quesiti: RISPOSTE: - **Entrare-rimanere-uscire** dalla combinazione specifica - **Aumentare-diminuire la presenza**» (slide 12). La docente: entrare, rimanere o uscire dalla cella che si sta analizzando, oppure aumentare e diminuire la presenza, «i valori, la quota di mercato» ([00:25:22]–[00:25:54]).
+**Opzione:** Un posizionamento; le risposte: entrare-rimanere-uscire dalla combinazione specifica, aumentare-diminuire la presenza.
+**Distrattori:**
+- Un posizionamento; le risposte: entrare-rimanere-uscire dalla combinazione specifica, differenziare-standardizzare il prodotto.
+- Identificazione e verifica delle variabili proxy che distinguono ogni cluster (caratteri anagrafici, biologici, sociali, economici ecc.); classificazione della clientela mediante variabili proxy, con la rilevazione concreta dei segmenti.
+- Risorse umane e tecnologiche.
+
+**D:** ⚠️ Quali quesiti pone ogni incrocio fra segmento e variante di prodotto, secondo la slide 12 della lezione 12?
+**R:** «QUESITI: - I **caratteri della concorrenza** su quell'incrocio prodotto-segmento - **Vantaggi e svantaggi competitivi dei concorrenti** (comparativamente a quelli posseduti) - **Strategie adattate dai concorrenti** (*cost leadership*, differenziazione) - **Politiche di *pricing*** - **Struttura di costo** - **Potenziali entranti**» (slide 12: sei voci, l'ultima sono i potenziali entranti; «adattate» lo dice anche la docente). La docente: le domande su pricing, struttura di costo e nuovi entranti sono «una specie di analisi di Michael Porter di 5 forze», utile per decidere se entrare, rimanere o uscire e se aumentare o diminuire la presenza ([00:25:54]–[00:27:18]). ⚠️ Il *cross-selling* non è un quesito dell'incrocio: sta nella **colonna** (slide 13).
+**Opzione:** I caratteri della concorrenza su quell'incrocio prodotto-segmento; vantaggi e svantaggi competitivi dei concorrenti (comparativamente a quelli posseduti); strategie adattate dai concorrenti (cost leadership, differenziazione); politiche di pricing; struttura di costo; potenziali entranti.
+**Distrattori:**
+- I caratteri della concorrenza su quell'incrocio prodotto-segmento; vantaggi e svantaggi competitivi dei concorrenti (comparativamente a quelli posseduti); strategie adattate dai concorrenti (cost leadership, differenziazione); politiche di pricing; struttura di costo; opportunità di cross-selling.
+- Selettivo: alla scelta esclusiva di 1 o pochi segmenti, rinunciando a servire gli altri; trasversale (multi-segmento): a una scelta di offerta differenziata per segmenti.
+- Strategia di segmentazione e posizionamento.
+
+**D:** ⚠️ Che cosa propone ogni riga della mappa strategica, e per la definizione di che cosa, secondo la slide 13 della lezione 12?
+**R:** «2. **Ogni riga** propone la lettura della strategia di posizionamento complessiva **del prodotto, e delle relative varianti, rispetto a tutti i segmenti** di clientela, per la definizione di: • I **profili di economicità del prodotto** (volumi, ricavi, costi, margini) • Le **scelte tecnologiche** riferibili al prodotto • La **catena del valore** specifica per ogni singolo prodotto e i processi relativi» (slide 13). La docente: per una variante, per esempio B1, si valutano per i diversi segmenti i profili di economicità, se cambiano le scelte tecnologiche, come si realizza il valore ([00:27:18]–[00:28:33]). ⚠️ La riga legge il **prodotto**, la colonna il **segmento**.
+**Opzione:** La lettura della strategia di posizionamento complessiva del prodotto, e delle relative varianti, rispetto a tutti i segmenti di clientela, per la definizione di: i profili di economicità del prodotto (volumi, ricavi, costi, margini); le scelte tecnologiche riferibili al prodotto; la catena del valore specifica per ogni singolo prodotto e i processi relativi.
+**Distrattori:**
+- La lettura della strategia di posizionamento complessiva sui singoli segmenti, per la definizione di: i profili di economicità del prodotto (volumi, ricavi, costi, margini); le scelte tecnologiche riferibili al prodotto; la catena del valore specifica per ogni singolo prodotto e i processi relativi.
+- Risorse umane e tecnologiche.
+- Da una combinazione di parametri: la dimensione del patrimonio finanziario del cliente, il flusso periodico di risparmio, l'età, la professione, il livello di cultura finanziaria.
+
+**D:** ⚠️ Che cosa propone ogni colonna della mappa strategica, e che cosa permette di definire, secondo la slide 13 della lezione 12?
+**R:** «3. **Ogni colonna** propone la lettura di strategia di posizionamento complessiva **sui singoli segmenti**, consente di ricombinare le impostazioni strategico-organizzative aziendali rispetto alla focalizzazione al segmento di clientela che permette di definire: • Le **opportunità di *cross-selling*** • Le **politiche di *pricing* integrato** • Il **profilo di economicità del segmento** (volumi di domanda, ricavi, costi e margini) • I **processi distributivi**» (slide 13). La docente: le politiche di pricing integrate sono le strategie di prezzo per le diverse varianti o prodotti; il profilo di economicità comprende anche il profitto e la redditività del segmento; i processi distributivi sono quelli usati o preferiti dal segmento ([00:28:33]–[00:30:10]). ⚠️ Le scelte tecnologiche e la catena del valore stanno nella **riga**.
+**Opzione:** La lettura di strategia di posizionamento complessiva sui singoli segmenti; consente di ricombinare le impostazioni strategico-organizzative aziendali rispetto alla focalizzazione al segmento di clientela, che permette di definire: le opportunità di cross-selling; le politiche di pricing integrato; il profilo di economicità del segmento (volumi di domanda, ricavi, costi e margini); i processi distributivi.
+**Distrattori:**
+- La lettura di strategia di posizionamento complessiva sui singoli segmenti; consente di ricombinare le impostazioni strategico-organizzative aziendali rispetto alla focalizzazione al segmento di clientela, che permette di definire: le opportunità di cross-selling; le politiche di pricing integrato; il profilo di economicità del segmento (volumi di domanda, ricavi, costi e margini); le scelte tecnologiche.
+- I sistemi di Customer Relationship Management: creano flussi di dati analizzabili dal punto di vista statico e dinamico, e servono ex ante a individuare i segmenti e in itinere a gestire le relazioni con ogni segmento o singolo cliente.
+- Cost leadership come strategia prioritaria nel contesto di retail banking (prodotti relativamente standardizzati) + strategia di segmentazione per aumentare il livello di soddisfazione dei clienti con esigenze differenti.
+
+**D:** ⚠️ Che cos'è il cross-selling per la docente della lezione 12, e quale esempio fa sulla mappa strategica?
+**R:** «La vendita incrociata, quindi la possibilità di **vendere allo stesso segmento più prodotti**» ([00:28:58]). L'esempio è il segmento **S3**, che potrebbe acquistare sia la variante B2 sia la B3: a chi acquista B2 si può proporre anche B3 ([00:29:05]–[00:29:31]). Le «opportunità di *cross-selling*» sono la prima voce della colonna (slide 13), e il *cross-selling* è l'obiettivo della politica di *loss leader* (slide 14). ⚠️ Lo stesso prodotto venduto a più segmenti è il caso di B1, non il *cross-selling*.
+**Opzione:** La vendita incrociata: la possibilità di vendere allo stesso segmento più prodotti, come al segmento S3 sia la variante B2 sia la B3.
+**Distrattori:**
+- La vendita incrociata: la possibilità di vendere lo stesso prodotto a più segmenti, come la variante B1 sia al segmento S1 sia al segmento S2.
+- Nell'identificazione di cluster relativamente omogenei; richiede una approfondita conoscenza della clientela effettiva e potenziale.
+- Modello di business.
+
+**D:** ⚠️ Perché potrebbe essere prodotta una variante non conveniente, secondo la slide 14 della lezione 12?
+**R:** «Le scelte di posizionamento **non sono sempre razionali**: • La produzione di una variante potrebbe non essere conveniente, ma potrebbe essere utile per **presidiare il posizionamento in un segmento giudicato importante**» (slide 14). La docente: anche se un segmento porta meno profitto, si continua a servirlo «per mantenere la relazione con questo segmento» ([00:30:10]–[00:30:55]). ⚠️ Il segmento è giudicato **importante**; i segmenti apparentemente marginali sono la voce successiva, giustificata dal volume di vendita.
+**Opzione:** Potrebbe essere utile per presidiare il posizionamento in un segmento giudicato importante.
+**Distrattori:**
+- Potrebbe essere utile per presidiare il posizionamento in un segmento giudicato marginale.
+- Che cosa si propone di essere l'intermediario finanziario; per quali clienti; con quali modalità.
+- Un'unica relazione biunivoca prodotto-segmento: ogni segmento richiede una specifica e distintiva variante del prodotto.
+
+**D:** ⚠️ In che cosa potrebbe trovare giustificazione economica il posizionamento in segmenti apparentemente secondari o marginali, secondo la slide 14 della lezione 12?
+**R:** «Il posizionamento in segmenti apparentemente secondari o marginali potrebbe trovare giustificazione economica **nell'utilità di aumentare il volume di vendita di un certo prodotto**» (slide 14; il transcript scrive «appartenenti appartemente»). La docente: mantenere un segmento che sembra marginale può aiutare ad aumentare anche le vendite di un altro prodotto ([00:30:55]–[00:31:27]). ⚠️ Il **volume**, non il prezzo.
+**Opzione:** Nell'utilità di aumentare il volume di vendita di un certo prodotto.
+**Distrattori:**
+- Nell'utilità di aumentare il prezzo di vendita di un certo prodotto.
+- Non come scelte alternative reciprocamente esclusive: possono essere combinate secondo le priorità e secondo i caratteri specifici del contesto.
+- Modello di business.
+
+**D:** ⚠️ A che cosa può corrispondere la scelta di collocare lo stesso prodotto a prezzi bassi in alcuni segmenti, secondo la slide 14 della lezione 12?
+**R:** «La scelta di collocare lo stesso prodotto a prezzi bassi in alcuni segmenti può corrispondere all'opportunità di **vendere prodotti connessi o complementari** (politica di ***loss leader*** mirata a un obiettivo di ***cross-selling***: **conto corrente e servizi su di esso innestati**)» (slide 14). La docente: un prezzo basso su una variante sembra irrazionale, ma la commissione per il mantenimento del conto corrente non è elevata, mentre i servizi aggiuntivi a pagamento producono valore e portano profitto ([00:31:27]–[00:32:32]). ⚠️ *Loss leader*, non *cost leadership*: il prezzo basso serve a vendere prodotti connessi o complementari.
+**Opzione:** All'opportunità di vendere prodotti connessi o complementari (politica di loss leader mirata a un obiettivo di cross-selling: conto corrente e servizi su di esso innestati).
+**Distrattori:**
+- All'opportunità di vendere prodotti connessi o complementari (politica di cost leadership mirata a un obiettivo di cross-selling: conto corrente e servizi su di esso innestati).
+- I prodotti e servizi, con le loro varianti (A1, A2, A3…, B1, B2, B3…), e i segmenti (S1, S2, S3…): la relazione prodotto-segmento, che individua le aree strategiche d'affari.
+- Cost leadership come strategia prioritaria nel contesto di retail banking (prodotti relativamente standardizzati) + strategia di segmentazione per aumentare il livello di soddisfazione dei clienti con esigenze differenti.
+
+**D:** ⚠️ Come vanno considerate le 3 strategie di business, secondo le conclusioni della slide 15 della lezione 12?
+**R:** «Le 3 strategie di business **non devono essere considerate scelte alternative Reciprocamente esclusive!** ma **possono essere combinate** secondo le **priorità** e secondo i **caratteri specifici del contesto**» (slide 15). La docente: se l'azienda sceglie una strategia, può comunque operare anche nell'ambito di un'altra; bisogna considerare anche il profilo dinamico, «il concetto anche temporale, di tempo e di spazio» ([00:32:32]–[00:33:26]). ⚠️ È la stessa idea della slide 6 della lezione 09: le strategie «non sono reciprocamente "escludibili"».
+**Opzione:** Non come scelte alternative reciprocamente esclusive: possono essere combinate secondo le priorità e secondo i caratteri specifici del contesto.
+**Distrattori:**
+- Come scelte alternative reciprocamente esclusive: non possono essere combinate, ma scelte secondo le priorità e secondo i caratteri specifici del contesto.
+- Nell'utilità di aumentare il volume di vendita di un certo prodotto.
+- Produzione di valore.
+
+**D:** ⚠️ Quale esempio di combinazione delle strategie di business dà la slide 15 della lezione 12?
+**R:** «• ***Cost leadership*** come **strategia prioritaria** nel contesto di ***retail banking*** (prodotti relativamente standardizzati) + **strategia di segmentazione** per aumentare il livello di soddisfazione dei clienti con esigenze differenti» (slide 15). La docente legge la stessa combinazione ([00:33:09]–[00:33:37]). ⚠️ I ruoli: la cost leadership è **prioritaria** perché i prodotti sono relativamente standardizzati, la segmentazione si aggiunge per la **soddisfazione** dei clienti con esigenze differenti.
+**Opzione:** Cost leadership come strategia prioritaria nel contesto di retail banking (prodotti relativamente standardizzati) + strategia di segmentazione per aumentare il livello di soddisfazione dei clienti con esigenze differenti.
+**Distrattori:**
+- Strategia di segmentazione come strategia prioritaria nel contesto di retail banking (prodotti relativamente standardizzati) + cost leadership per aumentare il livello di soddisfazione dei clienti con esigenze differenti.
+- Potrebbe essere utile per presidiare il posizionamento in un segmento giudicato importante.
+- Strategia di segmentazione e posizionamento.
+
+**D:** ⚠️ Che cosa incrocia la mappa delle combinazioni strategiche nei modelli di business della slide 15 della lezione 12?
+**R:** «*Mappa delle combinazioni strategiche nei modelli di business*»: in riga i **Modelli di business** (1, 2, 3…), in colonna le strategie «**Leadership dei costi**», «**Differenziazione del prodotto**», «**Segmentazione**»; le celle sono vuote (slide 15). La docente: «in verticale ci sono diversi modelli di business, in orizzontale diverse strategie», e la stessa banca può sviluppare contemporaneamente diversi modelli di business utilizzando diverse strategie ([00:33:37]–[00:34:11]). ⚠️ Non confonderla con la mappa strategica di posizionamento della slide 9, che incrocia prodotti e servizi con i segmenti.
+**Opzione:** I modelli di business (1, 2, 3…) e le strategie: leadership dei costi, differenziazione del prodotto, segmentazione.
+**Distrattori:**
+- I segmenti (S1, S2, S3…) e le strategie: leadership dei costi, differenziazione del prodotto, segmentazione.
+- I modelli di business (1, 2, 3…) e i prodotti e servizi con le loro varianti (A1, A2, A3…, B1, B2, B3…).
+- I segmenti (S1, S2, S3…) e i prodotti e servizi con le loro varianti (A1, A2, A3…, B1, B2, B3…).
