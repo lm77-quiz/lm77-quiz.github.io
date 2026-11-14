@@ -1979,3 +1979,277 @@
 - Modello SECI.
 - Modello di Ansoff.
 - Modello di BCG.
+
+## Lezione 08 — La rilevanza della tecnologia
+
+**D:** ⚠️ Di che cosa sono un fattore il progresso tecnologico e le nuove tecnologie, secondo la slide 2 della lezione 08?
+**R:** «Il progresso tecnologico e nuove tecnologie come un fattore di: • **continuo cambiamento del contesto** • **ricombinazione delle opportunità-minacce competitive**» (slide 2): due voci. La docente: «un fattore di continuo cambiamento del contesto, ricombinazione delle opportunità e minacce competitive che sono presenti all'interno dell'ambiente» ([00:00:24]). ⚠️ Le opportunità-minacce si **ricombinano**: non si stabilizzano.
+**Opzione:** Del continuo cambiamento del contesto e della ricombinazione delle opportunità-minacce competitive.
+**Distrattori:**
+- Del continuo cambiamento del contesto e della stabilizzazione delle opportunità-minacce competitive.
+- Il processo attraverso cui si arriva a determinare il valore di un'opzione.
+- Eso-diretta.
+
+**D:** ⚠️ Per la gestione di quali processi relativi ai dati l'Information and Communication Technology è fondamentale, secondo la slide 2 della lezione 08?
+**R:** «*Information and Communication Technology è fondamentale* per la gestione di diversi processi relativi ai dati presenti in qualsiasi attività di produzione e di distribuzione dell'intermediario finanziario: • Rilevazione • Archiviazione • Elaborazione • Consultazione • Trasmissione • **Diffusione**» (slide 2): sei voci, l'ultima è la diffusione. Per la docente producendo i servizi si produce «una quantità molto elevata di dati»; la rilevazione serve al problem solving e al decision making, la consultazione permette anche di visualizzare graficamente il dato ([00:00:43]–[00:02:23]). ⚠️ Il primo tipo di sostituzione della slide 5 ne ripete solo **quattro**: rilevazione, archiviazione, elaborazione, consultazione.
+**Opzione:** Rilevazione, archiviazione, elaborazione, consultazione, trasmissione, diffusione.
+**Distrattori:**
+- Rilevazione, archiviazione, elaborazione, consultazione, trasmissione, valutazione.
+- Automatic teller machines (ATM), cash dispensers, point of sales, phone banking, remote banking, TV banking, internet banking.
+- Modelli sempre più sofisticati e integrati di risk management, portfolio management, option pricing ecc.
+
+**D:** A quale processo la docente della lezione 08 lega la trasmissione e la diffusione del dato?
+**R:** La trasmissione e la diffusione del dato sono «un altro processo importante soprattutto legato al processo di **knowledge management**, dell'**apprendimento organizzativo**»: la circolazione del dato attraverso le tecnologie digitali serve a diffondere la conoscenza, che «deve essere continuamente analizzata, valutata, rivista, implementata» perché l'ambiente è molto dinamico, variabile, imprevedibile ([00:02:23]–[00:03:04]). Solo nel transcript: la slide 2 elenca trasmissione e diffusione senza commento. ⚠️ Al problem solving e al decision making la docente lega invece la **rilevazione** del dato ([00:01:24]).
+**Opzione:** Al processo di knowledge management, dell'apprendimento organizzativo.
+**Distrattori:**
+- Al processo di problem solving e di decision making.
+- Il processo attraverso cui si arriva a determinare il valore di un'opzione.
+- Un enorme potenziamento dei sistemi informativi, contabili e di controllo dell'attività complessiva.
+
+**D:** ⚠️ Com'è il prodotto-servizio finanziario e da che cosa è costituito, secondo la slide 3 della lezione 08?
+**R:** «Il prodotto-servizio finanziario è **prevalentemente immateriale** ed è costituito da "**informazione**" che funge da **input** del prodotto stesso, sia da **output** (il prodotto-servizio contiene ed emette informazioni **riferite al futuro**: obbligazioni o aspettativa di prestazione)» (slide 3). Per la docente l'informazione svolge un ruolo importante «sia in entrata sia in uscita» per la creazione del servizio finanziario, ed ecco perché le ICT servono a migliorare diversi processi organizzativi ([00:03:04]–[00:03:52]). ⚠️ Le informazioni sono riferite al **futuro**.
+**Opzione:** È prevalentemente immateriale ed è costituito da informazione, che funge da input del prodotto stesso sia da output (il prodotto-servizio contiene ed emette informazioni riferite al futuro: obbligazioni o aspettativa di prestazione).
+**Distrattori:**
+- È prevalentemente immateriale ed è costituito da informazione, che funge da input del prodotto stesso sia da output (il prodotto-servizio contiene ed emette informazioni riferite al passato: obbligazioni o aspettativa di prestazione).
+- L'arte e la scienza di selezionare e supervisionare un gruppo di investimenti che soddisfano gli obiettivi finanziari a lungo termine e la tolleranza al rischio di un cliente, un'azienda o un'istituzione.
+- Tutti i processi di intermediazione: la qualità delle decisioni del management, l'efficienza dei processi, le connessioni fra gli attori interni (funzioni organizzative), le relazioni con gli attori esterni (clienti e mercati).
+
+**D:** ⚠️ Fra che cosa è anello di congiunzione l'informazione, e con quale conseguenza, secondo la slide 3 della lezione 08?
+**R:** «**L'informazione è anello di congiunzione fra processo-prodotto finanziario e tecnologia** -> La seconda è **totalmente applicabile** al primo con un'alta efficacia ed efficienza (**produttività della tecnologia**)» (slide 3, prima frase in grassetto). La docente: la tecnologia «è totalmente applicabile al primo, al processo prodotto, con un'alta efficacia ed efficienza e quindi permette di andare ad aumentare la produttività» ([00:03:52]–[00:04:17]). ⚠️ «La seconda» è la tecnologia, «il primo» il processo-prodotto; l'avverbio è «totalmente».
+**Opzione:** Fra processo-prodotto finanziario e tecnologia: la seconda è totalmente applicabile al primo con un'alta efficacia ed efficienza (produttività della tecnologia).
+**Distrattori:**
+- Fra processo-prodotto finanziario e tecnologia: la seconda è solo parzialmente applicabile al primo con un'alta efficacia ed efficienza (produttività della tecnologia).
+- Relazioni di scambio (con clienti) e operative (trasmissione ed esecuzione di ordini, sistemi di pagamento) con tempi abbreviati e costi inferiori.
+- L'informatizzazione dei processi e la digitalizzazione dei prodotti e dei servizi bancari ne modificano radicalmente il concetto e la natura?
+
+**D:** ⚠️ Quale tipologia della tecnologia ha l'effetto di sostituzione nei confronti di altri fattori nelle combinazioni produttive e distributive, secondo il test della lezione 08 (domanda 1)?
+**R:** «***Substituting technology***». È la slide 4 alla lettera: «1. L'effetto di sostituzione nei confronti di altri fattori nelle combinazioni produttive e distributive (*substituting technology*)», primo dei «Campi e modalità di applicazione della tecnologia»; la docente: «quindi cosiddetta substituting technology» ([00:04:25]). Distrattori del test: «incremental technoogy», «disruptive technology», «enabling technology». La ***enabling technology*** è il **secondo** campo, il ruolo abilitante (slide 6). *Incremental* e *disruptive technology* non compaiono nelle slide del corso né nei transcript disponibili (lezioni 01–20): richiamano l'innovazione «radicale, incrementale» della docente ([00:20:50]) e la *disruptive innovation* della **lezione 06** (slide 7, test 06 domanda 2).
+**Opzione:** Substituting technology.
+**Distrattori:**
+- Incremental technoogy.
+- Disruptive technology.
+- Enabling technology.
+
+**D:** ⚠️ Quali due incrementi produce la substituting technology, secondo la slide 4 della lezione 08?
+**R:** «• Incremento della **produttività** dei fattori sostituiti • Incremento della **reddittività** dell'intermediario **quando** la sostituzione consente di sfruttare vantaggi di costo unitario relativo **della tecnologia specifica rispetto al fattore sostituito**» (slide 4, «reddittività» così). L'esempio classico della docente è la sostituzione delle risorse umane con alcune tecnologie: un software può avere una produttività molto più elevata del lavoro svolto a mano da un dipendente ([00:04:37]–[00:05:25]). ⚠️ La redditività cresce **quando** il vantaggio di costo unitario relativo è della tecnologia rispetto al fattore sostituito, non il contrario.
+**Opzione:** L'incremento della produttività dei fattori sostituiti e l'incremento della redditività dell'intermediario quando la sostituzione consente di sfruttare vantaggi di costo unitario relativo della tecnologia specifica rispetto al fattore sostituito.
+**Distrattori:**
+- L'incremento della produttività dei fattori sostituiti e l'incremento della redditività dell'intermediario quando la sostituzione consente di sfruttare vantaggi di costo unitario relativo del fattore sostituito rispetto alla tecnologia specifica.
+- È prevalentemente immateriale ed è costituito da informazione, che funge da input del prodotto stesso sia da output (il prodotto-servizio contiene ed emette informazioni riferite al futuro: obbligazioni o aspettativa di prestazione).
+- Eso-diretta: proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche; endo-diretta: architetture e soluzioni tecnologiche progettate internamente.
+
+**D:** ⚠️ Qual è il primo tipo di sostituzione, e in quali fasi dei processi produttivi, secondo la slide 5 della lezione 08?
+**R:** «La sostituzione del **capitale tecnologico al capitale umano** in diverse fasi di processi produttivi (**rilevazione, archiviazione, elaborazione, consultazione** dei dati)» (slide 5): quattro fasi, le prime quattro dei sei processi della slide 2. La docente: «la sostituzione del capitale tecnologico al capitale umano che abbiamo citato prima», con la rilevazione come «raccolta del dato dall'ambiente» ([00:05:28]–[00:05:59]). ⚠️ La **trasmissione** dei dati non è qui: sta nel secondo tipo, la sostituzione della tecnologia rispetto a diversi fattori oltre al lavoro.
+**Opzione:** La sostituzione del capitale tecnologico al capitale umano in diverse fasi di processi produttivi (rilevazione, archiviazione, elaborazione, consultazione dei dati).
+**Distrattori:**
+- La sostituzione del capitale tecnologico al capitale umano in diverse fasi di processi produttivi (rilevazione, archiviazione, elaborazione, trasmissione dei dati).
+- Il mix di attività a lungo termine (azioni, obbligazioni, certificati di deposito + investimenti alternativi, come immobili, materie prime, derivati e criptovalute).
+- Technology dependent: diviene il campo di applicazione della tecnologia; technology driven: si trasforma in un'impresa tecnologica, incorporando le competenze tecnologiche, valicando il confine tra tecnologia eso-diretta e tecnologia endo-diretta.
+
+**D:** ⚠️ Che cosa comprende la sostituzione della tecnologia rispetto a diversi fattori (oltre al lavoro), secondo la slide 5 della lezione 08?
+**R:** «La sostituzione della tecnologia rispetto a diversi fattori (oltre al lavoro): - trasmissione dei dati **all'interno** (es. **dal centro alla rete degli sportelli attraverso intranet**) - trasmissione dei dati **all'esterno** (**fra l'intermediario e il mercato**) con effetto di sostituzione dei canali distributivi tecnologici rispetto al canale tradizionale (sportelli)» (slide 5). Per la docente c'è sempre un ufficio centrale e una rete di sportelli: l'informazione va trasmessa dal nodo centrale ai nodi periferici; all'esterno gli interlocutori sono stakeholders, fornitori, clienti, competitors ([00:05:59]–[00:07:14]). ⚠️ Il transcript dice prima «attraverso internet» ([00:05:59]) e poi «attraverso intranet» ([00:06:16]): la slide dice **intranet**.
+**Opzione:** La trasmissione dei dati all'interno (es. dal centro alla rete degli sportelli attraverso intranet) e la trasmissione dei dati all'esterno (fra l'intermediario e il mercato) con effetto di sostituzione dei canali distributivi tecnologici rispetto al canale tradizionale (sportelli).
+**Distrattori:**
+- La trasmissione dei dati all'interno (fra l'intermediario e il mercato) e la trasmissione dei dati all'esterno (es. dal centro alla rete degli sportelli attraverso intranet) con effetto di sostituzione dei canali distributivi tecnologici rispetto al canale tradizionale (sportelli).
+- L'insieme di processi attraverso cui un'azienda identifica, analizza, quantifica, elimina e monitora i rischi legati ad un determinato processo produttivo.
+- Un enorme potenziamento dei sistemi informativi, contabili e di controllo dell'attività complessiva.
+
+**D:** ⚠️ Quali canali distributivi tecnologici elenca la slide 5 della lezione 08 per la sostituzione del canale tradizionale (sportelli)?
+**R:** Nell'ordine: «• Automatic teller machines (ATM) • Cash dispensers • Point of sales • Phone banking • Remote banking • TV banking • Intenet banking» (slide 5, refuso «Intenet»): sette voci, l'ultima è l'internet banking. Stanno sotto la «trasmissione dei dati all'esterno (fra l'intermediario e il mercato)», cioè nella **substituting technology**. La docente li legge tutti e aggiunge «insomma gli esempi ce ne sono diversi»: hanno permesso di sostituire i classici sportelli, uffici, sedi bancarie ([00:07:14]–[00:07:45]). ⚠️ Risk management, portfolio management e option pricing sono invece gli esempi dell'**enabling technology** (slide 6): è la matrice delle domande 3 e 4 del test.
+**Opzione:** Automatic teller machines (ATM), cash dispensers, point of sales, phone banking, remote banking, TV banking, internet banking.
+**Distrattori:**
+- Automatic teller machines (ATM), cash dispensers, point of sales, phone banking, remote banking, TV banking, portfolio management.
+- Rilevazione, archiviazione, elaborazione, consultazione, trasmissione, diffusione.
+- Call option: il diritto di comprare; put option: il diritto di vendere.
+
+**D:** ⚠️ Quale potrebbe essere un esempio di utilizzo della substituting technology, secondo il test della lezione 08 (domanda 4)?
+**R:** «**Internet banking**». La slide 5 lo elenca, ultimo dei sette canali distributivi tecnologici («Intenet banking») che sostituiscono il canale tradizionale (sportelli) nella trasmissione dei dati all'esterno; la docente: «internet banking, insomma gli esempi ce ne sono diversi» ([00:07:14]). Distrattori del test: «portfolio management», «risk management», «option pricing»: sono **tutti e tre** i modelli «sempre più sofisticati e integrati» dell'**enabling technology** (slide 6; [00:09:50]). ⚠️ È lo specchio della domanda 3, che chiede l'esempio di enabling technology e ha per distrattori tre canali della slide 5.
+**Opzione:** Internet banking.
+**Distrattori:**
+- Portfolio management.
+- Risk management.
+- Option pricing.
+
+**D:** ⚠️ Quale tipologia della tecnologia rende con la sua applicazione in concreto realizzabili attività precedentemente impossibili o non convenienti, secondo il test della lezione 08 (domanda 2)?
+**R:** «***Enabling technology***». È la slide 6 alla lettera: «2. Ruolo abilitante (*enabling technology*) Le sue nuove applicazioni rendono in concreto realizzabili attività precedentemente Impossibili o non convenienti». Per la docente qui «non parliamo della sostituzione ma di un incremento, di un'implementazione, di una crescita, estensione» delle attività, delle iniziative, delle performance dell'intermediario ([00:07:49]–[00:08:35]). Distrattori del test: la stessa batteria della domanda 1, con la ***substituting technology*** (il primo campo, slide 4) al posto della chiave; *incremental* e *disruptive technology* non sono nelle slide.
+**Opzione:** Enabling technology.
+**Distrattori:**
+- Incremental technoogy.
+- Disruptive technology.
+- Substituting technology.
+
+**D:** ⚠️ Che cosa hanno reso le ICT, nel ruolo abilitante, per le relazioni di scambio e per quelle operative, secondo la slide 6 della lezione 08?
+**R:** «ICT hanno reso relazioni di **scambio (con clienti)** e **operative (trasmissione ed esecuzione di ordini, sistemi di pagamento)** con **tempi abbreviati** e **costi inferiori**» (slide 6). La docente: «con tempi molto più abbreviati, rapidi e costi inferiori» ([00:08:05]–[00:08:45]). ⚠️ Le parentesi: i clienti sono delle relazioni **di scambio**, ordini e pagamenti di quelle **operative**. ⚠️ I **sistemi di pagamento** stanno nel ruolo abilitante, mentre ATM, cash dispensers e point of sales sono canali della substituting technology (slide 5).
+**Opzione:** Relazioni di scambio (con clienti) e operative (trasmissione ed esecuzione di ordini, sistemi di pagamento) con tempi abbreviati e costi inferiori.
+**Distrattori:**
+- Relazioni di scambio (trasmissione ed esecuzione di ordini, sistemi di pagamento) e operative (con clienti) con tempi abbreviati e costi inferiori.
+- Dai processi labour intensive ai processi technology intensive e technology driven.
+- Al processo di knowledge management, dell'apprendimento organizzativo.
+
+**D:** ⚠️ Che cosa ha reso lo sviluppo delle capacità di rilevazione, archiviazione, consultazione ed elaborazione informatica di dati, secondo la slide 6 della lezione 08?
+**R:** «Sviluppo delle capacità di rilevazione, archiviazione, consultazione ed elaborazione Informatica di dati ha reso un **enorme potenziamento dei sistemi informativi, contabili e di controllo dell'attività complessiva**» (slide 6): qui l'ordine è «consultazione ed elaborazione», mentre la slide 2 e la slide 5 mettono l'elaborazione prima della consultazione. Per la docente, con queste tecnologie sia il management sia i dipendenti ai diversi livelli dell'organizzazione usufruiscono di opzioni che facilitano lo svolgimento dei processi quotidiani ([00:08:45]–[00:09:22]).
+**Opzione:** Un enorme potenziamento dei sistemi informativi, contabili e di controllo dell'attività complessiva.
+**Distrattori:**
+- Un enorme potenziamento dei sistemi commerciali, distributivi e di marketing dell'attività complessiva.
+- Del continuo cambiamento del contesto e della ricombinazione delle opportunità-minacce competitive.
+- Effetto di connettività.
+
+**D:** ⚠️ Quali modelli cita la slide 6 della lezione 08 per l'applicazione in «tempo reale» di sistemi e modelli di gestione e di decisione?
+**R:** «Applicazione in "**tempo reale**" di sistemi e modelli di gestione e di decisione: Modelli **sempre più sofisticati e integrati** di **risk management**, **protfolio management**, **option pricing** ecc.» (slide 6, refuso «protfolio»; l'elenco è **aperto**, «ecc.»). Per la docente le tecnologie digitali permettono di monitorare, di prendere le decisioni e di dare una risposta al mercato e al cambiamento dell'ambiente molto più rapida ([00:09:22]–[00:10:02]). ⚠️ Sono gli esempi dell'**enabling technology**: le domande 3 e 4 del test li oppongono ai canali della substituting technology (slide 5).
+**Opzione:** Modelli sempre più sofisticati e integrati di risk management, portfolio management, option pricing ecc.
+**Distrattori:**
+- Modelli sempre più sofisticati e integrati di risk management, portfolio management, internet banking ecc.
+- Rilevazione, archiviazione, elaborazione, consultazione, trasmissione, diffusione.
+- Disponibilità delle risorse specifiche necessarie.
+
+**D:** ⚠️ Quale potrebbe essere un esempio di utilizzo dell'enabling technology, secondo il test della lezione 08 (domanda 3)?
+**R:** «**Portfolio management**». La slide 6 cita, fra le applicazioni del ruolo abilitante, i «Modelli sempre più sofisticati e integrati di risk management, protfolio management, option pricing ecc.»; la docente: «avere i modelli sempre più sofisticati, integrati di risk management, di portfolio management, di option pricing» ([00:09:50]). Distrattori del test: «internet banking», «phone banking», «automatic teller machines»: sono **tutti e tre** canali distributivi tecnologici della **substituting technology** (slide 5; [00:07:14]). ⚠️ È lo specchio della domanda 4.
+**Opzione:** Portfolio management.
+**Distrattori:**
+- Internet banking.
+- Phone banking.
+- Automatic teller machines.
+
+**D:** ⚠️ Che cos'è il risk management, secondo la slide 7 della lezione 08?
+**R:** «Risk management è l'insieme di processi attraverso cui un'azienda **identifica, analizza, quantifica, elimina e monitora** i rischi legati ad un determinato processo produttivo» (slide 7): cinque verbi, l'ultimo è «monitora». La docente la legge alla lettera e aggiunge che le tecnologie rendono i processi di risk management più flessibili, monitorabili, gestibili, in tempi molto più rapidi ([00:10:08]–[00:10:38]).
+**Opzione:** L'insieme di processi attraverso cui un'azienda identifica, analizza, quantifica, elimina e monitora i rischi legati ad un determinato processo produttivo.
+**Distrattori:**
+- L'insieme di processi attraverso cui un'azienda identifica, analizza, quantifica, trasferisce e monitora i rischi legati ad un determinato processo produttivo.
+- La sostituzione del capitale tecnologico al capitale umano in diverse fasi di processi produttivi (rilevazione, archiviazione, elaborazione, consultazione dei dati).
+- Tutti i processi di intermediazione: la qualità delle decisioni del management, l'efficienza dei processi, le connessioni fra gli attori interni (funzioni organizzative), le relazioni con gli attori esterni (clienti e mercati).
+
+**D:** ⚠️ Che cos'è il portfolio management, secondo la slide 7 della lezione 08?
+**R:** «Portoflio management è **l'arte e la scienza** di selezionare e supervisionare un gruppo di investimenti che soddisfano gli obiettivi finanziari **a lungo termine** e la **tolleranza al rischio** di un cliente, un'azienda o un'istituzione» (slide 7, refuso «Portoflio»). La docente dice «una scienza» e «soprattutto a lungo termine» ([00:10:38]), e insiste sulla raccolta dei dati sul cliente attraverso le tecnologie ([00:10:55]–[00:11:22]). ⚠️ La slide dice «l'arte **e** la scienza», e gli obiettivi sono **a lungo termine**.
+**Opzione:** L'arte e la scienza di selezionare e supervisionare un gruppo di investimenti che soddisfano gli obiettivi finanziari a lungo termine e la tolleranza al rischio di un cliente, un'azienda o un'istituzione.
+**Distrattori:**
+- L'arte e la scienza di selezionare e supervisionare un gruppo di investimenti che soddisfano gli obiettivi finanziari a breve termine e la tolleranza al rischio di un cliente, un'azienda o un'istituzione.
+- L'insieme di processi attraverso cui un'azienda identifica, analizza, quantifica, elimina e monitora i rischi legati ad un determinato processo produttivo.
+- Eso-diretta: proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche; endo-diretta: architetture e soluzioni tecnologiche progettate internamente.
+
+**D:** ⚠️ Qual è la chiave per una gestione efficace del portafoglio, secondo la slide 7 della lezione 08?
+**R:** «La chiave per una gestione efficace del portafoglio è il **mix di attività a lungo termine** (azioni, obbligazioni, certificati di deposito + **investimenti alternativi**, come immobili, materie prime, derivati e criptovalute)» (slide 7). La docente li elenca tutti e chiude con «eccetera»: con la raccolta e l'elaborazione digitale dei dati il management gestisce il portafoglio nel miglior modo possibile ([00:11:22]–[00:11:51]). ⚠️ Da una parte azioni, obbligazioni e certificati di deposito; dall'altra gli investimenti alternativi, introdotti da «**come**»: immobili, materie prime, derivati e criptovalute.
+**Opzione:** Il mix di attività a lungo termine (azioni, obbligazioni, certificati di deposito + investimenti alternativi, come immobili, materie prime, derivati e criptovalute).
+**Distrattori:**
+- Il mix di attività a lungo termine (azioni, obbligazioni, immobili + investimenti alternativi, come certificati di deposito, materie prime, derivati e criptovalute).
+- Fra processo-prodotto finanziario e tecnologia: la seconda è totalmente applicabile al primo con un'alta efficacia ed efficienza (produttività della tecnologia).
+- Technology dependent: diviene il campo di applicazione della tecnologia; technology driven: si trasforma in un'impresa tecnologica, incorporando le competenze tecnologiche, valicando il confine tra tecnologia eso-diretta e tecnologia endo-diretta.
+
+**D:** ⚠️ Che cos'è l'option pricing, secondo la slide 7 della lezione 08?
+**R:** «Option pricing è il processo attraverso cui si arriva a **determinare il valore di un'opzione**» (slide 7). La docente aggiunge «di un'alternativa» e spiega che per definire le variabili, come il prezzo e la scadenza, le informazioni diventano «un elemento chiave», quindi il supporto delle tecnologie è molto importante ([00:11:51]–[00:12:47]). ⚠️ L'oggetto è il valore di un'**opzione**: le obbligazioni compaiono nella stessa slide solo fra le attività del mix di portafoglio.
+**Opzione:** Il processo attraverso cui si arriva a determinare il valore di un'opzione.
+**Distrattori:**
+- Il processo attraverso cui si arriva a determinare il valore di un'obbligazione.
+- Al processo di knowledge management, dell'apprendimento organizzativo.
+- I servizi di mobile payment.
+
+**D:** ⚠️ Che cosa sono le opzioni, secondo la slide 7 della lezione 08?
+**R:** «Le opzioni sono **contratti finanziari derivati** che danno al possessore **il diritto, ma non l'obbligo**, di comprare (call option) o di vendere (put option) un certo asset sul quale l'opzione stessa è basata, fissando uno specifico prezzo (**prezzo di esercizio K**) ed una scadenza o una data precisa» (slide 7). La docente la legge quasi alla lettera, senza nominare il prezzo di esercizio K ([00:11:51]–[00:12:20]). ⚠️ Il diritto, **non** l'obbligo.
+**Opzione:** Contratti finanziari derivati che danno al possessore il diritto, ma non l'obbligo, di comprare (call option) o di vendere (put option) un certo asset sul quale l'opzione stessa è basata, fissando uno specifico prezzo (prezzo di esercizio K) ed una scadenza o una data precisa.
+**Distrattori:**
+- Contratti finanziari derivati che danno al possessore l'obbligo, ma non il diritto, di comprare (call option) o di vendere (put option) un certo asset sul quale l'opzione stessa è basata, fissando uno specifico prezzo (prezzo di esercizio K) ed una scadenza o una data precisa.
+- L'incremento della produttività dei fattori sostituiti e l'incremento della redditività dell'intermediario quando la sostituzione consente di sfruttare vantaggi di costo unitario relativo della tecnologia specifica rispetto al fattore sostituito.
+- L'arte e la scienza di selezionare e supervisionare un gruppo di investimenti che soddisfano gli obiettivi finanziari a lungo termine e la tolleranza al rischio di un cliente, un'azienda o un'istituzione.
+
+**D:** ⚠️ Quale opzione dà il diritto di comprare e quale quello di vendere, secondo la slide 7 della lezione 08?
+**R:** La **call option** dà il diritto di **comprare**, la **put option** quello di **vendere**: «il diritto, ma non l'obbligo, di comprare (call option) o di vendere (put option) un certo asset» (slide 7). La docente: «di comprare la cosiddetta call option o di vendere put option» ([00:11:51]).
+**Opzione:** Call option: il diritto di comprare; put option: il diritto di vendere.
+**Distrattori:**
+- Call option: il diritto di vendere; put option: il diritto di comprare.
+- Automatic teller machines (ATM), cash dispensers, point of sales, phone banking, remote banking, TV banking, internet banking.
+- Effetto di connettività.
+
+**D:** ⚠️ Quale passaggio indica la slide 8 della lezione 08?
+**R:** «Dai processi ***labour intensive*** ai processi ***technology intensive*** e ***technology driven***» (slide 8, titolo). La docente: «dei processi labor intensive, quindi basate sulle risorse umane e sulla forza lavoro, c'è il passaggio ai processi technology intensive, technology driving [così il transcript], quindi guidati dalle tecnologie» ([00:13:01]–[00:13:18]). ⚠️ La direzione: dal lavoro alla tecnologia.
+**Opzione:** Dai processi labour intensive ai processi technology intensive e technology driven.
+**Distrattori:**
+- Dai processi technology intensive e technology driven ai processi labour intensive.
+- Il conto corrente online.
+- Call option: il diritto di comprare; put option: il diritto di vendere.
+
+**D:** ⚠️ Che cosa è diventato technology dependent, e in quali aspetti, secondo la slide 8 della lezione 08?
+**R:** «**Tutti** i processi di intermediazione sono diventati *technology dependent*: • La qualità delle decisione del management • L'efficienza dei processi • Le connessioni fra gli attori **interni** (**funzioni organizzative**) • Le relazioni con gli attori **esterni** (**clienti e mercati**)» (slide 8, refuso «delle decisione»): quattro voci. La docente: «tutti i processi di intermediazione sono già diventati praticamente technology dependent»; aggiunge le unità organizzative fra gli attori interni e i processi di comunicazione fra quelli esterni, e dice che le banche e gli intermediari «veramente sostenibili» sono quelli che riescono a sfruttare tutti i vantaggi della tecnologia digitale ([00:13:18]–[00:13:53]).
+**Opzione:** Tutti i processi di intermediazione: la qualità delle decisioni del management, l'efficienza dei processi, le connessioni fra gli attori interni (funzioni organizzative), le relazioni con gli attori esterni (clienti e mercati).
+**Distrattori:**
+- Tutti i processi di intermediazione: la qualità delle decisioni del management, l'efficienza dei processi, le connessioni fra gli attori interni (clienti e mercati), le relazioni con gli attori esterni (funzioni organizzative).
+- È prevalentemente immateriale ed è costituito da informazione, che funge da input del prodotto stesso sia da output (il prodotto-servizio contiene ed emette informazioni riferite al futuro: obbligazioni o aspettativa di prestazione).
+- La sostituzione del capitale tecnologico al capitale umano in diverse fasi di processi produttivi (rilevazione, archiviazione, elaborazione, consultazione dei dati).
+
+**D:** ⚠️ Come si chiama l'effetto per cui le opportunità di interconnessione aumentano l'intensità di interazione fra i soggetti, con risultato di integrazione degli scambi e dei mercati, secondo la slide 8 della lezione 08?
+**R:** «Le opportunità di interconnessione **aumentano** l'intensità di interazione fra i soggetti, con risultato di **integrazione** degli scambi e dei mercati (**effetto di connettività**)» (slide 8, dopo la freccia). Per la docente la tecnologia permette di aumentare il grado di connettività delle relazioni utili, funzionali, proficue per la gestione d'impresa ([00:13:53]–[00:14:38]). ⚠️ L'**effetto di sostituzione** è invece quello della substituting technology (slide 4).
+**Opzione:** Effetto di connettività.
+**Distrattori:**
+- Effetto di sostituzione.
+- Effetto legacy.
+- Disruptive innovation.
+
+**D:** ⚠️ Che cosa avviene ai luoghi fisici del mercato, e che cosa può avvenire ai mercati di approvvigionamento e di sbocco e ai luoghi di produzione, secondo la slide 8 della lezione 08?
+**R:** «• I luoghi fisici del mercato **vengono sostituiti** dagli spazi virtuali di mercato • I mercati di approvvigionamento e di sbocco e i luoghi di produzione **possono essere** smaterializzati e delocalizzati (produzioni remote, outsoursing, offshoring)» (slide 8, refuso «outsoursing»). Per la docente le tecnologie estendono gli spazi delle performance, con l'accesso a mercati nazionali e internazionali, e permettono di accedere a risorse lontane; anche la forza lavoro si recluta in diversi paesi del mondo, con il telelavoro, lo smart working, il lavoro flessibile, il lavoro agile ([00:14:38]–[00:16:08]). ⚠️ Il verbo è «possono essere»: una possibilità, non un obbligo.
+**Opzione:** I luoghi fisici del mercato vengono sostituiti dagli spazi virtuali di mercato; i mercati di approvvigionamento e di sbocco e i luoghi di produzione possono essere smaterializzati e delocalizzati (produzioni remote, outsourcing, offshoring).
+**Distrattori:**
+- I luoghi fisici del mercato vengono sostituiti dagli spazi virtuali di mercato; i mercati di approvvigionamento e di sbocco e i luoghi di produzione devono essere smaterializzati e delocalizzati (produzioni remote, outsourcing, offshoring).
+- Relazioni di scambio (con clienti) e operative (trasmissione ed esecuzione di ordini, sistemi di pagamento) con tempi abbreviati e costi inferiori.
+- Il mix di attività a lungo termine (azioni, obbligazioni, certificati di deposito + investimenti alternativi, come immobili, materie prime, derivati e criptovalute).
+
+**D:** ⚠️ Qual è il primo dei principali interrogativi sul ruolo della tecnologia per gli intermediari finanziari, secondo la slide 9 della lezione 08?
+**R:** «1. L'ICT può essere **ancora** classificata come un **fattore produttivo** oppure è diventato uno degli **elementi di architettura portante** dell'organizzazione produttiva e distributiva dell'intermediario del futuro? (incorpora informazione, processi, prodotti, relazioni di scambio)» (slide 9). Per la docente la domanda è se la tecnologia sia soltanto una delle tipologie di risorse da acquisire, che si trova nell'ambiente esterno e deve essere ottenuta, o un elemento fondante della struttura, interno, su cui si basa anche la strategia competitiva, di posizionamento; la risposta cambia con il tipo di azienda e con il management ([00:16:34]–[00:17:41]).
+**Opzione:** L'ICT può essere ancora classificata come un fattore produttivo oppure è diventato uno degli elementi di architettura portante dell'organizzazione produttiva e distributiva dell'intermediario del futuro? (incorpora informazione, processi, prodotti, relazioni di scambio)
+**Distrattori:**
+- L'ICT può essere ancora classificata come uno degli elementi di architettura portante oppure è diventato un fattore produttivo dell'organizzazione produttiva e distributiva dell'intermediario del futuro? (incorpora informazione, processi, prodotti, relazioni di scambio)
+- L'informatizzazione dei processi e la digitalizzazione dei prodotti e dei servizi bancari ne modificano radicalmente il concetto e la natura?
+- L'incremento della produttività dei fattori sostituiti e l'incremento della redditività dell'intermediario quando la sostituzione consente di sfruttare vantaggi di costo unitario relativo della tecnologia specifica rispetto al fattore sostituito.
+
+**D:** ⚠️ Che cosa distingue il banking technology dependent dal banking technology driven, secondo la slide 9 della lezione 08?
+**R:** «Il banking è un'attività ***technology dependent*** e quindi **diviene il campo di applicazione della tecnologia** oppure un'attività ***technology driven*** che **si trasforma in un'impresa tecnologica**, incorporando le competenze tecnologiche valicando il confine tra: • Tecnologia eso-diretta • Tecnologia endo-diretta» (slide 9). La docente legge l'alternativa per intero, con un «senz'altro» che la slide non ha: «il banking è senz'altro un'attività technology dependent e quindi diviene il campo di applicazione della tecnologia oppure un'attività technology driven, quindi che si trasforma in un'impresa tecnologica» ([00:17:41]). ⚠️ È il *technology driven* a incorporare le competenze tecnologiche e a valicare il confine fra tecnologia eso-diretta ed endo-diretta.
+**Opzione:** Technology dependent: diviene il campo di applicazione della tecnologia; technology driven: si trasforma in un'impresa tecnologica, incorporando le competenze tecnologiche, valicando il confine tra tecnologia eso-diretta e tecnologia endo-diretta.
+**Distrattori:**
+- Technology driven: diviene il campo di applicazione della tecnologia; technology dependent: si trasforma in un'impresa tecnologica, incorporando le competenze tecnologiche, valicando il confine tra tecnologia eso-diretta e tecnologia endo-diretta.
+- I luoghi fisici del mercato vengono sostituiti dagli spazi virtuali di mercato; i mercati di approvvigionamento e di sbocco e i luoghi di produzione possono essere smaterializzati e delocalizzati (produzioni remote, outsourcing, offshoring).
+- Fra processo-prodotto finanziario e tecnologia: la seconda è totalmente applicabile al primo con un'alta efficacia ed efficienza (produttività della tecnologia).
+
+**D:** ⚠️ Quale tipo di tecnologia proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche, secondo il test della lezione 08 (domanda 5)?
+**R:** «**Eso-diretta**». È la slide 9 alla lettera: «Tecnologia eso-diretta (proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche)»; la docente: «esodiretta ovviamente è da fuori, quindi proviene dai produttori dei fornitori di applicazioni e soluzioni tecnologiche» ([00:18:05]–[00:18:14]). Distrattori del test: «endo-diretta», «incremental technoogy», «disruptive technology». La **endo-diretta** è l'altra voce della stessa slide: «architetture e soluzioni tecnologiche progettate internamente». Le altre due tornano dalle domande 1 e 2 e non sono nelle slide del corso.
+**Opzione:** Eso-diretta.
+**Distrattori:**
+- Endo-diretta.
+- Incremental technoogy.
+- Disruptive technology.
+
+**D:** ⚠️ Che cosa distingue la tecnologia eso-diretta dalla tecnologia endo-diretta, secondo la slide 9 della lezione 08?
+**R:** «• Tecnologia **eso-diretta** (proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche) • Tecnologia **endo-diretta** (architetture e soluzioni tecnologiche **progettate internamente**)» (slide 9, entrambe sottolineate). Per la docente la eso-diretta «è da fuori», la endo-diretta è un elemento interno: per definire la struttura organizzativa bisogna capire se ottenere la tecnologia dall'esterno o produrla, sviluppando internamente soluzioni e applicazioni, e in questo caso servono competenze diverse ([00:18:05]–[00:19:04]). ⚠️ Eso = da fuori, endo = dentro.
+**Opzione:** Eso-diretta: proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche; endo-diretta: architetture e soluzioni tecnologiche progettate internamente.
+**Distrattori:**
+- Endo-diretta: proviene dai produttori-fornitori di applicazioni-soluzioni tecnologiche; eso-diretta: architetture e soluzioni tecnologiche progettate internamente.
+- I luoghi fisici del mercato vengono sostituiti dagli spazi virtuali di mercato; i mercati di approvvigionamento e di sbocco e i luoghi di produzione possono essere smaterializzati e delocalizzati (produzioni remote, outsourcing, offshoring).
+- Modelli sempre più sofisticati e integrati di risk management, portfolio management, option pricing ecc.
+
+**D:** ⚠️ Quale esempio usa la slide 9 della lezione 08 per chiedersi se si tratti di un business tecnologico o finanziario?
+**R:** «Es. **Servizi di mobile payment**: si tratta di un business tecnologico o finanziario? Chi possiede le competenze fondamentali e critiche?» (slide 9). Per la docente: è partito da un intermediario finanziario che ha sviluppato un'applicazione mobile, o da un fornitore di servizi tecnologici che ha deciso di usare il settore finanziario per fare profitto? Il confine fra la tecnologia e il settore finanziario si definisce «in maniera molto discutibile», come mostrano Fintech e Bancatech ([00:19:04]–[00:20:17]). ⚠️ Il **conto corrente online** è invece l'esempio del secondo interrogativo (slide 10).
+**Opzione:** I servizi di mobile payment.
+**Distrattori:**
+- Il conto corrente online.
+- Portfolio management.
+- Enabling technology.
+
+**D:** ⚠️ Quale esempio fa la slide 10 della lezione 08 per chiedersi se la tecnologia Internet sia un veicolo di un prodotto tradizionale oppure sia diventata un prodotto diverso?
+**R:** «La tecnologia Internet è un veicolo di un prodotto tradizionale (es. **il conto corrente online**) oppure è diventato un prodotto diverso?» (slide 10). Per la docente è la domanda fra innovazione «radicale, incrementale»: resta al centro il servizio tradizionale, come il conto corrente, sviluppato con diversi strumenti, oppure è uno strumento a generare servizi nuovi ([00:20:38]–[00:21:32]). ⚠️ I **servizi di mobile payment** sono invece l'esempio del primo interrogativo (slide 9).
+**Opzione:** Il conto corrente online.
+**Distrattori:**
+- I servizi di mobile payment.
+- Eso-diretta.
+- Substituting technology.
+
+**D:** ⚠️ Qual è il secondo dei principali interrogativi sul ruolo della tecnologia per gli intermediari finanziari, secondo la slide 10 della lezione 08?
+**R:** «2. L'informatizzazione dei processi e la digitalizzazione dei prodotti e dei servizi bancari ne Modificano **radicalmente** il concetto e la natura?» (slide 10). La docente aggiunge l'alternativa: «o la implementano in qualche modo?» ([00:20:17]–[00:20:38]). ⚠️ L'informatizzazione è dei **processi**, la digitalizzazione dei **prodotti e dei servizi** bancari.
+**Opzione:** L'informatizzazione dei processi e la digitalizzazione dei prodotti e dei servizi bancari ne modificano radicalmente il concetto e la natura?
+**Distrattori:**
+- L'informatizzazione dei prodotti e dei servizi bancari e la digitalizzazione dei processi ne modificano radicalmente il concetto e la natura?
+- L'ICT può essere ancora classificata come un fattore produttivo oppure è diventato uno degli elementi di architettura portante dell'organizzazione produttiva e distributiva dell'intermediario del futuro?
+- Del continuo cambiamento del contesto e della ricombinazione delle opportunità-minacce competitive.
+
+**D:** ⚠️ Con quali tre domande la slide 10 della lezione 08 sviluppa il secondo interrogativo sul ruolo della tecnologia?
+**R:** «• La tecnologia Internet è un veicolo di un prodotto tradizionale (es. il conto corrente online) oppure è diventato un prodotto diverso? • Sarà il prodotto ad incorporare la tecnologia o al contrario? • Dove si colloca l'intermediario finanziario in questo **percorso evolutivo**?» (slide 10): tre domande. Per la docente la risposta dipende dal vertice aziendale, dal top management e dalle competenze presenti in azienda; nelle prossime lezioni il paradigma classico ambiente-strategia-struttura si abbina alla tecnologia, che diventa «il background per lo sviluppo dell'intermediario finanziario» ([00:20:38]–[00:22:19]). ⚠️ «Chi possiede le competenze fondamentali e critiche?» appartiene invece al **primo** interrogativo (slide 9, mobile payment).
+**Opzione:** La tecnologia Internet è un veicolo di un prodotto tradizionale (es. il conto corrente online) oppure è diventato un prodotto diverso? Sarà il prodotto ad incorporare la tecnologia o al contrario? Dove si colloca l'intermediario finanziario in questo percorso evolutivo?
+**Distrattori:**
+- La tecnologia Internet è un veicolo di un prodotto tradizionale (es. il conto corrente online) oppure è diventato un prodotto diverso? Sarà il prodotto ad incorporare la tecnologia o al contrario? Chi possiede le competenze fondamentali e critiche?
+- L'ICT può essere ancora classificata come un fattore produttivo oppure è diventato uno degli elementi di architettura portante dell'organizzazione produttiva e distributiva dell'intermediario del futuro?
+- Dai processi labour intensive ai processi technology intensive e technology driven.
