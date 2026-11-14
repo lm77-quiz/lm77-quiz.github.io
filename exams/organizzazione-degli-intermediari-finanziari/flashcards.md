@@ -2545,3 +2545,304 @@
 - Definizione e analisi di diverse aree d'affari; elaborazione della strategia di business di una singola area d'affari; sviluppo delle strategie diversificate/di portafoglio.
 - Costi: leadership dei costi; ricavi: strategia di differenziazione; posizionamento di mercato: strategia di segmentazione e di posizionamento.
 - Cost leadership: prezzo; differenziazione e segmentazione: ricerca di un posizionamento di mercato favorevole (protetto).
+
+## Lezione 10 — Strategie di cost leadership
+
+**D:** ⚠️ Qual è l'obiettivo prioritario della strategia di cost leadership, secondo la slide 2 della lezione 10?
+**R:** «Identificare e attuare scelte e azioni idonee a ottenere **nel tempo** una diminuzione **assoluta e relativa (rispetto ai concorrenti)** dei **costi unitari** di ciascuno dei diversi output (prodotti/servizi)» (slide 2). ⚠️ La docente legge «assoluta **o** relativa» ([00:00:15]): nelle opzioni vale la slide. La diminuzione dei costi è il fuoco della cost leadership; l'aumento dei ricavi unitari è quello della differenziazione (lezione 09).
+**Opzione:** Identificare e attuare scelte e azioni idonee a ottenere nel tempo una diminuzione assoluta e relativa (rispetto ai concorrenti) dei costi unitari di ciascuno dei diversi output (prodotti/servizi).
+**Distrattori:**
+- Identificare e attuare scelte e azioni idonee a ottenere nel tempo un aumento assoluto e relativo (rispetto ai concorrenti) dei ricavi unitari di ciascuno dei diversi output (prodotti/servizi).
+- Sono un fattore di stabilità: preferiscono vigilare su un numero minore di intermediari (che possono diventare collaboratori dell'organo di vigilanza nell'attuazione di policies).
+- Da azioni di motivazione responsabilizzante (rethinking, TQM), dirette a gruppi di persone, secondo una logica di empowerment.
+
+**D:** ⚠️ Quali sono i 2 parametri che il perseguimento della diminuzione dei costi unitari assume come riferimenti, e come si chiamano i due benchmark, secondo la slide 2 della lezione 10?
+**R:** «Il perseguimento della diminuzione dei costi unitari assume come riferimenti 2 parametri: • I costi unitari **già sperimentati e realizzati dall'impresa** (*benchmark* **storico e interno**) • I costi unitari **delle imprese concorrenti** (*benchmark* **competitivo o di mercato**)» (slide 2). Per la docente il primo è un'analisi interna, che compara i costi in diversi periodi di tempo per capire quali sono necessari e critici e quali si possono ridurre o sostituire; il secondo è un confronto con gli altri attori dello stesso settore e della stessa area strategica di affari ([00:00:46]–[00:01:45]).
+**Opzione:** I costi unitari già sperimentati e realizzati dall'impresa (benchmark storico e interno) e i costi unitari delle imprese concorrenti (benchmark competitivo o di mercato).
+**Distrattori:**
+- I costi unitari già sperimentati e realizzati dall'impresa (benchmark competitivo o di mercato) e i costi unitari delle imprese concorrenti (benchmark storico e interno).
+- Fabbisogno maggiore di capitale fisso + costo variabile minore per unità di prodotto.
+- Intermediario al dettaglio o all'ingrosso; attività creditizia a breve o a lungo termine; canali distributivi tecnologici o una rete distributiva tradizionale.
+
+**D:** ⚠️ Quali 2 parametri assume come riferimenti il perseguimento della diminuzione dei costi unitari, secondo il test della lezione 10 (domanda 1)?
+**R:** **Benchmark storico e competitivo**: la chiave unisce le etichette dei due parametri della slide 2, «*benchmark* storico e interno» (i costi unitari già sperimentati e realizzati dall'impresa) e «*benchmark* competitivo o di mercato» (i costi unitari delle imprese concorrenti) ([00:00:46], [00:01:18]). La chiave è giusta ma non testuale. Distrattori del test: «costi e benefici», «target della clientela» e «customer satisfaction», che non compaiono in questa lezione.
+**Opzione:** Benchmark storico e competitivo.
+**Distrattori:**
+- Costi e benefici.
+- Target della clientela.
+- Customer satisfaction.
+
+**D:** ⚠️ Quali sono le 3 principali leve che permettono di adottare la strategia di cost leadership, secondo il test della lezione 10 (domanda 2)?
+**R:** **Tecnologia, dimensione operativa, organizzazione aziendale**: sono le tre voci della slide 3 nell'ordine dei punti elenco. Il titolo della slide le ordina diversamente, «Le leve: l'organizzazione, la tecnologia, la dimensione», e così la docente: «Normalmente le leve sono tre, quindi l'organizzazione, la tecnologia e la dimensione» ([00:02:13]). Distrattori del test: ogni opzione sbagliata tiene una sola leva vera e cambia le altre due, «leadership, business model, organizzazione aziendale»; «tecnologia, competenze, nuovi prodotti»; «dimensione operativa, reputazione, innovazione». Il business model è della lezione 09 (slide 10), la reputazione della lezione 11.
+**Opzione:** Tecnologia, dimensione operativa, organizzazione aziendale.
+**Distrattori:**
+- Leadership, business model, organizzazione aziendale.
+- Tecnologia, competenze, nuovi prodotti.
+- Dimensione operativa, reputazione, innovazione.
+
+**D:** ⚠️ Che cos'è la tecnologia impiegata, e che cosa introduce la dimensione operativa, come leve della cost leadership secondo la slide 3 della lezione 10?
+**R:** «• **La tecnologia** impiegata è un certo "**stato di natura**" che può essere percepito variante tra estremi ***labour intensive*** o ***capital intensive*** (può essere stabile o variante) • **La dimensione operativa** introduce **l'economia di scala** (può essere stabile o variante)» (slide 3; [00:02:20]–[00:03:49]). Per la docente l'economia di scala può variare «per diverse aree strategiche di affari» o «in diversi cicli di vita» della stessa impresa ([00:03:27]).
+**Opzione:** La tecnologia impiegata è un certo stato di natura che può essere percepito variante tra estremi labour intensive o capital intensive (può essere stabile o variante); la dimensione operativa introduce l'economia di scala (può essere stabile o variante).
+**Distrattori:**
+- La dimensione operativa è un certo stato di natura che può essere percepito variante tra estremi labour intensive o capital intensive (può essere stabile o variante); la tecnologia impiegata introduce l'economia di scala (può essere stabile o variante).
+- Con unità di misura specificamente scelte in relazione ai caratteri dominanti di struttura e di funzionamento dell'intermediario stesso, per consentire corrette comparazioni nel tempo e nello spazio.
+- Un effetto maggiore di economie di costo: la diminuzione dei costi per unità di output è maggiore, più rapida e si mantiene più a lungo nel tempo.
+
+**D:** ⚠️ Che cosa distingue la tecnologia labour intensive da quella capital intensive, secondo la docente nella lezione 10?
+**R:** Per la docente, nel **labour intensive** «il costo principale della produzione del nostro prodotto o servizio è quello che riguarda il **capitale umano**, quindi la risorsa umana»; nel **capital intensive** i costi principali «riguardano invece i costi **materiali**, i costi delle risorse materiali, risorse economiche» ([00:02:43]–[00:03:10]). Sono i due estremi fra cui la slide 3 colloca la tecnologia impiegata, «un certo "stato di natura"». La docente dice «labor intensive», la slide «*labour intensive*».
+**Opzione:** Nel labour intensive il costo principale è quello del capitale umano, la risorsa umana; nel capital intensive i costi principali sono quelli delle risorse materiali, economiche.
+**Distrattori:**
+- Nel labour intensive il costo principale è quello delle risorse materiali, economiche; nel capital intensive i costi principali sono quelli del capitale umano, la risorsa umana.
+- Il fatturato, il capitale investito, il numero degli addetti: poco affidabili e poco significative per intermediari creditizi e mobiliari.
+- Efficientamento.
+
+**D:** ⚠️ In che cosa può essere declinata l'organizzazione aziendale come leva della cost leadership, a quale fine e con quali modelli, secondo la slide 3 della lezione 10?
+**R:** «**L'organizzazione aziendale** può essere declinata in una grande varietà di **modelli/stati di natura**, finalizzati a ottenere **maggiore efficienza operativa**: • Funzionale • Divisionale • Matriciale» (slide 3). La docente la chiama «l'obiettivo principale del nostro corso» e introduce le strutture con «come per esempio», aggiungendo «anche la struttura **combinata, mista**»; le specificità di ciascun modello arriveranno nelle lezioni successive ([00:03:49]–[00:04:24]).
+**Opzione:** In una grande varietà di modelli/stati di natura, finalizzati a ottenere maggiore efficienza operativa: funzionale, divisionale, matriciale.
+**Distrattori:**
+- In una grande varietà di modelli/stati di natura, finalizzati a ottenere maggiore differenziazione dell'offerta: funzionale, divisionale, matriciale.
+- Produce economie di scala, un abbassamento del livello dei costi unitari (per unità di prodotto), e genera il vantaggio competitivo.
+- Benchmark storico e competitivo.
+
+**D:** ⚠️ Quali azioni indica la matrice «Leve di intervento sui costi» della slide 4 della lezione 10 per ciascuno dei quattro quadranti?
+**R:** La matrice incrocia la **TECNOLOGIA** (costante / innovante) e le **DIMENSIONI** (costanti / crescenti): «1 – Azioni di riorganizzazione, che **prescindono** dalla leva tecnologica» (tecnologia costante, dimensioni costanti); «2 – Azioni di riorganizzazione, che **impiegano anche** la leva tecnologica» (tecnologia innovante, dimensioni costanti); «3 – Azioni di riorganizzazione ed **economie di scala**» (tecnologia costante, dimensioni crescenti); «4 – Azioni di riorganizzazione + leva tecnologica + economie di scala» (tecnologia innovante, dimensioni crescenti) (slide 4; [00:04:35]–[00:05:12]). ⚠️ La riorganizzazione c'è in tutti e quattro i quadranti, e la numerazione scende per colonne: il 2 sta **sotto** l'1, non accanto.
+**Opzione:** 1 – azioni di riorganizzazione, che prescindono dalla leva tecnologica; 2 – azioni di riorganizzazione, che impiegano anche la leva tecnologica; 3 – azioni di riorganizzazione ed economie di scala; 4 – azioni di riorganizzazione + leva tecnologica + economie di scala.
+**Distrattori:**
+- 1 – azioni di riorganizzazione, che impiegano anche la leva tecnologica; 2 – azioni di riorganizzazione, che prescindono dalla leva tecnologica; 3 – azioni di riorganizzazione ed economie di scala; 4 – azioni di riorganizzazione + leva tecnologica + economie di scala.
+- Nelle dimensioni geografiche, tecnologiche, normative, con la conseguente esposizione al maggior numero di concorrenti, favoriscono la formazione di attori più grandi.
+- Nel labour intensive il costo principale è quello del capitale umano, la risorsa umana; nel capital intensive i costi principali sono quelli delle risorse materiali, economiche.
+
+**D:** ⚠️ Quali sono le quattro modalità di applicare la strategia di cost leadership, con la combinazione di tecnologia e dimensione e il nome di ciascuna, secondo la lezione 10?
+**R:** Dai titoli delle slide 5, 8, 9 e 13: «Modalità 1: **tecnologia costante e dimensione costante** – **l'efficienza organizzativa**»; «Modalità 2: **dimensione costante e tecnologia innovante** – **il processo tecnologico**»; «Modalità 3: **dimensione crescente e tecnologia costante**, **la formazione di economie di scala**»; «Modalità 4: **dimensione crescente e tecnologia innovante** – **possibili sinergie**». La docente chiude: «abbiamo parlato quindi di quattro modalità di applicare la strategia di cost leadership» ([00:29:22]). ⚠️ Le domande 3 e 5 del test hanno la stessa batteria (processo tecnologico, efficientamento, economie di scala, possibili sinergie) e chiedono dove sta una definizione.
+**Opzione:** 1: tecnologia costante e dimensione costante – l'efficienza organizzativa; 2: dimensione costante e tecnologia innovante – il processo tecnologico; 3: dimensione crescente e tecnologia costante, la formazione di economie di scala; 4: dimensione crescente e tecnologia innovante – possibili sinergie.
+**Distrattori:**
+- 1: tecnologia costante e dimensione costante – l'efficienza organizzativa; 2: dimensione costante e tecnologia innovante – la formazione di economie di scala; 3: dimensione crescente e tecnologia costante, il processo tecnologico; 4: dimensione crescente e tecnologia innovante – possibili sinergie.
+- Economico-contabile: activity based costing, activity based management; meccanicistico-ingegneristico: delayering, downsizing/rightsizing; umanistico culturale: rethinking, TQM.
+- Amministratori: rappresentanza di un'impresa più grande all'esterno; top management: condizioni più favorevoli di remunerazione, potere personale, influenza esterna, lobbying, autogratificazione.
+
+**D:** ⚠️ In che cosa consiste la modalità 1 della cost leadership, l'efficienza organizzativa, e con quale vincolo, secondo la slide 5 della lezione 10?
+**R:** «• Mera riorganizzazione attraverso la verifica, se gli stessi output possono essere ottenute: • Impiegando risorse in quantità minore o/e di prezzo inferiore • Risparmiando alcune risorse • Sostituendo alcune risorse con altre (es. **la tecnologia al posto del lavoro**) **SENZA IMPIEGARE TECNOLOGIE PIU' AVANZATE DI QUELLE GIA' USATE**» (slide 5; [00:05:18]–[00:06:20]). ⚠️ Anche nella modalità 1 la tecnologia può sostituire il lavoro, ma solo quella **già usata**. Per la docente «la tecnologia rimane sempre la stessa, la dimensione organizzativa rimane la stessa»: si tratta solo di riorganizzare, riordinare, ricombinare le risorse ([00:06:20]).
+**Opzione:** Mera riorganizzazione attraverso la verifica se gli stessi output possono essere ottenuti impiegando risorse in quantità minore o/e di prezzo inferiore, risparmiando alcune risorse, sostituendo alcune risorse con altre (es. la tecnologia al posto del lavoro), senza impiegare tecnologie più avanzate di quelle già usate.
+**Distrattori:**
+- Mera riorganizzazione attraverso la verifica se gli stessi output possono essere ottenuti impiegando risorse in quantità minore o/e di prezzo inferiore, risparmiando alcune risorse, sostituendo alcune risorse con altre (es. la tecnologia al posto del lavoro), impiegando tecnologie più avanzate di quelle già usate.
+- Le maggiori dimensioni operative rendono possibile e conveniente l'impiego di sistemi tecnologici più innovativi; le tecnologie innovative sono più flessibili e si adattano meglio all'aumento delle dimensioni operative e dei volumi di produzione.
+- Sono un fattore di stabilità: preferiscono vigilare su un numero minore di intermediari (che possono diventare collaboratori dell'organo di vigilanza nell'attuazione di policies).
+
+**D:** ⚠️ Come può essere definita la mera riorganizzazione attraverso la verifica se gli stessi output possono essere ottenuti impiegando risorse in quantità minore o/e di prezzo inferiore, risparmiando alcune risorse, sostituendo alcune risorse con altre, secondo il test della lezione 10 (domanda 3)?
+**R:** **Efficientamento**: è la slide 5 quasi alla lettera, «Modalità 1: tecnologia costante e dimensione costante – l'efficienza organizzativa», chiusa da «AZIONI DEFENITE "EFFICIENTAMENTO"» (refuso della slide). La domanda toglie «(es. la tecnologia al posto del lavoro)» e «SENZA IMPIEGARE TECNOLOGIE PIU' AVANZATE DI QUELLE GIA' USATE», e riprende il refuso «output […] ottenute». La docente: «queste azioni sono definite le azioni di efficientamento» ([00:06:38]). Distrattori del test: i nomi delle altre tre modalità, «processo tecnologico» (modalità 2, chiave della domanda 5), «economie di scala» (modalità 3), «possibili sinergie» (modalità 4).
+**Opzione:** Efficientamento.
+**Distrattori:**
+- Processo tecnologico.
+- Economie di scala.
+- Possibili sinergie.
+
+**D:** ⚠️ Quali sono le principali tecniche di efficientamento, e quali strumenti appartengono a ciascuna, secondo la slide 6 della lezione 10?
+**R:** Tre tecniche (slide 6): **economico-contabile**, con *activity based costing* e *activity based management*, cioè «La misurazione contabile dei fenomeni economici e dei processi al fine di evidenziare le opportunità di efficientamento»; **meccanicistico-ingegneristico**, con il *delayering* (appiattimenti organizzativi) e il *downsizing/rightsizing* (razionamento delle risorse); **umanistico culturale**, con *rethinking* e *TQM*, secondo una logica di *empowerment*. Per la docente l'economico-contabile serve a capire «qual è l'attività, qual è il processo che porta via più denaro» ([00:06:44]–[00:07:31]). ⚠️ «Meccanicistico/ingegneristico» torna nella slide 8, per gli interventi della modalità 2.
+**Opzione:** Economico-contabile: activity based costing, activity based management; meccanicistico-ingegneristico: delayering, downsizing/rightsizing; umanistico culturale: rethinking, TQM.
+**Distrattori:**
+- Economico-contabile: activity based costing, activity based management; meccanicistico-ingegneristico: rethinking, TQM; umanistico culturale: delayering, downsizing/rightsizing.
+- I costi unitari già sperimentati e realizzati dall'impresa (benchmark storico e interno) e i costi unitari delle imprese concorrenti (benchmark competitivo o di mercato).
+- Modello di 5 forze di Porter.
+
+**D:** ⚠️ Che cosa sono le ristrutturazioni di delayering, a quale tecnica di efficientamento appartengono e quali livelli riducono, secondo la slide 6 della lezione 10?
+**R:** Tecnica **meccanicistico-ingegneristica**: «Ristrutturazioni mediante **appiattimenti organizzativi** – *delayering* (es. riducendo i livelli di **middle management**)» (slide 6). Per la docente si riducono i livelli soprattutto di middle management, o comunque la quantità di livelli organizzativi, soprattutto nelle strutture «molto verticalizzate», con livelli gerarchici molto elevati ([00:07:34]–[00:08:19]).
+**Opzione:** Alla tecnica meccanicistico-ingegneristica: ristrutturazioni mediante appiattimenti organizzativi (es. riducendo i livelli di middle management).
+**Distrattori:**
+- Alla tecnica economico-contabile: ristrutturazioni mediante appiattimenti organizzativi (es. riducendo i livelli di middle management).
+- La necessità e la preferenza di controparti di dimensioni adeguate.
+- Processo tecnologico.
+
+**D:** ⚠️ In che cosa consiste la riorganizzazione di downsizing/rightsizing, e a quale tecnica di efficientamento appartiene, secondo la slide 6 della lezione 10?
+**R:** Tecnica **meccanicistico-ingegneristica**: «Riorganizzazione mediante **razionamento** di una o più risorse dedicate alle diverse unità organizzative, attività, funzioni attraverso gli interventi sull'org.ne dei processi per ottenere **gli stessi output con minori fattori produttivi** (*downsizing/rightsizing*)» (slide 6). Per la docente si cercano le risorse da usare «in maniera trasversale», dedicandole a più processi e attività: un «aggiustamento» della misura dell'applicazione delle risorse ([00:08:19]–[00:09:06]).
+**Opzione:** Riorganizzazione mediante razionamento di una o più risorse dedicate alle diverse unità organizzative, attività, funzioni attraverso gli interventi sull'organizzazione dei processi per ottenere gli stessi output con minori fattori produttivi; è una tecnica meccanicistico-ingegneristica.
+**Distrattori:**
+- Riorganizzazione mediante razionamento di una o più risorse dedicate alle diverse unità organizzative, attività, funzioni attraverso gli interventi sull'organizzazione dei processi per ottenere gli stessi output con minori fattori produttivi; è una tecnica umanistico culturale.
+- Un fattore di stabilità e robustezza (autoprotezione dell'organismo aziendale).
+- Il ruolo abilitante (enabling technology), che rende più efficiente ed efficace il processo di produzione del valore, e quello sostitutivo (substituting technology), per il lavoro con minor contenuto professionale.
+
+**D:** ⚠️ Da quali azioni sono attivate le tecniche umanistico-culturali di efficientamento, a chi sono dirette e secondo quale logica, secondo la slide 6 della lezione 10?
+**R:** «Umanistico culturale: • Le tecniche attivate da **azioni di motivazione responsabilizzante** (*rethinking, TQM*) dirette **a gruppi di persone**, secondo una logica di ***empowerment***» (slide 6). Per la docente il *rethinking* è il «ripensamento, ripensare le attività», il *TQM* è il *total quality management*, «rendere tutti i processi operativi di livello di qualità»; con l'empowerment si motivano i dipendenti perché siano più responsabilizzati, più autonomi e gestiscano meglio compiti e obiettivi ([00:09:09]–[00:10:15]).
+**Opzione:** Da azioni di motivazione responsabilizzante (rethinking, TQM), dirette a gruppi di persone, secondo una logica di empowerment.
+**Distrattori:**
+- Da azioni di motivazione responsabilizzante (rethinking, TQM), dirette a gruppi di persone, secondo una logica di controllo gerarchico.
+- Identificare e attuare scelte e azioni idonee a ottenere nel tempo una diminuzione assoluta e relativa (rispetto ai concorrenti) dei costi unitari di ciascuno dei diversi output (prodotti/servizi).
+- Processo tecnologico.
+
+**D:** ⚠️ Che cos'è la X-efficienza, e qual è il suo risultato atteso, secondo la slide 7 della lezione 10?
+**R:** «X- efficienza è un tipo di **efficienza operativa e/o organizzativa**, che **prescinde dalle leve di tecnologia e di dimensione**» e «**Risultato atteso:** l'aumento dell'efficienza operativa» (slide 7). La docente: «non parliamo dell'aumento, del miglioramento delle tecnologie, non parliamo della crescita di dimensione dell'azienda», ma «soltanto ed esclusivamente» della ricombinazione e riorganizzazione dei modelli, della struttura e dei processi organizzativi, come l'empowerment e la leadership ([00:10:15]–[00:11:38]). L'obiettivo è la domanda 4 del test.
+**Opzione:** Un tipo di efficienza operativa e/o organizzativa, che prescinde dalle leve di tecnologia e di dimensione; risultato atteso: l'aumento dell'efficienza operativa.
+**Distrattori:**
+- Un tipo di efficienza operativa e/o organizzativa, che si fonda sulle leve di tecnologia e di dimensione; risultato atteso: l'aumento dell'efficienza operativa.
+- Un effetto maggiore di economie di costo: la diminuzione dei costi per unità di output è maggiore, più rapida e si mantiene più a lungo nel tempo.
+- Intermediario al dettaglio o all'ingrosso; attività creditizia a breve o a lungo termine; canali distributivi tecnologici o una rete distributiva tradizionale.
+
+**D:** ⚠️ Di che cosa è l'obiettivo «aumentare la produttività dei fattori impiegati mediante l'eliminazione di inefficienze e sprechi e il miglioramento delle combinazioni a parità di tecnologia impiegata», secondo il test della lezione 10 (domanda 4)?
+**R:** **X-efficienza**: è la slide 7 alla lettera, «**Obiettivo:** Aumentare la produttività dei fattori impiegati mediante l'eliminazione di inefficienze e sprechi e il miglioramento delle combinazioni a parità di tecnologia impiegata»; la docente lo ripete a [00:11:00]. Distrattori del test: «y-efficienza» e «z-efficienza» non compaiono nello strato di testo dei 30 deck né nei 20 transcript disponibili, sono nomi inventati per assonanza con la X-efficienza; neppure «ridimensionamento» compare nello strato di testo dei 30 deck né nei 20 transcript disponibili, e richiama il downsizing della slide 6 e la «dimensione», da cui la X-efficienza invece prescinde. ⚠️ Anche il terzo obiettivo della modalità 2 (slide 8) comincia con «Aumentare la produttività dei fattori impiegati», ma prosegue con «nonché il livello raggiunto nello "stato tecnologico" precedente»: discrimina «a parità di tecnologia impiegata».
+**Opzione:** X-efficienza.
+**Distrattori:**
+- Y-efficienza.
+- Z-efficienza.
+- Ridimensionamento.
+
+**D:** ⚠️ Come può essere definita la ricombinazione dei fattori produttivi, con effetto di aumento ulteriore dell'efficienza operativa mediante l'impiego di tecnologie progredienti o innovative, secondo il test della lezione 10 (domanda 5)?
+**R:** **Processo tecnologico**: è il primo punto della slide 8, «Modalità 2: dimensione costante e tecnologia innovante – il processo tecnologico • Ricombinazione dei fattori produttivi, con effetto di aumento ulteriore dell'efficienza operativa mediante l'impiego di tecnologie innovative». ⚠️ «progredienti o» è un'aggiunta della piattaforma: non è nella slide né nel transcript ([00:12:19]: «mediante l'impiego di tecnologie innovative»). La docente: «parliamo di una strategia che si definisce il processo tecnologico» ([00:11:50]). Distrattori del test: la stessa batteria della domanda 3, «efficientamento» (le azioni della modalità 1, chiave della domanda 3), «economie di scala» (modalità 3), «possibili sinergie» (modalità 4).
+**Opzione:** Processo tecnologico.
+**Distrattori:**
+- Efficientamento.
+- Economie di scala.
+- Possibili sinergie.
+
+**D:** ⚠️ Di che tipo sono gli interventi della modalità 2, e quali fasi comprende il business process reengineering, secondo la slide 8 della lezione 10?
+**R:** «• Interventi di tipo **meccanicistico/ingegneristico** • *Business process reengineering*: • L'analisi del processo e delle sue fasi elementari, • La **scomposizione** del processo (*unbundling*) • La **ricomposizione** del processo (*reengineering*)» (slide 8). Per la docente bisogna «reinventare i nostri processi di business»: si analizza il processo di creazione del valore o i processi organizzativi, lo si scompone in step, passaggi, fasi (*unbundling*), poi lo si ricompone e ricombina per renderlo più efficiente (*re-engineering*) ([00:12:38]–[00:13:34]).
+**Opzione:** Interventi di tipo meccanicistico/ingegneristico; il business process reengineering comprende l'analisi del processo e delle sue fasi elementari, la scomposizione del processo (unbundling) e la ricomposizione del processo (reengineering).
+**Distrattori:**
+- Interventi di tipo meccanicistico/ingegneristico; il business process reengineering comprende l'analisi del processo e delle sue fasi elementari, la scomposizione del processo (reengineering) e la ricomposizione del processo (unbundling).
+- Amministratori: rappresentanza di un'impresa più grande all'esterno; top management: condizioni più favorevoli di remunerazione, potere personale, influenza esterna, lobbying, autogratificazione.
+- In una grande varietà di modelli/stati di natura, finalizzati a ottenere maggiore efficienza operativa: funzionale, divisionale, matriciale.
+
+**D:** ⚠️ Quali obiettivi ha la modalità 2 della cost leadership, il processo tecnologico, secondo la slide 8 della lezione 10?
+**R:** «Obiettivo: • Impiegare soluzioni tecnologiche migliorative dell'efficienza • Ottimizzare la funzionalità e l'utilità (valore) per i destinatari finali dell'output • Aumentare la produttività dei fattori impiegati, nonché il livello raggiunto nello "**stato tecnologico**" **precedente**» (slide 8; [00:13:34]–[00:14:14]). ⚠️ Il terzo obiettivo somiglia a quello della X-efficienza (slide 7), ma lì la produttività aumenta «**a parità di tecnologia impiegata**»; qui si supera lo stato tecnologico precedente. La docente lo chiama «l'obiettivo di questa modalità di efficientamento» ([00:13:34]).
+**Opzione:** Impiegare soluzioni tecnologiche migliorative dell'efficienza; ottimizzare la funzionalità e l'utilità (valore) per i destinatari finali dell'output; aumentare la produttività dei fattori impiegati, nonché il livello raggiunto nello stato tecnologico precedente.
+**Distrattori:**
+- Impiegare soluzioni tecnologiche migliorative dell'efficienza; ottimizzare la funzionalità e l'utilità (valore) per i destinatari finali dell'output; aumentare la produttività dei fattori impiegati mediante l'eliminazione di inefficienze e sprechi a parità di tecnologia impiegata.
+- I costi unitari già sperimentati e realizzati dall'impresa (benchmark storico e interno) e i costi unitari delle imprese concorrenti (benchmark competitivo o di mercato).
+- Nelle dimensioni geografiche, tecnologiche, normative, con la conseguente esposizione al maggior numero di concorrenti, favoriscono la formazione di attori più grandi.
+
+**D:** ⚠️ Quale situazione si determina per i fattori produttivi tradizionali nella modalità 2, e con quale esempio, secondo la slide 8 della lezione 10?
+**R:** «Una situazione di **eccedenza** dei fattori produttivi tradizionali sostituiti dalle nuove tecnologie (es. il lavoro con **minor** contenuto professionale)» (slide 8). Per la docente quel lavoro «potrebbe essere sostituito anche con una tecnologia, in questo caso sostitutiva, quindi substituting technology» ([00:14:52]–[00:15:18]).
+**Opzione:** Una situazione di eccedenza dei fattori produttivi tradizionali sostituiti dalle nuove tecnologie (es. il lavoro con minor contenuto professionale).
+**Distrattori:**
+- Una situazione di scarsità dei fattori produttivi tradizionali sostituiti dalle nuove tecnologie (es. il lavoro con minor contenuto professionale).
+- In una grande varietà di modelli/stati di natura, finalizzati a ottenere maggiore efficienza operativa: funzionale, divisionale, matriciale.
+- Clienti.
+
+**D:** ⚠️ Quali ruoli della tecnologia, visti in una lezione precedente, richiama la docente per la modalità 2 della cost leadership nella lezione 10?
+**R:** La docente ricorda le «tecnologie sostitutive» e le «tecnologie abilitanti» della lezione 08. Nel processo tecnologico «sicuramente il ruolo della tecnologia è quella di **abilitazione**, di miglioramento, quindi parliamo di ***enabling technology***», che rende il processo di produzione del valore più efficiente e più efficace ([00:14:25]–[00:14:52]); il lavoro con minor contenuto professionale, in eccedenza, «potrebbe essere sostituito anche con una tecnologia, in questo caso **sostitutiva**, quindi ***substituting technology***» ([00:15:03]). Le slide della lezione 10 non nominano le due tecnologie.
+**Opzione:** Il ruolo abilitante (enabling technology), che rende più efficiente ed efficace il processo di produzione del valore, e quello sostitutivo (substituting technology), per il lavoro con minor contenuto professionale.
+**Distrattori:**
+- Il ruolo sostitutivo (substituting technology), che rende più efficiente ed efficace il processo di produzione del valore, e quello abilitante (enabling technology), per il lavoro con minor contenuto professionale.
+- Con unità di misura specificamente scelte in relazione ai caratteri dominanti di struttura e di funzionamento dell'intermediario stesso, per consentire corrette comparazioni nel tempo e nello spazio.
+- Protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza.
+
+**D:** ⚠️ Quali misure della dimensione operativa cita la slide 9 della lezione 10, e come le giudica per gli intermediari creditizi e mobiliari?
+**R:** «Il dibattito sul concetto di "dimensione operativa": come misurarla? • Il fatturato • Il capitale investito • Il numero degli addetti → **poco affidabili e poco significative** per intermediari creditizi e mobiliari» (slide 9). Per la docente alcuni studi usano il fatturato, altri il capitale investito, altri ancora il numero degli addetti ([00:15:41]–[00:16:26]).
+**Opzione:** Il fatturato, il capitale investito, il numero degli addetti: poco affidabili e poco significative per intermediari creditizi e mobiliari.
+**Distrattori:**
+- Il fatturato, il capitale investito, il numero degli addetti: affidabili e significative per intermediari creditizi e mobiliari.
+- Identificare e attuare scelte e azioni idonee a ottenere nel tempo una diminuzione assoluta e relativa (rispetto ai concorrenti) dei costi unitari di ciascuno dei diversi output (prodotti/servizi).
+- Efficientamento.
+
+**D:** ⚠️ Con quali unità di misura vanno misurate le dimensioni aziendali e operative di un intermediario, e a quale scopo, secondo la slide 9 della lezione 10?
+**R:** «Le dimensioni aziendali e operative di un intermediario devono essere misurate con **unità di misura specificamente scelte** in relazione ai **caratteri dominanti di struttura e di funzionamento** dell'intermediario stesso, per consentire **corrette comparazioni nel tempo e nello spazio**» (slide 9; [00:16:26]).
+**Opzione:** Con unità di misura specificamente scelte in relazione ai caratteri dominanti di struttura e di funzionamento dell'intermediario stesso, per consentire corrette comparazioni nel tempo e nello spazio.
+**Distrattori:**
+- Con unità di misura uniformi per tutti gli intermediari, a prescindere dai caratteri dominanti di struttura e di funzionamento, per consentire corrette comparazioni nel tempo e nello spazio.
+- Nel labour intensive il costo principale è quello del capitale umano, la risorsa umana; nel capital intensive i costi principali sono quelli delle risorse materiali, economiche.
+- Da azioni di motivazione responsabilizzante (rethinking, TQM), dirette a gruppi di persone, secondo una logica di empowerment.
+
+**D:** ⚠️ Quali caratteri dell'intermediario orientano la scelta delle unità di misura della dimensione operativa, secondo la slide 9 della lezione 10?
+**R:** «• Intermediario **al dettaglio o all'ingrosso** • Attività creditizia **a breve o a lungo termine** • Canali distributivi **tecnologici** o una rete distributiva **tradizionale**» (slide 9). L'esempio della docente: un intermediario con canali distributivi tecnologici non ha bisogno di un numero così elevato di addetti, mentre uno con una rete tradizionale di sportelli e filiali ha bisogno di più capitale umano; la misura deve tener conto della tipologia dell'intermediario ([00:16:48]–[00:18:14]). ⚠️ Fatturato, capitale investito e numero degli addetti sono invece le misure «poco affidabili e poco significative» della stessa slide.
+**Opzione:** Intermediario al dettaglio o all'ingrosso; attività creditizia a breve o a lungo termine; canali distributivi tecnologici o una rete distributiva tradizionale.
+**Distrattori:**
+- Intermediario al dettaglio o all'ingrosso; attività creditizia a breve o a lungo termine; fatturato o numero degli addetti.
+- Alla tecnica meccanicistico-ingegneristica: ristrutturazioni mediante appiattimenti organizzativi (es. riducendo i livelli di middle management).
+- Protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza.
+
+**D:** ⚠️ Quali sono i due passi da compiere nella modalità 3, la formazione di economie di scala, secondo la slide 10 della lezione 10?
+**R:** «PASSI DA COMPIERE: 1. Identificare le possibili spiegazioni dell'opzione che sia **opportuno-conveniente** aumentare le dimensioni operative e aziendali 2. Esaminare se le maggiori dimensioni operative (**a parità di stato di diversificazione e a tecnologia stabile**) contribuiscono a migliorare la ***cost efficiency***, rispetto ai volumi di produzione» (slide 10). La docente traduce *cost efficiency* con «l'efficienza sul costo» e riassume: bisogna capire se conviene aumentare la dimensione e se il cambiamento produce davvero un vantaggio competitivo ([00:18:14]–[00:19:06]).
+**Opzione:** 1. Identificare le possibili spiegazioni dell'opzione che sia opportuno-conveniente aumentare le dimensioni operative e aziendali; 2. esaminare se le maggiori dimensioni operative (a parità di stato di diversificazione e a tecnologia stabile) contribuiscono a migliorare la cost efficiency, rispetto ai volumi di produzione.
+**Distrattori:**
+- 1. Identificare le possibili spiegazioni dell'opzione che sia opportuno-conveniente aumentare le dimensioni operative e aziendali; 2. esaminare se le maggiori dimensioni operative (a parità di stato di diversificazione e con tecnologia innovante) contribuiscono a migliorare la cost efficiency, rispetto ai volumi di produzione.
+- Economico-contabile: activity based costing, activity based management; meccanicistico-ingegneristico: delayering, downsizing/rightsizing; umanistico culturale: rethinking, TQM.
+- Una situazione di eccedenza dei fattori produttivi tradizionali sostituiti dalle nuove tecnologie (es. il lavoro con minor contenuto professionale).
+
+**D:** Quali sono le possibili spiegazioni dell'opzione che sia opportuno-conveniente aumentare le dimensioni operative e aziendali, secondo la slide 11 della lezione 10?
+**R:** Cinque, nell'ordine (slide 11; [00:19:06]–[00:22:54]): «• L'aumento delle dimensioni produce **economie di scala** – un abbassamento del livello dei costi unitari (per unità di prodotto) e genera il vantaggio competitivo • La **globalizzazione** dei mercati finanziari e l'allargamento dei mercati dei servizi finanziari nelle dimensioni geografiche, tecnologiche, normative e la conseguente esposizione al maggior numero di concorrenti favorisce la formazione di attori più grandi • L'aumento delle dimensioni operative delle **imprese non finanziari** (multi/sopranazionali) determina per loro la necessità e la preferenza di controparti di dimensioni adeguate • In un contest di mercati più ampi, più competitivi e più variabili, le maggiori dimensioni è un fattore di **stabilità e robustezza** (autoprotezione dell'organismo aziendale) • **Convenienza per gli *stakehoders*** (amministratori, top manager, autorità di controllo, dipendenti, fornitori ecc.)». Refusi della slide: «non finanziari», «contest», «è», «stakehoders». ⚠️ L'elenco degli stakeholder è aperto («ecc.»).
+
+**D:** ⚠️ Che cosa produce l'aumento delle dimensioni, secondo la prima spiegazione della slide 11 della lezione 10?
+**R:** «L'aumento delle dimensioni produce **economie di scala** – un **abbassamento del livello dei costi unitari (per unità di prodotto)** e genera il **vantaggio competitivo**» (slide 11). La docente: «Che cosa è economia di scala? È un abbassamento del livello dei costi unitari per unità di prodotto, quindi i costi necessari per produrre una singola unità» ([00:19:20]–[00:19:45]).
+**Opzione:** Produce economie di scala, un abbassamento del livello dei costi unitari (per unità di prodotto), e genera il vantaggio competitivo.
+**Distrattori:**
+- Produce economie di scala, un abbassamento del livello dei costi fissi totali, e genera il vantaggio competitivo.
+- Interventi di tipo meccanicistico/ingegneristico; il business process reengineering comprende l'analisi del processo e delle sue fasi elementari, la scomposizione del processo (unbundling) e la ricomposizione del processo (reengineering).
+- Competitori potenziali.
+
+**D:** ⚠️ In quali dimensioni avvengono la globalizzazione dei mercati finanziari e l'allargamento dei mercati dei servizi finanziari, e che cosa favoriscono, secondo la slide 11 della lezione 10?
+**R:** «La globalizzazione dei mercati finanziari e l'allargamento dei mercati dei servizi finanziari nelle dimensioni **geografiche, tecnologiche, normative** e la conseguente esposizione al **maggior numero di concorrenti** favorisce la formazione di **attori più grandi**» (slide 11). Per la docente la globalizzazione ha due facce: i clienti diventano più vasti e raggiungibili, ma anche i concorrenti sono più numerosi; la dimensione aiuta a sopravvivere e a conservare il vantaggio competitivo ([00:19:45]–[00:20:59]).
+**Opzione:** Nelle dimensioni geografiche, tecnologiche, normative, con la conseguente esposizione al maggior numero di concorrenti, favoriscono la formazione di attori più grandi.
+**Distrattori:**
+- Nelle dimensioni geografiche, tecnologiche, normative, con la conseguente esposizione al maggior numero di concorrenti, favoriscono la formazione di attori più piccoli.
+- Alla tecnica meccanicistico-ingegneristica: ristrutturazioni mediante appiattimenti organizzativi (es. riducendo i livelli di middle management).
+- Un tipo di efficienza operativa e/o organizzativa, che prescinde dalle leve di tecnologia e di dimensione; risultato atteso: l'aumento dell'efficienza operativa.
+
+**D:** ⚠️ Che cosa determina, per le imprese non finanziarie (multi/sopranazionali), l'aumento delle loro dimensioni operative, secondo la slide 11 della lezione 10?
+**R:** «L'aumento delle dimensioni operative delle imprese non finanziari (**multi/sopranazionali**) determina per loro la **necessità e la preferenza di controparti di dimensioni adeguate**» (slide 11, refuso «non finanziari»). La docente fa l'esempio della crescita degli attori del trasporto e del turismo, che vogliono una controparte finanziaria «di misura più o meno omogenea», e lo riferisce soprattutto alle banche B2B, che lavorano con le imprese e non con il cliente finale ([00:20:59]–[00:21:51]).
+**Opzione:** La necessità e la preferenza di controparti di dimensioni adeguate.
+**Distrattori:**
+- La necessità e la preferenza di controparti di dimensioni ridotte.
+- Benchmark storico e competitivo.
+- Tecnologia, dimensione operativa, organizzazione aziendale.
+
+**D:** ⚠️ Che cosa sono le maggiori dimensioni in un contesto di mercati più ampi, più competitivi e più variabili, secondo la slide 11 della lezione 10?
+**R:** «In un contest di mercati più ampi, più competitivi e più variabili, le maggiori dimensioni è un **fattore di stabilità e robustezza** (**autoprotezione dell'organismo aziendale**)» (slide 11, refusi «contest» e «è»). Per la docente un'azienda di dimensione elevata ha più potenzialità e accesso a più risorse, quindi una protezione sul mercato e un *life cycle* più lungo ([00:21:51]–[00:22:54]).
+**Opzione:** Un fattore di stabilità e robustezza (autoprotezione dell'organismo aziendale).
+**Distrattori:**
+- Un fattore di flessibilità e innovazione (autoprotezione dell'organismo aziendale).
+- Ambiente.
+- Tecnologia, dimensione operativa, organizzazione aziendale.
+
+**D:** ⚠️ Quale convenienza hanno le dimensioni maggiori per gli amministratori e per il top management, secondo la tabella della slide 12 della lezione 10?
+**R:** Tabella «La convenienza delle dimensioni maggiori per gli stakeholder principali»: **Amministratori** – «Rappresentanza di un'impresa più grande all'esterno»; **Top management** – «Condizioni più favorevoli di remunerazione, potere personale, influenza esterna, *lobbying*, autogratificazione» (slide 12). La docente aggiunge per il top management «automotivazione, autorealizzazione» e «la possibilità di avanzamento di carriera nelle aziende di dimensioni più grandi» ([00:23:29]–[00:24:06]).
+**Opzione:** Amministratori: rappresentanza di un'impresa più grande all'esterno; top management: condizioni più favorevoli di remunerazione, potere personale, influenza esterna, lobbying, autogratificazione.
+**Distrattori:**
+- Top management: rappresentanza di un'impresa più grande all'esterno; amministratori: condizioni più favorevoli di remunerazione, potere personale, influenza esterna, lobbying, autogratificazione.
+- Un tipo di efficienza operativa e/o organizzativa, che prescinde dalle leve di tecnologia e di dimensione; risultato atteso: l'aumento dell'efficienza operativa.
+- Il ruolo abilitante (enabling technology), che rende più efficiente ed efficace il processo di produzione del valore, e quello sostitutivo (substituting technology), per il lavoro con minor contenuto professionale.
+
+**D:** ⚠️ Perché le dimensioni maggiori convengono alle autorità di controllo, secondo la tabella della slide 12 della lezione 10?
+**R:** «**Autorità di controllo** – Un **fattore di stabilità**, preferiscono vigilare su un **numero minore** di intermediari (che possono diventare **collaboratori dell'organo di vigilanza** nell'attuazione di *policies*)» (slide 12). Per la docente gli intermediari diventano così non soltanto oggetti da controllare e supervisionare, ma anche collaboratori ([00:24:06]–[00:24:52]).
+**Opzione:** Sono un fattore di stabilità: preferiscono vigilare su un numero minore di intermediari (che possono diventare collaboratori dell'organo di vigilanza nell'attuazione di policies).
+**Distrattori:**
+- Sono un fattore di stabilità: preferiscono vigilare su un numero maggiore di intermediari (che possono diventare collaboratori dell'organo di vigilanza nell'attuazione di policies).
+- Il fatturato, il capitale investito, il numero degli addetti: poco affidabili e poco significative per intermediari creditizi e mobiliari.
+- X-efficienza.
+
+**D:** ⚠️ Quali convenienze hanno le dimensioni maggiori per la combinazione di stakeholder (azionisti, amministratori, manager, dipendenti, sindacati, fornitori), secondo la tabella della slide 12 della lezione 10?
+**R:** «• Capacità dell'impresa di esercitare **maggiore potere sul mercato**, con maggiori benefici, **fruibili da tutti gli *stakeholders*** • Sviluppo di una situazione di **non fallibilità** (***too big to fail***) -> **protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza**» (slide 12). La docente: «troppo grande per fallire», con «meno rischio di fallimento» ([00:24:52]–[00:26:07]).
+**Opzione:** Capacità dell'impresa di esercitare maggiore potere sul mercato, con maggiori benefici, fruibili da tutti gli stakeholders; sviluppo di una situazione di non fallibilità (too big to fail) -> protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza.
+**Distrattori:**
+- Capacità dell'impresa di esercitare maggiore potere sul mercato, con maggiori benefici, fruibili dai soli azionisti; sviluppo di una situazione di non fallibilità (too big to fail) -> protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza.
+- Interventi di tipo meccanicistico/ingegneristico; il business process reengineering comprende l'analisi del processo e delle sue fasi elementari, la scomposizione del processo (unbundling) e la ricomposizione del processo (reengineering).
+- Le maggiori dimensioni operative rendono possibile e conveniente l'impiego di sistemi tecnologici più innovativi; le tecnologie innovative sono più flessibili e si adattano meglio all'aumento delle dimensioni operative e dei volumi di produzione.
+
+**D:** ⚠️ Che cosa comporta la situazione di non fallibilità (too big to fail) che le dimensioni maggiori sviluppano, secondo la tabella della slide 12 della lezione 10?
+**R:** «Sviluppo di una situazione di non fallibilità (*too big to fail*) -> **protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza**» (slide 12, fra le convenienze della combinazione di stakeholder). La docente lo traduce «è troppo grande per fallire»: con l'aumento della dimensione «c'è sicuramente meno rischio di fallimento» e «una specie di protezione, di eventuale anche salvataggio, da parte dello Stato e di autorità di vigilanza» ([00:25:33]–[00:26:07]). ⚠️ Due soggetti: lo **Stato** e le **Autorità di Vigilanza**.
+**Opzione:** Protezione ed eventuale salvataggio da parte dello Stato e Autorità di Vigilanza.
+**Distrattori:**
+- Protezione ed eventuale salvataggio da parte degli azionisti e dei sindacati.
+- Fabbisogno maggiore di capitale fisso + costo variabile minore per unità di prodotto.
+- Produce economie di scala, un abbassamento del livello dei costi unitari (per unità di prodotto), e genera il vantaggio competitivo.
+
+**D:** ⚠️ Quali effetti sinergici può determinare la combinazione delle 2 variabili nella modalità 4 della cost leadership, secondo la slide 13 della lezione 10?
+**R:** «La combinazioni delle 2 variabili **può** determinare **effetti sinergici amplificando il risultato** 1 – Le maggiori dimensioni operative rendono **possibile e conveniente** l'impiego di sistemi tecnologici più innovativi 2 – Le tecnologie innovative sono **più flessibili** e si adattano meglio all'**aumento** delle dimensioni operative e dei volumi di produzione» (slide 13, refuso «La combinazioni»). Per la docente la tecnologia è un fattore «facilitante, abilitante» la crescita dimensionale ([00:26:45]–[00:28:05]).
+**Opzione:** Le maggiori dimensioni operative rendono possibile e conveniente l'impiego di sistemi tecnologici più innovativi; le tecnologie innovative sono più flessibili e si adattano meglio all'aumento delle dimensioni operative e dei volumi di produzione.
+**Distrattori:**
+- Le maggiori dimensioni operative rendono possibile e conveniente l'impiego di sistemi tecnologici più innovativi; le tecnologie innovative sono più flessibili e si adattano meglio alla riduzione delle dimensioni operative e dei volumi di produzione.
+- Una situazione di eccedenza dei fattori produttivi tradizionali sostituiti dalle nuove tecnologie (es. il lavoro con minor contenuto professionale).
+- X-efficienza.
+
+**D:** ⚠️ A che cosa equivalgono le tecnologie innovative, in termini di capitale fisso e di costo variabile, secondo la slide 13 della lezione 10?
+**R:** «Tecnologie innovative = Fabbisogno **maggiore** di capitale **fisso** + Costo variabile **minore** per unità di prodotto» (slide 13). Per la docente servono investimenti per migliorare la tecnologia, ma poi il costo variabile di una singola unità diminuisce: bisogna sempre equilibrare costi fissi e costi variabili ([00:28:05]–[00:28:45]). ⚠️ Le due grandezze vanno in direzioni opposte.
+**Opzione:** Fabbisogno maggiore di capitale fisso + costo variabile minore per unità di prodotto.
+**Distrattori:**
+- Fabbisogno minore di capitale fisso + costo variabile minore per unità di prodotto.
+- Clienti.
+- Un fattore di stabilità e robustezza (autoprotezione dell'organismo aziendale).
+
+**D:** ⚠️ Che effetto genera l'aumento dei volumi di produzione con le tecnologie innovative, secondo la slide 13 della lezione 10?
+**R:** «L'aumento dei volumi di produzione (es. il numero delle transazioni) genera un **effetto maggiore di economie di costo** -> la diminuzione dei costi per unità di output è **maggiore, più rapida e si mantiene più a lungo nel tempo**» (slide 13). Per la docente la tecnologia aiuta a ridurre i costi perché riesce a supportare flussi maggiori, come il numero delle transazioni di un singolo intermediario ([00:28:45]–[00:29:22]).
+**Opzione:** Un effetto maggiore di economie di costo: la diminuzione dei costi per unità di output è maggiore, più rapida e si mantiene più a lungo nel tempo.
+**Distrattori:**
+- Un effetto maggiore di economie di costo: la diminuzione dei costi per unità di output è maggiore, più rapida ma si esaurisce più presto nel tempo.
+- La necessità e la preferenza di controparti di dimensioni adeguate.
+- Ambiente.
