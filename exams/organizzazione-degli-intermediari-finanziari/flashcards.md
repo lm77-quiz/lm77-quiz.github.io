@@ -2253,3 +2253,295 @@
 - La tecnologia Internet è un veicolo di un prodotto tradizionale (es. il conto corrente online) oppure è diventato un prodotto diverso? Sarà il prodotto ad incorporare la tecnologia o al contrario? Chi possiede le competenze fondamentali e critiche?
 - L'ICT può essere ancora classificata come un fattore produttivo oppure è diventato uno degli elementi di architettura portante dell'organizzazione produttiva e distributiva dell'intermediario del futuro?
 - Dai processi labour intensive ai processi technology intensive e technology driven.
+
+## Lezione 09 — Le strategie aziendali riferite alle singole aree strategiche di affari
+
+**D:** ⚠️ A che cosa è sempre rivolta la focalizzazione principale della strategia aziendale, secondo la slide 2 della lezione 09?
+**R:** «La focalizzazione principale della strategia aziendale è **sempre** rivolta a: • **Conservazione del vantaggio competitivo** • **Sviluppo delle capacità competitiva globale**» (slide 2, con il refuso). Per la docente ogni azienda deve performare in maniera competitiva **a lungo termine**, rimanere sostenibile e «sviluppare le capacità competitive a livello globale» ([00:00:46]–[00:01:08]). ⚠️ Il quantificatore è «sempre»: a variare, nella stessa slide, sono gli **obiettivi**, non la focalizzazione.
+**Opzione:** Alla conservazione del vantaggio competitivo e allo sviluppo delle capacità competitive globali.
+**Distrattori:**
+- Alla conservazione della quota di mercato e allo sviluppo delle capacità competitive globali.
+- Allo studio di strategie degli intermediari finanziari, soprattutto quelli che assumono prospettiva globale: operano in una pluralità di aree d'affari diverse, con strategie diversificate.
+- Elaborazione della strategia di business di una singola area d'affari; definizione e analisi di diverse aree d'affari; sviluppo delle strategie diversificate/di portafoglio.
+
+**D:** ⚠️ Quali obiettivi elenca la slide 2 della lezione 09, e come possono variare?
+**R:** «Gli obiettivi **possono variare** nelle diverse fasi dell'azione strategica secondo un **diverso ordine di priorità**: • Produzione di valore • Reddittività per l'azionista • Quota di mercato • Tasso di crescita dell'attività • *Cash flow* disponibile **ecc.**» (slide 2; l'elenco è **aperto**). Per la docente, prima di definire una strategia bisogna valutare il **ciclo di vita** dell'impresa, gli obiettivi principali, come sta performando, il livello di sviluppo ([00:01:14]–[00:01:59]). ⚠️ Varia l'**ordine di priorità** degli obiettivi, non la focalizzazione principale.
+**Opzione:** Produzione di valore, reddittività per l'azionista, quota di mercato, tasso di crescita dell'attività, cash flow disponibile ecc.: possono variare nelle diverse fasi dell'azione strategica secondo un diverso ordine di priorità.
+**Distrattori:**
+- Produzione di valore, reddittività per l'azionista, quota di mercato, tasso di crescita dell'attività, cash flow disponibile ecc.: restano gli stessi in tutte le fasi dell'azione strategica, con un ordine di priorità fisso.
+- Competenze, risorse e condizioni organizzative diverse e specifiche: la scelta può essere motivata non solo dall'ambiente competitivo, ma anche dalle risorse e competenze possedute (più o meno esclusive).
+- È attiva in diverse aree di affari: servizi di pagamento, servizi di custodia, servizi di investimento, servizi di finanziamento.
+
+**D:** ⚠️ Con che cosa si identificano nel lungo periodo tutti gli obiettivi dell'impresa, secondo il test della lezione 09 (domanda 1)?
+**R:** «**Produzione di valore**». È la slide 2 alla lettera: «Nel lungo periodo tutti gli obiettivi si identificano con la **produzione di valore** come fattore di continuità della competitività»; per la docente è «la cosa essenziale, più importante in assoluto per ogni obiettivo» ([00:01:59]). Distrattori del test: «competitività», «efficienza», «responsabilità sociale». ⚠️ La **competitività** è la trappola: nella slide 2 è ciò di cui la produzione di valore è **fattore di continuità**, e l'altra metà delle «condizioni necessarie e sufficienti». Efficienza e responsabilità sociale vengono dai profili di miglioramento delle funzionalità della **lezione 05** (slide 7: «Efficienza operativa e allocativa», «Affidabilità e responsabilità sociale»), dove c'è anche la «Competitività».
+**Opzione:** Produzione di valore.
+**Distrattori:**
+- Competitività.
+- Efficienza.
+- Responsabilità sociale.
+
+**D:** ⚠️ Che cosa sono competitività e produzione di valore, secondo la frase in maiuscolo della slide 2 della lezione 09?
+**R:** «COMPETITIVITA' E PRODUZIONE DI VALORE SONO **CONDIZIONI NECESSARIE E SUFFICIENTI** PER IL SUCCESSO DELLE STRATEGIE AZIENDALI!» (slide 2). La docente: «la competitività e produzione di valore sono condizioni necessarie e sufficienti per il successo della strategia aziendale»; soltanto producendo il valore l'impresa può rimanere sostenibile e garantirsi una **continuità della performance** ([00:02:09]–[00:02:38]). ⚠️ Il doppio quantificatore: necessarie **e** sufficienti.
+**Opzione:** Condizioni necessarie e sufficienti per il successo delle strategie aziendali.
+**Distrattori:**
+- Condizioni necessarie ma non sufficienti per il successo delle strategie aziendali.
+- Riduzione dell'elasticità della domanda, quindi diminuzione della sensibilità al prezzo.
+- In relazione a propria storia, esperienza, competenza, capacità di analisi.
+
+**D:** ⚠️ Che cosa comprende la produzione di valore per la banca sui mercati degli input, nello schema della slide 3 della lezione 09?
+**R:** Lo schema della «Relazione fondamentale tra le dimensioni fondamentali della competitività della banca» parte da «Produzione di valore per la banca» e ha due rami. **Sui mercati degli input**: «**Capacità di remunerazione competitiva dei fattori**», con cinque riquadri: «Capacità di debito», «Tecnologia», «Lavoro», «Professionalità tecnica e manageriale», «Capitale proprio» (slide 3). Per la docente il lavoro è il capitale umano, le risorse umane; il capitale proprio serve a trasformare l'input in output ([00:02:51]–[00:04:01]). ⚠️ Sugli output la capacità è l'altra, quella di **farsi remunerare** il valore degli output. Nel transcript la docente infila fra gli input anche «l'output, il prodotto, il servizio» ([00:03:39]): lo schema li mette sul ramo degli output.
+**Opzione:** La capacità di remunerazione competitiva dei fattori: capacità di debito, tecnologia, lavoro, professionalità tecnica e manageriale, capitale proprio.
+**Distrattori:**
+- La capacità di farsi remunerare il valore degli output: capacità di debito, tecnologia, lavoro, professionalità tecnica e manageriale, capitale proprio.
+- La scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, assumendo diverse combinazioni dei 3 archetipi di strategia.
+- Un carattere intrinseco di selettività, complementare con la competitività (si compete selettivamente).
+
+**D:** ⚠️ Che cosa comprende la produzione di valore per la banca sui mercati degli output, nello schema della slide 3 della lezione 09?
+**R:** **Sui mercati degli output**: «**Capacità di farsi remunerare il valore degli output**» → «Prodotti e servizi per le diverse funzioni d'uso» → «Pagamento, Finanziamento, Investimento, Gestione rischi, Assicurazione, Previdenza, Consulenza» (slide 3: sette funzioni, l'ultima è la consulenza). La docente: i prodotti e servizi sviluppati o erogati «per le diverse funzioni d'uso», «come pagamento, finanziamento, investimento, gestione dei rischi, assicurazione, previdenza o consulenza» ([00:04:01]–[00:04:38]). ⚠️ Sugli input la capacità è la **remunerazione competitiva dei fattori**. La slide 13 elenca le aree di una banca commerciale (pagamento, custodia, investimento, finanziamento): le due liste non coincidono.
+**Opzione:** La capacità di farsi remunerare il valore degli output: prodotti e servizi per le diverse funzioni d'uso (pagamento, finanziamento, investimento, gestione rischi, assicurazione, previdenza, consulenza).
+**Distrattori:**
+- La capacità di remunerazione competitiva dei fattori: prodotti e servizi per le diverse funzioni d'uso (pagamento, finanziamento, investimento, gestione rischi, assicurazione, previdenza, consulenza).
+- Competenze, risorse e condizioni organizzative diverse e specifiche: la scelta può essere motivata non solo dall'ambiente competitivo, ma anche dalle risorse e competenze possedute (più o meno esclusive).
+- Cost leadership: confronto diretto, strategia frontale; differenziazione e segmentazione: minore esposizione alla concorrenza di prezzo, il prodotto/servizio meno confrontabile, i concorrenti hanno meno opportunità di ingresso.
+
+**D:** ⚠️ Che cosa bisogna scegliere per mantenere la competitività in un ambiente competitivo caratterizzato dal cambiamento, secondo la slide 4 della lezione 09?
+**R:** «In un ambiente competitivo caratterizzato dal cambiamento, per mantenere la competitività, bisogna scegliere: • **Il posizionamento di mercato** preferibile: 1. la combinazione fra prodotti/servizi 2. Segmenti di mercato/clientela • **Il sistema di risorse** più idoneo per realizzarlo -> la combinazione di fattori necessaria e conveniente» (slide 4). Per la docente il posizionamento tiene conto di due fattori, la combinazione fra prodotti e servizi e i segmenti di mercato o la clientela a cui destinare il servizio; il sistema di risorse è «una specie di combinazione dei fattori necessari e convenienti» ([00:04:38]–[00:05:29]).
+**Opzione:** Il posizionamento di mercato preferibile (1. la combinazione fra prodotti/servizi; 2. segmenti di mercato/clientela) e il sistema di risorse più idoneo per realizzarlo (la combinazione di fattori necessaria e conveniente).
+**Distrattori:**
+- Il posizionamento di mercato preferibile (la combinazione di fattori necessaria e conveniente) e il sistema di risorse più idoneo per realizzarlo (1. la combinazione fra prodotti/servizi; 2. segmenti di mercato/clientela).
+- Cost leadership: accentuare il confronto concorrenziale, escludere concorrenti deboli; differenziazione e segmentazione: frammentare il mercato, creare barriere competitive, rendendo meno efficace la competenza sul prezzo.
+- Produzione di valore, reddittività per l'azionista, quota di mercato, tasso di crescita dell'attività, cash flow disponibile ecc.: possono variare nelle diverse fasi dell'azione strategica secondo un diverso ordine di priorità.
+
+**D:** ⚠️ Il posizionamento di mercato evoca la scelta del «_____» la strategia viene applicata: quale parola completa la frase, secondo il test della lezione 09 (domanda 2)?
+**R:** «**Dove**». È la slide 4 alla lettera: «Il posizionamento di mercato evoca la scelta del **"dove"** la strategia viene applicata (luoghi fisici e spazi virtuali)», e subito sotto «"Dove" = Area Strategica di Affari (ASA)». La docente: «evoca la scelta del dove la nostra strategia sarà applicata, sia a luoghi fisici, sia ai spazi virtuali» ([00:05:29]). Distrattori del test: «quando», «come», «perché». In nessuna slide del corso (01–30) e in nessun transcript disponibile (01–20) «come», «quando» o «perché» compaiono come oggetto di una scelta: si scartano perché il «dove» è l'unico interrogativo di **luogo**, e il luogo è l'ASA.
+**Opzione:** Dove.
+**Distrattori:**
+- Quando.
+- Come.
+- Perché.
+
+**D:** ⚠️ Quali luoghi comprende la scelta evocata dal posizionamento di mercato, e a che cosa corrisponde il «dove», secondo la slide 4 della lezione 09?
+**R:** «Il posizionamento di mercato evoca la scelta del "dove" la strategia viene applicata (**luoghi fisici e spazi virtuali**)»; «"Dove" = **Area Strategica di Affari (ASA)**» (slide 4). Per la docente la tecnologia modifica il concetto di tempo e di spazio, quindi «lo spazio può essere variabile»; il dove «si riferisce principalmente all'area strategica di affari o cosiddetta ASA» ([00:05:29]–[00:06:14]). ⚠️ Due assi: i luoghi sono **anche** virtuali, e il dove è l'**ASA**, non il solo segmento di clientela.
+**Opzione:** Luoghi fisici e spazi virtuali; il dove è l'Area Strategica di Affari (ASA).
+**Distrattori:**
+- Solo luoghi fisici; il dove è l'Area Strategica di Affari (ASA).
+- Luoghi fisici e spazi virtuali; il dove è il segmento di mercato/clientela.
+- Solo luoghi fisici; il dove è il segmento di mercato/clientela.
+
+**D:** ⚠️ Come definisce l'ASA la slide 4 della lezione 09?
+**R:** «L'ASA è una situazione dove la combinazione fra **prodotti, segmenti di mercato e sistema di risorse** presenta **relazioni interne strette e distintive**, tali da giustificare un **approccio Imprenditoriale e strategico specifico**» (slide 4). La docente: le tre variabili sono i **prodotti** (l'offerta dell'intermediario), i **segmenti di mercato** (la domanda, il mercato di riferimento) e il **sistema di risorse**, cioè le risorse per trasformare gli input in output e soddisfare i bisogni dei mercati di riferimento ([00:06:14]–[00:07:14]). ⚠️ Le relazioni sono **interne**, e l'approccio che giustificano è **specifico**.
+**Opzione:** Una situazione dove la combinazione fra prodotti, segmenti di mercato e sistema di risorse presenta relazioni interne strette e distintive, tali da giustificare un approccio imprenditoriale e strategico specifico.
+**Distrattori:**
+- Una situazione dove la combinazione fra prodotti, segmenti di mercato e sistema di risorse presenta relazioni esterne strette e distintive, tali da giustificare un approccio imprenditoriale e strategico specifico.
+- Differenziazione del prodotto, rispetto all'offerta dei concorrenti, in modo da ottenere, indipendentemente dai costi, maggiore preferenza di acquisto da parte dei clienti, e quindi maggiori ricavi unitari.
+- Costi: leadership dei costi; ricavi: strategia di differenziazione; posizionamento di mercato: strategia di segmentazione e di posizionamento.
+
+**D:** ⚠️ Come si definisce genericamente l'area strategica di affari, e che limite ha questa definizione, secondo la slide 5 della lezione 09?
+**R:** «Area strategica di affari: • Genericamente si definisce come attività bancarie: *retail, wholesale, private, corporate* ecc. (…**troppo generiche** per essere definite l'ASA)» (slide 5). La docente: per definire l'ASA servono le tre variabili, prodotto, segmento e risorse ([00:07:14]–[00:07:58]); il transcript le fa dire «abbastanza generiche per essere definite proprio come vera e propria ASA» ([00:07:33]), ma subito dopo spiega che non bastano. ⚠️ Nella **lezione 05** (slide 14) la strategia di business riguarda proprio «un campo relativamente omogeneo di attività: corporate banking, private banking, retail banking, Internet banking ecc.».
+**Opzione:** Come attività bancarie (retail, wholesale, private, corporate ecc.), troppo generiche per essere definite l'ASA.
+**Distrattori:**
+- Come attività bancarie (retail, wholesale, private, corporate ecc.), sufficientemente specifiche per essere definite l'ASA.
+- Una modalità di innovazione del prodotto/servizio, senza modificarne la funzione d'uso principale.
+- Possono combinarsi tra loro e quindi non sono reciprocamente escludibili.
+
+**D:** ⚠️ In relazione a che cosa nasce, dal concetto di strategia, la necessità di costruire una propria ASA, secondo la slide 5 della lezione 09?
+**R:** «Dal concetto di strategia nasce la necessità di costruire una propria ASA, in relazione a: • **Propria storia** • **Esperienza** • **Competenza** • **Capacità di analisi**» (slide 5: quattro voci, l'ultima è la capacità di analisi). La docente allarga l'elenco: «alla propria storia aziendale, alla cultura, all'esperienza, al background, alle competenze che possediamo, alla capacità di analisi dell'impresa, delle nostre figure professionali, delle nostre risorse umane» ([00:07:58]).
+**Opzione:** In relazione a propria storia, esperienza, competenza, capacità di analisi.
+**Distrattori:**
+- In relazione a propria storia, esperienza, competenza, quota di mercato.
+- Possono combinarsi tra loro e quindi non sono reciprocamente escludibili.
+- Riduzione dell'elasticità della domanda, quindi diminuzione della sensibilità al prezzo.
+
+**D:** ⚠️ Che banca è Dexia BIL, e quale ASA ha definito, secondo la slide 5 della lezione 09?
+**R:** «Dexia BIL – **banca internazionale di origine belga** • L'ASA: **credito agli enti pubblici locali**»; «Rabobank – **banca olandese a struttura cooperativa** con una grande presenza all'estero • L'ASA – **agribusiness**» (slide 5). Per la docente (il transcript scrive «Dexia Bill») l'offerta di Dexia è il **credito** e il segmento sono gli **enti pubblici locali**; il segmento di Rabobank è il **settore agricolo**, gli imprenditori agricoli. Così l'ASA è definita «in maniera più approfondita» di retail, wholesale, private ([00:08:23]–[00:09:38]). ⚠️ Due banche e due ASA: una matrice 2×2.
+**Opzione:** Banca internazionale di origine belga; ASA: credito agli enti pubblici locali.
+**Distrattori:**
+- Banca internazionale di origine belga; ASA: agribusiness.
+- Banca olandese a struttura cooperativa con una grande presenza all'estero; ASA: credito agli enti pubblici locali.
+- Banca olandese a struttura cooperativa con una grande presenza all'estero; ASA: agribusiness.
+
+**D:** ⚠️ Che carattere ha la strategia in quanto scelta, secondo la frase in grassetto della slide 5 della lezione 09?
+**R:** «**STRATEGIA = SCELTA**, ha un carattere intrinseco di **selettività**, **complementare** con la competitività (**si compete selettivamente**)» (slide 5). Per la docente sono le due facce della medaglia: da una parte la selettività, preferire un'alternativa a un'altra in base alle analisi; dall'altra la necessità di rimanere competitivi, di conservare il vantaggio competitivo. Definendo la strategia si selezionano anche i **concorrenti** che si troveranno nel proprio settore ([00:09:38]–[00:10:45]).
+**Opzione:** Un carattere intrinseco di selettività, complementare con la competitività (si compete selettivamente).
+**Distrattori:**
+- Un carattere intrinseco di selettività, incompatibile con la competitività (si sceglie senza competere).
+- Come attività bancarie (retail, wholesale, private, corporate ecc.), troppo generiche per essere definite l'ASA.
+- Luoghi fisici e spazi virtuali; il dove è l'Area Strategica di Affari (ASA).
+
+**D:** ⚠️ Quale tipo di strategia corrisponde a ciascuno dei tre principali focus per la definizione della strategia, secondo la slide 6 della lezione 09?
+**R:** Lo schema della slide 6 affianca il «Principale focus per la definizione della strategia» e i «Tipi di strategia»: **Costi** → **Leadership dei costi**; **Ricavi** → **Strategia di differenziazione**; **Posizionamento di mercato** → **Strategia di segmentazione e di posizionamento**. Per la docente il focus sui ricavi è quello su «il profitto, la reddittività» ([00:10:45]–[00:11:49]). ⚠️ La terza strategia è **una sola**, «di segmentazione **e** di posizionamento»: il test (domande 3–5) la spezza in due opzioni. ⚠️ Nella tabella della slide 11 il focus della differenziazione e della segmentazione è la «ricerca di un posizionamento di mercato favorevole», quello della cost leadership il «prezzo».
+**Opzione:** Costi: leadership dei costi; ricavi: strategia di differenziazione; posizionamento di mercato: strategia di segmentazione e di posizionamento.
+**Distrattori:**
+- Costi: strategia di differenziazione; ricavi: leadership dei costi; posizionamento di mercato: strategia di segmentazione e di posizionamento.
+- Costi: strategia di segmentazione e di posizionamento; ricavi: strategia di differenziazione; posizionamento di mercato: leadership dei costi.
+
+**D:** ⚠️ Che cosa dice la slide 6 della lezione 09 del rapporto fra i tre tipi di strategia?
+**R:** «Possono combinarsi tra loro e quindi **non** sono reciprocamente "**escludibili**"» (slide 6). La docente: lo stesso intermediario finanziario «può benissimo abbinare tutti o alcuni tipi di strategia» nel proprio operato ([00:11:49]–[00:12:14]). È la premessa del **modello di business**, che assume «diverse combinazioni dei 3 archetipi di strategia» (slide 10).
+**Opzione:** Possono combinarsi tra loro e quindi non sono reciprocamente escludibili.
+**Distrattori:**
+- Non possono combinarsi tra loro e quindi sono reciprocamente escludibili.
+- Condizioni necessarie e sufficienti per il successo delle strategie aziendali.
+- In relazione a propria storia, esperienza, competenza, capacità di analisi.
+
+**D:** ⚠️ Quale strategia consiste nel conseguimento di livelli dei costi unitari inferiori a quelli dei concorrenti, dato un certo standard o benchmark di qualità offerta e percepibile, secondo il test della lezione 09 (domanda 3)?
+**R:** «**Strategia di leadership dei costi**». È la slide 7 alla lettera, senza la parentesi: «1 - Strategia di leadership dei costi: • Conseguimento di livelli dei costi unitari (**per unita di prodotto**) inferiori a quelli dei concorrenti, dato un certo standard o *benchmark* di qualità offerta e percepibile»; la docente la legge identica ([00:12:14]–[00:12:37]). Distrattori del test: «strategia di differenziazione», «strategia di segmentazione», «strategia di posizionamento». ⚠️ La stessa batteria torna nella domanda 4 con la chiave sulla differenziazione: la domanda è **dove sta** la definizione. Segmentazione e posizionamento sono **una sola** strategia nelle slide 6 e 8.
+**Opzione:** Strategia di leadership dei costi.
+**Distrattori:**
+- Strategia di differenziazione.
+- Strategia di segmentazione.
+- Strategia di posizionamento.
+
+**D:** ⚠️ Qual è la leva competitiva principale della strategia di leadership dei costi, e quale quella della strategia di differenziazione, secondo le slide 7 e 8 della lezione 09?
+**R:** Leadership dei costi: «La leva competitiva principale è la **diminuzione del costo unitario** che consente di Praticare **prezzi competitivi**» (slide 7). Differenziazione: «La leva competitiva principale è l'**identità del prodotto**» (slide 8). Per la docente i prezzi più competitivi «possono essere preferiti dai clienti del nostro mercato di riferimento» ([00:12:37]); nella differenziazione i costi «non è l'elemento prioritario» ([00:13:43]). ⚠️ La direzione: dalla diminuzione del costo unitario ai prezzi competitivi, non il contrario.
+**Opzione:** Leadership dei costi: la diminuzione del costo unitario, che consente di praticare prezzi competitivi; differenziazione: l'identità del prodotto.
+**Distrattori:**
+- Leadership dei costi: l'identità del prodotto; differenziazione: la diminuzione del costo unitario, che consente di praticare prezzi competitivi.
+- Identificare e scegliere sottoinsiemi di clienti (segmenti di domanda) rispetto ai quali l'impresa ha concreti vantaggi competitivi.
+- Alla conservazione del vantaggio competitivo e allo sviluppo delle capacità competitive globali.
+
+**D:** ⚠️ Quale strategia si basa sull'ottenimento della «preferenza di acquisto» da parte dei clienti indipendentemente dai costi, secondo il test della lezione 09 (domanda 4)?
+**R:** «**Strategia di differenziazione**». La slide 8: «2 - Strategia di differenziazione: • Differenziazione del prodotto, rispetto all'offerta dei concorrenti, in modo da ottenere – **Indipendentemente dai costi** – maggiore "**preferenza di acquisto**" da parte dei clienti -> maggiori ricavi unitari»; la docente: «in modo da ottenere indipendentemente dai costi maggiore preferenza di acquisto da parte dei clienti» ([00:13:00]). La domanda riformula la slide. Distrattori del test: «strategia di leadership dei costi», «strategia di segmentazione», «strategia di posizionamento». ⚠️ Le parole che decidono sono «**indipendentemente dai costi**»: la **lezione 12** (slide 2) lega anche la segmentazione a una «maggiore preferenza d'acquisto».
+**Opzione:** Strategia di differenziazione.
+**Distrattori:**
+- Strategia di leadership dei costi.
+- Strategia di segmentazione.
+- Strategia di posizionamento.
+
+**D:** ⚠️ Come definisce la strategia di differenziazione la slide 8 della lezione 09?
+**R:** «Differenziazione del prodotto, **rispetto all'offerta dei concorrenti**, in modo da ottenere – **Indipendentemente dai costi** – maggiore "preferenza di acquisto" da parte dei clienti -> **maggiori ricavi unitari**» (slide 8). Per la docente si alimenta la preferenza dei consumatori con una definizione più precisa e dettagliata del prodotto che il cliente si aspetta, «indipendentemente come abbiamo visto dai costi» ([00:13:00]–[00:13:52]). ⚠️ L'esito sono maggiori **ricavi** unitari, coerenti con il focus «Ricavi» della slide 6; i **costi** unitari sono il terreno della leadership dei costi.
+**Opzione:** Differenziazione del prodotto, rispetto all'offerta dei concorrenti, in modo da ottenere, indipendentemente dai costi, maggiore preferenza di acquisto da parte dei clienti, e quindi maggiori ricavi unitari.
+**Distrattori:**
+- Differenziazione del prodotto, rispetto all'offerta dei concorrenti, in modo da ottenere, indipendentemente dai costi, maggiore preferenza di acquisto da parte dei clienti, e quindi minori costi unitari.
+- Il posizionamento di mercato preferibile (1. la combinazione fra prodotti/servizi; 2. segmenti di mercato/clientela) e il sistema di risorse più idoneo per realizzarlo (la combinazione di fattori necessaria e conveniente).
+- Una situazione dove la combinazione fra prodotti, segmenti di mercato e sistema di risorse presenta relazioni interne strette e distintive, tali da giustificare un approccio imprenditoriale e strategico specifico.
+
+**D:** ⚠️ Che cosa produce la strategia di differenziazione sulla domanda, secondo la slide 8 della lezione 09?
+**R:** «**Riduzione** dell'elasticità della domanda -> **diminuzione** della sensibilità al prezzo» (slide 8). Per la docente, poiché i costi non sono la considerazione primaria, il prodotto può costare di più: bisogna cercare i clienti che lo preferiscono «nonostante il prezzo», e la riduzione dell'elasticità della domanda è «un obiettivo molto importante» per chi applica la differenziazione ([00:13:52]–[00:14:54]). ⚠️ Due parole di direzione, entrambe in diminuzione.
+**Opzione:** Riduzione dell'elasticità della domanda, quindi diminuzione della sensibilità al prezzo.
+**Distrattori:**
+- Aumento dell'elasticità della domanda, quindi aumento della sensibilità al prezzo.
+- Effetto legacy.
+- Un carattere intrinseco di selettività, complementare con la competitività (si compete selettivamente).
+
+**D:** ⚠️ Che cos'è la differenziazione in termini di innovazione, secondo la slide 8 della lezione 09?
+**R:** «La differenziazione è una modalità di **innovazione del prodotto/servizio**, **senza modificarne la funzione d'uso principale**» (slide 8). Per la docente la funzione d'uso «rimane sempre la stessa»: cambiando o innovando qualche caratteristica del prodotto o del servizio si cerca di farlo percepire al cliente come di **maggiore qualità** ([00:14:54]–[00:15:34]).
+**Opzione:** Una modalità di innovazione del prodotto/servizio, senza modificarne la funzione d'uso principale.
+**Distrattori:**
+- Una modalità di innovazione del prodotto/servizio, che ne modifica la funzione d'uso principale.
+- Luoghi fisici e spazi virtuali; il dove è l'Area Strategica di Affari (ASA).
+- Elaborazione della strategia di business di una singola area d'affari; definizione e analisi di diverse aree d'affari; sviluppo delle strategie diversificate/di portafoglio.
+
+**D:** ⚠️ Che cosa vuol dire segmentare, secondo la slide 8 della lezione 09?
+**R:** «3 - Strategia di segmentazione e di posizionamento: Segmentare = **identificare e scegliere** sottoinsiemi di clienti (**segmenti di domanda**) rispetto ai quali **l'impresa** ha **concreti vantaggi competitivi**» (slide 8). Per la docente non ci si rivolge a tutta la popolazione, a tutto il mercato, ma ad alcuni segmenti prioritari da preferire ad altri ([00:15:34]–[00:16:18]). ⚠️ I segmenti sono **di domanda** (clienti), e i vantaggi competitivi sono **dell'impresa**.
+**Opzione:** Identificare e scegliere sottoinsiemi di clienti (segmenti di domanda) rispetto ai quali l'impresa ha concreti vantaggi competitivi.
+**Distrattori:**
+- Identificare e scegliere sottoinsiemi di clienti (segmenti di domanda) rispetto ai quali i concorrenti hanno concreti vantaggi competitivi.
+- La scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, assumendo diverse combinazioni dei 3 archetipi di strategia.
+- Non devono necessariamente conformarsi allo stesso modello di strategia (es. strategia di differenziazione compete con strategia di cost leadership).
+
+**D:** ⚠️ Che cosa dice la slide 9 della lezione 09 dei concorrenti che operano nello stesso ambiente competitivo?
+**R:** «Nello stesso ambiente competitivo i concorrenti **non devono necessariamente conformarsi** allo stesso "modello" di strategia (es. strategia di differenziazione compete con strategia di *cost leadership*)» (slide 9). Per la docente imprese che sembrano concorrenti possono seguire strategie diverse e raggiungere il vantaggio competitivo con elementi e caratteristiche diversi ([00:16:18]–[00:16:56]).
+**Opzione:** Non devono necessariamente conformarsi allo stesso modello di strategia (es. strategia di differenziazione compete con strategia di cost leadership).
+**Distrattori:**
+- Devono necessariamente conformarsi allo stesso modello di strategia (es. strategia di differenziazione compete solo con strategia di differenziazione).
+- Una modalità di innovazione del prodotto/servizio, senza modificarne la funzione d'uso principale.
+- Allo studio di strategie degli intermediari finanziari, soprattutto quelli che assumono prospettiva globale: operano in una pluralità di aree d'affari diverse, con strategie diversificate.
+
+**D:** ⚠️ Che cosa richiede ogni strategia, e da che cosa può essere motivata la scelta, secondo la slide 9 della lezione 09?
+**R:** «**Ogni strategia richiede competenze, risorse e condizioni organizzative** diverse e "specifiche": la scelta può essere motivata **non solo** dall'ambiente competitivo, **ma anche** dalle risorse e competenze possedute (più o meno "esclusive")» (slide 9). La docente richiama il paradigma ambiente-strategia-struttura: la strategia, seconda variabile, è condizionata **da entrambe** le altre, l'ambiente (generale, specifico, i concorrenti, le forze di Michael Porter) e la struttura organizzativa con le risorse possedute ([00:16:56]–[00:18:08]).
+**Opzione:** Competenze, risorse e condizioni organizzative diverse e specifiche: la scelta può essere motivata non solo dall'ambiente competitivo, ma anche dalle risorse e competenze possedute (più o meno esclusive).
+**Distrattori:**
+- Competenze, risorse e condizioni organizzative diverse e specifiche: la scelta può essere motivata solo dall'ambiente competitivo, non dalle risorse e competenze possedute.
+- Produzione di valore, reddittività per l'azionista, quota di mercato, tasso di crescita dell'attività, cash flow disponibile ecc.: possono variare nelle diverse fasi dell'azione strategica secondo un diverso ordine di priorità.
+- La capacità di farsi remunerare il valore degli output: prodotti e servizi per le diverse funzioni d'uso (pagamento, finanziamento, investimento, gestione rischi, assicurazione, previdenza, consulenza).
+
+**D:** ⚠️ Da che cosa dipende l'applicabilità della strategia, secondo la slide 9 della lezione 09?
+**R:** «L'applicabilità della strategia dipende da: • La **sensibilità del segmento di clientela** al bilanciamento **qualità-prezzo** • La possibilità tecnica di differenziare il prodotto **oggettivamente**, in modo **soggettivamente percepibile** • La possibilità che il **processo retrostante** al prodotto/servizio sia idoneo a produrre **economie di costo** (deve essere **standardizzabile, ripetibile e industrializzabile**)» (slide 9). Per la docente il cliente deve percepire il vantaggio competitivo offerto e i cambiamenti apportati al prodotto; e un'impresa profit, anche se in misura minore, deve aver cura del costo ([00:18:08]–[00:19:57]). ⚠️ «Oggettivamente» è il differenziare, «soggettivamente» il percepire.
+**Opzione:** Dalla sensibilità del segmento di clientela al bilanciamento qualità-prezzo; dalla possibilità tecnica di differenziare il prodotto oggettivamente, in modo soggettivamente percepibile; dalla possibilità che il processo retrostante al prodotto/servizio sia idoneo a produrre economie di costo (deve essere standardizzabile, ripetibile e industrializzabile).
+**Distrattori:**
+- Dalla sensibilità del segmento di clientela al bilanciamento qualità-prezzo; dalla possibilità tecnica di differenziare il prodotto oggettivamente, in modo soggettivamente percepibile; dalla possibilità che il processo retrostante al prodotto/servizio sia idoneo a produrre economie di costo (deve essere standardizzabile, ripetibile e personalizzabile).
+- Cost leadership: confronto diretto, strategia frontale; differenziazione e segmentazione: minore esposizione alla concorrenza di prezzo, il prodotto/servizio meno confrontabile, i concorrenti hanno meno opportunità di ingresso.
+- La capacità di remunerazione competitiva dei fattori: capacità di debito, tecnologia, lavoro, professionalità tecnica e manageriale, capitale proprio.
+
+**D:** ⚠️ Come si chiama la scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, secondo il test della lezione 09 (domanda 5)?
+**R:** «**Modello di business**». È la slide 10 alla lettera: «Il modello di business è la scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, assumendo diverse combinazioni dei 3 archetipi di strategia» (la piattaforma scrive «specificae»); la docente lo introduce come «il concetto di business model» ([00:19:57]–[00:20:25]). Distrattori del test: «posizionamento», «segmentazione», «differenziazione», cioè le strategie che il modello di business **combina**: sono i suoi ingredienti, non la scelta concreta.
+**Opzione:** Modello di business.
+**Distrattori:**
+- Posizionamento.
+- Segmentazione.
+- Differenziazione.
+
+**D:** ⚠️ Come definisce il modello di business la slide 10 della lezione 09?
+**R:** «Il concetto di "business model": Il modello di business è la **scelta concreta** di strategia rispetto alla **singola, specifica e reale** Area Strategica di Affari, assumendo **diverse combinazioni dei 3 archetipi** di strategia» (slide 10; il transcript scrive «architipi»). Per la docente definire il business model vuol dire capire qual è la combinazione giusta che permette di produrre valore «sia per il mercato sia anche per noi» ([00:20:05]–[00:20:41]). ⚠️ I tre archetipi sono le strategie della slide 6, che «possono combinarsi tra loro».
+**Opzione:** La scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, assumendo diverse combinazioni dei 3 archetipi di strategia.
+**Distrattori:**
+- La scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari, assumendo uno solo dei 3 archetipi di strategia.
+- È attiva in diverse aree di affari: servizi di pagamento, servizi di custodia, servizi di investimento, servizi di finanziamento.
+- Leadership dei costi: la diminuzione del costo unitario, che consente di praticare prezzi competitivi; differenziazione: l'identità del prodotto.
+
+**D:** ⚠️ Nell'esempio del trasporto aereo della slide 10 della lezione 09, quali sono l'ASA, il modello di business e le strategie?
+**R:** «Es. di un'altra *industry* (trasporto aereo): • L'ASA: il **servizio aereo di trasporto passeggeri** • Modello di business: ***low cost*** – l'offerta con l'elemento della **competitività del prezzo** • Strategia: • *Cost leadership* • **Differenziazione** (diverse condizioni di **fruibilità** di servizio) • **Segmentazione** (non tutti i segmenti sono sensibili a questo tipo di offerta)» (slide 10). Per la docente l'ASA definisce sia l'offerta, il trasporto, sia la domanda, i passeggeri ([00:20:41]–[00:21:23]); nel transcript la fruibilità diventa «probabilità di servizio» ([00:22:50]). ⚠️ Ogni parentesi va con la sua strategia.
+**Opzione:** ASA: il servizio aereo di trasporto passeggeri; modello di business: low cost, l'offerta con l'elemento della competitività del prezzo; strategia: cost leadership, differenziazione (diverse condizioni di fruibilità di servizio), segmentazione (non tutti i segmenti sono sensibili a questo tipo di offerta).
+**Distrattori:**
+- ASA: il servizio aereo di trasporto passeggeri; modello di business: low cost, l'offerta con l'elemento della competitività del prezzo; strategia: cost leadership, differenziazione (non tutti i segmenti sono sensibili a questo tipo di offerta), segmentazione (diverse condizioni di fruibilità di servizio).
+- Una situazione dove la combinazione fra prodotti, segmenti di mercato e sistema di risorse presenta relazioni interne strette e distintive, tali da giustificare un approccio imprenditoriale e strategico specifico.
+- Non devono necessariamente conformarsi allo stesso modello di strategia (es. strategia di differenziazione compete con strategia di cost leadership).
+
+**D:** Perché, per la docente, il modello low cost del trasporto aereo combina la cost leadership con la differenziazione e la segmentazione?
+**R:** **Cost leadership**: il modello punta a fare profitto con i **costi contenuti**, quindi bisogna analizzare con attenzione «la composizione, la struttura dei nostri costi» ([00:21:23]–[00:22:17]). **Differenziazione**: nonostante il costo contenuto, chi ha viaggiato con una compagnia low cost sa che il servizio erogato si può **personalizzare**, e può essere diverso in base al segmento servito ([00:22:30]–[00:23:08]). **Segmentazione**: non tutti i segmenti della clientela sono sensibili all'offerta low cost, c'è chi non ha mai fatto un viaggio di questo tipo perché non corrisponde alle sue aspettative e preferenze, quindi l'offerta sarà sfruttata soltanto da un segmento del mercato dei clienti potenziali ([00:23:08]–[00:23:56]). È «una specie di mix» all'interno dello stesso modello di business ([00:22:17]; slide 10).
+
+**D:** ⚠️ Qual è il focus/vantaggio competitivo della cost leadership, e quale quello della differenziazione e della segmentazione, nella tabella della slide 11 della lezione 09?
+**R:** «La differenza tra la strategia di *cost leadership* e le altre»: Focus/vantaggio competitivo — *Cost leadership*: «**Prezzo**»; Differenziazione, Segmentazione: «**Ricerca di un posizionamento di mercato favorevole ("protetto")**» (slide 11). Per la docente con differenziazione e segmentazione si crea un prodotto abbastanza specifico perché la competizione non sia così diretta, o almeno non si competa soltanto sul prezzo ([00:23:56]–[00:25:20]). ⚠️ Nella slide 6 il focus della differenziazione sono i «Ricavi», e il «posizionamento di mercato» è il focus della sola strategia di segmentazione e di posizionamento.
+**Opzione:** Cost leadership: prezzo; differenziazione e segmentazione: ricerca di un posizionamento di mercato favorevole (protetto).
+**Distrattori:**
+- Cost leadership: ricerca di un posizionamento di mercato favorevole (protetto); differenziazione e segmentazione: prezzo.
+- Banca internazionale di origine belga; ASA: credito agli enti pubblici locali.
+- Condizioni necessarie e sufficienti per il successo delle strategie aziendali.
+
+**D:** ⚠️ Com'è l'esposizione alla concorrenza della cost leadership, e quella della differenziazione e della segmentazione, nella tabella della slide 11 della lezione 09?
+**R:** Esposizione alla concorrenza — *Cost leadership*: «**Confronto diretto**, strategia "**frontale**"»; Differenziazione, Segmentazione: «**Minore** esposizione alla concorrenza di prezzo, Il prodotto/servizio **meno confrontabile**, I concorrenti hanno **meno opportunità di ingresso**» (slide 11). La docente: con la cost leadership il cliente guarda il prezzo, e gli strumenti online (travel agencies, metasearch, i siti che confrontano i **mutui**) rendono il confronto «ancora più diretto»; con differenziazione e segmentazione il prodotto è più specifico, più personalizzato ([00:25:20]–[00:27:07]).
+**Opzione:** Cost leadership: confronto diretto, strategia frontale; differenziazione e segmentazione: minore esposizione alla concorrenza di prezzo, il prodotto/servizio meno confrontabile, i concorrenti hanno meno opportunità di ingresso.
+**Distrattori:**
+- Cost leadership: confronto diretto, strategia frontale; differenziazione e segmentazione: minore esposizione alla concorrenza di prezzo, il prodotto/servizio meno confrontabile, i concorrenti hanno più opportunità di ingresso.
+- Il posizionamento di mercato preferibile (1. la combinazione fra prodotti/servizi; 2. segmenti di mercato/clientela) e il sistema di risorse più idoneo per realizzarlo (la combinazione di fattori necessaria e conveniente).
+- La capacità di remunerazione competitiva dei fattori: capacità di debito, tecnologia, lavoro, professionalità tecnica e manageriale, capitale proprio.
+
+**D:** ⚠️ Qual è l'effetto della strategia di cost leadership, e quello della differenziazione e della segmentazione, nella tabella della slide 11 della lezione 09?
+**R:** Effetto della strategia — *Cost leadership*: «**Accentuare** il confronto concorrenziale, **escludere concorrenti deboli**»; Differenziazione, Segmentazione: «**Frammentare** il mercato, **creare barriere** competitive, rendendo **meno efficace** la competenza sul prezzo» (slide 11; anche la docente dice «competenza»). Per la docente con la cost leadership si «stressa» il prezzo perché i concorrenti deboli escano dal mercato, e la concorrenza «diventa minore»; con le altre due il cliente preferisce il prodotto perché lo ritiene di più alta qualità ([00:27:07]–[00:28:11]).
+**Opzione:** Cost leadership: accentuare il confronto concorrenziale, escludere concorrenti deboli; differenziazione e segmentazione: frammentare il mercato, creare barriere competitive, rendendo meno efficace la competenza sul prezzo.
+**Distrattori:**
+- Cost leadership: accentuare il confronto concorrenziale, escludere concorrenti deboli; differenziazione e segmentazione: frammentare il mercato, abbattere le barriere competitive, rendendo meno efficace la competenza sul prezzo.
+- La capacità di farsi remunerare il valore degli output: prodotti e servizi per le diverse funzioni d'uso (pagamento, finanziamento, investimento, gestione rischi, assicurazione, previdenza, consulenza).
+- Come attività bancarie (retail, wholesale, private, corporate ecc.), troppo generiche per essere definite l'ASA.
+
+**D:** ⚠️ Che tipo di strategie sono cost leadership, differenziazione e segmentazione, e da quali criteri è definita l'area di affari a cui sono focalizzate, secondo la slide 12 della lezione 09?
+**R:** «Le strategie di *cost leadership*, differenziazione e segmentazione sono **tipicamente strategie di business** -> focalizzate alla **SINGOLA AREA DI AFFARI** definita da criteri di: • Relativa omogeneità **del bisogno** da soddisfare • Relativa omogeneità (**equivalenza di funzione d'uso**) **dei prodotti e servizi** mirati a soddisfare quel bisogno • Relativa omogeneità **dei sistemi di produzione** per quel prodotto e **di distribuzione** per quei clienti» (slide 12). Per la docente l'area strategica di affari ha dei confini, e al suo interno c'è omogeneità per i clienti, per il prodotto e per la tecnologia di produzione o di erogazione e di distribuzione ([00:28:11]–[00:29:26]). ⚠️ Tre criteri, tutti di omogeneità **relativa**.
+**Opzione:** Tipicamente strategie di business, focalizzate alla singola area di affari definita da criteri di: relativa omogeneità del bisogno da soddisfare; relativa omogeneità (equivalenza di funzione d'uso) dei prodotti e servizi mirati a soddisfare quel bisogno; relativa omogeneità dei sistemi di produzione per quel prodotto e di distribuzione per quei clienti.
+**Distrattori:**
+- Tipicamente strategie di portafoglio, focalizzate al portafoglio di aree di affari definito da criteri di: relativa omogeneità del bisogno da soddisfare; relativa omogeneità (equivalenza di funzione d'uso) dei prodotti e servizi mirati a soddisfare quel bisogno; relativa omogeneità dei sistemi di produzione per quel prodotto e di distribuzione per quei clienti.
+- Identificare e scegliere sottoinsiemi di clienti (segmenti di domanda) rispetto ai quali l'impresa ha concreti vantaggi competitivi.
+- Alla conservazione del vantaggio competitivo e allo sviluppo delle capacità competitive globali.
+
+**D:** ⚠️ A che cosa è propedeutica l'attenzione alle strategie di business, secondo la slide 13 della lezione 09?
+**R:** «L'attenzione alle strategia di business è **propedeutica** allo studio di strategie degli intermediari finanziari, soprattutto quelli che assumono **prospettiva globale** -> operano in una **pluralità di aree d'affari diverse** -> strategie "**diversificate**"» (slide 13, refuso «alle strategia»). La docente: delle strategie diversificate «parleremo… nelle lezioni successive»; una banca può avere diverse aree strategiche di affari e per ognuna definire strategie di business differenti ([00:29:26]–[00:30:07]).
+**Opzione:** Allo studio di strategie degli intermediari finanziari, soprattutto quelli che assumono prospettiva globale: operano in una pluralità di aree d'affari diverse, con strategie diversificate.
+**Distrattori:**
+- Allo studio di strategie degli intermediari finanziari, soprattutto quelli che assumono prospettiva locale: operano in una sola area d'affari, con strategie specializzate.
+- Cost leadership: accentuare il confronto concorrenziale, escludere concorrenti deboli; differenziazione e segmentazione: frammentare il mercato, creare barriere competitive, rendendo meno efficace la competenza sul prezzo.
+- Leadership dei costi: la diminuzione del costo unitario, che consente di praticare prezzi competitivi; differenziazione: l'identità del prodotto.
+
+**D:** ⚠️ Che cosa dice la slide 13 della lezione 09 della stessa banca commerciale o di deposito?
+**R:** «La stessa banca commerciale o di deposito è attiva in **diverse aree di affari**: • Servizi di pagamento • Servizi di custodia • Servizi di investimento • Servizi di finanziamento» (slide 13). La docente le introduce con «come per esempio» ([00:30:07]): l'elenco va letto come esemplificativo; per ogni area la banca elabora la propria strategia di business ([00:30:07]–[00:30:33]). ⚠️ Non coincide con le funzioni d'uso della slide 3, fra le quali la custodia non c'è.
+**Opzione:** È attiva in diverse aree di affari: servizi di pagamento, servizi di custodia, servizi di investimento, servizi di finanziamento.
+**Distrattori:**
+- È attiva in un'unica area di affari, che comprende servizi di pagamento, servizi di custodia, servizi di investimento, servizi di finanziamento.
+- Banca internazionale di origine belga; ASA: credito agli enti pubblici locali.
+- Cost leadership: prezzo; differenziazione e segmentazione: ricerca di un posizionamento di mercato favorevole (protetto).
+
+**D:** ⚠️ Quali sono, nell'ordine, le tre fasi della freccia della slide 13 della lezione 09?
+**R:** «Elaborazione della strategia di business di una **singola** area d'affari» → «Defezione [definizione] e analisi di **diverse** aree d'affari» → «Sviluppo delle strategie "**diversificate**"/ di portofolio» (slide 13, con i refusi «Defezione» e «portofolio»). La docente: «innanzitutto dobbiamo andare ad elaborare la strategia di business di una singola area di affari, dopodiché andiamo a definire e analizzare diverse aree di affari e soltanto successivamente andiamo a sviluppare le strategie diversificate» ([00:30:33]); si parte da una porzione della strategia globale della banca per arrivare alla strategia globale ([00:30:55]). ⚠️ L'ordine va dalla singola area alle diverse aree.
+**Opzione:** Elaborazione della strategia di business di una singola area d'affari; definizione e analisi di diverse aree d'affari; sviluppo delle strategie diversificate/di portafoglio.
+**Distrattori:**
+- Definizione e analisi di diverse aree d'affari; elaborazione della strategia di business di una singola area d'affari; sviluppo delle strategie diversificate/di portafoglio.
+- Costi: leadership dei costi; ricavi: strategia di differenziazione; posizionamento di mercato: strategia di segmentazione e di posizionamento.
+- Cost leadership: prezzo; differenziazione e segmentazione: ricerca di un posizionamento di mercato favorevole (protetto).
