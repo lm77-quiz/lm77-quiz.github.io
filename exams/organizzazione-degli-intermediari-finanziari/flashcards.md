@@ -1128,6 +1128,288 @@
 - Modello di Ansoff.
 - Modello di Business Process Analysis.
 
+## Lezione 05 — Il cambiamento: le dimensioni del fenomeno e gli approcci della sua analisi
+
+**D:** ⚠️ Quali scelte e decisioni innovative impone il cambiamento come fenomeno globale e sociale, secondo la slide 2 della lezione 05?
+**R:** «Il cambiamento come fenomeno globale e sociale che impone scelte e decisioni innovative: • La definizione di progetti di non breve periodo **(strategie)** nel contesto mutevole • L'attuazione delle combinazioni di fattori necessari per tradurli in realtà **(organizzazione)**» (slide 2). La docente: l'ambiente è «molto dinamico, molto variabile, molto imprevedibile», quindi serve una strategia, «un progetto a lungo termine»; poi la strategia va attuata combinando i fattori e le risorse necessarie, ed è l'organizzazione ([00:00:15]–[00:01:28]). ⚠️ Le etichette fra parentesi non vanno scambiate: i progetti di non breve periodo sono le **strategie**, l'attuazione delle combinazioni di fattori è l'**organizzazione**.
+**Opzione:** La definizione di progetti di non breve periodo (strategie) nel contesto mutevole; l'attuazione delle combinazioni di fattori necessari per tradurli in realtà (organizzazione).
+**Distrattori:**
+- La definizione di progetti di non breve periodo (organizzazione) nel contesto mutevole; l'attuazione delle combinazioni di fattori necessari per tradurli in realtà (strategie).
+- Famiglie, imprese, pubbliche amministrazioni, mercati, intermediari, autorità di governo e di controllo.
+- Competitività; redditività; efficienza operativa e allocativa; stabilità; controllo e gestione del rischio; produzione del valore per gli azionisti e altri stakeholders; affidabilità e responsabilità sociale.
+
+**D:** ⚠️ Di che cosa è la definizione «il conseguimento di un obiettivo in condizioni di incertezza», secondo la lezione 05?
+**R:** Della **strategia**. La slide 2: «Se non ci fosse il cambiamento: • Il concetto di strategia perderebbe il significato (**conseguimento di un obiettivo in condizioni di incertezza**) • L'organizzazione sarebbe stabile ed equivalente a una procedura/burocrazie». La docente: «il suo significato è quello di conseguire un obiettivo in condizioni di incertezza» ([00:01:28]–[00:01:36]). È la domanda 1 del test. ⚠️ L'**organizzazione** è la voce accanto: senza cambiamento sarebbe «stabile ed equivalente a una procedura/burocrazie» (per la docente «stabile, statica», [00:02:10]). Mission e vision non compaiono nella lezione: «mission e vision aziendale» era già un distrattore della domanda 3 del test 01.
+**Opzione:** strategia
+**Distrattori:**
+- organizzazione
+- mission
+- vision
+
+**D:** ⚠️ Che cosa dice del cambiamento la slide 2 della lezione 05?
+**R:** «Il cambiamento: • Non può essere interamente conosciuto e compreso nel presente • Non può essere previsto nei suoi sviluppi futuri • Mette in crisi la cultura consolidata (assimilare ciò che cambia e cambiare essa stessa) • Innovazione come strumento del cambiamento organizzativo determina **discontinuità**, impone uno sforzo costante di superamento del presente e di apprendimento del nuovo» (slide 2). La docente: si possono fare ipotesi e scenari di sviluppo, ma non essere certi di come andrà ([00:02:53]); la cultura organizzativa «deve essere messa necessariamente in discussione» ([00:03:16]); le innovazioni organizzative servono a rendere l'organizzazione sostenibile e a prolungarne il *life cycle* ([00:03:50]). ⚠️ L'innovazione determina **discontinuità**, non continuità.
+**Opzione:** Non può essere interamente conosciuto e compreso nel presente; non può essere previsto nei suoi sviluppi futuri; mette in crisi la cultura consolidata (assimilare ciò che cambia e cambiare essa stessa); l'innovazione come strumento del cambiamento organizzativo determina discontinuità, impone uno sforzo costante di superamento del presente e di apprendimento del nuovo.
+**Distrattori:**
+- Non può essere interamente conosciuto e compreso nel presente; non può essere previsto nei suoi sviluppi futuri; mette in crisi la cultura consolidata (assimilare ciò che cambia e cambiare essa stessa); l'innovazione come strumento del cambiamento organizzativo determina continuità, impone uno sforzo costante di consolidamento del presente.
+- Obiettivi precisi; piani strutturati di azione; sequenze determinate; orizzonte lontano; punti di controllo intermedi.
+- Un piano e sequenza di azioni volta a dirigere l'attività a un obiettivo finale, anche mediante obiettivi strumentali (es. redditività, quota di mercato), entro determinati riferimenti temporali.
+
+**D:** ⚠️ Come definisce la cultura la slide 3 della lezione 05?
+**R:** «La cultura è un insieme **coeso e condiviso** di modelli di pensiero e di azione, fondati su un patrimonio più o meno ampio di **conoscenza incompleta**»; «La cultura è il prodotto, elaborato, sedimentato, **tendenzialmente stabile** e **parzialmente inconscio**, dell'esperienza» (slide 3). La docente: la conoscenza resta «segmentata, spezzettata», perché è patrimonio del singolo o del gruppo di lavoro, e diventa patrimonio dell'organizzazione con l'apprendimento organizzativo e il *knowledge management* ([00:04:34]–[00:05:34]). ⚠️ Non è la definizione di Schein della lezione 01 (slide 8), «un modello di principi condivisi da un gruppo sociale…».
+**Opzione:** Un insieme coeso e condiviso di modelli di pensiero e di azione, fondati su un patrimonio più o meno ampio di conoscenza incompleta; il prodotto, elaborato, sedimentato, tendenzialmente stabile e parzialmente inconscio, dell'esperienza.
+**Distrattori:**
+- Un insieme coeso e condiviso di modelli di pensiero e di azione, fondati su un patrimonio più o meno ampio di conoscenza completa; il prodotto, elaborato, sedimentato, tendenzialmente stabile e parzialmente inconscio, dell'esperienza.
+- Qualsiasi fatto, circostanza, situazione e presenza materiale immateriale, tangibile e intangibile che, esternamente all'impresa, possa per via diretta indiretta influire su di essa in modo positivo o negativo.
+- Strutturale: il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso; funzionale: il profilo del funzionamento degli strumenti, dei mercati e degli intermediari.
+
+**D:** ⚠️ Che cosa dice la slide 3 della lezione 05 delle culture generate da «stati di natura stabili» e dei modelli consolidati di pensiero e di azione?
+**R:** «Le culture generate da "stati di natura stabili" hanno **particolare difficoltà** a rigenerarsi come cultura del cambiamento (orientata al cambiamento)»; «I modelli consolidati di pensiero e di azione **oppongono resistenza** al cambiamento (perché mette in crisi la loro **coesione e condivisione**)» (slide 3). La docente: hanno difficoltà «a rigenerarsi, a rinnovarsi, ad adattarsi»; molti ambienti delle organizzazioni finanziarie, come le banche, sono stati a lungo stabili, «hanno seguito i regolamenti e le normative per diversi anni», e per questo resistono ([00:05:34]–[00:06:26]).
+**Opzione:** Le culture generate da stati di natura stabili hanno particolare difficoltà a rigenerarsi come cultura del cambiamento (orientata al cambiamento); i modelli consolidati di pensiero e di azione oppongono resistenza al cambiamento, perché mette in crisi la loro coesione e condivisione.
+**Distrattori:**
+- Le culture generate da stati di natura stabili hanno particolare facilità a rigenerarsi come cultura del cambiamento (orientata al cambiamento); i modelli consolidati di pensiero e di azione oppongono resistenza al cambiamento, perché mette in crisi la loro coesione e condivisione.
+- La strategia non è il piano a lungo termine; la pianificazione a lungo termine (long range planning) è una sequenza strutturata e scarsamente modificabile e flessibile, di azioni precise.
+- Leggere la strategia organizzativa di impresa come azione organizzata nel contesto ambientale, finalizzata al perseguimento degli obiettivi di impresa, istituzionali e specifici.
+
+**D:** ⚠️ Come si chiamano i costi sostenuti per la produzione e l'apprendimento delle conoscenze precedenti, che la cultura del cambiamento deve accettare di non recuperare, secondo la lezione 05?
+**R:** **Sunk costs**. La slide 3: «La cultura del cambiamento deve accettare di non recuperare i costi (*sunk costs*) sostenuti per la produzione e l'apprendimento delle conoscenze precedenti (ormai obsolete e non utilizzabili)». Viene dopo «Il cambiamento rende obsoleto gran parte del passato, delle cose, delle idee -> distrugge utilità e valore delle conoscenze possedute e dei modelli, validati dall'esperienza». La docente: «costi, diciamo persi, cosiddetti sunk costs» ([00:07:13]); l'organizzazione deve accettarli «come la normalità», riadattarsi rapidamente e investire nell'apprendimento organizzativo e nel capitale umano ([00:07:38]–[00:08:17]). È la domanda 2 del test. ⚠️ Costi marginali, variabili e fissi non compaiono nella lezione. I «costi sommersi non recuperabili» tornano nel deck 06 (slide 4), il «Peso di eventuali sunk cost (costi non recuperabili)» nel deck 15 (slide 14).
+**Opzione:** sunk costs
+**Distrattori:**
+- marginal costs
+- costi variabili
+- costi fissi
+
+**D:** ⚠️ Che passaggio ha vissuto la Financial Service Industries, secondo la slide 4 della lezione 05?
+**R:** «Un **rapido** passaggio da una situazione di **stabilità artificiale** a una situazione di cambiamento, incertezza e ri-apprendimento» (slide 4). La docente lo ripete alla lettera ([00:08:17]). ⚠️ Il passaggio è **rapido** e la stabilità di partenza era **artificiale**.
+**Opzione:** Un rapido passaggio da una situazione di stabilità artificiale a una situazione di cambiamento, incertezza e ri-apprendimento.
+**Distrattori:**
+- Un lento passaggio da una situazione di stabilità artificiale a una situazione di cambiamento, incertezza e ri-apprendimento.
+- Un rapido passaggio da una situazione di cambiamento, incertezza e ri-apprendimento a una situazione di stabilità artificiale.
+- Un rapido passaggio da una situazione di stabilità naturale a una situazione di cambiamento, incertezza e ri-apprendimento.
+
+**D:** ⚠️ Quali sono, nell'ordine, i 4 fattori determinanti per il cambiamento del settore finanziario, secondo la slide 4 della lezione 05?
+**R:** «4 fattori determinanti per il cambiamento del settore: 1. La deregolamentazione **strutturale** e la ri-regolamentazione **prudenziale** delle attività finanziarie 2. La globalizzazione delle relazioni finanziarie 3. L'innovazione della tecnologia dell'informazione e della comunicazione (ICT) 4. Il progresso delle modellistiche finanziarie per la gestione delle decisioni, la quantificazione dei valori o dei prezzi (es. modelli di *asset pricing*, di gestione dei portafogli di attività e di passività finanziarie)» (slide 4). La docente: la globalizzazione riprende l'allargamento dello spazio del settore grazie alle nuove tecnologie; con le tecnologie, digitali e non, il processo di *decision making* delle organizzazioni finanziarie è cambiato molto ([00:08:37]–[00:10:13]). ⚠️ Gli aggettivi del primo fattore non vanno scambiati: deregolamentazione **strutturale**, ri-regolamentazione **prudenziale**.
+**Opzione:** La deregolamentazione strutturale e la ri-regolamentazione prudenziale delle attività finanziarie; la globalizzazione delle relazioni finanziarie; l'innovazione della tecnologia dell'informazione e della comunicazione (ICT); il progresso delle modellistiche finanziarie per la gestione delle decisioni, la quantificazione dei valori o dei prezzi.
+**Distrattori:**
+- La deregolamentazione prudenziale e la ri-regolamentazione strutturale delle attività finanziarie; la globalizzazione delle relazioni finanziarie; l'innovazione della tecnologia dell'informazione e della comunicazione (ICT); il progresso delle modellistiche finanziarie per la gestione delle decisioni, la quantificazione dei valori o dei prezzi.
+- Azione; selettività consapevole (una scelta alternativa a un'altra praticabile); sequenza temporale con prospettiva finale non breve; finalizzazione concreta (obiettivi non generici, ma definibili, quantificabili e misurabili).
+- Un insieme coeso e condiviso di modelli di pensiero e di azione, fondati su un patrimonio più o meno ampio di conoscenza incompleta; il prodotto, elaborato, sedimentato, tendenzialmente stabile e parzialmente inconscio, dell'esperienza.
+
+**D:** ⚠️ Quali sono le componenti fondamentali del sistema finanziario, fra i riferimenti istituzionali dell'analisi del cambiamento del settore, secondo la slide 5 della lezione 05?
+**R:** «1) Riferimenti istituzionali - le componenti fondamentali del sistema finanziario: • Gli **strumenti finanziari** che rappresentano i **veicoli tecnico-contrattuali dello scambio finanziario** • I **mercati finanziari** di varie categorie di scambio (mercati **monetari, creditizi e mobiliari**) • Gli **intermediari finanziari** di diverse categorie (**creditizi, mobiliari, assicurativi**) come **Produttori dedicati di soluzioni finanziarie** (prodotti e servizi)» (slide 5). ⚠️ Le categorie si somigliano: i mercati sono monetari, creditizi e mobiliari, gli intermediari creditizi, mobiliari e assicurativi. La docente aggiunge ai mercati «anche assicurativi in qualche caso» ([00:10:30]–[00:10:53]), la slide no. ⚠️ Le componenti sono **tre**: le autorità di governo e di controllo compaiono nella slide 6, fra i soggetti delle relazioni.
+**Opzione:** Gli strumenti finanziari che rappresentano i veicoli tecnico-contrattuali dello scambio finanziario; i mercati finanziari di varie categorie di scambio (mercati monetari, creditizi e mobiliari); gli intermediari finanziari di diverse categorie (creditizi, mobiliari, assicurativi) come produttori dedicati di soluzioni finanziarie (prodotti e servizi).
+**Distrattori:**
+- Gli strumenti finanziari che rappresentano i produttori dedicati di soluzioni finanziarie (prodotti e servizi); i mercati finanziari di varie categorie di scambio (mercati monetari, creditizi e mobiliari); gli intermediari finanziari di diverse categorie (creditizi, mobiliari, assicurativi) come veicoli tecnico-contrattuali dello scambio finanziario.
+- Imprimere consapevolmente all'attività una certa direzione, alternativamente all'altra.
+- Concepire il piano come una sequenza di punti temporali e di situazioni o stati aziendali in cui può essere esercitata una scelta fra continuare o scegliere un percorso alternativo (già intravisto prima come praticabile).
+
+**D:** ⚠️ Quali sono i principali elementi della duplice prospettiva di analisi dei cambiamenti nel settore finanziario, secondo la lezione 05?
+**R:** **Struttura e funzionamento**. La slide 5: «2) Duplice prospettiva d'analisi: • **Strutturale**: Il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso • **Funzionale**: Il profilo del funzionamento degli strumenti, dei mercati e degli intermediari»; il punto 3 parla di istituzioni «con i loro caratteri di struttura e di funzionamento». La docente: la prima prospettiva guarda «come è composto il sistema», la seconda «le funzioni, le funzionalità, delle azioni, interazioni» ([00:11:10]–[00:12:08]). È la domanda 3 del test. ⚠️ Ogni distrattore ha una metà giusta: organizzazione e innovazione non sono prospettive d'analisi.
+**Opzione:** struttura e funzionamento
+**Distrattori:**
+- struttura e organizzazione
+- struttura e innovazione
+- funzionamento e innovazione
+
+**D:** ⚠️ Che cosa guarda il profilo strutturale e che cosa il profilo funzionale, nella duplice prospettiva d'analisi della slide 5 della lezione 05?
+**R:** «• Strutturale: Il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso • Funzionale: Il profilo del funzionamento degli strumenti, dei mercati e degli intermediari» (slide 5). Segue la «Difficoltà d'analisi: Il sistema finanziario è unitario VS diverse istituzioni come singoli e parziali oggetti di indagine (con i loro caratteri di struttura e di funzionamento)». La docente: l'analisi va fatta sia a livello globale del sistema finanziario sia a livello di ogni singolo attore, ed è quindi complessa ([00:12:08]–[00:12:47]). ⚠️ «Il sistema nel suo complesso» sta nel profilo **strutturale**.
+**Opzione:** Strutturale: il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso; funzionale: il profilo del funzionamento degli strumenti, dei mercati e degli intermediari.
+**Distrattori:**
+- Strutturale: il profilo del funzionamento degli strumenti, dei mercati e degli intermediari; funzionale: il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso.
+- Proporre classificazioni, segnare confini, identificare relazioni; l'analisi dell'ambiente è un problema di impostazione, cruciale per il pensiero-azione successivo (strategia), e quindi non banale e non semplificabile.
+- Imprimere consapevolmente all'attività una certa direzione, alternativamente all'altra.
+
+**D:** ⚠️ In relazione a quali aspetti la prima finalità dell'analisi descrive la fisiologia del sistema, secondo la slide 6 della lezione 05?
+**R:** «Finalità dell'analisi: 1 - Descrivere la fisiologia del sistema, in relazione ai seguenti aspetti: • Gli "stati di natura" delle diverse componenti del sistema (strumenti, mercati e intermediari): loro configurazione e ragione d'essere • Le "relazioni" di scambio e di influenza reciproca fra i soggetti e le istituzioni che fanno sistema, dento [*sic*] o ai confini dello stesso, e agiscono con finalità di miglioramento della propria situazione-funzione: famiglie, imprese, pubbliche amministrazioni, mercati, intermediari, autorità di governo e di controllo • Le **ragioni del cambiamento** degli stati di natura: processi e modalità di trasformazione (con particolare attenzione agli intermediari finanziari)» (slide 6). Ne discende, dopo la freccia, darsi una «spiegazione» dello stato di un intermediario specifico, delle sue ragioni di cambiamento, delle sue scelte strategiche (alternative ad altre), della sua organizzazione, impiegando al meglio «gli strumenti del mestiere» ([00:12:47]–[00:15:51]).
+**Opzione:** Gli stati di natura delle diverse componenti del sistema: loro configurazione e ragione d'essere; le relazioni di scambio e di influenza reciproca fra i soggetti e le istituzioni che fanno sistema; le ragioni del cambiamento degli stati di natura: processi e modalità di trasformazione.
+**Distrattori:**
+- Gli stati di natura delle diverse componenti del sistema: loro configurazione e ragione d'essere; le relazioni di scambio e di influenza reciproca fra i soggetti e le istituzioni che fanno sistema; le ragioni della stabilità degli stati di natura: processi e modalità di conservazione.
+- Azione; selettività consapevole (una scelta alternativa a un'altra praticabile); sequenza temporale con prospettiva finale non breve; finalizzazione concreta (obiettivi non generici, ma definibili, quantificabili e misurabili).
+- La definizione di progetti di non breve periodo (strategie) nel contesto mutevole; l'attuazione delle combinazioni di fattori necessari per tradurli in realtà (organizzazione).
+
+**D:** ⚠️ Quali soggetti e istituzioni fanno sistema nelle relazioni di scambio e di influenza reciproca, secondo la slide 6 della lezione 05?
+**R:** «…agiscono con finalità di miglioramento della propria situazione-funzione: **famiglie, imprese, pubbliche amministrazioni, mercati, intermediari, autorità di governo e di controllo**» (slide 6), «dento [*sic*] o ai confini dello stesso» sistema. La docente parla di «una specie di **social network analysis**»: non solo i singoli elementi, che conducono la propria vita in maniera autonoma, ma le relazioni che si instaurano fra loro ([00:13:26]–[00:14:30]). ⚠️ Le autorità di governo e di controllo stanno qui, fra i soggetti delle relazioni, non fra le tre componenti fondamentali della slide 5 (strumenti, mercati, intermediari).
+**Opzione:** Famiglie, imprese, pubbliche amministrazioni, mercati, intermediari, autorità di governo e di controllo.
+**Distrattori:**
+- Famiglie, imprese, pubbliche amministrazioni, mercati, intermediari, agenzie di rating.
+- Strumenti finanziari, mercati finanziari, intermediari finanziari.
+- La strategia di business o di area di affari (business strategy).
+
+**D:** ⚠️ L'intermediario finanziario è una realtà «metamorfica»: quali cambiamenti di stato di natura indica la slide 7 della lezione 05?
+**R:** «L'intermediario finanziario è una realtà "**metamorfica**", il cui cambiamento o passaggio da uno stato di natura a un altro trova necessariamente spiegazione rispetto a diversi profili di miglioramento delle funzionalità» (slide 7). Nello schema, il riquadro «**Cambiamento di stato di natura**» dice: «Dall'intermediazione **creditizia** a quella **mobiliare**; Dalla **specializzazione** alla **diversificazione**». La docente parla di «due pillastri» [*sic*], il cambiamento di stato di natura e il miglioramento delle funzionalità «come la conseguenza» ([00:15:51]–[00:16:36]). ⚠️ Conta la direzione: dalla creditizia alla mobiliare, dalla specializzazione alla diversificazione.
+**Opzione:** Dall'intermediazione creditizia a quella mobiliare; dalla specializzazione alla diversificazione.
+**Distrattori:**
+- Dall'intermediazione mobiliare a quella creditizia; dalla diversificazione alla specializzazione.
+- Dall'intermediazione creditizia a quella mobiliare; dalla diversificazione alla specializzazione.
+- Dall'intermediazione mobiliare a quella creditizia; dalla specializzazione alla diversificazione.
+
+**D:** ⚠️ Quale tra queste voci può essere definita come «cambiamento di stato di natura», secondo la lezione 05?
+**R:** Il **passaggio dalla specializzazione alla diversificazione**. Nello schema della slide 7 il «Cambiamento di stato di natura» ha due voci, «Dall'intermediazione creditizia a quella mobiliare» e «Dalla specializzazione alla diversificazione». L'altro riquadro, «Miglioramento delle funzionalità», elenca competitività, reddittività [*sic*], efficienza operativa e allocativa, stabilità, controllo e gestione del rischio, produzione del valore per gli azionisti e altri stakeholders, affidabilità e responsabilità sociale. La docente: «quando parliamo del cambiamento parliamo del passaggio dall'intermediazione creditizia a quella mobiliare, dalla specializzazione alla diversificazione» ([00:16:27]–[00:16:36]). È la domanda 4 del test. ⚠️ I tre distrattori vengono tutti dal riquadro dei **miglioramenti**: la domanda non è che cosa sono, ma **dove stanno**. «Responsabilità sociale d'impresa» è la formula della docente ([00:16:52]–[00:17:18]); la slide dice «Affidabilità e responsabilità sociale».
+**Opzione:** passaggio dalla specializzazione alla diversificazione
+**Distrattori:**
+- miglioramento del controllo e gestione del rischio
+- responsabilità sociale d'impresa
+- aumento dell'efficienza operativa e allocativa
+
+**D:** ⚠️ Quali profili di miglioramento delle funzionalità spiegano il cambiamento di stato di natura dell'intermediario finanziario, secondo la slide 7 della lezione 05?
+**R:** «Miglioramento delle funzionalità: • Competitività • Reddittività [*sic*] • Efficienza operativa e allocativa • Stabilità • Controllo e gestione del rischio • Produzione del valore per gli azionisti e altri stakeholders • **Affidabilità e responsabilità sociale**» (slide 7). La docente: la stabilità è «dell'azienda e del settore in cui opera l'azienda»; della responsabilità sociale d'impresa si parla molto negli ultimi tempi, perché ogni organizzazione, oltre all'efficienza ed efficacia economica, «deve ovviamente essere responsabile nei confronti della società in cui opera» ([00:16:36]–[00:17:38]). ⚠️ Il passaggio dalla specializzazione alla diversificazione è un **cambiamento di stato di natura**, non un miglioramento (domanda 4 del test).
+**Opzione:** Competitività; redditività; efficienza operativa e allocativa; stabilità; controllo e gestione del rischio; produzione del valore per gli azionisti e altri stakeholders; affidabilità e responsabilità sociale.
+**Distrattori:**
+- Competitività; redditività; efficienza operativa e allocativa; stabilità; controllo e gestione del rischio; produzione del valore per gli azionisti e altri stakeholders; passaggio dalla specializzazione alla diversificazione.
+- Un piano e sequenza di azioni volta a dirigere l'attività a un obiettivo finale, anche mediante obiettivi strumentali (es. redditività, quota di mercato), entro determinati riferimenti temporali.
+- Un rapido passaggio da una situazione di stabilità artificiale a una situazione di cambiamento, incertezza e ri-apprendimento.
+
+**D:** ⚠️ Qual è la seconda finalità dell'analisi del cambiamento, secondo la slide 8 della lezione 05?
+**R:** «2 - Far emergere dall'analisi precedente alcune **indicazioni di metodo** utili per guidare e configurare le scelte strategiche, gestionali e organizzative delle **strutture apicali** degli Intermediari finanziari (amministratori, manager ecc.)» (slide 8). La docente: tutto ciò che si è analizzato prima serve a capire come prendere le decisioni, come strutturare l'azienda e come gestirla ([00:17:38]–[00:18:34]). La prima finalità è descrivere la fisiologia del sistema (slide 6). ⚠️ Sono **indicazioni di metodo**, non prescrizioni: la stessa slide esclude l'intento prescrittivo.
+**Opzione:** Far emergere dall'analisi precedente alcune indicazioni di metodo utili per guidare e configurare le scelte strategiche, gestionali e organizzative delle strutture apicali degli intermediari finanziari (amministratori, manager ecc.).
+**Distrattori:**
+- Far emergere dall'analisi precedente alcune prescrizioni vincolanti sulle scelte strategiche, gestionali e organizzative migliori per le strutture apicali degli intermediari finanziari (amministratori, manager ecc.).
+- Qualsiasi fatto, circostanza, situazione e presenza materiale immateriale, tangibile e intangibile che, esternamente all'impresa, possa per via diretta indiretta influire su di essa in modo positivo o negativo.
+- Obiettivi precisi; piani strutturati di azione; sequenze determinate; orizzonte lontano; punti di controllo intermedi.
+
+**D:** ⚠️ Deve perseguire un intento prescrittivo la progettazione della sequenza e del coordinamento delle decisioni strategiche e organizzative, e per quali motivi, secondo la slide 8 della lezione 05?
+**R:** «La progettazione della sequenza e del coordinamento delle decisioni strategiche e organizzativi [*sic*] **non deve** perseguire un intento prescrittivo (la preferibilità di alcune scelte strategico-organizzative rispetto ad altre) per 2 motivi: • La complessità dell'azione imprenditoriale e manageriale con prospettiva realistica di esito positivo (efficienza ed efficacia) • Contesti altamente incerti e mutevoli»; ne segue, dopo la freccia: «Nel campo delle problematiche strategico-organizzative **non esiste la soluzione migliore** rispetto ad altre» (slide 8). «Non deve» è in grassetto nella slide. La docente: «tutto dipende» dall'analisi dell'ambiente, dalle risorse possedute dall'organizzazione e da diversi fattori ([00:18:34]–[00:19:32]).
+**Opzione:** Non deve perseguirlo, per 2 motivi: la complessità dell'azione imprenditoriale e manageriale con prospettiva realistica di esito positivo (efficienza ed efficacia); contesti altamente incerti e mutevoli.
+**Distrattori:**
+- Deve perseguirlo, per 2 motivi: la complessità dell'azione imprenditoriale e manageriale con prospettiva realistica di esito positivo (efficienza ed efficacia); contesti altamente incerti e mutevoli.
+- La strategia non è il piano a lungo termine; la pianificazione a lungo termine (long range planning) è una sequenza strutturata e scarsamente modificabile e flessibile, di azioni precise.
+- Un insieme coeso e condiviso di modelli di pensiero e di azione, fondati su un patrimonio più o meno ampio di conoscenza incompleta; il prodotto, elaborato, sedimentato, tendenzialmente stabile e parzialmente inconscio, dell'esperienza.
+
+**D:** ⚠️ Qual è il principale modello utilizzato per analizzare il cambiamento dell'impresa, secondo la lezione 05?
+**R:** Il **modello-paradigma «ambiente-strategia-struttura»**. La slide 9: «Metodo di analisi del cambiamento dell'impresa: Modello-paradigma "ambiente-strategia-struttura"». La docente: è «un paradigma praticamente fondamentale da cui parte l'analisi di qualsiasi cambiamento», con «tre variabili che sono strettamente legate una con l'altra» ([00:19:32]–[00:19:53]). È la domanda 5 del test; «principale» non è nella slide. ⚠️ Il **modello SECI** è la chiave della domanda 5 del test 04 (deck 04, slide 4–5), dove SWOT e Ansoff erano già distrattori: la SWOT-analysis sta nel deck 15 (slide 12), la matrice di Ansoff in nessun deck del corso. Il paradigma è il titolo della lezione 06.
+**Opzione:** modello Ambiente-Strategia-Struttura
+**Distrattori:**
+- modello SECI
+- modello SWOT
+- modello di Ansoff
+
+**D:** ⚠️ Qual è l'obiettivo del modello-paradigma «ambiente-strategia-struttura», secondo la slide 9 della lezione 05?
+**R:** «Obiettivo: leggere la **strategia organizzativa** di impresa come **azione organizzata nel contesto ambientale**, finalizzata al perseguimento degli obiettivi di impresa, **istituzionali e specifici**» (slide 9). La docente: «tutto parte dall'analisi dell'ambiente per poi andare a definire la strategia organizzativa a lungo termine e di conseguenza andare a strutturare la nostra azienda, quindi definire l'organizzazione di per sé» ([00:19:53]–[00:20:27]).
+**Opzione:** Leggere la strategia organizzativa di impresa come azione organizzata nel contesto ambientale, finalizzata al perseguimento degli obiettivi di impresa, istituzionali e specifici.
+**Distrattori:**
+- Leggere la strategia organizzativa di impresa come azione organizzata nel contesto interno dell'impresa, finalizzata al perseguimento degli obiettivi di impresa, istituzionali e specifici.
+- Competitività; redditività; efficienza operativa e allocativa; stabilità; controllo e gestione del rischio; produzione del valore per gli azionisti e altri stakeholders; affidabilità e responsabilità sociale.
+- Strutturale: il profilo della struttura delle varie componenti del sistema finanziario e del sistema nel suo complesso; funzionale: il profilo del funzionamento degli strumenti, dei mercati e degli intermediari.
+
+**D:** ⚠️ Come si configura l'ambiente, secondo la slide 10 della lezione 05?
+**R:** «L'ambiente si configura come **qualsiasi** fatto, circostanza, situazione e presenza materiale immateriale, tangibile e intangibile che, **esternamente all'impresa**, possa per via diretta indiretta influire su di essa **in modo positivo o negativo**» (slide 10). La docente dice «materiale, immateriale, tangibile **o** intangibile» e «per via diretta **o** indiretta», e aggiunge che le influenze «possono essere diverse» ([00:20:27]–[00:20:54]). È la prima variabile del paradigma.
+**Opzione:** Qualsiasi fatto, circostanza, situazione e presenza materiale immateriale, tangibile e intangibile che, esternamente all'impresa, possa per via diretta indiretta influire su di essa in modo positivo o negativo.
+**Distrattori:**
+- Qualsiasi fatto, circostanza, situazione e presenza materiale immateriale, tangibile e intangibile che, all'interno dell'impresa, possa per via diretta indiretta influire su di essa in modo positivo o negativo.
+- Far emergere dall'analisi precedente alcune indicazioni di metodo utili per guidare e configurare le scelte strategiche, gestionali e organizzative delle strutture apicali degli intermediari finanziari (amministratori, manager ecc.).
+- Ancorare la pianificazione e la strategia alla previsione di eventi futuri (contingencies) che potranno verificarsi e quindi deviare la direzione del piano; definire punti di scelta con il profilo stimato di rendimento/rischio.
+
+**D:** ⚠️ Che cosa è importante fare dentro il «tutto» dell'ambiente, e che tipo di problema è l'analisi dell'ambiente, secondo la slide 10 della lezione 05?
+**R:** «Dentro questo "tutto" è importante: • Proporre classificazioni • Segnare confini • Identificare relazioni»; «L'analisi dell'ambiente è un problema di "**impostazione**", cruciale per il pensiero-azione successivo (**strategia**), e quindi **non banale e non semplificabile**» (slide 10). La docente: l'ambiente è «molto ampio, molto vago, molto vasto», e senza classificazioni, confini e relazioni l'analisi non si può effettuare; le classificazioni dell'ambiente sono annunciate per le lezioni successive ([00:20:54]–[00:21:39]). ⚠️ Prevedere gli sviluppi futuri non è fra i compiti: per la slide 2 il cambiamento «Non può essere previsto nei suoi sviluppi futuri».
+**Opzione:** Proporre classificazioni, segnare confini, identificare relazioni; l'analisi dell'ambiente è un problema di impostazione, cruciale per il pensiero-azione successivo (strategia), e quindi non banale e non semplificabile.
+**Distrattori:**
+- Proporre classificazioni, segnare confini, prevedere gli sviluppi futuri; l'analisi dell'ambiente è un problema di impostazione, cruciale per il pensiero-azione successivo (strategia), e quindi non banale e non semplificabile.
+- Concepire il piano come una sequenza di punti temporali e di situazioni o stati aziendali in cui può essere esercitata una scelta fra continuare o scegliere un percorso alternativo (già intravisto prima come praticabile).
+- La definizione di progetti di non breve periodo (strategie) nel contesto mutevole; l'attuazione delle combinazioni di fattori necessari per tradurli in realtà (organizzazione).
+
+**D:** ⚠️ Che cosa significa fare strategia, secondo la slide 11 della lezione 05?
+**R:** «Fare strategia significa imprimere **consapevolmente** all'attività **una certa direzione**, **alternativamente all'altra**» (slide 11). La docente: la direzione in cui si muoverà l'azienda è alternativa a un'altra, perché «la soluzione migliore non esiste»: ci sono diversi scenari, e l'azienda, analizzate le condizioni dell'ambiente, deve scegliere una delle alternative ([00:21:39]–[00:22:19]). ⚠️ La sequenza strutturata e scarsamente modificabile è la pianificazione a lungo termine (slide 12), non la strategia.
+**Opzione:** Imprimere consapevolmente all'attività una certa direzione, alternativamente all'altra.
+**Distrattori:**
+- Imprimere consapevolmente all'attività più direzioni contemporaneamente, senza sceglierne una.
+- Seguire una sequenza strutturata e scarsamente modificabile di azioni precise, fissata una volta per tutte.
+- Conseguire un obiettivo in condizioni di certezza.
+
+**D:** ⚠️ Che cos'è la strategia, secondo la definizione della slide 11 della lezione 05?
+**R:** «La strategia è un **piano e sequenza di azioni** volta a dirigere l'attività a un **obiettivo finale**, anche mediante **obiettivi strumentali** (es. reddittività [*sic*], quota di mercato), **entro determinati riferimenti temporali**» (slide 11). La docente: l'obiettivo finale è molto ampio e va «spezzettato» in obiettivi strumentali, con indicatori come redditività e quota di mercato; vanno definiti anche il periodo d'azione e quello in cui verificare se l'obiettivo è stato raggiunto ([00:22:19]–[00:23:12]). ⚠️ Il «significato» della strategia della slide 2 è il «conseguimento di un obiettivo in condizioni di incertezza» (domanda 1 del test).
+**Opzione:** Un piano e sequenza di azioni volta a dirigere l'attività a un obiettivo finale, anche mediante obiettivi strumentali (es. redditività, quota di mercato), entro determinati riferimenti temporali.
+**Distrattori:**
+- Un piano e sequenza di azioni volta a dirigere l'attività a un obiettivo finale, anche mediante obiettivi strumentali (es. redditività, quota di mercato), senza riferimenti temporali predeterminati.
+- Dall'intermediazione creditizia a quella mobiliare; dalla specializzazione alla diversificazione.
+- Crea un ecosistema multilaterale dinamico (qualità e quantità degli utilizzatori); si alimenta di competenze esterne; collega e interagisce con una pluralità di parti.
+
+**D:** ⚠️ Quali concetti sono presenti nella strategia, secondo la slide 11 della lezione 05?
+**R:** «Nella strategia sono presenti i seguenti concetti: • Azione • **Selettività consapevole** (una scelta alternativa a un'altra praticabile) • **Sequenza temporale con prospettiva finale non breve** • **Finalizzazione concreta** (obiettivi non generici, ma definibili, quantificabili e misurabili)» (slide 11). La docente: la prospettiva «non troppo breve» è «normalmente» un arco temporale «di circa 3-5 anni»; gli obiettivi vanno resi valutabili e misurabili con indicatori ([00:22:44]–[00:23:41]). ⚠️ I 3-5 anni sono della docente: la slide dice solo «non breve».
+**Opzione:** Azione; selettività consapevole (una scelta alternativa a un'altra praticabile); sequenza temporale con prospettiva finale non breve; finalizzazione concreta (obiettivi non generici, ma definibili, quantificabili e misurabili).
+**Distrattori:**
+- Azione; selettività consapevole (una scelta alternativa a un'altra praticabile); sequenza temporale con prospettiva finale breve; finalizzazione concreta (obiettivi non generici, ma definibili, quantificabili e misurabili).
+- Un rapido passaggio da una situazione di stabilità artificiale a una situazione di cambiamento, incertezza e ri-apprendimento.
+- Efficienza, specializzazione, precisione, certezza da un lato; flessibilità, disintermediazione, aspazialità, atemporaneità, innovazione costante dall'altro.
+
+**D:** ⚠️ Che differenza c'è tra strategia e pianificazione a lungo termine, secondo la slide 12 della lezione 05?
+**R:** «• La strategia **non è** il piano a lungo termine. • La pianificazione a lungo termine (*long range planning*) è una sequenza strutturata e **scarsamente modificabile e flessibile**, di azioni precise. • Nei contesti come quello finanziario (caratterizzati da cambiamento, incertezza, volatilità, imprevedibilità) la nozione di piano **non è soddisfacente**» (slide 12). La docente: il piano è «troppo rigido», e la strategia va resa «più flessibile possibile»; la strategia può prevedere diversi scenari di sviluppo, la pianificazione segue le azioni una dopo l'altra, con poca flessibilità d'azione ([00:23:41]–[00:25:15]).
+**Opzione:** La strategia non è il piano a lungo termine; la pianificazione a lungo termine (long range planning) è una sequenza strutturata e scarsamente modificabile e flessibile, di azioni precise.
+**Distrattori:**
+- La strategia non è il piano a lungo termine; la pianificazione a lungo termine (long range planning) è una sequenza strutturata e facilmente modificabile e flessibile, di azioni precise.
+- Far emergere dall'analisi precedente alcune indicazioni di metodo utili per guidare e configurare le scelte strategiche, gestionali e organizzative delle strutture apicali degli intermediari finanziari (amministratori, manager ecc.).
+- Dall'intermediazione creditizia a quella mobiliare; dalla specializzazione alla diversificazione.
+
+**D:** ⚠️ Che cos'è il contingency planning, secondo la slide 12 della lezione 05?
+**R:** «L'applicazione di *contingency planning*: concepire il piano come una **sequenza di punti temporali** e di situazioni o stati aziendali in cui **può essere esercitata una scelta** fra continuare o scegliere un percorso alternativo (**già intravisto prima** come praticabile)» (slide 12). La docente: si può scegliere fra continuare la strategia predefinita o un percorso alternativo, «che potrebbe essere già intravisto prima come un percorso praticabile» ([00:24:21]–[00:24:42]). ⚠️ Il percorso alternativo è già intravisto **prima**, non improvvisato al momento.
+**Opzione:** Concepire il piano come una sequenza di punti temporali e di situazioni o stati aziendali in cui può essere esercitata una scelta fra continuare o scegliere un percorso alternativo (già intravisto prima come praticabile).
+**Distrattori:**
+- Concepire il piano come una sequenza di punti temporali e di situazioni o stati aziendali in cui può essere esercitata una scelta fra continuare o scegliere un percorso alternativo (individuato solo al momento della scelta).
+- Leggere la strategia organizzativa di impresa come azione organizzata nel contesto ambientale, finalizzata al perseguimento degli obiettivi di impresa, istituzionali e specifici.
+- Non solo gli organi, ma anche le funzioni e le potenzialità dell'organizzazione.
+
+**D:** ⚠️ Quali necessità discendono dal contingency planning per la pianificazione e la strategia, secondo la slide 12 della lezione 05?
+**R:** Dopo la freccia: «• La necessità di ancorare la pianificazione e la strategia alla previsione di eventi futuri ("*contingencies*") che potranno verificarsi e quindi "deviare" la direzione del piano. • La definizione di punti di scelta con il profilo stimato di **rendimento/rischio**» (slide 12). La docente: l'azienda, quando definisce la strategia, deve valutare il rendimento e il rischio di diversi scenari di sviluppo ([00:25:15]–[00:25:48]). ⚠️ Il profilo è di rendimento **e** rischio, non del solo rendimento.
+**Opzione:** Ancorare la pianificazione e la strategia alla previsione di eventi futuri (contingencies) che potranno verificarsi e quindi deviare la direzione del piano; definire punti di scelta con il profilo stimato di rendimento/rischio.
+**Distrattori:**
+- Ancorare la pianificazione e la strategia alla previsione di eventi futuri (contingencies) che potranno verificarsi e quindi deviare la direzione del piano; definire punti di scelta con il profilo stimato del solo rendimento.
+- Proporre classificazioni, segnare confini, identificare relazioni; l'analisi dell'ambiente è un problema di impostazione, cruciale per il pensiero-azione successivo (strategia), e quindi non banale e non semplificabile.
+- Liberare le risorse da impiegare in attività a maggior valore.
+
+**D:** ⚠️ Che caratteri ha la strategia quando il cambiamento è a bassa intensità e alta prevedibilità, secondo lo schema della slide 13 della lezione 05?
+**R:** Nello schema «Relazioni tra caratteri del cambiamento e caratteri della strategia» la colonna «Bassa intensità e alta prevedibilità» ha come **oggetti, contenuti e focus** «Obiettivi precisi; Piani strutturati di azione; Sequenze determinate» e come **riferimenti temporali** «Orizzonte lontano; Punti di controllo intermedi» (slide 13). La docente: oggetti, contenuti e focus sono «molto diversi» da quelli delle strategie definite nell'ambiente ad alta intensità e bassa prevedibilità ([00:25:48]–[00:26:21]). ⚠️ L'orizzonte è lontano in **entrambe** le colonne: discriminano gli obiettivi (precisi / multipli) e i punti (di controllo intermedi / di decisione e di non ritorno).
+**Opzione:** Obiettivi precisi; piani strutturati di azione; sequenze determinate; orizzonte lontano; punti di controllo intermedi.
+**Distrattori:**
+- Obiettivi multipli diversi e alternativi; piani strutturati di azione; sequenze determinate; orizzonte lontano; punti di controllo intermedi.
+- Obiettivi precisi; piani strutturati di azione; sequenze determinate; orizzonte breve; punti di controllo intermedi.
+- La diversificazione dell'attività aziendale e quindi delle strategie di portafoglio.
+
+**D:** ⚠️ Che caratteri ha la strategia quando il cambiamento è ad alta intensità e bassa prevedibilità, secondo lo schema della slide 13 della lezione 05?
+**R:** La colonna «Alta intensità e bassa prevedibilità» ha come oggetti, contenuti e focus «Obiettivi **multipli diversi e alternativi**; **Identificazione e configurazione di scelte alternative** ordinate e sviluppate per sequenze articolari ad albero» e come riferimenti temporali «Considerazione dell'**intero asse temporale** configurato come sequenza di punti di decisione, di scelta, di valutazione e di non ritorno, con riferimento a orizzonti lontani» (slide 13; «articolari» è nella slide). È la versione grafica del contingency planning della slide 12 ([00:25:48]–[00:26:21]). ⚠️ Gli orizzonti lontani compaiono anche nell'altra colonna: discriminano gli obiettivi multipli e le scelte alternative ad albero.
+**Opzione:** Obiettivi multipli diversi e alternativi; identificazione e configurazione di scelte alternative ordinate e sviluppate per sequenze articolari ad albero; considerazione dell'intero asse temporale configurato come sequenza di punti di decisione, di scelta, di valutazione e di non ritorno, con riferimento a orizzonti lontani.
+**Distrattori:**
+- Obiettivi precisi; piani strutturati di azione; sequenze determinate; considerazione dell'intero asse temporale configurato come sequenza di punti di decisione, di scelta, di valutazione e di non ritorno, con riferimento a orizzonti lontani.
+- Non solo gli organi, ma anche le funzioni e le potenzialità dell'organizzazione.
+- Utilizzatori finali, sviluppatori, fornitori.
+
+**D:** ⚠️ A quale livello di strategia appartiene un campo relativamente omogeneo di attività come il corporate banking, secondo la slide 14 della lezione 05?
+**R:** Alla **strategia di business o di area di affari** (*business strategy*): «Un campo relativamente omogeneo di attività: *corporate banking, private banking, retail banking, Internet banking* ecc.» (slide 14). La docente: un'area di affari «abbastanza specifica ma omogenea» ([00:26:21]–[00:26:53]). ⚠️ Trappola lessicale: il *corporate banking* è un esempio di **business** strategy, mentre la *corporate strategy* è la **strategia di portafoglio**. I livelli della slide sono soltanto questi due: la strategia di crescita è uno dei due ingranaggi della piattaforma digitale (lezione 02, slide 6), il *long range planning* la pianificazione a lungo termine della slide 12.
+**Opzione:** La strategia di business o di area di affari (business strategy).
+**Distrattori:**
+- La strategia di portafoglio (corporate strategy).
+- La strategia di crescita.
+- La pianificazione a lungo termine (long range planning).
+
+**D:** ⚠️ Che cos'è la strategia di portafoglio (corporate strategy), secondo la slide 14 della lezione 05?
+**R:** «2. **Strategia di portafoglio** (*corporate strategy*) • La definizione e la realizzazione del portafoglio delle attività aziendali, secondo i criteri di **convenienza e vantaggio competitivo**, mediante la ricerca, identificazione, analisi, valutazione e scelta delle diverse e singole aree strategiche di affari **combinabili nella stessa azienda** (la dinamica di cambiamento/innovazione richiede la diversificazione dell'attività aziendale e quindi delle strategie di portafoglio)» (slide 14). La docente: aree «combinabili, abbinabili nella stessa azienda» ([00:26:53]–[00:27:21]). ⚠️ Il campo relativamente omogeneo di attività è la business strategy, il livello 1.
+**Opzione:** La definizione e la realizzazione del portafoglio delle attività aziendali, secondo i criteri di convenienza e vantaggio competitivo, mediante la ricerca, identificazione, analisi, valutazione e scelta delle diverse e singole aree strategiche di affari combinabili nella stessa azienda.
+**Distrattori:**
+- La definizione e la realizzazione del portafoglio delle attività aziendali, secondo i criteri di convenienza e vantaggio competitivo, mediante la concentrazione su un unico campo relativamente omogeneo di attività.
+- Internet delle cose.
+- La strategia di business o di area di affari (business strategy).
+
+**D:** ⚠️ Che cosa richiede la dinamica di cambiamento/innovazione, secondo la slide 14 della lezione 05?
+**R:** «(la dinamica di cambiamento/innovazione richiede la **diversificazione** dell'attività aziendale e quindi delle **strategie di portafoglio**)» (slide 14). La docente: ogni azienda dovrebbe abbinare, comporre diverse aree di azione, e così affronterà il cambiamento «in maniera sicuramente più facilitata» ([00:27:21]–[00:27:50]). ⚠️ Diversificazione, non specializzazione: è lo stesso verso del cambiamento di stato di natura della slide 7.
+**Opzione:** La diversificazione dell'attività aziendale e quindi delle strategie di portafoglio.
+**Distrattori:**
+- La specializzazione dell'attività aziendale e quindi delle strategie di business.
+- La diversificazione dell'attività aziendale e quindi la rinuncia alle strategie di portafoglio.
+- La stabilità dell'attività aziendale e quindi delle strategie già definite.
+
+**D:** ⚠️ Che cosa riguarda la nozione di struttura, e di quale tipologia sono i suoi fattori, secondo la slide 15 della lezione 05?
+**R:** «La nozione della "struttura": Riguarda i **fattori delle combinazioni produttive e distributive** per realizzare una strategia. Tipologia di fattori: • Materiali e immateriali • Tangibili e intangibili • Controllati dall'impresa **a vario titolo giuridico** (proprietà, locazione, contratto di fornitura ecc.) • Appartengono al sistema di cui l'impresa/imprenditore dispone per la specifica finalità di mettere in atto la strategia» (slide 15). La docente: risorse economiche, finanziarie, materiali, strutture, risorse umane vanno combinate in modo specifico per raggiungere la strategia ([00:27:50]–[00:29:01]); nel transcript «immateriali e immateriali» e «strategia giuridica» sono errori della trascrizione. ⚠️ Il titolo giuridico è **vario**, non la sola proprietà.
+**Opzione:** Riguarda i fattori delle combinazioni produttive e distributive per realizzare una strategia: materiali e immateriali; tangibili e intangibili; controllati dall'impresa a vario titolo giuridico (proprietà, locazione, contratto di fornitura ecc.); appartenenti al sistema di cui l'impresa/imprenditore dispone per la specifica finalità di mettere in atto la strategia.
+**Distrattori:**
+- Riguarda i fattori delle combinazioni produttive e distributive per realizzare una strategia: materiali e immateriali; tangibili e intangibili; controllati dall'impresa a titolo di sola proprietà; appartenenti al sistema di cui l'impresa/imprenditore dispone per la specifica finalità di mettere in atto la strategia.
+- Ancorare la pianificazione e la strategia alla previsione di eventi futuri (contingencies) che potranno verificarsi e quindi deviare la direzione del piano; definire punti di scelta con il profilo stimato di rendimento/rischio.
+- La diversificazione dell'attività aziendale e quindi delle strategie di portafoglio.
+
+**D:** ⚠️ Che cosa comprende la struttura, che non è un termine restrittivo, secondo la slide 15 della lezione 05?
+**R:** «La struttura **non è un termine restrittivo**: non solo gli organi, ma anche **le funzioni e le potenzialità dell'organizzazione**» (slide 15). La docente: non sono soltanto gli organi, le unità, i reparti dell'azienda, ma anche le funzioni e le potenzialità dell'organizzazione per raggiungere gli obiettivi della strategia ([00:29:01]).
+**Opzione:** Non solo gli organi, ma anche le funzioni e le potenzialità dell'organizzazione.
+**Distrattori:**
+- Soltanto gli organi, le unità e i reparti dell'azienda.
+- Non solo gli organi, ma anche gli obiettivi istituzionali e specifici dell'impresa.
+- Non solo gli organi, ma anche l'ambiente esterno che può influire sull'impresa.
+
 ## Lezione 06 — Il paradigma ambiente-strategia-struttura
 
 **D:** ⚠️ Quali sono le tre variabili del paradigma ambiente-strategia-struttura, e che cosa comprende ciascuna, secondo la slide 2 della lezione 06?
