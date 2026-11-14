@@ -848,3 +848,282 @@
 - Hard skills.
 - Soft skills.
 - Digital skills.
+
+## Lezione 04 — Il capitale intellettuale per la gestione del cambiamento organizzativo
+
+**D:** ⚠️ Come definisce l'absorptive capacity la lezione 04?
+**R:** «*Absorptive capacity* è la capacità di **riconoscere il valore** di un nuovo elemento di informazione, nonché di **assimilarlo** ovvero di **utilizzarlo nei propri processi interni**, **combinandolo** con altre conoscenze, e **trasformandolo in un prodotto di valore per il cliente**» (slide 2). Per la docente è la «capacità di assorbimento» di un'informazione che «può provenire dall'esterno» ([00:00:41]–[00:01:30]). La capacità di assorbimento «va a impattare sul capitale intellettuale», e un capitale intellettuale maggiore può aumentare la capacità di innovare ([00:02:03]). ⚠️ La domanda 1 del test taglia la coda sul cliente.
+**Opzione:** La capacità di riconoscere il valore di un nuovo elemento di informazione, nonché di assimilarlo ovvero di utilizzarlo nei propri processi interni, combinandolo con altre conoscenze, e trasformandolo in un prodotto di valore per il cliente.
+**Distrattori:**
+- La capacità di riconoscere il valore di un nuovo elemento di informazione, nonché di assimilarlo ovvero di utilizzarlo nei propri processi interni, combinandolo con altre conoscenze, e trasformandolo nella propria conoscenza tacita.
+- La conoscenza disponibile e la capacità di elaborazione di nuova conoscenza di un'organizzazione, una risorsa fondamentale che alimenta la capacità di innovazione e gestione di cambiamento organizzativo.
+
+**D:** ⚠️ Come definisce il capitale intellettuale (CI) la lezione 04?
+**R:** «CI è la **conoscenza disponibile** e la **capacità di elaborazione di nuova conoscenza** di un'organizzazione, una risorsa fondamentale che **alimenta la capacità di innovazione e gestione di cambiamento organizzativo**» (slide 2). La docente dice «**può** alimentare» ([00:01:30]): all'esame vale la slide, che la domanda 2 del test cita alla lettera.
+**Opzione:** La conoscenza disponibile e la capacità di elaborazione di nuova conoscenza di un'organizzazione, una risorsa fondamentale che alimenta la capacità di innovazione e gestione di cambiamento organizzativo.
+**Distrattori:**
+- La conoscenza disponibile e la capacità di elaborazione di nuova conoscenza dei singoli collaboratori, una risorsa fondamentale che alimenta la capacità di innovazione e gestione di cambiamento organizzativo.
+- La capacità di riconoscere il valore di un nuovo elemento di informazione, nonché di assimilarlo ovvero di utilizzarlo nei propri processi interni, combinandolo con altre conoscenze, e trasformandolo in un prodotto di valore per il cliente.
+
+**D:** ⚠️ Da quante e quali componenti è composto il capitale intellettuale, e che cosa rappresentano, secondo la lezione 04?
+**R:** «CI è composta da **3 componenti** che rappresentano **fattori strategici per lo sviluppo dell'innovazione**: 1. **Umana** 2. **Sociale** 3. **Organizzativa**» (slide 2; [00:02:35]). ⚠️ Non vanno confuse con le colonne della slide 8, dove le componenti sono **sociopsicologiche**, sociali e organizzative. «Relazionale» è invece una delle due dimensioni del capitale sociale (slide 6), e il «capitale patrimoniale» del test non compare in nessuno dei 30 deck del corso.
+**Opzione:** Da 3 componenti, umana, sociale e organizzativa, che rappresentano fattori strategici per lo sviluppo dell'innovazione.
+**Distrattori:**
+- Da 3 componenti, sociopsicologica, sociale e organizzativa, che rappresentano fattori strategici per lo sviluppo dell'innovazione.
+- Da 3 componenti, umana, sociale e patrimoniale, che rappresentano fattori strategici per lo sviluppo dell'innovazione.
+
+**D:** ⚠️ Che cos'è il capitale umano, e a quale condizione può produrre valore, secondo la lezione 04?
+**R:** «L'insieme della **conoscenza**, delle **competenze** e delle **abilità** di cui sono dotati **individualmente** i collaboratori di un'organizzazione. Affinché questa componente possa produrre valore devono essere presenti **altre 2 forme di CI**» (slide 3), cioè la sociale e l'organizzativa. Per la docente è «il primo livello», quello di ogni singolo individuo ([00:02:51]–[00:03:23]).
+**Opzione:** L'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori di un'organizzazione; affinché questa componente possa produrre valore devono essere presenti altre 2 forme di CI.
+**Distrattori:**
+- L'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori di un'organizzazione; questa componente può produrre valore anche senza le altre 2 forme di CI.
+- È costituito dalla conoscenza interna all'organizzazione resa fruibile attraverso le reti di relazioni tra gli individui.
+- L'istituzionalizzazione della conoscenza e la codificazione dell'esperienza e dei comportamenti interni, fruibili sotto forma di strutture organizzative, sistemi operativi e processi.
+
+**D:** ⚠️ Da che cosa è costituito il capitale sociale, secondo la lezione 04?
+**R:** «E' costituito dalla **conoscenza interna all'organizzazione** resa fruibile attraverso le **reti di relazioni tra gli individui**» (slide 4; [00:03:23]). Per la docente si crea nei momenti di interazione fra i singoli. ⚠️ Anche il capitale organizzativo parla di conoscenza, di comportamenti «interni» e di forme «fruibili»: discrimina il veicolo, qui le **reti di relazioni**, lì «strutture organizzative, sistemi operativi e processi» (domanda 4 del test).
+**Opzione:** È costituito dalla conoscenza interna all'organizzazione resa fruibile attraverso le reti di relazioni tra gli individui.
+**Distrattori:**
+- È costituito dalla conoscenza interna all'organizzazione resa fruibile sotto forma di strutture organizzative, sistemi operativi e processi.
+- L'istituzionalizzazione della conoscenza e la codificazione dell'esperienza e dei comportamenti interni, fruibili sotto forma di strutture organizzative, sistemi operativi e processi.
+- L'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori di un'organizzazione; affinché questa componente possa produrre valore devono essere presenti altre 2 forme di CI.
+
+**D:** ⚠️ Come definisce il capitale organizzativo la lezione 04?
+**R:** «L'**istituzionalizzazione** della conoscenza e la **codificazione** dell'esperienza e dei comportamenti interni, fruibili sotto forma di **strutture organizzative, sistemi operativi e processi**» (slide 7). Per la docente è il livello «più allargato», che rende la conoscenza fruibile per tutta la struttura organizzativa; l'esempio è l'**intranet** ([00:15:44]–[00:16:57]). ⚠️ Il veicolo sono strutture, sistemi e processi, non le reti di relazioni del capitale sociale.
+**Opzione:** L'istituzionalizzazione della conoscenza e la codificazione dell'esperienza e dei comportamenti interni, fruibili sotto forma di strutture organizzative, sistemi operativi e processi.
+**Distrattori:**
+- L'istituzionalizzazione della conoscenza e la codificazione dell'esperienza e dei comportamenti interni, fruibili attraverso le reti di relazioni tra gli individui.
+- È costituito dalla conoscenza interna all'organizzazione resa fruibile attraverso le reti di relazioni tra gli individui.
+- L'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori di un'organizzazione; affinché questa componente possa produrre valore devono essere presenti altre 2 forme di CI.
+
+**D:** ⚠️ In quante fasi e secondo quale modello si svolge il processo di conversione e condivisione della conoscenza, e quali sono le fasi nell'ordine, secondo la lezione 04?
+**R:** «La conoscenza all'interno dell'organizzazione è soggetta a un processo di conversione e condivisione in **4 fasi** (*SECI model*)»: «1. **Socializzazione** 2. **Esternalizzazione** 3. **Combinazione** 4. **Internalizzazione**» (slide 4). La sigla è l'iniziale delle fasi. Per la docente in questi processi la conoscenza passa da tacita a esplicita «o viceversa» ([00:05:23]–[00:05:34]); la trascrizione automatica scrive «6C model» ([00:04:02]). ⚠️ «Istituzionalizzazione» è la parola del capitale organizzativo (slide 7), non una fase del SECI.
+**Opzione:** In 4 fasi, secondo il SECI model: socializzazione, esternalizzazione, combinazione, internalizzazione.
+**Distrattori:**
+- In 4 fasi, secondo il SECI model: socializzazione, esternalizzazione, combinazione, istituzionalizzazione.
+- In 4 fasi, secondo il SECI model: socializzazione, combinazione, esternalizzazione, internalizzazione.
+- In 4 fasi, secondo il modello SWOT: socializzazione, esternalizzazione, combinazione, internalizzazione.
+
+**D:** ⚠️ Com'è originariamente la conoscenza nell'organizzazione, e come si rende disponibile, secondo la lezione 04?
+**R:** «Originariamente **tacita e implicita** e conservata a **livello individuale**, si rende disponibile e si immette nel circuito attraverso le seguenti fasi» (slide 4), cioè le quattro del SECI model. Per la docente la conoscenza tacita è **soggettiva**, quella esplicita **oggettiva** e trasferibile: la cosa importante è renderla esplicita per diffonderla su diversi livelli organizzativi ([00:04:19]–[00:05:15]).
+**Opzione:** Originariamente tacita e implicita e conservata a livello individuale; si rende disponibile e si immette nel circuito attraverso le fasi del SECI model.
+**Distrattori:**
+- Originariamente esplicita e codificata e conservata a livello organizzativo; si rende disponibile e si immette nel circuito attraverso le fasi del SECI model.
+- Un termine giapponese che indica il concetto di spazio, di diversa natura (fisica, virtuale, mentale); nel contesto attuale di dematerializzazione delle esperienze si parla di cyber-ba.
+- Da 3 componenti, umana, sociale e organizzativa, che rappresentano fattori strategici per lo sviluppo dell'innovazione.
+
+**D:** Come definisce la socializzazione il SECI model della lezione 04?
+**R:** «**Socializzazione** – condivisione della conoscenza **tacita** tra individui» (slide 5). L'esempio della docente: si impara **osservando** un collega che non riesce a esprimere a parole ciò che sa, e la conoscenza tacita di uno diventa la conoscenza tacita di un altro ([00:05:51]–[00:06:41]).
+**Opzione:** Condivisione della conoscenza tacita tra individui.
+**Distrattori:**
+- Condivisione della conoscenza esplicita tra individui.
+- Appropriazione della conoscenza esplicita da parte degli individui, i quali la trasformano nella propria conoscenza tacita.
+- Traduzione della conoscenza tacita in concetti espliciti e trasferibili.
+
+**D:** Come definisce l'esternalizzazione il SECI model della lezione 04?
+**R:** «**Esternalizzazione** – traduzione della conoscenza **tacita** in concetti **espliciti e trasferibili**» (slide 5). L'esempio della docente è il **video tutorial** su come si svolge un compito, «solo un esempio» fra diversi strumenti che rendono esplicita la conoscenza tacita ([00:06:41]–[00:08:13]).
+**Opzione:** Traduzione della conoscenza tacita in concetti espliciti e trasferibili.
+**Distrattori:**
+- Traduzione della conoscenza tacita in concetti impliciti e non trasferibili.
+- Condivisione della conoscenza tacita tra individui.
+- Abbinamento delle entità differenti di conoscenza esplicita dando luogo a una rielaborazione e a un'espansione della conoscenza.
+
+**D:** Come definisce la combinazione il SECI model della lezione 04?
+**R:** «**Combinazione** – abbinamento delle entità differenti di conoscenza **esplicita** dando luogo a una **rielaborazione** e a un'**espansione** della conoscenza» (slide 5). Per la docente si parte da conoscenza già scritta in manuali, norme e standard; l'esempio è una **review della letteratura** che combina più definizioni in una più ampia ([00:08:13]–[00:09:52]).
+**Opzione:** Abbinamento delle entità differenti di conoscenza esplicita dando luogo a una rielaborazione e a un'espansione della conoscenza.
+**Distrattori:**
+- Abbinamento delle entità differenti di conoscenza tacita dando luogo a una rielaborazione e a un'espansione della conoscenza.
+- Traduzione della conoscenza tacita in concetti espliciti e trasferibili.
+- Appropriazione della conoscenza esplicita da parte degli individui, i quali la trasformano nella propria conoscenza tacita.
+
+**D:** Come definisce l'internalizzazione il SECI model della lezione 04?
+**R:** «**Internalizzazione** – **appropriazione** della conoscenza **esplicita** da parte degli individui, I quali la trasformano nella propria conoscenza **tacita**» (slide 5). Per la docente ciò che si impara si combina con i propri valori, la cultura, il background e le soft skills: per questo chi studia sugli stessi libri applica poi la conoscenza in maniera differente ([00:09:52]–[00:11:30]).
+**Opzione:** Appropriazione della conoscenza esplicita da parte degli individui, i quali la trasformano nella propria conoscenza tacita.
+**Distrattori:**
+- Appropriazione della conoscenza tacita da parte degli individui, i quali la trasformano nella propria conoscenza esplicita.
+- Abbinamento delle entità differenti di conoscenza esplicita dando luogo a una rielaborazione e a un'espansione della conoscenza.
+- Condivisione della conoscenza tacita tra individui.
+
+**D:** ⚠️ Senza che cosa il processo di espansione della conoscenza non potrebbe realizzarsi, e che cosa ne segue, secondo la lezione 04?
+**R:** «Questo processo non potrebbe realizzarsi senza un **luogo fisico o virtuale** (*"il ba"*) in cui Avvengono le relazioni del processo di espansione della conoscenza -> il processo di creazione della conoscenza all'interno dell'organizzazione è ***context depenent***» (slide 5, refuso compreso). Per la docente il ba conta perché ogni azienda ha cultura, strategia e capitale emotivo, intellettuale e relazionale diversi ([00:11:33]–[00:12:47]).
+**Opzione:** Senza un luogo fisico o virtuale, il ba, in cui avvengono le relazioni del processo di espansione della conoscenza; per questo il processo di creazione della conoscenza all'interno dell'organizzazione è context dependent.
+**Distrattori:**
+- Senza un luogo esclusivamente fisico, il ba, in cui avvengono le relazioni del processo di espansione della conoscenza; per questo il processo di creazione della conoscenza all'interno dell'organizzazione è context dependent.
+- Originariamente tacita e implicita e conservata a livello individuale; si rende disponibile e si immette nel circuito attraverso le fasi del SECI model.
+- Ha il ruolo strategico (partnership strategica con il vertice), perché sempre più coinvolta nella generazione del valore e nella predisposizione delle condizioni per lo sviluppo di business.
+
+**D:** ⚠️ Che cosa indica il termine «ba», e come si chiama nel contesto attuale, secondo la lezione 04?
+**R:** «Il ba è un **termine giapponese** che indica il concetto di **spazio** (di diversa natura – **fisica, virtuale, mentale**) -> nel contesto attuale di **dematerializzazione delle esperienze** "**il cyber-ba**"» (slide 5, nota). ⚠️ Il corpo della slide dice «luogo fisico o virtuale», la nota aggiunge «mentale». La docente lega il cyber-ba al passaggio della banca al modello basato sulla piattaforma: un ba «non soltanto fisico ma anche digitale» ([00:12:50]–[00:13:25]).
+**Opzione:** Un termine giapponese che indica il concetto di spazio, di diversa natura (fisica, virtuale, mentale); nel contesto attuale di dematerializzazione delle esperienze si parla di cyber-ba.
+**Distrattori:**
+- Un termine giapponese che indica il concetto di spazio, di diversa natura (fisica, virtuale, organizzativa); nel contesto attuale di dematerializzazione delle esperienze si parla di cyber-ba.
+- Con la funzione di boundary spanning role, per potenziare il capitale sociale e organizzativo.
+- Originariamente tacita e implicita e conservata a livello individuale; si rende disponibile e si immette nel circuito attraverso le fasi del SECI model.
+
+**D:** ⚠️ Quali sono le 2 dimensioni del capitale sociale, e che cosa riguarda ciascuna, secondo la lezione 04?
+**R:** «1. **Strutturale**: riguarda la **struttura del network**, quindi i **contatti a cui ogni individuo ha accesso** 2. **Relazionale**: si riferisce alla **qualità delle relazioni**, che **influenza profondamente la capacità di innovazione** dell'organizzazione» (slide 6). Per la docente la strutturale riguarda la **quantità**, «l'accesso alla numerosità» delle relazioni, anche con i partner esterni; la relazionale la **qualità** ([00:14:00]–[00:15:44]).
+**Opzione:** Strutturale: riguarda la struttura del network, quindi i contatti a cui ogni individuo ha accesso; relazionale: si riferisce alla qualità delle relazioni, che influenza profondamente la capacità di innovazione dell'organizzazione.
+**Distrattori:**
+- Strutturale: si riferisce alla qualità delle relazioni, che influenza profondamente la capacità di innovazione dell'organizzazione; relazionale: riguarda la struttura del network, quindi i contatti a cui ogni individuo ha accesso.
+- In 4 fasi, secondo il SECI model: socializzazione, esternalizzazione, combinazione, internalizzazione.
+- Senza un luogo fisico o virtuale, il ba, in cui avvengono le relazioni del processo di espansione della conoscenza; per questo il processo di creazione della conoscenza all'interno dell'organizzazione è context dependent.
+
+**D:** ⚠️ Quali sono le componenti sociopsicologiche fra gli elementi per la condivisione della conoscenza, secondo la lezione 04?
+**R:** «**Apertura all'innovazione**; **Flessibilità**; **Capacità di lavorare in team**; **Soft skills**» (slide 8, prima colonna). Per la docente sono legate al **singolo dipendente** ([00:17:47]–[00:18:23]). ⚠️ Le soft skills e il lavoro in team sono **sociopsicologici**, non sociali; la fiducia nell'organizzazione è una componente **sociale**.
+**Opzione:** Apertura all'innovazione; flessibilità; capacità di lavorare in team; soft skills.
+**Distrattori:**
+- Apertura all'innovazione; flessibilità; capacità di lavorare in team; fiducia nell'organizzazione.
+- Clima organizzativo; fiducia nell'organizzazione; identificazione con l'organizzazione e il gruppo di lavoro.
+- Coerenti sistemi operativi di gestione del personale; efficaci meccanismi di coordinamento e controllo.
+
+**D:** ⚠️ Quali sono le componenti sociali fra gli elementi per la condivisione della conoscenza, secondo la lezione 04?
+**R:** «**Clima organizzativo**; **Fiducia nell'organizzazione**; **Identificazione con l'organizzazione e il gruppo di lavoro**» (slide 8, seconda colonna). La docente lega al clima il **work-life balance** e mette in guardia dal **toxic management**; alla fiducia lega il **senso di appartenenza** ([00:18:23]–[00:19:43]). ⚠️ Il clima organizzativo è una componente **sociale**, nonostante l'aggettivo; la capacità di lavorare in team è **sociopsicologica**.
+**Opzione:** Clima organizzativo; fiducia nell'organizzazione; identificazione con l'organizzazione e il gruppo di lavoro.
+**Distrattori:**
+- Clima organizzativo; fiducia nell'organizzazione; capacità di lavorare in team.
+- Apertura all'innovazione; flessibilità; capacità di lavorare in team; soft skills.
+- Coerenti sistemi operativi di gestione del personale; efficaci meccanismi di coordinamento e controllo.
+
+**D:** ⚠️ Quali sono le componenti organizzative fra gli elementi per la condivisione della conoscenza, secondo la lezione 04?
+**R:** «**Coerenti sistemi operativi di gestione del personale**; **Efficaci meccanismi di coordinamento e controllo**» (slide 8, terza colonna). Per la docente vanno allineati i processi operativi quotidiani con quelli di gestione del personale, e i meccanismi di coordinamento e di controllo vanno rivisti ([00:19:43]–[00:20:33]). ⚠️ Sono **due** voci; il clima organizzativo sta fra le componenti sociali.
+**Opzione:** Coerenti sistemi operativi di gestione del personale; efficaci meccanismi di coordinamento e controllo.
+**Distrattori:**
+- Coerenti sistemi operativi di gestione del personale; clima organizzativo.
+- Apertura all'innovazione; flessibilità; capacità di lavorare in team; soft skills.
+- Clima organizzativo; fiducia nell'organizzazione; identificazione con l'organizzazione e il gruppo di lavoro.
+
+**D:** ⚠️ Quali collegamenti fra le componenti del capitale intellettuale indica la lezione 04, e con quale effetto sull'innovazione?
+**R:** «Un collegamento tra **gli aspetti relazionali del capitale sociale e i risultati innovativi**: L'innovazione come uno **sforzo collaborativo** che beneficia di strumenti di comunicazione e di condivisione della conoscenza» e «**Capitale sociale e capitale umano** interagiscono tra loro determinando la **capacità di innovare**» (slide 9; [00:20:33]–[00:21:30]). ⚠️ Nella seconda coppia il capitale organizzativo non c'è.
+**Opzione:** Un collegamento tra gli aspetti relazionali del capitale sociale e i risultati innovativi (l'innovazione come uno sforzo collaborativo che beneficia di strumenti di comunicazione e di condivisione della conoscenza); capitale sociale e capitale umano interagiscono tra loro determinando la capacità di innovare.
+**Distrattori:**
+- Un collegamento tra gli aspetti relazionali del capitale sociale e i risultati innovativi (l'innovazione come uno sforzo collaborativo che beneficia di strumenti di comunicazione e di condivisione della conoscenza); capitale sociale e capitale organizzativo interagiscono tra loro determinando la capacità di innovare.
+- Predisposizione delle condizioni umane, sociali e organizzative; sostenimento del valore di CI; rafforzamento del potenziale di absorptive capacity e della capacità di innovazione; creazione della cultura organizzativa.
+- Trasformano la propria conoscenza professionale (conoscenza esplicita e tacita, razionale ed emotiva) e gli input conoscitivi (dati, informazioni, immagini, concetti, segnali, simboli) in output di conoscenza a maggior valore, con un valore aggiunto.
+
+**D:** ⚠️ Che effetti hanno la qualità e l'intensità dell'interazione sociale, secondo la lezione 04?
+**R:** «✓ **Rafforzano** la fiducia nell'organizzazione ✓ **Stimolano** l'assunzione del rischio ✓ **Riducono** l'ansia dell'incertezza» (slide 9). Per la docente l'assunzione del rischio è la capacità di «mettersi in gioco», riducendo il **timore di fallimento** ([00:21:30]–[00:22:33]). ⚠️ Tre verbi di direzione: rafforzano, stimolano, riducono.
+**Opzione:** Rafforzano la fiducia nell'organizzazione, stimolano l'assunzione del rischio, riducono l'ansia dell'incertezza.
+**Distrattori:**
+- Rafforzano la fiducia nell'organizzazione, riducono l'assunzione del rischio, riducono l'ansia dell'incertezza.
+- Riducono la fiducia nell'organizzazione, stimolano l'assunzione del rischio, riducono l'ansia dell'incertezza.
+- Rafforzano la fiducia nell'organizzazione, stimolano l'assunzione del rischio, aumentano l'ansia dell'incertezza.
+
+**D:** ⚠️ Quali sono, nell'ordine, le pratiche di gestione delle risorse umane per sviluppare il capitale intellettuale, secondo la lezione 04?
+**R:** «1. Creazione di **team interfunzionali** e **perni di collegamento** tra differenti funzioni e dipartimenti all'interno dell'azienda (**soluzioni organizzative flessibili**) 2. Sviluppo di **liaison roles** con la funzione di **boundary spanning role** per potenziare il capitale **sociale e organizzativo** 3. Individuazione degli **knowledge activists** ("attivatori di conoscenza")» (slide 10). Per la docente le soluzioni flessibili sono quelle «non rigide», senza una gerarchia molto definita e rigida ([00:22:40]–[00:23:42]).
+**Opzione:** Creazione di team interfunzionali e perni di collegamento tra differenti funzioni e dipartimenti all'interno dell'azienda (soluzioni organizzative flessibili); sviluppo di liaison roles con la funzione di boundary spanning role per potenziare il capitale sociale e organizzativo; individuazione degli knowledge activists (attivatori di conoscenza).
+**Distrattori:**
+- Creazione di team interfunzionali e perni di collegamento tra differenti funzioni e dipartimenti all'interno dell'azienda (soluzioni organizzative rigide e gerarchiche); sviluppo di liaison roles con la funzione di boundary spanning role per potenziare il capitale sociale e organizzativo; individuazione degli knowledge activists (attivatori di conoscenza).
+- In 4 fasi, secondo il SECI model: socializzazione, esternalizzazione, combinazione, internalizzazione.
+- Strutturale: riguarda la struttura del network, quindi i contatti a cui ogni individuo ha accesso; relazionale: si riferisce alla qualità delle relazioni, che influenza profondamente la capacità di innovazione dell'organizzazione.
+
+**D:** ⚠️ Con quale funzione si sviluppano i liaison roles, e per potenziare quali capitali, secondo la lezione 04?
+**R:** «Sviluppo di *liaison roles* con la funzione di ***boundary spanning role*** per potenziare il **capitale sociale e organizzativo**» (slide 10). Per la docente sono «i **ruoli di confine**» ([00:23:15]–[00:23:28]). ⚠️ Non il capitale umano; e i knowledge activists sono la pratica successiva, non la funzione dei liaison roles.
+**Opzione:** Con la funzione di boundary spanning role, per potenziare il capitale sociale e organizzativo.
+**Distrattori:**
+- Con la funzione di boundary spanning role, per potenziare il capitale umano e sociale.
+- Con la funzione di boundary spanning role, per potenziare il capitale umano e organizzativo.
+- Con la funzione di knowledge activist, per potenziare il capitale sociale e organizzativo.
+
+**D:** ⚠️ Qual è il compito principale dei liaison roles, e in quante direzioni si svolgono le loro azioni, secondo la lezione 04?
+**R:** «Il compito principale: Realizzare un collegamento tra le caratteristiche dell'**ambiente** in cui opera l'azienda e la **struttura organizzativa**; Mediare tra le **politiche aziendali** e i **limiti imposti dall'ambiente**. Azioni in **2 direzioni**: Dall'esterno verso l'interno **e viceversa**» (slide 11). Per la docente è un ruolo «sui confini organizzativi» ([00:23:59]–[00:24:50]). ⚠️ I perni di collegamento della slide 10 uniscono funzioni **interne**; i liaison roles collegano l'azienda all'**ambiente**.
+**Opzione:** Realizzare un collegamento tra le caratteristiche dell'ambiente in cui opera l'azienda e la struttura organizzativa; mediare tra le politiche aziendali e i limiti imposti dall'ambiente; azioni in 2 direzioni: dall'esterno verso l'interno e viceversa.
+**Distrattori:**
+- Realizzare un collegamento tra le caratteristiche dell'ambiente in cui opera l'azienda e la struttura organizzativa; mediare tra le politiche aziendali e i limiti imposti dall'ambiente; azioni in una sola direzione: dall'esterno verso l'interno.
+- La conoscenza disponibile e la capacità di elaborazione di nuova conoscenza di un'organizzazione, una risorsa fondamentale che alimenta la capacità di innovazione e gestione di cambiamento organizzativo.
+- Senza un luogo fisico o virtuale, il ba, in cui avvengono le relazioni del processo di espansione della conoscenza; per questo il processo di creazione della conoscenza all'interno dell'organizzazione è context dependent.
+
+**D:** ⚠️ Quali sono le 2 categorie di funzioni dei liaison roles, secondo la lezione 04?
+**R:** «1. **Elaborazione delle informazioni**: selezionando, trasmettendo e interpretando l'informazione originata nell'**ambiente esterno** 2. **Rappresentanza esterna**: Acquisizione di risorse; Legittimazione politica; **Mantenimento o rafforzamento** della legittimazione sociale e dell'immagine dell'azienda» (slide 11). Per la docente la legittimazione politica è «una specie di riconoscimento del valore» dell'operato dell'azienda, la legittimazione sociale e l'immagine «una specie di brand reputation» ([00:24:50]–[00:26:52]).
+**Opzione:** Elaborazione delle informazioni, selezionando, trasmettendo e interpretando l'informazione originata nell'ambiente esterno; rappresentanza esterna: acquisizione di risorse, legittimazione politica, mantenimento o rafforzamento della legittimazione sociale e dell'immagine dell'azienda.
+**Distrattori:**
+- Elaborazione delle informazioni, selezionando, trasmettendo e interpretando l'informazione originata all'interno dell'organizzazione; rappresentanza esterna: acquisizione di risorse, legittimazione politica, mantenimento o rafforzamento della legittimazione sociale e dell'immagine dell'azienda.
+- Predisposizione delle condizioni umane, sociali e organizzative; sostenimento del valore di CI; rafforzamento del potenziale di absorptive capacity e della capacità di innovazione; creazione della cultura organizzativa.
+- Un termine giapponese che indica il concetto di spazio, di diversa natura (fisica, virtuale, mentale); nel contesto attuale di dematerializzazione delle esperienze si parla di cyber-ba.
+
+**D:** ⚠️ Chi sono i knowledge activists, e che opportunità hanno, secondo la lezione 04?
+**R:** «**Generalmente middle manager** o **ruoli professionali** che operano all'**intersezione di flussi orizzontali e verticali** di informazione e conoscenza» che «hanno maggiori opportunità di influenzare il processo di **apprendimento organizzativo** e di **contribuire all'innovazione**» (slide 12). Per la docente sono i **nodi** che smistano le informazioni su diversi livelli e facilitano il knowledge management ([00:26:52]–[00:27:57]).
+**Opzione:** Generalmente middle manager o ruoli professionali che operano all'intersezione di flussi orizzontali e verticali di informazione e conoscenza; hanno maggiori opportunità di influenzare il processo di apprendimento organizzativo e di contribuire all'innovazione.
+**Distrattori:**
+- Generalmente top manager o ruoli professionali che operano all'intersezione di flussi orizzontali e verticali di informazione e conoscenza; hanno maggiori opportunità di influenzare il processo di apprendimento organizzativo e di contribuire all'innovazione.
+- Realizzare un collegamento tra le caratteristiche dell'ambiente in cui opera l'azienda e la struttura organizzativa; mediare tra le politiche aziendali e i limiti imposti dall'ambiente; azioni in 2 direzioni: dall'esterno verso l'interno e viceversa.
+- Ha il ruolo strategico (partnership strategica con il vertice), perché sempre più coinvolta nella generazione del valore e nella predisposizione delle condizioni per lo sviluppo di business.
+
+**D:** Come definisce i knowledge workers la lezione 04?
+**R:** «I lavoratori della conoscenza trasformano la propria **conoscenza professionale** (conoscenza **esplicita e tacita, razionale ed emotiva**) e gli **input conoscitivi** (dati, informazioni, immagini, concetti, segnali, simboli) in **output di conoscenza a maggior valore**, con un valore aggiunto» (slide 13). Gli esempi della slide sono computer scientist, esperti di marketing, ricercatori, ingegneri, esperti di finanza e controllo, esperti legali e tributari, consulenti; la docente aggiunge il data analyst ([00:28:10]–[00:29:25]). Sono **esempi** di attivatori di conoscenza nella Bancatech.
+**Opzione:** Trasformano la propria conoscenza professionale (conoscenza esplicita e tacita, razionale ed emotiva) e gli input conoscitivi (dati, informazioni, immagini, concetti, segnali, simboli) in output di conoscenza a maggior valore, con un valore aggiunto.
+**Distrattori:**
+- Trasformano la propria conoscenza professionale (solo conoscenza esplicita e razionale) e gli input conoscitivi (dati, informazioni, immagini, concetti, segnali, simboli) in output di conoscenza a maggior valore, con un valore aggiunto.
+- I collaboratori che riflettono le azioni proprie e di altre persone applicando il pensiero critico al fine di stimolare il continuo adattamento e la crescita; es. coach, mentor.
+- La capacità di riconoscere il valore di un nuovo elemento di informazione, nonché di assimilarlo ovvero di utilizzarlo nei propri processi interni, combinandolo con altre conoscenze, e trasformandolo in un prodotto di valore per il cliente.
+
+**D:** Come definisce i reflective practitioners la lezione 04, e con quali esempi?
+**R:** «I collaboratori che riflettono le azioni **proprie e di altre persone** applicando il **pensiero critico** al fine di stimolare il **continuo adattamento e la crescita** — es. *coach, mentor*» (slide 13). La docente aggiunge il **tutor**: ruoli che aiutano a scoprire le zone di crescita del dipendente e dell'organizzazione ([00:29:25]–[00:30:17]).
+**Opzione:** I collaboratori che riflettono le azioni proprie e di altre persone applicando il pensiero critico al fine di stimolare il continuo adattamento e la crescita; es. coach, mentor.
+**Distrattori:**
+- I collaboratori che riflettono solo le azioni proprie applicando il pensiero critico al fine di stimolare il continuo adattamento e la crescita; es. coach, mentor.
+- Trasformano la propria conoscenza professionale (conoscenza esplicita e tacita, razionale ed emotiva) e gli input conoscitivi (dati, informazioni, immagini, concetti, segnali, simboli) in output di conoscenza a maggior valore, con un valore aggiunto.
+- Rafforzano la fiducia nell'organizzazione, stimolano l'assunzione del rischio, riducono l'ansia dell'incertezza.
+
+**D:** ⚠️ Che ruolo ha la direzione del personale per il cambiamento organizzativo, e perché, secondo la lezione 04?
+**R:** «Ha il **ruolo strategico** (**partnership strategica con il vertice**), perché sempre più coinvolta nella **generazione del valore** e nella **predisposizione delle condizioni per lo sviluppo di business**» (slide 14). Per la docente diventa «il partner strategico con il vertice aziendale», coinvolto su tutti gli step della catena della creazione del valore ([00:30:17]–[00:30:51]).
+**Opzione:** Ha il ruolo strategico (partnership strategica con il vertice), perché sempre più coinvolta nella generazione del valore e nella predisposizione delle condizioni per lo sviluppo di business.
+**Distrattori:**
+- Ha un ruolo operativo (supporto amministrativo al vertice), perché sempre più coinvolta nella generazione del valore e nella predisposizione delle condizioni per lo sviluppo di business.
+- Con la funzione di boundary spanning role, per potenziare il capitale sociale e organizzativo.
+- I collaboratori che riflettono le azioni proprie e di altre persone applicando il pensiero critico al fine di stimolare il continuo adattamento e la crescita; es. coach, mentor.
+
+**D:** ⚠️ Con quali azioni la direzione del personale contribuisce allo sviluppo di business, secondo la lezione 04?
+**R:** «Predisposizione delle condizioni **umane, sociali e organizzative**; Sostenimento del **valore di CI**; Rafforzamento del potenziale di ***absorptive capacity*** e della **capacità di innovazione**; Creazione della **cultura organizzativa**» (slide 14). La cultura organizzativa è «una risorsa fondamentale per sviluppare e sostenere la capacità di innovare»; l'esempio va dalla cooperazione interna alla condivisione delle informazioni con i partner esterni ([00:30:51]–[00:31:26]).
+**Opzione:** Predisposizione delle condizioni umane, sociali e organizzative; sostenimento del valore di CI; rafforzamento del potenziale di absorptive capacity e della capacità di innovazione; creazione della cultura organizzativa.
+**Distrattori:**
+- Predisposizione delle condizioni umane, sociali e patrimoniali; sostenimento del valore di CI; rafforzamento del potenziale di absorptive capacity e della capacità di innovazione; creazione della cultura organizzativa.
+- Da 3 componenti, umana, sociale e organizzativa, che rappresentano fattori strategici per lo sviluppo dell'innovazione.
+- Rafforzano la fiducia nell'organizzazione, stimolano l'assunzione del rischio, riducono l'ansia dell'incertezza.
+
+**D:** ⚠️ Quali sono le leve della gestione delle risorse umane per avviare il circolo virtuoso dell'innovazione, e a che cosa serve ciascuna, secondo la lezione 04?
+**R:** «Reclutamento e selezione di risorse con le skill (**soft e hard**) più rispondenti alle nuove sfide; Formazione continua e sviluppo del potenziale individuale, per valorizzare il **patrimonio di capitale umano interno**; Sistemi di valutazione, per indirizzare verso la **collaborazione** e la **recettività all'innovazione**; Meccanismi di ricompensa e di carriera, per **premiare i risultati collettivi** e riconoscere l'impegno e la collaborazione dell'individuo» (slide 15; [00:32:03]–[00:33:22]). ⚠️ I risultati premiati sono quelli **collettivi**; all'individuo si riconoscono l'impegno e la collaborazione.
+**Opzione:** Reclutamento e selezione di risorse con le skill (soft e hard) più rispondenti alle nuove sfide; formazione continua e sviluppo del potenziale individuale, per valorizzare il patrimonio di capitale umano interno; sistemi di valutazione, per indirizzare verso la collaborazione e la recettività all'innovazione; meccanismi di ricompensa e di carriera, per premiare i risultati collettivi e riconoscere l'impegno e la collaborazione dell'individuo.
+**Distrattori:**
+- Reclutamento e selezione di risorse con le skill (soft e hard) più rispondenti alle nuove sfide; formazione continua e sviluppo del potenziale individuale, per valorizzare il patrimonio di capitale umano interno; sistemi di valutazione, per indirizzare verso la collaborazione e la recettività all'innovazione; meccanismi di ricompensa e di carriera, per premiare i risultati individuali e riconoscere l'impegno e la collaborazione dell'individuo.
+- Strutturale: riguarda la struttura del network, quindi i contatti a cui ogni individuo ha accesso; relazionale: si riferisce alla qualità delle relazioni, che influenza profondamente la capacità di innovazione dell'organizzazione.
+- Realizzare un collegamento tra le caratteristiche dell'ambiente in cui opera l'azienda e la struttura organizzativa; mediare tra le politiche aziendali e i limiti imposti dall'ambiente; azioni in 2 direzioni: dall'esterno verso l'interno e viceversa.
+
+**D:** ⚠️ Come si chiama la capacità di riconoscere il valore di un nuovo elemento di informazione, di assimilarlo ovvero di utilizzarlo nei propri processi interni, combinandolo con altre conoscenze, secondo il test della lezione 04 (domanda 1)?
+**R:** **Absorptive capacity**: è la slide 2 alla lettera, senza la coda «e trasformandolo in un prodotto di valore per il cliente» ([00:00:41]). Distrattori del test: «intelligenza artificiale», che richiama l'«Artificial Intellegence» della slide 2 della lezione 01; «intelligenza emotiva», che non compare in nessuno dei 30 deck né nei 20 transcript disponibili; «soft skill», definite nella slide 4 della **lezione 03** e presenti anche nelle slide 8 e 15 di questa. Sono qualità o tecnologie, non la capacità dell'impresa di assorbire informazione.
+**Opzione:** Absorptive capacity.
+**Distrattori:**
+- Intelligenza artificiale.
+- Intelligenza emotiva.
+- Soft skill.
+
+**D:** ⚠️ Come si chiama la conoscenza disponibile e la capacità di elaborazione di nuova conoscenza di un'organizzazione, risorsa fondamentale per l'innovazione e il cambiamento organizzativo, secondo il test della lezione 04 (domanda 2)?
+**R:** **Capitale intellettuale** (la piattaforma scrive «intelettuale»): è la slide 2 alla lettera ([00:01:30]). ⚠️ È la domanda speculare della 1: le prime tre opzioni sono le stesse, e «absorptive capacity», chiave della domanda 1, qui è un distrattore. Gli altri due sono «intelligenza artificiale» e «intelligenza emotiva».
+**Opzione:** Capitale intellettuale.
+**Distrattori:**
+- Intelligenza artificiale.
+- Intelligenza emotiva.
+- Absorptive capacity.
+
+**D:** ⚠️ Come si chiama l'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori di un'organizzazione, secondo il test della lezione 04 (domanda 3)?
+**R:** **Capitale umano**: è la slide 3 alla lettera ([00:02:51]). La parola che lo riconosce è «**individualmente**». ⚠️ La domanda 4 ha la stessa batteria (capitale patrimoniale, organizzativo, umano, sociale) con la chiave sul capitale sociale. Il «capitale patrimoniale» non compare in nessun deck del corso.
+**Opzione:** Capitale umano.
+**Distrattori:**
+- Capitale patrimoniale.
+- Capitale organizzativo.
+- Capitale sociale.
+
+**D:** ⚠️ Come si chiama il capitale dell'azienda costituito dalla conoscenza interna all'organizzazione resa fruibile attraverso le reti di relazioni tra gli individui, secondo il test della lezione 04 (domanda 4)?
+**R:** **Capitale sociale**: è la slide 4 alla lettera ([00:03:23]). ⚠️ Il distrattore insidioso è il **capitale organizzativo**, che nella slide 7 ha anch'esso conoscenza, comportamenti «interni» e forme «fruibili», ma «sotto forma di strutture organizzative, sistemi operativi e processi». Il veicolo delle **reti di relazioni tra gli individui** è del capitale sociale. Il capitale umano, chiave della domanda 3, è quello dei collaboratori presi «individualmente».
+**Opzione:** Capitale sociale.
+**Distrattori:**
+- Capitale patrimoniale.
+- Capitale organizzativo.
+- Capitale umano.
+
+**D:** ⚠️ Su quale modello si basa il processo di conversione e condivisione della conoscenza in 4 fasi, secondo il test della lezione 04 (domanda 5)?
+**R:** Sul **modello SECI** (slide 4, «*SECI model*»), le cui fasi sono **Socializzazione**, **Esternalizzazione**, **Combinazione** e **Internalizzazione** (slide 5). La trascrizione automatica scrive «6C model» ([00:04:02]) e «Seishi Model» ([00:21:01]). Distrattori del test, da lezioni successive o da un altro corso: la **SWOT** (lezione 15, slide 12), la **Business Process Analysis** (lezione 21, slide 13) e il **modello di Ansoff**, che non compare in nessuno dei 30 deck né nei 20 transcript disponibili di questo corso (è in *Management e finance*).
+**Opzione:** Modello SECI.
+**Distrattori:**
+- Modello SWOT.
+- Modello di Ansoff.
+- Modello di Business Process Analysis.
