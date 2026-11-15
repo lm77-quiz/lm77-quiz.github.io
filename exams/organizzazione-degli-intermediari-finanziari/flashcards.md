@@ -6058,3 +6058,1400 @@
 - Rischio di eccessiva focalizzazione da parte del manager sulla propria divisione; difficoltà di coordinamento tra le funzioni.
 - Attribuzione di poteri, delega, mandato; controllo tempestivo per la rilevazione, misurazione e analisi degli scostamenti obiettivi-risultati -> input per le scelte strategiche e le decisioni operative.
 - Assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto).
+
+## Lezione 21 — Business Process Management
+
+**D:** ⚠️ Quale esigenza apre la slide 2 della lezione 21, sul business process management?
+**R:** «• Esigenza di disporre di soluzioni organizzative e di sistemi gestionali innovativi che sappiano coniugare gli obiettivi tradizionali con quelli meno consueti dell'**efficacia** e della **flessibilità**» (slide 2). La docente: conciliare gli obiettivi di efficienza e di produttività, «quindi di tipo quantitativo», con gli obiettivi «invece qualitativi», cioè l'efficacia, la qualità, la soddisfazione dei clienti interni ed esterni ([00:00:28]–[00:00:47]); e rendere l'organizzazione «più flessibile possibile» per dare una risposta più rapida ai cambiamenti dell'ambiente ([00:01:10]). ⚠️ Gli obiettivi **meno consueti** sono l'efficacia e la flessibilità; efficienza e produttività sono, per la docente, quelli quantitativi. «Sistema gestionale» è un distrattore della domanda 1 del test.
+**Opzione:** Esigenza di disporre di soluzioni organizzative e di sistemi gestionali innovativi che sappiano coniugare gli obiettivi tradizionali con quelli meno consueti dell'efficacia e della flessibilità.
+**Distrattori:**
+- Esigenza di disporre di soluzioni organizzative e di sistemi gestionali innovativi che sappiano coniugare gli obiettivi tradizionali con quelli meno consueti dell'efficienza e della produttività.
+- La crescita della customer satisfaction e di efficacia dell'offerta; la creazione del modello di learning organization; lo sviluppo dei software personalizzati a supporto dei processi.
+- L'azienda propone anticipatamente in modo creativo; il reengineering avviene simultaneamente al riposizionamento strategico; 2 fasi che si svolgono in modo congiunto: la comprensione del processo e la riprogettazione.
+
+**D:** ⚠️ Quali due passaggi elenca la slide 2 della lezione 21, in apertura del business process management?
+**R:** «• Il passaggio da una visione per funzioni (o per divisioni) ad **una visione per processi** -> analisi organizzative efficienti ed efficaci per la gestione del cambiamento • Il passaggio dall'innovazione del prodotto/servizio/canale **all'innovazione di processo**» (slide 2). La docente: «un passaggio da una visione per funzioni o per divisioni ad una visione organizzativa per processi» ([00:01:26]); «il passaggio dall'innovazione del prodotto, servizio e canale all'innovazione più generica di un processo che poi permette ovviamente di creare il valore» ([00:01:49]). ⚠️ Le direzioni: **dalle funzioni ai processi** e **dal prodotto al processo**. L'«innovazione» è un distrattore della domanda 1 del test, la «process innovation» della domanda 2. Le funzioni e le divisioni sono le due strutture della lezione 20.
+**Opzione:** Il passaggio da una visione per funzioni (o per divisioni) ad una visione per processi -> analisi organizzative efficienti ed efficaci per la gestione del cambiamento; il passaggio dall'innovazione del prodotto/servizio/canale all'innovazione di processo.
+**Distrattori:**
+- Il passaggio da una visione per funzioni (o per divisioni) ad una visione per processi -> analisi organizzative efficienti ed efficaci per la gestione del cambiamento; il passaggio dall'innovazione di processo all'innovazione del prodotto/servizio/canale.
+- Gruppi di lavoro interfunzionali; il process owner; la logica del cliente interno; gli indicatori di interfaccia; il potenziamento dei flussi informativi automatizzati, attraverso il ricorso all'IT.
+- Il potenziamento delle capacità organizzative d'integrazione (rapido e corretto flusso di lavoro tra le varie attività interconnesse attribuite a diverse unità organizzative).
+
+**D:** ⚠️ Come definisce il processo la slide 2 della lezione 21?
+**R:** «**Un processo** è una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output che è di valore per il cliente» (slide 2). La docente: input «di varia natura, quindi le risorse di varia natura», e un output che «riesce a produrre il valore finale per il cliente» ([00:02:11]). ⚠️ Il valore è **per il cliente**. La lezione 17 riporta un'altra formula, quella di Hammer & Champy per il processo di business: «un insieme di attività che richiede uno o più tipi di input e crea un output che ha valore per il cliente» (slide 17 di quel deck). La domanda 1 del test usa la formula della slide 2.
+**Opzione:** Una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output che è di valore per il cliente.
+**Distrattori:**
+- Una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output che è di valore per l'azionista.
+- Il complesso delle modalità secondo le quali viene effettuata la divisione del lavoro in compiti distinti e viene realizzato il coordinamento tra tali compiti.
+- Indicatori di prestazione situati nel punto di interfaccia tra due unità organizzative diverse, allineati con gli obiettivi principali del processo.
+
+**D:** ⚠️ Come si chiama «una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output di valore per il cliente», secondo il test della lezione 21 (domanda 1)?
+**R:** «**Processo**». È la definizione della slide 2, con «un output **che è** di valore» ridotto a «un output di valore»; la piattaforma scrive «instrutture», attaccato. La docente: «un processo è una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative» ([00:02:11]). ⚠️ I distrattori pescano dalla stessa lezione: i «sistemi gestionali innovativi» e l'«innovazione di processo» sono nella prima e nella terza riga della slide 2, il «modello organizzativo» è il MOIP (slide 7). Distrattori del test: «sistema gestionale», «innovazione», «modello organizzativo».
+**Opzione:** Processo.
+**Distrattori:**
+- Sistema gestionale.
+- Innovazione.
+- Modello organizzativo.
+
+**D:** ⚠️ Quali sono le 4 caratteristiche importanti di ogni processo, secondo la slide 3 della lezione 21?
+**R:** «Ogni processo presenta 4 caratteristiche importanti: • parte sempre da **almeno un input**; • ha sempre **un cliente**; in ogni struttura organizzativa sono identificabili processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni); • è generalmente **indipendente** dalla struttura organizzativa formale, ma è **trasversale** rispetto ad essa; • genera **uno o più output**» (slide 3). La docente: il processo è indipendente «magari dall'unità organizzativa di marketing, delle risorse umane, della produzione, delle ricerche e sviluppo eccetera, ma è piuttosto trasversale rispetto a una struttura specifica» ([00:03:59]). ⚠️ Indipendente **ma trasversale**: il processo attraversa le unità organizzative, non coincide con una di esse.
+**Opzione:** Parte sempre da almeno un input; ha sempre un cliente; in ogni struttura organizzativa sono identificabili processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni); è generalmente indipendente dalla struttura organizzativa formale, ma è trasversale rispetto ad essa; genera uno o più output.
+**Distrattori:**
+- Parte sempre da almeno un input; ha sempre un cliente; in ogni struttura organizzativa sono identificabili processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni); è generalmente dipendente dalla struttura organizzativa formale, e non è trasversale rispetto ad essa; genera uno o più output.
+- Processi; attori; applicazioni informatiche; rischi operativi; controlli; sistema informativo a supporto del MOIP.
+- Monitoraggio dei nuovi processi; consolidamento dei processi e continuo miglioramento; graduale estensione del reengineering ad altri processi.
+
+**D:** ⚠️ Da quanti input parte e quanti output genera ogni processo, secondo la slide 3 della lezione 21?
+**R:** «parte sempre da **almeno un input**» e «genera **uno o più output**» (slide 3). La docente: «necessariamente qualsiasi processo parte da almeno un input», perché per la trasformazione la risorsa umana ha bisogno di una risorsa ([00:02:42]–[00:02:58]); «La quarta caratteristica invece del processo è che genera uno o più output» ([00:04:21]). ⚠️ I quantificatori: **almeno** un input, **uno o più** output.
+**Opzione:** Parte sempre da almeno un input e genera uno o più output.
+**Distrattori:**
+- Parte sempre da un solo input e genera un solo output.
+- La creazione di una struttura organizzativa lungo le linee di processo.
+- Società il cui rapporto con la banca è regolato da un contratto.
+
+**D:** ⚠️ Quali processi sono identificabili in ogni struttura organizzativa rispetto al cliente, secondo la slide 3 della lezione 21?
+**R:** «ha sempre un cliente; in ogni struttura organizzativa sono identificabili **processi orientati al mercato (clienti esterni)** e **processi interni** deputati al soddisfacimento di obiettivi di efficienza interna (**clienti interni**)» (slide 3). La docente: i clienti esterni sono quelli «che poi acquistano che utilizzano i nostri prodotti e servizi»; i clienti interni sono «i nostri dipendenti collaboratori» che utilizzano l'output del processo «per trasformarlo in un altro processo, in un altro prodotto o servizio» ([00:03:06]–[00:03:46]). ⚠️ Il **mercato** è dei clienti **esterni**, l'**efficienza interna** dei clienti **interni**.
+**Opzione:** Processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni).
+**Distrattori:**
+- Processi orientati al mercato (clienti interni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti esterni).
+- Strumenti/sistemi/linee guida che migliorano nel tempo la performance di tutti i processi aziendali.
+- Indicatori di prestazione situati nel punto di interfaccia tra due unità organizzative diverse, allineati con gli obiettivi principali del processo.
+
+**D:** ⚠️ Che cosa sono i «core processes», secondo la slide 5 della lezione 21?
+**R:** «"*Core processes*": i processi più rilevanti su cui bisogna porre maggiore attenzione per avviare un'analisi orientata al miglioramento (es. apprendimento organizzativo, gestione delle risorse umane, comunicazione interna, comunicazione esterna ecc.)» (slide 5). La docente: «i processi più importanti sono sicuramente i core processes», per «un'analisi orientata al miglioramento continuo» ([00:06:38]); i quattro esempi «dovrebbero essere studiati, analizzati, migliorati» ([00:06:57]). ⚠️ L'elenco è **aperto** («ecc.»). ⚠️ **Due usi di «core»**: nella slide 10 i processi *core* della banca sono i **processi di business** (crediti, finanza, incassi e pagamenti, estero), e il **personale** sta fra i processi di **supporto**, mentre qui la gestione delle risorse umane è un esempio di core process. Il «core process» è il distrattore D della domanda 2 del test.
+**Opzione:** I processi più rilevanti su cui bisogna porre maggiore attenzione per avviare un'analisi orientata al miglioramento (es. apprendimento organizzativo, gestione delle risorse umane, comunicazione interna, comunicazione esterna ecc.).
+**Distrattori:**
+- I processi più rilevanti su cui bisogna porre maggiore attenzione per avviare un'analisi orientata all'outsourcing (es. apprendimento organizzativo, gestione delle risorse umane, comunicazione interna, comunicazione esterna ecc.).
+- Il potenziamento delle capacità organizzative d'integrazione (rapido e corretto flusso di lavoro tra le varie attività interconnesse attribuite a diverse unità organizzative).
+- La crescita dimensionale nelle ASA già frequentate; la diversificazione del portafoglio di attività in ASA diverse (ma correlate).
+
+**D:** ⚠️ Che cosa propone la logica process driven, secondo la slide 5 della lezione 21?
+**R:** «La logica ***process driven*** propone la creazione di una struttura organizzativa lungo le linee di processo» (slide 5). La docente: «non parliamo più dei silos, delle ambienti chiusi» come le unità di produzione, di marketing, di gestione delle risorse umane che «interagiscono molto poco tra di loro»; si lavora «sulle linee orizzontali piuttosto che verticali» ([00:07:18]–[00:07:33]). ⚠️ Lungo le linee di **processo**, non di funzione. È la chiave della domanda 2 del test.
+**Opzione:** La creazione di una struttura organizzativa lungo le linee di processo.
+**Distrattori:**
+- La creazione di una struttura organizzativa lungo le linee di funzione.
+- Parte sempre da almeno un input e genera uno o più output.
+- Digitalizzazione della struttura organizzativa.
+
+**D:** ⚠️ Come si chiama «la creazione di una struttura organizzativa lungo le linee di processo», secondo il test della lezione 21 (domanda 2)?
+**R:** «**Process driven**». La slide 5: «La logica *process driven* propone la creazione di una struttura organizzativa lungo le linee di processo» ([00:07:18]). ⚠️ Il **core process** esiste nei materiali, ma è un'altra cosa: i «*Core processes*» sono «i processi più rilevanti su cui bisogna porre maggiore attenzione» (slide 5) e, nella slide 10, i processi di business della banca. La **process innovation** è l'«innovazione di processo» della slide 2, detta solo in italiano. Il **process development** non compare nello strato di testo dei 30 deck né nei 26 transcript disponibili. Distrattori del test: «process development», «process innovation», «core process».
+**Opzione:** Process driven.
+**Distrattori:**
+- Process development.
+- Process innovation.
+- Core process.
+
+**D:** ⚠️ Che cosa significa organizzare per processi, secondo la slide 5 della lezione 21?
+**R:** «Organizzare per processi significa: • Individuare i processi fondamentali dell'azienda, • Articolarsi attorno ad essi • Eliminare tutte le attività che non producono valore • Riorganizzare i processi al loro interno ridistribuendo ruoli, responsabilità e autonomie organizzative. • Assegnare un responsabile **non più di funzione ma di processo** (più deleghe e autonomia da vincoli, ma con maggiore orientamento al risultato)» (slide 5). La docente: i processi obsoleti che non producono valore vanno eliminati «per ridurre anche i costi organizzativi» ([00:08:16]); riorganizzare quelli che restano è il «process re-engineering» ([00:08:39]); il responsabile di processo, per esempio dell'apprendimento organizzativo o della comunicazione interna, gestisce il processo «trasversalmente, quindi orizzontalmente» ([00:09:03]–[00:09:29]). Ne risulta, in grassetto, «Il processo più snello e reattivo agli stimoli esterni». ⚠️ Il responsabile è **di processo**, non più di funzione.
+**Opzione:** Individuare i processi fondamentali dell'azienda; articolarsi attorno ad essi; eliminare tutte le attività che non producono valore; riorganizzare i processi al loro interno ridistribuendo ruoli, responsabilità e autonomie organizzative; assegnare un responsabile non più di funzione ma di processo (più deleghe e autonomia da vincoli, ma con maggiore orientamento al risultato).
+**Distrattori:**
+- Individuare i processi fondamentali dell'azienda; articolarsi attorno ad essi; eliminare tutte le attività che non producono valore; riorganizzare i processi al loro interno ridistribuendo ruoli, responsabilità e autonomie organizzative; assegnare un responsabile non più di processo ma di funzione (più deleghe e autonomia da vincoli, ma con maggiore orientamento al risultato).
+- La crescita della customer satisfaction e di efficacia dell'offerta; la creazione del modello di learning organization; lo sviluppo dei software personalizzati a supporto dei processi.
+- L'inizializzazione del progetto; la gestione della trasformazione; il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti.
+
+**D:** ⚠️ Che cosa significa la sigla MOIP, secondo la slide 7 della lezione 21?
+**R:** «**MOIP** (Modello Organizzativo Integrato basato sui Processi)» (slide 7). La docente: «il modello organizzativo integrato basato sui processi o in gergo lo andiamo a chiamare MOIP» ([00:11:40]). ⚠️ **Organizzativo**, non operativo; basato sui **processi**, non sui prodotti. La trascrizione automatica scrive anche «MoIP» e «MUOIP» ([00:11:56], [00:16:15]).
+**Opzione:** Modello Organizzativo Integrato basato sui Processi.
+**Distrattori:**
+- Modello Operativo Integrato basato sui Processi.
+- Modello Organizzativo Integrato basato sui Prodotti.
+- Process driven.
+
+**D:** ⚠️ Perché il MOIP è un modello, organizzativo, integrato e basato sui processi, secondo la slide 7 della lezione 21?
+**R:** «MOIP (Modello Organizzativo Integrato basato sui Processi): • è un MODELLO in quanto rappresentazione sintetica e strutturata di un sistema complesso • ORGANIZZATIVO perché basato sull'organizzazione dell'azienda (dovendo tener conto dell'insieme delle regole e delle norme…) • INTEGRATO perché consente di esaminare diversi fenomeni organizzativi (ad es. rischi, controlli, strutture, ecc.) **tra di loro connessi** • basato sui PROCESSI in quanto sintesi della normativa e delle regole aziendali» (slide 7). La docente: «Il disegno organizzativo, le unità organizzative rimangono», ma si integra il funzionamento per funzioni o per divisioni con quello per processi ([00:12:18]); i fenomeni connessi «vanno a sviluppare il valore in maniera contemporanea» ([00:12:31]–[00:12:42]). ⚠️ È **integrato** perché i fenomeni organizzativi sono **tra di loro connessi**.
+**Opzione:** Modello in quanto rappresentazione sintetica e strutturata di un sistema complesso; organizzativo perché basato sull'organizzazione dell'azienda (dovendo tener conto dell'insieme delle regole e delle norme…); integrato perché consente di esaminare diversi fenomeni organizzativi (ad es. rischi, controlli, strutture, ecc.) tra di loro connessi; basato sui processi in quanto sintesi della normativa e delle regole aziendali.
+**Distrattori:**
+- Modello in quanto rappresentazione sintetica e strutturata di un sistema complesso; organizzativo perché basato sull'organizzazione dell'azienda (dovendo tener conto dell'insieme delle regole e delle norme…); integrato perché consente di esaminare diversi fenomeni organizzativi (ad es. rischi, controlli, strutture, ecc.) tra di loro indipendenti; basato sui processi in quanto sintesi della normativa e delle regole aziendali.
+- Processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni).
+- L'ufficio o il reparto a valle deve essere considerato come un cliente -> l'importanza della collaborazione per il conseguimento del comune obiettivo di soddisfazione del cliente.
+
+**D:** ⚠️ Che cosa chiedono al modello il management interno e i soggetti esterni, secondo la slide 7 della lezione 21?
+**R:** «Il management interno di chiede al modello di misurare i processi, le strutture, i rischi per prendere opportune scelte di gestione. I soggetti esterni (ABI, Banca d'Italia, Consob, MIFID, Comitato di Basilea) chiedono di avere dati, informazioni, certezze sul **grado di salute delle aziende** facenti parte del sistema» (slide 7, «di chiede» così). La docente elenca «Associazione Bancaria Italiana, Banca d'Italia, CONSOP, MIFID, Comitato di Basilea» ([00:13:41]; «CONSOP» è la trascrizione automatica), e aggiunge che il modello «permette di avere più informazioni che possono essere fornite» anche ai soggetti esterni ([00:13:57]). ⚠️ Al **management interno** servono le misure per le **scelte di gestione**; ai **soggetti esterni** le certezze sul **grado di salute** delle aziende.
+**Opzione:** Il management interno chiede al modello di misurare i processi, le strutture, i rischi per prendere opportune scelte di gestione; i soggetti esterni (ABI, Banca d'Italia, Consob, MIFID, Comitato di Basilea) chiedono di avere dati, informazioni, certezze sul grado di salute delle aziende facenti parte del sistema.
+**Distrattori:**
+- I soggetti esterni (ABI, Banca d'Italia, Consob, MIFID, Comitato di Basilea) chiedono al modello di misurare i processi, le strutture, i rischi per prendere opportune scelte di gestione; il management interno chiede di avere dati, informazioni, certezze sul grado di salute delle aziende facenti parte del sistema.
+- I processi più rilevanti su cui bisogna porre maggiore attenzione per avviare un'analisi orientata al miglioramento (es. apprendimento organizzativo, gestione delle risorse umane, comunicazione interna, comunicazione esterna ecc.).
+- Tensione agli obiettivi costantemente aggiornati in relazione al contesto.
+
+**D:** ⚠️ Quali sono i benefici del Modello Organizzativo Integrato basato sui Processi (MOIP), secondo la slide 8 della lezione 21?
+**R:** «I benefici del Modello Organizzativo Integrato basato sui Processi (MOIP) • La focalizzazione mirata verso il cliente (interno o esterno) • La possibilità di interpretare prontamente i bisogni espressi ed inespressi del cliente • Una maggiore capacità decisionale e operativa conseguente ai processi di **decentramento** delle responsabilità» (slide 8). La docente: i bisogni inespressi sono quelli «latenti», che il cliente non ha espresso in maniera esplicita ([00:14:33]); il decentramento porta «un appiattimento dei modelli organizzativi e del processo anche di empowerment», con decisioni anche «a livelli organizzativi più bassi» ([00:14:49]). ⚠️ **Decentramento**, non accentramento. ⚠️ La slide 12 elenca altri «benefici dall'utilizzo del MOIP», tutti sull'**outsourcing**.
+**Opzione:** La focalizzazione mirata verso il cliente (interno o esterno); la possibilità di interpretare prontamente i bisogni espressi ed inespressi del cliente; una maggiore capacità decisionale e operativa conseguente ai processi di decentramento delle responsabilità.
+**Distrattori:**
+- La focalizzazione mirata verso il cliente (interno o esterno); la possibilità di interpretare prontamente i bisogni espressi ed inespressi del cliente; una maggiore capacità decisionale e operativa conseguente ai processi di accentramento delle responsabilità.
+- Il reeingeneering per conseguire obiettivi derivati dalle esigenze espresse dal mercato; l'azienda reagisce agli stimoli provenienti dal mercato; approccio analitico: un'analisi dettagliata del processo esistente.
+- Le attività legate agli interessi degli stakeholders dell'azienda: azionisti, Autorità di vigilanza.
+
+**D:** ⚠️ A che cosa portano i benefici del MOIP, secondo la freccia della slide 8 della lezione 21?
+**R:** «⬇ La crescita della *customer satisfaction* e di efficacia dell'offerta • La creazione del modello di "*learning organization*" • Lo sviluppo dei software **personalizzati** a supporto dei processi» (slide 8, sotto la freccia). La docente: l'organizzazione basata sul MOIP «è più attenta allo sviluppo delle conoscenze, alla gestione delle conoscenze all'interno dell'organizzazione», e agli aspetti tecnologici, «allo sviluppo dei software a supporto della gestione dei processi» ([00:15:17]–[00:15:57]). ⚠️ Software **personalizzati**. La *customer satisfaction* era un distrattore della domanda 1 del test 10.
+**Opzione:** La crescita della customer satisfaction e di efficacia dell'offerta; la creazione del modello di learning organization; lo sviluppo dei software personalizzati a supporto dei processi.
+**Distrattori:**
+- La crescita della customer satisfaction e di efficacia dell'offerta; la creazione del modello di learning organization; lo sviluppo dei software standardizzati a supporto dei processi.
+- Approvvigionamenti, sviluppo delle tecnologie, gestione delle risorse, infrastruttura.
+- Integrazione di una nuova cultura organizzativa.
+
+**D:** ⚠️ Quali sono, nell'ordine, gli elementi costitutivi del MOIP, secondo la slide 9 della lezione 21?
+**R:** «Gli elementi costitutivi del MOIP: • Processi • Attori • Applicazioni informatiche • Rischi operativi • Controlli • Sistema informativo a supporto del MOIP» (slide 9). La docente: «processi, attori, applicazioni informatiche, rischi operativi, controlli effettuati ovviamente sul modello, il sistema informativo a supporto del modello» ([00:16:15]). La figura accanto ha riquadri che l'elenco non ha: Strutture, Normativa, Tempi di lavoro, Costi («x volumi»), Normative esterne (Business Continuity, Manuale Consob, Anti Money Laundering), Rischi 231, *Knowledge Management*, attorno alla «Gestione Integrata dei Processi». ⚠️ L'**ambiente** non c'è: è l'intrusa della domanda 3 del test.
+**Opzione:** Processi; attori; applicazioni informatiche; rischi operativi; controlli; sistema informativo a supporto del MOIP.
+**Distrattori:**
+- Processi; attori; applicazioni informatiche; rischi operativi; controlli; ambiente.
+- Gruppi di lavoro interfunzionali; il process owner; la logica del cliente interno; gli indicatori di interfaccia; il potenziamento dei flussi informativi automatizzati, attraverso il ricorso all'IT.
+- L'inizializzazione del progetto; la gestione della trasformazione; il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti.
+
+**D:** ⚠️ Quale tra i seguenti non fa parte degli elementi costitutivi del MOIP, secondo il test della lezione 21 (domanda 3)?
+**R:** «**Ambiente**». La slide 9 elenca sei elementi costitutivi: processi, attori, applicazioni informatiche, rischi operativi, controlli, sistema informativo a supporto del MOIP ([00:16:15]). L'ambiente non c'è, né nell'elenco né fra i riquadri della figura; nelle slide compare solo nel riquadro «Sistema qualità / sicurezza / ambiente» della figura della slide 4. A voce la docente parla dell'ambiente come del contesto esterno da analizzare, anche nel passaggio sul MOIP («andiamo ad analizzare l'ambiente», [00:13:16]; e [00:01:10], [00:09:36], [00:27:00]), mai come elemento del modello. ⚠️ La domanda è **negativa**, e «rischi» non è testuale: la slide dice «Rischi **operativi**». L'ambiente è la prima variabile del paradigma ambiente-strategia-struttura (lezioni 05–07) e circonda l'organizzazione nel diamante di Leavitt (lezione 16): era la chiave della domanda 1 del test 07 e un distrattore della domanda 5 del test 16. Distrattori del test: «processi», «rischi», «controlli».
+**Opzione:** Ambiente.
+**Distrattori:**
+- Processi.
+- Rischi.
+- Controlli.
+
+**D:** ⚠️ In quali tre categorie sono classificati i processi, e con quali voci, secondo la slide 10 della lezione 21?
+**R:** «• **Processi di indirizzo e controllo strategico** (rivolti al Top Management): Gestione Strategica, *Decision Support System*, Monitoraggio e controllo strategico, Sistemi direzionali di pianificazione e controllo – le attività legate agli interessi degli *stakeholders* dell'azienda: azionisti, Autorità di vigilanza • **Processi di Business**: i processi *core* della banca, trasversali rispetto alla struttura (Crediti, Finanza, Incassi e Pagamenti, Estero ecc.) … • **Processi di Supporto**: Personale, Logistica e Acquisti, ICT …» (slide 10). La docente: «I processi possono essere classificati in tre categorie, in tre gruppi principali» ([00:16:47]); i processi di indirizzo sono rivolti al top management, «quindi al livello più alto dell'organizzazione» ([00:17:00]). ⚠️ **Incassi e pagamenti** sono processi di **business**, il **controllo strategico** sta fra quelli di **indirizzo**, la **logistica** fra quelli di **supporto**: è la batteria della domanda 4 del test. L'elenco dei processi di business è aperto («ecc.»).
+**Opzione:** Processi di indirizzo e controllo strategico (rivolti al Top Management): Gestione Strategica, Decision Support System, Monitoraggio e controllo strategico, Sistemi direzionali di pianificazione e controllo; Processi di Business: i processi core della banca, trasversali rispetto alla struttura (Crediti, Finanza, Incassi e Pagamenti, Estero ecc.); Processi di Supporto: Personale, Logistica e Acquisti, ICT.
+**Distrattori:**
+- Processi di indirizzo e controllo strategico (rivolti al Top Management): Gestione Strategica, Decision Support System, Monitoraggio e controllo strategico, Sistemi direzionali di pianificazione e controllo; Processi di Business: i processi core della banca, trasversali rispetto alla struttura (Crediti, Finanza, Logistica e Acquisti, Estero ecc.); Processi di Supporto: Personale, Incassi e Pagamenti, ICT.
+- Il reeingeneering per conseguire obiettivi derivati dalle esigenze espresse dal mercato; l'azienda reagisce agli stimoli provenienti dal mercato; approccio analitico: un'analisi dettagliata del processo esistente.
+- L'ufficio o il reparto a valle deve essere considerato come un cliente -> l'importanza della collaborazione per il conseguimento del comune obiettivo di soddisfazione del cliente.
+
+**D:** ⚠️ Da che cosa si attivano i processi di business e quelli di supporto, secondo la slide 10 della lezione 21?
+**R:** «Processi di Business: … Si attivano dai **clienti esterni o dai concorrenti** e sono strettamente collegati alla specifica offerta di servizi»; «Processi di Supporto: … attivati da **valutazioni interne** (es. politica delle risorse umane) e/o da **eventi esterni**: disposizioni normative, richieste degli azionisti» (slide 10). La docente: i processi di business possono partire dal focus sui clienti esterni o sui concorrenti, perché le aziende «fanno anche un'analisi di tipo benchmark» ([00:17:46]); per i processi di supporto «facciamo un'analisi interna» ([00:18:37]). ⚠️ I **concorrenti** attivano i processi di **business**; le disposizioni normative e le richieste degli azionisti, eventi esterni, attivano quelli di **supporto**.
+**Opzione:** I processi di business si attivano dai clienti esterni o dai concorrenti; i processi di supporto sono attivati da valutazioni interne (es. politica delle risorse umane) e/o da eventi esterni: disposizioni normative, richieste degli azionisti.
+**Distrattori:**
+- I processi di supporto si attivano dai clienti esterni o dai concorrenti; i processi di business sono attivati da valutazioni interne (es. politica delle risorse umane) e/o da eventi esterni: disposizioni normative, richieste degli azionisti.
+- Focus su 3 assi di analisi: il cliente, il quadro competitivo, la situazione interna -> individuare su quali processi focalizzarsi, con quale intensità e secondo quale tempistica.
+- Un'unità organizzativa stabile, che aiuta ad avviare i processi di trasformazione.
+
+**D:** ⚠️ Che cosa forniscono i processi di supporto, secondo la slide 10 della lezione 21?
+**R:** «Processi di Supporto: … forniscono strumenti/sistemi/linee guida che migliorano nel tempo la performance di **tutti** i processi aziendali» (slide 10). La docente: «alcuni strumenti, sistemi, linee guida che possono migliorare nel tempo la performance di tutti i processi aziendali» ([00:19:06]). ⚠️ **Tutti** i processi aziendali, non i soli processi di business.
+**Opzione:** Strumenti/sistemi/linee guida che migliorano nel tempo la performance di tutti i processi aziendali.
+**Distrattori:**
+- Strumenti/sistemi/linee guida che migliorano nel tempo la performance dei soli processi di business.
+- Modello Organizzativo Integrato basato sui Processi.
+- Assenza di errori di pianificazione e/o di esecuzione.
+
+**D:** ⚠️ In quale categoria di processi della banca stanno gli incassi e i pagamenti, secondo la slide 10 della lezione 21?
+**R:** Fra i **processi di business**: «i processi *core* della banca, trasversali rispetto alla struttura (Crediti, Finanza, **Incassi e Pagamenti**, Estero ecc.)» (slide 10). La docente: «possono essere crediti, finanza, incassi e pagamenti, le relazioni con l'estero eccetera» ([00:17:30]–[00:17:46]). ⚠️ Nella slide è **una voce sola**, «Incassi e Pagamenti»; la domanda 4 del test la divide in due distrattori. La domanda non è *che cos'è* ma **dove sta**.
+**Opzione:** Fra i processi di business.
+**Distrattori:**
+- Fra i processi di supporto.
+- Fra i processi di indirizzo e controllo strategico.
+
+**D:** ⚠️ In quale categoria di processi della banca sta il monitoraggio e controllo strategico, secondo la slide 10 della lezione 21?
+**R:** Fra i **processi di indirizzo e controllo strategico** (rivolti al Top Management): «Gestione Strategica, *Decision Support System*, **Monitoraggio e controllo strategico**, Sistemi direzionali di pianificazione e controllo» (slide 10). La docente: rivolti al top management, «quindi al livello più alto dell'organizzazione» ([00:17:00]–[00:17:07]). ⚠️ Il «controllo strategico» della domanda 4 del test riprende questa voce, e il nome stesso della categoria: è un distrattore, non un processo di supporto.
+**Opzione:** Fra i processi di indirizzo e controllo strategico.
+**Distrattori:**
+- Fra i processi di business.
+- Fra i processi di supporto.
+
+**D:** ⚠️ In quale categoria di processi della banca sta la logistica, secondo la slide 10 della lezione 21?
+**R:** Fra i **processi di supporto**: «Personale, **Logistica e Acquisti**, ICT» (slide 10). La docente: «la gestione del personale, logistica ed acquisti, ICT attivati da valutazioni interne» ([00:18:26]–[00:18:37]). ⚠️ È la chiave della domanda 4 del test. Anche il **personale** sta qui, benché la slide 5 citi la gestione delle risorse umane fra gli esempi di *core processes*.
+**Opzione:** Fra i processi di supporto.
+**Distrattori:**
+- Fra i processi di business.
+- Fra i processi di indirizzo e controllo strategico.
+
+**D:** ⚠️ In quale categoria di processi della banca sta il Decision Support System, secondo la slide 10 della lezione 21?
+**R:** Fra i **processi di indirizzo e controllo strategico**: «Gestione Strategica, ***Decision Support System***, Monitoraggio e controllo strategico, Sistemi direzionali di pianificazione e controllo» (slide 10; [00:17:07]). ⚠️ **Trappola lessicale sul nome**: il «*Support*» del nome non ne fa un processo di supporto. I processi di supporto sono personale, logistica e acquisti, ICT.
+**Opzione:** Fra i processi di indirizzo e controllo strategico.
+**Distrattori:**
+- Fra i processi di supporto.
+- Fra i processi di business.
+
+**D:** ⚠️ Quale tra i seguenti viene definito come «processo di supporto» per una banca, secondo il test della lezione 21 (domanda 4)?
+**R:** «**Logistica**». La slide 10: «Processi di Supporto: Personale, **Logistica e Acquisti**, ICT» ([00:18:26]). La chiave non è testuale: la slide dice «Logistica e Acquisti». ⚠️ Domanda **dove sta**: «Incassi e Pagamenti» è una voce dei **processi di business** («Crediti, Finanza, Incassi e Pagamenti, Estero ecc.»), che il test divide in due distrattori; il **controllo strategico** viene dai **processi di indirizzo e controllo strategico** («Monitoraggio e controllo strategico»). Distrattori del test: «incassi», «pagamenti», «controllo strategico».
+**Opzione:** Logistica.
+**Distrattori:**
+- Incassi.
+- Pagamenti.
+- Controllo strategico.
+
+**D:** ⚠️ Chi sono gli attori interni e gli attori esterni del MOIP, secondo la slide 12 della lezione 21?
+**R:** «• Attori interni ed esterni: • Attori interni: singole funzioni della banca, caratterizzate da un "livello" organizzativo, da una "*mission*" e dalle proprie "principali attività" • Attori esterni: società o soggetti che hanno **rapporti continuativi** con l'azienda e gli *outsourcer* (società il cui rapporto con la banca è regolato da un contratto)» (slide 12). La docente: gli attori interni sono partecipanti, dipendenti, collaboratori di diverse funzioni che danno «il contributo trasversale» allo sviluppo del processo ([00:20:55]); gli outsourcer realizzano «le attività non prodotte internamente dalla banca» ([00:21:33]). ⚠️ Rapporti **continuativi**. Gli attori sono il secondo elemento costitutivo del MOIP (slide 9).
+**Opzione:** Attori interni: singole funzioni della banca, caratterizzate da un livello organizzativo, da una mission e dalle proprie principali attività; attori esterni: società o soggetti che hanno rapporti continuativi con l'azienda e gli outsourcer (società il cui rapporto con la banca è regolato da un contratto).
+**Distrattori:**
+- Attori interni: singole funzioni della banca, caratterizzate da un livello organizzativo, da una mission e dalle proprie principali attività; attori esterni: società o soggetti che hanno rapporti occasionali con l'azienda e gli outsourcer (società il cui rapporto con la banca è regolato da un contratto).
+- Una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output che è di valore per il cliente.
+- Le autorità di vigilanza e controllo, arbitri di un gioco diverso: come regolare il gioco, le relazioni fra i giocatori e l'ingresso di nuovi giocatori.
+
+**D:** ⚠️ Chi sono gli outsourcer, secondo la slide 12 della lezione 21?
+**R:** «gli *outsourcer* (società il cui rapporto con la banca è **regolato da un contratto**)» (slide 12). La docente: «qual è la differenza tra i soggetti, società con rapporti continuativi e outsourcer, outsourcer sono le società il cui rapporto con la banca è regolato da un contratto» ([00:21:20]–[00:21:33]). ⚠️ Gli attori esterni sono **due gruppi**: le società o i soggetti con rapporti continuativi, e gli outsourcer. Le singole funzioni della banca sono gli attori **interni**. La normativa di Banca d'Italia, nella stessa slide, è quella della compliance sui controlli delle attività date in outsourcing.
+**Opzione:** Società il cui rapporto con la banca è regolato da un contratto.
+**Distrattori:**
+- Società il cui rapporto con la banca è regolato dalla normativa di Banca d'Italia.
+- Società o soggetti che hanno rapporti continuativi con l'azienda.
+- Singole funzioni della banca, caratterizzate da un livello organizzativo, da una mission e dalle proprie principali attività.
+
+**D:** ⚠️ Quali sono i benefici dall'utilizzo del MOIP elencati nella slide 12 della lezione 21?
+**R:** «I benefici dall'utilizzo del MOIP: 1) svolge un ruolo di identificazione precisa delle attività da affidare in outsourcing favorendo un'analisi costi/benefici; 2) è utile nella definizione delle attività in sede contrattuale; 3) formalizza le modalità di controllo su attività date in *outcourcing* necessarie ai fini della *compliance* con la normativa di **Banca d'Italia**» (slide 12, «outcourcing» così). La docente: il modello aiuta a capire quali sono i processi core, «che contengono un vantaggio competitivo» e vanno svolti all'interno, e quali si possono gestire con i partner ([00:22:02]–[00:22:21]); gli indicatori di controllo servono alla compliance «con la normativa della Banca d'Italia, quindi con le autorità di vigilanza» ([00:23:12]). ⚠️ La normativa è quella di **Banca d'Italia**. ⚠️ I benefici della slide 8 sono altri: focalizzazione sul cliente, bisogni espressi ed inespressi, decentramento delle responsabilità.
+**Opzione:** Svolge un ruolo di identificazione precisa delle attività da affidare in outsourcing favorendo un'analisi costi/benefici; è utile nella definizione delle attività in sede contrattuale; formalizza le modalità di controllo su attività date in outcourcing necessarie ai fini della compliance con la normativa di Banca d'Italia.
+**Distrattori:**
+- Svolge un ruolo di identificazione precisa delle attività da affidare in outsourcing favorendo un'analisi costi/benefici; è utile nella definizione delle attività in sede contrattuale; formalizza le modalità di controllo su attività date in outcourcing necessarie ai fini della compliance con la normativa Consob.
+- Processi orientati al mercato (clienti esterni) e processi interni deputati al soddisfacimento di obiettivi di efficienza interna (clienti interni).
+- I processi di business si attivano dai clienti esterni o dai concorrenti; i processi di supporto sono attivati da valutazioni interne (es. politica delle risorse umane) e/o da eventi esterni: disposizioni normative, richieste degli azionisti.
+
+**D:** ⚠️ Quali sono le principali caratteristiche dello strumento software a supporto della Business Process Analysis, secondo la slide 13 della lezione 21?
+**R:** «Le principali caratteristiche dello strumento software a supporto della Business Process Analysis • messa a disposizione di un metamodello (processi, attività, unità organizzative e persone) • supporto a diverse tipologie di diagrammi per ciascun aspetto dell'azienda che si vuole presentare (organigrammi, diagrammi di contesto dei processi, diagrammi di flusso delle procedure, obiettivi e requisiti dei progetti) • gestione di un *repository* **unico** della conoscenza • capacità di produzione di *deliverable* in forma di documenti RTF o di Siti Web (diffusione della conoscenza ai diversi livelli nell'organizzazione) • integrazione con strumenti di produttività individuale e col sistema operativo in generale» (slide 13). La docente: i diagrammi danno «il supporto alla decision making» ([00:24:33]); il repository serve perché queste organizzazioni sono attente allo sviluppo della conoscenza e all'apprendimento organizzativo ([00:24:54]); i deliverable diffondono know-how, procedure e best practice ai diversi livelli ([00:25:11]–[00:25:37]). ⚠️ Il repository della conoscenza è **unico**. La **Business Process Analysis** è il distrattore D della domanda 5 del test 04 («modello di Business Process Analysis»).
+
+**D:** ⚠️ Che tipo di repository della conoscenza gestisce lo strumento software a supporto della Business Process Analysis, secondo la slide 13 della lezione 21?
+**R:** «gestione di un *repository* **unico** della conoscenza» (slide 13). La docente: queste organizzazioni basate sui processi «sono molto attente anche allo sviluppo della conoscenza, all'apprendimento organizzativo», quindi lo strumento software deve dare la possibilità di gestire la conoscenza organizzativa ([00:24:54]). ⚠️ Il repository è **unico**, non uno per funzione. Lo stesso strumento produce i *deliverable* «in forma di documenti RTF o di Siti Web», per la diffusione della conoscenza ai diversi livelli nell'organizzazione.
+**Opzione:** Un repository unico della conoscenza.
+**Distrattori:**
+- Un repository distinto per ciascuna unità organizzativa.
+- Process driven.
+- L'empowerment.
+
+**D:** ⚠️ Che cos'è la modellazione dei processi aziendali, e su che cosa è centrata, secondo la slide 14 della lezione 21?
+**R:** «Il modello: La modellazione dei processi aziendali è essenzialmente la rappresentazione grafica del funzionamento di un'azienda, utilizzata per agevolare la comprensione della realtà complessa descritta. Tale rappresentazione è espressa in maniera uniforme ed omogenea, centrata su: • Processi aziendali (in particolar modo su quelli **di business**) • Identificazione delle catene del valore» (slide 14). La docente: «in particolar modo su quelli di business quindi quelli core»; le catene del valore sono i processi che creano il valore per i clienti ([00:26:22]–[00:26:45]). La figura mostra una catena del valore: gestione delle materie prime, trasformazione, marketing & vendita, distribuzione, post-vendita; sotto, approvvigionamenti, sviluppo delle tecnologie, gestione delle risorse, infrastruttura, che la docente chiama processi di supporto ([00:27:00]–[00:27:35]). ⚠️ In particolar modo i processi **di business**.
+**Opzione:** Essenzialmente la rappresentazione grafica del funzionamento di un'azienda, utilizzata per agevolare la comprensione della realtà complessa descritta; è espressa in maniera uniforme ed omogenea, centrata su: processi aziendali (in particolar modo su quelli di business); identificazione delle catene del valore.
+**Distrattori:**
+- Essenzialmente la rappresentazione grafica del funzionamento di un'azienda, utilizzata per agevolare la comprensione della realtà complessa descritta; è espressa in maniera uniforme ed omogenea, centrata su: processi aziendali (in particolar modo su quelli di supporto); identificazione delle catene del valore.
+- Il complesso delle modalità secondo le quali viene effettuata la divisione del lavoro in compiti distinti e viene realizzato il coordinamento tra tali compiti.
+- Modello imprenditoriale-manageriale.
+
+**D:** ⚠️ Come è definita l'organizzazione nella slide 15 della lezione 21?
+**R:** «**L'organizzazione** è definita come il complesso delle modalità secondo le quali viene effettuata la **divisione del lavoro** in compiti distinti e viene realizzato il **coordinamento** tra tali compiti» (slide 15). La docente la legge alla lettera ([00:27:43]). ⚠️ **Divisione** del lavoro e **coordinamento**: le due metà della definizione. La lezione 18 dà altre due definizioni dell'organizzazione, come «relazioni e cultura organizzativa» e come struttura organizzativa («articolazione di ruoli e di funzioni»).
+**Opzione:** Il complesso delle modalità secondo le quali viene effettuata la divisione del lavoro in compiti distinti e viene realizzato il coordinamento tra tali compiti.
+**Distrattori:**
+- Il complesso delle modalità secondo le quali viene effettuata la divisione del lavoro in compiti distinti e viene realizzato il controllo gerarchico di tali compiti.
+- Una sequenza di attività eseguite da risorse umane organizzate in strutture organizzative che, utilizzando input di varia natura, produce un output che è di valore per il cliente.
+- È sufficiente per perseguire con le risorse a disposizione i risultati programmati.
+
+**D:** ⚠️ Che cosa ribalta l'organizzazione per processi, e come viene concepita l'organizzazione, secondo la slide 15 della lezione 21?
+**R:** «• L'organizzazione per processi **ribalta la visione della struttura verticale** (compiti specialistici, struttura gerarchica e flussi informativi alto-basso/basso-alto). • **L'organizzazione viene concepita in modo orizzontale**: un insieme di catene orizzontali di attività finalizzate a predisporre il prodotto/servizio per il cliente» (slide 15). La docente: non solo flussi verticali, ma «anche orizzontali e addirittura trasversali» ([00:28:05]); si abbassano «quelli silos, quelle mura che dividono poi le funzioni una dall'altra» ([00:28:49]). ⚠️ Ribalta la struttura **verticale**; l'organizzazione diventa **orizzontale**.
+**Opzione:** Ribalta la visione della struttura verticale (compiti specialistici, struttura gerarchica e flussi informativi alto-basso/basso-alto); l'organizzazione viene concepita in modo orizzontale: un insieme di catene orizzontali di attività finalizzate a predisporre il prodotto/servizio per il cliente.
+**Distrattori:**
+- Ribalta la visione della struttura orizzontale (compiti specialistici, struttura gerarchica e flussi informativi alto-basso/basso-alto); l'organizzazione viene concepita in modo verticale: un insieme di catene verticali di attività finalizzate a predisporre il prodotto/servizio per il cliente.
+- Focus su 3 assi di analisi: il cliente, il quadro competitivo, la situazione interna -> individuare su quali processi focalizzarsi, con quale intensità e secondo quale tempistica.
+- Monitoraggio dei nuovi processi; consolidamento dei processi e continuo miglioramento; graduale estensione del reengineering ad altri processi.
+
+**D:** ⚠️ Come si realizza il business nell'organizzazione per processi, secondo la slide 15 della lezione 21?
+**R:** «Il business si realizza **espletando processi** e non **presidiando funzioni**» (slide 15). La docente: «il business si realizza espletando alcuni processi e non presidiando le funzioni» ([00:28:41]). ⚠️ Si **espletano** i processi, non si **presidiano** le funzioni. Nella lezione 20 è la divisione a presidiare «tutte le funzioni connesse agli elementi costitutivi dell'ASA».
+**Opzione:** Espletando processi e non presidiando funzioni.
+**Distrattori:**
+- Presidiando funzioni e non espletando processi.
+- Modello Organizzativo Integrato basato sui Processi.
+- Linee di sviluppo esterno.
+
+**D:** ⚠️ A che cosa equivale il miglioramento dell'efficacia del processo, secondo la slide 15 della lezione 21?
+**R:** «**Miglioramento dell'efficacia del processo = il potenziamento delle capacità organizzative d'integrazione** (rapido e corretto flusso di lavoro tra le varie attività interconnesse attribuite a diverse unità organizzative)» (slide 15). La docente: «andiamo a potenziare le capacità organizzative di integrazione e di collaborazione» ([00:29:06]–[00:29:32]). ⚠️ Efficacia **=** integrazione, fra attività attribuite a **diverse** unità organizzative.
+**Opzione:** Il potenziamento delle capacità organizzative d'integrazione (rapido e corretto flusso di lavoro tra le varie attività interconnesse attribuite a diverse unità organizzative).
+**Distrattori:**
+- Il potenziamento delle capacità organizzative di specializzazione (rapido e corretto flusso di lavoro tra le varie attività interconnesse attribuite a diverse unità organizzative).
+- Acquisizione dell'organizzazione già funzionante e ben organizzata (incorporazione/fusione).
+- Crescita dimensionale, diversificazione del portafoglio.
+
+**D:** ⚠️ Quali strumenti rinforzano le connessioni tra le varie unità, secondo la slide 16 della lezione 21?
+**R:** «Strumenti che rinforzano le connessioni tra le varie unità: • Gruppi di lavoro interfunzionali • Il *process owner* … • La logica del cliente interno … • Gli indicatori di interfaccia … • Il potenziamento dei flussi informativi automatizzati, attraverso il ricorso all'IT» (slide 16). La docente: «Ce ne sono diversi, qua sulla slide sono citati alcuni strumenti» ([00:29:45]–[00:29:49]); i gruppi interfunzionali coinvolgono partecipanti di diverse unità organizzative e funzioni. ⚠️ La struttura gerarchica e i flussi alto-basso/basso-alto sono la visione verticale che l'organizzazione per processi **ribalta** (slide 15).
+**Opzione:** Gruppi di lavoro interfunzionali; il process owner; la logica del cliente interno; gli indicatori di interfaccia; il potenziamento dei flussi informativi automatizzati, attraverso il ricorso all'IT.
+**Distrattori:**
+- Gruppi di lavoro interfunzionali; il process owner; la logica del cliente interno; gli indicatori di interfaccia; il rafforzamento della struttura gerarchica e dei flussi informativi alto-basso/basso-alto.
+- Processi; attori; applicazioni informatiche; rischi operativi; controlli; sistema informativo a supporto del MOIP.
+- La crescita dimensionale nelle ASA già frequentate; la diversificazione del portafoglio di attività in ASA diverse (ma correlate).
+
+**D:** ⚠️ Quali caratteristiche ha il process owner, secondo la slide 16 della lezione 21?
+**R:** «Il *process owner*: • responsabile dell'efficacia e dell'efficienza di un processo interfunzionale • appartenenza alla funzione aziendale **maggiormente interessata** ai risultati del processo • **non ha autorità gerarchica** sulle persone che realizzano le attività del processo, restano nelle loro unità funzionali» (slide 16). La docente: per il processo di comunicazione esterna il process owner sarà uno specialista di marketing e di comunicazione ([00:30:16]); le persone restano nella loro unità funzionale, e il rapporto è «alla pari» ([00:30:41]). ⚠️ **Non** ha autorità gerarchica.
+**Opzione:** Responsabile dell'efficacia e dell'efficienza di un processo interfunzionale; appartenenza alla funzione aziendale maggiormente interessata ai risultati del processo; non ha autorità gerarchica sulle persone che realizzano le attività del processo, restano nelle loro unità funzionali.
+**Distrattori:**
+- Responsabile dell'efficacia e dell'efficienza di un processo interfunzionale; appartenenza alla funzione aziendale maggiormente interessata ai risultati del processo; ha autorità gerarchica sulle persone che realizzano le attività del processo, restano nelle loro unità funzionali.
+- Società il cui rapporto con la banca è regolato da un contratto.
+- Riduzione della remunerazione.
+
+**D:** ⚠️ Che cosa prevede la logica del cliente interno, secondo la slide 16 della lezione 21?
+**R:** «La logica del cliente interno (l'ufficio o il reparto **a valle** deve essere considerato come un cliente) -> l'importanza della collaborazione per il conseguimento del comune obiettivo di soddisfazione del cliente» (slide 16). La docente: i reparti vanno considerati «come partner tra loro, come clienti, uno diventa il cliente dell'altro, del processo dell'altro» ([00:31:03]–[00:31:32]). ⚠️ Il cliente interno è il reparto **a valle**.
+**Opzione:** L'ufficio o il reparto a valle deve essere considerato come un cliente -> l'importanza della collaborazione per il conseguimento del comune obiettivo di soddisfazione del cliente.
+**Distrattori:**
+- L'ufficio o il reparto a monte deve essere considerato come un cliente -> l'importanza della collaborazione per il conseguimento del comune obiettivo di soddisfazione del cliente.
+- Strumenti/sistemi/linee guida che migliorano nel tempo la performance di tutti i processi aziendali.
+- Difficoltà di assunzione di nuovo personale.
+
+**D:** ⚠️ Che cosa sono gli indicatori di interfaccia, secondo la slide 16 della lezione 21?
+**R:** «Gli indicatori di interfaccia (indicatori di prestazione situati nel punto di interfaccia tra **due unità organizzative diverse**, allineati con gli **obiettivi principali del processo**)» (slide 16). La docente: le diverse unità organizzative «dovrebbero avere indicatori comuni di valutazione», per collaborare, integrarsi meglio e allinearsi sugli obiettivi del processo ([00:31:44]–[00:32:01]). ⚠️ Allineati con gli obiettivi **del processo**, non con quelli di ciascuna unità.
+**Opzione:** Indicatori di prestazione situati nel punto di interfaccia tra due unità organizzative diverse, allineati con gli obiettivi principali del processo.
+**Distrattori:**
+- Indicatori di prestazione situati nel punto di interfaccia tra due unità organizzative diverse, allineati con gli obiettivi specifici di ciascuna unità.
+- Parte sempre da almeno un input e genera uno o più output.
+- Free rider.
+
+**D:** ⚠️ Che cosa caratterizza il modello reattivo del reengineering dei processi, secondo la slide 17 della lezione 21?
+**R:** «Il reengineering dei processi: Il modello reattivo: • Il *reeingeneering* per conseguire obiettivi derivati dalle esigenze espresse dal mercato • L'azienda **reagisce** agli stimoli provenienti dal mercato • Approccio **analitico**: un'analisi dettagliata del processo esistente» (slide 17, «reeingeneering» così, ripreso dalla domanda 5 del test). La docente: l'organizzazione dà «una risposta all'esigenza, al cambiamento del mercato» ([00:32:53]–[00:33:07]); l'analisi dettagliata del processo esistente serve a capire come migliorarlo ([00:33:13]). ⚠️ Il reengineering simultaneo al riposizionamento strategico è del modello **proattivo**.
+**Opzione:** Il reeingeneering per conseguire obiettivi derivati dalle esigenze espresse dal mercato; l'azienda reagisce agli stimoli provenienti dal mercato; approccio analitico: un'analisi dettagliata del processo esistente.
+**Distrattori:**
+- Il reeingeneering per conseguire obiettivi derivati dalle esigenze espresse dal mercato; l'azienda reagisce agli stimoli provenienti dal mercato; il reengineering avviene simultaneamente al riposizionamento strategico.
+- Ridisegno dei processi chiave; comunicazione dei miglioramenti ottenuti; coinvolgimento e motivazione dell'organizzazione interna.
+- Assenza di errori di pianificazione e/o di esecuzione.
+
+**D:** ⚠️ Che cosa caratterizza il modello proattivo del reengineering dei processi, secondo la slide 17 della lezione 21?
+**R:** «Il modello proattivo: • L'azienda **propone anticipatamente** in modo creativo • Il *reengineering* avviene **simultaneamente al riposizionamento strategico** • 2 fasi che si svolgono **in modo congiunto**: la comprensione del processo e la riprogettazione» (slide 17). La docente: il modello proattivo «considera l'azienda come un soggetto proponente», che propone anticipatamente una trasformazione del processo in modo creativo ([00:33:31]); «due fasi che si svolgono in modo congiunto» ([00:34:01]). ⚠️ Fasi **congiunte**, non in sequenza. L'approccio analitico è del modello **reattivo**.
+**Opzione:** L'azienda propone anticipatamente in modo creativo; il reengineering avviene simultaneamente al riposizionamento strategico; 2 fasi che si svolgono in modo congiunto: la comprensione del processo e la riprogettazione.
+**Distrattori:**
+- L'azienda propone anticipatamente in modo creativo; il reengineering avviene simultaneamente al riposizionamento strategico; 2 fasi che si svolgono in modo sequenziale: la comprensione del processo e la riprogettazione.
+- I processi di business si attivano dai clienti esterni o dai concorrenti; i processi di supporto sono attivati da valutazioni interne (es. politica delle risorse umane) e/o da eventi esterni: disposizioni normative, richieste degli azionisti.
+- Processi, attività, unità organizzative e persone.
+
+**D:** ⚠️ Qual è il tipo di process reengineering in cui l'azienda reagisce agli stimoli provenienti dal mercato, secondo il test della lezione 21 (domanda 5)?
+**R:** «**Reattivo**». La slide 17: «Il modello reattivo: … • L'azienda reagisce agli stimoli provenienti dal mercato» ([00:33:07]). La domanda riprende il refuso «reeingeneering» della stessa slide. ⚠️ Anche la slide 5 usa «reattivo»: organizzando per processi si ottiene «Il processo più snello e reattivo agli stimoli esterni» ([00:09:36]), che è una qualità del processo, non un modello di reengineering. I modelli della slide 17 sono **due**, reattivo e proattivo. «**Innovativo**» non è un tipo di reengineering nei materiali ed è un'invenzione ricorrente nei test: distrattore nelle domande 3 e 4 del test 12 («innovativo») e nella 5 del test 13 («innovativa»), intrusa e quindi chiave nelle domande negative 4 del test 16 («modello innovativo») e 4 del test 17 (l'autorità «innovativa»). «**Tradizionale**» è uno dei tre tipi di autorità di Weber (lezione 17), opzione vera della domanda 4 di quel test: è il **pool condiviso**. Distrattori del test: «proattivo», «innovativo», «tradizionale».
+**Opzione:** Reattivo.
+**Distrattori:**
+- Proattivo.
+- Innovativo.
+- Tradizionale.
+
+**D:** ⚠️ Su quali assi di analisi si focalizza la definizione degli obiettivi del progetto di reengineering, e per individuare che cosa, secondo la slide 17 della lezione 21?
+**R:** «La definizione degli obiettivi del progetto: Focus su **3 assi di analisi**: il cliente, il quadro competitivo, la situazione interna -> Individuare su quali processi focalizzarsi, con quale intensità e secondo quale tempistica» (slide 17). La docente parla di «tre elementi di analisi» ([00:34:16]): solo definendoli «riusciamo a rispettare la tempistica e raggiungere l'obiettivo finale di riprogettazione» ([00:34:33]). ⚠️ Il terzo asse è la **situazione interna**.
+**Opzione:** Focus su 3 assi di analisi: il cliente, il quadro competitivo, la situazione interna -> individuare su quali processi focalizzarsi, con quale intensità e secondo quale tempistica.
+**Distrattori:**
+- Focus su 3 assi di analisi: il cliente, il quadro competitivo, il quadro normativo -> individuare su quali processi focalizzarsi, con quale intensità e secondo quale tempistica.
+- I processi più rilevanti su cui bisogna porre maggiore attenzione per avviare un'analisi orientata al miglioramento (es. apprendimento organizzativo, gestione delle risorse umane, comunicazione interna, comunicazione esterna ecc.).
+- Procedimento amministrativo contabile, segreteria organizzativa, sistema informativo gestionale.
+
+**D:** ⚠️ Quali sono le 3 fasi distinte di un progetto di business reengineering, secondo la slide 18 della lezione 21?
+**R:** «3 fasi distinte di un progetto di business *reengineering*: • L'inizializzazione del progetto: • Definizione degli obiettivi • Costruzione di una logica razionale che giustifica il cambiamento e motiva l'organizzazione • La gestione della trasformazione: • Ridisegno dei processi chiave • Comunicazione dei miglioramenti ottenuti • Coinvolgimento e motivazione dell'organizzazione interna • Il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti: …» (slide 18). La docente: «inizializzazione del progetto, la gestione vera e propria della trasformazione, il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti» ([00:34:49]–[00:34:53]). ⚠️ Il monitoraggio dei nuovi processi è una voce della terza fase, non una fase.
+**Opzione:** L'inizializzazione del progetto; la gestione della trasformazione; il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti.
+**Distrattori:**
+- L'inizializzazione del progetto; la gestione della trasformazione; il monitoraggio dei nuovi processi.
+- Approvvigionamenti, sviluppo delle tecnologie, gestione delle risorse, infrastruttura.
+- L'empowerment.
+
+**D:** ⚠️ Che cosa comprende il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti, terza fase del business reengineering, secondo la slide 18 della lezione 21?
+**R:** «• Il consolidamento e lo sviluppo del vantaggio competitivo rispetto ai concorrenti: • Monitoraggio dei nuovi processi • Consolidamento dei processi e continuo miglioramento • **Graduale** estensione del *reengineering* ad **altri** processi» (slide 18). La docente: «dobbiamo monitorare i nuovi processi, consolidare i processi e migliorarli continuamente e in qualche modo estendere re-engineering non soltanto ai processi base, ai processi core ma anche ai processi di supporto» ([00:35:05]–[00:35:19]). ⚠️ L'estensione è **graduale** e va ad **altri** processi. I processi di supporto li nomina la docente, non la slide.
+**Opzione:** Monitoraggio dei nuovi processi; consolidamento dei processi e continuo miglioramento; graduale estensione del reengineering ad altri processi.
+**Distrattori:**
+- Monitoraggio dei nuovi processi; consolidamento dei processi e continuo miglioramento; immediata estensione del reengineering a tutti i processi.
+- Espletando processi e non presidiando funzioni.
+- Analisi di mercato, ricerca, pianificazione prodotto, test di mercato.
+
+**D:** ⚠️ Quali sono gli organi operativi coinvolti nel processo di reengineering, e con quale ruolo, secondo la slide 19 della lezione 21?
+**R:** «Organi operativi coinvolti nel processo di *reengineering*: • Il *reengineering team*: il **decisore principale**, responsabilità globale della gestione del progetto … • I *breaktrough team*: il team cross-funzionali, dedicati all'analisi ed al *redesign* di **un unico processo** … • Il team di comunicazione: comunicare **in tempo reale** lo stato di avanzamento del progetto stesso, i primi risultati ottenuti, successi ed eventuali difficoltà» (slide 19, «breaktrough» così; la figura della slide 20 scrive «breakthrough»). La docente: il reengineering team, sulla base delle indicazioni dell'alta direzione, imposta il progetto e indirizza i team operativi, cioè i team di ridisegno e implementazione, trasversali; il team di comunicazione serve anche «per diminuire anche la resistenza al cambiamento» ([00:35:24]–[00:36:32]). ⚠️ Il **decisore principale** è il reengineering team; i breaktrough team lavorano su **un unico** processo.
+**Opzione:** Il reengineering team: il decisore principale, responsabilità globale della gestione del progetto; i breaktrough team: il team cross-funzionali, dedicati all'analisi ed al redesign di un unico processo; il team di comunicazione: comunicare in tempo reale lo stato di avanzamento del progetto stesso, i primi risultati ottenuti, successi ed eventuali difficoltà.
+**Distrattori:**
+- Il reengineering team: il team cross-funzionali, dedicati all'analisi ed al redesign di un unico processo; i breaktrough team: il decisore principale, responsabilità globale della gestione del progetto; il team di comunicazione: comunicare in tempo reale lo stato di avanzamento del progetto stesso, i primi risultati ottenuti, successi ed eventuali difficoltà.
+- Procedimento amministrativo contabile, segreteria organizzativa, sistema informativo gestionale.
+- Analisi organizzative efficienti ed efficaci per la gestione del cambiamento.
+
+**D:** ⚠️ Quali compiti ha il reengineering team, secondo la slide 19 della lezione 21?
+**R:** «Il *reengineering team*: il decisore principale, responsabilità globale della gestione del progetto • comprendere e coordinare come i vari team interagiscono tra loro • guidare i breaktrough team e stimolare la discussione al loro interno • fornire le risorse ed assicurare la convergenza delle attività dei *breaktrough team* • anticipare, identificare ed indirizzare i potenziali problemi del progetto» (slide 19). La docente non legge i quattro compiti: dice che il reengineering team «va a impostare il progetto» e poi «a indirizzare i team operativi» ([00:36:08]). ⚠️ Svolgere le analisi e i piani di implementazione è compito dei **breaktrough team**, per l'obiettivo fissato dal reengineering team.
+**Opzione:** Comprendere e coordinare come i vari team interagiscono tra loro; guidare i breaktrough team e stimolare la discussione al loro interno; fornire le risorse ed assicurare la convergenza delle attività dei breaktrough team; anticipare, identificare ed indirizzare i potenziali problemi del progetto.
+**Distrattori:**
+- Comprendere e coordinare come i vari team interagiscono tra loro; guidare i breaktrough team e stimolare la discussione al loro interno; fornire le risorse ed assicurare la convergenza delle attività dei breaktrough team; svolgere tutte le analisi e i piani di implementazione del redesign di un unico processo.
+- Comunicare in tempo reale lo stato di avanzamento del progetto stesso, i primi risultati ottenuti, successi ed eventuali difficoltà.
+- Processi, attività, unità organizzative e persone.
+
+## Lezione 22 — La gestione operativa e strategica del personale
+
+**D:** ⚠️ A quali cambiamenti è legata la gestione del personale, secondo la slide 2 della lezione 22?
+**R:** «La gestitone del personale legata ai cambiamenti **ambientali, strategici, tecnologici, organizzatavi**» (slide 2, con i refusi «gestitone» e «organizzatavi»). La docente: «la gestione del personale è legata ai cambiamenti ambientali, strategici, tecnologici e organizzativi» ([00:00:42]). ⚠️ I cambiamenti sono **quattro**, e l'ultimo è **organizzativo**.
+**Opzione:** Ai cambiamenti ambientali, strategici, tecnologici, organizzativi.
+**Distrattori:**
+- Ai cambiamenti ambientali, strategici, tecnologici, normativi.
+- Le regole di funzionamento della struttura.
+- Meglio di quelle precedenti.
+
+**D:** ⚠️ Qual è l'obiettivo strategico della gestione del personale, secondo la slide 2 della lezione 22?
+**R:** «L'obiettivo strategico è quello di **collocare le risorse umane nell'ambito della pianificazione strategica** –> definire gli obiettivi e le politiche della gestione del personale che favoriscano linee di sviluppo strategico» (slide 2). La docente: le risorse umane sono «le risorse come tante altre» da considerare dal punto di vista strategico, per il risultato a lungo termine e per la sostenibilità, cioè la sopravvivenza a lungo termine dell'impresa ([00:00:51]–[00:01:28]). Lo schema circolare della slide lega la «Strategia competitiva (corporate e ASA)» e le «Politiche di gestione delle risorse umane»: definite le strategie, l'organizzazione individua politiche del personale «allineate con tutte le strategie» ([00:01:44]). ⚠️ Pianificazione **strategica**: la «tradizionale attività di amministrazione del personale» è ciò che la slide 4 contrappone alla gestione strategica.
+**Opzione:** Collocare le risorse umane nell'ambito della pianificazione strategica: definire gli obiettivi e le politiche della gestione del personale che favoriscano linee di sviluppo strategico.
+**Distrattori:**
+- Collocare le risorse umane nell'ambito della tradizionale attività di amministrazione del personale: definire gli obiettivi e le politiche della gestione del personale che favoriscano linee di sviluppo strategico.
+- L'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite delle risorse umane.
+- Coerenza interna (tra le variabili componenti) e coerenza esterna (tra il sistema e l'ambiente).
+
+**D:** ⚠️ Quali cambiamenti portano alla riorganizzazione del lavoro e alla ridefinizione degli organici, secondo la slide 3 della lezione 22?
+**R:** «La riorganizzazione del lavoro e la ridefinizione degli organici (quantitativa e qualitativa) dovuta a una serie di cambiamenti: • **Riposizionamento strategico** • **Automazione e informatizzazione** • **Ricerca di una maggiore efficienza** • **Diversificazione delle attività in un mercato dove si sta affermando la rilevanza di qualità**» (slide 3). La docente: il riposizionamento è il passaggio da una strategia competitiva all'altra, fra cost leadership, segmentazione e differenziazione ([00:03:38]); l'automazione è anche «il fenomeno di digitalizzazione», l'uso delle ICT ([00:04:16]); l'efficienza è l'aspetto economico, il contenimento dei costi ([00:04:40]); nella diversificazione la qualità è «il fattore più importante» nella scelta dei clienti ([00:05:05]–[00:05:40]). ⚠️ L'ultima voce chiude con la rilevanza **di qualità**, non del prezzo.
+**Opzione:** Riposizionamento strategico; automazione e informatizzazione; ricerca di una maggiore efficienza; diversificazione delle attività in un mercato dove si sta affermando la rilevanza di qualità.
+**Distrattori:**
+- Riposizionamento strategico; automazione e informatizzazione; ricerca di una maggiore efficienza; diversificazione delle attività in un mercato dove si sta affermando la rilevanza del prezzo.
+- L'insieme di variabili organizzative, tecnologiche, individuali, istituzionali, sociali.
+- Entrata, integrazione, sviluppo, uscita.
+
+**D:** ⚠️ Che cosa si ridefinisce in modo «quantitativo e qualitativo», si ottimizza e si dimensiona in modo coerente, secondo le slide 3, 7 e 13 della lezione 22?
+**R:** «**Organico**». Le slide della lezione 22 lo usano sempre per il personale da dimensionare: «la ridefinizione degli organici (quantitativa e qualitativa)» e l'«Ottimizzazione degli organici» (slide 3), «Le scelte di dimensionamento qualitativo e quantitativo degli organici» (slide 7), «La gestione del turnover esterno per favorire il dimensionamento coerente dell'organico» (slide 13). La docente: l'aspetto qualitativo è legato alle professionalità, all'expertise, alle competenze, alle skills e alla motivazione ([00:06:28]); «quando parliamo dell'organico parliamo dell'organico sia dal punto di vista quantitativo sia dal punto di vista qualitativo», cioè anche di quante risorse umane servono ([00:27:23]). ⚠️ L'organico **non** è la struttura organizzativa, che è «l'assetto relativamente stabile delle ruoli aziendali» (slide 6): è la batteria della domanda 2 del test, con la chiave scambiata. Il business model non compare in questa lezione.
+**Opzione:** Organico.
+**Distrattori:**
+- Struttura organizzativa.
+- Meccanismo operativo.
+- Business model.
+
+**D:** ⚠️ Quali due prospettive della riorganizzazione del lavoro mostrano le frecce della slide 3 della lezione 22?
+**R:** Due frecce opposte: da una parte «**Ottimizzazione degli organici** / **Incremento della produttività del lavoro**», dall'altra «**Miglioramento della professionalità e della motivazione del personale**» (slide 3). La docente: da un lato il lavoro va riorganizzato «ottimizzando gli organici, incrementando la produttività del lavoro», dall'altro bisogna «migliorare la professionalità e la motivazione del personale» ([00:06:04]–[00:06:18]); per questo la ridefinizione degli organici è sia **quantitativa** sia **qualitativa**, legata a professionalità, expertise, competenze, skills e motivazione ([00:06:28]). ⚠️ La seconda freccia parla di professionalità e **motivazione**, non di retribuzione.
+**Opzione:** Ottimizzazione degli organici e incremento della produttività del lavoro; miglioramento della professionalità e della motivazione del personale.
+**Distrattori:**
+- Ottimizzazione degli organici e incremento della produttività del lavoro; miglioramento della professionalità e della retribuzione del personale.
+- Attraverso i contratti monetari o contratti psicologici.
+- Global Banking Services.
+
+**D:** ⚠️ Su che cosa punta la ristrutturazione interna, secondo la slide 4 della lezione 22?
+**R:** «La ristrutturazione interna: • **Le unità organizzative preposte alle attività di pianificazione, sviluppo e gestione delle risorse umane** e non la tradizionale attività di amministrazione del personale» (slide 4). La docente: vanno valutate le unità preposte a pianificazione, sviluppo e gestione delle risorse umane «e non soltanto ed esclusivamente la tradizionale attività di amministrazione del personale»; la gestione del personale «sta diventando una funzione, un'attività sempre più strategica, sempre più vicina ai vertici aziendali», che partecipa alla definizione di obiettivi, strategia, mission e visione ([00:07:13]–[00:07:57]). ⚠️ L'amministrazione del personale è il termine **escluso**. La docente lo attenua in «non soltanto ed esclusivamente».
+**Opzione:** Le unità organizzative preposte alle attività di pianificazione, sviluppo e gestione delle risorse umane e non la tradizionale attività di amministrazione del personale.
+**Distrattori:**
+- La tradizionale attività di amministrazione del personale e non le unità organizzative preposte alle attività di pianificazione, sviluppo e gestione delle risorse umane.
+- Regole di interazione e di relazioni interne; regole che definiscono i processi; regole di gestione del personale.
+- Unicredit Banca, Unicredit Banca d'Impresa, Unicredit Private Banking.
+
+**D:** ⚠️ Per quali tre aspetti l'ottica della gestione strategica del personale è rilevante anche per il middle management, secondo la slide 4 della lezione 22?
+**R:** «L'ottica della gestione strategica del personale è rilevante **anche** per il middle management: • **Il coinvolgimento nella definizione delle strategie relative al personale presso i vertici** (analisi e progettazione delle nuove strategie) • **L'attuazione delle strategie e la modifica dei comportamenti operativi** • **Il supporto per il cambiamento culturale richiesto dalle nuove strategie**» (slide 4). La docente: l'ottica è rilevante «sia sul vertice aziendale, quindi per il top management, ma anche per il middle management» ([00:08:16]), perché sono i livelli intermedi a interfacciarsi operativamente con dipendenti e collaboratori ([00:08:30]–[00:09:11]); il cambiamento culturale è il riallineamento della cultura organizzativa e dei valori condivisi ([00:09:26]–[00:10:04]). ⚠️ «Anche»: il vertice resta coinvolto. Il cambiamento è **culturale**, non tecnologico.
+**Opzione:** Il coinvolgimento nella definizione delle strategie relative al personale presso i vertici (analisi e progettazione delle nuove strategie); l'attuazione delle strategie e la modifica dei comportamenti operativi; il supporto per il cambiamento culturale richiesto dalle nuove strategie.
+**Distrattori:**
+- Il coinvolgimento nella definizione delle strategie relative al personale presso i vertici (analisi e progettazione delle nuove strategie); l'attuazione delle strategie e la modifica dei comportamenti operativi; il supporto per il cambiamento tecnologico richiesto dalle nuove strategie.
+- Riposizionamento strategico; automazione e informatizzazione; ricerca di una maggiore efficienza; diversificazione delle attività in un mercato dove si sta affermando la rilevanza di qualità.
+- Le scelte di dimensionamento qualitativo e quantitativo degli organici.
+
+**D:** ⚠️ Che cos'è l'impresa come sistema socio-economico, secondo la slide 5 della lezione 22?
+**R:** «Sistema socio-economico (**l'insieme di variabili organizzative, tecnologiche, individuali, istituzionali, sociali**)» (slide 5). La docente: «un insieme di variabili organizzative, tecnologiche, individuali, istituzionali e sociali, relazionali»; l'obiettivo finale dell'impresa non è «soltanto esclusivamente l'obiettivo economico ma anche l'obiettivo sociale e relazionale» ([00:10:44]–[00:11:08]). ⚠️ Le variabili della slide sono **cinque** e l'ultima è **sociale**; «relazionali» è un'aggiunta della docente. L'altra definizione della slide è il sistema input-output.
+**Opzione:** L'insieme di variabili organizzative, tecnologiche, individuali, istituzionali, sociali.
+**Distrattori:**
+- L'insieme di variabili organizzative, tecnologiche, individuali, istituzionali, finanziarie.
+- Acquisizione, integrazione/trasformazione, cessione.
+- Selezione, formazione, valutazione, remunerazione, carriera.
+
+**D:** ⚠️ Quali passaggi comprende l'impresa come sistema input-output, secondo la slide 5 della lezione 22?
+**R:** «Sistema input-output (**acquisizione, integrazione/trasformazione, cessione**)» (slide 5). La docente: «una specie di supply chain»: l'acquisizione delle risorse, poi le risorse «vengono integrate o trasformate» secondo la tecnologia di trasformazione dell'azienda, infine la cessione, cioè la collaborazione con l'ambiente esterno, con i mercati di output e con i clienti finali ([00:11:24]–[00:12:20]). ⚠️ La domanda 1 del test riporta i passaggi senza «integrazione/»: «acquisizione, trasformazione, cessione». Il terzo passaggio è la **cessione**.
+**Opzione:** Acquisizione, integrazione/trasformazione, cessione.
+**Distrattori:**
+- Acquisizione, integrazione/trasformazione, controllo.
+- L'insieme di variabili organizzative, tecnologiche, individuali, istituzionali, sociali.
+- Entrata, integrazione, sviluppo, uscita.
+
+**D:** ⚠️ Quali processi include l'organizzazione vista come il sistema di input-output, secondo il test della lezione 22 (domanda 1)?
+**R:** «**Acquisizione, trasformazione, cessione**». È la slide 5 senza «integrazione/»: «Sistema input-output (acquisizione, integrazione/trasformazione, cessione)». La docente parla di «una specie di supply chain», dall'acquisizione delle risorse alla loro integrazione o trasformazione, fino alla cessione ai mercati di output ([00:11:24]–[00:12:20]). ⚠️ La chiave è giusta ma **non testuale**: la slide dice «L'impresa come… Sistema input-output», la domanda «L'organizzazione vista come il sistema di input-output». Distrattori del test: «gestione e controllo» (non compare nello strato di testo dei deck del corso), «digitalizzazione e innovazione del prodotto/servizio» (l'innovazione del prodotto/servizio è della lezione 09, slide 8, e della 21, slide 2; la digitalizzazione delle lezioni 01, 02 e 08), «gestione e sviluppo del personale» (ricalca la «pianificazione, sviluppo e gestione delle risorse umane» della slide 4, che non sono passaggi del sistema input-output).
+**Opzione:** Acquisizione, trasformazione, cessione.
+**Distrattori:**
+- Gestione e controllo.
+- Digitalizzazione e innovazione del prodotto/servizio.
+- Gestione e sviluppo del personale.
+
+**D:** ⚠️ Fra che cosa stanno la coerenza interna e la coerenza esterna, secondo la slide 5 della lezione 22?
+**R:** «L'importanza delle **coerenza interna (tra le variabili componenti)** e della **coerenza esterna (tra il sistema e l'ambiente)**» (slide 5, con «delle coerenza»), seguita da «La coerenza tra la variabile "individuale" (riferita alla risorsa umane) e altre variabili del sistema». La docente: la coerenza interna è «tra le variabili componenti dello stesso sistema», quella esterna «la coerenza e l'allineamento anche tra il sistema, quindi l'organizzazione e l'ambiente esterno», da analizzare con le classificazioni dell'ambiente già viste: generale, specifico, operativo, le cinque forze di Porter ([00:12:28]–[00:13:04]). La variabile individuale è ogni singolo individuo che svolge i propri compiti nell'impresa ([00:13:20]–[00:13:42]). ⚠️ **Interna** fra le componenti, **esterna** fra sistema e ambiente.
+**Opzione:** Coerenza interna (tra le variabili componenti) e coerenza esterna (tra il sistema e l'ambiente).
+**Distrattori:**
+- Coerenza interna (tra il sistema e l'ambiente) e coerenza esterna (tra le variabili componenti).
+- Struttura: compiti, autonomia, responsabilità; comportamento: individuale, gruppo.
+- Le regole di funzionamento della struttura.
+
+**D:** ⚠️ Fra quali due categorie si distingue la natura delle relazioni di coerenza, secondo la slide 5 della lezione 22?
+**R:** «La natura delle relazioni di coerenza si distinguono tra: • **Struttura organizzativa** • **Meccanismi operativi**» (slide 5). La docente: «La prima categoria è la struttura organizzativa e la seconda categoria riguarda invece i meccanismi operativi» ([00:14:03]–[00:14:16]). La slide 6 le definisce: la struttura organizzativa è «l'assetto relativamente stabile delle ruoli aziendali», i meccanismi operativi «le regole di funzionamento della struttura». ⚠️ L'organico, distrattore della domanda 2 del test, non è una relazione di coerenza.
+**Opzione:** Struttura organizzativa e meccanismi operativi.
+**Distrattori:**
+- Struttura organizzativa e organico.
+- Lo sviluppo delle politiche per spingere le persone all'innovazione.
+- La definizione dei percorsi di sviluppo delle capacità manageriali.
+
+**D:** ⚠️ Come definisce la struttura organizzativa la slide 6 della lezione 22?
+**R:** «**Struttura organizzativa** – l'assetto relativamente stabile delle ruoli aziendali derivante dalle prescelte modalità di divisione e coordinamento dei compiti» (slide 6, con «delle ruoli»). La docente: «l'assetto relativamente stabile dei ruoli aziendali derivanti dalla prescelta modalità di divisione e di coordinamento dei compiti»; per definirla bisogna strutturare le attività e mappare i processi per distribuire i compiti ([00:14:37]–[00:15:07]). ⚠️ Le **regole di funzionamento della struttura** sono invece i meccanismi operativi. La lezione 20 dà altre due formule: la «spina dorsale» dell'impresa (slide 2) e la risultante delle scelte con cui il lavoro è diviso, ordinato e coordinato (slide 3).
+**Opzione:** L'assetto relativamente stabile delle ruoli aziendali derivante dalle prescelte modalità di divisione e coordinamento dei compiti.
+**Distrattori:**
+- L'assetto relativamente stabile delle ruoli aziendali derivante dalle regole di funzionamento della struttura.
+- L'insieme di decisioni e di azioni riguardanti il coerente impiego delle risorse umane nell'ambito del sistema aziendale.
+- La definizione dei concorrenti della banca sul mercato del lavoro e lo sviluppo della strategia competitiva.
+
+**D:** ⚠️ Che cos'è «l'assetto relativamente stabile delle ruoli aziendali derivantedalle prescelte modalità di divisione e coordinamento dei compiti», secondo il test della lezione 22 (domanda 2)?
+**R:** «**Struttura organizzativa**». È la slide 6 alla lettera, con lo stesso «delle ruoli»: «Struttura organizzativa – l'assetto relativamente stabile delle ruoli aziendali derivante dalle prescelte modalità di divisione e coordinamento dei compiti»; «derivantedalle», attaccato, è un refuso della piattaforma. La docente: «la struttura organizzativa è l'assetto relativamente stabile dei ruoli aziendali…» ([00:14:37]). ⚠️ Il **meccanismo operativo** è la voce accanto nella stessa slide: «le regole di funzionamento della struttura». L'**organico**, nelle slide 3, 7 e 13 di questa lezione, è il personale da dimensionare in modo quantitativo e qualitativo; era già distrattore nei test 18 e 20. Il **business model** non compare in questa lezione: è la chiave del test 09, «la scelta concreta di strategia rispetto alla singola, specifica e reale Area Strategica di Affari» (lezione 09, slide 10), e un distrattore dei test 13, 17 e 18. Distrattori del test: «organico», «meccanismo operativo», «business model».
+**Opzione:** Struttura organizzativa.
+**Distrattori:**
+- Organico.
+- Meccanismo operativo.
+- Business model.
+
+**D:** ⚠️ Che cosa sono i meccanismi operativi, secondo la slide 6 della lezione 22?
+**R:** «**Meccanismi operativi** – le regole di funzionamento della struttura» (slide 6). La docente: «non è sufficiente disegnare praticamente sulla carta la struttura», le relazioni fra le unità e come funzionerà: bisogna «anche definire le regole di funzionamento» ([00:15:07]–[00:15:24]). Sono tre tipi di regole: di interazione e di relazioni interne, che definiscono i processi, di gestione del personale (slide 6). ⚠️ «L'assetto relativamente stabile delle ruoli aziendali» è la **struttura organizzativa**: è la trappola della domanda 2 del test, dove «meccanismo operativo» era un distrattore.
+**Opzione:** Le regole di funzionamento della struttura.
+**Distrattori:**
+- L'assetto relativamente stabile delle ruoli aziendali.
+- Acquisizione, integrazione/trasformazione, cessione.
+- Ai cambiamenti ambientali, strategici, tecnologici, organizzativi.
+
+**D:** ⚠️ Quali tre tipi di regole comprendono i meccanismi operativi, secondo lo schema della slide 6 della lezione 22?
+**R:** «Meccanismi operativi • **Regole di interazione e di relazioni interne** • **Regole che definiscono i processi** • **Regole di gestione del personale**» (slide 6, schema a cerchi). A destra la stessa slide le sviluppa: regole di interazione (informazione, comunicazione, coordinamento/integrazione), regole di processi (pianificazione strategica, programmazione, controllo), regole di gestione del personale (selezione, formazione, valutazione, remunerazione, carriera). La docente: sono regole «che aiutano ovviamente a far funzionare la struttura, quindi le relazioni tra diverse unità organizzative» ([00:17:54]). ⚠️ Non ci sono regole di gestione dei rischi: la «valutazione dei rischi» è l'intrusa della domanda 3 del test.
+**Opzione:** Regole di interazione e di relazioni interne; regole che definiscono i processi; regole di gestione del personale.
+**Distrattori:**
+- Regole di interazione e di relazioni interne; regole che definiscono i processi; regole di gestione dei rischi.
+- Ottimizzazione degli organici e incremento della produttività del lavoro; miglioramento della professionalità e della motivazione del personale.
+- Espansione geografica.
+
+**D:** ⚠️ Quali voci associa lo schema a cerchi della slide 6 della lezione 22 alla struttura e al comportamento?
+**R:** Lo schema ha tre fasce concentriche: «Meccanismi operativi» (le tre regole), «**Struttura** • Compiti • Autonomia • Responsabilità», «**Comportamento** • Individuale • Gruppo» (slide 6). La docente: il comportamento, «a livello dell'individuo, a livello del gruppo, un team di lavoro», è influenzato dalla struttura organizzativa, cioè dal «sistema dei compiti autonomie responsabilità» predefiniti, «ma anche dei meccanismi operativi» ([00:15:41]–[00:16:32]). ⚠️ La struttura ha compiti, autonomia e **responsabilità**: la remunerazione è una regola di gestione del personale.
+**Opzione:** Struttura: compiti, autonomia, responsabilità; comportamento: individuale, gruppo.
+**Distrattori:**
+- Struttura: compiti, autonomia, remunerazione; comportamento: individuale, gruppo.
+- La creazione di un sistema di ricompense equo; il cambiamento del sistema in base alle aspettative del personale.
+- La verifica/la modifica dell'immagine della banca sul mercato.
+
+**D:** ⚠️ Quali voci elencano le regole di interazione e le regole di processi, secondo la slide 6 della lezione 22?
+**R:** «Regole di interazione • **Informazione** • **Comunicazione** • **Coordinamento/integrazione**»; «Regole di processi • **Pianificazione strategica** • **Programmazione** • **Controllo**» (slide 6). La docente: le regole di interazione riguardano l'informazione, cioè la creazione dei dati e l'apprendimento organizzativo, la comunicazione interna, per le attività strategiche e per quelle quotidiane, e il coordinamento e l'integrazione delle unità; le regole di processi sono pianificazione strategica, programmazione, controllo, «supervisione» ([00:16:32]–[00:17:17]). ⚠️ Il **controllo** sta fra le regole di processi, il **coordinamento/integrazione** fra quelle di interazione. La supervisione è un'aggiunta della docente.
+**Opzione:** Regole di interazione: informazione, comunicazione, coordinamento/integrazione; regole di processi: pianificazione strategica, programmazione, controllo.
+**Distrattori:**
+- Regole di interazione: informazione, comunicazione, controllo; regole di processi: pianificazione strategica, programmazione, coordinamento/integrazione.
+- Selezione, formazione, valutazione, remunerazione, carriera.
+- L'utilizzo della prassi di affiancamento come strumento di formazione.
+
+**D:** ⚠️ Quali voci comprendono le regole di gestione del personale fra i meccanismi operativi, secondo la slide 6 della lezione 22?
+**R:** «Regole di gestione del personale • **Selezione** • **Formazione** • **Valutazione** • **Remunerazione** • **Carriera**» (slide 6). La docente: sono i meccanismi operativi «che direttamente vanno a influire praticamente sull'operato, sul lavoro della risorsa umana»: «il processo di selezione delle risorse umane, il processo di formazione, di valutazione della remunerazione e della carriera, l'avanzamento della carriera, lo sviluppo delle risorse umane all'interno dell'impresa» ([00:17:17]–[00:17:54]). ⚠️ Cinque voci, e la **valutazione** non ha complementi: la «valutazione dei rischi» è l'intrusa della domanda 3 del test.
+**Opzione:** Selezione, formazione, valutazione, remunerazione, carriera.
+**Distrattori:**
+- Selezione, formazione, valutazione dei rischi, remunerazione, carriera.
+- Struttura organizzativa e meccanismi operativi.
+- Digitalizzazione della struttura organizzativa.
+
+**D:** ⚠️ Che cosa non includono i meccanismi operativi relativi alla gestione del personale, secondo il test della lezione 22 (domanda 3)?
+**R:** «**Valutazione dei rischi**». La slide 6 elenca le regole di gestione del personale: «Selezione • Formazione • Valutazione • Remunerazione • Carriera»; la docente le commenta nello stesso ordine ([00:17:17]–[00:17:54]). ⚠️ L'intrusa è costruita su una voce **vera**: la «Valutazione» c'è, «dei rischi» no, e la valutazione dei rischi non compare in questa lezione. La domanda è **negativa**. Distrattori del test: «selezione», «formazione», «remunerazione».
+**Opzione:** Valutazione dei rischi.
+**Distrattori:**
+- Selezione.
+- Formazione.
+- Remunerazione.
+
+**D:** ⚠️ Oltre alla progettazione e all'uso dei meccanismi operativi, che cosa comprende la gestione del personale, secondo la slide 7 della lezione 22?
+**R:** «La gestione del personale: • Non solo la progettazione e l'uso dei meccanismi operativi, ma anche… • **Le scelte di dimensionamento qualitativo e quantitativo degli organici**» (slide 7). La docente: la gestione del personale «non può essere considerata semplicemente come una progettazione e l'uso dei meccanismi operativi, ma anche come la necessità di fare le scelte di dimensionamento qualitativo e quantitativo delle organici» ([00:18:09]). ⚠️ Il dimensionamento è **qualitativo e quantitativo**, come la ridefinizione degli organici della slide 3.
+**Opzione:** Le scelte di dimensionamento qualitativo e quantitativo degli organici.
+**Distrattori:**
+- Le scelte di dimensionamento soltanto quantitativo degli organici.
+- Digitalizzazione e innovazione del prodotto/servizio.
+- Struttura: compiti, autonomia, responsabilità; comportamento: individuale, gruppo.
+
+**D:** ⚠️ Come definisce la gestione del personale, in chiave organizzativa, la slide 7 della lezione 22?
+**R:** «In chiave organizzativa, **la gestione del personale è l'insieme di decisioni e di azioni riguardanti il coerente impiego delle risorse umane nell'ambito del sistema aziendale**» (slide 7, in grassetto). La docente la legge quasi alla lettera ([00:18:29]). ⚠️ Il cuore della formula è il **coerente impiego**. La gestione **strategica** del personale ha un'altra definizione: «l'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite delle risorse umane» (slide 9).
+**Opzione:** L'insieme di decisioni e di azioni riguardanti il coerente impiego delle risorse umane nell'ambito del sistema aziendale.
+**Distrattori:**
+- L'insieme di decisioni e di azioni riguardanti il minimo costo delle risorse umane nell'ambito del sistema aziendale.
+- Regole di interazione: informazione, comunicazione, coordinamento/integrazione; regole di processi: pianificazione strategica, programmazione, controllo.
+- Free rider.
+
+**D:** ⚠️ Con quali obiettivi vanno resi compatibili gli obiettivi dell'impresa, e con quale esito, secondo la slide 7 della lezione 22?
+**R:** «La compatibilità degli obiettivi dell'impresa (soprattutto economici) con **gli obiettivi degli individui (esigenze, aspettative, bisogni, economici e non)** -> **l'equilibrio del sistema aziendale e il successo nel tempo**» (slide 7). La docente: gli obiettivi dell'impresa riguardano efficienza, economicità, produttività, redditività; quelli dell'individuo «non sono soltanto gli obiettivi economici ma possono essere anche le esigenze aspettative, i bisogni di altra tipologia»; equilibrare i due sistemi di obiettivi serve al successo nel tempo, a «prolungare la vita» dell'organizzazione e ad aumentarne la sostenibilità, non solo ambientale ma anche economica e sociale ([00:18:44]–[00:20:05]). ⚠️ Gli obiettivi degli individui sono **economici e non**.
+**Opzione:** Con gli obiettivi degli individui (esigenze, aspettative, bisogni, economici e non) -> l'equilibrio del sistema aziendale e il successo nel tempo.
+**Distrattori:**
+- Con gli obiettivi degli individui (esigenze, aspettative, bisogni, solo economici) -> l'equilibrio del sistema aziendale e il successo nel tempo.
+- Le unità organizzative preposte alle attività di pianificazione, sviluppo e gestione delle risorse umane e non la tradizionale attività di amministrazione del personale.
+- L'articolazione dei percorsi professionali interni (mobilità interna) per favorire lo sviluppo delle competenze (anche inter-funzionali).
+
+**D:** ⚠️ Secondo quale sequenza il ciclo di vita del personale identifica i momenti tipici del governo delle risorse, secondo la slide 8 della lezione 22?
+**R:** «Il ciclo di vita del personale identifica i momenti tipici del governo delle risorse secondo la sequenza: **Entrata** → **Integrazione** → **Sviluppo** → **Uscita**» (slide 8, schema circolare), e «Ciascuna fase richiede la progettazione di coerenti scelte e la definizione di specifici orientamenti e politiche». La docente: l'entrata di una nuova risorsa, poi la sua integrazione e il suo inserimento, poi lo sviluppo, per ottenerne il massimo potenziale, e infine l'uscita, per licenziamento, cambiamento del posto di lavoro o pensionamento ([00:21:06]–[00:22:30]). ⚠️ L'**integrazione** viene **prima** dello sviluppo. Dalla slide 9 le fasi prendono i nomi delle politiche: acquisizione, integrazione, sviluppo, gestione delle uscite.
+**Opzione:** Entrata, integrazione, sviluppo, uscita.
+**Distrattori:**
+- Entrata, sviluppo, integrazione, uscita.
+- Gestione e sviluppo del personale.
+- Regole di interazione e di relazioni interne; regole che definiscono i processi; regole di gestione del personale.
+
+**D:** ⚠️ Quale fase non fa parte del tipico ciclo di vita del personale, secondo il test della lezione 22 (domanda 4)?
+**R:** «**Creazione di una start up**». Il ciclo di vita del personale ha quattro fasi, «Entrata», «Integrazione», «Sviluppo», «Uscita» (slide 8), che dalla slide 9 diventano le politiche «di acquisizione, di integrazione, di sviluppo e di gestione delle uscite» ([00:21:06]–[00:22:30], [00:24:57]). ⚠️ Le opzioni usano i **nomi della slide 9** (acquisizione, gestione delle uscite), non quelli della slide 8 (entrata, uscita), e l'integrazione è la fase lasciata fuori. La «creazione di una start-up» viene dalla **lezione 03** (slide 9), fra le attività per cui la tecnologia rafforza le competenze della banca del futuro. La domanda è **negativa**. Distrattori del test: «acquisizione», «gestione delle uscite», «sviluppo».
+**Opzione:** Creazione di una start up.
+**Distrattori:**
+- Acquisizione.
+- Gestione delle uscite.
+- Sviluppo.
+
+**D:** ⚠️ Che cosa richiedono le politiche di gestione del personale riferite a ogni ciclo di vita, secondo la slide 9 della lezione 22?
+**R:** «Le politiche di gestione del personale riferite ad ogni ciclo di vita: Richiedono **le capacità di analisi e di creatività per la ricerca delle soluzioni innovative per creare condizioni gestionali distintive in grado di creare barriere** (es. strategie di differenziazione dei servizi)» (slide 9). La docente: per esempio nella fase di uscita, quando una risorsa preziosa vuole lasciare l'azienda, servono barriere «anche dal punto di vista qualitativo» che la facciano rimanere, come il talent management, lo sviluppo, l'avanzamento della carriera; sono strategie di differenziazione dei servizi interni, come il welfare aziendale e il *work life balance*, rivolte al dipendente come «client interno» del marketing interno ([00:23:06]–[00:24:37]). ⚠️ Le soluzioni servono a **creare** barriere, non ad abbatterle. L'esempio fra parentesi è aperto («es.»).
+**Opzione:** Le capacità di analisi e di creatività per la ricerca delle soluzioni innovative per creare condizioni gestionali distintive in grado di creare barriere (es. strategie di differenziazione dei servizi).
+**Distrattori:**
+- Le capacità di analisi e di creatività per la ricerca delle soluzioni innovative per creare condizioni gestionali distintive in grado di abbattere le barriere (es. strategie di differenziazione dei servizi).
+- La definizione dei concorrenti della banca sul mercato del lavoro e lo sviluppo della strategia competitiva.
+- Lo sviluppo delle politiche per spingere le persone all'innovazione.
+
+**D:** ⚠️ Come definisce la gestione strategica del personale la slide 9 della lezione 22?
+**R:** «**La gestione strategica del personale** è l'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite delle risorse umane» (slide 9). La docente la legge quasi alla lettera ([00:24:57]). ⚠️ Sono le **quattro fasi** del ciclo di vita della slide 8 (entrata, integrazione, sviluppo, uscita) con i nomi delle politiche; la quarta è la **gestione delle uscite**. La gestione del personale «in chiave organizzativa» è invece «l'insieme di decisioni e di azioni riguardanti il coerente impiego delle risorse umane» (slide 7).
+**Opzione:** L'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite delle risorse umane.
+**Distrattori:**
+- L'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di remunerazione delle risorse umane.
+- La definizione dei percorsi di sviluppo delle capacità manageriali.
+- Riposizionamento strategico; automazione e informatizzazione; ricerca di una maggiore efficienza; diversificazione delle attività in un mercato dove si sta affermando la rilevanza di qualità.
+
+**D:** ⚠️ A quale fine le politiche e le scelte gestionali devono essere periodicamente riviste e riprogettate, secondo la slide 9 della lezione 22?
+**R:** «Le politiche/le scelte gestionali devono essere periodicamente riviste/riprogettate al fine di: • **Modificare il comportamento organizzativo in modo coerente con i nuovi orientamenti della strategia competitiva** • **Adattarle alle modificazioni delle aspettative del personale** (in relazione all'evoluzione ambientale e del mercato del lavoro) • **Modificare la dinamica dei flussi della mobilità interna ed esterna in base alla strategia competitiva**» (slide 9). La docente: la gestione delle risorse umane va adattata ai cambiamenti ambientali; serve uno studio approfondito delle preferenze e delle motivazioni del personale per creare «quel posto di lavoro ideale» e trattenere le risorse preziose; nella mobilità torna «questo legame strettissimo tra l'ambiente strategia e struttura» ([00:25:07]–[00:26:20]). ⚠️ Il comportamento organizzativo va **modificato**, non mantenuto; la mobilità è **interna ed esterna**.
+**Opzione:** Modificare il comportamento organizzativo in modo coerente con i nuovi orientamenti della strategia competitiva; adattarle alle modificazioni delle aspettative del personale (in relazione all'evoluzione ambientale e del mercato del lavoro); modificare la dinamica dei flussi della mobilità interna ed esterna in base alla strategia competitiva.
+**Distrattori:**
+- Mantenere invariato il comportamento organizzativo nonostante i nuovi orientamenti della strategia competitiva; adattarle alle modificazioni delle aspettative del personale (in relazione all'evoluzione ambientale e del mercato del lavoro); modificare la dinamica dei flussi della mobilità interna ed esterna in base alla strategia competitiva.
+- Le unità organizzative preposte alle attività di pianificazione, sviluppo e gestione delle risorse umane e non la tradizionale attività di amministrazione del personale.
+- Attraverso i contratti monetari o contratti psicologici.
+
+**D:** Quali sono, nell'ordine, i contenuti delle politiche della fase di acquisizione, secondo la slide 10 della lezione 22?
+**R:** «1. Acquisizione: • La definizione delle caratteristiche individuali e professionali delle risorse umane di cui una banca ha bisogno in relazione alla propria attività • La divergenza di queste caratteristiche da quelle del passato • La definizione del fabbisogno quantitativo • L'individuazione dei mercati su cui ricercare le competenze mancanti • Lo sviluppo degli standard di selezione • L'acquisizione attraverso i contratti monetari o contratti psicologici • La verifica/la modifica dell'immagine della banca sul mercato (employer branding) • La definizione dei concorrenti della banca sul mercato del lavoro e lo sviluppo della strategia competitiva» (slide 10). La docente: è l'acquisizione delle risorse umane dal mercato esterno; la divergenza riguarda le figure professionali e le competenze emergenti; il fabbisogno quantitativo è quante risorse servono e per quante ore, con l'organico inteso «sia dal punto di vista quantitativo sia dal punto di vista qualitativo»; i mercati del lavoro possono essere nazionale, regionale, locale, internazionale; gli standard di selezione sono la procedura per scegliere e valutare i candidati ([00:26:48]–[00:28:21]). ⚠️ Otto voci: la prima riguarda le caratteristiche individuali **e professionali**, l'ultima i concorrenti sul mercato **del lavoro**.
+
+**D:** ⚠️ Quale voce della fase di acquisizione la slide 10 della lezione 22 accompagna con «(employer branding)»?
+**R:** «• **La verifica/la modifica dell'immagine della banca sul mercato** (*employer branding*)» (slide 10). La docente: bisogna sviluppare «un'immagine, una reputazione del nostro brand come il datore di lavoro, non soltanto per quanto riguarda il mercato dei clienti, la domanda, ma anche il mercato del lavoro», per attrarre la forza lavoro ([00:28:46]–[00:29:16]). ⚠️ Il mercato è **anche quello del lavoro**, non solo quello dei clienti. L'employer branding era già fra i risultati del ruolo della Direzione del personale nella lezione 03 (slide 14); qui è un distrattore della domanda 5 del test.
+**Opzione:** La verifica/la modifica dell'immagine della banca sul mercato.
+**Distrattori:**
+- La verifica/la modifica dell'immagine della banca soltanto sul mercato dei clienti.
+- L'analisi della mansioni operative (il grado di motivazione) e un'eventuale ridefinizione dei compiti per sviluppare la mansioni più ricche.
+- L'utilizzo della prassi di affiancamento come strumento di formazione.
+
+**D:** ⚠️ Attraverso quali contratti avviene l'acquisizione delle risorse umane, secondo la slide 10 della lezione 22?
+**R:** «• L'acquisizione **attraverso i contratti monetari o contratti psicologici**» (slide 10). La docente richiama la differenza, già vista, fra il contratto legale, il contratto monetario economico e il contratto psicologico, «un contratto molto più ampio», con le promesse fatte al dipendente o al collaboratore ([00:28:21]–[00:28:46]). ⚠️ Monetari **o** psicologici. Il contratto psicologico era, nella lezione 11, il contratto «più ampio, contorni indefiniti, contenuti imprecisati» con il cliente (slide 12 di quel deck).
+**Opzione:** Attraverso i contratti monetari o contratti psicologici.
+**Distrattori:**
+- Attraverso i contratti monetari e non i contratti psicologici.
+- L'assetto relativamente stabile delle ruoli aziendali derivante dalle prescelte modalità di divisione e coordinamento dei compiti.
+- Gli anni '80.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei contenuti della fase di acquisizione, secondo la slide 10 della lezione 22?
+**R:** «• **La definizione dei concorrenti della banca sul mercato del lavoro e lo sviluppo della strategia competitiva**» (slide 10). La docente: l'azienda compete «non soltanto per la distribuzione dei prodotti e dei servizi ma anche per l'acquisizione delle risorse», quindi deve creare un'immagine favorevole e analizzare i concorrenti con cui compete per acquisire le risorse necessarie ([00:29:16]–[00:29:40]). ⚠️ I concorrenti sono quelli sul mercato **del lavoro**, non dei prodotti.
+**Opzione:** La definizione dei concorrenti della banca sul mercato del lavoro e lo sviluppo della strategia competitiva.
+**Distrattori:**
+- La definizione dei concorrenti della banca sul mercato dei prodotti e lo sviluppo della strategia competitiva.
+- La creazione di un sistema di ricompense equo; il cambiamento del sistema in base alle aspettative del personale.
+- Lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro.
+
+**D:** Quali sono, nell'ordine, i contenuti delle politiche della fase di integrazione, secondo la slide 11 della lezione 22?
+**R:** «2. Integrazione: • Coinvolgimento del personale sugli obiettivi aziendali • La valutazione delle politiche retributive rispetto ai concorrenti • La definizione dei sistemi di valutazione (orientati ai risultati) • La creazione di un sistema di ricompense equo. Il cambiamento del sistema in base alle aspettative del personale • L'articolazione dei percorsi di carriera • L'analisi della mansioni operative (il grado di motivazione) e un'eventuale ridefinizione dei compiti per sviluppare la mansioni più ricche. • La valutazione dell'esigenza di autorealizzazione sul lavoro • Le politiche di accoglimento e di inserimento • Lo sviluppo delle politiche per spingere le persone all'innovazione» (slide 11, con «della mansioni» e «la mansioni»). La docente: il coinvolgimento serve ad allineare tutti sulle strategie e sugli obiettivi; nelle politiche retributive si fa benchmark con i concorrenti; i percorsi di carriera vanno resi condivisibili, trasparenti e chiari; la ridefinizione delle mansioni è «una specie di re-engineering» della *job description*; l'autorealizzazione richiama «la piramide di Maslow»; l'accoglimento comprende i corsi di formazione per i nuovi arrivati; l'innovazione serve al miglioramento continuo ([00:29:40]–[00:33:16]). ⚠️ Nove voci; le politiche di **accoglimento e di inserimento** stanno nell'**integrazione**, non nell'acquisizione.
+
+**D:** ⚠️ Verso che cosa sono orientati i sistemi di valutazione definiti nella fase di integrazione, secondo la slide 11 della lezione 22?
+**R:** «• La definizione dei sistemi di valutazione (**orientati ai risultati**)» (slide 11). La docente: «sicuramente orientati più ai risultati, non soltanto al tempo del lavoro», soprattutto con l'organizzazione del lavoro flessibile, agile, lo *smart working* e il telelavoro, che obbligano a rivedere i sistemi di coordinamento e di valutazione ([00:30:35]–[00:31:00]). ⚠️ Ai **risultati**: il tempo di lavoro, per la docente, non basta.
+**Opzione:** Ai risultati.
+**Distrattori:**
+- Soltanto al tempo di lavoro.
+- Crescita dimensionale, diversificazione del portafoglio.
+- Ai cambiamenti ambientali, strategici, tecnologici, organizzativi.
+
+**D:** ⚠️ Che sistema di ricompense va creato nella fase di integrazione, e in base a che cosa va cambiato, secondo la slide 11 della lezione 22?
+**R:** «• La creazione di **un sistema di ricompense equo**. Il cambiamento del sistema **in base alle aspettative del personale**» (slide 11). La docente: per motivare il personale il sistema di retribuzione e di compensi va rivisto e deve essere percepito dal personale «come un sistema trasparente ed equo» ([00:31:00]–[00:31:19]). ⚠️ Il sistema si cambia in base alle **aspettative del personale**; il confronto **con i concorrenti** riguarda invece la valutazione delle politiche retributive, voce precedente della stessa slide.
+**Opzione:** La creazione di un sistema di ricompense equo; il cambiamento del sistema in base alle aspettative del personale.
+**Distrattori:**
+- La creazione di un sistema di ricompense equo; il cambiamento del sistema in base alle politiche retributive dei concorrenti.
+- L'assetto relativamente stabile delle ruoli aziendali derivante dalle prescelte modalità di divisione e coordinamento dei compiti.
+- L'articolazione dei percorsi professionali interni (mobilità interna) per favorire lo sviluppo delle competenze (anche inter-funzionali).
+
+**D:** ⚠️ A quale scopo si ridefiniscono i compiti dopo l'analisi delle mansioni operative, secondo la slide 11 della lezione 22?
+**R:** «• L'analisi della mansioni operative (**il grado di motivazione**) e un'eventuale ridefinizione dei compiti **per sviluppare la mansioni più ricche**» (slide 11, con «della» e «la mansioni»). La docente: se i compiti «non sono molto motivanti», si sviluppano «le mansioni più ricche», con «una specie di re-engineering, design» della *job description*, da rivedere periodicamente per aumentare la motivazione ([00:31:42]–[00:32:13]). ⚠️ Mansioni più **ricche**, non più semplici; l'analisi guarda al **grado di motivazione**.
+**Opzione:** L'analisi della mansioni operative (il grado di motivazione) e un'eventuale ridefinizione dei compiti per sviluppare la mansioni più ricche.
+**Distrattori:**
+- L'analisi della mansioni operative (il grado di motivazione) e un'eventuale ridefinizione dei compiti per sviluppare la mansioni più semplici.
+- L'insieme di decisioni e di azioni riguardanti il coerente impiego delle risorse umane nell'ambito del sistema aziendale.
+- Struttura organizzativa e meccanismi operativi.
+
+**D:** ⚠️ In quale fase del ciclo di vita stanno le politiche di accoglimento e di inserimento, secondo la slide 11 della lezione 22?
+**R:** «2. **Integrazione**: […] • Le politiche di accoglimento e di inserimento» (slide 11). La docente: «come facciamo entrare all'interno delle organizzazioni, come facciamo apprendere», per esempio con corsi di formazione predisposti per i nuovi arrivati ([00:32:46]–[00:33:05]); già nella slide 8 la fase dopo l'entrata è l'«integrazione, inserimento di questa nuova risorsa» ([00:21:18]). ⚠️ L'accoglimento sembra un tema dell'**acquisizione**, ma la slide lo mette nell'**integrazione**.
+**Opzione:** Integrazione.
+**Distrattori:**
+- Acquisizione.
+- Sviluppo.
+- Uscita.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei contenuti della fase di integrazione, secondo la slide 11 della lezione 22?
+**R:** «• **Lo sviluppo delle politiche per spingere le persone all'innovazione**» (slide 11). La docente: serve a creare «quello spirito di creatività» che aiuta le aziende ad adattarsi all'ambiente e ad avere un miglioramento continuo ([00:33:05]–[00:33:16]). ⚠️ L'innovazione torna anche nella fase di sviluppo, come «La politiche di sviluppo della creatività/innovazione» (slide 12): nell'integrazione la formula è **spingere le persone all'innovazione**.
+**Opzione:** Lo sviluppo delle politiche per spingere le persone all'innovazione.
+**Distrattori:**
+- Lo sviluppo delle politiche per spingere le persone all'uscita.
+- Con gli obiettivi degli individui (esigenze, aspettative, bisogni, economici e non) -> l'equilibrio del sistema aziendale e il successo nel tempo.
+- Collocare le risorse umane nell'ambito della pianificazione strategica: definire gli obiettivi e le politiche della gestione del personale che favoriscano linee di sviluppo strategico.
+
+**D:** Quali sono, nell'ordine, i contenuti delle politiche della fase di sviluppo, secondo la slide 12 della lezione 22?
+**R:** «3. Sviluppo: • La definizione degli atteggiamenti, le conoscenze e le capacità che devono essere sviluppate nell'ambito aziendale • L'individuazione delle politiche da attuare per favorire lo sviluppo professionale necessario • L'utilizzo della prassi di affiancamento come strumento di formazione • L'articolazione dei percorsi professionali interni (mobilità interna) per favorire lo sviluppo delle competenze (anche inter-funzionali) • La definizione degli interventi di formazione esterni (per quali conoscenze e capacità) • La responsabilizzazione dei singoli per la crescita dei propri collaboratori • La politiche di sviluppo della creatività/innovazione • La definizione dei percorsi di sviluppo delle capacità manageriali» (slide 12, con «La politiche»). La docente: gli strumenti sono i classici corsi di formazione e l'affiancamento, con coaching, mentoring, tutoring; la mobilità interna è la *job rotation*, orizzontale, verticale, trasversale, internazionale, che sviluppa competenze interfunzionali e riduce la resistenza al cambiamento; la responsabilizzazione riguarda i manager di linea, che devono sviluppare i propri collaboratori; le capacità manageriali servono anche al singolo dipendente con un livello di *empowerment* e di autonomia elevato, «nelle imprese innovative e flessibili» ([00:33:29]–[00:36:02]). ⚠️ Otto voci; la mobilità è **interna**, la formazione definita qui è **esterna**.
+
+**D:** ⚠️ Come si utilizza la prassi di affiancamento nella fase di sviluppo, secondo la slide 12 della lezione 22?
+**R:** «• L'utilizzo della **prassi di affiancamento come strumento di formazione**» (slide 12). La docente: si impara «svolgendo il proprio compito attraverso l'affiancamento», con tecniche come coaching, mentoring, tutoring, accanto ai classici corsi di formazione ([00:33:43]–[00:34:27]). ⚠️ L'affiancamento è uno strumento di **formazione**, non di selezione.
+**Opzione:** L'utilizzo della prassi di affiancamento come strumento di formazione.
+**Distrattori:**
+- L'utilizzo della prassi di affiancamento come strumento di selezione.
+- Le capacità di analisi e di creatività per la ricerca delle soluzioni innovative per creare condizioni gestionali distintive in grado di creare barriere (es. strategie di differenziazione dei servizi).
+- Coerenza interna (tra le variabili componenti) e coerenza esterna (tra il sistema e l'ambiente).
+
+**D:** ⚠️ Con quali percorsi la fase di sviluppo favorisce lo sviluppo delle competenze (anche inter-funzionali), secondo la slide 12 della lezione 22?
+**R:** «• L'articolazione dei **percorsi professionali interni (mobilità interna)** per favorire lo sviluppo delle competenze (anche inter-funzionali)» (slide 12). La docente: è la *job rotation*, che «può essere svolta sia a livello orizzontale, verticale, trasversale, internazionale eccetera», e le competenze interfunzionali aumentano l'innovazione e l'adattamento all'ambiente esterno e riducono la resistenza delle persone al cambiamento ([00:34:10]–[00:35:04]). ⚠️ Percorsi **interni**, mobilità **interna**; è la formazione, nella voce successiva, a essere **esterna**.
+**Opzione:** L'articolazione dei percorsi professionali interni (mobilità interna) per favorire lo sviluppo delle competenze (anche inter-funzionali).
+**Distrattori:**
+- L'articolazione dei percorsi professionali esterni (mobilità esterna) per favorire lo sviluppo delle competenze (anche inter-funzionali).
+- La verifica/la modifica dell'immagine della banca sul mercato.
+- Ottimizzazione degli organici e incremento della produttività del lavoro; miglioramento della professionalità e della motivazione del personale.
+
+**D:** ⚠️ Con quale voce si chiude l'elenco dei contenuti della fase di sviluppo, secondo la slide 12 della lezione 22?
+**R:** «• **La definizione dei percorsi di sviluppo delle capacità manageriali**» (slide 12). La docente: sono «molto importanti non soltanto per i ruoli proprio manageriali ma anche per ogni singolo dipendente», che può partecipare a diverse iniziative e avere «un livello di empowerment, di power, di autonomia abbastanza elevato» nelle imprese innovative e flessibili ([00:35:31]–[00:36:02]). ⚠️ Capacità **manageriali**: nella lezione 20 il contenuto **tecnico-professionale** è quello dei ruoli funzionali.
+**Opzione:** La definizione dei percorsi di sviluppo delle capacità manageriali.
+**Distrattori:**
+- La definizione dei percorsi di sviluppo delle capacità tecnico-professionali.
+- Collocare le risorse umane nell'ambito della pianificazione strategica: definire gli obiettivi e le politiche della gestione del personale che favoriscano linee di sviluppo strategico.
+- Lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro.
+
+**D:** ⚠️ Quali sono, nell'ordine, i contenuti delle politiche della fase di uscita, secondo la slide 13 della lezione 22?
+**R:** «4. Uscita: • **La gestione del turnover esterno per favorire il dimensionamento coerente dell'organico** • **La definizione degli strumenti di accelerazione del turnover esterno** • **Lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro** • **La gestione del turnover esterno per mantenere l'età media del personale compatibile con gli obiettivi aziendali**» (slide 13). La docente: le politiche per frenare l'uscita sono politiche di mantenimento del personale prezioso; per l'età media ci sono sempre più prassi dedicate alla gestione delle diverse generazioni, per gestire in modo differenziato il personale di diverse età o di diverso genere ([00:36:02]–[00:37:11]). ⚠️ Il turnover è sempre **esterno**; la fase prevede sia di **accelerare** il turnover sia di **frenare** l'uscita causata dalle pressioni competitive.
+**Opzione:** La gestione del turnover esterno per favorire il dimensionamento coerente dell'organico; la definizione degli strumenti di accelerazione del turnover esterno; lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro; la gestione del turnover esterno per mantenere l'età media del personale compatibile con gli obiettivi aziendali.
+**Distrattori:**
+- La gestione del turnover esterno per favorire il dimensionamento coerente dell'organico; la definizione degli strumenti di accelerazione del turnover esterno; lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro; la gestione del turnover interno per mantenere l'età media del personale compatibile con gli obiettivi aziendali.
+- Le capacità di analisi e di creatività per la ricerca delle soluzioni innovative per creare condizioni gestionali distintive in grado di creare barriere (es. strategie di differenziazione dei servizi).
+- Regole di interazione: informazione, comunicazione, coordinamento/integrazione; regole di processi: pianificazione strategica, programmazione, controllo.
+
+**D:** ⚠️ Quale uscita frenano le politiche della fase di uscita, secondo la slide 13 della lezione 22?
+**R:** «• Lo sviluppo delle politiche **per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro**» (slide 13). La docente: sono le politiche di mantenimento del personale prezioso, «per non farlo insomma andar via» ([00:36:24]). ⚠️ Le pressioni competitive sono quelle **sul mercato del lavoro**. La stessa slide prevede anche gli strumenti di **accelerazione** del turnover esterno: frenare e accelerare convivono nella fase di uscita.
+**Opzione:** Lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato del lavoro.
+**Distrattori:**
+- Lo sviluppo delle politiche per frenare l'uscita causata dalle pressioni competitive sul mercato dei prodotti.
+- Funzionale.
+- Le scelte di dimensionamento qualitativo e quantitativo degli organici.
+
+**D:** ⚠️ Come può essere definito il tasso di ricambio del personale, ovvero il rapporto tra i neoassunti e i dipendenti che lasciano l'azienda per qualsiasi motivo, secondo il test della lezione 22 (domanda 5)?
+**R:** «**Turnover**». Nella lezione 22 il termine compare solo nella fase di uscita, sempre come «turnover esterno» e senza definizione: «La gestione del turnover esterno per favorire il dimensionamento coerente dell'organico», «La definizione degli strumenti di accelerazione del turnover esterno», «La gestione del turnover esterno per mantenere l'età media del personale…» (slide 13; [00:36:02]). ⚠️ La chiave è giusta, ma la formula della domanda **non è nei materiali** di questa lezione: la slide 2 della lezione 27 parla di «turnover (rapporto tra uscite/entrate e organico)», la slide 4 della lezione 26 di «turnover (uscite e nuove assunzioni)». Distrattori del test: «employer branding» (la verifica/la modifica dell'immagine della banca sul mercato, slide 10), «empowerment» (per la docente il livello di autonomia del singolo dipendente, [00:35:31]; nella lezione 20 il valore della divisionalizzazione), «life cycle» (il ciclo di vita, qui la sequenza entrata, integrazione, sviluppo, uscita della slide 8: una sequenza di fasi, non un tasso).
+**Opzione:** Turnover.
+**Distrattori:**
+- Employer branding.
+- Empowerment.
+- Life cycle.
+
+## Lezione 23 — La missione aziendale e gestione del personale
+
+**D:** ⚠️ Qual è il momento centrale per la gestione strategica del personale, secondo la slide 2 della lezione 23?
+**R:** «LA DEFENIZIONE DEI "**VALORI GUIDA**" con cui modellare le regole di gioco e i meccanismi operativi» (slide 2, «DEFENIZIONE» così). La premessa: «Se l'obiettivo della gestione delle risorse umane è quello di guidare il comportamento delle persone, coerentemente con la missione e gli obiettivi generali dell'impresa». La docente: i meccanismi operativi «di cui abbiamo parlato precedentemente» sono le regole di interazione, dei processi e di gestione delle risorse umane, cioè «selezione, sviluppo, valutazione, supervisione, retribuzione e quant'altro» ([00:00:44]–[00:01:29]). ⚠️ Il momento centrale è la definizione dei **valori guida**: la missione e gli obiettivi generali dell'impresa stanno nella premessa.
+**Opzione:** La defenizione dei valori guida con cui modellare le regole di gioco e i meccanismi operativi.
+**Distrattori:**
+- La defenizione degli obiettivi generali dell'impresa con cui modellare le regole di gioco e i meccanismi operativi.
+- La missione aziendale sfugge alla percezione del personale.
+- Al livello professionale e al livello umano.
+
+**D:** ⚠️ Qual è l'obiettivo della gestione delle risorse umane, secondo la slide 2 della lezione 23?
+**R:** «guidare il comportamento delle persone, coerentemente con la missione e gli obiettivi generali dell'impresa» (slide 2). La docente: «guidare il comportamento delle persone, il comportamento organizzativo» ([00:00:39]–[00:00:44]), sia del singolo individuo sia di un gruppo di lavoro, di un'unità o di una funzione organizzativa ([00:01:29]). ⚠️ Il comportamento si guida **coerentemente** con la missione e gli obiettivi generali dell'impresa.
+**Opzione:** Guidare il comportamento delle persone, coerentemente con la missione e gli obiettivi generali dell'impresa.
+**Distrattori:**
+- Guidare il comportamento delle persone, indipendentemente dalla missione e dagli obiettivi generali dell'impresa.
+- Lealtà, fedeltà e trasparenza.
+- La conoscenza acquisita, la nostra esperienza e la certezza del nostro operato.
+
+**D:** ⚠️ Quale cultura organizzativa bisogna sviluppare con i valori guida, secondo la slide 2 della lezione 23?
+**R:** «➢ **Sviluppare cultura organizzativa** coerente con la missione aziendale, capace di creare e mantenere una forte coesione attorno agli obiettivi istituzionali» (slide 2). La docente: si parte dalla strategia organizzativa e competitiva, «dopodiché andiamo a definire la mission, la vision, la cultura, i valori culturali organizzativi» ([00:01:49]–[00:02:05]). ⚠️ La coesione è attorno agli obiettivi **istituzionali**, e la cultura è coerente con la **missione aziendale**.
+**Opzione:** Una cultura organizzativa coerente con la missione aziendale, capace di creare e mantenere una forte coesione attorno agli obiettivi istituzionali.
+**Distrattori:**
+- Una cultura organizzativa coerente con la missione aziendale, capace di creare e mantenere una forte coesione attorno agli obiettivi individuali dei dipendenti.
+- Uno dei migliori datori di lavoro del settore finanziario europeo.
+- Sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+
+**D:** ⚠️ In quali casi la definizione dei valori guida stimola il processo di collaborazione e coesione aziendale, e con quale scopo, secondo la slide 2 della lezione 23?
+**R:** «➢ **Stimolare il processo di collaborazione e coesione** aziendale: • Nei casi di **cambiamento strategico** (imprimere nuovi orientamenti e comportamenti) • Nei casi di **tensione nel clima organizzativo** (recuperare la motivazione, guidare i valori e sentimenti dei singoli)» (slide 2). La docente: nel cambiamento strategico si stimolano «i nuovi orientamenti, i nuovi comportamenti organizzativi»; nella tensione si recupera la motivazione e, «dal punto di vista psicologico e emotivo», il **contratto psicologico** stabilito «anche in maniera informale» tra l'azienda e il dipendente ([00:02:29]–[00:02:54]). ⚠️ Le parentesi non si scambiano: i nuovi orientamenti sono del cambiamento strategico, la motivazione della tensione nel clima.
+**Opzione:** Nei casi di cambiamento strategico (imprimere nuovi orientamenti e comportamenti); nei casi di tensione nel clima organizzativo (recuperare la motivazione, guidare i valori e sentimenti dei singoli).
+**Distrattori:**
+- Nei casi di cambiamento strategico (recuperare la motivazione, guidare i valori e sentimenti dei singoli); nei casi di tensione nel clima organizzativo (imprimere nuovi orientamenti e comportamenti).
+- Libertà, relazione, responsabilità, innovazione sostenibile, positività.
+- Integrità, responsabilità, attenzione alle persone.
+
+**D:** ⚠️ Che cos'è la dichiarazione d'intenti di un'organizzazione o un'impresa, ovvero il suo fine ultimo, ciò che la distingue dai competitor e le consente di raggiungere i risultati prestabiliti, secondo il test della lezione 23 (domanda 2)?
+**R:** «**Mission**». ⚠️ La chiave è giusta ma **non testuale**: la definizione non compare nello strato di testo dei 30 deck del corso né nei transcript. Regge per esclusione e per il tema della lezione: la missione aziendale è il riferimento con cui la gestione delle risorse umane guida il comportamento delle persone (slide 2), e se la gestione del personale è solo operativa «sfugge alla percezione del personale» (slide 4). La docente la mette subito dopo la strategia: «dopodiché andiamo a definire la mission, la vision, la cultura, i valori culturali organizzativi» ([00:02:05]). La formula più vicina al «fine ultimo» è il *Purpose* di UniCredit, «la nostra ragion d'essere» (slide 12), che però non è la mission. La **vision** compare solo in quella frase, senza definizione; la **cultura organizzativa** è ciò che i valori guida devono sviluppare (slide 2), e nel corso è la definizione di Schein (lezione 01); il **business model** è la scelta concreta di strategia per una singola ASA (lezione 09). Mission e vision sono **pool condiviso**: distrattori nei test 01, 05 e 19, chiavi intruse nei test 15 e 16. Distrattori del test: «cultura organizzativa», «vision», «business model».
+**Opzione:** Mission.
+**Distrattori:**
+- Cultura organizzativa.
+- Vision.
+- Business model.
+
+**D:** ⚠️ Quali sono i principi della gestione strategica delle risorse umane, secondo la slide 3 della lezione 23?
+**R:** «1. Tendere alla massina **valorizzazione e soddisfazione** delle proprie risorse 2. Ricercare un **sistematico equilibrio** tra la soddisfazione della clientela e la motivazione del personale» (slide 3, «massina» così). La docente: «tendere, ambire alla massima valorizzazione e soddisfazione delle proprie risorse», cioè degli stakeholder interni, collaboratori e dipendenti ([00:03:18]–[00:03:34]); poi l'equilibrio «tra la soddisfazione della clientela e tra la motivazione del personale» ([00:03:37]). ⚠️ I principi sono **due**, e l'equilibrio è fra **clientela** e **personale**. La domanda 1 del test prende il primo, troncato: «valorizzazione e soddisfazione».
+**Opzione:** Tendere alla massina valorizzazione e soddisfazione delle proprie risorse; ricercare un sistematico equilibrio tra la soddisfazione della clientela e la motivazione del personale.
+**Distrattori:**
+- Tendere alla massina valorizzazione e soddisfazione delle proprie risorse; ricercare un sistematico equilibrio tra la soddisfazione degli azionisti e la motivazione del personale.
+- La nostra ragion d'essere, che si realizza vincendo con e per i nostri clienti, grandi o piccoli che siano.
+- Non solo al livello economico, ma anche morale e sociale.
+
+**D:** ⚠️ Quale tra i seguenti è un principio della gestione strategica delle risorse umane, fra le opzioni del test della lezione 23 (domanda 1)?
+**R:** «**Valorizzazione e soddisfazione**». È il primo principio della slide 3, troncato: «Tendere alla massina valorizzazione e soddisfazione delle proprie risorse» ([00:03:18]); il secondo è il «sistematico equilibrio tra la soddisfazione della clientela e la motivazione del personale». ⚠️ Nessun distrattore è un principio. «Formazione e sviluppo» è la trappola: la slide 3 fa della crescita dei collaboratori, «Al livello professionale» e «Al livello umano», **una delle responsabilità del management**, non un principio; nella lezione 22 la formazione è un meccanismo operativo e lo sviluppo una fase del ciclo di vita (slide 6, 8 e 12 di quel deck), e la gestione strategica del personale è «l'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite» (slide 9 di quel deck): politiche, non principi. La produttività è per la docente un **effetto** della motivazione ([00:10:38]); efficienza e produttività stanno nella riorganizzazione del lavoro della lezione 22 (slide 3 di quel deck). Il turnover, per la docente, **aumenta** con il toxic management ([00:35:14]): è un rischio. Distrattori del test: «formazione e sviluppo», «produttività ed efficienza», «aumento del turnover».
+**Opzione:** Valorizzazione e soddisfazione.
+**Distrattori:**
+- Formazione e sviluppo.
+- Produttività ed efficienza.
+- Aumento del turnover.
+
+**D:** ⚠️ Come convivono cliente e dipendente nelle imprese di servizi, e con quale effetto, secondo la slide 3 della lezione 23?
+**R:** «Nelle imprese di servizi, **Cliente e Dipendente convivono in stretta relazione**: la motivazione e il comportamento del personale impatta sulla qualità del servizio offerto» (slide 3, sottolineato). La docente: impatta «direttamente, soprattutto del personale di contatto e di front office, sulla qualità del servizio offerto, erogato»; per aumentare la qualità e la soddisfazione dei clienti «dobbiamo lavorare innanzitutto anche sui comportamenti organizzativi», cioè sulla motivazione dei collaboratori ([00:03:46]–[00:04:15]). ⚠️ La motivazione del personale impatta sulla **qualità** del servizio.
+**Opzione:** Convivono in stretta relazione: la motivazione e il comportamento del personale impatta sulla qualità del servizio offerto.
+**Distrattori:**
+- Convivono in stretta relazione: la motivazione e il comportamento del personale impatta sul prezzo del servizio offerto.
+- La defenizione dei valori guida con cui modellare le regole di gioco e i meccanismi operativi.
+- Vogliamo essere la Banca per il futuro dell'Europa.
+
+**D:** ⚠️ Che cosa diventano e come si trasmettono i valori guida, secondo la slide 3 della lezione 23?
+**R:** «I "valori guida" diventano **parte integrante della cultura organizzativa**, si condividono ai vari livelli di management -> formano uno **stile di leadership** -> si trasmettono nell'organizzazione» (slide 3). La docente: la cultura influisce sui processi di gestione e sulle performance dei manager che coordinano e supervisionano il lavoro ([00:04:38]–[00:04:57]); i valori, «partendo dall'alto», scendono piano piano attraverso i livelli organizzativi, con un processo «normalmente **top down**, dall'alto verso il basso» ([00:05:11]). ⚠️ I valori formano uno **stile di leadership**. Il top down sta solo nel transcript.
+**Opzione:** Diventano parte integrante della cultura organizzativa, si condividono ai vari livelli di management -> formano uno stile di leadership -> si trasmettono nell'organizzazione.
+**Distrattori:**
+- Diventano parte integrante della cultura organizzativa, si condividono ai vari livelli di management -> formano un sistema di regole formali -> si trasmettono nell'organizzazione.
+- Lealtà, fedeltà e trasparenza.
+- Sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+
+**D:** ⚠️ A quali livelli il management deve favorire la crescita dei propri collaboratori, secondo la slide 3 della lezione 23?
+**R:** «Una delle responsabilità del management è favorire la crescita dei propri collaboratori: • **Al livello professionale** • **Al livello umano**» (slide 3). La docente: «attenzione la crescita non soltanto a livello professionale», cioè avanzamento della carriera, talent management, retribuzione, «la motivazione materiale, economica», «ma parliamo anche dello sviluppo, della crescita dei collaboratori a livello umano» ([00:05:33]–[00:05:59]). ⚠️ I livelli sono **due**. ⚠️ La crescita dei collaboratori è **una delle responsabilità del management**, non uno dei due principi.
+**Opzione:** Al livello professionale e al livello umano.
+**Distrattori:**
+- Solo al livello professionale.
+- Non solo al livello economico, ma anche morale e sociale.
+- La missione aziendale sfugge alla percezione del personale.
+
+**D:** Perché, per la docente, le organizzazioni adottano sempre più spesso politiche di welfare aziendale e di benessere organizzativo (lezione 23)?
+**R:** Per la crescita dei collaboratori **a livello umano**: le politiche di welfare aziendale, di benessere organizzativo, «sono molto importanti ovviamente per aumentare la motivazione da una parte e dall'altra parte aumentare anche il **senso di appartenenza**» ([00:06:05]). Nella slide 3 c'è solo la crescita «Al livello umano»; il welfare torna nella slide 13, con i «programmi di welfare» di UniCredit. ⚠️ Il «wellbeing aziendale», distrattore della domanda 4 del test, non compare nei materiali del corso.
+
+**D:** ⚠️ Quali sono le criticità delle banche nell'ambito della gestione strategica del personale, secondo la slide 4 della lezione 23?
+**R:** «• Un prevalente **orientamento del management agli aspetti tecnici e specialistici** e scarso tempo dedicato alle problematiche relative al personale • Il clima di **burocratizzazione delle attività**, alimentato sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate» (slide 4). La docente: è «proprio storicamente il management delle banche» a dedicare più tempo agli aspetti tecnici e meno alla gestione di ogni singolo individuo a livello motivazionale ([00:06:32]–[00:06:46]); le banche sono organizzazioni «di livello medio grande», più concentrate sulla gestione operativa, anche se negli ultimi anni la tendenza sta cambiando ([00:07:12]–[00:07:50]). ⚠️ Molto tempo agli aspetti **tecnici**, poco al **personale**.
+**Opzione:** Un prevalente orientamento del management agli aspetti tecnici e specialistici e scarso tempo dedicato alle problematiche relative al personale; il clima di burocratizzazione delle attività, alimentato sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+**Distrattori:**
+- Un prevalente orientamento del management alle problematiche relative al personale e scarso tempo dedicato agli aspetti tecnici e specialistici; il clima di burocratizzazione delle attività, alimentato sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+- Per la qualità della vita lavorativa e dello stile aziendale che favoriscono partecipazione, coinvolgimento, forte senso di appartenenza.
+- La nostra ragion d'essere, che si realizza vincendo con e per i nostri clienti, grandi o piccoli che siano.
+
+**D:** ⚠️ Da che cosa è alimentato il clima di burocratizzazione delle attività nelle banche, secondo la slide 4 della lezione 23?
+**R:** «Il clima di burocratizzazione delle attività, alimentato sia dalla **crescita di dimensioni aziendali** sia dalla **natura del lavoro bancario** centrato sulle procedure informatizzate» (slide 4). La docente: le banche sono «organizzazioni di livello medio grande», e il lavoro bancario è «centrato, focalizzato sulle procedure informatizzate»; i due fattori «non ci aiutano» a gestire il personale in maniera strategica ([00:07:12]–[00:07:50]). ⚠️ Le dimensioni **crescono**.
+**Opzione:** Sia dalla crescita di dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+**Distrattori:**
+- Sia dalla riduzione delle dimensioni aziendali sia dalla natura del lavoro bancario centrato sulle procedure informatizzate.
+- Guidare il comportamento delle persone, coerentemente con la missione e gli obiettivi generali dell'impresa.
+- La conoscenza acquisita, la nostra esperienza e la certezza del nostro operato.
+
+**D:** ⚠️ Che cosa succede alla missione aziendale per effetto delle criticità delle banche nella gestione strategica del personale, secondo la slide 4 della lezione 23?
+**R:** «La missione aziendale **sfugge alla percezione del personale**» (slide 4, fra due frecce). La docente: succede «quando parliamo della gestione del personale soltanto dal punto di vista operativo»; la missione «non si percepisce», e i valori non si allineano e non si condividono con quelli del personale ([00:08:16]–[00:08:49]). ⚠️ Sfugge al **personale**, non ai clienti.
+**Opzione:** La missione aziendale sfugge alla percezione del personale.
+**Distrattori:**
+- La missione aziendale sfugge alla percezione dei clienti.
+- Crediamo nel costante miglioramento.
+- Uno dei migliori datori di lavoro del settore finanziario europeo.
+
+**D:** ⚠️ Che cosa serve perché la missione aziendale non sfugga alla percezione del personale, secondo la slide 4 della lezione 23?
+**R:** «• L'importanza del piano di **comunicazione interna** • La visibilità e **la condivisione** dei "valori guida" • La comprensione della **relazione tra la missione e l'ambiente esterno** (non solo al livello economico, ma anche morale e sociale) • La missione come strumento di sviluppo economico nelle proprie aree operative» (slide 4). La docente: la comunicazione è «uno degli strumenti importantissimi», la trasmissione delle informazioni e dei valori della cultura verso i collaboratori ([00:08:49]–[00:09:09]); la visibilità e la condivisione dei valori guida passano anche per eventi e «corsi di formazione» ([00:09:12]–[00:09:27]); la missione porta motivazione e produttività, «un processo molto virtuoso» ([00:10:38]–[00:11:08]). ⚠️ La comunicazione è **interna**.
+**Opzione:** L'importanza del piano di comunicazione interna; la visibilità e la condivisione dei valori guida; la comprensione della relazione tra la missione e l'ambiente esterno (non solo al livello economico, ma anche morale e sociale); la missione come strumento di sviluppo economico nelle proprie aree operative.
+**Distrattori:**
+- L'importanza del piano di comunicazione esterna; la visibilità e la condivisione dei valori guida; la comprensione della relazione tra la missione e l'ambiente esterno (non solo al livello economico, ma anche morale e sociale); la missione come strumento di sviluppo economico nelle proprie aree operative.
+- Tendere alla massina valorizzazione e soddisfazione delle proprie risorse; ricercare un sistematico equilibrio tra la soddisfazione della clientela e la motivazione del personale.
+- Specifici programmi di welfare in tutti i nostri paesi, offerti in aggiunta alle agevolazioni finanziarie e assicurative, all'assistenza sanitaria e ai benefit gestiti a livello locale.
+
+**D:** ⚠️ A quali livelli va compresa la relazione tra la missione e l'ambiente esterno, secondo la slide 4 della lezione 23?
+**R:** «La comprensione della relazione tra la missione e l'ambiente esterno (**non solo al livello economico, ma anche morale e sociale**)» (slide 4). La docente richiama la **sostenibilità** e la **responsabilità sociale d'impresa**: i clienti sono più propensi ad acquistare i servizi delle aziende più socialmente responsabili, e i dipendenti a lavorare in un ambiente più attento a questi aspetti ([00:09:40]–[00:10:20]). ⚠️ **Non solo** economico.
+**Opzione:** Non solo al livello economico, ma anche morale e sociale.
+**Distrattori:**
+- Solo al livello economico, non a quello morale e sociale.
+- Al livello professionale e al livello umano.
+- Siamo persone per le persone.
+
+**D:** ⚠️ Come definisce la propria missione Mediolanum, secondo la slide 5 della lezione 23?
+**R:** «• Costruire con le persone **relazioni** di profonda conoscenza, che durano nel tempo, fondate su lealtà, fedeltà e trasparenza. • Dedicare una **consulenza personalizzata** unica, con soluzioni efficaci che coprono tutto l'arco della vita delle persone. • Agire in **modo innovativo e sostenibile** per il benessere della persona, delle famiglie e della collettività. **Banking for Freedom.**» (slide 5). La docente: le relazioni valgono con i clienti e con i dipendenti ([00:12:27]–[00:12:51]); la consulenza personalizzata può riferirsi anche ai **clienti interni**, cioè ai dipendenti ([00:13:19]); Banking for Freedom è svolgere le attività bancarie «per dare la libertà a diversi stakeholder» ([00:14:38]). ⚠️ Il valore sostenibile «per i nostri azionisti» è della missione di **UniCredit** (slide 11).
+**Opzione:** Costruire con le persone relazioni di profonda conoscenza, che durano nel tempo, fondate su lealtà, fedeltà e trasparenza. Dedicare una consulenza personalizzata unica, con soluzioni efficaci che coprono tutto l'arco della vita delle persone. Agire in modo innovativo e sostenibile per il benessere della persona, delle famiglie e della collettività. Banking for Freedom.
+**Distrattori:**
+- Costruire con le persone relazioni di profonda conoscenza, che durano nel tempo, fondate su lealtà, fedeltà e trasparenza. Dedicare una consulenza personalizzata unica, con soluzioni efficaci che coprono tutto l'arco della vita delle persone. Creare valore sostenibile per i nostri azionisti. Banking for Freedom.
+- Un prevalente orientamento del management agli aspetti tecnici e specialistici e scarso tempo dedicato alle problematiche relative al personale.
+- Peggiora il clima di lavoro e riduce la soddisfazione del personale, e così può aumentare il turnover e l'uscita dei talenti.
+
+**D:** ⚠️ Su che cosa sono fondate le relazioni che Mediolanum vuole costruire con le persone, secondo la slide 5 della lezione 23?
+**R:** «Costruire con le persone relazioni di profonda conoscenza, che durano nel tempo, fondate su **lealtà, fedeltà e trasparenza**» (slide 5). La docente: le relazioni sono il primo punto chiave, fra il sistema e ogni individuo e fra il sistema e il cliente; lealtà e fedeltà valgono «sia dal punto di vista del cliente ma sia anche dal punto di vista del dipendente», e creano fiducia nell'organizzazione ([00:12:27]–[00:12:51]). ⚠️ La terza voce è la **trasparenza**.
+**Opzione:** Lealtà, fedeltà e trasparenza.
+**Distrattori:**
+- Lealtà, fedeltà e redditività.
+- Crediamo nel costante miglioramento.
+- Vogliamo essere la Banca per il futuro dell'Europa.
+
+**D:** ⚠️ Quali sono i valori che guidano Mediolanum, secondo la slide 6 della lezione 23?
+**R:** «LIBERTÀ, RELAZIONE, RESPONSABILITÀ, INNOVAZIONE SOSTENIBILE, POSITIVITÀ. I VALORI CHE CI GUIDANO. DA SEMPRE.» (slide 6, un'immagine con il logo della banca). La docente: «i valori che definisce la banca Mediolanum è quello di libertà, relazione, responsabilità, innovazione sostenibile e positività» ([00:15:10]); la positività è «il quinto valore» ([00:19:45]). ⚠️ Sono **cinque**: l'**imprenditorialità** non c'è, ed è la chiave della domanda 3 del test. I valori di UniCredit sono integrità, responsabilità, attenzione alle persone (slide 12).
+**Opzione:** Libertà, relazione, responsabilità, innovazione sostenibile, positività.
+**Distrattori:**
+- Libertà, relazione, responsabilità, innovazione sostenibile, imprenditorialità.
+- Integrità, responsabilità, attenzione alle persone.
+- Per la qualità della vita lavorativa e dello stile aziendale che favoriscono partecipazione, coinvolgimento, forte senso di appartenenza.
+
+**D:** ⚠️ Quale tra questi non è il valore guida della banca Mediolanum, fra le opzioni del test della lezione 23 (domanda 3)?
+**R:** «**Imprenditorialità**». I valori della slide 6 sono «LIBERTÀ, RELAZIONE, RESPONSABILITÀ, INNOVAZIONE SOSTENIBILE, POSITIVITÀ» ([00:15:10]). ⚠️ La domanda è **negativa**, e l'intrusa sta vicina a tre punti del corso: la slide 10 dice «un sistema che premia l'intraprendenza personale»; la docente, commentando la positività, dice che trasferire lo spirito alle persone le rende «come se fossero azionisti, imprenditori» ([00:21:12]); nella lezione 18 «Imprenditorialità» è una voce della caratterizzazione culturale (slide 14 di quel deck). Nessuno dei tre la fa un valore di Mediolanum. ⚠️ La «responsabilità» è anche un valore di UniCredit (slide 12), e torna nella domanda 5, speculare. Distrattori del test: «libertà», «relazione», «responsabilità».
+**Opzione:** Imprenditorialità.
+**Distrattori:**
+- Libertà.
+- Relazione.
+- Responsabilità.
+
+**D:** ⚠️ Quale valore di Mediolanum si apre con la frase «La persona è al centro», secondo la slide 7 della lezione 23?
+**R:** «**RELAZIONE** *La persona è al centro.*» (slide 7). Le frasi d'apertura degli altri valori: libertà, «*Non c'è valore più grande della libertà.*»; responsabilità, «*Siamo persone per le persone.*»; innovazione sostenibile, «*Crediamo nel costante miglioramento.*»; positività, «*La positività è rendere possibile quello che sembra impossibile.*» (slide 7–9). La docente: «la persona è al centro vedete come si ripete spesso questa parola chiave persona» ([00:16:35]). ⚠️ «La persona è al centro» è la **relazione**, «Siamo persone per le persone» la **responsabilità**; l'«attenzione alle persone» è un valore di **UniCredit** (slide 12).
+**Opzione:** Relazione.
+**Distrattori:**
+- Responsabilità.
+- Attenzione alle persone.
+- Libertà.
+
+**D:** ⚠️ Come descrive Mediolanum il valore della relazione, secondo la slide 7 della lezione 23?
+**R:** «**RELAZIONE** *La persona è al centro.* Il rapporto umano è il fondamento di ogni persona che lavora in Mediolanum. Costruire una relazione ci aiuta a comprendere i progetti della persona, accompagnarla nella gestione dei suoi risparmi e nel raggiungimento del suo benessere. Diventare un riferimento personale **nel tempo** significa crescere insieme.» (slide 7). La docente: si parla di una relazione «non soltanto a breve termine ma a lungo termine», che aumenta la fiducia: la retention, la fidelizzazione, la lealtà e la fedeltà del cliente e del dipendente ([00:16:59]–[00:17:22]). ⚠️ Il riferimento personale è **nel tempo**, non nel breve periodo.
+**Opzione:** La persona è al centro. Il rapporto umano è il fondamento di ogni persona che lavora in Mediolanum. Costruire una relazione ci aiuta a comprendere i progetti della persona, accompagnarla nella gestione dei suoi risparmi e nel raggiungimento del suo benessere. Diventare un riferimento personale nel tempo significa crescere insieme.
+**Distrattori:**
+- La persona è al centro. Il rapporto umano è il fondamento di ogni persona che lavora in Mediolanum. Costruire una relazione ci aiuta a comprendere i progetti della persona, accompagnarla nella gestione dei suoi risparmi e nel raggiungimento del suo benessere. Diventare un riferimento personale nel breve periodo significa crescere insieme.
+- Per imporsi sul mercato non è sufficiente soddisfare clienti e utili aziendali, bisogna impegnarsi a garantire anche la piena soddisfazione dei collaboratori.
+- In UniCredit diamo valore a tutte le idee, dalle più audaci alle più innovative, così da offrire alle nostre comunità prodotti e soluzioni in grado di migliorare la loro vita.
+
+**D:** ⚠️ Come descrive Mediolanum il valore della responsabilità, secondo la slide 8 della lezione 23?
+**R:** «**RESPONSABILITÀ** *Siamo persone per le persone.* Abbiamo piena consapevolezza del **ruolo sociale** che rivestiamo. Sappiamo agire con eticità e trasparenza, anche con **decisioni controcorrente**. Ci impegniamo nella solidarietà e in progetti di educazione e di sviluppo, con interventi tangibili e ad alto impatto sociale.» (slide 8). La docente: è la responsabilità sociale d'impresa; con le decisioni controcorrente la banca si definisce «pioniera», un'impresa all'avanguardia ([00:17:47]–[00:18:08]); clienti e dipendenti sono disposti a «pagare di più», in denaro o in sforzo, per un'azienda attenta ai valori morali, etici e sociali ([00:18:23]–[00:19:02]). ⚠️ Anche con decisioni **controcorrente**. La responsabilità di UniCredit ha un'altra descrizione: «Portiamo sempre a termine i nostri impegni…» (slide 12).
+**Opzione:** Siamo persone per le persone. Abbiamo piena consapevolezza del ruolo sociale che rivestiamo. Sappiamo agire con eticità e trasparenza, anche con decisioni controcorrente. Ci impegniamo nella solidarietà e in progetti di educazione e di sviluppo, con interventi tangibili e ad alto impatto sociale.
+**Distrattori:**
+- Siamo persone per le persone. Abbiamo piena consapevolezza del ruolo sociale che rivestiamo. Sappiamo agire con eticità e trasparenza, evitando decisioni controcorrente. Ci impegniamo nella solidarietà e in progetti di educazione e di sviluppo, con interventi tangibili e ad alto impatto sociale.
+- Una cultura organizzativa coerente con la missione aziendale, capace di creare e mantenere una forte coesione attorno agli obiettivi istituzionali.
+- Il rapporto umano è il fondamento di ogni persona che lavora in Mediolanum.
+
+**D:** ⚠️ Che cosa c'è alla base della filosofia di vita e di business della positività di Mediolanum, secondo la slide 9 della lezione 23?
+**R:** «**POSITIVITÀ** *La positività è rendere possibile quello che sembra impossibile.* Alla base di questa filosofia di vita e di business c'è **la conoscenza acquisita, la nostra esperienza e la certezza del nostro operato**. È restare sempre fedeli a questo valore e trasferire questo spirito alle persone. È essere capaci di cogliere opportunità dove nessuno le vede.» (slide 9). La docente vi riconosce il **knowledge management** e l'**apprendimento organizzativo**: la conoscenza si fa girare e si diffonde, ma la banca sa che può diventare obsoleta e va rivista, ed è il valore dell'innovazione ([00:19:54]–[00:20:56]). ⚠️ La terza voce è la **certezza del nostro operato**.
+**Opzione:** La conoscenza acquisita, la nostra esperienza e la certezza del nostro operato.
+**Distrattori:**
+- La conoscenza acquisita, la nostra esperienza e l'innovazione tecnologica.
+- Agiamo nell'interesse esclusivo dei nostri clienti.
+- Il confronto e le diversità d'opinione sono alla base del team work.
+
+**D:** ⚠️ L'imprenditorialità è un valore guida di Mediolanum? Che cosa ne dice la docente nella lezione 23?
+**R:** **No.** I cinque valori della slide 6 sono libertà, relazione, responsabilità, innovazione sostenibile e positività, e l'imprenditorialità è la chiave della domanda 3 del test. La docente ne parla solo commentando la **positività**: trasferire lo spirito alle persone, cioè dare a dipendenti e collaboratori la possibilità di partecipare e collaborare, «li rende praticamente come se fossero azionisti, imprenditori all'interno dell'organizzazione», con autonomia e libertà di migliorare e innovare, e crea uno spirito di iniziativa e di creatività ([00:21:12]–[00:21:35]). La slide 10 parla di «un sistema che premia l'intraprendenza personale». ⚠️ Né l'uno né l'altra ne fanno un valore.
+
+**D:** ⚠️ Per che cosa si distingue da anni il Gruppo Mediolanum, secondo la slide 10 della lezione 23?
+**R:** «Da anni il Gruppo Mediolanum si distingue per la qualità della vita lavorativa e dello stile aziendale che favoriscono **partecipazione, coinvolgimento, forte senso di appartenenza**» (slide 10, in grassetto le tre voci). La docente: ne seguono la motivazione del personale e la produttività di ogni singola risorsa umana ([00:22:15]–[00:22:23]). ⚠️ La terza voce è il **forte senso di appartenenza**, chiave della domanda 4 del test.
+**Opzione:** Per la qualità della vita lavorativa e dello stile aziendale che favoriscono partecipazione, coinvolgimento, forte senso di appartenenza.
+**Distrattori:**
+- Per la qualità della vita lavorativa e dello stile aziendale che favoriscono partecipazione, coinvolgimento, forte competizione interna.
+- Guidare il comportamento delle persone, coerentemente con la missione e gli obiettivi generali dell'impresa.
+- Convivono in stretta relazione: la motivazione e il comportamento del personale impatta sulla qualità del servizio offerto.
+
+**D:** ⚠️ Che cos'è l'attaccamento emotivo che un lavoratore ha verso l'azienda in cui lavora, secondo il test della lezione 23 (domanda 4)?
+**R:** «**Senso di appartenenza**». ⚠️ La chiave è giusta ma **non testuale**: la definizione non è nei materiali. Il senso di appartenenza compare nella slide 10, «partecipazione, coinvolgimento, forte senso di appartenenza» ([00:22:23]), e nel transcript come effetto del welfare aziendale e del benessere organizzativo ([00:06:05]). Nella lezione 04 la docente lo descrive come il sentirsi parte, responsabile e importante. L'**empowerment** non compare in questa lezione (nella lezione 20 è il valore della divisionalizzazione); la **leadership** c'è solo come «stile di leadership» formato dai valori guida (slide 3); il **wellbeing aziendale** non compare nei materiali, dove ci sono il «welfare aziendale» e il «benessere organizzativo». Distrattori del test: «empowerment», «leadership», «wellbeing aziendale».
+**Opzione:** Senso di appartenenza.
+**Distrattori:**
+- Empowerment.
+- Leadership.
+- Wellbeing aziendale.
+
+**D:** ⚠️ Da quale presupposto nasce, secondo la slide 10 della lezione 23, il risultato di Mediolanum nella gestione delle risorse umane?
+**R:** «Un risultato importante. Che nasce da un presupposto ben preciso: per imporsi sul mercato **non è sufficiente** soddisfare clienti e utili aziendali, bisogna impegnarsi a garantire anche la **piena soddisfazione dei collaboratori**» (slide 10, sottolineato). La docente richiama la relazione di interdipendenza fra il comportamento del dipendente e la soddisfazione del cliente: per soddisfare clienti, azionisti e vertici aziendali «dobbiamo innanzitutto andare a soddisfare i bisogni e le aspettative dei nostri collaboratori» ([00:22:49]–[00:23:24]). ⚠️ Soddisfare clienti e utili **non basta**.
+**Opzione:** Per imporsi sul mercato non è sufficiente soddisfare clienti e utili aziendali, bisogna impegnarsi a garantire anche la piena soddisfazione dei collaboratori.
+**Distrattori:**
+- Per imporsi sul mercato è sufficiente soddisfare clienti e utili aziendali, senza impegnarsi a garantire anche la piena soddisfazione dei collaboratori.
+- La defenizione dei valori guida con cui modellare le regole di gioco e i meccanismi operativi.
+- La relazione: essere un'impresa con la quale è facile relazionarsi.
+
+**D:** ⚠️ Che cosa sa chi lavora per il Gruppo Mediolanum, e grazie a che cosa, secondo la slide 10 della lezione 23?
+**R:** «Ecco perché chi lavora per il Gruppo Mediolanum sa che **può crescere e formarsi ogni giorno**. • Grazie a un **ambiente stimolante**, a un sistema che premia **l'intraprendenza personale**, e a **strumenti innovativi** per comunicare con i colleghi, gestire la propria attività, migliorare le competenze professionali.» (slide 10). La docente: sono i processi di sviluppo delle risorse umane ([00:23:24]) e i meccanismi operativi della comunicazione, dell'interazione e dello sviluppo del potenziale ([00:23:34]–[00:23:59]). ⚠️ Il sistema premia l'**intraprendenza personale**.
+**Opzione:** Può crescere e formarsi ogni giorno, grazie a un ambiente stimolante, a un sistema che premia l'intraprendenza personale, e a strumenti innovativi per comunicare con i colleghi, gestire la propria attività, migliorare le competenze professionali.
+**Distrattori:**
+- Può crescere e formarsi ogni giorno, grazie a un ambiente stimolante, a un sistema che premia l'anzianità di servizio, e a strumenti innovativi per comunicare con i colleghi, gestire la propria attività, migliorare le competenze professionali.
+- L'importanza del piano di comunicazione interna.
+- Peggiora il clima di lavoro e riduce la soddisfazione del personale, e così può aumentare il turnover e l'uscita dei talenti.
+
+**D:** ⚠️ Che cosa è alla base del team work in Mediolanum, e che cosa fa il management che lo supervisiona, secondo la slide 10 della lezione 23?
+**R:** «In più, **il confronto e le diversità d'opinione** sono alla base del team work. • E rappresentano la vera spinta verso il nuovo, talmente importante da impegnare la supervisione del management: che valuta i processi, organizza studi ambientali, individua punti di forza e debolezze.» (slide 10). La docente: sono uno strumento di creatività e di innovazione ([00:24:10]); il management gestisce le interdipendenze fra ambiente, strategia e struttura, con benchmark, analisi SWOT, miglioramento continuo e change management ([00:24:19]–[00:25:11]). ⚠️ Il confronto e le **diversità** d'opinione, non il consenso.
+**Opzione:** Il confronto e le diversità d'opinione, che rappresentano la vera spinta verso il nuovo; il management valuta i processi, organizza studi ambientali, individua punti di forza e debolezze.
+**Distrattori:**
+- L'uniformità delle opinioni e il consenso, che rappresentano la vera spinta verso il nuovo; il management valuta i processi, organizza studi ambientali, individua punti di forza e debolezze.
+- Convivono in stretta relazione: la motivazione e il comportamento del personale impatta sulla qualità del servizio offerto.
+- Banking for Freedom.
+
+**D:** ⚠️ Come definisce la propria missione UniCredit, secondo la slide 11 della lezione 23?
+**R:** «• Noi persone di UniCredit ci impegniamo a generare **valore per i nostri clienti**. • In qualità di banca leader in Europa, ci dedichiamo allo **sviluppo delle comunità** in cui viviamo e ad essere un **ottimo posto in cui lavorare**. • Puntiamo all'eccellenza e ci sforziamo costantemente di essere un'impesa con la quale è **facile relazionarsi**. • Questi impegni ci permetteranno di creare **valore sostenibile per i nostri azionisti**.» (slide 11, «un'impesa» così). La docente: se Mediolanum parlava di «persone» senza distinguere, UniCredit ha una sfumatura «tra virgolette commerciale» e nomina ogni tipologia di stakeholder: clienti, comunità, chi vi lavora, azionisti ([00:26:13]–[00:28:19]). ⚠️ Il valore sostenibile è per gli **azionisti**.
+**Opzione:** Noi persone di UniCredit ci impegniamo a generare valore per i nostri clienti. In qualità di banca leader in Europa, ci dedichiamo allo sviluppo delle comunità in cui viviamo e ad essere un ottimo posto in cui lavorare. Puntiamo all'eccellenza e ci sforziamo costantemente di essere un'impesa con la quale è facile relazionarsi. Questi impegni ci permetteranno di creare valore sostenibile per i nostri azionisti.
+**Distrattori:**
+- Noi persone di UniCredit ci impegniamo a generare valore per i nostri clienti. In qualità di banca leader in Europa, ci dedichiamo allo sviluppo delle comunità in cui viviamo e ad essere un ottimo posto in cui lavorare. Puntiamo all'eccellenza e ci sforziamo costantemente di essere un'impesa con la quale è facile relazionarsi. Questi impegni ci permetteranno di creare valore sostenibile per i nostri dipendenti.
+- Costruire con le persone relazioni di profonda conoscenza, che durano nel tempo, fondate su lealtà, fedeltà e trasparenza.
+- Siamo persone per le persone.
+
+**D:** ⚠️ Quale valore è «trasversale» a Mediolanum e a UniCredit, per la docente nella lezione 23?
+**R:** Il **facile relazionarsi**, cioè la relazione. La docente, sulla missione di UniCredit: «facile relazionarsi invece è un valore diciamo trasversale che c'è sia all'interno della banca Mediolanum sia all'interno di Unicredit»; le relazioni, interne e fra ambiente interno ed esterno, «possono diventare il vero vantaggio competitivo» dell'intermediario ([00:27:20]). Nelle slide la **relazione** è un valore di Mediolanum (slide 6–7) e il «facile relazionarsi» sta nella **missione** di UniCredit (slide 11). ⚠️ Fra i valori elencati nelle slide 6 e 12 l'unico comune alle due banche è la **responsabilità**. La positività è solo di Mediolanum, l'integrità solo di UniCredit.
+**Opzione:** La relazione: essere un'impresa con la quale è facile relazionarsi.
+**Distrattori:**
+- La positività: rendere possibile quello che sembra impossibile.
+- L'integrità: agiamo nell'interesse esclusivo dei nostri clienti.
+
+**D:** ⚠️ Quali sono i valori di UniCredit, secondo la slide 12 della lezione 23?
+**R:** «**Integrità** • **Responsabilità** • **Attenzione alle persone**» (slide 12, un'immagine con tre colonne). La docente: «i valori qua in questo caso sono definiti in tre categorie, integrità, responsabilità, attenzione alle persone» ([00:28:34]). ⚠️ Sono **tre**: la **digitalizzazione** non c'è, ed è la chiave della domanda 5 del test. ⚠️ La **responsabilità** è anche un valore di Mediolanum (slide 6), l'unico comune alle due banche.
+**Opzione:** Integrità, responsabilità, attenzione alle persone.
+**Distrattori:**
+- Integrità, responsabilità, digitalizzazione.
+- Libertà, relazione, responsabilità, innovazione sostenibile, positività.
+- L'importanza del piano di comunicazione interna.
+
+**D:** ⚠️ Quale tra questi non è il valore guida della banca Unicredit, fra le opzioni del test della lezione 23 (domanda 5)?
+**R:** «**Digitalizzazione**». I valori della slide 12 sono «Integrità», «Responsabilità», «Attenzione alle persone»; la docente li chiama «tre categorie» ([00:28:34]). ⚠️ La domanda è **negativa** ed è la **speculare** della domanda 3: la «responsabilità» è fra i distrattori di tutte e due perché è l'unico valore comune a Mediolanum e UniCredit. La digitalizzazione non compare in questa lezione: è lo schema dell'intrusa «digitale» delle domande 18/2 («tecnologie digitali») e 20/1 («digitalizzazione della struttura organizzativa»). Distrattori del test: «integrità», «responsabilità», «attenzione alle persone».
+**Opzione:** Digitalizzazione.
+**Distrattori:**
+- Integrità.
+- Responsabilità.
+- Attenzione alle persone.
+
+**D:** ⚠️ Quale valore compare sia fra quelli di Mediolanum sia fra quelli di UniCredit, nella lezione 23?
+**R:** La **responsabilità**. Mediolanum: «LIBERTÀ, RELAZIONE, RESPONSABILITÀ, INNOVAZIONE SOSTENIBILE, POSITIVITÀ» (slide 6); UniCredit: «Integrità», «Responsabilità», «Attenzione alle persone» (slide 12). Le due descrizioni sono diverse: per Mediolanum «*Siamo persone per le persone.* Abbiamo piena consapevolezza del ruolo sociale che rivestiamo…» (slide 8), per UniCredit «Portiamo sempre a termine i nostri impegni e siamo responsabili delle nostre azioni e delle nostre promesse…» (slide 12). ⚠️ Per questo la «responsabilità» è un distrattore in **entrambe** le domande 3 e 5 del test. L'integrità è solo di UniCredit; la libertà e la positività solo di Mediolanum.
+**Opzione:** Responsabilità.
+**Distrattori:**
+- Integrità.
+- Libertà.
+- Positività.
+
+**D:** ⚠️ Quale tra questi è un valore di UniCredit e non di Mediolanum, nella lezione 23?
+**R:** L'**integrità**. I valori di UniCredit sono «Integrità», «Responsabilità», «Attenzione alle persone» (slide 12); quelli di Mediolanum «LIBERTÀ, RELAZIONE, RESPONSABILITÀ, INNOVAZIONE SOSTENIBILE, POSITIVITÀ» (slide 6). ⚠️ La **responsabilità** è di entrambe; la **relazione** e la **positività** sono solo di Mediolanum. Per la docente il «facile relazionarsi» è un valore trasversale ([00:27:20]), ma nelle slide di UniCredit sta nella missione (slide 11), non fra i valori. Anche l'eticità e la trasparenza dell'integrità («Siamo etici, diretti e trasparenti») tornano nella responsabilità di Mediolanum («eticità e trasparenza», slide 8), ma lì non sono un valore a sé.
+**Opzione:** Integrità.
+**Distrattori:**
+- Responsabilità.
+- Relazione.
+- Positività.
+
+**D:** ⚠️ Come descrive UniCredit il valore dell'integrità, secondo la slide 12 della lezione 23?
+**R:** «**Integrità** Agiamo nell'interesse **esclusivo** dei nostri **clienti**. Siamo etici, diretti e trasparenti. Facciamo sempre la cosa giusta - a prescindere che questo venga riconosciuto nell'immediato.» (slide 12). La docente: «anche qua il valore di trasparenza per le banche è molto importante» ([00:28:34]). ⚠️ L'interesse esclusivo è dei **clienti**: il valore sostenibile per gli azionisti sta nella missione (slide 11).
+**Opzione:** Agiamo nell'interesse esclusivo dei nostri clienti. Siamo etici, diretti e trasparenti. Facciamo sempre la cosa giusta - a prescindere che questo venga riconosciuto nell'immediato.
+**Distrattori:**
+- Agiamo nell'interesse esclusivo dei nostri azionisti. Siamo etici, diretti e trasparenti. Facciamo sempre la cosa giusta - a prescindere che questo venga riconosciuto nell'immediato.
+- Specifici programmi di welfare in tutti i nostri paesi, offerti in aggiunta alle agevolazioni finanziarie e assicurative, all'assistenza sanitaria e ai benefit gestiti a livello locale.
+- Banking for Freedom.
+
+**D:** ⚠️ Come descrive UniCredit il valore della responsabilità, secondo la slide 12 della lezione 23?
+**R:** «**Responsabilità** Portiamo sempre a termine i nostri impegni e siamo responsabili delle nostre azioni e delle nostre promesse. Abbiamo la possibilità di prendere decisioni e di **imparare dai nostri errori**. Facciamo sentire la nostra voce - per esprimere idee, opinioni o condividere ciò che vorremmo cambiare.» (slide 12). La docente: il prodotto della banca è un ***credence good***, quindi si fa una promessa al cliente e la si mantiene; le promesse valgono anche verso i dipendenti, con il contratto legale e il **contratto psicologico** ([00:29:03]–[00:29:35]); imparare dagli errori vuol dire che «si accetta anche il fallimento», uno step necessario per migliorare ([00:29:44]–[00:30:02]). ⚠️ Gli errori non si evitano a ogni costo: se ne **impara**.
+**Opzione:** Portiamo sempre a termine i nostri impegni e siamo responsabili delle nostre azioni e delle nostre promesse. Abbiamo la possibilità di prendere decisioni e di imparare dai nostri errori. Facciamo sentire la nostra voce - per esprimere idee, opinioni o condividere ciò che vorremmo cambiare.
+**Distrattori:**
+- Portiamo sempre a termine i nostri impegni e siamo responsabili delle nostre azioni e delle nostre promesse. Abbiamo la possibilità di prendere decisioni ma non di commettere errori. Facciamo sentire la nostra voce - per esprimere idee, opinioni o condividere ciò che vorremmo cambiare.
+- Siamo persone per le persone. Abbiamo piena consapevolezza del ruolo sociale che rivestiamo.
+- Per imporsi sul mercato non è sufficiente soddisfare clienti e utili aziendali, bisogna impegnarsi a garantire anche la piena soddisfazione dei collaboratori.
+
+**D:** ⚠️ Come descrive UniCredit il valore dell'attenzione alle persone, secondo la slide 12 della lezione 23?
+**R:** «**Attenzione alle persone** Ci prendiamo cura dei nostri clienti, delle nostre comunità e gli uni degli altri. Siamo pronti ad aiutare i nostri colleghi e a sostenere la crescita delle nostre persone. Ci comportiamo sempre con rispetto reciproco e **diamo valore alle nostre differenze**.» (slide 12). La docente: è «la relazione attiva», con diversi profili di persone importanti per l'operato della banca ([00:30:14]–[00:30:35]). ⚠️ Le differenze si **valorizzano**. «La persona è al centro» è invece la relazione di Mediolanum (slide 7).
+**Opzione:** Ci prendiamo cura dei nostri clienti, delle nostre comunità e gli uni degli altri. Siamo pronti ad aiutare i nostri colleghi e a sostenere la crescita delle nostre persone. Ci comportiamo sempre con rispetto reciproco e diamo valore alle nostre differenze.
+**Distrattori:**
+- Ci prendiamo cura dei nostri clienti, delle nostre comunità e gli uni degli altri. Siamo pronti ad aiutare i nostri colleghi e a sostenere la crescita delle nostre persone. Ci comportiamo sempre con rispetto reciproco e riduciamo al minimo le nostre differenze.
+- Il rapporto umano è il fondamento di ogni persona che lavora in Mediolanum.
+- Tendere alla massina valorizzazione e soddisfazione delle proprie risorse; ricercare un sistematico equilibrio tra la soddisfazione della clientela e la motivazione del personale.
+
+**D:** ⚠️ Che cos'è il Purpose per UniCredit, secondo la slide 12 della lezione 23?
+**R:** «I nostri Valori non sono solo semplici parole. Sono azioni. Impegni. Promesse. Se tutti ci impegniamo a comprendere e rispettare questi valori, potremo raggiungere risultati concreti per i nostri clienti. E vincere con e per i nostri **clienti**, grandi o piccoli che siano, è "come" realizziamo il nostro *Purpose*, **la nostra ragion d'essere**.» (slide 12, introduzione ai valori). La docente non la legge. ⚠️ È la formula dei materiali più vicina al «fine ultimo» della domanda 2 del test, ma la slide la riferisce al *Purpose*, non alla mission. Si realizza con e per i **clienti**.
+**Opzione:** La nostra ragion d'essere, che si realizza vincendo con e per i nostri clienti, grandi o piccoli che siano.
+**Distrattori:**
+- La nostra ragion d'essere, che si realizza vincendo con e per i nostri azionisti, grandi o piccoli che siano.
+- In UniCredit diamo valore a tutte le idee, dalle più audaci alle più innovative, così da offrire alle nostre comunità prodotti e soluzioni in grado di migliorare la loro vita.
+- La positività: rendere possibile quello che sembra impossibile.
+
+**D:** ⚠️ Che cosa vuole essere UniCredit come datore di lavoro, secondo la slide 13 della lezione 23?
+**R:** «Vogliamo essere **uno dei migliori datori di lavoro del settore finanziario europeo**» (slide 13, sottolineato). La docente: un'ambizione che va oltre la soddisfazione dei bisogni e delle aspettative dei clienti; richiama il **best place to work**, un premio che esiste in diversi settori, per esempio per le catene alberghiere: UniCredit vuole diventare il miglior posto di lavoro e creare un forte brand, «quindi parliamo di **employer branding**» ([00:31:12]–[00:31:48]). ⚠️ Il settore è quello **finanziario europeo**.
+**Opzione:** Uno dei migliori datori di lavoro del settore finanziario europeo.
+**Distrattori:**
+- Il datore di lavoro con le retribuzioni più alte del settore finanziario europeo.
+- Un prevalente orientamento del management agli aspetti tecnici e specialistici e scarso tempo dedicato alle problematiche relative al personale.
+- Una cultura organizzativa coerente con la missione aziendale, capace di creare e mantenere una forte coesione attorno agli obiettivi istituzionali.
+
+**D:** ⚠️ Di che cosa parla la docente a proposito dell'ambizione di UniCredit di essere uno dei migliori datori di lavoro, nella lezione 23?
+**R:** Dell'**employer branding**. La docente: c'è la definizione di «best place to work», un premio che esiste in diversi settori; UniCredit vuole diventare il miglior posto di lavoro, «quindi creare anche un forte brand, quindi parliamo di employer branding» ([00:31:33]–[00:31:48]). Nella lezione 03 l'employer branding è fra i risultati del ruolo della Direzione del personale (slide 14 di quel deck). ⚠️ L'empowerment, la leadership e il wellbeing aziendale, distrattori della domanda 4 del test, non c'entrano.
+**Opzione:** Employer branding.
+**Distrattori:**
+- Empowerment.
+- Wellbeing aziendale.
+- Business model.
+
+**D:** ⚠️ A quali idee dà valore UniCredit, e con quale scopo, secondo la slide 13 della lezione 23?
+**R:** «In UniCredit diamo valore a **tutte le idee**, dalle più audaci alle più innovative, così da offrire alle nostre comunità prodotti e soluzioni in grado di migliorare la loro vita.» (slide 13, sottolineato «valore a tutte le idee»). La docente: è il valore dell'innovazione, che si regge anche sulla possibilità di fallire; si raccontano non solo le *best practices* ma anche le *bad practices*, «il mio peggior fallimento lavorativo», per non ripetere gli errori e migliorare ([00:32:01]–[00:32:30]). ⚠️ **Tutte** le idee, anche le più audaci.
+**Opzione:** In UniCredit diamo valore a tutte le idee, dalle più audaci alle più innovative, così da offrire alle nostre comunità prodotti e soluzioni in grado di migliorare la loro vita.
+**Distrattori:**
+- In UniCredit diamo valore soltanto alle idee già sperimentate, così da offrire alle nostre comunità prodotti e soluzioni in grado di migliorare la loro vita.
+- Siamo persone per le persone. Abbiamo piena consapevolezza del ruolo sociale che rivestiamo.
+- Dedicare una consulenza personalizzata unica, con soluzioni efficaci che coprono tutto l'arco della vita delle persone.
+
+**D:** ⚠️ Che cosa ha realizzato UniCredit per raggiungere i propri obiettivi verso le risorse umane, e in aggiunta a che cosa, secondo la slide 13 della lezione 23?
+**R:** «Pensiamo che un **ambiente lavorativo positivo** consenta a ciascuno di noi di contribuire al meglio per ottenere quello che conta realmente. • Per raggiungere i nostri obiettivi abbiamo realizzato **specifici programmi di welfare in tutti i nostri paesi**. Questi programmi sono offerti **in aggiunta** alle agevolazioni finanziarie e assicurative, all'assistenza sanitaria e ai benefit gestiti a livello locale.» (slide 13). La docente: il welfare è «benessere organizzativo»; una banca internazionale li diversifica in base all'area geografica e alle aspettative dei dipendenti; per motivare non basta la motivazione materiale della retribuzione, serve anche quella **immateriale** ([00:33:23]–[00:34:18]). ⚠️ I programmi si **aggiungono** ai benefit locali, non li sostituiscono.
+**Opzione:** Specifici programmi di welfare in tutti i nostri paesi, offerti in aggiunta alle agevolazioni finanziarie e assicurative, all'assistenza sanitaria e ai benefit gestiti a livello locale.
+**Distrattori:**
+- Specifici programmi di welfare in tutti i nostri paesi, offerti in sostituzione delle agevolazioni finanziarie e assicurative, dell'assistenza sanitaria e dei benefit gestiti a livello locale.
+- Diventare un riferimento personale nel tempo significa crescere insieme.
+- La relazione: essere un'impresa con la quale è facile relazionarsi.
+
+**D:** ⚠️ Che effetto ha il toxic management sul personale, per la docente nella lezione 23?
+**R:** Peggiora il clima di lavoro e riduce la soddisfazione del personale, e così può **aumentare il turnover**, cioè l'uscita, soprattutto dei talenti. La docente: lavorare in un ambiente tranquillo e protetto evita «i processi come toxic management, le prassi di gestione tossiche che in qualche modo vanno a peggiorare il clima di lavoro, a ridurre la soddisfazione del nostro personale», «che potrebbe poi andare ad aumentare il turnover e quindi l'uscita», con più sforzi per gestire l'uscita dei talenti ([00:34:45]–[00:35:14]). ⚠️ L'aumento del turnover è un **rischio**: nella domanda 1 del test è un distrattore.
+**Opzione:** Peggiora il clima di lavoro e riduce la soddisfazione del personale, e così può aumentare il turnover e l'uscita dei talenti.
+**Distrattori:**
+- Peggiora il clima di lavoro e riduce la soddisfazione del personale, e così può ridurre il turnover e l'uscita dei talenti.
+- Diventare un riferimento personale nel tempo significa crescere insieme.
+- Il confronto e le diversità d'opinione sono alla base del team work.
+
+## Lezione 24 — Evoluzione della gestione del personale
+
+**D:** ⚠️ Che cosa riguarda la gestione operativa del personale, secondo la slide 2 della lezione 24?
+**R:** «La gestione operativa del personale riguarda il funzionamento "**corrente**" della struttura aziendale attraverso i **meccanismi operativi** gestiti con l'intervento di: • **Direzione del personale** -> realizza la standardizzazione delle regole di personale • **Management** -> svolge un ruolo chiave nella gestione corrente […]» (slide 2). La docente la legge quasi alla lettera ([00:00:35]). ⚠️ Intervengono la **direzione del personale** e il **management**. Il vertice aziendale concede al management le autonomie, ma non è fra i soggetti che la slide nomina per la gestione operativa. Le scelte di fondo di medio-lungo termine sono della gestione **strategica** (slide 3).
+**Opzione:** Il funzionamento corrente della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento della direzione del personale e del management.
+**Distrattori:**
+- Il funzionamento corrente della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento del vertice aziendale e del management.
+- Insieme di ruoli organizzativi caratterizzati da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale.
+- Aggregazione di profili distinguibili gli uni dagli altri in modo significativo; sintesi delle caratteristiche che qualificano ogni posizione organizzativa (sia per ruoli operativi, sia per ruoli direttivi).
+
+**D:** ⚠️ Come si definisce il funzionamento corrente della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento di direzione del personale e del management, secondo il test della lezione 24 (domanda 1)?
+**R:** «**Gestione operativa del personale**». È la slide 2 quasi alla lettera: «La gestione operativa del personale riguarda il funzionamento "corrente" della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento di: Direzione del personale […] Management […]» ([00:00:35]). ⚠️ La gestione **strategica** è «il momento delle scelte di fondo che incidono sui risultati di medio-lungo termine» (slide 3), non il funzionamento corrente. La «gestione **innovativa** del personale» non compare nei materiali: è un'invenzione ricorrente nei test del corso (12, 13, 16, 17, 21). Il **business model** viene dalla lezione 09 ed è il pool condiviso. Distrattori del test: «gestione strategica del personale», «gestione innovativa del personale», «business model».
+**Opzione:** Gestione operativa del personale.
+**Distrattori:**
+- Gestione strategica del personale.
+- Gestione innovativa del personale.
+- Business model.
+
+**D:** ⚠️ Che cosa realizza la direzione del personale nella gestione operativa del personale, secondo la slide 2 della lezione 24?
+**R:** «**Direzione del personale** -> realizza la **standardizzazione** delle regole di personale» (slide 2). La docente: la direzione del personale «realizza la standardizzazione poi delle regole per tutto il personale aziendale» ([00:00:35]), e il management applica «le regole che sono state stabilite ovviamente dalla direzione del personale» ([00:00:57]). ⚠️ La direzione **standardizza** le regole. La **differenziazione** riguarda le politiche del personale in base alla specificità delle famiglie (slide 11). Il ruolo chiave nella gestione corrente è del management.
+**Opzione:** Realizza la standardizzazione delle regole di personale.
+**Distrattori:**
+- Realizza la differenziazione delle regole di personale.
+- Espletando processi e non presidiando funzioni.
+- Non può essere valutato soltanto in base alle ore lavorate, ma deve essere valutato anche per esempio in base al raggiungimento di un obiettivo prestabilito.
+
+**D:** ⚠️ Chi svolge un ruolo chiave nella gestione corrente, assicurando l'applicazione dei previsti sistemi operativi, e nell'ambito di quali autonomie, secondo la slide 2 della lezione 24?
+**R:** «**Management** -> svolge un ruolo chiave nella gestione corrente, assicura l'applicazione dei previsti sistemi operativi (nell'ambito delle autonomi ricevute dal **vertice aziendale**)» (slide 2, «autonomi» così). La docente parla di «diversi livelli di management, top management, middle management», che applicano le regole stabilite dalla direzione del personale e aiutano a diffondere i meccanismi operativi ([00:00:57]–[00:01:26]). Il vertice aziendale, a voce, non lo nomina. ⚠️ Il **vertice** concede le autonomie, il **management** applica i sistemi: è la trappola della domanda 2 del test.
+**Opzione:** Il management, nell'ambito delle autonomi ricevute dal vertice aziendale.
+**Distrattori:**
+- Il vertice aziendale, nell'ambito delle autonomi ricevute dal management.
+- A cavallo tra la gestione strategica e la gestione operativa del personale.
+- Dalla condivisione degli obiettivi strategici, degli obiettivi a lungo termine, insieme ai vertici aziendali.
+
+**D:** ⚠️ Chi svolge il ruolo chiave nella gestione operativa del personale, assicurando l'applicazione dei previsti sistemi operativi, secondo il test della lezione 24 (domanda 2)?
+**R:** «**Management**». La slide 2: «Management -> svolge un ruolo chiave nella gestione corrente, assicura l'applicazione dei previsti sistemi operativi (nell'ambito delle autonomi ricevute dal vertice aziendale)». La docente: il management, ai suoi diversi livelli, «svolge un ruolo chiave nella gestione corrente e assicura l'applicazione dei previsti sistemi operativi» ([00:00:57]). ⚠️ La slide dice «gestione **corrente**», la domanda «operativa». Il **vertice aziendale** sta nella stessa riga della slide, ma è chi concede le autonomie al management. Il **consulente aziendale** non compare nei materiali. Per la docente **ogni dipendente** è chi viene valutato ([00:01:52]), non chi applica i sistemi. Distrattori del test: «vertice aziendale», «consulente aziendale», «ogni singolo dipendente».
+**Opzione:** Management.
+**Distrattori:**
+- Vertice aziendale.
+- Consulente aziendale.
+- Ogni singolo dipendente.
+
+**D:** ⚠️ Quali sistemi operativi assicura il management nella gestione corrente, secondo la slide 2 della lezione 24?
+**R:** «• Assegnazione delle mansioni • Valutazione delle prestazioni • Attività di formazione • Gestione della mobilità professionale • Promozioni e avanzamento della carriera» (slide 2). La docente li introduce con «come per esempio» ([00:01:33]). L'assegnazione delle mansioni è un mansionario, «una specie di job description» con compiti, responsabilità e doveri di ogni mansione ([00:01:33]). La valutazione delle prestazioni guarda all'orario e al raggiungimento degli obiettivi ([00:01:52]–[00:03:02]). La formazione prepara il capitale umano ai cambiamenti esterni ([00:03:11]). La mobilità gestisce i flussi delle persone in entrata, all'interno e in uscita ([00:04:03]–[00:04:28]). Le promozioni servono alla motivazione e permettono di dare empowerment ([00:04:38]–[00:05:00]). ⚠️ L'**integrazione con la strategia aziendale globale** è della revisione in ottica strategica (slide 6), non dei sistemi operativi.
+**Opzione:** Assegnazione delle mansioni; valutazione delle prestazioni; attività di formazione; gestione della mobilità professionale; promozioni e avanzamento della carriera.
+**Distrattori:**
+- Assegnazione delle mansioni; valutazione delle prestazioni; attività di formazione; gestione della mobilità professionale; integrazione con la strategia aziendale globale.
+- Fattori storici, formazione e conoscenze specifiche -> famiglie generiche; contingenze aziendali o settoriali -> professionalità peculiari all'azienda o al settore.
+- Compiti tecnico-pratici del ruolo; attività che non comportano un lavoro mentale creativo ma prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali.
+
+**D:** ⚠️ Come va valutato il lavoratore in telelavoro o in smart working, secondo la docente nella lezione 24?
+**R:** Per la docente ogni dipendente «deve essere valutato per la propria performance in base ai diversi indicatori». Il primo è l'**orario di lavoro**, cioè la presenza in un luogo fisico o in un ufficio, perché la paga è spesso oraria; poi ci sono gli indicatori legati alla performance e al **raggiungimento degli obiettivi**. Con il telelavoro e lo smart working «il lavoratore non può essere valutato **soltanto** in base alle ore lavorate, ma deve essere valutato **anche** per esempio in base al raggiungimento di un obiettivo prestabilito» ([00:01:52]–[00:02:56]). Sta solo nel transcript. ⚠️ Le ore lavorate restano un indicatore, ma da sole non bastano.
+**Opzione:** Non può essere valutato soltanto in base alle ore lavorate, ma deve essere valutato anche per esempio in base al raggiungimento di un obiettivo prestabilito.
+**Distrattori:**
+- Deve essere valutato soltanto in base alle ore lavorate, non in base al raggiungimento di un obiettivo prestabilito.
+- Realizza la standardizzazione delle regole di personale.
+- Esigenza di disporre di soluzioni organizzative e di sistemi gestionali innovativi che sappiano coniugare gli obiettivi tradizionali con quelli meno consueti dell'efficacia e della flessibilità.
+
+**D:** ⚠️ Per che cosa è importante il ruolo dei manager, a vari livelli gerarchici, secondo la slide 3 della lezione 24?
+**R:** «Il ruolo dei manager, a vari livelli gerarchici, è importante: • **sia** per il rispetto delle regole interne • **sia** per il presidio dei "valori guida" e per la diffusione della cultura organizzativa» (slide 3). La docente: il manager è «un annello di collegamento praticamente a vari livelli gerarchici» che aiuta a far funzionare i meccanismi definiti ex ante dalla direzione ([00:05:13]). Aiuta «a rispettare le regole interne, ma anche a presidiare praticamente i valori guida per la diffusione della cultura organizzativa» ([00:05:47]), ed è «un ruolo chiave» ([00:06:22]). ⚠️ **Sia… sia**: il manager non si limita alle regole.
+**Opzione:** Sia per il rispetto delle regole interne, sia per il presidio dei valori guida e per la diffusione della cultura organizzativa.
+**Distrattori:**
+- Solo per il rispetto delle regole interne, non per il presidio dei valori guida e per la diffusione della cultura organizzativa.
+- Non ottica strategica ma solo formalizzazione dei meccanismi precedenti poco trasparenti, eliminazione di grandi incoerenze.
+- Agli anni '50-'60 del secolo scorso, nel dopoguerra dell'industrializzazione, con un mercato abbastanza stabile.
+
+**D:** ⚠️ In che cosa sta la criticità dello stile di leadership, secondo la slide 3 della lezione 24?
+**R:** «La criticità dello stile di leadership nel favorire lo **spirito di corpo** attorno gli obiettivi **aziendali** e nell'aumentare un clima interno in grado di accrescere la **motivazione individuale**» (slide 3, «attorno gli» così). La docente: dal modo in cui il manager, il leader, si approccia ai propri dipendenti «può ovviamente dipendere lo spirito di iniziativa, lo svolgimento dei compiti» ([00:06:38]–[00:06:48]). ⚠️ Lo spirito di corpo è attorno agli obiettivi aziendali, e il clima interno deve accrescere la **motivazione** individuale.
+**Opzione:** Nel favorire lo spirito di corpo attorno gli obiettivi aziendali e nell'aumentare un clima interno in grado di accrescere la motivazione individuale.
+**Distrattori:**
+- Nel favorire lo spirito di corpo attorno gli obiettivi aziendali e nell'aumentare un clima interno in grado di accrescere la competizione individuale.
+- Incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema.
+- Su orizzonti temporali brevi.
+
+**D:** ⚠️ Come distingue la slide 3 della lezione 24 la gestione strategica dalla gestione operativa del personale?
+**R:** «**Gestione strategica del personale** • Il momento delle **scelte di fondo** che incidono sui risultati di **medio-lungo termine**»; «**Gestione operativa del personale** • Il momento del **funzionamento operativo delle scelte strategiche**» (slide 3). La docente: «tutta la gestione del personale è divisa in due pilastri» ([00:07:13]). La strategica incide sui risultati dei dipendenti e sull'efficienza ed efficacia dell'organizzazione ([00:07:34]). Nell'operativa «definiamo proprio le regole di funzionamento operativo delle scelte strategiche che abbiamo definito precedentemente» ([00:07:58]–[00:08:04]). ⚠️ Le scelte di fondo sono della **strategica**, e l'operativa fa funzionare scelte già fatte.
+**Opzione:** Gestione strategica: il momento delle scelte di fondo che incidono sui risultati di medio-lungo termine; gestione operativa: il momento del funzionamento operativo delle scelte strategiche.
+**Distrattori:**
+- Gestione strategica: il momento del funzionamento operativo delle scelte strategiche; gestione operativa: il momento delle scelte di fondo che incidono sui risultati di medio-lungo termine.
+- Dal mercato esterno: acquisizione di nuove risorse; dal mercato interno: riallocazione delle risorse esistenti.
+- Oggi si parla anche della valutazione a 360°; negli anni '80 della valutazione individuale e di gruppo.
+
+**D:** ⚠️ Dove si colloca l'area della gestione delle risorse umane rispetto alla gestione strategica e alla gestione operativa del personale, secondo la lezione 24?
+**R:** Nella slide 3 la scritta «*Area della gestione delle risorse umane*» manda una freccia a ciascuno dei due riquadri, «Gestione strategica del personale» e «Gestione operativa del personale». La docente: «il ruolo dell'area, del reparto, del dipartimento o dell'unità della gestione delle risorse umane è **a cavallo tra queste due aree**» ([00:08:12]). E la gestione delle risorse umane negli intermediari finanziari «sta diventando un'unità **sempre più strategica**» ([00:08:25]). ⚠️ L'area non sta solo nella gestione operativa.
+**Opzione:** A cavallo tra la gestione strategica e la gestione operativa del personale.
+**Distrattori:**
+- Solo all'interno della gestione operativa del personale.
+- Operatività, specializzazione, gestionalità.
+- L'area orientata all'espletamento di aspetti amministrativo-contabili.
+
+**D:** ⚠️ Com'era configurata, all'inizio, l'area della gestione del personale negli intermediari finanziari, secondo la slide 4 della lezione 24?
+**R:** «Evoluzione della funzione HRM all'interno degli intermediari finanziari (1) — La configurazione dell'**area orientata all'espletamento di aspetti amministrativo-contabili**» (slide 4). La docente: «originariamente la funzione della gestione delle risorse umane era quella di espletare alcuni compiti, alcuni aspetti che hanno a che fare con l'amministrazione e contabilità» ([00:08:37]), in un ambiente abbastanza stabile, che colloca negli anni '50-'60 ([00:09:04]). ⚠️ La revisione in **ottica strategica** è la terza fase (slide 6), non la prima.
+**Opzione:** L'area orientata all'espletamento di aspetti amministrativo-contabili.
+**Distrattori:**
+- L'area orientata alla revisione dei sistemi di gestione in ottica strategica.
+- Un repository unico della conoscenza.
+- Realizza la standardizzazione delle regole di personale.
+
+**D:** ⚠️ Quali caratteristiche ha la configurazione dell'area orientata all'espletamento di aspetti amministrativo-contabili, secondo la slide 4 della lezione 24?
+**R:** «La configurazione dell'area orientata all'espletamento di aspetti amministrativo-contabili: • Relativa **stabilità** dell'ambiente esterno ed interno • Ottica della gestione centrata su orizzonti temporali **brevi** • Meccanismi operativi sono dettati dalle situazioni contingenti **senza** una verifica della loro coerenza interna e prospettica • **Scarso** presidio formale di progettazione di tali meccanismi e della valutazione della loro efficacia (anche in termini di interdipendenza) • **Assenza** dell'accumulo nel tempo delle esperienze, conoscenze e capacità nel governo delle regole di funzionamento» (slide 4). La docente: gli orizzonti sono «brevi ma abbastanza sicuri e stabili» ([00:09:31]). Senza verifica di coerenza «viene a mancare praticamente il ruolo strategico» ([00:09:48]). Non si dava importanza «né a progettazione iniziale né alla valutazione» ([00:11:24]), e «non si trattava ancora di un sistema di knowledge management» ([00:11:39]). ⚠️ Le cinque voci si leggono in **negativo**: stabilità, orizzonti brevi, nessuna verifica, scarso presidio, assenza dell'accumulo.
+**Opzione:** Relativa stabilità dell'ambiente esterno ed interno; ottica della gestione centrata su orizzonti temporali brevi; meccanismi operativi sono dettati dalle situazioni contingenti senza una verifica della loro coerenza interna e prospettica; scarso presidio formale di progettazione di tali meccanismi e della valutazione della loro efficacia (anche in termini di interdipendenza); assenza dell'accumulo nel tempo delle esperienze, conoscenze e capacità nel governo delle regole di funzionamento.
+**Distrattori:**
+- Relativa stabilità dell'ambiente esterno ed interno; ottica della gestione centrata su orizzonti temporali di medio-lungo termine; meccanismi operativi sono dettati dalle situazioni contingenti senza una verifica della loro coerenza interna e prospettica; scarso presidio formale di progettazione di tali meccanismi e della valutazione della loro efficacia (anche in termini di interdipendenza); assenza dell'accumulo nel tempo delle esperienze, conoscenze e capacità nel governo delle regole di funzionamento.
+- Gestione strategica: il momento delle scelte di fondo che incidono sui risultati di medio-lungo termine; gestione operativa: il momento del funzionamento operativo delle scelte strategiche.
+- Particolare attenzione alla ridefinizione dei valori guida e nuove filosofie di gestione del personale; integrazione con la strategia aziendale globale, coerenza con la mission e vision aziendale.
+
+**D:** ⚠️ Su quali orizzonti temporali era centrata l'ottica della gestione nella configurazione amministrativo-contabile della funzione HRM, secondo la slide 4 della lezione 24?
+**R:** «Ottica della gestione centrata su orizzonti temporali **brevi**» (slide 4). La docente: «ottica della gestione centrata su orizzonti temporali brevi ma abbastanza sicuri e stabili» ([00:09:31]). ⚠️ Il **medio-lungo termine** è dei risultati su cui incidono le scelte di fondo della gestione **strategica** (slide 3).
+**Opzione:** Su orizzonti temporali brevi.
+**Distrattori:**
+- Su orizzonti temporali di medio-lungo termine.
+- Dagli anni '70.
+- Dagli anni '90.
+
+**D:** ⚠️ A quale periodo riferisce la docente la configurazione amministrativo-contabile della funzione HRM, nella lezione 24?
+**R:** Al **secolo scorso**: «parliamo proprio del secolo scorso, ovviamente degli anni addirittura **50-60**, quando dopo guerra c'era l'industrializzazione, quindi il mercato era abbastanza stabile», e non serviva un adattamento continuo dell'organizzazione e della gestione delle risorse umane ([00:09:04]). La slide 4 non ha date. ⚠️ La revisione dei sistemi di gestione del personale parte invece «dalla seconda metà degli anni '80» (slide 5), con un mercato «sempre più dinamico e competitivo». Gli anni '60 sono il distrattore A della domanda 3 del test.
+**Opzione:** Agli anni '50-'60 del secolo scorso, nel dopoguerra dell'industrializzazione, con un mercato abbastanza stabile.
+**Distrattori:**
+- Alla seconda metà degli anni '80, con un mercato sempre più dinamico e competitivo.
+- Dal mercato esterno: acquisizione di nuove risorse; dal mercato interno: riallocazione delle risorse esistenti.
+- Il management, nell'ambito delle autonomi ricevute dal vertice aziendale.
+
+**D:** ⚠️ Da quando, e con quale obiettivo, parte la revisione dei sistemi di gestione del personale negli intermediari finanziari, secondo la slide 5 della lezione 24?
+**R:** «La revisione dei sistemi di gestione del personale (**dalla seconda metà degli anni '80**) con l'obiettivo di migliorare **l'efficienza, la produttività e la qualità della gestione bancaria**» (slide 5). La docente: «parliamo quindi del periodo della seconda metà degli anni Ottanta» ([00:12:14]), con l'obiettivo «di migliorare l'efficienza e la produttività e la qualità della gestione bancaria» ([00:12:32]); il mercato diventa «sempre più dinamico e competitivo» ([00:12:40]). ⚠️ Non è ancora un'ottica strategica: l'integrazione con la strategia aziendale globale arriva con la revisione della slide 6.
+**Opzione:** Dalla seconda metà degli anni '80, con l'obiettivo di migliorare l'efficienza, la produttività e la qualità della gestione bancaria.
+**Distrattori:**
+- Dalla seconda metà degli anni '80, con l'obiettivo di integrare la gestione del personale con la strategia aziendale globale.
+- Nel favorire lo spirito di corpo attorno gli obiettivi aziendali e nell'aumentare un clima interno in grado di accrescere la motivazione individuale.
+- Il passaggio da una visione statica a una visione dinamica: la promozione dello sviluppo professionale; la formazione di nuovi profili professionali.
+
+**D:** ⚠️ Quando è iniziata la revisione dei sistemi di gestione del personale con l'obiettivo di migliorare l'efficienza, la produttività e la qualità della gestione bancaria, secondo il test della lezione 24 (domanda 3)?
+**R:** «**Dagli anni '80**». La slide 5: «La revisione dei sistemi di gestione del personale (dalla seconda metà degli anni '80) con l'obiettivo di migliorare l'efficienza, la produttività e la qualità della gestione bancaria». La docente: «il periodo della seconda metà degli anni Ottanta» ([00:12:14]). ⚠️ La chiave è giusta ma **troncata**: la slide dice «dalla **seconda metà**». Gli **anni '60** hanno un appiglio nel transcript, perché la docente colloca negli anni «50-60» la fase amministrativo-contabile ([00:09:04]). Gli **anni '90** vengono dalla lezione 18, dove sono l'inizio del cambiamento strategico-organizzativo delle banche italiane. Gli anni '70 non compaiono in questa lezione. Distrattori del test: «dagli anni '60», «dagli anni '70», «dagli anni '90».
+**Opzione:** Dagli anni '80.
+**Distrattori:**
+- Dagli anni '60.
+- Dagli anni '70.
+- Dagli anni '90.
+
+**D:** ⚠️ Quali sistemi ridefiniscono i progetti di cambiamento organizzativo della revisione degli anni '80, secondo la slide 5 della lezione 24?
+**R:** «• Il mercato sempre più dinamico e competitivo • Attivazione dei progetti di cambiamento organizzativo (revisione dei ruoli, ridefinizione dei sistemi operativi del personale): • Sistemi di selezione dal mercato **esterno** (acquisizione di nuove risorse) • Sistemi di selezione dal mercato **interno** (riallocazione delle risorse esistenti) • Meccanismi di valutazione del **potenziale** • Sistemi di valutazione delle prestazioni, della mobilità professionale, di carriera • Sistemi di **ricompensa** (incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema)» (slide 5). La docente: tutto questo aiuta l'azienda «a essere meno resistente al cambiamento» ([00:13:02]). La valutazione del potenziale si differenzia secondo la figura e la posizione ([00:14:16]), e i sistemi di valutazione «diventano un pochino più articolati» ([00:14:38]). ⚠️ Il mercato esterno **acquisisce** nuove risorse, quello interno **rialloca** le esistenti. La valutazione dei rischi non c'è.
+**Opzione:** Sistemi di selezione dal mercato esterno (acquisizione di nuove risorse); sistemi di selezione dal mercato interno (riallocazione delle risorse esistenti); meccanismi di valutazione del potenziale; sistemi di valutazione delle prestazioni, della mobilità professionale, di carriera; sistemi di ricompensa (incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema).
+**Distrattori:**
+- Sistemi di selezione dal mercato esterno (acquisizione di nuove risorse); sistemi di selezione dal mercato interno (riallocazione delle risorse esistenti); meccanismi di valutazione dei rischi; sistemi di valutazione delle prestazioni, della mobilità professionale, di carriera; sistemi di ricompensa (incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema).
+- Natura e numero delle famiglie; ciclo di vita delle famiglie; gestione della mobilità inter-famiglie; differenziazione delle politiche del personale in base alla specificità delle famiglie.
+- Insieme di ruoli organizzativi caratterizzati da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale.
+
+**D:** ⚠️ Che cosa fanno i sistemi di selezione dal mercato esterno e quelli dal mercato interno, secondo la slide 5 della lezione 24?
+**R:** «Sistemi di selezione dal mercato **esterno** (**acquisizione di nuove risorse**)»; «Sistemi di selezione dal mercato **interno** (**riallocazione delle risorse esistenti**)» (slide 5). La docente: la direzione delle risorse umane ha rivisto il sistema di selezione, cioè l'acquisizione di nuove risorse dal mercato del lavoro, e la riallocazione delle risorse esistenti, «magari spostandoli, facendoli girare», con la **job rotation** ([00:13:16]–[00:13:47]). ⚠️ L'**esterno** acquisisce, l'**interno** rialloca.
+**Opzione:** Dal mercato esterno: acquisizione di nuove risorse; dal mercato interno: riallocazione delle risorse esistenti.
+**Distrattori:**
+- Dal mercato esterno: riallocazione delle risorse esistenti; dal mercato interno: acquisizione di nuove risorse.
+- Oggi si parla anche della valutazione a 360°; negli anni '80 della valutazione individuale e di gruppo.
+- Su orizzonti temporali brevi.
+
+**D:** ⚠️ Su che cosa si basano, e che cosa migliorano, i sistemi di ricompensa della revisione degli anni '80, secondo la slide 5 della lezione 24?
+**R:** «Sistemi di ricompensa (incentivazione basata sui risultati **individuali e di gruppo**, miglioramento dell'**equità**, aumento dell'**elasticità** e della **competitività** del sistema)» (slide 5). La docente parla di remunerazione, ricompensa, incentivazione basata sui risultati individuali e di gruppo: così migliora «la percezione di equità» e aumentano l'elasticità e la competitività del sistema di ricompense ([00:14:55]–[00:15:45]). ⚠️ I risultati sono individuali **e** di gruppo. La valutazione a 360° è, per la docente, il principio di oggi.
+**Opzione:** Incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema.
+**Distrattori:**
+- Incentivazione basata sui soli risultati individuali, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema.
+- Conoscenza applicata di cui il ruolo si avvale; processi lavorativi che richiedono ragionamenti creativi di diagnosi, progettazione, intervento e controllo.
+- Sia per il rispetto delle regole interne, sia per il presidio dei valori guida e per la diffusione della cultura organizzativa.
+
+**D:** ⚠️ In quale ottica si svolge la revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, secondo la slide 5 della lezione 24?
+**R:** «NON OTTICA STRATEGICA MA SOLO: Formalizzazione dei meccanismi precedenti poco trasparenti, eliminazione di grandi incoerenze» (slide 5). La docente: «non parliamo di un'ottica strategica ma solo di formalizzazione dei meccanismi precedenti, poco trasparenti, poco gestiti, poco progettati», e si eliminano le incoerenze più importanti ([00:15:45]–[00:16:02]). Negli anni '80 «cerchiamo di dare un pochino di regole» e di «sistematizzare un po' le conoscenze» ([00:16:02]–[00:16:19]). ⚠️ L'ottica strategica arriva **dopo**, con la revisione della slide 6.
+**Opzione:** Non ottica strategica ma solo formalizzazione dei meccanismi precedenti poco trasparenti, eliminazione di grandi incoerenze.
+**Distrattori:**
+- Ottica strategica, con la formalizzazione dei meccanismi precedenti poco trasparenti e l'eliminazione di grandi incoerenze.
+- Fattori storici, formazione e conoscenze specifiche -> famiglie generiche; contingenze aziendali o settoriali -> professionalità peculiari all'azienda o al settore.
+- A cavallo tra la gestione strategica e la gestione operativa del personale.
+
+**D:** ⚠️ Quale valutazione è, per la docente, il principio di oggi, e quale quella degli anni '80, nella lezione 24?
+**R:** La docente: «adesso attualmente parliamo anche addirittura della **valutazione a 360°**, che è un altro principio che sta diventando insomma sempre più sviluppato, sempre più importante, ma nel periodo degli anni 80 parliamo della **valutazione individuale**, a livello individuale, **a livello di gruppo**» ([00:14:55]–[00:15:22]). Torna sulla valutazione a 360 gradi come esempio dell'ottica strategica di oggi ([00:16:19]). Sta solo nel transcript; la slide 5 ha l'incentivazione «basata sui risultati individuali e di gruppo». ⚠️ Il **360°** è di oggi; la docente dice «parliamo **anche** addirittura» della valutazione a 360°.
+**Opzione:** Oggi si parla anche della valutazione a 360°; negli anni '80 della valutazione individuale e di gruppo.
+**Distrattori:**
+- Oggi si parla anche della valutazione individuale e di gruppo; negli anni '80 della valutazione a 360°.
+- Per impostare la gestione strategica.
+- Operatività, specializzazione, gestionalità.
+
+**D:** ⚠️ Da che cosa parte oggi la direzione del personale per sviluppare i meccanismi di gestione delle risorse umane, secondo la docente nella lezione 24?
+**R:** La docente: «la direzione del personale parte praticamente dalla **condivisione degli obiettivi strategici**, degli obiettivi **a lungo termine** insieme ai **vertici aziendali**, quindi da qui andiamo poi a sviluppare tutti i meccanismi» ([00:16:48]–[00:17:17]), come nei casi studio della lezione precedente. È l'ottica strategica della slide 6, con l'integrazione con la strategia aziendale globale ([00:17:19]). ⚠️ Gli obiettivi sono **strategici**, a **lungo** termine.
+**Opzione:** Dalla condivisione degli obiettivi strategici, degli obiettivi a lungo termine, insieme ai vertici aziendali.
+**Distrattori:**
+- Dalla condivisione degli obiettivi operativi, degli obiettivi a breve termine, insieme ai vertici aziendali.
+- Dalla seconda metà degli anni '80, con l'obiettivo di migliorare l'efficienza, la produttività e la qualità della gestione bancaria.
+- Discrezionalità decisionale; compiti manageriali: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale.
+
+**D:** ⚠️ Che cosa caratterizza la revisione dei sistemi di gestione in ottica strategica, secondo la slide 6 della lezione 24?
+**R:** «La revisione dei sistemi di gestione in ottica strategica: • Particolare attenzione alla ridefinizione dei "**valori guida**" e nuove filosofie di gestione del personale. • **Integrazione con la strategia aziendale globale**, coerenza con la **mission e vision** aziendale» (slide 6). La docente: oggi l'HRM è «in ottica assolutamente strategica», con attenzione non soltanto ai meccanismi e agli strumenti operativi ma anche ai valori guida e alla filosofia di gestione del personale ([00:16:19]–[00:16:48]). «C'è un'aumentata molto elevata integrazione con la strategia aziendale globale e la coerenza con la mission e la visione aziendale» ([00:17:19]). ⚠️ La strategia è quella **globale** dell'azienda.
+**Opzione:** Particolare attenzione alla ridefinizione dei valori guida e nuove filosofie di gestione del personale; integrazione con la strategia aziendale globale, coerenza con la mission e vision aziendale.
+**Distrattori:**
+- Particolare attenzione alla ridefinizione dei valori guida e nuove filosofie di gestione del personale; integrazione con la strategia della singola area strategica d'affari, coerenza con la mission e vision aziendale.
+- Non ottica strategica ma solo formalizzazione dei meccanismi precedenti poco trasparenti, eliminazione di grandi incoerenze.
+- Aggregazione di profili distinguibili gli uni dagli altri in modo significativo; sintesi delle caratteristiche che qualificano ogni posizione organizzativa (sia per ruoli operativi, sia per ruoli direttivi).
+
+**D:** ⚠️ In che ordine si succedono le configurazioni della funzione HRM negli intermediari finanziari, secondo le slide 4–6 della lezione 24?
+**R:** Prima «La configurazione dell'area orientata all'espletamento di aspetti amministrativo-contabili» (slide 4). Poi «La revisione dei sistemi di gestione del personale (dalla seconda metà degli anni '80)», con «NON OTTICA STRATEGICA MA SOLO» la formalizzazione dei meccanismi precedenti (slide 5). Infine «La revisione dei sistemi di gestione in ottica strategica» (slide 6). La docente: prima c'era «soltanto operatività vera e propria», negli anni '80 qualche regola in più, oggi l'HRM è «in ottica assolutamente strategica» ([00:16:02]–[00:16:19]). ⚠️ La revisione degli anni '80 viene **prima** dell'ottica strategica, e non lo è.
+**Opzione:** Area orientata all'espletamento di aspetti amministrativo-contabili; revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, non in ottica strategica; revisione dei sistemi di gestione in ottica strategica.
+**Distrattori:**
+- Area orientata all'espletamento di aspetti amministrativo-contabili; revisione dei sistemi di gestione in ottica strategica; revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, non in ottica strategica.
+- Natura e numero delle famiglie; ciclo di vita delle famiglie; gestione della mobilità inter-famiglie; differenziazione delle politiche del personale in base alla specificità delle famiglie.
+- Assegnazione delle mansioni; valutazione delle prestazioni; attività di formazione; gestione della mobilità professionale; promozioni e avanzamento della carriera.
+
+**D:** ⚠️ Come può essere definita una «famiglia professionale», secondo la slide 7 della lezione 24?
+**R:** «Una "famiglia professionale" può essere definita come insieme di **ruoli organizzativi** caratterizzati da **conoscenze, capacità, atteggiamenti e stili cognitivi** similari, tali da evidenziare una relativa **omogeneità culturale**» (slide 7). La docente la legge alla lettera ([00:18:43]) e la spiega come «un target di dipendenti, di lavoratori abbastanza omogeneo» ([00:19:00]). ⚠️ Sono **ruoli** organizzativi, non unità organizzative, e l'omogeneità è **culturale**. È la definizione della domanda 4 del test; il deck 25 non la ripete.
+**Opzione:** Insieme di ruoli organizzativi caratterizzati da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale.
+**Distrattori:**
+- Insieme di unità organizzative caratterizzate da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale.
+- Il funzionamento corrente della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento della direzione del personale e del management.
+- Conoscenza applicata di cui il ruolo si avvale; processi lavorativi che richiedono ragionamenti creativi di diagnosi, progettazione, intervento e controllo.
+
+**D:** ⚠️ Come può essere definito un insieme di ruoli organizzativi caratterizzati da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale, secondo il test della lezione 24 (domanda 4)?
+**R:** «**Famiglia professionale**». È la slide 7 alla lettera: «Una "famiglia professionale" può essere definita come insieme di ruoli organizzativi caratterizzati da conoscenze, capacità, atteggiamenti e stili cognitivi similari, tali da evidenziare una relativa omogeneità culturale». La docente la legge alla lettera ([00:18:43]). ⚠️ L'**organico** non compare in questa lezione: nel corso è la consistenza del personale (lezioni 22, 25, 26, 27) e un distrattore ricorrente (test 18, 20, 22). Il **mansionario** sta solo nel transcript, per l'assegnazione delle mansioni: «una specie di job description» ([00:01:33]). L'**organizzazione aziendale** viene dalle lezioni 01 e 10. Distrattori del test: «organico», «organizzazione aziendale», «mansionario».
+**Opzione:** Famiglia professionale.
+**Distrattori:**
+- Organico.
+- Organizzazione aziendale.
+- Mansionario.
+
+**D:** ⚠️ Quale passaggio riguarda la progettazione delle mansioni, e con quali conseguenze, secondo la slide 7 della lezione 24?
+**R:** «Progettazione delle mansioni: passaggio **da una visione statica a una visione dinamica**: • La promozione dello sviluppo professionale • La formazione di nuovi profili professionali» (slide 7). La docente: le famiglie professionali contengono le mansioni ([00:19:39]). Il passaggio alla visione dinamica nasce dallo sviluppo e dal cambiamento delle famiglie e delle mansioni, «perché siamo strettamente legate all'ambiente» ([00:19:45]–[00:19:52]), e ne vengono nuovi profili, ruoli, competenze e mansioni ([00:20:03]). ⚠️ Da **statica** a **dinamica**.
+**Opzione:** Il passaggio da una visione statica a una visione dinamica: la promozione dello sviluppo professionale; la formazione di nuovi profili professionali.
+**Distrattori:**
+- Il passaggio da una visione dinamica a una visione statica: la promozione dello sviluppo professionale; la formazione di nuovi profili professionali.
+- Agli anni '50-'60 del secolo scorso, nel dopoguerra dell'industrializzazione, con un mercato abbastanza stabile.
+- Sia per il rispetto delle regole interne, sia per il presidio dei valori guida e per la diffusione della cultura organizzativa.
+
+**D:** ⚠️ Che cosa possono riguardare le affinità e le omogeneità per disegnare i profili professionali, e a che cosa portano, secondo la slide 7 della lezione 24?
+**R:** «Le affinità e le omogeneità per disegnare i profili professionali possono riguardare: • **Fattori storici, formazione e conoscenze specifiche -> famiglie generiche** • **Contingenze aziendali o settoriali -> professionalità peculiari** all'azienda o al settore» (slide 7). La docente: per distinguere una famiglia dall'altra servono regole e indicatori, come nella segmentazione della clientela ([00:20:21]–[00:20:51]). Le contingenze sono per esempio l'area geografica, il settore di riferimento, il prodotto o servizio ([00:21:01]). ⚠️ I fattori storici danno le famiglie **generiche**, le contingenze le professionalità **peculiari**.
+**Opzione:** Fattori storici, formazione e conoscenze specifiche -> famiglie generiche; contingenze aziendali o settoriali -> professionalità peculiari all'azienda o al settore.
+**Distrattori:**
+- Fattori storici, formazione e conoscenze specifiche -> professionalità peculiari all'azienda o al settore; contingenze aziendali o settoriali -> famiglie generiche.
+- Dalla seconda metà degli anni '80, con l'obiettivo di migliorare l'efficienza, la produttività e la qualità della gestione bancaria.
+- Dalla condivisione degli obiettivi strategici, degli obiettivi a lungo termine, insieme ai vertici aziendali.
+
+**D:** ⚠️ Che cos'è la professionalità, secondo la slide 8 della lezione 24?
+**R:** «Professionalità: • **Aggregazione di profili distinguibili** gli uni dagli altri in modo significativo • **Sintesi delle caratteristiche** che qualificano ogni posizione organizzativa (**sia per ruoli operativi, sia per ruoli direttivi**)» (slide 8). La docente: conta «avere una certa omogeneità all'interno del profilo» ([00:21:30]); la sintesi riguarda «ogni posizione personale», «sia per ruoli operativi ovviamente sia anche per ruoli direttivi» ([00:21:44]–[00:21:51]). ⚠️ Vale per i ruoli operativi **e** per quelli direttivi.
+**Opzione:** Aggregazione di profili distinguibili gli uni dagli altri in modo significativo; sintesi delle caratteristiche che qualificano ogni posizione organizzativa (sia per ruoli operativi, sia per ruoli direttivi).
+**Distrattori:**
+- Aggregazione di profili distinguibili gli uni dagli altri in modo significativo; sintesi delle caratteristiche che qualificano ogni posizione organizzativa (solo per ruoli direttivi).
+- Nel favorire lo spirito di corpo attorno gli obiettivi aziendali e nell'aumentare un clima interno in grado di accrescere la motivazione individuale.
+- Incentivazione basata sui risultati individuali e di gruppo, miglioramento dell'equità, aumento dell'elasticità e della competitività del sistema.
+
+**D:** ⚠️ Quali sono i 3 elementi variamente combinati del mix della professionalità, secondo le slide 8–9 della lezione 24?
+**R:** «La professionalità può essere concepita come mix di 3 elementi variamente combinati» (slide 8): nel triangolo **Operatività** sta in alto, **Specializzazione** e **Gestionalità** alla base, con «Professionalità» al centro. La slide 9 li numera, «1. L'operatività […] 2. La specializzazione […] 3. La gestionalità», e chiude con «OGNI RUOLO VIENE QUALIFICATO DA 3 PROFILI». La docente: «Quali sono? Operatività, specializzazione e gestionalità» ([00:21:55]–[00:22:11]). ⚠️ L'**autonomia** è l'intrusa della domanda 5 del test. La **discrezionalità** decisionale è un contenuto della gestionalità, non un elemento. La **professionalità** è il tutto, al centro del triangolo, non uno dei tre elementi.
+**Opzione:** Operatività, specializzazione, gestionalità.
+**Distrattori:**
+- Operatività, specializzazione, autonomia.
+- Operatività, discrezionalità, gestionalità.
+- Operatività, professionalità, gestionalità.
+
+**D:** ⚠️ Quale elemento non rientra fra i 3 elementi variamente combinati del mix della professionalità, secondo il test della lezione 24 (domanda 5)?
+**R:** «**Autonomia**». La slide 8: «La professionalità può essere concepita come mix di 3 elementi variamente combinati», cioè operatività, specializzazione e gestionalità, elencati anche nella slide 9. La docente: «Operatività, specializzazione e gestionalità» ([00:22:11]). ⚠️ La domanda è **negativa**. L'autonomia compare nella slide 2, nelle «autonomi» che il management riceve dal vertice aziendale, e in altre lezioni (03, 21, 22); era già un distrattore della domanda 1 del test 03. La «discrezionalità decisionale» della gestionalità le somiglia per senso, ma l'elemento si chiama gestionalità. Distrattori del test: «specializzazione», «gestionalità», «operatività».
+**Opzione:** Autonomia.
+**Distrattori:**
+- Specializzazione.
+- Gestionalità.
+- Operatività.
+
+**D:** ⚠️ Che cosa comprende l'operatività nel mix della professionalità del lavoro, secondo la slide 9 della lezione 24?
+**R:** «1. L'operatività: • **Compiti tecnico-pratici** del ruolo • Attività che **non** comportano un lavoro mentale creativo ma prevedono la **ripetizione automatica** di operazioni governate da tecnologia o da metodiche procedurali» (slide 9). La docente: «un tipo di attività che non comporta un lavoro mentale creativo ma prevede la ripetizione automatica di operazioni governate specialmente da tecnologia o da metodiche procedurali» ([00:22:28]–[00:22:44]). ⚠️ I ragionamenti **creativi** sono della specializzazione.
+**Opzione:** Compiti tecnico-pratici del ruolo; attività che non comportano un lavoro mentale creativo ma prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali.
+**Distrattori:**
+- Compiti tecnico-pratici del ruolo; attività che comportano un lavoro mentale creativo e non prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali.
+- Discrezionalità decisionale; compiti manageriali: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale.
+- Particolare attenzione alla ridefinizione dei valori guida e nuove filosofie di gestione del personale; integrazione con la strategia aziendale globale, coerenza con la mission e vision aziendale.
+
+**D:** ⚠️ Che cosa comprende la specializzazione nel mix della professionalità del lavoro, secondo la slide 9 della lezione 24?
+**R:** «2. La specializzazione: • **Conoscenza applicata** di cui il ruolo si avvale • Processi lavorativi che richiedono **ragionamenti creativi** di diagnosi, progettazione, intervento e controllo» (slide 9). La docente: è una specializzazione particolare che aiuta la persona a svolgere il compito; i processi richiedono «ragionamenti creativi di diagnosi, di progettazione, di intervento, di controllo», e il compito è «molto più specifico rispetto al compito legato all'operatività» ([00:22:49]–[00:23:27]). ⚠️ La **negoziazione** è fra i compiti manageriali della gestionalità.
+**Opzione:** Conoscenza applicata di cui il ruolo si avvale; processi lavorativi che richiedono ragionamenti creativi di diagnosi, progettazione, intervento e controllo.
+**Distrattori:**
+- Conoscenza applicata di cui il ruolo si avvale; processi lavorativi che richiedono ragionamenti creativi di diagnosi, progettazione, intervento e negoziazione.
+- Compiti tecnico-pratici del ruolo; attività che non comportano un lavoro mentale creativo ma prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali.
+- L'area orientata all'espletamento di aspetti amministrativo-contabili.
+
+**D:** ⚠️ Che cosa comprende la gestionalità nel mix della professionalità del lavoro, secondo la slide 9 della lezione 24?
+**R:** «3. La gestionalità: • **Discrezionalità decisionale** • **Compiti manageriali**: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale» (slide 9). La docente: «un aumento, della crescita, della discrezionalità decisionale, quindi parliamo sostanzialmente dei compiti manageriali» ([00:23:27]). ⚠️ I compiti **tecnico-pratici** sono dell'operatività.
+**Opzione:** Discrezionalità decisionale; compiti manageriali: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale.
+**Distrattori:**
+- Discrezionalità decisionale; compiti tecnico-pratici: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale.
+- Il passaggio da una visione statica a una visione dinamica: la promozione dello sviluppo professionale; la formazione di nuovi profili professionali.
+- Il funzionamento corrente della struttura aziendale attraverso i meccanismi operativi gestiti con l'intervento della direzione del personale e del management.
+
+**D:** ⚠️ Quale elemento del mix della professionalità comprende le attività che prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali, secondo la slide 9 della lezione 24?
+**R:** «1. L'**operatività**: • Compiti tecnico-pratici del ruolo • Attività che non comportano un lavoro mentale creativo ma prevedono la ripetizione automatica di operazioni governate da tecnologia o da metodiche procedurali» (slide 9; [00:22:28]–[00:22:44]). ⚠️ La specializzazione richiede ragionamenti **creativi**, la gestionalità è discrezionalità decisionale e compiti manageriali. L'autonomia non è un elemento della professionalità.
+**Opzione:** Operatività.
+**Distrattori:**
+- Specializzazione.
+- Gestionalità.
+- Autonomia.
+
+**D:** ⚠️ Quale elemento del mix della professionalità comprende la discrezionalità decisionale e i compiti manageriali, secondo la slide 9 della lezione 24?
+**R:** «3. La **gestionalità**: • Discrezionalità decisionale • Compiti manageriali: programmazione, coordinamento, controllo, allocazione delle risorse, negoziazione, organizzazione e gestione del personale» (slide 9; [00:23:27]). ⚠️ La discrezionalità decisionale somiglia all'**autonomia**, intrusa della domanda 5 del test, ma l'elemento si chiama **gestionalità**.
+**Opzione:** Gestionalità.
+**Distrattori:**
+- Autonomia.
+- Specializzazione.
+- Operatività.
+
+**D:** ⚠️ Che cosa consente la valutazione tridimensionale, secondo la slide 10 della lezione 24?
+**R:** «La valutazione tridimensionale consente di: • Evidenziare i diversi profili • Fare confronti • Valutare i "**differenziali**" tra le professionalità **attuali** e quelle **desiderate in prospettiva** • Valutare la **flessibilità** della struttura organizzativa: • Sostituibilità dei ruoli aziendali • Capacità di favorire lo sviluppo delle risorse in termini di mobilità (interna alla famiglie professionali e inter-famiglie)» (slide 10, «alla famiglie» così). La docente: evidenziare i profili è «fare una specie di mappatura», e i confronti sono fra mansioni e famiglie professionali ([00:23:59]). I differenziali dipendono «magari» dalla necessità di cambiamento ([00:24:14]). La risorsa può essere riallocata nella stessa famiglia o spostata in una famiglia diversa ([00:24:44]). ⚠️ I differenziali sono fra le professionalità **attuali** e quelle **desiderate**, e la mobilità è **interna e inter-famiglie**.
+**Opzione:** Evidenziare i diversi profili; fare confronti; valutare i differenziali tra le professionalità attuali e quelle desiderate in prospettiva; valutare la flessibilità della struttura organizzativa: sostituibilità dei ruoli aziendali, capacità di favorire lo sviluppo delle risorse in termini di mobilità (interna alla famiglie professionali e inter-famiglie).
+**Distrattori:**
+- Evidenziare i diversi profili; fare confronti; valutare i differenziali tra le professionalità attuali e quelle desiderate in prospettiva; valutare la flessibilità della struttura organizzativa: sostituibilità dei ruoli aziendali, capacità di favorire lo sviluppo delle risorse in termini di mobilità (solo interna alla famiglie professionali).
+- Gestione strategica: il momento delle scelte di fondo che incidono sui risultati di medio-lungo termine; gestione operativa: il momento del funzionamento operativo delle scelte strategiche.
+- Assegnazione delle mansioni; valutazione delle prestazioni; attività di formazione; gestione della mobilità professionale; promozioni e avanzamento della carriera.
+
+**D:** ⚠️ Per che cosa l'identificazione delle famiglie professionali è il 1 step, secondo la slide 11 della lezione 24?
+**R:** «L'identificazione delle famiglie professionali è il 1 step per impostare la **gestione strategica**» (slide 11). La docente: «questo è il primo step per impostare la gestione strategica per la nostra progettazione organizzativa» ([00:25:00]). ⚠️ È il primo passo della gestione **strategica**, non di quella operativa, che è il funzionamento corrente della struttura (slide 2).
+**Opzione:** Per impostare la gestione strategica.
+**Distrattori:**
+- Per impostare la gestione operativa.
+- Processo.
+- Reattivo.
+
+**D:** ⚠️ Quali voci seguono l'identificazione delle famiglie professionali, 1 step per impostare la gestione strategica, secondo la slide 11 della lezione 24?
+**R:** «L'identificazione delle famiglie professionali è il 1 step per impostare la gestione strategica: Natura e numero delle famiglie • Ciclo di vita delle famiglie • Gestione della mobilità inter-famiglie • **Differenziazione** delle politiche del personale in base alla specificità delle famiglie» (slide 11). La docente parla di natura e numero delle famiglie presenti e necessarie ([00:25:00]). Nel ciclo di vita si chiede se la mansione è universale o ha «una durata, una lunghezza di vita abbastanza definita» ([00:25:21]–[00:25:40]). La mobilità inter-famiglie è come «far girare, far ruotare la nostra risorsa» ([00:25:54]–[00:26:01]). Anche i meccanismi operativi «potrebbero essere differenti» secondo la famiglia ([00:26:12]–[00:26:30]). ⚠️ Le politiche si **differenziano** per famiglia; la **standardizzazione** riguarda le regole ed è della direzione del personale (slide 2).
+**Opzione:** Natura e numero delle famiglie; ciclo di vita delle famiglie; gestione della mobilità inter-famiglie; differenziazione delle politiche del personale in base alla specificità delle famiglie.
+**Distrattori:**
+- Natura e numero delle famiglie; ciclo di vita delle famiglie; gestione della mobilità inter-famiglie; standardizzazione delle politiche del personale per tutte le famiglie.
+- Il management, nell'ambito delle autonomi ricevute dal vertice aziendale.
+- Area orientata all'espletamento di aspetti amministrativo-contabili; revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, non in ottica strategica; revisione dei sistemi di gestione in ottica strategica.
