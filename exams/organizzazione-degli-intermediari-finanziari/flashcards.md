@@ -5037,3 +5037,1024 @@
 **Distrattori:**
 - Intellettuale.
 - Supporto analitico.
+
+## Lezione 18 — Criteri e criticità fondamentali della progettazione organizzativa
+
+**D:** ⚠️ Che cos'è la struttura, secondo la slide 2 della lezione 18?
+**R:** «**La struttura** è il sistema organizzato di risorse e di processi preordinati e finalizzati all'**implementazione** della strategia» (slide 2). La docente la legge alla lettera ([00:00:46]–[00:00:51]). ⚠️ **Implementazione, non definizione**: la struttura serve a realizzare la strategia. È la chiave della domanda 1 del test. La lezione 05 ne dava un'altra formula: «Riguarda i fattori delle combinazioni produttive e distributive per realizzare una strategia» (slide 15 di quel deck).
+**Opzione:** Il sistema organizzato di risorse e di processi preordinati e finalizzati all'implementazione della strategia.
+**Distrattori:**
+- Il sistema organizzato di risorse e di processi preordinati e finalizzati alla definizione della strategia.
+- Uno stato organizzativo che tende a ripetere la propria attività con un progressivo aumento di efficienza.
+- La transizione fra organizzazione esistente e resistente e organizzazione nuova e innovante (dal punto di vista culturale e intellettuale).
+
+**D:** ⚠️ Come può essere definito il sistema organizzato di risorse e di processi preordinati e finalizzati all'implementazione della strategia, secondo il test della lezione 18 (domanda 1)?
+**R:** «**Struttura**». È la slide 2 alla lettera: «La struttura è il sistema organizzato di risorse e di processi preordinati e finalizzati all'implementazione della strategia» ([00:00:46]). ⚠️ L'**organico** nel corso è il personale («numerosità dell'organico», lezione 25, slide 2). *Business plan* e *business model* vengono dal pool condiviso: erano già distrattori della domanda 1 del test 17 e della domanda 3 del test 13. Distrattori del test: «organico», «business plan», «business model».
+**Opzione:** Struttura.
+**Distrattori:**
+- Organico.
+- Business plan.
+- Business model.
+
+**D:** ⚠️ Che cosa dice la formula *structure follows strategy* della slide 2 della lezione 18?
+**R:** «La struttura segue la strategia: *structure follows strategy*» (slide 2). La docente: «Quindi la struttura segue la strategia, infatti c'è un termine anglosassone che dice structure follows strategy» ([00:02:11]). ⚠️ La direzione va **dalla strategia alla struttura**, dentro la relazione «ambiente-strategia-struttura», che è «il riferimento centrale». L'ambiente sta a monte della strategia, non a valle della struttura.
+**Opzione:** La struttura segue la strategia.
+**Distrattori:**
+- La strategia segue la struttura.
+- L'ambiente segue la struttura.
+
+**D:** ⚠️ Che cosa hanno mostrato le ricerche di Chandler (1962), secondo la slide 2 della lezione 18?
+**R:** «1 – Le ricerche di *Chandler (1962)*: le forma [forme] organizzative delle imprese **cambiano e vengono cambiate in funzione del cambiamento delle strategie**» (slide 2). Per la docente Chandler «è uno dei primi che inizia a parlare comunque di questa stretta relazione e della necessità di cambiare anche il modello, la struttura organizzativa in base ai cambiamenti strategici» ([00:02:20]–[00:02:45]). ⚠️ Sono le forme organizzative a cambiare in funzione delle strategie, non il contrario. Le organizzazioni consolidate e tendenzialmente stabili sono l'altro filone, la *business history*.
+**Opzione:** Le forme organizzative delle imprese cambiano e vengono cambiate in funzione del cambiamento delle strategie.
+**Distrattori:**
+- Le strategie delle imprese cambiano e vengono cambiate in funzione del cambiamento delle forme organizzative.
+- Le imprese sviluppano nel tempo organizzazioni consolidate e tendenzialmente stabili per motivi di efficienza operativa.
+- Una nuova situazione di empowerment del banchiere (la responsabilità delle decisioni strategiche di impresa).
+
+**D:** ⚠️ Quale principio fondamentale accompagna, nella slide 2 della lezione 18, le ricerche di Chandler?
+**R:** «**Il principio fondamentale della funzionalità o della specificità del modello organizzativo rispetto alla definizione della strategia**» (slide 2, in grassetto). La docente aggiunge «o ridefinizione, se parliamo dei cambiamenti» ([00:02:58]). ⚠️ **Funzionalità o specificità**: la stabilità e la replica delle attività sono il principio dell'altro filone, la *business history*, orientata a conservare assetti, regole e comportamenti.
+**Opzione:** Il principio fondamentale della funzionalità o della specificità del modello organizzativo rispetto alla definizione della strategia.
+**Distrattori:**
+- Il principio fondamentale della stabilità o della replicabilità del modello organizzativo rispetto alla definizione della strategia.
+- Il ri-orientamento a 180 gradi del modello organizzativo: dall'impostazione burocratica a quella imprenditoriale-manageriale.
+- La codificazione analitica delle regole e delle procedure.
+
+**D:** ⚠️ Che cosa sostengono gli studi di business history, secondo la slide 2 della lezione 18?
+**R:** «2 – Gli studi di *business history*: le imprese sviluppano nel tempo organizzazioni **consolidate e tendenzialmente stabili** per motivi di **efficienza operativa**» (slide 2). Per la docente sono «studi un po' opposti» a quelli di Chandler ([00:03:14]–[00:03:27]). ⚠️ Organizzazioni **stabili**, per **efficienza operativa**: il cambiamento delle forme organizzative in funzione delle strategie è di Chandler.
+**Opzione:** Le imprese sviluppano nel tempo organizzazioni consolidate e tendenzialmente stabili per motivi di efficienza operativa.
+**Distrattori:**
+- Le imprese sviluppano nel tempo organizzazioni flessibili e tendenzialmente mutevoli per motivi di efficienza operativa.
+- Le forme organizzative delle imprese cambiano e vengono cambiate in funzione del cambiamento delle strategie.
+- Le istanze di cambiamento avanzate dagli attori del sistema dovevano essere autorizzate.
+
+**D:** ⚠️ A che cosa è orientata l'organizzazione secondo gli studi di business history, nella slide 2 della lezione 18?
+**R:** «L'organizzazione è orientata a **conservare** assetti, regole e comportamenti utili per **replicare** nel tempo **con modalità industriale** le attività secondo il criterio dell'**efficienza**» (slide 2, in grassetto). La docente lo ripete «secondo questo filone di studi» ([00:03:43]). ⚠️ Il criterio è l'**efficienza**, non l'efficacia.
+**Opzione:** A conservare assetti, regole e comportamenti utili per replicare nel tempo con modalità industriale le attività secondo il criterio dell'efficienza.
+**Distrattori:**
+- A conservare assetti, regole e comportamenti utili per replicare nel tempo con modalità industriale le attività secondo il criterio dell'efficacia.
+- Alla riconfigurazione dell'organizzazione (professionalità, competenze, risorse).
+- A migliori posizionamenti di mercato (combinazione di crescita delle dimensioni operative e ampliamento del portafoglio di attività).
+
+**D:** ⚠️ Quali sono i tre punti del cambiamento organizzativo, secondo la slide 3 della lezione 18?
+**R:** «1 – Esistenza delle **forze difensive**, istanze di autoconservazione (cultura e identità), resistenze al cambiamento organizzativo -> *business experience* insieme alle competenze come un valore portante dell'organizzazione 2 – Applicazione dell'organizzazione innovate rispetto all'**organizzazione replicante** (…) 3 – Necessità di concepire continuamente **strategie innovative** -> una reazione di cambiamento organizzativo» (slide 3; «innovate» così). La docente li chiama «momenti importanti» ([00:04:02]–[00:06:18]). ⚠️ Il terzo punto chiede di concepire **continuamente** strategie **innovative**, non di conservare quelle consolidate.
+**Opzione:** Esistenza delle forze difensive, istanze di autoconservazione (cultura e identità), resistenze al cambiamento organizzativo -> business experience insieme alle competenze come un valore portante dell'organizzazione; applicazione dell'organizzazione innovate rispetto all'organizzazione replicante (uno stato organizzativo che tende a ripetere la propria attività con un progressivo aumento di efficienza); necessità di concepire continuamente strategie innovative -> una reazione di cambiamento organizzativo.
+**Distrattori:**
+- Esistenza delle forze difensive, istanze di autoconservazione (cultura e identità), resistenze al cambiamento organizzativo -> business experience insieme alle competenze come un valore portante dell'organizzazione; applicazione dell'organizzazione innovate rispetto all'organizzazione replicante (uno stato organizzativo che tende a ripetere la propria attività con un progressivo aumento di efficienza); necessità di conservare continuamente strategie consolidate -> una reazione di cambiamento organizzativo.
+- Apprendimento organizzativo (organizational learning e learning organization); capacità-abilità organizzative (organizational capabilities); knowledge management.
+- Obiettivi e risultati; gerarchia e coordinamento; professionalità competenze e risorse; regole e procedure.
+
+**D:** ⚠️ Che cos'è l'organizzazione replicante, secondo la slide 3 della lezione 18?
+**R:** «Uno stato organizzativo che tende a **ripetere** la propria attività con un progressivo aumento di **efficienza**» (slide 3, in parentesi accanto a «organizzazione replicante»). La docente: un'organizzazione «che tende a replicare, a riutilizzare i comportamenti, i processi di cui è diventata praticamente padrona, proprietaria» ([00:05:37]). ⚠️ La docente legge «aumento di **efficacia**» ([00:05:49]): nelle opzioni vale la slide, **efficienza**. L'organizzazione che si rinnova è quella innovante.
+**Opzione:** Uno stato organizzativo che tende a ripetere la propria attività con un progressivo aumento di efficienza.
+**Distrattori:**
+- Uno stato organizzativo che tende a rinnovare la propria attività con un progressivo aumento di efficienza.
+- Il sistema organizzato di risorse e di processi preordinati e finalizzati all'implementazione della strategia.
+- L'organizzazione come fattore abilitante della strategia.
+
+**D:** In funzione di che cosa va riprogettato l'impianto organizzativo, secondo la slide 3 della lezione 18?
+**R:** «• riprogettazione dell'impianto organizzativo in funzione di: • **Nuove attività** • **Mutate condizioni di cotesto**» (slide 3; «cotesto» così, per «contesto»). È la reazione di cambiamento organizzativo che segue la necessità di concepire continuamente strategie innovative. La docente: «in funzione di nuove attività o mutate condizioni di contesto, quindi dell'ambiente esterno» ([00:07:30]). ⚠️ Condizioni **mutate**, non stabili.
+**Opzione:** Nuove attività; mutate condizioni di contesto.
+**Distrattori:**
+- Nuove attività; stabili condizioni di contesto.
+- Nuovi mission e vision.
+- Risorse, prodotto, mercato.
+
+**D:** ⚠️ Qual è la criticità del cambiamento organizzativo, secondo la slide 3 della lezione 18?
+**R:** «La criticità del cambiamento org.vo = la **transizione** fra organizzazione **esistente e resistente** e organizzazione **nuova e innovante** (dal punto di vista **culturale e intellettuale**)» (slide 3, in grassetto). La docente la chiama «la principale criticità»: l'organizzazione esistente è resistente «alcune volte al cambiamento», e conta capire come avviare la trasformazione verso un'organizzazione «che innova continuamente» ([00:07:44]–[00:08:12]). ⚠️ Il punto di vista è **culturale e intellettuale**.
+**Opzione:** La transizione fra organizzazione esistente e resistente e organizzazione nuova e innovante (dal punto di vista culturale e intellettuale).
+**Distrattori:**
+- La transizione fra organizzazione esistente e resistente e organizzazione nuova e innovante (dal punto di vista tecnologico e finanziario).
+- Dalla vigilanza strutturale alla vigilanza prudenziale, nel 1990-2005.
+- Una nuova situazione di empowerment del banchiere (la responsabilità delle decisioni strategiche di impresa).
+
+**D:** ⚠️ Quali sono le criticità di cambiamento organizzativo nelle strutture bancarie, secondo la slide 4 della lezione 18?
+**R:** «• Una lunga esperienza di **regolamentazione** da parte delle autorità competenti • Modelli di **vigilanza strutturale** ispirati all'obiettivo di **stabilità** • Storicamente le organizzazioni **strutturate, stabili, autoreferenziali e resistenti** al cambiamento • Un progressivo **indebolimento** delle capacità imprenditoriali e di adattamento» (slide 4). Per la docente la regolamentazione impatta sulla resistenza al cambiamento, e quando una banca decide di cambiare deve tenere conto di «questo background diciamo particolare del settore» ([00:08:31]–[00:09:56]). ⚠️ Le capacità imprenditoriali si **indeboliscono**; la vigilanza è **strutturale**, non prudenziale.
+**Opzione:** Una lunga esperienza di regolamentazione da parte delle autorità competenti; modelli di vigilanza strutturale ispirati all'obiettivo di stabilità; storicamente le organizzazioni strutturate, stabili, autoreferenziali e resistenti al cambiamento; un progressivo indebolimento delle capacità imprenditoriali e di adattamento.
+**Distrattori:**
+- Una lunga esperienza di regolamentazione da parte delle autorità competenti; modelli di vigilanza strutturale ispirati all'obiettivo di stabilità; storicamente le organizzazioni strutturate, stabili, autoreferenziali e resistenti al cambiamento; un progressivo rafforzamento delle capacità imprenditoriali e di adattamento.
+- Modalità di rapportarsi delle persone e dei ruoli; regole di funzionamento; valore di appartenenza; cultura o condivisione di modelli di pensiero; azioni coerenti con la strategia.
+- Cambiamento, innovazione, apprendimento, motivazione, imprenditorialità e altri elementi necessari per rendere l'organizzazione funzionale alle strategie, secondo misure di efficienze ed efficacia.
+
+**D:** ⚠️ Di quali concetti la slide 4 della lezione 18 sottolinea l'importanza per il cambiamento nelle banche?
+**R:** «L'importanza dei concetti di: • **Apprendimento organizzativo** (*organizational learning e learning organization*) • **Capacità-abilità organizzative** (*organizational capabilities*) • ***Knowledge management***» (slide 4). La docente: l'apprendimento organizzativo crea «una database di knowledge, un archivio dei saperi»; il knowledge management insegna «come gestire questo sapere, come farlo circolare, come condividere» ([00:10:08]–[00:11:33]). ⚠️ L'elenco si chiude con il **knowledge management**.
+**Opzione:** Apprendimento organizzativo (organizational learning e learning organization); capacità-abilità organizzative (organizational capabilities); knowledge management.
+**Distrattori:**
+- Apprendimento organizzativo (organizational learning e learning organization); capacità-abilità organizzative (organizational capabilities); risk management.
+- Nuove attività; mutate condizioni di contesto.
+- Endogeni (cultura dell'organizzazione); esogeni (vari pressioni del cambiamento del contesto – ambiente, mercato, concorrenza).
+
+**D:** ⚠️ Come presenta la slide 5 della lezione 18 la progettazione e il cambiamento organizzativo?
+**R:** «La progettazione e il cambiamento organizzativo come **condizioni necessarie del successo** (competizione, creazione del valore)» (slide 5, primo punto delle capacità organizzative). La docente: servono «per rimanere competitivi, per mantenere il vantaggio competitivo sul mercato e per creare il valore per il mercato» ([00:11:37]–[00:11:59]). ⚠️ Condizioni **necessarie**, non sufficienti.
+**Opzione:** Come condizioni necessarie del successo (competizione, creazione del valore).
+**Distrattori:**
+- Come condizioni sufficienti del successo (competizione, creazione del valore).
+- Come una foresta pietrificata o un giardino all'italiana: bello, ordinato, ricco di esperienze idonee a vivere in ambiente protetto.
+- Come fattore determinante e distintivo di qualsiasi modello organizzativo.
+
+**D:** ⚠️ A che cosa sono orientate le nuove strategie bancarie, e quale combinazione realizzano, secondo la slide 5 della lezione 18?
+**R:** «La creazione delle nuove strategie bancarie orientate a **migliori posizionamenti di mercato** (combinazione di **crescita delle dimensioni operative** e **ampliamento del portafoglio di attività**)» (slide 5). La docente: prima si analizza il cambiamento esterno, poi si capisce quali strategie attivare ([00:12:06]–[00:12:24]). ⚠️ Le dimensioni operative **crescono**, il portafoglio si **amplia**.
+**Opzione:** A migliori posizionamenti di mercato (combinazione di crescita delle dimensioni operative e ampliamento del portafoglio di attività).
+**Distrattori:**
+- A migliori posizionamenti di mercato (combinazione di riduzione delle dimensioni operative e ampliamento del portafoglio di attività).
+- A conservare assetti, regole e comportamenti utili per replicare nel tempo con modalità industriale le attività secondo il criterio dell'efficienza.
+- Alla riconfigurazione dell'organizzazione (professionalità, competenze, risorse).
+
+**D:** ⚠️ Che cos'è l'organizational capability, secondo la slide 5 della lezione 18?
+**R:** «Organizzazione come **fattore abilitante della strategia** (ovvero *organizational capability*)» (slide 5). Per la docente la struttura organizzativa diventa «veramente un driver» per implementare la strategia predefinita ([00:12:47]). La slide aggiunge: «Capacità org.va è **anche capacità di cambiamento** dell'organizzazione» ([00:13:20]). ⚠️ È l'organizzazione ad abilitare la strategia, non il contrario.
+**Opzione:** L'organizzazione come fattore abilitante della strategia.
+**Distrattori:**
+- La strategia come fattore abilitante dell'organizzazione.
+- L'organizzazione come fattore vincolante della strategia.
+- Uno stato organizzativo che tende a ripetere la propria attività con un progressivo aumento di efficienza.
+
+**D:** ⚠️ Quali sono le due definizioni dell'organizzazione, secondo la slide 6 della lezione 18?
+**R:** «1) Organizzazione come "**relazioni e cultura organizzativa**" (…) 2) Organizzazione come **struttura organizzativa** ("**articolazione di ruoli e di funzioni**")» (slide 6). La docente: l'organizzazione è «un concetto abbastanza vasto»; come struttura organizzativa è «un modello, un assetto, un **organigramma**» ([00:14:59]–[00:15:26]). ⚠️ La struttura organizzativa è articolazione di **ruoli e di funzioni**; obiettivi e risultati sono uno dei 4 elementi della slide 8.
+**Opzione:** Organizzazione come relazioni e cultura organizzativa; organizzazione come struttura organizzativa (articolazione di ruoli e di funzioni).
+**Distrattori:**
+- Organizzazione come relazioni e cultura organizzativa; organizzazione come struttura organizzativa (articolazione di obiettivi e di risultati).
+- Endogeni (cultura dell'organizzazione); esogeni (vari pressioni del cambiamento del contesto – ambiente, mercato, concorrenza).
+- Obiettivi e risultati; gerarchia e coordinamento; professionalità competenze e risorse; regole e procedure.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci dell'organizzazione come «relazioni e cultura organizzativa», secondo la slide 6 della lezione 18?
+**R:** «• Modalità di rapportarsi delle persone e dei ruoli • Regole di funzionamento • Valore di appartenenza • Cultura o condivisione di modelli di pensiero • **Azioni coerenti con la strategia**» (slide 6). La docente: ogni individuo deve avere «questo senso di appartenenza»; le azioni sono coerenti «non soltanto con la cultura organizzativa ma anche con la strategia» ([00:14:00]–[00:14:30]). ⚠️ L'elenco si chiude con le azioni coerenti **con la strategia**.
+**Opzione:** Modalità di rapportarsi delle persone e dei ruoli; regole di funzionamento; valore di appartenenza; cultura o condivisione di modelli di pensiero; azioni coerenti con la strategia.
+**Distrattori:**
+- Modalità di rapportarsi delle persone e dei ruoli; regole di funzionamento; valore di appartenenza; cultura o condivisione di modelli di pensiero; azioni coerenti con il risultato programmato.
+- Il modello burocratico dimostra efficienza ed efficacia superiore; non ci sono eventi esogeni destabilizzanti; gerarchie e procedure come strumenti organizzativi efficaci ed efficienti.
+- Taylor, Fayol, Mayo, Hammer e Champy, Davenport, Porter.
+
+**D:** ⚠️ Su quali 4 elementi si regge qualsiasi organizzazione, secondo la slide 8 della lezione 18?
+**R:** «Qualsiasi organizzazione si regge per la combinazione di **4 elementi**: • Obiettivi e risultati • Gerarchia e coordinamento • **Professionalità competenze e risorse** • Regole e procedure» (slide 8). La docente li ripete nello stesso ordine; fra le risorse mette anche quelle materiali e immateriali ([00:17:07]–[00:17:35]). ⚠️ Le **tecnologie digitali** non ci sono: sono l'intrusa della domanda 2 del test, al posto di professionalità competenze e risorse.
+**Opzione:** Obiettivi e risultati; gerarchia e coordinamento; professionalità competenze e risorse; regole e procedure.
+**Distrattori:**
+- Obiettivi e risultati; gerarchia e coordinamento; tecnologie digitali; regole e procedure.
+- S – variabile stabile, D – componente di diversificazione.
+- Nuove attività; mutate condizioni di contesto.
+
+**D:** ⚠️ Quale fra obiettivi e risultati, gerarchia e coordinamento, regole e procedure e tecnologie digitali non fa parte degli elementi su cui si regge qualsiasi organizzazione, secondo il test della lezione 18 (domanda 2)?
+**R:** «**Tecnologie digitali**». La slide 8 elenca i «4 elementi»: obiettivi e risultati, gerarchia e coordinamento, professionalità competenze e risorse, regole e procedure ([00:17:07]). ⚠️ L'intrusa prende il posto dell'unico elemento che manca fra le opzioni, **professionalità competenze e risorse**. Le tecnologie digitali non compaiono in questa lezione; nel corso sono un tema delle lezioni 01 e 02. La piattaforma scrive «qiale tra i segunti» e «obietivi». Distrattori del test: «obietivi e risultati», «gerarchia e coordinamento», «regole e procedure».
+**Opzione:** Tecnologie digitali.
+**Distrattori:**
+- Obietivi e risultati.
+- Gerarchia e coordinamento.
+- Regole e procedure.
+
+**D:** ⚠️ Che cosa comporta l'eliminazione di uno dei 4 elementi costitutivi dell'organizzazione, secondo la slide 8 della lezione 18?
+**R:** «Eliminazione di uno degli elementi **mette a rischio il funzionamento** dell'organizzazione» (slide 8). La docente: «l'organizzazione si deve basare necessariamente su questi quattro elementi. elementi contemporaneamente» ([00:17:54]–[00:18:05]). La slide 7 li chiama «elementi necessari e non rinunciabili per il funzionamento e per l'esistenza dell'org.ne». ⚠️ È a rischio il **funzionamento**, non solo l'efficienza.
+**Opzione:** Mette a rischio il funzionamento dell'organizzazione.
+**Distrattori:**
+- Mette a rischio l'efficienza, ma non il funzionamento dell'organizzazione.
+- La struttura segue la strategia.
+- L'organizzazione come fattore abilitante della strategia.
+
+**D:** ⚠️ Da quali fattori può dipendere l'importanza dei 4 elementi, secondo la slide 8 della lezione 18?
+**R:** «Importanza di questi elementi può dipendere da diversi fattori: • **Endogeni** (cultura dell'organizzazione) • **Esogeni** (vari pressioni del cambiamento del contesto – ambiente, mercato, concorrenza)» (slide 8; «vari pressioni» così). La docente: endogeni sono i fattori interni, «soprattutto della cultura interna»; per gli esogeni richiama «le 5 forze di Michael Porter» ([00:18:34]–[00:19:07]). ⚠️ La **cultura** è il fattore **endogeno**; ambiente, mercato e concorrenza sono **esogeni**.
+**Opzione:** Endogeni (cultura dell'organizzazione); esogeni (vari pressioni del cambiamento del contesto – ambiente, mercato, concorrenza).
+**Distrattori:**
+- Endogeni (vari pressioni del cambiamento del contesto – ambiente, mercato, concorrenza); esogeni (cultura dell'organizzazione).
+- Apprendimento organizzativo (organizational learning e learning organization); capacità-abilità organizzative (organizational capabilities); knowledge management.
+- Organizzazione come relazioni e cultura organizzativa; organizzazione come struttura organizzativa (articolazione di ruoli e di funzioni).
+
+**D:** ⚠️ Nella figura della slide 7 della lezione 18, quali elementi hanno il primo posto (①) nei due modelli?
+**R:** Il ① sta su «**Obiettivi e risultati**», dal lato dell'ambiente mutevole e instabile e del modello imprenditoriale manageriale, e su «**Regole e procedure**», dal lato dell'ambiente stabile e del modello burocratico (slide 7, figura). La docente: nel modello imprenditoriale-manageriale «la prima posizione è praticamente il raggiungimento degli obiettivi» ([00:20:06]); nel burocratico «il posto numero 1 sicuramente occupato dalle regole e procedure» ([00:23:30]). ⚠️ Gerarchia e coordinamento e professionalità competenze e risorse hanno il ②; a quale modello vada ciascun ② la figura non lo dice in modo univoco (vedi la nota).
+**Opzione:** Obiettivi e risultati nel modello imprenditoriale-manageriale; regole e procedure nel modello burocratico.
+**Distrattori:**
+- Regole e procedure nel modello imprenditoriale-manageriale; obiettivi e risultati nel modello burocratico.
+- Gerarchia e coordinamento nel modello imprenditoriale-manageriale; professionalità competenze e risorse nel modello burocratico.
+
+**D:** ⚠️ Quali sono le caratteristiche del modello imprenditoriale-manageriale elencate prima della «cultura del modello», secondo la slide 9 della lezione 18?
+**R:** «1. Modello imprenditoriale-manageriale: • **Focus sul raggiungimento degli obiettivi** • **Leva sulle professionalità**, sulle competenze, sulle risorse proprietarie • **Minimizzazione** del condizionamento autoritario della gerarchia (comando in alternativa alla delega) • Codificazione analitica delle regole e delle procedure» (slide 9). La docente: al primo posto il raggiungimento degli obiettivi, poi le professionalità; la gerarchia e il coordinamento hanno «minor valore» ([00:20:06]–[00:20:42]). ⚠️ Il condizionamento autoritario della gerarchia si **minimizza**.
+**Opzione:** Focus sul raggiungimento degli obiettivi; leva sulle professionalità, sulle competenze, sulle risorse proprietarie; minimizzazione del condizionamento autoritario della gerarchia (comando in alternativa alla delega); codificazione analitica delle regole e delle procedure.
+**Distrattori:**
+- Focus sul raggiungimento degli obiettivi; leva sulle professionalità, sulle competenze, sulle risorse proprietarie; massimizzazione del condizionamento autoritario della gerarchia (comando in alternativa alla delega); codificazione analitica delle regole e delle procedure.
+- Modalità di rapportarsi delle persone e dei ruoli; regole di funzionamento; valore di appartenenza; cultura o condivisione di modelli di pensiero; azioni coerenti con la strategia.
+- L'inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale.
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci della cultura del modello imprenditoriale-manageriale, secondo la slide 9 della lezione 18?
+**R:** «Cultura del modello: • **Responsabilizzazione rispetto al risultato** • **Costante tensione agli obiettivi costantemente aggiornati** in relazione al contesto • **Delega e controllo** • **Misurazione degli scostamenti (gap)** -> riconfigurazione dell'organizzazione (professionalità, competenze, risorse)» (slide 9). Per la docente la delega e controllo è l'**empowerment**: si delega anche ai livelli più bassi, ma «il controllo deve essere maggiore»; la misurazione dei gap è delle organizzazioni «cosiddette **data driven**» ([00:20:58]–[00:22:43]). ⚠️ **Comando e obbedienza** è la cultura del modello burocratico.
+**Opzione:** Responsabilizzazione rispetto al risultato; costante tensione agli obiettivi costantemente aggiornati in relazione al contesto; delega e controllo; misurazione degli scostamenti (gap) -> riconfigurazione dell'organizzazione (professionalità, competenze, risorse).
+**Distrattori:**
+- Responsabilizzazione rispetto al risultato; costante tensione agli obiettivi costantemente aggiornati in relazione al contesto; comando e obbedienza; misurazione degli scostamenti (gap) -> riconfigurazione dell'organizzazione (professionalità, competenze, risorse).
+- Organizzazione come relazioni e cultura organizzativa; organizzazione come struttura organizzativa (articolazione di ruoli e di funzioni).
+- Come una foresta pietrificata o un giardino all'italiana: bello, ordinato, ricco di esperienze idonee a vivere in ambiente protetto.
+
+**D:** ⚠️ Su che cosa tradizionalmente non si basa la cultura del modello imprenditoriale-manageriale, secondo il test della lezione 18 (domanda 3)?
+**R:** «**Assenza di errori di pianificazione e/o di esecuzione**». È la cultura del modello **burocratico**: la slide 10 la chiude con «NO errori di pianificazione e/o di esecuzione». La chiave è giusta ma **non testuale**: «assenza di» sostituisce «NO». La docente: nel burocratico «non ci sono secondo questo modello gli errori di pianificazione e di esecuzione» ([00:25:41]). ⚠️ Le altre tre opzioni sono voci della slide 9; la costante tensione agli obiettivi non è fra le opzioni. Distrattori del test: «responsabilizzazione rispetto al risultato», «delega e controllo», «misurazione degli scostamenti (gap)».
+**Opzione:** Assenza di errori di pianificazione e/o di esecuzione.
+**Distrattori:**
+- Responsabilizzazione rispetto al risultato.
+- Delega e controllo.
+- Misurazione degli scostamenti (gap).
+
+**D:** ⚠️ A che cosa porta la misurazione degli scostamenti (gap) nella cultura del modello imprenditoriale-manageriale, secondo la slide 9 della lezione 18?
+**R:** «Misurazione degli scostamenti (gap) -> **riconfigurazione dell'organizzazione** (professionalità, competenze, risorse)» (slide 9). La docente: i dati aiutano i top manager a capire «come di conseguenza bisogna riconfigurare in qualche modo la nostra organizzazione, quindi le professionalità, le competenze, le risorse a disposizione o magari anche le risorse mancanti» ([00:22:16]–[00:22:43]). ⚠️ Nella slide 11 la stessa misurazione porta alla **continua riconsiderazione degli obiettivi**: entrambe sono vere, ciascuna nella sua slide. Gerarchie, comando e procedure non si riconfigurano.
+**Opzione:** Alla riconfigurazione dell'organizzazione (professionalità, competenze, risorse).
+**Distrattori:**
+- Alla riconfigurazione delle gerarchie (comando, obbedienza, procedure).
+- A conservare assetti, regole e comportamenti utili per replicare nel tempo con modalità industriale le attività secondo il criterio dell'efficienza.
+- A migliori posizionamenti di mercato (combinazione di crescita delle dimensioni operative e ampliamento del portafoglio di attività).
+
+**D:** ⚠️ Quale voce compare sia nel modello imprenditoriale-manageriale (slide 9) sia nel modello burocratico (slide 10) della lezione 18?
+**R:** La **codificazione analitica delle regole e (delle) procedure**. La slide 9 elenca «Codificazione analitica delle regole e delle procedure» fra le caratteristiche dell'imprenditoriale-manageriale; la slide 10 dice che l'elemento ordinatore/coordinatore del burocratico consegue il risultato programmato «Avvalendosi della codificazione analitica delle regole e procedure». Per la docente nel primo caso indica «l'importanza delle analisi» ([00:20:42]), nel secondo il primo posto delle regole e procedure ([00:23:30]). ⚠️ Non discrimina fra i due modelli.
+**Opzione:** La codificazione analitica delle regole e delle procedure.
+**Distrattori:**
+- La responsabilizzazione rispetto al risultato.
+- Gerarchie e procedure come l'input dell'organizzazione.
+- La misurazione degli scostamenti (gap).
+
+**D:** ⚠️ Come consegue il risultato programmato l'elemento ordinatore/coordinatore del modello burocratico, secondo la slide 10 della lezione 18?
+**R:** «L'elemento ordinatore/coordinatore consegue il risultato programmato: • **Avvalendosi della codificazione analitica delle regole e procedure** • **Impiegando combinazioni produttive predisposte e sperimentate**» (slide 10). La docente: le regole e procedure vanno seguite «in maniera molto precisa», con combinazioni «sperimentate anche nel passato»; il legame con *business experience*, *business history* e apprendimento organizzativo è «molto più forte» ([00:23:25]–[00:24:10]). ⚠️ Combinazioni **predisposte e sperimentate**, non nuove.
+**Opzione:** Avvalendosi della codificazione analitica delle regole e procedure; impiegando combinazioni produttive predisposte e sperimentate.
+**Distrattori:**
+- Avvalendosi della codificazione analitica delle regole e procedure; impiegando combinazioni produttive nuove e innovative.
+- Le istanze di cambiamento avanzate dagli attori del sistema dovevano essere autorizzate.
+- La transizione fra organizzazione esistente e resistente e organizzazione nuova e innovante (dal punto di vista culturale e intellettuale).
+
+**D:** ⚠️ Quali sono, nell'ordine, le voci della cultura del modello burocratico, secondo la slide 10 della lezione 18?
+**R:** «La cultura del modello: • Responsabilizzazione rispetto all'**applicazione delle regole di funzionamento** • **Gerarchie e procedure come l'input** dell'organizzazione • **Comando e obbedienza**, rispetto delle regole e delle procedure **è sufficiente** per perseguire con le risorse a disposizioni i risultati programmati • Il risultato programmato **coincide con l'obiettivo** (nessun scostamento) • **NO errori** di pianificazione e/o di esecuzione» (slide 10). Per la docente non si parla di empowerment, ma del «rispetto necessario delle regole e delle procedure», con una gerarchia «abbastanza rigida»; non ci sono errori «perché come è stato programmato, come è stato scritto, deve essere rispettato» ([00:24:10]–[00:26:03]). ⚠️ La delega e controllo e la tensione agli obiettivi costantemente aggiornati sono del modello imprenditoriale-manageriale (la seconda è la chiave della domanda 4 del test).
+**Opzione:** Responsabilizzazione rispetto all'applicazione delle regole di funzionamento; gerarchie e procedure come l'input dell'organizzazione; comando e obbedienza, rispetto delle regole e delle procedure è sufficiente per perseguire con le risorse a disposizioni i risultati programmati; il risultato programmato coincide con l'obiettivo (nessun scostamento); NO errori di pianificazione e/o di esecuzione.
+**Distrattori:**
+- Responsabilizzazione rispetto all'applicazione delle regole di funzionamento; gerarchie e procedure come l'input dell'organizzazione; comando e obbedienza, rispetto delle regole e delle procedure è sufficiente per perseguire con le risorse a disposizioni i risultati programmati; il risultato programmato coincide con l'obiettivo (nessun scostamento); delega e controllo.
+- Il principio fondamentale della funzionalità o della specificità del modello organizzativo rispetto alla definizione della strategia.
+- Il ri-orientamento a 180 gradi del modello organizzativo: dall'impostazione burocratica a quella imprenditoriale-manageriale.
+
+**D:** ⚠️ Su che cosa tradizionalmente non si basa la cultura del modello burocratico, secondo il test della lezione 18 (domanda 4)?
+**R:** «**Tensione agli obiettivi costantemente aggiornati in relazione al contesto**». È la seconda voce della cultura del modello **imprenditoriale-manageriale** (slide 9), **senza il «Costante»** iniziale: giusta ma non testuale. La docente: gli obiettivi «potrebbero essere cambiati continuamente» ([00:21:19]); nel burocratico invece il risultato programmato coincide con l'obiettivo ([00:25:41]). ⚠️ Lo specchio della domanda 3. Distrattori del test, tre voci della slide 10 alla lettera: «responsabilizzazione rispetto all'applicazione delle regole di funzionamento», «gerarchie e procedure come l'input dell'organizzazione», «il risultato programmato coincide con l'obiettivo (nessun scostamento)».
+**Opzione:** Tensione agli obiettivi costantemente aggiornati in relazione al contesto.
+**Distrattori:**
+- Responsabilizzazione rispetto all'applicazione delle regole di funzionamento.
+- Gerarchie e procedure come l'input dell'organizzazione.
+- Il risultato programmato coincide con l'obiettivo (nessun scostamento).
+
+**D:** ⚠️ Che cosa dice la slide 10 della lezione 18 del rispetto delle regole e delle procedure, nella cultura del modello burocratico?
+**R:** «Comando e obbedienza, rispetto delle regole e delle procedure **è sufficiente** per perseguire con le risorse a disposizioni i risultati programmati» (slide 10). La docente: il rispetto delle regole e delle procedure «è sufficiente secondo questo modello burocratico per perseguire l'obiettivo con le risorse a disposizione»; le regole «sono state sperimentate in passato e quindi sono state scritte così per un motivo» ([00:24:59]–[00:25:25]). ⚠️ **Sufficiente**, non solo necessario; e nell'ambiente **stabile**, dove il burocratico dimostra efficienza ed efficacia superiore (slide 11).
+**Opzione:** È sufficiente per perseguire con le risorse a disposizione i risultati programmati.
+**Distrattori:**
+- È necessario ma non sufficiente per perseguire con le risorse a disposizione i risultati programmati.
+- È sufficiente solo nell'ambiente mutevole e instabile.
+- Mette a rischio il funzionamento dell'organizzazione.
+
+**D:** ⚠️ Che cosa accade nell'ambiente stabile e prevedibile, secondo la slide 11 della lezione 18?
+**R:** «1. Ambiente stabile e prevedibile: • Il **modello burocratico** dimostra **efficienza ed efficacia superiore** • Non ci sono eventi esogeni destabilizzanti • **Gerarchie e procedure** come strumenti organizzativi efficaci ed efficienti» (slide 11). La docente: superiore «rispetto al modello imprenditoriale manageriale» ([00:26:49]–[00:27:07]). ⚠️ Nell'ambiente stabile vince il **burocratico**.
+**Opzione:** Il modello burocratico dimostra efficienza ed efficacia superiore; non ci sono eventi esogeni destabilizzanti; gerarchie e procedure come strumenti organizzativi efficaci ed efficienti.
+**Distrattori:**
+- Il modello imprenditoriale-manageriale dimostra efficienza ed efficacia superiore; non ci sono eventi esogeni destabilizzanti; gerarchie e procedure come strumenti organizzativi efficaci ed efficienti.
+- Cambiamento, innovazione, apprendimento, motivazione, imprenditorialità e altri elementi necessari per rendere l'organizzazione funzionale alle strategie, secondo misure di efficienze ed efficacia.
+- L'inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale.
+
+**D:** ⚠️ Che cosa accade nell'ambiente mutevole e instabile, secondo la slide 11 della lezione 18?
+**R:** «2. Ambiente mutevole e instabile: • Il **modello imprenditoriale-manageriale** costituisce una **condizione di sopravvivenza competitiva** • **Continua riconsiderazione degli obiettivi** in seguito alla misurazione degli scostamenti (quantitativi e qualitativi) dei risultati (apprendimento organizzativo) • **Continuo miglioramento del sistema di risorse** per **sostenere e anticipare** il cambiamento esterno (cogliere le opportunità e minimizzare le minacce)» (slide 11). La docente parla di reattività ma anche di **proattività**: prevedere il cambiamento per cambiare prima che accada ([00:27:23]–[00:29:19]). ⚠️ Il cambiamento esterno si **sostiene e anticipa**.
+**Opzione:** Il modello imprenditoriale-manageriale costituisce una condizione di sopravvivenza competitiva; continua riconsiderazione degli obiettivi in seguito alla misurazione degli scostamenti (quantitativi e qualitativi) dei risultati (apprendimento organizzativo); continuo miglioramento del sistema di risorse per sostenere e anticipare il cambiamento esterno (cogliere le opportunità e minimizzare le minacce).
+**Distrattori:**
+- Il modello imprenditoriale-manageriale costituisce una condizione di sopravvivenza competitiva; continua riconsiderazione degli obiettivi in seguito alla misurazione degli scostamenti (quantitativi e qualitativi) dei risultati (apprendimento organizzativo); continuo miglioramento del sistema di risorse per contenere e ritardare il cambiamento esterno (cogliere le opportunità e minimizzare le minacce).
+- Il sistema organizzato di risorse e di processi preordinati e finalizzati all'implementazione della strategia.
+- Il principio fondamentale della funzionalità o della specificità del modello organizzativo rispetto alla definizione della strategia.
+
+**D:** ⚠️ Quale modello costituisce una condizione di sopravvivenza competitiva nell'ambiente mutevole e instabile, secondo il test della lezione 18 (domanda 5)?
+**R:** «**Modello imprenditoriale-manageriale**». È la slide 11 alla lettera. La docente: l'ambiente mutevole e instabile, «come anche l'ambiente attuale», «richiede il modello imprenditoriale e manageriale e questo modello costituisce una condizione di sopravvivenza competitiva» ([00:27:23]–[00:27:38]). Lega la sopravvivenza alla **sostenibilità economica**, cioè all'esistenza dell'impresa a lungo termine ([00:27:47]). ⚠️ «Tutti e due» non regge: la slide assegna il burocratico all'ambiente **stabile e prevedibile**. Distrattori del test: «modello burocratico», «tutti e due», «nessuno di due» (così).
+**Opzione:** Modello imprenditoriale-manageriale.
+**Distrattori:**
+- Modello burocratico.
+- Tutti e due.
+- Nessuno di due.
+
+**D:** ⚠️ Qual è la sfida del cambiamento organizzativo, secondo la slide 12 della lezione 18?
+**R:** «La sfida del cambiamento organizzativo: **Ri-orientamento - a 180 gradi** - del modello organizzativo: **dall'impostazione burocratica a quella imprenditoriale-manageriale**» (slide 12). Lo schema va dal «Cambiamento dell'ambiente esterno» al «Modello burocratico» al «Modello imprenditoriale-manageriale». Per la docente l'impostazione burocratica è «anche un'impostazione storica di un'istituzione bancaria» ([00:29:45]). ⚠️ Il transcript dice «a **150** gradi» ([00:29:33]): vale la slide, **180**. La direzione è dal burocratico all'imprenditoriale-manageriale.
+**Opzione:** Il ri-orientamento a 180 gradi del modello organizzativo: dall'impostazione burocratica a quella imprenditoriale-manageriale.
+**Distrattori:**
+- Il ri-orientamento a 180 gradi del modello organizzativo: dall'impostazione imprenditoriale-manageriale a quella burocratica.
+- Dalla vigilanza strutturale alla vigilanza prudenziale, nel 1990-2005.
+- Le forme organizzative delle imprese cambiano e vengono cambiate in funzione del cambiamento delle strategie.
+
+**D:** ⚠️ Quando inizia il cambiamento strategico-organizzativo delle banche italiane, secondo la slide 13 della lezione 18?
+**R:** «L'inizio del cambiamento strategico-organizzativo delle banche italiane-> **gli anni '90**» (slide 13), «il momento di massima discontinuità ambientale», con la Legge Amato (1990) e il TUB (1993) ([00:30:18]–[00:30:27]). ⚠️ La lezione 06 apre la nuova fase «a partire dagli anni '80» (slide 10 di quel deck): per questa lezione vale **anni '90**.
+**Opzione:** Gli anni '90.
+**Distrattori:**
+- Gli anni '80.
+- Gli anni '70.
+- Gli anni 2000.
+
+**D:** ⚠️ Quali due norme segnano il momento di massima discontinuità ambientale, e con quali anni, secondo la slide 13 della lezione 18?
+**R:** «• La **Legge Amato (1990** , inizio della privatizzazione delle banche) • Il **Testo Unico delle Leggi in materia bancaria e creditizia, TUB (1993**, inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale)» (slide 13). Per la docente la Legge Amato è «un cambiamento epocale» ([00:30:27]); il TUB «un altro cambiamento esterno dell'ambiente generale» ([00:31:07]). ⚠️ Coppia norma + anno: **Amato 1990**, **TUB 1993**.
+**Opzione:** La Legge Amato (1990, inizio della privatizzazione delle banche); il Testo Unico delle Leggi in materia bancaria e creditizia, TUB (1993, inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale).
+**Distrattori:**
+- La Legge Amato (1993, inizio della privatizzazione delle banche); il Testo Unico delle Leggi in materia bancaria e creditizia, TUB (1990, inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale).
+- Obiettivi e risultati nel modello imprenditoriale-manageriale; regole e procedure nel modello burocratico.
+- Avvalendosi della codificazione analitica delle regole e procedure; impiegando combinazioni produttive predisposte e sperimentate.
+
+**D:** ⚠️ Che cosa avvia o supera il TUB del 1993, secondo la slide 13 della lezione 18?
+**R:** «Il Testo Unico delle Leggi in materia bancaria e creditizia, TUB (1993, **inizio della deregolamentazione e despecializzazione** della banca nella prospettiva del **mercato unico europeo**, **superamento del modello regolamentare della vigilanza strutturale**)» (slide 13). La docente lo ripete ([00:30:53]–[00:31:07]; «despicializzazione» nella trascrizione). ⚠️ Il TUB supera la vigilanza **strutturale**; la privatizzazione è della **Legge Amato** (1990).
+**Opzione:** L'inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza strutturale.
+**Distrattori:**
+- L'inizio della deregolamentazione e despecializzazione della banca nella prospettiva del mercato unico europeo, superamento del modello regolamentare della vigilanza prudenziale.
+- L'inizio della privatizzazione delle banche.
+- Obiettivi e risultati nel modello imprenditoriale-manageriale; regole e procedure nel modello burocratico.
+
+**D:** ⚠️ Come vedeva Giuliano Amato il sistema bancario, secondo la slide 13 della lezione 18?
+**R:** «Giuliano Amato: il sistema bancario come una "**foresta pietrificata**" / "**giardino all'italiana**": • **Bello, ordinato, ricco di esperienze idonee a vivere in ambiente protetto**» (slide 13). Per la docente l'ambiente era protetto perché «vigilato da un'autorità esterna» ([00:31:25]–[00:31:43]). ⚠️ Ambiente **protetto**, non competitivo.
+**Opzione:** Come una foresta pietrificata o un giardino all'italiana: bello, ordinato, ricco di esperienze idonee a vivere in ambiente protetto.
+**Distrattori:**
+- Come una foresta pietrificata o un giardino all'italiana: bello, ordinato, ricco di esperienze idonee a vivere in ambiente competitivo.
+- Come condizioni necessarie del successo (competizione, creazione del valore).
+- Come fattore determinante e distintivo di qualsiasi modello organizzativo.
+
+**D:** ⚠️ In che cosa consisteva il «cambiamento guidato» del sistema bancario, secondo la slide 13 della lezione 18?
+**R:** «Il cambiamento guidato -> le **istanze di cambiamento** avanzate dagli **attori del sistema** dovevano essere "**autorizzate**"» (slide 13). La docente: dovevano essere autorizzate «da quell'autorità della **Banca d'Italia**, per esempio» ([00:31:47]–[00:32:04]); il nome non è nella slide. ⚠️ A chiedere sono gli **attori del sistema**, ad autorizzare l'autorità. La docente dice «il cambiamento quindi è guidato dalle istanze di cambiamento»: nelle opzioni vale la slide.
+**Opzione:** Le istanze di cambiamento avanzate dagli attori del sistema dovevano essere autorizzate.
+**Distrattori:**
+- Le istanze di cambiamento avanzate dalle autorità di vigilanza dovevano essere autorizzate dagli attori del sistema.
+- Le imprese sviluppano nel tempo organizzazioni consolidate e tendenzialmente stabili per motivi di efficienza operativa.
+- La struttura segue la strategia.
+
+**D:** ⚠️ Qual è il momento di discontinuità del sistema bancario, secondo la slide 13 della lezione 18?
+**R:** «Il momento di discontinuità: una nuova situazione di "***empowerment* del banchiere**" (la **responsabilità delle decisioni strategiche di impresa**)» (slide 13). La docente: con la privatizzazione e la riduzione del ruolo dell'autorità di vigilanza si dà potere al banchiere, «al manager, all'imprenditore»; la responsabilità delle decisioni «non è soltanto all'esterno, dall'autorità esterna, ma anche all'interno dell'organizzazione» ([00:32:05]–[00:32:52]). ⚠️ L'empowerment è **del banchiere**. Anche le autorità di vigilanza e controllo devono apprendere (slide 14), ma come «arbitri di un gioco diverso».
+**Opzione:** Una nuova situazione di empowerment del banchiere (la responsabilità delle decisioni strategiche di impresa).
+**Distrattori:**
+- Una nuova situazione di empowerment delle autorità di vigilanza (la responsabilità delle decisioni strategiche di impresa).
+- Una lunga esperienza di regolamentazione da parte delle autorità competenti.
+- Un progressivo indebolimento delle capacità imprenditoriali e di adattamento.
+
+**D:** ⚠️ Chi ha, oltre al banchiere, la responsabilità di apprendere, e su che cosa, secondo la slide 14 della lezione 18?
+**R:** «La responsabilità di apprendere non solo da parte del "banchiere" ma anche da parte delle **autorità di vigilanza e controllo** ("**arbitri di un gioco diverso**" – come regolare il gioco, le relazioni fra i giocatori e l'**ingresso di nuovi giocatori**)» (slide 14). La docente nomina le autorità di vigilanza e controllo ma non legge la parentesi ([00:32:56]). ⚠️ L'elenco si chiude con l'**ingresso** di nuovi giocatori.
+**Opzione:** Le autorità di vigilanza e controllo, arbitri di un gioco diverso: come regolare il gioco, le relazioni fra i giocatori e l'ingresso di nuovi giocatori.
+**Distrattori:**
+- Le autorità di vigilanza e controllo, arbitri di un gioco diverso: come regolare il gioco, le relazioni fra i giocatori e l'uscita dei vecchi giocatori.
+- Modelli di vigilanza strutturale ispirati all'obiettivo di stabilità.
+- Avvalendosi della codificazione analitica delle regole e procedure; impiegando combinazioni produttive predisposte e sperimentate.
+
+**D:** ⚠️ Quale passaggio della vigilanza colloca la slide 14 della lezione 18, e in quale periodo?
+**R:** «Il passaggio **dalla vigilanza strutturale alla vigilanza prudenziale (1990-2005)**» (slide 14). La docente: «il passaggio dalla vigilanza strutturale alla vigilanza prudenziale che accade con il periodo tra 1990 e 2005» ([00:32:56]). ⚠️ La slide 9 della lezione 06 lega invece agli anni '30-'80 l'«approccio della vigilanza prudenziale», e lì è la chiave della domanda 5 del test 06. Per questa lezione: da **strutturale** a **prudenziale**, **1990-2005**.
+**Opzione:** Dalla vigilanza strutturale alla vigilanza prudenziale, nel 1990-2005.
+**Distrattori:**
+- Dalla vigilanza prudenziale alla vigilanza strutturale, nel 1990-2005.
+- Dalla vigilanza strutturale alla vigilanza prudenziale, negli anni '30-'80.
+- Dalla vigilanza prudenziale alla vigilanza strutturale, negli anni '30-'80.
+
+**D:** ⚠️ Come presenta la slide 14 della lezione 18 la caratterizzazione culturale?
+**R:** «La caratterizzazione culturale come **fattore determinante e distintivo di qualsiasi modello organizzativo**, l'attitudine di generare e sviluppare: (…)» (slide 14, in grassetto). La docente la lega al potere decisionale che «si sposta da un'autorità esterna» all'interno, al manager, al titolare, al vertice aziendale ([00:33:19]–[00:33:51]). ⚠️ **Qualsiasi** modello organizzativo, non solo l'imprenditoriale-manageriale.
+**Opzione:** Come fattore determinante e distintivo di qualsiasi modello organizzativo.
+**Distrattori:**
+- Come fattore determinante e distintivo del solo modello imprenditoriale-manageriale.
+- Come condizioni necessarie del successo (competizione, creazione del valore).
+- Prospettiva di sistema naturale.
+
+**D:** ⚠️ Che cosa genera e sviluppa la caratterizzazione culturale, secondo la slide 14 della lezione 18?
+**R:** «L'attitudine di generare e sviluppare: • Cambiamento • Innovazione • Apprendimento • Motivazione • Imprenditorialità • **…Altri elementi** necessari per rendere l'organizzazione funzionale alle strategie, secondo misure di efficienze ed efficacia» (slide 14; «efficienze» così). La docente: «e anche altri elementi necessari per rendere l'organizzazione funzionale alle strategie secondo misure di efficienza ed efficacia» ([00:33:27]). ⚠️ L'elenco è **aperto**: non si chiude con l'imprenditorialità.
+**Opzione:** Cambiamento, innovazione, apprendimento, motivazione, imprenditorialità e altri elementi necessari per rendere l'organizzazione funzionale alle strategie, secondo misure di efficienze ed efficacia.
+**Distrattori:**
+- Soltanto cambiamento, innovazione, apprendimento, motivazione e imprenditorialità, secondo misure di efficienze ed efficacia.
+- Mette a rischio il funzionamento dell'organizzazione.
+- Al caso 1.2, diversificazione del mercato e dei segmenti di mercato.
+
+**D:** Perché le banche hanno storicamente avuto un'impostazione burocratica, e che cosa ha cambiato le cose?
+**R:** Per la slide 4 le banche hanno alle spalle una lunga esperienza di regolamentazione e modelli di vigilanza strutturale ispirati all'obiettivo di stabilità: sono organizzazioni strutturate, stabili, autoreferenziali e resistenti al cambiamento, con un progressivo indebolimento delle capacità imprenditoriali. Per Amato il sistema era un «giardino all'italiana» idoneo a vivere in ambiente protetto, e il cambiamento era guidato, con istanze da autorizzare (slide 13). Nell'ambiente stabile il modello burocratico dimostrava efficienza ed efficacia superiore (slide 11), e per la docente è «un'impostazione storica di un'istituzione bancaria» ([00:29:45]). Hanno cambiato le cose, negli anni '90, la Legge Amato (1990) e il TUB (1993), con l'empowerment del banchiere e il passaggio alla vigilanza prudenziale (1990-2005). L'ambiente è diventato mutevole e instabile, e lì il modello imprenditoriale-manageriale è condizione di sopravvivenza competitiva.
+
+## Lezione 19 — Gli orientamenti strategici per la definizione del cambiamento organizzativo
+
+**D:** ⚠️ Quali sono i 2 orientamenti di fondo delle strategie bancarie, secondo la slide 2 della lezione 19?
+**R:** «2 orientamenti di fondo delle strategie bancarie: 1. La **crescita dimensionale** nelle **ASA già frequentate** 2. La **diversificazione del portafoglio di attività** in **ASA diverse (ma correlate)**» (slide 2). La docente: la prima è «l'aumento delle dimensioni organizzative»; la seconda riguarda aree strategiche d'affari «diverse da quelle già frequentate dalla banca ma comunque in qualche modo correlate», e parla «soprattutto della diversificazione dei prodotti e servizi» ([00:00:14]–[00:01:00]). ⚠️ La crescita dimensionale sta nelle ASA **già frequentate**, la diversificazione in ASA **diverse ma correlate**. Il caso UniCredit (slide 8) aggiunge una terza strategia, l'espansione geografica, che qui non c'è.
+**Opzione:** La crescita dimensionale nelle ASA già frequentate; la diversificazione del portafoglio di attività in ASA diverse (ma correlate).
+**Distrattori:**
+- La crescita dimensionale in ASA diverse (ma correlate); la diversificazione del portafoglio di attività nelle ASA già frequentate.
+- Retail, Corporate, Private Banking and Asset Management.
+- Una banca più semplice, che li conosca sempre meglio e che assicuri i tempi di risposta più veloci.
+
+**D:** ⚠️ Su quali 2 orientamenti delle strategie bancarie si basa genericamente il cambiamento organizzativo, secondo il test della lezione 19 (domanda 2)?
+**R:** «**Crescita dimensionale, diversificazione del portafoglio**». È la slide 2 accorciata: «1. La crescita dimensionale nelle ASA già frequentate 2. La diversificazione del portafoglio di attività in ASA diverse (ma correlate)» ([00:00:14]–[00:00:34]). ⚠️ La responsabilità sociale d'impresa compare solo alla fine della lezione, nel commento della docente a «Insieme per i clienti» ([00:33:19]); il codice etico e il wellbeing non compaiono nello strato di testo dei 30 deck né nei 22 transcript disponibili. «Mission e vision» viene dal pool condiviso (test 01, 05, 15 e 16), la reputazione è una leva della differenziazione dell'impresa (lezione 11). Distrattori del test: «sviluppo del codice etico e aumento della responsabilità sociale d'impresa», «revisione delle mission e vision», «miglioramento della reputazione e del wellbeing aziendale».
+**Opzione:** Crescita dimensionale, diversificazione del portafoglio.
+**Distrattori:**
+- Sviluppo del codice etico e aumento della responsabilità sociale d'impresa.
+- Revisione delle mission e vision.
+- Miglioramento della reputazione e del wellbeing aziendale.
+
+**D:** ⚠️ Quale delle due strategie bancarie dipende dall'altra, secondo la slide 2 della lezione 19?
+**R:** «Le strategia 2 dipende dalla strategia 1» (slide 2, così): la **diversificazione** del portafoglio dipende dalla **crescita dimensionale**. La docente attenua: «la strategia due **spesso** dipende anche dalla strategia numero uno, quindi sono due strategie che vengono sviluppate contemporaneamente» ([00:01:21]). ⚠️ La direzione va dalla 1 alla 2, non il contrario.
+**Opzione:** La strategia 2 (diversificazione) dipende dalla strategia 1 (crescita dimensionale).
+**Distrattori:**
+- La strategia 1 (crescita dimensionale) dipende dalla strategia 2 (diversificazione).
+- Progettazione di un'organizzazione flessibile.
+- La misurazione dei risultati del cambiamento precedente.
+
+**D:** ⚠️ Per quali due motivi la strategia 2 dipende dalla strategia 1, secondo la slide 2 della lezione 19?
+**R:** «• **Preferenza verso l'integrazione verticale** dei processi produttivi e distributivi • Problema della **dimensione minima diversificabile** e **diversificazione massima sostenibile**» (slide 2). Per la docente l'integrazione verticale richiede lo sviluppo sia del portafoglio sia della dimensione operativa; il secondo motivo è il range fra la misura minima in cui si può diversificare e la diversificazione massima sostenibile ([00:01:38]–[00:02:30]). ⚠️ **Minima** è la dimensione diversificabile, **massima** la diversificazione sostenibile.
+**Opzione:** Preferenza verso l'integrazione verticale dei processi produttivi e distributivi; problema della dimensione minima diversificabile e diversificazione massima sostenibile.
+**Distrattori:**
+- Preferenza verso l'integrazione verticale dei processi produttivi e distributivi; problema della dimensione massima diversificabile e diversificazione minima sostenibile.
+- Elevata intensità e frequenza di cambiamento; attuazione delle rapide strategie di sviluppo dimensionale, espansione geografica, diversificazione.
+- Segmentazione in relazione alla clientela; consolidamento di sistemi informativi e di Back Office; strategia di crescita (espansione nei mercati CEE in via di sviluppo – acquisizione di Bank Pekao Polonia).
+
+**D:** ⚠️ Verso che cosa porta la scelta di sviluppare la dimensione operativa e/o la diversificazione, secondo la slide 2 della lezione 19?
+**R:** «La scelta di sviluppare la dimensione operative e/o diversificazione -> **linee di sviluppo esterno**» (slide 2, così, con la freccia e le ultime parole sottolineate). La docente dice «non soltanto interno ma anche interno» ([00:02:37]), un lapsus per «esterno». ⚠️ **Esterno**: lo sviluppo passa per l'acquisto di produttori già funzionanti, e la slide aggiunge che «Non sono sviluppi organici».
+**Opzione:** Linee di sviluppo esterno.
+**Distrattori:**
+- Linee di sviluppo interno.
+- Sviluppi organici.
+- Integrazione verticale dei processi produttivi e distributivi.
+
+**D:** ⚠️ Che cosa caratterizza le linee di sviluppo esterno, secondo la slide 2 della lezione 19?
+**R:** «• L'**acquisto di combinazioni produttive e di produttori già funzionanti** (già organizzati) • **Non sono sviluppi organici** (non sono organizzati con lo sviluppo dell'org.ne esistente)» (slide 2). Per la docente con la crescita o la diversificazione servono risorse, per esempio le risorse umane e le competenze per entrare in un nuovo mercato, che si possono acquistare dall'esterno anche come «un'organizzazione funzionante»; gli sviluppi organici sono invece «lo sviluppo dell'organico interno» ([00:02:53]–[00:04:10]). ⚠️ La negazione conta: **non** sono sviluppi organici.
+**Opzione:** L'acquisto di combinazioni produttive e di produttori già funzionanti (già organizzati); non sono sviluppi organici (non sono organizzati con lo sviluppo dell'organizzazione esistente).
+**Distrattori:**
+- L'acquisto di combinazioni produttive e di produttori già funzionanti (già organizzati); sono sviluppi organici (sono organizzati con lo sviluppo dell'organizzazione esistente).
+- Il gruppo di lavoro che gestisce i processi di riorganizzazione, transizione o migrazione da uno stato organizzativo all'altro.
+- La modifica dell'efficacia e dell'equità dei sistemi di incentivazione.
+
+**D:** ⚠️ Qual è il punto segnato con «+» fra le criticità del cambiamento organizzativo, secondo la slide 3 della lezione 19?
+**R:** «+ **Acquisizione** dell'organizzazione già funzionante e ben organizzata (incorporazione/fusione)» (slide 3). La docente: «se parliamo dal punto di vista positivo ovviamente il vantaggio è quello di acquisire un'organizzazione già funzionante e ben organizzata», che ha già strategia, processi, struttura, risorse e know-how ([00:04:14]–[00:04:55]). ⚠️ Il «−» è l'**integrazione** dell'organizzazione.
+**Opzione:** Acquisizione dell'organizzazione già funzionante e ben organizzata (incorporazione/fusione).
+**Distrattori:**
+- Integrazione dell'organizzazione (problemi organizzativi legati all'integrabilità fra organizzazione acquirente e organizzazione acquisita).
+- Progettazione di un'organizzazione flessibile.
+
+**D:** ⚠️ Qual è il punto segnato con «−» fra le criticità del cambiamento organizzativo, secondo la slide 3 della lezione 19?
+**R:** «- **Integrazione dell'organizzazione** (problemi organizzativi legati all'integrabilità fra organizzazione acquirente e organizzazione acquisita)» (slide 3). La docente: «dal punto di vista degli elementi negativi, degli svantaggi […] parliamo dei problemi organizzativi legati all'integrabilità fra questa organizzazione autonoma già esistente e nuova con la nostra organizzazione» ([00:05:15]). ⚠️ La slide dice integrazione **dell'organizzazione**, non della cultura: nella domanda 3 del test la piattaforma segna «integrazione di una nuova cultura organizzativa» come la voce che non è una criticità.
+**Opzione:** Integrazione dell'organizzazione (problemi organizzativi legati all'integrabilità fra organizzazione acquirente e organizzazione acquisita).
+**Distrattori:**
+- Acquisizione dell'organizzazione già funzionante e ben organizzata (incorporazione/fusione).
+- Abbiamo ripensato il nostro modello, riorganizzato le nostre reti e costruito una banca unica.
+
+**D:** ⚠️ Che cosa diventa l'impresa con il processo di riorganizzazione continuo, secondo la slide 3 della lezione 19?
+**R:** «L'impresa come "**un cantiere organizzativo**" **permanente**» (slide 3, dopo la freccia: «Il processo di riorganizzazione continuo»). La docente: l'impresa «diventa un cantiere organizzativo permanente e quindi ovviamente ha delle criticità. Quindi il cambiamento praticamente che non si ferma mai» ([00:05:52]–[00:06:11]). ⚠️ Il cantiere è **permanente**, non temporaneo.
+**Opzione:** Un cantiere organizzativo permanente.
+**Distrattori:**
+- Un cantiere organizzativo temporaneo.
+- Razionalità della struttura.
+- Espansione geografica.
+
+**D:** ⚠️ Quali sono, nell'ordine, i 4 aspetti da considerare nel cambiamento organizzativo, secondo la slide 4 della lezione 19?
+**R:** «4 aspetti da considerare: 1. Il **costo organizzativo** di questa modalità di sviluppo 2. La necessità di **formare gruppi di persone**, combinazioni di professionalità (un'unità organizzativa dedicata ai "cantieri") 3. Il cambiamento org.vo comporta **rischi crescenti di demotivazione** delle persone 4. La **sovrapposizione nel tempo** di interventi di cambiamento (sequenza ravvicinata) rende **più difficile la valutazione** del cambiamento (obiettivi/risultati raggiunti)» (slide 4). La docente li chiama aspetti «che dobbiamo considerare necessariamente»: costi e benefici, la *transformation unit*, il benessere organizzativo, la valutazione di un cambiamento non ancora concluso quando ne parte un altro ([00:06:15]–[00:09:37]). ⚠️ La sovrapposizione rende la valutazione **più difficile**.
+**Opzione:** Il costo organizzativo di questa modalità di sviluppo; la necessità di formare gruppi di persone, combinazioni di professionalità (un'unità organizzativa dedicata ai «cantieri»); il cambiamento organizzativo comporta rischi crescenti di demotivazione delle persone; la sovrapposizione nel tempo di interventi di cambiamento (sequenza ravvicinata) rende più difficile la valutazione del cambiamento (obiettivi/risultati raggiunti).
+**Distrattori:**
+- Il costo organizzativo di questa modalità di sviluppo; la necessità di formare gruppi di persone, combinazioni di professionalità (un'unità organizzativa dedicata ai «cantieri»); il cambiamento organizzativo comporta rischi crescenti di demotivazione delle persone; la sovrapposizione nel tempo di interventi di cambiamento (sequenza ravvicinata) rende più facile la valutazione del cambiamento (obiettivi/risultati raggiunti).
+- Unicredit Banca, Unicredit Banca di Roma, Banco di Sicilia, Unicredit Corporate Banking, Unicredit Private Banking, Unicredit Family Financing Bank, Unicredit Bancassurance Management & Administration.
+- La relazione tra strategia e struttura: la nuova struttura è stata richiesta dal cambiamento di strategia, sviluppata in base alle richieste del mercato.
+
+**D:** ⚠️ Quale tra integrazione di una nuova cultura organizzativa, aumento dei costi organizzativi legati alla creazione di un'unità organizzativa dedicata, rischi crescenti di demotivazione delle persone e difficile valutazione del risultato nel caso di cambiamenti ravvicinati non è una criticità del cambiamento organizzativo, secondo il test della lezione 19 (domanda 3)?
+**R:** «**Integrazione di una nuova cultura organizzativa**» per la chiave della piattaforma, ma 🚨 la domanda è **ambigua**. La slide 3 s'intitola «Criticità del cambiamento organizzativo» ed elenca «+ Acquisizione dell'organizzazione già funzionante e ben organizzata» e «- **Integrazione dell'organizzazione** (problemi organizzativi legati all'integrabilità fra organizzazione acquirente e organizzazione acquisita)» ([00:05:15]): la chiave cambia solo l'oggetto, la cultura al posto dell'organizzazione. E nella lezione 18 (slide 3) la criticità del cambiamento è la transizione verso l'organizzazione nuova e innovante «dal punto di vista culturale e intellettuale». Le altre tre opzioni sono i 4 aspetti della slide 4, che la docente tratta come criticità ([00:08:13], [00:12:44]): i rischi crescenti di demotivazione alla lettera, la valutazione resa più difficile dalla sequenza ravvicinata, e i costi organizzativi fusi con l'unità dedicata ai «cantieri». Si segna la cultura, l'unica voce fuori dalla slide 4 e assente dalla slide 3. ⚠️ Se la domanda tornasse con «integrazione dell'organizzazione» fra le opzioni, quella **sarebbe** una criticità. La piattaforma scrive «raggiuto».
+**Opzione:** Integrazione di una nuova cultura organizzativa.
+**Distrattori:**
+- Aumento dei costi organizzativi legati alla creazione di un'unità organizzativa dedicata.
+- Rischi crescenti di demotivazione delle persone.
+- Difficile valutazione del risultato raggiuto rispetto all'obiettivo nel caso di cambiamenti ravvicinati.
+
+**D:** ⚠️ Che cosa comporta il cambiamento organizzativo per le persone, secondo il terzo dei 4 aspetti da considerare della slide 4 della lezione 19?
+**R:** «3. Il cambiamento org.vo comporta **rischi crescenti di demotivazione delle persone**» (slide 4). La docente: con l'acquisizione e la fusione con imprese esterne le persone sono più demotivate, e la criticità richiede strumenti «mirati all'aumento del benessere organizzativo» ([00:07:21]–[00:08:32]). ⚠️ I rischi sono **crescenti**. Gli effetti della demotivazione sono nella slide 6.
+**Opzione:** Rischi crescenti di demotivazione delle persone.
+**Distrattori:**
+- Rischi decrescenti di demotivazione delle persone.
+- Un cantiere organizzativo permanente.
+- La misurazione dei risultati del cambiamento precedente.
+
+**D:** ⚠️ Che cosa dice la slide 5 della lezione 19 della necessità di formare gruppi di persone (un'unità organizzativa dedicata ai «cantieri»)?
+**R:** «• Il **gruppo di lavoro** che gestisce i processi di **riorganizzazione, transizione o migrazione** da uno stato organizzativo all'altro • Un problema costante di adeguatezza delle ***organizational capabilities*** (consolidamento per razionalizzazione dell'esperienza) • Le acquisizioni successive vengono gestite **meglio** di quelle precedenti» (slide 5). Per la docente le capacità organizzative devono favorire il cambiamento e ridurre la resistenza al cambiamento; le acquisizioni successive sono gestite meglio «normalmente», per l'effetto dell'esperienza e dell'apprendimento organizzativo ([00:09:45]–[00:12:24]). ⚠️ **Meglio**, non peggio.
+**Opzione:** Il gruppo di lavoro che gestisce i processi di riorganizzazione, transizione o migrazione da uno stato organizzativo all'altro; un problema costante di adeguatezza delle organizational capabilities (consolidamento per razionalizzazione dell'esperienza); le acquisizioni successive vengono gestite meglio di quelle precedenti.
+**Distrattori:**
+- Il gruppo di lavoro che gestisce i processi di riorganizzazione, transizione o migrazione da uno stato organizzativo all'altro; un problema costante di adeguatezza delle organizational capabilities (consolidamento per razionalizzazione dell'esperienza); le acquisizioni successive vengono gestite peggio di quelle precedenti.
+- Credito Italiano + Rolo Banca 1473, CariVerona, Banca CRT, Cassamarca, Cassa di Risparmio di Trento e Rovereto, Cassa di Risparmio di Trieste.
+- Un concetto economico che si verifica quando un agente economico cerca di ottenere ricchezza aggiuntiva senza alcun contributo reciproco di produttività.
+
+**D:** ⚠️ Che cos'è l'unità organizzativa dedicata ai «cantieri», secondo la slide 5 della lezione 19?
+**R:** «Il **gruppo di lavoro** che gestisce i processi di **riorganizzazione, transizione o migrazione** da uno stato organizzativo all'altro» (slide 5). Per la docente in diverse banche si chiama «ricerca e sviluppo» o «transformation unit» ([00:07:07]), e può essere un'unità stabile o un gruppo creato ad hoc ([00:09:45]–[00:10:33]). ⚠️ L'ottimizzazione delle strutture di costo e dei processi interni è invece il compito della divisione Global Banking Services di UniCredit (slide 10).
+**Opzione:** Il gruppo di lavoro che gestisce i processi di riorganizzazione, transizione o migrazione da uno stato organizzativo all'altro.
+**Distrattori:**
+- Il gruppo di lavoro che gestisce l'ottimizzazione delle strutture di costo e dei processi interni del Gruppo.
+- Riduzione del grado di coinvolgimento nel cambiamento.
+
+**D:** ⚠️ Come vengono gestite le acquisizioni successive rispetto a quelle precedenti, secondo la slide 5 della lezione 19?
+**R:** «Le acquisizioni successive vengono gestite **meglio** di quelle precedenti» (slide 5). La docente: «le acquisizioni successive normalmente vengono gestite meglio di quelle precedenti, proprio per l'effetto di organizational capabilities, di esperienza, di apprendimento organizzativo» ([00:12:05]–[00:12:24]). ⚠️ Meglio, per effetto dell'esperienza: l'avverbio «normalmente» è della docente.
+**Opzione:** Meglio di quelle precedenti.
+**Distrattori:**
+- Peggio di quelle precedenti.
+- Allo stesso modo di quelle precedenti.
+
+**D:** Quale soluzione preferiscono spesso le istituzioni bancarie per il gruppo di lavoro dedicato ai «cantieri», secondo la docente nella lezione 19?
+**R:** Per la docente il gruppo può essere un'unità organizzativa **stabile**, che esiste durante tutta la vita organizzativa e si può modificare o eliminare, oppure un gruppo di lavoro creato **ad hoc**, che opera «soltanto nel momento in cui avviene il cambiamento». Siccome il cambiamento è continuo, «spesso insomma le istituzioni bancarie optano, preferiscono la soluzione numero uno, quindi avere un'unità organizzativa stabile che aiuta ad avviare i processi di trasformazione» ([00:10:14]–[00:10:56]). La slide 5 non lo dice: è solo nel transcript.
+**Opzione:** Un'unità organizzativa stabile, che aiuta ad avviare i processi di trasformazione.
+**Distrattori:**
+- Un gruppo di lavoro ad hoc, che opera soltanto nel momento in cui avviene il cambiamento.
+- L'introduzione del lavoro agile (smart working).
+
+**D:** ⚠️ Quali sono, nell'ordine, gli effetti della demotivazione delle persone, secondo la slide 6 della lezione 19?
+**R:** «Demotivazione delle persone • **Impossibilità di conseguire il risultato** del cambiamento organizzativo (il cambiamento Riformula e riposiziona gli obiettivi) • **Riduzione del grado di coinvolgimento** nel cambiamento (comportamento di attesa del "cambiamento successivo") • **Sviluppo delle attitudini di sfruttamento** del cambiamento (comportamenti opportunistici *free riding* e *rent seeking*)» (slide 6). La docente: i collaboratori non capiscono se i loro comportamenti portano all'obiettivo, restano spettatori passivi, e poi cercano di sfruttare il cambiamento ([00:12:53]–[00:14:34]). ⚠️ Il coinvolgimento si **riduce**, non aumenta. La **riduzione della remunerazione** non c'è: è l'intrusa della domanda 1 del test.
+**Opzione:** Impossibilità di conseguire il risultato del cambiamento organizzativo (il cambiamento riformula e riposiziona gli obiettivi); riduzione del grado di coinvolgimento nel cambiamento (comportamento di attesa del cambiamento successivo); sviluppo delle attitudini di sfruttamento del cambiamento (comportamenti opportunistici free riding e rent seeking).
+**Distrattori:**
+- Impossibilità di conseguire il risultato del cambiamento organizzativo (il cambiamento riformula e riposiziona gli obiettivi); aumento del grado di coinvolgimento nel cambiamento (comportamento di attesa del cambiamento successivo); sviluppo delle attitudini di sfruttamento del cambiamento (comportamenti opportunistici free riding e rent seeking).
+- Preferenza verso l'integrazione verticale dei processi produttivi e distributivi; problema della dimensione minima diversificabile e diversificazione massima sostenibile.
+- Segmentazione in relazione alla clientela; consolidamento di sistemi informativi e di Back Office; strategia di crescita (espansione nei mercati CEE in via di sviluppo – acquisizione di Bank Pekao Polonia).
+
+**D:** ⚠️ Quale tra riduzione del grado di coinvolgimento nel cambiamento, sviluppo di comportamenti opportunistici, riduzione dell'efficacia e della produttività e riduzione della remunerazione normalmente non si verifica a seguito della demotivazione delle persone causata dai cambiamenti organizzativi, secondo il test della lezione 19 (domanda 1)?
+**R:** «**Riduzione della remunerazione**». La slide 6 elenca l'impossibilità di conseguire il risultato, la riduzione del grado di coinvolgimento nel cambiamento e lo sviluppo delle attitudini di sfruttamento del cambiamento (comportamenti opportunistici), e dopo la freccia «Effetto di banalizzazione • Una cultura negazionista del cambiamento • Riduzione dell'efficacia». La remunerazione non c'è ([00:12:53]–[00:18:44]). ⚠️ La trappola è la riduzione dell'efficacia: è nella slide, mentre la **produttività** viene dal transcript, a proposito del *rent seeking* ([00:18:11]). I sistemi di incentivazione sono nella slide 7 e vengono **modificati**, non ridotti. Distrattori del test: «riduzione del grado di coinvolgimento nel cambiamento», «sviluppo di comportamenti opportunistici», «riduzione dell'efficaicla e della produttività» (così).
+**Opzione:** Riduzione della remunerazione.
+**Distrattori:**
+- Riduzione del grado di coinvolgimento nel cambiamento.
+- Sviluppo di comportamenti opportunistici.
+- Riduzione dell'efficaicla e della produttività.
+
+**D:** ⚠️ Che cosa spiega, fra parentesi, l'impossibilità di conseguire il risultato del cambiamento organizzativo, primo effetto della demotivazione nella slide 6 della lezione 19?
+**R:** «(il cambiamento **Riformula e riposiziona gli obiettivi**)» (slide 6, con la maiuscola). La docente: il cambiamento continuo «richiede poi riformulazione degli obiettivi continuamente», e i collaboratori non riescono a capire se i loro comportamenti hanno portato al risultato: «diventa un po' stressante e frustrante» ([00:12:53]–[00:13:45]). ⚠️ L'attesa del cambiamento successivo è della **riduzione del coinvolgimento**, i comportamenti opportunistici dello **sfruttamento**.
+**Opzione:** Il cambiamento riformula e riposiziona gli obiettivi.
+**Distrattori:**
+- Comportamento di attesa del cambiamento successivo.
+- Comportamenti opportunistici free riding e rent seeking.
+
+**D:** ⚠️ Quale comportamento accompagna la riduzione del grado di coinvolgimento nel cambiamento, secondo la slide 6 della lezione 19?
+**R:** «(comportamento di **attesa** del "**cambiamento successivo**")» (slide 6). La docente: i dipendenti demotivati partecipano di meno e «rimangono praticamente passivi, spettatori per vedere quello che sarà», ed eseguono gli ordini dei responsabili ([00:13:45]–[00:14:24]). ⚠️ La riformulazione degli obiettivi spiega l'**impossibilità di conseguire il risultato**, i comportamenti opportunistici lo **sfruttamento**.
+**Opzione:** Comportamento di attesa del cambiamento successivo.
+**Distrattori:**
+- Il cambiamento riformula e riposiziona gli obiettivi.
+- Comportamenti opportunistici free riding e rent seeking.
+
+**D:** ⚠️ Quali comportamenti accompagnano lo sviluppo delle attitudini di sfruttamento del cambiamento, secondo la slide 6 della lezione 19?
+**R:** «(**comportamenti opportunistici** *free riding* e *rent seeking*)» (slide 6, con le definizioni in nota). La docente: «da un punto di vista siamo passivi, non partecipiamo al cambiamento […] ma quando è possibile in qualche modo il cambiamento lo cerchiamo di sfruttare» ([00:14:24]–[00:14:53]). ⚠️ L'attesa del cambiamento successivo accompagna la **riduzione del coinvolgimento**.
+**Opzione:** Comportamenti opportunistici free riding e rent seeking.
+**Distrattori:**
+- Comportamento di attesa del cambiamento successivo.
+- Il cambiamento riformula e riposiziona gli obiettivi.
+
+**D:** ⚠️ Chi è il free rider, secondo la nota della slide 6 della lezione 19?
+**R:** «*Free rider* è l'agente economico che attua un **comportamento opportunistico** finalizzato a **fruire pienamente** di un bene (o servizio) **prodotto collettivamente**, **senza contribuire in maniera efficiente** alla sua costituzione» (slide 6). Per la docente nel caso aziendale è «un dipendente, un collaboratore» che ha avuto un ruolo passivo nel cambiamento e poi, quando vede che funziona, cerca di sfruttarlo ([00:14:53]–[00:15:43]). ⚠️ **Senza** contribuire; la ricchezza aggiuntiva senza contributo di produttività è il *rent seeking*. È la domanda 4 del test, alla lettera.
+**Opzione:** L'agente economico che attua un comportamento opportunistico finalizzato a fruire pienamente di un bene (o servizio) prodotto collettivamente, senza contribuire in maniera efficiente alla sua costituzione.
+**Distrattori:**
+- L'agente economico che attua un comportamento opportunistico finalizzato a fruire pienamente di un bene (o servizio) prodotto collettivamente, contribuendo in maniera efficiente alla sua costituzione.
+- Un concetto economico che si verifica quando un agente economico cerca di ottenere ricchezza aggiuntiva senza alcun contributo reciproco di produttività.
+- L'acquisto di combinazioni produttive e di produttori già funzionanti (già organizzati); non sono sviluppi organici (non sono organizzati con lo sviluppo dell'organizzazione esistente).
+
+**D:** ⚠️ Che cos'è il rent seeking, secondo la nota della slide 6 della lezione 19?
+**R:** «*Rent seeking* è un concetto economico che si verifica quando un agente economico cerca di ottenere **ricchezza Aggiuntiva** **senza alcun contributo reciproco di produttività**» (slide 6, con la maiuscola). Per la docente l'organizzazione si trasforma sperando in una produttività maggiore; il dipendente usa la nuova modalità ma «non dà quel beneficio, quella cosa in più», e l'aumento di produttività non si verifica ([00:17:02]–[00:18:38]). ⚠️ **Senza** contributo di produttività. Chi fruisce di un bene prodotto collettivamente senza contribuire alla sua costituzione è il *free rider*.
+**Opzione:** Un concetto economico che si verifica quando un agente economico cerca di ottenere ricchezza aggiuntiva senza alcun contributo reciproco di produttività.
+**Distrattori:**
+- Un concetto economico che si verifica quando un agente economico cerca di ottenere ricchezza aggiuntiva in cambio di un contributo reciproco di produttività.
+- L'agente economico che attua un comportamento opportunistico finalizzato a fruire pienamente di un bene (o servizio) prodotto collettivamente, senza contribuire in maniera efficiente alla sua costituzione.
+- Effetto di banalizzazione; una cultura negazionista del cambiamento; riduzione dell'efficacia.
+
+**D:** ⚠️ Come si chiama l'agente economico che attua un comportamento opportunistico finalizzato a fruire pienamente di un bene (o servizio) prodotto collettivamente, senza contribuire in maniera efficiente alla sua costituzione, secondo il test della lezione 19 (domanda 4)?
+**R:** «**Free rider**». È la nota della slide 6 alla lettera; la docente: «free reader [così la trascrizione] è l'agente economico, quindi nel nostro caso un dipendente, un collaboratore» ([00:14:53]). ⚠️ Il *toxic management* è della lezione 04, dove la docente nomina anche la *toxic leadership* ([00:18:36] di quel transcript); «charismatic leader» e «marginal workers» non compaiono nello strato di testo dei 30 deck né nei 22 transcript disponibili. L'autorità «carismatica» è di Weber (lezione 17). Distrattori del test: «toxic manager», «charismatic leader», «marginal workers».
+**Opzione:** Free rider.
+**Distrattori:**
+- Toxic manager.
+- Charismatic leader.
+- Marginal workers.
+
+**D:** Con quale esempio la docente illustra il free riding e il rent seeking nella lezione 19?
+**R:** Con l'introduzione del **lavoro agile** (*smart working*), avviata da diverse aziende «tanti anni fa prima del covid» ([00:15:43]). **Free riding**: alcuni dipendenti, abituati a una cultura che premiava chi stava in ufficio, erano resistenti al cambiamento; capiti i benefici, hanno cercato di sfruttarli «senza aver contribuito» ([00:16:01]–[00:17:02]). **Rent seeking**: il lavoro agile doveva aumentare la produttività, perché migliora il *work life balance*; il dipendente lo usa, ma «quell'aumento di produttività non si verifica» ([00:17:32]–[00:18:38]). L'esempio è solo nel transcript.
+**Opzione:** L'introduzione del lavoro agile (smart working).
+**Distrattori:**
+- Il Progetto S3.
+- Il programma Insieme per i clienti.
+- La fusione con Hypo Vereinsbank Group (HVB).
+
+**D:** ⚠️ A che cosa porta la demotivazione delle persone, secondo la freccia in fondo alla slide 6 della lezione 19?
+**R:** «**Effetto di banalizzazione** • **Una cultura negazionista del cambiamento** • **Riduzione dell'efficacia**» (slide 6). La docente: «una cultura organizzativa molto resistente al cambiamento, effetto anche di banalizzazione della necessità di quel cambiamento che è in corso, una cultura negazionista del cambiamento e la riduzione di conseguenza anche dell'efficacia di tutte quelle iniziative» ([00:18:44]). ⚠️ Riduzione dell'**efficacia**, non della remunerazione.
+**Opzione:** Effetto di banalizzazione; una cultura negazionista del cambiamento; riduzione dell'efficacia.
+**Distrattori:**
+- Effetto di banalizzazione; una cultura negazionista del cambiamento; riduzione della remunerazione.
+- Abbiamo ripensato il nostro modello, riorganizzato le nostre reti e costruito una banca unica.
+- Una banca più semplice, che li conosca sempre meglio e che assicuri i tempi di risposta più veloci.
+
+**D:** ⚠️ Quali sono, nell'ordine, le difficoltà di consuntivazione del cambiamento, secondo la slide 7 della lezione 19?
+**R:** «La difficoltà di consuntivazione del cambiamento • La **sovrapposizione** dei cambiamenti nel tempo • Ogni nuovo cambiamento rende difficile la misurazione dei risultati del cambiamento **precedente** • Difficoltà a mantenere lo stesso **standard metodologico** • Difficoltà di condurre un **benchmark** (misure di performance degli stessi interventi, valutazione dei processi destinatari di tali interventi) • **Minore attendibilità delle misure di performance** nello spazio e nel tempo -> modifica dell'efficacia e dell'equità dei sistemi di incentivazione» (slide 7). Per la docente la sovrapposizione rende «molto complicata» l'analisi dei costi e dei benefici; i sistemi di incentivazione diventano meno trasparenti ([00:19:08]–[00:21:25]). ⚠️ Attendibilità **minore**; l'«assunzione di nuovo personale» non c'è.
+**Opzione:** La sovrapposizione dei cambiamenti nel tempo; ogni nuovo cambiamento rende difficile la misurazione dei risultati del cambiamento precedente; difficoltà a mantenere lo stesso standard metodologico; difficoltà di condurre un benchmark (misure di performance degli stessi interventi, valutazione dei processi destinatari di tali interventi); minore attendibilità delle misure di performance nello spazio e nel tempo -> modifica dell'efficacia e dell'equità dei sistemi di incentivazione.
+**Distrattori:**
+- La sovrapposizione dei cambiamenti nel tempo; ogni nuovo cambiamento rende difficile la misurazione dei risultati del cambiamento precedente; difficoltà a mantenere lo stesso standard metodologico; difficoltà di condurre un benchmark (misure di performance degli stessi interventi, valutazione dei processi destinatari di tali interventi); maggiore attendibilità delle misure di performance nello spazio e nel tempo -> modifica dell'efficacia e dell'equità dei sistemi di incentivazione.
+- La relazione tra strategia e struttura: la nuova struttura è stata richiesta dal cambiamento di strategia, sviluppata in base alle richieste del mercato.
+- Credito Italiano + Rolo Banca 1473, CariVerona, Banca CRT, Cassamarca, Cassa di Risparmio di Trento e Rovereto, Cassa di Risparmio di Trieste.
+
+**D:** ⚠️ Quale tra sovrapposizione dei cambiamenti nel tempo, difficoltà a mantenere lo stesso standard metodologico, difficoltà di condurre un benchmark e difficoltà di assunzione di nuovo personale non rientra nelle difficoltà di consuntivazione del cambiamento, secondo il test della lezione 19 (domanda 5)?
+**R:** «**Difficoltà di assunzione di nuovo personale**». Non è fra le cinque voci della slide 7 e non compare nella lezione. Le altre tre opzioni sono la prima, la terza e la quarta voce della slide ([00:19:08]–[00:19:51]). ⚠️ La domanda è **negativa**. La sovrapposizione dei cambiamenti nel tempo è anche il quarto aspetto della slide 4, cioè l'opzione D della domanda 3. Distrattori del test: «sovrapposizione dei cambiamenti nel tempo», «difficoltà a mantenere lo stesso standard metodologico», «difficoltà di condurre un benchmark».
+**Opzione:** Difficoltà di assunzione di nuovo personale.
+**Distrattori:**
+- Sovrapposizione dei cambiamenti nel tempo.
+- Difficoltà a mantenere lo stesso standard metodologico.
+- Difficoltà di condurre un benchmark.
+
+**D:** ⚠️ Che cosa rende difficile ogni nuovo cambiamento, secondo le difficoltà di consuntivazione della slide 7 della lezione 19?
+**R:** «Ogni nuovo cambiamento rende difficile **la misurazione dei risultati del cambiamento precedente**» (slide 7). La docente: «ogni nuovo cambiamento rende difficile la misurazione dei risultati del cambiamento precedente», perché la sovrapposizione rende complicata la verifica dei costi, dei benefici e dei risultati ([00:19:08]). ⚠️ Del cambiamento **precedente**, non del successivo.
+**Opzione:** La misurazione dei risultati del cambiamento precedente.
+**Distrattori:**
+- La misurazione dei risultati del cambiamento successivo.
+- Global Banking Services.
+- Linee di sviluppo esterno.
+
+**D:** ⚠️ Quale conseguenza ha la minore attendibilità delle misure di performance nello spazio e nel tempo, secondo la slide 7 della lezione 19?
+**R:** «Minore attendibilità delle misure di performance nello spazio e nel tempo -> **modifica dell'efficacia e dell'equità dei sistemi di incentivazione**» (slide 7). Per la docente i sistemi di retribuzione e di incentivazione sono spesso legati al *performance management*; se il dipendente non capisce se il risultato è stato raggiunto, il sistema diventa «meno trasparente, meno comprensibile» ([00:20:09]–[00:21:25]). ⚠️ Efficacia ed equità vengono **modificate**: la slide non parla di riduzione della remunerazione, l'intrusa della domanda 1 del test.
+**Opzione:** La modifica dell'efficacia e dell'equità dei sistemi di incentivazione.
+**Distrattori:**
+- La modifica dell'efficacia e dell'equità dei sistemi di reclutamento.
+- La riduzione della remunerazione.
+- L'introduzione del lavoro agile (smart working).
+
+**D:** ⚠️ Quali caratteri del cambiamento e quali rapide strategie presenta il caso della formazione di UniCredit Group, secondo la slide 8 della lezione 19?
+**R:** «Case study: Formazione di Unicredit Group • **Elevata intensità e frequenza di cambiamento** • Attuazione delle rapide strategie di: • **Sviluppo dimensionale** • **Espansione geografica** • **Diversificazione**» (slide 8). La docente richiama l'ambiente «imprevedibile, dinamico, in continuo cambiamento» e chiama le tre strategie «di adattamento poi a cambiamenti esterni» ([00:21:41]–[00:22:33]). ⚠️ Le strategie sono **tre**: ai 2 orientamenti di fondo della slide 2 si aggiunge l'espansione geografica. La specializzazione non è fra queste.
+**Opzione:** Elevata intensità e frequenza di cambiamento; attuazione delle rapide strategie di sviluppo dimensionale, espansione geografica, diversificazione.
+**Distrattori:**
+- Elevata intensità e frequenza di cambiamento; attuazione delle rapide strategie di sviluppo dimensionale, espansione geografica, specializzazione.
+- Il gruppo di lavoro che gestisce i processi di riorganizzazione, transizione o migrazione da uno stato organizzativo all'altro.
+- Miglioramento della reputazione e del wellbeing aziendale.
+
+**D:** ⚠️ A quale scelta organizzativa portano l'elevata intensità e frequenza di cambiamento e le rapide strategie del caso UniCredit, secondo la slide 8 della lezione 19?
+**R:** «**Progettazione di un'organizzazione flessibile**» (slide 8, a destra della freccia). La docente: UniCredit ha dovuto «progettare una struttura organizzativa abbastanza flessibile che riesce comunque in qualche modo a reagire in maniera rapida ai cambiamenti esterni», legati all'ambiente e al cambiamento della strategia ([00:22:38]–[00:23:12]). ⚠️ **Flessibile**.
+**Opzione:** Progettazione di un'organizzazione flessibile.
+**Distrattori:**
+- Progettazione di un'organizzazione rigida.
+- Difficoltà di assunzione di nuovo personale.
+- Sviluppi organici.
+
+**D:** ⚠️ Quale delle rapide strategie del caso UniCredit (slide 8) non ha corrispondenti fra i 2 orientamenti di fondo della slide 2 della lezione 19?
+**R:** «**Espansione geografica**». Le rapide strategie della slide 8 sono «Sviluppo dimensionale • Espansione geografica • Diversificazione»; i 2 orientamenti di fondo della slide 2 sono «La crescita dimensionale nelle ASA già frequentate» e «La diversificazione del portafoglio di attività in ASA diverse (ma correlate)». Lo sviluppo dimensionale corrisponde alla crescita dimensionale e la diversificazione sta in entrambe; l'integrazione verticale è nella slide 2, fra i motivi della dipendenza, ma non è una strategia del caso UniCredit. ⚠️ Nella slide 2 gli orientamenti sono **due**, nella slide 8 le strategie sono **tre**.
+**Opzione:** Espansione geografica.
+**Distrattori:**
+- Sviluppo dimensionale.
+- Diversificazione.
+- Integrazione verticale.
+
+**D:** ⚠️ Quali banche formano il gruppo alla nascita di UniCredito Italiano (1998), secondo la slide 9 della lezione 19?
+**R:** «1998 — Nascita di UniCredito Italiano — Creazione del gruppo: **Credito Italiano** + Rolo Banca 1473, CariVerona, Banca CRT, Cassamarca, Cassa di Risparmio di Trento e Rovereto, Cassa di Risparmio di Trieste» (slide 9). La docente le legge nello stesso ordine ([00:23:31]–[00:23:58]). ⚠️ Il **Banco di Sicilia** non c'è: è una delle 7 società controllate incorporate nel 2010 (slide 10).
+**Opzione:** Credito Italiano + Rolo Banca 1473, CariVerona, Banca CRT, Cassamarca, Cassa di Risparmio di Trento e Rovereto, Cassa di Risparmio di Trieste.
+**Distrattori:**
+- Credito Italiano + Rolo Banca 1473, CariVerona, Banca CRT, Cassamarca, Cassa di Risparmio di Trento e Rovereto, Banco di Sicilia.
+- L'acquisto di combinazioni produttive e di produttori già funzionanti (già organizzati); non sono sviluppi organici (non sono organizzati con lo sviluppo dell'organizzazione esistente).
+- La strategia 2 (diversificazione) dipende dalla strategia 1 (crescita dimensionale).
+
+**D:** ⚠️ In quale anno la slide 9 della lezione 19 colloca il processo di integrazione delle banche del gruppo UniCredit, e che cosa comprende?
+**R:** «**1999** — Processo di integrazione delle Banche del gruppo — Segmentazione in relazione alla clientela • Consolidamento di sistemi informativi e di Back Office • Strategia di crescita (espansione nei mercati CEE in via di sviluppo – Acquisizione di Bank Pekao Polonia)» (slide 9). ⚠️ La docente dice «Nel **1998** osserviamo […] il processo di integrazione delle banche del gruppo» ([00:23:58]): nelle opzioni vale la slide, **1999**. Per la docente l'aumento della complessità e della dimensione impatta sui processi interni, come il consolidamento dei sistemi informativi ([00:24:17]).
+**Opzione:** Nel 1999: segmentazione in relazione alla clientela; consolidamento di sistemi informativi e di Back Office; strategia di crescita (espansione nei mercati CEE in via di sviluppo – acquisizione di Bank Pekao Polonia).
+**Distrattori:**
+- Nel 1998: segmentazione in relazione alla clientela; consolidamento di sistemi informativi e di Back Office; strategia di crescita (espansione nei mercati CEE in via di sviluppo – acquisizione di Bank Pekao Polonia).
+- L'agente economico che attua un comportamento opportunistico finalizzato a fruire pienamente di un bene (o servizio) prodotto collettivamente, senza contribuire in maniera efficiente alla sua costituzione.
+- Unicredit Banca, Unicredit Banca di Roma, Banco di Sicilia, Unicredit Corporate Banking, Unicredit Private Banking, Unicredit Family Financing Bank, Unicredit Bancassurance Management & Administration.
+
+**D:** ⚠️ Quali sono le 3 divisioni di business della struttura multi-specialistica del Progetto S3 (2001), secondo la slide 9 della lezione 19?
+**R:** «2001 — Riorganizzazione in segmenti di mercato – Progetto S3 — Struttura multi-specialistica con 3 divisioni di business: **Retail, Corporate, Private Banking and Asset Management**» (slide 9). Per la docente sono tre aree strategiche d'affari che convivono, con una struttura divisionale ([00:25:26]–[00:26:19]). ⚠️ **Divisioni** nel 2001; le **3 banche di segmento** (Unicredit Banca, Unicredit Banca d'Impresa, Unicredit Private Banking) arrivano con il completamento del progetto nel 2003. Markets & Investment Banking è la divisione del 2006.
+**Opzione:** Retail, Corporate, Private Banking and Asset Management.
+**Distrattori:**
+- Retail, Corporate, Markets & Investment Banking.
+- Unicredit Banca, Unicredit Banca d'Impresa, Unicredit Private Banking.
+
+**D:** ⚠️ Con quali 3 banche di segmento si completa il Progetto S3 nel 2003, secondo la slide 10 della lezione 19?
+**R:** «2003 — Completamento del Progetto S3 / Creazione della Divisione New Europe — Creazione di 3 banche di segmento: **Unicredit Banca, Unicredit Banca d'Impresa, Unicredit Private Baking**» (slide 10, «Baking» così). Per la docente sono «organizzazioni che performano in maniera autonoma», e la Banca d'Impresa corrisponde alla strategia *corporate* ([00:26:19]–[00:27:04]). ⚠️ Unicredit **Banca di Roma** non c'è: è fra le 7 società incorporate nel 2010. Le divisioni del 2001 erano Retail, Corporate, Private Banking and Asset Management.
+**Opzione:** Unicredit Banca, Unicredit Banca d'Impresa, Unicredit Private Banking.
+**Distrattori:**
+- Unicredit Banca, Unicredit Banca di Roma, Unicredit Private Banking.
+- Retail, Corporate, Private Banking and Asset Management.
+
+**D:** ⚠️ Quale divisione crea UniCredit nel 2004 come unità responsabile dell'ottimizzazione delle strutture di costo e dei processi interni del Gruppo, secondo la slide 10 della lezione 19?
+**R:** «2004 — Creazione della divisione **Global Banking Services** — Unità responsabile dell'ottimizzazione delle strutture di costo e dei processi interni del Gruppo (obiettivo: il massimo delle **sinergie** e dei **risparmi** nonché l'**eccellenza operativa**)» (slide 10). Per la docente le tre macro aree hanno le loro specificità, ma serve un coordinamento univoco e un'eccellenza operativa trasversale ([00:27:04]–[00:27:54]). ⚠️ Global Investment Management è del 2000, New Europe del 2003, Markets & Investment Banking del 2006.
+**Opzione:** Global Banking Services.
+**Distrattori:**
+- Global Investment Management.
+- Markets & Investment Banking.
+- New Europe.
+
+**D:** ⚠️ Quali società controllate incorpora UniCredit SpA nel 2010, con la creazione di una «banca unica», secondo la slide 10 della lezione 19?
+**R:** «2010 — Riorganizzazione del modello di gruppo e creazione di una "banca unica" — Unicredit SpA incorpora **7** società controllate: Unicredit banca, Unicredit Banca di Roma, Banco di Sicilia, Unicredit Corporate Banking, Unicredit Private Banking, Unicredit Family Financing Bank, Unicredit Bancassurance Management&Administration» (slide 10). Per la docente, dopo la separazione in tre aree strategiche autonome dei primi anni 2000, nel 2010 la banca riunisce tutte le attività «sotto lo stesso marchio» ([00:28:59]–[00:30:02]). ⚠️ Unicredit **Banca d'Impresa** non è fra le 7: è una delle 3 banche di segmento del 2003.
+**Opzione:** Unicredit Banca, Unicredit Banca di Roma, Banco di Sicilia, Unicredit Corporate Banking, Unicredit Private Banking, Unicredit Family Financing Bank, Unicredit Bancassurance Management & Administration.
+**Distrattori:**
+- Unicredit Banca, Unicredit Banca di Roma, Banco di Sicilia, Unicredit Corporate Banking, Unicredit Private Banking, Unicredit Family Financing Bank, Unicredit Banca d'Impresa.
+- Preferenza verso l'integrazione verticale dei processi produttivi e distributivi; problema della dimensione minima diversificabile e diversificazione massima sostenibile.
+- Effetto di banalizzazione; una cultura negazionista del cambiamento; riduzione dell'efficacia.
+
+**D:** ⚠️ Che cosa chiedono i clienti, a cui risponde il programma «Insieme per i clienti» di UniCredit, secondo la slide 11 della lezione 19?
+**R:** «Il programma "Insieme per i clienti" è una risposta che Unicredit ha formulato per soddisfare le richieste dei clienti: **una banca più semplice**, che li **conosca sempre meglio** e che assicuri i **tempi di risposta più veloci**» (slide 11). La docente: «le esigenze del cliente cambiano, quindi cambia strategia, cambia la struttura organizzativa» ([00:31:45]). ⚠️ Una banca più **semplice**, non più grande.
+**Opzione:** Una banca più semplice, che li conosca sempre meglio e che assicuri i tempi di risposta più veloci.
+**Distrattori:**
+- Una banca più grande, che li conosca sempre meglio e che assicuri i tempi di risposta più veloci.
+- La modifica dell'efficacia e dell'equità dei sistemi di incentivazione.
+- La strategia 2 (diversificazione) dipende dalla strategia 1 (crescita dimensionale).
+
+**D:** ⚠️ Che cosa dice UniCredit di aver fatto per rispondere alle richieste dei clienti, secondo la slide 11 della lezione 19?
+**R:** «Abbiamo ripensato il nostro **modello**, riorganizzato le nostre **reti** e costruito **una banca unica**» (slide 11). La docente: «ecco qua che arriviamo al terzo elemento, il modello, la struttura» ([00:31:59]); la banca cita anche la rete, gli sportelli e i partner, per una banca «più vicina, più rapida» ([00:32:29]). ⚠️ Una banca **unica**: le **3 banche di segmento** erano il completamento del Progetto S3 nel 2003.
+**Opzione:** Abbiamo ripensato il nostro modello, riorganizzato le nostre reti e costruito una banca unica.
+**Distrattori:**
+- Abbiamo ripensato il nostro modello, riorganizzato le nostre reti e costruito tre banche di segmento.
+- Rischi crescenti di demotivazione delle persone.
+- Un cantiere organizzativo permanente.
+
+**D:** Quale relazione mostra, per la docente, la riorganizzazione di UniCredit in «banca unica» annunciata con «Insieme per i clienti»?
+**R:** La relazione **tra strategia e struttura**: «Ci siamo riuniti, abbiamo creato un'altra tipologia di struttura, però questa struttura ovviamente è stata richiesta dal cambio, dal cambiamento di strategia» ([00:30:57]–[00:31:15]). La strategia, a sua volta, «è stata sviluppata in base alle richieste del mercato che sono state modificate e cambiate» ([00:31:31]–[00:31:45]): il primo elemento è l'ambiente, il terzo il modello, cioè la struttura. ⚠️ È la struttura a seguire la strategia, non il contrario: lo «structure follows strategy» della slide 2 della lezione 18. La lettura è della docente, non della slide 11.
+**Opzione:** La relazione tra strategia e struttura: la nuova struttura è stata richiesta dal cambiamento di strategia, sviluppata in base alle richieste del mercato.
+**Distrattori:**
+- La relazione tra strategia e struttura: la nuova strategia è stata richiesta dal cambiamento di struttura, sviluppata in base alle richieste del mercato.
+- Integrazione dell'organizzazione (problemi organizzativi legati all'integrabilità fra organizzazione acquirente e organizzazione acquisita).
+- Un'unità organizzativa stabile, che aiuta ad avviare i processi di trasformazione.
+
+## Lezione 20 — Dall'organizzazione funzionale all'organizzazione divisionale
+
+**D:** ⚠️ Che cos'è la struttura organizzativa, secondo la slide 2 della lezione 20?
+**R:** «La "**spina dorsale**" dell'impresa e frutto del processo di sviluppo delle attività (**storia dell'impresa**)» (slide 2). La docente: «la spina dorsale dell'impresa e il frutto del processo di sviluppo delle attività, della storia, della cultura dell'impresa, business experience di cui abbiamo parlato nelle lezioni precedenti»; tutto questo «impatta sulla progettazione della struttura organizzativa» ([00:00:27]–[00:00:43]). ⚠️ La struttura è frutto della **storia** dell'impresa, non di una progettazione che ne prescinde. La slide 3 ne dà un'altra formula: «la risultante delle scelte mediante le quali il lavoro è diviso, ordinato e coordinato».
+**Opzione:** La spina dorsale dell'impresa e frutto del processo di sviluppo delle attività (storia dell'impresa).
+**Distrattori:**
+- La spina dorsale dell'impresa e frutto di una progettazione indipendente dalla storia dell'impresa.
+- Stati Uniti (anni '60), Inghilterra (fine anni '60), Germania (anni '70); Italia (anni '80).
+- Un ruolo imprenditoriale (all'interno dei confini e vincoli imposti dal livello superiore di governo): coordinamento – pianificazione - controllo.
+
+**D:** ⚠️ Quali processi comprende la progettazione del modello, ovvero la configurazione dell'assetto organizzativo (organigramma), secondo la slide 2 della lezione 20?
+**R:** «Progettazione del modello ovvero la configurazione dell'assetto organizzativo (organigramma): • **Scelta dell'assetto formale/legale** che si ritiene più appropriato rispetto alla strategia • **Attribuzione dell' "ordine"** alle parti e a la definizione dei loro compiti (un assetto organizzativo **stabile, ma modificabile**) • **Definizione delle "regole" e "procedure"** di comportamento delle parti e dei partecipanti (interazione, responsabilità)» (slide 2, con il refuso «e a la definizione»). La docente richiama «quel forte legame tra la strategia e la struttura organizzativa»: analizzando la strategia si definisce o si ridefinisce il modello organizzativo ([00:00:58]–[00:01:28]). Poi l'ordine alle parti e ai gruppi ([00:01:28]) e le regole e procedure, con le interazioni e le responsabilità delle parti ([00:02:00]–[00:02:22]). ⚠️ I processi sono **tre**: la «digitalizzazione della struttura organizzativa» è l'intrusa della domanda 1 del test.
+**Opzione:** Scelta dell'assetto formale/legale che si ritiene più appropriato rispetto alla strategia; attribuzione dell'ordine alle parti e a la definizione dei loro compiti (un assetto organizzativo stabile, ma modificabile); definizione delle regole e procedure di comportamento delle parti e dei partecipanti (interazione, responsabilità).
+**Distrattori:**
+- Scelta dell'assetto formale/legale che si ritiene più appropriato rispetto alla strategia; attribuzione dell'ordine alle parti e a la definizione dei loro compiti (un assetto organizzativo stabile, ma modificabile); digitalizzazione della struttura organizzativa.
+- Rigidità dell'ordinamento bancario vigente (Legge Bancaria 1936-1938); interpretazione vincolante da parte di Banca d'Italia; problematica di ri-orientmento dei modelli gestionali e della cultura organizzativa.
+- Tutte le funzioni connesse agli elementi costitutivi dell'ASA: prodotti e servizi; mercati e segmenti di clientela; sistema di risorse necessarie per produrre e distribuire.
+
+**D:** ⚠️ Quale processo non rientra tra i processi della configurazione dell'assetto organizzativo, fra le opzioni del test della lezione 20 (domanda 1)?
+**R:** «**Digitalizzazione della struttura organizzativa**». La slide 2 elenca tre processi soltanto: la scelta dell'assetto formale/legale, l'attribuzione dell'«ordine» alle parti e la definizione delle «regole» e «procedure» di comportamento ([00:00:49]–[00:02:22]). La digitalizzazione non compare in questa lezione; nel corso c'è quella dei processi, dei prodotti e dei servizi (lezioni 01, 02 e 08), mai «della struttura organizzativa». ⚠️ La domanda è **negativa**, e le tre opzioni vere sono i processi della slide 2 **troncati**. Lo schema è quello della domanda 2 del test 18, con l'intrusa «tecnologie digitali». Distrattori del test: «scelta dell'assetto formale/legale», «attribuzione dell' "ordine" alle parti e a la definizione dei loro compiti», «definizione delle "regole" e "procedure" di comportamento delle parti».
+**Opzione:** Digitalizzazione della struttura organizzativa.
+**Distrattori:**
+- Scelta dell'assetto formale/legale.
+- Attribuzione dell' "ordine" alle parti e a la definizione dei loro compiti.
+- Definizione delle "regole" e "procedure" di comportamento delle parti.
+
+**D:** ⚠️ Che tipo di assetto organizzativo dà l'attribuzione dell'«ordine» alle parti e la definizione dei loro compiti, secondo la slide 2 della lezione 20?
+**R:** «(un assetto organizzativo **stabile, ma modificabile**)» (slide 2). La docente: «un assetto organizzativo stabile, abbastanza sufficientemente stabile da un punto di vista. Dall'altro punto di vista è comunque un assetto modificabile perché come abbiamo visto comunque ci sono sempre i cambiamenti in atto» ([00:01:37]–[00:01:44]). ⚠️ Stabile **ma** modificabile: le due qualità stanno insieme.
+**Opzione:** Un assetto organizzativo stabile, ma modificabile.
+**Distrattori:**
+- Un assetto organizzativo stabile e non modificabile.
+- A partire della metà del XX secolo (grandi imprese manifatturiere).
+- In base al prodotto (area strategica d'affari) oppure in base al territorio (area geografica).
+
+**D:** ⚠️ Come definisce la struttura organizzativa la slide 3 della lezione 20?
+**R:** «La struttura organizzativa è la risultante delle scelte mediante le quali il lavoro è **diviso, ordinato e coordinato** all'interno di un sistema organizzativo» (slide 3). La docente la presenta «riassumendo tutto quello che abbiamo visto prima» ([00:02:28]–[00:02:41]). ⚠️ I tre verbi sono **diviso, ordinato e coordinato**, come le prime tre voci dell'elenco che segue: divisione del lavoro, ordine e regolazione, coordinamento e controllo.
+**Opzione:** La risultante delle scelte mediante le quali il lavoro è diviso, ordinato e coordinato all'interno di un sistema organizzativo.
+**Distrattori:**
+- La risultante delle scelte mediante le quali il lavoro è diviso, ordinato e retribuito all'interno di un sistema organizzativo.
+- Separazione, attribuzione della responsabilità di gestire l'attività in un particolare territorio/ASA; strategic business area -> strategic business unit.
+- Maggiore efficienza (reddittività); crescente efficacia competitiva su diversi mercati; focalizzazione più mirata alla gestione delle specifiche attività.
+
+**D:** ⚠️ Quali sono, nell'ordine e con le parentesi, le voci della struttura organizzativa elencate nella slide 3 della lezione 20?
+**R:** «• divisione del lavoro (**differenziazione**) • ordine e regolazione (**strutturazione**) • coordinamento e controllo (**integrazione**) • leadership (**motivazione e trascinamento**) • verso un fine organizzativo unico (**finalizzazione**)» (slide 3). La docente: la divisione del lavoro è la differenziazione delle diverse professionalità e competenze ([00:02:49]); l'ordine è la strutturazione delle risorse in categorie e unità organizzative ([00:03:03]); il coordinamento e controllo serve a vedere il gap fra risultato raggiunto e obiettivo prestabilito ed è l'integrazione fra le parti ([00:03:15]–[00:03:43]); la leadership è motivazione, trascinamento, empowerment ([00:03:43]); la finalizzazione porta alla strategia e agli obiettivi strategici e operativi ([00:04:38]). ⚠️ Ogni voce ha la sua parentesi: la **strutturazione** è di ordine e regolazione, l'**integrazione** di coordinamento e controllo.
+**Opzione:** Divisione del lavoro (differenziazione); ordine e regolazione (strutturazione); coordinamento e controllo (integrazione); leadership (motivazione e trascinamento); verso un fine organizzativo unico (finalizzazione).
+**Distrattori:**
+- Divisione del lavoro (differenziazione); ordine e regolazione (integrazione); coordinamento e controllo (strutturazione); leadership (motivazione e trascinamento); verso un fine organizzativo unico (finalizzazione).
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria divisione; possibili conflitti tra staff dell'amministrazione generale e staff di divisione.
+- Personale e organizzazione, finanza, amministrazione e controllo, ICT.
+
+**D:** ⚠️ Quale termine accompagna fra parentesi la voce «coordinamento e controllo» della struttura organizzativa, secondo la slide 3 della lezione 20?
+**R:** «coordinamento e controllo (**integrazione**)» (slide 3). La docente: «quando parliamo del coordinamento e controllo parliamo anche dell'integrazione, dell'interazione tra diverse parti della nostra struttura organizzativa» ([00:03:19]). ⚠️ La **strutturazione** accompagna «ordine e regolazione», la **differenziazione** la «divisione del lavoro», la **finalizzazione** il «fine organizzativo unico».
+**Opzione:** Integrazione.
+**Distrattori:**
+- Strutturazione.
+- Differenziazione.
+- Finalizzazione.
+
+**D:** ⚠️ Che cos'è «la definizione dei livelli di autorità "legale" di tutti coloro che "decidono" in impresa, con distinte funzioni e distinti ruoli», secondo il test della lezione 20 (domanda 2)?
+**R:** «**Gerarchia**». È la slide 4 alla lettera, troncata: «Gerarchia • Definizione dei livelli di autorità "legale" di tutti coloro che "decidono" in impresa, con distinte funzioni e distinti ruoli di governo, management, lavoro subordinato». La docente: «La gerarchia innanzitutto è la definizione dei livelli di autorità legale» ([00:05:14]–[00:05:39]). ⚠️ L'organigramma parla anch'esso di autorità, ma come «assetto "formale" e "cartolare"» con poteri e relazioni; per la docente la gerarchia dice soltanto quali livelli esistono ([00:06:04]). La batteria è la stessa della domanda 3 (chiave funzionigramma). Distrattori del test: «organico» (non compare in questa lezione; era già un distrattore della domanda 1 del test 18), «organigramma», «funzionigramma».
+**Opzione:** Gerarchia.
+**Distrattori:**
+- Organico.
+- Organigramma.
+- Funzionigramma.
+
+**D:** ⚠️ Tramite che cosa si definisce «l'assetto e contenuto delle funzioni e dei compiti di lavoro», secondo il test della lezione 20 (domanda 3)?
+**R:** «**Funzionigramma**». È la slide 4 alla lettera, troncata: «Funzionigramma • Assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto)». La docente: «parliamo dell'assetto e del contenuto delle funzioni […] dei compiti di lavoro, quindi area per area, processo per processo, progetto per progetto», e ne fa «una specie di creazione di mansionario», un documento con le mansioni, le responsabilità, i compiti e i risultati di ogni figura ([00:06:37]–[00:07:15]). ⚠️ È la domanda speculare della 2, con la chiave scambiata. Distrattori del test: «organico», «organigramma», «gerarchia».
+**Opzione:** Funzionigramma.
+**Distrattori:**
+- Organico.
+- Organigramma.
+- Gerarchia.
+
+**D:** ⚠️ Come si chiama l'assetto «formale» e «cartolare» dell'autorità, dei relativi poteri e delle reciproche relazioni, secondo la slide 4 della lezione 20?
+**R:** «**Organigramma** • Assetto "formale" e "cartolare" dell'autorità, dei relativi poteri e delle reciproche relazioni» (slide 4). La docente: «un assetto formale, quindi fatto, scritto sulla carta», con le relazioni fra ruoli e livelli: «chi interagisce con chi, come, in quale direzione» ([00:05:56]–[00:06:24]). ⚠️ La slide 2 chiama «organigramma» anche la configurazione dell'assetto organizzativo, e la docente lo ripete ([00:00:49]). La gerarchia definisce i livelli di autorità «legale», il funzionigramma l'assetto e il contenuto delle funzioni e dei compiti; il mansionario è il paragone della docente per il funzionigramma.
+**Opzione:** Organigramma.
+**Distrattori:**
+- Gerarchia.
+- Funzionigramma.
+- Mansionario.
+
+**D:** ⚠️ Come definisce la slide 4 della lezione 20, nell'ordine, gerarchia, organigramma e funzionigramma?
+**R:** «**Gerarchia** • Definizione dei livelli di autorità "legale" di tutti coloro che "decidono" in impresa, con distinte funzioni e distinti ruoli di governo, management, lavoro subordinato. **Organigramma** • Assetto "formale" e "cartolare" dell'autorità, dei relativi poteri e delle reciproche relazioni. **Funzionigramma** • Assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto)» (slide 4). La docente: la gerarchia sono i livelli, l'organigramma vi aggiunge le relazioni, il funzionigramma è una specie di mansionario ([00:05:03]–[00:07:15]). ⚠️ Le domande 2 e 3 del test prendono le definizioni della gerarchia e del funzionigramma alla lettera, troncate.
+**Opzione:** Definizione dei livelli di autorità legale di tutti coloro che decidono in impresa, con distinte funzioni e distinti ruoli di governo, management, lavoro subordinato; assetto formale e cartolare dell'autorità, dei relativi poteri e delle reciproche relazioni; assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto).
+**Distrattori:**
+- Assetto formale e cartolare dell'autorità, dei relativi poteri e delle reciproche relazioni; definizione dei livelli di autorità legale di tutti coloro che decidono in impresa, con distinte funzioni e distinti ruoli di governo, management, lavoro subordinato; assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto).
+- Stati Uniti (anni '60), Inghilterra (fine anni '60), Germania (anni '70); Italia (anni '80).
+- L'ingresso e la diffusione della cultura e dei metodi manageriali nelle banche: ruoli divisionali – contenuto manageriale, ruoli funzionali – contenuto tecnico-professionale.
+
+**D:** ⚠️ Che cosa aggiunge l'organigramma rispetto alla gerarchia, secondo la docente nella lezione 20?
+**R:** Le **relazioni**, che possono essere **verticali, orizzontali o anche trasversali**. La docente: «se parlando della gerarchia parliamo soltanto dell'esistenza dei livelli, il primo, il secondo, il terzo eccetera, parlando dell'organigramma aggiungiamo anche delle relazioni, delle interazioni che ovviamente possono essere verticali, orizzontali o anche trasversali»; l'organigramma dice «chi interagisce con chi, come, in quale direzione» ([00:06:04]–[00:06:24]). Nella slide 4 l'organigramma comprende «le reciproche relazioni». ⚠️ Le relazioni non sono solo verticali.
+**Opzione:** Le relazioni, le interazioni, che possono essere verticali, orizzontali o anche trasversali.
+**Distrattori:**
+- Le relazioni, le interazioni, che possono essere soltanto verticali.
+- L'aumento delle dimensioni operative: estensione delle aree geografiche e territoriali frequentate; diversificazione in ASA diverse (specificità distintive importanti). L'aumento della complessità di diversificazione.
+- A partire della metà del XX secolo (grandi imprese manifatturiere).
+
+**D:** ⚠️ Per quali aziende è l'organizzazione di tipo funzionale (F-form), secondo la slide 5 della lezione 20?
+**R:** «Le aziende con **una sola ASA**» (slide 5). La docente: «normalmente le aziende con una sola area strategica d'affari, quindi sono le imprese anche di dimensioni abbastanza contenute, quindi sono le piccole e medie imprese» ([00:07:38]); è «una struttura adatta alle imprese abbastanza semplici», altrimenti sarebbe molto complicato gestire diverse aree strategiche ([00:13:23]–[00:13:36]). ⚠️ La diversificazione in ASA diverse porta alla M-form (slide 8). Le piccole e medie imprese stanno solo nel transcript.
+**Opzione:** Le aziende con una sola ASA.
+**Distrattori:**
+- Le aziende diversificate in ASA diverse.
+- Un assetto organizzativo stabile, ma modificabile.
+- Il modello basato su un principio gerarchico (capi e sottoposti); la specificità del modello: far scendere l'autorità del comando nei livelli inferiori.
+
+**D:** ⚠️ Secondo che cosa è progettata l'organizzazione semplice di tipo funzionale, secondo la slide 5 della lezione 20?
+**R:** «L'organizzazione semplice: progettata secondo le **diverse funzioni** di cui si compone l'attività di impresa: • Acquistare • Produrre • Vendere • Amministrare ecc.», che diventano «**Specifiche unità organizzative**» (slide 5). La docente: acquistare è ottenere le risorse dal mercato esterno, produrre è trasformarle in un prodotto o servizio, vendere è distribuire e far arrivare il prodotto al mercato, amministrare è coordinare e dare le regole al funzionamento della struttura interna ([00:08:00]–[00:08:55]). ⚠️ L'elenco è **aperto** («ecc.»). Gli elementi costitutivi dell'ASA (prodotti e servizi, mercati e segmenti di clientela, sistema di risorse) sono presidiati dalla **divisione** (slide 8).
+**Opzione:** Secondo le diverse funzioni di cui si compone l'attività di impresa: acquistare, produrre, vendere, amministrare ecc.
+**Distrattori:**
+- Secondo gli elementi costitutivi dell'ASA: prodotti e servizi, mercati e segmenti di clientela, sistema di risorse necessarie per produrre e distribuire.
+- Maggiore efficienza (reddittività); crescente efficacia competitiva su diversi mercati; focalizzazione più mirata alla gestione delle specifiche attività.
+- Prossimità delle decisioni alla realtà (mercati, clienti, processi).
+
+**D:** ⚠️ Quali unità indica la slide 5 della lezione 20 come esempio di organizzazione funzionale in una banca?
+**R:** «Es. banca: ufficio fidi, ufficio titoli, ufficio estero, tesoreria, direzione commerciale, gestione del personale ecc.» (slide 5). La docente parla di «un ufficio legato alle relazioni con l'estero» ([00:09:42]–[00:09:59]). ⚠️ L'elenco è **aperto** («ecc.»). Private banking, corporate banking e retail banking sono invece, per la docente, le tre divisioni per prodotto di UniCredit ([00:20:26]).
+**Opzione:** Ufficio fidi, ufficio titoli, ufficio estero, tesoreria, direzione commerciale, gestione del personale ecc.
+**Distrattori:**
+- Private banking, corporate banking, retail banking.
+- La spina dorsale dell'impresa e frutto del processo di sviluppo delle attività (storia dell'impresa).
+- L'ingresso e la diffusione della cultura e dei metodi manageriali nelle banche: ruoli divisionali – contenuto manageriale, ruoli funzionali – contenuto tecnico-professionale.
+
+**D:** ⚠️ Come sono le unità organizzative dell'organizzazione di tipo funzionale, secondo la slide 5 della lezione 20?
+**R:** «Unità organizzative **differenziate con mestieri diversi** (professionalità specifiche)» (slide 5). La docente: dentro ogni unità ci sono figure professionali e ruoli «abbastanza specifiche e correlate in qualche modo tra di loro» ([00:09:15]–[00:09:42]; la trascrizione automatica scrive «misteri» per mestieri). ⚠️ Le unità organizzative **dedicate** a un particolare territorio/ASA sono quelle della M-form (slide 8).
+**Opzione:** Unità organizzative differenziate con mestieri diversi (professionalità specifiche).
+**Distrattori:**
+- Unità organizzative dedicate alla gestione dell'attività in un particolare territorio/ASA.
+- Rigidità dell'ordinamento bancario vigente (Legge Bancaria 1936-1938); interpretazione vincolante da parte di Banca d'Italia; problematica di ri-orientmento dei modelli gestionali e della cultura organizzativa.
+- Un ruolo imprenditoriale (all'interno dei confini e vincoli imposti dal livello superiore di governo): coordinamento – pianificazione - controllo.
+
+**D:** ⚠️ Quali sono i vantaggi dell'organizzazione di tipo funzionale, secondo la slide 7 della lezione 20?
+**R:** «Vantaggi • **Incremento dell'efficienza della direzione** -> i manager possono concentrare la loro attività in una solo ASA • **Maggiore coordinamento all'interno della funzione** -> potere decisionale a ciascun manager funzionale» (slide 7, «una solo ASA» così). La docente: i manager non devono considerare le specificità di diversi prodotti o di diversi mercati ([00:13:57]); il potere decisionale dato a ciascun manager funzionale è «il concetto di empowerment», e permette di rispondere in modo abbastanza rapido al cambiamento ([00:14:25]–[00:14:56]). ⚠️ Il coordinamento è **all'interno** della funzione; la difficoltà di coordinamento **tra** le funzioni è uno svantaggio.
+**Opzione:** Incremento dell'efficienza della direzione -> i manager possono concentrare la loro attività in una solo ASA; maggiore coordinamento all'interno della funzione -> potere decisionale a ciascun manager funzionale.
+**Distrattori:**
+- Incremento dell'efficienza della direzione -> i manager possono concentrare la loro attività in una solo ASA; maggiore coordinamento tra le funzioni -> potere decisionale a ciascun manager funzionale.
+- Il modello divisionale: un'organizzazione progettata appositamente (artificiale) per migliorare la performance complessiva; il modello funzionale: la formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni).
+- In base al prodotto (area strategica d'affari) oppure in base al territorio (area geografica).
+
+**D:** ⚠️ Quali sono gli svantaggi dell'organizzazione di tipo funzionale, secondo la slide 7 della lezione 20?
+**R:** «Svantaggi • **Rischio di eccessiva focalizzazione** da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali • **Difficoltà di coordinamento tra le funzioni**» (slide 7). La docente parla di barriere, di «silos» che chiudono il punto di vista del manager dentro la propria funzione ([00:14:56]–[00:15:25]). Contro la difficoltà di coordinamento servono «dei ruoli trasversali», persone che fanno «da ponte», da coordinatori tra diverse unità, per esempio fra marketing e ricerca e sviluppo ([00:15:50]–[00:16:25]). ⚠️ Il coordinamento **all'interno** della funzione è un vantaggio; quello **tra** le funzioni è difficile.
+**Opzione:** Rischio di eccessiva focalizzazione da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali; difficoltà di coordinamento tra le funzioni.
+**Distrattori:**
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali; difficoltà di coordinamento all'interno della funzione.
+- Separazione, attribuzione della responsabilità di gestire l'attività in un particolare territorio/ASA; strategic business area -> strategic business unit.
+- Divisione del lavoro (differenziazione); ordine e regolazione (strutturazione); coordinamento e controllo (integrazione); leadership (motivazione e trascinamento); verso un fine organizzativo unico (finalizzazione).
+
+**D:** ⚠️ Che tipo di organizzazione ha tra i principali vantaggi il maggiore coordinamento all'interno di un'area organizzativa, secondo il test della lezione 20 (domanda 4)?
+**R:** «**Funzionale**». La slide 7 elenca fra i vantaggi dell'organizzazione di tipo funzionale il «Maggiore coordinamento all'interno della funzione -> potere decisionale a ciascun manager funzionale» ([00:14:25]). ⚠️ La chiave è giusta ma **non testuale**: la slide dice «della **funzione**», la domanda «di **un'area organizzativa**». La trappola è la **divisionale**, che fra i vantaggi ha il «**Migliore** coordinamento **delle attività della divisione**» (slide 14): discrimina la formula «maggiore coordinamento all'interno». L'organizzazione «a matrice» compare solo come «Matriciale» nella lezione 10 (slide 3 di quel deck), senza vantaggi; «familiare» non è un tipo di organizzazione nei materiali. Distrattori del test: «divisionale», «a matrice», «familiare».
+**Opzione:** Funzionale.
+**Distrattori:**
+- Divisionale.
+- A matrice.
+- Familiare.
+
+**D:** ⚠️ Che cosa dicono del coordinamento le slide 7 e 14 della lezione 20, per l'organizzazione funzionale e per quella divisionale?
+**R:** Nella **funzionale** il «Maggiore coordinamento all'interno della funzione» è un vantaggio e la «Difficoltà di coordinamento tra le funzioni» uno svantaggio (slide 7). Nella **divisionale** il «Migliore coordinamento delle attività della divisione e migliore misurazione delle performance di ciascuna divisione rispetto alle altre» è un vantaggio (slide 14). La docente: «Parliamo anche del maggiore coordinamento all'interno della funzione» ([00:14:25]); per la divisionale, «un migliore coordinamento delle attività della divisione» ([00:34:23]). ⚠️ È la trappola della domanda 4 del test: «**maggiore** coordinamento **all'interno**» è della funzionale, «**migliore** coordinamento **delle attività della divisione**» della divisionale.
+**Opzione:** Funzionale: maggiore coordinamento all'interno della funzione (vantaggio) e difficoltà di coordinamento tra le funzioni (svantaggio); divisionale: migliore coordinamento delle attività della divisione (vantaggio).
+**Distrattori:**
+- Funzionale: maggiore coordinamento tra le funzioni (vantaggio) e difficoltà di coordinamento all'interno della funzione (svantaggio); divisionale: migliore coordinamento delle attività della divisione (vantaggio).
+- Prossimità delle decisioni alla realtà (mercati, clienti, processi).
+- Assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto).
+
+**D:** ⚠️ Con che cosa si presenta l'organizzazione di tipo divisionale (M-form: multidivisionale), secondo la slide 8 della lezione 20?
+**R:** «L'organizzazione di tipo divisionale (M-form: multidivisionale) • **L'aumento delle dimensioni operative**: • Estensione delle aree geografiche e territoriali frequentate • Diversificazione in ASA diverse (specificità distintive importanti) • **L'aumento della complessità di diversificazione**» (slide 8). La docente: «Questa struttura organizzativa si presenta normalmente con l'aumento delle dimensioni operative dell'organizzazione», che può venire dall'estensione delle aree geografiche o dalla diversificazione in altre ASA; serve un modello diverso «perché aumenta anche la complessità» ([00:17:19]–[00:18:12]). ⚠️ La complessità di diversificazione **aumenta**.
+**Opzione:** L'aumento delle dimensioni operative: estensione delle aree geografiche e territoriali frequentate; diversificazione in ASA diverse (specificità distintive importanti). L'aumento della complessità di diversificazione.
+**Distrattori:**
+- L'aumento delle dimensioni operative: estensione delle aree geografiche e territoriali frequentate; diversificazione in ASA diverse (specificità distintive importanti). La riduzione della complessità di diversificazione.
+- La risultante delle scelte mediante le quali il lavoro è diviso, ordinato e coordinato all'interno di un sistema organizzativo.
+- Secondo le diverse funzioni di cui si compone l'attività di impresa: acquistare, produrre, vendere, amministrare ecc.
+
+**D:** ⚠️ Che cosa comporta, nell'organizzazione divisionale, il presidio da organizzazioni (unità organizzative dedicate), secondo la slide 8 della lezione 20?
+**R:** «Presidio da organizzazioni (unità organizzative dedicate) -> **separazione, attribuzione della responsabilità** di gestire l'attività in un particolare **territorio/ASA** *Strategic business area -> strategic business unit*» (slide 8). La docente: la strategic business area «influisce ovviamente sullo sviluppo, sulla progettazione organizzativa divenendo anche una strategic business unit»; è di nuovo «il legame strettissimo tra le aree strategiche, tra la strategia e tra le unità organizzative» ([00:18:12]–[00:18:50]). ⚠️ La freccia va **dall'area all'unità**: la *business area* diventa *business unit*.
+**Opzione:** Separazione, attribuzione della responsabilità di gestire l'attività in un particolare territorio/ASA; strategic business area -> strategic business unit.
+**Distrattori:**
+- Separazione, attribuzione della responsabilità di gestire l'attività in un particolare territorio/ASA; strategic business unit -> strategic business area.
+- Divisione del lavoro (differenziazione); ordine e regolazione (strutturazione); coordinamento e controllo (integrazione); leadership (motivazione e trascinamento); verso un fine organizzativo unico (finalizzazione).
+- Le relazioni, le interazioni, che possono essere verticali, orizzontali o anche trasversali.
+
+**D:** ⚠️ Che cosa presidia la divisione, secondo la slide 8 della lezione 20?
+**R:** «La divisione presidia **tutte le funzioni** connesse agli **elementi costitutivi dell'ASA**: • Prodotti e servizi • Mercati e segmenti di clientela • Sistema di risorse necessarie per produrre e distribuire» (slide 8). La docente: la divisione controlla i prodotti e i servizi, i mercati e i segmenti della clientela e il sistema di risorse per trasformarle in un prodotto o servizio e per distribuirlo ([00:19:00]–[00:19:29]). ⚠️ Lo **staff dell'amministrazione generale** sta al livello corporate, e i suoi conflitti con lo staff di divisione sono uno svantaggio (slide 14).
+**Opzione:** Tutte le funzioni connesse agli elementi costitutivi dell'ASA: prodotti e servizi; mercati e segmenti di clientela; sistema di risorse necessarie per produrre e distribuire.
+**Distrattori:**
+- Tutte le funzioni connesse agli elementi costitutivi dell'ASA: prodotti e servizi; mercati e segmenti di clientela; staff dell'amministrazione generale.
+- Un assetto organizzativo stabile, ma modificabile.
+- Il modello basato su un principio gerarchico (capi e sottoposti); la specificità del modello: far scendere l'autorità del comando nei livelli inferiori.
+
+**D:** ⚠️ Quali unità stanno al livello corporate nell'organigramma divisionale della slide 9 della lezione 20?
+**R:** **Personale e organizzazione, finanza, amministrazione e controllo, ICT** (slide 9, figura «Organigramma divisionale», etichetta «CORPORATE»). Sotto ci sono le «DIVISIONI» prodotto A, B e C, ciascuna con amministrazione e controllo, acquisti, produzione, vendite e marketing. La docente: sono «le unità trasversali», «le unità organizzative di staff, di supporto che poi andranno ad aiutare ad operare ogni singola divisione», e qui i livelli gerarchici «aumentano» ([00:19:32]–[00:20:14]). ⚠️ Acquisti, produzione, vendite e marketing stanno **dentro ogni divisione**; amministrazione e controllo compare a **entrambi** i livelli.
+**Opzione:** Personale e organizzazione, finanza, amministrazione e controllo, ICT.
+**Distrattori:**
+- Acquisti, produzione, vendite e marketing.
+- Le aziende con una sola ASA.
+- Le relazioni, le interazioni, che possono essere verticali, orizzontali o anche trasversali.
+
+**D:** ⚠️ In base a che cosa si possono definire le divisioni, secondo la docente nella lezione 20?
+**R:** In base al **prodotto** (area strategica d'affari) oppure al **territorio** (area geografica). La docente: «parliamo di un organigramma divisionale in base al prodotto, in base a area strategica d'affari, potrebbe invece verificarsi anche la situazione in cui divisioni hanno a che fare con il territorio». Per prodotto, il caso di UniCredit, con private banking, corporate banking e retail banking; per area geografica, i paesi europei, i paesi extra Unione Europea o il solo territorio italiano. Dentro ogni divisione si ritrovano poi le funzioni ([00:20:14]–[00:21:40]). La slide 8 parla di un «particolare territorio/ASA». ⚠️ Le **funzioni** (acquisti, produzione, vendite e marketing) stanno dentro le divisioni: non sono il criterio per definirle.
+**Opzione:** In base al prodotto (area strategica d'affari) oppure in base al territorio (area geografica).
+**Distrattori:**
+- In base alla funzione (acquisti, produzione, vendite e marketing) oppure in base al territorio (area geografica).
+- La risultante delle scelte mediante le quali il lavoro è diviso, ordinato e coordinato all'interno di un sistema organizzativo.
+- Il modello funzionale.
+
+**D:** ⚠️ Da quando inizia l'organizzazione divisionale nelle banche italiane, secondo il test della lezione 20 (domanda 5)?
+**R:** «**Gli anni '80**». La slide 10, sotto «L'organizzazione divisionale nelle banche», ha «Italia (anni '80)». La docente: «in Italia questo cambiamento avviene negli anni 80» ([00:23:51]). ⚠️ La domanda dice «banche **italiane**»: gli anni '60 sono gli Stati Uniti (e la fine anni '60 l'Inghilterra), gli anni '70 la Germania. Gli **anni '90** vengono dalla lezione 18, dove sono l'inizio del cambiamento **strategico-organizzativo** delle banche italiane (slide 13 di quel deck). Distrattori del test: «gli anni '60», «gli anni '70», «gli anni '90».
+**Opzione:** Gli anni '80.
+**Distrattori:**
+- Gli anni '60.
+- Gli anni '70.
+- Gli anni '90.
+
+**D:** ⚠️ Quando arriva l'organizzazione divisionale nelle banche dei diversi paesi, secondo la slide 10 della lezione 20?
+**R:** «L'organizzazione divisionale nelle banche: • Stati Uniti (anni '60), Inghilterra (fine anni '60), Germania (anni '70) • **Italia (anni '80)**» (slide 10). La docente: «emerge a partire dalle anni 60, ovviamente i primi cambiamenti ci sono negli Stati Uniti nelle anni 60, dopodiché Inghilterra a fine delle anni 60, a Germania le anni 70, in Italia questo cambiamento avviene negli anni 80» ([00:23:51]). ⚠️ La **fine** degli anni '60 è dell'**Inghilterra**, gli anni '70 della **Germania**.
+**Opzione:** Stati Uniti (anni '60), Inghilterra (fine anni '60), Germania (anni '70); Italia (anni '80).
+**Distrattori:**
+- Stati Uniti (anni '60), Germania (fine anni '60), Inghilterra (anni '70); Italia (anni '80).
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali; difficoltà di coordinamento tra le funzioni.
+- Unità organizzative differenziate con mestieri diversi (professionalità specifiche).
+
+**D:** ⚠️ Quali cause del ritardo italiano nell'organizzazione divisionale delle banche elenca la slide 10 della lezione 20?
+**R:** «Italia (anni '80): • **Rigidità dell'ordinamento bancario vigente** (Legge Bancaria 1936-1938) • **Interpretazione vincolante** da parte di Banca d'Italia • Problematica di **ri-orientmento** dei modelli gestionali e della cultura organizzativa» (slide 10, «ri-orientmento» così). La docente: «Perché c'è questo ritardo? […] sicuramente per la rigidità dell'ordinamento bancario vigente, quindi la legge bancaria del 1936-1938, interpretazione anche abbastanza vincolante di questa trasformazione da parte della Banca d'Italia», e le criticità di riorientamento dei modelli gestionali e della cultura organizzativa ([00:24:16]–[00:24:40]). ⚠️ La legge è quella del **1936-1938**; il TUB del 1993 e la legge Amato del 1990 sono l'inizio del cambiamento degli anni '90, nella lezione 18.
+**Opzione:** Rigidità dell'ordinamento bancario vigente (Legge Bancaria 1936-1938); interpretazione vincolante da parte di Banca d'Italia; problematica di ri-orientmento dei modelli gestionali e della cultura organizzativa.
+**Distrattori:**
+- Rigidità dell'ordinamento bancario vigente (Testo Unico Bancario 1993); interpretazione vincolante da parte di Banca d'Italia; problematica di ri-orientmento dei modelli gestionali e della cultura organizzativa.
+- Funzionale: maggiore coordinamento all'interno della funzione (vantaggio) e difficoltà di coordinamento tra le funzioni (svantaggio); divisionale: migliore coordinamento delle attività della divisione (vantaggio).
+- Personale e organizzazione, finanza, amministrazione e controllo, ICT.
+
+**D:** ⚠️ Quali sono i motivi principali della trasformazione dalla F-form alla M-form, secondo la slide 10 della lezione 20?
+**R:** «Motivi principali della trasformazione: • **Maggiore efficienza** (reddittività) • **Crescente efficacia competitiva su diversi mercati** • **Focalizzazione più mirata** alla gestione delle specifiche attività» (slide 10, «reddittività» così). La docente vi premette l'aumento della dimensione e della complessità, e aggiunge la produttività e il vantaggio competitivo: l'organizzazione «diventa più flessibile» ([00:22:34]–[00:23:41]). ⚠️ L'efficacia competitiva è **su diversi mercati**.
+**Opzione:** Maggiore efficienza (reddittività); crescente efficacia competitiva su diversi mercati; focalizzazione più mirata alla gestione delle specifiche attività.
+**Distrattori:**
+- Maggiore efficienza (reddittività); crescente efficacia competitiva su un solo mercato; focalizzazione più mirata alla gestione delle specifiche attività.
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria divisione; possibili conflitti tra staff dell'amministrazione generale e staff di divisione.
+- Unità organizzative differenziate con mestieri diversi (professionalità specifiche).
+
+**D:** ⚠️ Da quando, e in quali imprese, parte la trasformazione dalla F-form alla M-form, secondo la slide 10 della lezione 20?
+**R:** «La trasformazione della struttura organizzativa: dalla "F-form" alla "M-form" • Un evento determinante del cambiamento organizzativo • **A partire della metà del XX secolo** (**grandi imprese manifatturiere**)» (slide 10, «A partire della» così). La docente: «questo cambiamento si diffonde, avviene a partire dalla metà del XX secolo, soprattutto per le grandi imprese manifatturiere» ([00:22:20]). ⚠️ Le **piccole e medie imprese** sono quelle che, per la docente, adottano la F-form ([00:07:38]).
+**Opzione:** A partire della metà del XX secolo (grandi imprese manifatturiere).
+**Distrattori:**
+- A partire della metà del XX secolo (piccole e medie imprese).
+- Secondo le diverse funzioni di cui si compone l'attività di impresa: acquistare, produrre, vendere, amministrare ecc.
+- Le aziende con una sola ASA.
+
+**D:** ⚠️ Come distingue la slide 11 della lezione 20 il modello divisionale dal modello funzionale?
+**R:** «Il modello divisionale • Un'organizzazione **progettata appositamente (artificiale)** per migliorare la performance complessiva» accanto a «Le attività di progettazione organizzativa»; «Il modello funzionale • La **formazione spontanea ed endogena** (ogni organismo sviluppa le proprie funzioni)» accanto a «L'organizzazione legata al processo (industriale, produttivo, amministrativo)» (slide 11). La docente: il divisionale è «un'organizzazione più articolata», progettata dopo aver osservato i cambiamenti nell'ambiente o nella strategia; il funzionale si forma «anche da sé», perché l'impresa «si paragona con un organismo vivente», ed è più legata al processo che alla progettazione ([00:25:03]–[00:26:44]). ⚠️ **Artificiale** il divisionale, **spontaneo** il funzionale.
+**Opzione:** Il modello divisionale: un'organizzazione progettata appositamente (artificiale) per migliorare la performance complessiva; il modello funzionale: la formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni).
+**Distrattori:**
+- Il modello divisionale: la formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni); il modello funzionale: un'organizzazione progettata appositamente (artificiale) per migliorare la performance complessiva.
+- Funzionale: maggiore coordinamento all'interno della funzione (vantaggio) e difficoltà di coordinamento tra le funzioni (svantaggio); divisionale: migliore coordinamento delle attività della divisione (vantaggio).
+- L'aumento delle dimensioni operative: estensione delle aree geografiche e territoriali frequentate; diversificazione in ASA diverse (specificità distintive importanti). L'aumento della complessità di diversificazione.
+
+**D:** ⚠️ Quale modello di struttura organizzativa nasce dalla formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni), secondo la slide 11 della lezione 20?
+**R:** «Il **modello funzionale** • La formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni)» (slide 11). La docente: l'organizzazione «si crea, si divide, si separa in diverse unità organizzative anche da sé», perché l'impresa «si paragona con un organismo vivente» e decide in modo autonomo chi fa che cosa ([00:25:48]–[00:26:37]). ⚠️ Il **divisionale** è progettato appositamente (artificiale). Il paragone con l'organismo non rimanda alla prospettiva di sistema naturale della lezione 17, che è una prospettiva teorica, non un modello di struttura. Il matriciale compare solo nell'elenco della lezione 10.
+**Opzione:** Il modello funzionale.
+**Distrattori:**
+- Il modello divisionale.
+- Il modello matriciale.
+- Prospettiva di sistema naturale.
+
+**D:** ⚠️ Su quale principio si basa l'organizzazione divisionale, e qual è la specificità del modello, secondo la slide 12 della lezione 20?
+**R:** «Il profilo distintivo del modello divisionale • L'organizzazione divisionale -> il modello basato su un **principio gerarchico** (capi e sottoposti) • La specificità del modello -> **far scendere l'autorità del comando nei livelli inferiori**» (slide 12). La docente: l'organizzazione divisionale «è basata sul principio di gerarchia come anche tra l'altro il modello funzionale»; la specificità è che il potere decisionale «potrebbe anche scendere a livelli organizzativi inferiori» ([00:26:44]–[00:27:20]). ⚠️ Il principio gerarchico, per la docente, vale anche per il funzionale: a distinguere il divisionale è l'autorità che **scende**.
+**Opzione:** Il modello basato su un principio gerarchico (capi e sottoposti); la specificità del modello: far scendere l'autorità del comando nei livelli inferiori.
+**Distrattori:**
+- Il modello basato su un principio gerarchico (capi e sottoposti); la specificità del modello: far salire l'autorità del comando nei livelli superiori.
+- La spina dorsale dell'impresa e frutto del processo di sviluppo delle attività (storia dell'impresa).
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria funzione, dandole eccessiva rilevanza rispetto alle altre attività aziendali; difficoltà di coordinamento tra le funzioni.
+
+**D:** ⚠️ Che cosa comporta far scendere l'autorità del comando nei livelli inferiori, nel modello divisionale, secondo la slide 12 della lezione 20?
+**R:** «• **Prossimità delle decisioni alla realtà** (mercati, clienti, processi) • **Maggiore responsabilizzazione delle linee intermedie** di comando-governo (divisione come un **centro di profitto**, dotato di responsabilità di risultato e di poteri di governo delle proprie leve gestionali)» (slide 12). La docente: il direttore generale «non sta molto vicino al mercato», mentre i direttori di una divisione stanno a maggior contatto con il mercato e rispondono più in fretta ([00:27:35]–[00:28:31]); il middle management prende le decisioni «senza necessariamente chiedere il consenso del top manager» ([00:28:42]); la divisione è «un centro di profitto dotato di responsabilità sul risultato» ([00:29:09]). ⚠️ Centro di **profitto**, con responsabilità di **risultato**.
+**Opzione:** Prossimità delle decisioni alla realtà (mercati, clienti, processi); maggiore responsabilizzazione delle linee intermedie di comando-governo (divisione come un centro di profitto, dotato di responsabilità di risultato e di poteri di governo delle proprie leve gestionali).
+**Distrattori:**
+- Prossimità delle decisioni alla realtà (mercati, clienti, processi); maggiore responsabilizzazione delle linee intermedie di comando-governo (divisione come un centro di costo, dotato di responsabilità di risultato e di poteri di governo delle proprie leve gestionali).
+- Ufficio fidi, ufficio titoli, ufficio estero, tesoreria, direzione commerciale, gestione del personale ecc.
+- Un evento determinante del cambiamento organizzativo.
+
+**D:** ⚠️ Che cosa comprende l'empowerment, valore della divisionalizzazione, secondo la slide 12 della lezione 20?
+**R:** «Il valore della divisionalizzazione è l'*empowerment*: • **Attribuzione di poteri, delega, mandato** • **Controllo tempestivo** per la rilevazione, misurazione e analisi degli scostamenti obiettivi-risultati -> input per le scelte strategiche e le decisioni operative» (slide 12). La docente: «delegando noi dobbiamo anche saper controllare»; il top management fissa un obiettivo, misura la performance di ogni divisione, e questa analisi «può e deve diventare anche l'input per le scelte strategiche e le decisioni operative» ([00:29:35]–[00:30:47]). ⚠️ Il controllo è **tempestivo**, e la delega lo richiede.
+**Opzione:** Attribuzione di poteri, delega, mandato; controllo tempestivo per la rilevazione, misurazione e analisi degli scostamenti obiettivi-risultati -> input per le scelte strategiche e le decisioni operative.
+**Distrattori:**
+- Attribuzione di poteri, delega, mandato; controllo differito per la rilevazione, misurazione e analisi degli scostamenti obiettivi-risultati -> input per le scelte strategiche e le decisioni operative.
+- Il modello divisionale: un'organizzazione progettata appositamente (artificiale) per migliorare la performance complessiva; il modello funzionale: la formazione spontanea ed endogena (ogni organismo sviluppa le proprie funzioni).
+- Ufficio fidi, ufficio titoli, ufficio estero, tesoreria, direzione commerciale, gestione del personale ecc.
+
+**D:** ⚠️ Qual è il valore della divisionalizzazione, secondo la slide 12 della lezione 20?
+**R:** «Il valore della divisionalizzazione è l'***empowerment***» (slide 12), cioè attribuzione di poteri, delega, mandato e controllo tempestivo. La docente: «Il valore della divisionalizzazione sicuramente come abbiamo visto prima è l'empowerment perché attribuisce il potere delega mandato quindi ai livelli più bassi» ([00:29:35]). ⚠️ La docente parla di empowerment anche per il potere decisionale del manager funzionale ([00:14:32]) e per la leadership ([00:03:43]); nella slide il valore dell'empowerment è della **divisionalizzazione**. La **centralizzazione** non compare in questa lezione: è uno dei principi di Fayol (lezione 17, slide 6).
+**Opzione:** L'empowerment.
+**Distrattori:**
+- La centralizzazione.
+- La finalizzazione.
+- Informational.
+
+**D:** ⚠️ Che cosa ha consentito l'organizzazione divisionale nelle banche, e che contenuto hanno i ruoli divisionali e quelli funzionali, secondo la slide 13 della lezione 20?
+**R:** «L'organizzazione divisionale ha consentito **l'ingresso e la diffusione della cultura e dei metodi manageriali** nelle banche: • ruoli divisionali – **contenuto manageriale**, • ruoli funzionali – **contenuto tecnico-professionale**» (slide 13). La docente: prima nelle banche c'era spesso il modello burocratico, tipico di un ambiente «molto stabile e abbastanza prevedibile»; con la progettazione multidivisionale entrano le filosofie di gestione manageriali e imprenditoriali ([00:31:02]–[00:31:45]). I ruoli divisionali sono di «gestione di controllo e di coordinamento», quelli funzionali «più tecnico-professionale», come il direttore di marketing o di ricerca e sviluppo ([00:31:48]–[00:32:31]). ⚠️ **Manageriale** il divisionale, **tecnico-professionale** il funzionale.
+**Opzione:** L'ingresso e la diffusione della cultura e dei metodi manageriali nelle banche: ruoli divisionali – contenuto manageriale, ruoli funzionali – contenuto tecnico-professionale.
+**Distrattori:**
+- L'ingresso e la diffusione della cultura e dei metodi manageriali nelle banche: ruoli divisionali – contenuto tecnico-professionale, ruoli funzionali – contenuto manageriale.
+- Incremento dell'efficienza della direzione -> i manager possono concentrare la loro attività in una solo ASA; maggiore coordinamento all'interno della funzione -> potere decisionale a ciascun manager funzionale.
+- L'organizzazione legata al processo (industriale, produttivo, amministrativo).
+
+**D:** ⚠️ Che ruolo riceve la divisione, e con quali compiti, secondo la slide 13 della lezione 20?
+**R:** «**La divisione riceve un ruolo imprenditoriale** (all'interno dei confini e vincoli imposti dal livello superiore di governo): • Coordinamento – pianificazione - controllo» (slide 13). La docente: ogni divisione si organizza «come se fosse una piccola impresa», che deve raggiungere risultati «all'interno dei confini, dei vincoli imposti dal livello superiore», cioè dal top manager, dall'amministratore delegato o dal direttore generale della banca ([00:32:31]–[00:33:09]). ⚠️ Il ruolo imprenditoriale ha **confini e vincoli** imposti dall'alto.
+**Opzione:** Un ruolo imprenditoriale (all'interno dei confini e vincoli imposti dal livello superiore di governo): coordinamento – pianificazione - controllo.
+**Distrattori:**
+- Un ruolo imprenditoriale (senza confini e vincoli imposti dal livello superiore di governo): coordinamento – pianificazione - controllo.
+- Il modello funzionale.
+- Incremento dell'efficienza della direzione -> i manager possono concentrare la loro attività in una solo ASA; maggiore coordinamento all'interno della funzione -> potere decisionale a ciascun manager funzionale.
+
+**D:** ⚠️ Quali sono i vantaggi dell'organizzazione divisionale, secondo la slide 14 della lezione 20?
+**R:** «Vantaggi: • La struttura facilita la realizzazione della **strategia di diversificazione produttiva** • La concentrazione delle attività relative ad uno specifico prodotto permette una **maggiore flessibilità delle operazioni** • **Migliore coordinamento delle attività della divisione** e migliore misurazione delle performance di ciascuna divisione rispetto alle altre» (slide 14). La docente: si controlla meglio lo sviluppo del prodotto ([00:33:25]); la flessibilità aumenta la reattività e la proattività ai cambiamenti esterni, come per UniCredit, che voleva essere più vicina al cliente ([00:33:51]–[00:34:15]); la misurazione della performance di ogni divisione affronta la criticità della misurazione del cambiamento ([00:34:23]–[00:35:04]). ⚠️ Maggiore **flessibilità**, non standardizzazione.
+**Opzione:** La struttura facilita la realizzazione della strategia di diversificazione produttiva; la concentrazione delle attività relative ad uno specifico prodotto permette una maggiore flessibilità delle operazioni; migliore coordinamento delle attività della divisione e migliore misurazione delle performance di ciascuna divisione rispetto alle altre.
+**Distrattori:**
+- La struttura facilita la realizzazione della strategia di diversificazione produttiva; la concentrazione delle attività relative ad uno specifico prodotto permette una maggiore standardizzazione delle operazioni; migliore coordinamento delle attività della divisione e migliore misurazione delle performance di ciascuna divisione rispetto alle altre.
+- Un evento determinante del cambiamento organizzativo.
+- L'organizzazione legata al processo (industriale, produttivo, amministrativo).
+
+**D:** ⚠️ Quali sono gli svantaggi dell'organizzazione divisionale, secondo la slide 14 della lezione 20?
+**R:** «Svantaggi • **Rischio di eccessiva focalizzazione** da parte del manager sulla propria divisione • **Possibili conflitti tra staff dell'amministrazione generale e staff di divisione**» (slide 14). La docente: il primo è «molto simile alla struttura funzionale», ma riferito a un prodotto e non a una funzione ([00:35:04]); i conflitti nascono perché amministrazione e controllo, personale e organizzazione stanno sia a livello corporate sia dentro ogni divisione ([00:35:30]–[00:36:36]). ⚠️ La **difficoltà di coordinamento tra le funzioni** è lo svantaggio della **funzionale** (slide 7).
+**Opzione:** Rischio di eccessiva focalizzazione da parte del manager sulla propria divisione; possibili conflitti tra staff dell'amministrazione generale e staff di divisione.
+**Distrattori:**
+- Rischio di eccessiva focalizzazione da parte del manager sulla propria divisione; difficoltà di coordinamento tra le funzioni.
+- Attribuzione di poteri, delega, mandato; controllo tempestivo per la rilevazione, misurazione e analisi degli scostamenti obiettivi-risultati -> input per le scelte strategiche e le decisioni operative.
+- Assetto e contenuto delle funzioni e dei compiti di lavoro (area per area, processo per processo, progetto per progetto).
