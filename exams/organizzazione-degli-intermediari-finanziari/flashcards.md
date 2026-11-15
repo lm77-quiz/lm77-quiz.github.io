@@ -8530,3 +8530,810 @@
 - Aspettative/esigenze delle nuove generazioni: valori, interessi e stili di vita; possibilità di uniformare le politiche del personale.
 - Contenimento e riduzione dell'organico.
 - Dagli anni '80.
+
+## Lezione 28 — Evoluzione e specificità dei sistemi informativi bancari
+
+**D:** ⚠️ Di che cosa è costituito il sistema informativo, e qual è il suo compito, secondo la slide 2 della lezione 28?
+**R:** «Il sistema informativo è costituito da un insieme di: • **Persone**, • **Apparecchiature**, • **Procedure aziendali** il cui compito è quello di **produrre informazioni che servono per operare nell'impresa e per gestirla**» (slide 2). La docente: «non parliamo soltanto ed esclusivamente di un elemento tecnologico, ma parliamo anche della componente umana e delle procedure, dei processi organizzativi» ([00:00:14]–[00:00:43]); le informazioni servono anche «per raggiungere poi gli obiettivi operativi e strategici» ([00:00:43]). ⚠️ Gli elementi sono tre e il primo sono le **persone**: il sistema informativo non è solo tecnologia. Mission e vision non ne fanno parte: sono l'intrusa della domanda 1.
+**Opzione:** Un insieme di persone, apparecchiature e procedure aziendali, il cui compito è quello di produrre informazioni che servono per operare nell'impresa e per gestirla.
+**Distrattori:**
+- Un insieme di apparecchiature, software e procedure aziendali, il cui compito è quello di produrre informazioni che servono per operare nell'impresa e per gestirla.
+- Accordi di gestione o produzione dei sistemi informativi all'esterno dell'organizzazione.
+- L'evoluzione tecnologica; prodotti e servizi nuovi; la continua evoluzione normativa; la forte connotazione contabile delle organizzazioni bancarie; l'operato degli organi di vigilanza.
+
+**D:** ⚠️ Quale elemento non fa parte dell'insieme che costituisce il sistema informativo, secondo il test della lezione 28 (domanda 1)?
+**R:** «**Mission e vision**». La slide 2: «Il sistema informativo è costituito da un insieme di: • Persone, • Apparecchiature, • Procedure aziendali»; la docente li elenca nello stesso ordine ([00:00:14]). ⚠️ La domanda è **negativa**. Mission e vision non compaiono nella lezione 28: sono il distrattore più ricorrente del corso, già nei test 01, 05, 15, 16, 19 e 23. Nemmeno la figura della slide 3 le ha: il suo lato «Organization» porta business strategy, rules e procedures. La piattaforma scrive «elmemento». Distrattori del test: «apparecchiature», «persone», «procedure aziendali».
+**Opzione:** Mission e vision.
+**Distrattori:**
+- Apparecchiature.
+- Persone.
+- Procedure aziendali.
+
+**D:** ⚠️ Quale trasformazione è in atto nei sistemi informativi, secondo la slide 2 della lezione 28?
+**R:** «Trasformazione in atto: Dai sistemi informativi **chiusi ed indipendenti** dall'organizzazione d'impresa -> ai sistemi informativi che **costituiscono il sistema nervoso di ogni organizzazione** sulla base dell'**approccio sistemico** allo studio delle organizzazioni», e sotto la freccia: «Una forte interdipendenza tra organizzazione e sistema informativo» (slide 2). La docente: oggi il sistema informativo «veramente rispecchia la natura la cultura organizzativa la strategia organizzativa», e i due elementi sono «strettamente collegati tra loro» ([00:01:00]–[00:01:57]). ⚠️ La direzione va **dai** sistemi chiusi e indipendenti **ai** sistemi che sono il sistema nervoso dell'organizzazione.
+**Opzione:** Dai sistemi informativi chiusi ed indipendenti dall'organizzazione d'impresa ai sistemi informativi che costituiscono il sistema nervoso di ogni organizzazione, sulla base dell'approccio sistemico allo studio delle organizzazioni.
+**Distrattori:**
+- Dai sistemi informativi che costituiscono il sistema nervoso di ogni organizzazione ai sistemi informativi chiusi ed indipendenti dall'organizzazione d'impresa, sulla base dell'approccio sistemico allo studio delle organizzazioni.
+- Una stretta correlazione con l'aspetto dimensionale della banca; grandi elaboratori, minicomputer, workstation, personal computer, che comportano il sostenimento di costi differenziati.
+- L'attività amministrative e contabili delle sedi centrali, per diminuire il tempo dedicato alle attività routinarie.
+
+**D:** ⚠️ Fra quali elementi c'è una forte interdipendenza, e con quali componenti, secondo le slide 2 e 3 della lezione 28?
+**R:** «Una forte interdipendenza tra **organizzazione** e **sistema informativo**» (slide 2). La figura della slide 3 la disegna: a sinistra «Organization», con «Business Strategy», «Rules», «Procedures»; a destra «Information System», con il «Software» al centro collegato a «Hardware», «Database» e «Tele-communications»; fra i due una freccia doppia, «Interdependence». La docente: «C'è la dipendenza, noi si vede questa interdipendenza tra le organizzazioni e quindi tra business strategy», procedure, regole e cultura organizzativa, e l'information system, con «software, hardware, database, telecomunicazioni eccetera» ([00:01:57]–[00:02:13]). ⚠️ Database e telecomunicazioni stanno dal lato del **sistema informativo**, la business strategy dal lato dell'**organizzazione**, e la freccia va nei due sensi.
+**Opzione:** Una forte interdipendenza tra organizzazione (business strategy, rules, procedures) e sistema informativo (software, hardware, database, telecommunications).
+**Distrattori:**
+- Una forte interdipendenza tra organizzazione (business strategy, rules, procedures, database) e sistema informativo (software, hardware, telecommunications).
+- Il valore tangibile dei sistemi informativi è presente nel bilancio di ciascuna impresa e ne rappresenta una voce estremamente significativa.
+- Dalla banca specializzata per funzioni alla struttura organizzativa per mercati di riferimento.
+
+**D:** ⚠️ Che cos'è l'hardware, secondo la slide 4 della lezione 28?
+**R:** «L'hardware attiene alla **parte tangibile** costituita da: • dispositivi di **input** (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali) • dispositivi di **output** (i monitor, le stampanti ecc.)» (slide 4). La docente: «Hardware attiene alla parte tangibile costituita dai dispositivi di input come tastiera, mouse, penna ottica, digitalizzatore vocale eccetera»; i dispositivi di output servono «per vedere poi insomma il risultato, l'outcome» ([00:02:58]–[00:03:09]). Anche se la banca offre soprattutto servizi e non prodotti tangibili, grazie all'hardware c'è una componente percepita in maniera tangibile dal personale e dal cliente allo sportello ([00:03:17]–[00:03:51]). ⚠️ Tastiera, mouse, penna ottica e digitalizzatori vocali sono di **input**, monitor e stampanti di **output**. È la definizione della domanda 2 del test.
+**Opzione:** La parte tangibile, costituita da dispositivi di input (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali) e dispositivi di output (i monitor, le stampanti ecc.).
+**Distrattori:**
+- La parte tangibile, costituita da dispositivi di input (i monitor, le stampanti ecc.) e dispositivi di output (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali).
+- È differenziato a seconda del destinatario dell'informazione: vertice strategico, livelli intermedi, nucleo operativo della struttura aziendale.
+- La creazione di filiali di piccole dimensioni (min. personale impiegato) in modo da aumentare la diffusione territoriale e di presidiare piccoli centri, soprattutto nel mercato retail.
+
+**D:** ⚠️ Come si chiama la parte tangibile del sistema informativo aziendale, costituita da dispositivi di input e dispositivi di output, secondo il test della lezione 28 (domanda 2)?
+**R:** «**Hardware**». È la slide 4: «L'hardware attiene alla parte tangibile costituita da: • dispositivi di input (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali) • dispositivi di output (i monitor, le stampanti ecc.)» ([00:02:58]). ⚠️ I tre distrattori non sono inventati: software, database e telecomunicazioni sono le altre componenti dell'«Information System» nella figura della slide 3, e la docente le nomina tutte e quattro ([00:02:13]). Il **software** ha i suoi tipi nella slide 4 (interfaccia utente, applicativo, di sistema), ma la slide non lo dice tangibile. Il **database** compare anche fra i software standard espandibili o generici della figura della slide 5. Le **telecomunicazioni** compaiono solo nella figura e a voce, senza definizione. La piattaforma scrive «telecomunication». Distrattori del test: «software», «database», «telecomunication».
+**Opzione:** Hardware.
+**Distrattori:**
+- Software.
+- Database.
+- Telecomunication.
+
+**D:** ⚠️ Che cosa implica ciascun ambiente hardware, secondo la slide 4 della lezione 28?
+**R:** «Ciascun ambiente hardware implica uno **specifico** ambiente software» (slide 4). La docente: «sono due componenti anche questi ovviamente che dipendono una dall'altra» ([00:02:45]). ⚠️ L'ambiente software è **specifico** di ciascun ambiente hardware: non va bene qualsiasi.
+**Opzione:** Ciascun ambiente hardware implica uno specifico ambiente software.
+**Distrattori:**
+- Ciascun ambiente hardware è compatibile con qualsiasi ambiente software.
+- Le organizzazioni sindacali e confederali, con esigenze informative per la tutela del cliente.
+- È fondamentale per esaminare l'avvenuta riorganizzazione nel sistema bancario italiano, il cui tratto distintivo è rappresentato dalla raccolta e dalla gestione delle informazioni.
+
+**D:** ⚠️ Di quali tipi può essere il software, e a che cosa servono l'interfaccia utente e il software di sistema, secondo la slide 4 della lezione 28?
+**R:** «Il software può essere di vario tipo: • **Interfaccia utente**, col quale l'utente interagisce con la macchina; • **Software applicativo** (standard e dedicato) […] • **Software di sistema**, col quale si gestisce il mainframe e del quale fanno parte i sistemi operativi, i programmi traduttore e i programmi di utilità» (slide 4). Nella slide il software di sistema è rientrato sotto l'applicativo, ma la docente lo presenta come «Altra tipologia del software» ([00:05:26]). Per lei l'interfaccia utente serve «sia del cliente esterno sia del cliente interno», cioè al personale e al cliente finale della banca ([00:03:56]–[00:04:22]). ⚠️ La figura della slide 5 e la docente dividono invece il software in **due** categorie, software di sistema e software applicativo ([00:05:41]): lì l'interfaccia utente non c'è. Con l'interfaccia l'**utente** interagisce con la macchina, con il software di sistema si gestisce il **mainframe**.
+**Opzione:** Interfaccia utente, col quale l'utente interagisce con la macchina; software applicativo (standard e dedicato); software di sistema, col quale si gestisce il mainframe.
+**Distrattori:**
+- Interfaccia utente, col quale si gestisce il mainframe; software applicativo (standard e dedicato); software di sistema, col quale l'utente interagisce con la macchina.
+- Struttura organizzativa, area funzionale, tipo di supporto fornito, modello di riferimento.
+- Automazione back-office; giustificazione: efficienza (operare a costi minori).
+
+**D:** ⚠️ Come definisce la slide 4 della lezione 28 il software standard e il software dedicato?
+**R:** «Software applicativo (standard e dedicato) • Il software **standard** riguarda le applicazioni realizzate per una **molteplicità eterogenea di utenti** • Il software **dedicato** viene sviluppato in funzione delle richieste di **uno specifico utente (azienda)**, non può essere adottato in altri reparti o realtà aziendali (richiede modifiche sostanziali)» (slide 4). La docente: lo standard «può essere acquistato e utilizzato in maniera semplice da diversi tipi di organizzazioni» ([00:04:43]); il dedicato è sviluppato per una specifica azienda, «un specifico intermediario finanziario una banca», e «difficilmente può essere adottato in altri riparti o da altre realtà aziendali», oppure richiede «modifiche abbastanza importanti» ([00:05:00]–[00:05:26]). ⚠️ Lo **standard** è per molti utenti, il **dedicato** per uno solo. La slide dice «non può essere adottato», la docente attenua in «difficilmente».
+**Opzione:** Il software standard riguarda le applicazioni realizzate per una molteplicità eterogenea di utenti; il software dedicato viene sviluppato in funzione delle richieste di uno specifico utente (azienda), non può essere adottato in altri reparti o realtà aziendali (richiede modifiche sostanziali).
+**Distrattori:**
+- Il software dedicato riguarda le applicazioni realizzate per una molteplicità eterogenea di utenti; il software standard viene sviluppato in funzione delle richieste di uno specifico utente (azienda), non può essere adottato in altri reparti o realtà aziendali (richiede modifiche sostanziali).
+- Una stretta correlazione con l'aspetto dimensionale della banca; grandi elaboratori, minicomputer, workstation, personal computer, che comportano il sostenimento di costi differenziati.
+- L'introduzione dei sistemi web-based, telefoni cellulari o portatili coi quali i servizi bancari sono stati resi accessibili dalla clientela in maniera autonoma.
+
+**D:** ⚠️ A che cosa serve il software di sistema, e che cosa ne fa parte, secondo la slide 4 della lezione 28?
+**R:** «Software di sistema, col quale si **gestisce il mainframe** e del quale fanno parte i **sistemi operativi**, i **programmi traduttore** e i **programmi di utilità**» (slide 4). La docente: «col quale si gestisce il mainframe del quale fanno parte i sistemi operativi, i programmi traduttori, i programmi di utilità» ([00:05:26]). Nella figura della slide 5 il ramo «Software di sistema» ha «Sistemi operativi», «Programmi traduttore», «Programmi di utilità» e «Altro». ⚠️ I **fogli elettronici** e il **database** non sono software di sistema: nella figura stanno fra i software standard espandibili o generici.
+**Opzione:** A gestire il mainframe; ne fanno parte i sistemi operativi, i programmi traduttore e i programmi di utilità.
+**Distrattori:**
+- A gestire il mainframe; ne fanno parte i sistemi operativi, i programmi traduttore e i fogli elettronici.
+- Accordi di gestione o produzione dei sistemi informativi all'esterno dell'organizzazione.
+- Automazione front-office; giustificazione: efficacia (raggiungere i risultati attesi).
+
+**D:** ⚠️ Come si articola il software applicativo nella figura della slide 5 della lezione 28?
+**R:** Nella figura della slide 5 il «Software» si divide in «Software di sistema» e «Software applicativo». L'applicativo ha due rami. Il «**Software standard**» si divide a sua volta in «Software standard espandibile o generico» (elaborazione dei testi, elaborazione grafica, fogli elettronici, database, altro), «Software standard specifico» (contabilità, CAD, pianificazione e gestione della produzione, altro) e «Software di settore» (sistemi per la pianificazione dei trasporti, per la vendita di viaggi organizzati, per l'amministrazione ospedaliera, altro). Il «**Software dedicato**» ha il controllo dello smistamento bagagli, la gestione dell'help desk, altro. La docente: l'applicativo «si divide in software standard e software dedicato», e nella figura «potete anche scoprire diverse tipologie» ([00:06:01]). ⚠️ Il **software di settore** è un ramo dello **standard**, non del dedicato.
+**Opzione:** Software standard (espandibile o generico, specifico, di settore) e software dedicato (controllo dello smistamento bagagli, gestione dell'help desk, altro).
+**Distrattori:**
+- Software standard (espandibile o generico, specifico, dedicato) e software di settore (controllo dello smistamento bagagli, gestione dell'help desk, altro).
+- Amministrazione e contabilità; applicazioni trasversali; controllo direzionale / gestione / segnalazioni; electronic banking; estero; credito; finanza e tesoreria; incassi e pagamenti; monetica; help desk; altri servizi.
+- Automazione interazione col cliente; giustificazione: strategica (ottenere vantaggi duraturi).
+
+**D:** ⚠️ Dove compaiono il database e le telecomunicazioni nella lezione 28?
+**R:** Nella figura della slide 3 «Database» e «Tele-communications» sono, con «Hardware», le componenti collegate al «Software» dentro l'«Information System». Il «Database» compare anche nella figura della slide 5, fra le voci del «Software standard espandibile o generico», con elaborazione dei testi, elaborazione grafica e fogli elettronici. La docente li nomina una volta: «parliamo qua ovviamente di diversi elementi, di diverse tecnologie come software, hardware, database, telecomunicazioni eccetera» ([00:02:13]). ⚠️ Nessuna slide li **definisce**: delle quattro componenti solo l'hardware ha una definizione, la parte tangibile (slide 4). Sono i distrattori C e D della domanda 2.
+**Opzione:** Entrambi fra le componenti del sistema informativo, accanto a software e hardware; il database anche fra i software standard espandibili o generici.
+**Distrattori:**
+- Entrambi fra le componenti del sistema informativo, accanto a software e hardware; il database anche fra i software di sistema.
+- Electronic banking: phone banking, call center, internet banking, corporate banking, trading on line; monetica: BANCOMAT / ATM, POS, carte di debito Bancomat.
+- L'attività amministrative e contabili delle sedi centrali, per diminuire il tempo dedicato alle attività routinarie.
+
+**D:** ⚠️ Che cosa implica impostare una business strategy, e quale domanda pone, secondo la slide 6 della lezione 28?
+**R:** «Impostare una *business strategy* implica la **valutazione dei costi** ad essa collegati: • È più conveniente economicamente procedere allo **sviluppo interno o in outsourcing** del processo informativo dell'organizzazione?» (slide 6). La docente: la tecnologia può far parte di tutti e tre gli elementi, ambiente, strategia e struttura organizzativa ([00:06:19]–[00:07:19]); per una business strategy basata sulle tecnologie «dobbiamo valutare non soltanto i benefici, non soltanto il vantaggio competitivo», ma anche i costi ([00:07:27]–[00:08:05]); è la domanda «critica se fare oppure se ottenere dall'esterno» ([00:08:05]). ⚠️ La slide parla dei **costi**; i benefici li aggiunge la docente, con «non soltanto».
+**Opzione:** La valutazione dei costi ad essa collegati, a partire dalla domanda se sia più conveniente economicamente procedere allo sviluppo interno o in outsourcing del processo informativo dell'organizzazione.
+**Distrattori:**
+- La valutazione dei soli benefici ad essa collegati, a partire dalla domanda se sia più conveniente economicamente procedere allo sviluppo interno o in outsourcing del processo informativo dell'organizzazione.
+- È differenziato a seconda del destinatario dell'informazione: vertice strategico, livelli intermedi, nucleo operativo della struttura aziendale.
+- Il sistema transazionale, direzionale, il groupware, il MIS - Management Information System, il DSS - Decision Support System, l'EIS - Executive Information System.
+
+**D:** ⚠️ Che cosa sono i Service Level Agreement (SLA), secondo la slide 6 della lezione 28?
+**R:** «*Service Level Agreement* (SLA) - accordi di gestione o produzione dei sistemi informativi **all'esterno** dell'organizzazione» (slide 6). La docente: è un concetto che c'è «spesso nel settore bancario», perché una banca è un'azienda «non sempre legato alla tecnologia» e potrebbe non avere le competenze per sviluppare il sistema informativo all'interno: si rivolge quindi a fornitori e partner ([00:08:31]–[00:09:20]). ⚠️ Gli SLA riguardano i sistemi informativi gestiti o prodotti **all'esterno**, cioè il ramo dell'outsourcing nella domanda «sviluppo interno o in outsourcing».
+**Opzione:** Accordi di gestione o produzione dei sistemi informativi all'esterno dell'organizzazione.
+**Distrattori:**
+- Accordi di gestione o produzione dei sistemi informativi all'interno dell'organizzazione.
+- A gestire il mainframe; ne fanno parte i sistemi operativi, i programmi traduttore e i programmi di utilità.
+- Dalla banca specializzata per funzioni alla struttura organizzativa per mercati di riferimento.
+
+**D:** ⚠️ Che cosa dice la slide 6 della lezione 28 del valore dei sistemi informativi nel bilancio?
+**R:** «Il **valore tangibile** dei sistemi informativi è presente nel bilancio di ciascuna impresa e ne rappresenta una voce **estremamente significativa**» (slide 6). La docente: è presente in bilancio «perché hanno un costo», un costo importante, anche se i sistemi informativi portano benefici notevoli, il vantaggio competitivo e la sostenibilità economica, ambientale e sociale ([00:09:20]–[00:09:58]). ⚠️ Il valore è **tangibile** e la voce è **estremamente significativa**.
+**Opzione:** Il valore tangibile dei sistemi informativi è presente nel bilancio di ciascuna impresa e ne rappresenta una voce estremamente significativa.
+**Distrattori:**
+- Il valore tangibile dei sistemi informativi è presente nel bilancio di ciascuna impresa e ne rappresenta una voce poco significativa.
+- Ciascun ambiente hardware implica uno specifico ambiente software.
+- Informativa di marketing, applicazioni CRM, rischio di mercato, antiriciclaggio, segnalazioni a organi di vigilanza, reporting e controllo di gestione.
+
+**D:** ⚠️ Qual è il ruolo del sistema informativo (elaboratore elettronico) per l'impresa, secondo la slide 7 della lezione 28?
+**R:** «Il ruolo del sistema informativo (**elaboratore elettronico**) per l'impresa: • è capace di gestire **grandi volumi** di dati e informazioni • diffonde nell'organizzazione l'uso di **procedure uniformi** e consente lo svolgimento di attività di **coordinamento e controllo** • **supporta i processi decisionali** • distribuisce l'informazione **a tutti i livelli**» (slide 7). La docente: è «anche chiamato in gergo elaboratore elettronico» ([00:09:58]); i grandi volumi permettono «una risposta rapida al cliente» ([00:10:27]); le procedure uniformi sviluppano la cultura organizzativa, perché tutti usano lo stesso sistema e seguono regole predefinite ([00:10:48]–[00:11:28]); il supporto ai processi decisionali aiuta il top management in un ambiente dinamico ([00:11:50]–[00:12:36]); l'informazione arriva a tutti i livelli anche in una struttura gerarchica, e avvia l'apprendimento organizzativo ([00:12:36]–[00:13:23]). ⚠️ Quattro voci; l'ultima ha il quantificatore «**a tutti i livelli**».
+**Opzione:** È capace di gestire grandi volumi di dati e informazioni; diffonde nell'organizzazione l'uso di procedure uniformi e consente lo svolgimento di attività di coordinamento e controllo; supporta i processi decisionali; distribuisce l'informazione a tutti i livelli.
+**Distrattori:**
+- È capace di gestire grandi volumi di dati e informazioni; diffonde nell'organizzazione l'uso di procedure uniformi e consente lo svolgimento di attività di coordinamento e controllo; supporta i processi decisionali; distribuisce l'informazione al solo vertice strategico.
+- Modello di riferimento: accentrati, legacy, client server, web-based; struttura organizzativa: sistemi dipartimentali, aziendali, o interorganizzativi.
+- Software standard (espandibile o generico, specifico, di settore) e software dedicato (controllo dello smistamento bagagli, gestione dell'help desk, altro).
+
+**D:** ⚠️ In che cosa consiste la specificità dei sistemi informativi bancari, secondo la slide 8 della lezione 28?
+**R:** «Specificità dei sistemi informativi bancari • La produzione di servizi bancari si basa sull'**acquisizione, trattamento ed organizzazione delle informazioni**. • Il settore bancario **ha anticipato**, rispetto ad altre industrie, l'introduzione delle nuove tecnologie • Autorità di vigilanza **Banca d'Italia** ha spinto le banche all'adozione di sistemi informativi **solidi e affidabili**» (slide 8). La docente: per produrre un servizio la banca raccoglie dati, richieste ed esigenze del cliente ([00:13:23]–[00:14:12]); il settore ha anticipato le nuove tecnologie per il bisogno di elaborare i dati che riceve quotidianamente ([00:14:18]); la Banca d'Italia è un attore esterno che ha spinto i sistemi informativi, e la docente la chiama «altro fattore importante» ([00:14:40]–[00:15:16]). ⚠️ Il settore bancario ha **anticipato** le altre industrie. Questi tre punti sono un elenco diverso dai cinque **fattori** di specificità della slide 9, dove torna l'operato degli organi di vigilanza.
+**Opzione:** La produzione di servizi bancari si basa sull'acquisizione, trattamento ed organizzazione delle informazioni; il settore bancario ha anticipato, rispetto ad altre industrie, l'introduzione delle nuove tecnologie; Autorità di vigilanza Banca d'Italia ha spinto le banche all'adozione di sistemi informativi solidi e affidabili.
+**Distrattori:**
+- La produzione di servizi bancari si basa sull'acquisizione, trattamento ed organizzazione delle informazioni; il settore bancario ha seguito, rispetto ad altre industrie, l'introduzione delle nuove tecnologie; Autorità di vigilanza Banca d'Italia ha spinto le banche all'adozione di sistemi informativi solidi e affidabili.
+- Una forte interdipendenza tra organizzazione (business strategy, rules, procedures) e sistema informativo (software, hardware, database, telecommunications).
+- Automazione back-office; giustificazione: efficienza (operare a costi minori).
+
+**D:** ⚠️ Quali sono i fattori di specificità dei sistemi informativi bancari, secondo la slide 9 della lezione 28?
+**R:** «Fattori di specificità dei sistemi informativi bancari: • l'**evoluzione tecnologica** (l'introduzione dei sistemi *web-based*, telefoni cellulari o portatili coi quali i servizi bancari sono stati resi accessibili dalla clientela in maniera autonoma) • **prodotti e servizi nuovi** • la **continua evoluzione normativa** • la **forte connotazione contabile** delle organizzazioni bancarie • l'**operato degli organi di vigilanza**» (slide 9). La docente li commenta nell'ordine ([00:15:16]–[00:17:21]): i prodotti e servizi nuovi sono «l'innovazione dei prodotti e del servizio» ([00:16:19]); la connotazione contabile, perché si parla «di soldi, di investimenti, di risparmi», chiede sicurezza e affidabilità dei dati ([00:16:54]). ⚠️ Cinque fattori, e l'ultimo è l'**operato degli organi di vigilanza**. Il continuo sviluppo delle risorse umane non c'è: è l'intrusa della domanda 3.
+**Opzione:** L'evoluzione tecnologica; prodotti e servizi nuovi; la continua evoluzione normativa; la forte connotazione contabile delle organizzazioni bancarie; l'operato degli organi di vigilanza.
+**Distrattori:**
+- L'evoluzione tecnologica; prodotti e servizi nuovi; la continua evoluzione normativa; la forte connotazione contabile delle organizzazioni bancarie; il continuo sviluppo delle risorse umane.
+- La valutazione dei costi ad essa collegati, a partire dalla domanda se sia più conveniente economicamente procedere allo sviluppo interno o in outsourcing del processo informativo dell'organizzazione.
+- Electronic banking: phone banking, call center, internet banking, corporate banking, trading on line; monetica: BANCOMAT / ATM, POS, carte di debito Bancomat.
+
+**D:** ⚠️ Quale tra questi non rientra fra i fattori di specificità dei sistemi informativi bancari, secondo il test della lezione 28 (domanda 3)?
+**R:** «**Il continuo sviluppo delle risorse umane**». I cinque fattori della slide 9 sono l'evoluzione tecnologica, prodotti e servizi nuovi, la continua evoluzione normativa, la forte connotazione contabile delle organizzazioni bancarie, l'operato degli organi di vigilanza ([00:15:16]–[00:17:21]). ⚠️ La domanda è **negativa**, e le persone tornano nella lezione in altri ruoli: le «Persone» sono il primo elemento del sistema informativo (slide 2); il personale è un'area funzionale dei sistemi informativi (slide 12); la «gestione personale» è una voce della macro-area amministrazione e contabilità (slide 14), e le «risorse umane» chiudono una casella della figura delle macro-aree (slide 13); gli utenti interni sono «i dipendenti della struttura aziendale» (slide 10). Lo sviluppo delle risorse umane viene dal pool delle lezioni 22–27 sulla gestione del personale. La piattaforma taglia «delle organizzazioni bancarie» dalla B. Distrattori del test: «l'operato degli organi di vigilanza.», «la forte connotazione contabile», «l'evoluzione tecnologica».
+**Opzione:** Il continuo sviluppo delle risorse umane.
+**Distrattori:**
+- L'operato degli organi di vigilanza.
+- La forte connotazione contabile.
+- L'evoluzione tecnologica.
+
+**D:** ⚠️ In che cosa consiste l'evoluzione tecnologica fra i fattori di specificità dei sistemi informativi bancari, secondo la slide 9 della lezione 28?
+**R:** «l'evoluzione tecnologica (l'introduzione dei sistemi ***web-based***, **telefoni cellulari o portatili** coi quali i servizi bancari sono stati resi accessibili **dalla clientela in maniera autonoma**)» (slide 9). La docente aggiunge i tablet e una seconda qualità: i servizi sono accessibili «in maniera autonoma e anche in maniera globalizzata», perché con questi dispositivi i clienti accedono ai servizi bancari «praticamente da soli» ([00:15:27]–[00:16:04]). ⚠️ È la **clientela** ad accedere ai servizi, e in maniera **autonoma**.
+**Opzione:** L'introduzione dei sistemi web-based, telefoni cellulari o portatili coi quali i servizi bancari sono stati resi accessibili dalla clientela in maniera autonoma.
+**Distrattori:**
+- L'introduzione dei sistemi web-based, telefoni cellulari o portatili coi quali i servizi bancari sono stati resi accessibili dalla clientela in maniera assistita dal personale di sportello.
+- Interfaccia utente, col quale l'utente interagisce con la macchina; software applicativo (standard e dedicato); software di sistema, col quale si gestisce il mainframe.
+- Le organizzazioni sindacali e confederali, con esigenze informative per la tutela del cliente.
+
+**D:** ⚠️ Come si differenzia il contenuto informativo del sistema bancario, secondo la slide 9 della lezione 28?
+**R:** «**Il contenuto informativo del sistema bancario** è **differenziato a seconda del destinatario** dell'informazione: • vertice strategico • livelli intermedi • nucleo operativo della struttura aziendale» (slide 9). La docente: per il vertice strategico, per esempio, il supporto al decision making; per i livelli intermedi, cioè il management, la supervisione, il coordinamento, il controllo e la relazione con i propri subordinati; per il nucleo operativo, il supporto alle attività quotidiane dei livelli più bassi ([00:17:27]–[00:18:33]). ⚠️ Il contenuto è **differenziato**. Uniformi sono invece le **procedure** che il sistema informativo diffonde nell'organizzazione (slide 7).
+**Opzione:** È differenziato a seconda del destinatario dell'informazione: vertice strategico, livelli intermedi, nucleo operativo della struttura aziendale.
+**Distrattori:**
+- È uniforme per ogni destinatario dell'informazione: vertice strategico, livelli intermedi, nucleo operativo della struttura aziendale.
+- A gestire il mainframe; ne fanno parte i sistemi operativi, i programmi traduttore e i programmi di utilità.
+- Struttura organizzativa, area funzionale, tipo di supporto fornito, modello di riferimento.
+
+**D:** ⚠️ Quali sono i soggetti coinvolti nel sistema informativo bancario, e con quali esigenze, secondo la slide 10 della lezione 28?
+**R:** «I soggetti coinvolti nel sistema informativo bancario: • i **clienti**: esigenze informative **in continua crescita** • il **management o governo del sistema**: **elevate esigenze conoscitive** • gli **utenti interni** (i dipendenti della struttura aziendale) • le **organizzazioni esterne** (organizzazioni sindacali e confederali): esigenze informative **per la tutela del cliente** • il **sistema legislativo e normativo** (Banca d'Italia e Tesoreria dello Stato)» (slide 10). La docente: gli stakeholder che usano il sistema informativo bancario «sono molteplici», dai clienti al sistema legislativo e normativo «italiano e europeo» ([00:18:33]); i clienti chiedono trasparenza, risposte rapide e informazioni aggiornate ([00:19:00]); il management trasforma le informazioni in conoscenza, che può diventare patrimonio intellettuale e apprendimento organizzativo ([00:19:17]–[00:19:56]); i dipendenti devono raccogliere, visualizzare ed elaborare i dati sui clienti ([00:19:56]–[00:20:25]); Banca d'Italia e Tesoreria dello Stato fanno il controllo ([00:20:32]). ⚠️ Le esigenze **in continua crescita** sono dei clienti, le **elevate esigenze conoscitive** del management.
+**Opzione:** I clienti: esigenze informative in continua crescita; il management o governo del sistema: elevate esigenze conoscitive; gli utenti interni (i dipendenti della struttura aziendale); le organizzazioni esterne (organizzazioni sindacali e confederali): esigenze informative per la tutela del cliente; il sistema legislativo e normativo (Banca d'Italia e Tesoreria dello Stato).
+**Distrattori:**
+- I clienti: elevate esigenze conoscitive; il management o governo del sistema: esigenze informative in continua crescita; gli utenti interni (i dipendenti della struttura aziendale); le organizzazioni esterne (organizzazioni sindacali e confederali): esigenze informative per la tutela del cliente; il sistema legislativo e normativo (Banca d'Italia e Tesoreria dello Stato).
+- Un insieme di persone, apparecchiature e procedure aziendali, il cui compito è quello di produrre informazioni che servono per operare nell'impresa e per gestirla.
+- Amministrazione e contabilità; applicazioni trasversali; controllo direzionale / gestione / segnalazioni; electronic banking; estero; credito; finanza e tesoreria; incassi e pagamenti; monetica; help desk; altri servizi.
+
+**D:** ⚠️ Quali organizzazioni esterne sono coinvolte nel sistema informativo bancario, e con quali esigenze, secondo la slide 10 della lezione 28?
+**R:** «le organizzazioni esterne (**organizzazioni sindacali e confederali**): esigenze informative **per la tutela del cliente**» (slide 10). La docente: «qua parliamo soprattutto delle organizzazioni sindacali, confederali, anche loro hanno le esigenze informative soprattutto per la tutela del cliente» ([00:20:25]–[00:20:32]). ⚠️ Le esigenze sono per la tutela del **cliente**, non dei lavoratori. Nella lezione 27 sono la stabilità dell'impiego e il controllo delle regole del mercato interno a essere uno strumento di difesa dei lavoratori, nella giustificazione politica del mercato interno.
+**Opzione:** Le organizzazioni sindacali e confederali, con esigenze informative per la tutela del cliente.
+**Distrattori:**
+- Le organizzazioni sindacali e confederali, con esigenze informative per la tutela dei lavoratori.
+- Entrambi fra le componenti del sistema informativo, accanto a software e hardware; il database anche fra i software standard espandibili o generici.
+- Modello di riferimento: accentrati, legacy, client server, web-based; struttura organizzativa: sistemi dipartimentali, aziendali, o interorganizzativi.
+
+**D:** ⚠️ Con che cosa sono in stretta correlazione le dimensioni del sistema informativo bancario, e quali tipologie di elaboratori comprende, secondo la slide 11 della lezione 28?
+**R:** «Le dimensioni del sistema informativo bancario: **Stretta correlazione con l'aspetto dimensionale della banca**. Diverse tipologie di elaboratori: • Grandi elaboratori • Minicomputer • Workstation • Personal computer», e sotto la freccia: «Comportano il sostenimento di **costi differenziati**» (slide 11). La docente: «più grande la banca ha bisogno di sistemi informativi più sviluppati, più elaborati, più avanzati» ([00:21:02]); oggi si usano per il lavoro anche telefoni cellulari, tablet e palmari, per esempio in smart working e nel lavoro agile ([00:21:29]–[00:22:03]). ⚠️ I costi sono **differenziati**. L'elenco della docente è più lungo di quello della slide.
+**Opzione:** Una stretta correlazione con l'aspetto dimensionale della banca; grandi elaboratori, minicomputer, workstation, personal computer, che comportano il sostenimento di costi differenziati.
+**Distrattori:**
+- Una stretta correlazione con l'aspetto dimensionale della banca; grandi elaboratori, minicomputer, workstation, personal computer, che comportano il sostenimento di costi uniformi.
+- Un insieme di persone, apparecchiature e procedure aziendali, il cui compito è quello di produrre informazioni che servono per operare nell'impresa e per gestirla.
+- Il sistema transazionale, direzionale, il groupware, il MIS - Management Information System, il DSS - Decision Support System, l'EIS - Executive Information System.
+
+**D:** ⚠️ Quali sono le due tipologie dei sistemi informativi, e di che cosa si occupa ciascuna, secondo la slide 12 della lezione 28?
+**R:** «Tipologie dei sistemi informativi: • Sistema informativo **di base o legacy**: • **Transazioni con la clientela**: gestione dei conti correnti o dei depositi • Sistema informativo **di supporto alle decisioni**: • **aggregazione dei dati** utili per l'assunzione di rilevanti decisioni in merito alle strategie» (slide 12). La docente: il sistema di base «normalmente tratta le transazioni con la clientela», conti correnti, depositi, risparmi; quello di supporto alle decisioni serve al decision making e allo sviluppo delle strategie organizzative ([00:22:24]–[00:23:01]). ⚠️ «Legacy» torna due volte nella slide 12: è l'altro nome del sistema **di base** ed è uno dei modelli di riferimento («accentrati, legacy, client server, web-based»). Non va confuso con l'**effetto legacy** delle lezioni 06 e 07, l'eredità del passato.
+**Opzione:** Sistema informativo di base o legacy, per le transazioni con la clientela: gestione dei conti correnti o dei depositi; sistema informativo di supporto alle decisioni: aggregazione dei dati utili per l'assunzione di rilevanti decisioni in merito alle strategie.
+**Distrattori:**
+- Sistema informativo di supporto alle decisioni, per le transazioni con la clientela: gestione dei conti correnti o dei depositi; sistema informativo di base o legacy: aggregazione dei dati utili per l'assunzione di rilevanti decisioni in merito alle strategie.
+- Software standard (espandibile o generico, specifico, di settore) e software dedicato (controllo dello smistamento bagagli, gestione dell'help desk, altro).
+- La parte tangibile, costituita da dispositivi di input (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali) e dispositivi di output (i monitor, le stampanti ecc.).
+
+**D:** ⚠️ Quali sono le altre variabili per la classificazione dei sistemi informativi, secondo la slide 12 della lezione 28?
+**R:** «Altre variabili per la classificazione dei SI: • **Struttura organizzativa** (sistemi dipartimentali, aziendali, o interorganizzativi) • **Area funzionale** (sistema della contabilità, della finanza, del personale, del controllo di gestione, dei crediti, dell'estero, dell'auditing) • **Tipo di supporto fornito** (il sistema transazionale, direzionale, il groupware, il MIS - Management Information System, il DSS - Decision Support System, l'EIS - Executive Information System) • **Modello di riferimento** (accentrati, legacy, client server, web-based)» (slide 12). La docente le elenca nell'ordine ([00:23:01]–[00:24:58]), poi: «Adesso non andiamo a approfondire questi concetti», perché conta capire come i sistemi informativi aiutano strategie, cambiamento, struttura e processi organizzativi ([00:24:58]). ⚠️ Le variabili sono **quattro**, e l'ultima è il **modello di riferimento**. Il destinatario dell'informazione differenzia il **contenuto informativo** (slide 9), non classifica i sistemi.
+**Opzione:** Struttura organizzativa, area funzionale, tipo di supporto fornito, modello di riferimento.
+**Distrattori:**
+- Struttura organizzativa, area funzionale, tipo di supporto fornito, destinatario dell'informazione.
+- Il valore tangibile dei sistemi informativi è presente nel bilancio di ciascuna impresa e ne rappresenta una voce estremamente significativa.
+- Dai sistemi informativi chiusi ed indipendenti dall'organizzazione d'impresa ai sistemi informativi che costituiscono il sistema nervoso di ogni organizzazione, sulla base dell'approccio sistemico allo studio delle organizzazioni.
+
+**D:** ⚠️ Quali sistemi distingue la variabile tipo di supporto fornito, secondo la slide 12 della lezione 28?
+**R:** «Tipo di supporto fornito (il sistema **transazionale**, **direzionale**, il **groupware**, il **MIS** - *Management Information System*, il **DSS** - *Decision Support System*, l'**EIS** - *Executive Information System*)» (slide 12). La docente: il groupware è «un sistema importante per il lavoro di gruppo, quindi per team working», per condividere le conoscenze e favorire il cambiamento e l'innovazione organizzativa ([00:23:55]–[00:24:31]); MIS, DSS ed EIS «si differenziano anche dal punto di vista degli utenti che li utilizzano» ([00:24:31]; il transcript scrive «AIS»). ⚠️ Ogni sigla va con il suo nome: **MIS** = Management Information System, **DSS** = Decision Support System, **EIS** = Executive Information System.
+**Opzione:** Il sistema transazionale, direzionale, il groupware, il MIS - Management Information System, il DSS - Decision Support System, l'EIS - Executive Information System.
+**Distrattori:**
+- Il sistema transazionale, direzionale, il groupware, il MIS - Decision Support System, il DSS - Management Information System, l'EIS - Executive Information System.
+- Dai sistemi informativi chiusi ed indipendenti dall'organizzazione d'impresa ai sistemi informativi che costituiscono il sistema nervoso di ogni organizzazione, sulla base dell'approccio sistemico allo studio delle organizzazioni.
+- Informativa di marketing, applicazioni CRM, rischio di mercato, antiriciclaggio, segnalazioni a organi di vigilanza, reporting e controllo di gestione.
+
+**D:** ⚠️ Quali sistemi distinguono le variabili modello di riferimento e struttura organizzativa, secondo la slide 12 della lezione 28?
+**R:** «Struttura organizzativa (sistemi **dipartimentali, aziendali, o interorganizzativi**)»; «Modello di riferimento (**accentrati, legacy, client server, web-based**)» (slide 12). La docente: i sistemi interorganizzativi servono alle partnership fra diverse organizzazioni ([00:23:04]–[00:23:21]); i modelli di riferimento sono «accentrati, legacy, client-server, web-based, eccetera, eccetera» ([00:24:49]). ⚠️ Dipartimentali, aziendali e interorganizzativi vanno con la **struttura organizzativa**; accentrati, legacy, client server e web-based con il **modello di riferimento**.
+**Opzione:** Modello di riferimento: accentrati, legacy, client server, web-based; struttura organizzativa: sistemi dipartimentali, aziendali, o interorganizzativi.
+**Distrattori:**
+- Modello di riferimento: sistemi dipartimentali, aziendali, o interorganizzativi; struttura organizzativa: accentrati, legacy, client server, web-based.
+- La parte tangibile, costituita da dispositivi di input (la tastiera, il mouse, la penna ottica, i digitalizzatori vocali) e dispositivi di output (i monitor, le stampanti ecc.).
+- È fondamentale per esaminare l'avvenuta riorganizzazione nel sistema bancario italiano, il cui tratto distintivo è rappresentato dalla raccolta e dalla gestione delle informazioni.
+
+**D:** ⚠️ A quale variabile di classificazione dei sistemi informativi corrisponde l'elenco «sistema della contabilità, della finanza, del personale, del controllo di gestione, dei crediti, dell'estero, dell'auditing», secondo la slide 12 della lezione 28?
+**R:** «**Area funzionale** (sistema della contabilità, della finanza, del personale, del controllo di gestione, dei crediti, dell'estero, dell'auditing)» (slide 12). La docente: il sistema informativo «può essere diverso per diverse aree di lavoro, per diversi riparti organizzativi», con l'estero come internazionalizzazione, «eccetera eccetera»; in base alle specificità di ogni reparto varia il sistema informativo o un suo modulo ([00:23:21]–[00:23:55]). ⚠️ Le aree di lavoro e i reparti sono l'**area funzionale**; alla **struttura organizzativa** vanno i sistemi dipartimentali, aziendali o interorganizzativi. Il personale, qui, è un'area funzionale del sistema informativo: uno degli appigli dell'intrusa della domanda 3.
+**Opzione:** La variabile area funzionale.
+**Distrattori:**
+- La variabile struttura organizzativa.
+- La variabile tipo di supporto fornito.
+- La variabile modello di riferimento.
+
+**D:** ⚠️ Quali sono le macro-aree del sistema informativo bancario, nell'ordine delle slide 14–15 della lezione 28?
+**R:** «1. AMMINISTRAZIONE E CONTABILITÀ […] 2. APPLICAZIONI TRASVERSALI […] 3. CONTROLLO DIREZIONALE / GESTIONE / SEGNALAZIONI […] 4. ELECTRONIC BANKING […] 5. ESTERO […] 6. CREDITO […] 7. FINANZA E TESORERIA […] 8. INCASSI E PAGAMENTI […] 9. MONETICA […] 10. HELP DESK 11. ALTRI SERVIZI» (slide 14–15), ciascuna con le sue voci tranne l'help desk. La docente legge le prime quattro, poi: «ci sono diverse aree che non vado adesso ad elencare, le potete approfondire anche in maniera autonoma», anche nell'articolo allegato alle lezioni ([00:26:13]–[00:27:46]). La slide 13 ne dà la figura, «Macro-aree del sistema informativo bancario», con al centro i blocchi Raccolta, Incassi e pagamenti, Credito, Finanza e Altro. ⚠️ Le aree sono undici, e la seconda sono le applicazioni **trasversali**. «Dipartimentali» sono invece i sistemi di un tipo di struttura organizzativa (slide 12).
+**Opzione:** Amministrazione e contabilità; applicazioni trasversali; controllo direzionale / gestione / segnalazioni; electronic banking; estero; credito; finanza e tesoreria; incassi e pagamenti; monetica; help desk; altri servizi.
+**Distrattori:**
+- Amministrazione e contabilità; applicazioni dipartimentali; controllo direzionale / gestione / segnalazioni; electronic banking; estero; credito; finanza e tesoreria; incassi e pagamenti; monetica; help desk; altri servizi.
+- Automazione interazione col cliente; giustificazione: strategica (ottenere vantaggi duraturi).
+- La creazione di filiali di piccole dimensioni (min. personale impiegato) in modo da aumentare la diffusione territoriale e di presidiare piccoli centri, soprattutto nel mercato retail.
+
+**D:** ⚠️ Quali voci comprendono le macro-aree amministrazione e contabilità e applicazioni trasversali, secondo la slide 14 della lezione 28?
+**R:** «1. AMMINISTRAZIONE E CONTABILITÀ gestione approvvigionamenti ed economato, contabilità generale, **gestione personale**, gestione soci banca, applicazioni gestione immobili, bilancio, banche corrispondenti 2. APPLICAZIONI TRASVERSALI **anagrafe**, cassa centrale, **conti correnti**, depositi, informative alla clientela, condizioni» (slide 14). La docente: è «tutta l'area che si occupa dell'amministrazione e della contabilità della banca» ([00:26:13]–[00:26:38]); l'anagrafe è «il profilo del cliente» ([00:26:38]). ⚠️ La gestione del personale sta nell'amministrazione e contabilità, i conti correnti fra le applicazioni trasversali.
+**Opzione:** Amministrazione e contabilità: gestione approvvigionamenti ed economato, contabilità generale, gestione personale, gestione soci banca, applicazioni gestione immobili, bilancio, banche corrispondenti; applicazioni trasversali: anagrafe, cassa centrale, conti correnti, depositi, informative alla clientela, condizioni.
+**Distrattori:**
+- Amministrazione e contabilità: gestione approvvigionamenti ed economato, contabilità generale, conti correnti, gestione soci banca, applicazioni gestione immobili, bilancio, banche corrispondenti; applicazioni trasversali: anagrafe, cassa centrale, gestione personale, depositi, informative alla clientela, condizioni.
+- Automazione front-office; giustificazione: efficacia (raggiungere i risultati attesi).
+- Ciascun ambiente hardware implica uno specifico ambiente software.
+
+**D:** ⚠️ Quali voci comprende la macro-area controllo direzionale / gestione / segnalazioni, secondo la slide 14 della lezione 28?
+**R:** «3. CONTROLLO DIREZIONALE / GESTIONE / SEGNALAZIONI informativa di marketing, **applicazioni CRM**, rischio di mercato, **antiriciclaggio**, **segnalazioni a organi di vigilanza**, reporting e controllo di gestione» (slide 14). La docente ne legge solo il nome ([00:26:49]). ⚠️ La contabilità generale sta nell'amministrazione e contabilità; qui ci sono il CRM, le segnalazioni alla vigilanza e il reporting.
+**Opzione:** Informativa di marketing, applicazioni CRM, rischio di mercato, antiriciclaggio, segnalazioni a organi di vigilanza, reporting e controllo di gestione.
+**Distrattori:**
+- Informativa di marketing, contabilità generale, rischio di mercato, antiriciclaggio, segnalazioni a organi di vigilanza, reporting e controllo di gestione.
+- L'introduzione dei sistemi web-based, telefoni cellulari o portatili coi quali i servizi bancari sono stati resi accessibili dalla clientela in maniera autonoma.
+- Una forte interdipendenza tra organizzazione (business strategy, rules, procedures) e sistema informativo (software, hardware, database, telecommunications).
+
+**D:** ⚠️ Quali voci comprendono le macro-aree electronic banking e monetica, secondo le slide 14–15 della lezione 28?
+**R:** «4. ELECTRONIC BANKING Phone banking, **Call center**, Internet banking, Corporate banking, Trading on line.» (slide 14); «9. MONETICA BANCOMAT / ATM, **POS**, carte di debito Bancomat.» (slide 15). La docente: l'electronic banking «è un'area veramente importante che approfondiremo in una delle prossime lezioni», con servizi che possono aumentare la qualità del servizio e la soddisfazione del cliente ([00:26:49]–[00:27:22]). La monetica non la legge. ⚠️ Il call center è dell'electronic banking, ATM e POS della monetica. Nella lezione 08 ATM, point of sales, phone banking e internet banking stanno invece tutti fra i canali distributivi tecnologici.
+**Opzione:** Electronic banking: phone banking, call center, internet banking, corporate banking, trading on line; monetica: BANCOMAT / ATM, POS, carte di debito Bancomat.
+**Distrattori:**
+- Electronic banking: phone banking, POS, internet banking, corporate banking, trading on line; monetica: BANCOMAT / ATM, call center, carte di debito Bancomat.
+- Interfaccia utente, col quale l'utente interagisce con la macchina; software applicativo (standard e dedicato); software di sistema, col quale si gestisce il mainframe.
+- La valutazione dei costi ad essa collegati, a partire dalla domanda se sia più conveniente economicamente procedere allo sviluppo interno o in outsourcing del processo informativo dell'organizzazione.
+
+**D:** ⚠️ Perché la variabile tecnologica di ICT è fondamentale, e qual è il tratto distintivo del sistema bancario italiano, secondo la slide 16 della lezione 28?
+**R:** «La variabile tecnologica di ICT (*Information & Communication Technology*) è fondamentale per **esaminare l'avvenuta riorganizzazione** nel sistema bancario italiano, il cui tratto distintivo è rappresentato dalla **raccolta** e dalla **gestione** delle **informazioni**» (slide 16). La docente: «proprio la natura del sistema bancario, del servizio del prodotto bancario, si basa sulla raccolta e sulla gestione delle informazioni»; esaminando le ICT di un'impresa si capisce se si sta adeguando ai cambiamenti del mercato e dell'ambiente ([00:27:46]–[00:28:30]). ⚠️ Il tratto distintivo è la raccolta e la gestione delle **informazioni**, non del risparmio.
+**Opzione:** È fondamentale per esaminare l'avvenuta riorganizzazione nel sistema bancario italiano, il cui tratto distintivo è rappresentato dalla raccolta e dalla gestione delle informazioni.
+**Distrattori:**
+- È fondamentale per esaminare l'avvenuta riorganizzazione nel sistema bancario italiano, il cui tratto distintivo è rappresentato dalla raccolta e dalla gestione del risparmio.
+- Estero, bonifici estero, pagamenti internazionali.
+- Entrambi fra le componenti del sistema informativo, accanto a software e hardware; il database anche fra i software standard espandibili o generici.
+
+**D:** ⚠️ Quali sono le tappe dell'evoluzione dell'applicazione di ICT nelle banche, secondo la slide 16 della lezione 28?
+**R:** «Evoluzione dell'applicazione di ICT nelle banche: 1. L'attività amministrative e contabili delle **sedi centrali** (**diminuire il tempo dedicato alle attività routinarie**) 2. La possibilità di **decentrare** informazioni e responsabilità 3. La **delocalizzazione dell'offerta** e la **separazione della fase di produzione da quella di distribuzione** dei servizi» (slide 16, «L'attività amministrative» così). La docente: l'attività amministrativa e contabile delle sedi centrali «è stata una prima attività supportata» dalle ICT, per diminuire il tempo delle attività routinarie; il «secondo step» porta le informazioni preziose a diversi livelli organizzativi; il «terzo step» è la delocalizzazione, con la globalizzazione e i servizi fruibili da posti lontani, senza più rivolgersi a una filiale ([00:28:30]–[00:29:48]). ⚠️ Informazioni e responsabilità si **decentrano**. Sono tre tappe in sequenza, che la domanda 4 del test chiama «vantaggi»; non coincidono con le tre fasi dell'automazione della slide 17.
+**Opzione:** L'attività amministrative e contabili delle sedi centrali (diminuire il tempo dedicato alle attività routinarie); la possibilità di decentrare informazioni e responsabilità; la delocalizzazione dell'offerta e la separazione della fase di produzione da quella di distribuzione dei servizi.
+**Distrattori:**
+- L'attività amministrative e contabili delle sedi centrali (diminuire il tempo dedicato alle attività routinarie); la possibilità di accentrare informazioni e responsabilità; la delocalizzazione dell'offerta e la separazione della fase di produzione da quella di distribuzione dei servizi.
+- Fidi e garanzie, sofferenze ed incagli, informativa di rischio, leasing, factoring, mutui.
+- Assegni, bonifici Italia, imposte e servizi vari, portafoglio, tesoreria enti, utenze, incassi da concessionari, pagamento pensioni, pagamento tributi.
+
+**D:** ⚠️ Qual è la prima attività supportata dalle ICT nell'evoluzione della loro applicazione nelle banche, e con quale obiettivo, secondo la slide 16 della lezione 28?
+**R:** «1. L'attività amministrative e contabili delle **sedi centrali** (diminuire il tempo dedicato alle attività routinarie)» (slide 16). La docente: «l'attività amministrativa e contabile delle sedi centrali è stata una prima attività supportata dall'information communication technologies ovviamente con l'obiettivo di diminuire il tempo dedicato alle attività rotinarie» ([00:28:30]–[00:28:41]). ⚠️ Viene **prima**; la delocalizzazione dell'offerta è il **terzo** step ([00:29:10]).
+**Opzione:** L'attività amministrative e contabili delle sedi centrali, per diminuire il tempo dedicato alle attività routinarie.
+**Distrattori:**
+- La delocalizzazione dell'offerta, per diminuire il tempo dedicato alle attività routinarie.
+- Identificazione delle famiglie professionali.
+- Con la gestione di processi di mobilità interna ed esterna.
+
+**D:** ⚠️ Quale elemento non fa parte dei vantaggi dell'evoluzione dell'applicazione di ICT nelle banche, secondo il test della lezione 28 (domanda 4)?
+**R:** «**Aumento del turnover organizzativo**». La slide 16 elenca tre tappe dell'«Evoluzione dell'applicazione di ICT nelle banche»: le attività amministrative e contabili delle sedi centrali, per «diminuire il tempo dedicato alle attività routinarie»; la possibilità di decentrare informazioni e responsabilità; la delocalizzazione dell'offerta e la separazione della fase di produzione da quella di distribuzione dei servizi ([00:28:30]–[00:29:19]). ⚠️ La chiave regge ma **non è testuale**: la slide non parla di «vantaggi», e la docente presenta le tre voci come step successivi. Il **turnover** non compare nella lezione 28: viene dal pool delle lezioni 22–27 sulla gestione del personale (il turnover esterno nella 22, «uscite e nuove assunzioni» nella 26, il «rapporto tra uscite/entrate e organico» nella 27). I distrattori A e D tagliano la slide: la A è la parentesi della prima tappa, la D la prima metà della terza. Distrattori del test: «diminuzione del tempo dedicato alle attività routinarie», «possibilità di decentrare informazioni e responsabilità», «delocalizzazione dell'offerta».
+**Opzione:** Aumento del turnover organizzativo.
+**Distrattori:**
+- Diminuzione del tempo dedicato alle attività routinarie.
+- Possibilità di decentrare informazioni e responsabilità.
+- Delocalizzazione dell'offerta.
+
+**D:** ⚠️ Qual è l'obiettivo primario della fase I degli stadi evolutivi dell'automazione in banca, e con quale giustificazione, secondo la slide 17 della lezione 28?
+**R:** Nella tabella della slide 17, «Stadi evolutivi dell'automazione in banca», la colonna della **fase I** porta: obiettivo primario «**AUTOMAZIONE BACK-OFFICE**», giustificazione «**EFFICIENZA**», e sotto «operare a costi minori». La docente: nella prima fase «parliamo dell'automazione innanzitutto di back office», per aumentare l'efficienza e la produttività delle attività di back office, «quindi operare a costi minori» ([00:29:48]–[00:30:09]). ⚠️ Fase I = **back-office** = **efficienza**: il front-office e l'efficacia sono della fase II. È la chiave della domanda 5 del test.
+**Opzione:** Automazione back-office; giustificazione: efficienza (operare a costi minori).
+**Distrattori:**
+- Automazione front-office; giustificazione: efficienza (operare a costi minori).
+- Quantitativo e qualitativo.
+- Employer branding.
+
+**D:** ⚠️ Qual è l'obiettivo primario della fase II degli stadi evolutivi dell'automazione in banca, e con quale giustificazione, secondo la slide 17 della lezione 28?
+**R:** Nella tabella della slide 17 la colonna della **fase II** porta: obiettivo primario «**AUTOMAZIONE FRONT-OFFICE**», giustificazione «**EFFICACIA**», e sotto «raggiungere i risultati attesi». La docente: non si parla più soltanto della riduzione dei costi, ma «dell'aumento di efficacia, la qualità del servizio fornito, del legame che si crea con il cliente, della fidelizzazione», cioè raggiungere i risultati attesi soddisfacendo le esigenze del cliente ([00:30:09]–[00:30:47]). ⚠️ Fase II = **front-office** = **efficacia**: il back-office e l'efficienza, operare a costi minori, sono della fase I.
+**Opzione:** Automazione front-office; giustificazione: efficacia (raggiungere i risultati attesi).
+**Distrattori:**
+- Automazione back-office; giustificazione: efficacia (raggiungere i risultati attesi).
+- Consulente immobiliare.
+- Interno.
+
+**D:** ⚠️ Qual è l'obiettivo primario della fase III degli stadi evolutivi dell'automazione in banca, e con quale giustificazione, secondo la slide 17 della lezione 28?
+**R:** Nella tabella della slide 17 la colonna della **fase III** porta: obiettivo primario «**AUTOMAZIONE INTERAZIONE COL CLIENTE**», giustificazione «**STRATEGICA**», e sotto «ottenere vantaggi duraturi». Il transcript perde l'inizio della frase sulla terza fase e riprende da «dell'interazione con il cliente»: la banca ha capito la centralità del cliente, il ruolo delle ICT è strategico, l'obiettivo è ottenere vantaggi duraturi, la sostenibilità e il vantaggio competitivo, costruendo una relazione duratura con il cliente ([00:30:47]–[00:31:15]). ⚠️ La fase III riguarda l'interazione col **cliente**. Le fasi della tabella sono tre, e nessuna parla degli stakeholder, il distrattore D della domanda 5.
+**Opzione:** Automazione interazione col cliente; giustificazione: strategica (ottenere vantaggi duraturi).
+**Distrattori:**
+- Automazione interazione con tutti gli stakeholder; giustificazione: strategica (ottenere vantaggi duraturi).
+- Quantitativo e qualitativo.
+- Capacità di attrazione della banca sul mercato del lavoro.
+
+**D:** ⚠️ Qual è l'obiettivo primario della 1° fase dell'automazione in banca, secondo il test della lezione 28 (domanda 5)?
+**R:** «**Automazione del back-office**». La tabella della slide 17 ha tre fasi: I, «AUTOMAZIONE BACK-OFFICE» (efficienza, operare a costi minori); II, «AUTOMAZIONE FRONT-OFFICE» (efficacia, raggiungere i risultati attesi); III, «AUTOMAZIONE INTERAZIONE COL CLIENTE» (strategica, ottenere vantaggi duraturi) ([00:29:48]–[00:31:15]). ⚠️ È una **matrice fase × obiettivo**: la B e la C sono gli obiettivi delle fasi II e III. La **D** non ha una casella nella tabella: l'interazione «con tutto gli stakeholders» non è nei materiali. Ha due appigli, le «Pressioni dagli Stakeholder» fra le spinte all'adozione delle ICT (slide 18) e la docente che chiama «stakeholder» gli utenti del sistema informativo bancario ([00:18:33]). La piattaforma scrive «automazone», «automazion» e «tutto gli». Distrattori del test: «automazone del front-office», «automazion dell'interazione con il cliente», «automazione dell'interazione con tutto gli stakeholders».
+**Opzione:** Automazione del back-office.
+**Distrattori:**
+- Automazone del front-office.
+- Automazion dell'interazione con il cliente.
+- Automazione dell'interazione con tutto gli stakeholders.
+
+**D:** ⚠️ Quali sono le spinte all'adozione delle ICT, nell'ordine della classifica della slide 18 della lezione 28?
+**R:** La slide 18, «Le spinte all'adozione delle ICT», è un grafico a barre del voto medio (10 = max), con «Fonte: Gartner 2003» e «Campione di 114 banche». Nell'ordine: 1 «Pressioni sui Costi/budget», 2 «Preoccupazioni su sicurezza dati», 3 «Business risk management», 4 «Visione unica del cliente», 5 «Pressioni normative», 6 «Maggiore trasparenza di reporting», 7 «Innovazione più rapida», 8 «Pressioni dagli Stakeholder», 9 «Preoccupazioni sulla privacy». La docente: una ricerca fatta «all'inizio di questo secolo», «su un campione di 114 banche italiane» ([00:31:15]); il primo motivo è la necessità di ridurre i costi, l'efficienza organizzativa; il secondo la sicurezza dei dati, la cyber security; la visione unica del cliente è la sua centralità; gli stakeholder sono fornitori, partner e autorità di vigilanza ([00:31:42]–[00:33:11]). ⚠️ In **cima** ci sono le pressioni sui costi, in **fondo** le preoccupazioni sulla privacy. «Italiane» è della docente: la slide dice solo «114 banche».
+**Opzione:** Pressioni sui costi/budget; preoccupazioni su sicurezza dati; business risk management; visione unica del cliente; pressioni normative; maggiore trasparenza di reporting; innovazione più rapida; pressioni dagli stakeholder; preoccupazioni sulla privacy.
+**Distrattori:**
+- Preoccupazioni sulla privacy; preoccupazioni su sicurezza dati; business risk management; visione unica del cliente; pressioni normative; maggiore trasparenza di reporting; innovazione più rapida; pressioni dagli stakeholder; pressioni sui costi/budget.
+- De-integrazione verticale: la costituzione di consorzi Interbancari per la gestione dei sistemi informativi dei gruppi bancari; banche – reti: collocamento di prodotti di altri intermediari presso il pubblico dei propri clienti.
+- Intranet, posta elettronica, filiali estere.
+
+**D:** ⚠️ Quali sono le determinanti dell'evoluzione del sistema bancario, secondo la slide 19 della lezione 28?
+**R:** «Le determinanti dell'evoluzione del sistema bancario: • **despecializzazione operativa e territoriale**, la quale ha condotto ad **un'offerta più ampia di servizi** • evoluzione normativa • crescente diffusione di tecnologie ICT • innovazione finanziaria • trasformazione dei modelli di comportamento dei consumatori • nascita di nuovi modelli di business» (slide 19). La docente: l'offerta è «sicuramente più ampia, più vasta» ([00:33:11]); per i modelli di comportamento richiama le 5 forze di Porter e l'analisi del mercato e dei clienti ([00:33:36]–[00:34:08]); i nuovi modelli di business nascono soprattutto con i sistemi web based ([00:34:08]). ⚠️ La despecializzazione ha **ampliato** l'offerta. Le determinanti sono sei, e l'ultima è la nascita di nuovi modelli di business.
+**Opzione:** Despecializzazione operativa e territoriale, la quale ha condotto ad un'offerta più ampia di servizi; evoluzione normativa; crescente diffusione di tecnologie ICT; innovazione finanziaria; trasformazione dei modelli di comportamento dei consumatori; nascita di nuovi modelli di business.
+**Distrattori:**
+- Despecializzazione operativa e territoriale, la quale ha condotto ad un'offerta più ristretta di servizi; evoluzione normativa; crescente diffusione di tecnologie ICT; innovazione finanziaria; trasformazione dei modelli di comportamento dei consumatori; nascita di nuovi modelli di business.
+- De-integrazione verticale: la costituzione di consorzi Interbancari per la gestione dei sistemi informativi dei gruppi bancari; banche – reti: collocamento di prodotti di altri intermediari presso il pubblico dei propri clienti.
+- Titoli e borsa, titoli di proprietà, emissione obbligazioni, derivati, pronti contro termine, assicurazioni, banca depositaria / collocatrice, gestioni patrimoniali, fondi pensione, adempimenti fiscali titoli, front office finanza.
+
+**D:** ⚠️ Quali sono le tendenze organizzative riscontrate, secondo la slide 20 della lezione 28?
+**R:** «Le tendenze organizzative riscontrate: • Maggiore **diversificazione dell'offerta** • **Superamento del modello gerarchico – funzionale**: […] • Scelte produttive "esterne" (**de-integrazione verticale**): […] • Veicolazione dei servizi tramite **banche – reti**: […] • Tendenza (soprattutto nel mercato *retail*) al ***one-stop banking***: […]» (slide 20; i termini in grassetto sono sottolineati nella slide). La docente le lega al cambiamento dell'ambiente visto prima ([00:34:17]). ⚠️ Le scelte produttive sono **esterne**, con una **de**-integrazione verticale. Nella lezione 19 la diversificazione dipende dalla crescita dimensionale anche per la «Preferenza verso l'integrazione verticale dei processi produttivi e distributivi».
+**Opzione:** Maggiore diversificazione dell'offerta; superamento del modello gerarchico – funzionale; scelte produttive esterne (de-integrazione verticale); veicolazione dei servizi tramite banche – reti; tendenza (soprattutto nel mercato retail) al one-stop banking.
+**Distrattori:**
+- Maggiore diversificazione dell'offerta; superamento del modello gerarchico – funzionale; scelte produttive interne (integrazione verticale); veicolazione dei servizi tramite banche – reti; tendenza (soprattutto nel mercato retail) al one-stop banking.
+- Estero, bonifici estero, pagamenti internazionali.
+- Macrostruttura aziendale e organizzazione del lavoro.
+
+**D:** ⚠️ In che cosa consiste il superamento del modello gerarchico-funzionale fra le tendenze organizzative, secondo la slide 20 della lezione 28?
+**R:** «Superamento del modello gerarchico – funzionale: **dalla banca specializzata per funzioni alla struttura organizzativa per mercati di riferimento**» (slide 20). La docente: «dalla banca specializzata per funzioni, per aree, alla struttura organizzativa per mercati di riferimento, quindi parliamo della struttura divisionale», che ha a che fare con diversi mercati e diverse aree geografiche ([00:34:17]–[00:34:48]). ⚠️ La direzione va **dalle funzioni ai mercati**. Il nome «struttura divisionale» è della docente.
+**Opzione:** Dalla banca specializzata per funzioni alla struttura organizzativa per mercati di riferimento.
+**Distrattori:**
+- Dalla struttura organizzativa per mercati di riferimento alla banca specializzata per funzioni.
+- Intranet, posta elettronica, filiali estere.
+- Consulente immobiliare.
+
+**D:** ⚠️ In che cosa consistono la de-integrazione verticale e la veicolazione dei servizi tramite banche-reti, secondo la slide 20 della lezione 28?
+**R:** «Scelte produttive "esterne" (de-integrazione verticale): la costituzione di **consorzi Interbancari per la gestione dei sistemi informativi** dei gruppi bancari»; «Veicolazione dei servizi tramite banche – reti: **collocamento di prodotti di altri intermediari presso il pubblico dei propri clienti**» (slide 20, «Interbancari» così). La docente: la de-integrazione è lo sviluppo delle relazioni interorganizzative ([00:34:48]); le reti sono legami stretti per condividere prodotti e servizi, interbancari ma anche con altre organizzazioni, per esempio assicurative, per soddisfare esigenze diverse del cliente ([00:35:05]–[00:35:40]). ⚠️ I consorzi interbancari gestiscono i **sistemi informativi**; le banche-reti collocano prodotti **di altri** intermediari presso i **propri** clienti.
+**Opzione:** De-integrazione verticale: la costituzione di consorzi Interbancari per la gestione dei sistemi informativi dei gruppi bancari; banche – reti: collocamento di prodotti di altri intermediari presso il pubblico dei propri clienti.
+**Distrattori:**
+- De-integrazione verticale: collocamento di prodotti di altri intermediari presso il pubblico dei propri clienti; banche – reti: la costituzione di consorzi Interbancari per la gestione dei sistemi informativi dei gruppi bancari.
+- Titoli e borsa, titoli di proprietà, emissione obbligazioni, derivati, pronti contro termine, assicurazioni, banca depositaria / collocatrice, gestioni patrimoniali, fondi pensione, adempimenti fiscali titoli, front office finanza.
+- Istituto Nazionale per il Credito Industriale.
+
+**D:** ⚠️ In che cosa consiste la tendenza al one-stop banking, secondo la slide 20 della lezione 28?
+**R:** «Tendenza (**soprattutto nel mercato *retail***) al *one-stop banking*: creazione di **filiali di piccole dimensioni** (min. personale impiegato) in modo da **aumentare la diffusione territoriale** e di presidiare piccoli centri» (slide 20). La docente: è più sviluppata in altri paesi europei che in Italia; le filiali sono «di piccolissime dimensioni con un minimo di personale impiegato», per una presenza capillare sul territorio e per usare i servizi anche nei centri abitati più piccoli, non solo nella filiale centrale di un capoluogo come Roma, Milano o Palermo; la proposta si accompagna all'electronic banking ([00:35:40]–[00:36:48]). ⚠️ Il mercato è soprattutto il **retail**, e le filiali sono **piccole**.
+**Opzione:** La creazione di filiali di piccole dimensioni (min. personale impiegato) in modo da aumentare la diffusione territoriale e di presidiare piccoli centri, soprattutto nel mercato retail.
+**Distrattori:**
+- La creazione di filiali di piccole dimensioni (min. personale impiegato) in modo da aumentare la diffusione territoriale e di presidiare piccoli centri, soprattutto nel mercato corporate.
+- Fidi e garanzie, sofferenze ed incagli, informativa di rischio, leasing, factoring, mutui.
+- Assegni, bonifici Italia, imposte e servizi vari, portafoglio, tesoreria enti, utenze, incassi da concessionari, pagamento pensioni, pagamento tributi.
+
+## Lezione 29 — La tecnologia e la gestione della conoscenza aziendale
+
+**D:** ⚠️ Che cos'è il capitale intellettuale, e come è considerato, secondo la slide 2 della lezione 29?
+**R:** «**Il capitale intellettuale** (l'insieme delle conoscenze, esperienza, competenze presenti in azienda) è considerato **la risorsa strategica più importante** da presidiare e valorizzare» (slide 2). La docente: «Il capitale intellettuale, come abbiamo già visto, come sappiamo già, è l'insieme delle conoscenze, esperienze e competenze presenti in un'azienda ed è considerato la risorsa strategica più importante in assoluto da presidiare e valorizzare» ([00:01:03]). ⚠️ La formula non è quella della lezione 04, dove il CI era «la conoscenza disponibile e la capacità di elaborazione di nuova conoscenza di un'organizzazione», con tre componenti, umana, sociale e organizzativa (chiave della domanda 2 del test 04). Somiglia piuttosto al **capitale umano** della lezione 04, che però è «di cui sono dotati **individualmente** i collaboratori». Qui le conoscenze sono «presenti in azienda».
+**Opzione:** L'insieme delle conoscenze, esperienza, competenze presenti in azienda, considerato la risorsa strategica più importante da presidiare e valorizzare.
+**Distrattori:**
+- L'insieme delle conoscenze, esperienza, competenze di cui sono dotati individualmente i collaboratori, considerato la risorsa strategica più importante da presidiare e valorizzare.
+- La possibilità per ogni membro dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro.
+- Una pratica di gestione a sostegno della strategia aziendale, il cui focus principale è la realizzazione di un sapere diffuso all'interno dell'organizzazione.
+
+**D:** ⚠️ Che cos'è la conoscenza (knowledge), secondo la slide 2 della lezione 29?
+**R:** «La conoscenza (*knowledge*) è **una trasformazione dell'informazione**, l'integrazione di idee, esperienze, intuizioni, *skill*, informazioni ed **errori** fondamentali **per creare il valore dell'impresa** in termini di business, risorse umane impiegate, prodotti e servizi, clientela» (slide 2). La docente: «il termine anglosassone knowledge è una trasformazione del dato, dell'informazione», l'integrazione delle idee, delle esperienze, delle intuizioni, delle skill «delle persone che fanno parte dell'organizzazione, informazioni ed errori fondamentali per creare il valore dell'impresa» ([00:01:21]–[00:01:53]). ⚠️ La conoscenza è la trasformazione **dell'**informazione, e nell'elenco ci sono anche gli **errori**: è la voce meno attesa.
+**Opzione:** Una trasformazione dell'informazione, l'integrazione di idee, esperienze, intuizioni, skill, informazioni ed errori fondamentali per creare il valore dell'impresa.
+**Distrattori:**
+- Una trasformazione dell'informazione, l'integrazione di idee, esperienze, intuizioni, skill e informazioni, esclusi gli errori, per creare il valore dell'impresa.
+- L'insieme dei processi che permettono di identificare, catturare, organizzare e distribuire conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa.
+- La raccolta e la gestione di informazioni di tutti i tipi.
+
+**D:** ⚠️ In quali termini la conoscenza è fondamentale per creare il valore dell'impresa, secondo la slide 2 della lezione 29?
+**R:** «…per creare il valore dell'impresa in termini di **business, risorse umane impiegate, prodotti e servizi, clientela**» (slide 2). La docente: «in termini di business, in termini di risorse umane impiegate, prodotti e servizi e ovviamente un valore per la clientela» ([00:01:29]). ⚠️ Le voci sono quattro e l'ultima è la **clientela**. La slide aggiunge che la conoscenza «E' incorporata in documenti, archivi, routine organizzative, processi, procedure e norme aziendali»; per la docente quindi il knowledge management è un elemento che possiede qualsiasi organizzazione ([00:01:53]–[00:02:08]).
+**Opzione:** In termini di business, risorse umane impiegate, prodotti e servizi, clientela.
+**Distrattori:**
+- In termini di business, risorse umane impiegate, prodotti e servizi, quota di mercato.
+- Strategie di acquisizione, memorizzazione, distribuzione, utilizzo.
+- Persone, processi, tecnologie.
+
+**D:** ⚠️ In che cosa si esprime il particolare rapporto di ogni organizzazione con la conoscenza, secondo la slide 3 della lezione 29?
+**R:** «Ogni organizzazione presenta un suo particolare rapporto con la conoscenza che si esprime in: • **Strategie di acquisizione**, • **Memorizzazione**, • **Distribuzione** • **Utilizzo**» (slide 3). La docente: le strategie di acquisizione sono «il modo in cui l'informazione e la conoscenza viene acquisita»; poi la memorizzazione, la distribuzione «e l'utilizzo e quindi elaborazione» delle conoscenze che fanno parte del patrimonio intellettuale ([00:02:16]–[00:02:38]). ⚠️ Le voci sono quattro e l'ultima è l'**utilizzo**. Raccolta, **codificazione** e archiviazione sono il focus dell'approccio alla conoscenza esplicita (slide 4), non questo elenco.
+**Opzione:** Strategie di acquisizione, memorizzazione, distribuzione, utilizzo.
+**Distrattori:**
+- Strategie di acquisizione, memorizzazione, distribuzione, codificazione.
+- In termini di business, risorse umane impiegate, prodotti e servizi, clientela.
+- Valorizzazione dell'esperienza, know-how, intuito individuale.
+
+**D:** ⚠️ Quali interpretazioni del knowledge management elenca la slide 3 della lezione 29?
+**R:** «**Molteplici interpretazioni**: • Cattura della conoscenza acquisita **dagli individui** e distribuzione **agli altri appartenenti all'organizzazione** • Applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi (informazione VS conoscenza)» (slide 3). La docente: il KM è stato trattato da diversi punti di vista, «anche in diversi filoni di ricerca»; nella seconda interpretazione, con l'installazione «per esempio di una database computerizzata», si tratta e si trasmette la conoscenza ([00:02:46]–[00:03:35]). ⚠️ Nella prima la conoscenza va dagli individui agli altri membri **dell'organizzazione**, non all'esterno.
+**Opzione:** Cattura della conoscenza acquisita dagli individui e distribuzione agli altri appartenenti all'organizzazione; applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi.
+**Distrattori:**
+- Cattura della conoscenza acquisita dagli individui e distribuzione agli stakeholder esterni all'organizzazione; applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi.
+- Il collegamento interpersonale e il collegamento tra le risorse umane e la conoscenza organizzativa.
+- La diffusione dell'e-business e di Internet; l'espansione geografica e la globalizzazione dei mercati finanziari; la crescente innovazione finanziaria; la ristrutturazione e la deregulation nel settore finanziario.
+
+**D:** Quale delle due interpretazioni del knowledge management la docente giudica più restrittiva, e perché?
+**R:** La seconda, l'applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi (slide 3). Per la docente è un concetto «un pochino più restrittivo, un pochino più limitante», perché «parliamo più che altro della trasmissione dell'informazione, del dato, non parliamo di una vera e propria conoscenza»: è il senso della parentesi «(informazione VS conoscenza)». La conoscenza è anche il prodotto «della collaborazione di diversi dipendenti e collaboratori», quindi il knowledge management è «una cosa un pochino più ampia» ([00:03:06]–[00:04:00]).
+
+**D:** ⚠️ Che cos'è il knowledge management, secondo la slide 3 della lezione 29?
+**R:** «**Knowledge management è l'insieme dei processi che permettono di identificare, catturare, organizzare e distribuire conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa**» (slide 3, in grassetto). La docente: «un insieme dei processi che permettono di identificare, di catturare, di organizzare e di distribuire alla fine la conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa» ([00:04:00]); l'obiettivo finale è il vantaggio competitivo e la sostenibilità, prolungare il ciclo di vita dell'organizzazione ([00:04:16]–[00:04:52]). ⚠️ I verbi sono quattro e l'ultimo è **distribuire**; l'archiviazione è del focus dell'approccio esplicito (slide 4). È la definizione della domanda 1 del test.
+**Opzione:** L'insieme dei processi che permettono di identificare, catturare, organizzare e distribuire conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa.
+**Distrattori:**
+- L'insieme dei processi che permettono di identificare, catturare, organizzare e archiviare conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa.
+- L'insieme delle conoscenze, esperienza, competenze presenti in azienda, considerato la risorsa strategica più importante da presidiare e valorizzare.
+- Una trasformazione dell'informazione, l'integrazione di idee, esperienze, intuizioni, skill, informazioni ed errori fondamentali per creare il valore dell'impresa.
+
+**D:** ⚠️ Come si chiama l'insieme dei processi che permettono di identificare, catturare, organizzare e distribuire conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa, secondo il test della lezione 29 (domanda 1)?
+**R:** «**Knowledge management**». È la slide 3 alla lettera, in grassetto, e la docente la legge così ([00:04:00]). ⚠️ Due distrattori vengono dalla **lezione 04**. Il **capitale umano** è lì «l'insieme della conoscenza, delle competenze e delle abilità di cui sono dotati individualmente i collaboratori» (chiave della domanda 3 del test 04). Il **capitale intellettuale** è lì la conoscenza disponibile e la capacità di elaborazione di nuova conoscenza (chiave della domanda 2 del test 04, con la stessa grafia «intelettuale»), e qui l'insieme delle conoscenze, esperienza, competenze presenti in azienda (slide 2): è una **risorsa**, non un insieme di **processi**. Il **knowledge database** non compare in nessuna slide: richiama la «Creazione di database» (slide 4), i «database computerizzati» (slide 3) e la «database di knowledge» dell'apprendimento organizzativo nella lezione 18; era già distrattore nella domanda 3 del test 27. Distrattori del test: «capitale umano», «capitale intelettuale», «knowledge database».
+**Opzione:** Knowledge management.
+**Distrattori:**
+- Capitale umano.
+- Capitale intelettuale.
+- Knowledge database.
+
+**D:** ⚠️ Quali sono i due approcci al knowledge management, secondo le slide 4–5 della lezione 29?
+**R:** «**2 approcci al *knowledge management*:** 1. La raccolta e la condivisione della conoscenza **esplicita**, con il supporto di sistemi di IT» (slide 4); «**Condivisione della conoscenza tacita**» (titolo della slide 5, senza numero). La docente: sono i due approcci «più rilevanti» nella letteratura scientifica e accademica; il primo è «la raccolta e la condivisione della conoscenza esplicita con il supporto dei sistemi dell'information technologies» ([00:04:52]–[00:05:14]). ⚠️ Il supporto dei sistemi di IT è scritto nel primo approccio, quello della conoscenza **esplicita**.
+**Opzione:** La raccolta e la condivisione della conoscenza esplicita, con il supporto di sistemi di IT; la condivisione della conoscenza tacita.
+**Distrattori:**
+- La raccolta e la condivisione della conoscenza tacita, con il supporto di sistemi di IT; la condivisione della conoscenza esplicita.
+- Knowledge discovery, knowledge organization, collaborative knowledge development.
+- Strategie di acquisizione, memorizzazione, distribuzione, utilizzo.
+
+**D:** ⚠️ Che cosa può riguardare la conoscenza esplicita, secondo la slide 4 della lezione 29?
+**R:** «La conoscenza esplicita **può** riguardare: • Proprietà intellettuali (brevetti, licenze), • Processi operativi, • Informazioni specifiche su clienti, fornitori e mercati» (slide 4). La docente: «proprietà intellettuali, brevetti, licenze, processi operativi, informazioni specifiche sui clienti, sui fornitori, sui mercati, su altri stakeholder» ([00:05:30]–[00:05:56]); gli altri stakeholder sono suoi. ⚠️ L'esperienza, il know-how e l'**intuito individuale** sono della conoscenza **tacita** (slide 5): l'intuito è l'intrusa della domanda 2.
+**Opzione:** Proprietà intellettuali (brevetti, licenze), processi operativi, informazioni specifiche su clienti, fornitori e mercati.
+**Distrattori:**
+- Proprietà intellettuali (brevetti, licenze), processi operativi, esperienza e know-how individuale.
+- Dialogo, storie di apprendimento, narrazioni organizzative, comunità di pratiche.
+- Finanza, imprese di servizi e aziende di maggiori dimensioni: circa 80%.
+
+**D:** ⚠️ Quale tra i seguenti elementi non riguarda la conoscenza esplicita, secondo il test della lezione 29 (domanda 2)?
+**R:** «**Intuito individuale**». La slide 4: «La conoscenza esplicita può riguardare: • Proprietà intellettuali (brevetti, licenze), • Processi operativi, • Informazioni specifiche su clienti, fornitori e mercati». La slide 5: la condivisione della conoscenza **tacita** è «Valorizzazione dell'esperienza, *know-how*, intuito individuale» ([00:07:22]). ⚠️ La domanda è **negativa**, e la chiave sta nella slide successiva. La A toglie «Proprietà intellettuali» e tiene la parentesi, «brevetti e licenze». Per la docente della lezione 04 la conoscenza tacita è soggettiva, quella esplicita oggettiva e trasferibile. Distrattori del test: «brevetti e licenze», «processi operativi», «informazioni specifiche su clienti, fornitori e mercati».
+**Opzione:** Intuito individuale.
+**Distrattori:**
+- Brevetti e licenze.
+- Processi operativi.
+- Informazioni specifiche su clienti, fornitori e mercati.
+
+**D:** ⚠️ A che cosa porta il focus sulla raccolta, codificazione e archiviazione della conoscenza esplicita, secondo la slide 4 della lezione 29?
+**R:** «Il focus sulla raccolta, codificazione e archiviazione della conoscenza esplicita -> • **Creazione di database**, dove può facilmente essere ricercata. • La conoscenza viene raccolta dagli individui, organizzata in documenti e resa disponibile **a tutti i membri** dell'organizzazione» (slide 4). La docente: con l'ICT serve «una database» che permetta di ricercare facilmente un dato, per esempio per il decision making ai livelli più elevati ([00:05:56]–[00:06:26]); i documenti si scrivono con Microsoft Office, Word, PowerPoint, Excel, e si trovano negli archivi con gli strumenti di ricerca ([00:06:26]–[00:07:22]). ⚠️ La conoscenza è resa disponibile a **tutti** i membri, non solo ai livelli decisionali.
+**Opzione:** Creazione di database, dove può facilmente essere ricercata; la conoscenza viene raccolta dagli individui, organizzata in documenti e resa disponibile a tutti i membri dell'organizzazione.
+**Distrattori:**
+- Creazione di database, dove può facilmente essere ricercata; la conoscenza viene raccolta dagli individui, organizzata in documenti e resa disponibile ai soli membri del vertice dell'organizzazione.
+- A creare occasioni di incontro e condivisione di conoscenza collegando fisicamente o virtualmente le persone.
+- Ottimizzazione e all'aumento dell'efficienza; precisione ed efficacia delle comunicazioni interne all'azienda; integrazione tra back office e front office; riduzione dei costi.
+
+**D:** ⚠️ Che cosa valorizza la condivisione della conoscenza tacita, secondo la slide 5 della lezione 29?
+**R:** «Condivisione della conoscenza tacita: • **Valorizzazione dell'esperienza, *know-how*, intuito individuale**» (slide 5). La docente: «La condivisione della conoscenza tacita invece valorizza l'esperienza, valorizza know-how, valorizza intuito individuale» ([00:07:22]). ⚠️ I processi operativi sono della conoscenza **esplicita** (slide 4). L'intuito individuale è la chiave della domanda 2 del test.
+**Opzione:** Valorizzazione dell'esperienza, know-how, intuito individuale.
+**Distrattori:**
+- Valorizzazione dell'esperienza, know-how, processi operativi.
+- Proprietà intellettuali (brevetti, licenze), processi operativi, informazioni specifiche su clienti, fornitori e mercati.
+- Persone, processi, tecnologie.
+
+**D:** ⚠️ A che cosa mira la condivisione della conoscenza tacita, secondo la slide 5 della lezione 29?
+**R:** «Mira a creare occasioni di incontro e condivisione di conoscenza collegando **fisicamente o virtualmente** le persone» (slide 5). La docente: con le tecnologie digitali ci sono strumenti «per mettere in relazione, per poter lavorare in gruppo, in team», per fare riunioni e condividere una conoscenza «difficilmente scritta» ([00:07:22]–[00:08:13]); per esempio Zoom, Skype, Google Meet, e la registrazione dell'incontro, fruibile anche in modo asincrono come le videolezioni ([00:09:05]–[00:10:24]). ⚠️ Fisicamente **o** virtualmente.
+**Opzione:** A creare occasioni di incontro e condivisione di conoscenza collegando fisicamente o virtualmente le persone.
+**Distrattori:**
+- A creare occasioni di incontro e condivisione di conoscenza collegando solo fisicamente le persone.
+- Creazione di database, dove può facilmente essere ricercata; la conoscenza viene raccolta dagli individui, organizzata in documenti e resa disponibile a tutti i membri dell'organizzazione.
+- Definizione di proiezioni commerciali; gestione di operazioni di acquisto; fatturazione e ripartizione dei costi; creazione delle interfacce con i sistemi di enterprise resource planning (ERP).
+
+**D:** ⚠️ Che ruolo ha il ricorso a soluzioni IT nella condivisione della conoscenza tacita, secondo la slide 5 della lezione 29?
+**R:** «Ricorso a soluzioni IT **facilita** le conversazioni e la condivisione della conoscenza tacita tra le persone e diventa **il canale primario**» (slide 5). La docente: le soluzioni IT facilitano le conversazioni e la condivisione della conoscenza tacita «e che poi diventa il canale primario per la gestione, per la condivisione della conoscenza tacita» ([00:08:13]). ⚠️ Il canale è **primario**. Nella tabella di Daft l'approccio alla conoscenza tacita investe però solo **moderatamente** in IT (slide 6).
+**Opzione:** Facilita le conversazioni e la condivisione della conoscenza tacita tra le persone e diventa il canale primario.
+**Distrattori:**
+- Facilita le conversazioni e la condivisione della conoscenza tacita tra le persone, ma resta un canale secondario.
+- Il carattere privato dell'accesso all'Intranet.
+- Una trasformazione dell'informazione, l'integrazione di idee, esperienze, intuizioni, skill, informazioni ed errori fondamentali per creare il valore dell'impresa.
+
+**D:** ⚠️ A che cosa porta l'importanza della componente umana (il rapporto ICT e persona) nella condivisione della conoscenza tacita, secondo la slide 5 della lezione 29?
+**R:** «Importanza della componente "umana" (il rapporto ICT e persona) -> **estrapolare dalla componente umana quell'intimo ed intangibile sapere per tradurlo e renderlo disponibile a tutta l'organizzazione**» (slide 5). La docente: c'è un rapporto «molto stretto, molto importante» fra la tecnologia e la persona che possiede la conoscenza; bisogna estrapolare «quell'intimo, quell'intangibile, quell'esperienza, quel know-how» per tradurlo e renderlo disponibile a tutta l'organizzazione ([00:08:30]–[00:09:05]). Il transcript scrive «tra l'AST e la persona», errore della trascrizione per «ICT». ⚠️ Il sapere va reso disponibile a **tutta** l'organizzazione, non conservato dall'individuo: nella lezione 04 la conoscenza «conservata a livello individuale» era il punto di partenza del SECI model.
+**Opzione:** Estrapolare dalla componente umana quell'intimo ed intangibile sapere per tradurlo e renderlo disponibile a tutta l'organizzazione.
+**Distrattori:**
+- Estrapolare dalla componente umana quell'intimo ed intangibile sapere e conservarlo a livello individuale.
+- Un rete aziendali basata sulla stessa piattaforma tecnologica di Internet.
+- Data warehousing e data mining, knowledge mapping, librerie elettroniche, Intranet, network.
+
+**D:** ⚠️ Da dove a dove passa la conoscenza nella strategia KM dei due approcci, secondo la sintesi di Daft (2001) nella slide 6 della lezione 29?
+**R:** Nella riga «Strategia KM» della tabella «Sintesi degli approcci al *Knowledge management*» (slide 6, «Fonte: Daft R. (2001)»): approccio alla conoscenza esplicita, «***Da persone a documenti*** — Sviluppa un sistema di documenti elettronico che codifica, archivia, diffonde e permette il riutilizzo della conoscenza»; approccio alla conoscenza tacita, «***Da persone a persone*** — Sviluppa network per collegare persone in modo che la conoscenza tacita possa essere condivisa». La docente: per l'esplicita «il passaggio dalla conoscenza dalle persone a documenti» ([00:11:22]); per la tacita «un passaggio di conoscenza da persona a persona» ([00:12:51]). ⚠️ I documenti sono dell'approccio **esplicito**.
+**Opzione:** Esplicita: da persone a documenti; tacita: da persone a persone.
+**Distrattori:**
+- Esplicita: da persone a persone; tacita: da persone a documenti.
+- Nella struttura, perché è un processo organizzativo.
+- In termini di business, risorse umane impiegate, prodotti e servizi, clientela.
+
+**D:** ⚠️ Che cosa fanno i due approcci al knowledge management nella prima riga della tabella di Daft (2001), slide 6 della lezione 29?
+**R:** Prima riga, senza etichetta, della tabella della slide 6: approccio alla conoscenza esplicita, «Fornisce sistemi informativi di alta qualità, affidabili e veloci per accedere a conoscenza codifica e riutilizzabili» («codifica» così); approccio alla conoscenza tacita, «Incanala l'esperienza individuale per fornire consulenza creativa su problemi di tipo **strategico**». La docente: sistemi «di alta qualità, affidabili, veloci per accedere a conoscenza codificata e riutilizzabile» ([00:11:03]); per la tacita «la consulenza meno codificata, impossibile anche da trasmettere attraverso i documenti su problemi di tipo soprattutto strategico» ([00:12:31]–[00:12:46]). ⚠️ I problemi della consulenza creativa sono di tipo **strategico**.
+**Opzione:** Esplicita: fornisce sistemi informativi di alta qualità, affidabili e veloci per accedere a conoscenza codifica e riutilizzabili; tacita: incanala l'esperienza individuale per fornire consulenza creativa su problemi di tipo strategico.
+**Distrattori:**
+- Esplicita: fornisce sistemi informativi di alta qualità, affidabili e veloci per accedere a conoscenza codifica e riutilizzabili; tacita: incanala l'esperienza individuale per fornire consulenza creativa su problemi di tipo operativo.
+- Ricerca di dati e informazioni; raccolta e la gestione d'informazioni di tutti i tipi; condivisione della conoscenza; collaborazione a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+- Pubblicazione dei contenuti aggiornati; automazione del flusso di lavoro e dei processi editoriali; statistiche dell'utilizzo.
+
+**D:** ⚠️ Quanto investe in IT ciascun approccio al knowledge management, e con quale obiettivo, secondo la tabella di Daft (2001) nella slide 6 della lezione 29?
+**R:** Riga «Tecnologia» della tabella della slide 6: esplicita, «Investe **pesantemente** in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata»; tacita, «Investe **moderatamente** in IT con l'obiettivo di facilitare conversazioni e lo scambio di conoscenza tacita». La docente: per l'esplicita «C'è un investimento molto importante in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata» ([00:11:45]); per la tacita «investiamo in maniera moderata in Information Technologies con l'obiettivo di facilitare conversazione e lo scambio di conoscenza tacita» ([00:13:06]). ⚠️ **Pesantemente** l'esplicita, **moderatamente** la tacita, anche se per la tacita l'IT «diventa il canale primario» (slide 5).
+**Opzione:** Esplicita: investe pesantemente in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata; tacita: investe moderatamente in IT con l'obiettivo di facilitare conversazioni e lo scambio di conoscenza tacita.
+**Distrattori:**
+- Esplicita: investe moderatamente in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata; tacita: investe pesantemente in IT con l'obiettivo di facilitare conversazioni e lo scambio di conoscenza tacita.
+- Migliorare efficienza e produttività; aumentare il livello di soddisfazione dei clienti; aumentare il livello di soddisfazione di lavoratori; massimizzare i talenti e le capacità presenti all'interno dell'istituto di credito.
+- Gestione di politiche ad hoc; possibilità di monitorare le presenze, le spese/trasferte, le carriere, le performance, le indennità, le ferie.
+
+**D:** ⚠️ Quali sono i meccanismi dell'approccio alla conoscenza esplicita, secondo la tabella di Daft (2001) nella slide 6 della lezione 29?
+**R:** Riga «Meccanismi», colonna esplicita, della tabella della slide 6: «**Data warehousing e data mining** • **Knowledge mapping** • **Librerie elettroniche** • **Intranet, network**». La docente: «data warehousing, data mining, knowledge mapping, librerie, archivi elettronici, intranet network, anche social network aziendali», che danno l'accesso alla conoscenza esplicita ([00:12:11]–[00:12:29]); i social network aziendali sono solo suoi. ⚠️ Le **comunità di pratiche** sono un meccanismo dell'approccio **tacito**. L'Intranet sta qui fra i meccanismi dell'esplicita, ma la slide 13 ne fa anche uno strumento di condivisione della conoscenza tacita.
+**Opzione:** Data warehousing e data mining, knowledge mapping, librerie elettroniche, Intranet, network.
+**Distrattori:**
+- Data warehousing e data mining, knowledge mapping, librerie elettroniche, comunità di pratiche.
+- Dialogo, storie di apprendimento, narrazioni organizzative, comunità di pratiche.
+- Proprietà intellettuali (brevetti, licenze), processi operativi, informazioni specifiche su clienti, fornitori e mercati.
+
+**D:** ⚠️ Quali sono i meccanismi dell'approccio alla conoscenza tacita, secondo la tabella di Daft (2001) nella slide 6 della lezione 29?
+**R:** Riga «Meccanismi», colonna tacita, della tabella della slide 6: «**Dialogo** • **Storie di apprendimento** • **Narrazioni organizzative** • **Comunità di pratiche**». La docente: «il dialogo, le storie di apprendimento, narrazioni organizzative, storytelling, il concetto così utilizzato ultimamente, la comunità di pratiche», che si possono creare anche attraverso le intranet organizzative ([00:13:24]–[00:13:48]). ⚠️ Il **knowledge mapping** è un meccanismo dell'approccio **esplicito**. Lo storytelling è solo nel transcript.
+**Opzione:** Dialogo, storie di apprendimento, narrazioni organizzative, comunità di pratiche.
+**Distrattori:**
+- Dialogo, storie di apprendimento, narrazioni organizzative, knowledge mapping.
+- Data warehousing e data mining, knowledge mapping, librerie elettroniche, Intranet, network.
+- Valorizzazione dell'esperienza, know-how, intuito individuale.
+
+**D:** ⚠️ A quali tre tipologie di processo può essere orientato il supporto tecnologico, secondo la slide 7 della lezione 29?
+**R:** «Il supporto tecnologico può essere orientato a tre tipologie di processo: • ***Knowledge discovery*** […] • ***Knowledge organization*** […] • ***Collaborative knowledge development***» (slide 7). La docente: «tre tipologie di processi organizzativi, di processi di gestione, di elaborazione di knowledge»; le traduce «la scoperta della conoscenza», «l'organizzazione della conoscenza», «lo sviluppo del knowledge collaborativo» ([00:13:48]–[00:14:20]). ⚠️ Il **knowledge management** è il genere, non una delle tre tipologie: è un distrattore della domanda 3.
+**Opzione:** Knowledge discovery, knowledge organization, collaborative knowledge development.
+**Distrattori:**
+- Knowledge discovery, knowledge organization, knowledge management.
+- La raccolta e la condivisione della conoscenza esplicita, con il supporto di sistemi di IT; la condivisione della conoscenza tacita.
+- Esplicita: da persone a documenti; tacita: da persone a persone.
+
+**D:** ⚠️ Che cos'è la knowledge discovery, secondo la slide 7 della lezione 29?
+**R:** «*Knowledge discovery:* la possibilità per **ogni membro** dell'organizzazione di **accedere** alle conoscenze necessarie allo svolgimento del proprio lavoro» (slide 7). La docente: «Knowledge discovery, quindi la scoperta della conoscenza, la possibilità per ogni membro delle organizzazioni di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro, della propria attività» ([00:13:57]). ⚠️ Il verbo è **accedere**, il soggetto **ogni membro**. È la definizione della domanda 3 del test.
+**Opzione:** La possibilità per ogni membro dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro.
+**Distrattori:**
+- La possibilità per i soli dirigenti dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro.
+- La raccolta e la gestione di informazioni di tutti i tipi.
+- La possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+
+**D:** ⚠️ Come si chiama la possibilità per ogni membro dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro, secondo il test della lezione 29 (domanda 3)?
+**R:** «**Knowledge discovery**». È la slide 7 alla lettera: «*Knowledge discovery:* la possibilità per ogni membro dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro». La docente la traduce «la scoperta della conoscenza» ([00:13:57]). ⚠️ Gli altri due processi della stessa slide sono distrattori: la **knowledge organization** è la raccolta e la gestione di informazioni di tutti i tipi, la **collaborative knowledge development** la possibilità di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza. Il **knowledge management** è l'insieme dei processi (slide 3), non una delle tre tipologie. A discriminare è il verbo, **accedere**. Distrattori del test: «knowledge organization», «collaborative knowledge development», «knowledge management».
+**Opzione:** Knowledge discovery.
+**Distrattori:**
+- Knowledge organization.
+- Collaborative knowledge development.
+- Knowledge management.
+
+**D:** ⚠️ Che cos'è la knowledge organization, secondo la slide 7 della lezione 29?
+**R:** «*Knowledge organization*: la **raccolta e la gestione** di informazioni **di tutti i tipi**» (slide 7). La docente: «Knowledge organization, quindi l'organizzazione della conoscenza, la raccolta, quindi la gestione di informazioni di diversi tipi» ([00:14:11]). ⚠️ La slide dice «di **tutti** i tipi», la docente «di diversi tipi»: vale la slide, che lo ripete nella slide 11 («Raccolta e la gestione d'informazioni di tutti i tipi»).
+**Opzione:** La raccolta e la gestione di informazioni di tutti i tipi.
+**Distrattori:**
+- La raccolta e la gestione delle sole informazioni codificate.
+- La possibilità per ogni membro dell'organizzazione di accedere alle conoscenze necessarie allo svolgimento del proprio lavoro.
+- La possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+
+**D:** ⚠️ Quale tipologia di processo è la raccolta e la gestione di informazioni di tutti i tipi, secondo la slide 7 della lezione 29?
+**R:** La ***knowledge organization***: «*Knowledge organization*: la raccolta e la gestione di informazioni di tutti i tipi» (slide 7); per la docente «l'organizzazione della conoscenza» ([00:14:11]). ⚠️ È la stessa batteria della domanda 3 del test, con un'altra casella della slide: la **knowledge discovery** è l'accesso di ogni membro alle conoscenze necessarie al proprio lavoro, la **collaborative knowledge development** la collaborazione a distanza, il **knowledge management** il genere, l'insieme dei processi della slide 3. A discriminare è il verbo: **raccogliere e gestire**.
+**Opzione:** Knowledge organization.
+**Distrattori:**
+- Knowledge discovery.
+- Collaborative knowledge development.
+- Knowledge management.
+
+**D:** ⚠️ Che cos'è la collaborative knowledge development, secondo la slide 7 della lezione 29?
+**R:** «*Collaborative knowledge development:* la possibilità per le persone di **collaborare a distanza** nella realizzazione di progetti e nello sviluppo di conoscenza» (slide 7). La docente: «lo sviluppo del knowledge collaborativo, la possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza» ([00:14:20]). ⚠️ La collaborazione è **a distanza**. La stessa formula torna nella slide 11, fra ciò che la banca knowledge management oriented facilita, e la collaborazione a distanza è anche un vantaggio dell'Intranet (slide 15).
+**Opzione:** La possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+**Distrattori:**
+- La possibilità per le persone di collaborare in presenza nella realizzazione di progetti e nello sviluppo di conoscenza.
+- L'insieme delle conoscenze, esperienza, competenze presenti in azienda, considerato la risorsa strategica più importante da presidiare e valorizzare.
+- L'insieme dei processi che permettono di identificare, catturare, organizzare e distribuire conoscenza con l'obiettivo di migliorare la capacità competitiva dell'impresa.
+
+**D:** ⚠️ Quale tipologia di processo è la possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza, secondo la slide 7 della lezione 29?
+**R:** La ***collaborative knowledge development***: «*Collaborative knowledge development:* la possibilità per le persone di collaborare a distanza nella realizzazione di progetti e nello sviluppo di conoscenza» (slide 7); per la docente «lo sviluppo del knowledge collaborativo» ([00:14:20]). ⚠️ È la terza casella della batteria della domanda 3 del test: la **knowledge discovery** è l'accesso di ogni membro alle conoscenze necessarie al proprio lavoro, la **knowledge organization** la raccolta e la gestione di informazioni di tutti i tipi, il **knowledge management** il genere. A discriminare è il verbo: **collaborare a distanza**.
+**Opzione:** Collaborative knowledge development.
+**Distrattori:**
+- Knowledge discovery.
+- Knowledge organization.
+- Knowledge management.
+
+**D:** ⚠️ Quali esigenze spingono ad adottare sistemi di knowledge management nel settore bancario, secondo la slide 8 della lezione 29?
+**R:** «Esigenza di adottare sistemi di *knowledge management* nel settore bancario • La gestione di quantità elevata di dati ed informazioni (disponibili nel luogo e nel momento opportuno). • La crescente complessità dell'attività bancaria • Lo sviluppo delle strategie **multicanale** • L'approccio di marketing "***one to one***" • La presenza di nuovi operatori (anche virtuali) • Lo scenario competitivo della concorrenza di banche internazionali» (slide 8). La docente li introduce come «diversi fattori, come per esempio»: i dati servono per prendere decisioni, risolvere conflitti, gestire i reclami; la multicanalità la riprenderà più avanti; il one to one è la personalizzazione del messaggio, del prodotto e del servizio; i nuovi operatori sono le banche interamente virtuali, ma anche assicurazioni, altri intermediari, agenzie immobiliari; la concorrenza internazionale è la globalizzazione ([00:14:39]–[00:16:48]). ⚠️ Le strategie sono **multicanale**, il marketing **one to one**.
+**Opzione:** La gestione di quantità elevata di dati ed informazioni (disponibili nel luogo e nel momento opportuno); la crescente complessità dell'attività bancaria; lo sviluppo delle strategie multicanale; l'approccio di marketing one to one; la presenza di nuovi operatori (anche virtuali); lo scenario competitivo della concorrenza di banche internazionali.
+**Distrattori:**
+- La gestione di quantità elevata di dati ed informazioni (disponibili nel luogo e nel momento opportuno); la crescente complessità dell'attività bancaria; lo sviluppo delle strategie monocanale; l'approccio di marketing one to one; la presenza di nuovi operatori (anche virtuali); lo scenario competitivo della concorrenza di banche internazionali.
+- Definizione di proiezioni commerciali; gestione di operazioni di acquisto; fatturazione e ripartizione dei costi; creazione delle interfacce con i sistemi di enterprise resource planning (ERP).
+- Pubblicazione dei contenuti aggiornati; automazione del flusso di lavoro e dei processi editoriali; statistiche dell'utilizzo.
+
+**D:** ⚠️ Quali sono i fattori di background macro, secondo la slide 9 della lezione 29?
+**R:** Blocco «**Background macro**» della slide 9: «• La diffusione dell'e-business e di Internet • L'espansione geografica e la globalizzazione dei mercati finanziari • La crescente innovazione finanziaria • La ristrutturazione e la ***deregulation*** nel settore finanziario». La docente li chiama «variabili di contesto», gli elementi che spingono all'adozione dei sistemi informativi: l'innovazione finanziaria richiama fintech e bancatech, la deregulation è il cambiamento normativo nel settore; sono concetti dell'analisi dell'ambiente macro ([00:17:03]–[00:17:58]). ⚠️ È la **deregulation**, non una regolamentazione crescente. Le voci dell'altro blocco, efficienza, soddisfazione, talenti, sono le esigenze **specifiche** della banca.
+**Opzione:** La diffusione dell'e-business e di Internet; l'espansione geografica e la globalizzazione dei mercati finanziari; la crescente innovazione finanziaria; la ristrutturazione e la deregulation nel settore finanziario.
+**Distrattori:**
+- La diffusione dell'e-business e di Internet; l'espansione geografica e la globalizzazione dei mercati finanziari; la crescente innovazione finanziaria; la ristrutturazione e la crescente regolamentazione nel settore finanziario.
+- Migliorare efficienza e produttività; aumentare il livello di soddisfazione dei clienti; aumentare il livello di soddisfazione di lavoratori; massimizzare i talenti e le capacità presenti all'interno dell'istituto di credito.
+- Facilità d'uso; facilità di gestione; facilità di creazione dei documenti; la portabilità dell'applicazione; la tecnologia a basso costo; velocità nelle comunicazioni; collaborazione a distanza.
+
+**D:** ⚠️ Quali sono le esigenze specifiche della banca, secondo la slide 9 della lezione 29?
+**R:** Blocco «**Esigenze specifiche della banca**» della slide 9: «• Migliorare efficienza e produttività, • Aumentare il livello di soddisfazione dei clienti • Aumentare il livello di soddisfazione **di lavoratori** • Massimizzare i talenti e le capacità presenti **all'interno** dell'istituto di credito». La docente: la soddisfazione dei lavoratori è anche benessere organizzativo e work-life balance; la massimizzazione dei talenti passa dal talent management; le tecnologie aiutano a sviluppare le competenze all'interno e a ottenerle più facilmente dall'esterno ([00:18:00]–[00:19:29]). ⚠️ La soddisfazione è dei **clienti** e **dei lavoratori**; gli azionisti non ci sono. I quattro fattori dell'altro blocco sono il **background macro**.
+**Opzione:** Migliorare efficienza e produttività; aumentare il livello di soddisfazione dei clienti; aumentare il livello di soddisfazione di lavoratori; massimizzare i talenti e le capacità presenti all'interno dell'istituto di credito.
+**Distrattori:**
+- Migliorare efficienza e produttività; aumentare il livello di soddisfazione dei clienti; aumentare il livello di soddisfazione degli azionisti; massimizzare i talenti e le capacità presenti all'interno dell'istituto di credito.
+- La diffusione dell'e-business e di Internet; l'espansione geografica e la globalizzazione dei mercati finanziari; la crescente innovazione finanziaria; la ristrutturazione e la deregulation nel settore finanziario.
+- Sistemi di document e content management; data warehousing; messaging e collaboration; applicazione che fornisce accesso alla base di conoscenza (intranet e portali aziendali).
+
+**D:** ⚠️ In quale elemento del paradigma ambiente-strategia-struttura la docente colloca il knowledge management, nella lezione 29?
+**R:** Nella **struttura**. La docente: le variabili di contesto appena viste sono «del primo elemento del paradigma che è ambiente, Poi parliamo della strategia e poi parliamo di knowledge management che comunque è un processo organizzativo quindi che fa parte della struttura, quindi del terzo elemento del paradigma» ([00:19:42]–[00:20:00]); per costruire gli strumenti di knowledge management bisogna capire qual è la strategia organizzativa ([00:20:00]). La slide 10 lo dice «una pratica di gestione a sostegno della strategia aziendale». ⚠️ L'**ambiente** è quello delle variabili di contesto, e la docente lo nomina meno di mezzo minuto prima delle tre variabili persone, processi, tecnologie: è l'intrusa della domanda 4.
+**Opzione:** Nella struttura, perché è un processo organizzativo.
+**Distrattori:**
+- Nell'ambiente, perché è una variabile di contesto.
+- Nella strategia, perché è una pratica di gestione.
+- Fra i vantaggi del mercato esterno.
+
+**D:** ⚠️ Che cos'è il knowledge management come pratica di gestione, e qual è il suo focus principale, secondo la slide 10 della lezione 29?
+**R:** «Il *knowledge management* è una pratica di gestione **a sostegno della strategia aziendale**: Il focus principale è la realizzazione di un **sapere diffuso** all'interno dell'organizzazione che presuppone un'integrazione fra 3 variabili» (slide 10). La docente: «parlando di diversi processi organizzativi ricordiamoci sempre di partire dalla strategia» ([00:19:29]); «il focus principale in questo caso è sicuramente la realizzazione di un sapere diffuso all'interno dell'organizzazione» ([00:20:09]). ⚠️ Il sapere è **diffuso** all'interno dell'organizzazione.
+**Opzione:** Una pratica di gestione a sostegno della strategia aziendale, il cui focus principale è la realizzazione di un sapere diffuso all'interno dell'organizzazione.
+**Distrattori:**
+- Una pratica di gestione a sostegno della strategia aziendale, il cui focus principale è la realizzazione di un sapere concentrato al vertice dell'organizzazione.
+- Un rete aziendali basata sulla stessa piattaforma tecnologica di Internet.
+- Esplicita: fornisce sistemi informativi di alta qualità, affidabili e veloci per accedere a conoscenza codifica e riutilizzabili; tacita: incanala l'esperienza individuale per fornire consulenza creativa su problemi di tipo strategico.
+
+**D:** ⚠️ Fra quali 3 variabili presuppone un'integrazione il sapere diffuso all'interno dell'organizzazione, secondo la slide 10 della lezione 29?
+**R:** «…un'integrazione fra 3 variabili: • **Persone** • **Processi** • **Tecnologie**» (slide 10). La docente: «l'integrazione fra tre variabili, persone, processi, tecnologie», cioè la componente tecnologica, quella «organizzativa procedurale» e un forte elemento umano: come le tecnologie vengono usate dagli utenti, «user friendly», «usability» ([00:20:09]–[00:20:55]). ⚠️ Le **strutture** non sono fra le tre, anche se per la docente il knowledge management fa parte della struttura del paradigma; l'**ambiente** è l'intrusa della domanda 4.
+**Opzione:** Persone, processi, tecnologie.
+**Distrattori:**
+- Persone, processi, strutture.
+- Knowledge discovery, knowledge organization, collaborative knowledge development.
+- Esplicita: da persone a documenti; tacita: da persone a persone.
+
+**D:** ⚠️ Il focus principale del knowledge management presuppone un'integrazione fra 3 variabili: quale tra le seguenti non ne fa parte, secondo il test della lezione 29 (domanda 4)?
+**R:** «**Ambiente**». La slide 10: «Il focus principale è la realizzazione di un sapere diffuso all'interno dell'organizzazione che presuppone un'integrazione fra 3 variabili: • Persone • Processi • Tecnologie» ([00:20:09]). ⚠️ La domanda è **negativa**, e l'intrusa ha un appiglio forte: a [00:19:42] la docente nomina l'ambiente come «primo elemento del paradigma», meno di mezzo minuto prima di elencare le tre variabili. L'ambiente è anche la prima variabile del paradigma ambiente-strategia-struttura (lezioni 05–06) ed era la chiave della domanda 3 del test 21, l'intrusa fra gli elementi costitutivi del MOIP. Distrattori del test: «persone», «processi», «tecnologie».
+**Opzione:** Ambiente.
+**Distrattori:**
+- Persone.
+- Processi.
+- Tecnologie.
+
+**D:** ⚠️ Che cosa garantiscono i sistemi che l'obiettivo del knowledge management è implementare, secondo la slide 10 della lezione 29?
+**R:** «L'obiettivo *di knowledge management* è implementare i sistemi che garantiscono: • **collegamento interpersonale** • **collegamento tra le risorse umane e la conoscenza organizzativa**» (slide 10). La docente abbina i due collegamenti ai due tipi di conoscenza: il collegamento interpersonale sono i «legami tra le persone per la condivisione della conoscenza tacita»; quello tra le risorse umane e la conoscenza organizzativa «già in qualche modo codificata» è la gestione della conoscenza esplicita ([00:20:55]). ⚠️ Il secondo collegamento è con la **conoscenza organizzativa**, non con i clienti.
+**Opzione:** Il collegamento interpersonale e il collegamento tra le risorse umane e la conoscenza organizzativa.
+**Distrattori:**
+- Il collegamento interpersonale e il collegamento tra le risorse umane e i clienti della banca.
+- Ottimizzazione e all'aumento dell'efficienza; precisione ed efficacia delle comunicazioni interne all'azienda; integrazione tra back office e front office; riduzione dei costi.
+- Mobilità esterna.
+
+**D:** ⚠️ Che cosa facilitano le tecnologie della banca knowledge management oriented, secondo la slide 11 della lezione 29?
+**R:** «La banca *knowledge management oriented* -> **utilizza le tecnologie che consentono alle persone di svolgere in modo efficiente il proprio lavoro facilitando:** • Ricerca di dati e informazioni • Raccolta e la gestione d'informazioni di tutti i tipi • Condivisione della conoscenza • Collaborazione a distanza nella realizzazione di progetti e nello sviluppo di conoscenza» (slide 11). La docente: «la ricerca di dati e di informazioni, la raccolta e la gestione di informazioni di tutti i tipi, la condivisione della propria conoscenza, collaborazione a distanza nella realizzazione di progetti nello sviluppo di conoscenza» ([00:21:26]). ⚠️ La seconda e la quarta voce sono le definizioni di knowledge organization e collaborative knowledge development (slide 7). Fatturazione e ripartizione dei costi sono dell'Intranet come executive dashboard (slide 16).
+**Opzione:** Ricerca di dati e informazioni; raccolta e la gestione d'informazioni di tutti i tipi; condivisione della conoscenza; collaborazione a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+**Distrattori:**
+- Ricerca di dati e informazioni; raccolta e la gestione d'informazioni di tutti i tipi; condivisione della conoscenza; fatturazione e ripartizione dei costi.
+- Gestione di politiche ad hoc; possibilità di monitorare le presenze, le spese/trasferte, le carriere, le performance, le indennità, le ferie.
+- Cattura della conoscenza acquisita dagli individui e distribuzione agli altri appartenenti all'organizzazione; applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi.
+
+**D:** ⚠️ Quali strumenti danno supporto tecnologico al knowledge management, secondo la slide 12 della lezione 29?
+**R:** «Supporto tecnologico al *knowledge management*: • Sistemi di *document e content management* • *Data warehousing* • *Messaging e collaboration* • Applicazione che fornisce accesso alla base di conoscenza (**intranet e portali aziendali**)» (slide 12). La docente, «per esempio»: il data warehousing «per archiviazione della conoscenza delle informazioni»; messaging e collaboration, «videoconferencing per esempio»; le applicazioni che danno accesso alla base di conoscenza, intranet o portali aziendali, con strumenti sia per la conoscenza tacita sia per quella esplicita ([00:22:06]–[00:22:55]). ⚠️ L'accesso alla base di conoscenza passa da intranet e portali **aziendali**, privati, non da Internet.
+**Opzione:** Sistemi di document e content management; data warehousing; messaging e collaboration; applicazione che fornisce accesso alla base di conoscenza (intranet e portali aziendali).
+**Distrattori:**
+- Sistemi di document e content management; data warehousing; messaging e collaboration; applicazione che fornisce accesso alla base di conoscenza (Internet e social network pubblici).
+- Esplicita: investe pesantemente in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata; tacita: investe moderatamente in IT con l'obiettivo di facilitare conversazioni e lo scambio di conoscenza tacita.
+- Facilità d'uso; facilità di gestione; facilità di creazione dei documenti; la portabilità dell'applicazione; la tecnologia a basso costo; velocità nelle comunicazioni; collaborazione a distanza.
+
+**D:** ⚠️ Che cos'è l'Intranet, secondo la slide 13 della lezione 29?
+**R:** «Intranet è un rete aziendali basata sulla **stessa piattaforma tecnologica di Internet**» (slide 13, «un rete aziendali» così). La docente: «intranet è una rete aziendale basata sulla stessa piattaforma tecnologica di internet, quindi la tipologia intranet è molto simile però ovviamente è una rete privata» ([00:23:09]–[00:23:16]). ⚠️ La piattaforma è la **stessa**: l'elemento distintivo rispetto a Internet è il carattere privato dell'accesso.
+**Opzione:** Un rete aziendali basata sulla stessa piattaforma tecnologica di Internet.
+**Distrattori:**
+- Un rete aziendali basata su una piattaforma tecnologica diversa da quella di Internet.
+- Un rete pubblica basata sulla stessa piattaforma tecnologica di Internet.
+- Remunerazione del personale.
+
+**D:** ⚠️ Per quale tipo di conoscenza l'Intranet è ambiente o strumento di condivisione, secondo la slide 13 della lezione 29?
+**R:** Per **entrambi**: «• Ambiente ideale per la condivisione di informazioni e conoscenze **esplicite** (dinamiche e ricche di collegamenti) • Strumento di condivisione della conoscenza **tacita** (teleconferenza, forum e *discussion group*)» (slide 13). La docente: le conoscenze esplicite sono dinamiche perché seguono i cambiamenti dell'ambiente esterno, e vi si accede con messaggi, annunci, forum ([00:23:16]–[00:23:58]); per la tacita, «la tele videoconferenza, i forum, discussion group, le comunità di interesse» ([00:24:01]). ⚠️ L'Intranet serve **anche** alla conoscenza tacita, benché nella tabella di Daft stia fra i meccanismi dell'approccio esplicito (slide 6).
+**Opzione:** Ambiente ideale per la condivisione di informazioni e conoscenze esplicite (dinamiche e ricche di collegamenti); strumento di condivisione della conoscenza tacita (teleconferenza, forum e discussion group).
+**Distrattori:**
+- Ambiente ideale per la condivisione di informazioni e conoscenze esplicite (dinamiche e ricche di collegamenti); non adatta alla condivisione della conoscenza tacita.
+- Estrapolare dalla componente umana quell'intimo ed intangibile sapere per tradurlo e renderlo disponibile a tutta l'organizzazione.
+- Nella struttura, perché è un processo organizzativo.
+
+**D:** ⚠️ A chi garantisce l'accesso alla conoscenza aziendale l'Intranet, e a quale condizione rispetto al Server Web, secondo la slide 13 della lezione 29?
+**R:** «L'Intranet garantisce l'accesso alla conoscenza aziendale **a tutti i membri dell'organizzazione autorizzati**, **senza imporre** la migrazione della conoscenza sul Server Web» (slide 13). La docente: «a tutti i membri dell'organizzazione, autorizzati, quindi anche una rete privata», una conoscenza «che non sfugge», «senza imporre la migrazione della conoscenza sul server web, quindi parliamo anche della protezione della conoscenza organizzativa» ([00:24:20]–[00:24:48]). ⚠️ La migrazione sul Server Web **non** è imposta.
+**Opzione:** A tutti i membri dell'organizzazione autorizzati, senza imporre la migrazione della conoscenza sul Server Web.
+**Distrattori:**
+- A tutti i membri dell'organizzazione autorizzati, imponendo la migrazione della conoscenza sul Server Web.
+- A creare occasioni di incontro e condivisione di conoscenza collegando fisicamente o virtualmente le persone.
+- Il trasferimento delle conoscenze e delle esperienze per poter risolvere problemi o sfruttare particolari opportunità.
+
+**D:** ⚠️ Qual è l'elemento distintivo dell'Intranet rispetto a Internet, secondo la slide 13 della lezione 29?
+**R:** «L'elemento distintivo rispetto a Internet è **il carattere privato dell'accesso** all'Intranet» (slide 13). La docente: si distribuisce la conoscenza rispettando le norme di protezione, «senza ovviamente farla sfuggire e quindi diventare il vantaggio competitivo di qualcun altro» ([00:24:48]–[00:25:16]). ⚠️ La piattaforma tecnologica è la **stessa** di Internet (stessa slide): non è quella a distinguerle.
+**Opzione:** Il carattere privato dell'accesso all'Intranet.
+**Distrattori:**
+- La diversa piattaforma tecnologica dell'Intranet.
+- Il carattere pubblico dell'accesso all'Intranet.
+- La tecnologia a basso costo.
+
+**D:** ⚠️ Quale importanza attribuiscono le aziende all'Intranet, secondo la slide 14 della lezione 29?
+**R:** «Importanza attribuita dalle aziende all'Intranet • Ottimizzazione e all'aumento dell'efficienza • Precisione ed efficacia delle comunicazioni **interne** all'azienda • Integrazione tra back office e front office • Riduzione dei costi» (slide 14, «e all'aumento» così). La docente, «dalle aziende bancarie»: oltre alla comunicazione verso gli stakeholder esterni conta il processo di comunicazione interna; l'integrazione fra back office e front office è «l'abbattimento di quei silos», soprattutto nelle organizzazioni funzionali; la riduzione dei costi si lega all'efficienza ([00:25:16]–[00:26:52]). ⚠️ Le comunicazioni sono quelle **interne**.
+**Opzione:** Ottimizzazione e all'aumento dell'efficienza; precisione ed efficacia delle comunicazioni interne all'azienda; integrazione tra back office e front office; riduzione dei costi.
+**Distrattori:**
+- Ottimizzazione e all'aumento dell'efficienza; precisione ed efficacia delle comunicazioni esterne dell'azienda; integrazione tra back office e front office; riduzione dei costi.
+- Sistemi di document e content management; data warehousing; messaging e collaboration; applicazione che fornisce accesso alla base di conoscenza (intranet e portali aziendali).
+- Presentazione dei database specifici consultabili su richiesta; conferenze virtuali (comunicare, collaborare e condividere informazioni).
+
+**D:** ⚠️ Quali aziende hanno la maggiore diffusione di tecnologie IP, e in quale misura, secondo la slide 14 della lezione 29?
+**R:** «Finanza, imprese di servizi e aziende di **maggiori** dimensioni –> la maggiore diffusione di tecnologie IP (Intranet, Extranet o sito) – **circa 80%**» (slide 14). La docente: «secondo le valutazioni circa 80% delle aziende di finanza, imprese di servizi o comunque grandi imprese hanno in possesso una tecnologia IP» ([00:26:52]–[00:27:06]); nomina «internet, extranet oppure un sito aziendale», dove la slide dice Intranet. ⚠️ Le aziende sono di **maggiori** dimensioni, la quota **circa 80%**.
+**Opzione:** Finanza, imprese di servizi e aziende di maggiori dimensioni: circa 80%.
+**Distrattori:**
+- Finanza, imprese di servizi e aziende di minori dimensioni: circa 80%.
+- Finanza, imprese di servizi e aziende di maggiori dimensioni: circa 40%.
+- 1990: specialisti-manager 10%, operativi-amministrativi 40%, specialisti 50%; 1995: manager 5%, amministrativi 10%, specialisti-operativi 85%.
+
+**D:** ⚠️ Quali sono i vantaggi dell'adozione di un'Intranet, secondo la slide 15 della lezione 29?
+**R:** «Vantaggi dell'adozione di un'Intranet • facilità d'uso […] • facilità di gestione […] • facilità di creazione dei documenti • la portabilità dell'applicazione • la tecnologia a basso costo […] • velocità nelle comunicazioni […] • collaborazione a distanza […]» (slide 15, sette voci sottolineate). La docente: «In questa slide potete vedere alcuni» ([00:27:26]), e li commenta uno per uno fino a [00:30:39]. ⚠️ Tre voci cominciano con «facilità»: d'uso, di gestione, di creazione dei documenti. La «facilità di team working» non c'è: è l'intrusa della domanda 5.
+**Opzione:** Facilità d'uso; facilità di gestione; facilità di creazione dei documenti; la portabilità dell'applicazione; la tecnologia a basso costo; velocità nelle comunicazioni; collaborazione a distanza.
+**Distrattori:**
+- Facilità d'uso; facilità di gestione; facilità di creazione dei documenti; la portabilità dell'applicazione; la tecnologia a basso costo; velocità nelle comunicazioni; facilità di team working.
+- Cattura della conoscenza acquisita dagli individui e distribuzione agli altri appartenenti all'organizzazione; applicazione delle tecnologie dell'informazione con l'installazione di database computerizzati e l'adozione di sistemi informativi.
+- Documenti, archivi, routine organizzative, processi, procedure e norme aziendali.
+
+**D:** ⚠️ Quale tra i seguenti elementi non fa parte dei vantaggi dell'adozione di Intranet, secondo il test della lezione 29 (domanda 5)?
+**R:** «**Facilità di team working**». La slide 15 elenca sette vantaggi: facilità d'uso; facilità di gestione; facilità di creazione dei documenti; la portabilità dell'applicazione; la tecnologia a basso costo; velocità nelle comunicazioni; collaborazione a distanza ([00:27:26]–[00:30:39]). Il team working non c'è, in nessuna forma. ⚠️ La domanda è **negativa**, e l'intrusa ricalca la forma delle tre voci che cominciano con «facilità». Ha quattro appigli: la **collaborazione a distanza**, vantaggio vero e opzione B; l'Intranet «come strumento di collaborazione» (slide 17), che però è un uso, non un vantaggio; gli strumenti digitali «per poter lavorare in gruppo, in team» della conoscenza tacita ([00:07:47]); la «capacità di lavorare in team» fra le componenti sociopsicologiche della lezione 04. Le card seguono la lettera dell'elenco della slide. Distrattori del test: «velocità nelle comunicazioni», «collaborazione a distanza», «facilità d'uso».
+**Opzione:** Facilità di team working.
+**Distrattori:**
+- Velocità nelle comunicazioni.
+- Collaborazione a distanza.
+- Facilità d'uso.
+
+**D:** ⚠️ In che cosa consistono la facilità d'uso e la facilità di gestione dell'Intranet, secondo la slide 15 della lezione 29?
+**R:** «• facilità d'uso: modalità *user-friendly,* spese e tempo di training del personale **ridotti** • facilità di gestione: monitoraggio e aggiornamento rapido, gestione **centralizzata** della configurazione del sistema informativo, traduzione dei contenuti in linguaggio HTML» (slide 15). La docente: non c'è bisogno di insegnare a usare il sistema, molto simile a Internet, «si utilizza in maniera veramente intuitiva»; l'HTML rende i contenuti fruibili da diversi utenti e dispositivi ([00:27:26]–[00:28:03]). ⚠️ La gestione della configurazione è **centralizzata**.
+**Opzione:** Facilità d'uso: modalità user-friendly, spese e tempo di training del personale ridotti; facilità di gestione: monitoraggio e aggiornamento rapido, gestione centralizzata della configurazione del sistema informativo, traduzione dei contenuti in linguaggio HTML.
+**Distrattori:**
+- Facilità d'uso: modalità user-friendly, spese e tempo di training del personale ridotti; facilità di gestione: monitoraggio e aggiornamento rapido, gestione decentrata della configurazione del sistema informativo, traduzione dei contenuti in linguaggio HTML.
+- Il trasferimento delle conoscenze e delle esperienze per poter risolvere problemi o sfruttare particolari opportunità.
+- La tecnologia a basso costo.
+
+**D:** ⚠️ A quale vantaggio dell'Intranet appartengono il risparmio di costi di stampa, copia e diffusione cartacea e il controllo della proliferazione della carta, secondo la slide 15 della lezione 29?
+**R:** Alla **tecnologia a basso costo**: «la tecnologia a basso costo: risparmio di costi di stampa, copia e diffusione cartacea, strumento di controllo della proliferazione della carta: documenti istantaneamente accessibili» (slide 15). La docente: non è solo risparmio di carta, ma anche «della rapidità con cui si condivide un documento attraverso un intranet» ([00:28:40]–[00:29:13]). ⚠️ La carta e la stampa stanno sotto la tecnologia a basso costo, non sotto la facilità di creazione dei documenti, che nella slide non ha spiegazioni.
+**Opzione:** La tecnologia a basso costo.
+**Distrattori:**
+- La facilità di creazione dei documenti.
+- La facilità di gestione.
+- La portabilità dell'applicazione.
+
+**D:** ⚠️ In che cosa consiste la collaborazione a distanza, fra i vantaggi dell'Intranet, secondo la slide 15 della lezione 29?
+**R:** «collaborazione a distanza: **il trasferimento delle conoscenze e delle esperienze** per poter risolvere problemi o sfruttare particolari opportunità» (slide 15). La docente: l'Intranet contiene gli strumenti per collaborare e trasferire la conoscenza tacita, le esperienze; è la condivisione di best practice e anche di bad practice, «dei fallimenti per imparare sugli errori» dei colleghi ([00:29:56]–[00:30:39]). Il vantaggio precedente, la velocità nelle comunicazioni, è «in tempo reale anche tra luoghi fisicamente molto distanti»; per la docente rafforza anche il senso di appartenenza ([00:29:13]–[00:29:56]). ⚠️ Si trasferiscono le conoscenze **e le esperienze**, non solo i documenti.
+**Opzione:** Il trasferimento delle conoscenze e delle esperienze per poter risolvere problemi o sfruttare particolari opportunità.
+**Distrattori:**
+- Il trasferimento delle sole conoscenze codificate in documenti per poter risolvere problemi o sfruttare particolari opportunità.
+- A tutti i membri dell'organizzazione autorizzati, senza imporre la migrazione della conoscenza sul Server Web.
+- Il carattere privato dell'accesso all'Intranet.
+
+**D:** ⚠️ Come quali strumenti può essere usata l'Intranet, secondo le slide 16–17 della lezione 29?
+**R:** Sette usi, nell'ordine: «Intranet come **strumento di reportistica in tempo reale** (*executive Dashboard*)»; «come strumento per eseguire ricerche su database ed archivi, **strumento di *knowledge***»; «come strumento per la **gestione delle risorse umane**»; «come strumento di **comunicazione aziendale**» (slide 16); «come strumento di ***learning*** (corsi per i dipendenti)»; «quale strumento di **gestione dei contenuti**»; «come strumento di **collaborazione**» (slide 17). La docente li legge tutti ([00:30:39]–[00:34:20]); la comunicazione aziendale è per lei la comunicazione **interna** ([00:32:14]). ⚠️ La comunicazione aziendale non è quella verso i clienti.
+**Opzione:** Strumento di reportistica in tempo reale (executive Dashboard); strumento per eseguire ricerche su database ed archivi, strumento di knowledge; strumento per la gestione delle risorse umane; strumento di comunicazione aziendale; strumento di learning (corsi per i dipendenti); strumento di gestione dei contenuti; strumento di collaborazione.
+**Distrattori:**
+- Strumento di reportistica in tempo reale (executive Dashboard); strumento per eseguire ricerche su database ed archivi, strumento di knowledge; strumento per la gestione delle risorse umane; strumento di comunicazione con i clienti esterni; strumento di learning (corsi per i dipendenti); strumento di gestione dei contenuti; strumento di collaborazione.
+- La raccolta e la condivisione della conoscenza esplicita, con il supporto di sistemi di IT; la condivisione della conoscenza tacita.
+- Esplicita: investe pesantemente in IT con l'obiettivo di unire le persone tramite una conoscenza riutilizzabile e codificata; tacita: investe moderatamente in IT con l'obiettivo di facilitare conversazioni e lo scambio di conoscenza tacita.
+
+**D:** ⚠️ Che cosa comprende l'Intranet come strumento di reportistica in tempo reale (executive Dashboard), secondo la slide 16 della lezione 29?
+**R:** «Intranet come **strumento di reportistica in tempo reale (*executive Dashboard*):** • Definizione di proiezioni commerciali • Gestione di operazioni di acquisto • Fatturazione e ripartizione dei costi • Creazione delle interfacce con i sistemi di *enterprise resource planning* – ERP» (slide 16). La docente: «quindi riusciamo a capire e riusciamo a gestire anche le risorse a disposizione dell'azienda» ([00:30:39]–[00:31:14]); il transcript scrive «riportistica» e «repartizione». ⚠️ Il monitoraggio di presenze, ferie e indennità è dell'Intranet come strumento per la **gestione delle risorse umane**.
+**Opzione:** Definizione di proiezioni commerciali; gestione di operazioni di acquisto; fatturazione e ripartizione dei costi; creazione delle interfacce con i sistemi di enterprise resource planning (ERP).
+**Distrattori:**
+- Definizione di proiezioni commerciali; gestione di operazioni di acquisto; fatturazione e ripartizione dei costi; monitoraggio delle presenze, delle ferie e delle indennità.
+- Esplicita: fornisce sistemi informativi di alta qualità, affidabili e veloci per accedere a conoscenza codifica e riutilizzabili; tacita: incanala l'esperienza individuale per fornire consulenza creativa su problemi di tipo strategico.
+- Creazione di database, dove può facilmente essere ricercata; la conoscenza viene raccolta dagli individui, organizzata in documenti e resa disponibile a tutti i membri dell'organizzazione.
+
+**D:** ⚠️ Che cosa comprende l'Intranet come strumento per la gestione delle risorse umane, secondo la slide 16 della lezione 29?
+**R:** «Intranet come strumento per la **gestione delle risorse umane**: • Gestione di politiche ad hoc • Possibilità di monitorare le presenze, le spese/trasferte, le carriere, le performance, le indennità, le ferie» (slide 16). La docente: una politica ad hoc può essere un corso di formazione, per esempio su Google Docs, annunciato in Intranet e svolto con la videoconferenza inclusa; il monitoraggio dà il profilo di ogni dipendente, per valutarne produttività e performance ([00:31:14]–[00:32:14]). Qui dice «internet» dove la slide dice Intranet, e il transcript scrive «le degnità» per «le indennità». ⚠️ Le proiezioni commerciali sono dell'executive dashboard.
+**Opzione:** Gestione di politiche ad hoc; possibilità di monitorare le presenze, le spese/trasferte, le carriere, le performance, le indennità, le ferie.
+**Distrattori:**
+- Gestione di politiche ad hoc; possibilità di monitorare le presenze, le spese/trasferte, le carriere, le performance, le indennità, le proiezioni commerciali.
+- Ambiente ideale per la condivisione di informazioni e conoscenze esplicite (dinamiche e ricche di collegamenti); strumento di condivisione della conoscenza tacita (teleconferenza, forum e discussion group).
+- Estrapolare dalla componente umana quell'intimo ed intangibile sapere per tradurlo e renderlo disponibile a tutta l'organizzazione.
+
+**D:** ⚠️ Che cosa comprende l'Intranet quale strumento di gestione dei contenuti, secondo la slide 17 della lezione 29?
+**R:** «Intranet quale strumento di **gestione dei contenuti**: • Pubblicazione dei contenuti aggiornati • Automazione del flusso di lavoro e dei processi editoriali • Statistiche dell'utilizzo» (slide 17). La docente: le statistiche dicono quale contenuto è fruito di più o di meno, da chi, in quale occasione, in quale orario, e aiutano a decidere quali strumenti adottare ([00:33:03]–[00:33:46]). ⚠️ La rubrica telefonica aziendale è dell'Intranet come strumento di **comunicazione aziendale** (slide 16).
+**Opzione:** Pubblicazione dei contenuti aggiornati; automazione del flusso di lavoro e dei processi editoriali; statistiche dell'utilizzo.
+**Distrattori:**
+- Pubblicazione dei contenuti aggiornati; automazione del flusso di lavoro e dei processi editoriali; rubrica telefonica aziendale.
+- Una pratica di gestione a sostegno della strategia aziendale, il cui focus principale è la realizzazione di un sapere diffuso all'interno dell'organizzazione.
+- Facilita le conversazioni e la condivisione della conoscenza tacita tra le persone e diventa il canale primario.
+
+**D:** ⚠️ Che cosa comprende l'Intranet come strumento di collaborazione, secondo la slide 17 della lezione 29?
+**R:** «Intranet come strumento di **collaborazione**: • Presentazione dei database specifici consultabili **su richiesta**, • conferenze virtuali (comunicare, collaborare e condividere informazioni)» (slide 17). La docente: è lo strumento per trasmettere la conoscenza tacita, le esperienze e il know-how, ed estendere il capitale intellettuale basato sulla componente umana ([00:33:46]–[00:34:20]). ⚠️ I database sono consultabili **su richiesta**: l'accesso all'Intranet è privato (slide 13).
+**Opzione:** Presentazione dei database specifici consultabili su richiesta; conferenze virtuali (comunicare, collaborare e condividere informazioni).
+**Distrattori:**
+- Presentazione dei database specifici consultabili pubblicamente su Internet; conferenze virtuali (comunicare, collaborare e condividere informazioni).
+- Finanza, imprese di servizi e aziende di maggiori dimensioni: circa 80%.
+- Mobilità interna.
