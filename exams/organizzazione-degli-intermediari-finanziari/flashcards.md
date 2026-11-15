@@ -9337,3 +9337,419 @@
 - Presentazione dei database specifici consultabili pubblicamente su Internet; conferenze virtuali (comunicare, collaborare e condividere informazioni).
 - Finanza, imprese di servizi e aziende di maggiori dimensioni: circa 80%.
 - Mobilità interna.
+
+## Lezione 30 — La peculiarità dei sistemi informativi a supporto della finanza
+
+**D:** ⚠️ Come può definirsi l'attuale organizzazione dell'attività bancaria, secondo la slide 2 della lezione 30?
+**R:** «L'attuale organizzazione dell'attività bancaria può definirsi ***IT driver*** (=**incentrata sull'impiego delle risorse IT**)» (slide 2). La docente: «può definirsi come un'attività IT driver, quindi incentrata sull'impiego delle risorse IT» ([00:00:20]). ⚠️ Le risorse sono **IT**, non umane. «Driver» torna nella slide 3 con un altro senso: i driver del cambiamento nell'IT per la finanza sono le spinte al cambiamento.
+**Opzione:** IT driver, cioè incentrata sull'impiego delle risorse IT.
+**Distrattori:**
+- IT driver, cioè incentrata sull'impiego delle risorse umane.
+- Dalla retention alla lealtà, che è il livello massimo della fidelizzazione del cliente.
+- La variabile area funzionale.
+
+**D:** ⚠️ A quali esigenze risponde l'implementazione di strutture di information technology nel settore bancario, secondo la slide 2 della lezione 30?
+**R:** «Implementazione di strutture di *information technology* nel settore bancario: • Esigenza di **velocizzare l'esecuzione dei processi** • **Elevato grado di affidabilità** dei processi e sistemi (**99.99%**)» (slide 2). La docente: «la rapidità di esecuzione dei processi e elevato grado di affidabilità», e l'affidabilità richiesta ai sistemi bancari «è di circa 99,99%», perché si ha a che fare con i risparmi dei clienti e con i loro dati, che vanno protetti ([00:00:32]–[00:01:10]). ⚠️ L'affidabilità è del **99.99%**. Velocità e affidabilità tornano fra le caratteristiche della slide 4 come *fast* e *reliable*.
+**Opzione:** Esigenza di velocizzare l'esecuzione dei processi; elevato grado di affidabilità dei processi e sistemi (99.99%).
+**Distrattori:**
+- Esigenza di velocizzare l'esecuzione dei processi; elevato grado di affidabilità dei processi e sistemi (99%).
+- Estensione dell'offerta dalla clientela VIP ai segmenti di mercato non ancora presidiati ma di rilevanti dimensioni; fidelizzazione della clientela; acquisizione di nuovi rapporti; contrasto all'azione degli intermediari non tradizionali.
+- Il continuo sviluppo delle risorse umane.
+
+**D:** ⚠️ In che cosa si distinguono i sistemi informativi dedicati all'area finanza, e che cosa caratterizza ciascuna classe, secondo la slide 2 della lezione 30?
+**R:** «I sistemi informativi dedicati all'area finanza si distinguono in: • **Sistemi front office**: • Utilizzati da **trader, dealer** e utenti con sofisticate esigenze finanziarie • Logica di funzionamento **"pull"**, i dati si autoaggiornano • Specializzazione **per desk** (per prodotti) • **Sistemi back office**: • Mondo **amministrativo-contabile** dell'attività • **"When the deal is done"**» (slide 2). La docente: per il front office «quelle che vengono utilizzate proprio dai nostri utenti, dai clienti finali», con la logica «di tipo pool, quindi su richiesta del cliente i dati ovviamente si auto aggiornano» ([00:01:37]–[00:02:17]); il back office è il mondo «amministrativo o contabile», i dati che si creano dopo che il processo è concluso ([00:02:17]–[00:02:56]). ⚠️ Trader e logica pull stanno nel **front office**, il mondo amministrativo-contabile e «When the deal is done» nel **back office**.
+**Opzione:** Sistemi front office: utilizzati da trader, dealer e utenti con sofisticate esigenze finanziarie, logica di funzionamento pull, i dati si autoaggiornano, specializzazione per desk (per prodotti); sistemi back office: mondo amministrativo-contabile dell'attività, when the deal is done.
+**Distrattori:**
+- Sistemi back office: utilizzati da trader, dealer e utenti con sofisticate esigenze finanziarie, logica di funzionamento pull, i dati si autoaggiornano, specializzazione per desk (per prodotti); sistemi front office: mondo amministrativo-contabile dell'attività, when the deal is done.
+- GSM (2G): il cliente può inviare o ricevere informazioni e disporre operazioni (es. SMS); WAP/ Personal computer o tablet: gli stessi servizi dell'internet banking.
+- Incasso delle relative commissioni, dei canoni di abbonamento ai servizi; riduzione dei costi operativi attraverso l'automatizzazione dei processi; marketing one-to-one grazie al sistema di CRM (Customer Relationship Management).
+
+**D:** ⚠️ In che cosa si distinguono i sistemi informativi dedicati all'area finanza, secondo il test della lezione 30 (domanda 1)?
+**R:** «**Back office e front office**» (la piattaforma scrive «frotn office»). La slide 2: «I sistemi informativi dedicati all'area finanza si distinguono in: • Sistemi front office […] • Sistemi back office»; la docente: «possono essere distinti in sistemi front office e sistemi back office» ([00:01:24]). ⚠️ Due distrattori prendono una parola della stessa lezione e la mettono nel posto sbagliato: «**pull**» è la logica di funzionamento dei soli sistemi front office (slide 2), e «push» non compare nei materiali; «**open**» è una delle otto caratteristiche del sistema informativo per l'area finanza (slide 4). «Obsoleti e innovativi» viene dal pool condiviso: «innovativo e obsoleto» era un distrattore della domanda 1 del test 25. Distrattori del test: «obsoleti e innovativi», «pull e push», «open e closed».
+**Opzione:** Back office e front office.
+**Distrattori:**
+- Obsoleti e innovativi.
+- Pull e push.
+- Open e closed.
+
+**D:** ⚠️ Con quale logica funzionano i sistemi front office dell'area finanza, e come sono specializzati, secondo la slide 2 della lezione 30?
+**R:** «Logica di funzionamento **"pull"**, i dati si **autoaggiornano** • Specializzazione **per desk** (per prodotti)» (slide 2). La docente: «parliamo della logica di funzionamento di tipo pool, quindi su richiesta del cliente i dati ovviamente si auto aggiornano in maniera molto rapida» ([00:01:50]); i sistemi sono specializzati «per desk, per prodotti, quindi c'è una specie di divisione dei sistemi informativi in base al prodotto, al servizio» ([00:02:02]). Il transcript scrive «pool». ⚠️ La logica è **pull**, su richiesta del cliente. Il contrario, «push», non compare nei materiali: sta solo nella coppia «pull e push» del distrattore C della domanda 1.
+**Opzione:** Logica di funzionamento pull, i dati si autoaggiornano; specializzazione per desk (per prodotti).
+**Distrattori:**
+- Logica di funzionamento push, i dati si autoaggiornano; specializzazione per desk (per prodotti).
+- Intuito individuale.
+- Restringimento dei tempi di regolamento delle operazioni.
+
+**D:** ⚠️ Quali sono i driver del cambiamento nell'IT per la finanza, secondo la slide 3 della lezione 30?
+**R:** Sei, nell'ordine: «1) ***Shrinking margins*** (assottigliamento dei margini) […] 2) ***Cost reduction*** […] 3) ***Globalization & Consolidation*** […] 4) ***Faster settlement*** […] 5) ***Web-based integration with customers*** 6) ***Regulators***» (slide 3). La docente li chiama «sei elementi, sei driver importanti che hanno richiesto il cambiamento nelle Information Technologies per la finanza» e rimanda a un paper allegato ([00:03:04]); il quinto è per lei la centralità del cliente, il sesto la regulation del settore finanziario ([00:05:47]–[00:06:12]). ⚠️ Sei driver, e l'ultimo sono i **regulators**. Le **thin branches** non sono un driver: sono un aspetto del terzo, globalization & consolidation.
+**Opzione:** Shrinking margins; cost reduction; globalization & consolidation; faster settlement; web-based integration with customers; regulators.
+**Distrattori:**
+- Shrinking margins; cost reduction; globalization & consolidation; faster settlement; web-based integration with customers; thin branches.
+- Il continuo sviluppo delle risorse umane.
+- Informative di natura bancaria e finanziaria; dispositive di natura bancaria e finanziaria; funzioni di e-commerce; funzioni di utilità.
+
+**D:** ⚠️ Quale tra i seguenti non è un driver del cambiamento nell'IT per la finanza, secondo il test della lezione 30 (domanda 2)?
+**R:** «**Immigrazione massiva**». I sei driver della slide 3 sono shrinking margins (assottigliamento dei margini), cost reduction, globalization & consolidation, faster settlement, web-based integration with customers, regulators ([00:03:04]–[00:06:12]). ⚠️ La domanda è **negativa** e le opzioni vere sono **tradotte**: la slide ha le etichette in inglese. «Assottigliamento dei margini» è la parentesi del primo driver; «integrazione con i clienti basata sul web» traduce il quinto (la docente: «integrazione web based con i consumatori», [00:05:47]); «globalizzazione» è metà del terzo, che la docente legge «globalizzazione e consolidazione» ([00:04:23]). L'immigrazione non compare nei materiali: nel corso gli «immigrati» sono solo un esempio di clientela non ancora servita (lezione 15, slide 5). Distrattori del test: «assottigliamento dei margini», «integrazione con i clienti basata sul web», «globalizzazione».
+**Opzione:** Immigrazione massiva.
+**Distrattori:**
+- Assottigliamento dei margini.
+- Integrazione con i clienti basata sul web.
+- Globalizzazione.
+
+**D:** ⚠️ In che cosa consiste lo shrinking margins, primo driver del cambiamento nell'IT per la finanza, e da che cosa dipende, secondo la slide 3 della lezione 30?
+**R:** «1) ***Shrinking margins*** (**assottigliamento dei margini**): **Ampia concorrenza**, facilità di comparazione dei prezzi» (slide 3). La docente: «assottiliamento dei margini dell'attività di un'organizzazione», perché «c'è un'ampia concorrenza, c'è facilità di comparazione dei prezzi», e questi fenomeni hanno fatto sì che i margini delle aziende «si sono assottiliati» ([00:03:24]–[00:03:50]). ⚠️ La concorrenza è **ampia**. «Assottigliamento dei margini» è anche l'opzione A della domanda 2, uno dei driver veri.
+**Opzione:** Assottigliamento dei margini: ampia concorrenza, facilità di comparazione dei prezzi.
+**Distrattori:**
+- Assottigliamento dei margini: ridotta concorrenza, facilità di comparazione dei prezzi.
+- Logica di funzionamento pull, i dati si autoaggiornano; specializzazione per desk (per prodotti).
+- Aumento del turnover organizzativo.
+
+**D:** ⚠️ In che cosa consiste la cost reduction, secondo driver del cambiamento nell'IT per la finanza, secondo la slide 3 della lezione 30?
+**R:** «2) ***Cost reduction*** **Automazione di tutti gli aspetti** del processo di negoziazione (dalla documentazione alla realizzazione dello scambio, al settlement, alla contabilizzazione)» (slide 3). La docente: «tutti i processi devono essere supportati dalle tecnologie», perché secondo alcune ricerche così si possono ridurre i costi di produzione ([00:03:50]–[00:04:23]). ⚠️ È l'**automazione** di **tutti** gli aspetti, dalla documentazione alla contabilizzazione. Il ricorso all'outsourcing compare invece fra i costi di investimento del remote banking (slide 11).
+**Opzione:** Automazione di tutti gli aspetti del processo di negoziazione (dalla documentazione alla realizzazione dello scambio, al settlement, alla contabilizzazione).
+**Distrattori:**
+- Esternalizzazione di tutti gli aspetti del processo di negoziazione (dalla documentazione alla realizzazione dello scambio, al settlement, alla contabilizzazione).
+- Servizi voice, sms e data accessibili rispettivamente dalle tradizionali utenze fisse domestiche, dai telefoni cellulari e dai personal computer.
+- Riduzione delle competenze.
+
+**D:** ⚠️ Che cosa comprende il driver globalization & consolidation, secondo la slide 3 della lezione 30?
+**R:** «3) ***Globalization & Consolidation*** • Possibilità di **consolidare i processi** di tutti gli asset in **una o poche location** nel mondo • Beneficio di **ridurre** le infrastrutture tecnologiche richieste negli uffici locali • Sviluppo delle **"thin branches"** (investimento=**personal computer +connessione ad Internet**)» (slide 3). La docente lo legge «globalizzazione e consolidazione»: non serve più creare diversi sportelli fisici per raggiungere clienti lontani; le thin branches sono i «mini sportelli di cui abbiamo parlato in una delle lezioni precedenti», con personale e infrastrutture minimi, «anche un personal computer, connessione ad internet e basta» ([00:04:23]–[00:05:32]). ⚠️ Le infrastrutture negli uffici locali si **riducono**. La domanda 2 ne prende solo metà, «globalizzazione».
+**Opzione:** Possibilità di consolidare i processi di tutti gli asset in una o poche location nel mondo; beneficio di ridurre le infrastrutture tecnologiche richieste negli uffici locali; sviluppo delle thin branches (investimento = personal computer + connessione ad Internet).
+**Distrattori:**
+- Possibilità di consolidare i processi di tutti gli asset in una o poche location nel mondo; beneficio di aumentare le infrastrutture tecnologiche richieste negli uffici locali; sviluppo delle thin branches (investimento = personal computer + connessione ad Internet).
+- Il modello operativo integrato, capace di rispondere alle esigenze dell'utente attraverso le risorse più idonee, dalla filiale al telefono, da Internet ai dispositivi ATM e self service, ai promotori finanziari.
+- Esigenza di velocizzare l'esecuzione dei processi; elevato grado di affidabilità dei processi e sistemi (99.99%).
+
+**D:** ⚠️ In che cosa consiste il faster settlement, quarto driver del cambiamento nell'IT per la finanza, secondo la slide 3 della lezione 30?
+**R:** «4) ***Faster settlement*** **Restringimento dei tempi di regolamento** delle operazioni» (slide 3). La docente: «la richiesta di rapidità delle procedure, dello svolgimento di diverse procedure, quindi restringimento dei tempi di regolamento delle operazioni» ([00:05:32]). ⚠️ Il settlement è il **regolamento** delle operazioni, e i suoi tempi si **restringono**. Il processo di **negoziazione** è invece quello che la cost reduction automatizza, dalla documentazione al settlement.
+**Opzione:** Restringimento dei tempi di regolamento delle operazioni.
+**Distrattori:**
+- Restringimento dei tempi di negoziazione delle operazioni.
+- IT driver, cioè incentrata sull'impiego delle risorse IT.
+- La banca virtuale che realizza il cross selling di prodotti bancari e non bancari (l'offerta di servizi che soddisfino i personal needs: es. viaggi, acquisto e vendita dell'auto o della casa).
+
+**D:** ⚠️ Quali sono le caratteristiche del sistema informativo per l'area finanza, secondo la slide 4 della lezione 30?
+**R:** Otto, nell'ordine: «• ***fast*** (velocità) […] • ***scalable*** (scalabilità) […] • ***secure*** (sicurezza) […] • ***reliable*** (affidabilità) […] • **extensible** (estendibilità) […] • ***modular*** (modularità) […] • ***open*** (aperto, libero) • ***browser-accessible*** (facilità di accesso da internet)» (slide 4). La docente le legge tutte, con il nome inglese e la traduzione ([00:06:19]–[00:09:36]). ⚠️ Il sistema è **open**, aperto e libero: «closed» non c'è, è nel distrattore D della domanda 1. Le ultime due voci, open e browser-accessible, non hanno una definizione oltre la parentesi.
+**Opzione:** Fast, scalable, secure, reliable, extensible, modular, open, browser-accessible.
+**Distrattori:**
+- Fast, scalable, secure, reliable, extensible, modular, closed, browser-accessible.
+- L'evoluzione tecnologica; prodotti e servizi nuovi; la continua evoluzione normativa; la forte connotazione contabile delle organizzazioni bancarie; l'operato degli organi di vigilanza.
+- Shrinking margins; cost reduction; globalization & consolidation; faster settlement; web-based integration with customers; regulators.
+
+**D:** ⚠️ Come si definisce il sistema informativo per la finanza che deve essere modificabile nel caso di variazioni notevoli della mole o della tipologia dei dati trattati, secondo il test della lezione 30 (domanda 3)?
+**R:** «**Scalable**». La slide 4: «*scalable* (scalabilità): modificabile nel caso di variazioni notevoli della mole o della tipologia dei dati trattati»; la docente: «la possibilità di modificare nel caso di variazione notevole della mole o della tipologia dei dati trattati» ([00:06:19]). ⚠️ La domanda non è ambigua: *fast* è l'«abilità nel completare tutto il processo di una transazione», *reliable* il sistema «affidabile e robusto nel caso che una delle sue componenti vada off-line», *modular* «l'uso di altri sistemi esistenti per la stessa funzione». La voce più vicina è *extensible* («I sistemi che sono facili da modificare ed estendere hanno vita più lunga»), che parla della crescita del business e non è fra le opzioni. Distrattori del test: «fast», «reliable», «modular».
+**Opzione:** Scalable.
+**Distrattori:**
+- Fast.
+- Reliable.
+- Modular.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza è l'«abilità nel completare tutto il processo di una transazione», secondo la slide 4 della lezione 30?
+**R:** «***fast*** (velocità): abilità nel completare tutto il processo di una transazione» (slide 4). La docente: «un sistema informativo per l'area della finanza deve essere veloce, fast, quindi un'abilità nel completare tutto il processo di una transazione in maniera rapida» ([00:06:19]). ⚠️ È la **velocità**: richiama l'«Esigenza di velocizzare l'esecuzione dei processi» della slide 2. *Scalable* riguarda invece la mole e la tipologia dei dati.
+**Opzione:** Fast.
+**Distrattori:**
+- Scalable.
+- Reliable.
+- Modular.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza deve assicurare che l'utente possa fare solo ciò per cui è stato autorizzato nel sistema, con un sofisticato meccanismo di controlli degli accessi, secondo la slide 4 della lezione 30?
+**R:** «***secure*** (sicurezza): il trading e i sistemi di processo provocano **spostamenti di denaro**. Deve assicurare che l'utente possa fare **solo ciò per cui è stato autorizzato** nel sistema. La presenza di un sofisticato meccanismo di **controlli degli accessi**» (slide 4). La docente: bisogna essere «particolarmente attenti a diverse autorizzazioni che diamo ai nostri utenti», con «un sofisticato meccanismo di controllo degli accessi e dell'utilizzo dei dati disponibili» ([00:06:47]–[00:07:28]). ⚠️ È la **sicurezza**, non l'affidabilità: *reliable* riguarda la robustezza del sistema quando una sua componente va off-line.
+**Opzione:** Secure.
+**Distrattori:**
+- Reliable.
+- Fast.
+- Modular.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza richiede che il sistema resti robusto nel caso che una delle sue componenti vada off-line per qualsiasi ragione, secondo la slide 4 della lezione 30?
+**R:** «***reliable*** (affidabilità): il sistema deve essere **affidabile e robusto** nel caso che una delle sue componenti vada **off-line** per qualsiasi ragione» (slide 4). La docente: «Reliable, quindi il sistema deve essere affidabile, il sistema deve essere robusto», e se una componente si scollega «dobbiamo tenere traccia di tutti i dati», perché il sistema deve tracciare procedure, processi e transazioni ([00:07:28]–[00:07:53]). La tracciatura è della docente. ⚠️ L'affidabilità richiama il 99.99% della slide 2; *secure* riguarda invece le autorizzazioni e i controlli degli accessi.
+**Opzione:** Reliable.
+**Distrattori:**
+- Secure.
+- Fast.
+- Modular.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza vuole che il sistema non sia un fattore limitante nella crescita del business, perché i sistemi facili da modificare ed estendere hanno vita più lunga, secondo la slide 4 della lezione 30?
+**R:** «**extensible** (estendibilità): il sistema non dovrebbe essere un fattore limitante nella **crescita del business**. I sistemi che sono facili da modificare ed estendere hanno **vita più lunga**» (slide 4). La docente: non deve limitare la crescita del business e «il cambiamento organizzativo»; i sistemi facili da modificare ed estendere «hanno sicuramente una vita più lunga rispetto ai sistemi molto rigidi» ([00:07:53]). ⚠️ «Modificare» compare anche in *scalable*, ma lì il sistema è modificabile per variazioni della **mole o della tipologia dei dati** (domanda 3); qui conta la **crescita del business**.
+**Opzione:** Extensible.
+**Distrattori:**
+- Scalable.
+- Modular.
+- Reliable.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza consiste nell'«uso di altri sistemi esistenti per la stessa funzione», secondo la slide 4 della lezione 30?
+**R:** «***modular*** (modularità): l'uso di altri sistemi esistenti per la stessa funzione» (slide 4). La docente: il sistema informativo di una banca «deve essere modulare»; non si costringe l'utente a usare un sistema piuttosto che l'altro, si possono usare solo alcuni moduli e dare la priorità ad altri sistemi, componendo il sistema da diversi moduli ([00:08:17]–[00:08:56]). I «moduli» sono della docente. ⚠️ *Modular* è il distrattore D della domanda 3: la sua definizione non parla di modifiche né di mole dei dati.
+**Opzione:** Modular.
+**Distrattori:**
+- Extensible.
+- Open.
+- Reliable.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza la slide 4 della lezione 30 traduce con «aperto, libero»?
+**R:** «***open*** (aperto, libero)» (slide 4), senza altra spiegazione. La docente: il sistema dovrebbe essere aperto, «di libero accesso di tutti i membri dell'organizzazione, ne abbiamo parlato già nella lezione precedente, quindi clienti, dipendenti, diverse organizzazioni, istituzioni» ([00:08:56]). ⚠️ *Browser-accessible* è la voce seguente, la facilità di accesso da internet. Nella lezione 29 l'Intranet garantisce l'accesso ai membri dell'organizzazione **autorizzati**, e il suo accesso è privato.
+**Opzione:** Open.
+**Distrattori:**
+- Browser-accessible.
+- Modular.
+- Fast.
+
+**D:** ⚠️ Quale caratteristica del sistema informativo per l'area finanza consiste nella «facilità di accesso da internet», secondo la slide 4 della lezione 30?
+**R:** «***browser-accessible*** (facilità di accesso da internet)» (slide 4), l'ultima delle otto. La docente: la facilità di accesso da internet permette di usare lo strumento da diversi dispositivi, luoghi e orari, «quindi lavoriamo praticamente anytime, anyplace», concetti utili «quando parliamo del lavoro agile, dello smart working» ([00:09:12]–[00:09:43]). ⚠️ *Open* è la voce precedente, aperto e libero: l'accesso **da internet** è del browser-accessible.
+**Opzione:** Browser-accessible.
+**Distrattori:**
+- Open.
+- Reliable.
+- Hardware.
+
+**D:** ⚠️ Quali sono i segnali del profondo cambiamento del sistema bancario italiano, secondo la slide 5 della lezione 30?
+**R:** «Segnali del profondo cambiamento del sistema bancario italiano: • Avvio del processo di **deregolamentazione** realizzato dalla **Banca d'Italia** • **Evoluzione dei comportamenti del cliente** • **Nascita sul mercato di nuovi operatori**» (slide 5). La docente: la deregolamentazione è stata «avviato anni fa, realizzato dalla Banca d'Italia»; i nuovi operatori sono di diverse tipologie, con modelli di business anche differenti, e richiama le forze di Michael Porter ([00:09:48]–[00:10:30]). ⚠️ Il processo è di **de**regolamentazione, realizzato dalla Banca d'Italia. I segnali sono tre: le sei voci sotto la freccia sono i nuovi modelli di business e le nuove strategie.
+**Opzione:** Avvio del processo di deregolamentazione realizzato dalla Banca d'Italia; evoluzione dei comportamenti del cliente; nascita sul mercato di nuovi operatori.
+**Distrattori:**
+- Avvio del processo di regolamentazione realizzato dalla Banca d'Italia; evoluzione dei comportamenti del cliente; nascita sul mercato di nuovi operatori.
+- Un'infrastruttura tecnologica ed un'architettura applicativa che offre servizi comuni a tutti i canali; architettura web-based; semplificazione dei meccanismi di integrazione e riduzione di costi di comunicazione.
+- Le politiche di gestione strategica del personale sotto diversi aspetti.
+
+**D:** ⚠️ Quali nuovi modelli di business e nuove strategie seguono ai segnali del cambiamento del sistema bancario italiano, secondo la slide 5 della lezione 30?
+**R:** Sei voci: «• Riorganizzazione delle aree di **marketing e vendite** (promozione di nuovi prodotti e cambiamenti nei processi commerciali • Definizione dei **nuovi ruoli con orientamenti consultivi** e con una più profonda efficienza nei servizi • Creazione dei **nuovi canali distributivi** (*phone banking* ed *home banking*) • Offerte dei **nuovi servizi** (*private banking*) • Sviluppo dei **nuovi prodotti** per diversificare risparmi e investimenti • **Aumento del cross-selling**» (slide 5; la parentesi della prima voce non si chiude). La docente: l'obiettivo è aumentare la qualità del servizio e la soddisfazione, fino alla fidelizzazione del cliente ([00:10:39]–[00:11:33]); il cross selling è vendere anche i servizi collegati ai servizi bancari e finanziari ([00:12:55]). ⚠️ Il cross-selling **aumenta**, e gli orientamenti dei nuovi ruoli sono **consultivi**.
+**Opzione:** Riorganizzazione delle aree di marketing e vendite (promozione di nuovi prodotti e cambiamenti nei processi commerciali); definizione dei nuovi ruoli con orientamenti consultivi e con una più profonda efficienza nei servizi; creazione dei nuovi canali distributivi (phone banking ed home banking); offerte dei nuovi servizi (private banking); sviluppo dei nuovi prodotti per diversificare risparmi e investimenti; aumento del cross-selling.
+**Distrattori:**
+- Riorganizzazione delle aree di marketing e vendite (promozione di nuovi prodotti e cambiamenti nei processi commerciali); definizione dei nuovi ruoli con orientamenti consultivi e con una più profonda efficienza nei servizi; creazione dei nuovi canali distributivi (phone banking ed home banking); offerte dei nuovi servizi (private banking); sviluppo dei nuovi prodotti per diversificare risparmi e investimenti; riduzione del cross-selling.
+- Fast, scalable, secure, reliable, extensible, modular, open, browser-accessible.
+- Automazione di tutti gli aspetti del processo di negoziazione (dalla documentazione alla realizzazione dello scambio, al settlement, alla contabilizzazione).
+
+**D:** ⚠️ Quali sono gli esempi dei nuovi canali distributivi e dei nuovi servizi fra le nuove strategie del sistema bancario italiano, secondo la slide 5 della lezione 30?
+**R:** «Creazione dei nuovi canali distributivi (***phone banking*** ed ***home banking***) • Offerte dei nuovi servizi (***private banking***)» (slide 5). La docente: i prodotti e servizi bancari si distribuiscono «non soltanto attraverso i canali tradizionali ma anche i canali virtuali, phone banking, home banking» ([00:11:33]); il private banking è «un'area che si è sviluppata molto», per i risparmiatori «con risparmi importanti, quindi i clienti di un livello medio alto», con servizi personalizzati ([00:11:57]–[00:12:55]). ⚠️ Phone banking e home banking sono **canali distributivi**, il private banking è un **servizio**. Il livello «medio alto» è della docente.
+**Opzione:** Nuovi canali distributivi: phone banking ed home banking; nuovi servizi: private banking.
+**Distrattori:**
+- Nuovi canali distributivi: private banking; nuovi servizi: phone banking ed home banking.
+- Assottigliamento dei margini: ampia concorrenza, facilità di comparazione dei prezzi.
+- Facilità di team working.
+
+**D:** ⚠️ Su quali livelli può verificarsi la fidelizzazione del cliente, secondo la docente nella lezione 30?
+**R:** «la fidelizzazione può verificarsi su diversi livelli, iniziando dalla **retention**, parlando poi della **lealtà**, del cliente che è il livello sicuramente **massimo** della fidelizzazione del cliente» ([00:11:15]–[00:11:33]). Non è nelle slide: la docente lo dice commentando i nuovi modelli di business, il cui obiettivo è la soddisfazione massima del cliente ([00:11:02]). ⚠️ Si parte dalla retention e si arriva alla lealtà: il livello massimo è la **lealtà**. La fidelizzazione torna fra gli obiettivi della banca portale (slide 12) e nella tecnologia come arma vincente (slide 6).
+**Opzione:** Dalla retention alla lealtà, che è il livello massimo della fidelizzazione del cliente.
+**Distrattori:**
+- Dalla lealtà alla retention, che è il livello massimo della fidelizzazione del cliente.
+- Intuito individuale.
+- IT driver, cioè incentrata sull'impiego delle risorse IT.
+
+**D:** ⚠️ Quali caratteristiche presenta la finanza virtuale, secondo la slide 6 della lezione 30?
+**R:** «Finanza virtuale • **Cliente al centro** dell'attività • **Integrazione** tra diversi canali distributivi • Possibilità di realizzare transazioni **24h/24** • **Bassi costi** • Accesso a un ampio spettro di informazioni **in tempo reale** • Opportunità di accedere al proprio conto **dovunque ci si trovi**» (slide 6). La docente li presenta come i benefici dello sviluppo della finanza virtuale: l'integrazione è fra canali distributivi «tradizionali e virtuali», le transazioni «24 su 24, 7 giorni a settimana», i bassi costi sono l'efficienza; l'accesso alle informazioni richiama il knowledge management ([00:13:22]–[00:14:36]). ⚠️ Sei voci, e l'ultima vale **dovunque ci si trovi**, non solo in filiale.
+**Opzione:** Cliente al centro dell'attività; integrazione tra diversi canali distributivi; possibilità di realizzare transazioni 24h/24; bassi costi; accesso a un ampio spettro di informazioni in tempo reale; opportunità di accedere al proprio conto dovunque ci si trovi.
+**Distrattori:**
+- Cliente al centro dell'attività; integrazione tra diversi canali distributivi; possibilità di realizzare transazioni 24h/24; bassi costi; accesso a un ampio spettro di informazioni in tempo reale; opportunità di accedere al proprio conto dalla sola filiale di riferimento.
+- Esigenza di velocizzare l'esecuzione dei processi; elevato grado di affidabilità dei processi e sistemi (99.99%).
+- Avvio del processo di deregolamentazione realizzato dalla Banca d'Italia; evoluzione dei comportamenti del cliente; nascita sul mercato di nuovi operatori.
+
+**D:** ⚠️ Che cosa diventa la tecnologia con la finanza virtuale, secondo la slide 6 della lezione 30?
+**R:** «• La tecnologia come **un'arma vincente** nel conflitto per l'acquisizione e fidelizzazione del cliente • **Dal ruolo di supporto al ruolo della variabile critica** • La leadership della tecnologia **aumenta la conoscenza dell'organizzazione** e migliora l'indice della qualità del servizio agli occhi del cliente» (slide 6, sotto la freccia). La docente: il ruolo della tecnologia «passa dal ruolo di supporto al ruolo della variabile strategica e critica», per il vantaggio competitivo, la qualità del servizio e la soddisfazione del cliente «sia esterno sia interno» ([00:14:36]–[00:15:32]). ⚠️ La direzione va **dal supporto alla variabile critica**. «Strategica» è della docente, la slide dice solo «critica».
+**Opzione:** La tecnologia come un'arma vincente nel conflitto per l'acquisizione e fidelizzazione del cliente; dal ruolo di supporto al ruolo della variabile critica; la leadership della tecnologia aumenta la conoscenza dell'organizzazione e migliora l'indice della qualità del servizio agli occhi del cliente.
+**Distrattori:**
+- La tecnologia come un'arma vincente nel conflitto per l'acquisizione e fidelizzazione del cliente; dal ruolo della variabile critica al ruolo di supporto; la leadership della tecnologia aumenta la conoscenza dell'organizzazione e migliora l'indice della qualità del servizio agli occhi del cliente.
+- La clientela può attraverso la rete telefonica fissa (o mobile) o la connessione a Internet disporre operazioni alla propria banca.
+- Ricerca di dati e informazioni; raccolta e la gestione d'informazioni di tutti i tipi; condivisione della conoscenza; collaborazione a distanza nella realizzazione di progetti e nello sviluppo di conoscenza.
+
+**D:** ⚠️ In quale periodo storico si sono diffusi i primi terminali per la gestione delle operazioni di sportello (ATM e POS), secondo il test della lezione 30 (domanda 4)?
+**R:** «**Anni '80**». La slide 7, «L'evoluzione della banca virtuale», mette sotto «Anni '80» la «diffusione dei primi terminali per la gestione delle operazioni di sportello (ATM e POS)»; la docente: «Se parliamo degli anni 80, iniziamo a parlare della diffusione dei primi terminali» ([00:16:20]). ⚠️ È una domanda «quando», e due distrattori hanno un appiglio: gli **anni '70** sono la banca elettronica (slide 7), gli **anni '90** il remote banking, ma solo per la docente ([00:17:24]). Gli anni '60 non compaiono nella lezione. Distrattori del test: «anni '60», «anni '70», «anni '90».
+**Opzione:** Anni '80.
+**Distrattori:**
+- Anni '60.
+- Anni '70.
+- Anni '90.
+
+**D:** ⚠️ Che cosa caratterizza la banca elettronica degli anni '70, secondo la slide 7 della lezione 30?
+**R:** «Anni '70 – la banca elettronica: • erogazione di prodotti e servizi secondo **modalità tradizionali** • impiego delle tecnologie finalizzato all'ottenimento di **maggiore efficienza**, alla **razionalizzazione della struttura produttiva**, alla **riduzione dei costi**» (slide 7). La docente: «la banca elettronica, Electronic Banking, che abbiamo citato in qualche altra lezione»; «iniziamo ad utilizzare qualche strumento elettronico per ridurre i costi, quindi soprattutto per aumentare l'efficienza organizzativa» ([00:15:39]–[00:16:20]); il cliente doveva comunque andare allo sportello ([00:17:45]–[00:17:56]). ⚠️ Le modalità sono ancora **tradizionali**: la banca a distanza è il remote banking. Nella lezione 28 l'electronic banking è invece la macro-area di phone banking, call center, internet banking, corporate banking e trading on line.
+**Opzione:** Erogazione di prodotti e servizi secondo modalità tradizionali; impiego delle tecnologie finalizzato all'ottenimento di maggiore efficienza, alla razionalizzazione della struttura produttiva, alla riduzione dei costi.
+**Distrattori:**
+- Erogazione di prodotti e servizi secondo modalità a distanza; impiego delle tecnologie finalizzato all'ottenimento di maggiore efficienza, alla razionalizzazione della struttura produttiva, alla riduzione dei costi.
+- Estensione dell'offerta dalla clientela VIP ai segmenti di mercato non ancora presidiati ma di rilevanti dimensioni; fidelizzazione della clientela; acquisizione di nuovi rapporti; contrasto all'azione degli intermediari non tradizionali.
+- Nuovi canali distributivi: phone banking ed home banking; nuovi servizi: private banking.
+
+**D:** ⚠️ In quale decennio la slide 7 della lezione 30 colloca la banca elettronica?
+**R:** «**Anni '70** – la banca elettronica» (slide 7). La docente: «In questa slide invece vedete alcune caratteristiche della banca virtuale degli anni 70 e degli anni 80. Se parliamo degli anni 70 parliamo della banca elettronica» ([00:15:32]–[00:15:39]). ⚠️ Gli **anni '80** sono quelli di ATM e POS (domanda 4), gli **anni '90** quelli del remote banking per la docente. Gli anni '60 non compaiono nella lezione.
+**Opzione:** Anni '70.
+**Distrattori:**
+- Anni '60.
+- Anni '90.
+
+**D:** ⚠️ In quale decennio si sviluppa il remote banking, secondo la docente nella lezione 30?
+**R:** «Dopodiché, dalle anni 90 parliamo dello sviluppo del concetto che si definisce come remote banking, quindi la banca a distanza» ([00:17:24]); «Dalle anni 90 comunque si sviluppa il concetto di remote banking» ([00:18:25]). ⚠️ La data è **solo nel transcript**: la slide 8, «Lo sviluppo del "remote banking"», non la riporta. Negli anni '80 ATM e POS danno uno scollegamento dagli sportelli, ma ancora con «un livello minimo della possibilità di svolgere le azioni a distanza» ([00:18:03]). Gli anni '90 sono il distrattore D della domanda 4.
+**Opzione:** Anni '90.
+**Distrattori:**
+- Anni '60.
+- Anni '70.
+
+**D:** ⚠️ Che cos'è l'ATM, secondo la slide 7 della lezione 30?
+**R:** «ATM (***Automated Teller Machine***): **sportello automatico** che consente alla clientela di effettuare operazioni utilizzando il **sistema Bancomat** (prelievo di contante, richiesta di informazioni sul proprio conto, bonifici e pagamenti di utenze, altre operazioni accessorie)» (slide 7). La docente: lo sportello automatico per prelevare i contanti, chiedere informazioni sul conto corrente, fare bonifici, pagare utenze e altre operazioni accessorie ([00:16:34]–[00:16:55]); il transcript scrive «automated tailor machine», la lezione 08 «Automatic teller machines». ⚠️ L'ATM è uno **sportello automatico**; il terminale collocato presso gli **esercizi commerciali** è il POS. È il distrattore C della domanda 5.
+**Opzione:** Sportello automatico che consente alla clientela di effettuare operazioni utilizzando il sistema Bancomat (prelievo di contante, richiesta di informazioni sul proprio conto, bonifici e pagamenti di utenze, altre operazioni accessorie).
+**Distrattori:**
+- Terminale collocato presso gli esercizi commerciali che consente alla clientela di effettuare operazioni utilizzando il sistema Bancomat (prelievo di contante, richiesta di informazioni sul proprio conto, bonifici e pagamenti di utenze, altre operazioni accessorie).
+- Incasso delle relative commissioni, dei canoni di abbonamento ai servizi; riduzione dei costi operativi attraverso l'automatizzazione dei processi; marketing one-to-one grazie al sistema di CRM (Customer Relationship Management).
+- Dalla retention alla lealtà, che è il livello massimo della fidelizzazione del cliente.
+
+**D:** ⚠️ Che cos'è il POS, secondo la slide 7 della lezione 30?
+**R:** «POS (***Point of Sales***): **terminale collocato presso gli esercizi commerciali** che consente di effettuare i **pagamenti elettronici** sulla base di specifiche **convenzioni con le aziende di credito**» (slide 7). La docente: i terminali collocati presso gli esercizi commerciali, «quindi non collocati all'interno della filiale della banca, ma che si utilizzano presso i negozi, i supermercati», sulla base di convenzioni con le aziende di credito, «quindi con le banche» ([00:16:55]–[00:17:24]). ⚠️ Il POS sta presso gli **esercizi commerciali**, non in filiale. Con l'ATM è uno dei primi terminali degli anni '80.
+**Opzione:** Terminale collocato presso gli esercizi commerciali che consente di effettuare i pagamenti elettronici sulla base di specifiche convenzioni con le aziende di credito.
+**Distrattori:**
+- Terminale collocato presso le filiali della banca che consente di effettuare i pagamenti elettronici sulla base di specifiche convenzioni con le aziende di credito.
+- Restringimento dei tempi di regolamento delle operazioni.
+- Punto di contatto ideale dove trovare tutto ciò di cui la clientela retail ed imprese necessita in modo veloce, preciso e sicuro; consulenze personalizzate + gestione di tutte le procedure finanziarie legate alle transazioni.
+
+**D:** ⚠️ Che cosa può fare la clientela con il remote banking, secondo la slide 8 della lezione 30?
+**R:** «Lo sviluppo del "*remote banking*" La clientela può attraverso la **rete telefonica fissa (o mobile)** o la **connessione a Internet** **disporre operazioni** alla propria banca» (slide 8). La docente: è «la banca a distanza»; dagli anni '90 «la clientela inizia a poter utilizzare anche la rete telefonica fissa o mobile o anche la connessione internet per fare delle operazioni, per disporre le operazioni alla propria banca» ([00:17:24]–[00:18:43]). ⚠️ La clientela **dispone operazioni** alla propria banca, non si limita a consultare il conto. Con ATM e POS, negli anni '80, c'era ancora solo «un livello minimo della possibilità di svolgere le azioni a distanza» ([00:18:03]): il remote banking passa per la rete telefonica e per Internet.
+**Opzione:** La clientela può attraverso la rete telefonica fissa (o mobile) o la connessione a Internet disporre operazioni alla propria banca.
+**Distrattori:**
+- La clientela può attraverso la rete telefonica fissa (o mobile) o la connessione a Internet consultare il proprio conto, ma non disporre operazioni alla propria banca.
+- Assottigliamento dei margini: ampia concorrenza, facilità di comparazione dei prezzi.
+- Il collegamento interpersonale e il collegamento tra le risorse umane e la conoscenza organizzativa.
+
+**D:** ⚠️ Quali voci elencano le slide 8 e 9 della lezione 30 sotto «Lo sviluppo del remote banking»?
+**R:** Nella slide 8: «*Telephone network*», «*Phone banking*», «*Mobile banking*» (con le sotto-voci *GSM (2G)* e *WAP/ Personal computer o tablet*); nella slide 9: «*Internet banking*» (con *Home banking* e *Corporate banking*) e «*TV banking*». La docente le presenta in quest'ordine; l'internet banking è «l'ulteriore passo di sviluppo di remote banking» ([00:18:43]–[00:21:40]). ⚠️ ATM e POS **non** sono remote banking: sono i terminali degli anni '80 (slide 7). Nella lezione 08, al contrario, il remote banking è uno dei sette canali distributivi tecnologici, accanto a phone banking, TV banking e internet banking.
+**Opzione:** Telephone network; phone banking; mobile banking; internet banking (home banking e corporate banking); TV banking.
+**Distrattori:**
+- Telephone network; phone banking; mobile banking; internet banking (home banking e corporate banking); ATM e POS.
+- Informative di natura bancaria e finanziaria; dispositive di natura bancaria e finanziaria; funzioni di e-commerce; funzioni di utilità.
+- Shrinking margins; cost reduction; globalization & consolidation; faster settlement; web-based integration with customers; regulators.
+
+**D:** ⚠️ Che cos'è il telephone network, secondo la slide 8 della lezione 30?
+**R:** «***Telephone network***: servizi **voice, sms e data** accessibili **rispettivamente** dalle tradizionali **utenze fisse domestiche**, dai **telefoni cellulari** e dai **personal computer**» (slide 8). La docente: attraverso la rete telefonica, «servizi voice, sms, data accessibile rispettivamente dalle tradizionali utenze fisse domestiche, dai telefoni cellulari, dai personal computer» ([00:18:43]). ⚠️ «Rispettivamente»: **voice** dalle utenze fisse, **sms** dai cellulari, **data** dai personal computer. È il distrattore B della domanda 5.
+**Opzione:** Servizi voice, sms e data accessibili rispettivamente dalle tradizionali utenze fisse domestiche, dai telefoni cellulari e dai personal computer.
+**Distrattori:**
+- Servizi voice, sms e data accessibili rispettivamente dai telefoni cellulari, dalle tradizionali utenze fisse domestiche e dai personal computer.
+- Logica di funzionamento pull, i dati si autoaggiornano; specializzazione per desk (per prodotti).
+- Avvio del processo di deregolamentazione realizzato dalla Banca d'Italia; evoluzione dei comportamenti del cliente; nascita sul mercato di nuovi operatori.
+
+**D:** ⚠️ Come si distinguono il phone banking e il mobile banking, secondo la slide 8 della lezione 30?
+**R:** «***Phone banking:*** servizi bancari tramite **postazioni fisse** del cliente (telefono di casa, PC fisso). • ***Mobile banking***: possibilità di effettuare operazioni bancarie **da qualunque luogo** tramite telefoni cellulari, tablet e computer portatili» (slide 8). La docente: il phone banking è il servizio «tramite postazioni fisse del cliente il telefono di casa o pc fisso»; il mobile banking la possibilità di operare «anche in movimento», «tramite telefoni cellulari, tablet o computer portatili» ([00:19:07]–[00:19:40]). ⚠️ Le postazioni **fisse** sono del phone banking; il mobile banking vale **da qualunque luogo**. La definizione del mobile banking è la domanda 5.
+**Opzione:** Phone banking: servizi bancari tramite postazioni fisse del cliente (telefono di casa, PC fisso); mobile banking: possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili.
+**Distrattori:**
+- Mobile banking: servizi bancari tramite postazioni fisse del cliente (telefono di casa, PC fisso); phone banking: possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili.
+- Erogazione di prodotti e servizi secondo modalità tradizionali; impiego delle tecnologie finalizzato all'ottenimento di maggiore efficienza, alla razionalizzazione della struttura produttiva, alla riduzione dei costi.
+- Un'infrastruttura tecnologica ed un'architettura applicativa che offre servizi comuni a tutti i canali; architettura web-based; semplificazione dei meccanismi di integrazione e riduzione di costi di comunicazione.
+
+**D:** ⚠️ Come si definiscono i servizi bancari che danno la possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili, secondo il test della lezione 30 (domanda 5)?
+**R:** «**Mobile banking**». La slide 8: «Mobile banking: possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili»; la docente dice «tablet o computer portatili» ([00:19:30]). ⚠️ I tre distrattori vengono dalla lezione: il **telephone network** è la voce precedente della slide 8 (servizi voice, sms e data); l'**automated teller machine** è l'ATM della slide 7, lo sportello automatico; «**SGM**» non compare nei materiali ed è l'anagramma di **GSM (2G)**, la sotto-voce dello stesso mobile banking con cui si inviano o ricevono informazioni e si dispongono operazioni via SMS. Distrattori del test: «SGM», «telephone network», «automated teller machine».
+**Opzione:** Mobile banking.
+**Distrattori:**
+- SGM.
+- Telephone network.
+- Automated teller machine.
+
+**D:** ⚠️ Che cosa permettono, nel mobile banking, il GSM (2G) e il WAP, secondo la slide 8 della lezione 30?
+**R:** «• ***GSM (2G)***: il cliente può **inviare o ricevere informazioni e disporre operazioni** (es. **SMS**) • ***WAP/ Personal computer o tablet***: gli stessi servizi **dell'internet banking**» (slide 8). La docente: con la tecnologia «2G, GSM» il cliente poteva inviare o ricevere informazioni e disporre operazioni «soprattutto attraverso SMS, quindi non parliamo ancora dell'accesso a internet»; poi il WAP, cioè l'uso di internet, e con il mobile banking «3G, 4G» le attività equivalenti a un internet banking ([00:19:40]–[00:20:17]). ⚠️ Gli **SMS** sono del GSM, i servizi dell'**internet banking** del WAP. «SGM», distrattore A della domanda 5, è l'anagramma di GSM.
+**Opzione:** GSM (2G): il cliente può inviare o ricevere informazioni e disporre operazioni (es. SMS); WAP/ Personal computer o tablet: gli stessi servizi dell'internet banking.
+**Distrattori:**
+- WAP/ Personal computer o tablet: il cliente può inviare o ricevere informazioni e disporre operazioni (es. SMS); GSM (2G): gli stessi servizi dell'internet banking.
+- Automazione di tutti gli aspetti del processo di negoziazione (dalla documentazione alla realizzazione dello scambio, al settlement, alla contabilizzazione).
+- La banca virtuale che realizza il cross selling di prodotti bancari e non bancari (l'offerta di servizi che soddisfino i personal needs: es. viaggi, acquisto e vendita dell'auto o della casa).
+
+**D:** ⚠️ Che cos'è l'internet banking, e come si distinguono home banking e corporate banking, secondo la slide 9 della lezione 30?
+**R:** «***Internet banking***: collegamento tramite la rete Internet tra PC dell'utente e banca: • ***Home banking:*** **clientela privata** (consultazione del conto corrente, della quotazione dei cambi o degli assegni e del portafoglio titoli, predisposizione dei bonifici, pagamento di utenze ecc.) • ***Corporate banking***: **clientela imprese** (gestione degli incassi ed i pagamenti, informazioni per la gestione del cash management)» (slide 9). La docente: l'internet banking, anche online banking, è «l'ulteriore passo di sviluppo di remote banking»; il corporate banking riguarda aziende e organizzazioni, «servizi proposti alle aziende e non ai privati» ([00:20:17]–[00:21:11]). ⚠️ L'**home** banking è per i **privati**, il **corporate** banking per le **imprese**.
+**Opzione:** Collegamento tramite la rete Internet tra PC dell'utente e banca: home banking per la clientela privata (consultazione del conto corrente, della quotazione dei cambi o degli assegni e del portafoglio titoli, predisposizione dei bonifici, pagamento di utenze ecc.); corporate banking per la clientela imprese (gestione degli incassi ed i pagamenti, informazioni per la gestione del cash management).
+**Distrattori:**
+- Collegamento tramite la rete Internet tra PC dell'utente e banca: home banking per la clientela imprese (consultazione del conto corrente, della quotazione dei cambi o degli assegni e del portafoglio titoli, predisposizione dei bonifici, pagamento di utenze ecc.); corporate banking per la clientela privata (gestione degli incassi ed i pagamenti, informazioni per la gestione del cash management).
+- Il modello operativo integrato, capace di rispondere alle esigenze dell'utente attraverso le risorse più idonee, dalla filiale al telefono, da Internet ai dispositivi ATM e self service, ai promotori finanziari.
+- Sportello automatico che consente alla clientela di effettuare operazioni utilizzando il sistema Bancomat (prelievo di contante, richiesta di informazioni sul proprio conto, bonifici e pagamenti di utenze, altre operazioni accessorie).
+
+**D:** ⚠️ Come si chiama la forma di remote banking in cui la clientela fruisce dei servizi bancari attraverso la TV, per esempio con un decoder specializzato che dialoga con il sistema della banca, secondo la slide 9 della lezione 30?
+**R:** «***TV banking***: la clientela fruisce dei servizi bancari attraverso la TV (es. un **decoder specializzato** che dialoga con il sistema della banca)» (slide 9). La docente: «interessante però di minore successo probabilmente»; oltre alla smart TV ci sono decoder specializzati che possono dialogare con il sistema della banca ([00:21:11]). ⚠️ Il minore successo è un giudizio della docente. Il phone banking passa per le postazioni fisse del cliente, l'home banking per Internet, il telephone network per la rete telefonica.
+**Opzione:** TV banking.
+**Distrattori:**
+- Phone banking.
+- Home banking.
+- Telephone network.
+
+**D:** ⚠️ Quali sono i benefici a vantaggio del cliente della banca virtuale, secondo la slide 10 della lezione 30?
+**R:** «I benefici a vantaggio del cliente della banca virtuale: • **Monetari**: riduzione delle **commissioni** applicate dall'intermediario finanziario alle transazioni eseguite attraverso i canali virtuali, anziché allo sportello; • **Non monetari**: **risparmio di tempo** e ottenimento delle informazioni in modo più tempestivo e **senza limiti d'orario**» (slide 10). La docente: la banca ottimizza i processi e minimizza i costi, e questo si ripercuote sulle spese per il cliente; senza andare in filiale il cliente decide più in fretta ed è più soddisfatto ([00:21:44]–[00:23:12]). ⚠️ Le commissioni sono un beneficio **monetario**, il tempo **non monetario**.
+**Opzione:** Monetari: riduzione delle commissioni applicate dall'intermediario finanziario alle transazioni eseguite attraverso i canali virtuali, anziché allo sportello; non monetari: risparmio di tempo e ottenimento delle informazioni in modo più tempestivo e senza limiti d'orario.
+**Distrattori:**
+- Non monetari: riduzione delle commissioni applicate dall'intermediario finanziario alle transazioni eseguite attraverso i canali virtuali, anziché allo sportello; monetari: risparmio di tempo e ottenimento delle informazioni in modo più tempestivo e senza limiti d'orario.
+- La variabile area funzionale.
+- Facilità di team working.
+
+**D:** ⚠️ Quali costi sostengono le banche per i servizi di remote banking, secondo la slide 11 della lezione 30?
+**R:** «Costi a carico delle banche per il servizi di remote banking: • **Costi di investimento**: • Costi di investimento in tecnologie (costi economici e organizzativi, ricorso all'*outsoursing*) • Costi di **promozione** presso la clientela della propria attività virtuale • **Costi di gestione**: • Costi di natura **organizzativa** (personale informatico) • Costi di natura **tecnologica** (connessione ad internet, costo di manutenzione hardware • e software, costo dell'help desk)» (slide 11). La docente: l'outsourcing comporta «i costi di transazione con i partner»; fra i costi organizzativi c'è anche la formazione del personale informatico ([00:23:22]–[00:24:45]). ⚠️ La **promozione** è un costo **di investimento**, il **personale informatico** un costo **di gestione**. La slide scrive «outsoursing».
+**Opzione:** Costi di investimento: in tecnologie (costi economici e organizzativi, ricorso all'outsourcing) e di promozione presso la clientela della propria attività virtuale; costi di gestione: di natura organizzativa (personale informatico) e di natura tecnologica (connessione ad internet, costo di manutenzione hardware e software, costo dell'help desk).
+**Distrattori:**
+- Costi di investimento: in tecnologie (costi economici e organizzativi, ricorso all'outsourcing) e di natura organizzativa (personale informatico); costi di gestione: di promozione presso la clientela della propria attività virtuale e di natura tecnologica (connessione ad internet, costo di manutenzione hardware e software, costo dell'help desk).
+- Phone banking: servizi bancari tramite postazioni fisse del cliente (telefono di casa, PC fisso); mobile banking: possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili.
+- Punto di contatto ideale dove trovare tutto ciò di cui la clientela retail ed imprese necessita in modo veloce, preciso e sicuro; consulenze personalizzate + gestione di tutte le procedure finanziarie legate alle transazioni.
+
+**D:** ⚠️ Quali benefici ottiene la banca dall'offerta di servizi virtuali, secondo la slide 11 della lezione 30?
+**R:** «I benefici a seguito dell'offerta di servizi virtuali: • **Incasso** delle relative commissioni, dei **canoni di abbonamento** ai servizi, • **Riduzione dei costi operativi** attraverso l'automatizzazione dei processi, • ***Marketing one-to-one*** grazie al sistema di **CRM** (*Customer Relationship Management*)» (slide 11). La docente: i clienti «sono anche disposti a pagare insomma di più» per questi servizi ([00:24:45]); l'automazione fa risparmiare sul personale di sportello, perché servizi come l'estratto conto il cliente li richiede online ([00:25:06]–[00:25:55]); il marketing one-to-one è la personalizzazione, la vicinanza a ogni cliente ([00:25:55]–[00:26:30]). ⚠️ Il marketing è **one-to-one**, non di massa. L'incasso delle commissioni è un beneficio **della banca**; la riduzione delle commissioni è un beneficio monetario **del cliente** (slide 10).
+**Opzione:** Incasso delle relative commissioni, dei canoni di abbonamento ai servizi; riduzione dei costi operativi attraverso l'automatizzazione dei processi; marketing one-to-one grazie al sistema di CRM (Customer Relationship Management).
+**Distrattori:**
+- Incasso delle relative commissioni, dei canoni di abbonamento ai servizi; riduzione dei costi operativi attraverso l'automatizzazione dei processi; marketing di massa grazie al sistema di CRM (Customer Relationship Management).
+- Servizi voice, sms e data accessibili rispettivamente dalle tradizionali utenze fisse domestiche, dai telefoni cellulari e dai personal computer.
+- Hardware.
+
+**D:** ⚠️ Che cos'è la banca portale, secondo la slide 12 della lezione 30?
+**R:** «La banca portale La banca virtuale che realizza il ***cross selling*** di prodotti **bancari e non bancari** (l'offerta di servizi che soddisfino i ***personal needs***: es. viaggi, acquisto e vendita dell'auto o della casa)» (slide 12). La docente: non vende soltanto ed esclusivamente servizi bancari, ma integra prodotti bancari e non bancari per soddisfare «personal needs differenti» ([00:26:43]–[00:27:19]); per esempio finanzia un viaggio o una macchina e offre i servizi accessori ([00:27:47]–[00:28:13]). ⚠️ I prodotti sono bancari **e non bancari**, e la clientela non è solo quella VIP: estendere l'offerta **dalla** clientela VIP agli altri segmenti è uno degli obiettivi di business. Gli esempi sono aperti («es.»).
+**Opzione:** La banca virtuale che realizza il cross selling di prodotti bancari e non bancari (l'offerta di servizi che soddisfino i personal needs: es. viaggi, acquisto e vendita dell'auto o della casa).
+**Distrattori:**
+- La banca virtuale che realizza il cross selling di prodotti bancari e non bancari alla sola clientela VIP (l'offerta di servizi che soddisfino i personal needs: es. viaggi, acquisto e vendita dell'auto o della casa).
+- GSM (2G): il cliente può inviare o ricevere informazioni e disporre operazioni (es. SMS); WAP/ Personal computer o tablet: gli stessi servizi dell'internet banking.
+- Facilita le conversazioni e la condivisione della conoscenza tacita tra le persone e diventa il canale primario.
+
+**D:** ⚠️ Per quale clientela la banca portale è il punto di contatto ideale, e che cosa offre, secondo la slide 12 della lezione 30?
+**R:** «• La banca portale come **punto di contatto ideale** dove trovare tutto ciò di cui la clientela ***retail* ed imprese** necessita in modo **veloce, preciso e sicuro**. • **Consulenze personalizzate** + gestione di tutte le procedure finanziarie legate alle transazioni» (slide 12). La docente parla della clientela «retail soprattutto, quindi clienti privati, le persone fisiche» ([00:27:19]), e poi delle consulenze personalizzate e della gestione delle procedure finanziarie ([00:27:39]). ⚠️ La slide dice **retail ed imprese**: le imprese non sono escluse. «Soprattutto» è della docente; per l'esame fa testo la slide.
+**Opzione:** Punto di contatto ideale dove trovare tutto ciò di cui la clientela retail ed imprese necessita in modo veloce, preciso e sicuro; consulenze personalizzate + gestione di tutte le procedure finanziarie legate alle transazioni.
+**Distrattori:**
+- Punto di contatto ideale dove trovare tutto ciò di cui la sola clientela retail (persone fisiche) necessita in modo veloce, preciso e sicuro; consulenze personalizzate + gestione di tutte le procedure finanziarie legate alle transazioni.
+- Terminale collocato presso gli esercizi commerciali che consente di effettuare i pagamenti elettronici sulla base di specifiche convenzioni con le aziende di credito.
+- La clientela può attraverso la rete telefonica fissa (o mobile) o la connessione a Internet disporre operazioni alla propria banca.
+
+**D:** ⚠️ Quali sono gli obiettivi di business della banca portale, secondo la slide 12 della lezione 30?
+**R:** «Gli obiettivi di business: • **Estensione dell'offerta dalla clientela VIP ai segmenti di mercato non ancora presidiati** ma di rilevanti dimensioni • **Fidelizzazione** della clientela • **Acquisizione di nuovi rapporti** • **Contrasto all'azione degli intermediari non tradizionali**» (slide 12). La docente: l'estensione è anche differenziazione, il raggiungimento di altri segmenti ([00:28:13]–[00:28:24]); il cliente che trova sul portale la gamma più vasta di servizi spreca meno tempo, è più soddisfatto e diventa fedele ([00:28:24]–[00:29:08]); il cross selling è uno strumento contro i competitor e gli intermediari non tradizionali ([00:29:23]–[00:29:59]). ⚠️ L'offerta si estende **dalla** clientela VIP **ai** segmenti non ancora presidiati, non il contrario.
+**Opzione:** Estensione dell'offerta dalla clientela VIP ai segmenti di mercato non ancora presidiati ma di rilevanti dimensioni; fidelizzazione della clientela; acquisizione di nuovi rapporti; contrasto all'azione degli intermediari non tradizionali.
+**Distrattori:**
+- Estensione dell'offerta dai segmenti di mercato non ancora presidiati ma di rilevanti dimensioni alla clientela VIP; fidelizzazione della clientela; acquisizione di nuovi rapporti; contrasto all'azione degli intermediari non tradizionali.
+- Phone banking: servizi bancari tramite postazioni fisse del cliente (telefono di casa, PC fisso); mobile banking: possibilità di effettuare operazioni bancarie da qualunque luogo tramite telefoni cellulari, tablet e computer portatili.
+- Fast, scalable, secure, reliable, extensible, modular, open, browser-accessible.
+
+**D:** ⚠️ Quali sono le funzioni di una banca portale, secondo la slide 13 della lezione 30?
+**R:** Quattro: «• **Informative** di natura bancaria e finanziaria […] • **Dispositive** di natura bancaria e finanziaria […] • Funzioni di **e-commerce** […] • Funzioni di **utilità**» (slide 13). La docente: «Le funzioni sono queste quattro che vedete sulla slide» ([00:30:01]); l'e-commerce è la funzione che distingue la banca portale da una banca remota, perché la banca fa da vetrina per diversi partner e offre il credito al consumo per gli acquisti online ([00:30:44]–[00:31:48]). ⚠️ Routing e trasformazione non sono funzioni della banca portale: sono le attività dell'infrastruttura della banca multicanale (slide 14).
+**Opzione:** Informative di natura bancaria e finanziaria; dispositive di natura bancaria e finanziaria; funzioni di e-commerce; funzioni di utilità.
+**Distrattori:**
+- Informative di natura bancaria e finanziaria; dispositive di natura bancaria e finanziaria; funzioni di e-commerce; funzioni di routing e trasformazione.
+- Telephone network; phone banking; mobile banking; internet banking (home banking e corporate banking); TV banking.
+- Automazione del back-office.
+
+**D:** ⚠️ Fra quali funzioni della banca portale stanno il trading on line, le rate mutui e le variazioni anagrafiche, secondo la slide 13 della lezione 30?
+**R:** Fra le funzioni «**Dispositive** di natura bancaria e finanziaria: • bonifici, giroconti, pagamento di bollettini postali, di imposte e tasse, MAV, utenze convenzionate, **rate mutui**, **variazioni anagrafiche**, **trading on line**, ecc» (slide 13). La docente legge solo l'inizio dell'elenco: il bonifico, il giroconto, i bollettini postali, le imposte ([00:30:23]). ⚠️ Le funzioni **informative** sono la visualizzazione (movimenti e saldo di c/c, depositi, estratti conto, carte di credito, situazione degli assegni); le **dispositive** sono le operazioni che il cliente dispone.
+**Opzione:** Fra le funzioni dispositive di natura bancaria e finanziaria.
+**Distrattori:**
+- Fra le funzioni informative di natura bancaria e finanziaria.
+- Fra le funzioni di e-commerce.
+- Fra le funzioni di utilità.
+
+**D:** ⚠️ Fra quali funzioni della banca portale stanno le vetrine partner e il credito al consumo per acquisti online, secondo la slide 13 della lezione 30?
+**R:** Fra le «Funzioni di **e-commerce**: • acquisti ondine, **vetrine partner**, **credito al consumo per acquisti online**, ecc» (slide 13; «ondine» è un refuso della slide). La docente: è la funzione che distingue la banca portale da una banca remota; la banca fa da vetrina per diversi partner, con cui crea relazioni di fiducia, e sostiene subito il cliente con il credito al consumo, per il viaggio o la macchina ([00:30:44]–[00:31:48]). ⚠️ Il credito al consumo per acquisti online è **e-commerce**, non una funzione dispositiva. Le funzioni di **utilità** sono free internet, posta elettronica, rubrica, memorandum, area community, newsgroup.
+**Opzione:** Fra le funzioni di e-commerce.
+**Distrattori:**
+- Fra le funzioni dispositive di natura bancaria e finanziaria.
+- Fra le funzioni informative di natura bancaria e finanziaria.
+- Fra le funzioni di utilità.
+
+**D:** ⚠️ Che cos'è la banca multicanale, secondo la slide 14 della lezione 30?
+**R:** «La banca multicanale • Il **modello operativo integrato**, capace di rispondere alle esigenze dell'utente attraverso le **risorse più idonee**, dalla filiale al telefono, da Internet ai dispositivi ATM e *self service*, ai promotori finanziari» (slide 14). La docente: i canali distributivi «sono veramente tanti», e «si collegano e si integrano all'interno dell'unico modello, ecco perché si chiama il modello operativo integrato o multicanale» ([00:32:21]–[00:33:04]); il transcript scrive «ATMs o service». ⚠️ Il modello è **integrato**: i canali non restano separati, e lo stesso servizio si può disporre da canali diversi.
+**Opzione:** Il modello operativo integrato, capace di rispondere alle esigenze dell'utente attraverso le risorse più idonee, dalla filiale al telefono, da Internet ai dispositivi ATM e self service, ai promotori finanziari.
+**Distrattori:**
+- Il modello operativo separato per canale, capace di rispondere alle esigenze dell'utente attraverso le risorse più idonee, dalla filiale al telefono, da Internet ai dispositivi ATM e self service, ai promotori finanziari.
+- Erogazione di prodotti e servizi secondo modalità tradizionali; impiego delle tecnologie finalizzato all'ottenimento di maggiore efficienza, alla razionalizzazione della struttura produttiva, alla riduzione dei costi.
+- Ambiente ideale per la condivisione di informazioni e conoscenze esplicite (dinamiche e ricche di collegamenti); strumento di condivisione della conoscenza tacita (teleconferenza, forum e discussion group).
+
+**D:** ⚠️ Quale infrastruttura costruisce la banca multicanale, e con quali effetti, secondo la slide 14 della lezione 30?
+**R:** «Costruzione di un'infrastruttura tecnologica ed un'architettura applicativa che offre **servizi comuni a tutti i canali** -> architettura ***web-based*** -> **semplificazione** dei meccanismi di integrazione e **riduzione** di costi di comunicazione» (slide 14). La docente: lo stesso bonifico, lo stesso pagamento di un'utenza si può disporre dalla filiale, dal PC, dal telefono, dal call center; l'architettura web based, usabile da diversi dispositivi, riduce i costi di comunicazione tra il cliente e la banca ([00:33:04]–[00:33:58]). ⚠️ I servizi sono **comuni a tutti i canali**, i costi di comunicazione si **riducono**.
+**Opzione:** Un'infrastruttura tecnologica ed un'architettura applicativa che offre servizi comuni a tutti i canali; architettura web-based; semplificazione dei meccanismi di integrazione e riduzione di costi di comunicazione.
+**Distrattori:**
+- Un'infrastruttura tecnologica ed un'architettura applicativa che offre servizi distinti per ciascun canale; architettura web-based; semplificazione dei meccanismi di integrazione e riduzione di costi di comunicazione.
+- Terminale collocato presso gli esercizi commerciali che consente di effettuare i pagamenti elettronici sulla base di specifiche convenzioni con le aziende di credito.
+- Nuovi canali distributivi: phone banking ed home banking; nuovi servizi: private banking.
+
+**D:** ⚠️ Quali attività svolge l'infrastruttura che costituisce il cuore della piattaforma multicanale, secondo la slide 14 della lezione 30?
+**R:** «Il cuore della piattaforma multicanale è costituito da un'infrastruttura che svolge attività di: • ***Routing*** - **riconosce, interpreta e dirige le richieste** provenienti dal canale o dal dispositivo specifico; consente anche un dialogo sincrono ed asincrono coi sistemi *legacy*; • **Trasformazione** - permette il passaggio di informazioni tra sistemi differenti grazie alla **conversione del formato dei dati** da un linguaggio ad un altro» (slide 14). La docente: con il routing il cliente può passare da un canale all'altro e concludere da un dispositivo un'operazione cominciata su un altro, e il tracciamento è molto importante ([00:34:10]–[00:34:52]); la trasformazione fa arrivare lo stesso dato da un dispositivo all'altro ([00:34:52]–[00:35:25]). ⚠️ Il **routing dirige** le richieste e dialoga con i sistemi legacy, la **trasformazione converte** il formato dei dati.
+**Opzione:** Routing: riconosce, interpreta e dirige le richieste provenienti dal canale o dal dispositivo specifico, e consente anche un dialogo sincrono ed asincrono coi sistemi legacy; trasformazione: permette il passaggio di informazioni tra sistemi differenti grazie alla conversione del formato dei dati da un linguaggio ad un altro.
+**Distrattori:**
+- Trasformazione: riconosce, interpreta e dirige le richieste provenienti dal canale o dal dispositivo specifico, e consente anche un dialogo sincrono ed asincrono coi sistemi legacy; routing: permette il passaggio di informazioni tra sistemi differenti grazie alla conversione del formato dei dati da un linguaggio ad un altro.
+- Sportello automatico che consente alla clientela di effettuare operazioni utilizzando il sistema Bancomat (prelievo di contante, richiesta di informazioni sul proprio conto, bonifici e pagamenti di utenze, altre operazioni accessorie).
+- Telephone network; phone banking; mobile banking; internet banking (home banking e corporate banking); TV banking.
