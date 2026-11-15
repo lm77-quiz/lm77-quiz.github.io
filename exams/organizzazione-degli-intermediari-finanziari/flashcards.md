@@ -4065,3 +4065,975 @@
 - La disponibilità delle risorse specializzate è la condizione necessaria per la diversificazione; i costi della risorsa condivisa per diverse ASA sono il driver della convenienza.
 - Demand-side: industrial organization economics, diversificazione trainata; supply-side: teorie organizzative, diversificazione spinta.
 - Soltanto in parte con il concreto utilizzo, ma devono essere in parte creduti (quali sarebbero state le condizioni di altre banche?).
+
+## Lezione 15 — I caratteri distintivi della diversificazione: direzione, intensità, estensione
+
+**D:** ⚠️ Lungo quali direzioni si esprime la strategia di diversificazione, secondo la slide 2 della lezione 15?
+**R:** «La strategia di diversificazione 1. Si esprime lungo **direzioni diverse** (1 o 2 componenti di ASA già frequentante): • **Nuovi mercati** • **Nuovi prodotti** • **Nuove risorse**» (slide 2, «frequentante» così). La docente: «possiamo considerare una o due componenti di ASA di aree strategiche d'affari già frequentate e quindi di conseguenza possiamo parlare di tre direzioni diverse quindi nuovi mercati nuovi prodotti o nuove risorse» ([00:00:22]). Sono le tre componenti dell'ASA della lezione 13: prodotti, segmenti di clientela, sistema di risorse. ⚠️ Il **settore** non è una direzione: l'impresa multi-settore è una delle configurazioni della slide 11. La domanda 1 del test aggiunge l'intrusa «nuovi mission e vision».
+**Opzione:** Nuovi mercati; nuovi prodotti; nuove risorse.
+**Distrattori:**
+- Nuovi mercati; nuovi prodotti; nuovi settori.
+- Azionisti poco collaborativi; problemi culturali, organizzativi, manageriali; peso di eventuali sunk cost (costi non recuperabili); mancanza di vantaggi competitivi specifici.
+- Effetti di economie di costo (scala e scopo) sui fattori produttivi comuni.
+
+**D:** ⚠️ La strategia di diversificazione può esprimersi lungo direzioni diverse: quale tra nuovi mercati, nuovi mission e vision, nuovi prodotti e nuove risorse non ne fa parte, secondo il test della lezione 15 (domanda 1)?
+**R:** «**Nuovi mission e vision**» (così la piattaforma, con «nuovi»). Le direzioni della slide 2 sono tre: «Nuovi mercati • Nuovi prodotti • Nuove risorse»; per la docente «tre direzioni diverse quindi nuovi mercati nuovi prodotti o nuove risorse» ([00:00:22]). Mission e vision non compaiono nella lezione: vengono dal pool condiviso dei test, dove «mission e vision aziendale» era il distrattore C della domanda 3 del test 01 e «mission» e «vision» due distrattori della domanda 1 del test 05. Nel corso la missione aziendale è il tema della lezione 23. ⚠️ La domanda è **negativa**. Distrattori del test: «nuovi mercati», «nuovi prodotti», «nuove risorse», cioè le tre direzioni.
+**Opzione:** Nuovi mission e vision.
+**Distrattori:**
+- Nuovi mercati.
+- Nuovi prodotti.
+- Nuove risorse.
+
+**D:** ⚠️ Con quali gradi di intensità si esprime la strategia di diversificazione, secondo la slide 2 della lezione 15?
+**R:** «2. Si esprime con **gradi di intensità diversi**: • Situazioni di **diversificazione debole/correlazione forte (intensità minore)** • Situazioni di **diversificazione forte e di correlazione debole (intensità maggiore)**» (slide 2). La docente: nell'intensità minore si diversificano mercato, prodotto e risorsa «in maniera abbastanza ridotta»; la correlazione è quella «con le ASA già frequentate» ([00:00:46]–[00:01:33]). ⚠️ Diversificazione e correlazione vanno in **direzioni opposte**: quando l'una è debole, l'altra è forte. L'intensità **minore** è quella della diversificazione **debole**, cioè della correlazione **forte**. La docente dice «debole **o** correlazione forte» e «forte **o** di correlazione debole».
+**Opzione:** Situazioni di diversificazione debole/correlazione forte (intensità minore); situazioni di diversificazione forte e di correlazione debole (intensità maggiore).
+**Distrattori:**
+- Situazioni di diversificazione debole/correlazione forte (intensità maggiore); situazioni di diversificazione forte e di correlazione debole (intensità minore).
+- Minacce: pressione a difendere e/o uscire dal mercato; opportunità: attrazione a entrare.
+- Fra le minacce, l'ASA permeabile e contendibile (minori barriere all'entrata); fra le opportunità, le nuove ASA con barriere all'entrata rispetto a potenziali entranti.
+
+**D:** ⚠️ Che cosa indicano le lettere S e D nello schema dei 6 scenari di diversificazione, secondo la slide 3 della lezione 15?
+**R:** «**S – variabile stabile, D – componente di diversificazione**» (slide 3, sotto lo schema, in corsivo). La docente: «La lettera S sta per variabile stabile» ([00:01:53]); nel caso 1.1 «il mercato e il prodotto rimangono stabili, rimangono invariati», mentre cambiano le risorse, «il driver, praticamente l'elemento di diversificazione» ([00:01:58]–[00:02:14]). ⚠️ D sta per **diversificazione**, non per differenziazione, che è la strategia di business della lezione 11.
+**Opzione:** S – variabile stabile, D – componente di diversificazione.
+**Distrattori:**
+- S – componente di diversificazione, D – variabile stabile.
+- S – variabile stabile, D – componente di differenziazione.
+
+**D:** ⚠️ Quante componenti di diversificazione (D) e quante variabili stabili (S) hanno i casi di intensità minore e quelli di intensità maggiore, secondo lo schema della slide 3 della lezione 15?
+**R:** Lo schema della slide 3 incrocia i casi con le tre direzioni (mercato, prodotto, risorse). I casi di intensità **minore** (1.1, 1.2, 1.3) hanno **una sola D** e **due S**; quelli di intensità **maggiore** (2.1, 2.2, 2.3) hanno **due D** e **una S**. Nessun caso ha tre D: è la parentesi della slide 2, «1 o 2 componenti di ASA già frequentante». La docente: «se è intensità minore cambia un elemento solo»; nell'intensità maggiore «parliamo del cambiamento della diversificazione almeno di due elementi» ([00:02:15]–[00:03:19]; di nuovo a [00:10:34]). ⚠️ La docente dice «**almeno** due», lo schema ne mostra **esattamente** due. Le situazioni con tutte e tre le variabili diversificate, per lei, sono «abbastanza rare» ([00:15:59]).
+**Opzione:** Intensità minore: 1 componente di diversificazione e 2 variabili stabili; intensità maggiore: 2 componenti di diversificazione e 1 variabile stabile.
+**Distrattori:**
+- Intensità minore: 2 componenti di diversificazione e 1 variabile stabile; intensità maggiore: 1 componente di diversificazione e 2 variabili stabili.
+- Massimo ampliamento del quadrante 4 (opportunità esterne e fattori interni di forza); riduzione della sfavorevole combinazione delle minacce con i punti di debolezza (quadrante 1).
+- Minacce: pressione a difendere e/o uscire dal mercato; opportunità: attrazione a entrare.
+
+**D:** ⚠️ Quale componente si diversifica in ciascuno dei tre casi di intensità minore, secondo le slide 3–6 della lezione 15?
+**R:** Nello schema della slide 3 (mercato / prodotto / risorse) i casi sono **1.1 S S D**, **1.2 D S S** e **1.3 S D S**. Le slide 4–6 li intitolano «Caso 1.1. **Diversificazione del sistema delle risorse**», «Caso 1.2. **Diversificazione del mercato e dei segmenti di mercato**», «Caso 1.3. **Diversificazione del prodotto-servizio**». La docente: «caso 1.1 cambiano le risorse, caso 1.2 cambia il mercato ma il prodotto e le risorse rimangono sempre le stesse, nel caso 1.3 invece cambia il prodotto» ([00:02:39]–[00:02:55]). ⚠️ L'ordine dei casi (risorse, mercato, prodotto) non è quello delle direzioni della slide 2 (mercati, prodotti, risorse).
+**Opzione:** Caso 1.1: sistema delle risorse; caso 1.2: mercato e segmenti di mercato; caso 1.3: prodotto-servizio.
+**Distrattori:**
+- Caso 1.1: mercato e segmenti di mercato; caso 1.2: sistema delle risorse; caso 1.3: prodotto-servizio.
+- Caso 1.1: sistema delle risorse; caso 1.2: prodotto-servizio; caso 1.3: mercato e segmenti di mercato.
+- Caso 1.1: prodotto-servizio; caso 1.2: mercato e segmenti di mercato; caso 1.3: sistema delle risorse.
+
+**D:** ⚠️ Quali componenti si diversificano e quale resta stabile in ciascuno dei tre casi di intensità maggiore, secondo le slide 3 e 7–9 della lezione 15?
+**R:** Nello schema della slide 3 (mercato / prodotto / risorse) i casi sono **2.1 S D D**, **2.2 D S D** e **2.3 D D S**. Le slide 7–9 li intitolano «Caso 2.1. **Diversificazione congiunta del prodotto-servizio e sistema di risorse**», «Caso 2.2. **Diversificazione congiunta del mercato e del sistema di risorse**», «Caso 2.3. **Diversificazione congiunta del mercato e del prodotto-servizio**». La docente: «2.1 cambiano prodotto e risorse, il mercato rimane stabile, caso 2.2 Il prodotto rimane lo stesso ma andiamo a modificare il mercato e le risorse»; nel 2.3 «cambia il mercato e il prodotto ma le risorse [...] rimangono sempre le stesse» ([00:02:55]–[00:03:39]). ⚠️ In ogni caso 2.x la variabile stabile è quella che **non** compare nel titolo.
+**Opzione:** Caso 2.1: prodotto-servizio e sistema di risorse, stabile il mercato; caso 2.2: mercato e sistema di risorse, stabile il prodotto; caso 2.3: mercato e prodotto-servizio, stabili le risorse.
+**Distrattori:**
+- Caso 2.1: prodotto-servizio e sistema di risorse, stabile il mercato; caso 2.2: mercato e prodotto-servizio, stabili le risorse; caso 2.3: mercato e sistema di risorse, stabile il prodotto.
+- Fra le minacce, l'ASA permeabile e contendibile (minori barriere all'entrata); fra le opportunità, le nuove ASA con barriere all'entrata rispetto a potenziali entranti.
+- Processo distributivo: dal sistema di una rete di filiali a un sistema di Internet banking; processo produttivo: la sostituzione della valutazione tradizionale manuale del merito di credito alla tecnologia innovativa del credit scoring.
+
+**D:** ⚠️ Che cosa può riguardare la diversificazione del sistema delle risorse (caso 1.1), secondo la slide 4 della lezione 15?
+**R:** «Caso 1.1. Diversificazione del sistema delle risorse • Diversificazione del **processo distributivo** (es. dal sistema di una rete di filiali a un sistema di *Internet banking*) • Diversificazione del **processo produttivo** (es. la sostituzione della valutazione tradizionale "manuale" del merito di credito alla tecnologia innovativa del *credit scoring*)» (slide 4, con «processo distributivo» sottolineato). La docente: «possiamo diversificare o il processo distributivo o il processo produttivo» ([00:03:59]). Mercato e prodotto restano gli stessi: il cliente e il finanziamento non cambiano, cambia «il processo organizzativo» ([00:06:21]–[00:07:09]). ⚠️ L'espansione territoriale e la selezione della clientela non ancora servita sono del caso 1.2 (il mercato), lo sviluppo di un prodotto innovativo del caso 1.3.
+**Opzione:** Diversificazione del processo distributivo; diversificazione del processo produttivo.
+**Distrattori:**
+- Diversificazione del processo distributivo; espansione territoriale (anche internazionale).
+- Effetti di economie di costo (scala e scopo) sui fattori produttivi comuni.
+- Da una selezione favorevole delle opportunità insieme alla valorizzazione dei fattori di forza.
+
+**D:** ⚠️ Quali esempi dà la slide 4 della lezione 15 per la diversificazione del processo distributivo e per quella del processo produttivo?
+**R:** «Diversificazione del processo distributivo (es. **dal sistema di una rete di filiali a un sistema di *Internet banking***) • Diversificazione del processo produttivo (es. **la sostituzione della valutazione tradizionale "manuale" del merito di credito alla tecnologia innovativa del *credit scoring***)» (slide 4). La docente: i clienti e i servizi restano gli stessi, ma le risorse umane della filiale si sostituiscono «con la tecnologia, con dei software» ([00:04:20]–[00:05:12]); il merito di credito, che prima valutavano «le persone manualmente», si valuta con il *credit scoring* ([00:05:12]–[00:06:21]). ⚠️ Il passaggio va **dalla** rete di filiali **all'**Internet banking, e il *credit scoring* sostituisce la valutazione manuale.
+**Opzione:** Processo distributivo: dal sistema di una rete di filiali a un sistema di Internet banking; processo produttivo: la sostituzione della valutazione tradizionale manuale del merito di credito alla tecnologia innovativa del credit scoring.
+**Distrattori:**
+- Processo distributivo: dal sistema di Internet banking a un sistema di una rete di filiali; processo produttivo: la sostituzione della valutazione tradizionale manuale del merito di credito alla tecnologia innovativa del credit scoring.
+- Ci sono altri luoghi o spazi strategici, nuove ASA hanno caratteri di: accessibilità, convenienza rendimento/rischio, barriere all'entrata rispetto a potenziali entranti, favorevole confronto competitivo (concorrenti deboli); attrazione a entrare.
+- Massimo ampliamento del quadrante 4 (opportunità esterne e fattori interni di forza); riduzione della sfavorevole combinazione delle minacce con i punti di debolezza (quadrante 1).
+
+**D:** Che cos'è il credit scoring, secondo la nota della slide 4 della lezione 15?
+**R:** «Il *credit scoring* è il **sistema automatizzato per valutare le richieste di finanziamento della clientela**. Esso si basa su sistemi automatizzati che prevedono l'applicazione di **metodi o modelli statistici** per valutare il **rischio creditizio**, e i cui risultati sono espressi in forma di **giudizi sintetici, indicatori numerici o punteggi**, associati all'interessato, diretti a fornire una rappresentazione, in termini **predittivi o probabilistici**, del suo profilo di rischio, affidabilità o puntualità nei pagamenti» (slide 4, nota a piè di pagina, che comincia «*l credit scoring»). La docente: si basa «sui sistemi automatizzati informativi, Information Communication Technologies», con «metodi e modelli statistici» ([00:05:36]–[00:06:02]). ⚠️ Il rischio valutato è quello **creditizio**: il rischio di cambio e di interesse è l'oggetto del *risk management* del caso 2.3.
+**Opzione:** Il sistema automatizzato per valutare le richieste di finanziamento della clientela: si basa su sistemi automatizzati che prevedono l'applicazione di metodi o modelli statistici per valutare il rischio creditizio.
+**Distrattori:**
+- Il sistema automatizzato per valutare le richieste di finanziamento della clientela: si basa su sistemi automatizzati che prevedono l'applicazione di metodi o modelli statistici per valutare il rischio di cambio e di interesse.
+- Un'impresa che opera contemporaneamente in diverse ASA fra loro correlate.
+- L'economia di scopo, cioè l'utilizzo delle stesse risorse per la produzione di diversi output.
+
+**D:** ⚠️ Che cosa può riguardare la diversificazione del sistema delle risorse di intensità minore, secondo il test della lezione 15 (domanda 2)?
+**R:** «**Diversificazione del processo distributivo**». È la prima voce del caso 1.1 (slide 4): «Diversificazione del processo distributivo (es. dal sistema di una rete di filiali a un sistema di *Internet banking*)», sottolineata nella slide. La docente: «possiamo diversificare o il processo distributivo o il processo produttivo» ([00:03:59]–[00:04:06]). ⚠️ Le domande 2, 3 e 4 hanno lo **stesso pool** e le chiavi incrociate. «Espansione terriotoriale» (così la piattaforma) e «selezione della clientela non ancora servita» sono del caso 1.2, il mercato (slide 5); «sviluppo di un prodotto innovativo» è del caso 1.3 (slide 6). La seconda voce del caso 1.1, il processo **produttivo**, qui manca, perché sarebbe una seconda risposta giusta: nella domanda 4 diventa un distrattore.
+**Opzione:** Diversificazione del processo distributivo.
+**Distrattori:**
+- Espansione terriotoriale.
+- Selezione della clientela non ancora servita.
+- Sviluppo di un prodotto innovativo.
+
+**D:** ⚠️ Come diversifica i mercati la banca nel caso 1.2 (diversificazione del mercato e dei segmenti di mercato), secondo la slide 5 della lezione 15?
+**R:** «Caso 1.2. Diversificazione del mercato e dei segmenti di mercato. **Utilizzando prodotti e risorse possedute**, la banca diversifica i mercati: • **Espansione territoriale (anche internazionale)** • **Ri-segmentazione dei mercati geografici e la selezione di clientela non ancora serviti** (es. giovani, immigrati ecc.)» (slide 5, «serviti» così). La docente: una banca legata a una regione può erogare il servizio in altre regioni italiane o all'estero, «è il caso di Unicredit» ([00:07:29]–[00:08:11]). Oppure, restando nella stessa area geografica, può rivolgersi con lo stesso prodotto a segmenti diversi: prima alle persone «di età media, 30+», poi a giovani e immigrati ([00:08:11]–[00:09:11]). ⚠️ Prodotti e risorse restano quelli **posseduti**: con nuove tecnologie si passerebbe al caso 2.2.
+**Opzione:** Utilizzando prodotti e risorse possedute: espansione territoriale (anche internazionale); ri-segmentazione dei mercati geografici e la selezione di clientela non ancora servita (es. giovani, immigrati ecc.).
+**Distrattori:**
+- Utilizzando prodotti posseduti e nuove tecnologie (risorse): espansione territoriale (anche internazionale); ri-segmentazione dei mercati geografici e la selezione di clientela non ancora servita (es. giovani, immigrati ecc.).
+- Caso 2.1: prodotto-servizio e sistema di risorse, stabile il mercato; caso 2.2: mercato e sistema di risorse, stabile il prodotto; caso 2.3: mercato e prodotto-servizio, stabili le risorse.
+- Il sistema automatizzato per valutare le richieste di finanziamento della clientela: si basa su sistemi automatizzati che prevedono l'applicazione di metodi o modelli statistici per valutare il rischio creditizio.
+
+**D:** ⚠️ A quale caso di diversificazione appartiene la voce «ri-segmentazione dei mercati geografici e la selezione di clientela non ancora serviti», secondo le slide della lezione 15?
+**R:** Al **caso 1.2, diversificazione del mercato e dei segmenti di mercato** (slide 5): «Utilizzando prodotti e risorse possedute, la banca diversifica i mercati: • Espansione territoriale (anche internazionale) • Ri-segmentazione dei mercati geografici e la selezione di clientela non ancora serviti (es. giovani, immigrati ecc.)». ⚠️ Si spiega così perché la domanda 4 del test, sul mercato a intensità minore, toglie la «selezione della clientela non ancora servita» dalle opzioni e mette al suo posto la «diversificazione del processo produttivo»: avrebbe avuto due risposte giuste. Nelle domande 2 e 3 è un distrattore. ⚠️ Anche il caso 2.3 si rivolge a clienti nuovi, «segmenti di imprese precedentemente non serviti» (slide 9), ma con un nuovo servizio: lì cambiano **due** componenti, e la voce della slide 5 non c'è.
+**Opzione:** Al caso 1.2, diversificazione del mercato e dei segmenti di mercato.
+**Distrattori:**
+- Al caso 2.3, diversificazione congiunta del mercato e del prodotto-servizio.
+- Al caso 1.1, diversificazione del sistema delle risorse.
+- Al caso 1.3, diversificazione del prodotto-servizio.
+
+**D:** ⚠️ Che cosa può riguardare la diversificazione del mercato di intensità minore, secondo il test della lezione 15 (domanda 4)?
+**R:** «**Espansione terriotoriale**» (così la piattaforma, per «territoriale»). È la prima voce del caso 1.2 (slide 5): «Utilizzando prodotti e risorse possedute, la banca diversifica i mercati: • Espansione territoriale (anche internazionale)». La docente: erogare il servizio «in altre regioni italiane o addirittura in altri paesi europei e non o extraeuropei, è il caso di Unicredit» ([00:07:29]–[00:08:11]). ⚠️ È lo specchio delle domande 2 e 3, con lo stesso pool salvo un'opzione. «Diversificazione del processo distributivo» e «diversificazione del processo produttivo» sono le due voci del caso 1.1 (slide 4); «sviluppo di un prodotto innovativo» è del caso 1.3 (slide 6). Rispetto alle domande 2 e 3 manca la «selezione della clientela non ancora servita»: è la seconda voce del caso 1.2, e sarebbe stata una seconda risposta giusta.
+**Opzione:** Espansione terriotoriale.
+**Distrattori:**
+- Diversificazione del processo distributivo.
+- Diversificazione del processo produttivo.
+- Sviluppo di un prodotto innovativo.
+
+**D:** ⚠️ Che cosa caratterizza la diversificazione del prodotto-servizio (caso 1.3), e con quale esempio, secondo la slide 6 della lezione 15?
+**R:** «Caso 1.3. Diversificazione del prodotto-servizio • **Clientela già servita e tecnologie (risorse) già possedute** • **Sviluppo di un prodotto innovativo** (es. micro-prestito ai clienti che hanno il contro corrente presso la banca da più di 5 anni)» (slide 6, «contro corrente» così). La docente: le tecnologie e le risorse già possedute si riallocano e si usano «in maniera differente per produrre un altro prodotto o servizio» ([00:09:37]); accanto al conto corrente si propone agli stessi clienti, con le stesse risorse, il micro-prestito «o anche servizi assicurativi», ampliando la gamma ([00:10:02]–[00:10:29]). ⚠️ Le tecnologie sono **già possedute**: con nuove tecnologie e nuovi prodotti per la stessa clientela si passerebbe al caso 2.1.
+**Opzione:** Clientela già servita e tecnologie (risorse) già possedute; sviluppo di un prodotto innovativo (es. micro-prestito ai clienti che hanno il conto corrente presso la banca da più di 5 anni).
+**Distrattori:**
+- Clientela già servita e nuove tecnologie (risorse); sviluppo di un prodotto innovativo (es. micro-prestito ai clienti che hanno il conto corrente presso la banca da più di 5 anni).
+- Azionisti poco collaborativi; problemi culturali, organizzativi, manageriali; peso di eventuali sunk cost (costi non recuperabili); mancanza di vantaggi competitivi specifici.
+- Il sistema automatizzato per valutare le richieste di finanziamento della clientela: si basa su sistemi automatizzati che prevedono l'applicazione di metodi o modelli statistici per valutare il rischio creditizio.
+
+**D:** ⚠️ Che cosa può riguardare la diversificazione del prodotto/servizio di intensità minore, secondo il test della lezione 15 (domanda 3)?
+**R:** «**Sviluppo di un prodotto innovativo**». È la seconda voce del caso 1.3 (slide 6): «Sviluppo di un prodotto innovativo (es. micro-prestito ai clienti che hanno il contro corrente presso la banca da più di 5 anni)». La docente: «sviluppo di un prodotto innovativo, per esempio micro prestito ai clienti che hanno il conto corrente presso la banca da più di 5 anni» ([00:09:52]). ⚠️ Stesso pool della domanda 2, con la chiave spostata. «Diversificazione del processo distributivo» è del caso 1.1 (slide 4), «espansione terriotoriale» (così la piattaforma) e «selezione della clientela non ancora servita» del caso 1.2 (slide 5). La piattaforma scrive «del sistema del prodotto/servizio e di intensità minore»; la slide dice «Diversificazione del prodotto-servizio».
+**Opzione:** Sviluppo di un prodotto innovativo.
+**Distrattori:**
+- Diversificazione del processo distributivo.
+- Espansione terriotoriale.
+- Selezione della clientela non ancora servita.
+
+**D:** ⚠️ Quali sono clientela, nuovi prodotti e combinazioni produttive dell'esempio 1 della diversificazione congiunta del prodotto-servizio e sistema di risorse (caso 2.1), secondo la slide 7 della lezione 15?
+**R:** «Esempio 1 1. **La clientela già servita: es. *corporate*** 2. **Nuovi prodotti**: es. consulenza per acquisizione o fusioni, assistenza per l'accesso ai mercati dei capitali 3. **Combinazioni produttive nuove o parzialmente nuove**: es. sistema informatico, competenze professionali, know-how ecc.» (slide 7). La docente: «l'unica variabile stabile rimane il mercato, la clientela», la stessa clientela corporate a cui si propongono i nuovi prodotti; con le risorse nuove (sistemi informatici, nuove competenze professionali, know-how) si sviluppano i prodotti e i servizi nuovi, e così «cambiano due variabili su tre» ([00:11:04]–[00:11:45]). ⚠️ La clientela è **già servita**: con clienti nuovi cambierebbero tutte e tre le componenti.
+**Opzione:** La clientela già servita: es. corporate; nuovi prodotti: es. consulenza per acquisizione o fusioni, assistenza per l'accesso ai mercati dei capitali; combinazioni produttive nuove o parzialmente nuove: es. sistema informatico, competenze professionali, know-how ecc.
+**Distrattori:**
+- Clientela non ancora servita: es. corporate; nuovi prodotti: es. consulenza per acquisizione o fusioni, assistenza per l'accesso ai mercati dei capitali; combinazioni produttive nuove o parzialmente nuove: es. sistema informatico, competenze professionali, know-how ecc.
+- Ci sono altri luoghi o spazi strategici, nuove ASA hanno caratteri di: accessibilità, convenienza rendimento/rischio, barriere all'entrata rispetto a potenziali entranti, favorevole confronto competitivo (concorrenti deboli); attrazione a entrare.
+- Utilizzo delle competenze e processi già posseduti; nuovo servizio: es. risk management (nuovi strumenti avanzati di copertura del rischio di cambio e di interesse); nuovi mercati: l'offerta rivolta a segmenti di imprese precedentemente non serviti.
+
+**D:** ⚠️ Quali sono clientela, nuovi prodotti e combinazioni produttive dell'esempio 2 della diversificazione congiunta del prodotto-servizio e sistema di risorse (caso 2.1), secondo la slide 7 della lezione 15?
+**R:** «Esempio 2 1. **La clientela già servita: *private*** 2. **Nuovi prodotti: assicurativi** 3. **Nuove combinazioni produttive: gestione dei processi e tecnologie per l'attività assicurativa**» (slide 7). La docente: prima la banca non aveva bisogno di questi processi e tecnologie, «perché non andava ad offrire i prodotti che avevano a che fare con le assicurazioni»; per ampliare l'offerta agli stessi clienti private deve «sviluppare o acquisire» i nuovi processi e tecnologie ([00:11:45]–[00:12:37]). ⚠️ Nell'esempio 1 la clientela è *corporate*, qui *private*. Nel caso 1.3 la docente cita invece i «servizi assicurativi» fra i prodotti offerti agli stessi clienti con le stesse risorse ([00:10:02]): vedi le discrepanze della nota.
+**Opzione:** La clientela già servita: private; nuovi prodotti: assicurativi; nuove combinazioni produttive: gestione dei processi e tecnologie per l'attività assicurativa.
+**Distrattori:**
+- La clientela già servita: corporate; nuovi prodotti: assicurativi; nuove combinazioni produttive: gestione dei processi e tecnologie per l'attività assicurativa.
+- Multi-tecnologia: modifica la tecnologia di trasformazione, cioè le risorse; multi-settore: opera anche in altri settori, magari affini (es. assicurativo, commerciale).
+- Solo in parte: conta anche la capacità dell'intermediario di reagirvi e di coglierle.
+
+**D:** ⚠️ Che cosa caratterizza la diversificazione congiunta del mercato e del sistema di risorse (caso 2.2), secondo la slide 8 della lezione 15?
+**R:** «Caso 2.2. Diversificazione congiunta del mercato e del sistema di risorse • **Il portafoglio di offerta rimane invariato** (la gamma dei prodotti e servizi) • **L'estensione dell'area "fisicamente" servita** (nuovo mercato di riferimento) • **Applicazione delle nuove tecnologie (risorse): *Internet banking***» (slide 8). La docente: una banca di Palermo che prima serviva soltanto la clientela siciliana, con l'Internet banking può rivolgersi anche alla clientela di altre regioni italiane, perché i clienti non devono più recarsi allo sportello ([00:13:06]–[00:14:01]). Il prodotto (conto corrente, mutuo, prestito, servizio assicurativo) «rimane sempre lo stesso» ([00:14:10]). ⚠️ La variabile stabile è il **prodotto**: il portafoglio di offerta rimane **invariato**.
+**Opzione:** Il portafoglio di offerta rimane invariato (la gamma dei prodotti e servizi); l'estensione dell'area fisicamente servita (nuovo mercato di riferimento); applicazione delle nuove tecnologie (risorse): Internet banking.
+**Distrattori:**
+- Il portafoglio di offerta si amplia (la gamma dei prodotti e servizi); l'estensione dell'area fisicamente servita (nuovo mercato di riferimento); applicazione delle nuove tecnologie (risorse): Internet banking.
+- Ancora prima di capire qual è la direzione e qual è l'intensità della diversificazione.
+- Solo in parte: conta anche la capacità dell'intermediario di reagirvi e di coglierle.
+
+**D:** Internet banking compare in due casi di diversificazione della lezione 15: quali, e che cosa li distingue?
+**R:** Nel **caso 1.1** (slide 4) il passaggio «dal sistema di una rete di filiali a un sistema di *Internet banking*» diversifica solo il **processo distributivo**: i clienti e i servizi restano gli stessi, cambiano le risorse, con le risorse umane della filiale sostituite «con la tecnologia, con dei software» ([00:04:20]–[00:05:05]). Nel **caso 2.2** (slide 8) l'«Applicazione delle nuove tecnologie (risorse): *Internet banking*» va insieme all'«estensione dell'area "fisicamente" servita (nuovo mercato di riferimento)»: la banca di Palermo raggiunge clienti di altre regioni ([00:13:24]). ⚠️ La tecnologia è la stessa; a decidere il caso è se cambia **anche il mercato**. Nella lezione 13 gli strumenti di pagamento digitali, con prodotto e cliente invariati e risorse diverse, erano l'esempio di **sostituzione** (slide 11 di quel deck).
+
+**D:** ⚠️ Che cosa caratterizza la diversificazione congiunta del mercato e del prodotto-servizio (caso 2.3), secondo la slide 9 della lezione 15?
+**R:** «Caso 2.3. Diversificazione congiunta del mercato e del prodotto-servizio • **Utilizzo delle competenze e processi già posseduti** • **Nuovi servizio: es. *risk management*** (nuovi strumenti avanzati di copertura del rischio di cambio e di interesse) • **Nuovi mercati: l'offerta rivolta a segmenti di imprese precedentemente non serviti**» (slide 9, «Nuovi servizio» così). La docente: «l'unica variabile stabile sono le risorse e le tecnologie», e le competenze già possedute si usano «attraverso sempre gli stessi processi produttivi»; il nuovo servizio di *risk management* va a segmenti di imprese «magari a dimensione più grande, che prima non erano i clienti della nostra banca»: «un nuovo prodotto per un nuovo cliente» ([00:14:23]–[00:15:41]). ⚠️ Restano invariate le **risorse**, cioè competenze e processi.
+**Opzione:** Utilizzo delle competenze e processi già posseduti; nuovo servizio: es. risk management (nuovi strumenti avanzati di copertura del rischio di cambio e di interesse); nuovi mercati: l'offerta rivolta a segmenti di imprese precedentemente non serviti.
+**Distrattori:**
+- Acquisizione di competenze e processi nuovi; nuovo servizio: es. risk management (nuovi strumenti avanzati di copertura del rischio di cambio e di interesse); nuovi mercati: l'offerta rivolta a segmenti di imprese precedentemente non serviti.
+- Ancora prima di capire qual è la direzione e qual è l'intensità della diversificazione.
+- Da una selezione favorevole delle opportunità insieme alla valorizzazione dei fattori di forza.
+
+**D:** ⚠️ Quali sono i tre assi della figura sulla tridimensionalità della diversificazione, secondo la slide 10 della lezione 15?
+**R:** La slide 10, «La tridimensionalità della diversificazione», è la fotografia di una figura del libro: un parallelepipedo con tre assi, **Risorse** (in verticale), **Prodotto** (verso destra) e **Mercato** (in diagonale, verso chi guarda). Lungo ogni asse le facce sono divise in tratti **S** e **D**, e un cubo tratteggiato al centro ha una freccia per asse. La docente: è «l'immagine che rappresenta la tridimensionalità della diversificazione», che «si può verificare attraverso tre elementi, tre variabili, quindi risorse, mercato o prodotto» ([00:15:41]–[00:15:59]). ⚠️ Non sono le **3 dimensioni** della lezione 13 (direzione, estensione, intensità): gli assi della figura sono le tre **direzioni** della slide 2.
+**Opzione:** Risorse, prodotto, mercato.
+**Distrattori:**
+- Risorse, prodotto, settore.
+- Direzione, intensità, estensione.
+
+**D:** ⚠️ Come sono, secondo la docente, le situazioni in cui si diversificano le ASA in base a tutte e tre le variabili, e perché (lezione 15)?
+**R:** Spesso si diversifica «soltanto una variabile», ci sono anche situazioni in cui se ne modificano due; quelle in cui si diversifica «in base a tutti i tre variabili sono insomma le situazioni **abbastanza rare**», perché c'è «il **rischio molto più elevato** rispetto alle situazioni di cui abbiamo parlato precedentemente» ([00:15:59]–[00:16:33]). Sta solo nel transcript: lo schema della slide 3 non ha nessun caso con tre D. ⚠️ Nella lezione 13 anche la diversificazione **totale**, in cui le ASA non condividono nessuna componente, è «praticamente inesistente» per gli intermediari.
+**Opzione:** Abbastanza rare, perché c'è il rischio molto più elevato.
+**Distrattori:**
+- Le più frequenti, perché c'è il rischio molto più elevato.
+- Le più frequenti, perché c'è il rischio molto più contenuto.
+- Abbastanza rare, perché c'è il rischio molto più contenuto.
+
+**D:** ⚠️ Come si configura l'intermediario finanziario attraverso la diversificazione, secondo la slide 11 della lezione 15?
+**R:** «L'intermediario finanziario, attraverso la diversificazione, si configura come: • Un'impresa **multi-prodotto** • Un'impresa **multi-mercato** • Un'impresa **multi-tecnologia** • Un'impresa **multi-settore**» (slide 11). La docente dice che «può configurarsi» ([00:16:33]). Le prime tre configurazioni corrispondono alle tre direzioni: per la docente l'impresa multi-tecnologia diversifica le risorse, cioè la tecnologia di trasformazione ([00:16:51]–[00:17:37]). La quarta va oltre: l'impresa multi-settore opera in altri settori ([00:17:37]–[00:19:05]). ⚠️ L'elenco chiude con **multi-settore**. Il modello **multidivisionale** della lezione 13 è un modello organizzativo, non una configurazione della slide 11.
+**Opzione:** Un'impresa multi-prodotto; un'impresa multi-mercato; un'impresa multi-tecnologia; un'impresa multi-settore.
+**Distrattori:**
+- Un'impresa multi-prodotto; un'impresa multi-mercato; un'impresa multi-tecnologia; un'impresa multidivisionale.
+- Diversificazione del processo distributivo; diversificazione del processo produttivo.
+- Caso 1.1: sistema delle risorse; caso 1.2: mercato e segmenti di mercato; caso 1.3: prodotto-servizio.
+
+**D:** ⚠️ Che cosa diversifica l'impresa multi-tecnologia e che cosa fa l'impresa multi-settore, secondo la docente nella lezione 15?
+**R:** L'impresa **multi-tecnologia** diversifica le **risorse**: «andiamo a modificare e cambiare la tecnologia di trasformazione», dalla tecnologia tradizionale (sportelli, filiali) a quella innovativa (*information communication technologies*, applicazioni mobile, internet, home banking), che si possono anche abbinare ([00:16:51]–[00:17:37]). L'impresa **multi-settore** modifica «non soltanto il prodotto trovandosi sempre all'interno della stessa area bancaria» ma va «ad operare in altri settori magari affini», come quello assicurativo, o nel settore commerciale: banche che commercializzano prodotti con il proprio marchio o collaborano con supermercati e negozi per la consegna a casa ([00:17:37]–[00:19:05]). ⚠️ L'impresa multi-tecnologia resta nell'area bancaria e cambia le risorse; quella multi-settore esce dal settore.
+**Opzione:** Multi-tecnologia: modifica la tecnologia di trasformazione, cioè le risorse; multi-settore: opera anche in altri settori, magari affini (es. assicurativo, commerciale).
+**Distrattori:**
+- Multi-tecnologia: opera anche in altri settori, magari affini (es. assicurativo, commerciale); multi-settore: modifica la tecnologia di trasformazione, cioè le risorse.
+- La clientela già servita: private; nuovi prodotti: assicurativi; nuove combinazioni produttive: gestione dei processi e tecnologie per l'attività assicurativa.
+- Intensità minore: 1 componente di diversificazione e 2 variabili stabili; intensità maggiore: 2 componenti di diversificazione e 1 variabile stabile.
+
+**D:** ⚠️ Che cos'è un'impresa multi-specialist o multi-business, secondo la slide 11 della lezione 15?
+**R:** «*Multi-specialist o multi-business*: un'impresa che opera **contemporaneamente** in diverse ASA **fra loro correlate**» (slide 11). La docente: sono correlate «in qualche modo» perché il vantaggio competitivo «diventa anche l'economia di scopo, quindi l'economia di costo, la riduzione dei costi», che permette di posizionarsi con la cost leadership o con strategie di posizionamento e di segmentazione basate sulla qualità ([00:19:05]–[00:19:46]). ⚠️ Le ASA sono **correlate**, non indipendenti: ASA senza nulla in comune darebbero la diversificazione totale della lezione 13.
+**Opzione:** Un'impresa che opera contemporaneamente in diverse ASA fra loro correlate.
+**Distrattori:**
+- Un'impresa che opera contemporaneamente in diverse ASA fra loro indipendenti.
+- Un'impresa che opera in successione in diverse ASA fra loro correlate.
+- Nuovi mercati; nuovi prodotti; nuove risorse.
+
+**D:** ⚠️ Qual è il modello di analisi delle situazioni che possono orientare le scelte di diversificazione, secondo il test della lezione 15 (domanda 5)?
+**R:** «**SWOT**». La slide 12: «Le situazioni che orientano le scelte di diversificazione: *SWOT-analysis (Strengths and Weaknesses - Opportunities and Threas)*» («Threas» così). La docente: «una delle tipologie di analisi importante anche per la diversificazione è la SWOT analysis» ([00:20:28]); va fatta «ancora prima di capire qual è la direzione qual è l'intensità di diversificazione» ([00:27:26]). Distrattori del test: «Modello di BCG», «Modello 5 forze di Porter», «Modello di Ansoff». ⚠️ Il modello delle **5 forze di Porter** è della **lezione 07**, dove serve ad analizzare l'ambiente competitivo (chiave della domanda 2 di quel test). BCG e Ansoff non compaiono nello strato di testo dei 30 deck né nei 20 transcript disponibili: sono matrici del corso di *Management e finance*. La SWOT era già distrattore nelle domande 5 dei test 04 e 05.
+**Opzione:** SWOT.
+**Distrattori:**
+- Modello di BCG.
+- Modello 5 forze di Porter.
+- Modello di Ansoff.
+
+**D:** ⚠️ Che cosa sono, nella SWOT-analysis, le condizioni esterne e le condizioni interne, secondo la slide 12 della lezione 15?
+**R:** «• Le **condizioni esterne** che **inducono** le scelte di diversificare le attività (**le minacce e le opportunità** che l'ambiente e il mercato propongono all'intermediario) • Le **condizioni interne** che **frenano o spingono** di fare determinate scelte (**fattori di debolezza e di forza** dell'ambiente interno)» (slide 12). La docente: le condizioni interne «possono frenare o al contrario spingere» le scelte di diversificazione, e sono i fattori di forza, *strengths*, e di debolezza, *weaknesses* ([00:20:48]–[00:21:24]). ⚠️ Minacce e opportunità sono **esterne** (*threats*, *opportunities*); debolezza e forza sono **interne** (*weaknesses*, *strengths*).
+**Opzione:** Le condizioni esterne inducono le scelte di diversificare le attività (le minacce e le opportunità che l'ambiente e il mercato propongono all'intermediario); le condizioni interne frenano o spingono di fare determinate scelte (fattori di debolezza e di forza dell'ambiente interno).
+**Distrattori:**
+- Le condizioni esterne inducono le scelte di diversificare le attività (i fattori di debolezza e di forza che l'ambiente e il mercato propongono all'intermediario); le condizioni interne frenano o spingono di fare determinate scelte (le minacce e le opportunità dell'ambiente interno).
+- Situazioni di diversificazione debole/correlazione forte (intensità minore); situazioni di diversificazione forte e di correlazione debole (intensità maggiore).
+- Multi-tecnologia: modifica la tecnologia di trasformazione, cioè le risorse; multi-settore: opera anche in altri settori, magari affini (es. assicurativo, commerciale).
+
+**D:** ⚠️ Quando va fatta la SWOT-analysis rispetto alla scelta della direzione e dell'intensità della diversificazione, secondo la docente nella lezione 15?
+**R:** «La cosa importante necessaria **ancora prima** di capire qual è la direzione qual è l'intensità di diversificazione è sicuramente analisi di questo tipo quindi la SWOT che permette di capire le minacce e le opportunità dell'ambiente esterno e i fattori di debolezza e di forza posseduti dall'organizzazione» ([00:27:26]–[00:28:09]). In apertura la docente lega l'analisi all'approccio *data driven*: la gestione di qualsiasi azienda «è basata necessariamente sui dati» ([00:19:46]–[00:20:28]). La slide 12 dice soltanto che la SWOT riguarda «Le situazioni che orientano le scelte di diversificazione». ⚠️ La SWOT viene **prima** della scelta di direzione e intensità, non dopo.
+**Opzione:** Ancora prima di capire qual è la direzione e qual è l'intensità della diversificazione.
+**Distrattori:**
+- Dopo aver scelto la direzione e l'intensità della diversificazione.
+- Dopo aver scelto la direzione, prima di decidere l'intensità della diversificazione.
+
+**D:** ⚠️ Minacce e opportunità sono oggettive, secondo la slide 13 della lezione 15?
+**R:** «• Minacce e opportunità sono **oggettive solo in parte** • **Capacità dell'intermediario di reagirvi e di coglierle**» (slide 13). La docente: «sono oggettive solo in parte, perché poi dipendono anche dalla capacità dell'intermediario di reagire a queste minacce opportunità e di cogliere le occasioni importanti per sviluppare la propria attività» ([00:21:57]–[00:22:19]). Anche i confini dei quadranti della matrice «non sono ben definiti» e possono spostarsi «in base alla valutazione, in base alla situazione, in base al contesto» ([00:21:38]). ⚠️ «**Solo in parte**», non del tutto; e la capacità è quella **dell'intermediario**.
+**Opzione:** Solo in parte: conta anche la capacità dell'intermediario di reagirvi e di coglierle.
+**Distrattori:**
+- Sì, del tutto: non dipendono dalla capacità dell'intermediario di reagirvi e di coglierle.
+- Solo in parte: conta anche la capacità dei concorrenti di reagirvi e di coglierle.
+- Abbastanza rare, perché c'è il rischio molto più elevato.
+
+**D:** ⚠️ Da che cosa è guidata la scelta di diversificazione, secondo la slide 13 della lezione 15?
+**R:** «Scelta di diversificazione è guidata da una **selezione favorevole delle opportunità** insieme alla **valorizzazione dei fattori di forza**» (slide 13). La docente lo ripete quasi alla lettera: «La scelta di diversificazione è guidata sicuramente da una selezione favorevole delle opportunità insieme alla valorizzazione dei fattori di forza» ([00:22:19]). ⚠️ Si selezionano le **opportunità** (esterne) e si valorizzano i fattori di **forza** (interni): è il quadrante 4. I punti di debolezza entrano solo nella combinazione sfavorevole con le minacce, da ridurre.
+**Opzione:** Da una selezione favorevole delle opportunità insieme alla valorizzazione dei fattori di forza.
+**Distrattori:**
+- Da una selezione favorevole delle opportunità insieme alla riduzione dei fattori di debolezza.
+- Un'impresa che opera contemporaneamente in diverse ASA fra loro correlate.
+- Nuovi mercati; nuovi prodotti; nuove risorse.
+
+**D:** ⚠️ Quale quadrante della matrice SWOT va ampliato al massimo e quale combinazione va ridotta, secondo la slide 13 della lezione 15?
+**R:** La matrice della slide 13 (fotografia del libro) incrocia **Fattori di debolezza / Fattori di forza** (colonne) con **Minacce / Opportunità** (righe): quadrante **1** debolezza × minacce, **2** forza × minacce, **3** debolezza × opportunità, **4** forza × opportunità. Il testo accanto: «• Riduzione della sfavorevole combinazione delle minacce con i punti di debolezza • **Massimo ampliamento del quadrante 4: opportunità esterne e fattori interni di forza**». La docente: ogni organizzazione deve «aumentare la dimensione di questo quadrante numero 4» e cercare di ridurre «questo quadrante numero uno che corrisponde alle minacce e ai fattori di debolezza interni» ([00:22:31]–[00:23:28]). ⚠️ Si amplia il **4**, si riduce l'**1**.
+**Opzione:** Massimo ampliamento del quadrante 4 (opportunità esterne e fattori interni di forza); riduzione della sfavorevole combinazione delle minacce con i punti di debolezza (quadrante 1).
+**Distrattori:**
+- Massimo ampliamento del quadrante 1 (opportunità esterne e fattori interni di forza); riduzione della sfavorevole combinazione delle minacce con i punti di debolezza (quadrante 4).
+- Situazioni di diversificazione debole/correlazione forte (intensità minore); situazioni di diversificazione forte e di correlazione debole (intensità maggiore).
+- Diversificazione del processo distributivo; diversificazione del processo produttivo.
+
+**D:** ⚠️ Quali sono le minacce fra le condizioni esterne della tabella della slide 14 della lezione 15?
+**R:** «Minacce: ASA è **matura** aumenta la concorrenza (ogni concorrente ha uno spazio in riduzione / ASA è **permeabile e contendibile** (minori barriere all'entrata): aumenta la concorrenza esterna / Possibilità di qualche "**salto tecnologico**" / **Pressione a difendere e/o uscire dal mercato**» (slide 14; la prima parentesi non si chiude, l'ultima voce è in grassetto). La docente: nell'ASA matura ogni concorrente ha «uno spazio in riduzione lo spazio competitivo»; nell'ASA permeabile aumentano i concorrenti esterni, «anche non soltanto reali ma potenziali»; il salto tecnologico è «qualche innovazione radicale» che minaccia la sopravvivenza ([00:23:35]–[00:24:27]). ⚠️ L'ultima voce è l'**effetto** delle minacce: la pressione «a difendere la propria posizione sul mercato oppure la costrizione in qualche modo ad uscire dal mercato» ([00:24:27]).
+**Opzione:** ASA è matura: aumenta la concorrenza (ogni concorrente ha uno spazio in riduzione); ASA è permeabile e contendibile (minori barriere all'entrata): aumenta la concorrenza esterna; possibilità di qualche salto tecnologico; pressione a difendere e/o uscire dal mercato.
+**Distrattori:**
+- ASA è matura: aumenta la concorrenza (ogni concorrente ha uno spazio in riduzione); ASA è permeabile e contendibile (minori barriere all'entrata): aumenta la concorrenza esterna; possibilità di qualche salto tecnologico; attrazione a entrare.
+- Un'impresa multi-prodotto; un'impresa multi-mercato; un'impresa multi-tecnologia; un'impresa multi-settore.
+- Caso 1.1: sistema delle risorse; caso 1.2: mercato e segmenti di mercato; caso 1.3: prodotto-servizio.
+
+**D:** ⚠️ Quali sono le opportunità fra le condizioni esterne della tabella della slide 14 della lezione 15?
+**R:** «Opportunità: Ci sono **altri luoghi o spazi strategici**, nuove ASA hanno caratteri di: **Accessibilità, convenziona rendimento/rischio, barriere all'entrata rispetto a potenziali entranti, favorevole confronto competitivo (concorrenti deboli)** / **Attrazione a entrare**» (slide 14, «convenziona» così; l'ultima voce è in grassetto). La docente: nuove aree strategiche d'affari convenienti, con caratteri «di accessibilità, di convenienza, quindi in base al rendimento e rischio», barriere all'entrata e aree in cui i concorrenti «sono pochi o comunque sono deboli»; allora «c'è l'attrazione ad entrare» ([00:24:37]–[00:25:42]). ⚠️ L'ultima voce è l'**attrazione a entrare**; la pressione a difendere e/o uscire dal mercato chiude invece le minacce.
+**Opzione:** Ci sono altri luoghi o spazi strategici, nuove ASA hanno caratteri di: accessibilità, convenienza rendimento/rischio, barriere all'entrata rispetto a potenziali entranti, favorevole confronto competitivo (concorrenti deboli); attrazione a entrare.
+**Distrattori:**
+- Ci sono altri luoghi o spazi strategici, nuove ASA hanno caratteri di: accessibilità, convenienza rendimento/rischio, barriere all'entrata rispetto a potenziali entranti, favorevole confronto competitivo (concorrenti deboli); pressione a difendere e/o uscire dal mercato.
+- Clientela già servita e tecnologie (risorse) già possedute; sviluppo di un prodotto innovativo (es. micro-prestito ai clienti che hanno il conto corrente presso la banca da più di 5 anni).
+- Il portafoglio di offerta rimane invariato (la gamma dei prodotti e servizi); l'estensione dell'area fisicamente servita (nuovo mercato di riferimento); applicazione delle nuove tecnologie (risorse): Internet banking.
+
+**D:** ⚠️ Quali sono i fattori di debolezza fra le condizioni interne della tabella della slide 14 della lezione 15?
+**R:** «Fattori di debolezza: **Azionisti poco collaborativi** / **Problemi culturali, organizzativi, manageriali** / **Peso di eventuali *sunk cost* (costi non recuperabili)** / **Mancanza di vantaggi competitivi specifici**» (slide 14). La docente: i problemi riguardano «anche [...] le competenze, le professionalità» interne; i *sunk cost* «potrebbero diventare il peso per l'organizzazione»; la mancanza di vantaggi competitivi è la «difficoltà di sviluppare magari qualche caratteristica specifica per differenziarsi sul mercato» ([00:25:42]–[00:26:31]). ⚠️ Gli azionisti compaiono in tutte e due le righe interne: **poco collaborativi** fra le debolezze, **collaborativi e allineati con il management** fra i fattori di forza.
+**Opzione:** Azionisti poco collaborativi; problemi culturali, organizzativi, manageriali; peso di eventuali sunk cost (costi non recuperabili); mancanza di vantaggi competitivi specifici.
+**Distrattori:**
+- Azionisti poco collaborativi; problemi culturali, organizzativi, manageriali; peso di eventuali sunk cost (costi non recuperabili); disponibilità di risorse specifiche, poco replicabili, potenzialmente esclusive.
+- Un'impresa multi-prodotto; un'impresa multi-mercato; un'impresa multi-tecnologia; un'impresa multi-settore.
+- Utilizzando prodotti e risorse possedute: espansione territoriale (anche internazionale); ri-segmentazione dei mercati geografici e la selezione di clientela non ancora servita (es. giovani, immigrati ecc.).
+
+**D:** ⚠️ Quali sono i fattori di forza fra le condizioni interne della tabella della slide 14 della lezione 15?
+**R:** «Fattori di forza: **Disponibilità di risorse specifiche, poco replicabili, potenzialmente esclusive** / **Effetti di economie di costo (scala e scopo) sui fattori produttivi comuni** / **Disponibilità di capacità organizzative e manageriali distintive** / **Azionisti collaborativi e allineati con il management**» (slide 14). La docente: le risorse possono essere tecnologie, risorse umane e anche risorse finanziarie, con cui acquisire le risorse non finanziarie necessarie; le economie di costo possono «aumentare la reddittività d'impresa»; gli azionisti allineati «non pongono la resistenza per esempio al cambiamento organizzativo all'innovazione» ([00:26:31]–[00:27:56]). ⚠️ L'elenco chiude con gli **azionisti collaborativi e allineati con il management**; il peso dei *sunk cost* sta fra le debolezze.
+**Opzione:** Disponibilità di risorse specifiche, poco replicabili, potenzialmente esclusive; effetti di economie di costo (scala e scopo) sui fattori produttivi comuni; disponibilità di capacità organizzative e manageriali distintive; azionisti collaborativi e allineati con il management.
+**Distrattori:**
+- Disponibilità di risorse specifiche, poco replicabili, potenzialmente esclusive; effetti di economie di costo (scala e scopo) sui fattori produttivi comuni; disponibilità di capacità organizzative e manageriali distintive; peso di eventuali sunk cost (costi non recuperabili).
+- Utilizzo delle competenze e processi già posseduti; nuovo servizio: es. risk management (nuovi strumenti avanzati di copertura del rischio di cambio e di interesse); nuovi mercati: l'offerta rivolta a segmenti di imprese precedentemente non serviti.
+- Processo distributivo: dal sistema di una rete di filiali a un sistema di Internet banking; processo produttivo: la sostituzione della valutazione tradizionale manuale del merito di credito alla tecnologia innovativa del credit scoring.
+
+**D:** ⚠️ A quale conclusione portano le minacce e a quale le opportunità, secondo le voci in grassetto della tabella della slide 14 della lezione 15?
+**R:** Le due voci in grassetto chiudono le righe delle condizioni esterne: «**Pressione a difendere e/o uscire dal mercato**» per le minacce, «**Attrazione a entrare**» per le opportunità (slide 14). La docente: la minaccia porta a una pressione «a difendere la propria posizione sul mercato oppure la costrizione in qualche modo ad uscire dal mercato di riferimento» ([00:24:27]); con le opportunità «c'è l'attrazione ad entrare su quest'area di riferimento» ([00:25:16]). ⚠️ «Difendere **e/o** uscire»: le due reazioni non si escludono.
+**Opzione:** Minacce: pressione a difendere e/o uscire dal mercato; opportunità: attrazione a entrare.
+**Distrattori:**
+- Minacce: attrazione a entrare; opportunità: pressione a difendere e/o uscire dal mercato.
+- Intensità minore: 1 componente di diversificazione e 2 variabili stabili; intensità maggiore: 2 componenti di diversificazione e 1 variabile stabile.
+- La clientela già servita: private; nuovi prodotti: assicurativi; nuove combinazioni produttive: gestione dei processi e tecnologie per l'attività assicurativa.
+
+**D:** ⚠️ Dove compaiono le barriere all'entrata nella tabella della slide 14 della lezione 15, e con quale segno?
+**R:** Due volte, con segno opposto. Fra le **minacce**: «ASA è permeabile e contendibile (**minori barriere all'entrata**): aumenta la concorrenza esterna». Fra le **opportunità**, tra i caratteri delle nuove ASA: «**barriere all'entrata rispetto a potenziali entranti**» (slide 14). La docente: con minori barriere «aumenta il numero di concorrenti esterni, anche non soltanto reali ma potenziali» ([00:23:57]). ⚠️ Le barriere basse dell'ASA già frequentata sono una minaccia; le barriere della nuova ASA verso i potenziali entranti sono un'opportunità. Barriere e mercati contendibili tornano dalle lezioni 07 e 14.
+**Opzione:** Fra le minacce, l'ASA permeabile e contendibile (minori barriere all'entrata); fra le opportunità, le nuove ASA con barriere all'entrata rispetto a potenziali entranti.
+**Distrattori:**
+- Fra le minacce, le nuove ASA con barriere all'entrata rispetto a potenziali entranti; fra le opportunità, l'ASA permeabile e contendibile (minori barriere all'entrata).
+- Caso 2.1: prodotto-servizio e sistema di risorse, stabile il mercato; caso 2.2: mercato e sistema di risorse, stabile il prodotto; caso 2.3: mercato e prodotto-servizio, stabili le risorse.
+- Il portafoglio di offerta rimane invariato (la gamma dei prodotti e servizi); l'estensione dell'area fisicamente servita (nuovo mercato di riferimento); applicazione delle nuove tecnologie (risorse): Internet banking.
+
+**D:** ⚠️ In quale riga della tabella SWOT della slide 14 della lezione 15 sta il peso di eventuali sunk cost (costi non recuperabili)?
+**R:** Fra i **fattori di debolezza**, cioè fra le condizioni interne: «Peso di eventuali *sunk cost* (costi non recuperabili)» (slide 14). La docente: «eventuali sound cost [*sunk cost*], quindi costi non recuperabili che potrebbero diventare il peso per l'organizzazione» ([00:26:02]). ⚠️ Sono una condizione **interna**, non una minaccia esterna. I costi sommersi tornano dalle lezioni 05 e 06, e nella lezione 14 i «costi precedentemente sostenuti e non recuperabili» sono una voce del costo di conversione.
+**Opzione:** Fra i fattori di debolezza.
+**Distrattori:**
+- Fra le minacce.
+- Fra i fattori di forza.
+- Fra le opportunità.
+
+**D:** ⚠️ Quali economie compaiono fra i fattori di forza della tabella della slide 14 della lezione 15?
+**R:** «Effetti di **economie di costo (scala e scopo)** sui fattori produttivi comuni» (slide 14). La docente: «effetti di economia di scala o di scopo sui prodotti produttivi comuni [*fattori produttivi*] quindi che può ovviamente aumentare la reddittività d'impresa» ([00:27:00]–[00:27:10]). ⚠️ Qui le economie di **scala** stanno accanto a quelle di **scopo**, e i fattori sono **comuni**. Nella lezione 14 «economie di scala» era il distrattore della domanda 2, perché la condivisione dei fattori fra 2 produzioni è un'economia di scopo; i «fattori produttivi comuni» sono gli *shared factors* della slide 3 di quel deck.
+**Opzione:** Effetti di economie di costo (scala e scopo) sui fattori produttivi comuni.
+**Distrattori:**
+- Effetti di economie di costo (solo scopo) sui fattori produttivi comuni.
+- Effetti di economie di costo (scala e scopo) sui fattori produttivi distinti.
+
+## Lezione 16 — Lo studio delle organizzazioni e le teorie organizzative
+
+**D:** ⚠️ Quando inizia lo studio delle organizzazioni, e con quale tipo di indagine, secondo la slide 2 della lezione 16?
+**R:** «L'inizio dello studio delle organizzazioni **fine degli anni '40** (**indagine sociologica**)» (slide 2). La docente colloca lo sviluppo «più approfondito» «a partire dalla fine della seconda guerra mondiale, quindi ecco, nel fine degli anni 40» ([00:02:19]). In apertura dice però che lo studio «è iniziato molto tempo fa» ([00:00:15]), e più avanti che gli studi principali «sono iniziati dagli anni 1940 e 1950» ([00:11:14]). ⚠️ La slide dice **fine** degli anni '40, e l'indagine è **sociologica**: prima c'erano criminologi, analisti politici e sociologi dell'industria.
+**Opzione:** Fine degli anni '40 (indagine sociologica).
+**Distrattori:**
+- Fine degli anni '50 (indagine sociologica).
+- Razionale, naturale, sistema aperto.
+- Strumenti, conoscenze tecniche e capacità dei partecipanti.
+
+**D:** ⚠️ In quale periodo storico è iniziato lo studio delle organizzazioni, secondo il test della lezione 16 (domanda 1)?
+**R:** «**Anni '40**». La slide 2 dice «L'inizio dello studio delle organizzazioni fine degli anni '40 (indagine sociologica)»; la docente: «nel fine degli anni 40 iniziamo con quello sviluppo più approfondito dello studio dell'organizzazione» ([00:02:19]). ⚠️ La trappola è «**anni '50**»: la docente parla di studi «degli anni 40-50» ([00:03:30]) e «dagli anni 1940 e 1950» ([00:11:14]), e lo studio di Whyte nella slide 2 è del 1956. Distrattori del test: «anni '50», «anni '60», «anni '70».
+**Opzione:** Anni '40.
+**Distrattori:**
+- Anni '50.
+- Anni '60.
+- Anni '70.
+
+**D:** ⚠️ Chi studiava le organizzazioni prima degli anni '40, e che cosa, secondo la slide 2 della lezione 16?
+**R:** «PRIMA degli anni '40: • **Criminologi** -> le **prigioni** (Clemmer, 1940) • **Analisti politici** -> le **strutture di partiti** (Gasnell, 1937) • **Sociologi dell'industria** -> le **fabbriche ed organizzazioni sindacali** (Whyte, 1956)» (slide 2). La docente: i criminologi hanno studiato le prigioni «come una tipologia delle organizzazioni», gli analisti politici «le strutture dei partiti politici», i sociologi dell'industria «nel 1956» le fabbriche e anche le organizzazioni sindacali ([00:00:38]–[00:01:38]). ⚠️ Tre discipline, tre oggetti, tre autori: l'abbinamento si sbaglia scambiando gli oggetti. La slide mette sotto «PRIMA degli anni '40» anche il 1940 e il 1956.
+**Opzione:** Criminologi: le prigioni (Clemmer, 1940); analisti politici: le strutture di partiti (Gasnell, 1937); sociologi dell'industria: le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+**Distrattori:**
+- Criminologi: le prigioni (Clemmer, 1940); analisti politici: le fabbriche ed organizzazioni sindacali (Gasnell, 1937); sociologi dell'industria: le strutture di partiti (Whyte, 1956).
+- Dimensioni, settori, caratteristiche strutturali, risorse a disposizione.
+- Rappresentazioni di obiettivi desiderati; condizioni che i partecipanti tentano di realizzare attraverso l'esecuzione delle loro attività organizzative.
+
+**D:** ⚠️ Quale studioso cita la slide 2 della lezione 16 per lo studio delle prigioni da parte dei criminologi?
+**R:** «Criminologi -> le prigioni (**Clemmer, 1940**)» (slide 2). La docente: «i criminologi hanno iniziato a studiare le prigioni come una tipologia delle organizzazioni, per esempio è citato in questa slide lo studio [di] Clemmer del 1940» ([00:00:38]–[00:00:45]; la trascrizione automatica scrive «Licklemmer»). ⚠️ Clemmer, Gasnell e Whyte sono i tre nomi di **prima** degli anni '40, e sono i distrattori della domanda 2 del test, che ha per chiave Simon.
+**Opzione:** Clemmer.
+**Distrattori:**
+- Gasnell.
+- Whyte.
+- Porter.
+
+**D:** ⚠️ Quale studioso cita la slide 2 della lezione 16 per lo studio delle strutture di partiti da parte degli analisti politici?
+**R:** «Analisti politici -> le strutture di partiti (**Gasnell, 1937**)» (slide 2). La docente: gli analisti politici «hanno studiato invece le strutture dei partiti politici, in questo caso parliamo di uno studio di Gasnell del 1937» ([00:00:53]). ⚠️ Il 1937 è la data più antica della slide. Clemmer è dei criminologi (prigioni), Whyte dei sociologi dell'industria (fabbriche ed organizzazioni sindacali).
+**Opzione:** Gasnell.
+**Distrattori:**
+- Clemmer.
+- Whyte.
+- Leavitt.
+
+**D:** ⚠️ Che cosa studiavano i sociologi dell'industria, e con quale studio, secondo la slide 2 della lezione 16?
+**R:** «Sociologi dell'industria -> le **fabbriche ed organizzazioni sindacali** (**Whyte, 1956**)» (slide 2). La docente: i sociologi dell'industria «nel 1956 hanno studiato le fabbriche, l'organizzazione delle fabbriche», e hanno approfondito «anche [gli studi] sulle organizzazioni sindacali» ([00:01:10]); il nome di Whyte non lo pronuncia. ⚠️ La slide elenca questo studio del **1956** sotto «PRIMA degli anni '40»: per l'esame conta l'abbinamento disciplina-oggetto-autore della slide.
+**Opzione:** Le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+**Distrattori:**
+- Le fabbriche ed organizzazioni sindacali (Gasnell, 1937).
+- Struttura comportamentale.
+- Solo parzialmente.
+
+**D:** ⚠️ Quale studioso si è occupato dello studio dei processi di decisione e della teoria della scelta nell'ambito delle organizzazioni, secondo il test della lezione 16 (domanda 2)?
+**R:** «**Simon**». La slide 3 dice «Simon (1949): il primo sviluppo interdisciplinare • Elaborazione di una scienza dell'amministrazione di marca comportamentista: l'accento sui processi di decisione e sulla teoria della scelta nell'ambito delle organizzazioni». La docente: «con l'accento principale sui processi di decisione e sulla teoria della scelta nell'ambito dell'organizzazione» ([00:01:38]–[00:02:19]). ⚠️ I distrattori sono i tre autori della slide 2, gli studi di prima degli anni '40: Clemmer (prigioni), Gasnell (strutture di partiti), Whyte (fabbriche ed organizzazioni sindacali).
+**Opzione:** Simon.
+**Distrattori:**
+- Clemmer.
+- Gasnell.
+- Whyte.
+
+**D:** ⚠️ Che cosa elabora Simon (1949), «il primo sviluppo interdisciplinare», secondo la slide 3 della lezione 16?
+**R:** «Simon (1949): il primo sviluppo interdisciplinare • Elaborazione di una scienza dell'amministrazione di marca **comportamentista**: l'accento sui **processi di decisione** e sulla **teoria della scelta** nell'ambito delle organizzazioni» (slide 3, «comportamentista» in grassetto). La docente: «I primi studi invece nell'ambito sociologico sono stati effettuati da Simon nel 1949, quindi il primo sviluppo interdisciplinare»; si parla anche del comportamento organizzativo, del processo decisionale e della teoria della scelta ([00:01:38]–[00:02:19]). ⚠️ L'accento è sulla **decisione** e sulla **scelta**, non sul controllo né sulla burocrazia, che è di Weber (lezione 02).
+**Opzione:** Una scienza dell'amministrazione di marca comportamentista: l'accento sui processi di decisione e sulla teoria della scelta nell'ambito delle organizzazioni.
+**Distrattori:**
+- Una scienza dell'amministrazione di marca comportamentista: l'accento sui processi di controllo e sulla teoria della burocrazia nell'ambito delle organizzazioni.
+- Un sistema di attività interdipendenti che connettono coalizioni instabili di partecipanti.
+- Dimensioni, settori, caratteristiche strutturali, risorse a disposizione.
+
+**D:** ⚠️ Che cosa cambia a partire dalla fine della seconda guerra mondiale, secondo la slide 3 della lezione 16?
+**R:** «A partire dalla fine della seconda guerra mondiale: • La **minore** attenzione alle diversità di ambiente e **maggior** attenzione agli interessi comuni» (slide 3). La docente: «nel fine degli anni 40 iniziamo con quello sviluppo più approfondito dello studio dell'organizzazione con la minore attenzione alle diversità dell'ambiente e maggiore attenzione invece agli interessi comuni», cioè quelli «di diversi stakeholder» ([00:02:19]–[00:02:48]). ⚠️ Due parole di direzione: **minore** per le diversità di ambiente, **maggiore** per gli interessi comuni.
+**Opzione:** La minore attenzione alle diversità di ambiente e maggior attenzione agli interessi comuni.
+**Distrattori:**
+- La maggiore attenzione alle diversità di ambiente e minor attenzione agli interessi comuni.
+- Criminologi: le prigioni (Clemmer, 1940); analisti politici: le strutture di partiti (Gasnell, 1937); sociologi dell'industria: le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+- Strumenti, conoscenze tecniche e capacità dei partecipanti.
+
+**D:** ⚠️ Quali sono, nell'ordine, gli obiettivi di un'organizzazione, secondo la slide 3 della lezione 16?
+**R:** «Gli obiettivi di un'organizzazione: • definire gli obiettivi, • convincere i suoi membri a dare un contributo, • controllare e coordinare questi contributi, • scegliere i propri componenti • risolvere i problemi della **convivenza e della coesistenza** con altre organizzazioni» (slide 3). La docente legge «definire ovviamente gli obiettivi comuni» e lega il contributo dei membri al «processo di delega, di empowerment, dell'apprendimento organizzativo» ([00:02:48]–[00:03:30]). ⚠️ La voce di chiusura è la **convivenza e coesistenza** con altre organizzazioni, non la concorrenza.
+**Opzione:** Definire gli obiettivi, convincere i suoi membri a dare un contributo, controllare e coordinare questi contributi, scegliere i propri componenti, risolvere i problemi della convivenza e della coesistenza con altre organizzazioni.
+**Distrattori:**
+- Definire gli obiettivi, convincere i suoi membri a dare un contributo, controllare e coordinare questi contributi, scegliere i propri componenti, risolvere i problemi della concorrenza e della competizione con altre organizzazioni.
+- Comportamento; attributi dei singoli partecipanti all'interno delle organizzazioni; funzionamento di alcuni aspetti o segmenti della struttura organizzativa; caratteristiche o le azioni delle organizzazioni viste come entità collettive.
+- L'ambiente fisico, tecnologico, socio-culturale al quale l'organizzazione si deve adattare e col quale essa deve interagire; le relazioni tra organizzazioni e ambienti sono vitali, complesse e interdipendenti.
+
+**D:** ⚠️ Per quali aspetti differiscono le organizzazioni, secondo le diverse prospettive di studio della slide 4 della lezione 16?
+**R:** «Differenze tra le organizzazioni: • **Dimensioni** • **Settori** • **Caratteristiche strutturali** • **Risorse a disposizione**» (slide 4). La docente: «ci sono differenze tra le organizzazioni dal punto di vista delle dimensioni, settori, caratteristiche strutturali, risorse a disposizione» ([00:04:19]–[00:04:26]). ⚠️ L'elenco ha quattro voci e chiude con le **risorse a disposizione**.
+**Opzione:** Dimensioni, settori, caratteristiche strutturali, risorse a disposizione.
+**Distrattori:**
+- Dimensioni, settori, caratteristiche strutturali, cultura organizzativa.
+- Razionale, naturale, sistema aperto.
+- Rappresentazioni di obiettivi desiderati; condizioni che i partecipanti tentano di realizzare attraverso l'esecuzione delle loro attività organizzative.
+
+**D:** ⚠️ Quali sono i livelli di analisi, cioè il fenomeno da spiegare, secondo la slide 4 della lezione 16?
+**R:** «Diversi interessi degli studiosi e differenze nei livelli di analisi (il fenomeno da spiegare): • **Comportamento** • **Attributi dei singoli partecipanti** all'interno delle organizzazioni • **Funzionamento di alcuni aspetti o segmenti della struttura organizzativa** • **Caratteristiche o le azioni delle organizzazioni viste come entità collettive**» (slide 4). La docente vi legge il comportamento organizzativo, il ruolo dei leader, dei collaboratori e di un'unità organizzativa, le dinamiche intraorganizzative, la collaborazione e il lavoro di gruppo ([00:04:26]–[00:05:34]). ⚠️ L'ultima voce riguarda le **organizzazioni** viste come entità collettive.
+**Opzione:** Comportamento; attributi dei singoli partecipanti all'interno delle organizzazioni; funzionamento di alcuni aspetti o segmenti della struttura organizzativa; caratteristiche o le azioni delle organizzazioni viste come entità collettive.
+**Distrattori:**
+- Comportamento; attributi dei singoli partecipanti all'interno delle organizzazioni; funzionamento di alcuni aspetti o segmenti della struttura organizzativa; caratteristiche o le azioni dei mercati visti come entità collettive.
+- Definire gli obiettivi, convincere i suoi membri a dare un contributo, controllare e coordinare questi contributi, scegliere i propri componenti, risolvere i problemi della convivenza e della coesistenza con altre organizzazioni.
+- L'organizzazione è radicata nell'ambiente in cui opera, dipende da continui interscambi; deve la sua esistenza al flusso di personale e risorse dall'esterno.
+
+**D:** ⚠️ Quali sono le tre voci della diversa prospettiva teorica nello studio delle organizzazioni, secondo la slide 4 della lezione 16?
+**R:** «Diversa prospettiva teorica: • **Razionale** • **Naturale** • **Sistema aperto**» (slide 4). La docente: «vediamo anche quali sono le caratteristiche principali di tre approcci teorici. Il primo approccio è l'approccio razionale, il secondo è l'approccio naturale e il terzo è il sistema aperto» ([00:05:38]–[00:05:47]). ⚠️ Il terzo è il sistema **aperto**. Sono le stesse tre delle slide 9–10: modello classico (sistema razionale), modello delle relazioni umane (sistema naturale), modello sistemico (sistema aperto).
+**Opzione:** Razionale, naturale, sistema aperto.
+**Distrattori:**
+- Razionale, naturale, sistema chiuso.
+- La minore attenzione alle diversità di ambiente e maggior attenzione agli interessi comuni.
+- Struttura sociale, partecipanti, scopi e tecnologia, dentro l'organizzazione; l'ambiente intorno.
+
+**D:** ⚠️ Quali elementi compongono il diamante di Leavitt, e che cosa li circonda, secondo la slide 5 della lezione 16?
+**R:** Nella figura della slide 5, «Il diamante di Leavitt: modello di una organizzazione», dentro il riquadro tratteggiato «**Organizzazione**» stanno quattro vertici legati da frecce: **Struttura sociale**, **Scopi**, **Partecipanti**, **Tecnologia**. Fuori dal riquadro, sopra, c'è la scritta «**Ambiente**». La docente: l'organizzazione «è basata e in qualche modo dipesa dal funzionamento delle caratteristiche come tecnologia, struttura sociale, scopi, obiettivi dell'organizzazione e i partecipanti»; l'ambiente «è poco definito, quindi può essere molto vario» ([00:06:06]–[00:06:47]). ⚠️ Il vertice si chiama **scopi**, non «mission» (domanda 3 del test).
+**Opzione:** Struttura sociale, partecipanti, scopi e tecnologia, dentro l'organizzazione; l'ambiente intorno.
+**Distrattori:**
+- Struttura sociale, partecipanti, mission e tecnologia, dentro l'organizzazione; l'ambiente intorno.
+- La struttura normativa (valori, norme e aspettative di ruolo); la struttura comportamentale (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento).
+- È un sistema di attività interdipendenti variamente coese, che devono essere continuamente stimolate, se l'organizzazione intende sopravvivere.
+
+**D:** ⚠️ Quale elemento tra tecnologia, partecipanti, struttura sociale e mission non fa parte del diamante di Leavitt, secondo il test della lezione 16 (domanda 3)?
+**R:** «**Mission**». I vertici del diamante della slide 5 sono **Struttura sociale**, **Scopi**, **Partecipanti** e **Tecnologia**, con l'**Ambiente** intorno. La docente li elenca come «tecnologia, struttura sociale, scopi, obiettivi dell'organizzazione e i partecipanti» ([00:06:29]). ⚠️ La domanda è **negativa**, e l'intrusa non è nei materiali della lezione: il vertice vicino si chiama «**scopi**». Mission è un distrattore ricorrente del corso (test 01, domanda 3; test 05, domanda 1). Distrattori del test: «tecnologia», «partecipanti», «struttura sociale».
+**Opzione:** Mission.
+**Distrattori:**
+- Tecnologia.
+- Partecipanti.
+- Struttura sociale.
+
+**D:** ⚠️ Di quale studioso è il modello di una organizzazione «a diamante» della slide 5 della lezione 16, che la docente data al 1965?
+**R:** «Il diamante di **Leavitt**: modello di una organizzazione» (slide 5), con la fonte «adattamento da Leavitt [1965, fig. 1, 1145]». La docente: «vedete il diamante di Leavitt, quindi il modello di un'organizzazione sviluppato da questo studioso nel 1965» ([00:05:54]; la trascrizione automatica scrive «Livet»). ⚠️ Clemmer e Gasnell sono studiosi della slide 2, di prima degli anni '40; Porter chiude la linea del tempo della slide 8.
+**Opzione:** Leavitt.
+**Distrattori:**
+- Clemmer.
+- Gasnell.
+- Porter.
+
+**D:** ⚠️ Come possono essere definiti i rapporti che intercorrono tra i partecipanti organizzativi aventi carattere regolare che seguono determinati schemi, secondo il test della lezione 16 (domanda 5)?
+**R:** «**Struttura sociale**». La slide 6: «La struttura sociale: • Rapporti che intercorrono tra i partecipanti organizzativi aventi carattere regolare che seguono schemi determinati». La docente: «quando parliamo della struttura sociale parliamo dei rapporti che intercorrono tra i partecipanti organizzativi aventi carattere regolare, che seguono schemi determinati» ([00:06:47]). ⚠️ I **partecipanti** sono i soggetti fra cui intercorrono i rapporti, non i rapporti. È lo specchio della domanda 3: stesse voci di Leavitt. Distrattori del test: «tecnologia», «partecipanti», «ambiente».
+**Opzione:** Struttura sociale.
+**Distrattori:**
+- Tecnologia.
+- Partecipanti.
+- Ambiente.
+
+**D:** ⚠️ In quali due componenti può essere distinta la struttura sociale, secondo la slide 6 della lezione 16?
+**R:** «La struttura sociale può essere distinta in due componenti: • la **struttura normativa** (valori, norme e aspettative di ruolo); • la **struttura comportamentale** (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento)» (slide 6). Per la normativa la docente cita il mansionario, con la descrizione della posizione, del ruolo, dei compiti e delle responsabilità; nella comportamentale le interazioni possono avvenire «non soltanto in maniera formale ma anche in maniera informale» ([00:07:15]–[00:08:14]). ⚠️ Valori e norme sono della **normativa**, i comportamenti effettivi della **comportamentale**.
+**Opzione:** La struttura normativa (valori, norme e aspettative di ruolo); la struttura comportamentale (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento).
+**Distrattori:**
+- La struttura normativa (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento); la struttura comportamentale (valori, norme e aspettative di ruolo).
+- I soggetti che, in cambio di ricompense, danno un contributo all'organizzazione; gli attori sociali senza i quali non esiste organizzazione, né struttura né situazione sociale; coinvolti nelle organizzazioni solo parzialmente.
+- Una collettività i cui partecipanti condividono un interesse alla sopravvivenza; attività collettive, strutturate informalmente, per garantire tale sopravvivenza.
+
+**D:** ⚠️ Qual è la componente della struttura sociale fatta dei comportamenti effettivi piuttosto che delle prescrizioni per il comportamento, secondo la slide 6 della lezione 16?
+**R:** «la **struttura comportamentale** (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento)» (slide 6). ⚠️ La docente la introduce con un lapsus: «Il secondo punto di vista invece, la seconda prospettiva è la struttura **normativa**», e subito dopo: «in questo caso parliamo di comportamenti effettivi piuttosto che le prescrizioni per il comportamento» ([00:07:43]–[00:07:48]). La struttura normativa è l'altra componente: valori, norme e aspettative di ruolo. Nelle opzioni vale la slide.
+**Opzione:** Struttura comportamentale.
+**Distrattori:**
+- Struttura normativa.
+- Struttura sociale.
+- Tecnologia.
+
+**D:** ⚠️ Chi sono i partecipanti, secondo la slide 6 della lezione 16?
+**R:** «I partecipanti: • I soggetti che, **in cambio di ricompense**, danno un contributo all'organizzazione. • Gli **attori sociali** senza i quali non esiste organizzazione, ne struttura ne situazione sociale. • Coinvolti nelle organizzazioni **solo parzialmente**» (slide 6, «ne… ne» così). Per la docente sono i dipendenti, i collaboratori, le risorse umane che offrono il proprio contributo per aiutare l'azienda a raggiungere lo scopo ([00:08:14]–[00:08:47]). ⚠️ Il coinvolgimento è **solo parziale**.
+**Opzione:** I soggetti che, in cambio di ricompense, danno un contributo all'organizzazione; gli attori sociali senza i quali non esiste organizzazione, né struttura né situazione sociale; coinvolti nelle organizzazioni solo parzialmente.
+**Distrattori:**
+- I soggetti che, in cambio di ricompense, danno un contributo all'organizzazione; gli attori sociali senza i quali non esiste organizzazione, né struttura né situazione sociale; coinvolti nelle organizzazioni totalmente.
+- È un sistema di attività interdipendenti variamente coese, che devono essere continuamente stimolate, se l'organizzazione intende sopravvivere.
+- Il modello classico: l'organizzazione come sistema razionale; il modello delle relazioni umane: l'organizzazione come sistema naturale; il modello sistemico: l'organizzazione come sistema aperto.
+
+**D:** ⚠️ In che misura i partecipanti sono coinvolti nelle organizzazioni, secondo la slide 6 della lezione 16, e perché secondo la docente?
+**R:** «Coinvolti nelle organizzazioni **solo parzialmente**» (slide 6). La docente: «perché parzialmente? Perché ovviamente parliamo anche di un bilanciamento vita lavoro quindi di **work life balance**». I partecipanti offrono il proprio contributo nell'ambito lavorativo ma hanno anche la propria vita personale, e l'organizzazione dovrebbe saperlo gestire per aumentare il benessere, la soddisfazione e la produttività dei partecipanti ([00:08:47]–[00:09:25]). ⚠️ «Solo parzialmente», non totalmente.
+**Opzione:** Solo parzialmente.
+**Distrattori:**
+- Totale.
+- Solo reimpiego.
+- Devono essere cedute.
+
+**D:** ⚠️ Che cosa sono gli scopi, nel modello di Leavitt, secondo la slide 7 della lezione 16?
+**R:** «Gli scopi: • **Rappresentazioni di obiettivi desiderati** • Condizioni che **i partecipanti** tentano di realizzare attraverso l'esecuzione delle loro attività organizzative» (slide 7). La docente: «parliamo degli obiettivi desiderati quindi della strategia che stabilisce l'organizzazione che vuole raggiungere sia a breve termine sia a lungo termine» ([00:09:26]–[00:09:51]). ⚠️ Sono condizioni che tentano di realizzare **i partecipanti** con le loro attività.
+**Opzione:** Rappresentazioni di obiettivi desiderati; condizioni che i partecipanti tentano di realizzare attraverso l'esecuzione delle loro attività organizzative.
+**Distrattori:**
+- Rappresentazioni di obiettivi desiderati; condizioni che il top management impone di realizzare attraverso l'esecuzione delle attività organizzative.
+- Una scienza dell'amministrazione di marca comportamentista: l'accento sui processi di decisione e sulla teoria della scelta nell'ambito delle organizzazioni.
+- Organizzazioni che fanno a meno di definire esplicitamente i propri fini e di formalizzare qualifiche e procedure.
+
+**D:** ⚠️ Che cos'è la tecnologia, nel modello di Leavitt, secondo la slide 7 della lezione 16?
+**R:** «La tecnologia: • strumenti, conoscenze tecniche e capacità **dei partecipanti**» (slide 7). La docente: «quando parliamo della tecnologia parliamo della trasformazione delle risorse, degli input in output attraverso gli strumenti, le conoscenze tecniche e le capacità dei partecipanti», cioè la «tecnologia organizzativa» ([00:09:51]–[00:10:16]). ⚠️ Le capacità sono **dei partecipanti**; la trasformazione degli input in output è un'aggiunta della docente.
+**Opzione:** Strumenti, conoscenze tecniche e capacità dei partecipanti.
+**Distrattori:**
+- Strumenti, conoscenze tecniche e capacità del top management.
+- Fine degli anni '40 (indagine sociologica).
+- Struttura comportamentale.
+
+**D:** ⚠️ Che cos'è l'ambiente, nel modello di Leavitt, secondo la slide 7 della lezione 16?
+**R:** «L'ambiente: • L'ambiente **fisico, tecnologico, socio-culturale** al quale l'organizzazione **si deve adattare** e col quale essa **deve interagire**. • Le relazioni tra organizzazioni e ambienti sono **vitali, complesse e interdipendenti**» (slide 7). La docente: l'ambiente ha un impatto molto importante sull'organizzazione, «e anche al contrario l'organizzazione potrebbe influire sul cambiamento, sullo sviluppo dell'ambiente esterno» ([00:10:16]–[00:10:58]). ⚠️ Le relazioni sono **interdipendenti**: l'influenza va nei due sensi.
+**Opzione:** L'ambiente fisico, tecnologico, socio-culturale al quale l'organizzazione si deve adattare e col quale essa deve interagire; le relazioni tra organizzazioni e ambienti sono vitali, complesse e interdipendenti.
+**Distrattori:**
+- L'ambiente fisico, tecnologico, socio-culturale al quale l'organizzazione si deve adattare e col quale essa deve interagire; le relazioni tra organizzazioni e ambienti sono vitali, complesse e unidirezionali.
+- Comportamento; attributi dei singoli partecipanti all'interno delle organizzazioni; funzionamento di alcuni aspetti o segmenti della struttura organizzativa; caratteristiche o le azioni delle organizzazioni viste come entità collettive.
+- Una collettività orientata al raggiungimento di fini relativamente specifici che presenta una struttura sociale relativamente formalizzata.
+
+**D:** ⚠️ Quale elemento del modello di Leavitt è definito come «strumenti, conoscenze tecniche e capacità dei partecipanti», secondo la slide 7 della lezione 16?
+**R:** «La **tecnologia**: • strumenti, conoscenze tecniche e capacità dei partecipanti» (slide 7). La docente la presenta come la trasformazione degli input in output ([00:09:51]). ⚠️ È la stessa forma della domanda 5 del test, che dà la definizione della struttura sociale e chiede il nome. I **partecipanti** compaiono nella definizione, ma sono i soggetti che danno un contributo in cambio di ricompense (slide 6).
+**Opzione:** Tecnologia.
+**Distrattori:**
+- Partecipanti.
+- Struttura sociale.
+- Ambiente.
+
+**D:** ⚠️ Quale elemento del modello di Leavitt è definito come «rappresentazioni di obiettivi desiderati», secondo la slide 7 della lezione 16?
+**R:** «Gli **scopi**: • Rappresentazioni di obiettivi desiderati • Condizioni che i partecipanti tentano di realizzare attraverso l'esecuzione delle loro attività organizzative» (slide 7). La docente li glossa con «obiettivi dell'organizzazione» ([00:06:29]) e con la strategia a breve e lungo termine ([00:09:26]). ⚠️ Il vertice del diamante si chiama «scopi»: la «mission» non c'è, ed è l'intrusa della domanda 3 del test.
+**Opzione:** Scopi.
+**Distrattori:**
+- Mission.
+- Tecnologia.
+- Partecipanti.
+
+**D:** ⚠️ In che ordine compaiono gli autori nella distribuzione temporale delle principali teorie organizzative della slide 8 della lezione 16?
+**R:** La slide 8, «Distribuzione temporale delle principali teorie organizzative:», è una freccia dal **1898** al **1980** con sei nomi, nell'ordine: **Taylor**, **Fayol**, **Mayo**, «**Hummer Champy**» (cioè Hammer e Champy, come scrive il deck 17), **Davenport**, **Porter**. La docente: «la teoria di Taylor, di Fayol, di [Mayo], [Hammer], [Champy], Davenport. E la teoria un pochino più recente è quella di Michael Porter» ([00:11:14]–[00:11:33]; la trascrizione automatica scrive «Maio, Amper, Ciampi»). ⚠️ Taylor apre, **Porter** chiude.
+**Opzione:** Taylor, Fayol, Mayo, Hammer e Champy, Davenport, Porter.
+**Distrattori:**
+- Fayol, Taylor, Mayo, Hammer e Champy, Davenport, Porter.
+- Una scienza dell'amministrazione di marca comportamentista: l'accento sui processi di decisione e sulla teoria della scelta nell'ambito delle organizzazioni.
+- Chiaramente definiti, espliciti e capaci di fornire criteri non ambigui atti a scegliere tra attività alternative.
+
+**D:** ⚠️ Quale autore chiude, intorno al 1980, la distribuzione temporale delle principali teorie organizzative della slide 8 della lezione 16?
+**R:** **Porter**, l'ultimo nome della linea del tempo, che finisce nel **1980** (slide 8). La docente: «la teoria un pochino più recente è quella di Michael Porter, di cui abbiamo già parlato. Tra l'altro una delle teorie di Porter è quella di 5 forze, che insomma si avvicina ai nostri giorni circa 1980» ([00:11:33]–[00:11:38]). ⚠️ Davenport è il penultimo nome. Nella lezione 07 la slide 5 data il modello delle 5 forze «Porter (1998)».
+**Opzione:** Porter.
+**Distrattori:**
+- Davenport.
+- Leavitt.
+- Clemmer.
+
+**D:** ⚠️ Quale tra modello classico, modello innovativo, modello delle relazioni umane e modello sistemico non fa parte dei principali modelli concettuali nello studio delle organizzazioni, secondo il test della lezione 16 (domanda 4)?
+**R:** «**Modello innovativo**». Le «3 diverse prospettive concettuali» delle slide 9–10 sono «1 - Il modello classico», «2 - Il modello delle relazioni umane» e «3 - Il modello sistemico» ([00:11:48]–[00:11:57]). Il modello innovativo non compare nei 30 deck né nei 22 transcript disponibili; «innovativo» era già un'intrusa nelle domande 3 e 4 del test 12 e, al femminile, nella domanda 5 del test 13. ⚠️ La domanda è **negativa**, e chiama «modelli» quelle che la slide chiama «prospettive concettuali». La piattaforma scrive «princiapali» e «modelllo delle relazioni umane». Distrattori del test: «modello classico», «modelllo delle relazioni umane», «modello sistemico».
+**Opzione:** Modello innovativo.
+**Distrattori:**
+- Modello classico.
+- Modelllo delle relazioni umane.
+- Modello sistemico.
+
+**D:** ⚠️ Quali sono, nell'ordine, le 3 diverse prospettive concettuali, e quale sistema corrisponde a ciascuna, secondo le slide 9 e 10 della lezione 16?
+**R:** «1 - Il **modello classico**: • L'organizzazione come **sistema razionale**» (slide 9); «2 - Il **modello delle relazioni umane**: • l'organizzazione come **sistema naturale**»; «3 - Il **modello sistemico**: • L'organizzazione come **sistema aperto**» (slide 10). La docente: «dovremo approfondire tre diverse prospettive concettuali» ([00:11:48]). ⚠️ Gli assi sono due, il nome del modello e il sistema: relazioni umane = **naturale**, sistemico = **aperto**. Sono le tre voci razionale, naturale, sistema aperto della slide 4.
+**Opzione:** Il modello classico: l'organizzazione come sistema razionale; il modello delle relazioni umane: l'organizzazione come sistema naturale; il modello sistemico: l'organizzazione come sistema aperto.
+**Distrattori:**
+- Il modello classico: l'organizzazione come sistema razionale; il modello delle relazioni umane: l'organizzazione come sistema aperto; il modello sistemico: l'organizzazione come sistema naturale.
+- Definire gli obiettivi, convincere i suoi membri a dare un contributo, controllare e coordinare questi contributi, scegliere i propri componenti, risolvere i problemi della convivenza e della coesistenza con altre organizzazioni.
+- I soggetti che, in cambio di ricompense, danno un contributo all'organizzazione; gli attori sociali senza i quali non esiste organizzazione, né struttura né situazione sociale; coinvolti nelle organizzazioni solo parzialmente.
+
+**D:** ⚠️ Come definisce la slide 9 della lezione 16 l'organizzazione come sistema razionale, nel modello classico?
+**R:** «1 - Il modello classico: • L'organizzazione come sistema razionale: una collettività orientata al raggiungimento di fini **relativamente specifici** che presenta una struttura sociale **relativamente formalizzata**» (slide 9). La docente legge la definizione alla lettera ([00:12:00]). ⚠️ I «relativamente» sono due, e la struttura sociale è **formalizzata**. L'interesse alla sopravvivenza è del sistema naturale, le coalizioni instabili del sistema aperto.
+**Opzione:** Una collettività orientata al raggiungimento di fini relativamente specifici che presenta una struttura sociale relativamente formalizzata.
+**Distrattori:**
+- Una collettività orientata al raggiungimento di fini relativamente specifici che presenta una struttura sociale scarsamente formalizzata.
+- Una collettività i cui partecipanti condividono un interesse alla sopravvivenza; attività collettive, strutturate informalmente, per garantire tale sopravvivenza.
+- Un sistema di attività interdipendenti che connettono coalizioni instabili di partecipanti.
+
+**D:** ⚠️ Come sono coordinate le attività e le interazioni dei partecipanti nel modello classico, secondo la slide 9 della lezione 16?
+**R:** «Le attività e le interazioni dei partecipanti sono coordinate **dal centro** per raggiungere **specifici obiettivi**» (slide 9). La docente: sono coordinate «dal centro quindi del livello più alto del top management dell'organizzazione, per raggiungere gli obiettivi specifici prestabiliti, prefissati» ([00:12:16]–[00:12:45]). ⚠️ Il fine è raggiungere **specifici obiettivi**: la sopravvivenza è l'interesse condiviso del sistema naturale.
+**Opzione:** Sono coordinate dal centro per raggiungere specifici obiettivi.
+**Distrattori:**
+- Sono coordinate dal centro per garantire la sopravvivenza dell'organizzazione.
+- Organizzazioni che fanno a meno di definire esplicitamente i propri fini e di formalizzare qualifiche e procedure.
+- Solo parzialmente.
+
+**D:** ⚠️ Come sono gli scopi nel modello classico, secondo la slide 9 della lezione 16?
+**R:** «Gli scopi sono **chiaramente definiti, espliciti** e capaci di fornire **criteri non ambigui** atti a scegliere tra attività alternative» (slide 9). La docente: secondo questo modello ci sono «gli elementi ben definiti, espliciti» con cui i partecipanti riescono a fare la propria scelta fra le alternative ([00:12:45]–[00:13:20]). ⚠️ Gli scopi sono **espliciti**: le organizzazioni collettiviste del modello delle relazioni umane fanno invece a meno di definire esplicitamente i propri fini.
+**Opzione:** Chiaramente definiti, espliciti e capaci di fornire criteri non ambigui atti a scegliere tra attività alternative.
+**Distrattori:**
+- Chiaramente definiti, impliciti e capaci di fornire criteri non ambigui atti a scegliere tra attività alternative.
+- Fine degli anni '40 (indagine sociologica).
+- La minore attenzione alle diversità di ambiente e maggior attenzione agli interessi comuni.
+
+**D:** ⚠️ Come sono cooperazione, struttura dei rapporti e ruoli nel modello classico, secondo la slide 9 della lezione 16?
+**R:** «La cooperazione tra i partecipanti è **consapevole e deliberata**; • La struttura dei rapporti è **formalizzata** • Le regole che governano il comportamento • I ruoli e i rapporti tra i ruoli sono prescritti **prescindendo dagli attributi personali** degli individui che occupano le posizioni nella struttura» (slide 9; la voce sulle regole non ha predicato). La docente: le regole «governano il comportamento organizzativo», individuale e di gruppo, e il top management definisce i ruoli «senza considerare le caratteristiche personali delle persone» ([00:13:20]–[00:14:18]). ⚠️ Il modello delle relazioni umane fa il contrario: considera le caratteristiche personali del collaboratore ([00:14:18]).
+**Opzione:** La cooperazione tra i partecipanti è consapevole e deliberata; la struttura dei rapporti è formalizzata; le regole che governano il comportamento; i ruoli e i rapporti tra i ruoli sono prescritti prescindendo dagli attributi personali degli individui che occupano le posizioni nella struttura.
+**Distrattori:**
+- La cooperazione tra i partecipanti è consapevole e deliberata; la struttura dei rapporti è formalizzata; le regole che governano il comportamento; i ruoli e i rapporti tra i ruoli sono prescritti tenendo conto degli attributi personali degli individui che occupano le posizioni nella struttura.
+- L'organizzazione è radicata nell'ambiente in cui opera, dipende da continui interscambi; deve la sua esistenza al flusso di personale e risorse dall'esterno.
+- Struttura sociale, partecipanti, scopi e tecnologia, dentro l'organizzazione; l'ambiente intorno.
+
+**D:** ⚠️ Come definisce la slide 10 della lezione 16 l'organizzazione come sistema naturale, nel modello delle relazioni umane?
+**R:** «2 - Il modello delle relazioni umane: • l'organizzazione come sistema naturale: una collettività i cui partecipanti **condividono un interesse alla sopravvivenza** • Attività collettive, **strutturate informalmente**, per garantire tale sopravvivenza» (slide 10). La docente: i collaboratori sono interessati alla sopravvivenza dell'organizzazione perché offre loro un compenso. Le attività sono strutturate «non soltanto formalmente ma anche in maniera informale», con una rete sociale informale ([00:14:41]–[00:15:36]). ⚠️ La slide dice **informalmente**: nelle opzioni vale la slide.
+**Opzione:** Una collettività i cui partecipanti condividono un interesse alla sopravvivenza; attività collettive, strutturate informalmente, per garantire tale sopravvivenza.
+**Distrattori:**
+- Una collettività i cui partecipanti condividono un interesse alla sopravvivenza; attività collettive, strutturate formalmente, per garantire tale sopravvivenza.
+- Chiaramente definiti, espliciti e capaci di fornire criteri non ambigui atti a scegliere tra attività alternative.
+- La struttura normativa (valori, norme e aspettative di ruolo); la struttura comportamentale (i comportamenti effettivi piuttosto che le prescrizioni per il comportamento).
+
+**D:** ⚠️ Che cosa sono le organizzazioni collettiviste, nel modello delle relazioni umane, secondo la slide 10 della lezione 16?
+**R:** «Organizzazioni collettiviste (**fanno a meno** di definire esplicitamente i propri fini e di formalizzare qualifiche e procedure)» (slide 10). La docente: «spesso sono le cooperative che anche vanno a svolgere le attività in maniera informale piuttosto che ben definita, come invece secondo la prima teoria razionale» ([00:15:36]–[00:16:03]). ⚠️ «Fanno a meno»: sono l'opposto degli scopi chiaramente definiti ed espliciti del modello classico.
+**Opzione:** Organizzazioni che fanno a meno di definire esplicitamente i propri fini e di formalizzare qualifiche e procedure.
+**Distrattori:**
+- Organizzazioni che definiscono esplicitamente i propri fini e formalizzano qualifiche e procedure.
+- Il modello classico: l'organizzazione come sistema razionale; il modello delle relazioni umane: l'organizzazione come sistema naturale; il modello sistemico: l'organizzazione come sistema aperto.
+- Sono coordinate dal centro per raggiungere specifici obiettivi.
+
+**D:** ⚠️ Come definisce la slide 10 della lezione 16 l'organizzazione come sistema aperto, nel modello sistemico?
+**R:** «3 - Il modello sistemico: • L'organizzazione come sistema aperto: un sistema di **attività interdipendenti** che connettono **coalizioni instabili** di partecipanti» (slide 10). La docente: vanno considerati sia i rapporti interni fra i collaboratori sia le interazioni interorganizzative, tra diverse organizzazioni e tra l'organizzazione e l'ambiente esterno ([00:16:03]–[00:16:38]). ⚠️ Le coalizioni sono **instabili**.
+**Opzione:** Un sistema di attività interdipendenti che connettono coalizioni instabili di partecipanti.
+**Distrattori:**
+- Un sistema di attività interdipendenti che connettono coalizioni stabili di partecipanti.
+- Una collettività orientata al raggiungimento di fini relativamente specifici che presenta una struttura sociale relativamente formalizzata.
+- Le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+
+**D:** ⚠️ Che cosa dice la slide 10 della lezione 16 del rapporto fra l'organizzazione e l'ambiente nel modello sistemico?
+**R:** «L'organizzazione è **radicata nell'ambiente** in cui opera, dipende da **continui interscambi**; • L'organizzazione deve la sua esistenza al **flusso di personale e risorse dall'esterno**» (slide 10). La docente: è lo studio dell'organizzazione «recente», in cui l'ambiente è un elemento chiave; il valore per il cliente nasce dalla trasformazione degli input che vengono dall'ambiente esterno, che è anche il mercato che acquista il prodotto o il servizio ([00:16:38]–[00:17:47]). ⚠️ Il flusso viene **dall'esterno**.
+**Opzione:** L'organizzazione è radicata nell'ambiente in cui opera, dipende da continui interscambi; deve la sua esistenza al flusso di personale e risorse dall'esterno.
+**Distrattori:**
+- L'organizzazione è radicata nell'ambiente in cui opera, dipende da continui interscambi; deve la sua esistenza al flusso di personale e risorse dall'interno.
+- Criminologi: le prigioni (Clemmer, 1940); analisti politici: le strutture di partiti (Gasnell, 1937); sociologi dell'industria: le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+- Le fabbriche ed organizzazioni sindacali (Whyte, 1956).
+
+**D:** ⚠️ A quale condizione l'organizzazione come sistema aperto sopravvive, secondo l'ultimo punto della slide 10 della lezione 16?
+**R:** «L'organizzazione è un sistema di attività interdipendenti **variamente coese**, che devono essere **continuamente stimolate**, se l'organizzazione intende **sopravvivere**» (slide 10). La docente aggiunge «cambiate, trasformate» ([00:17:47]). Per lei è il modello che considera più a fondo la necessità di affrontare il **cambiamento organizzativo**: interagendo con l'ambiente esterno l'organizzazione resta sostenibile più a lungo e prolunga il proprio ciclo di vita ([00:18:04]–[00:18:26]). ⚠️ Le attività sono **variamente** coese e vanno stimolate **continuamente**.
+**Opzione:** È un sistema di attività interdipendenti variamente coese, che devono essere continuamente stimolate, se l'organizzazione intende sopravvivere.
+**Distrattori:**
+- È un sistema di attività interdipendenti variamente coese, che devono essere rigidamente formalizzate, se l'organizzazione intende sopravvivere.
+- Solo vendita.
+- Sono coordinate dal centro per raggiungere specifici obiettivi.
+
+## Lezione 17 — L'organizzazione come sistema razionale, sistema naturale, sistema aperto
+
+**D:** ⚠️ Che cos'è la razionalità della struttura, secondo la slide 2 della lezione 17?
+**R:** «La razionalità della struttura è l'organizzazione delle **azioni** in modo tale da realizzare i **fini predeterminati** con il **massimo di efficienza**» (slide 2, primo punto della prospettiva di sistema razionale). La docente: «in questo caso non parliamo ancora della soddisfazione, della qualità, dell'efficacia dei processi ma l'obiettivo chiave in questo caso è la massima produttività e la massima efficienza» ([00:00:35]–[00:00:59]). ⚠️ **Efficienza, non efficacia**: l'efficacia è proprio ciò che la docente esclude. È la domanda 1 del test, alla lettera.
+**Opzione:** L'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficienza.
+**Distrattori:**
+- L'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficacia.
+- Un insieme di attività che richiede uno o più tipi di input e crea un output che ha valore per il cliente.
+- L'uomo è intenzionalmente razionale perché ha dei limiti cognitivi, computazionali e revisionali.
+
+**D:** ⚠️ Che cos'è «l'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficienza», secondo il test della lezione 17 (domanda 1)?
+**R:** «**Razionalità della struttura**». È la slide 2 alla lettera: «La razionalità della struttura è l'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficienza» ([00:00:35]). ⚠️ I tre distrattori non compaiono in questa lezione: sono la batteria della domanda 3 del test 13. La *business strategy* è nella lezione 05 e nella sequenza della slide 5 della lezione 13, il *business model* è la chiave del test 09, il *business plan* non compare nello strato di testo dei 30 deck. Distrattori del test: «business plan», «busines model» (così), «business strategy».
+**Opzione:** Razionalità della struttura.
+**Distrattori:**
+- Business plan.
+- Busines model.
+- Business strategy.
+
+**D:** ⚠️ A che cosa si riferisce la razionalità della struttura, secondo la slide 2 della lezione 17?
+**R:** «Si riferisce **non alla scelta dei fini**, bensì alla loro **realizzazione** (*implementation*)» (slide 2). La docente: «quindi il processo di implementation» ([00:00:59]). ⚠️ I fini sono **predeterminati**: la razionalità della struttura riguarda come realizzarli, non quali scegliere.
+**Opzione:** Non alla scelta dei fini, bensì alla loro realizzazione (implementation).
+**Distrattori:**
+- Non alla realizzazione (implementation) dei fini, bensì alla loro scelta.
+- Sul soggetto (umano) rispetto all'astratto decisore razionale della teoria economica.
+- Da un insieme o combinazione di parti i cui rapporti reciproci sono tali da renderle interdipendenti.
+
+**D:** ⚠️ Quali sono, nell'ordine, i diversi approcci teorici della prospettiva di sistema razionale, secondo la slide 2 della lezione 17?
+**R:** «Diversi approcci teorici: 1. L'**organizzazione scientifica del lavoro** di **Frederick Winslow Taylor** 2. I **principi di amministrazione** di **Henry Fayol** 3. La **teoria della burocrazia** di **Max Weber** 4. La **teoria del comportamento amministrativo** di **Herbert Simon**» (slide 2). La docente li elenca nello stesso ordine; di Simon dice «di cui abbiamo già parlato, abbiamo fatto i primi accenni nella lezione precedente» ([00:01:21]–[00:01:47]). ⚠️ Conta la **coppia** autore-teoria: le domande 2, 3 e 5 del test hanno la stessa batteria di quattro autori.
+**Opzione:** L'organizzazione scientifica del lavoro di Frederick Winslow Taylor; i principi di amministrazione di Henry Fayol; la teoria della burocrazia di Max Weber; la teoria del comportamento amministrativo di Herbert Simon.
+**Distrattori:**
+- L'organizzazione scientifica del lavoro di Frederick Winslow Taylor; i principi di amministrazione di Max Weber; la teoria della burocrazia di Henry Fayol; la teoria del comportamento amministrativo di Herbert Simon.
+- Schemi; meccanismi; sistemi cibernetici; sistemi aperti; sistemi a crescita programmata; sistemi ad immagine interna; sistemi che trattano simboli; sistemi sociali; sistemi trascendentali.
+- Compressione dei processi orizzontalmente e verticalmente; delinearizzazione dei processi; un ruolo cruciale della tecnologia dell'informazione.
+
+**D:** ⚠️ Chi è l'autore del metodo dell'organizzazione scientifica del lavoro, secondo il test della lezione 17 (domanda 2)?
+**R:** «**Taylor**». La slide 2 elenca «1. L'organizzazione scientifica del lavoro di Frederick Winslow Taylor», e la slide 3 s'intitola «1 - L'organizzazione scientifica del lavoro di Taylor», con le caratteristiche del metodo scientifico: determinismo, scomponibilità, sperimentazione ([00:01:21]; [00:01:47]). ⚠️ La batteria è la stessa delle domande 3 (chiave Fayol) e 5 (chiave Simon): conta la coppia autore-teoria. Distrattori del test: «Fayol» (principi di amministrazione), «Weber» (teoria della burocrazia), «Simon» (teoria del comportamento amministrativo).
+**Opzione:** Taylor.
+**Distrattori:**
+- Fayol.
+- Weber.
+- Simon.
+
+**D:** ⚠️ Che cosa dice la slide 3 della lezione 17 della nascita, dell'esperienza di lavoro e delle opere di Taylor?
+**R:** «• Nasce il **20 Marzo 1856 a Filadelfia** ("**fine della prima rivoluzione industriale**") • Esperienza di lavoro - **ingegnere capo di officina** • Esperimenti volti al miglioramento dell'efficienza dei processi produttivi e dell'attenuazione dei conflitti tra operai e datori di lavoro. • ***Shop management* (1903)** e ***Principles of Scientific management* (1911)**» (slide 3). Per la docente il periodo storico ha «impattato» il suo pensiero: è cresciuto in un ambito industriale ([00:01:54]–[00:02:52]). ⚠️ Prima *Shop management* (**1903**), poi *Principles* (**1911**). La lezione 01 data il suo «management scientifico» al **1919** (slide 14 di quel deck).
+**Opzione:** Nasce il 20 marzo 1856 a Filadelfia (fine della prima rivoluzione industriale); ingegnere capo di officina; Shop management (1903) e Principles of Scientific management (1911).
+**Distrattori:**
+- Nasce il 20 marzo 1856 a Filadelfia (fine della prima rivoluzione industriale); ingegnere capo di officina; Shop management (1911) e Principles of Scientific management (1903).
+- La combinazione dell'approccio radicale proposto da Hammer e Champy con iniziative e metodi miranti al continuo miglioramento delle prestazioni.
+- Processi morfostatici: automantenimento e stabilità; processi morfogenetici: sviluppo ed elaborazione di nuove strutture.
+
+**D:** ⚠️ Quali sono, nell'ordine, le principali caratteristiche del metodo scientifico di Taylor, secondo la slide 3 della lezione 17?
+**R:** «Le principali caratteristiche del metodo scientifico: • Il **determinismo** - il convincimento che ogni fenomeno reale (e quindi anche ogni risultato produttivo) è funzione ed esprimibile in termini matematici; • La **scomponibilità** - la possibilità e l'importanza di dividere ogni problema nelle sue parti elementari per arrivare alla soluzione del problema complessivo per successive aggregazioni delle soluzioni parziali; • La **sperimentazione** - l'individuazione delle funzioni e dei relativi punti di ottimo attraverso prove e osservazioni controllate (variazione di un fattore alla volta)» (slide 3). La docente: «Sono questi tre, quindi il determinismo, la scomponibilità e la sperimentazione» ([00:02:56]). ⚠️ La **simulazione** non è di Taylor: sta con l'osservazione e la sperimentazione nella decisione come sistema induttivo di Simon (slide 10).
+**Opzione:** Il determinismo, la scomponibilità, la sperimentazione.
+**Distrattori:**
+- Il determinismo, la scomponibilità, la simulazione.
+- Clienti, Concorrenza, Cambiamento.
+- Tradizionale, legale - razionale, carismatica.
+
+**D:** ⚠️ Come si chiama la caratteristica del metodo scientifico di Taylor definita come «il convincimento che ogni fenomeno reale (e quindi anche ogni risultato produttivo) è funzione ed esprimibile in termini matematici», secondo la slide 3 della lezione 17?
+**R:** «**Il determinismo**» (slide 3): la prima delle tre caratteristiche del metodo scientifico. La docente: «il determinismo oppure il convincimento che ogni fenomeno reale è funzionale, è esprimibile in termini matematici», una relazione «molto determinata» fra le variabili, «tra causa e effetto» ([00:03:03]–[00:03:18]). ⚠️ La **scomponibilità** divide ogni problema nelle sue parti elementari, la **sperimentazione** individua i punti di ottimo con prove e osservazioni controllate.
+**Opzione:** Il determinismo.
+**Distrattori:**
+- La scomponibilità.
+- La sperimentazione.
+
+**D:** ⚠️ Quali sono i 4 principi dell'organizzazione scientifica del lavoro, secondo la slide 4 della lezione 17?
+**R:** «4 principi dell'organizzazione scientifica del lavoro: • Lo **sviluppo della scienza** • La **selezione e l'addestramento scientifico** dei lavoratori e il loro **progressivo sviluppo** • **Mettere insieme** la scienza e i lavoratori scientificamente selezionati e addestrati • **Intima, cordiale e costante collaborazione** tra direzione e lavoratori» (slide 4). La docente sottolinea lo sviluppo formativo e delle competenze dei lavoratori ([00:04:55]); sull'ultimo principio aggiunge «la divisione delle responsabilità e dell'organizzazione abbastanza verticalizzata», con capi e subordinati ([00:05:34]–[00:05:58]). ⚠️ Nella slide l'ultimo principio è una **collaborazione** tra direzione e lavoratori, non una separazione gerarchica.
+**Opzione:** Lo sviluppo della scienza; la selezione e l'addestramento scientifico dei lavoratori e il loro progressivo sviluppo; mettere insieme la scienza e i lavoratori scientificamente selezionati e addestrati; intima, cordiale e costante collaborazione tra direzione e lavoratori.
+**Distrattori:**
+- Lo sviluppo della scienza; la selezione e l'addestramento scientifico dei lavoratori e il loro progressivo sviluppo; mettere insieme la scienza e i lavoratori scientificamente selezionati e addestrati; rigida separazione gerarchica tra direzione e lavoratori.
+- Un approccio più strutturato e controllato che alterna momenti di reingegnerizzazione radicale con fasi di controllo e miglioramento continuo.
+- I livelli possano essere distintamente identificati ed associati con specifici sistemi esistenti; i livelli non si escludono a vicenda; ogni livello superiore incorpora le caratteristiche di quelli inferiori.
+
+**D:** ⚠️ Quale studioso ha basato il metodo organizzativo sull'importanza della funzione direzionale accanto alle più tradizionali funzioni e ne ha sottolineato il carattere universale e diffuso, secondo il test della lezione 17 (domanda 3)?
+**R:** «**Fayol**». È il primo punto della slide 5, «2 - I principi di amministrazione di Fayol»: «L'importanza della funzione direzionale accanto alle più tradizionali funzioni, in particolare quelle tecniche, e il suo carattere universale e diffuso». La docente: accanto alle funzioni «c'è la direzione generale che in qualche modo coordina, prescrive l'andamento delle attività organizzative» ([00:05:58]–[00:06:44]). ⚠️ La domanda toglie «in particolare quelle tecniche». La batteria è la stessa delle domande 2 e 5. Distrattori del test: «Taylor», «Weber», «Simon».
+**Opzione:** Fayol.
+**Distrattori:**
+- Taylor.
+- Weber.
+- Simon.
+
+**D:** ⚠️ Quali sono i tre punti dei principi di amministrazione di Fayol, secondo la slide 5 della lezione 17?
+**R:** «2 - I principi di amministrazione di Fayol • L'**importanza della funzione direzionale** accanto alle più tradizionali funzioni, in particolare quelle tecniche, e il suo **carattere universale e diffuso**; • L'**apprendibilità** delle capacità richieste per un efficace assolvimento della funzione direzionale attraverso **programmi di insegnamento formali**; • La necessità di elaborare **una dottrina o un codice direzionale**» (slide 5). La docente: la direzione generale coordina e prescrive accanto alle funzioni; le capacità si sviluppano «con quei corsi di formazione»; lo studio poggia sulle competenze «soprattutto al livello più alto dell'organizzazione» ([00:05:58]–[00:07:26]). ⚠️ Il carattere della funzione direzionale è **universale e diffuso** (domanda 3 del test), e le capacità **si apprendono**.
+**Opzione:** L'importanza della funzione direzionale accanto alle più tradizionali funzioni, in particolare quelle tecniche, e il suo carattere universale e diffuso; l'apprendibilità delle capacità richieste per un efficace assolvimento della funzione direzionale attraverso programmi di insegnamento formali; la necessità di elaborare una dottrina o un codice direzionale.
+**Distrattori:**
+- L'importanza della funzione direzionale accanto alle più tradizionali funzioni, in particolare quelle tecniche, e il suo carattere specifico e circoscritto; l'apprendibilità delle capacità richieste per un efficace assolvimento della funzione direzionale attraverso programmi di insegnamento formali; la necessità di elaborare una dottrina o un codice direzionale.
+- I livelli possano essere distintamente identificati ed associati con specifici sistemi esistenti; i livelli non si escludono a vicenda; ogni livello superiore incorpora le caratteristiche di quelli inferiori.
+- Uomo economico: motivato dall'interesse egoistico ed informato su tutte le alternative disponibili; uomo amministrativo: cerca soluzioni adeguate, anziché ottimali.
+
+**D:** ⚠️ Quali sono, nell'ordine, i principi dell'organizzazione di Fayol (principi generali di direzione), secondo la slide 6 della lezione 17?
+**R:** «I principi dell'Organizzazione di Fayol (principi generali di Direzione): • Ripartizione del lavoro • Autorità e responsabilità • Disciplina • Unità di comando e unità di direzione • Subordinazione degli interessi particolari all'interesse generale • Retribuzione del personale • Centralizzazione • Gerarchia • Ordine • Equità • Stabilità del personale • Iniziativa • Unione del personale» (slide 6). Sono **13** voci: «Unità di comando e unità di direzione» è una sola. La docente commenta la ripartizione come responsabilità ben definite per ogni ruolo e la retribuzione come ricompensa per il contributo; con la stabilità il turnover va tenuto «più basso possibile» ([00:07:26]–[00:09:25]). ⚠️ L'elenco si chiude con l'**unione del personale**; la **specializzazione dei compiti** è della burocrazia di Weber (slide 8).
+**Opzione:** Ripartizione del lavoro; autorità e responsabilità; disciplina; unità di comando e unità di direzione; subordinazione degli interessi particolari all'interesse generale; retribuzione del personale; centralizzazione; gerarchia; ordine; equità; stabilità del personale; iniziativa; unione del personale.
+**Distrattori:**
+- Ripartizione del lavoro; autorità e responsabilità; disciplina; unità di comando e unità di direzione; subordinazione degli interessi particolari all'interesse generale; retribuzione del personale; centralizzazione; gerarchia; ordine; equità; stabilità del personale; iniziativa; specializzazione dei compiti.
+- Automazione; informational; sequential; tracciamento; supporto analitico; supporto geografico; integrazione; intellettuale; disintermediazione.
+- La teoria generalista, che propone il Business Process Improvement, contrapposta alla teoria radicale di Hammer.
+
+**D:** ⚠️ Quale tra tradizionale, razionale, carismatica e innovativa non fa parte dei 3 tipi di autorità definiti da Weber, secondo il test della lezione 17 (domanda 4)?
+**R:** «**Innovativa**». La slide 7 dice: «La distinzione tra i 3 tipi di autorità (tradizionale, legale - razionale, carismatica)». La docente: «l'autorità tradizionale, legale o razionale e autorità carismatica» ([00:09:57]). L'autorità «innovativa» non compare nello strato di testo dei 30 deck né nei 22 transcript disponibili; «innovativo/innovativa» era già un distrattore inventato nei test 12 e 13. ⚠️ La domanda è **negativa**. «Razionale» non è testuale: è metà del secondo tipo, «legale - razionale», che resta uno dei tre. Distrattori del test: «tradizionale», «razionale», «carismatica».
+**Opzione:** Innovativa.
+**Distrattori:**
+- Tradizionale.
+- Razionale.
+- Carismatica.
+
+**D:** ⚠️ Quali sono i 3 tipi di autorità distinti da Weber, secondo la slide 7 della lezione 17?
+**R:** «La distinzione tra i 3 tipi di autorità (**tradizionale, legale - razionale, carismatica**)» (slide 7). La docente: come nelle prime due teorie c'è l'importanza della direzione, «però Weber distingue tra tre tipologie di autorità. l'autorità tradizionale, legale o razionale e autorità carismatica» ([00:09:38]–[00:10:03]). ⚠️ Il secondo tipo è **uno solo**, «legale - razionale». La **burocrazia** non è un tipo di autorità: è «un tipo particolare di struttura amministrativa».
+**Opzione:** Tradizionale, legale - razionale, carismatica.
+**Distrattori:**
+- Tradizionale, legale - razionale, burocratica.
+- Il determinismo, la scomponibilità, la sperimentazione.
+- Clienti, Concorrenza, Cambiamento.
+
+**D:** ⚠️ Da che cosa è caratterizzata la burocrazia, «tipo particolare di struttura amministrativa», secondo la slide 7 della lezione 17?
+**R:** «La burocrazia è un tipo particolare di struttura amministrativa caratterizzata da: • Stabile divisione del lavoro tra i partecipanti; • Gerarchia di uffici; • Norme generali che governano l'attività; • **Separazione** tra proprietà (e diritti) dell'ufficio e quelli personali; • Selezione del personale in base alle **qualificazioni tecniche**; • Impiego visto dai partecipanti come **progressione di carriera**» (slide 7). Per la docente si parla «soprattutto di hard skills», e Weber è fra i primi a parlare dell'avanzamento di carriera ([00:10:03]–[00:11:02]). ⚠️ Proprietà e diritti dell'ufficio sono **separati** da quelli personali.
+**Opzione:** Stabile divisione del lavoro tra i partecipanti; gerarchia di uffici; norme generali che governano l'attività; separazione tra proprietà (e diritti) dell'ufficio e quelli personali; selezione del personale in base alle qualificazioni tecniche; impiego visto dai partecipanti come progressione di carriera.
+**Distrattori:**
+- Stabile divisione del lavoro tra i partecipanti; gerarchia di uffici; norme generali che governano l'attività; coincidenza tra proprietà (e diritti) dell'ufficio e quelli personali; selezione del personale in base alle qualificazioni tecniche; impiego visto dai partecipanti come progressione di carriera.
+- La possibilità e l'importanza di dividere ogni problema nelle sue parti elementari per arrivare alla soluzione del problema complessivo per successive aggregazioni delle soluzioni parziali.
+- L'organizzazione scientifica del lavoro di Frederick Winslow Taylor; i principi di amministrazione di Henry Fayol; la teoria della burocrazia di Max Weber; la teoria del comportamento amministrativo di Herbert Simon.
+
+**D:** ⚠️ Per che cosa si caratterizza la burocrazia, secondo i principi fondamentali evidenziati da Weber nella slide 8 della lezione 17?
+**R:** «2) La burocrazia si caratterizza per: • **gerarchia dell'autorità ben definita** ; • **specializzazione dei compiti**; • funzionamento basato su **regole e procedure formali**» (slide 8). Il primo principio è lo studio delle relazioni di potere, che si concentra «sul potere; sulla legittimazione; sull'autorità». Per la docente il secondo è «più o meno insomma il tratto anche comune per tutte le tre teorie di cui abbiamo parlato finora» ([00:11:06]–[00:11:57]). ⚠️ Regole e procedure **formali**, non accordi informali.
+**Opzione:** Gerarchia dell'autorità ben definita; specializzazione dei compiti; funzionamento basato su regole e procedure formali.
+**Distrattori:**
+- Gerarchia dell'autorità ben definita; specializzazione dei compiti; funzionamento basato su relazioni e accordi informali.
+- Programmabili: un algoritmo per ridurre la discrezionalità ed eliminare l'incertezza; non programmabili: implicano una scelta.
+- Facilitando i processi razionali di decisione e rendendo disponibili i mezzi necessari per assolvere questi compiti.
+
+**D:** ⚠️ La teoria di quale studioso è basata sul principio di razionalità limitata, secondo il test della lezione 17 (domanda 5)?
+**R:** «**Simon**». La slide 9, «4 - La teoria del comportamento amministrativo di Simon», dice: «Principio di razionalità limitata (l'uomo è intenzionalmente razionale perché ha dei limiti cognitivi, computazionali e revisionali)». La docente: «secondo Simon invece l'uomo è intenzionalmente razionale perché ha dei limiti cognitivi, computazionali e revisionali» ([00:13:17]). ⚠️ La razionalità limitata sta nella slide, non solo nel transcript. Taylor ha il metodo scientifico fondato sul determinismo (slide 3), Fayol la funzione direzionale, Weber l'autorità e la burocrazia. Distrattori del test: «Taylor», «Fayol», «Weber».
+**Opzione:** Simon.
+**Distrattori:**
+- Taylor.
+- Fayol.
+- Weber.
+
+**D:** ⚠️ Come contrappone Simon l'uomo economico all'uomo amministrativo, secondo la slide 9 della lezione 17?
+**R:** «"Uomo economico" - motivato dall'**interesse egoistico** ed **informato su tutte le alternative** disponibili VS "uomo amministrativo" - cerca soluzioni **adeguate, anziché ottimali**» (slide 9). La docente: l'uomo economico sceglie l'alternativa «più vicina al proprio interesse personale»; l'uomo amministrativo «pensa non soltanto al proprio interesse personale ma anche all'interesse generale dell'organizzazione» e cerca un'alternativa adeguata «e non ottimale» ([00:11:57]–[00:12:45]). ⚠️ L'uomo amministrativo cerca l'**adeguato**; l'ottimo e l'informazione completa sono dell'uomo economico.
+**Opzione:** Uomo economico: motivato dall'interesse egoistico ed informato su tutte le alternative disponibili; uomo amministrativo: cerca soluzioni adeguate, anziché ottimali.
+**Distrattori:**
+- Uomo economico: motivato dall'interesse egoistico ed informato su tutte le alternative disponibili; uomo amministrativo: cerca soluzioni ottimali, anziché adeguate.
+- Taylor: approccio pragmatico; Fayol: approccio prescrittivo; Weber e Simon: approccio descrittivo; Taylor e Simon: approccio socio-psicologico; Fayol e Weber: attenzione sul livello strutturale.
+- Da un insieme o combinazione di parti i cui rapporti reciproci sono tali da renderle interdipendenti.
+
+**D:** ⚠️ Che cosa afferma il principio di razionalità limitata di Simon, secondo la slide 9 della lezione 17?
+**R:** «Principio di razionalità limitata (l'uomo è **intenzionalmente razionale** perché ha dei **limiti cognitivi, computazionali e revisionali**)» (slide 9, «revisionali» così anche nel transcript). La docente: ognuno ha la razionalità limitata, e per superare questo limite l'organizzazione deve mettere a disposizione della persona «tutto il necessario per riuscire a fare una scelta adatta, una scelta adeguata» ([00:13:17]–[00:13:51]). ⚠️ I limiti ci **sono**, e sono tre: cognitivi, computazionali e revisionali. Nella lezione 11 la *bounded rationality* aveva un'altra terna (informazioni, limiti cognitivi, tempo).
+**Opzione:** L'uomo è intenzionalmente razionale perché ha dei limiti cognitivi, computazionali e revisionali.
+**Distrattori:**
+- L'uomo è intenzionalmente razionale perché non ha limiti cognitivi, computazionali e revisionali.
+- L'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficienza.
+- Il convincimento che ogni fenomeno reale (e quindi anche ogni risultato produttivo) è funzione ed esprimibile in termini matematici.
+
+**D:** ⚠️ Che cosa distingue le decisioni programmabili da quelle non programmabili, secondo la slide 9 della lezione 17?
+**R:** «• Si individuano le decisioni **programmabili** (**un algoritmo** per ridurre la discrezionalità ed eliminare l'incertezza); • Si individuano le decisioni **non programmabili** (**implicano una scelta**). • Definizione dei criteri di scelta per **delegare** la decisione ai livelli più operativi» (slide 9). La docente: l'algoritmo serve perché le organizzazioni operano in un ambiente «molto incerto, molto variabile, molto dinamico»; le scelte programmate possono essere seguite anche dai membri dei livelli organizzativi più bassi ([00:14:37]–[00:16:02]). ⚠️ L'algoritmo è delle **programmabili**, la scelta delle **non programmabili**.
+**Opzione:** Programmabili: un algoritmo per ridurre la discrezionalità ed eliminare l'incertezza; non programmabili: implicano una scelta.
+**Distrattori:**
+- Programmabili: implicano una scelta; non programmabili: un algoritmo per ridurre la discrezionalità ed eliminare l'incertezza.
+- Gerarchia dell'autorità ben definita; specializzazione dei compiti; funzionamento basato su regole e procedure formali.
+- La teoria generalista, che propone il Business Process Improvement, contrapposta alla teoria radicale di Hammer.
+
+**D:** ⚠️ Quali sono i principi di funzionamento della teoria di Simon, secondo la slide 10 della lezione 17?
+**R:** «Principi di funzionamento: • La decisione come **processo** non come fatto puntuale • La decisione come **sistema induttivo**: parte dall'osservazione, dalla sperimentazione e dalla simulazione. • Il comportamento degli individui è programmato da **procedure operative ed euristiche** • L'**equilibrio tra incentivi e contributi** come principio generale di funzionamento di un'organizzazione» (slide 10). La docente: il processo decisionale va gestito «come un processo cognitivo, come un processo di scelta»; per l'equilibrio bisogna capire ogni membro dell'organizzazione «per riuscire a incentivare il partecipante» ([00:16:02]–[00:17:05]). ⚠️ Il principio generale è l'equilibrio tra **incentivi e contributi**: «autorità e responsabilità» è una voce dei principi di Fayol (slide 6).
+**Opzione:** La decisione come processo non come fatto puntuale; la decisione come sistema induttivo: parte dall'osservazione, dalla sperimentazione e dalla simulazione; il comportamento degli individui è programmato da procedure operative ed euristiche; l'equilibrio tra incentivi e contributi come principio generale di funzionamento di un'organizzazione.
+**Distrattori:**
+- La decisione come processo non come fatto puntuale; la decisione come sistema induttivo: parte dall'osservazione, dalla sperimentazione e dalla simulazione; il comportamento degli individui è programmato da procedure operative ed euristiche; l'equilibrio tra autorità e responsabilità come principio generale di funzionamento di un'organizzazione.
+- Il ridisegno radicale dei processi aziendali finalizzato alla realizzazione di miglioramenti straordinari nei parametri critici delle prestazioni (costi, qualità, servizio e rapidità).
+- Argyris, Herzberg e Likert, Maslow: l'uomo viene studiato nella sua complessità affettiva e relazionale, nelle sue motivazioni determinate da bisogni fisici, psicologici e sociali.
+
+**D:** ⚠️ Quali differenze e somiglianze fra le teorie della prospettiva razionale indica la slide 11 della lezione 17?
+**R:** «• **Taylor** - approccio **pragmatico** • **Fayol** - approccio **prescrittivo** • **Weber e Simon** - approccio **descrittivo** • **Taylor e Simon** – approccio **socio-psicologico** • **Fayol e Weber** - attenzione sul **livello strutturale**» (slide 11). La docente: Fayol prescrive dall'alto, dal top management ([00:17:25]); Weber e Simon «descrivono il processo decisionale, il processo cognitivo» ([00:17:41]); Taylor e Simon cercano di capire la persona che esegue i compiti ([00:17:55]); Fayol e Weber prescindono dall'importanza dell'essere umano ([00:18:27]). ⚠️ **Prescrittivo** è Fayol, **descrittivo** sono Weber e Simon: le due parole differiscono per due lettere.
+**Opzione:** Taylor: approccio pragmatico; Fayol: approccio prescrittivo; Weber e Simon: approccio descrittivo; Taylor e Simon: approccio socio-psicologico; Fayol e Weber: attenzione sul livello strutturale.
+**Distrattori:**
+- Taylor: approccio pragmatico; Fayol: approccio descrittivo; Weber e Simon: approccio prescrittivo; Taylor e Simon: approccio socio-psicologico; Fayol e Weber: attenzione sul livello strutturale.
+- L'organizzazione scientifica del lavoro di Frederick Winslow Taylor; i principi di amministrazione di Henry Fayol; la teoria della burocrazia di Max Weber; la teoria del comportamento amministrativo di Herbert Simon.
+- Uomo economico: motivato dall'interesse egoistico ed informato su tutte le alternative disponibili; uomo amministrativo: cerca soluzioni adeguate, anziché ottimali.
+
+**D:** ⚠️ Quali due autori accomuna l'approccio socio-psicologico, secondo la slide 11 della lezione 17?
+**R:** «**Taylor e Simon** – approccio socio-psicologico» (slide 11). La docente: sono i modelli «che per primi forse iniziano a studiare non soltanto il sistema, l'organizzazione come il sistema ma anche cercano di capire la persona che va a eseguire alcuni compiti», con il processo cognitivo e la razionalità limitata ([00:17:55]–[00:18:27]). ⚠️ **Fayol e Weber** sono la coppia del livello strutturale, **Weber e Simon** quella dell'approccio descrittivo. Nella lezione 01 il management scientifico di Taylor era quello in cui «non si considera l'umanità del lavoro» (slide 14 di quel deck).
+**Opzione:** Taylor e Simon.
+**Distrattori:**
+- Weber e Simon.
+- Fayol e Weber.
+
+**D:** ⚠️ Che cosa sostiene la scuola delle relazioni umane di Elton Mayo, secondo la slide 12 della lezione 17?
+**R:** «La scuola delle relazioni umane di *Elton Mayo* • L'organizzazione **non è solo una macchina** mossa dalla razionalità economica; • L'uomo all'interno dell'organizzazione come **componente determinante** dell'azione organizzativa; • La componente umana come **variabile indipendente** per l'elaborazione di nuovi modelli organizzativi e di direzione» (slide 12). La docente: la razionalità economica è il raggiungimento dello scopo dell'efficienza e della produttività, mentre «dobbiamo sicuramente studiare la personalità, la persona» ([00:19:26]–[00:20:19]). ⚠️ La componente umana è variabile **indipendente**, non dipendente.
+**Opzione:** L'organizzazione non è solo una macchina mossa dalla razionalità economica; l'uomo all'interno dell'organizzazione come componente determinante dell'azione organizzativa; la componente umana come variabile indipendente per l'elaborazione di nuovi modelli organizzativi e di direzione.
+**Distrattori:**
+- L'organizzazione non è solo una macchina mossa dalla razionalità economica; l'uomo all'interno dell'organizzazione come componente determinante dell'azione organizzativa; la componente umana come variabile dipendente per l'elaborazione di nuovi modelli organizzativi e di direzione.
+- L'individuazione delle funzioni e dei relativi punti di ottimo attraverso prove e osservazioni controllate (variazione di un fattore alla volta).
+- L'interdipendenza tra organizzazione e ambiente; l'ambiente come la sorgente originaria di materie prime, energie e informazioni: tutte risorse vitali per la sopravvivenza del sistema.
+
+**D:** ⚠️ Quali autori cita la slide 12 della lezione 17 per le teorie motivazionali, e come vi viene studiato l'uomo?
+**R:** «Teorie motivazionali (*Argyris, Herzberg e Likert, Maslow*) • L'uomo viene studiato nella sua **complessità affettiva e relazionale**, nelle sue motivazioni determinate da **bisogni fisici, psicologici e sociali**» (slide 12). La docente aggiunge i bisogni «di autostima di autorealizzazione» e conclude che per incentivare la persona bisogna studiarne le motivazioni ([00:20:19]–[00:21:21]). ⚠️ **Mayo** non è fra i nomi delle teorie motivazionali: nella stessa slide ha la sua riga, la scuola delle relazioni umane.
+**Opzione:** Argyris, Herzberg e Likert, Maslow: l'uomo viene studiato nella sua complessità affettiva e relazionale, nelle sue motivazioni determinate da bisogni fisici, psicologici e sociali.
+**Distrattori:**
+- Argyris, Herzberg e Likert, Mayo: l'uomo viene studiato nella sua complessità affettiva e relazionale, nelle sue motivazioni determinate da bisogni fisici, psicologici e sociali.
+- L'uomo è intenzionalmente razionale perché ha dei limiti cognitivi, computazionali e revisionali.
+- L'equilibrio tra incentivi e contributi come principio generale di funzionamento di un'organizzazione.
+
+**D:** ⚠️ In quale prospettiva di studio dell'organizzazione colloca la lezione 17 la scuola delle relazioni umane di Elton Mayo e le teorie motivazionali?
+**R:** Nella «**prospettiva di sistema NATURALE**» (slide 12), per cui «Le organizzazioni sono collettività» e si studiano «le complesse interconnessioni esistenti tra le strutture normative e comportamentali delle organizzazioni». La docente: gli studiosi parlano delle organizzazioni «come di collettività, come gruppi, come le relazioni e le interazioni tra esseri umani» ([00:18:47]–[00:19:26]). ⚠️ La prospettiva **razionale** è quella di Taylor, Fayol, Weber e Simon (slide 2–11); quella **aperta** è quella di Boulding e Buckley (slide 13–16).
+**Opzione:** Prospettiva di sistema naturale.
+**Distrattori:**
+- Prospettiva di sistema razionale.
+- Prospettiva di sistema aperto.
+
+**D:** ⚠️ Come sono caratterizzati i sistemi nella prospettiva di sistema aperto, secondo la slide 13 della lezione 17?
+**R:** «I sistemi sono caratterizzati da un insieme o combinazione di parti i cui rapporti reciproci sono tali da renderle **interdipendenti**» (slide 13). La docente dice prima «tali da renderli indipendenti» e «queste parti ovviamente indipendenti», poi «diventano interdipendenti tra loro»: bisogna considerare la performance di ogni parte e capire come interagiscono ([00:21:27]–[00:21:55]). ⚠️ Nelle opzioni vale la slide: **interdipendenti**.
+**Opzione:** Da un insieme o combinazione di parti i cui rapporti reciproci sono tali da renderle interdipendenti.
+**Distrattori:**
+- Da un insieme o combinazione di parti i cui rapporti reciproci sono tali da renderle indipendenti.
+- L'organizzazione delle azioni in modo tale da realizzare i fini predeterminati con il massimo di efficienza.
+- Programmabili: un algoritmo per ridurre la discrezionalità ed eliminare l'incertezza; non programmabili: implicano una scelta.
+
+**D:** ⚠️ Quali sono, nell'ordine di complessità, i livelli della classificazione dei sistemi di Boulding (1956), secondo le slide 13 e 14 della lezione 17?
+**R:** «Classificazione dei sistemi a seconda del livello di complessità (Boulding, 1956)»: **schemi** (strutture statiche, es. la disposizione degli atomi in un cristallo), **meccanismi** (sistemi dinamici semplici con moto predeterminato, es. orologio), **sistemi cibernetici** (autoregolazione secondo un obiettivo prescritto dall'esterno, es. un termostato), **sistemi aperti** (automantenimento sulla base dell'utilizzo di risorse ambientali, es. una cellula), **sistemi a crescita programmata** (es. il sistema uovo-gallina); poi, nella slide 14, **sistemi ad immagine interna**, **sistemi che trattano simboli**, **sistemi sociali** (es. le organizzazioni sociali), **sistemi trascendentali**. La docente chiama la crescita programmata «l'ultimo livello» ([00:23:43]), ma la slide 14 ne aggiunge altri quattro, che lei nomina e rinvia a un documento allegato ([00:24:38]–[00:25:09]). ⚠️ I sistemi **cibernetici** vengono **prima** dei sistemi **aperti**.
+**Opzione:** Schemi; meccanismi; sistemi cibernetici; sistemi aperti; sistemi a crescita programmata; sistemi ad immagine interna; sistemi che trattano simboli; sistemi sociali; sistemi trascendentali.
+**Distrattori:**
+- Schemi; meccanismi; sistemi aperti; sistemi cibernetici; sistemi a crescita programmata; sistemi ad immagine interna; sistemi che trattano simboli; sistemi sociali; sistemi trascendentali.
+- Automazione; informational; sequential; tracciamento; supporto analitico; supporto geografico; integrazione; intellettuale; disintermediazione.
+- Taylor: approccio pragmatico; Fayol: approccio prescrittivo; Weber e Simon: approccio descrittivo; Taylor e Simon: approccio socio-psicologico; Fayol e Weber: attenzione sul livello strutturale.
+
+**D:** ⚠️ Che cosa conclude la slide 14 della lezione 17 sui livelli della classificazione di Boulding?
+**R:** «• I livelli possano essere **distintamente identificati** ed associati con specifici sistemi esistenti • I livelli **non si escludono a vicenda**. • Ogni livello **superiore incorpora** le caratteristiche di quelli **inferiori**» (slide 14, «possano» così, dopo la freccia). La docente: i livelli «possono coesistere all'interno dello stesso sistema» ([00:25:09]–[00:25:37]). ⚠️ I livelli **non** si escludono, ed è il superiore a incorporare l'inferiore.
+**Opzione:** I livelli possano essere distintamente identificati ed associati con specifici sistemi esistenti; i livelli non si escludono a vicenda; ogni livello superiore incorpora le caratteristiche di quelli inferiori.
+**Distrattori:**
+- I livelli possano essere distintamente identificati ed associati con specifici sistemi esistenti; i livelli si escludono a vicenda; ogni livello superiore incorpora le caratteristiche di quelli inferiori.
+- Non alla scelta dei fini, bensì alla loro realizzazione (implementation).
+- Un approccio più strutturato e controllato che alterna momenti di reingegnerizzazione radicale con fasi di controllo e miglioramento continuo.
+
+**D:** ⚠️ Come si presenta la struttura organizzativa come sistema aperto, secondo i quattro punti della slide 15 della lezione 17?
+**R:** «Struttura organizzativa come sistema aperto: • La **complessità e la variabilità** delle componenti individuali e la **mancanza di rigide connessioni** tra componenti. • Le singole parti sono viste come capaci di **azione semiautonoma**; • Le parti sono collegate da **legami non rigidi**. • Nelle organizzazioni umane **il sistema è multicefalo**» (slide 15). La docente: le connessioni non sono rigide perché le componenti possono cambiare durante il compito; l'azione è semiautonoma perché in parte la predefinisce un meccanismo o un algoritmo, in parte c'è una componente decisionale; i legami permettono di interagire «non soltanto formale ma anche informale» ([00:25:55]–[00:26:49]). ⚠️ Il sistema è **multicefalo**: molte persone ricevono informazioni, decidono e dirigono il lavoro.
+**Opzione:** La complessità e la variabilità delle componenti individuali e la mancanza di rigide connessioni tra componenti; le singole parti sono viste come capaci di azione semiautonoma; le parti sono collegate da legami non rigidi; nelle organizzazioni umane il sistema è multicefalo.
+**Distrattori:**
+- La complessità e la variabilità delle componenti individuali e la mancanza di rigide connessioni tra componenti; le singole parti sono viste come capaci di azione semiautonoma; le parti sono collegate da legami non rigidi; nelle organizzazioni umane il sistema è monocefalo.
+- Argyris, Herzberg e Likert, Maslow: l'uomo viene studiato nella sua complessità affettiva e relazionale, nelle sue motivazioni determinate da bisogni fisici, psicologici e sociali.
+- Le organizzazioni sono collettività; lo studio delle complesse interconnessioni esistenti tra le strutture normative e comportamentali delle organizzazioni.
+
+**D:** ⚠️ Che cosa comporta il sistema multicefalo nelle organizzazioni umane, secondo la slide 15 della lezione 17?
+**R:** «Nelle organizzazioni umane il sistema è multicefalo: • molte persone ricevono informazioni, prendono decisioni, dirigono il lavoro; • individui e sottogruppi **formano ed abbandonano coalizioni**; • il coordinamento ed il controllo **divengono problematici**. • i confini dei sistemi vengono visti come **amorfi**; • la definizione di soggetti o azioni sembra **arbitraria** e spesso varia a seconda di quali aspetti del funzionamento del sistema vengano esaminati» (slide 15). L'esempio della docente: un giorno una persona lavora in un gruppo, il giorno dopo in autonomia o per un altro progetto; il coordinamento diventa problematico «visto che c'è questo cambiamento continuo», e i confini sono «poco definibili» ([00:26:49]–[00:28:14]). ⚠️ Coordinamento e controllo diventano **problematici**, non più semplici.
+**Opzione:** Molte persone ricevono informazioni, prendono decisioni, dirigono il lavoro; individui e sottogruppi formano ed abbandonano coalizioni; il coordinamento ed il controllo divengono problematici; i confini dei sistemi vengono visti come amorfi; la definizione di soggetti o azioni sembra arbitraria e spesso varia a seconda di quali aspetti del funzionamento del sistema vengano esaminati.
+**Distrattori:**
+- Molte persone ricevono informazioni, prendono decisioni, dirigono il lavoro; individui e sottogruppi formano ed abbandonano coalizioni; il coordinamento ed il controllo divengono più semplici; i confini dei sistemi vengono visti come amorfi; la definizione di soggetti o azioni sembra arbitraria e spesso varia a seconda di quali aspetti del funzionamento del sistema vengano esaminati.
+- Nasce il 20 marzo 1856 a Filadelfia (fine della prima rivoluzione industriale); ingegnere capo di officina; Shop management (1903) e Principles of Scientific management (1911).
+- L'interdipendenza tra organizzazione e ambiente; l'ambiente come la sorgente originaria di materie prime, energie e informazioni: tutte risorse vitali per la sopravvivenza del sistema.
+
+**D:** ⚠️ Che cosa sono i processi morfostatici e i processi morfogenetici di Buckley (1967), secondo la slide 16 della lezione 17?
+**R:** «Processi morfostatici e morfogenetici di Buckley (1967): Processi **morfostatici**: **automantenimento e stabilità** Processi **morfogenetici**: **sviluppo ed elaborazione di nuove strutture**» (slide 16). La docente: i morfogenetici «producono il cambiamento organico» e possono influire sullo sviluppo di elementi nuovi dello stesso sistema ([00:28:14]–[00:28:50]). ⚠️ I morfo**statici** mantengono e stabilizzano, i morfo**genetici** sviluppano nuove strutture. Anche i sistemi aperti di Boulding sono capaci di «automantenimento» (slide 13).
+**Opzione:** Processi morfostatici: automantenimento e stabilità; processi morfogenetici: sviluppo ed elaborazione di nuove strutture.
+**Distrattori:**
+- Processi morfostatici: sviluppo ed elaborazione di nuove strutture; processi morfogenetici: automantenimento e stabilità.
+- Un insieme di attività che richiede uno o più tipi di input e crea un output che ha valore per il cliente.
+- Esperimenti volti al miglioramento dell'efficienza dei processi produttivi e dell'attenuazione dei conflitti tra operai e datori di lavoro.
+
+**D:** ⚠️ Quali conseguenze trae la slide 16 della lezione 17 dai processi morfostatici e morfogenetici?
+**R:** «• Una **visione processuale** non solo delle operazioni interne alle organizzazioni, ma dell'organizzazione come **sistema duraturo**. • L'organizzazione come assetto di regole e rapporti **non è la stessa nel tempo** • **Sopravvivere significa adattarsi e cambiare** -> l'organizzazione come **sistema dinamico**» (slide 16, dopo la prima freccia). La docente richiama la sostenibilità a lungo termine; le regole e le procedure si definiscono dall'alto, ma possono variare durante la performance, e qui «emerge l'importanza» del cambiamento e della trasformazione organizzativa ([00:28:50]–[00:29:46]). Dopo la seconda freccia vengono l'interdipendenza tra organizzazione e ambiente e l'ambiente come «sorgente originaria di materie prime, energie e informazioni: tutte risorse vitali per la sopravvivenza del sistema». ⚠️ L'assetto di regole e rapporti **non** è lo stesso nel tempo.
+**Opzione:** Una visione processuale non solo delle operazioni interne alle organizzazioni, ma dell'organizzazione come sistema duraturo; l'organizzazione come assetto di regole e rapporti non è la stessa nel tempo; sopravvivere significa adattarsi e cambiare -> l'organizzazione come sistema dinamico.
+**Distrattori:**
+- Una visione processuale non solo delle operazioni interne alle organizzazioni, ma dell'organizzazione come sistema duraturo; l'organizzazione come assetto di regole e rapporti è la stessa nel tempo; sopravvivere significa adattarsi e cambiare -> l'organizzazione come sistema dinamico.
+- Nasce il 20 marzo 1856 a Filadelfia (fine della prima rivoluzione industriale); ingegnere capo di officina; Shop management (1903) e Principles of Scientific management (1911).
+- Le organizzazioni sono collettività; lo studio delle complesse interconnessioni esistenti tra le strutture normative e comportamentali delle organizzazioni.
+
+**D:** ⚠️ Da quali 3 forze («3 C») è dominato il mondo economico secondo Hammer & Champy, nella slide 17 della lezione 17?
+**R:** «Il mondo economico è dominato dalle **3 forze ("3 C"): Clienti, Concorrenza, Cambiamento**» (slide 17, in grassetto). La docente: è una teoria «sicuramente più recente»; ne segue che le aziende devono organizzare la loro attività secondo «processi», e «ci stiamo avvicinando» al business process management ([00:30:21]–[00:30:53]). La trascrizione automatica scrive «tre sì». ⚠️ La terza C è il **Cambiamento**: i **costi** sono fra i parametri critici delle prestazioni, nella stessa slide.
+**Opzione:** Clienti, Concorrenza, Cambiamento.
+**Distrattori:**
+- Clienti, Concorrenza, Costi.
+- Il determinismo, la scomponibilità, la sperimentazione.
+- Tradizionale, legale - razionale, carismatica.
+
+**D:** ⚠️ Che cos'è il reengineering per Hammer & Champy, secondo la slide 17 della lezione 17?
+**R:** «L'esigenza di realizzare **cambiamenti radicali**: *reingeneering* o **ridisegno radicale** dei processi aziendali finalizzato alla realizzazione di **miglioramenti straordinari** nei parametri critici delle prestazioni (**costi, qualità, servizio e rapidità**)» (slide 17, «reingeneering» così). La docente parla di «rapidità di risposta data al cliente finale» e della necessità di cambiare radicalmente i processi «per riuscire a sopravvivere nell'ambiente» ([00:31:13]–[00:31:59]). ⚠️ Il ridisegno è **radicale** e i miglioramenti **straordinari**: il miglioramento **continuo** e incrementale è l'aggiunta di Davenport (slide 18).
+**Opzione:** Il ridisegno radicale dei processi aziendali finalizzato alla realizzazione di miglioramenti straordinari nei parametri critici delle prestazioni (costi, qualità, servizio e rapidità).
+**Distrattori:**
+- Il ridisegno graduale dei processi aziendali finalizzato alla realizzazione di miglioramenti continui nei parametri critici delle prestazioni (costi, qualità, servizio e rapidità).
+- Il convincimento che ogni fenomeno reale (e quindi anche ogni risultato produttivo) è funzione ed esprimibile in termini matematici.
+- La combinazione dell'approccio radicale proposto da Hammer e Champy con iniziative e metodi miranti al continuo miglioramento delle prestazioni.
+
+**D:** ⚠️ Che cos'è «il processo di business» per Hammer & Champy, secondo la slide 17 della lezione 17?
+**R:** «"Il processo di business" è un **insieme di attività** che richiede **uno o più tipi di input** e crea **un output** che ha **valore per il cliente**» (slide 17). La docente: l'organizzazione non è più solo struttura e gerarchia, ma «un insieme di processi che devono essere gestiti» per raggiungere lo scopo finale ([00:30:53]–[00:31:59]). ⚠️ Il valore è **per il cliente**.
+**Opzione:** Un insieme di attività che richiede uno o più tipi di input e crea un output che ha valore per il cliente.
+**Distrattori:**
+- Un insieme di attività che richiede uno o più tipi di input e crea un output che ha valore per l'azienda.
+- Facilitando i processi razionali di decisione e rendendo disponibili i mezzi necessari per assolvere questi compiti.
+- Sul soggetto (umano) rispetto all'astratto decisore razionale della teoria economica.
+
+**D:** ⚠️ Quali benefici portano la compressione e la delinearizzazione dei processi, secondo Hammer & Champy nella slide 17 della lezione 17?
+**R:** «Il *reingeneering* implica la ricerca di nuovi modelli del lavoro organizzato: • **Compressione** dei processi orizzontalmente e verticalmente -> benefici: **minori ritardi e costi, migliore risposta al cliente e maggiore empowerment** • **Delinearizzazione** dei processi -> benefici: **processi più veloci, svolti contemporaneamente, riduzione del tempo** tra la prima e l'ultima fase di processo, la **prevenzione dell'obsolescenza** • Un ruolo cruciale della tecnologia dell'informazione» (slide 17). La docente: l'empowerment è «maggiore motivazione, maggiore soddisfazione, maggiore produttività»; con la delinearizzazione alcuni processi si svolgono «in maniera contemporanea» ([00:31:59]–[00:33:20]). Il transcript dice «comprendere» i processi e «delineare» alcuni processi. ⚠️ L'**empowerment** è della compressione, la **contemporaneità** della delinearizzazione.
+**Opzione:** Compressione: minori ritardi e costi, migliore risposta al cliente e maggiore empowerment; delinearizzazione: processi più veloci, svolti contemporaneamente, riduzione del tempo tra la prima e l'ultima fase di processo, la prevenzione dell'obsolescenza.
+**Distrattori:**
+- Compressione: processi più veloci, svolti contemporaneamente, riduzione del tempo tra la prima e l'ultima fase di processo, la prevenzione dell'obsolescenza; delinearizzazione: minori ritardi e costi, migliore risposta al cliente e maggiore empowerment.
+- Processi morfostatici: automantenimento e stabilità; processi morfogenetici: sviluppo ed elaborazione di nuove strutture.
+- L'equilibrio tra incentivi e contributi come principio generale di funzionamento di un'organizzazione.
+
+**D:** ⚠️ Che cosa combina Davenport, secondo il primo punto della slide 18 della lezione 17?
+**R:** «La **combinazione** dell'**approccio radicale** proposto da **Hammer e Champy** con iniziative e metodi miranti al **continuo miglioramento delle prestazioni**» (slide 18). La docente: il miglioramento continuo della qualità del servizio, «in maniera anche incrementale, quindi non più soltanto radicale» ([00:33:20]–[00:33:59]). Più avanti la slide parla di un approccio «più strutturato e controllato che alterna momenti di reingegnerizzazione radicale con fasi di controllo e miglioramento continuo». ⚠️ Il **radicale** è di Hammer e Champy; Davenport vi aggiunge il **continuo**.
+**Opzione:** La combinazione dell'approccio radicale proposto da Hammer e Champy con iniziative e metodi miranti al continuo miglioramento delle prestazioni.
+**Distrattori:**
+- La combinazione dell'approccio graduale proposto da Hammer e Champy con iniziative e metodi miranti al continuo miglioramento delle prestazioni.
+- Non alla scelta dei fini, bensì alla loro realizzazione (implementation).
+- Sul potere, sulla legittimazione, sull'autorità.
+
+**D:** ⚠️ Come usa le tecnologie e come gestisce il cambiamento Davenport, secondo la slide 18 della lezione 17?
+**R:** «• Utilizzo delle tecnologie come "**fattore abilitante**" • L'**intervento tecnologico -> il cambiamento organizzativo** • La corretta gestione dei progetti di cambiamento allo scopo di **minimizzarne i rischi** • Il **coinvolgimento dei "clienti"** all'interno dei gruppi di lavoro per la reingegnerizzazione» (slide 18). La docente dice «enable technologies»; la gestione del cambiamento serve anche a «prolungare l'esistenza dell'organizzazione»; i clienti sono quelli interni, dipendenti e collaboratori, e quelli esterni ([00:33:59]–[00:35:15]). ⚠️ La tecnologia è un fattore **abilitante**, come l'*enabling technology* della lezione 08, non un fattore di sostituzione.
+**Opzione:** Utilizzo delle tecnologie come fattore abilitante; l'intervento tecnologico -> il cambiamento organizzativo; la corretta gestione dei progetti di cambiamento allo scopo di minimizzarne i rischi; il coinvolgimento dei clienti all'interno dei gruppi di lavoro per la reingegnerizzazione.
+**Distrattori:**
+- Utilizzo delle tecnologie come fattore sostitutivo; l'intervento tecnologico -> il cambiamento organizzativo; la corretta gestione dei progetti di cambiamento allo scopo di minimizzarne i rischi; il coinvolgimento dei clienti all'interno dei gruppi di lavoro per la reingegnerizzazione.
+- Gerarchia dell'autorità ben definita; specializzazione dei compiti; funzionamento basato su regole e procedure formali.
+- Il ridisegno radicale dei processi aziendali finalizzato alla realizzazione di miglioramenti straordinari nei parametri critici delle prestazioni (costi, qualità, servizio e rapidità).
+
+**D:** ⚠️ Quale teoria rappresenta Davenport, che cosa propone e a quale si contrappone, secondo la slide 18 della lezione 17?
+**R:** «La **teoria generalista** (Davenport è uno dei maggiori esponenti) che propone *il **Business Process Improvement*** è **contrapposta alla teoria radicale di Hammer**» (slide 18). La docente: «La teoria generalista quindi propone il business process improvement e contrapone con la teoria radicale di Hammer e Ciampi» ([00:35:30]). ⚠️ **Generalista** sono Davenport e l'*Improvement*; **radicale** è Hammer. La slide nomina solo Hammer, senza Champy.
+**Opzione:** La teoria generalista, che propone il Business Process Improvement, contrapposta alla teoria radicale di Hammer.
+**Distrattori:**
+- La teoria radicale, che propone il Business Process Improvement, contrapposta alla teoria generalista di Hammer.
+- Esperimenti volti al miglioramento dell'efficienza dei processi produttivi e dell'attenuazione dei conflitti tra operai e datori di lavoro.
+- Sul potere, sulla legittimazione, sull'autorità.
+
+**D:** ⚠️ Che cosa dice, alla lettera, l'ultima frase in grassetto della slide 18 della lezione 17 sull'obiettivo della teoria generalista, e che cosa le manca?
+**R:** «**L'obiettivo è più quello di riprogettare i processi partendo da zero, ma razionalizzarli e migliorarli per passi successivi.**» (slide 18). La docente la legge così com'è ([00:35:41]). Alla frase manca un «**non**»: il senso coerente con il resto della slide è «l'obiettivo **non** è più quello di riprogettare i processi partendo da zero, ma razionalizzarli e migliorarli per passi successivi». Lo dicono il «ma», la contrapposizione alla teoria **radicale** di Hammer e il miglioramento «per passi successivi». ⚠️ Se un'opzione d'esame riproduce la frase alla lettera, è la formula della slide.
+
+**D:** ⚠️ Quali sono, nell'ordine, i passi della metodologia di Reengineering di Davenport, secondo la slide 19 della lezione 17?
+**R:** «La metodologia di *Reengineering* di Davenport: • **Identificazione dei processi**; • Identificazione dei **drivers del cambiamento**; • Definizione delle **strategie di processo** (*process vision*); • **Comprensione e miglioramento** dei processi **esistenti**; • **Progettazione e realizzazione di progetti pilota** di **nuovi** processi» (slide 19). La docente: i drivers sono gli elementi che possono aiutare ad avviare il cambiamento; la *process vision* legge la performance «secondo i processi, quindi in maniera orizzontale»; il modello integra la progettazione di processi nuovi e l'*improvement* di quelli esistenti ([00:35:55]–[00:36:59]). ⚠️ L'ultimo passo sono i **progetti pilota** di nuovi processi; la compressione dei processi è di Hammer & Champy (slide 17).
+**Opzione:** Identificazione dei processi; identificazione dei drivers del cambiamento; definizione delle strategie di processo (process vision); comprensione e miglioramento dei processi esistenti; progettazione e realizzazione di progetti pilota di nuovi processi.
+**Distrattori:**
+- Identificazione dei processi; identificazione dei drivers del cambiamento; definizione delle strategie di processo (process vision); comprensione e miglioramento dei processi esistenti; compressione dei processi orizzontalmente e verticalmente.
+- La possibilità e l'importanza di dividere ogni problema nelle sue parti elementari per arrivare alla soluzione del problema complessivo per successive aggregazioni delle soluzioni parziali.
+- L'individuazione delle funzioni e dei relativi punti di ottimo attraverso prove e osservazioni controllate (variazione di un fattore alla volta).
+
+**D:** ⚠️ Quali sono, nell'ordine, le ICT come fattori abilitanti (enablers) dell'innovazione e del process reengineering, secondo la slide 20 della lezione 17?
+**R:** «Le ICT come fattori abilitanti (*enablers*) dell'innovazione e del *process reengineering*: 1. **Automazione** […] 2. ***Informational*** […] 3. ***Sequential*** […] 4. **Tracciamento** […] 5. **Supporto analitico** […] 6. **Supporto geografico** […] 7. **Integrazione** […] 8. **Intellettuale** […] 9. **Disintermediazione**: permettono di ridurre o eliminare gli intermediari di un processo» (slide 20). La docente le commenta una per una: il tracciamento «anche in tempo reale», il supporto analitico come *data analytics*, l'integrazione con l'intranet, la funzione intellettuale con il *knowledge management*, la disintermediazione che rende il processo «più trasparente, più diretto, più rapido» ([00:36:59]–[00:40:23]). ⚠️ Sono **nove**, e l'ultima è la **disintermediazione**.
+**Opzione:** Automazione; informational; sequential; tracciamento; supporto analitico; supporto geografico; integrazione; intellettuale; disintermediazione.
+**Distrattori:**
+- Automazione; informational; sequential; tracciamento; supporto analitico; supporto geografico; integrazione; intellettuale; delinearizzazione.
+- Schemi; meccanismi; sistemi cibernetici; sistemi aperti; sistemi a crescita programmata; sistemi ad immagine interna; sistemi che trattano simboli; sistemi sociali; sistemi trascendentali.
+- Compressione dei processi orizzontalmente e verticalmente; delinearizzazione dei processi; un ruolo cruciale della tecnologia dell'informazione.
+
+**D:** ⚠️ Quale delle ICT come fattori abilitanti «permettono di catturare informazioni sul processo per migliorarne la comprensione», secondo la slide 20 della lezione 17?
+**R:** «2. ***Informational***: permettono di catturare informazioni sul processo per migliorarne la comprensione» (slide 20). La docente: «le tecnologie permettono di catturare le informazioni sul processo per migliorare ovviamente la comprensione di questo processo» ([00:37:10]). ⚠️ Anche l'**intellettuale** «cattura», ma **beni intellettuali**, e li **distribuisce**; il **supporto analitico** migliora la **qualità** delle informazioni e delle decisioni.
+**Opzione:** Informational.
+**Distrattori:**
+- Intellettuale.
+- Supporto analitico.
