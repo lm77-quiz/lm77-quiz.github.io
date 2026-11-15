@@ -7455,3 +7455,1078 @@
 - Natura e numero delle famiglie; ciclo di vita delle famiglie; gestione della mobilità inter-famiglie; standardizzazione delle politiche del personale per tutte le famiglie.
 - Il management, nell'ambito delle autonomi ricevute dal vertice aziendale.
 - Area orientata all'espletamento di aspetti amministrativo-contabili; revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, non in ottica strategica; revisione dei sistemi di gestione in ottica strategica.
+
+## Lezione 25 — Evoluzione delle famiglie professionali nella banca
+
+**D:** ⚠️ Quali scelte di dimensionamento riguarda la dinamica delle famiglie professionali, secondo la slide 2 della lezione 25?
+**R:** «Scelte di dimensionamento **quantitativo** (numerosità dell'organico) e **qualitativo** (caratteristiche delle risorse umane)» (slide 2, sotto «Dinamica delle famiglie professionali»). La docente: l'ambiente è dinamico e variabile, quindi anche le famiglie professionali si devono adattare ai cambiamenti esterni; le scelte si fanno «a livello proprio di top management», di direzione della gestione delle risorse umane, «di dimensionamento quantitativo, quindi la numerosità dell'organico, ma anche dal punto di vista qualitativo. Quindi definendo le caratteristiche delle risorse umane» ([00:00:43]–[00:01:17]). ⚠️ Le parentesi non si scambiano: la **numerosità dell'organico** è il dimensionamento quantitativo, le **caratteristiche delle risorse umane** il qualitativo. La domanda 1 del test prende la coppia senza parentesi.
+**Opzione:** Scelte di dimensionamento quantitativo (numerosità dell'organico) e qualitativo (caratteristiche delle risorse umane).
+**Distrattori:**
+- Scelte di dimensionamento quantitativo (caratteristiche delle risorse umane) e qualitativo (numerosità dell'organico).
+- Da parte di grandi imprese (wholesale) – autofinanziamento o ricorso diretto al mercati dei capitale.
+- Evoluzione dei modelli organizzativi degli sportelli e al ricorso a canali alternativi; modalità di gestione delle relazioni di clientela.
+
+**D:** ⚠️ Quali sono i 2 tipi di dimensionamento che riguarda la dinamica delle famiglie professionali, secondo il test della lezione 25 (domanda 1)?
+**R:** «**Quantitativo e qualitativo**». È la slide 2 senza le parentesi: «Scelte di dimensionamento quantitativo (numerosità dell'organico) e qualitativo (caratteristiche delle risorse umane)»; la docente: «di dimensionamento quantitativo, quindi la numerosità dell'organico, ma anche dal punto di vista qualitativo» ([00:01:00]). ⚠️ I distrattori spostano parole del corso sull'oggetto sbagliato. «Innovativo e obsoleto» prende due aggettivi di questa lezione che riguardano le **famiglie**, non il dimensionamento: le «famiglie professionali innovative» della slide 8 e le famiglie che «possono diventare obsolete» per la docente ([00:02:07]). «Operativo e strategico» è la coppia della gestione del personale delle lezioni 22 e 24. «A lungo e a breve termine» non compare in questa lezione, che parla solo di «credito a medio termine» (slide 7); nella lezione 24 la gestione strategica incide sui risultati «di medio-lungo termine» (slide 3 di quel deck). Distrattori del test: «innovativo e obsoleto», «operativo e strategico», «a lungo e a breve termine».
+**Opzione:** Quantitativo e qualitativo.
+**Distrattori:**
+- Innovativo e obsoleto.
+- Operativo e strategico.
+- A lungo e a breve termine.
+
+**D:** ⚠️ Quali domande pone la dinamica delle famiglie professionali, secondo la slide 2 della lezione 25?
+**R:** «• Quali politiche avviare "oggi" per conseguire "domani" gli obiettivi di copertura di fabbisogni prospettici? • Quali sono le famiglie professionali attualmente? • Quali famiglie professionali occorre sviluppare coerentemente con la dinamica strategica e organizzativa? • Vi sono le famiglie destinate a contrarsi e a scomparire? • Quali sono le famiglie emergenti? • Come realizzare la trasformazione delle famiglie professionali attuali in quelle richieste dall'attività bancaria futura?» (slide 2). Per la docente sono le domande che si può porre la direzione della gestione delle risorse umane ([00:01:21]–[00:02:32]): bisogna valutare il mercato esterno e capire la strategia organizzativa ([00:01:52]), e la trasformazione richiama FinTech, BancaTech e il legame del settore bancario con la digitalizzazione ([00:02:40]–[00:03:05]). ⚠️ Le domande sono **sei**, e l'ultima guarda all'attività bancaria **futura**.
+**Opzione:** Quali politiche avviare "oggi" per conseguire "domani" gli obiettivi di copertura di fabbisogni prospettici? Quali sono le famiglie professionali attualmente? Quali famiglie professionali occorre sviluppare coerentemente con la dinamica strategica e organizzativa? Vi sono le famiglie destinate a contrarsi e a scomparire? Quali sono le famiglie emergenti? Come realizzare la trasformazione delle famiglie professionali attuali in quelle richieste dall'attività bancaria futura?
+**Distrattori:**
+- Quali politiche avviare "oggi" per conseguire "domani" gli obiettivi di copertura di fabbisogni prospettici? Quali sono le famiglie professionali attualmente? Quali famiglie professionali occorre sviluppare coerentemente con la dinamica strategica e organizzativa? Vi sono le famiglie destinate a contrarsi e a scomparire? Quali sono le famiglie emergenti? Come realizzare la trasformazione delle famiglie professionali attuali in quelle richieste dall'attività bancaria tradizionale?
+- Come saranno organizzati i ruoli di contatto e di gestione delle relazioni con la clientela? Quali saranno i ruoli tipici di back-office? Quali saranno i tipici ruoli manageriali ai vari livelli della struttura?
+- Nei casi di cambiamento strategico (imprimere nuovi orientamenti e comportamenti); nei casi di tensione nel clima organizzativo (recuperare la motivazione, guidare i valori e sentimenti dei singoli).
+
+**D:** ⚠️ Per la docente, quali famiglie professionali possono diventare obsolete e quali sono le famiglie emergenti (lezione 25)?
+**R:** Le **obsolete** sono le famiglie «destinate a contrarsi e a scomparire»: «ci sono le famiglie professionali che possono diventare obsolete, che non ci serviranno più in futuro». Le **emergenti** sono quelle «di cui potremmo aver bisogno nel prossimo futuro» ([00:02:07]–[00:02:24]). La slide 2 ha solo le due domande «Vi sono le famiglie destinate a contrarsi e a scomparire?» e «Quali sono le famiglie emergenti?»: la parola «obsolete» sta nel transcript. Più avanti la docente chiama «emergenti» anche le famiglie professionali **innovative** della slide 8, e «universali» le **dominanti** ([00:26:42]). ⚠️ Le emergenti non sono le dominanti. «Innovativo e obsoleto», distrattore della domanda 1 del test, prende proprio questi aggettivi: riguardano le famiglie, non il dimensionamento.
+**Opzione:** Obsolete: le famiglie destinate a contrarsi e a scomparire, che non ci serviranno più in futuro; emergenti: quelle di cui potremmo aver bisogno nel prossimo futuro.
+**Distrattori:**
+- Obsolete: le famiglie destinate a contrarsi e a scomparire, che non ci serviranno più in futuro; emergenti: le famiglie professionali dominanti delle funzioni e strutture centrali.
+- Specialisti: specializzazione, senza gestionalità e operatività; operativi-amministrativi: soprattutto operatività, con un po' di specializzazione; specialisti-manager: soprattutto specializzazione, con un po' di gestionalità.
+- Specialisti-operativi: specializzazione e operatività; amministrativi: soprattutto operatività, con un po' di specializzazione; manager: soprattutto gestionalità.
+
+**D:** ⚠️ In base a quale paradigma deve essere affrontato lo studio delle dinamiche delle famiglie professionali, secondo la slide 2 della lezione 25?
+**R:** «LO STUDIO DELLE DINAMICHE DEVE ESSERE AFFRONTATO IN BASE AL PARADIGMA "**AMBIENTE-STRATEGIA-ASSETTO ORGANIZZATIVO**"» (slide 2, in maiuscolo). La docente: «in base al paradigma ormai conosciuto e famoso che è quello di ambiente strategia organizzazione o assetto organizzativo» ([00:03:23]–[00:03:35]). È il paradigma ambiente-strategia-struttura del corso (lezione 06), qui con l'**assetto organizzativo** al terzo posto. ⚠️ Non è il paradigma struttura-condotta-performance, il paradigma storico e deterministico della lezione 06.
+**Opzione:** Lo studio delle dinamiche deve essere affrontato in base al paradigma ambiente-strategia-assetto organizzativo.
+**Distrattori:**
+- Lo studio delle dinamiche deve essere affrontato in base al paradigma struttura-condotta-performance.
+- Scelte di dimensionamento quantitativo (numerosità dell'organico) e qualitativo (caratteristiche delle risorse umane).
+- Problemi di mobilità interna ed esterna.
+
+**D:** ⚠️ A quale dinamica è legato l'andamento nel tempo delle varie professionalità, secondo la slide 3 della lezione 25?
+**R:** «L'andamento nel tempo delle varie professionalità è legato alla dinamica di: • Contesto competitivo e caratteristiche di mercato • Strategia commerciale • Politiche tecnologiche • Macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra *make or buy*)» (slide 3, «es-» così). La docente li commenta nell'ordine: il contesto competitivo richiama le 5 forze di Michael Porter ([00:03:38]); la strategia è «l'elemento intermedio del paradigma» ([00:04:47]); le politiche tecnologiche sono «ormai insomma l'elemento chiave» ([00:05:20]); nella macrostruttura si fanno scelte come il make or buy e l'outsourcing ([00:06:19]–[00:06:57]). ⚠️ Gli elementi sono **quattro**. La domanda 2 del test ne prende tre, troncati, e lascia fuori proprio le **politiche tecnologiche**.
+**Opzione:** Contesto competitivo e caratteristiche di mercato; strategia commerciale; politiche tecnologiche; macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra make or buy).
+**Distrattori:**
+- Contesto competitivo e caratteristiche di mercato; strategia commerciale; politiche del personale; macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra make or buy).
+- L'operatore unico di sportello; l'addetto alla clientela; lo specialista (nei vari settori: fidi, titoli, estero, nuovi prodotti).
+- Fidi, titoli, estero, nuovi prodotti.
+
+**D:** ⚠️ Quale elemento non è legato alla dinamica dell'andamento nel tempo delle varie professionalità, secondo il test della lezione 25 (domanda 2)?
+**R:** «**Inflazione**». La slide 3 elenca quattro elementi: «Contesto competitivo e caratteristiche di mercato», «Strategia commerciale», «Politiche tecnologiche», «Macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra make or buy)». L'inflazione non compare nei 30 deck del corso né nei 27 transcript disponibili. ⚠️ Le tre opzioni vere sono voci della slide **troncate**: «contesto competitivo» senza le caratteristiche di mercato, «organizzazione del lavoro» senza la macrostruttura aziendale. Le **politiche tecnologiche**, per la docente «l'elemento chiave» ([00:05:20]), non sono fra le opzioni. La docente cita anche l'analisi PESTLE, con gli elementi economici ([00:05:38]–[00:05:53]), ma l'inflazione non la nomina. La domanda è **negativa**. Distrattori del test: «contesto competitivo», «strategia commerciale», «organizzazione del lavoro».
+**Opzione:** Inflazione.
+**Distrattori:**
+- Contesto competitivo.
+- Strategia commerciale.
+- Organizzazione del lavoro.
+
+**D:** ⚠️ Quale elemento legato all'andamento nel tempo delle professionalità è, per la docente, «l'elemento chiave» su cui si basa l'organizzazione di un intermediario finanziario (lezione 25)?
+**R:** «**Politiche tecnologiche**» (slide 3, terza voce). La docente: «Le politiche tecnologiche ormai insomma l'elemento chiave, l'elemento su cui poi si basa anche l'organizzazione di un intermediario finanziario in questo caso e l'utilizzo e il supporto delle tecnologie» ([00:05:20]); poi richiama l'analisi PESTLE dell'ambiente esterno e precisa: «In questo caso parliamo soprattutto della componente tecnologica» ([00:06:15]). ⚠️ È l'unica voce della slide 3 che **non** compare fra le opzioni della domanda 2 del test.
+**Opzione:** Politiche tecnologiche.
+**Distrattori:**
+- Organizzazione del lavoro.
+- Inflazione.
+- Valutazione dei rischi.
+
+**D:** ⚠️ A quale elemento dell'andamento nel tempo delle professionalità la slide 3 della lezione 25 associa l'esempio delle scelte tra make or buy?
+**R:** «• Macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra *make or buy*)» (slide 3, quarta voce). La docente: «perché anche qui devono essere fatte delle scelte come per esempio make o buy», cioè capire che cosa sarà prodotto o erogato dall'azienda e quali prodotti e servizi saranno acquistati dall'esterno; sono anche «le decisioni che riguardano outsourcing», con servizi erogati dai partner, e le professionalità necessarie «dipenderanno poi necessariamente strettamente da queste scelte» ([00:06:19]–[00:07:17]). ⚠️ Il make or buy è l'esempio della **macrostruttura**, non delle politiche tecnologiche.
+**Opzione:** Macrostruttura aziendale e organizzazione del lavoro.
+**Distrattori:**
+- Politiche tecnologiche.
+- Strategia commerciale.
+- Contesto competitivo e caratteristiche di mercato.
+
+**D:** ⚠️ In che cosa sta una visione prospettica delle professionalità, secondo la slide 3 della lezione 25?
+**R:** «**Una visione prospettica delle professionalità** sta nella capacità di definire quali saranno le modalità di gestione dei servizi bancari e finanziari nelle varie aree d'affari -> quali saranno le figure professionali tipiche nelle diverse aree bancaria» (slide 3, «aree bancaria» così). La docente: le figure professionali tipiche «nelle diverse aree bancarie, nei diversi riparti, nelle diverse unità organizzative» ([00:07:17]). ⚠️ La visione è **prospettica**: quali **saranno** le modalità di gestione e le figure professionali.
+**Opzione:** Nella capacità di definire quali saranno le modalità di gestione dei servizi bancari e finanziari nelle varie aree d'affari -> quali saranno le figure professionali tipiche nelle diverse aree bancaria.
+**Distrattori:**
+- Nella capacità di definire quali sono state le modalità di gestione dei servizi bancari e finanziari nelle varie aree d'affari -> quali sono state le figure professionali tipiche nelle diverse aree bancaria.
+- Più ampia proiezione dei ruoli operativi verso la gestione delle relazioni di clientela e di potenziamento della funzione commerciale /riflessione positiva sulla qualità del servizio e sulla produttività).
+- Il confronto e le diversità d'opinione, che rappresentano la vera spinta verso il nuovo; il management valuta i processi, organizza studi ambientali, individua punti di forza e debolezze.
+
+**D:** ⚠️ Quali domande pone la visione prospettica delle figure professionali tipiche nelle diverse aree bancarie, secondo la slide 3 della lezione 25?
+**R:** «• Come saranno organizzati i ruoli di contatto e di gestione delle relazioni con la clientela? • Quali saranno i ruoli tipici di back-office? • Quali saranno i tipici ruoli manageriali ai vari livelli della struttura?» (slide 3). La docente: i ruoli di contatto sono il «riparto front office»; quelli di back office sono di supporto, «non hanno a che fare con il cliente direttamente» ma danno un supporto importante ai dipendenti del front office ([00:07:40]–[00:08:08]); i ruoli manageriali servono «sia a livello alto, quindi top management, e anche i manager di livelli intermedi, quindi middle management» ([00:08:13]). ⚠️ I ruoli manageriali stanno **ai vari livelli** della struttura.
+**Opzione:** Come saranno organizzati i ruoli di contatto e di gestione delle relazioni con la clientela? Quali saranno i ruoli tipici di back-office? Quali saranno i tipici ruoli manageriali ai vari livelli della struttura?
+**Distrattori:**
+- Come saranno organizzati i ruoli di contatto e di gestione delle relazioni con la clientela? Quali saranno i ruoli tipici di back-office? Quali saranno i tipici ruoli manageriali al solo vertice della struttura?
+- Ruoli direttivi per le funzioni centrali e periferiche; compiti di coordinamento, programmazione, controllo, decisione sui rischi; profilo gestionale limitato, prevalenza della componente specialistica.
+- Può crescere e formarsi ogni giorno, grazie a un ambiente stimolante, a un sistema che premia l'intraprendenza personale, e a strumenti innovativi per comunicare con i colleghi, gestire la propria attività, migliorare le competenze professionali.
+
+**D:** ⚠️ A che cosa sono legate le professionalità nell'ambito della rete distributiva, fra i cambiamenti nelle aziende di credito (retail), secondo la slide 4 della lezione 25?
+**R:** «Cambiamenti nelle aziende di credito *(retail)* Professionalità nell'ambito della rete distributiva: • Evoluzione dei modelli organizzativi degli sportelli e al ricorso a canali alternativi • Modalità di gestione delle relazioni di clientela» (slide 4). La docente: se prima era necessario rivolgersi a un operatore dello sportello, ora c'è la possibilità di farlo da sé, «in self service»; per il retail la trasformazione più importante è la componente tecnologica ([00:08:38]–[00:09:30]). Le relazioni con la clientela sono la fidelizzazione e il customer relationship management, perché «il mantenimento del cliente attuale, del cliente reale, costa molto meno che l'acquisizione di un cliente nuovo» ([00:09:34]–[00:10:17]). ⚠️ Si fa **ricorso** ai canali alternativi.
+**Opzione:** Evoluzione dei modelli organizzativi degli sportelli e al ricorso a canali alternativi; modalità di gestione delle relazioni di clientela.
+**Distrattori:**
+- Evoluzione dei modelli organizzativi degli sportelli e all'abbandono dei canali alternativi; modalità di gestione delle relazioni di clientela.
+- Il decentramento organizzativo -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?).
+- Compiti di front-office e di back-office (snellimento delle procedure).
+
+**D:** ⚠️ Quali sono le 3 figure professionali distinte della rete distributiva nelle aziende di credito (retail), secondo la slide 4 della lezione 25?
+**R:** «3 figure professionali distinte: • *L'operatore unico di sportello* • *L'addetto alla clientela* • *Lo specialista* (nei vari settori: fidi, titoli, estero, nuovi prodotti)» (slide 4). La docente: «tre tipologie di figure professionali distinte per il settore, in questo caso, delle aziende di credito, quindi del retail» ([00:10:22]); lo specialista è «un ruolo un pochino più elevato rispetto magari ad altri due ruoli» ([00:12:26]). ⚠️ Il **consulente globale** non è fra le tre: è l'esempio dello sviluppo delle attività consulenziali (slide 5). L'intrusa della domanda 3 del test è il «consulente immobiliare».
+**Opzione:** L'operatore unico di sportello; l'addetto alla clientela; lo specialista (nei vari settori: fidi, titoli, estero, nuovi prodotti).
+**Distrattori:**
+- L'operatore unico di sportello; l'addetto alla clientela; il consulente globale (nei vari settori: fidi, titoli, estero, nuovi prodotti).
+- Analisti finanziari; legali; commerciali.
+- Turnover del personale.
+
+**D:** ⚠️ Quale figura non fa parte delle 3 figure professionali distinte della rete distributiva, secondo il test della lezione 25 (domanda 3)?
+**R:** «**Consulente immobiliare**». La slide 4 ha «3 figure professionali distinte»: «L'operatore unico di sportello», «L'addetto alla clientela», «Lo specialista (nei vari settori: fidi, titoli, estero, nuovi prodotti)»; la docente le presenta nello stesso ordine ([00:10:22]–[00:12:26]). Il consulente immobiliare non compare nei 30 deck del corso né nei 27 transcript disponibili. ⚠️ L'intrusa è costruita su una figura **vera** di questa lezione, il **consulente globale**: è l'esempio dello sviluppo delle attività consulenziali (slide 5) e il 70% della famiglia degli specialisti-operativi di INCI (figura della slide 11), ma non è fra le tre figure della rete distributiva. Fra i settori dello specialista l'immobiliare non c'è. La domanda è **negativa**. Distrattori del test: «operatore unico di sportello», «addetto alla clientela», «specialista».
+**Opzione:** Consulente immobiliare.
+**Distrattori:**
+- Operatore unico di sportello.
+- Addetto alla clientela.
+- Specialista.
+
+**D:** ⚠️ Di che cosa si occupa l'operatore unico di sportello, secondo la slide 4 della lezione 25?
+**R:** «*L'operatore unico di sportello* • L'espletamento efficiente e rapido di operazioni elementari che a clientela non può svolgere ricorrendo ai sistemi self-service» (slide 4, «a clientela» così). La docente: «un addetto che si occupa dell'espletamento efficiente e rapido di operazioni elementari che la clientela non può svolgere ricorrendo ai sistemi di self-service»; anche se la maggior parte dei servizi si fruisce con ATM, Bancomat, banca online e applicazioni mobile, una serie di servizi «ancora adesso» la erogano gli operatori ([00:10:34]–[00:11:19]). ⚠️ Sono le operazioni che la clientela **non** può svolgere in self-service.
+**Opzione:** L'espletamento efficiente e rapido di operazioni elementari che a clientela non può svolgere ricorrendo ai sistemi self-service.
+**Distrattori:**
+- L'espletamento efficiente e rapido di operazioni elementari che a clientela può svolgere ricorrendo ai sistemi self-service.
+- L'attività di consulenza/assistenza nei confronti della clientela (soprattutto privati).
+- Lo svolgimento di operazioni specialistiche anche a supporto dell'addetto alla clientela.
+
+**D:** ⚠️ Di che cosa si occupa l'addetto alla clientela, secondo la slide 4 della lezione 25?
+**R:** «*L'addetto alla clientela* • L'attività di consulenza/assistenza nei confronti della clientela (soprattutto privati)» (slide 4). La docente richiama il ruolo della relazione, della fidelizzazione e della **retention** del cliente presso la stessa banca: la professionalità chiave sono «le persone specialistiche che si occupano dei rapporti con la clientela», con attività di consulenza e assistenza «soprattutto privati, visto che parliamo del settore retail» ([00:11:19]–[00:11:59]). ⚠️ Soprattutto **privati**.
+**Opzione:** L'attività di consulenza/assistenza nei confronti della clientela (soprattutto privati).
+**Distrattori:**
+- L'attività di consulenza/assistenza nei confronti della clientela (soprattutto imprese).
+- L'espletamento efficiente e rapido di operazioni elementari che a clientela non può svolgere ricorrendo ai sistemi self-service.
+- Lo svolgimento di operazioni specialistiche anche a supporto dell'addetto alla clientela.
+
+**D:** ⚠️ Di che cosa si occupa lo specialista della rete distributiva, secondo la slide 4 della lezione 25?
+**R:** «*Lo specialista* (nei vari settori: fidi, titoli, estero, nuovi prodotti) • Lo svolgimento di operazioni specialistiche anche a supporto dell'addetto alla clientela» (slide 4). La docente: lo specialista «potrebbe essere di vari settori, fidi, titoli, estero, rapporti insomma con l'estero, nuovi prodotti, lo sviluppo di nuovi progetti, di nuovi prodotti e servizi»; è «un ruolo un pochino più elevato rispetto magari ad altri due ruoli» ([00:11:59]–[00:12:26]). ⚠️ Lo specialista supporta l'**addetto alla clientela**, non l'operatore unico di sportello.
+**Opzione:** Lo svolgimento di operazioni specialistiche anche a supporto dell'addetto alla clientela.
+**Distrattori:**
+- Lo svolgimento di operazioni specialistiche anche a supporto dell'operatore unico di sportello.
+- L'espletamento efficiente e rapido di operazioni elementari che a clientela non può svolgere ricorrendo ai sistemi self-service.
+- L'attività di consulenza/assistenza nei confronti della clientela (soprattutto privati).
+
+**D:** ⚠️ Che cosa permettono di riunire in una stessa posizione organizzativa le nuove tecnologie informatiche, secondo la slide 5 della lezione 25?
+**R:** «Allargamento e arricchimento delle mansioni grazie alle nuove tecnologie informatiche: • La possibilità di riunire in una stessa posizione organizzativa compiti di **front-office e di back-office** (snellimento delle procedure)» (slide 5). La docente: «se prima parlavamo sempre di una certa divisione tra le figure professionali di front office e back office», ora con le tecnologie informatiche e digitali «la stessa persona potrebbe svolgere praticamente i compiti legati al front office e al back office»; l'ICT permette «una specie di snellimento delle procedure operative» ([00:12:35]–[00:13:35]). ⚠️ È uno **snellimento**.
+**Opzione:** Compiti di front-office e di back-office (snellimento delle procedure).
+**Distrattori:**
+- Compiti di front-office e di back-office (appesantimento delle procedure).
+- Problemi di mobilità interna ed esterna.
+- Promozione e contatto con il cliente in fase produttiva e distributiva.
+
+**D:** ⚠️ Oltre a riunire compiti di front-office e back-office, quale allargamento delle mansioni permettono le nuove tecnologie informatiche, secondo la slide 5 della lezione 25?
+**R:** «• Più ampia proiezione dei ruoli operativi verso la gestione delle relazioni di clientela e di potenziamento della funzione commerciale /riflessione positiva sulla qualità del servizio e sulla produttività)» (slide 5, la parentesi si chiude senza essersi aperta). La docente: è una «riflessione positiva anche sulla qualità del servizio, sulla produttività praticamente da tutti i ruoli organizzativi»; l'esposizione dei collaboratori verso i clienti diventa molto più ampia, e «ogni dipendente potrebbe dare il proprio contributo alla vendita, alla distribuzione dei servizi» ([00:13:41]–[00:14:20]). ⚠️ Il potenziamento è della funzione **commerciale**.
+**Opzione:** Più ampia proiezione dei ruoli operativi verso la gestione delle relazioni di clientela e di potenziamento della funzione commerciale /riflessione positiva sulla qualità del servizio e sulla produttività).
+**Distrattori:**
+- Più ampia proiezione dei ruoli operativi verso la gestione delle relazioni di clientela e di potenziamento della funzione amministrativa /riflessione positiva sulla qualità del servizio e sulla produttività).
+- Nella capacità di definire quali saranno le modalità di gestione dei servizi bancari e finanziari nelle varie aree d'affari -> quali saranno le figure professionali tipiche nelle diverse aree bancaria.
+- Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio.
+
+**D:** Perché, per la docente, l'allargamento delle mansioni rende necessari corsi di formazione per i dipendenti (lezione 25)?
+**R:** Perché con la più ampia proiezione dei ruoli operativi verso i clienti «ogni dipendente potrebbe dare il proprio contributo alla vendita, alla distribuzione dei servizi» ([00:14:20]). Banche e intermediari finanziari introducono sempre più spesso «strumenti di valutazioni basati proprio sul sale, sulla vendita»: ogni collaboratore ha la capacità di vendere un prodotto o servizio con meccanismi come l'**upselling** e il **cross-selling**, «la vendita dei servizi aggiuntivi allo servizio già venduto», e si valuta il contributo di ogni singolo dipendente all'efficienza ed efficacia dei risultati aziendali ([00:14:30]–[00:15:11]). Ne segue la necessità di corsi di formazione per i dipendenti, «che diventano anche protagonisti per la vendita e per la distribuzione dei servizi di una banca» ([00:15:18]). Upselling, cross-selling e valutazione sulla vendita stanno solo nel transcript.
+
+**D:** ⚠️ A che cosa porta l'allargamento e arricchimento delle mansioni grazie alle nuove tecnologie informatiche, secondo la slide 5 della lezione 25?
+**R:** Dopo la freccia: «• Il superamento della tradizionale dicotomia fra ruoli di front-office e back-office (es. analista di marketing, analista di organizzazione e personale, analista finanziario) • Lo sviluppo delle attività consulenziali (es. consulente globale) • La scomparsa del lavoro impiegatizio e lo sviluppo delle professionalità globali» (slide 5). La docente: queste figure «non diventano soltanto specialisti» ma si occupano anche di altri compiti ([00:15:32]–[00:15:51]); il consulente globale garantisce «una consulenza approfondita a diverse tipologie dei nostri clienti» ([00:16:03]); non più semplici impiegati bancari ma «professionalità allargate, delle professionalità globali preparate, anche qui a 360°» ([00:16:21]–[00:16:44]). ⚠️ La dicotomia fra front-office e back-office si **supera**.
+**Opzione:** Il superamento della tradizionale dicotomia fra ruoli di front-office e back-office (es. analista di marketing, analista di organizzazione e personale, analista finanziario); lo sviluppo delle attività consulenziali (es. consulente globale); la scomparsa del lavoro impiegatizio e lo sviluppo delle professionalità globali.
+**Distrattori:**
+- Il rafforzamento della tradizionale dicotomia fra ruoli di front-office e back-office (es. analista di marketing, analista di organizzazione e personale, analista finanziario); lo sviluppo delle attività consulenziali (es. consulente globale); la scomparsa del lavoro impiegatizio e lo sviluppo delle professionalità globali.
+- Il cambiamento di valori, atteggiamenti e comportamento richiesto ai capi nei confronti di propri collaboratori.
+- Lo studio delle dinamiche deve essere affrontato in base al paradigma ambiente-strategia-assetto organizzativo.
+
+**D:** ⚠️ Di quale conseguenza dell'allargamento delle mansioni è esempio il consulente globale, secondo la slide 5 della lezione 25?
+**R:** «• Lo sviluppo delle attività consulenziali (es. consulente globale)» (slide 5). La docente: la necessità di garantire «una consulenza approfondita a diverse tipologie dei nostri clienti», con «una figura professionale che può essere definita come consulente globale» ([00:16:03]). Il consulente globale torna nel caso INCI: è il 70% della famiglia degli specialisti-operativi (figura della slide 11), e la docente lo chiama «Global Consulant» ([00:34:10]). ⚠️ Gli analisti di marketing, di organizzazione e personale e finanziario sono invece gli esempi del superamento della dicotomia fra front-office e back-office. Il consulente globale non è fra le 3 figure della rete distributiva (slide 4).
+**Opzione:** Lo sviluppo delle attività consulenziali.
+**Distrattori:**
+- Il superamento della tradizionale dicotomia fra ruoli di front-office e back-office.
+- Preparazione di un business plan.
+- Snellimento delle strutture operative.
+
+**D:** ⚠️ Quali sono le criticità nella gestione delle risorse umane del futuro, secondo la slide 6 della lezione 25?
+**R:** «Criticità nella gestione delle risorse umane del futuro: • Problema di **riqualificazione delle risorse** (formazione e sviluppo) • Nuovi problemi di gestione del personale in una prospettiva di **stabilizzazione delle nuove professionalità** (motivazione, incentivazione, valutazione) • **Capacità di attrazione** della banca sul mercato del lavoro (insoddisfazione individuale a svolgere alcune mansioni: es. terminalista-cassiere) • Problema di **sviluppo manageriale** -> il decentramento organizzativo -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?) • Il **cambiamento di valori, atteggiamenti e comportamento** richiesto ai capi nei confronti di propri collaboratori» (slide 6). La docente le commenta nell'ordine ([00:17:02]–[00:21:19]); il nome della quarta cade in un vuoto del transcript ([00:19:12]–[00:19:20]). ⚠️ Le criticità sono **cinque**, e il **turnover** non c'è: è l'intrusa della domanda 4 del test, che lascia fuori anche la stabilizzazione delle nuove professionalità e lo sviluppo manageriale.
+
+**D:** ⚠️ Quale non fa parte delle criticità nella gestione delle risorse umane del futuro di cui si è parlato nella lezione, secondo il test della lezione 25 (domanda 4)?
+**R:** «**Turnover del personale**». La slide 6 elenca cinque criticità: il «Problema di riqualificazione delle risorse (formazione e sviluppo)», i «Nuovi problemi di gestione del personale in una prospettiva di stabilizzazione delle nuove professionalità», la «Capacità di attrazione della banca sul mercato del lavoro», il «Problema di sviluppo manageriale» e «Il cambiamento di valori, atteggiamenti e comportamento richiesto ai capi nei confronti di propri collaboratori»; la docente le commenta nello stesso ordine ([00:17:02]–[00:21:19]). Il turnover non compare né nel deck né nel transcript di questa lezione. ⚠️ Il problema più vicino è un altro: i «Problemi di mobilità interna ed esterna» (slide 8), che la docente introduce subito dopo aver parlato di «diverse criticità» ([00:27:36]); nella lezione 22 il turnover esterno sta nella fase di uscita (slide 13 di quel deck). L'opzione «cambiamento di valori, atteggiamenti e comportamenti» ha il plurale della docente ([00:20:27]); la slide dice «comportamento». La domanda è **negativa**. Distrattori del test: «cambiamento di valori, atteggiamenti e comportamenti», «capacità di attrazione della banca sul mercato del lavoro», «riqualificazione delle risorse».
+**Opzione:** Turnover del personale.
+**Distrattori:**
+- Cambiamento di valori, atteggiamenti e comportamenti.
+- Capacità di attrazione della banca sul mercato del lavoro.
+- Riqualificazione delle risorse.
+
+**D:** ⚠️ Che cosa mette fra parentesi la slide 6 della lezione 25 per il problema di riqualificazione delle risorse e per i nuovi problemi di gestione del personale?
+**R:** «• Problema di riqualificazione delle risorse (**formazione e sviluppo**) • Nuovi problemi di gestione del personale in una prospettiva di stabilizzazione delle nuove professionalità (**motivazione, incentivazione, valutazione**)» (slide 6). La docente: le risorse vanno preparate «a questi cambiamenti richiesti dall'ambiente competitivo, dal mercato, dalla strategia organizzativa» ([00:17:08]); bisogna capire come motivare le persone «che si sono ritrovate a dover gestire i compiti molto più differenziati», e incentivarle e valutarle «in maniera differente» ([00:17:22]–[00:17:56]). ⚠️ Le parentesi non si scambiano: formazione e sviluppo sono della **riqualificazione**.
+**Opzione:** Riqualificazione delle risorse: formazione e sviluppo; nuovi problemi di gestione del personale: motivazione, incentivazione, valutazione.
+**Distrattori:**
+- Riqualificazione delle risorse: motivazione, incentivazione, valutazione; nuovi problemi di gestione del personale: formazione e sviluppo.
+- Specialisti: specializzazione, senza gestionalità e operatività; operativi-amministrativi: soprattutto operatività, con un po' di specializzazione; specialisti-manager: soprattutto specializzazione, con un po' di gestionalità.
+- Specialisti-operativi: specializzazione e operatività; amministrativi: soprattutto operatività, con un po' di specializzazione; manager: soprattutto gestionalità.
+
+**D:** ⚠️ In quale prospettiva si pongono i nuovi problemi di gestione del personale fra le criticità della slide 6 della lezione 25?
+**R:** «• Nuovi problemi di gestione del personale in una prospettiva di **stabilizzazione delle nuove professionalità** (motivazione, incentivazione, valutazione)» (slide 6). La docente: «noi dobbiamo anche capire come motivare queste persone che si sono ritrovate a dover gestire i compiti molto più differenziati» ([00:17:22]). ⚠️ Si stabilizzano le professionalità **nuove**. La domanda 4 del test lascia fuori questa criticità.
+**Opzione:** In una prospettiva di stabilizzazione delle nuove professionalità.
+**Distrattori:**
+- In una prospettiva di stabilizzazione delle professionalità tradizionali.
+- Valorizzazione e soddisfazione.
+- Lo sviluppo delle attività consulenziali.
+
+**D:** ⚠️ A quale criticità la slide 6 della lezione 25 lega l'insoddisfazione individuale a svolgere alcune mansioni (es. terminalista-cassiere)?
+**R:** «• Capacità di attrazione della banca sul mercato del lavoro (insoddisfazione individuale a svolgere alcune mansioni: es. terminalista-cassiere)» (slide 6). La docente: è un concetto che «possiamo definire employer branding», il brand dell'organizzazione come datore di lavoro ([00:17:56]); riguarda spesso le figure «un pochino più basse come l'operatore per esempio unico di sportello», con mansioni che le persone possono considerare anche **obsolete**, come terminaliste e cassiere: servono stimoli che aumentino la motivazione del personale ([00:18:24]–[00:19:09]). ⚠️ L'insoddisfazione sta nella **capacità di attrazione**, non nella riqualificazione delle risorse.
+**Opzione:** Capacità di attrazione della banca sul mercato del lavoro.
+**Distrattori:**
+- Problema di riqualificazione delle risorse.
+- Il cambiamento di valori, atteggiamenti e comportamento richiesto ai capi nei confronti di propri collaboratori.
+- Turnover del personale.
+
+**D:** ⚠️ Con quale concetto la docente identifica la capacità di attrazione della banca sul mercato del lavoro, fra le criticità della lezione 25?
+**R:** «**Employer branding**». La docente, sulla terza criticità della slide 6: «La capacità di attrazione della banca sul mercato del lavoro, quindi in questo caso parliamo di un concetto che possiamo definire employer branding, quindi il brand proprio dell'organizzazione dal punto di vista del datore di lavoro»: un'organizzazione che può assumere, formare e preparare le risorse umane deve essere attraente sul mercato del lavoro ([00:17:56]–[00:18:24]). Nella slide c'è solo la «Capacità di attrazione della banca sul mercato del lavoro»: l'employer branding sta nel transcript. ⚠️ Il **turnover** non è una criticità di questa lezione.
+**Opzione:** Employer branding.
+**Distrattori:**
+- Turnover.
+- Senso di appartenenza.
+- Imprenditorialità.
+
+**D:** ⚠️ Che cosa comporta il problema di sviluppo manageriale fra le criticità della slide 6 della lezione 25?
+**R:** «• Problema di sviluppo manageriale -> il **decentramento organizzativo** -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?)» (slide 6). La docente: «il decentramento organizzativo che poi porta alla revisione dei contenuti dei ruoli direttivi»; richiama l'**appiattimento** della struttura organizzativa, sempre più orizzontale rispetto alle strutture «molto più gerarchiche» di prima ([00:19:20]–[00:19:43]), la **job description** di ogni manager ([00:19:45]) e il dimensionamento dei manager futuri «sia dal punto di vista quantitativo», quanti ne serviranno, sia qualitativo, con quali competenze e caratteristiche ([00:19:58]–[00:20:27]). Il nome della criticità cade in un vuoto del transcript ([00:19:12]–[00:19:20]). ⚠️ È un **decentramento**. La domanda 4 del test lascia fuori questa criticità.
+**Opzione:** Il decentramento organizzativo -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?).
+**Distrattori:**
+- L'accentramento organizzativo -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?).
+- Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio.
+- Diventano parte integrante della cultura organizzativa, si condividono ai vari livelli di management -> formano uno stile di leadership -> si trasmettono nell'organizzazione.
+
+**D:** ⚠️ Quale cambiamento è richiesto, a chi e nei confronti di chi, secondo l'ultima criticità della slide 6 della lezione 25?
+**R:** «• Il cambiamento di valori, atteggiamenti e comportamento richiesto **ai capi** nei confronti di **propri collaboratori**» (slide 6). La docente: «il cambiamento di valori, atteggiamenti, comportamenti richiesti ai capi, ai leader nei confronti di propri collaboratori»; richiama la **leadership** delle lezioni precedenti, perché con la riorganizzazione anche l'uso di uno stile di leadership piuttosto che un altro può servire a raggiungere i risultati strategici definiti dai vertici aziendali ([00:20:27]–[00:21:19]). ⚠️ Il cambiamento è richiesto ai **capi**, non ai collaboratori. La slide dice «comportamento», la docente e la domanda 4 del test «comportamenti».
+**Opzione:** Il cambiamento di valori, atteggiamenti e comportamento richiesto ai capi nei confronti di propri collaboratori.
+**Distrattori:**
+- Il cambiamento di valori, atteggiamenti e comportamento richiesto ai collaboratori nei confronti dei propri capi.
+- In una prospettiva di stabilizzazione delle nuove professionalità.
+- Da parte di grandi imprese (wholesale) – autofinanziamento o ricorso diretto al mercati dei capitale.
+
+**D:** ⚠️ Quali sono i presupposti delle nuove professionalità nel settore del credito a medio termine (commerciale e industriale), secondo la slide 7 della lezione 25?
+**R:** «Nuove professionalità nel settore del credito a medio termine (**commerciale e industriale**) Presupposti: • Elevato dinamismo dell'ambiente • Necessità di razionalizzazione e riorganizzazione per aumentare l'efficienza operativa • Competizione nel mercato con la predominanza di piccoli-medi operatori *(retail)* • Calo di domanda da parte di grandi imprese *(wholesale)* – autofinanziamento o ricorso diretto al mercati dei capitale • Sviluppo di una propria rete diretta di sedi operative periferiche» (slide 7, «al mercati dei capitale» così). La docente: dopo il credito retail e le relazioni con i privati, «parliamo del settore del credito a medio termine commerciale e industriale» ([00:21:24]); la competizione richiama le 5 forze di Porter ([00:22:25]); il calo della domanda wholesale è **disintermediazione** ([00:22:55]); con la rete diretta queste banche si approcciano anche ai privati ([00:23:21]–[00:23:45]). ⚠️ La domanda delle grandi imprese **cala**.
+**Opzione:** Elevato dinamismo dell'ambiente; necessità di razionalizzazione e riorganizzazione per aumentare l'efficienza operativa; competizione nel mercato con la predominanza di piccoli-medi operatori (retail); calo di domanda da parte di grandi imprese (wholesale) – autofinanziamento o ricorso diretto al mercati dei capitale; sviluppo di una propria rete diretta di sedi operative periferiche.
+**Distrattori:**
+- Elevato dinamismo dell'ambiente; necessità di razionalizzazione e riorganizzazione per aumentare l'efficienza operativa; competizione nel mercato con la predominanza di piccoli-medi operatori (retail); aumento di domanda da parte di grandi imprese (wholesale) – autofinanziamento o ricorso diretto al mercati dei capitale; sviluppo di una propria rete diretta di sedi operative periferiche.
+- Contesto competitivo e caratteristiche di mercato; strategia commerciale; politiche tecnologiche; macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra make or buy).
+- Miglioramento della funzione promozionale.
+
+**D:** ⚠️ Da parte di chi cala la domanda nel settore del credito a medio termine, e perché, secondo la slide 7 della lezione 25?
+**R:** «• Calo di domanda da parte di **grandi imprese** *(wholesale)* – autofinanziamento o ricorso diretto al mercati dei capitale» (slide 7). La docente: «c'è sempre di più ricorso all'autofinanziamento o ai mercati dei capitali direttamente, quindi senza aver necessità di un intermediario, quindi **disintermediazione**» ([00:22:55]). ⚠️ Cala la domanda delle grandi imprese (**wholesale**); i piccoli-medi operatori (**retail**) stanno nel presupposto precedente, quello della competizione.
+**Opzione:** Da parte di grandi imprese (wholesale) – autofinanziamento o ricorso diretto al mercati dei capitale.
+**Distrattori:**
+- Da parte di piccoli-medi operatori (retail) – autofinanziamento o ricorso diretto al mercati dei capitale.
+- Lo studio delle dinamiche deve essere affrontato in base al paradigma ambiente-strategia-assetto organizzativo.
+- Promozione e contatto con il cliente in fase produttiva e distributiva.
+
+**D:** ⚠️ Quali interventi richiede lo sviluppo delle nuove professionalità nel settore del credito a medio termine, secondo la slide 7 della lezione 25?
+**R:** «Interventi richiesti: • Automazione dei processi produttivi • Snellimento delle strutture operative *(office automation)* • Miglioramento della funzione promozionale • Potenziamento della rete distributiva • Innovazione dei servizi e diversificazione delle attività (es. *merchant banking*)» (slide 7). La docente: l'automazione è l'introduzione delle tecnologie digitali e dell'ICT ([00:24:13]–[00:24:27]); con l'office automation alcune procedure «si svolgono direttamente dalle macchine, non più dalle persone», e servono formazione e nuove competenze ([00:24:43]–[00:24:50]); la distribuzione è uno degli elementi del marketing mix, delle **4P** ([00:25:04]–[00:25:20]); il merchant banking è un esempio di diversificazione da approfondire «durante i ricevimenti» ([00:25:20]). ⚠️ Gli interventi sono **cinque**, distinti dai cinque presupposti. La domanda 5 del test lascia fuori lo snellimento delle strutture operative e il miglioramento della funzione promozionale.
+**Opzione:** Automazione dei processi produttivi; snellimento delle strutture operative (office automation); miglioramento della funzione promozionale; potenziamento della rete distributiva; innovazione dei servizi e diversificazione delle attività (es. merchant banking).
+**Distrattori:**
+- Automazione dei processi produttivi; snellimento delle strutture operative (office automation); miglioramento della funzione promozionale; potenziamento della rete distributiva; sviluppo di una propria rete diretta di sedi operative periferiche.
+- L'operatore unico di sportello; l'addetto alla clientela; lo specialista (nei vari settori: fidi, titoli, estero, nuovi prodotti).
+- Contesto competitivo e caratteristiche di mercato; strategia commerciale; politiche tecnologiche; macrostruttura aziendale e organizzazione del lavoro (es- le scelte tra make or buy).
+
+**D:** ⚠️ Quale non è un intervento richiesto per lo sviluppo delle nuove professionalità nel settore del credito a medio termine, secondo il test della lezione 25 (domanda 5)?
+**R:** «**Preparazione di un business plan**». La slide 7 elenca cinque interventi richiesti: «Automazione dei processi produttivi», «Snellimento delle strutture operative (office automation)», «Miglioramento della funzione promozionale», «Potenziamento della rete distributiva», «Innovazione dei servizi e diversificazione delle attività (es. merchant banking)»; la docente li commenta nello stesso ordine ([00:24:13]–[00:25:49]). Il business plan non compare in questa lezione. ⚠️ È un distrattore del **pool condiviso**: era già fra le opzioni della domanda 3 del test 13, della domanda 1 del test 17 e della domanda 1 del test 18; nei 30 deck e nei 27 transcript disponibili compare solo nel transcript della lezione 06 ([00:01:32] di quel transcript), come idea dell'imprenditore prima che l'azienda esista. Lo snellimento delle strutture operative e il miglioramento della funzione promozionale non sono fra le opzioni. La domanda è **negativa**, e la piattaforma scrive «untervento». Distrattori del test: «automazione dei processi produttivi», «potenziamento della rete distributiva», «innovazione dei servizi e diversificazione delle attività».
+**Opzione:** Preparazione di un business plan.
+**Distrattori:**
+- Automazione dei processi produttivi.
+- Potenziamento della rete distributiva.
+- Innovazione dei servizi e diversificazione delle attività.
+
+**D:** ⚠️ Quale intervento richiesto nel credito a medio termine ha fra parentesi l'office automation, secondo la slide 7 della lezione 25?
+**R:** «• Snellimento delle strutture operative *(office automation)*» (slide 7, seconda voce degli interventi). La docente: «sempre più spesso si parla di office automation, quindi alcuni compiti, alcune procedure che si svolgono direttamente dalle macchine, non più dalle persone», e per questo servono la preparazione dei dipendenti e corsi di formazione ([00:24:27]–[00:25:04]). ⚠️ L'office automation è lo **snellimento delle strutture operative**, non la prima voce, l'automazione dei processi produttivi. La domanda 5 del test lascia fuori questo intervento.
+**Opzione:** Snellimento delle strutture operative.
+**Distrattori:**
+- Automazione dei processi produttivi.
+- Lo sviluppo delle attività consulenziali.
+- Politiche tecnologiche.
+
+**D:** Come commenta la docente il miglioramento della funzione promozionale e il potenziamento della rete distributiva, fra gli interventi richiesti nel credito a medio termine (lezione 25)?
+**R:** Sono la terza e la quarta voce degli interventi richiesti della slide 7: «• Miglioramento della funzione promozionale • Potenziamento della rete distributiva». La docente le legge di seguito: «Miglioramento della funzione promozionale e l'importanza della relazione con il cliente, potenziamento della rete distributiva, come sapete la distribuzione è uno degli elementi importanti anche di marketing mix, di 4P, i famosi 4P dell'organizzazione, quindi dobbiamo dare un peso importante anche ai canali di distribuzione» ([00:25:04]–[00:25:20]). La relazione con il cliente e le 4P stanno solo nel transcript. ⚠️ La domanda 5 del test lascia fuori il miglioramento della funzione promozionale, e fra le sue opzioni vere c'è il potenziamento della rete distributiva.
+
+**D:** ⚠️ Quali famiglie professionali distingue la slide 8 della lezione 25 nell'evoluzione dei ruoli nell'ambito delle funzioni e strutture centrali, e con quali esempi?
+**R:** «Problema di gestione delle famiglie professionali con l'evoluzione del business e degli assetti organizzativi: • Evoluzione dei ruoli nell'ambito delle funzioni e strutture centrali: • Le famiglie professionali **dominanti** (*professional* con particolari capacità, specialista di un particolare aspetto/fase del processo produttivo – es. analisti finanziari, specialisti in materia contrattuale, contabili-amministrativi) • Le famiglie professionali **innovative** (es. commerciale e marketing, relazioni con la clientela)» (slide 8). La docente: non solo gli sportelli periferici, ma anche le sedi centrali ([00:25:59]); le dominanti, che chiama anche «universali», avranno bisogno di revisione e preparazione aggiuntiva; le innovative le chiama anche «emergenti», e hanno sempre più importanza ([00:26:42]–[00:27:11]); fra queste il **customer relationship specialist** ([00:27:18]). ⚠️ Gli analisti finanziari sono **dominanti**, il commerciale e marketing e le relazioni con la clientela **innovativi**.
+**Opzione:** Le famiglie professionali dominanti (professional con particolari capacità, specialista di un particolare aspetto/fase del processo produttivo – es. analisti finanziari, specialisti in materia contrattuale, contabili-amministrativi) e le famiglie professionali innovative (es. commerciale e marketing, relazioni con la clientela).
+**Distrattori:**
+- Le famiglie professionali dominanti (professional con particolari capacità, specialista di un particolare aspetto/fase del processo produttivo – es. commerciale e marketing, relazioni con la clientela) e le famiglie professionali innovative (es. analisti finanziari, specialisti in materia contrattuale, contabili-amministrativi).
+- Analisti finanziari; legali; commerciali.
+- Come saranno organizzati i ruoli di contatto e di gestione delle relazioni con la clientela? Quali saranno i ruoli tipici di back-office? Quali saranno i tipici ruoli manageriali ai vari livelli della struttura?
+
+**D:** ⚠️ Quali problemi derivano dall'evoluzione dei ruoli nell'ambito delle funzioni e strutture centrali, secondo la slide 8 della lezione 25?
+**R:** «Problemi di **mobilità interna ed esterna**» (slide 8, in grassetto sotto la freccia). La docente: vediamo «diverse criticità, diversi presupposti anche per il cambiamento non soltanto degli obiettivi organizzativi ma anche della struttura organizzativa interna», e uno dei problemi importanti «è quella di mobilità interna ed esterna» ([00:27:36]). ⚠️ La mobilità è **interna ed esterna**. Non è una delle criticità della slide 6, quelle della domanda 4 del test. La gestione della mobilità torna nella lezione 26.
+**Opzione:** Problemi di mobilità interna ed esterna.
+**Distrattori:**
+- Problemi di mobilità solo interna.
+- Snellimento delle strutture operative.
+- Integrazione.
+
+**D:** ⚠️ Che cosa significa INCI, il caso della slide 9 della lezione 25?
+**R:** «Il caso: INCI – **Istituto Nazionale per il Credito Industriale**» (slide 9). La docente: «l'articolo che allego sicuramente per il vostro studio è il caso di INCI, quindi Istituto Nazionale per il Credito Industriale» ([00:27:57]). ⚠️ Credito **industriale**: è il settore del credito a medio termine commerciale e industriale della slide 7.
+**Opzione:** Istituto Nazionale per il Credito Industriale.
+**Distrattori:**
+- Istituto Nazionale per il Credito Immobiliare.
+- Preparazione di un business plan.
+- Creazione di una start up.
+
+**D:** ⚠️ Quali sono le 3 grandi famiglie professionali di INCI nella situazione al 1990, e con quale peso, secondo la slide 9 della lezione 25?
+**R:** «3 grandi famiglie professionali: • *Specialisti* – 50% • *Operativi-amministrativi* – 40% • *Specialisti-manager* – 10%» (slide 9); la figura accanto, solo immagine, è la «Fig. 2 Famiglie professionali: situazione al 1990», con le stesse percentuali. La docente: è «una situazione di partenza» ([00:28:09]–[00:28:20]); gli specialisti «fanno 50% dell'organico» ([00:28:42]), gli operativi e amministrativi «il 40%» ([00:29:03]), gli specialisti manager «il 10% dell'organico» ([00:29:42]). ⚠️ Il **50%** è degli specialisti, il **40%** degli operativi-amministrativi. Il 10% torna nella proiezione al 1995, ma per gli **amministrativi** (slide 10).
+**Opzione:** Specialisti – 50%; operativi-amministrativi – 40%; specialisti-manager – 10%.
+**Distrattori:**
+- Specialisti – 40%; operativi-amministrativi – 50%; specialisti-manager – 10%.
+- Specialisti-operativi – 85%; amministrativi – 10%; manager – 5%.
+- Responsabile di cliente – 5%; specialista di settore – 25%; consulente globale – 70%.
+
+**D:** ⚠️ Quali mansioni comprende la famiglia degli specialisti di INCI nella situazione al 1990, secondo la slide 9 della lezione 25?
+**R:** «• *Specialisti* – 50% • Analisti finanziari • Legali • Commerciali» (slide 9). La docente: «parliamo delle mansioni come analisti finanziari, legali, commerciali» ([00:29:03]). ⚠️ Il personale di supporto e back-office è degli **operativi-amministrativi**.
+**Opzione:** Analisti finanziari; legali; commerciali.
+**Distrattori:**
+- Analisti finanziari; legali; personale di supporto e back-office.
+- Fidi, titoli, estero, nuovi prodotti.
+
+**D:** ⚠️ Che cosa caratterizza la famiglia degli specialisti-manager di INCI nella situazione al 1990, secondo la slide 9 della lezione 25?
+**R:** «• *Specialisti-manager* – 10% • Ruoli direttivi per le funzioni centrali e periferiche • Compiti di coordinamento, programmazione, controllo, decisione sui rischi • Profilo gestionale limitato, prevalenza della componente specialistica» (slide 9). La docente: nella figura c'è «un elemento molto importante che è quello di specializzazione e anche la presenza di elementi di gestionalità»; la specializzazione «è molto più importante rispetto alla gestionalità», e queste figure si trovano «a cavallo tra specialisti e manager» ([00:29:42]–[00:30:45]). ⚠️ Il profilo gestionale è **limitato**, prevale la componente **specialistica**.
+**Opzione:** Ruoli direttivi per le funzioni centrali e periferiche; compiti di coordinamento, programmazione, controllo, decisione sui rischi; profilo gestionale limitato, prevalenza della componente specialistica.
+**Distrattori:**
+- Ruoli direttivi per le funzioni centrali e periferiche; compiti di coordinamento, programmazione, controllo, decisione sui rischi; profilo gestionale prevalente, componente specialistica limitata.
+- Più ampia proiezione dei ruoli operativi verso la gestione delle relazioni di clientela e di potenziamento della funzione commerciale /riflessione positiva sulla qualità del servizio e sulla produttività).
+- Scelte di dimensionamento quantitativo (numerosità dell'organico) e qualitativo (caratteristiche delle risorse umane).
+
+**D:** ⚠️ Come si combinano gestionalità (G), specializzazione (S) e operatività (O) nelle 3 famiglie di INCI della figura «situazione al 1990» (slide 9 della lezione 25)?
+**R:** Nella «Fig. 2 Famiglie professionali: situazione al 1990» (solo immagine) ogni famiglia ha tre assi, G, S e O, con un tratto spesso sugli elementi presenti. **Specialisti**: tratto spesso solo su S. **Operativi-amministrativi**: tratto spesso su tutta O e su un breve tratto di S. **Specialisti-manager**: tratto spesso lungo su S e breve su G. La docente: per gli specialisti «una forte presenza di elementi di specializzazione e l'assenza di elementi come gestionalità e operatività» ([00:28:42]–[00:28:55]); per gli operativi-amministrativi l'elemento più importante «è sicuramente operatività e poi c'è anche comunque un pochino di specializzazione» ([00:29:17]); per gli specialisti-manager la specializzazione «è molto più importante rispetto alla gestionalità» ([00:30:22]). È il mix di gestionalità, specializzazione e operatività della lezione precedente ([00:28:24]). ⚠️ Negli specialisti-manager prevale la **specializzazione**.
+**Opzione:** Specialisti: specializzazione, senza gestionalità e operatività; operativi-amministrativi: soprattutto operatività, con un po' di specializzazione; specialisti-manager: soprattutto specializzazione, con un po' di gestionalità.
+**Distrattori:**
+- Specialisti: specializzazione, senza gestionalità e operatività; operativi-amministrativi: soprattutto operatività, con un po' di specializzazione; specialisti-manager: soprattutto gestionalità, con un po' di specializzazione.
+- Riqualificazione delle risorse: formazione e sviluppo; nuovi problemi di gestione del personale: motivazione, incentivazione, valutazione.
+- Obsolete: le famiglie destinate a contrarsi e a scomparire, che non ci serviranno più in futuro; emergenti: quelle di cui potremmo aver bisogno nel prossimo futuro.
+
+**D:** ⚠️ Quali sono le 3 grandi famiglie di INCI nella proiezione al 1995, e con quale peso, secondo la slide 10 della lezione 25?
+**R:** «Proiezione dell'evoluzione strategica e organizzativa (1) 3 grandi famiglie con caratteristiche diverse: • *Specialisti-operativi* – 85% • *Amministrativi – 10%* • *Manager – 5%*» (slide 10); la figura accanto, solo immagine, è la «Fig. 3 Proiezione delle famiglie professionali al 1995». La docente: gli specialisti operativi sono la famiglia che «sicuramente diventerà più numerosa, infatti rappresenta 85% di tutto l'organico» ([00:31:11]); «Poi ci sono gli amministrativi che rappresentano il 10%», e un'altra categoria con le competenze di gestionalità ([00:31:39]–[00:31:57]). ⚠️ Il **10%** è degli amministrativi, il **5%** dei manager. Nel 1990 il 10% era degli specialisti-manager.
+**Opzione:** Specialisti-operativi – 85%; amministrativi – 10%; manager – 5%.
+**Distrattori:**
+- Specialisti-operativi – 85%; amministrativi – 5%; manager – 10%.
+- Specialisti – 50%; operativi-amministrativi – 40%; specialisti-manager – 10%.
+- Responsabile di cliente – 5%; specialista di settore – 25%; consulente globale – 70%.
+
+**D:** ⚠️ Quali linee di evoluzione strategica e organizzativa accompagnano la proiezione delle famiglie di INCI, secondo la slide 10 della lezione 25?
+**R:** «- Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio (mercato di riferimento specifico – presenza territoriale locale Insieme a una rete di sedi operative periferiche) - Sviluppo di un'offerta di servizi finanziari innovativi per i grandi e i medio-grandi complessi industriali (presidio nel settore) - Comprensione dei costi operativi e spostamento delle risorse al settore commerciale» (slide 10, «Insieme» e «Comprensione» così). La docente: un approccio di consulenza multiprodotto e multiservizio «sempre più personalizzato per diverse tipologie di clientela» ([00:32:14]); l'offerta di servizi finanziari innovativi obbliga a rivedere composizione e compiti delle famiglie professionali ([00:32:43]); con la ristrutturazione dell'organico le risorse si riallocano alla commercializzazione e al marketing, che diventa «un'area strategica» ([00:33:02]–[00:33:43]). ⚠️ Le risorse si spostano al settore **commerciale**.
+**Opzione:** Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio (mercato di riferimento specifico – presenza territoriale locale insieme a una rete di sedi operative periferiche); sviluppo di un'offerta di servizi finanziari innovativi per i grandi e i medio-grandi complessi industriali (presidio nel settore); comprensione dei costi operativi e spostamento delle risorse al settore commerciale.
+**Distrattori:**
+- Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio (mercato di riferimento specifico – presenza territoriale locale insieme a una rete di sedi operative periferiche); sviluppo di un'offerta di servizi finanziari innovativi per i grandi e i medio-grandi complessi industriali (presidio nel settore); comprensione dei costi operativi e spostamento delle risorse al settore amministrativo.
+- Nella capacità di definire quali saranno le modalità di gestione dei servizi bancari e finanziari nelle varie aree d'affari -> quali saranno le figure professionali tipiche nelle diverse aree bancaria.
+- Evoluzione dei modelli organizzativi degli sportelli e al ricorso a canali alternativi; modalità di gestione delle relazioni di clientela.
+
+**D:** ⚠️ A quale mercato si orienta maggiormente INCI nella proiezione, e con quale approccio, secondo la slide 10 della lezione 25?
+**R:** «- Maggior orientamento al **middle market (medie imprese)** -> approccio consulenza **multi-prodotto/servizio** (mercato di riferimento specifico – presenza territoriale locale Insieme a una rete di sedi operative periferiche)» (slide 10). La docente: «un maggiore orientamento al middle market, quindi anche le medie imprese», con l'approccio di consulenza multiprodotto multiservizio «sempre più personalizzato» e la presenza territoriale locale insieme a una rete di sedi operative periferiche ([00:32:10]–[00:32:43]). ⚠️ Il middle market sono le **medie** imprese, e l'approccio è **multi**-prodotto/servizio; per i grandi e i medio-grandi complessi industriali la slide prevede l'offerta di servizi finanziari innovativi.
+**Opzione:** Maggior orientamento al middle market (medie imprese) -> approccio consulenza multi-prodotto/servizio.
+**Distrattori:**
+- Maggior orientamento al middle market (medie imprese) -> approccio standardizzato mono-prodotto/servizio.
+- Il decentramento organizzativo -> la revisione dei contenuti dei ruoli direttivi (di quali risorse direttive la banca avrà bisogno?).
+- Compiti di front-office e di back-office (snellimento delle procedure).
+
+**D:** ⚠️ Come si combinano gestionalità (G), specializzazione (S) e operatività (O) nelle 3 famiglie di INCI della figura «proiezione al 1995» (slide 10 della lezione 25)?
+**R:** Nella «Fig. 3 Proiezione delle famiglie professionali al 1995» (solo immagine). **Specialisti-operativi**: tratto spesso lungo su S e su metà di O. **Amministrativi**: tratto spesso su metà di O e su un breve tratto di S. **Manager**: tratto spesso su tutta G, brevi tratti su S e O. La docente: gli specialisti operativi «sono specialisti in un settore, in un ambito che però vanno a svolgere anche alcune procedure operative» ([00:31:11]); per l'altra categoria, quella delle persone con «le competenze nell'ambito proprio di gestionalità», «l'elemento di gestionalità diventa sempre più importante» ([00:31:39]–[00:31:57]). ⚠️ Nel 1995 la gestionalità prevale nei **manager**; nel 1990, negli specialisti-manager, prevaleva la specializzazione.
+**Opzione:** Specialisti-operativi: specializzazione e operatività; amministrativi: soprattutto operatività, con un po' di specializzazione; manager: soprattutto gestionalità.
+**Distrattori:**
+- Specialisti-operativi: specializzazione e operatività; amministrativi: soprattutto operatività, con un po' di specializzazione; manager: soprattutto specializzazione, con un po' di gestionalità.
+- Riqualificazione delle risorse: formazione e sviluppo; nuovi problemi di gestione del personale: motivazione, incentivazione, valutazione.
+- Obsolete: le famiglie destinate a contrarsi e a scomparire, che non ci serviranno più in futuro; emergenti: quelle di cui potremmo aver bisogno nel prossimo futuro.
+
+**D:** ⚠️ Che cosa richiede la proiezione per la famiglia degli specialisti-operativi di INCI (85%), secondo la slide 11 della lezione 25?
+**R:** «Proiezione dell'evoluzione strategica e organizzativa (2) *Specialisti-operativi* – 85% • Nuove capacità specialistiche richieste (*global consulting* –> promozione e contatto con il cliente in fase produttiva e distributiva) • Coinvolgimento in compiti di natura operativa (snellimento di back-office -> assegnazione di compiti amministrativo-contabili) • Fabbisogno di ruoli di gestione delle relazioni con clientela • Mantenimento/sviluppo delle competenze tecniche» (slide 11). La docente: è la famiglia «più numerosa, più importante»; il consulente globale serve diversi segmenti di clientela, dalle grandi imprese alle piccole e ai privati, con competenze «a 360 gradi» ([00:33:43]–[00:34:31]); gli specialisti dovranno svolgere anche procedure operative, supportati dalle tecnologie digitali ([00:35:00]–[00:35:26]). ⚠️ Le competenze tecniche si **mantengono e sviluppano**.
+**Opzione:** Nuove capacità specialistiche richieste (global consulting –> promozione e contatto con il cliente in fase produttiva e distributiva); coinvolgimento in compiti di natura operativa (snellimento di back-office -> assegnazione di compiti amministrativo-contabili); fabbisogno di ruoli di gestione delle relazioni con clientela; mantenimento/sviluppo delle competenze tecniche.
+**Distrattori:**
+- Nuove capacità specialistiche richieste (global consulting –> promozione e contatto con il cliente in fase produttiva e distributiva); coinvolgimento in compiti di natura operativa (snellimento di back-office -> assegnazione di compiti amministrativo-contabili); fabbisogno di ruoli di gestione delle relazioni con clientela; abbandono delle competenze tecniche.
+- Ruoli direttivi per le funzioni centrali e periferiche; compiti di coordinamento, programmazione, controllo, decisione sui rischi; profilo gestionale limitato, prevalenza della componente specialistica.
+- Valutazione dei rischi.
+
+**D:** ⚠️ Come si compone la famiglia degli specialisti-operativi di INCI, secondo la figura della slide 11 della lezione 25?
+**R:** «Fig. 4 Composizione della famiglia degli specialisti-operativi» (solo immagine): **Responsabile di cliente** 5%, **Specialista di settore** 25%, **Consulente globale** 70%. La docente: il consulente globale fornirà la consulenza a diversi segmenti di clienti; lo specialista di settore può essere, per esempio, lo specialista dello sviluppo delle relazioni con il cliente, della commercializzazione e della distribuzione dei servizi; «il 5% sono gli specialisti operativi di livello un pochino più elevato che quello responsabile di cliente» ([00:35:26]–[00:35:53]). La docente cita solo il 5%. ⚠️ Il **70%** è dei consulenti globali, il **25%** degli specialisti di settore. Il 5% torna anche nella proiezione al 1995, ma per i **manager** (slide 10).
+**Opzione:** Responsabile di cliente – 5%; specialista di settore – 25%; consulente globale – 70%.
+**Distrattori:**
+- Responsabile di cliente – 5%; specialista di settore – 70%; consulente globale – 25%.
+- Specialisti – 50%; operativi-amministrativi – 40%; specialisti-manager – 10%.
+- Specialisti-operativi – 85%; amministrativi – 10%; manager – 5%.
+
+**D:** ⚠️ A che cosa porta il global consulting fra le nuove capacità specialistiche richieste agli specialisti-operativi, secondo la slide 11 della lezione 25?
+**R:** «• Nuove capacità specialistiche richieste (*global consulting* –> promozione e contatto con il cliente in fase produttiva e distributiva)» (slide 11). La docente: la promozione e il contatto con il cliente sono «la relazione continua duratura su diverse fasi anche insomma dell'erogazione del servizio quindi sia prima sia durante sia dopo l'erogazione del servizio o la vendita di un prodotto bancario» ([00:34:31]–[00:35:00]). ⚠️ In fase **produttiva e** distributiva.
+**Opzione:** Promozione e contatto con il cliente in fase produttiva e distributiva.
+**Distrattori:**
+- Promozione e contatto con il cliente solo in fase distributiva.
+- Macrostruttura aziendale e organizzazione del lavoro.
+- In una prospettiva di stabilizzazione delle nuove professionalità.
+
+## Lezione 26 — La gestione della mobilità e la differenziazione delle politiche del personale
+
+**D:** ⚠️ Quali obiettivi accompagnano il cambiamento nella dimensione/composizione delle famiglie professionali, secondo la slide 2 della lezione 26?
+**R:** «Come realizzare il cambiamento nella dimensione/composizione delle famiglie professionali? […] Obiettivi: • **Intensificazione del processo di automazione** (informatizzazione, office-automation) • **Razionalizzazione organizzativa** • **Riduzione dell'organico complessivo**» (slide 2). La docente, sul caso INCI: l'automazione è anche «introduzione di alcuni strumenti digitali importanti» per le procedure dei processi operativi; la razionalizzazione è il raggiungimento dell'efficienza e dell'efficacia organizzativa; l'organico complessivo «si riduce di circa 20%» ([00:00:47]–[00:01:30]). ⚠️ Gli obiettivi sono **tre**, e l'organico si **riduce**.
+**Opzione:** Intensificazione del processo di automazione (informatizzazione, office-automation); razionalizzazione organizzativa; riduzione dell'organico complessivo.
+**Distrattori:**
+- Intensificazione del processo di automazione (informatizzazione, office-automation); razionalizzazione organizzativa; ampliamento dell'organico complessivo.
+- Il confronto e le diversità d'opinione, che rappresentano la vera spinta verso il nuovo; il management valuta i processi, organizza studi ambientali, individua punti di forza e debolezze.
+- Segmentazione (classi omogenei dei clienti -> dipendenti e collaboratori); differenziazione (marketing mix differente -> politiche operative di gestione differenti).
+
+**D:** ⚠️ Con quali processi si gestisce il passaggio dallo stato iniziale allo stato finale delle famiglie professionali, secondo la slide 2 della lezione 26?
+**R:** «Passaggio dallo stato iniziale allo stato finale: -> **gestione di processi di mobilità interna ed esterna**» (slide 2). La docente: la mobilità interna è la «riallocazione, spostamento delle nostre risorse umane all'interno dell'organizzazione»; la mobilità esterna sono «i flussi in entrata e i flussi in uscita», quando si acquisiscono risorse dal mercato esterno e quando le risorse, «magari obsolete», tornano sul mercato del lavoro ([00:02:36]–[00:03:19]). ⚠️ Mobilità **interna ed esterna**, tutte e due.
+**Opzione:** Con la gestione di processi di mobilità interna ed esterna.
+**Distrattori:**
+- Con la gestione dei soli processi di mobilità interna.
+- L'analisi del clima organizzativo.
+- La trasposizione della logica di marketing sul piano di gestione del personale.
+
+**D:** ⚠️ Di quanto si riduce l'organico di INCI fra il 1990 e il 1995, secondo le figure delle slide 2 e 4 della lezione 26?
+**R:** Del **20%**. La Fig. 5 della slide 2 segna «- ORGANICO 20%» fra la colonna del 1990 e quella del 1995; la Fig. 6 della slide 4 passa da «ORGANICO 1000» (1990) a «ORGANICO 800» (1995). La docente: «l'organico complessivo si riduce di circa 20%», ed è «il cambiamento nella dimensione, quindi il cambiamento quantitativo» ([00:01:30]–[00:01:42]); l'organizzazione «si è posta all'obiettivo di diminuire la quantità dell'organico del 20%» ([00:12:54]). ⚠️ Da 1000 a **800**: le uscite sono 350, ma entrano 150 persone nuove.
+**Opzione:** Del 20%, da un organico di 1000 a uno di 800.
+**Distrattori:**
+- Del 10%, da un organico di 1000 a uno di 900.
+- Del 35%, da un organico di 1000 a uno di 650.
+- Del 40%, da un organico di 1000 a uno di 600.
+
+**D:** ⚠️ Come cambia la composizione delle famiglie professionali di INCI fra il 1990 e il 1995, secondo la Fig. 5 della slide 2 della lezione 26?
+**R:** «FIG. 5 EVOLUZIONE DELLA COMPOSIZIONE/DIMENSIONE DELLE FAMIGLIE PROFESSIONALI NEL PERIODO 1990-95» (slide 2, figura): nel **1990** specialisti-manager 10%, operativi-amministrativi 40%, specialisti 50%; nel **1995** manager 5%, amministrativi 10%, specialisti-operativi 85%. La docente: è il cambiamento **qualitativo**, la riqualificazione «degli specialisti manager nella categoria manager, operativi e amministrativi in amministrativi e specialisti che poi si allargano e diventano anche specialisti operativi» ([00:01:49]–[00:02:36]). ⚠️ Nel 1995 i manager sono il **5%** e gli amministrativi il **10%**. Le stesse percentuali sono nelle slide 9 e 10 della lezione 25.
+**Opzione:** 1990: specialisti-manager 10%, operativi-amministrativi 40%, specialisti 50%; 1995: manager 5%, amministrativi 10%, specialisti-operativi 85%.
+**Distrattori:**
+- 1990: specialisti-manager 10%, operativi-amministrativi 40%, specialisti 50%; 1995: manager 10%, amministrativi 5%, specialisti-operativi 85%.
+- Uscite 350 (40 dagli specialisti-manager, 310 dagli operativi-amministrativi); entrate 150 (10 nei manager, 140 negli specialisti-operativi).
+- Definizione dei profili di competenze; valutazione delle competenze presenti e individuazione dei divari; copertura delle esigenze di competenze (adeguamento o acquisizione); rinforzo delle competenze.
+
+**D:** ⚠️ Quale cambiamento delle famiglie professionali di INCI è quantitativo e quale qualitativo, per la docente nella lezione 26?
+**R:** **Quantitativo** è il cambiamento nella **dimensione**: l'organico complessivo che si riduce di circa il 20%, «il cambiamento nella dimensione, quindi il cambiamento quantitativo» ([00:01:30]–[00:01:42]). **Qualitativo** è il cambiamento nella **composizione**: la riqualificazione delle famiglie professionali, cioè «come cambieranno le nostre famiglie professionali le mansioni, le figure i ruoli professionali di cui avremo bisogno» e, più a fondo, le competenze ([00:01:49]–[00:02:36]). In apertura la docente parla di una ridefinizione «sia dal punto di vista quantitativo sia dal punto di vista professionale» ([00:00:31]). ⚠️ Dimensione → quantitativo, composizione → qualitativo. Il titolo della slide 2 li tiene insieme: «dimensione/composizione».
+**Opzione:** Quantitativo il cambiamento nella dimensione (la riduzione dell'organico complessivo); qualitativo il cambiamento nella composizione (la riqualificazione delle famiglie professionali).
+**Distrattori:**
+- Quantitativo il cambiamento nella composizione (la riqualificazione delle famiglie professionali); qualitativo il cambiamento nella dimensione (la riduzione dell'organico complessivo).
+- Nei casi di cambiamento strategico (imprimere nuovi orientamenti e comportamenti); nei casi di tensione nel clima organizzativo (recuperare la motivazione, guidare i valori e sentimenti dei singoli).
+- Operativi: anche le scuole superiori, gli istituti superiori; manager: le università, i master, le lauree magistrali.
+
+**D:** ⚠️ Quali fasi compongono il processo della slide 3 della lezione 26, nell'ordine?
+**R:** Lo schema a freccia della slide 3: «**Definizione dei profili di competenze**» → «**Valutazione delle competenze presenti e individuazione dei "divari"**» → «**Copertura delle esigenze di competenze (adeguamento o acquisizione)**» → «**Rinforzo delle competenze**», con in testa alla freccia «INDIVIDUO/ORGANIZZAZIONE». La docente: si definiscono i profili delle famiglie professionali e le competenze di cui avranno bisogno; si valutano le competenze presenti e si individuano i divari con la situazione a cui si vuole arrivare, cioè «un'analisi di gap»; si coprono le esigenze; si rinforzano le competenze chiave, anche con meccanismi di valutazione coerenti ([00:03:51]–[00:05:54]). Tutti gli step riguardano il livello individuale «ma anche a livello delle organizzazioni» ([00:05:54]). ⚠️ INDIVIDUO/ORGANIZZAZIONE non è una quinta fase: è il livello a cui valgono tutte. L'ultima fase è il **rinforzo**.
+**Opzione:** Definizione dei profili di competenze; valutazione delle competenze presenti e individuazione dei divari; copertura delle esigenze di competenze (adeguamento o acquisizione); rinforzo delle competenze.
+**Distrattori:**
+- Definizione dei profili di competenze; valutazione delle competenze presenti e individuazione dei divari; copertura delle esigenze di competenze (adeguamento o acquisizione); remunerazione delle competenze.
+- Prepensionamento; incentivi all'uscita; passaggi ad altri intermediari nell'area operativa.
+- Valutazione delle aspettative/motivazioni; sistema di ricompensa – aumento dell'equità percepita; i canali di acquisizione delle risorse e i percorsi di carriera differenziati.
+
+**D:** ⚠️ In quali due modi si coprono le esigenze di competenze, secondo la slide 3 e la docente nella lezione 26?
+**R:** «Copertura delle esigenze di competenze (**adeguamento** o **acquisizione**)» (slide 3). La docente: le competenze «possono essere coperte in due modi», con la mobilità interna, cioè lo sviluppo interno, e con la mobilità esterna: «l'adeguamento delle risorse già presenti all'interno dell'organizzazione o dell'acquisizione delle risorse nuove dall'esterno» ([00:04:45]–[00:05:11]). È la stessa scelta del *make o buy* ([00:06:24]–[00:06:46]). ⚠️ L'**adeguamento** è delle risorse **già presenti** (mobilità interna), l'**acquisizione** delle risorse **nuove** (mobilità esterna).
+**Opzione:** Con l'adeguamento delle risorse già presenti all'interno dell'organizzazione (mobilità interna) o con l'acquisizione delle risorse nuove dall'esterno (mobilità esterna).
+**Distrattori:**
+- Con l'adeguamento delle risorse già presenti all'interno dell'organizzazione (mobilità esterna) o con l'acquisizione delle risorse nuove dall'esterno (mobilità interna).
+- Livelli retributivi (dimensione e rango dello sportello); forme di incentivazione (per ruoli valutabili) in base alla gestione per obiettivi.
+- Soddisfazione delle attese/esigenze di una famiglia professionale; massimizzazione del contributo/coinvolgimento nel perseguimento degli obiettivi aziendali.
+
+**D:** ⚠️ Quali alternative percorribili elenca la slide 4 della lezione 26?
+**R:** «->mobilità intra-famiglia ->mobilità inter-famiglia ->**turnover (uscite e nuove assunzioni)**» (slide 4), dopo le domande «Come realizzare tali processi? Quali conseguenze sulle politiche di gestione del personale? Quali sono i vincoli? Quali sono le alternative percorribili?». La docente: la mobilità intrafamiliare sta «all'interno di una famiglia professionale», anche con la *job rotation*; quella interfamiliare è «lo spostamento di un dipendente, di un collaboratore da una famiglia ad altra»; il turnover è la mobilità esterna, «l'uscita praticamente, oppure nuova assunzione» ([00:07:07]–[00:09:18]). ⚠️ Il turnover della slide comprende **uscite e nuove assunzioni**, non solo le uscite. È la formula a cui rimandano la nota e la domanda 5 della lezione 22.
+**Opzione:** Mobilità intra-famiglia; mobilità inter-famiglia; turnover (uscite e nuove assunzioni).
+**Distrattori:**
+- Mobilità intra-famiglia; mobilità inter-famiglia; turnover (uscite e promozioni interne).
+- L'analisi del clima organizzativo.
+- Le politiche operative di gestione differenti, che la docente chiama elementi di management mix.
+
+**D:** ⚠️ Che differenza c'è fra mobilità intra-famiglia e mobilità inter-famiglia, secondo la docente nella lezione 26?
+**R:** **Intra-famiglia**: dentro la **stessa** famiglia professionale. Per esempio dagli specialisti agli specialisti-operativi: la persona «si trovava già in una famiglia professionale legata ai ruoli specialistici» e vi rimane, ma la sua *job description* «è stata arricchita, è stata allargata» con qualche responsabilità o compito in più, oppure cambia l'area specialistica, per esempio dal commerciale alle relazioni con il cliente o al marketing ([00:07:53]–[00:08:49]); vi rientra anche la *job rotation* ([00:07:14]). **Inter-famiglia**: «lo spostamento di un dipendente, di un collaboratore da una famiglia ad altra», come gli specialisti-manager del caso INCI che passano agli specialisti-operativi ([00:07:14]–[00:07:30]). ⚠️ A [00:07:49] la docente chiama «intrafamiglia» anche il passaggio dagli specialisti-manager agli specialisti-operativi, che è inter-famiglia, e si corregge subito dopo ([00:07:53]).
+**Opzione:** Intra-famiglia: lo spostamento all'interno della stessa famiglia professionale (es. da specialisti a specialisti-operativi); inter-famiglia: lo spostamento da una famiglia all'altra (es. da specialisti-manager a specialisti-operativi).
+**Distrattori:**
+- Intra-famiglia: lo spostamento da una famiglia all'altra (es. da specialisti-manager a specialisti-operativi); inter-famiglia: lo spostamento all'interno della stessa famiglia professionale (es. da specialisti a specialisti-operativi).
+- Quantitativo il cambiamento nella dimensione (la riduzione dell'organico complessivo); qualitativo il cambiamento nella composizione (la riqualificazione delle famiglie professionali).
+- Operativi: anche le scuole superiori, gli istituti superiori; manager: le università, i master, le lauree magistrali.
+
+**D:** ⚠️ Quante uscite e quante entrate prevede la Fig. 6 della slide 4 della lezione 26 per il caso INCI?
+**R:** La «FIG. 6 IPOTESI DI MOBILITÀ INTERNA ED ESTERNA DELLE FAMIGLIE PROFESSIONALI» (slide 4) porta l'organico da **1000** (1990) a **800** (1995). Le frecce verso l'esterno sono le **uscite**: **40** dagli specialisti-manager e **310** dagli operativi-amministrativi, **350** in tutto. Le frecce dall'esterno sono le **entrate**: **10** nei manager e **140** negli specialisti-operativi, **150** in tutto. 1000 − 350 + 150 = 800. La docente legge solo la prima riga: «specialisti manager, 40 persone, sono andate via… Invece 10 sono entrati», cioè assunti dall'esterno ([00:09:18]–[00:09:44]). ⚠️ I 10 entrano nei **manager**, la casella del 1995. I totali sono ricavati dalla figura: la docente non li dice.
+**Opzione:** Uscite 350 (40 dagli specialisti-manager, 310 dagli operativi-amministrativi); entrate 150 (10 nei manager, 140 negli specialisti-operativi).
+**Distrattori:**
+- Entrate 350 (40 negli specialisti-manager, 310 negli operativi-amministrativi); uscite 150 (10 dai manager, 140 dagli specialisti-operativi).
+- Intensificazione del processo di automazione (informatizzazione, office-automation); razionalizzazione organizzativa; riduzione dell'organico complessivo.
+- Del 20%, da un organico di 1000 a uno di 800.
+
+**D:** ⚠️ Che rapporto c'è fra turnover e mobilità esterna nella lezione 26?
+**R:** Per la docente coincidono: «Se parliamo invece della mobilità esterna, quindi l'uscita praticamente, oppure nuova assunzione, parliamo di turnover», cioè le uscite delle risorse umane verso il mercato del lavoro «oppure l'acquisizione delle nuove risorse dal mercato» ([00:08:54]–[00:09:18]). Nelle slide il turnover compare due volte. Nella slide 4 è una delle tre alternative, «turnover (uscite e nuove assunzioni)», accanto alla mobilità intra-famiglia e inter-famiglia. Nella slide 6, intitolata «Mobilità esterna (entrate e uscite)», l'«accelerazione del turnover in uscita» è uno dei due fattori del ricorso al mercato esterno. ⚠️ Nel test sono opzioni **distinte**: la domanda 2 vuole l'intestazione della slide 6, «mobilità esterna», e il turnover è un distrattore, come nella domanda 1.
+
+**D:** ⚠️ Che cosa comprende la mobilità interna, secondo la slide 5 della lezione 26?
+**R:** «**Mobilità interna:** • Valutazione del potenziale e la possibilità di attuare lo **sviluppo qualitativo** delle risorse umane (**formazione**) • **Trasformazione interna** che mette in coerenza le aspirazioni e motivazioni individuali con gli sforzi necessari per realizzare il cambiamento» (slide 5). La docente: bisogna valutare il potenziale e la possibilità di effettuare la formazione per sviluppare le competenze individuate con l'analisi dei gap ([00:09:44]–[00:10:07]); la trasformazione interna deve fare i conti con la **resistenza** dell'individuo al cambiamento ([00:10:26]–[00:11:02]). ⚠️ Lo sviluppo è **qualitativo**, e fra parentesi c'è la **formazione**. Il primo punto è la domanda 1 del test.
+**Opzione:** Valutazione del potenziale e la possibilità di attuare lo sviluppo qualitativo delle risorse umane (formazione); trasformazione interna che mette in coerenza le aspirazioni e motivazioni individuali con gli sforzi necessari per realizzare il cambiamento.
+**Distrattori:**
+- Valutazione del potenziale e la possibilità di attuare lo sviluppo quantitativo delle risorse umane (formazione); trasformazione interna che mette in coerenza le aspirazioni e motivazioni individuali con gli sforzi necessari per realizzare il cambiamento.
+- Agiamo nell'interesse esclusivo dei nostri clienti. Siamo etici, diretti e trasparenti. Facciamo sempre la cosa giusta - a prescindere che questo venga riconosciuto nell'immediato.
+- Selezione dei migliori per la valutazione dei finanziamenti; percorsi di carriera a bassa flessibilità a causa di elevata specializzazione dei ruoli, forte competitività in prospettiva di opportunità limitate.
+
+**D:** ⚠️ Di che cosa possono far parte la valutazione del potenziale del personale e la possibilità di attuare lo sviluppo qualitativo delle risorse umane, secondo il test della lezione 26 (domanda 1)?
+**R:** «**Mobilità interna**». È il primo punto della slide 5 quasi alla lettera: «Mobilità interna: • Valutazione del potenziale e la possibilità di attuare lo sviluppo qualitativo delle risorse umane (formazione)». La docente: «parlando della mobilità interna dobbiamo sicuramente valutare il potenziale, la possibilità di attuare lo sviluppo qualitativo delle risorse umane» ([00:09:44]). La domanda aggiunge «del personale» e toglie «(formazione)»; la piattaforma scrive «possono fare far parte». ⚠️ Le domande 1 e 2 sono **speculari** sulla stessa batteria. La **mobilità esterna** è l'intestazione della slide 6, «entrate e uscite». Il **turnover** è per la slide 4 «uscite e nuove assunzioni», e per la docente la mobilità esterna stessa ([00:08:54]). L'**assunzione** è l'entrata di una nuova risorsa dall'esterno ([00:09:29]). Nessuna delle tre sviluppa le risorse già presenti. Distrattori del test: «mobilità esterna», «turnover», «assunzione».
+**Opzione:** Mobilità interna.
+**Distrattori:**
+- Mobilità esterna.
+- Turnover.
+- Assunzione.
+
+**D:** Perché, per la docente, la mobilità interna può non essere la scelta migliore anche quando la banca ha i mezzi per formare le persone (lezione 26)?
+**R:** Perché conta anche la **disponibilità della persona**. La banca può avere un'unità che si occupa della formazione o perfino una **corporate university**, «l'università interna», e allora sembrerebbe che la scelta migliore sia sviluppare le competenze all'interno. Ma se l'atteggiamento, la motivazione e l'aspirazione del pool di talenti mostrano una **resistenza** «molto difficile da affrontare», si può scegliere di acquisire la competenza dall'esterno, perché la trasformazione delle risorse in possesso sarebbe «un processo molto impegnativo» ([00:11:02]–[00:12:17]). La valutazione è complessa: si guarda sia la possibilità organizzativa di effettuare lo sviluppo, sia «la prontezza, la disponibilità della persona di essere sviluppata, di essere formata e riqualificata» ([00:12:17]). È il secondo punto della slide 5: la trasformazione interna deve mettere in coerenza le aspirazioni e motivazioni individuali con gli sforzi del cambiamento.
+
+**D:** ⚠️ Di che cosa è funzione il ricorso al mercato esterno per l'acquisizione delle nuove risorse, secondo la slide 6 della lezione 26?
+**R:** «**Mobilità esterna (entrate e uscite)** Il ricorso al mercato esterno per l'acquisizione delle nuove risorse è funzione di: 1. **Previste uscite per anzianità e accelerazione del turnover in uscita** conseguente all'obiettivo della riduzione dell'organico […] 2. **Squilibrio tra le professionalità richieste e quelle esistenti e difficoltà di attuare una completa trasformazione interna delle risorse**» (slide 6). La docente: bisogna valutare quante persone sono in uscita, per esempio perché devono andare in pensione, in coerenza con l'obiettivo di ridurre l'organico del 20% ([00:12:54]–[00:13:48]); valutato il gap, se la trasformazione interna è troppo impegnativa si sceglie di «acquisire praticamente la risorsa dall'esterno» ([00:14:23]–[00:14:51]). ⚠️ Il turnover in uscita **accelera**, non rallenta. Il secondo punto è la domanda 2 del test.
+**Opzione:** Previste uscite per anzianità e accelerazione del turnover in uscita conseguente all'obiettivo della riduzione dell'organico; squilibrio tra le professionalità richieste e quelle esistenti e difficoltà di attuare una completa trasformazione interna delle risorse.
+**Distrattori:**
+- Previste uscite per anzianità e rallentamento del turnover in uscita conseguente all'obiettivo della riduzione dell'organico; squilibrio tra le professionalità richieste e quelle esistenti e difficoltà di attuare una completa trasformazione interna delle risorse.
+- Il fatto che usufruiscono, utilizzano le politiche di gestione (formazione, retribuzione, incentivazione, premiazione, sviluppo della carriera), che per loro diventano veri e propri prodotti.
+- Durante la pandemia: in smart working le persone non potevano essere valutate in maniera tradizionale, in base alle ore, e si sono sviluppati sistemi basati sul raggiungimento degli obiettivi condivisi.
+
+**D:** ⚠️ Quali strumenti per l'uscita elenca la slide 6 della lezione 26?
+**R:** «-> la scelta degli strumenti per l'uscita: • **Prepensionamento** • **Incentivi all'uscita** • **Passaggi ad altri intermediari nell'area operativa**» (slide 6). La docente: «parliamo dei meccanismi come può essere prepensionamento, incentivi all'uscita, passaggi ad altri intermediari nell'area operativa»; si può anche riallocare la risorsa dalla sede centrale a uno sportello periferico, o presso un partner con cui la banca ha convenzioni: «i meccanismi come vedete di uscita ce ne sono diversi» ([00:13:21]–[00:14:23]). ⚠️ Per la docente l'elenco è **aperto**. Gli strumenti servono all'**uscita**: le nuove assunzioni sono l'altra metà della mobilità esterna.
+**Opzione:** Prepensionamento; incentivi all'uscita; passaggi ad altri intermediari nell'area operativa.
+**Distrattori:**
+- Prepensionamento; incentivi all'uscita; nuove assunzioni dal mercato esterno.
+- Digitalizzazione.
+- Gli specialisti in un determinato settore; la principale criticità è quella del sistema di ricompensa.
+
+**D:** ⚠️ A che cosa fa ricorrere l'impresa uno squilibrio tra le professionalità richieste e quelle esistenti e la difficoltà di attuare una completa trasformazione interna delle risorse, secondo il test della lezione 26 (domanda 2)?
+**R:** «**Mobilità esterna**». La frase è il secondo punto della slide 6 alla lettera, sotto l'intestazione «Mobilità esterna (entrate e uscite)»: «Il ricorso al mercato esterno per l'acquisizione delle nuove risorse è funzione di: […] 2. Squilibrio tra le professionalità richieste e quelle esistenti e difficoltà di attuare una completa trasformazione interna delle risorse». La docente: è il punto «di cui abbiamo parlato prima», che porta alla «scelta poi di acquisire praticamente la risorsa dall'esterno» ([00:14:23]–[00:14:51]). ⚠️ Due distrattori hanno un appiglio. Il **turnover** è per la slide 4 «uscite e nuove assunzioni», e per la docente è la mobilità esterna stessa ([00:08:54]). L'**assunzione** è ciò a cui serve il ricorso al mercato esterno, «l'acquisizione delle nuove risorse». Ma la slide mette la frase sotto la **mobilità esterna**, e la domanda chiede a che cosa si **ricorre**: al mercato esterno. La domanda 1, speculare, ha per chiave l'intestazione della slide 5. La **mobilità interna** è proprio la trasformazione interna che risulta difficile. Distrattori del test: «mobilità interna», «turnover», «assunzione».
+**Opzione:** Mobilità esterna.
+**Distrattori:**
+- Mobilità interna.
+- Turnover.
+- Assunzione.
+
+**D:** ⚠️ Quali passaggi riassumono la gestione strategica del personale, secondo la slide 7 della lezione 26?
+**R:** «La gestione strategica del personale (riassunto): 1. **Identificazione delle famiglie professionali** 2. **Analisi della dinamica temporale** 3. **Definizione dei fabbisogni qualitativi e quantitativi** 4. **Gestione della mobilità interna ed esterna** dovuta alla revisione delle strategie e degli assetti organizzativi attraverso la valutazione delle opzioni (costi/benefici)» (slide 7). La docente: l'identificazione delle famiglie è «lo step numero uno», «il punto di partenza»; la dinamica temporale è l'analisi dell'ambiente esterno (mercato di riferimento, strategia competitiva, cinque forze di Porter, clientela, fornitori); dal fabbisogno qualitativo e quantitativo discendono gli interventi di «dimensionamento, ridimensionamento e riqualificazione» ([00:15:26]–[00:16:31]). ⚠️ I passaggi sono **quattro**, e l'ultimo si decide con la valutazione **costi/benefici**. La remunerazione non c'è: è l'intrusa della domanda 3 del test.
+**Opzione:** Identificazione delle famiglie professionali; analisi della dinamica temporale; definizione dei fabbisogni qualitativi e quantitativi; gestione della mobilità interna ed esterna dovuta alla revisione delle strategie e degli assetti organizzativi attraverso la valutazione delle opzioni (costi/benefici).
+**Distrattori:**
+- Identificazione delle famiglie professionali; analisi della dinamica temporale; definizione dei fabbisogni qualitativi e quantitativi; gestione della mobilità interna ed esterna dovuta alla revisione delle strategie e degli assetti organizzativi attraverso la valutazione delle prestazioni individuali.
+- Mobilità intra-famiglia; mobilità inter-famiglia; turnover (uscite e nuove assunzioni).
+- Segmentazione (classi omogenei dei clienti -> dipendenti e collaboratori); differenziazione (marketing mix differente -> politiche operative di gestione differenti).
+
+**D:** ⚠️ Qual è il primo passaggio della gestione strategica del personale, secondo la slide 7 della lezione 26?
+**R:** «1. **Identificazione delle famiglie professionali**» (slide 7). La docente: «lo step numero uno, identificazione delle famiglie professionali, quindi partiamo da questo il punto di partenza» ([00:15:26]). ⚠️ È l'unico dei quattro passaggi che **non** compare fra le opzioni della domanda 3 del test. Il secondo è l'**analisi della dinamica temporale**, il terzo la **definizione dei fabbisogni qualitativi e quantitativi**. La remunerazione del personale non è un passaggio.
+**Opzione:** Identificazione delle famiglie professionali.
+**Distrattori:**
+- Analisi della dinamica temporale.
+- Definizione dei fabbisogni qualitativi e quantitativi.
+- Remunerazione del personale.
+
+**D:** ⚠️ Quale tra i seguenti passaggi non fa parte della gestione strategica del personale, secondo il test della lezione 26 (domanda 3)?
+**R:** «**Remunerazione del personale**». La slide 7 riassume la gestione strategica del personale in quattro passaggi: «Identificazione delle famiglie professionali», «Analisi della dinamica temporale», «Definizione dei fabbisogni qualitativi e quantitativi», «Gestione della mobilità interna ed esterna dovuta alla revisione delle strategie e degli assetti organizzativi…» ([00:15:26]–[00:17:42]). La remunerazione sta nella slide 8, come colonna «Remunerazione Incentivi» della matrice famiglie professionali/politiche di gestione del personale: per la docente è uno strumento della gestione del personale **operativa** ([00:18:42]–[00:18:56]). ⚠️ La domanda è **negativa**; l'opzione C tronca il quarto passaggio dopo «delle strategie», e il primo passaggio non è fra le opzioni. ⚠️ La chiave regge sul **riassunto** della slide 7: nella lezione 22 la gestione strategica è l'insieme delle politiche del ciclo di vita, e fra i contenuti dell'integrazione ci sono «La valutazione delle politiche retributive rispetto ai concorrenti» e «La creazione di un sistema di ricompense equo» (slide 9 e 11 di quel deck). La piattaforma scrive «Quali» e «passagi». Distrattori del test: «analisi della dinamica temporale», «definizione dei fabbisogni qualitativi e quantitativi», «gestione della mobilità interna ed esterna dovuta alla revisione delle strategie».
+**Opzione:** Remunerazione del personale.
+**Distrattori:**
+- Analisi della dinamica temporale.
+- Definizione dei fabbisogni qualitativi e quantitativi.
+- Gestione della mobilità interna ed esterna dovuta alla revisione delle strategie.
+
+**D:** ⚠️ Fra quali opzioni si sceglie nella gestione della mobilità, e in che rapporto, secondo la slide 7 della lezione 26?
+**R:** «…attraverso la valutazione delle opzioni (costi/benefici): • **Ricorrere all'acquisizione di nuove risorse dal mercato esterno** • **Trasformare le professionalità dall'interno** -> scelte di un rapporto di **alternatività/complementarietà**» (slide 7). La docente: «non c'è mai la strada migliore, ma ci sono le alternative», da valutare con l'analisi costi-benefici; si può anche decidere «di acquisire alcune competenze dall'esterno, altre sviluppare internamente», cioè un equilibrio basato sulla valutazione costi-benefici ([00:16:54]–[00:17:42]). ⚠️ Il rapporto è di alternatività **o complementarietà**: le due vie si possono combinare.
+**Opzione:** Ricorrere all'acquisizione di nuove risorse dal mercato esterno o trasformare le professionalità dall'interno, in un rapporto di alternatività/complementarietà.
+**Distrattori:**
+- Ricorrere all'acquisizione di nuove risorse dal mercato esterno o trasformare le professionalità dall'interno, in un rapporto di sola alternatività.
+- Livelli retributivi (dimensione e rango dello sportello); forme di incentivazione (per ruoli valutabili) in base alla gestione per obiettivi.
+- A capire quali sono le politiche più adatte per ogni famiglia professionale, per differenziare le politiche di gestione del personale.
+
+**D:** ⚠️ Come definisce la gestione strategica del personale la slide 7 della lezione 26?
+**R:** «**La gestione strategica del personale è la ricerca di relazioni di coerenza tra le scelte dei vertici aziendali e le scelte del governo di ogni singole famiglia professionale**» (slide 7, in grassetto, con «ogni singole»). La docente: le scelte più strategiche dei vertici devono essere coerenti con quelle per le famiglie professionali, e le scelte per ogni famiglia coerenti fra loro, per perseguire gli obiettivi di tutta l'organizzazione ([00:17:48]–[00:18:25]). ⚠️ La coerenza è fra i **vertici aziendali** e il governo di **ogni singola famiglia professionale**. La lezione 22 ne dà un'altra formula: «l'insieme delle politiche di acquisizione, di integrazione, di sviluppo e di gestione delle uscite delle risorse umane» (slide 9 di quel deck).
+**Opzione:** La ricerca di relazioni di coerenza tra le scelte dei vertici aziendali e le scelte del governo di ogni singole famiglia professionale.
+**Distrattori:**
+- La ricerca di relazioni di coerenza tra le scelte dei vertici aziendali e le scelte dei concorrenti sul mercato del lavoro.
+- La trasposizione della logica di marketing sul piano di gestione del personale.
+- La differenziazione/personalizzazione delle politiche di gestione del personale, per le caratteristiche, esigenze e obiettivi diversi in ogni singola famiglia professionale e la necessità di aumentare la motivazione/soddisfazione.
+
+**D:** ⚠️ Quali colonne e quali righe ha la matrice famiglie professionali/politiche di gestione del personale della slide 8 della lezione 26?
+**R:** «FIG. 7 MATRICE FAMIGLIE PROFESSIONALI/POLITICHE DI GESTIONE DEL PERSONALE» (slide 8, immagine, celle vuote): colonne «**Selezione Inserimento**», «**Formazione**», «**Valutazione Prestazione**», «**Remunerazione Incentivi**», «**Promozioni Carriera**», «**Uscita**»; righe «**Manager**», «**Specialisti - operativi**», «**Amministrativi**», cioè le famiglie del 1995 del caso INCI. La docente: «in orizzontale ci sono diversi strumenti della gestione operativa del personale, invece in verticale, quindi in righe, vediamo diverse famiglie professionali» ([00:19:17]); li elenca come «selezione, inserimento, formazione, valutazione delle prestazioni, della performance, remunerazione, incentivazione, promozione, avanzamento della carriera, uscita dall'organizzazione» ([00:18:56]–[00:19:12]). ⚠️ Le righe sono le famiglie **del 1995**, non quelle del 1990.
+**Opzione:** Colonne: selezione/inserimento, formazione, valutazione/prestazione, remunerazione/incentivi, promozioni/carriera, uscita; righe: manager, specialisti-operativi, amministrativi.
+**Distrattori:**
+- Colonne: selezione/inserimento, formazione, valutazione/prestazione, remunerazione/incentivi, promozioni/carriera, uscita; righe: specialisti-manager, operativi-amministrativi, specialisti.
+- Definizione dei profili di competenze; valutazione delle competenze presenti e individuazione dei divari; copertura delle esigenze di competenze (adeguamento o acquisizione); rinforzo delle competenze.
+- Intensificazione del processo di automazione (informatizzazione, office-automation); razionalizzazione organizzativa; riduzione dell'organico complessivo.
+
+**D:** ⚠️ A che cosa serve la matrice famiglie professionali/politiche di gestione del personale, per la docente nella lezione 26?
+**R:** «Serve per capire quali sono le politiche più adatte per ogni famiglia professionale, quindi la cosa importantissima è costruire questa matrice per **differenziare** praticamente le politiche di gestione del personale» ([00:19:30]); perciò «la progettazione degli sistemi operativi deve essere basata su ogni singola famiglia professionale» ([00:19:47]). Il motivo: ogni famiglia professionale «nel proprio interno è abbastanza omogenea», per preferenze ed esigenze, mentre fra le famiglie la differenza è «abbastanza elevata» ([00:19:55]–[00:20:33]). ⚠️ La matrice serve a **differenziare**, non a uniformare.
+**Opzione:** A capire quali sono le politiche più adatte per ogni famiglia professionale, per differenziare le politiche di gestione del personale.
+**Distrattori:**
+- A capire quali sono le politiche più adatte per ogni famiglia professionale, per uniformare le politiche di gestione del personale.
+- Con la gestione di processi di mobilità interna ed esterna.
+- Mobilità intra-famiglia; mobilità inter-famiglia; turnover (uscite e nuove assunzioni).
+
+**D:** ⚠️ Quali obiettivi ha la progettazione dei sistemi operativi per ogni singola famiglia professionale, secondo la slide 9 della lezione 26?
+**R:** «La progettazione degli sistemi operativi per ogni singola famiglia professionale: • **Soddisfazione delle attese/esigenze di una famiglia professionale** • **Massimizzazione del contributo/coinvolgimento nel perseguimento degli obiettivi aziendali**» (slide 9, con «degli sistemi»). La docente: soddisfare le attese e le esigenze di una singola famiglia professionale e massimizzarne il contributo, «perché ovviamente più persona è motivata, più riesce ad essere produttiva e quindi proporre e fornire un servizio di qualità maggiore» ([00:21:15]–[00:21:40]). ⚠️ Il contributo si massimizza nel perseguimento degli obiettivi **aziendali**.
+**Opzione:** Soddisfazione delle attese/esigenze di una famiglia professionale; massimizzazione del contributo/coinvolgimento nel perseguimento degli obiettivi aziendali.
+**Distrattori:**
+- Soddisfazione delle attese/esigenze di una famiglia professionale; massimizzazione del contributo/coinvolgimento nel perseguimento degli obiettivi individuali.
+- Intra-famiglia: lo spostamento all'interno della stessa famiglia professionale (es. da specialisti a specialisti-operativi); inter-famiglia: lo spostamento da una famiglia all'altra (es. da specialisti-manager a specialisti-operativi).
+- Gli specialisti in un determinato settore; la principale criticità è quella del sistema di ricompensa.
+
+**D:** ⚠️ Che cosa richiede la molteplicità/diversità delle famiglie professionali, e perché, secondo la slide 9 della lezione 26?
+**R:** «La molteplicità/diversità delle famiglie professionali richiede la **differenziazione/personalizzazione delle politiche di gestione del personale**: - Caratteristiche, esigenze e obiettivi diversi in ogni singola famiglia professionale - Necessità di aumentare la motivazione/soddisfazione -> punto chiave per il comportamento individuale -> la produttività e la qualità del servizio» (slide 9, in grassetto la prima frase). La docente la legge quasi alla lettera ([00:21:40]–[00:22:12]). ⚠️ È la frase su cui si regge la domanda 5 del test: **differenziazione**, non segmentazione. La segmentazione è la ripartizione dei dipendenti in classi omogenee, due righe sotto.
+**Opzione:** La differenziazione/personalizzazione delle politiche di gestione del personale, per le caratteristiche, esigenze e obiettivi diversi in ogni singola famiglia professionale e la necessità di aumentare la motivazione/soddisfazione.
+**Distrattori:**
+- La segmentazione dei dipendenti e collaboratori in classi omogenee, per le caratteristiche, esigenze e obiettivi diversi in ogni singola famiglia professionale e la necessità di aumentare la motivazione/soddisfazione.
+- La ricerca di relazioni di coerenza tra le scelte dei vertici aziendali e le scelte del governo di ogni singole famiglia professionale.
+- Selezione dei migliori per la valutazione dei finanziamenti; percorsi di carriera a bassa flessibilità a causa di elevata specializzazione dei ruoli, forte competitività in prospettiva di opportunità limitate.
+
+**D:** ⚠️ Che cos'è il marketing interno, secondo la slide 9 della lezione 26?
+**R:** «Trasposizione della logica di marketing sul piano di gestione del personale (**marketing interno**)» (slide 9, in grassetto «marketing interno»). La docente: dopo le analisi del mercato esterno serve «un'indagine interna», «una specie di marketing interno. Un concetto molto interessante che quindi definisce i nostri dipendenti, i nostri collaboratori come **clienti interni**» ([00:22:15]–[00:22:32]); a [00:23:23] dice «trasformazione della logica di marketing», la slide **trasposizione**. ⚠️ La logica di **marketing** si traspone sul piano della **gestione del personale**, non viceversa. La definizione della domanda 4 del test («attrae, sviluppa e motiva il lavoratore…») non è nei materiali.
+**Opzione:** La trasposizione della logica di marketing sul piano di gestione del personale.
+**Distrattori:**
+- La trasposizione della logica di gestione del personale sul piano di marketing.
+- Trasformare le professionalità dall'interno.
+- Valutazione delle aspettative/motivazioni.
+
+**D:** ⚠️ Quali due aspetti della logica di marketing si traspongono sul piano di gestione del personale, secondo la slide 9 della lezione 26?
+**R:** «• **Segmentazione** (classi omogenei dei clienti -> dipendenti e collaboratori) • **Differenziazione** (marketing mix differente –> politiche operative di gestione differenti)» (slide 9, sottolineati, con «classi omogenei»). La docente: come si segmentano i clienti in base ad attributi e caratteristiche per attivare politiche di vendita, distribuzione e promozione differenti, così si segmenta «tutto il nostro pool del capitale umano» per definire politiche «molto differenziate» ([00:20:33]–[00:21:15]); al posto del marketing mix, «quindi famosi 4P», ci sono le politiche operative di gestione differenti ([00:23:23]–[00:23:59]). ⚠️ La **segmentazione** forma classi omogenee di dipendenti e collaboratori; la **differenziazione** dà loro politiche diverse.
+**Opzione:** Segmentazione (classi omogenei dei clienti -> dipendenti e collaboratori); differenziazione (marketing mix differente -> politiche operative di gestione differenti).
+**Distrattori:**
+- Segmentazione (marketing mix differente -> politiche operative di gestione differenti); differenziazione (classi omogenei dei clienti -> dipendenti e collaboratori).
+- Intra-famiglia: lo spostamento all'interno della stessa famiglia professionale (es. da specialisti a specialisti-operativi); inter-famiglia: lo spostamento da una famiglia all'altra (es. da specialisti-manager a specialisti-operativi).
+- Quantitativo il cambiamento nella dimensione (la riduzione dell'organico complessivo); qualitativo il cambiamento nella composizione (la riqualificazione delle famiglie professionali).
+
+**D:** ⚠️ Quale tipo di marketing attrae, sviluppa e motiva il lavoratore attraverso la soddisfazione dei suoi bisogni, secondo il test della lezione 26 (domanda 4)?
+**R:** «**Interno**». ⚠️ La chiave è giusta ma **non testuale**: la definizione della domanda non è nei materiali. Nella slide 9 il marketing interno è la «Trasposizione della logica di marketing sul piano di gestione del personale», con la segmentazione dei dipendenti e la differenziazione delle politiche, e poco sopra c'è la «Necessità di aumentare la motivazione/soddisfazione». La docente: il marketing interno «definisce i nostri dipendenti, i nostri collaboratori come clienti interni», che usufruiscono delle politiche di gestione come di «veri e propri prodotti» ([00:22:15]–[00:23:23]). La formula più vicina del corso è della lezione 03, ma riferita all'employer branding e al ruolo della Direzione del personale: «Capacità di attrarre, trattenere e motivare le risorse migliore» (slide 14 di quel deck). Il marketing **interattivo**, **collaborativo** e ***guerilla*** non compaiono nello strato di testo dei 30 deck né nei transcript del corso. Distrattori del test: «interattivo», «collaborativo», «guerilla».
+**Opzione:** Interno.
+**Distrattori:**
+- Interattivo.
+- Collaborativo.
+- Guerilla.
+
+**D:** ⚠️ Come può essere definita la personalizzazione delle politiche di gestione del personale in base alle caratteristiche, esigenze e obiettivi di diversi gruppi di dipendenti, secondo il test della lezione 26 (domanda 5)?
+**R:** «**Differenziazione**». È la slide 9 quasi alla lettera: «La molteplicità/diversità delle famiglie professionali richiede la differenziazione/personalizzazione delle politiche di gestione del personale: - Caratteristiche, esigenze e obiettivi diversi in ogni singola famiglia professionale». La docente: «richiede la differenziazione, personalizzazione delle politiche di gestione del personale» ([00:21:40]). ⚠️ La **segmentazione** è il distrattore vicino e sta due righe sotto, nella stessa slide: è la ripartizione in «classi omogenei» di dipendenti e collaboratori, mentre la differenziazione è il «marketing mix differente –> politiche operative di gestione differenti». La domanda parla di «gruppi di dipendenti», cioè dei segmenti, ma chiede la personalizzazione delle **politiche**. L'**efficientamento** viene dalla lezione 10, le azioni della prima modalità della cost leadership (slide 5 di quel deck); la piattaforma scrive «efficienmtamento». Il **cambiamento organizzativo** è un tema delle lezioni 05 e 19. Distrattori del test: «efficienmtamento», «segmentazione», «cambiamento organizzativo».
+**Opzione:** Differenziazione.
+**Distrattori:**
+- Efficienmtamento.
+- Segmentazione.
+- Cambiamento organizzativo.
+
+**D:** ⚠️ Che cosa fa dei dipendenti dei «clienti interni», secondo la docente nella lezione 26?
+**R:** Il fatto che **usufruiscono delle politiche di gestione**: «non perché acquistano i nostri servizi della nostra banca, ma perché per noi sono i clienti che poi usufruiscono, che utilizzano le nostre politiche di gestione», come il corso di formazione, la retribuzione, l'incentivazione, la premiazione, lo sviluppo della carriera, che per loro «diventano veri e propri prodotti» ([00:22:32]–[00:23:23]). ⚠️ I clienti interni **non** sono clienti dei servizi della banca. Lo stesso concetto è nella lezione 01 ([00:17:36] di quel transcript).
+**Opzione:** Il fatto che usufruiscono, utilizzano le politiche di gestione (formazione, retribuzione, incentivazione, premiazione, sviluppo della carriera), che per loro diventano veri e propri prodotti.
+**Distrattori:**
+- Il fatto che acquistano i nostri servizi della nostra banca, che per loro diventano veri e propri prodotti.
+- Ricorrere all'acquisizione di nuove risorse dal mercato esterno o trasformare le professionalità dall'interno, in un rapporto di alternatività/complementarietà.
+- L'abbandono da parte del personale con l'anzianità 2-4 anni (es. INCI): entrata con l'obiettivo iniziale di passare a lavorare in un'altra organizzazione; prospettive di carriera più rapida e la remunerazione maggiore in altre aziende.
+
+**D:** ⚠️ Che cosa prende il posto del marketing mix nel marketing interno, secondo la docente nella lezione 26?
+**R:** Le **politiche operative di gestione differenti**. Slide 9: «Differenziazione (marketing mix differente –> politiche operative di gestione differenti)». La docente: al marketing mix per i clienti, «quindi famosi 4P, prodotto, quindi product, place, promotion, price», corrispondono le politiche operative di gestione differenti ([00:23:43]–[00:23:59]): «selezione, formazione, valutazione, remunerazione, promozione. Sono tutti elementi di **management mix**, definiamolo così, quindi gli strumenti di gestione delle risorse umane» ([00:24:05]–[00:24:13]). ⚠️ *Management mix* è un'etichetta della docente: nelle slide non c'è.
+**Opzione:** Le politiche operative di gestione differenti, che la docente chiama elementi di management mix.
+**Distrattori:**
+- Le 4P (product, place, promotion, price), che la docente chiama elementi di management mix.
+- Prepensionamento; incentivi all'uscita; passaggi ad altri intermediari nell'area operativa.
+- Razionalizzazione organizzativa.
+
+**D:** ⚠️ Chi sono i professional, e qual è la loro principale criticità, secondo la lezione 26?
+**R:** Per la docente i professional sono «gli specialisti in un determinato settore» ([00:24:25]). Slide 10: «I professional (1) **La criticità del sistema di ricompensa**»; la docente: «La principale criticità è la criticità del sistema di ricompensa», perché sono le figure che devono essere maggiormente motivate ([00:24:49]–[00:24:53]). ⚠️ La criticità è del **sistema di ricompensa**. La politica di selezione e i percorsi di carriera vengono dopo, nella slide 11.
+**Opzione:** Gli specialisti in un determinato settore; la principale criticità è quella del sistema di ricompensa.
+**Distrattori:**
+- Gli specialisti in un determinato settore; la principale criticità è quella del sistema di selezione.
+- Scelte di motivazione del personale.
+- Del 20%, da un organico di 1000 a uno di 800.
+
+**D:** ⚠️ In che cosa consiste la criticità del sistema di ricompensa per i professional, secondo la slide 10 della lezione 26?
+**R:** «La criticità del sistema di ricompensa: • **acquisizione delle nuove risorse dal mercato esterno** (competitività della banca in termini di livelli retributivi e di carriera) • **mantenimento della motivazione del personale e conservazione dell'attrattività per Il personale più qualificato** (passaggio ai concorrenti o altri settori)» (slide 10). La docente: bisogna essere competitivi in termini di livelli retributivi e di carriera per acquisire le risorse necessarie; all'interno il sistema di ricompense serve a mantenere la motivazione e a conservare l'attrattività per i talenti, con il **talent management** ([00:24:53]–[00:25:59]). ⚠️ Il sistema di ricompensa conta **sia** verso l'esterno (acquisizione) **sia** verso l'interno (mantenimento), e l'attrattività è per il personale **più** qualificato.
+**Opzione:** Acquisizione delle nuove risorse dal mercato esterno (competitività della banca in termini di livelli retributivi e di carriera); mantenimento della motivazione del personale e conservazione dell'attrattività per il personale più qualificato (passaggio ai concorrenti o altri settori).
+**Distrattori:**
+- Acquisizione delle nuove risorse dal mercato esterno (competitività della banca in termini di livelli retributivi e di carriera); mantenimento della motivazione del personale e conservazione dell'attrattività per il personale meno qualificato (passaggio ai concorrenti o altri settori).
+- Durante la pandemia: in smart working le persone non potevano essere valutate in maniera tradizionale, in base alle ore, e si sono sviluppati sistemi basati sul raggiungimento degli obiettivi condivisi.
+- Con l'adeguamento delle risorse già presenti all'interno dell'organizzazione (mobilità interna) o con l'acquisizione delle risorse nuove dall'esterno (mobilità esterna).
+
+**D:** ⚠️ Quale abbandono segnala la slide 10 della lezione 26, e per quali cause?
+**R:** «**Abbandono da parte del personali con l'anzianità 2-4 anni (es. INCI)** • Entrata con l'obiettivo iniziale di passare a lavorare in un'altra organizzazione (preparazione professionale iniziale, formazione) • Prospettive di carriera più rapida e la remunerazione maggiore in altre aziende» (slide 10, in grassetto la prima riga, con «personali»). La docente: «una delle criticità del settore bancario è quello di abbandono da parte del personale con anzianità media di 2-4 anni»; chi entra considera la banca «una specie di palestra, allenamento, preparazione professionale iniziale, formazione per poi fare altro»; l'altra causa sono le prospettive di carriera più rapida o la remunerazione maggiore altrove, anche in altri settori ([00:25:59]–[00:27:54]). ⚠️ L'anzianità è di **2-4 anni**; «media» è un'aggiunta della docente.
+**Opzione:** L'abbandono da parte del personale con l'anzianità 2-4 anni (es. INCI): entrata con l'obiettivo iniziale di passare a lavorare in un'altra organizzazione; prospettive di carriera più rapida e la remunerazione maggiore in altre aziende.
+**Distrattori:**
+- L'abbandono da parte del personale con l'anzianità 15-20 anni (es. INCI): entrata con l'obiettivo iniziale di passare a lavorare in un'altra organizzazione; prospettive di carriera più rapida e la remunerazione maggiore in altre aziende.
+- Con l'adeguamento delle risorse già presenti all'interno dell'organizzazione (mobilità interna) o con l'acquisizione delle risorse nuove dall'esterno (mobilità esterna).
+- Il fatto che usufruiscono, utilizzano le politiche di gestione (formazione, retribuzione, incentivazione, premiazione, sviluppo della carriera), che per loro diventano veri e propri prodotti.
+
+**D:** ⚠️ Con quale strumento, per la docente, la banca trattiene i neoassunti che la considerano «una specie di palestra» (lezione 26)?
+**R:** Con l'**employer branding**. Chi entra in banca con l'obiettivo di passare a un'altra organizzazione la considera «una specie di palestra, allenamento, preparazione professionale iniziale, formazione per poi fare altro»; gli intermediari devono quindi sviluppare politiche e strumenti che aumentino «l'attrattività dell'employer, quindi parliamo di employer branding», perché i talenti neoassunti rimangano nell'organizzazione ([00:26:14]–[00:27:08]). ⚠️ Qui l'employer branding serve a **trattenere**. Nella lezione 22 era la verifica/la modifica dell'immagine della banca sul mercato, voce della fase di acquisizione (slide 10 di quel deck). Gli incentivi all'uscita fanno l'opposto: sono uno strumento per l'uscita (slide 6).
+**Opzione:** Employer branding.
+**Distrattori:**
+- Incentivi all'uscita.
+- Gestione per obiettivi.
+- Segmentazione.
+
+**D:** ⚠️ Quale politica di selezione e quali percorsi di carriera ha INCI per i professional, secondo la slide 11 della lezione 26?
+**R:** «**Politica di selezione** (es. INCI – selezione dei migliori per la valutazione dei finanziamenti) **Percorsi di carriera** (es. INCI – bassa flessibilità a causa di elevata specializzazione dei ruoli, forte competitività in prospettiva di opportunità limitate)» (slide 11). La docente: INCI seleziona «le risorse migliori per la valutazione dei finanziamenti», con una specializzazione molto elevata, assume «soltanto i migliori, neolaureati» e collabora con le università ([00:27:54]–[00:28:32]); le opportunità di carriera sono però «abbastanza limitate», e la competizione fra i migliori riduce il benessere organizzativo fino a un ambiente «tossico» che causa l'abbandono anche di risorse preziose ([00:28:54]–[00:30:02]). ⚠️ Flessibilità **bassa** a causa di specializzazione **elevata**.
+**Opzione:** Selezione dei migliori per la valutazione dei finanziamenti; percorsi di carriera a bassa flessibilità a causa di elevata specializzazione dei ruoli, forte competitività in prospettiva di opportunità limitate.
+**Distrattori:**
+- Selezione dei migliori per la valutazione dei finanziamenti; percorsi di carriera a bassa flessibilità a causa di scarsa specializzazione dei ruoli, forte competitività in prospettiva di opportunità limitate.
+- Ricorrere all'acquisizione di nuove risorse dal mercato esterno o trasformare le professionalità dall'interno, in un rapporto di alternatività/complementarietà.
+- A capire quali sono le politiche più adatte per ogni famiglia professionale, per differenziare le politiche di gestione del personale.
+
+**D:** ⚠️ Quali interventi seguono, dopo la freccia, alle criticità dei professional, secondo la slide 11 della lezione 26?
+**R:** «• **Valutazione delle aspettative/motivazioni** • **Sistema di ricompensa** –aumento dell'**equità percepita** • **I canali di acquisizione delle risorse e i percorsi di carriera differenziati**» (slide 11, in grassetto «Sistema di ricompensa» e l'ultima voce). La docente: servono le valutazioni delle aspettative e delle motivazioni, per esempio con l'**analisi del clima organizzativo** ([00:30:02]–[00:30:50]); nel sistema di ricompensa va aumentata la trasparenza degli indicatori con cui «si valuta, si paga, si incentiva, si premia la risorsa», cioè «l'aumento dell'equità percepita della ricompensa» ([00:30:57]–[00:31:15]); canali di acquisizione e percorsi di carriera vanno differenziati per famiglia professionale ([00:31:20]–[00:32:40]). ⚠️ Il sistema di ricompensa punta all'**equità percepita**, non a retribuzioni più alte.
+**Opzione:** Valutazione delle aspettative/motivazioni; sistema di ricompensa – aumento dell'equità percepita; i canali di acquisizione delle risorse e i percorsi di carriera differenziati.
+**Distrattori:**
+- Valutazione delle aspettative/motivazioni; sistema di ricompensa – aumento dei livelli retributivi; i canali di acquisizione delle risorse e i percorsi di carriera differenziati.
+- L'abbandono da parte del personale con l'anzianità 2-4 anni (es. INCI): entrata con l'obiettivo iniziale di passare a lavorare in un'altra organizzazione; prospettive di carriera più rapida e la remunerazione maggiore in altre aziende.
+- Le politiche operative di gestione differenti, che la docente chiama elementi di management mix.
+
+**D:** ⚠️ Con quale analisi, per la docente, gli istituti bancari valutano aspettative, motivazioni e benessere organizzativo (lezione 26)?
+**R:** Con l'**analisi del clima organizzativo**: «una delle analisi che si fa molto spesso all'interno degli istituti bancari è l'analisi del clima organizzativo»; si analizzano diversi fattori e indicatori, in base ai quali l'organizzazione valuta il benessere organizzativo ([00:30:10]–[00:30:50]). ⚠️ È un esempio della docente: la slide 11 dice solo «Valutazione delle aspettative/motivazioni». La valutazione delle opzioni (costi/benefici) serve a scegliere la mobilità (slide 7), la valutazione delle competenze presenti a individuare i divari (slide 3), l'analisi della dinamica temporale a studiare l'ambiente esterno (slide 7).
+**Opzione:** L'analisi del clima organizzativo.
+**Distrattori:**
+- La valutazione delle opzioni (costi/benefici).
+- La valutazione delle competenze presenti e individuazione dei divari.
+- L'analisi della dinamica temporale.
+
+**D:** ⚠️ Come vanno differenziati i canali di acquisizione delle risorse fra le famiglie professionali, per la docente nella lezione 26?
+**R:** La famiglia degli **operativi** potrebbe collaborare «non soltanto con le università ma anche con le scuole superiori, con gli istituti superiori», e resta la domanda su quale sia il titolo di accesso per lavorare in banca; la famiglia dei **manager** avrà più collaborazione «con le università con master con le lauree magistrali», e acquisisce risorse di un altro livello ([00:31:27]–[00:32:10]). Lo stesso vale per i percorsi di carriera, perché esigenze, interessi, motivazioni e ambizioni sono diversi in ogni famiglia ([00:32:10]–[00:32:40]). ⚠️ Le scuole superiori sono per gli **operativi**, i master e le lauree magistrali per i **manager**. La slide 11 dice solo «I canali di acquisizione delle risorse e i percorsi di carriera differenziati».
+**Opzione:** Operativi: anche le scuole superiori, gli istituti superiori; manager: le università, i master, le lauree magistrali.
+**Distrattori:**
+- Operativi: le università, i master, le lauree magistrali; manager: anche le scuole superiori, gli istituti superiori.
+- Imprenditorialità.
+- Rinforzo delle competenze.
+
+**D:** ⚠️ Quali politiche riguardano le famiglie professionali della rete degli sportelli, secondo la slide 12 della lezione 26?
+**R:** «Le famiglie professionali della rete degli sportelli: • **Politiche di reclutamento** (importanza del titolo di studio in considerazione alle procedure Con Il supporto delle ICT) • **Scelte di motivazione del personale** • **Differenziazione del sistemi di ricompensa** (consulenti finanziari, operatori unici - addetti alle operazioni elementari, specialisti)» (slide 12, in grassetto le tre voci, con «del sistemi»). La docente: rivedere le politiche di reclutamento, scegliere attraverso quali strumenti, politiche e meccanismi aumentare la motivazione, e differenziare i sistemi di ricompensa, cioè definire il sistema di valutazione e di remunerazione in base alla figura professionale ([00:32:40]–[00:33:23]). ⚠️ I sistemi di ricompensa si **differenziano** per figura professionale.
+**Opzione:** Politiche di reclutamento (importanza del titolo di studio in considerazione alle procedure con il supporto delle ICT); scelte di motivazione del personale; differenziazione del sistemi di ricompensa (consulenti finanziari, operatori unici - addetti alle operazioni elementari, specialisti).
+**Distrattori:**
+- Politiche di reclutamento (importanza del titolo di studio in considerazione alle procedure con il supporto delle ICT); scelte di motivazione del personale; uniformità del sistemi di ricompensa (consulenti finanziari, operatori unici - addetti alle operazioni elementari, specialisti).
+- La ricerca di relazioni di coerenza tra le scelte dei vertici aziendali e le scelte del governo di ogni singole famiglia professionale.
+
+**D:** ⚠️ Su che cosa si basa la differenziazione dei sistemi di ricompensa della rete degli sportelli, secondo la slide 12 della lezione 26?
+**R:** «• **Livelli retributivi** (dimensione e rango dello sportello) • **Forme di incentivazione** (per ruoli valutabili) in base alla **gestione per obiettivi**» (slide 12). La docente: uno sportello al centro di Roma ha un carico di lavoro molto diverso da uno a Frascati, «in un paesino», quindi i livelli retributivi possono dipendere non solo dal ruolo e dalla mansione ma anche dalla specificità dell'ambiente di riferimento ([00:33:23]–[00:34:04]); l'incentivazione non si basa solo sulla paga fissa, sullo stipendio legato alle ore lavorate, ma, dove è possibile, sulla gestione per obiettivi ([00:34:04]–[00:34:33]). ⚠️ I livelli retributivi dipendono dalla **dimensione e rango dello sportello**; l'incentivazione vale **per ruoli valutabili** e segue la gestione per obiettivi, non le ore lavorate.
+**Opzione:** Livelli retributivi (dimensione e rango dello sportello); forme di incentivazione (per ruoli valutabili) in base alla gestione per obiettivi.
+**Distrattori:**
+- Livelli retributivi (dimensione e rango dello sportello); forme di incentivazione (per ruoli valutabili) in base alle ore lavorate.
+- Rinforzo delle competenze.
+- Valutazione delle aspettative/motivazioni.
+
+**D:** ⚠️ Quando si è sviluppata di più l'incentivazione in base alla gestione per obiettivi, e perché, per la docente nella lezione 26?
+**R:** Durante il **periodo di pandemia**: molte professionalità hanno lavorato in **smart working**, da casa o da remoto, «e quindi non potevano essere valutate in maniera tradizionale in base alle ore, in base insomma al rapporto con il proprio supervisore»; si sono sviluppati altri sistemi di valutazione, basati sul raggiungimento degli obiettivi condivisi con il supervisore, il manager e i vertici aziendali ([00:34:13]–[00:35:36]). La condivisione degli obiettivi strategici e operativi è anche una motivazione aggiuntiva, che aumenta produttività, efficienza ed efficacia ([00:35:36]–[00:35:49]). ⚠️ È un commento della docente: la slide 12 dice solo «in base alla gestione per obiettivi».
+**Opzione:** Durante la pandemia: in smart working le persone non potevano essere valutate in maniera tradizionale, in base alle ore, e si sono sviluppati sistemi basati sul raggiungimento degli obiettivi condivisi.
+**Distrattori:**
+- Durante la pandemia: in smart working le persone non potevano essere valutate in maniera tradizionale, in base alle ore, e si sono sviluppati sistemi basati sull'anzianità di servizio.
+- Soddisfazione delle attese/esigenze di una famiglia professionale; massimizzazione del contributo/coinvolgimento nel perseguimento degli obiettivi aziendali.
+- Uscite 350 (40 dagli specialisti-manager, 310 dagli operativi-amministrativi); entrate 150 (10 nei manager, 140 negli specialisti-operativi).
+
+## Lezione 27 — Il mercato interno e il mercato esterno del lavoro nelle istituzioni creditizie
+
+**D:** ⚠️ Quali politiche sono condizionate dalla dinamica dei flussi in entrata e in uscita, secondo la slide 2 della lezione 27?
+**R:** «La dinamica dei flussi in entrata e in uscita condizionano le politiche di **gestione strategica** del personale sotto diversi aspetti» (slide 2, «condizionano» così). La docente: la definizione della dinamica dei flussi «potrà poi influenzare gli strumenti, le prassi, di gestione del personale» e quindi anche la strategia organizzativa ([00:00:21]–[00:00:48]). ⚠️ È la gestione **strategica** del personale, non quella operativa.
+**Opzione:** Le politiche di gestione strategica del personale sotto diversi aspetti.
+**Distrattori:**
+- Le politiche di gestione operativa del personale sotto diversi aspetti.
+- Aspettative/esigenze delle nuove generazioni: valori, interessi e stili di vita; possibilità di avviare le politiche innovative/creative.
+- Famiglia professionale.
+
+**D:** ⚠️ Come definisce il turnover la slide 2 della lezione 27, e su che cosa ne considera l'impatto?
+**R:** «L'impatto del turnover (**rapporto tra uscite/entrate e organico**) sull'**anzianità media**» (slide 2). La docente: «il rapporto tra uscite dall'azienda e le entrate all'interno dell'azienda, quindi l'organico, sull'anzianità media, quindi sull'età media del nostro personale» ([00:00:48]). È la formula più esplicita del turnover nelle slide del corso; la domanda 5 del test 22 ne usava un'altra, che non sta nei materiali di quella lezione. ⚠️ Nel rapporto c'è l'**organico**, e l'impatto considerato è sull'anzianità media.
+**Opzione:** Il rapporto tra uscite/entrate e organico, con il suo impatto sull'anzianità media.
+**Distrattori:**
+- Il rapporto tra uscite/entrate e posizioni vacanti, con il suo impatto sull'anzianità media.
+- Dai comparti industriale e commerciale: marketing, controllo di gestione, organizzazione, personale.
+- Da precise regole interne amministrative, con rigidi automatismi di carriera che non hanno a che fare con il concetto di mercato.
+
+**D:** ⚠️ A che cosa porta il rallentamento delle assunzioni per contenere l'espansione dell'organico, secondo la slide 2 della lezione 27?
+**R:** «Rallentamento delle assunzioni per contenere l'espansione dell'organico -> **aumento dell'anzianità**» (slide 2). La docente: entrano poche persone giovani, il personale già presente continua a lavorare e a fare carriera, «e quindi di conseguenza ovviamente l'età del nostro personale aumenta» ([00:01:06]–[00:01:41]). Per lei può essere un fattore «sia positivo sia in qualche caso anche negativo», perché le generazioni hanno aspettative ed esigenze diverse: i baby boomers rispetto alla generazione Z o ai millennials, i digital natives. Prima di impostare la strategia di gestione del personale bisogna quindi capire l'età media dell'organico ([00:01:47]–[00:02:48]). ⚠️ L'anzianità **aumenta**.
+**Opzione:** A un aumento dell'anzianità, cioè dell'età media del personale.
+**Distrattori:**
+- A una riduzione dell'anzianità, cioè dell'età media del personale.
+- Gestione del personale meno costosa.
+- Gestione operativa del personale.
+
+**D:** ⚠️ Per quali cause la politica di contenimento e riduzione dell'organico era diffusa negli anni '80, secondo la slide 2 della lezione 27?
+**R:** «Contenimento e riduzione dell'organico è una politica diffusa negli anni '80: • Calo di attività dovuto alla **disintermediazione** • **Intensificazione** del processi di **automazione del lavoro**» (slide 2, «del processi» così). La docente: la politica ha fatto sì che «l'attività bancaria ha avuto il calo della disintermediazione»; si sono intensificati i processi di automazione del lavoro, cambiamenti «anche radicali» dell'ambiente esterno, e il fabbisogno del personale è diminuito. Richiama il paradigma ambiente-strategia-organizzazione ([00:02:48]–[00:04:07]). ⚠️ L'automazione si **intensifica**. Il contenimento dell'organico è la chiave della domanda 1 del test.
+**Opzione:** Calo di attività dovuto alla disintermediazione; intensificazione del processi di automazione del lavoro.
+**Distrattori:**
+- Calo di attività dovuto alla disintermediazione; rallentamento del processi di automazione del lavoro.
+- Il rapporto tra uscite/entrate e organico, con il suo impatto sull'anzianità media.
+- Dai comparti industriale e commerciale: marketing, controllo di gestione, organizzazione, personale.
+
+**D:** ⚠️ Quale politica di gestione dei flussi del personale era diffusa negli anni '80 nel settore bancario, secondo il test della lezione 27 (domanda 1)?
+**R:** «**Contenimento e riduzione dell'organico**». La slide 2: «Contenimento e riduzione dell'organico è una politica diffusa negli anni '80», per il calo di attività dovuto alla disintermediazione e l'intensificazione dei processi di automazione del lavoro. La docente: «è una politica diffusa negli anni 80» ([00:02:48]). ⚠️ In questa lezione non c'è nessun altro decennio, ma due distrattori vengono dagli **anni '90** di altre lezioni. Il **pensionamento anticipato** non compare nella lezione: il deck 26 ha il «Prepensionamento» fra gli strumenti per l'uscita (slide 6), dentro il caso delle famiglie professionali «nel periodo 1990-95» (fig. 5), dove anche l'organico si riduce. La **riqualificazione** delle risorse è una criticità della gestione delle risorse umane del futuro nel deck 25 (slide 6), che ha le famiglie professionali del 1990 e la proiezione al 1995. La **job rotation** non compare nel deck 27; nella lezione 24 la docente la lega alla selezione dal mercato interno della revisione degli anni '80 ([00:13:47] di quel transcript). Distrattori del test: «pensionamento anticipato», «riqualificazione del personale», «job rotation».
+**Opzione:** Contenimento e riduzione dell'organico.
+**Distrattori:**
+- Pensionamento anticipato.
+- Riqualificazione del personale.
+- Job rotation.
+
+**D:** ⚠️ Quali impatti negativi può avere sulla gestione del personale la riduzione del turnover in entrata e in uscita, secondo la slide 2 della lezione 27?
+**R:** «La riduzione del turnover in entrata e in uscita può avere impatti negativi sulla gestione del personale: • Incremento dei costi del lavoro per anzianità (**aumento dei costi operativi aziendali**) • Indebolimento della motivazione (**calo di produttività e di qualità delle prestazioni**) • Riduzione delle possibilità per le mobilità interna/promozione/avanzamento (**assenza delle posizioni vacanti**)» (slide 2, «per le mobilità» così). La docente: chi ha più esperienza chiede una retribuzione maggiore, crescono i costi operativi e può calare la competitività ([00:04:25]–[00:05:07]); con poco turnover la competizione interna diminuisce e le posizioni più motivanti restano occupate ([00:05:07]–[00:06:26]); senza posizioni vacanti c'è poca mobilità interna e manca l'apprendimento organizzativo ([00:06:26]–[00:07:09]). ⚠️ Gli impatti sono tre, e ogni parentesi va con la sua voce. La «riduzione delle competenze» non c'è: è l'intrusa della domanda 2.
+**Opzione:** Incremento dei costi del lavoro per anzianità (aumento dei costi operativi aziendali); indebolimento della motivazione (calo di produttività e di qualità delle prestazioni); riduzione delle possibilità per le mobilità interna/promozione/avanzamento (assenza delle posizioni vacanti).
+**Distrattori:**
+- Incremento dei costi del lavoro per anzianità (calo di produttività e di qualità delle prestazioni); indebolimento della motivazione (aumento dei costi operativi aziendali); riduzione delle possibilità per le mobilità interna/promozione/avanzamento (assenza delle posizioni vacanti).
+- Alimentazione con le sistematiche entrate di neoassunti (personale senza esperienza); le uscite in termini di cessazione del servizio per anzianità; elevata stabilità delle risorse a livelli aziendale.
+- Aumento dei costi di reclutamento e selezione; problemi di inserimento; imposizione dei più elevati livelli retributivi; maggiori costi di controllo; pericolo di perdita di know-how.
+
+**D:** ⚠️ Quale tra questi non fa parte degli impatti negativi della riduzione del turnover in entrata e in uscita sulla gestione del personale, secondo il test della lezione 27 (domanda 2)?
+**R:** «**Riduzione delle competenze**». La slide 2 elenca tre impatti: «Incremento dei costi del lavoro per anzianità», «Indebolimento della motivazione», «Riduzione delle possibilità per le mobilità interna/promozione/avanzamento» ([00:04:25]–[00:06:26]). ⚠️ La domanda è **negativa**, e l'intrusa ha tre appigli nella lezione. A voce la docente lega la scarsa mobilità interna alla mancanza di apprendimento organizzativo ([00:06:53]). La «Prevenzione di perdita delle competenze distintive nel caso di turnover» è una giustificazione economica del mercato interno (slide 4). Il «Pericolo di perdita di know-how» è uno svantaggio del mercato esterno (slide 10). La piattaforma scrive «per la mobilità interna», la slide «per le mobilità interna/promozione/avanzamento». Distrattori del test: «incremento dei costi del lavoro per anzianità», «indebolimento della motivazione», «riduzione delle possibilità per la mobilità interna».
+**Opzione:** Riduzione delle competenze.
+**Distrattori:**
+- Incremento dei costi del lavoro per anzianità.
+- Indebolimento della motivazione.
+- Riduzione delle possibilità per la mobilità interna.
+
+**D:** ⚠️ Come si alimenta il mercato del lavoro interno, e che cosa lo caratterizza, secondo la slide 3 della lezione 27?
+**R:** «Il mercato del lavoro interno (1) • Alimentazione del mercato interno con le sistematiche entrate di **neoassunti (personale senza esperienza)** • Le uscite in termini di cessazione del servizio **per anzianità** • **Elevata stabilità** delle risorse a livelli aziendale» (slide 3, «a livelli aziendale» così). Nella fig. 8, «Gestione strategica del personale nell'ottica del mercato interno», la piramide riceve dal basso le «Entrate di personale senza esperienza» e perde ai vari livelli le «Uscite per anzianità». La docente: sono neolaureati e neodiplomati, «alcuni anche per la prima volta nel mercato del lavoro» ([00:07:12]–[00:08:03]); la stabilità vuol dire un pool di risorse che si può «far girare» all'interno ([00:08:03]–[00:08:25]). ⚠️ L'**ampia mobilità inter-aziendale** è del mercato esterno (slide 7). Entrate senza esperienza e uscite per anzianità invece compaiono in entrambi i mercati.
+**Opzione:** Alimentazione con le sistematiche entrate di neoassunti (personale senza esperienza); le uscite in termini di cessazione del servizio per anzianità; elevata stabilità delle risorse a livelli aziendale.
+**Distrattori:**
+- Alimentazione con le sistematiche entrate di neoassunti (personale senza esperienza); le uscite in termini di cessazione del servizio per anzianità; un'ampia mobilità inter-aziendale.
+- Reclutamento del personale con profili più bassi (minori competenze e aspettative); permanenze limitata presso la banca, passaggio ad altre attività occupazionali.
+- Calo di attività dovuto alla disintermediazione; intensificazione del processi di automazione del lavoro.
+
+**D:** ⚠️ Che cos'è il mercato del lavoro interno, secondo la slide 3 della lezione 27?
+**R:** «Il mercato del lavoro interno è l'esistenza all'interno dell'azienda di un'**offerta** di lavoro, costituita dal **complesso delle posizioni organizzative disponibili**, e di una **domanda** di lavoro, rappresentata dall'**organico in essere**» (slide 3). La docente: «un'offerta di lavoro costituita dal... complesso da un insieme delle posizioni organizzative disponibili e di una domanda di lavoro rappresentata dall'organico, quindi dalle risorse umane in possesso che abbiamo già» ([00:08:31]–[00:08:41]). ⚠️ L'**offerta** sono le posizioni disponibili, la **domanda** è l'organico. È la definizione della domanda 3 del test.
+**Opzione:** L'esistenza all'interno dell'azienda di un'offerta di lavoro, costituita dal complesso delle posizioni organizzative disponibili, e di una domanda di lavoro, rappresentata dall'organico in essere.
+**Distrattori:**
+- L'esistenza all'interno dell'azienda di un'offerta di lavoro, rappresentata dall'organico in essere, e di una domanda di lavoro, costituita dal complesso delle posizioni organizzative disponibili.
+- Famiglia professionale.
+- Al livello del gruppo bancario e non singoli intermediari componenti (alternative di carriera, formazione di una cultura omogenea).
+
+**D:** ⚠️ Come si chiama l'esistenza all'interno dell'azienda di un'offerta di lavoro, costituita dal complesso delle posizioni organizzative disponibili, e di una domanda di lavoro, secondo il test della lezione 27 (domanda 3)?
+**R:** «**Mercato di lavoro interno**». È la slide 3: «Il mercato del lavoro interno è l'esistenza all'interno dell'azienda di un'offerta di lavoro, costituita dal complesso delle posizioni organizzative disponibili, e di una domanda di lavoro, rappresentata dall'organico in essere». La docente la legge quasi alla lettera ([00:08:31]). La piattaforma scrive «di lavoro» e taglia «rappresentata dall'organico in essere». ⚠️ Il **talent pool** non compare come termine, ma la docente parla proprio per il mercato interno del «pool del capitale umano, delle risorse umane che si trovano all'interno della nostra azienda» ([00:08:03]); nella lezione 24 c'era il «pool dei talenti» ([00:17:30] di quel transcript). Il **knowledge database** non compare: nella lezione 18 l'apprendimento organizzativo crea «una database di knowledge», e nel deck 29 c'è la «Creazione di database» per il knowledge management. La **job rotation** non compare nel deck 27 (lezioni 22 e 24). Distrattori del test: «talent pool», «knowledge database», «job rotation».
+**Opzione:** Mercato di lavoro interno.
+**Distrattori:**
+- Talent pool.
+- Knowledge database.
+- Job rotation.
+
+**D:** ⚠️ Come si creano i posti vacanti nel mercato del lavoro interno, e da chi è assicurata la copertura delle posizioni, secondo la slide 3 della lezione 27?
+**R:** «• La coperture delle varie posizioni ai vari livelli è assicurata dalle **risorse già acquisite** • Posti vacanti –> **uscite per l'anzianità, aumento delle dimensioni, dinamica organizzativa**» (slide 3, «La coperture» così). La docente: di solito il personale, crescendo, si sposta dai livelli più bassi a quelli più elevati ([00:09:06]); l'aumento delle dimensioni è per esempio la crescita dell'azienda, l'ingresso in nuovi mercati, la strategia di diversificazione ([00:09:17]–[00:09:33]). ⚠️ È nel mercato **esterno** che l'azienda ricorre all'esterno per la copertura delle posizioni vacanti (slide 7).
+**Opzione:** Posti vacanti da uscite per l'anzianità, aumento delle dimensioni, dinamica organizzativa; copertura assicurata dalle risorse già acquisite.
+**Distrattori:**
+- Posti vacanti da uscite per l'anzianità, aumento delle dimensioni, dinamica organizzativa; copertura assicurata dal ricorso all'esterno.
+- Convenienza di assumere le risorse già formate (per alcune posizioni) rispetto alla selezione e alla formazione delle risorse interne.
+- Personale direttivo e specialisti; trasferimento di esperienze e know-how di fronte a impossibilità di sviluppare le professionalità interamente.
+
+**D:** ⚠️ Da che cosa è disciplinato il mercato del lavoro interno, e che rapporto hanno i suoi automatismi di carriera con il concetto di mercato, secondo la slide 4 della lezione 27?
+**R:** «• Un mercato disciplinato da precise **regole "interne" amministrative** • **Rigidi automatismi di carriera** (non hanno a che fare con il concetto di mercato)» (slide 4). La docente: l'avanzamento è possibile grazie a regole interne che «dovrebbero essere trasparenti», così ogni dipendente sa che cosa deve raggiungere ([00:10:02]–[00:10:24]); gli automatismi «non hanno a che fare quindi da un certo punto di vista con il mercato», e c'è «una specie di rigidità delle regole» ([00:10:50]). ⚠️ Gli automatismi sono **rigidi** e **non** hanno a che fare con il concetto di mercato.
+**Opzione:** Da precise regole interne amministrative, con rigidi automatismi di carriera che non hanno a che fare con il concetto di mercato.
+**Distrattori:**
+- Da precise regole interne amministrative, con rigidi automatismi di carriera che hanno a che fare con il concetto di mercato.
+- Il rapporto tra uscite/entrate e organico, con il suo impatto sull'anzianità media.
+- Aspettative/esigenze delle nuove generazioni: valori, interessi e stili di vita; possibilità di avviare le politiche innovative/creative.
+
+**D:** ⚠️ Quali sono le due giustificazioni del mercato del lavoro interno, e in che cosa consiste ciascuna, secondo la slide 4 della lezione 27?
+**R:** «Giustificazione in **termini economici** (riduzione del costo complessivo della gestione)»; «Giustificazione in **termini politici** (collaborazione con i sindacati)» (slide 4). La docente: «Come mai l'azienda preferisce magari coprire una posizione vacante attraverso una persona che lavora già per l'azienda invece di acquisire una persona dall'esterno? Ci sono praticamente due punti di vista, due giustificazioni» ([00:11:19]–[00:11:40]); la riduzione è «del costo complessivo dell'assunzione, della gestione delle risorse umane» ([00:11:47]). ⚠️ L'economica riduce il costo complessivo della gestione, la politica passa dai **sindacati**.
+**Opzione:** In termini economici, la riduzione del costo complessivo della gestione; in termini politici, la collaborazione con i sindacati.
+**Distrattori:**
+- In termini economici, la collaborazione con i sindacati; in termini politici, la riduzione del costo complessivo della gestione.
+- A un aumento dell'anzianità, cioè dell'età media del personale.
+- Al livello del gruppo bancario e non singoli intermediari componenti (alternative di carriera, formazione di una cultura omogenea).
+
+**D:** ⚠️ Quali voci comprende la giustificazione in termini economici del mercato del lavoro interno, secondo la slide 4 della lezione 27?
+**R:** «Giustificazione in termini economici (riduzione del costo complessivo della gestione): • Riduzione dei costi di **ricerca, selezione e inserimento** del personale • Sviluppo delle proprie risorse dall'interno attraverso il **trasferimento di know-how per affiancamento** (mentoring, tutoring, coaching, counselling)* • **Prevenzione di perdita delle competenze distintive** nel caso di turnover • Riduzione del fabbisogno di **incentivi monetari** (grazie all'offerta di un lavoro stabile con la possibilità di fare carriera • Riduzione dei **costi di valutazione** (semplicità, trasparenza e scarsa differenziazione)» (slide 4; la parentesi degli incentivi non si chiude). La docente: la risorsa c'è già, quindi non servono iniziative per selezionarla e inserirla ([00:11:58]–[00:12:21]); la prevenzione della perdita delle competenze passa dal **talent management**, perché le persone più talentuose crescono e restano ([00:13:08]–[00:13:46]); la stabilità e la carriera sono un'incentivazione immateriale ([00:13:46]–[00:14:21]); con regole omogenee per tutti la valutazione è più semplice ([00:14:21]–[00:15:13]). ⚠️ Sono cinque voci, tutte del mercato **interno**. La riduzione dei rischi di sovradimensionamento è un vantaggio del mercato esterno (slide 10).
+**Opzione:** Riduzione dei costi di ricerca, selezione e inserimento del personale; sviluppo delle proprie risorse dall'interno attraverso il trasferimento di know-how per affiancamento (mentoring, tutoring, coaching, counselling); prevenzione di perdita delle competenze distintive nel caso di turnover; riduzione del fabbisogno di incentivi monetari (grazie all'offerta di un lavoro stabile con la possibilità di fare carriera); riduzione dei costi di valutazione (semplicità, trasparenza e scarsa differenziazione).
+**Distrattori:**
+- Riduzione dei costi di ricerca, selezione e inserimento del personale; sviluppo delle proprie risorse dall'interno attraverso il trasferimento di know-how per affiancamento (mentoring, tutoring, coaching, counselling); prevenzione di perdita delle competenze distintive nel caso di turnover; riduzione del fabbisogno di incentivi monetari (grazie all'offerta di un lavoro stabile con la possibilità di fare carriera); riduzione dei rischi di sovradimensionamento.
+- Rischio di riproduzione e consolidamento della cultura; obsolescenza professionale; difficoltà di sviluppare nuove conoscenze e capacità; rischio di sovradimensionamento.
+- Personale direttivo e specialisti; trasferimento di esperienze e know-how di fronte a impossibilità di sviluppare le professionalità interamente.
+
+**D:** ⚠️ Con quali metodi avviene il trasferimento di know-how per affiancamento, nella giustificazione economica del mercato interno, secondo la slide 4 della lezione 27?
+**R:** «Sviluppo delle proprie risorse dall'interno attraverso il trasferimento di *know-how* per affiancamento (*mentoring, tutoring, coaching, counselling*)*» (slide 4; l'asterisco rimanda alle slide 5–6, che ne spiegano le differenze). La docente: «possono essere mentoring, tutoring, coaching, counseling», metodi di sviluppo e di apprendimento organizzativo che aumentano capacità e competenze della persona, sviluppano il know-how dell'azienda e in tanti casi portano innovazione ([00:12:21]–[00:13:08]). ⚠️ I metodi sono quattro e l'ultimo è il **counselling**. La job rotation non è fra questi.
+**Opzione:** Mentoring, tutoring, coaching, counselling.
+**Distrattori:**
+- Mentoring, tutoring, coaching, job rotation.
+- Mercato di lavoro interno.
+- Riduzione delle competenze.
+
+**D:** ⚠️ In che cosa consiste la giustificazione in termini politici del mercato del lavoro interno, secondo la slide 4 della lezione 27?
+**R:** «Giustificazione in termini politici (collaborazione con i sindacati): • **Stabilità dell'impiego e controllo delle regole del mercato interno** (contratti nazionali e aziendali) come **strumento di difesa dei lavoratori**» (slide 4). La docente: per i sindacati la stabilità dell'impiego e il controllo delle regole del mercato interno sono «una cosa importantissima», e attraverso i contratti nazionali e aziendali diventano uno strumento di difesa dei lavoratori. Le aziende che usano il mercato interno sono quelle che collaborano con i sindacati ([00:15:13]–[00:15:54]). ⚠️ È uno strumento di **difesa dei lavoratori**. La riduzione dei costi di valutazione sta fra le giustificazioni **economiche**.
+**Opzione:** Stabilità dell'impiego e controllo delle regole del mercato interno (contratti nazionali e aziendali) come strumento di difesa dei lavoratori.
+**Distrattori:**
+- Stabilità dell'impiego e controllo delle regole del mercato interno (contratti nazionali e aziendali) come strumento di riduzione dei costi di valutazione.
+- Mercato interno: per affiancamento, formazione gestita all'interno, rischio di obsolescenza professionale; mercato esterno: acquisto di risorse già formate e addestrate, assenza di rischi di obsolescenza professionale.
+- Posti vacanti da uscite per l'anzianità, aumento delle dimensioni, dinamica organizzativa; copertura assicurata dalle risorse già acquisite.
+
+**D:** ⚠️ Che cos'è il mentoring, secondo la slide 5 della lezione 27?
+**R:** «Il mentoring è un metodo di formazione che si basa su una relazione (**formale o informale**) **uno ad uno**, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie. Il mentor (in qualità di guida, sostegno, facilitatore del cambiamento) mette a disposizione sapere, competenze ed esperienza per favorire la crescita personale e professionale del mentee» (slide 5). La docente: una relazione «formale o anche informale», «uno ad uno quindi face to face tante volte» ([00:16:22]–[00:16:45]); il fine è lo sviluppo delle competenze necessarie del soggetto con meno esperienza ([00:17:02]), e il mentor come facilitatore del cambiamento è «l'aspetto importantissimo», perché tutte le aziende devono affrontare il cambiamento organizzativo ([00:17:08]). ⚠️ Formale **o** informale, uno **ad uno**. È la definizione della domanda 4 del test.
+**Opzione:** Un metodo di formazione che si basa su una relazione (formale o informale) uno ad uno, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie.
+**Distrattori:**
+- Un metodo di formazione che si basa su una relazione (formale o informale) uno a tanti, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie.
+- Un metodo di sviluppo dei singoli, dei gruppi e delle organizzazioni, basato sul riconoscimento, la valorizzazione e l'allenamento delle potenzialità, per il raggiungimento di obiettivi definiti con l'allievo (coachee).
+- Gestione operativa del personale.
+
+**D:** ⚠️ Quale metodo di formazione si basa su una relazione uno ad uno, tra un soggetto con più esperienza e uno con meno esperienza, al fine di far sviluppare a quest'ultimo competenze necessarie, secondo il test della lezione 27 (domanda 4)?
+**R:** «**Mentoring**». È la slide 5, senza «(formale o informale)», «(senior, mentor)» e «(junior, mentee)»: «Il mentoring è un metodo di formazione che si basa su una relazione (formale o informale) uno ad uno, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie». La piattaforma attacca «relazioneuno». ⚠️ Anche nel **tutoring** c'è «una figura più esperta» che accompagna l'allievo (slide 5): a discriminare è la relazione **uno ad uno**, perché nel tutoring, per la docente, «potrebbe essere anche insomma uno a tanti» ([00:18:07]–[00:18:33]). Il **coaching** è un metodo di **sviluppo** basato sulle potenzialità, per obiettivi definiti con l'allievo (slide 6). Anche il **counselling** si svolge «tra due persone», ma è una **relazione d'aiuto** in cui il soggetto si rivolge al counselor per un bisogno specifico (slide 6). Distrattori del test: «tutoring», «coaching», «counselling».
+**Opzione:** Mentoring.
+**Distrattori:**
+- Tutoring.
+- Coaching.
+- Counselling.
+
+**D:** ⚠️ Quale figura, in qualità di guida, sostegno, facilitatore del cambiamento, mette a disposizione sapere, competenze ed esperienza per favorire la crescita personale e professionale di chi ha meno esperienza, secondo la slide 5 della lezione 27?
+**R:** «Il **mentor** (in qualità di guida, sostegno, facilitatore del cambiamento) mette a disposizione sapere, competenze ed esperienza per favorire la crescita personale e professionale del mentee» (slide 5). La docente: «il mentor la persona con più esperienza in qualità di guida sostegno facilitatore del cambiamento» mette a disposizione il proprio sapere, le proprie competenze ed esperienze «per favorire la crescita personale e professionale del proprio allievo, del mentee» ([00:17:08]–[00:17:37]). ⚠️ «Facilitatore del cambiamento» è il mentor. I «cambiamenti sostanziali richiesti dal mercato e dalle tecnologie» sono del **counselor aziendale**, «guida e consigli» in situazioni e contesti specifici del **coach**, gli «inserimenti efficaci» del **tutor** (slide 5–6).
+**Opzione:** La figura del mentor.
+**Distrattori:**
+- La figura del tutor.
+- La figura del coach.
+- La figura del counselor aziendale.
+
+**D:** ⚠️ Che cos'è il tutoring, secondo la slide 5 della lezione 27?
+**R:** «Il tutoring è un **processo di formazione** dove una figura più esperta **accompagna l'allievo verso l'apprendimento**. Il tutor insegna, trasmette conoscenza, crea e condivide i contenuti, facendo in modo che ne sia favorita l'assimilazione» (slide 5). La docente: il tutor facilita l'apprendimento, «e qua non parliamo più di un confronto uno ad uno ma potrebbe essere anche insomma uno a tanti», una relazione «un pochino meno individualizzata, meno personale» ([00:17:47]–[00:18:33]). ⚠️ Anche nel tutoring c'è una figura più esperta: dal mentoring lo distingue la relazione, non necessariamente uno ad uno. Gli **obiettivi definiti con l'allievo** sono del coaching (slide 6).
+**Opzione:** Un processo di formazione dove una figura più esperta accompagna l'allievo verso l'apprendimento; il tutor insegna, trasmette conoscenza, crea e condivide i contenuti, facendo in modo che ne sia favorita l'assimilazione.
+**Distrattori:**
+- Un processo di formazione dove una figura più esperta accompagna l'allievo verso il raggiungimento di obiettivi definiti con l'allievo; il tutor insegna, trasmette conoscenza, crea e condivide i contenuti, facendo in modo che ne sia favorita l'assimilazione.
+- Un metodo di formazione che si basa su una relazione (formale o informale) uno ad uno, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie.
+- Mercato interno: rischio di riproduzione e consolidamento della cultura aziendale esistente; mercato esterno: stimolo alla modificazione della cultura aziendale esistente.
+
+**D:** ⚠️ Quale figura serve a garantire inserimenti efficaci e a predisporre ambienti in grado di favorire sia la crescita professionale sia l'atteggiamento positivo nei confronti del contesto aziendale, secondo la slide 5 della lezione 27?
+**R:** «Il **tutor** serve a garantire inserimenti efficaci e a predisporre ambienti in grado di favorire sia la crescita professionale sia l'atteggiamento positivo nei confronti del contesto aziendale» (slide 5). La docente: nelle imprese bancarie la figura del tutoring «si utilizza molto spesso durante il processo di inserimento, comunque di promozione», al livello iniziale di una nuova posizione ([00:18:40]–[00:18:54]). ⚠️ Il **mentor** favorisce la crescita personale e professionale del mentee, il **coach** osserva il comportamento e dà guida e consigli, il **counselor aziendale** serve ad affrontare i cambiamenti sostanziali (slide 5–6).
+**Opzione:** La figura del tutor.
+**Distrattori:**
+- La figura del mentor.
+- La figura del coach.
+- La figura del counselor aziendale.
+
+**D:** ⚠️ Che tipo di relazione hanno il mentoring e il tutoring, per la docente nella lezione 27?
+**R:** Per il mentoring: «Quindi in questo caso parliamo di una relazione **uno ad uno**» ([00:17:43]), «face to face tante volte» ([00:16:45]). Per il tutoring: «qua non parliamo più di un confronto uno ad uno ma potrebbe essere anche insomma **uno a tanti**», una relazione «un pochino meno individualizzata, meno personale» ([00:18:07]–[00:18:33]). La slide 5 dice «uno ad uno» solo per il mentoring; il resto sta solo nel transcript. ⚠️ Uno ad uno il mentoring; anche uno a tanti il tutoring.
+**Opzione:** Il mentoring una relazione uno ad uno; il tutoring non più un confronto uno ad uno, ma potrebbe essere anche uno a tanti.
+**Distrattori:**
+- Il tutoring una relazione uno ad uno; il mentoring non più un confronto uno ad uno, ma potrebbe essere anche uno a tanti.
+- In termini economici, la riduzione del costo complessivo della gestione; in termini politici, la collaborazione con i sindacati.
+- A un aumento dell'anzianità, cioè dell'età media del personale.
+
+**D:** ⚠️ Che cos'è il coaching, secondo la slide 6 della lezione 27?
+**R:** «Il coaching consiste in un **metodo di sviluppo dei singoli, dei gruppi e delle organizzazioni**, basato sul riconoscimento, la valorizzazione e l'allenamento delle **potenzialità**, per il raggiungimento di **obiettivi definiti con l'allievo** (coachee)» (slide 6). La docente: «dei singoli, dei gruppi o delle intere organizzazioni»; «la cosa importante qua da sottolineare è valorizzare il potenziale». Il coaching è «un metodo molto utilizzato anche per il talent management»: si scopre il potenziale della persona, si stabiliscono insieme gli obiettivi e la si guida al loro raggiungimento ([00:19:18]–[00:20:05]). ⚠️ Singoli, gruppi **e** organizzazioni; obiettivi definiti **con** l'allievo.
+**Opzione:** Un metodo di sviluppo dei singoli, dei gruppi e delle organizzazioni, basato sul riconoscimento, la valorizzazione e l'allenamento delle potenzialità, per il raggiungimento di obiettivi definiti con l'allievo (coachee).
+**Distrattori:**
+- Un metodo di sviluppo dei soli singoli, basato sul riconoscimento, la valorizzazione e l'allenamento delle potenzialità, per il raggiungimento di obiettivi definiti con l'allievo (coachee).
+- Un processo di formazione dove una figura più esperta accompagna l'allievo verso l'apprendimento; il tutor insegna, trasmette conoscenza, crea e condivide i contenuti, facendo in modo che ne sia favorita l'assimilazione.
+- Un metodo di formazione che si basa su una relazione (formale o informale) uno ad uno, tra un soggetto con più esperienza (senior, mentor) e uno con meno esperienza (junior, mentee), al fine di far sviluppare a quest'ultimo competenze necessarie.
+
+**D:** ⚠️ Quale figura osserva il comportamento di una persona ed è in grado di fornirle guida e consigli per ottenere miglioramenti in situazioni e contesti specifici, secondo la slide 6 della lezione 27?
+**R:** «Il **coach** è la figura che osserva il comportamento di una persona ed è in grado di fornirle guida e consigli per ottenere miglioramenti in situazioni e contesti specifici» (slide 6). La docente: «Anche qua la cosa importante che vediamo è il ligame con il contesto»: il coach può consigliare comportamenti, modalità e atteggiamenti molto differenti secondo la situazione o l'azienda ([00:20:05]–[00:20:38]; «ligame» è della trascrizione automatica). ⚠️ «Guida» c'è anche nel mentor, «in qualità di guida, sostegno, facilitatore del cambiamento» (slide 5): il coach **osserva il comportamento** e lavora su **situazioni e contesti specifici**.
+**Opzione:** La figura del coach.
+**Distrattori:**
+- La figura del mentor.
+- La figura del tutor.
+- La figura del counselor aziendale.
+
+**D:** ⚠️ Che cos'è il counseling, secondo la slide 6 della lezione 27?
+**R:** «Il counseling è una **relazione d'aiuto** che intercorre tra due persone, in cui una (**il soggetto**) si rivolge all'altra (**il counselor**) per cercare di rispondere a un **bisogno specifico**, relativo all'ambito familiare, ai rapporti affettivi, agli ambiti lavorativi e di autorealizzazione» (slide 6; i titoli delle slide 5–6 scrivono «counselling», il testo «counseling»). La docente: sono «le richieste da parte del dipendente, del collaboratore di un aiuto» ([00:20:47]–[00:21:00]). Il servizio è molto importante «nei ambienti tossici», dove il benessere organizzativo è abbastanza ridotto e i dipendenti hanno bisogno di un supporto «anche psicologico emotivo» ([00:21:03]–[00:21:16]). ⚠️ È il **soggetto** a rivolgersi al counselor, non il contrario.
+**Opzione:** Una relazione d'aiuto che intercorre tra due persone, in cui una (il soggetto) si rivolge all'altra (il counselor) per cercare di rispondere a un bisogno specifico, relativo all'ambito familiare, ai rapporti affettivi, agli ambiti lavorativi e di autorealizzazione.
+**Distrattori:**
+- Una relazione d'aiuto che intercorre tra due persone, in cui una (il counselor) si rivolge all'altra (il soggetto) per cercare di rispondere a un bisogno specifico, relativo all'ambito familiare, ai rapporti affettivi, agli ambiti lavorativi e di autorealizzazione.
+- Un metodo di sviluppo dei singoli, dei gruppi e delle organizzazioni, basato sul riconoscimento, la valorizzazione e l'allenamento delle potenzialità, per il raggiungimento di obiettivi definiti con l'allievo (coachee).
+- Un processo di formazione dove una figura più esperta accompagna l'allievo verso l'apprendimento; il tutor insegna, trasmette conoscenza, crea e condivide i contenuti, facendo in modo che ne sia favorita l'assimilazione.
+
+**D:** ⚠️ Quale figura viene introdotta per affrontare cambiamenti sostanziali richiesti dal mercato e dalle tecnologie in continua evoluzione, con flessibilità, velocità e innovazione, secondo la slide 6 della lezione 27?
+**R:** «La figura del **counselor aziendale** viene introdotta per affrontare cambiamenti sostanziali richiesti dal mercato e dalle tecnologie in continua evoluzione, con flessibilità, velocità e innovazione» (slide 6). La docente: è sempre più introdotta nei contesti in cui c'è più cambiamento e più innovazione, perché aiuta a far sì che i dipendenti «non siano resistenti al cambiamento, all'innovazione che vorrebbe implementare l'azienda» ([00:21:22]–[00:22:00]). ⚠️ Anche il mentor è un «facilitatore del cambiamento» (slide 5), ma i cambiamenti **sostanziali** richiesti da mercato e tecnologie sono il compito del counselor aziendale.
+**Opzione:** La figura del counselor aziendale.
+**Distrattori:**
+- La figura del mentor.
+- La figura del tutor.
+- La figura del coach.
+
+**D:** ⚠️ Che cosa caratterizza il mercato del lavoro esterno, secondo la slide 7 della lezione 27?
+**R:** «Il mercato del lavoro esterno • L'azienda **ricorre all'esterno** per la copertura delle posizioni vacanti • Un'**ampia mobilità inter-aziendale**: • Sistematici ingressi di personale provenienti da altre aziende • Sistematiche uscite di personale **prima dell'età pensionabile** verso altre aziende • Entrate di personale senza esperienza • Tradizionali uscite per anzianità -> **AUMENTO DEL TURNOVER ESTERNO**» (slide 7). Nella fig. 9, «Gestione strategica del personale nell'ottica del mercato esterno», la piramide ha ai vari livelli gli ingressi da altre imprese e le uscite verso altre imprese, alla base gli ingressi di personale senza esperienza, e le uscite per anzianità. La docente: «le entrate possono verificarsi su tutti i livelli organizzativi, non soltanto su quelli più bassi» ([00:22:12]–[00:23:47]). ⚠️ Entrate senza esperienza e uscite per anzianità ci sono **in entrambi** i mercati (slide 3 e 7): l'esterno si riconosce dalla mobilità inter-aziendale, e il turnover esterno **aumenta**.
+**Opzione:** L'azienda ricorre all'esterno per la copertura delle posizioni vacanti; un'ampia mobilità inter-aziendale: sistematici ingressi di personale provenienti da altre aziende, sistematiche uscite di personale prima dell'età pensionabile verso altre aziende, entrate di personale senza esperienza, tradizionali uscite per anzianità; aumento del turnover esterno.
+**Distrattori:**
+- L'azienda ricorre all'esterno per la copertura delle posizioni vacanti; un'ampia mobilità inter-aziendale: sistematici ingressi di personale provenienti da altre aziende, sistematiche uscite di personale prima dell'età pensionabile verso altre aziende, entrate di personale senza esperienza, tradizionali uscite per anzianità; riduzione del turnover esterno.
+- L'obsolescenza professionale fra gli svantaggi del mercato interno; l'assenza di rischi di obsolescenze professionale fra i vantaggi del mercato esterno.
+- Il mentoring una relazione uno ad uno; il tutoring non più un confronto uno ad uno, ma potrebbe essere anche uno a tanti.
+
+**D:** ⚠️ Qual è il vantaggio del ricorso al mercato esterno indicato dalla slide 8 della lezione 27?
+**R:** «I vantaggi del ricorso al mercato esterno: • **Convenienza di assumere le risorse già formate (per alcune posizioni)** rispetto alla selezione e alla formazione delle risorse interne» (slide 8). La docente: «per alcune posizioni soprattutto insomma molto specialistiche». Se il percorso per portare una risorsa interna a coprire la posizione è lungo e costoso, con molti interventi di formazione e di affiancamento, conviene assumere «la persona già pronta» ([00:23:50]–[00:24:41]). ⚠️ Per **alcune** posizioni, non per tutte.
+**Opzione:** Convenienza di assumere le risorse già formate (per alcune posizioni) rispetto alla selezione e alla formazione delle risorse interne.
+**Distrattori:**
+- Convenienza di assumere le risorse già formate (per tutte le posizioni) rispetto alla selezione e alla formazione delle risorse interne.
+- Posti vacanti da uscite per l'anzianità, aumento delle dimensioni, dinamica organizzativa; copertura assicurata dalle risorse già acquisite.
+- Da precise regole interne amministrative, con rigidi automatismi di carriera che non hanno a che fare con il concetto di mercato.
+
+**D:** ⚠️ Quali interrogativi si deve porre una banca in chiave strategica nella scelta fra mercato interno ed esterno, secondo la slide 8 della lezione 27?
+**R:** «LA NECESSITA' DI VALUTAZIONE DELLE ALTERNATIVE (COSTI/BENEFICI) — Gli interrogativi che si deve porre una banca in chiave strategica: • E' opportuno impostare la gestione del personale alimentando la formazione del mercato interno oppure risulta conveniente puntare sul ricorso al mercato esterno? • In che modo lo sviluppo del mercato interno può **coesistere** con il ricorso al mercato esterno?» (slide 8). La docente: la valutazione delle alternative è «cruciale, necessaria e fondamentale», con i costi e i benefici di entrambi i mercati ([00:24:41]–[00:24:58]); «tutte quante le banche, insomma intermediari e finanziari, si rivolgono sia al mercato interno sia al mercato esterno» ([00:25:39]). ⚠️ I due mercati **coesistono**: nessuno sostituisce l'altro.
+**Opzione:** È opportuno impostare la gestione del personale alimentando la formazione del mercato interno oppure risulta conveniente puntare sul ricorso al mercato esterno? In che modo lo sviluppo del mercato interno può coesistere con il ricorso al mercato esterno?
+**Distrattori:**
+- È opportuno impostare la gestione del personale alimentando la formazione del mercato interno oppure risulta conveniente puntare sul ricorso al mercato esterno? In che modo lo sviluppo del mercato interno può sostituire del tutto il ricorso al mercato esterno?
+- Area orientata all'espletamento di aspetti amministrativo-contabili; revisione dei sistemi di gestione del personale dalla seconda metà degli anni '80, non in ottica strategica; revisione dei sistemi di gestione in ottica strategica.
+- Non può essere valutato soltanto in base alle ore lavorate, ma deve essere valutato anche per esempio in base al raggiungimento di un obiettivo prestabilito.
+
+**D:** ⚠️ Quali costi e benefici hanno il mercato interno e il mercato esterno nella fase di formazione e addestramento, secondo la Tab. 3 della slide 9 della lezione 27?
+**R:** Tab. 3, «Costi e benefici del mercato interno e del mercato esterno del lavoro», riga «2) Formazione e addestramento»: mercato interno «– Per affiancamento, formazione gestita all'interno – **Rischio** di obsolescenza professionale»; mercato esterno «– Acquisto di risorse già formate e addestrate – **Assenza di rischi** di obsolescenza professionale» (slide 9). La docente legge la tabella per fasi del ciclo di vita del personale, dall'entrata all'uscita: per ogni fase bisogna capire costi e benefici per scegliere la soluzione più adeguata ([00:26:09]–[00:27:17]). ⚠️ Il **rischio** di obsolescenza è dell'interno, l'**assenza** del rischio è dell'esterno: è il distrattore A della domanda 5.
+**Opzione:** Mercato interno: per affiancamento, formazione gestita all'interno, rischio di obsolescenza professionale; mercato esterno: acquisto di risorse già formate e addestrate, assenza di rischi di obsolescenza professionale.
+**Distrattori:**
+- Mercato interno: per affiancamento, formazione gestita all'interno, assenza di rischi di obsolescenza professionale; mercato esterno: acquisto di risorse già formate e addestrate, rischio di obsolescenza professionale.
+- Reclutamento del personale con profili più bassi (minori competenze e aspettative); permanenze limitata presso la banca, passaggio ad altre attività occupazionali.
+- In termini economici, la riduzione del costo complessivo della gestione; in termini politici, la collaborazione con i sindacati.
+
+**D:** ⚠️ Come sono i sistemi di valutazione nel mercato interno e nel mercato esterno, secondo la Tab. 3 della slide 9 della lezione 27?
+**R:** Tab. 3, riga «4) Valutazione»: mercato interno «– Sistemi **semplici** (non differenziati), basati sul **comportamento**, **poco** formalizzati»; mercato esterno «– Sistemi **complessi** (differenziati), basati sui **risultati**, **molto** formalizzati» (slide 9). È coerente con la slide 4, che fra le giustificazioni economiche del mercato interno pone la «Riduzione dei costi di valutazione (semplicità, trasparenza e scarsa differenziazione)». La docente: con regole simili e omogenee per tutti la valutazione è più semplice ([00:14:21]–[00:15:13]); nel mercato esterno ci sono «maggiori costi di controllo», perché bisogna valutare più persone diverse, con il performance management e i risultati individuali, di gruppo e per obiettivi ([00:30:40]–[00:31:28]). ⚠️ Tre assi: semplici/complessi, comportamento/risultati, poco/molto formalizzati. Il comportamento è dell'interno, i risultati dell'esterno.
+**Opzione:** Mercato interno: sistemi semplici (non differenziati), basati sul comportamento, poco formalizzati; mercato esterno: sistemi complessi (differenziati), basati sui risultati, molto formalizzati.
+**Distrattori:**
+- Mercato interno: sistemi semplici (non differenziati), basati sui risultati, poco formalizzati; mercato esterno: sistemi complessi (differenziati), basati sul comportamento, molto formalizzati.
+- Rischio di riproduzione e consolidamento della cultura; obsolescenza professionale; difficoltà di sviluppare nuove conoscenze e capacità; rischio di sovradimensionamento.
+- Stabilità dell'impiego e controllo delle regole del mercato interno (contratti nazionali e aziendali) come strumento di difesa dei lavoratori.
+
+**D:** ⚠️ Che effetto hanno sulla cultura aziendale esistente il mercato interno e il mercato esterno nella fase di carriera, secondo la Tab. 3 della slide 9 della lezione 27?
+**R:** Tab. 3, riga «5) Carriera»: mercato interno «– **Rischio di riproduzione e consolidamento** della cultura aziendale esistente»; mercato esterno «– **Stimolo alla modificazione** della cultura aziendale esistente» (slide 9). Nel riassunto della slide 10 le stesse voci tornano come primo svantaggio del mercato interno e come secondo vantaggio del mercato esterno. La docente: il mercato interno riproduce «sempre della stessa cultura che può poi impedire anche lo sviluppo, l'innovazione, il cambiamento organizzativo» ([00:27:42]); con il mercato esterno «la cultura necessariamente si deve rinnovare, si deve aggiornare» ([00:29:14]). ⚠️ Lo **stimolo** è dell'esterno: è il distrattore D della domanda 5.
+**Opzione:** Mercato interno: rischio di riproduzione e consolidamento della cultura aziendale esistente; mercato esterno: stimolo alla modificazione della cultura aziendale esistente.
+**Distrattori:**
+- Mercato interno: stimolo alla modificazione della cultura aziendale esistente; mercato esterno: rischio di riproduzione e consolidamento della cultura aziendale esistente.
+- Aumento dei costi di reclutamento e selezione; problemi di inserimento; imposizione dei più elevati livelli retributivi; maggiori costi di controllo; pericolo di perdita di know-how.
+- Convenienza di assumere le risorse già formate (per alcune posizioni) rispetto alla selezione e alla formazione delle risorse interne.
+
+**D:** ⚠️ Quali sono gli svantaggi del mercato interno nel riassunto della slide 10 della lezione 27?
+**R:** «Svantaggi MI • Rischio di riproduzione e consolidamento della cultura • Obsolescenza professionale • Difficoltà di sviluppare nuove conoscenze e capacità • Rischio di sovradimensionamento» (slide 10). La docente: la stessa cultura può impedire sviluppo, innovazione e cambiamento organizzativo; si lavora «sempre con le stesse competenze»; manca l'input esterno di idee innovative e creative; ci sono poche uscite, e a volte serve ridurre l'organico ([00:27:42]–[00:28:49]). ⚠️ Gli svantaggi del mercato interno sono quattro. L'aumento dei costi di reclutamento e selezione è uno svantaggio del mercato **esterno**.
+**Opzione:** Rischio di riproduzione e consolidamento della cultura; obsolescenza professionale; difficoltà di sviluppare nuove conoscenze e capacità; rischio di sovradimensionamento.
+**Distrattori:**
+- Rischio di riproduzione e consolidamento della cultura; obsolescenza professionale; difficoltà di sviluppare nuove conoscenze e capacità; aumento dei costi di reclutamento e selezione.
+- Il mentoring una relazione uno ad uno; il tutoring non più un confronto uno ad uno, ma potrebbe essere anche uno a tanti.
+- Calo di attività dovuto alla disintermediazione; intensificazione del processi di automazione del lavoro.
+
+**D:** ⚠️ Quali sono i vantaggi del mercato esterno nel riassunto della slide 10 della lezione 27?
+**R:** «Vantaggi ME • Assenza di rischi di obsolescenze professionale • Stimolo alla modificazione della cultura • Sviluppo delle conoscenze non tipiche, innovazione • Riduzione dei rischi di sovradimensionamento • Riduzione della competitività interna • Mantenimento degli standard qualitativi degli organici» (slide 10, «obsolescenze» così). La docente: le competenze si rinnovano con i neolaureati e le idee di università e centri di ricerca; la cultura si deve rinnovare; con entrate e uscite il turnover è molto più elevato; il personale gira e può ambire a percorsi diversi; chi occupa una posizione sa che può entrare un'altra persona e ricoprirla ([00:28:49]–[00:30:19]). ⚠️ Sono sei voci. La **gestione del personale meno costosa** è l'unico vantaggio del mercato **interno**: è la chiave della domanda 5, e tre voci di questa colonna ne sono i distrattori.
+**Opzione:** Assenza di rischi di obsolescenze professionale; stimolo alla modificazione della cultura; sviluppo delle conoscenze non tipiche, innovazione; riduzione dei rischi di sovradimensionamento; riduzione della competitività interna; mantenimento degli standard qualitativi degli organici.
+**Distrattori:**
+- Assenza di rischi di obsolescenze professionale; stimolo alla modificazione della cultura; sviluppo delle conoscenze non tipiche, innovazione; riduzione dei rischi di sovradimensionamento; riduzione della competitività interna; gestione del personale meno costosa.
+- L'esistenza all'interno dell'azienda di un'offerta di lavoro, costituita dal complesso delle posizioni organizzative disponibili, e di una domanda di lavoro, rappresentata dall'organico in essere.
+- Alimentazione con le sistematiche entrate di neoassunti (personale senza esperienza); le uscite in termini di cessazione del servizio per anzianità; elevata stabilità delle risorse a livelli aziendale.
+
+**D:** ⚠️ Quali sono gli svantaggi del mercato esterno nel riassunto della slide 10 della lezione 27?
+**R:** «Svantaggi ME • Aumento dei costi di reclutamento e selezione • Problemi di inserimento • Imposizione dei più elevati livelli retributivi • Maggiori costi di controllo • Pericolo di perdita di know-how» (slide 10). La docente: all'inizio i nuovi vanno allineati con valori, strategie, mission e vision ([00:30:22]); chi ha competenze più elevate ambisce a retribuzioni più elevate ([00:30:40]); bisogna valutare più persone diverse ([00:31:07]); chi possiede il know-how può andarsene, spesso da un concorrente ([00:31:28]–[00:31:53]). ⚠️ Gli svantaggi sono cinque. Il rischio di sovradimensionamento è uno svantaggio del mercato **interno**, e la sua riduzione un vantaggio dell'esterno.
+**Opzione:** Aumento dei costi di reclutamento e selezione; problemi di inserimento; imposizione dei più elevati livelli retributivi; maggiori costi di controllo; pericolo di perdita di know-how.
+**Distrattori:**
+- Aumento dei costi di reclutamento e selezione; problemi di inserimento; imposizione dei più elevati livelli retributivi; maggiori costi di controllo; rischio di sovradimensionamento.
+- Stabilità dell'impiego e controllo delle regole del mercato interno (contratti nazionali e aziendali) come strumento di difesa dei lavoratori.
+- Mercato interno: rischio di riproduzione e consolidamento della cultura aziendale esistente; mercato esterno: stimolo alla modificazione della cultura aziendale esistente.
+
+**D:** ⚠️ Qual è il principale vantaggio della copertura dei posti vacanti tramite il mercato di lavoro interno, secondo il test della lezione 27 (domanda 5)?
+**R:** «**Gestione del personale meno costosa**». Nel riassunto della slide 10 è l'**unica** voce della colonna «Vantaggi MI». La docente: «il vantaggio principale del ricorso al mercato interno è sicuramente la gestione del personale meno costosa», perché si eliminano i processi di ricerca, selezione e inserimento ([00:27:17]–[00:27:42]). ⚠️ I tre distrattori sono voci della colonna **«Vantaggi ME»** della stessa slide, alla lettera, «obsolescenze» compreso. L'«assenza di rischi di obsolescenze professionale» è anche il segno invertito di uno svantaggio del mercato interno, l'«Obsolescenza professionale». Distrattori del test: «assenza di rischi di obsolescenze professionale», «sviluppo delle conoscenze non tipiche, innovazione», «stimolo alla modificazione della cultura».
+**Opzione:** Gestione del personale meno costosa.
+**Distrattori:**
+- Assenza di rischi di obsolescenze professionale.
+- Sviluppo delle conoscenze non tipiche, innovazione.
+- Stimolo alla modificazione della cultura.
+
+**D:** ⚠️ In quali colonne del riassunto della slide 10 della lezione 27 stanno l'«obsolescenza professionale» e l'«assenza di rischi di obsolescenze professionale»?
+**R:** «Obsolescenza professionale» è la seconda voce degli **Svantaggi MI**, «Assenza di rischi di obsolescenze professionale» la prima dei **Vantaggi ME** (slide 10). Nella Tab. 3 (slide 9) la stessa coppia sta nella riga «Formazione e addestramento»: «Rischio di obsolescenza professionale» per l'interno, «Assenza di rischi di obsolescenza professionale» per l'esterno. La docente: con il mercato interno «stiamo lavorando sempre con le stesse competenze, le stesse risorse» ([00:27:56]); con l'esterno «c'è sempre un rinnovo, le competenze nuove» ([00:28:49]). ⚠️ È la trappola della domanda 5: l'assenza di rischi di obsolescenza non è un vantaggio del mercato interno.
+**Opzione:** L'obsolescenza professionale fra gli svantaggi del mercato interno; l'assenza di rischi di obsolescenze professionale fra i vantaggi del mercato esterno.
+**Distrattori:**
+- L'obsolescenza professionale fra gli svantaggi del mercato esterno; l'assenza di rischi di obsolescenze professionale fra i vantaggi del mercato interno.
+- L'esistenza all'interno dell'azienda di un'offerta di lavoro, costituita dal complesso delle posizioni organizzative disponibili, e di una domanda di lavoro, rappresentata dall'organico in essere.
+- Mercato interno: sistemi semplici (non differenziati), basati sul comportamento, poco formalizzati; mercato esterno: sistemi complessi (differenziati), basati sui risultati, molto formalizzati.
+
+**D:** ⚠️ In quale colonna del riassunto della slide 10 della lezione 27 sta la «riduzione della competitività interna»?
+**R:** Fra i **vantaggi del mercato esterno**: «Vantaggi ME • […] • Riduzione dei rischi di sovradimensionamento • Riduzione della competitività interna • Mantenimento degli standard qualitativi degli organici» (slide 10). La docente: «la riduzione della competitività interna perché insomma il personale gira, c'è la possibilità anche di promozione, quindi le stesse persone possono ambire poi alle strade e percorsi organizzativi diversi» ([00:29:42]). ⚠️ Sembra uno svantaggio, ed è un vantaggio dell'esterno. Altrove nella lezione la docente dà invece valore alla competizione interna: con poco turnover «la competizione tra il personale diminuisce» e la motivazione si indebolisce ([00:05:34]). La card segue la slide.
+**Opzione:** Fra i vantaggi del mercato esterno.
+**Distrattori:**
+- Fra gli svantaggi del mercato esterno.
+- Fra i vantaggi del mercato interno.
+- Fra gli svantaggi del mercato interno.
+
+**D:** ⚠️ Quali tendenze della mobilità interaziendale indicano le slide 11–12 della lezione 27, nella differenziazione delle politiche di gestione del mercato esterno in base a reparti e famiglie professionali?
+**R:** «La mobilità interaziendale: tendenze e prospettive — La differenziazione delle politiche di gestione del mercato esterno in base a reparti e famiglie professionali: 1. **Grandi istituti di credito come la fonte di acquisizione per le banche piccole e medie** […] 2. Acquisizione delle competenze specialistiche da altri comparti (industriale, commerciale) […] 3. Attivazione dei canali di acquisizione specifici per alcuni ruoli (es. operativi di sportello) […] 4. La definizione della strategia del personale al livello del gruppo bancario e non singoli intermediari componenti […] 5. L'analisi della domanda di lavoro» (slide 11–12). La docente: le politiche e le prassi di gestione del personale vanno diversificate e personalizzate, come il prodotto per i clienti ([00:31:59]–[00:32:20]). ⚠️ Sono i **grandi** istituti la fonte di acquisizione per le banche **piccole e medie**, non il contrario.
+**Opzione:** Grandi istituti di credito come la fonte di acquisizione per le banche piccole e medie; acquisizione delle competenze specialistiche da altri comparti; attivazione dei canali di acquisizione specifici per alcuni ruoli; la definizione della strategia del personale al livello del gruppo bancario e non singoli intermediari componenti; l'analisi della domanda di lavoro.
+**Distrattori:**
+- Banche piccole e medie come la fonte di acquisizione per i grandi istituti di credito; acquisizione delle competenze specialistiche da altri comparti; attivazione dei canali di acquisizione specifici per alcuni ruoli; la definizione della strategia del personale al livello del gruppo bancario e non singoli intermediari componenti; l'analisi della domanda di lavoro.
+- Mercato interno: per affiancamento, formazione gestita all'interno, rischio di obsolescenza professionale; mercato esterno: acquisto di risorse già formate e addestrate, assenza di rischi di obsolescenza professionale.
+- Mercato interno: sistemi semplici (non differenziati), basati sul comportamento, poco formalizzati; mercato esterno: sistemi complessi (differenziati), basati sui risultati, molto formalizzati.
+
+**D:** ⚠️ Che cosa offrono i grandi istituti di credito come fonte di acquisizione per le banche piccole e medie, secondo la slide 11 della lezione 27?
+**R:** «1. Grandi istituti di credito come la fonte di acquisizione per le banche piccole e medie: • **Personale direttivo e specialisti** • **Trasferimento di esperienze e know-how** di fronte a impossibilità di sviluppare le professionalità interamente» (slide 11). La docente: una persona formata in un'istituzione bancaria importante viene «catturata» da una banca piccola o media, magari innovativa; nelle banche più grandi i percorsi di sviluppo e di crescita possono essere più complessi ([00:32:23]–[00:33:32]). ⚠️ Il personale direttivo e gli specialisti vengono dai grandi istituti. Gli operativi di sportello hanno canali di acquisizione specifici, con profili più bassi (voce 3).
+**Opzione:** Personale direttivo e specialisti; trasferimento di esperienze e know-how di fronte a impossibilità di sviluppare le professionalità interamente.
+**Distrattori:**
+- Personale operativo di sportello; trasferimento di esperienze e know-how di fronte a impossibilità di sviluppare le professionalità interamente.
+- Mentoring, tutoring, coaching, counselling.
+- Gestione del personale meno costosa.
+
+**D:** ⚠️ Da quali comparti, e per quali competenze specialistiche, la banca acquisisce competenze da altri comparti, secondo la slide 11 della lezione 27?
+**R:** «2. Acquisizione delle competenze specialistiche da altri comparti (**industriale, commerciale**): -> **marketing, controllo di gestione, organizzazione, personale**» (slide 11). La docente aggiunge i servizi e il terziario: ci sono specificità di settore, ma anche competenze trasversali utili in qualsiasi settore, e nel turismo, per esempio, le competenze di marketing possono essere più sviluppate che nel settore bancario ([00:33:32]–[00:34:26]). ⚠️ Le quattro competenze, nell'ordine: marketing, controllo di gestione, organizzazione, personale. Gli operativi di sportello sono un ruolo con canali di acquisizione propri (voce 3).
+**Opzione:** Dai comparti industriale e commerciale: marketing, controllo di gestione, organizzazione, personale.
+**Distrattori:**
+- Dai comparti industriale e commerciale: marketing, controllo di gestione, organizzazione, operativi di sportello.
+- Mercato di lavoro interno.
+- Mentoring.
+
+**D:** ⚠️ Che cosa comporta l'attivazione dei canali di acquisizione specifici per alcuni ruoli, come gli operativi di sportello, secondo la slide 11 della lezione 27?
+**R:** «3. Attivazione dei canali di acquisizione specifici per alcuni ruoli (es. operativi di sportello): • Reclutamento del personale con **profili più bassi (minori competenze e aspettative)** • Permanenze **limitata** presso la banca, passaggio ad altre attività occupazionali» (slide 11, «Permanenze limitata» così). La docente: non necessariamente dalle università, anche neodiplomati; la permanenza nella posizione è limitata, e la banca può collaborare con università, istituti di ricerca e anche scuole superiori ([00:34:26]–[00:35:22]). ⚠️ Profili più **bassi**, minori competenze e aspettative.
+**Opzione:** Reclutamento del personale con profili più bassi (minori competenze e aspettative); permanenze limitata presso la banca, passaggio ad altre attività occupazionali.
+**Distrattori:**
+- Reclutamento del personale con profili più alti (maggiori competenze e aspettative); permanenze limitata presso la banca, passaggio ad altre attività occupazionali.
+- Mentoring, tutoring, coaching, counselling.
+- Mentoring.
+
+**D:** ⚠️ A quale livello va definita la strategia del personale, e con quali vantaggi, secondo la slide 12 della lezione 27?
+**R:** «4. La definizione della strategia del personale **al livello del gruppo bancario e non singoli intermediari componenti** (alternative di carriera, formazione di una cultura omogenea)» (slide 12). La docente: nelle organizzazioni multi unit, con diverse filiali e sportelli o attive a livello internazionale, la strategia va definita per tutto il gruppo, «e non soltanto a livello di singoli intermediari componenti», perché così ci sono alternative di carriera e di formazione e una cultura omogenea che può diventare un vantaggio competitivo ([00:35:22]–[00:36:08]). ⚠️ Il **gruppo**, non i singoli intermediari.
+**Opzione:** Al livello del gruppo bancario e non singoli intermediari componenti (alternative di carriera, formazione di una cultura omogenea).
+**Distrattori:**
+- Al livello dei singoli intermediari componenti e non del gruppo bancario (alternative di carriera, formazione di una cultura omogenea).
+- Contenimento e riduzione dell'organico.
+- L'obsolescenza professionale fra gli svantaggi del mercato interno; l'assenza di rischi di obsolescenze professionale fra i vantaggi del mercato esterno.
+
+**D:** ⚠️ Che cosa riguarda l'analisi della domanda di lavoro, secondo la slide 12 della lezione 27?
+**R:** «5. L'analisi della domanda di lavoro: • Aspettative/esigenze delle **nuove generazioni**: valori, interessi e stili di vita • Possibilità di avviare le politiche **innovative/creative**» (slide 12). La docente: valutare aspettative ed esigenze delle nuove generazioni permette di avviare politiche innovative e creative di gestione del personale e di **differenziare** gli strumenti di valutazione, formazione e sviluppo per i diversi gruppi di collaboratori ([00:36:08]–[00:36:46]). ⚠️ Le politiche sono innovative/creative, e gli strumenti si differenziano.
+**Opzione:** Aspettative/esigenze delle nuove generazioni: valori, interessi e stili di vita; possibilità di avviare le politiche innovative/creative.
+**Distrattori:**
+- Aspettative/esigenze delle nuove generazioni: valori, interessi e stili di vita; possibilità di uniformare le politiche del personale.
+- Contenimento e riduzione dell'organico.
+- Dagli anni '80.
