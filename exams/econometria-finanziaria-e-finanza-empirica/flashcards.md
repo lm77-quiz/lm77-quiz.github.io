@@ -4104,3 +4104,275 @@
 - dSt=rStdt+StWt∗
 - dSt=StWt∗
 - dSt=rStdt-sStWt∗
+
+## Lezione 14 — Pricing 7 - Modello Black-Scholes-Merton Il prezzo della CALL
+
+**D:** ⚠️ Che cosa dimostra la lezione 14, sotto quale misura e con quale metodo?
+**R:** Slide 3, «Proposizione»: «Il prezzo di una call europea sotto la misura p∗ è dato dalla nota formula di Black-Scholes-Merton, i.e.: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33)», con d_1 (34), d_2 (35) e N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, che qui porta il numero (74). Il docente: «Completiamo oggi l'applicazione del metodo del portafoglio di replicazione della martingala per derivare analiticamente il prezzo di un'opzione call con il modello di Black Scholes e Merton»; «La proposizione e la formula sono note, andremo a dimostrare» che il prezzo della call «sotto la misura P star» è dato dalla (33) (transcript [00:00:05]–[00:00:45]). ⚠️ La lezione 11 ottiene la stessa (33) come limite del modello di Cox-Ross-Rubinstein; qui la si dimostra sotto la misura p∗, partendo dalla (65) della lezione 13.
+**Opzione:** Che il prezzo di una call europea sotto la misura p∗ è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
+**Distrattori:**
+- Che il prezzo di una call europea sotto la misura originaria p è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
+- W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
+- Nella componente del sottostante meno quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
+
+**D:** ⚠️ Come si specifica per il pay-off di una call europea standard la formula del prezzo di un derivato in un mondo risk-neutral (formula (75) della lezione 14)?
+**R:** Slide 4: «Sulla base della formula per la determinazione del prezzo di un derivato in un mondo risk-neutral, i.e. π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t) (65) specificandola per il pay-off di una call Europea standard: C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t] (75)». Il docente: il prezzo della call è B_t, «il fattore di capitalizzazione», per il valore atteso sotto la misura P∗ del valore intrinseco dell'opzione scontato del valore del tempo da 0 a T, «condizionato alle informative disponibili al tempo T piccolo» (transcript [00:01:13]–[00:01:40]). ⚠️ Il pay-off (S_T - K)^+ si sconta con B_T^(-1) dentro il valore atteso e si moltiplica per B_t fuori: la (65) è quella della lezione 13.
+**Opzione:** C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
+**Distrattori:**
+- C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T(S_T - K)^+ | ℑ_t]
+- Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
+- dB_t=rB_tdt
+
+**D:** ⚠️ Come sono definiti la funzione indicatrice I_D e l'insieme D nella dimostrazione del prezzo della call della lezione 14?
+**R:** Slide 5: «Se I_D è la funzione indicatrice, definita come: I_D = {1 se S_T > K; 0 se S_T ≤ K} dove D è l'insieme di eventi tale che S_T > K, tale per cui: D = {ω : S_T(ω) > K}». Il docente: «se recuperiamo il concetto di funzione indicatrice e definiamo l'evento D grande come il valore 1 se st è maggiore di k e 0 se s al tempo t grande è minore o uguale a k», con D l'insieme degli eventi ω per cui S_T(ω) è maggiore di K (transcript [00:02:07]). ⚠️ La disuguaglianza è stretta: con S_T = K l'indicatrice vale 0. Nella lezione 13 l'indicatrice era 𝟙_(S_T≥K), con ≥ (deck 13, slide 24). ⚠️ D è l'insieme, I_D la funzione che vale 1 su D: il docente chiama «evento D» la funzione.
+**Opzione:** I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+**Distrattori:**
+- I_D = 1 se S_T < K e 0 se S_T ≥ K, dove D = {ω : S_T(ω) < K} è l'insieme di eventi tale che S_T < K.
+- C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
+- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
+
+**D:** ⚠️ Come si riscrive il pay-off della call con la funzione indicatrice I_D, e che cosa diventa la (75), nella lezione 14?
+**R:** Slide 6: «Sfruttando questa definizione si può riscrivere il pay-off nella forma: (S_T - K)^+ = (S_T - K)I_D e così, sostituendola all'interno dell'espressione (75): C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t]». Il docente: «riscriviamo il payoff senza il simbolo più, quindi senza la funzione di massimo, perché ponderiamo il valore intrinseco st-k per la funzione indicatrice relativamente all'evento D» (transcript [00:02:40]). ⚠️ L'indicatrice prende il posto della parte positiva: è lo stesso passaggio della (68) della lezione 13.
+**Opzione:** (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
+**Distrattori:**
+- (S_T - K)^+ = (K - S_T)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(K - S_T)I_D | ℑ_t].
+- W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
+- Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
+
+**D:** ⚠️ In quali due termini si separa il prezzo della call «con qualche passaggio», nella lezione 14?
+**R:** Slide 6: «con qualche passaggio: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t)». Il docente: «siamo nelle condizioni di poter separare il prezzo della call tra la componente relativa al sottostante st grande e la componente relativa al prezzo strike» (transcript [00:02:59]–[00:03:23]). ⚠️ I due termini si sottraggono, e l'indicatrice I_D sta in entrambi: lo strike pesa solo se S_T > K.
+**Opzione:** Nella componente del sottostante meno quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
+**Distrattori:**
+- Nella componente del sottostante più quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) + B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
+- J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
+- Ep∗(Su∗|St∗)=St∗
+
+**D:** ⚠️ Come sono definite le quantità J_1 e J_2 (formule (76) e (77) della lezione 14)?
+**R:** Slide 7: «Le seguenti quantità sono definite: J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)». Il docente: «Vengono quindi definite due quantità, la quantità J1 che è il primo termine che abbiamo sopra declinato e la quantità J2 che è il secondo termine» (transcript [00:03:50]). ⚠️ J_1 contiene il sottostante S_T, J_2 lo strike K.
+**Opzione:** J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+**Distrattori:**
+- J_1 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (77)
+- E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+- Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
+
+**D:** ⚠️ In che cosa si trasforma l'equazione (33) dopo la definizione di J_1 e J_2, e che cosa resta da fare (formula (78) della lezione 14)?
+**R:** Slide 8: «L'equazione (33) si trasforma nella C_t ≟ J_1 - J_2 (78) J_2 è calcolata in forma esplicita». Il docente: «Quello che quindi dovremmo andare a dimostrare» è che il prezzo della call al tempo t «è uguale alla differenza tra J1 e J2»; «Dobbiamo calcolare in maniera esplicita J1 e J2 in maniera tale da completare la dimostrazione» (transcript [00:04:08]–[00:04:29]). ⚠️ L'uguale con il «?» sopra, ≟: la (78) è la tesi, ancora da verificare. Si calcola prima J_2 (slide 8–17), poi J_1 (slide 18–30).
+**Opzione:** C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
+**Distrattori:**
+- C_t ≟ J_2 - J_1 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
+- Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
+- dSt=rStdt+sStWt∗
+
+**D:** ⚠️ Perché nel calcolo di J_2 B_T^(-1) e K escono dal valore atteso, e che cosa si ottiene con le definizioni di B_t e B_T?
+**R:** Slide 8–9: «J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) = poichè sia B_T^(-1) che K sono indipendenti da ℑ_t, si può scrivere: = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) utilizzando le definizioni di B_t e B_T: = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t) =». Il docente: «sia Bt-1 che K sono indipendenti dalla filtrazione e quindi li possiamo portare fuori dal valore atteso» (transcript [00:04:53]–[00:05:12]). ⚠️ B_t B_T^(-1) è lo sconto da T a t, e^(-r(T-t)): per il docente «lo sconto B di T meno 1 non è altro che E alla meno RT» ([00:22:05]), e B_t = e^(rt) è la (55) della lezione 12.
+**Opzione:** Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
+**Distrattori:**
+- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(r(T-t)) E_{P∗}(I_D | ℑ_t).
+- J_1 = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
+- S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t))
+
+**D:** ⚠️ A che cosa equivale E_{P∗}(I_D | ℑ_t) nel calcolo di J_2, e come si riscrive con la definizione di D?
+**R:** Slide 10: «che è equivalente a: = Ke^(-r(T-t))P∗{D | ℑ_t} = dalla definizione di D: = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}». Il docente: «il valore atteso della funzione indicatrice altro non è che la probabilità del evento cui si riferisce la funzione indicatrice» (transcript [00:05:30]–[00:06:01]). ⚠️ È la proprietà E(X) = P(A) per X = 𝟙_A della lezione 02 (slide 9), qui sotto la misura P∗ e condizionata a ℑ_t.
+**Opzione:** Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
+**Distrattori:**
+- Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T ≤ K | ℑ_t}.
+- Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
+- B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
+
+**D:** ⚠️ Che cosa si ottiene, nel calcolo di J_2, dividendo per B_T entrambi i termini della disuguaglianza S_T > K?
+**R:** Slide 11: «dividendo entrambi i termini per B_T e utilizzando la definizione di S∗_T = S_T/B_T, si ottiene: = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}». Il docente: «Dividiamo quindi entrambi i termini per bt e utilizziamo la definizione st star», «che è uguale ad s di t su bt» (transcript [00:06:01]–[00:06:42]). ⚠️ A destra lo strike diventa Ke^(-rT), scontato fino a 0 e non fino a t: lo sconto B_T^(-1) è e^(-rT).
+**Opzione:** Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
+**Distrattori:**
+- Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-r(T-t)) | ℑ_t}.
+- u_n=exp(σΔ_n^(1/2))
+- S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
+
+**D:** ⚠️ Quale espressione esplicita di S∗_T, una P∗-martingala, si sostituisce nella probabilità del calcolo di J_2 (la (62) richiamata dalla lezione 14)?
+**R:** Slide 12: «Si è dimostrato che S∗_T è una P∗- martingala e che ha la seguente espressione esplicita: S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) (62)». Slide 13: «utilizzando l'equazione precedente: = Ke^(-r(T-t))P∗{S∗_t e^(-(1/2)σ²(T-t) + σ(W∗_T - W∗_t)) > Ke^(-rT) | ℑ_t} =». Il docente: S∗_T «ha la seguente espressione esplicita in termini di random walk esponenziale» (transcript [00:06:50]–[00:07:18]). ⚠️ È la (62) della lezione 13, S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), con u = T. Sotto P∗ l'esponente ha -σ²/2 e nessun r.
+**Opzione:** S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
+**Distrattori:**
+- S∗_T = S∗_t e^((σ²/2)(T-t) + σ(W∗_T - W∗_t))
+- lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]
+- Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
+
+**D:** ⚠️ Che cosa si ottiene nel calcolo di J_2 calcolando il logaritmo di entrambi i termini della disuguaglianza?
+**R:** Slide 13: «calcolando il logaritmo di entrambi i termini: = Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}». Il docente: «applichiamo all'interno della probabilità star il logaritmo», con «il logaritmo di K» «meno r di t grande» a destra (transcript [00:07:30]–[00:07:56]). ⚠️ A destra ln(Ke^(-rT)) = ln K - rT, con il meno.
+**Opzione:** Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
+**Distrattori:**
+- Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K + rT | ℑ_t}
+- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
+- J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+
+**D:** ⚠️ Che cosa si ottiene nel calcolo di J_2 sostituendo S∗_t = S_te^(-rt)?
+**R:** Slide 14: «sostituendo S∗_t = S_te^(-rt) basandosi sulla definizione di S∗_t, con qualche passaggio si ottiene: = Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}». Il docente: la probabilità «di meno sigma w t grande star meno w t piccolo star minore del logaritmo di s su k più r meno sigma quadro mezzi t grande menti» (transcript [00:08:03]–[00:08:28]). ⚠️ Il termine aleatorio resta a sinistra con il meno e la disuguaglianza passa da > a <; a destra c'è (r - (1/2)σ²), il numeratore di d_2 (35).
+**Opzione:** Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
+**Distrattori:**
+- Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t) | ℑ_t}
+- S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
+- dB_t=rB_tdt
+
+**D:** ⚠️ Perché nel calcolo di J_2 si può trascurare la dipendenza da ℑ_t?
+**R:** Slide 15: «poichè W∗_t è un moto Browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t, la dipendenza da ℑ_t può essere trascurata: = Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t)}». Il docente: è «una caratteristica del moto browniano standard e del suo differenziale», e si passa «da una probabilità star condizionata ad una probabilità star non condizionata» (transcript [00:08:47]–[00:09:26]). ⚠️ Indipendente da ℑ_t, non adattato a ℑ_t: «adattato» è la condizione per portare un termine fuori dal valore atteso (slide 19). Lo stesso argomento torna per J_1 sotto P̄ (slide 28).
+**Opzione:** Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
+**Distrattori:**
+- Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale adattata a ℑ_t.
+- C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
+- Ij=[jΔn , (j+1)Δn]
+
+**D:** ⚠️ Come si standardizza la variabile aleatoria nel calcolo di J_2, e quale espressione si ottiene prima di riconoscere la d?
+**R:** Slide 16–17: «considerando che W∗_T - W∗_t ~ N(0, T - t) dividendo entrambi i termini per σ√(T-t), si ottiene: = Ke^(-r(T-t))P∗{(W∗_T - W∗_t)/√(T-t) < (1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]} e considerando che (W∗_T - W∗_t)/√(T-t) ~ N(0,1), i.e. una variabile aleatoria normale standard: = Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}». Il docente: la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» (transcript [00:09:51]–[00:11:17]). ⚠️ Si divide per σ√(T-t), perché la varianza di W∗_T - W∗_t è T - t. Nella slide 16 il meno davanti al rapporto sparisce, mentre per J_1 la slide 29 lo conserva.
+**Opzione:** Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+**Distrattori:**
+- Dividendo per σ(T-t), con (W∗_T - W∗_t)/(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+- J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
+- E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+
+**D:** ⚠️ Che cosa scrive la (79) della slide 17 per J_2, e quale N va letta?
+**R:** Slide 17: «ed utilizzando la definizione di d_1 data con la (34) si ottiene: = Ke^(-r(T-t))N(d_1) J_2 = Ke^(-r(T-t))N(d_1) (79)». Ma l'argomento di N, (1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)], ha r - (1/2)σ²: è la d_2 della (35), non la d_1 della (34). La slide 31, sostituendo la (79) nella (78), scrive infatti Ke^(-r(T-t))N(d_2). Il docente legge il refuso, «guarda caso questa è la definizione di d1», ma legge giusto l'argomento, «il logaritmo S su K più R-sigma quadro mezzi T grande menti diviso sigma radice quadrata» (transcript [00:11:17]–[00:11:45]), e alla fine dice che J_2 «era uguale a k per e alla meno r t grande menti n di 2» ([00:27:46]). ⚠️ J_2 = Ke^(-r(T-t))N(d_2): la (79) ha un refuso, e la domanda 4 del test vuole N(d2).
+
+**D:** ⚠️ Con quale riscrittura comincia il calcolo esplicito di J_1 nella lezione 14?
+**R:** Slide 18: «J_1 è calcolato in forma esplicita: J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) B_T^(-1)S_T è S∗_T: = B_t E_{P∗}(S∗_T I_D | ℑ_t)». Il docente: J_1 è B_t, «il nostro fattore di capitalizzazione del tempo», per il valore atteso sotto P∗ «del fattore di sconto fino a t grande per il valore del sottostante st grande» per l'indicatrice; «bt meno 1 per s di t è uguale a st star» (transcript [00:12:07]–[00:12:51]). ⚠️ Per J_2 B_T^(-1) usciva dal valore atteso insieme a K; qui resta dentro e con S_T forma il processo scontato S∗_T.
+**Opzione:** B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
+**Distrattori:**
+- B_T S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
+- Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
+- u_n=exp(σΔ_n^(1/2))
+
+**D:** ⚠️ Quali termini escono dal valore atteso nel calcolo di J_1, dopo aver sostituito la (62), e perché?
+**R:** Slide 19: «Utilizzando ancora l'espressione (62), si ottiene: = B_t E_{P∗}(S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) I_D | ℑ_t) ma poichè S∗_t è adattato a ℑ_t si ha che = B_t S∗_t E_{P∗}(e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) I_D | ℑ_t) ma anche il termine e^((σ²/2)t - σW∗_t) è adattato a ℑ_t, e dunque: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t)». Il docente: «ST star è adattato a F di t, è lo stesso set di informazioni», e «così come può essere portato fuori il termine E alla sigma quadro mezzi T meno sigma WT star, perché anche questo è perfettamente adattato alla filtrazione» (transcript [00:13:15]–[00:14:50]). ⚠️ L'esponente si spezza in due: la parte in t esce, quella in T resta dentro.
+**Opzione:** S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
+**Distrattori:**
+- S∗_t ed e^(-(σ²/2)T + σW∗_T), perché adattati a ℑ_t: J_1 = B_t S∗_t e^(-(σ²/2)T + σW∗_T) E_{P∗}(e^((σ²/2)t - σW∗_t) I_D | ℑ_t).
+- Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
+- Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+
+**D:** ⚠️ Come si definisce la nuova misura di probabilità P̄ nel calcolo di J_1?
+**R:** Slide 20: «Una nuova probabilità di misura P̄ è definita sfruttando la derivata di Radon-Nikodym: η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t)». Il docente: «Definiamo quindi una nuova probabilità di misura p' sfruttando il concetto della derivata di radon nicodin. Quindi definiamo eta, la derivata di p' su p star al tempo t, come e alla meno sigma quadro mezzi t piccolo più sigma w t star» (transcript [00:14:57]–[00:15:04]; il transcript scrive «p'» per P̄, che il docente chiama «dash» o «soprassegnato»). ⚠️ È la derivata di P̄ rispetto a P∗, non rispetto alla misura originaria P, e ha i segni opposti al termine e^((σ²/2)t - σW∗_t) uscito dal valore atteso (slide 19): per questo la slide 23 li semplifica.
+**Opzione:** Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
+**Distrattori:**
+- Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^((σ²/2)t - σW∗_t).
+- Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
+- I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+
+**D:** ⚠️ Quale processo è un moto browniano sotto la nuova misura P̄, per quale teorema, e a che cosa serve il cambio di misura?
+**R:** Slide 20: «Sotto questa nuova misura di probabilità, il processo stocastico W̄_t, definito come: W̄_t = W∗_t - σt è un moto Browniano (si applica il teorema di Girsanov)». Il docente: «il processo stocastico WT dash, definito o soprassegnato, definito come WT star meno sigma t, applicando il teorema di Girsanov, è allo stesso tempo un moto browniano. Quindi stiamo facendo un cambio di misura per poter affrontare il termine J1» (transcript [00:15:19]–[00:15:39]). ⚠️ Il segno è meno: W̄_t = W∗_t - σt, quindi W∗_t = W̄_t + σt (slide 25). Il cambio di misura serve solo per J_1: J_2 si calcola sotto P∗.
+**Opzione:** W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
+**Distrattori:**
+- W̄_t = W∗_t + σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
+- Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
+- (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
+
+**D:** ⚠️ In che cosa si trasforma J_1 con la derivata di Radon-Nikodym della nuova misura P̄?
+**R:** Slide 21: «questo implica che J_1, i.e.: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t) si trasforma nella: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t)». Il docente: J_1 «può essere riscritto in termini della derivata» di Radon-Nikodym: «all'interno della parentesi sostituiremo la forma esponenziale con la derivata» di P̄ rispetto a P∗, «ovviamente al tempo t grande» (transcript [00:15:46]–[00:16:39]). ⚠️ È la derivata di P̄ rispetto a P∗, valutata in T: e^(-(σ²/2)T + σW∗_T) è η_T.
+**Opzione:** J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
+**Distrattori:**
+- J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P∗/∂P̄|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P∗ rispetto a P̄ valutata in T.
+- Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
+- Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
+
+**D:** ⚠️ Quale uguaglianza fornisce il teorema di Bayes nel calcolo di J_1, e che cosa diventa J_1?
+**R:** Slide 22: «ma per le proprietà del teorema di Bayes, è vero che: E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t e quindi: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t». Il docente: «per le proprietà del teorema di Bayes» quel valore atteso «non è altro che il valore atteso sotto la nuova misura di probabilità» di X, «sempre al tempo t per la derivata di radon nicodin» (transcript [00:16:43]–[00:17:35]). ⚠️ Il valore atteso passa da P∗ a P̄, non il contrario, e la derivata esce valutata in t: dentro era in T. È la regola di Bayes (88) della lezione 07, con P̄ al posto di Q e P∗ al posto di P (deduzione).
+**Opzione:** E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+**Distrattori:**
+- E_{P̄}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P∗}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+- S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
+- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
+
+**D:** ⚠️ Che cosa resta di J_1 dopo aver esplicitato ∂P̄/∂P∗|_t e semplificato, e come si scrive come probabilità?
+**R:** Slide 23: «calcolando ∂P̄/∂P∗|_t in forma esplicita: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) e^(-(σ²/2)t + σW∗_t) semplificando = B_t S∗_t E_{P̄}(I_D | ℑ_t)». Slide 24: «ricordando che: S∗_t = S_t/B_t si ottiene: = S_t E_{P̄}(I_D | ℑ_t) = inoltre, richiamando che: E_{P̄}(I_D | ℑ_t) = P̄(D | ℑ_t) si ottiene: = S_t P̄(D | ℑ_t) = = S_t P̄(S_T > K | ℑ_t) =». Il docente: «Semplifichiamo l'esponenziale prima del valore atteso con quello dopo il valore atteso», e «si semplifica il fattore di capitalizzazione con quello di sconto» (transcript [00:17:51]–[00:19:29]). ⚠️ J_1 è S_t per la probabilità di D sotto P̄; J_2 è Ke^(-r(T-t)) per la probabilità di D sotto P∗ (slide 10): stesso evento, misure diverse.
+**Opzione:** J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P̄(D | ℑ_t) = S_t P̄(S_T > K | ℑ_t)
+**Distrattori:**
+- J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P∗(D | ℑ_t) = S_t P∗(S_T > K | ℑ_t)
+- C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
+- Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+
+**D:** ⚠️ Come si scrive S∗_T sotto la nuova misura P̄, sostituendo nella (62) W∗_t = W̄_t + σt?
+**R:** Slide 25: «dividendo ancora entrambi i termini della disuguaglianza per B_T: = S_t P̄(S∗_T > Ke^(-rT) | ℑ_t) sostituendo all'interno dell'espressione (62) la definizione di W∗_t espressa in termini di W̄_t, i.e.: W∗_t = W̄_t + σt la dinamica di S∗_T può essere ottenuta sotto la filtrazione ℑ_t in termini della nuova misura di probabilità P̄, i.e.: S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))». Il docente: «stiamo riesprimendo il random walk esponenziale nella medesima filtrazione sotto la nuova misura di probabilità» (transcript [00:19:50]–[00:20:51]). ⚠️ Sotto P̄ il termine in σ² ha il più, +(1/2)σ²(T-t); nella (62) sotto P∗ ha il meno. Viene da σ(W∗_T - W∗_t) = σ(W̄_T - W̄_t) + σ²(T-t) (deduzione dalla slide 25).
+**Opzione:** S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
+**Distrattori:**
+- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) - (1/2)σ²(T-t))
+- Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
+- J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+
+**D:** ⚠️ Che cosa diventa J_1 calcolando il logaritmo e sostituendo S∗_t = S_te^(-rt)?
+**R:** Slide 26–27: «sostituendo l'espressione di S∗_T all'interno di J_1: J_1 = S_t P̄(S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t)) > Ke^(-rT) | ℑ_t) = calcolando il logaritmo di entrambi i termini della disuguaglianza: = S_t P̄(ln S∗_t + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t) = sostituendo S∗_t = S_te^(-rt) utilizzando la definizione di S∗_t, si ottiene: = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)». Il docente: S∗_t è S_t scontato, «dove lo sconto B di T meno 1 non è altro che E alla meno RT» (transcript [00:20:59]–[00:22:38]). ⚠️ ln S∗_t = ln S_t - rt.
+**Opzione:** J_1 = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
+**Distrattori:**
+- J_1 = S_t P̄(ln S_t + rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
+- Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
+- lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]
+
+**D:** ⚠️ Quale disuguaglianza resta nella probabilità di J_1 «con qualche passaggio», dopo aver trascurato la dipendenza da ℑ_t?
+**R:** Slide 28: «poichè W̄_t è un moto Browniano sotto P̄, tale che W̄_T - W̄_t è una variabile aleatoria normale indipendente da ℑ_t, la dipendenza da ℑ_t può essere trascurata», e «con qualche passaggio: = S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t)}» (la slide apre con la tonda e chiude con la graffa). Il docente: «portando alcuni termini del lato di sinistra dell'argomento della probabilità verso il lato di destra», la probabilità è di meno sigma per il differenziale dei due moti browniani «minore del logaritmo di s su k» «più r più sigma quadro mezzi t grande meno t» (transcript [00:22:50]–[00:23:57]). ⚠️ Qui c'è r + (1/2)σ², il numeratore di d_1 (34); per J_2 era r - (1/2)σ² (slide 14).
+**Opzione:** S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t))
+**Distrattori:**
+- S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t))
+- S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
+- Che il prezzo di una call europea sotto la misura p∗ è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
+
+**D:** ⚠️ Con quale passaggio si chiude il calcolo di J_1 (formula (80) della lezione 14)?
+**R:** Slide 29–30: «considerando che W̄_T - W̄_t ~ N(0, T - t) dividendo entrambi i termini della disuguaglianza per σ√(T-t)», e «così, sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1), i.e. una variabile aleatoria normale standard: = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} e utilizzando la definizione di d_1 data da (35) si ottiene: J_1 = S_tN(d_1) (80)». Il docente: «J1 viene riscritto semplicemente come SDT piccolo per il valore della normale standardizzata avente come argomento 1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:26:29]–[00:27:37]). ⚠️ La standardizzazione è sotto P̄. ⚠️ La slide 30 rinvia alla «(35)», che è d_2: d_1 è la (34), e l'argomento, con r + (1/2)σ², è d_1.
+**Opzione:** Sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
+**Distrattori:**
+- Sotto P∗, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
+- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
+- I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+
+**D:** ⚠️ Come si conclude la dimostrazione della lezione 14?
+**R:** Slide 31: «sostituendo i risultati dati dalle espressioni (79) e (80) all'interno dell'espressione (78), la tesi risulta dimostrata: C_t = J_1 - J_2 = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33) Q.E.D.». Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1 e perché avevamo dimostrato prima che J2 era uguale a k per e alla meno r t grande menti n di 2, ecco che la tese è dimostrata» (transcript [00:27:37]–[00:27:53]). ⚠️ Fra i due termini c'è il meno, e J_2 ha N(d_2), anche se la (79) della slide 17 scrive N(d_1).
+**Opzione:** Sostituendo la (79) e la (80) nella (78): C_t = J_1 - J_2 = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33). Q.E.D.
+**Distrattori:**
+- Sostituendo la (79) e la (80) nella (78): C_t = J_1 + J_2 = S_tN(d_1) + Ke^(-r(T-t))N(d_2) (33). Q.E.D.
+- B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
+- C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
+
+**D:** ⚠️ In che cosa differiscono l'argomento di N nel calcolo di J_2 (slide 17) e quello nel calcolo di J_1 (slide 30)?
+**R:** Slide 17: N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}; slide 30: N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]}. Cambia solo il segno di (1/2)σ²: meno per J_2, che dà d_2 (35), più per J_1, che dà d_1 (34); r ha il più in entrambi, come nelle (34) e (35) della slide 3. Il docente riassume: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» (transcript [00:25:54]). Detta così sembra un meno davanti a tutta la parentesi, -(r + σ²/2), ma a [00:11:45] lo stesso docente legge l'argomento di J_2 «più R-sigma quadro mezzi». ⚠️ È il punto su cui è difettosa la domanda 3 del test.
+**Opzione:** Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
+**Distrattori:**
+- Nel segno della parentesi: -(r + (1/2)σ²)(T-t) per J_2, che dà d_2, e +(r + (1/2)σ²)(T-t) per J_1, che dà d_1; r cambia segno.
+- (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
+- J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P̄(D | ℑ_t) = S_t P̄(S_T > K | ℑ_t)
+
+**D:** Come chiama N il docente nella lezione 14, e che cosa cambia rispetto alla lezione 11?
+**R:** Nella lezione 14 il docente la chiama sempre funzione di ripartizione: «n è il valore della funzione di partizione della normale standardizzata» (transcript [00:00:57], per «ripartizione»); la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» ([00:10:47]); «funzione di ripartizione della normale standardizzata» ([00:28:06]). Nella lezione 11 la chiamava invece «funzione di densità normale» ([00:07:03]). La slide 3 la definisce come nella lezione 11, N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, un integrale da -∞ a x, e qui le dà il numero (74).
+
+**D:** ⚠️ Qual è il prezzo della Call nel modello di BSM, secondo il test della lezione 14 (domanda 1)?
+**R:** «**Ct=St N(d1) + Ke-rt N(d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. Le slide 3 e 31 scrivono la (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), con il **meno** fra i due termini e lo sconto e^(-r(T-t)), dalla scadenza T al tempo t; per la (78) il prezzo è la differenza J_1 - J_2 (slide 8). Il docente: «STN di 1 meno KE alla meno RT grande mentiene di 2» (transcript [00:00:23]), e alla fine S_t per N(d_1) «meno k cioè lo strike per e alla meno r t grande menti piccolo» per N(d_2) ([00:27:53]–[00:28:06]). Il «+» è identico nelle opzioni A, B e C, quindi non discrimina. Le opzioni A, C e D scrivono anche lo sconto «e-rt», mentre la domanda 4 dello stesso test rende bene «e-r(T-t)»: nel deck e^(-rt) è lo sconto di S∗_t = S_te^(-rt) (slide 14), non quello dello strike. La A è la sola con entrambi i termini e, nel secondo, K, lo sconto e N(d2). Distrattori del test: «Ct=St N(d1) + K N(d2)» perde lo sconto; «Ct=St N(d1) + e-rt N(d1)» perde K e mette N(d1) al posto di N(d2); «Ct= Ke-rt N(d2)» perde il primo termine, S_tN(d_1), cioè J_1. ⚠️ Se la domanda torna corretta, con il meno, è quella la risposta.
+**Opzione:** Ct=St N(d1) + Ke-rt N(d2)
+**Distrattori:**
+- Ct=St N(d1) + K N(d2)
+- Ct=St N(d1) + e-rt N(d1)
+- Ct= Ke-rt N(d2)
+
+**D:** ⚠️ Qual è la quantità d1 nel modello di BSM, secondo il test della lezione 14 (domanda 2)?
+**R:** «**d1 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }**»: nella resa piatta «s» è σ, «s2» è σ² e «(T-t)1/2» è √(T-t). È la (34) della slide 3, d_1 = [ln(S_t/K) + (r + σ²/2)(T-t)]/(σ√(T-t)), la stessa della lezione 11; nel calcolo di J_1 l'argomento di N è (1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)] (slide 30). Il docente: J_1 ha per argomento «1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:27:18]). La griglia ha tre assi, il logaritmo, il segno davanti alla parentesi e r: solo la D è giusta su tutti e tre. Distrattori del test: «d1 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }» inverte il segno davanti alla parentesi, ed è la chiave della domanda 3; «d1 = {[ln(St/K)+ s2/2(T-t)]/s(T-t)1/2 }» perde r; «d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde ln(St/K), e la quadra si chiude senza essersi aperta.
+**Opzione:** d1 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }
+**Distrattori:**
+- d1 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }
+- d1 = {[ln(St/K)+ s2/2(T-t)]/s(T-t)1/2 }
+- d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }
+
+**D:** ⚠️ Qual è la quantità d2 nel modello di BSM, secondo il test della lezione 14 (domanda 3)?
+**R:** «**d2 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. La (35) della slide 3 è d_2 = [ln(S_t/K) + (r - σ²/2)(T-t)]/(σ√(T-t)): rispetto a d_1 cambia solo il segno di σ²/2, e r resta con il più. La chiave mette il meno davanti a tutta la parentesi, -(r + σ²/2) = -r - σ²/2, e cambia anche il segno di r. Nel calcolo di J_2 l'argomento di N ha (r - (1/2)σ²) (slide 14–17), e il docente lo legge «più R-sigma quadro mezzi» (transcript [00:11:17]–[00:11:45]). La chiave sembra venire da come il docente riassume la differenza: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» ([00:25:54]). Il test della lezione 16 (domanda 2) dà d_2 = d_1 - σ√(T-t), che riporta a (r - σ²/2) (deduzione). Distrattori del test: «d2 = {[ln(St/K) - (r+s2/2)]/s(T-t)1/2 }» è la chiave senza (T-t); «d2 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde il logaritmo, con lo stesso testo della C della domanda 2; «d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }» è d_1, la chiave della domanda 2. All'esame si segna la B; se la domanda torna corretta, con (r-s2/2), è quella la risposta.
+**Opzione:** d2 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }
+**Distrattori:**
+- d2 = {[ln(St/K) - (r+s2/2)]/s(T-t)1/2 }
+- d2 = {(r+s2/2)(T-t)]/s(T-t)1/2 }
+- d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }
+
+**D:** ⚠️ Qual è la quantità J2 nel modello di BSM, secondo il test della lezione 14 (domanda 4)?
+**R:** «**J2=Ke-r(T-t)N(d2)**», cioè J_2 = Ke^(-r(T-t))N(d_2): è il secondo termine della (33), che la slide 31 ottiene sostituendo la (79) nella (78). Ci si arriva da J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77): B_T^(-1) e K escono dal valore atteso, B_t B_T^(-1) dà e^(-r(T-t)), il valore atteso dell'indicatrice è P∗{S_T > K | ℑ_t}, e la standardizzazione dà N (slide 8–17). Il docente: J_2 «era uguale a k per e alla meno r t grande menti n di 2» (transcript [00:27:46]). ⚠️ La (79) della slide 17 scrive N(d_1), ma è un refuso: l'argomento ha (r - (1/2)σ²), cioè d_2. Tutte le opzioni hanno N(d2), quindi il refuso non pesa. Distrattori del test: «J2=e-r(T-t)N(d2)» perde K; «J2=Ke N(d2)» perde l'esponente dello sconto; «J2=K-r(T-t)N(d2)» perde la «e».
+**Opzione:** J2=Ke-r(T-t)N(d2)
+**Distrattori:**
+- J2=e-r(T-t)N(d2)
+- J2=Ke N(d2)
+- J2=K-r(T-t)N(d2)
+
+**D:** ⚠️ Qual è la quantità J1 nel modello di BSM, secondo il test della lezione 14 (domanda 5)?
+**R:** «**J1=StN(d1)**», cioè J_1 = S_tN(d_1), la (80) della slide 30. Ci si arriva con un cambio di misura: la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t) definisce la nuova misura P̄, sotto la quale W̄_t = W∗_t - σt è un moto browniano per il teorema di Girsanov (slide 20); con il teorema di Bayes J_1 diventa S_t P̄(S_T > K | ℑ_t) (slide 22–24), e la standardizzazione sotto P̄ dà N(d_1). Lo sconto non c'è perché, con S∗_t = S_t/B_t, B_t si semplifica (slide 24). Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1» (transcript [00:27:37]). La griglia ha due assi, sconto sì o no e N(d1) o N(d2): solo la B è senza sconto e con N(d1). Distrattori del test: «J1=St-r(T-t)N(d1)» aggiunge lo sconto, scritto senza la «e», e anche letto come S_te^(-r(T-t)) resta falso; «J1=StN(d2)» scambia d_1 con d_2; «J1=St-r(T-t)N(d2)» sbaglia entrambi gli assi. ⚠️ Nel test della lezione 15 la stessa scrittura «St-r(T-t)N(d1)» è la chiave di un'altra domanda, sul primo integrale ∫k+∞ y fY(y)dy: lì non è J_1.
+**Opzione:** J1=StN(d1)
+**Distrattori:**
+- J1=St-r(T-t)N(d1)
+- J1=StN(d2)
+- J1=St-r(T-t)N(d2)
