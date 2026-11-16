@@ -1302,3 +1302,1346 @@
 - DF(0,t_i) è il fattore di sconto da t_i a t_0 = 0; r_0(t_{i-1},t_i) è il tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_i; T è la scadenza dell'IRS.
 - Devono convergere, sia in contango sia in backwardation, perché finiscono per identificare il medesimo fenomeno, cioè il prezzo di un'attività finanziaria.
 - Confrontando i BTP consegnabili, identificati per data di scadenza, tramite un fattore di conversione.
+
+**D:** ⚠️ Quando il prezzo futures è maggiore del prezzo spot, in quale situazione è il mercato, secondo il test della lezione 04 (domanda 1)?
+**R:** «**Contango**». Nel grafico della slide 3, «Contango», il prezzo futures sta sopra il prezzo spot e vi converge alla scadenza; per il docente è la situazione coerente con il valore finanziario del tempo ([00:00:53]–[00:01:40]). Il rovescio, lo spot sopra il futures, è la backwardation della slide 4, che fra le opzioni non c'è. ⚠️ **Domanda difettosa**: le opzioni A e D sono identiche, «contango», e la piattaforma segna la D, la seconda delle due. Distrattori del test: «speculazione» e «arbitraggio» sono due delle tre **finalità** dei derivati della lezione 03 (slide 7), non situazioni di mercato: è la classificazione sbagliata.
+**Opzione:** Contango.
+**Distrattori:**
+- Speculazione.
+- Arbitraggio.
+
+**D:** ⚠️ Quale relazione fra prezzo futures e prezzo spot vale in assenza di arbitraggio, secondo il test della lezione 04 (domanda 2)?
+**R:** «**F = S∗Fattore di capitalizzazione**», la formula della slide 10 alla lettera, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e della durata del futures. Il docente la enuncia «tralasciando per un attimo il tema dei dividendi» ([00:07:39]–[00:09:09]). L'asterisco della piattaforma e della slide indica il prodotto. Distrattori del test: «F > S∗Fattore di capitalizzazione» è la condizione del **cash and carry** (slide 11) e «F < S∗Fattore di capitalizzazione» quella del **reverse cash and carry** (slide 12), cioè proprio i casi in cui l'arbitraggio esiste: è il segno invertito. «Si può speculare» è un'altra categoria: la speculazione è una finalità dei derivati (lezione 03, slide 7), e non dà la relazione fra i prezzi che la domanda chiede.
+**Opzione:** F = S∗Fattore di capitalizzazione
+**Distrattori:**
+- F > S∗Fattore di capitalizzazione
+- F < S∗Fattore di capitalizzazione
+- Si può speculare
+
+**D:** ⚠️ Che cos'è lo swap, secondo il test della lezione 04 (domanda 3)?
+**R:** «**È l'accordo per lo scambio di flussi monetari**»: è la prima riga della definizione della slide 22, che prosegue «in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza». Per il docente «uno swap altro non è che un accordo per scambiarsi dei flussi monetari» ([00:20:19]). Distrattori del test: «è pari alla somma dei flussi di pagamento, capitalizzati alla data t» storpia la definizione del **fair value** della slide 25, la **differenza** tra i flussi di pagamento **attualizzati** alla data t, e la attribuisce allo swap. «Prevede, tra l'altro, l'acquisto a pronti del titolo sottostante» è un'operazione del **cash and carry** (slide 11). «Prevede, tra l'altro, la vendita a pronti di un contratto Futures» fonde la vendita del futures del cash and carry con la vendita a pronti del titolo del reverse (slide 12). Nessuna delle due è un'operazione dello swap.
+**Opzione:** È l'accordo per lo scambio di flussi monetari.
+**Distrattori:**
+- È pari alla somma dei flussi di pagamento, capitalizzati alla data t.
+- Prevede, tra l'altro, la vendita a pronti di un contratto Futures.
+- Prevede, tra l'altro, l'acquisto a pronti del titolo sottostante.
+
+**D:** ⚠️ Come si chiama l'insieme degli importi di uno swap, secondo il test della lezione 04 (domanda 4)?
+**R:** «**È detto gamba dello swap**». La slide 25 distingue l'insieme degli importi **variabili**, la «gamba variabile (floating leg) dello swap», e quello degli importi **fissi**, la «gamba fissa (fixed leg) dello swap» ([00:22:49]–[00:23:06]): la chiave è giusta ma generica. Distrattori del test: «è pari alla differenza tra i flussi di pagamento equi» storpia la definizione del **valore equo (fair value)** della stessa slide, la differenza tra i flussi di pagamento **attualizzati alla data t** a carico delle due gambe, e la riferisce agli importi. «È pari alla somma dei flussi di pagamento, capitalizzati alla data t» e «prevede, tra l'altro, la vendita a pronti di un contratto Futures» sono gli stessi distrattori della domanda 3.
+**Opzione:** È detto gamba dello swap.
+**Distrattori:**
+- È pari alla somma dei flussi di pagamento, capitalizzati alla data t.
+- Prevede, tra l'altro, la vendita a pronti di un contratto Futures.
+- È pari alla differenza tra i flussi di pagamento equi.
+
+**D:** ⚠️ Che cos'è l'IRS, secondo il test della lezione 04 (domanda 5)?
+**R:** «**o Interest Rate Swap è lo swap su tassi di interessi**», con «interessi» della piattaforma per «interesse». La slide 31, «Gli Swap sui tassi di interesse — Interest Rate Swaps o IRS»: «Gli IRS, cioè gli swap su tassi di interesse, sono senza dubbio quelli più diffusi su scala globale» ([00:26:53]–[00:27:12]). Distrattori del test: tutti e tre definiscono l'IRS, che è un contratto, come un **tasso**. «È il tasso fisso in corrispondenza del fair value» e «è il tasso fisso in corrispondenza del tasso variabile» storpiano il **par rate** della slide 33, il tasso fisso R∗ che rende nullo il fair value dell'IRS alla data di stipula, per il docente «il tasso che rende uguale la gamba fissa e la gamba variabile» ([00:28:52]): è la definizione di un'altra categoria. «È il tasso variabile che prevede il fair value del contratto sempre nullo» capovolge fisso in variabile e aggiunge un quantificatore assoluto: il fair value è nullo «tipicamente» alla stipula (slide 26), e durante la vita del contratto una parte è a credito e l'altra a debito (slide 29).
+**Opzione:** o Interest Rate Swap è lo swap su tassi di interessi
+**Distrattori:**
+- è il tasso fisso in corrispondenza del fair value
+- è il tasso variabile che prevede il fair value del contratto sempre nullo
+- è il tasso fisso in corrispondenza del tasso variabile
+
+## Lezione 05 — Strumenti Derivati 3 - Opzioni
+
+**D:** Che cos'è un'opzione, secondo la lezione 05?
+**R:** Slide 3, «Cos'è un'opzione»: il **diritto** di **acquistare (call)** o **vendere (put)** «Titoli ad un dato prezzo (**strike**)» e «**ad** una certa scadenza (**Europee**)» o «**entro** una certa scadenza (**Americane**)». Il docente: «l'opzione prevede un **premio**, l'opzione è proprio collegata al concetto del premio. Io pago un premio perché ho un'opzione in mano, ho la possibilità di fare qualcosa»; il prezzo di acquisto fissato oggi «è il **prezzo strike**» (slide 3; transcript [00:00:27]–[00:01:10]). ⚠️ È un **diritto**, non un obbligo.
+**Opzione:** Il diritto di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
+**Distrattori:**
+- L'obbligo di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
+- Il payoff rettificato per il premio, pagato da chi compra e incassato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
+- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+
+**D:** ⚠️ Che cosa distingue un'opzione europea da un'opzione americana, secondo la lezione 05?
+**R:** Slide 3: il diritto vale «**ad** una certa scadenza (**Europee**)» oppure «**entro** una certa scadenza (**Americane**)». Il docente: la possibilità di comprare «ad una certa scadenza identificata. E allora l'opzione è una call europea? Oppure entro una certa scadenza, e allora la call è un'americana» (slide 3; transcript [00:00:42]–[00:01:02]). ⚠️ Per la put il transcript dice «entro una certa scadenza» per entrambe ([00:01:18]): vale la slide.
+**Opzione:** Nell'europea il diritto vale ad una certa scadenza, nell'americana entro una certa scadenza.
+**Distrattori:**
+- Nell'europea il diritto vale entro una certa scadenza, nell'americana ad una certa scadenza.
+- Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
+- Dalla somma del valore intrinseco e del valore temporale della stessa.
+
+**D:** ⚠️ Quanto vale il valore intrinseco di una call, secondo la lezione 05?
+**R:** Nel grafico «La CALL» (slide 4–6), con il payoff in ordinata e il valore del sottostante in ascissa, il payoff è **0** fino a K e **S-K** oltre K, e la freccia «**Valore intrinseco**» della slide 6 indica sia lo 0 sia il tratto S-K. Il docente: «valore 0 dell'opzione se il sottostante sta a un valore inferiore a k e invece s-k se il sottostante ha un valore maggiore di k, è anche definito **valore intrinseco** dell'opzione» (slide 4–6; transcript [00:01:40]–[00:02:27]). ⚠️ Per la put è il rovescio: K-S sotto lo strike, 0 sopra (slide 10–11).
+**Opzione:** Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
+**Distrattori:**
+- Vale S-K se il sottostante sta sotto lo strike K e 0 se il sottostante sta sopra K.
+- È pari a K-S.
+- min(K-S_T,0)
+
+**D:** ⚠️ Che cos'è il valore temporale nel grafico della call, e da che cosa nasce secondo il docente della lezione 05?
+**R:** La slide 7 aggiunge al payoff la curva del «**Prezzo prima della scadenza**», che sta sopra il valore intrinseco; la slide 8 chiama «**Valore temporale**» l'**area gialla** fra la curva e il valore intrinseco. Il docente: a scadenza la call vale S-K o 0, mentre «prima della scadenza nasce una sorta di elemento di **incertezza** sul valore intrinseco» che dà la curvatura al prezzo; questo, «anche detto **slippage**», «esprime il valore temporale che influenza il prezzo della call» (slide 7–8; transcript [00:02:27]–[00:03:38]). ⚠️ L'area colorata sotto la retta S-K della slide 5 è invece il valore intrinseco.
+**Opzione:** È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
+**Distrattori:**
+- È l'area fra la retta S-K del valore intrinseco e l'asse delle ascisse: nasce dall'incertezza sul valore intrinseco prima della scadenza.
+- Il payoff rettificato per il premio, pagato da chi compra e incassato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
+- Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dall'acquisto di una call europea e di una put europea.
+
+**D:** Che cosa accade al valore intrinseco della put prima della scadenza, secondo il docente della lezione 05?
+**R:** Le slide 12–13 ripetono per la put la costruzione della call: la curva del «Prezzo prima della scadenza» sta sopra il valore intrinseco, e il «**Valore temporale**» è l'area gialla fra i due. Il docente: «Anche il valore intrinseco della put prima della scadenza può avere una notazione **curvilinea**, cioè l'incertezza del tempo e il suo valore temporale determina lo **slippage** nella definizione del valore intrinseco della put, **similarmente** a quello che abbiamo visto per la call» (slide 12–13; transcript [00:04:21]–[00:04:48]).
+**Opzione:** Può avere una notazione curvilinea: l'incertezza del tempo e il suo valore temporale determinano lo slippage, similmente a quanto visto per la call.
+**Distrattori:**
+- Resta una retta: l'incertezza del tempo e il suo valore temporale determinano lo slippage solo per la call, non per la put.
+- Nell'europea il diritto vale ad una certa scadenza, nell'americana entro una certa scadenza.
+- Non è casuale: maggiore la dimensione dell'ingranaggio, maggiore la sua rilevanza nell'influenzare la quantificazione del prezzo.
+
+**D:** ⚠️ Come si rappresenta graficamente il premio nei grafici del payoff della lezione 05?
+**R:** Le slide 15–16, «Inserimento del premio», spostano l'asse orizzontale **verso l'alto** e colorano in giallo il «**PREMIO**» fra il nuovo asse e il tratto piatto del payoff, per la call e per la put. Il docente: il premio si può rappresentare «come uno **spostamento dell'asse delle ascisse lungo l'ordinata** di una quantità esattamente pari al **valore del premio**» (slide 15–16; transcript [00:05:31]–[00:06:32]). Nell'esempio il premio è prima di 10 euro e poi di 11 ([00:05:59]–[00:06:14]).
+**Opzione:** Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al valore del premio.
+**Distrattori:**
+- Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al prezzo strike K.
+- È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
+- Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
+
+**D:** ⚠️ Perché le opzioni sono derivati a payoff convesso?
+**R:** Slide 17: «Le **opzioni** sono derivati a **payoff convesso** in quanto la controparte **acquirente (buyer)** compra il **diritto** di scegliere se esercitare o meno l'opzione evidentemente in base alla propria convenienza al momento di effettuare la scelta». Il docente: la convessità è la rappresentazione che determina lo slippage rispetto al valore intrinseco, e il buyer sceglie in base alla propria convenienza «anche perché non ha la sfera di cristallo» (slide 17; transcript [00:06:32]–[00:07:08]).
+**Opzione:** Perché la controparte acquirente (buyer) compra il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
+**Distrattori:**
+- Perché la controparte venditrice (seller) acquista il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
+- Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
+- Al crescere del prezzo corrente del sottostante S il valore della Euro Call aumenta e quello della Euro Put si riduce.
+
+**D:** ⚠️ Chi paga il premio di un'opzione, a chi, quando, e a che cosa è pari?
+**R:** Slide 18: «Per tale motivo, il **buyer** paga al venditore (**seller**) un **premio** alla **data di stipula** che è pari al **valore equo (fair value)** dell'opzione a quella data». «Per tale motivo» rinvia alla slide 17: il buyer compra il diritto di scegliere se esercitare. Il docente: «il prezzo che sta pagando deve essere un prezzo fair» (slide 18; transcript [00:08:47]–[00:09:22]).
+**Opzione:** Il buyer paga al venditore (seller) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
+**Distrattori:**
+- Il seller paga all'acquirente (buyer) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
+- Il diritto di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
+- Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dall'acquisto di una call europea e di una put europea.
+
+**D:** ⚠️ A che cosa è pari, intuitivamente, il premio di un'opzione?
+**R:** Slide 19, sottolineata: «Intuitivamente, il premio dell'opzione è pari al valore, **attualizzato alla data iniziale (t=0)**, dei possibili payoff del contratto, ciascuno **pesato per la relativa probabilità di accadimento**». Il docente: i possibili payoff sono «i possibili andamenti futuri del sottostante rispetto al prezzo strike» (slide 19; transcript [00:09:51]–[00:10:20]).
+**Opzione:** Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+**Distrattori:**
+- Al valore, capitalizzato alla data di scadenza (t=T), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
+- Il tasso di interesse e il merito di credito dell'emittente.
+
+**D:** Perché, per il docente della lezione 05, il premio pagato dal buyer deve essere un prezzo fair?
+**R:** Il docente: l'acquirente ha una **view** che lo porta a una scelta, «ma dal punto di vista del calcolo delle probabilità il prezzo che sta pagando deve essere un prezzo **fair**, cioè deve essere il prezzo che il **mercato** ritiene che in media oggi sintetizzi i possibili scenari, andamenti futuri» del sottostante rispetto alla formula convessa del payoff. «Altrimenti se ci fosse una non equità del prezzo dal punto di vista delle aspettative di mercato vorrebbe dire che attraverso un'operatività su più mercati si potrebbe realizzare» un **arbitraggio**, che il transcript scrive «prodotto di abitaggio» (transcript [00:08:47]–[00:09:51]). Non è nelle slide.
+**Opzione:** Perché deve essere il prezzo che il mercato ritiene sintetizzi in media i possibili scenari futuri del sottostante: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
+**Distrattori:**
+- Perché deve essere il prezzo che riflette la view rialzista o ribassista del buyer: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
+- Rialzista se compra una call, ribassista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
+- Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
+
+**D:** Con quale rendimento si attualizzano i possibili payoff di un'opzione, e perché, secondo il docente della lezione 05?
+**R:** Il docente: «Attualizzato perché l'opzione avrà una scadenza in cui si realizzeranno gli eventi», e la visione oggi di quegli eventi «non può non tenere in conto anche il **valore finanziario del tempo**, perché in finanza, un po' come in fisica, nulla si crea e nulla si distrugge». Chi investe in un'attività priva di rischio deve avere il **rendimento dell'attività priva di rischio**, e quello «diventa il parametro di riferimento per scontare tutti i possibili flussi di cassa» che a scadenza si generano in base a max(S_T-K,0) (transcript [00:10:20]–[00:11:33]). La slide 19 dice solo «attualizzato alla data iniziale (t=0)».
+**Opzione:** Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
+**Distrattori:**
+- Con il rendimento atteso del sottostante, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
+- Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al valore del premio.
+- Dal prezzo futures.
+
+**D:** ⚠️ Quale visione ha, per il docente della lezione 05, l'acquirente speculativo di una call e quello di una put, e che cosa deve considerare?
+**R:** Il docente: l'acquirente speculativo «compra l'opzione e decide di pagare un premio perché ha una **visione rialzista** se compra una **call**, **ribassista** se compra una **put**». «La mia propensione a rialzo o a ribasso dovrà sempre considerare il valore del premio»: il rialzo o il ribasso dell'azione deve essere in grado di **compensare il premio pagato** per generare un guadagno (transcript [00:07:08]–[00:08:47]). Non è nelle slide.
+**Opzione:** Rialzista se compra una call, ribassista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
+**Distrattori:**
+- Ribassista se compra una call, rialzista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
+- Al crescere della volatilità σ il valore aumenta sia per la Euro Call sia per la Euro Put.
+- Non è casuale: maggiore la dimensione dell'ingranaggio, maggiore la sua rilevanza nell'influenzare la quantificazione del prezzo.
+
+**D:** ⚠️ Qual è il payoff a scadenza di una short call?
+**R:** Terza riga della tabella «Opzioni Europee — Payoff a scadenza» (slide 20): «Short Call — **min(K-S_T,0)**». Il docente: chi vende una call si impegna a dare le azioni al buyer quando questi eserciterà l'opzione, cioè soltanto quando il valore del sottostante sarà superiore al prezzo strike; per chi ha venduto una call il payoff a scadenza «non è una funzione massimo tra K-S_T e 0, ma è il **minimo** tra K-S_T ... e 0» (slide 20; transcript [00:13:08]–[00:14:06]). ⚠️ Rispetto alla long put, max(K-S_T,0), cambia solo max in min; rispetto alla short put, min(S_T-K,0), si inverte l'argomento.
+**Opzione:** min(K-S_T,0)
+**Distrattori:**
+- min(S_T-K,0)
+- max(K-S_T,0)
+- max(S_T-K,0)
+
+**D:** ⚠️ Perché, per il docente della lezione 05, vendere una call è molto rischioso, e in che cosa differisce la vendita di una put?
+**R:** Il docente: «vendere una call è una cosa molto rischiosa», perché il minimo della funzione «è un valore indefinito»: a scadenza, con uno strike di 10 euro, il sottostante «potrebbe essere 20, 30, 50, 100, 200 euro», e infatti «si dice che vendere una call espone il venditore a un **rischio indefinito**». Nella vendita di una put, invece, «c'è un limite», perché «sotto un certo limite il sottostante non può andare rispetto allo **zero**»: «l'azione sotto zero non può andare» (transcript [00:15:54]–[00:18:14]). Non è nelle slide.
+**Opzione:** Vendere una call espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una put c'è un limite, perché il sottostante non può andare sotto zero.
+**Distrattori:**
+- Vendere una put espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una call c'è un limite, perché il sottostante non può andare sotto zero.
+- Perché deve essere il prezzo che il mercato ritiene sintetizzi in media i possibili scenari futuri del sottostante: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
+- Al crescere del prezzo di esercizio K il valore della Euro Call si riduce e quello della Euro Put aumenta.
+
+**D:** Qual è, per il docente della lezione 05, il risultato finanziario delle posizioni in opzioni, e su che cosa scommettono le parti?
+**R:** Il docente: chi ha venduto la call o la put ha **ricevuto** il premio, chi le ha comprate lo ha **pagato**, «e quindi il risultato finanziario è il **payoff rettificato** come abbiamo visto nel grafico per il premio che viene pagato o che viene incassato». Le quattro relazioni della slide 20 qualificano le esposizioni delle parti a «una scommessa implicita sul valore del **sottostante** che è la **variabile aleatoria** perché il prezzo strike è **fisso**» (transcript [00:15:04]–[00:15:54]).
+**Opzione:** Il payoff rettificato per il premio, pagato da chi compra e incassato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
+**Distrattori:**
+- Il payoff rettificato per il premio, incassato da chi compra e pagato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
+- Può avere una notazione curvilinea: l'incertezza del tempo e il suo valore temporale determinano lo slippage, similmente a quanto visto per la call.
+- Il buyer paga al venditore (seller) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
+
+**D:** ⚠️ Che cosa afferma la parità put-call-forward?
+**R:** Slide 21: «Il portafoglio composto da una **long call** e da una **short put** aventi lo stesso sottostante e lo stesso prezzo di esercizio **K** replica perfettamente una **posizione lunga** in un contratto **forward** sul medesimo sottostante nella quale il prezzo a termine sia posto **pari a K**». Il docente: «La call realizza la parte **positiva** del forward rispetto allo strike e la put rappresenta la parte **negativa**» (slide 21; transcript [00:18:14]–[00:19:34]). ⚠️ Long **call** + short **put**, non il contrario.
+**Opzione:** Il portafoglio composto da una long call e da una short put aventi lo stesso sottostante e lo stesso prezzo di esercizio K replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a K.
+**Distrattori:**
+- Il portafoglio composto da una long put e da una short call aventi lo stesso sottostante e lo stesso prezzo di esercizio K replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a K.
+- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+- Il diritto di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
+
+**D:** ⚠️ Quando vale la parità put-call-forward, e con riferimento a quale data si verifica agevolmente?
+**R:** Slide 21: «La parità put-call-forward vale **in qualsiasi momento** della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata **con riferimento alla data di scadenza**». Per questo la slide 22 la dimostra «per t=T». Il docente: «vale in qualsiasi momento della vita dei contratti derivati e può essere agevolmente verificata» (slide 21–22; transcript [00:19:06]). ⚠️ Si verifica alla scadenza, ma non vale **solo** alla scadenza.
+**Opzione:** Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
+**Distrattori:**
+- Vale solo alla data di scadenza dei contratti derivati sopra menzionati, e può essere agevolmente verificata con riferimento a quella data.
+- Dalla somma del valore intrinseco e del valore temporale della stessa.
+- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+
+**D:** ⚠️ Come si dimostra, per t=T, la parità put-call-forward?
+**R:** Slide 22, «Dimostrazione per t=T»: il payoff di un portafoglio formato da una long call e da una short put con il medesimo strike è «**max(S_T-K,0) - max(K-S_T,0)**», «ossia, utilizzando una nota proprietà delle funzioni di minimo e massimo: **= max(S_T-K,0) + min(S_T-K,0)**», «da cui, ricordando che max(x,0)+min(x,0)=x, segue: **= S_T-K**», «c.v.d.». Per il docente, per passare dal massimo al minimo basta cambiare segno e invertire l'ordine dell'argomento, e S_T-K «non è altro che la rappresentazione della nostra posizione forward» (slide 22; transcript [00:19:34]–[00:20:53]).
+**Opzione:** max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
+**Distrattori:**
+- max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = K-S_T
+- Var(Z)=Var(X)+Var(Y)+2cov(X,Y)
+- Y=[X-E(X)]/σ_X
+
+**D:** ⚠️ Quale relazione fra le funzioni di massimo e di minimo chiude la dimostrazione della parità put-call-forward?
+**R:** Slide 22: «da cui, ricordando che **max(x,0)+min(x,0)=x**, segue: = S_T-K». Il docente: «il massimo tra x e 0 e il minimo tra x e 0 sommati è uguale a x» (slide 22; transcript [00:20:34]). Il passaggio precedente usa un'altra proprietà: -max(K-S_T,0) = min(S_T-K,0), cioè si cambia segno e si inverte l'ordine dell'argomento ([00:20:08]).
+**Opzione:** max(x,0)+min(x,0)=x
+**Distrattori:**
+- max(x,0)-min(x,0)=x
+- min(K-S_T,0)
+- È pari a K-S.
+
+**D:** ⚠️ Da che cosa è dato, in ogni momento prima della scadenza, il valore di un'opzione?
+**R:** Slide 23: «In ogni momento prima della scadenza, il valore di un'opzione è dato dalla **somma** del valore intrinseco e del valore temporale della stessa». Il docente: «il prezzo di un'opzione non è altro che ... il valore intrinseco dell'opzione **più** il valore temporale della stessa» (slide 23; transcript [00:20:53]–[00:21:23]).
+**Opzione:** Dalla somma del valore intrinseco e del valore temporale della stessa.
+**Distrattori:**
+- Dalla differenza fra il valore intrinseco e il valore temporale della stessa.
+- Può avere una notazione curvilinea: l'incertezza del tempo e il suo valore temporale determinano lo slippage, similmente a quanto visto per la call.
+- Dal prezzo futures.
+
+**D:** ⚠️ Che cosa riflette la moneyness di un'opzione, e a quale concetto è strettamente legata?
+**R:** Slide 23: «Il concetto di **valore intrinseco** è strettamente legato a quello di **moneyness** dell'opzione che riflette il **posizionamento relativo** del valore corrente dell'asset sottostante **S** rispetto al prezzo di esercizio (strike) dell'opzione, denotato con **K**». Il docente parla di «rapporto esistente tra il prezzo del sottostante e il prezzo strike» (slide 23; transcript [00:21:23]–[00:21:42]).
+**Opzione:** Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+**Distrattori:**
+- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore temporale.
+- Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Il tasso di interesse e il merito di credito dell'emittente.
+
+**D:** ⚠️ Quando una call è in the money, at the money e out of the money?
+**R:** Tabella della slide 24, riga «Call»: **in the money (ITM)** S_t>K, **at the money (ATM)** S_t=K, **out of the money (OTM)** S_t<K. Il docente: la call è in the money quando il prezzo del sottostante è maggiore dello strike, «cioè genera risultato positivo»; at the money quando è uguale, «identico sia per la call che per la put»; out of the money quando è inferiore (slide 24; transcript [00:21:44]–[00:23:08]). ⚠️ Per la put ITM e OTM si scambiano.
+**Opzione:** In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
+**Distrattori:**
+- In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+- Diminuisce all'approssimarsi della scadenza.
+- max(x,0)+min(x,0)=x
+
+**D:** ⚠️ Quando una put è in the money, at the money e out of the money?
+**R:** Tabella della slide 24, riga «Put»: **in the money (ITM)** S_t<K, **at the money (ATM)** S_t=K, **out of the money (OTM)** S_t>K. Il docente: la put è in the money quando S è minore di K, «perché la long put genera risultato positivo ... quando il sottostante sta sotto lo strike»; è out of the money e «vale zero quando il valore sottostante ha superato il prezzo strike» (slide 24; transcript [00:22:10]–[00:23:33]). ⚠️ È il rovescio della call; at the money è uguale per entrambe.
+**Opzione:** In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+**Distrattori:**
+- In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
+- max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
+- max(x,0)+min(x,0)=x
+
+**D:** ⚠️ Quali sono le sei variabili che determinano il valore di un'opzione, nell'ordine della slide?
+**R:** Slide 25, «Cosa determina il valore di un'opzione?»: 1) Il prezzo di esercizio (**K**); 2) Il prezzo corrente del sottostante (**S**); 3) La volatilità del prezzo del sottostante (**σ**); 4) La vita residua del contratto (**T-t**); 5) Il tasso d'interesse (**r**); 6) I **dividendi attesi** (**δ**). Il docente le chiama «le sei variabili che quantificano il valore di un'opzione»; r è il tasso «che qualifica il valore finanziario del tempo» (slide 25; transcript [00:23:56]–[00:24:24]). ⚠️ Il premio non è fra le variabili: è il prezzo che ne risulta.
+**Opzione:** Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+**Distrattori:**
+- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); il premio pagato dal buyer.
+- Il buyer paga al venditore (seller) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
+- È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
+
+**D:** Perché i dividendi influiscono sul valore di un'opzione, secondo il docente della lezione 05?
+**R:** Il docente: «quando viene distribuito e staccato un dividendo notate che in borsa il giorno dei dividendi il **prezzo dell'azione scende**. Perché? Perché il dividendo ha levato valore alla società, ha levato **cassa** alla società», e il valore dell'azione risente dello stacco (transcript [00:24:24]–[00:24:55]). Per lo stesso motivo nella tabella delle sensitività i dividendi attesi δ hanno segno **-** per la Euro Call e **+** per la Euro Put (slide 33).
+**Opzione:** Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
+**Distrattori:**
+- Perché quando un dividendo viene staccato il prezzo dell'azione sale: il dividendo distribuito accresce il valore dell'azione.
+- Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al valore del premio.
+
+**D:** Che cosa indica, per il docente, la dimensione degli ingranaggi nella figura «Cosa determina il valore di un'opzione?»
+**R:** Le slide 26–27 mostrano gli ingranaggi «Volatilità», «Interesse», «Strike», «Prezzo sottostante» e «Dividendi» sopra un imbuto, da cui esce il «Prezzo». Il docente: le grandezze vanno viste «come degli ingranaggi che vanno a interagire per definire ... il prezzo dell'opzione», e «la dimensione degli ingranaggi, **non è casuale**»: «maggiore la dimensione di questa figura maggiore è la **rilevanza** di questo ingranaggio per influenzare la quantificazione del prezzo» (slide 26–27; transcript [00:26:03]–[00:26:42]).
+**Opzione:** Non è casuale: maggiore la dimensione dell'ingranaggio, maggiore la sua rilevanza nell'influenzare la quantificazione del prezzo.
+**Distrattori:**
+- È casuale: la dimensione dell'ingranaggio non indica la sua rilevanza nell'influenzare la quantificazione del prezzo.
+- Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
+- Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
+
+**D:** Che cosa vuol dire sensitività, e da quale presupposto parte la tabella della lezione 05?
+**R:** Il docente: la sensitività «vuol dire aumento il valore di quella variabile, cosa succede al prezzo dell'opzione? Riduco il valore di quella variabile, cosa succede al prezzo dell'opzione?». La tabella delle slide 28–33, con le colonne «Euro Call» e «Euro Put», parte «dal presupposto dell'**acquisto** di una call europea e dell'**acquisto** di una put europea». Le sensitività si studieranno analiticamente con il concetto di **greche** (slide 28; transcript [00:23:33], [00:26:42]–[00:27:18]).
+**Opzione:** Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dall'acquisto di una call europea e di una put europea.
+**Distrattori:**
+- Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dalla vendita di una call europea e di una put europea.
+- Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
+- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo di esercizio K?
+**R:** Riga K della tabella (slide 28–33): Euro Call **-**, Euro Put **+**. Il docente: «più il prezzo strike aumenta, più il sottostante deve camminare, deve crescere per fare in modo che la call diventi in the money», quindi il prezzo della call si riduce; per la put, più sale lo strike più aumentano gli eventi con valore intrinseco positivo, K-S, e «maggiore il valore dello strike maggiore è il valore della put» (transcript [00:27:18]–[00:28:34]).
+**Opzione:** Al crescere del prezzo di esercizio K il valore della Euro Call si riduce e quello della Euro Put aumenta.
+**Distrattori:**
+- Al crescere del prezzo di esercizio K il valore della Euro Call aumenta e quello della Euro Put si riduce.
+- Perché deve essere il prezzo che il mercato ritiene sintetizzi in media i possibili scenari futuri del sottostante: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
+- Vendere una call espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una put c'è un limite, perché il sottostante non può andare sotto zero.
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo corrente del sottostante S?
+**R:** Riga S della tabella (slide 29–33): Euro Call **+**, Euro Put **-**. Il docente: più il sottostante cresce, più cresce il valore intrinseco S-K e quindi il valore della call, mentre «più il sottostante cresce più si riduce il valore della put perché l'opzione put sta andando **out of the money**» (transcript [00:28:34]–[00:29:25]).
+**Opzione:** Al crescere del prezzo corrente del sottostante S il valore della Euro Call aumenta e quello della Euro Put si riduce.
+**Distrattori:**
+- Al crescere del prezzo corrente del sottostante S il valore della Euro Call si riduce e quello della Euro Put aumenta.
+- Perché la controparte acquirente (buyer) compra il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
+- Diminuisce all'approssimarsi della scadenza.
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della volatilità σ?
+**R:** Riga σ della tabella (slide 30–33): **+** per la Euro Call e **+** per la Euro Put. È l'unica riga con lo **stesso segno** nelle due colonne. Il docente: «call o put che sia», «più è la volatilità, più l'opzione ha valore»; la volatilità determina maggiori oscillazioni del sottostante, cioè «più spazio degli eventi», e più probabilità che la call o la put diventino in the money o «addirittura **deep in the money**». «E quindi il segno è positivo per entrambi» (transcript [00:29:25]–[00:30:08]).
+**Opzione:** Al crescere della volatilità σ il valore aumenta sia per la Euro Call sia per la Euro Put.
+**Distrattori:**
+- Al crescere della volatilità σ il valore aumenta per la Euro Call e si riduce per la Euro Put.
+- max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
+- Perché la controparte acquirente (buyer) compra il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della vita residua T-t?
+**R:** Riga T-t della tabella (slide 31–33): Euro Call **+**, Euro Put **?**. Il docente: «nel caso della call più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione»; per la put il sottostante non può scendere sotto zero e il massimo guadagno è K-S, quindi il tempo «può avere un **effetto distorsivo**» e, a seconda della moneyness, «un risultato positivo o negativo» (transcript [00:30:08]–[00:31:10]). ⚠️ Il docente apre la riga dicendo «il valore intrinseco ... non ha una connotazione univoca»: la riga della slide è la vita residua.
+**Opzione:** Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
+**Distrattori:**
+- Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put si riduce sempre, perché il sottostante non può andare sotto zero.
+- Vendere una call espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una put c'è un limite, perché il sottostante non può andare sotto zero.
+- Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del tasso d'interesse r?
+**R:** Riga r della tabella (slide 32–33): Euro Call **+**, Euro Put **-**. Il docente: per la call, che è la possibilità di comprare un'attività finanziaria a una certa scadenza, il tasso, che è il valore finanziario del tempo, «esprime un valore finanziario positivo»; per la put, che è una vendita, «il valore finanziario rema contro», perché rispetto a un investimento privo di rischio si rinuncia alla redditività r (transcript [00:31:10]–[00:32:04]). ⚠️ I segni di r sono quelli di S, opposti a quelli di δ.
+**Opzione:** Al crescere del tasso d'interesse r il valore della Euro Call aumenta e quello della Euro Put si riduce.
+**Distrattori:**
+- Al crescere del tasso d'interesse r il valore della Euro Call si riduce e quello della Euro Put aumenta.
+- Rialzista se compra una call, ribassista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
+- In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere dei dividendi attesi δ?
+**R:** Riga δ della tabella (slide 33): Euro Call **-**, Euro Put **+**. Il docente: «il dividendo gioca invece in senso opposto perché il dividendo sottraendo valore sottrae valore»: per la call abbatte il valore dell'azione e la porta verso scenari out o at the money; per la put «è l'esatto opposto», perché se il prezzo scende la put va in the money (transcript [00:32:04]–[00:32:54]). ⚠️ I segni di δ sono quelli di K, opposti a quelli di r.
+**Opzione:** Al crescere dei dividendi attesi δ il valore della Euro Call si riduce e quello della Euro Put aumenta.
+**Distrattori:**
+- Al crescere dei dividendi attesi δ il valore della Euro Call aumenta e quello della Euro Put si riduce.
+- In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
+- Nell'europea il diritto vale ad una certa scadenza, nell'americana entro una certa scadenza.
+
+**D:** ⚠️ Quanto vale il valore intrinseco di un'opzione put, secondo il test della lezione 05 (domanda 1)?
+**R:** «**È pari a K-S**». Nel grafico «La PUT» la slide 10 scrive **K-S** nel triangolo del payoff fra 0 e K, e la slide 11 indica come «Valore intrinseco» sia il tratto **K-S**, per S < K, sia lo **0**, per S > K. Il docente lo dice a voce: se il prezzo del sottostante è maggiore dello strike la put ha un valore intrinseco pari a zero, se è inferiore «avremo un valore intrinseco e quindi un potenziale guadagno per chi ha comprato questa put dato da K-S» (transcript [00:03:38]–[00:04:21]). La chiave è giusta ma semplificata: K-S vale quando la put è in the money, S_t < K (slide 24). Distrattori del test: «è pari a S-K» è il valore intrinseco della **call** (slide 5–6; [00:02:05]), un oggetto scambiato; «è sempre minore del valore temporale» è un quantificatore assoluto, smentito dal grafico della slide 13, dove per S molto minore di K il valore temporale si assottiglia mentre K-S cresce; «coincide col valore temporale solo per t < T» è una condizione che né le slide né il transcript contengono.
+**Opzione:** È pari a K-S.
+**Distrattori:**
+- È sempre minore del valore temporale.
+- È pari a S-K.
+- Coincide col valore temporale solo per t < T.
+
+**D:** ⚠️ Come varia il valore temporale di un'opzione call, secondo il test della lezione 05 (domanda 2)?
+**R:** «**Diminuisce all'approssimarsi della scadenza**». ⚠️ La chiave **non è testuale**, né nelle slide né nel transcript: si **deduce**. La slide 8 mostra il valore temporale della call come l'area fra il «prezzo prima della scadenza» e il payoff; il docente dice che a scadenza la call vale S-K o 0, e che il valore temporale nasce dall'incertezza che c'è «prima della scadenza» (transcript [00:02:46]–[00:03:38]). Nella tabella delle slide 31–33 la vita residua T-t ha un **+** per la Euro Call: «più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione» ([00:30:16]). Distrattori del test: «aumenta all'approssimarsi della scadenza» è il **segno invertito**; «è maggiore del suo valore intrinseco» nel grafico della slide 8 vale dove il valore intrinseco è 0, non per S molto maggiore di K, quindi non è una proprietà generale; «è sempre maggiore del valore temporale di un'opzione put» è un quantificatore assoluto senza appoggio nei materiali, dove per la Euro Put la riga T-t porta un **?**.
+**Opzione:** Diminuisce all'approssimarsi della scadenza.
+**Distrattori:**
+- È maggiore del suo valore intrinseco.
+- Aumenta all'approssimarsi della scadenza.
+- È sempre maggiore del valore temporale di un'opzione put.
+
+**D:** ⚠️ Qual è il pay-off a scadenza di una long call, secondo il test della lezione 05 (domanda 3)?
+**R:** «**max(S_T-K,0)**». È la prima riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: per la long call il payoff «è il massimo tra il valore a scadenza dell'azione meno K che è il prezzo strike e zero» (transcript [00:12:11]–[00:12:35]). Distrattori del test: «min(S_T-K,0)» è la riga della **short put** e «max(K-S_T,0)» quella della **long put**; ⚠️ «max(S_T-K,1)» non esiste nei materiali: l'**1** al posto dello 0 è inventato.
+**Opzione:** max(S_T-K,0)
+**Distrattori:**
+- max(S_T-K,1)
+- min(S_T-K,0)
+- max(K-S_T,0)
+
+**D:** ⚠️ Qual è il pay-off a scadenza di una long put, secondo il test della lezione 05 (domanda 4)?
+**R:** «**max(K-S_T,0)**». È la seconda riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: «sono long put e in questo caso mi troverò invece il massimo tra K meno S_T e zero», perché con la put si ha il diritto di vendere e si guadagna quando il titolo va sotto lo strike (transcript [00:12:35]–[00:13:08]). ⚠️ **Domanda difettosa**: le opzioni **A** e **C** sono **identiche**, «max(K-S_T,0)», e la piattaforma segna la **A**, la prima delle due. Distrattori del test: «min(S_T-K,0)» è la riga della **short put**, «max(S_T-K,0)» quella della **long call**.
+**Opzione:** max(K-S_T,0)
+**Distrattori:**
+- min(S_T-K,0)
+- max(S_T-K,0)
+
+**D:** ⚠️ Qual è il pay-off a scadenza di una short put, secondo il test della lezione 05 (domanda 5)?
+**R:** «**min(S_T-K,0)**». È l'ultima riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: il payoff a scadenza di chi ha venduto una put «è il minimo del payoff della long call», cioè min(S_T-K,0) (transcript [00:14:06]–[00:15:04]). La slide 22 lo conferma: -max(K-S_T,0) = min(S_T-K,0), «utilizzando una nota proprietà delle funzioni di minimo e massimo» ([00:20:08]). Distrattori del test: le opzioni **A** e **C** sono identiche, «max(K-S_T,0)», cioè il pay-off della **long put**, con il segno opposto; ⚠️ «max(S_T-K,1)» non esiste nei materiali, come nella domanda 3.
+**Opzione:** min(S_T-K,0)
+**Distrattori:**
+- max(K-S_T,0)
+- max(S_T-K,1)
+
+## Lezione 06 — Processi Stocastici 1 – Concetti Preliminari
+
+**D:** ⚠️ Quando una variabile aleatoria X : Ω → ℝ è detta 𝒜-misurabile, e come si chiama l'insieme che compare nella condizione, secondo la lezione 06?
+**R:** «Dato uno spazio di probabilità (Ω, 𝒜, P) la variabile aleatoria X : Ω → ℝ è detta **𝒜-misurabile** se **per ogni U sottoinsieme aperto di ℝ** vale la seguente condizione: {ω ∈ Ω : X(ω) ∈ U} ∈ 𝒜» (1, slide 2). «L'insieme individuato dalla condizione 1 è detto **controimmagine** di X del sottoinsieme U ed è indicato con la notazione X^(-1)(U)» (2, slide 2). Il docente: «In questo caso x si dice A misurabile» ([00:00:17]–[00:01:20]; la trascrizione scrive «ammisurabile»).
+**Opzione:** Se per ogni U sottoinsieme aperto di ℝ vale {ω ∈ Ω : X(ω) ∈ U} ∈ 𝒜; l'insieme {ω ∈ Ω : X(ω) ∈ U} è la controimmagine X^(-1)(U).
+**Distrattori:**
+- Se per almeno un U sottoinsieme aperto di ℝ vale {ω ∈ Ω : X(ω) ∈ U} ∈ 𝒜; l'insieme {ω ∈ Ω : X(ω) ∈ U} è la controimmagine X^(-1)(U).
+- Se ogni X_t è ℱ_t-misurabile, cioè se ∀t, nota l'informazione contenuta in ℱ_t, si conosce il valore di X_t.
+- Se per ogni E ∈ 𝒜 tale che P(E) = 0 si ha P̃(E) = 0.
+
+**D:** ⚠️ Che cosa dice della σ-algebra di Borel 𝔹 la proposizione della lezione 06 sugli insiemi di Borel?
+**R:** «Gli elementi della σ-algebra di Borel 𝔹 **coincidono con i sottoinsiemi aperti di ℝ** e sono detti **insiemi di Borel**» (slide 2; [00:01:20]). ⚠️ La lezione 01 dice invece che 𝔹 è la σ-algebra **generata** dai sottoinsiemi aperti di ℝ (deck 01, slide 11): le due formule vanno ricordate ciascuna con la sua lezione.
+**Opzione:** Gli elementi della σ-algebra di Borel 𝔹 coincidono con i sottoinsiemi aperti di ℝ e sono detti insiemi di Borel.
+**Distrattori:**
+- Gli elementi della σ-algebra di Borel 𝔹 coincidono con i sottoinsiemi aperti di Ω e sono detti insiemi di Borel.
+- Continuo se T è un intervallo di ℝ, discreto se T è un sottoinsieme di ℕ.
+- Ogni martingala è contemporaneamente una supermartingala e una submartingala.
+
+**D:** ⚠️ Come si definisce la σ-algebra generata da X, secondo la lezione 06?
+**R:** «Data la variabile aleatoria X : (Ω, 𝒜, P) → (ℝ, 𝔹, P_X), la famiglia di insiemi definita come: **σ(X) ≐ {X^(-1)(E) : E ∈ 𝔹}** è una **σ-algebra su Ω** ed è detta σ-algebra generata da X» (3, slide 3). La nota la legge così: «La σ-algebra generata da X è uguale alle controimmagini di X dell'insieme E ove E è un insieme di Borel», e alternativamente X^(-1)(E) ∈ σ(X) (4, slide 3; [00:01:52]–[00:03:13]).
+**Opzione:** σ(X) ≐ {X^(-1)(E) : E ∈ 𝔹}: le controimmagini di X degli insiemi di Borel; è una σ-algebra su Ω.
+**Distrattori:**
+- σ(X) ≐ {X^(-1)(E) : E ∈ 𝔹}: le controimmagini di X degli insiemi di Borel; è una σ-algebra su ℝ.
+- La più piccola filtrazione rispetto a cui il processo è adattato: 𝔽^X = {ℱ_t^X}_{t∈[0,∞)}, con ℱ_t^X = σ(X_s; 0 ≤ s ≤ t).
+- 𝔽 := {ℱ_t}_{t∈T}, con ogni ℱ_t sub-σ-algebra di 𝒜, tale che ∀s ≤ t si ha ℱ_s ⊆ ℱ_t.
+
+**D:** ⚠️ Quando l'insieme 𝔽 := {ℱ_t}_{t∈T} di sub-σ-algebre di 𝒜 si definisce filtrazione, secondo la lezione 06?
+**R:** «Sia (Ω, 𝒜, P) uno spazio di probabilità e sia T un insieme non vuoto di ℕ o di ℝ e ∀t ∈ T sia ℱ_t una sub-σ-algebra di 𝒜. Allora l'insieme 𝔽 così definito: 𝔽 := {ℱ_t}_{t∈T} (5) si definisce **filtrazione** se **∀s ≤ t** si ha: **ℱ_s ⊆ ℱ_t** (6)» (slide 4). ℬ è una sub-σ-algebra di 𝒜 se ℬ ⊆ 𝒜, e con una filtrazione la quadrupla (Ω, 𝒜, 𝔽, P) è uno **spazio di probabilità filtrato** (slide 4; [00:03:13]–[00:05:02]). ⚠️ La σ-algebra del tempo precedente è contenuta in quella del tempo successivo, non il contrario.
+**Opzione:** 𝔽 := {ℱ_t}_{t∈T}, con ogni ℱ_t sub-σ-algebra di 𝒜, tale che ∀s ≤ t si ha ℱ_s ⊆ ℱ_t.
+**Distrattori:**
+- 𝔽 := {ℱ_t}_{t∈T}, con ogni ℱ_t sub-σ-algebra di 𝒜, tale che ∀s ≤ t si ha ℱ_t ⊆ ℱ_s.
+- σ(X) ≐ {X^(-1)(E) : E ∈ 𝔹}: le controimmagini di X degli insiemi di Borel; è una σ-algebra su Ω.
+- La classe dei processi stocastici square-integrable con valore iniziale nullo, i.e. tali che X_0 = 0.
+
+**D:** ⚠️ Quando P̃ è una misura di probabilità assolutamente continua rispetto alla misura di probabilità P, secondo la lezione 06?
+**R:** «Sia (Ω, 𝒜) uno spazio misurabile e siano P e P̃ due misure di probabilità definite su tale spazio. Si dice che P̃ è una misura di probabilità **assolutamente continua rispetto alla misura di probabilità P** se per ogni E ∈ 𝒜 tale che **P(E) = 0** si ha: **P̃(E) = 0** (7)» (slide 5; [00:05:02]–[00:05:39]). ⚠️ La direzione conta: gli eventi nulli per P sono nulli anche per P̃.
+**Opzione:** Se per ogni E ∈ 𝒜 tale che P(E) = 0 si ha P̃(E) = 0.
+**Distrattori:**
+- Se per ogni E ∈ 𝒜 tale che P̃(E) = 0 si ha P(E) = 0.
+- Se ∀t ≥ 0 e ∀ω ∈ Ω si ha |X_t(ω)| ≤ C < ∞, ove C è una costante a valori reali positivi.
+- ∀ω ∈ Ω, le funzioni X_t che portano da T in ℕ o da T in ℝ: i valori di X_t al variare di t.
+
+**D:** ⚠️ Quando P e P̃ sono due misure di probabilità equivalenti, secondo la lezione 06?
+**R:** «Si dice che P e P̃ sono due **misure di probabilità equivalenti** se: **P(E) = 0 ⇔ P̃(E) = 0, ∀E ∈ 𝒜** (8)» (slide 5): hanno gli stessi eventi di probabilità nulla. Il docente legge la doppia implicazione come una congiunzione, «la probabilità di E uguale 0 e la probabilità di P tilde di E uguale 0» ([00:05:39]–[00:06:20]): vale la slide.
+**Opzione:** P(E) = 0 ⇔ P̃(E) = 0, ∀E ∈ 𝒜
+**Distrattori:**
+- P(E) = 0 ⇔ P̃(E) = 1, ∀E ∈ 𝒜
+- ∫_Ω Λ dP̃ = 1, cioè E^P̃(Λ) = 1
+- Λ = dP/dP̃
+
+**D:** ⚠️ Che cosa afferma il teorema di Radon-Nikodym, se P è assolutamente continua rispetto a P̃, secondo la lezione 06?
+**R:** «Siano P e P̃ due misure entrambe definite sullo spazio misurabile (Ω, 𝒜) e sia P assolutamente continua rispetto a P̃. Allora esiste **un'unica** variabile aleatoria **non negativa** Λ : (Ω, 𝒜) → (ℝ, 𝔹) tale che ∀A ∈ 𝒜 si ha: **∫_A dP = ∫_A Λ dP̃** (9) e Λ è detta **derivata di Radon-Nikodym** della misura di probabilità P rispetto alla misura di probabilità P̃ su 𝒜» (slide 6; [00:06:20]–[00:07:23]). La nota della slide 7 la riscrive come P(A) = ∫_A Λ dP̃ (10), valida ∀A ∈ 𝒜.
+**Opzione:** Esiste un'unica variabile aleatoria non negativa Λ : (Ω, 𝒜) → (ℝ, 𝔹) tale che ∀A ∈ 𝒜 si ha ∫_A dP = ∫_A Λ dP̃.
+**Distrattori:**
+- Esiste un'unica variabile aleatoria non negativa Λ : (Ω, 𝒜) → (ℝ, 𝔹) tale che ∀A ∈ 𝒜 si ha ∫_A dP̃ = ∫_A Λ dP.
+- L'insieme dei processi stocastici {X_t}_{t∈[0,T]} progressivamente misurabili che verificano E(∫_0^T X_t² dt) < ∞.
+- B_s ≜ W_{t+s} - W_t = ΔW_t, con 0 ≤ s ≤ ∞, è anch'esso un moto browniano.
+
+**D:** ⚠️ Quanto vale il valore atteso della derivata di Radon-Nikodym Λ sotto la misura di probabilità P̃, secondo la lezione 06?
+**R:** «Se A = Ω vale la seguente uguaglianza: **∫_Ω Λ dP̃ = 1** (11) o, equivalentemente: **E^P̃(Λ) = 1** (12) il che significa che il valore atteso della derivata di Radon-Nikodym sotto la misura di probabilità P̃ è **pari a 1**» (slide 7; [00:07:41]–[00:08:13]). La nota segue la (10), P(A) = ∫_A Λ dP̃, che con A = Ω dà la probabilità dell'intero spazio.
+**Opzione:** ∫_Ω Λ dP̃ = 1, cioè E^P̃(Λ) = 1
+**Distrattori:**
+- ∫_Ω Λ dP̃ = 0, cioè E^P̃(Λ) = 0
+- P(E) = 0 ⇔ P̃(E) = 0, ∀E ∈ 𝒜
+- E^P(X_t|ℱ_0) = E^P(X_t)
+
+**D:** ⚠️ Con quale scrittura si denota tipicamente la derivata di Radon-Nikodym Λ, da cui il nome di «derivata», secondo la lezione 06?
+**R:** «L'uso della parola **derivata** con riferimento a Λ scaturisce dal fatto che tipicamente tale variabile aleatoria è denotata con la scrittura: **Λ = dP/dP̃** (13)» (slide 8). Λ è la derivata della misura P **rispetto alla** misura P̃ (slide 6), quindi dP sta al numeratore. Il docente salta questa nota e passa alla proposizione ([00:08:13]).
+**Opzione:** Λ = dP/dP̃
+**Distrattori:**
+- Λ = dP̃/dP
+- ∫_Ω Λ dP̃ = 1, cioè E^P̃(Λ) = 1
+- E^P(Y) = E^P̃(Λ · Y)
+
+**D:** ⚠️ Se Y è una variabile aleatoria con E^P̃[|ΛY|] < ∞, che cosa vale per A = Ω, secondo la proposizione della lezione 06?
+**R:** «Sia Y una variabile aleatoria tale che si ha E^P̃[|ΛY|] < ∞. Allora ∀A ∈ 𝒜 vale la seguente uguaglianza: ∫_A Y dP = ∫_A YΛ dP̃ (14) o, equivalentemente: E^P(Y · 𝟙_A) = E^P̃(Y · Λ · 𝟙_A) (15). In particolare, per A = Ω si ha: **E^P(Y) = E^P̃(Λ · Y)** (16)» (slide 8; [00:08:13]–[00:09:33]). ⚠️ Λ moltiplica Y sotto la misura **P̃**, non sotto P.
+**Opzione:** E^P(Y) = E^P̃(Λ · Y)
+**Distrattori:**
+- E^P̃(Y) = E^P(Λ · Y)
+- Λ = dP/dP̃
+- E^P(X_t|ℱ_0) = E^P(X_t)
+
+**D:** ⚠️ Come si definisce un processo stocastico, dato uno spazio di probabilità (Ω, 𝒜, P), secondo la lezione 06?
+**R:** «Dato uno spazio di probabilità (Ω, 𝒜, P) un **processo stocastico** è una **collezione parametrizzata di variabili aleatorie** {X_t}_{t∈T} (17) definite su tale spazio di probabilità e a valori in ℕ o in ℝ ove **T è lo spazio dei parametri**» (slide 9). Per ogni t ∈ T fissato X_t è una variabile aleatoria, X_t : Ω → ℕ oppure X_t : Ω → ℝ (slide 9; [00:09:33]–[00:10:45]).
+**Opzione:** Una collezione parametrizzata di variabili aleatorie {X_t}_{t∈T} definite su tale spazio di probabilità e a valori in ℕ o in ℝ, ove T è lo spazio dei parametri.
+**Distrattori:**
+- Una collezione parametrizzata di variabili aleatorie {X_t}_{t∈T} definite su tale spazio di probabilità e a valori in ℕ o in ℝ, ove Ω è lo spazio dei parametri.
+- La classe dei processi stocastici square-integrable con valore iniziale nullo, i.e. tali che X_0 = 0.
+- La più piccola filtrazione rispetto a cui il processo è adattato: 𝔽^X = {ℱ_t^X}_{t∈[0,∞)}, con ℱ_t^X = σ(X_s; 0 ≤ s ≤ t).
+
+**D:** ⚠️ Quando un processo stocastico {X_t}_{t∈T} è continuo e quando è discreto, secondo la lezione 06?
+**R:** «Qualora **T sia un intervallo di ℝ** si dice che {X_t}_{t∈T} è un processo stocastico **continuo**»; «Qualora **T sia un sottoinsieme di ℕ** si dice che {X_t}_{t∈T} è un processo stocastico **discreto**» (slide 10; [00:10:45]–[00:11:08]). ⚠️ La distinzione riguarda lo spazio dei parametri T, non i valori assunti dal processo.
+**Opzione:** Continuo se T è un intervallo di ℝ, discreto se T è un sottoinsieme di ℕ.
+**Distrattori:**
+- Continuo se T è un sottoinsieme di ℕ, discreto se T è un intervallo di ℝ.
+- {-X_t}_{t∈[0,∞)} è una submartingala, e viceversa.
+- Se è predictable è anche progressivamente misurabile; se è progressivamente misurabile è misurabile e adattato.
+
+**D:** ⚠️ Che cosa sono le traiettorie di X_t, secondo la lezione 06?
+**R:** «**∀ω ∈ Ω** le funzioni X_t che portano **da T in ℕ o da T in ℝ**, i.e. X_t : T → ℕ o X_t : T → ℝ sono chiamate **traiettorie** di X_t»; «In altri termini la traiettoria rappresenta i valori di X_t **al variare di t**» (slide 10; [00:11:08]–[00:11:36]). ⚠️ Fissato t, X_t : Ω → ℝ è una variabile aleatoria (slide 9); fissato ω, la funzione di t è una traiettoria.
+**Opzione:** ∀ω ∈ Ω, le funzioni X_t che portano da T in ℕ o da T in ℝ: i valori di X_t al variare di t.
+**Distrattori:**
+- ∀t ∈ T, le funzioni X_t che portano da Ω in ℕ o da Ω in ℝ: i valori di X_t al variare di ω.
+- Gli elementi della σ-algebra di Borel 𝔹 coincidono con i sottoinsiemi aperti di ℝ e sono detti insiemi di Borel.
+- Il termine sinistro della (40) è pari al valore atteso non condizionato di X_t: E^P[E^P(X_t|ℱ_s)] = E^P(X_t).
+
+**D:** ⚠️ Quando il processo stocastico {X_t}_{t∈[0,∞)} è uniformemente limitato, secondo la lezione 06?
+**R:** «Si dice che il processo stocastico {X_t}_{t∈[0,∞)} definito sullo spazio di probabilità (Ω, 𝒜, P) e a valori in ℝ è **uniformemente limitato** se **∀t ≥ 0 e ∀ω ∈ Ω** si ha: **|X_t(ω)| ≤ C < ∞** ove C è una costante a valori reali positivi» (slide 13; [00:14:56]–[00:15:32]). ⚠️ Il limite vale per ogni ω, non per il valore atteso.
+**Opzione:** Se ∀t ≥ 0 e ∀ω ∈ Ω si ha |X_t(ω)| ≤ C < ∞, ove C è una costante a valori reali positivi.
+**Distrattori:**
+- Se ∀t ≥ 0 si ha E^P(|X_t|) ≤ C < ∞, ove C è una costante a valori reali positivi.
+- Se per ogni U sottoinsieme aperto di ℝ vale {ω ∈ Ω : X(ω) ∈ U} ∈ 𝒜; l'insieme {ω ∈ Ω : X(ω) ∈ U} è la controimmagine X^(-1)(U).
+- Una collezione parametrizzata di variabili aleatorie {X_t}_{t∈T} definite su tale spazio di probabilità e a valori in ℕ o in ℝ, ove T è lo spazio dei parametri.
+
+**D:** ⚠️ Quando il processo stocastico {X_t}_{t∈[0,∞)} è adattato alla filtrazione {ℱ_t}_{t∈[0,∞)}, secondo la lezione 06?
+**R:** «Dato lo spazio di probabilità filtrato (Ω, 𝒜, {ℱ_t}_{t∈[0,∞)}, P) si dice che il processo stocastico {X_t}_{t∈[0,∞)} è **adattato** a {ℱ_t}_{t∈[0,∞)} se **ogni X_t è ℱ_t-misurabile**, cioè se ∀t, nota l'informazione contenuta in ℱ_t, si conosce il valore di X_t» (slide 15; [00:17:03]–[00:17:32]). ⚠️ La σ-algebra è ℱ_t, quella dell'istante t, non la σ-algebra 𝒜 dell'intero spazio di probabilità.
+**Opzione:** Se ogni X_t è ℱ_t-misurabile, cioè se ∀t, nota l'informazione contenuta in ℱ_t, si conosce il valore di X_t.
+**Distrattori:**
+- Se ogni X_t è 𝒜-misurabile, cioè se ∀t, nota l'informazione contenuta in 𝒜, si conosce il valore di X_t.
+- Se per ogni E ∈ 𝒜 tale che P(E) = 0 si ha P̃(E) = 0.
+
+**D:** ⚠️ Quando il processo stocastico {X_t}_{t∈[0,∞)} è progressivamente misurabile rispetto a {ℱ_t}_{t∈[0,∞)}, secondo la lezione 06?
+**R:** «…si dice che il processo stocastico {X_t}_{t∈[0,∞)} è **progressivamente misurabile** rispetto a {ℱ_t}_{t∈[0,∞)} se esso è misurabile rispetto alla σ-algebra prodotto: **𝔹|_{[0,t]} × ℱ_t**, cioè se: {(s, ω) ∈ [0,t] × Ω : X_s(ω) ∈ A} ∈ 𝔹|_{[0,t]} × ℱ_t (22) **per ogni A ∈ 𝔹 e per ogni t ≥ 0**» (slide 16). Per il docente è una «definizione molto importante» ([00:17:32]–[00:18:14]). ⚠️ Il processo **misurabile** lo è rispetto a 𝔹|_{[0,+∞)} × 𝒜 (21, slide 13), il **predictable** rispetto a 𝔹|_{[0,t)} × ℱ_{t-} (23, slide 17).
+**Opzione:** Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t]} × ℱ_t, per ogni A ∈ 𝔹 e per ogni t ≥ 0.
+**Distrattori:**
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,+∞)} × 𝒜, per ogni A ∈ 𝔹.
+- Costante per la martingala, non crescente per la supermartingala, non decrescente per la submartingala.
+- Una collezione parametrizzata di variabili aleatorie {X_t}_{t∈T} definite su tale spazio di probabilità e a valori in ℕ o in ℝ, ove T è lo spazio dei parametri.
+
+**D:** ⚠️ Quando il processo stocastico {X_t}_{t∈[0,∞)} è predictable rispetto a {ℱ_t}_{t∈[0,∞)}, secondo la lezione 06?
+**R:** «…è **predictable** rispetto a {ℱ_t}_{t∈[0,∞)} se esso è misurabile rispetto alla σ-algebra prodotto: **𝔹|_{[0,t)} × ℱ_{t-}**, cioè se, denotando con ℱ_{t-} la σ-algebra generata dall'insieme dei processi **adattati e continui da sinistra**, si ha: {(s, ω) ∈ [0,t] × Ω : X_s(ω) ∈ A} ∈ 𝔹|_{[0,t)} × ℱ_{t-} (23) per ogni A ∈ 𝔹 e per ogni t ≥ 0» (slide 17). Il docente dice «predicibile» e «predittibile» ([00:18:30]–[00:19:39]). ⚠️ Rispetto alla misurabilità progressiva cambiano l'intervallo, [0,t) invece di [0,t], e la σ-algebra, ℱ_{t-} invece di ℱ_t.
+**Opzione:** Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t)} × ℱ_{t-}, con ℱ_{t-} la σ-algebra generata dall'insieme dei processi adattati e continui da sinistra.
+**Distrattori:**
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t)} × ℱ_{t-}, con ℱ_{t-} la σ-algebra generata dall'insieme dei processi adattati e continui da destra.
+- Se per ogni U sottoinsieme aperto di ℝ vale {ω ∈ Ω : X(ω) ∈ U} ∈ 𝒜; l'insieme {ω ∈ Ω : X(ω) ∈ U} è la controimmagine X^(-1)(U).
+- L'insieme dei processi stocastici {X_t}_{t∈[0,T]} progressivamente misurabili che verificano E(∫_0^T X_t² dt) < ∞.
+
+**D:** ⚠️ Quali implicazioni legano processi predictable, progressivamente misurabili, misurabili e adattati, secondo le proposizioni della lezione 06?
+**R:** «Se un processo stocastico è **progressivamente misurabile** allora esso è **misurabile e adattato**» (slide 16); «Se un processo stocastico è **predictable** allora esso è anche **progressivamente misurabile**» (slide 17). Il docente: «Se un processo stocastico è progressivamente misurabile, allora esso è misurabile e anche adattato, cioè nota f di t è noto anche x di t» ([00:18:14]); «Se un processo stocastico è predittibile o predicibile, allora esso è anche progressivamente misurabile» ([00:19:39]). ⚠️ Le implicazioni scendono dalla condizione più forte alla più debole: predictable ⇒ progressivamente misurabile ⇒ misurabile e adattato.
+**Opzione:** Se è predictable è anche progressivamente misurabile; se è progressivamente misurabile è misurabile e adattato.
+**Distrattori:**
+- Se è progressivamente misurabile è anche predictable; se è misurabile e adattato è progressivamente misurabile.
+- Ogni martingala è contemporaneamente una supermartingala e una submartingala.
+- {-X_t}_{t∈[0,∞)} è una submartingala, e viceversa.
+
+**D:** ⚠️ Come si definisce la filtrazione naturale del processo {X_t}_{t∈[0,∞)}, secondo la lezione 06?
+**R:** «Si definisce **filtrazione naturale** del processo {X_t}_{t∈[0,∞)} la **più piccola** filtrazione rispetto a cui tale processo stocastico è adattato. Essa è denotata con 𝔽^X = {ℱ_t^X}_{t∈[0,∞)} dove ℱ_t^X = σ(X_s; 0 ≤ s ≤ t) e corrisponde pertanto alla filtrazione generata dal processo stesso» (slide 17); «In altri termini la filtrazione naturale di un processo stocastico rappresenta il **set di informazioni** che caratterizzano il medesimo» (slide 18; [00:20:00]–[00:20:42]). La filtrazione di {X_t} si costruisce come σ(X_0) = ℱ_0, σ(X_0, X_1) = ℱ_1, …, σ(X_s; 0 ≤ s ≤ t) = ℱ_t, con ℱ_0 ⊂ ℱ_1 ⊂ … ⊂ ℱ_t (slide 15).
+**Opzione:** La più piccola filtrazione rispetto a cui il processo è adattato: 𝔽^X = {ℱ_t^X}_{t∈[0,∞)}, con ℱ_t^X = σ(X_s; 0 ≤ s ≤ t).
+**Distrattori:**
+- La più grande filtrazione rispetto a cui il processo è adattato: 𝔽^X = {ℱ_t^X}_{t∈[0,∞)}, con ℱ_t^X = σ(X_s; 0 ≤ s ≤ t).
+- 𝔽 := {ℱ_t}_{t∈T}, con ogni ℱ_t sub-σ-algebra di 𝒜, tale che ∀s ≤ t si ha ℱ_s ⊆ ℱ_t.
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t]} × ℱ_t, per ogni A ∈ 𝔹 e per ogni t ≥ 0.
+
+**D:** ⚠️ Che cosa si indica con L²[0, T], secondo la lezione 06?
+**R:** «L'insieme dei processi stocastici {X_t}_{t∈[0,T]} **progressivamente misurabili** e che verificano la seguente condizione: **E(∫_0^T X_t² dt) < ∞** (24) è detto L²[0, T]» (slide 18; [00:20:42]–[00:21:06]). ⚠️ Sotto l'integrale c'è il **quadrato** del processo.
+**Opzione:** L'insieme dei processi stocastici {X_t}_{t∈[0,T]} progressivamente misurabili che verificano E(∫_0^T X_t² dt) < ∞.
+**Distrattori:**
+- L'insieme dei processi stocastici {X_t}_{t∈[0,T]} progressivamente misurabili che verificano E(∫_0^T X_t dt) < ∞.
+- Se ogni X_t è ℱ_t-misurabile, cioè se ∀t, nota l'informazione contenuta in ℱ_t, si conosce il valore di X_t.
+- s ≤ t ⇒ ℱ_s^W ⊆ ℱ_t^W; W_t è ℱ_t^W-misurabile per ogni t; per t ≤ t_1 ≤ ... ≤ t_n gli incrementi W_{t_1} - W_t, W_{t_2} - W_{t_1}, ..., W_{t_1} - W_{t_{n-1}} sono indipendenti da ℱ_t^W.
+
+**D:** ⚠️ Come si definisce un processo semplice, data una partizione 0 = t_0 ≤ t_1 ≤ ... ≤ t_n = T, secondo la lezione 06?
+**R:** «…si assuma che per ogni j = 0, 1, ..., n - 1 esista una v.a. **ℱ_{t_j}-misurabile** definita come segue: a_j(ω) : Ω → **[-K, K]** (25) ove K è una costante positiva e finita. Allora si può definire un processo stocastico X_t : [0, T] × Ω → [-K, K] ponendo: X_t := a_j(ω) ∀t ∈ (t_j, t_{j+1}], ∀j = 0, 1, ..., n - 1 (26) o, equivalentemente: **X_t := ∑_{j=0}^{n-1} a_j(ω) · 𝟙_{(t_j,t_{j+1}]}** (27) […] Tale processo stocastico **limitato e continuo da sinistra** è detto **processo semplice**» (slide 19; [00:21:06]–[00:22:27]). Il processo semplice è ℱ_{t_j}-misurabile per t ∈ (t_j, t_{j+1}] (slide 20).
+**Opzione:** X_t := ∑_{j=0}^{n-1} a_j(ω) · 𝟙_{(t_j,t_{j+1}]}, con a_j(ω) ℱ_{t_j}-misurabile a valori in [-K, K]: un processo limitato e continuo da sinistra.
+**Distrattori:**
+- X_t := ∑_{j=0}^{n-1} a_j(ω) · 𝟙_{[t_j,t_{j+1})}, con a_j(ω) ℱ_{t_j}-misurabile a valori in [-K, K]: un processo limitato e continuo da destra.
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t]} × ℱ_t, per ogni A ∈ 𝔹 e per ogni t ≥ 0.
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t)} × ℱ_{t-}, con ℱ_{t-} la σ-algebra generata dall'insieme dei processi adattati e continui da sinistra.
+
+**D:** ⚠️ Che cosa vale per E^P(X_t|ℱ_0), data una filtrazione {ℱ_t}_{t∈[0,∞)} sullo spazio di probabilità, secondo la proposizione della lezione 06?
+**R:** «Sia {X_t}_{t∈[0,∞)} un processo stocastico definito sullo spazio di probabilità (Ω, 𝒜, P) e sia {ℱ_t}_{t∈[0,∞)} una filtrazione definita su tale spazio di probabilità. Allora vale la seguente uguaglianza: **E^P(X_t|ℱ_0) = E^P(X_t)** (28)» (slide 20). Il docente: il valore atteso condizionato a ℱ_0 «è semplicemente uguale al valore atteso» ([00:22:39]–[00:23:09]).
+**Opzione:** E^P(X_t|ℱ_0) = E^P(X_t)
+**Distrattori:**
+- E^P(X_t|ℱ_t) = E^P(X_t)
+- E^P(Y) = E^P̃(Λ · Y)
+- P(E) = 0 ⇔ P̃(E) = 0, ∀E ∈ 𝒜
+
+**D:** ⚠️ Quali due condizioni deve soddisfare un processo {X_t}_{t∈[0,∞)} adattato alla filtrazione {ℱ_t}_{t∈[0,∞)} per essere una P-martingala, secondo la lezione 06?
+**R:** «Un processo stocastico {X_t}_{t∈[0,∞)} definito su uno spazio di probabilità filtrato (Ω, 𝒜, {ℱ_t}_{t∈[0,∞)}, P) e **adattato** rispetto alla filtrazione {ℱ_t}_{t∈[0,∞)} è detto **martingala** rispetto a tale filtrazione (e alla misura di probabilità P) o, equivalentemente, P-martingala se: **E^P(|X_t|) < ∞ ∀t** (29) e: **E^P(X_t|ℱ_s) = X_s ∀s ≤ t** (30)» (slide 21; [00:23:09]–[00:23:52]). ⚠️ La (29) è la condizione di integrabilità, con il valore assoluto; la square-integrability chiede invece E^P(X_t²) < ∞ (42, slide 27).
+**Opzione:** E^P(|X_t|) < ∞ ∀t e E^P(X_t|ℱ_s) = X_s ∀s ≤ t
+**Distrattori:**
+- E^P(|X_t|) < ∞ ∀t e E^P(X_s|ℱ_t) = X_t ∀s ≤ t
+- Se ∀t ≥ 0 e ∀ω ∈ Ω si ha |X_t(ω)| ≤ C < ∞, ove C è una costante a valori reali positivi.
+- E^P(X²_t) < ∞ ∀ t ≥ 0
+
+**D:** ⚠️ Come si può riesprimere con ΔX_t = X_t - X_s la condizione E^P(X_t|ℱ_s) = X_s della martingala, secondo la lezione 06?
+**R:** «La condizione di cui alla 30 può essere riespressa in modo equivalente come: **E^P(X_t - X_s|ℱ_s) = E^P(ΔX_t|ℱ_s) = 0**, ∀0 ≤ s < t < ∞ (31) dove: ΔX_t = X_t - X_s» (slide 22); «…anche come: ∫_A X_t dP = ∫_A X_s dP ∀0 ≤ s < t < ∞ (32) per ogni A ∈ ℱ_s» (slide 22; [00:23:52]–[00:24:52]). ⚠️ Il condizionamento resta a ℱ_s, l'informazione al tempo precedente s.
+**Opzione:** E^P(X_t - X_s|ℱ_s) = E^P(ΔX_t|ℱ_s) = 0, ∀0 ≤ s < t < ∞
+**Distrattori:**
+- E^P(X_t - X_s|ℱ_t) = E^P(ΔX_t|ℱ_t) = 0, ∀0 ≤ s < t < ∞
+- P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x)
+- lim_{‖Π‖→0} ∑_{k=0}^{n-1} |W_{t_{k+1}} - W_{t_k}|² = T
+
+**D:** ⚠️ Quale condizione prende il posto della E^P(X_t|ℱ_s) = X_s in una P-supermartingala, e come si riesprime con ΔX_t, secondo la lezione 06?
+**R:** «Un processo stocastico {X_t}_{t∈[0,∞)} che soddisfa le condizioni indicate nella definizione di martingala ad eccezione del fatto che in luogo della 30 vale la: **E^P(X_t|ℱ_s) ≤ X_s ∀s ≤ t** (33) è detto **Supermartingala** rispetto alla filtrazione {ℱ_t}_{t∈[0,∞)} (e alla misura di probabilità P) o, equivalentemente, P-supermartingala» (slide 23). Con ΔX_t = X_t - X_s: **E^P(ΔX_t|ℱ_s) ≤ 0** (34, slide 23; [00:24:52]–[00:25:45]). ⚠️ «Super» va con «≤».
+**Opzione:** E^P(X_t|ℱ_s) ≤ X_s ∀s ≤ t, cioè E^P(ΔX_t|ℱ_s) ≤ 0
+**Distrattori:**
+- E^P(X_t|ℱ_s) ≥ X_s ∀s ≤ t, cioè E^P(ΔX_t|ℱ_s) ≥ 0
+- ΔW_t ≜ ε√Δt e, per s → 0, dW_t ≜ ε√dt, ove ε ~ N(0,1).
+- W_t ~ N(0, t): una Normale di valore atteso nullo e varianza t.
+
+**D:** ⚠️ Quale condizione prende il posto della E^P(X_t|ℱ_s) = X_s in una P-submartingala, e come si riesprime con ΔX_t, secondo la lezione 06?
+**R:** «…ad eccezione del fatto che in luogo della 30 vale la: **E^P(X_t|ℱ_s) ≥ X_s ∀s ≤ t** (35) è detto **Submartingala** rispetto alla filtrazione {ℱ_t}_{t∈[0,∞)} (e alla misura di probabilità P) o, equivalentemente, P-submartingala» (slide 24). «Si evidenzia che la 35 può essere riespressa in modo equivalente come: E^P(X_t - X_s|ℱ_s) = **E^P(ΔX_t|ℱ_s) ≥ 0**» (36, slide 24; [00:25:45]–[00:26:23]). ⚠️ «Sub» va con «≥».
+**Opzione:** E^P(X_t|ℱ_s) ≥ X_s ∀s ≤ t, cioè E^P(ΔX_t|ℱ_s) ≥ 0
+**Distrattori:**
+- E^P(X_t|ℱ_s) ≤ X_s ∀s ≤ t, cioè E^P(ΔX_t|ℱ_s) ≤ 0
+- dX = adt + bdW_t, con dX ~ N(adt, b√dt)
+- lim_{‖Π‖→0} ∑_{k=0}^{n-1} |W_{t_{k+1}} - W_{t_k}|² = T
+
+**D:** ⚠️ Di quali altre due classi di processi fa parte ogni martingala, secondo il teorema della lezione 06?
+**R:** «Ogni martingala è **contemporaneamente** una supermartingala e una submartingala» (slide 25). Il docente: «Ogni martingala è ed è evidentemente contemporaneamente sia una super che una sub martingala» ([00:26:23]). L'uguaglianza della (30) soddisfa sia la ≤ della (33) sia la ≥ della (35). ⚠️ Il teorema va dalla martingala alle altre due classi, non dalla supermartingala o dalla submartingala alla martingala.
+**Opzione:** Ogni martingala è contemporaneamente una supermartingala e una submartingala.
+**Distrattori:**
+- Ogni supermartingala è contemporaneamente una martingala e una submartingala.
+- σ(X) ≐ {X^(-1)(E) : E ∈ 𝔹}: le controimmagini di X degli insiemi di Borel; è una σ-algebra su Ω.
+- Per la sub 3) E(W_t - W_s|ℱ_s^W) = E(W_t - W_s); per la sub 2) questo termine si annulla; infine E(W_s|ℱ_s^W) = W_s perché il moto browniano al tempo s è adattato a ℱ_s^W.
+
+**D:** ⚠️ Se {X_t}_{t∈[0,∞)} è una supermartingala, che cosa si può dire di {-X_t}_{t∈[0,∞)}, secondo il teorema della lezione 06?
+**R:** «Se {X_t}_{t∈[0,∞)} è una supermartingala allora **{-X_t}_{t∈[0,∞)} è una submartingala e viceversa**» (slide 25; [00:26:35]–[00:26:44]). Cambiando segno al processo, la ≤ della (33) diventa la ≥ della (35).
+**Opzione:** {-X_t}_{t∈[0,∞)} è una submartingala, e viceversa.
+**Distrattori:**
+- {-X_t}_{t∈[0,∞)} è anch'essa una supermartingala, e viceversa.
+- Il termine sinistro della (40) è pari al valore atteso non condizionato di X_t: E^P[E^P(X_t|ℱ_s)] = E^P(X_t).
+- Gli elementi della σ-algebra di Borel 𝔹 coincidono con i sottoinsiemi aperti di ℝ e sono detti insiemi di Borel.
+
+**D:** ⚠️ Come si comporta nel tempo il valore atteso di una martingala, di una supermartingala e di una submartingala, secondo la proposizione della lezione 06?
+**R:** «Il valore atteso di: una martingala è **costante**, i.e.: E^P(X_t) = E^P(X_s) (37); una supermartingala è **non crescente**, i.e.: E^P(X_t) ≤ E^P(X_s) (38); una submartingala è **non decrescente**, i.e.: E^P(X_t) ≥ E^P(X_s) (39)», tutte ∀0 ≤ s < t < ∞ (slide 25). ⚠️ Il transcript fa dire al docente «Per una sub-martingala è non crescente, per una sub-martingala è non decrescente» ([00:26:54]): la prima è la **super**martingala, come nella slide.
+**Opzione:** Costante per la martingala, non crescente per la supermartingala, non decrescente per la submartingala.
+**Distrattori:**
+- Costante per la martingala, non decrescente per la supermartingala, non crescente per la submartingala.
+- ∀ω ∈ Ω, le funzioni X_t che portano da T in ℕ o da T in ℝ: i valori di X_t al variare di t.
+- s ≤ t ⇒ ℱ_s^W ⊆ ℱ_t^W; W_t è ℱ_t^W-misurabile per ogni t; per t ≤ t_1 ≤ ... ≤ t_n gli incrementi W_{t_1} - W_t, W_{t_2} - W_{t_1}, ..., W_{t_1} - W_{t_{n-1}} sono indipendenti da ℱ_t^W.
+
+**D:** ⚠️ Nella dimostrazione della (37), dopo aver calcolato il valore atteso di ambo i termini della (30), quale passaggio porta al risultato, secondo la lezione 06?
+**R:** «Si calcola il valore atteso di ambo i termini della 30, i.e.: E^P[E^P(X_t|ℱ_s)] = E^P(X_s) ∀0 ≤ s < t < ∞ (40) e si osserva che, per una nota proprietà del valore atteso condizionato, il termine sinistro della 40 è pari al **valore atteso non condizionato di X_t** i.e.: **E^P[E^P(X_t|ℱ_s)] = E^P(X_t)** (41). Sostituendo il termine destro della 41 al termine sinistro della 40, si ottiene la 37» (slide 26; [00:27:04]–[00:27:40]); «La dimostrazione della 38 e della 39 è del tutto analoga». La slide non nomina la proprietà: è quella che la lezione 02 scrive E[E(X|Y)] = E(X) (deck 02, slide 15).
+**Opzione:** Il termine sinistro della (40) è pari al valore atteso non condizionato di X_t: E^P[E^P(X_t|ℱ_s)] = E^P(X_t).
+**Distrattori:**
+- Il termine sinistro della (40) è pari a X_t stesso: E^P[E^P(X_t|ℱ_s)] = X_t.
+- Esiste un'unica variabile aleatoria non negativa Λ : (Ω, 𝒜) → (ℝ, 𝔹) tale che ∀A ∈ 𝒜 si ha ∫_A dP = ∫_A Λ dP̃.
+- Continuo se T è un intervallo di ℝ, discreto se T è un sottoinsieme di ℕ.
+
+**D:** ⚠️ Che cosa si definisce ℳ_2^c, secondo la lezione 06?
+**R:** «Si definisce ℳ_2^c la classe dei processi stocastici **square-integrable** con **valore iniziale nullo**, i.e. tali che: **X_0 = 0**» (slide 27; [00:27:55], dove la trascrizione scrive «M2C»). Square-integrable è una martingala continua con E^P(X_t²) < ∞ ∀t ≥ 0 (42, slide 27).
+**Opzione:** La classe dei processi stocastici square-integrable con valore iniziale nullo, i.e. tali che X_0 = 0.
+**Distrattori:**
+- La classe dei processi stocastici square-integrable con valore iniziale unitario, i.e. tali che X_0 = 1.
+- Se è misurabile rispetto alla σ-algebra prodotto 𝔹|_{[0,t)} × ℱ_{t-}, con ℱ_{t-} la σ-algebra generata dall'insieme dei processi adattati e continui da sinistra.
+- Costante per la martingala, non crescente per la supermartingala, non decrescente per la submartingala.
+
+**D:** ⚠️ Di quali cinque proprietà gode il moto browniano standard {W_t}_{t∈[0,∞)}, secondo la definizione della lezione 06?
+**R:** «Si definisce **moto Browniano standard** o semplicemente moto Browniano il processo stocastico definito su uno spazio di probabilità (Ω, 𝒜, P) e denotato con {W_t}_{t∈[0,∞)} che gode delle seguenti proprietà: ❶ **W_0 = 0**; ❷ **(W_t - W_s) ~ N(0, (t - s))**; ❸ (W_{t_2} - W_{t_1}) é **indipendente** da (W_{t_3} - W_{t_2}) ove [t_2 - t_1) e [t_3 - t_2) sono due intervalli non sovrapposti; ❹ **proprietà di Markov**, ossia: P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x); ❺ è una **funzione continua nel tempo**, ossia, fissato un qualsiasi ω, si ha {W_t}_{t∈[0,∞)} per t ≥ 0 ove W_t é continuo ossia: P((ω) ove t ⟶ W_t(ω) é continuo) = 1» (slide 28; [00:28:10]–[00:29:29]). ⚠️ Nella ❷ il secondo parametro della normale è la **varianza**, t - s: lo conferma la slide 29, «varianza t».
+**Opzione:** W_0 = 0; (W_t - W_s) ~ N(0, (t - s)); (W_{t_2} - W_{t_1}) é indipendente da (W_{t_3} - W_{t_2}) ove [t_2 - t_1) e [t_3 - t_2) sono due intervalli non sovrapposti; proprietà di Markov, P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x); è una funzione continua nel tempo.
+**Distrattori:**
+- W_0 = 0; (W_t - W_s) ~ N(0, (t + s)); (W_{t_2} - W_{t_1}) é indipendente da (W_{t_3} - W_{t_2}) ove [t_2 - t_1) e [t_3 - t_2) sono due intervalli non sovrapposti; proprietà di Markov, P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x); è una funzione continua nel tempo.
+- Per la sub 3) E(W_t - W_s|ℱ_s^W) = E(W_t - W_s); per la sub 2) questo termine si annulla; infine E(W_s|ℱ_s^W) = W_s perché il moto browniano al tempo s è adattato a ℱ_s^W.
+- E^P(X_t - X_s|ℱ_s) = E^P(ΔX_t|ℱ_s) = 0, ∀0 ≤ s < t < ∞
+
+**D:** ⚠️ Come è distribuito il moto browniano standard al generico tempo t, secondo la proposizione della lezione 06?
+**R:** «In base alle proprietà 1 e 2 della definizione di moto Browniano standard valgono le seguenti relazioni: (W_t - W_0) = (W_t - 0) = W_t e **W_t ~ N(0, t)**. In altri termini il moto Browniano standard considerato al generico tempo t è distribuito secondo una legge di probabilità **Normale di valore atteso nullo e varianza t**» (slide 29; [00:29:29]). ⚠️ Qui il secondo parametro di N è la **varianza**; nella slide 37 il processo di Wiener è invece scritto con la deviazione standard, dW_t ~ N(0, √dt), e su quella formula verte la domanda 5 del test.
+**Opzione:** W_t ~ N(0, t): una Normale di valore atteso nullo e varianza t.
+**Distrattori:**
+- W_t ~ N(t, 0): una Normale di valore atteso t e varianza nulla.
+- P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x)
+- E(W_t|ℱ_s^W) = W_s, per ogni 0 ≤ s < t
+
+**D:** ⚠️ Come si scrive la proprietà di Markov del moto browniano standard, secondo la lezione 06?
+**R:** «❹ **proprietà di Markov**, ossia: **P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x)**» (slide 28; [00:28:43]). Conoscere anche il valore precedente, W_{t-1} = y, non cambia la probabilità condizionata al valore presente W_t = x. Nella dimostrazione della (44) il docente parla di «strong mark of property, cioè la circostanza che il futuro sia basato solo sul presente» ([00:32:20]; la slide 34 scrive «strong Markov Property»).
+**Opzione:** P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_t = x)
+**Distrattori:**
+- P(W_{s+t} ∈ c | W_t = x, W_{t-1} = y) = P(W_{s+t} ∈ c | W_{t-1} = y)
+- E(W_t|ℱ_s^W) = W_s, per ogni 0 ≤ s < t
+- ΔW_t ≜ ε√Δt e, per s → 0, dW_t ≜ ε√dt, ove ε ~ N(0,1).
+
+**D:** ⚠️ Quali tre proprietà della filtrazione naturale {ℱ_t^W}_{t∈[0,∞)} del moto browniano standard elenca il corollario della lezione 06?
+**R:** «Valgono le seguenti proprietà: 1. **s ≤ t ⇒ ℱ_s^W ⊆ ℱ_t^W**; 2. **W_t è ℱ_t^W-misurabile** per ogni t; 3. per t ≤ t_1 ≤ ... ≤ t_n, gli incrementi W_{t_1} - W_t, W_{t_2} - W_{t_1}, ..., W_{t_1} - W_{t_{n-1}} sono **indipendenti da ℱ_t^W**» (slide 31; [00:30:24]–[00:30:52]). ℱ_t^W = σ(W_s, 0 ≤ s ≤ t), e la filtrazione naturale si denota anche 𝔽^W (slide 30–31). L'ultimo incremento, W_{t_1} - W_{t_{n-1}}, è con ogni probabilità un refuso della slide per W_{t_n} - W_{t_{n-1}}, e il docente lo legge com'è.
+**Opzione:** s ≤ t ⇒ ℱ_s^W ⊆ ℱ_t^W; W_t è ℱ_t^W-misurabile per ogni t; per t ≤ t_1 ≤ ... ≤ t_n gli incrementi W_{t_1} - W_t, W_{t_2} - W_{t_1}, ..., W_{t_1} - W_{t_{n-1}} sono indipendenti da ℱ_t^W.
+**Distrattori:**
+- s ≤ t ⇒ ℱ_t^W ⊆ ℱ_s^W; W_t è ℱ_t^W-misurabile per ogni t; per t ≤ t_1 ≤ ... ≤ t_n gli incrementi W_{t_1} - W_t, W_{t_2} - W_{t_1}, ..., W_{t_1} - W_{t_{n-1}} sono indipendenti da ℱ_t^W.
+- E^P(|X_t|) < ∞ ∀t e E^P(X_t|ℱ_s) = X_s ∀s ≤ t
+- dX~N(0,dt^(1/2))
+
+**D:** ⚠️ A che cosa tende la somma dei quadrati degli incrementi del moto browniano su una partizione Π di [0, T], quando ‖Π‖ → 0, secondo il teorema della lezione 06?
+**R:** «Sia Π = {t_0, t_1, t_2, t_3, t_4, ..., t_n} una partizione dell'intervallo [0, T] e sia: ‖Π‖ = max_{k=0,1,2,...,n} (t_{k+1} - t_k). Allora vale il seguente limite: **lim_{‖Π‖→0} ∑_{k=0}^{n-1} |W_{t_{k+1}} - W_{t_k}|² = T** (43)» (slide 32; [00:30:52]–[00:31:18]). Il docente legge «è uguale a t».
+**Opzione:** lim_{‖Π‖→0} ∑_{k=0}^{n-1} |W_{t_{k+1}} - W_{t_k}|² = T
+**Distrattori:**
+- lim_{‖Π‖→0} ∑_{k=0}^{n-1} |W_{t_{k+1}} - W_{t_k}|² = 0
+- dX = adt + bdW_t, con dX ~ N(adt, b√dt)
+- W_t ~ N(0, t): una Normale di valore atteso nullo e varianza t.
+
+**D:** ⚠️ Che cosa afferma il teorema della lezione 06 sul processo differenziale di due moti browniani B_s?
+**R:** «Il processo differenziale di due moti browniani, i.e. **B_s ≜ W_{t+s} - W_t = ΔW_t** ove 0 ≤ s ≤ ∞ (44) é **anch'esso un moto browniano**» (slide 32; [00:31:18]). La dimostrazione verifica le **5 proprietà** caratterizzanti del moto browniano (slide 33–34): B_0 = W_t - W_t = 0; B_R - B_S = W_{t+R} - W_{t+S} ~ N(0, (R - S)), perché la differenza di variabili normali è normale, con valore atteso nullo e Var = (R + t) - (t + S) = R - S; l'indipendenza su intervalli non sovrapposti; la strong Markov Property; la continuità, perché la differenza di due variabili casuali continue è ancora continua ([00:31:26]–[00:32:54]).
+**Opzione:** B_s ≜ W_{t+s} - W_t = ΔW_t, con 0 ≤ s ≤ ∞, è anch'esso un moto browniano.
+**Distrattori:**
+- B_s ≜ W_{t+s} + W_t, con 0 ≤ s ≤ ∞, è anch'esso un moto browniano.
+- E^P(X_t - X_s|ℱ_s) = E^P(ΔX_t|ℱ_s) = 0, ∀0 ≤ s < t < ∞
+- Se è predictable è anche progressivamente misurabile; se è progressivamente misurabile è misurabile e adattato.
+
+**D:** ⚠️ Come si definiscono l'incremento ΔW_t (45) e il processo di Wiener dW_t, secondo la lezione 06?
+**R:** «Il processo ΔW_t può essere definito come segue: **W_{t+s} - W_t = ΔW_t ≜ ε√Δt** (45) ove **ε ~ N(0,1)**» (slide 35; [00:32:54]). «Per **s → 0** nell'equazione 45 si ha che ΔW_t → dW_t e, quindi, si può definire nel continuo il c.d. **processo di Wiener**: **dW_t ≜ ε√dt**» (slide 37; [00:33:44]).
+**Opzione:** ΔW_t ≜ ε√Δt e, per s → 0, dW_t ≜ ε√dt, ove ε ~ N(0,1).
+**Distrattori:**
+- ΔW_t ≜ ε√Δt e, per s → ∞, dW_t ≜ ε√dt, ove ε ~ N(0,1).
+- E^P(X²_t) < ∞ ∀ t ≥ 0
+- X_t := ∑_{j=0}^{n-1} a_j(ω) · 𝟙_{(t_j,t_{j+1}]}, con a_j(ω) ℱ_{t_j}-misurabile a valori in [-K, K]: un processo limitato e continuo da sinistra.
+
+**D:** ⚠️ Che cosa afferma la (46) sul moto browniano standard rispetto alla propria filtrazione naturale, secondo la lezione 06?
+**R:** «Il moto browniano standard è una **Martingala** rispetto alla propria filtrazione naturale {ℱ_t^W}_{t∈[0,∞)}, i.e. per ogni 0 ≤ s < t: **E(W_t|ℱ_s^W) = W_s** (46)» (slide 35; [00:33:10]).
+**Opzione:** E(W_t|ℱ_s^W) = W_s, per ogni 0 ≤ s < t
+**Distrattori:**
+- E(W_s|ℱ_t^W) = W_t, per ogni 0 ≤ s < t
+- dX~N(0,dt^(1/2))
+- X_t := ∑_{j=0}^{n-1} a_j(ω) · 𝟙_{(t_j,t_{j+1}]}, con a_j(ω) ℱ_{t_j}-misurabile a valori in [-K, K]: un processo limitato e continuo da sinistra.
+
+**D:** ⚠️ Nella dimostrazione della (46), a che cosa servono le proprietà sub 3) e sub 2) della definizione di moto browniano standard, secondo la lezione 06?
+**R:** «Per 0 ≤ s ≤ t si ha: E(W_t|ℱ_s^W) = E((W_t - W_s) + W_s|ℱ_s^W) = E(W_t - W_s|ℱ_s^W) + E(W_s|ℱ_s^W) per la proprietà **sub 3)** di cui alla Definizione di moto Browniano standard si ha: = **E(W_t - W_s)** + E(W_s|ℱ_s^W) per la proprietà **sub 2)** di cui alla Definizione di moto Browniano standard si ha: = E(W_s|ℱ_s^W) dato che il moto browniano al generico tempo s è **adattato** rispetto a ℱ_s^W si ha: = W_s» (slide 36; [00:33:24]–[00:33:44]). La sub 3) è l'indipendenza degli incrementi, la sub 2) la legge normale di valore atteso nullo dell'incremento.
+**Opzione:** Per la sub 3) E(W_t - W_s|ℱ_s^W) = E(W_t - W_s); per la sub 2) questo termine si annulla; infine E(W_s|ℱ_s^W) = W_s perché il moto browniano al tempo s è adattato a ℱ_s^W.
+**Distrattori:**
+- Per la sub 2) E(W_t - W_s|ℱ_s^W) = E(W_t - W_s); per la sub 3) questo termine si annulla; infine E(W_s|ℱ_s^W) = W_s perché il moto browniano al tempo s è adattato a ℱ_s^W.
+- E^P(|X_t|) < ∞ ∀t e E^P(X_t|ℱ_s) = X_s ∀s ≤ t
+
+**D:** ⚠️ Come si definisce il processo di Wiener generalizzato, e quale funzione di densità di probabilità ha, secondo la lezione 06?
+**R:** «Il processo: **dX = adt + bdW_t** (47) è detto **processo di Wiener generalizzato** ed ha la seguente funzione di densità di probabilità: **dX ~ N(adt, b√dt)**» (slide 37). Il docente: «dx è normale con media a dt e standard deviation b radice quadrata dt» ([00:34:00]–[00:34:11]). ⚠️ a moltiplica dt e dà la media, b moltiplica dW_t e dà la deviazione standard.
+**Opzione:** dX = adt + bdW_t, con dX ~ N(adt, b√dt)
+**Distrattori:**
+- dX = adt + bdW_t, con dX ~ N(bdt, a√dt)
+- B_s ≜ W_{t+s} - W_t = ΔW_t, con 0 ≤ s ≤ ∞, è anch'esso un moto browniano.
+- Esiste un'unica variabile aleatoria non negativa Λ : (Ω, 𝒜) → (ℝ, 𝔹) tale che ∀A ∈ 𝒜 si ha ∫_A dP = ∫_A Λ dP̃.
+
+**D:** ⚠️ Come si scrive che il valore atteso di una martingala è costante, secondo il test della lezione 06 (domanda 1)?
+**R:** «**E^P(X_t)=E^P(X_s) ∀ 0 < s< t< ∞**», la chiave della piattaforma: è la (37) della slide 25, «Il valore atteso di una martingala è costante, i.e.: E^P(X_t) = E^P(X_s) ∀0 ≤ s < t < ∞» ([00:26:44]–[00:26:48]). ⚠️ Le domande 1, 2 e 3 hanno la **stessa batteria** e vanno studiate insieme: l'uguaglianza, le disuguaglianze e la variante con **Y_t** al posto di X_t, e la chiave di una è il distrattore delle altre. Qui sono false le disuguaglianze strette «<» e «>», che invertono il segno, e «E^P(Y_t) = E^P(X_s)», che scambia l'oggetto e non esiste nei materiali: nella lezione Y è solo la variabile aleatoria della proposizione (14)–(16). La piattaforma scrive «0 < s» dove la slide ha «0 ≤ s», in tutte le opzioni.
+**Opzione:** E^P(X_t)=E^P(X_s) ∀ 0 < s< t< ∞
+**Distrattori:**
+- E^P(X_t) < E^P(X_s)∀ 0 < s < t < ∞
+- E^P(X_t) > E^P(X_s)∀ 0 < s < t < ∞
+- E^P(Y_t) = E^P(X_s)∀ 0 < s < t < ∞
+
+**D:** ⚠️ Come si scrive che il valore atteso di una supermartingala è non crescente, secondo il test della lezione 06 (domanda 2)?
+**R:** «**E^P(X_t) ≤ E^P(X_s)∀ 0 < s < t < ∞**», la (38) della slide 25: «una supermartingala è non crescente, i.e.: E^P(X_t) ≤ E^P(X_s)». ⚠️ «Non crescente» vuol dire che il valore atteso al tempo successivo t non supera quello al tempo s. L'uguaglianza è la chiave della domanda 1, cioè la martingala; «>» inverte il segno; «E^P(Y_t)=E^P(X_s)» scambia l'oggetto. Il transcript fa dire al docente «Per una sub-martingala è non crescente» ([00:26:54]): vale la slide, è la **super**martingala.
+**Opzione:** E^P(X_t) ≤ E^P(X_s)∀ 0 < s < t < ∞
+**Distrattori:**
+- E^P(X_t)=E^P(X_s) ∀ 0 < s< t< ∞
+- E^P(X_t) > E^P(X_s)∀ 0 < s < t < ∞
+- E^P(Y_t)=E^P(X_s) ∀ 0 < s< t< ∞
+
+**D:** ⚠️ Come si scrive che il valore atteso di una submartingala è non decrescente, secondo il test della lezione 06 (domanda 3)?
+**R:** «**E^P(X_t) ≥ E^P(X_s) ∀ 0 < s< t< ∞**», la (39) della slide 25: «una submartingala è non decrescente, i.e.: E^P(X_t) ≥ E^P(X_s)» ([00:26:54]). Distrattori: l'uguaglianza della martingala (domanda 1), la disuguaglianza stretta «<», che inverte il segno, e la variante con Y_t. ⚠️ Nella domanda 2 la chiave era «≤»: chi ricorda solo che c'è una disuguaglianza, senza il verso, sbaglia una delle due.
+**Opzione:** E^P(X_t) ≥ E^P(X_s) ∀ 0 < s< t< ∞
+**Distrattori:**
+- E^P(X_t)=E^P(X_s) ∀ 0 < s< t< ∞
+- E^P(X_t) < E^P(X_s)∀ 0 < s < t < ∞
+- E^P(Y_t)=E^P(X_s) ∀ 0 < s< t< ∞
+
+**D:** ⚠️ Quando un processo stocastico è detto square-integrable, secondo il test della lezione 06 (domanda 4)?
+**R:** «**E^P(X²_t) < ∞ ∀ t ≥ 0**», la (42) della slide 27: «Se un processo stocastico {X_t}_{t∈[0,∞)} è una martingala continua tale che: E^P(X_t²) < ∞ ∀t ≥ 0 esso è detto square-integrable» ([00:27:40]). La domanda tace che il processo dev'essere una **martingala continua**. ⚠️ «E^P(X_t) < ∞ ∀ t ≥ 0» non è la square-integrability: ricorda la condizione di **integrabilità** della martingala, E^P(|X_t|) < ∞ ∀t (29, slide 21), senza il valore assoluto e con il «∀ t ≥ 0» della (42). Le due disuguaglianze fra valori attesi vengono dalla batteria delle domande 1–3. La «≤» e la «E^P(X_t) < ∞» sono soddisfatte da una martingala square-integrable, ma non la definiscono.
+**Opzione:** E^P(X²_t) < ∞ ∀ t ≥ 0
+**Distrattori:**
+- E^P(X_t) < E^P(X_s)∀ 0 < s < t < ∞
+- E^P(X_t) ≤ E^P(X_s)∀ 0 < s < t < ∞
+- E^P(X_t) < ∞ ∀ t ≥ 0
+
+**D:** ⚠️ Quale funzione di densità di probabilità ha il processo di Wiener, secondo il test della lezione 06 (domanda 5)?
+**R:** «**dX~N(0,dt^(1/2))**», la chiave della piattaforma: è la formula della slide 37, «processo di Wiener: dW_t ≜ ε√dt che ha la seguente funzione di densità di probabilità: dW_t ~ N(0, √dt)», con dX al posto di dW_t e l'esponente 1/2 al posto della radice. Qui il secondo parametro della normale è la **deviazione standard**: il docente dice «dVt è normale 0 radice quadrata di Δt» e, del processo generalizzato, «normale con media a dt e standard deviation b radice quadrata dt» ([00:33:55]–[00:34:11]). ⚠️ «dX~N(0,dt)» è la trappola della **convenzione**: le slide 28–29 dello stesso deck scrivono la normale con la **varianza**, (W_t - W_s) ~ N(0, (t - s)) e W_t ~ N(0, t), «Normale di valore atteso nullo e varianza t», e in quella notazione l'incremento dW_t sarebbe N(0, dt). La domanda riprende però la slide 37, quindi all'esame si segna la D. ℹ️ Integrazione (non dai materiali del corso): nei manuali la normale si scrive di solito N(μ, σ²), con la varianza, e in quella notazione la forma corrente è N(0, dt). «dX~Y(10,dt^(1/2))», con «Y» al posto di N e media 10, e «dX~N(1,dt^(1/2))», con media 1, non esistono nei materiali.
+**Opzione:** dX~N(0,dt^(1/2))
+**Distrattori:**
+- dX~Y(10,dt^(1/2))
+- dX~N(0,dt)
+- dX~N(1,dt^(1/2))
+
+## Lezione 07 — Processi Stocastici 2 – Teoremi fondamentali
+
+**D:** ⚠️ Quali tre condizioni definiscono la classe 𝒱(0,T) dei processi stocastici ϑ_t(ω): [0,T] × Ω → ℝ, secondo la lezione 07?
+**R:** Slide 2: ϑ_t(ω) «è 𝔹|_{[0,T]} × 𝒜-misurabile», con 𝔹|_{[0,T]} la σ-algebra di Borel ristretta a [0,T] e 𝒜 la σ-algebra dello spazio di probabilità (Ω, 𝒜, P) su cui è definito il moto browniano standard; «è ℱ^W_t-misurabile ovvero […] è **adattato** rispetto a {ℱ^W_t}, cioè alla filtrazione naturale generata dal moto Browniano standard»; «appartiene allo spazio dei processi **L²[0,T]** (cfr. equazione 24) e quindi soddisfa» **E[∫_0^T [ϑ_t(ω)]² dt] < ∞** (48). L'equazione 24 è del deck 06 ([00:00:13]–[00:01:24]). ⚠️ Dentro l'integrale c'è il **quadrato** di ϑ_t.
+**Opzione:** ϑ_t(ω) è 𝔹|_{[0,T]} × 𝒜-misurabile; è ℱ^W_t-misurabile, cioè adattato alla filtrazione naturale generata dal moto browniano standard; appartiene allo spazio dei processi L²[0,T] e quindi E[∫_0^T [ϑ_t(ω)]² dt] < ∞.
+**Distrattori:**
+- ϑ_t(ω) è 𝔹|_{[0,T]} × 𝒜-misurabile; è ℱ^W_t-misurabile, cioè adattato alla filtrazione naturale generata dal moto browniano standard; appartiene allo spazio dei processi L²[0,T] e quindi E[∫_0^T ϑ_t(ω) dt] < ∞.
+- Derivata prima rispetto a t continua e derivate prima e seconda rispetto a X_t continue; allora Y_t = g(t,X_t) è ancora un processo di Itô.
+- Possono essere processi stocastici o deterministici; se sono stocastici, una forma che possono assumere è u_t = μ(t,X_t) e v_t = σ(t,X_t), cioè dX_t = μ(t,X_t) dt + σ(t,X_t) dW_t.
+
+**D:** ⚠️ Come si definisce l'integrale stocastico I_T(X) di un processo stocastico semplice X_t, secondo la lezione 07?
+**R:** Slide 3: «Sia X_t un processo stocastico semplice (cfr. equazioni 25, 26 e 27). Allora si definisce **integrale stocastico di X_t** e si denota con I_t(X) la variabile aleatoria così definita: **I_T(X)(ω) ≡ ∫_0^T X_s(ω) dW_s := ∑_{j=0}^{n-1} a_j(ω)(W_{t_{j+1}} - W_{t_j})**» (49). Il docente: «nel caso di processo stocastico discreto» ([00:01:24]–[00:01:57]). ⚠️ Si sommano gli incrementi del **moto browniano**, non del tempo; le equazioni 25–27 sono del deck 06.
+**Opzione:** I_T(X)(ω) ≡ ∫_0^T X_s(ω) dW_s := ∑_{j=0}^{n-1} a_j(ω)(W_{t_{j+1}} - W_{t_j})
+**Distrattori:**
+- I_T(X)(ω) ≡ ∫_0^T X_s(ω) dW_s := ∑_{j=0}^{n-1} a_j(ω)(t_{j+1} - t_j)
+- E^Q(X | ℱ^W_s) = E^P(X Z∗_t | ℱ^W_s)/Z∗_s
+- dY_t = ∂/∂t g(t,X_t) dt + ∂/∂x g(t,X_t) dX_t + (1/2) ∂²/∂x² g(t,X_t) (dX_t)²
+
+**D:** ⚠️ Che cosa garantisce, per un processo ϑ_t della classe 𝒱(0,T), il teorema di approssimazione con processi semplici della lezione 07 (formula 50)?
+**R:** Slide 3: «Sia ϑ_t un processo stocastico appartenente alla classe 𝒱(0,T). Allora esiste una successione di processi stocastici semplici {X^n_t}_{n∈ℕ} tale che per ogni 0 ≤ T < ∞ si ha: **lim_{n→+∞} E[∫_0^T (X^n_t(ω) - ϑ_t(ω))² dt] = 0**» (50) ([00:01:57]–[00:02:29]). Il teorema della slide 4 aggiunge che anche gli integrali di Itô convergono: lim_{n→+∞} E[(I_T(X^n)(ω) - I_T(ϑ)(ω))²] = 0 (51) ([00:02:29]–[00:03:19]).
+**Opzione:** Esiste una successione di processi stocastici semplici {X^n_t}_{n∈ℕ} tale che per ogni 0 ≤ T < ∞ si ha lim_{n→+∞} E[∫_0^T (X^n_t(ω) - ϑ_t(ω))² dt] = 0.
+**Distrattori:**
+- Esiste una successione di processi stocastici semplici {X^n_t}_{n∈ℕ} tale che per ogni 0 ≤ T < ∞ si ha lim_{n→+∞} E[∫_0^T (X^n_t(ω) + ϑ_t(ω))² dt] = 0.
+- Esistono una costante X_0 = x ∈ ℝ e un processo ϑ_t progressivamente misurabile, con E^P(∫_0^t ϑ_s² ds) < ∞, tali che X_t = x + ∫_0^t ϑ_s dW_s, ossia dX_t = ϑ_t dW_t con X_0 = x.
+- Q è una misura di probabilità equivalente a P sullo spazio misurabile (Ω, ℱ^W_T), e sotto Q il processo W̃_t = W_t - ∫_0^t ϑ_s ds è un moto browniano standard.
+
+**D:** ⚠️ Come si definisce l'integrale di Itô I_T(ϑ) di un processo ϑ_t della classe 𝒱(0,T), secondo la lezione 07?
+**R:** Slide 5: «Siano ϑ_t un processo appartenente alla classe 𝒱(0,T) e {X^n_t}_{n∈ℕ} una successione di processi semplici che approssima ϑ_t nel senso della 50. Allora l'**integrale di Itô** del processo ϑ_t è definito come: **I_T(ϑ)(ω) ≡ ∫_0^T ϑ_s(ω) dW_s := lim_{n→+∞} ∫_0^T X^n_s(ω) dW_s**, per ogni 0 ≤ T < ∞» (52). La nota la generalizza a estremi s e t, con 0 ≤ s ≤ t ≤ T (53). Il docente: «il limite per n che tende all'infinito dell'integrale tra 0 e t grande di x in DWS» ([00:03:19]–[00:04:08]).
+**Opzione:** I_T(ϑ)(ω) ≡ ∫_0^T ϑ_s(ω) dW_s := lim_{n→+∞} ∫_0^T X^n_s(ω) dW_s, per ogni 0 ≤ T < ∞, dove {X^n_t} è una successione di processi semplici che approssima ϑ_t nel senso della 50.
+**Distrattori:**
+- I_T(ϑ)(ω) ≡ ∫_0^T ϑ_s(ω) dW_s := lim_{n→+∞} ∫_0^T X^n_s(ω) ds, per ogni 0 ≤ T < ∞, dove {X^n_t} è una successione di processi semplici che approssima ϑ_t nel senso della 50.
+- X_t = X_s + ∫_s^t u_h dh + ∫_s^t v_h dW_h, 0 ≤ s ≤ t ≤ T < ∞, dove X_s è detto condizione iniziale.
+- La derivata di Radon-Nikodym della misura di probabilità Q rispetto alla misura di probabilità equivalente P su ℱ^W_t: Z∗_t = dQ/dP|_{ℱ^W_t}.
+
+**D:** ⚠️ Rispetto a quale filtrazione ogni integrale stocastico è una martingala, e con quale formula, secondo la lezione 07?
+**R:** Slide 5: «Ogni integrale stocastico è una martingala rispetto alla **filtrazione naturale del moto browniano standard** 𝔽^W = {ℱ^W_t}, ossia, posto: 0 ≤ s ≤ t ≤ t′ ≤ T, si ha: **E[∫_s^{t′} ϑ_u(ω) dW_u | ℱ^W_t] = ∫_s^t ϑ_u(ω) dW_u**» (54). Il docente: «e questo si recupera attraverso la relazione 54» ([00:04:08]). ⚠️ Condizionando a ℱ^W_t, l'integrale fino a t′ ha per valore atteso l'integrale fino a **t**.
+**Opzione:** Rispetto alla filtrazione naturale del moto browniano standard: E[∫_s^{t′} ϑ_u(ω) dW_u | ℱ^W_t] = ∫_s^t ϑ_u(ω) dW_u, con 0 ≤ s ≤ t ≤ t′ ≤ T.
+**Distrattori:**
+- Rispetto alla filtrazione naturale del moto browniano standard: E[∫_s^{t′} ϑ_u(ω) dW_u | ℱ^W_t] = ∫_s^{t′} ϑ_u(ω) dW_u, con 0 ≤ s ≤ t ≤ t′ ≤ T.
+- dX_t = β_t dt + σ_t dW̃_t, con β_t = μ_t + ϑ_t σ_t
+- X_t/X_s ~ LogN(e^(a(t-s)), e^(a(t-s)) · (e^(b²(t-s)) - 1))
+
+**D:** ⚠️ Quanto valgono (dW_t)², dt · dt e dW_t · dt per un moto browniano standard W_t, secondo la proposizione della lezione 07 sull'algebra di Itô?
+**R:** Slide 6: «Siano W_t e Z_t due moti browniani standard, allora si ha: **(dW_t)² = dt** (55); **dt · dt = (dt)²** (56); **dW_t · dt = √dt · dt = (dt)^(3/2)** (57)», con la radice scritta con l'indice 2. ⚠️ Il docente dice «dV dt è uguale a dt quadro» ([00:04:23]), ma subito dopo cita «di t tre mezzi» ([00:04:37]): vale la slide. Sono le tre chiavi delle domande 1–3 del test, che hanno lo stesso testo.
+**Opzione:** (dW_t)² = dt; dt · dt = (dt)²; dW_t · dt = √dt · dt = (dt)^(3/2)
+**Distrattori:**
+- (dW_t)² = dt; dt · dt = (dt)²; dW_t · dt = (dt)²
+- E(X_t | X_t ≤ X^ϰ) = (1/ϰ) x e^(a(t-s)) Φ(Φ^(-1)(ϰ) - b√(t-s))
+- Z∗_0 = 1 e E^P(Z∗_t) = 1 per ogni t ∈ [0,T]
+
+**D:** ⚠️ Quanto vale dW_t · dZ_t per due moti browniani standard W_t e Z_t, secondo la lezione 07?
+**R:** Slide 6, formula (58): «dW_t · dZ_t = **0** (indipendenza); **ρ_wz dt** (correlazione secondo un coeff. di correl. pari a: ρ_wz)». Il docente: se è 0 «abbiamo l'indipendenza», altrimenti «la correlazione» con il suo coefficiente ([00:04:37]). È l'unica riga della proposizione in cui compare Z_t.
+**Opzione:** 0 in caso di indipendenza; ρ_wz dt in caso di correlazione secondo un coefficiente di correlazione pari a ρ_wz.
+**Distrattori:**
+- ρ_wz dt in caso di indipendenza; 0 in caso di correlazione secondo un coefficiente di correlazione pari a ρ_wz.
+- d(X_t · Y_t) = Y_t · dX_t + X_t · dY_t + dY_t · dX_t, e il prodotto è ancora un processo di Itô unidimensionale.
+- Sotto certe condizioni, un ponte tra le equazioni differenziali stocastiche e le equazioni differenziali parziali.
+
+**D:** ⚠️ Che cosa dice la nota della lezione 07 su (dt)² e (dt)^(3/2) rispetto a dt?
+**R:** Slide 6, nota: «Si noti che sia (dt)² che (dt)^(3/2) hanno un **ordine di infinitesimo superiore** a dt e pertanto nelle equazioni in cui uno di essi dovesse comparire sommato algebricamente a un termine in dt, potrà essere **trascurato** e quindi considerato **pari a 0**». Il docente: «hanno un ordine di infinitesimo superiore a di t e quindi sono pari a 0» ([00:04:37]). Per questo il lemma di Itô scrive (dt)² = dt dW_t = 0 (slide 9, formula 64).
+**Opzione:** Hanno un ordine di infinitesimo superiore a dt: se compaiono sommati algebricamente a un termine in dt possono essere trascurati e considerati pari a 0.
+**Distrattori:**
+- Hanno un ordine di infinitesimo inferiore a dt: se compaiono sommati algebricamente a un termine in dt possono essere trascurati e considerati pari a 0.
+- Con il processo stocastico esponenziale Z∗_t, perché le SDE 78 e 74 hanno la stessa espressione e i due processi hanno la stessa condizione iniziale, Z∗_0 = ℰ_0(U) = 1.
+- u_t è detto drift e v_t è detto diffusione; dX_t = u_t dt + v_t dW_t si dice differenziale stocastico o equazione differenziale stocastica o SDE.
+
+**D:** ⚠️ Quali regole di moltiplicazione dei differenziali accompagnano il lemma di Itô (formula 64), secondo la lezione 07?
+**R:** Slide 9, formula (64): «**(dW_t)² = dt** e **(dt)² = dt dW_t = 0**». Il docente: «dove dv quadro è uguale a dt e dt e dt dv t sono uguali a 0» ([00:06:51]). ⚠️ Non contraddice la slide 6, dove dt · dt = (dt)² e dW_t · dt = (dt)^(3/2): per la nota della stessa slide 6 queste potenze, accanto a un termine in dt, si considerano pari a 0.
+**Opzione:** (dW_t)² = dt e (dt)² = dt dW_t = 0
+**Distrattori:**
+- (dW_t)² = 0 e (dt)² = dt dW_t = dt
+- I_T(X)(ω) ≡ ∫_0^T X_s(ω) dW_s := ∑_{j=0}^{n-1} a_j(ω)(W_{t_{j+1}} - W_{t_j})
+- Z∗_0 = 1 e E^P(Z∗_t) = 1 per ogni t ∈ [0,T]
+
+**D:** ⚠️ Come si definisce un processo di Itô X_t, e come si chiama X_s, secondo la lezione 07?
+**R:** Slide 7: «Sia {W_t} un moto browniano standard su (Ω, 𝒜, P). Si definisce **processo di Itô** il processo stocastico X_t definito su (Ω, 𝒜, P) dalla seguente equazione: **X_t = X_s + ∫_s^t u_h dh + ∫_s^t v_h dW_h**, 0 ≤ s ≤ t ≤ T < ∞ (59) ove X_s è detto **condizione iniziale**» ([00:04:59]–[00:05:22]). ⚠️ Il drift u_h si integra in dh, la diffusione v_h in dW_h.
+**Opzione:** X_t = X_s + ∫_s^t u_h dh + ∫_s^t v_h dW_h, 0 ≤ s ≤ t ≤ T < ∞, dove X_s è detto condizione iniziale.
+**Distrattori:**
+- X_t = X_s + ∫_s^t u_h dW_h + ∫_s^t v_h dh, 0 ≤ s ≤ t ≤ T < ∞, dove X_s è detto condizione iniziale.
+- L'esponenziale stocastico di U_t, cioè la soluzione della SDE dℰ_t(U) = ℰ_t(U) dU_t = ℰ_t(U) ϑ_t dW_t con la condizione iniziale ℰ_0(U) = 1.
+- P(x e^(min) ≤ X_t ≤ x e^(max)) = ϰ, con min = b z_{ϰ/2} √(t-s) + (a - b²/2)(t-s) e max = b z_{(1-ϰ/2)} √(t-s) + (a - b²/2)(t-s).
+
+**D:** ⚠️ Nel differenziale stocastico dX_t = u_t dt + v_t dW_t, come si chiamano u_t e v_t, e con quali nomi si indica la (60), secondo la lezione 07?
+**R:** Slide 7: «Sia X_t un processo di Itô. Allora si dice che X_t possiede **differenziale stocastico** o **equazione differenziale stocastica** o **SDE** dato da: dX_t = u_t dt + v_t dW_t (60) dove il termine u_t è detto **drift** e il termine v_t è detto **diffusione**». Il docente: «dove il termine u è il drift e il termine v è la diffusione» ([00:05:22]).
+**Opzione:** u_t è detto drift e v_t è detto diffusione; dX_t = u_t dt + v_t dW_t si dice differenziale stocastico o equazione differenziale stocastica o SDE.
+**Distrattori:**
+- u_t è detto diffusione e v_t è detto drift; dX_t = u_t dt + v_t dW_t si dice differenziale stocastico o equazione differenziale stocastica o SDE.
+- Hanno un ordine di infinitesimo superiore a dt: se compaiono sommati algebricamente a un termine in dt possono essere trascurati e considerati pari a 0.
+- Moto geometrico browniano a coefficienti costanti; il docente chiama la sua soluzione random walk esponenziale.
+
+**D:** ⚠️ Che natura possono avere drift e diffusione della SDE 60, e quale forma possono assumere se sono processi stocastici, secondo la nota della lezione 07?
+**R:** Slide 8, nota: «Il drift e la diffusione dell'equazione differenziale stocastica 60 possono essere **processi stocastici o processi deterministici**. Nel caso in cui siano processi stocastici una forma che possono assumere è la seguente: **u_t = μ(t,X_t)** e **v_t = σ(t,X_t)** e la corrispondente specificazione della 60 è: dX_t = μ(t,X_t) dt + σ(t,X_t) dW_t» (62) ([00:05:53]). La stessa slide definisce la soluzione del problema di Cauchy: il processo che risolve la 60 per una data condizione iniziale X_s = x (61) ([00:05:42]).
+**Opzione:** Possono essere processi stocastici o deterministici; se sono stocastici, una forma che possono assumere è u_t = μ(t,X_t) e v_t = σ(t,X_t), cioè dX_t = μ(t,X_t) dt + σ(t,X_t) dW_t.
+**Distrattori:**
+- Possono essere processi stocastici o deterministici; se sono stocastici, una forma che possono assumere è u_t = μ(t) e v_t = σ(t), cioè dX_t = μ(t) dt + σ(t) dW_t.
+- ϑ_t(ω) è 𝔹|_{[0,T]} × 𝒜-misurabile; è ℱ^W_t-misurabile, cioè adattato alla filtrazione naturale generata dal moto browniano standard; appartiene allo spazio dei processi L²[0,T] e quindi E[∫_0^T [ϑ_t(ω)]² dt] < ∞.
+- Derivata prima rispetto a t continua e derivate prima e seconda rispetto a X_t continue; allora Y_t = g(t,X_t) è ancora un processo di Itô.
+
+**D:** ⚠️ Quali ipotesi chiede il lemma di Itô sulla funzione g(t,X_t): [0,+∞) × ℝ → ℝ, e che cosa conclude su Y_t = g(t,X_t)?
+**R:** Slide 9: «Sia X_t un processo di Itô con differenziale stocastico: dX_t = u_t dt + v_t dW_t (60). Sia inoltre: g(t,X_t): [0,+∞) × ℝ → ℝ una funzione con **derivata prima rispetto a t continua** e con **derivate prima e seconda rispetto a X_t continue**. Allora il processo stocastico Y_t = g(t,X_t) è **ancora un processo di Itô**» ([00:06:21]).
+**Opzione:** Derivata prima rispetto a t continua e derivate prima e seconda rispetto a X_t continue; allora Y_t = g(t,X_t) è ancora un processo di Itô.
+**Distrattori:**
+- Derivate prima e seconda rispetto a t continue e derivata prima rispetto a X_t continua; allora Y_t = g(t,X_t) è ancora un processo di Itô.
+- Possono essere processi stocastici o deterministici; se sono stocastici, una forma che possono assumere è u_t = μ(t,X_t) e v_t = σ(t,X_t), cioè dX_t = μ(t,X_t) dt + σ(t,X_t) dW_t.
+- X_t Z∗_t è una P-martingala rispetto alla medesima filtrazione; viceversa, se X_t Z∗_t è una P-martingala, X_t è una Q-martingala.
+
+**D:** ⚠️ Qual è il differenziale stocastico dY_t di Y_t = g(t,X_t) nel lemma di Itô (formula 63)?
+**R:** Slide 9: «**dY_t = ∂/∂t g(t,X_t) dt + ∂/∂x g(t,X_t) dX_t + (1/2) ∂²/∂x² g(t,X_t) (dX_t)²**» (63). Il docente: la derivata seconda di g rispetto a x per dx quadro, «ovviamente moltiplicato per un mezzo» ([00:06:45]–[00:06:51]). ⚠️ Il terzo termine, con (dX_t)², è quello che il calcolo ordinario non ha.
+**Opzione:** dY_t = ∂/∂t g(t,X_t) dt + ∂/∂x g(t,X_t) dX_t + (1/2) ∂²/∂x² g(t,X_t) (dX_t)²
+**Distrattori:**
+- dY_t = ∂/∂t g(t,X_t) dt + ∂/∂x g(t,X_t) dX_t + ∂²/∂x² g(t,X_t) (dX_t)²
+- E^Q(X | ℱ^W_s) = E^P(X Z∗_t | ℱ^W_s)/Z∗_s
+- L'esponenziale stocastico di U_t, cioè la soluzione della SDE dℰ_t(U) = ℰ_t(U) dU_t = ℰ_t(U) ϑ_t dW_t con la condizione iniziale ℰ_0(U) = 1.
+
+**D:** ⚠️ Come si scrive il lemma di Itô in forma esplicita (formula 65), con dX_t = u_t dt + v_t dW_t?
+**R:** Slide 9: «ossia: **dY_t = [∂/∂t g(t,X_t) + ∂/∂x g(t,X_t) u_t + (1/2) ∂²/∂x² g(t,X_t) v_t²] dt + [∂/∂x g(t,X_t) v_t] dW_t**» (65). Il docente: «La relazione 63 può essere quindi riesplicitata analiticamente con la formula 65» ([00:07:06]). ⚠️ Nel termine in dt la derivata seconda moltiplica il **quadrato della diffusione** v_t², la derivata prima il drift u_t.
+**Opzione:** dY_t = [∂/∂t g(t,X_t) + ∂/∂x g(t,X_t) u_t + (1/2) ∂²/∂x² g(t,X_t) v_t²] dt + [∂/∂x g(t,X_t) v_t] dW_t
+**Distrattori:**
+- dY_t = [∂/∂t g(t,X_t) + ∂/∂x g(t,X_t) u_t + (1/2) ∂²/∂x² g(t,X_t) u_t²] dt + [∂/∂x g(t,X_t) v_t] dW_t
+- d(X_t · Y_t) = Y_t · dX_t + X_t · dY_t + dY_t · dX_t, e il prodotto è ancora un processo di Itô unidimensionale.
+- E(X_t | X_t ≤ X^ϰ) = (1/ϰ) x e^(a(t-s)) Φ(Φ^(-1)(ϰ) - b√(t-s))
+
+**D:** ⚠️ Qual è il differenziale stocastico del prodotto X_t · Y_t di due processi di Itô unidimensionali, secondo la regola di Leibniz della lezione 07?
+**R:** Slide 10: «il prodotto di questi due processi, i.e. la funzione g_t(X_t,Y_t) = X_t · Y_t, è ancora un processo di Itô unidimensionale il cui differenziale stocastico è dato da: **dg_t(X_t,Y_t) = d(X_t · Y_t) = Y_t · dX_t + X_t · dY_t + dY_t · dX_t**» (68). Il docente: «y dx più x dy più dy dx» ([00:07:14]–[00:07:48]). In forma esplicita (69), con dX_t = μ_{1,t} dt + σ_{1,t} dW_t e dY_t = μ_{2,t} dt + σ_{2,t} dW_t: (Y_t μ_{1,t} + X_t μ_{2,t} + σ_{1,t} σ_{2,t}) dt + (Y_t σ_{1,t} + X_t σ_{2,t}) dW_t. ⚠️ Il termine dY_t · dX_t manca nella regola del prodotto ordinaria.
+**Opzione:** d(X_t · Y_t) = Y_t · dX_t + X_t · dY_t + dY_t · dX_t, e il prodotto è ancora un processo di Itô unidimensionale.
+**Distrattori:**
+- d(X_t · Y_t) = Y_t · dX_t + X_t · dY_t, e il prodotto è ancora un processo di Itô unidimensionale.
+- dX_t = β_t dt + σ_t dW̃_t, con β_t = μ_t + ϑ_t σ_t
+- (dW_t)² = dt e (dt)² = dt dW_t = 0
+
+**D:** ⚠️ Che cosa afferma il teorema di rappresentazione delle martingale per una P-martingala X_t square-integrable rispetto a ℱ^W_t, secondo la lezione 07?
+**R:** Slide 11: «Allora esistono una **costante X_0 = x ∈ ℝ** e un processo stocastico {ϑ_t}, **progressivamente misurabile** rispetto a {ℱ^W_t} e con E^P(∫_0^t ϑ_s² ds) < ∞ per ogni t ∈ [0,T], tali che {X_t} ammette la seguente rappresentazione ∀t ∈ [0,T]: **X_t = x + ∫_0^t ϑ_s dW_s** (70) o, equivalentemente, in forma differenziale: **dX_t = ϑ_t dW_t**, X_0 = x (71)» ([00:07:48]–[00:08:55]). ⚠️ Nessun termine in dt: la martingala è un integrale stocastico.
+**Opzione:** Esistono una costante X_0 = x ∈ ℝ e un processo ϑ_t progressivamente misurabile, con E^P(∫_0^t ϑ_s² ds) < ∞, tali che X_t = x + ∫_0^t ϑ_s dW_s, ossia dX_t = ϑ_t dW_t con X_0 = x.
+**Distrattori:**
+- Esistono una costante X_0 = x ∈ ℝ e un processo ϑ_t progressivamente misurabile, con E^P(∫_0^t ϑ_s² ds) < ∞, tali che X_t = x + ∫_0^t ϑ_s ds, ossia dX_t = ϑ_t dt con X_0 = x.
+- Esiste una successione di processi stocastici semplici {X^n_t}_{n∈ℕ} tale che per ogni 0 ≤ T < ∞ si ha lim_{n→+∞} E[∫_0^T (X^n_t(ω) - ϑ_t(ω))² dt] = 0.
+- dX_t = aX_t dt + bX_t dW_t con X_s = x; la soluzione è X_t = x e^(b(W_t - W_s) + (a - b²/2)(t - s)), 0 ≤ s ≤ t ≤ T < ∞.
+
+**D:** ⚠️ Sotto quale condizione su ϑ_t il processo stocastico esponenziale Z∗_t è una P-martingala, e come si definisce Z∗_t, secondo la lezione 07?
+**R:** Slide 12: se ϑ_t è misurabile, adattato e tale che **E^P(e^((1/2)∫_0^T ϑ_u² du)) < ∞** (72), «il processo stocastico esponenziale {Z∗_t} definito come: **Z∗_t := e^(∫_0^t ϑ_u dW_u - (1/2)∫_0^t ϑ_u² du)** (73) è una P-martingala rispetto a {ℱ^W_t}» ([00:08:55]–[00:09:46]). Nella dimostrazione il lemma di Itô dà **dZ∗_t = Z∗_t ϑ_t dW_t** (74), che in forma integrale è un integrale stocastico: «Poichè ogni integrale stocastico è una martingala, la tesi è dimostrata» (slide 13–14; [00:09:46]–[00:10:14]).
+**Opzione:** Se E^P(e^((1/2)∫_0^T ϑ_u² du)) < ∞, il processo Z∗_t := e^(∫_0^t ϑ_u dW_u - (1/2)∫_0^t ϑ_u² du) è una P-martingala rispetto a ℱ^W_t.
+**Distrattori:**
+- Se E^P(e^((1/2)∫_0^T ϑ_u² du)) < ∞, il processo Z∗_t := e^(∫_0^t ϑ_u dW_u + (1/2)∫_0^t ϑ_u² du) è una P-martingala rispetto a ℱ^W_t.
+- v(s,x) = E[f(X_T) e^(∫_s^T g(t,X_t) dt) | X_s = x] soddisfa v′_s + μ(s,x) v′_x + (1/2) σ²(s,x) v″_{xx} + g(s,x) v(s,x) = 0, con la condizione finale lim_{s→T} v(s,x) = f(X_T).
+- I_T(ϑ)(ω) ≡ ∫_0^T ϑ_s(ω) dW_s := lim_{n→+∞} ∫_0^T X^n_s(ω) dW_s, per ogni 0 ≤ T < ∞, dove {X^n_t} è una successione di processi semplici che approssima ϑ_t nel senso della 50.
+
+**D:** ⚠️ Quanto valgono Z∗_0 e E^P(Z∗_t) per il processo stocastico esponenziale della lezione 07?
+**R:** Slide 15: «Sia {Z∗_t} il processo stocastico esponenziale di cui alla 73. Allora vale la seguente uguaglianza: **Z∗_0 = 1** (75)»; «Per ogni t ∈ [0,T] il valore atteso del processo stocastico esponenziale {Z∗_t} di cui alla 73 è pari a 1, i.e.: **E^P(Z∗_t) = 1** (76)». Il docente: «z 0 star è uguale a 1» e il valore atteso «è pari a 1» ([00:10:14]–[00:10:36]).
+**Opzione:** Z∗_0 = 1 e E^P(Z∗_t) = 1 per ogni t ∈ [0,T]
+**Distrattori:**
+- Z∗_0 = 0 e E^P(Z∗_t) = 0 per ogni t ∈ [0,T]
+- (dW_t)² = dt e (dt)² = dt dW_t = 0
+- 0 in caso di indipendenza; ρ_wz dt in caso di correlazione secondo un coefficiente di correlazione pari a ρ_wz.
+
+**D:** ⚠️ Come si definisce il Doléans Esponenziale ℰ_t(U) del processo U_t, con dU_t := ϑ_t dW_t, secondo la lezione 07?
+**R:** Slide 17: «Si definisce **Doléans Esponenziale** del processo {U_t} e si denota con la scrittura {ℰ_t(U)} l'**esponenziale stocastico** di U_t, ovvero la soluzione della seguente equazione differenziale stocastica: **dℰ_t(U) = ℰ_t(U) dU_t = ℰ_t(U) ϑ_t dW_t** (78) con la condizione iniziale: **ℰ_0(U) = 1** (79)». Il processo U_t è definito in forma differenziale, dU_t := ϑ_t dW_t (77), sotto la condizione (72) (slide 16; [00:10:36]–[00:11:37]).
+**Opzione:** L'esponenziale stocastico di U_t, cioè la soluzione della SDE dℰ_t(U) = ℰ_t(U) dU_t = ℰ_t(U) ϑ_t dW_t con la condizione iniziale ℰ_0(U) = 1.
+**Distrattori:**
+- L'esponenziale stocastico di U_t, cioè la soluzione della SDE dℰ_t(U) = ℰ_t(U) dU_t = ℰ_t(U) ϑ_t dW_t con la condizione iniziale ℰ_0(U) = 0.
+- X_t = X_s + ∫_s^t u_h dh + ∫_s^t v_h dW_h, 0 ≤ s ≤ t ≤ T < ∞, dove X_s è detto condizione iniziale.
+- Esiste una successione di processi stocastici semplici {X^n_t}_{n∈ℕ} tale che per ogni 0 ≤ T < ∞ si ha lim_{n→+∞} E[∫_0^T (X^n_t(ω) - ϑ_t(ω))² dt] = 0.
+
+**D:** ⚠️ Con quale processo coincide il Doléans Esponenziale ℰ_t(U), e su quali due fatti si fonda la dimostrazione, secondo la lezione 07?
+**R:** Slide 18–19: la SDE di ℰ_t(U), la 78, «ha la stessa espressione della SDE che governa il processo stocastico esponenziale {Z∗_t}», la 74; «Inoltre, dalla 75 e dalla 79, segue che i due processi hanno anche la stessa condizione iniziale, i.e. Z∗_0 = ℰ_0(U) = 1 e quindi coincidono». Corollari della slide 20: ℰ_t(U) = Z∗_t (81), ℰ_t(U) è una P-martingala, e E^P(ℰ_t(U)) = 1 (82). Il docente: «Il doleanz esponenziale del processo U coincide con il processo stocastico Z star di quella 73» ([00:11:55]–[00:12:53]).
+**Opzione:** Con il processo stocastico esponenziale Z∗_t, perché le SDE 78 e 74 hanno la stessa espressione e i due processi hanno la stessa condizione iniziale, Z∗_0 = ℰ_0(U) = 1.
+**Distrattori:**
+- Con il processo stocastico esponenziale Z∗_t, perché le SDE 78 e 74 hanno la stessa espressione e i due processi hanno lo stesso valore finale, Z∗_T = ℰ_T(U) = 1.
+- Hanno un ordine di infinitesimo superiore a dt: se compaiono sommati algebricamente a un termine in dt possono essere trascurati e considerati pari a 0.
+- Sotto certe condizioni, un ponte tra le equazioni differenziali stocastiche e le equazioni differenziali parziali.
+
+**D:** ⚠️ Che cosa afferma il teorema di Girsanov sulla misura Q(A) := E^P(ℰ_t(U) · 𝟙_A) e sul processo W̃_t, secondo la lezione 07?
+**R:** Slide 21: per ogni ϑ_t misurabile, adattato e che soddisfa la (72), il Doléans Esponenziale (80) «è tale che per ogni A ∈ ℱ^W_T: Q(A) := E^P(ℰ_t(U) · 𝟙_A) (83) è una **misura di probabilità equivalente a P** sullo spazio misurabile (Ω, ℱ^W_T) e sotto tale misura di probabilità il processo stocastico: **W̃_t = W_t - ∫_0^t ϑ_s ds** (84) è un **moto browniano standard**» ([00:12:53]–[00:14:00]). Corollari della slide 22: Q(A) := E^P(Z∗_T · 𝟙_A) (85) e dW̃_t = dW_t - (dZ∗_t/Z∗_t) dW_t (86) ([00:14:00]–[00:14:28]). ⚠️ Nella (84) l'integrale è in **ds**.
+**Opzione:** Q è una misura di probabilità equivalente a P sullo spazio misurabile (Ω, ℱ^W_T), e sotto Q il processo W̃_t = W_t - ∫_0^t ϑ_s ds è un moto browniano standard.
+**Distrattori:**
+- Q è una misura di probabilità equivalente a P sullo spazio misurabile (Ω, ℱ^W_T), e sotto Q il processo W̃_t = W_t - ∫_0^t ϑ_s dW_s è un moto browniano standard.
+- Esistono una costante X_0 = x ∈ ℝ e un processo ϑ_t progressivamente misurabile, con E^P(∫_0^t ϑ_s² ds) < ∞, tali che X_t = x + ∫_0^t ϑ_s dW_s, ossia dX_t = ϑ_t dW_t con X_0 = x.
+- ϑ_t(ω) è 𝔹|_{[0,T]} × 𝒜-misurabile; è ℱ^W_t-misurabile, cioè adattato alla filtrazione naturale generata dal moto browniano standard; appartiene allo spazio dei processi L²[0,T] e quindi E[∫_0^T [ϑ_t(ω)]² dt] < ∞.
+
+**D:** ⚠️ Che cos'è Z∗_t rispetto alle misure di probabilità Q e P, secondo la proposizione (87) della lezione 07?
+**R:** Slide 23: «Per ogni dato t ∈ [0,T] la v.a.: Z∗_t := e^(∫_0^t ϑ_u dW_u - (1/2)∫_0^t ϑ_u² du) è la **derivata di Radon-Nikodym** della misura di probabilità **Q** rispetto alla misura di probabilità equivalente **P** su ℱ^W_t, i.e.: **Z∗_t = dQ/dP|_{ℱ^W_t}** (87)». La dimostrazione rinvia all'equazione 9 del deck 06, che definisce la derivata di Radon-Nikodym. Il docente: «z t star non è altro che dq su dp rispetto alla filtrazione naturale» ([00:14:28]–[00:15:08]).
+**Opzione:** La derivata di Radon-Nikodym della misura di probabilità Q rispetto alla misura di probabilità equivalente P su ℱ^W_t: Z∗_t = dQ/dP|_{ℱ^W_t}.
+**Distrattori:**
+- La derivata di Radon-Nikodym della misura di probabilità P rispetto alla misura di probabilità equivalente Q su ℱ^W_t: Z∗_t = dP/dQ|_{ℱ^W_t}.
+- f_{X_t/X_s}(x_t/x) = 1/(√(2π) b √(t-s) · x_t/x) · e^(-(ln(x_t/x) - (a - b²/2)(t-s))²/(2b²(t-s)))
+- Rispetto alla filtrazione naturale del moto browniano standard: E[∫_s^{t′} ϑ_u(ω) dW_u | ℱ^W_t] = ∫_s^t ϑ_u(ω) dW_u, con 0 ≤ s ≤ t ≤ t′ ≤ T.
+
+**D:** ⚠️ Che cosa afferma la regola di Bayes della lezione 07 per una variabile aleatoria X con E^P(|X|) < ∞ e 0 ≤ s ≤ t ≤ T?
+**R:** Slide 25: «Allora per ogni 0 ≤ s ≤ t ≤ T vale la seguente uguaglianza: **E^Q(X | ℱ^W_s) = E^P(X Z∗_t | ℱ^W_s)/Z∗_s**» (88). Il docente: il valore atteso sotto Q di X condizionato «è uguale al valore atteso di P di X per Z T star condizionato alla medesima filtrazione diviso Z star di S» ([00:16:04]–[00:16:50]). ⚠️ Z∗_t al numeratore, Z∗_s al denominatore.
+**Opzione:** E^Q(X | ℱ^W_s) = E^P(X Z∗_t | ℱ^W_s)/Z∗_s
+**Distrattori:**
+- E^Q(X | ℱ^W_s) = E^P(X Z∗_s | ℱ^W_s)/Z∗_t
+- dY_t = ∂/∂t g(t,X_t) dt + ∂/∂x g(t,X_t) dX_t + (1/2) ∂²/∂x² g(t,X_t) (dX_t)²
+- X_t/X_s ~ LogN(e^(a(t-s)), e^(a(t-s)) · (e^(b²(t-s)) - 1))
+
+**D:** ⚠️ Se X_t è una Q-martingala rispetto a ℱ^W_t, che cosa è il processo X_t Z∗_t, e che cosa vale nel verso opposto, secondo la lezione 07?
+**R:** Slide 26, corollario: «Sia {X_t} una Q-martingala rispetto alla filtrazione {ℱ^W_t}. Allora il processo {X_t Z∗_t} è una **P-martingala** rispetto alla medesima filtrazione. Viceversa se il processo {X_t Z∗_t} è una P-martingala rispetto alla filtrazione {ℱ^W_t} allora il processo {X_t} è una **Q-martingala** rispetto alla medesima filtrazione» ([00:16:50]–[00:17:16]).
+**Opzione:** X_t Z∗_t è una P-martingala rispetto alla medesima filtrazione; viceversa, se X_t Z∗_t è una P-martingala, X_t è una Q-martingala.
+**Distrattori:**
+- X_t Z∗_t è una Q-martingala rispetto alla medesima filtrazione; viceversa, se X_t Z∗_t è una Q-martingala, X_t è una P-martingala.
+- u_t è detto drift e v_t è detto diffusione; dX_t = u_t dt + v_t dW_t si dice differenziale stocastico o equazione differenziale stocastica o SDE.
+- Con il processo stocastico esponenziale Z∗_t, perché le SDE 78 e 74 hanno la stessa espressione e i due processi hanno la stessa condizione iniziale, Z∗_0 = ℰ_0(U) = 1.
+
+**D:** ⚠️ Se sotto P la dinamica di X_t è dX_t = μ_t dt + σ_t dW_t, quale SDE la governa sotto Q, secondo la lezione 07?
+**R:** Slide 26: «Allora la dinamica di X_t sotto la misura di probabilità Q è governata dalla seguente SDE: **dX_t = β_t dt + σ_t dW̃_t** (90) ove: **β_t = μ_t + ϑ_t σ_t** (91)». Nella dimostrazione (slide 27) la 84 in forma differenziale, dW̃_t = dW_t - ϑ_t dt (92), dà dX_t = μ_t dt + σ_t (dW̃_t + ϑ_t dt) = (μ_t + ϑ_t σ_t) dt + σ_t dW̃_t ([00:17:16]–[00:18:14]). ⚠️ Cambia il drift, la diffusione σ_t resta la stessa.
+**Opzione:** dX_t = β_t dt + σ_t dW̃_t, con β_t = μ_t + ϑ_t σ_t
+**Distrattori:**
+- dX_t = β_t dt + σ_t dW̃_t, con β_t = μ_t - ϑ_t σ_t
+- I_T(X)(ω) ≡ ∫_0^T X_s(ω) dW_s := ∑_{j=0}^{n-1} a_j(ω)(W_{t_{j+1}} - W_{t_j})
+- dY_t = [∂/∂t g(t,X_t) + ∂/∂x g(t,X_t) u_t + (1/2) ∂²/∂x² g(t,X_t) v_t²] dt + [∂/∂x g(t,X_t) v_t] dW_t
+
+**D:** ⚠️ Quale funzione v(s,x) e quale equazione compaiono nella tesi del teorema di Feynman-Kac della lezione 07?
+**R:** Slide 28: «Allora la funzione: **v(s,x) = E[f(X_T) e^(∫_s^T g(t,X_t) dt) | X_s = x]**, 0 ≤ s ≤ T (94) soddisfa l'equazione: **v′_s + μ(s,x) v′_x + (1/2) σ²(s,x) v″_{xx} + g(s,x) v(s,x) = 0** (95) con la **condizione finale**: lim_{s→T} v(s,x) = f(X_T)», dove X_t risolve dX_t = μ(t,X_t) dt + σ(t,X_t) dW_t con X_s = x (93) ([00:18:14]–[00:19:43]). ⚠️ La condizione è **finale**, non iniziale come nel problema di Cauchy.
+**Opzione:** v(s,x) = E[f(X_T) e^(∫_s^T g(t,X_t) dt) | X_s = x] soddisfa v′_s + μ(s,x) v′_x + (1/2) σ²(s,x) v″_{xx} + g(s,x) v(s,x) = 0, con la condizione finale lim_{s→T} v(s,x) = f(X_T).
+**Distrattori:**
+- v(s,x) = E[f(X_T) e^(∫_s^T g(t,X_t) dt) | X_s = x] soddisfa v′_s + μ(s,x) v′_x + (1/2) σ²(s,x) v″_{xx} + g(s,x) v(s,x) = 0, con la condizione iniziale lim_{s→0} v(s,x) = f(X_0).
+- Se E^P(e^((1/2)∫_0^T ϑ_u² du)) < ∞, il processo Z∗_t := e^(∫_0^t ϑ_u dW_u - (1/2)∫_0^t ϑ_u² du) è una P-martingala rispetto a ℱ^W_t.
+- X^ϰ = x e^(Φ^(-1)(ϰ) b √(t-s) + (a - b²/2)(t-s)), dove ϰ = P(X_t ≤ X^ϰ) e Φ^(-1)(ϰ) è l'inversa della funzione di ripartizione della normale standardizzata valutata in ϰ.
+
+**D:** ⚠️ Che cosa definisce, in altri termini, il teorema di Feynman-Kac, secondo il docente della lezione 07?
+**R:** Il docente, dopo aver letto la slide 28: «In altri termini il teorema di Feynman-Kac definisce **sotto certe condizioni** un **ponte** tra le equazioni differenziali **stocastiche** e le equazioni differenziali **parziali**» ([00:19:43]). La frase non è nella slide. Nel teorema la SDE è la (93) e l'equazione alle derivate parziali è la (95).
+**Opzione:** Sotto certe condizioni, un ponte tra le equazioni differenziali stocastiche e le equazioni differenziali parziali.
+**Distrattori:**
+- Sotto certe condizioni, un ponte tra la misura di probabilità P e una misura di probabilità equivalente Q.
+- Moto geometrico browniano a coefficienti costanti; il docente chiama la sua soluzione random walk esponenziale.
+- X_t Z∗_t è una P-martingala rispetto alla medesima filtrazione; viceversa, se X_t Z∗_t è una P-martingala, X_t è una Q-martingala.
+
+**D:** ⚠️ Quale SDE definisce il moto geometrico browniano a coefficienti costanti, e qual è la sua soluzione, secondo la lezione 07?
+**R:** Slide 29: «Il problema di Cauchy definito dalla seguente SDE e condizione iniziale, i.e.: **dX_t = aX_t dt + bX_t dW_t** (96), X_s = x è un processo stocastico detto **Moto Geometrico Browniano a coefficienti costanti** la cui soluzione è: **X_t = x e^(b(W_t - W_s) + (a - b²/2)(t - s))**, 0 ≤ s ≤ t ≤ T < ∞ (97)». Il docente la chiama «cosiddetto random walk esponenziale» ([00:19:56]–[00:20:22]). ⚠️ Nell'esponente c'è **a - b²/2**.
+**Opzione:** dX_t = aX_t dt + bX_t dW_t con X_s = x; la soluzione è X_t = x e^(b(W_t - W_s) + (a - b²/2)(t - s)), 0 ≤ s ≤ t ≤ T < ∞.
+**Distrattori:**
+- dX_t = aX_t dt + bX_t dW_t con X_s = x; la soluzione è X_t = x e^(b(W_t - W_s) + (a + b²/2)(t - s)), 0 ≤ s ≤ t ≤ T < ∞.
+- I_T(ϑ)(ω) ≡ ∫_0^T ϑ_s(ω) dW_s := lim_{n→+∞} ∫_0^T X^n_s(ω) dW_s, per ogni 0 ≤ T < ∞, dove {X^n_t} è una successione di processi semplici che approssima ϑ_t nel senso della 50.
+- La derivata di Radon-Nikodym della misura di probabilità Q rispetto alla misura di probabilità equivalente P su ℱ^W_t: Z∗_t = dQ/dP|_{ℱ^W_t}.
+
+**D:** ⚠️ Che nome dà la slide al processo definito da dX_t = aX_t dt + bX_t dW_t con X_s = x, e come chiama il docente la sua soluzione?
+**R:** Slide 29: è «un processo stocastico detto **Moto Geometrico Browniano a coefficienti costanti**». Il docente, letta la soluzione (97): «**cosiddetto random walk esponenziale**» ([00:20:04]); il nome è solo nel transcript. ⚠️ Il **processo di Wiener generalizzato** della lezione 06 è un'altra cosa: dX = a dt + b dW_t, con coefficienti che non moltiplicano X (deck 06, slide 37).
+**Opzione:** Moto geometrico browniano a coefficienti costanti; il docente chiama la sua soluzione random walk esponenziale.
+**Distrattori:**
+- Processo di Wiener generalizzato; il docente chiama la sua soluzione random walk esponenziale.
+- Q è una misura di probabilità equivalente a P sullo spazio misurabile (Ω, ℱ^W_T), e sotto Q il processo W̃_t = W_t - ∫_0^t ϑ_s ds è un moto browniano standard.
+- Rispetto alla filtrazione naturale del moto browniano standard: E[∫_s^{t′} ϑ_u(ω) dW_u | ℱ^W_t] = ∫_s^t ϑ_u(ω) dW_u, con 0 ≤ s ≤ t ≤ t′ ≤ T.
+
+**D:** ⚠️ Quale regola dell'algebra di Itô chiude la dimostrazione del moto geometrico browniano, e che cosa si ottiene, secondo la lezione 07?
+**R:** Slide 31: sostituite le derivate parziali g′_t = (a - b²/2) X_t, g′_{W_t} = b X_t e g″_{W_t W_t} = b² X_t, si ha dX_t = (a - b²/2) X_t dt + b X_t dW_t + (1/2) b² X_t (dW_t)² (100); «Utilizzando la 55, la 100 può essere riscritta come» dX_t = (a - b²/2 + b²/2) X_t dt + b X_t dW_t, «e, quindi: **dX_t = aX_t dt + bX_t dW_t** (96)». La 55 è **(dW_t)² = dt**. Il docente: «usiamo quindi le relazioni anche che abbiamo a disposizione dell'algebra di Ito, semplifichiamo» ([00:20:22]–[00:21:04]).
+**Opzione:** La 55, (dW_t)² = dt: il termine (1/2) b² X_t (dW_t)² diventa (1/2) b² X_t dt e cancella il -b²/2 del drift, da cui dX_t = aX_t dt + bX_t dW_t.
+**Distrattori:**
+- La 56, dt · dt = (dt)²: il termine (1/2) b² X_t (dW_t)² è trascurabile e si ottiene dX_t = (a - b²/2) X_t dt + bX_t dW_t.
+- f_{X_t/X_s}(x_t/x) = 1/(√(2π) b √(t-s) · x_t/x) · e^(-(ln(x_t/x) - (a - b²/2)(t-s))²/(2b²(t-s)))
+- v(s,x) = E[f(X_T) e^(∫_s^T g(t,X_t) dt) | X_s = x] soddisfa v′_s + μ(s,x) v′_x + (1/2) σ²(s,x) v″_{xx} + g(s,x) v(s,x) = 0, con la condizione finale lim_{s→T} v(s,x) = f(X_T).
+
+**D:** ⚠️ Se Y_t = ln X_t, con X_t moto geometrico browniano a coefficienti costanti, quale problema di Cauchy risolve Y_t, e con quale soluzione, secondo la lezione 07?
+**R:** Slide 32: «Sia il processo Y_t definito come: Y_t = ln X_t (101) allora il problema di Cauchy definito dalla seguente SDE e condizione iniziale, i.e.: **dY_t = (a - b²/2) dt + b dW_t** (102), **Y_s = ln x** ha soluzione: **Y_t = ln x + (a - b²/2)(t - s) + b(W_t - W_s)** (103)». La dimostrazione scrive la 102 in forma integrale, Y_t = ln x + ∫_s^t (a - b²/2) du + ∫_s^t b dW_u (104), e risolve gli integrali ([00:21:04]–[00:22:00]). ⚠️ Il drift è a - b²/2, non a; il transcript a [00:21:21] perde la a.
+**Opzione:** dY_t = (a - b²/2) dt + b dW_t con Y_s = ln x; la soluzione è Y_t = ln x + (a - b²/2)(t - s) + b(W_t - W_s).
+**Distrattori:**
+- dY_t = a dt + b dW_t con Y_s = ln x; la soluzione è Y_t = ln x + a(t - s) + b(W_t - W_s).
+- Se E^P(e^((1/2)∫_0^T ϑ_u² du)) < ∞, il processo Z∗_t := e^(∫_0^t ϑ_u dW_u - (1/2)∫_0^t ϑ_u² du) è una P-martingala rispetto a ℱ^W_t.
+- dY_t = [∂/∂t g(t,X_t) + ∂/∂x g(t,X_t) u_t + (1/2) ∂²/∂x² g(t,X_t) v_t²] dt + [∂/∂x g(t,X_t) v_t] dW_t
+
+**D:** ⚠️ Come è distribuito ln(X_t/X_{t-dt}), con Y_t = ln X_t e dY_t = (a - b²/2) dt + b dW_t, secondo la proposizione (105) della lezione 07?
+**R:** Slide 33: «Il processo: dY_t = (a - b²/2) dt + b dW_t ove Y_t = ln X_t è distribuito come segue: **ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt)**» (105). Il docente: «è distribuito come una normale con **media** a meno b quadro mezzi dt e **standard deviation** b radice quadrata di dt» ([00:22:00]). La dimostrazione usa la definizione di processo di Wiener generalizzato, l'equazione 47 del deck 06, dX ~ N(a dt, b√dt) ([00:22:20]–[00:22:41]). È la chiave della domanda 4 del test.
+**Opzione:** ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt), cioè una normale con media (a - b²/2)dt e deviazione standard b√dt.
+**Distrattori:**
+- ln(X_t/X_{t-dt}) ~ N(a dt, b√dt), cioè una normale con media a dt e deviazione standard b√dt.
+- (dW_t)² = dt; dt · dt = (dt)²; dW_t · dt = √dt · dt = (dt)^(3/2)
+- X^ϰ = x e^(Φ^(-1)(ϰ) b √(t-s) + (a - b²/2)(t-s)), dove ϰ = P(X_t ≤ X^ϰ) e Φ^(-1)(ϰ) è l'inversa della funzione di ripartizione della normale standardizzata valutata in ϰ.
+
+**D:** ⚠️ Come è distribuito X_t/X_s, con X_s = x e s ≤ t, per un moto geometrico browniano a coefficienti costanti, secondo la lezione 07?
+**R:** Slide 34: «Allora il processo X_t/X_s, ove X_s = x, s ≤ t, è distribuito come segue: **X_t/X_s ~ LogN(e^(a(t-s)), e^(a(t-s)) · (e^(b²(t-s)) - 1))**» (106). Il docente legge i parametri come «media esponenziale di A per T meno S e standard deviation esponenziale di A per T meno S per l'esponenziale di B quadro T meno S meno 1» ([00:22:41]–[00:23:10]). ⚠️ X_t/X_s è **lognormale**; normale è il suo logaritmo (105).
+**Opzione:** X_t/X_s ~ LogN(e^(a(t-s)), e^(a(t-s)) · (e^(b²(t-s)) - 1))
+**Distrattori:**
+- X_t/X_s ~ N(e^(a(t-s)), e^(a(t-s)) · (e^(b²(t-s)) - 1))
+- (dW_t)² = dt; dt · dt = (dt)²; dW_t · dt = √dt · dt = (dt)^(3/2)
+- 0 in caso di indipendenza; ρ_wz dt in caso di correlazione secondo un coefficiente di correlazione pari a ρ_wz.
+
+**D:** ⚠️ Qual è la funzione di densità di probabilità di X_t/X_s per un moto geometrico browniano a coefficienti costanti (formula 107)?
+**R:** Slide 34: «con funzione di densità di probabilità: **f_{X_t/X_s}(x_t/x) = 1/(√(2π) b √(t-s) · x_t/x) · e^(-(ln(x_t/x) - (a - b²/2)(t-s))²/(2b²(t-s)))**» (107), che per il docente è la «funzione tipica della lognormale» ([00:23:10]–[00:23:38]). Nella slide il denominatore è scritto √(2π) b √(t-s) x_t/x, senza punti.
+**Opzione:** f_{X_t/X_s}(x_t/x) = 1/(√(2π) b √(t-s) · x_t/x) · e^(-(ln(x_t/x) - (a - b²/2)(t-s))²/(2b²(t-s)))
+**Distrattori:**
+- f_{X_t/X_s}(x_t/x) = 1/(√(2π) b √(t-s) · x_t/x) · e^(-(ln(x_t/x) - (a + b²/2)(t-s))²/(2b²(t-s)))
+- dY_t = (a - b²/2) dt + b dW_t con Y_s = ln x; la soluzione è Y_t = ln x + (a - b²/2)(t - s) + b(W_t - W_s).
+- La 55, (dW_t)² = dt: il termine (1/2) b² X_t (dW_t)² diventa (1/2) b² X_t dt e cancella il -b²/2 del drift, da cui dX_t = aX_t dt + bX_t dW_t.
+
+**D:** ⚠️ Che cosa afferma la proposizione (108) della lezione 07 sulla banda di oscillazione di un moto geometrico browniano?
+**R:** Slide 35: «Siano Z ~ N(0,1) e X_t un moto geometrico browniano a coefficienti costanti come indicato nella 96 e con condizione iniziale X_s = x, ove 0 ≤ s < t. Allora vale la seguente relazione: **P(x e^(min) ≤ X_t ≤ x e^(max)) = ϰ** (108) ove: ϰ è la probabilità; **min = b z_{ϰ/2} √(t-s) + (a - b²/2)(t-s)**; **max = b z_{(1-ϰ/2)} √(t-s) + (a - b²/2)(t-s)**; z_{ϰ/2} e z_{(1-ϰ/2)} denotano i quantili della variabile casuale Z tra i quali è contenuta una massa di probabilità pari a ϰ» ([00:24:13]–[00:25:27]). Il docente legge ϰ «chi»; la slide 38 la chiama «banda di oscillazione».
+**Opzione:** P(x e^(min) ≤ X_t ≤ x e^(max)) = ϰ, con min = b z_{ϰ/2} √(t-s) + (a - b²/2)(t-s) e max = b z_{(1-ϰ/2)} √(t-s) + (a - b²/2)(t-s).
+**Distrattori:**
+- P(x e^(min) ≤ X_t ≤ x e^(max)) = ϰ, con min = b z_{ϰ/2} (t-s) + (a - b²/2)√(t-s) e max = b z_{(1-ϰ/2)} (t-s) + (a - b²/2)√(t-s).
+- ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt), cioè una normale con media (a - b²/2)dt e deviazione standard b√dt.
+- dX_t = aX_t dt + bX_t dW_t con X_s = x; la soluzione è X_t = x e^(b(W_t - W_s) + (a - b²/2)(t - s)), 0 ≤ s ≤ t ≤ T < ∞.
+
+**D:** ⚠️ Quale variabile si distribuisce come una N(0,1) nella dimostrazione della banda di oscillazione, posto s = t - dt?
+**R:** Slide 36: la 105, «ponendo per semplicità s = t - dt, può essere riespressa come: ln(X_t/X_s) ~ N((a - b²/2)(t-s), b√(t-s)). Applicando a ln(X_t/X_s) il processo di standardizzazione di una variabile casuale normale si ha: **[ln(X_t/X_s) - (a - b²/2)(t-s)]/(b√(t-s)) ~ N(0,1)**». Il docente: «b radice di dt come standard deviation» ([00:25:31]–[00:26:44]). ⚠️ Si divide per la **deviazione standard** b√(t-s), come nella forma standardizzata della lezione 02.
+**Opzione:** [ln(X_t/X_s) - (a - b²/2)(t-s)]/(b√(t-s)) ~ N(0,1), perché ln(X_t/X_s) ~ N((a - b²/2)(t-s), b√(t-s))
+**Distrattori:**
+- [ln(X_t/X_s) - (a - b²/2)(t-s)]/(b²(t-s)) ~ N(0,1), perché ln(X_t/X_s) ~ N((a - b²/2)(t-s), b√(t-s))
+- P(x e^(min) ≤ X_t ≤ x e^(max)) = ϰ, con min = b z_{ϰ/2} √(t-s) + (a - b²/2)(t-s) e max = b z_{(1-ϰ/2)} √(t-s) + (a - b²/2)(t-s).
+- La 55, (dW_t)² = dt: il termine (1/2) b² X_t (dW_t)² diventa (1/2) b² X_t dt e cancella il -b²/2 del drift, da cui dX_t = aX_t dt + bX_t dW_t.
+
+**D:** ⚠️ Fissato il percentile ϰ della distribuzione di probabilità cumulata di X_t, quanto vale il corrispondente quantile X^ϰ, secondo la lezione 07?
+**R:** Slide 39: «si denoti con X^ϰ il corrispondente quantile, i.e.: ϰ = P(X_t ≤ X^ϰ) (110). Allora vale la seguente uguaglianza: **X^ϰ = x e^(Φ^(-1)(ϰ) b √(t-s) + (a - b²/2)(t-s))** (111) ove **Φ^(-1)(ϰ)** denota l'**inversa della funzione di ripartizione** della distribuzione di probabilità normale standardizzata valutata in ϰ» ([00:29:11]–[00:30:12]). Ha la stessa forma del minimo e del massimo della banda (108).
+**Opzione:** X^ϰ = x e^(Φ^(-1)(ϰ) b √(t-s) + (a - b²/2)(t-s)), dove ϰ = P(X_t ≤ X^ϰ) e Φ^(-1)(ϰ) è l'inversa della funzione di ripartizione della normale standardizzata valutata in ϰ.
+**Distrattori:**
+- X^ϰ = x e^(Φ(ϰ) b √(t-s) + (a - b²/2)(t-s)), dove ϰ = P(X_t ≤ X^ϰ) e Φ(ϰ) è la funzione di ripartizione della normale standardizzata valutata in ϰ.
+- dY_t = (a - b²/2) dt + b dW_t con Y_s = ln x; la soluzione è Y_t = ln x + (a - b²/2)(t - s) + b(W_t - W_s).
+- [ln(X_t/X_s) - (a - b²/2)(t-s)]/(b√(t-s)) ~ N(0,1), perché ln(X_t/X_s) ~ N((a - b²/2)(t-s), b√(t-s))
+
+**D:** ⚠️ Quanto vale il valore atteso di X_t condizionato a X_t ≤ X^ϰ, secondo il teorema (112) della lezione 07?
+**R:** Slide 40: «Allora il valore atteso di X_t condizionato a X_t ≤ X^ϰ è determinato come segue: **E(X_t | X_t ≤ X^ϰ) = (1/ϰ) x e^(a(t-s)) Φ(Φ^(-1)(ϰ) - b√(t-s))**» (112). Il docente: «1 su chi che moltiplica x per l'esponenziale di a che moltiplica t meno s per il valore della normale standardizzata applicato all'inversa della normale standardizzata su chi meno b che moltiplica la radice quadrata di t meno s» ([00:30:12]–[00:31:07]).
+**Opzione:** E(X_t | X_t ≤ X^ϰ) = (1/ϰ) x e^(a(t-s)) Φ(Φ^(-1)(ϰ) - b√(t-s))
+**Distrattori:**
+- E(X_t | X_t ≤ X^ϰ) = (1/ϰ) x e^(a(t-s)) Φ(Φ^(-1)(ϰ) + b√(t-s))
+- [ln(X_t/X_s) - (a - b²/2)(t-s)]/(b√(t-s)) ~ N(0,1), perché ln(X_t/X_s) ~ N((a - b²/2)(t-s), b√(t-s))
+- ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt), cioè una normale con media (a - b²/2)dt e deviazione standard b√dt.
+
+**D:** ⚠️ Siano Wt e Zt due moti browniani standard: che cosa vale per (dW_t)², secondo il test della lezione 07 (domanda 1)?
+**R:** «**(dW_t)² = dt**», la (55) della slide 6, ripetuta nella (64) del lemma di Itô (slide 9) e usata per chiudere la dimostrazione del moto geometrico browniano (slide 31). Il docente: «dVt al quadrato è uguale a dt» ([00:04:23]). ⚠️ Le domande 1, 2 e 3 hanno **lo stesso testo** e chiavi diverse, una per riga della proposizione della slide 6: (55) nella 1, (57) nella 2, (56) nella 3. Distrattori del test: (dW_t)² < dt e (dW_t)² > dt, la relazione rovesciata; dW_t = dt, che toglie il quadrato. Nessuno dei tre è nei materiali.
+**Opzione:** (dW_t)² = dt
+**Distrattori:**
+- (dW_t)² < dt
+- (dW_t)² > dt
+- dW_t = dt
+
+**D:** ⚠️ Siano Wt e Zt due moti browniani standard: quanto vale il prodotto dW_t · dt, secondo il test della lezione 07 (domanda 2)?
+**R:** «**dW_tdt = (dt)^(3/2)**», la (57) della slide 6: dW_t · dt = √dt · dt = (dt)^(3/2). ⚠️ Il docente dice «dV dt è uguale a dt quadro» ([00:04:23]), ma subito dopo cita «di t tre mezzi» ([00:04:37]): vale la slide, e la chiave è giusta. (dt)² è il risultato di dt · dt, la chiave della domanda 3, che ha lo stesso testo. Distrattori del test: dW_t = dt e dW_t < dt, che non sono nei materiali, e (dW_t)² < dt, la (55) con la relazione rovesciata.
+**Opzione:** dW_tdt = (dt)^(3/2)
+**Distrattori:**
+- dW_t = dt
+- dW_t < dt
+- (dW_t)² < dt
+
+**D:** ⚠️ Siano Wt e Zt due moti browniani standard: quanto vale il prodotto dt · dt, secondo il test della lezione 07 (domanda 3)?
+**R:** «**dt dt = (dt)²**», la (56) della slide 6, dt · dt = (dt)². Il docente: «dt dt è uguale a dt quadro» ([00:04:23]). Per la nota della stessa slide (dt)² ha un ordine di infinitesimo superiore a dt, e nel lemma di Itô si considera pari a 0 (slide 9, formula 64). Distrattori del test, gli stessi della domanda 2: dW_t = dt, dW_t < dt e (dW_t)² < dt.
+**Opzione:** dt dt = (dt)²
+**Distrattori:**
+- dW_t = dt
+- dW_t < dt
+- (dW_t)² < dt
+
+**D:** ⚠️ Sia Z~N(0,1) e X_t un moto geometrico browniano: come è distribuito il logaritmo di X_t/X_{t-dt}, secondo il test della lezione 07 (domanda 4)?
+**R:** «**lnX_t/X_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]**», con la parentesi spaiata della piattaforma: è la (105) della slide 33, ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt), con media (a - b²/2)dt e deviazione standard b√dt ([00:22:00]). Il testo della domanda è la premessa delle slide 35, 39 e 40, e Z ~ N(0,1) non serve. Distrattori del test, pescati dal test 06: dX~Y(10,dt^(1/2)), una distribuzione «Y» che non esiste; dX~N(0,dt), che parla di dX e non del logaritmo, ed è il processo di Wiener scritto con la varianza come secondo parametro (deck 06, slide 28–29), mentre la slide 37 del deck 06 scrive dW_t ~ N(0, √dt). ⚠️ Il terzo distrattore, E^P(X_t) < ∞ ∀ t ≥ 0, non è nella card perché è **vero nel merito**: per la slide 34 X_t/X_s è lognormale con media e^(a(t-s)) ([00:22:41]), quindi E^P(X_t) è finito. All'esame si segna la chiave, che è la formula della slide.
+**Opzione:** lnX_t/X_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]
+**Distrattori:**
+- dX~Y(10,dt^(1/2))
+- dX~N(0,dt)
+
+**D:** ⚠️ Sia dY_t~N[(a-b²/2)dt,bdt^(1/2))]: che cosa è Y_t, secondo il test della lezione 07 (domanda 5)?
+**R:** «**Y_t = lnX_t**»: è la premessa della slide 33, «Il processo: dY_t = (a - b²/2) dt + b dW_t ove Y_t = ln X_t è distribuito come segue», e la definizione (101) della slide 32. Il docente: «Definiamo ora y uguale al logaritmo di x» ([00:21:17]). ⚠️ La chiave è una **premessa**, non una conseguenza della distribuzione. Distrattori del test: dW_t < dt e «dW t =dt», dalla batteria delle domande 1–3, che non sono nei materiali. Il terzo, E^P(X_t) < ∞ ∀ t ≥ 0, viene dal test 06 e non è nella card: X_t non è definito nella domanda, ma per un moto geometrico browniano è vero nel merito (slide 34).
+**Opzione:** Y_t = lnX_t
+**Distrattori:**
+- dW_t < dt
+- dW t =dt
+
+## Lezione 08 — Pricing 1 - Modello Sharpe-Rendleman-Bartter
+
+**D:** ⚠️ Che differenza fa il docente della lezione 08 fra call e put quanto ai guadagni e alle perdite potenziali?
+**R:** Commentando i grafici della slide 2, il docente dice: «nel caso dell'opzione call io ho dei guadagni o delle perdite **potenzialmente indefiniti**», mentre «nel caso della put, i miei guadagni o perdite sono **finiti** perché trovano nello **zero** il valore limite». Per questo «essere corti in una call espone sostanzialmente il soggetto che ha venduto l'opzione a perdite potenzialmente indefinite» (transcript [00:05:14]–[00:06:15]). È solo nel transcript: la slide 2 riporta la tabella dei payoff e i quattro grafici. ⚠️ «Indefiniti» sono i guadagni e le perdite della call, non gli scenari: è la parola del distrattore «esistono scenari idefiniti» del test.
+**Opzione:** Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
+**Distrattori:**
+- Nella put guadagni o perdite sono potenzialmente indefiniti; nella call sono finiti, perché trovano nello zero il valore limite.
+- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
+- Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+
+**D:** Che cosa si intende per schema uniperiodale nel modello di Sharpe-Rendleman-Bartter?
+**R:** La slide 3 presenta il modello come «Pricing delle opzioni in uno schema uniperiodale». Il docente: «uno schema dove abbiamo una sola unità di tempo tra zero e la scadenza» ([00:06:25]); il prezzo si cerca «ipotizzando che ci sia un unico periodo tra il momento della sua sottoscrizione e il momento della sua scadenza» ([00:06:44]). Nella slide 7 la scadenza è il tempo T = 1.
+**Opzione:** Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
+**Distrattori:**
+- Uno schema con più unità di tempo tra zero e la scadenza: un periodo per ogni data fra la sottoscrizione dell'opzione e la sua scadenza.
+- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
+- Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
+
+**D:** ⚠️ Come si definisce nel modello di Sharpe-Rendleman-Bartter il pay-off a scadenza della call g(S_T), e quando l'opzione viene esercitata?
+**R:** Slide 4: «La call, il cui pay-off a scadenza è definito come: g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}», cioè g(S_T) = S_T - K «se S_T > K l'opzione viene esercitata» e 0 «se S_T ≤ K l'opzione non viene esercitata». Il docente: con S_T maggiore di K «l'opzione verrà esercitata perché il soggetto che ha sottoscritto l'opzione ha un guadagno», con S_T minore o uguale a K «non ha senso esercitare l'opzione» (transcript [00:06:56]–[00:07:38]). ⚠️ Il caso S_T = K sta con l'opzione **non** esercitata.
+**Opzione:** g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
+**Distrattori:**
+- g(S_T) = (K - S_T)^+ ≜ max{K - S_T, 0}: vale K - S_T se S_T < K (l'opzione viene esercitata) e 0 se S_T ≥ K (l'opzione non viene esercitata).
+- V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
+- P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+
+**D:** Su quale spazio di probabilità è definito il valore finale nel modello di Sharpe-Rendleman-Bartter?
+**R:** Slide 5: «Il valore finale sarà una variabile casuale definita sullo spazio di probabilità Ω = {ω_1, ω_2} con una misura di probabilità P tale che: P(ω_1) + P(ω_2) = 1.» Il docente lo ripete a [00:07:38]. Gli eventi sono due, uno per scenario (slide 6). Le slide non dicono che i due scenari siano equiprobabili.
+**Opzione:** Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+**Distrattori:**
+- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) = P(ω_2) = 1/2.
+- β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+- S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+
+**D:** Come si definisce formalmente S_T nel modello di Sharpe-Rendleman-Bartter?
+**R:** Slide 6: «Formalmente, S_T è una funzione S_T : Ω → R_+», con S_T(ω) = S^u se ω = ω_1 e S^d se ω = ω_2. Il docente: S_T «è una funzione che rimappa ω sui numeri reali positivi», e i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down, cioè il caso in cui il valore del sottostante va verso l'alto e l'altro in cui va verso il basso» (transcript [00:07:55]). Le slide 9–14 scrivono «S Up» e «S Down». ⚠️ S_T è il **prezzo** del sottostante; il pay-off della call è C_T (slide 7).
+**Opzione:** S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
+**Distrattori:**
+- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = (S^u - K)^+ se ω = ω_1 e S_T(ω) = (S^d - K)^+ se ω = ω_2.
+- β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+
+**D:** ⚠️ Quanto vale il pay-off della call al tempo T = 1 nei due scenari del modello di Sharpe-Rendleman-Bartter?
+**R:** Slide 7: «e quindi, il pay-off per la call al tempo T = 1: X = C_T = (S_T - K)^+ diventa: C_T(ω) = C^u = (S^u - K)^+ if ω = ω_1, C^d = (S^d - K)^+ if ω = ω_2». Il docente: «call up se abbiamo l'evento omega 1 e call down se abbiamo invece l'evento omega 2» (transcript [00:08:19]–[00:08:41]). ⚠️ È la parte positiva di S - K, quella della call; K - S sarebbe la put.
+**Opzione:** X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
+**Distrattori:**
+- X = C_T = (K - S_T)^+, cioè C^u = (K - S^u)^+ se ω = ω_1 e C^d = (K - S^d)^+ se ω = ω_2.
+- V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
+- O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
+
+**D:** ⚠️ Qual è, intuitivamente, il prezzo della call nel modello di Sharpe-Rendleman-Bartter (formula (1))?
+**R:** Slide 8, ripetuta alla 33: «Intuitivamente, il prezzo dell'ozione è dato da: C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+] (1)», con il refuso «ozione» della slide. Il docente: il prezzo è una media ponderata scontata, «il valore atteso sotto la misura di probabilità p» del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). ⚠️ Il fattore è (1+r)^(-1): si sconta, non si capitalizza. È la formula della domanda 1 del test.
+**Opzione:** C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
+**Distrattori:**
+- C_0 = E_P((1+r)C_T) = (1+r) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
+- α_0 = (C^u - C^d)/(S^u - S^d)
+- P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+
+**D:** ⚠️ Nell'esempio del modello di Sharpe-Rendleman-Bartter (azione a $20, S Up = $22, S Down = $18, call con strike $21) quanto vale la call a scadenza nei due scenari?
+**R:** Slide 10: «Prezzo dell'azione = $20», «S Up = $22», «S Down = $18»; slide 12: «Call», «Strike = $21», «Tasso di interesse uniperiodale privo di rischio=4%»; slide 13: «C Up = max($22-21,0)», «C Down = max($18-21,0)»; slide 14: «C Up = 1», «C Down = 0». Il docente: «la call nell'ipotesi dello scenario che il prezzo dell'azione salga va a 1, nel caso in cui il prezzo dell'azione è sceso, il prezzo della call vale 0» ([00:10:45]); il prezzo di oggi è «lo sconto di questi due valori al tempo 0 per il tasso del 4%» ([00:10:59]–[00:11:07]). ⚠️ A [00:10:20] il transcript dice «il massimo di 22 meno 21 è 0»: vale la slide 14, C Up = 1. Nello scenario down la call vale 0, non -3: il max con lo zero taglia la parte negativa.
+**Opzione:** C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
+**Distrattori:**
+- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = -3.
+- C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
+- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+
+**D:** ⚠️ Quali posizioni si ipotizzano nell'approccio intuitivo del metodo di replicazione del portafoglio?
+**R:** Slide 16, «Esempio: Pricing – un approccio intuitivo»: «Posizione lunga: Δ azioni», «Posizione corta: 1 opzione Call», «…..calcolando Δ». Il docente: «io ho comprato un numero delta qualsivoglia di azioni e allo stesso tempo ho venduto un'opzione call» (transcript [00:11:32]–[00:11:52]). ⚠️ L'«1» appartiene alla **call** venduta; le azioni sono Δ, e nell'esempio Δ = 0,25 (slide 23). È il punto su cui la domanda 5 del test è difettosa.
+**Opzione:** Posizione lunga: Δ azioni; posizione corta: 1 opzione Call.
+**Distrattori:**
+- Posizione lunga: 1 azione; posizione corta: Δ opzioni Call.
+- Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
+- Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
+
+**D:** Perché, secondo il docente della lezione 08, chi vende la call compra Δ azioni?
+**R:** Per coprirsi: «avendo venduto l'opzione call mi sono coperto dal rischio che l'acquirente dell'opzione possa tra un periodo di tempo venire a comprare e richiedere le azioni al prezzo strike». Il rischio è di «avere una grossa perdita se queste azioni sono molto cresciute in valore rispetto al prezzo di esercizio strike»; «aver già comprato oggi un po' di azioni mi immunizza da questo rischio», perché sono state comprate a un prezzo odierno che «certamente sarà minore del prezzo futuro» se il compratore della call decide di esercitarla (transcript [00:11:52]–[00:13:07]). Il Δ dice «quante ne devo comprare» ([00:12:20]); la slide 16 scrive soltanto «…..calcolando Δ».
+
+**D:** Com'è composto il portafoglio φ del metodo di replicazione, e di chi è?
+**R:** Slide 17: «Un portafoglio φ al tempo t = 0 che replica il pay-off dell'opzione al tempo T. φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore che ha una posizione corta in un'opzione Europea. α_0 è il numero delle azioni dell'investitore al tempo t = 0. β_0 è la liquidità depositata/presa in prestito da una banca al tasso di interesse r.» Il docente: «Questo è il portafoglio di chi ha venduto un'opzione, si dice europea, a un altro soggetto» (transcript [00:13:16]–[00:13:49]). ⚠️ È il portafoglio di chi ha **venduto** l'opzione: posizione corta.
+**Opzione:** φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+**Distrattori:**
+- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione lunga in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+- Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+- Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
+
+**D:** Che cosa rende europea un'opzione, secondo il docente della lezione 08?
+**R:** «Perché un'opzione europea? Perché è un'opzione che può essere esercitata soltanto ad una scadenza specifica T grande, altrimenti l'opzione prenderebbe un'altra denominazione» (transcript [00:13:49]–[00:14:03]). La slide 17 dice soltanto che φ è il portafoglio di un investitore con una posizione corta «in un'opzione Europea». Coincide con la slide 3 della lezione 05: le europee danno il diritto «ad una certa scadenza», le americane «entro una certa scadenza».
+**Opzione:** Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+**Distrattori:**
+- Può essere esercitata in qualsiasi momento entro la scadenza T; altrimenti l'opzione prenderebbe un'altra denominazione.
+- Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
+- Che comprando un portafoglio e vendendone un altro non si possa avere un profitto senza rischio: i portafogli devono avere lo stesso profilo di rischio-rendimento, e quelli neutrali al rischio rendono il tasso privo di rischio.
+
+**D:** ⚠️ Come si scrive il valore V(φ) del portafoglio di replicazione al tempo 0 e al tempo T?
+**R:** Slide 18: «Sia V_t(φ) il valore del pay-off di questo portafoglio al tempo t = 0 e t = T. Ne consegue che il processo del valore V(φ) è dato da: i. V_0(φ) = α_0 S_0 + β_0; ii. V_T(φ) = α_0 S_T + β_0(1+r)». Il docente: al tempo 0 è «il numero delle azioni per il loro valore, più β0 che è la liquidità»; al tempo T «beta 0 per 1 più r perché tra il tempo 0 e il tempo t grande è decorso il valore finanziario del tempo» (transcript [00:14:19]–[00:15:06]). ⚠️ Il fattore (1+r) sta sulla liquidità al tempo T, non al tempo 0.
+**Opzione:** V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
+**Distrattori:**
+- V_0(φ) = α_0 S_0 + β_0(1+r) e V_T(φ) = α_0 S_T + β_0.
+- S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
+
+**D:** Quando il portafoglio replica esattamente l'opzione nel modello di Sharpe-Rendleman-Bartter (sistema (2))?
+**R:** Slide 19: «Il portafoglio replica esattamente l'opzione quando: V_T(φ) = C_T i.e.: V_T(φ)(ω) = V^u(φ) = α_0 S^u + (1+r)β_0 = C^u if ω = ω_1; V^d(φ) = α_0 S^d + (1+r)β_0 = C^d if ω = ω_2 (2)». Il docente: sono due equazioni in due incognite, il numero di azioni α_0 e la liquidità β_0, che risolvono il sistema e consentono al portafoglio «di replicare esattamente il valore dell'opzione, di creare un'identità» (transcript [00:15:06]–[00:16:47]). ⚠️ La replica si impone **a scadenza**, scenario per scenario, contro C^u e C^d.
+**Opzione:** V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+**Distrattori:**
+- V_T(φ) = C_0, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C_0 se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C_0 se ω = ω_2.
+- S∗_0 = E_{P∗}(S∗_T)
+- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+
+**D:** ⚠️ Quanto vale α_0, il numero di azioni che risolve il sistema (2)?
+**R:** Slide 20: «I valori di α_0, β_0 che risolvono il sistema sono: α_0 = (C^u - C^d)/(S^u - S^d)». ⚠️ Al numeratore le call, al denominatore le azioni. È il Δ dell'approccio intuitivo: con i numeri dell'esempio dà (1 - 0)/(22 - 18) = 0,25, il Δ della slide 23 (il calcolo non è nelle slide).
+**Opzione:** α_0 = (C^u - C^d)/(S^u - S^d)
+**Distrattori:**
+- α_0 = (S^u - S^d)/(C^u - C^d)
+- O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
+- S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+
+**D:** ⚠️ Quanto vale β_0, la liquidità che risolve il sistema (2)?
+**R:** Slide 20: «β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))». ⚠️ Al numeratore C^d con S^u meno C^u con S^d, in quest'ordine; al denominatore c'è anche (1+r), perché la liquidità rende r fra 0 e T (slide 19). Il docente: β_0 è «la liquidità che io prendo a prestito e do in prestito a seconda di quante azioni compro o vendo» (transcript [00:14:25]–[00:14:46]).
+**Opzione:** β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+**Distrattori:**
+- β_0 = (C^u S^d - C^d S^u)/((S^u - S^d)(1+r))
+- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
+- V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+
+**D:** ⚠️ A che cosa è uguale il prezzo C_0 ottenuto con il metodo di replicazione (formula (3))?
+**R:** Slide 21: «Quindi: C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r)) (3)». Il docente: mettendo nel prezzo della call le α_0, β_0 trovate «otteniamo quindi un metodo analitico per definire il prezzo dell'opzione call» (transcript [00:16:47]–[00:17:16]). Il metodo della martingala ritrova la stessa (3) (slide 35). ⚠️ Il secondo addendo è β_0, scontato per (1+r).
+**Opzione:** C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+**Distrattori:**
+- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)(1+r)/(S^u - S^d)
+- g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
+- V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+
+**D:** ⚠️ Quali sono, al tempo t = 0, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
+**R:** Slide 22: «I flussi di cassa forniti dal modello che definiscono l'assenza di arbitraggio sono: al tempo t = 0: vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; ∋' V_0(φ) - C_0 = 0», dove ∋' si legge «tale che». Il docente: i flussi sono tali che il valore del portafoglio al tempo 0 meno il prezzo della call al tempo 0 sia uguale a 0 (transcript [00:17:16]–[00:17:46]; il transcript scrive «colla» per call). ⚠️ Il fattore (1+r) sulla liquidità compare solo al tempo T.
+**Opzione:** Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
+**Distrattori:**
+- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -(1+r)β_0; tali che V_0(φ) - C_0 = 0.
+- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
+
+**D:** ⚠️ Quali sono, al tempo t = T, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
+**R:** Slide 22: «al tempo t = T: pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; ∋' V_T(φ) - C_T = 0». Il docente: «il payoff dell'opzione ovviamente è meno C di T, seguono le alfa 0 azioni vendute», e la liquidità «fa 1 più r per beta 0» (transcript [00:17:46]–[00:18:17]). ⚠️ A t = 0 le azioni si comprano e l'opzione si vende; a t = T le azioni si vendono, si paga il pay-off e la liquidità torna con l'interesse.
+**Opzione:** Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
+**Distrattori:**
+- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +β_0; tali che V_T(φ) - C_T = 0.
+- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
+- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
+
+**D:** ⚠️ Che cosa impone il principio di neutralità al rischio nell'esempio del modello di Sharpe-Rendleman-Bartter, e quanto vale Δ?
+**R:** Slide 23, «NEUTRALITÀ AL RISCHIO»: «Lunga S up = + $22, Corta C Up = - $1» = «Lunga S Down = + $18, Corta C Down = 0»; «22 ∗ Δ - 1 = 18 ∗ Δ»; «Δ = 0,25». Il docente: i due portafogli che qualificano gli eventi ω_1 e ω_2 «devono avere il medesimo valore» ([00:19:38]); «22 per delta meno 1, delta sul numero di azioni, deve essere uguale a 18 per delta» ([00:20:08]), e così si ottiene il numero di azioni da detenere «per poter essere neutrale a rischio rispetto alla circostanza di aver venduto un'opzione call» ([00:20:16]). ⚠️ A [00:19:14] il docente parla di «opzione lunga», ma la slide scrive «Corta»: la call è venduta. Δ = 0,25 è un quarto di azione per call, non 4.
+**Opzione:** 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
+**Distrattori:**
+- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 4: le posizioni dei due scenari devono avere lo stesso valore.
+- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
+- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
+
+**D:** Che cosa vuol dire assenza di arbitraggio, secondo il docente della lezione 08?
+**R:** «se ho un portafoglio e decido di investire in quel portafoglio, portafoglio 1, e ho poi un altro portafoglio 2 o un altro portafoglio 3», per non avere la possibilità «che uno comprando il portafoglio 1 e vendendo il portafoglio 2 possa avere un profitto senza rischio», i portafogli «devono avere lo stesso profilo di rischio rendimento, la stessa reddittività». E se sono neutrali al rischio, «la reddittività è quella del tasso di interesse privo di rischio» (transcript [00:20:38]–[00:21:28]). È solo nel transcript: la slide 24 ne dà la conseguenza, rendimento atteso dell'opzione = tasso di interesse privo di rischio.
+**Opzione:** Che comprando un portafoglio e vendendone un altro non si possa avere un profitto senza rischio: i portafogli devono avere lo stesso profilo di rischio-rendimento, e quelli neutrali al rischio rendono il tasso privo di rischio.
+**Distrattori:**
+- Che comprando un portafoglio e vendendone un altro si possa avere un profitto senza rischio: i portafogli devono avere lo stesso profilo di rischio-rendimento, e quelli neutrali al rischio rendono il tasso privo di rischio.
+- Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
+- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+
+**D:** ⚠️ Che cosa impone il principio di assenza di arbitraggio nell'esempio dell'approccio intuitivo?
+**R:** Slide 24, «ASSENZA DI ARBITRAGGIO»: «Rendimento atteso dell'opzione = Tasso di interesse privo di rischio»; «Prezzo dell'opzione = Pay-Off Atteso Scontato»; «20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04) or 20 ∗ Δ - C = (18 ∗ Δ)/(1.04)». Il docente: il prezzo dell'opzione è «il valore atteso scontato del risultato finanziario di questo portafoglio di replicazione»; le formule up e down «devono generare il medesimo risultato» (transcript [00:22:05]–[00:22:48]). 20 ∗ Δ - C è il portafoglio di oggi, Δ azioni da $20 meno la call venduta; il suo valore a scadenza si **divide** per 1,04.
+**Opzione:** Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+**Distrattori:**
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1) · (1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ) · (1.04).
+- S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+
+**D:** ⚠️ Quanto vale la call dell'esempio del modello di Sharpe-Rendleman-Bartter, e da quali due condizioni si ricava?
+**R:** Slide 25: «Neutralità al rischio ⇨ Δ = 0,25», «Assenza di arbitraggio ⇨ 20 ∗ Δ - C = (18 ∗ Δ)/(1.04)», da cui «C = ((20 - 18) ∗ Δ)/(1.04)», «C = 0,673». Il docente: «per il principio di neutralità rischio il numero di azioni del portafoglio che replica l'opzione deve essere pari a 0,25»; per il principio di non arbitraggio si prende «una qualunque delle relazioni, quella up e quella down», e risolvendo per C «il prezzo della call è 0,673» (transcript [00:22:53]–[00:23:38]). ⚠️ Δ viene dalla neutralità al rischio, l'equazione del prezzo dall'assenza di arbitraggio. ⚠️ La formula intermedia della slide, presa alla lettera, dà (2 · 0,25)/1,04, circa 0,48: lo 0,673 si ottiene risolvendo 20 ∗ Δ - C = (18 ∗ Δ)/(1.04), cioè C = 5 - 4,5/1,04 (il calcolo non è nelle slide).
+**Opzione:** C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
+**Distrattori:**
+- C = 0,673, da Δ = 0,25 (assenza di arbitraggio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (neutralità al rischio).
+- α_0 = (C^u - C^d)/(S^u - S^d)
+- S∗_0 = E_{P∗}(S∗_T)
+
+**D:** ⚠️ In che cosa il metodo della martingala si distingue da quello di replicazione del portafoglio, secondo il docente della lezione 08?
+**R:** «Possiamo arrivare allo stesso risultato in termini di prezzo della call con un altro metodo che viene chiamato metodo della martingala»: un approccio «che non è un approccio analitico come quello del portafoglio di replicazione di replica ma è un metodo invece strettamente probabilistico» (transcript [00:23:38]–[00:24:03]). Anche per la replicazione il docente parla di «metodo analitico» ([00:16:47]). Le slide 15 e 26 sono i frontespizi dei due metodi; la slide 35 mostra che il secondo ritrova la (3) del primo.
+**Opzione:** Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
+**Distrattori:**
+- Arriva allo stesso prezzo della call, ma non è un approccio probabilistico come quello del portafoglio di replicazione: è un metodo strettamente analitico.
+- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+
+**D:** ⚠️ Rendimento atteso o valore atteso: che cosa uguagliano al tasso di interesse privo di rischio le due slide «ASSENZA DI ARBITRAGGIO» della lezione 08?
+**R:** La slide 24, nel metodo di replicazione, scrive «**Rendimento** atteso dell'opzione = Tasso di interesse privo di rischio». La slide 27, nel metodo della martingala, scrive «**Valore** atteso dell'opzione = Tasso di interesse privo di rischio», seguita da «o Prezzo dell'opzione = Pay-off atteso scontato». Il docente le legge entrambe così come sono ([00:21:33] e [00:24:03]). La formula coerente è quella della slide 24, perché un tasso si confronta con un rendimento e non con un valore; è anche quella della chiave della domanda 3 del test. Che «valore» sia un refuso della slide 27 è una deduzione, non è scritto nei materiali.
+
+**D:** ⚠️ Come si scrive il prezzo dell'opzione O_0 sull'albero del metodo della martingala, e come si chiama P?
+**R:** Slide 28: l'albero porta da «Prezzo dell'opzione = O» a «O Up» con probabilità P e a «O Down» con probabilità 1-P; «O_0 = (1+r)^(-1) (p ∗ O_up + (1-p) ∗ O_down)»; «P è definita misura di MARTINGALA». Il docente: il prezzo dell'opzione è «la probabilità per il valore dell'opzione nell'evento up più 1 meno p, che definisce la probabilità dell'evento down, il tutto scontato del valore del tempo che è 1 più r» (transcript [00:24:13]–[00:24:42]). ⚠️ p pesa O_up, 1-p pesa O_down.
+**Opzione:** O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
+**Distrattori:**
+- O_0 = (1+r)^(-1)(p ∗ O_down + (1-p) ∗ O_up), e P è definita misura di martingala.
+- g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
+- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+
+**D:** Come si definisce la dinamica evolutiva del sottostante S∗ nel metodo della martingala?
+**R:** Slide 29, «La derivazione via metodo della Martingala»: «La dinamica evolutiva del sottostante S∗ è definita come: i. S∗_0 = S_0; ii. S∗_T = (1+r)^(-1)S_T». Il docente lo chiama «processo scontato del sottostante» (transcript [00:24:42]–[00:25:20]). ⚠️ Al tempo 0 non c'è niente da scontare; al tempo T il prezzo si moltiplica per (1+r)^(-1).
+**Opzione:** S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+**Distrattori:**
+- S∗_0 = S_0 e S∗_T = (1+r)S_T.
+- X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
+- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+
+**D:** ⚠️ Quando S∗ è una P∗-martingala nel metodo della martingala (formula (4))?
+**R:** Slide 30: «S∗ è definita essere una P∗- Martingala, quando valgono le equivalenze sottostanti: S∗_0 = E_{P∗}(S∗_T) (4)». Il docente: «S zero star non è altro che il valore atteso sotto la misura di probabilità P star di S star t grande» (transcript [00:25:20]–[00:25:39]). ⚠️ A sinistra il valore di oggi, dentro il valore atteso quello a scadenza, scontato. La definizione generale di martingala è nella lezione 06.
+**Opzione:** S∗_0 = E_{P∗}(S∗_T)
+**Distrattori:**
+- S∗_T = E_{P∗}(S∗_0)
+- X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
+- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+
+**D:** Come si espande la (4) per determinare la misura P∗ (formule (5) e (6))?
+**R:** Slide 31–32: «Di seguito, l'espressione (4) è espansa al fine di determinare la misura: S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5)»; «dato che: P∗(ω_1) + P∗(ω_2) = 1, P∗(ω_2) = 1 - P∗(ω_1), l'espressione (5) può essere scritta come: S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1)) S^d] (6)». Il docente: basta sostituire le due relazioni per ottenere la (6) (transcript [00:25:39]–[00:26:31]). ⚠️ Anche qui si sconta per (1+r)^(-1).
+**Opzione:** S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+**Distrattori:**
+- S∗_0 = E_{P∗}(S∗_T) = (1+r) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+- C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
+- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+
+**D:** ⚠️ Quali valori di P∗(ω_1) e P∗(ω_2) risolvono la (6) nel metodo della martingala?
+**R:** Slide 32: «la soluzione dell'equazione (6) determina l'unica soluzione per il valore di P∗(ω_1) e P∗(ω_2): i. P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d); ii. P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d)». Il docente: la soluzione dell'equazione 6 «determina analiticamente l'unica soluzione» (transcript [00:26:01]–[00:26:31]). ⚠️ P∗(ω_1), la probabilità dello scenario up, ha S^d al numeratore; P∗(ω_2) ha S^u.
+**Opzione:** P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+**Distrattori:**
+- P∗(ω_1) = (S^u - (1+r)S_0)/(S^u - S^d) e P∗(ω_2) = ((1+r)S_0 - S^d)/(S^u - S^d): la soluzione è unica.
+- C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
+- C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
+
+**D:** ⚠️ Che cosa si ricava dalla (1) nel metodo della martingala, e che ruolo ha P∗ per l'opzione?
+**R:** Slide 33–34: «Il prezzo dell'opzione sotto una data misura di probabilità è dato da: C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+] (1). Quindi: C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T) i.e. P∗ è anche la misura di martingala per l'opzione.» Il docente: il prezzo scontato dell'opzione C∗_0 «equivale al C0», ed è il valore atteso sotto la misura P∗, «che è anche detta misura di martingala per l'opzione», del prezzo a scadenza scontato (transcript [00:27:19]–[00:28:03]). ⚠️ «Anche»: P∗ è la misura di martingala del sottostante (slide 30) e dell'opzione.
+**Opzione:** C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+**Distrattori:**
+- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è la misura di martingala per il sottostante, ma non per l'opzione.
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+- Esistono due scenari, up e down.
+
+**D:** ⚠️ A che cosa porta, nel metodo della martingala, la sostituzione delle misure di probabilità nel prezzo dell'opzione, e che cosa non torna nell'ultima riga della slide 35?
+**R:** Slide 35: «sostituendo le misure di probabilità» si ha (1+r)^(-1) · [((1+r)S_0 - S^d)/(S^u - S^d) C^u + (S^u - (1+r)S_0)/(S^u - S^d) C^d]; semplificando e raccogliendo (C^u - C^d) si arriva a C∗_0 = (C^u - C^d)S_0/(S^u - S^d) + (C^d S^u + C^u S^d)/((S^u - S^d)(1+r)), «che è uguale a (3)», come scrive la slide. Il metodo della martingala ritrova il prezzo del metodo di replicazione (slide 21); il docente: «che guarda caso è uguale alla 3» (transcript [00:28:03]–[00:29:13]). ⚠️ Nell'ultima riga la slide scrive al numeratore **C^d S^u + C^u S^d**, mentre la (3) della slide 21 e la riga precedente della stessa slide 35 hanno **C^d S^u - C^u S^d**; il docente legge il «più» ([00:28:40]). È un refuso di segno della slide: vale la (3).
+
+**D:** ⚠️ A che cosa è pari il prezzo al tempo zero dell'opzione call C con scadenza T, secondo il test della lezione 08 (domanda 1)?
+**R:** «**C_0=E_P[(1+r)^(-1)C_T]**». È il primo membro della formula (1) della slide 8, ripetuta alla 33, con le parentesi quadre al posto delle tonde. Il docente: il prezzo è il valore atteso sotto P del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). La domanda è una matrice a tre assi: chi sta a sinistra (C_0 o C_T), che cosa si sconta (C_T o C_0) e il fattore ((1+r)^(-1) o (1+r)). Distrattori del test: «C_T=E_P[(1+r)^(-1)C_T]» sbaglia solo il primo asse e **si contraddice da sola**, perché a sinistra c'è una variabile casuale e a destra un numero, il suo valore atteso scontato; torna nelle domande 3, 4 e 5. «C_0=E_P[(1+r)C_T]» sbaglia solo il fattore, che capitalizza invece di attualizzare. «C_T=E_P[(1+r)^(-1)C_0]» sbaglia i primi due assi.
+**Opzione:** C_0=E_P[(1+r)^(-1)C_T]
+**Distrattori:**
+- C_T=E_P[(1+r)^(-1)C_T]
+- C_T=E_P[(1+r)^(-1)C_0]
+- C_0=E_P[(1+r)C_T]
+
+**D:** ⚠️ Che cosa vale nel modello di Sharpe-Rendleman-Bartter uniperiodale, secondo il test della lezione 08 (domanda 2)?
+**R:** «**esistono due scenari, up e down**». La slide 5 definisce Ω = {ω_1, ω_2}, la slide 6 associa S^u a ω_1 e S^d a ω_2, la slide 9 disegna «S Up» e «S Down». Il docente: i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down» (transcript [00:07:55]). Distrattori del test: «esistono scenari idefiniti» è una trappola lessicale, perché nel transcript «indefiniti» sono i guadagni o le perdite della call ([00:05:14]); «il rendimento atteso dell'azione è uguale al tasso di interesse rischioso» scambia l'opzione con l'azione e il «privo di rischio» della slide 24 con un «rischioso» che non esiste nei materiali; «il rendimento atteso dell'azione è superiore al rendimento atteso dell'opzione» è un confronto che le slide non fanno.
+**Opzione:** esistono due scenari, up e down
+**Distrattori:**
+- esistono scenari idefiniti
+- il rendimento atteso dell'azione è uguale al tasso di interesse rischioso
+- il rendimento atteso dell'azione è superiore al rendimento atteso dell'opzione
+
+**D:** ⚠️ Che cosa vale nel modello di Sharpe-Rendleman-Bartter in assenza di arbitraggio, secondo il test della lezione 08 (domanda 3)?
+**R:** «**il tasso di interesse privo di rischio è uguale al rendimento atteso dell'opzione**». È la slide 24, «ASSENZA DI ARBITRAGGIO»: «Rendimento atteso dell'opzione = Tasso di interesse privo di rischio», con i membri scambiati. Il docente: «il rendimento atteso dell'opzione non può che essere uguale a quello del tasso di interesse privo di rischio» (transcript [00:21:33]). ⚠️ La slide 27 scrive «Valore atteso dell'opzione = Tasso di interesse privo di rischio», e il docente la legge così ([00:24:03]): la formula coerente è quella della slide 24, ed è quella della chiave. Distrattori del test: «il rendimento atteso dell'azione è uguale al tasso di interesse rischioso» ha l'oggetto scambiato e il segno invertito; «esistono scenari idefiniti» e «C_T=E_P[(1+r)^(-1)C_T]» sono il distrattore lessicale della domanda 2 e la formula che si contraddice da sola della domanda 1.
+**Opzione:** il tasso di interesse privo di rischio è uguale al rendimento atteso dell'opzione
+**Distrattori:**
+- esistono scenari idefiniti
+- il rendimento atteso dell'azione è uguale al tasso di interesse rischioso
+- C_T=E_P[(1+r)^(-1)C_T]
+
+**D:** ⚠️ Com'è la misura di probabilità nel modello di Sharpe-Rendleman-Bartter, secondo il test della lezione 08 (domanda 4)?
+**R:** «**è tale che le probabilità degli eventi sommano ad 1 in un unico periodo**». Slide 5: «una misura di probabilità P tale che: P(ω_1) + P(ω_2) = 1»; slide 31: P∗(ω_1) + P∗(ω_2) = 1; il docente lo dice a [00:07:38]. L'unico periodo è quello dello schema uniperiodale (slide 3). ⚠️ La D del test, «è tale che le probabilità degli eventi sono sempre < 1 in un unico periodo», non è nei materiali, che danno solo la somma e, nella lezione 01, valori in [0,1] estremi compresi. È però difendibile come matematica: se entrambi gli scenari hanno probabilità positiva, ciascuna è minore di 1. Per questo qui non compare fra i distrattori; all'esame va segnata la A. Gli altri distrattori del test sono il distrattore lessicale «scenari idefiniti», con il refuso «è ta che», e la formula che si contraddice da sola.
+**Opzione:** è tale che le probabilità degli eventi sommano ad 1 in un unico periodo
+**Distrattori:**
+- è ta che esistono scenari idefiniti
+- è tale che C_T=E_P[(1+r)^(-1)C_T]
+
+**D:** ⚠️ Di che cosa consta il portafoglio di replicazione nel modello di Sharpe-Rendleman-Bartter, secondo il test della lezione 08 (domanda 5)?
+**R:** «**consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale**»: è la chiave della piattaforma, da segnare. 🚨 Ma «1 azione» non è nelle slide. Il portafoglio è φ = (α_0, β_0), con α_0 azioni e β_0 liquidità (slide 17); α_0 = (C^u - C^d)/(S^u - S^d) (slide 20), e nell'esempio Δ = 0,25 (slide 23). L'«1» della slide 16 appartiene alla call venduta. La D è comunque l'unica opzione con azioni e liquidità, e l'unica con i due tempi: replica il pay-off a scadenza (slide 19) e vale C_0 a t = 0 (slide 21–22). Distrattori del test: «n opzioni e la liquidità» mette le opzioni al posto delle azioni; «n azioni e m opzioni» ricorda il portafoglio con Δ azioni e la call venduta della slide 16, che il docente chiama «il mio portafoglio di replicazione» ([00:22:18]) ma che nelle slide è quello della neutralità al rischio; «è tale che C_T=E_P[(1+r)^(-1)C_T]» è la formula che si contraddice da sola.
+**Opzione:** consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale
+**Distrattori:**
+- consta di n opzioni e la liquidità necessaria a replicare la posizione iniziale
+- è tale che C_T=E_P[(1+r)^(-1)C_T]
+- consta di n azioni e m opzioni necessarie a replicare la posizione finale
