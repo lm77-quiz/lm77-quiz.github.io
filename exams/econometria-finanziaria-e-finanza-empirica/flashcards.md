@@ -2645,3 +2645,564 @@
 - consta di n opzioni e la liquidità necessaria a replicare la posizione iniziale
 - è tale che C_T=E_P[(1+r)^(-1)C_T]
 - consta di n azioni e m opzioni necessarie a replicare la posizione finale
+
+## Lezione 09 — Pricing 2 - Modello Cox-Ross-Rubinstein
+
+**D:** ⚠️ Che cosa studia il modello di Cox-Ross-Rubinstein, e quale modello generalizza?
+**R:** Slide 2: «Il modello di Cox-Ross-Rubinstein — Pricing delle opzioni in uno schema multiperiodale». Il docente: è «una generalizzazione del modello di Sharp, Renderman e Barter che abbiamo visto essere un modello uniperiodale», e affronta «lo stesso fenomeno del pricing delle opzioni ma in uno schema multiperiodale» (transcript [00:00:04]–[00:00:43]). ⚠️ Multiperiodale: le date sono 0, 1, ....., T (slide 3); il modello della lezione 08 aveva un solo periodo.
+**Opzione:** Il pricing delle opzioni in uno schema multiperiodale: generalizza il modello di Sharpe-Rendleman-Bartter, che è uniperiodale.
+**Distrattori:**
+- Il pricing delle opzioni in uno schema uniperiodale: generalizza il modello di Sharpe-Rendleman-Bartter, che è multiperiodale.
+- La costruzione di un portafoglio finanziario che replica esattamente il valore dell'opzione, perché è identico a essa in ogni momento in termini di valore.
+- C∗_{T-m} = E_{P∗}(r̂^(-m)(S_T - K)^+ | ℑ^S_{T-m}), ∀m ≤ T: il prezzo del derivato è il valore scontato atteso sotto la misura di martingala, identico al prezzo del metodo di replicazione (30).
+
+**D:** ⚠️ Quali sono le due attività finanziarie del modello di Cox-Ross-Rubinstein, e come evolve quella priva di rischio?
+**R:** Slide 3: «Si consideri la successione di date: 0, 1, .....T e due attività finanziarie: un'attività rischiosa S ed un'altra priva di rischio B: i. B_t = (1 + r)^t = r̂^t ∀t ≤ T». Il docente: quella priva di rischio «è uguale a un fattore di capitalizzazione, 1 più R», elevato al tempo, e «lo denoteremo come R cappello» (transcript [00:00:43]–[00:01:07]). ⚠️ r̂ è il fattore di capitalizzazione lordo 1 + r, non il tasso r: è la r̂ di tutte le formule della lezione. ⚠️ B è l'attività priva di rischio; la liquidità del portafoglio di replicazione è β.
+**Opzione:** Un'attività rischiosa S e una priva di rischio B, con B_t = (1 + r)^t = r̂^t ∀t ≤ T.
+**Distrattori:**
+- Un'attività rischiosa S e una priva di rischio B, con B_t = (1 + r)^(-t) = r̂^(-t) ∀t ≤ T.
+- S_t = S_0 ∏_{j=1}^{t} ξ_j ∀t ≤ T
+- dt dt = (dt)²
+
+**D:** ⚠️ Quali ipotesi pone la slide 3 sulla dinamica dell'attività rischiosa S nel modello di Cox-Ross-Rubinstein?
+**R:** Slide 3: «ii. S_{t+1} = S_tξ_{t+1} dove • ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1 • d < r̂ < u • S_0 > 0 • ξ_t sono variabili casuali i.i.d. sullo spazio di probabilità (Ω, ℑ, P)». Il docente: S di t più 1 «è uguale ad S di t per xi t più 1», con «r cappello è maggiore di d e minore di u, s0 è maggiore di 0» e le ξ «variabili casuali, identicamente, indipendentemente distribuite» (transcript [00:01:07]–[00:01:52]). ⚠️ Il fattore di capitalizzazione r̂ sta fra d e u: d < r̂ < u.
+**Opzione:** S_{t+1} = S_tξ_{t+1}, con ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1, d < r̂ < u, S_0 > 0 e ξ_t variabili casuali i.i.d. sullo spazio di probabilità (Ω, ℑ, P).
+**Distrattori:**
+- S_{t+1} = S_tξ_{t+1}, con ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1, r̂ < d < u, S_0 > 0 e ξ_t variabili casuali i.i.d. sullo spazio di probabilità (Ω, ℑ, P).
+- S∗_t = E_{P∗}(S∗_{t+1} | ℑ^S_t) ∀t ≤ T - 1
+- V_{T-1}(φ) = α_{T-1}S_{T-1} + β_{T-1} = C_{T-1}: il portafoglio è costruito per valere quanto la call.
+
+**D:** ⚠️ Quali valori può assumere ξ_{t+1} nel modello di Cox-Ross-Rubinstein?
+**R:** Soltanto due. Slide 3: «ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1»; slide 10: «Poichè ξ_T può assumere soltanto due valori: u, d allora il sistema sottostante è univocamente determinato». Il docente: ξ «può assumere soltanto due valori, up and down» (transcript [00:07:22]). ⚠️ A [00:01:07]–[00:01:21] il transcript dice che ξ «appartiene all'intervallo» e «assume valori u e d»: {u, d} non è un intervallo, è un insieme di due valori. Vale la slide.
+**Opzione:** Soltanto due valori, u e d: ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1.
+**Distrattori:**
+- Tutti i valori dell'intervallo fra d e u: d ≤ ξ_{t+1} ≤ u ∀t ≤ T - 1.
+- p∗ = (r̂ - d)/(u - d) e 1 - p∗ = (u - r̂)/(u - d)
+- dW_tdt = (dt)^(3/2)
+
+**D:** ⚠️ Come si scrive S_t in funzione di S_0 con la produttoria, nel modello di Cox-Ross-Rubinstein?
+**R:** Slide 4: «S_t può essere scritto come: S_t = S_0 ∏_{j=1}^{t} ξ_j ∀t ≤ T». Il docente: «s0 per la produttoria, per j che va da 1 a t, di» ξ_j (transcript [00:01:21]–[00:01:56]). ⚠️ La produttoria parte da S_0 e da ξ_1; nella ricorsione S_T = S_{T-1}ξ_T (slide 9) c'è un solo fattore. Mescolare le due forme dà il distrattore S_T=S_{T-1}ξ_1ξ_2ξ_T della domanda 2 del test.
+**Opzione:** S_t = S_0 ∏_{j=1}^{t} ξ_j ∀t ≤ T
+**Distrattori:**
+- S_t = S_0 ∑_{j=1}^{t} ξ_j ∀t ≤ T
+- Un'attività rischiosa S e una priva di rischio B, con B_t = (1 + r)^t = r̂^t ∀t ≤ T.
+- C_{T-2} = (1/r̂)(p∗C^u_{T-1} + (1 - p∗)C^d_{T-1})
+
+**D:** Come si riscrive S_t in forma esponenziale nel modello di Cox-Ross-Rubinstein, e come sono distribuite le ζ_t?
+**R:** Slide 4: «e, similarmente: S_t = S_0 · e^(∑_{j=1}^{t} ζ_j) ∀t ≤ T dove ζ_t sono di nuovo i.i.d. sullo spazio di probabilità (Ω, ℑ, P) i.e.: P{ζ_t = ln u} = p = 1 - P{ζ_t = ln d} ∀t ≤ T.» Il docente: «per le proprietà dei numeri esponenziali possiamo riscrivere la produttoria come l'esponenziale della sommatoria»; «evidente il rapporto esponenziale logaritmo» (transcript [00:01:56]–[00:02:43]). ⚠️ Il docente le chiama «sigma j», la slide scrive ζ_j (zeta). ⚠️ ζ_t vale ln u o ln d, non u o d.
+**Opzione:** S_t = S_0 · e^(∑_{j=1}^{t} ζ_j) ∀t ≤ T, con ζ_t i.i.d. e P{ζ_t = ln u} = p = 1 - P{ζ_t = ln d}.
+**Distrattori:**
+- S_t = S_0 · e^(∑_{j=1}^{t} ζ_j) ∀t ≤ T, con ζ_t i.i.d. e P{ζ_t = u} = p = 1 - P{ζ_t = d}.
+- Y_t = lnX_t
+- lnX_t/X_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]
+
+**D:** ⚠️ Nell'albero del modello di Cox-Ross-Rubinstein, quale valore assume S se va una volta in alto e una volta in basso?
+**R:** Slide 5, «Pricing – Un approccio intuitivo»: da S_0 l'albero va a S_u e S_d, poi a S_uu, S_ud e S_dd, fino a S_uu..u, S_ud..d e S_dd..d, sull'asse t=0, t=Δt, t=2∗Δt, …, t=T=N∗Δt; il nodo S_ud è uno solo. Il docente: «S assumerà il valore up down, che è lo stesso valore che assume quando S down va verso l'alto» (transcript [00:03:19]–[00:03:31]). La slide 6 rimappa sullo stesso albero il valore dell'opzione: O_0, O_u, O_d, O_ud, O_dd… ([00:03:59]–[00:04:34]).
+**Opzione:** Il valore S_ud, lo stesso che assume quando S_d va verso l'alto: l'ordine dei due movimenti non conta.
+**Distrattori:**
+- Il valore S_ud, diverso da quello che assume quando S_d va verso l'alto: l'ordine dei due movimenti conta.
+- Soltanto due valori, u e d: ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1.
+- Il pricing delle opzioni in uno schema multiperiodale: generalizza il modello di Sharpe-Rendleman-Bartter, che è uniperiodale.
+
+**D:** Che cos'è il metodo di replicazione del portafoglio, secondo il docente della lezione 09?
+**R:** «la costruzione di un portafoglio finanziario che va a replicare esattamente il valore dell'opzione in quanto è allo stesso identico in ogni momento in termini di valore» (transcript [00:04:38]–[00:05:09]). È solo nel transcript: la slide 7 è il frontespizio «Il metodo di replicazione del portafoglio». ⚠️ «In ogni momento»: la procedura impone l'uguaglianza fra portafoglio e call a T, a T - 1, a T - 2 e così via (slide 8, 12, 22, 33).
+**Opzione:** La costruzione di un portafoglio finanziario che replica esattamente il valore dell'opzione, perché è identico a essa in ogni momento in termini di valore.
+**Distrattori:**
+- La costruzione di un portafoglio finanziario che replica il valore dell'opzione soltanto alla scadenza, mentre negli altri momenti può valere diversamente.
+- Il valore S_ud, lo stesso che assume quando S_d va verso l'alto: l'ordine dei due movimenti non conta.
+- Che risolvendo r̂ = up∗ + (1 - p∗)d si ritrovano le stesse (9) e (10): p∗ e 1 - p∗ sono le probabilità della misura di martingala.
+
+**D:** ⚠️ Che cosa si replica nel modello di Cox-Ross-Rubinstein, e come si scrive il valore del portafoglio al tempo T (formula (7))?
+**R:** Slide 8: «Si replica la posizione corta di un investitore su una call. Al tempo T. (C_T): V_T(φ) = α_{T-1}S_T + β_{T-1}r̂ = C_T = (S_T - K)^+ (7)». Il docente: «una certa quantità di sottostante identificata al tempo t meno 1 moltiplicata per S t grande più il valore dell'attività priva di rischio al tempo t meno 1 capitalizzato» per r̂ = 1 + r, e il portafoglio si impone «uguale al prezzo dell'opzione alla scadenza» (transcript [00:05:09]–[00:06:23]). ⚠️ α_{T-1} e β_{T-1} si decidono a T - 1; a T la liquidità è capitalizzata per r̂. È la chiave della domanda 1 del test, che scrive θ, B e r al posto di φ, β e r̂.
+**Opzione:** La posizione corta di un investitore su una call: V_T(φ) = α_{T-1}S_T + β_{T-1}r̂ = C_T = (S_T - K)^+
+**Distrattori:**
+- La posizione corta di un investitore su una call: V_T(φ) = α_{T-1}S_T + β_{T-1}r̂^(-1) = C_T = (S_T - K)^+
+- a = inf{j ∈ N^+ | S_{T-m}u^j d^(m-j) - K > 0}: con la somma da j = a si elimina dalla (29) la funzione di massimo.
+- S_T = S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T
+
+**D:** ⚠️ Perché il sistema della slide 10 è univocamente determinato, e come si scrive?
+**R:** Slide 9: «Poichè S_T = S_{T-1}ξ_T l'espressione (7) può essere scritta come: V_T(φ) = α_{T-1}S_{T-1}ξ_T + β_{T-1}r̂ = C_T = (S_{T-1}ξ_T - K)^+». Slide 10: «Poichè ξ_T può assumere soltanto due valori: u, d allora il sistema sottostante è univocamente determinato: V_T(φ)(ξ) = V^u_T(φ) = α_{T-1}uS_{T-1} + r̂β_{T-1} = (S_{T-1}u - K)^+ if ξ_T = u; V^d_T(φ) = α_{T-1}dS_{T-1} + r̂β_{T-1} = (S_{T-1}d - K)^+ if ξ_T = d». Il docente: due equazioni, «una in termini dell'evento up e una in termini dell'evento down» (transcript [00:07:22]–[00:07:53]).
+**Opzione:** Perché ξ_T assume soltanto i valori u e d: V^u_T(φ) = α_{T-1}uS_{T-1} + r̂β_{T-1} = (S_{T-1}u - K)^+ se ξ_T = u e V^d_T(φ) = α_{T-1}dS_{T-1} + r̂β_{T-1} = (S_{T-1}d - K)^+ se ξ_T = d.
+**Distrattori:**
+- Perché ξ_T assume soltanto i valori u e d: V^u_T(φ) = α_{T-1}uS_{T-1} + r̂β_{T-1} = (S_{T-1}d - K)^+ se ξ_T = u e V^d_T(φ) = α_{T-1}dS_{T-1} + r̂β_{T-1} = (S_{T-1}u - K)^+ se ξ_T = d.
+- Una misura P∗ equivalente a P, sotto cui il prezzo scontato del sottostante S∗ soddisfi S∗_0 = S_0 e S∗_T = (1 + r)^(-T)S_T.
+- r̂^(-(t+1)) perché è una costante; S_t perché è adattato a S_0, S_1, ...., S_t, cioè alla σ-algebra ℑ^S_t scritta esplicitamente.
+
+**D:** ⚠️ Quanto vale α_{T-1}, la quantità di sottostante che risolve il sistema della slide 10?
+**R:** Slide 11: «Questo sistema ha un'unica soluzione data da: α_{T-1} = [(S_{T-1}u-K)^+ - (S_{T-1}d-K)^+]/[S_{T-1}(u-d)]». Il docente: «Ovviamente questo sistema ha un'unica soluzione, è data dalle due frazioni che sono riportate qui nella slide» (transcript [00:07:53]–[00:08:11]). ⚠️ Al denominatore S_{T-1}(u-d), non r̂(u-d), che è quello di β_{T-1}. È la chiave della domanda 3 del test.
+**Opzione:** α_{T-1} = [(S_{T-1}u-K)^+ - (S_{T-1}d-K)^+]/[S_{T-1}(u-d)]
+**Distrattori:**
+- α_{T-1} = [(S_{T-1}u-K)^+ - (S_{T-1}d-K)^+]/[r̂(u-d)]
+- S_t = S_0 · e^(∑_{j=1}^{t} ζ_j) ∀t ≤ T, con ζ_t i.i.d. e P{ζ_t = ln u} = p = 1 - P{ζ_t = ln d}.
+- S∗_t = E_{P∗}(S∗_{t+1} | ℑ^S_t) ∀t ≤ T - 1
+
+**D:** ⚠️ Quanto vale β_{T-1}, la liquidità che risolve il sistema della slide 10?
+**R:** Slide 11: «β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[r̂(u-d)]». ⚠️ u moltiplica il pay-off dello scenario down, d quello dello scenario up; al denominatore c'è r̂(u-d), mentre α_{T-1} ha S_{T-1}(u-d). È la chiave della domanda 4 del test, che scrive (S_{T-1}u-K)^+ al posto di (uS_{T-1}-K)^+, lo stesso prodotto, e r al posto di r̂.
+**Opzione:** β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[r̂(u-d)]
+**Distrattori:**
+- β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[S_{T-1}(u-d)]
+- S_t = S_0 ∏_{j=1}^{t} ξ_j ∀t ≤ T
+- S_T = S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T
+
+**D:** ⚠️ Quanto vale il portafoglio di replicazione al tempo T - 1 nel modello di Cox-Ross-Rubinstein (formula (8)), e perché?
+**R:** Slide 12: «Il valore del portafoglio al tempo T - 1 è uguale al valore della call al tempo T - 1: V_{T-1}(φ) = α_{T-1}S_{T-1} + β_{T-1} = C_{T-1} (8)». Il docente: «perché così abbiamo costruito il nostro portafoglio di replica» (transcript [00:08:11]). ⚠️ A T - 1 la liquidità è β_{T-1}, senza r̂: il fattore r̂ compare nella (7), al tempo T.
+**Opzione:** V_{T-1}(φ) = α_{T-1}S_{T-1} + β_{T-1} = C_{T-1}: il portafoglio è costruito per valere quanto la call.
+**Distrattori:**
+- V_{T-1}(φ) = α_{T-1}S_{T-1} + β_{T-1}r̂ = C_{T-1}: il portafoglio è costruito per valere quanto la call.
+- S_{t+1} = S_tξ_{t+1}, con ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1, d < r̂ < u, S_0 > 0 e ξ_t variabili casuali i.i.d. sullo spazio di probabilità (Ω, ℑ, P).
+- Perché ξ_{t+1} è per ipotesi indipendente da S_0, S_1, ...., S_t; e date le caratteristiche distributive di ξ_{t+1}, r̂ = up∗ + (1 - p∗)d.
+
+**D:** ⚠️ Come si definiscono p∗ e 1 - p∗ nel metodo di replicazione del modello di Cox-Ross-Rubinstein (formule (9) e (10))?
+**R:** Slide 14: «definendo: p∗ = (r̂ - d)/(u - d) (9)», «(1 - p∗) = 1 - (r̂-d)/(u-d) = (u-r̂)/(u-d)», «1 - p∗ = (u - r̂)/(u - d) (10)»; la slide scrive l'asterisco in pedice. Il docente: «definiamo P star come R cappello meno D su U meno D e 1 meno P star U meno R cappello su U meno D» (transcript [00:09:18]). Le stesse (9) e (10) tornano nella slide 52. ⚠️ Al numeratore di p∗ c'è r̂ - d, con r̂ = 1 + r. È la chiave della domanda 5 del test, che scrive r per r̂.
+**Opzione:** p∗ = (r̂ - d)/(u - d) e 1 - p∗ = (u - r̂)/(u - d)
+**Distrattori:**
+- p∗ = (u - r̂)/(u - d) e 1 - p∗ = (r̂ - d)/(u - d)
+- La posizione corta di un investitore su una call: V_T(φ) = α_{T-1}S_T + β_{T-1}r̂ = C_T = (S_T - K)^+
+- C_{T-m} = (1/r̂^m) ∑_{j=0}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (u^j d^(m-j) S_{T-m} - K)^+, per m = 1, ....., T
+
+**D:** ⚠️ Quanto vale C_{T-1} nel modello di Cox-Ross-Rubinstein, una volta sostituiti α_{T-1} e β_{T-1} nella (8) e definita p∗ (formula (11))?
+**R:** Slide 13: sostituendo α_{T-1} e β_{T-1} e semplificando si arriva a V_{T-1}(φ) = r̂^(-1)[(r̂-d)(S_{T-1}u-K)^+/(u-d) + (u-r̂)(S_{T-1}d-K)^+/(u-d)]; con le (9) e (10), slide 15: «poichè V_{T-1}(φ) = C_{T-1} al tempo T - 1: V_{T-1}(φ) = C_{T-1} = r̂^(-1)[p∗(S_{T-1}u - K)^+ + (1 - p∗)(S_{T-1}d - K)^+] (11)». Il docente: il prezzo della call a T - 1 è «l'inverso di R cappello per P star» per il pay-off dell'evento up «più 1 meno p star» per il pay-off dell'evento down (transcript [00:08:51]–[00:10:09]). ⚠️ p∗ pesa lo scenario up, 1 - p∗ lo scenario down; si sconta per r̂^(-1).
+**Opzione:** C_{T-1} = r̂^(-1)[p∗(S_{T-1}u - K)^+ + (1 - p∗)(S_{T-1}d - K)^+]
+**Distrattori:**
+- C_{T-1} = r̂^(-1)[p∗(S_{T-1}d - K)^+ + (1 - p∗)(S_{T-1}u - K)^+]
+- Un'attività rischiosa S e una priva di rischio B, con B_t = (1 + r)^t = r̂^t ∀t ≤ T.
+- dW_tdt = (dt)^(3/2)
+
+**D:** ⚠️ Che cosa mostra il metodo della martingala sulle quantità p∗ e 1 - p∗ definite nel metodo di replicazione?
+**R:** Nel metodo di replicazione p∗ e 1 - p∗ sono soltanto «definite» (slide 14); il docente anticipa che sono probabilità, «come vedremo quando affronteremo meglio il metodo con il metodo della martingala» ([00:09:31]), e che p∗^j «vedremo col metodo della martingala, essere una probabilità» ([00:21:07]). Nel metodo della martingala, slide 51–52: «r̂ = up∗ + (1 - p∗)d»; «risolvendo per p∗ si ottiene dunque il valore di p∗: p∗ = (r̂ - d)/(u - d) (9)» e «(1 - p∗) = (u - r̂)/(u - d) (10)». Il docente: le relazioni 9 e 10 «guarda caso coincidono con le quantità P star e 1 meno P star che avevamo identificato attraverso il metodo di replicazione del portafoglio» (transcript [00:28:44]).
+**Opzione:** Che risolvendo r̂ = up∗ + (1 - p∗)d si ritrovano le stesse (9) e (10): p∗ e 1 - p∗ sono le probabilità della misura di martingala.
+**Distrattori:**
+- Che risolvendo r̂ = up∗ + (1 - p∗)d si ottengono valori diversi dalle (9) e (10): p∗ e 1 - p∗ non sono le probabilità della misura di martingala.
+- La costruzione di un portafoglio finanziario che replica esattamente il valore dell'opzione, perché è identico a essa in ogni momento in termini di valore.
+- Che sono i.i.d., con E(ξ_t) = up∗ + (1 - p∗)d, e che il valore atteso del loro prodotto è il prodotto dei valori attesi: E(ξ_0ξ_1ξ_2....ξ_t) = E(ξ_0)E(ξ_1)E(ξ_2).....E(ξ_t).
+
+**D:** ⚠️ Quanto valgono α_{T-2} e β_{T-2}, le soluzioni del sistema (14) (formule (15) e (16))?
+**R:** Slide 16: «Questa procedura è ripetuta al tempo T - 2, i.e.: V_{T-1}(φ) = α_{T-2}S_{T-1} + β_{T-2}r̂ = C_{T-1}», con S_{T-1} sostituito da ξ_{T-1}S_{T-2} (12). Slide 19, il nuovo sistema (14): V^u_{T-1}(φ) = α_{T-2}uS_{T-2} + r̂β_{T-2} = C^u_{T-1} se ξ_{T-1} = u, V^d_{T-1}(φ) = α_{T-2}dS_{T-2} + r̂β_{T-2} = C^d_{T-1} se ξ_{T-1} = d. Slide 20: «Il sistema (14) ha la soluzione seguente: α_{T-2} = (C^u_{T-1} - C^d_{T-1})/(S_{T-2}(u - d)) (15), β_{T-2} = (uC^d_{T-1} - dC^u_{T-1})/(r̂(u - d)) (16)». Il docente: «Questo sistema ha una soluzione semplicemente univoca» (transcript [00:12:20]). ⚠️ Le stesse forme della slide 11, con C^u_{T-1} e C^d_{T-1} al posto dei pay-off a scadenza: u moltiplica C^d_{T-1}, d moltiplica C^u_{T-1}.
+**Opzione:** α_{T-2} = (C^u_{T-1} - C^d_{T-1})/(S_{T-2}(u - d)) e β_{T-2} = (uC^d_{T-1} - dC^u_{T-1})/(r̂(u - d))
+**Distrattori:**
+- α_{T-2} = (C^u_{T-1} - C^d_{T-1})/(S_{T-2}(u - d)) e β_{T-2} = (uC^u_{T-1} - dC^d_{T-1})/(r̂(u - d))
+- S_t = S_0 · e^(∑_{j=1}^{t} ζ_j) ∀t ≤ T, con ζ_t i.i.d. e P{ζ_t = ln u} = p = 1 - P{ζ_t = ln d}.
+- Una misura P∗ equivalente a P, sotto cui il prezzo scontato del sottostante S∗ soddisfi S∗_0 = S_0 e S∗_T = (1 + r)^(-T)S_T.
+
+**D:** ⚠️ Quanto valgono C^u_{T-1} e C^d_{T-1} in funzione di S_{T-2} (formule (17) e (18))?
+**R:** Slide 21: «dove usando la (13) si ottengono i valori per C^u_{T-1} e C^d_{T-1}: C^u_{T-1} = r̂^(-1)[p∗(S_{T-2}u² - K)^+ + (1 - p∗)(S_{T-2}ud - K)^+] (17); C^d_{T-1} = r̂^(-1)[p∗(S_{T-2}ud - K)^+ + (1 - p∗)(S_{T-2}d² - K)^+] (18)». Il docente: la media ponderata con p∗ e 1 - p∗ «del valore intrinseco dell'opzione portato indietro di due tempi», con «un evento up per due volte, quindi up al quadrato, un evento up and down», e nella 18 «down due volte»; «le componenti si incrociano» (transcript [00:12:36]–[00:13:47]). ⚠️ Il nodo ud compare in entrambe: pesato 1 - p∗ in C^u_{T-1}, p∗ in C^d_{T-1}.
+**Opzione:** C^u_{T-1} = r̂^(-1)[p∗(S_{T-2}u² - K)^+ + (1 - p∗)(S_{T-2}ud - K)^+] e C^d_{T-1} = r̂^(-1)[p∗(S_{T-2}ud - K)^+ + (1 - p∗)(S_{T-2}d² - K)^+]
+**Distrattori:**
+- C^u_{T-1} = r̂^(-1)[p∗(S_{T-2}u² - K)^+ + (1 - p∗)(S_{T-2}ud - K)^+] e C^d_{T-1} = r̂^(-1)[p∗(S_{T-2}d² - K)^+ + (1 - p∗)(S_{T-2}ud - K)^+]
+- p∗ = (r̂ - d)/(u - d) e 1 - p∗ = (u - r̂)/(u - d)
+- Soltanto due valori, u e d: ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1.
+
+**D:** ⚠️ Come si scrive C_{T-2} in funzione di C^u_{T-1} e C^d_{T-1}?
+**R:** Slide 22: «Il valore del portafoglio al tempo T - 2 è definito come il valore della Call al tempo T - 2: V_{T-2}(φ) = α_{T-2}S_{T-2} + β_{T-2} = C_{T-2} (19)». Slide 23–24: sostituendo la (15) e la (16) e «utilizzando le definizioni (9) e (10)» si ricava «= (1/r̂)(p∗C^u_{T-1} + (1 - p∗)C^d_{T-1})». Il docente: «1 su r cappello che moltiplica la media ponderata con p star e 1 meno p star come fattori di ponderazione di che cosa? Del prezzo della call up al tempo t meno 1 e del prezzo della call down al tempo t meno 1» (transcript [00:13:47]–[00:14:44]). ⚠️ È la struttura della (11), un periodo prima: media ponderata con p∗ sul ramo up, scontata per 1/r̂.
+**Opzione:** C_{T-2} = (1/r̂)(p∗C^u_{T-1} + (1 - p∗)C^d_{T-1})
+**Distrattori:**
+- C_{T-2} = (1/r̂)(p∗C^d_{T-1} + (1 - p∗)C^u_{T-1})
+- β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[r̂(u-d)]
+- α_{T-3} = (C^u_{T-2} - C^d_{T-2})/(S_{T-3}(u - d)) e β_{T-3} = (uC^d_{T-2} - dC^u_{T-2})/(r̂(u - d))
+
+**D:** ⚠️ Quanto vale C_{T-2} in funzione di S_{T-2} (formula (20))?
+**R:** Slide 25: sostituendo la (17) e la (18); slide 26: «semplificando C_{T-2} = (1/r̂²)[p∗²(S_{T-2}u² - K)^+ + 2p∗(1 - p∗)(S_{T-2}ud - K)^+ + (1 - p∗)²(S_{T-2}d² - K)^+] (20)». Il docente: «Semplificando troviamo il prezzo della call al tempo t-2 e viene caratterizzato dall'espressione 20» (transcript [00:15:34]). ⚠️ Due periodi: si sconta per 1/r̂², e il nodo ud ha il coefficiente 2p∗(1 - p∗).
+**Opzione:** C_{T-2} = (1/r̂²)[p∗²(S_{T-2}u² - K)^+ + 2p∗(1 - p∗)(S_{T-2}ud - K)^+ + (1 - p∗)²(S_{T-2}d² - K)^+]
+**Distrattori:**
+- C_{T-2} = (1/r̂)[p∗²(S_{T-2}u² - K)^+ + 2p∗(1 - p∗)(S_{T-2}ud - K)^+ + (1 - p∗)²(S_{T-2}d² - K)^+]
+- α_{T-1} = [(S_{T-1}u-K)^+ - (S_{T-1}d-K)^+]/[S_{T-1}(u-d)]
+- r̂^(-(t+1)) perché è una costante; S_t perché è adattato a S_0, S_1, ...., S_t, cioè alla σ-algebra ℑ^S_t scritta esplicitamente.
+
+**D:** Quanto valgono α_{T-3} e β_{T-3} nel modello di Cox-Ross-Rubinstein (formule (23) e (24))?
+**R:** Slide 27: «la procedura è ripetuta al tempo T - 3, i.e.: V_{T-2}(φ) = α_{T-3}S_{T-2} + β_{T-3}r̂ = C_{T-2}», con S_{T-2} = ξ_{T-2}S_{T-3} (21). Slide 30–31: il nuovo sistema, V^u_{T-2}(φ) = α_{T-3}uS_{T-3} + r̂β_{T-3} = C^u_{T-2} e V^d_{T-2}(φ) = α_{T-3}dS_{T-3} + r̂β_{T-3} = C^d_{T-2}, «le cui soluzioni sono: α_{T-3} = (C^u_{T-2} - C^d_{T-2})/(S_{T-3}(u - d)) (23); β_{T-3} = (uC^d_{T-2} - dC^u_{T-2})/(r̂(u - d)) (24)» (transcript [00:15:44]–[00:17:41]). ⚠️ Le forme della (15) e della (16), un periodo prima. Nel sistema la slide 30 scrive le condizioni «if ξ_T = u» e «if ξ_T = d», dove la slide 19 scriveva ξ_{T-1}: è un refuso, la variabile in gioco è ξ_{T-2}.
+**Opzione:** α_{T-3} = (C^u_{T-2} - C^d_{T-2})/(S_{T-3}(u - d)) e β_{T-3} = (uC^d_{T-2} - dC^u_{T-2})/(r̂(u - d))
+**Distrattori:**
+- α_{T-3} = (C^u_{T-2} - C^d_{T-2})/(r̂(u - d)) e β_{T-3} = (uC^d_{T-2} - dC^u_{T-2})/(S_{T-3}(u - d))
+- C_{T-1} = r̂^(-1)[p∗(S_{T-1}u - K)^+ + (1 - p∗)(S_{T-1}d - K)^+]
+- dt dt = (dt)²
+
+**D:** ⚠️ Quanto vale C_{T-3} dopo le semplificazioni (formula (28)), e che cosa vi nota il docente?
+**R:** Slide 36: sostituendo la (25) e la (26); slide 37: un primo «semplificando» con sei addendi; slide 38: «semplificando ancora C_{T-3} = (1/r̂³)[p∗³(S_{T-3}u³ - K)^+ + 3p∗²(1 - p∗)(S_{T-3}u²d - K)^+ + 3p∗(1 - p∗)²(S_{T-3}ud² - K)^+ + (1 - p∗)³(S_{T-3}d³ - K)^+] (28)». Il docente: alla formula 28 «iniziamo già a notare una serie di ricorrenze numeriche che a breve ci consentiranno di generalizzare la formula» del pricing multiperiodale (transcript [00:20:16]–[00:20:47]). ⚠️ Tre periodi: 1/r̂³ e coefficienti 1, 3, 3, 1; nella slide 37 i termini in u²d e in ud² sono ancora separati, con 2 e 1.
+**Opzione:** C_{T-3} = (1/r̂³)[p∗³(S_{T-3}u³ - K)^+ + 3p∗²(1 - p∗)(S_{T-3}u²d - K)^+ + 3p∗(1 - p∗)²(S_{T-3}ud² - K)^+ + (1 - p∗)³(S_{T-3}d³ - K)^+]
+**Distrattori:**
+- C_{T-3} = (1/r̂³)[p∗³(S_{T-3}u³ - K)^+ + 2p∗²(1 - p∗)(S_{T-3}u²d - K)^+ + 2p∗(1 - p∗)²(S_{T-3}ud² - K)^+ + (1 - p∗)³(S_{T-3}d³ - K)^+]
+- V_{T-1}(φ) = α_{T-1}S_{T-1} + β_{T-1} = C_{T-1}: il portafoglio è costruito per valere quanto la call.
+- a = inf{j ∈ N^+ | S_{T-m}u^j d^(m-j) - K > 0}: con la somma da j = a si elimina dalla (29) la funzione di massimo.
+
+**D:** ⚠️ Qual è la formula generale del valore di una call europea al tempo t = T - m nel modello di Cox-Ross-Rubinstein (formula (29))?
+**R:** Slide 39–40: «la formula che fornisce il valore di una Call Europea ad un generico tempo t = T - m può essere generalizzata come segue: C_{T-m} = (1/r̂^m) ∑_{j=0}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (u^j d^(m-j) S_{T-m} - K)^+ (29) per m = 1, ....., T». Il docente: «1 diviso r cappello elevato alla m per la sommatoria per j che va da 0 ad m, coefficiente binomiale mj, per il fattore p star j ... per 1 meno p star m meno j, per la funzione di massimo tra u elevato alla j per d elevato alla m meno j, st grande meno m meno k, e 0» (transcript [00:20:47]–[00:21:34]). ⚠️ p∗ ha lo stesso esponente j di u, 1 - p∗ lo stesso esponente m - j di d; (m su j) è il coefficiente binomiale.
+**Opzione:** C_{T-m} = (1/r̂^m) ∑_{j=0}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (u^j d^(m-j) S_{T-m} - K)^+, per m = 1, ....., T
+**Distrattori:**
+- C_{T-m} = (1/r̂^m) ∑_{j=0}^{m} (m su j) p∗^(m-j) (1 - p∗)^j (u^j d^(m-j) S_{T-m} - K)^+, per m = 1, ....., T
+- La posizione corta di un investitore su una call: V_T(φ) = α_{T-1}S_T + β_{T-1}r̂ = C_T = (S_T - K)^+
+- Perché ξ_{t+1} è per ipotesi indipendente da S_0, S_1, ...., S_t; e date le caratteristiche distributive di ξ_{t+1}, r̂ = up∗ + (1 - p∗)d.
+
+**D:** ⚠️ Che cos'è a nella formula di Cox-Ross-Rubinstein, e a che cosa serve?
+**R:** Slide 40: «Al fine di eliminare la funzione di massimo all'interno della formula, si definisce: a = inf{j ∈ N^+ | S_{T-m}u^j d^(m-j) - K > 0}»; slide 41: «Di conseguenza la (29) può essere riscritta come: C_{T-m} = (1/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (u^j d^(m-j) S_{T-m} - K)», senza la parte positiva. Il docente: a è «il valore inferiore di j che appartiene ai naturali positivi tale che» S_{T-m}u^j d^(m-j) - K «sia maggiore di zero» (transcript [00:21:34]–[00:22:25]). ⚠️ Maggiore di zero, e la somma parte da j = a invece che da j = 0.
+**Opzione:** a = inf{j ∈ N^+ | S_{T-m}u^j d^(m-j) - K > 0}: con la somma da j = a si elimina dalla (29) la funzione di massimo.
+**Distrattori:**
+- a = inf{j ∈ N^+ | S_{T-m}u^j d^(m-j) - K < 0}: con la somma da j = a si elimina dalla (29) la funzione di massimo.
+- C_{T-2} = (1/r̂)(p∗C^u_{T-1} + (1 - p∗)C^d_{T-1})
+- S_{t+1} = S_tξ_{t+1}, con ξ_{t+1} ∈ {u, d} ∀t ≤ T - 1, d < r̂ < u, S_0 > 0 e ξ_t variabili casuali i.i.d. sullo spazio di probabilità (Ω, ℑ, P).
+
+**D:** Come si separa in due sommatorie, una per il sottostante e una per lo strike, la formula del prezzo C_{T-m} senza la funzione di massimo?
+**R:** Slide 42: «Quindi: C_{T-m} = (1/r̂^m)(∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j) u^j d^(m-j) S_{T-m} - K ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j))»; slide 43: «semplificando: C_{T-m} = (S_{T-m}/r̂^m) ∑_{j=a}^{m} (m su j)(p∗u)^j [(1 - p∗)d]^(m-j) - (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j)». Il docente: «due sommatorie autonome. Una ... relativamente all'attività sottostante rischiosa e uno relativamente a K che è il prezzo di esercizio della call europea»; S_{T-m} esce dalla sommatoria «perché non è influenzata dalla sommatoria» (transcript [00:22:25]–[00:23:26]). ⚠️ Le due sommatorie si sottraggono.
+**Opzione:** C_{T-m} = (S_{T-m}/r̂^m) ∑_{j=a}^{m} (m su j)(p∗u)^j [(1 - p∗)d]^(m-j) - (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j)
+**Distrattori:**
+- C_{T-m} = (S_{T-m}/r̂^m) ∑_{j=a}^{m} (m su j)(p∗u)^j [(1 - p∗)d]^(m-j) + (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j)
+- α_{T-1} = [(S_{T-1}u-K)^+ - (S_{T-1}d-K)^+]/[S_{T-1}(u-d)]
+- α_{T-3} = (C^u_{T-2} - C^d_{T-2})/(S_{T-3}(u - d)) e β_{T-3} = (uC^d_{T-2} - dC^u_{T-2})/(r̂(u - d))
+
+**D:** ⚠️ Qual è la formula finale (30) del modello di Cox-Ross-Rubinstein ottenuta con il metodo di replicazione?
+**R:** Slide 44: «e portando r̂^m all'interno della prima sommatoria e considerando che (1 - p∗)d = 1 - p∗u si ottiene: C_{T-m} = S_{T-m} ∑_{j=a}^{m} (m su j)(p∗ u/r̂)^j (1 - p∗ u/r̂)^(m-j) - (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (30)». Il docente: nella prima sommatoria compaiono p∗ u/r̂ e 1 - p∗ u/r̂, nella seconda p∗ e 1 - p∗ «al netto di questi fattori u su r cappello» (transcript [00:23:26]–[00:24:13]). ⚠️ r̂^m sparisce dal primo termine ed entra nelle due basi; resta come K/r̂^m nel secondo. ⚠️ La relazione «(1 - p∗)d = 1 - p∗u» della slide vale divisa per r̂, (1 - p∗)d/r̂ = 1 - p∗u/r̂, perché r̂ = up∗ + (1 - p∗)d (slide 51): è una deduzione dalle formule.
+**Opzione:** C_{T-m} = S_{T-m} ∑_{j=a}^{m} (m su j)(p∗ u/r̂)^j (1 - p∗ u/r̂)^(m-j) - (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j)
+**Distrattori:**
+- C_{T-m} = S_{T-m} ∑_{j=a}^{m} (m su j)(p∗ u/r̂)^j (1 - p∗)^(m-j) - (K/r̂^m) ∑_{j=a}^{m} (m su j) p∗^j (1 - p∗)^(m-j)
+- β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[r̂(u-d)]
+- Perché ξ_T assume soltanto i valori u e d: V^u_T(φ) = α_{T-1}uS_{T-1} + r̂β_{T-1} = (S_{T-1}u - K)^+ se ξ_T = u e V^d_T(φ) = α_{T-1}dS_{T-1} + r̂β_{T-1} = (S_{T-1}d - K)^+ se ξ_T = d.
+
+**D:** ⚠️ Che cosa richiede il metodo della martingala nel modello di Cox-Ross-Rubinstein, e quali condizioni deve soddisfare S∗?
+**R:** Slide 45: «L'utilizzo del metodo della Martingala per il calcolo del valore dei derivati richiede la determinazione di una misura di probabilità P∗ equivalente a P. P∗ rispetto a P deve descrivere un processo stocastico che identifica la dinamica del prezzo scontato del sottostante S∗, in maniera tale che soddisfi le condizioni: i. S∗_0 = S_0; ii. S∗_T = (1 + r)^(-T)S_T». Il docente: S∗_0 = S_0 «è abbastanza evidente non potendosi scontare nulla del tempo stando già al tempo zero»; S∗_T è il valore dell'attività rischiosa a T «scontato del valore finanziario del tempo 1 più r appunto per l'orizzonte temporale definito da t grande» (transcript [00:24:56]–[00:25:51]). ⚠️ L'esponente è -T: nella lezione 08, a un solo periodo, era S∗_T = (1+r)^(-1)S_T.
+**Opzione:** Una misura P∗ equivalente a P, sotto cui il prezzo scontato del sottostante S∗ soddisfi S∗_0 = S_0 e S∗_T = (1 + r)^(-T)S_T.
+**Distrattori:**
+- Una misura P∗ equivalente a P, sotto cui il prezzo scontato del sottostante S∗ soddisfi S∗_0 = S_0 e S∗_T = (1 + r)^(-1)S_T.
+- Il valore S_ud, lo stesso che assume quando S_d va verso l'alto: l'ordine dei due movimenti non conta.
+- C_{T-2} = (1/r̂²)[p∗²(S_{T-2}u² - K)^+ + 2p∗(1 - p∗)(S_{T-2}ud - K)^+ + (1 - p∗)²(S_{T-2}d² - K)^+]
+
+**D:** ⚠️ Quando S∗ è una P∗-martingala nel modello di Cox-Ross-Rubinstein?
+**R:** Slide 46: «S∗ è definita come una P∗-Martingala, quando vale anche l'equivalenza seguente: S∗_t = E_{P∗}(S∗_{t+1} | ℑ^S_t) ∀t ≤ T - 1». Il docente: «il mio valore atteso condizionato all'informazione presente al tempo t piccolo genera che il processo scontato sia proprio uguale al valore del processo scontato al tempo t piccolo», «per ogni t piccolo minore uguale di t grande meno 1» (transcript [00:25:51]–[00:26:41]). ⚠️ A sinistra il valore di oggi, dentro il valore atteso condizionato quello del periodo dopo; nella lezione 08, a un periodo, la condizione era S∗_0 = E_{P∗}(S∗_T).
+**Opzione:** S∗_t = E_{P∗}(S∗_{t+1} | ℑ^S_t) ∀t ≤ T - 1
+**Distrattori:**
+- S∗_{t+1} = E_{P∗}(S∗_t | ℑ^S_t) ∀t ≤ T - 1
+- α_{T-2} = (C^u_{T-1} - C^d_{T-1})/(S_{T-2}(u - d)) e β_{T-2} = (uC^d_{T-1} - dC^u_{T-1})/(r̂(u - d))
+- Y_t = lnX_t
+
+**D:** ⚠️ Nello sviluppo della condizione di martingala del modello di Cox-Ross-Rubinstein, perché r̂^(-(t+1)) e S_t escono dal valore atteso?
+**R:** Slide 47: «r̂^(-t)S_t = E_{P∗}(r̂^(-(t+1))ξ_{t+1}S_t | ℑ^S_t)»; «poichè r̂^(-(t+1)) è una costante: r̂^(-t)S_t = r̂^(-(t+1))E_{P∗}(ξ_{t+1}S_t | ℑ^S_t)». Slide 48: «scrivendo esplicitamente la σ-algebra» si condiziona a S_0, S_1, ...., S_t, e «poichè S_t è adattato a S_0, S_1, ...., S_t: r̂^(-t)S_t = r̂^(-(t+1))S_t E_{P∗}(ξ_{t+1} | S_0, S_1, ...., S_t)». Slide 49: «semplificando: r̂ = E_{P∗}(ξ_{t+1} | S_0, S_1, ...., S_t)». Il docente: la σ-algebra «non è altro che S0, S1 fino a S di t piccolo», e S_t è adattato «perché contiene lo stesso set informativo» (transcript [00:26:41]–[00:28:16]). ⚠️ S_t esce perché è adattato; l'indipendenza riguarda ξ_{t+1} (slide 50).
+**Opzione:** r̂^(-(t+1)) perché è una costante; S_t perché è adattato a S_0, S_1, ...., S_t, cioè alla σ-algebra ℑ^S_t scritta esplicitamente.
+**Distrattori:**
+- r̂^(-(t+1)) perché è una costante; S_t perché è indipendente da S_0, S_1, ...., S_t, cioè dalla σ-algebra ℑ^S_t scritta esplicitamente.
+- Che risolvendo r̂ = up∗ + (1 - p∗)d si ritrovano le stesse (9) e (10): p∗ e 1 - p∗ sono le probabilità della misura di martingala.
+- Il pricing delle opzioni in uno schema multiperiodale: generalizza il modello di Sharpe-Rendleman-Bartter, che è uniperiodale.
+
+**D:** ⚠️ Perché nel modello di Cox-Ross-Rubinstein r̂ = E_{P∗}(ξ_{t+1}), e quanto vale?
+**R:** Slide 50: «Ma ξ_{t+1} è per ipotesi indipendente da S_0, S_1, ...., S_t e dunque: r̂ = E_{P∗}(ξ_{t+1})»; slide 51: «date le caratteristiche distributive di ξ_{t+1} si ottiene: r̂ = up∗ + (1 - p∗)d». Il docente: ξ_{t+1} «è identicamente indipendentemente distribuito da S0 S1 S t piccolo», e il suo valore atteso «non è altro che up per la probabilità di P star più» 1 meno P star «per down» (transcript [00:28:16]–[00:28:44]; il transcript scrive «più o meno»). ⚠️ Per ipotesi: le ξ_t sono i.i.d. (slide 3). Sotto P∗ il valore atteso di ξ è il fattore di capitalizzazione r̂.
+**Opzione:** Perché ξ_{t+1} è per ipotesi indipendente da S_0, S_1, ...., S_t; e date le caratteristiche distributive di ξ_{t+1}, r̂ = up∗ + (1 - p∗)d.
+**Distrattori:**
+- Perché ξ_{t+1} è adattato a S_0, S_1, ...., S_t; e date le caratteristiche distributive di ξ_{t+1}, r̂ = up∗ + (1 - p∗)d.
+- C∗_{T-m} = E_{P∗}(r̂^(-m)(S_T - K)^+ | ℑ^S_{T-m}), ∀m ≤ T: il prezzo del derivato è il valore scontato atteso sotto la misura di martingala, identico al prezzo del metodo di replicazione (30).
+- C_{T-2} = (1/r̂²)[p∗²(S_{T-2}u² - K)^+ + 2p∗(1 - p∗)(S_{T-2}ud - K)^+ + (1 - p∗)²(S_{T-2}d² - K)^+]
+
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 53, che il docente chiama «teorema fondamentale dell'asset pricing»?
+**R:** Slide 53, «Proposizione»: «Il prezzo del derivato è calcolato come il valore scontato atteso sotto la misura di Martingala p∗, i.e.: C∗_{T-m} = E_{P∗}(r̂^(-m)(S_T - K)^+ | ℑ^S_{T-m}), ∀m ≤ T (31) ed è identico al prezzo determinato utilizzando il metodo di replicazione di portafoglio come specificato dalla (30).» Il docente: «proposizione importantissima, il teorema fondamentale dell'asset pricing»; il prezzo del derivato C∗_{T-m} è «il valore atteso scontato sotto la misura» P∗ «del valore intrinseco condizionato alla filtrazione di riferimento» (transcript [00:29:07]–[00:29:52]; il transcript scrive «misura di gravità»). Il nome è solo nel transcript. ⚠️ Si sconta di m periodi, r̂^(-m). La slide 57 chiude la dimostrazione: il risultato, «ad eccezione della definizione di a», coincide con la (30).
+**Opzione:** C∗_{T-m} = E_{P∗}(r̂^(-m)(S_T - K)^+ | ℑ^S_{T-m}), ∀m ≤ T: il prezzo del derivato è il valore scontato atteso sotto la misura di martingala, identico al prezzo del metodo di replicazione (30).
+**Distrattori:**
+- C∗_{T-m} = E_{P∗}(r̂^(-1)(S_T - K)^+ | ℑ^S_{T-m}), ∀m ≤ T: il prezzo del derivato è il valore scontato atteso sotto la misura di martingala, identico al prezzo del metodo di replicazione (30).
+- α_{T-2} = (C^u_{T-1} - C^d_{T-1})/(S_{T-2}(u - d)) e β_{T-2} = (uC^d_{T-1} - dC^u_{T-1})/(r̂(u - d))
+- Perché ξ_T assume soltanto i valori u e d: V^u_T(φ) = α_{T-1}uS_{T-1} + r̂β_{T-1} = (S_{T-1}u - K)^+ se ξ_T = u e V^d_T(φ) = α_{T-1}dS_{T-1} + r̂β_{T-1} = (S_{T-1}d - K)^+ se ξ_T = d.
+
+**D:** Quali proprietà delle ξ usa la dimostrazione della Proposizione della slide 53 per arrivare alla somma binomiale?
+**R:** Slide 53–54: con la definizione del processo S, C∗_{T-m} = E_{P∗}(r̂^(-m)(S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T - K)^+ | ℑ^S_{T-m}), e «r̂^(-m) è una costante». Slide 55: «S_{T-m} è adattato a ℑ^S_{T-m} e ξ_{T-m+1}ξ_{T-m+2}.....ξ_T sono indipendenti da ℑ^S_{T-m}». Slide 56: «Considerando che ξ_{T-m+1}, ξ_{T-m+2}, ..., ξ_T sono variabili casuali i.i.d.tali che: 1. E(ξ_t) = up∗ + (1 - p∗)d 2. E(ξ_0ξ_1ξ_2....ξ_t) = E(ξ_0)E(ξ_1)E(ξ_2).....E(ξ_t) si ottiene: = r̂^(-m) ∑_{j=0}^{m} (m su j) p∗^j (1 - p∗)^(m-j) (u^j d^(m-j) S_{T-m} - K)^+». Il docente: «il valore atteso delle variabili identicamente, indipendentemente distribuite non è altro che il prodotto dei valori attesi» (transcript [00:30:05]–[00:31:16]). ⚠️ Il prodotto, non la somma, dei valori attesi.
+**Opzione:** Che sono i.i.d., con E(ξ_t) = up∗ + (1 - p∗)d, e che il valore atteso del loro prodotto è il prodotto dei valori attesi: E(ξ_0ξ_1ξ_2....ξ_t) = E(ξ_0)E(ξ_1)E(ξ_2).....E(ξ_t).
+**Distrattori:**
+- Che sono i.i.d., con E(ξ_t) = up∗ + (1 - p∗)d, e che il valore atteso del loro prodotto è la somma dei valori attesi: E(ξ_0ξ_1ξ_2....ξ_t) = E(ξ_0) + E(ξ_1) + E(ξ_2) + ..... + E(ξ_t).
+- lnX_t/X_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]
+- Posizione lunga: Δ azioni; posizione corta: 1 opzione Call.
+
+**D:** ⚠️ Come si scrive S_T in funzione di S_{T-m} nella dimostrazione della Proposizione della slide 53?
+**R:** Slide 53: «Data l'espressione (31) ed utilizzando la definizione del processo S si ottiene: C∗_{T-m} = E_{P∗}(r̂^(-m)(S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T - K)^+ | ℑ^S_{T-m})», cioè S_T = S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T. Il docente: S_T si rimpiazza con S_{T-m} «per XT meno M più 1 per XT meno M più 2 fino ad arrivare a XT grande» (transcript [00:30:11]). ⚠️ I fattori partono da ξ_{T-m+1}: con m = 1 resta S_T = S_{T-1}ξ_T (slide 9), con m = T si ritrova S_T = S_0 ∏_{j=1}^{T} ξ_j (slide 4); il calcolo non è nelle slide. Il distrattore S_T=S_{T-1}ξ_1ξ_2ξ_T della domanda 2 del test mescola le due forme.
+**Opzione:** S_T = S_{T-m}ξ_{T-m+1}ξ_{T-m+2}.....ξ_T
+**Distrattori:**
+- S_T = S_{T-m}ξ_1ξ_2.....ξ_T
+- Posizione lunga: Δ azioni; posizione corta: 1 opzione Call.
+- Che sono i.i.d., con E(ξ_t) = up∗ + (1 - p∗)d, e che il valore atteso del loro prodotto è il prodotto dei valori attesi: E(ξ_0ξ_1ξ_2....ξ_t) = E(ξ_0)E(ξ_1)E(ξ_2).....E(ξ_t).
+
+**D:** ⚠️ Qual è il valore al tempo T del portafoglio di replicazione dell'opzione call nel modello di Cox-Ross-Rubinstein, secondo il test della lezione 09 (domanda 1)?
+**R:** «**V_T(θ)=α_{T-1}S_T+B_{T-1}r=C_T=(S_T-K)^+**». È la (7) della slide 8, V_T(φ) = α_{T-1}S_T + β_{T-1}r̂ = C_T = (S_T - K)^+, con θ al posto di φ, B al posto di β e r al posto di r̂ = 1 + r. Il docente: la quantità di sottostante decisa a T - 1 per S_T più l'attività priva di rischio «capitalizzato per il fattore R» (transcript [00:05:34]–[00:06:23]). Distrattori del test: «V_T(θ)=α_{T-1}S_T+B_{T-1}=C_T=(S_T-K)^+» toglie la capitalizzazione r, che a T è dovuta (senza r è la forma della (8), al tempo T - 1); «V_T(θ)=α_{T-1}S_T=C_T=(S_T-K)^+» toglie del tutto la liquidità; «è un valore atteso scontato del pay-off del derivato» è la Proposizione della slide 53, che riguarda il prezzo C∗_{T-m} prima della scadenza, non il valore a T del portafoglio, che è il pay-off stesso. Con m = 0 la (31) darebbe banalmente C∗_T = (S_T - K)^+, ma la formula generale vale per m = 1, ....., T (slide 40).
+**Opzione:** V_T(θ)=α_{T-1}S_T+B_{T-1}r=C_T=(S_T-K)^+
+**Distrattori:**
+- è un valore atteso scontato del pay-off del derivato
+- V_T(θ)=α_{T-1}S_T+B_{T-1}=C_T=(S_T-K)^+
+- V_T(θ)=α_{T-1}S_T=C_T=(S_T-K)^+
+
+**D:** ⚠️ Qual è il valore al tempo T di S nel modello di Cox-Ross-Rubinstein, secondo il test della lezione 09 (domanda 2)?
+**R:** «**S_T=S_{T-1}ξ_T**». Slide 9: «Poichè S_T = S_{T-1}ξ_T l'espressione (7) può essere scritta come…»; è la ii della slide 3, S_{t+1} = S_tξ_{t+1}, con t = T - 1. Il docente: S_T «che sappiamo essere uguale alla st meno 1 per xi di t» (transcript [00:06:27]). Distrattori del test: «S_T=S_{T-1}» toglie ξ_T, come se il prezzo non si muovesse; «S_T=S_{T-1}ξ_1ξ_2ξ_T» mescola la ricorsione con la produttoria S_t = S_0 ∏_{j=1}^{t} ξ_j (slide 4): da S_{T-1} serve il solo ξ_T, mentre i fattori da ξ_1 a ξ_T partono da S_0; «V_T(θ)=S_T+B_{T-1}» non parla di S ma del portafoglio, ed è un distrattore anche delle domande 3 e 4.
+**Opzione:** S_T=S_{T-1}ξ_T
+**Distrattori:**
+- S_T=S_{T-1}
+- V_T(θ)=S_T+B_{T-1}
+- S_T=S_{T-1}ξ_1ξ_2ξ_T
+
+**D:** ⚠️ Che cosa vale al tempo (T-1) nel modello di Cox-Ross-Rubinstein, secondo il test della lezione 09 (domanda 3)?
+**R:** «**α_{T-1}=[(S_{T-1}u-K)^+-(S_{T-1}d-K)^+]/[S_{T-1}(u-d)]**», alla lettera la prima soluzione della slide 11. ⚠️ La domanda 4 ha lo stesso testo e gli stessi tre distrattori, ma per chiave β_{T-1}, l'altra metà della soluzione: vanno studiate insieme. α_{T-1} ha al numeratore la differenza dei due pay-off e al denominatore S_{T-1}(u-d); β_{T-1} ha i pay-off incrociati con u e d e al denominatore r̂(u-d). Distrattori del test: «V_T(θ)=α_{T-1}S_T+B_{T-1}=C_T=(S_T-K)^+» è la (7) senza la capitalizzazione r, ed è una relazione al tempo T; «V_T(θ)=S_T+B_{T-1}» perde anche α_{T-1}; «S_T=S_{T-1}ξ_1ξ_2ξ_T» mescola ricorsione e produttoria (domanda 2). Nessuno dei tre è una relazione al tempo T - 1.
+**Opzione:** α_{T-1}=[(S_{T-1}u-K)^+-(S_{T-1}d-K)^+]/[S_{T-1}(u-d)]
+**Distrattori:**
+- V_T(θ)=α_{T-1}S_T+B_{T-1}=C_T=(S_T-K)^+
+- V_T(θ)=S_T+B_{T-1}
+- S_T=S_{T-1}ξ_1ξ_2ξ_T
+
+**D:** ⚠️ Che cosa vale al tempo (T-1) nel modello di Cox-Ross-Rubinstein, secondo il test della lezione 09 (domanda 4)?
+**R:** «**β_{T-1}=[u(S_{T-1}d-K)^+-d(S_{T-1}u-K)^+]/[r(u-d)]**». Slide 11: β_{T-1} = [u(S_{T-1}d-K)^+ - d(uS_{T-1}-K)^+]/[r̂(u-d)]; la piattaforma scrive S_{T-1}u per uS_{T-1}, lo stesso prodotto, e r per r̂ = 1 + r. ⚠️ La domanda 3 ha lo stesso testo e gli stessi tre distrattori, ma per chiave α_{T-1}, l'altra metà della soluzione: vanno studiate insieme. ⚠️ Nel numeratore di β_{T-1} u moltiplica il pay-off down e d quello up; al denominatore r̂(u-d), non S_{T-1}(u-d). Distrattori del test: la (7) senza la capitalizzazione r, «V_T(θ)=S_T+B_{T-1}» e «S_T=S_{T-1}ξ_1ξ_2ξ_T», come nella domanda 3: nessuno è una relazione al tempo T - 1.
+**Opzione:** β_{T-1}=[u(S_{T-1}d-K)^+-d(S_{T-1}u-K)^+]/[r(u-d)]
+**Distrattori:**
+- V_T(θ)=α_{T-1}S_T+B_{T-1}=C_T=(S_T-K)^+
+- V_T(θ)=S_T+B_{T-1}
+- S_T=S_{T-1}ξ_1ξ_2ξ_T
+
+**D:** ⚠️ Qual è il valore della misura di probabilità p∗ nel modello di Cox-Ross-Rubinstein, secondo il test della lezione 09 (domanda 5)?
+**R:** «**p∗=(r-d)/(u-d)**». È la (9) della slide 14, ripetuta nella slide 52: p∗ = (r̂ - d)/(u - d), con r al posto di r̂ = 1 + r, il fattore di capitalizzazione lordo e non il tasso. Il docente: «definiamo P star come R cappello meno D su U meno D» (transcript [00:09:18]). Distrattori del test: cambiano solo l'operatore fra (r-d) e (u-d), con il meno, il prodotto e il più al posto del rapporto. Con l'ipotesi d < r̂ < u della slide 3 il rapporto sta fra 0 e 1, mentre (r-d)-(u-d) = r - u è sempre negativo: è una deduzione dalle formule, non è scritta nelle slide.
+**Opzione:** p∗=(r-d)/(u-d)
+**Distrattori:**
+- p∗=(r-d)-(u-d)
+- p∗=(r-d)(u-d)
+- p∗=(r-d)+(u-d)
+
+## Lezione 10 — Pricing 3 - Modello Binomiale
+
+**D:** ⚠️ Quali variabili definisce la slide 2 della lezione 10, «Definizione delle variabili», per il pricing dell'opzione con il modello binomiale?
+**R:** Slide 2: «x= (1+r)^(-Δt)», il fattore di sconto (la slide stampa «D t»); «K= strike»; «u=f(s, Δt)»; «d=1/u»; «p=[(1+r)-d]/(u-d)»; «q=1-p». Il docente: «il fattore di sconto che definiamo x, 1 più r quindi alla meno delta t», poi lo strike e «l'up e il down, dove la differenza tra l'up e il down è che il down è uguale ad 1 su u», infine le probabilità, «dove la probabilità di salire è 1 più r meno d diviso u meno d, mentre l'altra probabilità non è altro che 1 meno p» (transcript [00:00:40]–[00:01:28]). ⚠️ d è 1 **su** u, non 1 meno u. La slide 2 non dà la formula di u: la dà il foglio Excel, =EXP(sigma∗RADQ(deltat)) (slide 17). Che la s di f(s, Δt) sia σ è una deduzione.
+**Opzione:** x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1/u; p=[(1+r)-d]/(u-d); q=1-p
+**Distrattori:**
+- x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1-u; p=[(1+r)-d]/(u-d); q=1-p
+- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
+- deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+
+**D:** ⚠️ Che cosa contiene la colonna A della rappresentazione tabellare del modello binomiale (slide 3, «Il valore del sottostante alla scadenza»)?
+**R:** Slide 3: sotto «T» e «S_T», nelle righe 1, 2, 3, …, 2n, 2n+1, u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …….., d^(n-1) S_0, d^n S_0. Il docente: il valore del sottostante alla scadenza «parte dal valore s con 0» e, a seconda dell'ultimo stadio raggiunto, «andrà per n volte verso l'alto e quindi avremo u elevato alla n per s con 0», poi «u alla n meno 1 s con 0», e verso il basso «lo stesso ragionamento» fino alle righe «2n, 2n più 1» (transcript [00:01:45]–[00:02:27]). ⚠️ La n è un esponente, e la riga 1 ha il valore più alto. Per il docente è «l'ultima colonna», che «in realtà qui è la prima» ([00:01:28]): nel foglio Excel il sottostante a scadenza sta nell'ultima colonna, la W (slide 19).
+**Opzione:** u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+**Distrattori:**
+- d^n S_0, d^(n-1) S_0, d^(n-2) S_0, …, u^(n-1) S_0, u^n S_0, dalla riga 1 alla riga 2n+1
+- MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
+- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
+
+**D:** ⚠️ Che cosa contiene la colonna B della rappresentazione tabellare nel caso della call (slide 4, «Pay off della Call alla scadenza»)?
+**R:** Slide 4: sotto «T», MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …………, MAX(A2n-K,0), MAX(A2n+1-K,0), una formula per ogni riga della colonna A. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», cioè «il massimo tra il valore del sottostante, che in questa rappresentazione a matrice vediamo essere A1, A2, A3, che sono le varie celle di questa tabella, meno il valore fisso del prezzo strike K e 0» (transcript [00:03:01]–[00:03:29]). ⚠️ Per la call è A meno K; K meno A è la put (slide 8). Gli estremi, MAX(A1-K,0) e MAX(A2n+1-K,0), sono la chiave della domanda 2 del test.
+**Opzione:** MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
+**Distrattori:**
+- MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
+- u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+- =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
+
+**D:** ⚠️ Quali formule contiene la colonna C, «T- Δ T», della rappresentazione tabellare del modello binomiale (slide 5, «Il prezzo come pay off atteso scontato»)?
+**R:** Slide 5: x∗(p∗B1+q∗B2) nella riga 1, x∗(p∗B1+q∗B3) nella riga 2, x∗(p∗B2+q∗B4) nella riga 3, …, x∗(p∗B2n-1+q∗B2n+1) nella riga 2n, x∗(p∗B2n+q∗B2n+1) nella riga 2n+1. Il docente: si torna «indietro di un delta di t» richiamando il fattore di sconto x e le probabilità, per trovare per ogni stato «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» (transcript [00:04:03]–[00:04:38]). ⚠️ Nelle righe interne la cella usa la riga di sopra e quella di sotto, non quella adiacente: la riga 2 usa B1 e B3, la riga 3 B2 e B4. Le stesse formule valgono per la put (slide 9).
+**Opzione:** x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
+**Distrattori:**
+- x∗(p∗B1+q∗B2), x∗(p∗B2+q∗B3), x∗(p∗B3+q∗B4), …, x∗(p∗B2n-1+q∗B2n), x∗(p∗B2n+q∗B2n+1)
+- u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+- =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
+
+**D:** Quali formule contiene la colonna D, «T- 2Δ T», della rappresentazione tabellare del modello binomiale (slide 6)?
+**R:** Slide 6, «Implementazione del prezzo»: x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1), cioè le formule della colonna C applicate alle celle della colonna C. Il docente: l'implementazione «non potrà che regredire ancora indietro di un altro delta T», alla scadenza «T grande meno due volte delta T», dove «ancora una volta avremo il nostro fattore di sconto» e la media ponderata (transcript [00:04:50]). ⚠️ p pesa sempre la riga di sopra, q quella di sotto. La slide 7 ripete la tabella con le variabili in testa.
+**Opzione:** x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
+**Distrattori:**
+- x∗(q∗C1+p∗C2), x∗(q∗C1+p∗C3), x∗(q∗C2+p∗C4), …, x∗(q∗C2n-1+p∗C2n+1), x∗(q∗C2n+p∗C2n+1)
+- MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
+- u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+
+**D:** ⚠️ Che cosa si sta facendo, secondo il docente della lezione 10, quando si torna indietro di un Δt nell'albero binomiale?
+**R:** «Stiamo portando indietro nel tempo il valore intrinseco realizzando per quel valore finanziario del tempo la doverosa ponderazione probabilistica» (transcript [00:05:15]). Prima: si richiama «il fattore di sconto x» e, con le probabilità, si determina per ogni stato al tempo T «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» ([00:04:09]–[00:04:38]). Le slide 5–7 lo chiamano «Il prezzo come pay off atteso scontato», x∗(p∗B1+q∗B2)… ⚠️ Si va all'indietro e si sconta: x=(1+r)^(-Δt) (slide 2).
+**Opzione:** Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
+**Distrattori:**
+- Si porta avanti nel tempo il prezzo di oggi: lo si capitalizza con il fattore x e lo si pondera con le probabilità p e q.
+- Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
+- Il valore finanziario del tempo e il tenore della volatilità.
+
+**D:** ⚠️ Che cosa contiene la colonna B della rappresentazione tabellare nel caso della put (slide 8, «Pay Off della PUT a scadenza»)?
+**R:** Slide 8: MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …………, MAX(K -A2n,0), MAX(K -A2n+1,0). Il docente: per la put «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» (transcript [00:07:05]). ⚠️ Per la put è K meno A; A meno K è la call (slide 4). Gli estremi, MAX(K -A1,0) e MAX(K -A2n+1,0), sono la chiave della domanda 3 del test; il valore più alto sta nell'ultima riga, quella di d^n S_0.
+**Opzione:** MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
+**Distrattori:**
+- MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
+- x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
+- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+
+**D:** ⚠️ Che cosa cambia nella rappresentazione tabellare del modello binomiale quando si passa dalla call alla put?
+**R:** Solo il pay off a scadenza della colonna B: MAX(K -A1,0) … MAX(K -A2n+1,0) per la put (slide 8) invece di MAX(A1-K,0) … MAX(A2n+1-K,0) per la call (slide 4). Le colonne C e D delle slide 9–11 sono identiche a quelle delle slide 5–7, x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3)…, e la slide 11 ripete le stesse variabili. Il docente: «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco» (transcript [00:07:05]); per il resto, «come abbiamo fatto nel caso della call», si portano «indietro di un delta t i valori intrinseci» ([00:07:39]). Nel foglio Excel: «non metteremo S-K ma metteremo K-S» ([00:28:29]). ⚠️ p e q non si scambiano.
+**Opzione:** Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
+**Distrattori:**
+- Il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…, e le formule all'indietro, dove p e q si scambiano di posto.
+- Il valore finanziario del tempo e il tenore della volatilità.
+- =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
+
+**D:** ⚠️ Con quali parametri e quali valori è costruito l'esempio numerico a 4 passi della slide 12 della lezione 10?
+**R:** Slide 12: «S0= 100», «r= 3%», «σ= 20%», «T= 1»; «x= 0.9925», «u= 1.1052», «p= 0.5126», «steps= 4»; «K= 100», «d= 0.9048», «q= 0.4874», «Δt= 0.25». Il docente: x, con il tasso del 3%, fa sì che «un delta T sconti 100 fino a farlo diventare 99,25»; verso l'alto 100 si incrementa «del fattore 1,1052» e verso il basso «di 0,9048»; la volatilità è il 20%; i 4 passi dividono l'orizzonte di un anno, con «una quantificazione 0,25» (transcript [00:11:05]–[00:13:21]). ⚠️ p, la probabilità di salire, è la maggiore delle due. x e p tornano con lo sconto continuo, e^(-0,03·0,25) ≈ 0,9925 (il calcolo non è nelle slide).
+**Opzione:** S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
+**Distrattori:**
+- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.4874, q = 0.5126
+- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
+
+**D:** ⚠️ Quanto vale la call dell'esempio a 4 passi della slide 12, e in quale cella si legge?
+**R:** 8.94, nella colonna T-4Δ t, alla riga di S_T = 100.00: è una delle celle bianche. Il docente: il prezzo della call si ottiene «tornando indietro di 4» Δt, perché ogni Δt «vale 0,25 del tempo 1» (transcript [00:09:55]); di tutto l'albero, «le celle di nostro interesse sono quelle denotate dal colore bianco» ([00:10:15]). Il transcript scrive «se quel stopto in 94»: vale la slide. ⚠️ Le altre celle della colonna T-4Δ t, come 33.01 nella prima riga, sono gialle: calcolate con la formula, ma fuori dall'albero.
+**Opzione:** 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+**Distrattori:**
+- 33.01: la cella di T-4Δ t nella prima riga, quella di S_T = 149.18, una delle celle bianche dell'albero.
+- 7,042, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
+- Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
+
+**D:** ⚠️ Da quali celle nasce il valore 11.26 della colonna T-Δ t nell'esempio della slide 12?
+**R:** Dalle due celle bianche del passo T che stanno sopra e sotto: 22,14, il pay off nella riga di S_T = 122.14, e 0,00, quello nella riga di S_T = 100.00. Il docente: «questa quantità pondererà questa e questa, questa quantità di 11 e 26, il 22 e 14 e lo 0» (transcript [00:10:31]). Verifica: 0,9925 · (0,5126 · 22,14 + 0,4874 · 0) ≈ 11,26 (il calcolo non è nelle slide). ⚠️ Non nasce dalle celle adiacenti, 10,52 e 0,00: da quelle viene la cella gialla 5.35, fuori dall'albero.
+**Opzione:** Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
+**Distrattori:**
+- Da 10,52 e 0,00, i pay-off al tempo T nelle righe di S_T = 110.52 e 100.00, scontati con x e ponderati con p e q.
+- 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+- =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
+
+**D:** ⚠️ Quali parametri si fissano per implementare il modello di Cox-Ross-Rubinstein su un foglio di calcolo per una call europea (slide 13)?
+**R:** Slide 13: «il prezzo del sottostante al tempo 0; quì 50», «Il prezzo strike K dell'opzione, quì 50», «la scadenza T; quì 1 anno», «il tasso di interesse r; quì 5% annuo», «la volatilità σ; quì 30% annua», «il numero di passi discreti del modello; quì 20». Il docente: «50 euro, 50 dollari», «il tasso di interesse che definiamo R viene definito pari al 5%, la volatilità sigma è definita pari al 30%», e 20 passi discreti (transcript [00:14:12]–[00:14:43]). La put europea usa gli stessi parametri (slide 23; [00:26:07]). ⚠️ Il 5% è il tasso, il 30% la volatilità.
+**Opzione:** Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
+**Distrattori:**
+- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 30% annuo; volatilità σ: 5% annua; passi discreti: 20.
+- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
+- deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+
+**D:** Che cosa vuol dire, secondo il docente della lezione 10, dividere l'anno in 20 passi discreti?
+**R:** «Quindi stiamo sostanzialmente dicendo che un anno viene diviso in una grandezza inferiore al mese, perché altrimenti sarebbero 12 passi, invece 20 passi vuol dire che noi stiamo all'incirca definendo un modello che cerca di discretizzare i 365 giorni che caratterizzano l'anno più o meno su 20 passi discreti» (transcript [00:14:47]–[00:15:13]). Ne viene ΔT = 1/20 = 0,05 (slide 15–16). È solo nel transcript.
+**Opzione:** Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
+**Distrattori:**
+- Un anno diviso in una grandezza superiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
+- Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
+- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
+
+**D:** ⚠️ Come si calcola ΔT nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto vale?
+**R:** Slide 15, «L'intervallo temporale»: nella cella C5, =C6/C4, cioè la scadenza T (C6 = 1) diviso il numero di passi n (C4 = 20); la slide 16 mostra il risultato, 0,05. Il docente: «delta t è l'intervallo temporale, il cosiddetto time step, e viene calcolato semplicemente come c6 diviso c4» (transcript [00:15:49]). ⚠️ È T su n, non n su T.
+**Opzione:** ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
+**Distrattori:**
+- ΔT = C4/C6, cioè il numero di passi n diviso la scadenza T: 20.
+- =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
+- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+
+**D:** ⚠️ Come si calcola il fattore di sconto nel foglio Excel del modello di Cox-Ross-Rubinstein?
+**R:** Slide 16, «Il fattore di sconto»: nella cella C1, discount= =EXP(deltat∗-rate); la slide 17 mostra il valore, 0,9975031. Il docente: «lo calcoliamo in tempo continuo, il fattore di sconto e quindi è l'esponenziale di delta T per meno il tasso di interesse» (transcript [00:16:06]); per la put lo ripete, «l'esponenziale di delta T per il tasso preso col meno davanti perché stiamo scontando» ([00:26:48]). ⚠️ Il meno davanti al tasso: si sconta. La slide 2 scriveva x=(1+r)^(-Δt), in tempo discreto.
+**Opzione:** =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
+**Distrattori:**
+- =EXP(deltat∗rate): il fattore di sconto si calcola in tempo continuo.
+- ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
+- u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+
+**D:** ⚠️ Come si calcolano u e d nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
+**R:** Slide 17, «I valori di u e d»: u =EXP(sigma∗RADQ(deltat)), 1,069, nella cella E1; d =1/u, 0,935, nella cella E2. Il docente: «l'evento up è pari a 1,069, l'evento down viene pari a 0,935»; «L'evento down è facilissimo, è 1 diviso up. L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» (transcript [00:17:10]–[00:17:28]). ⚠️ Sotto la radice c'è il passo temporale, e il tasso non compare. Nel foglio della put la slide 32 scrive SQRT al posto di RADQ.
+**Opzione:** u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+**Distrattori:**
+- u = EXP(sigma∗deltat) = 1,069 e d = 1/u = 0,935
+- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+- =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
+
+**D:** ⚠️ Come si calcolano le probabilità p e q nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
+**R:** Slide 18, «Le probabilità di muoversi da sopra a sotto sull'albero binomiale»: p =(EXP(rate∗deltat)-d)/(u-d), 0,502, nella cella J1; q =1-p, 0,498, nella cella J2. Il docente: «la quantità P viene definita come l'esponenziale del tasso per delta T meno D, cioè l'evento down, diviso U meno D» (transcript [00:18:09]). ⚠️ Al numeratore c'è il fattore di capitalizzazione meno d, non u meno il fattore. La slide 2 scriveva p=[(1+r)-d]/(u-d).
+**Opzione:** p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+**Distrattori:**
+- p = (u-EXP(rate∗deltat))/(u-d) = 0,502 e q = 1-p = 0,498
+- =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
+- x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
+
+**D:** Quali nomi di cella usano le formule del foglio Excel del modello di Cox-Ross-Rubinstein?
+**R:** Il docente: si usa «una delle funzioni di Excel che ci consente di dare un nome alla cella. Quindi invece di scrivere c5 scriviamo delta t, invece di scrivere e4 scriviamo rate» (transcript [00:16:41]–[00:16:48]); poi «E5 sigma» ([00:17:28]), e «il rate è la cella E4, D è la cella E2 e up è la cella E1» ([00:18:22]). Nelle slide 16–18 le formule usano deltat, rate, sigma, u e d; la slide 21 anche p, q e discount, che è la cella C1 (slide 16).
+**Opzione:** deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+**Distrattori:**
+- deltat è la cella E4, rate la C5, sigma la E5, u la E1 e d la E2.
+- Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
+- =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
+
+**D:** ⚠️ Che valori assume il sottostante a scadenza nella colonna W del foglio Excel della call?
+**R:** Slide 19, «I valori del sottostante S_T utilizzando le quantità u e d»: S = 50,00 nella riga 28; verso l'alto u^1∗S = 53,47, u²∗S = 57,18, …, u^(20)∗S = 191,27 nella riga 8; verso il basso d^1∗S = 46,76, d²∗S = 43,72, …, d^(20)∗S = 13,07 nella riga 48. Il docente: lungo la riga 28, nella colonna W, «il prezzo della nostra azione è esattamente 50» (transcript [00:20:00]), e si arriva «a 13,07 che è il valore di D alla 20 e a 191,27 che è il valore di U alla 20» ([00:20:54]). ⚠️ In alto u, in basso d.
+**Opzione:** Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+**Distrattori:**
+- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 13,07 nella riga 8 e d^(20)∗S = 191,27 nella riga 48.
+- Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
+- 4,604, nella cella B26 del foglio della put europea.
+
+**D:** ⚠️ Come si calcola il pay off della call nel foglio Excel della lezione 10, e perché la formula si trascina a coppie di celle?
+**R:** Slide 20, «La formula max(S_T - K,0) viene applicata»: nella colonna V, =MAX(W8-k;0), che dà 141,27, poi 117,25, 96,25, 77,89, 61,83…, una riga sì e una no. Il docente: il trascinamento «prende le prime due celle» della colonna V, così il valore intrinseco «non viene rappresentato dove non serve perché l'albero binomiale richiede una compilazione a coppie delle celle»; nel primo foglio stilizzato, invece, il prezzo era compilato «anche laddove ... non ha senso trovarlo» (transcript [00:21:35]–[00:22:37]). ⚠️ Nella tabella stilizzata delle slide 4 e 8 la formula è in tutte le righe.
+**Opzione:** =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
+**Distrattori:**
+- =MAX(W8-k;0) nella colonna V, trascinata cella per cella: il valore intrinseco compare in tutte le righe.
+- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
+- 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+
+**D:** ⚠️ Quale formula si scrive nella cella U9 del foglio Excel della call per completare l'albero con la procedura inversa?
+**R:** Slide 21, «Una procedura inversa viene utilizzata per completare l'albero»: =(p∗V8+q∗V10)∗discount, che dà 128,98. Il docente: «la formula che ci vede P» per la cella V8 «più Q per la cella V10 per il fattore di sconto» (transcript [00:23:00]–[00:23:07]); la cella U8 non si calcola, e il trascinamento accoppia una cella con il calcolo e una vuota ([00:23:48]). ⚠️ Il docente dice che il fattore di sconto è «definito semplicemente da valore di C5»: nelle slide discount è la C1 (slide 16), e la C5 è ΔT. ⚠️ Si moltiplica per discount, cioè si sconta.
+**Opzione:** =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
+**Distrattori:**
+- =(p∗V8+q∗V10)/discount nella cella U9: si capitalizza la media ponderata delle due celle del passo 20.
+- 4,604, nella cella B26 del foglio della put europea.
+- MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
+
+**D:** ⚠️ Quanto vale la call europea del foglio Excel della lezione 10, e in quale cella si legge?
+**R:** Slide 22, «L'albero è completato per ottenere il prezzo della Call europea»: 7,042, nella cella B28, indicata da una freccia. Il docente: l'albero si completa «con questo schema dove in ogni time step noi non compiliamo la colonna corrispondente al time step precedente creando questa struttura a scalini», fino al prezzo «identificato nella colonna B28» (transcript [00:24:48]). I parametri sono S_0 = 50, K = 50, T = 1 anno, r = 5%, σ = 30%, 20 passi (slide 13). ⚠️ 4,604 è la put con gli stessi parametri (slide 32).
+**Opzione:** 7,042, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
+**Distrattori:**
+- 4,604, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
+- x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
+- ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
+
+**D:** ⚠️ Come si calcola il pay off della put nel foglio Excel della lezione 10, e dove è positivo?
+**R:** Slide 30, «La formula max(K - S_T, 0) viene applicata»: la colonna V ha l'intestazione «S_T'=max(k-S_T,0)», e nella riga 46 =MAX(k-W46;0) dà 36,93; risalendo 35,05, 32,91, …, 6,28, poi 0,00 dalla riga 26 in su. Il docente: «non metteremo S-K ma metteremo K-S e quindi questa volta l'opzione avrà un valore positivo nella parte bassa del foglio di lavoro e valore zero, cioè valore intrinseco nullo, nella parte alta del foglio di lavoro» (transcript [00:28:29]). ⚠️ Per la call è il contrario: positiva in alto (slide 20).
+**Opzione:** =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
+**Distrattori:**
+- =MAX(k-W46;0): il valore intrinseco è positivo nella parte alta del foglio e nullo nella parte bassa.
+- x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
+- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+
+**D:** ⚠️ Quanto vale la put europea del foglio Excel della lezione 10, e in quale cella si legge?
+**R:** Slide 32, «L'albero è completato per ottenere il prezzo della Put europea»: 4,604, nella cella B26, indicata da una freccia; la riga 4 del foglio lo riporta come «Value of the Euro_put». Il docente: si torna indietro «fino ad arrivare al prezzo della put che verrà pari in questo caso con questi parametri a 4,604» (transcript [00:29:54]). I parametri sono quelli della call (slide 23). ⚠️ Nel foglio della put la griglia va dalla riga 6 alla 46, quindi il prezzo sta in B26 e non in B28; 7,042 è la call.
+**Opzione:** 4,604, nella cella B26 del foglio della put europea.
+**Distrattori:**
+- 7,042, nella cella B26 del foglio della put europea.
+- Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
+- x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1/u; p=[(1+r)-d]/(u-d); q=1-p
+
+**D:** Come sono numerate la riga 7 e la colonna A nel foglio Excel della call della lezione 10?
+**R:** Il docente: «abbiamo scritto nel foglio di lavoro i numeri nella riga 7 che vanno da 0 a 20», i time step; nella colonna A «dalla cella 28 verso la cella 8 da 0 a 20 e dalla cella 29 alla cella 40 da meno 1 a meno 20» (transcript [00:18:53]–[00:19:16]). Nella slide 19 la colonna A va da 20 nella riga 8 a 0 nella riga 28 e a -20 nella riga 48: vale la slide. ⚠️ La riga 28 è quella di S = 50,00 e del prezzo in B28.
+**Opzione:** Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
+**Distrattori:**
+- Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 0 (riga 8) a 40 (riga 48), con il 20 nella riga 28.
+- 7,042, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
+- MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
+
+**D:** Che cosa incorporano le probabilità del modello binomiale, secondo il docente della lezione 10?
+**R:** «Le probabilità sono definite come quello spazio, quella quantificazione degli eventi up and down che vanno a incorporare il valore finanziario del tempo e il tenore della volatilità» (transcript [00:12:40]). Nelle formule il tempo e il tasso entrano in p attraverso (1+r) (slide 2) o EXP(rate∗deltat) (slide 18), la volatilità attraverso u e d, con u =EXP(sigma∗RADQ(deltat)) (slide 17). È solo nel transcript.
+**Opzione:** Il valore finanziario del tempo e il tenore della volatilità.
+**Distrattori:**
+- Il valore finanziario del tempo, ma non il tenore della volatilità.
+- Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
+- Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
+
+**D:** ⚠️ Da che cosa dipende u nel modello binomiale della lezione 10: dalla volatilità, dal tasso o da entrambi?
+**R:** Per le slide, dalla volatilità e dal passo temporale: la slide 2 scrive «u=f(s, Δt)» e il foglio Excel u =EXP(sigma∗RADQ(deltat)) (slide 17). Il tasso non c'è: entra nel fattore di sconto, =EXP(deltat∗-rate) (slide 16), e in p, =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente invece dice che sigma, «unitamente al tasso», «quantifica sostanzialmente il valore degli eventi up and down» (transcript [00:12:20]). Vale la slide: le opzioni d'esame citano le slide, e nella domanda 4 del test la chiave è exp(σ . dt^(1/2)), senza tasso.
+
+**D:** ⚠️ Fattore di sconto e probabilità: in che cosa differiscono le formule della slide 2 da quelle del foglio Excel della lezione 10?
+**R:** La slide 2 scrive x=(1+r)^(-Δt) e p=[(1+r)-d]/(u-d); il foglio Excel scrive discount =EXP(deltat∗-rate) (slide 16) e p =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente legge la prima versione (transcript [00:00:40]–[00:01:03]) e spiega la seconda così: «lo calcoliamo in tempo continuo» ([00:16:06]). In entrambe il fattore sconta e p ha d al numeratore. I numeri della slide 12, x = 0.9925 e p = 0.5126, tornano con la versione continua: e^(-0,03·0,25) ≈ 0,9925, mentre 1,03^(-0,25) ≈ 0,9926 (il calcolo non è nelle slide).
+
+**D:** ⚠️ Quali sono i valori estremi dell'albero alla scadenza T in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 1)?
+**R:** «**u_nS_0 e d_nS_0**». Sono la prima e l'ultima riga della colonna A della slide 3, u^n S_0 nella riga 1 e d^n S_0 nella riga 2n+1. Il docente: il valore «parte dal valore s con 0» e diventa «u elevato alla n per s con 0» ([00:01:45]), e va «da S con 0 fino a U alla N S con 0 alla scadenza T grande e D alla N S con 0» ([00:02:47]). Il foglio Excel scrive u^(20)∗S = 191,27 e d^(20)∗S = 13,07 (slide 19). ⚠️ Nelle slide la n è un esponente; la piattaforma la scrive in pedice in tutte e quattro le opzioni, quindi non conta. Distrattori del test: «u_nS_0 e d_nB_0» mette B_0, che nella lezione 09 è l'attività priva di rischio (transcript 09, [00:00:43]) e nel deck 10 solo una colonna; «u_nS_0 e d_nS_t» e «u_nS_t e d_nS_t» sbagliano il tempo, perché l'albero parte da S_0.
+**Opzione:** u_nS_0 e d_nS_0
+**Distrattori:**
+- u_nS_0 e d_nB_0
+- u_nS_0 e d_nS_t
+- u_nS_t e d_nS_t
+
+**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una CALL alla scadenza T, in un albero binomiale a n stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 2)?
+**R:** «**max(A1-K,0) e max(A2n+1-K,0)**». Sono la prima e l'ultima riga della colonna B della slide 4, «Pay off della Call alla scadenza», MAX(A1-K,0) e MAX(A2n+1-K,0), con A1 = u^n S_0 e A2n+1 = d^n S_0. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», il massimo tra A1, A2, A3 «meno il valore fisso del prezzo strike K e 0», e in fondo «il massimo tra a2n più 1 meno k e 0» ([00:03:01]–[00:03:29]). Distrattori del test: «max(A1-K,3) e max(A2n+1-K,1)» ha costanti inventate, come «max(S_T-K,1)» nel test della lezione 05; «min(A1-K,0)…» ha la forma della short put della lezione 05, min(S_T-K,0), ed è sempre ≤ 0. La D torna identica nella domanda 3.
+**Opzione:** max(A1-K,0) e max(A2n+1-K,0)
+**Distrattori:**
+- max(A1-K,3) e max(A2n+1-K,1)
+- min(A1-K,0) e max(A2n+1-K,0)
+- min(A1-K,0) e min(A2n+1-K,0)
+
+**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una PUT alla scadenza T, in un albero binomiale a n stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 3)?
+**R:** «**max(K-A1,0) e max(K-A2n+1,0)**». Sono la prima e l'ultima riga della slide 8, «Pay Off della PUT a scadenza», MAX(K -A1,0) e MAX(K -A2n+1,0). Il docente non nomina le celle: dice che per la put cambia «la definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» ([00:07:05]); nel foglio Excel è =MAX(k-W46;0) (slide 30). Distrattori del test: «max(K-A1,0) e max(K-A2n+1,2)» ha una costante inventata; «min(K-A1,0)…» ha la forma della short call, min(K-S_T,0); «min(A1-K,0) e min(A2n+1-K,0)» è la D della domanda 2, ripescata identica: il pool è condiviso.
+**Opzione:** max(K-A1,0) e max(K-A2n+1,0)
+**Distrattori:**
+- min(K-A1,0) e max(K-A2n+1,0)
+- max(K-A1,0) e max(K-A2n+1,2)
+- min(A1-K,0) e min(A2n+1-K,0)
+
+**D:** ⚠️ Quanto vale u in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 4)?
+**R:** «**exp(σ . dt^(1/2))**». È la formula del foglio Excel della slide 17, u =EXP(sigma∗RADQ(deltat)), cioè e^(σ√Δt), 1,069; le slide 27 e 32 la ripetono, la 32 con SQRT. Il docente: «L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» ([00:17:24]–[00:17:28]). Distrattori del test: «exp(-σ . dt^(1/2))» è il valore di d, perché d=1/u e 1/e^(σ√Δt) = e^(-σ√Δt), una deduzione: le slide scrivono solo d=1/u. È vera per d e falsa per u. «exp(σ)» non dipende dal passo temporale; «exp(σ . dt)» usa dt al posto di √dt, la stessa confusione della domanda 5 del test della lezione 06.
+**Opzione:** exp(σ . dt^(1/2))
+**Distrattori:**
+- exp(σ)
+- exp(σ . dt)
+- exp(-σ . dt^(1/2))
+
+**D:** ⚠️ Quanto vale d in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 5)?
+**R:** «**1/u**». Le variabili della slide 2 scrivono «d=1/u», ripetuto nelle slide 7 e 11; nel foglio Excel d =1/u, 0,935 (slide 17). Il docente: «il down è uguale ad 1 su u» ([00:00:40]) e «L'evento down è facilissimo, è 1 diviso up» ([00:17:19]). La forma equivalente exp(-σ . dt^(1/2)) non è fra le opzioni: è il distrattore D della domanda 4. Distrattori del test: «exp(σ . dt^(1/2))» è il valore di u, la chiave della domanda 4; «exp(σ)» e «exp(σ . dt)» sono gli stessi distrattori della 4, ed entrambi danno un numero maggiore di 1, mentre d è minore di 1.
+**Opzione:** 1/u
+**Distrattori:**
+- exp(σ)
+- exp(σ . dt)
+- exp(σ . dt^(1/2))
