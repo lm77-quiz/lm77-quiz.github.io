@@ -4376,3 +4376,296 @@
 - J1=St-r(T-t)N(d1)
 - J1=StN(d2)
 - J1=St-r(T-t)N(d2)
+
+## Lezione 15 — Pricing 8 - Modello Black-Scholes-Merton Metodo EDP
+
+**D:** ⚠️ Con quale metodo si deriva il modello di Black-Scholes-Merton nella lezione 15, e perché il docente lo ritiene importante?
+**R:** Con il **metodo dell'equazione alle derivate parziali (EDP)**: slide 2, «Il modello Black-Scholes-Merton — Il metodo dell'equazione alle derivate parziali (EDP)». Il docente: «Deriveremo oggi il modello di Black-Scholes-Merton, che oramai abbiamo conosciuto bene attraverso le modalità di derivazione già viste col modello asintotico e con il metodo di replicazione del portafoglio, avvieremo la sua derivazione con il metodo dell'equazione alle derivate parziali. È importante questo metodo perché, come vedremo più in là, consente una opportuna derivazione analitica anche per modelli più complessi, quindi è un metodo che ha la possibilità di essere fortemente generalizzabile» (transcript [00:00:04]–[00:00:31]). ⚠️ La generalizzabilità è solo nel transcript. Il modello asintotico e il portafoglio di replicazione sono le derivazioni delle lezioni 11–13.
+**Opzione:** Con il metodo dell'equazione alle derivate parziali (EDP): consente una opportuna derivazione analitica anche per modelli più complessi, quindi ha la possibilità di essere fortemente generalizzabile.
+**Distrattori:**
+- Con il metodo di replicazione del portafoglio: consente una opportuna derivazione analitica anche per modelli più complessi, quindi ha la possibilità di essere fortemente generalizzabile.
+- La deviazione standard, che il docente chiama anche diffusione; la varianza σ²(T - t) compare nella densità f_Y(y), con 2σ²(T - t) al denominatore dell'esponente.
+- Per la simmetria della normale: ∫_{-d_1}^{+∞} diventa ∫_{-∞}^{d_1}, cioè N(d_1).
+
+**D:** ⚠️ Come si definisce il portafoglio π da cui parte il metodo EDP nella lezione 15 (slide 3)?
+**R:** Slide 3: «π = f - ΔS». Il docente: «Ricupriamo il nostro portafoglio di replica pi greco, che abbiamo già definito, precedenza e questo portafoglio lo andiamo a identificare come il differenziale tra una certa quantità f e una certa quantità delta del sottostante» (transcript [00:00:49]–[00:00:57]); f è «il nostro derivato» ([00:01:14]). ⚠️ Il segno è meno: il derivato meno Δ unità di sottostante. ⚠️ Non è il π_t(X) della lezione 13, che nella slide 19 di quel deck è il prezzo di non arbitraggio del derivato X.
+**Opzione:** π = f - ΔS: il derivato f meno una quantità Δ del sottostante S.
+**Distrattori:**
+- π = f + ΔS: il derivato f più una quantità Δ del sottostante S.
+- ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_1) (84)
+- u² - 2uσ√(T - t) + σ²(T - t) = (u - σ√(T - t))², quindi l'esponente è -(1/2)(u - σ√(T - t))² + r(T - t).
+
+**D:** ⚠️ Quanto vale il differenziale dπ del portafoglio della lezione 15, calcolate le derivate e sostituito il moto geometrico browniano (slide 3)?
+**R:** Slide 3, sotto la freccia «Calcolando le derivate e sostituendo»: «dπ = df - ΔdS = (∂f/∂S)[μSdt + σSdW] + (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt + -Δ[μSdt + σSdW]». Il docente: il differenziale è «df che è il nostro derivato meno delta per il processo che definisce l'andamento del sottostante»; la derivata prima in S moltiplica «il processo stocastico che descrive ds che è il nostro moto geometrico browniano, quindi mu s dt più sigma s dw», poi c'è la derivata prima rispetto al tempo e, «come il lemma di Ito ci insegna, un mezzo, la derivata seconda rispetto al sottostante» (transcript [00:01:14]–[00:02:38]). ⚠️ Nel termine di Itô c'è σ²S², il quadrato della diffusione σS.
+**Opzione:** dπ = df - ΔdS = (∂f/∂S)[μSdt + σSdW] + (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt - Δ[μSdt + σSdW]
+**Distrattori:**
+- dπ = df - ΔdS = (∂f/∂S)[μSdt + σSdW] + (∂f/∂t)dt + (1/2)(∂²f/∂S²)σSdt - Δ[μSdt + σSdW]
+- u = [x - ln S_t - (r - σ²/2)(T - t)]/(σ√(T - t)), la standardizzazione di x: dx = du(σ√(T - t)) e x = uσ√(T - t) + ln S_t + (r - σ²/2)(T - t).
+- ∫_K^{+∞} S_T f(S_T)dS_T - K∫_K^{+∞} f(S_T)dS_T, cioè, con y = S_T, ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy (83).
+
+**D:** ⚠️ Quale lemma e quali regole di moltiplicazione richiama il docente della lezione 15 per il termine della derivata seconda di f nel differenziale dπ?
+**R:** Il lemma di Itô con l'algebra di Itô: «come il lemma di Ito ci insegna, un mezzo, la derivata seconda rispetto al sottostante, che applicato al moto geometrico baroniano mu s dt più sigma s dw recuperando l'algebra di ito per cui dt per dt è 0 e dv per dv è dt e dv dt è 0 otteniamo quindi la derivata seconda di f cioè del nostro payoff in s quadro per sigma quadro s quadro dt» (transcript [00:01:57]–[00:02:15]; «dv» è dW). Nella slide 3 il termine è (1/2)(∂²f/∂S²)σ²S²dt. ⚠️ Le regole sono solo nel transcript: sono quelle della lezione 07, dove (dW_t)² = dt e (dt)² e dW_t · dt si considerano pari a 0.
+**Opzione:** Il lemma di Itô, con l'algebra di Itô: dt · dt = 0, dW · dW = dt, dW · dt = 0; resta (1/2)(∂²f/∂S²)σ²S²dt.
+**Distrattori:**
+- Il lemma di Itô, con l'algebra di Itô: dt · dt = dt, dW · dW = 0, dW · dt = 0; resta (1/2)(∂²f/∂S²)μ²S²dt.
+- y = e^x, da cui dy = ydx, cioè dy = e^xdx: la y si semplifica con quella della densità, ln y diventa x e nell'integrale compare e^xdx.
+- Il termine 2r(T - t), che per il -(1/2) davanti alla parentesi diventa + r(T - t): esce il fattore e^(r(T - t)), e resta S_te^(r(T - t)) ∫ (1/√(2π))e^(-(1/2)(u - σ√(T - t))²) du.
+
+**D:** ⚠️ Che cosa avviene nel «Passaggio nello spazio neutro al rischio» della slide 4 della lezione 15?
+**R:** Slide 4: nella dπ sono cerchiati e barrati in rosso i due termini σSdW, quello dentro la prima parentesi e quello dell'ultima riga; slide 5: raccolti, danno «dW[∂f/∂S - Δ]σS», con la didascalia «dW scompare, i.e. svanisce la componente rischiosa». Il docente: «Ora effettuiamo un'importante attività che è lo spostamento da questo spazio di probabilità in uno spazio neutrale al rischio. Andiamo infatti a semplificare le componenti sigma, s, d, w che troviamo nel primo termine e nell'ultimo termine della nostra equazione in dpi greca», per «rendere pari a zero la componente rischiosa, cioè la componente che ha una sua erraticità, cioè quella in dv» (transcript [00:03:04]–[00:03:41]). ⚠️ I termini (∂f/∂t)dt e (1/2)(∂²f/∂S²)σ²S²dt restano: sono la dπ della slide 6.
+**Opzione:** Si eliminano i termini σSdW del primo e dell'ultimo addendo, raccolti in dW[∂f/∂S - Δ]σS: dW scompare, cioè svanisce la componente rischiosa.
+**Distrattori:**
+- Si eliminano i termini (∂f/∂t)dt e (1/2)(∂²f/∂S²)σ²S²dt, raccolti in dt[∂f/∂t + (1/2)(∂²f/∂S²)σ²S²]: dt scompare, cioè svanisce la componente deterministica.
+- Si semplificano ln S_t e σ√(T - t): esce dall'integrale S_t, e resta S_t ∫ e^(uσ√(T - t) + (r - σ²/2)(T - t)) · (1/√(2π))e^(-u²/2) du.
+- Per la simmetria della normale: ∫_{-d_1}^{+∞} diventa ∫_{-∞}^{d_1}, cioè N(d_1).
+
+**D:** ⚠️ Che cos'è, per il docente della lezione 15, la componente in dW che il passaggio nello spazio neutro al rischio deve azzerare?
+**R:** «la componente rischiosa, cioè la componente che ha una sua erraticità, cioè quella in dv perché v è il nostro moto browniano, che è uguale ad epsilon per la ridice quadrata di delta t, dove epsilon è una variabile casuale, normale, standardizzata, con media 0 e varianza 1» (transcript [00:03:41]–[00:03:58]; «dv» e «v» sono dW e W). La slide 5 dice soltanto «svanisce la componente rischiosa». ⚠️ Media 0 e varianza 1 sono di ε, la normale standardizzata, non del moto browniano.
+**Opzione:** La componente rischiosa, che ha una sua erraticità: il moto browniano è uguale a ε√Δt, con ε variabile casuale normale standardizzata, con media 0 e varianza 1.
+**Distrattori:**
+- La componente rischiosa, che ha una sua erraticità: il moto browniano è uguale a ε√Δt, con ε variabile casuale normale con media 0 e varianza Δt.
+- La deviazione standard, che il docente chiama anche diffusione; la varianza σ²(T - t) compare nella densità f_Y(y), con 2σ²(T - t) al denominatore dell'esponente.
+- z = u - σ√(T - t), con du = dz: l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)) - σ√(T - t).
+
+**D:** ⚠️ Quale scelta di Δ elimina la componente in dW nel metodo EDP della lezione 15 (slide 6)?
+**R:** Slide 6: da dW[∂f/∂S - Δ]σS una freccia porta a «Δ = ∂f/∂S». Il docente: «per poter rendere pari a zero la componente erratica, cioè la componente dv, è sufficiente definire la quantità delta come pari alla derivata prima di f nella derivata prima in ds» (transcript [00:04:27]); più avanti ricorda che delta «era definito, ricordiamo, per essere in uno spazio risk neutral, come la derivata prima di f in ds» ([00:07:27]). ⚠️ La derivata è rispetto al sottostante S, non rispetto al tempo.
+**Opzione:** Δ = ∂f/∂S, la derivata prima di f rispetto al sottostante S.
+**Distrattori:**
+- Δ = ∂f/∂t, la derivata prima di f rispetto al tempo t.
+- (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)); l'estremo superiore resta +∞.
+- ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_1) (84)
+
+**D:** ⚠️ Quanto vale dπ dopo la scelta Δ = ∂f/∂S nella lezione 15 (slide 6), e che cosa diventa l'equazione per il docente?
+**R:** Slide 6: «dπ = (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt». Il docente: «attraverso questa opportuna scelta della quantità delta, siamo in grado di eliminare la componente in dW e quindi riesprimere la nostra equazione differenziale stocastica in un'equazione differenziale parziale. Quindi il nostro differenziale del valore del portafoglio pi greca altro non è che la derivata prima di f in dt per dt più un mezzo la derivata seconda di f in s quadro per sigma quadro s quadro dt» (transcript [00:04:43]–[00:05:09]). ⚠️ Nella dπ manca anche il drift μ: con Δ = ∂f/∂S si elidono anche (∂f/∂S)μSdt e -ΔμSdt della slide 3 (deduzione dalle formule).
+**Opzione:** dπ = (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt: senza dW, l'equazione differenziale stocastica diventa un'equazione differenziale parziale.
+**Distrattori:**
+- dπ = (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt + (∂f/∂S)μSdt: senza dW, l'equazione differenziale stocastica diventa un'equazione differenziale parziale.
+- u² - 2uσ√(T - t) + σ²(T - t) = (u - σ√(T - t))², quindi l'esponente è -(1/2)(u - σ√(T - t))² + r(T - t).
+- f_Y(y) = 1/(σy√(2π(T - t))) · e^(-[ln y - ln S_t - (r - σ²/2)(T - t)]²/(2σ²(T - t)))
+
+**D:** ⚠️ Che cosa significa, per il docente della lezione 15, che il portafoglio π sia un portafoglio di non arbitraggio (slide 7)?
+**R:** Slide 7, «Passaggio nello spazio di non arbitraggio», nel riquadro rosso: «dπ = rπdt». Il docente: «per essere di non arbitraggio cosa vuol dire? Che il nostro portafoglio finanziario Pi deve avere una reddittività pari al rendimento privo di rischio R. Quindi dπ deve essere uguale, per essere in una condizione di non arbitraggio, cioè in una condizione dove non esiste un profitto privo di rischio, proprio uguale alla reddittività del titolo privo di rischio. E quindi dπ deve essere uguale a rπ per dt» (transcript [00:06:00]–[00:06:31]). ⚠️ Il tasso è r, il rendimento privo di rischio, non il tasso di rendimento μ del sottostante. È la chiave della domanda 1 del test.
+**Opzione:** Che il portafoglio deve avere una redditività pari al rendimento privo di rischio r, cioè dπ = rπdt: non esiste un profitto privo di rischio.
+**Distrattori:**
+- Che il portafoglio deve avere una redditività pari al tasso di rendimento μ del sottostante, cioè dπ = μπdt: non esiste un profitto privo di rischio.
+- y = e^x, da cui dy = ydx, cioè dy = e^xdx: la y si semplifica con quella della densità, ln y diventa x e nell'integrale compare e^xdx.
+- -(ln(S_t/K) + (r + σ²/2)(T - t))/(σ√(T - t)), cioè -d_1: sottratto σ√(T - t), -(r - σ²/2)(T - t) - σ²(T - t) diventa -(r + σ²/2)(T - t).
+
+**D:** ⚠️ Quale equazione alle derivate parziali si ottiene sostituendo π = f - ΔS, con Δ = ∂f/∂S, nella condizione dπ = rπdt (slide 7 della lezione 15)?
+**R:** Slide 7: «-rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0». Il docente: si porta «la quantità del risk free dall'altro lato della nostra equazione e quindi cambiando il segno e rimettendo il segno meno come meno rf derivata prima di f in ds rs più df dt più un mezzo derivata seconda di f in s quadro sigma quadro s quadro. E ovviamente questa quantità deve essere uguale a zero» (transcript [00:06:45]–[00:07:19]). ⚠️ Il coefficiente della derivata prima in S è rS, non μS: il drift μ sparisce con la scelta di Δ (slide 6) e r entra con dπ = rπdt.
+**Opzione:** -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0
+**Distrattori:**
+- -rf + (∂f/∂S)μS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0
+- f_Y(y) = 1/(σy√(2π(T - t))) · e^(-[ln y - ln S_t - (r - σ²/2)(T - t)]²/(2σ²(T - t)))
+- (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)); l'estremo superiore resta +∞.
+
+**D:** Perché nell'equazione alle derivate parziali della lezione 15 non compare il tasso di rendimento μ del sottostante?
+**R:** Perché la scelta Δ = ∂f/∂S, che annulla dW[∂f/∂S - Δ]σS (slide 5–6), elide anche i termini in μSdt della slide 3, (∂f/∂S)μSdt e -ΔμSdt: la dπ della slide 6 contiene solo (∂f/∂t)dt e (1/2)(∂²f/∂S²)σ²S²dt. Il tasso che compare nell'equazione è r, e arriva con la condizione di non arbitraggio dπ = rπdt (slide 7). È una deduzione dalle formule: né le slide né il docente lo dicono. Per la (63), la SDE sotto p∗ della slide 10, il docente ricorda invece che la derivata di Radon-Nikodym ha permesso «di sostituire il drift o meglio il valore di rendimento del sottostante mu ignoto con quello noto R» (transcript [00:10:52]).
+
+**D:** ⚠️ Quale «doppio passaggio di spazio» realizza l'equazione alle derivate parziali, secondo il docente della lezione 15?
+**R:** «Conseguentemente ora abbiamo realizzato con quest'ultima equazione un doppio passaggio di spazio. Non solo il nostro portafoglio di IPY è un portafoglio privo di rischio, ma è anche un portafoglio che in quanto privo di rischio non consente possibilità e strategia di arbitraggio» (transcript [00:07:51]–[00:07:58]; «IPY» è π). Il primo passaggio è quello della slide 4, «Passaggio nello spazio neutro al rischio», con Δ = ∂f/∂S che elimina dW (slide 5–6); il secondo quello della slide 7, «Passaggio nello spazio di non arbitraggio», con dπ = rπdt. ⚠️ La formula del «doppio passaggio» è solo nel transcript.
+**Opzione:** Nello spazio neutro al rischio, eliminando dW con Δ = ∂f/∂S, il portafoglio è privo di rischio; nello spazio di non arbitraggio, con dπ = rπdt, non consente strategie di arbitraggio.
+**Distrattori:**
+- Nello spazio neutro al rischio, con dπ = rπdt, il portafoglio è privo di rischio; nello spazio di non arbitraggio, eliminando dW con Δ = ∂f/∂S, non consente strategie di arbitraggio.
+- Si semplificano ln S_t e σ√(T - t): esce dall'integrale S_t, e resta S_t ∫ e^(uσ√(T - t) + (r - σ²/2)(T - t)) · (1/√(2π))e^(-u²/2) du.
+- Il termine 2r(T - t), che per il -(1/2) davanti alla parentesi diventa + r(T - t): esce il fattore e^(r(T - t)), e resta S_te^(r(T - t)) ∫ (1/√(2π))e^(-(1/2)(u - σ√(T - t))²) du.
+
+**D:** ⚠️ Come si specifica l'equazione alle derivate parziali per la call nella lezione 15 (slide 8)?
+**R:** Slide 8, «Specificazione della EDP per la Call»: dall'equazione generica, con «Max[0, S - K]» nel riquadro rosso della freccia, si ottiene «-rC + (∂C/∂S)rS + ∂C/∂t + (1/2)(∂²C/∂S²)σ²S² = 0» con «C(S, t = T) = Max[0, S - K]». Il docente: l'equazione è definita «per un generico payoff f cioè per un generico prodotto derivato f»; per l'opzione call «dobbiamo semplicemente definire la nostra condizione al contorno come il massimo tra 0 ed S meno K che è appunto il valore intrinseco a scadenza della nostra opzione» (transcript [00:08:16]). ⚠️ La condizione è posta a t = T, la scadenza, non al tempo iniziale.
+**Opzione:** f diventa C, con la condizione Max[0, S - K]: -rC + (∂C/∂S)rS + ∂C/∂t + (1/2)(∂²C/∂S²)σ²S² = 0, con C(S, t = T) = Max[0, S - K].
+**Distrattori:**
+- f diventa C, con la condizione Max[0, S - K]: -rC + (∂C/∂S)rS + ∂C/∂t + (1/2)(∂²C/∂S²)σ²S² = 0, con C(S, t = 0) = Max[0, S - K].
+- ∫_K^{+∞} S_T f(S_T)dS_T - K∫_K^{+∞} f(S_T)dS_T, cioè, con y = S_T, ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy (83).
+- z = u - σ√(T - t), con du = dz: l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)) - σ√(T - t).
+
+**D:** ⚠️ Come chiama il docente della lezione 15 la condizione Max[0, S - K] dell'equazione della call, e che cosa rappresenta?
+**R:** «dobbiamo semplicemente definire la nostra condizione al contorno come il massimo tra 0 ed S meno K che è appunto il valore intrinseco a scadenza della nostra opzione»; con l'equazione «ne deriva un problema di Cauchy dove l'equazione differenziale parziale non è altro che l'equazione precedente specificata per il prezzo della call e la condizione al contorno non è altro che il valore intrinseco a scadenza» (transcript [00:08:16]–[00:08:48]). La slide 8 la scrive C(S, t = T) = Max[0, S - K], la slide 11 C_T = max(S_T - K, 0). ⚠️ Il nome «condizione al contorno» è solo nel transcript; la condizione è posta alla scadenza T.
+**Opzione:** La condizione al contorno: il massimo tra 0 e S - K, cioè il valore intrinseco a scadenza dell'opzione.
+**Distrattori:**
+- La condizione iniziale: il massimo tra 0 e S - K, cioè il valore intrinseco dell'opzione al tempo t.
+- u = [x - ln S_t - (r - σ²/2)(T - t)]/(σ√(T - t)), la standardizzazione di x: dx = du(σ√(T - t)) e x = uσ√(T - t) + ln S_t + (r - σ²/2)(T - t).
+- -(ln(S_t/K) + (r + σ²/2)(T - t))/(σ√(T - t)), cioè -d_1: sottratto σ√(T - t), -(r - σ²/2)(T - t) - σ²(T - t) diventa -(r + σ²/2)(T - t).
+
+**D:** ⚠️ Quale problema di Cauchy si ottiene per la call nella lezione 15, e quale SDE ne è l'«alter ego» (slide 10–11)?
+**R:** Slide 10–11: «La SDE che governa il processo S nella sua versione sotto la misura p∗ è data da: dS_t = rS_tdt + σS_tdW∗_t, S_t = s (63) ed il corrispondente problema di Cauchy è dato dal sistema: ∂C/∂t + rS(∂C/∂S) + (1/2)σ²S²(∂²C/∂S²) - rC = 0, C_T = max(S_T - K, 0)». Il docente: nella (63) «Il drift quindi è il tasso di interesse privo di rischio»; la SDE «ha un suo alter ego dal punto di vista del mondo delle equazioni invece differenziali parziali, che è il problema di Cauchy che abbiamo appena derivato» (transcript [00:10:23]–[00:11:20]). ⚠️ La SDE è quella sotto p∗ della lezione 13, con r e W∗, non la (49) sotto p con μ.
+**Opzione:** ∂C/∂t + rS(∂C/∂S) + (1/2)σ²S²(∂²C/∂S²) - rC = 0, con C_T = max(S_T - K, 0); l'alter ego è la SDE di S sotto p∗, dS_t = rS_tdt + σS_tdW∗_t, con S_t = s.
+**Distrattori:**
+- ∂C/∂t + rS(∂C/∂S) + (1/2)σ²S²(∂²C/∂S²) - rC = 0, con C_T = max(S_T - K, 0); l'alter ego è la SDE di S sotto p, dS_t = μS_tdt + σS_tdW_t, con S_t = s.
+- Con il metodo dell'equazione alle derivate parziali (EDP): consente una opportuna derivazione analitica anche per modelli più complessi, quindi ha la possibilità di essere fortemente generalizzabile.
+- La componente rischiosa, che ha una sua erraticità: il moto browniano è uguale a ε√Δt, con ε variabile casuale normale standardizzata, con media 0 e varianza 1.
+
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 9 della lezione 15?
+**R:** Slide 9: «La soluzione del problema di Cauchy è la nota formula di Black-Scholes-Merton, i.e.: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33)», con d_1 (34), d_2 (35) e N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, come nella slide 10 della lezione 11. Il docente: «Dimostreremo con questa proposizione che la soluzione del problema di Cauchy è la formula di Black-Scholes che abbiamo già precedentemente derivato»; il secondo termine è «il prezzo strike per il fattore di sconto» per N(d_2), e la differenza tra d_1 e d_2 «è giusto nel segno del fattore che moltiplica» la time to maturity T - t (transcript [00:09:14]–[00:10:10]). ⚠️ Il deck dimostra soltanto il primo termine, fino alla (84).
+**Opzione:** La soluzione del problema di Cauchy è la nota formula di Black-Scholes-Merton: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33).
+**Distrattori:**
+- La soluzione del problema di Cauchy è la nota formula di Black-Scholes-Merton: C_t = S_tN(d_2) - Ke^(-r(T-t))N(d_1) (33).
+- Il lemma di Itô, con l'algebra di Itô: dt · dt = 0, dW · dW = dt, dW · dt = 0; resta (1/2)(∂²f/∂S²)σ²S²dt.
+- La condizione al contorno: il massimo tra 0 e S - K, cioè il valore intrinseco a scadenza dell'opzione.
+
+**D:** ⚠️ Che cosa consente di affermare il teorema di Feynman-Kac, secondo il docente della lezione 15?
+**R:** «Il teorema di Feynman-Kac ci consente di affermare che laddove ci sia un'equazione differenziale stocastica nella forma precedentemente detta, che corrisponde a un'equazione alle differenze differenziali e parziali, come abbiamo definito nel precedente problema di Cauchy, allora esiste una quantità c di t piccolo, nel nostro caso il prezzo della call, che è dato proprio dal valore atteso del valore intrinseco al tempo t grande per l'esponenziale del fattore di capitalizzazione condizionato al tempo t piccolo» (transcript [00:11:48]–[00:12:07]; l'ASR scrive «Feynman-Kak»). Slide 12: «Sfruttando il teorema di Feynman-Kac, si può affermare direttamente che C_t = E[max(S_T - K, 0)e^(∫_t^T rds) | S_t = s] (81)». ⚠️ Il deck usa il teorema senza enunciarlo: l'enunciato è nella slide 28 della lezione 07. ⚠️ Il valore intrinseco è al tempo T, il condizionamento al tempo t.
+**Opzione:** Che, se una SDE corrisponde a un'equazione alle derivate parziali come nel problema di Cauchy, il prezzo della call è il valore atteso del valore intrinseco alla scadenza T per l'esponenziale del fattore di capitalizzazione, condizionato al tempo t.
+**Distrattori:**
+- Che, se una SDE corrisponde a un'equazione alle derivate parziali come nel problema di Cauchy, il prezzo della call è il valore atteso del valore intrinseco al tempo t per l'esponenziale del fattore di capitalizzazione, condizionato alla scadenza T.
+- Δ = ∂f/∂S, la derivata prima di f rispetto al sottostante S.
+- Sostituendo la (79) e la (80) nella (78): C_t = J_1 - J_2 = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33). Q.E.D.
+
+**D:** ⚠️ Come si risolve esplicitamente il valore atteso condizionale della (81) nella slide 12 della lezione 15?
+**R:** Slide 12: la (81) è scritta «C_t = E[max(S_T - K, 0)e^(∫_t^T rds) | S_t = s]»; poi «Il Valore Atteso condizionale è ora risolto esplicitamente: C_t = E[max(S_T - K, 0)e^(-r(T-t)) | S_t = s] = e^(-r(T-t))E[max(S_T - K, 0) | S_t = s]». Il docente porta fuori «il fattore e alla meno r t grande meno t, che altro non è che la soluzione dell'esponenziale dell'integrale tra t piccolo e t grande di r» in ds, e «poiché questa quantità è costante può essere portata fuori dal valore atteso» (transcript [00:12:58]–[00:13:19]). ⚠️ Nella (81) la slide non ha il meno nell'esponente, che compare nella riga successiva. ⚠️ Che S_t sia adattato a sé stesso serve dopo, nella (82), per ignorare il condizionamento.
+**Opzione:** C_t = E[max(S_T - K, 0)e^(-r(T-t)) | S_t = s] = e^(-r(T-t))E[max(S_T - K, 0) | S_t = s]: il fattore di sconto è costante e può essere portato fuori dal valore atteso.
+**Distrattori:**
+- C_t = E[max(S_T - K, 0)e^(-r(T-t)) | S_t = s] = e^(-r(T-t))E[max(S_T - K, 0) | S_t = s]: il fattore di sconto può essere portato fuori dal valore atteso perché S_t è adattato a sé stesso.
+- Si porta fuori la costante e^(-(1/2)((r - μ)/σ)²t) e si calcola E(e^(((r - μ)/σ)W_t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
+- Si eliminano i termini σSdW del primo e dell'ultimo addendo, raccolti in dW[∂f/∂S - Δ]σS: dW scompare, cioè svanisce la componente rischiosa.
+
+**D:** ⚠️ Che cosa si sostituisce a S_T nel valore atteso della lezione 15, e con quale proprietà si arriva alla (82)?
+**R:** Slide 13: «utilizzando la soluzione (50) specificata per l'espressione (63), si ottiene: = e^(-r(T-t))E[max(S_t · e^((r - σ²/2)(T-t)+σ(W∗_T - W∗_t)) - K, 0) | S_t = s] poichè S_t è adattato a sè stesso, il Valore Atteso condizionale può essere ignorato: C_t = e^(-r(T-t))E[max(S_t · e^((r - σ²/2)(T-t)+σ(W∗_T - W∗_t)) - K, 0)] (82)». Il docente: si usa la soluzione dell'equazione differenziale stocastica, «cioè il random walk esponenziale», e «Poiché S di t è adattato a se stesso, il valore atteso condizionale può essere riscritto tralasciando la condizionalità e quindi diventare un semplice valore atteso» (transcript [00:13:41]–[00:14:17]). ⚠️ Nell'esponente c'è r, non μ, e c'è W∗: è la (50) della lezione 12 scritta per la (63), sotto p∗.
+**Opzione:** S_T = S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)), la soluzione (50) per la (63); poiché S_t è adattato a sé stesso, si ignora il condizionamento e si ottiene la (82).
+**Distrattori:**
+- S_T = S_t · e^((μ - σ²/2)(T-t) + σ(W_T - W_t)), la soluzione (50) per la (49); poiché S_t è adattato a sé stesso, si ignora il condizionamento e si ottiene la (82).
+- S_t~LogN[S_sexp(μdt); S_s²exp(μdt)exp(σ^(2dt)-1)]
+- -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0
+
+**D:** ⚠️ In quali due integrali si scompone il valore atteso della (82) nella lezione 15, e come si scrivono con y = S_T (formula (83))?
+**R:** Slide 14–16: «E[max(S_t · e^((r - σ²/2)(T-t)+σ(W∗_T - W∗_t)) - K, 0)] = ∫_K^{+∞} (S_T - K)f(S_T)dS_T = per una proprietà elementare dell'integrale definito: = ∫_K^{+∞} S_T f(S_T)dS_T - K∫_K^{+∞} f(S_T)dS_T = per semplificare la notazione, sia y = S_T; ne discende che: … = ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy (83)». Il docente: il valore atteso della funzione di massimo diventa «l'integrale tra k e più infinito di S_T meno k f di S_T in dS_T»; «possiamo spaccare l'integrale in due integrali», e nel secondo K, «essendo una costante», esce dall'integrale (transcript [00:15:03]–[00:16:29]). ⚠️ Gli estremi sono K e +∞: sotto K il massimo è nullo.
+**Opzione:** ∫_K^{+∞} S_T f(S_T)dS_T - K∫_K^{+∞} f(S_T)dS_T, cioè, con y = S_T, ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy (83).
+**Distrattori:**
+- ∫_{-∞}^K S_T f(S_T)dS_T - K∫_{-∞}^K f(S_T)dS_T, cioè, con y = S_T, ∫_{-∞}^K y f_Y(y)dy - K∫_{-∞}^K f_Y(y)dy (83).
+- f diventa C, con la condizione Max[0, S - K]: -rC + (∂C/∂S)rS + ∂C/∂t + (1/2)(∂²C/∂S²)σ²S² = 0, con C(S, t = T) = Max[0, S - K].
+- La soluzione del problema di Cauchy è la nota formula di Black-Scholes-Merton: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33).
+
+**D:** ⚠️ Che cosa rappresenta il secondo parametro σ√(T - t) nella distribuzione di ln S_T della slide 17 della lezione 15?
+**R:** La deviazione standard. Slide 17: «ln S_T ~ N[ln S_t + (r - σ²/2)(T - t), σ√(T - t)]» (la slide scrive ∽). Il docente: ln(S_T/S_t) «è normale con media r meno sigma quadro mezzi e deviazione standard sigma radice di T grande meno t», e per ln S_T «la diffusione che è sigma radice di t grande meno t» (transcript [00:16:56]–[00:17:21]). Nella densità della slide 18 compare la varianza, con 2σ²(T - t) al denominatore dell'esponente; il docente lo chiama prima «due volte la diffusione» e poi si corregge, «due volte scusate la varianza» ([00:19:14], [00:19:50]). ⚠️ È il secondo parametro della chiave della domanda 4 del test, «s(T-t)1/2».
+**Opzione:** La deviazione standard, che il docente chiama anche diffusione; la varianza σ²(T - t) compare nella densità f_Y(y), con 2σ²(T - t) al denominatore dell'esponente.
+**Distrattori:**
+- La varianza, che il docente chiama anche diffusione; la deviazione standard σ²(T - t) compare nella densità f_Y(y), con 2σ²(T - t) al denominatore dell'esponente.
+- Che il portafoglio deve avere una redditività pari al rendimento privo di rischio r, cioè dπ = rπdt: non esiste un profitto privo di rischio.
+- Che, se una SDE corrisponde a un'equazione alle derivate parziali come nel problema di Cauchy, il prezzo della call è il valore atteso del valore intrinseco alla scadenza T per l'esponenziale del fattore di capitalizzazione, condizionato al tempo t.
+
+**D:** ⚠️ Come si scrive esplicitamente la densità f_Y(y) di y = S_T nella lezione 15 (slide 18)?
+**R:** Slide 18: «scrivendo esplicitamente la densità di probabilità di y = S_T, si ottiene: f_Y(y) = 1/(σy√(2π(T - t))) · e^(-[ln y - ln S_t - (r - σ²/2)(T - t)]²/(2σ²(T - t)))». Il docente: «la densità di probabilità altro non è che 1 su sigma y radice di 2π t grande meno t per l'esponenziale», «ovviamente col meno davanti», del quadrato di «logaritmo di y meno il logaritmo di s di t meno il drift per t grande meno t» su «2 sigma quadro t grande meno t» (transcript [00:18:09]–[00:18:27]). ⚠️ Il drift è r - σ²/2, con r sotto p∗; il fattore 1/y e ln y nell'esponente vengono dalla distribuzione normale di ln S_T (slide 17).
+**Opzione:** f_Y(y) = 1/(σy√(2π(T - t))) · e^(-[ln y - ln S_t - (r - σ²/2)(T - t)]²/(2σ²(T - t)))
+**Distrattori:**
+- f_Y(y) = 1/(σy√(2π(T - t))) · e^(-[ln y - ln S_t - (r + σ²/2)(T - t)]²/(2σ²(T - t)))
+- dπ = df - ΔdS = (∂f/∂S)[μSdt + σSdW] + (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt - Δ[μSdt + σSdW]
+- ∂C/∂t + rS(∂C/∂S) + (1/2)σ²S²(∂²C/∂S²) - rC = 0, con C_T = max(S_T - K, 0); l'alter ego è la SDE di S sotto p∗, dS_t = rS_tdt + σS_tdW∗_t, con S_t = s.
+
+**D:** ⚠️ Con quale primo cambio di variabile si calcola il primo integrale della (83) nella lezione 15, e che cosa ne discende (slide 19–20)?
+**R:** Slide 20: «scegliendo y = e^x ne discende dy = ydx cioè dy = e^xdx, e quindi: = ∫_K^{+∞} 1/(σ√(2π(T - t))) · e^(-[x - ln S_t - (r - σ²/2)(T - t)]²/(2σ²(T - t))) e^xdx». Il docente: «Se ora noi andiamo a scegliere y uguale a e alla x, noi sappiamo che dy uguale a y in dx e quindi dy uguale e alla x in dx. E per le proprietà del logaritmo quindi noi possiamo sostituire la x al logaritmo di y» (transcript [00:19:20]–[00:19:37]). ⚠️ La y del numeratore si semplifica con l'1/y della densità, e ln y diventa x. La slide lascia gli estremi K e +∞ anche nella variabile x.
+**Opzione:** y = e^x, da cui dy = ydx, cioè dy = e^xdx: la y si semplifica con quella della densità, ln y diventa x e nell'integrale compare e^xdx.
+**Distrattori:**
+- x = e^y, da cui dx = xdy, cioè dx = e^ydy: la x si semplifica con quella della densità, ln x diventa y e nell'integrale compare e^ydy.
+- Δ = ∂f/∂S, la derivata prima di f rispetto al sottostante S.
+- Il lemma di Itô, con l'algebra di Itô: dt · dt = 0, dW · dW = dt, dW · dt = 0; resta (1/2)(∂²f/∂S²)σ²S²dt.
+
+**D:** ⚠️ Quale variabile u si sceglie dopo y = e^x nel primo integrale della lezione 15, e quali relazioni ne discendono (slide 21)?
+**R:** Slide 21: «scegliendo [x - ln S_t - (r - σ²/2)(T - t)]/(σ√(T - t)) = u, vale la seguente relazione • dx = du(σ√(T - t)) • [x - ln S_t - (r - σ²/2)(T - t)]²/(σ²(T - t)) = u² • x = uσ√(T - t) + ln S_t + (r - σ²/2)(T - t)». Il docente: «scegliamo u come la standardizzazione della variabile normale x», e «dx altro non è che du per sigma radice quadrata di t grande meno t» (transcript [00:20:18]–[00:20:56]). ⚠️ Si divide per la deviazione standard σ√(T - t), non per la varianza.
+**Opzione:** u = [x - ln S_t - (r - σ²/2)(T - t)]/(σ√(T - t)), la standardizzazione di x: dx = du(σ√(T - t)) e x = uσ√(T - t) + ln S_t + (r - σ²/2)(T - t).
+**Distrattori:**
+- u = [x - ln S_t - (r - σ²/2)(T - t)]/(σ²(T - t)), la standardizzazione di x: dx = du(σ²(T - t)) e x = uσ²(T - t) + ln S_t + (r - σ²/2)(T - t).
+- dπ = (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt: senza dW, l'equazione differenziale stocastica diventa un'equazione differenziale parziale.
+- S_T = S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)), la soluzione (50) per la (63); poiché S_t è adattato a sé stesso, si ignora il condizionamento e si ottiene la (82).
+
+**D:** ⚠️ Quale estremo inferiore assume il primo integrale della lezione 15 dopo la sostituzione di u (slide 22)?
+**R:** Slide 22: «al fine di ottenere: = ∫_{(ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t))}^{+∞} e^([uσ√(T - t) + ln S_t + (r - σ²/2)(T - t)]) · 1/(σ√(2π(T - t))) · e^(-u²/2) (σ√(T - t)) du». Il docente: l'integrale «era un integrale tra k e infinito», e diventa «un integrale tra il logaritmo di k meno il logaritmo di s meno r meno sigma quadro mezzi t grande meno t diviso sigma radice di t grande meno t ed infinito» (transcript [00:21:24]–[00:21:35]). ⚠️ È K standardizzato, con ln K al posto di x nella definizione di u; l'estremo superiore resta +∞.
+**Opzione:** (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)); l'estremo superiore resta +∞.
+**Distrattori:**
+- (ln S_t - ln K - (r - σ²/2)(T - t))/(σ√(T - t)); l'estremo superiore resta +∞.
+- -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0
+- π = f - ΔS: il derivato f meno una quantità Δ del sottostante S.
+
+**D:** ⚠️ Che cosa si semplifica nella slide 23 della lezione 15, e quale fattore esce dal primo integrale?
+**R:** Slide 23: «semplificando ln S_t e σ√(T - t) = S_t ∫ e^([uσ√(T - t) + (r - σ²/2)(T - t)]) · (1/√(2π)) e^(-u²/2) du», con lo stesso estremo inferiore. Il docente: «se semplifichiamo il logaritmo di s di t, perché qui abbiamo un esponenziale per il logaritmo, e sigma radice di t grande meno t», S_t «l'abbiamo al di fuori dell'integrale» (transcript [00:22:30]–[00:22:42]). ⚠️ e^(ln S_t) = S_t esce dall'integrale; il σ√(T - t) di dx si semplifica con quello del denominatore della densità, che diventa 1/√(2π).
+**Opzione:** Si semplificano ln S_t e σ√(T - t): esce dall'integrale S_t, e resta S_t ∫ e^(uσ√(T - t) + (r - σ²/2)(T - t)) · (1/√(2π))e^(-u²/2) du.
+**Distrattori:**
+- Si semplificano ln S_t e σ√(T - t): esce dall'integrale ln S_t, e resta ln S_t ∫ e^(uσ√(T - t) + (r - σ²/2)(T - t)) · (1/√(2π))e^(-u²/2) du.
+- Si eliminano i termini σSdW del primo e dell'ultimo addendo, raccolti in dW[∂f/∂S - Δ]σS: dW scompare, cioè svanisce la componente rischiosa.
+- C_t = E[max(S_T - K, 0)e^(-r(T-t)) | S_t = s] = e^(-r(T-t))E[max(S_T - K, 0) | S_t = s]: il fattore di sconto è costante e può essere portato fuori dal valore atteso.
+
+**D:** ⚠️ Quale termine dell'esponente si porta fuori nelle slide 25–27 della lezione 15, e quale fattore esce dal primo integrale?
+**R:** Slide 25: «mettendo in comune il denominatore: = S_t ∫ (1/√(2π)) e^(-(1/2)[u² - 2uσ√(T - t) - 2r(T - t) + σ²(T - t)]) du portando fuori dall'integrale il termine 2r(T - t) = S_t ∫ (1/√(2π)) e^(-(1/2)[u² - 2uσ√(T - t) + σ²(T - t)] + r(T - t)) du»; slide 27: «portando fuori dall'integrale il termine e^(r(T-t)) = S_te^(r(T-t)) ∫ (1/√(2π)) e^(-(1/2)(u - σ√(T - t))²) du». Il docente: si può «estrarre il termine 2RT», «perché abbiamo portato fuori dall'integrale il termine 2r t grande meno t» (transcript [00:23:57]–[00:24:20]). ⚠️ Moltiplicato per -(1/2), il 2r(T - t) diventa + r(T - t): esce e^(r(T - t)), con il più. A [00:25:23]–[00:25:28] il transcript dice «non è costante rispetto al calcolo integrale»: il fattore esce proprio perché è costante rispetto a u.
+**Opzione:** Il termine 2r(T - t), che per il -(1/2) davanti alla parentesi diventa + r(T - t): esce il fattore e^(r(T - t)), e resta S_te^(r(T - t)) ∫ (1/√(2π))e^(-(1/2)(u - σ√(T - t))²) du.
+**Distrattori:**
+- Il termine 2r(T - t), che resta tale fuori dalla parentesi: esce il fattore e^(2r(T - t)), e resta S_te^(2r(T - t)) ∫ (1/√(2π))e^(-(1/2)(u - σ√(T - t))²) du.
+- C_t = E[max(S_T - K, 0)e^(-r(T-t)) | S_t = s] = e^(-r(T-t))E[max(S_T - K, 0) | S_t = s]: il fattore di sconto è costante e può essere portato fuori dal valore atteso.
+- Nello spazio neutro al rischio, eliminando dW con Δ = ∂f/∂S, il portafoglio è privo di rischio; nello spazio di non arbitraggio, con dπ = rπdt, non consente strategie di arbitraggio.
+
+**D:** ⚠️ Quale quadrato perfetto si riconosce nell'esponente del primo integrale della lezione 15 (slide 26)?
+**R:** Slide 26: «nel termine dentro le parentesi si può riconoscere un quadrato perfetto, i.e.: = S_t ∫ (1/√(2π)) e^(-(1/2)(u - σ√(T - t))² + r(T - t)) du». Il docente: «Troviamo un quadrato perfetto fatto da u e da sigma radice di t grande meno t, u meno perché il doppio prodotto è meno 2u sigma» (transcript [00:24:44]–[00:24:50]; a [00:24:58] l'ASR scrive «1 meno sigma radice»). ⚠️ Il segno è meno: il doppio prodotto è -2uσ√(T - t).
+**Opzione:** u² - 2uσ√(T - t) + σ²(T - t) = (u - σ√(T - t))², quindi l'esponente è -(1/2)(u - σ√(T - t))² + r(T - t).
+**Distrattori:**
+- u² - 2uσ√(T - t) + σ²(T - t) = (u + σ√(T - t))², quindi l'esponente è -(1/2)(u + σ√(T - t))² + r(T - t).
+- dπ = df - ΔdS = (∂f/∂S)[μSdt + σSdW] + (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt - Δ[μSdt + σSdW]
+- f diventa C, con la condizione Max[0, S - K]: -rC + (∂C/∂S)rS + ∂C/∂t + (1/2)(∂²C/∂S²)σ²S² = 0, con C(S, t = T) = Max[0, S - K].
+
+**D:** ⚠️ Quale secondo cambio di variabile si fa nel primo integrale della lezione 15, e come cambia l'estremo inferiore (slide 28)?
+**R:** Slide 28: «scegliendo (u - σ√(T - t)) = z, e così, du = dz si ottiene: = S_te^(r(T-t)) ∫_{(ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)) - σ√(T - t)}^{+∞} (1/√(2π)) e^(-(1/2)z²) dz». Il docente: «dU in questa trasformazione è proprio uguale a dZ perché sigma è costante»; il cambio di variabile «mi va ad aggiungere nell'intervallo inferiore di integrazione la quantità sigma radice di t grande meno t» (transcript [00:25:47]–[00:26:39]). ⚠️ La slide scrive il termine aggiunto con il meno, -σ√(T - t); l'integrando diventa la densità normale standard in z.
+**Opzione:** z = u - σ√(T - t), con du = dz: l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)) - σ√(T - t).
+**Distrattori:**
+- z = u - σ√(T - t), con du = dz: l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T - t))/(σ√(T - t)) + σ√(T - t).
+- ∂C/∂t + rS(∂C/∂S) + (1/2)σ²S²(∂²C/∂S²) - rC = 0, con C_T = max(S_T - K, 0); l'alter ego è la SDE di S sotto p∗, dS_t = rS_tdt + σS_tdW∗_t, con S_t = s.
+- dπ = (∂f/∂t)dt + (1/2)(∂²f/∂S²)σ²S²dt: senza dW, l'equazione differenziale stocastica diventa un'equazione differenziale parziale.
+
+**D:** ⚠️ A quale espressione si riduce l'estremo inferiore del primo integrale della lezione 15, e quale grandezza vi si riconosce (slide 29–32)?
+**R:** Slide 29–31: «(ln K - ln S_t - (r - σ²/2)(T - t) - σ²(T - t))/(σ√(T - t))», poi «(ln K - ln S_t - (r + σ²/2)(T - t))/(σ√(T - t))», «o alternativamente: -(ln S_t - ln K + (r + σ²/2)(T - t))/(σ√(T - t))», e con una proprietà elementare dei logaritmi «-(ln(S_t/K) + (r + σ²/2)(T - t))/(σ√(T - t))»; slide 32: «definendo l'estremo inferiore di integrazione come d_1 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t)) si ottiene: = S_te^(r(T-t)) ∫_{-d_1}^{+∞} (1/√(2π)) e^(-(1/2)z²) dz». Il docente: la semplificazione «porta nel terzo termine del numeratore la quantità a diventare positiva r più sigma quadro mezzi»; «Riconosciamo in questa quantità la quantità d1 che abbiamo definito all'inizio della nostra proposizione» (transcript [00:27:29], [00:28:33]). ⚠️ -(r - σ²/2)(T - t) - σ²(T - t) = -(r + σ²/2)(T - t): per questo compare d_1 e non d_2.
+**Opzione:** -(ln(S_t/K) + (r + σ²/2)(T - t))/(σ√(T - t)), cioè -d_1: sottratto σ√(T - t), -(r - σ²/2)(T - t) - σ²(T - t) diventa -(r + σ²/2)(T - t).
+**Distrattori:**
+- -(ln(S_t/K) + (r - σ²/2)(T - t))/(σ√(T - t)), cioè -d_2: sottratto σ√(T - t), -(r - σ²/2)(T - t) - σ²(T - t) resta -(r - σ²/2)(T - t).
+- La soluzione del problema di Cauchy è la nota formula di Black-Scholes-Merton: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33).
+- S_T = S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)), la soluzione (50) per la (63); poiché S_t è adattato a sé stesso, si ignora il condizionamento e si ottiene la (82).
+
+**D:** ⚠️ Per quale proprietà, e come, si riscrive ∫_{-d_1}^{+∞} della densità normale standard nella slide 33 della lezione 15?
+**R:** Slide 33: «l'integrando è la funzione di densità di probabilità di una variabile aleatoria normale, e così, per le proprietà di simmetria della normale, l'espressione precedente può essere riscritta come: = S_te^(r(T-t)) ∫_{-∞}^{d_1} (1/√(2π)) e^(-(1/2)z²) dz». Il docente: «utilizzando le proprietà di simmetria della normale, possiamo invertire gli estremi di integrazione e il nostro integrale diventa s di t per e alla r t grande meno t dell'integrale tra meno infinito e d1, invece che tra meno d1 e più infinito» (transcript [00:29:04]). ⚠️ ∫_{-∞}^{d_1} della densità normale standard è N(d_1), per la definizione di N(x) della slide 9.
+**Opzione:** Per la simmetria della normale: ∫_{-d_1}^{+∞} diventa ∫_{-∞}^{d_1}, cioè N(d_1).
+**Distrattori:**
+- Per la simmetria della normale: ∫_{-d_1}^{+∞} diventa ∫_{-∞}^{-d_1}, cioè N(-d_1).
+- Con il metodo dell'equazione alle derivate parziali (EDP): consente una opportuna derivazione analitica anche per modelli più complessi, quindi ha la possibilità di essere fortemente generalizzabile.
+- Che il portafoglio deve avere una redditività pari al rendimento privo di rischio r, cioè dπ = rπdt: non esiste un profitto privo di rischio.
+
+**D:** ⚠️ Quanto vale il primo integrale della (83) nella lezione 15, secondo la formula (84) della slide 34?
+**R:** Slide 34: «ovvero: = S_te^(r(T-t))N(d_1) quindi, il primo integrale può essere riscritto nella forma: ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_1) (84)». Il docente: «Il primo integrale tra k infinito di y f di y in dy si può riscrivere come s di t piccolo e alla r t grande meno t n di 1» (transcript [00:29:36]). ⚠️ L'esponente è positivo. Moltiplicato per lo sconto e^(-r(T-t)) che nella (82) sta davanti al valore atteso, dà S_tN(d_1), il primo termine della (33), che la lezione 14 chiama J_1 (80): J_1 è il termine già scontato, il primo integrale no. È una deduzione, il deck non fa questo passaggio. 🚨 La chiave della domanda 2 del test scrive invece «St-r(T-t)N(d1)», con il meno.
+**Opzione:** ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_1) (84)
+**Distrattori:**
+- ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_2) (84)
+- La condizione al contorno: il massimo tra 0 e S - K, cioè il valore intrinseco a scadenza dell'opzione.
+- J1=StN(d1)
+
+**D:** ⚠️ Con quale relazione avviene il passaggio nello spazio di non arbitraggio nel modello di BSM derivato con il metodo dell'equazione alle derivate parziali, secondo il test della lezione 15 (domanda 1)?
+**R:** «**dp=rpdt**», la chiave della piattaforma: nella resa piatta «p» è π, quindi dπ = rπdt, la relazione nel riquadro rosso della slide 7, che si intitola proprio «Passaggio nello spazio di non arbitraggio». Il docente: il portafoglio «deve avere una redditività pari al rendimento privo di rischio R», «cioè in una condizione dove non esiste un profitto privo di rischio», «e quindi dπ deve essere uguale a rπ per dt» (transcript [00:06:00]–[00:06:31]). Distrattori del test, tre pezzi della formula del prezzo della call riciclati dal test della lezione 14, che non parlano dell'oggetto della domanda: «J2=e-r(T-t)N(d2)» è il J_2 senza K, un distrattore della domanda 4 di quel test; «St N(d1) + e-rt N(d1)» e «Ke-rt N(d2)» sono le opzioni C e D della sua domanda 1, senza «Ct=».
+**Opzione:** dp=rpdt
+**Distrattori:**
+- J2=e-r(T-t)N(d2)
+- St N(d1) + e-rt N(d1)
+- Ke-rt N(d2)
+
+**D:** ⚠️ Quale espressione assume il primo integrale della formula del prezzo della Call nel modello di BSM derivato con il metodo dell'equazione alle derivate parziali, secondo il test della lezione 15 (domanda 2)?
+**R:** «**∫k+∞ y fY(y)dy=St-r(T-t)N(d1)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. La slide 34 scrive ∫_K^{+∞} y f_Y(y)dy = S_te^(r(T-t))N(d_1) (84), con l'esponente **positivo**, e il docente: il primo integrale «si può riscrivere come s di t piccolo e alla r t grande meno t n di 1» (transcript [00:29:36]). La chiave ha il **meno** e perde la «e». Resta l'opzione da segnare perché è la sola con il fattore in S_t **e** con N(d_1). ⚠️ Nel test della lezione 14 la stessa scrittura, «J1=St-r(T-t)N(d1)», era un distrattore per J_1. Il primo integrale non è il J_1 = S_tN(d_1) (80) della lezione 14, perché non è ancora scontato: nella (82) davanti al valore atteso c'è e^(-r(T-t)), e moltiplicato per la (84) il primo termine del prezzo diventa S_tN(d_1) (deduzione dalle slide 13 e 34). Distrattori del test: «∫k+∞ y fY(y)dy=St-r(T-t)» perde N(d_1); «∫k+∞ y fY(y)dy=N(d1)» perde il fattore in S_t; «d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» non parla dell'integrale ed è la C della domanda 2 del test della lezione 14, la d_1 senza ln(S_t/K).
+**Opzione:** ∫k+∞ y fY(y)dy=St-r(T-t)N(d1)
+**Distrattori:**
+- ∫k+∞ y fY(y)dy=St-r(T-t)
+- ∫k+∞ y fY(y)dy=N(d1)
+- d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }
+
+**D:** ⚠️ Con quale relazione avviene la specificazione della EDP per la Call nel modello di BSM derivato con il metodo dell'equazione alle derivate parziali, secondo il test della lezione 15 (domanda 3)?
+**R:** «**Max(ST-K,0)**», la chiave della piattaforma, giusta ma non alla lettera: la slide 8, «Specificazione della EDP per la Call», ha nel riquadro rosso Max[0, S - K] e scrive la condizione C(S, t = T) = Max[0, S - K]; la slide 11 scrive C_T = max(S_T - K, 0). La chiave prende la maiuscola dalla prima e l'ordine dalla seconda. Il docente la chiama «condizione al contorno», «il massimo tra 0 ed S meno K che è appunto il valore intrinseco a scadenza della nostra opzione» (transcript [00:08:16]). Distrattori del test: «dp=rpdt» è la chiave della domanda 1, vera come condizione di non arbitraggio ma valida per un generico derivato f (slide 7): non specifica l'equazione per la call; «J2=e-r(T-t)N(d2)» è il J_2 senza K della domanda 4 del test della lezione 14; «d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }» è la D della domanda 3 del test della lezione 14, la formula di d_1 (34) con il nome d2: falsa anche come d_2, che ha r - σ²/2 (35).
+**Opzione:** Max(ST-K,0)
+**Distrattori:**
+- J2=e-r(T-t)N(d2)
+- dp=rpdt
+- d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }
+
+**D:** ⚠️ Quale distribuzione assume lnST nel modello di BSM derivato con il metodo dell'equazione alle derivate parziali, secondo il test della lezione 15 (domanda 4)?
+**R:** «**lnST~N[lnSt+(r-s2/2)(T-t), s(T-t)1/2)]**», la chiave della piattaforma: è la seconda riga della slide 17, ln S_T ~ N[ln S_t + (r - σ²/2)(T - t), σ√(T - t)], con «s» per σ e «(T-t)1/2» per √(T - t). Il secondo parametro è la **deviazione standard**: per il docente «la diffusione che è sigma radice di t grande meno t» (transcript [00:17:21]), e a [00:16:56] la chiama «deviazione standard». Nella media c'è r, non μ: è la distribuzione sotto p∗. La piattaforma aggiunge una «)» prima della «]». Distrattori del test, tutti dal test della lezione 12: «St~LogN[Ssexp(mdt); Ss2exp(mdt)exp(s2dt-1)]» era la chiave della sua domanda 4, vera per S_t sotto p, con μ e su un intervallo dt, ma non parla di ln S_T; «lnSt~LogN[Ssexp(mdt); Ss2exp(mdt)]» si contraddice da sola, perché il logaritmo di S è normale, non lognormale; «St~LogN[Ssexp(mdt); Ss2exp(mdt)]» è il distrattore della domanda 4 della lezione 12, senza il fattore (e^(σ²dt) - 1).
+**Opzione:** lnST~N[lnSt+(r-s2/2)(T-t), s(T-t)1/2)]
+**Distrattori:**
+- St~LogN[Ssexp(mdt); Ss2exp(mdt)exp(s2dt-1)]
+- lnSt~LogN[Ssexp(mdt); Ss2exp(mdt)]
+- St~LogN[Ssexp(mdt); Ss2exp(mdt)]
+
+**D:** ⚠️ Quale distribuzione assume lnST/St nel modello di BSM derivato con il metodo dell'equazione alle derivate parziali, secondo il test della lezione 15 (domanda 5)?
+**R:** «**lnST/St~N[(r-s2/2)(T-t), s(T-t)1/2)]**», la chiave della piattaforma, giusta nel merito ma non alla lettera: la prima riga della slide 17 scrive ln(S_T/S_t) ~ N((r - σ²/2), σ√(T - t)), senza (T - t) nella media, e il docente la legge allo stesso modo, «media r meno sigma quadro mezzi e deviazione standard sigma radice di T grande meno t» (transcript [00:16:56]). La riga successiva della stessa slide, ln S_T ~ N[ln S_t + (r - σ²/2)(T - t), σ√(T - t)], dà, sottratto ln S_t, la media (r - σ²/2)(T - t) della chiave; così la scrive anche il corollario della lezione 13. La slide scrive ln S_T/S_t come frazione, cioè ln(S_T/S_t). Distrattori del test: «lnST~N[lnSt+(r-s2/2)(T-t), s(T-t)1/2)]» è la chiave della domanda 4, vera per ln S_T ma non per ln(S_T/S_t): le due domande sono speculari, e chi non guarda la variabile sbaglia una delle due; «St~LogN[Ssexp(mdt); Ss2exp(mdt)exp(s2dt-1)]» e «St~LogN[Ssexp(mdt); Ss2exp(mdt)]» vengono dal test della lezione 12 e parlano di S_t.
+**Opzione:** lnST/St~N[(r-s2/2)(T-t), s(T-t)1/2)]
+**Distrattori:**
+- lnST~N[lnSt+(r-s2/2)(T-t), s(T-t)1/2)]
+- St~LogN[Ssexp(mdt); Ss2exp(mdt)exp(s2dt-1)]
+- St~LogN[Ssexp(mdt); Ss2exp(mdt)]
