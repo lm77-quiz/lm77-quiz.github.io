@@ -3206,3 +3206,312 @@
 - exp(σ)
 - exp(σ . dt)
 - exp(σ . dt^(1/2))
+
+## Lezione 11 — Pricing 4 - Modello Black-Scholes-Merton Soluzione asintotica 1
+
+**D:** ⚠️ Quale modello si deriva nella lezione 11, e come se ne ottiene la prima derivazione?
+**R:** Il modello di Black-Scholes-Merton, «uno dei modelli più diffusi in finanza per il pricing di opzioni call e put europee», che il corso deriva «secondo varie modalità» (transcript [00:00:04]–[00:00:19]). «La prima derivazione è la derivazione asintotica del modello di Cox-Ross-Rubinstein» ([00:00:34]): «che continuizza gli intervalli discreti», cioè con un intervallo temporale discreto che «tende a diventare sempre più piccolo, infinitesimo, in maniera tale che il tempo discreto diventi un tempo continuo» ([00:00:42]). Slide 2–3: «Il modello Black-Scholes-Merton — La soluzione asintotica». ⚠️ Il modello di partenza è il Cox-Ross-Rubinstein multiperiodale della lezione 09, non lo Sharpe-Rendleman-Bartter uniperiodale della lezione 08.
+**Opzione:** Il modello di Black-Scholes-Merton, derivato prima come limite asintotico del modello di Cox-Ross-Rubinstein: l'intervallo discreto diventa infinitesimo e il tempo discreto diventa continuo.
+**Distrattori:**
+- Il modello di Black-Scholes-Merton, derivato prima come limite asintotico del modello di Sharpe-Rendleman-Bartter: l'intervallo discreto diventa infinitesimo e il tempo discreto diventa continuo.
+- Consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale
+- Il Teorema del Limite Centrale: per n → ∞ la sequenza di variabili casuali γ̃_n converge in distribuzione alla variabile normale standard.
+
+**D:** ⚠️ Come si partiziona l'orizzonte [0, T] di un prodotto derivato nella soluzione asintotica (slide 4)?
+**R:** Slide 4: «Sia l'orizzonte di un prodotto derivato dato dall'intervallo [0, T], da partizionare in n sotto-intervalli: I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1 dove Δ_n = (T-0)/n e n = 2^k». Il docente: «Gli n sotto intervalli I_j vanno da j delta n a j più 1 delta n per j che va da 0 a n meno 1», con n uguale a 2 alla k «perché siamo in uno sviluppo appunto binomiale, uno spazio appunto 2 alla k» (transcript [00:01:13]). ⚠️ n = 2^k, non k²; Δ_n è l'orizzonte diviso n.
+**Opzione:** In n sotto-intervalli I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1, dove Δ_n = (T-0)/n e n = 2^k.
+**Distrattori:**
+- In n sotto-intervalli I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1, dove Δ_n = (T-0)/n e n = k².
+- m_n(t) ≜ (T-t)/Δ_n ∀n ∈ N: il numero dei periodi (T - t) presi come numerario Δ_n.
+- Una variabile casuale che può assumere valori {u_n, d_n}; le ξ_{n,j} sono variabili casuali i.i.d. sullo spazio di probabilità (Ω_n, ℑ_n, P_n).
+
+**D:** ⚠️ Per quali valori di j valgono le formule di B e di S sulla griglia della soluzione asintotica (slide 5)?
+**R:** Slide 5: «Il processo stocastico per S e B si trasforma in: i. B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n; ii. S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn} ∀j = 0, ..., n - 1». ⚠️ B è definito in tutte le n + 1 date, da 0 a nΔ_n = T; la ricorsione di S si ferma a j = n - 1, perché da S_{jΔn} dà S_{(j+1)Δn}, e con j = n - 1 si arriva già a T. Le probabilità della slide 6 valgono invece ∀j = 1, ....., n, perché riguardano ξ_{n,j}.
+**Opzione:** B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n; S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn}, ∀j = 0, ..., n - 1
+**Distrattori:**
+- B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n - 1; S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn}, ∀j = 0, ..., n
+- P_n{ξ_{n,j} = u_n} = p = 1 - P_n{ξ_{n,j} = d_n} ∀j = 1, ....., n
+- a_n(t) = inf{j ∈ N^+ | S_{T-m_n(t)}u_n^j d_n^(m_n(t)-j) - K > 0}
+
+**D:** ⚠️ Che cos'è r_n nella soluzione asintotica, e come si scrive in forma compatta 1 + r_n?
+**R:** Slide 5: «r_n è il tasso di interesse lungo l'orizzonte temporale I_j, ∀n», cioè sul singolo sotto-intervallo; e B_{jΔn} = (1 + r_n)^j = r̂_n^j. Il docente: «questo 1 più r_n lo definiremo come r cappello di n elevato alla j con una notazione compatta, è praticamente il fattore di capitalizzazione ovvero poi espresso in termini inversi il fattore di sconto» (transcript [00:01:56]). ⚠️ r_n è il tasso di un sotto-intervallo, non di tutto [0, T]: per la slide 7, 1 + r_n = e^(rΔ_n).
+**Opzione:** Il tasso di interesse lungo l'orizzonte temporale I_j, ∀n; 1 + r_n si scrive r̂_n, il fattore di capitalizzazione.
+**Distrattori:**
+- Il tasso di interesse lungo l'intero orizzonte [0, T], ∀n; 1 + r_n si scrive r̂_n, il fattore di capitalizzazione.
+- lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗ u_n/r̂_n) = -(T - t)(r/σ + σ/2)
+- m_n(t) ≜ (T-t)/Δ_n ∀n ∈ N: il numero dei periodi (T - t) presi come numerario Δ_n.
+
+**D:** ⚠️ Che cos'è ξ_{n,j} nella soluzione asintotica, e come sono distribuite le ξ_{n,j} (slide 5–6)?
+**R:** Slide 5: «ξ_{n,j} è una variabile casuale che può assumere valori {u_n, d_n}». Slide 6: «Sotto le condizioni sopra elencate, ξ_{n,j} sono variabili casuali i.i.d. sullo spazio di probabilità (Ω_n, ℑ_n, P_n)». Il docente: ξ «è una variabile casuale, identicamente, indipendentemente distribuita, che può assumere valori u_n e d_n» (transcript [00:02:40]). ⚠️ i.i.d.: indipendenti e identicamente distribuite.
+**Opzione:** Una variabile casuale che può assumere valori {u_n, d_n}; le ξ_{n,j} sono variabili casuali i.i.d. sullo spazio di probabilità (Ω_n, ℑ_n, P_n).
+**Distrattori:**
+- Una variabile casuale che può assumere valori {u_n, d_n}; le ξ_{n,j} sono variabili casuali indipendenti ma non identicamente distribuite sullo spazio di probabilità (Ω_n, ℑ_n, P_n).
+- P{a_n(t) ≤ γ_n ≤ m_n(t)}, dove γ_n ~ bin(p∗ u_n/r̂_n, m_n(t))
+- Il tasso di interesse lungo l'orizzonte temporale I_j, ∀n; 1 + r_n si scrive r̂_n, il fattore di capitalizzazione.
+
+**D:** ⚠️ Quale proprietà soddisfa lo spazio di probabilità (Ω_n, ℑ_n, P_n) delle ξ_{n,j} (slide 6)?
+**R:** Slide 6: «P_n{ξ_{n,j} = u_n} = p = 1 - P_n{ξ_{n,j} = d_n} ∀j = 1, ....., n». Il docente: la probabilità che ξ_{n,j} valga u_n è p, mentre 1 - p è quella del valore d_n, «per ogni j che va da 1 a n piccolo» (transcript [00:03:02]–[00:03:30]). ⚠️ p è la probabilità del valore u_n, la salita; j va da 1 a n.
+**Opzione:** P_n{ξ_{n,j} = u_n} = p = 1 - P_n{ξ_{n,j} = d_n} ∀j = 1, ....., n
+**Distrattori:**
+- P_n{ξ_{n,j} = d_n} = p = 1 - P_n{ξ_{n,j} = u_n} ∀j = 1, ....., n
+- lim_{n→∞} (m_n(t) - E_p(γ_n))/√Var(γ_n) = ∞
+- N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du
+
+**D:** ⚠️ Come si definisce il comportamento asintotico di r_n, u_n e d_n nella soluzione asintotica (slide 7)?
+**R:** Slide 7: «Inoltre, sia il comportamento asintotico di r_n, u_n, d_n definito come segue, con r ≥ 0 e σ > 0: 1 + r_n = e^(rΔ_n); u_n = e^(σ√Δ_n); d_n = u_n^(-1)». Il docente: «1 più r_n non è altro che l'esponenziale di r delta n, u_n è uguale all'esponenziale di sigma radice delta n e d_n non è altro che 1 su u_n» (transcript [00:04:00]). ⚠️ La radice sta in u_n, sotto σ; nel tasso c'è Δ_n senza radice.
+**Opzione:** 1 + r_n = e^(rΔ_n), u_n = e^(σ√Δ_n), d_n = u_n^(-1)
+**Distrattori:**
+- 1 + r_n = e^(r√Δ_n), u_n = e^(σΔ_n), d_n = u_n^(-1)
+- p∗=(r-d)/(u-d)
+- a_n(t) = [ln(K/S_t) + m_n(t)σ√Δ_n]/(2σ√Δ_n)
+
+**D:** ⚠️ Con quali condizioni su r e σ la slide 7 definisce il comportamento asintotico di r_n, u_n e d_n?
+**R:** «con r ≥ 0 e σ > 0» (slide 7). Il docente: «con r maggiore uguale di 0 e sigma maggiore di 0» (transcript [00:03:49]). ⚠️ Il tasso può essere nullo, la volatilità no: con σ = 0 si avrebbe u_n = d_n = 1, e p∗ = (r̂_n - d_n)/(u_n - d_n) perderebbe senso (deduzione dalle formule).
+**Opzione:** r ≥ 0 e σ > 0
+**Distrattori:**
+- r > 0 e σ ≥ 0
+- S_t e K
+- P^a{-d_1 ≤ γ̃_n < ∞}
+
+**D:** ⚠️ Che cos'è m_n(t) nella soluzione asintotica (slide 8)?
+**R:** Slide 8: «allora m_n(t) ≜ (T-t)/Δ_n ∀n ∈ N è il numero dei periodi (T - t) presi come numerario Δ_n. (vedi figura)»; la figura è una retta divisa in tratti di lunghezza Δ_n, con le tacche t e T. Il docente: «m_n(t)» è «T grande meno t su delta n per ogni n piccolo che appartiene a N grande», «il numero dei periodi T grande meno t piccolo presi avendo come numerario delta n» (transcript [00:04:15]–[00:04:26]). ⚠️ Al numeratore c'è T - t, la vita residua, non T - 0: (T-0)/Δ_n sarebbe n.
+**Opzione:** m_n(t) ≜ (T-t)/Δ_n ∀n ∈ N: il numero dei periodi (T - t) presi come numerario Δ_n.
+**Distrattori:**
+- m_n(t) ≜ (T-0)/Δ_n ∀n ∈ N: il numero dei periodi (T - 0) presi come numerario Δ_n.
+- B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n; S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn}, ∀j = 0, ..., n - 1
+- a_n(t) = [ln(K/S_t) + m_n(t)σ√Δ_n]/(2σ√Δ_n)
+
+**D:** ⚠️ Come si riscrive la formula (30) del modello di Cox-Ross-Rubinstein con la nuova notazione della soluzione asintotica (formula (32))?
+**R:** Slide 9: «Utilizzando la nuova notazione, la formula (30) può essere riscritta come segue: C_t = S_t ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) - (K/r̂_n^(m_n(t))) ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j) (32)». Il docente: il primo addendo è «riferito al sottostante», il secondo «riferito allo strike» (transcript [00:04:51]–[00:05:41]). ⚠️ Nella prima somma c'è p∗ u_n/r̂_n sia nella base j sia nella base m_n(t) - j; nella seconda p∗ e 1 - p∗. È la (30) della lezione 09 con t al posto di T - m e m_n(t) al posto di m.
+**Opzione:** C_t = S_t ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) - (K/r̂_n^(m_n(t))) ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j)
+**Distrattori:**
+- C_t = S_t ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗)^(m_n(t)-j) - (K/r̂_n^(m_n(t))) ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j)
+- C_{T-3} = (1/r̂³)[p∗³(S_{T-3}u³ - K)^+ + 3p∗²(1 - p∗)(S_{T-3}u²d - K)^+ + 3p∗(1 - p∗)²(S_{T-3}ud² - K)^+ + (1 - p∗)³(S_{T-3}d³ - K)^+]
+- C^u_{T-1} = r̂^(-1)[p∗(S_{T-2}u² - K)^+ + (1 - p∗)(S_{T-2}ud - K)^+] e C^d_{T-1} = r̂^(-1)[p∗(S_{T-2}ud - K)^+ + (1 - p∗)(S_{T-2}d² - K)^+]
+
+**D:** ⚠️ Come si definisce a_n(t), l'estremo inferiore delle somme della formula (32) (slide 9)?
+**R:** Slide 9: «dove: a_n(t) = inf{j ∈ N^+ | S_{T-m_n(t)}u_n^j d_n^(m_n(t)-j) - K > 0}». Il docente: è «il più piccolo valore per j che appartiene ai numeri naturali positivi» per cui la differenza è positiva (transcript [00:05:41]), «cioè il nostro valore intrinseco» ([00:18:32]). ⚠️ inf, il più piccolo j: con la somma da a_n(t) sparisce la funzione di massimo, come per a nella lezione 09. A [00:05:41] il docente dice «maggiore uguale a 0»: la slide scrive «> 0».
+**Opzione:** a_n(t) = inf{j ∈ N^+ | S_{T-m_n(t)}u_n^j d_n^(m_n(t)-j) - K > 0}
+**Distrattori:**
+- a_n(t) = sup{j ∈ N^+ | S_{T-m_n(t)}u_n^j d_n^(m_n(t)-j) - K > 0}
+- d_1 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t)) e d_2 = [ln(S_t/K) + (r - σ²/2)(T - t)]/(σ√(T - t))
+- lim_{n→∞} (a_n(t) - E_p(γ_n))/√Var(γ_n) = [ln(K/S_t) - (r + σ²/2)(T - t)]/(σ√(T - t))
+
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 10 (formula (33))?
+**R:** Slide 10, «Proposizione — Valgono le seguenti rappresentazioni al limite»: il limite per n → ∞ della (32) è «= S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33)». Il docente: al limite si trova «esattamente la formula di Black-Scholes-Merton che dice che il prezzo di una call europea con strike K, scadenza T grande, tasso di interesse r, volatilità sigma» è S_t per N di d_1 meno Ke^(-r(T-t)) per N di d_2 (transcript [00:06:39]). ⚠️ N(d_1) va con S_t, N(d_2) con lo strike scontato Ke^(-r(T-t)).
+**Opzione:** Che al limite per n → ∞ la formula (32) diventa S_tN(d_1) - Ke^(-r(T-t))N(d_2), la formula di Black-Scholes-Merton.
+**Distrattori:**
+- Che al limite per n → ∞ la formula (32) diventa S_tN(d_2) - Ke^(-r(T-t))N(d_1), la formula di Black-Scholes-Merton.
+- C_t = S_t ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) - (K/r̂_n^(m_n(t))) ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j)
+- Per il Teorema del Limite Centrale γ̃_n tende a una N(0,1) e, per la simmetria della normale, P^a{-d_1 ≤ γ̃_n < ∞} = P^a{γ̃_n < d_1} = N(d_1).
+
+**D:** ⚠️ Come si definiscono d_1 e d_2 nella Proposizione della slide 10 (formule (34) e (35))?
+**R:** Slide 10: d_1 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t)) (34) e d_2 = [ln(S_t/K) + (r - σ²/2)(T - t)]/(σ√(T - t)) (35). Il docente: d_2 «non è altro che la stessa d_1 dove l'unica differenza è che il coefficiente di T grande meno t nel numeratore invece di avere il segno più ha il segno meno» (transcript [00:07:03]). ⚠️ Il segno che cambia è quello di σ²/2: più in d_1, meno in d_2. A [00:21:49] il docente legge d_1 con «r meno sigma quadro mezzi»: vale la slide.
+**Opzione:** d_1 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t)) e d_2 = [ln(S_t/K) + (r - σ²/2)(T - t)]/(σ√(T - t))
+**Distrattori:**
+- d_1 = [ln(S_t/K) + (r - σ²/2)(T - t)]/(σ√(T - t)) e d_2 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t))
+- γ̃_n = (γ_n - E_p(γ_n))/√Var(γ_n) = (γ_n - p∗(u_n/r̂_n)m_n(t))/√(p∗(u_n/r̂_n)(1 - p∗ u_n/r̂_n)m_n(t))
+- Che al limite per n → ∞ la formula (32) diventa S_tN(d_1) - Ke^(-r(T-t))N(d_2), la formula di Black-Scholes-Merton.
+
+**D:** ⚠️ Come definisce N(x) la slide 10?
+**R:** Slide 10: N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, un integrale da -∞ a x. Il docente chiama N «il valore della nostra funzione di densità normale valorizzato a d_1 e d_2» (transcript [00:07:03]) e «la variabile normale standard» ([00:24:35]). ⚠️ Gli estremi d'integrazione sono -∞ e x: la slide 68 usa proprio ∫_{-∞}^{d_1} per arrivare a N(d_1).
+**Opzione:** N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du
+**Distrattori:**
+- N(x) = (1/√(2π)) ∫_{x}^{∞} e^(-u²/2) du
+- P{(a_n(t) - E_p(γ_n))/√Var(γ_n) ≤ γ̃_n ≤ (m_n(t) - E_p(γ_n))/√Var(γ_n)}
+- lim_{n→∞} p∗ = 1/2
+
+**D:** ⚠️ N(d_1) e N(d_2) nella formula di Black-Scholes-Merton: per il docente sono valori di una «funzione di densità normale». Che cosa scrive invece la slide 10, e quale versione conta?
+**R:** La slide 10 definisce N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du: l'integrale da -∞ a x della densità normale, non la densità. Il docente dice che N è «il valore della nostra funzione di densità normale valorizzato a d_1 e d_2» (transcript [00:07:03]) e parla di «densità di probabilità» anche alla fine ([00:31:43]–[00:31:56]); la slide 68 mostra però che N(d_1) è l'integrale da -∞ a d_1, cioè una probabilità, P^a{γ̃_n < d_1}. Vale la slide: le opzioni d'esame citano le slide. Che quell'integrale si chiami funzione di ripartizione, la Φ della lezione 07, è un'integrazione, non un'affermazione del deck.
+
+**D:** ⚠️ Quanto vale il primo limite preliminare della soluzione asintotica, lim_{n→∞} p∗ (formula (36))?
+**R:** Slide 11–13: lim_{n→∞} p∗ = lim_{n→∞} (r̂_n - d_n)/(u_n - d_n) = lim_{Δ_n→0} (e^(rΔ_n) - e^(-σ√Δ_n))/(e^(σ√Δ_n) - e^(-σ√Δ_n)); con √Δ_n = x si ha la forma indeterminata 0/0 (e^(rx²) - e^(-σx))/(e^(σx) - e^(-σx)), e con De l'Hopital (2rxe^(rx²) + σe^(-σx))/(σe^(σx) + σe^(-σx)) = σ/(2σ) = 1/2. Il docente: «Il limite pertanto per n che tende all'infinito di P star è esattamente uguale a un mezzo» (transcript [00:09:02]). ⚠️ 1/2 come il secondo limite (37); vale 1 il terzo, (38).
+**Opzione:** lim_{n→∞} p∗ = 1/2
+**Distrattori:**
+- lim_{n→∞} p∗ = 1
+- lim_{x→0} 2σx/(1 - e^(-2σx)) = 1: serve a espandere il lato sinistro del quarto limite.
+- Il tasso di interesse privo di rischio è uguale al rendimento atteso dell'opzione
+
+**D:** ⚠️ Quanto vale il secondo limite preliminare, lim_{n→∞} p∗ u_n/r̂_n (formula (37)), e come si arriva al risultato?
+**R:** Slide 14–16: sostituite le definizioni, con √Δ_n = x e «alcuni riarrangiamenti» il limite diventa lim_{x→0} (1 - e^(-σx-rx²))/(1 - e^(-2σx)), una forma indeterminata 0/0; con De l'Hopital lim_{x→0} (σ+2rx)e^(-σx-rx²)/(2σe^(-2σx)) = σ/(2σ) = 1/2. Il docente: «Il limite che cerchiamo quindi è pari anch'esso a un mezzo» (transcript [00:10:48]). ⚠️ Al numeratore resta σ, al denominatore 2σ.
+**Opzione:** 1/2: con √Δ_n = x e alcuni riarrangiamenti si arriva alla forma indeterminata 0/0 (1 - e^(-σx-rx²))/(1 - e^(-2σx)), e con De l'Hopital a σ/(2σ) = 1/2.
+**Distrattori:**
+- 1: con √Δ_n = x e alcuni riarrangiamenti si arriva alla forma indeterminata 0/0 (1 - e^(-σx-rx²))/(1 - e^(-2σx)), e con De l'Hopital a 2σ/(2σ) = 1.
+- ln S_t + j ln u_n + (m_n(t) - j) ln d_n = ln K, con ln d_n = - ln u_n; risolvendo per j, 2j ln u_n = ln(K/S_t) + m_n(t) ln u_n.
+- La (41) per a_n(t), la (39) per il numeratore, le (36) e (37) per il denominatore.
+
+**D:** ⚠️ Quanto vale il terzo limite preliminare (formula (38)), e dove si usa?
+**R:** Slide 17–18: lim_{x→0} 2σx/(1 - e^(-2σx)) è una forma indeterminata 0/0; con De l'Hopital lim_{x→0} 2σ/(2σe^(-2σx)) = 1, quindi lim_{x→0} 2σx/(1 - e^(-2σx)) = 1 (38). Il docente: «nuovamente usiamo la regola di De l'Hopital e otteniamo che questo limite è uguale ad 1» (transcript [00:11:17]). ⚠️ Si usa nel quarto limite: «Il lato sinistro del limite originale è ulteriormente espanso. Utilizzando l'espressione (38)» (slide 30).
+**Opzione:** lim_{x→0} 2σx/(1 - e^(-2σx)) = 1: serve a espandere il lato sinistro del quarto limite.
+**Distrattori:**
+- lim_{x→0} 2σx/(1 - e^(-2σx)) = 1/2: serve a espandere il lato sinistro del quarto limite.
+- La (41) per a_n(t), la (39) per il numeratore, le (36) e (37) per il denominatore.
+- lim_{n→∞} p∗ = 1/2
+
+**D:** ⚠️ Quanto vale il quarto limite preliminare, lim m_n(t)√Δ_n (1 - 2p∗ u_n/r̂_n) (formula (39))?
+**R:** Slide 34: lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗ u_n/r̂_n) = -(T - t)(r/σ + σ/2) (39). Ci si arriva sostituendo m_n(t), Δ_n, p∗, r̂_n, d_n, u_n, ponendo √Δ_n = x, usando la (38) e applicando due volte De l'Hopital: -(T - t)(2σ² - σ² + 2r)/(2σ) (slide 19–33). Il docente: «meno T grande meno t, moltiplicato r su sigma più sigma mezzi» (transcript [00:14:52]–[00:15:03]). ⚠️ Meno davanti e più in parentesi; il quinto limite (40), con 1 - 2p∗, dà (T - t)(σ/2 - r/σ).
+**Opzione:** lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗ u_n/r̂_n) = -(T - t)(r/σ + σ/2)
+**Distrattori:**
+- lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗ u_n/r̂_n) = (T - t)(σ/2 - r/σ)
+- lim_{n→∞} (a_n(t) - E_p(γ_n))/√Var(γ_n) = [ln(K/S_t) - (r + σ²/2)(T - t)]/(σ√(T - t))
+- N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du
+
+**D:** ⚠️ Quanto vale il quinto limite preliminare, lim m_n(t)√Δ_n (1 - 2p∗) (formula (40))?
+**R:** Slide 44: lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗) = (T - t)(σ/2 - r/σ) (40). Dopo le sostituzioni e √Δ_n = x, due applicazioni di De l'Hopital danno (T - t)(2σ² - 4r)/(4σ) = (T - t)(σ² - 2r)/(2σ) (slide 35–43). Il docente: «2 sigma quadro meno 4r su 4 sigma che semplificando il 2 diventa sigma mezzi meno r su sigma» (transcript [00:17:46]). ⚠️ Nessun meno davanti, meno in parentesi; il quarto limite (39), con 1 - 2p∗ u_n/r̂_n, dà -(T - t)(r/σ + σ/2).
+**Opzione:** lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗) = (T - t)(σ/2 - r/σ)
+**Distrattori:**
+- lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗) = -(T - t)(r/σ + σ/2)
+- P^a{-d_1 ≤ γ̃_n < ∞}
+- È tale che le probabilità degli eventi sommano ad 1 in un unico periodo
+
+**D:** ⚠️ Con quale sostituzione e con quale regola si calcolano i limiti preliminari della soluzione asintotica?
+**R:** Si sostituiscono r̂_n = e^(rΔ_n), u_n = e^(σ√Δ_n) e d_n = e^(-σ√Δ_n), poi «definendo √Δ_n = x» (slide 12, 15, 25, 38) si passa al limite per x → 0; ogni volta compare «una forma indeterminata 0/0», e «Sfruttando la regola di De l'Hopital» la si risolve (slide 13, 16, 18, 31, 33, 41, 42). Il docente: la regola «ci dice che calcolando la derivata prima del numeratore e del denominatore possiamo proseguire nella nostra ricerca del limite» (transcript [00:08:36]). ⚠️ x è la radice di Δ_n: a [00:09:58] il docente dice «delta n uguale a x», ma le slide scrivono sempre √Δ_n = x.
+**Opzione:** Si definisce √Δ_n = x, si passa al limite per x → 0 e le forme indeterminate 0/0 si risolvono con la regola di De l'Hopital.
+**Distrattori:**
+- Si definisce Δ_n = x, si passa al limite per x → 0 e le forme indeterminate 0/0 si risolvono con la regola di De l'Hopital.
+- Il Teorema del Limite Centrale: per n → ∞ la sequenza di variabili casuali γ̃_n converge in distribuzione alla variabile normale standard.
+- Esistono due scenari, up e down
+
+**D:** ⚠️ Qual è la forma più trattabile di a_n(t) ricavata nella soluzione asintotica (formula (41))?
+**R:** Slide 50: a_n(t) = [ln(K/S_t) + m_n(t)σ√Δ_n]/(2σ√Δ_n) (41). Il docente: risolvendo per j si ottiene «logaritmo di K su S più m_n(t) sigma radice di delta n diviso 2 sigma radice delta n, che è il valore quindi di a_n(t)» (transcript [00:20:47]). ⚠️ Nel logaritmo c'è K/S_t, con K al numeratore, perché ln K - ln S_t sta a destra dell'uguale.
+**Opzione:** a_n(t) = [ln(K/S_t) + m_n(t)σ√Δ_n]/(2σ√Δ_n)
+**Distrattori:**
+- a_n(t) = [ln(S_t/K) + m_n(t)σ√Δ_n]/(2σ√Δ_n)
+- P_n{ξ_{n,j} = u_n} = p = 1 - P_n{ξ_{n,j} = d_n} ∀j = 1, ....., n
+- P{a_n(t) ≤ γ_n ≤ m_n(t)}, dove γ_n ~ bin(p∗ u_n/r̂_n, m_n(t))
+
+**D:** ⚠️ Da quale equazione si ricava la forma trattabile di a_n(t) (slide 48–50)?
+**R:** Slide 48: «Pertanto dato il valore di j e considerando il logaritmo dell'espressione dentro inf si ottiene: ln S_t + j ln u_n + (m_n(t) - j) ln d_n = ln K quindi ln d_n = - ln u_n». Slide 50: «risolvendo per j si ottiene: 2j ln u_n = ln(K/S_t) + m_n(t) ln u_n», poi 2jσ√Δ_n = ln(K/S_t) + m_n(t)σ√Δ_n. Il docente: «considerando che logaritmo di d_n è uguale a meno logaritmo di u_n» (transcript [00:19:27]); sostituita u_n, «semplificando l'esponenziale con il logaritmo» ([00:20:18]). ⚠️ Da d_n = u_n^(-1) segue ln d_n = - ln u_n, non 1/ln u_n.
+**Opzione:** ln S_t + j ln u_n + (m_n(t) - j) ln d_n = ln K, con ln d_n = - ln u_n; risolvendo per j, 2j ln u_n = ln(K/S_t) + m_n(t) ln u_n.
+**Distrattori:**
+- ln S_t + j ln u_n + (m_n(t) - j) ln d_n = ln K, con ln d_n = 1/ln u_n; risolvendo per j, 2j ln u_n = ln(K/S_t) + m_n(t) ln u_n.
+- 1 + r_n = e^(rΔ_n), u_n = e^(σ√Δ_n), d_n = u_n^(-1)
+- P{(a_n(t) - E_p(γ_n))/√Var(γ_n) ≤ γ̃_n ≤ (m_n(t) - E_p(γ_n))/√Var(γ_n)}
+
+**D:** ⚠️ Quali grandezze della formula (33) sono invarianti nel calcolo del limite (slide 51)?
+**R:** Slide 51: «è evidente che S_t e K sono invarianti nel calcolo del limite. Quindi il problema si riduce al seguente», cioè ai tre limiti della slide 52. Il docente lo ripete: S, t e K «sono invarianti rispetto al calcolo del limite» (transcript [00:22:11]). ⚠️ m_n(t), a_n(t), p∗, u_n e r̂_n dipendono da n, quindi restano dentro i limiti.
+**Opzione:** S_t e K
+**Distrattori:**
+- S_t e r̂_n
+- Si definisce √Δ_n = x, si passa al limite per x → 0 e le forme indeterminate 0/0 si risolvono con la regola di De l'Hopital.
+- lim_{n→∞} m_n(t)√Δ_n (1 - 2p∗) = (T - t)(σ/2 - r/σ)
+
+**D:** ⚠️ A quali tre limiti si riduce la dimostrazione della Proposizione della slide 10 (slide 52)?
+**R:** Slide 52: «1. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) ≟ N(d_1); 2. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j) ≟ N(d_2); 3. lim_{n→∞} 1/r̂_n^(m_n(t)) ≟ e^(-r(T-t))», con un «?» sopra l'uguale. Il docente: il terzo chiede se il fattore discreto «è uguale al nostro fattore di sconto e alla meno r T grande meno t nel continuo?», e «Quando noi abbiamo risolto questi tre limiti, di fatto la nostra formula 33 è dimostrata» (transcript [00:22:30]–[00:23:20]). ⚠️ La somma con p∗ u_n/r̂_n va a N(d_1), quella con p∗ a N(d_2). La lezione 11 dimostra solo il primo.
+**Opzione:** 1. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) ≟ N(d_1); 2. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j) ≟ N(d_2); 3. lim_{n→∞} 1/r̂_n^(m_n(t)) ≟ e^(-r(T-t))
+**Distrattori:**
+- 1. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) ≟ N(d_2); 2. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j) ≟ N(d_1); 3. lim_{n→∞} 1/r̂_n^(m_n(t)) ≟ e^(-r(T-t))
+- Che al limite per n → ∞ la formula (32) diventa S_tN(d_1) - Ke^(-r(T-t))N(d_2), la formula di Black-Scholes-Merton.
+- Per il Teorema del Limite Centrale γ̃_n tende a una N(0,1) e, per la simmetria della normale, P^a{-d_1 ≤ γ̃_n < ∞} = P^a{γ̃_n < d_1} = N(d_1).
+
+**D:** ⚠️ Quale probabilità si identifica nella somma del limite 1, e come è distribuita γ_n (slide 53)?
+**R:** Slide 53: «Nell'espressione seguente: ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) si può identificare la probabilità P{a_n(t) ≤ γ_n ≤ m_n(t)}, dove γ_n è una variabile casuale distribuita come: γ_n ~ bin(p∗ u_n/r̂_n, m_n(t))». Il docente: «una variabile casuale distribuita come una binomiale con parametri p star u_n su r cappello di n, m_n(t)» (transcript [00:23:33]). ⚠️ Il parametro è p∗ u_n/r̂_n, la base della prima somma; p∗ è quella della seconda.
+**Opzione:** P{a_n(t) ≤ γ_n ≤ m_n(t)}, dove γ_n ~ bin(p∗ u_n/r̂_n, m_n(t))
+**Distrattori:**
+- P{a_n(t) ≤ γ_n ≤ m_n(t)}, dove γ_n ~ bin(p∗, m_n(t))
+- Una variabile casuale che può assumere valori {u_n, d_n}; le ξ_{n,j} sono variabili casuali i.i.d. sullo spazio di probabilità (Ω_n, ℑ_n, P_n).
+- γ̃_n = (γ_n - E_p(γ_n))/√Var(γ_n) = (γ_n - p∗(u_n/r̂_n)m_n(t))/√(p∗(u_n/r̂_n)(1 - p∗ u_n/r̂_n)m_n(t))
+
+**D:** ⚠️ Come si standardizza la variabile casuale γ_n nella dimostrazione del limite 1 (slide 54)?
+**R:** Slide 54: «Standardizzando la variabile casuale γ_n: γ̃_n = (γ_n - E_p(γ_n))/√Var(γ_n) = (γ_n - p∗(u_n/r̂_n)m_n(t))/√(p∗(u_n/r̂_n)(1 - p∗ u_n/r̂_n)m_n(t))». Il docente: «sottraiamo la media e dividiamo per la deviazione standard, ovvero la radice quadrata della varianza» (transcript [00:23:57]). ⚠️ Si divide per √Var, come nella forma standardizzata della lezione 02. A [00:24:45]–[00:25:36] il docente dice «diviso la varianza»: vale la slide.
+**Opzione:** γ̃_n = (γ_n - E_p(γ_n))/√Var(γ_n) = (γ_n - p∗(u_n/r̂_n)m_n(t))/√(p∗(u_n/r̂_n)(1 - p∗ u_n/r̂_n)m_n(t))
+**Distrattori:**
+- γ̃_n = (γ_n - E_p(γ_n))/Var(γ_n) = (γ_n - p∗(u_n/r̂_n)m_n(t))/(p∗(u_n/r̂_n)(1 - p∗ u_n/r̂_n)m_n(t))
+- B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n; S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn}, ∀j = 0, ..., n - 1
+- d_1 = [ln(S_t/K) + (r + σ²/2)(T - t)]/(σ√(T - t)) e d_2 = [ln(S_t/K) + (r - σ²/2)(T - t)]/(σ√(T - t))
+
+**D:** ⚠️ Quale teorema permette di passare dalla binomiale γ_n alla normale standard, e che cosa afferma nella dimostrazione (slide 54)?
+**R:** Slide 54: «per n → ∞ la sequenza di variabili casuali γ̃_n converge in distribuzione alla variabile normale standard (Teorema del Limite Centrale)». Slide 68: «Di nuovo, per il Teorema del Limite Centrale γ̃_n ∼^a N(0,1)». Il docente: «per il teorema del limite centrale, per n che tende all'infinito, la sequenza di variabili casuali» «converge in distribuzione proprio a una variabile normale standardizzata. E questo ci porta quindi già a intuire quella N che abbiamo visto nella formula» (transcript [00:24:24]–[00:24:35]). ⚠️ La regola di De l'Hopital serve invece per i limiti preliminari.
+**Opzione:** Il Teorema del Limite Centrale: per n → ∞ la sequenza di variabili casuali γ̃_n converge in distribuzione alla variabile normale standard.
+**Distrattori:**
+- La regola di De l'Hopital: per n → ∞ la sequenza di variabili casuali γ̃_n converge in distribuzione alla variabile normale standard.
+- In n sotto-intervalli I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1, dove Δ_n = (T-0)/n e n = 2^k.
+- Il tasso di interesse lungo l'orizzonte temporale I_j, ∀n; 1 + r_n si scrive r̂_n, il fattore di capitalizzazione.
+
+**D:** ⚠️ Come si riscrive P{a_n(t) ≤ γ_n ≤ m_n(t)} con la variabile standardizzata (formula (42))?
+**R:** Slide 55: P{a_n(t) ≤ γ_n ≤ m_n(t)} = P{(a_n(t) - E_p(γ_n))/√Var(γ_n) ≤ γ̃_n ≤ (m_n(t) - E_p(γ_n))/√Var(γ_n)} (42). Slide 56: «Al fine di poter determinare la probabilità asintotica P^a come espressa nella (42), è necessario studiare il limite agli estremi dell'intervallo per n → ∞». Il docente: l'estremo con m_n(t) è «l'altro limite, cioè quello superiore» (transcript [00:25:04]). ⚠️ a_n(t) resta nell'estremo inferiore e m_n(t) nel superiore, come nella somma da j = a_n(t) a m_n(t).
+**Opzione:** P{(a_n(t) - E_p(γ_n))/√Var(γ_n) ≤ γ̃_n ≤ (m_n(t) - E_p(γ_n))/√Var(γ_n)}
+**Distrattori:**
+- P{(m_n(t) - E_p(γ_n))/√Var(γ_n) ≤ γ̃_n ≤ (a_n(t) - E_p(γ_n))/√Var(γ_n)}
+- ln S_t + j ln u_n + (m_n(t) - j) ln d_n = ln K, con ln d_n = - ln u_n; risolvendo per j, 2j ln u_n = ln(K/S_t) + m_n(t) ln u_n.
+- 1 + r_n = e^(rΔ_n), u_n = e^(σ√Δ_n), d_n = u_n^(-1)
+
+**D:** ⚠️ A che cosa tende l'estremo superiore dell'intervallo della (42) per n → ∞ (formula (43))?
+**R:** Slide 57–60: lim_{n→∞} (m_n(t) - E_p(γ_n))/√Var(γ_n) = lim √((1 - p∗ u_n/r̂_n)((T-t)n/T)(p∗ u_n/r̂_n)^(-1)) = ∞, «ciè equivale a» lim_{n→∞} (m_n(t) - E_p(γ_n))/√Var(γ_n) = ∞ (43). Il docente: «Ed è chiaro che questo limite per n che tende all'infinito non è altro che uguale ad infinito» (transcript [00:27:14]). ⚠️ +∞: dentro la radice m_n(t) = (T-t)n/T cresce con n.
+**Opzione:** lim_{n→∞} (m_n(t) - E_p(γ_n))/√Var(γ_n) = ∞
+**Distrattori:**
+- lim_{n→∞} (m_n(t) - E_p(γ_n))/√Var(γ_n) = -∞
+- a_n(t) = inf{j ∈ N^+ | S_{T-m_n(t)}u_n^j d_n^(m_n(t)-j) - K > 0}
+- lim_{x→0} 2σx/(1 - e^(-2σx)) = 1: serve a espandere il lato sinistro del quarto limite.
+
+**D:** ⚠️ A che cosa tende l'estremo inferiore dell'intervallo della (42) per n → ∞ (formula (44))?
+**R:** Slide 65: lim_{n→∞} (a_n(t) - E_p(γ_n))/√Var(γ_n) = [ln(K/S_t) - (r + σ²/2)(T - t)]/(σ√(T - t)) (44). Il docente: il limite «non è altro che il logaritmo di K su S meno r più sigma quadro mezzi T grande meno t diviso sigma radice quadrata di T meno t» (transcript [00:30:02]). ⚠️ È -d_1: con ln(K/S_t) = - ln(S_t/K), il numeratore è l'opposto di quello della (34), con r + σ²/2. Per la slide 67 la probabilità diventa P^a{-d_1 ≤ γ̃_n < ∞}.
+**Opzione:** lim_{n→∞} (a_n(t) - E_p(γ_n))/√Var(γ_n) = [ln(K/S_t) - (r + σ²/2)(T - t)]/(σ√(T - t))
+**Distrattori:**
+- lim_{n→∞} (a_n(t) - E_p(γ_n))/√Var(γ_n) = [ln(K/S_t) - (r - σ²/2)(T - t)]/(σ√(T - t))
+- È tale che le probabilità degli eventi sommano ad 1 in un unico periodo
+- In n sotto-intervalli I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1, dove Δ_n = (T-0)/n e n = 2^k.
+
+**D:** ⚠️ Quali espressioni già calcolate si usano nel limite dell'estremo inferiore della (42) (slide 61–65)?
+**R:** Slide 61: «utilizzando l'espressione (41) il limite può essere riespresso come»; slide 64: «Il numeratore è esattamente il risultato dell'espressione (39)»; slide 65: «Utilizzando le espressioni (36) e (37), si ottiene». Il docente: «il numeratore è esattamente il risultato dell'espressione 39 che abbiamo calcolato, vi ricordate, nei limiti preliminari» e «Utilizziamo quindi le sezioni che abbiamo già calcolato, 36 e 37» (transcript [00:29:04], [00:29:56]). ⚠️ Al numeratore serve la (39), con 1 - 2p∗ u_n/r̂_n, non la (40).
+**Opzione:** La (41) per a_n(t), la (39) per il numeratore, le (36) e (37) per il denominatore.
+**Distrattori:**
+- La (41) per a_n(t), la (40) per il numeratore, le (36) e (37) per il denominatore.
+- 1/2: con √Δ_n = x e alcuni riarrangiamenti si arriva alla forma indeterminata 0/0 (1 - e^(-σx-rx²))/(1 - e^(-2σx)), e con De l'Hopital a σ/(2σ) = 1/2.
+- 1. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j)(p∗ u_n/r̂_n)^j (1 - p∗ u_n/r̂_n)^(m_n(t)-j) ≟ N(d_1); 2. lim_{n→∞} ∑_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j) ≟ N(d_2); 3. lim_{n→∞} 1/r̂_n^(m_n(t)) ≟ e^(-r(T-t))
+
+**D:** ⚠️ Come si scrive la probabilità asintotica dopo aver sostituito la (43) e la (44) e usato la definizione di d_1 (slide 66–67)?
+**R:** Slide 66: P^a{[ln(K/S_t) - (r + σ²/2)(T - t)]/(σ√(T - t)) ≤ γ̃_n < ∞}; slide 67: «Utilizzando la definizione di d_1 data dall'espressione (34) la formula precedente può essere riscritta come segue: P^a{-d_1 ≤ γ̃_n < ∞}». Il docente: il calcolo della probabilità asintotica «può essere scritto come il calcolo riferito alla binomiale standardizzata γ̃_n tra meno d_1 e infinito» (transcript [00:31:18]). ⚠️ L'estremo inferiore è -d_1, con il meno; il superiore ∞, dalla (43).
+**Opzione:** P^a{-d_1 ≤ γ̃_n < ∞}
+**Distrattori:**
+- P^a{d_1 ≤ γ̃_n < ∞}
+- S_t e K
+- r ≥ 0 e σ > 0
+
+**D:** ⚠️ Come si conclude la dimostrazione del limite 1 (slide 68)?
+**R:** Slide 68: «Di nuovo, per il Teorema del Limite Centrale γ̃_n ∼^a N(0,1), quindi: P^a{-d_1 ≤ γ̃_n < ∞} = (1/√(2π)) ∫_{-d_1}^{∞} e^(-γ̃²/2) dγ̃; per la proprietà di simmetria della distribuzione di probabilità normale: P^a{-d_1 ≤ γ̃_n < ∞} = P^a{γ̃_n < d_1} = (1/√(2π)) ∫_{-∞}^{d_1} e^(-γ̃²/2) dγ̃ = N(d_1)», e quindi il limite della prima somma è N(d_1), «Q.E.D.». Il docente: la normale «è simmetrica e pertanto questa probabilità può essere calcolata anche» non fra -d_1 e infinito «ma tra meno infinito e d_1», «come volevasi dimostrare» (transcript [00:31:56]–[00:32:40]). ⚠️ La simmetria porta a γ̃_n < d_1, non a γ̃_n > d_1.
+**Opzione:** Per il Teorema del Limite Centrale γ̃_n tende a una N(0,1) e, per la simmetria della normale, P^a{-d_1 ≤ γ̃_n < ∞} = P^a{γ̃_n < d_1} = N(d_1).
+**Distrattori:**
+- Per il Teorema del Limite Centrale γ̃_n tende a una N(0,1) e, per la simmetria della normale, P^a{-d_1 ≤ γ̃_n < ∞} = P^a{γ̃_n > d_1} = N(d_1).
+- 1/2: con √Δ_n = x e alcuni riarrangiamenti si arriva alla forma indeterminata 0/0 (1 - e^(-σx-rx²))/(1 - e^(-2σx)), e con De l'Hopital a σ/(2σ) = 1/2.
+- Il modello di Black-Scholes-Merton, derivato prima come limite asintotico del modello di Cox-Ross-Rubinstein: l'intervallo discreto diventa infinitesimo e il tempo discreto diventa continuo.
+
+**D:** ⚠️ Come è definito l'ennesimo sottointervallo nel modello CRR in versione asintotica, secondo il test della lezione 11 (domanda 1)?
+**R:** «**Ij=[jΔn , (j+1)Δn]**». È la partizione delle slide 4 e 5, I_j = [jΔ_n , (j+1)Δ_n] per j = 0, ....., n - 1, con Δ_n = (T-0)/n e n = 2^k; la piattaforma scrive piatti i pedici, Ij e Δn. Il docente: «Gli n sotto intervalli I_j vanno da j delta n a j più 1 delta n per j che va da 0 a n meno 1» (transcript [00:01:13]). ⚠️ «Ennesimo» va letto «j-esimo»: l'indice è j, n è il numero dei sotto-intervalli. Ogni sotto-intervallo è lungo Δ_n, quindi l'estremo destro è jΔ_n + Δ_n = (j+1)Δ_n (deduzione dalle formule). Distrattori del test: «Ij=[jΔn , (j+n)Δn]» e «Ij=[jΔn , (j+2)Δn]» cambiano solo l'estremo destro; «I_j=[njΔ_n , (j+n)Δ_n]», l'unica con i pedici veri, sbaglia entrambi gli estremi, e con j = 0 darebbe [0, nΔ_n] = [0, T], tutto l'orizzonte. ⚠️ La stessa «(j+n)» sta nella chiave della domanda 2.
+**Opzione:** Ij=[jΔn , (j+1)Δn]
+**Distrattori:**
+- I_j=[njΔ_n , (j+n)Δ_n]
+- Ij=[jΔn , (j+n)Δn]
+- Ij=[jΔn , (j+2)Δn]
+
+**D:** ⚠️ Come è definito il processo stocastico di S nel modello CRR in versione asintotica, secondo il test della lezione 11 (domanda 2)?
+**R:** «**S_{(j+n)Δn}=ξ_{n,j+1}S_jΔ_n**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. La slide 5 scrive S_{(j+1)Δn} = ξ_{n,j+1}S_{jΔn}, ∀j = 0, ..., n - 1, e il docente: «Il nostro sottostante al tempo j più 1 delta n non è altro che la nostra xi n j più 1 per il valore del sottostante al tempo j delta n» (transcript [00:02:26]). La «(j+n)» è un refuso della piattaforma: sta in A, C e D, quindi non discrimina, ma nella domanda 1 la stessa «(j+n)» è un distrattore. Nella chiave anche la coda è resa male, S_jΔ_n con il solo j in pedice, per S_{jΔn}. Distrattori del test: «S_{(j+n)Δn}=ξ_{n,j+1}S_j» perde Δn, e le slide non scrivono mai S_j: l'indice di S è il tempo, S_{jΔn}, S_t, S_{T-m_n(t)}; «S_{(j+n)Δn}=ξ_{n,j+1}» perde del tutto il prezzo precedente; «S_j=[njΔ_n , (j+n)Δ_n]» dà a S l'intervallo della A della domanda 1.
+**Opzione:** S_{(j+n)Δn}=ξ_{n,j+1}S_jΔ_n
+**Distrattori:**
+- S_j=[njΔ_n , (j+n)Δ_n]
+- S_{(j+n)Δn}=ξ_{n,j+1}S_j
+- S_{(j+n)Δn}=ξ_{n,j+1}
+
+**D:** ⚠️ Come è definito il processo stocastico di B nel modello CRR in versione asintotica, secondo il test della lezione 11 (domanda 3)?
+**R:** «**B_{jΔn}=(1+r_n)^j**». È la i della slide 5, B_{jΔn} = (1 + r_n)^j = r̂_n^j, ∀j = 0, ..., n, dove «r_n è il tasso di interesse lungo l'orizzonte temporale I_j, ∀n»; per la slide 7, 1 + r_n = e^(rΔ_n). Il docente: B «si sviluppa sul sotto intervallo temporale j delta n», è «1 più il tasso di interesse» elevato alla j, e 1 + r_n si scrive «r cappello di n», il fattore di capitalizzazione (transcript [00:01:36]–[00:01:56]). Distrattori del test: «B_{jΔn}=(1+r_n)^(j+2)» cambia l'esponente, e al tempo 0 B varrebbe (1+r_n)² invece di 1; «B_{(j+n)Δn}=ξ_{n,j+1}B_j» copia su B la formula di S, ma B è privo di rischio e non dipende da ξ; «S_{(j+n)Δn}=Bξ_{n,j+1}» comincia con S, cioè parla di un altro oggetto, e si scarta a prescindere.
+**Opzione:** B_{jΔn}=(1+r_n)^j
+**Distrattori:**
+- B_{jΔn}=(1+r_n)^(j+2)
+- B_{(j+n)Δn}=ξ_{n,j+1}B_j
+- S_{(j+n)Δn}=Bξ_{n,j+1}
+
+**D:** ⚠️ Come è definito il comportamento di u_n nel modello CRR in versione asintotica, secondo il test della lezione 11 (domanda 4)?
+**R:** «**u_n=exp(σΔ_n^(1/2))**», cioè u_n = e^(σ√Δ_n), la seconda voce della slide 7: «Inoltre, sia il comportamento asintotico di r_n, u_n, d_n definito come segue, con r ≥ 0 e σ > 0». La chiave non è alla lettera, ma è la stessa formula. Il docente: «u_n è uguale all'esponenziale di sigma radice delta n» (transcript [00:04:00]). Distrattori del test: «u_n=exp(σΔ_n)» toglie la radice quadrata, la stessa trappola della domanda 4 del test della lezione 10, exp(σ . dt) al posto di exp(σ . dt^(1/2)); nelle slide la radice sta in u_n, non nel tasso, 1 + r_n = e^(rΔ_n). «u_{jΔn}=(1+r_n)^j» applica a u la formula di B, la chiave della domanda 3; «u_{(j+n)Δn}=Bξ_{n,j+1}» applica a u la D della domanda 3. Il pool è condiviso: un'opzione che definisce un oggetto con la formula di un altro si scarta.
+**Opzione:** u_n=exp(σΔ_n^(1/2))
+**Distrattori:**
+- u_{jΔn}=(1+r_n)^j
+- u_n=exp(σΔ_n)
+- u_{(j+n)Δn}=Bξ_{n,j+1}
+
+**D:** ⚠️ Come è definito il comportamento di d_n nel modello CRR in versione asintotica, secondo il test della lezione 11 (domanda 5)?
+**R:** «**d_n=u_n^(-1)**», alla lettera la terza voce della slide 7. Il docente: «d_n non è altro che 1 su u_n» (transcript [00:04:00]): è la d=1/u della lezione 10, con l'indice n. Nella dimostrazione le slide 11, 14, 24 e 37 sostituiscono d_n con e^(-σ√Δ_n), e la slide 48 scrive ln d_n = - ln u_n. Distrattori del test: «d_n=exp(σΔ_n)» perde sia la radice sia il segno meno, e con σ > 0 darebbe d_n > 1, mentre d_n = u_n^(-1) è minore di 1; «d_{jΔn}=(1+r_n)^j» è la formula di B; «d_{(j+n)Δn}=-Bξ_{n,j+1}» è la D della domanda 4 con un meno davanti.
+**Opzione:** d_n=u_n^(-1)
+**Distrattori:**
+- d_{jΔn}=(1+r_n)^j
+- d_n=exp(σΔ_n)
+- d_{(j+n)Δn}=-Bξ_{n,j+1}
