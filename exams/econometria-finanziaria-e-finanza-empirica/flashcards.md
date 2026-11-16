@@ -4669,3 +4669,318 @@
 - lnST~N[lnSt+(r-s2/2)(T-t), s(T-t)1/2)]
 - St~LogN[Ssexp(mdt); Ss2exp(mdt)exp(s2dt-1)]
 - St~LogN[Ssexp(mdt); Ss2exp(mdt)]
+
+## Lezione 16 — Pricing 9 - Modello Black-Scholes-Merton Teorema di Feynman-Cac
+
+**D:** ⚠️ Quale integrale calcola la lezione 16 come «secondo integrale dell'espressione (83)», e quale densità vi si sostituisce (slide 3)?
+**R:** Slide 3: «Si calcola il secondo integrale dell'espressione (83): ∫_K^{+∞} f_Y(y)dy = ∫_K^{+∞} 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) dy». La (83) è nel deck della lezione 15 (slide 16): E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy, con y = S_T. Il docente: «Calcoliamo quindi il secondo integrale dell'espressione 83, cioè l'integrale tra k e più infinito di f di y in y in dy», poi «Sostituiamo banalmente la nostra funzione di densità di probabilità di y» (transcript [00:00:14]–[00:00:27]). ⚠️ Nel secondo integrale non c'è la y davanti a f_Y(y): quella sta nel primo, la (84).
+**Opzione:** ∫_K^{+∞} f_Y(y)dy, con f_Y(y) = 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t)))
+**Distrattori:**
+- ∫_K^{+∞} y f_Y(y)dy, con f_Y(y) = 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t)))
+- ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
+- ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
+
+**D:** ⚠️ Con quale primo cambio di variabile si calcola il secondo integrale nella lezione 16, e che cosa se ne ottiene (slide 4)?
+**R:** Slide 4: «scegliendo y = e^x ne discende dy = ydx cioè dy = e^x dx, e quindi, si ottiene: = ∫_K^{+∞} 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) dx». Il docente: «ripeteremo i passaggi che abbiamo già effettuato per il primo integrale e sceglieremo quindi il cambio di variabile y uguale e alla x, che vuol dire dy uguale y dx, cioè dy uguale e alla x in dx» (transcript [00:00:53]). ⚠️ Con dy = ydx la y al denominatore della densità si semplifica, e ln y diventa x. La slide lascia l'estremo inferiore K anche dopo il cambio di variabile: ln K compare nella slide 5.
+**Opzione:** y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+**Distrattori:**
+- y = ln x, quindi dy = dx/x: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
+- ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+
+**D:** ⚠️ Con quale secondo cambio di variabile prosegue il calcolo del secondo integrale, e quale estremo inferiore se ne ottiene (slide 5)?
+**R:** Slide 5: «scegliendo ancora [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)) = u, si ottiene: = ∫ 1/(σ√(2π(T-t))) e^(-u²/2) (σ√(T-t)) du», da (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t)) a +∞. Il docente: un cambio di variabile «più invasivo dal punto di vista strutturale», che «ci consente di semplificare l'argomento dell'integrale» e di riscrivere «l'intervallo di integrazione in particolare l'estremo inferiore» (transcript [00:01:37]–[00:02:30]). ⚠️ Nel drift c'è r - σ²/2, quello della densità di y; il fattore (σ√(T-t)) accanto a e^(-u²/2) viene da dx = σ√(T-t)du.
+**Opzione:** u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
+**Distrattori:**
+- u = [x - ln S_t - (r + σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r + σ²/2)(T-t))/(σ√(T-t))
+- DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
+- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+
+**D:** ⚠️ Che integrale resta, nella lezione 16, dopo aver semplificato σ√(T-t), e come se ne riscrive l'estremo inferiore (slide 6–7)?
+**R:** Slide 6: «semplificando σ√(T-t)» resta l'integrale di (1/√(2π)) e^(-u²/2) du, «o alternativamente» con l'estremo inferiore -(ln S_t - ln K + (r - σ²/2)(T-t))/(σ√(T-t)); slide 7: «semplificando l'estremo inferiore di integrazione utilizzando una proprietà elementare dei logaritmi», l'integrale di (1/√(2π)) e^(-½u²) du va da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞. Il docente: «il nostro integrale diventa già l'integrale di una normale standardizzata», e l'estremo inferiore si riesprime «invertendo il logaritmo di S con il logaritmo di K e mettendo il meno davanti» (transcript [00:02:45]–[00:03:18]). ⚠️ Il meno sta davanti a tutta la frazione.
+**Opzione:** L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+**Distrattori:**
+- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+- ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
+- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
+
+**D:** ⚠️ Quale grandezza riconosce la lezione 16 nell'estremo inferiore del secondo integrale, e come si arriva a N(d_2) (slide 8–9)?
+**R:** Slide 8: «definendo l'estremo inferiore di integrazione come d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) si ottiene: = ∫_{-d_2}^{+∞} (1/√(2π)) e^(-½u²) du»; slide 9: «= ∫_{-∞}^{d_2} (1/√(2π)) e^(-½u²) du ovvero: = N(d_2)». Il docente: «In questa quantità riconosciamo la quantità di 2» ([00:03:35]); poi, «utilizzando le proprietà di simmetria della distribuzione normale», l'integrale si riscrive «non tra meno di 2 e infinito, ma tra meno infinito e di 2», cioè N(d_2) ([00:04:03]). ⚠️ L'estremo è -d_2, ma per simmetria il risultato è N(d_2), non N(-d_2). La simmetria la nomina solo il docente: la slide 9 ripete la didascalia «definendo l'estremo inferiore di integrazione come».
+**Opzione:** -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
+**Distrattori:**
+- -d_1, con d_1 = (ln(S_t/K) + (r + σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_1 a +∞ diventa quello da -∞ a d_1, cioè N(d_1)
+- DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+- ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+
+**D:** ⚠️ Come si scrive il risultato del secondo integrale nella lezione 16 (formula (85))?
+**R:** Slide 10: «quindi, il secondo integrale può essere riscritto nella forma: ∫_K^{+∞} f_Y(y)dy = N(d_2) (85)». Il docente: «Il secondo integrale può essere quindi, cioè l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). ⚠️ È N(d_2), con l'integrando senza y; il primo integrale, con la y, vale S_t e^(r(T-t)) N(d_1) (84, deck della lezione 15, slide 34). È la chiave della domanda 1 del test.
+**Opzione:** ∫_K^{+∞} f_Y(y)dy = N(d_2)
+**Distrattori:**
+- ∫_K^{+∞} f_Y(y)dy = N(-d_2)
+- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
+- ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+
+**D:** ⚠️ Che cosa si ottiene, nella lezione 16, sostituendo la (84) e la (85) nella (83) (formula (86))?
+**R:** Slide 11: «sostituendo le espressioni (84) e (85) all'interno dell'equazione (83), infine si ottiene: E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2) (86)». Il docente: il valore atteso, con S_T sostituito «per il random walk esponenziale, è uguale ad st piccolo per l'esponenziale di rt grande menti n di 1 meno k n di 2» (transcript [00:04:37]). ⚠️ Nella (86) K non è ancora scontato e S_t ha il fattore e^(r(T-t)): è un valore atteso, non ancora il prezzo. Lo sconto arriva con la (82).
+**Opzione:** E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
+**Distrattori:**
+- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+- ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+- Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
+
+**D:** ⚠️ Come si chiude, nella lezione 16, la derivazione del prezzo della call con il metodo dell'equazione alle derivate parziali?
+**R:** Slide 12: «sostituendo all'interno dell'espressione (82) il calcolo esplicito del valore atteso riportato nell'espressione (86): C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)», con d_1 = (ln s + (r + σ²/2)(T-t) - ln K)/(σ√(T-t)) e d_2 = (ln s + (r - σ²/2)(T-t) - ln K)/(σ√(T-t)), «Q.E.D.». Il docente: «Effettuiamo le moltiplicazioni e le semplificazioni e otteniamo quindi la nostra tesi» ([00:05:36]); «anche col metodo delle equazioni differenziali» si è ottenuto «il prezzo di un'opzione call europea con il modello di Black, Scholes e Merton» ([00:06:10]). ⚠️ Lo sconto e^(-r(T-t)) elide e^(r(T-t)) su S_t e resta su K: è la (33) della lezione 11. La slide scrive «ln s» minuscolo per ln S_t.
+**Opzione:** C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+**Distrattori:**
+- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - KN(d_2)
+- d_2 = d_1 - σ√(T-t)
+- Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
+
+**D:** ⚠️ Quale «strumentario» di pricing della call europea riepiloga il docente della lezione 16, dopo la derivazione con l'equazione alle derivate parziali?
+**R:** Il docente: «abbiamo un pricing ottenuto con il modello CRR un modello discreto, Cox-Ross-Rubenstein, binomiale, abbiamo ottenuto un modello continuo portando al limite, quindi come soluzione asintotica, il modello CRR, abbiamo calcolato il prezzo Black-Scholes con la replicazione di portafoglio e con la martingala, il metodo martingala, e l'abbiamo anche calcolato col metodo delle equazioni differenziali parziali» (transcript [00:06:22]–[00:07:15]). Il riepilogo è solo nel transcript. ⚠️ Il CRR è il modello discreto; il modello continuo è la soluzione asintotica, il suo limite (lezioni 11–12).
+**Opzione:** Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
+**Distrattori:**
+- Il CRR, modello continuo e binomiale; il modello discreto ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
+- ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
+- S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+
+**D:** ⚠️ Che cosa sono le greche per il docente della lezione 16, e a che cosa servono?
+**R:** Slide 13: «Greche e gestione del rischio». Il docente: si studia «come fa un operatore che ha assunto dei rischi vendendo un'opzione call o comprando un'opzione call a poter tutelare il valore del proprio portafoglio da oscillazioni del valore del sottostante» ([00:07:40]); le greche «sono degli strumenti di sensitività, cioè come varia per esempio il prezzo della col al variare del prezzo del sottostante, come varia il prezzo della col al variare della volatilità» ([00:08:05]); «intuitivamente parliamo, se ci pensate, di derivate prime, cioè di variazioni del prezzo della colla al variare di una variabile identificata» ([00:09:27]). Danno una «qualificazione attraverso uno strumento numerico» alla tabella intuitiva delle sensitività della lezione 05 ([00:08:49]). ⚠️ Varia il prezzo della call, al variare della variabile: non il contrario.
+**Opzione:** Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
+**Distrattori:**
+- Strumenti di sensitività: derivate prime, cioè variazioni di una variabile identificata al variare del prezzo della call, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
+- S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
+- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+
+**D:** ⚠️ Quale relazione fra d_1 e d_2 enuncia la proposizione (87) della lezione 16?
+**R:** Slide 14, «Proposizione»: «Vale la seguente relazione tra d_1 e d_2: d_2 = d_1 - σ√(T-t) (87)». Il docente: è la prima delle «quantità utili preliminari» per le greche, «D2 è uguale a D1 meno sigma radice di T» (transcript [00:09:59]–[00:10:25]; nel transcript manca il «-t» di T - t). ⚠️ Il segno è meno e c'è σ: d_2 è d_1 diminuito di σ√(T-t). È la chiave della domanda 2 del test.
+**Opzione:** d_2 = d_1 - σ√(T-t)
+**Distrattori:**
+- d_2 = d_1 + σ√(T-t)
+- S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
+- ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
+
+**D:** ⚠️ Come si dimostra la (87), d_2 = d_1 - σ√(T-t), nella lezione 16 (slide 14)?
+**R:** Slide 14: «Calcolando direttamente: d_2 ≟ d_1 - σ√(T-t) Utilizzando l'espressione (34): d_2 ≟ [ln(S_t/K) + (r + ½σ²)(T-t)]/(σ√(T-t)) - σ√(T-t) semplificando: d_2 ≟ [ln(S_t/K) + (r + ½σ²)(T-t) - σ²(T-t)]/(σ√(T-t)) d_2 ≟ [ln(S_t/K) + (r - ½σ²)(T-t)]/(σ√(T-t)) Q.E.D.». Il docente: «Andiamo a effettuare il denominatore comune, che quindi porta meno sigma quadro mezzi di grande menti nel numeratore», e si ottiene d_2, «che ricordiamo rispetto a d1 si distingue per il segno meno all'interno del drift» (transcript [00:10:39]–[00:11:14]). ⚠️ Al denominatore comune σ√(T-t) diventa σ²(T-t), e (r + ½σ²) - σ² = (r - ½σ²).
+**Opzione:** Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
+**Distrattori:**
+- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore guadagna σ²(T-t), e (r - ½σ²)(T-t) diventa (r + ½σ²)(T-t).
+- Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
+- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
+
+**D:** ⚠️ Quale identità fra S_t, K e le densità in d_1 e d_2 enuncia la proposizione (88) della lezione 16, e come vi è definita N'(x)?
+**R:** Slide 15, «Proposizione»: «Data la formula (33), vale la seguente identità: S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0 (88) dove N'(x) = (1/√(2π)) e^(-½x²)». Il docente: è «una formula interessante che rappresenta una relazione tra il sottostante e la sua funzione di densità e lo strike e la sua funzione di densità» ([00:11:14]); N' «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi» ([00:11:32]). ⚠️ È una differenza uguale a zero, con lo strike **scontato** Ke^(-r(T-t)). ⚠️ N'(x) è la densità normale, senza integrale: N(x) della lezione 11 è l'integrale da -∞ a x.
+**Opzione:** S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+**Distrattori:**
+- S_tN'(d_1) - KN'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+- Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
+- u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
+
+**D:** ⚠️ Come interpreta il docente della lezione 16 l'identità (88), S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0?
+**R:** Il docente: «Come a dire intuitivamente che l'evoluzione stocastica del sottostante rispetto allo strike in un'opzione, dato il cambio di misura, perché la misura di probabilità in D1 è diversa da quella in D2, devono alla fine pareggiarsi, essere equivalenti al netto del valore finanziario del tempo. Se ci pensate è una rappresentazione di un concetto di neutralità a rischio e di misura di non arbitraggio», perché «il sottostante alla fine si deve muovere probabilisticamente come una analoga quantità k scontata del valore del tempo» (transcript [00:11:56]–[00:12:23]). L'interpretazione è solo nel transcript. ⚠️ Le misure in d_1 e in d_2 sono diverse; il pareggio è al netto del valore finanziario del tempo, cioè con K scontato.
+**Opzione:** Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+**Distrattori:**
+- Le evoluzioni probabilistiche di sottostante e strike, sotto la stessa misura in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+- Nello spazio neutro al rischio, eliminando dW con Δ = ∂f/∂S, il portafoglio è privo di rischio; nello spazio di non arbitraggio, con dπ = rπdt, non consente strategie di arbitraggio.
+- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+
+**D:** ⚠️ Come si dimostra la (88) nella lezione 16: quale espressione si sostituisce, e a che cosa si riduce la parentesi (slide 15–18)?
+**R:** Slide 15: sostituite le densità, «utilizzando l'epressione (87)» il termine in d_2 diventa e^(-½(d_1 - σ√(T-t))²). Slide 16: «semplificando» e «fattorizzando», (1/√(2π)) e^(-½(d_1)²) · [S_t - Ke^(-r(T-t)) e^(-½σ²(T-t) + d_1σ√(T-t))] ≟ 0, e si sostituisce d_1 «utilizzando l'espressione (34)». Slide 17–18: la parentesi diventa [S_t - Ke^(ln S - ln K)], poi [S_t - e^(ln K + ln S_t - ln K)], [S_t - e^(ln S_t)] e [S_t - S_t] = 0, Q.E.D. Il docente: «SDT meno SDT fa 0 0 per una quantità è uguale a 0» (transcript [00:12:23]–[00:15:25]). ⚠️ Si scrive d_2 in funzione di d_1 con la (87), e la parentesi si annulla perché e^(ln S_t) = S_t.
+**Opzione:** Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
+**Distrattori:**
+- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln K)] = [S_t - K] = 0.
+- y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+- DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+
+**D:** ⚠️ Che relazione c'è fra ∂d_1/∂S e ∂d_2/∂S nella lezione 16 (formula (89)), e perché?
+**R:** Slide 19: «Data la formula (33), vale la seguente relazione: ∂d_1/∂S = ∂d_2/∂S (89)». Slide 20: «utlizzando l'equazione (87) si ottiene: ∂d_2/∂S_t ≟ ∂/∂S_t [d_1 - σ√(T-t)] quindi: ∂d_2/∂S_t = ∂d_1/∂S_t Q.E.D.». Il docente: «è sufficiente richiamare la definizione di D2, la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:15:49]–[00:16:49]). ⚠️ Le due derivate sono **uguali**, perché σ√(T-t) non dipende da S. È la chiave della domanda 3 del test.
+**Opzione:** ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+**Distrattori:**
+- ∂d_1/∂S = -∂d_2/∂S, perché σ√(T-t) non dipende da S
+- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
+- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
+
+**D:** ⚠️ Che relazione c'è fra ∂d_1/∂r e ∂d_2/∂r nella lezione 16 (formula (90)), e perché?
+**R:** Slide 19: «∂d_1/∂r = ∂d_2/∂r (90)». Slide 21: «utilizzando l'espressione (87) si ottiene: ∂d_2/∂r ≟ ∂/∂r [d_1 - σ√(T-t)] quindi: ∂d_2/∂r = ∂d_1/∂r Q.E.D.». Il docente: «La seconda grandezza segue lo stesso ragionamento, quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:15:55], [00:16:49]). ⚠️ Le due derivate sono **uguali**: r compare nel drift di entrambe, moltiplicato per (T-t), e σ√(T-t) non dipende da r. È la chiave della domanda 4 del test.
+**Opzione:** ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+**Distrattori:**
+- ∂d_1/∂r + ∂d_2/∂r = 0, perché σ√(T-t) non dipende da r
+- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+- Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
+
+**D:** ⚠️ Che relazione c'è fra ∂d_1/∂σ e ∂d_2/∂σ nella lezione 16 (formula (91))?
+**R:** Slide 19: «∂d_1/∂σ = ∂d_2/∂σ + √(T-t) (91)». Slide 22: «utilizzando l'equazione (87) si ottiene: ∂d_1/∂σ ≟ ∂/∂σ [d_1 - σ√(T-t)] + √(T-t) quindi: ∂d_1/∂σ ≟ ∂d_1/∂σ - √(T-t) + √(T-t); ∂d_1/∂σ = ∂d_1/∂σ Q.E.D.». Il docente: «relativamente alla derivata prima di d1 e di d2 su sigma, la differenza è la radice quadrata della time to maturity» ([00:15:55]); «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» ([00:17:47]). ⚠️ Il segno è **più**: derivando -σ√(T-t) rispetto a σ si ottiene -√(T-t), che la (91) compensa. Il meno sta nella (92), quella in t. È la chiave della domanda 5 del test.
+**Opzione:** ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+**Distrattori:**
+- ∂d_1/∂σ = ∂d_2/∂σ - √(T-t)
+- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
+- DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
+
+**D:** ⚠️ Che relazione c'è fra ∂d_1/∂t e ∂d_2/∂t nella lezione 16 (formula (92)), e da dove viene il segno?
+**R:** Slide 19: «∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t)) (92)». Slide 23: «utilizzando l'equazione (87) si ottiene: ∂d_1/∂t ≟ ∂/∂t [d_1 - σ√(T-t)] - σ/(2√(T-t))», poi ∂d_1/∂t ≟ ∂d_1/∂t - σ(1/(2√(T-t))) · -1 - σ/(2√(T-t)) ≟ ∂d_1/∂t + σ/(2√(T-t)) - σ/(2√(T-t)), quindi ∂d_1/∂t = ∂d_1/∂t, Q.E.D. Il docente: «La derivata in questo caso è meno sigma mezzi diviso radice quadrata t grande menti meno 1» ([00:18:19]), e la derivata di d_1 «è uguale alla derivata prima in D2 meno sigma diviso 2 radice di t grande meno t» ([00:18:27]). ⚠️ Il segno è **meno**: derivando √(T-t) rispetto a t compare il fattore -1, quindi -σ√(T-t) dà +σ/(2√(T-t)), che la (92) compensa.
+**Opzione:** ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
+**Distrattori:**
+- ∂d_1/∂t = ∂d_2/∂t + σ/(2√(T-t))
+- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
+- ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+
+**D:** ⚠️ Quali relazioni fra le derivate di N(d_1) e N(d_2) rispetto a S_t e a K enuncia la proposizione (93)–(94) della lezione 16?
+**R:** Slide 24, «Proposizione»: «Data la formula (33) vale la seguente relazione: S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 (93) S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0 (94)». Il docente: «il sottostante per la derivata prima di n di 1 in S di t è uguale a meno k per la derivata prima di n di 1 in dk. E lo stesso per D2»; è «una relazione esistente tra l'andamento probabilistico del sottostante e il suo riflesso nell'andamento probabilistico del prezzo strike» (transcript [00:18:53]–[00:19:36]). ⚠️ Somma uguale a zero, con K non scontato: è la (98) ad avere Ke^(-r(T-t)). Le derivate sono di N, non di N'.
+**Opzione:** S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
+**Distrattori:**
+- S_t ∂N(d_1)/∂S_t - K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t - K ∂N(d_2)/∂K = 0
+- Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
+- ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
+
+**D:** ⚠️ Su quale proprietà della (33) si fonda, nella lezione 16, la dimostrazione di (93)–(94), e come si scrive la (95)?
+**R:** Slide 25: «Poichè il funzionale riportato nell'espressione (33) è una funzione omogenea di ordine 1, può essere sempre riscritta come segue: C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K (95)». Il docente: «poiché sappiamo che il funzionale dell'espressione 33 è una funzione omogenea di ordine 1, possiamo riscriverlo come il prezzo della call al tempo t e la derivata prima della call rispetto al sottostante per il sottostante più la derivata prima della call rispetto allo strike per lo strike» (transcript [00:19:36]). ⚠️ Ordine 1; ciascuna derivata moltiplica la propria variabile, ∂C_t/∂S_t per S_t e ∂C_t/∂K per K.
+**Opzione:** La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
+**Distrattori:**
+- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) K + (∂C_t/∂K) S_t
+- ∫_K^{+∞} f_Y(y)dy = N(d_2)
+- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
+
+**D:** ⚠️ Come si scrivono, nella lezione 16, le derivate parziali (96) e (97) del prezzo della call rispetto a S_t e a K?
+**R:** Slide 25: «Pertanto le quantità ∂C_t/∂S_t e ∂C_t/∂K sono calcolate utilizzando la relazione (33), i.e.: ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t (96) ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K (97)». Il docente: la derivata rispetto a s è «s per la derivata di n di 1 in ds più n di 1 meno k per l'esponenziale di meno r t grande per la derivata di n di 2 in ds di t»; quella rispetto a k è «s di t derivata prima di n di 1 in dk meno e alla meno r t grande per n di 2 meno k e alla meno r t grande per n di 2 in dk» (transcript [00:20:04]). ⚠️ N(d_1) sta nella (96), perché S_t moltiplica N(d_1); -e^(-r(T-t))N(d_2) sta nella (97), perché K moltiplica e^(-r(T-t))N(d_2).
+**Opzione:** ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+**Distrattori:**
+- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+- Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
+
+**D:** Perché, nella lezione 16, dalla (95) si ricavano la (93) e la (94)?
+**R:** Slide 26: «Sostituendo nell'equazione (95) le derivate parziali (96) e (97)» e riordinando, C_t(S,K) = S_tN(d_1) - Ke^(-r(T-t))N(d_2) + S_t[S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K] - Ke^(-r(T-t))[S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K]. Slide 27: «Poichè S_t, K, e^(-r(T-t)) > 0, e considerando i risultati riportati nell'espressione (33) è immediato derivare che» valgono la (93) e la (94), Q.E.D. Il docente: «andiamo a isolare il prezzo di Black-Scholes, SDT n di 1 meno K e alla meno RT grande menti n di 2, più gli altri due componenti» (transcript [00:22:31]–[00:23:27]). I primi due addendi sono già il prezzo (33), C_t: le due parentesi restano da sole, e la slide ne ricava che sono nulle. La slide 26 scrive «N(d_t)» per N(d_1) nella prima riga.
+
+**D:** ⚠️ Quale relazione fra le derivate di N(d_1) e N(d_2) rispetto a K enuncia la proposizione (98) della lezione 16?
+**R:** Slide 28, «Proposizione»: «Data la formula (33) vale la seguente relazione: S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0 (98)». Il docente: «s di t per la derivata di n di 1 in k più k per e alla meno reti grande in t derivata di n di 2 in dk è uguale a 0» (transcript [00:23:38]–[00:23:55]). ⚠️ Qui le derivate sono tutte rispetto a K, e lo strike è scontato. ⚠️ Slide e transcript scrivono «+», ma le slide non sono coerenti su questo segno: la slide 30 applica la (88), che è una differenza, alla parentesi S_tN'(d_1) + Ke^(-r(T-t))N'(d_2), e nella (97) (slide 25) lo stesso termine Ke^(-r(T-t)) ∂N(d_2)/∂K ha il meno. Vedi la nota della lezione.
+**Opzione:** S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
+**Distrattori:**
+- S_t ∂N(d_1)/∂S_t + Ke^(-r(T-t)) ∂N(d_2)/∂S_t = 0
+- ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
+- y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+
+**D:** ⚠️ Che cosa si ricava dalla (93) e dalla (94) nella dimostrazione della (98), formule (99) e (100) della lezione 16?
+**R:** Slide 28: «Dalle equazioni (93) e (94) è possibile immediatamente affermare che: ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t (99) ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t (100)». Slide 29–30: sostituite nella (98), si raccoglie -(S_t/K); con la regola della catena compaiono N'(d_1) ∂d_1/∂S e N'(d_2) ∂d_2/∂S, e con la (89) si raccoglie ∂d_1/∂S. Il docente: «la derivata di N di 1 in dK è uguale a meno S su K derivata di N di 1 in dS di T. Questa è la formula 99», e lo stesso per N di 2, «la formula 100» (transcript [00:23:55]–[00:24:33]). ⚠️ Il rapporto è S_t/K, con il meno: è la (93) risolta per la derivata rispetto a K.
+**Opzione:** ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
+**Distrattori:**
+- ∂N(d_1)/∂K = -(K/S_t) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(K/S_t) ∂N(d_2)/∂S_t
+- u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
+- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
+
+**D:** ⚠️ Quanto vale il Delta di un'opzione call nella lezione 16 (formula (101)), e quale identità annulla il resto della derivata?
+**R:** Slide 31, «Proposizione»: «Il Delta di un'opzione CALL option è: ∂C/∂S_t = Δ_C = N(d_1) (101)». Dimostrazione: ∂C/∂S_t = ∂/∂S_t [S_tN(d_1) - Ke^(-r(T-t))N(d_2)] = N(d_1) + S_tN'(d_1) ∂d_1/∂S_t - Ke^(-r(T-t))N'(d_2) ∂d_2/∂S_t; «utilizzando l'espressione (89)» = N(d_1) + (∂d_1/∂S_t)[S_tN'(d_1) - Ke^(-r(T-t))N'(d_2)]; «sfruttando l'espressione (88)» = N(d_1), Q.E.D. Il docente: «Il delta di un'opzione call è pari ad n di 1», cioè «la differenza del prezzo della col rispetto a una variazione infinitesima del prezzo del sottostante» (transcript [00:26:55]–[00:28:19]). ⚠️ Δ_C è N(d_1), non N'(d_1): la parentesi con le densità si annulla per la (88).
+**Opzione:** ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+**Distrattori:**
+- ∂C/∂S_t = Δ_C = N'(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
+- Sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
+
+**D:** ⚠️ Quanto vale il Gamma di un'opzione call nella lezione 16 (formula (102)), e che cosa misura?
+**R:** Slide 32, «Proposizione»: «Il Gamma di un'opzione CALL è: ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t)) (102)». Dimostrazione: ∂²C/∂S_t² = ∂/∂S_t (∂C/∂S_t); «utilizzando l'espressione (101)» = ∂/∂S_t (N(d_1)) = N'(d_1) · ∂d_1/∂S_t; «sfruttando l'espressione (34)» = N'(d_1) · (1/(σ√(T-t))) ∂/∂S_t ln(S_t) = N'(d_1) · (1/(σ√(T-t)))(1/S_t), Q.E.D. Il docente: il gamma è la derivata seconda, cioè «come varia il delta della col, al variare del sottostante» (transcript [00:28:19]–[00:29:45]). ⚠️ C'è la densità N'(d_1), non N(d_1): il Gamma è la derivata del Delta N(d_1).
+**Opzione:** ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
+**Distrattori:**
+- ∂²C/∂S_t² = Γ_C = N(d_1) · 1/(S_tσ√(T-t))
+- ∫_K^{+∞} f_Y(y)dy = N(d_2)
+- d_2 = d_1 - σ√(T-t)
+
+**D:** ⚠️ Quanto vale il Rho di un'opzione call nella lezione 16 (formula (103))?
+**R:** Slide 33, «Proposizione»: «Il Rho di un'opzione CALL è: ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2) (103)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂r - Ke^(-r(T-t))N'(d_2) ∂d_2/∂r + (T-t)Ke^(-r(T-t))N(d_2); «utilizzando l'espressione (90)» si raccoglie ∂d_1/∂r e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il rho è «la sensitività della col a una variazione infinitessima del tasso di interesse», e il risultato è «t grande menti per k e alla meno r t grande menti n di 2» (transcript [00:29:51]–[00:30:52]). ⚠️ C'è N(d_2), con lo strike scontato e il fattore (T-t), che viene dalla derivata di e^(-r(T-t)) rispetto a r.
+**Opzione:** ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
+**Distrattori:**
+- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_1)
+- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
+- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
+
+**D:** ⚠️ Quanto vale il Vega di un'opzione call nella lezione 16 (formula (104))?
+**R:** Slide 34, «Proposizione»: «il Vega di un'opzione CALL è: ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t) (104)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂σ - Ke^(-r(T-t))N'(d_2) ∂d_2/∂σ; «utilizzando l'espressione (91)», ∂d_1/∂σ = ∂d_2/∂σ + √(T-t), resta S_tN'(d_1)√(T-t) + (∂d_2/∂σ)[S_tN'(d_1) - Ke^(-r(T-t))N'(d_2)], e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il vega è «come varia il prezzo della call a una variazione infinitesima della volatilità», e «il vega di una col est n' di 1 per la radice quadrata di t grande menti» (transcript [00:30:52]–[00:31:42]). ⚠️ Il √(T-t) viene dalla (91); qui si raccoglie ∂d_2/∂σ, non ∂d_1/∂σ.
+**Opzione:** ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
+**Distrattori:**
+- ∂C/∂σ = 𝒱_C = S_tN'(d_1)(T-t)
+- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+
+**D:** ⚠️ Quanto vale il Theta di un'opzione call nella lezione 16 (formula (105))?
+**R:** Slide 35, «Proposizione»: «Il Theta di un'opzione CALL è: ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)] (105)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂t - Ke^(-r(T-t))N'(d_2) ∂d_2/∂t - rKe^(-r(T-t))N(d_2); «utilizzando l'espressione (92)» si sostituisce ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t)), si raccoglie ∂d_2/∂t e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il theta è «come varia il prezzo al variare del tempo», e «il teta della col è meno parentesi st n primo di 1 per sigma diviso 2 radice quadrata t menti più rk e almeno rt grande menti per n di 2» (transcript [00:31:42]–[00:32:49]). ⚠️ Il meno sta davanti a tutta la parentesi, e dentro i due termini si sommano.
+**Opzione:** ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
+**Distrattori:**
+- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) - rKe^(-r(T-t))N(d_2)]
+- S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
+- Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
+
+**D:** ⚠️ Quanto vale il Delta duale di un'opzione call nella lezione 16 (formula (106)), e che cosa misura?
+**R:** Slide 36, «Proposizione»: «Il Delta duale di un'opzione CALL è: DualΔ_C = -e^(-r(T-t))N(d_2) (106)». Dimostrazione: «Dalla definizione di Delta Duale di un'opzione CALL al tempo t si ottiene: DualΔ_C = ∂C_t/∂K = ∂/∂K [S_tN(d_1) - Ke^(-r(T-t))N(d_2)] = -e^(-r(T-t))N(d_2) + S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K utilizzando l'espressione (98), la tesi è dimostrata». Il docente: è «la variazione del prezzo della call rispetto alla variazione dello strike» ([00:33:00]), e «il delta duale non è altro che meno il valore finanziario, il valore scontato del tempo per n di 2, analogamente all'n di 1 del delta» ([00:33:21]). ⚠️ Il segno è meno, e c'è N(d_2), non N(d_1).
+**Opzione:** DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
+**Distrattori:**
+- DualΔ_C = ∂C_t/∂K = e^(-r(T-t))N(d_2)
+- ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
+- ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+
+**D:** ⚠️ Quanto vale il Gamma duale di un'opzione call nella lezione 16 (formula (107)), e come si passa dalla derivata rispetto a K a quella rispetto a S_t?
+**R:** Slide 37, «Proposizione»: «Il Gamma Dual di un'opzione CALL è: DualΓ_C = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t) (107)». Dimostrazione: DualΓ_C = ∂²C_t/∂K² = ∂/∂K (∂C_t/∂K) = ∂/∂K [-e^(-r(T-t))N(d_2)] = -e^(-r(T-t)) ∂N(d_2)/∂K = -e^(-r(T-t)) · (-(S_t/K) ∂N(d_2)/∂S_t) = (S_t/K)e^(-r(T-t)) ∂/∂S_t (N(d_2)) = (S_t/K)e^(-r(T-t))N'(d_2) · ∂d_1/∂S_t; slide 38: «utilizzando l'espressione (34)» si arriva alla (107), Q.E.D. Il docente: è «la variazione del delta duale rispetto all'andamento dello strike, quindi la derivata seconda» ([00:33:09]), e si arriva a «st su k per e alla meno r t grande menti e ne primo di 2 per 1 su sigma radice t grande menti per 1 su s» ([00:34:20]). ⚠️ Il passaggio da ∂K a ∂S_t è la (100): il suo meno elide quello del Delta duale, e il Gamma duale è positivo.
+**Opzione:** DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+**Distrattori:**
+- DualΓ_C = ∂²C_t/∂K² = -(S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+- S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+- ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+
+**D:** ⚠️ Quali greche di un'opzione call calcola la lezione 16, nell'ordine delle slide?
+**R:** Slide 31–37: il **Delta** (101), il **Gamma** (102), il **Rho** (103), il **Vega** (104), il **Theta** (105), il **Delta duale** (106) e il **Gamma duale** (107). Il docente: dopo il theta, «siamo nelle condizioni di calcolare le ultime due greche della trattazione odierna. Il delta duale» e la sua variazione rispetto allo strike (transcript [00:26:33]–[00:33:09]). ⚠️ Le greche duali sono due e chiudono l'elenco: il Delta duale e il Gamma duale, le derivate rispetto allo strike K.
+**Opzione:** Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
+**Distrattori:**
+- Delta, Gamma, Rho, Vega, Theta, Delta duale e Theta duale
+- ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+
+**D:** ⚠️ Rispetto a quale variabile misura la sensitività del prezzo della call ciascuna greca della lezione 16?
+**R:** Il docente: il delta è la variazione del prezzo della call «rispetto a una variazione infinitesima del prezzo del sottostante» ([00:27:02]); il gamma «come varia il delta della col, al variare del sottostante» ([00:28:41]); il rho la sensitività «a una variazione infinitessima del tasso di interesse» ([00:29:51]); il vega «come varia il prezzo della call a una variazione infinitesima della volatilità» ([00:30:52]); il theta «come varia il prezzo al variare del tempo» ([00:31:42]); il delta duale «la variazione del prezzo della call rispetto alla variazione dello strike», il gamma duale «la variazione del delta duale rispetto all'andamento dello strike» ([00:33:00]–[00:33:09]). Nelle slide 31–37 le stesse variabili sono al denominatore delle derivate: ∂S_t, ∂r, ∂σ, ∂t, ∂K. ⚠️ Il Vega è la volatilità σ, il Rho il tasso r.
+**Opzione:** Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
+**Distrattori:**
+- Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: volatilità; Vega: tasso di interesse; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
+- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
+- S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
+
+**D:** In che cosa differiscono N(x) della lezione 11 e N'(x) della proposizione (88) della lezione 16?
+**R:** La slide 10 della lezione 11 definisce N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, un integrale da -∞ a x; la slide 15 della lezione 16 definisce N'(x) = (1/√(2π)) e^(-½x²), la funzione integranda, senza integrale. Il docente: N' «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi», e la (88) lega S_t e K alle loro «funzioni di densità» (transcript [00:11:14]–[00:11:41]). Nelle greche N(d_1) e N(d_2) danno il Delta e il Delta duale, N'(d_1) e N'(d_2) il Gamma, il Vega, il Theta e il Gamma duale (slide 31–37). Che N'(x) sia la derivata di N(x) lo suggerisce l'apice; la slide 32 lo usa quando scrive ∂/∂S_t (N(d_1)) = N'(d_1) · ∂d_1/∂S_t.
+
+**D:** Dove compare il teorema di Feynman-Kac nella lezione 16, che pure lo porta nel titolo?
+**R:** Solo nell'intestazione delle slide 3–12, «Il Modello di Black-Scholes-Merton — La soluzione del prezzo della Call attraverso il teorema di Feynman - Cac» (con la grafia «Cac», come il frontespizio). Il transcript della lezione 16 non lo nomina mai: il docente apre con «Completiamo quindi la derivazione del modello di Black-Scholes-Merton attraverso il metodo dell'equazione alle derivate parziali» ([00:00:04]). Il teorema è invocato nella lezione 15 (slide 12 del suo deck: «Sfruttando il teorema di Feynman-Kac, si può affermare direttamente che» C_t = E[max(S_T - K, 0)e^(∫_t^T rds) | S_t = s] (81)) ed è enunciato nella lezione 07 (slide 28). La lezione 16 ne calcola soltanto il secondo integrale.
+
+**D:** ⚠️ Che espressione assume il secondo integrale della formula della Call nel modello di BSM derivato con la formula di Feynman-Cac, secondo il test della lezione 16 (domanda 1)?
+**R:** «**∫k+∞ fY(y)dy=N(d2)**». È la (85) della slide 10, ∫_K^{+∞} f_Y(y)dy = N(d_2), dove f_Y è la densità di y = S_T (deck della lezione 15, slide 18). Il docente: il secondo integrale, «l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). Distrattori del test: tutti e tre hanno la y nell'integrando, cioè parlano del **primo** integrale della (83), che nella (84) vale S_t e^(r(T-t)) N(d_1) (deck della lezione 15, slide 34). «∫k+∞ y fY(y)dy=N(d2)» gli dà il risultato del secondo; «∫k+∞ y fY(y)dy=St-r(T-t)» e «∫k+∞ y fY(y)dy=St-r(T-t)N(d2)» riprendono la chiave della domanda 2 del test della lezione 15, «∫k+∞ y fY(y)dy=St-r(T-t)N(d1)», la prima togliendo N(d1), la seconda cambiandolo in N(d2). Quella chiave è già difettosa (🚨 nella lezione 15): la slide 34 di quel deck ha S_t e^(r(T-t)) N(d_1), con la e e l'esponente positivo. Basta l'asse dell'integrando: solo la chiave non ha la y.
+**Opzione:** ∫k+∞ fY(y)dy=N(d2)
+**Distrattori:**
+- ∫k+∞ y fY(y)dy=St-r(T-t)
+- ∫k+∞ y fY(y)dy=N(d2)
+- ∫k+∞ y fY(y)dy=St-r(T-t)N(d2)
+
+**D:** ⚠️ Quale relazione tra d1 e d2 vale nel modello di BSM, secondo il test della lezione 16 (domanda 2)?
+**R:** «**d2=d1 - s (T-t)1/2**», con «s» per σ e «(T-t)1/2» per √(T-t): è la (87) della slide 14, d_2 = d_1 - σ√(T-t), dimostrata con la (34). Il docente: «D2 è uguale a D1 meno sigma radice di T» (transcript [00:10:25]). Tre assi, segno × σ × radice: «d2=d1 + s (T-t)» sbaglia il segno e perde la radice; «d2=d1 + s (T-t)1/2» sbaglia solo il segno; «d2=d1 - (T-t)1/2» perde σ, e ha la forma della (91) senza le derivate, ∂d_2/∂σ = ∂d_1/∂σ - √(T-t) (deduzione). ⚠️ La (87) conferma che d_2 ha (r - σ²/2) al numeratore (ultima riga della slide 14): la chiave della domanda 3 del test della lezione 14, con -(r + σ²/2), non torna, ed è registrata lì con 🚨.
+**Opzione:** d2=d1 - s (T-t)1/2
+**Distrattori:**
+- d2=d1 + s (T-t)
+- d2=d1 + s (T-t)1/2
+- d2=d1 - (T-t)1/2
+
+**D:** ⚠️ Quale relazione tra dd1 / dS e dd2 /dS vale nel modello di BSM, secondo il test della lezione 16 (domanda 3)?
+**R:** «**dd1 / dS = dd2 /dS**»: è la (89) della slide 19, ∂d_1/∂S = ∂d_2/∂S, dimostrata nella slide 20 con la (87), perché σ√(T-t) non dipende da S. Il docente: «la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:16:33]). Distrattori del test: «d2=d1 + s (T-t)» è il distrattore A della domanda 2 e non parla delle derivate; «dd1 / dS + dd2 /dS = 0» e «dd1 / dS ∗ dd2 /dS = 0» non sono nelle slide. Le slide 32 e 38 danno ∂d_1/∂S_t = (1/(σ√(T-t)))(1/S_t), un valore positivo: due derivate uguali e positive non hanno né somma né prodotto nullo (deduzione).
+**Opzione:** dd1 / dS = dd2 /dS
+**Distrattori:**
+- d2=d1 + s (T-t)
+- dd1 / dS + dd2 /dS = 0
+- dd1 / dS ∗ dd2 /dS = 0
+
+**D:** ⚠️ Quale relazione tra dd1 / dr e dd2 /dr vale nel modello di BSM, secondo il test della lezione 16 (domanda 4)?
+**R:** «**dd1 / dr = dd2 /dr**»: è la (90) della slide 19, ∂d_1/∂r = ∂d_2/∂r, dimostrata nella slide 21 con la (87). Il docente: «quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:16:49]). Distrattori del test: «dd1 / dr + dd2 /dr = 0» e «dd1 / dr ∗ dd2 /dr = 0» hanno la stessa forma dei distrattori C e D della domanda 3, con r al posto di S; «dd1 / dr + dd2 /dr = r» aggiunge un risultato che le slide non hanno. Nessuna delle tre è nelle slide, che danno soltanto l'uguaglianza (90).
+**Opzione:** dd1 / dr = dd2 /dr
+**Distrattori:**
+- dd1 / dr + dd2 /dr = 0
+- dd1 / dr + dd2 /dr = r
+- dd1 / dr ∗ dd2 /dr = 0
+
+**D:** ⚠️ Quale relazione tra dd1 / ds e dd2 /ds vale nel modello di BSM, secondo il test della lezione 16 (domanda 5)?
+**R:** «**dd1 / ds = dd2 /ds +(T-t)1/2**», con «ds» per dσ: è la (91) della slide 19, ∂d_1/∂σ = ∂d_2/∂σ + √(T-t), dimostrata nella slide 22. Il docente: «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» (transcript [00:17:47]). ⚠️ «ds» è dσ, non dS: la piattaforma rende σ con «s» minuscola (domanda 2) e il sottostante con «S» maiuscola (domanda 3), e √(T-t) compare solo nella (91), mentre per S la (89) è un'uguaglianza. Distrattori del test: «dd1 / ds = dd2 /ds -(T-t)1/2» inverte il segno; «dd1 / ds = dd2 /ds ∗(T-t)1/2» e «dd1 / ds = dd2 /ds ∗(T-t)» cambiano la somma in un prodotto, e l'ultima perde anche la radice.
+**Opzione:** dd1 / ds = dd2 /ds +(T-t)1/2
+**Distrattori:**
+- dd1 / ds = dd2 /ds -(T-t)1/2
+- dd1 / ds = dd2 /ds ∗(T-t)1/2
+- dd1 / ds = dd2 /ds ∗(T-t)
