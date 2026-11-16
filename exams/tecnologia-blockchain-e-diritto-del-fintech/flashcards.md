@@ -289,9 +289,9 @@
 
 **D:** ⚠️ Come si ripartisce l'offerta delle FinTech italiane (Italian FinTech trends, offering)?
 **R:** Banking services 51%; investment services 23%; marketing solutions, Big Data, Security, Others 17%; insurance services 9%.
-**Opzione:** Banking services 51%, investment services 23%, marketing e Big Data e security 17%, insurance services 9%.
+**Opzione:** Banking services 51%; investment services 23%; marketing solutions, Big Data, Security, Others 17%; insurance services 9%.
 **Distrattori:**
-- Banking services 23%, investment services 51%, marketing e Big Data e security 17%, insurance services 9%.
+- Banking services 23%; investment services 51%; marketing solutions, Big Data, Security, Others 17%; insurance services 9%.
 - 74% FinTech e 26% TechFin.
 
 **D:** Quale precisazione fa il docente sull'etichetta «banking services»?
