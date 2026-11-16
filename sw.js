@@ -17,7 +17,7 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = 'd6f987c55414';
+const VERSIONE = '540095c808cf';
 const GUSCIO = [
   "./",
   "./index.html",
@@ -54,6 +54,8 @@ const DATI = [
   "./exams/management-e-finance/domande-esame.md",
   "./exams/organizzazione-degli-intermediari-finanziari/flashcards.md",
   "./exams/organizzazione-degli-intermediari-finanziari/domande-esame.md",
+  "./exams/econometria-finanziaria-e-finanza-empirica/flashcards.md",
+  "./exams/econometria-finanziaria-e-finanza-empirica/domande-esame.md",
   "./exams/analisi-dei-mercati-finanziari/flashcards.md",
   "./exams/analisi-dei-mercati-finanziari/domande-esame.md",
   "./exams/tecnologia-blockchain-e-diritto-del-fintech/flashcards.md",
