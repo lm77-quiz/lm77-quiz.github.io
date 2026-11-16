@@ -25,8 +25,7 @@
 **Opzione:** Servizi tradizionali con soluzioni digitali; soluzioni FinTech per servizi esistenti; soluzioni FinTech per nuovi servizi.
 **Distrattori:**
 - Servizi tradizionali con soluzioni digitali; soluzioni FinTech per servizi esistenti; soluzioni FinTech per la vigilanza sui mercati.
-- Servizi tradizionali con soluzioni digitali; soluzioni FinTech per nuovi servizi; soluzioni FinTech per servizi esistenti.
-- Soluzioni FinTech per servizi esistenti; soluzioni FinTech per nuovi servizi; servizi tradizionali con soluzioni digitali.
+- Lettura ristretta a un insieme autorizzato di partecipanti, scrittura ai partecipanti autorizzati, commit a tutti o a un sottoinsieme di essi; l'esempio è più banche che operano un registro condiviso.
 
 **D:** ⚠️ Sito web, internet banking, smartphone e app sono FinTech?
 **R:** No. Sono il primo dei tre stadi, cioè la fornitura di servizi tradizionali attraverso soluzioni digitali. Il docente li chiama «gli antenati, l'embrione del fintech»: «non sono fintech, sono però presupposti digitali che hanno fatto sì che si creassero delle basi per la comprensione delle potenzialità della tecnologia».
@@ -44,37 +43,35 @@
 **Opzione:** Culturale, prima che tecnologico, finanziario e normativo.
 **Distrattori:**
 - Tecnologico, prima che culturale, finanziario e normativo.
-- Normativo, prima che culturale, tecnologico e finanziario.
-- Finanziario, prima che culturale, tecnologico e normativo.
+- Non alterabili e non modificabili.
 
 **D:** Quali tre caratteristiche del FinTech elenca il riquadro di sinistra della slide sui rischi?
 **R:** Sempre più dipendenza dalla tecnologia; increasing interconnessione e complessità; economie di scala nelle applicazioni IT.
+**Opzione:** Sempre più dipendenza dalla tecnologia; increasing interconnessione e complessità; economie di scala nelle applicazioni IT.
 **Distrattori:**
 - Sempre più dipendenza dalla tecnologia; increasing interconnessione e complessità; riduzione dei costi di conformità.
-- Sempre più dipendenza dalla tecnologia; economie di scala nelle applicazioni IT; disintermediazione del rapporto bancario.
-- Increasing interconnessione e complessità; economie di scala nelle applicazioni IT; esclusione finanziaria.
+- Accesso alla piattaforma; compilazione questionario MiFID compliant; elaborazione della pianificazione del portafoglio titoli; monitoraggio costante con alert verso il ribilanciamento; in alcune piattaforme, investimento senza rivolgersi a un broker.
 
 **D:** ⚠️ Quali sono i quattro rischi per i consumatori, nell'ordine della slide?
 **R:** Mancanza di comprensione del consumatore; vendita scorretta di prodotti e servizi; esclusione finanziaria; privacy, sicurezza e protezione dei dati.
 **Opzione:** Mancanza di comprensione; vendita scorretta di prodotti e servizi; esclusione finanziaria; privacy, sicurezza e protezione dei dati.
 **Distrattori:**
 - Mancanza di comprensione; vendita scorretta di prodotti e servizi; esclusione finanziaria; comportamento da branco.
-- Mancanza di comprensione; vendita scorretta di prodotti e servizi; esclusione finanziaria; concentrazione.
-- Mancanza di comprensione; vendita scorretta di prodotti e servizi; governance; privacy, sicurezza e protezione dei dati.
+- Distorsione della concorrenza; estrema volatilità senza consolidamento delle posizioni; complessità del sistema dei mercati; sperequazione fra accesso rapido e sistemi lenti tradizionali; intasamento e costosi aggiornamenti dei sistemi informatici.
 
 **D:** ⚠️ Quali sono i tre rischi per la stabilità finanziaria?
 **R:** Concentrazione; canali alternativi di intermediazione finanziaria; comportamento da branco.
+**Opzione:** Concentrazione; canali alternativi di intermediazione finanziaria; comportamento da branco.
 **Distrattori:**
 - Concentrazione; canali alternativi di intermediazione finanziaria; esclusione finanziaria.
-- Concentrazione; viabilità del modello di business; comportamento da branco.
-- Canali alternativi di intermediazione finanziaria; comportamento da branco; rischio tecnologico e resilienza operativa.
+- Una vasta gamma di aree, tra cui il rischio tecnologico, la sicurezza informatica e la resilienza operativa.
 
 **D:** Quali sono i rischi per le imprese?
 **R:** Viabilità del modello di business; governance; rischio tecnologico e resilienza operativa.
+**Opzione:** Viabilità del modello di business; governance; rischio tecnologico e resilienza operativa.
 **Distrattori:**
 - Viabilità del modello di business; governance; concentrazione.
-- Governance; rischio tecnologico e resilienza operativa; comportamento da branco.
-- Viabilità del modello di business; perimetro regolamentare; rischio tecnologico e resilienza operativa.
+- Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
 
 **D:** ⚠️ Quali sono le otto voci della «risposta regolamentare», nell'ordine della slide?
 **R:** Perimetro regolamentare; protezione del consumatore; protezione dei dati, sicurezza e privacy; gestione del rischio; resilienza operativa; governance; raccolta e analisi di dati e informazioni; interventi normativi emergenti. La voce di chiusura dell'elenco è «interventi normativi emergenti».
@@ -103,9 +100,9 @@
 **R:** «Massimizzare i benefici del fintech minimizzando i potenziali rischi per il sistema finanziario».
 **Opzione:** Massimizzare i benefici del fintech minimizzando i potenziali rischi per il sistema finanziario.
 **Distrattori:**
-- Minimizzare i benefici del fintech massimizzando la tutela del sistema finanziario.
 - Massimizzare i benefici del fintech minimizzando i potenziali rischi per i consumatori.
-- Massimizzare la redditività degli intermediari minimizzando i potenziali rischi per il sistema finanziario.
+- Lucrare su margini estremamente esigui, anche pochi centesimi, e per questo operare necessariamente su grandi quantità di transazioni giornaliere.
+- Assicurare il coordinamento e il monitoraggio delle iniziative di innovazione tecnologica e transizione digitale delle pubbliche amministrazioni competenti in via ordinaria.
 
 **D:** Quali aree coprono, secondo il Financial Stability Institute, le iniziative dei regolatori sul FinTech?
 **R:** «Una vasta gamma di aree, tra cui il rischio tecnologico, la sicurezza informatica e la resilienza operativa».
@@ -133,10 +130,10 @@
 
 **D:** ⚠️ Quali sono i quattro approcci regolamentari nazionali al FinTech?
 **R:** Stato regolamentare invariato; regolamentazione specifica per il Fintech; in via di sviluppo; attività Fintech non consentita.
+**Opzione:** Stato regolamentare invariato; regolamentazione specifica per il Fintech; in via di sviluppo; attività Fintech non consentita.
 **Distrattori:**
 - Stato regolamentare invariato; regolamentazione specifica per il Fintech; in via di sviluppo; regolamentazione sperimentale in sandbox.
-- Stato regolamentare invariato; regolamentazione specifica per il Fintech; armonizzazione europea; attività Fintech non consentita.
-- Autoregolamentazione degli operatori; regolamentazione specifica per il Fintech; in via di sviluppo; attività Fintech non consentita.
+- Perimetro regolamentare, protezione del consumatore, protezione dei dati, sicurezza e privacy, gestione del rischio, resilienza operativa, governance, raccolta e analisi di dati e informazioni, interventi normativi emergenti.
 
 **D:** ⚠️ In che cosa consiste lo «stato regolamentare invariato»?
 **R:** «Nessun cambiamento nel quadro normativo esistente per includere le attività fintech. Le autorità possono chiarire come i requisiti esistenti si applicano alle attività fintech, senza introdurre alcun nuovo elemento specifico per le fintech nel loro quadro normativo».
@@ -151,8 +148,8 @@
 **Opzione:** Che il cambiamento del quadro normativo può essere sia vincolante sia non vincolante.
 **Distrattori:**
 - Che il cambiamento del quadro normativo può essere soltanto vincolante.
-- Che il cambiamento del quadro normativo può essere soltanto non vincolante.
-- Che il cambiamento del quadro normativo richiede il previo parere dell'autorità di vigilanza europea.
+- Considera solo le società create dopo il 2010, e solo società non quotate.
+- Non la lettura, aperta a chiunque in entrambe, ma chi può scrivere e impegnare.
 
 **D:** In che cosa consiste l'approccio «attività Fintech non consentita», e di quali paesi è tipico?
 **R:** «Una nuova legge o regolamento emanato specificamente per proibire una certa attività fintech». È l'approccio dei paesi che non si sentono in grado di monitorare l'attività innovativa.
@@ -174,9 +171,8 @@
 **R:** Il D.L. 1° marzo 2021, n. 22, all'art. 8, presso la Presidenza del Consiglio dei ministri. ⚠️ A lezione il docente lo chiama «decreto legislativo» e non cita l'articolo: la slide scrive «D.L.» e indica l'art. 8, e nei quiz è la slide a fare testo.
 **Opzione:** Il D.L. 1° marzo 2021, n. 22, art. 8, presso la Presidenza del Consiglio dei ministri.
 **Distrattori:**
-- Il D.L. 1° marzo 2021, n. 22, art. 8, presso il Ministero dell'economia e delle finanze.
 - Il D.L. 1° marzo 2021, n. 8, art. 22, presso la Presidenza del Consiglio dei ministri.
-- Il D.L. 1° marzo 2020, n. 22, art. 8, presso la Presidenza del Consiglio dei ministri.
+- Hileman and Rauchs, 2017.
 
 **D:** Qual è il compito del CITD?
 **R:** «Assicurare il coordinamento e il monitoraggio dell'attuazione delle iniziative di innovazione tecnologica e transizione digitale delle pubbliche amministrazioni competenti in via ordinaria».
@@ -188,18 +184,17 @@
 
 **D:** ⚠️ Quali tecnologie emergenti rientrano «prioritariamente» nella competenza del CITD?
 **R:** L'IA, l'internet delle cose (IoT) e la blockchain.
+**Opzione:** L'IA, l'internet delle cose (IoT) e la blockchain.
 **Distrattori:**
 - L'IA, l'internet delle cose (IoT) e il cloud computing.
-- L'IA, la blockchain e i big data.
-- L'internet delle cose (IoT), la blockchain e gli smart contract.
+- Lombardia, foreign countries, Lazio.
 
 **D:** Quali autorità italiane si pongono il problema di come regolare i servizi tradizionali offerti con tecnologia FinTech?
 **R:** La Banca d'Italia e la Consob. La domanda che si pongono è se quei servizi ricadano nella regolamentazione pensata «negli anni 80, 90 e 2000 per i canali tradizionali».
 **Opzione:** La Banca d'Italia e la Consob.
 **Distrattori:**
 - La Banca d'Italia e l'IVASS.
-- La Consob e l'Autorità garante della concorrenza e del mercato.
-- La Banca d'Italia e il Comitato interministeriale per la transizione digitale.
+- MakerDAO; Uniswap, Kyber network e 0x; Compound e Aave.
 
 **D:** ⚠️ Nella mappa EY degli unicorni FinTech e TechFin, quale area guida per numero di unicorni e quale per valore?
 **R:** Il Nord America guida per numero (43 unicorni, US$156,8 mld); l'Asia guida per valore (15 unicorni, US$223,5 mld). ⚠️ I due primati non coincidono: il transcript legge solo l'asse dei numeri («l'Asia si attesta a 15, quindi ben sotto la metà»), ma sul valore l'Asia è prima al mondo.
@@ -229,17 +224,19 @@
 
 **D:** ⚠️ Nel panorama italiano, come si dividono FinTech e TechFin?
 **R:** 74% FinTech e 26% TechFin.
+**Opzione:** 74% FinTech e 26% TechFin.
 **Distrattori:**
 - 26% FinTech e 74% TechFin.
-- 74% FinTech e 26% InsurTech.
-- 51% FinTech e 49% TechFin.
+- US$110 miliardi.
+- Solo l'1% delle proposte di transazione.
 
 **D:** Qual è il median funding per startup FinTech italiana e quali sono le principali fonti di investimento?
 **R:** €700k di median funding per startup; le principali fonti di investimento sono i Business Angels e le risorse personali.
+**Opzione:** €700k di median funding per startup; le principali fonti di investimento sono i Business Angels e le risorse personali.
 **Distrattori:**
 - €700k di median funding; le principali fonti sono i fondi di venture capital e le banche.
-- €70k di median funding; le principali fonti sono i Business Angels e le risorse personali.
-- €7 milioni di median funding; le principali fonti sono i Business Angels e i fondi pubblici.
+- GDPR e PSD2; il 92% è a favore di una Regulatory Sandbox.
+- Nord America per numero di unicorni, Asia per valore.
 
 **D:** ⚠️ Quale categoria ha il company value multiplier più alto nel mercato italiano?
 **R:** Il B2B, con 9,37x — davanti a FinTech (6,73x), TechFin (4,34x) e B2C (4,10x). Il multiplier è il rapporto fra valutazione post money e fondi raccolti.
@@ -254,16 +251,15 @@
 **Opzione:** GDPR e PSD2; il 92% è a favore di una Regulatory Sandbox.
 **Distrattori:**
 - MiFID II e PSD2; il 92% è a favore di una Regulatory Sandbox.
-- GDPR e PSD2; il 53% è a favore di una Regulatory Sandbox.
-- GDPR e MiFID II; il 74% è a favore di una Regulatory Sandbox.
+- Il 53% ha meno di 10 dipendenti; nell'81% gli uomini sono più del 50% del team.
+- Il B2B, con 9,37x.
 
 **D:** Che cosa dicono le slide sulla dimensione e sulla composizione dei team delle startup FinTech italiane?
 **R:** Il 53% delle startup ha meno di 10 dipendenti; nell'81% delle startup i dipendenti uomini sono più del 50% dell'intero team.
 **Opzione:** Il 53% ha meno di 10 dipendenti; nell'81% gli uomini sono più del 50% del team.
 **Distrattori:**
-- Il 53% ha meno di 10 dipendenti; nel 74% gli uomini sono più del 50% del team.
-- L'81% ha meno di 10 dipendenti; nel 53% gli uomini sono più del 50% del team.
 - Il 53% ha più di 10 dipendenti; nell'81% gli uomini sono più del 50% del team.
+- Il crowdfunding, con 71 società.
 
 **D:** ⚠️ Qual è il segmento più rappresentato fra le FinTech italiane?
 **R:** Il crowdfunding, con 71 società, pari al 21% del totale. ⚠️ A lezione il docente attribuisce prima il 21% agli smart payment, poi si corregge da solo («abbiamo il crowdfunding al 21%»): le slide danno Smart Payments & Money Transfers a 34 società, cioè il 10%.
@@ -278,16 +274,14 @@
 **Opzione:** Crowdfunding; DNA, ML, AI; Smart Payments & Money Transfers; Lending; InsurTech — insieme il 58%.
 **Distrattori:**
 - Crowdfunding; DNA, ML, AI; Smart Payments & Money Transfers; Lending; Crypto — insieme il 58%.
-- Crowdfunding; Smart Payments & Money Transfers; DNA, ML, AI; InsurTech; Lending — insieme il 58%.
-- Crowdfunding; DNA, ML, AI; Smart Payments & Money Transfers; Lending; InsurTech — insieme il 74%.
+- North America 43 unicorni, US$156,8 mld; Asia 15 unicorni, US$223,5 mld; Europe 14 unicorni, US$32,65 mld; South America 3 unicorni, US$12 mld; Oceania 2 unicorni, US$2,4 mld.
 
 **D:** ⚠️ Come si ripartisce l'offerta delle FinTech italiane (Italian FinTech trends, offering)?
 **R:** Banking services 51%; investment services 23%; marketing solutions, Big Data, Security, Others 17%; insurance services 9%.
 **Opzione:** Banking services 51%, investment services 23%, marketing e Big Data e security 17%, insurance services 9%.
 **Distrattori:**
-- Banking services 51%, investment services 23%, insurance services 17%, marketing e Big Data e security 9%.
 - Banking services 23%, investment services 51%, marketing e Big Data e security 17%, insurance services 9%.
-- Banking services 51%, investment services 21%, marketing e Big Data e security 19%, insurance services 9%.
+- 74% FinTech e 26% TechFin.
 
 **D:** Quale precisazione fa il docente sull'etichetta «banking services»?
 **R:** Che «non sono solo banking services, o meglio, sono servizi strettamente assimilabili a servizi bancari»: la precisazione sarà ripresa parlando di attività regolamentate.
@@ -349,8 +343,8 @@
 **Opzione:** Decentralizzazione, trasparenza, sicurezza, immutabilità.
 **Distrattori:**
 - Decentralizzazione, trasparenza, sicurezza, efficienza.
-- Decentralizzazione, trasparenza, scalabilità, immutabilità.
-- Disintermediazione, trasparenza, sicurezza, immutabilità.
+- Registrazione, convalida, aggiornamento e archiviazione.
+- Peculiarità, unicità, personalizzazione e facilità di entrare nel mondo fintech, grazie a normative pensate apposta che ne agevolano lo sviluppo.
 
 **D:** ⚠️ Quali tre caratteristiche «tipiche delle DLT» richiama la slide quando spiega perché il modello permissioned è oggi il più adeguato?
 **R:** «(i) **immutabilità**, (ii) **trasparenza** e (iii) **efficienza**». ⚠️ È un terzetto diverso dai 4 caratteri principali: l'*efficienza* non è fra questi ultimi, e *sicurezza* e *decentralizzazione* non sono nel terzetto. Nel parlato «immutabilità» diventa «mutabilità»: è un errore di trascrizione.
@@ -381,8 +375,7 @@
 **Opzione:** Imprese produttive, istituti bancari e assicurativi, fornitori di servizi regolati, operatori della logistica e della grande distribuzione.
 **Distrattori:**
 - Imprese produttive, istituti bancari e assicurativi, fornitori di servizi regolati, pubbliche amministrazioni.
-- Imprese produttive, istituti bancari e assicurativi, fornitori di servizi regolati, operatori della logistica e della sanità.
-- Istituti bancari e assicurativi, fornitori di servizi regolati, operatori della logistica e della grande distribuzione, startup innovative.
+- Il target non sono solo i clienti finali ma anche i consulenti presenti sul mercato, permettendo di ridurre i costi di gestione degli assets e del rapporto cliente/assets manager.
 
 **D:** Che cosa aggiunge il modello permissioned alle caratteristiche tipiche delle DLT?
 **R:** Un **maggior controllo dell'accesso all'infrastruttura** e della gestione ed accessibilità dei dati, grazie a un accesso limitato e selezionato al network — accesso che «presuppone l'accettazione di **regole di *governance***» — e una **maggiore scalabilità del sistema**.
@@ -452,9 +445,9 @@
 **R:** **OPEN**: public permissionless e public permissioned. **CLOSED**: consortium e private permissioned («enterprise»).
 **Opzione:** Aperte: public permissionless e public permissioned. Chiuse: consortium e private permissioned.
 **Distrattori:**
-- Aperte: public permissionless e consortium. Chiuse: public permissioned e private permissioned.
 - Aperte: public permissionless. Chiuse: public permissioned, consortium e private permissioned.
-- Aperte: public permissionless e public permissioned. Chiuse: private permissionless e private permissioned.
+- Fra i benefici come effetto generale della sandbox, sia pure con alcune esenzioni; fra i costi come ciò che manca dove sono permesse regole specifiche per ogni singolo partecipante.
+- La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; solo quella specifica e personalizzata è attività riservata.
 
 **D:** Nella public permissionless, chi può leggere, scrivere e impegnare? E quali esempi porta la tabella?
 **R:** Lettura *open to anyone*, scrittura *anyone*, *commit* *anyone*. Esempi: **Bitcoin, Ethereum**.
@@ -507,65 +500,62 @@
 **R:** Aver introdotto, **per primo fra i Paesi europei**, le **definizioni relative a DLT e *smart contract***.
 **Opzione:** Aver introdotto per primo fra i Paesi europei le definizioni di DLT e smart contract.
 **Distrattori:**
-- Aver introdotto per primo fra i Paesi europei le definizioni di DLT e criptovaluta.
 - Aver introdotto per primo al mondo le definizioni di DLT e smart contract.
-- Aver introdotto per primo fra i Paesi europei una disciplina organica della blockchain nel Codice dell'amministrazione digitale.
+- Permette di superare il tradizionale dualismo tra pubblico e privato, facendo coincidere i bisogni privati e pubblici.
 
 **D:** ⚠️ Che natura hanno le formulazioni adottate dal legislatore italiano su DLT e smart contract, e dove sono collocate?
 **R:** Sono di **natura generale ed astratta** e **non vengono ricondotte formalmente all'interno del Codice dell'amministrazione digitale (D.Lgs. n. 82/2005)**.
 **Opzione:** Natura generale ed astratta; non sono ricondotte formalmente al Codice dell'amministrazione digitale, il D.Lgs. n. 82/2005.
 **Distrattori:**
 - Natura generale ed astratta; sono ricondotte formalmente al Codice dell'amministrazione digitale, il D.Lgs. n. 82/2005.
-- Natura analitica e casistica; non sono ricondotte formalmente al Codice dell'amministrazione digitale, il D.Lgs. n. 82/2005.
-- Natura generale ed astratta; non sono ricondotte formalmente al Codice dell'amministrazione digitale, il D.Lgs. n. 82/2015.
+- Sono soft law e quindi non vincolanti, ma a chi decide di ignorarle può essere rilevante il principio comply or explain.
+- La stabilità di un sistema regolamentare già conosciuto, sviscerato e valutato da tribunali e giurisprudenza: un sistema di certezza.
 
 **D:** ⚠️ A chi è affidata la regolamentazione secondaria che deve riempire di contenuto le definizioni normative su DLT e smart contract, e a che punto è?
 **R:** All'**Agenzia per l'Italia Digitale (AGID)**, che deve adottare disposizioni attuative di carattere tecnico. Annunciate oltre un anno fa come di imminente pubblicazione, **non sono state ancora pubblicate le linee guida che dovevano essere adottate nel 2019**.
 **Opzione:** All'Agenzia per l'Italia Digitale; le linee guida che dovevano essere adottate nel 2019 non sono ancora state pubblicate.
 **Distrattori:**
-- All'Agenzia per l'Italia Digitale; le linee guida che dovevano essere adottate nel 2021 non sono ancora state pubblicate.
 - Al Comitato interministeriale per la transizione digitale; le linee guida che dovevano essere adottate nel 2019 non sono ancora state pubblicate.
-- Alla Banca d'Italia d'intesa con la Consob; le linee guida che dovevano essere adottate nel 2019 non sono ancora state pubblicate.
+- Sono promosse principalmente attraverso associazioni di categoria settoriali e ad hoc, e sono spesso convalidate dalle autorità nazionali competenti.
+- Prima non era neanche ritenuta degna di una menzione specifica nella regolamentazione finanziaria; con l'avvento della MiFID 2 è diventata un tema importante.
 
 **D:** ⚠️ Quale legge ha introdotto la definizione italiana di DLT, quale decreto ha convertito e quale articolo ha inserito?
 **R:** La **legge 11 febbraio 2019, n. 12**, che ha convertito in legge il **Decreto Legge n. 135/2018**, introducendo l'**art. 8-*ter***. È il c.d. decreto semplificazioni.
 **Opzione:** La legge 11 febbraio 2019, n. 12, di conversione del D.L. n. 135/2018, che ha introdotto l'art. 8-ter.
 **Distrattori:**
 - La legge 11 febbraio 2019, n. 135, di conversione del D.L. n. 12/2018, che ha introdotto l'art. 8-ter.
-- La legge 11 febbraio 2019, n. 12, di conversione del D.L. n. 135/2018, che ha introdotto l'art. 8-bis.
-- La legge 11 febbraio 2018, n. 12, di conversione del D.L. n. 135/2019, che ha introdotto l'art. 8-ter.
+- Natura generale ed astratta; non sono ricondotte formalmente al Codice dell'amministrazione digitale, il D.Lgs. n. 82/2005.
 
 **D:** ⚠️ Con quali aggettivi il comma 1 dell'art. 8-*ter* descrive il registro delle «tecnologie basate su registri distribuiti»?
 **R:** Un registro «**condiviso, distribuito, replicabile, accessibile simultaneamente, architetturalmente decentralizzato su basi crittografiche**».
 **Opzione:** Condiviso, distribuito, replicabile, accessibile simultaneamente, architetturalmente decentralizzato su basi crittografiche.
 **Distrattori:**
-- Condiviso, distribuito, replicabile, accessibile progressivamente, architetturalmente decentralizzato su basi crittografiche.
-- Condiviso, distribuito, replicabile, accessibile simultaneamente, architetturalmente centralizzato su basi crittografiche.
 - Condiviso, distribuito, immodificabile, accessibile simultaneamente, architetturalmente decentralizzato su basi crittografiche.
+- Culturale, prima che tecnologico, finanziario e normativo.
+- Peculiarità, unicità, personalizzazione e facilità di entrare nel mondo fintech, grazie a normative pensate apposta che ne agevolano lo sviluppo.
 
 **D:** ⚠️ Quali quattro operazioni sui dati devono consentire, secondo il comma 1 dell'art. 8-*ter*, le tecnologie basate su registri distribuiti?
 **R:** La **registrazione**, la **convalida**, l'**aggiornamento** e l'**archiviazione** di dati «sia in chiaro che ulteriormente protetti da crittografia verificabili da ciascun partecipante».
 **Opzione:** Registrazione, convalida, aggiornamento e archiviazione.
 **Distrattori:**
-- Registrazione, convalida, aggiornamento e cancellazione.
-- Registrazione, conservazione, aggiornamento e archiviazione.
 - Registrazione, convalida, distribuzione e archiviazione.
+- De-regolamentazione, Iper-regolamentazione, Auto-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo su quest'ultima.
 
 **D:** ⚠️ Con quale formula si chiude il comma 1 dell'art. 8-*ter* a proposito dei dati?
 **R:** «**Non alterabili e non modificabili**».
 **Opzione:** Non alterabili e non modificabili.
 **Distrattori:**
 - Non alterabili e non cancellabili.
-- Non alterabili e non replicabili.
-- Non modificabili e non trasferibili.
+- Tecnologie basate su registri distribuiti e smart contract.
+- Non rimane alcuna posizione di investimento significativa.
 
 **D:** ⚠️ Che cosa la definizione normativa italiana di DLT **non** distingue?
 **R:** Non opera «**alcuna distinzione in termini di *governance*, accesso o meccanismi di gestione del consenso**», sebbene siano elementi fondamentali delle piattaforme DLT.
 **Opzione:** Non distingue in termini di governance, accesso o meccanismi di gestione del consenso.
 **Distrattori:**
 - Non distingue in termini di governance, accesso o modificabilità dei dati.
-- Non distingue in termini di governance, replicabilità del registro o meccanismi di gestione del consenso.
-- Non distingue in termini di accesso, meccanismi di gestione del consenso o verificabilità dei dati.
+- Ogni transazione nei mercati finanziari si basa su dei contratti, i quali necessitano dell'applicazione della legge.
+- Sono soft law e quindi non vincolanti, ma a chi decide di ignorarle può essere rilevante il principio comply or explain.
 
 **D:** ⚠️ Perché la mancata distinzione in termini di governance, accesso e consenso è problematica?
 **R:** Perché, «portata alle sue estreme conseguenze, conduce al rischio che la definizione normativa **non ricomprenda proprio quella tipologia di blockchain che si sta maggiormente diffondendo** in alcuni settori (quali, ad esempio, quello **bancario e assicurativo**)».
@@ -580,8 +570,8 @@
 **Opzione:** Gli effetti della validazione temporale elettronica dell'articolo 41 del regolamento (UE) n. 910/2014, il regolamento eIDAS.
 **Distrattori:**
 - Gli effetti della firma elettronica qualificata dell'articolo 41 del regolamento (UE) n. 910/2014, il regolamento eIDAS.
-- Gli effetti della validazione temporale elettronica dell'articolo 41 del regolamento (UE) n. 910/2016, il regolamento eIDAS.
-- Gli effetti della validazione temporale elettronica dell'articolo 14 del regolamento (UE) n. 910/2014, il regolamento eIDAS.
+- Gli smart contracts sono immodificabili, con riferimento a recesso ed eccessiva onerosità.
+- La stabilità di un sistema regolamentare già conosciuto, sviscerato e valutato da tribunali e giurisprudenza: un sistema di certezza.
 
 **D:** Che cosa dimostra, per il docente, il comma 3 dell'art. 8-*ter* sul piano del paradigma regolamentare?
 **R:** La capacità del regolatore di **utilizzare vecchie norme adattandole alla nuova tecnologia**, rendendole «collegate e coerenti tra di loro». Il **rischio** è che «un quadro normativo pensato anni prima sia difficilmente adattabile alla nuova tecnologia» e generi *impasse* interpretative; la **forza** è che «crea un filo di coordinamento tra settori e normative diverse e distanti tra loro anche da un punto di vista temporale».
@@ -598,9 +588,8 @@
 **R:** Una sperimentazione per la **dematerializzazione dei certificati azionari**, con l'obiettivo dichiarato di **facilitare la certificazione per l'accesso al credito**.
 **Opzione:** Una sperimentazione per la dematerializzazione dei certificati azionari, per facilitare la certificazione per l'accesso al credito.
 **Distrattori:**
-- Una sperimentazione per la dematerializzazione dei certificati azionari, per facilitare la tracciabilità dei diritti di proprietà di beni e immobili.
 - Una sperimentazione per la verifica automatizzata di accordi e contratti, per facilitare la certificazione per l'accesso al credito.
-- Una piattaforma per l'archiviazione sicura dei dati relativi a transazioni finanziarie, per facilitare la certificazione per l'accesso al credito.
+- Una comunicazione della Commissione su una strategia finanziaria digitale per l'UE del settembre 2020, per regolare la finanza digitale promuovendo nuove imprese e proteggendo i consumatori dai rischi che ne derivano.
 
 **D:** ⚠️ A che cosa stanno lavorando Intesa SanPaolo, Eternity Wall e Deloitte, e con quale tecnica?
 **R:** A una piattaforma che garantisca l'**archiviazione sicura** e l'**immutabilità dei dati** relativi a transazioni finanziarie, mediante la tecnica del ***timestamping***.
@@ -647,24 +636,23 @@
 **Opzione:** La start-up LO3 Energy, nell'aprile 2016, sulla piattaforma TransActive Grid, evoluzione della piattaforma opensource Ethereum.
 **Distrattori:**
 - La start-up LO3 Energy, nell'aprile 2016, sulla piattaforma TransActive Grid, evoluzione della piattaforma opensource Bitcoin.
-- La start-up LO3 Energy, nell'aprile 2019, sulla piattaforma TransActive Grid, evoluzione della piattaforma opensource Ethereum.
-- Il consorzio guidato da R3, nell'aprile 2016, sulla piattaforma TransActive Grid, evoluzione della piattaforma opensource Ethereum.
+- Wien Energie, il maggiore fornitore di energia elettrica in Austria, con Bosch.
+- Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale gelata e paga se la gelata si verifica.
 
 **D:** ⚠️ Chi ha sviluppato, e con chi, un frigorifero che sfrutta la blockchain per identificare le fonti energetiche utilizzabili?
 **R:** **Wien Energie**, il maggiore fornitore di energia elettrica in Austria, in *partnership* con **Bosch**. ⚠️ Il nome dell'azienda compare **solo sulla slide**: il parlato dice soltanto «il maggior fornitore di energia elettrica in Austria».
 **Opzione:** Wien Energie, il maggiore fornitore di energia elettrica in Austria, con Bosch.
 **Distrattori:**
-- Wien Energie, il maggiore fornitore di energia elettrica in Austria, con Siemens.
 - LO3 Energy, il maggiore fornitore di energia elettrica in Austria, con Bosch.
-- Wien Energie, il maggiore fornitore di energia elettrica in Germania, con Bosch.
+- Ethereum è stata la prima; gran parte dei progetti, anche in ambienti permissioned, è basata su Ethereum.
 
 **D:** Che cosa permetteranno, secondo la slide, le possibilità di interazione diretta tra utenze offerte dalle blockchain nel settore energetico?
 **R:** Di **comprare e vendere elettricità attraverso scambi *peer-to-peer* semplificati e sicuri**, sia fra utenze industriali sia fra utenze domiciliari, grazie alla crescita del fotovoltaico domestico e alla natura sempre più «distribuita» del mercato elettrico.
 **Opzione:** Di comprare e vendere elettricità attraverso scambi peer-to-peer semplificati e sicuri, fra utenze sia industriali sia domiciliari.
 **Distrattori:**
 - Di comprare e vendere elettricità attraverso scambi peer-to-peer semplificati e sicuri, fra le sole utenze domiciliari.
-- Di comprare e vendere elettricità attraverso scambi intermediati dal fornitore, semplificati e sicuri, fra utenze sia industriali sia domiciliari.
-- Di certificare l'origine rinnovabile dell'elettricità acquistata, fra utenze sia industriali sia domiciliari.
+- Di annacquare il senso normativo, perché i pareri raccolti sono divergenti e talvolta inconciliabili.
+- Di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari per via delle scelte operative degli intermediari.
 
 **D:** Qual è la conclusione del docente sul perimetro regolamentare della blockchain?
 **R:** Che il quadro normativo non ha impedito alla blockchain di progredire e di avere «applicazioni così trasversali da porre numerosi quesiti in termini di regolamentazione»: accanto ai servizi finanziari ci sono *energy*, *healthcare*, «sistemi ed ecosistemi». Quindi «non si può regolamentare a comparti stagni, ma è necessario **creare un set regolamentare *ad hoc***».
@@ -692,8 +680,8 @@
 **Opzione:** Una piattaforma blockchain open-source, globale e decentralizzata.
 **Distrattori:**
 - Una piattaforma blockchain open-source, globale e centralizzata.
-- Una piattaforma blockchain proprietaria, globale e decentralizzata.
 - Un protocollo di scambio decentralizzato costruito sulla blockchain Bitcoin.
+- È contraddistinta da un elevato livello di personalizzazione delle esigenze del cliente.
 
 **D:** Attraverso quali applicazioni gli utenti interagiscono con l'ecosistema DeFi?
 **R:** «Attraverso applicazioni ***peer-to-peer* (P2P)** e **decentralizzate (*dapps*)**».
@@ -707,17 +695,17 @@
 **R:** 1) ***open source***; 2) ***permissionless*, ovvero disponibile a tutti**; 3) «che opera **senza nessuna autorità centrale**».
 **Opzione:** Open source; permissionless, ovvero disponibile a tutti; che opera senza nessuna autorità centrale.
 **Distrattori:**
-- Open source; permissioned, ovvero riservato ai partecipanti autorizzati; che opera senza nessuna autorità centrale.
 - Open source; permissionless, ovvero disponibile a tutti; che opera sotto la vigilanza di un'autorità centrale.
-- Proprietario; permissionless, ovvero disponibile a tutti; che opera senza nessuna autorità centrale.
+- Lettura aperta a chiunque, scrittura ai partecipanti autorizzati, commit a tutti o a un sottoinsieme dei partecipanti autorizzati.
+- Sempre più dipendenza dalla tecnologia; increasing interconnessione e complessità; economie di scala nelle applicazioni IT.
 
 **D:** Come gli utenti mantengono il pieno controllo dei propri asset nella DeFi?
 **R:** «Tramite il proprio ***address*** e la **chiave privata relativa**, interagendo attraverso **Dapp** e **Smart Contract (SC)**».
 **Opzione:** Tramite il proprio address e la chiave privata relativa, interagendo attraverso Dapp e Smart Contract.
 **Distrattori:**
 - Tramite il proprio address e la chiave pubblica relativa, interagendo attraverso Dapp e Smart Contract.
-- Tramite un conto aperto presso la piattaforma, interagendo attraverso Dapp e Smart Contract.
-- Tramite il proprio address e la chiave privata relativa, interagendo attraverso i siti Web degli exchange autorizzati.
+- Tramite processi legati alla fiducia reciproca, basati sul principio della maggioranza e su un sistema di validazione mediante proof of work o proof of stake.
+- A una piattaforma per l'archiviazione sicura e l'immutabilità dei dati su transazioni finanziarie, mediante la tecnica del timestamping.
 
 **D:** ⚠️ Quanti elenchi di vantaggi della DeFi contengono le slide, e che rapporto c'è fra loro?
 **R:** **Due, distinti.** La slide 5 chiude con un blocco «Vantaggi:» di **due** voci — «accesso ai servizi finanziari per tutti» e «potenziali nuovi mercati, prodotti e servizi finanziari». Le slide 6–7, sotto il titolo «Quali sono i **principali** vantaggi della DeFi?», ne elencano **sette**, e i due della slide 5 non vi compaiono con le stesse parole. Alla domanda sui **principali** vantaggi risponde il settetto delle slide 6–7.
@@ -742,17 +730,17 @@
 **R:** «I costi associati **all'offerta ed all'uso** dei prodotti sono **ridotti**». Sono due termini, non uno: offerta *e* uso; e sono **ridotti**, non azzerati.
 **Opzione:** All'offerta ed all'uso dei prodotti, e sono ridotti.
 **Distrattori:**
-- Alla sola offerta dei prodotti, e sono ridotti.
 - All'offerta ed all'uso dei prodotti, e sono azzerati.
-- All'offerta ed all'uso dei prodotti, e sono fissati dalla piattaforma.
+- Il crowdfunding, con 71 società.
+- US$110 miliardi.
 
 **D:** ⚠️ Che cosa rende l'utilizzo della blockchain, secondo il quarto vantaggio della DeFi?
 **R:** «Rende **estremamente difficile** che si verifichino **interruzioni di servizi o hackeraggi di sistema**». La parola è *difficile*, non *impossibile*: il docente stesso avverte che l'affermazione «potrebbe già essere in parte superata», perché casi di hackeraggio si sono verificati.
 **Opzione:** Rende estremamente difficile che si verifichino interruzioni di servizi o hackeraggi di sistema.
 **Distrattori:**
 - Rende impossibile che si verifichino interruzioni di servizi o hackeraggi di sistema.
-- Rende estremamente difficile che si verifichino interruzioni di servizi, ma non incide sugli hackeraggi di sistema.
-- Rende estremamente difficile che si verifichino errori di registrazione dei dati sul registro.
+- Di una più ampia gamma di individui solitamente privi di accesso ai servizi finanziari per via delle scelte operative degli intermediari.
+- Nessun cambiamento del quadro normativo: le autorità possono chiarire come i requisiti esistenti si applicano alle fintech, senza introdurre elementi specifici.
 
 **D:** ⚠️ Come relativizza il docente il vantaggio della sicurezza della blockchain?
 **R:** Dicendo che «anche questa affermazione potrebbe già essere **in parte superata** al giorno d'oggi proprio perché si sono verificati casi di hackeraggio», pur trattandosi di «casi ancora **molto isolati**» e riguardanti «blockchain un po' **amatoriali**», che «non rispettavano poi esattamente tutti i criteri tipici della blockchain». È una **discrepanza fra slide e transcript**: la slide afferma senza riserve, il docente ammorbidisce.
@@ -785,17 +773,17 @@
 **R:** *Stablecoins*: **MakerDAO**. Exchange decentralizzati: **Uniswap, Kyber network, 0x**. Protocolli di prestito P2P: **Compound, Aave**.
 **Opzione:** MakerDAO; Uniswap, Kyber network e 0x; Compound e Aave.
 **Distrattori:**
-- Compound e Aave; Uniswap, Kyber network e 0x; MakerDAO.
 - MakerDAO; Compound e Aave; Uniswap, Kyber network e 0x.
-- Nexus Mutual; Uniswap, Kyber network e 0x; Synthetix e UMA.
+- Synthetix e UMA; dYdX; Nexus Mutual; Augur.
+- L'IA, l'internet delle cose (IoT) e la blockchain.
 
 **D:** Quali piattaforme la slide porta a esempio di titoli sintetici, trading a leva decentralizzato, assicurazioni e mercati delle predizioni?
 **R:** Titoli sintetici: **Synthetix, UMA**. Trading a leva decentralizzato: **dYdX**. Assicurazioni: **Nexus Mutual**. Mercati delle predizioni: **Augur**.
 **Opzione:** Synthetix e UMA; dYdX; Nexus Mutual; Augur.
 **Distrattori:**
 - Synthetix e UMA; Augur; Nexus Mutual; dYdX.
-- dYdX; Synthetix e UMA; Augur; Nexus Mutual.
-- Synthetix e UMA; dYdX; Augur; Compound e Aave.
+- Lombardia, foreign countries, Lazio.
+- Italia, Regno Unito, Spagna, Australia e Svizzera.
 
 **D:** ⚠️ Quali categorie di servizi DeFi esistono solo sulle slide e non nel transcript?
 **R:** Tre su sette: **titoli sintetici** (Synthetix, UMA), **trading a leva decentralizzato** (dYdX) e **mercati delle predizioni** (Augur). Il docente commenta soltanto *stablecoins*, exchange decentralizzati, protocolli di prestito P2P e assicurazioni, e l'unica piattaforma che nomina è «Makerdeo», cioè MakerDAO. Chi studia sul parlato non incontra mai le altre.
@@ -805,8 +793,8 @@
 **Opzione:** Costi ridotti, tempi istantanei o quasi, automatizzazione completa, costi di commissione molto bassi.
 **Distrattori:**
 - Costi ridotti, tempi istantanei o quasi, automatizzazione parziale, costi di commissione molto bassi.
-- Costi ridotti, tempi istantanei o quasi, automatizzazione completa, costi di commissione allineati a quelli bancari.
-- Costi ridotti, tempi di regolamento a due giorni, automatizzazione completa, costi di commissione molto bassi.
+- Condiviso, distribuito, replicabile, accessibile simultaneamente, architetturalmente decentralizzato su basi crittografiche.
+- Culturale, prima che tecnologico, finanziario e normativo.
 
 **D:** ⚠️ Qual è il *downside* dei protocolli di prestito peer-to-peer secondo il docente?
 **R:** È **a catena**. Le piattaforme prestano «in misura limitata» e con «un *assessment* del cliente più superficiale», quindi la prima domanda è «il cliente è affidabile? Ripaga?». Ma il punto è il secondo passaggio: «se la piattaforma subisce dei danni per colpa di alcuni **malpagatori**, questo si ripercuote **a cascata** poi sugli altri clienti della piattaforma». La contropartita dell'agilità è il trasferimento del rischio sugli altri utenti.
@@ -831,9 +819,9 @@
 **R:** «Sebbene esistano diverse piattaforme che implementano gli *Smart Contract*, **Ethereum è stata la prima**. Gran parte dei progetti **anche in ambienti *permissioned*** è basata su Ethereum».
 **Opzione:** Ethereum è stata la prima; gran parte dei progetti, anche in ambienti permissioned, è basata su Ethereum.
 **Distrattori:**
-- Ethereum è stata la prima; gran parte dei progetti, ma solo in ambienti permissionless, è basata su Ethereum.
 - Bitcoin è stata la prima; gran parte dei progetti, anche in ambienti permissioned, è basata su Ethereum.
 - Ethereum è oggi l'unica piattaforma che implementa gli smart contract.
+- Aver introdotto per primo fra i Paesi europei le definizioni di DLT e smart contract.
 
 **D:** ⚠️ Che cosa dice la slide che uno smart contract *non* è, e che cosa dice che è?
 **R:** «Uno smart contract **non è intelligente** e **non è un contratto**». È invece «una **stringa di codice software** in grado di **auto-eseguirsi** quando vengono soddisfatte **determinate condizioni predefinite**», e può essere «ospitato su una blockchain ed eseguire automaticamente le operazioni predefinite». È la formula d'apertura del docente: «diciamo che cosa **non è** uno smart contract».
@@ -849,7 +837,7 @@
 **Distrattori:**
 - Fonti di informazione onchain che forniscono input a smart contract offchain.
 - Nodi della blockchain incaricati di validare le transazioni eseguite dagli smart contract.
-- Fonti di informazione offchain che ricevono in output i risultati degli smart contract onchain.
+- I crimini dei colletti bianchi: il loro progressivo affinamento rendeva le direttive precedenti vetuste e desuete, imponendone la successione.
 
 **D:** ⚠️ In quali due categorie si dividono gli oracoli, e che cosa comprende ciascuna?
 **R:** ***Oracle Users***: terzi affidabili (banche, indici, borse) e utenti in massa, secondo il principio della «saggezza della folla». ***Oracle machines***: macchinari (*i.e.* sensori) e software. La bipartizione va tenuta ferma: gli oracoli **non sono solo macchine**.
@@ -864,40 +852,40 @@
 **Opzione:** Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale gelata e paga se la gelata si verifica.
 **Distrattori:**
 - Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale uragano e paga se l'uragano si verifica.
-- Compra un carico di ananas alle Hawaii; lo smart contract verifica ogni giorno l'eventuale gelata e paga se la gelata si verifica.
-- Compra una piantagione di ananas alle Hawaii; lo smart contract verifica ogni mese l'eventuale gelata e paga se la gelata si verifica.
+- Sblocca la bici al momento del deposito; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
+- Soprattutto sugli operatori tradizionali, perché il prezzo del servizio si paga solo sulle transazioni che vanno a buon fine, mentre gli ordini improduttivi dell'HFT non pagano alcun corrispettivo.
 
 **D:** Quali due operazioni automatizza lo smart contract nel caso dell'assicurazione, e quale ne è l'oracolo?
 **R:** Automatizza i **pagamenti mensili** da Patti a PineSafe e le **verifiche giornaliere** sull'evento di gelata, con pagamento se la gelata si verifica. L'oracolo è lo **U.S. Weather Service**, che la slide indica espressamente come tale: «questa autorità terza è ciò che si chiama un oracolo».
 **Opzione:** I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è lo U.S. Weather Service.
 **Distrattori:**
-- Le verifiche mensili sull'evento di gelata e i pagamenti giornalieri da Patti a PineSafe; l'oracolo è lo U.S. Weather Service.
 - I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è la stessa PineSafe.
-- I pagamenti mensili da Patti a PineSafe e le verifiche giornaliere sull'evento di gelata; l'oracolo è il principio della saggezza della folla.
+- €700k di median funding per startup; le principali fonti di investimento sono i Business Angels e le risorse personali.
+- È obbligatorio per qualsiasi cliente che voglia entrare in discorsi di investimento con gli intermediari, e serve non solo a essere compliant ma proprio a classificare il profilo dell'investitore.
 
 **D:** Che cosa fa lo smart contract in esecuzione nel caso d'uso del noleggio di mezzi di trasporto?
 **R:** «Traccia e trasferisce **tariffe, multe, pagamenti e rimborsi**; **allerta RentCo** se Jane esce dall'**area di servizio**; **blocca e sblocca** il mezzo». L'oracolo è il **Ride Tracking Service**, che traccia **posizione, velocità e incidenti**; Jane può vedere i *record* delle sue corse sulla blockchain.
 **Opzione:** Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
 **Distrattori:**
-- Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta Jane se RentCo esce dall'area di servizio; blocca e sblocca il mezzo.
 - Traccia ma non trasferisce tariffe, multe, pagamenti e rimborsi; allerta RentCo se Jane esce dall'area di servizio; blocca e sblocca il mezzo.
-- Traccia e trasferisce tariffe, multe, pagamenti e rimborsi; allerta l'assicurazione se Jane ha un incidente; blocca e sblocca il mezzo.
+- Best practices per gli intermediari; principi guida per la progettazione di strumenti automatici; best practices per le autorità di vigilanza.
+- North America 43 unicorni, US$156,8 mld; Asia 15 unicorni, US$223,5 mld; Europe 14 unicorni, US$32,65 mld; South America 3 unicorni, US$12 mld; Oceania 2 unicorni, US$2,4 mld.
 
 **D:** In quale momento lo smart contract sblocca la bici, e dove Jane la restituisce?
 **R:** Lo sblocco avviene **al momento del deposito** (*upon deposit*); Jane restituisce la bici a un **punto di noleggio diverso** da quello di partenza (*a different rental point*). ⚠️ Il transcript rende il secondo punto come «un punto di consegna che è distante un sacco di miglia»: la slide dice **diverso**, non **lontano**.
 **Opzione:** Sblocca la bici al momento del deposito; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
 **Distrattori:**
-- Sblocca la bici al termine della corsa; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
 - Sblocca la bici al momento del deposito; Jane la restituisce allo stesso punto di noleggio da cui era partita.
-- Sblocca la bici al momento della prenotazione; Jane la restituisce a un punto di noleggio diverso da quello di partenza.
+- Con ordini del tipo immediate-or-cancel, che servono a sondare le condizioni di mercato.
+- Oracle Users, cioè terzi affidabili come banche, indici e borse e utenti in massa secondo il principio della saggezza della folla; e Oracle machines, cioè macchinari come i sensori e software.
 
 **D:** ⚠️ A che cosa serve la blockchain, secondo il primo dei falsi miti smentiti dalla slide?
 **R:** «Blockchain serve per eseguire le transazioni: **no, serve per registrare le informazioni**». Da qui la seconda voce: «potrei anche **registrare un contratto in bc solo per conservarlo**» — molti usano infatti la blockchain come **archivio sostitutivo**.
 **Opzione:** Non a eseguire le transazioni, ma a registrare le informazioni.
 **Distrattori:**
 - Non a registrare le informazioni, ma a eseguire le transazioni.
-- Sia a eseguire le transazioni sia a registrare le informazioni, indifferentemente.
-- A eseguire le transazioni e, solo in ambienti permissioned, a registrare le informazioni.
+- Per la presenza di capitali e per la presenza di un certo numero di tecnologie da sempre utilizzate nel mondo della finanza milanese — la borsa, gli scambi monetari.
+- Differenti: ogni epoca culturale ne ha creati, e le criptoattività non fanno eccezione.
 
 **D:** ⚠️ Con quale voce si chiude l'elenco dei falsi miti?
 **R:** Con «gli smart contracts sono **immodificabili** (**recesso, eccessiva onerosità**,…)». La penultima è «gli smart contracts **rendono inoperanti istituti della nullità**…». ⚠️ Sono le **due voci che il transcript non tocca**: esistono solo sulle slide, e sono i tre istituti civilistici — nullità, recesso, eccessiva onerosità — che il corso mette in tensione con l'autoesecuzione.
@@ -937,8 +925,8 @@
 **Opzione:** Che sia integro dal punto di vista morale, capace di validare i modelli e di comprenderli, e che tecnologicamente non abbia dubbi.
 **Distrattori:**
 - Che sia iscritto a un albo professionale, capace di validare i modelli e di comprenderli, e che tecnologicamente non abbia dubbi.
-- Che sia integro dal punto di vista morale e capace di validare i modelli, senza che sia richiesto di comprenderli.
-- Che sia integro dal punto di vista morale, capace di validare i modelli e di comprenderli, e che risponda in solido dei danni causati.
+- Personalizzazione della raccomandazione; raccomandazione in linea con il profilo di investimento del destinatario; oggetto inerente ad una o più operazioni relative a strumenti finanziari.
+- Consumatori e linguaggio comprensibile contro linguaggio di programmazione.
 
 **D:** ⚠️ Quale obiezione muove il docente agli oracoli, e a quali oracoli del caso d'uso si applica?
 **R:** «Qual è l'**affidabilità** della cosiddetta ***vox populi*** o del sentire popolare? Qual è la **trasparenza di un sito meteo** quando magari il sito meteo **non ha la capacità di vedere con completezza le informazioni** di un determinato territorio o di un determinato periodo temporale?». Colpisce esattamente i due oracoli già visti: la **saggezza della folla** fra gli *Oracle Users* e lo **U.S. Weather Service** del caso Patti.
@@ -949,7 +937,7 @@
 **Distrattori:**
 - Tecnologie basate su registri distribuiti e criptovalute.
 - Smart contract e finanza decentralizzata.
-- Tecnologie basate su registri distribuiti e validazione temporale elettronica.
+- Principi di alto livello, con implementazione nazionale — regolamentazione e supervisione — fortemente divergente.
 
 **D:** Qual è la definizione normativa di smart contract data dall'art. 8-*ter* comma 2?
 **R:** «Un **programma per elaboratore** che opera su **tecnologie basate su registri distribuiti** e la cui **esecuzione vincola automaticamente due o più parti sulla base di effetti predefiniti dalle stesse**».
@@ -980,8 +968,8 @@
 **Opzione:** Entro novanta giorni dall'entrata in vigore della legge di conversione, ai fini della produzione degli effetti della validazione temporale.
 **Distrattori:**
 - Entro centottanta giorni dall'entrata in vigore della legge di conversione, ai fini della produzione degli effetti della validazione temporale.
-- Entro novanta giorni dall'entrata in vigore del decreto-legge, ai fini della produzione degli effetti della validazione temporale.
-- Entro novanta giorni dall'entrata in vigore della legge di conversione, ai fini del riconoscimento della forma scritta degli smart contract.
+- Perché rischia di non ricomprendere proprio la tipologia di blockchain che si sta maggiormente diffondendo, per esempio nel settore bancario e assicurativo.
+- Sì, ma previa identificazione informatica delle parti interessate, attraverso un processo avente i requisiti fissati dall'Agenzia per l'Italia digitale.
 
 **D:** ⚠️ Perché il docente considera l'AGID un caso esemplare della tesi della prima lezione?
 **R:** Perché «assume un **ruolo centrale nella normazione di questi nuovi istituti**» ed è «un classico esempio di quello che dicevamo nella nostra prima fondamentale lezione: **nuovi modelli normativi, nuovi attori** che riescano a normare un settore tanto nuovo e diverso sono necessari». Da qui la richiesta di competenze: nelle nuove agenzie serve «personale altamente qualificato **non solo** da un punto di vista normativo, **ma per esempio anche ingegneri, programmatori, gente IT**», perché DeFi e smart contract «non sono più una questione legale solo, ma anche e soprattutto **interazione tra diversi settori: tecnologia, finanza, IT e certamente regolamentazione finanziaria**».
@@ -1001,8 +989,8 @@
 **Opzione:** Nel P2P lending, cioè finanziamenti concessi da privati a privati o a imprese, e nell'equity crowdfunding.
 **Distrattori:**
 - Nel P2P lending, cioè finanziamenti concessi da banche a privati o a imprese, e nell'equity crowdfunding.
-- Nel P2P lending, cioè finanziamenti concessi da privati a privati o a imprese, e nel lending crowdfunding assicurativo.
-- Nel credit-scoring, cioè nella valutazione del rischio di credito, e nell'equity crowdfunding.
+- Nel registro tenuto dall'OAM, ex art. 128-undecies TUB.
+- Un neologismo mutuato dal mondo Fintech, dall'unione di insurance e technology: un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia dei prodotti assicurativi.
 
 **D:** ⚠️ Qual è la definizione di Robo-advisory data dalle slide?
 **R:** «La Robo-advisory è tra le **espressioni più rilevanti** nell'ambito dei servizi FinTech. Consiste in un servizio dedicato alla **pianificazione e gestione del patrimonio personale** attraverso una **piattaforma telematica** che, mediante **elaborazioni algoritmiche**, fornisce o consente di fornire (*Robo4advisor*) consigli per la costruzione di un **portafoglio di investimento rispondente alle caratteristiche dell'utente**». Consente ai potenziali investitori di ottenere consigli o gestire portafogli personalizzati «**senza l'intermediazione di un consulente tradizionale**» — è il tema della **disintermediazione**, che per il docente è «un potenziale primo vantaggio, un **abbattimento di costi**».
@@ -1024,9 +1012,9 @@
 **R:** **Conoscenza ed esperienza finanziaria**, **situazione patrimoniale**, **obiettivi di investimento ed orizzonte temporale**, ***risk appetite***. Serve «per la **classificazione del profilo dell'investitore**».
 **Opzione:** Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, risk appetite.
 **Distrattori:**
-- Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, residenza fiscale.
 - Conoscenza ed esperienza finanziaria, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, merito creditizio.
-- Titolo di studio, situazione patrimoniale, obiettivi di investimento ed orizzonte temporale, risk appetite.
+- Al tipo di cliente, al rapporto continuativo, alla prestazione professionale, al prodotto o alla transazione; tenendo conto di peculiarità, dimensioni e complessità del soggetto obbligato.
+- L'identità digitale certificata e lo SPID, con il dubbio aperto sulla loro sostituibilità rispetto alla presenza fisica.
 
 **D:** A chi va sottoposto il questionario MiFID e a che cosa serve, secondo il docente?
 **R:** È «un questionario **obbligatorio** da sottoporre a **qualsiasi cliente** che voglia entrare in discorsi di investimento con gli intermediari», e serve «**non solo** per essere *compliant* con questa normativa MiFID, **ma proprio per classificare il profilo dell'investitore**, cioè che tipo di investimenti si potranno proporre a questo investitore».
@@ -1040,9 +1028,9 @@
 **R:** **Generazione I, *stand alone* Robo-advisors**; **Generazione II, *integrated* Robo-advisors**; **Generazione III, *cognitive* Robo-advisors**.
 **Opzione:** Generazione I, stand alone Robo-advisors; Generazione II, integrated Robo-advisors; Generazione III, cognitive Robo-advisors.
 **Distrattori:**
-- Generazione I, stand alone Robo-advisors; Generazione II, integrated Robo-advisors; Generazione III, autonomous Robo-advisors.
-- Generazione I, stand alone Robo-advisors; Generazione II, cognitive Robo-advisors; Generazione III, integrated Robo-advisors.
 - Generazione I, puri Robo-advisors; Generazione II, ibridi Robo-advisors; Generazione III, robo4advisor.
+- Parte I, Parte Terza e Parte V rispettivamente.
+- Art. 2, art. 21 e art. 36 rispettivamente.
 
 **D:** Che cosa caratterizza la Generazione I dei Robo-advisors?
 **R:** Sono gli ***stand alone* Robo-advisors**: «il **target è direttamente il consumatore finale**, permette una **visione completa del portafoglio**, e di ottenere ***financial advices* e ribilanciamento automatico**».
@@ -1073,8 +1061,8 @@
 **Opzione:** Nel Quaderno Consob, FinTech n. 1, 2018: puro, ibrido, robo4advisor.
 **Distrattori:**
 - Nel Quaderno Consob, FinTech n. 1, 2018: stand alone, integrated, cognitive.
-- Nel Report IOSCO del 2014: puro, ibrido, robo4advisor.
-- Nel Quaderno Consob, FinTech n. 1, 2018: puro, ibrido, cognitive.
+- Nel P2P lending, cioè finanziamenti concessi da privati a privati o a imprese, e nell'equity crowdfunding.
+- Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 30 luglio 2019.
 
 **D:** ⚠️ Che cos'è il modello «ibrido» di consulenza automatizzata, e che cos'è il «robo4advisor»?
 **R:** Il modello «**ibrido**» è quello in cui «in diverse misure è possibile riscontrare l'**intervento umano**»; il «**robo4advisor**» è quello in cui «lo **strumento automatizzato si pone al servizio del consulente persona fisica**». Il modello «**puro**» è invece l'«automatizzazione del servizio offerto **in tutte le sue fasi**».
@@ -1121,16 +1109,16 @@
 **Opzione:** Integrità IT, registri e archiviazione dei dati, gestione dei potenziali rischi.
 **Distrattori:**
 - Integrità IT, registri e archiviazione dei dati, adeguatezza patrimoniale della piattaforma.
-- Integrità IT, pubblicazione del codice sorgente dell'algoritmo, gestione dei potenziali rischi.
-- Riservatezza dei dati personali, registri e archiviazione dei dati, gestione dei potenziali rischi.
+- Banking services 51%, investment services 23%, marketing e Big Data e security 17%, insurance services 9%.
+- Di risorse adeguate per competenze tecnico-professionali e in termini finanziari, in relazione al compito e all'esposizione al rischio; e di un responsabile persona fisica con i requisiti del responsabile antiriciclaggio.
 
 **D:** ⚠️ Quali autorità hanno pubblicato il *Discussion paper on automation in financial advice*, e in quale data?
 **R:** Le **tre autorità di vigilanza europee — EBA, ESMA ed EIOPA** — il **4 dicembre 2015**.
 **Opzione:** Le tre autorità di vigilanza europee EBA, ESMA ed EIOPA, il 4 dicembre 2015.
 **Distrattori:**
-- Le tre autorità di vigilanza europee EBA, ESMA ed EIOPA, il 4 dicembre 2014.
-- IOSCO, insieme alla CONSOB, il 4 dicembre 2015.
 - Le tre autorità di vigilanza europee EBA, ESMA e BCE, il 4 dicembre 2015.
+- Il dipartimento della Banca d'Italia preposto a ricevere le segnalazioni antiriciclaggio.
+- Il D.L. 1° marzo 2021, n. 22, art. 8, presso la Presidenza del Consiglio dei ministri.
 
 **D:** Quali sono i tre principali scopi del *Discussion paper on automation in financial advice*?
 **R:** A) **ricostruire le principali caratteristiche dei *tools*** utilizzati nel servizio di consulenza automatizzata; B) fornire una **valutazione preliminare dei benefici e dei rischi** connessi alla diffusione di tale modello di servizio; C) illustrare le **prospettive di sviluppo del segmento di mercato**.
@@ -1177,16 +1165,16 @@
 **Opzione:** La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; solo quella specifica e personalizzata è attività riservata.
 **Distrattori:**
 - La consulenza generale è rivolta a un pubblico diffuso ed è attività riservata; quella specifica e personalizzata è mera attività promozionale.
-- La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; quella specifica è riservata solo su strumenti complessi.
-- La consulenza generale è rivolta a un pubblico diffuso ed è mera attività promozionale; entrambe costituiscono attività riservata.
+- Tutte le fasi solo agli intermediari finanziari e bancari; ai terzi la sola identificazione di cliente, esecutore e titolare effettivo.
+- Quando le omissioni nei controlli abbiano reso possibile il verificarsi di violazioni alla normativa antiriciclaggio.
 
 **D:** ⚠️ Quali soggetti possono gestire una piattaforma di Robo-advice che offre consulenza specifica?
 **R:** Solo i **soggetti autorizzati alla prestazione del servizio di consulenza in materia di investimenti**: «segnatamente, **intermediari bancari, SIM, SGR** nonché i **consulenti finanziari di cui agli artt. 18-*bis* e 18-*ter* del D.lgs. 58/1998 (TUF)**» — cioè, precisa il docente, soggetti «**autorizzati da Consob o Banca d'Italia**».
 **Opzione:** Intermediari bancari, SIM, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 58/1998 (TUF).
 **Distrattori:**
 - Intermediari bancari, SIM, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 385/1993 (TUB).
-- Intermediari bancari, SIM, SGR e qualunque società tecnologica iscritta nel registro delle imprese che gestisca una piattaforma telematica.
-- Intermediari bancari, imprese di assicurazione, SGR e i consulenti finanziari di cui agli artt. 18-bis e 18-ter del D.lgs. 58/1998 (TUF).
+- Un soggetto o struttura designato dalle banche IMEL o IP comunitari operanti in regime di diritto di stabilimento senza succursale tramite gli agenti di cui all'art. 128-quater TUB, diverso dagli agenti in attività finanziaria.
+- Il solo network operator, sia in scrittura sia in commit.
 
 **D:** ⚠️ Quali attività restano escluse dalla riserva, e per quale motivo?
 **R:** L'**attività di asset allocation finanziaria**, la **presentazione di portafogli modello per investitori tipo** e la **consulenza generica**, «in quanto **mancanti del requisito della personalizzazione**».
@@ -1216,9 +1204,9 @@
 **R:** Con ordini del tipo ***immediate-or-cancel***, «che servono a **sondare le condizioni di mercato**».
 **Opzione:** Con ordini del tipo immediate-or-cancel, che servono a sondare le condizioni di mercato.
 **Distrattori:**
-- Con ordini del tipo immediate-or-cancel, che servono a garantire l'esecuzione integrale della transazione al prezzo migliore.
 - Con ordini con limite di prezzo validi fino a revoca, che servono a sondare le condizioni di mercato.
-- Con ordini del tipo immediate-or-cancel, che servono a consolidare la posizione sul capitale azionario dell'emittente.
+- Attraverso applicazioni peer-to-peer (P2P) e decentralizzate (dapps).
+- Non rimane alcuna posizione di investimento significativa.
 
 **D:** ⚠️ Quale quota degli ordini di transazione HFT si trasforma in un contratto?
 **R:** «La **quasi totalità degli ordini di transazione non giunge a una conclusione**: in una situazione tipica, si trasforma in un contratto **solo l'1% delle proposte di transazione**».
@@ -1361,8 +1349,8 @@
 **Opzione:** MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
 **Distrattori:**
 - MiFID II/MiFIR; AML/CFT; requisiti prudenziali; AIFMD/UCITS; «Regolamento MiCA».
-- MiFID II/MiFIR; AML/CFT; requisiti prudenziali; PSD2; «Regolamento Prospetto».
-- MiFID II/MiFIR; GDPR; requisiti prudenziali; AIFMD/UCITS; «Regolamento Prospetto».
+- Immutabilità, trasparenza ed efficienza.
+- La start-up LO3 Energy, nell'aprile 2016, sulla piattaforma TransActive Grid, evoluzione della piattaforma opensource Ethereum.
 
 **D:** Perché, secondo il docente, la revisione della legislazione esistente è più complicata dell'adozione di nuove norme?
 **R:** Perché «si tratta di **coordinare e rendere organiche delle normative che nascevano in epoche diverse, in periodi diversi, scritte con linguaggi diversi**»: è «un passaggio non semplicissimo, che sta **richiedendo tempo** e che richiederà sempre di più un **affinamento delle abilità dei nostri legislatori** di coordinare le varie normative esistenti con quelle del futuro». L'UE procede infatti «in **parallelo**», portando avanti nuova normativa e al tempo stesso creando «un **collante** con la normativa esistente».
@@ -1409,8 +1397,8 @@
 **Opzione:** De-regolamentazione, Iper-regolamentazione, Auto-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo su quest'ultima.
 **Distrattori:**
 - De-regolamentazione, Iper-regolamentazione, Auto-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo sulla de-regolamentazione.
-- De-regolamentazione, Iper-regolamentazione, Co-regolamentazione e Sandbox regolamentare, con il punto interrogativo solo su quest'ultima.
-- Stato regolamentare invariato, Regolamentazione specifica, In via di sviluppo e Attività non consentita, con il punto interrogativo solo sull'ultima.
+- Imprese produttive, istituti bancari e assicurativi, fornitori di servizi regolati, operatori della logistica e della grande distribuzione.
+- Lettura aperta a chiunque, scrittura ai partecipanti autorizzati, commit a tutti o a un sottoinsieme dei partecipanti autorizzati.
 
 **D:** Perché, secondo le slide, l'iper-regolamentazione è diventata l'approccio predominante?
 **R:** «Negli ultimi anni, **dopo alcuni scandali finanziari** che hanno evidenziato l'**inadeguatezza dei controlli in atto**, l'approccio che sembra essere predominante è quello di **iper-regolamentare il mondo finanziario**». Il docente vi legge «una sorta di **paura dei regolatori**».
@@ -1465,8 +1453,8 @@
 **Opzione:** Italia, Regno Unito, Spagna, Australia e Svizzera.
 **Distrattori:**
 - Solo Italia, Regno Unito, Spagna e Svizzera.
-- Italia, Regno Unito, Spagna, Australia e Stati Uniti.
-- Italia, Francia, Germania, Spagna e Regno Unito.
+- Decentralizzazione, trasparenza, sicurezza, immutabilità.
+- Un hash, che serve a raggruppare e memorizzare i dati.
 
 **D:** ⚠️ Quali benefici della sandbox regolamentare elencano le slide?
 **R:** **Quattro**: 1) le imprese «possono **avvantaggiarsi di regole meno stringenti** sebbene **sotto la continua sorveglianza delle Autorità di vigilanza competenti**, **evitando i rischi di non *compliance* o sanzioni** correlate all'attività svolta»; 2) «i **legislatori ed i regolatori** possono **testare il proprio approccio e dialogo con i *players* del mercato**, adottando un'**applicazione collaborativa delle regole** che beneficia di uno **scambio informale di informazioni** con le imprese»; 3) le imprese «possono **testare la validità dei loro prodotti e servizi con i reali clienti ed investitori**»; 4) «permettono l'**armonizzazione** — anche se con alcune esenzioni dalle regole ordinarie — e quindi prevedono **meno costi di conformità** per le imprese».
@@ -1520,7 +1508,7 @@
 **Distrattori:**
 - Il pacchetto normativo in materia di abuso di mercato.
 - I reati finanziari commessi mediante criptovalute.
-- Il pacchetto normativo in materia di antiriciclaggio e la vigilanza della Consob sui crypto-exchange.
+- Fonti di informazione offchain che forniscono input a smart contract onchain.
 
 **D:** ⚠️ Quante direttive antiriciclaggio dice di comprendere il pacchetto normativo secondo la formula della slide, e quante ne elenca in realtà il deck?
 **R:** La slide dice «il pacchetto normativo sulla regolamentazione dei servizi finanziari comprende **quattro** direttive in materia di antiriciclaggio», ma poi il deck ne descrive **cinque** (I, II, III, IV e V). Il docente ripete il numero della slide — «comprende quattro direttive sostanzialmente» — e aggiunge che «in realtà il quadro è un po' più complesso di queste quattro direttive», perché «le altre sono più dei raffinamenti di qualcosa che c'era già prima». La citazione letterale resta «quattro»; le direttive studiate sono cinque.
@@ -1535,8 +1523,8 @@
 **Opzione:** Direttiva 91/308/CEE del 10 giugno 1991.
 **Distrattori:**
 - Direttiva 91/308/CEE del 10 dicembre 1991.
-- Direttiva 91/380/CEE del 10 giugno 1991.
-- Direttiva 91/308/CE del 4 dicembre 1991.
+- D.Lgs. 4 ottobre 2019, n. 125, emanato in attuazione alla V direttiva antiriciclaggio.
+- MakerDAO; Uniswap, Kyber network e 0x; Compound e Aave.
 
 **D:** ⚠️ Quale ruolo affida la prima direttiva antiriciclaggio al sistema finanziario, e a chi lo affida?
 **R:** «Si è inteso **affidare al sistema finanziario (alle banche ed agli intermediari finanziari) un ruolo di prevenzione del crimine attraverso il compito di esaminare le transazioni finanziarie**». I destinatari sono quindi **banche e intermediari finanziari**, e il compito è **esaminare le transazioni**: non segnalarle, non bloccarle.
@@ -1559,8 +1547,7 @@
 **Opzione:** Direttiva 2005/60/CE, che estende l'ambito di applicazione anche al finanziamento delle attività terroristiche.
 **Distrattori:**
 - Direttiva 2005/60/CE, che estende l'ambito di applicazione anche ai prestatori di servizi di portafoglio digitale.
-- Direttiva 2006/50/CE, che estende l'ambito di applicazione anche al finanziamento delle attività terroristiche.
-- Direttiva 2005/60/CE, che restringe l'ambito di applicazione alle sole operazioni transfrontaliere di importo rilevante.
+- Che sia integro dal punto di vista morale, capace di validare i modelli e di comprenderli, e che tecnologicamente non abbia dubbi.
 
 **D:** ⚠️ Come sono strutturati gli obblighi di identificazione previsti dalla terza direttiva antiriciclaggio?
 **R:** Su **tre livelli**: 1) le **disposizioni di carattere generale** che si applicano alla verifica della clientela nei quattro casi a)–d); 2) l'**identificazione semplificata** («obblighi semplificati di adeguata verifica della clientela») in presenza di **operazioni che presentano basso rischio**; 3) la previsione di un **obbligo di diligenza «rafforzato»** («obblighi rafforzati di adeguata verifica della clientela») in presenza di **operazioni transfrontaliere** o di **soggetti politicamente esposti**. ⚠️ La struttura è **4 + 1 + 1**, non un elenco di sei voci: i casi a)–d) stanno tutti dentro il primo livello.
@@ -1583,8 +1570,7 @@
 **Opzione:** Importo pari o superiore a 15000 euro, e vale soltanto per le transazioni occasionali della lettera b).
 **Distrattori:**
 - Importo superiore a 15000 euro, e vale soltanto per le transazioni occasionali della lettera b).
-- Importo pari o superiore a 15000 euro, e vale per tutti e quattro i casi in cui scatta la verifica della clientela.
-- Importo pari o superiore a 50000 euro, e vale soltanto per le transazioni occasionali della lettera b).
+- Con più di 10 sedi nello Stato membro ospitante, oppure con moneta elettronica distribuita e rimborsata o valore cumulato delle operazioni di pagamento oltre 3 milioni di euro nell'esercizio.
 
 **D:** ⚠️ Le lettere b) e c) contengono entrambe un «indipendentemente»: che cosa rendono indifferente, rispettivamente?
 **R:** Sono **due clausole distinte, non una ripetuta**. Alla lettera **b)** l'indifferenza è al **frazionamento** dell'operazione: «indipendentemente dal fatto che siano effettuate con **un'operazione unica o con diverse operazioni che appaiono collegate**». Alla lettera **c)** l'indifferenza è a **deroghe, esenzioni e soglie**: «indipendentemente da **qualsiasi deroga, esenzione o soglia applicabile**».
@@ -1615,16 +1601,14 @@
 **Opzione:** Direttiva UE 2015/849, recepita in Italia con D.lgs n. 90/2017.
 **Distrattori:**
 - Direttiva UE 2015/849, recepita in Italia con D.lgs n. 125/2019.
-- Direttiva UE 2018/843, recepita in Italia con D.lgs n. 90/2017.
-- Direttiva UE 2015/849, recepita in Italia con D.lgs n. 90/2015.
+- Le applicazioni DeFi non si servono di alcun intermediario.
 
 **D:** ⚠️ Su quale principio si basano le disposizioni della quarta direttiva, e in che direzione opera?
 **R:** Sul principio di **armonizzazione minima**: «i vincoli imposti **non possono essere alleggeriti ma solo aggravati dai MS**». ⚠️ Fissa un **pavimento**, non un tetto: lo Stato membro può essere **più severo**, mai **meno**. Non va confusa con l'armonizzazione *massima*, che impedirebbe sia di alleggerire sia di aggravare.
 **Opzione:** Armonizzazione minima: i vincoli imposti non possono essere alleggeriti ma solo aggravati dagli Stati membri.
 **Distrattori:**
 - Armonizzazione minima: i vincoli imposti non possono essere aggravati ma solo alleggeriti dagli Stati membri.
-- Armonizzazione massima: i vincoli imposti non possono essere né alleggeriti né aggravati dagli Stati membri.
-- Armonizzazione minima: i vincoli imposti possono essere alleggeriti o aggravati dagli Stati membri a seconda del rischio del mercato nazionale.
+- Sì: le regole sono meno stringenti, ma la sorveglianza delle autorità di vigilanza competenti è continua.
 
 **D:** Che cosa devono fare i destinatari della disciplina secondo la quarta direttiva?
 **R:** «I destinatari della disciplina devono **identificare e valutare i rischi di riciclaggio e finanziamento al terrorismo secondo l'esercizio delle attività finanziarie e professionali** (*risk based approach*)».
@@ -1695,8 +1679,7 @@
 **Opzione:** Direttiva UE 2018/843, recepita in Italia con D.lgs 2019 n. 125.
 **Distrattori:**
 - Direttiva UE 2018/843, recepita in Italia con D.lgs 2019 n. 90.
-- Direttiva UE 2018/849, recepita in Italia con D.lgs 2019 n. 125.
-- Direttiva UE 2018/843, recepita in Italia con D.lgs 2018 n. 125.
+- Gli smart contracts sono immodificabili, con riferimento a recesso ed eccessiva onerosità.
 
 **D:** ⚠️ Quali quattro categorie di soggetti la quinta direttiva include nella normativa antiriciclaggio?
 **R:** «I **prestatori di servizi di cambio tra valute virtuali e valute legali**; i **prestatori di servizi di portafoglio digitale**; i **galleristi**; i **gestori di case d'asta e gli antiquari, chiamati ad operare una collaborazione proattiva**.» ⚠️ L'inciso sulla **collaborazione proattiva** chiude **solo l'ultima voce**. Il docente segnala che «i primi due punti sono quelli che [ci] interessano maggiormente, perché vi è un focus rinnovato su delle professioni che stanno assumendo sempre maggiore rilievo e importanza nel panorama economico-finanziario».
@@ -1727,8 +1710,8 @@
 **Opzione:** La IV parla di «conversione» di valuta virtuale in valuta avente corso legale e viceversa; la V di «cambio» tra valute virtuali e valute legali.
 **Distrattori:**
 - La IV parla di «cambio» tra valute virtuali e valute legali; la V di «conversione» di valuta virtuale in valuta avente corso legale e viceversa.
-- Entrambe parlano di «cambio» tra valute virtuali e valute legali: la V si limita ad aggiungere i portafogli digitali.
-- La IV parla di «conversione» di valuta virtuale in valuta avente corso legale; la V di «custodia» di valute virtuali per conto terzi.
+- Istantaneità e operatività a distanza, piattaforme stabilite in Paesi diversi da quello dell'utente, strumenti che agevolano l'anonimato; risposte avanzate e lungimiranti che senza pregiudicare l'innovazione evitino falle e arbitraggi regolamentari.
+- Deficit cognitivi; ridotte possibilità di chiedere chiarimenti; limitata comprensione delle modalità di utilizzo ed elaborazione; malfunzionamento dello strumento automatico; violazioni informatiche; errori nelle ipotesi e nelle stime dell'algoritmo.
 
 **D:** ⚠️ Che cosa estende esattamente la quinta direttiva ai prestatori di servizi di cambio e di portafoglio digitale?
 **R:** «**Particolari obblighi antiriciclaggio**» — il complemento oggetto è in fondo alla frase della slide. L'inciso «che **non sono soggetti all'obbligo della UE di individuare le attività sospette**» descrive la **condizione di partenza** di quei soggetti, cioè ciò che erano **prima**, non un'esenzione concessa dalla direttiva. Il docente lo esplicita: «per la prima volta quei servizi di cambio valuta che **non erano soggetti** alla normativa **diventano oggetto specifico** di indagine».
@@ -1799,8 +1782,7 @@
 **Opzione:** D.Lgs. 4 ottobre 2019, n. 125, emanato in attuazione alla V direttiva antiriciclaggio.
 **Distrattori:**
 - D.Lgs. 4 ottobre 2019, n. 125, emanato in attuazione alla IV direttiva antiriciclaggio.
-- D.Lgs. 25 maggio 2017, n. 90, emanato in attuazione alla V direttiva antiriciclaggio.
-- D.Lgs. 4 ottobre 2019, n. 152, emanato in attuazione al regolamento europeo sui mercati delle cripto-attività.
+- Attraverso sistemi di registrazione o identificazione audio e video a distanza, per il cliente persona fisica.
 
 **D:** ⚠️ Qual è il *main goal* del legislatore secondo la slide sul decreto antiriciclaggio?
 **R:** «Il ***main goal*** del **Legislatore eurounitario** è quello di **tracciare con ampio grado di certezza i flussi finanziari** nell'ottica dell'azione di contrasto al **riciclaggio di denaro di illecita provenienza** e di **finanziamento del terrorismo**». ⚠️ Gli oggetti del contrasto sono **due**: il transcript si ferma al primo.
@@ -1831,8 +1813,7 @@
 **Opzione:** La costituzione di una banca dati informativa e il potenziamento delle funzioni di controllo della guardia di finanza.
 **Distrattori:**
 - La costituzione di una banca dati informativa e il potenziamento delle funzioni di controllo dell'Unità di Informazione Finanziaria.
-- L'istituzione di un registro tenuto dall'OAM e il potenziamento delle funzioni di controllo della guardia di finanza.
-- La costituzione di una banca dati informativa e l'obbligo di segnalazione trimestrale alla Banca d'Italia.
+- Una modalità di intervento sui mercati che si serve di sofisticati strumenti software, e a volte anche hardware, per negoziazioni ad alta frequenza guidate da algoritmi matematici, con posizioni tenute da poche ore fino a frazioni di secondo.
 
 **D:** ⚠️ Quali soggetti entrano fra gli obbligati con il decreto antiriciclaggio?
 **R:** «**Mediatori creditizi**, **agenti in attività finanziaria** e **cambio valute iscritti in apposito registro tenuto dall'OAM *ex* art. 128-*undecies* TUB**, oltre ai **prestatori di servizi di gioco**, **succursali dei predetti soggetti** e quelle di **intermediari bancari e finanziari** e di **imprese assicurative con sede legale in altro SM**.» ⚠️ Il transcript tronca l'elenco con «e via dicendo»: la coda va imparata dalla slide.
@@ -1847,8 +1828,7 @@
 **Opzione:** Nel registro tenuto dall'OAM, ex art. 128-undecies TUB.
 **Distrattori:**
 - Nel registro tenuto dall'OAM, ex art. 128-quater TUB.
-- Nel registro tenuto dalla Banca d'Italia, ex art. 128-undecies TUB.
-- Nella sezione speciale del Registro delle imprese, ex art. 128-undecies TUB.
+- Il registro dei titolari effettivi di imprese e trust, come sezione speciale del Registro delle imprese.
 
 **D:** Che cosa introduce l'art. 2 del decreto antiriciclaggio?
 **R:** «Il principio del ***risk based approach***». Il docente sottolinea che lo ha introdotto «a tutti gli effetti, **cristallizzandolo**». ⚠️ Alla lezione 06 il *risk based approach* era la formula stampata sulla slide della **IV direttiva**; qui ha una fonte **italiana** e un **numero di articolo**.
@@ -1871,8 +1851,7 @@
 **Opzione:** Il registro dei titolari effettivi di imprese e trust, come sezione speciale del Registro delle imprese.
 **Distrattori:**
 - Il registro dei titolari effettivi di imprese e trust, come sezione speciale del registro tenuto dall'OAM.
-- Il registro dei soggetti obbligati, come sezione speciale del Registro delle imprese.
-- Il registro dei titolari effettivi delle sole società di capitali, come sezione speciale del Registro delle imprese.
+- Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 15mila euro o trasferimento di fondi oltre 1.000 euro.
 
 **D:** ⚠️ Chi deve designare il punto di contatto centrale secondo l'art. 36 del decreto, e con quale compito?
 **R:** «Gli **istituti di moneta elettronica** e gli **istituti di pagamento** con **sede legale e amministrazione centrale in altro Stato Membro** che operano **senza succursale nel territorio della Repubblica, tramite soggetti convenzionati o agenti**», con il compito di «procedere alla **valutazione ed alla segnalazione delle operazioni sospette all'UIF**». ⚠️ Il transcript dice solo «sede legale in altro Stato membro» e omette il tramite.
@@ -1887,8 +1866,7 @@
 **Opzione:** Art. 2, art. 21 e art. 36 rispettivamente.
 **Distrattori:**
 - Art. 2, art. 36 e art. 21 rispettivamente.
-- Art. 21, art. 2 e art. 43 rispettivamente.
-- Art. 2, art. 21 e art. 128-quater rispettivamente.
+- Solo l'1% delle proposte di transazione.
 
 **D:** Quando si configura la «responsabilità oggettiva» degli esponenti aziendali nell'impianto sanzionatorio?
 **R:** «Individuazione di una sorta di **responsabilità oggettiva** in capo agli **esponenti aziendali** che si verifica quando le **omissioni nei controlli abbiano reso possibile il verificarsi di violazioni alla normativa antiriciclaggio**.»
@@ -1903,32 +1881,30 @@
 **Opzione:** Da 10 mila a 5 milioni di euro.
 **Distrattori:**
 - Da 1.000 a 5 milioni di euro.
-- Da 10 mila a 3 milioni di euro.
-- Fino a 5 milioni di euro, senza minimo edittale.
+- Il principio del risk based approach.
 
 **D:** ⚠️ Quale sanzione colpisce i destinatari degli obblighi di adeguata verifica, e in che cosa si distingue da quella degli esponenti aziendali?
 **R:** «Per soggetti destinatari degli obblighi di adeguata verifica è **comminata la pena della reclusione e la multa**» — cioè sanzione **penale**. Gli **esponenti aziendali**, invece, rispondono in via **amministrativa** (da 10 mila a 5 milioni) per **omissioni nei controlli**. ⚠️ Scambiare le due colonne è un distrattore da «oggetto scambiato».
 **Opzione:** Reclusione e multa, cioè sanzione penale, mentre gli esponenti aziendali rispondono in via amministrativa.
 **Distrattori:**
 - Una sanzione amministrativa da 10 mila a 5 milioni di euro, mentre gli esponenti aziendali rispondono con reclusione e multa.
-- Reclusione e multa, cioè sanzione penale, come per gli esponenti aziendali: il regime è unico.
-- La sola multa, senza reclusione, mentre gli esponenti aziendali rispondono in via amministrativa.
+- Quando le omissioni nei controlli abbiano reso possibile il verificarsi di violazioni alla normativa antiriciclaggio.
 
 **D:** Come si intitolano e a quando risalgono le disposizioni della Banca d'Italia richiamate nella lezione?
 **R:** «*Disposizioni in materia di **adeguata verifica della clientela** per il contrasto del riciclaggio e del finanziamento al terrorismo*» del **30 luglio 2019**. La **Parte I** detta i «**criteri generali** che precisano l'**intensità e l'estensione degli obblighi di adeguata verifica modulati secondo il grado di rischio**, con particolare attenzione rispetto ai **prodotti e servizi che si avvalgono di nuove tecnologie**».
 **Opzione:** Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 30 luglio 2019.
 **Distrattori:**
 - Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 4 ottobre 2019.
-- Disposizioni in materia di organizzazione, procedure e controlli interni antiriciclaggio, del 30 luglio 2019.
-- Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento al terrorismo, del 30 luglio 2017.
+- Soprattutto sugli operatori tradizionali, perché il prezzo del servizio si paga solo sulle transazioni che vanno a buon fine, mentre gli ordini improduttivi dell'HFT non pagano alcun corrispettivo.
+- Accesso alla piattaforma; compilazione questionario MiFID compliant; elaborazione della pianificazione del portafoglio titoli; monitoraggio costante con alert verso il ribilanciamento; in alcune piattaforme, investimento senza rivolgersi a un broker.
 
 **D:** ⚠️ In quali casi la Banca d'Italia rende obbligatoria l'adeguata verifica, e con quali soglie?
 **R:** «Adeguata verifica ed obbligo **in ogni caso in cui**: (i) si instaura un **rapporto continuativo**; (ii) **operazione occasionale** di trasmissione o movimentazione di **mezzi di pagamento** di importo **superiore a 15mila** o in un **trasferimento di fondi superiore a 1.000 euro**.» ⚠️ Sono **due fattispecie con due importi diversi** dentro la stessa lettera (ii): 15mila per i mezzi di pagamento, 1.000 euro per il trasferimento di fondi.
 **Opzione:** Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 15mila euro o trasferimento di fondi oltre 1.000 euro.
 **Distrattori:**
-- Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 15mila euro o trasferimento di fondi oltre 1 milione di euro.
 - Rapporto continuativo; operazione occasionale su mezzi di pagamento oltre 1.000 euro o trasferimento di fondi oltre 15mila euro.
-- Rapporto continuativo; operazione occasionale su mezzi di pagamento pari o superiore a 15mila euro, senza soglia per il trasferimento di fondi.
+- Fattori connessi al cliente, esecutore e titolare effettivo; fattori relativi a prodotti, servizi, operazioni o canali di distribuzione; fattori di basso rischio geografico.
+- Crowdfunding; online banking; gestione dei risparmi con algoritmi; gestione dei pagamenti; credit-scoring e gestione dei dati; valute digitali o cripto-valute e più in generale l'utilizzo della blockchain.
 
 **D:** ⚠️ La soglia del trasferimento di fondi è 1.000 euro o un milione?
 **R:** **1.000 euro**: la slide dice «o in un **trasferimento di fondi superiore a 1.000 euro**». Il transcript rende «superiore a **un milione**» — un errore di **tre ordini di grandezza**. **Fa testo la slide**: chi studia sul solo transcript memorizzerebbe una cifra che nei materiali non esiste.
@@ -1951,8 +1927,7 @@
 **Opzione:** Nella III direttiva è «pari o superiore»; nelle disposizioni di Banca d'Italia è «superiore».
 **Distrattori:**
 - Nella III direttiva è «superiore»; nelle disposizioni di Banca d'Italia è «pari o superiore».
-- In entrambe è «pari o superiore»: cambia solo il tipo di operazione cui si applica.
-- Nella III direttiva è «pari o superiore»; nelle disposizioni di Banca d'Italia la soglia è invece di 1.000 euro.
+- Differenti: ogni epoca culturale ne ha creati, e le criptoattività non fanno eccezione.
 
 **D:** Come può avvenire l'identificazione del cliente nei rapporti a distanza?
 **R:** «A riprova dell'**impatto delle nuove tecnologie**, si prevede che nei casi di **rapporti a distanza** la verifica possa aver luogo l'identificazione del **cliente persona fisica** attraverso **sistemi di registrazione/identificazione audio/video a distanza**.» Il docente la chiama «un primo **rudimentale** esempio dell'utilizzo delle nuove tecnologie».
@@ -1991,8 +1966,7 @@
 **Opzione:** Parte I, Parte Terza e Parte V rispettivamente.
 **Distrattori:**
 - Parte I, Parte V e Parte Terza rispettivamente.
-- Parte Terza, Parte I e Parte V rispettivamente.
-- Parte I, Parte Seconda e Parte Terza rispettivamente.
+- Se il cliente è in grado di concludere direttamente o indirettamente il contratto.
 
 **D:** ⚠️ In caso di ricorso a soggetti terzi, quando si considerano soddisfatti gli obblighi di adeguata verifica, e che cosa resta in capo al destinatario?
 **R:** «Gli obblighi di adeguata verifica **si considerano soddisfatti a seguito del rilascio di idonea attestazione rilasciata dall'operatore che abbia provveduto ad adempierli**, **fermo restando che il destinatario rimane responsabile dell'adeguata verifica** e **valuta se gli elementi raccolti e le verifiche effettuate dal terzo siano aggiornati, idonei e sufficienti rispetto agli obblighi di legge**.» ⚠️ La responsabilità **non si delega**, e la valutazione ha **tre aggettivi**.
@@ -2015,8 +1989,7 @@
 **Opzione:** Le esamina e, se le ritiene fondate, le trasmette alla UIF prive del nominativo del segnalante.
 **Distrattori:**
 - Le esamina e, se le ritiene fondate, le trasmette alla UIF complete del nominativo del segnalante.
-- Le trasmette tutte alla UIF, prive del nominativo del segnalante, senza alcuna valutazione di fondatezza.
-- Le esamina e, se le ritiene fondate, le trasmette alla guardia di finanza prive del nominativo del segnalante.
+- Con il rilascio di idonea attestazione dell'operatore; il destinatario resta comunque responsabile e valuta se gli elementi siano aggiornati, idonei e sufficienti.
 
 **D:** ⚠️ Quando è obbligatoria la nomina del punto di contatto centrale?
 **R:** Quando «(i) il **numero di sedi presenti nel territorio dello SM ospitante è superiore a 10**»; oppure «(ii) la **stima dell'importo di MEL distribuita e rimborsata** o il **valore cumulato delle operazioni di pagamento eseguite** sarà **superiore a euro 3 milioni nel corso dell'esercizio finanziario**». ⚠️ Le due soglie sono **alternative** e di natura diversa: un **numero di sedi** e un **importo**. Il conteggio delle sedi è nello **Stato membro ospitante**.
@@ -2062,9 +2035,8 @@
 **R:** «Il **dipartimento della Banca d'Italia preposto a ricevere le segnalazioni antiriciclaggio**». ⚠️ La definizione sta **solo nel transcript**: le slide la nominano ma non la definiscono.
 **Opzione:** Il dipartimento della Banca d'Italia preposto a ricevere le segnalazioni antiriciclaggio.
 **Distrattori:**
-- Un'autorità amministrativa indipendente, distinta dalla Banca d'Italia, preposta a ricevere le segnalazioni antiriciclaggio.
-- Il nucleo speciale della guardia di finanza preposto a ricevere le segnalazioni antiriciclaggio.
 - Il dipartimento della Consob preposto a ricevere le segnalazioni antiriciclaggio.
+- Un'autorità che a livello mondiale emana principi e linee guida non vincolanti, che valgono come indicatore della best market practice dell'intermediario.
 
 **D:** ⚠️ Perché, secondo il docente, all'UIF arrivano segnalazioni che non sono nemmeno sospette?
 **R:** Perché chi riceve le segnalazioni risponde con **sanzioni penali e amministrative non indifferenti** se la segnalazione manca, e «la normativa chiaramente dice che **nel dubbio segnala**»: l'atteggiamento più probabile diventa «quello di **segnalare anche tutte quelle segnalazioni che in realtà non rappresentavano un elemento di sospetto**». ⚠️ Ed è un **costo**, non un merito: «questo **non è il *desiderata* della regolamentazione**, perché porta a un **rallentamento della scrematura, dell'individuazione delle reali operazioni sospette**». Sul lato cliente produce «un **irrigidimento del rapporto cliente-intermediario**» e informazioni «**costanti, continue e a volte anche invasive**».
@@ -2124,17 +2096,15 @@
 **R:** «**Un nuovo modo di fare assicurazione e riassicurazione**» e «**Product Governance Oversight**».
 **Opzione:** Un nuovo modo di fare assicurazione e riassicurazione; Product Governance Oversight.
 **Distrattori:**
+- Il pacchetto normativo in materia di antiriciclaggio.
 - Un nuovo modo di fare assicurazione e riassicurazione; la Direttiva IDD e il Regolamento IVASS.
-- I Big Data nel settore assicurativo; Product Governance Oversight.
-- Un nuovo modo di fare assicurazione e riassicurazione; la vigilanza dell'IVASS sulle piattaforme InsurTech.
 
 **D:** ⚠️ Come definisce l'InsurTech la slide della lezione 08?
 **R:** «Il **termine InsurTech** è un **neologismo mutuato dal mondo FinTech** e deriva dall'unione di "**insurance**" e "**technology**". È un insieme di **tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella produzione e distribuzione dei prodotti assicurativi**.» ⚠️ Alla lezione 07 (slide 16) la stessa frase si fermava a «efficienza e l'efficacia **dei prodotti assicurativi**»: qui compaiono in più le parole «**produzione e distribuzione**», ed è questa la versione **completa**.
 **Opzione:** Un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella produzione e distribuzione dei prodotti assicurativi.
 **Distrattori:**
+- Un valido aiuto per l'inclusione sociale e finanziaria, ma molto spesso l'uso di quelle anonime può facilmente contribuire al finanziamento di atti terroristici e dei relativi aspetti logistici.
 - Un insieme di tecnologie e strumenti atti ad aumentare l'efficienza e l'efficacia nella progettazione e tariffazione dei prodotti assicurativi.
-- Un insieme di tecnologie e strumenti atti a ridurre il costo dei premi nella produzione e distribuzione dei prodotti assicurativi.
-- Un insieme di imprese assicurative che distribuiscono i propri prodotti esclusivamente tramite piattaforme digitali.
 
 **D:** ⚠️ Che cosa impone agli operatori assicurativi l'utilizzo di nuovi strumenti digitali?
 **R:** Due cose: «**adeguare la comunicazione e l'intellegibilità delle informazioni** (si veda l'**art. 120-*quater* cc. 2-3-4-5-6-7 del Codice delle Assicurazioni private**)» e «**adeguarsi al nuovo concetto di *Product Oversight Governance***».
@@ -2149,24 +2119,22 @@
 **Opzione:** In tre: Product Governance Oversight, Product Oversight Governance e product oversight.
 **Distrattori:**
 - In due: Product Governance Oversight e Product Oversight Governance.
-- In uno solo: Product Governance Oversight, usato in modo uniforme in tutto il deck.
-- In tre: Product Governance Oversight, Product Oversight Governance e Product Lifecycle Governance.
+- Tre livelli: disposizioni generali (nei quattro casi a–d), identificazione semplificata per il basso rischio, obbligo di diligenza rafforzato per operazioni transfrontaliere o soggetti politicamente esposti.
 
 **D:** ⚠️ Che cosa impongono l'art. 120, c. 3 del Codice delle Assicurazioni e l'art. 52 del Regolamento ISVAP n. 5/2006?
 **R:** «**Impongono all'intermediario di reperire informazioni dall'assicurando al fine di verificare l'adeguatezza del prodotto assicurativo alle esigenze dello stesso.**»
 **Opzione:** Di reperire informazioni dall'assicurando per verificare l'adeguatezza del prodotto assicurativo alle sue esigenze.
 **Distrattori:**
+- Non onerare eccessivamente i soggetti a basso rischio, e concentrare l'attenzione sui soggetti e sulle transazioni che presentano anomalie o sospetti.
 - Di fornire all'assicurando le informazioni necessarie a verificare l'adeguatezza del prodotto assicurativo alle sue esigenze.
-- Di reperire informazioni dall'assicurando per verificare la solvibilità del contraente prima della conclusione del contratto.
-- Di reperire informazioni dall'assicurando per verificare l'adeguatezza del prodotto, ma solo per i contratti conclusi a distanza.
 
 **D:** ⚠️ Quale articolo del Codice delle Assicurazioni riguarda la comunicazione e l'intellegibilità delle informazioni, e quale l'obbligo di reperire informazioni dall'assicurando?
 **R:** L'**art. 120-*quater*, cc. 2-3-4-5-6-7** riguarda l'obbligo di «**adeguare la comunicazione e l'intellegibilità delle informazioni**»; l'**art. 120, c. 3** — con l'**art. 52 del Regolamento ISVAP n. 5/2006** — impone di «**reperire informazioni dall'assicurando**» per verificarne l'**adeguatezza**. ⚠️ Il primo riguarda **come si comunica**, il secondo **che cosa si deve chiedere**: sono due articoli distinti con lo stesso numero di base.
 **Opzione:** Art. 120-quater per la comunicazione e l'intellegibilità; art. 120, c. 3 per il reperimento delle informazioni dall'assicurando.
 **Distrattori:**
+- Direttiva 2005/60/CE, che estende l'ambito di applicazione anche al finanziamento delle attività terroristiche.
 - Art. 120, c. 3 per la comunicazione e l'intellegibilità; art. 120-quater per il reperimento delle informazioni dall'assicurando.
-- Art. 106 per la comunicazione e l'intellegibilità; art. 120, c. 3 per il reperimento delle informazioni dall'assicurando.
-- Art. 120-quater per la comunicazione e l'intellegibilità; art. 52 del Codice delle Assicurazioni per il reperimento delle informazioni.
+- Parte I, Parte Terza e Parte V rispettivamente.
 
 **D:** Per che cosa le start-up InsurTech fanno leva sui Big Data?
 **R:** «Molte **start-up InsurTech o applicazioni tecnologiche dedicate agli accordi tra impresa assicurativa ed intermediari** fanno leva sui **Big Data** proprio per **raccogliere le informazioni/dati personali degli utenti che accedono alla piattaforma** e, dunque, per **personalizzare l'offerta**.»
@@ -2181,8 +2149,8 @@
 **Opzione:** La rendono meno costosa e molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
 **Distrattori:**
 - La rendono meno costosa e molto più rapida, permettendo di costruire profili di rischio molto accurati.
-- La rendono più costosa ma molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
-- La rendono meno costosa e molto più sofisticata, ma impediscono di costruire profili di rischio individuali per ragioni di privacy.
+- Modifica la prima direttiva e obbliga gli Stati membri ad adottare un più elevato standard di prescrizioni nel sistema finanziario.
+- Fra i benefici come effetto generale della sandbox, sia pure con alcune esenzioni; fra i costi come ciò che manca dove sono permesse regole specifiche per ogni singolo partecipante.
 
 **D:** ⚠️ Quali svantaggi associa il docente all'uso dei Big Data nella profilazione assicurativa?
 **R:** Quattro. I dati potrebbero essere **inaccurati**, **vecchi**, **imprecisi**; e c'è il tema della **privacy**: «io come assicurando **non voglio che i miei dati personali** da un punto di vista di **profilazione del rischio** vengano **presi ed estrapolati in modo asettico da un database**: preferirei avere una **conversazione da zero** con il mio interlocutore, **spiegare e dare contesto**». ⚠️ Contenuto **solo del transcript**, ed è l'altra faccia del «**doppio rovescio della medaglia**»: «non è né un male assoluto né un bene assoluto».
@@ -2215,9 +2183,9 @@
 **R:** «La **direttiva** europea, durante la **fase di implementazione nello Stato**, può essere in qualche modo **modificata dalle norme implementative** dello Stato, che **tarerà e modificherà la direttiva anche sulla base delle peculiarità dello Stato stesso**; mentre il **regolamento** è **subito implementabile, non ha bisogno di norme di raccordo**.» ⚠️ La conseguenza è ambivalente: da un lato ciascuno Stato implementa «in un modo che sia **digeribile per l'ecosistema locale**», dall'altro «iniziano a crearsi nuovamente alcuni **piccoli scollamenti**», cioè **discrasie tra Stato membro e Stato membro**. Ciò che resta fermo è un «**livello minimo di implementazione**».
 **Opzione:** La direttiva è adattabile dalle norme nazionali, il regolamento è subito applicabile; il costo della direttiva sono le discrasie fra Stati membri.
 **Distrattori:**
-- Il regolamento è adattabile dalle norme nazionali, la direttiva è subito applicabile; il costo del regolamento sono le discrasie fra Stati membri.
-- La direttiva è adattabile dalle norme nazionali, il regolamento è subito applicabile; entrambi garantiscono comunque un'armonizzazione piena.
 - Reclusione e multa, cioè sanzione penale, mentre gli esponenti aziendali rispondono in via amministrativa.
+- La b) al frazionamento dell'operazione (unica o più operazioni collegate); la c) a qualsiasi deroga, esenzione o soglia applicabile.
+- La direttiva è adattabile dalle norme nazionali, il regolamento è subito applicabile; entrambi garantiscono comunque un'armonizzazione piena.
 
 **D:** ⚠️ Che cosa emerge dalla Direttiva IDD in tema di rischio contrattuale?
 **R:** «Dalla Direttiva emerge una **revisione del rischio contrattuale tra le parti**, che **onera le stesse ad una maggiore precisione e trasparenza nell'indicazione delle finalità da perseguire**, evitando l'uso di un **linguaggio oscuro, strumentale ad operazioni commercialmente scorrette**.» ⚠️ Il transcript altera tre sfumature: dice «**delle** parti», inverte l'ordine in «trasparenza e precisione» e rende «scuro… **ed** operazioni». Fa testo la slide.
@@ -2263,9 +2231,9 @@
 **R:** «Impone la **costruzione del prodotto sulla base di un *target market* individuato nella fase di quotazione ed adeguatezza del prodotto**.» Il docente ne dà il rovescio: «quando l'impresa assicuratrice decide di creare un prodotto **non può farlo in astratto**, pensando a un rischio presente sul mercato ipotetico che possa servire a una **massa indefinita di utenti**».
 **Opzione:** La costruzione del prodotto sulla base di un target market individuato nella fase di quotazione e adeguatezza del prodotto.
 **Distrattori:**
-- La costruzione del prodotto sulla base di un target market individuato dopo il collocamento, alla luce dei dati di vendita raccolti.
-- La verifica dell'adeguatezza del prodotto al singolo cliente al momento della sottoscrizione, senza vincoli nella fase di costruzione.
+- Particolari obblighi antiriciclaggio, a soggetti che prima non erano tenuti a individuare le attività sospette.
 - La costruzione del prodotto sulla base di un profilo di rischio medio di mercato individuato dall'IVASS nella fase di quotazione.
+- La verifica dell'adeguatezza del prodotto al singolo cliente al momento della sottoscrizione, senza vincoli nella fase di costruzione.
 
 **D:** ⚠️ Quali quattro elementi deve comprendere l'organizzazione imposta dal Product Oversight Governance?
 **R:** «**Formazione ed aggiornamento professionale dei distributori**; **controllo degli adempimenti delle regole di comportamento**; **coerenza del modello di consulenza per un collocamento fatto sulla base del ramo e delle varie tipologie di rischio**; **controllo sulla politica degli incentivi e sulla gestione del conflitto di interessi**.»
@@ -2312,16 +2280,16 @@
 **Opzione:** Al condizionale: «dovrebbero essere in grado» di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
 **Distrattori:**
 - All'indicativo: «sono in grado» di modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
-- All'imperativo: «devono» modulare gli obblighi di comportamento e la valutazione dell'adeguatezza.
-- Al condizionale, ma riferito alle sole compagnie e non alle piattaforme.
+- La IV parla di «conversione» di valuta virtuale in valuta avente corso legale e viceversa; la V di «cambio» tra valute virtuali e valute legali.
+- Alla (i) «sapendo della loro provenienza criminosa»; alla (ii) «essendo a conoscenza della natura o provenienza illecita».
 
 **D:** ⚠️ Quali articoli del Regolamento IVASS n. 40/2018 sono citati nella lezione, e con quale oggetto ciascuno?
 **R:** L'**art. 80** → obblighi degli intermediari che **comparano polizze online**; gli **artt. 58 e 74** → **modulazione degli obblighi di comportamento e della valutazione di adeguatezza** nel settore InsurTech; l'**art. 46 c. 1** → **gestione digitale dei dati anagrafici** e delle informazioni sulle coperture attive. ⚠️ La slide 10 scrive per refuso «Regolamento Ivass n. **40/1018**»: il regolamento è il **40/2018**, come la slide 8 cita correttamente.
 **Opzione:** Art. 80 per i siti di comparazione; artt. 58 e 74 per la modulazione di obblighi e adeguatezza; art. 46 c. 1 per la gestione digitale dei dati.
 **Distrattori:**
+- Fattori connessi al cliente, esecutore e titolare effettivo; fattori relativi a prodotti, servizi, operazioni o canali di distribuzione; fattori di basso rischio geografico.
+- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo di perpetrare il fatto, o aiutare, consigliare, istigare o agevolare l'azione di qualcuno nel commetterlo.
 - Art. 46 c. 1 per i siti di comparazione; artt. 58 e 74 per la modulazione di obblighi e adeguatezza; art. 80 per la gestione digitale dei dati.
-- Art. 80 per i siti di comparazione; art. 30 per la modulazione di obblighi e adeguatezza; art. 46 c. 1 per la gestione digitale dei dati.
-- Art. 80 per i siti di comparazione; artt. 58 e 74 per la formazione dei distributori; art. 46 c. 1 per la gestione digitale dei dati.
 
 **D:** ⚠️ Che cosa dispone l'art. 46 c. 1 del Regolamento IVASS?
 **R:** Che «l'impresa **garantisce una gestione digitale dei dati anagrafici presenti nei contratti sottoscritti e delle informazioni relative alle coperture attive**, anche al fine del rispetto delle disposizioni in materia di **requisiti di governo e controllo del prodotto** previste dal **Codice**». ⚠️ Il transcript perde la coda «**del prodotto**».
@@ -2343,9 +2311,8 @@
 **R:** «Lo **scambio di informazioni circa le caratteristiche del rischio dei clienti**, migliorando la **qualità dei prodotti offerti**.» ⚠️ Il transcript perde la specificazione «**circa le caratteristiche del rischio dei clienti**».
 **Opzione:** Lo scambio di informazioni circa le caratteristiche del rischio dei clienti, migliorando la qualità dei prodotti offerti.
 **Distrattori:**
-- Lo scambio di informazioni circa le caratteristiche del rischio dei clienti, riducendo il costo dei premi applicati.
+- Alle banche e agli intermediari finanziari, un ruolo di prevenzione del crimine attraverso il compito di esaminare le transazioni finanziarie.
 - Lo scambio di informazioni circa la solvibilità delle imprese comparate, migliorando la qualità dei prodotti offerti.
-- La sostituzione integrale della valutazione umana dell'adeguatezza, migliorando la qualità dei prodotti offerti.
 
 **D:** ⚠️ Perché il docente ricorda il passaggio da ISVAP a IVASS?
 **R:** Perché «anche il **cambiamento del nome dell'autorità di vigilanza riflette un cambiamento culturale del mondo assicurativo**: quindi prima **ISVAP** e oggi **IVASS**». ⚠️ È anche la ragione pratica per cui le slide citano un **Regolamento ISVAP** (n. 5/2006, art. 52) accanto ai **Regolamenti IVASS** (n. 40/2018): sono la stessa autorità in due epoche. Nel transcript l'acronimo è reso «IVAS» dall'ASR.
@@ -2411,8 +2378,8 @@
 **Opzione:** Studio di sistemi che pensano come gli esseri umani, pensano razionalmente, agiscono come gli esseri umani; sistemi che agiscono razionalmente.
 **Distrattori:**
 - Studio di sistemi che pensano come gli esseri umani, pensano razionalmente, agiscono come gli esseri umani; sistemi che apprendono autonomamente.
-- Studio di sistemi che pensano come gli esseri umani, apprendono razionalmente, agiscono come gli esseri umani; sistemi che agiscono razionalmente.
-- Studio di sistemi che pensano come gli esseri umani, pensano razionalmente, comunicano come gli esseri umani; sistemi che agiscono razionalmente.
+- Instaurazione di rapporti d'affari; transazioni occasionali pari o superiori a 15000 euro; sospetto di riciclaggio o finanziamento del terrorismo; dubbi sulla veridicità o adeguatezza dei dati già ottenuti.
+- Le SICAF, gli intermediari bancari e finanziari con sede legale in altro Stato membro operanti in Italia in libera prestazione di servizi, e i prestatori di servizi di conversione di valuta virtuale in valuta avente corso legale e viceversa.
 
 **D:** ⚠️ Quale delle quattro accezioni di IA della slide 4 è formulata diversamente dalle altre tre?
 **R:** La **quarta**. Le voci **i, ii, iii** aprono tutte con «**Studio di sistemi che…**» (*pensano come gli esseri umani*, *pensano razionalmente*, *agiscono come gli esseri umani*); la **iv** è la sola a non cominciare così: «**Sistemi che agiscono razionalmente**». ⚠️ È la classica irregolarità in **coda all'elenco** su cui lavorano i distrattori.
@@ -2496,9 +2463,9 @@
 **R:** «Se è vero che l'**intelligenza Artificiale si configura quale studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano**, il **Machine learning può considerarsi *una strada per la sua applicazione***.» ⚠️ La direzione conta: il machine learning è **una** via applicativa dell'IA, non un sinonimo e non il genere che la comprende.
 **Opzione:** L'IA è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; il machine learning è una strada per la sua applicazione.
 **Distrattori:**
-- Il machine learning è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; l'IA è una strada per la sua applicazione.
 - L'IA e il machine learning sono termini equivalenti, il secondo di uso prevalente nella letteratura tecnica anglosassone.
-- L'IA è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; il machine learning ne è l'unica applicazione possibile.
+- La b) al frazionamento dell'operazione (unica o più operazioni collegate); la c) a qualsiasi deroga, esenzione o soglia applicabile.
+- Il machine learning è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; l'IA è una strada per la sua applicazione.
 
 **D:** Come funziona il **machine learning** in termini specifici, secondo la slide?
 **R:** «Parte da un **input** e da un **output** lasciando che sia poi **la macchina a comprendere le relazioni tra questi parametri** per giungere all'**algoritmo più opportuno**.» Il termine si riferisce, in senso ampio, a «**sistemi in grado di apprendere dall'esperienza, con un meccanismo simile a ciò che un essere umano fa sin dalla sua nascita**» — per il docente, l'**imitazione** e l'**assimilazione**. Infine «la macchina impara a "**programmarsi**" **da sola attraverso l'esperienza**».
@@ -2515,9 +2482,8 @@
 **R:** Nel **giugno del 2018**, «con il **precipuo scopo di studiare e approfondire l'AI** al fine di **elaborarne un documento contenente le linee guida di tipo etico sull'intelligenza artificiale**». ⚠️ Il **2018** compare **due volte** nel deck: è l'anno di **pubblicazione delle Linee Guida** e — con l'indicazione del mese, **giugno** — quello di **istituzione del gruppo di esperti**.
 **Opzione:** Nel giugno del 2018, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne un documento di linee guida di tipo etico.
 **Distrattori:**
+- Direttiva 91/308/CEE del 10 giugno 1991.
 - Nel giugno del 2016, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne un documento di linee guida di tipo etico.
-- Nel giugno del 2018, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne una proposta di regolamento europeo.
-- Nel giugno del 2018, con il precipuo scopo di vigilare sui sistemi di IA immessi sul mercato interno e di sanzionarne le violazioni.
 
 **D:** ⚠️ Il documento di linee guida della Commissione europea è vincolante, e a chi si rivolge?
 **R:** «Il documento **non ha natura giuridicamente vincolante** ma si indirizza **comunque a chiunque sviluppi, implementi o utilizzi l'intelligenza artificiale**.» ⚠️ Le due cose stanno **insieme**: **non vincolante**, ma con **destinatari universali**. Il docente motiva la prima per analogia: «si chiama **linee guida**, quindi non è possibile che abbia natura vincolante — simile a quanto lo **IOSCO**, il *regulator* mondiale, emana principi e linee guida che **non sono *binding***».
@@ -2531,9 +2497,9 @@
 **R:** «La **tutela delle libertà e dei diritti fondamentali degli esseri umani**, affinché non vengano **soppressi da un non corretto utilizzo di tali programmi finalizzati all'apprendimento di facoltà tipicamente umane**.»
 **Opzione:** La tutela delle libertà e dei diritti fondamentali degli esseri umani, affinché non siano soppressi da un non corretto utilizzo di tali programmi.
 **Distrattori:**
-- La tutela della concorrenza nel mercato interno, affinché non sia falsata da un non corretto utilizzo di tali programmi.
 - La tutela delle libertà e dei diritti fondamentali degli esseri umani, affinché non siano soppressi dallo sviluppo stesso di tali programmi.
-- La tutela della riservatezza dei dati personali degli utenti, affinché non sia compromessa da un non corretto utilizzo di tali programmi.
+- Il pacchetto normativo in materia di antiriciclaggio.
+- I costi di compliance insostenibili per le startup innovative, e la necessità di garantire integrità del mercato, liceità e legittimità delle operazioni.
 
 **D:** Che cos'è la **Trustworthy AI**?
 **R:** Il concetto che «indica l'**esigenza affinché lo sviluppo dell'IA non comprometta o rechi danno in alcun modo ai valori, i diritti e le libertà fondanti per le nostre società**». Nel transcript l'ASR lo rende «*transworthy*»: la forma corretta è ***Trustworthy AI***, cioè un'IA **affidabile**, «di cui ci si possa fidare».
@@ -2555,15 +2521,15 @@
 **R:** **Tre**: ① **Legalità** — «l'IA deve **ottemperare a tutte le leggi ed ai regolamenti applicabili**»; ② **Eticità** — «l'IA deve assicurare l'**adesione a principi e valori etici**», articolata in **cinque** voci; ③ **Robustezza** — «dal punto di vista **tecnico e sociale**, per evitare che le **interazioni tra le IA creino danni non voluti**». ⚠️ La struttura è **1 + 5 + 1**: i cinque valori etici stanno **dentro** il secondo requisito, non allo stesso livello.
 **Opzione:** Legalità, eticità e robustezza.
 **Distrattori:**
-- Legalità, eticità e neutralità tecnologica.
-- Legalità, efficienza e robustezza.
 - Legalità, rispetto della dignità umana, prevenzione dei danni ed equità.
+- Enti creditizi e società fiduciarie.
+- Legalità, eticità e neutralità tecnologica.
 
 **D:** ⚠️ Quali sono le fonti giuridiche pertinenti al requisito di **Legalità** dell'IA?
 **R:** «Ad esempio, il **diritto primario dell'UE**, il **diritto derivato dell'UE (es. GDPR)**, i **Trattati ONU** e le **convenzioni del Consiglio d'Europa**, le **norme di numerosi Stati Membri UE**.» ⚠️ La coda dell'elenco sono **norme**, non «trattati» come rende il transcript. ⚠️ Il **Consiglio d'Europa** non è il Consiglio dell'Unione europea né il Consiglio europeo.
 **Opzione:** Ad es.: diritto primario dell'UE, diritto derivato dell'UE, Trattati ONU, convenzioni del Consiglio d'Europa e norme di numerosi Stati Membri UE.
 **Distrattori:**
-- Ad es.: diritto primario dell'UE, diritto derivato dell'UE, Trattati ONU, convenzioni del Consiglio d'Europa e trattati di numerosi Stati Membri UE.
+- Come i prodotti sono concepiti e venduti da intermediari e direttamente dalle imprese; informazioni pre-contrattuali, con norme di comportamento e trasparenza; procedure per attività transfrontaliere; norme di vigilanza e sanzioni per i distributori.
 - Ad es.: diritto primario dell'UE, diritto derivato dell'UE, Trattati ONU, convenzioni del Consiglio europeo e norme di numerosi Stati Membri UE.
 - Direttiva UE 2015/849, recepita in Italia con D.lgs n. 90/2017.
 
@@ -2580,24 +2546,23 @@
 **Opzione:** Che l'IA sia robusta dal punto di vista tecnico e sociale, per evitare che le interazioni tra le IA creino danni non voluti.
 **Distrattori:**
 - Che l'IA sia robusta dal punto di vista tecnico ed economico, per evitare che le interazioni tra le IA creino danni non voluti.
-- Che l'IA sia robusta dal punto di vista tecnico e sociale, per evitare che le IA sostituiscano gli esseri umani nelle professioni.
-- Che l'IA sia robusta dal punto di vista tecnico e giuridico, per evitare che l'interazione con gli esseri umani ne alteri il comportamento.
+- Per IP e IMEL che operano tramite agenti in attività finanziaria o soggetti convenzionati: per loro la verifica è sempre obbligatoria.
+- Modifica la prima direttiva e obbliga gli Stati membri ad adottare un più elevato standard di prescrizioni nel sistema finanziario.
 
 **D:** ⚠️ Con quali tre aggettivi le slide qualificano i sistemi di IA e i loro processi decisionali ed evolutivi, e a quale fine?
 **R:** Devono essere sempre «**controllabili, intellegibili e comprensibili**», «così che **ogni essere umano sia sempre informato di trovarsi di fronte ad un sistema di IA**». ⚠️ Il fine dichiarato non è la sorveglianza, ma l'**informazione dell'essere umano** sul fatto di avere davanti un'IA.
 **Opzione:** Controllabili, intellegibili e comprensibili, così che ogni essere umano sia sempre informato di trovarsi di fronte a un sistema di IA.
 **Distrattori:**
+- IMEL e istituti di pagamento con sede legale e amministrazione centrale in altro Stato membro che operano senza succursale tramite soggetti convenzionati o agenti, per valutare e segnalare le operazioni sospette all'UIF.
 - Controllabili, intellegibili e comprensibili, così che ogni essere umano possa opporsi alla decisione assunta dal sistema di IA.
-- Controllabili, riproducibili e certificabili, così che ogni essere umano sia sempre informato di trovarsi di fronte a un sistema di IA.
-- Trasparenti, intellegibili e comprensibili, così che le autorità di vigilanza possano sempre ricostruire il processo decisionale del sistema.
 
 **D:** ⚠️ Quali sono i **4 principi fondamentali** individuati dalle slide in materia di IA?
 **R:** ① **Rispetto della dignità umana** — «gli **esseri umani che interagiscono con l'IA** devono mantenere la propria **piena ed effettiva autodeterminazione** ed essere **partecipi del processo democratico**»; ② **Prevenzione dei danni** — i sistemi «non devono **causare danni né aggravarli e nemmeno influenzare negativamente** gli esseri umani»; ③ **Equità** — «garanzia di una **distribuzione giusta ed equa di costi e benefici** nonché **libertà da inique distorsioni, discriminazioni o stigmatizzazioni**»; ④ **Esplicabilità** — «i **processi devono essere trasparenti** e le **decisioni, per quanto possibile, devono poter essere spiegate a coloro che ne sono interessati**».
 **Opzione:** Rispetto della dignità umana, prevenzione dei danni, equità, esplicabilità.
 **Distrattori:**
+- Operazioni transfrontaliere oppure soggetti politicamente esposti.
 - Rispetto della dignità umana, prevenzione dei danni, equità, accountability.
 - Legalità, eticità, robustezza, esplicabilità.
-- Rispetto della dignità umana, prevenzione dei danni, trasparenza, benessere sociale ed ambientale.
 
 **D:** ⚠️ «Rispetto della dignità umana» compare in due elenchi diversi della lezione: quali, e con quale differenza?
 **R:** È **voce 1 dei cinque valori etici** (dentro il requisito di **Eticità**), dove significa che «i sistemi di IA **non devono svilire, compromettere o reprimere la dignità umana**»; ed è **principio 1 dei quattro principi fondamentali**, dove significa che «gli **esseri umani che interagiscono con l'IA** devono mantenere la propria **piena ed effettiva autodeterminazione** ed essere **partecipi del processo democratico**». ⚠️ Stessa etichetta, **due elenchi** e **due glosse**: la domanda non è *che cos'è* ma **dove sta**.
@@ -2611,9 +2576,8 @@
 **R:** Che i sistemi di IA «**causino danni**», che li «**aggravino**» e «**nemmeno**» che «**influenzino negativamente gli esseri umani**». ⚠️ La scala ha **tre gradi**, e il terzo è il più ampio: non basta l'assenza di danno, è escluso anche il semplice **influenzare negativamente**.
 **Opzione:** Che i sistemi di IA causino danni, che li aggravino e che influenzino negativamente gli esseri umani.
 **Distrattori:**
-- Che i sistemi di IA causino danni, che li aggravino e che influenzino negativamente il mercato interno.
-- Che i sistemi di IA causino danni agli esseri umani, salvo che il danno sia conseguenza necessaria del raggiungimento dell'obiettivo assegnato.
 - Che i sistemi di IA causino danni, che li aggravino e che interagiscano con altri sistemi di IA senza sorveglianza umana.
+- Conversione o trasferimento di beni; occultamento o dissimulazione; acquisto o detenzione; associazione, partecipazione o tentativo di perpetrare il fatto, o aiutare, consigliare, istigare o agevolare l'azione di qualcuno nel commetterlo.
 
 **D:** ⚠️ Secondo il principio di **esplicabilità**, a chi devono poter essere spiegate le decisioni dei sistemi di IA?
 **R:** «I **processi devono essere trasparenti** e le **decisioni, per quanto possibile, devono poter essere spiegate a coloro che ne sono interessati**.» ⚠️ **Solo agli interessati**: il transcript dice «a coloro **anche che non sono interessati**», ma fa testo la **slide**. È una **negazione aggiunta** dal parlato, esattamente il meccanismo su cui si costruiscono i distrattori.
@@ -2657,8 +2621,7 @@
 **R:** «**Cosa fanno e cosa possono fare i sistemi di IA oggi**» e «**Intelligenza artificiale e normativa esistente**». ⚠️ L'intestazione della slide sulla seconda parte la chiama però «normativa **VIGENTE**»: l'agenda dice *esistente*, il corpo *vigente*.
 **Opzione:** Cosa fanno e cosa possono fare i sistemi di IA oggi; intelligenza artificiale e normativa esistente.
 **Distrattori:**
-- Cosa fanno e cosa possono fare i sistemi di IA oggi; le linee guida etiche della Commissione europea.
-- Una definizione di intelligenza artificiale; intelligenza artificiale e normativa esistente.
+- Il principio del risk based approach.
 - Cosa fanno e cosa possono fare i sistemi di IA oggi; la proposta di regolamento europeo sull'intelligenza artificiale.
 
 **D:** ⚠️ Secondo il docente, è l'intelligenza artificiale a essere normata?
@@ -2689,9 +2652,9 @@
 **R:** Che «l'**errore dell'algoritmo non è trasparente, né immediatamente evincibile**», e l'aveva già evidenziato la **Commissione Europea** — per il docente, «durante la **fase di gestazione delle linee guida sui principi etici** dell'intelligenza artificiale». ⚠️ *Evincibile*, non «visibile» come rende il transcript.
 **Opzione:** Che l'errore dell'algoritmo non è trasparente né immediatamente evincibile; l'aveva già evidenziato la Commissione Europea.
 **Distrattori:**
+- Le esamina e, se le ritiene fondate, le trasmette alla UIF prive del nominativo del segnalante.
 - Che l'errore dell'algoritmo non è trasparente né immediatamente evincibile; l'aveva già evidenziato il Parlamento Europeo.
-- Che l'errore dell'algoritmo non è correggibile una volta che il sistema è stato immesso sul mercato; l'aveva già evidenziato la Commissione Europea.
-- Che l'errore dell'algoritmo non è imputabile ad alcun soggetto responsabile; l'aveva già evidenziato la Commissione Europea.
+- Istantaneità e operatività a distanza, piattaforme stabilite in Paesi diversi da quello dell'utente, strumenti che agevolano l'anonimato; risposte avanzate e lungimiranti che senza pregiudicare l'innovazione evitino falle e arbitraggi regolamentari.
 
 **D:** ⚠️ Con quale esempio la slide misura la rilevanza dell'errore non trasparente dell'algoritmo?
 **R:** Con l'«**ormai consolidato ricorso — in alcuni Paesi — a sistemi di calcolo che esaminano dati capaci di predire il rischio di recidiva al fine di stabilire il *quantum* della pena applicabile**». ⚠️ Il ricorso è «**ormai consolidato**», non «ricorrente» come dice il parlato; ed è «**in alcuni Paesi**», non ovunque.
@@ -2863,8 +2826,7 @@
 **Opzione:** L'utilità dei Big Data e l'iter contrattuale; e-commerce e normativa in fieri.
 **Distrattori:**
 - L'utilità dei Big Data e l'iter contrattuale; la tutela della privacy e il GDPR.
-- Big Data e profilazione del rischio assicurativo; e-commerce e normativa in fieri.
-- L'utilità dei Big Data e la circolazione dei dati; il Digital Services Act e la tutela del consumatore.
+- Una definizione di Intelligenza Artificiale; le linee guida elaborate dalla Commissione europea applicabili in materia di robotica e intelligenza artificiale.
 
 **D:** Con quale affermazione si apre il deck 11 sull'utilità dei Big Data?
 **R:** «I **Big Data e le nuove tecnologie** sono oggi in grado di rendere la **classificazione meno costosa e molto più sofisticata**. Le **compagnie assicurative** possono sfruttare **enormi quantità di dati** e quindi **costruire profili di rischio dei loro clienti in modo molto accurato**, utilizzando tutta una serie di informazioni che sono ora a disposizione **a basso costo**.»
@@ -2878,17 +2840,16 @@
 **R:** **Cinque**, in quest'ordine: «informazioni provenienti dai **social media**»; «dai **network relazionali**»; «dai **dispositive mobile**» [*sic*]; «alla **geolocalizzazione**»; «alle informazioni di ***experience rating***».
 **Opzione:** Social media; network relazionali; dispositivi mobile; geolocalizzazione; informazioni di experience rating.
 **Distrattori:**
-- Social media; network relazionali; dispositivi mobile; geolocalizzazione; dati sanitari pubblici.
-- Social media; network relazionali; motori di ricerca; geolocalizzazione; informazioni di experience rating.
 - Social media; network relazionali; dispositivi mobile; geolocalizzazione; credit-scoring bancario.
+- Studio di sistemi che pensano come gli esseri umani, pensano razionalmente, agiscono come gli esseri umani; sistemi che agiscono razionalmente.
 
 **D:** ⚠️ Con quale voce si chiude l'elenco delle fonti di dati della slide 3, e a che cosa concorrono queste informazioni?
 **R:** Si chiude con le informazioni di ***experience rating***; tutte «possono concorrere a definire un **percorso di apprendimento delle abitudini del consumatore**». ⚠️ La coda è l'*experience rating*, non la geolocalizzazione: è il punto tipico su cui lavorano i distrattori.
 **Opzione:** Con le informazioni di experience rating; concorrono a definire un percorso di apprendimento delle abitudini del consumatore.
 **Distrattori:**
 - Con la geolocalizzazione; concorre a definire un percorso di apprendimento delle abitudini del consumatore.
-- Con le informazioni di experience rating; concorrono a costruire un profilo di rischio conforme agli standard dell'autorità di vigilanza.
-- Con le informazioni provenienti dai social media; concorrono a definire un percorso di apprendimento delle abitudini del consumatore.
+- Deep learning; sono sistemi di machine learning, e il machine learning è a sua volta una strada per l'applicazione dell'IA.
+- Fra i cinque valori etici, come divieto di svilire, compromettere o reprimere la dignità umana; fra i quattro principi fondamentali, come piena ed effettiva autodeterminazione e partecipazione al processo democratico.
 
 **D:** ⚠️ Perché il docente insiste sul settore assicurativo quando parla di Big Data?
 **R:** Perché «uno dei principali **ostacoli** alla realizzazione [del FinTech] risiede in una **resistenza culturale delle compagnie assicurative tradizionali, delle compagnie finanziarie tradizionali, delle banche tradizionali**, a permettere l'ingresso di **nuove tecnologie così disruptive** nei loro sistemi: il ***clash* culturale** esiste ancora». I Big Data hanno successo nelle InsurTech «anche in quelle tradizionali, ma meno», perché l'InsurTech «nasce generalmente da **startup** che vogliono utilizzare il FinTech al massimo possibile». ⚠️ Sta **solo nel transcript**.
@@ -2910,9 +2871,9 @@
 **R:** «Un'adeguata **tutela della privacy**, della **dignità umana** ed il **rispetto dei diritti fondamentali**.»
 **Opzione:** Un'adeguata tutela della privacy, della dignità umana ed il rispetto dei diritti fondamentali.
 **Distrattori:**
-- Un'adeguata tutela della privacy, della concorrenza fra operatori ed il rispetto dei diritti fondamentali.
 - Un'adeguata tutela della privacy, della dignità umana ed il rispetto del segreto industriale.
-- Un'adeguata tutela del risparmio, della dignità umana ed il rispetto dei diritti fondamentali.
+- Adeguare la comunicazione e l'intellegibilità delle informazioni, e adeguarsi al nuovo concetto di Product Oversight Governance.
+- La rendono meno costosa e molto più sofisticata, permettendo di costruire profili di rischio molto accurati.
 
 **D:** ⚠️ Secondo il docente, la tutela della privacy coincide con un giudizio morale sull'uso dei dati?
 **R:** No: «la privacy e la tutela dei diritti fondamentali **nulla ha a che vedere con il giudizio morale, etico** che si può dare in merito all'utilizzo di questi dati». Il giudizio sulla condotta della persona «riguarda **altre sfere**, cioè la propria **scala di valori interni**»; resta intatta «la libertà **sacrosanta e inviolabile** della persona di **non vedere divulgati dei dati** che non riguardano altro se non lui». ⚠️ Sta **solo nel transcript**.
@@ -2959,8 +2920,7 @@
 **Opzione:** Sito web (linguaggio html); server di un soggetto diverso da chi offre il prodotto; provider, che dà accesso alla rete tramite un indirizzo IP.
 **Distrattori:**
 - Sito web (linguaggio html); server dell'impresa che offre il prodotto; provider, che dà accesso alla rete tramite un indirizzo IP.
-- Sito web (linguaggio html); server di un soggetto diverso da chi offre il prodotto; provider, che conserva la documentazione precontrattuale.
-- Distributore, che gestisce la piattaforma; server di un soggetto diverso da chi offre il prodotto; autorità di vigilanza, che assegna l'indirizzo IP.
+- In tre: Product Governance Oversight, Product Oversight Governance e product oversight.
 
 **D:** ⚠️ A chi appartiene, secondo la slide, il server sul quale sono memorizzate le pagine in html?
 **R:** «Ad un **soggetto diverso da chi ha effettivamente offre il prodotto assicurativo**» [*sic*]. ⚠️ È il punto da cui discende la necessità dei **partner tecnologici**: chi vende la polizza non controlla l'infrastruttura su cui la polizza viaggia.
@@ -2983,8 +2943,8 @@
 **Opzione:** Dalle micro-insurance alle polizze di investimento assicurativo come unit linked e polizze multi-ramo.
 **Distrattori:**
 - Dalle micro-insurance alle polizze di investimento assicurativo come unit linked e polizze rivalutabili.
-- Dalle polizze catastrofali alle polizze di investimento assicurativo come unit linked e polizze multi-ramo.
-- Dalle micro-insurance alle polizze collettive di ramo vita stipulate dal datore di lavoro.
+- Sin dalla fase della progettazione e lungo tutto il percorso di utilizzo.
+- In linea con le esigenze dell'assicurando, con il suo profilo di rischio e con le sue possibilità economiche.
 
 **D:** Che cosa prevede l'IDD quanto al momento in cui comincia la tutela del cliente nel Product Oversight Governance?
 **R:** Che «la tutela finale del cliente **comincia negli steps di pianificazione e di costruzione** di una soluzione assicurativa», la quale deve: **i.** «essere in linea e **rispondere agli interessi di una certa tipologia di cliente**»; **ii.** «**perdurare fino alla naturale scadenza del contratto**».
@@ -3039,8 +2999,7 @@
 **Opzione:** Quando usano piattaforme online per contratti non espressamente richiesti dal consumatore; di norma nel momento di registrazione alla piattaforma.
 **Distrattori:**
 - Quando usano piattaforme online per contratti espressamente richiesti dal consumatore; di norma nel momento di registrazione alla piattaforma.
-- Quando usano piattaforme online per contratti non espressamente richiesti dal consumatore; di norma nel momento della sottoscrizione della polizza.
-- In ogni caso di collocamento a distanza, quale che sia l'iniziativa del contraente; di norma nel momento di registrazione alla piattaforma.
+- Nel giugno del 2018, con il precipuo scopo di studiare e approfondire l'AI e di elaborarne un documento di linee guida di tipo etico.
 
 **D:** ⚠️ Quali norme cita la slide 9 per il diritto di recesso, e che cosa devono comunicare i distributori?
 **R:** «**Art. 121, c. 1 Codice Assicurazioni Private** e **art. 67-*duodecies* D.Lgs. n. 209/2005**»: «i distributori dovranno **comunicare all'utente il diritto di scegliere e di trasmettere la documentazione precontrattuale e contrattuale**, potendo **modificare la modalità di comunicazione prescelta**». ⚠️ È una **coppia soggetto + norma**: vanno tenuti insieme entrambi i riferimenti così come li scrive la slide.
@@ -3071,8 +3030,8 @@
 **Opzione:** Il questionario sulla valutazione di adeguatezza, ai sensi dell'art. 58 del Regolamento IVASS.
 **Distrattori:**
 - Il questionario sulla valutazione di adeguatezza, ai sensi dell'art. 44 del Regolamento IVASS.
-- L'informativa precontrattuale, ai sensi dell'art. 58 del Regolamento IVASS.
-- Il questionario sull'adeguata verifica della clientela, ai sensi dell'art. 58 del Regolamento IVASS.
+- Ad es.: diritto primario dell'UE, diritto derivato dell'UE, Trattati ONU, convenzioni del Consiglio d'Europa e norme di numerosi Stati Membri UE.
+- In linea con le esigenze dell'assicurando, con il suo profilo di rischio e con le sue possibilità economiche.
 
 **D:** Quali informazioni devono acquisire i distributori nella fase di selezione del prodotto?
 **R:** Informazioni «tra le altre» sulle «**caratteristiche personali ed esigenze assicurative o previdenziali**», «**ove pertinenti**» — **cinque** voci: «**età e stato di salute**»; «**attività lavorativa**»; «**nucleo familiare**»; «**situazione finanziaria ed assicurativa**»; «**aspettative in relazione alla sottoscrizione del contratto in termini di copertura e durata**». ⚠️ La quarta voce **non compare nel parlato**: chi studia solo il transcript ne conta quattro.
@@ -3095,8 +3054,7 @@
 **Opzione:** Set informative; informativa precontrattuale; istruzioni per il pagamento del premio; la polizza.
 **Distrattori:**
 - Set informative; informativa precontrattuale; istruzioni per il pagamento del premio; le credenziali di accesso all'area riservata.
-- Set informative; informativa precontrattuale; questionario di adeguatezza compilato; la polizza.
-- Set informative; informativa precontrattuale; istruzioni per l'esercizio del diritto di recesso; la polizza.
+- Rispetto dei diritti fondamentali e dei principi di applicazione etica; affidabilità dei sistemi dalla progettazione e lungo tutto l'utilizzo; realizzazione di un assessment list.
 
 **D:** Che cosa prevede l'art. 44 del Regolamento IVASS quanto alla gestione telematica dei rapporti contrattuali?
 **R:** Che «il **contraente e l'aderente** hanno diritto di richiedere **in ogni momento** all'impresa le **credenziali di accesso all'area riservata**, nei limiti previsti nel regolamento». ⚠️ Il quantificatore è «**in ogni momento**», e i titolari del diritto sono **due**: contraente **e** aderente.
@@ -3134,9 +3092,9 @@
 **R:** «**Notevoli benefici**, **diminuendo i costi operativi**, ma anche **migliorando l'efficienza delle attività e della qualità del lavoro umano**.»
 **Opzione:** Notevoli benefici: diminuzione dei costi operativi e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
 **Distrattori:**
-- Notevoli benefici: diminuzione dei costi operativi e progressiva sostituzione del lavoro umano nelle attività ripetitive.
 - Notevoli benefici: diminuzione dei premi assicurativi e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
-- Notevoli benefici: aumento dei margini di intermediazione e miglioramento dell'efficienza delle attività e della qualità del lavoro umano.
+- Le tecniche fondate sul ciclo di vita del prodotto lasciano il posto ad altre fondate sui bisogni e sul ciclo di vita delle persone.
+- A evitare forme di abbinamento forzato.
 
 **D:** ⚠️ A che cosa «costringe» il giurista l'avvento di un fenomeno nuovo, secondo la slide 13?
 **R:** «Ad un **capillare approccio** allo stesso, ad **esaminare le caratteristiche essenziali**, a **comprenderlo**, a valutare se esso possa essere **ricondotto alle categorie già esistenti dell'ordinamento giuridico**. In sostanza si tratta di compiere un'attività di **qualificazione ed analisi delle esigenze/aspettative assicurative dell'utente**.» ⚠️ La slide dice «**capillare**», il docente «**nuovo** approccio»: fa testo la slide.
@@ -3151,8 +3109,8 @@
 **Opzione:** La Commissione europea e il Parlamento europeo hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Services Act.
 **Distrattori:**
 - La Commissione europea e il Parlamento europeo hanno approvato in via definitiva il nuovo Regolamento c.d. Digital Services Act.
-- La Commissione europea e il Consiglio ECOFIN hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Services Act.
-- La Commissione europea e il Parlamento europeo hanno raggiunto un accordo provvisorio sul nuovo Regolamento c.d. Digital Markets Act.
+- La direttiva è adattabile dalle norme nazionali, il regolamento è subito applicabile; il costo della direttiva sono le discrasie fra Stati membri.
+- I prestiti sono concessi da un istituto di credito e gli investitori acquisiscono importi parziali dalle richieste di rimborso offerte attraverso le piattaforme.
 
 **D:** Che cosa prevederà il Digital Services Act per i prestatori di servizi di intermediazione online?
 **R:** **Cinque** cose: «**garantire in ordine alle condizioni applicabili alla intellegibilità e facile comprensione delle informazioni**»; «**rispetto di un periodo di preavviso minimo per effettuare modifiche contrattuali**»; «**esplicitare come vengono trattati i dati, chiarendo i criteri che determinano l'ordine in cui i beni sono classificati nei risultati dei motori di ricerca**»; «la **creazione di un sistema per il trattamento interno dei reclami**»; «**indicare i nominativi di mediatori indipendenti e qualificati** con cui intendono lavorare per le eventuali **controversie extragiudiziali**».
@@ -3191,16 +3149,15 @@
 **Opzione:** Piattaforme digitali, algoritmi e Big Data: il caso del credit scoring.
 **Distrattori:**
 - Piattaforme digitali, algoritmi e Big Data: il caso del marketplace lending.
-- Piattaforme digitali, algoritmi e Big Data: il caso della consulenza automatizzata.
-- Piattaforme digitali, intelligenza artificiale e Big Data: il caso del credit scoring.
+- Una definizione di Intelligenza Artificiale; le linee guida elaborate dalla Commissione europea applicabili in materia di robotica e intelligenza artificiale.
 
 **D:** ⚠️ Dia la definizione di credit scoring.
 **R:** «Il credit scoring è un **metodo statistico** che consente di valutare l'**affidabilità creditizia** e la **solvibilità** di una persona.» ⚠️ Gli oggetti della valutazione sono **due**, non uno; e il metodo è **statistico**, non algoritmico — è la *più recente evoluzione* a essere algoritmica.
 **Opzione:** Un metodo statistico che consente di valutare l'affidabilità creditizia e la solvibilità di una persona.
 **Distrattori:**
-- Un metodo statistico che consente di valutare l'affidabilità creditizia e la propensione al consumo di una persona.
 - Un metodo algoritmico che consente di valutare l'affidabilità creditizia e la solvibilità di una persona.
-- Un metodo statistico che consente di valutare la capacità di rimborso e il patrimonio di una persona.
+- Un campo di ricerca che studia la programmazione e progettazione di sistemi mirati a dotare le macchine di una o più caratteristiche considerate tipicamente umane.
+- Strati nascosti di elaborazione dei dati immessi, attraverso cui processare informazioni in modo non-lineare, raggiungendo livelli di astrazione sempre più profondi.
 
 **D:** ⚠️ Che cosa ha fatto proprio il credit scoring algoritmico nella sua più recente evoluzione, e a quale fine?
 **R:** «L'uso delle tecniche di **machine learning** per l'**analisi ed elaborazione dei dati** che, **anonimizzati**, possono stabilire **correlazioni finanziarie** a ‘**predire**’ il **merito creditizio** di **un solo o di gruppi di creditori** con **maggiore accuratezza**.» ⚠️ I dati sono **anonimizzati**, e la previsione può riguardare **un solo** soggetto **o gruppi**.
@@ -3215,8 +3172,7 @@
 **Opzione:** Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche facilitare l'inclusione finanziaria.
 **Distrattori:**
 - Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche facilitare la trasparenza dei meccanismi di valutazione.
-- Non solo può migliorare l'efficienza e la rapidità della decisione, ma con questo può anche facilitare l'inclusione finanziaria.
-- Non solo può migliorare l'efficienza e l'accuratezza della decisione, ma con questo può anche ridurre il costo del credito per i richiedenti.
+- La tutela delle libertà e dei diritti fondamentali degli esseri umani, affinché non siano soppressi da un non corretto utilizzo di tali programmi.
 
 **D:** ⚠️ Perché, secondo il docente, i sistemi automatizzati di credit scoring favoriscono l'inclusione finanziaria?
 **R:** Perché abbattono il **costo documentale** dell'istruttoria, non perché valutino con più indulgenza: il beneficiario è «chi generalmente **non era accettato dalle banche** perché **faceva fatica a produrre la documentazione**, i moduli per applicare a prestiti», mentre con i sistemi automatizzati «tutto diventa così **immediato e facile** che **non chiede quasi mai un intervento dall'altra parte di produzione di documenti**». ⚠️ Da tenere distinta dall'**esclusione finanziaria**, che alla lezione 01 è un **rischio** del FinTech.
@@ -3234,8 +3190,7 @@
 **Opzione:** Dalla carenza di trasparenza dei diversi meccanismi di valutazione, con conseguenti significative differenze nei punteggi attribuiti.
 **Distrattori:**
 - Dalla carenza di trasparenza dei diversi meccanismi di valutazione, con conseguenti significative differenze nei tassi applicati.
-- Dalla scarsa qualità dei dati elaborati dai diversi meccanismi di valutazione, con conseguenti significative differenze nei punteggi attribuiti.
-- Dalla carenza di coordinamento fra i diversi meccanismi di valutazione, con conseguente impossibilità di confrontare i punteggi attribuiti.
+- Il comportamento adattivo, che risponde in modo proattivo elaborando il contesto e adattando la risposta alle sue peculiarità, in contrapposizione al recettore passivo di dati.
 
 **D:** ⚠️ Quale abuso, oltre all'opacità e alle inefficienze, consente il credit scoring algoritmico?
 **R:** «Consente di **sfruttare situazioni di vulnerabilità** con la conseguente offerta di **condizioni contrattuali più sfavorevoli che il richiedente è indotto ad accettare**.» ⚠️ È l'unica delle quattro ombre che descrive un abuso **intenzionale** e non un difetto tecnico, e sta **solo sulla slide**: il docente non la commenta.
@@ -3250,8 +3205,8 @@
 **Opzione:** Che vi si ritrova una costante fonte di discriminazione e di danno potenziale per determinati gruppi sociali.
 **Distrattori:**
 - Che vi si ritrova una occasionale fonte di discriminazione e di danno potenziale per determinati gruppi sociali.
-- Che vi si ritrova una costante fonte di discriminazione e di danno potenziale per la generalità dei consumatori.
-- Che vi si ritrova una costante fonte di opacità e di danno potenziale per determinati gruppi sociali.
+- L'IA è lo studio dello sviluppo di sistemi dotati di capacità tipiche dell'essere umano; il machine learning è una strada per la sua applicazione.
+- Fra i cinque valori etici, come divieto di svilire, compromettere o reprimere la dignità umana; fra i quattro principi fondamentali, come piena ed effettiva autodeterminazione e partecipazione al processo democratico.
 
 **D:** ⚠️ Che cosa sostiene, secondo la slide, la posizione favorevole ai lenders fintech?
 **R:** Che essi «**riducono significativamente la discriminazione insita nelle interazioni tradizionali**, **sebbene** un impatto discriminatorio possa essere prodotto dall'uso di **informazioni non corrette o imperfette**». ⚠️ La riserva finale non è eliminata: il rischio residuo nasce dalla **qualità dei dati**, non dall'algoritmo.
@@ -3280,8 +3235,7 @@
 **Opzione:** Grazie alla facilità e rapidità di cui possono usufruire i creditori nell'accesso alle diverse piattaforme.
 **Distrattori:**
 - Grazie alla facilità e rapidità di cui possono usufruire i richiedenti nell'accesso alle diverse piattaforme.
-- Grazie alla trasparenza e comparabilità di cui possono usufruire i creditori nell'accesso alle diverse piattaforme.
-- Grazie alla facilità e rapidità di cui possono usufruire i creditori nell'accesso alle diverse banche dati.
+- A coloro che ne sono interessati, e per quanto possibile.
 
 **D:** Grazie a quale regolazione può essere esercitato un controllo più attento sui dati usati nel credit scoring e sui loro potenziali effetti scorretti o discriminatori?
 **R:** «Grazie alla **regolazione relativa al trattamento dei dati personali**», cioè al **GDPR**. ⚠️ Oggi non esiste una disciplina del credit scoring algoritmico: la leva è **indiretta** e passa dalla protezione dei dati.
@@ -3303,9 +3257,9 @@
 **R:** I dati «debbono essere **adeguati, pertinenti e limitati a quanto necessario**». ⚠️ Anche questa è una **triade**, e il transcript ne riporta **solo la prima voce** («per cui devono essere adeguati»): la coda «pertinenti e limitati a quanto necessario» sta **solo sulla slide**, ed è il bersaglio tipico della *coda sostituita*.
 **Opzione:** Debbono essere adeguati, pertinenti e limitati a quanto necessario.
 **Distrattori:**
-- Debbono essere adeguati, pertinenti e limitati a quanto utile.
 - Debbono essere adeguati, pertinenti e conservati per il tempo necessario.
-- Debbono essere adeguati, aggiornati e limitati a quanto necessario.
+- Controllabili, intellegibili e comprensibili, così che ogni essere umano sia sempre informato di trovarsi di fronte a un sistema di IA.
+- Legalità, eticità e robustezza.
 
 **D:** Che cosa sembra attribuire all'interessato la norma del GDPR sui processi decisionali automatizzati?
 **R:** «**Non solo un potere di consenso ma anche di controllo**, legato alla **richiesta di ottenere l'intervento umano** e al **diritto a conoscere la logica della decisione algoritmica**.» ⚠️ La slide dice «**sembra** attribuire»; i poteri di controllo sono **due** e si **aggiungono** al consenso, non lo sostituiscono.
@@ -3344,8 +3298,8 @@
 **Opzione:** Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito nell'esercizio di un'attività commerciale o professionale.
 **Distrattori:**
 - Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito a titolo oneroso.
-- Persone giuridiche che concedono o s'impegnano a concedere un credito nell'esercizio di un'attività commerciale o professionale.
-- Persone fisiche o giuridiche che concedono o s'impegnano a concedere un credito previa autorizzazione all'esercizio del credito.
+- Sistemi che mostrano un comportamento intelligente analizzando il proprio ambiente e compiendo azioni, con un certo grado di autonomia, per raggiungere specifici obiettivi.
+- Sistemi di machine learning ispirati al funzionamento del cervello umano, per risolvere prevalentemente tre problemi: classificazione di dati, regressione per prevedere da un dato storico un dato futuro, classificazione di classi di dati.
 
 **D:** ⚠️ Quando sorge il problema qualificatorio delle piattaforme di marketplace lending?
 **R:** «Allorquando tali piattaforme si limitano a svolgere **attività funzionali al soddisfacimento dei bisogni finanziari in una logica di mercato**, **non finanziando direttamente i soggetti in deficit ma mettendoli in contatto con possibili prestatori, perlopiù non professionali**.» ⚠️ Il «**perlopiù non professionali**» è la ragione per cui la definizione di *creditore* non li copre.
@@ -3359,9 +3313,8 @@
 **R:** «Sulla base di **algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito**.» ⚠️ La slide 8 parla delle informazioni **fornite dal prenditore**; il deck 15 (slide 13) aggiunge che le piattaforme di social lending verificano il merito anche «interrogando le centrali rischi private».
 **Opzione:** Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di valutarne il merito di credito.
 **Distrattori:**
-- Sulla base di algoritmi che elaborano le informazioni fornite dal prenditore di fondi al fine di garantirne il rimborso.
-- Sulla base della conoscenza e dell'esperienza degli investitori al dettaglio.
 - Sulla base di algoritmi che elaborano le informazioni fornite dall'offerente il credito al fine di valutare il merito di credito del prenditore.
+- Sulla base della conoscenza e dell'esperienza degli investitori al dettaglio.
 
 **D:** ⚠️ Che cos'è il modello diretto di marketplace lending e che ruolo vi ha lo scoring?
 **R:** È quello «in cui il **prestatore sceglie sulla piattaforma i prestiti da concedere**»; in esso «questi **può utilizzare** tale giudizio (o *scoring*) per le **proprie decisioni di finanziamento**». ⚠️ Lo scoring è uno strumento **facoltativo** di decisione, non un presupposto.
@@ -3408,8 +3361,7 @@
 **Opzione:** Solo quando utilizzato da banche e intermediari finanziari nel contesto dell'attività di finanziamento.
 **Distrattori:**
 - Quando utilizzato da banche e intermediari finanziari, anche al di fuori dell'attività di finanziamento.
-- Solo quando utilizzato da banche e intermediari finanziari nel contesto dell'attività di finanziamento a consumatori.
-- Ogni volta che sia utilizzato nel contesto dell'attività di finanziamento, quale che sia il soggetto che lo impiega.
+- Quando sarà considerata molto precisa, cioè quando l'errore sarà facilmente stanabile.
 
 **D:** ⚠️ A quale regime è sottoposto il credit scoring svolto da soggetti non autorizzati all'esercizio del credito?
 **R:** «Al **diritto comune**», «siano essi **start-up** o **piattaforme non finanziarie globali (c.d. Big Tech)**».
@@ -3443,8 +3395,7 @@
 **Opzione:** Da una proposta di risoluzione avanzata dal Parlamento.
 **Distrattori:**
 - Da una proposta di regolamento avanzata dalla Commissione.
-- Da una proposta di risoluzione avanzata dal Consiglio.
-- Da un parere avanzato dalle autorità europee di vigilanza.
+- I portali, attraverso schede conformi a un modello standard allegato al Regolamento Consob.
 
 **D:** Quali compiti avrebbe la nuova autorità di controllo prevista dalla proposta di regolamento?
 **R:** «**Monitorare l'applicazione del regolamento** e, **soprattutto**, **valutare il rischio delle tecnologie** e **certificare la conformità di IA, robotica e tecnologie correlate “ad alto rischio”** rispetto ai **principi e valori europei**, quali sanciti **in primo luogo dalla Carta dei diritti fondamentali dell'UE**.» ⚠️ L'autorità è **nuova** e «ad oggi **non esiste**, dovrebbe essere creata».
@@ -3466,9 +3417,9 @@
 **R:** «Nei settori ad alto rischio il Parlamento annovera la **finanza**, le **banche** e le **assicurazioni**, riconoscendo la **concessione di prestiti** come **utilizzo o finalità ad alto rischio**.» ⚠️ L'alto rischio è predicato su **due piani distinti**: per **settore** e per **utilizzo o finalità**.
 **Opzione:** La finanza, le banche e le assicurazioni, riconoscendo la concessione di prestiti come utilizzo o finalità ad alto rischio.
 **Distrattori:**
-- La finanza, le banche e le assicurazioni, riconoscendo la raccolta del risparmio come utilizzo o finalità ad alto rischio.
-- La finanza, le banche e i servizi di pagamento, riconoscendo la concessione di prestiti come utilizzo o finalità ad alto rischio.
 - La finanza, le banche e le assicurazioni, riconoscendo la concessione di prestiti come settore soggetto a riserva di attività.
+- Rispetto dei diritti fondamentali e dei principi di applicazione etica; affidabilità dei sistemi dalla progettazione e lungo tutto l'utilizzo; realizzazione di un assessment list.
+- Rispetto della dignità umana; libertà individuale; rispetto della democrazia, della giustizia e dello Stato di diritto; uguaglianza, non discriminazione e solidarietà; diritti dei cittadini.
 
 **D:** ⚠️ A quale condizione, e da parte di chi, i sistemi di credit scoring con impiego di intelligenza artificiale dovrebbero essere certificati?
 **R:** «**Qualora la proposta di regolamento fosse approvata** nei termini appena accennati», essi «dovrebbero essere sottoposti a **preventiva certificazione di conformità** dalla **nuova autorità di controllo europea** ed **alle corrispondenti autorità nazionali**». ⚠️ La certificazione è **preventiva**, l'ipotesi è **condizionale** e i livelli sono **due**: il transcript si ferma a quello europeo.
@@ -3509,8 +3460,8 @@
 **Opzione:** Cosa è il Crowdfunding? e La cornice legale italiana sul Crowdfunding.
 **Distrattori:**
 - Cosa è il Crowdfunding? e La cornice europea sul Crowdfunding.
-- Cosa è il Crowdfunding? e Le differenti tipologie di Crowdfunding.
-- Le differenti tipologie di Crowdfunding e La cornice legale italiana sul Crowdfunding.
+- Cosa fanno e cosa possono fare i sistemi di IA oggi; intelligenza artificiale e normativa esistente.
+- L'utilità dei Big Data e l'iter contrattuale; e-commerce e normativa in fieri.
 
 **D:** ⚠️ Dia la definizione di crowdfunding nella formula letterale della slide.
 **R:** «Il termine Crowdfunding si riferisce al **processo attraverso il quale più persone conferiscono denaro, anche di piccola entità, per finanziare un progetto imprenditoriale o iniziative di vario genere utilizzando siti web ("piattaforme" o "portali") e ricevendo generalmente in cambio un profitto o una ricompensa**.» La fonte citata in nota è *Simple and Easy Guide to Financial Technology*, **James Jackson**, CreateSpace Independent Publishing Platform, **2017**. ⚠️ Tre quantificatori da non irrigidire: il denaro è «**anche** di piccola entità» (possibilità, non obbligo); l'oggetto è **alternativo** («un progetto imprenditoriale **o** iniziative di vario genere»); il ritorno è «**generalmente**» un profitto **o** una ricompensa — ed è quel «generalmente» a lasciare spazio al *donation-based*, dove non si riceve nulla.
@@ -3525,8 +3476,8 @@
 **Opzione:** Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di debito, modelli ibridi.
 **Distrattori:**
 - Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di Stato, modelli ibridi.
-- Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione agli utili o ai ricavi, titoli di debito, modelli misti pubblico-privato.
-- Debito (peer-to-peer lending), equity, ricompense, donazioni, partecipazione alle perdite, titoli di debito, modelli ibridi.
+- Raccolta di dati; loro analisi; valutazione dei bisogni e del profilo di rischio del cliente; formulazione di proposte; sottoscrizione del contratto; monitoraggio dello stesso; scambio informativo tra compagnia e distributori.
+- Età e stato di salute; attività lavorativa; nucleo familiare; situazione finanziaria ed assicurativa; aspettative in relazione alla sottoscrizione del contratto in termini di copertura e durata.
 
 **D:** Che cos'è il crowdfunding di debito (peer-to-peer lending), e in che cosa differisce dal prestito bancario tradizionale?
 **R:** «I privati **prestano denaro a un'azienda** con l'intesa che il denaro verrà **restituito con gli interessi**. È molto **simile al tradizionale prestito bancario**, con la differenza che le piattaforme di prestito P2P mettono in contatto i **mutuatari direttamente con gli investitori**, consentendo ai primi di accedere a **metodi di finanziamento alternativi** rispetto alle banche o agli istituti di credito tradizionali.»
@@ -3565,8 +3516,8 @@
 **Opzione:** Le aziende condividono i profitti o i ricavi futuri con la folla in cambio di finanziamenti immediati.
 **Distrattori:**
 - Le aziende condividono i profitti o i ricavi già realizzati con la folla in cambio di finanziamenti immediati.
-- Le aziende condividono i profitti o i ricavi futuri con la folla in cambio di finanziamenti dilazionati nel tempo.
-- Le aziende condividono le perdite e i ricavi futuri con la folla in cambio di finanziamenti immediati.
+- Analizzare tecnicamente le relative istruzioni e modalità di funzionamento dell'algoritmo, diversamente da una sentenza giudiziaria, che è sempre oggetto di succinta motivazione.
+- Nel modo in cui il sistema deve leggere precedenti giudiziari contrastanti e attribuire significato a nozioni come correttezza, buona fede e diligenza, che rimandano a valutazioni esterne al diritto.
 
 **D:** ⚠️ Che cos'è il crowdfunding di titoli di debito, e perché va tenuto distinto dal crowdfunding di debito?
 **R:** «I privati **investono in un titolo di debito emesso dalla società**, come ad esempio un'**obbligazione**.» ⚠️ Nel crowdfunding **di debito** (peer-to-peer lending) i privati **prestano denaro** e attendono la **restituzione con gli interessi**; qui **sottoscrivono un titolo** che la società **emette**. ⚠️ È la voce che il docente **omette** nel parlato: proprio per questo è il candidato più probabile a fare da distrattore sull'elenco.
@@ -3574,31 +3525,28 @@
 **Distrattori:**
 - I privati investono in un titolo di debito emesso dalla piattaforma, come ad esempio un'obbligazione.
 - I privati prestano denaro alla società con l'intesa che il denaro verrà restituito con gli interessi.
-- I privati investono in un titolo rappresentativo del capitale emesso dalla società, come ad esempio un'azione.
 
 **D:** ⚠️ Con quale definizione la slide mette a confronto il crowdfunding, e con quale riferimento normativo?
 **R:** Con l'**attività bancaria**: «la **raccolta di risparmio tra il pubblico** e la **concessione di credito**» (**art. 10, comma 1, TUB**). La slide accosta le due definizioni con un «**=**», seguito — dice il docente — da «un **punto di domanda**». ⚠️ La definizione è **congiuntiva**: sono **due** attività, ed è la loro combinazione a fare la banca. ⚠️ Il riferimento all'art. 10, comma 1, sta **solo sulla slide**: il docente dice soltanto «così come definita dal testo unico bancario».
 **Opzione:** L'attività bancaria, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
 **Distrattori:**
-- L'attività bancaria, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUF.
 - L'attività bancaria, cioè la raccolta di risparmio tra il pubblico o la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
-- L'attività di intermediazione, cioè la raccolta di risparmio tra il pubblico e la concessione di credito, ai sensi dell'art. 10, comma 1, TUB.
+- La promozione e il collocamento di contratti di assicurazione mediante tecniche di comunicazione a distanza.
 
 **D:** Che cosa prevede la tradizionale cornice regolamentare per il debt crowdfunding?
 **R:** «Si riserva **in generale** il diritto di **concedere prestiti** alle **banche e ad altri intermediari finanziari regolamentati**.» ⚠️ Il quantificatore è «in generale» e non va irrigidito in un «solo» o in un «in ogni caso».
 **Opzione:** Si riserva in generale il diritto di concedere prestiti alle banche e ad altri intermediari finanziari regolamentati.
 **Distrattori:**
-- Si riserva in generale il diritto di concedere prestiti alle sole banche.
 - Si riserva in ogni caso il diritto di concedere prestiti alle banche e ad altri intermediari finanziari regolamentati.
-- Si riserva in generale il diritto di concedere prestiti alle banche e alle piattaforme autorizzate dall'autorità di vigilanza.
+- Che l'errore dell'algoritmo non è trasparente né immediatamente evincibile; l'aveva già evidenziato la Commissione Europea.
+- Che la tecnologia non ha alcuna sensibilità, perché i segnali non verbali e i bio-segnali cerebrali decisivi per un'interazione sociale sono totalmente assenti nei sistemi IA e in qualsivoglia sistema di calcolo.
 
 **D:** ⚠️ Che cosa regolamenta rigorosamente la cornice tradizionale per l'equity-based crowdfunding?
 **R:** «L'**accesso ai mercati finanziari** e la **prestazione di servizi di investimento** e la **relativa condotta aziendale**.» ⚠️ Gli oggetti sono **tre**: il docente si ferma ai primi due, e la coda «relativa condotta aziendale» sta **solo sulla slide**.
 **Opzione:** L'accesso ai mercati finanziari, la prestazione di servizi di investimento e la relativa condotta aziendale.
 **Distrattori:**
-- La concessione di prestiti, la prestazione di servizi di investimento e la relativa condotta aziendale.
-- L'accesso ai mercati finanziari, la prestazione di servizi di pagamento e la relativa condotta aziendale.
 - L'accesso ai mercati finanziari, la prestazione di servizi di investimento e la relativa adeguatezza patrimoniale.
+- L'elaborazione simultanea di enormi quantità di dati, e linee guida chiare per scartare le segnalazioni palesemente infondate e inoltrare quelle sicuramente o verosimilmente da segnalare.
 
 **D:** ⚠️ Che cos'è il «forum shopping» di cui parla la slide, e quali criteri di convenienza lo guidano?
 **R:** «**The practice which refer to the choice of a court or, in this case, a jurisdiction by financial market players based on which jurisdiction is most likely to provide them a favorable legislation on the activities to be performed**», esemplificata su tre criteri: «**access to the market**», «**compliance costs**», «**supervisory authorities' approach**». È l'effetto del «**consequent lack of coordination**» fra i diversi approcci europei, «especially with reference to the **cross border functioning of such platforms**». ⚠️ Il passaggio è in **inglese** e sta **solo sulla slide**: il docente legge la sola formula del *lack of coordination*.
@@ -3628,9 +3576,9 @@
 **R:** «Beneficia di una **specifica esenzione dal monopolio degli istituti di credito** e quindi **non è un'attività riservata**.» Restano però due esclusioni — «La **concessione di prestiti da parte di professionisti o aziende** e il **credito al consumo** **non sono ammessi** nell'ambito del crowdfunding basato sui prestiti» — e un obbligo: «sono previsti **requisiti per i fornitori di piattaforme che si qualificano come intermediari finanziari**».
 **Opzione:** Beneficia di una specifica esenzione dal monopolio degli istituti di credito e quindi non è un'attività riservata.
 **Distrattori:**
-- Beneficia di una specifica esenzione dal monopolio degli istituti di credito, ma resta un'attività riservata ai soli intermediari finanziari.
-- È un'attività riservata agli istituti di credito come concessione di prestiti.
 - Beneficia di una specifica esenzione dall'obbligo di trasparenza nei confronti degli investitori e quindi non è un'attività riservata.
+- È un'attività riservata agli istituti di credito come concessione di prestiti.
+- Come una delle aree in cui sono in corso sviluppi molto interessanti delle competenze dei sistemi di IA.
 
 **D:** ⚠️ In Francia il crowdfunding basato sugli investimenti è attività riservata? E quale onere grava sulle piattaforme?
 **R:** «**Non è un'attività riservata**, ma i fornitori delle piattaforme che offrono **titoli di debito o di capitale** devono **qualificarsi come consulenti per gli investimenti**.» ⚠️ In Francia il «non è un'attività riservata» ricorre **due volte** — prestiti *e* investimenti — ma per ragioni diverse: là per **esenzione dal monopolio**, qui con l'**onere della qualifica**.
@@ -3661,8 +3609,8 @@
 **Opzione:** Perché l'articolo 11 del TUB riserva la concessione di prestiti a banche e intermediari finanziari.
 **Distrattori:**
 - Perché l'articolo 11 del TUF riserva la concessione di prestiti a banche e intermediari finanziari.
-- Perché l'articolo 11 del TUB riserva la concessione di prestiti alle sole banche.
-- Perché l'articolo 11 del TUB riserva la prestazione di servizi di investimento a banche e intermediari finanziari.
+- Perché gli algoritmi selezionano solo informazioni e dati definiti nelle istruzioni del programmatore.
+- Perché uno dei principali ostacoli al FinTech è la resistenza culturale degli operatori tradizionali, mentre l'InsurTech nasce generalmente da start-up che vogliono usare il FinTech al massimo.
 
 **D:** ⚠️ Quali esenzioni alla riserva dell'articolo 11 TUB nomina la slide?
 **R:** «Sono previste **alcune esenzioni** (come quelle sui **FIA creditizi**, sulla **microfinanza**…).» ⚠️ I tre punti lasciano l'elenco **aperto**, e il docente le generalizza in «**alcuni fondi di investimento**»: all'esame vale la formula della slide.
@@ -3676,17 +3624,16 @@
 **R:** Quattro: **Decreto Legislativo n. 179/2012**; **Articolo 50-*quinquies* TUF**; **Articolo 100-*ter* TUF**; **Regolamento Consob sulla raccolta di capitali attraverso portali on-line, risoluzione n. 18592 del 26 giugno 2013**. ⚠️ La slide **elenca** le fonti senza dire quale governi che cosa: non va attribuita a ciascun articolo una materia che i materiali non indicano. ⚠️ L'ASR del transcript storpia i numeri in «articolo **55** del TUF» e «il **100 terra**»: vale la slide.
 **Opzione:** D.Lgs. n. 179/2012, art. 50-quinquies TUF, art. 100-ter TUF e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
 **Distrattori:**
-- D.Lgs. n. 179/2012, art. 50-quinquies TUB, art. 100-ter TUB e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
 - D.Lgs. n. 179/2012, art. 55 TUF, art. 100-ter TUF e il Regolamento Consob sulla raccolta di capitali attraverso portali on-line.
-- D.Lgs. n. 179/2012, art. 50-quinquies TUF, art. 100-ter TUF e il Regolamento Banca d'Italia sulla raccolta di capitali attraverso portali on-line.
+- Tre: AML, GDPR e MiFID.
+- Quelle sui FIA creditizi e sulla microfinanza.
 
 **D:** ⚠️ Con quale numero e quale data la slide identifica il Regolamento Consob sulla raccolta di capitali attraverso portali on-line?
 **R:** «**Risoluzione n. 18592 del 26 giugno 2013**.» ⚠️ Coppia **numero + data** da tenere insieme; e la slide usa la parola «**risoluzione**», mentre il docente parla genericamente di «regolamento».
 **Opzione:** Risoluzione n. 18592 del 26 giugno 2013.
 **Distrattori:**
 - Risoluzione n. 18592 del 26 giugno 2012.
-- Risoluzione n. 18952 del 26 giugno 2013.
-- Risoluzione n. 18592 del 26 luglio 2013.
+- Ai prestatori di servizi di intermediazione online.
 
 **D:** ⚠️ Chi può essere offerente su un portale di crowdfunding, secondo la slide?
 **R:** Cinque categorie: **①** le **piccole e medie imprese** come definite dall'**art. 2, sezione 1, lettera (f), primo periodo, del Regolamento (UE) 2017/1129**; **②** le **start up innovative** e le **start up sociali** (art. 25, commi 2 e 4) e le **start up turistiche** (art. 11-*bis* del **D.L. n. 83/2014**), conformi ai **requisiti dimensionali di cui al numero 01**; **③** le **start up innovative** come definite dall'**art. 4, comma 1, del D.Lgs. n. 3/2015**; **④** gli **organismi di investimento collettivo** che investono prevalentemente in PMI (**almeno il 70% dei loro investimenti**); **⑤** le **altre società** che investono prevalentemente in PMI (**almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio**). ⚠️ Il docente **non nomina** le start up turistiche; e le **start up innovative** compaiono **due volte**, con **due fonti diverse**.
@@ -3700,17 +3647,15 @@
 **R:** **Almeno il 70%** in entrambi i casi, ma su **basi diverse**: per gli **OICR** è il 70% «dei loro **investimenti**»; per le **altre società** è il 70% delle **immobilizzazioni finanziarie** «risultanti dall'**ultimo bilancio**». ⚠️ Stessa percentuale, **due parametri**: è il punto su cui è più facile scambiare le due voci.
 **Opzione:** Almeno il 70% degli investimenti per gli OICR e almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per le altre società.
 **Distrattori:**
-- Almeno il 70% degli investimenti per gli OICR e almeno il 70% del fatturato risultante dall'ultimo bilancio per le altre società.
 - Almeno il 70% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per gli OICR e almeno il 70% degli investimenti per le altre società.
-- Almeno il 50% degli investimenti per gli OICR e almeno il 50% delle immobilizzazioni finanziarie risultanti dall'ultimo bilancio per le altre società.
+- Il data mining, per estrarre informazioni utili da grandi quantità di dati altrimenti difficilmente interpretabili; il machine learning, per raggruppare i dati in gruppi omogenei e classificarli in base a regole autodeterminate dal sistema.
 
 **D:** ⚠️ Chi fornisce agli investitori le informazioni sull'offerta e sugli offerenti, e in quale forma?
 **R:** «**I portali** forniscono agli investitori informazioni sull'offerta e sugli offerenti attraverso **schede conformi a un modello standard allegato al Regolamento Consob**.» ⚠️ L'obbligo documentale grava sul **portale**, non sull'offerente: «badate bene, **non l'offerente**, in termini di documentazione».
 **Opzione:** I portali, attraverso schede conformi a un modello standard allegato al Regolamento Consob.
 **Distrattori:**
 - Gli offerenti, attraverso schede conformi a un modello standard allegato al Regolamento Consob.
-- I portali, attraverso schede redatte liberamente secondo la prassi di ciascuna piattaforma.
-- I portali, attraverso schede conformi a un modello standard allegato al Testo unico della finanza.
+- Con l'ormai consolidato ricorso, in alcuni Paesi, a sistemi di calcolo capaci di predire il rischio di recidiva per stabilire il quantum della pena applicabile.
 
 **D:** ⚠️ Chi è il gestore del portale, secondo la definizione della slide?
 **R:** «Il soggetto che svolge **professionalmente** la gestione di portali di crowdfunding per le **piccole e medie imprese** e per le **imprese sociali** ed è **iscritto nel registro della Consob**.» ⚠️ Tre elementi: esercizio **professionale**, **due** classi di destinatari, iscrizione nel **registro**. La slide dice *registro*; il docente dice «un apposito registro della Consob, quindi un **albo**»: vale *registro*.
@@ -3725,16 +3670,14 @@
 **Opzione:** Alle entità regolamentate, cioè banche e società di investimento, e alle altre società con specifica autorizzazione della Consob.
 **Distrattori:**
 - Alle sole entità regolamentate, cioè banche e società di investimento.
-- Alle entità regolamentate, cioè banche e società di gestione del risparmio, e alle altre società con specifica autorizzazione della Consob.
-- Alle entità regolamentate, cioè banche e società di investimento, e alle altre società con specifica autorizzazione della Banca d'Italia.
+- A un soggetto diverso da chi offre effettivamente il prodotto assicurativo.
 
 **D:** ⚠️ In che rapporto stanno le regole cui sono soggetti i gestori di portali con quelle della MiFID II?
 **R:** «I gestori di portali sono soggetti a regole **simili ma più leggere** rispetto a quelle previste dalla **MiFID II** in relazione alla **prestazione di servizi di investimento**.» ⚠️ Parola di direzione: **più leggere**. E l'elenco delle materie è dichiarato **aperto** («*inter alia*»).
 **Opzione:** Sono soggetti a regole simili ma più leggere rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
 **Distrattori:**
 - Sono soggetti a regole simili ma più stringenti rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
-- Sono soggetti alle medesime regole previste dalla MiFID II in relazione alla prestazione di servizi di investimento.
-- Sono soggetti a regole simili ma più leggere rispetto a quelle previste dalla MiFID II in relazione alla prestazione di servizi di pagamento.
+- Beneficia di una specifica esenzione dal monopolio degli istituti di credito e quindi non è un'attività riservata.
 
 **D:** Quali materie riguardano le regole cui sono soggetti i gestori di portali?
 **R:** Cinque, «*inter alia*»: **requisiti di capitale**; requisiti di **onorabilità delle persone che esercitano il controllo su tali entità**; requisiti di **onorabilità delle persone che ricoprono posizioni amministrative, gestionali e di controllo**; la **conduzione degli affari** (dovere di agire con **diligenza, correttezza e trasparenza**); la **gestione dei conflitti di interesse**. ⚠️ L'**onorabilità** compare **due volte**, su **due platee diverse**: chi *esercita il controllo* sull'entità e chi *ricopre posizioni amministrative, gestionali e di controllo*.
@@ -3757,24 +3700,23 @@
 **Opzione:** La gestione del portale, l'investimento e i relativi rischi, la singola offerta.
 **Distrattori:**
 - La gestione del portale, l'investimento e i relativi rischi, la situazione patrimoniale dell'investitore.
-- La gestione del portale, l'investimento e i relativi rischi, la singola offerta e i costi di intermediazione applicati.
-- La gestione del portale, il rendimento atteso dell'investimento e la singola offerta.
+- Prodotto adeguato; prodotto non adeguato ma il cliente procede comunque; intermediario che non ha potuto valutare l'adeguatezza ma l'utente procede comunque.
+- In relazione alla responsabilità civile derivante dai danni causati da questi sistemi e dalle loro interazioni.
 
 **D:** ⚠️ Quale diritto di recesso prevede la slide, per quali investitori e in quale termine?
 **R:** «**Diritto di recesso per gli investitori *retail*** da esercitare **entro 7 giorni**.» ⚠️ Il recesso è dei **retail**: il docente dice soltanto «un diritto di recesso per gli **investitori** da esercitare entro sette giorni», perdendo la qualificazione.
 **Opzione:** Un diritto di recesso per gli investitori retail, da esercitare entro 7 giorni.
 **Distrattori:**
 - Un diritto di recesso per tutti gli investitori, da esercitare entro 7 giorni.
-- Un diritto di recesso per gli investitori retail, da esercitare entro 14 giorni.
-- Un diritto di recesso per gli investitori professionali, da esercitare entro 7 giorni.
+- Che il contraente e l'aderente hanno diritto di richiedere in ogni momento all'impresa le credenziali di accesso all'area riservata, nei limiti previsti nel regolamento.
 
 **D:** ⚠️ Su quale base i gestori dei portali valutano l'adeguatezza degli strumenti finanziari offerti?
 **R:** «Sulla base della **conoscenza e dell'esperienza degli investitori al dettaglio**.» ⚠️ **Non** la situazione patrimoniale né gli obiettivi di investimento: solo **conoscenza ed esperienza**, e riferite agli investitori **al dettaglio**. La precisazione sta **solo sulla slide**.
 **Opzione:** Sulla base della conoscenza e dell'esperienza degli investitori al dettaglio.
 **Distrattori:**
 - Sulla base della conoscenza, dell'esperienza e della situazione patrimoniale degli investitori al dettaglio.
-- Sulla base della conoscenza e dell'esperienza di tutti gli investitori, professionali compresi.
-- Sulla base degli obiettivi di investimento e della tolleranza al rischio degli investitori al dettaglio.
+- Solo in negativo: l'intermediario non ha potuto valutare l'adeguatezza per l'assenza di un riscontro completo a seguito del comportamento del cliente.
+- Utilizzando i comportamenti di spesa del passato per evidenziare movimenti anomali, e migliorando apprendendo dai propri errori quando un essere umano corregge una transazione normale segnalata come truffa.
 
 **D:** ⚠️ Che cosa non possono fare i gestori dei portali diversi da banche e imprese di investimento?
 **R:** Due cose: «**non possono detenere denaro degli investitori**» e «**non possono eseguire gli ordini** presentati dagli investitori in merito agli strumenti finanziari offerti attraverso i loro portali». ⚠️ È «la **limitazione principale**», e la *ratio* data dal docente è il «**maneggiamento di soldi non propri**»: le banche, «soggette a obblighi stringenti», «**lo possono fare anche se fanno il crowdfunding**». ⚠️ Il divieto riguarda l'**esecuzione** degli ordini, non la loro **trasmissione**, che i gestori invece devono fare.
@@ -3796,9 +3738,8 @@
 **R:** Per i **singoli investitori**, importo «**superiore a 500 euro per ogni ordine** e a **1.000 euro su base annua**»; per gli **investitori persone giuridiche**, importo «**superiore a 5.000 euro per ogni ordine** e a **10.000 euro su base annuale**». ⚠️ È una matrice **2×2** (chi presenta l'ordine × base di calcolo) e la condizione è sempre «**superiore a**».
 **Opzione:** Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 10.000 euro annui per le persone giuridiche.
 **Distrattori:**
-- Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 50.000 euro annui per le persone giuridiche.
 - Oltre 1.000 euro per ordine e 500 euro annui per i singoli investitori; oltre 10.000 euro per ordine e 5.000 euro annui per le persone giuridiche.
-- Oltre 500 euro per ordine e 1.000 euro annui per i singoli investitori; oltre 5.000 euro per ordine e 10.000 euro annui per investitori professionali.
+- Prodotto adeguato; prodotto non adeguato ma il cliente procede comunque; intermediario che non ha potuto valutare l'adeguatezza ma l'utente procede comunque.
 
 **D:** ⚠️ Quale test esonera il gestore del portale dall'applicazione delle norme MiFID II all'esecuzione degli ordini?
 **R:** Il test di **appropriatezza**: le norme MiFID II si applicano «**a meno che** il gestore del portale **non sia tenuto ad effettuare il test di appropriatezza** sugli strumenti finanziari offerti». ⚠️ Da non confondere con la **valutazione di adeguatezza** delle slide 13 e 14: sono due test **distinti**. ⚠️ E la formula è **rovesciata**: è l'essere già **tenuto** al test a **escludere** l'applicazione della MiFID II.
@@ -3822,7 +3763,7 @@
 **Distrattori:**
 - Lo Uber-test e la decisione della Commissione europea.
 - La platform economy e la disciplina europea dei servizi di piattaforma.
-- Le piattaforme di crowdfunding e la decisione della Corte di Giustizia.
+- L'utilità dei Big Data e l'iter contrattuale; e-commerce e normativa in fieri.
 
 **D:** ⚠️ Perché una lezione sul caso Uber è collocata nel modulo sul crowdfunding?
 **R:** Perché il caso serve da «**livello pre**»: «in questa lezione abbiamo **tralasciato per un attimo il tema vero del crowdfunding** per focalizzarci però su un livello pre», dato che le difficoltà delle piattaforme «sono problematiche **non superate neanche nelle piattaforme di crowdfunding**». I **tre** temi comuni sono il **tipo di regolamentazione**, la **quantità di informazioni** e la garanzia «che la piattaforma sia una **piattaforma reliable**». Il docente riconosce la differenza di partenza — «nel crowdfunding parliamo di **portali regolamentati** per la raccolta di capitali» — ma conclude che «anche lì i **temi di sottofondo non sono così diversi**», e che «nessuno può fare **fintech** senza sapere del **test Uber**». ⚠️ Ragionamento del docente, **solo nel transcript**.
@@ -3856,8 +3797,7 @@
 **Opzione:** Fra sviluppo tecnologico e tutela dei diritti.
 **Distrattori:**
 - Fra sviluppo tecnologico e tutela della concorrenza.
-- Fra tutela dei diritti e tutela degli utenti delle piattaforme.
-- Fra sviluppo dei servizi di piattaforma e tutela dei diritti dei consumatori.
+- Lo scambio informativo tra compagnia e distributori.
 
 **D:** ⚠️ Quale domanda pone il titolo della slide sul caso Uber dinanzi alla Corte di Giustizia?
 **R:** «**Servizio di trasporto urbano o servizio della società dell'informazione?**» ⚠️ È la domanda che regge l'intera lezione: il docente la definisce «primo quesito, che deve rimanere nel **background** della vostra lezione, **per tutta la lezione**». Dalla risposta discendono **due esiti opposti**: **esercizio abusivo della professione** oppure **attività lecita**.
@@ -3879,9 +3819,8 @@
 **R:** **UberPop**, che «mette in collegamento la **domanda e offerta di noleggio auto con conducente**». ⚠️ Il nome **UberPop** compare **solo sulle slide** (4, 5 e 7): il docente non lo pronuncia mai, e parla sempre genericamente di «Uber». Poiché le opzioni d'esame sono citazioni letterali delle slide, è il nome da riconoscere.
 **Opzione:** UberPop, che mette in collegamento la domanda e l'offerta di noleggio auto con conducente.
 **Distrattori:**
-- UberPop, che mette in collegamento la domanda e l'offerta di servizi taxi di linea.
 - UberBlack, che mette in collegamento la domanda e l'offerta di noleggio auto con conducente.
-- UberPop, che mette in collegamento la domanda e l'offerta di trasporto pubblico locale.
+- Con la registrazione dell'utente alla piattaforma, che permette al server di acquisire tutte le informazioni necessarie al distributore.
 
 **D:** Chi ha promosso il contenzioso contro Uber e con quali richieste?
 **R:** «L'**espansione del fenomeno** ha, tuttavia, indotto la **categoria dei tassisti** a lamentare comportamenti di **concorrenza sleale** e a inoltrare **ricorsi** — con richieste di adozione di **provvedimenti inibitori** — dinanzi a **molti giudici in diversi Stati membri**.» ⚠️ Non una singola causa davanti a un giudice, ma ricorsi diffusi in **più** Stati membri.
@@ -3955,8 +3894,8 @@
 **Opzione:** Un valido aiuto nella definizione della normativa di settore applicabile alle diverse piattaforme.
 **Distrattori:**
 - Un criterio vincolante per la definizione della normativa di settore applicabile alle diverse piattaforme.
-- Un valido aiuto nell'individuazione del giudice competente a decidere le controversie fra piattaforme e operatori tradizionali.
-- Un valido aiuto nella definizione del regime fiscale applicabile alle diverse piattaforme digitali.
+- L'obbligo di chiarire i criteri che determinano l'ordine in cui i beni sono classificati nei risultati dei motori di ricerca.
+- Per essere compliant con la normativa: le start up tech aiutano i provider assicurativi a raggiungere la compliance, migliorare il servizio, rafforzare la fiducia dei consumatori ed efficientare la proposta di nuovi tipi di polizza.
 
 **D:** ⚠️ Quali due cose ha fatto il giudice nella sentenza che ha enucleato l'Uber-test?
 **R:** «Ha **sancito l'inapplicabilità delle regole della società dell'informazione** ed ha **contestualmente rinviato agli Stati membri la disciplina delle condizioni di prestazione dei servizi** come quelli offerti da Uber.» ⚠️ **Coppia da non spezzare**: un'**esclusione** (le regole della società dell'informazione non si applicano) **più** un **rinvio** (la disciplina spetta **agli Stati membri**, non alla Commissione né alla stessa Corte).
@@ -3986,9 +3925,8 @@
 **R:** «**Contestualmente** la **tutela della concorrenza e degli utenti** e lo **sviluppo dei servizi di piattaforma**.» ⚠️ Gli oggetti sono **tre** e vanno garantiti **insieme**: un'opzione che ne ometta uno, o che presenti la tutela e lo sviluppo come alternativi, è falsa.
 **Opzione:** Contestualmente la tutela della concorrenza e degli utenti e lo sviluppo dei servizi di piattaforma.
 **Distrattori:**
-- Contestualmente la tutela della concorrenza e degli utenti e la limitazione dello sviluppo dei servizi di piattaforma.
 - In via prioritaria la tutela della concorrenza e degli utenti e, solo in via subordinata, lo sviluppo dei servizi di piattaforma.
-- Contestualmente la tutela dei dati personali e degli utenti e lo sviluppo dei servizi di piattaforma.
+- Requisiti di capitale, onorabilità di chi esercita il controllo, onorabilità di chi ricopre posizioni amministrative, gestionali e di controllo, conduzione degli affari e gestione dei conflitti di interesse.
 
 **D:** ⚠️ A che cosa possono servire, sul piano della concorrenza, i dati raccolti da Uber sugli utenti?
 **R:** A **due** cose: «**evitare che i clienti siano attratti da offerte di altre piattaforme che tentano di entrare in quel mercato**» e «**risultare l'operatore più appetibile per tutti coloro che decidono di provare i servizi Uber**». Quelle informazioni «sono nell'**esclusiva disponibilità della piattaforma**» e vengono rielaborate «per la **definizione e differenziazione delle condizioni e tariffe applicate**». ⚠️ Il primo uso è **difensivo** verso i concorrenti che vogliono entrare, il secondo **offensivo** verso i nuovi clienti.
@@ -4023,7 +3961,7 @@
 **Distrattori:**
 - Impostazione, finalità e costo di sviluppo degli algoritmi utilizzati per gestire il patrimonio informativo raccolto.
 - Lo scambio informativo tra compagnia e distributori.
-- Impostazione, finalità e modalità di azione degli algoritmi utilizzati per selezionare i conducenti disponibili nella singola corsa.
+- Social media; network relazionali; dispositivi mobile; geolocalizzazione; informazioni di experience rating.
 
 **D:** ⚠️ Di quali informazioni dispone il regolatore, secondo la slide sulla trasparenza tecnologica?
 **R:** «**Solo quelle che le piattaforme hanno scelto di condividere**» — con la conseguenza che «la definizione delle regole rischia di avvenire **senza avere piena cognizione del fenomeno che si vuole disciplinare**». ⚠️ La slide stampa «le informazioni di cui il **regolamento** dispone», refuso per *il **regolatore** dispone*: il senso è quello, ma la forma stampata è questa. Il docente: senza un «**ripensamento organico, globale**» la definizione delle regole «rischia di essere una sorta di **esercizio sterile**».
@@ -4062,16 +4000,15 @@
 **Opzione:** A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a influire positivamente sulle scelte dei consumatori.
 **Distrattori:**
 - A garantire all'utente che vi sia un certo standard di qualità del servizio e a influire positivamente sulle scelte dei consumatori.
-- A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a orientare le politiche tariffarie della piattaforma.
-- A dare all'utente l'idea che vi sia un certo standard di qualità garantito per il servizio e a sostituire i controlli delle autorità nazionali.
+- A difendersi dalle contestazioni dell'assicurato sull'inadeguatezza del prodotto, potendo mostrare che il giudizio è stato dato da un algoritmo su una gran mole di dati.
+- A un capillare approccio: esaminarne le caratteristiche essenziali, comprenderlo e valutare se possa essere ricondotto alle categorie già esistenti dell'ordinamento giuridico.
 
 **D:** Quale bilanciamento realizza, secondo la slide, il sistema dei rating?
 **R:** «Si attua un **bilanciamento fra varietà dell'offerta / piena libertà di scelta dell'utente e garanzia di un determinato standard di qualità**.»
 **Opzione:** Fra varietà dell'offerta e piena libertà di scelta dell'utente, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
 **Distrattori:**
-- Fra varietà dell'offerta e piena libertà di scelta dell'utente, da un lato, e tutela della concorrenza fra piattaforme, dall'altro.
-- Fra contenimento dei prezzi del servizio, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
 - Fra varietà dell'offerta e piena libertà di scelta della piattaforma, da un lato, e garanzia di un determinato standard di qualità, dall'altro.
+- Dalle micro-insurance alle polizze di investimento assicurativo come unit linked e polizze multi-ramo.
 
 **D:** ⚠️ Quali limiti di attendibilità dei feedback indica la slide?
 **R:** **Due**. **①** I **fattori esterni**: «nel caso di una piattaforma come Uber nella quale il **contatto non è solo virtuale**, il giudizio può essere influenzato anche da **fattori esterni (es. empatia con il guidatore)** che **non riguardano strettamente l'erogazione del servizio**». **②** Il **denominatore ignoto**: i feedback «possono essere considerati **veritieri quanto più alto è il numero dei soggetti che li lasciano**», ma chi li legge «**sa il contenuto ma non quale percentuale rappresentano**, visto che **non sono conteggiati coloro che hanno usufruito del servizio senza esprimere un parere**». ⚠️ L'esempio della slide è l'**empatia con il guidatore**; quelli del docente — pulizia dell'auto, volume della musica, velocità — riguardano invece la **soggettività dei criteri** e non vanno confusi con esso.
@@ -4101,17 +4038,17 @@
 **R:** Un ruolo **di supporto**: «non è possibile pensare che questi strumenti possano rappresentare l'**unica forma di regolazione** ed il loro **ruolo non può che essere di supporto per la realizzazione di una co-regulation efficace**». ⚠️ Il **docente dice il contrario** sul secondo punto: i feedback non possono essere «una **sostituzione di regolamentazione** o **addirittura una co-regulation**, perché **non ne hanno la dignità giuridica**», e la self-regulation ha «**scarsissimo valore**». ⚠️ **All'esame vale la slide**, perché le opzioni sono citazioni letterali delle slide: la formula da riconoscere è quella del **ruolo di supporto per la realizzazione di una co-regulation efficace**. La posizione del docente è materiale da orale.
 **Opzione:** Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di una co-regulation efficace.
 **Distrattori:**
-- Possono rappresentare l'unica forma di regolazione delle piattaforme, rendendo superfluo l'intervento del regolatore.
 - Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di una de-regulation efficace.
-- Non possono essere l'unica forma di regolazione e il loro ruolo può essere solo di supporto per la realizzazione di un'auto-regolamentazione efficace.
+- Il credito non va concesso a tutti i richiedenti ma solo a coloro che meritano di averlo in base alle capacità di rimborso.
+- Solo in negativo: l'intermediario non ha potuto valutare l'adeguatezza per l'assenza di un riscontro completo a seguito del comportamento del cliente.
 
 **D:** ⚠️ Da che cosa dovrebbero essere accompagnati i meccanismi di feedback per essere integrati nel quadro regolatorio?
 **R:** «**Quantomeno** dalla presenza di **termini e condizioni di rilascio** nonché **forme di controllo sui feedback lasciati / da lasciare**. Questi elementi **incrementerebbero il grado di affidabilità** e consentirebbero una **più semplice integrazione nel quadro regolatorio**.» ⚠️ Il quantificatore «**quantomeno**» segnala un **minimo**, non un elenco esaustivo. ⚠️ Passaggio **solo sulla slide**: il docente non lo legge.
 **Opzione:** Quantomeno da termini e condizioni di rilascio e da forme di controllo sui feedback lasciati o da lasciare.
 **Distrattori:**
 - Esclusivamente da termini e condizioni di rilascio e da forme di controllo sui feedback lasciati o da lasciare.
-- Quantomeno da termini e condizioni di rilascio e da forme di controllo sui soli feedback già lasciati.
-- Quantomeno dall'obbligo di pubblicare tutti i feedback ricevuti e da forme di controllo affidate all'autorità nazionale competente.
+- Set informative; informativa precontrattuale; istruzioni per il pagamento del premio; la polizza.
+- Con le informazioni di experience rating; concorrono a definire un percorso di apprendimento delle abitudini del consumatore.
 
 **D:** ⚠️ Qual è il paradosso che, secondo il docente, rende insolubile il nodo della trasparenza delle piattaforme?
 **R:** Che «le piattaforme **non possono operare senza l'acquisizione di determinate informazioni** e paradossalmente **tante più informazioni hanno su di noi e meglio assolvono il loro compito**». Lo illustra con la serata di pioggia in cui la piattaforma, incrociando abitudini e dati dei social, propone cena a domicilio e vino bianco: «sono servizi che hanno un **grande valore aggiunto** ma lo **scotto** è […] che la nostra vita **ha pochi segreti** per queste piattaforme». Da cui il rifiuto delle soluzioni semplici — il tema «non può essere liquidato con "bisognerebbe gestire meglio la privacy delle piattaforme"» — perché «l'evoluzione comprende anche la **raffinatezza dei servizi**» e «bisogna ragionare su **quale compromesso raggiungere**». ⚠️ Solo nel transcript.
@@ -4126,8 +4063,8 @@
 **Opzione:** Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per le imprese e Il Social Lending.
 **Distrattori:**
 - Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per le imprese e Il Marketplace Lending.
-- Il Regolamento UE 2020/1503 sui fornitori europei di servizi di Crowdfunding per i consumatori e Il Social Lending.
-- La cornice giuridica italiana sul Crowdfunding e Il Social Lending.
+- Piattaforme digitali, algoritmi e Big Data: il caso del credit scoring.
+- Fra sviluppo tecnologico e tutela dei diritti.
 
 **D:** ⚠️ Qual è il numero del regolamento europeo sul crowdfunding, e a chi si riferisce?
 **R:** **Regolamento UE 2020/1503**, sui **fornitori** europei di servizi di crowdfunding **per le imprese**. ⚠️ Il deck si contraddice: l'**agenda** (slide 2 e 10) scrive «**2020/1503** sui **fornitori**», ma l'**intestazione di tutte le slide di contenuto** (3–9) scrive «**2020/2013** sui **prestatori**» — **sette volte**, per propagazione della stessa riga. Il docente pronuncia «**2020-1503**». Vale **1503 + fornitori**: agenda e docente concordi contro un refuso ripetuto per copia (cifre invertite, 1503 → 2013). ⚠️ Attenzione: gli assi invertiti sono **due**, il **numero** e il **sostantivo**, quindi l'opzione copiata dall'intestazione sembra plausibile ed è sbagliata.
@@ -4142,8 +4079,7 @@
 **Opzione:** Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dalla Commissione nel marzo 2018.
 **Distrattori:**
 - Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dalla Commissione nel marzo 2020.
-- Del piano d'azione per l'Unione dei mercati dei capitali, presentato dalla Commissione nel marzo 2018.
-- Del piano d'azione per l'innovazione tecnologica nei servizi finanziari (FinTech), presentato dal Parlamento europeo nel marzo 2018.
+- Da una proposta di risoluzione avanzata dal Parlamento.
 
 **D:** ⚠️ Come descrive la slide la struttura dell'intermediazione nel crowdfunding?
 **R:** «Il crowdfunding rappresenta un **tipo di intermediazione sempre più importante** in cui un **fornitore di servizi di crowdfunding**, **senza assumersi rischi propri**, **gestisce una piattaforma digitale aperta al pubblico** per **abbinare o facilitare l'incontro** tra **potenziali investitori o finanziatori** e **imprese in cerca di finanziamenti**.» ⚠️ Tre elementi da non ribaltare: il fornitore **non assume rischi propri**; la piattaforma è **aperta al pubblico**; il verbo è **abbinare o facilitare l'incontro**, non *concedere* il finanziamento.
@@ -4157,9 +4093,9 @@
 **R:** «Tali finanziamenti potrebbero assumere la forma di **prestiti** o di **acquisizione di titoli trasferibili** o di **altri strumenti ammessi ai fini del crowdfunding**.» ⚠️ **Tre** forme, e la terza lascia l'elenco **aperto**.
 **Opzione:** Prestiti, acquisizione di titoli trasferibili o altri strumenti ammessi ai fini del crowdfunding.
 **Distrattori:**
-- Prestiti o acquisizione di titoli trasferibili, con esclusione di ogni altro strumento.
 - Prestiti, acquisizione di titoli trasferibili o conferimenti in natura ammessi ai fini del crowdfunding.
-- Donazioni, acquisizione di titoli trasferibili o altri strumenti ammessi ai fini del crowdfunding.
+- Banche dati enormi, una solida reputazione e liquidità ingentissima, che consentono di competere in condizioni di favore anche dal punto di vista regolamentare.
+- Di ridurre i costi operativi e di transazione così come le asimmetrie informative, migliorando il grado di personalizzazione dei servizi di finanziamento.
 
 **D:** ⚠️ Quali tipi di crowdfunding rientrano nell'ambito del Regolamento, e perché?
 **R:** **Entrambi**: «è pertanto opportuno includere nell'ambito di applicazione del presente regolamento **sia il lending-based crowdfunding che l'investment-based crowdfunding**, poiché questi tipi di crowdfunding possono essere strutturati come **alternative di finanziamento comparabili**». ⚠️ La ragione dell'inclusione congiunta è la **comparabilità** come alternative di finanziamento: un'opzione che ne includa uno solo, o che motivi diversamente, è falsa.
@@ -4174,8 +4110,8 @@
 **Opzione:** Le condizioni di funzionamento delle piattaforme, l'ambito delle attività consentite e i requisiti di autorizzazione.
 **Distrattori:**
 - Le condizioni di funzionamento delle piattaforme, l'ambito delle attività consentite e il regime fiscale applicabile agli investitori.
-- Le condizioni di funzionamento delle piattaforme, le soglie massime di offerta e i requisiti di autorizzazione.
-- La forma giuridica dei gestori, l'ambito delle attività consentite e i requisiti di autorizzazione.
+- La qualificazione e la sussunzione dell'attività nella fattispecie normativa astratta da sottoporre a riserva mostra qualche difficoltà, per cui si ravvisa l'opportunità di ricercare la disciplina del caso concreto.
+- Dalla carenza di trasparenza dei diversi meccanismi di valutazione, con conseguenti significative differenze nei punteggi attribuiti.
 
 **D:** ⚠️ Quali conseguenze produce la frammentazione del quadro giuridico lungo i confini nazionali?
 **R:** «Le differenze tra le norme nazionali esistenti sono tali da **ostacolare la fornitura transfrontaliera** di servizi di crowdfunding e quindi hanno un **effetto diretto sul funzionamento del mercato interno** di tali servizi. In particolare, il fatto che il quadro giuridico sia frammentato lungo i confini nazionali crea **notevoli costi legali per gli investitori al dettaglio**, che spesso incontrano difficoltà nel **determinare le norme applicabili** ai servizi di crowdfunding transfrontalieri.» ⚠️ La qualificazione «**al dettaglio**» sta **solo sulla slide**: il docente dice genericamente «gli investitori».
@@ -4198,8 +4134,8 @@
 **Opzione:** Per le piattaforme di lending-based crowdfunding e per quelle di investment-based crowdfunding.
 **Distrattori:**
 - Per le sole piattaforme di lending-based crowdfunding.
-- Per le sole piattaforme di investment-based crowdfunding.
-- Per le piattaforme di lending-based crowdfunding e per quelle di reward-based crowdfunding.
+- Laddove operino come veri e propri intermediari finanziari, erogando direttamente credito ai consumatori.
+- Al diritto comune, siano essi start-up o piattaforme non finanziarie globali, c.d. Big Tech.
 
 **D:** ⚠️ Per che cosa il Regolamento stabilisce requisiti uniformi?
 **R:** Per **quattro** oggetti, nell'ordine della slide: «la **fornitura di servizi di crowdfunding**»; «l'**organizzazione, l'autorizzazione e la supervisione dei fornitori** di servizi di crowdfunding»; «il **funzionamento delle piattaforme** di crowdfunding»; «la **trasparenza e le comunicazioni di marketing** in relazione alla fornitura di servizi di crowdfunding **nell'Unione**». ⚠️ La seconda voce ne contiene **tre** (organizzazione, autorizzazione, supervisione).
@@ -4245,9 +4181,9 @@
 **R:** «In modo **onesto, equo e professionale** nel rispetto dei **migliori interessi dei loro clienti**.» ⚠️ **Tre** qualificazioni, e il parametro è il ***miglior*** interesse del cliente, non il semplice interesse.
 **Opzione:** In modo onesto, equo e professionale, nel rispetto dei migliori interessi dei loro clienti.
 **Distrattori:**
-- In modo onesto, equo e professionale, nel rispetto dei migliori interessi della piattaforma che gestiscono.
 - In modo onesto, prudente e professionale, nel rispetto dei migliori interessi dei loro clienti.
-- In modo onesto, equo e professionale, nel rispetto dell'interesse generale del mercato interno.
+- Debbono essere adeguati, pertinenti e limitati a quanto necessario.
+- I dati sono raccolti per finalità determinate, esplicite e legittime, e successivamente trattati in modo che non sia incompatibile con tali finalità.
 
 **D:** ⚠️ Che cos'è il «servizio di gestione individuale del portafoglio»?
 **R:** «L'**allocazione** da parte del **fornitore di servizi di crowdfunding** di un **importo predeterminato di fondi** di un **investitore, che è un prestatore originario**, a **uno o più progetti di crowdfunding** sulla sua piattaforma, in conformità con un **mandato individuale conferito dall'investitore su base discrezionale per ogni singolo investitore**.» ⚠️ L'importo è **predeterminato**; l'investitore è qualificato come **prestatore originario**; il quantificatore dell'individualità è **doppio** («mandato **individuale**» e «**per ogni singolo investitore**»).
@@ -4287,7 +4223,7 @@
 **Distrattori:**
 - Il divieto di offrire progetti di proprietari che hanno rapporti societari o di credito con il fornitore della piattaforma.
 - Il test di appropriatezza sugli strumenti finanziari offerti.
-- Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con gli investitori al dettaglio.
+- Consente di sfruttare situazioni di vulnerabilità, con la conseguente offerta di condizioni contrattuali più sfavorevoli che il richiedente è indotto ad accettare.
 
 **D:** ⚠️ Che cosa deve fare il fornitore che vuole operare in un altro Stato membro, e a chi si rivolge?
 **R:** «Se il fornitore di servizi di crowdfunding intende fornire servizi **in uno Stato membro diverso dallo Stato membro la cui autorità competente ha concesso l'autorizzazione**, deve presentare all'**autorità competente designata come punto di contatto unico dello Stato membro in cui è stata concessa l'autorizzazione** alcune **informazioni descritte nel regolamento**.» ⚠️ Il punto di contatto unico è quello dello **Stato che ha rilasciato l'autorizzazione**, non quello di destinazione.
@@ -4302,8 +4238,8 @@
 **Opzione:** Dieci giorni lavorativi per la comunicazione del punto di contatto unico e quindici giorni di calendario come termine ultimo per l'avvio dei servizi.
 **Distrattori:**
 - Dieci giorni di calendario per la comunicazione del punto di contatto unico e quindici giorni lavorativi come termine ultimo per l'avvio dei servizi.
-- Quindici giorni lavorativi per la comunicazione del punto di contatto unico e dieci giorni di calendario come termine ultimo per l'avvio dei servizi.
-- Dieci giorni lavorativi per la comunicazione del punto di contatto unico e trenta giorni di calendario come termine ultimo per l'avvio dei servizi.
+- Qualora la proposta di regolamento fosse approvata, a preventiva certificazione di conformità dalla nuova autorità di controllo europea ed alle corrispondenti autorità nazionali.
+- Grazie alla facilità e rapidità di cui possono usufruire i creditori nell'accesso alle diverse piattaforme.
 
 **D:** ⚠️ Come chiama il docente il meccanismo della prestazione transfrontaliera, e da dove proviene?
 **R:** **Passaporto** o **passaportazione**: «questo meccanismo di fatto si chiama **passaporto** o **passaportazione** ed è un po' il **cardine di tutta la normativa dei servizi di investimento a partire dalla MiFID**, quindi **non è solo un tema di crowdfunding**: è stato **mutuato da altre normative di settore** che vedono nel passaporto la possibilità di **fornire in modo semplificato i servizi per cui si è già stati autorizzati in uno Stato membro**». Ne dà anche la lettura pratica: «l'avvio dell'operatività è **pressoché automatico**». ⚠️ Il termine **non compare sulla slide**: sta solo nel transcript.
@@ -4316,16 +4252,14 @@
 **Opzione:** Una forma di accesso al credito alternativa ai metodi tradizionali, cioè al prestito bancario e ai finanziamenti europei, nazionali o regionali.
 **Distrattori:**
 - Una forma di accesso al credito alternativa ai metodi tradizionali, cioè alle banche, alle società di credito e agli intermediari finanziari.
-- Una forma di accesso al credito complementare ai metodi tradizionali, cioè al prestito bancario e ai finanziamenti europei, nazionali o regionali.
-- Una forma di raccolta del risparmio alternativa ai metodi tradizionali, cioè al deposito bancario e ai titoli di Stato.
+- Un metodo statistico che consente di valutare l'affidabilità creditizia e la solvibilità di una persona.
 
 **D:** ⚠️ Chi ha sviluppato per primo l'idea di disintermediare i prestiti personali, e con quali risultati?
 **R:** «L'idea di "**disintermediare**" i prestiti personali è stata sviluppata per la prima volta **in Inghilterra** dal sito web **Zopa**, che **dal 2005 ad oggi** ha erogato **oltre 6 miliardi di sterline** in prestiti **senza ricorrere al credito delle banche**.» ⚠️ Tre dati verificabili: **Inghilterra**, **2005**, **oltre 6 miliardi di sterline**. ⚠️ L'ASR del transcript storpia il nome in «**WebZopa**» e «**Zopla**»: sulla slide è **Zopa**.
 **Opzione:** Il sito web Zopa, in Inghilterra, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
 **Distrattori:**
 - Il sito web Zopa, negli Stati Uniti, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
-- Il sito web Zopa, in Inghilterra, che dal 2015 a oggi ha erogato oltre 6 miliardi di sterline in prestiti senza ricorrere al credito delle banche.
-- Il sito web Zopa, in Inghilterra, che dal 2005 a oggi ha erogato oltre 6 miliardi di sterline in prestiti rifinanziandosi presso il credito bancario.
+- La piattaforma utilizza sistemi automatici di diversificazione sulla base della classe di rischio/rendimento scelta dall'offerente il credito, e lo scoring costituisce il presupposto per l'abbinamento automatico tra offerte e richieste di credito.
 
 **D:** Come funziona il P2P lending, e qual è il ruolo della piattaforma?
 **R:** «Il P2P lending è forma di **finanziamento online tra privati**: da una parte una **persona o un'azienda in cerca di soldi**, dall'altra **investitori (cittadini, imprese, istituzioni) pronti a prestare denaro**. La **piattaforma di social lending è il tramite** che mette in contatto queste due realtà.» ⚠️ I prestatori sono **tre** categorie — **cittadini, imprese, istituzioni** — e la piattaforma è **il tramite**: non presta e non raccoglie in proprio.
@@ -4339,25 +4273,24 @@
 **R:** «Attraverso il ricorso al P2P lending un'impresa riesce ad ottenere **liquidità** per **dar vita a un nuovo progetto** o per **rilanciarsi sul mercato**.» ⚠️ **Due** finalità alternative.
 **Opzione:** A ottenere liquidità per dar vita a un nuovo progetto o per rilanciarsi sul mercato.
 **Distrattori:**
-- A ottenere liquidità per dar vita a un nuovo progetto o per rimborsare i debiti bancari in scadenza.
-- A ottenere capitale di rischio per dar vita a un nuovo progetto o per rilanciarsi sul mercato.
 - A ottenere liquidità esclusivamente per dar vita a un nuovo progetto.
+- Al fine di preservare la stabilità e l'efficienza del sistema finanziario e minimizzare i rischi per operatori e utenti che un utilizzo indiscriminato potrebbe comportare.
+- Di sconvolgere un equilibrio già molto delicato.
 
 **D:** ⚠️ Che cosa verifica la società di social lending sul richiedente, quanto alla sua identità?
 **R:** **Quattro** oggetti: «verificare l'**identità del richiedente**, il suo **conto bancario**, la sua **attività** e il suo **reddito**». ⚠️ Il docente si ferma a «verificano l'identità del richiedente»: l'elenco completo sta **solo sulla slide**.
 **Opzione:** L'identità del richiedente, il suo conto bancario, la sua attività e il suo reddito.
 **Distrattori:**
-- L'identità del richiedente, il suo conto bancario, la sua situazione familiare e il suo reddito.
 - L'identità del richiedente, il suo conto bancario, la sua attività e il suo patrimonio immobiliare.
-- L'identità del richiedente, la sua residenza fiscale, la sua attività e il suo reddito.
+- Le motivazioni della decisione e la spiegazione del punteggio.
 
 **D:** ⚠️ Come verifica la piattaforma di social lending il merito creditizio del richiedente?
 **R:** «Verificare il **merito creditizio del richiedente** interrogando le **centrali rischi private** e **filtrando i richiedenti al di sotto di una soglia stabilita**.» ⚠️ Le centrali rischi sono **private**; il filtro elimina chi sta **al di sotto** di una **soglia stabilita**.
 **Opzione:** Interrogando le centrali rischi private e filtrando i richiedenti al di sotto di una soglia stabilita.
 **Distrattori:**
 - Interrogando le centrali rischi pubbliche e filtrando i richiedenti al di sotto di una soglia stabilita.
-- Interrogando le centrali rischi private e filtrando i richiedenti al di sopra di una soglia stabilita.
-- Interrogando le centrali rischi private e richiedendo in ogni caso una garanzia reale a copertura del prestito.
+- Sulla base dei giudizi lasciati da chi ha usufruito del servizio, eliminando coloro che non rispondono agli standard richiesti dall'utenza.
+- Grazie alla regolazione relativa al trattamento dei dati personali.
 
 **D:** ⚠️ In quali direzioni la piattaforma di social lending gestisce i flussi di pagamento?
 **R:** In **due direzioni opposte**: «al momento dell'**erogazione** del prestito (**dai prestatori al richiedente**) e durante il **rimborso** del prestito (**dal richiedente ai prestatori**, sotto forma di **rata ridistribuita ai prestatori nelle quote capitali e interessi di spettanza**)». ⚠️ Materiale da *segno invertito*: erogazione e rimborso hanno verso contrario.
@@ -4451,8 +4384,7 @@
 **Opzione:** Non è quella di garantire un futuro profitto economico ma di garantire la disponibilità di certi diritti.
 **Distrattori:**
 - Non è quella di garantire la disponibilità di certi diritti ma di garantire un futuro profitto economico.
-- Non è quella di garantire un futuro profitto economico ma di garantire la stabilità del valore rispetto a una valuta avente corso legale.
-- È quella di garantire sia un futuro profitto economico sia la disponibilità di certi diritti.
+- Perché non hanno corso legale in Italia; inoltre, non sono regolate da enti centrali governativi, ma generalmente emesse e controllate dall'ente emittente.
 
 **D:** Come definisce la slide i currency/payment tokens?
 **R:** «**Si trattata** \[*sic*, per *Si tratta*] **di valute digitali o crypto-currencies, es. una sottocategoria di "valuta digitale", differente per via dell'uso della DLT e di strumenti crittografici nella fase di validazione ed autenticazione delle transazioni**». ⚠️ Due punti letterali: la criptovaluta è una **sottocategoria** della valuta digitale, non un sinonimo; e l'uso di DLT e crittografia che la distingue riguarda **la fase di validazione ed autenticazione delle transazioni**, non l'intero ciclo di vita del token.
@@ -4467,8 +4399,7 @@
 **Opzione:** Rappresentano strumenti di scambio, riserva di valore ed unità di conto.
 **Distrattori:**
 - Rappresentano strumenti di scambio, riserva di valore ed unità di misura del rischio.
-- Rappresentano strumenti di scambio, riserva di valore ed unità di conto garantite da una banca centrale.
-- Rappresentano strumenti di pagamento, mezzo di investimento ed unità di conto.
+- L'omogeneità di trattamento.
 
 **D:** Come definisce la slide i securities/financial/investment tokens?
 **R:** Con **due** proposizioni: «**Il loro valore è in genere collegato a quello di un valore mobiliare sottostante**» e «**La principale funzione è quella di garantire un profitto finanziario futuro per mezzo del loro scambio**». ⚠️ Il quantificatore «**in genere**» attenua il collegamento; il sottostante è un **valore mobiliare** (il transcript lo storpia in «valore immobiliare»); e il profitto si realizza «**per mezzo del loro scambio**».
@@ -4484,15 +4415,13 @@
 **Distrattori:**
 - Una rappresentazione crittografica di valore con la specifica caratteristica di essere unica e liberamente fungibile.
 - UberPop, che mette in collegamento la domanda e l'offerta di noleggio auto con conducente.
-- Una rappresentazione crittografica di valore con la specifica caratteristica di essere divisibile ed infungibile.
 
 **D:** ⚠️ Che cosa permettono di acquistare gli NFT, secondo la slide?
 **R:** «**Non permettono l'acquisto di un bene ma di una frazione di un diritto sul bene stesso ed è creata per mezzo della Blockchain. (es. non un'opera d'arte ma una sua parte)**». ⚠️ L'oggetto dell'acquisto è «**una frazione di un *diritto* sul bene**», non il bene; l'esempio della slide parla però di «**una sua parte**», quindi una frazione del bene non è smentita dalla slide.
 **Opzione:** Non un bene, ma una frazione di un diritto sul bene stesso.
 **Distrattori:**
-- Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma.
 - Non una frazione di un diritto sul bene, ma il bene stesso nella sua interezza.
-- Non un bene, ma la piena proprietà di un diritto sul bene stesso.
+- Il divieto di offrire progetti di proprietari che hanno rapporti societari o di gestione con il fornitore della piattaforma.
 
 **D:** ⚠️ Che cosa sono gli art-utility/security tokens, e tramite che cosa avviene la raccolta?
 **R:** «**Tokens finalizzato** \[*sic*] **alla raccolta tramite ICOs per finanziare progetti artistici e quindi rappresentare/tenere i diritti relativi a tali progetti**». ⚠️ Sulla slide la raccolta avviene «**tramite ICOs**»; il docente dice invece «tramite **un'offerta pubblica**». Poiché le opzioni d'esame sono **citazioni letterali delle slide**, vale **ICOs**.
@@ -4507,8 +4436,7 @@
 **Opzione:** Si tratta di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della EMD2?
 **Distrattori:**
 - Si tratta di strumenti di pagamento ai sensi della EMD2? Sono e-money ai sensi della PSD2?
-- Si tratta di strumenti finanziari ai sensi della MiFID II? Sono titoli trasferibili? Sono prodotti finanziari?
-- Si tratta di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della IMD2?
+- Servizio di trasporto urbano o servizio della società dell'informazione?
 
 **D:** ⚠️ Quale domanda regolamentare la slide abbina ai securities/financial/investment tokens, e quale agli NFT?
 **R:** Ai **securities tokens**: «**Si tratta di strumenti finanziari ai sensi della MIFiD II? Are those financial instruments according to MiFID II? Titoli trasferibili? Prodotti finanziari?**» — è l'unica domanda **bilingue** del deck. Agli **NFT**: «**Sono diritti? Diritti di proprietà? Diritti di credito?**». ⚠️ Agli **utility tokens** è abbinata invece «**C'è bisogno di definizioni e regole specifiche?**». Il docente commenta gli NFT: «**Sono realmente diritti? E se sì, che diritti sono?** […] Complicato, **dibattito aperto, discorso mai chiuso, mai definito**».
@@ -4549,9 +4477,8 @@
 **R:** «**In Germania le crypto-attività sono qualificate quali strumenti finanziari**». E: «**La Commissione europea sta considerando di modificare la MiFID II per includere nel suo campo di applicazione i "securities tokens" (cioè i tokens il cui valore è legato a strumenti finanziari)**». ⚠️ Il verbo è «**sta considerando**»: sulla slide la modifica non è ancora una proposta adottata. ⚠️ I token da includere sono i **securities tokens**, definiti come quelli «il cui **valore è legato a strumenti finanziari**». Il docente aggiunge l'obiezione: «com'è possibile che esista una regolamentazione che ormai è **datata** per degli strumenti **nuovissimi**? Qualcosa non torna».
 **Opzione:** In Germania; e la Commissione europea sta considerando di modificare la MiFID II per includervi i securities tokens.
 **Distrattori:**
-- In Francia; e la Commissione europea sta considerando di modificare la MiFID II per includervi i securities tokens.
 - In Germania; e la Commissione europea ha già modificato la MiFID II per includervi i securities tokens.
-- In Germania; e la Commissione europea sta considerando di modificare la MiFID II per includervi gli utility tokens.
+- Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
 
 **D:** ⚠️ Quali rischi elenca il comunicato di Consob e Banca d'Italia sull'operatività in cripto-attività?
 **R:** «**In assenza di un quadro regolamentare di riferimento, l'operatività in cripto-attività presenta rischi di diversa natura, tra cui: la scarsa disponibilità di informazioni in merito alle modalità di determinazione dei prezzi; la volatilità delle quotazioni; la complessità delle tecnologie sottostanti; l'assenza di tutele legali e contrattuali, di obblighi informativi da parte degli operatori e di specifiche forme di supervisione su tali operatori nonché di regole a salvaguardia delle somme impiegate**». ⚠️ I rischi sono **quattro**, e il quarto è a sua volta **quadruplo**: assenza di *tutele legali e contrattuali*, di *obblighi informativi*, di *specifiche forme di supervisione*, di *regole a salvaguardia delle somme impiegate*. ⚠️ L'elenco è **aperto** («**tra cui**»). ⚠️ La fonte è il «**Comunicato stampa della Consob e della Banca d'Italia, aprile 2021**»: il **mese** sta **solo sulla slide**, il docente dice genericamente «un comunicato stampa del 2021».
@@ -4565,9 +4492,8 @@
 **R:** «**Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021**». La citazione: «**In questo momento, non abbiamo abbastanza protezione per gli investitori nelle criptovalute. Francamente, in questo momento, è più come il selvaggio West. Il mondo della cripto finanza ha ora piattaforme dove le persone possono scambiare token e altre sedi dove le persone possono prestare token. Credo che queste piattaforme non solo possano coinvolgere le leggi sui titoli; alcune piattaforme possono anche coinvolgere le leggi sulle materie prime e le leggi bancarie**». ⚠️ **Il nome e il mese stanno solo sulla slide**: il docente dice «la Securities and Exchange Commission americana nel 2021». ⚠️ Le leggi sono **tre**: **titoli**, **materie prime**, **bancarie**. ⚠️ Il docente avverte che, a differenza del comunicato Consob/Banca d'Italia, «molti hanno letto in questo messaggio una sorta di **apertura**… **purché sottomesse alla normativa tradizionale**».
 **Opzione:** Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021; le leggi sui titoli, quelle sulle materie prime e quelle bancarie.
 **Distrattori:**
-- Gary Gensler, presidente della Federal Reserve, agosto 2021; le leggi sui titoli, quelle sulle materie prime e quelle bancarie.
 - Gary Gensler, presidente della US Securities and Exchange Commission, agosto 2021; le sole leggi sui titoli.
-- Gary Gensler, presidente della US Securities and Exchange Commission, aprile 2021; le leggi sui titoli, quelle fiscali e quelle bancarie.
+- Perché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima; la fonte è il Final report della Task force on climate-related financial disclosure del 2017.
 
 **D:** ⚠️ Come definisce le valute virtuali la direttiva 2018/843/UE (AMLD V)?
 **R:** «**Una rappresentazione digitale di valore che non è emessa o garantita da una banca centrale o da un'autorità pubblica, non è necessariamente collegata a una valuta legalmente stabilita e non possiede uno status giuridico di valuta o denaro, ma è accettata da persone fisiche o giuridiche come mezzo di scambio e che può essere trasferita, memorizzata e scambiata elettronicamente**». ⚠️ Da tenere **distinta** dalla definizione **nazionale** del D.Lgs. 125/2019: solo quella europea contiene la clausola «**non possiede uno status giuridico di valuta o denaro**», e solo quella nazionale estende la funzione «**o a fini di investimento**».
@@ -4614,8 +4540,7 @@
 **Opzione:** Come proposta di un nuovo Regolamento sulla commercializzazione di crypto-attività, del settembre 2020, parte del Pacchetto sulla finanza digitale.
 **Distrattori:**
 - Come regolamento già approvato e in vigore dal settembre 2020, parte del Pacchetto sulla finanza digitale.
-- Come proposta di una nuova Direttiva sulla commercializzazione di crypto-attività, del settembre 2020, parte del Pacchetto sulla finanza digitale.
-- Come proposta di un nuovo Regolamento sulla commercializzazione di crypto-attività, del settembre 2018, parte del Piano d'azione FinTech.
+- Risoluzione n. 18592 del 26 giugno 2013.
 
 **D:** ⚠️ Qual è la definizione di crypto-attività data dal MiCAR, e in che cosa differisce da quella generale?
 **R:** «**Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, attraverso l'utilizzo della tecnologia a registry** \[*sic*, per *registri*] **distribuiti o tecnologie similari**». ⚠️ Rispetto alla definizione generale della slide 3 cambiano **due** cose: la congiunzione («di valore **o** di diritti», non *e di*) e i verbi («**trasferita ed immagazzinata**», non *trasferita registrata*). All'esame vale la formula del riquadro che la domanda cita.
@@ -4660,8 +4585,8 @@
 **Opzione:** Offerta e commercializzazione: disposizioni simili a quelle del Regolamento Prospetto; fornitura di servizi: regole simili a quelle della MiFID II.
 **Distrattori:**
 - Offerta e commercializzazione: regole simili a quelle della MiFID II; fornitura di servizi: disposizioni simili a quelle del Regolamento Prospetto.
-- Offerta e commercializzazione: disposizioni simili a quelle del Regolamento Prospetto; fornitura di servizi: regole simili a quelle della PSD2.
-- Sia l'offerta e commercializzazione sia la fornitura di servizi di criptovalute seguono disposizioni simili a quelle del Regolamento Prospetto.
+- Quelle sui FIA creditizi e sulla microfinanza.
+- Perché sia applicando la legislazione nazionale nella forma più restrittiva eventualmente esistente per l'accesso al mercato degli operatori classici sia introducendo modifiche ad hoc ne deriva un quadro differenziato a livello europeo.
 
 **D:** Quali servizi di criptovalute elenca la slide fra le regole rilevanti del MiCAR?
 **R:** «**La custodia e l'amministrazione di criptovalute, la gestione di una piattaforma di trading di criptovalute, lo scambio di criptovalute con valuta fiat che ha corso legale o con altre criptovalute, l'esecuzione e la ricezione e trasmissione di ordini su criptovalute, la consulenza su criptovalute, il collocamento di criptovalute**». ⚠️ Sono **sei** voci, e lo **scambio** ha **due** oggetti alternativi — contro **valuta fiat** avente corso legale **o** contro **altre criptovalute**.
@@ -4698,9 +4623,9 @@
 **R:** «**Sono responsabili nei confronti dei loro clienti per la perdita di cripto-asset come risultato di un malfunzionamento o hack fino al valore di mercato dei cripto-asset persi**». ⚠️ I presupposti sono **due** (**malfunzionamento *o* hack**) e il limite è un **tetto**: «**fino al valore di mercato dei cripto-asset persi**». ⚠️ Gli altri obblighi dell'art. 67: **accordo scritto** con i clienti che specifichi doveri e responsabilità; **registro delle posizioni aperto a nome di ogni cliente**; **politica di custodia con regole interne**; **separazione** delle partecipazioni dei clienti da quelle proprie.
 **Opzione:** Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, fino al valore di mercato dei cripto-asset persi.
 **Distrattori:**
-- Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, senza alcun limite di importo.
-- Della perdita di cripto-asset risultante dal solo hack, fino al valore di mercato dei cripto-asset persi.
 - Della perdita di cripto-asset risultante da un malfunzionamento o da un hack, fino al valore di acquisto dei cripto-asset persi.
+- Solo di quelle che le piattaforme hanno scelto di condividere.
+- Dalla capacità di raccolta delle piattaforme e dalla capacità decisionale che esse hanno rispetto alla quantità di dati che vogliono rivelare.
 
 **D:** ⚠️ Quali sono i cinque prossimi passi dell'Unione Europea nella regolazione delle crypto-attività?
 **R:** **①** «**Adozione ed implementazione della MiCAR**»; **②** «**Revisione delle regole esistenti sui mercati finanziari per allineamenti formali e sostanziali con il MiCAR**»; **③** «**Revisione della MiFID II/MiFIR per includere nuovi tipi di mercati, servizi e prodotti digitali**»; **④** «**Revisione delle norme esistenti sui mercati finanziari per prendere in considerazione lo sviluppo delle nuove tecnologie digitali (AML/CFT, CRD/CRR, regolamento sui prospetti)**»; **⑤** «**Adozione di nuove regole sui mercati finanziari per prendere in considerazione lo sviluppo delle nuove tecnologie digitali (es. DORA)**». ⚠️ Le ultime due voci sono una **matrice**: *revisione* dell'**esistente** (AML/CFT, CRD/CRR, prospetti) contro *adozione* del **nuovo** (DORA). Il verbo è l'asse discriminante. ⚠️ La slide chiude l'elenco con un riquadro proprio: «**Superamento delle specificità nazionali**» — che il docente commenta così: «se l'intento del MiCAR è **l'armonizzazione, tale deve essere**».
@@ -4758,7 +4683,7 @@
 **Distrattori:**
 - Secondo alcuni studi i cryptoassets rientrerebbero nel più grande insieme delle criptovalute, nel quale sono ricompresi anche i tokens.
 - Criptovalute e cryptoassets sono due insiemi distinti e non sovrapponibili, il primo dei quali comprende i tokens.
-- Secondo alcuni studi le criptovalute rientrerebbero nel più grande insieme dei cryptoassets, dal quale i tokens restano esclusi.
+- Il Regolamento Tassonomia, del 18 giugno 2020, modifica la SFDR, del 27 novembre 2019.
 
 **D:** ⚠️ In che forma esiste una criptovaluta, e a quale condizione può essere scambiata peer-to-peer?
 **R:** «**Una criptovaluta non esiste in forma fisica ma si genera e si scambia esclusivamente per via telematica. Essa, ove sussista il consenso tra i partecipanti alla relativa transazione, può essere scambiata in modalità peer-to-peer (ossia tra due dispositivi direttamente, senza necessità di intermediari) per acquistare beni e servizi**». ⚠️ Lo scambio peer-to-peer **non è incondizionato**: presuppone «**il consenso tra i partecipanti**». Il docente marca le due parole — «memorizzate queste parole **consenso e partecipanti** perché sono **le basi della blockchain**».
@@ -4781,8 +4706,8 @@
 **Opzione:** Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology.
 **Distrattori:**
 - Attività di natura digitale il cui trasferimento è basato sull'uso della crittografia o, in alternativa, sulla Distributed Ledger Technology.
-- Rappresentazione digitale di valore il cui trasferimento è basato sull'uso della crittografia e sulla Distributed Ledger Technology.
-- Attività di natura digitale la cui emissione è riservata a soggetti autorizzati e il cui trasferimento è basato sulla Distributed Ledger Technology.
+- L'omogeneità di trattamento.
+- Solo attraverso una definizione chiara ed uniforme di che cosa sia la sostenibilità per le imprese e di come queste possano conformarsi ai criteri di sostenibilità.
 
 **D:** ⚠️ Quali quattro precisazioni negative aggiunge la Banca d'Italia alla definizione di cripto attività?
 **R:** Che la cripto attività: «**Non svolge le funzioni economiche della moneta**»; «**Non integra la moneta da un punto di vista giuridico e legale**»; «**Non conferisce diritti di carattere economico (es. cedole e/o dividendi)**»; «**Non rappresenta passività di un ente emittente**». ⚠️ Le negazioni sono **quattro** e stanno su **piani diversi** — **economico**, **giuridico-legale**, dei **diritti patrimoniali**, del **bilancio dell'emittente** —: è l'elenco su cui lavora la *coda sostituita*.
@@ -4804,9 +4729,9 @@
 **R:** Le distingue il **collaterale**. **①** «**con un collaterale in valuta fiat**»: «una certa quantità di moneta in corso legale, **tipo il dollaro**, venga depositata a garanzia» e le stablecoins «siano emesse **in proporzione uno a uno** rispetto a tale moneta». **②** «il collaterale è invece **sostenuto da altre criptovalute e non da dollari o oro**», sicché «le garanzie **fluttueranno** e quindi anche la moneta virtuale in realtà **non sarà così stabile e sarà destinata a fluttuare**». **③** «**senza garanzie**», monete «che si basano **esclusivamente sulla fiducia**». ⚠️ Solo la **prima** ha il rapporto **uno a uno**; la **seconda si autosmentisce**.
 **Opzione:** Il collaterale: valuta fiat con emissione in proporzione uno a uno; altre criptovalute; nessuna garanzia.
 **Distrattori:**
-- Il collaterale: valuta fiat con emissione in proporzione uno a uno; metalli preziosi come l'oro; nessuna garanzia.
 - Il collaterale: valuta fiat senza rapporto fisso di emissione; altre criptovalute in proporzione uno a uno; nessuna garanzia.
 - L'emittente: una banca centrale; un istituto di moneta elettronica; un soggetto privato non vigilato.
+- Non convertibili, spendibili solo entro la comunità virtuale che le accetta; a convertibilità limitata, acquistabili con valuta tradizionale ma non riconvertibili; pienamente riconvertibili, acquistabili e rivendibili in cambio di moneta tradizionale
 
 **D:** ⚠️ Che cosa manca alle stablecoins della terza famiglia, oltre alla garanzia?
 **R:** «**L'ultima famiglia di stablecoins è quella senza garanzie, trattandosi di monete che si basano esclusivamente sulla fiducia: chi le acquista crede che il prezzo rimarrà fisso, senza che vi sia alcun tipo di arbitraggio dei mercati per mantenerne il valore stabile**». ⚠️ Ciò che manca non è solo la garanzia: manca «**alcun tipo di arbitraggio dei mercati**» che ne mantenga stabile il valore. È la coda della frase, ed è la parte discriminante.
@@ -4844,9 +4769,9 @@
 **R:** «**L'EBA ha segnalato poi come l'attività di exchange e di custode dei portafogli virtuali creati con l'emissione di criptovaluta possa essere molto pericolosa, e come entrambe le categorie dei predetti soggetti dovrebbero essere ricomprese nell'ambito di applicazione della Direttiva AML**». ⚠️ I soggetti sono **due** e la slide lo ribadisce con «**entrambe le categorie**». ⚠️ Sono **le stesse due attività** che alla slide 9 restano scoperte da ogni disciplina: **conversione** e **custodia di portafogli virtuali**.
 **Opzione:** L'attività di exchange e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva AML.
 **Distrattori:**
-- L'attività di exchange e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva PSD2.
 - La sola attività di exchange; dovrebbe rientrare nell'ambito di applicazione della Direttiva AML.
-- L'attività di mining e quella di custode dei portafogli virtuali; entrambe dovrebbero rientrare nell'ambito di applicazione della Direttiva AML.
+- Agli operatori del mercato finanziario che forniscono servizi di consulenza sugli investimenti o di gestione del portafoglio, compresi i fondi e i prodotti pensionistici.
+- Non solo un mero coordinamento formale fra le diverse norme, ma anche un sostanziale allineamento fra le disposizioni che richiedono l'informativa agli investitori, con la potenziale necessità di rivedere indicatori come quelli del KID dei PRIIPs.
 
 **D:** ⚠️ Come definisce la slide gli utility tokens emessi per effetto di una ICO?
 **R:** «**Riconoscono al soggetto che li detiene un diritto ad acquistare un determinato bene o servizio ad un prezzo predeterminato o da determinarsi, che verrà reso disponibile per effetto del completamento del progetto, realizzato dal soggetto che ha raccolto il capitale mediante una ICO che preveda l'emissione di questa tipologia di strumenti**». ⚠️ **È la terza definizione di utility token del corso** e non coincide con le due della lezione 16: qui è un **diritto ad acquistare**, a un prezzo «**predeterminato o da determinarsi**», su un bene **non ancora disponibile** («per effetto del **completamento del progetto**»).
@@ -4909,8 +4834,8 @@
 **Opzione:** Al paragrafo 25 dell'articolo 4 della PSD2, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
 **Distrattori:**
 - Al paragrafo 5 dell'articolo 4 della PSD2, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
-- Al paragrafo 25 dell'articolo 4 della Direttiva EMD, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
-- All'allegato I della MiFID II, a condizione che i token siano utilizzati per svolgere servizi di pagamento.
+- Agli articoli 2264-2265 del codice civile, relativi alla procedura per la determinazione del valore del conferimento.
+- Alle caratteristiche delle attività svolte e a quelle che verranno sviluppate.
 
 **D:** ⚠️ In quali ipotesi nessuna delle discipline citate sarebbe applicabile, e che cosa se ne conclude?
 **R:** «**Nelle ipotesi in cui i tokens fossero utilizzati al solo scopo di convertire valuta avente corso legale in criptovaluta o tra criptovalute e nel caso dei servizi di custodia di portafogli virtuali di criptovalute**», «**con la conseguenza che le attuali norme e regolamenti appaiono essere insufficienti ed inadeguate per operare una corretta regolamentazione di tali attività**». ⚠️ **Sono le stesse due attività** che l'EBA voleva ricomprese nella Direttiva AML. ⚠️ La conclusione è **doppia**: «**insufficienti ed inadeguate**». Il docente: «l'autorità stessa prende una direzione **che sa essere insufficiente**».
@@ -4928,8 +4853,7 @@
 **Opzione:** I fungibili sono divisibili in frazioni, mentre i non fungibili sono definitivamente indivisibili.
 **Distrattori:**
 - I fungibili sono definitivamente indivisibili, mentre i non fungibili sono divisibili in frazioni.
-- I fungibili sono divisibili in frazioni, mentre i non fungibili sono divisibili solo con il consenso dell'emittente.
-- I fungibili sono divisibili in frazioni, mentre i non fungibili sono reciprocamente intercambiabili.
+- Non solo alle istituzioni dell'Unione europea, che ne adotteranno i criteri per qualsiasi misura futura sulla finanza sostenibile, ma anche alle imprese e agli operatori dei mercati finanziari.
 
 **D:** ⚠️ Per che cosa vengono utilizzati gli NFT, e in quali applicazioni?
 **R:** «**Gli NFT vengono utilizzati per creare scarsità digitale verificabile, proprietà digitale e/o possibilità di interoperabilità delle risorse su più piattaforme. Gli NFT vengono utilizzati in diverse applicazioni specifiche, che richiedono oggetti digitali unici come crypto art, oggetti da collezione digitali e giochi online**». ⚠️ Due elenchi da **tre** voci ciascuno, entrambi bersaglio di *coda sostituita*. ⚠️ La scarsità è «**verificabile**».
@@ -4944,16 +4868,14 @@
 **Opzione:** Un'evoluzione della proprietà fisica di un determinato bene; e la tokenizzazione va dalla realtà al digitale.
 **Distrattori:**
 - Un'evoluzione della proprietà fisica di un determinato bene; e la tokenizzazione va dal digitale alla realtà.
-- Una forma di possesso senza proprietà del bene sottostante; e la tokenizzazione va dalla realtà al digitale.
-- Un titolo rappresentativo della proprietà fisica del bene, opponibile ai terzi; e la tokenizzazione va dalla realtà al digitale.
+- Perché la sua intrinseca natura è talmente immateriale da impedirne una piena inclusione nella sfera del diritto proprietario.
 
 **D:** ⚠️ Quali sono le quattro applicazioni degli NFT elencate dalla slide?
 **R:** «**PROPRIETÀ INTELLETTUALE**» (quadro, canzone, brevetto o altri diritti IP; «ci sono aziende che vendono token come licenze»); «**REAL ESTATE**» (immobili, oggetti preziosi, veicoli e tutte le altre proprietà); «**SELF SOVEREIGN IDENTITY**» (verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze); «**DOCUMENTI FINANZIARI**» (fatture, ordini, garanzie, bollette). ⚠️ **Sono quattro e il docente ne commenta solo tre**: salta del tutto la **SELF SOVEREIGN IDENTITY**. È la voce che sta **solo sulla slide** — coda d'elenco, bersaglio classico.
 **Opzione:** Proprietà intellettuale, real estate, self sovereign identity, documenti finanziari.
 **Distrattori:**
 - Proprietà intellettuale, real estate, sistemi di pagamento, documenti finanziari.
-- Proprietà intellettuale, real estate, self sovereign identity, contratti di lavoro.
-- Proprietà industriale, real estate, self sovereign identity, documenti finanziari.
+- I fondi EuVECA ed EuSEF.
 
 **D:** ⚠️ A che cosa possono servire gli NFT nella self sovereign identity?
 **R:** «**Gli NFT possono anche servire per verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze e altro. Tutti questi oggetti possono essere tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi**». ⚠️ **È la voce che il docente salta del tutto**, e quindi quella che si può conoscere **solo dalla slide**. ⚠️ La protezione è **doppia**: da **contraffazioni** *o* **abusi**.
@@ -4992,8 +4914,7 @@
 **Opzione:** La SEC negli Stati Uniti d'America, la FCA nel Regno Unito o la CONSOB nella giurisdizione italiana.
 **Distrattori:**
 - La SEC negli Stati Uniti d'America, la CONSOB nel Regno Unito o la FCA nella giurisdizione italiana.
-- La FED negli Stati Uniti d'America, la FCA nel Regno Unito o la CONSOB nella giurisdizione italiana.
-- La SEC negli Stati Uniti d'America, la FCA nel Regno Unito o la Banca d'Italia nella giurisdizione italiana.
+- La categoria dei tassisti, lamentando concorrenza sleale e chiedendo l'adozione di provvedimenti inibitori dinanzi a molti giudici in diversi Stati membri.
 
 **D:** ⚠️ Qual è, secondo il docente, l'approccio del regolatore alle criptovalute — e perché è materia d'esame?
 **R:** Il filo conduttore è «**evitare il più possibile che la situazione sfugga di mano**», e per farlo «si propone di **inserire in regolamentazioni esistenti**»: «l'approccio del regolatore è quello di dire **cerchiamo di incasellare queste criptovalute all'interno di qualcosa che già conosciamo**». Vale per la Banca d'Italia, per l'ESMA e per l'EBA allo stesso modo — «per voi questo sarà diventando come **un disco rotto**». ⚠️ Il docente lo **dichiara espressamente materia d'esame**: «questo è un tema importante che poi **sarà richiesto anche per chi farà l'esame con me**, cioè l'**approccio del regolatore al fintech a livello nazionale e a livello europeo**, quindi capire un po' anche le **prospettive evolutive** di questo approccio». La ragione che ne dà: «è **difficile culturalmente accettare che qualcosa che abbia a che fare col sistema finanziario non sia regolamentato**, e allora nel dubbio si cerca di **stringere le maglie**… in questo momento probabilmente questo è **il migliore compromesso**». ⚠️ Sta **solo nel transcript**.
@@ -5061,8 +4982,7 @@
 **Opzione:** La sentenza del Tribunale di Brescia 25/07/2018 n. 7556 e il decreto della Corte d'Appello di Brescia n. 207/2018.
 **Distrattori:**
 - Il decreto del Tribunale di Brescia 25/07/2018 n. 7556 e la sentenza della Corte d'Appello di Brescia n. 207/2018.
-- La sentenza del Tribunale di Brescia 25/07/2018 n. 2074 e il decreto della Corte d'Appello di Brescia n. 7556/2018.
-- La sentenza del Tribunale di Milano 25/07/2018 n. 7556 e il decreto della Corte d'Appello di Brescia n. 207/2018.
+- La Commissione Europea, nel marzo 2018, nella cornice dell'Accordo di Parigi sul cambiamento climatico e dell'Agenda 2030 delle Nazioni Unite per lo sviluppo sostenibile.
 
 **D:** ⚠️ Che cosa era e che cosa non era in discussione davanti al Tribunale di Brescia?
 **R:** «**Non è in discussion** \[*sic*] **l'idoneità della categoria di beni rappresentata dale** \[*sic*] **cryptovalute a costituire element** \[*sic*] **di attivo idoneo al conferimento nel capitale di una S.r.l., bensì se il bene concretamente e specificamente conferito, soddisfi il requisito di cui all'art. 2464, c.2 codice civile**». ⚠️ **Struttura «non… bensì…»**, ed è il cuore della slide: in discussione **non** è l'idoneità **della categoria**, **bensì** quella di **quel** bene, «concretamente e specificamente conferito». Capovolgere i due termini è il distrattore da *segno invertito*. ⚠️ La società è una **S.r.l.** e l'articolo è il **2464, c.2**.
@@ -5085,8 +5005,8 @@
 **Opzione:** Che in caso di sottrazione non potrebbe configurarsi il reato di furto o di appropriazione indebita, ove se ne abbia solo il possesso.
 **Distrattori:**
 - Che in caso di sottrazione non potrebbe configurarsi il reato di furto o di appropriazione indebita, neppure quando se ne abbia la piena proprietà.
-- Che in caso di sottrazione potrebbe configurarsi soltanto il reato di appropriazione indebita, mai quello di furto.
 - Che il social lending non costituisce raccolta di risparmio tra il pubblico.
+- Non un bene, ma una frazione di un diritto sul bene stesso.
 
 **D:** ⚠️ Quali principi fondamentali individua il Tribunale di Brescia per la conferibilità dei beni nel capitale sociale?
 **R:** **Tre**: «**1) Idoneità ad essere oggetto di valutazione in un dato momento storico, prescindendo dalla tematica relativa alle oscillazioni del valore**»; «**2) Esistenza di un mercato del bene che permetta di determinare il tempo di conservazione in denaro contante**»; «**3) Idoneità del bene ad essere oggetto di aggressione da parte dei creditori sociali o "bersaglio" di procedura di esecuzione forzata**». ⚠️ Il primo **prescinde** dalle oscillazioni di valore: è una valutazione **puntuale**, «in un dato momento storico». ⚠️ Il terzo è **doppio**. ⚠️ La formula «tempo di **conservazione** in denaro contante» è oscura, ma slide e docente **coincidono**: va citata così.
@@ -5133,8 +5053,7 @@
 **Opzione:** Agli articoli 2264-2265 del codice civile, relativi alla procedura per la determinazione del valore del conferimento.
 **Distrattori:**
 - All'articolo 2464, c.2 del codice civile, relativo alla procedura per la determinazione del valore del conferimento.
-- Agli articoli 2264-2265 del codice civile, relativi alla nozione di bene suscettibile di formare oggetto di diritti.
-- All'articolo 810 del codice civile, relativo alla procedura per la determinazione del valore del conferimento.
+- Allegati alle comunicazioni da fornire agli investitori e ai clienti, come informazioni precontrattuali o periodiche, in base alle norme applicabili quali MiFID, UCITS, AIFMD e IDD.
 
 **D:** ⚠️ Quale criticità registra la slide a proposito dell'assimilazione delle cryptovalute alla moneta?
 **R:** «**Le cryptovalute rientrerebbero difficilmente nel concetto di moneta poiché non rientrerebbero in nessuna delle definizioni offerte dalle diverse teorie**». ⚠️ **La criticità si rivolge contro la stessa Corte**: se la cryptovaluta è assimilata al denaro ma non rientra in nessuna definizione di moneta, l'assimilazione resta fragile. ⚠️ La slide parla di «**diverse teorie**» ma ne enuncia **una sola**, la **teoria statalista**.
@@ -5202,9 +5121,9 @@
 **R:** La **BCE** parla di «**denaro digitale**» («una forma non regolamentata di **denaro digitale**»); l'**EBA**, nell'*Opinion*, di «**rappresentazione digitale di denaro**»; la **Banca d'Italia**, nell'Avvertenza del 2015, di «**rappresentazioni digitali di valore**». ⚠️ È una **matrice** *autorità × parola scelta*, e la differenza non è stilistica: **denaro** nelle prime due, **valore** nella terza. ⚠️ Alla lezione 17 la stessa Banca d'Italia usava una quarta formula ancora: «**attività di natura digitale**».
 **Opzione:** La BCE denaro digitale, l'EBA rappresentazione digitale di denaro, la Banca d'Italia rappresentazioni digitali di valore.
 **Distrattori:**
-- La BCE rappresentazioni digitali di valore, l'EBA denaro digitale, la Banca d'Italia rappresentazione digitale di denaro.
 - La BCE denaro digitale, l'EBA rappresentazioni digitali di valore, la Banca d'Italia rappresentazione digitale di denaro.
-- La BCE moneta elettronica, l'EBA rappresentazione digitale di denaro, la Banca d'Italia rappresentazioni digitali di valore.
+- Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed accettato solo dall'emittente di quel token.
+- Con moneta classica, ovvero mediante l'espletamento di specifiche attività online.
 
 **D:** ⚠️ Che cosa premette la slide prima di esporre la giurisprudenza di Brescia?
 **R:** «**Permane un'incertezza legale sul regime giuridico applicabile alle cryptovalute**». ⚠️ Il verbo è «**permane**»: l'incertezza è **tuttora in atto**, non superata dalle pronunce che seguono — ed è la ragione per cui le due decisioni arrivano a **qualificazioni opposte**.
@@ -5219,8 +5138,8 @@
 **Opzione:** Il Tribunale come «cryptovalute come beni», la Corte d'Appello come «cryptovalute come moneta».
 **Distrattori:**
 - Il Tribunale come «cryptovalute come moneta», la Corte d'Appello come «cryptovalute come beni».
-- Il Tribunale come «cryptovalute come strumenti finanziari», la Corte d'Appello come «cryptovalute come moneta».
-- Il Tribunale come «cryptovalute come beni», la Corte d'Appello come «cryptovalute come strumenti di pagamento».
+- Ai securities tokens la domanda se siano strumenti finanziari ai sensi della MiFID II, titoli trasferibili o prodotti finanziari; agli NFT la domanda se siano diritti, e se di proprietà o di credito.
+- Dai prestatori al richiedente al momento dell'erogazione, e dal richiedente ai prestatori durante il rimborso, come rata ridistribuita in quote capitali e interessi di spettanza.
 
 **D:** ⚠️ Che cosa è necessario stabilire «ab origine», secondo il Tribunale di Brescia?
 **R:** «**È necessario stabilire ab origine la possibile attribuzione di un valore economico alle cryptovalute**». ⚠️ È la premessa da cui discendono i **tre principi di conferibilità**: prima di chiedersi se un bene sia conferibile, occorre stabilire se gli si possa attribuire **un valore economico**. ⚠️ L'ASR rende «ab origine» come «**a origine**»: è un errore di trascrizione.
@@ -5242,17 +5161,17 @@
 **R:** «**Il crescente interesse nei confronti della finanza sostenibile**» e «**Il piano di azione europeo ("European Action Plan") per la finanza sostenibile**». ⚠️ L'agenda è ripetuta **identica** due volte (slide 2 e 5).
 **Opzione:** Il crescente interesse nei confronti della finanza sostenibile; il piano di azione europeo per la finanza sostenibile.
 **Distrattori:**
-- Il crescente interesse nei confronti della finanza sostenibile; il piano di azione europeo per la finanza digitale.
 - Il crescente interesse nei confronti della finanza sostenibile; il Regolamento sulla tassonomia e la SFDR.
-- La qualificazione giuridica dei fattori ESG; il piano di azione europeo per la finanza sostenibile.
+- Si tratta di strumenti di pagamento ai sensi della PSD2? Sono e-money ai sensi della EMD2?
+- Non solo la neutralità tecnologica del CSDR, ma più specificamente se e a quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.
 
 **D:** ⚠️ Che cos'è la finanza sostenibile, nella definizione letterale della slide?
 **R:** «**La finanza sostenibile si riferisce generalmente all'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti**». ⚠️ **I criteri nominati sono due, non tre**: la **governance** — pur presente nell'acronimo ESG e nel titolo della lezione — compare **solo** nell'inciso «insieme alla governance» **dentro** la voce *sociale*. Un'opzione che elenca «ambientali, sociali e di governance» come tre criteri paritari sembra ovvia ed è **falsa rispetto alla slide**. ⚠️ Il quantificatore «**generalmente**» attenua la definizione.
 **Opzione:** Si riferisce generalmente all'inclusione di criteri ambientali e sociali nel processo decisionale degli investimenti.
 **Distrattori:**
 - Si riferisce generalmente all'inclusione di criteri ambientali, sociali e di governance nel processo decisionale degli investimenti.
-- Si riferisce generalmente all'inclusione di criteri ambientali e sociali nella valutazione del merito creditizio delle imprese.
-- Si riferisce generalmente all'esclusione dei settori ad alto impatto ambientale dal processo decisionale degli investimenti.
+- È un tipo di crypto-attività il cui scopo principale è essere utilizzato come mezzo di scambio e che pretende di mantenere un valore stabile facendo riferimento al valore di una valuta fiat avente corso legale.
+- Rappresentazione digitale di valore o di diritti suscettibile di essere trasferita ed immagazzinata elettronicamente, attraverso l'utilizzo della tecnologia a registri distribuiti o tecnologie similari.
 
 **D:** ⚠️ Di che cosa si occupano i criteri ambientali, secondo la slide?
 **R:** «**Si occupa di diversi fenomeni legati all'ambiente in generale ed ai relativi rischi (come il cambiamento climatico, i disastri naturali o l'esaurimento delle risorse naturali)**». ⚠️ Gli esempi sono **tre** e vanno detti nell'ordine; l'oggetto è **doppio** — i **fenomeni** *e* i **relativi rischi**.
@@ -5267,8 +5186,8 @@
 **Opzione:** Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, alle relazioni umane e alla diversità di genere.
 **Distrattori:**
 - Alla disuguaglianza, all'inclusività e, insieme ai criteri ambientali, al lavoro, alle relazioni umane e alla diversità di genere.
-- Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, alle relazioni umane e alla tutela dei consumatori.
-- Alla disuguaglianza, all'inclusività e, insieme alla governance, al lavoro, all'esaurimento delle risorse naturali e alla diversità di genere.
+- Obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
+- Un tipo di crypto-attività destinato a fornire accesso digitale a un bene o servizio, disponibile su DLT, ed accettato solo dall'emittente di quel token.
 
 **D:** ⚠️ Perché i fattori ambientali e sociali sono interconnessi, e quale fonte cita la slide?
 **R:** «**I fattori ambientali e sociali sono interconnessi, poiché i disastri naturali possono portare a nuovi tipi di povertà e a migrazioni legate al clima (Task force on climate-related financial disclosure, Final report on Climate-related Financial Disclosure, 2017)**». ⚠️ Le conseguenze sono **due**: «**nuovi tipi di povertà**» *e* «**migrazioni legate al clima**». ⚠️ **La fonte in parentesi sta solo sulla slide**: il docente riferisce l'affermazione senza citarla.
@@ -5283,24 +5202,22 @@
 **Opzione:** Lo sviluppo di prodotti ESG da parte degli intermediari finanziari e i nuovi regolamenti sulla finanza sostenibile.
 **Distrattori:**
 - Lo sviluppo di prodotti ESG da parte degli intermediari finanziari e l'adozione di sanzioni per i comportamenti di greenwashing.
-- L'obbligo di disinvestimento dai settori ad alto impatto ambientale e i nuovi regolamenti sulla finanza sostenibile.
-- Lo sviluppo di prodotti ESG da parte delle sole autorità di vigilanza e i nuovi regolamenti sulla finanza sostenibile.
+- Non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche razionalizzando l'attuale quadro legislativo, modificando o derogando le norme esistenti in modo permanente ed efficiente.
 
 **D:** ⚠️ Da quali clienti è aumentata la domanda di prodotti ESG, secondo la slide?
 **R:** «**Negli ultimi anni la domanda da parte di clienti sia istituzionali che retail (e clienti ultra-high net worth), è aumentata insieme alla consapevolezza che i fattori ESG possono portare, con rischi equivalenti, a migliori performance**». ⚠️ Le categorie sono **tre** e la terza — «**clienti ultra-high net worth**» — è la **coda dell'elenco** che il docente **omette**. ⚠️ La promessa di performance è **condizionata**: «**con rischi equivalenti**, a migliori performance» — non un rendimento superiore in assoluto, e non una riduzione del rischio a parità di rendimento.
 **Opzione:** Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
 **Distrattori:**
-- Da clienti istituzionali, professionali e ultra-high net worth; e i fattori ESG possono portare, con rischi equivalenti, a migliori performance.
 - Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG possono portare, a parità di performance, a rischi minori.
-- Da clienti istituzionali, retail e ultra-high net worth; e i fattori ESG garantiscono in ogni caso migliori performance.
+- Da un fornitore di servizi di cripto-asset quando le attività di riserva assumono la forma di cripto-asset, e da un istituto di credito per tutti gli altri tipi di attività di riserva.
+- Le imprese di investimento, gli istituti di credito e le società di gestione italiane; dal rischio di greenwashing e di informazioni fuorvianti condivise con gli investitori, soprattutto retail.
 
 **D:** ⚠️ A quali rischi sono meno esposte le imprese più consapevoli dei fattori ESG?
 **R:** «**Le imprese più consapevoli dei fattori ESG sono generalmente meno esposte ai rischi operativi, legali e reputazionali, e più orientate all'innovazione**». ⚠️ La struttura è **3 + 1**: **tre** rischi (**operativi, legali, reputazionali**) e **un** tratto positivo (**più orientate all'innovazione**). ⚠️ Il quantificatore è «**generalmente** meno esposte».
 **Opzione:** Ai rischi operativi, legali e reputazionali; e sono più orientate all'innovazione.
 **Distrattori:**
 - Ai rischi operativi, legali e di mercato; e sono più orientate all'innovazione.
-- Ai rischi operativi, legali e reputazionali; e sono più orientate alla riduzione dei costi.
-- Ai soli rischi reputazionali; e sono più orientate all'innovazione.
+- Ai requisiti di livello 1 del CSDR.
 
 **D:** ⚠️ Quali benchmark globali di sostenibilità cita la slide, e a che cosa servono?
 **R:** «**L'adozione di benchmark globali per valutare la sostenibilità di un investimento (ad esempio i PRI - Principles for Responsible Investment, la Recommendation of the Task Force on Climate-related Financial Disclosures) è essenziale per consentire una spinta circolare della sostenibilità, sia sull'"economia reale" che su quella finanziaria**». ⚠️ **I due benchmark stanno solo sulla slide**: il docente parla genericamente di «azioni di benchmark globali». ⚠️ La formula da conservare è «**una spinta circolare della sostenibilità**», che agisce su **due** versanti.
@@ -5322,9 +5239,9 @@
 **R:** **Due**, saldati da un avverbio: «**gestire pratiche di mercato fondate su priorità di tipo economico; *inoltre*** **misurare il profilo di sostenibilità delle imprese interessate**». ⚠️ Il docente dice invece che il Piano ha «scopo dichiarato **unico e principale** di gestire pratiche di mercato fondate su priorità di tipo economico, **ma misurandone** il profilo di sostenibilità», subordinando il secondo al primo: **vale la slide, due scopi coordinati**.
 **Opzione:** Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
 **Distrattori:**
-- Gestire pratiche di mercato fondate su priorità di tipo economico e, inoltre, certificare il profilo di sostenibilità delle imprese interessate.
 - Gestire pratiche di mercato fondate su priorità di tipo ambientale e, inoltre, misurare il profilo di sostenibilità delle imprese interessate.
-- Misurare il profilo di sostenibilità delle imprese interessate e, inoltre, sanzionare le pratiche di greenwashing.
+- Fornire una dettagliata descrizione del progetto che l'emittente vuole finanziare; rappresentare a cosa servono i token emessi con l'ICO; spiegare come si acquistano e quali diritti conferiscono ai loro acquirenti.
+- È la prima per i servizi finanziari: approfondimento delle conoscenze sull'uso della DLT per i mercati finanziari, al di là del suo ruolo di tecnologia di base per le criptovalute; consentire l'individuazione precoce delle sfide di implementazione.
 
 **D:** ⚠️ A che cosa porta il Sustainable Finance Action Plan, secondo la slide?
 **R:** «**All'esigenza di un accordo condiviso rispetto ad una simile tematica, per evitare risultati divergenti e quindi la frammentazione del mercato che potrebbe ingenerare sfiducia da parte degli investitori**». ⚠️ **La catena causale ha tre stadi**: **risultati divergenti** → **frammentazione del mercato** → **sfiducia degli investitori**. Saltarne uno o invertirne l'ordine è il distrattore naturale.
@@ -5378,9 +5295,8 @@
 **R:** «**Assicurare una comunicazione chiara agli investitori, incoraggiando apporti di capitale alle imprese sostenibili, sia da parte degli investitori retail che dagli intermediary** \[*sic*] **finanziari, finanziatori (banche), gestori di patrimoni (prestatori di servizi di investimento ed imprese di gestione del risparmio) e compagnie di sottoscrizione assiurativa** \[*sic*]». ⚠️ I soggetti sono **cinque** e **stanno solo sulla slide**: il docente si ferma alla formula generale. ⚠️ I «**gestori di patrimoni**» sono a loro volta glossati come «**prestatori di servizi di investimento ed imprese di gestione del risparmio**».
 **Opzione:** Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 **Distrattori:**
-- Gli investitori retail, gli intermediari finanziari, le società di revisione, i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
 - Gli investitori retail, gli intermediari finanziari, i finanziatori (banche), i gestori di patrimoni e le agenzie di rating.
-- I soli investitori istituzionali, i finanziatori (banche), i gestori di patrimoni e le compagnie di sottoscrizione assicurativa.
+- Gli strumenti finanziari fuori dal perimetro del CSDR, cioè diversi dai valori mobiliari; e i valori mobiliari, dove i problemi principali sono due.
 
 **D:** ⚠️ A quale condizione possono essere raggiunti gli obiettivi europei sull'ESG?
 **R:** «**Questi obiettivi possono essere raggiunti solo attraverso una definizione chiara ed uniforme di cosa sia la sostenibilità per le imprese e di come queste possano conformarsi aicriteri** \[*sic*, per *ai criteri*] **di sostenibilità**». ⚠️ Il quantificatore «**solo attraverso**» è **esclusivo**: è una **condizione necessaria**. ⚠️ La definizione richiesta è **doppia**: *che cosa* sia la sostenibilità **e** *come* conformarvisi. Il docente vi antepone la riserva «**al di là delle belle parole e dei concetti edificanti**».
@@ -5403,16 +5319,14 @@
 **Opzione:** Nel marzo 2020, prima dell'entrata in vigore della SFDR e dell'emanazione del Regolamento sulla tassonomia.
 **Distrattori:**
 - Nel marzo 2020, dopo l'entrata in vigore della SFDR ma prima dell'emanazione del Regolamento sulla tassonomia.
-- Nel marzo 2018, prima dell'entrata in vigore della SFDR e dell'emanazione del Regolamento sulla tassonomia.
-- Nel giugno 2020, dopo l'entrata in vigore della SFDR e del Regolamento sulla tassonomia.
+- All'inizio del 2023.
 
 **D:** ⚠️ In quali processi la raccomandazione Consob chiede di includere le preferenze di sostenibilità, e in forza di quale norma?
 **R:** «**In attesa della modifica della normativa europea in materia, nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti ai sensi della Direttiva 2014/65/UE (MIFID II)**». ⚠️ **Le tre aree e il rinvio alla MiFID II stanno solo sulla slide**: il docente le nomina in modo frammentario. ⚠️ **Coppia soggetto + norma**: la direttiva è la **2014/65/UE**.
 **Opzione:** Nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2014/65/UE (MiFID II).
 **Distrattori:**
 - Nella valutazione di adeguatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2016/97/UE (IDD).
-- Nella valutazione di appropriatezza, nella governance dei prodotti e nell'informativa ai clienti, ai sensi della Direttiva 2014/65/UE (MiFID II).
-- Nella sola valutazione di adeguatezza, ai sensi della Direttiva 2014/65/UE (MiFID II).
+- In Germania; e la Commissione europea sta considerando di modificare la MiFID II per includervi i securities tokens.
 
 **D:** ⚠️ Quali soggetti ha allertato la raccomandazione Consob, e da quale rischio ha messo in guardia?
 **R:** Ha allertato «**le imprese di investimento, gli istituti di credito e le società di gestione italiane**»; e «**ha anche messo in guardia il mercato italiano dal rischio di greenwashing, prevenendo il rischio che informazioni fuorvianti possano essere condivise con gli investitori, soprattutto retail**». ⚠️ I destinatari sono **tre**. ⚠️ Il quantificatore «**soprattutto retail**» sta **solo sulla slide**.
@@ -5475,8 +5389,7 @@
 **Opzione:** MiFID II 2014/65/UE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
 **Distrattori:**
 - MiFID II 2014/65/UE; UCITS 2011/61/UE; AIFMD 2009/65/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
-- MiFID II 2014/65/UE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2014/17/UE; PEPP regolamento 2019/1238.
-- MiFID II 2004/39/CE; UCITS 2009/65/UE; AIFMD 2011/61/UE; IDD 2016/97/UE; PEPP regolamento 2019/1238.
+- Ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 (MiFIR).
 
 **D:** ⚠️ Da chi è richiesta la divulgazione prevista dalla SFDR?
 **R:** «**Non solo dalle imprese che offrono prodotti finanziari mirati come prodotti sostenibili, ma a tutte le imprese, le quali devono divulgare agli investitori il metodo di integrazione dei rischi di sostenibilità e degli impatti negativi di sostenibilità nei loro processi di selezione degli investimenti**». ⚠️ **È il punto più fraintendibile della lezione**: l'obbligo **non** è riservato a chi commercializza prodotti sostenibili. ⚠️ Ciò che va divulgato è «**il metodo di integrazione**» di **due** cose — rischi *e* impatti negativi di sostenibilità — nei processi di **selezione degli investimenti**.
@@ -5509,9 +5422,9 @@
 **R:** **Il Regolamento Tassonomia modifica la SFDR**: la quinta voce della slide 5 recita «**modifica il regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio, del 27 novembre 2019, sulle informazioni relative alla sostenibilità nel settore dei servizi finanziari ("SFDR")**». ⚠️ **Coppia soggetto + data**: Tassonomia **18 giugno 2020**, SFDR **27 novembre 2019** — e **la data della SFDR compare solo qui**, in coda alla quinta voce, non sulle slide dedicate alla SFDR. Il docente: «addirittura l'SFDR **viene modificata in alcune parti dal regolamento della tassonomia**».
 **Opzione:** Il Regolamento Tassonomia, del 18 giugno 2020, modifica la SFDR, del 27 novembre 2019.
 **Distrattori:**
-- La SFDR, del 27 novembre 2019, modifica il Regolamento Tassonomia, del 18 giugno 2020.
 - Il Regolamento Tassonomia, del 18 giugno 2020, abroga e sostituisce la SFDR, del 27 novembre 2019.
-- I due regolamenti sono paralleli e indipendenti: il Regolamento Tassonomia è del 18 giugno 2020, la SFDR del 27 novembre 2019.
+- Le assimila sul piano funzionale al denaro e nega in radice l'idoneità al conferimento, mentre il Tribunale le trattava come beni e aveva negato la conferibilità nel solo caso di specie.
+- Sono pareri non vincolanti.
 
 **D:** ⚠️ Quali autorità hanno elaborato gli RTS sulla trasparenza della SFDR, e sotto quale sigla?
 **R:** «**Le tre Autorità di Vigilanza europee (EBA, EIOPA e ESMA, le "ESAs") hanno inoltrato alla Commissione europea il loro Final Report with draft Regulatory Technical Standards (RTS) in relazione alla trasparenza prevista dal Regolamento sulla trasparenza della finanza sostenibile (SFDR) così come modificato dal Regolamento Tassonomia**». ⚠️ Sono **tre** e l'ordine della slide è **EBA, EIOPA, ESMA**, sotto la sigla collettiva «**ESAs**». ⚠️ Il destinatario è la **Commissione europea**.
@@ -5610,8 +5523,8 @@
 **Opzione:** L'esigenza di un'etichetta comune condivisa e di una misura uniforme dei fattori ESG.
 **Distrattori:**
 - L'esigenza di un'etichetta comune condivisa e di un regime sanzionatorio uniforme contro il greenwashing.
-- L'esigenza di una misura uniforme dei fattori ESG e di un registro europeo dei prodotti sostenibili.
-- L'esigenza di un'etichetta comune condivisa, lasciando agli Stati membri la misurazione dei fattori ESG.
+- L'elevato numero di deroghe al CSDR.
+- All'anonimato e agli operatori esteri.
 
 **D:** ⚠️ A chi si applica il Regolamento Tassonomia?
 **R:** «**Si applica non solo alle istituzioni dell'Unione europea (che adotteranno i criteri stabiliti dal Regolamento in relazione a qualsiasi misura futura sulla finanza sostenibile), ma anche alle imprese e agli operatori dei mercati finanziari**». ⚠️ Struttura «**non solo… ma anche…**»: i destinatari sono **tre** — **istituzioni dell'Unione**, **imprese**, **operatori dei mercati finanziari**. ⚠️ L'inciso vincola le istituzioni UE «**in relazione a qualsiasi misura futura sulla finanza sostenibile**».
@@ -5626,8 +5539,7 @@
 **Opzione:** I criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale.
 **Distrattori:**
 - I criteri per determinare se un'attività economica si qualifica come sostenibile dal punto di vista ambientale, sociale e di governance.
-- I criteri per determinare se un prodotto finanziario si qualifica come sostenibile dal punto di vista ambientale.
-- I criteri per determinare se un'impresa si qualifica come sostenibile dal punto di vista ambientale.
+- Fondi d'investimento armonizzati a livello europeo, destinati agli investitori al dettaglio e volti a promuovere gli investimenti in progetti sociali e infrastrutturali, nel settore immobiliare e nelle PMI.
 
 **D:** ⚠️ Come giustifica il docente la proliferazione e il continuo rimaneggiamento delle norme ESG?
 **R:** Come una necessità strutturale: «si tratta di una **normale proliferazione** nel contesto europeo e locale quando si deve fare i conti con **fenomeni in costante evoluzione**», perché «**i tempi di gestazione** di queste normative **non** sono **indifferenti**» e «dal momento in cui si è iniziato a pensare di scriverla al momento in cui si arriva alla conclusione è passato un lasso di tempo tale per cui **probabilmente è già necessario farne un'altra**». Sul disordine cronologico degli atti: «**non spaventatevi di fronte all'apparente confusione cronologica**… è quello che viene definito come uno **standard market practice**. Purtroppo si è in una situazione tale per cui è necessario **continuamente rimaneggiare dei testi che sono stati appena licenziati**». ⚠️ Vi affianca l'avvertenza opposta: «**più si va nel dettaglio e più si danno informazioni**… ma dall'altro lato **si corre il rischio di entrare in quel loop del dare troppe informazioni creando eccessiva confusione**». ⚠️ Solo nel transcript ([00:04:06]).
@@ -5650,16 +5562,16 @@
 **Opzione:** In particolare a causa dell'ampio uso di cripto-asset e DLT.
 **Distrattori:**
 - In particolare a causa dell'uso ancora marginale di cripto-asset e DLT.
-- In particolare a causa dell'ampio uso di cripto-asset e intelligenza artificiale.
-- In particolare a causa dell'ampio uso di cripto-asset da parte dei soli intermediari vigilati.
+- Perché a seconda della categoria non solo si applicano norme tributarie differenti, ma cambia anche l'applicazione dell'IVA.
+- Perché senza una definizione comune dovrebbero soddisfare criteri diversi in diversi Stati membri per qualificare le loro attività come sostenibili dal punto di vista ambientale.
 
 **D:** ⚠️ Che cosa dice esattamente la voce del Pacchetto sull'eliminazione degli ostacoli normativi?
 **R:** «**eliminazione degli ostacoli normativi (ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza)**». ⚠️ Le fasi sono **tre** e la terza è la **post**-negoziazione; l'oggetto sono i **token di sicurezza**, non i cripto-asset in genere.
 **Opzione:** Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di sicurezza.
 **Distrattori:**
-- Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la pre-negoziazione di token di sicurezza.
 - Eliminazione degli ostacoli normativi, ad esempio per l'emissione, la negoziazione e la post-negoziazione di token di pagamento.
-- Eliminazione degli ostacoli normativi, ad esempio per la custodia e il trasferimento transfrontaliero di token di sicurezza.
+- Pregi: apertura di una finestra per la regolarizzazione del pregresso, fissazione di soglie minime nel quadro RW. Criticità: aspetti pratici dei calcoli, mancata caratterizzazione dei token, mancata qualificazione di valori ufficiali di riferimento.
+- Qualsiasi scambio di una valuta contro una valuta differente.
 
 **D:** Che cosa sono chiamati a proteggere i «livelli elevati di protezione» del Pacchetto per la Finanza Digitale?
 **R:** «**Livelli elevati di protezione della clientela e dell'investitore e dell'integrità del mercato**». ⚠️ Gli oggetti sono **tre** e vanno detti tutti: la **clientela**, l'**investitore** e l'**integrità del mercato**.
@@ -5728,16 +5640,15 @@
 **Opzione:** Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti da MiFID II, MiFIR e CSDR.
 **Distrattori:**
 - Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti da MiFID II, MiFIR e MiCA.
-- Un regime pilota che consente alle infrastrutture di mercato DLT di ottenere esenzioni dai requisiti previsti dalla sola CSDR.
-- Un regime obbligatorio che impone alle infrastrutture di mercato DLT requisiti aggiuntivi rispetto a quelli previsti da MiFID II, MiFIR e CSDR.
+- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative ad attività finanziarie.
+- Abilitano i clienti al pagamento dei commercianti mediante crypto-assets o a trasferire valuta corrente tramite crypto-assets.
 
 **D:** ⚠️ Chi concede le esenzioni del regime pilota e quale ruolo ha l'ESMA?
 **R:** «**Le NCAs concedono le esenzioni. Ad ESMA è affidato un ruolo di coordinamento.**» ⚠️ **Coppia soggetto + funzione da non invertire**: le esenzioni le concedono le **autorità nazionali**, all'ESMA spetta **solo il coordinamento**. Il docente lo rimarca: l'ESMA, «questo **super regulator**, il regolatore europeo, ha un ruolo di coordinamento, **non entra nel dettaglio** di come vengono regolamentati a livello nazionale».
 **Opzione:** Le concedono le NCAs; ad ESMA è affidato un ruolo di coordinamento.
 **Distrattori:**
 - Le concede ESMA; alle NCAs è affidato un ruolo di coordinamento.
-- Le concedono le NCAs previa autorizzazione vincolante di ESMA.
-- Le concedono congiuntamente la Commissione e il Parlamento Europeo; ad ESMA è affidato un ruolo di coordinamento.
+- Coloro che progettano o emettono crypto-assets per loro stessi o per conto di altri; la categoria include gli emittenti di token attraverso una ICO.
 
 **D:** Perché il Regolamento DLT prevede limiti e requisiti specifici per accedere alle esenzioni?
 **R:** «**Sono previsti limiti e specifici requisiti per poter usufruire delle esenzioni, al fine di garantire parità di condizioni in tutta l'UE.**» ⚠️ È il ***level playing field*** che il docente riprende in chiusura: «che le **regole del gioco siano uguali per tutte**».
@@ -5754,9 +5665,9 @@
 **R:** «**azioni il cui emittente ha una capitalizzazione di mercato o una capitalizzazione di mercato provvisoria inferiore a 500 milioni di EUR**». ⚠️ Due punti da conservare: la soglia è **500 milioni** (non 1 miliardo, che è quella delle obbligazioni) e la capitalizzazione può essere anche «**provvisoria**».
 **Opzione:** Una capitalizzazione di mercato, anche provvisoria, inferiore a 500 milioni di EUR.
 **Distrattori:**
-- Una capitalizzazione di mercato definitiva inferiore a 500 milioni di EUR.
 - Una capitalizzazione di mercato, anche provvisoria, inferiore a 1 miliardo di EUR.
-- Una capitalizzazione di mercato, anche provvisoria, superiore a 500 milioni di EUR.
+- All'inizio del 2023.
+- Rispetto a valute aventi corso legale o rispetto ad altri cryptoasset.
 
 **D:** ⚠️ Qual è la soglia prevista per le obbligazioni e il debito cartolarizzato, e quali strumenti restano esclusi?
 **R:** «**obbligazioni, altre forme di debito cartolarizzato, comprese le ricevute di deposito in relazione a tali titoli, o strumenti del mercato monetario, con un'entità di emissione inferiore a 1 miliardo di EUR, esclusi quelli che incorporano uno strumento derivato o che incorporano una struttura che rende difficile per il cliente comprendere il rischio correlato**». ⚠️ La soglia è **1 miliardo** — è l'unica voce a non essere da 500 milioni — e le esclusioni sono **due**. ⚠️ Riepilogando, il docente dice per lapsus «500 milioni di euro, **un milione**» \[*sic*, [00:08:19]]: vale la slide.
@@ -5803,8 +5714,7 @@
 **Opzione:** Ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 (MiFIR).
 **Distrattori:**
 - Ai soli requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II.
-- Ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dalla MiFID II e dal Regolamento (UE) n. 909/2014 (CSDR).
-- Ai requisiti applicabili ai depositari centrali di titoli previsti dalla MiFID II e dal Regolamento (UE) n. 600/2014 (MiFIR).
+- Al valore corrente di mercato, e non in base al costo storico.
 
 **D:** ⚠️ Che cos'è l'SS DLT e quali funzioni svolge?
 **R:** «**il sistema di regolamento DLT ("SS DLT"), ossia il sistema che regolerà operazioni in strumenti finanziari DLT "contro pagamento o consegna", permettendo altresì la registrazione iniziale degli strumenti finanziari DLT ovvero consentendo la prestazione di servizi di custodia in relazione a detti strumenti**». ⚠️ Le funzioni sono **tre**: regolamento «contro pagamento o consegna», **registrazione iniziale** e **custodia**.
@@ -5819,8 +5729,8 @@
 **Opzione:** È gestito da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
 **Distrattori:**
 - È gestito da un'impresa di investimento o da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
-- È gestito da un CSD ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 600/2014 (MiFIR).
-- È gestito da un operatore di mercato ed è un sistema di regolamento titoli come definito dal Regolamento (UE) n. 909/2014 (CSDR).
+- In due: fra gli intermediari finanziari e fra i prestatori di liquidità come i market maker professionali.
+- Il 78/2021 sulla detenzione in un wallet con chiavi private; il 397/2022 sulla detenzione tramite exchange e wallet con chiavi private.
 
 **D:** ⚠️ Da chi può essere gestito il TSS DLT e a quali requisiti è soggetto?
 **R:** «**il TSS DLT potrà essere gestito, alternativamente, da un'impresa di investimento o da un gestore del mercato, ovvero da un depositario centrale di titoli. In entrambi i casi, tale sistema sarà soggetto sia ai requisiti applicabili ai sistemi multilaterali di negoziazione previsti dal MiFIR e dalla MiFID II nonché a quelli applicabili ai depositari centrali di titoli di cui al CSDR.**» ⚠️ È l'unica infrastruttura soggetta **insieme** a MiFID II/MiFIR **e** CSDR, perché gestisce «**sia le attività di negoziazione che di post-negoziazione**».
@@ -5869,9 +5779,8 @@
 **R:** Su un **elenco chiuso di quattro voci**: «**obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati**». ⚠️ Mercato Regolamentato e MTF hanno invece per oggetto gli «**strumenti finanziari**» in genere: è l'asse su cui le tre definizioni si separano più nettamente, e il posto dove i distrattori scambiano un elenco con l'altro.
 **Opzione:** Obbligazioni, strumenti finanziari strutturati, quote di emissione e strumenti derivati.
 **Distrattori:**
-- Obbligazioni, strumenti finanziari strutturati, strumenti del mercato monetario e strumenti derivati.
-- Strumenti finanziari, senza limitazioni di categoria.
 - Obbligazioni, azioni, quote di emissione e strumenti derivati.
+- Strumenti finanziari, senza limitazioni di categoria.
 
 **D:** ⚠️ Il docente chiama il mercato regolamentato «l'infrastruttura principe del DLT»: quale variante DLT prevede il regime pilota per ciascuna delle tre sedi MiFID II?
 **R:** Solo l'**MTF** ha una variante DLT nel regime pilota — l'**MTF DLT**. **Non esistono** un «mercato regolamentato DLT» né un «OTF DLT»: le altre due infrastrutture DLT del Regolamento sono l'**SS DLT** (regolamento titoli, mutuato dal CSDR) e il **TSS DLT** (che combina i servizi delle prime due). ⚠️ L'espressione del docente ([00:11:07]) non va presa come una classificazione: le tre sedi della slide 11 servono da sfondo MiFID II, non da elenco di infrastrutture DLT.
@@ -5910,8 +5819,7 @@
 **Opzione:** MiFID: obbligo di intermediazione. MiFIR: transaction reporting.
 **Distrattori:**
 - MiFID: transaction reporting. MiFIR: obbligo di intermediazione.
-- MiFID: obbligo di intermediazione. MiFIR: obbligo di best execution.
-- MiFID: obbligo di intermediazione e transaction reporting. MiFIR: nessuna esenzione.
+- Al fine di garantire parità di condizioni in tutta l'UE.
 
 **D:** A quale condizione generale sono sottoposte le esenzioni dell'MTF DLT?
 **R:** «**Le esenzioni sono subordinate al rispetto di una serie di requisiti**». ⚠️ La frase sta in fondo alla slide e vale per **entrambe** le colonne, MiFID e MiFIR. Il docente lo ribadisce: «queste esenzioni sono **subordinate a una serie di requisiti**».
@@ -5997,9 +5905,9 @@
 **R:** Con la parentesi della slide 5: «**una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD**». ⚠️ Le esenzioni sono **due** — dall'obbligo di ***book-entry*** **e** dalla **registrazione presso un CSD** — e l'effetto è un **trasferimento di ruolo**, non una semplice semplificazione. È il punto su cui poggia la critica della slide 7: la questione era «**se e quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD**».
 **Opzione:** Una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT TSS assumono le funzioni del CSD.
 **Distrattori:**
-- Una volta esentati dall'obbligo di book-entry e dalla registrazione presso un CSD, i DLT SS assumono le funzioni del CSD.
 - Una volta esentati dal solo obbligo di book-entry, i DLT TSS assumono le funzioni del CSD.
-- Una volta autorizzati dall'ESMA con parere vincolante, i DLT TSS possono operare in luogo del CSD.
+- Ove l'intermediario estero si qualificasse come banca, valutando il deposito sotto il profilo sostanziale.
+- Attraverso ICO e STO.
 
 **D:** ⚠️ Che cosa dice il report dell'ESMA sulla neutralità tecnologica del CSDR?
 **R:** Nel «**Report to the European Commission Use of FinTech by CSD**»: «**A majority of respondents to ESMA's questionnaire (NCAs, CSDs and banks), consider that CSDR is technology-neutral and, as such, it should be able to accommodate the use of new technologies. Most of the comments received from NCAs indicate the same, i.e. there does not seem to be any major impediment to the development of DLT in the CSDR level 1 requirements. […] However, many of the respondents who consider CSDR technologically neutral have highlighted a number of topics which would benefit from clarification to ensure legal certainty for CSDs when performing their core activities using DLT.**» ⚠️ Il «**However**» è il perno: chi riconosce la neutralità **chiede comunque chiarimenti**, per la «**legal certainty**» dei CSD.
@@ -6021,9 +5929,9 @@
 **R:** Ai «**CSDR level 1 requirements**»: «**there does not seem to be any major impediment to the development of DLT in the CSDR level 1 requirements**». ⚠️ Da tenere distinto dalla «**guida di livello 3**» dell'ESMA sulle misure di compensazione, che è un altro livello e un altro strumento.
 **Opzione:** Ai requisiti di livello 1 del CSDR.
 **Distrattori:**
-- Ai requisiti di livello 2 del CSDR.
 - Ai requisiti di livello 3 del CSDR.
-- A tutti i livelli dei requisiti del CSDR indistintamente.
+- Alle cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica.
+- In particolare a causa dell'ampio uso di cripto-asset e DLT.
 
 **D:** ⚠️ Qual è la critica di fondo che la slide muove al Regolamento DLT?
 **R:** «**Il Regolamento DLT non attua un vero e proprio regime ad hoc, limitandosi a derogare a quelle norme che, almeno dal suo punto di vista, risultano essere una limitazione per la DLT.**» ⚠️ L'inciso «**almeno dal suo punto di vista**» è parte della critica: la selezione delle norme da derogare è **del Regolamento stesso**. Il docente la traduce così: «il legislatore sembra che qualche volta abbia **i polsi che gli tremano**… facciamo questo passo, **ma non troppo lungo**».
@@ -6038,8 +5946,8 @@
 **Opzione:** Non solo la neutralità tecnologica del CSDR, ma più specificamente se e a quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.
 **Distrattori:**
 - Soltanto la neutralità tecnologica del CSDR, che è il presupposto di ogni altra valutazione.
-- Non solo la neutralità tecnologica del CSDR, ma più specificamente se e a quali condizioni i CSD avrebbero reso superflue le infrastrutture DLT.
-- Non solo la neutralità tecnologica della MiFID II, ma più specificamente se e a quali condizioni una infrastruttura DLT avrebbe reso superflui i CSD.
+- Non tanto in via diretta riguardo alla detenzione o al trading, ma soprattutto in via indiretta al momento dell'utilizzo degli eventuali proventi.
+- Perché a seconda della categoria non solo si applicano norme tributarie differenti, ma cambia anche l'applicazione dell'IVA.
 
 **D:** ⚠️ Come, secondo la slide, quell'obiettivo avrebbe potuto essere raggiunto?
 **R:** «**Questo obiettivo avrebbe potuto essere raggiunto non solo fornendo esenzioni e identificando gli ostacoli legali, ma anche razionalizzando l'attuale quadro legislativo, modificando - o derogando - le norme esistenti in modo permanente ed efficiente.**» ⚠️ L'avverbio di chiusura è «**efficiente**» sulla slide, mentre il docente dice «efficace»; e l'altro è «**permanente**», che è il vero contrasto col carattere **temporaneo** del regime pilota.
@@ -6054,8 +5962,7 @@
 **Opzione:** Procedimento di applicazione, modelli di business e collaborazione nella vigilanza.
 **Distrattori:**
 - Procedimento di applicazione, modelli di business e potere sanzionatorio.
-- Procedimento di autorizzazione, vigilanza prudenziale e collaborazione nella vigilanza.
-- Modelli di business, collaborazione nella vigilanza e armonizzazione fiscale.
+- Il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e i termini e le condizioni di sottoscrizione.
 
 **D:** ⚠️ Entro quanti giorni sono fissate le interazioni tra le ANC e l'ESMA, e di che tipo di giorni si tratta?
 **R:** «**Finalizzato il lavoro sulle interazioni tra le ANC e l'ESMA (30 giorni di calendario)**». ⚠️ Il docente insiste sul punto: «ricordate, sono **giorni di calendario, non giorni lavorativi**».
@@ -6101,17 +6008,16 @@
 **R:** «**Assegnazione delle responsabilità di concessione delle licenze alle Autorità Competenti nazionali in linea con la MIFID II e la CSDR, o/e alle Autorità altrimenti designate Stato membro**». ⚠️ Gli atti di riferimento sono **due**, **MiFID II e CSDR** — cioè uno per ciascuno dei due blocchi di infrastrutture —, e la coda ammette anche «**le Autorità altrimenti designate**» dallo Stato membro.
 **Opzione:** Alle Autorità competenti nazionali, in linea con la MiFID II e la CSDR, o anche alle autorità altrimenti designate dallo Stato membro.
 **Distrattori:**
-- All'ESMA, in linea con la MiFID II e la CSDR, o anche alle autorità altrimenti designate dallo Stato membro.
-- Alle Autorità competenti nazionali, in linea con la sola CSDR, senza possibilità di designarne altre.
 - Alle Autorità competenti nazionali, in linea con la MiFID II e il MiFIR, o anche alle autorità altrimenti designate dallo Stato membro.
+- Alle cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica.
+- Un MTF DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un'impresa di investimento o da un gestore del mercato; oppure un SS DLT che combina i servizi di un MTF DLT e di un SS DLT gestito da un CSD.
 
 **D:** ⚠️ Che direzione hanno i flussi di informazioni previsti dal regime pilota, e con quale periodicità?
 **R:** «**Flussi di informazioni dal MI DLT alla ANC e dalla ANC all'ESMA (sia su base ad hoc che regolare)**». ⚠️ La direzione è **una sola**, a catena: **MI DLT → ANC → ESMA**. ⚠️ Le basi sono **due e cumulative**, «**sia su base ad hoc che regolare**» — il docente riprende la formula dell'ESMA: «**it's an ongoing requirement**».
 **Opzione:** Dal MI DLT alla ANC e dalla ANC all'ESMA, sia su base ad hoc che regolare.
 **Distrattori:**
 - Dall'ESMA alla ANC e dalla ANC al MI DLT, sia su base ad hoc che regolare.
-- Dal MI DLT alla ANC e dalla ANC all'ESMA, soltanto su base ad hoc.
-- Dal MI DLT direttamente all'ESMA, sia su base ad hoc che regolare.
+- Rispetto a valute aventi corso legale o rispetto ad altri cryptoasset.
 
 **D:** ⚠️ Quali sono le sfide regolamentari del Regime Pilota DLT?
 **R:** **Quattro**: «**Valutazione delle esenzioni richieste, e delle misure compensative proposte, dai requisiti tradizionali per il funzionamento sicuro di un MI (disintermediazione dell'accesso, regolamento in contanti, finalizzazione del regolamento, ecc.)**»; «**Valutazione dei requisiti aggiuntivi per i MI DLT (adattati a specifiche procedure di gestione del rischio operativo, alla necessità di ulteriori tutele prudenziali, ecc.)**»; «**Riduzione dei tempi di gestione del processo autorizzativo (almeno per gli operatori storici)**»; «**Monitoraggio periodico delle prestazioni del MI DLT rispetto ai requisiti stabiliti nel Regime Pilota (comprese le soglie e i limiti dell'ambito operativo)**». ⚠️ La **prima** è **una sola** sfida, non due: si valutano esenzioni e misure compensative **rispetto ai requisiti tradizionali**.
@@ -6136,9 +6042,8 @@
 **R:** «**La maggioranza degli intervistati concorda sul fatto che l'applicazione del principio "stessa attività, stesso rischio, stesse regole" salvaguarderebbe la protezione degli investitori e l'integrità del mercato.**» ⚠️ I membri del principio sono **tre**, nell'ordine **attività → rischio → regole**, e i beni salvaguardati **due**.
 **Opzione:** Sul principio «stessa attività, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
 **Distrattori:**
-- Sul principio «stessa attività, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e la stabilità finanziaria.
 - Sul principio «stessa tecnologia, stesso rischio, stesse regole», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
-- Sul principio «stessa attività, stesse regole, stessa vigilanza», che salvaguarderebbe la protezione degli investitori e l'integrità del mercato.
+- Sulla Ris. 72/2016, che richiama la sentenza della CGUE 22/10/15, caso C-264/14, e ritiene le valute virtuali assimilabili alle valute estere.
 
 **D:** ⚠️ Che cosa hanno osservato gli intervistati sul rapporto fra regime pilota e negoziazione OTC?
 **R:** Le opinioni sono **divise**: «**Alcune parti interessate hanno osservato che il DLT Pilot Regime favorirebbe il passaggio dalla negoziazione OTC di titoli basati su DLT alla negoziazione e al regolamento su MTF DLT. Altri, al contrario, hanno indicato che la negoziazione di titoli basati su DLT rimarrà OTC.**» ⚠️ **La coda sta solo sulla slide**: il docente riferisce unicamente l'opinione favorevole al passaggio su MTF DLT. Una coda soppressa è precisamente il modo in cui si costruisce un distrattore.
@@ -6152,9 +6057,8 @@
 **R:** **Due**: «**Alcuni stakeholder hanno espresso preoccupazione per alcuni elementi contenuti nel regolamento DLT, come il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e la natura limitata nel tempo del Regime Pilota DLT.**» ⚠️ Il docente ne riferisce **una sola**: manca «**la natura limitata nel tempo**», che è però il contraltare della critica della slide 7 («modificando… le norme esistenti in modo **permanente**»). ⚠️ I titoli sono «**trasferibili**», non «trasferiti».
 **Opzione:** Il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e la natura limitata nel tempo del Regime Pilota DLT.
 **Distrattori:**
-- Il limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT e l'impronta ambientale della tecnologia DLT.
 - Il solo limite massimo del valore di mercato totale dei titoli trasferibili DLT per ciascun MI DLT.
-- La natura limitata nel tempo del Regime Pilota DLT e la mancanza di una procedura di ricorso in caso di frode sugli asset digitali.
+- Pregi: apertura di una finestra per la regolarizzazione del pregresso, fissazione di soglie minime nel quadro RW. Criticità: aspetti pratici dei calcoli, mancata caratterizzazione dei token, mancata qualificazione di valori ufficiali di riferimento.
 
 **D:** ⚠️ Quali casi d'uso esistenti o potenziali per la DLT hanno citato gli intervistati?
 **R:** **Quattro**: «**l'offerta di token di sicurezza, il trading 24/7, i titoli tokenizzati come asset dei fondi con processi di post-trading basati sulla DLT e la distribuzione di quote di fondi**». ⚠️ Vanno detti tutti e nell'ordine: le ultime due voci riguardano entrambe i **fondi** ma da lati diversi — i **titoli tokenizzati come asset** dei fondi e la **distribuzione di quote**.
@@ -6169,8 +6073,7 @@
 **Opzione:** Trasparenza, integrità dei dati, disintermediazione ed efficienza.
 **Distrattori:**
 - Trasparenza, integrità dei dati, intermediazione qualificata ed efficienza.
-- Trasparenza, integrità dei dati, disintermediazione e sostenibilità ambientale.
-- Trasparenza, riservatezza dei dati, disintermediazione ed efficienza.
+- Il numero di cripto-attività che saranno emesse o per le quali si chiede l'ammissione alla negoziazione, il prezzo di emissione delle cripto-attività e i termini e le condizioni di sottoscrizione.
 
 **D:** ⚠️ Quali limitazioni legali e normative all'applicazione della DLT elenca la Call for evidence?
 **R:** **Tre**: «**Mancanza di armonizzazione dei regimi normativi**»; «**neutralità tecnologica dei requisiti normativi esistenti**»; «**Protezione finanziaria: ad esempio per la mancanza di una procedura di ricorso in caso di frode sugli asset digitali**». ⚠️ La **neutralità tecnologica compare qui come *problema***, dopo essere stata affermata come acquisita alla slide 3 e nel report ESMA della slide 6: è l'ambivalenza che il docente chiama «una **via di mezzo**» e che rende a voce come una domanda — «la neutralità tecnologica dei requisiti normativi esistenti? **È veramente così?**».
@@ -6262,8 +6165,7 @@
 **Opzione:** Rilevanza ai fini fiscali: se sì, capital gain oppure reddito corrente; se no, nessuna rilevanza.
 **Distrattori:**
 - Rilevanza ai fini fiscali: se sì, capital gain; se no, reddito corrente.
-- Rilevanza ai fini fiscali: se sì, capital gain oppure reddito d'impresa; se no, nessuna rilevanza.
-- Rilevanza ai fini IVA: se sì, esclusione oppure esenzione; se no, imponibilità al 22%.
+- Quando gli acquirenti devono fornire o impegnarsi a fornire dati personali all'emittente, o quando l'emittente riceve onorari, commissioni, benefici monetari o benefici non monetari di terzi.
 
 **D:** ⚠️ Rispetto a che cosa si calcolano i capital gain da compravendita di criptoasset?
 **R:** «**Capital gain derivanti da operazioni di compravendita di criptoasset (vs valute aventi corso legale o vs altri cryptoasset)**». ⚠️ Il confronto è **doppio**: contro **valute aventi corso legale** *o* contro **altri cryptoasset**. Il docente riferisce solo il primo termine — la seconda ipotesi (cripto contro cripto) è proprio quella che in **Francia** gode di esenzione.
@@ -6278,8 +6180,8 @@
 **Opzione:** L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, esclusione ai sensi dell'art. 2, c. 3, lett. a).
 **Distrattori:**
 - L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, esenzione ai sensi dell'art. 10, c. 1, n. 4.
-- L'art. 67, c. 1, lett. c-quinquies con minusvalenze indeducibili; ai fini IVA, esclusione ai sensi dell'art. 2, c. 3, lett. a).
-- L'art. 67, c. 1, lett. c-ter) con franchigia; ai fini IVA, imponibilità al 22%.
+- Quote di organismi di investimento collettivo di cui all'articolo 25, paragrafo 4, lettera a), punto iv), della direttiva 2014/65/UE, il cui valore di mercato delle attività gestite è inferiore a 500 milioni di EUR.
+- Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività conformemente agli articoli 5, 7 e 8, e rispetti gli obblighi di cui all'articolo 13.
 
 **D:** ⚠️ Quale norma si applica se i crypto-asset sono qualificati come strumenti finanziari, e con quale regime IVA?
 **R:** «**Art. 67, c. 1, lett. C-ter) o art. 67 c.1, lett. c-quinques**» \[*sic*, *c-quinquies*] «**(minusvalenze indeducibili)**», e ai fini IVA «**Esenzione (Art. 10, c. 1, n. 4)**». ⚠️ Le norme possibili sono **due e alternative**; le **minusvalenze indeducibili** si legano alla seconda. ⚠️ L'esito IVA è l'**esenzione**: l'operazione è **in campo** ma **non tassata**.
@@ -6294,16 +6196,14 @@
 **Opzione:** Sono tassati solo se realizzati da imprese; ai fini IVA sono imponibili al 22%.
 **Distrattori:**
 - Sono tassati solo se realizzati da imprese; ai fini IVA sono esenti.
-- Sono tassati in ogni caso, anche se realizzati da persone fisiche; ai fini IVA sono imponibili al 22%.
-- Sono tassati solo se realizzati da persone fisiche fuori dall'attività di impresa; ai fini IVA sono imponibili al 22%.
+- Solo se indicata nel white paper, e la commissione deve comunque essere proporzionata e commisurata ai costi reali sostenuti dall'emittente.
 
 **D:** ⚠️ Quali sono i tre regimi IVA previsti dalla tabella, e a quale qualificazione corrisponde ciascuno?
 **R:** **Esclusione** → **valute estere**; **esenzione** → **strumenti finanziari**; **imponibile 22%** → **beni**. ⚠️ Sono **tre parole tecnicamente diverse** e non intercambiabili: l'**esclusione** mette l'operazione **fuori campo** IVA, l'**esenzione** la lascia **in campo ma non tassata**, l'**imponibilità** la tassa. Il docente le elenca in quest'ordine: «una **esclusione, un'esenzione e un'imponibile**».
 **Opzione:** Esclusione per le valute estere, esenzione per gli strumenti finanziari, imponibilità al 22% per i beni.
 **Distrattori:**
 - Esenzione per le valute estere, esclusione per gli strumenti finanziari, imponibilità al 22% per i beni.
-- Esclusione per le valute estere, imponibilità al 22% per gli strumenti finanziari, esenzione per i beni.
-- Esclusione per i beni, esenzione per le valute estere, imponibilità al 22% per gli strumenti finanziari.
+- Con termini diversi per lo stesso contenuto: token collegato ad attività e token di moneta elettronica in luogo di asset-referenced token e token di denaro elettronico, monete fiduciarie in luogo di valute fiat, merci in luogo di materie prime.
 
 **D:** ⚠️ Perché, secondo il docente, è fondamentale incasellare i crypto-asset nella giusta categoria?
 **R:** Perché «a seconda della categoria in cui vengono incasellati, **non solo si applicano delle norme differenti** proprio a livello tributario, **ma anche l'applicazione dell'IVA subisce delle modifiche**». ⚠️ Le conseguenze sono **due** e la struttura «non solo… ma anche…» va conservata: cambia la **norma del TUIR** *e* cambia il **regime IVA**. Le categorie in gioco sono **tre**: «**Sono valute estere? Sono strumenti finanziari? Sono beni?**».
@@ -6319,23 +6219,20 @@
 **Distrattori:**
 - Come redditi di lavoro autonomo, professionale o occasionale, o d'impresa se l'attività supera una soglia annua di ricavi.
 - Come redditi d'impresa in ogni caso, trattandosi di attività svolta con mezzi tecnici.
-- Come redditi di capitale, professionale o occasionale, o d'impresa se l'attività è svolta in modo organizzato.
 
 **D:** ⚠️ Sotto quale evento rilevante la slide colloca l'attività di mining?
 **R:** Sotto il secondo, «**2. Creazione di valute virtuali**» — il primo è «**1. Exchange**». ⚠️ Gli eventi rilevanti sotto il profilo fiscale sono **due** e vanno tenuti distinti: l'**exchange** genera *capital gain* da compravendita, la **creazione** genera reddito da attività.
 **Opzione:** Sotto la creazione di valute virtuali, che è il secondo dei due eventi rilevanti dopo l'exchange.
 **Distrattori:**
 - Sotto l'exchange, che è il primo dei due eventi rilevanti.
-- Sotto la detenzione di valute virtuali, che è il secondo dei due eventi rilevanti dopo l'exchange.
-- Sotto il trasferimento di valute virtuali, che è il terzo dei tre eventi rilevanti.
+- Sui cripto-asset qualificabili come strumenti finanziari ai sensi dell'Allegato I Sezione C della Direttiva (UE) 2014/65 (MiFID II), le cosiddette crypto-securities.
 
 **D:** ⚠️ Quali sono le tre prese di posizione dell'Agenzia delle Entrate riportate dalle slide?
 **R:** La **Risoluzione n. 72/E del 2 settembre 2016**; la **Risposta a interpello n. 956-39 del 22 aprile 2018**; la **Risposta a interpello n. 14/E del 29 settembre 2018**. ⚠️ È un nido di **coppie atto + data**: un solo elemento sbagliato basta a rendere falsa l'opzione.
 **Opzione:** Risoluzione n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2018.
 **Distrattori:**
-- Risoluzione n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2016.
-- Risoluzione n. 72/E del 2 settembre 2018; risposta a interpello n. 956-39 del 22 aprile 2016; risposta a interpello n. 14/E del 29 settembre 2018.
 - Circolare n. 72/E del 2 settembre 2016; risposta a interpello n. 956-39 del 22 aprile 2018; risposta a interpello n. 14/E del 29 settembre 2018.
+- Che l'emittente sia un soggetto giuridico, abbia redatto, notificato e pubblicato il white paper sulle cripto-attività conformemente agli articoli 5, 7 e 8, e rispetti gli obblighi di cui all'articolo 13.
 
 **D:** ⚠️ Che cosa stabilisce la Risoluzione n. 72/E del 2 settembre 2016 sulle operazioni di acquisto e vendita di bitcoin per conto della clientela?
 **R:** «**Operazioni imponibili ai fine IRES e IRAP per l'Exchanger e operazioni fiscalmente non rilevanti per l'utilizzatore (PF no attività di impresa). IVA: prestazioni di servizi esenti (Art. 10)**» \[*sic*, «ai fine»]. ⚠️ **Il trattamento si sdoppia per soggetto**: **imponibile** per l'**Exchanger**, **non rilevante** per l'**utilizzatore** — ma solo se **persona fisica che non svolge attività di impresa**. ⚠️ Ai fini IVA l'esito è l'**esenzione**, sull'**art. 10**.
@@ -6350,8 +6247,7 @@
 **Opzione:** Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, con franchigia; sì al monitoraggio fiscale, no all'IVAFE.
 **Distrattori:**
 - Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, con franchigia; no al monitoraggio fiscale, sì all'IVAFE.
-- Sono operazioni imponibili IRPEF per la persona fisica che non svolge attività di impresa, senza franchigia; sì al monitoraggio fiscale, sì all'IVAFE.
-- Sono operazioni fiscalmente non rilevanti per la persona fisica che non svolge attività di impresa; sì al monitoraggio fiscale, no all'IVAFE.
+- L'offerta è rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
 
 **D:** ⚠️ Quando diventano rilevanti ai fini IRES e IRAP le somme incassate per l'assegnazione di utility token emessi con una ICO?
 **R:** «**le somme incassate per l'assegnazione degli utility token non incidono sulla determinazione del reddito all'atto dell'assegnazione, ma solo al momento della cessione dei beni/prestazione servizi cui i token danno diritto**» (Risposta a interpello n. 14/E del 29 settembre 2018). ⚠️ Il **momento impositivo è differito**: non l'**assegnazione**, ma la **cessione dei beni** o la **prestazione dei servizi** cui i token danno diritto.
@@ -6366,16 +6262,14 @@
 **Opzione:** Per amministratori e dipendenti sono fringe benefit; per i terzi sono tassati al 26%.
 **Distrattori:**
 - Per amministratori e dipendenti sono tassati al 26%; per i terzi sono fringe benefit.
-- Per amministratori e dipendenti sono fringe benefit; per i terzi sono tassati al 22%.
-- Per amministratori, dipendenti e terzi sono in ogni caso fringe benefit.
+- Quando la sua valuta di riferimento è una moneta dell'Unione.
 
 **D:** ⚠️ Quale tipo di tassazione applicano ai crypto-asset le cinque giurisdizioni messe a confronto?
 **R:** **Proporzionale** in **Italia**, **Francia** e **UK**; **progressiva** in **Germania**; **mista** negli **USA**. ⚠️ Il **tipo** di tassazione è un asse a sé, distinto dall'aliquota: è il primo dei tre livelli della tabella (tipo · sistema · esenzioni).
 **Opzione:** Proporzionale in Italia, Francia e UK; progressiva in Germania; mista negli USA.
 **Distrattori:**
-- Proporzionale in Italia, Francia e Germania; progressiva nel Regno Unito; mista negli USA.
 - Progressiva in Italia, Francia e UK; proporzionale in Germania; mista negli USA.
-- Proporzionale in Italia e Francia; progressiva in UK e Germania; mista negli USA.
+- Con termini diversi per lo stesso contenuto: token collegato ad attività e token di moneta elettronica in luogo di asset-referenced token e token di denaro elettronico, monete fiduciarie in luogo di valute fiat, merci in luogo di materie prime.
 
 **D:** ⚠️ Qual è il sistema di tassazione italiano dei crypto-asset e qual è l'esenzione?
 **R:** Tassazione **proporzionale** al **26%**; esenzione se la «**Giacenza media annua <= 51.645,69 per almeno 7 gg lavorativi continuativi**». ⚠️ La giacenza è **media annua** — il docente omette «annua» —, la soglia è **51.645,69 euro** e la durata **7 giorni lavorativi continuativi**. Il docente lo legge al contrario, come «un **limite oltre il quale la tassazione scatta**».
@@ -6398,24 +6292,23 @@
 **Opzione:** Nel Regno Unito capital gain fino a 12.000 sterline; in Germania capital gain totale fino a 600 euro.
 **Distrattori:**
 - Nel Regno Unito capital gain fino a 12.000 euro; in Germania capital gain totale fino a 600 sterline.
-- Nel Regno Unito capital gain fino a 12.000 sterline; in Germania capital gain totale fino a 6.000 euro.
-- Nel Regno Unito capital gain fino a 1.200 sterline; in Germania capital gain totale fino a 600 euro.
+- Un corrispettivo totale non superiore a 1 000 000 EUR, o importo equivalente in altra valuta o in cripto-attività, nell'arco di un periodo di 12 mesi.
 
 **D:** ⚠️ Che cosa distingue il sistema tedesco nella tabella delle giurisdizioni?
 **R:** È l'unico a tassazione **progressiva**, «**23,97%-42%**», e l'unico con una «**sovrimposta di solidarietà del 5,5%**». ⚠️ La **sovrimposta** sta **solo sulla slide**: il docente dice che «la tassazione oscilla tra **quasi il 24 e il 42%**» e non la nomina.
 **Opzione:** È l'unico a tassazione progressiva, dal 23,97% al 42%, con in più una sovrimposta di solidarietà del 5,5%.
 **Distrattori:**
 - È l'unico a tassazione progressiva, dal 23,97% al 42%, senza alcuna sovrimposta.
-- È l'unico a tassazione proporzionale, al 23,97%, con in più una sovrimposta di solidarietà del 5,5%.
-- È l'unico a tassazione progressiva, dal 23,97% al 42%, con in più una sovrimposta di solidarietà del 42%.
+- La durata dell'offerta pubblica, quale descritta nel white paper, non può superare i 12 mesi.
+- Perché si è cercato di definire le cripto con categorie ed elementi tipici della regolamentazione finanziaria tradizionale, definizioni che forse andavano un po' strette.
 
 **D:** ⚠️ Come funziona la tassazione statunitense dei crypto-asset?
 **R:** È **mista**: «**Tassazione progressiva se periodo di detenzione <= 1 anno (10%-37%)**», «**Tassazione Proporzionale altrimenti (0%-15%-20%)**». ⚠️ Il discrimine è **temporale** — il **periodo di detenzione**, con soglia a **un anno** — ed è l'unico caso in cui il *tipo* di tassazione cambia dentro lo stesso ordinamento. ⚠️ La tabella **non indica esenzioni** per gli USA.
 **Opzione:** È mista: progressiva dal 10% al 37% se il periodo di detenzione è inferiore o uguale a un anno, proporzionale allo 0%, 15% o 20% negli altri casi.
 **Distrattori:**
-- È mista: proporzionale dal 10% al 37% se il periodo di detenzione è inferiore o uguale a un anno, progressiva allo 0%, 15% o 20% negli altri casi.
 - È mista: progressiva dal 10% al 37% se il periodo di detenzione è superiore a un anno, proporzionale allo 0%, 15% o 20% negli altri casi.
-- È progressiva dal 10% al 37% in ogni caso, con esenzione se il periodo di detenzione supera un anno.
+- Entro tre mesi dal ricevimento di una domanda completa, adottando un progetto di decisione pienamente motivata che concede o rifiuta l'autorizzazione.
+- Quando gli acquirenti devono fornire o impegnarsi a fornire dati personali all'emittente, o quando l'emittente riceve onorari, commissioni, benefici monetari o benefici non monetari di terzi.
 
 **D:** ⚠️ Quali sono le criticità del regime fiscale dei crypto-asset elencate dalla slide?
 **R:** **Quattro**: «**Le difformità di trattamento fiscale delle criptovalute tra paesi può indurre gli operatori a scegliere dati ordinamenti rispetto ad altri e favorire fenomeni di elusione**»; «**Difficoltà attività di controllo da parte dell'Amministrazione finanziaria (anonimato e operatori esteri)**»; «**Opportunità di valutare normative fiscali «semplificate» per traders occasionali**»; «**Disciplina fiscale per nuovi tipi di token**». ⚠️ Il termine della prima voce è «**elusione**», non «illusione» come storpia l'ASR.
@@ -6486,64 +6379,58 @@
 **Opzione:** Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza TAR Lazio 1077/2020.
 **Distrattori:**
 - Sulle sole istruzioni per la compilazione del Mod. PF.
-- Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza della Corte di Giustizia dell'Unione Europea del 2015.
-- Sulle istruzioni per la compilazione del Mod. PF e sulla sentenza del Consiglio di Stato 1077/2020.
+- Sul possessore delle cripto-attività, che deve provare sia la violazione sia il suo impatto sulla propria decisione di acquistare, vendere o scambiare le cripto-attività.
 
 **D:** ⚠️ In base a quale norma alle transazioni in valute virtuali non si applica l'IVA, e per quale ragione?
 **R:** «**in base all' art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE (operazioni relative ad attività finanziarie – Ris. 72/E/2016)**». ⚠️ La direttiva è la **2006/112/CE** — l'ASR la storpia in «2612» — e la **ragione** sta nella parentesi: si tratta di «**operazioni relative ad attività finanziarie**».
 **Opzione:** In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative ad attività finanziarie.
 **Distrattori:**
-- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2014/65/UE, in quanto operazioni relative ad attività finanziarie.
-- In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative a mezzi di pagamento.
 - In base all'art. 135, paragrafo 1, lettera e), della direttiva 2006/112/CE, in quanto operazioni relative a beni immateriali.
+- In attività sicure e a basso rischio conformemente all'articolo 7, paragrafo 2, della direttiva 2009/110/CE, denominate nella valuta di riferimento del token di moneta elettronica.
 
 **D:** ⚠️ A che cosa sono fiscalmente assimilati i payment token, gli utility token e i security token?
 **R:** **Payment token** → «**Valute estere**»; **utility token** → «**Crediti**»; **security token** → «**Attività finanziarie**». ⚠️ Le tre assimilazioni **non vanno scambiate**: è una matrice a due righe (definizione × assimilazione) e i distrattori si costruiscono proprio ruotandole.
 **Opzione:** I payment token alle valute estere, gli utility token ai crediti, i security token alle attività finanziarie.
 **Distrattori:**
 - I payment token ai crediti, gli utility token alle valute estere, i security token alle attività finanziarie.
-- I payment token alle valute estere, gli utility token alle attività finanziarie, i security token ai crediti.
-- I payment token alle attività finanziarie, gli utility token ai crediti, i security token alle valute estere.
+- La prima sui mercati delle cripto-attività, la seconda sul Regolamento DORA, la terza sulla tecnologia di registro distribuito.
 
 **D:** ⚠️ Come definisce la slide i payment token?
 **R:** «**Token utilizzati ESCLUSIVAMENTE come mezzo di pagamento o trasferimento di valore**», «**Fiscalmente assimilabili a "Valute estere"**». ⚠️ «**ESCLUSIVAMENTE**» è in **maiuscolo sulla slide**: basta un uso ulteriore perché il token non sia più *payment*. ⚠️ Le funzioni sono **due e alternative**: mezzo di **pagamento** *o* **trasferimento di valore**.
 **Opzione:** Token utilizzati esclusivamente come mezzo di pagamento o trasferimento di valore.
 **Distrattori:**
 - Token utilizzati prevalentemente come mezzo di pagamento o trasferimento di valore.
-- Token utilizzati esclusivamente come mezzo di pagamento o investimento di natura finanziaria.
-- Token utilizzati esclusivamente come voucher per l'accesso a specifici beni o servizi.
+- Un credito nei confronti dell'emittente: è vietato qualsiasi token di moneta elettronica che non offra un credito a tutti i possessori.
 
 **D:** ⚠️ Come definisce la slide gli utility token, e a che cosa li assimila fiscalmente?
 **R:** «**Token utilizzati come "voucher" per l'accesso a specifici beni o servizi**», «**Fiscalmente assimilabili a "Crediti"**». ⚠️ «**voucher**» è **fra virgolette anche sulla slide**, e i beni o servizi sono «**specifici**». ⚠️ L'assimilazione ai **crediti** è coerente con l'interpello 14/2018, che differisce il ricavo al momento dell'**utilizzo** del token.
 **Opzione:** Token utilizzati come voucher per l'accesso a specifici beni o servizi, fiscalmente assimilabili a crediti.
 **Distrattori:**
-- Token utilizzati come voucher per l'accesso a specifici beni o servizi, fiscalmente assimilabili ad attività finanziarie.
 - Token utilizzati come voucher per l'accesso a qualsiasi bene o servizio, fiscalmente assimilabili a crediti.
-- Token utilizzati come mezzo di pagamento o trasferimento di valore, fiscalmente assimilabili a crediti.
+- Un tipo di cripto-attività che intende mantenere un valore stabile facendo riferimento al valore di diverse monete fiduciarie aventi corso legale, di una o più merci o di una o più cripto-attività, oppure di una combinazione di tali attività.
 
 **D:** ⚠️ Come definisce la slide i security token?
 **R:** «**Token che rappresentano un investimento di natura finanziaria (azione, obbligazione, fondo o derivato), con o senza un rendimento prestabilito**», «**Fiscalmente assimilabili a "Attività finanziarie"**». ⚠️ Gli esempi sono **quattro** e la coda «**con o senza un rendimento prestabilito**» rende la categoria **indifferente** al rendimento: l'assenza di rendimento prestabilito non esclude il security token.
 **Opzione:** Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, con o senza un rendimento prestabilito.
 **Distrattori:**
 - Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o derivato, purché con un rendimento prestabilito.
-- Token che rappresentano un investimento di natura finanziaria, come azione, obbligazione, fondo o voucher, con o senza un rendimento prestabilito.
-- Token che rappresentano un diritto di accesso a un investimento di natura finanziaria, con o senza un rendimento prestabilito.
+- Una dichiarazione chiara e inequivocabile secondo cui i possessori non vantano alcun diritto sulle attività di riserva o non possono esigere dall'emittente il rimborso dei token in qualsiasi momento.
+- Un diritto di recesso per qualsiasi consumatore, esercitabile entro 14 giorni di calendario senza costi e senza motivazione, con rimborso dei pagamenti senza indebito ritardo e in ogni caso entro 14 giorni.
 
 **D:** ⚠️ Su quale base le valute virtuali sono assimilate alle valute estere?
 **R:** «**In mancanza di una normativa esplicita, l'inquadramento fiscale deve essere ricostruito in via interpretativa. La risoluzione 72/2016, richiamando la Sentenza della CGUE 22/10/15 (caso C-264/14), ritiene le valute virtuali «assimilabili» alle valute estere.**» ⚠️ La catena è a **tre anelli**: **sentenza CGUE** → **risoluzione 72/2016** → **assimilazione**. Gli estremi della sentenza stanno **solo sulla slide**: il docente dice «una sentenza dell'Unione Europea».
 **Opzione:** Sulla Ris. 72/2016, che richiama la sentenza della CGUE 22/10/15, caso C-264/14, e ritiene le valute virtuali assimilabili alle valute estere.
 **Distrattori:**
-- Sulla Ris. 72/2016, che richiama la sentenza del TAR Lazio 1077/2020, e ritiene le valute virtuali assimilabili alle valute estere.
 - Sulla sentenza della CGUE 22/10/15, caso C-264/14, che qualifica direttamente le valute virtuali come valute estere senza bisogno di atti interni.
-- Sulla Ris. 72/2016, che richiama la sentenza della CGUE 22/10/15, caso C-264/14, e ritiene le valute virtuali assimilabili agli strumenti finanziari.
+- L'accountability alla Circolare di Banca d'Italia n. 285/2013 e alla normativa sulla protezione dei dati personali; la proporzionalità alla stessa Circolare 285 e agli orientamenti EBA sulla gestione delle esternalizzazioni.
 
 **D:** ⚠️ Che cosa dice la slide sull'assimilazione indistinta dei cryptoasset alle valute estere?
 **R:** «**La gestione fiscale delle varie tipologie di token comporta delle complessità rilevanti: bisogna però tenere presente che considerare indistintamente tutti i cryptoasset come «valute estere» ai fini fiscali costituisce una forzatura sotto il profilo tecnico.**» ⚠️ È la **slide stessa** ad ammettere la forzatura, e l'avverbio decisivo è «**indistintamente**»: il problema non è l'assimilazione in sé, ma applicarla a **tutti** i cryptoasset ignorando la tripartizione payment/utility/security. Il docente la rafforza in «**un'autentica forzatura**».
 **Opzione:** Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali costituisce una forzatura sotto il profilo tecnico.
 **Distrattori:**
 - Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali è la soluzione tecnicamente più corretta disponibile.
-- Che considerare indistintamente tutti i cryptoasset come attività finanziarie ai fini fiscali costituisce una forzatura sotto il profilo tecnico.
-- Che considerare indistintamente tutti i cryptoasset come valute estere ai fini fiscali costituisce una forzatura, ma solo per i security token.
+- Che la soglia di imponibilità si calcola con riferimento al valore di tutti i wallet detenuti.
+- Che possono perdere tutto il valore o parte di esso; non essere sempre trasferibili; non essere liquide; e, per gli utility token, non essere scambiabili con il bene o servizio promesso, soprattutto in caso di fallimento o abbandono del progetto.
 
 **D:** ⚠️ In quali lettere dell'art. 67 TUIR rientrano le plusvalenze da cessione di valute virtuali?
 **R:** «**Le plusvalenze derivanti dalla cessione di valute virtuali assimilabili alle valute estere rientrano nell'ambito applicativo del comma 1 lett. c-ter dell'art. 67 TUIR, mentre quelle derivanti da altre valute virtuali rientrano nella lett. c-quinquies.**» ⚠️ **Due lettere, due insiemi**: **c-ter** per le assimilabili alle **valute estere**, **c-quinquies** per **tutte le altre**. L'ASR le storpia in «lettera C3» e «lettera C5».
@@ -6608,9 +6495,9 @@
 **R:** «**Il ricorso, originato dalla pubblicazione delle istruzioni per la compilazione della dichiarazione dei redditi, verteva sull'inclusione delle valute virtuali tra le attività finanziarie da dichiarare ai fini del quadro RW. La sentenza conferma l'obbligo di dichiarazione ed indirettamente il regime fiscale delle plusvalenze.**» ⚠️ La sentenza conferma **due** cose, una **direttamente** (l'obbligo di dichiarazione) e una **indirettamente** (il regime fiscale delle plusvalenze).
 **Opzione:** Conferma l'obbligo di dichiarazione delle valute virtuali nel quadro RW e, indirettamente, il regime fiscale delle plusvalenze.
 **Distrattori:**
-- Conferma l'obbligo di dichiarazione delle valute virtuali nel quadro RW ma esclude espressamente ogni pronuncia sul regime fiscale delle plusvalenze.
-- Annulla le istruzioni per la compilazione della dichiarazione dei redditi nella parte in cui includono le valute virtuali fra le attività finanziarie.
 - Conferma il regime fiscale delle plusvalenze e, indirettamente, l'obbligo di dichiarazione delle valute virtuali nel quadro RW.
+- Annulla le istruzioni per la compilazione della dichiarazione dei redditi nella parte in cui includono le valute virtuali fra le attività finanziarie.
+- Che l'emittente è l'unico responsabile del contenuto del white paper, il quale non è stato esaminato o approvato da alcuna autorità competente in alcuno Stato membro dell'Unione europea.
 
 **D:** ⚠️ Esiste una soglia di importo per l'obbligo di dichiarazione dei crypto-asset nel quadro RW?
 **R:** No: «**risulta sussistente l'obbligo di dichiarare ai fini del monitoraggio fiscale le consistenze di cryptoassets INDIPENDENTEMENTE DALL'IMPORTO**» — in **maiuscolo sulla slide**. ⚠️ **Sono due regimi distinti e confonderli è l'errore tipico**: il **monitoraggio** (quadro RW) **non ha soglia**, l'**imponibilità delle plusvalenze** ce l'ha (51.645 € per sette giorni lavorativi continui).
@@ -6624,9 +6511,9 @@
 **R:** «**Una possibile eccezione è costituita dalle crypto detenute presso exchange italiani, considerando che si tratta di crediti verso soggetti residenti.**» ⚠️ La **ragione** è la parte da non perdere: si tratta di «**crediti verso soggetti residenti**», e quindi non di attività detenute **all'estero**. ⚠️ L'interpello 78/2021 la conferma e ne dà la base normativa: sono «**intermediari residenti» soggetti agli obblighi di comunicazione di cui al DL 167/1990**».
 **Opzione:** Le crypto detenute presso exchange italiani, perché si tratta di crediti verso soggetti residenti.
 **Distrattori:**
-- Le crypto detenute presso exchange esteri, perché si tratta di crediti verso soggetti non residenti.
-- Le crypto detenute in wallet con chiavi private, perché non sono affidate ad alcun intermediario.
 - Le crypto detenute presso exchange italiani, perché si tratta di depositi di natura bancaria.
+- Le agenzie di rating del credito e gli amministratori di indici di riferimento critici.
+- Perché, salvo alcune eccezioni, le blockchain sono pubbliche e pertanto pseudoanonime, non del tutto anonime: gli accertamenti diretti sono tecnicamente possibili, ma non agevoli.
 
 **D:** ⚠️ Che cosa ha confermato l'Agenzia delle Entrate con l'interpello 78/2021?
 **R:** Su «**la «classica» attività di detenzione di cryptovalute in un wallet con chiavi private**», **quattro** punti: detenzione «**sempre**» da dichiarare nel quadro RW «**senza limiti di importo**»; «**Fanno eccezione solo le valute virtuali detenute presso exchange italiani, in quanto «intermediari residenti» soggetti agli obblighi di comunicazione di cui al DL 167/1990**»; plusvalenze imponibili «**solo in caso di superamento della soglia di cui al comma 1-ter dell'art. 67 TUIR**»; «**Per «cessione» si intende qualsiasi scambio di una valuta contro una valuta differente**».
@@ -6689,8 +6576,8 @@
 **Opzione:** Le plusvalenze sarebbero realizzate solo alla conversione in valute fiat, e non nel passaggio da una valuta virtuale all'altra.
 **Distrattori:**
 - Le plusvalenze sarebbero realizzate sia alla conversione in valute fiat sia nel passaggio da una valuta virtuale all'altra.
-- Le plusvalenze sarebbero realizzate solo nel passaggio da una valuta virtuale all'altra, e non alla conversione in valute fiat.
-- Le plusvalenze sarebbero realizzate al momento dell'acquisto della valuta virtuale, secondo il criterio di cassa.
+- Non all'atto dell'assegnazione, ma solo al momento della cessione dei beni o della prestazione dei servizi cui i token danno diritto.
+- Quando un cambiamento o fatto nuovo successivo alla pubblicazione possa avere un'influenza significativa sulla decisione di acquisto di un potenziale acquirente o sulla decisione dei possessori di vendere o scambiare i token con l'emittente.
 
 **D:** ⚠️ Quale regime transitorio e quale soglia minima prevede la proposta Zanichelli?
 **R:** «**Si prevede un regime «transitorio» con una imposta sostitutiva del 4% relativamente alle posizioni pregresse**» e «**Si prevede una soglia minima di 15.000 per la dichiarazione ai fini del quadro RW, e permane l'esenzione da IVAFE**». ⚠️ La soglia dei **15.000** **introdurrebbe** un limite dove oggi l'obbligo vale «**indipendentemente dall'importo**». ⚠️ L'esenzione da IVAFE **permane**: non è una novità della proposta. Il docente vi vede il pregio principale: l'apertura di «una **finestra** per la **regolarizzazione del pregresso**».
@@ -6794,9 +6681,8 @@
 **R:** Con **due verbi diversi nella stessa slide**: il **token collegato ad attività** «**intende** mantenere un valore stabile», il **token di moneta elettronica** «**mira a** mantenere un valore stabile». ⚠️ Nessuno dei due afferma che il valore stabile sia **garantito**: sono verbi di **intenzione**, coerenti con le «definizioni contenitore» di compromesso. ⚠️ Alla lezione 16 lo stesso articolo era reso con un terzo verbo, «**pretende** di mantenere».
 **Opzione:** Il token collegato ad attività «intende mantenere» un valore stabile, il token di moneta elettronica «mira a mantenere» un valore stabile.
 **Distrattori:**
-- Entrambi «garantiscono» un valore stabile, con obbligo di riserva a copertura integrale.
 - Il token collegato ad attività «garantisce» un valore stabile, il token di moneta elettronica «mira a mantenere» un valore stabile.
-- Il token collegato ad attività «mira a mantenere» un valore stabile, il token di moneta elettronica «intende mantenere» un valore stabile.
+- Entrambi «garantiscono» un valore stabile, con obbligo di riserva a copertura integrale.
 
 **D:** Chi è l'«emittente di cripto-attività» secondo l'articolo 3 del MiCAR?
 **R:** «**Una persona giuridica che offre al pubblico qualsiasi tipo di cripto-attività o che chiede l'ammissione di tali cripto-attività a una piattaforma di negoziazione di cripto-attività.**» ⚠️ Il soggetto è una **persona giuridica** e le condotte sono **due, alternative**: **offrire al pubblico** *o* **chiedere l'ammissione** alla negoziazione. ⚠️ L'art. 4, par. 1, lett. a) usa per lo stesso requisito una formula diversa: «sia un **soggetto giuridico**».
@@ -6819,8 +6705,8 @@
 **Opzione:** Alle cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica.
 **Distrattori:**
 - Alle sole cripto-attività costituite da token collegati ad attività o da token di moneta elettronica.
-- A tutte le cripto-attività, compresi i token collegati ad attività e i token di moneta elettronica.
 - Alle sole cripto-attività qualificabili come strumenti finanziari ai sensi della MiFID II.
+- Prodotti o servizi tecnologicamente innovativi relativi allo svolgimento di servizi bancari, finanziari e assicurativi, che soddisfino almeno una delle quattro condizioni previste, fra loro alternative.
 
 **D:** ⚠️ Quali condizioni pone l'articolo 4, paragrafo 1, per offrire al pubblico cripto-attività diverse dai token collegati ad attività o di moneta elettronica?
 **R:** **Cinque**, tutte in capo all'emittente: «**a) sia un soggetto giuridico**»; «**b) abbia redatto un White Paper sulle cripto-attività… conformemente all'articolo 5**»; «**c) abbia notificato tale White Paper… conformemente all'articolo 7**»; «**d) abbia pubblicato il White Paper… conformemente all'articolo 8**»; «**e) rispetti gli obblighi di cui all'articolo 13**». ⚠️ Sono **cinque, non quattro**: il transcript si ferma agli obblighi informativi e **non nomina la lettera e)**, cioè il rinvio agli **obblighi di condotta dell'art. 13**.
@@ -6835,8 +6721,8 @@
 **Opzione:** La redazione all'articolo 5, la notifica all'articolo 7, la pubblicazione all'articolo 8.
 **Distrattori:**
 - La redazione all'articolo 5, la notifica all'articolo 6, la pubblicazione all'articolo 7.
-- La redazione all'articolo 4, la notifica all'articolo 5, la pubblicazione all'articolo 7.
-- La redazione all'articolo 5, la notifica all'articolo 8, la pubblicazione all'articolo 7.
+- Esclusione per le valute estere, esenzione per gli strumenti finanziari, imponibilità al 22% per i beni.
+- L'accountability alla Circolare di Banca d'Italia n. 285/2013 e alla normativa sulla protezione dei dati personali; la proporzionalità alla stessa Circolare 285 e agli orientamenti EBA sulla gestione delle esternalizzazioni.
 
 **D:** ⚠️ In quali casi l'articolo 4, paragrafo 2, esenta dagli obblighi sul white paper?
 **R:** **Sei**: «le cripto-attività sono **offerte gratuitamente**»; sono «**create automaticamente tramite mining a titolo di ricompensa per il mantenimento della DLT per la convalida delle operazioni**»; sono «**uniche e non fungibili** con altre cripto-attività»; sono «offerte a **meno di 150 persone fisiche o giuridiche per ogni Stato membro** in cui tali persone agiscono **per proprio conto**»; «nell'arco di un periodo di **12 mesi**, il corrispettivo totale… **non supera 1 000 000 EUR**»; l'offerta «è rivolta **esclusivamente agli investitori qualificati** e le cripto-attività possono essere **detenute solo da tali investitori qualificati**». ⚠️ Il transcript ne cita **tre su sei**: mancano **mining**, **unicità e non fungibilità** (gli NFT) e la **soglia in euro**.
@@ -6858,9 +6744,9 @@
 **R:** «**Le cripto-attività sono offerte a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.**» ⚠️ Tre elementi che il transcript perde («offerte a meno di 150 persone fisiche»): i destinatari sono persone «**fisiche *o giuridiche***», la soglia si conta «**per ogni Stato membro**» e non in tutta l'Unione, e le persone devono agire «**per proprio conto**».
 **Opzione:** Offerta a meno di 150 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
 **Distrattori:**
-- Offerta a meno di 150 persone fisiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
 - Offerta a meno di 150 persone fisiche o giuridiche nell'intera Unione, purché agiscano per proprio conto.
-- Offerta a meno di 500 persone fisiche o giuridiche per ogni Stato membro in cui tali persone agiscono per proprio conto.
+- È l'unico a tassazione progressiva, dal 23,97% al 42%, con in più una sovrimposta di solidarietà del 5,5%.
+- Qualsiasi scambio di una valuta contro una valuta differente.
 
 **D:** Quale soglia di corrispettivo esenta l'offerta dagli obblighi sul white paper, e su quale periodo si calcola?
 **R:** «**Nell'arco di un periodo di 12 mesi, il corrispettivo totale di un'offerta al pubblico di cripto-attività nell'Unione non supera 1 000 000 EUR o l'importo equivalente in un'altra valuta o in cripto-attività.**» ⚠️ **Due grandezze da non incrociare**: **1 000 000 EUR** di corrispettivo su **12 mesi**. ⚠️ I **12 mesi** ricorrono nell'articolo **due volte con funzione diversa**: qui come **periodo di osservazione** della soglia, al paragrafo 3 come **durata massima dell'offerta** di utility token su servizi non ancora operativi. ⚠️ L'equivalenza è ammessa «**in un'altra valuta o in cripto-attività**».
@@ -6883,8 +6769,8 @@
 **Opzione:** L'offerta è rivolta esclusivamente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
 **Distrattori:**
 - L'offerta è rivolta prevalentemente a investitori qualificati e le cripto-attività possono essere detenute solo da tali investitori qualificati.
-- L'offerta è rivolta esclusivamente a investitori qualificati, restando libera la successiva circolazione delle cripto-attività fra il pubblico.
-- L'offerta è rivolta esclusivamente a investitori qualificati residenti nell'Unione e le cripto-attività possono essere detenute solo da questi.
+- Una governance di cybersecurity interna e un quadro di controllo per una gestione efficace e prudente di tutti i rischi ICT, con compiti definiti attribuiti all'organo di gestione, che resta il principale responsabile della gestione complessiva.
+- Può parteciparvi, trattandosi di una facoltà e non di un compito ordinario.
 
 **D:** ⚠️ Che limite pone l'articolo 4, paragrafo 3, all'offerta di utility token relativi a un servizio non ancora operativo?
 **R:** «**Se l'offerta al pubblico di cripto-attività diverse dai token collegati ad attività o dai token di moneta elettronica ha come oggetto utility token relativi a un servizio non ancora operativo, la durata dell'offerta pubblica quale descritta nel White Paper sulle cripto-attività non supera i 12 mesi.**» ⚠️ È un limite di **durata dell'offerta**, non una soglia di importo, e si misura su quanto è «**descritt\[o] nel White Paper**». ⚠️ Sta **solo sulla slide**: il transcript non lo cita.
@@ -6964,8 +6850,7 @@
 **Opzione:** All'autorità competente dello Stato membro d'origine, almeno 20 giorni lavorativi prima della pubblicazione del white paper.
 **Distrattori:**
 - All'autorità competente dello Stato membro d'origine, almeno 20 giorni di calendario prima della pubblicazione del white paper.
-- All'autorità competente dello Stato membro d'origine, almeno 14 giorni lavorativi prima della pubblicazione del white paper.
-- All'Autorità europea degli strumenti finanziari e dei mercati, almeno 20 giorni lavorativi prima della pubblicazione del white paper.
+- Con cadenza trimestrale, in base all'art. 5 del Decreto 13 gennaio 2022, per via telematica e con riferimento alle operazioni effettuate sul territorio della Repubblica italiana.
 
 **D:** Che cosa prevedono gli articoli 8 e 10 sulla pubblicazione del white paper e sui suoi effetti?
 **R:** L'art. 8: gli emittenti pubblicano «**entro la data di inizio dell'offerta al pubblico… o dell'ammissione… alla negoziazione**», e «**la versione del White Paper… pubblicato… è identica a quella notificata all'autorità competente**». L'art. 10: «**dopo la pubblicazione del White Paper… gli emittenti… possono offrire le proprie cripto-attività… in tutta l'Unione**», e chi ha pubblicato conformemente all'art. 8 «**non è soggett\[o] a ulteriori obblighi di informativa per quanto riguarda l'offerta di dette cripto-attività**». ⚠️ L'**identità fra versione notificata e pubblicata** è ciò che chiude il meccanismo dell'art. 7: senza approvazione ex ante, il controllo sta nell'impossibilità di pubblicare un testo diverso. ⚠️ L'art. 10 produce **due** effetti: il **passaporto europeo** e l'**esaurimento dell'informativa**. ⚠️ Entrambi gli articoli stanno **solo sulle slide**.
@@ -7185,8 +7070,7 @@
 **Opzione:** Almeno 20 giorni lavorativi prima della data di pubblicazione, all'autorità competente interessata.
 **Distrattori:**
 - Almeno 20 giorni di calendario prima della data di pubblicazione, all'autorità competente interessata.
-- Entro 20 giorni lavorativi dalla data di pubblicazione, all'autorità competente interessata.
-- Almeno 20 giorni lavorativi prima della data di pubblicazione, all'Autorità bancaria europea e alla Banca centrale europea.
+- Diciotto mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
 
 **D:** ⚠️ Quando il white paper dei token di moneta elettronica va modificato e notificato di nuovo?
 **R:** «**Qualsiasi cambiamento o fatto nuovo, che possa avere un'influenza significativa sulla decisione di acquisto di un potenziale acquirente o sulla decisione dei possessori di token di moneta elettronica di venderli all'emittente o scambiarli con lo stesso, che interviene dopo la pubblicazione del White Paper… iniziale è descritto in un White Paper… modificato redatto dall'emittente e notificato all'autorità competente pertinente.**» ⚠️ Il quantificatore «**significativa**» sta **solo sulla slide**: il transcript dice «un'influenza sulla decisione», che è più largo. ⚠️ Le decisioni rilevanti sono **due**: quella di **acquisto** e quella dei possessori di **vendere o scambiare** i token con l'emittente.
@@ -7225,9 +7109,8 @@
 **R:** «**Il pacchetto contiene una strategia in materia di finanza digitale rappresentata attraverso tre proposte: la prima sui mercati delle cripto-attività (MiCA), la seconda sul Regolamento DORA – Resilienza Operativa Digitale e infine, la terza, sulla tecnologia di registro distribuito (DLT).**» ⚠️ **L'ordine della slide è MiCA → DORA → DLT**, mentre il docente le elenca «il **DLT o il Pilot Regime**… il **MICAR**… e il regolamento **DORA**»: una domanda su «la seconda proposta» ha risposte diverse a seconda della fonte, e vale la slide.
 **Opzione:** La prima sui mercati delle cripto-attività, la seconda sul Regolamento DORA, la terza sulla tecnologia di registro distribuito.
 **Distrattori:**
-- La prima sulla tecnologia di registro distribuito, la seconda sui mercati delle cripto-attività, la terza sul Regolamento DORA.
 - La prima sui mercati delle cripto-attività, la seconda sulla tecnologia di registro distribuito, la terza sul Regolamento DORA.
-- La prima sui mercati delle cripto-attività, la seconda sul Regolamento DORA, la terza sui servizi di pagamento digitali.
+- Completezza e ammissibilità della domanda, adeguatezza dell'eventuale richiesta di deroghe, correttezza delle modalità di svolgimento dell'attività proposta e adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.
 
 **D:** Quale obiettivo si pone il Pacchetto Europeo sulla Finanza Digitale?
 **R:** «**Colmare le lacune nella legislazione vigente e garantire che il quadro giuridico europeo infonda affidabilità e non ostacoli all'uso di nuovi strumenti finanziari digitali. In tal modo, il pacchetto mira a sostenere l'innovazione e l'adozione di nuove tecnologie finanziarie, garantendo nel contempo un livello adeguato di protezione dei consumatori e degli investitori.**» ⚠️ L'obiettivo è **doppio e in tensione**: colmare le lacune *e* non ostacolare; il fine ultimo è «**un livello adeguato di protezione dei consumatori e degli investitori**».
@@ -7249,9 +7132,8 @@
 **R:** «**Il regolamento DORA diventerà vincolante a decorrere dal 17 gennaio 2025, ma nel mentre il quadro giuridico dovrà essere completato da standard tecnici regolatori che dovranno essere sviluppati da ESMA e saranno finalizzati al più tardi ad inizio 2024.**» ⚠️ **ESMA** e «**inizio 2024**» stanno **solo sulla slide**: il docente dice genericamente «entro il 2024» e non nomina l'autorità. ⚠️ La formula della slide è «**diventerà vincolante**», quella del docente «entrerà in vigore».
 **Opzione:** Dal 17 gennaio 2025, con standard tecnici regolatori sviluppati da ESMA e finalizzati al più tardi a inizio 2024.
 **Distrattori:**
-- Dal 17 gennaio 2025, con standard tecnici regolatori sviluppati dall'EBA e finalizzati al più tardi a inizio 2024.
 - Dal 17 gennaio 2024, con standard tecnici regolatori sviluppati da ESMA e finalizzati al più tardi a inizio 2025.
-- Dal 17 gennaio 2025, con standard tecnici regolatori sviluppati dalle autorità nazionali competenti e finalizzati entro la fine del 2024.
+- Dal Ministro dell'Economia e delle Finanze, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia e di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.
 
 **D:** Come è strutturato il Regolamento DORA secondo la slide che lo presenta?
 **R:** In modo **bipartito**: «**da un lato, stabilisce dei chiari obblighi in materia di testing e di stesura di specifiche strategie, politiche, procedure e strumenti interni e, dall'altro, definisce un insieme dettagliato di regole volte all'individuazione e alla gestione dei rischi TIC derivanti dagli asset logici e fisici**». ⚠️ Gli obblighi del primo lato sono **due generi** (testing e stesura di documenti interni); le regole del secondo riguardano **due** attività (individuazione **e** gestione) e i rischi «derivanti dagli **asset logici e fisici**».
@@ -7370,8 +7252,7 @@
 **Opzione:** Alle entità diverse dalle micro imprese, con un processo end-to-end di gestione del rischio i cui step sono indicati a titolo esemplificativo.
 **Distrattori:**
 - A tutte le entità, comprese le micro imprese, con un processo end-to-end di gestione del rischio i cui step sono indicati a titolo esemplificativo.
-- Alle entità diverse dalle micro imprese, con un processo end-to-end di gestione del rischio i cui step sono indicati in modo tassativo.
-- Alle sole entità di rilevanza sistemica, con un processo end-to-end di gestione del rischio i cui step sono indicati a titolo esemplificativo.
+- L'apertura dei contatti informali anche agli operatori che intendano svolgere attività con caratteristiche o rischi analoghi a quelli delle attività regolamentate, con relazione delle autorità alla segreteria tecnica del Comitato.
 
 **D:** Quali step principali elenca la slide sugli obblighi di gestione dei rischi TIC?
 **R:** «**segnalazione alle autorità competenti degli incidenti gravi connessi alle TIC e notifica, su base volontaria, delle minacce informatiche significative**»; «**segnalazione alle autorità competenti, da parte delle entità finanziarie di cui all'articolo 2, paragrafo 1, lettere da a) a d), di gravi incidenti operativi o relativi alla sicurezza dei pagamenti**»; «**test di resilienza operativa digitale**»; «**condivisione di dati e di informazioni in relazione alle vulnerabilità e alle minacce informatiche**»; «**misure relative alla solida gestione dei rischi informatici derivanti da terzi**». ⚠️ La slide 11 dice «**lettere da a) a d)**», ma la slide 4 (art. 1, in inglese) dice «**points (a) to (c)**»: **le due slide non coincidono**.
@@ -7410,8 +7291,7 @@
 **Opzione:** Le best practices di derivazione nazionale ma giudicate positivamente dalle Autorità di Vigilanza.
 **Distrattori:**
 - Tutte le best practices di derivazione nazionale, senza necessità di un giudizio delle Autorità di Vigilanza.
-- Le best practices elaborate dalle associazioni di categoria europee e recepite dalle Autorità di Vigilanza nazionali.
-- Le best practices di derivazione internazionale giudicate positivamente dalle Autorità di Vigilanza nazionali.
+- Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio una garanzia finanziaria o assicurativa.
 
 **D:** Perché, secondo il docente, il DORA ha dovuto disciplinare in modo così stringente l'outsourcing?
 **R:** Perché «**troppo spesso in passato i cosiddetti contratti di outsourcing erano contratti che sulla carta prevedevano una responsabilità… in capo alla società delegante, poi nei fatti si scopriva che la società delegante non aveva proprio questa piena visibilità di quanto accadeva… nella società delegata, e anche contrattualmente poi era complicato far valere questi diritti**». Di qui «una politica di ***oversight***… di **supervisione** da parte dell'azienda che esternalizza… importanti funzioni di *information technology and risk management*, di modo che ci sia un **chiaro flusso comunicativo** tra le due entità e **l'entità delegante rimanga responsabile** di tutto ciò che accade… nella società delegata». Il risultato è «un **cambio radicale anche nella cultura dell'outsourcing**». ⚠️ È il corollario pratico dell'art. 5, per cui l'organo di gestione «**rimane il principale responsabile**». ⚠️ Solo nel transcript ([00:01:24], [00:02:45]).
@@ -7434,25 +7314,23 @@
 **R:** **Sei**, nell'ordine della slide: «**Innovazione**» — l'attività «deve essere "**significativamente innovativa**"»; «**Sperimentazione**» — «**regime sperimentale per lo studio, il miglioramento e il lancio di prodotti/servizi sul mercato**»; «**Monitoraggio**» — «**relazioni semestrali sullo stato di avanzamento del regime di verifica**»; «**Contatti informali**» — «**canali di comunicazione innovativi tra le autorità di regolamentazione e gli operatori FinTech**»; «**Proporzionalità**» — interventi «**limitati a quanto strettamente necessario**… **con il minor sacrificio possibile del richiedente**»; «**Deroghe**» — «**eccezioni al regime normativo abituale**». ⚠️ Per il docente i due decisivi sono **innovazione e sperimentazione**, più la **proporzionalità**.
 **Opzione:** Innovazione, sperimentazione, monitoraggio, contatti informali, proporzionalità e deroghe.
 **Distrattori:**
-- Innovazione, sperimentazione, monitoraggio, contatti formali, proporzionalità e deroghe.
 - Innovazione, sperimentazione, monitoraggio, contatti informali, proporzionalità e armonizzazione massima delle regole.
-- Innovazione, standardizzazione, monitoraggio, contatti informali, proporzionalità e deroghe.
+- In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali.
 
 **D:** ⚠️ Che cosa significa che l'attività proposta deve essere «significativamente innovativa»?
 **R:** «**L'attività proposta dal richiedente deve essere "significativamente innovativa" (cioè non ancora presente sul mercato o alternativa a quelle esistenti, idonea a migliorare l'offerta di prodotti/servizi correlati sul mercato).**» ⚠️ La parentesi scioglie il requisito in **due alternative** — «**non ancora presente sul mercato**» **o** «**alternativa a quelle esistenti**» — più una **condizione di risultato**: «**idonea a migliorare l'offerta**». ⚠️ Per il docente è il primo filtro d'accesso: «**nessuno accede alla regulatory sandbox se l'autorità di vigilanza non ritiene che ci siano questi concetti**», perché sarebbe «**ingiusto nei confronti di altri operatori di mercato**».
 **Opzione:** Non ancora presente sul mercato o alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
 **Distrattori:**
 - Non ancora presente sul mercato e alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
-- Non ancora presente sul mercato o alternativa a quelle esistenti, e idonea a ridurre i costi di conformità dell'operatore.
-- Già presente sul mercato o alternativa a quelle esistenti, e idonea a migliorare l'offerta di prodotti o servizi correlati sul mercato.
+- Possono consentire l'adozione di una forma giuridica diversa da quella richiesta dalla legge applicabile.
 
 **D:** ⚠️ In che cosa consiste il monitoraggio delle autorità di vigilanza nella Sandbox?
 **R:** «**L'attività delle autorità di vigilanza competenti consiste nell'emissione di relazioni semestrali sullo stato di avanzamento del regime di verifica.**» ⚠️ La cadenza è **semestrale** ed è l'unico termine temporale della slide dei concetti chiave. ⚠️ L'oggetto è lo «**stato di avanzamento del regime di verifica**», non la vigilanza ordinaria sull'operatore.
 **Opzione:** Nell'emissione di relazioni semestrali sullo stato di avanzamento del regime di verifica.
 **Distrattori:**
 - Nell'emissione di relazioni trimestrali sullo stato di avanzamento del regime di verifica.
-- Nell'emissione di relazioni annuali sullo stato di avanzamento del regime di verifica.
 - Nello svolgimento di ispezioni semestrali presso la sede dell'operatore ammesso alla sperimentazione.
+- Nel rischio che gli investitori seguano il gruppo perché l'ammissione alla sandbox è percepita come un marchio di qualità dell'attività proposta.
 
 **D:** ⚠️ Come è formulato il principio di proporzionalità nella Sandbox italiana?
 **R:** «**Gli interventi delle autorità devono essere limitati a quanto strettamente necessario per raggiungere gli obiettivi della Sandbox, con il minor sacrificio possibile del richiedente, garantendo al contempo un'adeguata tutela dei consumatori, degli investitori e del mercato dei capitali.**» ⚠️ **Tre** elementi: il **limite** («quanto strettamente necessario»), il **criterio** («il minor sacrificio possibile del richiedente») e il **contrappeso** («adeguata tutela dei consumatori, degli investitori e del mercato dei capitali» — l'ASR storpia in «mercato dei **capitani**»). ⚠️ È il principio da cui discende che i requisiti d'ammissione, pur nelle stesse categorie di un'autorizzazione ordinaria, hanno «**soglie molto più basse**».
@@ -7474,9 +7352,8 @@
 **R:** «**La FinTech Sandbox italiana (la "Sandbox"), istituita con la Legge n. 58/2019, è regolamentata dal Decreto Ministeriale n. 100/2021, che stabilisce anche le regole che disciplinano il Comitato FinTech.**» ⚠️ **Due atti, due funzioni**: **istituzione** con la **Legge 58/2019** (conversione del Decreto Crescita), **regolamentazione** con il **DM 100/2021**, che disciplina anche il **Comitato FinTech**.
 **Opzione:** Istituita con la Legge n. 58/2019 e regolamentata dal Decreto Ministeriale n. 100/2021.
 **Distrattori:**
-- Istituita con il Decreto Ministeriale n. 100/2021 e regolamentata dalla Legge n. 58/2019.
 - Istituita con la Legge n. 58/2019 e regolamentata dal Decreto Legislativo n. 76/2020.
-- Istituita con il Decreto Legislativo n. 76/2020 e regolamentata dal Decreto Ministeriale n. 100/2021.
+- Previsti nella valutazione della domanda di ammissione, protetti nei provvedimenti ad hoc delle autorità.
 
 **D:** ⚠️ Da chi è presieduto il Comitato FinTech e di che cosa è incaricato?
 **R:** «**Presieduto dal Ministro dell'Economia e delle Finanze e incaricato di monitorare e favorire lo sviluppo del FinTech in Italia, nonché di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.**» ⚠️ Il presidente è il **Ministro**, non il Ministero (il transcript dice «Ministero»). ⚠️ **L'incarico è doppio** e la seconda metà cade dal transcript: monitorare e favorire lo sviluppo del FinTech «**nonché**» mantenere «**i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie**».
@@ -7530,9 +7407,9 @@
 **R:** «**Rientrino in un caso di autorizzazione/registrazione, ma ricadono in un caso di esclusione.**» ⚠️ È la condizione **controintuitiva**: l'attività **rientrerebbe** in un caso di autorizzazione o registrazione, **ma ricade in un'esclusione** — e resta comunque ammissibile alla sperimentazione. ⚠️ La glossa del docente, «sono sostanzialmente **limiti quantitativi e qualitativi**», **non compare sulla slide**.
 **Opzione:** Che l'attività rientri in un caso di autorizzazione o registrazione ma ricada in un caso di esclusione.
 **Distrattori:**
-- Che l'attività non rientri in alcun caso di autorizzazione o registrazione e sia quindi libera.
 - Che l'attività rientri in un caso di autorizzazione o registrazione e non ricada in alcun caso di esclusione.
-- Che l'attività rientri in un caso di autorizzazione o registrazione ma sia svolta in regime di libera prestazione di servizi.
+- Che il richiedente deve richiedere preventivamente la licenza appropriata, se non ne è già in possesso.
+- La sperimentazione è consentita solo se l'istruttoria di ammissione ha avuto esito positivo da parte di ciascuna delle autorità coinvolte.
 
 **D:** Quali attività bancarie sono soggette ad autorizzazione secondo la tabella della Sandbox?
 **R:** **Sette**: «**Raccolta del risparmio; Concessione di finanziamenti; Servizi di pagamento; Emissione di moneta elettronica; Microcredito; Garanzie sui prestiti; Commercio di oro**». ⚠️ **Il «commercio di oro» chiude l'elenco**: è la voce di coda, la più esposta alla sostituzione in un distrattore.
@@ -7603,16 +7480,14 @@
 **Opzione:** Il Canale FinTech nel 2017 e il Milano Innovation Hub nel 2020.
 **Distrattori:**
 - Il Canale FinTech nel 2020 e il Milano Innovation Hub nel 2017.
-- Il Canale FinTech nel 2017 e il Milano Innovation Hub nel 2021.
-- I Diari FinTech nel 2018 e il Milano Innovation Hub nel 2020.
+- Istituita con la Legge n. 58/2019 e regolamentata dal Decreto Ministeriale n. 100/2021.
 
 **D:** ⚠️ Da quale iniziativa europea parte la cronologia che porta alla Sandbox italiana, e con quale atto si chiude?
 **R:** Parte da «**Maggio 2010 – Agenda Digitale per l'Europa**» e si chiude con «**Luglio 2021 – Decreto ministeriale su Comitato Fintech e Sandbox**». Nel mezzo: «**2011 – Confindustria Digitale**», «**Marzo 2012 – Agenda Digitale per l'Italia**», «**Giugno 2012 – Agenzia per l'Italia Digitale (AgID)**», «**Marzo 2015 – Strategia per la Crescita Digitale '14-'20**», «**Settembre 2015 – Team per la trasformazione digitale**», «**Gennaio 2018 – Indagine FinTech della Banca d'Italia**», «**Marzo 2018 – Comitato di coordinamento FinTech**», «**Dicembre 2018 – Regolamento sul bilancio 2018**», «**Maggio 2019 – Decreto Crescita (art. 36, co. 2 bis)**», «**Novembre 2019 – Voucher Innovation Manager**». ⚠️ **Dodici tappe, e il transcript ne cita sette.**
 **Opzione:** Dall'Agenda Digitale per l'Europa del maggio 2010 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
 **Distrattori:**
 - Dall'Agenda Digitale per l'Italia del marzo 2012 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
-- Dall'Agenda Digitale per l'Europa del maggio 2010 al Decreto Crescita del maggio 2019.
-- Dall'istituzione dell'Agenzia per l'Italia Digitale del giugno 2012 al decreto ministeriale su Comitato FinTech e Sandbox del luglio 2021.
+- Dal Ministro dell'Economia e delle Finanze, ed è incaricato di monitorare e favorire lo sviluppo del FinTech in Italia e di mantenere i contatti con gli operatori e le competenti autorità di vigilanza estere e comunitarie.
 
 **D:** ⚠️ Quale disposizione del Decreto Crescita è richiamata nella cronologia, e quale documento è indicato come fonte?
 **R:** La cronologia indica «**Decreto Crescita (art. 36, co. 2 bis)**» per il **maggio 2019**, e il «**Voucher Innovation Manager**» di **novembre 2019** come istituito dal «**Decreto del MISE del 7 maggio 2019**». La fonte dell'intera cronologia è «**"FinTech waves – Italian FinTech Ecosystem 2020", Ernst&Young and FinTech District**». ⚠️ **Tutti e tre i riferimenti stanno solo sulla slide.** ⚠️ **Le due date del Voucher non vanno confuse**: la tappa è di **novembre 2019**, il decreto che la istituisce è del **7 maggio 2019**.
@@ -7678,9 +7553,8 @@
 **R:** «**Per gli ultimi cinque esercizi o dalla data di costituzione, se inferiore.**» ⚠️ **Il quantificatore temporale sta sulla slide**: non è una coda inventata, come sarebbe nei quiz di *Analisi dei Mercati Finanziari*. ⚠️ **L'alternativa lo accorcia**: una società costituita da due anni non è esclusa per i tre esercizi che non poteva depositare. ⚠️ Il requisito colpisce solo gli «**imprenditori commerciali obbligati a redigere il bilancio**».
 **Opzione:** Per gli ultimi cinque esercizi o dalla data di costituzione, se inferiore.
 **Distrattori:**
-- Per gli ultimi cinque esercizi, senza eccezioni per le società costituite da meno tempo.
 - Per gli ultimi tre esercizi o dalla data di costituzione, se inferiore.
-- Per gli ultimi dieci esercizi o dalla data di costituzione, se inferiore.
+- Oltre tre mesi di inattività.
 
 **D:** ⚠️ Quali sono i requisiti di integrità?
 **R:** **Quattro**, tutti in forma negativa: «**Non essere soggetti a interdizioni legali**»; «**Non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici**»; «**Non è soggetto a misure di prevenzione**» \[*sic*, singolare sulla slide]; «**Non essere soggetti a interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari**». ⚠️ **L'interdizione compare due volte**, prima come «**interdizioni legali**», poi come «**interdizione temporanea dalla direzione aziendale o dall'amministrazione degli intermediari**».
@@ -7694,9 +7568,9 @@
 **R:** «**Non essere stati condannati con sentenza definitiva al confino o alla reclusione per reati specifici.**» ⚠️ Servono **tre** elementi insieme: sentenza **definitiva**, pena del **confino o della reclusione**, **reati specifici**. ⚠️ È il discrimine con gli **elementi di correttezza**, dove rilevano anche «**procedimenti penali in corso**», le «**sentenze provvisorie**» e le «**condanne per altri reati**».
 **Opzione:** La condanna con sentenza definitiva al confino o alla reclusione per reati specifici.
 **Distrattori:**
-- La condanna con sentenza definitiva al confino o alla reclusione per qualsiasi reato.
 - La condanna con sentenza anche provvisoria al confino o alla reclusione per reati specifici.
 - La pendenza di un procedimento penale per reati specifici, anche in assenza di condanna.
+- Le informazioni negative contenute nel Registro Centrale dei Crediti.
 
 **D:** ⚠️ Quali sono gli elementi chiave per l'accertamento dei requisiti di correttezza?
 **R:** **Sei**: «**Procedimenti penali in corso o condanne per reati specifici imposte da sentenze provvisorie o condanne per altri reati o sottoposizione a misure preventive**»; «**Sanzioni amministrative applicate in relazione alla violazione delle leggi in materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali**»; «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali**»; «**Sospensione o radiazione**»; «**Valutazione negativa dell'idoneità di una persona nel corso di un processo di autorizzazione prescritto in materia bancaria, finanziaria, mobiliare e assicurativa**»; «**Informazioni negative contenute nel Registro Centrale dei Crediti**». ⚠️ Sono elementi di **accertamento**, non divieti.
@@ -7706,7 +7580,6 @@
 **Opzione:** In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o di mercati dei capitali.
 **Distrattori:**
 - In materia bancaria, assicurativa, finanziaria, mobiliare o di mercati dei capitali.
-- In materia bancaria, assicurativa, finanziaria, di antiriciclaggio o fiscale.
 - Nella sola materia bancaria e di antiriciclaggio.
 
 **D:** ⚠️ In quali materie rileva la valutazione negativa dell'idoneità di una persona?
@@ -7714,24 +7587,22 @@
 **Opzione:** In materia bancaria, finanziaria, mobiliare e assicurativa.
 **Distrattori:**
 - In materia bancaria, finanziaria, di antiriciclaggio e assicurativa.
-- Solo in materia bancaria, finanziaria e assicurativa.
-- In materia bancaria, finanziaria, mobiliare, assicurativa e di mercati dei capitali.
+- Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria.
 
 **D:** ⚠️ Che cosa rileva, ai fini della correttezza, sullo svolgimento di incarichi presso altri enti?
 **R:** «**Svolgimento di incarichi in enti che sono stati sottoposti alle suddette sanzioni amministrative o a procedure concorsuali.**» ⚠️ **Due** presupposti alternativi in capo all'**ente**, non alla persona: le **sanzioni amministrative** già elencate **oppure** le **procedure concorsuali**. ⚠️ La coda sulle procedure concorsuali **cade dal transcript**.
 **Opzione:** Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure concorsuali.
 **Distrattori:**
 - Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate, ma non a procedure concorsuali.
-- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedimenti penali in corso.
-- Lo svolgimento di incarichi in enti che abbiano subito una valutazione negativa di idoneità nel corso di un processo di autorizzazione.
+- La condanna con sentenza definitiva al confino o alla reclusione per reati specifici.
+- L'autorità, comprese le limitazioni o le restrizioni imposte in base al progetto di sperimentazione.
 
 **D:** Quale banca dati chiude l'elenco degli elementi di correttezza?
 **R:** «**Informazioni negative contenute nel Registro Centrale dei Crediti.**» ⚠️ **Non è un illecito**: è la presenza di informazioni negative in una banca dati. ⚠️ È la **voce di chiusura** dell'elenco, il punto su cui lavorano i distrattori di coda.
 **Opzione:** Le informazioni negative contenute nel Registro Centrale dei Crediti.
 **Distrattori:**
 - Le informazioni negative contenute nel Registro delle Imprese.
-- Le informazioni negative contenute nel registro dei titolari effettivi.
-- Le informazioni negative contenute nel registro degli operatori ammessi alla sperimentazione.
+- Lo svolgimento di incarichi in enti sottoposti alle sanzioni amministrative elencate o a procedure concorsuali.
 
 **D:** Che differenza c'è fra i requisiti di integrità e gli elementi di correttezza?
 **R:** L'**integrità** è un elenco di **quattro preclusioni** formulate in negativo («**non essere soggetti a…**»), che operano come **sbarramenti**: interdizioni legali, condanna con **sentenza definitiva** al confino o alla reclusione per reati specifici, misure di prevenzione, interdizione temporanea dalla direzione aziendale. La **correttezza** è un elenco di **sei elementi chiave per l'accertamento**, cioè **materiale di valutazione**: vi rientrano fatti che non sono ancora accertamenti definitivi — «**procedimenti penali in corso**», «**sentenze provvisorie**», «**condanne per altri reati**» — e fatti che non riguardano nemmeno il richiedente, come gli **incarichi in enti sanzionati o in procedura concorsuale** o le **informazioni negative nel Registro Centrale dei Crediti**. ⚠️ Il segno distintivo è il **titolo delle slide**: «**REQUISITI DI INTEGRITA'**» contro «**ELEMENTI CHIAVE PER L'ACCERTAMENTO DEI REQUISITI DI CORRETTEZZA**».
@@ -7741,8 +7612,7 @@
 **Opzione:** Contatti informali (fase 0), applicazione (I), ammissione alla sperimentazione (II), sperimentazione (III), valutazione (IV).
 **Distrattori:**
 - Applicazione (fase I), ammissione alla sperimentazione (II), sperimentazione (III), valutazione (IV), autorizzazione definitiva (V).
-- Contatti informali (fase 0), applicazione (I), sperimentazione (II), valutazione (III), revoca o autorizzazione (IV).
-- Contatti informali (fase 0), ammissione alla sperimentazione (I), applicazione (II), sperimentazione (III), valutazione (IV).
+- Completezza e ammissibilità della domanda, adeguatezza dell'eventuale richiesta di deroghe, correttezza delle modalità di svolgimento dell'attività proposta e adeguatezza dei poteri di vigilanza rispetto all'operatore e all'attività proposta.
 
 **D:** ⚠️ A che serve la Fase 0 dei contatti informali?
 **R:** «**Fornisce un supporto per l'identificazione dell'Autorità o delle Autorità a cui presentare la domanda di partecipazione.**» La stessa casella aggiunge che il contatto è previsto anche «**per gli operatori FinTech che intendono svolgere attività con influenza nei settori bancario, finanziario e assicurativo, pur non rientrando nell'ambito di applicazione dei requisiti di autorizzazione**». ⚠️ Serve, «tra le altre cose» (slide 9), a capire **a chi** presentare la domanda: le slide non escludono altri tipi di supporto. ⚠️ Vale **anche** per chi non è soggetto ad autorizzazione.
@@ -7756,9 +7626,8 @@
 **R:** «**Se l'attività in questione comporta lo svolgimento di un'attività regolamentata e non è ancora in possesso della licenza appropriata, il richiedente deve richiedere preventivamente la licenza appropriata.**» ⚠️ **La sandbox non sostituisce l'autorizzazione**: la licenza va chiesta **prima**, e la deroga riguarda i requisiti, non il titolo. ⚠️ La domanda è «**valutata sulla base dei criteri disponibili pubblicamente**».
 **Opzione:** Che il richiedente deve richiedere preventivamente la licenza appropriata, se non ne è già in possesso.
 **Distrattori:**
-- Che il richiedente è esonerato dalla licenza appropriata per tutta la durata della sperimentazione.
 - Che il richiedente deve richiedere la licenza appropriata al termine della sperimentazione, se ne ha ancora bisogno.
-- Che il richiedente deve richiedere preventivamente la licenza appropriata soltanto se opera anche in un altro Stato membro.
+- A fornire supporto nell'identificazione dell'autorità o delle autorità a cui presentare la domanda di partecipazione.
 
 **D:** ⚠️ Chi determina i parametri della sperimentazione nella Fase II?
 **R:** «**Parametri per la sperimentazione sono determinati dall'Autorità, comprese le limitazioni o le restrizioni imposte in base al progetto di sperimentazione.**» ⚠️ **Sono determinati dall'Autorità**, non concordati né proposti dall'operatore, e sono **calibrati sul progetto**: la sandbox è un regime **individuale**, ed è il punto da cui nascono i dubbi di *level playing field*.
@@ -7773,8 +7642,7 @@
 **Opzione:** Diciotto mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
 **Distrattori:**
 - Dodici mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
-- Diciotto mesi, durante i quali gli operatori possono testare le attività proposte senza obblighi informativi verso le autorità.
-- Ventiquattro mesi, durante i quali gli operatori possono testare le attività proposte e le autorità controllano il processo di sperimentazione.
+- Nelle finestre di due mesi previste dalle autorità, all'autorità responsabile del rilascio dell'autorizzazione o registrazione appropriata e all'autorità competente per i mercati in cui si intende prestare l'attività.
 
 **D:** ⚠️ Che cosa può accadere all'esito della Fase IV?
 **R:** «**I risultati della sperimentazione sono valutati dall'Autorità (o dalle Autorità)**», con «**decisione sull'approccio più appropriato per l'uscita dalla Sandbox**» e, «**a seconda dei casi, l'eliminazione delle limitazioni o delle restrizioni imposte ai fini della fase di sperimentazione o l'interruzione della licenza (attraverso il ritiro)**». ⚠️ **L'esito è binario**: eliminazione delle restrizioni **oppure** ritiro della licenza. ⚠️ Per il docente è «una fase dove si decide **se andare avanti oppure no**»: chi prosegue «avrà bisogno di avere la ***full license***… non sarà più in questo **incubatore**, ma diventerà… una società a tutti gli effetti **autorizzata e vigilata**».
@@ -7800,8 +7668,7 @@
 **Opzione:** La documentazione per l'ammissione e i contatti informali con le autorità.
 **Distrattori:**
 - La domanda di ammissione e i contatti informali con le autorità.
-- La documentazione per l'ammissione e le comunicazioni indirizzate agli utenti finali.
-- La documentazione per l'ammissione, la domanda di ammissione e i contatti informali con le autorità.
+- L'autorità, comprese le limitazioni o le restrizioni imposte in base al progetto di sperimentazione.
 
 **D:** ⚠️ Quali atti della Sandbox devono essere redatti solo in italiano?
 **R:** La «**DOMANDA DI AMMISSIONE**» e le «**COMUNICAZIONI INDIRIZZATE AGLI UTENTI FINALI**». ⚠️ Sono i due atti **con effetti verso l'esterno**: l'atto formale che apre il procedimento e l'informazione al consumatore. Gli altri due — **documentazione per l'ammissione** e **contatti informali con le autorità** — sono **istruttori** e ammettono anche l'inglese.
@@ -7831,9 +7698,8 @@
 **R:** **Quattro**: «**per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria**». ⚠️ Stanno **solo sulla slide**: il transcript nomina la relazione ma non le finalità. ⚠️ **La tutela ha tre oggetti** — utenti, concorrenza, stabilità finanziaria — mentre la promozione riguarda il **FinTech**.
 **Opzione:** Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e della stabilità finanziaria.
 **Distrattori:**
-- Per la promozione del FinTech, per la tutela degli utenti, della concorrenza e dell'integrità dei mercati.
-- Per la promozione del FinTech, per la tutela degli utenti, della riservatezza dei dati e della stabilità finanziaria.
 - Per la promozione della concorrenza, per la tutela degli utenti, degli investitori e della stabilità finanziaria.
+- A fornire supporto nell'identificazione dell'autorità o delle autorità a cui presentare la domanda di partecipazione.
 
 **D:** ⚠️ Perché l'articolo 8 è definito «un'importantissima previsione»?
 **R:** «**L'articolo 8 rappresenta un'importantissima previsione perché per la prima volta nell'ordinamento italiano vengono istituzionalizzati a livello normativo dei canali di comunicazione volti al reciproco confronto e studio del fenomeno FinTech.**» ⚠️ **Tre elementi nella formula**: è la **prima volta** nell'ordinamento italiano; l'istituzionalizzazione è **a livello normativo**; lo scopo è il **reciproco confronto e studio** del fenomeno FinTech — non la vigilanza né l'*enforcement*.
@@ -7917,9 +7783,9 @@
 **R:** «**Meccanismi di compensazione in caso di inadempienza del fornitore (ad esempio, garanzia finanziaria o assicurativa).**» ⚠️ **Gli esempi sono due** — «**garanzia finanziaria o assicurativa**» — e stanno **solo sulla slide**: il transcript nomina i meccanismi senza esemplificarli. ⚠️ Il presupposto è l'**inadempienza del fornitore**, non il semplice esito negativo della sperimentazione.
 **Opzione:** Meccanismi di compensazione in caso di inadempienza del fornitore, per esempio una garanzia finanziaria o assicurativa.
 **Distrattori:**
-- Meccanismi di compensazione in caso di inadempienza dell'utente finale, per esempio una garanzia finanziaria o assicurativa.
 - Meccanismi di compensazione in caso di esito negativo della sperimentazione, per esempio una garanzia finanziaria o assicurativa.
-- Meccanismi di compensazione in caso di inadempienza del fornitore, la cui forma è determinata in via esclusiva dall'autorità.
+- Tutti i metodi e le tecniche utilizzate nella trasmissione, ricezione ed elaborazione di dati, informazioni e servizi digitali.
+- Come diritto di recesso esercitabile in qualsiasi momento e senza oneri o penali.
 
 **D:** Perché il docente dice che «ai regolatori sono un po' tremati i polsi»?
 **R:** Per la **sproporzione fra la promessa e i documenti richiesti**: si tratta «di un **set informativo molto simile a quello utilizzato per le richieste di ammissione da parte degli operatori finanziari più evoluti**», tanto che «si ha l'impressione, leggendo queste pagine, che **ai regolatori siano un po' tremati i polsi**: *ti do la possibilità di derogare ad alcune norme, ti do la possibilità di fare un'autorizzazione **light***… ciò nonostante ti chiedo una serie di documenti che sono comunque quelli che vengono richiesti in questi casi». Ne segue la critica pratica: «**tutti questi documenti scoraggiano l'operatore molto giovane**, che deve sostenere dei costi evidentemente anche **legali** per farsi assistere», perché è «un set documentale che presuppone già… una sorta di **maturità dell'ente**». ⚠️ È il rovescio del criterio dello «**stato sufficientemente avanzato**» criticato alla lezione 29. ⚠️ Solo nel transcript ([00:01:36]).
@@ -7945,8 +7811,8 @@
 **Opzione:** Proporzionalità, parità di trattamento e non discriminazione.
 **Distrattori:**
 - Proporzionalità, parità di trattamento e neutralità tecnologica.
-- Proporzionalità, sana e prudente gestione e non discriminazione.
-- Sussidiarietà, parità di trattamento e non discriminazione.
+- In materia bancaria, finanziaria, mobiliare e assicurativa.
+- Assicurazione e riassicurazione.
 
 **D:** ⚠️ Di quali elementi tiene conto la valutazione della domanda?
 **R:** **Sei**: «**volume dell'attività proposta; tipo di servizi da fornire; caratteristiche e numero di utenti finali previsti; modalità di fornitura del servizio; durata del progetto; eventuali deroghe**». ⚠️ Gli utenti finali sono qui «**previsti**», mentre nei **provvedimenti ad hoc** diventano «**protetti**»: una parola separa due elenchi quasi identici. ⚠️ Il transcript aggiunge una glossa che sulla slide non c'è: «il volume dell'attività proposta, **l'impatto cioè**».
@@ -7969,8 +7835,8 @@
 **Opzione:** La sperimentazione è consentita solo se l'istruttoria di ammissione ha avuto esito positivo da parte di ciascuna delle autorità coinvolte.
 **Distrattori:**
 - La sperimentazione è consentita se l'istruttoria di ammissione ha avuto esito positivo da parte di almeno una delle autorità coinvolte.
-- La sperimentazione è consentita se l'istruttoria ha avuto esito positivo da parte dell'autorità competente per il mercato di destinazione.
-- La sperimentazione è consentita solo previa autorizzazione del Comitato FinTech, che risolve i conflitti fra le autorità coinvolte.
+- Ne comporta la cessazione automatica.
+- Può parteciparvi, trattandosi di una facoltà e non di un compito ordinario.
 
 **D:** ⚠️ Entro quanto tempo e con quale contenuto l'autorità emette il provvedimento della Fase III?
 **R:** «**Entro 60 giorni dalla richiesta, sempre che quest'ultima abbia avuto esito positivo, ogni Autorità emette un provvedimento (es. autorizzazione/registrazione/ammissione alla sperimentazione), che indica: modalità e durata della sperimentazione; disposizioni/linee guida che possono essere disapplicate; le misure da adottare per proteggere i rischi e gli utenti finali; le informazioni da fornire agli utenti finali in merito al contesto della sperimentazione; informazioni da fornire alle Autorità; parametri quantitativi e qualitativi da utilizzare per la valutazione degli indicatori per la valutazione della sperimentazione.**» ⚠️ **Sessanta giorni**, e il provvedimento è di **ogni** autorità. ⚠️ **Le informazioni sono su due fronti**, agli utenti finali e alle autorità, in **due voci distinte**. ⚠️ **I parametri sono «quantitativi e qualitativi»**.
@@ -8009,8 +7875,7 @@
 **Opzione:** Ha una durata massima di diciotto mesi, e la proroga si può chiedere sessanta giorni prima del termine.
 **Distrattori:**
 - Ha una durata fissa di diciotto mesi, e la proroga si può chiedere sessanta giorni prima del termine.
-- Ha una durata massima di diciotto mesi, e la proroga si può chiedere trenta giorni prima del termine.
-- Ha una durata massima di dodici mesi, e la proroga si può chiedere sessanta giorni prima del termine.
+- Come diritto di recesso esercitabile in qualsiasi momento e senza oneri o penali.
 
 **D:** ⚠️ Da che cosa deve essere accompagnata la richiesta di proroga, ed entro quanto è concessa?
 **R:** «**La richiesta di proroga deve essere accompagnata da: una relazione economica e operativa della sperimentazione; adeguata motivazione.**» «**La proroga può essere concessa entro i successivi 30 giorni.**» ⚠️ **Due allegati obbligatori**, e la relazione è **economica e operativa** insieme. ⚠️ **Trenta giorni** per la concessione: da non confondere con i **60** della richiesta, i **60** del provvedimento e i **45 + 5** della relazione al Comitato. ⚠️ Per il docente «è una richiesta che si annida all'interno di un **percorso abbastanza insidioso**».
@@ -8041,8 +7906,7 @@
 **Opzione:** Oltre tre mesi di inattività.
 **Distrattori:**
 - Oltre sei mesi di inattività.
-- Oltre dodici mesi di inattività.
-- Oltre trenta giorni di inattività.
+- Ne comporta la cessazione automatica.
 
 **D:** ⚠️ Quali adempimenti gravano sull'operatore FinTech nella Fase IV, e con quali scadenze?
 **R:** **Quattro**: «**60 PRECEDENTI IL TERMINE DELLA SPERIMENTAZIONE**» \[*sic*, la slide omette «giorni»] → «**Possibile domanda di autorizzazione**»; «**IMMEDIATAMENTE PRIMA DEL TERMINE DELLA SPERIMENTAZIONE**» → «**Informare gli utenti finali della fine della sperimentazione**»; «**15 PRECEDENTI IL TEMINE DELLA SPERIMENTAZIONE**» \[*sic*] → «**Se del caso, informare gli utenti finali delle misure necessarie per chiudere le relazioni commerciali esistenti con loro**»; «**AL TERMINE DELLA SPERIMENTAZIONE**» → «**Relazione economica e operativa sulla sperimentazione**». ⚠️ **La domanda di autorizzazione è «possibile», non obbligatoria**. ⚠️ **Il terzo adempimento è condizionato** («se del caso»).
@@ -8089,8 +7953,7 @@
 **Opzione:** La relazione congiunta dell'ESA del gennaio 2019.
 **Distrattori:**
 - La relazione congiunta dell'ESA del gennaio 2021.
-- La relazione congiunta della BCE e della Commissione europea del gennaio 2019.
-- La relazione annuale del Comitato FinTech del gennaio 2019.
+- L'art. 36, comma 2 bis del Decreto Crescita, e come fonte il documento FinTech waves – Italian FinTech Ecosystem 2020 di Ernst&Young e FinTech District.
 
 **D:** ⚠️ Quali criticità della Sandbox riguardano il mercato e gli investitori?
 **R:** **Quattro**: «**privilegiare l'innovazione rispetto all'introduzione di adeguate garanzie può avere un potenziale impatto sulla protezione dei consumatori e sulla stabilità finanziaria**»; «**frammentazione del mercato, se i parametri operativi per i test divergono significativamente nei diversi paesi dell'UE e non UE**»; «**potenziali problemi di concorrenza, dovuti ai vantaggi derivanti da un orientamento normativo personalizzato e dall'opportunità di commercializzare i nuovi prodotti in anticipo sui concorrenti**»; «**il rischio di un comportamento di "gregge" da parte degli investitori, in quanto l'ammissione alla Sandbox viene percepita come un "marchio di qualità" dell'attività proposta**». ⚠️ **La frammentazione riguarda i paesi «dell'UE e non UE»** — il docente esemplifica con «**Inghilterra, Spagna, Italia**». ⚠️ **Il problema di concorrenza ha due cause**: l'orientamento normativo **personalizzato** e il vantaggio di **tempo** sui concorrenti.
