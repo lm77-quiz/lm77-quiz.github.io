@@ -3515,3 +3515,307 @@
 - d_{jΔn}=(1+r_n)^j
 - d_n=exp(σΔ_n)
 - d_{(j+n)Δn}=-Bξ_{n,j+1}
+
+## Lezione 12 — Pricing 5 - Modello Black-Scholes-Merton Soluzione asintotica 2
+
+**D:** ⚠️ Nel secondo limite della soluzione asintotica, quale probabilità si riconosce nella sommatoria Σ_{j=a_n(t)}^{m_n(t)} (m_n(t) su j) p∗^j (1 - p∗)^(m_n(t)-j), e come è distribuita λ_n?
+**R:** Slide 3: «si può riconoscere la probabilità P{a_n(t) ≤ λ_n ≤ m_n(t)} dove λ_n è una variabile casuale distribuita come: λ_n ~ bin(p∗, m_n(t))». Il docente: è la sommatoria «che andremo a portare al limite per arrivare ad N(d_2)», e λ_n «ha i parametri p star e m n di t» ([00:00:55]–[00:01:24]). ⚠️ Il parametro è p∗, non p∗u_n/r̂_n: quella è la γ_n del primo limite, che porta a N(d_1) (deck 11, slide 53). Il docente chiama «gamma» anche la λ_n di questa lezione: vale la slide, che scrive l'asterisco in pedice, p_∗.
+**Opzione:** P{a_n(t) ≤ λ_n ≤ m_n(t)}, con λ_n ~ bin(p∗, m_n(t))
+**Distrattori:**
+- P{a_n(t) ≤ λ_n ≤ m_n(t)}, con λ_n ~ bin(p∗u_n/r̂_n, m_n(t))
+- V_t = φ^1_t S_t + φ^2_t B_t, con φ^1_t numero di azioni detenute al tempo t e φ^2_t liquidità depositata al tasso di interesse r
+- μ è il tasso di rendimento di S, σ il tasso di diffusione di S, W_t con t ∈ [0, T] un moto browniano standard unidimensionale
+
+**D:** ⚠️ Come si standardizza la variabile casuale λ_n per applicare il Teorema del Limite Centrale, secondo la slide 4 della lezione 12?
+**R:** Slide 4: «Standardizzando la variabile casuale λ̃_n, si applica il Teorema del Limite Centrale: λ̃_n = (λ_n - E_p(λ_n))/√Var(λ_n) = (λ_n - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) ∼^a N(0,1)», con la a sopra la tilde. Il docente: «Per standardizzare il processo è noto, si sottrae il valore atteso e si divide per la deviazione standard», e la binomiale standardizzata «tende ad una normale standardizzata 0,1» ([00:01:23]). ⚠️ Al denominatore c'è la **radice** della varianza della binomiale, p∗(1 - p∗)m_n(t): si divide per la deviazione standard, non per la varianza.
+**Opzione:** λ̃_n = (λ_n - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), che per il Teorema del Limite Centrale tende a una N(0,1)
+**Distrattori:**
+- λ̃_n = (λ_n - p∗m_n(t))/(p∗(1 - p∗)m_n(t)), che per il Teorema del Limite Centrale tende a una N(0,1)
+- S_t = S_0 + ∫_0^t μS_u du + ∫_0^t σS_u dW_u, ∀t ∈ [0,T]
+- E_p(S_u | ℑ_t) = S_t · e^(μ(u-t))
+
+**D:** ⚠️ Che cosa occorre studiare, secondo la slide 5 della lezione 12, per determinare la probabilità asintotica dell'espressione (45)?
+**R:** Slide 5: la (45) riscrive P{a_n(t) ≤ λ_n ≤ m_n(t)} come P{(a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) ≤ λ̃_n ≤ (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t))}; «Al fine di determinare la probabilità asintotica P^a riportata nell'espressione (45), è necessario studiare il limite agli estremi dell'intervallo, per n → ∞». Il docente: gli estremi sono «standardizzati sottraendo il valore atteso e dividendo per la deviazione standard», e «studiamo il limite degli estremi» ([00:02:45]). ⚠️ Il limite è per n → ∞, che equivale a Δ_n → 0 (slide 16): non per n → 0.
+**Opzione:** Il limite agli estremi dell'intervallo della (45), (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) e (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), per n → ∞
+**Distrattori:**
+- Il limite agli estremi dell'intervallo della (45), (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) e (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), per n → 0
+- S_u = S_t · e^((μ - σ²/2)dt - σdW_t), per u > t
+- S è un processo markoviano: il futuro è basato solo sul presente e ci si può dimenticare del passato.
+
+**D:** ⚠️ Quanto vale il «primo limite» delle slide 6–7 della lezione 12, quello dell'estremo superiore dell'intervallo (formula 46), e perché?
+**R:** Slide 7: lim_{n→∞} (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) = lim m_n(t)(1 - p∗)/√(p∗(1 - p∗)m_n(t)); «semplificando (1 - p∗)»: = lim √((1 - p∗) m_n(t) (p∗)^(-1)) = lim √((1 - p∗) ((T-t)n/T) (p∗)^(-1)) = ∞ (46). Il docente: il limite «per n che tende all'infinito non può che valere infinito» ([00:03:41]). ⚠️ m_n(t) = (T-t)n/T cresce con n, quindi l'estremo superiore va all'infinito: è il ∞ di P^a{… ≤ λ̃_n < ∞} (slide 12).
+**Opzione:** ∞, perché semplificando (1 - p∗) resta √((1 - p∗)((T-t)n/T)(p∗)^(-1)), che cresce con n
+**Distrattori:**
+- 0, perché semplificando (1 - p∗) resta √((1 - p∗)(T/((T-t)n))(p∗)^(-1)), che decresce con n
+- Il comportamento del prezzo di qualsiasi strumento finanziario: permette di simularne la traiettoria utilizzando solo l'informazione disponibile al tempo corrente.
+- Perché S_t è per definizione adattato a sè stesso: le informazioni di S_t rispetto a S_t sono le medesime.
+
+**D:** ⚠️ Nella dimostrazione del secondo limite, quello che porta a N(d_2), che cosa calcolano il «primo limite» e il «secondo limite» delle slide 6–11?
+**R:** I limiti dei due estremi della (45). Il «primo limite» (slide 6–7) è quello dell'estremo superiore, (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) → ∞ (46); il «secondo limite» (slide 8–11) quello dell'estremo inferiore, (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) → (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) (47). Il docente: il primo «non può che valere infinito» ([00:03:41]); «Il secondo limite può essere invece determinato come a meno p star m» ([00:04:13]). ⚠️ La numerazione è annidata: nella lezione il «secondo limite» è anche quello della sommatoria che tende a N(d_2) ([00:00:04]), e il «terzo limite» quello del fattore di sconto ([00:08:07]).
+**Opzione:** Il primo è il limite dell'estremo superiore, che tende a ∞ (46); il secondo quello dell'estremo inferiore, che tende a (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) (47).
+**Distrattori:**
+- Il primo è il limite dell'estremo inferiore, che tende a (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) (46); il secondo quello dell'estremo superiore, che tende a ∞ (47).
+- Con la funzione di Excel casuale e quella della normale standardizzata, fissati un valore di μ e un valore di σ.
+- e^((u-t)σ²/2), con la funzione generatrice dei momenti della normale, φ(t) = E(e^(tx)) = e^(σ²t²/2 + μt), e W_u - W_t ~ N(0, u - t)
+
+**D:** ⚠️ A che cosa tende, per n → ∞, l'estremo inferiore (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) della (45), secondo la formula 47 della lezione 12?
+**R:** Slide 11: «Sfruttando i risultati riportati nelle espressioni (36) e (37) si ottiene: = (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t))», e dunque il limite (47). Prima (slide 9–10) si sostituisce a_n(t) con l'espressione (41), (ln(K/S_t) + m_n(t)σ√Δ_n)/(2σ√Δ_n), si decompone il limite e con la (40) il numeratore diventa ln(K/S_t) + σ(T-t)(σ/2 - r/σ). Il docente arriva al logaritmo di K su S meno (r - σ²/2)(T - t), diviso σ√(T - t) ([00:05:26]). ⚠️ Nel numeratore c'è r - σ²/2: con r + σ²/2 è la (44) della lezione 11, l'estremo del primo limite (deck 11, slide 66).
+**Opzione:** (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t))
+**Distrattori:**
+- (ln(K/S_t) - (r + σ²/2)(T-t))/(σ√(T-t))
+- max(K-A1,0) e max(K-A2n+1,0)
+- 1/u
+
+**D:** ⚠️ Quale grandezza riconosce il docente della lezione 12 nell'estremo inferiore della probabilità asintotica, e con quale definizione (slide 13)?
+**R:** Slide 13: «utilizzando la definizione di d_2 data nell'espressione (35) la formula precedente può essere riscritta come segue: P^a{-d_2 ≤ λ̃_n < ∞}». Con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) (35, slide 17), l'estremo (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) è -d_2, perché ln(K/S_t) = -ln(S_t/K) (il passaggio sul logaritmo non è nella slide). Il docente: «Guarda caso, riscontriamo nel termine di sinistra proprio la definizione di meno d_2» ([00:06:23]). ⚠️ È -d_2, non -d_1: -d_1, con r + σ²/2 (34), è l'estremo del primo limite della lezione 11.
+**Opzione:** -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): la probabilità asintotica diventa P^a{-d_2 ≤ λ̃_n < ∞}
+**Distrattori:**
+- -d_1, con d_1 = (ln(S_t/K) + (r + σ²/2)(T-t))/(σ√(T-t)): la probabilità asintotica diventa P^a{-d_1 ≤ λ̃_n < ∞}
+- dS = (dS/dt)dt + (dS/dW)dW_t + (1/2)(d²S/dW²)dt, con dS/dt = (μ - σ²/2)S, dS/dW = σS e d²S/dW² = σ²S
+- ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt), dove dt = (t - s)
+
+**D:** ⚠️ Come si passa da P^a{-d_2 ≤ λ̃_n < ∞} a N(d_2) nella lezione 12 (slide 14–15)?
+**R:** Slide 14: «Di nuovo, per il teorema del Limite Centrale λ̃_n ∼^a N(0,1): P^a{-d_2 ≤ λ̃_n < ∞} = (1/√(2π)) ∫_{-d_2}^{∞} e^(-λ̃²/2) dλ̃»; slide 15: «utilizzando le proprietà di simmetria della distribuzione di probabilità normale: P^a{-d_2 ≤ λ̃_n < ∞} = P^a{λ̃_n < d_2} = (1/√(2π)) ∫_{-∞}^{d_2} e^(-λ̃²/2) dλ̃ = N(d_2)», e quindi il limite della sommatoria è N(d_2), Q.E.D. Il docente: la probabilità «tra meno d_2 e infinito» è la probabilità di essere «minore di d_2» ([00:07:21]). ⚠️ L'estremo è -d_2, ma per simmetria il risultato è N(d_2), non N(-d_2).
+**Opzione:** Con il Teorema del Limite Centrale e la simmetria della normale: P^a{-d_2 ≤ λ̃_n < ∞} = P^a{λ̃_n < d_2} = N(d_2)
+**Distrattori:**
+- Con il Teorema del Limite Centrale e la simmetria della normale: P^a{-d_2 ≤ λ̃_n < ∞} = P^a{λ̃_n < -d_2} = N(-d_2)
+- dS = μSdt + σSdW: il termine (1/2)σ²Sdt della derivata seconda cancella il -σ²/2 del termine in dt.
+- Il drift e la volatilità dei rendimenti logaritmici di S, rispettivamente; la figura mostra ln(S_t/S_{t-1}) nel tempo, con pendenza μ - σ²/2.
+
+**D:** ⚠️ A che cosa tende il terzo limite della soluzione asintotica, lim 1/r̂_n^(m_n(t)), e come si calcola (slide 16 della lezione 12)?
+**R:** Slide 16: «Il terzo limite è determinato come segue. lim 1/r̂_n^(m_n(t)) = lim r̂_n^(-m_n(t)) = lim (1 + r_n)^(-m_n(t)) = dalla definizione: lim_{Δ_n→0} e^(-rΔ_n m_n(t)) = lim_{Δ_n→0} e^(-rΔ_n (T-t)/Δ_n) = e^(-r(T-t))», Q.E.D. Il docente: questo limite «ci consente di riesprimere il fattore di capitalizzazione o di sconto a seconda di come viene poi visto all'interno della formulazione finale, qui ovviamente uno sconto» ([00:09:10]). ⚠️ L'esponente è negativo: è un fattore di sconto. «Dalla definizione» rinvia a 1 + r_n = e^(rΔ_n) della lezione 11; Δ_n si semplifica perché m_n(t)Δ_n = T - t.
+**Opzione:** e^(-r(T-t)), perché (1 + r_n)^(-m_n(t)) tende a e^(-rΔ_n m_n(t)) = e^(-rΔ_n (T-t)/Δ_n): è un fattore di sconto
+**Distrattori:**
+- e^(r(T-t)), perché (1 + r_n)^(m_n(t)) tende a e^(rΔ_n m_n(t)) = e^(rΔ_n (T-t)/Δ_n): è un fattore di capitalizzazione
+- S è un processo markoviano: il futuro è basato solo sul presente e ci si può dimenticare del passato.
+- S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)), dove dt = (t - s)
+
+**D:** ⚠️ Quanto vale, nel modello di Black-Scholes-Merton, il portafoglio di replicazione al tempo t (formula 48), e che cosa sono φ^1_t e φ^2_t?
+**R:** Slide 19–20: «Al fine di costruire un portafoglio φ al tempo t = 0 che replica esattamente il pay-off dell'opzione al tempo T, si definisce la seguente strategia: φ = φ_t = (φ^1_t, φ^2_t). Il valore del portafoglio al tempo t è: V_t = φ^1_t S_t + φ^2_t B_t (48). Sia φ^1_t il numero di azioni detenute al tempo t, φ^2_t la liquidità depositata al tasso di interesse r. φ^1_t, φ^2_t sono processi stocastici sullo spazio di probabilità (Ω, ℑ, P)». Il docente: φ^1 «rappresenta il numero di azioni detenute» e φ^2 «la liquidità depositata al tasso di interesse» ([00:11:21]). ⚠️ φ^1_t moltiplica S, φ^2_t moltiplica B. Nelle lezioni 08 e 09 gli stessi ruoli erano di α e β.
+**Opzione:** V_t = φ^1_t S_t + φ^2_t B_t, con φ^1_t numero di azioni detenute al tempo t e φ^2_t liquidità depositata al tasso di interesse r
+**Distrattori:**
+- V_t = φ^1_t S_t + φ^2_t B_t, con φ^1_t liquidità depositata al tasso di interesse r e φ^2_t numero di azioni detenute al tempo t
+- λ̃_n = (λ_n - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), che per il Teorema del Limite Centrale tende a una N(0,1)
+- μ è il tasso di rendimento di S, σ il tasso di diffusione di S, W_t con t ∈ [0, T] un moto browniano standard unidimensionale
+
+**D:** ⚠️ Che cosa sono μ, σ e W_t nella dinamica del sottostante dS_t = μS_t dt + σS_t dW_t (formula 49 della lezione 12)?
+**R:** Slide 21: «La dinamica del sottostante S è: dS_t = μS_t dt + σS_t dW_t (49) dove μ è il tasso di rendimento di S; σ è il tasso di diffusione di S; W_t dove t ∈ [0, T], è un Moto Browniano standard unidimensionale». Il docente: la dinamica è descritta da «un'equazione differenziale stocastica, il moto geometrico browniano», con mu «il tasso di rendimento del sottostante» e sigma «il cosiddetto tasso di diffusione del sottostante» ([00:12:08]–[00:12:21]). ⚠️ μ moltiplica dt, σ moltiplica dW_t. È il processo della lezione 07, dX_t = aX_t dt + bX_t dW_t, con μ e σ al posto di a e b.
+**Opzione:** μ è il tasso di rendimento di S, σ il tasso di diffusione di S, W_t con t ∈ [0, T] un moto browniano standard unidimensionale
+**Distrattori:**
+- μ è il tasso di diffusione di S, σ il tasso di rendimento di S, W_t con t ∈ [0, T] un moto browniano standard unidimensionale
+- Il limite agli estremi dell'intervallo della (45), (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) e (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), per n → ∞
+- Un processo di Wiener generalizzato, quindi ln S_t - ln S_s ~ N((μ - σ²/2)dt, σ√dt)
+
+**D:** ⚠️ Come si scrive la dinamica del sottostante (49) in forma di integrale stocastico di Itô, secondo la slide 22 della lezione 12?
+**R:** Slide 22: «L'equazione (49) può essere espressa anche come un integrale stocastico di Itô ∀t ∈ [0,T]: S_t = S_0 + ∫_0^t μS_u du + ∫_0^t σS_u dW_u». Il docente: «L'equazione 49 può anche essere espressa nella forma dell'integrale stocastico di Itô per ogni t che appartiene a 0 T» ([00:12:53]). ⚠️ Il drift μS_u si integra in du, la diffusione σS_u in dW_u, come nella (49) μS_t moltiplica dt e σS_t moltiplica dW_t.
+**Opzione:** S_t = S_0 + ∫_0^t μS_u du + ∫_0^t σS_u dW_u, ∀t ∈ [0,T]
+**Distrattori:**
+- S_t = S_0 + ∫_0^t μS_u dW_u + ∫_0^t σS_u du, ∀t ∈ [0,T]
+- u_nS_0 e d_nS_0
+- dV∗_t = φ^1_t dS∗_t: il termine in φ^2_t scompare, assorbito nello sconto
+
+**D:** ⚠️ Qual è la soluzione (50) della dinamica del sottostante (49), per u > t, secondo il teorema della slide 23 della lezione 12?
+**R:** Slide 23: «La soluzione dell'equazione differenziale stocastica (49) è data per u > t, dalla seguente espressione esplicita: S_u = S_t · e^((μ - σ²/2)dt - σdW_t) (50)». Il docente: s di u «è uguale ad s di t per l'esponenziale di mu meno sigma quadro mezzi di t meno sigma di w» ([00:13:25]). ⚠️ Nell'esponente c'è μ - σ²/2. ⚠️ La slide 23 e il docente hanno -σdW_t, ma le slide 25, 28–30 e 36 usano la stessa soluzione con +σdW_t, e con il + è scritta anche la (59) del processo scontato (slide 42): il deck non è coerente sul segno, e la dimostrazione deriva la forma con il +.
+**Opzione:** S_u = S_t · e^((μ - σ²/2)dt - σdW_t), per u > t
+**Distrattori:**
+- S_u = S_t · e^((μ + σ²/2)dt - σdW_t), per u > t
+- λ̃_n = (λ_n - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), che per il Teorema del Limite Centrale tende a una N(0,1)
+- e^(-r(T-t)), perché (1 + r_n)^(-m_n(t)) tende a e^(-rΔ_n m_n(t)) = e^(-rΔ_n (T-t)/Δ_n): è un fattore di sconto
+
+**D:** ⚠️ Che cosa descrive la soluzione (50) della lezione 12, e che cosa permette di fare (slide 23)?
+**R:** Slide 23: la (50) «descrive il comportamento del prezzo di qualsiasi strumento finanziario. Utilizzando questa soluzione, è possibile simulare la traiettoria seguita da ogni strumento finanziario utilizzando solo l'informazione disponibile al tempo corrente (vedi figura)»; la figura della slide 24 mostra una ventina di traiettorie di S nel tempo. Il docente: noto il valore del sottostante al tempo t si può derivare «dal punto di vista random» il valore della traiettoria di S al tempo u ([00:13:25]). ⚠️ «solo» l'informazione al tempo corrente, non la storia dei prezzi: è coerente con la proprietà markoviana che la dimostrazione della (52) usa (slide 27).
+**Opzione:** Il comportamento del prezzo di qualsiasi strumento finanziario: permette di simularne la traiettoria utilizzando solo l'informazione disponibile al tempo corrente.
+**Distrattori:**
+- Il comportamento del prezzo di qualsiasi strumento finanziario: permette di simularne la traiettoria utilizzando l'intera storia dei prezzi fino al tempo corrente.
+- ∞, perché semplificando (1 - p∗) resta √((1 - p∗)((T-t)n/T)(p∗)^(-1)), che cresce con n
+- S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)), dove dt = (t - s)
+
+**D:** Con quali funzioni di Excel il docente della lezione 12 ha costruito le traiettorie del sottostante della slide 24?
+**R:** «In questo caso abbiamo rappresentato tramite un foglio Excel in maniera molto semplice, utilizzando la funzione di Excel casuale e la funzione di Excel della normale standardizzata, abbiamo riproiettato nel tempo, per vari u maggiore di t», e così, «fissato un valore di mu e un valore di sigma, l'andamento del sottostante» ([00:14:06]). Per il docente è «uno strumento molto potente», per verificare «dove andrà il sottostante che stiamo stimando» ([00:14:43]). È solo nel transcript: la slide 24 mostra le traiettorie senza dire come sono costruite.
+**Opzione:** Con la funzione di Excel casuale e quella della normale standardizzata, fissati un valore di μ e un valore di σ.
+**Distrattori:**
+- Con la funzione di Excel casuale e quella della distribuzione binomiale, fissati un valore di μ e un valore di σ.
+- Il primo è il limite dell'estremo superiore, che tende a ∞ (46); il secondo quello dell'estremo inferiore, che tende a (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) (47).
+- Con un risultato standard della teoria della probabilità: e^((μ - σ²/2 + σ²/2)dt) = e^(μdt), poi si moltiplica per S_s e per S_s²
+
+**D:** ⚠️ Quale espressione (51) si ottiene applicando la formula di Itô alla (49), e quanto valgono le derivate (slide 25 della lezione 12)?
+**R:** Slide 25: «Applicando la formula di Itô all'espressione (49), si ottiene: dS = (dS/dt)dt + (dS/dW)dW_t + (1/2)(d²S/dW²)dt (51)»; con S = f(t,x) = Se^((μ - σ²/2)dt + σdW_t): dS/dt = (μ - σ²/2)S, dS/dW = σS, d²S/dW² = σ²S. Il docente: la prima derivata è «mu men sigma quadro mezzi in S», la derivata in W «è sigma S», la seconda è «sigma quadro S» ([00:14:52]). ⚠️ La derivata rispetto al tempo ha μ - σ²/2, non μ. Qui la soluzione ha +σdW_t, mentre la (50) della slide 23 ha -σdW_t.
+**Opzione:** dS = (dS/dt)dt + (dS/dW)dW_t + (1/2)(d²S/dW²)dt, con dS/dt = (μ - σ²/2)S, dS/dW = σS e d²S/dW² = σ²S
+**Distrattori:**
+- dS = (dS/dt)dt + (dS/dW)dW_t + (1/2)(d²S/dW²)dt, con dS/dt = μS, dS/dW = σS e d²S/dW² = σ²S
+- (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t))
+- dB_t = rB_t dt, con soluzione B_t = e^(rt): un processo deterministico, il bond privo di rischio
+
+**D:** ⚠️ Che cosa si ottiene sostituendo le derivate nella (51), e perché scompare il -σ²/2 (slide 26 della lezione 12)?
+**R:** Slide 26: «Sostituendo le derivate all'interno dell'equazione (51): dS = (μ - σ²/2)Sdt + σdW_t + (1/2)σ²Sdt semplificando: dS = μSdt + σSdW». Il termine (1/2)σ²Sdt della derivata seconda cancella il -σ²/2 del termine in dt. Il docente: sostituendo, dS risulta uguale a μS dt più σS dW, e il teorema è dimostrato ([00:15:22]). ⚠️ Il termine della derivata seconda non si trascura: è quello che riporta il drift a μ. La slide scrive σdW_t senza la S nella riga della sostituzione: è un refuso, la riga dopo ha σSdW.
+**Opzione:** dS = μSdt + σSdW: il termine (1/2)σ²Sdt della derivata seconda cancella il -σ²/2 del termine in dt.
+**Distrattori:**
+- dS = (μ - σ²/2)Sdt + σSdW: il termine (1/2)σ²Sdt della derivata seconda è un infinitesimo di ordine superiore e si trascura.
+- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): la probabilità asintotica diventa P^a{-d_2 ≤ λ̃_n < ∞}
+- Se V_t(φ) = φ^1_t S_t + φ^2_t B_t soddisfa V_t(φ) = V_0(φ) + ∫_0^t φ^1_u dS_u + ∫_0^t φ^2_u dB_u, ∀t ∈ [0,T]
+
+**D:** ⚠️ Quanto vale il valore atteso condizionale del sottostante sotto la misura di probabilità p, secondo la proposizione (52) della lezione 12?
+**R:** Slide 27: «Il valore atteso condizionale sotto la misura di probabilità p del processo stocastico S è uguale a: E_p(S_u | ℑ_t) = S_t · e^(μ(u-t)) (52)»; la slide 33 chiude la dimostrazione con E_p(S_u | F_t) = S_t · e^(μ(u-t)), Q.E.D. Il docente: semplificando si ottiene S_t per e elevato a μ(u - t), che è la tesi della proposizione ([00:19:18]). ⚠️ Nel valore atteso c'è μ, non μ - σ²/2: il -σ²/2 dell'esponente si cancella con il +σ²/2 della funzione generatrice dei momenti (slide 33).
+**Opzione:** E_p(S_u | ℑ_t) = S_t · e^(μ(u-t))
+**Distrattori:**
+- E_p(S_u | ℑ_t) = S_t · e^((μ - σ²/2)(u-t))
+- S∗_t ≜ S_t/B_t e V∗_t ≜ V_t/B_t: S e V scontati del valore finanziario del tempo, cioè del processo B
+- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): la probabilità asintotica diventa P^a{-d_2 ≤ λ̃_n < ∞}
+
+**D:** ⚠️ Nella dimostrazione della (52), quale proprietà permette di passare da E_p(S_u | S_t, S_{t-1}, S_{t-2}, ....., S_0) a E_p(S_u | S_t)?
+**R:** Slide 27: «Data l'equivalenza tra le filtrazioni ℑ_t = ℑ^S_t… dalla definizione di ℑ^S_t: = E_p(S_u | S_t, S_{t-1}, S_{t-2}, ....., S_0) = e considerando che S è un processo markoviano: = E_p(S_u | S_t)». Il docente: «S è un processo markoviano, ovvero il futuro è basato solo sul presente e ci si può dimenticare del passato» ([00:16:54]). ⚠️ È la proprietà di Markov, non quella di martingala, che riguarda il valore atteso (lezione 06). Il passo dopo, portare S_t fuori dal valore atteso, si giustifica invece con S_t «per definizione adattato a sè stesso» (slide 28).
+**Opzione:** S è un processo markoviano: il futuro è basato solo sul presente e ci si può dimenticare del passato.
+**Distrattori:**
+- S è una martingala: il futuro è basato solo sul presente e ci si può dimenticare del passato.
+- ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt), dove dt = (t - s)
+- Se V_t(φ) = φ^1_t S_t + φ^2_t B_t soddisfa V_t(φ) = V_0(φ) + ∫_0^t φ^1_u dS_u + ∫_0^t φ^2_u dB_u, ∀t ∈ [0,T]
+
+**D:** ⚠️ Nella dimostrazione della (52), perché S_t si può portare fuori dal valore atteso E_p(S_t · e^((μ - σ²/2)dt + σdW_t) | S_t)?
+**R:** Slide 28: «utilizzando l'spressione (51) si ottiene: = E_p(S_t · e^((μ - σ²/2)dt + σdW_t) | S_t) = poichè S_t è per definizione adattato a sè stesso». Il docente: «poiché S di t è adattato a se stesso, cioè le informazioni di S di t rispetto ad S di t sono le medesime, quindi possiamo tranquillamente portarlo fuori dal valore atteso» ([00:17:10]). ⚠️ La proprietà markoviana serve al passo prima, per togliere S_{t-1}, …, S_0 dal condizionamento (slide 27). La slide cita la (51), ma la soluzione sostituita è la (50).
+**Opzione:** Perché S_t è per definizione adattato a sè stesso: le informazioni di S_t rispetto a S_t sono le medesime.
+**Distrattori:**
+- Perché S è un processo markoviano: le informazioni di S_t rispetto a S_t sono le medesime.
+- Il drift e la volatilità dei rendimenti logaritmici di S, rispettivamente; la figura mostra ln(S_t/S_{t-1}) nel tempo, con pendenza μ - σ²/2.
+- Che entrambi gli integrali convergano nello spazio L_2: P{∫_0^T |φ^1_u|² dS_u < ∞} = 1 e P{∫_0^T |φ^2_u|² dB_u < ∞} = 1
+
+**D:** ⚠️ Quanto vale E_p(e^(σ(W_u - W_t))) nella dimostrazione della (52), e con quale strumento si calcola (slide 32–33 della lezione 12)?
+**R:** Slide 32: «richiamando la funzione generatrice dei momenti φ(t) di una variabile casuale normale X ~ N(μ, σ²), i.e.: φ(t) = E(e^(tx)) = e^(σ²t²/2 + μt)»; slide 33: «poichè: W_u - W_t ~ N(0, u - t) si ottiene: = S_t · e^((μ - σ²/2)(u-t)) · e^((u-t)σ²/2)», cioè E_p(e^(σ(W_u - W_t))) = e^((u-t)σ²/2). Il docente: «x distribuito normale mu sigma quadro», e W_u - W_t «è normale con media zero e varianza» u - t ([00:18:14]–[00:19:18]). ⚠️ Qui il secondo parametro della normale è la **varianza**, u - t, non la deviazione standard. Prima il condizionamento si toglie perché (W_u - W_t) è indipendente da S_t (slide 30), e e^((μ - σ²/2)(u-t)) esce perché è una costante (slide 31).
+**Opzione:** e^((u-t)σ²/2), con la funzione generatrice dei momenti della normale, φ(t) = E(e^(tx)) = e^(σ²t²/2 + μt), e W_u - W_t ~ N(0, u - t)
+**Distrattori:**
+- e^(-(u-t)σ²/2), con la funzione generatrice dei momenti della normale, φ(t) = E(e^(tx)) = e^(σ²t²/2 + μt), e W_u - W_t ~ N(0, u - t)
+- Un processo di Wiener generalizzato, quindi ln S_t - ln S_s ~ N((μ - σ²/2)dt, σ√dt)
+- S∗_t ≜ S_t/B_t e V∗_t ≜ V_t/B_t: S e V scontati del valore finanziario del tempo, cioè del processo B
+
+**D:** In che cosa differisce la notazione della normale fra la dimostrazione della (52) e il corollario (53) della lezione 12?
+**R:** Nella dimostrazione della (52) il secondo parametro è la **varianza**: «X ~ N(μ, σ²)» (slide 32) e «W_u - W_t ~ N(0, u - t)» (slide 33); il docente dice «varianza» ([00:19:18]). Nel corollario (53) è la **deviazione standard**: ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt) (slide 34), e il docente dice «deviazione standard sigma radice di delta t» ([00:21:42]). Lo stesso deck usa le due convenzioni, come il deck 06: (W_t - W_s) ~ N(0, (t - s)) nelle slide 28–29, dW_t ~ N(0, √dt) nella slide 37.
+
+**D:** ⚠️ Come sono distribuiti i logaritmi naturali dei rendimenti di S nel modello di Black-Scholes-Merton, secondo il corollario (53) della lezione 12?
+**R:** Slide 34: «I logaritmi naturali dei rendimenti di S sono distribuiti come segue: ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt) (53) dove dt = (t - s)»; la slide scrive ∽. Il docente: il secondo parametro è la «diffusione o deviazione standard sigma radice di delta t» ([00:21:42]). ⚠️ La media ha μ - σ²/2, non μ; il secondo parametro è la deviazione standard σ√dt. È la (105) della lezione 07, ln(X_t/X_{t-dt}) ~ N((a - b²/2)dt, b√dt), con μ e σ al posto di a e b; è la chiave della domanda 3 del test.
+**Opzione:** ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt), dove dt = (t - s)
+**Distrattori:**
+- ln(S_t/S_s) ~ N(μdt, σ√dt), dove dt = (t - s)
+- Con il Teorema del Limite Centrale e la simmetria della normale: P^a{-d_2 ≤ λ̃_n < ∞} = P^a{λ̃_n < d_2} = N(d_2)
+- Che entrambi gli integrali convergano nello spazio L_2: P{∫_0^T |φ^1_u|² dS_u < ∞} = 1 e P{∫_0^T |φ^2_u|² dB_u < ∞} = 1
+
+**D:** ⚠️ Come chiama la slide 34 della lezione 12 i parametri μ e σ rispetto ai rendimenti logaritmici di S, e che cosa mostra la figura della slide 35?
+**R:** Slide 34: «Graficamente, i parametri μ e σ possono essere considerati come il "drift" e la volatilità dei rendimenti logaritmici di S rispettivamente: (vedi figura)». La figura della slide 35 ha in ordinata ln(S_t/S_{t-1}), in ascissa il tempo, una retta di pendenza μ - σ²/2 e le campane della distribuzione. Il docente: «il drift è proprio mu men sigma quadro mezzi», e le campane rappresentano la media e «la diffusione del processo che è appunto data da sigma» ([00:20:15]–[00:20:50]). ⚠️ Il testo della slide chiama drift μ, la figura e il docente μ - σ²/2: all'esame vale la formula letterale della slide. Il drift è il primo, la volatilità il secondo.
+**Opzione:** Il drift e la volatilità dei rendimenti logaritmici di S, rispettivamente; la figura mostra ln(S_t/S_{t-1}) nel tempo, con pendenza μ - σ²/2.
+**Distrattori:**
+- La volatilità e il drift dei rendimenti logaritmici di S, rispettivamente; la figura mostra ln(S_t/S_{t-1}) nel tempo, con pendenza μ - σ²/2.
+- dS∗_t = (μ - r)S∗_t dt + σS∗_t dW_t, con soluzione S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW_t)
+- Con il Teorema del Limite Centrale e la simmetria della normale: P^a{-d_2 ≤ λ̃_n < ∞} = P^a{λ̃_n < d_2} = N(d_2)
+
+**D:** ⚠️ Che tipo di processo è ln S_t - ln S_s = (μ - σ²/2)dt + σdW_t, nella dimostrazione del corollario (53) della lezione 12?
+**R:** Slide 36–37: «Il logaritmo della soluzione (50) è calcolato: ln S_t = ln S_s + (μ - σ²/2)dt + σdW_t; ln S_t - ln S_s = (μ - σ²/2)dt + σdW_t. Questo è un processo di Wiener generalizzato. Ne discende: ln S_t - ln S_s ~ N((μ - σ²/2)dt, σ√dt)», e per le proprietà del logaritmo la (53). Il docente: il processo ottenuto «non è altro che un processo di Wiener generalizzato» ([00:21:42]). ⚠️ È il processo di Wiener generalizzato dX = a dt + b dW_t della lezione 06 (slide 37), con a = μ - σ²/2 e b = σ, non un moto geometrico browniano: i coefficienti non moltiplicano il processo. Il logaritmo della (50) è scritto con +σdW_t.
+**Opzione:** Un processo di Wiener generalizzato, quindi ln S_t - ln S_s ~ N((μ - σ²/2)dt, σ√dt)
+**Distrattori:**
+- Un moto geometrico browniano, quindi ln S_t - ln S_s ~ N((μ - σ²/2)dt, σ√dt)
+- dV∗_t = φ^1_t dS∗_t: il termine in φ^2_t scompare, assorbito nello sconto
+- dS = (dS/dt)dt + (dS/dW)dW_t + (1/2)(d²S/dW²)dt, con dS/dt = (μ - σ²/2)S, dS/dW = σS e d²S/dW² = σ²S
+
+**D:** ⚠️ Come è distribuito il sottostante S_t nel modello di Black-Scholes-Merton, secondo il corollario della slide 38 della lezione 12?
+**R:** Slide 38: «S è distribuito come segue, i.e.: S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)) dove dt = (t - s)». Il docente legge i due parametri come la media e «la deviazione standard» ([00:22:14]). ⚠️ S_t è **lognormale**; normale è il logaritmo dei rendimenti (53). ⚠️ La slide scrive e^(μdt) anche nel secondo parametro. ℹ️ Integrazione (non dai materiali del corso): nei manuali la varianza della lognormale è S_s² e^(2μdt) · (e^(σ²dt) - 1), con 2μdt. All'esame vale la formula della slide, che è anche la chiave della domanda 4 del test.
+**Opzione:** S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)), dove dt = (t - s)
+**Distrattori:**
+- S_t ~ N(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)), dove dt = (t - s)
+- V_t = φ^1_t S_t + φ^2_t B_t, con φ^1_t numero di azioni detenute al tempo t e φ^2_t liquidità depositata al tasso di interesse r
+- dS = μSdt + σSdW: il termine (1/2)σ²Sdt della derivata seconda cancella il -σ²/2 del termine in dt.
+
+**D:** ⚠️ Come si passa dalla (53) ai parametri della lognormale di S_t/S_s, e perché vi compare e^(μdt) (slide 38 della lezione 12)?
+**R:** Slide 38: «Richiamando un risultato standard nella teoria della probabilità, è immediato trasformare la relazione nell'espressione (53) nella: S_t/S_s ~ LogN(e^((μ - σ²/2 + σ²/2)dt), e^((μ - σ²/2 + σ²/2)dt) · (e^(σ²dt) - 1)) quindi: S_t/S_s ~ LogN(e^(μdt), e^(μdt) · (e^(σ²dt) - 1)) ne discende: S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1))». Il docente legge la media come l'esponenziale di μ meno sigma quadro mezzi più sigma quadro mezzi per dt ([00:22:14]). ⚠️ Il +σ²/2 del risultato standard cancella il -σ²/2 della (53): il parametro della lognormale ha μ, quello della normale μ - σ²/2. Passando da S_t/S_s a S_t, il primo parametro si moltiplica per S_s, il secondo per S_s².
+**Opzione:** Con un risultato standard della teoria della probabilità: e^((μ - σ²/2 + σ²/2)dt) = e^(μdt), poi si moltiplica per S_s e per S_s²
+**Distrattori:**
+- Con un risultato standard della teoria della probabilità: e^((μ - σ²/2 - σ²/2)dt) = e^((μ - σ²)dt), poi si moltiplica per S_s e per S_s²
+- dS∗_t = (μ - r)S∗_t dt + σS∗_t dW_t, con soluzione S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW_t)
+- dB_t = rB_t dt, con soluzione B_t = e^(rt): un processo deterministico, il bond privo di rischio
+
+**D:** ⚠️ Qual è la dinamica del processo B nel modello di Black-Scholes-Merton, e quale soluzione ha (formule 54 e 55 della lezione 12)?
+**R:** Slide 39: «La dinamica del processo B ∀t ∈ [0,T] è data da: dB_t = rB_t dt (54) equazione differenziale che ha la seguente soluzione: B_t = e^(rt) (55)». Il docente: «db non è altro che rb dt» ([00:23:32]), con soluzione «b uguale alla esponenziale di r dt» ([00:23:37]); poi parla del «processo stocastico di S e il processo deterministico di B» e del «bond privo di rischio, cioè il valore del tempo» ([00:23:47]). ⚠️ In dB_t non c'è un termine in dW_t, e l'esponente è positivo: B capitalizza. Nel modello di Cox-Ross-Rubinstein era B_t = (1 + r)^t = r̂^t (lezione 09).
+**Opzione:** dB_t = rB_t dt, con soluzione B_t = e^(rt): un processo deterministico, il bond privo di rischio
+**Distrattori:**
+- dB_t = rB_t dt, con soluzione B_t = e^(-rt): un processo deterministico, il bond privo di rischio
+- Perché S_t è per definizione adattato a sè stesso: le informazioni di S_t rispetto a S_t sono le medesime.
+- Con un risultato standard della teoria della probabilità: e^((μ - σ²/2 + σ²/2)dt) = e^(μdt), poi si moltiplica per S_s e per S_s²
+
+**D:** ⚠️ Quando una strategia φ_t si dice auto-finanziante, secondo la definizione della slide 40 della lezione 12 (formule 56 e 57)?
+**R:** Slide 40: «Una strategia φ_t può essere definita auto-finanziante, se il valore del portafoglio V(φ), ∀t ∈ [0,T], i.e.: V_t(φ) = φ^1_t S_t + φ^2_t B_t (56) soddisfa la seguente relazione: V_t(φ) = V_0(φ) + ∫_0^t φ^1_u dS_u + ∫_0^t φ^2_u dB_u (57)». Il docente: il valore del portafoglio «non è altro che V0, cioè il valore iniziale, più l'integrale tra 0 e t di φ1 in dS» più l'integrale di φ2 in dB ([00:23:47]). ⚠️ φ^1 si integra rispetto a S, φ^2 rispetto a B. Il nome «auto-finanziante» è solo nella slide.
+**Opzione:** Se V_t(φ) = φ^1_t S_t + φ^2_t B_t soddisfa V_t(φ) = V_0(φ) + ∫_0^t φ^1_u dS_u + ∫_0^t φ^2_u dB_u, ∀t ∈ [0,T]
+**Distrattori:**
+- Se V_t(φ) = φ^1_t S_t + φ^2_t B_t soddisfa V_t(φ) = V_0(φ) + ∫_0^t φ^1_u dB_u + ∫_0^t φ^2_u dS_u, ∀t ∈ [0,T]
+- E_p(S_u | ℑ_t) = S_t · e^(μ(u-t))
+- e^(-r(T-t)), perché (1 + r_n)^(-m_n(t)) tende a e^(-rΔ_n m_n(t)) = e^(-rΔ_n (T-t)/Δ_n): è un fattore di sconto
+
+**D:** ⚠️ Quale condizione basta, secondo la slide 40 della lezione 12, perché gli integrali della (57) siano opportunamente definiti?
+**R:** Slide 40: «dove gli integrali devono essere opportunamente definiti; a tal fine è sufficiente che entrambi gli integrali convergano nello spazio L_2, cioè: P{∫_0^T |φ^1_u|² dS_u < ∞} = 1; P{∫_0^T |φ^2_u|² dB_u < ∞} = 1». Il docente: «è sufficiente che entrambi gli integrali convergano nello spazio L2, cioè che le probabilità che il loro integrale delle quantità φ1 e φ2 prese in valore assoluto al quadrato in ds e in db siano minori di infinito, sia uguale a 1» ([00:23:47]–[00:25:09]). ⚠️ Le probabilità valgono 1, non 0, e devono convergere entrambi gli integrali.
+**Opzione:** Che entrambi gli integrali convergano nello spazio L_2: P{∫_0^T |φ^1_u|² dS_u < ∞} = 1 e P{∫_0^T |φ^2_u|² dB_u < ∞} = 1
+**Distrattori:**
+- Che entrambi gli integrali convergano nello spazio L_2: P{∫_0^T |φ^1_u|² dS_u < ∞} = 0 e P{∫_0^T |φ^2_u|² dB_u < ∞} = 0
+- Il limite agli estremi dell'intervallo della (45), (a_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)) e (m_n(t) - p∗m_n(t))/√(p∗(1 - p∗)m_n(t)), per n → ∞
+- S_t = S_0 + ∫_0^t μS_u du + ∫_0^t σS_u dW_u, ∀t ∈ [0,T]
+
+**D:** ⚠️ Come si definiscono i processi scontati di S e di V nel modello di Black-Scholes-Merton (slide 41 della lezione 12)?
+**R:** Slide 41: «S∗_t ≜ S_t/B_t e V∗_t ≜ V_t/B_t sono i processi scontati di S e V». Il docente: il processo «scontato di che? Del valore finanziario del tempo e quindi del nostro processo B. S star viene quindi definito come S su B e V star come V su B» ([00:25:16]). ⚠️ Si divide per B_t: è uno sconto. Nel modello di Sharpe-Rendleman-Bartter era S∗_T = (1+r)^(-1)S_T (lezione 08). La slide scrive l'asterisco in apice.
+**Opzione:** S∗_t ≜ S_t/B_t e V∗_t ≜ V_t/B_t: S e V scontati del valore finanziario del tempo, cioè del processo B
+**Distrattori:**
+- S∗_t ≜ S_t · B_t e V∗_t ≜ V_t · B_t: S e V capitalizzati del valore finanziario del tempo, cioè del processo B
+- ∞, perché semplificando (1 - p∗) resta √((1 - p∗)((T-t)n/T)(p∗)^(-1)), che cresce con n
+- S_u = S_t · e^((μ - σ²/2)dt - σdW_t), per u > t
+
+**D:** ⚠️ Quale equazione differenziale stocastica governa il processo scontato S∗_t, e quale soluzione ha (formule 58 e 59 della lezione 12)?
+**R:** Slide 42: «S∗_t è governato dalla seguente equazione differenziale stocastica: dS∗_t = (μ - r)S∗_t dt + σS∗_t dW_t (58) che ha soluzione S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW_t) (59)». Dimostrazione (slide 43): «Si applica il lemma di Itô's per ottenere: d(S_t/B_t) = dS∗_t = -r(S_t/B_t)dt + (1/B_t)(μS_t dt + σS_t dW_t)», cioè -rS∗_t dt + μS∗_t dt + σS∗_t dW_t; la soluzione segue «per analogia con la soluzione dell'equazione 49», per u ≥ t. Il docente: «dS star non è altro che mu meno r S star dt più sigma S star dW» ([00:25:16]). ⚠️ Lo sconto toglie r dal drift; la diffusione σ resta la stessa.
+**Opzione:** dS∗_t = (μ - r)S∗_t dt + σS∗_t dW_t, con soluzione S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW_t)
+**Distrattori:**
+- dS∗_t = (μ + r)S∗_t dt + σS∗_t dW_t, con soluzione S∗_u = S∗_t · e^((μ + r - σ²/2)dt + σdW_t)
+- Il primo è il limite dell'estremo superiore, che tende a ∞ (46); il secondo quello dell'estremo inferiore, che tende a (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t)) (47).
+- Il comportamento del prezzo di qualsiasi strumento finanziario: permette di simularne la traiettoria utilizzando solo l'informazione disponibile al tempo corrente.
+
+**D:** ⚠️ Quale equazione differenziale stocastica governa il processo scontato V∗_t del portafoglio di replicazione (formula 60 della lezione 12)?
+**R:** Slide 44: «V∗_t è governata dalla seguente equazione differenziale stocastica: dV∗_t = φ^1_t dS∗_t (60)». La dimostrazione (slide 44–48) parte dalla (57) in forma differenziale, dV_t(φ) = φ^1_t dS_t + φ^2_t dB_t, che «descrive in tempo continuo la dinamica del portafoglio di replicazione V(φ)», e con dV∗_t(φ) = d(V_t/B_t) = V_t d(1/B_t) + (1/B_t)dV_t arriva a [(μ - r)S∗_t + σS∗_t dW_t]φ^1_t, cioè φ^1_t dS∗_t per la (58). Il docente: «la parte in dB di φ2 l'abbiamo assorbita, evidentemente, altrove, nello star, e quindi nello sconto» ([00:27:24]). ⚠️ Nel processo scontato il termine in φ^2_t scompare.
+**Opzione:** dV∗_t = φ^1_t dS∗_t: il termine in φ^2_t scompare, assorbito nello sconto
+**Distrattori:**
+- dV∗_t = φ^1_t dS∗_t + φ^2_t dB_t: il termine in φ^2_t resta, come nella dinamica non scontata
+- (ln(K/S_t) - (r - σ²/2)(T-t))/(σ√(T-t))
+- Con la funzione di Excel casuale e quella della normale standardizzata, fissati un valore di μ e un valore di σ.
+
+**D:** Perché nella dimostrazione della (60) il termine in φ^2_t si cancella?
+**R:** Slide 48: sostituite le definizioni di dB_t e V∗_t si ottiene -r(φ^1_t S∗_t + φ^2_t)dt + φ^1_t(μS∗_t dt + σS∗_t dW_t) + φ^2_t r dt. Il -rφ^2_t dt viene dallo sconto di V, perché d(1/B_t) = -(r/B_t)dt (slide 45); il φ^2_t r dt viene da dB_t = rB_t dt (54). I due si cancellano, e resta [(μ - r)S∗_t + σS∗_t dW_t]φ^1_t, che per la (58) è φ^1_t dS∗_t. Il docente: la parte in dB di φ2 è stata «assorbita… nello sconto» ([00:27:24]), e «s di t diventa s star e siamo nelle condizioni di semplificare anche bt laddove è presente a numeratore e a denominatore» ([00:29:16]). La slide 48 scrive (μ - r)S∗_t senza dt nella parentesi quadra.
+
+**D:** ⚠️ Come è definita la variabile casuale λ_n nel modello CRR in versione asintotica, secondo il test della lezione 12 (domanda 1)?
+**R:** «**λ~bin(p∗,m_{n(t)})**»: è la slide 3, «λ_n è una variabile casuale distribuita come: λ_n ~ bin(p∗, m_n(t))», dove P{a_n(t) ≤ λ_n ≤ m_n(t)} è la sommatoria del secondo limite. Il docente: λ_n «ha i parametri p star e m n di t» ([00:01:24]). La piattaforma toglie il pedice n a λ e mette in pedice tutto n(t). m_n(t) ≜ (T-t)/Δ_n è definito nella lezione 11 (deck 11, slide 8); il deck 12 lo sostituisce con (T-t)n/T (slide 7). Distrattori del test: «lnλ_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]» è la chiave della domanda 4 del test 07, la distribuzione dei log-rendimenti del moto geometrico browniano, con λ al posto di X; «dλ~Y(10,dt^(1/2))» e «λ~N(0,dt)» sono distrattori dei test 06 e 07 con λ al posto di X. Una «Y» con media 10 non esiste nei materiali, e normale, N(0,1), è solo la λ̃_n standardizzata, al limite (slide 4).
+**Opzione:** λ~bin(p∗,m_{n(t)})
+**Distrattori:**
+- lnλ_{t-dt}~N[(a-b²/2)dt,bdt^(1/2))]
+- dλ~Y(10,dt^(1/2))
+- λ~N(0,dt)
+
+**D:** ⚠️ Come è definito il moto geometrico browniano, secondo il test della lezione 12 (domanda 2)?
+**R:** «**dS_t=μS_tdt+σS_tW_t**», la chiave della piattaforma: è la (49) della slide 21, dS_t = μS_t dt + σS_t dW_t, con μ tasso di rendimento e σ tasso di diffusione di S, ripetuta alla fine della dimostrazione, dS = μSdt + σSdW (slide 26). Il docente: la dinamica del sottostante è «il moto geometrico browniano» ([00:12:08]). ⚠️ **Domanda difettosa di resa**: tutte e quattro le opzioni scrivono W_t invece di dW_t; la parte identica in tutte non discrimina. La griglia ha due assi, il coefficiente di dt (μS_t, S_t o μW_t) e quello di W_t (σS_t o S_t): solo la chiave è giusta su entrambi. «dS_t=S_tdt+S_tW_t» toglie μ e σ; «dS_t=μW_tdt+σS_tW_t» mette W_t al posto di S_t nel drift; «dS_t=S_tdt+σS_tW_t» toglie μ.
+**Opzione:** dS_t=μS_tdt+σS_tW_t
+**Distrattori:**
+- dS_t=S_tdt+S_tW_t
+- dS_t=μW_tdt+σS_tW_t
+- dS_t=S_tdt+σS_tW_t
+
+**D:** ⚠️ Come sono distribuiti nel modello BSM i logaritmi naturali dei rendimenti di S, secondo il test della lezione 12 (domanda 3)?
+**R:** «**lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]**», con la parentesi spaiata della piattaforma: è la (53) della slide 34, ln(S_t/S_s) ~ N((μ - σ²/2)dt, σ√dt), dove dt = (t - s). La piattaforma scrive σ_2 per σ², l'esponente 1/2 per la radice, e toglie le parentesi del logaritmo. Il secondo parametro è la deviazione standard: «diffusione o deviazione standard sigma radice di delta t» ([00:21:42]). Distrattori del test: «dλ~Y(10,dt^(1/2))», «λ~N(0,dt)» e «λ~bin(p∗,m_{n(t)})» parlano di λ, non di S. Sono tre opzioni della domanda 1, e la terza ne è la chiave: un'opzione che non parla dell'oggetto della domanda è un distrattore a prescindere.
+**Opzione:** lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]
+**Distrattori:**
+- dλ~Y(10,dt^(1/2))
+- λ~N(0,dt)
+- λ~bin(p∗,m_{n(t)})
+
+**D:** ⚠️ Come è distribuito nel modello BSM il sottostante S, secondo il test della lezione 12 (domanda 4)?
+**R:** «**S_t~LogN[S_sexp(μdt); S_s²exp(μdt)exp(σ^(2dt)-1)]**», la chiave della piattaforma: è il corollario della slide 38, S_t ~ LogN(S_s e^(μdt), S_s² e^(μdt) · (e^(σ²dt) - 1)), con dt = (t - s), a meno della resa: la piattaforma porta «2dt» in apice a σ e mette il -1 dentro l'esponenziale, mentre la slide ha (e^(σ²dt) - 1). ⚠️ La slide scrive e^(μdt) anche nel secondo parametro, e così la chiave; il docente lo chiama «deviazione standard» ([00:22:14]). ℹ️ Integrazione (non dai materiali del corso): nei manuali la varianza della lognormale ha e^(2μdt). Distrattori del test: «S_t~LogN[S_sexp(μdt); S_s²exp(μdt)]» è la chiave senza il fattore (e^(σ²dt) - 1), quindi un secondo parametro diverso, senza σ; «λ~bin(p∗,m_{n(t)})» e «λ~N(0,dt)» parlano di λ, non di S.
+**Opzione:** S_t~LogN[S_sexp(μdt); S_s²exp(μdt)exp(σ^(2dt)-1)]
+**Distrattori:**
+- S_t~LogN[S_sexp(μdt); S_s²exp(μdt)]
+- λ~bin(p∗,m_{n(t)})
+- λ~N(0,dt)
+
+**D:** ⚠️ Come è definito nel modello BSM il processo del valore finanziario del tempo Bt, secondo il test della lezione 12 (domanda 5)?
+**R:** «**dB_t=rB_tdt**»: è la (54) della slide 39, «La dinamica del processo B ∀t ∈ [0,T] è data da: dB_t = rB_t dt», con soluzione B_t = e^(rt) (55). Il docente: «db non è altro che rb dt» ([00:23:32]); B è il «processo deterministico» e il «bond privo di rischio, cioè il valore del tempo» ([00:23:47]). Distrattori del test, due pescati dal test 11: «B_{jΔn}=(1+r_n)^(j+2)» era l'opzione A della sua domanda 3, la versione discreta sulla griglia con l'esponente sbagliato; «u_{(j+n)Δn}=Bξ_{n,j+1}» era la D della sua domanda 4, e parla di u. «dB_t=μW_tdt+σS_tW_t» applica a B l'opzione C della domanda 2: B non ha un termine stocastico.
+**Opzione:** dB_t=rB_tdt
+**Distrattori:**
+- B_{jΔn}=(1+r_n)^(j+2)
+- u_{(j+n)Δn}=Bξ_{n,j+1}
+- dB_t=μW_tdt+σS_tW_t
