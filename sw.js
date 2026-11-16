@@ -17,7 +17,7 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = '98a3f81df633';
+const VERSIONE = 'f9d36da4d477';
 const GUSCIO = [
   "./",
   "./index.html",

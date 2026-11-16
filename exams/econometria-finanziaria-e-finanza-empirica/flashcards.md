@@ -5295,3 +5295,273 @@
 - r= StN'(d1) (T-t)1/2
 - r= N'(d1) ∗ 1/sSt(T-t)1/2
 - r=N(d1)
+
+## Lezione 18 — Gestione del rischio - Greche 2 – Attività di Hedging
+
+**D:** ⚠️ In quale «mondo» colloca la lezione 18 l'attività di hedging nella pratica, e come vi si scrive il prezzo della put (slide 2)?
+**R:** Slide 2: «L'attività di Hedging nella pratica — Hp: mondo a là Black-Scholes» (sic), con C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) e **P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)**, dove d_1 = [ln(S_t/K) + (r + σ²/2)(T-t)]/(σ√(T-t)) e d_2 = [ln(S_t/K) + (r - σ²/2)(T-t)]/(σ√(T-t)). Il docente: «un mondo alla Black Scholes, cioè un mondo dove noi abbiamo il prezzo della call e della put, definite con la nostra usuale formula», «e per la put ovviamente l'inversione delle due grandezze» (transcript [00:00:33]). ⚠️ Nella put i due termini si scambiano di posto, con lo strike scontato davanti, e gli argomenti di N cambiano segno: N(-d_2) sullo strike, N(-d_1) sul sottostante.
+**Opzione:** In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)
+**Distrattori:**
+- In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(d_2) - S_tN(d_1)
+- Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1
+
+**D:** ⚠️ Quanto vale il Delta della put nella slide 3 della lezione 18, e come si lega al Delta della call?
+**R:** Slide 3, colonna «Put»: «Δ_{put} = N(d_1) - 1», accanto a «Δ_{call} = N(d_1)» nella colonna «Call». Il docente: «Sappiamo bene, perché le abbiamo derivate analiticamente nelle precedenti lezioni, che il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]). ⚠️ Il Delta della put è quello della call **meno 1**: con N(d_1) fra 0 e 1 è negativo, e il grafico della slide 5 va infatti da 0 a -1.
+**Opzione:** Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
+**Distrattori:**
+- Δ_{put} = 1 - N(d_1), cioè 1 meno il Delta della call
+- Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
+
+**D:** ⚠️ Che Gamma ha la put nella slide 3 della lezione 18, rispetto alla call?
+**R:** Lo stesso: la slide 3 scrive il Gamma **una volta sola**, in mezzo alle colonne «Call» e «Put», «Γ = N'(d_1)/(Sσ√(T-t))», con S e non S_t. Il docente: «Il gamma è uguale per la call e la put e questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante», cioè «il valore della densità in d_1, di normale, standardizzata, diviso S per sigma radice quadrata della time to maturity» (transcript [00:01:27]–[00:01:55]). È il Γ_C (102) della lezione 16, che scrive N'(d_1) · 1/(S_tσ√(T-t)). ⚠️ Il segno distingue i Delta, non i Gamma.
+**Opzione:** Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+**Distrattori:**
+- L'opposto della call: Γ = -N'(d_1)/(Sσ√(T-t)), con il segno meno per la put
+- Da 0 a -1, perché la put è il diritto di vendere un'azione: è meno un'azione
+- D=N(d1)
+
+**D:** Perché, per il docente della lezione 18, il Gamma è lo stesso per la call e per la put?
+**R:** Perché è la derivata seconda del prezzo al variare del sottostante: «il gamma è invariante perché va a studiare una sensitività di secondo ordine, quindi neutralizza l'effetto del segno implicito nella definizione di call e di put» (transcript [00:09:25]); già a [00:01:27]: «questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante». La slide 3 lo scrive infatti una sola volta, in mezzo alle due colonne. Il segno distingue invece i Delta: N(d_1) per la call, N(d_1) - 1 per la put.
+
+**D:** ⚠️ Come si scrive il Vega nella slide 3 della lezione 18, e vale anche per la put?
+**R:** «υ = S · N'(d_1)√(T-t)», dove υ è la v corsiva minuscola della slide, e con S invece di S_t. La slide lo scrive **una volta sola**, in mezzo alle colonne «Call» e «Put», come il Gamma. Il docente: «vega è s per la densità in d_1 per la radice quadrata della time to maturity» (transcript [00:01:55]); il grafico della slide 7 lo commenta per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). È la grandezza che la lezione 16 scrive 𝒱_C (104), S_tN'(d_1)√(T-t). ⚠️ C'è la **radice** di (T-t), non (T-t).
+**Opzione:** υ = S · N'(d_1)√(T-t), lo stesso per la call e per la put
+**Distrattori:**
+- υ = S · N'(d_1)(T-t), lo stesso per la call e per la put
+- dd1 / ds = dd2 /ds +(T-t)1/2
+
+**D:** ⚠️ La slide 3 della lezione 18 scrive Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2): di quale derivata del prezzo della call si tratta, secondo la lezione 16 e il test della lezione 18?
+**R:** Di ∂C/∂r, il **Rho** della call: è la (103) della slide 33 della lezione 16, «∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)», e il test della lezione 18 (domanda 5) chiama «Rho» la formula gemella della put. Il Theta della call della lezione 16 è un'altra formula, la (105): ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]. Il docente legge la slide 3 come theta: «il theta della call e della put a meno di una differenza di segno è dato dalla time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). Ma il grafico della slide 8, etichettato Θ_{call}, è tutto negativo, e (T-t)Ke^(-r(T-t))N(d_2), prodotto di fattori positivi, non può esserlo (deduzione): il grafico è il Theta, la formula è il Rho. ⚠️ All'esame conta il nome della domanda: «Rho» nel test, «Θ» nella slide 3.
+**Opzione:** Di ∂C/∂r: è il Rho della call, ρ_C (103)
+**Distrattori:**
+- Di ∂C/∂t: è il Theta della call, Θ_C (105)
+- Delta della call positivo, Delta della put negativo, Gamma positivo; fa eccezione il Theta della put, in parte positivo e in parte negativo
+- Dal time step 14, con il Delta a 0,999 e 999 azioni in magazzino; l'ultima azione si compra al time step 17
+
+**D:** ⚠️ Come si scrive il Rho della put, che la slide 3 della lezione 18 etichetta Θ_{put}?
+**R:** Slide 3, colonna «Put»: «Θ_{put} = -(T-t)Ke^(-r(T-t))N(-d_2)», accanto a «Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2)», che è il ρ_C (103) della lezione 16. Il test della lezione 18 (domanda 5) la chiama Rho: «r = - (T-t) K e-r(T-t) N(-d2)». Il docente: le due formule coincidono «a meno di una differenza di segno», con «n più o meno di 2» (transcript [00:01:55]). ⚠️ Rispetto alla call cambiano **due** cose: il meno davanti e N(-d_2) al posto di N(d_2).
+**Opzione:** -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
+**Distrattori:**
+- -(T-t)Ke^(-r(T-t))N(d_2): rispetto alla call cambia solo il meno davanti, con lo stesso N(d_2)
+- (T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call cambia solo N(-d_2) al posto di N(d_2), senza il meno davanti
+- (T-t)Ke^(-r(T-t))N(d_2): la stessa formula della call, senza il meno e con N(d_2)
+
+**D:** ⚠️ Quali greche della slide 3 della lezione 18 sono le stesse per call e put, e quali cambiano?
+**R:** La slide 3 scrive **una sola volta**, in mezzo alle due colonne, il Gamma, Γ = N'(d_1)/(Sσ√(T-t)), e il Vega, υ = S · N'(d_1)√(T-t). Cambiano il Delta, Δ_{call} = N(d_1) e Δ_{put} = N(d_1) - 1, e la formula etichettata Θ, che è il Rho della lezione 16 e del test: Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2), Θ_{put} = -(T-t)Ke^(-r(T-t))N(-d_2). Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]); il theta della call e della put differiscono «a meno di una differenza di segno» ([00:01:55]). Il test della lezione 18 lo conferma: le chiavi del Gamma e del Vega della put (domande 3 e 4) sono le formule della call.
+**Opzione:** Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
+**Distrattori:**
+- Uguali Delta e Gamma; cambiano il Vega e la formula etichettata Θ
+- Essere at the money: il Gamma raggiunge il picco at the money, dove è richiesta la maggiore copertura in compravendita di azioni
+- Da 0 a 1: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
+
+**D:** ⚠️ Al variare di quali grandezze rappresentano le greche i grafici tridimensionali delle slide 4–9 della lezione 18?
+**R:** Del sottostante S e della volatilità σ: i due assi del piano sono S e σ, ciascuno segnato «-» e «+». Il docente: il grafico «studia l'andamento del delta al variare del valore del sottostante fissato uno strike che pressappoco al centro di questo asse e al variare della volatilità», «fissato un certo orizzonte temporale» (transcript [00:04:15]); la rappresentazione tridimensionale mostra la dipendenza dalla moneyness «anche … in relazione ai livelli di volatilità» ([00:02:23]–[00:02:48]). I grafici sono sei: Δ_{call}, Δ_{put}, Γ, υ, Θ_{call} e Θ_{put}.
+**Opzione:** Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+**Distrattori:**
+- Del sottostante S e del tempo t, fissati la volatilità e uno strike circa al centro dell'asse di S
+- υ = S · N'(d_1)√(T-t), lo stesso per la call e per la put
+
+**D:** ⚠️ Fra quali valori varia Δ_{call} nel grafico della slide 4 della lezione 18, e che cosa rappresenta per il docente?
+**R:** Da 0 a 1: l'asse va da 0,10 a 1,00. Il docente: «la curva del delta che va da 0 a 1, cioè vuol dire che il numero di azioni che mi coprono o che io devo compravendere per coprirmi dall'esposizione su una call»; se la call è su un'azione, «io sono coperto con un'azione», e «se la call è out of the money io non ho bisogno di azioni e quindi il valore del delta sarà uguale a zero» (transcript [00:02:59]–[00:03:31]). ⚠️ È il Delta come numero di azioni della copertura, lo stesso della lezione 08.
+**Opzione:** Da 0 a 1: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
+**Distrattori:**
+- Da -1 a 0: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
+- Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+
+**D:** ⚠️ Come cambia la curva del Delta della call al variare della volatilità, nel grafico della slide 4 della lezione 18?
+**R:** Il docente: «più è alta la volatilità più la nostra curva prende una rappresentazione più morbida più fluida rispetto all'andamento del sottostante» (transcript [00:03:56]–[00:04:08]), perché «tanta più volatilità vuol dire che è più difficile identificare con certezza qual è il numero di azioni che io devo compravendere» ([00:04:34]). «Viceversa … a volatilità molto basse il delta tende ad attrarsi verso i due valori estremi» quando l'opzione non è più at the money: in the money con bassa volatilità «il delta è uno», out of the money resta «attratto verso lo zero» ([00:05:01]–[00:06:27]). ⚠️ Più volatilità, curva più morbida; meno volatilità, salto ripido fra 0 e 1.
+**Opzione:** Più alta la volatilità, più la curva è morbida; a volatilità molto basse il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
+**Distrattori:**
+- Più bassa la volatilità, più la curva è morbida; a volatilità molto alte il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
+- -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
+- Di ∂C/∂r: è il Rho della call, ρ_C (103)
+
+**D:** ⚠️ Fra quali valori varia Δ_{put} nel grafico della slide 5 della lezione 18, e perché per il docente?
+**R:** Da 0 a -1: l'asse va da -0,10 a -1,00, e la riga più alta, lo zero, non ha etichetta. Il docente: «La put va da 0 a meno 1 e anche questo non stupisce perché cos'è la put? La put rappresenta il diritto di poter vendere un'azione», mentre con la call «il delta va da 0 a 1, io compro un'azione. Qui io vendo un'azione, quindi è meno un'azione» (transcript [00:07:26]–[00:07:52]). La dinamica è «molto simile a quella della call»: più volatilità, più «dolce» il movimento da -1 a 0 ([00:07:57]–[00:08:15]). ⚠️ La put è un **diritto**, come nella lezione 05.
+**Opzione:** Da 0 a -1, perché la put è il diritto di vendere un'azione: è meno un'azione
+**Distrattori:**
+- Da 0 a -1, perché la put è l'obbligo di vendere un'azione: è meno un'azione
+- Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+
+**D:** ⚠️ Qual è per il docente della lezione 18 l'evento più problematico per un'opzione, e dove raggiunge il picco il Gamma (slide 6)?
+**R:** «L'evento più problematico è proprio essere at the money, perché quando tu sei at the money tu rischi in un attimo di trovarti a dover essere in the money e quindi dovevi coprirti da quel rischio, o essere out of the money e quindi che te le sei comprate a fare quelle azioni» (transcript [00:10:34]–[00:10:57]). «Quindi non è un caso che il picco verso l'alto del gamma si raggiunge relativamente al valore at the money, proprio perché quello è il punto dove viene richiesta maggiore copertura in termini di compravendita di azioni» ([00:11:06]–[00:11:16]). Nel grafico della slide 6 il picco più alto, a bassa volatilità, arriva alla fascia di colore più alta, fra 0,017 e 0,019. At the money ha il suo picco anche il Vega a bassa volatilità ([00:15:23]).
+**Opzione:** Essere at the money: il Gamma raggiunge il picco at the money, dove è richiesta la maggiore copertura in compravendita di azioni
+**Distrattori:**
+- Essere deep in the money: il Gamma raggiunge il picco deep in the money, dove è richiesta la maggiore copertura in compravendita di azioni
+- Di ∂C/∂r: è il Rho della call, ρ_C (103)
+- Si comprano 564 e 61 azioni, se ne vendono 57 e 118, se ne comprano 163 e 238, e al time step 6 nessuna
+
+**D:** ⚠️ Quali ordini di grandezza hanno Delta, Gamma e Vega nei grafici della lezione 18?
+**R:** Gli assi arrivano a 1,00 per Δ_{call} (slide 4), a 0,019 per il Gamma (slide 6) e a 24,00 per il Vega (slide 7). Il docente: sono grandezze di cui «una va da 0 a 1, l'altra un altro ordine di grandezza, di 0 virgola, l'altra addirittura in decine» (transcript [00:22:37]); per il vega l'ordine di grandezza è «molto maggiore e cento volte tanto rispetto al gamma» ([00:14:56]). Lo dice per introdurre l'additività: per gestire le greche di un portafoglio bisogna sommarle con i loro pesi. ⚠️ Gli assi danno un rapporto ben maggiore di cento: 24,00 contro 0,019.
+**Opzione:** Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
+**Distrattori:**
+- Delta da 0 a 1; Gamma fino a 24,00, in decine; Vega fino a 0,019, ordine di 0 virgola
+- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
+- Al tempo T=0 si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+
+**D:** ⚠️ A che cosa collega il docente della lezione 18 la deformazione del Gamma ad altissima volatilità (slide 6)?
+**R:** Alla diversa esposizione di call e put: «se siamo in presenza di elevatissima volatilità è chiaro che la circostanza di avere nel caso della call delle perdite infinite tende a deformare la rappresentazione grafica del nostro gamma», che spinge il valore più elevato dove non si è «esattamente at the money» ma «leggermente out of the money»; «al contraltare nel caso della put … le perdite sono finite perché con una put non si può mai perdere più del valore che va da 0 a K perché sotto lo 0 non si può andare» (transcript [00:12:56]–[00:13:40]). È l'argomento della lezione 05 sul rischio indefinito della short call e sul limite della short put. ⚠️ Poco prima il docente colloca la deformazione «nei casi in cui S sia maggiore di K» ([00:11:29]), che per la call è in the money, non out of the money.
+**Opzione:** Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+**Distrattori:**
+- Alle perdite infinite della put, mentre con una call non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+- Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre zero, perché la posizione in azioni neutralizza a ogni time step quella nelle call
+
+**D:** ⚠️ Come si comporta il Vega nel grafico della slide 7 della lezione 18, a bassa e ad alta volatilità?
+**R:** A volatilità estremamente bassa «l'andamento ha una attrazione verso lo zero abbastanza pronunciata e ha questo picco molto repentino nella opzionalità at the money» (transcript [00:14:56]–[00:15:23]); negli eventi estremi «ha poco senso avere una richiesta di contribuzione di vega perché sono già fuori o sono già dentro» ([00:16:03]). Al crescere della volatilità l'andamento si addolcisce, e «per la parte in cui S è maggiore di K … non andiamo a sfiorare lo zero come avveniva per volatilità molto basse, ma arriviamo a metà del valore massimo», «un valore 12 nel grafico per un livello di sigma particolarmente elevato» ([00:16:47]–[00:17:32]). Nel grafico l'asse arriva a 24,00, e lo spigolo dalla parte di S e σ alti sta sulla riga 12,00. Il motivo: una call deep in the money o una put deep out of the money, con tanta volatilità, possono tornare in una condizione diversa, ed è opportuno «mantenere una certa riserva di gestione del rischio» ([00:17:03]).
+**Opzione:** A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S maggiore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+**Distrattori:**
+- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S minore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+- Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
+- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Δ call Posit.; Azione e Δ: Stock to Buy/(Sell), Warehouse, Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
+
+**D:** ⚠️ Quali valori assume il grafico etichettato Θ_{call} nella slide 8 della lezione 18, e dove scende di più?
+**R:** Solo negativi: le etichette dell'asse vanno da -1,00 a -11,00. Il docente: per bassa volatilità «siamo nell'intorno dello zero, meno uno, ma se cresce la volatilità possiamo arrivare addirittura quando siamo at the money cioè in quella parte di mondo in cui basta poco per diventare out o in the money dove viene richiesto parecchio contributo di rischiosità» (transcript [00:19:32]–[00:19:48]); nel grafico il fondo della superficie, dalla parte della volatilità alta, è nella fascia di colore fra -9,00 e -11,00. Il theta della call «esprime la sensitività della time to maturity, perché il theta è il tempo» ([00:18:08]). ⚠️ Valori negativi sono compatibili con il Theta della lezione 16, Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)], non con la formula che la slide 3 scrive sotto Θ_{call}, (T-t)Ke^(-r(T-t))N(d_2), che è positiva (deduzione).
+**Opzione:** Solo negativi, da circa -1 a bassa volatilità fino verso -11 ad alta volatilità at the money
+**Distrattori:**
+- Solo positivi, da circa 1 a bassa volatilità fino verso 11 ad alta volatilità at the money
+- Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
+
+**D:** ⚠️ Con quale immagine spiega il docente della lezione 18 perché il Theta della call scende più rapidamente quando la volatilità è più alta?
+**R:** «Un'unità di tempo con una volatilità più elevata è come se io andassi a deformare il tempo. È come se io facessi durare quel tempo di più, perché quella maggiore volatilità consente a quella unità di tempo di dispiegare maggiori effetti sull'andamento del sottostante e quindi sull'andamento del prezzo dell'opzione» (transcript [00:18:56]–[00:19:32]). È «un elemento strutturale del theta»: per bassa volatilità «l'unità di tempo quello vale» ([00:19:32]).
+**Opzione:** Un'unità di tempo con volatilità più elevata è come se deformasse il tempo, facendolo durare di più: dispiega maggiori effetti sul sottostante e sul prezzo dell'opzione
+**Distrattori:**
+- Un'unità di tempo con volatilità più elevata è come se deformasse il tempo, facendolo durare di meno: dispiega minori effetti sul sottostante e sul prezzo dell'opzione
+- Tre mesi, 0,2500 anni, ripartiti su 20 time step da 0,0125: la vita residua scende da 0,2500 a 0,0000
+- Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano sullo stesso sottostante; cambia solo la ponderazione per il peso delle singole opzioni
+
+**D:** ⚠️ Che cosa ha di «curioso» il grafico del Theta della put nella slide 9 della lezione 18?
+**R:** Il docente: «non ha una monotonicità, nel senso che non è monotona crescente o decrescente, abbiamo addirittura poi la circostanza di poter avere dei valori negativi e dei valori positivi», quindi «non è neanche definita nel medesimo set dei numeri reali positivi o negativi come è stato finora per le greche che abbiamo studiato» (transcript [00:20:12]–[00:20:42]). Nel grafico le etichette vanno da -3,00 a 9,00, con il trattino dello zero in mezzo. ⚠️ Valori positivi non sono compatibili con la formula che la slide 3 scrive sotto Θ_{put}, -(T-t)Ke^(-r(T-t))N(-d_2), che è sempre negativa (deduzione): il grafico è il Theta, la formula è il Rho.
+**Opzione:** Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
+**Distrattori:**
+- È monotono decrescente e assume solo valori negativi, come il Theta della call: l'asse va da -11,00 a -1,00
+- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
+
+**D:** ⚠️ Quale segno hanno il Delta della call, il Delta della put e il Gamma per il docente della lezione 18, e quale greca fa eccezione?
+**R:** «Il delta è positivo della call, il delta della put è negativo, il gamma è positivo e così via. Qui invece abbiamo un theta che in parte è positivo e in parte è negativo» (transcript [00:20:55]–[00:21:03]): l'eccezione è il Theta della put. Il motivo: la put ha «un livello di perdite definito» o «un livello di guadagno definito», a seconda che sia venduta o comprata, mentre con una call «tu puoi guadagnare o perdere … indefinitamente»; si crea «questa deformazione intorno all'asse dello zero» ([00:21:28]–[00:21:56]).
+**Opzione:** Delta della call positivo, Delta della put negativo, Gamma positivo; fa eccezione il Theta della put, in parte positivo e in parte negativo
+**Distrattori:**
+- Delta della call positivo, Delta della put negativo, Gamma positivo; fa eccezione il Theta della call, in parte positivo e in parte negativo
+- Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
+
+**D:** ⚠️ Come si scrivono le greche di un portafoglio nella slide 10 della lezione 18?
+**R:** Slide 10, «Le Greche sono additive»: «Greche Portafoglio = ∑_i w_i Greche», con «∑_i w_i = 1». Il docente: «una grande proprietà delle greche è che le greche sono additive» (transcript [00:22:37]); calcolato il delta di ciascuna opzione, «la somma dei delta è uguale al delta finale di quel portafoglio l'unica cosa che cambierà è la ponderazione per il peso delle singole opzioni» ([00:23:24]). ⚠️ È una somma ponderata, con i pesi che sommano a 1.
+**Opzione:** Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1
+**Distrattori:**
+- Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 0
+- Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
+- df ≈ ΔdS + o(dt), un'espansione di Taylor al primo ordine
+
+**D:** ⚠️ A quali condizioni, per il docente della lezione 18, il Delta di un portafoglio di opzioni è la somma dei Delta delle singole opzioni?
+**R:** Calcolato il delta di ciascuna opzione, «ipotizzando che non ci siano correlazioni tra le medesime di nessuna natura, o meglio ancora, sono sullo stesso sottostante, perché altrimenti le cose un po' si complicano, noi possiamo dire che la somma dei delta è uguale al delta finale di quel portafoglio»; cambia solo «la ponderazione per il peso delle singole opzioni» (transcript [00:22:59]–[00:23:24]). È «un punto importante che consente certamente una facilità di determinazione quantitativa» ([00:23:50]), perché le greche delle singole opzioni hanno ordini di grandezza diversi ([00:22:37]). La slide 10 scrive Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1.
+**Opzione:** Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano sullo stesso sottostante; cambia solo la ponderazione per il peso delle singole opzioni
+**Distrattori:**
+- Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano su sottostanti diversi; cambia solo la ponderazione per il peso delle singole opzioni
+- Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
+- Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 150,0, deep in the money
+
+**D:** ⚠️ Su quale approssimazione si fonda il Δ hedging nella slide 11 della lezione 18?
+**R:** Slide 11, «Δ Hedging»: «Calcolo di df attraverso un'espansione della formula di Taylor al primo ordine», **df ≈ ΔdS + o(dt)**. Il docente: «Recuperiamo l'espansione della formula di Taylor al primo ordine e quindi andiamo a ipotizzare che df, cioè il differenziale del valore del nostro derivato f, viene definito dalla derivata prima per ds più un ordine di infinitesimo di delta t. E quindi noi diciamo che l'approssimazione del differenziale del valore di un'opzione è altro non è che delta per il differenziale del valore del corrispondente del sottostante» (transcript [00:24:10]–[00:24:24]). È «la prima modalità di hedging» del corso, il delta hedging ([00:23:59]). ⚠️ Primo ordine: compare il solo Δ, e il resto è o(dt).
+**Opzione:** df ≈ ΔdS + o(dt), un'espansione di Taylor al primo ordine
+**Distrattori:**
+- df ≈ ΔdS + o(dt), un'espansione di Taylor al secondo ordine
+- dp=rpdt
+- df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
+
+**D:** ⚠️ Come è impostato l'esempio di Δ hedging della slide 12 della lezione 18, e che cosa se ne sa già intuitivamente?
+**R:** Slide 12: «Δ Hedging — Al tempo T=0 vendi 1 call — Alla scadenza l'opzione è IN – the money». Il docente: «al tempo t uguale 0 vendo una call e alla scadenza ipotizziamo che l'opzione sia in the money» (transcript [00:24:46]); «Se io ho venduto una call e alla scadenza in the money, se io ho fatto una buona copertura di rischio, io avrò l'azione già nel mio portafoglio. E quindi sarò stato perfettamente coperto» ([00:25:09]–[00:25:18]). ⚠️ La call è **venduta**, non comprata; il foglio Excel della slide 13 ne vende mille.
+**Opzione:** Al tempo T=0 si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+**Distrattori:**
+- Al tempo T=0 si compra 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+- Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+- Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
+
+**D:** ⚠️ In quali blocchi è organizzato il foglio Excel «Short 1000 call on 1 stock» della slide 13 della lezione 18, e con quali colonne?
+**R:** Slide 13: un primo gruppo senza titolo con Time Step, Time to Expiration e STOCK PRICE; il blocco «Opzione e Δ» con Q. Opz., Δ call e Δ call Posit.; il blocco «Azione e Δ» con Stock to Buy/(Sell), Warehouse, Δ Stock e Δ Stock Posit.; il blocco «Δ Portfolio» con Total Δ position. Il docente: «nel primo gruppo questo tipo di informazione, nel secondo abbiamo l'opzione e il calcolo del delta, nel terzo blocco abbiamo l'azione e il calcolo del delta e nel quarto abbiamo il delta di portafoglio» (transcript [00:25:37]). Le parentesi tonde segnano il meno ([00:28:46]). ⚠️ Warehouse, il magazzino di azioni, sta nel blocco dell'azione.
+**Opzione:** Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Δ call Posit.; Azione e Δ: Stock to Buy/(Sell), Warehouse, Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
+**Distrattori:**
+- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Warehouse; Azione e Δ: Stock to Buy/(Sell), Δ call Posit., Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
+- -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
+
+**D:** ⚠️ Che orizzonte temporale e quanti time step ha il foglio Excel del Δ hedging nella lezione 18?
+**R:** Slide 13: Time to Expiration vale 0,2500 al time step 0 e scende di 0,0125 a ogni passo fino a 0,0000 al time step 20. Il docente: «creiamo il time step di questo quarto di anno», «il time step sono 20 step. Cosa abbiamo fatto quindi? Abbiamo preso tre mesi e li abbiamo ripartiti su 20 time step, su 20 mini orizzonti temporali, vi ricordate il delta N della nostra derivazione analitica del prezzo» (transcript [00:26:08]–[00:26:54]), cioè il Δ_n della soluzione asintotica (lezione 11). ⚠️ Il transcript ha anche «nella cella 0.5», ma la tabella parte da 0,2500.
+**Opzione:** Tre mesi, 0,2500 anni, ripartiti su 20 time step da 0,0125: la vita residua scende da 0,2500 a 0,0000
+**Distrattori:**
+- Sei mesi, 0,5000 anni, ripartiti su 20 time step da 0,0250: la vita residua scende da 0,5000 a 0,0000
+- Più alta la volatilità, più la curva è morbida; a volatilità molto basse il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
+- Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+
+**D:** ⚠️ Da quale prezzo parte e a quale arriva l'azione nell'esempio di Δ hedging della lezione 18, con strike 100?
+**R:** Slide 13, colonna STOCK PRICE: 100,0 al time step 0, poi 104,0, 100,4, 93,8, 103,3, 121,6, …, fino a 150,0 al time step 20. Il docente: un «andamento casuale» in cui «al time step 0 vale 100 il valore esatto dello strike e infatti quando parte questa è un'opzione con 3 mesi di vita e at the money», poi «fino al valore finale che diventa 150, essendo lo strike 100 vuol dire che questa era un'opzione … deep in the money» (transcript [00:27:06]–[00:27:50]). ⚠️ Lo strike 100 lo dice solo il docente: la tabella non ha una colonna K.
+**Opzione:** Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 150,0, deep in the money
+**Distrattori:**
+- Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 93,8, out of the money
+- In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)
+- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S maggiore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+
+**D:** ⚠️ Quanto vale il Delta della call al time step 0 nell'esempio della lezione 18, e quale posizione in Delta ne viene per le mille call vendute?
+**R:** Slide 13, time step 0: Δ call 0,564115961, Q. Opz. (1.000), Δ call Posit. (564), cioè -564. Il docente: «non mi stupisce che il delta N di 1 sia più o meno 0,5, cioè 56%, cioè a dire che siamo 50-50 le probabilità di vincere e di perdere», e «0,546 per mille opzioni col segno meno, quindi il delta della call è meno 564» (transcript [00:28:09]–[00:28:33]). ⚠️ «0,546» è un lapsus: la tabella ha 0,564, e la posizione è infatti -564. Le mille call restano costanti, perché «io non modifico il portafoglio opzionale» ([00:27:53]).
+**Opzione:** Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
+**Distrattori:**
+- Circa 0,546 (55%), quindi una posizione di -546 per le mille call vendute
+- Solo negativi, da circa -1 a bassa volatilità fino verso -11 ad alta volatilità at the money
+
+**D:** ⚠️ Quante azioni si comprano o si vendono nei time step da 0 a 6 dell'esempio di Δ hedging della lezione 18?
+**R:** Slide 13, colonna Stock to Buy/(Sell): 564 al time step 0, poi 61, (57), (118), 163, 238, e «-» al 6; la colonna Warehouse segue la posizione: 564, 625, 568, 450, 613, 851, 851. Il docente: le azioni da comprare o vendere sono «esattamente il valore del delta» ([00:29:22]–[00:29:27]); con -564 «dovrò comprare 564 azioni», poi «625 meno 564 cioè altre 61», poi «potrò vendere 57», «potrò vendere 118», «devo comprare 163», «dovrò comprare 238», e «quando sto di nuovo a 851 non devo compravendere nulla» (transcript [00:29:32]–[00:30:25]).
+**Opzione:** Si comprano 564 e 61 azioni, se ne vendono 57 e 118, se ne comprano 163 e 238, e al time step 6 nessuna
+**Distrattori:**
+- Si comprano 564 e 61 azioni, se ne vendono 57 e 118, se ne comprano 163, se ne vendono 238, e al time step 6 nessuna
+- Un'unità di tempo con volatilità più elevata è come se deformasse il tempo, facendolo durare di più: dispiega maggiori effetti sul sottostante e sul prezzo dell'opzione
+
+**D:** ⚠️ Da quando si esaurisce il valore dell'hedging nell'esempio della lezione 18, e in quale time step si compra l'ultima azione?
+**R:** Slide 13: al time step 14 l'azione vale 162,9, il Delta della call 0,999121066 e il magazzino ha 999 azioni; ai time step 15 e 16 non si compra nulla; al 17 si compra 1 azione e il magazzino arriva a 1.000; dal 18 al 20 nulla. Il docente: «a 162 euro del prezzo dell'azione, con uno strike di 100, l'opzione è talmente deep in the money che il delta è già pari a 1» ([00:30:48]–[00:30:58]); «dal tempo 14 al tempo 20 in realtà si è esaurito il valore di questo hedging» ([00:31:16]); «nel 17° time step io avrò comprato anche l'ultima azione rimanente» (transcript [00:31:33]).
+**Opzione:** Dal time step 14, con il Delta a 0,999 e 999 azioni in magazzino; l'ultima azione si compra al time step 17
+**Distrattori:**
+- Dal time step 17, con il Delta a 0,999 e 999 azioni in magazzino; l'ultima azione si compra al time step 14
+- Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
+
+**D:** ⚠️ Quanto valgono il Delta dell'azione e il Delta di portafoglio nell'esempio di Δ hedging della lezione 18, e perché?
+**R:** Slide 13: la colonna Δ Stock vale 1 a ogni riga, Δ Stock Posit. è uguale al Warehouse, e Total Δ position è «-», cioè zero, a ogni time step. Il docente: «Il delta dell'azione è 1, perché è la derivata prima» ([00:31:44]); il delta della posizione in azioni è «il magazzino di azioni per il suo delta» ([00:31:51]); «il delta di portafoglio è sempre zero» ([00:25:55]), «perfettamente neutrale perché la somma della colonna delta stock position e della colonna delta call position è perfettamente neutralizzata in presenza di ogni time step» (transcript [00:32:05]). Per il docente si costruisce così «un portafoglio risk neutral» ([00:32:21]).
+**Opzione:** Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre zero, perché la posizione in azioni neutralizza a ogni time step quella nelle call
+**Distrattori:**
+- Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre 1.000, perché la posizione in azioni si somma a ogni time step a quella nelle call
+- Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+
+**D:** ⚠️ Qual è il delta di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 1)?
+**R:** «**D=N(d1)-1**»: è la formula della slide 3, colonna «Put», Δ_{put} = N(d_1) - 1. Il docente: «il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]); il grafico della slide 5 va da 0 a -1: «La put va da 0 a meno 1» ([00:07:26]). Distrattori del test: sono le formule di altre greche della call. «D= StN'(d1) (T-t)1/2» è il Vega, υ = S · N'(d_1)√(T-t); «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, Γ = N'(d_1)/(Sσ√(T-t)); «D = (T-t) K e-r(T-t) N(d2)» è il Rho della call, la (103) della lezione 16, che la slide 3 scrive sotto Θ_{call}. ⚠️ La domanda non è che cos'è la formula, ma di quale greca e di quale opzione.
+**Opzione:** D=N(d1)-1
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Quanto vale il delta di una Call ITM alla scadenza nel modello di BSM, secondo il test della lezione 18 (domanda 2)?
+**R:** «**D=1**». È l'ultima riga della tabella della slide 13: al time step 20 la vita residua è 0,0000, l'azione vale 150,0 con strike 100, e il Delta della call è 1. Il docente: «al time step 20, dove io ho che 1 è il delta, perché l'opzione è deep in the money, e io ho quindi una posizione delta di meno 1000» (transcript [00:28:46]–[00:29:08]). Il grafico della slide 4 sale fino a 1,00, e «se siamo in the money e c'è bassa volatilità chiaro che il delta è uno» ([00:05:19]–[00:05:39]). Distrattori del test: «D= StN'(d1) (T-t)1/2» è il Vega, «D= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «D = (T-t) K e-r(T-t) N(d2)» il Rho della call; nessuno è un valore del Delta, e alla scadenza (T-t) vale zero.
+**Opzione:** D=1
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Qual è il Gamma di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 3)?
+**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «s» per σ e «(T-t)1/2» per √(T-t). La slide 3 scrive il Gamma una sola volta, per call e put: Γ = N'(d_1)/(Sσ√(T-t)); la piattaforma ha S_t, come la (102) della lezione 16. Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]), «il gamma è invariante perché va a studiare una sensitività di secondo ordine» ([00:09:25]). Distrattori del test: «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, «G=N(d1)» il Delta della call.
+**Opzione:** G= N'(d1) ∗ 1/sSt(T-t)1/2
+**Distrattori:**
+- G= StN'(d1) (T-t)1/2
+- G = (T-t) K e-r(T-t) N(d2)
+- G=N(d1)
+
+**D:** ⚠️ Qual è il Vega di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 4)?
+**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «(T-t)1/2» per √(T-t). La slide 3 scrive il Vega una sola volta, in mezzo alle colonne «Call» e «Put»: υ = S · N'(d_1)√(T-t), il 𝒱_C (104) della lezione 16. Il docente: «vega è s per la densità in d_1 per la radice quadrata della time to maturity» (transcript [00:01:55]); non dice in una frase che è uguale per call e put, ma commenta il grafico della slide 7 per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). Distrattori del test: «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, con S_t e la radice al denominatore; «Ʋ = (T-t) K e-r(T-t) N(d2)» il Rho della call; «Ʋ=N(d1)» il Delta della call.
+**Opzione:** Ʋ= StN'(d1) (T-t)1/2
+**Distrattori:**
+- Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2
+- Ʋ = (T-t) K e-r(T-t) N(d2)
+- Ʋ=N(d1)
+
+**D:** ⚠️ Qual è il Rho di una Call nel modello di BSM, secondo il test della lezione 18 (domanda 5)?
+**R:** «**r = - (T-t) K e-r(T-t) N(-d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: è la formula della **put**, che la slide 3 scrive nella colonna «Put», sotto Θ_{put}: -(T-t)Ke^(-r(T-t))N(-d_2). Il Rho della call è (T-t)Ke^(-r(T-t))N(d_2), la (103) della slide 33 della lezione 16 e il Θ_{call} della slide 3: nelle domande 1–4 dello stesso test è un distrattore, «(T-t) K e-r(T-t) N(d2)», e qui manca; nel test della lezione 17 la stessa domanda, parola per parola, ha proprio quella chiave. Il docente: il theta della call e della put, «a meno di una differenza di segno», è «la time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). ⚠️ Il test dice «Rho», come la lezione 16; la slide 3 e il docente dicono Θ. Distrattori del test: «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta della call. La B è l'unica formula di un Rho. Se la domanda torna corretta per la call, la risposta è «(T-t) K e-r(T-t) N(d2)».
+**Opzione:** r = - (T-t) K e-r(T-t) N(-d2)
+**Distrattori:**
+- r= StN'(d1) (T-t)1/2
+- r= N'(d1) ∗ 1/sSt(T-t)1/2
+- r=N(d1)
