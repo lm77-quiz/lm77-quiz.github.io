@@ -3819,3 +3819,288 @@
 - B_{jΔn}=(1+r_n)^(j+2)
 - u_{(j+n)Δn}=Bξ_{n,j+1}
 - dB_t=μW_tdt+σS_tW_t
+
+## Lezione 13 — Pricing 6 - Modello Black-Scholes-Merton Portafoglio di replicazione e Martingala
+
+**D:** ⚠️ Che cosa afferma il teorema della misura di martingala nel modello di Black-Scholes-Merton, secondo la lezione 13?
+**R:** Slide 3, «Teorema»: «Esiste una misura di Martingala p∗ equivalente a p per S∗, i.e. S∗ è una Martingala sotto la misura p∗. In altri termini una misura p∗ esiste tale che: E_{p∗}(S∗_u | S∗_t) = S∗_t», con u ≥ t («dove u ≥ t», nella dimostrazione della stessa slide). Il docente: il valore atteso di S al tempo u, «dove U è maggiore o uguale di T, condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente»; è «un importante teorema che servirà per le derivazioni del prezzo» della call europea (transcript [00:00:22]–[00:01:53]). ⚠️ La martingala è il processo **scontato** S∗, non S: sotto p∗ il processo S ha il drift r (slide 13). ⚠️ Si condiziona al tempo precedente t, e il risultato è S∗_t.
+**Opzione:** Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
+**Distrattori:**
+- Esiste una misura di martingala p∗ equivalente a p per S, cioè il processo non scontato S è una martingala sotto p∗: E_{p∗}(S_u | S_t) = S_t, con u ≥ t.
+- π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+
+**D:** ⚠️ Quale proprietà di S∗ permette, nella dimostrazione della lezione 13, di condizionare a S_t invece che alla filtrazione ℑ_t?
+**R:** Slide 3: «E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t) che è S∗ e soddisfa la proprietà di Markov; (W_u - W_t) ~ N(0, u - t) è il moto Browniano standard». Il docente: «la filtrazione in T non è altro che la filtrazione di S di T e poiché S star soddisfa la proprietà di Markov, cioè che il futuro è determinato dalla», «che il passato è irrilevante», e il differenziale del moto browniano fra u e t «è distribuito normale 0 ut» (transcript [00:02:30]–[00:03:26]). ⚠️ Qui la misura è p, non p∗, e si condiziona a S_t senza asterisco: è la scrittura che torna nel distrattore «Ep∗(Su∗|St)=Su∗» della domanda 1 del test.
+**Opzione:** La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+**Distrattori:**
+- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_0), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+- Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
+- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
+
+**D:** ⚠️ Quale quantità u_t definisce la lezione 13 prima del Doléans esponenziale del modello BSM?
+**R:** Slide 4: «La seguente quantità è definita: ((r - μ)/σ)W_t ≜ u_t». Il docente: «Questa quantità U di T non è altro che R men mu su sigma per il nostro moto browniano standard valorizzato al tempo T» (transcript [00:02:57]–[00:03:40]). ⚠️ Al numeratore c'è r - μ, il tasso meno il drift: il segno opposto al drift μ - r di S∗ (slide 3).
+**Opzione:** u_t ≜ ((r - μ)/σ)W_t
+**Distrattori:**
+- u_t ≜ ((μ - r)/σ)W_t
+- 1/u
+- ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+
+**D:** ⚠️ Come si scrive il Doléans esponenziale ε_t(u) nel modello BSM, secondo la lezione 13?
+**R:** Slide 4: «il Doléans esponenziale è dato da: ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)». Il docente: «Questo è il doleance esponenziale», «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t», una quantità che servirà ad applicare il teorema di Girsanov (transcript [00:03:40]–[00:04:24]). ⚠️ Il termine correttivo ha il segno meno, e il quadrato sta sul coefficiente (r - μ)/σ, moltiplicato per t. È la chiave della domanda 2 del test, dove la piattaforma scrive «et» per ε_t, «m» per μ e «s» per σ. Il deck scrive ε minuscola; la lezione 07 scrive ℰ_t(U).
+**Opzione:** ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
+**Distrattori:**
+- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t + (1/2)((r - μ)/σ)²t)
+- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
+- Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
+
+**D:** ⚠️ Come si calcola il valore atteso del Doléans esponenziale nel modello BSM, e quanto vale, secondo la lezione 13?
+**R:** Slide 5: E(ε_t(u)) = E(e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)) = e^(-(1/2)((r - μ)/σ)²t) E(e^(((r - μ)/σ)W_t)); «richiamando l'espressione della funzione generatrice dei momenti φ(t) di una variabile aleatoria normale X ~ N(μ, σ²), i.e.: φ(t) = E(e^(tX)) = e^(σ²t²/2 + μt) e dato che: W_u - W_t ~ N(0, u - t) si ottiene: E(ε_t(u)) = e^(-(1/2)((r - μ)/σ)²t) e^((1/2)((r - μ)/σ)²t) = 1». Il docente: «portando la costante fuori dal calcolo del valore atteso», e con la funzione generatrice dei momenti il valore atteso «non è altro che 1» (transcript [00:04:24]–[00:06:17]). ⚠️ Esce dal valore atteso la costante e^(-(1/2)((r - μ)/σ)²t), non il fattore con W_t, che è aleatorio. È la chiave della domanda 3 del test.
+**Opzione:** Si porta fuori la costante e^(-(1/2)((r - μ)/σ)²t) e si calcola E(e^(((r - μ)/σ)W_t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
+**Distrattori:**
+- Si porta fuori il fattore e^(((r - μ)/σ)W_t) e si calcola E(e^(-(1/2)((r - μ)/σ)²t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
+- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
+- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+
+**D:** ⚠️ Come definisce la lezione 13 la derivata di Radon-Nikodym nel modello BSM?
+**R:** Slide 6: «la derivata di radon-nikodým è di seguito definita: dP∗/dP = ε_t(u)»; la slide 7 la scrive per esteso, dP∗/dP = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t). Il docente: «Definiamo quindi la derivata di Radon-Nikodym come il rapporto» fra la misura P∗ e «dp, la misura originaria, uguale proprio al doleance esponenziale» (transcript [00:06:17]–[00:06:37]; il transcript scrive «Radonikodin»). ⚠️ È la derivata di P∗ rispetto a P, non il contrario, e il Doléans è valutato in t, ε_t(u), non in T. È la chiave della domanda 4 del test.
+**Opzione:** dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
+**Distrattori:**
+- dP/dP∗ = ε_t(u): la derivata della misura originaria P rispetto alla misura P∗ è il Doléans esponenziale.
+- X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
+- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
+
+**D:** ⚠️ Quali due condizioni richiama il teorema di Girsanov nel modello BSM, secondo la lezione 13?
+**R:** Slide 7: «Il Teorema di Girsanov afferma che 1. W_t è un moto Browniano standard 2. E(ε_t(u)) = 1 allora il cambio di probabilità di misura definito da: dP∗/dP = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t) è tale che» W∗_t è un moto browniano standard sotto p∗. Il docente: «se v è un moto browniano standard e il valore atteso del doleans esponenziale è uguale a 1, allora il cambio di probabilità di misura» (transcript [00:06:37]–[00:07:09]). ⚠️ La seconda condizione è il risultato della slide 5: per questo il deck calcola prima il valore atteso.
+**Opzione:** 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
+**Distrattori:**
+- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 0.
+- dS_t = rS_t dt + σS_t dW∗_t
+- ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+
+**D:** ⚠️ Quale processo è un moto browniano standard sotto p∗ per il teorema di Girsanov nel modello BSM, e come si scrive in termini differenziali, secondo la lezione 13?
+**R:** Slide 7: il cambio di misura «è tale che: W∗_t = W_t - ((r - μ)/σ)t è un moto Browniano standard sotto la misura p∗. In termini differenziali: dW∗_t = dW_t - ((r - μ)/σ)dt». Il docente: «un nuovo moto browniano standard vt star» che «è uguale al moto browniano originario vt meno r meno mu su sigma t»; in termini differenziali «dv C star è uguale a dv meno r meno su sigma dt» (transcript [00:07:09]–[00:07:41]). ⚠️ Il segno è meno. Sostituito nella (58), dW_t = dW∗_t + ((r - μ)/σ)dt toglie il drift di S∗ (slide 8).
+**Opzione:** W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+**Distrattori:**
+- W∗_t = W_t + ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t + ((r - μ)/σ)dt.
+- X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
+- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
+
+**D:** ⚠️ Quale SDE governa il processo scontato S∗ sotto la misura p∗ nel modello BSM (formula (61) della lezione 13)?
+**R:** Slide 8: «Sostituendo dW_t all'interno della (58), si ottiene: dS∗_t = (μ - r)S∗_t dt + σS∗_t (dW∗_t + ((r - μ)/σ)dt) =», espandendo e semplificando «= μS∗_t dt - rS∗_t dt + σS∗_t dW_t + S∗_t rdt - S∗_t μdt = σS∗_t dW∗_t», e quindi «dS∗_t = σS∗_t dW∗_t (61)». Il docente: «ci siamo di fatto disfatti del drift dell'equazione differenziale stocastica precedente ottenendo dS star uguale sigma S star dW star» (transcript [00:07:41]–[00:08:38]). ⚠️ Sotto p∗ S∗ non ha drift; la SDE con il drift r è quella di S, la (63) (slide 13). ⚠️ Nelle righe intermedie la slide scrive σS∗_t dW_t dove serve dW∗_t: l'ultima riga e la (61) hanno dW∗_t.
+**Opzione:** dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
+**Distrattori:**
+- dS∗_t = rS∗_t dt + σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt diventa rS∗_t dt.
+- dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
+- π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+
+**D:** Che cosa significa, intuitivamente, la scomparsa del drift nella SDE di S∗ sotto p∗, secondo il docente della lezione 13?
+**R:** «Intuitivamente, essendo S star quindi il processo scontato di S, è come se il drift che rappresentava l'evoluzione in qualche modo della componente deterministica fosse assorbito all'interno del processo scontato» (transcript [00:08:38]–[00:09:00]). È solo nel transcript: la slide 8 si limita al calcolo che porta alla (61), dS∗_t = σS∗_t dW∗_t.
+
+**D:** ⚠️ Qual è la soluzione della SDE di S∗ sotto p∗ nel modello BSM (formula (62) della lezione 13)?
+**R:** Slide 9: «La soluzione dell'equazione differenziale stocastica, per analogia con la soluzione (50), è ∀u ≥ t: S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t) (62)». Il docente: «per analogia è sempre un random walk esponenziale dove manca la componente drift che avevamo derivato prima» (transcript [00:09:00]–[00:09:27]). ⚠️ Nell'esponente resta solo -(σ²/2)dt: rispetto alla soluzione dell'ipotesi della slide 3, S∗_t · e^((μ-r-σ²/2)dt+σdW_t), sparisce μ - r e dW_t diventa dW∗_t.
+**Opzione:** S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), ∀u ≥ t
+**Distrattori:**
+- S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW∗_t), ∀u ≥ t
+- u_t ≜ ((r - μ)/σ)W_t
+- φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+
+**D:** ⚠️ Che cosa resta da verificare, nella dimostrazione della lezione 13 che S∗ è una martingala sotto p∗, dopo aver portato S∗_t fuori dal valore atteso e averlo semplificato?
+**R:** Slide 10: sostituita la (62), «Dato che S∗_t è adattato a sè stesso: S∗_t E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) ≟ S∗_t». Slide 11: «semplificando: E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) ≟ 1 in termini differenziali: E_{p∗}(e^(-(σ²/2)(u - t) + σ(W∗_u - W∗_t)) | S∗_t) ≟ 1», e con la costante fuori, e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) ≟ 1. Il docente: «dato che S di T star è adattato a se stesso, possiamo portarlo fuori dal valore atteso. Dopodiché siamo nelle condizioni di semplificare S di T star»; poi «Portiamo fuori l'elemento invariante rispetto al valore atteso» (transcript [00:09:48]–[00:10:24]). ⚠️ Semplificato S∗_t, il secondo membro è 1, non S∗_t.
+**Opzione:** Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
+**Distrattori:**
+- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = S∗_t, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = S∗_t.
+- Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+- W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+
+**D:** ⚠️ Con quale proprietà e con quale uguaglianza si chiude la dimostrazione della lezione 13 che S∗ è una martingala sotto p∗?
+**R:** Slide 12: «Per la proprietà di indipendenza di (W∗_u - W∗_t) si ottiene: E_{p∗}(e^(σ(W∗_u - W∗_t))) ≟ e^((σ²/2)(u - t))»; con la funzione generatrice dei momenti φ(t) = E(e^(tX)) = e^(σ²t²/2 + μt) e con W_u - W_t ~ N(0, u - t) «si ottiene: e^((σ²/2)(u - t)) = e^((σ²/2)(u - t)). Q.E.D.». Il docente: «Utilizziamo le proprietà di indipendenza del differenziale di due moti standard» e «Ancora una volta ci viene in soccorso la funzione generatrice dei momenti» (transcript [00:10:24]–[00:11:10]). ⚠️ Per l'indipendenza il condizionamento a S∗_t sparisce; l'esponente ha il segno più e compensa la costante e^(-(σ²/2)(u - t)) della slide 11.
+**Opzione:** Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
+**Distrattori:**
+- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^(-(σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
+- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+
+**D:** ⚠️ Quale SDE governa la dinamica di S sotto la misura p∗ nel modello BSM, secondo il teorema (63) della lezione 13?
+**R:** Slide 13, «Teorema»: «L'equazione differenziale stocastica che governa la dinamica di S sotto la misura p∗ ha la forma seguente: dS_t = rS_t dt + σS_t dW∗_t (63)». Il docente: «derivare l'equazione differenziale stocastica non per il processo scontato, ma per il processo S sotto la misura di probabilità P star, dS uguale RS dt più sigma S dW star» (transcript [00:11:28]–[00:11:52]). ⚠️ Sotto p∗ il drift è r, il tasso d'interesse, non μ; la diffusione σ resta la stessa. È la chiave della domanda 5 del test, che scrive «s» per σ e «Wt∗» senza la d.
+**Opzione:** dS_t = rS_t dt + σS_t dW∗_t
+**Distrattori:**
+- dS_t = μS_t dt + σS_t dW∗_t
+- u_nS_0 e d_nS_0
+- φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+
+**D:** ⚠️ Da quale derivata parte la dimostrazione della SDE di S sotto p∗ nella lezione 13, e che cosa si ottiene richiamando la (61)?
+**R:** Slide 13: «richiamando la definizione di S∗_t e calcolando le derivate: dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t richiamando l'espressione (61): σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t». Slide 14–15: sostituendo dS_t = μS_t dt + σS_t dW_t e S∗_t = S_t/B_t e semplificando 1/B_t, rS_t dt + σS_t dW∗_t = μS_t dt + σS_t dW_t, e «riconoscendo la definizione di dS_t: rS_t dt + σS_t dW∗_t = dS_t Q.E.D.». Il docente: «ds star non è altro che ds su b, che è uguale a s di t per 1 su bt più 1 su bt per ds di t» (transcript [00:11:52]–[00:12:55]; nel transcript manca la d di d(1/B_t)). ⚠️ d(1/B_t) = -(r/B_t)dt: il segno meno viene dallo sconto.
+**Opzione:** dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
+**Distrattori:**
+- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t((r/B_t)dt) + (1/B_t)dS_t.
+- Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
+- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+
+**D:** ⚠️ Che cosa dice, per il docente della lezione 13, l'uguaglianza rS_t dt + σS_t dW∗_t = μS_t dt + σS_t dW_t?
+**R:** Slide 14–15: è l'ultimo passaggio prima della (63). Il docente: «Il lato destro dice che la dinamica del sottostante è data da un drift mu e da una diffusione sigma sotto una certa misura di probabilità P. Il lato di sinistra invece dice che possiamo avere la medesima conoscibilità in termini probabilistici» del sottostante «avendo due parametri diversi sotto un'altra misura di probabilità», r, «che è il tasso di interesse ed è osservabile sul mercato, e sigma», «in genere osservabile» sul mercato; con il Doléans esponenziale e la derivata di Radon-Nikodym «siamo riusciti a portare la dinamica del sottostante in un regime parametrico noto» (transcript [00:13:17]–[00:14:16]). L'interpretazione è solo nel transcript. ⚠️ μ sta sotto P, r sotto P∗.
+**Opzione:** Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+**Distrattori:**
+- Che la dinamica di S, con drift r e diffusione σ sotto P, si descrive sotto P∗ con μ, il drift osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+- C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+
+**D:** ⚠️ Come è distribuito ln S_t sotto la misura p∗ nel modello BSM, secondo il corollario della lezione 13?
+**R:** Slide 16, «Corollario»: «La distribuzione di probabilità di ln S_t sotto la misura p∗ è rappresentata nella forma seguente: ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))»; la slide scrive ∽. Il docente: la distribuzione «del rendimento logaritmico o comunque del logaritmo del sottostante sotto la misura di probabilità P star», con media il logaritmo di S più (r - σ²/2)(t - s) «e sigma radice di T meno S come diffusione» (transcript [00:14:28]–[00:15:01]; il transcript ha «più R per sigma quadro mezzi»). ⚠️ Nella media c'è r, non μ: è la (63) portata sul logaritmo. Il secondo parametro è σ√(t - s).
+**Opzione:** ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+**Distrattori:**
+- ln S_t ~ N(ln S_s + (μ - σ²/2)(t - s), σ√(t - s))
+- u_t ≜ ((r - μ)/σ)W_t
+- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
+
+**D:** ⚠️ Che cosa afferma il teorema su V∗ nel modello BSM della lezione 13, e su quale espressione si fonda la dimostrazione?
+**R:** Slide 17, «Teorema»: «V∗ è una Martingala sotto la misura di Martingala p∗, sotto la quale anche S∗ è una Martingala». Slide 18: «Riarrangiando l'equazione (60) in forma differenziale: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) poichè P{∫_0^t |φ^1_u|² dS∗_u < ∞} = 1 allora l'integrale stocastico converge nello spazio L_2. Dato che ogni integrale stocastico convergente è una Martingala, allora V∗ è una martingala sotto la misura p∗. Q.E.D.». Il docente: «Il valore del portafoglio in termini scontati V star anch'esso è una martingala»; «La dimostrazione è abbastanza semplice» (transcript [00:15:01]–[00:16:13]). ⚠️ Nella (64) compare solo il sottostante scontato, φ^1_u dS∗_u.
+**Opzione:** V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+**Distrattori:**
+- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^2_u dB_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
+- dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
+
+**D:** ⚠️ Come si scrive nel modello BSM il prezzo in assenza di arbitraggio π_t(X) di un derivato X che ha un portafoglio di replicazione (formula (65) della lezione 13)?
+**R:** Slide 19: «Dato un prodotto derivato X che ha un portafoglio di replicazione, il prezzo del derivato in presenza di non-arbitraggio π_t(X) è una p∗- martingala, i.e.: π_0(X) = E_{P∗}(X∗ | ℑ_0) Ad un tempo generico t: π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t) (65)». La slide 21 la richiama come la definizione «di un generico derivato sotto la misura risk-neutral P∗». Il docente: π di t «non è altro che B di T, il processo del valore finanziario del tempo che moltiplica il valore atteso sotto la misura P star di X su B T grande condizionato alla nostra informazione al tempo T» (transcript [00:16:44]–[00:17:06]). ⚠️ Il pay-off si sconta con B_T^(-1) e si moltiplica per B_t. ⚠️ Per il docente π(X) è il portafoglio di replicazione ([00:16:13]); per la slide è il prezzo del derivato.
+**Opzione:** π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+**Distrattori:**
+- π_t(X) = B_t^(-1) E_{P∗}(B_T X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
+- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+
+**D:** ⚠️ Che cosa si ottiene specificando la (65) per il pay-off della call nel modello BSM (formula (67) della lezione 13)?
+**R:** Slide 22–23: «specificando per il pay-off della Call: X = max[S_T - K, 0] = π_t(X) = C_t(S_t, t) B_t = e^(∫_0^t r_s ds) quindi: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t) (67)». Il docente: si sostituisce a X «il suo valore intrinseco» e a π(X) «c di t, s di t di t, cioè la nostra call»; il processo del valore finanziario del tempo «non è altro che la funzione esponenziale dell'integrale tra 0 e t piccolo di rs in ds» (transcript [00:18:33]–[00:19:49]). ⚠️ Lo sconto va da t a T: B_t · B_T^(-1) = e^(-∫_t^T r_s ds), passaggio che la slide sottintende.
+**Opzione:** Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+**Distrattori:**
+- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_0^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
+
+**D:** ⚠️ Come trasforma la funzione indicatrice la (67) nella (68), nel prezzo della call della lezione 13?
+**R:** Slide 24: «utilizzando le proprietà della funzione indicatrice 𝟙_(S_T≥K) = 1 se S_T ≥ K, 0 se S_T < K, l'espressione (67) si trasforma nella: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t) (68)». Il docente: «il prezzo della call è il nostro processo scontato per il valore atteso del valore intrinseco per la funzione indicatrice, sempre condizionato alle informazioni in t piccolo» (transcript [00:19:49]–[00:20:21]). ⚠️ L'indicatrice vale 1 quando S_T ≥ K, cioè quando il pay-off è positivo, e prende il posto della funzione di massimo.
+**Opzione:** Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
+**Distrattori:**
+- Con 𝟙_(S_T<K) = 1 se S_T < K e 0 se S_T ≥ K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T<K) | ℑ_t).
+- Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
+- Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+
+**D:** ⚠️ Come si scrive il prezzo al tempo t della call europea standard in forma esplicita nel modello BSM (formula (66) della lezione 13)?
+**R:** Slide 20, «Proposizione»: «Dato il pay-off di una Call europea standard, i.e.: C_T = max[S_T - K, 0] Il prezzo al tempo t della Call è rappresentato nella seguente forma esplicita: C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T (66) dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T». Slide 25–26: per la definizione di valore atteso condizionale e per «una proprietà elementare della funzione indicatrice», l'integrale da -∞ a ∞ di 𝟙_(S_T≥K)(S_T - K) f̃(S_T, T | ℑ_t) dS_T diventa quello da K a ∞, e «la tesi risulta dimostrata». Il docente: «l'esponenziale di meno integrale tra t piccolo e t grande di rs in ds», «per l'integrale tra k, lo strike, e infinito» (transcript [00:17:49]–[00:18:33], [00:20:21]–[00:21:19]). ⚠️ L'integrale parte dallo strike K: sotto K il pay-off della call è nullo.
+**Opzione:** C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+**Distrattori:**
+- C_t = e^(-∫_t^T r_s ds) · ∫_{-∞}^K (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
+- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+
+**D:** ⚠️ Che cosa afferma la proposizione sul portafoglio di replicazione della call europea nel modello BSM, secondo la lezione 13?
+**R:** Slide 27, «Proposizione»: «Dato il pay-off di una Call europea standard, esiste un portafoglio di replicazione autofinanziante che è una Martingala sotto la misura p∗ del processo S∗». Il docente: «Dato il payoff di una colla europea standard esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura P-STAR del processo S-STAR» (transcript [00:21:19]–[00:21:46]). ⚠️ Martingala sotto p∗, la misura sotto cui S∗ è una martingala (slide 3), non sotto la misura originaria p.
+**Opzione:** Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
+**Distrattori:**
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura originaria p del processo S∗.
+- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
+- C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+
+**D:** ⚠️ In quali tre parti è divisa la dimostrazione della proposizione sul portafoglio di replicazione della call nel modello BSM, secondo la lezione 13?
+**R:** Slide 27: «La dimostrazione è divisa in tre parti: a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante;». Il docente: «La dimostrazione qui è un pochino articolata e va divisa in tre parti» (transcript [00:21:46]–[00:22:14]). ⚠️ La parte c vale ∀t ∈ [0,T] (slide 36), non soltanto alla scadenza.
+**Opzione:** a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
+**Distrattori:**
+- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante soltanto alla scadenza T.
+- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+- Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+
+**D:** ⚠️ Come si dimostra nel modello BSM che il pay-off scontato della call è una martingala sotto p∗ (parte a della dimostrazione della lezione 13)?
+**R:** Slide 28: «Dato il pay-off di una Call europea: X_T = (S_T - K)^+ Il pay-off scontato è definito come: X∗_T = (S_T - K)^+/B_T». Slide 29: «Sia: X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69) dove h_u è tale che P{∫_0^t |h_u|² dS∗_u < ∞} = 1, allora l'integrale stocastico converge nello spazio L_2. Dato che ogni integrale stocastico convergente è una Martingala, allora X è una Martingala sotto la misura p∗. Q.E.D.». Il docente: «poiché ogni integrale stocastico che converge è una martingala, x è certamente una martingala sotto la misura di probabilità P star» (transcript [00:22:14]–[00:23:10]). ⚠️ Il pay-off si sconta dividendo per B_T. È lo stesso argomento della (64) per V∗ (slide 18).
+**Opzione:** X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
+**Distrattori:**
+- X∗_T = (S_T - K)^+ · B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
+- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
+- Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
+
+**D:** ⚠️ Che cosa garantisce il teorema di rappresentazione della martingala nella parte b della dimostrazione della lezione 13?
+**R:** Slide 30: «Se X∗· è una Martingala, allora: E_{p∗}X∗_T = E_{p∗}X∗_0 = X∗_0, così l'espressione (69) può essere riscritta come: X∗_T = E_{p∗}X∗_T + ∫_0^T h_u dS∗_u»; con la (61), X∗_T = E_{p∗}X∗_T + ∫_0^T h_u σS∗_t dW∗_t. Slide 31: «Sfruttando il teorema di rappresentazione della Martingala, se X∗ è una Martingala convergente nello spazio L_2, allora esiste un unico processo predicibile θ_u = h_u σS∗_u convergente nello spazio L_2, tale che: X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t». Il docente: «esiste un unico processo predicibile θ di U uguale HU sigma SU star che converge nello spazio L2» (transcript [00:23:10]–[00:24:28]; il transcript scrive «tema di rappresentazione»). ⚠️ θ_u è il prodotto h_u σS∗_u, che viene da dS∗_u = σS∗_u dW∗_u, la (61).
+**Opzione:** Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+**Distrattori:**
+- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u/(σS∗_u), convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+- Si porta fuori la costante e^(-(1/2)((r - μ)/σ)²t) e si calcola E(e^(((r - μ)/σ)W_t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
+- Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+
+**D:** ⚠️ A quale condizione la (64) coincide con la (69), e che cosa ne segue, nella dimostrazione della lezione 13?
+**R:** Slide 32: «In sintesi: X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_u; X∗_T = E_{p∗}X∗_T + ∫_0^T h_u dS∗_u; X∗_T = X∗_0 + ∫_0^T h_u dS∗_u», le tre righe della (70); «Se φ^1_u = h_u, allora l'espressione (64) coincide con la (69), il che vuol dire che esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato». ⚠️ Il transcript dice «Se allora FDU non è uguale ad HU, allora l'espressione 64 coincide con 69» ([00:25:03]): è il contrario della slide. Vale la slide: la (64) è V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u, la (69) è X∗_T = X∗_0 + ∫_0^T h_u dS∗_u, e coincidono quando gli integrandi sono uguali.
+**Opzione:** Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+**Distrattori:**
+- Se φ^1_u ≠ h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+- Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
+- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+
+**D:** ⚠️ Quale forma esplicita assume nel modello BSM il portafoglio di replicazione della call (formula (71) della lezione 13)?
+**R:** Slide 33: «Si determina ora il portafoglio di replicazione della call φ_t. A questo fine si richiama l'espressione (48), i.e.: V_t = φ^1_t S_t + φ^2_t B_t (48)». Slide 34–35: «sostituendo φ^1_t = h_t V_t = h_t S_t + φ^2_t B_t φ^2_t è determinato: φ^2_t = (V_t - φ^1_t S_t)/B_t Utilizzando le definizioni di V∗_t e S∗_t si ottiene: φ^2_t = V∗_t - φ^1_t S∗_t Quindi un portafoglio di replicazione unico esiste ed assume la seguente forma esplicita: φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t) (71)». Il docente: «Φ2 è determinato quindi come VT meno Φ di 1 TST diviso BT», e con le definizioni di V star e S star «Φ2 è uguale a VT star meno Φ1ST star» (transcript [00:25:21]–[00:26:15]). ⚠️ In φ^2_t ci sono le grandezze scontate V∗_t e S∗_t: V_t - h_t S_t va ancora diviso per B_t.
+**Opzione:** φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+**Distrattori:**
+- φ_t = (φ^1_t, φ^2_t) = (h_t, V_t - h_t S_t)
+- S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), ∀u ≥ t
+- dS_t = rS_t dt + σS_t dW∗_t
+
+**D:** ⚠️ Quanto vale il lato destro φ^1_t dS_t + φ^2_t dB_t con la strategia (71), nel modello BSM della lezione 13 (formula (72))?
+**R:** Slide 38: «Nel lato destro, sostituendo la strategia (71), si ottiene: RHS = φ^1_t dS_t + φ^2_t dB_t = h_t dS_t + (V∗_t - h_t S∗_t) dB_t utilizzando la relazione riportata nell'espressione (54), i.e.: dB_t = rB_t dt si ottiene: RHS = h_t dS_t + (V_t - h_t S_t) rdt (72)». Il docente: «Nel lato destro sostituiamo la strategia 71», poi con «il processo che definisce il valore finanziario del tempo» l'espressione diventa «ht dst più vt meno ht st rdt» (transcript [00:26:48]–[00:27:29]). ⚠️ Con dB_t = rB_t dt il fattore B_t riporta V∗_t e S∗_t a V_t e S_t.
+**Opzione:** RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
+**Distrattori:**
+- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V∗_t - h_t S∗_t) rdt.
+- dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
+- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+
+**D:** ⚠️ Da quale scrittura di V_t parte lo studio del lato sinistro dV_t(φ), e con quale regola si sviluppa, nella lezione 13?
+**R:** Slide 39: «Il lato sinistro, dato che V_t = B_t V∗_t si trasforma in: dV_t(φ) = d(B_t V∗_t) La regola di Leibniz si applica al fine di ottenere che:». Slide 40: «LHS = B_t dV∗_t + V∗_t dB_t»; con dB_t = rB_t dt (54), «= B_t dV∗_t + V∗_t rB_t dt»; con la (60) e la definizione di V∗_t, «= B_t φ^1_t dS∗_t + V_t rdt»; con la definizione di S∗_t, «= B_t φ^1_t d(S_t/B_t) + V_t rdt». Il docente: «dato che vt non è altro che bt vt star», «Applichiamo quindi la regola di Leibniz» (transcript [00:27:29]–[00:28:20]). ⚠️ V_t = B_t V∗_t: il valore è il valore scontato moltiplicato per B_t.
+**Opzione:** Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
+**Distrattori:**
+- Da V_t = V∗_t/B_t, quindi dV_t(φ) = d(V∗_t/B_t); la regola di Leibniz dà LHS = (1/B_t)dV∗_t + V∗_t d(1/B_t).
+- dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
+- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
+
+**D:** ⚠️ Come si chiude, nella lezione 13, la dimostrazione che la strategia φ_t è autofinanziante?
+**R:** Slide 41: «La regola di Leibniz si applica al fine di ottenere che: = B_t φ^1_t((1/B_t)dS_t + S_t d(1/B_t)) + V_t rdt moltiplicando: = φ^1_t dS_t + φ^1_t S_t B_t(-r(1/B_t)dt) + V_t rdt sostituendo la strategia (71), il lato sinistro si trasforma nella: = h_t dS_t - h_t S_t rdt + V_t rdt quindi: LHS = h_t dS_t + (V_t - h_t S_t) rdt (73)». Slide 42: «Notando che (73) è uguale a (72), si può affermare che la strategia φ_t è autofinanziante. Q.E.D.». Il docente: «Riapplichiamo quindi la regola di Leibniz»; l'espressione, «guarda caso», è uguale «a quella precedente riportata nella 72 e quindi la strategia» è «assolutamente autofinanziante» (transcript [00:28:20]–[00:29:16]). ⚠️ La regola di Leibniz si applica due volte, a d(B_t V∗_t) e a d(S_t/B_t).
+**Opzione:** Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+**Distrattori:**
+- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t + h_t S_t) rdt (73), diverso dalla (72): la strategia φ_t non è autofinanziante.
+- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
+- W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+
+**D:** ⚠️ Che cosa vale per il processo scontato S∗ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 1)?
+**R:** «**Ep∗(Su∗|St∗)=St∗**». È il teorema della slide 3, E_{p∗}(S∗_u | S∗_t) = S∗_t con u ≥ t, dimostrato nelle slide 10–12. Il docente: il valore atteso di S∗ al tempo u, «condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente» (transcript [00:00:42]–[00:01:32]). Distrattori del test: «Ep∗(Su∗|St∗)=Su∗» dà come risultato la stessa variabile di cui si prende l'attesa, come se S∗_u fosse già noto al tempo t; «Ep∗(Su∗|St)=Su∗» condiziona a S_t, come la riga della proprietà di Markov della slide 3, E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), ma sbaglia il risultato; «Ep∗(St|St)=Su∗» si contraddice da sola, perché S_t è adattato a sé stesso e il suo valore atteso condizionato a S_t è S_t (deduzione, non scritta sulle slide). Il risultato giusto è S∗_t, il valore al tempo precedente.
+**Opzione:** Ep∗(Su∗|St∗)=St∗
+**Distrattori:**
+- Ep∗(Su∗|St∗)=Su∗
+- Ep∗(Su∗|St)=Su∗
+- Ep∗(St|St)=Su∗
+
+**D:** ⚠️ Come è definito il Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 2)?
+**R:** «**et [(r-m)/s)Wt] = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]**». Nella resa piatta della piattaforma «et» è ε_t, «m» è μ, «s» è σ e «)2» è il quadrato: è la slide 4, ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t). Il docente: «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t» (transcript [00:03:48]). Distrattori del test: tutti cambiano soltanto il termine correttivo, con «+» al posto di «-», con «/» al posto di «-», oppure togliendolo del tutto. ⚠️ Con il meno il valore atteso è 1 (slide 5), la seconda condizione del teorema di Girsanov (slide 7).
+**Opzione:** et [(r-m)/s)Wt] = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]
+**Distrattori:**
+- et [(r-m)/s)Wt] = exp[(r-m)/sWt) + 1/2 (r-m)/s)2 t]
+- et [(r-m)/s)Wt] = exp[(r-m)/sWt) / 1/2 (r-m)/s)2 t]
+- et [(r-m)/s)Wt] = exp[(r-m)/sWt)]
+
+**D:** ⚠️ Quanto vale il valore atteso del Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 3)?
+**R:** «**E{et [(r-m)/s)Wt]} = 1**». È la slide 5: E(ε_t(u)) = e^(-(1/2)((r - μ)/σ)²t) e^((1/2)((r - μ)/σ)²t) = 1, ricavato con la funzione generatrice dei momenti della normale; la slide 7 lo pone come seconda condizione del teorema di Girsanov. Il docente: il valore atteso del doleans esponenziale «non è altro che 1» (transcript [00:05:45]). Distrattori del test: «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]» è la chiave della domanda 2, cioè la definizione di ε_t al posto del suo valore atteso; «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) ]» toglie il termine correttivo e lascia una quantità che dipende da W_t, quindi aleatoria; «E{et [(r-m)/s)Wt]} = - 1/2 (r-m)/s)2 t]» è il solo termine correttivo, una quantità negativa, mentre il valore atteso di un esponenziale è positivo (deduzione, non scritta sulle slide).
+**Opzione:** E{et [(r-m)/s)Wt]} = 1
+**Distrattori:**
+- E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]
+- E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) ]
+- E{et [(r-m)/s)Wt]} = - 1/2 (r-m)/s)2 t]
+
+**D:** ⚠️ Qual è la relazione fra derivata di Radon-Nikodym e Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 4)?
+**R:** «**dP∗/dP={et [(r-m)/s)Wt]}**». È la slide 6, dP∗/dP = ε_t(u), con u_t ≜ ((r - μ)/σ)W_t (slide 4); la slide 7 la scrive per esteso. Il Doléans è valutato in t, non in T. Il docente: la derivata di Radon-Nikodym, il rapporto fra P∗ e la misura originaria P, è «uguale proprio al doleance esponenziale» (transcript [00:06:17]). La piattaforma scrive «Radon-Nykodim». Distrattori del test: «dP∗/dP={et [(r-m)/s)Wt]} = 1» incolla la chiave della domanda 3, ma è il valore atteso di ε_t a valere 1, non la derivata, che dipende da W_t; «dP∗/dP={et [(r-m)/s)}» toglie W_t; «dP∗/dP={et [Wt]}» toglie il coefficiente (r - μ)/σ.
+**Opzione:** dP∗/dP={et [(r-m)/s)Wt]}
+**Distrattori:**
+- dP∗/dP={et [(r-m)/s)Wt]} = 1
+- dP∗/dP={et [(r-m)/s)}
+- dP∗/dP={et [Wt]}
+
+**D:** ⚠️ Quale SDE governa il processo S sotto la misura di probabilità P∗ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 5)?
+**R:** «**dSt=rStdt+sStWt∗**», la chiave della piattaforma: è la (63) della slide 13, dS_t = rS_t dt + σS_t dW∗_t, con «s» per σ. ⚠️ **Domanda difettosa di resa**: tutte e quattro le opzioni scrivono «Wt∗» invece di dW∗_t, come la domanda 2 del test della lezione 12 scrive W_t per dW_t; la parte identica in tutte non discrimina, e la B resta la sola giusta sul drift e sulla diffusione. Il docente: «dS uguale RS dt più sigma S dW star» (transcript [00:11:28]). Distrattori del test: «dSt=rStdt+StWt∗» perde σ; «dSt=StWt∗» perde il drift e σ; «dSt=rStdt-sStWt∗» inverte il segno della diffusione, mentre la slide scrive +σ.
+**Opzione:** dSt=rStdt+sStWt∗
+**Distrattori:**
+- dSt=rStdt+StWt∗
+- dSt=StWt∗
+- dSt=rStdt-sStWt∗
