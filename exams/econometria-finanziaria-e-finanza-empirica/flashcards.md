@@ -4984,3 +4984,314 @@
 - dd1 / ds = dd2 /ds -(T-t)1/2
 - dd1 / ds = dd2 /ds ∗(T-t)1/2
 - dd1 / ds = dd2 /ds ∗(T-t)
+
+## Lezione 17 — Gestione del rischio - Greche 1
+
+**D:** ⚠️ Come presentano le slide 2–3 della lezione 17 la gestione del rischio?
+**R:** Slide 2–3, accanto a un diagramma rischio-rendimento con una retta di regressione: «… un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario», «che è simulato attraverso processi stocastici». Il docente: «per poter gestire i rischi innanzitutto dobbiamo simulare il prodotto … attraverso dei processi stocastici. Quindi vedere il prodotto come un insieme di variabili aleatorie» (transcript [00:00:41]–[00:00:53]). ⚠️ Il prodotto è simulato con processi stocastici, non deterministici.
+**Opzione:** Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi stocastici
+**Distrattori:**
+- Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi deterministici
+- Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
+- La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+
+**D:** ⚠️ Quali processi definisce la slide 4 della lezione 17, e da che cosa dipende f?
+**R:** Slide 4, «Gestione del rischio: le lettere greche»: «Si definisca: S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato. Dove: f=f(S,t)». Il docente: «S è il processo del prezzo dell'azione, B il processo dell'obbligazione, F il processo stocastico del derivato, quindi F è una funzione di S e di T» (transcript [00:01:18]). ⚠️ f dipende da S e da t, non da B.
+**Opzione:** S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+**Distrattori:**
+- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(B,t)
+- Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
+- Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+
+**D:** ⚠️ Come si scrive il portafoglio di replicazione del derivato nella slide 6 della lezione 17, e che cosa sono N_s e N_B?
+**R:** Slide 6, «Portafoglio di replicazione del derivato»: V_t = f(S,t) = N_sS_t + N_BB_t, «Dove: N_s Numero di azioni, N_B Numero di obbligazioni». La slide 5 lo annuncia: «Si calcola: V il portafoglio di replicazione del derivato». Il docente: «creiamo un portafoglio V, come abbiamo già fatto per trovare il prezzo della call e della put nelle precedenti lezioni», cioè «un certo numero … di azioni per il valore del sottostante più una certa quantità di obbligazioni» (transcript [00:01:52]–[00:02:06]). ⚠️ N_s conta le azioni, N_B le obbligazioni; è una somma, non il π = f - ΔS della lezione 15.
+**Opzione:** V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
+**Distrattori:**
+- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di obbligazioni e N_B numero di azioni
+- dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
+- dS_t/S_t ∼ N(μdt, σ²dt)
+
+**D:** ⚠️ Che cosa rappresentano, per il docente della lezione 17, le obbligazioni del portafoglio di replica?
+**R:** «Obbligazioni sarebbero il titolo privo di rischio, quindi rappresentano il valore finanziario del tempo. Ricordate, le abbiamo anche visti come fattore di sconto e fattore di capitalizzazione» (transcript [00:02:18]–[00:02:26]). È solo nel transcript: le slide dicono «B il processo dell'obbligazione» (slide 4) e «N_B Numero di obbligazioni» (slide 6), e la slide 9 dà dB_t = rB_tdt.
+**Opzione:** Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
+**Distrattori:**
+- Il titolo rischioso, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
+- Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi stocastici
+- Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
+
+**D:** ⚠️ Quale ipotesi fa la slide 7 della lezione 17 sul processo del sottostante, e come è distribuito dZ_t?
+**R:** Slide 7, «Definizione dei processi»: «Ipotesi: dS_t = μS_tdt + σS_tdZ_t. Dove: dZ_t ∼ ε√dt, ε ∼ N(0,1)». Il docente: il sottostante evolve «attraverso un moto geometrico browniano», con «una parte deterministica e … una parte stocastica», «guidata da un processo di Wiener» (transcript [00:02:32]–[00:03:25]). ⚠️ dZ_t è ε per √dt: a [00:02:50] il docente dice «moltiplicato per il delta t», senza radice, ma la slide 7 e lo stesso docente a [00:19:30] dicono ε√dt.
+**Opzione:** dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
+**Distrattori:**
+- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ εdt ed ε ∼ N(0,1)
+- N_B = (1/B)(f(S,t) - (∂f/∂S)S)
+- (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+
+**D:** ⚠️ Come è distribuito dS_t/S_t secondo la slide 8 della lezione 17?
+**R:** Slide 8: dalle ipotesi della slide 7, dS_t = μS_tdt + σS_tdZ_t e dZ_t ∼ ε√dt, una freccia porta a dS_t/S_t ∼ N(μdt, σ²dt). Il docente: dS_t/S_t «è distribuito come una normale … che ha media pari a mu dt e una varianza che altro non è che sigma quadro dt» (transcript [00:03:31]–[00:03:38]). ⚠️ La media è μdt, non zero: il drift resta. Il secondo parametro è la varianza σ²dt.
+**Opzione:** dS_t/S_t ∼ N(μdt, σ²dt)
+**Distrattori:**
+- dS_t/S_t ∼ N(0, σ²dt)
+- Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
+- dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
+
+**D:** ⚠️ Quale ipotesi fa la slide 9 della lezione 17 sul processo dell'obbligazione, e qual è la sua soluzione?
+**R:** Slide 9: «Ipotesi: dB_t = rB_tdt. La cui soluzione è: B_t = e^(rt) ∀t ∈ [0,T]». Il docente: è «un'equazione differenziale ordinaria del primo ordine», «questo l'abbiamo anche visto in precedenza come fattore di capitalizzazione, questo r è il tasso di interesse privo di rischio» (transcript [00:03:54]–[00:04:14]). ⚠️ L'esponente è positivo: B_t è un fattore di capitalizzazione, non di sconto.
+**Opzione:** dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
+**Distrattori:**
+- dB_t = rB_tdt, con soluzione B_t = e^(-rt) ∀t ∈ [0,T]
+- Di ordine √dt, perché dZ_t ∼ ε√dt
+- υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+
+**D:** ⚠️ Quale ipotesi fa la slide 10 della lezione 17 sulla dinamica del portafoglio di replicazione?
+**R:** Slide 10: «Ipotesi: dV_t = N_sdS_t + N_BdB_t. Dove: V_t = f(S,t)». Il docente: il portafoglio di replica è «una certa quantità … di azioni per dS_t più una certa quantità di obbligazioni per dB_t», ed «è anch'esso una funzione di S e di t piccolo» (transcript [00:04:40]–[00:05:03]). ⚠️ Si differenziano S e B; N_s e N_B restano fuori dal differenziale.
+**Opzione:** dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+**Distrattori:**
+- dV_t = S_tdN_s + B_tdN_B, dove V_t = f(S,t)
+- μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
+- σ²S_t²dt
+
+**D:** ⚠️ Che cosa si ottiene nelle slide 11–13 della lezione 17, sostituendo dS_t e dB_t nel differenziale del portafoglio e raccogliendo?
+**R:** Slide 11, «Applicando la definizione dei processi S e B»: dV_t = N_s(μS_tdt + σS_tdZ_t) + N_B(rB_tdt); slide 12, «… moltiplicando»: dV_t = N_sμS_tdt + N_sσS_tdZ_t + N_BrB_tdt; slide 13, «raccogliendo»: dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t. Il docente: raccogliere a fattor comune «serve a isolare la parte stocastica dalla parte deterministica» (transcript [00:05:06]–[00:06:08]). ⚠️ Nella componente stocastica c'è solo N_s: l'obbligazione non ha termine in dZ_t.
+**Opzione:** dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
+**Distrattori:**
+- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_BdZ_t
+- dS_t/S_t ∼ N(μdt, σ²dt)
+- υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+
+**D:** ⚠️ Come si definiscono a e b nelle slide 14–15 della lezione 17, e che forma prende dS_t?
+**R:** Slide 14–15: «Si definiscano: μS_t = a, σS_t = b», da cui dS_t = adt + bdZ_t, «Processi di ITO». Il docente: «otteniamo un processo di Ito generalizzato … E questo è importante come conclusione, perché siamo nelle condizioni di utilizzare il lemma di Ito» (transcript [00:06:21]–[00:06:45]). ⚠️ a è il drift μS_t e moltiplica dt, b è la diffusione σS_t e moltiplica dZ_t.
+**Opzione:** μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
+**Distrattori:**
+- μS_t = a e σS_t = b, quindi dS_t = bdt + adZ_t, un processo di Itô
+- N_B = (1/B)(f(S,t) - (∂f/∂S)S)
+- dd1 / dr = dd2 /dr
+
+**D:** ⚠️ Come scrive la slide 16 della lezione 17 il differenziale di f=f(S,t) ottenuto con il lemma di Itô?
+**R:** Slide 16: «L'equazione differenziale stocastica associate ad f=f(S,t) è ottenuta attraverso il lemma di Ito (regola di derivazione del moto Browniano)»: df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt. La slide 17 ripete con «(EDS)», «associata» e «Itô», e sostituisce l'EDS di S: df = (∂f/∂t)dt + (∂f/∂S)(adt + bdZ_t) + ½b²(∂²f/∂S²)dt. Il docente: «df è uguale alla derivata prima di f in t in dt più la derivata prima di f in ds più la derivata seconda rispetto ad s, quindi un mezzo, b quadro» (transcript [00:07:08]). ⚠️ Nel termine di secondo ordine c'è b², il quadrato della diffusione σS_t, non a. Le slide 16–17 scrivono «ds» minuscolo.
+**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
+**Distrattori:**
+- df = (∂f/∂t)dt + (∂f/∂S)ds + ½a²(∂²f/∂S²)dt
+- (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+- J1=StN(d1)
+
+**D:** ⚠️ A che cosa si riduce df nella slide 19 della lezione 17, dopo aver semplificato e sostituito a e b?
+**R:** Slide 18, «semplificando»: df = (∂f/∂t + (∂f/∂S)a + ½b² ∂²f/∂S²)dt + b(∂f/∂S)dZ_t; slide 19, «ricordando: μS_t = a, σS_t = b»: df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t. Il docente: «vedete una parte deterministica ancora una volta», poi «la parte diffusiva che diventa sigma s di t per la derivata prima di f in ds per dz dt» (transcript [00:08:02]–[00:08:32]). ⚠️ Nella componente stocastica c'è la derivata prima ∂f/∂S; la derivata seconda sta nella parte in dt.
+**Opzione:** df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
+**Distrattori:**
+- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂²f/∂S²)dZ_t
+- Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
+- La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+
+**D:** ⚠️ Che cosa si ricava, nelle slide 20–23 della lezione 17, dal confronto delle componenti stocastiche di df e di dV_t?
+**R:** Slide 20–21: «Richiamando l'ipotesi dV_t = df», «Si comparano le componenti stocastiche»; slide 22–23, «Da cui»: σS_tN_sdZ_t ⟷ σS_t(∂f/∂S)dZ_t, quindi N_s = ∂f/∂S. Il docente: «NS, cioè il numero delle azioni che vanno a definire il portafoglio di replica del nostro derivato, non è altro che la derivata prima di f in dS, che è il delta», e «abbiamo riscoperto il valore dell'enumerazione del portafoglio di replica attraverso questa nuova modalità computazionale, anche più diretta» (transcript [00:09:04]–[00:10:24]). ⚠️ Il numero di azioni è la derivata prima, il delta, non la seconda.
+**Opzione:** Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
+**Distrattori:**
+- Dal confronto di σS_tN_sdZ_t con σS_t(∂²f/∂S²)dZ_t segue N_s = ∂²f/∂S²: il numero di azioni è il gamma
+- σ²S_t²dt
+- Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
+
+**D:** ⚠️ Come si ricava il numero di obbligazioni N_B nelle slide 24–26 della lezione 17?
+**R:** Slide 24, «Ricordando: V_t = f(S,t) = N_sS_t + N_BB_t»: N_B = (1/B)(f(S,t) - N_sS); slide 25–26, con N_s = ∂f/∂S: N_B = (1/B)(f(S,t) - (∂f/∂S)S). Il docente: il numero di obbligazioni è «1 su B per il valore del derivato meno il numero di azioni per il valore dell'azione», cioè «1 su B per il valore del derivato meno la derivata prima di f in dS, cioè il nostro delta, per S» (transcript [00:10:41]–[00:11:36]). ⚠️ Dentro la parentesi c'è il meno: al valore del derivato si toglie il valore delle azioni. Le slide scrivono S e B senza pedice.
+**Opzione:** N_B = (1/B)(f(S,t) - (∂f/∂S)S)
+**Distrattori:**
+- N_B = (1/B)(f(S,t) + (∂f/∂S)S)
+- df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
+- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
+
+**D:** ⚠️ Come diventa dV_t nelle slide 27–29 della lezione 17, sostituendo N_s e N_B?
+**R:** Slide 27–28, «Sostituendo nell'EDS di V»: dV_t = ((∂f/∂S)μS_t + (1/B)(f(S,t) - (∂f/∂S)S)rB_t)dt + σS_t(∂f/∂S)dZ_t; slide 29, «Semplificando»: dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t. Il docente: la parte deterministica «diventa il delta per mu di s di t più r per il valore del derivato meno il delta per rs», mentre «rimane invece inalterata la parte stocastica in dz» (transcript [00:11:48]–[00:13:16]). ⚠️ 1/B e B_t si semplificano e resta rf(S,t); il termine in rS ha il meno.
+**Opzione:** dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+**Distrattori:**
+- dV_t = ((∂f/∂S)μS_t + rf(S,t) + (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
+- μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
+
+**D:** ⚠️ Quale uguaglianza dà, nelle slide 30–33 della lezione 17, il confronto delle componenti deterministiche di df e di dV_t?
+**R:** Slide 30–32: «Richiamando l'ipotesi: dV_t = df», «Confrontiamo le componenti deterministiche»; slide 33: (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS). Il docente: «La parte stocastica è già identica, quindi c'è poco da andare a confrontare» (transcript [00:14:04]). ⚠️ A sinistra la parte in dt di df, a destra quella di dV_t: ∂²f/∂S² sta solo a sinistra, rf(S,t) solo a destra.
+**Opzione:** (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
+**Distrattori:**
+- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + μf(S,t) - (∂f/∂S)rS)
+- Di ordine √dt, perché dZ_t ∼ ε√dt
+- dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+
+**D:** ⚠️ Come si scrive la PDE di Black-Scholes nella slide 34 della lezione 17?
+**R:** Slide 34: dall'uguaglianza della slide 33 una freccia porta a (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), «… anche conosciuta come PDE di black-Scholes» (la «b» minuscola è della slide). La slide 38 la ripete sotto «dV = df». Il docente: «la derivata prima di f in t più la derivata prima di f in s per rs più mezzo sigma s quadro per la derivata seconda di f in s, non è altro che uguale … a rf(S,t). E questa equazione … è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Nel coefficiente di ∂f/∂S c'è rS, non μS_t.
+**Opzione:** (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+**Distrattori:**
+- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
+- dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+
+**D:** ⚠️ Quale termine si elide passando dall'uguaglianza della slide 33 alla PDE della slide 34, nella lezione 17, e che cosa ne segue?
+**R:** Si elide (∂f/∂S)μS_t, che compare in entrambi i membri della slide 33; -(∂f/∂S)rS passa a sinistra con il più. La PDE della slide 34 non contiene μ: il coefficiente di ∂f/∂S è rS. Il docente la ottiene «attraverso ictu oculi queste opportune identità» (transcript [00:14:43]). È una lettura delle due slide: né le slide né il docente nominano il termine eliso. È lo stesso esito della lezione 15, dove μ sparisce con la scelta Δ = ∂f/∂S.
+**Opzione:** Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
+**Distrattori:**
+- Si elide ½(σS_t)² ∂²f/∂S², presente in entrambi i membri: la PDE non contiene σ
+- Solo per il termine + o(dt), che la formula di Taylor porta in coda
+- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+
+**D:** ⚠️ Che cosa ricavano le slide 35–36 della lezione 17 dal fatto che la componente dZ è la stessa per dV e df?
+**R:** Slide 35–36: «… considerando che la componente dZ è la stessa sia per dV and df» (sic): «La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo» e «Il derivato può essere replicato da un portafoglio composto da N_s Numero di azioni, N_B Numero di obbligazioni». Il docente: «il derivato in realtà può essere analiticamente replicato da un portafoglio composto da un numero di azioni NS e un numero di obbligazioni NB. Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:19]–[00:15:54]).
+**Opzione:** La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+**Distrattori:**
+- La PDE di Black-Scholes descrive f=f(S,t) al variare della volatilità, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+- Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+
+**D:** Che cosa cambia fra la PDE di Black-Scholes della lezione 17 (slide 34) e l'EDP della lezione 15?
+**R:** È la stessa equazione, scritta e ricavata in un altro modo. Lezione 15 (slide 7): -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0, dal portafoglio π = f - ΔS con Δ = ∂f/∂S e dalla condizione di non arbitraggio dπ = rπdt. Lezione 17 (slide 34): (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), dal portafoglio di replicazione V_t = N_sS_t + N_BB_t e dal confronto delle componenti stocastiche e deterministiche di dV_t = df. Cambiano la posizione di rf, al secondo membro invece che -rf a sinistra, e la scrittura (σS_t)² invece di σ²S². In entrambe c'è r e non μ, e il numero di azioni è ∂f/∂S: Δ nella 15, N_s nella 17. Il docente: «Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:54]).
+
+**D:** ⚠️ Come definisce la slide 37 della lezione 17 Theta, Delta e Gamma?
+**R:** Slide 37, «… si definiscano»: Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S². Il docente: «Definiamo θ come la derivata prima di f in dt, quindi … l'evoluzione del valore del derivato f al variare del tempo, delta, l'abbiamo già definita in precedenza, ma ricordiamo come la derivata prima del valore del derivato rispetto al sottostante, e gamma, la derivata seconda del valore del derivato rispetto al sottostante» (transcript [00:16:22]–[00:16:30]). ⚠️ Sono derivate parziali del generico derivato f: le formule chiuse della call stanno nella lezione 16, e il deck 17 non le stampa.
+**Opzione:** Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
+**Distrattori:**
+- Θ = ∂²f/∂S², Δ = ∂f/∂S, Γ = ∂f/∂t
+- df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
+- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
+
+**D:** ⚠️ Come si riscrive la PDE di Black-Scholes con le greche nella slide 38 della lezione 17?
+**R:** Slide 38: le definizioni Θ, Δ, Γ convergono su «dV = df»: (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), quindi (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t). Il docente: «possiamo riscriverla in termini delle nostre greche come θ più Δ rS più un mezzo σS² per Γ uguale a rf(S,t)» (transcript [00:16:56]). ⚠️ Δ moltiplica rS, Γ moltiplica ½(σS_t)².
+**Opzione:** (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+**Distrattori:**
+- (Θ + ΓrS + ½(σS_t)²Δ) = rf(S,t)
+- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
+- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
+
+**D:** Perché, per il docente della lezione 17, la PDE riscritta con le greche è «una bella rappresentazione»?
+**R:** Perché «fa capire ancora più analiticamente» che le greche, che «servono a gestire il rischio derivante dalle oscillazioni del valore del derivato in relazione a quella del sottostante, l'evolvere del tempo, guarda caso sono proprio contenute nella definizione dell'equazione differenziale parziale» (transcript [00:17:28]–[00:17:56]). Nella slide 38, (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t), compaiono Θ, Δ e Γ.
+
+**D:** ⚠️ Che cosa afferma la slide 39 della lezione 17 sul calcolo dell'espressione differenziale di f?
+**R:** Slide 39: «È importante osservare che si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato». Il docente: il lemma di Itô «potrebbe essere un metodo di natura stocastica», ma «esiste anche un metodo matematico», la formula di Taylor, «che ci consente di studiare con un ordine di infinitesimo di errore il valore e l'evoluzione di un'espressione differenziale» (transcript [00:18:45]–[00:19:07]); dopo il confronto: «ancorché utilizzando altre categorie analitiche che vengono dall'analisi matematica arriviamo agli stessi risultati di queste modalità esplicative tipiche della teoria della misura» ([00:22:18]).
+**Opzione:** Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+**Distrattori:**
+- Si può calcolare l'espressione differenziale di f=f(S,t) solo attraverso il lemma di ITO, perché la formula di Taylor dà un risultato diverso
+- Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi stocastici
+- La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+
+**D:** ⚠️ Di che ordine è il processo dS nella slide 41 della lezione 17, e perché?
+**R:** Slide 41, «Calcolo di df attraverso la formula di Taylor»: «Si ricorda che il processo dS è di ordine √dt», con dS_t = μS_tdt + σS_tdZ_t e dZ_t ∼ ε√dt. Il docente: «il processo di s è di ordine radice quadrata di delta t … Perché il moto geometrico browniano … altro non è che mu S dt più sigma S dZ_t. Ma dZ_t è distribuito come epsilon radice di delta T, dove epsilon è una normale 0,1» (transcript [00:19:20]–[00:19:52]). ⚠️ Di ordine √dt, non dt: è l'ordine di dZ_t.
+**Opzione:** Di ordine √dt, perché dZ_t ∼ ε√dt
+**Distrattori:**
+- Di ordine dt, perché dZ_t ∼ εdt
+- Ct=St N(d1) + Ke-rt N(d2)
+- Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
+
+**D:** ⚠️ Fino a quale termine si estende lo sviluppo di Taylor di df nella slide 42 della lezione 17, e perché ci si ferma lì?
+**R:** Slide 42: «È possibile estendere la fattorizzazione di Taylor a o(dt)»: df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂S²)dS² + o(dt). Il docente: «ci si ferma al secondo livello proprio perché abbiamo un ordine di infinitesimo delta t definito grazie alla circostanza che il processo stocastico è di ordine radice quadrata di delta t» (transcript [00:20:26]). ⚠️ Il termine ½(∂²f/∂S²)dS² resta: con dS di ordine √dt, dS² è di ordine dt.
+**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂S²)dS² + o(dt)
+**Distrattori:**
+- df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂t²)dt² + o(dt)
+- dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
+
+**D:** ⚠️ Che cosa resta, nella slide 44 della lezione 17, del quadrato (μS_tdt + σS_tdZ_t)²?
+**R:** Slide 44, «Si focalizzi l'attenzione sull'espressione seguente»: (μS_tdt + σS_tdZ_t)² = (μ²S_t²dt² + σ²S_t²dt + 2μS_tσS_tdZ_tdt), e sotto «o(dt)» resta σ²S_t²dt. Il docente: «rimane soltanto sigma quadro s quadro dt perché il termine in dt quadro è di un ordine infinitesimo incompatibile con quello in dt. E lo stesso dicasi per l'altro elemento che moltiplica dz in dt»; è «l'algebra di Ito che diceva che dt per dt fa 0, dz per dt fa 0» (transcript [00:21:14]–[00:22:02]). ⚠️ Restano σ² e dt; μ²S_t²dt² e il termine misto vanno nell'o(dt).
+**Opzione:** σ²S_t²dt
+**Distrattori:**
+- μ²S_t²dt²
+- Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
+- La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+
+**D:** ⚠️ In che cosa differiscono il df ottenuto con la formula di Taylor (slide 45) e quello ottenuto con il lemma di Itô, messi a confronto nella slide 46 della lezione 17?
+**R:** Slide 45, «… semplificando»: df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t + o(dt). La slide 46, «Taylor vs. ITO», lo mette sopra il df del lemma di Itô (slide 19), identico salvo + o(dt), e chiude con «Q.E.D.». Il docente: «Andiamo a confrontare Taylor con Ito … e abbiamo ottenuto sostanzialmente il medesimo risultato» (transcript [00:23:31]–[00:23:36]). ⚠️ La prima riga della slide 45 scrive ½σ²S_t²dt senza ∂²f/∂S², che ricompare nella riga successiva.
+**Opzione:** Solo per il termine + o(dt), che la formula di Taylor porta in coda
+**Distrattori:**
+- Per il termine ½(σS_t)² ∂²f/∂S², che il lemma di Itô non ha
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
+- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
+
+**D:** ⚠️ Che cosa conclude la slide 48 della lezione 17 dal fatto che Taylor e Itô danno lo stesso risultato?
+**R:** Slide 47–48: «… ma se la fattorizzazione di Taylor porta agli stessi risultati del lemma di ITO», «… ma se il lemma di ITO lemma ha mostrato che df = dV … allora il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s Numero di azioni, N_B Numero di obbligazioni». Il docente: «senza perdita di alcuna generalità» (transcript [00:24:12]–[00:24:55]). La slide scrive «ITO lemma» due volte (sic).
+**Opzione:** Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
+**Distrattori:**
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di opzioni e N_B numero di obbligazioni
+- df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
+- dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+
+**D:** ⚠️ Quale variabile aggiunge la slide 49 della lezione 17 alla funzione f, e con quale strumento la si studia?
+**R:** Slide 49: «… pertanto usiamo la fattorizzazione di Taylor al fine di studiare cosa succede quando f=f(S,t,σ) senza perdere in generalità». Il docente: «aggiungiamo un ulteriore fattore, quello della volatilità, cioè quello dell'andamento del derivato non più solo in relazione all'andamento del sottostante del tempo, ma anche in relazione all'andamento della volatilità» (transcript [00:25:13]–[00:25:20]). ⚠️ La variabile nuova è σ, e lo strumento è la formula di Taylor.
+**Opzione:** La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+**Distrattori:**
+- Il tasso privo di rischio r, f=f(S,t,r), studiato con la fattorizzazione di Taylor
+- Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
+- dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+
+**D:** ⚠️ Quali termini restano, nella slide 50 della lezione 17, dello sviluppo di Taylor di f=f(S,t,σ) esteso a o(dt)?
+**R:** Slide 50, «Derivazione di df con la formula di Taylor»: df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + ½(∂²f/∂σ²)dσ² + ½(∂²f/∂t²)dt² + (∂f/∂S∂t)dtdS + .... + o(dt), con ∂f senza ² nel termine misto; «Possiamo espandere la fattorizzazione a o(dt)»: df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + o(dt). Il docente: «potremmo andare avanti, ma noi abbiamo il limite … dell'ordine di infinitesimo di delta t» (transcript [00:26:04]). ⚠️ Delle derivate seconde resta solo quella in S.
+**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + o(dt)
+**Distrattori:**
+- df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂σ²)dσ² + o(dt)
+- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
+- Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
+
+**D:** ⚠️ Come definisce la slide 51 della lezione 17 il Vega, accanto a Theta, Delta e Gamma?
+**R:** Slide 51, «… si definiscano»: Θ = ∂f/∂t, Δ = ∂f/∂S, υ = ∂f/∂σ, Γ = ∂²f/∂S². Il docente: «un'ulteriore definizione, quello del Vega, che abbiamo già derivato analiticamente prima», «vega, derivata prima del nostro derivato rispetto a sigma» (transcript [00:26:53]–[00:27:10]). ⚠️ Il Vega è una derivata prima, rispetto a σ. Il deck 17 lo scrive υ; la lezione 16 lo chiama 𝒱_C e ne dà la forma chiusa per la call.
+**Opzione:** υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+**Distrattori:**
+- υ = ∂²f/∂σ², la derivata seconda del derivato rispetto alla volatilità
+- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
+- dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+
+**D:** ⚠️ Come si scrive df con le greche nella slide 52 della lezione 17?
+**R:** Slide 52: le definizioni della slide 51 convergono su «dV = df»: df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt). Il docente: l'equazione è «teta delta t più delta delta s più vega d sigma più mezzo gamma d sigma ds quadro più il nostro ordine di infinitesima» (transcript [00:27:29]): a voce il termine di Γ diventa «d sigma ds quadro», ma la slide scrive ½ΓdS². L'equazione permette di comprendere «in termini di tutte le greche principali che abbiamo derivato … la dinamica del nostro valore del derivato in relazione al valore del sottostante» ([00:27:47]). ⚠️ Γ moltiplica ½dS², non dσ².
+**Opzione:** df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
+**Distrattori:**
+- df = Θdt + ΔdS + υ dσ + ½Γdσ² + o(dt)
+- Solo per il termine + o(dt), che la formula di Taylor porta in coda
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
+
+**D:** ⚠️ Quale condizione pongono le slide 53–55 della lezione 17 «al fine di evitare differenze nei portafogli», e che equazione ne segue?
+**R:** Slide 53–55: «… poichè abbiamo dimostrato che dV = df», «Al fine di evitare differenze nei portafogli», dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS². Il docente: «il differenziale del valore del portafoglio e il differenziale del valore del derivato devono essere uguali a zero … il che vuol dire che noi siamo perfettamente coperti da ogni rischio, ecco come nasce il concetto della gestione del rischio» (transcript [00:28:07]–[00:28:35]); l'equazione è «la premessa per costruire la gestione del rischio di posizioni in derivati attraverso lo strumento delle greche» ([00:29:23]). La slide 56 chiude: «…l'hedging in sostanza si basa sulle Greche». ⚠️ Nelle slide 55–56 non c'è o(dt).
+**Opzione:** dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+**Distrattori:**
+- dV = df = rfdt, da cui rfdt = Θdt + ΔdS + υ dσ + ½ΓdS²
+- (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+
+**D:** ⚠️ Quale operazione descrive il docente della lezione 17 per spiegare la gestione del rischio con dV = df = 0?
+**R:** «io replico un derivato, quindi io vendo il derivato, compro il portafoglio di replica, poiché il portafoglio di replica replica perfettamente il valore del derivato, noi siamo nelle condizioni di dire che abbiamo fatto un'ottima gestione del rischio quando questi differenziali sono uguali e quindi la loro differenza diventa uguale a zero» (transcript [00:28:43]). È solo nel transcript: le slide 53–55 scrivono dV = df = 0. ⚠️ Qui il docente parla della differenza dei due differenziali uguale a zero, la slide 54 di dV = df = 0.
+**Opzione:** Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
+**Distrattori:**
+- Comprare il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
+- (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+- df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
+
+**D:** ⚠️ Quale forma assume l'equazione alle derivate parziali di BSM, secondo il test della lezione 17 (domanda 1)?
+**R:** «**df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)**»: è la PDE della slide 34, (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), «anche conosciuta come PDE di black-Scholes», ripetuta nella slide 38. Il docente: «… è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Resa difettosa: «(sSt)2df/dS» è (σS_t)² ∂²f/∂S² senza gli esponenti della derivata seconda, che sembra una derivata prima; il difetto è identico nella B e nella D, quindi non discrimina. Distrattori del test: «rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)» perde ∂f/∂t, cioè Θ; «df/dt + rS df/dS + 1/2 = rf(S,t)» si tronca dopo «1/2» e perde il termine di secondo ordine; «df/dt+rSdf/dS∗(sSt)2df/dS = rf(S,t)» sostituisce «+ 1/2» con un prodotto. È la stessa equazione della lezione 15, -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0, con rf al secondo membro.
+**Opzione:** df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
+**Distrattori:**
+- rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
+- df/dt + rS df/dS + 1/2 = rf(S,t)
+- df/dt+rSdf/dS∗(sSt)2df/dS = rf(S,t)
+
+**D:** ⚠️ Quanto vale il delta di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 2)?
+**R:** «**D=N(d1)**», con «D» per Δ: è la (101) della lezione 16, ∂C/∂S_t = Δ_C = N(d_1) (deck 16, slide 31; transcript della lezione 16, [00:26:55]–[00:28:19]). Il deck 17 non stampa le greche in forma chiusa: definisce Δ = ∂f/∂S (slide 37), «la derivata prima del valore del derivato rispetto al sottostante» (transcript [00:16:30]). ⚠️ Le quattro opzioni sono le stesse nelle domande 2–5, ognuna chiave di un'altra: «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma (102), la derivata del Delta, ed è la trappola vicina; «D= StN'(d1) (T-t)1/2» è il Vega (104); «D = (T-t) K e-r(T-t) N(d2)» è il Rho (103).
+**Opzione:** D=N(d1)
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Quanto vale il Gamma di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 3)?
+**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «G» per Γ, «s» per σ e «(T-t)1/2» per √(T-t): è la (102) della lezione 16, ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t)) (deck 16, slide 32; transcript della lezione 16, [00:28:19]–[00:29:45]). «sSt» è lo stesso prodotto di S_tσ. Il deck 17 definisce Γ = ∂²f/∂S² (slide 37; transcript [00:16:30]). ⚠️ C'è la densità N'(d_1): «G=N(d1)» è il Delta, di cui il Gamma è la derivata. «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho.
+**Opzione:** G= N'(d1) ∗ 1/sSt(T-t)1/2
+**Distrattori:**
+- G= StN'(d1) (T-t)1/2
+- G = (T-t) K e-r(T-t) N(d2)
+- G=N(d1)
+
+**D:** ⚠️ Quanto vale il Vega di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 4)?
+**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «Ʋ» per il Vega e «(T-t)1/2» per √(T-t): è la (104) della lezione 16, ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t) (deck 16, slide 34; transcript della lezione 16, [00:30:52]–[00:31:42]). Il deck 17 definisce υ = ∂f/∂σ (slide 51; transcript [00:27:10]). ⚠️ «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, la trappola vicina, perché ha anch'esso N'(d1) e (T-t)1/2; «Ʋ = (T-t) K e-r(T-t) N(d2)» è il Rho, «Ʋ=N(d1)» il Delta.
+**Opzione:** Ʋ= StN'(d1) (T-t)1/2
+**Distrattori:**
+- Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2
+- Ʋ = (T-t) K e-r(T-t) N(d2)
+- Ʋ=N(d1)
+
+**D:** ⚠️ Quanto vale il Rho di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 5)?
+**R:** «**r = (T-t) K e-r(T-t) N(d2)**», con «r» in testa per ρ ed «e-r(T-t)» per e^(-r(T-t)): è la (103) della lezione 16, ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2) (deck 16, slide 33; transcript della lezione 16, [00:29:51]–[00:30:52]). ⚠️ Il Rho non compare né nel deck né nel transcript della lezione 17: la domanda pesca dalla lezione 16. È l'unica opzione con N(d2) e con lo strike scontato: il fattore (T-t) viene dalla derivata di e^(-r(T-t)) rispetto a r. La «r» in testa è ρ, quella dentro «e-r(T-t)» è il tasso. «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta.
+**Opzione:** r = (T-t) K e-r(T-t) N(d2)
+**Distrattori:**
+- r= StN'(d1) (T-t)1/2
+- r= N'(d1) ∗ 1/sSt(T-t)1/2
+- r=N(d1)
