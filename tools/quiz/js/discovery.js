@@ -8,7 +8,7 @@
 //   ../../../       = <base>/            (root del repo)
 //   ../             = <base>/tools/quiz/
 
-import { parseQuiz } from './parse-quiz.js';
+import { parseQuiz, parseSincrone } from './parse-quiz.js';
 import { parseFlashcards } from './parse-flashcards.js';
 import { normalizeLog } from './storage.js';
 
@@ -83,6 +83,19 @@ export async function loadExam(entry) {
     warnings: [...quiz.warnings, ...flashcards.warnings],
     errors,
   };
+}
+
+/**
+ * Test delle lezioni sincrone (`exams/<slug>/lezioni-sincrone.md`), solo nella
+ * build privata: l'export pubblico non copia il registro. 404 = silenzio, come
+ * per lo storico: quasi tutti gli esami il registro non ce l'hanno.
+ * @returns {Promise<{questions: Array, warnings: Array}|null>} null se il registro manca
+ */
+export async function fetchSincrone(slug) {
+  const res = await fetchText(repoUrl(`exams/${slug}/lezioni-sincrone.md`));
+  if (!res.ok) return null;
+  const { questions, warnings } = parseSincrone(res.text, { exam: slug });
+  return { questions, warnings };
 }
 
 /**

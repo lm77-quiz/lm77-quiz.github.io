@@ -1,5 +1,10 @@
 // parse-quiz.js — da `exams/<slug>/domande-esame.md` a questions[].
 //
+// Legge anche i test delle lezioni sincrone (`exams/<slug>/lezioni-sincrone.md`,
+// vedi `parseSincrone`): stesso formato per domanda, intestazioni diverse e un
+// proprio spazio di nomi (`S01`), perché la numerazione delle dirette non è
+// quella delle videolezioni.
+//
 // Modulo PURO: nessun riferimento a DOM/window, importabile da Node.
 //
 // Parser a righe, macchina a stati: mai regex multilinea sull'intero file.
@@ -16,6 +21,20 @@ const MARK_ALARM = '\u{1F6A8}'; // 🚨 avvertenza chiave piattaforma
 
 const RE_LESSON = /^##\s+Lezione\s+(\d+)\s*[—–-]\s*(.*)$/;
 const RE_QUIZ_SECTION = /^###\s+Quiz a risposta multipla\s*$/;
+// Registro delle sincrone: `## 01 — Titolo` e `### Test — 5 domande · …`
+// (anche `### Test — **esito 5/5** ✅`, senza conteggio).
+const RE_SYNC_LESSON = /^##\s+(\d+)\s*[—–-]\s*(.*)$/;
+const RE_SYNC_SECTION = /^###\s+Test\b/;
+// La risposta data in diretta e il suo esito sono cronaca del registro, non
+// spiegazione: nel riepilogo sembrerebbero la soluzione. Di solito stanno
+// sulla stessa riga (`**Risposta data:** B · **Esito:** ✅`), ma l'esito può
+// anche andare a capo.
+const RE_SYNC_SKIP_LABEL = /^(risposta data|esito)$/i;
+
+const SYNTAX = {
+  esame: { lesson: RE_LESSON, section: RE_QUIZ_SECTION, tag: 'L', source: 'esame' },
+  sincrone: { lesson: RE_SYNC_LESSON, section: RE_SYNC_SECTION, tag: 'S', source: 'sincrona' },
+};
 const RE_QUESTION = /^####\s+(\d+)\.\s*(.*)$/;
 // L'eventuale `**` iniziale è quello che apre un grassetto che avvolge
 // l'intera opzione (`- **C. ✅ testo**`): va ricordato per chiudere il conto.
@@ -28,12 +47,13 @@ const RE_EMPTY_FILE = /_Ancora vuoto/;
 // ---------------------------------------------------------------------------
 
 /**
- * @param {string} text contenuto di domande-esame.md
- * @param {{exam?: string}} [opts]
+ * @param {string} text contenuto di domande-esame.md (o del registro sincrone)
+ * @param {{exam?: string, kind?: 'esame'|'sincrone'}} [opts]
  * @returns {{stub: boolean, exam: string, lessons: Array, questions: Array, warnings: Array}}
  */
 export function parseQuiz(text, opts = {}) {
   const exam = opts.exam || '';
+  const syntax = SYNTAX[opts.kind] || SYNTAX.esame;
   const warnings = [];
   const questions = [];
   const lessons = [];
@@ -50,7 +70,7 @@ export function parseQuiz(text, opts = {}) {
 
   const flush = () => {
     if (!block) return;
-    const q = buildQuestion(block, exam, warnings);
+    const q = buildQuestion(block, exam, warnings, syntax);
     if (q) questions.push(q);
     block = null;
   };
@@ -69,15 +89,23 @@ export function parseQuiz(text, opts = {}) {
     }
     if (/^###\s/.test(line)) {
       flush();
-      inQuiz = RE_QUIZ_SECTION.test(line);
+      inQuiz = syntax.section.test(line);
       continue;
     }
     if (/^##\s/.test(line)) {
       flush();
       inQuiz = false;
-      const m = line.match(RE_LESSON);
+      const m = line.match(syntax.lesson);
       if (m) {
-        lesson = { number: m[1], title: m[2].trim(), sectionWarning: null, count: 0 };
+        // Per le sincrone il prefisso entra nel numero: `S01` non si confonde
+        // con la videolezione 01 né nel filtro né nello storico.
+        const number = syntax.tag === 'L' ? m[1] : `${syntax.tag}${m[1]}`;
+        // `heading` è il testo dell'intestazione così com'è: da lì md-doc
+        // ricava l'ancora della sezione, a cui il riepilogo rimanda.
+        lesson = {
+          number, title: m[2].trim(), heading: line.replace(/^##\s+/, '').trim(),
+          sectionWarning: null, count: 0,
+        };
         lessons.push(lesson);
       } else {
         lesson = null;
@@ -109,14 +137,36 @@ export function parseQuiz(text, opts = {}) {
     if (l) l.count += 1;
   }
 
+  // Gli id sono posizionali (lezione + numero di domanda): due sezioni con lo
+  // stesso numero di lezione li farebbero collidere, e nella prova due domande
+  // diverse condividerebbero risposta e storico. Succede nel registro delle
+  // sincrone, dove la numerazione delle dirette va scritta a mano.
+  const seen = new Set();
+  for (const q of questions) {
+    if (seen.has(q.id)) warnings.push({ id: q.id, message: 'id duplicato: due sezioni con lo stesso numero di lezione?' });
+    seen.add(q.id);
+  }
+
   return { stub: questions.length === 0, exam, lessons, questions, warnings };
+}
+
+/**
+ * Test delle lezioni sincrone, dal registro `exams/<slug>/lezioni-sincrone.md`.
+ * Le domande hanno `lesson: 'S01'`, id `<slug>/S01/Q1` e `source: 'sincrona'`.
+ */
+export function parseSincrone(text, opts = {}) {
+  return parseQuiz(text, { ...opts, kind: 'sincrone' });
 }
 
 // ---------------------------------------------------------------------------
 
-function buildQuestion(block, exam, warnings) {
+function buildQuestion(block, exam, warnings, syntax = SYNTAX.esame) {
   const lessonNumber = block.lesson.number;
-  const id = `${exam}/L${lessonNumber}/Q${block.number}`;
+  // Lo spazio di nomi è già nel numero di lezione delle sincrone (`S01`).
+  const id = syntax.tag === 'L'
+    ? `${exam}/L${lessonNumber}/Q${block.number}`
+    : `${exam}/${lessonNumber}/Q${block.number}`;
+  const sync = syntax.tag !== 'L';
   const warn = (message) => warnings.push({ id, message });
 
   const options = [];
@@ -151,6 +201,10 @@ function buildQuestion(block, exam, warnings) {
       const label = ml[1].trim();
       if (/^fonti$/i.test(label)) {
         sources = parseSources(ml[2].trim());
+        current = null;
+        continue;
+      }
+      if (sync && RE_SYNC_SKIP_LABEL.test(label)) {
         current = null;
         continue;
       }
@@ -190,7 +244,8 @@ function buildQuestion(block, exam, warnings) {
   }
 
   if (!explanations.length) warn('nessuna spiegazione trovata');
-  if (!sources) warn('nessun blocco **Fonti:** trovato');
+  // Il registro delle sincrone cita la fonte nella spiegazione (`**Fonte:**`).
+  if (!sources && !sync) warn('nessun blocco **Fonti:** trovato');
 
   const contentHash = stableHash(
     [block.text, ...options.map((o) => `${o.key}|${o.text}`)].join(''),
@@ -199,6 +254,7 @@ function buildQuestion(block, exam, warnings) {
   return {
     id,
     exam,
+    source: syntax.source,
     lesson: lessonNumber,
     lessonTitle: block.lesson.title,
     number: block.number,
@@ -212,6 +268,7 @@ function buildQuestion(block, exam, warnings) {
     explanations,
     sources,
     contentHash,
+    ...(sync ? { lessonHeading: block.lesson.heading } : {}),
   };
 }
 

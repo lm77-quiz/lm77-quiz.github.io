@@ -12,7 +12,7 @@
 
 import { el, clear } from '../dom.js';
 import { mdInline } from '../md-inline.js';
-import { compactLessons, isCardItem } from '../engine.js';
+import { compactLessons, isCardItem, lessonLabel } from '../engine.js';
 import { riskBanner } from './common.js';
 
 /**
@@ -20,8 +20,10 @@ import { riskBanner } from './common.js';
  * una prova sull'intero esame andata male.
  */
 function lessonBadge(s) {
-  if (!s.lessons || !s.lessons.length) return null;
-  return el('span', { class: 'muted', text: `Lezioni ${compactLessons(s.lessons)}` });
+  if (s.syncOnly) return el('span', { class: 'muted', text: `Solo test delle sincrone (${s.syncCount})` });
+  const lessons = s.lessons && s.lessons.length ? `Lezioni ${compactLessons(s.lessons)}` : 'Tutte le lezioni';
+  if (s.syncCount) return el('span', { class: 'muted', text: `${lessons} + ${s.syncCount} dalle sincrone` });
+  return s.lessons && s.lessons.length ? el('span', { class: 'muted', text: lessons }) : null;
 }
 
 export function renderQuiz(root, ctx) {
@@ -150,7 +152,7 @@ function renderMcq(root, ctx, s) {
     const box = el('section', { class: 'card question-card' });
     box.append(el('p', {
       class: 'muted small',
-      text: `${card ? 'Flashcard · ' : ''}Lezione ${q.lesson} — ${q.lessonTitle}`,
+      text: `${card ? 'Flashcard · ' : ''}${lessonLabel(q.lesson)} — ${q.lessonTitle}`,
     }));
     box.append(el('h2', { class: 'question-text', html: mdInline(q.text) }));
     optionButtons = item.options.map((opt) => {
@@ -244,7 +246,7 @@ function renderCard(root, ctx, s) {
   }, [el('div', { class: 'progress-bar', style: `width:${total ? (s.cardIndex / total) * 100 : 0}%` })]));
 
   const box = el('section', { class: 'card question-card' });
-  box.append(el('p', { class: 'muted small', text: `Lezione ${card.lesson} — ${card.lessonTitle}` }));
+  box.append(el('p', { class: 'muted small', text: `${lessonLabel(card.lesson)} — ${card.lessonTitle}` }));
   // Qui la risposta va prodotta, non riconosciuta: il banner non regala
   // nulla, e ricorda di fare attenzione prima di dichiararsi sicuri.
   const banner = riskBanner(card.risk);

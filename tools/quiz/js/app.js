@@ -3,12 +3,15 @@
 // Config → Quiz → Riepilogo. "Ripassa errori" rientra nel flusso Quiz.
 // Nessun handler inline: tutti i listener sono registrati qui o nelle schermate.
 
-import { loadManifest, loadExam, resolveNotes, fetchRemoteLog, loadConfig, appUrl, repoUrl } from './discovery.js';
+import {
+  loadManifest, loadExam, resolveNotes, fetchRemoteLog, fetchSincrone, loadConfig, appUrl, repoUrl,
+} from './discovery.js';
+import { slugify } from './md-doc.js';
 import { probe, fetchServerLog, pushLog, sessionsToPush, exclusionsToPush } from './sync.js';
 import * as storage from './storage.js';
 import {
   prepareMcqItems, sample, scoreSession, pickReviewItems, makeRng,
-  prepareCardItem, filterByLessons, withoutExcluded, rebuildAttempt,
+  prepareCardItem, withoutExcluded, rebuildAttempt, isSyncLesson, buildPool,
 } from './engine.js';
 import { renderConfig } from './screens/config.js';
 import { renderQuiz } from './screens/quiz.js';
@@ -88,9 +91,19 @@ const ctx = {
   noteUrlFor(lesson) {
     // Build pubblica: le note non sono state esportate, il link sarebbe un 404.
     if (!state.config.wiki) return null;
+    // Una sincrona non ha nota: «S05» non è la videolezione 05.
+    if (isSyncLesson(lesson)) return null;
     return state.notes ? state.notes.urlFor(lesson) : null;
   },
+  /** Sezione del registro delle sincrone da cui viene la domanda. */
+  syncRegistryUrl(q) {
+    if (!state.config.wiki || !state.exam) return null;
+    const url = repoUrl(`exams/${state.exam.slug}/lezioni-sincrone.md`);
+    return q && q.lessonHeading ? `${url}#${slugify(q.lessonHeading)}` : url;
+  },
   riskCardsForLesson(lesson, limit = 6) {
+    // Le flashcard sono delle videolezioni: per una sincrona non ce n'è.
+    if (isSyncLesson(lesson)) return [];
     // Le escluse no: l'utente le ha giudicate fuori dallo studio.
     return ctx.activeCards()
       .filter((c) => c.lesson === lesson && c.risk)
@@ -163,12 +176,25 @@ async function selectExam(slug) {
 
   const entry = state.manifest.find((e) => e.slug === slug) || { slug };
   try {
-    const [exam, notes, remote, server] = await Promise.all([
+    const [exam, notes, remote, server, sync] = await Promise.all([
       loadExam(entry),
       state.config.wiki ? resolveNotes(entry).catch(() => null) : Promise.resolve(null),
       fetchRemoteLog(slug).catch(() => null),
       state.sync ? fetchServerLog(slug) : Promise.resolve(null),
+      // Il registro delle sincrone è materiale privato: la build pubblica non
+      // lo chiede nemmeno.
+      state.config.wiki ? fetchSincrone(slug).catch(() => null) : Promise.resolve(null),
     ]);
+    // Fuori da `questions` di proposito: filtro per lezione, pill e conteggi
+    // restano quelli delle videolezioni, e le sincrone entrano nel pool solo
+    // con il loro interruttore.
+    exam.syncQuestions = sync ? sync.questions : [];
+    // Gli avvisi del registro finiscono nello stesso pannello di quelli di
+    // domande-esame.md: una domanda senza ✅ si vede subito, non all'esame.
+    if (sync && sync.warnings.length) {
+      exam.warnings = [...exam.warnings,
+        ...sync.warnings.map((w) => ({ ...w, message: `lezioni-sincrone.md: ${w.message}` }))];
+    }
     state.exam = exam;
     state.notes = notes;
 
@@ -218,7 +244,7 @@ async function selectExam(slug) {
  * senza questo passaggio perderebbe selezione delle lezioni e cursori appena
  * toccati. Restituisce le lezioni scelte, normalizzate a stringhe.
  */
-function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons }) {
+function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons, filterOn, sincrone }) {
   if (Number.isFinite(mcqCount)) state.prefs.mcqCount = mcqCount;
   if (Number.isFinite(cardCount)) state.prefs.cardCount = cardCount;
   // Selezione delle lezioni: per esame, perché i numeri di lezione di un esame
@@ -231,8 +257,22 @@ function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons }) {
   // silenziosamente al default.
   if (Number.isFinite(simTotal)) state.prefs.simTotal = simTotal;
   if (typeof cardMcq === 'boolean') state.prefs.cardMcq = cardMcq;
+  // Test delle sincrone: per esame come le lezioni, spento se manca.
+  // `'solo'` = filtro acceso senza lezioni e sincrone accese (prova di soli
+  // test delle dirette). Va ricordato qui perché nelle prefs un elenco di
+  // lezioni vuoto vuol dire «filtro spento»: senza, la schermata tornerebbe
+  // sull'intero esame dopo ogni prova.
+  if (typeof sincrone === 'boolean' && state.exam) {
+    if (!state.prefs.sincrone || typeof state.prefs.sincrone !== 'object') state.prefs.sincrone = {};
+    state.prefs.sincrone[state.exam.slug] = !sincrone ? false : (filterOn && !picked.length ? 'solo' : true);
+  }
   storage.savePrefs(state.prefs);
   return picked;
+}
+
+/** Domande d'esame e delle sincrone: tutto ciò che si può cercare per id. */
+function allQuestions(exam) {
+  return [...(exam.questions || []), ...(exam.syncQuestions || [])];
 }
 
 function startSession(opts) {
@@ -246,9 +286,17 @@ function startSession(opts) {
   // Il filtro per lezione si applica PRIMA del campionamento e vale anche per
   // il ripasso: chi ripassa un blocco di lezioni non vuole rivedere gli errori
   // di tutto il corso.
-  const poolQuestions = filterByLessons(exam.questions, picked);
-  // Le flashcard escluse dall'utente restano fuori da tutto, ripasso compreso.
-  const poolCards = filterByLessons(ctx.activeCards(), picked);
+  // Stessa regola dei contatori della configurazione (`buildPool`): le
+  // sincrone fuori dal filtro, e filtro senza lezioni + sincrone = prova di
+  // soli test delle dirette. Le flashcard escluse dall'utente restano fuori da
+  // tutto, ripasso compreso.
+  const pool = buildPool(
+    { questions: exam.questions, syncQuestions: exam.syncQuestions || [], cards: ctx.activeCards() },
+    { lessons: picked, filterOn: opts.filterOn, sincrone: opts.sincrone === true },
+  );
+  const { syncOnly } = pool;
+  const poolQuestions = pool.questions;
+  const poolCards = pool.cards;
   // In ripasso entrambi i pool sono pesati sugli errori: lo storico registra
   // `correct` anche per le flashcard, e ignorarlo significava buttare via
   // metà di ciò che l'utente aveva sbagliato.
@@ -279,6 +327,9 @@ function startSession(opts) {
   state.session = {
     mode,
     lessons: picked,
+    // Per il promemoria durante la prova: quante domande vengono dalle dirette.
+    syncCount: mcqItems.filter((it) => isSyncLesson(it.question && it.question.lesson)).length,
+    syncOnly,
     startedAt: new Date().toISOString(),
     blockItems,
     // Unica per tutto il blocco: gli id non collidono (`…/Q3` contro `…/f-<hash>`).
@@ -374,7 +425,9 @@ function reviewAttempt(uid) {
     toast('Sessione non trovata nello storico.', 'error');
     return false;
   }
-  const { mcq, cards, orphans } = rebuildAttempt(attempt, state.exam);
+  // Anche a interruttore spento: una sessione passata può contenere sincrone,
+  // e senza di loro le mostrerebbe come orfane.
+  const { mcq, cards, orphans } = rebuildAttempt(attempt, { ...state.exam, questions: allQuestions(state.exam) });
   state.results = { attempt, recorded: true, mcq, cards, orphans, past: true };
   ctx.goTo('results');
   return true;
@@ -552,6 +605,8 @@ function singleExamPayload(parsed) {
  * ridurrebbe in silenzio il pool della prova successiva.
  */
 function applyImportedPrefs(prefs) {
+  // `sincrone` resta fuori come `lessons`: è una scelta di studio per esame,
+  // non una lunghezza della prova.
   for (const k of ['simTotal', 'mcqCount', 'cardCount']) {
     if (Number.isFinite(prefs[k])) state.prefs[k] = prefs[k];
   }

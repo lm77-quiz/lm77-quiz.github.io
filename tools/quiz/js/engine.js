@@ -50,6 +50,17 @@ export function sample(list, n, rng = Math.random) {
 // Selezione delle lezioni
 // ---------------------------------------------------------------------------
 
+/** Le lezioni sincrone hanno numero `S01`, `S02`…: vedi `parseSincrone`. */
+export function isSyncLesson(lesson) {
+  return /^S\d+$/.test(String(lesson || ''));
+}
+
+/** «Lezione 05» per le videolezioni, «Sincrona 05» per le dirette (`S05`). */
+export function lessonLabel(lesson) {
+  const s = String(lesson ?? '?');
+  return isSyncLesson(s) ? `Sincrona ${s.slice(1)}` : `Lezione ${s}`;
+}
+
 /**
  * Comprime una lista di numeri di lezione in intervalli leggibili:
  * `["01","02","03","05","07","08"]` → `"01–03, 05, 07–08"`. Serve al
@@ -152,6 +163,38 @@ export function filterByLessons(items, lessons) {
   if (!wanted.length) return Array.from(items || []);
   const set = new Set(wanted);
   return (items || []).filter((it) => it && set.has(String(it.lesson)));
+}
+
+/**
+ * Pool della prova: UNICA regola per i contatori della configurazione e per
+ * l'estrazione di `startSession`, che altrimenti potrebbero divergere.
+ *
+ * - Le domande d'esame e le flashcard seguono il filtro per lezione.
+ * - I test delle sincrone (`syncQuestions`) no: entrano tutti, e solo con il
+ *   loro interruttore (`sincrone`).
+ * - Filtro acceso senza lezioni (`blank`): niente domande d'esame né
+ *   flashcard. Con le sincrone accese è la prova di soli test delle dirette,
+ *   altrimenti il pool è vuoto. Mai «tutto l'esame», che è ciò che un elenco
+ *   di lezioni vuoto vorrebbe dire a `filterByLessons`.
+ *
+ * @param {{questions?: Array, syncQuestions?: Array, cards?: Array}} materials
+ * @param {{lessons?: string[], filterOn?: boolean, sincrone?: boolean}} [opts]
+ *   `filterOn` di default vale «c'è almeno una lezione scelta»
+ * @returns {{questions: Array, cards: Array, syncOnly: boolean}}
+ */
+export function buildPool({ questions = [], syncQuestions = [], cards = [] } = {}, opts = {}) {
+  const lessons = (opts.lessons || []).map(String);
+  const filterOn = opts.filterOn === undefined ? lessons.length > 0 : !!opts.filterOn;
+  const blank = filterOn && !lessons.length;
+  const sync = !!opts.sincrone;
+  return {
+    questions: [
+      ...(blank ? [] : filterByLessons(questions, lessons)),
+      ...(sync ? syncQuestions : []),
+    ],
+    cards: blank ? [] : filterByLessons(cards, lessons),
+    syncOnly: blank && sync,
+  };
 }
 
 /**

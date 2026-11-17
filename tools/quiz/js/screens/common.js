@@ -6,6 +6,7 @@
 
 import { el } from '../dom.js';
 import { mdInline } from '../md-inline.js';
+import { isSyncLesson, lessonLabel } from '../engine.js';
 
 const RISK_LABEL = { warn: '⚠️ punto insidioso', alarm: '🚨 attenzione: contenuto insidioso' };
 
@@ -73,12 +74,17 @@ export function staticOptions(options, { correctKey, givenKey, correct, correctL
   return list;
 }
 
-/** Link alla nota della lezione; null nella build pubblica, che non ha note. */
-export function noteLink(ctx, lesson) {
-  const href = ctx.noteUrlFor(lesson);
+/**
+ * Link al materiale da cui viene una domanda: la nota della lezione, o per i
+ * test delle sincrone la sezione del registro (una sincrona non ha nota).
+ * Null nella build pubblica, che non ha né l'una né l'altro.
+ */
+export function noteLink(ctx, lesson, question = null) {
+  const sync = question ? question.source === 'sincrona' : isSyncLesson(lesson);
+  const href = sync ? ctx.syncRegistryUrl(question) : ctx.noteUrlFor(lesson);
   if (!href) return null;
   return el('a', {
     class: 'link', href, target: '_blank', rel: 'noopener',
-    text: `Nota della lezione ${lesson} ↗`,
+    text: sync ? `Registro della ${lessonLabel(lesson).toLowerCase()} ↗` : `Nota della lezione ${lesson} ↗`,
   });
 }

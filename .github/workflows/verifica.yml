@@ -29,11 +29,13 @@ jobs:
         run: |
           if find . -path ./.git -prune -o \
                \( -name notes -o -name sources -o -name glossario.md \
+                  -o -name lezioni-sincrone.md \
                   -o -name 'quiz-errori.json' -o -name '*.mjs' -o -name '*.py' \) \
                -print | grep -q .; then
             echo "::error::private material in the published tree"
             find . -path ./.git -prune -o \
               \( -name notes -o -name sources -o -name glossario.md \
+                 -o -name lezioni-sincrone.md \
                  -o -name 'quiz-errori.json' -o -name '*.mjs' -o -name '*.py' \) -print
             exit 1
           fi
@@ -114,7 +116,7 @@ jobs:
             echo "$c"
           }
           for s in $(ls exams); do
-            for p in "exams/$s/notes/" "exams/$s/README.md" "exams/$s/glossario.md"; do
+            for p in "exams/$s/notes/" "exams/$s/README.md" "exams/$s/glossario.md" "exams/$s/lezioni-sincrone.md"; do
               code=$(codice "https://lm77-quiz.github.io/$p")
               echo "  $code  /$p"
               case "$code" in
