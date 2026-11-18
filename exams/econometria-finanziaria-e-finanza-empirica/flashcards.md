@@ -7899,3 +7899,313 @@
 - RSS = Si(ŷi - ȳ)2
 - RSS = Si(eiOLS - me)
 - RSS = Si(yi - ȳ)2
+
+## Lezione 27 — Modello Lineare 5 - Inferenza Statistica
+
+**D:** ⚠️ Quali formulazioni equivalenti del coefficiente di determinazione elenca la proposizione della slide 2 della lezione 27, «in alternativa alla 104»?
+**R:** Slide 2: «In alternativa alla 104, il coefficiente di determinazione del modello lineare stimato col metodo OLS ammette le seguenti formulazioni equivalenti: R² = 1 - RSS/TSS (105) = 1 - ∑_{i=1}^n (y_i - ŷ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² (106) = 1 - ∑_{i=1}^n (ϵ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² (107) = 1 - (𝛜^{OLS})′𝛜^{OLS}/∑_{i=1}^n (y_i - ȳ)² (108)». La (104) è la definizione della lezione 26, R² = ESS/TSS. ⚠️ RSS sta al **numeratore** e TSS al **denominatore** in tutte e quattro: con la frazione rovesciata, TSS/RSS, il rapporto non è più la quota di devianza non spiegata. Il docente: «1 meno il residual sum of squares sul total sum of squares» (transcript [00:00:12]).
+**Opzione:** R² = 1 - RSS/TSS = 1 - ∑_{i=1}^n (y_i - ŷ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - ∑_{i=1}^n (ϵ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - (𝛜^{OLS})′𝛜^{OLS}/∑_{i=1}^n (y_i - ȳ)²
+**Distrattori:**
+- R² = 1 - TSS/RSS = 1 - ∑_{i=1}^n (y_i - ȳ)²/∑_{i=1}^n (y_i - ŷ_i^{OLS})² = 1 - ∑_{i=1}^n (y_i - ȳ)²/∑_{i=1}^n (ϵ_i^{OLS})² = 1 - ∑_{i=1}^n (y_i - ȳ)²/(𝛜^{OLS})′𝛜^{OLS}
+- Relativi l'R² e l'R̄²; assoluto σ̂_ε, l'errore standard della regressione
+- Se 𝐯 ~ N(𝟎, 𝐈) e A è una matrice simmetrica e idempotente conformabile con 𝐯, la forma quadratica 𝐯′A𝐯 ha densità Chi-quadrato con gradi di libertà pari alla traccia di A
+
+**D:** ⚠️ Quale riscrittura della devianza spiegata ESS fa discendere la (105), R² = 1 - RSS/TSS, dalla (104), secondo la dimostrazione della slide 2 della lezione 27?
+**R:** Slide 2: «L'uguaglianza 105 discende direttamente dalla 104, considerando che per la 98 la devianza spiegata ESS può essere riscritta come: ESS = TSS - RSS e effettuando le opportune semplificazioni algebriche». La (98) è la scomposizione della lezione 26, TSS = ESS + RSS: nella (104), R² = ESS/TSS, diventa (TSS - RSS)/TSS = 1 - RSS/TSS (deduzione). ⚠️ Il segno è **meno**: ESS è la differenza fra TSS e RSS, non la somma. Il docente: «la relazione della ESS, cioè della devianza spiegata, come la differenza tra il TSS e l'RSS» (transcript [00:01:23]). È la domanda 2 del test.
+**Opzione:** ESS = TSS - RSS, per la 98
+**Distrattori:**
+- ESS = TSS + RSS, per la 98
+- σ̂_ε = √(∑_{i=1}^n (ϵ_i^{OLS})²/(n - m)), la radice quadrata di σ̂_ε² dell'equazione 67
+- Chi-quadrato con (n - m) gradi di libertà
+
+**D:** ⚠️ Che cosa sono le quantità y_i - ŷ_i^{OLS}, che fanno discendere la (107) dalla (106), secondo la dimostrazione della slide 3 della lezione 27?
+**R:** Slide 3: «L'uguaglianza 107 discende direttamente dalla 106 osservando che ∀i = 1, 2, …, n le quantità y_i - ŷ_i^{OLS} altro non sono che i residui del modello lineare stimati col metodo dei minimi quadrati, ossia gli ϵ_i^{OLS}». Poi la (108) discende dalla (107) perché (𝛜^{OLS})′𝛜^{OLS} = ∑_{i=1}^n (ϵ_i^{OLS})². ⚠️ Sono i **residui** ϵ_i^{OLS}, che si calcolano dai dati, non gli **errori** ε_i del modello, che non si osservano: le slide li scrivono con due epsilon diverse (lezione 23). Il docente: «altro non sono che i residui stimati con il metodo dei minimi quadrati» (transcript [00:01:42]).
+**Opzione:** I residui del modello lineare stimati col metodo dei minimi quadrati, ossia gli ϵ_i^{OLS}
+**Distrattori:**
+- Gli errori del modello di regressione lineare, ossia gli ε_i
+- La stessa unità di misura della variabile dipendente, mentre R² e R̄² sono grandezze percentuali
+- b̂_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), con lo stimatore non distorto σ̂_ε²: ha densità t di Student con (n - m) gradi di libertà
+
+**D:** ⚠️ Come varia l'R² al crescere del numero delle variabili esplicative del modello, secondo la Nota della slide 4 della lezione 27?
+**R:** Slide 4: «L'R² per costruzione non decresce mai al crescere del numero delle variabili esplicative del modello, ossia all'aumentare del numero delle colonne della matrice dei regressori 𝐱». Il docente: «il coefficiente di determinazione non decresce mai al crescere del numero delle variabili esplicative del modello» (transcript [00:02:13]). ⚠️ «Non decresce mai»: può restare uguale o salire, mai scendere. È il motivo per cui si introduce l'R̄², che invece può salire o scendere (slide 5).
+**Opzione:** Per costruzione non decresce mai, ossia all'aumentare del numero delle colonne della matrice dei regressori 𝐱
+**Distrattori:**
+- Per costruzione non cresce mai, ossia all'aumentare del numero delle colonne della matrice dei regressori 𝐱
+- σ̂_ε = √(1 - R̄²)·√(σ_{y∗}²), con l'R² aggiustato e la varianza campionaria della variabile dipendente
+- M è una matrice simmetrica e idempotente
+
+**D:** ⚠️ Che cosa è possibile che accada aggiungendo una o più variabili esplicative al modello, secondo la Nota della slide 4 della lezione 27?
+**R:** Slide 4: «E' pertanto possibile che l'aggiunta di una o più variabili esplicative aumenti il valore del coefficiente di determinazione senza migliorare realmente la bontà del fit rispetto al modello con un minor numero di variabili indipendenti». ⚠️ Il docente dice un'altra cosa: «può capitare che aggiungere variabili esplicative non vadano a migliorare il coefficiente di determinazione, tantomeno la goodness of fit» (transcript [00:02:32]). Vale la slide: l'R² **aumenta**, ed è la bontà del fit a non migliorare davvero. Che l'R² diminuisca è escluso dalla stessa Nota, perché «non decresce mai».
+**Opzione:** Che aumenti il valore del coefficiente di determinazione senza migliorare realmente la bontà del fit rispetto al modello con un minor numero di variabili indipendenti
+**Distrattori:**
+- Che diminuisca il valore del coefficiente di determinazione senza peggiorare realmente la bontà del fit rispetto al modello con un minor numero di variabili indipendenti
+- σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - 1), con ȳ la media campionaria della variabile dipendente
+- û_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ_ε²]_{ii}), con la varianza dell'errore σ_ε²: ha densità normale standardizzata, a media nulla e varianza unitaria
+
+**D:** ⚠️ Come viene spesso corretto l'R² per tener conto della sua caratteristica «sconveniente», secondo la Nota della slide 4 della lezione 27?
+**R:** Slide 4: «Proprio al fine di tener conto di questa caratteristica "sconveniente" dell'R², spesso esso viene corretto applicando una penalizzazione proporzionale al numero delle colonne della matrice dei regressori 𝐱, come indicato dalla seguente Definizione», cioè con l'R̄² della (109). ⚠️ La penalizzazione è proporzionale al numero delle **colonne** di 𝐱, cioè a m, non alla numerosità n del campione: nella (109) è il fattore (n - 1)/(n - m), che cresce con m (slide 5). «Sconveniente» è la caratteristica dell'R², non l'aggiunta di variabili, come sembra dire il docente (transcript [00:02:42]).
+**Opzione:** Applicando una penalizzazione proporzionale al numero delle colonne della matrice dei regressori 𝐱
+**Distrattori:**
+- Applicando una penalizzazione proporzionale alla numerosità n del campione
+- Che l'errore ε abbia una funzione di densità di probabilità di tipo Normale
+- Se BA = 𝟎, con 𝐯 ~ N(𝟎, 𝐈), B conformabile con 𝐯 e A simmetrica e idempotente anch'essa conformabile con 𝐯
+
+**D:** ⚠️ Come si definisce il coefficiente di determinazione aggiustato o corretto R̄² (109), secondo la slide 4 della lezione 27?
+**R:** Slide 4: «Si definisce coefficiente di determinazione aggiustato o corretto e si denota con R̄² la seguente quantità: R̄² = 1 - [(n - 1)/(n - m)](1 - R²) (109) dove n è la numerosità del campione e m è il numero di colonne della matrice 𝐱». Il docente: «1 meno il rapporto tra n meno 1 e n meno m per 1 meno r al quadrato», e lo chiama «r quadro segnato» (transcript [00:02:59]). ⚠️ Il fattore è (n - 1)/(n - m), con n - 1 **sopra** e n - m **sotto**: è maggiore di 1 per m > 1 ed è la penalizzazione. È la domanda 3 del test, dove la piattaforma scrive «Ř2».
+**Opzione:** R̄² = 1 - [(n - 1)/(n - m)](1 - R²)
+**Distrattori:**
+- R̄² = 1 - [(n - m)/(n - 1)](1 - R²)
+- 𝛃̂^{OLS} = 𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆, con 𝛆 il vettore degli errori
+- L'indipendenza tra il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε, diviso per la deviazione standard dell'errore, e la variabile aleatoria (n - m)σ̂_ε²/σ_ε²
+
+**D:** ⚠️ Che cosa indicano n e m nella definizione dell'R̄², R̄² = 1 - [(n - 1)/(n - m)](1 - R²), secondo la slide 4 della lezione 27?
+**R:** Slide 4: «dove n è la numerosità del campione e m è il numero di colonne della matrice 𝐱». Il docente: «n è la numerosità del campione statistico osservato, m è il numero di colonne della matrice delle variabili esplicative, cioè dei regressori» (transcript [00:03:17]). ⚠️ m conta le **colonne** di 𝐱, che nella lezione 24 sono le m - 1 variabili esplicative più la prima colonna di soli 1: è lo stesso m del denominatore n - m di σ̂_ε² (lezione 25).
+**Opzione:** n è la numerosità del campione e m è il numero di colonne della matrice 𝐱
+**Distrattori:**
+- n è il numero di colonne della matrice 𝐱 e m è la numerosità del campione
+- Normale multivariata, 𝛃̂^{OLS}|𝐱 ~ N(𝛃, (𝐱′𝐱)^(-1)σ_ε²): una funzione lineare di una variabile aleatoria Normale è ancora una variabile aleatoria Normale
+- (𝛃̂^{OLS} - 𝛃)/σ_ε = (𝐱′𝐱)^(-1)𝐱′(𝛆/σ_ε), una funzione lineare del vettore aleatorio 𝛆/σ_ε
+
+**D:** ⚠️ Che segno hanno le derivate prime rispetto a m delle due componenti dell'R̄², secondo la Nota della slide 5 della lezione 27?
+**R:** Slide 5: «In virtù dell'equazione 109, l'R̄² è una quantità che può dipendere positivamente o negativamente dal numero di colonne della matrice 𝐱 a seconda del bilanciamento che si realizza tra la componente (n - 1)/(n - m) (la cui derivata prima rispetto a m è positiva) e la componente (1 - R²), la cui derivata prima rispetto a m è invece negativa». Il docente: transcript [00:03:36]–[00:04:05]. ⚠️ All'aumentare di m il denominatore n - m scende e (n - 1)/(n - m) sale; per la Nota della slide 4 R² non decresce, quindi 1 - R² non cresce (deduzione).
+**Opzione:** Positiva quella di (n - 1)/(n - m), negativa quella di (1 - R²): per questo R̄² può dipendere positivamente o negativamente dal numero di colonne della matrice 𝐱
+**Distrattori:**
+- Negativa quella di (n - 1)/(n - m), positiva quella di (1 - R²): per questo R̄² può dipendere positivamente o negativamente dal numero di colonne della matrice 𝐱
+- Normale con media β_i e varianza [(𝐱′𝐱)^(-1)σ_ε²]_{ii}, l'i-esimo elemento della diagonale principale della matrice (𝐱′𝐱)^(-1)σ_ε²
+- (𝐱′𝐱)^(-1)𝐱′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) = 0, verificata svolgendo i prodotti
+
+**D:** ⚠️ Da che cosa dipende negativamente e da che cosa positivamente l'R̄², secondo la Nota della slide 5 della lezione 27?
+**R:** Slide 5: «Si noti altresì che l'R̄² dipende negativamente da (n - 1)/(n - m) (che infatti rappresenta la penalizzazione) e positivamente da R²». Il docente: «dipende negativamente da n-1 su n-m, la penalizzazione si dice della stima, e positivamente invece dal coefficiente di determinazione» (transcript [00:04:22]). ⚠️ Nella (109), R̄² = 1 - [(n - 1)/(n - m)](1 - R²), la penalizzazione moltiplica (1 - R²) e si sottrae da 1: più è grande, più R̄² scende; più R² è grande, più R̄² sale.
+**Opzione:** Negativamente da (n - 1)/(n - m), che rappresenta la penalizzazione, e positivamente da R²
+**Distrattori:**
+- Positivamente da (n - 1)/(n - m), che rappresenta la penalizzazione, e negativamente da R²
+- û_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ_ε²]_{ii}), con la varianza dell'errore σ_ε²: ha densità normale standardizzata, a media nulla e varianza unitaria
+- b̂_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), con lo stimatore non distorto σ̂_ε²: ha densità t di Student con (n - m) gradi di libertà
+
+**D:** ⚠️ A quale condizione l'R̄² può salire all'aumentare di m, secondo la Nota della slide 5 della lezione 27?
+**R:** Slide 5: «Ne consegue che all'aumentare di m, l'R̄² può salire solo se l'aumento della capacità di adattamento del modello (misurato dall'R² tout court) è maggiore dell'aumento della penalizzazione». Il docente: «può salire solo se l'aumento della capacità di adattamento del modello determinata dal coefficiente di determinazione R quadro è maggiore dell'aumento della penalizzazione» (transcript [00:04:39]). ⚠️ «Solo se … maggiore»: se il guadagno di R² è minore della penalizzazione, R̄² scende.
+**Opzione:** Solo se l'aumento della capacità di adattamento del modello, misurato dall'R² tout court, è maggiore dell'aumento della penalizzazione
+**Distrattori:**
+- Solo se l'aumento della capacità di adattamento del modello, misurato dall'R² tout court, è minore dell'aumento della penalizzazione
+- Il suo stimatore non distorto ottenuto con il metodo dei minimi quadrati, σ̂_ε² dell'equazione 67, perché σ_ε² è un parametro sconosciuto
+- û_i^{OLS}/√(σ̂_ε²/σ_ε²), il rapporto fra la Normale standardizzata e la radice di una Chi-quadrato
+
+**D:** ⚠️ Quali indicatori della bontà del fit sono relativi e quale è assoluto, secondo la slide 6 della lezione 27?
+**R:** Slide 6: «Sia l'R² che l'R̄² sono indicatori relativi della bontà del fit. Un indicatore assoluto della capacità di adattamento del modello stimato ai dati osservati è invece σ̂_ε ossia (come si è visto in una delle lezioni precedenti) l'errore standard della regressione». ⚠️ Il docente chiama l'indicatore assoluto «la varianza dei residui» (transcript [00:05:18]): per la slide è σ̂_ε, la **radice quadrata** di σ̂_ε², ed è la radice ad avere la stessa unità di misura della variabile dipendente.
+**Opzione:** Relativi l'R² e l'R̄²; assoluto σ̂_ε, l'errore standard della regressione
+**Distrattori:**
+- Relativo σ̂_ε, l'errore standard della regressione; assoluti l'R² e l'R̄²
+- Se 𝐯 ~ N(𝟎, 𝐈) e A è una matrice simmetrica e idempotente conformabile con 𝐯, la forma quadratica 𝐯′A𝐯 ha densità Chi-quadrato con gradi di libertà pari alla traccia di A
+- R² = 1 - RSS/TSS = 1 - ∑_{i=1}^n (y_i - ŷ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - ∑_{i=1}^n (ϵ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - (𝛜^{OLS})′𝛜^{OLS}/∑_{i=1}^n (y_i - ȳ)²
+
+**D:** ⚠️ Come è definito l'errore standard della regressione σ̂_ε (110), secondo la slide 6 della lezione 27?
+**R:** Slide 6: σ̂_ε è l'errore standard della regressione, «(dall'inglese Standard Error of the Regression) e ottenuto come radice quadrata della quantità σ̂_ε² di cui all'equazione 67. In base a tale equazione l'errore standard della regressione è così definito: σ̂_ε = √(∑_{i=1}^n (ϵ_i^{OLS})²/(n - m)) (110)». Il docente: «la radice quadrata della sommatoria degli stimatori dei residui al quadrato diviso n-m» (transcript [00:05:40]). ⚠️ Il denominatore è **n - m**, come nello stimatore non distorto σ̂_ε² (67); con n si avrebbe la radice di σ_{ϵ^{OLS}}², lo stimatore distorto della lezione 25.
+**Opzione:** σ̂_ε = √(∑_{i=1}^n (ϵ_i^{OLS})²/(n - m)), la radice quadrata di σ̂_ε² dell'equazione 67
+**Distrattori:**
+- σ̂_ε = √(∑_{i=1}^n (ϵ_i^{OLS})²/n), la radice quadrata di σ̂_ε² dell'equazione 67
+- Chi-quadrato con (n - m) gradi di libertà
+- ESS = TSS - RSS, per la 98
+
+**D:** ⚠️ Quale unità di misura ha l'errore standard della regressione σ̂_ε, a differenza di R² e R̄², secondo la slide 6 della lezione 27?
+**R:** Slide 6: «A differenza di R² e di R̄² che sono grandezze percentuali, σ̂_ε ha la stessa unità di misura della variabile dipendente e, proprio per tale motivo, esso offre una misura assoluta della distanza tipica che separa i dati osservati dalle corrispondenti stime elaborate col metodo dei minimi quadrati ordinari». Il docente: «ha la stessa unità di misura della variabile dipendente e quindi offre una misura anche più intuitiva» (transcript [00:06:00]). ⚠️ È l'unità della variabile **dipendente** y, quella che si stima, non delle esplicative.
+**Opzione:** La stessa unità di misura della variabile dipendente, mentre R² e R̄² sono grandezze percentuali
+**Distrattori:**
+- La stessa unità di misura delle variabili esplicative, mentre R² e R̄² sono grandezze percentuali
+- 𝛜^{OLS} = M𝛆, con M la matrice di generazione dei residui OLS
+- I residui del modello lineare stimati col metodo dei minimi quadrati, ossia gli ϵ_i^{OLS}
+
+**D:** ⚠️ Quale relazione lega l'errore standard della regressione σ̂_ε e l'R̄² (111), secondo la proposizione della slide 7 della lezione 27?
+**R:** Slide 7: «L'errore standard della regressione e l'R̄² sono legati dalla seguente relazione: σ̂_ε = √(1 - R̄²)·√(σ_{y∗}²) (111) dove σ_{y∗}² è la varianza campionaria della variabile dipendente». Il docente: «la radice quadrata di 1-R quadro segnato per la radice quadrata della varianza di y star» (transcript [00:06:46]). ⚠️ Nella (111) c'è l'R² **aggiustato**: per la dimostrazione (slide 8) 1 - R̄² = [(n - 1)/(n - m)](1 - R²), e con l'R² semplice il conto non torna. È la domanda 4 del test.
+**Opzione:** σ̂_ε = √(1 - R̄²)·√(σ_{y∗}²), con l'R² aggiustato e la varianza campionaria della variabile dipendente
+**Distrattori:**
+- σ̂_ε = √(1 - R²)·√(σ_{y∗}²), con l'R² non aggiustato e la varianza campionaria della variabile dipendente
+- M è una matrice simmetrica e idempotente
+- Per costruzione non decresce mai, ossia all'aumentare del numero delle colonne della matrice dei regressori 𝐱
+
+**D:** ⚠️ Come è definita la varianza campionaria della variabile dipendente σ_{y∗}² (112), secondo la slide 7 della lezione 27?
+**R:** Slide 7: «σ_{y∗}² è la varianza campionaria della variabile dipendente ed è così definita: σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - 1) (112) con ȳ pari alla media campionaria della variabile dipendente (cfr. equazione 93)». ⚠️ Il denominatore è **n - 1**, non n - m come in σ̂_ε² e σ̂_ε, né n come in σ_{ϵ^{OLS}}². Il docente legge la formula senza il quadrato, «meno il dato medio diviso n-1» (transcript [00:06:57]): la slide ha (y_i - ȳ)². È la domanda 5 del test.
+**Opzione:** σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - 1), con ȳ la media campionaria della variabile dipendente
+**Distrattori:**
+- σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - m), con ȳ la media campionaria della variabile dipendente
+- Che aumenti il valore del coefficiente di determinazione senza migliorare realmente la bontà del fit rispetto al modello con un minor numero di variabili indipendenti
+
+**D:** ⚠️ Quale assunzione-chiave del modello lineare sulla distribuzione dell'errore richiama la slide 10 della lezione 27, all'inizio della parte sull'inferenza?
+**R:** Slide 10: «un'altra assunzione-chiave del modello lineare è che l'errore ε abbia una funzione di densità di probabilità di tipo Normale». L'altra assunzione richiamata è Var(𝛆|𝐱) = σ_ε²𝐈_n. Il docente: «l'errore epsilon abbia una funzione di densità di probabilità normale» (transcript [00:09:49]). ⚠️ È l'errore a essere **Normale**: la Chi-quadrato e la t di Student compaiono dopo, come distribuzioni di (n - m)σ̂_ε²/σ_ε² e di b̂_i^{OLS} (slide 15 e 26).
+**Opzione:** Che l'errore ε abbia una funzione di densità di probabilità di tipo Normale
+**Distrattori:**
+- Che l'errore ε abbia una funzione di densità di probabilità di tipo t di Student
+- Se BA = 𝟎, con 𝐯 ~ N(𝟎, 𝐈), B conformabile con 𝐯 e A simmetrica e idempotente anch'essa conformabile con 𝐯
+- Applicando una penalizzazione proporzionale al numero delle colonne della matrice dei regressori 𝐱
+
+**D:** ⚠️ Come si riscrive lo stimatore 𝛃̂^{OLS} esplicitando 𝐲 in base alla 34 (113), nella slide 10 della lezione 27?
+**R:** Slide 10: «𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (40) vale a dire, esplicitando 𝐲 in base alla 34: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′(𝐱𝛃 + 𝛆) e quindi, svolgendo i prodotti e semplificando: 𝛃̂^{OLS} = 𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆 (113)». ⚠️ Il docente dice «per i residui» (transcript [00:09:58]): la slide ha 𝛆, gli **errori**. Con i residui il termine si annullerebbe, perché 𝐱′𝛜^{OLS} = 0 (49) (deduzione).
+**Opzione:** 𝛃̂^{OLS} = 𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆, con 𝛆 il vettore degli errori
+**Distrattori:**
+- 𝛃̂^{OLS} = 𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛜^{OLS}, con 𝛜^{OLS} il vettore dei residui OLS
+- L'indipendenza tra il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε, diviso per la deviazione standard dell'errore, e la variabile aleatoria (n - m)σ̂_ε²/σ_ε²
+- R̄² = 1 - [(n - 1)/(n - m)](1 - R²)
+
+**D:** ⚠️ Che distribuzione ha lo stimatore 𝛃̂^{OLS} condizionatamente a 𝐱 (114), e perché, secondo la slide 11 della lezione 27?
+**R:** Slide 11–12: «Per quanto precede (e ricordando che una funzione lineare di una variabile aleatoria Normale è ancora una variabile aleatoria Normale), si ha che, condizionatamente a 𝐱, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} ha anch'esso una funzione di densità di probabilità di tipo Normale multivariata con media 𝛃 e matrice varianze-covarianze (𝐱′𝐱)^(-1)σ_ε², i.e.: 𝛃̂^{OLS}|𝐱 ~ N(𝛃, (𝐱′𝐱)^(-1)σ_ε²) (114)». La media è la (72), E(𝛃̂^{OLS}|𝐱) = 𝛃, la matrice la (73) (lezione 25). ⚠️ La media è 𝛃, perché lo stimatore è corretto: a media nulla è (𝛃̂^{OLS} - 𝛃). Il docente: transcript [00:10:51].
+**Opzione:** Normale multivariata, 𝛃̂^{OLS}|𝐱 ~ N(𝛃, (𝐱′𝐱)^(-1)σ_ε²): una funzione lineare di una variabile aleatoria Normale è ancora una variabile aleatoria Normale
+**Distrattori:**
+- Normale multivariata, 𝛃̂^{OLS}|𝐱 ~ N(𝟎, (𝐱′𝐱)^(-1)σ_ε²): una funzione lineare di una variabile aleatoria Normale è ancora una variabile aleatoria Normale
+- (𝛃̂^{OLS} - 𝛃)/σ_ε = (𝐱′𝐱)^(-1)𝐱′(𝛆/σ_ε), una funzione lineare del vettore aleatorio 𝛆/σ_ε
+- n è la numerosità del campione e m è il numero di colonne della matrice 𝐱
+
+**D:** ⚠️ Che distribuzione ha il generico elemento i-esimo β̂_i^{OLS} del vettore 𝛃̂^{OLS}, condizionatamente a 𝐱 (115), secondo la slide 12 della lezione 27?
+**R:** Slide 12: «il generico elemento i-esimo del vettore 𝛃̂^{OLS}, con i = 1, 2, …, m, ha una una funzione di densità di probabilità di tipo Normale con media β_i e varianza [(𝐱′𝐱)^(-1)σ_ε²]_{ii}, i.e.: β̂_i^{OLS}|𝐱 ~ N(β_i, [(𝐱′𝐱)^(-1)σ_ε²]_{ii}) (115) dove [(𝐱′𝐱)^(-1)σ_ε²]_{ii} è l'i-esimo elemento della diagonale principale della matrice (𝐱′𝐱)^(-1)σ_ε²». ⚠️ La varianza è un **elemento della diagonale**, non la traccia, che è la somma di tutti gli elementi della diagonale. Il docente aggiunge «beta0 quindi escluso» (transcript [00:11:29]), ma la slide conta i = 1, …, m, gli m elementi del vettore.
+**Opzione:** Normale con media β_i e varianza [(𝐱′𝐱)^(-1)σ_ε²]_{ii}, l'i-esimo elemento della diagonale principale della matrice (𝐱′𝐱)^(-1)σ_ε²
+**Distrattori:**
+- Normale con media β_i e varianza tr((𝐱′𝐱)^(-1)σ_ε²), la traccia della matrice (𝐱′𝐱)^(-1)σ_ε²
+- (𝐱′𝐱)^(-1)𝐱′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) = 0, verificata svolgendo i prodotti
+- Positiva quella di (n - 1)/(n - m), negativa quella di (1 - R²): per questo R̄² può dipendere positivamente o negativamente dal numero di colonne della matrice 𝐱
+
+**D:** ⚠️ Come è definita la variabile aleatoria û_i^{OLS} (116), e che distribuzione ha condizionatamente a 𝐱, secondo la proposizione della slide 13 della lezione 27?
+**R:** Slide 13: «Condizionatamente a 𝐱, la variabile aleatoria û_i^{OLS} definita come: û_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ_ε²]_{ii}) (116) ha una funzione di densità di probabilità normale standardizzata, i.e. a media nulla e varianza unitaria». Dimostrazione: «Ictu oculi dalla 115». ⚠️ Si divide per la **radice quadrata** della varianza, la deviazione standard; il docente dice «Abbiamo sottratto la media e diviso la varianza» (transcript [00:13:12]). È la stessa trappola della forma standardizzata della lezione 02. ⚠️ Nella (116) c'è σ_ε², la varianza vera dell'errore: con σ̂_ε² si ottiene b̂_i^{OLS} (126), che è una t di Student.
+**Opzione:** û_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ_ε²]_{ii}), con la varianza dell'errore σ_ε²: ha densità normale standardizzata, a media nulla e varianza unitaria
+**Distrattori:**
+- û_i^{OLS} := (β̂_i^{OLS} - β_i)/[(𝐱′𝐱)^(-1)σ_ε²]_{ii}, con la varianza dell'errore σ_ε²: ha densità normale standardizzata, a media nulla e varianza unitaria
+- 𝛜^{OLS} = M𝛆, con M la matrice di generazione dei residui OLS
+- Negativamente da (n - 1)/(n - m), che rappresenta la penalizzazione, e positivamente da R²
+
+**D:** ⚠️ Che cosa si utilizza al posto di σ_ε² in sede di inferenza statistica sul modello lineare, e perché, secondo la Nota della slide 14 della lezione 27?
+**R:** Slide 14: «la distribuzione di probabilità condizionata della variabile aleatoria û_i^{OLS} di cui all'equazione 116 non è nota in quanto essa dipende, tra l'altro, da σ_ε² che è un parametro sconosciuto. Per questo motivo, in sede di inferenza statistica sul modello lineare (ossia di formulazione di proposizioni sui parametri rilevanti del modello medesimo), al posto di σ_ε² si utilizza il suo stimatore non distorto ottenuto con il metodo dei minimi quadrati, vale a dire lo stimatore σ̂_ε² di cui all'equazione 67». Il docente: transcript [00:13:24]–[00:13:43]. ⚠️ È lo stimatore **non distorto** σ̂_ε², con n - m al denominatore, non la varianza dei residui OLS σ_{ϵ^{OLS}}² della (60), che divide per n ed è distorta (lezione 25).
+**Opzione:** Il suo stimatore non distorto ottenuto con il metodo dei minimi quadrati, σ̂_ε² dell'equazione 67, perché σ_ε² è un parametro sconosciuto
+**Distrattori:**
+- La varianza dei residui OLS σ_{ϵ^{OLS}}², lo stimatore distorto dell'equazione 60, perché σ_ε² è un parametro sconosciuto
+- û_i^{OLS}/√(σ̂_ε²/σ_ε²), il rapporto fra la Normale standardizzata e la radice di una Chi-quadrato
+- Solo se l'aumento della capacità di adattamento del modello, misurato dall'R² tout court, è maggiore dell'aumento della penalizzazione
+
+**D:** ⚠️ Che cosa afferma il teorema sulla forma quadratica 𝐯′A𝐯 della slide 15 della lezione 27?
+**R:** Slide 15: «Sia 𝐯 un vettore aleatorio con una funzione di densità di probabilità Normale standardizzata multivariata, i.e.: 𝐯 ~ N(𝟎, 𝐈) e sia A una matrice simmetrica e idempotente conformabile con 𝐯. Allora la forma quadratica 𝐯′A𝐯 ha una funzione di densità di probabilità di tipo Chi-quadrato con un numero di gradi di libertà pari alla traccia di A». Il docente: transcript [00:14:06]–[00:14:22]. ⚠️ La forma quadratica dà una **Chi-quadrato**; la t di Student è il rapporto fra una Normale standardizzata e la radice di una Chi-quadrato divisa per i suoi gradi (slide 20). Nella lezione A = M e 𝐯 = 𝛆/σ_ε (slide 19).
+**Opzione:** Se 𝐯 ~ N(𝟎, 𝐈) e A è una matrice simmetrica e idempotente conformabile con 𝐯, la forma quadratica 𝐯′A𝐯 ha densità Chi-quadrato con gradi di libertà pari alla traccia di A
+**Distrattori:**
+- Se 𝐯 ~ N(𝟎, 𝐈) e A è una matrice simmetrica e idempotente conformabile con 𝐯, la forma quadratica 𝐯′A𝐯 ha densità t di Student con gradi di libertà pari alla traccia di A
+- R² = 1 - RSS/TSS = 1 - ∑_{i=1}^n (y_i - ŷ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - ∑_{i=1}^n (ϵ_i^{OLS})²/∑_{i=1}^n (y_i - ȳ)² = 1 - (𝛜^{OLS})′𝛜^{OLS}/∑_{i=1}^n (y_i - ȳ)²
+- Relativi l'R² e l'R̄²; assoluto σ̂_ε, l'errore standard della regressione
+
+**D:** ⚠️ Che distribuzione ha, condizionatamente a 𝐱, la variabile aleatoria (n - m)σ̂_ε²/σ_ε² (117), secondo la proposizione della slide 15 della lezione 27?
+**R:** Slide 15: «Condizionatamente a 𝐱, la variabile aleatoria (n - m)σ̂_ε²/σ_ε² (117) ha una funzione di densità di probabilità di tipo Chi-quadrato con (n - m) gradi di libertà»; slide 19: (n - m)σ̂_ε²/σ_ε² ~ χ²_{(n-m)} (122). ⚠️ I gradi sono **n - m**: il docente dice una volta «chi quadro con n-gradi di libertà» (transcript [00:14:56]) e poi «un chi quadro con n-m gradi» ([00:18:51]). Sono la traccia di M, che nella lezione 25 vale n - m (deduzione dal teorema della slide 15).
+**Opzione:** Chi-quadrato con (n - m) gradi di libertà
+**Distrattori:**
+- Chi-quadrato con n gradi di libertà
+- ESS = TSS - RSS, per la 98
+- σ̂_ε = √(∑_{i=1}^n (ϵ_i^{OLS})²/(n - m)), la radice quadrata di σ̂_ε² dell'equazione 67
+
+**D:** ⚠️ Come si esprime il vettore dei residui OLS in funzione del vettore degli errori (120), nella dimostrazione delle slide 17–18 della lezione 27?
+**R:** Slide 17–18: da 𝛜^{OLS} = M𝐲 (56), con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) (57), ed esplicitando 𝐲 con la 34: (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)(𝐱𝛃 + 𝛆) = 𝐱𝛃 - 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱𝛃 + (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆 = 𝐱𝛃 - 𝐱𝛃 + (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆, «e quindi, usando di nuovo la 57: 𝛜^{OLS} = M𝛆 (120)». Il docente: «non è altro che M per ε» (transcript [00:17:25]). ⚠️ È M, la matrice di generazione dei residui, non la matrice di proiezione P della lezione 24, che dà il fit.
+**Opzione:** 𝛜^{OLS} = M𝛆, con M la matrice di generazione dei residui OLS
+**Distrattori:**
+- 𝛜^{OLS} = P𝛆, con P la matrice di proiezione OLS
+- Che l'errore ε abbia una funzione di densità di probabilità di tipo Normale
+- La stessa unità di misura della variabile dipendente, mentre R² e R̄² sono grandezze percentuali
+
+**D:** ⚠️ Quale proprietà di M permette di riscrivere 𝛆′M′M𝛆/σ_ε² come 𝛆′M𝛆/σ_ε², e quindi di arrivare alla (121), nella slide 19 della lezione 27?
+**R:** Slide 19: dopo (M𝛆)′M𝛆/σ_ε², «ossia, per una nota proprietà delle matrici trasposte: = 𝛆′M′M𝛆/σ_ε² ossia, ricordando che M è una matrice simmetrica e idempotente: = 𝛆′M𝛆/σ_ε² vale a dire: (n - m)σ̂_ε²/σ_ε² = (𝛆/σ_ε)′M(𝛆/σ_ε) (121)». Il docente: transcript [00:18:05]. ⚠️ Serve che M sia **simmetrica**, M′ = M, e **idempotente**, MM = M (lezione 24). M non è invertibile: se lo fosse, da MM = M seguirebbe M = 𝐈_n (deduzione). Le stesse due proprietà sono l'ipotesi su A del teorema della slide 15.
+**Opzione:** M è una matrice simmetrica e idempotente
+**Distrattori:**
+- M è una matrice simmetrica e invertibile
+- Per costruzione non decresce mai, ossia all'aumentare del numero delle colonne della matrice dei regressori 𝐱
+- σ̂_ε = √(1 - R̄²)·√(σ_{y∗}²), con l'R² aggiustato e la varianza campionaria della variabile dipendente
+
+**D:** ⚠️ Che cosa afferma il teorema della slide 20 della lezione 27 sul rapporto fra una variabile aleatoria Normale standardizzata e una Chi-quadrato?
+**R:** Slide 20: «Il rapporto tra una variabile aleatoria Normale standardizzata e la radice quadrata di una variabile aleatoria Chi-quadrato divisa per il numero dei suoi gradi di libertà e indipendente dalla variabile aleatoria Normale standardizzata è una variabile aleatoria che ha una funzione di densità di probabilità t di Student con lo stesso numero di gradi di libertà della variabile aleatoria Chi-quadrato». ⚠️ La Chi-quadrato è **divisa** per i suoi gradi di libertà, e dev'essere **indipendente** dalla Normale standardizzata. Il docente omette l'indipendenza (transcript [00:19:18]–[00:19:23]), che le slide 22–25 dimostrano proprio per û_i^{OLS}.
+**Opzione:** Il rapporto tra una variabile aleatoria Normale standardizzata e la radice quadrata di una variabile aleatoria Chi-quadrato divisa per il numero dei suoi gradi di libertà e indipendente dalla variabile aleatoria Normale standardizzata è una variabile aleatoria che ha una funzione di densità di probabilità t di Student con lo stesso numero di gradi di libertà della variabile aleatoria Chi-quadrato
+**Distrattori:**
+- Il rapporto tra una variabile aleatoria Normale standardizzata e la radice quadrata di una variabile aleatoria Chi-quadrato moltiplicata per il numero dei suoi gradi di libertà e indipendente dalla variabile aleatoria Normale standardizzata è una variabile aleatoria che ha una funzione di densità di probabilità t di Student con lo stesso numero di gradi di libertà della variabile aleatoria Chi-quadrato
+- Che aumenti il valore del coefficiente di determinazione senza migliorare realmente la bontà del fit rispetto al modello con un minor numero di variabili indipendenti
+- σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - 1), con ȳ la media campionaria della variabile dipendente
+
+**D:** ⚠️ A quale condizione la funzione lineare B𝐯 e la forma quadratica 𝐯′A𝐯 sono statisticamente indipendenti, secondo il teorema della slide 21 della lezione 27?
+**R:** Slide 21: «Siano: 𝐯 un vettore colonna aleatorio con una funzione di densità di probabilità Normale standardizzata multivariata, i.e.: 𝐯 ~ N(𝟎, 𝐈); B una matrice conformabile con 𝐯; A una matrice simmetrica e idempotente anch'essa conformabile con 𝐯; Allora, se BA = 𝟎, la funzione lineare B𝐯 e la forma quadratica 𝐯′A𝐯 sono statisticamente indipendenti». Il docente: «se BA è uguale a zero» (transcript [00:20:14]). ⚠️ Il prodotto BA dev'essere la matrice **nulla**, non l'identità. Nella lezione B = (𝐱′𝐱)^(-1)𝐱′ e A = M, e la condizione è la (125) (deduzione).
+**Opzione:** Se BA = 𝟎, con 𝐯 ~ N(𝟎, 𝐈), B conformabile con 𝐯 e A simmetrica e idempotente anch'essa conformabile con 𝐯
+**Distrattori:**
+- Se BA = 𝐈, con 𝐯 ~ N(𝟎, 𝐈), B conformabile con 𝐯 e A simmetrica e idempotente anch'essa conformabile con 𝐯
+- Applicando una penalizzazione proporzionale al numero delle colonne della matrice dei regressori 𝐱
+- I residui del modello lineare stimati col metodo dei minimi quadrati, ossia gli ϵ_i^{OLS}
+
+**D:** ⚠️ Che cosa è sufficiente provare per dimostrare l'indipendenza tra û_i^{OLS} e (n - m)σ̂_ε²/σ_ε², secondo la slide 22 della lezione 27?
+**R:** Slide 22: «Per dimostrare l'indipendenza tra û_i^{OLS} e (n - m)σ̂_ε²/σ_ε² è sufficiente provare l'indipendenza tra il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε e la variabile aleatoria (n - m)σ̂_ε²/σ_ε²». Il docente: «il vettore aleatorio dello stimatore dei minimi quadrati OLS meno beta diviso la deviazione standard» (transcript [00:21:10]–[00:21:32]). ⚠️ Il vettore è diviso per σ_ε, la deviazione standard vera dell'errore, non per l'errore standard della regressione σ̂_ε: così la (123) diventa la funzione lineare B𝐯 del teorema della slide 21, con 𝐯 = 𝛆/σ_ε (deduzione).
+**Opzione:** L'indipendenza tra il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε, diviso per la deviazione standard dell'errore, e la variabile aleatoria (n - m)σ̂_ε²/σ_ε²
+**Distrattori:**
+- L'indipendenza tra il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ̂_ε, diviso per l'errore standard della regressione, e la variabile aleatoria (n - m)σ̂_ε²/σ_ε²
+- R̄² = 1 - [(n - 1)/(n - m)](1 - R²)
+- 𝛃̂^{OLS} = 𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆, con 𝛆 il vettore degli errori
+
+**D:** ⚠️ Come si riscrive il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε (123), nella dimostrazione delle slide 22–24 della lezione 27?
+**R:** Slide 22–24: in base alla 40, (𝛃̂^{OLS} - 𝛃)/σ_ε = ((𝐱′𝐱)^(-1)𝐱′𝐲 - 𝛃)/σ_ε; con la 34, = ((𝐱′𝐱)^(-1)𝐱′(𝐱𝛃 + 𝛆) - 𝛃)/σ_ε; svolgendo i prodotti e semplificando, = (𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆 - 𝛃)/σ_ε, «e, quindi, semplificando ancora: (𝛃̂^{OLS} - 𝛃)/σ_ε = (𝐱′𝐱)^(-1)𝐱′(𝛆/σ_ε) (123)». ⚠️ Davanti a 𝛆/σ_ε c'è (𝐱′𝐱)^(-1)𝐱′, la B del teorema della slide 21, non la matrice di proiezione 𝐱(𝐱′𝐱)^(-1)𝐱′ della lezione 24. Il docente: transcript [00:21:46]–[00:23:09].
+**Opzione:** (𝛃̂^{OLS} - 𝛃)/σ_ε = (𝐱′𝐱)^(-1)𝐱′(𝛆/σ_ε), una funzione lineare del vettore aleatorio 𝛆/σ_ε
+**Distrattori:**
+- (𝛃̂^{OLS} - 𝛃)/σ_ε = 𝐱(𝐱′𝐱)^(-1)𝐱′(𝛆/σ_ε), una funzione lineare del vettore aleatorio 𝛆/σ_ε
+- n è la numerosità del campione e m è il numero di colonne della matrice 𝐱
+- Normale multivariata, 𝛃̂^{OLS}|𝐱 ~ N(𝛃, (𝐱′𝐱)^(-1)σ_ε²): una funzione lineare di una variabile aleatoria Normale è ancora una variabile aleatoria Normale
+
+**D:** ⚠️ Quale uguaglianza è condizione sufficiente perché (𝛃̂^{OLS} - 𝛃)/σ_ε e (n - m)σ̂_ε²/σ_ε² siano indipendenti (125), secondo la slide 25 della lezione 27?
+**R:** Slide 25: «condizione sufficiente affinchè il vettore aleatorio (𝛃̂^{OLS} - 𝛃)/σ_ε e la variabile aleatoria (n - m)σ̂_ε²/σ_ε² siano indipendenti è che la seguente uguaglianza sia verificata: (𝐱′𝐱)^(-1)𝐱′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) ≟ 0 (125)». Svolgendo i prodotti: (𝐱′𝐱)^(-1)𝐱′ - (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′ = (𝐱′𝐱)^(-1)𝐱′ - (𝐱′𝐱)^(-1)𝐱′ = 0. Il docente: «e abbiamo ottenuto 0 uguale 0» (transcript [00:26:01]). ⚠️ Fra parentesi c'è M = 𝐈_n **meno** 𝐱(𝐱′𝐱)^(-1)𝐱′: è il BA = 𝟎 del teorema della slide 21, con B = (𝐱′𝐱)^(-1)𝐱′ (deduzione).
+**Opzione:** (𝐱′𝐱)^(-1)𝐱′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) = 0, verificata svolgendo i prodotti
+**Distrattori:**
+- (𝐱′𝐱)^(-1)𝐱′(𝐈_n + 𝐱(𝐱′𝐱)^(-1)𝐱′) = 0, verificata svolgendo i prodotti
+- Positiva quella di (n - 1)/(n - m), negativa quella di (1 - R²): per questo R̄² può dipendere positivamente o negativamente dal numero di colonne della matrice 𝐱
+- Normale con media β_i e varianza [(𝐱′𝐱)^(-1)σ_ε²]_{ii}, l'i-esimo elemento della diagonale principale della matrice (𝐱′𝐱)^(-1)σ_ε²
+
+**D:** ⚠️ Come è definita la variabile aleatoria b̂_i^{OLS} (126), e che distribuzione ha condizionatamente a 𝐱, secondo la proposizione della slide 26 della lezione 27?
+**R:** Slide 26: «Condizionatamente a 𝐱, la variabile aleatoria definita come: b̂_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}) (126) ha una funzione di densità di probabilità di tipo t di Student con (n - m) gradi di libertà». Il docente: transcript [00:26:10]–[00:26:40]. ⚠️ Nella (126) c'è σ̂_ε², lo stimatore: è la differenza con û_i^{OLS} (116), che ha σ_ε² ed è Normale standardizzata. La Chi-quadrato con (n - m) gradi è la distribuzione di (n - m)σ̂_ε²/σ_ε² (122), non di b̂_i^{OLS}. La lezione 28 usa la (126) per i test di ipotesi.
+**Opzione:** b̂_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), con lo stimatore non distorto σ̂_ε²: ha densità t di Student con (n - m) gradi di libertà
+**Distrattori:**
+- b̂_i^{OLS} := (β̂_i^{OLS} - β_i)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), con lo stimatore non distorto σ̂_ε²: ha densità Chi-quadrato con (n - m) gradi di libertà
+- Negativamente da (n - 1)/(n - m), che rappresenta la penalizzazione, e positivamente da R²
+
+**D:** ⚠️ Quale rapporto ha una densità t di Student con (n - m) gradi di libertà, nella (127) della dimostrazione delle slide 26–27 della lezione 27?
+**R:** Slide 26–27: il rapporto tra û_i^{OLS} «e la radice quadrata di (n - m)σ̂_ε²/((n - m)σ_ε²), ossia la radice quadrata di σ̂_ε²/σ_ε², è una variabile aleatoria con una funzione di densità di probabilità di tipo t di Student con (n - m) gradi di libertà, i.e.: û_i^{OLS}/√(σ̂_ε²/σ_ε²) ~ t_{(n-m)} (127)». ⚠️ Sotto radice c'è la Chi-quadrato (n - m)σ̂_ε²/σ_ε² **divisa per i suoi n - m gradi di libertà**, come vuole il teorema della slide 20: per questo n - m si semplifica. Il docente: transcript [00:27:15]–[00:27:47].
+**Opzione:** û_i^{OLS}/√(σ̂_ε²/σ_ε²), il rapporto fra la Normale standardizzata e la radice di una Chi-quadrato
+**Distrattori:**
+- û_i^{OLS}/√((n - m)σ̂_ε²/σ_ε²), il rapporto fra la Normale standardizzata e la radice di una Chi-quadrato
+- Solo se l'aumento della capacità di adattamento del modello, misurato dall'R² tout court, è maggiore dell'aumento della penalizzazione
+- Il suo stimatore non distorto ottenuto con il metodo dei minimi quadrati, σ̂_ε² dell'equazione 67, perché σ_ε² è un parametro sconosciuto
+
+**D:** Perché la lezione 27 deve dimostrare che û_i^{OLS} e (n - m)σ̂_ε²/σ_ε² sono indipendenti, prima di arrivare alla t di Student di b̂_i^{OLS}?
+**R:** Perché il teorema della slide 20 dà una t di Student solo se la Chi-quadrato è «indipendente dalla variabile aleatoria Normale standardizzata». La dimostrazione delle slide 22–25 usa il teorema della slide 21: con 𝐯 = 𝛆/σ_ε, B = (𝐱′𝐱)^(-1)𝐱′ e A = M (deduzione), (𝛃̂^{OLS} - 𝛃)/σ_ε = B𝐯 (123) e (n - m)σ̂_ε²/σ_ε² = 𝐯′A𝐯 (124), e la condizione BA = 𝟎 è la (125), verificata svolgendo i prodotti. ⚠️ Il docente, enunciando il teorema della t, omette proprio la condizione di indipendenza (transcript [00:19:18]–[00:19:23]).
+
+**D:** Perché per fare inferenza sui coefficienti si usa b̂_i^{OLS} (126) e non û_i^{OLS} (116), secondo le slide 14 e 26–28 della lezione 27?
+**R:** Perché û_i^{OLS} contiene σ_ε², e la Nota della slide 14 avverte che la sua distribuzione «non è nota in quanto essa dipende, tra l'altro, da σ_ε² che è un parametro sconosciuto»: al suo posto si usa lo stimatore non distorto σ̂_ε² (67). Sostituendo σ̂_ε², la variabile non è più Normale standardizzata ma b̂_i^{OLS}, una t di Student con (n - m) gradi di libertà (126). Nella dimostrazione (slide 27–28) σ_ε² si semplifica e resta solo σ̂_ε², che si calcola dai dati (deduzione). La lezione 28 la usa per i test di ipotesi (slide 2 del deck 28).
+
+**D:** ⚠️ Quale formulazione ammette il coefficiente di determinazione del modello lineare stimato col metodo OLS, secondo il test della lezione 27 (domanda 1)?
+**R:** «**R2=1-RSS/TSS**», cioè la (105) della slide 2, R² = 1 - RSS/TSS, «In alternativa alla 104». Il docente: «1 meno il residual sum of squares sul total sum of squares» (transcript [00:00:12]). Distrattori del test: «R2=1-RSS» toglie la divisione per TSS; «R2=RSS/TSS» toglie il «1 -» ed è la quota della devianza totale non spiegata; «R2=1-RSS∗TSS» mette un prodotto al posto della divisione, e lo stesso prodotto torna nelle domande 2 e 3 dello stesso test.
+**Opzione:** R2=1-RSS/TSS
+**Distrattori:**
+- R2=1-RSS
+- R2=RSS/TSS
+- R2=1-RSS∗TSS
+
+**D:** ⚠️ Come risponde il test della lezione 27 (domanda 2) all'affermazione «La devianza spiegata ammette la seguente rapresentazione: ESS=TSS-RSS»?
+**R:** «**TRUE**»: la riscrittura è alla lettera nella dimostrazione della (105), slide 2: «per la 98 la devianza spiegata ESS può essere riscritta come: ESS = TSS - RSS». La (98) è TSS = ESS + RSS (lezione 26). Il docente: «la relazione della ESS, cioè della devianza spiegata, come la differenza tra il TSS e l'RSS» (transcript [00:01:23]). ⚠️ La dimostrazione della (98) usa la somma nulla dei residui OLS, cioè l'intercetta (slide 18 del deck 26), ma la slide enuncia la scomposizione senza condizioni. Distrattori del test: «FALSE»; «non ha significato statistico», che non è nei materiali; «quella corretta è ESS=1-RSS∗TSS», una correzione inventata con il prodotto della domanda 1. «rapresentazione» è un refuso della piattaforma.
+**Opzione:** TRUE
+**Distrattori:**
+- FALSE
+- non ha significato statistico
+- quella corretta è ESS=1-RSS∗TSS
+
+**D:** ⚠️ Quale formulazione ammette il coefficiente di determinazione aggiustato Ř2, secondo il test della lezione 27 (domanda 3)?
+**R:** «**Ř2=1-[(n-1)/(n-m)]⁠(1-R2)**», cioè la (109) della slide 4, R̄² = 1 - [(n - 1)/(n - m)](1 - R²), «dove n è la numerosità del campione e m è il numero di colonne della matrice 𝐱»; la piattaforma rende la barra di R̄² con «Ř». Il docente: transcript [00:02:59]–[00:03:17]. Distrattori del test: «Ř2=1-(n-1)(1-R2)» perde il denominatore n - m, cioè la dipendenza da m; «Ř2=1-[(n-1)/(n-m)]» perde il fattore (1 - R²); «Ř2=1-RSS∗TSS» è il prodotto della domanda 1, pool condiviso.
+**Opzione:** Ř2=1-[(n-1)/(n-m)]⁠(1-R2)
+**Distrattori:**
+- Ř2=1-(n-1)(1-R2)
+- Ř2=1-RSS∗TSS
+- Ř2=1-[(n-1)/(n-m)]
+
+**D:** ⚠️ Quale relazione lega l'errore standard della regressione (se) e il coefficiente di determinazione aggiustato (Ř2), secondo il test della lezione 27 (domanda 4)?
+**R:** «**se=(1-Ř2)½(s2y∗)½ ove s2y∗ è la varianza campionaria della variabile dipendente**», cioè la (111) della slide 7, σ̂_ε = √(1 - R̄²)·√(σ_{y∗}²), con «½» per la radice quadrata. Il docente: «la radice quadrata di 1-R quadro segnato per la radice quadrata della varianza di y star» (transcript [00:06:46]). Le opzioni incrociano la grandezza, varianza o media, con le due radici «½». Distrattori del test: con la media «my∗» al posto della varianza; senza la radice sul primo fattore, (1 - Ř2); con la media e senza la radice sul secondo fattore. ⚠️ Una media «my∗» nelle slide non c'è: la media campionaria è ȳ.
+**Opzione:** se=(1-Ř2)½(s2y∗)½ ove s2y∗ è la varianza campionaria della variabile dipendente
+**Distrattori:**
+- se=(1-Ř2)½(my∗)½ ove my∗ è la media campionaria della variabile dipendente
+- se=(1-Ř2)(s2y∗)½ ove s2y∗ è la varianza campionaria della variabile dipendente
+- se=(1-Ř2)½(my∗) ove my∗ è la media campionaria della variabile dipendente
+
+**D:** ⚠️ Come è definita la varianza campionaria s2y∗, secondo il test della lezione 27 (domanda 5)?
+**R:** «**s2y∗ = [Si(yi - ȳ)2]/(n-1)**», cioè la (112) della slide 7, σ_{y∗}² := ∑_{i=1}^n (y_i - ȳ)²/(n - 1). ⚠️ Il docente la legge senza il quadrato, «meno il dato medio diviso n-1» (transcript [00:06:57]), che è il distrattore A: vale la slide. Distrattori del test: «[Si(yi - ȳ)]/(n-1)» perde il quadrato ed è la somma degli scarti, che vale zero; «[Si(yi - ȳ)2]» perde il denominatore ed è la TSS; «[Si(yi - ȳ)2]/n» divide per n invece che per n - 1. Lo schema è quello dei test delle lezioni 25 e 26, dove il gioco era fra n e n - m.
+**Opzione:** s2y∗ = [Si(yi - ȳ)2]/(n-1)
+**Distrattori:**
+- s2y∗ = [Si(yi - ȳ)]/(n-1)
+- s2y∗ = [Si(yi - ȳ)2]
+- s2y∗ = [Si(yi - ȳ)2]/n
