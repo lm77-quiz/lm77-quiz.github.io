@@ -5821,3 +5821,280 @@
 - 1000 azioni
 - 100 azioni
 - D=0
+
+## Lezione 20 — Gestione del rischio - Greche 4 – Delta-Gamma Hedging
+
+**D:** ⚠️ Su quale approssimazione si fonda il Δ–Γ hedging nella slide 2 della lezione 20, e in che cosa differisce da quella del Δ hedging?
+**R:** Slide 2, «Δ–Γ Hedging»: «Calcolo di df attraverso un'espansione della formula di Taylor del secondo ordine», **df ≈ ΔdS + ½ΓdS² + o(dt)**. Il Δ hedging della lezione 18 (slide 11) si fermava al primo ordine, df ≈ ΔdS + o(dt): qui si aggiunge il termine **½ΓdS²**. Il docente: «un conto è utilizzare solo la derivata prima in un'espansione di Taylor … piuttosto usare la seconda derivata» (transcript [00:00:24]–[00:00:49]); è «una nuova e più avanzata modalità di hedging che coinvolge non solo la greca del delta ma anche la greca del gamma, cioè della derivata seconda» ([00:00:04]). ⚠️ Secondo ordine, con Γ; il resto resta o(dt).
+**Opzione:** df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
+**Distrattori:**
+- df ≈ ΔdS + o(dt), un'espansione della formula di Taylor del primo ordine
+- 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
+- 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+
+**D:** ⚠️ Quale logica segue il Δ–Γ hedging nella slide 5 della lezione 20, e con quali passaggi?
+**R:** Slide 5: «Seguiamo una logica iterativa», un ciclo di tre frecce: **Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Ricomposizione verso la Δ Neutralità**, e di nuovo da capo. Il docente: «La logica potrebbe essere una logica iterativa. Io prima neutralizzo il mio portafoglio in termini di delta, quindi vado a renderlo neutrale in termini di gamma. Ma quando l'ho reso neutrale in termini di gamma il problema è che non è più delta neutrale e quindi dovrò fare un'ulteriore ricomposizione verso la delta neutralità» (transcript [00:02:21]–[00:02:57]); più avanti, «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). ⚠️ Si parte dal Δ e si chiude tornando al Δ.
+**Opzione:** Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
+**Distrattori:**
+- Una logica iterativa: Portafoglio Γ Neutrale, poi Portafoglio Δ Neutrale, poi Ricomposizione verso la Γ Neutralità, e da capo
+- Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+- 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
+
+**D:** Perché, per il docente della lezione 20, la ricomposizione finale verso la Δ neutralità non disfa la Γ neutralità?
+**R:** Perché «il gamma esprime una derivata di ordine secondo»: l'ulteriore ricomposizione verso la delta neutralità «ovviamente conserverà anche gamma neutralità» (transcript [00:02:36]). La ricomposizione si fa con azioni (slide 33, «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")»), e la slide 6 ricorda che «il Γ di un'azione è 0»: le azioni spostano il Delta e non il Gamma (deduzione). Per lo stesso motivo il Gamma si neutralizza solo con un'altra opzione (slide 7).
+
+**D:** ⚠️ Perché la logica iterativa della lezione 20 è corretta, e che cosa serve per rendere Γ neutrale il portafoglio (slide 6–7)?
+**R:** Slide 6–7: «… questa logica è corretta perchè il Γ di un'azione è 0» (sic) → «… al fine di rendere il nostro portafoglio Γ neutrale …» → «… è necessario trovare un'altra opzione». Il docente: «il gamma di un'azione è zero e quindi il nostro portafoglio per essere gamma neutrale necessita purtroppo di un'altra opzione» (transcript [00:03:06]); il gamma di un'azione è zero «perché è la derivata seconda», e quindi «io devo trovare un'altra opzione» ([00:03:40]). ⚠️ È il **Delta** di un'azione a valere 1 (lezione 18, slide 13); il suo **Gamma** è 0, e con le sole azioni il Gamma non si muove.
+**Opzione:** Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+**Distrattori:**
+- Perché il Γ di un'azione è 1: al fine di rendere il portafoglio Γ neutrale basta compravendere altre azioni
+- Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
+- Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+
+**D:** ⚠️ Che tipo di opzione serve per rendere Γ neutrale il portafoglio, secondo le slide 8–9 della lezione 20?
+**R:** Slide 8–9: «… che tipo di opzione?» → «… un'opzione che abbia un Γ simile a quello delle opzioni vendute» → «… e che non causi troppe "deformazioni" al delta delle opzioni vendute». Il docente: «io dovrei cercare un'opzione che abbia dal punto di vista grafico un gamma simile a quello delle opzioni vendute, perché questo mi consente di avere una gestione finanziaria più efficiente», e che «non creerà troppe deformazioni al delta delle opzioni vendute» (transcript [00:04:09]–[00:04:49]). Il Δ–Γ hedging riduce i costi di hedging e di unwinding solo «a condizione che … quest'opzione non mi generi più perturbazioni nella gestione del rischio del portafoglio originario» ([00:04:49]–[00:05:18]). ⚠️ Γ simile, Δ non deformato: non il contrario.
+**Opzione:** Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+**Distrattori:**
+- Un'opzione che abbia un Δ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al gamma delle opzioni vendute
+- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+- Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
+
+**D:** ⚠️ Che cosa ci si aspetta intuitivamente dal Δ–Γ hedging, secondo il docente della lezione 20?
+**R:** «Che il delta gamma hedging abbia una sua capacità di approssimazione migliore e quindi approssimando meglio il valore dell'opzione è chiaro che riterremmo che sia anche migliore e inferiore il costo delle coperture di questo portafoglio di replica e quindi i valori dell'unwinding della posizione» (transcript [00:01:03]–[00:01:34]); è un'intuizione che «dovrebbe trovare riscontro in una simulazione numerica». ⚠️ Kurpiel & Roncalli (1998) la ridimensionano (deduzione dal confronto con la slide 28): su orizzonti di 5, 1, ½ giorni il Δ–Γ hedging «non fornisce vantaggi sostanziali rispetto al solo Δ hedging».
+**Opzione:** Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
+**Distrattori:**
+- Una capacità di approssimazione migliore del valore dell'opzione, ma un costo superiore delle coperture e dei valori dell'unwinding della posizione
+- Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
+- 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
+
+**D:** ⚠️ Quali sono le tre «riflessioni» sul Γ con cui la lezione 20 risponde alla domanda «che tipo di opzione?» (slide 10–16)?
+**R:** Slide 16, in tre colonne: «**Le opzioni ATM hanno il Γ più alto**» (slide 10, con il grafico del Γ al variare di S e σ nella slide 11); «**Il Γ di un'opzione decresce naturalmente al passare del tempo**» (slide 12, con il grafico al variare di T nella slide 13); «**Il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo**» (slide 14, con il grafico al variare di S e T nella slide 15). Il docente le riprende: «queste tre considerazioni, cioè che le opzioni at the money hanno il gamma più alto, che il gamma di un'opzione decresce naturalmente al passare del tempo e che il gamma sperimenta alcune deformazioni in relazione alla moneyness al passare del tempo» (transcript [00:07:16]). Ne segue «Si scelgono opzioni ATM ed a breve scadenza». ⚠️ Il Γ **decresce** al passare del tempo.
+**Opzione:** Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+**Distrattori:**
+- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione cresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
+- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+
+**D:** ⚠️ Come varia il Γ di un'opzione al passare del tempo, secondo la slide 12 e il docente della lezione 20, e che cosa ne segue per chi cerca contributi di Γ?
+**R:** Slide 12: «Il Γ di un'opzione decresce naturalmente al passare del tempo». Il docente: «il che vuol dire che man mano che ci avviciniamo alla time to maturity il gamma è sempre più basso. Quindi se io voglio contributi di gamma alla mia strategia di copertura prenderò prodotti che hanno una time to maturity maggiore e viceversa» (transcript [00:05:59]–[00:06:24]). Nel grafico della slide 13 (asse T con il «+» a sinistra e il «-» a destra, valori da 0,0010 a 0,0100) la curva parte da circa 0,0086, sale a circa 0,0097 e scende fino a circa 0,0056: alla fine è più bassa che all'inizio, ma non è monotona (lettura dell'immagine). ⚠️ Più tempo alla scadenza, più Γ.
+**Opzione:** Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
+**Distrattori:**
+- Cresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più alto, quindi per avere contributi di Γ si prendono prodotti con time to maturity minore
+- 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+- 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
+
+**D:** ⚠️ Che cosa mostra, per il docente della lezione 20, il grafico del Γ al variare della moneyness e del tempo (slide 14–15)?
+**R:** Slide 14: «Il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo»; la slide 15 è il grafico del Γ al variare di S e di T, con l'asse fino a 0,017. Il docente: è un grafico «dove non c'è solo la moneyness ma invece della volatilità abbiamo messo il tempo»; «qui abbiamo un picco per le at the money qui addirittura il picco quando il tempo è molto molto molto molto grande tende ad andare sulla moneyness negativa», e «addirittura abbiamo una sella a seconda dell'orizzonte temporale tra il massimo a tempi molto alti e il massimo a tempi molto bassi che è at the money» (transcript [00:06:24]–[00:07:16]). Nel grafico il picco più alto, fra 0,015 e 0,017, sta circa al centro dell'asse di S, e una seconda gobba, intorno a 0,010, sta verso i valori bassi di S (lettura dell'immagine). ⚠️ At the money a tempi **bassi**, moneyness negativa a tempi **molto grandi**.
+**Opzione:** Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
+**Distrattori:**
+- Un picco at the money a tempi molto grandi; a tempi molto bassi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
+- Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+- Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+
+**D:** ⚠️ Quali opzioni Z si scelgono dopo le tre riflessioni della lezione 20 (slide 16), e con quali si ricompone poi il portafoglio (slide 17–18)?
+**R:** Slide 16: «**Si scelgono opzioni ATM ed a breve scadenza**». Slide 17, sotto un segno «=»: «**Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza**»; la slide 18 mette al posto del «=» il trade-off, «Costi di transazione», «Stategie di trading» (sic), «Limiti di rischio». Il docente: le tre considerazioni portano a «una considerazione importante, cioè di scegliere opzioni at the money e da breve scadenza», «un contributo governabile in termini di gamma» (transcript [00:07:16]–[00:07:43]); poi «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» ([00:08:12]), perché «dato questo trade off non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ La moneyness resta ATM; cambia la scadenza, da breve a lunga. Il test (domanda 4) chiede la ricomposizione: «ATM a lunga scadenza».
+**Opzione:** Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
+**Distrattori:**
+- Dalle tre riflessioni, opzioni ATM ed a lunga scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a breve scadenza
+- N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
+- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+
+**D:** ⚠️ Quali sono le tre voci del trade-off della slide 18 della lezione 20, nella scelta delle opzioni Z?
+**R:** Slide 18, fra «Si scelgono opzioni ATM ed a breve scadenza» e «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza»: «Trade-off: •Costi di transazione •Stategie di trading •Limiti di rischio» (sic, «Stategie»). Il docente: «Il trade-off di opzioni at the money a breve scadenza sono sempre, ricordiamo, costi di transazione, le strategie di trading, i limiti di rischio, perché non è che un operatore in un desk di una banca è libero di fare come gli pare» (transcript [00:08:32]). ⚠️ L'elenco è chiuso: tre voci, e l'ultima sono i limiti di rischio.
+**Opzione:** Costi di transazione, Stategie di trading, Limiti di rischio
+**Distrattori:**
+- Costi di transazione, Stategie di trading, Costi di unwinding
+- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+- Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
+
+**D:** ⚠️ Dato il trade-off della lezione 20, a che cosa si rinuncia nella scelta delle opzioni Z, per il docente?
+**R:** «Ma allora se c'è questo problema è chiaro che dato questo trade off non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza e quindi allunghiamo un pochino la scadenza magari rendendola anche compatibile con le caratteristiche del nostro portafoglio» (transcript [00:09:17]–[00:09:39]). È il passaggio dalla slide 16, «Si scelgono opzioni ATM ed a breve scadenza», alla slide 17–18, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza». ⚠️ Si tiene l'ATM e si lascia la breve scadenza.
+**Opzione:** Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
+**Distrattori:**
+- Non alla breve scadenza ma all'at the money: si sposta un pochino lo strike, magari rendendolo compatibile con le caratteristiche del portafoglio
+- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+- Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
+
+**D:** ⚠️ Con quale esempio illustra il docente della lezione 20 i limiti di rischio dei desk degli intermediari finanziari?
+**R:** «Ci sono dei limiti di rischio, non puoi acquisire più di un certo gamma dal punto di vista finanziario, più di un certo delta, cioè i desk degli intermediari finanziari hanno dei limiti di operatività quindi io non posso assumere più di **100.000 euro delta sulle azioni italiane** più di **200.000 euro gamma sulle opzioni americane** e via dicendo» (transcript [00:08:32]–[00:09:17]). È la terza voce del trade-off della slide 18, «Limiti di rischio». ⚠️ Delta sulle azioni italiane, gamma sulle opzioni americane; il doppio è per il gamma.
+**Opzione:** Non più di 100.000 euro delta sulle azioni italiane, non più di 200.000 euro gamma sulle opzioni americane
+**Distrattori:**
+- Non più di 200.000 euro delta sulle azioni italiane, non più di 100.000 euro gamma sulle opzioni americane
+- Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
+- Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+
+**D:** ⚠️ Come si imposta il Δ–Γ hedging «attraverso le formule» al tempo T=0 nella slide 19 della lezione 20, e quanto valgono Delta e Gamma del portafoglio A?
+**R:** Slide 19: «Tempo T=0 — 1 vendita call (W) — Si definisca un portafoglio Δ neutrale 'A' — 1 acquisto opzione (Z)», con **Δ_A = 0** e **Γ_A = N ∗ Γ_W**. Il docente: «vendo una call che chiameremo W, definiamo un portafoglio delta neutrale A e acquistiamo un'opzione che chiameremo Z. Allora, il nostro portafoglio A ha un delta di A uguale 0 e abbiamo un gamma di A che è N per il gamma di W» (transcript [00:09:45]–[00:10:16]). ⚠️ A è Δ neutrale ma **non** Γ neutrale: il suo Gamma è quello delle opzioni vendute, perché le azioni hanno Γ = 0 (slide 6). Nella slide 19 la N senza pedice è il numero di opzioni W; dalla slide 22 diventa N_W.
+**Opzione:** 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+**Distrattori:**
+- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = 0
+- Costi di transazione, Stategie di trading, Limiti di rischio
+- Non più di 100.000 euro delta sulle azioni italiane, non più di 200.000 euro gamma sulle opzioni americane
+
+**D:** ⚠️ Come è definito il portafoglio B nella lezione 20, e quanto vale il suo Delta (slide 20–21)?
+**R:** Slide 20: «Tempo T=0 — Portafoglio B = Portafoglio A + N ∗ Z — … cosa accade alle Greche di B?». Slide 21: **Δ_B = Δ_A + NΔ_Z** ⇓ **Δ_B = NΔ_Z**. Il docente: «avremo anche un portafoglio B che non è altro che il portafoglio A più N per le Z opzioni»; «il delta di B è uguale al delta di A più N per il delta di Z e il delta di B quindi non è altro che N per il delta di Z» (transcript [00:10:16]–[00:10:47]). Il passaggio usa Δ_A = 0 (slide 19). ⚠️ B **non** è Δ neutrale: le opzioni Z portano il loro Delta (slide 26).
+**Opzione:** Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+**Distrattori:**
+- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = 0
+- Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
+- Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
+
+**D:** ⚠️ Quanto vale il Gamma del portafoglio B nella slide 22 della lezione 20?
+**R:** Slide 22: **Γ_B = Γ_A + NΓ_Z** ⇓ **Γ_B = N_WΓ_W + N_ZΓ_Z**. Il docente: «Il gamma di B non è altro che il gamma di A più N per il gamma di Z che diventa nient'altro che N di W per il gamma di W più N di Z per il gamma di Z» (transcript [00:10:47]–[00:11:07]). Γ_A = N ∗ Γ_W (slide 19) diventa N_WΓ_W, e la N davanti a Γ_Z diventa N_Z. ⚠️ Ogni N va con il Gamma della propria opzione: N_W con Γ_W, N_Z con Γ_Z.
+**Opzione:** Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
+**Distrattori:**
+- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_ZΓ_W + N_WΓ_Z
+- Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
+- Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
+
+**D:** ⚠️ Quante opzioni Z si devono acquistare per ottenere un portafoglio Γ neutrale, secondo le slide 23–25 della lezione 20?
+**R:** Slide 23–24: «… al fine di ottenere Γ_B = 0», da Γ_B = N_WΓ_W + N_ZΓ_Z segue 0 = N_WΓ_W + N_ZΓ_Z, e quindi **N_Z = -N_W · Γ_W/Γ_Z**. Slide 25: «… al fine di ottenere un portafoglio Γ neutrale» ⇓ «Si devono acquistare N_Z = -N_W · Γ_W/Γ_Z opzioni Z». Il docente: «Dobbiamo uguagliare a zero la moltiplicazione di N di W per gamma di W più N di Z per gamma di Z. Quindi risolvere per N di Z» (transcript [00:11:14]–[00:11:23]). ⚠️ Al numeratore il Gamma delle opzioni **vendute**, Γ_W, al denominatore quello delle opzioni **comprate**, Γ_Z. Nel foglio della slide 32 si comprano 1.011 opzioni Z, cioè 15,70263/0,015528736. 🚨 La chiave del test (domanda 1) capovolge il rapporto: «NZ = - NW GZ/GW».
+**Opzione:** N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
+**Distrattori:**
+- N_Z = -N_W · Γ_Z/Γ_W, da 0 = N_WΓ_W + N_ZΓ_Z
+- Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
+- Non più di 100.000 euro delta sulle azioni italiane, non più di 200.000 euro gamma sulle opzioni americane
+
+**D:** ⚠️ Perché nella lezione 20 la procedura non finisce con il portafoglio B, e quale risultato si cerca con il ribilanciamento (slide 26–27)?
+**R:** Slide 26–27: «… ma la procedura non finisce quì» (sic) ⇓ «Il nuovo portafoglio B non è Δ neutrale: **Δ_B = NΔ_Z**» ⇓ «Ribilanciamo il portafoglio al fine di ottenere il risultato: **Δ_C = 0**». Il docente: «il nuovo portafoglio B non è delta neutrale perché il delta di B sarà uguale a N per il delta di Z e quindi noi dobbiamo fare un ulteriore ribilanciamento con un portafoglio C tale che il delta di C sia uguale a 0» (transcript [00:12:00]). Nell'esempio il ribilanciamento si fa con azioni: «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")» (slide 33). ⚠️ B è Γ neutrale ma non Δ neutrale; C è tutte e due.
+**Opzione:** Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+**Distrattori:**
+- Il portafoglio B non è Γ neutrale, Γ_B = NΓ_Z: lo si ribilancia con un'altra opzione per ottenere Γ_C = 0
+- Costi di transazione, Stategie di trading, Limiti di rischio
+- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+
+**D:** ⚠️ Chi sono gli autori, qual è l'anno e quali gli orizzonti temporali dello studio empirico citato nella slide 28 della lezione 20?
+**R:** Slide 28: «**Kurpiel & Roncalli (1998)** — Δ– Γ hedging effettuato su orizzonti temporali di **5, 1, ½ giorni** non fornisce vantaggi sostanziali rispetto al solo Δ hedging». Il docente: «un paper di Kurpiel e Roncalli del 1998», sul Δ–Γ hedging «effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading» (transcript [00:12:24]–[00:12:40]). ⚠️ Cinque giorni, un giorno, mezza giornata: gli orizzonti di 20 e 10 giorni dei distrattori del test (domanda 3) non sono nei materiali.
+**Opzione:** Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
+**Distrattori:**
+- Kurpiel & Roncalli (1998), su orizzonti temporali di 20, 10 giorni
+- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+- Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
+
+**D:** ⚠️ Quale call Z si acquista nell'esempio della lezione 20, e fino a quando la si detiene (slide 29–30)?
+**R:** Slide 29: «Tempo T=0 — Si definisce un portafoglio Δ neutrale 'A' — Si acquista una call (Z) con **T_Z > T_W**, **K_Z > K_W**». Slide 30: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è IN – the money». Il docente: «compriamo una call Z che ha … una time to maturity maggiore della call W e con uno strike … per l'opzione Z leggermente più grande dello strike della nostra opzione originaria W. Ora così deterremo l'opzione Z fino alla scadenza, perché poi la dismettiamo» (transcript [00:13:17]–[00:13:45]). La scadenza è quella di W: nella slide 34 le ultime 539 opzioni Z si vendono al time step 20. ⚠️ Scadenza **più lunga** e strike **più alto** di W.
+**Opzione:** Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+**Distrattori:**
+- Una call con T_Z > T_W e K_Z < K_W, cioè scadenza più lunga e strike più basso, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+- Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
+- Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
+
+**D:** ⚠️ Quando si esaurisce il Δ hedging del portafoglio A nell'esempio della lezione 20 (slide 31), e perché?
+**R:** Slide 31: l'azione parte da 100,0 e, dopo 116,0 al time step 10, torna fra 92,6 e 104,7 dall'11 al 18, per chiudere a 120,1; il Delta della call al time step 16 è 0,47968815. Il docente: «la strategia di trading non si esaurisce tanto prima della scadenza. Perché? Perché l'opzione rimane at the money vicino alla scadenza e questo genera un'incertezza nella strategia di trading. Il delta non riesce a prendere una linea verso lo 0, verso l'1 decisa e netta. Addirittura al sedicesimo time step siamo ancora a 0,47%» (sic; transcript [00:17:01]–[00:17:24]); le ultime azioni si comprano «165 più 111 più 147 più 189 più 73 per arrivare alle mille azioni» ([00:17:57]). ⚠️ Nella lezione 18, con l'azione deep in the money, l'hedging si esauriva dal time step 14.
+**Opzione:** Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
+**Distrattori:**
+- Già prima della scadenza: l'opzione va deep in the money, e già al 14° time step il Delta è circa 0,999
+- df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
+- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
+
+**D:** ⚠️ Che segno ha e come si muove il Gamma del portafoglio A nel foglio della slide 32 della lezione 20?
+**R:** Slide 32, colonna «Γ portafolio = Γ I Option∗ n.az. Underlying» del blocco «Γ Portfolio "A"»: (15,70) al time step 0, poi (15,56), (16,03), …, il valore più negativo (39,46) al time step 17, (39,31), (22,82) al 19, e «-» al 20. Il docente: si applica «la formula del gamma» al portafoglio A «prima della seconda opzione»; «va da meno 15,70 a 0 quando l'operatività viene ovviamente smontata» (transcript [00:19:07]–[00:19:51]). ⚠️ È **negativo** perché le call sono vendute: le parentesi tonde segnano il meno.
+**Opzione:** Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
+**Distrattori:**
+- Positivo: va da 15,70 al time step 0 a zero al time step 20, con il valore più alto, 39,46, al time step 17
+- df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
+- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+
+**D:** ⚠️ Quali blocchi e colonne ha il foglio «Portfolio B = Portfolio A + II Option» della slide 32 della lezione 20?
+**R:** Slide 32: il blocco «Γ Portfolio "A"», con la colonna «Γ portafolio = Γ I Option∗ n.az. Underlying» (sic); il blocco «Γ Portfolio "B"», con il gruppo «II Option» (II Option value, d_1, Γ II Option) e poi n. II Option Buy, Γ II Option Tot e Γ portfolio "B"; il blocco «Δ Port. "B"», con Total Δ position. Il docente: la seconda opzione ha «un suo valore, che calcoliamo con la nostra formula di Black-Scholes», poi «il valore di d_1 che ci serve per poter calcolare il gamma della seconda opzione», poi il numero di opzioni N_Z, il gamma complessivo e il gamma del portafoglio (transcript [00:20:31]–[00:22:19]). ⚠️ Il d_1 viene prima del Γ II Option, perché serve a calcolarlo.
+**Opzione:** Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+**Distrattori:**
+- Γ Portfolio "A"; II Option: II Option value, Γ II Option, d_1; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+- Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
+- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+
+**D:** ⚠️ Quante opzioni Z si comprano al time step 0 nell'esempio della lezione 20, e da quali numeri del foglio della slide 32 si ricavano?
+**R:** Slide 32, time step 0: Γ del portafoglio A (15,70), Γ II Option 0,015528736, n. II Option Buy **1.011**, Γ II Option Tot 15,70263, Γ portfolio "B" «-». È N_Z = -N_W · Γ_W/Γ_Z (slide 25): 15,70263/0,015528736 ≈ 1.011 (deduzione dalla tabella). Il docente: «Il numero di opzioni sono quell'N_Z che abbiamo calcolato nelle slide precedenti» (transcript [00:21:26]); il gamma sulla seconda opzione «viene costruito per essere uguale al gamma del portafoglio A» ([00:21:58]), cioè uguale in valore assoluto e di segno opposto; «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step» ([00:27:45]). ⚠️ Si **comprano**: il Gamma di A è negativo, quello delle opzioni Z comprate positivo.
+**Opzione:** Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+**Distrattori:**
+- Se ne vendono 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+- Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+- Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
+
+**D:** ⚠️ Quanto vale il Delta del portafoglio B nell'esempio della lezione 20, e perché non è zero (slide 32)?
+**R:** Slide 32, colonna «Total Δ position» del blocco «Δ Port. "B"»: 496 al time step 0, 517 al 1, 514 al 2, … fino a 361 al 19. Il docente: «se andiamo a calcolare ora il delta del portafoglio B ci troviamo squadrati un'altra volta», perché «il portafoglio A era delta neutral» e B gli aggiunge le opzioni Z: «troviamo quindi questo importo 496, 517 che evolve nel tempo» (transcript [00:22:19]–[00:22:52]). È il Δ_B = NΔ_Z della slide 26. ⚠️ B è Γ neutrale (Γ portfolio "B" sempre «-»), non Δ neutrale.
+**Opzione:** 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+**Distrattori:**
+- Zero a ogni time step: il portafoglio A era Δ neutrale, e B vi aggiunge soltanto il Gamma delle opzioni Z
+- Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+- Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
+
+**D:** ⚠️ Come si costruisce il portafoglio C nella slide 33 della lezione 20, e che cosa si fa con le azioni al time step 0?
+**R:** Slide 33: «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")». Al time step 0 il Delta di B è 496, e Stock to Buy/(Sell), Warehouse e Δ Stock Posit. valgono (496); il Total Δ position di C è «-». Il docente: le azioni da compravendere sono «nient'altro che l'esposizione sul delta del portafoglio B, quindi se io ho un delta positivo sul portafoglio B di 496 azioni io dovrò sostanzialmente prendere una posizione negativa per 496 azioni, se poi diventa 517 per 21, se diventa 514 dovrò prenderne 3» (transcript [00:23:28]–[00:23:55]). ⚠️ Una posizione **negativa**: azioni vendute allo scoperto, con il magazzino fra parentesi.
+**Opzione:** Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+**Distrattori:**
+- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si comprano 496 azioni, pari al Delta di B
+- Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+- N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
+
+**D:** ⚠️ Come si chiudono le azioni del portafoglio C nella slide 33 della lezione 20, agli ultimi due time step?
+**R:** Slide 33: al time step 19 il Delta di B è 361, e Stock to Buy/(Sell) vale 154, Warehouse (361); al time step 20 il Delta di B è «-», si comprano **361** azioni e il magazzino torna a «-». Il docente: «alla fine il delta position è 361 all'ultimo time step positivo e quindi io dovrò sostanzialmente disfarmi di queste 361 azioni per neutralizzare il magazzino che intanto si è andato a cumulare di 361 azioni shortate» (transcript [00:23:55]–[00:24:21]). ⚠️ 361 è il Delta di B al time step **19**, l'ultimo con un valore; al 20 lo short si chiude **comprando**.
+**Opzione:** Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+**Distrattori:**
+- Al time step 19 le azioni comprate per il Delta di B sono 361; al time step 20 se ne vendono 361 e il loro magazzino torna a zero
+- Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+
+**D:** ⚠️ Quante azioni compra al time step 0 il portafoglio C del Δ–Γ hedging, rispetto al solo Δ hedging dello stesso esempio della lezione 20 (slide 31 e 34)?
+**R:** Slide 34, blocco «Stock»: Buy/sell **68**, Warehouse 68 al time step 0; nella slide 31 il solo Δ hedging compra **564** azioni. 68 è 564 meno le 496 azioni shortate per il Delta di B (slide 33) (deduzione dalle tabelle). Il docente: l'altra opzione «genera un minore coinvolgimento del portafoglio C complessivo in termini di azioni compravendute. Nel Delta Hedging noi avevamo un acquisto iniziale, solo perché l'opzione era at the money, di quasi 500 azioni. Qui invece noi abbiamo un magazzino che ne compra solo 68 all'inizio» (transcript [00:25:33]–[00:25:59]). ⚠️ Il «quasi 500» del docente è nella slide 31 un 564; 496 è il Delta di B.
+**Opzione:** 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
+**Distrattori:**
+- 496 azioni, contro le 564 del solo Δ hedging dello stesso esempio: le stesse shortate per il Delta di B
+- Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
+- Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+
+**D:** ⚠️ Quante opzioni Z compra il portafoglio C al primo time step, e come si muove il loro magazzino fino alla scadenza (slide 34 della lezione 20)?
+**R:** Slide 34, blocco «Option for Γ»: Buy/sell 1.011 e Warehouse 1.011 al time step 0, poi (13) e 998, 2 e **1.000** al time step 2, poi fra 826 e 1.323, 1.000 al 18 e 539 al 19; al 20 se ne vendono (539) e il magazzino è «-». La colonna «Short Opt.» resta (1.000): sono le call W vendute. Il docente: «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step e addirittura nel terzo time step mi trovo un magazzino che si è assestato per poi muoversi ma rimanere sempre in un ordine di grandezza del migliaio di opzioni» (transcript [00:27:45]–[00:28:06]). ⚠️ Le opzioni Z si **vendono** alla scadenza di W: «la dismettiamo» ([00:13:45]).
+**Opzione:** 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
+**Distrattori:**
+- 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne comprano 539
+- Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+- Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+
+**D:** ⚠️ Perché, per il docente della lezione 20, il portafoglio C compra molte meno azioni del Δ hedging tradizionale, e con quali conseguenze?
+**R:** «La convessità dell'opzione Z che viene inserita nel portafoglio … ha un impatto notevolissimo sull'impegno finanziario di azioni»; «l'impegno finanziario delle opzioni che è assai più morigerato di quello in azioni per ottenere un delta gamma hedging, va largamente a ridimensionare l'impegno finanziario in azioni e quindi di coinvolgimento con la banca che viene determinato da un delta hedging tradizionale» (transcript [00:25:59]–[00:26:40]). Fino a sotto scadenza «è la struttura opzionale che ci copre da un coinvolgimento azionario importante, il che come vedremo a breve può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money dell'opzione» ([00:27:04]). Nella slide 34 il magazzino di azioni arriva a 1.000 solo al time step 20, dopo acquisti di 343 azioni al 19 e 434 al 20. ⚠️ Vantaggi «positivi o negativi»: non sempre positivi.
+**Opzione:** Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+**Distrattori:**
+- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; ha sempre vantaggi positivi, qualunque sia la dinamica in o out of the money
+- Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+- Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Z da compravendere per essere delta-gamma neutrale, secondo il test della lezione 20 (domanda 1)?
+**R:** «**NZ = - NW GZ/GW**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: la chiave ha il rapporto **capovolto**. Le slide 24 e 25 scrivono N_Z = -N_W · Γ_W/Γ_Z, con al numeratore il Gamma delle opzioni vendute W e al denominatore quello delle opzioni comprate Z, da 0 = N_WΓ_W + N_ZΓ_Z (slide 23). Il foglio della slide 32 ne conferma il verso: al time step 0 il Gamma del portafoglio A è (15,70), il Gamma della II Option 0,015528736, e si comprano 1.011 opzioni Z, cioè 15,70263/0,015528736; con Γ_Z/Γ_W ne verrebbero circa 989 (deduzione). Anche il test della lezione 22, domanda 1, ha come primo termine «- NW GW/GZ», nel verso della slide. Il docente non fissa il verso: la frase di [00:11:45] è guasta nel transcript. Distrattori del test: «NZ = - NW GZ + GW» e «NZ = - NW GZ - GW» sostituiscono la divisione con una somma e una differenza, «NZ = NW GZ - GW» toglie anche il meno; nessuno è nei materiali. La A è l'unica con un rapporto di Gamma. Se la domanda torna corretta, la risposta è «NZ = - NW GW/GZ».
+**Opzione:** NZ = - NW GZ/GW
+**Distrattori:**
+- NZ = - NW GZ + GW
+- NZ = - NW GZ - GW
+- NZ = NW GZ - GW
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, quanto vale nel tempo il Gamma del portafoglio dopo le compravendite di opzioni Z, secondo il test della lezione 20 (domanda 2)?
+**R:** «**G=0**». La slide 23 pone l'obiettivo «… al fine di ottenere Γ_B = 0», e nei fogli la colonna «Γ portfolio "B"» (slide 32) e la colonna «Γ portfolio C» (slide 34) sono «-», cioè zero, a ogni time step. Il docente: «non stupisce che nella penultima colonna che vediamo qui il nostro gamma del portafoglio B sia stato neutralizzato» (transcript [00:22:10]); «Il delta e il gamma del portafoglio C è sempre identicamente pari a zero» ([00:28:51]). Distrattori del test, dal pool dei test delle lezioni 17–19: «G= StN'(d1) (T-t)1/2» è il Vega della call, «G= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma della call, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, cioè la (104), la (102) e la (103) della lezione 16. ⚠️ La B è proprio la formula del Gamma di una call: è il Gamma di una singola opzione, W o Z, non quello del portafoglio coperto.
+**Opzione:** G=0
+**Distrattori:**
+- G= StN'(d1) (T-t)1/2
+- G= N'(d1) ∗ 1/sSt(T-t)1/2
+- G = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 20 (domanda 3)?
+**R:** «**Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging**»: è alla lettera la slide 28, «Kurpiel & Roncalli (1998) — Δ– Γ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo Δ hedging». Il docente: «il delta gamma hedging effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading non fornisce vantaggi sostanziali rispetto al solo delta hedging» (transcript [00:12:40]). ⚠️ È una matrice 2×2, *orizzonte* × *esito*: la A ha l'orizzonte giusto e l'esito capovolto, la C l'esito giusto e un orizzonte sbagliato, la D sbaglia tutti e due. Gli orizzonti di 20 e 10 giorni non sono nei materiali, che non dicono nulla di orizzonti più lunghi.
+**Opzione:** Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
+**Distrattori:**
+- Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging
+- Il D - G hedging effettuato su orizzonti temporali di 20, 10 giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
+- Il D - G hedging effettuato su orizzonti temporali di 20, 10 giorni fornisce vantaggi sostanziali rispetto al solo D hedging
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, quali opzioni Z è opportuno compravendere, secondo il test della lezione 20 (domanda 4)?
+**R:** «**ATM a lunga scadenza**»: è la slide 17–18, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», dopo il trade-off di costi di transazione, strategie di trading e limiti di rischio. Il docente: «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» (transcript [00:08:12]); «non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ Le tre riflessioni delle slide 10–16 portano prima a «Si scelgono opzioni ATM ed a breve scadenza», un'opzione che nel test non c'è; la moneyness resta ATM in entrambi i passaggi. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La C è la trappola per chi generalizza dall'esempio delle slide 29–30, dove la call Z ha K_Z > K_W e parte quindi leggermente out of the money (deduzione).
+**Opzione:** ATM a lunga scadenza
+**Distrattori:**
+- ITM a lunga scadenza
+- OTM a lunga scadenza
+- OTM a breve scadenza
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, che cosa segue la ricomposizione del portafoglio, secondo il test della lezione 20 (domanda 5)?
+**R:** «**una logica iterativa**»: è la slide 5, «Seguiamo una logica iterativa», con il ciclo Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Ricomposizione verso la Δ Neutralità. Il docente: «La logica potrebbe essere una logica iterativa» (transcript [00:02:21]); «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). Distrattori del test: «un approccio discorsivo», «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Il «logico» gioca sulla parola «logica» della slide: conta l'aggettivo, iterativa.
+**Opzione:** una logica iterativa
+**Distrattori:**
+- un approccio discorsivo
+- un approccio logico
+- un approccio ontologico
