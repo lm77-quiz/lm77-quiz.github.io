@@ -8543,3 +8543,313 @@
 - p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}
 - p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/[RSSnr/(n-m)]}
 - p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/RSSnr}
+
+## Lezione 29 — Modello Lineare 7 – Analisi dei residui
+
+**D:** ⚠️ Con quali ipotesi alla base della tecnica OLS deve risultare sufficientemente in linea un modello lineare per potersi ritenere valido e, quindi, ben specificato, secondo la slide 2 della lezione 29?
+**R:** Slide 2: «Anzitutto va osservato che un modello può ritenersi valido e, quindi, ben specificato, quando esso risulta sufficientemente in linea con le ipotesi alla base della tecnica OLS, vale a dire: linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dell'errore». Il docente: transcript [00:00:35]. ⚠️ Le quattro ipotesi riguardano l'**errore**, non i regressori: il docente parla una volta di «normalità dei regressori» (transcript [00:12:46]), ma la slide 14 dice normalità degli errori. Le domande 3, 4 e 5 del test pescano da questo elenco.
+**Opzione:** Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dell'errore
+**Distrattori:**
+- Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dei regressori
+- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+
+**D:** Rispetto a che cosa si osservano graficamente i residui, come «ottimo punto di partenza» per esaminare la conformità del modello stimato alle ipotesi OLS, secondo la slide 2 della lezione 29?
+**R:** Slide 2: «Un ottimo punto di partenza per esaminare la conformità del modello stimato alle ipotesi OLS è l'osservazione grafica dei residui rispetto a: i valori stimati ŷ^{OLS} della variabile dipendente; al tempo (inteso in senso lato come ordine di raccolta dei dati)». Il docente: transcript [00:01:04]. ⚠️ Il tempo è inteso **in senso lato**: conta l'ordine in cui i dati sono stati raccolti. E i valori sono quelli **stimati** ŷ^{OLS}, non quelli osservati.
+**Opzione:** Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+**Distrattori:**
+- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso stretto come data di calendario della rilevazione
+- Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+
+**D:** ⚠️ Quali ipotesi valuta lo scatter plot dei residui rispetto ai valori stimati, e quale il grafico dei residui rispetto al tempo, nell'esempio Nasdaq della lezione 29?
+**R:** Slide 4: dallo scatter plot dei residui rispetto ai valori stimati il modello «appare abbastanza coerente con l'ipotesi di linearità», e «Anche l'ipotesi di omoschedasticità appare rispettata». Slide 6: dal grafico dei residui rispetto al tempo «si può concludere che anche l'ipotesi di indipendenza degli errori risulti ragionevolmente soddisfatta». Il docente: «Questa rappresentazione mostra la linearità e l'omoschedasticità» (transcript [00:04:38]); per l'indipendenza transcript [00:05:25]. ⚠️ L'indipendenza riguarda l'**ordine** dei residui, ed è per questo che si guarda il tempo. La normalità vuole altri grafici (slide 10).
+**Opzione:** Rispetto ai valori stimati la linearità e l'omoschedasticità; rispetto al tempo l'indipendenza degli errori
+**Distrattori:**
+- Rispetto ai valori stimati la linearità e l'indipendenza degli errori; rispetto al tempo l'omoschedasticità
+- Se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio
+
+**D:** Quando il modello appare abbastanza coerente con l'ipotesi di linearità, osservando lo scatter plot dei residui rispetto ai valori stimati, secondo la slide 4 della lezione 29?
+**R:** Slide 4: «In via generale si può osservare che la "nuvola" dei residui (pallini azzurri) risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0 e, pertanto, il modello specificato appare abbastanza coerente con l'ipotesi di linearità». Il docente: «intorno alla retta orizzontale di equazione» ϵ^{OLS} = 0 (transcript [00:03:28]). ⚠️ La retta è **orizzontale**, ϵ^{OLS} = 0: la bisettrice y = x è la retta del Q-Q plot (slide 13) e dei confronti fra fit (slide 23 e 29).
+**Opzione:** Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
+**Distrattori:**
+- Quando la nuvola dei residui risulta distribuita attorno alla retta di equazione y = x, la bisettrice
+- Dal plot dei residui: in entrambi i casi i valori dei residui sono significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione
+
+**D:** Quando appare rispettata l'ipotesi di omoschedasticità, osservando lo scatter plot dei residui rispetto ai valori stimati, secondo la slide 4 della lezione 29?
+**R:** Slide 4: «Anche l'ipotesi di omoschedasticità appare rispettata, dal momento che i pallini azzurri risultano distribuiti in modo piuttosto casuale sopra e sotto la retta di equazione ϵ^{OLS} = 0 senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati». Il docente: «senza una varianza sistematicamente maggiore o minore, al crescere dei valori stimati» (transcript [00:04:26]). ⚠️ Omoschedasticità è **varianza costante** (slide 2): una nuvola che si allarga, o si stringe, al crescere dei valori stimati la smentisce.
+**Opzione:** Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
+**Distrattori:**
+- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, con una varianza sistematicamente maggiore al crescere dei valori stimati
+- Alla variabile esplicativa x, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
+
+**D:** ⚠️ Che cosa sono l'autocorrelazione positiva e l'autocorrelazione negativa dei residui, secondo la slide 6 della lezione 29?
+**R:** Slide 6: «Dall'osservazione della Figura non si apprezzano evidenti fenomeni di autocorrelazione positiva (residui consecutivi sistematicamente con lo stesso segno) o di autocorrelazione negativa (residui consecutivi sistematicamente di segno opposto)». Il docente: transcript [00:05:01]–[00:05:15]. ⚠️ **Stesso segno** è la positiva, **segno opposto** la negativa; in tutte e due i residui sono **consecutivi**.
+**Opzione:** Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
+**Distrattori:**
+- Positiva: residui consecutivi sistematicamente di segno opposto; negativa: residui consecutivi sistematicamente con lo stesso segno
+- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+
+**D:** Quale autocorrelazione nei residui si valuta con la statistica di Durbin-Watson, secondo la slide 7 della lezione 29?
+**R:** Slide 7: «Spesso per valutare la presenza di autocorrelazione c.d. del 1° ordine nei residui (ossia quella tra il residuo i-esimo e quello (i - 1)-esimo) si utilizza un'apposita statistica che prende il nome di Durbin-Watson dal nome dei suoi ideatori». Il docente: transcript [00:05:45], dove il riconoscimento vocale scrive «Darwin-Watson». ⚠️ Solo il **primo ordine**: la Nota della slide 9 ricorda che la statistica non dice nulla sulle autocorrelazioni di ordine superiore.
+**Opzione:** L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+**Distrattori:**
+- L'autocorrelazione di qualsiasi ordine, ossia quella tra il residuo i-esimo e tutti i residui che lo precedono
+- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+
+**D:** ⚠️ Come è definita la statistica di Durbin-Watson d (142), con i limiti delle due sommatorie, secondo la slide 7 della lezione 29?
+**R:** Slide 7: «Si definisce statistica di Durbin-Watson o, semplicemente, Durbin-Watson e si denota con d la statistica così definita: d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})² (142)». Il docente: «la sommatoria per i che va da 2 a n» (transcript [00:06:07]). ⚠️ Il numeratore parte da **i = 2**, perché contiene ϵ_{i-1}^{OLS}; il denominatore da **i = 1** (deduzione). Il quadrato c'è sopra e sotto, e il denominatore è la RSS della lezione 26.
+**Opzione:** d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})²
+**Distrattori:**
+- d := ∑_{i=1}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=2}^n (ϵ_i^{OLS})²
+- Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+
+**D:** ⚠️ Come si definisce la statistica di Durbin-Watson, secondo il test della lezione 29 (domanda 1)?
+**R:** «**d: = [Si={2;n} (eiOLS - ei-1OLS)2]/Si={1;n}eiOLS]2**», cioè la (142) della slide 7, d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})², con «Si={2;n}» per ∑_{i=2}^n e «]2» per il quadrato. Le parentesi quadre sbilanciate sono della piattaforma. Il docente: transcript [00:06:07]. Distrattori del test: senza i quadrati, sopra e sotto; senza il denominatore; il solo denominatore, che è la RSS della lezione 26. ⚠️ Senza i quadrati il denominatore sarebbe la somma dei residui OLS, che per la (47) della lezione 24 vale zero (deduzione).
+**Opzione:** d: = [Si={2;n} (eiOLS - ei-1OLS)2]/Si={1;n}eiOLS]2
+**Distrattori:**
+- d: = [Si={2;n} (eiOLS - ei-1OLS)]/Si={1;n}eiOLS]
+- d: = [Si={2;n} (eiOLS - ei-1OLS)2]
+- d: = Si={1;n}eiOLS]2
+
+**D:** ⚠️ Quanto vale il limite della statistica di Durbin-Watson per n → +∞ (143), e che cosa denota ρ_ϵ, secondo la proposizione della slide 7 della lezione 29?
+**R:** Slide 7: «Il limite della statistica di Durbin-Watson per n → +∞ è pari a 2(1 - ρ_ϵ) dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS, i.e.: lim_{n→+∞} d = 2(1 - ρ_ϵ) (143)». Il docente: «non è altro che 2 per 1 meno l'autocorrelazione dei residui campionari» (transcript [00:06:26]). ⚠️ Il segno è **meno**: con ρ_ϵ = 1 il limite vale 0, con ρ_ϵ = -1 vale 4 (slide 8). È la domanda 2 del test.
+**Opzione:** lim_{n→+∞} d = 2(1 - ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+**Distrattori:**
+- lim_{n→+∞} d = 2(1 + ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+- Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile dipendente
+
+**D:** ⚠️ A che cosa è pari il limite della statistica di Durbin-Watson per n → +∞, secondo il test della lezione 29 (domanda 2)?
+**R:** «**limn ->+∞ d = 2 (1 - re)**», cioè la (143) della slide 7, lim_{n→+∞} d = 2(1 - ρ_ϵ), con «re» per ρ_ϵ, «l'autocorrelazione campionaria dei residui OLS». La domanda dice «definita re l'autocorrelazione dei residui OLS», senza «campionaria», e il paragrafo di riferimento ha il refuso «statistica dIl Modello Lineare 7». Il docente: transcript [00:06:26]. Distrattori del test: «(1 - re)» perde il fattore 2; «(2 - re)» porta il 2 fuori dalla parentesi come addendo; «re» lascia la sola autocorrelazione. ⚠️ Con ρ_ϵ = 1, 0 e -1 solo 2(1 - ρ_ϵ) dà i tre valori 0, 2 e 4 dell'algoritmo della slide 8 (deduzione).
+**Opzione:** limn ->+∞ d = 2 (1 - re)
+**Distrattori:**
+- limn ->+∞ d = (1 - re)
+- limn ->+∞ d = (2 - re)
+- limn ->+∞ d = re
+
+**D:** ⚠️ Fra quali valori è sempre compresa la statistica d di Durbin-Watson, secondo la slide 8 della lezione 29?
+**R:** Slide 8: «In particolare, si può dimostrare che il valore di d è sempre compreso tra 0 e 4». Il docente: transcript [00:07:00]. ⚠️ Gli estremi corrispondono, nella (143), a ρ_ϵ = 1 e ρ_ϵ = -1, cioè ai valori estremi di un coefficiente di correlazione (lezione 02, deduzione); il valore centrale 2 corrisponde a ρ_ϵ = 0. Fra -1 e 1 sta ρ_ϵ, non d.
+**Opzione:** Sempre tra 0 e 4
+**Distrattori:**
+- Sempre tra -1 e 1
+- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+
+**D:** ⚠️ Che cosa segnalano i valori di d prossimi a 0, prossimi a 4 e prossimi a 2, secondo l'algoritmo operativo della slide 8 della lezione 29?
+**R:** Slide 8: «valori prossimi a 0 segnalano la presenza di autocorrelazione positiva tra i residui giacchè, in base alla 143, d assume tali valori quando ρ_ϵ è prossima a 1; valori prossimi a 4 segnalano la presenza di autocorrelazione negativa tra i residui giacchè … ρ_ϵ è prossima a -1; valori prossimi a 2 segnalano l'assenza di autocorrelazione tra i residui giacchè … ρ_ϵ è prossima a 0». Il docente: transcript [00:07:12]–[00:07:50]. ⚠️ Il verso è controintuitivo: d **piccolo** è autocorrelazione **positiva**, d **grande** è **negativa**. Viene dalla (143), d ≈ 2(1 - ρ_ϵ).
+**Opzione:** Prossimi a 0 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 4 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+**Distrattori:**
+- Prossimi a 0 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 4 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+- Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione intero (in ascissa) versus il fit sul campione ristretto (in ordinata)
+
+**D:** Su che cosa si basa l'algoritmo decisionale più preciso per la statistica di Durbin-Watson, e che cosa permette, secondo la slide 8 della lezione 29?
+**R:** Slide 8: «In alternativa, è disponibile anche un algoritmo decisionale più preciso che si basa sul confronto tra i valori della statistica d e i valori teorici della medesima statistica e permette pertanto di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto». Il docente: transcript [00:07:56]. ⚠️ Il confronto è con i valori teorici della **stessa** statistica d, non con una t di Student o una F. ⚠️ La slide chiama (1 - α) «livello di significatività», mentre la lezione 28 lo chiama livello di confidenza. Le tavole dei valori teorici non sono nel deck.
+**Opzione:** Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+**Distrattori:**
+- Sul confronto tra i valori della statistica d e i valori teorici di una t di Student con (n - m) gradi di libertà: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+- Possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta però di una possibilità, non di una conseguenza inevitabile e scontata
+
+**D:** Quale valore del Durbin-Watson ha il modello lineare (141) stimato col metodo OLS, e che cosa se ne conclude, secondo l'esempio della slide 9 della lezione 29?
+**R:** Slide 9: «Nel caso del modello lineare 141 stimato col metodo OLS, il valore del Durbin Watson era d = 1,786671. Essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui». Il docente: transcript [00:08:24]. ⚠️ La conclusione vale per il **primo ordine**: per la Nota della stessa slide un valore prossimo a 2 non è condizione sufficiente per la completa assenza di autocorrelazione.
+**Opzione:** d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+**Distrattori:**
+- d = 1,786671: essendo un valore minore di 2, segnala la presenza di autocorrelazione negativa nei residui
+- Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+
+**D:** ⚠️ Su che cosa la statistica di Durbin-Watson non dice nulla, secondo la Nota della slide 9 della lezione 29?
+**R:** Slide 9: «La statistica di Durbin Watson fa parte dell'output della regressione nei principali programmi econometrici. Va ricordato, tuttavia, che essa serve solo a valutare l'autocorrelazione del primo ordine nei residui mentre non dice nulla sulla presenza di eventuali autocorrelazioni di ordine superiore. Pertanto, un suo eventuale valore prossimo (o anche molto prossimo) a 2 non è una condizione sufficiente per concludere circa la completa assenza di autocorrelazione nei residui e la correttezza dell'ipotesi di indipendenza degli errori del modello lineare specificato». Il docente: transcript [00:08:45]–[00:09:03]. ⚠️ «Serve solo»: d vicino a 2 esclude l'autocorrelazione del primo ordine, non quella di ordine superiore.
+**Opzione:** Sulla presenza di eventuali autocorrelazioni di ordine superiore: serve solo a valutare l'autocorrelazione del primo ordine nei residui
+**Distrattori:**
+- Sulla presenza di autocorrelazione del primo ordine: serve solo a valutare le eventuali autocorrelazioni di ordine superiore nei residui
+- Di un campione un po' povero (aumentando il numero di osservazioni finirebbe per ricadere nella nuvola dei pallini blu) o di un evento estremo ma comunque abbastanza compatibile col fenomeno esaminato e col modello specificato
+
+**D:** ⚠️ Con quali grafici dei residui si valuta il rispetto dell'ipotesi di normalità degli errori, secondo le slide 10 e 13 della lezione 29?
+**R:** Slide 10: «anche per valutare il rispetto dell'ipotesi di normalità degli errori si può ricorrere a un'analisi grafica dei residui OLS. Tuttavia, in questo caso, è opportuno ricorrere ad altri tipi di grafici. Uno di questi è l'istogramma di frequenze dei residui», o quello dei residui standardizzati. Slide 13: «Oltre all'istogramma di frequenze dei residui o dei residui standardizzati, per valutare la normalità dei residui si può ricorrere anche a un altro grafico, il c.d. Q-Q plot». Il docente: transcript [00:09:16]–[00:09:38], [00:11:30]. ⚠️ Per la normalità **non** bastano i grafici delle altre ipotesi, rispetto ai valori stimati e rispetto al tempo: ne servono «altri tipi».
+**Opzione:** Con altri tipi di grafici rispetto alle altre ipotesi: fra questi l'istogramma di frequenze dei residui, o dei residui standardizzati, e il Q-Q plot
+**Distrattori:**
+- Con gli stessi grafici usati per linearità, omoschedasticità e indipendenza: i residui rispetto ai valori stimati e rispetto al tempo
+- L'esclusione, ad esempio, se sono riconducibili a errori di rilevazione o provengono da un altro processo di generazione dei dati; l'arricchimento, ad esempio, se ci sono molte altre osservazioni simili alle due anomale
+
+**D:** ⚠️ Che cosa si può concludere se l'istogramma di frequenze dei residui approssima abbastanza bene la forma a «campana» della densità teorica delle variabili aleatorie Normali a media nulla, secondo la slide 10 della lezione 29?
+**R:** Slide 10: «Se l'istogramma approssima abbastanza bene la classica forma a "campana" che caratterizza la funzione di densità di probabilità teorica delle variabili aleatorie Normali a media nulla, si può ragionevolmente concludere che gli errori del modello lineare siano governati da una legge di probabilità di tipo Normale con valore atteso nullo e che quindi l'ipotesi di normalità sia soddisfatta». ⚠️ Il docente dice «con valore atteso 1» (transcript [00:09:54]): vale la slide, **valore atteso nullo**, come la media nulla della frase prima e la (9) della lezione 23.
+**Opzione:** Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso nullo, e quindi che l'ipotesi di normalità sia soddisfatta
+**Distrattori:**
+- Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso unitario, e quindi che l'ipotesi di normalità sia soddisfatta
+- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+
+**D:** Come si ottengono i valori dei residui standardizzati, e con quale densità teorica si confronta il loro istogramma, secondo la slide 10 della lezione 29?
+**R:** Slide 10: «In alternativa all'istogramma di frequenze dei residui tout court, si può ricorrere a quello dei c.d. residui standardizzati, i cui valori sono ottenuti dividendo i residui per l'errore standard della regressione. In tal caso il confronto andrà ovviamente fatto con la funzione di densità di probabilità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria». Il docente: transcript [00:10:08]–[00:10:17]. ⚠️ Per i residui tout court il confronto è con la Normale **a media nulla**; per quelli standardizzati con la Normale a media nulla **e varianza unitaria**.
+**Opzione:** Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria
+**Distrattori:**
+- Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza pari a σ̂_ε²
+- Se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio
+
+**D:** ⚠️ Come è definito l'elemento i-esimo del vettore dei residui standardizzati 𝛜^{OLS,std} (144), secondo la slide 11 della lezione 29?
+**R:** Slide 11: «si definisce vettore dei residui standardizzati e si denota con 𝛜^{OLS,std} il vettore … in cui il generico elemento i-esimo, per i = 1, 2, ⋯, n è così definito: ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε (144) ove σ̂_ε è l'errore standard della regressione, vale a dire la radice quadrata dello stimatore σ̂_ε² di cui all'equazione 67». La (67) è lo stimatore non distorto della lezione 25. ⚠️ Si divide per la **radice**, σ̂_ε, non per la varianza σ̂_ε². Il docente: transcript [00:10:36].
+**Opzione:** ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
+**Distrattori:**
+- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε², con σ̂_ε² lo stimatore della varianza dell'errore dell'equazione 67
+- Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+
+**D:** ⚠️ Che cosa riporta il Q-Q plot in ascissa e in ordinata, secondo la slide 13 della lezione 29?
+**R:** Slide 13: il c.d. Q-Q plot (o, per esteso, Quantile-Quantile plot) «deve il suo nome al fatto che esso riporta sul piano cartesiano rispettivamente un quantile di una variabile aleatoria che ha una funzione di densità di probabilità perfettamente Normale a media nulla (in ascissa) e il corrispondente quantile della distribuzione di frequenze dei residui OLS del modello stimato (in ordinata)». Il docente: transcript [00:11:30]–[00:11:56]. ⚠️ La Normale teorica sta **in ascissa**, i residui **in ordinata**: nella slide 14 l'asse orizzontale è «Quantili normali».
+**Opzione:** In ascissa un quantile di una variabile aleatoria con densità perfettamente Normale a media nulla; in ordinata il corrispondente quantile della distribuzione di frequenze dei residui OLS
+**Distrattori:**
+- In ascissa un quantile della distribuzione di frequenze dei residui OLS; in ordinata il corrispondente quantile di una variabile aleatoria con densità perfettamente Normale a media nulla
+- L'esclusione, ad esempio, se sono riconducibili a errori di rilevazione o provengono da un altro processo di generazione dei dati; l'arricchimento, ad esempio, se ci sono molte altre osservazioni simili alle due anomale
+
+**D:** Dove si collocano i punti del Q-Q plot in caso di perfetta conformità all'ipotesi di normalità, e quando l'ipotesi si può considerare ragionevolmente rispettata su dati reali, secondo la slide 13 della lezione 29?
+**R:** Slide 13: «Nel caso di perfetta conformità all'ipotesi di normalità i punti del Q-Q plot si collocheranno tutti lungo la retta y = x. Pertanto, nel caso di modelli stimati su dati reali, l'ipotesi di normalità potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice». Il docente: transcript [00:12:11]–[00:12:19]. ⚠️ La retta è la **bisettrice** y = x, non la retta orizzontale ϵ^{OLS} = 0 dello scatter dei residui (slide 4).
+**Opzione:** Tutti lungo la retta y = x; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
+**Distrattori:**
+- Tutti lungo la retta orizzontale ϵ^{OLS} = 0; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello di tale retta
+- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+
+**D:** ⚠️ Che cosa significa l'omoschedasticità, fra le proprietà dei residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 3)?
+**R:** «**varianza costante dell'errore**», alla lettera nella slide 2: «omoschedasticità, ossia varianza costante dell'errore». Il docente: «omoschedasticità, cioè varianza costante dell'errore» (transcript [00:00:35]). È l'ipotesi (35) della lezione 24, Var(ε_i|𝐱) = σ_ε². ⚠️ La domanda parla di «proprietà» dei **residui**, la slide di **ipotesi** sull'**errore**. Distrattori del test: «varianza stocastica dell'errore» e «media random dell'errore», che non sono nei materiali; «varianza unitaria dell'errore», che viene dalla slide 10, dove la varianza unitaria è quella della Normale con cui si confrontano i residui **standardizzati**. La domanda scrive «llineare».
+**Opzione:** varianza costante dell'errore
+**Distrattori:**
+- varianza stocastica dell'errore
+- varianza unitaria dell'errore
+- media random dell'errore
+
+**D:** ⚠️ Che cosa significa l'indipendenza, fra le proprietà dei residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 4)?
+**R:** «**assenza di autocorrelazione**», alla lettera nella slide 2: «indipendenza (e precisamente assenza di auto-correlazione) degli errori», dove la slide scrive auto-correlazione con il trattino. Il docente: transcript [00:00:35]. È l'ipotesi (36) della lezione 24, cov(ε_i, ε_j|𝐱) = 0. Distrattori del test: «correlazione spuria» e «correlazione stocastica», che non sono nei materiali; «autocorrelazione pari a 1», che richiama ρ_ϵ «prossima a 1» della slide 8, cioè l'autocorrelazione **positiva**, il contrario dell'indipendenza. La domanda scrive «llineare».
+**Opzione:** assenza di autocorrelazione
+**Distrattori:**
+- correlazione spuria
+- autocorrelazione pari a 1
+- correlazione stocastica
+
+**D:** ⚠️ Come sono distribuiti i residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 5)?
+**R:** «**normale**»: nella slide 2 la «normalità dell'errore» è una delle **ipotesi** alla base della tecnica OLS, e le slide 10–14 la valutano sui residui con l'istogramma di frequenze e il Q-Q plot. ⚠️ La chiave è giusta come ipotesi, non come risultato: la slide 10 parla di normalità degli **errori**, la slide 13 di normalità dei residui. Distrattori del test: «chi-quadro con n gradi di libertà» richiama la Chi-quadrato della lezione 27, che però è di (n - m)σ̂_ε²/σ_ε² e ha (n - m) gradi, anche se lì il docente aveva detto «n-gradi di libertà»; «binomiale» è nel corso, nelle lezioni di pricing, non nel blocco sul modello lineare; «poissoniana» non è nei materiali. La domanda scrive «llineare».
+**Opzione:** normale
+**Distrattori:**
+- chi-quadro con n gradi di libertà
+- binomiale
+- poissoniana
+
+**D:** Che cosa occorre stabilire, una volta verificata la presenza di eventuali dati anomali e indagatene le cause, per analizzare la corretta specificazione di un modello lineare, secondo la slide 15 della lezione 29?
+**R:** Slide 15: «Per analizzare la corretta specificazione di un modello lineare è opportuno esaminare con attenzione le osservazioni al fine di verificare la presenza di eventuali dati anomali tanto nelle variabili esplicative quanto in quella dipendente, indagarne le cause e stabilire se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio». Il docente: transcript [00:13:07]–[00:13:35]. ⚠️ Due strade: **escludere alcune** osservazioni, oppure **allargare** il campione. Il dato anomalo non si esclude per forza.
+**Opzione:** Se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio
+**Distrattori:**
+- Se il modello possa essere meglio specificato escludendo sempre tutte le osservazioni anomale dal campione
+- Sulla presenza di eventuali autocorrelazioni di ordine superiore: serve solo a valutare l'autocorrelazione del primo ordine nei residui
+- Rispetto ai valori stimati la linearità e l'omoschedasticità; rispetto al tempo l'indipendenza degli errori
+
+**D:** ⚠️ Quali tipologie di dati anomali si possono individuare in linea generale, secondo la slide 15 della lezione 29?
+**R:** Slide 15: «In linea generale si possono individuare varie tipologie di dati anomali: gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello». ⚠️ La quarta voce è quella delle osservazioni **influenti**: nel transcript il docente dice «ininfluenti» prima di correggersi (transcript [00:14:09]–[00:14:20]).
+**Opzione:** Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello
+**Distrattori:**
+- Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni ininfluenti rispetto alla stima del modello
+- Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dell'errore
+- Prossimi a 0 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 4 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+
+**D:** ⚠️ Che cosa distingue gli outliers dai dati con valore di leva o leverage particolarmente elevato, secondo la slide 15 della lezione 29?
+**R:** Slide 15: «gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)». Il docente: «Gli outliers sono i dati anomali della variabile dipendente. I dati con valore di leva o leverage particolarmente elevato sono invece i dati anomali dei regressori» (transcript [00:13:54]–[00:13:59]). ⚠️ Outlier è la **y**, leverage sono le **x**: nell'esempio verde e rosso sono outliers (slide 24), il viola è un punto di leva (slide 27).
+**Opzione:** Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+**Distrattori:**
+- Gli outliers sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati con leverage elevato sono dati anomali nella variabile dipendente
+- Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
+- In ascissa un quantile di una variabile aleatoria con densità perfettamente Normale a media nulla; in ordinata il corrispondente quantile della distribuzione di frequenze dei residui OLS
+
+**D:** Quali due possibili spiegazioni dà la slide 18 della lezione 29 per i valori di R² e di R̄² non particolarmente alti (intorno a 0,4) dell'esempio delle 32 osservazioni?
+**R:** Slide 18: «Entrambi i coefficienti stimati risultano significativi … Ciononostante, si nota anche che sia l'R² che l'R̄² non sono particolarmente alti (intorno a 0,4). Una possibilità è che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x qui considerata. Ma i valori relativamente contenuti del coefficiente di determinazione potrebbero anche dipendere dalla presenza di alcune osservazioni palesemente anomale». Il docente: transcript [00:15:46]–[00:16:08]. ⚠️ I coefficienti **sono** significativi: R² basso non dipende dalla loro significatività. I valori sono 0,412590 e 0,393010 (slide 17).
+**Opzione:** Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+**Distrattori:**
+- Che i due coefficienti stimati non risultino significativi, oppure la presenza di alcune osservazioni palesemente anomale
+- Con altri tipi di grafici rispetto alle altre ipotesi: fra questi l'istogramma di frequenze dei residui, o dei residui standardizzati, e il Q-Q plot
+- Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+
+**D:** Rispetto a quali variabili è anomalo il pallino giallo, di coordinate (16; 7,7), secondo la slide 19 della lezione 29?
+**R:** Slide 19: il pallino giallo «identifica un'osservazione anomala sia per la variabile esplicativa che per la variabile dipendente. Si tratta infatti di un dato che si posiziona ampiamente fuori dalla media campionaria sia per i valori della x (la cui media campionaria è pari a 5,9) sia per i valori della y (la cui media campionaria è pari a 3,37)». Il docente: transcript [00:16:33]–[00:16:56]. ⚠️ Anomalo **in tutte e due** le variabili, eppure «in linea» con il comportamento complessivo del campione: la slide 27 lo chiamerà un dato con un alto punto di leva.
+**Opzione:** Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+**Distrattori:**
+- Solo per la variabile dipendente: è ampiamente fuori dalla media campionaria della y (3,37), mentre la x è vicina alla sua media campionaria (5,9)
+- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
+- Sempre tra 0 e 4
+
+**D:** ⚠️ Come cambiano le stime OLS dei coefficienti escludendo dal campione l'osservazione del pallino giallo, secondo la tabella della slide 19 della lezione 29?
+**R:** Slide 19: «Stimando nuovamente col metodo dei minimi quadrati ordinari il modello considerato su un campione ristretto in cui è stata esclusa l'osservazione associata al pallino giallo, i valori stimati dei coefficienti della regressione non risultano particolarmente diversi da quelli calcolati sull'intero campione»: β̂_0^{OLS} da 1,64622 a 1,77857, β̂_1^{OLS} da 0,29321 a 0,26132. Il docente: «Da 1,64 andiamo a 1,77, da 0,29 andiamo a 0,26» (transcript [00:17:25]). ⚠️ Senza il giallo l'intercetta **sale** e la pendenza **scende**; senza il viola succede il contrario, 1,361834 e 0,35734 (slide 28).
+**Opzione:** β̂_0^{OLS} da 1,64622 a 1,77857 e β̂_1^{OLS} da 0,29321 a 0,26132: non risultano particolarmente diversi da quelli calcolati sull'intero campione
+**Distrattori:**
+- β̂_0^{OLS} da 1,64622 a 1,361834 e β̂_1^{OLS} da 0,29321 a 0,35734: non risultano particolarmente diversi da quelli calcolati sull'intero campione
+- Tutti lungo la retta y = x; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
+- d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+
+**D:** Quali due figure danno un'ulteriore conferma della non problematicità del pallino giallo, secondo la slide 20 della lezione 29?
+**R:** Slide 20: «Le due Figure seguenti riportano, rispettivamente, il plot dei residui del modello lineare stimato sull'intero campione e lo scatter plot del fit della regressione stimata sul campione intero (in ascissa) versus il fit della regressione stimata sul campione ristretto (in ordinata)». Slide 21: il residuo giallo «non è, in valore assoluto, particolarmente grande»; slide 23: i due fit sono «sostanzialmente disposti lungo la retta di equazione y = x», quindi l'inclusione o l'esclusione del giallo «non influenza sensibilmente la stima del modello». Il docente: transcript [00:17:33]–[00:18:44]. ⚠️ Il campione **intero** sta **in ascissa**, quello ristretto in ordinata.
+**Opzione:** Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione intero (in ascissa) versus il fit sul campione ristretto (in ordinata)
+**Distrattori:**
+- Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione ristretto (in ascissa) versus il fit sul campione intero (in ordinata)
+- Con altri tipi di grafici rispetto alle altre ipotesi: fra questi l'istogramma di frequenze dei residui, o dei residui standardizzati, e il Q-Q plot
+- lim_{n→+∞} d = 2(1 - ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+
+**D:** Di che cosa potrebbe essere conseguenza, ad esempio, l'osservazione del pallino giallo, secondo la sintesi della slide 23 della lezione 29?
+**R:** Slide 23: «In sintesi, l'osservazione in questione non appare particolarmente problematica e potrebbe essere, ad esempio, conseguenza di un campione un po' povero (aumentando il numero di osservazioni essa finirebbe per ricadere nella "nuvola" dei pallini blu) o di un evento estremo ma comunque abbastanza compatibile col fenomeno esaminato e col modello specificato». Il docente: transcript [00:19:01]–[00:19:10], dove dice «non è problematica» senza «particolarmente». ⚠️ L'evento estremo è **compatibile** col fenomeno e col modello.
+**Opzione:** Di un campione un po' povero (aumentando il numero di osservazioni finirebbe per ricadere nella nuvola dei pallini blu) o di un evento estremo ma comunque abbastanza compatibile col fenomeno esaminato e col modello specificato
+**Distrattori:**
+- Di un campione un po' povero (aumentando il numero di osservazioni finirebbe per ricadere nella nuvola dei pallini blu) o di un evento estremo e incompatibile col fenomeno esaminato e col modello specificato
+- Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso nullo, e quindi che l'ipotesi di normalità sia soddisfatta
+- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
+
+**D:** ⚠️ Quali osservazioni dell'esempio delle 32 osservazioni sono degli outliers, e rispetto a quale variabile risultano anomale, secondo la slide 24 della lezione 29?
+**R:** Slide 24: «Le osservazioni corrispondenti al pallino verde e a quello rosso risultano invece anomale rispetto alla variabile dipendente e sono quindi degli outliers». Il verde, di coordinate (3,3; 8,14), ha una y lontana dalla sua media campionaria (3,37) e «risponde al valore della variabile esplicativa ad esso associato in un modo diverso da quello riscontrato su quasi tutto il resto del campione»; per il rosso, di coordinate (10; 0,64), vale «Un discorso in parte simile … sebbene il suo valore stavolta sia più vicino a quello della media campionaria». ⚠️ Il docente dice «esclusivamente» e «Diverso è il pallino rosso» (transcript [00:19:45], [00:20:20]): la slide non ha «esclusivamente» e dice «in parte simile».
+**Opzione:** Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile dipendente
+**Distrattori:**
+- Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile esplicativa
+- Sempre tra 0 e 4
+- Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+
+**D:** Da quale grafico viene la conferma che il pallino verde e il pallino rosso sono degli outliers, e che cosa mostra, secondo la slide 25 della lezione 29?
+**R:** Slide 25: «La conferma del fatto che questi due dati sono degli outliers viene dal grafico del plot dei residui (cfr. Figura seguente), nel quale i rombi di colore rosso e verde mostrano i valori dei residui associati rispettivamente al pallino rosso e a quello verde. E' immediato notare, infatti, come in entrambi i casi i valori dei residui siano significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione». Il docente: transcript [00:21:00]–[00:21:21]. ⚠️ Per il giallo lo stesso grafico mostra il contrario: un residuo «non … particolarmente grande» (slide 21).
+**Opzione:** Dal plot dei residui: in entrambi i casi i valori dei residui sono significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione
+**Distrattori:**
+- Dal plot dei residui: in entrambi i casi i valori dei residui non sono, in valore assoluto, particolarmente grandi rispetto a quelli relativi al resto del campione
+- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
+- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+
+**D:** ⚠️ In quale caso, ad esempio, si valuta la possibile esclusione dei due outliers, e in quale l'arricchimento del campione con ulteriori osservazioni, secondo la slide 26 della lezione 29?
+**R:** Slide 26: «Diventa pertanto opportuno effettuare ulteriori approfondimenti su questi dati per valutare una loro possibile esclusione (ad esempio qualore risultasse che sono riconducibili a errori di rilevazione o che provengono da un altro processo di generazione dei dati) ma anche per valutare se arricchire il campione con ulteriori osservazioni (ad esempio qualora risultasse che ci sono molte altre osservazioni simile alle due anomale di cui si sta parlando) e stimare nuovamente il modello specificato per ottenere stime più accurate dei coefficienti della regressione e migliorare la capacità previsionale del modello stesso» («qualore» e «simile» sono refusi della slide). ⚠️ Il docente: «non è immediato concludere, li leviamo» (transcript [00:22:25]).
+**Opzione:** L'esclusione, ad esempio, se sono riconducibili a errori di rilevazione o provengono da un altro processo di generazione dei dati; l'arricchimento, ad esempio, se ci sono molte altre osservazioni simili alle due anomale
+**Distrattori:**
+- L'esclusione, ad esempio, se ci sono molte altre osservazioni simili alle due anomale; l'arricchimento, ad esempio, se sono riconducibili a errori di rilevazione o provengono da un altro processo di generazione dei dati
+- Rispetto ai valori stimati la linearità e l'omoschedasticità; rispetto al tempo l'indipendenza degli errori
+- Sulla presenza di eventuali autocorrelazioni di ordine superiore: serve solo a valutare l'autocorrelazione del primo ordine nei residui
+
+**D:** Rispetto a quale variabile è anomalo il pallino viola, di coordinate (18; 4,84), e a quale osservazione corrisponde, secondo la slide 27 della lezione 29?
+**R:** Slide 27: «Si consideri ora il pallino viola, di coordinate (18; 4,84), corrispondente alla 13-esima osservazione. Si tratta di un'osservazione anomala in relazione alla variabile esplicativa x, che infatti assume un valore molto più alto rispetto alla media calcolata sull'intero campione (5,9)». Il docente: transcript [00:24:56]–[00:25:21]. ⚠️ Anomalo nella **x**: è un punto di leva, non un outlier. Il docente aggiunge «molto meno rilevante sulla variabile dipendente y» (transcript [00:25:34]), che la slide non dice.
+**Opzione:** Alla variabile esplicativa x, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
+**Distrattori:**
+- Alla variabile dipendente y, che assume un valore molto più alto della media calcolata sull'intero campione (3,37); è la 13-esima osservazione
+- Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria
+- d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})²
+
+**D:** ⚠️ Che cosa possono fare le osservazioni con leverage elevato, o ad alto punto di leva, secondo la slide 27 della lezione 29?
+**R:** Slide 27: «Osservazioni simili sono dette osservazioni con leverage elevato o ad alto punto di leva e possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione. Si tratta, però di una possibilità, non di una conseguenza inevitabile e scontata. Si ricorderà, ad esempio, che poc'anzi si era trovato già un altro dato con un alto punto di leva (quello associato al pallino giallo). In quel caso, tuttavia, si era visto come l'impatto di quell'osservazione sul modello stimato fosse relativamente modesto». Il docente: transcript [00:25:39]–[00:26:04]. ⚠️ **Possono**: il giallo è anch'esso un punto di leva, ma con impatto relativamente modesto.
+**Opzione:** Possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta però di una possibilità, non di una conseguenza inevitabile e scontata
+**Distrattori:**
+- Influenzano sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta di una conseguenza inevitabile e scontata
+- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
+
+**D:** ⚠️ Come cambiano le stime OLS dei coefficienti escludendo dal campione la 13-esima osservazione, il pallino viola, secondo la tabella della slide 28 della lezione 29?
+**R:** Slide 28: «Stavolta, invece, il discorso è diverso perchè la 13-esima osservazione impatta in misura rilevante sulla stima del modello specificato. … si nota anzitutto che i valori stimati dei coefficienti della regressione cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione»: β̂_0^{OLS} da 1,64622 a 1,361834, β̂_1^{OLS} da 0,29321 a 0,35734. Il docente: «β0 stimato da 1,64, levando il viola, diventa 1,36. β1 stimato da 0,29 diventa 0,35. Quindi abbiamo un problema» (transcript [00:27:16]). ⚠️ Senza il viola l'intercetta **scende** e la pendenza **sale**: il contrario del giallo (1,77857 e 0,26132, slide 19).
+**Opzione:** β̂_0^{OLS} da 1,64622 a 1,361834 e β̂_1^{OLS} da 0,29321 a 0,35734: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
+**Distrattori:**
+- β̂_0^{OLS} da 1,64622 a 1,77857 e β̂_1^{OLS} da 0,29321 a 0,26132: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
+- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
+- d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+
+**D:** Che cosa mostra lo scatter plot del fit stimato sul campione intero versus il fit stimato sul campione ristretto senza la 13-esima osservazione, secondo la slide 29 della lezione 29?
+**R:** Slide 29: «Conseguentemente, è ragionevole supporre che l'esclusione di questa osservazione possa modificare sensibilmente il fit della regressione rispetto a quello ottenuto effettuando la stima sul campione completo. La Figura seguente … supporta questa supposizione dal momento che vi è una discreta dispersione dei punti intorno alla retta di equazione y = x». Il docente: transcript [00:27:29]–[00:28:03]. ⚠️ Per il giallo, al contrario, i due fit sono «sostanzialmente disposti lungo la retta di equazione y = x» (slide 23).
+**Opzione:** Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+**Distrattori:**
+- Punti sostanzialmente disposti lungo la retta y = x: l'esclusione dell'osservazione non influenza sensibilmente il fit della regressione
+- Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
+- In ascissa un quantile di una variabile aleatoria con densità perfettamente Normale a media nulla; in ordinata il corrispondente quantile della distribuzione di frequenze dei residui OLS
+
+**D:** ⚠️ Come cambiano R² e R̄² rimuovendo dal campione la 13-esima osservazione, il pallino viola, secondo la slide 30 della lezione 29?
+**R:** Slide 30: «rimuovendo dal campione la 13-esima osservazione e effettuando la stima del modello lineare sul campione ristretto così ottenuto si registra un miglioramento anche nella capacità di adattamento del modello, come segnalato dall'aumento sia dell'R² che dell'R̄²»: R² da 0,41259 a 0,45501, R̄² da 0,39301 a 0,43622. ⚠️ Il docente dice «otteniamo una sensibile riduzione un miglioramento» (transcript [00:28:18]): per la slide R² e R̄² **aumentano**.
+**Opzione:** Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+**Distrattori:**
+- Diminuiscono entrambi, R² da 0,45501 a 0,41259 e R̄² da 0,43622 a 0,39301: si registra una sensibile riduzione nella capacità di adattamento del modello
+- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
