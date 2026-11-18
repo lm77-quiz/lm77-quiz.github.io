@@ -6381,3 +6381,310 @@
 - una logica iterativa
 - un approccio logico
 - un approccio ontologico
+
+## Lezione 23 — Modello Lineare 1 – Regressione Lineare
+
+**D:** ⚠️ Se il valore di x è noto, qual è per la slide 2 della lezione 23 la migliore previsione disponibile per il valore di y, e come si scrive?
+**R:** Slide 2: «Siano x e y due variabili aleatorie con una funzione di densità di probabilità congiunta f(x, y). Se il valore di x è noto, allora la migliore previsione disponibile per il valore di y è data dal **valore atteso condizionato di y dato x**, ossia: **E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy** (1) dove f(y|x) è la funzione di densità di probabilità di y dato x». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). ⚠️ Al denominatore della prima forma c'è la densità di **x**, f(x): il rapporto f(x,y)/f(x) è la densità di y dato x. Si integra in dy.
+**Opzione:** Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+**Distrattori:**
+- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(y) dy = ∫_y y f(y|x) dy
+- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
+- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+
+**D:** ⚠️ Su quale ipotesi si fonda la teoria della Regressione Lineare, secondo la slide 3 della lezione 23?
+**R:** Slide 3: «Alla base della teoria della Regressione Lineare vi è l'ipotesi che il **valore atteso condizionato di y rispetto ad x** abbia una forma funzionale di tipo lineare, vale a dire che valga una relazione del seguente tipo: **E(y|x) = β_0 + β_1x** (3)». Il docente: «Alla base della teoria della regressione lineare vi è l'ipotesi che il valore atteso condizionato di y dato x abbia una forma funzionale lineare, vale a dire che vale una relazione del tipo valore atteso di y dato x uguale al parametro beta0 più il parametro beta1 per x» (transcript [00:01:24]). ⚠️ A essere lineare è il **valore atteso condizionato**, non la variabile y: y ha in più l'errore ε, y = E(y|x) + ε (4). Una y esattamente lineare in x, y = a + bx, è il caso particolare della Proposizione della slide 17.
+**Opzione:** Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
+**Distrattori:**
+- Che la variabile aleatoria y abbia una forma funzionale di tipo lineare in x: y = β_0 + β_1x
+- β̂_0^{OLS} = E(y) - β_1E(x)
+- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
+
+**D:** ⚠️ Come si rappresenta la variabile aleatoria y nella (4) della lezione 23, e che cosa diventa utilizzando la (3)?
+**R:** Slide 3: «Pertanto, la variabile aleatoria y può essere rappresentata dalla seguente equazione: **y = E(y|x) + ε** (4) ossia, utilizzando la 3, da: **y = β_0 + β_1x + ε** (5)». Il docente: «La variabile aleatoria y può essere quindi rappresentata dalla seguente equazione y uguale valore atteso di y dato x più» ε (transcript [00:01:47]); «Utilizzando la precedente relazione possiamo dire che y è uguale a β0 più β1x più ε, un errore o disturbo della regressione» ([00:02:02]). ⚠️ L'errore si **somma**: y è la somma della parte lineare e di ε. La (5) è la chiave della domanda 3 del test.
+**Opzione:** y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
+**Distrattori:**
+- y = E(y|x) · ε, ossia, utilizzando la 3, y = (β_0 + β_1x) · ε
+- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
+- L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
+
+**D:** ⚠️ Nell'equazione standard del modello di regressione lineare della lezione 23, y = β_0 + β_1x + ε, come si chiamano y, x, ε, β_0 e β_1?
+**R:** Slide 3, «Definizione»: «Nell'equazione standard del modello di regressione lineare (cfr. equazione 5) y è detta **variabile dipendente**, x è detta **variabile indipendente o variabile esplicativa**, ε è detto **errore o disturbo della regressione** e β_0 e β_1 sono detti **coefficienti della regressione**». Il docente: ε è «un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione. In questa equazione standard y è variabile dipendente e x è detta variabile indipendente o variabile esplicativa» (transcript [00:02:02]–[00:02:21]). ⚠️ Dipendente è **y**, la variabile da spiegare; indipendente o esplicativa è **x**. L'errore ε non è il residuo ϵ della slide 5.
+**Opzione:** y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+**Distrattori:**
+- x è la variabile dipendente, y la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+- Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
+- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
+
+**D:** ⚠️ Che cosa dice l'equazione 5 della lezione 23, «estremamente intuitiva» secondo la slide 4?
+**R:** Slide 4: «Il significato dell'equazione 5 è estremamente intuitivo. Essa dice infatti che, nel modello di regressione lineare, il valore di y è dato dalla somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore denotato con ε che corrisponde alla "parte" di y che non può essere "spiegata" utilizzando la sola informazione contenuta in x». Il docente: il termine di errore «corrisponde alla parte di y che non può essere spiegata utilizzando la semplice e unica informazione contenuta in x» (transcript [00:02:42]). ⚠️ L'errore è la parte di **y** che **x** non spiega, non il contrario.
+**Opzione:** Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+**Distrattori:**
+- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di x che non può essere spiegata con la sola informazione contenuta in y
+- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
+- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+
+**D:** ⚠️ Da che cosa dipende, nella slide 4 della lezione 23, la capacità di x di spiegare il comportamento di y?
+**R:** Slide 4: «Maggiore è, **in valore assoluto**, la correlazione lineare tra x e y, maggiore è la capacità di x di "spiegare" il comportamento di y». Il docente: «Quindi in sostanza maggiore è in valore assoluto la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y» (transcript [00:03:08]). ⚠️ Conta il **valore assoluto**: anche una correlazione negativa forte rende x capace di spiegare y (deduzione dal «valore assoluto»). La correlazione è quella della lezione 02, ρ(X,Y) = cov(X,Y)/(σ_X σ_Y).
+**Opzione:** Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
+**Distrattori:**
+- Maggiore è la correlazione lineare tra x e y, purché positiva, maggiore è la capacità di x di spiegare il comportamento di y
+- Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
+- A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
+
+**D:** ⚠️ Perché, nella slide 4 della lezione 23, i valori esatti dei coefficienti della regressione non sono noti, e come si possono ottenere?
+**R:** Slide 4: «In generale, l'esatto processo di generazione dei dati (*data generating process* o **DGP**) di y è sconosciuto e quindi i valori esatti dei coefficienti della regressione (i parametri β_0 e β_1 dell'equazione 5) non sono noti. Tuttavia, essi possono essere stimati con varie tecniche, **tra cui** quella dei minimi quadrati ordinari (*Ordinary Least Squares* o OLS)». Il docente: «l'esatto processo di generazione dei dati, il cosiddetto data generating process o DGP di Y, è sconosciuto»; «questi parametri possono essere stimati con varie tecniche, tra cui quella nota dei minimi quadrati ordinari» (transcript [00:03:21]–[00:03:42]). ⚠️ L'elenco è **aperto**: l'OLS è una delle tecniche, non l'unica.
+**Opzione:** Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+**Distrattori:**
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con un'unica tecnica, quella dei minimi quadrati ordinari (OLS)
+- β̂_0^{OLS} = a e β̂_1^{OLS} = b
+- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
+
+**D:** ⚠️ Che cos'è la stima di y dato x nella slide 5 della lezione 23, e come si denota?
+**R:** Slide 5, «Definizione»: «Si definisce **stima di y dato x** e si denota con ŷ la quantità così definita: **ŷ = β̂_0 + β̂_1x** (6) dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione di cui all'equazione 5». Il docente: «Definiamo stima di y dato x e la denotiamo con y cappello la quantità così definita y cappello uguale a beta0 cappello più beta1 cappello x»; β̂_0 e β̂_1 «sono nient'altro che le stime dei coefficienti della regressione lineare» (transcript [00:04:13]–[00:04:32]). ⚠️ Nella stima **non c'è** il termine d'errore: la differenza fra y e ŷ è il residuo (7).
+**Opzione:** La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+**Distrattori:**
+- La quantità ŷ = β̂_0 + β̂_1x + ε, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
+- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+
+**D:** ⚠️ Come si chiama e come si denota, nella slide 5 della lezione 23, la differenza tra y e ŷ?
+**R:** Slide 5, «Definizione»: «La differenza tra y e ŷ è detta **residuo del modello lineare** e si denota con ϵ, i.e.: **ϵ = y - ŷ** (7)». Il docente: «La differenza tra y e y cappello è il residuo del modello lineare, si denota con» ϵ, «che quindi non è altro che uguale a y meno y cappello» (transcript [00:04:42]). ⚠️ Il **residuo** ϵ non è l'**errore o disturbo della regressione** ε della (5): la slide usa due epsilon diverse. L'errore è la parte di y che il modello con i coefficienti veri non spiega; il residuo è la differenza fra y e la sua stima ŷ. Il metodo OLS minimizza la somma dei quadrati dei **residui** (slide 8).
+**Opzione:** Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
+**Distrattori:**
+- Errore o disturbo della regressione, denotato con ε: ε = y - ŷ
+- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
+- β̂_0^{OLS} = a e β̂_1^{OLS} = b
+
+**D:** ⚠️ Con n osservazioni campionarie di y e di x, come si rappresenta la generica osservazione i-esima nella slide 6 della lezione 23?
+**R:** Slide 6: «Ipotizzando di avere n osservazioni campionarie della variabile dipendente y e altrettante osservazioni campionarie della variabile indipendente x, alla luce della 5, la generica osservazione i-esima ammette la seguente rappresentazione: **y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n** (8)». Il docente: «la generica osservazione iesima può essere riscritta per ogni i che va da 1 a n come yi uguale beta0 più beta1x con i più epsilon con i» (transcript [00:05:20]). ⚠️ I coefficienti β_0 e β_1 sono gli **stessi** per tutte le osservazioni; hanno l'indice i solo x_i, y_i ed ε_i.
+**Opzione:** y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
+**Distrattori:**
+- y_i = β_{0,i} + β_{1,i}x_i + ε_i, i = 1, 2, ⋯, n
+- β̂_0^{OLS} = E(y) - β_1E(x)
+- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
+
+**D:** ⚠️ Quali caratteristiche hanno gli errori della regressione {ε_i}_{i=1,…,n} secondo la prima assunzione della slide 7 della lezione 23?
+**R:** Slide 7, «Assunzione», punto ❶: «Gli errori della regressione {ε_i}_{i=1,…,n} sono variabili aleatorie **indipendenti e identicamente distribuite (i.i.d.)** con **valore atteso nullo** e **varianza costante**, i.e. ∀i, j = 1, 2, ⋯, n e con i ≠ j: E(ε_i) = 0 (9), Var(ε_i) = σ_ε² (10), cov(ε_i, ε_j) = 0 (11) e hanno una funzione di densità di probabilità di tipo **Normale**». Il docente: «Sono variabili aleatorie indipendenti e identicamente distribuite con valore atteso nullo e varianza costante» (transcript [00:06:28]); «queste relazioni 9, 10, 11 sono particolarmente importanti perché connotano, insieme alla normalità di ε, le caratteristiche di queste variabili aleatorie» ([00:07:01]). ⚠️ Nullo è il valore atteso, costante la varianza.
+**Opzione:** Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
+**Distrattori:**
+- Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso costante e varianza nulla, e hanno una funzione di densità di probabilità di tipo Normale
+- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
+- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+
+**D:** ⚠️ Con quali tre relazioni la slide 7 della lezione 23 traduce la prima assunzione sugli errori della regressione, per ∀i, j = 1, 2, ⋯, n e con i ≠ j?
+**R:** Slide 7: «**E(ε_i) = 0** (9), **Var(ε_i) = σ_ε²** (10), **cov(ε_i, ε_j) = 0** (11)», cioè valore atteso nullo, varianza costante e covarianza nulla fra errori di osservazioni diverse. Il docente: «per ogni ij che va da 1 a n con i diverso da j, il valore atteso di» ε_i «è 0, la varianza di» ε_i «è» σ_ε² «e la covarianza tra» ε_i ed ε_j «è 0» (transcript [00:06:37], dove il riconoscimento vocale scrive «y» per ε). ⚠️ Vale per i ≠ j: per i = j la covarianza di ε_i con se stesso è la sua varianza, σ_ε² (deduzione dalla lezione 02, cov(X,X) = Var(X)).
+**Opzione:** E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
+**Distrattori:**
+- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = σ_ε²
+- nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
+- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+
+**D:** ⚠️ Che cosa afferma la seconda assunzione della slide 7 della lezione 23, e che cosa vuol dire per il docente?
+**R:** Slide 7, punto ❷: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo, i.e.: **E(ε_i|x_i) = 0, i = 1, 2, ⋯, n** (12)». Il docente: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo. E questo è un altro elemento importante, perché vuol dire che il condizionamento degli errori su x è irrilevante» (transcript [00:07:14]–[00:07:24]). ⚠️ Si condizionano gli **errori** a **x**, non x agli errori.
+**Opzione:** Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
+**Distrattori:**
+- Il valore atteso della variabile indipendente x condizionato al valore degli errori della regressione è nullo: E(x_i|ε_i) = 0, i = 1, 2, ⋯, n
+- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+- L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
+
+**D:** ⚠️ Su che cosa si basa il metodo dei minimi quadrati ordinari per la stima dei coefficienti della regressione, secondo la slide 8 della lezione 23?
+**R:** Slide 8: «Il metodo dei minimi quadrati ordinari per la stima dei coefficienti della regressione si basa sulla **minimizzazione della somma dei quadrati dei residui** del modello lineare». Il docente: «come dice anche il nome stesso, si basa sulla minimizzazione della somma dei quadrati dei residui che abbiamo definito prima, y meno y cappello, del modello lineare» (transcript [00:07:37]–[00:07:55]). ⚠️ Si somma il **quadrato di ogni residuo**: non si eleva al quadrato la somma. È la (13), ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]².
+**Opzione:** Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
+**Distrattori:**
+- Sulla minimizzazione del quadrato della somma dei residui del modello lineare
+- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+- Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+
+**D:** ⚠️ Quale problema di minimo risolvono gli stimatori dei minimi quadrati β̂_0^{OLS} e β̂_1^{OLS}, secondo la definizione della slide 8 della lezione 23?
+**R:** Slide 8, «Definizione»: dato il modello di regressione lineare 5, «si definiscono **stimatori dei minimi quadrati** e si denotano rispettivamente con β̂_0^{OLS} e β̂_1^{OLS} i valori dei coefficienti della regressione β_0 e β_1 che risolvono il seguente problema di minimo: **min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²** (13)». Il docente: «il minimo della sommatoria per i che va da 1 a n, i valori minimi di β0 e β1, tali che» y_i meno β_0 più β_1x_i, «al quadrato» (transcript [00:08:16]–[00:08:42]). ⚠️ Il quadrato è sull'intera differenza fra y_i e β_0 + β_1x_i, e si minimizza rispetto a β_0 e β_1.
+**Opzione:** min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+**Distrattori:**
+- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)²]
+- Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
+- Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+
+**D:** ⚠️ Quali sono, nella Proposizione della slide 9 della lezione 23, i due stimatori dei minimi quadrati che risolvono il problema di minimo dell'equazione 13?
+**R:** Slide 9, «Proposizione»: «Gli stimatori dei minimi quadrati β̂_0^{OLS} e β̂_1^{OLS} che risolvono il problema di minimo di cui all'Equazione 13 sono rispettivamente: **β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x)** (14) e: **β̂_1^{OLS} = cov(x,y)/Var(x)** (15)». Il docente: sono «rispettivamente il valore atteso di y meno la covarianza di xy sulla varianza di x per» il valore atteso di x, «e l'altro è la covarianza di xy sulla varianza di x» (transcript [00:08:58]–[00:09:10]). ⚠️ Al denominatore la varianza di **x**, la variabile indipendente, in entrambi. Sono le chiavi delle domande 4 e 5 del test.
+**Opzione:** β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+**Distrattori:**
+- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(y)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(y)
+- y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
+- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
+
+**D:** ⚠️ Come si riscrive la 13 sviluppando i quadrati, nell'equazione 16 della lezione 23?
+**R:** Slide 10, «Dimostrazione (continua)»: «Sviluppando i quadrati, la 13 può essere riscritta come: **min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)** (16)». Il docente: «La dimostrazione parte dall'apertura dei quadrati contenuti nella nostra funzione di minimo che ci porta quindi ad avere in equazione la sommatoria per i che va da 1 a n di beta0 quadrato più 2 beta0 beta1 x con i meno 2 beta0 y con i più beta1 quadrato x con i quadrato meno 2 beta1 x con i y con i più y quadrato» (transcript [00:09:48]). ⚠️ I segni: **+** 2β_0β_1x_i, **-** 2β_0y_i, **-** 2β_1x_iy_i; i tre quadrati sono positivi.
+**Opzione:** min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+**Distrattori:**
+- min_{β_0,β_1} ∑_{i=1}^n (β_0² - 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+- Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
+- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+
+**D:** ⚠️ Che cosa si ottiene, nelle slide 10–11 della lezione 23, derivando la 16 rispetto a β_0, imponendo la condizione di minimo e dividendo per n?
+**R:** Slide 10: derivando la 16 rispetto a β_0 «e imponendo la condizione di minimo si ha: ∑_{i=1}^n (2β̂_0^{OLS} + 2β_1x_i - 2y_i) = 0 ossia: 2nβ̂_0^{OLS} + 2β_1∑_{i=1}^n x_i - 2∑_{i=1}^n y_i = 0». Slide 11: «semplificando», «ossia: **nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i** da cui, dividendo entrambi i termini per n, si ottiene: **β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n** (17)». Il docente: la condizione di minimo è «che questa derivata prima sia uguale a 0» (transcript [00:10:17]); la n viene dalla costante: «Possiamo portare la costante fuori moltiplicandola per n, applicando la sommatoria» ([00:10:39]). ⚠️ Il termine in β_1 si **sottrae**; β_1 è ancora senza cappello.
+**Opzione:** nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
+**Distrattori:**
+- nβ̂_0^{OLS} = ∑_{i=1}^n y_i + β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n + β_1∑_{i=1}^n x_i/n
+- y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
+- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+
+**D:** ⚠️ Come si scrive la (17) della lezione 23 «in modo più compatto», in base alla definizione di valore atteso (slide 11)?
+**R:** Slide 11: la (17), β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n, «in base alla definizione di valore atteso, può essere espressa in modo più compatto come: **β̂_0^{OLS} = E(y) - β_1E(x)** (18)». Il docente: «questa espressione può essere espressa in modo più compatto come il valore atteso di y meno beta 1 il valore atteso di x» (transcript [00:11:43]). ⚠️ Le medie ∑y_i/n e ∑x_i/n diventano E(y) ed E(x), e il segno resta **meno**. Nella (18) c'è ancora β_1: sostituendovi la (15) si ottiene la (14) (slide 14).
+**Opzione:** β̂_0^{OLS} = E(y) - β_1E(x)
+**Distrattori:**
+- β̂_0^{OLS} = E(y) + β_1E(x)
+- Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
+
+**D:** ⚠️ Che cosa si ottiene, nella slide 12 della lezione 23, derivando la 16 rispetto a β_1, imponendo la condizione di minimo e semplificando, e che cosa si sostituisce poi a β_0?
+**R:** Slide 12: «Si deriva ora la 16 rispetto a β_1 e imponendo la condizione di minimo si ha: ∑_{i=1}^n (2β_0x_i + 2β̂_1^{OLS}x_i² - 2x_iy_i) = 0», poi «semplificando» e «ossia: **β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i**»; infine, «sostituendo a β_0 il lato destro della 17 con β_1 = β̂_1^{OLS}», β̂_1^{OLS}∑x_i² = ∑x_iy_i - ∑x_i∑y_i/n + β̂_1^{OLS}∑x_i∑x_i/n. Il docente: «portando beta0 dall'altro lato dell'equazione» (transcript [00:13:17]); «Sostituiamo quindi a beta0 il lato destro della precedente espressione» ([00:13:37]). ⚠️ A β_0 si sostituisce la **(17)**: per questo β̂_1^{OLS} compare a entrambi i lati.
+**Opzione:** β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
+**Distrattori:**
+- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i + β_0∑_{i=1}^n x_i
+- Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
+- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+
+**D:** ⚠️ Come si esplicita β̂_1^{OLS} con le sommatorie, dopo aver diviso per n e riordinato, nella slide 13 della lezione 23?
+**R:** Slide 13: «esplicitando per β̂_1^{OLS}: **β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]**», con ∑ = ∑_{i=1}^n. Il docente legge il denominatore come la slide, «la sommatoria di x con i al quadrato di su n meno la sommatoria di x con i su n per la sommatoria di x con i su n», ma nel numeratore dice due volte «la sommatoria di x con i su n» al posto del prodotto delle medie di x e di y (transcript [00:14:55]): vale la slide, (∑x_i/n)(∑y_i/n). ⚠️ Al denominatore solo **x**: la media dei quadrati meno il quadrato della media di x, che la slide 14 riconosce come la varianza di x.
+**Opzione:** β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+**Distrattori:**
+- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑y_i²/n - (∑y_i/n)(∑y_i/n)]
+- Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
+- y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+
+**D:** ⚠️ Come si riesprime «in modo più compatto» la forma esplicita di β̂_1^{OLS}, e che cosa si riconosce nel numeratore e nel denominatore, nella slide 14 della lezione 23?
+**R:** Slide 14: «che può essere riespressa in modo più compatto come: **β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}** (19) Riconoscendo nel numeratore della 19 la formula della **covarianza tra x e y** e nel denominatore la formula della **varianza di x**, la 19 può essere riscritta come: β̂_1^{OLS} = cov(x,y)/Var(x) (15)». Il docente: «il valore atteso di xy meno il valore atteso di x per il valore atteso di y diviso il valore atteso di x quadro meno il valore atteso di x al quadrato. Nel numeratore di questa formula si riconosce la formula della covarianza tra x e y, mentre nel» denominatore «la formula della varianza di x» (transcript [00:15:25]–[00:15:40]). ⚠️ Al denominatore **E(x²) - [E(x)]²**, non il contrario: è la σ² = μ_2 - (μ_1)² della lezione 02.
+**Opzione:** β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+**Distrattori:**
+- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{[E(x)]² - E(x²)}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+
+**D:** ⚠️ Come si chiama e come si scrive, nella slide 15 della lezione 23, la stima della variabile y ottenuta attraverso gli stimatori dei minimi quadrati?
+**R:** Slide 15, «Definizione»: «La stima della variabile y ottenuta attraverso gli stimatori dei minimi quadrati è detta **fit della regressione** ed è denotata con ŷ^{OLS}, i.e.: **ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))** (20)». Il docente: «è detta quindi fit della regressione ed è denotata con y cappello» OLS, «uguale pertanto beta 0 cappello» OLS «e beta 1 cappello» OLS «per x riportando le nostre formule valore atteso di y più covarianza xy su varianza di x per x meno valore atteso di x» (transcript [00:16:47]). ⚠️ Il segno è **più**, e il rapporto moltiplica **(x - E(x))**: si ottiene sostituendo la (14) e la (15) (deduzione).
+**Opzione:** Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
+**Distrattori:**
+- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) - [cov(x,y)/Var(x)] · (x - E(x))
+- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
+- Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
+
+**D:** ⚠️ A che cosa equivale il problema di minimo dell'equazione 13, secondo l'interpretazione geometrica della slide 15 della lezione 23?
+**R:** Slide 15: «Il metodo dei minimi quadrati ha una **precisa** interpretazione geometrica. Il problema di minimo di cui all'equazione 13 equivale infatti a ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il **quadrato della distanza euclidea** tra le n coppie ordinate di osservazioni delle variabili x e y e le corrispondenti approssimazioni di tali coppie attraverso una **linea retta**». Il docente la dice «una inequivocabile interpretazione geometrica» (transcript [00:17:18]): «Stiamo in sostanza cercando di trovare quella retta che meglio interpola la distanza euclidea tra i valori x e y opportunamente accoppiati in quanto ordinati. Questa è la forza e anche la semplicità di questo modello» ([00:17:59]–[00:18:14]). ⚠️ La distanza è fra le coppie osservate e le loro **approssimazioni sulla retta**.
+**Opzione:** A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le n coppie ordinate di osservazioni delle variabili x e y e le corrispondenti approssimazioni di tali coppie attraverso una linea retta
+**Distrattori:**
+- A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le n coppie ordinate di osservazioni delle variabili x e y e i rispettivi valori attesi E(x) ed E(y)
+- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
+- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+
+**D:** ⚠️ Che cosa rappresentano, nella Figura 15 della slide 16 della lezione 23, i rombi azzurri e i pallini rossi?
+**R:** Slide 16: «La Figura 15 offre una rappresentazione grafica del metodo OLS. Date le 10 coppie ordinate di osservazioni delle variabili x e y (**rombi azzurri**), gli stimatori dei minimi quadrati dei coefficienti della regressione altro non sono che l'intercetta e la pendenza della retta approssimante (**linea nera**) su cui giacciono i punti di coordinate {x_i, ŷ_i^{OLS}}_{i=1,…,10} (**pallini rossi**)». Il docente: «Date infatti le dieci coppie ordinate di osservazioni delle variabili x e y, i cosiddetti rombi azzurri in questa rappresentazione» (transcript [00:18:31]–[00:18:37]); la retta nera è quella «su cui giacciono i punti di coordinata» x_i, ŷ_i^{OLS}, «cioè i pallini rossi» ([00:19:03]). ⚠️ I rombi sono le **osservazioni**, sparse; i pallini il **fit**, allineati sulla retta.
+**Opzione:** Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
+**Distrattori:**
+- Rombi azzurri: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera); pallini rossi: le 10 coppie ordinate di osservazioni delle variabili x e y
+- nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
+- min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+
+**D:** ⚠️ Quali equazioni danno l'intercetta e la pendenza della retta approssimante della Figura 15, nella slide 16 della lezione 23?
+**R:** Slide 16: «L'equazione della retta che risolve il problema di minimo è esattamente quella di una retta in cui **l'intercetta ha il valore indicato dall'equazione 14** e **la pendenza ha il valore indicato dall'equazione 15**». Il docente: gli stimatori «altro non sono che l'intercetta, quindi il valore sull'asse delle ordinate, e il coefficiente angolare, cioè la pendenza della retta approssimante» (transcript [00:18:37]–[00:19:03]); «l'intercetta ha il valore indicato dall'equazione 14 e la pendenza ha il valore indicato dall'equazione 15» ([00:19:31]). ⚠️ L'intercetta è β̂_0^{OLS} (14), la pendenza β̂_1^{OLS} = cov(x,y)/Var(x) (15). Nel grafico la retta sale da circa 42 a circa 78 fra x ≈ 1 e x ≈ 11, ma la slide non stampa i due valori (lettura dell'immagine).
+**Opzione:** L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
+**Distrattori:**
+- L'intercetta della retta approssimante ha il valore indicato dall'equazione 15, la pendenza quello indicato dall'equazione 14
+- Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
+- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+
+**D:** ⚠️ Quanto valgono gli stimatori dei minimi quadrati se y è una funzione lineare di x, y = a + bx, secondo la Proposizione della slide 17 della lezione 23?
+**R:** Slide 17, «Proposizione»: «Se y è una funzione lineare di x, i.e. se: y = a + bx (21) allora valgono le seguenti uguaglianze: **β̂_0^{OLS} = a** (22) e **β̂_1^{OLS} = b** (23)». Il docente: «Si ha y una funzione lineare di x, cioè y uguale a» a «più bx. Se questa è la premessa valgono le seguenti uguaglianze. Lo stimatore» OLS «di beta0 … è uguale ad a. e lo stimatore di β1, cioè β1 cappello OLS, è uguale a B» (transcript [00:20:04]–[00:20:24]). ⚠️ L'intercetta a va con β̂_0^{OLS}, il coefficiente b di x con β̂_1^{OLS}: se i dati stanno su una retta, l'OLS restituisce quella retta (deduzione).
+**Opzione:** β̂_0^{OLS} = a e β̂_1^{OLS} = b
+**Distrattori:**
+- β̂_0^{OLS} = b e β̂_1^{OLS} = a
+- A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
+- La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+
+**D:** ⚠️ Come si dimostra, nelle slide 18–19 della lezione 23, che β̂_1^{OLS} = b quando y = a + bx?
+**R:** Slide 18: «Si richiama l'equazione di β̂_1^{OLS}, ossia: β̂_1^{OLS} = cov(x,y)/Var(x) (15) sostituendo nel lato destro l'espressione di y di cui alla 21 si ha: β̂_1^{OLS} = cov(x,a+bx)/Var(x) che, per note proprietà della covarianza, può essere riscritta come: β̂_1^{OLS} = b · cov(x,x)/Var(x)». Slide 19: «ossia, ricordando che la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza: β̂_1^{OLS} = b · Var(x)/Var(x) semplificando: β̂_1^{OLS} = b (23)». Il docente ([00:20:47]–[00:21:27]): «per le note proprietà della covarianza, equivale a B per la covarianza di XX sulla varianza di X». ⚠️ Le proprietà sono quelle della lezione 02: la costante a non cambia la covarianza, cov(X + α, Y) = cov(X, Y), e lo scalare b esce **così com'è**, cov(αX, Y) = αcov(X, Y), non al quadrato come nella varianza (deduzione: la slide non le cita).
+**Opzione:** β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
+**Distrattori:**
+- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b² · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b² · Var(x)/Var(x) = b²
+- min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+- Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+
+**D:** ⚠️ Che cosa si osserva, nella slide 20 della lezione 23, per riscrivere β̂_0^{OLS} quando y = a + bx, e come si conclude che β̂_0^{OLS} = a?
+**R:** Slide 20: la (14) «che, osservando che vale: **cov(x,y)/Var(x) = b** può essere riscritta come: β̂_0^{OLS} = E(y) - bE(x) sostituendo nel lato destro l'espressione di y di cui alla 21 si ha: β̂_0^{OLS} = E(a + bx) - bE(x) che, per note proprietà del valore atteso, può essere riscritta come: β̂_0^{OLS} = a + bE(x) - bE(x) semplificando: β̂_0^{OLS} = a (22) c.v.d.». Il docente: «essendo A una costante, la portiamo fuori dal valore atteso» (transcript [00:22:35]). ⚠️ Il docente dice «osservando che vale che la covarianza di xy è uguale a b» ([00:21:40]): la slide scrive il **rapporto** cov(x,y)/Var(x) = b, cioè la (23) appena dimostrata.
+**Opzione:** Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+**Distrattori:**
+- Che vale cov(x,y) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+- Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
+- y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
+
+**D:** ⚠️ Come si esprime in forma matriciale il problema di minimo dell'equazione 13, secondo la slide 21 della lezione 23?
+**R:** Slide 21, «Rappresentazione in forma matriciale»: «il problema di minimo di cui all'equazione 13 può essere espresso in forma più compatta attraverso la seguente notazione matriciale: **min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)**», con 𝐲, 𝐱 e 𝛃 in grassetto. Il docente: «La notazione matriciale viene generalmente denotata dall'utilizzo del grassetto. Quindi noi minimizziamo per trovare i parametri beta0 e beta1 e quindi scriveremo beta in grassetto perché sono due valori e poi avremo il prodotto tra le due matrici y meno x beta per y meno x beta. E ovviamente questo serve per esprimere il concetto del quadrato» (transcript [00:23:57]–[00:24:30]). ⚠️ L'apice sta sul **primo** fattore: (𝐲 - 𝐱𝛃)′ per (𝐲 - 𝐱𝛃).
+**Opzione:** min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
+**Distrattori:**
+- min_𝛃 (𝐲 - 𝐱𝛃)(𝐲 - 𝐱𝛃)′
+- La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+
+**D:** ⚠️ Che dimensioni hanno 𝐲, 𝛃 e 𝐱 nella forma matriciale della lezione 23 (slide 21–22), e com'è fatta 𝐱?
+**R:** Slide 21: «**𝐲** è il vettore **n × 1** formato dalle n osservazioni della variabile y» (24). Slide 22: «**𝛃** è il vettore **2 × 1** formato dai due coefficienti della regressione», 𝛃 = [β_0; β_1] (25); «**𝐱** è la matrice **n × 2** così definita», con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n (26). Il docente: 𝐱 «è la matrice n per 2, definita quindi da due colonne ed n righe, dove la prima colonna sono gli 1 e la seconda colonna sono gli x_1, x_2, x_n, perché quell'1 serve per il beta 0» (transcript [00:25:31]–[00:25:36]). ⚠️ Poco dopo dice «la matrice 2 per n» ([00:26:00]): vale la slide, **n × 2**, n righe e due colonne.
+**Opzione:** 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+**Distrattori:**
+- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice 2 × n con la prima riga di 1 e la seconda di x_1, x_2, …, x_n
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+- Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+
+**D:** ⚠️ A che cosa è uguale il prodotto (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), e che cosa se ne conclude, nelle slide 24–25 della lezione 23?
+**R:** Slide 24: «Utilizzando la 27», 𝐲 - 𝐱𝛃 = [y_1 - (β_0 + β_1x_1); y_2 - (β_0 + β_1x_2); …; y_n - (β_0 + β_1x_n)], «è possibile calcolare il seguente prodotto: (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)». Slide 25: il prodotto del vettore riga per il vettore colonna dà [y_1 - (β_0 + β_1x_1)]² + ⋯ + [y_n - (β_0 + β_1x_n)]², «da cui: **(𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) = ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²** (28) Riconoscendo nel termine destro della 28 la funzione obiettivo del problema di minimo di cui all'Equazione 13 segue la tesi». Il docente: la moltiplicazione «del vettore riga per il vettore colonna» «altro non è che la sommatoria che va da 1 a n di yi meno beta 0 più beta 1 x con i al quadrato» (transcript [00:29:02]–[00:29:22]). ⚠️ È la **somma dei quadrati**, non il quadrato della somma.
+**Opzione:** A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
+**Distrattori:**
+- A [∑_{i=1}^n (y_i - (β_0 + β_1x_i))]², la funzione obiettivo del problema di minimo dell'equazione 13
+- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+
+**D:** Perché, per il docente della lezione 23, il prodotto (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) «serve per esprimere il concetto del quadrato»?
+**R:** Perché è il prodotto di un **vettore riga** per un **vettore colonna** con le stesse componenti, y_i - (β_0 + β_1x_i): «avremo il primo vettore, un vettore riga» per «un vettore colonna», «e quindi avremo i quadrati, facendo ovviamente la moltiplicazione del vettore riga per il vettore colonna» (transcript [00:28:21]–[00:28:36]); il risultato è ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]² (28), la funzione obiettivo della (13) (slide 25). Per il docente l'apice «serve per esprimere la moltiplicazione tra queste due» matrici, «che hanno ovviamente una loro coerenza dimensionale» ([00:24:38]). ℹ️ Integrazione (non dai materiali del corso): in algebra lineare l'apice indica la trasposta; (𝐲 - 𝐱𝛃)′ è 1 × n e (𝐲 - 𝐱𝛃) è n × 1, quindi il prodotto è un numero.
+
+**D:** ⚠️ In termini di quali grandezze sono espressi i due stimatori dei minimi quadrati, alla fine della dimostrazione della lezione 23?
+**R:** Il docente: «La nostra proposizione quindi risulta dimostrata e abbiamo pertanto a disposizione con il metodo dei minimi quadrati il valore dei due stimatori espressi in termini di **valore atteso, varianza e covarianza** delle nostre variabili casuali x ed y» (transcript [00:16:20]). Sono le grandezze della (14), β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x), e della (15), β̂_1^{OLS} = cov(x,y)/Var(x) (slide 9 e 14). Prima, a [00:09:20], li chiama «una quantità esplicita che identifica i valori dei due estimatori che ci consentono quindi di comprendere la capacità di spiegare una variabile in funzione dell'altra». ⚠️ Nelle formule c'è la **covarianza**, non il coefficiente di correlazione, che pure governa la capacità di x di spiegare y (slide 4).
+**Opzione:** Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+**Distrattori:**
+- Di valore atteso, varianza e coefficiente di correlazione delle variabili casuali x ed y
+- y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+- y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
+
+**D:** ⚠️ Date x e y due variabili aleatorie, quale formula esprime il valore atteso di y in termini del valore atteso condizionale di y dato x, secondo il test della lezione 23 (domanda 1)?
+**R:** «**E(y) = ∫xE(y|x)f(x)dx**», cioè E(y) = ∫_x E(y|x) f(x) dx: è la Proposizione della slide 2, «Vale la seguente relazione: E(y) = ∫_x E(y|x) f(x) dx (2)». Il docente: «il valore atteso di y altro non è che l'integrale su x del valore atteso di y condizionato ad x di f di x in dx, quindi una relazione importante tra la densità di probabilità di x e la densità di probabilità di y» (transcript [00:01:01]). È la forma integrale di E[E(X|Y)] = E(X) della lezione 02, slide 15 (deduzione). La piattaforma stampa l'integrale con un glifo simile a «ʃ». Distrattori del test, nessuno nei materiali: «E(x) = ∫xE(y|x)f(x)dx» tiene il lato destro e cambia il lato sinistro (oggetto scambiato); «E(y) = ∫xE(y)f(x)dx» perde il condizionamento dentro l'integrale; «E(y) = ∫y|xE(y)f(x)dx» lo perde anch'esso e integra su un dominio «y|x» che le slide non hanno. ⚠️ Servono tre pezzi giusti: E(y) a sinistra, E(y|x) dentro, il dominio x.
+**Opzione:** E(y) = ∫xE(y|x)f(x)dx
+**Distrattori:**
+- E(y) = ∫xE(y)f(x)dx
+- E(y) = ∫y|xE(y)f(x)dx
+- E(x) = ∫xE(y|x)f(x)dx
+
+**D:** ⚠️ Date x e y due variabili aleatorie, quale formula esprime il valore atteso condizionale di y dato x, secondo il test della lezione 23 (domanda 2)?
+**R:** «**E(y|x) = ∫yyf(y|x)dy**», cioè E(y|x) = ∫_y y f(y|x) dy: è la seconda forma della (1), slide 2, «E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy (1) dove f(y|x) è la funzione di densità di probabilità di y dato x». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). Distrattori del test, nessuno nei materiali: «E(y) = ∫yyf(y|x)dy» ha a sinistra il valore atteso non condizionato; «E(y|x) = ∫yyf(y)dx» usa la densità marginale f(y) e integra in dx; «E(y|x) = ∫yf(y)dy» usa anch'esso f(y) ed è ambiguo nella resa piatta, ∫_y f(y)dy oppure ∫ y f(y)dy. ⚠️ Densità **condizionata** f(y|x) e differenziale **dy**.
+**Opzione:** E(y|x) = ∫yyf(y|x)dy
+**Distrattori:**
+- E(y|x) = ∫yyf(y)dx
+- E(y) = ∫yyf(y|x)dy
+- E(y|x) = ∫yf(y)dy
+
+**D:** ⚠️ Date x e y due variabili aleatorie, come si esprime il modello di regressione lineare di y rispetto a x, secondo il test della lezione 23 (domanda 3)?
+**R:** «**y=b0+b1x+e**», dove «b» è β ed «e» è ε: è la (5) della slide 3, y = β_0 + β_1x + ε, l'«equazione standard del modello di regressione lineare». Il docente: «y è uguale a β0 più β1x più ε, un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione» (transcript [00:02:02]). Distrattori del test, una coda tolta o sostituita: «y=b0+e» perde β_1x; «y=b0+b1x» perde l'errore, ed è la forma del lato destro della (3), E(y|x) = β_0 + β_1x, e della y = a + bx della slide 17; «y=b0+b1x2+e» ha x² al posto di x. ⚠️ Lineare è il valore atteso condizionato; y ha in più l'errore ε.
+**Opzione:** y=b0+b1x+e
+**Distrattori:**
+- y=b0+e
+- y=b0+b1x
+- y=b0+b1x2+e
+
+**D:** ⚠️ Quale forma assume lo stimatore dei minimi quadrati b0OLS, secondo il test della lezione 23 (domanda 4)?
+**R:** «**b0OLS =E(y)- [cov(x,y)/Var(x)]E(x)**», cioè β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x): è la (14) della Proposizione della slide 9, ricavata nella slide 14 sostituendo la (15) nella (18). Il docente: «il valore atteso di y meno la covarianza di xy sulla varianza di x per il valore atteso di x» (transcript [00:15:59]). Distrattori del test, ognuno toglie un pezzo alla (14): «b0OLS =[cov(x,y)/Var(x)]E(x)» perde «E(y) -»; «b0OLS =E(y)- [cov(x,y)/Var(x)]» perde il fattore E(x); «b0OLS =E(y)- [cov(x,y)E(x)]» perde la divisione per Var(x). ⚠️ La domanda 5 è speculare: le stesse opzioni, e questa chiave vi è il distrattore A.
+**Opzione:** b0OLS =E(y)- [cov(x,y)/Var(x)]E(x)
+**Distrattori:**
+- b0OLS =[cov(x,y)/Var(x)]E(x)
+- b0OLS =E(y)- [cov(x,y)/Var(x)]
+- b0OLS =E(y)- [cov(x,y)E(x)]
+
+**D:** ⚠️ Quale forma assume lo stimatore dei minimi quadrati b1OLS, secondo il test della lezione 23 (domanda 5)?
+**R:** «**b1OLS =cov(x,y)/Var(x)**», cioè β̂_1^{OLS} = cov(x,y)/Var(x): è la (15) della slide 9, ricavata nella slide 14 dalla (19), «riconoscendo nel numeratore della 19 la formula della covarianza tra x e y e nel denominatore la formula della varianza di x». Il docente: «E quindi beta1 cappello» OLS «non è altro che la covarianza di xy sulla varianza di x» (transcript [00:15:51]). Distrattori del test, gli stessi della domanda 4: «b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)» è la (14), lo stimatore di β_0 e la chiave della domanda 4; «b1OLS =[cov(x,y)/Var(x)]E(x)» moltiplica il rapporto per E(x); «b1OLS =E(y)- [cov(x,y)/Var(x)]» lo sottrae a E(y). ⚠️ Il rapporto cov(x,y)/Var(x) compare in tre opzioni su quattro: la chiave è quella in cui sta **da solo**.
+**Opzione:** b1OLS =cov(x,y)/Var(x)
+**Distrattori:**
+- b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)
+- b1OLS =[cov(x,y)/Var(x)]E(x)
+- b1OLS =E(y)- [cov(x,y)/Var(x)]
