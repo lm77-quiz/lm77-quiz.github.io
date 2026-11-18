@@ -8853,3 +8853,291 @@
 - Diminuiscono entrambi, R² da 0,45501 a 0,41259 e R̄² da 0,43622 a 0,39301: si registra una sensibile riduzione nella capacità di adattamento del modello
 - Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
 - L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+
+## Lezione 30 — Modello Lineare 8 – dati anomali
+
+**D:** ⚠️ Come si definisce il punto di leva o leverage h_{ii} dell'osservazione i-esima (145), secondo la slide 2 della lezione 30?
+**R:** Slide 2: «Si definisce punto di leva o leverage dell'osservazione i-esima, i = 1, 2, ⋯, n, e si denota con h_{ii} l'i-esimo elemento della diagonale principale della matrice di proiezione OLS (cfr. equazione 52), i.e.: h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i (145) ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱». La (52) è la matrice di proiezione della lezione 24, P := 𝐱(𝐱′𝐱)^(-1)𝐱′, che dà il fit. ⚠️ È la diagonale della matrice di **proiezione** P, non della matrice di generazione dei residui M della stessa lezione 24. Il docente la chiama «la matrice H» (transcript [00:17:23]).
+**Opzione:** L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
+**Distrattori:**
+- L'i-esimo elemento della diagonale principale della matrice di generazione dei residui OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
+- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
+- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+
+**D:** ⚠️ Che forma assume il leverage h_{ii} quando vi è una sola variabile esplicativa oltre al termine costante (146), secondo la Nota della slide 2 della lezione 30?
+**R:** Slide 2: «Nel caso in cui vi sia una sola variabile esplicativa oltre al termine costante, la 145 assume la seguente forma: h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)² (146) ove x_i è il valore della variabile esplicativa diversa dal termine costante in corrispondenza della i-esima osservazione e x̄ è la media campionaria della medesima variabile esplicativa». Il docente: «1 su n più x con i meno x medio al quadrato diviso la sommatoria per j che va da 1 a n di x con j meno x medio al quadrato» (transcript [00:01:30]). ⚠️ Il segno è **più**: h_{ii} cresce con la distanza di x_i dalla media campionaria, ed è per questo che la slide 3 parla di distanza dal baricentro.
+**Opzione:** h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+**Distrattori:**
+- h_{ii} := 1/n - (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
+- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+
+**D:** ⚠️ Quali sono le osservazioni con un punto di leva elevato, secondo l'interpretazione della (146) nella slide 3 della lezione 30?
+**R:** Slide 3: «L'equazione 146 relativa al caso bivariato aiuta a meglio interpretare il significato del concetto di leverage. Essa rende infatti evidente, anche in termini algebrici, che le osservazioni con un punto di leva elevato sono quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro che, nel caso bivariato, coincide appunto con la loro media campionaria». Il docente: transcript [00:02:25]–[00:02:47]. ⚠️ Il leverage guarda le variabili **esplicative**, non la variabile dipendente: nella (145) e nella (146) y non compare. I dati anomali nella variabile dipendente sono gli outliers della lezione 29 (slide 15 del deck 29).
+**Opzione:** Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
+**Distrattori:**
+- Quelle in cui la variabile dipendente assume un valore molto distante dal suo baricentro, che nel caso bivariato coincide con la sua media campionaria
+- Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+- La multicollinearità non è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario è un fenomeno che può esistere con varie gradazioni di intensità
+
+**D:** ⚠️ Come si decide, in generale, se un'osservazione ha un leverage elevato, secondo la slide 3 della lezione 30?
+**R:** Slide 3: «In generale, per decidere se un'osservazione abbia o meno un leverage elevato si considera se è superiore al valore soglia di 2m/n. In caso affermativo, il punto di leva di quell'osservazione viene considerato alto, altrimenti no». Il docente: «superiore al valore soglia di 2 per m su n» (transcript [00:02:57]). ⚠️ m, il numero di colonne della matrice dei regressori, sta al **numeratore** e n, la numerosità del campione, al **denominatore**. Da non confondere con la soglia della distanza di Cook, che è 1 (slide 9).
+**Opzione:** Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
+**Distrattori:**
+- Si considera se è superiore al valore soglia di 2n/m: in caso affermativo il punto di leva viene considerato alto
+- Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
+- Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+
+**D:** ⚠️ Quanto valgono m, n e il valore soglia per i punti di leva nell'esempio del Nasdaq della slide 4 della lezione 30?
+**R:** Slide 4: «In questo caso i valori di m ed n sono rispettivamente pari a 2 e 201, pertanto il valore soglia per i punti di leva è: 2m/n = 2·2/201 = 0,0199». Il modello è rendNASD = β_0 + β_1 rendSP + ε, per i rendimenti logaritmici mensili dell'indice azionario Nasdaq da febbraio 2006 a ottobre 2022, con il termine costante e i rendimenti logaritmici mensili dello Standard&Poor's 500 come variabili esplicative. ⚠️ Il docente dice prima «0,0191» (transcript [00:04:46]) e poi 0,0199 ([00:04:52]): vale la slide, e 4/201 = 0,0199 (deduzione). m = 2 conta le due colonne di 𝐱, il termine costante e rendSP.
+**Opzione:** m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+**Distrattori:**
+- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0191
+- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+- La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
+
+**D:** ⚠️ Che cosa si riscontra nella Figura della slide 5 della lezione 30, che riporta in ordine cronologico il leverage di ciascuna osservazione del Nasdaq a confronto con il valore soglia?
+**R:** Slide 5: «La Figura seguente riporta, in ordine cronologico, il leverage di ciascuna osservazione a confronto con il valore soglia. Si riscontra facilmente che la maggior parte delle osservazioni NON ha un leverage elevato in quanto si posiziona al di sotto della soglia». Il docente: «si posiziona largamente sotto la soglia» (transcript [00:05:14]–[00:05:36]). ⚠️ «NON», in maiuscolo nella slide: le osservazioni a leverage elevato sono la minoranza, e la slide 6 le spiega con i periodi di turbolenza dei mercati.
+**Opzione:** La maggior parte delle osservazioni non ha un leverage elevato, in quanto si posiziona al di sotto della soglia
+**Distrattori:**
+- La maggior parte delle osservazioni ha un leverage elevato, in quanto si posiziona al di sopra della soglia
+- La multicollinearità, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività
+
+**D:** ⚠️ In quali periodi di elevata turbolenza per i mercati finanziari globali si concentrano NON CASUALMENTE le osservazioni a leverage elevato dell'esempio del Nasdaq, secondo la slide 6 della lezione 30?
+**R:** Slide 6: «La maggior parte delle osservazioni a leverage elevato si concentra NON CASUALMENTE in periodi di elevata turbolenza per i mercati finanziari globali: lo scoppio della crisi finanziaria globale nel 2008-2009 (si pensi al default di Lehman Brothers); la crisi dei debiti pubblici dell'area euro nel 2011-2012; lo scoppio della pandemia di Covid-19 nella prima metà del 2020; il mix di guerra, inflazione e aumento dei tassi di interesse globali nel 2022». Il docente li indica sul grafico (transcript [00:06:41]–[00:07:28]). ⚠️ Nell'ultima voce i tassi di interesse sono in **aumento**.
+**Opzione:** Lo scoppio della crisi finanziaria globale nel 2008-2009 (si pensi al default di Lehman Brothers); la crisi dei debiti pubblici dell'area euro nel 2011-2012; lo scoppio della pandemia di Covid-19 nella prima metà del 2020; il mix di guerra, inflazione e aumento dei tassi di interesse globali nel 2022
+**Distrattori:**
+- Lo scoppio della crisi finanziaria globale nel 2008-2009 (si pensi al default di Lehman Brothers); la crisi dei debiti pubblici dell'area euro nel 2011-2012; lo scoppio della pandemia di Covid-19 nella prima metà del 2020; il mix di guerra, inflazione e riduzione dei tassi di interesse globali nel 2022
+- Una F di Fisher con m e (n - m) gradi di libertà
+
+**D:** ⚠️ Che cosa conclude la slide 6 della lezione 30 sui dati con leverage elevato dell'esempio del Nasdaq, giustificati dai fatti?
+**R:** Slide 6: «Essendo giustificati dai fatti, i dati con leverage elevato non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione». Il docente: «non vanno levati dal campione perché sono parte di quello che succede sui mercati finanziari» (transcript [00:08:03]). ⚠️ Si **mantengono**: trattandosi di dati reali, «non creati attraverso simulazioni numeriche», la slide si chiede prima se le anomalie siano «giustificate» dai fatti. Da non confondere con il rimedio alla multicollinearità, che rimuove una colonna di 𝐱 (slide 20).
+**Opzione:** Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
+**Distrattori:**
+- Possono essere attribuiti ad errori di rilevazione e vanno rimossi dal campione
+- Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+- L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
+
+**D:** ⚠️ Che cosa dice la slide 7 della lezione 30 del rapporto fra leverage elevato e influenza sulla stima di un modello lineare?
+**R:** Slide 7: «Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare». Il docente: transcript [00:08:46]–[00:09:05]. ⚠️ Il quantificatore è «non tutte»: un leverage elevato non basta a rendere influente un'osservazione. Nel Nasdaq le osservazioni a leverage elevato sono numerose, ma per tutte la distanza di Cook resta ben sotto l'unità (slide 11); nella lezione 29 il pallino giallo ha leverage elevato e non influenza sensibilmente la stima, e la slide 27 del deck 29 chiama l'influenza «una possibilità, non una conseguenza inevitabile e scontata».
+**Opzione:** Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
+**Distrattori:**
+- Tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
+- La multicollinearità non è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario è un fenomeno che può esistere con varie gradazioni di intensità
+- La multicollinearità, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività
+
+**D:** ⚠️ Quale esame formalizza la distanza di Cook, secondo la slide 7 della lezione 30?
+**R:** Slide 7: «Per una valutazione più raffinata si può utilizzare la c.d. distanza di Cook, una metrica che formalizza l'esame grafico appena descritto», cioè lo scatter plot «del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione». Il docente: «formalizza analiticamente l'esame grafico che abbiamo fatto nella precedente lezione» (transcript [00:10:18]). ⚠️ Formalizza il confronto fra i **fit** stimati con e senza l'osservazione, non il confronto del leverage con la soglia 2m/n della slide 5.
+**Opzione:** L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
+**Distrattori:**
+- L'esame grafico del leverage di ciascuna osservazione, riportato in ordine cronologico a confronto con il valore soglia 2m/n
+- Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
+- Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+
+**D:** ⚠️ Come si definisce la distanza di Cook D_i dell'osservazione i-esima (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «Si definisce distanza di Cook dell'osservazione i-esima e si denota con D_i la seguente quantità: D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²) (147)», con ŷ_j il fit calcolato sull'intero campione, ŷ_j(i) il fit calcolato sul campione ristretto in cui è stata omessa l'osservazione i-esima e σ̂_ε² «il quadrato dell'errore standard della regressione». Il docente: «diviso m per sigma quadro cappello di epsilon cioè il quadrato dell'errore standard della regressione» (transcript [00:11:23]). ⚠️ Al denominatore c'è **m**, il numero di colonne di 𝐱, non n: è anche il primo grado di libertà della F di Fisher della slide 9. È la domanda 1 del test.
+**Opzione:** D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
+**Distrattori:**
+- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(n·σ̂_ε²)
+- L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
+- h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+
+**D:** ⚠️ Che cosa sono ŷ_j e ŷ_j(i) nella distanza di Cook (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «ŷ_j è il fit dell'osservazione j-esima, j = 1, 2, ⋯, n, calcolato utilizzando i valori dei coefficienti stimati sull'intero campione»; «ŷ_j(i) è il fit dell'osservazione j-esima, j = 1, 2, ⋯, n, calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima». ⚠️ Sono tutti e due fit dell'osservazione **j-esima**, per ogni j da 1 a n: cambia solo il campione su cui si stimano i coefficienti, e l'indice i dice quale osservazione si **omette**. La piattaforma scrive «ŷi (i)», con la i al posto della j (domanda 1 del test).
+**Opzione:** ŷ_j è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione; ŷ_j(i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima
+**Distrattori:**
+- ŷ_j è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima; ŷ_j(i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione
+- Il quadrato dell'errore standard della regressione
+- Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
+
+**D:** ⚠️ Che cos'è σ̂_ε², al denominatore della distanza di Cook (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «σ̂_ε² è il quadrato dell'errore standard della regressione». È lo stimatore non distorto della varianza dell'errore della lezione 25, σ̂_ε² = ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) (67). ⚠️ Il docente, leggendo la formula equivalente (148), la chiama «la varianza dei residui campionari al quadrato» (transcript [00:17:23]): la varianza campionaria dei residui OLS σ_{ϵ^{OLS}}² della lezione 25 ha n al denominatore ed è un'altra grandezza. Vale la slide. La piattaforma la scrive «σϵ2», senza cappello.
+**Opzione:** Il quadrato dell'errore standard della regressione
+**Distrattori:**
+- La varianza campionaria dei residui OLS
+- Una F di Fisher con m e (n - m) gradi di libertà
+- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+
+**D:** ⚠️ Che funzione di densità di probabilità ha la distanza di Cook, secondo la Proposizione della slide 9 della lezione 30?
+**R:** Slide 9: «La funzione di densità di probabilità della distanza di Cook è una F di Fisher con m e (n - m) gradi di libertà». Il docente: «una f di Fischer con m e n meno m gradi di libertà» (transcript [00:12:25]). ⚠️ I gradi di libertà sono **m** e (n - m): la statistica F del test sulla significatività congiunta della lezione 28 ha invece (m - 1) e (n - m). La mediana di questa F dà la soglia della distanza di Cook.
+**Opzione:** Una F di Fisher con m e (n - m) gradi di libertà
+**Distrattori:**
+- Una F di Fisher con (m - 1) e (n - m) gradi di libertà
+- Il quadrato dell'errore standard della regressione
+- Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+
+**D:** ⚠️ A che valore tende la mediana della F di Fisher con m e (n - m) gradi di libertà, e in quale caso, secondo la slide 9 della lezione 30?
+**R:** Slide 9: «la mediana di una variabile aleatoria distribuita come una F di Fisher con m e (n - m) gradi di libertà costituisce un buon riferimento per identificare un valore soglia per la distanza di Cook. Quando il numero di osservazioni è molto elevato (n grande), la mediana in questione tende ad 1». Il docente: «Quando il numero di osservazioni è molto elevato» (transcript [00:13:21]). ⚠️ È **n**, il numero di osservazioni, a dover essere grande: ripetendo la regola il docente dice «quando m è molto elevate» ([00:14:12]). Vale la slide.
+**Opzione:** Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+**Distrattori:**
+- Tende ad 1 quando il numero di colonne della matrice dei regressori è molto elevato (m grande)
+- Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
+- La maggior parte delle osservazioni non ha un leverage elevato, in quanto si posiziona al di sotto della soglia
+
+**D:** ⚠️ Qual è il test rapido per stabilire se una data osservazione è influente, secondo la slide 9 della lezione 30?
+**R:** Slide 9: «Pertanto, un test rapido per stabilire se una data osservazione è influente è quello di vedere se la relativa distanza di Cook vale più dell'unità. In caso affermativo, l'osservazione in questione viene considerata influente, altrimenti no». Il docente: transcript [00:13:28]–[00:13:41]. ⚠️ La soglia **1** viene dalla mediana della F di Fisher per n grande; **2m/n** è la soglia del **leverage** (slide 3), e un leverage sopra 2m/n non basta a rendere influente un'osservazione (slide 7).
+**Opzione:** Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
+**Distrattori:**
+- Vedere se la relativa distanza di Cook vale più di 2m/n: in caso affermativo l'osservazione viene considerata influente
+- Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
+- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+
+**D:** ⚠️ Che cosa indica la distanza di Cook delle osservazioni dell'esempio del Nasdaq, secondo la slide 11 della lezione 30?
+**R:** Slide 11: «Per TUTTE le osservazioni la distanza di Cook si mantiene ben sotto l'unità, il che indica che — pur essendoci, come si è visto, numerose osservazioni a leverage elevato — nessuna di loro risulta particolarmente influente sulla stima del modello». Il docente: «Pur essendoci osservazioni a leverage elevato, nessuna ha un'influenza del modello» (transcript [00:15:36]). ⚠️ «TUTTE»: nessuna eccezione, nemmeno fra le osservazioni a leverage elevato. È l'esempio della slide 7: «Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima».
+**Opzione:** Per tutte le osservazioni la distanza di Cook si mantiene ben sotto l'unità: pur essendoci numerose osservazioni a leverage elevato, nessuna di loro risulta particolarmente influente sulla stima del modello
+**Distrattori:**
+- La distanza di Cook supera l'unità solo per le osservazioni a leverage elevato, che risultano quindi particolarmente influenti sulla stima del modello
+- 0,565: pur essendo inferiore ad 1, il valore soglia per la metrica in questione, è molto al di sopra di quello delle altre osservazioni e segnala che la 13-esima è, all'interno del campione, quella che influenza maggiormente la stima del modello
+- Positivamente sia dal leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)
+
+**D:** ⚠️ Quale osservazione dell'esempio del Nasdaq ha la distanza di Cook più alta, e che cosa ha di particolare il suo residuo, secondo la slide 11 della lezione 30?
+**R:** Slide 11: «Il valore più alto (ma comunque ben inferiore a 1) è quello della 37-esima osservazione relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486. E' importante notare che anche il residuo associato a questa osservazione risulta elevato; con un valore di 0,0573, esso è infatti quello più grande, in termini assoluti, di tutto il campione. Non si tratta di una casualità». Il docente: transcript [00:15:54]–[00:16:38]. ⚠️ Non è una casualità per la formula equivalente (148): la distanza di Cook dipende positivamente dal residuo (slide 12).
+**Opzione:** La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
+**Distrattori:**
+- La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; il suo residuo, 0,0573, è invece il più piccolo, in termini assoluti, di tutto il campione
+- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+
+**D:** ⚠️ Da che cosa dipende, e con che segno, la distanza di Cook di un'osservazione, secondo la slide 12 della lezione 30?
+**R:** Slide 12: «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello). Vale, infatti, la seguente proposizione», la formula equivalente (148). Il docente: transcript [00:16:44]. ⚠️ **Positivamente da entrambi**: nella (148) il residuo al quadrato sta al numeratore del primo fattore e il leverage nel secondo, h_{ii}/(1 - h_{ii})², che cresce con h_{ii} (deduzione).
+**Opzione:** Positivamente sia dal leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)
+**Distrattori:**
+- Positivamente dal leverage (distanza delle variabili esplicative dal loro baricentro) e negativamente dal residuo ad essa associato (capacità di adattamento del modello)
+- Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
+- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+
+**D:** ⚠️ Qual è la formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione i-esima (148), secondo la slide 12 della lezione 30?
+**R:** Slide 12: «Una formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione i-esima è: D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²] (148)», con h_{ii} il leverage (145). Il docente: «i residui LS iesimi al quadrato diviso m per la varianza dei residui campionari al quadrato per il valore della diagonale la matrice H diviso 1 meno la diagonale al quadrato» (transcript [00:17:23]). ⚠️ Nel secondo fattore (1 - h_{ii}) è **al quadrato** e sta al **denominatore**, con il meno; il residuo è ϵ_i^{OLS}. Per σ̂_ε² vale la slide 8, «il quadrato dell'errore standard della regressione». È la domanda 2 del test.
+**Opzione:** D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
+**Distrattori:**
+- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 + h_{ii})²]
+- L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
+- h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+
+**D:** ⚠️ Come qualifica la slide 13 della lezione 30 l'osservazione del pallino viola, la 13-esima del diagramma di dispersione della lezione 29?
+**R:** Slide 13: «Si consideri di nuovo il diagramma di dispersione riportato nella Figura seguente e, in particolare, il pallino viola al quale corrispondeva un'osservazione (la 13-esima) influente e con un leverage elevato». È il diagramma delle 32 osservazioni della lezione 29, dove il viola è anomalo nella variabile esplicativa x (slide 27 del deck 29). ⚠️ **Influente e** con leverage elevato: nella lezione 29 anche il pallino giallo ha un alto punto di leva, ma «non influenza sensibilmente la stima del modello» (slide 23 del deck 29). Le slide 14–16 lo quantificano: leverage 0,295, distanza di Cook 0,565.
+**Opzione:** Un'osservazione influente e con un leverage elevato
+**Distrattori:**
+- Un'osservazione con un leverage elevato ma non influente
+- La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
+- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+
+**D:** ⚠️ Quanto vale il leverage della 13-esima osservazione e come si colloca rispetto al valore soglia, secondo la slide 15 della lezione 30?
+**R:** Slide 15: «Il suo leverage è pari a 0,295 e, come mostra la Figura seguente, è il più alto dell'intero campione e (insieme a quello relativo alla 32-esima osservazione) è l'unico ad essere superiore al valore soglia di 0,125 (= 2·2/32)». Qui m = 2 e n = 32. Il docente: transcript [00:19:22]–[00:19:40]. ⚠️ «Insieme a quello relativo alla 32-esima»: le osservazioni sopra la soglia sono **due**. La 32-esima è il pallino giallo della lezione 29, il rombo giallo all'ascissa 32 del plot dei residui (deduzione dalla slide 21 del deck 29).
+**Opzione:** 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+**Distrattori:**
+- 0,295: è il più alto dell'intero campione ed è l'unico superiore al valore soglia di 0,125 (= 2·2/32), mentre quello della 32-esima osservazione resta al di sotto
+- 0,565: pur essendo inferiore ad 1, il valore soglia per la metrica in questione, è molto al di sopra di quello delle altre osservazioni e segnala che la 13-esima è, all'interno del campione, quella che influenza maggiormente la stima del modello
+- Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+
+**D:** ⚠️ Quanto vale la distanza di Cook della 13-esima osservazione e che cosa segnala, secondo la slide 16 della lezione 30?
+**R:** Slide 16: «La Figura seguente mostra invece come la 13-esima osservazione sia anche quella con la distanza di Cook più alta dell'intero campione. Tale valore è pari a 0,565: pur essendo inferiore ad 1 (il valore soglia per la metrica in questione), si tratta di un valore molto al di sopra di quello relativo alle altre osservazioni e segnala che la 13-esima osservazione è, all'interno del campione, quella che influenza maggiormente la stima del modello». Il docente: transcript [00:20:17]–[00:20:37]. ⚠️ **Sotto** la soglia di 1, eppure la slide non la dice «non influente»: conta il confronto con le altre osservazioni. Il test rapido della slide 9 vale per n grande, e qui n = 32 (deduzione).
+**Opzione:** 0,565: pur essendo inferiore ad 1, il valore soglia per la metrica in questione, è molto al di sopra di quello delle altre osservazioni e segnala che la 13-esima è, all'interno del campione, quella che influenza maggiormente la stima del modello
+**Distrattori:**
+- 0,565: essendo inferiore ad 1, il valore soglia per la metrica in questione, segnala che la 13-esima, come le altre osservazioni del campione, non influenza sensibilmente la stima del modello
+- Per tutte le osservazioni la distanza di Cook si mantiene ben sotto l'unità: pur essendoci numerose osservazioni a leverage elevato, nessuna di loro risulta particolarmente influente sulla stima del modello
+- Positivamente sia dal leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)
+
+**D:** Perché non è una casualità che, nell'esempio del Nasdaq, l'osservazione con la distanza di Cook più alta sia anche quella con il residuo più grande?
+**R:** Perché, per la slide 12, «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)», e la formula equivalente (148), D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²], ha il residuo al quadrato nel primo fattore. La 37-esima osservazione, febbraio 2009, ha la distanza di Cook più alta, 0,2486, e il residuo più grande in termini assoluti, 0,0573 (slide 11). Il docente: «Non è casuale questa circostanza» (transcript [00:16:38]).
+
+**D:** ⚠️ Qual è una delle condizioni imprescindibili per stimare i coefficienti di una regressione lineare multivariata col metodo dei minimi quadrati ordinari, secondo la slide 17 della lezione 30?
+**R:** Slide 17: «Una delle condizioni imprescindibili che devono essere verificate affinchè sia possibile stimare i coefficienti di una regressione lineare multivariata col metodo dei minimi quadrati ordinari è che la matrice dei regressori 𝐱 abbia rango pieno (ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre). Il motivo è, evidentemente, che solo se tale condizione è soddisfatta la matrice quadrata 𝐱′𝐱 è invertibile ed è quindi possibile calcolare il vettore 𝛃̂^{OLS} tramite l'equazione 40», 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲. Il docente: transcript [00:22:33]–[00:23:29]. ⚠️ La dipendenza lineare riguarda le **colonne** di 𝐱, cioè le variabili esplicative, non le righe.
+**Opzione:** Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+**Distrattori:**
+- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle righe di 𝐱 sia linearmente dipendente dalle altre
+- Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
+- Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+
+**D:** ⚠️ Che cos'è la multicollinearità, secondo la slide 17 della lezione 30?
+**R:** Slide 17: «Quando si ha a che fare con dati reali è abbastanza facile che la condizione di rango pieno della matrice dei regressori sia soddisfatta. Tuttavia, è altrettanto vero che anche operando con dati reali può verificarsi invece il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre. Tale fenomeno è chiamato multicollinearità». ⚠️ «Prossime ad essere»: con la multicollinearità 𝐱 resta di rango pieno e 𝛃̂^{OLS} si calcola. Il docente dice prima che la multicollinearità non consente «di ottenere lo stimatore» (transcript [00:23:56]), poi si corregge: può consentire «il calcolo degli stimatori» ma generare «una regressione lineare completamente fasulla» ([00:24:53]). Vale la slide.
+**Opzione:** Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+**Distrattori:**
+- Il caso in cui una o più colonne di 𝐱 siano linearmente dipendenti dalle altre, così che la matrice 𝐱′𝐱 non è invertibile
+- Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
+
+**D:** ⚠️ Che tipo di fenomeno è la multicollinearità, secondo la slide 18 della lezione 30?
+**R:** Slide 18: «La multicollinearità non è un fenomeno digitale, ossia del tipo: esiste o non esiste. Al contrario è un fenomeno che può esistere con varie gradazioni di intensità». Il docente: «si presenta con varie gradazioni di intensità» (transcript [00:24:11]). ⚠️ «Non è digitale»: per questo serve una statistica che ne misuri l'intensità, il VIF, e non basta verificare il rango pieno.
+**Opzione:** La multicollinearità non è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario è un fenomeno che può esistere con varie gradazioni di intensità
+**Distrattori:**
+- La multicollinearità è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario non può esistere con varie gradazioni di intensità
+- La maggior parte delle osservazioni non ha un leverage elevato, in quanto si posiziona al di sotto della soglia
+- Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+
+**D:** ⚠️ Che effetti ha la multicollinearità quando è presente con una certa intensità, secondo la slide 18 della lezione 30?
+**R:** Slide 18: «Ed è un fenomeno che va considerato e analizzato perchè, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività. A tal fine viene tipicamente utilizzata una statistica che, non a caso, è chiamata fattore di inflazione della varianza o VIF (dal suo nome in inglese)». Il docente: «altera pesantemente la stima dei coefficienti della regressione, ne aumenta la varianza e ne riduce la significatività» (transcript [00:24:11]). ⚠️ La varianza **aumenta** e la significatività **si riduce**: da qui il nome, inflazione della varianza.
+**Opzione:** La multicollinearità, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività
+**Distrattori:**
+- La multicollinearità, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne riduce la varianza, aumentandone quindi la significatività
+- Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
+- L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
+
+**D:** ⚠️ Come si definisce il fattore di inflazione della varianza VIF_i dell'i-esimo elemento del vettore 𝛃̂^{OLS} (149), e che cos'è R_i², secondo la slide 19 della lezione 30?
+**R:** Slide 19: «Dato il modello lineare multidimensionale: 𝐲 = 𝐱𝛃 + 𝛆 (34) si definisce fattore di inflazione della varianza o VIF dell'i-esimo elemento del vettore 𝛃̂^{OLS} e si denota con VIF_i la seguente quantità: VIF_i := 1/(1 - R_i²) (149) ove R_i² è il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice». Il docente: transcript [00:25:50]–[00:26:15]. ⚠️ R_i² **non** è l'R² del modello di 𝐲 su 𝐱: è l'R² della regressione della i-esima **colonna** di 𝐱 sulle altre m - 1. Il test della lezione (domanda 3) lo riduce a «relativo alla stima di regressione lineare».
+**Opzione:** VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+**Distrattori:**
+- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della variabile dipendente 𝐲 su tutte le m colonne della matrice dei regressori 𝐱
+- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
+- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
+
+**D:** ⚠️ Che valore assume R_i² in presenza di forte multicollinearità, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «Il significato del VIF è di facile intuizione. Quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i². Considerato che il coefficiente di determinazione, per costruzione, assume valori compresi tra 0 e 1, ciò significa che in presenza di forte multicollinearità R_i² assumerà un valore prossimo ad 1». Il docente: transcript [00:27:20]–[00:27:39]. ⚠️ **Prossimo ad 1**, non a 0: allora 1 - R_i² è piccolo e VIF_i = 1/(1 - R_i²) è molto alto.
+**Opzione:** Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+**Distrattori:**
+- Un valore prossimo a 0, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più basso sarà R_i²
+- Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+
+**D:** ⚠️ Che cosa comporta un valore molto alto di VIF_i per il coefficiente stimato β̂_i^{OLS}, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «Conseguentemente, VIF_i assumerà un valore molto alto, comportando una bassa significatività del coefficiente stimato β̂_i^{OLS}». Il docente: il denominatore «diventa piccolo, piccolo, piccolo, piccolo, e quindi il nostro coefficiente sarà molto alto, evidenziando quindi una bassa significatività del coefficiente stimato» (transcript [00:27:39]). ⚠️ **Bassa** significatività: la multicollinearità aumenta la varianza della stima e ne riduce la significatività (slide 18).
+**Opzione:** Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+**Distrattori:**
+- Un'alta significatività del coefficiente stimato β̂_i^{OLS}
+- Un'osservazione influente e con un leverage elevato
+- Per tutte le osservazioni la distanza di Cook si mantiene ben sotto l'unità: pur essendoci numerose osservazioni a leverage elevato, nessuna di loro risulta particolarmente influente sulla stima del modello
+
+**D:** ⚠️ Che cosa è opportuno fare quando VIF_i assume un valore molto alto, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «In casi del genere è opportuno rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello». Il docente: «è opportuno rimuoverla dal modello e procedere nuovamente alla stima» (transcript [00:27:59]). ⚠️ Si rimuove una **colonna**, cioè una variabile esplicativa, non un'osservazione: i dati a leverage elevato del Nasdaq, giustificati dai fatti, «vanno mantenuti nel campione» (slide 6).
+**Opzione:** Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+**Distrattori:**
+- Rimuovere la i-esima osservazione dal campione e procedere nuovamente alla stima del modello
+- Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
+- Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+
+**D:** ⚠️ Come si definisce la distanza di Cook dell'osservazione i-esima, secondo il test della lezione 30 (domanda 1)?
+**R:** «**Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mσϵ2**», cioè la (147) della slide 8, D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²), con «S» per ∑ e «σϵ2» per σ̂_ε², senza cappello. In tutte e quattro le opzioni segue la stessa coda, «ove: ŷj è il fit dell'osservazione j-esima, ŷi (i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima e σϵ2 è il quadrato dell'errore standard della regressione»: non discrimina, e qui le opzioni tengono solo la formula. Il docente: transcript [00:10:41]–[00:11:23]. Distrattori del test: «/ mbtσϵ2» aggiunge «b» e «t», cioè β e τ del font Symbol (deduzione), fattori che nella (147) non ci sono; l'opzione che finisce con «(i)2]» perde tutto il denominatore e resta la sola somma dei quadrati; «(-ŷi (i)] / btσϵ2» perde ŷ_j, il quadrato e m. ⚠️ «ŷi (i)» è un refuso della piattaforma per ŷ_j(i): la coda stessa lo dice «fit dell'osservazione j-esima».
+**Opzione:** Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mσϵ2
+**Distrattori:**
+- Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mbtσϵ2
+- Di: =[Sj={1;n} (ŷj -ŷi (i)2]
+- Di: =[Sj={1;n} (-ŷi (i)] / btσϵ2
+
+**D:** ⚠️ Qual è una formula equivalente per il calcolo della distanza di Cook dell'osservazione i-esima, secondo il test della lezione 30 (domanda 2)?
+**R:** «**Di: ={[(ϵiOLS)2] / mσϵ2 } [hii/(1-hii)2]**», cioè la (148) della slide 12, D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²], con h_{ii} il leverage. Il docente: transcript [00:17:11]–[00:17:23], dove chiama σ̂_ε² «la varianza dei residui campionari»; vale la slide 8, «il quadrato dell'errore standard della regressione». Distrattori del test: «{[(ϵiOLS)2] } [hii/(1-hii)2 ]» perde il denominatore m·σ̂_ε²; «{[(ϵiOLS)2] / mσϵ2 }» perde il fattore del leverage; «{[(ϵiOLS)2] / mσϵ2 } [hii ]» tiene h_{ii} ma perde (1 - h_{ii})². ⚠️ La distanza di Cook dipende positivamente sia dal residuo sia dal leverage (slide 12): un'opzione senza uno dei due fattori è sbagliata.
+**Opzione:** Di: ={[(ϵiOLS)2] / mσϵ2 } [hii/(1-hii)2]
+**Distrattori:**
+- Di: ={[(ϵiOLS)2] } [hii/(1-hii)2 ]
+- Di: ={[(ϵiOLS)2] / mσϵ2 }
+- Di: ={[(ϵiOLS)2] / mσϵ2 } [hii ]
+
+**D:** ⚠️ A che cosa è pari il fattore di inflazione della varianza (VIF) dell'i-esimo elemento del vettore 𝛃̂^{OLS}, secondo il test della lezione 30 (domanda 3)?
+**R:** «**VIFi := 1/(1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare**», cioè la (149) della slide 19, VIF_i := 1/(1 - R_i²). ⚠️ La coda della piattaforma, uguale nelle quattro opzioni, è troncata: per la slide R_i² è il coefficiente di determinazione «relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice». Il docente: «1 diviso 1 meno» R_i² (transcript [00:25:50]). Distrattori del test: «1/(1-bRi2)» aggiunge una «b», cioè un β del font Symbol (deduzione); «(1-Ri2)» perde il reciproco; «1/(1+Ri2)» inverte il segno. Il VIF sta sotto il sottotitolo «Multicollinearità» del deck, anche se il paragrafo del test è «Dati anomali».
+**Opzione:** VIFi := 1/(1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
+**Distrattori:**
+- VIFi := 1/(1-bRi2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
+- VIFi := (1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
+- VIFi := 1/(1+Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
+
+**D:** ⚠️ Che cosa è utile tracciare per comprendere se un'osservazione è influente su un'analisi di regressione, secondo il test della lezione 30 (domanda 4)?
+**R:** «**lo scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione**»: è la slide 7 alla lettera, che prosegue «e vedere se i punti sono posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione». Il docente: transcript [00:09:11]–[00:09:28]. La distanza di Cook (147) formalizza lo stesso esame. Distrattori del test: «l'istogramma di frequenza rispetto alla funzione di distribuzione» richiama l'istogramma di frequenza dei residui della lezione 29, che serve a valutarne la normalità (transcript 29, [00:10:36]); «un grafico di dispersione simulata» e «lo scatter plot del reference score del campione» non sono nei materiali consultati e non compaiono in nessun transcript del corso.
+**Opzione:** lo scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
+**Distrattori:**
+- l'istogramma di frequenza rispetto alla funzione di distribuzione
+- un grafico di dispersione simulata
+- lo scatter plot del reference score del campione
+
+**D:** ⚠️ Come saranno i punti dello scatter plot se un'osservazione è influente su un'analisi di regressione, secondo il test della lezione 30 (domanda 5)?
+**R:** 🚨 La chiave della piattaforma, «saranno posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione», è **sbagliata**: descrive l'osservazione **non** influente. La slide 7 dice solo di «vedere se i punti sono posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione»; l'esito è nella lezione 29. Per il pallino giallo, non influente, «I due fit (campione intero versus campione ristretto) risultano, infatti, sostanzialmente disposti lungo la retta di equazione y = x» (slide 23 del deck 29); per il pallino viola, influente, «vi è una discreta dispersione dei punti intorno alla retta di equazione y = x» (slide 29 del deck 29). La risposta conforme nel merito è «**saranno dispersi stocasticamente**», l'unica che parla di dispersione; non è alla lettera, perché «stocasticamente» non è nelle slide. «saranno sui bordi dello scatter» e «sui limiti inferiore dello spettro statistico» non sono nei materiali consultati e non compaiono in nessun transcript del corso. All'esame la piattaforma assegna il punto alla risposta sulla bisettrice.
+**Opzione:** saranno dispersi stocasticamente
+**Distrattori:**
+- saranno posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione
+- saranno sui bordi dello scatter
+- sui limiti inferiore dello spettro statistico
