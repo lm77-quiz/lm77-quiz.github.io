@@ -7590,3 +7590,312 @@
 - è pari a infinito
 - non si può calcolare
 - falsa
+
+## Lezione 26 — Il Modello Lineare 4 – bontà del fit
+
+**D:** ⚠️ Come si definisce l'errore standard dello stimatore β̂_i^{OLS}, SE(β̂_i^{OLS}), nella Definizione della slide 2 della lezione 26?
+**R:** Slide 2: «Sia β_i la i-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 e sia β̂_i^{OLS} la i-esima componente del corrispondente stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora, per i = 1, …, m, si definisce errore standard dello stimatore β̂_i^{OLS} e si denota con SE(β̂_i^{OLS}) la seguente quantità: SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2)», dove «σ̂_ε² è lo stimatore non distorto della varianza dell'errore della regressione di cui all'equazione 67». ⚠️ Sotto la radice c'è σ̂_ε², lo stimatore **non distorto**, non σ_{ϵ^{OLS}}², la varianza dei residui OLS, che è distorta (lezione 25, slide 2). Il docente dice «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]): vale la slide. È la chiave della domanda 1 del test.
+**Opzione:** SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+**Distrattori:**
+- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²]_{ii}}^(1/2), con σ_{ϵ^{OLS}}² stimatore distorto della varianza dell'errore della regressione
+- Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
+- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
+
+**D:** ⚠️ Che cosa indica la quantità [(𝐱′𝐱)^(-1)σ̂_ε²]_{ii} nella definizione dell'errore standard dello stimatore β̂_i^{OLS} (slide 2 della lezione 26)?
+**R:** Slide 2: «[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii} è l'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²». Il docente: «l'elemento iesimo della diagonale principale della matrice definita come l'inverso di x trasposto x per lo stimatore della varianza dei minimi quadrati» (transcript [00:01:38]). ⚠️ È un solo elemento, l'i-esimo della diagonale, non la traccia tr(·) usata nella lezione 25 (slide 7–8 di quel deck), che li somma tutti (integrazione, non dai materiali del corso). La matrice ha la forma della (73) della lezione 25, Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε², con lo stimatore σ̂_ε² al posto di σ_ε² (deduzione).
+**Opzione:** L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+**Distrattori:**
+- La traccia, cioè la somma degli elementi della diagonale principale, della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+- La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
+- Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
+
+**D:** ⚠️ Per quali valori dell'indice i si definisce l'errore standard dello stimatore β̂_i^{OLS}, e di quale vettore è componente β_i (slide 2 della lezione 26)?
+**R:** Slide 2: «Sia β_i la i-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 […]. Allora, per i = 1, …, m, si definisce errore standard dello stimatore β̂_i^{OLS} […]». L'equazione 34 è la forma matriciale 𝐲 = 𝐱𝛃 + 𝛆 della lezione 24, in cui 𝛃 è il vettore m × 1 dei coefficienti. Il docente: «per i che va da 1 a m» (transcript [00:00:36]). ⚠️ L'indice arriva a **m**, il numero dei coefficienti, non a n, il numero delle osservazioni. Nella lezione 24 i coefficienti sono numerati da β_0 a β_{m-1}; qui la slide li conta da 1 a m.
+**Opzione:** Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+**Distrattori:**
+- Per i = 1, …, n: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+- Solo valori compresi tra 0 e 1
+- La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+
+**D:** Che differenza c'è fra l'errore standard dello stimatore β̂_i^{OLS} della lezione 26 e l'errore standard della regressione della lezione 25?
+**R:** L'errore standard della regressione è «la radice quadrata di σ̂_ε²» (slide 10 della lezione 25): un solo numero per tutta la regressione. L'errore standard dello stimatore è la radice dell'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε² (slide 2 della lezione 26): uno per ciascun coefficiente, per i = 1, …, m. Entrambi usano lo stimatore **non distorto** σ̂_ε² della (67); il secondo lo moltiplica per (𝐱′𝐱)^(-1), come nella matrice varianze-covarianze (73) della lezione 25 (deduzione dal confronto delle due slide).
+
+**D:** ⚠️ Che cosa afferma la Legge della Varianza Totale, nella Proposizione della slide 3 della lezione 26 (equazione 85)?
+**R:** Slide 3: «Legge della Varianza Totale. Data una coppia di variabili aleatorie X e Y, vale la seguente uguaglianza: Var(Y) = E[Var(Y|X)] + Var[E(Y|X)] (85)». Il docente: «data una coppia di variabili aleatorie x e y la varianza di y non è altro che il valore atteso della varianza di y dato x più la varianza del valore atteso di y dato x» (transcript [00:02:05]). ⚠️ Gli operatori si incrociano: il **valore atteso della varianza** condizionata **più** la **varianza del valore atteso** condizionato.
+**Opzione:** Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+**Distrattori:**
+- Var(Y) = E[Var(Y|X)] - Var[E(Y|X)]
+- TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
+
+**D:** ⚠️ Quali sono le due uguaglianze (86) e (87) che, sommate, dimostrano la Legge della Varianza Totale nelle slide 3–4 della lezione 26?
+**R:** Slide 3: «Per la definizione di varianza si ha: Var(Y|X) = E(Y²|X) - [E(Y|X)]². Calcolando il valore atteso di ambo i lati: E[Var(Y|X)] = E[E(Y²|X)] - E[E(Y|X)]² e quindi: E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86)». Slide 4: «Sempre per la definizione di varianza si ha: Var[E(Y|X)] = E[E(Y|X)]² - {E[E(Y|X)]}² e quindi: Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)». Sommandole, E[E(Y|X)]² si elide e resta E(Y²) - [E(Y)]² (88): «Riconoscendo nel termine destro della 88 la definizione di Var(Y) segue la tesi». Il passaggio E[E(Y²|X)] = E(Y²) è la proprietà E[E(X|Y)] = E(X) della lezione 02 (slide 15); il docente: «Il valore atteso del valore atteso ci consente di liberarci della condizionalità» (transcript [00:03:00]).
+**Opzione:** E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+**Distrattori:**
+- Var[E(Y|X)] = E(Y²) - E[E(Y|X)]² (86) ed E[Var(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+- ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+
+**D:** ⚠️ A che cosa è pari la matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS}, non condizionata, nella Proposizione della slide 5 della lezione 26 (equazione 89)?
+**R:** Slide 5: «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} è pari a: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε² (89)». ⚠️ È la versione **non condizionata** della (73) della lezione 25, Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²: il valore atteso resta su (𝐱′𝐱)^(-1), mentre σ_ε², costante, esce (slide 6). Il docente: «è pari al valore atteso della inversa di x trasposto x per la varianza dei residui» (transcript [00:04:24]–[00:04:36]): la slide ha σ_ε², la varianza dell'errore.
+**Opzione:** La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
+**Distrattori:**
+- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[𝐱′𝐱]·σ_ε²
+- Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
+- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+
+**D:** ⚠️ Perché, nella dimostrazione della (89) (slide 5–6 della lezione 26), uno dei due addendi della Legge della Varianza Totale si annulla, e quale?
+**R:** Slide 5–6: «Applicando al caso di specie la Legge della Varianza Totale (cfr. equazione 85) si ha: Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] + Var[E(𝛃̂^{OLS}|𝐱)] ossia, ricordando che 𝛃̂^{OLS} è uno stimatore non distorto e, in particolare, che: E(𝛃̂^{OLS}|𝐱) = 𝛃 (cfr. equazione 72): Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] + Var(𝛃) = E[Var(𝛃̂^{OLS}|𝐱)] + 0 e quindi: Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] (90)». Var(𝛃) = 0 perché 𝛃 è il vettore dei parametri, una costante (deduzione: la slide scrive solo «+ 0»). Il docente: «ricordando che lo stimatore è non distorto, quel valore atteso condizionato è proprio uguale a beta» (transcript [00:05:02]). ⚠️ Si annulla la **varianza del valore atteso** condizionato; resta il **valore atteso della varianza** condizionata.
+**Opzione:** Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
+**Distrattori:**
+- Perché 𝛃̂^{OLS} è non distorto, E[Var(𝛃̂^{OLS}|𝐱)] = 0: resta Var(𝛃̂^{OLS}) = Var[E(𝛃̂^{OLS}|𝐱)]
+- A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+- Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
+
+**D:** ⚠️ Nell'ultimo passaggio della dimostrazione della (89) (slide 6 della lezione 26), che cosa esce dal valore atteso, e perché?
+**R:** Slide 6: «sostituendo all'interno del valore atteso di cui al termine destro della 90, l'espressione della matrice varianze-covarianze di 𝛃̂^{OLS} condizionatamente a 𝐱 di cui all'equazione 73 si ottiene: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)σ_ε²] e, infine, osservando che σ_ε² è una costante e quindi può essere portata fuori dal valore atteso, si arriva a» la (89). Il docente: «dato che la varianza … è una costante si può portare fuori dal nostro calcolo del valore atteso» (transcript [00:05:48]). ⚠️ Esce σ_ε²; (𝐱′𝐱)^(-1) resta dentro il valore atteso. Nella lezione 25 erano invece le quantità in 𝐱 a uscire dal valore atteso condizionato, perché note condizionatamente a 𝐱 (slide 13 e 17 di quel deck).
+**Opzione:** σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
+**Distrattori:**
+- (𝐱′𝐱)^(-1), perché è nota; σ_ε² resta dentro il valore atteso
+- La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+- Solo valori compresi tra 0 e 1
+
+**D:** ⚠️ Che cosa afferma il Teorema di Gauss-Markov 2 della slide 7 della lezione 26?
+**R:** Slide 7: «Teorema di Gauss-Markov 2. Sia 𝛃̂∗ uno stimatore lineare non distorto per il vettore dei parametri 𝛃 diverso dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la differenza tra la matrice varianze-covarianze di 𝛃̂∗ e quella di 𝛃̂^{OLS} è una matrice semi-definita positiva». Il docente: «la differenza tra le due matrici varianza covarianza è semidefinita positiva» (transcript [00:06:11]). ⚠️ La differenza è quella di 𝛃̂∗ **meno** quella di 𝛃̂^{OLS}, e le matrici sono **non condizionate**: nel Teorema di Gauss-Markov 1 (slide 19 della lezione 25) erano condizionate a 𝐱.
+**Opzione:** Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ e quella di 𝛃̂^{OLS} è semi-definita positiva
+**Distrattori:**
+- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂^{OLS} e quella di 𝛃̂∗ è semi-definita positiva
+- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+
+**D:** ⚠️ In che cosa differiscono il Teorema di Gauss-Markov 1 (lezione 25) e il Teorema di Gauss-Markov 2 (lezione 26), secondo le loro Note?
+**R:** Lezione 25, slide 28: il risultato del Teorema 1 indica che, «per 𝐱 fissato», 𝛃̂^{OLS} è il più efficiente tra gli stimatori lineari e non distorti. Lezione 26, slide 8: «Il risultato di cui al Teorema di Gauss-Markov 2 indica che, anche quando la matrice dei regressori 𝐱 è aleatoria (o, equivalentemente, stocastica), lo stimatore dei minimi quadrati ordinari, 𝛃̂^{OLS}, è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased). Per tale motivo si dice che esso è uno stimatore BLUE, ove BLUE è l'acronimo di Best Unbiased Linear Estimator, vale a dire il miglior stimatore lineare non distorto». ⚠️ Il Teorema 1 confronta le matrici varianze-covarianze **condizionate a 𝐱**, il 2 quelle **non condizionate**. Il docente: «anche quando la matrice dei regressori x è stocastica, lo stimatore dei minimi quadrati è sempre quello a varianza minima» (transcript [00:07:37]).
+**Opzione:** Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
+**Distrattori:**
+- Il Teorema 1 vale anche quando 𝐱 è aleatoria e confronta le matrici varianze-covarianze non condizionate; il Teorema 2 vale per 𝐱 fissato e confronta quelle condizionate a 𝐱
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
+- La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
+
+**D:** ⚠️ Come si dimostra il Teorema di Gauss-Markov 2 a partire dal Teorema 1, nella slide 7 della lezione 26?
+**R:** Slide 7: «Per il Teorema di Gauss-Markov 1 si ha che per ogni dato valore della matrice dei regressori 𝐱 e per ogni 𝛃̂∗ che sia uno stimatore lineare non distorto di 𝛃 diverso dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}, la differenza tra Var(𝛃̂∗|𝐱) e Var(𝛃̂^{OLS}|𝐱) è una matrice semidefinita positiva, i.e.: Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱) (91). Poichè la diseguaglianza 91 vale per ogni valore della matrice 𝐱, essa vale anche rispetto alla media dei possibili valore di 𝐱, e quindi vale anche rispetto alla varianza non condizionata di 𝛃̂^{OLS}, tenuto conto dell'equazione 89». Il docente: «la varianza dello stimatore dei minimi quadrati condizionato a x è minore o uguale alla varianza dello stimatore beta star» (transcript [00:06:59]). ⚠️ Nella (91) la varianza **minore** è quella di 𝛃̂^{OLS}. La (89) conta perché la varianza non condizionata è il valore atteso di quella condizionata, la (90).
+**Opzione:** Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+**Distrattori:**
+- Dalla (91), Var(𝛃̂∗|𝐱) ≤ Var(𝛃̂^{OLS}|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+- TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+
+**D:** ⚠️ In quali casi, secondo la slide 9 della lezione 26, i Teoremi di Gauss-Markov 1 e 2 dimostrano che gli stimatori dei minimi quadrati ordinari godono di proprietà molto apprezzate in statistica?
+**R:** Slide 9: «I Teoremi di Gauss-Markov 1 e 2 enunciati in questa lezione e nella precedente sono importanti perchè dimostrano che gli stimatori dei minimi quadrati ordinari godono di alcune proprietà molto apprezzate in statistica sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria». Il docente: «sia quando la matrice dei regressori x sia deterministica, sia quando sia aleatoria, il famoso blue, la proprietà blue» (transcript [00:08:25]). ⚠️ Deterministica è il caso del Teorema 1, con 𝐱 fissato; aleatoria quello del Teorema 2 (deduzione dalle Note delle slide 28 della lezione 25 e 8 della lezione 26).
+**Opzione:** Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
+**Distrattori:**
+- Solo quando la matrice dei regressori 𝐱 è deterministica, non quando è aleatoria
+- σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
+- Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+
+**D:** ⚠️ Quali due proprietà hanno gli stimatori OLS tra tutti gli stimatori lineari del vettore 𝛃, secondo la slide 9 della lezione 26, e che cosa significano?
+**R:** Slide 9: «Infatti, tra tutti gli stimatori lineari del vettore 𝛃 dei coefficienti del modello lineare, gli stimatori OLS sono corretti in media - cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃 medesimo - e, in più, hanno varianza minima, cioè la loro distribuzione di probabilità campionaria è quella che presenta la minore dispersione attorno al vero valore di 𝛃. In altri termini, i Teoremi di Gauss-Markov affermano che il soddisfacimento delle ipotesi OLS mantiene la distribuzione campionaria la più «stretta» possibile per stime non distorte di 𝛃». Il docente: «sono corretti in media, cioè la media delle stime di beta è esattamente beta e in più hanno la varianza minima» (transcript [00:08:51]). ⚠️ «Corretti in media» riguarda la **media** delle stime, «varianza minima» la **dispersione** della distribuzione campionaria.
+**Opzione:** Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
+**Distrattori:**
+- Sono corretti in media, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃, e hanno varianza minima, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
+- Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+
+**D:** ⚠️ Come si definisce la somma totale dei quadrati, TSS, nella Definizione della slide 10 della lezione 26 (equazione 92)?
+**R:** Slide 10: «Si definisce somma totale dei quadrati o TSS (dall'inglese Total Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)² (92)». Il docente: «la somma dei quadrati delle differenze, o scarti tra le osservazioni campionarie, differenze tra cosa? Tra la variabile y e la sua media campionaria» (transcript [00:09:41]–[00:10:01]). ⚠️ Nella TSS ci sono le **osservazioni** y_i; i **valori stimati** ŷ_i stanno nella devianza spiegata, la (94). È la chiave della domanda 3 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
+**Distrattori:**
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni: TSS = ∑_{i=1}^n (ŷ_i - ȳ)²
+- Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
+- Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
+
+**D:** ⚠️ Come si definisce la devianza spiegata, ESS, nella Definizione della slide 10 della lezione 26 (equazione 94)?
+**R:** Slide 10: «Si definisce devianza spiegata o ESS (dall'inglese Explained Sum of Squares) la somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)² (94) ove ȳ è appunto la media campionaria di 𝐲 (cfr. equazione 93)». ⚠️ Il docente, leggendo la definizione, omette «stimati»: «la somma dei quadrati delle differenze tra i valori della variabile dipendente y e la sua media campionaria» (transcript [00:10:14]), che è la definizione della TSS; poi precisa: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Vale la slide. È la chiave della domanda 4 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
+**Distrattori:**
+- La somma dei quadrati delle differenze o scarti tra i valori della variabile dipendente 𝐲 e la sua media campionaria: ESS = ∑_{i=1}^n (y_i - ȳ)²
+- Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+- Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
+
+**D:** ⚠️ Come scrive la slide 10 della lezione 26 la media campionaria ȳ (equazione 93), e perché conta per il test?
+**R:** Slide 10: «ove: ȳ = ∑_{i=1}^n y_i²/n (93)», con il **quadrato** su y_i. È un refuso della slide: la media campionaria è ∑_{i=1}^n y_i/n, come nella (45) della lezione 24, (1/n)∑_{i=1}^n y_i; il docente dice solo «dove appunto y' è la media campionaria» (transcript [00:10:08]). ⚠️ Nel test, le opzioni D delle domande 3 e 4, «TSS = Si(yi )2/n» ed «ESS = Si(yi )2/n», ripetono la (93) com'è stampata, ∑_i(y_i)²/n: è la formula della media, con il refuso, data come TSS o ESS. Un oggetto scambiato, non una formula inventata.
+
+**D:** ⚠️ Come si definisce la somma dei quadrati dei residui, RSS, nella Definizione della slide 11 della lezione 26 (equazione 96)?
+**R:** Slide 11: «Si definisce somma dei quadrati dei residui o RSS (dall'inglese Residual Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)² (96)». Il docente: «la differenza tra le osservazioni campionari e i valori stimati» (transcript [00:11:17]). ⚠️ È la somma dei **quadrati** dei residui: non va confusa con la somma dei residui OLS, ∑_{i=1}^n ϵ_i^{OLS}, che è zero (equazione 47 della lezione 24). È la chiave della domanda 5 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
+**Distrattori:**
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: RSS = ∑_{i=1}^n (y_i - ȳ)²
+- Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
+- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+
+**D:** ⚠️ Che cosa indicano le sigle ESS e RSS nella lezione 26, e a quale nome italiano corrisponde ciascuna?
+**R:** Slide 10–11: ESS sta per «Explained Sum of Squares», la **devianza spiegata** (94); RSS per «Residual Sum of Squares», la **somma dei quadrati dei residui** (96); TSS per «Total Sum of Squares», la somma totale dei quadrati (92). Il test usa le sigle con lo stesso significato: «La devianza spiegata (ESS)» (domanda 4) e «La somma dei quadrati dei residui (RSS)» (domanda 5). ⚠️ Il docente, subito dopo aver enunciato TSS = ESS + RSS, dice «La devianza spiegata è la somma dei quadrati dei residui» (transcript [00:12:21]): sono invece le due quantità diverse che si sommano nella (98). Integrazione, non dai materiali del corso: in alcuni testi ESS è la «error sum of squares» e RSS la «regression sum of squares», cioè il contrario; nel corso vale la slide.
+**Opzione:** ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
+**Distrattori:**
+- ESS (Explained Sum of Squares) è la somma dei quadrati dei residui; RSS (Residual Sum of Squares) è la devianza spiegata
+- L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+- Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
+
+**D:** ⚠️ Come si specificano la devianza spiegata e la somma dei quadrati dei residui del modello lineare stimato col metodo dei minimi quadrati ordinari, nelle equazioni 95 e 97 della lezione 26?
+**R:** Slide 11: «Nel seguito, tipicamente, si farà riferimento alla devianza spiegata dal modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 94 assumerà tipicamente la seguente specificazione: ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² (95)». Slide 12: «Nel seguito, tipicamente, si farà riferimento alla somma dei quadrati dei residui del modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 96 assumerà tipicamente la seguente specificazione: RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})² (97)». Il docente: «sostituiremo ai valori stimati di y i valori stimati dei minimi quadrati, y cappello OLS» (transcript [00:11:04]). ⚠️ Cambia solo il valore stimato, ŷ_i che diventa ŷ_i^{OLS}: nella ESS il fit si confronta con la media ȳ, nella RSS con l'osservazione y_i.
+**Opzione:** ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+**Distrattori:**
+- ESS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})² e RSS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)²
+- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
+- Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+
+**D:** ⚠️ Quale uguaglianza fra TSS, ESS e RSS enuncia la Proposizione della slide 12 della lezione 26, e come si scrive con le sommatorie?
+**R:** Slide 12: «Vale la seguente uguaglianza: TSS = ESS + RSS (98) o, equivalentemente: ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})² (99)». Il docente: «La total sum of squares non è altro che data dalla ESS e dagli sommati agli RSS, cioè dal valore spiegato e dai somma dei residui» (sic) (transcript [00:12:02]). ⚠️ La slide la enuncia senza condizioni, ma la (99) è scritta con il fit OLS, ŷ_i^{OLS}, e la dimostrazione si chiude con la somma nulla dei residui OLS (equazione 47), che nella lezione 24 discende dalla colonna di soli 1 della matrice 𝐱, cioè dalla costante del modello (deduzione).
+**Opzione:** TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+**Distrattori:**
+- ESS = TSS + RSS, cioè ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² = ∑_{i=1}^n (y_i - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+- Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+
+**D:** ⚠️ Che cosa denota 𝐲̄ nelle forme matriciali (100)–(102) di TSS, ESS e RSS, nella slide 13 della lezione 26?
+**R:** Slide 13: «Si riscrivono le equazioni 92, 95 e 97 in notazione matriciale, i.e. rispettivamente come: TSS = (𝐲 - 𝐲̄)′(𝐲 - 𝐲̄) (100), ESS = (𝐲̂^{OLS} - 𝐲̄)′(𝐲̂^{OLS} - 𝐲̄) (101), RSS = (𝐲 - 𝐲̂^{OLS})′(𝐲 - 𝐲̂^{OLS}) (102) in ciascuna delle quali 𝐲̄ denota il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲». Il docente: «il vettore N per 1 in cui tutti gli elementi sono pari alla media campionaria» (transcript [00:13:15]–[00:13:43]). ⚠️ Non è il vettore 𝟏 della (46) della lezione 24, i cui elementi «sono tutti pari a 1»: 𝐲̄ ne è il multiplo ȳ·𝟏 (deduzione).
+**Opzione:** Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
+**Distrattori:**
+- Il vettore n × 1 in cui tutti gli elementi sono pari a 1
+- Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+
+**D:** ⚠️ Quale matrice riconosce la slide 15 della lezione 26 nella dimostrazione di TSS = ESS + RSS, e quale sua proprietà usa?
+**R:** Slide 15: «mettendo in evidenza 𝐲′ nell'ultimo addendo del termine destro: […] + 𝐲′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲 riconoscendo in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) la matrice di generazione dei residui e ricordando che si tratta di una matrice idempotente: […] + 𝐲′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲». È la M della (57) della lezione 24. Il docente: «riconoscendo quindi nella matrice identità meno X che moltiplica l'inverso di trasposto X, X, la matrice di generazione dei residui. E ricordando che si tratta di una matrice idempotente» (transcript [00:15:40]–[00:15:59]). ⚠️ Non è la matrice di proiezione P := 𝐱(𝐱′𝐱)^(-1)𝐱′, anch'essa idempotente ma senza 𝐈_n. L'addendo viene da (𝛜^{OLS})′𝛜^{OLS}, con 𝛜^{OLS} = 𝐲 - 𝐱𝛃̂^{OLS} e 𝛃̂^{OLS} esplicitato con la (40) (slide 14).
+**Opzione:** La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+**Distrattori:**
+- La matrice di proiezione OLS, 𝐱(𝐱′𝐱)^(-1)𝐱′, e il fatto che è idempotente
+- Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
+- rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+
+**D:** ⚠️ A quale uguaglianza si riduce la tesi TSS = ESS + RSS alla fine della dimostrazione (slide 17–18 della lezione 26), e perché è verificata?
+**R:** Slide 17: «semplificando ancora: 𝐲′𝐲̄ ≟ (𝐲̂^{OLS})′𝐲̄ ricordando che 𝐲 = 𝐲̂^{OLS} + 𝛜^{OLS}: (𝐲̂^{OLS} + 𝛜^{OLS})′𝐲̄ ≟ (𝐲̂^{OLS})′𝐲̄». Slide 18: «e quindi, semplificando: (𝛜^{OLS})′𝐲̄ ≟ 0 ossia, abbandonando la notazione matriciale: ∑_{i=1}^n ϵ_i^{OLS}·ȳ ≟ 0 mettendo in evidenza ȳ: ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0. La tesi segue ricordando che la somma dei residui OLS è pari a zero (cfr. equazione 47) e osservando che conseguentemente anche la quantità ȳ·∑_{i=1}^n ϵ_i è pari a zero». ⚠️ Il docente dice «gli stimatori ls trasposti per il dato medio sono uguali a 0» e poi «la sommatoria … degli errori OLS per il dato medio» (transcript [00:18:35]–[00:19:03]): la slide ha i **residui** OLS, non il fit né gli errori. Il prodotto è zero perché è zero la somma dei residui, non ȳ.
+**Opzione:** A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+**Distrattori:**
+- A (𝐲̂^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ŷ_i^{OLS} ≟ 0, verificata perché la somma dei valori stimati OLS è pari a zero
+- Quello in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
+
+**D:** ⚠️ Come si definisce il coefficiente di determinazione R², nella Definizione della slide 19 della lezione 26 (equazione 103)?
+**R:** Slide 19: «Si definisce coefficiente di determinazione e si denota con R² il rapporto tra la devianza spiegata e la somma totale dei quadrati, i.e. la seguente quantità: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)² (103)». Nella Nota, per il modello stimato col metodo dei minimi quadrati ordinari, «la 103 assumerà tipicamente la seguente specificazione: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)²/∑_{i=1}^n (y_i - ȳ)² (104)». Il docente: «il rapporto tra la devianza spiegata, cioè l'ESS, e la somma dei totali dei quadrati TSS» (transcript [00:19:31]). ⚠️ Al numeratore c'è la devianza **spiegata**, ESS, non la somma dei quadrati dei residui, RSS.
+**Opzione:** Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
+**Distrattori:**
+- Il rapporto tra la somma dei quadrati dei residui e la somma totale dei quadrati: R² = RSS/TSS = ∑_{i=1}^n (y_i - ŷ_i)²/∑_{i=1}^n (y_i - ȳ)²
+- σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
+- Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+
+**D:** ⚠️ Quali valori può assumere l'R², secondo il Corollario della slide 20 della lezione 26?
+**R:** Slide 20: «L'R² può assumere solo valori compresi tra 0 e 1». Il docente: «il coefficiente di determinazione può assumere solo valori compresi tra 0 e 1» (transcript [00:20:15]); e sugli estremi: «Perfetta spiegazione, zero non spiega nulla» ([00:23:30]), cioè 1 è la spiegazione perfetta e 0 non spiega nulla (solo nel transcript). ⚠️ Fra 0 e 1, non fra -1 e 1: è il coefficiente di correlazione della lezione 02 a essere, in valore assoluto, minore o uguale a 1.
+**Opzione:** Solo valori compresi tra 0 e 1
+**Distrattori:**
+- Solo valori compresi tra -1 e 1
+- Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
+- Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+
+**D:** ⚠️ Da che cosa discende il Corollario per cui l'R² può assumere solo valori compresi tra 0 e 1, secondo la slide 20 della lezione 26?
+**R:** Slide 20: «La validità di questo corollario è un'immediata conseguenza dell'uguaglianza 99 avendo cura di osservare che la quantità RSS non può mai essere negativa essendo una somma di quadrati (cfr. equazione 97)». Il docente: «basta osservare che l'RSS non può mai essere negativa, essendo una somma di quadrati» (transcript [00:20:22]). Con TSS = ESS + RSS e RSS ≥ 0, la ESS non supera la TSS e il rapporto non supera 1; la ESS è anch'essa una somma di quadrati, quindi il rapporto non è negativo (deduzione). ⚠️ RSS è la somma dei **quadrati** dei residui: non è zero come la somma dei residui OLS (equazione 47).
+**Opzione:** Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
+**Distrattori:**
+- Dall'uguaglianza 99, osservando che la quantità RSS è sempre pari a zero, come la somma dei residui OLS
+- Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
+- Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
+
+**D:** ⚠️ Con che cosa coincide, nel caso bivariato, l'R² del modello lineare stimato col metodo OLS, secondo la Proposizione della slide 20 della lezione 26?
+**R:** Slide 20: «Nel caso bivariato - in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26) - l'R² del modello lineare stimato col metodo OLS coincide col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa». Slide 21: R² = (cov(x,y)/(√Var(x)√Var(y)))² = (ρ(x,y))². ⚠️ È il **quadrato** della correlazione. Il docente dice due volte il contrario: «che è esattamente la correlazione» (transcript [00:21:49]) e «il nostro coefficiente di determinazione non è altro che la correlazione tra x e y» ([00:21:59]). Vale la slide.
+**Opzione:** Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
+**Distrattori:**
+- Col coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
+- ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
+
+**D:** ⚠️ Che cosa si intende per caso bivariato, nella Proposizione della slide 20 della lezione 26?
+**R:** Slide 20: il caso «in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26)». L'equazione 26 è la matrice 𝐱 n × 2 della lezione 23 (slide 22 di quel deck), con la colonna di 1 e quella delle x_i. Il docente: «la matrice dei regressori x ha una sola colonna oltre a quella degli 1 associati alla costante del modello, il β0 ricorderete» (transcript [00:20:33]). ⚠️ Le due variabili di «bivariato» sono y e x: c'è **una sola** variabile esplicativa, quindi una sola colonna oltre a quella di 1, non due (deduzione dal confronto con la lezione 23).
+**Opzione:** Quello in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
+**Distrattori:**
+- Quello in cui la matrice dei regressori 𝐱 ha due colonne oltre a quella di soli 1 associata alla costante del modello
+- Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+
+**D:** ⚠️ Da quale rapporto parte, e con quali sostituzioni arriva a (ρ(x,y))², la dimostrazione della slide 21 della lezione 26 per il caso bivariato?
+**R:** Slide 21: «Si osserva anzitutto che, in base all'equazione 104, il coefficiente di determinazione del modello lineare bivariato stimato col metodo OLS è pari al rapporto tra la varianza campionaria del fit ŷ^{OLS} e la varianza campionaria della variabile dipendente y, i.e.: R² = Var(ŷ^{OLS})/Var(y)»; poi, «esplicitando ŷ^{OLS} tramite la 20», = Var(β̂_0^{OLS} + β̂_1^{OLS}x)/Var(y); «per alcune note proprietà della varianza», = (β̂_1^{OLS})²Var(x)/Var(y); «esplicitando β̂_1^{OLS} in base alla 15», = (cov(x,y)/Var(x))²·Var(x)/Var(y); «semplificando», = (cov(x,y))²/(Var(x)Var(y)), e quindi R² = (ρ(x,y))². La (20) e la (15) sono il fit e lo stimatore β̂_1^{OLS} = cov(x,y)/Var(x) della lezione 23. Il docente: «il rapporto tra la varianza campionaria della stima OLS e la varianza campionaria della variabile dipendente» (transcript [00:21:04]). ⚠️ La costante β̂_0^{OLS} non ha varianza e il coefficiente di x esce **al quadrato** (deduzione: la slide dice «note proprietà della varianza»).
+**Opzione:** Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+**Distrattori:**
+- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = β̂_1^{OLS}Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+- E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+- rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+
+**D:** ⚠️ Che cosa si intende per bontà del fit, di cui l'R² è un indicatore relativo, secondo la slide 22 della lezione 26?
+**R:** Slide 22: «L'R² è un indicatore relativo della c.d. bontà del fit, intesa come capacità del modello stimato di adattarsi ai dati osservati (i quali - si rammenta - altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti). Più alto è l'R² (i cui valori, si ricorda, sono compresi tra 0 e 1) maggiore è la capacità di adattamento del modello stimato o, in gergo, la bontà del fit». Il docente: «traduzione dell'espressione anglosassone statistica goodness of fit, quindi bontà della stima» (transcript [00:22:13]). ⚠️ I dati osservati sono un **campione** e i parametri della popolazione sono **ignoti**; più alto è l'R², **maggiore** la capacità di adattamento.
+**Opzione:** La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
+**Distrattori:**
+- La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono noti
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
+- Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+
+**D:** ⚠️ Che cosa misura in particolare l'R², secondo la slide 22 della lezione 26?
+**R:** Slide 22: «In particolare, l'R² misura quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato. Esso è dunque un indicatore relativo della bontà del fit, coerentemente col fatto che - come si è visto - può assumere solo valori compresi tra 0 e 1». Il docente: «misura quanta quota percentuale della devianza totale della variabile dipendente Y è spiegata dal modello stimato» (transcript [00:23:02]). ⚠️ È la quota **spiegata** della devianza **totale**, ESS su TSS: la quota non spiegata è quella dei residui.
+**Opzione:** Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+**Distrattori:**
+- Quanta percentuale della devianza totale della variabile dipendente 𝐲 non è spiegata dal modello stimato
+- ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+- E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+
+**D:** ⚠️ Quale retta OLS e quale R² dà l'esempio Nasdaq–S&P 500 delle slide 23–24 della lezione 26, e che cosa ne conclude?
+**R:** Slide 23: «Siano rendNASD i rendimenti logaritmici dell'indice azionario Nasdaq e rendSP quelli dell'indice azionario Standard&Poor's 500 rilevati con frequenza mensile nel periodo compreso tra febbraio 2006 e ottobre 2022. L'equazione della retta di regressione lineare relativa al modello: rendNASD = β_0 + β_1rendSP + ε stimato col metodo dei minimi quadrati ordinari è la seguente: rendNASD = 0,00171 + 1,1rendSP. Il valore dell'R² ad essa associato è molto alto (pari a 0,89465), il che segnala una buona capacità di adattamento del modello lineare stimato ai dati osservati». Slide 24: nel diagramma di dispersione (scatter plot) «le coppie ordinate di osservazioni delle variabili rendSP e rendNASD (pallini verdi) sono tipicamente molto vicine alla retta di regressione stimata (linea arancione)». ⚠️ Il valore 0,89465 è solo nella slide: il docente dice «molto molto molto alto» (transcript [00:24:52]). Il valore molto basso, 0,006815, è dell'esempio parabolico della slide 25. Dipendente è il rendimento del Nasdaq, esplicativa quello dello S&P 500 ([00:24:22]).
+**Opzione:** rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+**Distrattori:**
+- rendNASD = 0,00171 + 1,1rendSP, con un R² molto basso, pari a 0,006815: una scarsa capacità di adattamento del modello lineare stimato ai dati osservati
+- Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
+- A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+
+**D:** ⚠️ Che cosa misura l'R², e che cosa ne consegue per un suo valore basso, secondo l'avvertenza «ATTENZIONE!» della slide 25 della lezione 26?
+**R:** Slide 25: «L'R² misura la capacità del modello lineare specificato di adattarsi ai dati osservati. Ne consegue che se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra la variabile dipendente 𝐲 e la matrice dei regressori 𝐱. Ad esempio, è possibile che tra la variabile dipendente e le variabili esplicative vi sia una relazione di dipendenza funzionale di tipo non lineare come quella illustrata nella seguente Figura» («che se», sic). Il docente: «se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra y e x» (transcript [00:26:19]–[00:26:27]). ⚠️ «Non esclude necessariamente»: un R² basso segnala che manca una buona relazione **lineare**, non che manchi ogni dipendenza.
+**Opzione:** Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+**Distrattori:**
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso esclude che vi sia una relazione di dipendenza tra 𝐲 e 𝐱
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
+- L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+
+**D:** ⚠️ Quanto vale l'R² nell'esempio della figura della slide 25 della lezione 26, e che relazione c'è fra y e x?
+**R:** Slide 25: «In questo caso, infatti, sebbene l'R² sia molto basso (è pari a 0,006815), è evidente che la variabile dipendente y ha una dipendenza funzionale di tipo parabolico dalla variabile indipendente x». Il docente: «l'r quadro sarà pari a un numero vicino allo zero. Ed è […] evidente che Y ha una dipendenza funzionale parabolica da X» (transcript [00:26:42]–[00:26:48]); «non esiste una relazione lineare, in questo caso per esempio è parabolica» ([00:27:09]). ⚠️ Il valore 0,006815 è solo nella slide. L'R² alto, 0,89465, è dell'esempio Nasdaq–S&P 500.
+**Opzione:** Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+**Distrattori:**
+- Un R² molto basso, pari a 0,006815, perché y non ha alcuna dipendenza funzionale da x
+- ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
+
+**D:** ⚠️ A che cosa è pari l'errore standard dello stimatore dei minimi quadrati biOLS, secondo il test della lezione 26 (domanda 1)?
+**R:** «**SE(biOLS) = {[(x'x)-1s2e]ii}1/2**», cioè la definizione della slide 2, SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con «s2e» per σ̂_ε², il cappello perso, e «}1/2» per la radice quadrata. Il docente: «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]). ⚠️ Servono insieme l'**inversa**, (𝐱′𝐱)^(-1), e la **radice**. Distrattori del test: «{[(x'x)s2e]ii}1/2» perde l'inversa; «{[s2e]ii}1/2» perde (𝐱′𝐱)^(-1) e prende l'elemento diagonale di uno scalare; «{[(x'x)-1s2e]ii}» perde la radice, ed è l'elemento i-esimo della diagonale, non il suo errore standard.
+**Opzione:** SE(biOLS) = {[(x'x)-1s2e]ii}1/2
+**Distrattori:**
+- SE(biOLS) = {[(x'x)s2e]ii}1/2
+- SE(biOLS) = {[s2e]ii}1/2
+- SE(biOLS) = {[(x'x)-1s2e]ii}
+
+**D:** ⚠️ A che cosa è pari la quantità s2e, lo stimatore non distorto della varianza dell'errore della regressione, secondo il test della lezione 26 (domanda 2)?
+**R:** «**s2e = s2eOLS n/(n-m)**», cioè la (67) richiamata nella slide 2, σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con «s2e» per σ̂_ε² e «s2eOLS» per σ_{ϵ^{OLS}}². Il docente: «la varianza cappello degli errori non è altro che n su n-m per la varianza degli errori dei minimi quadrati» (transcript [00:01:08]). m è il numero dei coefficienti della regressione, cioè delle colonne di 𝐱, la costante compresa (lezione 24). ⚠️ Le altre tre opzioni hanno a sinistra «s2eOLS», non «s2e»: definiscono σ_{ϵ^{OLS}}², la varianza dei residui OLS, non lo stimatore chiesto. «s2eOLS = Si(eiOLS - me)2/n» è la (60) della lezione 25, la definizione giusta di σ_{ϵ^{OLS}}², e «s2eOLS = Si(eiOLS)2/n» la sua riscrittura con μ_ϵ = 0; «s2eOLS = Si(eiOLS - me)», senza quadrato né /n, è la chiave sbagliata 🚨 della domanda 3 del test della lezione 25. Le tre opzioni vengono da quel test.
+**Opzione:** s2e = s2eOLS n/(n-m)
+**Distrattori:**
+- s2eOLS = Si(eiOLS - me)2/n
+- s2eOLS = Si(eiOLS - me)
+- s2eOLS = Si(eiOLS)2/n
+
+**D:** ⚠️ A che cosa è pari la somma totale dei quadrati (TSS), secondo il test della lezione 26 (domanda 3)?
+**R:** «**TSS = Si(yi - ȳ)2**», cioè la (92) della slide 10, TSS = ∑_{i=1}^n (y_i - ȳ)², con «Si» per ∑_i e «)2» per il quadrato (transcript [00:09:41]–[00:10:01]). ⚠️ Nessun distrattore è inventato: «TSS = SieiOLS» è la somma dei residui OLS, che è zero (equazione 47 della lezione 24); «TSS = Si(eiOLS - me)» viene dal test della lezione 25, dov'era la chiave sbagliata della domanda 3; «TSS = Si(yi )2/n» è la (93) com'è stampata nella slide 10, ȳ = ∑_{i=1}^n y_i²/n, cioè la formula della media campionaria con il refuso del quadrato.
+**Opzione:** TSS = Si(yi - ȳ)2
+**Distrattori:**
+- TSS = SieiOLS
+- TSS = Si(eiOLS - me)
+- TSS = Si(yi )2/n
+
+**D:** ⚠️ A che cosa è pari la devianza spiegata (ESS), secondo il test della lezione 26 (domanda 4)?
+**R:** «**ESS = Si(ŷi - ȳ)2**», cioè la (94) della slide 10, ESS = ∑_{i=1}^n (ŷ_i - ȳ)²: i valori **stimati** meno la media. ⚠️ Il docente legge la definizione senza «stimati» (transcript [00:10:14]) e poi si corregge: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Distrattori del test: «ESS = Si(yi - ȳ)2» è la TSS, la chiave della domanda 3; «ESS = Si(eiOLS - me)» viene dal test della lezione 25; «ESS = Si(yi )2/n» è la (93) com'è stampata, la formula della media con il refuso.
+**Opzione:** ESS = Si(ŷi - ȳ)2
+**Distrattori:**
+- ESS = Si(eiOLS - me)
+- ESS = Si(yi - ȳ)2
+- ESS = Si(yi )2/n
+
+**D:** ⚠️ A che cosa è pari la somma dei quadrati dei residui (RSS), secondo il test della lezione 26 (domanda 5)?
+**R:** «**RSS = Si(yi -ŷi)2**», cioè la (96) della slide 11, RSS = ∑_{i=1}^n (y_i - ŷ_i)²: le osservazioni meno i valori stimati (transcript [00:11:17]). ⚠️ Le domande 3, 4 e 5 sono speculari: «Si(yi - ȳ)2» è la chiave della 3 e un distrattore qui, «Si(ŷi - ȳ)2» la chiave della 4 e un distrattore qui. «RSS = Si(eiOLS - me)» viene dal test della lezione 25: senza quadrato è la somma degli scarti dei residui dalla loro media, non la somma dei loro quadrati.
+**Opzione:** RSS = Si(yi -ŷi)2
+**Distrattori:**
+- RSS = Si(ŷi - ȳ)2
+- RSS = Si(eiOLS - me)
+- RSS = Si(yi - ȳ)2
