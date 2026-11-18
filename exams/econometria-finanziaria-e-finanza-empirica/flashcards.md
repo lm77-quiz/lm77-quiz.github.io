@@ -5565,3 +5565,259 @@
 - r= StN'(d1) (T-t)1/2
 - r= N'(d1) ∗ 1/sSt(T-t)1/2
 - r=N(d1)
+
+## Lezione 19 — Gestione del rischio - Greche 3 – Delta Hedging
+
+**D:** ⚠️ Quali oneri genera, per il docente della lezione 19, ottenere la neutralità del portafoglio con il Δ hedging?
+**R:** Gli interessi sul denaro preso a prestito e i costi del trading: «tenuto conto che si prende del denaro a prestito per compravendere queste attività finanziarie, che questo denaro genera dei tassi di interesse e che … l'operatività di trading di per sé ha dei costi», «ottenere la neutralità del portafoglio non è un risultato che non determina oneri finanziari» (transcript [00:01:14]–[00:02:04]). Per questo il foglio Excel della lezione 18 si completa con due blocchi, per «capire quanto costa effettivamente l'operatività». ⚠️ Nel foglio, però, i costi di trading «non sono segnati» ([00:15:18]).
+**Opzione:** Gli interessi sul denaro preso a prestito per comprare le azioni e i costi dell'operatività di trading
+**Distrattori:**
+- Gli interessi sul premio incassato dalla vendita delle call e i costi dell'operatività di trading
+- Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 66,7, deep out of the money
+- 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino è vuoto dal time step 16
+
+**D:** ⚠️ Quali due blocchi aggiunge la lezione 19 al foglio Excel del Δ hedging, e con quali colonne (slide 2)?
+**R:** Slide 2: «**Delta Hedging Cash Flow**», con i gruppi Stock (Dollars in Stock (flusso)), Option (Cash ex Shorting/Exercising Option), Bank (Cash, Interest (flusso), Borrow (stock)) e la colonna Hedging Revenue (cost); «**Delta Hedging portfolio "A" Value**», con il gruppo Replicating Portfolio (Dollars in Stock (stock), Bank, Portfolio Value) e le colonne Option value e Unwind value. Il docente: «Un primo blocco che chiameremo Delta Hedging Cash Flow, cioè i flussi di cassa derivanti dal Delta Hedging, e poi dovremo anche costruire il valore del portafoglio, cioè il Delta Hedging portfolio "A" Value» (transcript [00:02:31]). ⚠️ Hedging Revenue (cost) sta nel primo blocco, Unwind value nel secondo.
+**Opzione:** Delta Hedging Cash Flow: Dollars in Stock (flusso), Cash ex Shorting/Exercising Option, Cash, Interest (flusso), Borrow (stock), Hedging Revenue (cost); Delta Hedging portfolio "A" Value: Dollars in Stock (stock), Bank, Portfolio Value, Option value, Unwind value
+**Distrattori:**
+- Delta Hedging Cash Flow: Dollars in Stock (flusso), Cash ex Shorting/Exercising Option, Cash, Interest (flusso), Borrow (stock), Unwind value; Delta Hedging portfolio "A" Value: Dollars in Stock (stock), Bank, Portfolio Value, Option value, Hedging Revenue (cost)
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+- Un costo di 2.036 dollari: il portafoglio vale 60.282 e l'opzione 62.317
+
+**D:** ⚠️ Che cosa riporta la colonna Dollars in Stock (flusso) nel foglio in the money della lezione 19, e con quali primi valori (slide 2)?
+**R:** I dollari investiti nelle azioni come flusso: «nella prima colonna metteremo innanzitutto i dollari investiti in questa azione come dato di flusso», «semplicemente la moltiplicazione di quanto costa compravendere le azioni» (transcript [00:02:51]–[00:03:04]). Slide 2: 56.400 al time step 0 (564 azioni a 100,0), 6.344 al time step 1 (61 azioni a 104,0), (5.723) al time step 2 (57 azioni vendute a 100,4); l'ultima azione si compra per 162 dollari ([00:03:40]). L'investimento ha il segno più, il disinvestimento il segno meno ([00:07:31]). ⚠️ È un **flusso**: il valore delle azioni in portafoglio, uno stock, è la colonna Dollars in Stock (stock) del secondo blocco.
+**Opzione:** Le azioni compravendute nel time step per il loro prezzo: 56.400 al time step 0, poi 6.344 e (5.723)
+**Distrattori:**
+- Le azioni in portafoglio per il loro prezzo: 56.400 al time step 0, poi 64.997 e 57.032
+- 1.516 dollari, meno dei 2.122 del caso in the money, perché è minore l'impatto finanziario di tenere aperte delle posizioni
+- Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante e le azioni sono già tutte vendute
+
+**D:** ⚠️ Quali flussi riporta la colonna Cash ex Shorting/Exercising Option nel foglio in the money della lezione 19 (slide 2)?
+**R:** Due celle: **10.378** al time step 0 e **(100.000)** al time step 20. Il docente: «abbiamo venduto un'opzione, l'abbiamo shortata … da un lato io ho venduto l'opzione shorting e ho guadagnato 10.378 dollari» (transcript [00:04:00]); «Dall'altro lato l'esercizio dell'opzione porta a 100 mila dollari di risultato finanziario negativo», perché l'opzione «viene esercitata al prezzo strike K», per «mille opzioni su un'azione che vale 100 dollari» ([00:04:25]–[00:04:53]). ⚠️ Le call sono **vendute**: 10.378 è il premio incassato per tutte e mille.
+**Opzione:** 10.378 al time step 0, il premio della vendita delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
+**Distrattori:**
+- 10.378 al time step 0, il premio dell'acquisto delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+- La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
+
+**D:** ⚠️ Quanto prende a prestito dalla banca al time step 0 chi vende le 1.000 call dell'esempio della lezione 19, e perché?
+**R:** **46.022** dollari: il flusso di 56.400 delle 564 azioni comprate, «nettato dei 10.378 che vado a ottenere dalla vendita dell'opzione lo devo finanziare», cioè «una richiesta di cassa alla banca per 46.022», che va nella colonna Borrow (transcript [00:05:15]–[00:05:54]). «Quindi non è che vendere opzioni è solo un guadagno. Se io sono un intermediario, un operatore razionale che quindi non scommette stile casino ma decide di avviare una copertura dei rischi intelligente in base alle greche, è di tutta evidenza che questa operatività genera al tempo zero che io debba finanziare 46.022 dollari» ([00:06:13]–[00:06:18]). Slide 2 e 5: la riga del time step 0 è la stessa nei casi in the money e out of the money. ⚠️ Il premio si **sottrae** al costo delle azioni.
+**Opzione:** 46.022 dollari: i 56.400 delle 564 azioni comprate, al netto dei 10.378 incassati dalla vendita delle call
+**Distrattori:**
+- 66.778 dollari: i 56.400 delle 564 azioni comprate, più i 10.378 incassati dalla vendita delle call
+- 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino è vuoto dal time step 16
+- Un guadagno di 122 dollari: il portafoglio vale 12.602 e l'opzione 12.480
+
+**D:** ⚠️ Come cambia il debito verso la banca al time step 1 del foglio in the money della lezione 19, e da che cosa dipendono gli interessi?
+**R:** Slide 2: Borrow (stock) sale da 46.022 a **52.395**, con Cash 6.344 e Interest (flusso) 28,8. Il docente: «dovrò prendere a prestito ulteriori 6.344 dollari ai quali si aggiungono 28,8 … di interessi … sui 46.022 dollari che ho preso a prestito all'inizio» (transcript [00:06:44]); gli interessi «variano nei vari time step in relazione a quanta cassa prendo o restituisco in base alle azioni che vado a investire o disinvestire» ([00:07:14]). La colonna Cash «riflette puntualmente i flussi di controvalore in dollari» delle azioni, salvo il primo time step, «rettificato per il valore del premio» ([00:07:40]). ⚠️ Gli interessi si pagano a ogni time step: nella tabella ogni flusso è lo 0,0625% del debito del passo precedente (deduzione).
+**Opzione:** Sale a 52.395: ai 46.022 si aggiungono 6.344 di nuove azioni e 28,8 di interessi, che variano con la cassa presa o restituita
+**Distrattori:**
+- Sale a 52.366: ai 46.022 si aggiungono 6.344 di nuove azioni, mentre gli interessi si pagano tutti alla scadenza
+- Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+- Solo gli oneri della discretizzazione del processo di hedging e di trading: i costi di trading non sono segnati
+
+**D:** ⚠️ Quanto ha preso a prestito alla scadenza, nel foglio in the money della lezione 19, chi ha venduto le call, e quanto vale l'ultimo flusso di interessi?
+**R:** Slide 2, time step 20: Borrow (stock) **102.122**, Interest (flusso) **63,8**. Il docente: «Per arrivare a un risultato finale in cui ho preso a prestito 102.122 dollari pagando un tasso di interesse di 63,8 dollari» (transcript [00:08:14]). ⚠️ 63,8 è l'ultimo flusso della colonna Interest (flusso), non un tasso; Borrow è «l'ammontare integrale di denaro che io prendo a prestito e sui quali vado a pagare gli interessi» ([00:08:01]). Lo strike delle 1.000 call, 100.000, sta nella colonna Cash ex Shorting/Exercising Option.
+**Opzione:** 102.122 dollari, con un ultimo flusso di interessi di 63,8
+**Distrattori:**
+- 100.000 dollari, pari allo strike delle 1.000 call, con un ultimo flusso di interessi di 63,8
+- Se ne comprano 564 al time step 0, se ne vendono 130 al 2 e 277 al 7, e al 16, con l'azione a 64,8, si vendono le ultime 3
+- Il valore di smontaggio della posizione: al time step 0 è zero, perché portafoglio e opzione valgono entrambi 10.378
+
+**D:** ⚠️ Che cosa misura la colonna Hedging Revenue (cost), e quanto vale alla scadenza nel foglio in the money della lezione 19?
+**R:** «Rappresenta il guadagno o il costo che viene generato dall'incrocio di queste operatività finanziarie di compravendita di titoli e di opzioni» (transcript [00:08:31]). È data «dai 102.122 dollari nettati dei 100.000 dollari che qualificano lo strike della operatività dell'esercizio dell'opzione», e «questa operatività di copertura collegata alla vendita originaria di mille opzioni ha generato un costo netto per l'operatore di 2.122 dollari» ([00:09:08]–[00:09:27]). Slide 2, time step 20: **(2.122)**. ⚠️ È un **costo**: la parentesi segna il meno.
+**Opzione:** Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un costo netto di 2.122
+**Distrattori:**
+- Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un guadagno netto di 2.122
+- Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 66,7, deep out of the money
+- Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+
+**D:** ⚠️ Come si costruisce la colonna Dollars in Stock (stock) del portafoglio di replica nella lezione 19, e quanto vale al time step 0 e alla scadenza del foglio in the money?
+**R:** «Nella prima colonna Dollars in Stock c'è un dato di stock e non di flusso, semplicemente il valore in base al prezzo delle azioni del mio portafoglio azionario», cioè il numero di azioni per il loro prezzo (transcript [00:11:39]–[00:11:52]): «al primo time step è proprio 56.400 perché l'azione vale 100 e … abbiamo comprato 564 azioni», e «quando l'opzione scade come ben sappiamo deep in the money avremo 149.961 dollari» ([00:12:05]–[00:12:20]). Slide 2: 56.400, 64.997, 57.032, …, 149.961. ⚠️ Stock, non flusso.
+**Opzione:** Le azioni in portafoglio per il loro prezzo, un dato di stock: 56.400 al time step 0 e 149.961 alla scadenza
+**Distrattori:**
+- Le azioni compravendute nel time step per il loro prezzo, un dato di flusso: 56.400 al time step 0 e 149.961 alla scadenza
+- Il solo premio di 10.378 al time step 0; alla scadenza la colonna è a zero, come l'Option value
+- A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il costo di hedging
+
+**D:** ⚠️ Che cosa riporta la colonna Bank del portafoglio di replica nella lezione 19, e come se ne ricava il Portfolio Value?
+**R:** Bank è «la quantità di denaro che io ho dovuto prendere a prestito per finanziare la posizione in azione», cioè, «col segno opposto ovviamente», la colonna Borrow (transcript [00:12:52]–[00:13:08]). Sommata a Dollars in Stock (stock), «non è nient'altro che quell'alfa S0 più beta 0 che determinavano il valore V0 del portafoglio», e dà il Portfolio Value ([00:13:36]): al time step 0, 56.400 + (46.022) = 10.378 (slide 2). È il V_0(φ) = α_0S_0 + β_0 della lezione 08. ⚠️ Il debito entra col segno meno.
+**Opzione:** Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+**Distrattori:**
+- Il Borrow con lo stesso segno; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 + 46.022 = 102.422
+- Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante e le azioni sono già tutte vendute
+- Gli interessi sul denaro preso a prestito per comprare le azioni e i costi dell'operatività di trading
+
+**D:** ⚠️ Come si calcola la colonna Option value del foglio della lezione 19, e con quale segno vi compare?
+**R:** Con la formula di Black-Scholes della call: «Qui calcoliamo, banalmente, con la nostra formula di Black-Scholes, cioè S N di 1 meno K e alla meno r T meno t, cioè la time to maturity, N di 2, il valore dell'opzione» (transcript [00:14:13]), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), la (33) della lezione 11. Nelle slide 2 e 5 la colonna ha le parentesi, cioè il segno meno, perché le call sono vendute (deduzione: il docente non lo dice): (10.378) al time step 0, (49.961) alla scadenza del caso in the money. ⚠️ È la formula della **call**; quella della put, nella slide 2 della lezione 18, è Ke^(-r(T-t))N(-d_2) - S_tN(-d_1).
+**Opzione:** Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+**Distrattori:**
+- Con la formula di Black-Scholes della put, Ke^(-r(T-t))N(-d_2) - S_tN(-d_1), riportata fra parentesi, cioè col segno meno
+- D=N(d1)-1
+- Solo gli oneri della discretizzazione del processo di hedging e di trading: i costi di trading non sono segnati
+
+**D:** ⚠️ Che cosa sono gli «sfridi finanziari» del Δ hedging per il docente della lezione 19, e come cambierebbero con più time step?
+**R:** La differenza fra il portafoglio di replica e il valore dell'opzione: «teoricamente … questi due valori dovrebbero essere perfettamente uguali ma così non è perché la differenza esprime proprio la circostanza che purtroppo la discretizzazione dell'operatività di trading genera degli chiamiamoli sfridi finanziari che sono esattamente quegli hedging revenue o cost, a seconda se positivi o negativi, che sono determinati dal fatto che l'operatività è in un time step, i tre mesi, 20 time step» (transcript [00:14:30]–[00:14:56]). «Se ne avessimo 100 di time step, probabilmente questi sfridi sarebbero inferiori» ([00:15:12]). ⚠️ Più time step, sfridi **inferiori**: il tempo del modello è istantaneo, quello del foglio è discretizzato ([00:10:16]).
+**Opzione:** La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
+**Distrattori:**
+- La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente superiori
+- 46.022 dollari: i 56.400 delle 564 azioni comprate, al netto dei 10.378 incassati dalla vendita delle call
+- Se ne comprano 564 al time step 0, se ne vendono 130 al 2 e 277 al 7, e al 16, con l'azione a 64,8, si vendono le ultime 3
+
+**D:** ⚠️ Quali oneri spiegano, nel foglio della lezione 19, la differenza fra Portfolio Value e Option value, e quali restano fuori?
+**R:** Il docente: gli sfridi della discretizzazione, «comunque generando dei costi di trading che in questa operatività non sono segnati. Qui ci sono solo gli oneri derivanti da questa discretizzazione del processo di hedging e di trading» (transcript [00:15:18]–[00:15:26]). In apertura aveva ricordato che «l'operatività di trading di per sé ha dei costi» ([00:01:42]). ⚠️ I costi di trading esistono, ma il foglio non li registra.
+**Opzione:** Solo gli oneri della discretizzazione del processo di hedging e di trading: i costi di trading non sono segnati
+**Distrattori:**
+- Gli oneri della discretizzazione e i costi di trading delle compravendite di azioni, entrambi segnati nel foglio
+- 10.378 al time step 0, il premio della vendita delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
+- Il solo premio di 10.378 al time step 0; alla scadenza la colonna è a zero, come l'Option value
+
+**D:** ⚠️ Che cos'è l'Unwind value del foglio della lezione 19, e quanto vale al time step 0?
+**R:** «Qualificheremo questa quantità come Unwind Value, cioè valore di smontaggio della posizione» (transcript [00:11:26]): la differenza fra portafoglio e opzione, che alla fine vale 2.122 ed era letta come costo della copertura, «in realtà può essere vista per ogni time step come il valore dello smontaggio di questa posizione» ([00:15:37]). Al time step 0 «il valore del portafoglio è 10.378 dollari e il valore dell'opzione sul mercato è 10.378 dollari. Se io queste due operazioni le chiudo immediatamente … la apro e la chiudo, io non ho nessun costo dallo smontaggio di questa posizione. E infatti nella colonna Unwind Value il valore è zero» ([00:16:06]–[00:16:30]). Slide 2 e 5: «-» al time step 0. ⚠️ Il docente chiama «primo time step» la riga del time step 0.
+**Opzione:** Il valore di smontaggio della posizione: al time step 0 è zero, perché portafoglio e opzione valgono entrambi 10.378
+**Distrattori:**
+- Il valore di smontaggio della posizione: al time step 0 è 10.378, il premio incassato dalla vendita delle call
+- 102.122 dollari, con un ultimo flusso di interessi di 63,8
+
+**D:** ⚠️ Quanto darebbe lo smontaggio della posizione al time step 1 del foglio in the money della lezione 19, e a quale attività lo collega il docente?
+**R:** Un guadagno: «nel secondo time step abbiamo un valore di portafoglio che è 12.602 e il valore dell'opzione invece è 12.480, se andasse a smontare la posizione in quel momento io addirittura guadagnerei 122 dollari» (transcript [00:16:35]). «Non capita di rado infatti che nell'operatività di trading spesso ci sia questo tipo di attività, si dice ad alta frequenza di negoziazione, finalizzata proprio a portare questo tipo di possibilità finanziarie all'interno del guadagno» ([00:17:01]). Slide 2: Unwind value 122 al time step 1, che il docente chiama «secondo». ⚠️ Nel caso in the money l'Unwind value è positivo solo ai time step 1–3 (122, 267, 133).
+**Opzione:** Un guadagno di 122 dollari: il portafoglio vale 12.602 e l'opzione 12.480
+**Distrattori:**
+- Un costo di 122 dollari: il portafoglio vale 12.480 e l'opzione 12.602
+- Sale a 52.395: ai 46.022 si aggiungono 6.344 di nuove azioni e 28,8 di interessi, che variano con la cassa presa o restituita
+- 56.400 al time step 0 e 11.355 al time step 1; poi le azioni si smobilitano, perché l'opzione è out of the money e non c'è niente da coprire
+
+**D:** ⚠️ Quanto costerebbe smontare la posizione al time step 16 del foglio in the money della lezione 19?
+**R:** Slide 2, time step 16: Portfolio Value 60.282, Option value (62.317), Unwind value **(2.036)**. Il docente: «Andando avanti troveremo poi magari a cinque time step dalla fine che il portafoglio ha un valore di 60.282 e l'opzione di 62.317. In questo caso chiudere l'operatività genererebbe un costo di smontaggio di 2.036 dollari» (transcript [00:17:25]–[00:17:39]). ⚠️ «A cinque time step dalla fine» conta le righe dalla 16 alla 20. Il costo più alto della tabella è al time step 5, (2.528).
+**Opzione:** Un costo di 2.036 dollari: il portafoglio vale 60.282 e l'opzione 62.317
+**Distrattori:**
+- Un guadagno di 2.036 dollari: il portafoglio vale 62.317 e l'opzione 60.282
+- Le azioni in portafoglio per il loro prezzo, un dato di stock: 56.400 al time step 0 e 149.961 alla scadenza
+- Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+
+**D:** ⚠️ A che cosa serve, per il docente della lezione 19, seguire l'Unwind value durante l'hedging, e che cosa dà all'ultimo time step?
+**R:** «In base a queste due grandezze si possono orientare anche delle operatività finanziarie durante l'attività di hedging antecedenti alla fine e alla scadenza del contratto» (transcript [00:17:58]); «nei tempi intermedi abbiamo quel maggiore o minore valore generato da queste frizioni di operatività di trading e di hedging che possono portare quindi un desk a ritenere di dover anticipare la chiusura di eventuali posizioni per portare a casa dei risultati prima della scadenza» ([00:27:02]). All'ultimo time step il confronto fra portafoglio e opzione dà «banalmente il mio costo di hedging» ([00:26:45]–[00:26:58]): (2.122) nel caso in the money (slide 2), (1.516) in quello out of the money (slide 5), uguali alla colonna Hedging Revenue (cost).
+**Opzione:** A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il costo di hedging
+**Distrattori:**
+- A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il premio incassato
+- Le azioni compravendute nel time step per il loro prezzo: 56.400 al time step 0, poi 6.344 e (5.723)
+
+**D:** ⚠️ Come è impostato il secondo esempio di Δ hedging della lezione 19 (slide 3)?
+**R:** Slide 3: «Δ Hedging — Al tempo T=0 vendi 1 call — Alla scadenza l'opzione è OUT – the money». Il docente: «Ipotizziamo invece un ulteriore caso, al tempo t uguale 0 noi vendiamo l'opzione ma la scadenza l'opzione non è in the money, è out of the money» (transcript [00:19:09]); il foglio è costruito «esattamente come lo abbiamo costruito prima»: «Abbiamo 20 time step, i nostri tre mesi hanno una time to expiration che va da 0.25 a 0» ([00:19:25]–[00:19:37]). ⚠️ La call è **venduta**, come nel caso in the money della lezione 18; il foglio della slide 4 ne vende mille («Short 1000 call on 1 stock»).
+**Opzione:** Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+**Distrattori:**
+- Al tempo T=0 si compra 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+- Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un costo netto di 2.122
+- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+
+**D:** ⚠️ Che andamento ha l'azione nell'esempio out of the money della lezione 19 (slide 4)?
+**R:** Slide 4, colonna STOCK PRICE: 100,0, 107,1, 98,7, 98,6, 98,1, 100,9, 103,8, 89,9, 83,0, 77,9, 74,6, 76,9, 70,2, 68,9, 69,5, 69,9, 64,8, 62,8, 63,0, 64,5 e **66,7** al time step 20. Il docente: «L'azione in questo caso vale prima 100, poi diventa 107, poi 98, poi ritorna a 100, per poi finire deep out of the money, a 66. Il valore S è estremamente inferiore al prezzo strike pari a 100» (transcript [00:19:52]–[00:20:06]). ⚠️ 64,8 è il prezzo del time step 16, quando si vendono le ultime azioni, non quello della scadenza.
+**Opzione:** Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 66,7, deep out of the money
+**Distrattori:**
+- Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 64,8, deep out of the money
+- Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un costo netto di 2.122
+- Sale a 52.395: ai 46.022 si aggiungono 6.344 di nuove azioni e 28,8 di interessi, che variano con la cassa presa o restituita
+
+**D:** ⚠️ Quanto vale il Delta della call nei primi time step dell'esempio out of the money della lezione 19, e fra quali estremi resta?
+**R:** Slide 4: Δ call 0,564115961, 0,669595731 e 0,539965684 ai time step 0, 1 e 2, con le posizioni (564), (670) e (540) per le mille call vendute. Il docente: il blocco calcola «il valore del delta, cioè quell'indicatore che è uguale ad N di 1», cioè «564 670 540 portato relativamente alle mille opzioni ma ovviamente compreso tra 0 e 1 come giusto che sia dato la definizione di questa grandezza» (transcript [00:20:19]–[00:20:36]). ⚠️ Il Delta della call sta fra 0 e 1; fra 0 e -1 sta quello della put (lezione 18, slide 5).
+**Opzione:** 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+**Distrattori:**
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra -1 e 0
+- 102.122 dollari, con un ultimo flusso di interessi di 63,8
+- Le azioni in portafoglio per il loro prezzo, un dato di stock: 56.400 al time step 0 e 149.961 alla scadenza
+
+**D:** ⚠️ Quante azioni si comprano e si vendono nell'esempio out of the money della lezione 19, e quando si vendono le ultime (slide 4)?
+**R:** Slide 4, colonna Stock to Buy/(Sell): 564 al time step 0, 106, (130), (5), (12), 49, 51, (277) al time step 7, (144), (92), (49), 12, (57), (8), (3), (2) e (3) al time step 16; poi nulla. Il docente: «al tempo zero dovremo comprare 564 azioni al tempo 2 ne venderemo 130, al tempo 7 altre 277, ma poi alla fine è chiaro che già al tempo 16 avremo venduto le ultime tre azioni, perché quando il valore dell'azione è arrivato a 64,8 con uno strike di 100, … come fa a ritornare sopra 100?» (transcript [00:20:59]–[00:21:45]). Le 106 azioni comprate al time step 1 il docente non le nomina. ⚠️ Al 2 e al 7 si **vende**.
+**Opzione:** Se ne comprano 564 al time step 0, se ne vendono 130 al 2 e 277 al 7, e al 16, con l'azione a 64,8, si vendono le ultime 3
+**Distrattori:**
+- Se ne comprano 564 al time step 0, se ne comprano altre 130 al 2 e 277 al 7, e al 16, con l'azione a 64,8, si vendono le ultime 3
+- Gli interessi sul denaro preso a prestito per comprare le azioni e i costi dell'operatività di trading
+- La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
+
+**D:** ⚠️ Come descrive il docente della lezione 19 l'opzione dell'esempio out of the money quando l'azione è a 64,8 con strike 100?
+**R:** «L'opzione oramai è, si dice, morta nella sua possibilità di generare valore intrinseco e quindi siamo nelle condizioni che già al tempo 16 il mio valore residuo è talmente insignificante che … avrò già smobilitato tutto il mio portafoglio» (transcript [00:21:51]). Slide 4: al time step 16 il Delta è 7,23394E-05, la posizione «-», e si vendono le ultime 3 azioni. ⚠️ Morta nella possibilità di generare valore **intrinseco**: per la call il valore intrinseco è S-K sopra lo strike e 0 sotto (lezione 05). Le azioni non si tengono fino alla scadenza.
+**Opzione:** Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante e le azioni sono già tutte vendute
+**Distrattori:**
+- Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante, ma le azioni si tengono fino alla scadenza
+- Le azioni compravendute nel time step per il loro prezzo: 56.400 al time step 0, poi 6.344 e (5.723)
+- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+
+**D:** ⚠️ Quanto vale il Delta della call alla scadenza nell'esempio out of the money della lezione 19, e da quando il magazzino è vuoto (slide 4)?
+**R:** Slide 4: Δ call **0** al time step 20, dopo 7,23394E-05 al 16, 1,05616E-06 al 17, 3,36141E-09 al 18 e 2,6642E-15 al 19; dal time step 16 Δ call Posit., Warehouse e Δ Stock Posit. sono «-». Il docente: il Delta della posizione in azioni «non è altro che 1 per il magazzino warehouse e riflette esattamente il valore che parte con 564 e al time step 16 è diventato 0» (transcript [00:22:22]). Nel caso in the money, invece, alla scadenza il Delta è 1 e il magazzino ha 1.000 azioni (lezione 18, slide 13). ⚠️ Il magazzino si svuota al time step **16**, non alla scadenza.
+**Opzione:** 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino è vuoto dal time step 16
+**Distrattori:**
+- 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino si svuota solo al time step 20
+- 10.378 al time step 0, il premio della vendita delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
+- Un costo di 2.036 dollari: il portafoglio vale 60.282 e l'opzione 62.317
+
+**D:** ⚠️ Come si muovono i flussi in azioni nell'esempio out of the money della lezione 19 (slide 5), e perché?
+**R:** Slide 5, colonna Dollars in Stock (flusso): 56.400 al time step 0, **11.355** al time step 1, poi (12.837), (493), (1.177), 4.945, 5.294, (24.908), …, fino a (195) al time step 16 e «-» dopo. Il docente: «noteremo al primo time step 56.400 dollari che ricevono un incremento di 11.355 perché compriamo altre azioni e via via si riducono perché come abbiamo spiegato le azioni vengono smobilitate perché l'opzione è out of the money quindi non c'è niente da coprire» (transcript [00:23:46]). ⚠️ Al time step 1 il caso in the money ha 6.344, quello out of the money 11.355: l'azione va a 104,0 in un caso e a 107,1 nell'altro.
+**Opzione:** 56.400 al time step 0 e 11.355 al time step 1; poi le azioni si smobilitano, perché l'opzione è out of the money e non c'è niente da coprire
+**Distrattori:**
+- 56.400 al time step 0 e 6.344 al time step 1; poi le azioni si smobilitano, perché l'opzione è out of the money e non c'è niente da coprire
+- A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il costo di hedging
+- Il valore di smontaggio della posizione: al time step 0 è zero, perché portafoglio e opzione valgono entrambi 10.378
+
+**D:** ⚠️ Quali flussi riporta la colonna Cash ex Shorting/Exercising Option nel foglio out of the money della lezione 19 (slide 5)?
+**R:** Slide 5: **10.378** al time step 0, il premio delle mille call vendute, e «-» al time step 20; l'Option value è (0) ai time step 16–17, 0 al 18 e «-» al 19 e al 20. Il docente: nella seconda colonna c'è «il cash incassato … dalla vendita delle mille opzioni, 10.378 dollari» (transcript [00:24:12]). Nel caso in the money la stessa colonna ha (100.000) alla scadenza, l'esercizio allo strike (slide 2). ⚠️ Fuori dal denaro, alla scadenza, la colonna ha «-», cioè zero.
+**Opzione:** Il solo premio di 10.378 al time step 0; alla scadenza la colonna è a zero, come l'Option value
+**Distrattori:**
+- Il premio di 10.378 al time step 0 e (100.000) alla scadenza, l'esercizio delle 1.000 call allo strike 100
+- Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+- Un guadagno di 122 dollari: il portafoglio vale 12.602 e l'opzione 12.480
+
+**D:** ⚠️ Quanto costa la copertura nell'esempio out of the money della lezione 19 rispetto al caso in the money, e perché per il docente?
+**R:** Slide 5: Hedging Revenue (cost) **(1.516)** al time step 20, contro (2.122) della slide 2. Il docente: la colonna «qualifica la circostanza che 1.516 dollari sono stati di fatto spesi per tenere in piedi questa strategia di hedging e come vedete questo dato è inferiore a quello del caso in the money» (transcript [00:25:06]), «sia perché è minore l'impatto finanziario di tenere aperte delle posizioni», cioè il trading «unitamente all'impatto finanziario dell'operatività di cash con la banca», «ma anche unitamente soprattutto al processo di discretizzazione del tempo dei tre mesi della time to maturity» ([00:25:28]). ⚠️ Fuori dal denaro il costo è **minore**.
+**Opzione:** 1.516 dollari, meno dei 2.122 del caso in the money, perché è minore l'impatto finanziario di tenere aperte delle posizioni
+**Distrattori:**
+- 2.122 dollari, più dei 1.516 del caso in the money, perché è maggiore l'impatto finanziario di tenere aperte delle posizioni
+- 56.400 al time step 0 e 11.355 al time step 1; poi le azioni si smobilitano, perché l'opzione è out of the money e non c'è niente da coprire
+- Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
+
+**D:** ⚠️ Quante azioni compra, per coprirsi con il Δ hedging, chi ha venduto le call nei due esempi delle lezioni 18–19, e quante ne ha alla scadenza?
+**R:** Tante quanto il Delta per il numero di call vendute. Il docente: il Delta «ci consente di individuare quante azioni devo andare a compravendere per poter garantire che questa vendita di mille opzioni call sia opportunamente coperta» (transcript [00:20:59]); nella lezione 18 le azioni da comprare o vendere sono «esattamente il valore del delta» (transcript 18, [00:29:22]). Alla scadenza: nel caso in the money il Delta è 1 e «tutte e mille le azioni sono state comprate» ([00:03:40]; lezione 18, slide 13); nel caso out of the money il Delta è 0 e il magazzino è vuoto dal time step 16 ([00:22:22]; slide 4). ⚠️ È la regola delle domande 4 e 5 del test.
+**Opzione:** Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
+**Distrattori:**
+- Una per ogni call venduta, qualunque sia il Delta: alla scadenza 1.000 azioni sia per le call in the money sia per quelle out of the money
+- 46.022 dollari: i 56.400 delle 564 azioni comprate, al netto dei 10.378 incassati dalla vendita delle call
+- 1.516 dollari, meno dei 2.122 del caso in the money, perché è minore l'impatto finanziario di tenere aperte delle posizioni
+
+**D:** ⚠️ Quanto vale il delta di una Call OTM alla scadenza nel modello di BSM, secondo il test della lezione 19 (domanda 1)?
+**R:** «**D=0**». È l'ultima riga della slide 4: al time step 20 la vita residua è 0,0000, l'azione vale 66,7 con strike 100 e il Delta della call è 0; dal time step 16 la posizione in Delta è «-». Il docente: al tempo 16 si vendono le ultime tre azioni, perché con l'azione a 64,8 l'opzione è «morta nella sua possibilità di generare valore intrinseco» (transcript [00:21:23]–[00:21:51]), e il magazzino «al time step 16 è diventato 0» ([00:22:22]). Nella lezione 18: «se la call è out of the money io non ho bisogno di azioni e quindi il valore del delta sarà uguale a zero» (transcript 18, [00:03:09]). Distrattori del test: «D= StN'(d1) (T-t)1/2» è il Vega, «D= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «D = (T-t) K e-r(T-t) N(d2)» il Rho della call, la (104), la (102) e la (103) della lezione 16: lo stesso pool dei test 17 e 18. Nessuna è un valore del Delta.
+**Opzione:** D=0
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Quanto vale il delta di una PUT OTM alla scadenza nel modello di BSM, secondo il test della lezione 19 (domanda 2)?
+**R:** «**D=0**», ma il deck 19 non parla di put: la chiave si ricava dalla lezione 18. La slide 3 di quel deck dà Δ_{put} = N(d_1) - 1, e il grafico della slide 5 va da 0 a -1, salendo verso 0 per S alto. Il docente: a bassa volatilità il Delta della put è attratto, «appena l'opzione diventa in o appena l'opzione diventa out of the money, verso lo 0 o verso il meno 1» (transcript 18, [00:08:37]–[00:09:07]). La put è out of the money quando S_t > K (lezione 05, slide 24): il suo Delta va a 0. ⚠️ La chiave è giusta ma non testuale. Distrattori del test: il Vega, il Gamma e il Rho della call, come nella domanda 1.
+**Opzione:** D=0
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D = (T-t) K e-r(T-t) N(d2)
+
+**D:** ⚠️ Quanto vale il delta di una PUT ITM alla scadenza nel modello di BSM, secondo il test della lezione 19 (domanda 3)?
+**R:** «**D=1**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**. Per la lezione 18 il Delta della put è Δ_{put} = N(d_1) - 1 (slide 3) e va da 0 a **-1** (slide 5): «La put va da 0 a meno 1», perché la put è il diritto di vendere un'azione, «quindi è meno un'azione» (transcript 18, [00:07:26]–[00:07:52]). Una put in the money, con S_t < K (lezione 05, slide 24), alla scadenza ha Delta **-1**, che non è fra le opzioni. «D=1» è il valore della **call** in the money alla scadenza (test 18, domanda 2), con il segno sbagliato; «D=0» è il Delta della put out of the money (domanda 2); le altre due opzioni sono il Vega e il Gamma della call. Il deck 19 e il suo transcript non parlano di put. La B è la sola con il valore assoluto giusto, una azione per opzione. ⚠️ Se la domanda torna corretta, la risposta è -1.
+**Opzione:** D=1
+**Distrattori:**
+- D= StN'(d1) (T-t)1/2
+- D= N'(d1) ∗ 1/sSt(T-t)1/2
+- D=0
+
+**D:** ⚠️ Se il delta di una Call è 1 e il numero di azioni sottostanti è 100, quante azioni impone di comprare la copertura dei rischi, secondo il test della lezione 19 (domanda 4)?
+**R:** «**100 azioni**»: il Delta per il numero di azioni sottostanti, 1 · 100. Il Delta «ci consente di individuare quante azioni devo andare a compravendere per poter garantire che questa vendita di mille opzioni call sia opportunamente coperta» (transcript [00:20:59]); nella lezione 18 sono «esattamente il valore del delta» (transcript 18, [00:29:22]). Nell'esempio delle slide, con 1.000 call e Delta 1 alla scadenza, il magazzino ha 1.000 azioni (lezione 18, slide 13; «tutte e mille le azioni sono state comprate», [00:03:40]). ⚠️ Non testuale: le slide hanno 1.000 call, non 100 azioni, e la domanda non dice che la call è venduta, come nelle slide. Distrattori del test: «1000 azioni» è il numero dell'esempio, non della domanda; «D=1» e «D=0» sono valori del Delta, non numeri di azioni, e «D=1» ripete la premessa.
+**Opzione:** 100 azioni
+**Distrattori:**
+- 1000 azioni
+- D=1
+- D=0
+
+**D:** ⚠️ Se il delta di una Call è 0 e il numero di azioni sottostanti è 100, quante azioni impone di comprare la copertura dei rischi, secondo il test della lezione 19 (domanda 5)?
+**R:** «**0 azioni**»: con Delta 0 non serve copertura, 0 · 100. ⚠️ Non testuale: le slide non hanno il caso di 100 azioni. Nell'esempio out of the money, dal time step 16 il Delta è praticamente zero e il magazzino è vuoto: «al time step 16 è diventato 0» (transcript [00:22:22]; slide 4). Nella lezione 18: «se la call è out of the money io non ho bisogno di azioni e quindi il valore del delta sarà uguale a zero» (transcript 18, [00:03:09]). Distrattori del test: «1000 azioni» è il numero dell'esempio; «100 azioni» è la chiave della domanda 4, con Delta 1; «D=0» ripete la premessa e non è un numero di azioni. ⚠️ Le domande 4 e 5 sono speculari: la chiave dell'una è il distrattore dell'altra.
+**Opzione:** 0 azioni
+**Distrattori:**
+- 1000 azioni
+- 100 azioni
+- D=0
