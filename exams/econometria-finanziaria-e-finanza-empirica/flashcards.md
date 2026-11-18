@@ -7298,3 +7298,295 @@
 - è pari a infinito
 - non si può calcolare
 - è pari a 1
+
+## Lezione 25 — Modello Lineare 3 – Stimatori OLS e Teorema di Gauss-Markov
+
+**D:** ⚠️ Come è definita, nella Proposizione della slide 2 della lezione 25, la quantità σ_{ϵ^{OLS}}², e con quale μ_ϵ?
+**R:** Slide 2, «Proposizione»: «La quantità σ_{ϵ^{OLS}}² definita come: **σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n** (60) con **μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n** (61) è uno stimatore distorto della varianza dell'errore della regressione lineare». Il docente: la varianza dei residui «può essere definita come la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n dove la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:18]–[00:00:49]). ⚠️ Al denominatore della (60) c'è **n**, non n - m: con n - m e senza la media si ha lo stimatore non distorto σ̂_ε² del Corollario (slide 10). Il quadrato è sullo scarto **dalla media** μ_ϵ. È la definizione chiesta dalla domanda 3 del test, dove la chiave della piattaforma è sbagliata (🚨).
+**Opzione:** σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
+**Distrattori:**
+- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/(n - m), con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
+- A = B + (𝐱′𝐱)^(-1)𝐱′
+
+**D:** ⚠️ Che tipo di stimatore della varianza dell'errore della regressione lineare è σ_{ϵ^{OLS}}², secondo la Proposizione della slide 2 della lezione 25?
+**R:** Slide 2: σ_{ϵ^{OLS}}² «è uno stimatore **distorto** della varianza dell'errore della regressione lineare, i.e.: **E(σ_{ϵ^{OLS}}²) ≠ σ_ε²**». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare, cioè a dire che il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]): la slide scrive σ_ε², la varianza dell'**errore**. ⚠️ **Non distorto** è σ̂_ε², con n - m al denominatore (Corollario, slide 10). La dimostrazione dà E(σ_{ϵ^{OLS}}²) = [(n - m)/n]σ_ε² (slide 9). Sono le domande 2 e 5 del test.
+**Opzione:** È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
+**Distrattori:**
+- È uno stimatore non distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) = σ_ε²
+- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
+- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+
+**D:** ⚠️ Perché, all'inizio della dimostrazione (slide 3 della lezione 25), μ_ϵ = 0, e come si riscrive allora la (60)?
+**R:** Slide 3: «Si osserva anzitutto che, essendo la **somma dei residui OLS pari a zero (cfr. equazione 47)**, anche la loro media campionaria è pari a zero, i.e.: ∑_{i=1}^n ϵ_i^{OLS}/n = 0 e quindi, per la 61: **μ_ϵ = 0** (62) Alla luce dell'uguaglianza precedente la 60 può essere riscritta come: **σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n**». Il docente: «se la somma dei residui è pari a zero, beh anche allora la media campionaria è pari a zero» (transcript [00:01:19]); la (60) si riscrive «proprio perché la media è nulla» ([00:01:44]). ⚠️ Il motivo è la somma nulla dei **residui** OLS, la (47) della lezione 24, non l'ipotesi sugli **errori** E(ε_i|x_i) = 0 dell'equazione 12.
+**Opzione:** Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
+**Distrattori:**
+- Perché il valore atteso degli errori della regressione condizionato a 𝐱 è nullo (equazione 12), quindi μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
+- Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+
+**D:** ⚠️ Come si scrive σ_{ϵ^{OLS}}² in notazione matriciale, nell'equazione 63 della lezione 25?
+**R:** Slide 3: la (60) riscritta con μ_ϵ = 0, «che, espressa con notazione matriciale, diventa: **σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}** (63)». Il docente: «diventa 1 su n per i residui OLS trasposti moltiplicati per i residui OLS» (transcript [00:02:10]). ⚠️ Prima il vettore dei residui **trasposto**, poi il vettore: il prodotto riga per colonna è uno **scalare**, la somma dei quadrati dei residui. Nell'ordine inverso, 𝛜^{OLS}(𝛜^{OLS})′, sarebbe una matrice n × n (deduzione).
+**Opzione:** σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
+**Distrattori:**
+- σ_{ϵ^{OLS}}² = (1/n)𝛜^{OLS}(𝛜^{OLS})′
+- Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
+- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+
+**D:** ⚠️ Quale matrice riconosce la slide 6 della lezione 25 in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e come diventa E(σ_{ϵ^{OLS}}²|𝐱)?
+**R:** Slide 5: esplicitando 𝐲 = 𝐱𝛃 + 𝛆, svolgendo i prodotti e semplificando, e «mettendo in evidenza 𝛆»: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆]′[(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆]|𝐱). Slide 6: «riconoscendo in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) la **matrice di generazione dei residui** di cui all'equazione 57: = (1/n)E([M𝛆]′M𝛆|𝐱)». Il docente: «Ora riconosciamo la matrice di generazione dei residui nella quantità data dalla matrice identità meno x che moltiplica l'inversa di x trasposto di x per x trasposto» (transcript [00:05:07]). ⚠️ È la M della (57) della lezione 24, non la matrice di proiezione P := 𝐱(𝐱′𝐱)^(-1)𝐱′ (52), che dà il fit.
+**Opzione:** La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
+**Distrattori:**
+- La matrice di proiezione P dell'equazione 52: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([P𝛆]′P𝛆|𝐱)
+- A = B + (𝐱′𝐱)^(-1)𝐱′
+- E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+
+**D:** ⚠️ Perché, nella slide 6 della lezione 25, (1/n)E(𝛆′M′M𝛆|𝐱) diventa (1/n)E(𝛆′M𝛆|𝐱), l'equazione 64?
+**R:** Slide 6: «per una nota proprietà della matrice trasposta: = (1/n)E(𝛆′M′M𝛆|𝐱) da cui, essendo **M una matrice simmetrica e idempotente**, segue: **E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)** (64)». Il docente: «essendo M una matrice simmetrica e idempotente potremo riscrivere pertanto il valore atteso» come 1 su n per il valore atteso di 𝛆′M𝛆 (transcript [00:05:40]–[00:05:59]). ⚠️ Simmetrica, M′ = M, e idempotente, MM = M: sono le (58) e (59) della lezione 24 (deduzione: la slide le richiama in una parola). Serve l'**idempotenza**, non l'invertibilità: M′M = MM = M. Una matrice idempotente diversa dall'identità non è invertibile (deduzione).
+**Opzione:** Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
+**Distrattori:**
+- Perché M è una matrice simmetrica e invertibile: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
+- B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+
+**D:** ⚠️ Perché la 64 della lezione 25 si può riscrivere con la traccia, e quale proprietà della traccia porta a (1/n)E(tr(M𝛆𝛆′)|𝐱) (slide 6–7)?
+**R:** Slide 6: «Si osserva ora che 𝛆′M𝛆 è uno **scalare** e pertanto coincide con la sua traccia». Slide 7: «E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(tr(𝛆′M𝛆)|𝐱) ossia, per la **proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche**: = (1/n)E(tr(M𝛆𝛆′)|𝐱)». Il docente: «è uno scalare e pertanto coincide con la sua traccia» (transcript [00:06:11]–[00:06:23]); «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche possiamo riscrivere la quantità come 1 su n per il valore atteso della traccia di m epsilon epsilon trasposto» ([00:06:24]–[00:06:42]). ⚠️ La **linearità** della traccia serve dopo, nella slide 8, per separare tr(𝐈_n - …) in tr(𝐈_n) - tr(…).
+**Opzione:** Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+**Distrattori:**
+- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per la linearità della traccia diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+- Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
+
+**D:** ⚠️ Nella slide 7 della lezione 25, perché M può uscire dal valore atteso, e con quali ipotesi si arriva a (1/n)tr(Mσ_ε²𝐈_n)?
+**R:** Slide 7: «considerando che **condizionatamente a 𝐱 la matrice M è nota** e, quindi, può essere portata fuori dall'operatore valore atteso: = (1/n)tr(ME(𝛆𝛆′|𝐱)) richiamando le **ipotesi di cui alle equazioni 35 e 36**: = (1/n)tr(Mσ_ε²𝐈_n)». Il docente: «considerando che la matrice m è nota può essere portata fuori dal valore dell'operatore atteso» (transcript [00:06:42]); il valore atteso di 𝛆 per 𝛆 trasposto «altri non sono, che è la varianza dei residui per la matrice identità» ([00:07:10]), dove la slide ha σ_ε², la varianza dell'errore. ⚠️ Le (35) e (36) della lezione 24 sono l'**omoschedasticità** e la **non autocorrelazione** degli errori; l'esogeneità (12) serve invece per la non distorsione di 𝛃̂^{OLS} e per la (75).
+**Opzione:** Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
+**Distrattori:**
+- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando l'ipotesi di esogeneità dell'equazione 12, = (1/n)tr(Mσ_ε²𝐈_n)
+- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+
+**D:** ⚠️ A che cosa è uguale E(σ_{ϵ^{OLS}}²|𝐱) nella (65) della lezione 25, e come si calcola la traccia di M nella slide 8?
+**R:** Slide 8: «e quindi si ha: **E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε²** (65) Stante la 57», tr(M) = tr(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′); «per la proprietà di linearità della traccia» = tr(𝐈_n) - tr(𝐱(𝐱′𝐱)^(-1)𝐱′); «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche» = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = **tr(𝐈_n) - tr(𝐈_m)**. Il docente: «la traccia di M diviso n per la varianza» (transcript [00:07:25]); «possiamo trasformare questa quantità all'interno della traccia con un'altra matrice identità di ordine m» ([00:08:16]). ⚠️ Prima l'identità di ordine **n**, poi quella di ordine **m**: (𝐱′𝐱)^(-1)𝐱′𝐱 è m × m (deduzione dalle dimensioni).
+**Opzione:** E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
+**Distrattori:**
+- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_m) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_m) - tr(𝐈_n)
+- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
+- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+
+**D:** ⚠️ Quanto vale, nella tesi della slide 9 della lezione 25, E(σ_{ϵ^{OLS}}²|𝐱), e quanto il valore atteso incondizionato?
+**R:** Slide 9, «Dimostrazione»: «e quindi: **E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε²** (66) Calcolando infine il valore atteso incondizionato di ambo i lati della 66 si ha: E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = E[((n - m)/n)σ_ε²] = **[(n - m)/n]σ_ε²** da cui segue la tesi». Il docente: «il valore atteso della varianza dei residui OLS altro non è che n-m su n per la varianza» (transcript [00:09:02]). ⚠️ Il fattore è **(n - m)/n**, minore di 1: σ_{ϵ^{OLS}}² è distorto (deduzione). Il fattore inverso, n/(n - m), è quello del Corollario, che lega σ̂_ε² a σ_{ϵ^{OLS}}².
+**Opzione:** E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
+**Distrattori:**
+- E(σ_{ϵ^{OLS}}²|𝐱) = [n/(n - m)]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [n/(n - m)]σ_ε²
+- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+
+**D:** ⚠️ Quale quantità è, per il Corollario della slide 10 della lezione 25, uno stimatore non distorto della varianza dell'errore della regressione lineare?
+**R:** Slide 10, «Corollario»: «La quantità σ̂_ε² definita come: **σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}²** (67) è uno stimatore **non distorto** della varianza dell'errore della regressione lineare, i.e.: **E(σ̂_ε²) = σ_ε²** (68)». Il docente: «la sommatoria dei residui OLS al quadrato diviso n-m, e quindi n su n meno m per la varianza dei residui OLS, diversamente da prima, questo è uno stimatore non distorto» (transcript [00:09:32]–[00:09:46]). ⚠️ Il fattore è **n/(n - m)**, l'inverso di quello della (66), e lo compensa: [n/(n - m)][(n - m)/n]σ_ε² = σ_ε² (deduzione).
+**Opzione:** σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
+**Distrattori:**
+- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [(n - m)/n]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
+- B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
+
+**D:** ⚠️ Che cos'è l'errore standard della regressione (standard error of the regression), secondo la Definizione della slide 10 della lezione 25?
+**R:** Slide 10, «Definizione»: «La **radice quadrata di σ̂_ε²** è detta **errore standard della regressione** (in inglese: *standard error of the regression*)». Il docente: «La radice quadrata della varianza cappello dei residui è detta errore standard della regressione, in inglese standard error of the regression» (transcript [00:10:08]). ⚠️ È la radice di **σ̂_ε²**, lo stimatore **non distorto** del Corollario, con n - m al denominatore; non la radice di σ_{ϵ^{OLS}}², che è distorto.
+**Opzione:** La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
+**Distrattori:**
+- La radice quadrata di σ_{ϵ^{OLS}}², lo stimatore distorto della varianza dell'errore della regressione lineare
+- Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
+- E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+
+**D:** Perché σ_{ϵ^{OLS}}², nella lezione 25, sottostima in media la varianza dell'errore della regressione, e da dove viene il fattore che lo misura?
+**R:** Perché E(σ_{ϵ^{OLS}}²) = [(n - m)/n]σ_ε² (slide 9, (66)), e (n - m)/n è minore di 1 (deduzione: la slide dice solo «distorto»). Il fattore viene dalla **traccia** della matrice di generazione dei residui: E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε² (65), e tr(M) = tr(𝐈_n) - tr(𝐈_m) (slide 8), cioè n - m, perché la traccia di un'identità è il suo ordine (deduzione). Il docente: «altro non è la matrice identità che è n meno m su n per la varianza» (transcript [00:08:45]). Dividendo per n - m invece che per n si ottiene lo stimatore non distorto σ̂_ε² (67)–(68) (slide 10). ℹ️ Integrazione (non dai materiali del corso): poiché (n - m)/n tende a 1, σ_{ϵ^{OLS}}² è asintoticamente corretto nel senso della lezione 02.
+
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 11 della lezione 25 sullo stimatore dei minimi quadrati 𝛃̂^{OLS}?
+**R:** Slide 11, «Proposizione»: «Lo stimatore dei minimi quadrati 𝛃̂^{OLS} è uno stimatore **lineare e corretto (non distorto)** dei vettore 𝛃 dei coefficienti del modello di regressione lineare di cui alla 34, i.e.: **𝛃̂^{OLS} = A𝐲** (69) con A matrice di ordine **m × n**, e: **E(𝛃̂^{OLS}) = 𝛃** (70)» («dei vettore», sic). Il docente: «questo vuol dire che» 𝛃̂^{OLS} «è uguale ad A per y con A matrice di ordine m per n e soprattutto che il valore atteso del beta cappello OLS è uguale a beta» (transcript [00:10:25]–[00:10:49]). ⚠️ A è **m × n**: moltiplica 𝐲, n × 1, e dà un vettore m × 1, quanti sono i coefficienti (deduzione). Lineare è la (69), corretto la (70).
+**Opzione:** È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
+**Distrattori:**
+- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine n × m, e E(𝛃̂^{OLS}) = 𝛃
+- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
+- È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
+
+**D:** Da dove segue, nella slide 12 della lezione 25, la linearità di 𝛃̂^{OLS}, e che cosa c'è di strano nella matrice A che la slide scrive?
+**R:** Slide 12: «La linearità di 𝛃̂^{OLS}, data la definizione di stimatore lineare, segue direttamente dall'espressione 40 ponendo: **A := (𝐱′𝐱)^(-1)𝐱′𝐲**». Il docente legge allo stesso modo: «definito A come l'inversa di x trasposto x per x trasposto y è bella che dimostrata» (transcript [00:11:05]). ⚠️ Con 𝐲 dentro, A è già il vettore 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (40), e non una matrice m × n che moltiplica 𝐲 come vuole la (69) (sic). ℹ️ Integrazione (non dai materiali del corso): perché valga 𝛃̂^{OLS} = A𝐲, A è (𝐱′𝐱)^(-1)𝐱′; è anche la A della (79) della slide 20, A = B + (𝐱′𝐱)^(-1)𝐱′, con B = 0.
+
+**D:** ⚠️ A che cosa arriva la slide 13 della lezione 25 per E(𝛃̂^{OLS}|𝐱), portando fuori dal valore atteso (𝐱′𝐱)^(-1)𝐱′ (equazione 71)?
+**R:** Slide 12–13: E(𝛃̂^{OLS}|𝐱) = E((𝐱′𝐱)^(-1)𝐱′𝐲|𝐱) = E((𝐱′𝐱)^(-1)𝐱′(𝐱𝛃 + 𝛆)|𝐱) = E(𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆|𝐱) = 𝛃 + E((𝐱′𝐱)^(-1)𝐱′𝛆|𝐱); «poiché condizionatamente a 𝐱, (𝐱′𝐱)^(-1)𝐱′ è noto, esso può essere portato fuori dall'operatore valore atteso condizionato ottenendo: **E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)** (71)». Il docente: «Poiché condizionatamente alla matrice dei regressori l'inversa di x trasposto x per x trasposto è noto, può essere portato fuori dall'operatore valore atteso» (transcript [00:12:32]–[00:12:38]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ sta **a sinistra** di E(𝛆|𝐱); 𝐱(𝐱′𝐱)^(-1) è il fattore di destra della (74).
+**Opzione:** E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+**Distrattori:**
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 + 𝐱(𝐱′𝐱)^(-1)E(𝛆|𝐱)
+- Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
+- σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
+
+**D:** ⚠️ Quale uguaglianza vale, nella slide 13 della lezione 25, estendendo al caso multidimensionale l'ipotesi di esogeneità dell'equazione 12?
+**R:** Slide 13: «Estendendo al caso multidimensionale l'**ipotesi di esogeneità** di cui all'equazione 12, vale la seguente uguaglianza: **E(𝛆|𝐱) = 𝟎**». L'equazione 12 è la seconda assunzione della lezione 23: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo», E(ε_i|x_i) = 0. Sostituita nella (71), dà E(𝛃̂^{OLS}|𝐱) = 𝛃 (72) (slide 14). Il docente: «tenuto conto che il valore atteso dei residui condizionato a x è uguale a zero» (transcript [00:12:55]), con «residui» dove la slide ha gli errori. ⚠️ Si condizionano gli **errori** a **𝐱**, non il contrario.
+**Opzione:** E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+**Distrattori:**
+- E(𝐱|𝛆) = 𝟎: il valore atteso della variabile indipendente condizionato agli errori della regressione è nullo
+- E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
+- La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
+
+**D:** ⚠️ Come conclude la slide 14 della lezione 25 la tesi di non distorsione di 𝛃̂^{OLS}?
+**R:** Slide 14, «Dimostrazione»: «da cui, sostituendo all'interno del lato destro della 71, si ha: **E(𝛃̂^{OLS}|𝐱) = 𝛃** (72) Calcolando il valore atteso incondizionato di 𝛃̂^{OLS}, segue la tesi: **E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃** c.v.d.». Il docente: «applicando il valore atteso condizionato ci possiamo disfare dell'elemento di condizionamento del valore atteso e otteniamo quello che cercavamo, cioè che si tratta di uno stimatore corretto» (transcript [00:13:03]). ⚠️ Prima la non distorsione **condizionata** (72), poi quella **incondizionata** (70), con il valore atteso del valore atteso condizionato: è lo stesso passaggio della slide 9 per σ_{ϵ^{OLS}}².
+**Opzione:** E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
+**Distrattori:**
+- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝟎
+- La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
+- Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+
+**D:** ⚠️ A che cosa è pari, nella Proposizione della slide 15 della lezione 25, la matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱?
+**R:** Slide 15, «Proposizione»: «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱 è pari a: **Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²** (73)». Il docente: «la matrice varianza-covarianza dello stimatore dei minimi quadrati di beta condizionata a x è pari all'inversa di x trasposto x per la varianza dei residui» (transcript [00:13:27]); la slide ha σ_ε², la varianza dell'**errore**, non σ_{ϵ^{OLS}}². ⚠️ Tre pezzi: l'**inversa** di 𝐱′𝐱, σ_ε², il **condizionamento** a 𝐱. È la domanda 1 del test.
+**Opzione:** Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
+**Distrattori:**
+- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²
+- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
+- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+
+**D:** ⚠️ Da quale espressione di Var(𝛃̂^{OLS}|𝐱) parte la dimostrazione della slide 15 della lezione 25, usando la non distorsione di 𝛃̂^{OLS}?
+**R:** Slide 15, «Dimostrazione (continua)»: «Per la definizione di varianza si ha: Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} ossia, essendo 𝛃̂^{OLS} uno stimatore non distorto: = E{(𝛃̂^{OLS} - 𝛃)²|𝐱} ossia: = **E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}**». Il docente: «Aprendo questo quadrato in termini matriciali diventa lo stimatore dei minimi quadrati meno beta per lo stimatore dei minimi quadrati meno beta trasposto» (transcript [00:14:22]). ⚠️ Il trasposto sta **a destra**: il «quadrato» di un vettore m × 1 è qui una matrice m × m; con il trasposto a sinistra sarebbe uno scalare (deduzione dalle dimensioni).
+**Opzione:** Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+**Distrattori:**
+- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)′(𝛃̂^{OLS} - 𝛃)|𝐱}
+- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
+- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
+
+**D:** ⚠️ Quale espressione di Var(𝛃̂^{OLS}|𝐱) ottiene la slide 18 della lezione 25, portando fuori dal valore atteso le quantità note condizionatamente a 𝐱 (equazione 74)?
+**R:** Slide 17: «poichè condizionatamente a 𝐱 le quantità (𝐱′𝐱)^(-1)𝐱 e 𝐱(𝐱′𝐱)^(-1) sono note, esse possono essere portate fuori dall'operatore valore atteso condizionato» (la prima senza apice, sic). Slide 18: «**Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)** (74)». Il docente: la varianza «non è altro che l'inversa di x trasposto x per x trasposto per il valore atteso dei residui per i residui trasposti condizionati a x per x per l'inversa di x trasposto x» (transcript [00:16:40]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ **a sinistra**, 𝐱(𝐱′𝐱)^(-1) **a destra**, e in mezzo E(𝛆𝛆′|𝐱).
+**Opzione:** Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+**Distrattori:**
+- Var(𝛃̂^{OLS}|𝐱) = 𝐱(𝐱′𝐱)^(-1)E(𝛆𝛆′|𝐱)(𝐱′𝐱)^(-1)𝐱′
+- La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
+- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+
+**D:** ⚠️ Perché, nella (75) della slide 18 della lezione 25, Var(𝛆|𝐱) coincide con E(𝛆𝛆′|𝐱)?
+**R:** Slide 18: «A questo punto è utile ricordare che una delle assunzioni del modello lineare è che il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12). Pertanto si ha: **Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)** (75)» (il secondo prodotto senza apice, sic). Il docente: «possiamo ricordare una delle assunzioni del modello lineare cioè che il valore atteso degli errori della regressione condizionata al valore della variabile indipendente è nullo» (transcript [00:16:58]). ⚠️ È l'**esogeneità** a cancellare il secondo termine; l'**omoschedasticità** (35) e la non autocorrelazione (36) danno poi Var(𝛆|𝐱) = σ_ε²𝐈_n.
+**Opzione:** Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+**Distrattori:**
+- Perché gli errori della regressione hanno tutti la stessa varianza (omoschedasticità): Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
+- Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
+
+**D:** ⚠️ Come si arriva alla tesi (73) alla fine della slide 18 della lezione 25?
+**R:** Slide 18: «Ne discende che l'equazione 74 può essere riscritta come: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′Var(𝛆|𝐱)𝐱(𝐱′𝐱)^(-1) ossia, ricordando che **Var(𝛆|𝐱) = σ_ε²𝐈_n**: = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε² semplificando segue la tesi», (𝐱′𝐱)^(-1)σ_ε². Il docente: «ricordando che la varianza dei residui su x non è altro che la varianza dei residui per la matrice identità otteniamo la tesi» (transcript [00:17:28]–[00:17:52]). ⚠️ L'identità è di ordine **n**, come 𝛆, che è n × 1; si semplifica 𝐱′𝐱(𝐱′𝐱)^(-1), che dà l'identità di ordine m (deduzione).
+**Opzione:** Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+**Distrattori:**
+- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_m: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+
+**D:** ⚠️ Che cosa afferma il Teorema di Gauss-Markov 1 della slide 19 della lezione 25?
+**R:** Slide 19, «Teorema»: «**Teorema di Gauss-Markov 1** Sia 𝛃̂∗ uno stimatore **lineare non distorto** per il vettore dei parametri 𝛃 **diverso** dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} anch'essa condizionata a 𝐱 è una **matrice semi-definita positiva**». Il docente: «sia beta star uno stimatore lineare non distorto per il vettore dei parametri beta, diverso dallo stimatore beta dei minimi quadrati. Allora la differenza tra la matrice varianza covarianza del stimatore beta star condizionato a x e quella dello stimatore dei minimi quadrati anch'essa condizionata a x è una matrice semidefinita positiva» (transcript [00:18:17]–[00:18:32]). ⚠️ La differenza è **𝛃̂∗ meno 𝛃̂^{OLS}**, ed è semi-definita **positiva**, non negativa: è il senso in cui, per la Nota della slide 28, 𝛃̂^{OLS} è il più efficiente fra gli stimatori lineari e non distorti.
+**Opzione:** Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
+**Distrattori:**
+- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita negativa
+- È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
+- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
+
+**D:** ⚠️ Quali due ipotesi su 𝛃̂∗ usa la dimostrazione del Teorema di Gauss-Markov nella slide 19 della lezione 25, e come si scrivono?
+**R:** Slide 19, «Dimostrazione (continua)»: «Poichè per ipotesi 𝛃̂∗ è uno stimatore **non distorto** per il vettore dei parametri 𝛃, si ha: **E(𝛃̂∗|𝐱) = 𝛃** (76) Inoltre, essendo per ipotesi 𝛃̂∗ anche uno stimatore **lineare**, si ha: **𝛃̂∗ = A𝐲** (77) dove A è una matrice di ordine m × n, il che permette di riesprimere la 76 come: **E(A𝐲|𝐱) = 𝛃** (78)». Il docente: «Per ipotesi beta star, lo stimatore beta star è non distorto»; «Poiché beta star è uno stimatore lineare, beta star è uguale ad a per y, dove a è una matrice di ordine m per n» (transcript [00:18:49]–[00:18:59]). ⚠️ La non distorsione è la (76), la linearità la (77); messe insieme danno la (78), che vale **𝛃**, non il vettore nullo: 𝟎 è il valore della (81), E(B𝐲|𝐱) = 𝟎.
+**Opzione:** Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
+**Distrattori:**
+- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝟎 (78)
+- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
+- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+
+**D:** ⚠️ Come viene riespressa la matrice A nella slide 20 della lezione 25 (equazione 79)?
+**R:** Slide 20: «Riesprimendo la matrice A come segue: **A = B + (𝐱′𝐱)^(-1)𝐱′** (79) la 78 diventa: E((B + (𝐱′𝐱)^(-1)𝐱′)𝐲|𝐱) = 𝛃 ossia, in base all'equazione 40: E(B𝐲 + 𝛃̂^{OLS}|𝐱) = 𝛃». Il docente: «Esprimendo la matrice A come B più l'inversa di x trasposto x per x trasposto» (transcript [00:19:16]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ è m × n, come A, e moltiplicato per 𝐲 dà 𝛃̂^{OLS}: B misura quanto 𝛃̂∗ si scosta dallo stimatore OLS (deduzione). 𝐱(𝐱′𝐱)^(-1)𝐱′ è invece la matrice di proiezione P della lezione 24, n × n.
+**Opzione:** A = B + (𝐱′𝐱)^(-1)𝐱′
+**Distrattori:**
+- A = B + 𝐱(𝐱′𝐱)^(-1)𝐱′
+- Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
+- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
+
+**D:** ⚠️ Che cosa deve valere, nella slide 21 della lezione 25, perché sia verificata l'uguaglianza 80, E(B𝐲|𝐱) + E(𝛃̂^{OLS}|𝐱) = 𝛃?
+**R:** Slide 21: «Considerato che 𝛃̂^{OLS} è uno stimatore non distorto di 𝛃 e, in particolare, che E(𝛃̂^{OLS}|𝐱) = 𝛃 (cfr. equazione 72), affinchè l'uguaglianza 80 sia verificata **deve essere**: **E(B𝐲|𝐱) = 𝟎** (81)». Il docente dice «è sufficiente»: «affinché la precedente uguaglianza sia verificata è sufficiente che il valore atteso di By condizionato a x sia uguale a 0» (transcript [00:19:53]). ⚠️ Se E(𝛃̂^{OLS}|𝐱) vale già 𝛃, l'altro addendo deve essere il vettore **nullo**, non 𝛃.
+**Opzione:** Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+**Distrattori:**
+- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝛃 (81)
+- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
+- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+
+**D:** ⚠️ A che cosa si riduce la condizione di non distorsione di 𝛃̂∗ nella slide 22 della lezione 25 (equazione 82), e perché?
+**R:** Slide 21: con la (34), E(B(𝐱𝛃 + 𝛆)|𝐱) = 𝟎, cioè E(B𝐱𝛃|𝐱) + E(B𝛆|𝐱) = 𝟎, e, portate fuori le quantità note, «la condizione di non distorsione dello stimatore 𝛃̂∗ diventa: 𝛃B𝐱 + B · E(𝛆|𝐱) = 𝟎» (𝛃B𝐱, sic). Slide 22: «che, ricordando che per ipotesi del modello lineare il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12), diventa semplicemente: **B𝐱 = 0** (82)». Il docente: «la sezione precedente diventa banalmente bx uguale 0» (transcript [00:20:55]–[00:21:05]). ⚠️ L'ordine è **B𝐱**, non 𝐱B: B è m × n e 𝐱 è n × m (deduzione).
+**Opzione:** B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+**Distrattori:**
+- 𝐱B = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
+- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
+
+**D:** ⚠️ Quale relazione fra le matrici varianze-covarianze di 𝛃̂∗ e di 𝛃̂^{OLS} ottiene la slide 27 della lezione 25 (equazione 84)?
+**R:** Slide 26: … «= σ_ε²(BB′ + 𝐱(𝐱′𝐱)^(-1)) ossia per la 73:» (l'ultimo addendo come nella slide, sic). Slide 27: «**Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱)** (84) da cui discende che la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionatamente a 𝐱 e quella di 𝛃̂^{OLS} anch'essa condizionatamente a 𝐱 è la matrice **σ_ε²BB′**». Il docente: «la varianza dello stimatore beta star è uguale alla varianza» σ_ε² «che moltiplica B, B trasposto, più la varianza dello stimatore dei minimi quadrati condizionato alla matrice dei regressori» (transcript [00:25:41]–[00:25:48]). ⚠️ **BB′**, non B′B: con B di ordine m × n, BB′ è m × m come le matrici varianze-covarianze (deduzione).
+**Opzione:** Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
+**Distrattori:**
+- Var(𝛃̂∗|𝐱) = σ_ε²B′B + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²B′B
+- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
+- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+
+**D:** ⚠️ Perché, nella slide 27 della lezione 25, BB′ è una matrice semi-definita positiva, e perché lo è anche σ_ε²BB′?
+**R:** Slide 27: «Si osserva ora che, essendo BB′ una matrice simmetrica di ordine m, **per ogni vettore colonna v m-dimensionale**, il vettore z così definito: **z := B′v** è tale che: **z′z = (B′v)′B′v = v′BB′v** e quindi BB′ è una matrice semi-definita positiva. Considerando infine che **σ_ε² > 0**, anche σ_ε²BB′ è una matrice semi-definita positiva. c.v.d.». Il docente: «per ogni vettore colonna V M dimensionale il vettore Z risulta definito come B trasposto per V» (transcript [00:26:15]); «Considerando infine che la varianza» σ_ε² «è maggiore di zero» ([00:26:43]). ⚠️ v è **m**-dimensionale, come l'ordine di BB′: B′ è n × m e moltiplica un vettore di m componenti (deduzione dalle dimensioni). ℹ️ Integrazione (non dai materiali del corso): z′z è una somma di quadrati, quindi v′BB′v ≥ 0.
+**Opzione:** Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+**Distrattori:**
+- Perché, per ogni vettore colonna v n-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+- σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
+- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+
+**D:** ⚠️ Che cosa indica, per la Nota della slide 28 della lezione 25, il risultato del Teorema di Gauss-Markov 1?
+**R:** Slide 28, «Nota»: «Il risultato di cui al Teorema di Gauss-Markov 1 indica che, **per 𝐱 fissato**, lo stimatore dei minimi quadrati ordinari, 𝛃̂^{OLS}, è quello **più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased)**». Il docente: «fissata la matrice dei regressori, lo stimatore dei minimi quadrati è quello più efficiente, cioè quello a varianza minima, è il più efficiente tra quelli lineari e quelli non distorti» (transcript [00:27:03]). ⚠️ L'ambito è la classe degli stimatori **lineari e non distorti**: il teorema non confronta 𝛃̂^{OLS} con stimatori non lineari o distorti, e la slide dice «lineari e non distorti», non due classi separate.
+**Opzione:** Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+**Distrattori:**
+- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra tutti gli stimatori, anche non lineari o distorti
+- La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
+- E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
+
+**D:** ⚠️ Perché si dice, nella slide 28 della lezione 25, che 𝛃̂^{OLS} è uno stimatore BLUE, e come scioglie la slide l'acronimo?
+**R:** Slide 28: «Per tale motivo» — perché è il più efficiente tra gli stimatori lineari e non distorti — «si dice che esso è uno **stimatore BLUE**, ove BLUE è l'acronimo di **Best Unbiased Linear Estimator**, vale a dire il **miglior stimatore lineare non distorto**». Il docente: «si dice che» è «uno stimatore BLUE, dove BLUE sta per Best Unbiased Linear Estimator, cioè il miglior stimatore lineare non distorto» (transcript [00:27:23]). ⚠️ «Best» è il **più efficiente**, a varianza minima; non c'è «Least squares» nell'acronimo. ℹ️ Integrazione (non dai materiali del corso): nella letteratura l'acronimo si scioglie di solito *Best Linear Unbiased Estimator*, l'ordine che dà le lettere B-L-U-E; la traduzione italiana è la stessa.
+**Opzione:** Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
+**Distrattori:**
+- Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Least-squares Estimator, il miglior stimatore dei minimi quadrati non distorto
+- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
+- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
+
+**D:** Che ruolo ha la condizione B𝐱 = 0 nella seconda parte della dimostrazione del Teorema di Gauss-Markov (slide 23–27 della lezione 25)?
+**R:** È la «condizione di non distorsione» di 𝛃̂∗ (82), e la dimostrazione la usa due volte. Nella slide 24, «Richiamando la condizione di non distorsione di 𝛃̂∗ nella formulazione di cui alla 82», cancella B𝐱𝛃 dalla (83), Var(𝛃̂∗|𝐱) = E{[B𝐱𝛃 + (B + (𝐱′𝐱)^(-1)𝐱′)𝛆][…]′|𝐱}. Nella slide 26, «utilizzando nuovamente la condizione di non distorsione di 𝛃̂∗», cancella i termini misti (𝐱′𝐱)^(-1)𝐱′B′ e B𝐱(𝐱′𝐱)^(-1), che contengono B𝐱 o la sua trasposta (deduzione). Il docente: «richiamiamo la condizione non distorsione» (transcript [00:23:04]); «Utilizzando nuovamente la condizione di non distorsione» ([00:25:26]). Resta σ_ε²BB′ più la varianza dello stimatore OLS, la (84).
+
+**D:** Che differenza c'è, nella lezione 25, fra varianza dell'errore e varianza dei residui, e come le chiama il docente?
+**R:** Le slide le distinguono anche nel glifo. **σ_ε²**, con la ε dell'**errore**, è la varianza dell'errore della regressione: compare nelle (66), (68), (73) e (84) e la stima senza distorsione σ̂_ε² (slide 10). **σ_{ϵ^{OLS}}²**, con la ϵ del **residuo**, è la varianza dei residui OLS della (60), costruita sui residui ϵ_i^{OLS} e distorta (slide 2). Il docente chiama «varianza dei residui» anche σ_ε²: «il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]), «per la varianza dei residui» nella (73) ([00:13:27]) e nella (84) ([00:25:48]), e dice «residui» per gli errori 𝛆 dell'esogeneità ([00:12:55]). Per le domande d'esame vale la slide. Anche il test lo confonde: la domanda 4 chiama «media dell'errore» la media dei residui μ_ϵ (61).
+
+**D:** ⚠️ A che cosa è pari la matrice varianze-covarianze dello stimatore dei minimi quadrati bOLS condizionato a x, secondo il test della lezione 25 (domanda 1)?
+**R:** «**Var (bOLS|x)=(x'x)-1s2e**», cioè Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²: è la (73) della Proposizione della slide 15, «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱 è pari a: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²». Il docente: «è pari all'inversa di x trasposto x per la varianza» (transcript [00:13:27]). ⚠️ La domanda è **difettosa**: le opzioni **B e C sono identiche** parola per parola, ed entrambe sono la (73); la piattaforma segna la C. Va riconosciuta la formula, non la lettera. Distrattori del test, nessuno nei materiali: «Var (bOLS|x)=(x'x)» perde l'inversa e σ_ε²; «Var (bOLS)=(x'x)-1s2e» perde il condizionamento a 𝐱.
+**Opzione:** Var (bOLS|x)=(x'x)-1s2e
+**Distrattori:**
+- Var (bOLS|x)=(x'x)
+- Var (bOLS)=(x'x)-1s2e
+
+**D:** ⚠️ Che tipo di stimatore è la quantità s2eOLS, secondo il test della lezione 25 (domanda 2)?
+**R:** «**distorto di s2e**»: σ_{ϵ^{OLS}}² è uno stimatore distorto di σ_ε², la Proposizione della slide 2, «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare» (transcript [00:00:53]). Distrattori del test: «non distorto di s2e» è la proprietà di σ̂_ε², con n - m al denominatore (Corollario, slide 10): oggetto scambiato. «adattato di s2e» usa un aggettivo che nel corso è dei processi stocastici adattati a una filtrazione (lezione 06), non degli stimatori; «non rbusto di s2e» (sic) parla di robustezza, che nei materiali non c'è. ⚠️ La domanda 5 fa la stessa affermazione.
+**Opzione:** distorto di s2e
+**Distrattori:**
+- non distorto di s2e
+- adattato di s2e
+- non rbusto di s2e
+
+**D:** ⚠️ Come è definita la quantità s2eOLS, secondo il test della lezione 25 (domanda 3)?
+**R:** 🚨 **La chiave della piattaforma è sbagliata.** La piattaforma segna «s2eOLS = Si(eiOLS - me)», senza quadrato e senza divisione per n: non è una varianza, è la somma degli scarti dalla media, che vale zero per costruzione (deduzione). La definizione è la (60) della slide 2, σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, cioè l'opzione B, «**s2eOLS = Si(eiOLS - me)2/n**». Il docente: «la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n» (transcript [00:00:31]). L'opzione D, «s2eOLS = Si(eiOLS)2/n», è vera nel valore: è la riscrittura della slide 3 con μ_ϵ = 0, ma non è la definizione. La A, «s2eOLS = Si(eiOLS - me)2», perde la divisione per n. ⚠️ All'esame la domanda potrebbe essere corretta secondo la chiave C. La stessa espressione della chiave è il distrattore C della domanda 4. Conferma incrociata dal test della lezione 26, domanda 2: la chiave «s2e = s2eOLS n/(n-m)» è la (67), σ̂_ε² = [n/(n - m)]σ_{ϵ^{OLS}}², e il fattore n/(n - m) presuppone che σ_{ϵ^{OLS}}² sia divisa per n, come nella B; fra i distrattori di quella domanda tornano le espressioni A, C e D di questa, compresa la chiave C.
+**Opzione:** s2eOLS = Si(eiOLS - me)2/n
+**Distrattori:**
+- s2eOLS = Si(eiOLS - me)2
+- s2eOLS = Si(eiOLS - me)
+
+**D:** ⚠️ Come è definita la media dell'errore della regressione lineare, secondo il test della lezione 25 (domanda 4)?
+**R:** «**me = SieiOLS/n**», cioè μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n: è la (61) della slide 2. Il docente: «la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:31]–[00:00:49]). ⚠️ Il test dice «media dell'**errore**», la slide e il docente la media dei **residui** OLS. Distrattori del test: «me = SieiOLS» perde la divisione per n ed è la somma, che per la (47) vale zero; «meOLS = Si(eiOLS - me)» è la somma degli scarti dalla media, la stessa espressione della chiave della domanda 3; «m2eOLS = Si(eiOLS - me)2/n» ha a destra la (60), cioè σ_{ϵ^{OLS}}², con a sinistra un nome che le slide non hanno. ⚠️ Il pool è condiviso con la domanda 3.
+**Opzione:** me = SieiOLS/n
+**Distrattori:**
+- me = SieiOLS
+- meOLS = Si(eiOLS - me)
+- m2eOLS = Si(eiOLS - me)2/n
+
+**D:** ⚠️ La relazione E(s2eOLS ) ≠ s2e è vera o falsa, secondo il test della lezione 25 (domanda 5)?
+**R:** «**vera**»: è la Proposizione della slide 2, σ_{ϵ^{OLS}}² «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²», dimostrata nella slide 9, E[σ_{ϵ^{OLS}}²] = [(n - m)/n]σ_ε². Il docente: «il valore atteso di questa varianza è diverso» (transcript [00:00:53]); «n-m su n per la varianza» ([00:09:02]). Distrattori del test: «falsa» è il contrario; «è pari a infinito» e «non si può calcolare» non sono nei materiali, e la slide 9 il valore atteso lo calcola. ⚠️ È la stessa affermazione della domanda 2.
+**Opzione:** vera
+**Distrattori:**
+- è pari a infinito
+- non si può calcolare
+- falsa
