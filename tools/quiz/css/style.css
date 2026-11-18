@@ -139,6 +139,13 @@ input[type="number"] {
 .toggle input[type="checkbox"]:disabled { cursor: default; }
 .toggle input[type="checkbox"]:disabled + span { color: var(--muted); }
 .toggle .hint { margin: 0; }
+/* Scelta a più voci (test delle sincrone): stesso peso visivo di .toggle. */
+.choice { margin: .35rem 0 0; padding: 0; border: 0; min-width: 0; }
+.choice legend { padding: 0; margin-bottom: .2rem; font-weight: 600; font-size: .95rem; }
+.choice-options { display: flex; flex-wrap: wrap; gap: .3rem 1.1rem; }
+.choice-options label { display: flex; align-items: center; gap: .4rem; font-size: .95rem; cursor: pointer; }
+.choice input[type="radio"] { width: 1.05rem; height: 1.05rem; margin: 0; accent-color: var(--accent); cursor: pointer; }
+.choice .hint { margin: .15rem 0 0; }
 
 /* elenco delle lezioni del filtro: UNA PER RIGA e altezza limitata. Su due
    colonne il titolo va troncato, e i titoli si somigliano troppo perché un

@@ -59,69 +59,93 @@ jobs:
     name: Live site
     needs: contenuto
     runs-on: ubuntu-latest
+    # A cap, not a guarantee: ten minutes of waiting for Pages plus a few
+    # minutes of retries fit with room to spare, while a Pages so slow that
+    # every path burns its 30 s timeouts would still exceed it. Then the run
+    # ends as a job timeout instead of the step's own message, which beats
+    # the six-hour default.
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
       # Waits for Pages to publish THIS commit, identified by the service
       # worker version — which is a hash of the exported content, so it is an
-      # exact match and not a guess.
+      # exact match and not a guess. The limit is a deadline, not a count of
+      # attempts: a slow answer must not stretch the ten minutes.
       - name: Wait for Pages to publish this commit
         run: |
           atteso=$(grep -o "VERSIONE = '[^']*'" sw.js)
-          for i in $(seq 1 40); do
-            vivo=$(curl -fsS https://lm77-quiz.github.io/sw.js 2>/dev/null | grep -o "VERSIONE = '[^']*'" || true)
+          scadenza=$(( $(date +%s) + 600 ))
+          while [ "$(date +%s)" -lt "$scadenza" ]; do
+            vivo=$(curl -fsS --connect-timeout 10 --max-time 30 https://lm77-quiz.github.io/sw.js 2>/dev/null | grep -o "VERSIONE = '[^']*'" || true)
             [ "$vivo" = "$atteso" ] && { echo "published: $atteso"; exit 0; }
             sleep 15
           done
           echo "::error::Pages did not publish this commit within 10 minutes (expected $atteso)"
           exit 1
 
-      # Right after a deployment Pages may answer 5xx for a few seconds (a 503
-      # on a path that was a 404 a moment later failed run c7fcebc). A 5xx, or
-      # 000 when curl gets no answer at all, says nothing about the path, so
-      # each request is retried; only a real answer counts.
+      # Pages answers 503 to a share of the requests for MISSING paths (about
+      # one in three since the afternoon of 16 Nov 2026, across several deploys;
+      # existing files were never affected), sometimes several times in a row
+      # on the same path. A 5xx,
+      # or 000 when curl gets no answer at all, says nothing about the path,
+      # so each request is retried with growing pauses (about two minutes in
+      # all); only a real answer counts. The same goes for 408 and 429, which
+      # say "not now", and for 000, which includes a request that times out
+      # before any answer arrives.
       - name: Everything the app needs is served
         run: |
           codice() {
-            for t in 1 2 3 4 5; do
-              c=$(curl -s -o /dev/null -w '%{http_code}' "$1")
-              case "$c" in 5??|000) sleep 10 ;; *) break ;; esac
+            for pausa in 0 2 3 5 8 10 15 20 30 30; do
+              sleep "$pausa"
+              c=$(curl -s -o /dev/null -w '%{http_code}' --connect-timeout 10 --max-time 30 "$1")
+              case "$c" in 5??|000|408|429) ;; *) break ;; esac
             done
             echo "$c"
+          }
+          # A transient code that outlasts the retries is not a missing file.
+          servito() {
+            code=$(codice "https://lm77-quiz.github.io/$1")
+            echo "  $code  /$1"
+            case "$code" in
+              200) ;;
+              5??|000|408|429) echo "::error::/$1 could not be checked ($code after 10 attempts)"; exit 1 ;;
+              *) echo "::error::/$1 returned $code"; exit 1 ;;
+            esac
           }
           for p in "" tools/quiz/ sw.js tools/quiz/manifest.webmanifest \
                    tools/quiz/config-pubblico.json tools/quiz/icone/icona-512.png \
                    tools/quiz/icone/apple-touch-icon.png tools/quiz/exams.json; do
-            code=$(codice "https://lm77-quiz.github.io/$p")
-            echo "  $code  /$p"
-            [ "$code" = 200 ] || { echo "::error::/$p returned $code"; exit 1; }
+            servito "$p"
           done
           for s in $(ls exams); do
-            code=$(codice "https://lm77-quiz.github.io/exams/$s/flashcards.md")
-            echo "  $code  /exams/$s/flashcards.md"
-            [ "$code" = 200 ] || { echo "::error::flashcards of $s returned $code"; exit 1; }
+            servito "exams/$s/flashcards.md"
           done
 
       # The mirror image: what must NOT be reachable, checked against the
       # deployment rather than against the tree. Only a real answer other than
-      # 404 means reachable; a 5xx that outlasts the retries still fails the
-      # job, but as "could not be checked", not as a leak.
+      # 404 means reachable; a transient code that outlasts the retries still
+      # fails the job, but as "could not be checked", not as a leak.
+      # There is no probe for notes/: Pages answers 404 for any directory
+      # without an index.html, whatever it contains, so the probe could never
+      # see a leak. The committed-tree job above catches that folder by name.
       - name: Private material is not reachable
         run: |
           codice() {
-            for t in 1 2 3 4 5; do
-              c=$(curl -s -o /dev/null -w '%{http_code}' "$1")
-              case "$c" in 5??|000) sleep 10 ;; *) break ;; esac
+            for pausa in 0 2 3 5 8 10 15 20 30 30; do
+              sleep "$pausa"
+              c=$(curl -s -o /dev/null -w '%{http_code}' --connect-timeout 10 --max-time 30 "$1")
+              case "$c" in 5??|000|408|429) ;; *) break ;; esac
             done
             echo "$c"
           }
           for s in $(ls exams); do
-            for p in "exams/$s/notes/" "exams/$s/README.md" "exams/$s/glossario.md" "exams/$s/lezioni-sincrone.md"; do
+            for p in "exams/$s/README.md" "exams/$s/glossario.md" "exams/$s/lezioni-sincrone.md"; do
               code=$(codice "https://lm77-quiz.github.io/$p")
               echo "  $code  /$p"
               case "$code" in
                 404) ;;
-                5??|000) echo "::error::/$p could not be checked ($code after 5 attempts)"; exit 1 ;;
+                5??|000|408|429) echo "::error::/$p could not be checked ($code after 10 attempts)"; exit 1 ;;
                 *) echo "::error::/$p is reachable ($code)"; exit 1 ;;
               esac
             done

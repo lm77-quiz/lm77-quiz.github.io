@@ -5,7 +5,7 @@ import { mdInline } from '../md-inline.js';
 import { summarize } from '../storage.js';
 import {
   countReviewable, planSimCounts, SIM_TOTAL, cardHasMcq,
-  lessonPool, splitRecentLessons, compactLessons, attemptTotals, buildPool, lessonLabel,
+  lessonPool, splitRecentLessons, compactLessons, attemptTotals, buildPool, syncChoice, lessonLabel,
 } from '../engine.js';
 import { repoUrl } from '../discovery.js';
 import { fmtDate, modeLabel } from './common.js';
@@ -155,14 +155,13 @@ export function renderConfig(root, ctx) {
   const totCards = exam.cards.length;
   const totCardsMcq = exam.cards.filter(cardHasMcq).length;
   // Test delle lezioni sincrone: solo in privato (vedi `fetchSincrone`), fuori
-  // da `exam.questions` e dal filtro per lezione. Entrano nel pool solo con il
-  // loro interruttore, spento di default e ricordato per esame.
-  // Preferenza: `true`, `false` o `'solo'` (filtro acceso senza lezioni, cioè
-  // prova di sole sincrone: vedi `rememberConfig`).
+  // da `exam.questions` e dal filtro per lezione. Una scelta a tre voci,
+  // ricordata per esame: `false` esclusi (il default), `true` aggiunti ai quiz,
+  // `'solo'` soli test delle dirette (vedi `syncChoice` e `buildPool`).
   const syncQs = exam.syncQuestions || [];
   const totSync = syncQs.length;
-  const syncPref = (prefs.sincrone || {})[exam.slug];
-  let syncOn = totSync > 0 && (syncPref === true || syncPref === 'solo');
+  let syncMode = totSync > 0 ? syncChoice((prefs.sincrone || {})[exam.slug]) : false;
+  const syncSolo = () => syncMode === 'solo';
   // Il pool vero delle flashcard: quelle escluse dall'utente nel riepilogo non
   // entrano in nessuna prova, quindi da qui in giù cursori, conteggi per
   // lezione e «Ripassa errori» le ignorano. Le pillole qui sotto restano sui
@@ -225,14 +224,16 @@ export function renderConfig(root, ctx) {
   // Si intersecano con le lezioni esistenti: una selezione salvata prima che i
   // materiali cambiassero non deve svuotare la prova in silenzio.
   const selected = new Set(savedLessons.filter((n) => known.has(n)));
-  // Il filtro risulta acceso anche senza lezioni scelte quando l'ultima prova
-  // era di sole sincrone: è l'unico modo di ricordarlo.
-  let filterOn = selected.size > 0 || (syncOn && syncPref === 'solo');
+  // La prova di sole sincrone ha una voce sua, quindi il filtro si ricorda
+  // soltanto con le lezioni scelte.
+  let filterOn = selected.size > 0;
 
   // Pool EFFETTIVO della prova. Sono `let` perché le hint dei cursori e i piani
   // li rileggono a ogni cambio di selezione, senza ridisegnare la schermata.
   let nMcq = 0;
   let nCards = 0;
+  // Le sincrone sono davvero nel pool (aggiunte, e il pool non è vuoto)?
+  let syncIn = false;
   let nCardsMcq = 0;
   let pool = 0;
   let poolItems = [];
@@ -242,15 +243,16 @@ export function renderConfig(root, ctx) {
     // questo caso i contatori mostrerebbero l'intero esame mentre i bottoni
     // sono disabilitati, che è una bugia a schermo.
     // Stessa regola di startSession (`buildPool`): le sincrone fuori dal
-    // filtro, e filtro senza lezioni + sincrone = prova di sole sincrone.
+    // filtro, e la prova di sole sincrone solo con la sua voce.
     const list = filterOn ? Array.from(selected) : [];
     const built = buildPool(
       { questions: exam.questions, syncQuestions: syncQs, cards: cardsPool },
-      { lessons: list, filterOn, sincrone: syncOn },
+      { lessons: list, filterOn, sincrone: syncMode },
     );
     const qs = built.questions;
     const cs = built.cards;
     nMcq = qs.length;
+    syncIn = syncMode === true && qs.length > 0;
     nCards = cs.length;
     nCardsMcq = cs.filter(cardHasMcq).length;
     pool = nMcq + nCards;
@@ -275,9 +277,16 @@ export function renderConfig(root, ctx) {
   let total = plan.total;
   let wantMcq = plan.mcq;
 
-  const mcqHint = (p) => `Disponibili: ${nMcq}. In simulazione: da ${p.mcqMin} a ${p.mcqMax}; il resto del totale viene completato con le flashcard.`;
+  // Con le sincrone aggiunte il numero dei disponibili le comprende: lo si
+  // scompone, perché «325» da solo fa pensare a un limite che non c'è.
+  // Con le sole sincrone non c'è niente da scomporre: la scomposizione compare
+  // solo se ci sono anche le videolezioni.
+  const mcqSplit = () => (syncIn && totSync < nMcq ? ` (${nMcq - totSync} dalle videolezioni + ${totSync} dalle sincrone)` : '');
+  const mcqHint = (p) => (syncSolo()
+    ? `Disponibili: ${nMcq}, tutte dai test delle sincrone. In simulazione: da ${p.mcqMin} a ${p.mcqMax}.`
+    : `Disponibili: ${nMcq}${mcqSplit()}. In simulazione: da ${p.mcqMin} a ${p.mcqMax}; il resto del totale viene completato con le flashcard.`);
   const cardHint = (p) => `Disponibili: ${nCards}${nCardsMcq ? ` (${nCardsMcq} con distrattori curati)` : ''}. In simulazione: da ${p.cardMin} a ${p.cardMax}. Quelle giocate a risposta multipla entrano nel blocco dei quiz e si correggono alla consegna; quelle ad autovalutazione vengono dopo.`;
-  const totalHint = () => `Lunghezza della prova: da 1 a ${pool} (${filterOn ? 'gli item delle lezioni scelte' : 'tutti gli item disponibili'}${syncOn ? ', più i test delle sincrone' : ''}). Default: ${SIM_TOTAL}.`;
+  const totalHint = () => `Lunghezza della prova: da 1 a ${pool} (${syncSolo() ? 'i soli test delle sincrone' : `${filterOn ? 'gli item delle lezioni scelte' : 'tutti gli item disponibili'}${syncIn ? ', più i test delle sincrone' : ''}`}). Default: ${SIM_TOTAL}.`;
 
   const totalCounter = counter({
     id: 'total-count',
@@ -357,7 +366,9 @@ export function renderConfig(root, ctx) {
     mcqCounter.setHint(mcqHint(next));
     cardCounter.setHint(cardHint(next));
     totalLine.textContent = totalText(next);
-    const short = next.insufficient && next.total > 0;
+    // Con «Solo questi test» la prova è corta per scelta, non per mancanza di
+    // materiali: l'avviso lì non dice niente di utile.
+    const short = next.insufficient && next.total > 0 && !syncSolo();
     poolNote.hidden = !short;
     if (short) {
       poolNote.textContent = `Gli item disponibili sono ${next.total} in tutto (${nMcq} quiz + ${nCards} flashcard): la prova da ${next.target} non è raggiungibile.`;
@@ -376,23 +387,36 @@ export function renderConfig(root, ctx) {
   // --- selezione delle lezioni (UI) ----------------------------------------
   const lessonHint = el('p', { class: 'hint', 'aria-live': 'polite' });
 
-  // Interruttore dei test delle sincrone. Esiste solo se l'esame ha un registro
-  // con domande: mai nella build pubblica, che il registro non lo esporta.
-  const syncInput = el('input', { type: 'checkbox', id: 'sync-tests', checked: syncOn });
-  syncInput.addEventListener('change', () => {
-    syncOn = syncInput.checked;
-    onLessonChange();
-  });
+  // Scelta dei test delle sincrone. Esiste solo se l'esame ha un registro con
+  // domande: mai nella build pubblica, che il registro non lo esporta. Tre voci
+  // e non una casella: «aggiunti» e «solo questi» sono prove diverse, e la
+  // seconda non deve passare da un gesto sul filtro per lezione.
   const syncLessons = new Set(syncQs.map((q) => q.lesson)).size;
-  const syncToggle = totSync ? el('p', { class: 'toggle' }, [
-    el('label', { for: 'sync-tests' }, [
-      syncInput,
-      el('span', { text: ' Test delle lezioni sincrone' }),
-    ]),
-    el('span', {
-      class: 'hint',
-      text: `${totSync} domande dai test di ${syncLessons} ${syncLessons === 1 ? 'diretta' : 'dirette'}: si aggiungono ai quiz e non seguono il filtro per lezione. Per una prova di sole sincrone, accendi il filtro e deseleziona tutte le lezioni.`,
-    }),
+  // Frasi senza accordi da fare: il numero delle domande può essere 1.
+  const syncWhat = `${totSync} ${totSync === 1 ? 'domanda' : 'domande'} ${syncLessons === 1 ? 'dal test di 1 diretta' : `dai test di ${syncLessons} dirette`}`;
+  const syncHintText = () => (syncSolo()
+    ? `${syncWhat}: la prova pesca solo da qui, senza quiz delle videolezioni né flashcard.`
+    : syncMode
+      ? `${syncWhat}: in aggiunta ai quiz delle videolezioni, fuori dal filtro per lezione.`
+      : `${syncWhat}: fuori dalla prova.`);
+  // Non è una regione live: a ogni clic cambia anche l'hint delle lezioni, che
+  // lo è, e un lettore di schermo leggerebbe due messaggi per un gesto solo.
+  const syncHint = el('p', { class: 'hint', text: syncHintText() });
+  const syncChoices = [[false, 'no', 'Esclusi'], [true, 'si', 'Aggiunti ai quiz'], ['solo', 'solo', 'Solo questi test']]
+    .map(([value, key, text]) => {
+      const input = el('input', { type: 'radio', name: 'sync-mode', id: `sync-${key}`, checked: syncMode === value });
+      input.addEventListener('change', () => {
+        if (!input.checked) return;
+        syncMode = value;
+        syncHint.textContent = syncHintText();
+        onLessonChange();
+      });
+      return el('label', { for: `sync-${key}` }, [input, el('span', { text: text })]);
+    });
+  const syncToggle = totSync ? el('fieldset', { class: 'choice' }, [
+    el('legend', { text: 'Test delle lezioni sincrone' }),
+    el('div', { class: 'choice-options' }, syncChoices),
+    syncHint,
   ]) : null;
   const lessonBoxes = new Map();
   const lessonGrid = el('div', {
@@ -495,17 +519,25 @@ export function renderConfig(root, ctx) {
   }
 
   function updateLessonUi() {
-    lessonGrid.hidden = !filterOn;
-    lessonActions.hidden = !filterOn;
+    // Con «Solo questi test» il filtro non si applica: resta in memoria, con la
+    // sua selezione, ma spento a schermo, e si riaccende tornando alle altre
+    // voci.
+    const solo = syncSolo();
+    filterInput.disabled = solo;
+    filterInput.checked = filterOn && !solo;
+    lessonGrid.hidden = !filterOn || solo;
+    lessonActions.hidden = !filterOn || solo;
     for (const p of quickPicks) p.btn.setAttribute('aria-disabled', String(sameSet(p.numbers)));
-    for (const box of lessonBoxes.values()) box.disabled = !filterOn;
+    for (const box of lessonBoxes.values()) box.disabled = !filterOn || solo;
     const blank = filterOn && !selected.size;
-    const syncNote = syncOn ? ` (${totSync} dai test delle sincrone)` : '';
-    lessonHint.textContent = !filterOn
-      ? `La prova pesca da tutte le ${lessons.length} lezioni dell'esame${syncOn ? ' e dai test delle sincrone' : ''}.`
-      : blank
-        ? (syncOn ? `Nessuna lezione: solo i test delle sincrone (${totSync}).` : 'Scegli almeno una lezione.')
-        : `Lezioni ${compactLessons(Array.from(selected))} — ${selected.size} di ${lessons.length} selezionate: ${nMcq} quiz${syncNote} + ${nCards} flashcard nel pool.`;
+    const syncNote = syncIn ? ` (${totSync} dai test delle sincrone)` : '';
+    lessonHint.textContent = solo
+      ? 'Prova di soli test delle sincrone: il filtro per lezione non si applica.'
+      : !filterOn
+        ? `La prova pesca da tutte le ${lessons.length} lezioni dell'esame${syncIn ? ' e dai test delle sincrone' : ''}.`
+        : blank
+          ? `Scegli almeno una lezione${totSync ? ', oppure «Solo questi test» qui sopra per una prova di sole sincrone' : ''}.`
+          : `Lezioni ${compactLessons(Array.from(selected))} — ${selected.size} di ${lessons.length} selezionate: ${nMcq} quiz${syncNote} + ${nCards} flashcard nel pool.`;
     startBtn.disabled = pool === 0;
     reviewBtn.disabled = pool === 0;
     // Domande e flashcard insieme: il ripasso pesa gli errori di entrambe, e il
@@ -526,7 +558,7 @@ export function renderConfig(root, ctx) {
     lessons: filterOn ? Array.from(selected) : [],
     filterOn,
     // Solo per gli esami con registro: altrove la preferenza non si tocca.
-    sincrone: totSync ? syncOn : undefined,
+    sincrone: totSync ? syncMode : undefined,
   });
 
   const startBtn = el('button', { type: 'button', class: 'btn btn-primary', text: 'Inizia simulazione' });
@@ -541,11 +573,12 @@ export function renderConfig(root, ctx) {
 
   root.append(el('section', { class: 'card' }, [
     el('p', { class: 'hint', text: 'I tre cursori sono legati: il primo fissa la lunghezza della prova, gli altri due sono complementari — alzando l\'uno si abbassa l\'altro.' }),
+    // Prima le sincrone: «Solo questi test» spegne il filtro qui sotto.
+    syncToggle,
     lessonToggle,
     lessonActions,
     lessonGrid,
     lessonHint,
-    syncToggle,
     totalCounter.node,
     // Costruito comunque: applyPlan() lo riscrive a ogni tocco degli altri due.
     // Con le sincrone spente il massimo è quello delle sole domande d'esame.

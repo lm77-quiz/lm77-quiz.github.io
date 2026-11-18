@@ -11,7 +11,7 @@ import { probe, fetchServerLog, pushLog, sessionsToPush, exclusionsToPush } from
 import * as storage from './storage.js';
 import {
   prepareMcqItems, sample, scoreSession, pickReviewItems, makeRng,
-  prepareCardItem, withoutExcluded, rebuildAttempt, isSyncLesson, buildPool,
+  prepareCardItem, withoutExcluded, rebuildAttempt, isSyncLesson, buildPool, syncChoice,
 } from './engine.js';
 import { renderConfig } from './screens/config.js';
 import { renderQuiz } from './screens/quiz.js';
@@ -187,7 +187,7 @@ async function selectExam(slug) {
     ]);
     // Fuori da `questions` di proposito: filtro per lezione, pill e conteggi
     // restano quelli delle videolezioni, e le sincrone entrano nel pool solo
-    // con il loro interruttore.
+    // secondo la loro scelta (vedi `syncChoice`).
     exam.syncQuestions = sync ? sync.questions : [];
     // Gli avvisi del registro finiscono nello stesso pannello di quelli di
     // domande-esame.md: una domanda senza ✅ si vede subito, non all'esame.
@@ -244,7 +244,7 @@ async function selectExam(slug) {
  * senza questo passaggio perderebbe selezione delle lezioni e cursori appena
  * toccati. Restituisce le lezioni scelte, normalizzate a stringhe.
  */
-function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons, filterOn, sincrone }) {
+function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons, sincrone }) {
   if (Number.isFinite(mcqCount)) state.prefs.mcqCount = mcqCount;
   if (Number.isFinite(cardCount)) state.prefs.cardCount = cardCount;
   // Selezione delle lezioni: per esame, perché i numeri di lezione di un esame
@@ -257,14 +257,12 @@ function rememberConfig({ mcqCount, cardCount, simTotal, cardMcq, lessons, filte
   // silenziosamente al default.
   if (Number.isFinite(simTotal)) state.prefs.simTotal = simTotal;
   if (typeof cardMcq === 'boolean') state.prefs.cardMcq = cardMcq;
-  // Test delle sincrone: per esame come le lezioni, spento se manca.
-  // `'solo'` = filtro acceso senza lezioni e sincrone accese (prova di soli
-  // test delle dirette). Va ricordato qui perché nelle prefs un elenco di
-  // lezioni vuoto vuol dire «filtro spento»: senza, la schermata tornerebbe
-  // sull'intero esame dopo ogni prova.
-  if (typeof sincrone === 'boolean' && state.exam) {
+  // Test delle sincrone: per esame come le lezioni, esclusi se manca (vedi
+  // `syncChoice`). `undefined` = esame senza registro: la preferenza non si
+  // tocca.
+  if (sincrone !== undefined && state.exam) {
     if (!state.prefs.sincrone || typeof state.prefs.sincrone !== 'object') state.prefs.sincrone = {};
-    state.prefs.sincrone[state.exam.slug] = !sincrone ? false : (filterOn && !picked.length ? 'solo' : true);
+    state.prefs.sincrone[state.exam.slug] = syncChoice(sincrone);
   }
   storage.savePrefs(state.prefs);
   return picked;
@@ -287,12 +285,12 @@ function startSession(opts) {
   // il ripasso: chi ripassa un blocco di lezioni non vuole rivedere gli errori
   // di tutto il corso.
   // Stessa regola dei contatori della configurazione (`buildPool`): le
-  // sincrone fuori dal filtro, e filtro senza lezioni + sincrone = prova di
-  // soli test delle dirette. Le flashcard escluse dall'utente restano fuori da
-  // tutto, ripasso compreso.
+  // sincrone fuori dal filtro, e la prova di soli test delle dirette solo con
+  // la sua voce. Le flashcard escluse dall'utente restano fuori da tutto,
+  // ripasso compreso.
   const pool = buildPool(
     { questions: exam.questions, syncQuestions: exam.syncQuestions || [], cards: ctx.activeCards() },
-    { lessons: picked, filterOn: opts.filterOn, sincrone: opts.sincrone === true },
+    { lessons: picked, filterOn: opts.filterOn, sincrone: syncChoice(opts.sincrone) },
   );
   const { syncOnly } = pool;
   const poolQuestions = pool.questions;
@@ -425,7 +423,7 @@ function reviewAttempt(uid) {
     toast('Sessione non trovata nello storico.', 'error');
     return false;
   }
-  // Anche a interruttore spento: una sessione passata può contenere sincrone,
+  // Anche con le sincrone escluse: una sessione passata può contenerle,
   // e senza di loro le mostrerebbe come orfane.
   const { mcq, cards, orphans } = rebuildAttempt(attempt, { ...state.exam, questions: allQuestions(state.exam) });
   state.results = { attempt, recorded: true, mcq, cards, orphans, past: true };

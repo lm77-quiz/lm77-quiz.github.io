@@ -170,31 +170,46 @@ export function filterByLessons(items, lessons) {
  * l'estrazione di `startSession`, che altrimenti potrebbero divergere.
  *
  * - Le domande d'esame e le flashcard seguono il filtro per lezione.
- * - I test delle sincrone (`syncQuestions`) no: entrano tutti, e solo con il
- *   loro interruttore (`sincrone`).
- * - Filtro acceso senza lezioni (`blank`): niente domande d'esame né
- *   flashcard. Con le sincrone accese è la prova di soli test delle dirette,
- *   altrimenti il pool è vuoto. Mai «tutto l'esame», che è ciò che un elenco
- *   di lezioni vuoto vorrebbe dire a `filterByLessons`.
+ * - I test delle sincrone (`syncQuestions`) no: entrano tutti, e solo se la
+ *   loro scelta (`sincrone`, vedi `syncChoice`) li aggiunge (`true`).
+ * - Filtro acceso senza lezioni: pool vuoto, anche con le sincrone aggiunte.
+ *   Mai «tutto l'esame», che è ciò che un elenco di lezioni vuoto vorrebbe
+ *   dire a `filterByLessons`.
+ * - `sincrone: 'solo'`: soli test delle dirette, qualunque sia il filtro. È
+ *   l'unico modo di avere una prova di sole sincrone: quando era anche il
+ *   filtro senza lezioni, due stati diversi della schermata davano lo stesso
+ *   pool, e ricordarli costringeva a convertire l'uno nell'altro.
  *
  * @param {{questions?: Array, syncQuestions?: Array, cards?: Array}} materials
- * @param {{lessons?: string[], filterOn?: boolean, sincrone?: boolean}} [opts]
+ * @param {{lessons?: string[], filterOn?: boolean, sincrone?: boolean|'solo'}} [opts]
  *   `filterOn` di default vale «c'è almeno una lezione scelta»
  * @returns {{questions: Array, cards: Array, syncOnly: boolean}}
  */
 export function buildPool({ questions = [], syncQuestions = [], cards = [] } = {}, opts = {}) {
+  if (opts.sincrone === 'solo') return { questions: [...syncQuestions], cards: [], syncOnly: true };
   const lessons = (opts.lessons || []).map(String);
   const filterOn = opts.filterOn === undefined ? lessons.length > 0 : !!opts.filterOn;
-  const blank = filterOn && !lessons.length;
-  const sync = !!opts.sincrone;
+  if (filterOn && !lessons.length) return { questions: [], cards: [], syncOnly: false };
   return {
     questions: [
-      ...(blank ? [] : filterByLessons(questions, lessons)),
-      ...(sync ? syncQuestions : []),
+      ...filterByLessons(questions, lessons),
+      ...(opts.sincrone === true ? syncQuestions : []),
     ],
-    cards: blank ? [] : filterByLessons(cards, lessons),
-    syncOnly: blank && sync,
+    cards: filterByLessons(cards, lessons),
+    syncOnly: false,
   };
+}
+
+/**
+ * Scelta dei test delle sincrone, come la usano `buildPool`, le preferenze e
+ * la schermata di configurazione: `false` esclusi, `true` aggiunti ai quiz,
+ * `'solo'` soli test delle dirette. Qualunque altro valore vale `false`.
+ *
+ * @param {*} value
+ * @returns {boolean|'solo'}
+ */
+export function syncChoice(value) {
+  return value === true || value === 'solo' ? value : false;
 }
 
 /**

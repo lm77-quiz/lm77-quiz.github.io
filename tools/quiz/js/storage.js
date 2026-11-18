@@ -416,7 +416,8 @@ export function loadPrefs() {
   // `lessons` è per esame ({slug: ["01","17"]}): un array non vuoto è anche il
   // segnale che il filtro per lezione è acceso, quindi non serve un booleano
   // separato che potrebbe disallinearsi dalla selezione.
-  // `sincrone` è per esame ({slug: true}): un esame assente vale spento.
+  // `sincrone` è per esame ({slug: false | true | 'solo'}, vedi `syncChoice`):
+  // un esame assente vale «esclusi».
   const fallback = {
     exam: null, simTotal: SIM_TOTAL, mcqCount: SIM_TOTAL, cardCount: 0,
     cardMcq: true, lessons: {}, sincrone: {},
