@@ -8209,3 +8209,337 @@
 - s2y∗ = [Si(yi - ȳ)]/(n-1)
 - s2y∗ = [Si(yi - ȳ)2]
 - s2y∗ = [Si(yi - ȳ)2]/n
+
+## Lezione 28 — Modello Lineare 6 - Verifica delle Ipotesi
+
+**D:** ⚠️ Quale statistica considera la slide 2 della lezione 28 per testare l'ipotesi che un dato coefficiente della regressione β_i sia uguale a β_i^∗, e a quale distribuzione risulta appartenere?
+**R:** Slide 2: «Se, con un livello di confidenza (1 - α) prefissato, la statistica seguente: **(β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})** (128) risulta appartenere a una variabile aleatoria che ha una funzione di densità di probabilità **t di Student con (n - m) gradi di libertà**, si dirà che l'ipotesi nulla H_0 così formulata: H_0: β_i = β_i^∗ non può essere rigettata». Il docente: al denominatore «la radice quadrata dell'inversa di x trasposto x per lo stimatore per la varianza stimata dei residui. Ovviamente gli elementi della diagonale»; «questa statistica appartiene a una variabile aleatoria che ha una funzione di densità di probabilità T di student con n-m gradi di libertà» (transcript [00:01:08]–[00:01:26]). ⚠️ Sotto la radice c'è lo stimatore non distorto **σ̂_ε²** della lezione 25, e se ne prende l'**elemento diagonale** [·]_{ii}; i gradi di libertà sono **n - m**, osservazioni meno colonne di 𝐱. Il punto di partenza è la distribuzione delle variabili aleatorie b̂_i^{OLS} dell'equazione 126, della lezione precedente.
+**Opzione:** (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+**Distrattori:**
+- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (m - 1) gradi di libertà
+- La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
+
+**D:** ⚠️ Fra quali soglie si prende l'intervallo di valori della t di Student nella slide 3 della lezione 28, e con quale probabilità vi cade X?
+**R:** Slide 3: «si prende a riferimento l'intervallo di valori della distribuzione di probabilità t di Student con (n - m) gradi di libertà compresi tra le soglie t_{α/2} e t_{1-α/2} e così definite: **Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α** ove X è una variabile aleatoria che appunto ha una funzione di densità di probabilità di tipo t di Student con (n - m) gradi di libertà». Il docente: «compresi tra le soglie T alfa mezzi e T1 meno alfa mezzi. quindi simmetrici rispetto alla distribuzione»; la probabilità che X sia compreso fra le due soglie «è definita ed è uguale ad 1 meno alfa» (transcript [00:02:30]–[00:02:55]), e lo chiama «un intervallo di confidenza, una banda di oscillazione». ⚠️ Le soglie stanno ad **α/2** e **1 - α/2**, non ad α e 1 - α: α si divide fra le due code. Fra le soglie la probabilità è **1 - α**, il livello di confidenza.
+**Opzione:** Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+**Distrattori:**
+- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
+- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+
+**D:** ⚠️ Che cosa si conclude, nella slide 3 della lezione 28, se la statistica test (128) appartiene all'intervallo [t_{α/2}; t_{1-α/2}]?
+**R:** Slide 3: «se la statistica test (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}) **∈ [t_{α/2}; t_{1-α/2}]** H_0 **non può essere rigettata**, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata». Il docente: se la statistica test «appartiene all'intervallo t alfa mezzi t1 meno alfa mezzi beh allora l'ipotesi nulla non può essere rigettata cioè non si può rigettare l'ipotesi che beta con i sia effettivamente uguali a beta con i star in caso contrario l'ipotesi h con 0 non può che essere rigettata» (transcript [00:03:29]). ⚠️ **Dentro** l'intervallo non si rigetta, **fuori** si rigetta. Le slide non dicono mai che H_0 «è accettata»: dicono che **non può essere rigettata**.
+**Opzione:** H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
+**Distrattori:**
+- H_0 è rigettata, ossia si rigetta l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 non può essere rigettata
+- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+
+**D:** ⚠️ Come è definito, nell'equazione 129 della lezione 28, il p-value associato alla statistica test (128)?
+**R:** Slide 4: «In alternativa, per decidere se rigettare l'ipotesi nulla o se invece essa non possa essere rigettata, si calcola il c.d. **p-value** associato alla statistica test e così definito: **p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))** (129)», con X la t di Student con (n - m) gradi di libertà della slide 3. Il docente: «il p-value altro non è che la probabilità che x sia maggiore o uguale alla nostra statistica» (transcript [00:04:17]). ⚠️ Il verso è **≥**: la probabilità che X sia **almeno** pari alla statistica. Il docente lo presenta come il rovescio dell'intervallo, «other way round» ([00:04:33]), e chiama quella probabilità «il valore di alfa» ([00:04:36]): nella slide α è invece la soglia prescelta con cui il p-value si confronta. ℹ️ Integrazione (non dai materiali del corso): la (129) è a una coda, mentre il p-value 0,2466 della tabella della slide 10 è quello a due code, il doppio di Pr(X ≥ 1,2) con 17 gradi di libertà.
+**Opzione:** p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+**Distrattori:**
+- p-value = Pr(X ≤ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
+- Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+
+**D:** ⚠️ Come si decide con il p-value della statistica test (128), secondo la slide 4 della lezione 28?
+**R:** Slide 4: «e si decide come segue: se il p-value è **un valore elevato (superiore all'α prescelto)**, H_0 **non può essere rigettata**, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata. Intuitivamente, questo algoritmo decisionale formalizza il ragionamento in base al quale se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità t di Student con (n - m) gradi di libertà». Il docente: «Se il p value è un valore elevato, cioè superiore all'alfa che è stato definito come soglia, h0 non può essere rigettato» (transcript [00:04:45]); «se il p-value è molto piccolo è improbabile» ([00:05:11]). ⚠️ p-value **grande** ⇒ non si rigetta; p-value **piccolo** ⇒ si rigetta.
+**Opzione:** Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+**Distrattori:**
+- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 è rigettata; in caso contrario H_0 non può essere rigettata
+- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
+- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+
+**D:** ⚠️ Per quale caso vengono tipicamente declinati nei principali software econometrici i test basati sulla statistica (128), e con quale obiettivo (slide 5 della lezione 28)?
+**R:** Slide 5: «I test di ipotesi basati sulla statistica (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}) vengono tipicamente declinati nei principali software econometrici **per il caso β_i^∗ = 0** con l'obiettivo di **verificare la significatività dei coefficienti stimati** β̂_i^{OLS}, i = 1, 2, ⋯, m in relazione a ciascuna delle m variabili indipendenti (i.e. le m colonne che formano la matrice dei regressori 𝐱)». Il docente: queste ipotesi «vengono tipicamente identificati nei principali software econometrici con l'obiettivo di verificare la significatività dei coefficienti stimati col metodo OLS in relazione a ciascuna» delle «m variabili indipendenti che costituiscono, in termini matriciali, le m colonne che formano la matrice dei regressori» (transcript [00:05:42]–[00:06:23]). ⚠️ Il caso β_i^∗ = 0 lo scrive la slide, non il docente. Con β_i^∗ = 0 la (128) diventa il **t-ratio** (130) della slide 6 (deduzione).
+**Opzione:** Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+**Distrattori:**
+- Per il caso β_i^∗ = 1, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
+- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+
+**D:** ⚠️ Che cosa vuol dire, per la slide 5 della lezione 28, che un dato coefficiente stimato risulta non significativo per un certo livello di confidenza (1 - α)?
+**R:** Slide 5: «Se un dato coefficiente stimato risulta non significativo per un certo livello di confidenza (1 - α), ciò vuol dire che **la variabile esplicativa ad esso associata** (i.e. la corrispondente colonna della matrice 𝐱) **non è rilevante per spiegare il comportamento della variabile dipendente 𝐲**». Il docente: «Vuol dire che la variabile esplicativa, cioè la variabile associata alla corrispondente colonna della matrice X, non rileva per spiegare il comportamento di Y, cioè quel regressore è sostanzialmente inutile dal punto di vista statistico» (transcript [00:06:34]–[00:06:48]). ⚠️ La variabile esplicativa, cioè la **colonna** di 𝐱, non è rilevante per spiegare la **variabile dipendente 𝐲**, non le altre variabili esplicative: il test riguarda il contributo di quel regressore a 𝐲. «Sostanzialmente inutile dal punto di vista statistico» è solo nel transcript.
+**Opzione:** Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+**Distrattori:**
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento delle altre variabili esplicative
+- Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
+- F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
+
+**D:** ⚠️ Come è definito, nella Definizione della slide 6 della lezione 28, il t-ratio (o rapporto t) per lo stimatore β̂_i^{OLS}?
+**R:** Slide 6, «Definizione»: «Sia β̂_i^{OLS}, i = 1, 2, ⋯, m, l'i-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la statistica t così definita: **t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})** (130) è detta **t-ratio (o rapporto t)** per lo stimatore β̂_i^{OLS}». Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). ⚠️ Sotto la radice c'è **σ̂_ε²**, lo stimatore **non distorto** della varianza dell'errore (Corollario della lezione 25), non σ_{ϵ^{OLS}}², la varianza dei residui OLS, che è distorta: il docente dice «la varianza dei residui», la slide ha il cappello. Il denominatore è l'errore standard dello stimatore della lezione 26. È la chiave della domanda 3 del test.
+**Opzione:** t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
+**Distrattori:**
+- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²]_{ii})
+- H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
+- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
+
+**D:** ⚠️ Quali sono le due ipotesi alternative nel caso specifico del t-ratio e del connesso p-value (slide 6 della lezione 28)?
+**R:** Slide 6: «In linea con quanto visto poc'anzi per il caso generale β_i ≠ β_i^∗, nel caso specifico del t-ratio e del connesso p-value le due ipotesi alternative sono: **H_0: β_i = 0** e **H_1: β_i ≠ 0**». Il docente: «L'ipotesi nulla, beta i uguale a zero. L'ipotesi alternativa, beta i diverso da zero» (transcript [00:08:19]–[00:08:22]). ⚠️ L'**uguaglianza** sta in H_0, la **disuguaglianza** in H_1, come nel caso generale H_0: β_i = β_i^∗ e H_1: β_i ≠ β_i^∗ (slide 2–3) con β_i^∗ = 0. La slide chiama «le due ipotesi alternative» la coppia H_0 e H_1.
+**Opzione:** H_0: β_i = 0 e H_1: β_i ≠ 0
+**Distrattori:**
+- H_0: β_i ≠ 0 e H_1: β_i = 0
+- F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+
+**D:** ⚠️ Con quale modello lineare viene tipicamente rappresentata la performance dei fondi comuni di investimento che operano in una data asset class (equazione 131 della lezione 28)?
+**R:** Slide 7, «Esempio. L'alfa di Jensen»: «Tipicamente, la performance dei fondi comuni di investimento che operano in una data asset class (azionario, obbligazionario, etc.) viene rappresentata dal seguente modello lineare: **r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε** (131)». Il docente: «Il rendimento del fondo … meno il rendimento del titolo privo di rischio è uguale a questa alfa che appunto è l'alfa di Jensen del fondo più il beta del fondo … che moltiplica cosa? Il rendimento di mercato dell'asset class del fondo, azione, obbligazione o altro, meno il rendimento privo di rischio più un fattore epsilon d'errore» (transcript [00:08:57]–[00:09:16]). ⚠️ Il rendimento privo di rischio si toglie **a entrambi i lati**: a sinistra c'è l'extra-rendimento del fondo, a destra quello del mercato. Le asset class sono un elenco aperto («etc.»).
+**Opzione:** r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+**Distrattori:**
+- r_{fondo} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
+- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+
+**D:** ⚠️ Che cosa indicano β_{fondo} e α_{fondo}^J nel modello 131 dell'alfa di Jensen (slide 7 della lezione 28)?
+**R:** Slide 7, «dove:»: r_{fondo} «indica il rendimento del fondo d'interesse»; r_{risk-free} «indica il rendimento privo di rischio (c.d. risk-free)»; r_{mkt}^{AC} «indica il rendimento di mercato dell'asset class di riferimento del fondo considerato»; **β_{fondo}** «indica la **sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free**»; **α_{fondo}^J** «è il **termine costante del modello** che, in questo contesto, viene chiamato “alfa di Jensen” ed ha un'interpretazione ben precisa». Il docente: «il beta del fondo che è la sensibilità dell'extra rendimento rispetto al risk free» (transcript [00:08:57]). ⚠️ β_{fondo} misura come l'extra-rendimento **del fondo** risponde a quello **del mercato**, non il contrario; α_{fondo}^J è la **costante**, il β_0 del modello generale (deduzione).
+**Opzione:** β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+**Distrattori:**
+- β_{fondo} indica la sensibilità dell'extra-rendimento del mercato rispetto al risk-free all'extra-rendimento del fondo rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+- F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
+
+**D:** ⚠️ Che cosa indica l'equazione 131 se l'alfa di Jensen del fondo è significativamente diverso da zero (slide 8 della lezione 28)?
+**R:** Slide 8: «Infatti, l'equazione 131 indica chiaramente che se l'“alfa di Jensen” del fondo è significativamente diverso da zero, allora l'extra-rendimento del fondo rispetto all'asset privo di rischio **non è spiegato solamente** dall'andamento generale del mercato dell'asset class di riferimento, **ma anche da un'ulteriore componente espressamente legata alla gestione del fondo medesimo**». Il docente: l'extra rendimento «non è spiegato solamente dall'andamento generale di mercato dell'azione o dell'obbligazione o dell'indice considerato o della commodity considerata, ma anche da un altro componente, che è legata alla gestione del fondo» (transcript [00:09:48]–[00:10:08]). ⚠️ «Non … solamente … ma anche»: l'andamento del mercato resta una spiegazione, e vi si aggiunge la gestione.
+**Opzione:** Che l'extra-rendimento del fondo rispetto all'asset privo di rischio non è spiegato solamente dall'andamento generale del mercato dell'asset class di riferimento, ma anche da un'ulteriore componente espressamente legata alla gestione del fondo medesimo
+**Distrattori:**
+- Che l'extra-rendimento del fondo rispetto all'asset privo di rischio è spiegato solamente dall'andamento generale del mercato dell'asset class di riferimento, e non da un'ulteriore componente espressamente legata alla gestione del fondo medesimo
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
+- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+
+**D:** ⚠️ Che cosa si può ragionevolmente ipotizzare, per la slide 8 della lezione 28, se α_{fondo}^J è significativamente diverso da zero e positivo?
+**R:** Slide 8: «In particolare, se α_{fondo}^J è significativamente diverso da zero e positivo, si può ragionevolmente ipotizzare che **il gestore del fondo sia molto bravo e riesca, in media, a “battere il mercato”**». Il docente: «se alfa del fondo è diverso da zero positivo vuol dire che il gestore del fondo è molto bravo in media a battere il mercato» (transcript [00:10:12]). ⚠️ Due condizioni, **significativamente diverso da zero** e **positivo**; e una conclusione **in media**, non in ogni periodo. La slide è prudente, «si può ragionevolmente ipotizzare», il docente più netto, «vuol dire».
+**Opzione:** Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
+**Distrattori:**
+- Che il gestore del fondo sia molto bravo e riesca, in ogni periodo, a battere il mercato
+- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+- H_0: β_i = 0 e H_1: β_i ≠ 0
+
+**D:** ⚠️ Con quali ipotesi alternative si verifica, nella slide 8 della lezione 28, la conclusione sul coefficiente α_{fondo}^J dell'equazione 131?
+**R:** Slide 8: «Una simile conclusione è suffragata dalla verifica di ipotesi sul coefficiente α_{fondo}^J dell'equazione 131, con le seguenti ipotesi alternative: **H_0: α_{fondo}^J = 0** e **H_1: α_{fondo}^J ≠ 0**». Il docente: «Ipotesi nulla, alfa del fondo zero … non c'è bravura o meglio il gestore non batte in media il mercato», e alfa di Jensen «diverso da zero il gestore si discosta dal mercato» (transcript [00:10:40]–[00:10:44]). ⚠️ H_1 è **≠ 0**, bilaterale, anche se la bravura del gestore richiede un alfa **positivo** (slide 8): l'ipotesi alternativa non è α_{fondo}^J > 0.
+**Opzione:** H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+**Distrattori:**
+- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J > 0
+- Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
+
+**D:** ⚠️ Quali proxy usa l'esempio del fondo comune Pippo, che investe sul comparto azionario italiano (slide 9 della lezione 28)?
+**R:** Slide 9: «Come proxy del rendimento di mercato si considera la **performance dell'indice FTSE Mib** e come proxy del rendimento privo di rischio si considera **il rendimento offerto dal BOT trimestrale**». L'equazione 131 diventa r_{pippo} - r_{risk-free} = α_{pippo}^J + β_{pippo}(r_{FTSEMIB} - r_{risk-free}) + ε (132), stimata «su un campione di 19 osservazioni di rendimenti trimestrali annualizzati». Il docente: «come proxy del rendimento di mercato prendiamo l'indice di borsa dei titoli italiani», il FTSE Mib, «e come proxy di rendimento privo di rischio mettiamo il BOT, anche se sappiamo che i titoli di Stato italiani non sono esattamente» risk-free (transcript [00:11:09]–[00:11:26]). ⚠️ Il FTSE Mib è il **mercato**, il BOT il **risk-free**. «Trimestrale» lo dice solo la slide.
+**Opzione:** La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
+**Distrattori:**
+- La performance dell'indice FTSE Mib come proxy del rendimento privo di rischio e il rendimento offerto dal BOT trimestrale come proxy del rendimento di mercato
+- Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
+- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+
+**D:** ⚠️ Quali valori riporta la tabella della slide 10 della lezione 28 per la stima α̂_{pippo}^{J,OLS} dell'alfa di Jensen del fondo Pippo?
+**R:** Slide 10, la tabella: per **α̂_{pippo}^{J,OLS}** coefficiente stimato **0,0244673**, t-ratio **1,2**, p-value **0,2466**; per β̂_{pippo}^{OLS} coefficiente stimato 0,930614, t-ratio 19,38, p-value 5,00e-013. Il docente: «dobbiamo confrontare il T ratio dell'alpha di Jensen che è pari a 1,2» (transcript [00:12:34]); il p-value lo legge «pari a 0,24%» e poi «Siamo al 24%» ([00:14:12]–[00:14:27]), mentre la slide scrive 0,2466, circa il 24,7%. ⚠️ Il t-ratio 19,38 e il p-value 5,00e-013 sono della stima del **β**, che né la slide né il docente commentano.
+**Opzione:** Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
+**Distrattori:**
+- Coefficiente stimato 0,0244673, t-ratio 19,38, p-value 5,00e-013
+- Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
+
+**D:** ⚠️ Con quali valori della t di Student va confrontato il t-ratio di α̂_{pippo}^{J,OLS} per un livello di confidenza del 99%, e con quanti gradi di libertà (slide 10 della lezione 28)?
+**R:** Slide 10: «Ipotizzando di voler decidere se rigettare o meno l'ipotesi nulla con un livello di confidenza del 99%, occorre confrontare il t-ratio di α̂_{pippo}^{J,OLS} che è pari a 1,2 con i valori **t_{0,5%} e t_{99,5%}** della distribuzione t di Student con **17 gradi di libertà (19 osservazioni - 2 colonne nella matrice dei regressori)**». Il docente: «con i valori della T di student a 0,5% e a 99,5% perché noi abbiamo detto che vogliamo l'1% di alfa» (transcript [00:12:41]); «avendo preso 19 osservazioni Noi dobbiamo levare i due gradi di libertà, quindi abbiamo 17, perché sono le due colonne nella matrice dei regressori» ([00:13:03]–[00:13:09]). ⚠️ α = 1% si divide fra le due code: le soglie sono a **0,5%** e **99,5%**, non a 1% e 99%. I gradi di libertà sono n - m = 19 - 2.
+**Opzione:** Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+**Distrattori:**
+- Con t_{1%} e t_{99%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
+- F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+
+**D:** ⚠️ Che cosa si conclude, nella slide 11 della lezione 28, confrontando il t-ratio 1,2 di α̂_{pippo}^{J,OLS} con t_{0,5%} = -2,8982 e t_{99,5%} = 2,8982?
+**R:** Slide 11: «Essendo t_{0,5%} = -2,8982 e t_{99,5%} = 2,8982, il t-ratio di α̂_{pippo}^{J,OLS} risulta **compreso nell'intervallo** delimitato da questi due valori e pertanto **non si può rigettare l'ipotesi nulla** che nel modello di cui all'equazione 132 il valore del termine costante α_{pippo}^J sia pari a zero». Il docente: «notate l'elemento simmetrico, il T ratio dell'alfa di Jensen è compreso nell'intervallo»; «Quindi non si può rigettare l'ipotesi nulla che l'alpha Jensen del fondo» Pippo «sia pari a zero» (transcript [00:13:48]–[00:14:00]). ⚠️ Dentro l'intervallo **non si rigetta** H_0 (regola della slide 3).
+**Opzione:** Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
+**Distrattori:**
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, si deve rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
+- Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
+
+**D:** ⚠️ Che cosa indica, nella slide 11 della lezione 28, il p-value 0,2466 associato ad α_{pippo}^J?
+**R:** Slide 11: «Allo stesso risultato si perviene osservando che il p-value associato ad α_{pippo}^J è pari a 0,2466 ed ha quindi **un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata**. In altri termini, i dati osservati **non indicano** che il gestore del fondo abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato». Il docente: «ed ha quindi un valore troppo alto per concludere che l'ipotesi nulla vada rigettata. Siamo al 24%, altro che 1%» (transcript [00:14:21]–[00:14:27]). ⚠️ Un p-value **superiore** all'α prescelto, qui l'1%, non permette di rigettare H_0 (regola della slide 4). Il docente lo dice prima «0,24%» ([00:14:12]): il valore della slide è 0,2466.
+**Opzione:** Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
+**Distrattori:**
+- Un valore abbastanza basso per poter concludere che l'ipotesi nulla vada rigettata: i dati indicano che il gestore ha la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
+- H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
+- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
+
+**D:** ⚠️ Qual è lo scopo del test sulla significatività congiunta di tutti i coefficienti del modello (slide 12 della lezione 28)?
+**R:** Slide 12: «Tuttavia, è possibile anche effettuare un test sulla significatività congiunta di tutti i coefficienti del modello. In questo caso lo scopo della verifica di ipotesi è cioè quello di capire se, **oltre alla costante del modello, almeno una delle altre variabili indipendenti** (ossia almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲». Il docente: «se oltre all'elemento della costante del modello almeno una delle … altre variabili indipendenti … oltre a quella composta da tutti gli uno che è quella del parametro costante, riesca a spiegare come si comporta la nostra variabile y» (transcript [00:15:54]–[00:16:06]). ⚠️ Il quantificatore è **almeno una**, non tutte; e la costante, la prima colonna di 1, è **esclusa**. I test precedenti verificavano invece la significatività di **singoli** coefficienti.
+**Opzione:** Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
+**Distrattori:**
+- Capire se, oltre alla costante del modello, tutte le altre variabili indipendenti (tutte le colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuiscano a spiegare come si comporta 𝐲
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+
+**D:** ⚠️ Quali sono le due ipotesi alternative del test sulla significatività congiunta (slide 13 della lezione 28)?
+**R:** Slide 13: «Per quanto precede, le due ipotesi alternative di questo test sono le seguenti (ricordando che β_0 è il coefficiente del termine costante). **H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0** e **H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0**». Il docente: «ricordando che beta0 è il termine costante, l'ipotesi nulla è beta1 uguale a beta2 uguale a beta3 uguale a betaM-1 uguale a 0, ovvero beta1 diverso da 0, beta2 diverso da 0, betaM-1 diverso da 0» (transcript [00:16:32]). ⚠️ **β_0 non compare**: sulla costante non c'è restrizione. In H_1 le disuguaglianze sono legate da **«oppure»**: basta che **uno** dei coefficienti sia diverso da zero. Il docente dice «ovvero» e omette gli «oppure».
+**Opzione:** H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
+**Distrattori:**
+- H_0: β_0 = β_1 = ⋯ = β_{m-1} = 0 e H_1: β_0 ≠ 0 oppure β_1 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
+- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+- p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+
+**D:** ⚠️ Quale capacità esplicativa confronta la statistica test del test congiunto, e come si chiamano i due modelli (slide 13 della lezione 28)?
+**R:** Slide 13: «Per effettuare la verifica di ipotesi appena descritta si utilizza una statistica test che confronta la capacità esplicativa del **modello lineare specificato (c.d. modello non ristretto)** con quella del **modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)**». Il docente: la statistica «confronta la capacità esplicativa del modello non ristretto con quella del modello lineare in cui l'unica variabile indipendente è il termine costante» (transcript [00:16:55]). ⚠️ **Non ristretto** è il modello con tutti i regressori; **ristretto** quello con la sola costante, cioè quello che si ottiene imponendo H_0 (deduzione). Nella (133) RSS^r è del ristretto, RSS^{nr} del non ristretto.
+**Opzione:** Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
+**Distrattori:**
+- Quella del modello lineare specificato (c.d. modello ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello non ristretto)
+- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+- Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
+
+**D:** ⚠️ Come è definita la statistica F (o F-statistic), nella Definizione della slide 14 della lezione 28 (equazione 133)?
+**R:** Slide 14, «Definizione»: «Si definisce **statistica F** (o F-statistic) e si denota con F-test la statistica test così definita: **F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]** (133) ove RSS^r e RSS^{nr} denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «la somma» dei quadrati dei residui «del modello lineare ristretto meno la somma» dei quadrati «dei residui del modello non ristretto diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:17]–[00:17:41]). ⚠️ **(m - 1)** divide il numeratore, **(n - m)** il denominatore; al denominatore c'è RSS^{nr}, del modello **non ristretto**. È la chiave della domanda 4 del test.
+**Opzione:** F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+**Distrattori:**
+- F-test := [(RSS^r - RSS^{nr})/(n - m)]/[RSS^{nr}/(m - 1)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+- Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+
+**D:** ⚠️ Che cosa misura la formula 133 della lezione 28, al netto di alcuni aggiustamenti, e di che cosa tengono conto gli aggiustamenti?
+**R:** Slide 14: «La formula di cui all'equazione 133 ha un'interpretazione molto intuitiva. Al netto di alcuni aggiustamenti (fatti per tener conto **del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test**), essa misura **quanto si riduce la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto**, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori». Il docente: «leviamo l'aggiustamento M-1, N-M che serve per considerare le osservazioni disponibili, regressori, restrizioni, eccetera»; «quanto si riduce la somma dei quadrati dei residui quando passo dal ristretto a non ristretto?» (transcript [00:17:58]–[00:18:09]). ⚠️ Gli aggiustamenti sono **tre**, nell'ordine; la slide non ha «eccetera». Passando al non ristretto la somma dei quadrati dei residui **si riduce**.
+**Opzione:** Quanto si riduce la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori; gli aggiustamenti tengono conto del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test
+**Distrattori:**
+- Quanto aumenta la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori; gli aggiustamenti tengono conto del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test
+- H_0: β_i = 0 e H_1: β_i ≠ 0
+
+**D:** ⚠️ Che cosa implica, per la slide 14 della lezione 28, una differenza maggiore tra RSS^r e RSS^{nr}?
+**R:** Slide 14: «**Maggiore** è la differenza tra RSS^r e RSS^{nr}, **maggiore** è dunque la probabilità che **almeno uno** dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero». Il docente: «maggiore è la differenza tra la somma dei quadrati dei residui del modello ristretto e quello non ristretto maggiore la probabilità che almeno uno di questi coefficienti beta con i sia diverso da zero e quindi che almeno uno dei regressori vada a fornire un contributo positivo» (transcript [00:18:25]–[00:18:53]). ⚠️ Le due grandezze crescono **insieme**; il quantificatore è **almeno uno**, e gli indici partono da 1: la costante β_0 resta fuori.
+**Opzione:** Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+**Distrattori:**
+- Una minore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
+- r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+
+**D:** ⚠️ Che distribuzione ha, per il Teorema della slide 15 della lezione 28, il rapporto tra una variabile aleatoria Chi-quadrato con df1 gradi di libertà e una variabile aleatoria Chi-quadrato con df2 gradi di libertà, tra loro indipendenti e ciascuna divisa per il numero dei suoi gradi di libertà?
+**R:** Slide 15, «Teorema»: «Il rapporto tra una variabile aleatoria Chi-quadrato con df1 gradi di libertà e una variabile aleatoria Chi-quadrato con df2 gradi di libertà tra loro indipendenti e ciascuna divisa per il numero dei suoi gradi di libertà è una variabile aleatoria che ha una funzione di densità di probabilità **F di Fisher-Snedecor (o anche solo F di Fisher)** con gradi di libertà **df1 e df2**». Il docente: «è una variabile aleatoria che ha una funzione di densità di probabilità di» Fisher; «La F sta per» Fisher-Snedecor «o anche solo F di» Fisher (transcript [00:19:38]–[00:19:55]), e dice «un grado» e «due gradi» di libertà dove la slide ha df1 e df2. ⚠️ Tre condizioni: due **Chi-quadrato**, **indipendenti**, **ciascuna divisa per i suoi gradi di libertà**. La t di Student della lezione 27 è invece il rapporto fra una normale standardizzata e la radice di una Chi-quadrato divisa per i suoi gradi di libertà.
+**Opzione:** Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
+**Distrattori:**
+- Una funzione di densità di probabilità t di Student con gradi di libertà df1 e df2
+- Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 15 della lezione 28 sulle variabili aleatorie (RSS^r - RSS^{nr}) e RSS^{nr}, condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0?
+**R:** Slide 15, «Proposizione»: «Condizionatamente a 𝐱 e sotto l'ipotesi nulla: H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 le variabili aleatorie (RSS^r - RSS^{nr}) e RSS^{nr} sono **tra loro indipendenti** ed entrambe hanno una funzione di densità di probabilità di tipo **Chi-quadrato rispettivamente con (m - 1) e con (n - m) gradi di libertà**». Il docente: «sono indipendenti ed entrambe hanno una funzione di densità di probabilità chi quadro, la differenza con m-1» gradi «di libertà» e «la somma dei residui del modello non ristretto con n-m» (transcript [00:20:22]). ⚠️ L'ordine segue le variabili: **(m - 1)** per la **differenza**, **(n - m)** per **RSS^{nr}**. Con il Teorema, ne segue il Corollario della slide 16.
+**Opzione:** Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
+**Distrattori:**
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (n - m) e con (m - 1) gradi di libertà
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+
+**D:** ⚠️ Quale distribuzione ha la statistica F-test dell'equazione 133, per il Corollario della slide 16 della lezione 28?
+**R:** Slide 16, «Corollario»: «Condizionatamente a 𝐱 e sotto l'ipotesi nulla: H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 la statistica F-test di cui all'equazione 133 ha una funzione di densità di probabilità di tipo **F di Fisher con gradi di libertà (m - 1) e (n - m)**». Il docente: «sotto l'ipotesi nulla la statistica di» Fisher «ha una densità di probabilità» Fisher «con gradi di libertà m-1 ed n-m. È un'applicazione diretta del teorema che abbiamo enunciato prima» (transcript [00:20:51]–[00:21:08]). ⚠️ È la **F di Fisher**, non la t di Student della statistica (128); e vale **sotto H_0**, condizionatamente a 𝐱. Numeratore e denominatore della (133) sono le due Chi-quadrato della Proposizione, ciascuna divisa per i suoi gradi di libertà (deduzione).
+**Opzione:** Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+**Distrattori:**
+- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una t di Student con (n - m) gradi di libertà
+- r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+- H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
+
+**D:** ⚠️ Come è definito il p-value associato alla statistica F-test (equazione 134 della lezione 28), e quale distribuzione ha X?
+**R:** Slide 16: «Si calcola il **p-value** associato alla statistica F-test e così definito: **p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)])** (134) ove X è una variabile casuale con funzione di densità di probabilità **F di Fisher con gradi di libertà (m - 1) e (n - m)**». Il docente: «Definiamo quindi il p-value associato alla statistica di Fisher come la probabilità che la nostra variabile casuale x che ha densità di probabilità Fisher con gradi di libertà m-1 e n-1 sia maggiore o uguale» (transcript [00:21:25]). ⚠️ Il docente dice **«n-1»**, la slide **(n - m)**: per l'esame vale la slide. Il verso è **≥**, e dentro la probabilità c'è la (133) intera. È la chiave della domanda 5 del test.
+**Opzione:** p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+**Distrattori:**
+- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - 1)
+- β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+- Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+
+**D:** ⚠️ Che cosa si potrà ritenere, per la slide 17 della lezione 28, se il p-value associato alla statistica F-test è troppo piccolo?
+**R:** Slide 17: «se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che **tutti** i coefficienti β_i, i = 1, 2, ⋯, m - 1, siano effettivamente uguali a zero; in caso contrario H_0 è rigettata. Intuitivamente, … se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità F di Fisher con gradi di libertà (m - 1) e (n - m). In tal caso, pertanto, si potrà ritenere **col livello di confidenza (1 - α) prescelto** che **almeno uno** dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero». Il docente: «si potrà ritenere che un livello di confidenza 1-α prescelto, almeno, dato che è una verifica congiunta dell'ipotesi, uno di quei coefficienti sia diverso da zero» (transcript [00:23:05]). ⚠️ Rigettare H_0 dice che **almeno uno** è diverso da zero, non che lo siano tutti, né quale (deduzione).
+**Opzione:** Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+**Distrattori:**
+- Col livello di confidenza (1 - α) prescelto, che tutti i coefficienti β_i, i = 1, 2, ⋯, m - 1, siano diversi da zero
+- La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
+- Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
+
+**D:** ⚠️ Quale modello lineare stima l'esempio Stellantis della slide 18 della lezione 28, e su quante osservazioni?
+**R:** Slide 18, «Esempio»: «Siano: r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis; r^{JUVE} il rendimento logaritmico giornaliero dell'azione Juventus; r^{VW} il rendimento logaritmico giornaliero dell'azione Volkswagen; Brent la variazione logaritmica giornaliera delle quotazioni del Brent. Si considera il seguente modello lineare: **r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε** (135) Su un campione di **34 osservazioni**, il valore dell'F-test associato al modello 135 stimato col metodo dei minimi quadrati ordinari è 22,70893». Il docente: «Riusciamo a spiegare il rendimento logaritmico giornaliero di Stellantis, a parte che con una costante beta zero, con un po' di rendimento di Juve, un po' di rendimento di Volkswagen, un po' di reddittività del Brent»; «Prendiamo 34 osservazioni» (transcript [00:23:55]–[00:24:11]). ⚠️ La dipendente è **Stellantis**; le osservazioni sono **34**, i gradi di libertà del denominatore **30** = 34 - 4.
+**Opzione:** r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+**Distrattori:**
+- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 30 osservazioni
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
+- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
+
+**D:** ⚠️ Che cosa si conclude, nell'esempio Stellantis della slide 18 della lezione 28, sapendo che la probabilità che una F di Fisher con 3 e 30 gradi di libertà assuma valori superiori a 22,70893 è pari a 7,21e-08?
+**R:** Slide 18: la probabilità «è pari a 7,21e-08 e risulta quindi **molto bassa rispetto a tutti i valori standard che vengono tipicamente utilizzati per α (1%, 5%, 10%)**. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo **va rigettata**». Il docente: la probabilità «risulta sostanzialmente infinitesima rispetto a tutti i valori standard che vengono utilizzati per α che sono 1, 5, 10%. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative Juve, Volkswagen e rendimento del Brent sia significativo va rigettata» (transcript [00:24:23]–[00:24:51]). ⚠️ Il p-value è **minore** di α, quindi H_0 **si rigetta**: almeno una delle tre variabili contribuisce a spiegare r^{STLA} (deduzione dalla slide 17). I valori standard di α sono tre: **1%, 5%, 10%**.
+**Opzione:** L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
+**Distrattori:**
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo non può essere rigettata
+- Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
+- Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
+
+**D:** ⚠️ Perché, nell'esempio Stellantis, l'F-test va confrontato con una F di Fisher con 3 e 30 gradi di libertà (Nota della slide 19 della lezione 28)?
+**R:** Slide 19, «Nota»: «**3** è il numero di restrizioni imposte dal modello sul valore dei coefficienti (β_1, β_2 e β_3) del modello ristretto ed è pari a **m - 1 = 4 - 1**, ove m è il numero di colonne della matrice 𝐱. La decurtazione di 1 è legata al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna di 𝐱, ossia il termine costante; **30** è la differenza tra il numero di osservazioni (**n = 34**) e il numero totale di colonne della matrice 𝐱 nel modello non ristretto (**m = 4**)». Il docente: «3 è il numero di restrizioni imposte» dal modello; «La decurtazione di 1 è legato al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna della matrice dei regressori, il β0»; «30 invece è la differenza, perché io levo 4 gradi di libertà … rispetto a 34» (transcript [00:25:47]–[00:26:16]). ⚠️ Le restrizioni riguardano **β_1, β_2 e β_3**, non β_0; m = 4 conta anche la colonna di soli 1.
+**Opzione:** 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
+**Distrattori:**
+- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_0, β_1 e β_2) del modello ristretto, perché non ve ne sono sul coefficiente di Brent; 30 = n - m = 34 - 4
+- p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+
+**D:** ⚠️ Come si esprime la statistica F-test in termini di R², nella Proposizione della slide 19 della lezione 28 (equazione 136)?
+**R:** Slide 19, «Proposizione»: «La statistica F-test di cui all'equazione 133 può essere espressa anche in termini di R² come segue: **F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]** (136)». Il docente: «può essere espressa anche in termini del nostro coefficiente di determinazione, r quadro su 1 meno r quadro per n meno m diviso m meno 1» (transcript [00:26:29]). ⚠️ **(n - m)** sta al **numeratore** e **(m - 1)** al denominatore: l'ordine opposto a quello della (133), dove (m - 1) divide il numeratore (deduzione). Nell'esempio Stellantis, con R² = 0,694273: [0,694273/(1 - 0,694273)]·[(34 - 4)/(4 - 1)] = 2,270892 · 10 = 22,70893 (slide 25).
+**Opzione:** F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
+**Distrattori:**
+- F-test = [R²/(1 - R²)]·[(m - 1)/(n - m)]
+- Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
+- Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+
+**D:** ⚠️ A che cosa si riduce il fit 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 nel modello ristretto, quando l'unica variabile esplicativa è il termine costante (slide 20–21 della lezione 28)?
+**R:** Slide 20: richiamata la (43), «si osserva che quando l'unica variabile esplicativa è il termine costante (come accade nel caso del modello ristretto), l'equazione precedente diventa: **𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲** (137) dove 𝟏 denota un vettore colonna n × 1 i cui elementi sono tutti pari a 1». Slide 21: «𝐲̂^{OLS} = 𝟏(1/n)𝟏′𝐲 = 𝟏(1/n)∑_{k=1}^n y_k = 𝟏(∑_{k=1}^n y_k/n) = ȳ𝟏 e quindi: **𝐲̂^{OLS} = 𝐲̄** (138) dove 𝐲̄ è un vettore colonna n × 1 i cui elementi sono tutti pari a ȳ, ossia alla media campionaria della variabile dipendente (cfr. equazione 93)». Il docente: il fit «è proprio uguale alla media, che è un altro vettore colonna che esprime la media campionaria, n per 1» (transcript [00:27:28]), e lo chiama «lo stimatore». ⚠️ Nel modello ristretto ogni stima è la **media** ȳ, non l'osservazione y_i; 𝟏′𝟏 = n, quindi (𝟏′𝟏)^(-1) = 1/n (deduzione).
+**Opzione:** 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
+**Distrattori:**
+- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲, il vettore colonna n × 1 i cui elementi sono le osservazioni della variabile dipendente
+- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+- Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
+
+**D:** ⚠️ Quale uguaglianza vale nel modello ristretto (equazioni 139 e 140 della lezione 28), e quali somme vi si riconoscono?
+**R:** Slide 21: «Dalla 138 discende che nel modello ristretto vale la seguente uguaglianza: **∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²** (139)». Slide 22: «Si riconosce nel termine sinistro della 139 la formula della **somma totale dei quadrati** di cui all'equazione 92 e nel termine destro la formula della **somma dei quadrati dei residui** di cui all'equazione 96. Pertanto, si può concludere che nel caso del modello ristretto vale la seguente uguaglianza: **TSS = RSS^r** (140)». Il docente: «Nel termine sinistro di questa relazione ritroviamo la formula della somma totale dei quadrati dell'equazione vista precedentemente 92. Nel termine destro la somma dei quadrati dei residui. Quindi possiamo scrivere la formula precedente come TSS uguale RSS del modello ristretto» (transcript [00:27:57]–[00:28:10]). ⚠️ Il termine destro è la somma dei quadrati dei **residui**, perché nel modello ristretto ŷ_i^{OLS} = ȳ (deduzione); non è la devianza spiegata ESS.
+**Opzione:** ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+**Distrattori:**
+- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)², cioè TSS = ESS^r: a sinistra la somma totale dei quadrati, a destra la devianza spiegata
+- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
+- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+
+**D:** ⚠️ Come si riscrive l'F-test sostituendo TSS = RSS^r nella 133 e applicando la 98 (slide 22 della lezione 28)?
+**R:** Slide 22: «Sostituendo ora il termine sinistro della 140 all'interno del termine destro della 133 si ha: **F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]** che, in virtù della 98, può essere riscritta come: **= [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]**». Le slide 23–24 proseguono: = (ESS^{nr}/RSS^{nr})·[(n - m)/(m - 1)]; moltiplicando e dividendo per TSS e «riaggiustando», = (ESS^{nr}/TSS)·[1/(RSS^{nr}/TSS)]·[(n - m)/(m - 1)]; «utilizzando di nuovo l'uguaglianza 98», = (ESS^{nr}/TSS)·[1/(1 - ESS^{nr}/TSS)]·[(n - m)/(m - 1)]; e «per la definizione di R² (cfr. equazione 103)» si ha la (136). Il docente: «la parte spiegata ESS non ristretto diviso m meno 1 su RSS del modello non ristretto n meno m» (transcript [00:28:34]). ⚠️ TSS - RSS^{nr} = **ESS^{nr}** va al **numeratore**; RSS^{nr} resta al denominatore.
+**Opzione:** F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
+**Distrattori:**
+- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [RSS^{nr}/(m - 1)]/[ESS^{nr}/(n - m)]
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
+- β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+
+**D:** ⚠️ Come viene comunemente denotata l'ipotesi nulla nella verifica delle ipotesi, secondo il test della lezione 28 (domanda 1)?
+**R:** «**H0**», cioè H_0: è la notazione della slide 2, «si dirà che l'ipotesi nulla H_0 così formulata: H_0: β_i = β_i^∗ non può essere rigettata». Il docente: «allora potremmo definire l'ipotesi nulla h0» (transcript [00:01:41]). Distrattori del test: «H1» è l'ipotesi alternativa (slide 3), la chiave della domanda 2: oggetto scambiato. «H01» e «A» non sono nei materiali: le slide e il docente usano solo H_0 e H_1. ⚠️ Le domande 1 e 2 sono speculari, con le stesse quattro opzioni.
+**Opzione:** H0
+**Distrattori:**
+- H1
+- H01
+- A
+
+**D:** ⚠️ Come viene comunemente denotata l'ipotesi alternativa nella verifica delle ipotesi, secondo il test della lezione 28 (domanda 2)?
+**R:** «**H1**», cioè H_1: slide 3, «L'ipotesi opposta all'ipotesi nulla è detta ipotesi alternativa ed è denotata con H_1. Nel caso in esame, l'ipotesi alternativa è: H_1: β_i ≠ β_i^∗». Il docente: «l'ipotesi alternativa denotata con H con 1» (transcript [00:01:41]–[00:02:11]). Distrattori del test: «H0» è l'ipotesi nulla, la chiave della domanda 1; «H01» e «A» non sono nei materiali. ⚠️ La «A» non è una seconda risposta difendibile: né la slide né il docente denotano l'ipotesi alternativa con A o con H_A.
+**Opzione:** H1
+**Distrattori:**
+- H01
+- H0
+- A
+
+**D:** ⚠️ Qual è il t-ratio corrispondente a biOLS, l'i-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari, secondo il test della lezione 28 (domanda 3)?
+**R:** «**t:=biOLS/{[(x'x)-1s2e]ii}½**», cioè t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}): è la (130) della Definizione della slide 6, «è detta t-ratio (o rapporto t) per lo stimatore β̂_i^{OLS}». «s2e» è σ̂_ε², lo stimatore non distorto della varianza dell'errore, con il cappello perso; «½» è la radice quadrata. Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). Distrattori del test: «t:=biOLS/{[(x'x)]ii}½» perde l'inversa e σ̂_ε²; «t:={[(x'x)-1s2e]ii}½» perde il numeratore β̂_i^{OLS} ed è il solo errore standard dello stimatore SE(β̂_i^{OLS}) della lezione 26, la chiave della domanda 1 di quel test (pool condiviso); «t:=biOLS/[(x'x)-1s2e]» perde l'elemento diagonale e la radice, e divide uno scalare per una matrice (deduzione).
+**Opzione:** t:=biOLS/{[(x'x)-1s2e]ii}½
+**Distrattori:**
+- t:=biOLS/{[(x'x)]ii}½
+- t:={[(x'x)-1s2e]ii}½
+- t:=biOLS/[(x'x)-1s2e]
+
+**D:** ⚠️ Come si definisce l'F-test, secondo il test della lezione 28 (domanda 4)?
+**R:** «**F= [(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]**»: è la (133) della Definizione della slide 14, F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], «ove RSS^r e RSS^{nr} denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:41]). Distrattori del test, ognuno con un pezzo in meno: «F= [(RSSr - RSSnr)/(m-1)]/(n-m)» perde RSS^{nr} al denominatore; «F= [(RSSr - RSSnr)/(m-1)]/RSSnr» perde (n - m); «F= (RSSr - RSSnr)/RSSnr/(n-m)» perde (m - 1).
+**Opzione:** F= [(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]
+**Distrattori:**
+- F= [(RSSr - RSSnr)/(m-1)]/(n-m)
+- F= [(RSSr - RSSnr)/(m-1)]/RSSnr
+- F= (RSSr - RSSnr)/RSSnr/(n-m)
+
+**D:** ⚠️ Come è definito il p-value associato alla statistica F-test, secondo il test della lezione 28 (domanda 5)?
+**R:** «**p-value=Pr{X≥[(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]}**»: è la (134) della slide 16, con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m). Il docente: la probabilità che la variabile casuale X con densità F di Fisher «sia maggiore o uguale» alla statistica (transcript [00:21:25]), dove però dice «m-1 e n-1» invece di (n - m). È una matrice a tre assi: verso, divisione o prodotto per (m - 1), denominatore. Distrattori del test: «p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}» ha il verso invertito e le parentesi del denominatore spostate; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/[RSSnr/(n-m)]}» moltiplica per (m - 1) invece di dividere; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/RSSnr}» moltiplica e perde anche (n - m).
+**Opzione:** p-value=Pr{X≥[(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]}
+**Distrattori:**
+- p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}
+- p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/[RSSnr/(n-m)]}
+- p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/RSSnr}
