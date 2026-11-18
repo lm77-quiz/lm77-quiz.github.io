@@ -6098,3 +6098,286 @@
 - un approccio discorsivo
 - un approccio logico
 - un approccio ontologico
+
+## Lezione 21 — Gestione del rischio - Greche 5 – Delta-Gamma-Vega Hedging
+
+**D:** ⚠️ Con quali blocchi e colonne è costruito il foglio «Delta Gamma Hedging Cash Flow» della slide 2 della lezione 21?
+**R:** Slide 2, «Δ – Γ Hedging – vendita di 1 call IN – the money»: il blocco **Stock**, con «Dollars in Stock (Flow)»; il blocco **Option**, con «Cash ex Shorting/Exercising Option»; il blocco **Opt. for Γ**, con «Dollars in Option (Flow)»; il blocco **Bank**, con «Cash», «Interest (Flow)» e «Borrow (stock)»; infine la colonna «**Hedging Revenue (cost)**». Il docente: nella prima colonna «il dato di flusso dei dollari che sono stati investiti nell'azione» (transcript [00:00:49]); nella seconda «sono i 10.378 dollari rivenienti dalla vendita dell'opzione» ([00:03:13]); poi il flusso dell'«acquisizione nella posizione di portafoglio della opzione Z» ([00:03:26]); infine la cassa, l'interesse «in base al tasso R definito» e, nell'ultima colonna, il dato di stock del «rapporto finanziario complessivo» ([00:04:34]–[00:05:20]). ⚠️ Rispetto al cash flow del Δ hedging (deck 19, slide 2) c'è in più il blocco «Opt. for Γ», l'opzione Z.
+**Opzione:** Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+**Distrattori:**
+- Stock: Dollars in Stock (Flow); Option: Dollars in Option (Flow); Opt. for Γ: Cash ex Shorting/Exercising Option; Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+- Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+
+**D:** ⚠️ Quanto è investito al time step 0 in azioni e quanto nell'opzione Z, nel cash flow del Δ–Γ hedging in the money della lezione 21?
+**R:** Slide 2, prima riga: **6.800** dollari in «Dollars in Stock (Flow)» e **8.628** in «Dollars in Option (Flow)», a fronte dei 10.378 incassati con la vendita delle call. Il docente: «al time step 0 noi abbiamo 6.800 dollari investiti in azioni che rispetto alle strategie del delta hedging è veramente poca roba e abbiamo 8.600 dollari che sono investiti invece nell'opzione. Paradossalmente è più elevato l'investimento nell'opzione Z dell'investimento nelle azioni che poi dovranno essere consegnate nel caso in cui la call dovesse finire in o deep in the money» (transcript [00:01:42]–[00:02:05]). ⚠️ L'opzione Z costa **più** delle azioni; «8.600» è l'8.628 della tabella arrotondato. La stessa prima riga apre anche il cash flow out of the money della slide 8.
+**Opzione:** 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+**Distrattori:**
+- 8.628 dollari in azioni e 6.800 nell'opzione Z: paradossalmente l'investimento nelle azioni è più elevato di quello nell'opzione Z
+- Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+
+**D:** ⚠️ Come si forma la cassa iniziale di 5.050 dollari nel cash flow del Δ–Γ hedging della lezione 21?
+**R:** Slide 2, prima riga: Cash **5.050** = 6.800 (Dollars in Stock) - 10.378 (Cash ex Shorting/Exercising Option) + 8.628 (Dollars in Option), e il Borrow (stock) parte da 5.050. Il docente: «la cassa iniziale è quella che serve per finanziare gli investimenti in azioni e nell'opzione Z e quindi in realtà è il netto dell'introito della vendita dell'opzione call e dell'investimento in azioni e in obbligazioni che in questo caso al tempo zero fa 5050 dollari» (transcript [00:04:34]). ⚠️ «Obbligazioni» è un lapsus: il foglio non ne ha, e il conto torna con l'opzione Z. La stessa riga, 6.800, 10.378, 8.628 e 5.050, apre il cash flow out of the money della slide 8.
+**Opzione:** È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+**Distrattori:**
+- È il netto fra l'incasso della vendita delle call, 10.378, e il solo investimento in azioni, 6.800: l'opzione Z, 8.628, si finanzia a parte, fuori dalla cassa
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
+- Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+
+**D:** ⚠️ Perché, nel Δ–Γ hedging in the money della lezione 21, l'investimento in azioni cresce comunque all'approssimarsi della scadenza?
+**R:** Slide 2: negli ultimi tre time step Dollars in Stock vale 11.312, 37.133 e 52.139. Il docente: «alla fine della strategia di delta gamma hedging è chiaro che comunque la controparte dovrà approvvigionarsi delle azioni» (transcript [00:02:17]); «la compensazione derivante dall'opzione Z è in grado di ridurre all'inizio e durante la vita … l'investimento ma alla fine comunque se l'opzione finisce in the money le azioni dovranno essere integralmente comprate» ([00:02:36]), da cui «i flussi incrementali da 11.000, 37.000 e 52.000 dollari che servono per completare il portafoglio che andrà in consegna di azioni» ([00:03:00]). Intanto si vendono le opzioni Z, e «parte dell'acquisto dell'azione verrà finanziato dalla vendita delle opzioni» ([00:03:46]): l'ultima riga di Dollars in Option è (8.198).
+**Opzione:** Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+**Distrattori:**
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento alla fine, non all'inizio e durante la vita
+- Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
+- È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+
+**D:** ⚠️ Dove arriva il Borrow (stock) nel Δ–Γ hedging in the money della lezione 21, e che cosa ne conclude il docente rispetto al Δ hedging?
+**R:** Slide 2, ultima riga: Borrow (stock) **100.034**, Cash ex Shorting/Exercising Option (100.000), Hedging Revenue (cost) **34**. Il docente: l'esercizio dell'opzione allo strike K «porta ad una fuoriuscita di 100.000 dollari», e «alla fine in banca questa operatività è costata 100.034 dollari» (transcript [00:05:53]–[00:06:17]); il differenziale finanziario, «in questo caso un piccolo guadagno», «ha generato una differenza positiva di soli 34 dollari» ([00:06:27]–[00:06:46]); «questo valore è di un ordine di grandezza inferiore rispetto a quello che vedevamo con Delta Hedging» ([00:06:55]). ⚠️ Il segno è incerto: la cella scrive 34 senza parentesi e il docente parla di guadagno, ma nel Δ hedging lo stesso conto, 102.122 contro 100.000, dà il costo (2.122) (deck 19, slide 2).
+**Opzione:** Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
+**Distrattori:**
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza superiore al Δ hedging
+- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
+- 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+
+**D:** ⚠️ Perché, per il docente della lezione 21, la differenza finanziaria del Δ–Γ hedging è molto più piccola di quella del Δ hedging?
+**R:** Perché «la migliore capacità del portafoglio di approssimare il valore dell'opzione [ha] generato un maggiore allineamento tra i flussi di cassa effettivi e i flussi di cassa che sono stati generati dalla strategia di delta gamma hedging» (transcript [00:07:04]–[00:07:13]): «aumentare il grado di approssimazione nella stima del valore dell'opzione … ha anche migliorato e reso meno impattivo dal punto di vista dei costi o dei guadagni la strategia di copertura» ([00:07:25]–[00:07:29]). Lo ripete per il caso out of the money: «avendo migliorato l'approssimazione del portafoglio di replicazione attraverso lo sviluppo di Taylor raggiungendo la derivata seconda noi abbiamo una maggiore capacità del portafoglio di replica di replicare il valore dell'opzione» ([00:20:55]–[00:21:03]). La differenza nasce, dice, «dal tema della granularità degli investimenti relativamente al tempo» e dalle «frizioni che si incontrano sul mercato» ([00:06:27]–[00:06:46]).
+**Opzione:** Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
+**Distrattori:**
+- Perché, con lo sviluppo di Taylor fino alla derivata prima, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
+- Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
+- Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+
+**D:** ⚠️ Come è impostato il secondo esempio di Δ–Γ hedging della lezione 21 (slide 3)?
+**R:** Slide 3, «Δ – Γ Hedging: un esempio»: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è OUT – the money». Il docente: «questa volta ipotizzando di tenere l'opzione fino sempre alla scadenza, l'opzione Z, e ipotizzando che l'opzione W, cioè quella iniziale che abbiamo venduto, finisca invece out of the money» (transcript [00:08:07]; il riconoscimento vocale scrive «V»). ⚠️ W è la call **venduta**, Z quella **comprata** per coprire il Gamma. L'esempio precedente, nella lezione 20, aveva la W «IN – the money» (deck 20, slide 30).
+**Opzione:** Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
+**Distrattori:**
+- Si detiene l'opzione 'W' fino a scadenza, e alla scadenza l'opzione 'Z' è OUT – the money
+- Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
+- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
+
+**D:** ⚠️ Come si muove il prezzo dell'azione nell'esempio out of the money della lezione 21 (slide 4)?
+**R:** Slide 4, colonna STOCK PRICE: 100,0 al time step 0, poi 106,1, 104,2, 104,9, 99,0, 97,9, 93,3, 87,2, 79,5 all'ottavo, …, 74,7 al 19 e **71,5** al 20. Il docente: «l'opzione rimane in un range diciamo abbastanza vicino all'at the money fino al sesto settimo time step, poi inizia direi drammaticamente ad andare out of the money per poi ovviamente gli ultimi due time step a 74,7 dollari difficile che la volatilità possa con due time step riportare in the money o at the money l'opzione» (transcript [00:08:52]–[00:09:15]). La Time to Expiration va da 0,2500 a 0,0000: «i tre mesi, vengono ripartiti da 0.25 fino a 0» ([00:08:36]).
+**Opzione:** Parte da 100,0, at the money, resta vicino all'at the money fino al sesto-settimo time step, poi va drammaticamente out of the money e chiude a 71,5
+**Distrattori:**
+- Parte da 100,0, at the money, resta vicino all'at the money fino al secondo-terzo time step, poi va drammaticamente out of the money e chiude a 71,5
+- Dopo i 6.800 iniziali salgono al time step 1, con il prezzo verso l'in the money, poi si dismettono; a poco più di metà vita un piccolo investimento, con l'azione quasi at the money
+- Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
+
+**D:** ⚠️ Quando, nell'esempio out of the money della lezione 21, la posizione in Delta della call ha sostanzialmente completato il suo impatto (slide 4)?
+**R:** Slide 4: il Δ call parte dal «solito delta 0,564 all'avvio quando l'opzione è at the money e mancano tre mesi» (transcript [00:09:54]), sale a 0,654729124 al time step 1, torna intorno a 0,50 e, sotto 80, scende rapidamente: al time step 18 vale 0,001029286, con posizione **(1)**, al 19 1,09986E-07 e al 20 **0**. Il docente: il delta della posizione «già al diciottesimo time step ha sostanzialmente completato il suo impatto sulla definizione del nostro portafoglio» ([00:10:53]); sotto il livello di 80 «il delta tende a ridursi abbastanza rapidamente anche con il passare del tempo che ovviamente riduce la possibilità dell'opzione di generare valore intrinseco» ([00:10:23]). ⚠️ Nell'esempio in the money del Δ hedging (lezione 18) era il time step 14 a esaurire l'hedging, con il Delta a 1.
+**Opzione:** Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
+**Distrattori:**
+- Al quattordicesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
+- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
+- Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+
+**D:** ⚠️ Come evolve il magazzino di azioni del portafoglio A nell'esempio out of the money della lezione 21 (slide 4)?
+**R:** Slide 4, colonna Warehouse: 564 al time step 0, 655 al 1, poi 627, 639, 540, 517, 423, 293, 145, …, 1 al 18, «-» al 19 e al 20. Il docente: «al primo time step compreremo 564 azioni ma piano piano vedete il portafoglio va in dismissione, lo vedete tramite la colonna warehouse man mano che abbiamo un posizionamento dell'opzione nell'ambito degli spazi e degli eventi out of the money»; «il delta dello stock è sempre pari a 1» (transcript [00:11:35]–[00:11:56]), e il portafoglio ha «una neutralità del delta totale» ([00:12:08]). ⚠️ È il rovescio dell'esempio in the money della lezione 18, dove il magazzino arrivava a 1.000 azioni.
+**Opzione:** Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
+**Distrattori:**
+- Si comprano 564 azioni al time step 0, poi il magazzino cresce man mano che l'opzione va out of the money: 1.000 azioni al time step 18, tutte al 20
+- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
+- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+
+**D:** ⚠️ Fra quali valori vanno il Γ del portafoglio A e il valore della seconda opzione Z nell'esempio out of the money della lezione 21 (slide 5)?
+**R:** Slide 5, colonna «Γ Portfolio "A"», cioè Γ portafoglio = Γ I Option per n.az. Underlying: da **(15,70)** al time step 0 a (0,00) al 19, e «-» al 20. Il valore più negativo è (21,23), al time step 11. Colonna «II Option value»: da **8,532035235** a 0, mentre nell'esempio in the money della lezione 20 arrivava a 15,20266822 (deck 20, slide 32). Il docente: il gamma del portafoglio A «lo troviamo in questa colonna che va da un meno 15,70 fino a zero» (transcript [00:12:51]); il valore della seconda opzione «lo troviamo nell'ambito … della colonna Second Option Value che va da 8,53 fino a 0» ([00:13:25]). Poi si calcola il d_1, che «ci serve analiticamente per poter calcolare il valore del gamma della seconda opzione» ([00:13:44]).
+**Opzione:** Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
+**Distrattori:**
+- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z sale da 8,53 a 15,20
+- Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
+- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+
+**D:** ⚠️ A che cosa deve essere uguale, per costruzione, il Γ totale della seconda opzione nel portafoglio B dell'esempio out of the money della lezione 21 (slide 5)?
+**R:** Slide 5: la colonna «Γ II Option Tot», cioè n. II Option Buy per Γ II Option, ripete a ogni riga il Γ del portafoglio A con il segno opposto: 15,70263 contro (15,70) al time step 0, 14,2025 contro (14,20) al 1, 21,22699 contro (21,23) all'11; la colonna «Γ portfolio "B"» è «-», cioè zero, a ogni time step. Il docente: con 1.011 opzioni al tempo zero si calcola il gamma della seconda opzione, «che ovviamente deve essere per costruzione uguale a quello del portafoglio iniziale A», perché il portafoglio B ha «la caratteristica di neutralizzare completamente il gamma del portafoglio A» (transcript [00:14:33]–[00:14:53]); «non ci stupisce quindi che la prima colonna di questa simulazione numerica sia uguale alla colonna gamma seconda opzione totale», e il gamma di B è «identicamente uguale a zero» ([00:15:02]–[00:15:12]). La quantità segue «la formula che abbiamo identificato precedentemente» ([00:13:19]), nella lezione 20.
+**Opzione:** Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+**Distrattori:**
+- Al Δ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Δ di A, e il Δ del portafoglio B è zero
+- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+- Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+
+**D:** ⚠️ Che problema ha il portafoglio B dell'esempio out of the money della lezione 21 (slide 5)?
+**R:** «Il problema è che il delta del portafoglio B non è neutrale» (transcript [00:15:25]): con la seconda opzione Z «abbiamo ottenuto la possibilità di neutralizzare il gamma del portafoglio A ma il portafoglio B è ritornato ad essere delta non neutral», con una posizione «che ovviamente va a zero nel momento in cui il time step conclude con l'opzionalità out of the money» ([00:15:53]). Slide 5, colonna «Δ Port. "B"», Total Δ position: **496** al time step 0, 560 al 1, …, 1 al 18, «-» al 19 e al 20.
+**Opzione:** Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+**Distrattori:**
+- Non è Γ neutrale: la seconda opzione Z neutralizza il Delta, ma il Γ del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+
+**D:** ⚠️ Come si ottiene il portafoglio C nell'esempio out of the money della lezione 21, e si comprano o si vendono azioni (slide 6)?
+**R:** Slide 6: «Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B")». Il Warehouse è **(496)** al time step 0, (560) al 1, …, (1) al 18, e la colonna «Δ Portfolio "C"», Total Δ position, è «-» a ogni time step. Il docente: il portafoglio C «altro non è che il portafoglio B più quelle azioni che devo compravendere per andare a neutralizzare il portafoglio in termini di delta una nuova volta» (transcript [00:16:32]), «in particolare una vendita di azioni dato che il segno è sempre negativo» ([00:17:14]): fare delta gamma hedging «attraverso l'inserimento di una nuova opzione non fa altro che liberare risorse finanziarie potenziali dall'investimento in azioni» ([00:17:37]). ⚠️ Il magazzino del portafoglio C è **negativo**: si vendono azioni.
+**Opzione:** Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+**Distrattori:**
+- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si comprano azioni, con il segno sempre positivo, e si impegnano più risorse finanziarie nell'investimento in azioni
+- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+
+**D:** ⚠️ Fin dove arriva, al massimo, il magazzino di azioni del portafoglio C nell'esempio out of the money della lezione 21, rispetto al Δ hedging (slide 7)?
+**R:** Slide 7, «quantitative composition of the "C" Portfolio, value of Δ & Γ», colonna Stock Warehouse: **68** al time step 0, **95** al 1, poi 87, 93, 68, 63, 45, 24, 8, …, fino a zero, con (1), (1) e (3) ai time step 15–17. È la somma dei due magazzini, quello di A e quello di C: 564 - 496 = 68 (slide 4 e 6). Il docente: «il magazzino, vedete come è ridimensionato dal punto di vista quantitativo» (transcript [00:18:22]); «io da comprare oltre 400-500 azioni per coprirmi da un'opzione at the money come avveniva per il delta hedging addirittura in questo caso mi muovo in un ordine di grandezza inferiore, siamo intorno al 30, 40, 50, al massimo arriviamo a un magazzino di 95 azioni da finanziare» ([00:18:49]–[00:19:08]).
+**Opzione:** Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
+**Distrattori:**
+- Al massimo 655 azioni, al time step 1, poi in dismissione fino a zero: lo stesso ordine di grandezza delle 400-500 azioni del Δ hedging
+- Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+- Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
+
+**D:** ⚠️ Nella composizione del portafoglio C dell'esempio out of the money della lezione 21, che cosa resta invariante e che cosa si smobilita alla fine (slide 7)?
+**R:** Slide 7: la colonna «Short Opt.» è **(1.000)** a ogni time step; nel blocco «Option for Γ» si comprano 1.011 opzioni Z al time step 0, il Warehouse sale fino a **1.624** al time step 17, poi si vendono (672), (934) e (18) opzioni, fino a zero. Il docente: «troviamo, ed è invariante come sempre, l'opzione che è stata venduta», poi la compravendita della seconda opzione: «qui i numeri sono sensibilmente più importanti di magazzino e alla fine vengono completamente smobilitati perché essendo finita l'opzione out of the money non c'è da tenere in piedi ovviamente la posizione nella seconda opzione» (transcript [00:19:20]–[00:19:33]). ⚠️ La slide 3 dice che si detiene Z «fino a scadenza», ma il magazzino di Z è 18 al time step 19 e zero al 20, dopo la vendita di (18).
+**Opzione:** Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
+**Distrattori:**
+- Resta invariante la posizione nella seconda opzione, 1.011; l'opzione venduta, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
+- Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+
+**D:** ⚠️ Quanto valgono il Delta e il Gamma del portafoglio C nell'esempio out of the money della lezione 21 (slide 7)?
+**R:** Slide 7, blocco «Delta e Gamma»: le colonne «Δ portfolio C» e «Γ portfolio C» sono «-», cioè zero, a ogni time step. Il docente: «possiamo riepilogare con successo il delta e il gamma del portafoglio che come si nota in questa slide sono identicamente uguali a zero. In altri termini anche per la vendita di una call out of the money abbiamo realizzato una strategia delta gamma neutral ottenendo quindi il risultato che stavamo cercando» (transcript [00:19:57]–[00:20:07]).
+**Opzione:** Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
+**Distrattori:**
+- Il Delta è identicamente uguale a zero a ogni time step, il Gamma solo al time step 0: per la call out of the money si realizza una strategia solo delta neutral
+- Parte da 100,0, at the money, resta vicino all'at the money fino al sesto-settimo time step, poi va drammaticamente out of the money e chiude a 71,5
+- Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
+
+**D:** ⚠️ Quanto costa il Δ–Γ hedging nell'esempio out of the money della lezione 21 (slide 8)?
+**R:** Slide 8, «Delta Gamma Hedging Cash Flow», ultima riga: Borrow (stock) **9** e Hedging Revenue (cost) **(9)**, fra parentesi, cioè un costo. Il docente: «parliamo di 9 dollari di costo, questa è una strategia che dal punto di vista finanziario è stata estremamente meno [costosa], portando peraltro alla neutralità del portafoglio» (transcript [00:20:39]); «alla fine delle fiere questa operazione è costata sì e no 9 dollari dal punto di vista finanziario per il nostro operatore» ([00:24:36]), «confermando quindi la maggiore efficienza che l'approssimazione del delta gamma hedging consente a chi effettua strategie di copertura» ([00:25:01]). ⚠️ Nel caso in the money la differenza era di 34 dollari (slide 2); nel Δ hedging out of the money la colonna scrive (1.516) (deck 19, slide 5).
+**Opzione:** Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
+**Distrattori:**
+- Circa 34 dollari, la cifra della colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+- Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
+
+**D:** ⚠️ Che cosa rende «addirittura» più efficiente il Δ–Γ hedging nel caso out of the money, per il docente della lezione 21?
+**R:** «Addirittura nel caso out of the money, come spiegavo, il fatto di non dover mai costituire un ammontare di azioni che devono essere consegnate davanti all'esercizio delle mille opzioni call che sono state vendute genera ancora una volta particolarmente efficiente la gestione finanziaria del delta gamma hedging» (transcript [00:21:31]). Già prima: per un'opzione che finisce out of the money, che «non richiede la composizione del magazzino di azioni che debbano essere consegnate», il delta gamma hedging «è particolarmente poco assorbente diciamo dal punto di vista finanziario» ([00:18:37]–[00:18:49]). In generale la strategia «coinvolge una seconda opzione che a sua volta riduce l'ammontare di cassa che deve essere impegnata» ([00:21:03]).
+**Opzione:** Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
+**Distrattori:**
+- Dover costituire per tempo l'intero ammontare di azioni da consegnare all'esercizio delle mille call vendute
+- È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+- Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
+
+**D:** ⚠️ Come si muovono i dollari investiti in azioni nel cash flow out of the money della lezione 21 (slide 8)?
+**R:** Slide 8, «Dollars in Stock (Flow)»: 6.800 al time step 0, **2.864** al 1, poi soprattutto disinvestimenti, (833), (2.476), (1.680), (1.832), (1.272)…, e a poco più di metà vita due investimenti, **164** e **785**, ai time step 10 e 11. Il docente: i flussi «viaggiano tra il 6.800 dollari iniziali poi evidentemente il prezzo deve essere … andato in the money e quindi aumenta la richiesta finanziaria della strategia di trading dopodiché poiché l'opzione inesorabilmente sta iniziando a battere out of the money si dismettono gli investimenti effettuati ancorché particolarmente modesti» (transcript [00:22:12]); «a metà della vita dell'opzione, poco più di metà, vedete che c'è un altro piccolo investimento», «conseguente al rialzo dei prezzi che hanno riportato quasi ad essere at the money l'azione», per cui «il sistema di rischio riattiva un minimo di magazzino» ([00:22:41]–[00:22:49]). Al tempo zero l'investimento «è superiore in opzioni che in cash, che in azioni» ([00:23:32]): 8.628 contro 5.050 e 6.800.
+**Opzione:** Dopo i 6.800 iniziali salgono al time step 1, con il prezzo verso l'in the money, poi si dismettono; a poco più di metà vita un piccolo investimento, con l'azione quasi at the money
+**Distrattori:**
+- Dopo i 6.800 iniziali scendono al time step 1, con il prezzo verso l'out of the money, poi si accumulano; a poco più di metà vita un piccolo disinvestimento, con l'azione quasi at the money
+- Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
+- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+
+**D:** ⚠️ Su quale approssimazione si fonda il Δ–Γ–υ hedging nella slide 9 della lezione 21?
+**R:** Slide 9, «Δ–Γ–υ Hedging»: «Calcolo di df attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», **df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)**. Il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); «stiamo inserendo un terzo termine nell'approssimazione di Taylor che va a prendere la circostanza che f è una funzione che cambia al variare del tempo ovviamente ma anche al variare di s e della volatilità» ([00:26:12]). ⚠️ Taylor «del secondo ordine», come nel Δ–Γ hedging (deck 20, slide 2): il terzo **termine** non è un terzo **ordine**. Il Vega compare come ∂f/∂σ, senza il simbolo υ.
+**Opzione:** Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+**Distrattori:**
+- Su un'espansione di Taylor del terzo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+- Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
+- Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
+
+**D:** ⚠️ Quale termine aggiunge il Δ–Γ–υ hedging allo sviluppo del Δ–Γ hedging, e che derivata è, secondo la lezione 21?
+**R:** Il termine **(∂f/∂σ)dσ**: lo sviluppo del Δ–Γ hedging, df ≈ ΔdS + ½ΓdS² + o(dt) (deck 20, slide 2), diventa nella slide 9 df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt). Il docente: «approssimiamo il valore dell'opzione non attraverso soltanto il delta, cioè il primo termine …, non solo attraverso la derivata seconda … della nostra funzione f rispetto ad s, che ci consente quindi di portare in campo la quantità del gamma, ma intendiamo utilizzare anche un'altra derivata parziale rispetto al valore della volatilità» (transcript [00:25:36]–[00:25:55]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). ⚠️ È una derivata **prima**, rispetto a σ: il Vega, υ = ∂f/∂σ della lezione 17.
+**Opzione:** Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+**Distrattori:**
+- Il termine ½(∂²f/∂σ²)dσ²: un'altra derivata parziale, seconda, del valore di f rispetto alla volatilità, come il Gamma
+- Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
+
+**D:** ⚠️ Da quale situazione parte il Δ–Γ–υ hedging nelle slide 10–11 della lezione 21, e quale domanda pone?
+**R:** Slide 10: «Al tempo T=0 vendi 1 call» → «Si costruisca il nostro portafoglio in maniera tale da renderlo Δ neutrale»; la slide 11 aggiunge «?» e «Come si può rendere il nostro portafolio anche Γ–υ neutrale?» (sic, «portafolio»). Il docente: «Ipotizziamo che al tempo zero vendiamo una call e costruiamo quindi un portafoglio in maniera da renderlo, come abbiamo fatto sinora, delta neutrale. Come si può rendere il nostro portafoglio anche gamma vega neutrale? Questa è la domanda» (transcript [00:26:45]–[00:27:03]). ⚠️ Sono le slide 3–4 del Δ–Γ hedging (deck 20), con Γ–υ al posto di Γ.
+**Opzione:** Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+**Distrattori:**
+- Al tempo T=0 si compra 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+- Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
+- Dopo i 6.800 iniziali salgono al time step 1, con il prezzo verso l'in the money, poi si dismettono; a poco più di metà vita un piccolo investimento, con l'azione quasi at the money
+
+**D:** ⚠️ Quale logica propone per prima la slide 12 della lezione 21 per il Δ–Γ–υ hedging, e in quale ordine?
+**R:** Slide 12, «Seguiamo una logica iterativa»: un ciclo di frecce fra «Portafoglio Δ Neutrale», «Portafoglio Γ Neutrale», «Portafoglio υ Neutrale» e «Ricomposizione verso la Δ Neutralità», che torna al primo. Il docente: «Con il delta gamma hedging abbiamo visto che ha funzionato una strategia di carattere iterativo. In particolare abbiamo visto che un portafoglio delta neutrale, siamo andati a renderlo gamma neutrale, potremmo ritenere che quindi lo riferiremo [renderemo] vega neutrale, e poi ricomponiamo il tutto verso la delta neutralità» (transcript [00:27:07]–[00:27:26]). ⚠️ È la logica del Δ–Γ hedging (deck 20, slide 5) con una casella in più, e la slide 13 la boccia subito: «… ma questa logica NON È corretta».
+**Opzione:** Una logica iterativa: portafoglio Δ neutrale, poi Γ neutrale, poi υ neutrale, poi ricomposizione verso la Δ neutralità
+**Distrattori:**
+- Una logica iterativa: portafoglio Δ neutrale, poi υ neutrale, poi Γ neutrale, poi ricomposizione verso la Δ neutralità
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
+- Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
+
+**D:** ⚠️ Perché la logica iterativa non è corretta nel Δ–Γ–υ hedging, secondo la slide 13 della lezione 21?
+**R:** Slide 13: «… ma questa logica NON È corretta» → «?» → «… se il Γ–υ di un'azione è 0» → «… sfortunatamente il Γ dell'opzione NON È 0». Il docente: «Con il delta gamma vega hedging questa logica non è corretta. Non è corretta perché purtroppo il gamma dell'opzione non è zero. Il gamma vega di un'azione è zero ma il gamma dell'opzione no e quindi questa modalità operativa rischierebbe di non riuscire mai a neutralizzare il portafoglio in una logica delta gamma vega» (transcript [00:27:50]–[00:28:01]). ⚠️ A essere zero è il Γ–υ dell'**azione**; a non essere zero è il Γ dell'**opzione**.
+**Opzione:** Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
+**Distrattori:**
+- Perché, se il Γ–υ di un'opzione è 0, sfortunatamente il Γ dell'azione NON È 0
+- Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+- Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+
+**D:** ⚠️ Perché la logica iterativa funziona nel Δ–Γ hedging e non nel Δ–Γ–υ hedging, secondo le lezioni 20 e 21?
+**R:** Nel Δ–Γ hedging «… questa logica è corretta perchè il Γ di un'azione è 0» (deck 20, slide 6): la ricomposizione verso la Δ neutralità con le azioni non tocca il Gamma. Nel Δ–Γ–υ hedging anche il υ dell'azione è 0 (slide 13: «il Γ–υ di un'azione è 0»), ma per rendere il portafoglio υ neutrale serve un'opzione, e «sfortunatamente il Γ dell'opzione NON È 0». Il docente: il portafoglio Δ neutrale «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità» (transcript [00:28:48]–[00:29:13]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). Che per il Vega serva un'opzione è una deduzione: un'azione ha υ nullo.
+**Opzione:** Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
+**Distrattori:**
+- Nel Δ–Γ funziona perché il Δ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Δ neutralità, perché il Δ dell'opzione non è 0
+- Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+
+**D:** ⚠️ Che cosa serve, secondo la slide 14 della lezione 21, per superare il problema del Γ dell'opzione?
+**R:** Slide 14: dopo «… sfortunatamente il Γ dell'opzione NON È 0» la freccia porta a «… è necessaria un'altra opzione». Il docente: «è necessaria un'altra opzione, un'altra opzione che consenta quindi di poter risolvere il problema che il gamma dell'opzione non è zero e quindi poter ottenere contestualmente il gamma e il vega neutrale e quindi ricomporre poi il portafoglio per essere delta gamma vega neutrale» (transcript [00:28:19]). ⚠️ Un'altra **opzione**, non un'altra azione: insieme alla prima sono le due opzioni della slide 17.
+**Opzione:** È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+**Distrattori:**
+- È necessaria un'altra azione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+- Parte da 100,0, at the money, resta vicino all'at the money fino al sesto-settimo time step, poi va drammaticamente out of the money e chiude a 71,5
+- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+
+**D:** ⚠️ A che cosa si può puntare con l'altra opzione, e che cosa succede altrimenti, secondo la slide 15 della lezione 21?
+**R:** Slide 15: «… allora si può puntare ad ottenere un portafoglio Γ–υ neutrale» → «… altrimenti si entra un loop senza soluzione» (sic, senza «in»). Il docente: il delta gamma vega hedging, «se vogliamo avere un portafoglio gamma vega neutrale, richiede una strategia quindi differente, altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso» (transcript [00:28:48]). ⚠️ Il portafoglio da ottenere è Γ–υ neutrale **insieme**, non prima Γ e poi υ.
+**Opzione:** Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
+**Distrattori:**
+- Si può puntare a ottenere un portafoglio solo Γ neutrale; altrimenti si entra in un loop senza soluzione
+- Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+- Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
+
+**D:** ⚠️ Che cosa mostra il «circolo vizioso» della slide 16 della lezione 21, rispetto al ciclo della slide 12?
+**R:** Slide 16, «Questo è il circolo vizioso»: lo stesso ciclo della slide 12, Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Portafoglio υ Neutrale → Ricomposizione verso la Δ Neutralità, con in più una **freccia verde** che dal portafoglio υ neutrale torna al portafoglio Γ neutrale. Il docente: il portafoglio «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità che non ci consenterebbe la ricomposizione verso la delta neutralità» (transcript [00:28:48]–[00:29:13]). ⚠️ Si gira fra Γ e υ neutralità, e alla ricomposizione verso la Δ neutralità non si arriva mai.
+**Opzione:** Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+**Distrattori:**
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio Γ neutrale torna al Δ neutrale: si gira fra Δ e Γ neutralità senza arrivare alla neutralità del υ
+- Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
+- 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+
+**D:** ⚠️ Com'è fatto il «circolo virtuoso» della slide 17 della lezione 21?
+**R:** Slide 17, «Questo è il circolo virtuoso»: Portafoglio Δ Neutrale → «Uso congiunto di 2 opzioni» → Portafoglio Γ–υ Neutrale → Ricomposizione verso la Δ Neutralità → di nuovo Portafoglio Δ Neutrale. Il docente: «Quello che bisogna fare è quindi costruire un circolo virtuoso, usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo», poi «potremo ricomporre il portafoglio verso la delta neutralità» (transcript [00:29:30]–[00:29:44]); «Questo è l'approccio corretto che svilupperemo quindi nelle successive lezioni» ([00:29:54]). ⚠️ Due opzioni, non tre; e le caselle Γ e υ si fondono in una sola, «Γ–υ Neutrale».
+**Opzione:** Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+**Distrattori:**
+- Portafoglio Δ neutrale, poi uso congiunto di 3 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+- Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
+- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
+
+**D:** Che differenza c'è, nella lezione 21, fra il circolo vizioso e il circolo virtuoso del Δ–Γ–υ hedging?
+**R:** Nel circolo vizioso (slide 16) Γ e υ si neutralizzano **uno dopo l'altro**: la υ neutralità rompe la Γ neutralità, perché «il Γ dell'opzione NON È 0» (slide 13), e si torna indietro senza fine, «un loop senza soluzione» (slide 15). Nel circolo virtuoso (slide 17) si usano **congiuntamente due opzioni**, e il portafoglio diventa Γ–υ neutrale «nello stesso tempo»; solo dopo si ricompone verso la Δ neutralità (transcript [00:28:48]–[00:29:44]). Nel Δ–Γ hedging, invece, la logica iterativa bastava, perché il Γ di un'azione è 0 (deck 20, slide 6).
+
+**D:** ⚠️ Come può essere formalizzato l'approccio Delta-Gamma-Vega Hedging (domanda 1 del test della lezione 21)?
+**R:** «**utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f**»: la slide 9 scrive «Calcolo di df attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt), e il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); poco prima ha migliorato «l'approssimazione del portafoglio di replicazione attraverso lo sviluppo di Taylor» ([00:20:55]–[00:21:03]). 🚨 La piattaforma segna invece «utilizzando la formula di Eulero…»: è una chiave sbagliata. La formula di Eulero nel corso compare solo nella lezione 01, per la trasformata di Fourier. Gli altri distrattori del test: «come un sistema di equazioni alle differenze», che non è nei materiali; «utilizzando la formula di Feynman-Cac…», il teorema del pricing della lezione 16. ⚠️ Se la domanda torna identica, la piattaforma potrebbe dare il punto a Eulero; nel merito vale Taylor.
+**Opzione:** utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f
+**Distrattori:**
+- utilizzando la formula di Eulero sul differenziale del valore di un portafoglio di replicazione del derivato f
+- come un sistema di equazioni alle differenze
+- utilizzando la formula di Feynman-Cac sul differenziale del valore di un portafoglio di replicazione del derivato f
+
+**D:** ⚠️ Come può essere formalizzato analiticamente l'approccio Delta-Gamma-Vega Hedging, dato il valore di un derivato f, secondo il test della lezione 21 (domanda 2)?
+**R:** «**df ≈ DdS+1/2GdS2+ds df/ds +o(dt)**», cioè la formula della slide 9, df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt), con «D» per Δ, «G» per Γ e la «s» minuscola per σ. Il docente: al Delta, «il primo termine», e al Gamma, la derivata seconda rispetto a S, si aggiunge «un'altra derivata parziale rispetto al valore della volatilità», «un terzo termine nell'approssimazione di Taylor» (transcript [00:25:36]–[00:26:12]). Distrattori del test: «df ≈ DdS+ds df/ds +o(dt)» toglie il termine del Gamma, che sta in mezzo; «df ≈ DdS» è il Δ hedging della lezione 18 senza nemmeno o(dt); «f= StN'(d1) (T-t)1/2» è la formula del Vega, S_tN'(d_1)√(T-t), con «f=» davanti. ⚠️ In «ds df/ds» la s minuscola è σ, non il sottostante S.
+**Opzione:** df ≈ DdS+1/2GdS2+ds df/ds +o(dt)
+**Distrattori:**
+- f= StN'(d1) (T-t)1/2
+- df ≈ DdS+ds df/ds +o(dt)
+- df ≈ DdS
+
+**D:** ⚠️ Con che cosa richiede di ricomporre il portafoglio di copertura l'approccio Delta-Gamma-Vega Hedging, secondo il test della lezione 21 (domanda 3)?
+**R:** «**due opzioni**»: è la casella «Uso congiunto di 2 opzioni» del circolo virtuoso della slide 17; la slide 14 dice «… è necessaria un'altra opzione». Il docente: «usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo» (transcript [00:29:30]). Distrattori del test: «un loop senza soluzione» è ciò in cui si entra «altrimenti» (slide 15), la chiave della domanda 4; «una logica iterativa» è quella della slide 12, che la slide 13 dichiara «NON È corretta»; «un approccio logico» non è nei materiali.
+**Opzione:** due opzioni
+**Distrattori:**
+- un loop senza soluzione
+- una logica iterativa
+- un approccio logico
+
+**D:** ⚠️ Che cosa comporta un approccio iterativo nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, secondo il test della lezione 21 (domanda 4)?
+**R:** «**un loop senza soluzione**»: la slide 15 dice «… altrimenti si entra un loop senza soluzione», e la slide 16, «Questo è il circolo vizioso», è il ciclo iterativo della slide 12 con la freccia che dal portafoglio υ neutrale torna al Γ neutrale. Il docente: «altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso dove il portafoglio delta neutrale tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale» (transcript [00:28:48]–[00:29:13]); il motivo è che «il gamma dell'opzione non è zero» ([00:27:55]). Distrattori del test: «l'uso congiunto di tre opzioni» è la chiave della domanda 5 con tre al posto di due; «un approccio logico» e «un approccio ontologico» non sono nei materiali.
+**Opzione:** un loop senza soluzione
+**Distrattori:**
+- l'uso congiunto di tre opzioni
+- un approccio logico
+- un approccio ontologico
+
+**D:** ⚠️ Come avviene la ricomposizione del portafoglio nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, secondo il test della lezione 21 (domanda 5)?
+**R:** «**l'uso congiunto di due opzioni**»: è la casella del circolo virtuoso della slide 17, «Uso congiunto di 2 opzioni», che porta al portafoglio Γ–υ neutrale e poi alla ricomposizione verso la Δ neutralità. Il docente: «usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo» (transcript [00:29:30]). Distrattori del test: «una logica iterativa» è la slide 12, bocciata dalla 13; «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Nel test della lezione 20 la stessa domanda, per il Delta-Gamma Hedging, ha per chiave proprio «una logica iterativa»: lì la logica è corretta perché il Γ di un'azione è 0.
+**Opzione:** l'uso congiunto di due opzioni
+**Distrattori:**
+- una logica iterativa
+- un approccio logico
+- un approccio ontologico
