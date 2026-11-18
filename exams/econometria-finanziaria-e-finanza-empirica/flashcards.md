@@ -6994,3 +6994,307 @@
 - b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)
 - b1OLS =[cov(x,y)/Var(x)]E(x)
 - b1OLS =E(y)- [cov(x,y)/Var(x)]
+
+## Lezione 24 — Modello Lineare 2 – Caso multidimensionale
+
+**D:** ⚠️ Come si scrive il modello di regressione lineare generalizzato al caso di m - 1 variabili esplicative, e quando lo si usa, secondo la slide 2 della lezione 24?
+**R:** Slide 2: «Il modello di Regressione Lineare di cui all'equazione 5 può essere agevolmente generalizzato al caso di m - 1 variabili esplicative, i.e.: y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε (29) laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti». L'equazione 5 è il modello a una variabile della lezione 23, y = β_0 + β_1x + ε. ⚠️ È y a essere spiegata dalle m - 1 variabili, non il contrario; le variabili sono m - 1, i coefficienti m, da β_0 a β_{m-1}. Il docente, leggendo la (29), dice «β2x3» al posto di β_3x_3 (transcript [00:00:31]).
+**Opzione:** y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
+**Distrattori:**
+- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento delle m - 1 variabili indipendenti possa essere spiegato avvalendosi delle informazioni contenute nella variabile aleatoria y
+- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
+- Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+
+**D:** ⚠️ Come si scrive la generica osservazione i-esima del modello multidimensionale (30), e che cosa indicano i due indici di x_{i(m-1)}, nella lezione 24?
+**R:** Slide 2: «Ipotizzando di avere n osservazioni campionarie della variabile dipendente y e altrettante osservazioni campionarie di ciascuna delle m - 1 variabili indipendenti x_1, x_2, …, x_{m-1}, alla luce della 29, la generica osservazione i-esima ammette allora la seguente rappresentazione: y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n (30)». Il primo indice di x è l'osservazione, da 1 a n; il secondo la variabile, da 1 a m - 1: è anche la riga e la colonna della matrice 𝐱 (32). Il docente: «stiamo generalizzando la 29 in base all'osservazione iesima estratta dal campione» (transcript [00:01:35]).
+**Opzione:** y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
+**Distrattori:**
+- y_i = β_0 + β_1x_{1i} + β_2x_{2i} + … + β_{m-1}x_{(m-1)i} + ε_i, i = 1, 2, …, n: il primo indice di x è la variabile, il secondo l'osservazione
+- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
+- Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
+
+**D:** ⚠️ Quali dimensioni hanno 𝐲, 𝛃, 𝐱 ed 𝛆 nella forma matriciale del caso multidimensionale, secondo le slide 3–4 della lezione 24?
+**R:** Slide 3–4: 𝐲 «come il vettore n × 1 formato dalle n osservazioni della variabile y» (24); 𝛃 «come il vettore m × 1 formato dagli m coefficienti della regressione» (31); 𝐱 «come la matrice n × m» (32); 𝛆 «come il vettore n × 1 formato dagli n errori della regressione» (33). ⚠️ 𝐱 è n × m: n righe, una per osservazione, e m colonne, la colonna di 1 più le m - 1 variabili. È la matrice A dello stimatore lineare a essere m × n (slide 5). Nella lezione 23 𝛃 era 2 × 1 e 𝐱 n × 2 (slide 22 del deck 23).
+**Opzione:** 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
+**Distrattori:**
+- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice m × n, 𝛆 vettore n × 1
+- È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+
+**D:** ⚠️ Com'è fatta la prima colonna della matrice 𝐱 (32) della lezione 24, e a che cosa serve?
+**R:** Slide 4: la riga i-esima di 𝐱 è [1 x_{i1} … x_{i(m-1)}], quindi la prima colonna è formata da soli 1. Il docente: «abbiamo nella prima colonna l'1, che serve per riflettere beta0, non moltiplica infatti x» (transcript [00:02:55]–[00:03:08]). ⚠️ È anche l'errore ε a non moltiplicare alcuna x, ma ε sta nel vettore 𝛆, non in 𝐱. La stessa colonna regge la dimostrazione della (45): «dove la prima colonna della matrice 𝐱 è formata da soli 1» (slide 13).
+**Opzione:** È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+**Distrattori:**
+- È formata da soli 1, e serve a riflettere ε, l'errore che non moltiplica alcuna x
+- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
+- Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+
+**D:** ⚠️ Come si scrive in forma matriciale compatta la (30), secondo la slide 4 della lezione 24?
+**R:** Slide 4: «la 30 può essere rappresentata in forma più compatta attraverso la seguente notazione matriciale: 𝐲 = 𝐱𝛃 + 𝛆 (34)». ⚠️ Il transcript la scrive «y' uguale x' per β' più ε'» (transcript [00:03:58]): la slide non ha trasposte, e vale la slide. Con ogni probabilità gli apici sono il grassetto dei vettori, letto male dal riconoscimento vocale.
+**Opzione:** 𝐲 = 𝐱𝛃 + 𝛆 (34)
+**Distrattori:**
+- 𝐲′ = 𝐱′𝛃′ + 𝛆′ (34)
+- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
+- 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
+
+**D:** ⚠️ Quando uno stimatore 𝛃^{estim} del vettore 𝛃 è detto stimatore lineare, secondo la definizione della slide 5 della lezione 24?
+**R:** Slide 5: «Uno stimatore 𝛃^{estim} del vettore 𝛃 dei parametri del modello di cui all'equazione 34 è detto stimatore lineare se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che: 𝛃^{estim} = A𝐲». Il docente: «questa è una definizione» (transcript [00:04:30]). ⚠️ A è **m × n**, il rovescio della matrice 𝐱, che è n × m: per il vettore 𝐲, n × 1, dà un vettore m × 1 come 𝛃 (deduzione dalle dimensioni).
+**Opzione:** Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
+**Distrattori:**
+- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine n × m tale che 𝛃^{estim} = A𝐲
+- Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
+- La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+
+**D:** ⚠️ Che cosa si chiama omoschedasticità, e che cosa significa che gli errori non sono autocorrelati, nell'assunzione della slide 5 della lezione 24?
+**R:** Slide 5: «Per ogni dato valore della matrice dei regressori 𝐱, gli elementi del vettore degli errori del modello lineare hanno tutti la stessa varianza (omoschedasticità) e non sono autocorrelati». Il docente: «Questa si chiama omoschedasticità» (transcript [00:05:33]); non autocorrelati «vuol dire che non esiste legame tra i vari errori del modello» ([00:06:08]). In formule, Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 per i ≠ j (36). ⚠️ Omoschedasticità è la stessa **varianza**; l'assenza di autocorrelazione riguarda le **covarianze** fra errori diversi.
+**Opzione:** Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
+**Distrattori:**
+- Omoschedasticità: non esiste legame tra i vari errori del modello; non autocorrelati: gli elementi del vettore degli errori hanno tutti la stessa varianza
+- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
+- P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+
+**D:** ⚠️ Come si scrivono in formula le ipotesi (35) e (36) sugli errori del modello lineare, nella slide 5 della lezione 24?
+**R:** Slide 5: «∀i, j = 1, 2, …, n e con i ≠ j: Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36)». Ne segue la nota (37): E(ε_iε_j|𝐱) = 0 per ogni i ≠ j. ⚠️ La varianza è la costante σ_ε², la covarianza è zero; e sono condizionate alla matrice dei regressori 𝐱, mentre nella lezione 23 erano Var(ε_i) = σ_ε² e cov(ε_i, ε_j) = 0, senza condizionamento (slide 7 del deck 23). Il docente dice «la covarianza yi, yj» (transcript [00:06:08]): la slide parla degli errori.
+**Opzione:** Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
+**Distrattori:**
+- Var(ε_i|𝐱) = 0 (35) e cov(ε_i, ε_j|𝐱) = σ_ε² (36), ∀i, j = 1, 2, …, n con i ≠ j
+- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
+- Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+
+**D:** ⚠️ Su quali due ingredienti poggia la dimostrazione di E(ε_iε_j|𝐱) = 0 (37), per i ≠ j, nella slide 6 della lezione 24?
+**R:** Slide 6: «Si richiama l'ipotesi di cui all'equazione 36, i.e.: cov(ε_i, ε_j|𝐱) = 0 e, ricordando la definizione di covarianza tra due variabili aleatorie, la si riscrive come: E(ε_iε_j|𝐱) - E(ε_i|𝐱)E(ε_j|𝐱) = 0 da cui, ricordando che una delle assunzioni del modello lineare è che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo (cfr. equazione 12, lezione precedente), si ha: E(ε_iε_j|𝐱) - 0 × 0 = 0». L'equazione 12 della lezione 23 è E(ε_i|x_i) = 0. ⚠️ L'omoschedasticità (35) non serve. Il docente: «la dimostrazione di quest'ultimo elemento è abbastanza semplice» (transcript [00:06:55]).
+**Opzione:** Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+**Distrattori:**
+- Sull'ipotesi di omoschedasticità (35), riscritta con la definizione di varianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
+- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+
+**D:** ⚠️ Com'è fatta, condizionatamente a 𝐱, la matrice varianze-covarianze del vettore degli errori, secondo la nota della slide 6 della lezione 24?
+**R:** Slide 6: «Dalle ipotesi di cui alle equazioni 35 e 36 segue che, condizionatamente a 𝐱, la matrice varianze-covarianze del vettore degli errori del modello di regressione lineare è una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia: Var(𝛆|𝐱) = σ_ε²𝐈_n». Il docente: «una matrice che è popolata solo lungo la diagonale ed è uno altrove» (transcript [00:08:50]). ⚠️ «Uno altrove» è con ogni probabilità «zero altrove» reso male dal riconoscimento vocale: fuori dalla diagonale stanno le covarianze, nulle per la (36).
+**Opzione:** È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
+**Distrattori:**
+- È una matrice in cui tutti gli elementi della diagonale principale sono pari a σ_ε² e quelli fuori dalla diagonale sono pari a 1
+- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
+- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+
+**D:** ⚠️ Come si scrive la funzione obiettivo dei minimi quadrati in forma matriciale (39), e su quale fattore sta la trasposta, nella slide 7 della lezione 24?
+**R:** Slide 7: «o, equivalentemente per la 34: min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) (39)». Il docente: «trovare il valore minimo dei parametri beta che minimizzano la quantità y meno x beta trasposto per y meno x beta» (transcript [00:10:00]). ⚠️ La trasposta sta sul primo fattore: (𝐲 - 𝐱𝛃)′ è 1 × n, (𝐲 - 𝐱𝛃) è n × 1, e il prodotto è lo scalare della (38), la somma dei quadrati (deduzione dalle dimensioni). Con la trasposta sul secondo fattore si avrebbe una matrice n × n. È la forma già vista per m = 2 nella lezione 23 (slide 21 del deck 23).
+**Opzione:** min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
+**Distrattori:**
+- min_𝛃 (𝐲 - 𝐱𝛃)(𝐲 - 𝐱𝛃)′, con la trasposta sul secondo fattore
+- -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
+- 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+
+**D:** ⚠️ Quale ipotesi sulla matrice 𝐱 richiede la proposizione della lezione 24 che dà lo stimatore OLS in forma vettoriale, e a che cosa serve (slide 8 e 10)?
+**R:** Slide 8: «sia 𝐱 una matrice di rango pieno»; il docente: «attenzione» (transcript [00:10:45]). Slide 10: «Poichè per ipotesi la matrice 𝐱 ha rango pieno, la matrice quadrata 𝐱′𝐱 è invertibile e pertanto la 42 può essere esplicitata rispetto al vettore 𝛃». ⚠️ La matrice quadrata e invertibile è 𝐱′𝐱, m × m, non 𝐱, che è n × m.
+**Opzione:** Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
+**Distrattori:**
+- Che 𝐱 sia una matrice quadrata e invertibile: così la matrice 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
+- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
+- È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+
+**D:** ⚠️ Qual è lo stimatore OLS in forma vettoriale nel caso multidimensionale (40), secondo le slide 8 e 10 della lezione 24?
+**R:** Slide 8 e 10: «il vettore 𝛃̂^{OLS} degli stimatori dei minimi quadrati che risolvono tale problema di minimo è: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (40)». Il docente: «il vettore beta cappello OLS degli stimatori dei minimi quadrati … non è altro che x trasposto x alla meno 1 per x trasposto y» (transcript [00:10:45]). ⚠️ Non va confuso con il fit (43), 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che ha una 𝐱 in più davanti: 𝛃̂^{OLS} è m × 1, 𝐲̂^{OLS} è n × 1. Per m = 2 i due stimatori della lezione 23, β̂_0^{OLS} e β̂_1^{OLS}, sono le sue componenti.
+**Opzione:** Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
+**Distrattori:**
+- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲
+- 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
+- 𝐲 = 𝐱𝛃 + 𝛆 (34)
+
+**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto (𝐲′ - 𝛃′𝐱′)(𝐲 - 𝐱𝛃), e che cosa permette di arrivare alla (41), nella slide 9 della lezione 24?
+**R:** Slide 9: «svolgendo il prodotto: = min_𝛃 (𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃) che, osservando che tutti gli addendi della funzione obiettivo sono degli scalari, può essere riscritta come: min_𝛃 (𝐲′𝐲 - 2𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃) (41)». Il passaggio precedente (slide 8) è (𝐲 - 𝐱𝛃)′ = 𝐲′ - (𝐱𝛃)′ = 𝐲′ - 𝛃′𝐱′. Il docente: «osservando che tutti gli addendi della funzione obiettivo sono degli scalari potremo riscrivere la relazione originaria con la 41» (transcript [00:11:57]). Il motivo, che le slide non scrivono: uno scalare è uguale al proprio trasposto, e (𝐲′𝐱𝛃)′ = 𝛃′𝐱′𝐲.
+**Opzione:** 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+**Distrattori:**
+- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che la matrice 𝐱 ha rango pieno
+- 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
+- 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+
+**D:** ⚠️ Qual è la condizione del primo ordine per il problema (41), e a quale equazione porta, nelle slide 9–10 della lezione 24?
+**R:** Slide 9–10: «La condizione del primo ordine per il problema 41 è: d/d𝛃̂^{OLS} (𝐲′𝐲 - 2(𝛃̂^{OLS})′𝐱′𝐲 + (𝛃̂^{OLS})′𝐱′𝐱𝛃̂^{OLS}) = 0 ossia: -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0 semplificando: -𝐱′𝐲 + 𝐱′𝐱𝛃̂^{OLS} = 0 ossia: 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (42)». Il docente: «otteniamo meno 2 x trasposto y più 2 x trasposto x beta ols, … semplificando il 2» (transcript [00:12:55]). ⚠️ Il 2 compare in **entrambi** i termini e si semplifica.
+**Opzione:** -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
+**Distrattori:**
+- -2𝐱′𝐲 + 𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 2𝐱′𝐲, la 42
+- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
+
+**D:** ⚠️ Quale equazione è detta «equazione normale» o «sistema di equazioni normali» dei minimi quadrati ordinari, nella nota della slide 11 della lezione 24?
+**R:** Slide 11: «L'equazione 42 è spesso chiamata "equazione normale" o "sistema di equazioni normali" (essendo un'equazione matriciale) dei minimi quadrati ordinari». La 42 è 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (slide 10). Il docente: «L'equazione 42 è spesso chiamata equazione normale o sistema di equazioni normali, essendo un'equazione in forma matriciale» (transcript [00:14:12]). ⚠️ È l'equazione **prima** dell'inversione: la (40), 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, ne è la soluzione, possibile perché 𝐱′𝐱 è invertibile.
+**Opzione:** La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+**Distrattori:**
+- La 40, 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, detta sistema perché è un'equazione matriciale
+- 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
+- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+
+**D:** ⚠️ Perché, nella slide 10 della lezione 24, la condizione del primo ordine basta a identificare in 𝛃̂^{OLS} un punto di minimo?
+**R:** Slide 10: «Inoltre, essendo 𝐱′𝐱 anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in 𝛃̂^{OLS} un punto di minimo. c.v.d.» Il docente: «essendo x trasposto x anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in βOLS il punto di minimo» (transcript [00:13:47]). ⚠️ Definita **positiva**: è ciò che fa del punto stazionario un minimo.
+**Opzione:** Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+**Distrattori:**
+- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita negativa
+- Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+
+**D:** ⚠️ Come si scrive il fit della regressione lineare ottenuto con lo stimatore OLS nel caso multidimensionale, nelle equazioni (43) e (44) della lezione 24?
+**R:** Slide 11, corollario: «Nel caso multidimensionale, l'espressione del fit della regressione lineare ottenuto con lo stimatore dei minimi quadrati ordinari è la seguente: 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43)»; nota: «Resta fermo che, alla luce della 40, 𝐲̂^{OLS} ammette anche la seguente rappresentazione: 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)». Il docente la chiama «l'equazione di stima» (transcript [00:15:03]). ⚠️ C'è una 𝐱 in più rispetto allo stimatore (40). Con la matrice di proiezione, lo stesso fit è 𝐲̂^{OLS} = P𝐲 (53).
+**Opzione:** 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
+**Distrattori:**
+- 𝐲̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝛃̂^{OLS} (44)
+- 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
+- -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
+
+**D:** ⚠️ Di che cosa è combinazione lineare il fit della regressione lineare, e con quali pesi, secondo il «Fatto» della slide 12 della lezione 24?
+**R:** Slide 12, fatto: «Il fit della regressione lineare è una combinazione lineare delle colonne della matrice dei regressori 𝐱 i cui coefficienti (o pesi) sono le varie componenti del vettore 𝛃̂ degli stimatori dei coefficienti del modello di regressione 29». Nel caso OLS i pesi sono «le componenti del vettore colonna m × 1 identificato dal termine destro dell'equazione 40». Il docente: «Bisogna prendere atto che il fit della regressione lineare è di fatto una combinazione lineare delle colonne della matrice dei regressori x» (transcript [00:15:09]). ⚠️ Delle **colonne**, una per coefficiente: è il «Fatto 1» che la slide 15 richiama per la proiezione ortogonale.
+**Opzione:** Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+**Distrattori:**
+- Delle righe della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+- Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
+- P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+
+**D:** ⚠️ Che cosa afferma la proposizione della slide 13 della lezione 24 sulla media campionaria di 𝐲?
+**R:** Slide 13: «La media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}, i.e.: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i (45)». Il docente: «Questo è molto importante perché ci consente di poter mettere in relazione la stima con il dato osservato» (transcript [00:16:19]). ⚠️ La media dei **residui**, invece, è zero: è il corollario (47), la somma dei residui OLS pari a zero.
+**Opzione:** Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+**Distrattori:**
+- Che la media campionaria di 𝐲 coincide con la media campionaria dei residui 𝛜^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ϵ_i^{OLS}
+- In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+- Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+
+**D:** ⚠️ Su quale caratteristica della matrice 𝐱 poggia, nella lezione 24, la dimostrazione che la media di 𝐲 coincide con quella del fit, e quindi che la somma dei residui OLS è zero?
+**R:** Slide 13: dal sistema di equazioni normali 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (42), «si osserva che, alla luce dell'equazione 32 (dove la prima colonna della matrice 𝐱 è formata da soli 1), la prima equazione di tale sistema può essere scritta come segue: 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲 (46) dove 𝟏 denota un vettore colonna n × 1 i cui elementi sono tutti pari a 1». Poi 𝟏′𝐲̂^{OLS} = 𝟏′𝐲 e, dividendo per n, la (45) (slide 14). Il docente: «dove la prima colonna della matrice, ricordiamo, è formata da soli 1» (transcript [00:16:56]). ⚠️ La slide enuncia la (45) e la (47) senza condizioni: la colonna di 1, cioè β_0 nel modello, entra solo nella dimostrazione. Che senza intercetta la somma dei residui in generale non sia zero è un'integrazione, non dalle slide.
+**Opzione:** Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
+**Distrattori:**
+- Sull'ultima colonna della matrice 𝐱, formata da soli 1: l'ultima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
+- Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
+- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
+
+**D:** ⚠️ Che cosa afferma la proposizione della slide 15 della lezione 24 sul fit della regressione ottenuto con i minimi quadrati ordinari?
+**R:** Slide 15: «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, 𝐲̂^{OLS}, è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱. In altri termini, tra tutte le combinazioni lineari delle colonne di 𝐱, 𝐲̂^{OLS} è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} ortogonale al sottospazio generato dalle colonne di 𝐱». Il docente: transcript [00:18:26]–[00:18:56]. ⚠️ Il fit sta **nel** sottospazio, il vettore dei residui gli è **ortogonale**.
+**Opzione:** 𝐲̂^{OLS} è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱: tra tutte le combinazioni lineari delle colonne di 𝐱, è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} ortogonale al sottospazio generato dalle colonne di 𝐱
+**Distrattori:**
+- 𝐲̂^{OLS} è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱: tra tutte le combinazioni lineari delle colonne di 𝐱, è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} appartenente al sottospazio generato dalle colonne di 𝐱
+- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
+- Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+
+**D:** ⚠️ Quali due punti occorre dimostrare, nella lezione 24, perché 𝐲̂^{OLS} sia la proiezione ortogonale di 𝐲, e da dove discende il primo (slide 15)?
+**R:** Slide 15: «occorre dimostrare che: ❶ 𝐲̂^{OLS} appartiene al sottospazio vettoriale generato dalle colonne di 𝐱; ❷ il vettore 𝐲 - 𝐲̂^{OLS} (ossia il residuo della regressione lineare di 𝐲 su 𝐱 stimata col metodo dei minimi quadrati ordinari) è ortogonale al sottospazio vettoriale generato dalle colonne di 𝐱. Il punto sub. 1 è una diretta conseguenza del Fatto 1», quello della slide 12: il fit è una combinazione lineare delle colonne di 𝐱. Il punto 2 equivale alla (48), 𝐱′(𝐲 - 𝐲̂^{OLS}) ≟ 0 (slide 16). Il docente: transcript [00:19:13]–[00:19:59].
+**Opzione:** Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
+**Distrattori:**
+- Primo: 𝐲̂^{OLS} è ortogonale al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} appartiene a quel sottospazio
+- In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+- Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
+
+**D:** ⚠️ A quale uguaglianza equivale il punto 2 della dimostrazione dell'ortogonalità, e come la si verifica, nella slide 16 della lezione 24?
+**R:** Slide 16: il punto sub. 2 «equivale a dimostrare la validità della seguente uguaglianza: 𝐱′(𝐲 - 𝐲̂^{OLS}) ≟ 0 (48). A tal fine si riscrive la 48 esplicitando 𝐲̂^{OLS} in base all'equazione 43, i.e.: 𝐱′(𝐲 - 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲) ≟ 0 sviluppando il prodotto di cui al termine sinistro: 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 ≟ 0 Semplificando segue la tesi». 𝐱′𝐱(𝐱′𝐱)^(-1) è l'identità (deduzione). Il docente: transcript [00:20:02]–[00:20:36].
+**Opzione:** 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+**Distrattori:**
+- 𝐲′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐲′𝐲 - 𝐲′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+- 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
+- La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+
+**D:** ⚠️ Quali uguaglianze afferma il corollario della slide 17 della lezione 24?
+**R:** Slide 17: «Valgono le seguenti uguaglianze: 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50)». La 49 «discende direttamente dalla già dimostrata validità dell'equazione 48, considerando la definizione di residuo OLS, i.e.: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS}». Per la 50 si scrive 𝐲̂^{OLS} come 𝐱𝛃̂^{OLS} (44): (𝐱𝛃̂^{OLS})′𝛜^{OLS} = (𝛃̂^{OLS})′𝐱′𝛜^{OLS}, che è zero per la 48. ⚠️ La slide scrive «(𝛃̂^{OLS})′𝐱𝛜^{OLS}», senza l'apice su 𝐱: è un refuso, perché la stessa proprietà delle trasposte dà (𝐱𝛃)′ = 𝛃′𝐱′ (slide 8). Il docente legge come la slide (transcript [00:21:24]).
+**Opzione:** 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
+**Distrattori:**
+- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝐲 = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e il fit è ortogonale a 𝐲
+- Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
+- Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+
+**D:** ⚠️ Che relazione lega 𝐳′𝐳 alla norma euclidea, e come si riscrive di conseguenza il problema (39), nelle slide 18–19 della lezione 24?
+**R:** Slide 18: «per qualsiasi vettore colonna n-dimensionale, 𝐳, vale: 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖²», per cui la (39) «può essere riscritto in modo equivalente come: min_𝛃 ‖𝐲 - 𝐱𝛃‖²», e quindi come min_𝛃 ‖𝐲 - 𝐱𝛃‖ (51) (slide 19), «dove il simbolo ‖ ‖ denota la norma euclidea». ⚠️ 𝐳′𝐳 è la norma **al quadrato**: il docente dice «z trasposto z è uguale alla norma euclidea di z» (transcript [00:22:08]), senza il quadrato; vale la slide.
+**Opzione:** 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+**Distrattori:**
+- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖, la norma euclidea di 𝐳, per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
+- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
+
+**D:** ⚠️ Che cosa significa minimizzare la funzione obiettivo della (51), secondo la slide 19 della lezione 24?
+**R:** Slide 19: «Ciò significa che minimizzare rispetto al vettore 𝛃 la funzione obiettivo della 51 equivale a individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃. A sua volta il vettore 𝐱𝛃 al variare di 𝛃 individua tutte le possibili combinazioni lineari delle colonne della matrice 𝐱 o, in altri termini, individua il sottospazio vettoriale generato dalle colonne di 𝐱. E' quindi intuitivo che il valore ottimale di 𝛃 sia quello che premoltiplicato per la matrice 𝐱 restituisce la proiezione ortogonale di 𝐲 sul sottospazio vettoriale generato dalle colonne di 𝐱». Il docente: transcript [00:22:36]–[00:23:20]. È la versione vettoriale dell'interpretazione geometrica della lezione 23 (slide 15 di quel deck).
+**Opzione:** Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+**Distrattori:**
+- Individuare il valore di 𝛃 che massimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
+- Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+
+**D:** ⚠️ Come è definita la matrice di proiezione OLS P, di che ordine è, e che relazione ha con il fit, nella slide 20 della lezione 24?
+**R:** Slide 20: «Si definisce matrice di proiezione OLS e si denota con P la matrice quadrata di ordine n così definita: P := 𝐱(𝐱′𝐱)^(-1)𝐱′ (52)»; «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, 𝐲̂^{OLS}, ammette la seguente rappresentazione come prodotto tra la matrice di proiezione OLS P e il vettore 𝐲: 𝐲̂^{OLS} = P𝐲 (53)». ⚠️ P è n × n, mentre 𝐱′𝐱 è m × m. La dimostrazione: «Ictu oculi dalle equazioni 43 e 53» (sic: la definizione è la 52); il docente, «una banale sostituzione della formula 43» (transcript [00:24:00]).
+**Opzione:** P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
+**Distrattori:**
+- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine m, con 𝐲̂^{OLS} = P𝐲
+- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
+- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+
+**D:** ⚠️ Quali proprietà hanno la matrice di proiezione P e la matrice M dei residui, e che cosa si deve dimostrare per ciascuna, nelle slide 21–26 della lezione 24?
+**R:** Slide 21: «La matrice di proiezione OLS, P, di cui all'equazione 53 è simmetrica e idempotente»: P ≟ P′ (54) e P ≟ PP (55). Slide 24: «La matrice di generazione dei residui OLS, M, è simmetrica e idempotente»: M ≟ M′ (58) e M ≟ MM (59). Il docente: «quindi è sia simmetrica che idempotente» (transcript [00:29:21]). ⚠️ Le proprietà sono le stesse per P e per M. Nelle simmetrie serve che «la trasposta dell'inversa è uguale all'inversa della trasposta»; per M anche che «la matrice identità è simmetrica».
+**Opzione:** Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+**Distrattori:**
+- P è simmetrica e idempotente, M è solo simmetrica: P = P′ e P = PP, M = M′
+- Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
+- Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
+
+**D:** ⚠️ Come si rappresenta il vettore dei residui OLS con la matrice M, e com'è definita M, nella slide 23 della lezione 24?
+**R:** Slide 23: «Il vettore dei residui della regressione lineare attraverso la tecnica OLS ammette la seguente rappresentazione: 𝛜^{OLS} = M𝐲 (56) ove M è la matrice quadrata di ordine n così definita: M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) (57)». Dimostrazione: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS} = 𝐲 - 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 = (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲. Il docente: transcript [00:26:06]–[00:26:33]. ⚠️ Il segno è un **meno**: in termini di P, M = 𝐈_n - P (deduzione dalle (52) e (57)).
+**Opzione:** 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
+**Distrattori:**
+- 𝛜^{OLS} = M𝐲, con M := (𝐈_n + 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
+- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
+
+**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto MM nella dimostrazione dell'idempotenza di M, nelle slide 25–26 della lezione 24?
+**R:** Slide 26: «svolgendo il prodotto di cui al lato destro: ≟ [𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′] semplificando: ≟ [𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′] semplificando ancora: ≟ [𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′] e quindi anche la 59 è verificata». ⚠️ Il doppio prodotto ha il **2**. In termini di P: MM = 𝐈_n - 2P + PP = 𝐈_n - 2P + P = 𝐈_n - P = M (deduzione, con l'idempotenza di P). Il docente: transcript [00:29:04]–[00:29:21].
+**Opzione:** 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
+**Distrattori:**
+- 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n
+- y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
+- Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+
+**D:** ⚠️ Come si chiamano la matrice P e la matrice M della lezione 24 (slide 20 e 24)?
+**R:** Slide 20: P è la «matrice di proiezione OLS». Slide 24: «La matrice M di cui all'equazione 57 è detta matrice di generazione dei residui OLS o OLS residual maker». Il docente: «o in inglese Ordinary Least Square Residual Maker» (transcript [00:26:57]). ⚠️ Il residual maker è M, quella che genera i residui, 𝛜^{OLS} = M𝐲; P genera il fit, 𝐲̂^{OLS} = P𝐲.
+**Opzione:** P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+**Distrattori:**
+- P è la matrice di generazione dei residui OLS, o OLS residual maker; M è la matrice di proiezione OLS
+- Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
+- y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
+
+**D:** ⚠️ In quali componenti il metodo dei minimi quadrati partiziona il vettore 𝐲, secondo la slide 27 della lezione 24?
+**R:** Slide 27: «Il metodo dei minimi quadrati partiziona il vettore 𝐲 in due componenti tra loro ortogonali: 𝐲 = P𝐲 + M𝐲 dove P è la matrice di proiezione OLS e M è la matrice di generazione dei residui OLS». Dimostrazione: «Ictu oculi dalle equazioni 53 e 56 tenuto conto del risultato di ortogonalità tra i vettori 𝐲̂^{OLS} e 𝛜^{OLS} di cui all'equazione 50». P𝐲 è il fit, M𝐲 il vettore dei residui. Il docente: transcript [00:29:35]–[00:29:56]. ⚠️ Le due componenti si **sommano**: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS}.
+**Opzione:** In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+**Distrattori:**
+- In due componenti tra loro ortogonali, 𝐲 = P𝐲 - M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+- 𝐲 = 𝐱𝛃 + 𝛆 (34)
+- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+
+**D:** ⚠️ Come si esprime il modello di regressione lineare generalizzato al caso di m-1 variabili esplicative, secondo il test della lezione 24 (domanda 1)?
+**R:** «**y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e**», cioè la (29) della slide 2, y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, con «b» per β ed «e» per ε. Il docente: «la nostra equazione y diventerà uguale a β0 più β1x1 più β2x2 …» (transcript [00:00:31]). ⚠️ Il «b1x» prima di «b1x1» è un refuso della piattaforma, uguale in tutte le opzioni: la slide non ha β_1x, con ogni probabilità il termine del modello a una variabile della lezione 23 (deduzione). Distrattori del test: «y=b0+b1x+b1x1+b2x2+b3+e» tronca la coda, con «b3» senza x_3; «…+bm-1xm-1» senza «+e» perde l'errore; «y=b1x+…+e» perde l'intercetta β_0.
+**Opzione:** y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e
+**Distrattori:**
+- y=b0+b1x+b1x1+b2x2+b3+e
+- y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1
+- y=b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e
+
+**D:** ⚠️ Come si esprime la funzione obiettivo nel modello di regressione lineare generalizzato, secondo il test della lezione 24 (domanda 2)?
+**R:** «**min{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2**», cioè la (38) della slide 7, min_{β_0, β_1, …, β_{m-1}} ∑_{i=1}^n [y_i - (β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)})]², con «Si» per ∑_{i=1}^n e «]2» per il quadrato. Il docente: i valori «che vanno a minimizzare la seguente funzione obiettivo», «il tutto elevato al quadrato» (transcript [00:09:30]). ⚠️ È l'unica opzione con «min»; tutte hanno il «b1x» in più e il «bo» con la lettera o, refusi della piattaforma. Distrattori del test: la stessa formula con «max» (segno invertito); con «max» e senza il quadrato; con «max» e senza la sommatoria.
+**Opzione:** min{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2
+**Distrattori:**
+- max{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2
+- max{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]
+- max{bo,b1,b2,...,bm-1} [yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]
+
+**D:** ⚠️ Quale forma vettoriale assume lo stimatore dei minimi quadrati, secondo il test della lezione 24 (domanda 3, che chiede «b0OLS»)?
+**R:** «**bOLS =(x'x)-1x'y**», cioè la (40) delle slide 8 e 10, 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, il **vettore** degli stimatori dei minimi quadrati (transcript [00:10:45], [00:13:18]). ⚠️ Il testo chiede «b0OLS», lo stimatore di β_0, ma la chiave è il vettore «bOLS»: il refuso è nella domanda, copiata con ogni probabilità dalla domanda 4 del test della lezione 23. Distrattori del test: «b0OLS =(x'x)-1x'y», il più insidioso perché ripete il testo, e «b1OLS =(x'x)-1x'y» attribuiscono la formula del vettore a una sola componente; «bOLS =(x'x)» tronca la formula.
+**Opzione:** bOLS =(x'x)-1x'y
+**Distrattori:**
+- b1OLS =(x'x)-1x'y
+- b0OLS =(x'x)-1x'y
+- bOLS =(x'x)
+
+**D:** ⚠️ Come si esprime in termini vettoriali la funzione obiettivo nel modello di regressione lineare generalizzato, secondo il test della lezione 24 (domanda 4)?
+**R:** «**minb =(y'y-2b'x'y+b'x'xb)**», cioè la (41) della slide 9, min_𝛃 (𝐲′𝐲 - 2𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃). Il docente: «y trasposto y meno 2 beta trasposto x trasposto y più beta trasposto x trasposto x beta» (transcript [00:12:09]). ⚠️ Il «=» dopo «minb» è un refuso della piattaforma. Distrattori del test: «maxb =(…)» è la chiave con il segno invertito; «…+b'x)» e «…+b)» troncano l'ultimo addendo, 𝛃′𝐱′𝐱𝛃.
+**Opzione:** minb =(y'y-2b'x'y+b'x'xb)
+**Distrattori:**
+- maxb =(y'y-2b'x'y+b'x'xb)
+- minb =(y'y-2b'x'y+b'x)
+- minb =(y'y-2b'x'y+b)
+
+**D:** ⚠️ Quanto vale la somma dei residui, secondo il test della lezione 24 (domanda 5)?
+**R:** «**è pari a zero**»: è il corollario (47) della slide 14, ∑_{i=1}^n ϵ_i^{OLS} = 0, «ossia la somma dei residui OLS è pari a zero». Il docente: «La somma dei residui del sistema dei minimi quadrati è identicamente nulla» (transcript [00:18:14]). ⚠️ La dimostrazione usa la prima colonna di soli 1 della matrice 𝐱 (slide 13; transcript [00:16:56]), cioè la presenza di β_0; la slide però enuncia il corollario senza condizioni, e all'esame la risposta è «è pari a zero». Distrattori del test: «è pari a infinito», «non si può calcolare» ed «è pari a 1» non sono nei materiali.
+**Opzione:** è pari a zero
+**Distrattori:**
+- è pari a infinito
+- non si può calcolare
+- è pari a 1
