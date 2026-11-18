@@ -6,7 +6,7 @@ curriculum *Banking and Finance*, giocabili nel browser: <https://lm77-quiz.gith
 - **I bilanci degli operatori del mercato bancario e finanziario** — 2045 flashcard
 - **Management e finance** — 1007 flashcard
 - **Organizzazione degli intermediari finanziari** — 1232 flashcard
-- **Econometria Finanziaria e Finanza empirica** — 849 flashcard
+- **Econometria Finanziaria e Finanza empirica** — 887 flashcard
 - **Analisi dei Mercati Finanziari** — 1310 flashcard
 - **Tecnologia Blockchain e diritto del Fintech** — 1086 flashcard
 

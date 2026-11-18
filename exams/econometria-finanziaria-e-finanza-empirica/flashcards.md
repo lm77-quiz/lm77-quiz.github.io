@@ -6382,6 +6382,312 @@
 - un approccio logico
 - un approccio ontologico
 
+## Lezione 22 — Gestione del rischio - Greche 6 – Delta-Gamma-Vega Hedging
+
+**D:** ⚠️ Che tipo di opzione si deve compravendere nel Δ–Γ–υ hedging della lezione 22 (slide 2–3)?
+**R:** Slide 2–3: «… un'opzione che consenta di replicare il Γ–υ dell'opzione venduta …e che non causi troppe deformazioni al delta delle opzioni vendute». Il docente: «È evidente che si tratta di un'opzione che consenta di replicare il gamma vega, vedete l'analisi è congiunta, il gamma vega dell'opzione venduta» (transcript [00:00:28]); le deformazioni al delta vanno evitate perché genererebbero «un eccesso di variabilità tale per cui alla fine si rischi di generare un eccesso di richiesta di compravendita di titoli per riportare alla neutralità il portafoglio» ([00:00:42]). ⚠️ Si **replica** il Γ–υ, si evita di **deformare** il delta: nella lezione 20 la stessa domanda valeva per il solo Γ.
+**Opzione:** Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+**Distrattori:**
+- Un'opzione che consenta di replicare il Δ–Γ dell'opzione venduta, e che non causi troppe deformazioni al vega delle opzioni vendute
+- 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+- Le asiatiche e le americane: i loro prezzi vanno approssimati
+
+**D:** ⚠️ Quale prima riflessione sul Vega guida la scelta delle opzioni nel Δ–Γ–υ hedging, e quale vantaggio ne vede il docente (slide 4)?
+**R:** Slide 4 e 8: «Le opzioni ATM hanno il υ più alto». Il docente: «le opzioni at the money hanno il vega più elevato. Questo vuol dire che con un'opzione at the money quindi ho molto vega a disposizione, ho molta disponibilità attraverso poche opzioni di poter coprire tanto vega» (transcript [00:01:23]–[00:01:30]). La slide 5 è il grafico del υ al variare di S e σ, con l'asse fino a 24,00, lo stesso della slide 7 della lezione 18. ⚠️ Le opzioni **ATM**; nella lezione 20 la stessa riflessione riguardava il Γ.
+**Opzione:** Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+**Distrattori:**
+- Le opzioni OTM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+- Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
+- All'azione e al mercato
+
+**D:** ⚠️ Quale seconda riflessione sul Vega di un'opzione propone la lezione 22 per il Δ–Γ–υ hedging (slide 6 e 8)?
+**R:** Slide 6: «Il υ di un'opzione si riduce naturalmente con il passare del tempo»; slide 8: «Il υ di un'opzione decresce naturalmente al passare del tempo». Il docente: «Il vega di un'opzione infatti sappiamo che si riduce naturalmente con il passare del tempo. E anche questo è importante» (transcript [00:02:01]). ⚠️ Si **riduce**, non aumenta: per questo si scelgono opzioni a **lunga** scadenza.
+**Opzione:** Il υ di un'opzione si riduce naturalmente con il passare del tempo
+**Distrattori:**
+- Il υ di un'opzione aumenta naturalmente con il passare del tempo
+- II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+- Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
+
+**D:** ⚠️ Come cambia la forma del Vega con la time to maturity nel grafico della slide 7 della lezione 22, secondo il docente?
+**R:** Slide 7: il grafico del υ al variare di T e di S, con l'asse fino a 36,00. Il docente: «la forma del vega è drammaticamente differente con la time to maturity»; «mentre con poco tempo l'andamento segue l'usuale discesa a forma di V morbida, rovesciata. Quando il tempo è molto elevato e la moneyness è positiva, il vega [non] scende. Il vega scende soltanto per moneyness negativa» (transcript [00:02:09]–[00:02:48]; il riconoscimento vocale scrive «il vegano scende», letto come «non scende» per la frase che segue). Ne trae: «conviene avere opzioni a moneyness positiva in presenza di tanto tempo perché di fatto ci danno molto vega a disposizione» ([00:02:52]). ⚠️ Solo nel transcript: la conclusione delle slide 8–9 resta ATM a lunga scadenza.
+**Opzione:** Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness negativa
+**Distrattori:**
+- Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness positiva
+- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+- All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
+
+**D:** ⚠️ Da quali due riflessioni discende, nella slide 8 della lezione 22, la ricomposizione del portafoglio con opzioni ATM a lunga scadenza?
+**R:** Slide 8: «Le opzioni ATM hanno il υ più alto» e «Il υ di un'opzione decresce naturalmente al passare del tempo» ⇩ «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza». Il docente: «Quindi, le opzioni at the money hanno il vega più alto, il vega di un'opzione decresce naturalmente al passare del tempo. Quindi … io voglio meno opzioni con tanto vega … prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:24]–[00:03:32]). ⚠️ Le riflessioni sono sul **υ**: quelle sul **Γ** erano della lezione 20, e portavano prima a opzioni «ATM ed a breve scadenza» (deck 20, slide 16).
+**Opzione:** Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
+**Distrattori:**
+- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo
+- Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
+- Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
+
+**D:** ⚠️ Quali aspetti si devono considerare, secondo la slide 9 della lezione 22, dopo aver scelto opzioni ATM ed a lunga scadenza?
+**R:** Slide 9: «Si scelgono opzioni ATM ed a lunga scadenza — Si considerino: •Costi di transazione •Stategie di trading (sic) •Limiti di rischio». Il docente: «In questa scelta, che però è la scelta teorica che può essere impostata, si innestano alcuni aspetti. Costi di transazione, strategie di trading e i limiti di rischio» (transcript [00:03:55]–[00:04:05]). ⚠️ Sono i tre del trade-off della lezione 20 (deck 20, slide 18). Non vanno confusi con i tre problemi dell'intermediario della slide 38: limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa.
+**Opzione:** Costi di transazione, strategie di trading, limiti di rischio
+**Distrattori:**
+- Costi di transazione, strategie di trading, funzionamento del mercato
+- Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+- Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
+
+**D:** ⚠️ Quali limiti di rischio cita come esempio il docente della lezione 22 per l'operatività di un desk?
+**R:** Il docente: «l'operatività in un desk è sempre caratterizzata dal fatto che una banca e quindi un sistema, un risk manager, ai suoi trader gli dice guarda tu più di 100.000 euro delta di portafoglio non puoi avere, più di 200.000 euro gamma più di 150.000 vega euro equivalenti e quindi questo ha delle considerazioni che andranno tradotte concretamente nelle scelte che poi verranno svolte dal trader» (transcript [00:04:08]–[00:04:28]). ⚠️ Solo nel transcript. **200.000** è il gamma, **150.000** il vega. Nella lezione 20 gli esempi erano 100.000 euro delta sulle azioni italiane e 200.000 euro gamma sulle opzioni americane.
+**Opzione:** 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
+**Distrattori:**
+- 100.000 euro di delta, 150.000 euro di gamma e 200.000 euro di vega equivalenti
+- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
+- Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+
+**D:** ⚠️ Come si imposta al tempo T=0 il Δ–Γ–υ hedging «attraverso le formule», e quanto valgono Delta e Gamma del portafoglio A (slide 10)?
+**R:** Slide 10: «Tempo T=0 — 1 vendita call (W) — Si definisca un portafoglio Δ neutrale 'A' — 1 acquisto opzione (Z) — 1 acquisto opzione (Y)», con **Δ_A = 0** e **Γ_A = N ∗ Γ_W**. Il docente: «il nostro portafoglio delta neutrale A lo abbiamo costruito, che vuol dire che delta è uguale a 0 e poi abbiamo il gamma del portafoglio A che non è altro che n cioè il numero di opzioni per il gamma dell'opzione [W] che abbiamo venduto» (transcript [00:05:24]). ⚠️ A è Δ neutrale, non Γ neutrale. La slide dice «acquisto», ma le quantità hanno segno: nell'esempio la Y si vende.
+**Opzione:** Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+**Distrattori:**
+- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Δ_W
+- Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
+- Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
+
+**D:** ⚠️ Come si definisce il portafoglio B del Δ–Γ–υ hedging, e quanto vale il suo Delta (slide 11–12)?
+**R:** Slide 11: «Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y». Slide 12: Δ_B = Δ_A + N_ZΔ_Z + N_YΔ_Y ⇩ Δ_B = N_ZΔ_Z + N_YΔ_Y. Il docente: «Il delta del portafoglio B altro non è che il delta del portafoglio A più il numero delle opzioni Z per il delta di Z più il numero delle opzioni Y per il delta di Y. Ma dato che il delta è neutrale per A non è altro che NZ delta Z più NY delta Y» (transcript [00:06:11]–[00:06:27]). ⚠️ Δ_A = 0 non rende B Δ neutrale: le opzioni Z e Y hanno un Delta (slide 23). Nella lezione 20 B = A + N ∗ Z.
+**Opzione:** Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = N_ZΔ_Z + N_YΔ_Y perché Δ_A = 0
+**Distrattori:**
+- Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = 0 perché Δ_A = 0
+- Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+- Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
+
+**D:** ⚠️ Quale sistema si risolve nel Δ–Γ–υ hedging per rendere il portafoglio B Γ–υ neutrale (slide 13–14)?
+**R:** Slide 13: Γ_B = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y, «Dato che: Γ_A = N_WΓ_W». Slide 14: «… al fine di ottenere Γ_B = υ_B = 0 …cioè un portafoglio Γ–υ neutrale», con il sistema 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y. Il docente: «Dobbiamo ottenere contestualmente che il gamma di B e il vega di B siano uguali a zero, cioè un portafoglio gamma vega neutrale. Questo equivale a dover risolvere un sistema a due equazioni» (transcript [00:07:01]–[00:07:23]). ⚠️ Le equazioni sono del **Gamma** e del **Vega**; il Delta si sistema dopo, con le azioni.
+**Opzione:** 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y, cioè Γ_B = υ_B = 0
+**Distrattori:**
+- 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·Δ_w + n_z·Δ_z + n_y·Δ_y, cioè Γ_B = Δ_B = 0
+- df ≈ DdS+1/2GdS2+ds df/ds +o(dt)
+- All'azione e al mercato
+
+**D:** ⚠️ Che cosa si ricava per primo dal sistema del Δ–Γ–υ hedging, da quale equazione, e che cosa se ne fa (slide 15–16)?
+**R:** Slide 15: dall'equazione del **Gamma**, n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z. Slide 16: lo si sostituisce in quella del **Vega**, 0 = n_w·υ_w + ((-n_w·Γ_w - n_y·Γ_y)/Γ_z)·υ_z + n_y·υ_y. Il docente: «otteniamo che nz altro non è che meno n[w] gamma [w] meno ny gamma y diviso gamma z e una volta che abbiamo ottenuto nz lo andiamo a sostituire nell'altra equazione» (transcript [00:07:34]). ⚠️ È un n_z ancora in funzione di n_y: si calcola prima n_y (slide 19), poi si torna a n_z (slide 20–21).
+**Opzione:** n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
+**Distrattori:**
+- n_z = (-n_w·υ_w - n_y·υ_y)/υ_z, dall'equazione del Vega, da sostituire in quella del Gamma
+- Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
+- Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
+
+**D:** ⚠️ Che cosa si ottiene nella lezione 22 moltiplicando per Γ_z l'equazione del Vega e raccogliendo n_y (slide 17–18)?
+**R:** Slide 17: 0 = n_w·υ_w·Γ_z - n_w·Γ_w·υ_z - n_y·Γ_y·υ_z + n_y·υ_y·Γ_z. Slide 18: **-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)**. Il docente: «moltiplichiamo per gamma z, poi possiamo eliminarla e semplificarla dal denominatore» (transcript [00:08:16]); «Portiamo e raccogliamo per n di y dall'altro lato dell'equivalenza» ([00:08:51]). ⚠️ Fra parentesi c'è υ_y·Γ_z **meno** Γ_y·υ_z: è il denominatore di n_y e di n_z.
+**Opzione:** -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
+**Distrattori:**
+- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z + Γ_y·υ_z)
+- Le asiatiche e le americane: i loro prezzi vanno approssimati
+- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+
+**D:** ⚠️ Quante opzioni Y si devono negoziare nel Δ–Γ–υ hedging della lezione 22 (slide 19 e 22)?
+**R:** Slide 19 e 22: **n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)**, «È necessario negoziare … Y opzioni». Il docente: «linea di frazione a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]); «E bisognerà negoziare altresì Y opzioni» ([00:12:19]). ⚠️ Si calcola **prima** di n_z. È la chiave della domanda 2 del test e il distrattore D della domanda 1; la C del test tronca il denominatore a υ_y·Γ_z.
+**Opzione:** n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)
+**Distrattori:**
+- n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z)
+- NZ = - NW GZ/GW
+- Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
+
+**D:** ⚠️ Quante opzioni Z si devono negoziare nel Δ–Γ–υ hedging della lezione 22, nella forma finale (slide 21–22)?
+**R:** Slide 20: si mette n_y in n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z. Slide 21–22: **n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z**, «È necessario negoziare … Z opzioni». Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). ⚠️ Il primo addendo è il N_Z del Δ–Γ hedging della lezione 20, -N_W · Γ_W/Γ_Z; il secondo è n_y·Γ_y/Γ_z. È la chiave della domanda 1 del test; senza il fattore Γ_y/Γ_z è il distrattore A della domanda 2.
+**Opzione:** n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z
+**Distrattori:**
+- n_z = -n_w·Γ_w/Γ_z - (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)
+- All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
+- Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+
+**D:** ⚠️ Perché nella lezione 22 la procedura non finisce con le opzioni Z e Y, e come si arriva al portafoglio C (slide 23–24)?
+**R:** Slide 23: «… ma la procedura non finisce quì (sic) — Il nuovo portafoglio B non è Δ neutrale: Δ_B = N_ZΔ_Z + N_YΔ_Y». Slide 24: «Ribilanciamo il portafoglio al fine di ottenere il risultato: Δ_C = 0». Il docente: «il portafoglio C sarà esattamente delta neutrale perché sarà costruito con una compravendita di azioni tale da risolvere questa criticità» (transcript [00:13:28]). ⚠️ Con le **azioni**, che hanno Γ e υ nulli (lezione 21, slide 13): il ribilanciamento non tocca la Γ–υ neutralità. È il «circolo virtuoso» della lezione 21.
+**Opzione:** B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
+**Distrattori:**
+- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una terza opzione fino a Δ_C = 0
+- 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
+- II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+
+**D:** ⚠️ Che cosa dicono Kurpiel & Roncalli (1998) del Δ–Γ–υ hedging, e in quali condizioni (slide 25)?
+**R:** Slide 25: «Kurpiel & Roncalli (1998) — Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica». Il docente: «attenzione questo è un punto chiave cioè noi andiamo a inserire un fattore di correzione per il vega il che vuol dire che … quel sottostante abbia una forte dipendenza dalla volatilità, cioè una movimentazione dei prezzi dei titoli che è fortemente variabile nel tempo» (transcript [00:14:09]–[00:14:37]). ⚠️ **Stocastica**, non costante. Nella lezione 20 lo stesso studio dice che il Δ–Γ hedging sugli stessi orizzonti **non** fornisce vantaggi sostanziali rispetto al solo Δ hedging.
+**Opzione:** Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+**Distrattori:**
+- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità costante
+- Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
+- l'uso congiunto di due opzioni
+
+**D:** ⚠️ Che tipo di sottostante ha l'esempio di Δ–Γ–υ hedging della lezione 22, secondo il docente, e da dove viene il guadagno nel caso out of the money?
+**R:** Il docente: «Poiché questo non era un sottostante con volatilità stocastica come dicevano Kurpiel e Roncalli, questa strategia alla fine non porta, sì in questo caso ci è andata bene perché se le opzioni vanno out of the money non c'è l'impegno delle azioni e quindi la strategia di replicazione del portafoglio di replica porta a guadagnare qualcosa e anche qualcosa in più rispetto al delta gamma hedging» (transcript [00:28:30]). ⚠️ Solo nel transcript. Il sottostante **non** ha volatilità stocastica, la condizione in cui per Kurpiel & Roncalli la strategia rende di più (slide 25).
+**Opzione:** Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
+**Distrattori:**
+- Un sottostante con volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
+- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+- un loop senza soluzione
+
+**D:** ⚠️ In che ordine la lezione 22 svolge i due esempi di Δ–Γ–υ hedging, e a quanto chiude l'azione in ciascuno (slide 26–27 e 32–33)?
+**R:** Prima la call W finisce **out of the money** (slide 26: «Alla scadenza l'opzione 'W' è OUT – the money»): l'azione parte da 100,0, sale fino a 109,1 e chiude a **87,5** (slide 27). Il docente: «finire al ventesimo time step out of the money, tanto è vero che 87,5 è inferiore a 100 che il prezzo strike» (transcript [00:16:06]). Poi **in the money** (slide 32): «Il titolo finisce a 135,4, il titolo è in the money» ([00:30:06]; slide 33). ⚠️ Nelle lezioni 19 e 21 l'ordine era il contrario, prima in the money e poi out of the money.
+**Opzione:** Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+**Distrattori:**
+- Prima la call W finisce in the money, con l'azione a 135,4, poi out of the money, con l'azione a 87,5
+- 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y, cioè Γ_B = υ_B = 0
+- Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+
+**D:** ⚠️ Quanto valgono il Gamma e il Vega del portafoglio A al time step 0 degli esempi della lezione 22 (slide 27 e 33)?
+**R:** Slide 27 e 33, colonne «Γ Portfolio "A"» e «υ Portfolio "A"» («Γ portfolio = Γ I Option∗n.az. Underlying», «υ portfolio = υ I Option∗n.az. Underlying»): **(15,70)** e **(19.628)**, cioè -15,70 e -19.628. Il docente: «come vedete sono valori importanti 15,70 negativo 19,628 e questo è l'equivalente diciamo in dollari può essere riportato in dollari per definire i limiti di rischio del portafoglio» (transcript [00:19:57]). Il Delta di A è invece neutrale: la Total Δ position è «-». ⚠️ Negativi, perché le 1.000 call sono vendute (deduzione); il Γ ha la virgola decimale, il υ il punto delle migliaia.
+**Opzione:** Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+**Distrattori:**
+- Γ = -19.628 e υ = -15,70: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+- Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
+- Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
+
+**D:** ⚠️ Quanto valgono Gamma e Vega delle opzioni II (Z) e III (Y) al time step 0 degli esempi della lezione 22 (slide 28)?
+**R:** Slide 28: II Option value 8,5320, Γ II 0,0155, υ II 20,3815; III Option value 10,8995, Γ III 0,0149, υ III 20,5532. Il docente: «0,0155 da un lato, 20,38 dall'altro, per la seconda opzione. Per la terza opzione 0,0149 e 20,55» (transcript [00:21:40]–[00:22:08]): sono «valori di ordine di grandezza diverso». I valori delle opzioni si calcolano con Black-Scholes-Merton ([00:21:11]), e Gamma e Vega «tendono a scemare man mano che ci avviciniamo alla scadenza» ([00:22:16]). ⚠️ La II ha il Γ più alto, la III il υ più alto.
+**Opzione:** II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+**Distrattori:**
+- II option: Γ 0,0149 e υ 20,5532; III option: Γ 0,0155 e υ 20,3815
+- Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness negativa
+- Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+
+**D:** ⚠️ Quante opzioni II (Z) e III (Y) si negoziano al time step 0 degli esempi della lezione 22, e in che verso (slide 28 e 30)?
+**R:** Slide 28: «n. II option Buy/sell» **2.022**, «n. III opzione buy/sell» **(1.051)**; slide 30: «Option for Γ» Buy/sell 2.022 e «Option for υ» Buy/sell (1.051). Il docente: «compreremo 2022 opzioni del secondo tipo e venderemo 1051 opzioni dell'opzione Y» (transcript [00:23:26]–[00:23:41]); «per il gamma noi avremo comprato 2022 opzioni al tempo zero e per il vega, questo è il punto chiave, io ne avrò vendute 1051 di un altro tipo» ([00:27:19]). ⚠️ La slide 10 scrive «1 acquisto opzione (Y)», ma la Y si **vende**. Le colonne Tot della slide 28 tornano con il sistema: 31 - 16 ≈ 15,70 e 41.219 - 21.591 = 19.628 (deduzione).
+**Opzione:** Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
+**Distrattori:**
+- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si comprano 1.051 opzioni III (Y), l'Option for υ
+- Il υ di un'opzione si riduce naturalmente con il passare del tempo
+- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+
+**D:** ⚠️ Quanto vale il Delta del portafoglio B al time step 0 degli esempi della lezione 22, e che cosa si fa per il portafoglio C (slide 28–29)?
+**R:** Slide 28, «Δ Port. "B"»: Total Δ position **396**. Slide 29, «portfolio "C"= Port. "B"+ Stock f(Δ hedge of "B")»: Stock to Buy/(Sell) **(396)**, Warehouse (396), Total Δ position del portafoglio C «-». Il docente: «il portafoglio con un delta di 396 per esempio azioni al tempo zero. Ricordate che partivamo quando il portafoglio A era delta neutrale che ne dovevamo prendere 560 e passa» (transcript [00:25:09]–[00:25:18]); «io dovrò vendere 396 azioni al tempo zero … e quindi si crea un magazzino negativo di azioni» ([00:25:50]–[00:26:01]). ⚠️ Il Delta di B è **positivo**, quindi le azioni si **vendono**.
+**Opzione:** Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+**Distrattori:**
+- Δ_B = 396: per il portafoglio C si comprano 396 azioni, con un magazzino positivo di 396
+- 100 azioni
+- Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+
+**D:** ⚠️ Quante azioni ha il portafoglio C al time step 0 degli esempi della lezione 22, rispetto al portafoglio A, e che cosa ne dice il docente (slide 30)?
+**R:** Slide 30, «quantitative composition of the "C" Portfolio, value of Δ & Γ & υ»: Stock Warehouse **168**, Short Opt. (1.000), Option for Γ 2.022, Option for υ (1.051), e Δ, Γ, υ portfolio C «-». Il docente: «la compravendita di opzioni Z e Y … stanno generando un alleggerimento consistente del portafoglio di azioni che avrebbe richiesto una semplice strategia di portafoglio delta neutrale» (transcript [00:26:10]–[00:26:20]); «le azioni dai 560 e passa sono … 168» ([00:26:48]–[00:26:54]). ⚠️ 168 = 564 - 396: le azioni del portafoglio A **meno** quelle vendute per il Delta di B (deduzione). Nel Δ–Γ hedging della lezione 21 erano 68.
+**Opzione:** 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+**Distrattori:**
+- 960 azioni, le 564 del portafoglio A più le 396 del Delta di B: un appesantimento del portafoglio di azioni
+- Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
+- 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
+
+**D:** ⚠️ Come finisce il magazzino di azioni del portafoglio C nei due esempi della lezione 22 (slide 30 e 36)?
+**R:** Out of the money (slide 30): da 168 azioni al time step 0, con un massimo di **283** al time step 6, a **zero** alla scadenza; il docente: «evolvono fino ad arrivare a 0 perché l'opzione è finita out of the money» (transcript [00:26:54]). In the money (slide 36): a **1.000** azioni alla scadenza; il docente: «Alla fine avremo mille azioni in magazzino, questo è il punto chiave perché dobbiamo integralmente compensare la vendita dell'opzione che è finita in the money e implica che dobbiamo avere i titoli da consegnare» ([00:31:37]–[00:31:48]). ⚠️ Le posizioni nelle due opzioni, invece, alla scadenza sono chiuse in tutti e due i casi.
+**Opzione:** Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
+**Distrattori:**
+- Out of the money a 1.000, le azioni da consegnare per le call esercitate; in the money a zero, dopo un massimo di 283
+- Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
+- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
+
+**D:** ⚠️ Quanto si deve finanziare al time step 0 del Δ–Γ–υ hedging della lezione 22, e con quali flussi (slide 31)?
+**R:** Slide 31, «Delta Gamma Vega Hedging Cash Flow»: Dollars in Stock 16.800, Cash ex Shorting/Exercising Option 10.378, Opt. for Γ 17.255, Opt. for υ (11.450); Cash e Borrow **12.228**. Il docente: «quanto si riceve dalla vendita dell'opzione originaria 10.378, acquisto di 17.255 e vendita di 11.450, complessivamente nettando tutti questi flussi arriviamo a 12.228 dollari che devono essere finanziati con un impegno finanziario che è superiore a quello del delta gamma hedging» (transcript [00:29:15]). 16.800 = 168 × 100,0, e 16.800 - 10.378 + 17.255 - 11.450 ≈ 12.228 (deduzione). ⚠️ Nel Δ–Γ hedging della lezione 21 erano 5.050, nel Δ hedging della lezione 19 46.022.
+**Opzione:** 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+**Distrattori:**
+- 12.228 dollari: 16.800 di azioni e 11.450 di opzioni per il υ, meno i 10.378 della vendita delle call e i 17.255 della vendita delle opzioni per il Γ
+- Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+
+**D:** ⚠️ Quale risultato dà alla scadenza il Δ–Γ–υ hedging dell'esempio out of the money della lezione 22, e come lo confronta il docente (slide 31)?
+**R:** Slide 31: Hedging Revenue (cost) **205**, senza parentesi, e Borrow (205): alla fine la cassa è positiva. Il docente: «in questo caso c'è un guadagno di 205 dollari. Non sono quindi 20-30 dollari del Delta Gamma Hedging. Qui noi abbiamo un delta gamma vega hedging che porta a questo tipo di risultato che è più grande, quasi compatibile col delta, ma questo è anche derivante dal tipo di sottostante che stiamo andando a gestire» (transcript [00:28:01]–[00:28:13]). ⚠️ Un **guadagno**. Nel Δ–Γ hedging out of the money della lezione 21 il risultato era un costo di 9 dollari, (9).
+**Opzione:** Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
+**Distrattori:**
+- Un costo di 205 dollari: il Borrow chiude a 205 e la cella Hedging Revenue (cost) è (205), fra parentesi
+- n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
+- Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+
+**D:** ⚠️ Quale risultato dà alla scadenza il Δ–Γ–υ hedging dell'esempio in the money della lezione 22, e perché (slide 37)?
+**R:** Slide 37: Borrow (stock) **100.343**, contro i (100.000) dello strike nella colonna Cash ex Shorting/Exercising Option; Hedging Revenue (cost) **(343)**. Il docente: «Vengono fuori 343 dollari di costo … poiché io li devo alla fine comprare i titoli azionari perché è finita in the money» (transcript [00:32:15]); «alla fine le azioni le devo procurare comunque e per quanto vendendo le opzioni vado a finanziare la posizione in azioni, comunque questa replicazione di portafoglio ha dei costi» ([00:32:37]). ⚠️ Un **costo**, il debito al netto dello strike, come nella lezione 19.
+**Opzione:** Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
+**Distrattori:**
+- Un guadagno di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
+- Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
+
+**D:** ⚠️ Quali problemi presenta la gestione del rischio di un intermediario finanziario, secondo la slide 38 della lezione 22?
+**R:** Slide 38, «Hedging di un intermediario finanziario»: «Gestione del rischio di un intermediario finanziario — PROBLEMI: Limiti di rischio — Funzionamento del mercato — Opzioni senza un prezzo in forma chiusa». Il docente: «in concreto la gestione del rischio di un intermediario finanziario presenta una serie di problemi, ve li ho descritti prima, qui li accenniamo soltanto» (transcript [00:32:56]). ⚠️ Il terzo è delle **opzioni senza un prezzo in forma chiusa**; i costi di transazione stanno fra gli aspetti della slide 9.
+**Opzione:** Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
+**Distrattori:**
+- Limiti di rischio, funzionamento del mercato, costi di transazione
+- Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+- Il υ di un'opzione si riduce naturalmente con il passare del tempo
+
+**D:** ⚠️ Che cosa intende il docente della lezione 22 per «funzionamento del mercato» fra i problemi dell'intermediario?
+**R:** Il docente: «Poi ci sono anche regole di funzionamento del mercato, ci sono mercati dove devi consegnare i titoli, altri dove devi solo regolare la differenza di cash tra lo strike e il prezzo» (transcript [00:33:23]). Il primo problema, i limiti di rischio: «non puoi assumere più tot dollari di rischio sul delta, sul gamma, sul vega … hai a che fare con risorse scarse» ([00:33:09]). ⚠️ Solo nel transcript: la slide 38 dà solo l'etichetta. La differenza di cash è fra **strike e prezzo**.
+**Opzione:** Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
+**Distrattori:**
+- Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra il premio e lo strike
+- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
+- Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = N_ZΔ_Z + N_YΔ_Y perché Δ_A = 0
+
+**D:** ⚠️ Quali opzioni non hanno un prezzo in forma chiusa, secondo il docente della lezione 22, e che cosa comporta?
+**R:** Il docente: «noi per ora abbiamo parlato di call e put che hanno la formula chiusa nella nota derivazione di Black-Scholes-Merton, ma ci sono opzioni che non hanno formule chiuse, le asiatiche piuttosto che le americane. E lì allora si tratta di avere dei prezzi che dovranno essere approssimati» (transcript [00:33:36]–[00:33:50]). Slide 38: «Opzioni senza un prezzo in forma chiusa». ⚠️ Solo nel transcript gli esempi. Le call e le put europee hanno la formula chiusa di Black-Scholes-Merton.
+**Opzione:** Le asiatiche e le americane: i loro prezzi vanno approssimati
+**Distrattori:**
+- Le call e le put europee: i loro prezzi vanno approssimati
+- D=1
+- n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
+
+**D:** ⚠️ Come si calcola una Greca in forma numerica, secondo la slide 40 della lezione 22?
+**R:** Slide 40, «Cos'è una Greca in forma numerica?»: Δ = ½(Δ_{+1%} + Δ_{-1%}); Γ = ½(Γ_{+1%} + Γ_{-1%}); υ = ½(υ_{+1%} + υ_{-1%}); «… lasciamo perdere le altre greche secondarie». Il docente: «Semplicemente la media di come varia numericamente il delta se il sottostante aumenta dell'1% o meno 1%, lo stesso si va per il gamma e il vega» (transcript [00:34:09]). ⚠️ Una **media**, con il **più** fra i due valori. Le greche secondarie restano fuori.
+**Opzione:** Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+**Distrattori:**
+- Come semidifferenza dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} - Δ_{-1%}), e così Γ e υ
+- utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f
+- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+
+**D:** ⚠️ A quale soluzione portano i problemi della gestione del rischio di un intermediario finanziario, secondo la slide 39 della lezione 22?
+**R:** Slide 39: i tre problemi ⇩ «Utilizzo di Greche calcolate in forma numerica». Il docente: «In questo caso c'è un soccorso importante. Le greche, invece di calcolarle come abbiamo fatto noi, delta N(d_1), vengono calcolate in maniera numerica, in maniera banale» (transcript [00:33:56]–[00:34:04]); «sfruttando le capacità importanti computazionali che attualmente le nuove macchine ci danno a disposizione uno non effettua una formula nel continuo ma si accontenta di derivazione nel discreto» ([00:34:24]). ⚠️ **Numerica**, nel **discreto**: non le formule chiuse delle lezioni 16–18.
+**Opzione:** All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
+**Distrattori:**
+- All'utilizzo di Greche calcolate in forma chiusa, con una formula nel continuo invece di una derivazione nel discreto
+- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
+- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
+
+**D:** ⚠️ In riferimento a che cosa gli intermediari finanziari definiscono limiti in termini di Greche numeriche (slide 41)?
+**R:** Slide 41: «Gli intermediari finanziari definiscono dei limiti in termini di Greche numeriche in riferimento: •All'azione •Al mercato». ⚠️ La slide non è commentata nel transcript, che si chiude sulla slide 40. All'**azione**, non all'opzione.
+**Opzione:** All'azione e al mercato
+**Distrattori:**
+- All'opzione e al mercato
+- Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+- 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Z da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 1)?
+**R:** «**NZ = - NW GW/GZ - {[(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]GY/GZ}**»: è la formula finale delle slide 21 e 22, n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z, con gli stessi fattori nello stesso ordine. Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). La chiave è giusta; il primo addendo è il N_Z del Δ–Γ hedging nel verso della slide 24 del deck 20. Distrattori del test: «NZ = - NW GZ + GW» è il distrattore B del test 20, una somma al posto del rapporto; «NZ = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» tronca il denominatore e perde il fattore GY/GZ; «NZ = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)» è la formula di n_y, la chiave della domanda 2.
+**Opzione:** NZ = - NW GW/GZ - {[(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]GY/GZ}
+**Distrattori:**
+- NZ = - NW GZ + GW
+- NZ = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]
+- NZ = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)
+
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Y da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 2)?
+**R:** «**NY = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)**»: è la formula delle slide 19 e 22, n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z), con gli stessi fattori nello stesso ordine. Il docente: «a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]). La chiave è giusta. Distrattori del test: «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]» è la struttura di n_z senza il fattore GY/GZ; «NY = - NW GZ + GW» è il distrattore B del test 20; «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» ha il denominatore troncato. ⚠️ Specularità in un solo verso: questa chiave è il distrattore D della domanda 1, ma la chiave della domanda 1 qui non c'è.
+**Opzione:** NY = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)
+**Distrattori:**
+- NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]
+- NY = - NW GZ + GW
+- NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 22 (domanda 3)?
+**R:** «**Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging**». La slide 25 dice: «Kurpiel & Roncalli (1998) — Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica»; il docente lo ripete a [00:13:55]–[00:14:09]. ⚠️ La chiave è giusta su orizzonte ed esito, ma **non è testuale**: «effettuato» e «rispetto al solo D hedging» vengono dalla slide 28 del deck 20, e manca la volatilità stocastica. È una matrice 2×2, *orizzonte* × *esito*: «5, 1, ½ giorni non fornisce» è la chiave del test 20 per il Δ–Γ hedging; gli orizzonti di 15 e 10 giorni non sono nei materiali.
+**Opzione:** Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging
+**Distrattori:**
+- Il D - G - Ʋ hedging effettuato su orizzonti temporali di 15, 10 giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
+- Il D - G - Ʋ hedging effettuato su orizzonti temporali di 15, 10 giorni fornisce vantaggi sostanziali rispetto al solo D hedging
+- Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, quali opzioni Z e Y è opportuno compravendere, secondo il test della lezione 22 (domanda 4)?
+**R:** «**ATM a lunga scadenza**»: slide 8, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», e slide 9, «Si scelgono opzioni ATM ed a lunga scadenza», dalle due riflessioni «Le opzioni ATM hanno il υ più alto» e «Il υ di un'opzione decresce naturalmente al passare del tempo». Il docente: «prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:32]). La chiave è giusta. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La ITM ha un appoggio nel transcript, dove il docente consiglia «opzioni a moneyness positiva in presenza di tanto tempo» ([00:02:52]), ma le slide dicono ATM.
+**Opzione:** ATM a lunga scadenza
+**Distrattori:**
+- ITM a lunga scadenza
+- OTM a lunga scadenza
+- OTM a breve scadenza
+
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, quanto valgono nel tempo il Gamma e il Vega del portafoglio dopo le compravendite di opzioni Z e Y, secondo il test della lezione 22 (domanda 5)?
+**R:** «**G=0 e Ʋ=0**»: slide 14 e 22, «… al fine di ottenere Γ_B = υ_B = 0 …cioè un portafoglio Γ–υ neutrale». Nei fogli le colonne del Gamma e del Vega del portafoglio B (slide 28 e 34) e del portafoglio C (slide 30 e 36) valgono «-», cioè zero, a ogni time step. Il docente: «abbiamo un portafoglio gamma vega neutrale» (transcript [00:24:02]); il portafoglio C «è Delta, Gamma e Vega neutrale» ([00:27:46]). La chiave è giusta. Distrattori del test: «G=1 e Ʋ=1», «G=2 e Ʋ=1» e «G=0 e Ʋ=1» non sono nei materiali; l'ultima neutralizza il solo Gamma, come il Δ–Γ hedging della lezione 20.
+**Opzione:** G=0 e Ʋ=0
+**Distrattori:**
+- G=1 e Ʋ=1
+- G=2 e Ʋ=1
+- G=0 e Ʋ=1
+
 ## Lezione 23 — Modello Lineare 1 – Regressione Lineare
 
 **D:** ⚠️ Se il valore di x è noto, qual è per la slide 2 della lezione 23 la migliore previsione disponibile per il valore di y, e come si scrive?
