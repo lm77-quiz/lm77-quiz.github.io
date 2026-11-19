@@ -172,6 +172,38 @@ L07/f-1sbqrml f-1bfxi1f 0icct7h 1msmfwx
 L07/f-1vj3rno f-1vj3rno 0hav04d 0f0nv73
 L07/f-1wday9v f-0r3x3cx 0wo5gsk 1rstfdu
 L07/f-1yo0jwo f-1phoeok 156zs15 0ryd0c2
+L08/f-00lxwb5 f-1cnjw8h 0s0snjt 07nks7p
+L08/f-03ahh31 f-1huno21 17h2qmj 1umarqh
+L08/f-05gvrr7 f-0j0v66k 02pj4ok 1uo48lo
+L08/f-05ne1m9 f-0uzznjg 1vaf396 187tzya
+L08/f-073g88n f-073g88n 02qso36 1hxj9r6
+L08/f-0ap8sfh f-0ap8sfh 10xsu3u 1tg81yw
+L08/f-0dx4i8e f-1erdo24 0yxcw8f 0lxmxmt
+L08/f-0mbfxfi f-0mbfxfi 0ddg7du 0g9qtiz
+L08/f-0pl4t6p f-0pl4t6p 19vanm7 1e3rb49
+L08/f-0rt2zw1 f-03qx3fn 1qb8qlh 1a75yrr
+L08/f-0tlbak6 f-0g95h06 0r070az 11vj4op
+L08/f-0ure4qh f-0ure4qh 0c7xv7s 189gli2
+L08/f-0urhblb f-154eh4f 177g3ek 13msbci
+L08/f-0vcjyai f-0vcjyai 0acxmx1 1f2ncwh
+L08/f-103fzcw f-103fzcw 1eycts2 0vvebit
+L08/f-11n0yfq f-1cp9elz 1jw2ike 1sk71ap
+L08/f-14eiq48 f-14eiq48 0uje0tp 04getap
+L08/f-14q8nm5 f-1p45hgn 1a8s2q9 1yioh49
+L08/f-18386e4 f-13b6kr8 05l1cu2 0kllt81
+L08/f-19jhojp f-19jhojp 1dsdqgx 0la5hpr
+L08/f-1bhdy80 f-1qw4yng 0tbij9n 1oiqjoc
+L08/f-1cwki9d f-150zdxt 1wp3znl 0qi3tmg
+L08/f-1e8jlye f-1odiwse 0nf2up3 1h24hgz
+L08/f-1eqhvbj f-1eqhvbj 0tthsum 04nf494
+L08/f-1g65vuk f-0rp28fx 0zeug8y 0v7qimq
+L08/f-1hy8alr f-1hy8alr 0qdqmz6 18it965
+L08/f-1kqm8b1 f-1wg2r1b 0b9pubk 1gpshij
+L08/f-1p39lo5 f-0qyr209 0v2q6xz 19qp7hc
+L08/f-1r42sx4 f-1r42sx4 01dtcx3 1dpq2i1
+L08/f-1ssb7wk f-1hrr0ds 1ipvkzn 0heyqrf
+L08/f-1wck1jc f-1lcxsi2 1x48wn2 0sashn1
+L08/f-1xuvfuv f-1wjnvjh 01tsu16 1dmouae
 L09/f-00fx67s f-1af0zh4 0cut12l 1m7fwo4
 L09/f-06xqcuu f-1jpf6tq 1ef71vj 0ta734y
 L09/f-0bxhhxw f-0an2tx0 0h0j5p3 0wea61w
@@ -210,6 +242,38 @@ L09/f-1x2j3yn f-1x2j3yn 055272f 0jl4o7b
 L09/f-1y89h9k f-1jmtvwp 01d4pz9 0mdmgtf
 L09/f-1yi3ncs f-0yvnd6u 03hs3lm 0mw636r
 L09/f-1yqyg92 f-1xdg22e 1ysnzii 1lbonza
+L10/f-02lph6h f-02lph6h 125flpl 0fcgdpp
+L10/f-02nshcq f-02nshcq 042xaon 1ingayh
+L10/f-037g9yn f-037g9yn 1ma5220 1vsvom4
+L10/f-042eoqq f-1t85ays 1djxrax 1q37w0n
+L10/f-05kmudj f-05kmudj 1ek37et 1fmc4u5
+L10/f-06d6m7e f-06d6m7e 0l4gvfs 1sfo2kd
+L10/f-0kferk4 f-1e7i9dy 1j497cz 0q3xrr5
+L10/f-0ohais1 f-0ohais1 0xd52xu 0agqn3i
+L10/f-0osbulz f-0osbulz 1ja56sf 0q0k9e1
+L10/f-0qg79h9 f-046vj4t 1u0nev3 1wcnw8t
+L10/f-0ql5fy1 f-0ql5fy1 1oc1ggu 1hmgckf
+L10/f-0s1vxdc f-15s1q2w 09z2h3i 0w1ivxa
+L10/f-0sxws9t f-1ds3pt9 1sjie50 0dphbva
+L10/f-0vs0fn8 f-0bsewcm 0q3zdnu 0fnmhhz
+L10/f-0xp3zy3 f-0xp3zy3 17hclqb 0wklyfp
+L10/f-11zwmhi f-11zwmhi 09n1bap 1dopjxx
+L10/f-13nc3xf f-0rumv55 1740ooz 04eqwtn
+L10/f-14kywyq f-1k2eijs 1246cx5 1nk8u38
+L10/f-15k9ak8 f-15k9ak8 18aknkx 1li0cg7
+L10/f-160nrox f-067jqbd 0ds19ba 1yzuyky
+L10/f-17usqnc f-17usqnc 0monwps 1q63mip
+L10/f-17yykfc f-0zh962q 13a71pq 0s0tlbu
+L10/f-18ornok f-16wrud8 1mnh8tv 11klmg3
+L10/f-1c5l51k f-1c5l51k 1ryj3zk 1ee92gc
+L10/f-1d1qhdv f-1d1qhdv 0afb7hk 150lgeo
+L10/f-1gec92o f-1gec92o 0x3iu0l 18nxlnd
+L10/f-1heictw f-0ost496 1y4zqau 0e5s5d8
+L10/f-1m5jf43 f-1m5jf43 075f8kh 0t3s8lv
+L10/f-1posbnx f-1t6bt5x 0f8zdh5 0gznaq1
+L10/f-1r89e96 f-1r89e96 1gcr9ns 0dig9mg
+L10/f-1tdnb51 f-1tdnb51 0p4u1t3 1jdfdll
+L10/f-1uqv61l f-1uqv61l 1nl41us 0cgsemi
 L11/f-0221cfw f-1jrm45a 0ckn6nr 0j4tnw4
 L11/f-048anf0 f-0o98pue 0xe6axv 0f0dmig
 L11/f-04z565l f-1pj3grs 0b3x875 15sklx3
@@ -286,6 +350,42 @@ L12/f-1qt0u0k f-00ywo1q 0yexizg 1d4lqj6
 L12/f-1rveu3e f-1rveu3e 18nlt4n 010mqfs
 L12/f-1tt9ulm f-1oltuhi 01m66hx 1r6cwsw
 L12/f-1v8i47f f-1v8i47f 0f0k370 08ucz32
+L13/f-011w6ex f-011w6ex 1chtlbh 00t0mmx
+L13/f-02ncer2 f-1hvhcbq 1ixj92m 036pjt0
+L13/f-05aqlmc f-05aqlmc 08ow4wu 0ds320c
+L13/f-09pbacu f-1xc3fit 1xwpamw 0oquszh
+L13/f-0bhc6pj f-0sthfk9 0bdrgdo 0cyg99b
+L13/f-0dsn65d f-0lnr6ia 1ymhyr5 15bviij
+L13/f-0fqq57p f-1ngj48z 16uuw8j 0fd4j6d
+L13/f-0gxw4lc f-0zfjoqj 0eaznr8 04mw6zi
+L13/f-0h4nxzy f-0h4nxzy 18sjkn1 0aylbo5
+L13/f-0h9y7dd f-1u4ik8y 09tvktf 11o0p4e
+L13/f-0jzhle6 f-0jzhle6 0zlmeer 1t9wt2c
+L13/f-0ly1ext f-0ly1ext 0t9kkbd 0xa337m
+L13/f-0ossvv9 f-0ossvv9 1p26xoz 19udm22
+L13/f-0r9lomo f-1hyzg5j 17sh1vj 0t5mdeo
+L13/f-0ufid2n f-0ufid2n 0p605ec 1eaplau
+L13/f-0wjhmmg f-1qs24vn 0xwu1f2 0elewgr
+L13/f-0wu5y55 f-0wu5y55 1dtpqoz 01lqhce
+L13/f-0xq3p40 f-0xq3p40 11a6oz5 0doiljd
+L13/f-0ypxxdm f-0d9xwpy 1nnor59 10lwxyg
+L13/f-121w805 f-1pdbxo1 0c5l25y 078ph99
+L13/f-12j5jbb f-12j5jbb 0l9v07z 1ohzj13
+L13/f-15dr1qe f-1xm1ilm 00jfhct 1nfa7qs
+L13/f-15sxhwe f-1sdqa1a 095yhw2 1w2ikjn
+L13/f-1c9x54z f-10y9rjh 1dg4hce 13l3uba
+L13/f-1dnm8qp f-1dnm8qp 1goce8m 1843rjj
+L13/f-1gimjks f-1gimjks 0iq3np0 0j3zcv1
+L13/f-1gu4ihg f-13qu8ef 0sqamtx 12ant2n
+L13/f-1i6vtwl f-1hf0p5t 0i0o2px 1ej88x7
+L13/f-1jokm0i f-0nll7ck 1n7zbqh 08il371
+L13/f-1kajir1 f-1l4elje 1f3gzxt 01bb06j
+L13/f-1nz5njo f-18jgvc3 133fp9c 0xwm7sh
+L13/f-1pqpaz8 f-1pqpaz8 1aw36wp 1dgq7w4
+L13/f-1r67kmu f-09ctdmy 0ar3y5v 1tmcrd2
+L13/f-1sppk66 f-1edfb8d 135nrn4 0ohhu2v
+L13/f-1sxhqcp f-0hara4o 02vgng1 1g9ke8v
+L13/f-1xj8bt9 f-1xj8bt9 0po36ok 07gqcj0
 L15/f-020h0vn f-020h0vn 0e6954j 07k1e6y
 L15/f-02cb5vi f-1bgdztm 16oom9q 0lfd694
 L15/f-03s29ze f-03s29ze 1q7896q 117pevm
@@ -2735,154 +2835,154 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
 **Distrattori:**
 - Nella put guadagni o perdite sono potenzialmente indefiniti; nella call sono finiti, perché trovano nello zero il valore limite.
-- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
-- Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+- Vendita dell'opzione $C_0$; $\alpha_0$ azioni acquistate $-\alpha_0 S_0$; liquidità depositata/presa in prestito $-\beta_0$; tali che $V_0(\varphi) - C_0 = 0$.
+- Può essere esercitata soltanto ad una scadenza specifica $T$; altrimenti l'opzione prenderebbe un'altra denominazione.
 
 **D:** Che cosa si intende per schema uniperiodale nel modello di Sharpe-Rendleman-Bartter?
-**R:** La slide 3 presenta il modello come «Pricing delle opzioni in uno schema uniperiodale». Il docente: «uno schema dove abbiamo una sola unità di tempo tra zero e la scadenza» ([00:06:25]); il prezzo si cerca «ipotizzando che ci sia un unico periodo tra il momento della sua sottoscrizione e il momento della sua scadenza» ([00:06:44]). Nella slide 7 la scadenza è il tempo T = 1.
+**R:** La slide 3 presenta il modello come «Pricing delle opzioni in uno schema uniperiodale». Il docente: «uno schema dove abbiamo una sola unità di tempo tra zero e la scadenza» ([00:06:25]); il prezzo si cerca «ipotizzando che ci sia un unico periodo tra il momento della sua sottoscrizione e il momento della sua scadenza» ([00:06:44]). Nella slide 7 la scadenza è il tempo $T = 1$.
 **Opzione:** Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
 **Distrattori:**
 - Uno schema con più unità di tempo tra zero e la scadenza: un periodo per ogni data fra la sottoscrizione dell'opzione e la sua scadenza.
-- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
+- Pay-off dell'opzione $-C_T$; $\alpha_0$ azioni vendute $+\alpha_0 S_T$; liquidità depositata/presa in prestito $+(1+r)\beta_0$; tali che $V_T(\varphi) - C_T = 0$.
 - Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
 
-**D:** ⚠️ Come si definisce nel modello di Sharpe-Rendleman-Bartter il pay-off a scadenza della call g(S_T), e quando l'opzione viene esercitata?
-**R:** Slide 4: «La call, il cui pay-off a scadenza è definito come: g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}», cioè g(S_T) = S_T - K «se S_T > K l'opzione viene esercitata» e 0 «se S_T ≤ K l'opzione non viene esercitata». Il docente: con S_T maggiore di K «l'opzione verrà esercitata perché il soggetto che ha sottoscritto l'opzione ha un guadagno», con S_T minore o uguale a K «non ha senso esercitare l'opzione» (transcript [00:06:56]–[00:07:38]). ⚠️ Il caso S_T = K sta con l'opzione **non** esercitata.
-**Opzione:** g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
+**D:** ⚠️ Come si definisce nel modello di Sharpe-Rendleman-Bartter il pay-off a scadenza della call $g(S_T)$, e quando l'opzione viene esercitata?
+**R:** Slide 4: «La call, il cui pay-off a scadenza è definito come: $g(S_T) = (S_T - K)^+ \triangleq \max\{S_T - K, 0\}$», cioè $g(S_T) = S_T - K$ «se $S_T > K$ l'opzione viene esercitata» e 0 «se $S_T \leq K$ l'opzione non viene esercitata». Il docente: con $S_T$ maggiore di $K$ «l'opzione verrà esercitata perché il soggetto che ha sottoscritto l'opzione ha un guadagno», con $S_T$ minore o uguale a $K$ «non ha senso esercitare l'opzione» (transcript [00:06:56]–[00:07:38]). ⚠️ Il caso $S_T = K$ sta con l'opzione **non** esercitata.
+**Opzione:** $g(S_T) = (S_T - K)^+ \triangleq \max\{S_T - K, 0\}$: vale $S_T - K$ se $S_T > K$ (l'opzione viene esercitata) e 0 se $S_T \leq K$ (l'opzione non viene esercitata).
 **Distrattori:**
-- g(S_T) = (K - S_T)^+ ≜ max{K - S_T, 0}: vale K - S_T se S_T < K (l'opzione viene esercitata) e 0 se S_T ≥ K (l'opzione non viene esercitata).
-- V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
-- P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+- $g(S_T) = (K - S_T)^+ \triangleq \max\{K - S_T, 0\}$: vale $K - S_T$ se $S_T < K$ (l'opzione viene esercitata) e 0 se $S_T \geq K$ (l'opzione non viene esercitata).
+- $V_0(\varphi) = \alpha_0 S_0 + \beta_0$ e $V_T(\varphi) = \alpha_0 S_T + \beta_0(1+r)$.
+- $P^{\ast}(\omega_1) = \frac{(1+r)S_0 - S^d}{S^u - S^d}$ e $P^{\ast}(\omega_2) = \frac{S^u - (1+r)S_0}{S^u - S^d}$: la soluzione è unica.
 
 **D:** Su quale spazio di probabilità è definito il valore finale nel modello di Sharpe-Rendleman-Bartter?
-**R:** Slide 5: «Il valore finale sarà una variabile casuale definita sullo spazio di probabilità Ω = {ω_1, ω_2} con una misura di probabilità P tale che: P(ω_1) + P(ω_2) = 1.» Il docente lo ripete a [00:07:38]. Gli eventi sono due, uno per scenario (slide 6). Le slide non dicono che i due scenari siano equiprobabili.
-**Opzione:** Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+**R:** Slide 5: «Il valore finale sarà una variabile casuale definita sullo spazio di probabilità $\Omega = \{\omega_1, \omega_2\}$ con una misura di probabilità $P$ tale che: $P(\omega_1) + P(\omega_2) = 1$.» Il docente lo ripete a [00:07:38]. Gli eventi sono due, uno per scenario (slide 6). Le slide non dicono che i due scenari siano equiprobabili.
+**Opzione:** Su $\Omega = \{\omega_1, \omega_2\}$, con una misura di probabilità $P$ tale che $P(\omega_1) + P(\omega_2) = 1$.
 **Distrattori:**
-- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) = P(ω_2) = 1/2.
-- β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
-- S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+- Su $\Omega = \{\omega_1, \omega_2\}$, con una misura di probabilità $P$ tale che $P(\omega_1) = P(\omega_2) = \frac{1}{2}$.
+- $\beta_0 = \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
+- $S^{\ast}_0 = S_0$ e $S^{\ast}_T = (1+r)^{-1}S_T$.
 
-**D:** Come si definisce formalmente S_T nel modello di Sharpe-Rendleman-Bartter?
-**R:** Slide 6: «Formalmente, S_T è una funzione S_T : Ω → R_+», con S_T(ω) = S^u se ω = ω_1 e S^d se ω = ω_2. Il docente: S_T «è una funzione che rimappa ω sui numeri reali positivi», e i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down, cioè il caso in cui il valore del sottostante va verso l'alto e l'altro in cui va verso il basso» (transcript [00:07:55]). Le slide 9–14 scrivono «S Up» e «S Down». ⚠️ S_T è il **prezzo** del sottostante; il pay-off della call è C_T (slide 7).
-**Opzione:** S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
+**D:** Come si definisce formalmente $S_T$ nel modello di Sharpe-Rendleman-Bartter?
+**R:** Slide 6: «Formalmente, $S_T$ è una funzione $S_T : \Omega \to R_+$», con $S_T(\omega) = S^u$ se $\omega = \omega_1$ e $S^d$ se $\omega = \omega_2$. Il docente: $S_T$ «è una funzione che rimappa ω sui numeri reali positivi», e i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down, cioè il caso in cui il valore del sottostante va verso l'alto e l'altro in cui va verso il basso» (transcript [00:07:55]). Le slide 9–14 scrivono «$S$ Up» e «$S$ Down». ⚠️ $S_T$ è il **prezzo** del sottostante; il pay-off della call è $C_T$ (slide 7).
+**Opzione:** $S_T$ è una funzione $S_T: \Omega \to R_+$, con $S_T(\omega) = S^u$ se $\omega = \omega_1$ e $S_T(\omega) = S^d$ se $\omega = \omega_2$.
 **Distrattori:**
-- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = (S^u - K)^+ se ω = ω_1 e S_T(ω) = (S^d - K)^+ se ω = ω_2.
-- β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
-- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+- $S_T$ è una funzione $S_T: \Omega \to R_+$, con $S_T(\omega) = (S^u - K)^+$ se $\omega = \omega_1$ e $S_T(\omega) = (S^d - K)^+$ se $\omega = \omega_2$.
+- $\beta_0 = \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
+- $C^{\ast}_0 = C_0 = E_{P^{\ast}}((1+r)^{-1} C_T) = E_{P^{\ast}}(C^{\ast}_T)$: $P^{\ast}$ è anche la misura di martingala per l'opzione.
 
-**D:** ⚠️ Quanto vale il pay-off della call al tempo T = 1 nei due scenari del modello di Sharpe-Rendleman-Bartter?
-**R:** Slide 7: «e quindi, il pay-off per la call al tempo T = 1: X = C_T = (S_T - K)^+ diventa: C_T(ω) = C^u = (S^u - K)^+ if ω = ω_1, C^d = (S^d - K)^+ if ω = ω_2». Il docente: «call up se abbiamo l'evento omega 1 e call down se abbiamo invece l'evento omega 2» (transcript [00:08:19]–[00:08:41]). ⚠️ È la parte positiva di S - K, quella della call; K - S sarebbe la put.
-**Opzione:** X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
+**D:** ⚠️ Quanto vale il pay-off della call al tempo $T = 1$ nei due scenari del modello di Sharpe-Rendleman-Bartter?
+**R:** Slide 7: «e quindi, il pay-off per la call al tempo $T = 1$: $X = C_T = (S_T - K)^+$ diventa: $C_T(\omega) = C^u = (S^u - K)^+$ if $\omega = \omega_1$, $C^d = (S^d - K)^+$ if $\omega = \omega_2$». Il docente: «call up se abbiamo l'evento omega 1 e call down se abbiamo invece l'evento omega 2» (transcript [00:08:19]–[00:08:41]). ⚠️ È la parte positiva di $S - K$, quella della call; $K - S$ sarebbe la put.
+**Opzione:** $X = C_T = (S_T - K)^+$, cioè $C^u = (S^u - K)^+$ se $\omega = \omega_1$ e $C^d = (S^d - K)^+$ se $\omega = \omega_2$.
 **Distrattori:**
-- X = C_T = (K - S_T)^+, cioè C^u = (K - S^u)^+ se ω = ω_1 e C^d = (K - S^d)^+ se ω = ω_2.
-- V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
-- O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
+- $X = C_T = (K - S_T)^+$, cioè $C^u = (K - S^u)^+$ se $\omega = \omega_1$ e $C^d = (K - S^d)^+$ se $\omega = \omega_2$.
+- $V_0(\varphi) = \alpha_0 S_0 + \beta_0$ e $V_T(\varphi) = \alpha_0 S_T + \beta_0(1+r)$.
+- $O_0 = (1+r)^{-1}(p \ast O_{up} + (1-p) \ast O_{down})$, e $P$ è definita misura di martingala.
 
 **D:** ⚠️ Qual è, intuitivamente, il prezzo della call nel modello di Sharpe-Rendleman-Bartter (formula (1))?
-**R:** Slide 8, ripetuta alla 33: «Intuitivamente, il prezzo dell'ozione è dato da: C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+] (1)», con il refuso «ozione» della slide. Il docente: il prezzo è una media ponderata scontata, «il valore atteso sotto la misura di probabilità p» del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). ⚠️ Il fattore è (1+r)^(-1): si sconta, non si capitalizza. È la formula della domanda 1 del test.
-**Opzione:** C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
+**R:** Slide 8, ripetuta alla 33: «Intuitivamente, il prezzo dell'ozione è dato da: $C_0 = E_P((1+r)^{-1}C_T) = (1+r)^{-1} \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$ (1)», con il refuso «ozione» della slide. Il docente: il prezzo è una media ponderata scontata, «il valore atteso sotto la misura di probabilità p» del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). ⚠️ Il fattore è $(1+r)^{-1}$: si sconta, non si capitalizza. È la formula della domanda 1 del test.
+**Opzione:** $C_0 = E_P((1+r)^{-1}C_T) = (1+r)^{-1} \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$
 **Distrattori:**
-- C_0 = E_P((1+r)C_T) = (1+r) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
-- α_0 = (C^u - C^d)/(S^u - S^d)
-- P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+- $C_0 = E_P((1+r)C_T) = (1+r) \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$
+- $\alpha_0 = \frac{C^u - C^d}{S^u - S^d}$
+- $P^{\ast}(\omega_1) = \frac{(1+r)S_0 - S^d}{S^u - S^d}$ e $P^{\ast}(\omega_2) = \frac{S^u - (1+r)S_0}{S^u - S^d}$: la soluzione è unica.
 
-**D:** ⚠️ Nell'esempio del modello di Sharpe-Rendleman-Bartter (azione a $20, S Up = $22, S Down = $18, call con strike $21) quanto vale la call a scadenza nei due scenari?
-**R:** Slide 10: «Prezzo dell'azione = $20», «S Up = $22», «S Down = $18»; slide 12: «Call», «Strike = $21», «Tasso di interesse uniperiodale privo di rischio=4%»; slide 13: «C Up = max($22-21,0)», «C Down = max($18-21,0)»; slide 14: «C Up = 1», «C Down = 0». Il docente: «la call nell'ipotesi dello scenario che il prezzo dell'azione salga va a 1, nel caso in cui il prezzo dell'azione è sceso, il prezzo della call vale 0» ([00:10:45]); il prezzo di oggi è «lo sconto di questi due valori al tempo 0 per il tasso del 4%» ([00:10:59]–[00:11:07]). ⚠️ A [00:10:20] il transcript dice «il massimo di 22 meno 21 è 0»: vale la slide 14, C Up = 1. Nello scenario down la call vale 0, non -3: il max con lo zero taglia la parte negativa.
-**Opzione:** C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
+**D:** ⚠️ Nell'esempio del modello di Sharpe-Rendleman-Bartter (azione a \$20, $S$ Up = \$22, $S$ Down = \$18, call con strike \$21) quanto vale la call a scadenza nei due scenari?
+**R:** Slide 10: «Prezzo dell'azione = \$20», «$S$ Up = \$22», «$S$ Down = \$18»; slide 12: «Call», «Strike = \$21», «Tasso di interesse uniperiodale privo di rischio=4%»; slide 13: «$C$ Up = max(\$22-21,0)», «$C$ Down = max(\$18-21,0)»; slide 14: «$C$ Up = 1», «$C$ Down = 0». Il docente: «la call nell'ipotesi dello scenario che il prezzo dell'azione salga va a 1, nel caso in cui il prezzo dell'azione è sceso, il prezzo della call vale 0» ([00:10:45]); il prezzo di oggi è «lo sconto di questi due valori al tempo 0 per il tasso del 4%» ([00:10:59]–[00:11:07]). ⚠️ A [00:10:20] il transcript dice «il massimo di 22 meno 21 è 0»: vale la slide 14, $C$ Up = 1. Nello scenario down la call vale 0, non -3: il $\max$ con lo zero taglia la parte negativa.
+**Opzione:** $C$ Up = max(\$22-21,0) = 1 e $C$ Down = max(\$18-21,0) = 0.
 **Distrattori:**
-- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = -3.
-- C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
-- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+- $C$ Up = max(\$22-21,0) = 1 e $C$ Down = max(\$18-21,0) = -3.
+- $C = 0{,}673$, da $\Delta = 0{,}25$ (neutralità al rischio) e da $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$ (assenza di arbitraggio).
+- $\varphi = \varphi_0 = (\alpha_0, \beta_0)$ è il portafoglio di un investitore con una posizione corta in un'opzione Europea: $\alpha_0$ è il numero delle azioni al tempo $t = 0$, $\beta_0$ la liquidità depositata/presa in prestito da una banca al tasso $r$.
 
 **D:** ⚠️ Quali posizioni si ipotizzano nell'approccio intuitivo del metodo di replicazione del portafoglio?
-**R:** Slide 16, «Esempio: Pricing – un approccio intuitivo»: «Posizione lunga: Δ azioni», «Posizione corta: 1 opzione Call», «…..calcolando Δ». Il docente: «io ho comprato un numero delta qualsivoglia di azioni e allo stesso tempo ho venduto un'opzione call» (transcript [00:11:32]–[00:11:52]). ⚠️ L'«1» appartiene alla **call** venduta; le azioni sono Δ, e nell'esempio Δ = 0,25 (slide 23). È il punto su cui la domanda 5 del test è difettosa.
-**Opzione:** Posizione lunga: Δ azioni; posizione corta: 1 opzione Call.
+**R:** Slide 16, «Esempio: Pricing – un approccio intuitivo»: «Posizione lunga: $\Delta$ azioni», «Posizione corta: 1 opzione Call», «…..calcolando $\Delta$». Il docente: «io ho comprato un numero delta qualsivoglia di azioni e allo stesso tempo ho venduto un'opzione call» (transcript [00:11:32]–[00:11:52]). ⚠️ L'«1» appartiene alla **call** venduta; le azioni sono $\Delta$, e nell'esempio $\Delta = 0{,}25$ (slide 23). È il punto su cui la domanda 5 del test è difettosa.
+**Opzione:** Posizione lunga: $\Delta$ azioni; posizione corta: 1 opzione Call.
 **Distrattori:**
-- Posizione lunga: 1 azione; posizione corta: Δ opzioni Call.
+- Posizione lunga: 1 azione; posizione corta: $\Delta$ opzioni Call.
 - Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
 - Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
 
-**D:** Perché, secondo il docente della lezione 08, chi vende la call compra Δ azioni?
-**R:** Per coprirsi: «avendo venduto l'opzione call mi sono coperto dal rischio che l'acquirente dell'opzione possa tra un periodo di tempo venire a comprare e richiedere le azioni al prezzo strike». Il rischio è di «avere una grossa perdita se queste azioni sono molto cresciute in valore rispetto al prezzo di esercizio strike»; «aver già comprato oggi un po' di azioni mi immunizza da questo rischio», perché sono state comprate a un prezzo odierno che «certamente sarà minore del prezzo futuro» se il compratore della call decide di esercitarla (transcript [00:11:52]–[00:13:07]). Il Δ dice «quante ne devo comprare» ([00:12:20]); la slide 16 scrive soltanto «…..calcolando Δ».
+**D:** Perché, secondo il docente della lezione 08, chi vende la call compra $\Delta$ azioni?
+**R:** Per coprirsi: «avendo venduto l'opzione call mi sono coperto dal rischio che l'acquirente dell'opzione possa tra un periodo di tempo venire a comprare e richiedere le azioni al prezzo strike». Il rischio è di «avere una grossa perdita se queste azioni sono molto cresciute in valore rispetto al prezzo di esercizio strike»; «aver già comprato oggi un po' di azioni mi immunizza da questo rischio», perché sono state comprate a un prezzo odierno che «certamente sarà minore del prezzo futuro» se il compratore della call decide di esercitarla (transcript [00:11:52]–[00:13:07]). Il $\Delta$ dice «quante ne devo comprare» ([00:12:20]); la slide 16 scrive soltanto «…..calcolando $\Delta$».
 
-**D:** Com'è composto il portafoglio φ del metodo di replicazione, e di chi è?
-**R:** Slide 17: «Un portafoglio φ al tempo t = 0 che replica il pay-off dell'opzione al tempo T. φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore che ha una posizione corta in un'opzione Europea. α_0 è il numero delle azioni dell'investitore al tempo t = 0. β_0 è la liquidità depositata/presa in prestito da una banca al tasso di interesse r.» Il docente: «Questo è il portafoglio di chi ha venduto un'opzione, si dice europea, a un altro soggetto» (transcript [00:13:16]–[00:13:49]). ⚠️ È il portafoglio di chi ha **venduto** l'opzione: posizione corta.
-**Opzione:** φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+**D:** Com'è composto il portafoglio $\varphi$ del metodo di replicazione, e di chi è?
+**R:** Slide 17: «Un portafoglio $\varphi$ al tempo $t = 0$ che replica il pay-off dell'opzione al tempo $T$. $\varphi = \varphi_0 = (\alpha_0, \beta_0)$ è il portafoglio di un investitore che ha una posizione corta in un'opzione Europea. $\alpha_0$ è il numero delle azioni dell'investitore al tempo $t = 0$. $\beta_0$ è la liquidità depositata/presa in prestito da una banca al tasso di interesse $r$.» Il docente: «Questo è il portafoglio di chi ha venduto un'opzione, si dice europea, a un altro soggetto» (transcript [00:13:16]–[00:13:49]). ⚠️ È il portafoglio di chi ha **venduto** l'opzione: posizione corta.
+**Opzione:** $\varphi = \varphi_0 = (\alpha_0, \beta_0)$ è il portafoglio di un investitore con una posizione corta in un'opzione Europea: $\alpha_0$ è il numero delle azioni al tempo $t = 0$, $\beta_0$ la liquidità depositata/presa in prestito da una banca al tasso $r$.
 **Distrattori:**
-- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione lunga in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
-- Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+- $\varphi = \varphi_0 = (\alpha_0, \beta_0)$ è il portafoglio di un investitore con una posizione lunga in un'opzione Europea: $\alpha_0$ è il numero delle azioni al tempo $t = 0$, $\beta_0$ la liquidità depositata/presa in prestito da una banca al tasso $r$.
+- Può essere esercitata soltanto ad una scadenza specifica $T$; altrimenti l'opzione prenderebbe un'altra denominazione.
 - Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
 
 **D:** Che cosa rende europea un'opzione, secondo il docente della lezione 08?
-**R:** «Perché un'opzione europea? Perché è un'opzione che può essere esercitata soltanto ad una scadenza specifica T grande, altrimenti l'opzione prenderebbe un'altra denominazione» (transcript [00:13:49]–[00:14:03]). La slide 17 dice soltanto che φ è il portafoglio di un investitore con una posizione corta «in un'opzione Europea». Coincide con la slide 3 della lezione 05: le europee danno il diritto «ad una certa scadenza», le americane «entro una certa scadenza».
-**Opzione:** Può essere esercitata soltanto ad una scadenza specifica T; altrimenti l'opzione prenderebbe un'altra denominazione.
+**R:** «Perché un'opzione europea? Perché è un'opzione che può essere esercitata soltanto ad una scadenza specifica T grande, altrimenti l'opzione prenderebbe un'altra denominazione» (transcript [00:13:49]–[00:14:03]). La slide 17 dice soltanto che $\varphi$ è il portafoglio di un investitore con una posizione corta «in un'opzione Europea». Coincide con la slide 3 della lezione 05: le europee danno il diritto «ad una certa scadenza», le americane «entro una certa scadenza».
+**Opzione:** Può essere esercitata soltanto ad una scadenza specifica $T$; altrimenti l'opzione prenderebbe un'altra denominazione.
 **Distrattori:**
-- Può essere esercitata in qualsiasi momento entro la scadenza T; altrimenti l'opzione prenderebbe un'altra denominazione.
+- Può essere esercitata in qualsiasi momento entro la scadenza $T$; altrimenti l'opzione prenderebbe un'altra denominazione.
 - Nella call guadagni o perdite sono potenzialmente indefiniti; nella put sono finiti, perché trovano nello zero il valore limite.
 - Che comprando un portafoglio e vendendone un altro non si possa avere un profitto senza rischio: i portafogli devono avere lo stesso profilo di rischio-rendimento, e quelli neutrali al rischio rendono il tasso privo di rischio.
 
-**D:** ⚠️ Come si scrive il valore V(φ) del portafoglio di replicazione al tempo 0 e al tempo T?
-**R:** Slide 18: «Sia V_t(φ) il valore del pay-off di questo portafoglio al tempo t = 0 e t = T. Ne consegue che il processo del valore V(φ) è dato da: i. V_0(φ) = α_0 S_0 + β_0; ii. V_T(φ) = α_0 S_T + β_0(1+r)». Il docente: al tempo 0 è «il numero delle azioni per il loro valore, più β0 che è la liquidità»; al tempo T «beta 0 per 1 più r perché tra il tempo 0 e il tempo t grande è decorso il valore finanziario del tempo» (transcript [00:14:19]–[00:15:06]). ⚠️ Il fattore (1+r) sta sulla liquidità al tempo T, non al tempo 0.
-**Opzione:** V_0(φ) = α_0 S_0 + β_0 e V_T(φ) = α_0 S_T + β_0(1+r).
+**D:** ⚠️ Come si scrive il valore $V(\varphi)$ del portafoglio di replicazione al tempo 0 e al tempo $T$?
+**R:** Slide 18: «Sia $V_t(\varphi)$ il valore del pay-off di questo portafoglio al tempo $t = 0$ e $t = T$. Ne consegue che il processo del valore $V(\varphi)$ è dato da: i. $V_0(\varphi) = \alpha_0 S_0 + \beta_0$; ii. $V_T(\varphi) = \alpha_0 S_T + \beta_0(1+r)$». Il docente: al tempo 0 è «il numero delle azioni per il loro valore, più β0 che è la liquidità»; al tempo $T$ «beta 0 per 1 più r perché tra il tempo 0 e il tempo t grande è decorso il valore finanziario del tempo» (transcript [00:14:19]–[00:15:06]). ⚠️ Il fattore $(1+r)$ sta sulla liquidità al tempo $T$, non al tempo 0.
+**Opzione:** $V_0(\varphi) = \alpha_0 S_0 + \beta_0$ e $V_T(\varphi) = \alpha_0 S_T + \beta_0(1+r)$.
 **Distrattori:**
-- V_0(φ) = α_0 S_0 + β_0(1+r) e V_T(φ) = α_0 S_T + β_0.
-- S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
-- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
+- $V_0(\varphi) = \alpha_0 S_0 + \beta_0(1+r)$ e $V_T(\varphi) = \alpha_0 S_T + \beta_0$.
+- $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T) = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + P^{\ast}(\omega_2)S^d]$ (5) e, con $P^{\ast}(\omega_2) = 1 - P^{\ast}(\omega_1)$, $S^{\ast}_0 = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + (1 - P^{\ast}(\omega_1))S^d]$ (6).
+- $S_T$ è una funzione $S_T: \Omega \to R_+$, con $S_T(\omega) = S^u$ se $\omega = \omega_1$ e $S_T(\omega) = S^d$ se $\omega = \omega_2$.
 
 **D:** Quando il portafoglio replica esattamente l'opzione nel modello di Sharpe-Rendleman-Bartter (sistema (2))?
-**R:** Slide 19: «Il portafoglio replica esattamente l'opzione quando: V_T(φ) = C_T i.e.: V_T(φ)(ω) = V^u(φ) = α_0 S^u + (1+r)β_0 = C^u if ω = ω_1; V^d(φ) = α_0 S^d + (1+r)β_0 = C^d if ω = ω_2 (2)». Il docente: sono due equazioni in due incognite, il numero di azioni α_0 e la liquidità β_0, che risolvono il sistema e consentono al portafoglio «di replicare esattamente il valore dell'opzione, di creare un'identità» (transcript [00:15:06]–[00:16:47]). ⚠️ La replica si impone **a scadenza**, scenario per scenario, contro C^u e C^d.
-**Opzione:** V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+**R:** Slide 19: «Il portafoglio replica esattamente l'opzione quando: $V_T(\varphi) = C_T$ i.e.: $V_T(\varphi)(\omega) = V^u(\varphi) = \alpha_0 S^u + (1+r)\beta_0 = C^u$ if $\omega = \omega_1$; $V^d(\varphi) = \alpha_0 S^d + (1+r)\beta_0 = C^d$ if $\omega = \omega_2$ (2)». Il docente: sono due equazioni in due incognite, il numero di azioni $\alpha_0$ e la liquidità $\beta_0$, che risolvono il sistema e consentono al portafoglio «di replicare esattamente il valore dell'opzione, di creare un'identità» (transcript [00:15:06]–[00:16:47]). ⚠️ La replica si impone **a scadenza**, scenario per scenario, contro $C^u$ e $C^d$.
+**Opzione:** $V_T(\varphi) = C_T$, cioè $V^u(\varphi) = \alpha_0 S^u + (1+r)\beta_0 = C^u$ se $\omega = \omega_1$ e $V^d(\varphi) = \alpha_0 S^d + (1+r)\beta_0 = C^d$ se $\omega = \omega_2$.
 **Distrattori:**
-- V_T(φ) = C_0, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C_0 se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C_0 se ω = ω_2.
-- S∗_0 = E_{P∗}(S∗_T)
-- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+- $V_T(\varphi) = C_0$, cioè $V^u(\varphi) = \alpha_0 S^u + (1+r)\beta_0 = C_0$ se $\omega = \omega_1$ e $V^d(\varphi) = \alpha_0 S^d + (1+r)\beta_0 = C_0$ se $\omega = \omega_2$.
+- $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T)$
+- Su $\Omega = \{\omega_1, \omega_2\}$, con una misura di probabilità $P$ tale che $P(\omega_1) + P(\omega_2) = 1$.
 
-**D:** ⚠️ Quanto vale α_0, il numero di azioni che risolve il sistema (2)?
-**R:** Slide 20: «I valori di α_0, β_0 che risolvono il sistema sono: α_0 = (C^u - C^d)/(S^u - S^d)». ⚠️ Al numeratore le call, al denominatore le azioni. È il Δ dell'approccio intuitivo: con i numeri dell'esempio dà (1 - 0)/(22 - 18) = 0,25, il Δ della slide 23 (il calcolo non è nelle slide).
-**Opzione:** α_0 = (C^u - C^d)/(S^u - S^d)
+**D:** ⚠️ Quanto vale $\alpha_0$, il numero di azioni che risolve il sistema (2)?
+**R:** Slide 20: «I valori di $\alpha_0$, $\beta_0$ che risolvono il sistema sono: $\alpha_0 = \frac{C^u - C^d}{S^u - S^d}$». ⚠️ Al numeratore le call, al denominatore le azioni. È il $\Delta$ dell'approccio intuitivo: con i numeri dell'esempio dà $(1 - 0)/(22 - 18) = 0{,}25$, il $\Delta$ della slide 23 (il calcolo non è nelle slide).
+**Opzione:** $\alpha_0 = \frac{C^u - C^d}{S^u - S^d}$
 **Distrattori:**
-- α_0 = (S^u - S^d)/(C^u - C^d)
-- O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
-- S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+- $\alpha_0 = \frac{S^u - S^d}{C^u - C^d}$
+- $O_0 = (1+r)^{-1}(p \ast O_{up} + (1-p) \ast O_{down})$, e $P$ è definita misura di martingala.
+- $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T) = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + P^{\ast}(\omega_2)S^d]$ (5) e, con $P^{\ast}(\omega_2) = 1 - P^{\ast}(\omega_1)$, $S^{\ast}_0 = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + (1 - P^{\ast}(\omega_1))S^d]$ (6).
 
-**D:** ⚠️ Quanto vale β_0, la liquidità che risolve il sistema (2)?
-**R:** Slide 20: «β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))». ⚠️ Al numeratore C^d con S^u meno C^u con S^d, in quest'ordine; al denominatore c'è anche (1+r), perché la liquidità rende r fra 0 e T (slide 19). Il docente: β_0 è «la liquidità che io prendo a prestito e do in prestito a seconda di quante azioni compro o vendo» (transcript [00:14:25]–[00:14:46]).
-**Opzione:** β_0 = (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+**D:** ⚠️ Quanto vale $\beta_0$, la liquidità che risolve il sistema (2)?
+**R:** Slide 20: «$\beta_0 = \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$». ⚠️ Al numeratore $C^d$ con $S^u$ meno $C^u$ con $S^d$, in quest'ordine; al denominatore c'è anche $(1+r)$, perché la liquidità rende $r$ fra 0 e $T$ (slide 19). Il docente: $\beta_0$ è «la liquidità che io prendo a prestito e do in prestito a seconda di quante azioni compro o vendo» (transcript [00:14:25]–[00:14:46]).
+**Opzione:** $\beta_0 = \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
 **Distrattori:**
-- β_0 = (C^u S^d - C^d S^u)/((S^u - S^d)(1+r))
-- S_T è una funzione S_T: Ω → R_+, con S_T(ω) = S^u se ω = ω_1 e S_T(ω) = S^d se ω = ω_2.
-- V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+- $\beta_0 = \frac{C^u S^d - C^d S^u}{(S^u - S^d)(1+r)}$
+- $S_T$ è una funzione $S_T: \Omega \to R_+$, con $S_T(\omega) = S^u$ se $\omega = \omega_1$ e $S_T(\omega) = S^d$ se $\omega = \omega_2$.
+- $V_T(\varphi) = C_T$, cioè $V^u(\varphi) = \alpha_0 S^u + (1+r)\beta_0 = C^u$ se $\omega = \omega_1$ e $V^d(\varphi) = \alpha_0 S^d + (1+r)\beta_0 = C^d$ se $\omega = \omega_2$.
 
-**D:** ⚠️ A che cosa è uguale il prezzo C_0 ottenuto con il metodo di replicazione (formula (3))?
-**R:** Slide 21: «Quindi: C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r)) (3)». Il docente: mettendo nel prezzo della call le α_0, β_0 trovate «otteniamo quindi un metodo analitico per definire il prezzo dell'opzione call» (transcript [00:16:47]–[00:17:16]). Il metodo della martingala ritrova la stessa (3) (slide 35). ⚠️ Il secondo addendo è β_0, scontato per (1+r).
-**Opzione:** C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+**D:** ⚠️ A che cosa è uguale il prezzo $C_0$ ottenuto con il metodo di replicazione (formula (3))?
+**R:** Slide 21: «Quindi: $C_0 = V_0(\varphi) = \alpha_0 S_0 + \beta_0 = \frac{C^u - C^d}{S^u - S^d} S_0 + \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$ (3)». Il docente: mettendo nel prezzo della call le $\alpha_0$, $\beta_0$ trovate «otteniamo quindi un metodo analitico per definire il prezzo dell'opzione call» (transcript [00:16:47]–[00:17:16]). Il metodo della martingala ritrova la stessa (3) (slide 35). ⚠️ Il secondo addendo è $\beta_0$, scontato per $(1+r)$.
+**Opzione:** $C_0 = V_0(\varphi) = \alpha_0 S_0 + \beta_0 = \frac{C^u - C^d}{S^u - S^d} S_0 + \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
 **Distrattori:**
-- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)(1+r)/(S^u - S^d)
-- g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
-- V_T(φ) = C_T, cioè V^u(φ) = α_0 S^u + (1+r)β_0 = C^u se ω = ω_1 e V^d(φ) = α_0 S^d + (1+r)β_0 = C^d se ω = ω_2.
+- $C_0 = V_0(\varphi) = \alpha_0 S_0 + \beta_0 = \frac{C^u - C^d}{S^u - S^d} S_0 + \frac{(C^d S^u - C^u S^d)(1+r)}{S^u - S^d}$
+- $g(S_T) = (S_T - K)^+ \triangleq \max\{S_T - K, 0\}$: vale $S_T - K$ se $S_T > K$ (l'opzione viene esercitata) e 0 se $S_T \leq K$ (l'opzione non viene esercitata).
+- $V_T(\varphi) = C_T$, cioè $V^u(\varphi) = \alpha_0 S^u + (1+r)\beta_0 = C^u$ se $\omega = \omega_1$ e $V^d(\varphi) = \alpha_0 S^d + (1+r)\beta_0 = C^d$ se $\omega = \omega_2$.
 
-**D:** ⚠️ Quali sono, al tempo t = 0, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
-**R:** Slide 22: «I flussi di cassa forniti dal modello che definiscono l'assenza di arbitraggio sono: al tempo t = 0: vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; ∋' V_0(φ) - C_0 = 0», dove ∋' si legge «tale che». Il docente: i flussi sono tali che il valore del portafoglio al tempo 0 meno il prezzo della call al tempo 0 sia uguale a 0 (transcript [00:17:16]–[00:17:46]; il transcript scrive «colla» per call). ⚠️ Il fattore (1+r) sulla liquidità compare solo al tempo T.
-**Opzione:** Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
+**D:** ⚠️ Quali sono, al tempo $t = 0$, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
+**R:** Slide 22: «I flussi di cassa forniti dal modello che definiscono l'assenza di arbitraggio sono: al tempo $t = 0$: vendita dell'opzione $C_0$; $\alpha_0$ azioni acquistate $-\alpha_0 S_0$; liquidità depositata/presa in prestito $-\beta_0$; $\ni' V_0(\varphi) - C_0 = 0$», dove $\ni'$ si legge «tale che». Il docente: i flussi sono tali che il valore del portafoglio al tempo 0 meno il prezzo della call al tempo 0 sia uguale a 0 (transcript [00:17:16]–[00:17:46]; il transcript scrive «colla» per call). ⚠️ Il fattore $(1+r)$ sulla liquidità compare solo al tempo $T$.
+**Opzione:** Vendita dell'opzione $C_0$; $\alpha_0$ azioni acquistate $-\alpha_0 S_0$; liquidità depositata/presa in prestito $-\beta_0$; tali che $V_0(\varphi) - C_0 = 0$.
 **Distrattori:**
-- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -(1+r)β_0; tali che V_0(φ) - C_0 = 0.
-- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
+- Vendita dell'opzione $C_0$; $\alpha_0$ azioni acquistate $-\alpha_0 S_0$; liquidità depositata/presa in prestito $-(1+r)\beta_0$; tali che $V_0(\varphi) - C_0 = 0$.
+- $22 \ast \Delta - 1 = 18 \ast \Delta$, quindi $\Delta = 0{,}25$: le posizioni dei due scenari devono avere lo stesso valore.
 
-**D:** ⚠️ Quali sono, al tempo t = T, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
-**R:** Slide 22: «al tempo t = T: pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; ∋' V_T(φ) - C_T = 0». Il docente: «il payoff dell'opzione ovviamente è meno C di T, seguono le alfa 0 azioni vendute», e la liquidità «fa 1 più r per beta 0» (transcript [00:17:46]–[00:18:17]). ⚠️ A t = 0 le azioni si comprano e l'opzione si vende; a t = T le azioni si vendono, si paga il pay-off e la liquidità torna con l'interesse.
-**Opzione:** Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
+**D:** ⚠️ Quali sono, al tempo $t = T$, i flussi di cassa che definiscono l'assenza di arbitraggio nel metodo di replicazione?
+**R:** Slide 22: «al tempo $t = T$: pay-off dell'opzione $-C_T$; $\alpha_0$ azioni vendute $+\alpha_0 S_T$; liquidità depositata/presa in prestito $+(1+r)\beta_0$; $\ni' V_T(\varphi) - C_T = 0$». Il docente: «il payoff dell'opzione ovviamente è meno C di T, seguono le alfa 0 azioni vendute», e la liquidità «fa 1 più r per beta 0» (transcript [00:17:46]–[00:18:17]). ⚠️ A $t = 0$ le azioni si comprano e l'opzione si vende; a $t = T$ le azioni si vendono, si paga il pay-off e la liquidità torna con l'interesse.
+**Opzione:** Pay-off dell'opzione $-C_T$; $\alpha_0$ azioni vendute $+\alpha_0 S_T$; liquidità depositata/presa in prestito $+(1+r)\beta_0$; tali che $V_T(\varphi) - C_T = 0$.
 **Distrattori:**
-- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +β_0; tali che V_T(φ) - C_T = 0.
-- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
-- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
+- Pay-off dell'opzione $-C_T$; $\alpha_0$ azioni vendute $+\alpha_0 S_T$; liquidità depositata/presa in prestito $+\beta_0$; tali che $V_T(\varphi) - C_T = 0$.
+- $22 \ast \Delta - 1 = 18 \ast \Delta$, quindi $\Delta = 0{,}25$: le posizioni dei due scenari devono avere lo stesso valore.
+- $C$ Up = max(\$22-21,0) = 1 e $C$ Down = max(\$18-21,0) = 0.
 
-**D:** ⚠️ Che cosa impone il principio di neutralità al rischio nell'esempio del modello di Sharpe-Rendleman-Bartter, e quanto vale Δ?
-**R:** Slide 23, «NEUTRALITÀ AL RISCHIO»: «Lunga S up = + $22, Corta C Up = - $1» = «Lunga S Down = + $18, Corta C Down = 0»; «22 ∗ Δ - 1 = 18 ∗ Δ»; «Δ = 0,25». Il docente: i due portafogli che qualificano gli eventi ω_1 e ω_2 «devono avere il medesimo valore» ([00:19:38]); «22 per delta meno 1, delta sul numero di azioni, deve essere uguale a 18 per delta» ([00:20:08]), e così si ottiene il numero di azioni da detenere «per poter essere neutrale a rischio rispetto alla circostanza di aver venduto un'opzione call» ([00:20:16]). ⚠️ A [00:19:14] il docente parla di «opzione lunga», ma la slide scrive «Corta»: la call è venduta. Δ = 0,25 è un quarto di azione per call, non 4.
-**Opzione:** 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 0,25: le posizioni dei due scenari devono avere lo stesso valore.
+**D:** ⚠️ Che cosa impone il principio di neutralità al rischio nell'esempio del modello di Sharpe-Rendleman-Bartter, e quanto vale $\Delta$?
+**R:** Slide 23, «NEUTRALITÀ AL RISCHIO»: «Lunga $S$ up = + \$22, Corta $C$ Up = - \$1» = «Lunga $S$ Down = + \$18, Corta $C$ Down = 0»; «$22 \ast \Delta - 1 = 18 \ast \Delta$»; «$\Delta = 0{,}25$». Il docente: i due portafogli che qualificano gli eventi $\omega_1$ e $\omega_2$ «devono avere il medesimo valore» ([00:19:38]); «22 per delta meno 1, delta sul numero di azioni, deve essere uguale a 18 per delta» ([00:20:08]), e così si ottiene il numero di azioni da detenere «per poter essere neutrale a rischio rispetto alla circostanza di aver venduto un'opzione call» ([00:20:16]). ⚠️ A [00:19:14] il docente parla di «opzione lunga», ma la slide scrive «Corta»: la call è venduta. $\Delta = 0{,}25$ è un quarto di azione per call, non 4.
+**Opzione:** $22 \ast \Delta - 1 = 18 \ast \Delta$, quindi $\Delta = 0{,}25$: le posizioni dei due scenari devono avere lo stesso valore.
 **Distrattori:**
-- 22 ∗ Δ - 1 = 18 ∗ Δ, quindi Δ = 4: le posizioni dei due scenari devono avere lo stesso valore.
-- C Up = max($22-21,0) = 1 e C Down = max($18-21,0) = 0.
-- Vendita dell'opzione C_0; α_0 azioni acquistate -α_0 S_0; liquidità depositata/presa in prestito -β_0; tali che V_0(φ) - C_0 = 0.
+- $22 \ast \Delta - 1 = 18 \ast \Delta$, quindi $\Delta = 4$: le posizioni dei due scenari devono avere lo stesso valore.
+- $C$ Up = max(\$22-21,0) = 1 e $C$ Down = max(\$18-21,0) = 0.
+- Vendita dell'opzione $C_0$; $\alpha_0$ azioni acquistate $-\alpha_0 S_0$; liquidità depositata/presa in prestito $-\beta_0$; tali che $V_0(\varphi) - C_0 = 0$.
 
 **D:** Che cosa vuol dire assenza di arbitraggio, secondo il docente della lezione 08?
 **R:** «se ho un portafoglio e decido di investire in quel portafoglio, portafoglio 1, e ho poi un altro portafoglio 2 o un altro portafoglio 3», per non avere la possibilità «che uno comprando il portafoglio 1 e vendendo il portafoglio 2 possa avere un profitto senza rischio», i portafogli «devono avere lo stesso profilo di rischio rendimento, la stessa reddittività». E se sono neutrali al rischio, «la reddittività è quella del tasso di interesse privo di rischio» (transcript [00:20:38]–[00:21:28]). È solo nel transcript: la slide 24 ne dà la conseguenza, rendimento atteso dell'opzione = tasso di interesse privo di rischio.
@@ -2890,87 +2990,87 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Che comprando un portafoglio e vendendone un altro si possa avere un profitto senza rischio: i portafogli devono avere lo stesso profilo di rischio-rendimento, e quelli neutrali al rischio rendono il tasso privo di rischio.
 - Uno schema con una sola unità di tempo tra zero e la scadenza: un unico periodo tra la sottoscrizione dell'opzione e la sua scadenza.
-- φ = φ_0 = (α_0, β_0) è il portafoglio di un investitore con una posizione corta in un'opzione Europea: α_0 è il numero delle azioni al tempo t = 0, β_0 la liquidità depositata/presa in prestito da una banca al tasso r.
+- $\varphi = \varphi_0 = (\alpha_0, \beta_0)$ è il portafoglio di un investitore con una posizione corta in un'opzione Europea: $\alpha_0$ è il numero delle azioni al tempo $t = 0$, $\beta_0$ la liquidità depositata/presa in prestito da una banca al tasso $r$.
 
 **D:** ⚠️ Che cosa impone il principio di assenza di arbitraggio nell'esempio dell'approccio intuitivo?
-**R:** Slide 24, «ASSENZA DI ARBITRAGGIO»: «Rendimento atteso dell'opzione = Tasso di interesse privo di rischio»; «Prezzo dell'opzione = Pay-Off Atteso Scontato»; «20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04) or 20 ∗ Δ - C = (18 ∗ Δ)/(1.04)». Il docente: il prezzo dell'opzione è «il valore atteso scontato del risultato finanziario di questo portafoglio di replicazione»; le formule up e down «devono generare il medesimo risultato» (transcript [00:22:05]–[00:22:48]). 20 ∗ Δ - C è il portafoglio di oggi, Δ azioni da $20 meno la call venduta; il suo valore a scadenza si **divide** per 1,04.
-**Opzione:** Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+**R:** Slide 24, «ASSENZA DI ARBITRAGGIO»: «Rendimento atteso dell'opzione = Tasso di interesse privo di rischio»; «Prezzo dell'opzione = Pay-Off Atteso Scontato»; «$20 \ast \Delta - C = (22 \ast \Delta - 1)/(1.04)$ or $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$». Il docente: il prezzo dell'opzione è «il valore atteso scontato del risultato finanziario di questo portafoglio di replicazione»; le formule up e down «devono generare il medesimo risultato» (transcript [00:22:05]–[00:22:48]). $20 \ast \Delta - C$ è il portafoglio di oggi, $\Delta$ azioni da \$20 meno la call venduta; il suo valore a scadenza si **divide** per 1,04.
+**Opzione:** Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: $20 \ast \Delta - C = (22 \ast \Delta - 1)/(1.04)$, oppure $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$.
 **Distrattori:**
-- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1) · (1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ) · (1.04).
-- S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: $20 \ast \Delta - C = (22 \ast \Delta - 1) \cdot (1.04)$, oppure $20 \ast \Delta - C = (18 \ast \Delta) \cdot (1.04)$.
+- $S^{\ast}_0 = S_0$ e $S^{\ast}_T = (1+r)^{-1}S_T$.
 
 **D:** ⚠️ Quanto vale la call dell'esempio del modello di Sharpe-Rendleman-Bartter, e da quali due condizioni si ricava?
-**R:** Slide 25: «Neutralità al rischio ⇨ Δ = 0,25», «Assenza di arbitraggio ⇨ 20 ∗ Δ - C = (18 ∗ Δ)/(1.04)», da cui «C = ((20 - 18) ∗ Δ)/(1.04)», «C = 0,673». Il docente: «per il principio di neutralità rischio il numero di azioni del portafoglio che replica l'opzione deve essere pari a 0,25»; per il principio di non arbitraggio si prende «una qualunque delle relazioni, quella up e quella down», e risolvendo per C «il prezzo della call è 0,673» (transcript [00:22:53]–[00:23:38]). ⚠️ Δ viene dalla neutralità al rischio, l'equazione del prezzo dall'assenza di arbitraggio. ⚠️ La formula intermedia della slide, presa alla lettera, dà (2 · 0,25)/1,04, circa 0,48: lo 0,673 si ottiene risolvendo 20 ∗ Δ - C = (18 ∗ Δ)/(1.04), cioè C = 5 - 4,5/1,04 (il calcolo non è nelle slide).
-**Opzione:** C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
+**R:** Slide 25: «Neutralità al rischio ⇨ $\Delta = 0{,}25$», «Assenza di arbitraggio ⇨ $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$», da cui «$C = ((20 - 18) \ast \Delta)/(1.04)$», «$C = 0{,}673$». Il docente: «per il principio di neutralità rischio il numero di azioni del portafoglio che replica l'opzione deve essere pari a 0,25»; per il principio di non arbitraggio si prende «una qualunque delle relazioni, quella up e quella down», e risolvendo per $C$ «il prezzo della call è 0,673» (transcript [00:22:53]–[00:23:38]). ⚠️ $\Delta$ viene dalla neutralità al rischio, l'equazione del prezzo dall'assenza di arbitraggio. ⚠️ La formula intermedia della slide, presa alla lettera, dà $(2 \cdot 0{,}25)/1{,}04$, circa 0,48: lo 0,673 si ottiene risolvendo $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$, cioè $C = 5 - 4{,}5/1{,}04$ (il calcolo non è nelle slide).
+**Opzione:** $C = 0{,}673$, da $\Delta = 0{,}25$ (neutralità al rischio) e da $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$ (assenza di arbitraggio).
 **Distrattori:**
-- C = 0,673, da Δ = 0,25 (assenza di arbitraggio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (neutralità al rischio).
-- α_0 = (C^u - C^d)/(S^u - S^d)
-- S∗_0 = E_{P∗}(S∗_T)
+- $C = 0{,}673$, da $\Delta = 0{,}25$ (assenza di arbitraggio) e da $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$ (neutralità al rischio).
+- $\alpha_0 = \frac{C^u - C^d}{S^u - S^d}$
+- $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T)$
 
 **D:** ⚠️ In che cosa il metodo della martingala si distingue da quello di replicazione del portafoglio, secondo il docente della lezione 08?
 **R:** «Possiamo arrivare allo stesso risultato in termini di prezzo della call con un altro metodo che viene chiamato metodo della martingala»: un approccio «che non è un approccio analitico come quello del portafoglio di replicazione di replica ma è un metodo invece strettamente probabilistico» (transcript [00:23:38]–[00:24:03]). Anche per la replicazione il docente parla di «metodo analitico» ([00:16:47]). Le slide 15 e 26 sono i frontespizi dei due metodi; la slide 35 mostra che il secondo ritrova la (3) del primo.
 **Opzione:** Arriva allo stesso prezzo della call, ma non è un approccio analitico come quello del portafoglio di replicazione: è un metodo strettamente probabilistico.
 **Distrattori:**
 - Arriva allo stesso prezzo della call, ma non è un approccio probabilistico come quello del portafoglio di replicazione: è un metodo strettamente analitico.
-- Pay-off dell'opzione -C_T; α_0 azioni vendute +α_0 S_T; liquidità depositata/presa in prestito +(1+r)β_0; tali che V_T(φ) - C_T = 0.
-- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+- Pay-off dell'opzione $-C_T$; $\alpha_0$ azioni vendute $+\alpha_0 S_T$; liquidità depositata/presa in prestito $+(1+r)\beta_0$; tali che $V_T(\varphi) - C_T = 0$.
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: $20 \ast \Delta - C = (22 \ast \Delta - 1)/(1.04)$, oppure $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$.
 
 **D:** ⚠️ Rendimento atteso o valore atteso: che cosa uguagliano al tasso di interesse privo di rischio le due slide «ASSENZA DI ARBITRAGGIO» della lezione 08?
 **R:** La slide 24, nel metodo di replicazione, scrive «**Rendimento** atteso dell'opzione = Tasso di interesse privo di rischio». La slide 27, nel metodo della martingala, scrive «**Valore** atteso dell'opzione = Tasso di interesse privo di rischio», seguita da «o Prezzo dell'opzione = Pay-off atteso scontato». Il docente le legge entrambe così come sono ([00:21:33] e [00:24:03]). La formula coerente è quella della slide 24, perché un tasso si confronta con un rendimento e non con un valore; è anche quella della chiave della domanda 3 del test. Che «valore» sia un refuso della slide 27 è una deduzione, non è scritto nei materiali.
 
-**D:** ⚠️ Come si scrive il prezzo dell'opzione O_0 sull'albero del metodo della martingala, e come si chiama P?
-**R:** Slide 28: l'albero porta da «Prezzo dell'opzione = O» a «O Up» con probabilità P e a «O Down» con probabilità 1-P; «O_0 = (1+r)^(-1) (p ∗ O_up + (1-p) ∗ O_down)»; «P è definita misura di MARTINGALA». Il docente: il prezzo dell'opzione è «la probabilità per il valore dell'opzione nell'evento up più 1 meno p, che definisce la probabilità dell'evento down, il tutto scontato del valore del tempo che è 1 più r» (transcript [00:24:13]–[00:24:42]). ⚠️ p pesa O_up, 1-p pesa O_down.
-**Opzione:** O_0 = (1+r)^(-1)(p ∗ O_up + (1-p) ∗ O_down), e P è definita misura di martingala.
+**D:** ⚠️ Come si scrive il prezzo dell'opzione $O_0$ sull'albero del metodo della martingala, e come si chiama $P$?
+**R:** Slide 28: l'albero porta da «Prezzo dell'opzione = $O$» a «$O$ Up» con probabilità $P$ e a «$O$ Down» con probabilità $1-P$; «$O_0 = (1+r)^{-1} (p \ast O_{up} + (1-p) \ast O_{down})$»; «$P$ è definita misura di MARTINGALA». Il docente: il prezzo dell'opzione è «la probabilità per il valore dell'opzione nell'evento up più 1 meno p, che definisce la probabilità dell'evento down, il tutto scontato del valore del tempo che è 1 più r» (transcript [00:24:13]–[00:24:42]). ⚠️ $p$ pesa $O_{up}$, $1-p$ pesa $O_{down}$.
+**Opzione:** $O_0 = (1+r)^{-1}(p \ast O_{up} + (1-p) \ast O_{down})$, e $P$ è definita misura di martingala.
 **Distrattori:**
-- O_0 = (1+r)^(-1)(p ∗ O_down + (1-p) ∗ O_up), e P è definita misura di martingala.
-- g(S_T) = (S_T - K)^+ ≜ max{S_T - K, 0}: vale S_T - K se S_T > K (l'opzione viene esercitata) e 0 se S_T ≤ K (l'opzione non viene esercitata).
-- Su Ω = {ω_1, ω_2}, con una misura di probabilità P tale che P(ω_1) + P(ω_2) = 1.
+- $O_0 = (1+r)^{-1}(p \ast O_{down} + (1-p) \ast O_{up})$, e $P$ è definita misura di martingala.
+- $g(S_T) = (S_T - K)^+ \triangleq \max\{S_T - K, 0\}$: vale $S_T - K$ se $S_T > K$ (l'opzione viene esercitata) e 0 se $S_T \leq K$ (l'opzione non viene esercitata).
+- Su $\Omega = \{\omega_1, \omega_2\}$, con una misura di probabilità $P$ tale che $P(\omega_1) + P(\omega_2) = 1$.
 
-**D:** Come si definisce la dinamica evolutiva del sottostante S∗ nel metodo della martingala?
-**R:** Slide 29, «La derivazione via metodo della Martingala»: «La dinamica evolutiva del sottostante S∗ è definita come: i. S∗_0 = S_0; ii. S∗_T = (1+r)^(-1)S_T». Il docente lo chiama «processo scontato del sottostante» (transcript [00:24:42]–[00:25:20]). ⚠️ Al tempo 0 non c'è niente da scontare; al tempo T il prezzo si moltiplica per (1+r)^(-1).
-**Opzione:** S∗_0 = S_0 e S∗_T = (1+r)^(-1)S_T.
+**D:** Come si definisce la dinamica evolutiva del sottostante $S^{\ast}$ nel metodo della martingala?
+**R:** Slide 29, «La derivazione via metodo della Martingala»: «La dinamica evolutiva del sottostante $S^{\ast}$ è definita come: i. $S^{\ast}_0 = S_0$; ii. $S^{\ast}_T = (1+r)^{-1}S_T$». Il docente lo chiama «processo scontato del sottostante» (transcript [00:24:42]–[00:25:20]). ⚠️ Al tempo 0 non c'è niente da scontare; al tempo $T$ il prezzo si moltiplica per $(1+r)^{-1}$.
+**Opzione:** $S^{\ast}_0 = S_0$ e $S^{\ast}_T = (1+r)^{-1}S_T$.
 **Distrattori:**
-- S∗_0 = S_0 e S∗_T = (1+r)S_T.
-- X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
-- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+- $S^{\ast}_0 = S_0$ e $S^{\ast}_T = (1+r)S_T$.
+- $X = C_T = (S_T - K)^+$, cioè $C^u = (S^u - K)^+$ se $\omega = \omega_1$ e $C^d = (S^d - K)^+$ se $\omega = \omega_2$.
+- $C_0 = V_0(\varphi) = \alpha_0 S_0 + \beta_0 = \frac{C^u - C^d}{S^u - S^d} S_0 + \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
 
-**D:** ⚠️ Quando S∗ è una P∗-martingala nel metodo della martingala (formula (4))?
-**R:** Slide 30: «S∗ è definita essere una P∗- Martingala, quando valgono le equivalenze sottostanti: S∗_0 = E_{P∗}(S∗_T) (4)». Il docente: «S zero star non è altro che il valore atteso sotto la misura di probabilità P star di S star t grande» (transcript [00:25:20]–[00:25:39]). ⚠️ A sinistra il valore di oggi, dentro il valore atteso quello a scadenza, scontato. La definizione generale di martingala è nella lezione 06.
-**Opzione:** S∗_0 = E_{P∗}(S∗_T)
+**D:** ⚠️ Quando $S^{\ast}$ è una $P^{\ast}$-martingala nel metodo della martingala (formula (4))?
+**R:** Slide 30: «$S^{\ast}$ è definita essere una $P^{\ast}$- Martingala, quando valgono le equivalenze sottostanti: $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T)$ (4)». Il docente: «S zero star non è altro che il valore atteso sotto la misura di probabilità P star di S star t grande» (transcript [00:25:20]–[00:25:39]). ⚠️ A sinistra il valore di oggi, dentro il valore atteso quello a scadenza, scontato. La definizione generale di martingala è nella lezione 06.
+**Opzione:** $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T)$
 **Distrattori:**
-- S∗_T = E_{P∗}(S∗_0)
-- X = C_T = (S_T - K)^+, cioè C^u = (S^u - K)^+ se ω = ω_1 e C^d = (S^d - K)^+ se ω = ω_2.
-- C_0 = V_0(φ) = α_0 S_0 + β_0 = (C^u - C^d)/(S^u - S^d) S_0 + (C^d S^u - C^u S^d)/((S^u - S^d)(1+r))
+- $S^{\ast}_T = E_{P^{\ast}}(S^{\ast}_0)$
+- $X = C_T = (S_T - K)^+$, cioè $C^u = (S^u - K)^+$ se $\omega = \omega_1$ e $C^d = (S^d - K)^+$ se $\omega = \omega_2$.
+- $C_0 = V_0(\varphi) = \alpha_0 S_0 + \beta_0 = \frac{C^u - C^d}{S^u - S^d} S_0 + \frac{C^d S^u - C^u S^d}{(S^u - S^d)(1+r)}$
 
-**D:** Come si espande la (4) per determinare la misura P∗ (formule (5) e (6))?
-**R:** Slide 31–32: «Di seguito, l'espressione (4) è espansa al fine di determinare la misura: S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5)»; «dato che: P∗(ω_1) + P∗(ω_2) = 1, P∗(ω_2) = 1 - P∗(ω_1), l'espressione (5) può essere scritta come: S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1)) S^d] (6)». Il docente: basta sostituire le due relazioni per ottenere la (6) (transcript [00:25:39]–[00:26:31]). ⚠️ Anche qui si sconta per (1+r)^(-1).
-**Opzione:** S∗_0 = E_{P∗}(S∗_T) = (1+r)^(-1) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r)^(-1) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
+**D:** Come si espande la (4) per determinare la misura $P^{\ast}$ (formule (5) e (6))?
+**R:** Slide 31–32: «Di seguito, l'espressione (4) è espansa al fine di determinare la misura: $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T) = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + P^{\ast}(\omega_2)S^d]$ (5)»; «dato che: $P^{\ast}(\omega_1) + P^{\ast}(\omega_2) = 1$, $P^{\ast}(\omega_2) = 1 - P^{\ast}(\omega_1)$, l'espressione (5) può essere scritta come: $S^{\ast}_0 = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + (1 - P^{\ast}(\omega_1)) S^d]$ (6)». Il docente: basta sostituire le due relazioni per ottenere la (6) (transcript [00:25:39]–[00:26:31]). ⚠️ Anche qui si sconta per $(1+r)^{-1}$.
+**Opzione:** $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T) = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + P^{\ast}(\omega_2)S^d]$ (5) e, con $P^{\ast}(\omega_2) = 1 - P^{\ast}(\omega_1)$, $S^{\ast}_0 = (1+r)^{-1} \cdot [P^{\ast}(\omega_1)S^u + (1 - P^{\ast}(\omega_1))S^d]$ (6).
 **Distrattori:**
-- S∗_0 = E_{P∗}(S∗_T) = (1+r) · [P∗(ω_1)S^u + P∗(ω_2)S^d] (5) e, con P∗(ω_2) = 1 - P∗(ω_1), S∗_0 = (1+r) · [P∗(ω_1)S^u + (1 - P∗(ω_1))S^d] (6).
-- C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
-- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+- $S^{\ast}_0 = E_{P^{\ast}}(S^{\ast}_T) = (1+r) \cdot [P^{\ast}(\omega_1)S^u + P^{\ast}(\omega_2)S^d]$ (5) e, con $P^{\ast}(\omega_2) = 1 - P^{\ast}(\omega_1)$, $S^{\ast}_0 = (1+r) \cdot [P^{\ast}(\omega_1)S^u + (1 - P^{\ast}(\omega_1))S^d]$ (6).
+- $C_0 = E_P((1+r)^{-1}C_T) = (1+r)^{-1} \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$
+- $C^{\ast}_0 = C_0 = E_{P^{\ast}}((1+r)^{-1} C_T) = E_{P^{\ast}}(C^{\ast}_T)$: $P^{\ast}$ è anche la misura di martingala per l'opzione.
 
-**D:** ⚠️ Quali valori di P∗(ω_1) e P∗(ω_2) risolvono la (6) nel metodo della martingala?
-**R:** Slide 32: «la soluzione dell'equazione (6) determina l'unica soluzione per il valore di P∗(ω_1) e P∗(ω_2): i. P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d); ii. P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d)». Il docente: la soluzione dell'equazione 6 «determina analiticamente l'unica soluzione» (transcript [00:26:01]–[00:26:31]). ⚠️ P∗(ω_1), la probabilità dello scenario up, ha S^d al numeratore; P∗(ω_2) ha S^u.
-**Opzione:** P∗(ω_1) = ((1+r)S_0 - S^d)/(S^u - S^d) e P∗(ω_2) = (S^u - (1+r)S_0)/(S^u - S^d): la soluzione è unica.
+**D:** ⚠️ Quali valori di $P^{\ast}(\omega_1)$ e $P^{\ast}(\omega_2)$ risolvono la (6) nel metodo della martingala?
+**R:** Slide 32: «la soluzione dell'equazione (6) determina l'unica soluzione per il valore di $P^{\ast}(\omega_1)$ e $P^{\ast}(\omega_2)$: i. $P^{\ast}(\omega_1) = \frac{(1+r)S_0 - S^d}{S^u - S^d}$; ii. $P^{\ast}(\omega_2) = \frac{S^u - (1+r)S_0}{S^u - S^d}$». Il docente: la soluzione dell'equazione 6 «determina analiticamente l'unica soluzione» (transcript [00:26:01]–[00:26:31]). ⚠️ $P^{\ast}(\omega_1)$, la probabilità dello scenario up, ha $S^d$ al numeratore; $P^{\ast}(\omega_2)$ ha $S^u$.
+**Opzione:** $P^{\ast}(\omega_1) = \frac{(1+r)S_0 - S^d}{S^u - S^d}$ e $P^{\ast}(\omega_2) = \frac{S^u - (1+r)S_0}{S^u - S^d}$: la soluzione è unica.
 **Distrattori:**
-- P∗(ω_1) = (S^u - (1+r)S_0)/(S^u - S^d) e P∗(ω_2) = ((1+r)S_0 - S^d)/(S^u - S^d): la soluzione è unica.
-- C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+]
-- C = 0,673, da Δ = 0,25 (neutralità al rischio) e da 20 ∗ Δ - C = (18 ∗ Δ)/(1.04) (assenza di arbitraggio).
+- $P^{\ast}(\omega_1) = \frac{S^u - (1+r)S_0}{S^u - S^d}$ e $P^{\ast}(\omega_2) = \frac{(1+r)S_0 - S^d}{S^u - S^d}$: la soluzione è unica.
+- $C_0 = E_P((1+r)^{-1}C_T) = (1+r)^{-1} \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$
+- $C = 0{,}673$, da $\Delta = 0{,}25$ (neutralità al rischio) e da $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$ (assenza di arbitraggio).
 
-**D:** ⚠️ Che cosa si ricava dalla (1) nel metodo della martingala, e che ruolo ha P∗ per l'opzione?
-**R:** Slide 33–34: «Il prezzo dell'opzione sotto una data misura di probabilità è dato da: C_0 = E_P((1+r)^(-1)C_T) = (1+r)^(-1) · [P(ω_1)(S^u - K)^+ + P(ω_2)(S^d - K)^+] (1). Quindi: C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T) i.e. P∗ è anche la misura di martingala per l'opzione.» Il docente: il prezzo scontato dell'opzione C∗_0 «equivale al C0», ed è il valore atteso sotto la misura P∗, «che è anche detta misura di martingala per l'opzione», del prezzo a scadenza scontato (transcript [00:27:19]–[00:28:03]). ⚠️ «Anche»: P∗ è la misura di martingala del sottostante (slide 30) e dell'opzione.
-**Opzione:** C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è anche la misura di martingala per l'opzione.
+**D:** ⚠️ Che cosa si ricava dalla (1) nel metodo della martingala, e che ruolo ha $P^{\ast}$ per l'opzione?
+**R:** Slide 33–34: «Il prezzo dell'opzione sotto una data misura di probabilità è dato da: $C_0 = E_P((1+r)^{-1}C_T) = (1+r)^{-1} \cdot [P(\omega_1)(S^u - K)^+ + P(\omega_2)(S^d - K)^+]$ (1). Quindi: $C^{\ast}_0 = C_0 = E_{P^{\ast}}((1+r)^{-1} C_T) = E_{P^{\ast}}(C^{\ast}_T)$ i.e. $P^{\ast}$ è anche la misura di martingala per l'opzione.» Il docente: il prezzo scontato dell'opzione $C^{\ast}_0$ «equivale al C0», ed è il valore atteso sotto la misura $P^{\ast}$, «che è anche detta misura di martingala per l'opzione», del prezzo a scadenza scontato (transcript [00:27:19]–[00:28:03]). ⚠️ «Anche»: $P^{\ast}$ è la misura di martingala del sottostante (slide 30) e dell'opzione.
+**Opzione:** $C^{\ast}_0 = C_0 = E_{P^{\ast}}((1+r)^{-1} C_T) = E_{P^{\ast}}(C^{\ast}_T)$: $P^{\ast}$ è anche la misura di martingala per l'opzione.
 **Distrattori:**
-- C∗_0 = C_0 = E_{P∗}((1+r)^(-1) C_T) = E_{P∗}(C∗_T): P∗ è la misura di martingala per il sottostante, ma non per l'opzione.
-- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: 20 ∗ Δ - C = (22 ∗ Δ - 1)/(1.04), oppure 20 ∗ Δ - C = (18 ∗ Δ)/(1.04).
+- $C^{\ast}_0 = C_0 = E_{P^{\ast}}((1+r)^{-1} C_T) = E_{P^{\ast}}(C^{\ast}_T)$: $P^{\ast}$ è la misura di martingala per il sottostante, ma non per l'opzione.
+- Rendimento atteso dell'opzione = Tasso di interesse privo di rischio, e Prezzo dell'opzione = Pay-Off Atteso Scontato: $20 \ast \Delta - C = (22 \ast \Delta - 1)/(1.04)$, oppure $20 \ast \Delta - C = (18 \ast \Delta)/(1.04)$.
 - Esistono due scenari, up e down.
 
 **D:** ⚠️ A che cosa porta, nel metodo della martingala, la sostituzione delle misure di probabilità nel prezzo dell'opzione, e che cosa non torna nell'ultima riga della slide 35?
-**R:** Slide 35: «sostituendo le misure di probabilità» si ha (1+r)^(-1) · [((1+r)S_0 - S^d)/(S^u - S^d) C^u + (S^u - (1+r)S_0)/(S^u - S^d) C^d]; semplificando e raccogliendo (C^u - C^d) si arriva a C∗_0 = (C^u - C^d)S_0/(S^u - S^d) + (C^d S^u + C^u S^d)/((S^u - S^d)(1+r)), «che è uguale a (3)», come scrive la slide. Il metodo della martingala ritrova il prezzo del metodo di replicazione (slide 21); il docente: «che guarda caso è uguale alla 3» (transcript [00:28:03]–[00:29:13]). ⚠️ Nell'ultima riga la slide scrive al numeratore **C^d S^u + C^u S^d**, mentre la (3) della slide 21 e la riga precedente della stessa slide 35 hanno **C^d S^u - C^u S^d**; il docente legge il «più» ([00:28:40]). È un refuso di segno della slide: vale la (3).
+**R:** Slide 35: «sostituendo le misure di probabilità» si ha $(1+r)^{-1} \cdot \left[\frac{(1+r)S_0 - S^d}{S^u - S^d} C^u + \frac{S^u - (1+r)S_0}{S^u - S^d} C^d\right]$; semplificando e raccogliendo $(C^u - C^d)$ si arriva a $C^{\ast}_0 = \frac{(C^u - C^d)S_0}{S^u - S^d} + \frac{C^d S^u + C^u S^d}{(S^u - S^d)(1+r)}$, «che è uguale a (3)», come scrive la slide. Il metodo della martingala ritrova il prezzo del metodo di replicazione (slide 21); il docente: «che guarda caso è uguale alla 3» (transcript [00:28:03]–[00:29:13]). ⚠️ Nell'ultima riga la slide scrive al numeratore **$C^d S^u + C^u S^d$**, mentre la (3) della slide 21 e la riga precedente della stessa slide 35 hanno **$C^d S^u - C^u S^d$**; il docente legge il «più» ([00:28:40]). È un refuso di segno della slide: vale la (3).
 
-**D:** ⚠️ A che cosa è pari il prezzo al tempo zero dell'opzione call C con scadenza T, secondo il test della lezione 08 (domanda 1)?
-**R:** «**C_0=E_P[(1+r)^(-1)C_T]**». È il primo membro della formula (1) della slide 8, ripetuta alla 33, con le parentesi quadre al posto delle tonde. Il docente: il prezzo è il valore atteso sotto P del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). La domanda è una matrice a tre assi: chi sta a sinistra (C_0 o C_T), che cosa si sconta (C_T o C_0) e il fattore ((1+r)^(-1) o (1+r)). Distrattori del test: «C_T=E_P[(1+r)^(-1)C_T]» sbaglia solo il primo asse e **si contraddice da sola**, perché a sinistra c'è una variabile casuale e a destra un numero, il suo valore atteso scontato; torna nelle domande 3, 4 e 5. «C_0=E_P[(1+r)C_T]» sbaglia solo il fattore, che capitalizza invece di attualizzare. «C_T=E_P[(1+r)^(-1)C_0]» sbaglia i primi due assi.
+**D:** ⚠️ A che cosa è pari il prezzo al tempo zero dell'opzione call $C$ con scadenza $T$, secondo il test della lezione 08 (domanda 1)?
+**R:** «**C_0=E_P[(1+r)^(-1)C_T]**». È il primo membro della formula (1) della slide 8, ripetuta alla 33, con le parentesi quadre al posto delle tonde. Il docente: il prezzo è il valore atteso sotto $P$ del valore della call a scadenza «attualizzato per un tasso di interesse R» (transcript [00:08:41]–[00:09:24]). La domanda è una matrice a tre assi: chi sta a sinistra ($C_0$ o $C_T$), che cosa si sconta ($C_T$ o $C_0$) e il fattore ($(1+r)^{-1}$ o $(1+r)$). Distrattori del test: «C_T=E_P[(1+r)^(-1)C_T]» sbaglia solo il primo asse e **si contraddice da sola**, perché a sinistra c'è una variabile casuale e a destra un numero, il suo valore atteso scontato; torna nelle domande 3, 4 e 5. «C_0=E_P[(1+r)C_T]» sbaglia solo il fattore, che capitalizza invece di attualizzare. «C_T=E_P[(1+r)^(-1)C_0]» sbaglia i primi due assi.
 **Opzione:** C_0=E_P[(1+r)^(-1)C_T]
 **Distrattori:**
 - C_T=E_P[(1+r)^(-1)C_T]
@@ -2978,7 +3078,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - C_0=E_P[(1+r)C_T]
 
 **D:** ⚠️ Che cosa vale nel modello di Sharpe-Rendleman-Bartter uniperiodale, secondo il test della lezione 08 (domanda 2)?
-**R:** «**esistono due scenari, up e down**». La slide 5 definisce Ω = {ω_1, ω_2}, la slide 6 associa S^u a ω_1 e S^d a ω_2, la slide 9 disegna «S Up» e «S Down». Il docente: i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down» (transcript [00:07:55]). Distrattori del test: «esistono scenari idefiniti» è una trappola lessicale, perché nel transcript «indefiniti» sono i guadagni o le perdite della call ([00:05:14]); «il rendimento atteso dell'azione è uguale al tasso di interesse rischioso» scambia l'opzione con l'azione e il «privo di rischio» della slide 24 con un «rischioso» che non esiste nei materiali; «il rendimento atteso dell'azione è superiore al rendimento atteso dell'opzione» è un confronto che le slide non fanno.
+**R:** «**esistono due scenari, up e down**». La slide 5 definisce $\Omega = \{\omega_1, \omega_2\}$, la slide 6 associa $S^u$ a $\omega_1$ e $S^d$ a $\omega_2$, la slide 9 disegna «$S$ Up» e «$S$ Down». Il docente: i due eventi «qualificano due potenziali valori del mio sottostante, S up e S down» (transcript [00:07:55]). Distrattori del test: «esistono scenari idefiniti» è una trappola lessicale, perché nel transcript «indefiniti» sono i guadagni o le perdite della call ([00:05:14]); «il rendimento atteso dell'azione è uguale al tasso di interesse rischioso» scambia l'opzione con l'azione e il «privo di rischio» della slide 24 con un «rischioso» che non esiste nei materiali; «il rendimento atteso dell'azione è superiore al rendimento atteso dell'opzione» è un confronto che le slide non fanno.
 **Opzione:** esistono due scenari, up e down
 **Distrattori:**
 - esistono scenari idefiniti
@@ -2994,14 +3094,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - C_T=E_P[(1+r)^(-1)C_T]
 
 **D:** ⚠️ Com'è la misura di probabilità nel modello di Sharpe-Rendleman-Bartter, secondo il test della lezione 08 (domanda 4)?
-**R:** «**è tale che le probabilità degli eventi sommano ad 1 in un unico periodo**». Slide 5: «una misura di probabilità P tale che: P(ω_1) + P(ω_2) = 1»; slide 31: P∗(ω_1) + P∗(ω_2) = 1; il docente lo dice a [00:07:38]. L'unico periodo è quello dello schema uniperiodale (slide 3). ⚠️ La D del test, «è tale che le probabilità degli eventi sono sempre < 1 in un unico periodo», non è nei materiali, che danno solo la somma e, nella lezione 01, valori in [0,1] estremi compresi. È però difendibile come matematica: se entrambi gli scenari hanno probabilità positiva, ciascuna è minore di 1. Per questo qui non compare fra i distrattori; all'esame va segnata la A. Gli altri distrattori del test sono il distrattore lessicale «scenari idefiniti», con il refuso «è ta che», e la formula che si contraddice da sola.
+**R:** «**è tale che le probabilità degli eventi sommano ad 1 in un unico periodo**». Slide 5: «una misura di probabilità $P$ tale che: $P(\omega_1) + P(\omega_2) = 1$»; slide 31: $P^{\ast}(\omega_1) + P^{\ast}(\omega_2) = 1$; il docente lo dice a [00:07:38]. L'unico periodo è quello dello schema uniperiodale (slide 3). ⚠️ La D del test, «è tale che le probabilità degli eventi sono sempre < 1 in un unico periodo», non è nei materiali, che danno solo la somma e, nella lezione 01, valori in $[0,1]$ estremi compresi. È però difendibile come matematica: se entrambi gli scenari hanno probabilità positiva, ciascuna è minore di 1. Per questo qui non compare fra i distrattori; all'esame va segnata la A. Gli altri distrattori del test sono il distrattore lessicale «scenari idefiniti», con il refuso «è ta che», e la formula che si contraddice da sola.
 **Opzione:** è tale che le probabilità degli eventi sommano ad 1 in un unico periodo
 **Distrattori:**
 - è ta che esistono scenari idefiniti
 - è tale che C_T=E_P[(1+r)^(-1)C_T]
 
 **D:** ⚠️ Di che cosa consta il portafoglio di replicazione nel modello di Sharpe-Rendleman-Bartter, secondo il test della lezione 08 (domanda 5)?
-**R:** «**consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale**»: è la chiave della piattaforma, da segnare. 🚨 Ma «1 azione» non è nelle slide. Il portafoglio è φ = (α_0, β_0), con α_0 azioni e β_0 liquidità (slide 17); α_0 = (C^u - C^d)/(S^u - S^d) (slide 20), e nell'esempio Δ = 0,25 (slide 23). L'«1» della slide 16 appartiene alla call venduta. La D è comunque l'unica opzione con azioni e liquidità, e l'unica con i due tempi: replica il pay-off a scadenza (slide 19) e vale C_0 a t = 0 (slide 21–22). Distrattori del test: «n opzioni e la liquidità» mette le opzioni al posto delle azioni; «n azioni e m opzioni» ricorda il portafoglio con Δ azioni e la call venduta della slide 16, che il docente chiama «il mio portafoglio di replicazione» ([00:22:18]) ma che nelle slide è quello della neutralità al rischio; «è tale che C_T=E_P[(1+r)^(-1)C_T]» è la formula che si contraddice da sola.
+**R:** «**consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale**»: è la chiave della piattaforma, da segnare. 🚨 Ma «1 azione» non è nelle slide. Il portafoglio è $\varphi = (\alpha_0, \beta_0)$, con $\alpha_0$ azioni e $\beta_0$ liquidità (slide 17); $\alpha_0 = \frac{C^u - C^d}{S^u - S^d}$ (slide 20), e nell'esempio $\Delta = 0{,}25$ (slide 23). L'«1» della slide 16 appartiene alla call venduta. La D è comunque l'unica opzione con azioni e liquidità, e l'unica con i due tempi: replica il pay-off a scadenza (slide 19) e vale $C_0$ a $t = 0$ (slide 21–22). Distrattori del test: «n opzioni e la liquidità» mette le opzioni al posto delle azioni; «n azioni e m opzioni» ricorda il portafoglio con $\Delta$ azioni e la call venduta della slide 16, che il docente chiama «il mio portafoglio di replicazione» ([00:22:18]) ma che nelle slide è quello della neutralità al rischio; «è tale che C_T=E_P[(1+r)^(-1)C_T]» è la formula che si contraddice da sola.
 **Opzione:** consta di 1 azione e la liquidità necessaria a replicare le posizioni iniziale e finale
 **Distrattori:**
 - consta di n opzioni e la liquidità necessaria a replicare la posizione iniziale
@@ -3317,166 +3417,166 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 10 — Pricing 3 - Modello Binomiale
 
 **D:** ⚠️ Quali variabili definisce la slide 2 della lezione 10, «Definizione delle variabili», per il pricing dell'opzione con il modello binomiale?
-**R:** Slide 2: «x= (1+r)^(-Δt)», il fattore di sconto (la slide stampa «D t»); «K= strike»; «u=f(s, Δt)»; «d=1/u»; «p=[(1+r)-d]/(u-d)»; «q=1-p». Il docente: «il fattore di sconto che definiamo x, 1 più r quindi alla meno delta t», poi lo strike e «l'up e il down, dove la differenza tra l'up e il down è che il down è uguale ad 1 su u», infine le probabilità, «dove la probabilità di salire è 1 più r meno d diviso u meno d, mentre l'altra probabilità non è altro che 1 meno p» (transcript [00:00:40]–[00:01:28]). ⚠️ d è 1 **su** u, non 1 meno u. La slide 2 non dà la formula di u: la dà il foglio Excel, =EXP(sigma∗RADQ(deltat)) (slide 17). Che la s di f(s, Δt) sia σ è una deduzione.
-**Opzione:** x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1/u; p=[(1+r)-d]/(u-d); q=1-p
+**R:** Slide 2: «$x= (1+r)^{-\Delta t}$», il fattore di sconto (la slide stampa «D t»); «K= strike»; «$u=f(s, \Delta t)$»; «$d=\frac{1}{u}$»; «$p=\frac{[(1+r)-d]}{u-d}$»; «$q=1-p$». Il docente: «il fattore di sconto che definiamo x, 1 più r quindi alla meno delta t», poi lo strike e «l'up e il down, dove la differenza tra l'up e il down è che il down è uguale ad 1 su u», infine le probabilità, «dove la probabilità di salire è 1 più r meno d diviso u meno d, mentre l'altra probabilità non è altro che 1 meno p» (transcript [00:00:40]–[00:01:28]). ⚠️ $d$ è 1 **su** $u$, non 1 meno $u$. La slide 2 non dà la formula di $u$: la dà il foglio Excel, =EXP(sigma∗RADQ(deltat)) (slide 17). Che la $s$ di $f(s, \Delta t)$ sia $\sigma$ è una deduzione.
+**Opzione:** $x=(1+r)^{-\Delta t}$; K=strike; $u=f(s, \Delta t)$; $d=\frac{1}{u}$; $p=\frac{[(1+r)-d]}{u-d}$; $q=1-p$
 **Distrattori:**
-- x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1-u; p=[(1+r)-d]/(u-d); q=1-p
-- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
-- deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+- $x=(1+r)^{-\Delta t}$; K=strike; $u=f(s, \Delta t)$; $d=1-u$; $p=\frac{[(1+r)-d]}{u-d}$; $q=1-p$
+- Sottostante al tempo 0: 50; strike $K$: 50; scadenza $T$: 1 anno; tasso $r$: 5% annuo; volatilità $\sigma$: 30% annua; passi discreti: 20.
+- deltat è la cella C5, rate la E4, sigma la E5, $u$ la E1 e $d$ la E2.
 
 **D:** ⚠️ Che cosa contiene la colonna A della rappresentazione tabellare del modello binomiale (slide 3, «Il valore del sottostante alla scadenza»)?
-**R:** Slide 3: sotto «T» e «S_T», nelle righe 1, 2, 3, …, 2n, 2n+1, u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …….., d^(n-1) S_0, d^n S_0. Il docente: il valore del sottostante alla scadenza «parte dal valore s con 0» e, a seconda dell'ultimo stadio raggiunto, «andrà per n volte verso l'alto e quindi avremo u elevato alla n per s con 0», poi «u alla n meno 1 s con 0», e verso il basso «lo stesso ragionamento» fino alle righe «2n, 2n più 1» (transcript [00:01:45]–[00:02:27]). ⚠️ La n è un esponente, e la riga 1 ha il valore più alto. Per il docente è «l'ultima colonna», che «in realtà qui è la prima» ([00:01:28]): nel foglio Excel il sottostante a scadenza sta nell'ultima colonna, la W (slide 19).
-**Opzione:** u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+**R:** Slide 3: sotto «T» e «$S_T$», nelle righe 1, 2, 3, …, 2n, 2n+1, $u^n S_0$, $u^{n-1} S_0$, $u^{n-2} S_0$, …….., $d^{n-1} S_0$, $d^n S_0$. Il docente: il valore del sottostante alla scadenza «parte dal valore s con 0» e, a seconda dell'ultimo stadio raggiunto, «andrà per n volte verso l'alto e quindi avremo u elevato alla n per s con 0», poi «u alla n meno 1 s con 0», e verso il basso «lo stesso ragionamento» fino alle righe «2n, 2n più 1» (transcript [00:01:45]–[00:02:27]). ⚠️ La $n$ è un esponente, e la riga 1 ha il valore più alto. Per il docente è «l'ultima colonna», che «in realtà qui è la prima» ([00:01:28]): nel foglio Excel il sottostante a scadenza sta nell'ultima colonna, la W (slide 19).
+**Opzione:** $u^n S_0, u^{n-1} S_0, u^{n-2} S_0, \ldots, d^{n-1} S_0, d^n S_0$, dalla riga 1 alla riga 2n+1
 **Distrattori:**
-- d^n S_0, d^(n-1) S_0, d^(n-2) S_0, …, u^(n-1) S_0, u^n S_0, dalla riga 1 alla riga 2n+1
+- $d^n S_0, d^{n-1} S_0, d^{n-2} S_0, \ldots, u^{n-1} S_0, u^n S_0$, dalla riga 1 alla riga 2n+1
 - MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
-- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
+- $S_0 = 100$, $K = 100$, $r = 3\%$, $\sigma = 20\%$, $T = 1$, steps = 4, $\Delta t = 0.25$; $x = 0.9925$, $u = 1.1052$, $d = 0.9048$, $p = 0.5126$, $q = 0.4874$
 
 **D:** ⚠️ Che cosa contiene la colonna B della rappresentazione tabellare nel caso della call (slide 4, «Pay off della Call alla scadenza»)?
-**R:** Slide 4: sotto «T», MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …………, MAX(A2n-K,0), MAX(A2n+1-K,0), una formula per ogni riga della colonna A. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», cioè «il massimo tra il valore del sottostante, che in questa rappresentazione a matrice vediamo essere A1, A2, A3, che sono le varie celle di questa tabella, meno il valore fisso del prezzo strike K e 0» (transcript [00:03:01]–[00:03:29]). ⚠️ Per la call è A meno K; K meno A è la put (slide 8). Gli estremi, MAX(A1-K,0) e MAX(A2n+1-K,0), sono la chiave della domanda 2 del test.
+**R:** Slide 4: sotto «T», MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …………, MAX(A2n-K,0), MAX(A2n+1-K,0), una formula per ogni riga della colonna A. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», cioè «il massimo tra il valore del sottostante, che in questa rappresentazione a matrice vediamo essere A1, A2, A3, che sono le varie celle di questa tabella, meno il valore fisso del prezzo strike K e 0» (transcript [00:03:01]–[00:03:29]). ⚠️ Per la call è A meno $K$; $K$ meno A è la put (slide 8). Gli estremi, MAX(A1-K,0) e MAX(A2n+1-K,0), sono la chiave della domanda 2 del test.
 **Opzione:** MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
 **Distrattori:**
 - MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
-- u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+- $u^n S_0, u^{n-1} S_0, u^{n-2} S_0, \ldots, d^{n-1} S_0, d^n S_0$, dalla riga 1 alla riga 2n+1
 - =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
 
-**D:** ⚠️ Quali formule contiene la colonna C, «T- Δ T», della rappresentazione tabellare del modello binomiale (slide 5, «Il prezzo come pay off atteso scontato»)?
-**R:** Slide 5: x∗(p∗B1+q∗B2) nella riga 1, x∗(p∗B1+q∗B3) nella riga 2, x∗(p∗B2+q∗B4) nella riga 3, …, x∗(p∗B2n-1+q∗B2n+1) nella riga 2n, x∗(p∗B2n+q∗B2n+1) nella riga 2n+1. Il docente: si torna «indietro di un delta di t» richiamando il fattore di sconto x e le probabilità, per trovare per ogni stato «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» (transcript [00:04:03]–[00:04:38]). ⚠️ Nelle righe interne la cella usa la riga di sopra e quella di sotto, non quella adiacente: la riga 2 usa B1 e B3, la riga 3 B2 e B4. Le stesse formule valgono per la put (slide 9).
+**D:** ⚠️ Quali formule contiene la colonna C, «$T- \Delta T$», della rappresentazione tabellare del modello binomiale (slide 5, «Il prezzo come pay off atteso scontato»)?
+**R:** Slide 5: x∗(p∗B1+q∗B2) nella riga 1, x∗(p∗B1+q∗B3) nella riga 2, x∗(p∗B2+q∗B4) nella riga 3, …, x∗(p∗B2n-1+q∗B2n+1) nella riga 2n, x∗(p∗B2n+q∗B2n+1) nella riga 2n+1. Il docente: si torna «indietro di un delta di t» richiamando il fattore di sconto $x$ e le probabilità, per trovare per ogni stato «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» (transcript [00:04:03]–[00:04:38]). ⚠️ Nelle righe interne la cella usa la riga di sopra e quella di sotto, non quella adiacente: la riga 2 usa B1 e B3, la riga 3 B2 e B4. Le stesse formule valgono per la put (slide 9).
 **Opzione:** x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
 **Distrattori:**
 - x∗(p∗B1+q∗B2), x∗(p∗B2+q∗B3), x∗(p∗B3+q∗B4), …, x∗(p∗B2n-1+q∗B2n), x∗(p∗B2n+q∗B2n+1)
-- u^n S_0, u^(n-1) S_0, u^(n-2) S_0, …, d^(n-1) S_0, d^n S_0, dalla riga 1 alla riga 2n+1
+- $u^n S_0, u^{n-1} S_0, u^{n-2} S_0, \ldots, d^{n-1} S_0, d^n S_0$, dalla riga 1 alla riga 2n+1
 - =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
 
-**D:** Quali formule contiene la colonna D, «T- 2Δ T», della rappresentazione tabellare del modello binomiale (slide 6)?
-**R:** Slide 6, «Implementazione del prezzo»: x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1), cioè le formule della colonna C applicate alle celle della colonna C. Il docente: l'implementazione «non potrà che regredire ancora indietro di un altro delta T», alla scadenza «T grande meno due volte delta T», dove «ancora una volta avremo il nostro fattore di sconto» e la media ponderata (transcript [00:04:50]). ⚠️ p pesa sempre la riga di sopra, q quella di sotto. La slide 7 ripete la tabella con le variabili in testa.
+**D:** Quali formule contiene la colonna D, «$T- 2\Delta T$», della rappresentazione tabellare del modello binomiale (slide 6)?
+**R:** Slide 6, «Implementazione del prezzo»: x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1), cioè le formule della colonna C applicate alle celle della colonna C. Il docente: l'implementazione «non potrà che regredire ancora indietro di un altro delta T», alla scadenza «T grande meno due volte delta T», dove «ancora una volta avremo il nostro fattore di sconto» e la media ponderata (transcript [00:04:50]). ⚠️ $p$ pesa sempre la riga di sopra, $q$ quella di sotto. La slide 7 ripete la tabella con le variabili in testa.
 **Opzione:** x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
 **Distrattori:**
 - x∗(q∗C1+p∗C2), x∗(q∗C1+p∗C3), x∗(q∗C2+p∗C4), …, x∗(q∗C2n-1+p∗C2n+1), x∗(q∗C2n+p∗C2n+1)
 - MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
-- u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+- u = EXP(sigma∗RADQ(deltat)) = 1,069 e $d = \frac{1}{u} = 0{,}935$
 
-**D:** ⚠️ Che cosa si sta facendo, secondo il docente della lezione 10, quando si torna indietro di un Δt nell'albero binomiale?
-**R:** «Stiamo portando indietro nel tempo il valore intrinseco realizzando per quel valore finanziario del tempo la doverosa ponderazione probabilistica» (transcript [00:05:15]). Prima: si richiama «il fattore di sconto x» e, con le probabilità, si determina per ogni stato al tempo T «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» ([00:04:09]–[00:04:38]). Le slide 5–7 lo chiamano «Il prezzo come pay off atteso scontato», x∗(p∗B1+q∗B2)… ⚠️ Si va all'indietro e si sconta: x=(1+r)^(-Δt) (slide 2).
-**Opzione:** Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
+**D:** ⚠️ Che cosa si sta facendo, secondo il docente della lezione 10, quando si torna indietro di un $\Delta t$ nell'albero binomiale?
+**R:** «Stiamo portando indietro nel tempo il valore intrinseco realizzando per quel valore finanziario del tempo la doverosa ponderazione probabilistica» (transcript [00:05:15]). Prima: si richiama «il fattore di sconto x» e, con le probabilità, si determina per ogni stato al tempo $T$ «il valore intrinseco attualizzato di un tempo e quindi ponderato per il relativo spazio di probabilità» ([00:04:09]–[00:04:38]). Le slide 5–7 lo chiamano «Il prezzo come pay off atteso scontato», x∗(p∗B1+q∗B2)… ⚠️ Si va all'indietro e si sconta: $x=(1+r)^{-\Delta t}$ (slide 2).
+**Opzione:** Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore $x$ e lo si pondera con le probabilità $p$ e $q$.
 **Distrattori:**
-- Si porta avanti nel tempo il prezzo di oggi: lo si capitalizza con il fattore x e lo si pondera con le probabilità p e q.
+- Si porta avanti nel tempo il prezzo di oggi: lo si capitalizza con il fattore $x$ e lo si pondera con le probabilità $p$ e $q$.
 - Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
 - Il valore finanziario del tempo e il tenore della volatilità.
 
 **D:** ⚠️ Che cosa contiene la colonna B della rappresentazione tabellare nel caso della put (slide 8, «Pay Off della PUT a scadenza»)?
-**R:** Slide 8: MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …………, MAX(K -A2n,0), MAX(K -A2n+1,0). Il docente: per la put «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» (transcript [00:07:05]). ⚠️ Per la put è K meno A; A meno K è la call (slide 4). Gli estremi, MAX(K -A1,0) e MAX(K -A2n+1,0), sono la chiave della domanda 3 del test; il valore più alto sta nell'ultima riga, quella di d^n S_0.
+**R:** Slide 8: MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …………, MAX(K -A2n,0), MAX(K -A2n+1,0). Il docente: per la put «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» (transcript [00:07:05]). ⚠️ Per la put è $K$ meno A; A meno $K$ è la call (slide 4). Gli estremi, MAX(K -A1,0) e MAX(K -A2n+1,0), sono la chiave della domanda 3 del test; il valore più alto sta nell'ultima riga, quella di $d^n S_0$.
 **Opzione:** MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
 **Distrattori:**
 - MAX(A1-K,0), MAX(A2-K,0), MAX(A3-K,0), …, MAX(A2n-K,0), MAX(A2n+1-K,0)
 - x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
-- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+- Nella colonna W: $S = 50{,}00$ nella riga 28, $u^{20}\ast S = 191{,}27$ nella riga 8 e $d^{20}\ast S = 13{,}07$ nella riga 48.
 
 **D:** ⚠️ Che cosa cambia nella rappresentazione tabellare del modello binomiale quando si passa dalla call alla put?
-**R:** Solo il pay off a scadenza della colonna B: MAX(K -A1,0) … MAX(K -A2n+1,0) per la put (slide 8) invece di MAX(A1-K,0) … MAX(A2n+1-K,0) per la call (slide 4). Le colonne C e D delle slide 9–11 sono identiche a quelle delle slide 5–7, x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3)…, e la slide 11 ripete le stesse variabili. Il docente: «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco» (transcript [00:07:05]); per il resto, «come abbiamo fatto nel caso della call», si portano «indietro di un delta t i valori intrinseci» ([00:07:39]). Nel foglio Excel: «non metteremo S-K ma metteremo K-S» ([00:28:29]). ⚠️ p e q non si scambiano.
+**R:** Solo il pay off a scadenza della colonna B: MAX(K -A1,0) … MAX(K -A2n+1,0) per la put (slide 8) invece di MAX(A1-K,0) … MAX(A2n+1-K,0) per la call (slide 4). Le colonne C e D delle slide 9–11 sono identiche a quelle delle slide 5–7, x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3)…, e la slide 11 ripete le stesse variabili. Il docente: «La differenza in sostanza sarà nella definizione della funzione del valore intrinseco» (transcript [00:07:05]); per il resto, «come abbiamo fatto nel caso della call», si portano «indietro di un delta t i valori intrinseci» ([00:07:39]). Nel foglio Excel: «non metteremo S-K ma metteremo K-S» ([00:28:29]). ⚠️ $p$ e $q$ non si scambiano.
 **Opzione:** Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
 **Distrattori:**
-- Il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…, e le formule all'indietro, dove p e q si scambiano di posto.
+- Il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…, e le formule all'indietro, dove $p$ e $q$ si scambiano di posto.
 - Il valore finanziario del tempo e il tenore della volatilità.
 - =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
 
 **D:** ⚠️ Con quali parametri e quali valori è costruito l'esempio numerico a 4 passi della slide 12 della lezione 10?
-**R:** Slide 12: «S0= 100», «r= 3%», «σ= 20%», «T= 1»; «x= 0.9925», «u= 1.1052», «p= 0.5126», «steps= 4»; «K= 100», «d= 0.9048», «q= 0.4874», «Δt= 0.25». Il docente: x, con il tasso del 3%, fa sì che «un delta T sconti 100 fino a farlo diventare 99,25»; verso l'alto 100 si incrementa «del fattore 1,1052» e verso il basso «di 0,9048»; la volatilità è il 20%; i 4 passi dividono l'orizzonte di un anno, con «una quantificazione 0,25» (transcript [00:11:05]–[00:13:21]). ⚠️ p, la probabilità di salire, è la maggiore delle due. x e p tornano con lo sconto continuo, e^(-0,03·0,25) ≈ 0,9925 (il calcolo non è nelle slide).
-**Opzione:** S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
+**R:** Slide 12: «S0= 100», «r= 3%», «σ= 20%», «T= 1»; «x= 0.9925», «u= 1.1052», «p= 0.5126», «steps= 4»; «K= 100», «d= 0.9048», «q= 0.4874», «Δt= 0.25». Il docente: $x$, con il tasso del 3%, fa sì che «un delta T sconti 100 fino a farlo diventare 99,25»; verso l'alto 100 si incrementa «del fattore 1,1052» e verso il basso «di 0,9048»; la volatilità è il 20%; i 4 passi dividono l'orizzonte di un anno, con «una quantificazione 0,25» (transcript [00:11:05]–[00:13:21]). ⚠️ $p$, la probabilità di salire, è la maggiore delle due. $x$ e $p$ tornano con lo sconto continuo, $e^{-0{,}03\cdot 0{,}25} \approx 0{,}9925$ (il calcolo non è nelle slide).
+**Opzione:** $S_0 = 100$, $K = 100$, $r = 3\%$, $\sigma = 20\%$, $T = 1$, steps = 4, $\Delta t = 0.25$; $x = 0.9925$, $u = 1.1052$, $d = 0.9048$, $p = 0.5126$, $q = 0.4874$
 **Distrattori:**
-- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.4874, q = 0.5126
-- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
+- $S_0 = 100$, $K = 100$, $r = 3\%$, $\sigma = 20\%$, $T = 1$, steps = 4, $\Delta t = 0.25$; $x = 0.9925$, $u = 1.1052$, $d = 0.9048$, $p = 0.4874$, $q = 0.5126$
+- Sottostante al tempo 0: 50; strike $K$: 50; scadenza $T$: 1 anno; tasso $r$: 5% annuo; volatilità $\sigma$: 30% annua; passi discreti: 20.
 
 **D:** ⚠️ Quanto vale la call dell'esempio a 4 passi della slide 12, e in quale cella si legge?
-**R:** 8.94, nella colonna T-4Δ t, alla riga di S_T = 100.00: è una delle celle bianche. Il docente: il prezzo della call si ottiene «tornando indietro di 4» Δt, perché ogni Δt «vale 0,25 del tempo 1» (transcript [00:09:55]); di tutto l'albero, «le celle di nostro interesse sono quelle denotate dal colore bianco» ([00:10:15]). Il transcript scrive «se quel stopto in 94»: vale la slide. ⚠️ Le altre celle della colonna T-4Δ t, come 33.01 nella prima riga, sono gialle: calcolate con la formula, ma fuori dall'albero.
-**Opzione:** 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+**R:** 8.94, nella colonna $T-4\Delta t$, alla riga di $S_T = 100.00$: è una delle celle bianche. Il docente: il prezzo della call si ottiene «tornando indietro di 4» $\Delta t$, perché ogni $\Delta t$ «vale 0,25 del tempo 1» (transcript [00:09:55]); di tutto l'albero, «le celle di nostro interesse sono quelle denotate dal colore bianco» ([00:10:15]). Il transcript scrive «se quel stopto in 94»: vale la slide. ⚠️ Le altre celle della colonna $T-4\Delta t$, come 33.01 nella prima riga, sono gialle: calcolate con la formula, ma fuori dall'albero.
+**Opzione:** 8.94: la cella di $T-4\Delta t$ nella riga di $S_T = 100.00$, una delle celle bianche dell'albero.
 **Distrattori:**
-- 33.01: la cella di T-4Δ t nella prima riga, quella di S_T = 149.18, una delle celle bianche dell'albero.
+- 33.01: la cella di $T-4\Delta t$ nella prima riga, quella di $S_T = 149.18$, una delle celle bianche dell'albero.
 - 7,042, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
 - Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
 
-**D:** ⚠️ Da quali celle nasce il valore 11.26 della colonna T-Δ t nell'esempio della slide 12?
-**R:** Dalle due celle bianche del passo T che stanno sopra e sotto: 22,14, il pay off nella riga di S_T = 122.14, e 0,00, quello nella riga di S_T = 100.00. Il docente: «questa quantità pondererà questa e questa, questa quantità di 11 e 26, il 22 e 14 e lo 0» (transcript [00:10:31]). Verifica: 0,9925 · (0,5126 · 22,14 + 0,4874 · 0) ≈ 11,26 (il calcolo non è nelle slide). ⚠️ Non nasce dalle celle adiacenti, 10,52 e 0,00: da quelle viene la cella gialla 5.35, fuori dall'albero.
-**Opzione:** Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
+**D:** ⚠️ Da quali celle nasce il valore 11.26 della colonna $T-\Delta t$ nell'esempio della slide 12?
+**R:** Dalle due celle bianche del passo $T$ che stanno sopra e sotto: 22,14, il pay off nella riga di $S_T = 122.14$, e 0,00, quello nella riga di $S_T = 100.00$. Il docente: «questa quantità pondererà questa e questa, questa quantità di 11 e 26, il 22 e 14 e lo 0» (transcript [00:10:31]). Verifica: 0,9925 · (0,5126 · 22,14 + 0,4874 · 0) ≈ 11,26 (il calcolo non è nelle slide). ⚠️ Non nasce dalle celle adiacenti, 10,52 e 0,00: da quelle viene la cella gialla 5.35, fuori dall'albero.
+**Opzione:** Da 22,14 e 0,00, i pay-off al tempo $T$ nelle righe di $S_T = 122.14$ e 100.00, scontati con $x$ e ponderati con $p$ e $q$.
 **Distrattori:**
-- Da 10,52 e 0,00, i pay-off al tempo T nelle righe di S_T = 110.52 e 100.00, scontati con x e ponderati con p e q.
-- 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+- Da 10,52 e 0,00, i pay-off al tempo $T$ nelle righe di $S_T = 110.52$ e 100.00, scontati con $x$ e ponderati con $p$ e $q$.
+- 8.94: la cella di $T-4\Delta t$ nella riga di $S_T = 100.00$, una delle celle bianche dell'albero.
 - =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
 
 **D:** ⚠️ Quali parametri si fissano per implementare il modello di Cox-Ross-Rubinstein su un foglio di calcolo per una call europea (slide 13)?
-**R:** Slide 13: «il prezzo del sottostante al tempo 0; quì 50», «Il prezzo strike K dell'opzione, quì 50», «la scadenza T; quì 1 anno», «il tasso di interesse r; quì 5% annuo», «la volatilità σ; quì 30% annua», «il numero di passi discreti del modello; quì 20». Il docente: «50 euro, 50 dollari», «il tasso di interesse che definiamo R viene definito pari al 5%, la volatilità sigma è definita pari al 30%», e 20 passi discreti (transcript [00:14:12]–[00:14:43]). La put europea usa gli stessi parametri (slide 23; [00:26:07]). ⚠️ Il 5% è il tasso, il 30% la volatilità.
-**Opzione:** Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 5% annuo; volatilità σ: 30% annua; passi discreti: 20.
+**R:** Slide 13: «il prezzo del sottostante al tempo 0; quì 50», «Il prezzo strike $K$ dell'opzione, quì 50», «la scadenza $T$; quì 1 anno», «il tasso di interesse $r$; quì 5% annuo», «la volatilità $\sigma$; quì 30% annua», «il numero di passi discreti del modello; quì 20». Il docente: «50 euro, 50 dollari», «il tasso di interesse che definiamo R viene definito pari al 5%, la volatilità sigma è definita pari al 30%», e 20 passi discreti (transcript [00:14:12]–[00:14:43]). La put europea usa gli stessi parametri (slide 23; [00:26:07]). ⚠️ Il 5% è il tasso, il 30% la volatilità.
+**Opzione:** Sottostante al tempo 0: 50; strike $K$: 50; scadenza $T$: 1 anno; tasso $r$: 5% annuo; volatilità $\sigma$: 30% annua; passi discreti: 20.
 **Distrattori:**
-- Sottostante al tempo 0: 50; strike K: 50; scadenza T: 1 anno; tasso r: 30% annuo; volatilità σ: 5% annua; passi discreti: 20.
-- S_0 = 100, K = 100, r = 3%, σ = 20%, T = 1, steps = 4, Δt = 0.25; x = 0.9925, u = 1.1052, d = 0.9048, p = 0.5126, q = 0.4874
-- deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+- Sottostante al tempo 0: 50; strike $K$: 50; scadenza $T$: 1 anno; tasso $r$: 30% annuo; volatilità $\sigma$: 5% annua; passi discreti: 20.
+- $S_0 = 100$, $K = 100$, $r = 3\%$, $\sigma = 20\%$, $T = 1$, steps = 4, $\Delta t = 0.25$; $x = 0.9925$, $u = 1.1052$, $d = 0.9048$, $p = 0.5126$, $q = 0.4874$
+- deltat è la cella C5, rate la E4, sigma la E5, $u$ la E1 e $d$ la E2.
 
 **D:** Che cosa vuol dire, secondo il docente della lezione 10, dividere l'anno in 20 passi discreti?
-**R:** «Quindi stiamo sostanzialmente dicendo che un anno viene diviso in una grandezza inferiore al mese, perché altrimenti sarebbero 12 passi, invece 20 passi vuol dire che noi stiamo all'incirca definendo un modello che cerca di discretizzare i 365 giorni che caratterizzano l'anno più o meno su 20 passi discreti» (transcript [00:14:47]–[00:15:13]). Ne viene ΔT = 1/20 = 0,05 (slide 15–16). È solo nel transcript.
+**R:** «Quindi stiamo sostanzialmente dicendo che un anno viene diviso in una grandezza inferiore al mese, perché altrimenti sarebbero 12 passi, invece 20 passi vuol dire che noi stiamo all'incirca definendo un modello che cerca di discretizzare i 365 giorni che caratterizzano l'anno più o meno su 20 passi discreti» (transcript [00:14:47]–[00:15:13]). Ne viene $\Delta T = \frac{1}{20} = 0{,}05$ (slide 15–16). È solo nel transcript.
 **Opzione:** Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
 **Distrattori:**
 - Un anno diviso in una grandezza superiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
 - Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
-- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
+- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore $x$ e lo si pondera con le probabilità $p$ e $q$.
 
-**D:** ⚠️ Come si calcola ΔT nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto vale?
-**R:** Slide 15, «L'intervallo temporale»: nella cella C5, =C6/C4, cioè la scadenza T (C6 = 1) diviso il numero di passi n (C4 = 20); la slide 16 mostra il risultato, 0,05. Il docente: «delta t è l'intervallo temporale, il cosiddetto time step, e viene calcolato semplicemente come c6 diviso c4» (transcript [00:15:49]). ⚠️ È T su n, non n su T.
-**Opzione:** ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
+**D:** ⚠️ Come si calcola $\Delta T$ nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto vale?
+**R:** Slide 15, «L'intervallo temporale»: nella cella C5, =C6/C4, cioè la scadenza $T$ (C6 = 1) diviso il numero di passi $n$ (C4 = 20); la slide 16 mostra il risultato, 0,05. Il docente: «delta t è l'intervallo temporale, il cosiddetto time step, e viene calcolato semplicemente come c6 diviso c4» (transcript [00:15:49]). ⚠️ È $T$ su $n$, non $n$ su $T$.
+**Opzione:** $\Delta T$ = C6/C4, cioè la scadenza $T$ diviso il numero di passi $n$: 0,05.
 **Distrattori:**
-- ΔT = C4/C6, cioè il numero di passi n diviso la scadenza T: 20.
+- $\Delta T$ = C4/C6, cioè il numero di passi $n$ diviso la scadenza $T$: 20.
 - =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
-- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e $q = 1-p = 0{,}498$
 
 **D:** ⚠️ Come si calcola il fattore di sconto nel foglio Excel del modello di Cox-Ross-Rubinstein?
-**R:** Slide 16, «Il fattore di sconto»: nella cella C1, discount= =EXP(deltat∗-rate); la slide 17 mostra il valore, 0,9975031. Il docente: «lo calcoliamo in tempo continuo, il fattore di sconto e quindi è l'esponenziale di delta T per meno il tasso di interesse» (transcript [00:16:06]); per la put lo ripete, «l'esponenziale di delta T per il tasso preso col meno davanti perché stiamo scontando» ([00:26:48]). ⚠️ Il meno davanti al tasso: si sconta. La slide 2 scriveva x=(1+r)^(-Δt), in tempo discreto.
+**R:** Slide 16, «Il fattore di sconto»: nella cella C1, discount= =EXP(deltat∗-rate); la slide 17 mostra il valore, 0,9975031. Il docente: «lo calcoliamo in tempo continuo, il fattore di sconto e quindi è l'esponenziale di delta T per meno il tasso di interesse» (transcript [00:16:06]); per la put lo ripete, «l'esponenziale di delta T per il tasso preso col meno davanti perché stiamo scontando» ([00:26:48]). ⚠️ Il meno davanti al tasso: si sconta. La slide 2 scriveva $x=(1+r)^{-\Delta t}$, in tempo discreto.
 **Opzione:** =EXP(deltat∗-rate): il fattore di sconto si calcola in tempo continuo.
 **Distrattori:**
 - =EXP(deltat∗rate): il fattore di sconto si calcola in tempo continuo.
-- ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
-- u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+- $\Delta T$ = C6/C4, cioè la scadenza $T$ diviso il numero di passi $n$: 0,05.
+- u = EXP(sigma∗RADQ(deltat)) = 1,069 e $d = \frac{1}{u} = 0{,}935$
 
-**D:** ⚠️ Come si calcolano u e d nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
-**R:** Slide 17, «I valori di u e d»: u =EXP(sigma∗RADQ(deltat)), 1,069, nella cella E1; d =1/u, 0,935, nella cella E2. Il docente: «l'evento up è pari a 1,069, l'evento down viene pari a 0,935»; «L'evento down è facilissimo, è 1 diviso up. L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» (transcript [00:17:10]–[00:17:28]). ⚠️ Sotto la radice c'è il passo temporale, e il tasso non compare. Nel foglio della put la slide 32 scrive SQRT al posto di RADQ.
-**Opzione:** u = EXP(sigma∗RADQ(deltat)) = 1,069 e d = 1/u = 0,935
+**D:** ⚠️ Come si calcolano $u$ e $d$ nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
+**R:** Slide 17, «I valori di $u$ e $d$»: u =EXP(sigma∗RADQ(deltat)), 1,069, nella cella E1; d =1/u, 0,935, nella cella E2. Il docente: «l'evento up è pari a 1,069, l'evento down viene pari a 0,935»; «L'evento down è facilissimo, è 1 diviso up. L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» (transcript [00:17:10]–[00:17:28]). ⚠️ Sotto la radice c'è il passo temporale, e il tasso non compare. Nel foglio della put la slide 32 scrive SQRT al posto di RADQ.
+**Opzione:** u = EXP(sigma∗RADQ(deltat)) = 1,069 e $d = \frac{1}{u} = 0{,}935$
 **Distrattori:**
-- u = EXP(sigma∗deltat) = 1,069 e d = 1/u = 0,935
-- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+- u = EXP(sigma∗deltat) = 1,069 e $d = \frac{1}{u} = 0{,}935$
+- Nella colonna W: $S = 50{,}00$ nella riga 28, $u^{20}\ast S = 191{,}27$ nella riga 8 e $d^{20}\ast S = 13{,}07$ nella riga 48.
 - =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
 
-**D:** ⚠️ Come si calcolano le probabilità p e q nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
-**R:** Slide 18, «Le probabilità di muoversi da sopra a sotto sull'albero binomiale»: p =(EXP(rate∗deltat)-d)/(u-d), 0,502, nella cella J1; q =1-p, 0,498, nella cella J2. Il docente: «la quantità P viene definita come l'esponenziale del tasso per delta T meno D, cioè l'evento down, diviso U meno D» (transcript [00:18:09]). ⚠️ Al numeratore c'è il fattore di capitalizzazione meno d, non u meno il fattore. La slide 2 scriveva p=[(1+r)-d]/(u-d).
-**Opzione:** p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+**D:** ⚠️ Come si calcolano le probabilità $p$ e $q$ nel foglio Excel del modello di Cox-Ross-Rubinstein, e quanto valgono?
+**R:** Slide 18, «Le probabilità di muoversi da sopra a sotto sull'albero binomiale»: p =(EXP(rate∗deltat)-d)/(u-d), 0,502, nella cella J1; q =1-p, 0,498, nella cella J2. Il docente: «la quantità P viene definita come l'esponenziale del tasso per delta T meno D, cioè l'evento down, diviso U meno D» (transcript [00:18:09]). ⚠️ Al numeratore c'è il fattore di capitalizzazione meno $d$, non $u$ meno il fattore. La slide 2 scriveva $p=\frac{[(1+r)-d]}{u-d}$.
+**Opzione:** p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e $q = 1-p = 0{,}498$
 **Distrattori:**
-- p = (u-EXP(rate∗deltat))/(u-d) = 0,502 e q = 1-p = 0,498
+- p = (u-EXP(rate∗deltat))/(u-d) = 0,502 e $q = 1-p = 0{,}498$
 - =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
 - x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
 
 **D:** Quali nomi di cella usano le formule del foglio Excel del modello di Cox-Ross-Rubinstein?
-**R:** Il docente: si usa «una delle funzioni di Excel che ci consente di dare un nome alla cella. Quindi invece di scrivere c5 scriviamo delta t, invece di scrivere e4 scriviamo rate» (transcript [00:16:41]–[00:16:48]); poi «E5 sigma» ([00:17:28]), e «il rate è la cella E4, D è la cella E2 e up è la cella E1» ([00:18:22]). Nelle slide 16–18 le formule usano deltat, rate, sigma, u e d; la slide 21 anche p, q e discount, che è la cella C1 (slide 16).
-**Opzione:** deltat è la cella C5, rate la E4, sigma la E5, u la E1 e d la E2.
+**R:** Il docente: si usa «una delle funzioni di Excel che ci consente di dare un nome alla cella. Quindi invece di scrivere c5 scriviamo delta t, invece di scrivere e4 scriviamo rate» (transcript [00:16:41]–[00:16:48]); poi «E5 sigma» ([00:17:28]), e «il rate è la cella E4, D è la cella E2 e up è la cella E1» ([00:18:22]). Nelle slide 16–18 le formule usano deltat, rate, sigma, $u$ e $d$; la slide 21 anche $p$, $q$ e discount, che è la cella C1 (slide 16).
+**Opzione:** deltat è la cella C5, rate la E4, sigma la E5, $u$ la E1 e $d$ la E2.
 **Distrattori:**
-- deltat è la cella E4, rate la C5, sigma la E5, u la E1 e d la E2.
+- deltat è la cella E4, rate la C5, sigma la E5, $u$ la E1 e $d$ la E2.
 - Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
 - =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
 
 **D:** ⚠️ Che valori assume il sottostante a scadenza nella colonna W del foglio Excel della call?
-**R:** Slide 19, «I valori del sottostante S_T utilizzando le quantità u e d»: S = 50,00 nella riga 28; verso l'alto u^1∗S = 53,47, u²∗S = 57,18, …, u^(20)∗S = 191,27 nella riga 8; verso il basso d^1∗S = 46,76, d²∗S = 43,72, …, d^(20)∗S = 13,07 nella riga 48. Il docente: lungo la riga 28, nella colonna W, «il prezzo della nostra azione è esattamente 50» (transcript [00:20:00]), e si arriva «a 13,07 che è il valore di D alla 20 e a 191,27 che è il valore di U alla 20» ([00:20:54]). ⚠️ In alto u, in basso d.
-**Opzione:** Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 191,27 nella riga 8 e d^(20)∗S = 13,07 nella riga 48.
+**R:** Slide 19, «I valori del sottostante $S_T$ utilizzando le quantità $u$ e $d$»: $S = 50{,}00$ nella riga 28; verso l'alto $u^1\ast S = 53{,}47$, $u^2\ast S = 57{,}18$, …, $u^{20}\ast S = 191{,}27$ nella riga 8; verso il basso $d^1\ast S = 46{,}76$, $d^2\ast S = 43{,}72$, …, $d^{20}\ast S = 13{,}07$ nella riga 48. Il docente: lungo la riga 28, nella colonna W, «il prezzo della nostra azione è esattamente 50» (transcript [00:20:00]), e si arriva «a 13,07 che è il valore di D alla 20 e a 191,27 che è il valore di U alla 20» ([00:20:54]). ⚠️ In alto $u$, in basso $d$.
+**Opzione:** Nella colonna W: $S = 50{,}00$ nella riga 28, $u^{20}\ast S = 191{,}27$ nella riga 8 e $d^{20}\ast S = 13{,}07$ nella riga 48.
 **Distrattori:**
-- Nella colonna W: S = 50,00 nella riga 28, u^(20)∗S = 13,07 nella riga 8 e d^(20)∗S = 191,27 nella riga 48.
-- Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
+- Nella colonna W: $S = 50{,}00$ nella riga 28, $u^{20}\ast S = 13{,}07$ nella riga 8 e $d^{20}\ast S = 191{,}27$ nella riga 48.
+- Da 22,14 e 0,00, i pay-off al tempo $T$ nelle righe di $S_T = 122.14$ e 100.00, scontati con $x$ e ponderati con $p$ e $q$.
 - 4,604, nella cella B26 del foglio della put europea.
 
 **D:** ⚠️ Come si calcola il pay off della call nel foglio Excel della lezione 10, e perché la formula si trascina a coppie di celle?
-**R:** Slide 20, «La formula max(S_T - K,0) viene applicata»: nella colonna V, =MAX(W8-k;0), che dà 141,27, poi 117,25, 96,25, 77,89, 61,83…, una riga sì e una no. Il docente: il trascinamento «prende le prime due celle» della colonna V, così il valore intrinseco «non viene rappresentato dove non serve perché l'albero binomiale richiede una compilazione a coppie delle celle»; nel primo foglio stilizzato, invece, il prezzo era compilato «anche laddove ... non ha senso trovarlo» (transcript [00:21:35]–[00:22:37]). ⚠️ Nella tabella stilizzata delle slide 4 e 8 la formula è in tutte le righe.
+**R:** Slide 20, «La formula $\max(S_T - K,0)$ viene applicata»: nella colonna V, =MAX(W8-k;0), che dà 141,27, poi 117,25, 96,25, 77,89, 61,83…, una riga sì e una no. Il docente: il trascinamento «prende le prime due celle» della colonna V, così il valore intrinseco «non viene rappresentato dove non serve perché l'albero binomiale richiede una compilazione a coppie delle celle»; nel primo foglio stilizzato, invece, il prezzo era compilato «anche laddove ... non ha senso trovarlo» (transcript [00:21:35]–[00:22:37]). ⚠️ Nella tabella stilizzata delle slide 4 e 8 la formula è in tutte le righe.
 **Opzione:** =MAX(W8-k;0) nella colonna V, trascinata a coppie di celle: il valore intrinseco compare una riga sì e una no.
 **Distrattori:**
 - =MAX(W8-k;0) nella colonna V, trascinata cella per cella: il valore intrinseco compare in tutte le righe.
-- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore x e lo si pondera con le probabilità p e q.
-- 8.94: la cella di T-4Δ t nella riga di S_T = 100.00, una delle celle bianche dell'albero.
+- Si porta indietro nel tempo il valore intrinseco: lo si sconta con il fattore $x$ e lo si pondera con le probabilità $p$ e $q$.
+- 8.94: la cella di $T-4\Delta t$ nella riga di $S_T = 100.00$, una delle celle bianche dell'albero.
 
 **D:** ⚠️ Quale formula si scrive nella cella U9 del foglio Excel della call per completare l'albero con la procedura inversa?
-**R:** Slide 21, «Una procedura inversa viene utilizzata per completare l'albero»: =(p∗V8+q∗V10)∗discount, che dà 128,98. Il docente: «la formula che ci vede P» per la cella V8 «più Q per la cella V10 per il fattore di sconto» (transcript [00:23:00]–[00:23:07]); la cella U8 non si calcola, e il trascinamento accoppia una cella con il calcolo e una vuota ([00:23:48]). ⚠️ Il docente dice che il fattore di sconto è «definito semplicemente da valore di C5»: nelle slide discount è la C1 (slide 16), e la C5 è ΔT. ⚠️ Si moltiplica per discount, cioè si sconta.
+**R:** Slide 21, «Una procedura inversa viene utilizzata per completare l'albero»: =(p∗V8+q∗V10)∗discount, che dà 128,98. Il docente: «la formula che ci vede P» per la cella V8 «più Q per la cella V10 per il fattore di sconto» (transcript [00:23:00]–[00:23:07]); la cella U8 non si calcola, e il trascinamento accoppia una cella con il calcolo e una vuota ([00:23:48]). ⚠️ Il docente dice che il fattore di sconto è «definito semplicemente da valore di C5»: nelle slide discount è la C1 (slide 16), e la C5 è $\Delta T$. ⚠️ Si moltiplica per discount, cioè si sconta.
 **Opzione:** =(p∗V8+q∗V10)∗discount nella cella U9: si sconta la media ponderata delle due celle del passo 20.
 **Distrattori:**
 - =(p∗V8+q∗V10)/discount nella cella U9: si capitalizza la media ponderata delle due celle del passo 20.
@@ -3484,31 +3584,31 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
 
 **D:** ⚠️ Quanto vale la call europea del foglio Excel della lezione 10, e in quale cella si legge?
-**R:** Slide 22, «L'albero è completato per ottenere il prezzo della Call europea»: 7,042, nella cella B28, indicata da una freccia. Il docente: l'albero si completa «con questo schema dove in ogni time step noi non compiliamo la colonna corrispondente al time step precedente creando questa struttura a scalini», fino al prezzo «identificato nella colonna B28» (transcript [00:24:48]). I parametri sono S_0 = 50, K = 50, T = 1 anno, r = 5%, σ = 30%, 20 passi (slide 13). ⚠️ 4,604 è la put con gli stessi parametri (slide 32).
+**R:** Slide 22, «L'albero è completato per ottenere il prezzo della Call europea»: 7,042, nella cella B28, indicata da una freccia. Il docente: l'albero si completa «con questo schema dove in ogni time step noi non compiliamo la colonna corrispondente al time step precedente creando questa struttura a scalini», fino al prezzo «identificato nella colonna B28» (transcript [00:24:48]). I parametri sono $S_0 = 50$, $K = 50$, $T = 1$ anno, $r = 5\%$, $\sigma = 30\%$, 20 passi (slide 13). ⚠️ 4,604 è la put con gli stessi parametri (slide 32).
 **Opzione:** 7,042, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
 **Distrattori:**
 - 4,604, nella cella B28: l'albero si completa a scalini, all'indietro dal passo 20 al passo 0.
 - x∗(p∗B1+q∗B2), x∗(p∗B1+q∗B3), x∗(p∗B2+q∗B4), …, x∗(p∗B2n-1+q∗B2n+1), x∗(p∗B2n+q∗B2n+1)
-- ΔT = C6/C4, cioè la scadenza T diviso il numero di passi n: 0,05.
+- $\Delta T$ = C6/C4, cioè la scadenza $T$ diviso il numero di passi $n$: 0,05.
 
 **D:** ⚠️ Come si calcola il pay off della put nel foglio Excel della lezione 10, e dove è positivo?
-**R:** Slide 30, «La formula max(K - S_T, 0) viene applicata»: la colonna V ha l'intestazione «S_T'=max(k-S_T,0)», e nella riga 46 =MAX(k-W46;0) dà 36,93; risalendo 35,05, 32,91, …, 6,28, poi 0,00 dalla riga 26 in su. Il docente: «non metteremo S-K ma metteremo K-S e quindi questa volta l'opzione avrà un valore positivo nella parte bassa del foglio di lavoro e valore zero, cioè valore intrinseco nullo, nella parte alta del foglio di lavoro» (transcript [00:28:29]). ⚠️ Per la call è il contrario: positiva in alto (slide 20).
+**R:** Slide 30, «La formula $\max(K - S_T, 0)$ viene applicata»: la colonna V ha l'intestazione «$S_T'=\max(k-S_T,0)$», e nella riga 46 =MAX(k-W46;0) dà 36,93; risalendo 35,05, 32,91, …, 6,28, poi 0,00 dalla riga 26 in su. Il docente: «non metteremo S-K ma metteremo K-S e quindi questa volta l'opzione avrà un valore positivo nella parte bassa del foglio di lavoro e valore zero, cioè valore intrinseco nullo, nella parte alta del foglio di lavoro» (transcript [00:28:29]). ⚠️ Per la call è il contrario: positiva in alto (slide 20).
 **Opzione:** =MAX(k-W46;0): il valore intrinseco è positivo nella parte bassa del foglio e nullo nella parte alta.
 **Distrattori:**
 - =MAX(k-W46;0): il valore intrinseco è positivo nella parte alta del foglio e nullo nella parte bassa.
 - x∗(p∗C1+q∗C2), x∗(p∗C1+q∗C3), x∗(p∗C2+q∗C4), …, x∗(p∗C2n-1+q∗C2n+1), x∗(p∗C2n+q∗C2n+1)
-- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e q = 1-p = 0,498
+- p = (EXP(rate∗deltat)-d)/(u-d) = 0,502 e $q = 1-p = 0{,}498$
 
 **D:** ⚠️ Quanto vale la put europea del foglio Excel della lezione 10, e in quale cella si legge?
 **R:** Slide 32, «L'albero è completato per ottenere il prezzo della Put europea»: 4,604, nella cella B26, indicata da una freccia; la riga 4 del foglio lo riporta come «Value of the Euro_put». Il docente: si torna indietro «fino ad arrivare al prezzo della put che verrà pari in questo caso con questi parametri a 4,604» (transcript [00:29:54]). I parametri sono quelli della call (slide 23). ⚠️ Nel foglio della put la griglia va dalla riga 6 alla 46, quindi il prezzo sta in B26 e non in B28; 7,042 è la call.
 **Opzione:** 4,604, nella cella B26 del foglio della put europea.
 **Distrattori:**
 - 7,042, nella cella B26 del foglio della put europea.
-- Da 22,14 e 0,00, i pay-off al tempo T nelle righe di S_T = 122.14 e 100.00, scontati con x e ponderati con p e q.
-- x=(1+r)^(-Δt); K=strike; u=f(s, Δt); d=1/u; p=[(1+r)-d]/(u-d); q=1-p
+- Da 22,14 e 0,00, i pay-off al tempo $T$ nelle righe di $S_T = 122.14$ e 100.00, scontati con $x$ e ponderati con $p$ e $q$.
+- $x=(1+r)^{-\Delta t}$; K=strike; $u=f(s, \Delta t)$; $d=\frac{1}{u}$; $p=\frac{[(1+r)-d]}{u-d}$; $q=1-p$
 
 **D:** Come sono numerate la riga 7 e la colonna A nel foglio Excel della call della lezione 10?
-**R:** Il docente: «abbiamo scritto nel foglio di lavoro i numeri nella riga 7 che vanno da 0 a 20», i time step; nella colonna A «dalla cella 28 verso la cella 8 da 0 a 20 e dalla cella 29 alla cella 40 da meno 1 a meno 20» (transcript [00:18:53]–[00:19:16]). Nella slide 19 la colonna A va da 20 nella riga 8 a 0 nella riga 28 e a -20 nella riga 48: vale la slide. ⚠️ La riga 28 è quella di S = 50,00 e del prezzo in B28.
+**R:** Il docente: «abbiamo scritto nel foglio di lavoro i numeri nella riga 7 che vanno da 0 a 20», i time step; nella colonna A «dalla cella 28 verso la cella 8 da 0 a 20 e dalla cella 29 alla cella 40 da meno 1 a meno 20» (transcript [00:18:53]–[00:19:16]). Nella slide 19 la colonna A va da 20 nella riga 8 a 0 nella riga 28 e a -20 nella riga 48: vale la slide. ⚠️ La riga 28 è quella di $S = 50{,}00$ e del prezzo in B28.
 **Opzione:** Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 20 (riga 8) a -20 (riga 48), con lo 0 nella riga 28.
 **Distrattori:**
 - Nella riga 7 i time step da 0 a 20; nella colonna A i valori da 0 (riga 8) a 40 (riga 48), con il 20 nella riga 28.
@@ -3516,53 +3616,53 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - MAX(K -A1,0), MAX(K -A2,0), MAX(K -A3,0), …, MAX(K -A2n,0), MAX(K -A2n+1,0)
 
 **D:** Che cosa incorporano le probabilità del modello binomiale, secondo il docente della lezione 10?
-**R:** «Le probabilità sono definite come quello spazio, quella quantificazione degli eventi up and down che vanno a incorporare il valore finanziario del tempo e il tenore della volatilità» (transcript [00:12:40]). Nelle formule il tempo e il tasso entrano in p attraverso (1+r) (slide 2) o EXP(rate∗deltat) (slide 18), la volatilità attraverso u e d, con u =EXP(sigma∗RADQ(deltat)) (slide 17). È solo nel transcript.
+**R:** «Le probabilità sono definite come quello spazio, quella quantificazione degli eventi up and down che vanno a incorporare il valore finanziario del tempo e il tenore della volatilità» (transcript [00:12:40]). Nelle formule il tempo e il tasso entrano in $p$ attraverso $(1+r)$ (slide 2) o EXP(rate∗deltat) (slide 18), la volatilità attraverso $u$ e $d$, con u =EXP(sigma∗RADQ(deltat)) (slide 17). È solo nel transcript.
 **Opzione:** Il valore finanziario del tempo e il tenore della volatilità.
 **Distrattori:**
 - Il valore finanziario del tempo, ma non il tenore della volatilità.
 - Un anno diviso in una grandezza inferiore al mese: con 12 passi sarebbe un mese, con 20 si discretizzano più o meno i 365 giorni.
 - Solo il pay off a scadenza, MAX(K -A1,0)… invece di MAX(A1-K,0)…: variabili e formule all'indietro restano le stesse.
 
-**D:** ⚠️ Da che cosa dipende u nel modello binomiale della lezione 10: dalla volatilità, dal tasso o da entrambi?
-**R:** Per le slide, dalla volatilità e dal passo temporale: la slide 2 scrive «u=f(s, Δt)» e il foglio Excel u =EXP(sigma∗RADQ(deltat)) (slide 17). Il tasso non c'è: entra nel fattore di sconto, =EXP(deltat∗-rate) (slide 16), e in p, =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente invece dice che sigma, «unitamente al tasso», «quantifica sostanzialmente il valore degli eventi up and down» (transcript [00:12:20]). Vale la slide: le opzioni d'esame citano le slide, e nella domanda 4 del test la chiave è exp(σ . dt^(1/2)), senza tasso.
+**D:** ⚠️ Da che cosa dipende $u$ nel modello binomiale della lezione 10: dalla volatilità, dal tasso o da entrambi?
+**R:** Per le slide, dalla volatilità e dal passo temporale: la slide 2 scrive «$u=f(s, \Delta t)$» e il foglio Excel u =EXP(sigma∗RADQ(deltat)) (slide 17). Il tasso non c'è: entra nel fattore di sconto, =EXP(deltat∗-rate) (slide 16), e in $p$, =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente invece dice che sigma, «unitamente al tasso», «quantifica sostanzialmente il valore degli eventi up and down» (transcript [00:12:20]). Vale la slide: le opzioni d'esame citano le slide, e nella domanda 4 del test la chiave è $\exp(\sigma .\,dt^{1/2})$, senza tasso.
 
 **D:** ⚠️ Fattore di sconto e probabilità: in che cosa differiscono le formule della slide 2 da quelle del foglio Excel della lezione 10?
-**R:** La slide 2 scrive x=(1+r)^(-Δt) e p=[(1+r)-d]/(u-d); il foglio Excel scrive discount =EXP(deltat∗-rate) (slide 16) e p =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente legge la prima versione (transcript [00:00:40]–[00:01:03]) e spiega la seconda così: «lo calcoliamo in tempo continuo» ([00:16:06]). In entrambe il fattore sconta e p ha d al numeratore. I numeri della slide 12, x = 0.9925 e p = 0.5126, tornano con la versione continua: e^(-0,03·0,25) ≈ 0,9925, mentre 1,03^(-0,25) ≈ 0,9926 (il calcolo non è nelle slide).
+**R:** La slide 2 scrive $x=(1+r)^{-\Delta t}$ e $p=\frac{[(1+r)-d]}{u-d}$; il foglio Excel scrive discount =EXP(deltat∗-rate) (slide 16) e p =(EXP(rate∗deltat)-d)/(u-d) (slide 18). Il docente legge la prima versione (transcript [00:00:40]–[00:01:03]) e spiega la seconda così: «lo calcoliamo in tempo continuo» ([00:16:06]). In entrambe il fattore sconta e $p$ ha $d$ al numeratore. I numeri della slide 12, $x = 0.9925$ e $p = 0.5126$, tornano con la versione continua: $e^{-0{,}03\cdot 0{,}25} \approx 0{,}9925$, mentre $1{,}03^{-0{,}25} \approx 0{,}9926$ (il calcolo non è nelle slide).
 
-**D:** ⚠️ Quali sono i valori estremi dell'albero alla scadenza T in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 1)?
-**R:** «**u_nS_0 e d_nS_0**». Sono la prima e l'ultima riga della colonna A della slide 3, u^n S_0 nella riga 1 e d^n S_0 nella riga 2n+1. Il docente: il valore «parte dal valore s con 0» e diventa «u elevato alla n per s con 0» ([00:01:45]), e va «da S con 0 fino a U alla N S con 0 alla scadenza T grande e D alla N S con 0» ([00:02:47]). Il foglio Excel scrive u^(20)∗S = 191,27 e d^(20)∗S = 13,07 (slide 19). ⚠️ Nelle slide la n è un esponente; la piattaforma la scrive in pedice in tutte e quattro le opzioni, quindi non conta. Distrattori del test: «u_nS_0 e d_nB_0» mette B_0, che nella lezione 09 è l'attività priva di rischio (transcript 09, [00:00:43]) e nel deck 10 solo una colonna; «u_nS_0 e d_nS_t» e «u_nS_t e d_nS_t» sbagliano il tempo, perché l'albero parte da S_0.
+**D:** ⚠️ Quali sono i valori estremi dell'albero alla scadenza $T$ in un albero binomiale a $n$ stati, secondo il test della lezione 10 (domanda 1)?
+**R:** «**u_nS_0 e d_nS_0**». Sono la prima e l'ultima riga della colonna A della slide 3, $u^n S_0$ nella riga 1 e $d^n S_0$ nella riga 2n+1. Il docente: il valore «parte dal valore s con 0» e diventa «u elevato alla n per s con 0» ([00:01:45]), e va «da S con 0 fino a U alla N S con 0 alla scadenza T grande e D alla N S con 0» ([00:02:47]). Il foglio Excel scrive $u^{20}\ast S = 191{,}27$ e $d^{20}\ast S = 13{,}07$ (slide 19). ⚠️ Nelle slide la $n$ è un esponente; la piattaforma la scrive in pedice in tutte e quattro le opzioni, quindi non conta. Distrattori del test: «u_nS_0 e d_nB_0» mette $B_0$, che nella lezione 09 è l'attività priva di rischio (transcript 09, [00:00:43]) e nel deck 10 solo una colonna; «u_nS_0 e d_nS_t» e «u_nS_t e d_nS_t» sbagliano il tempo, perché l'albero parte da $S_0$.
 **Opzione:** u_nS_0 e d_nS_0
 **Distrattori:**
 - u_nS_0 e d_nB_0
 - u_nS_0 e d_nS_t
 - u_nS_t e d_nS_t
 
-**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una CALL alla scadenza T, in un albero binomiale a n stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 2)?
-**R:** «**max(A1-K,0) e max(A2n+1-K,0)**». Sono la prima e l'ultima riga della colonna B della slide 4, «Pay off della Call alla scadenza», MAX(A1-K,0) e MAX(A2n+1-K,0), con A1 = u^n S_0 e A2n+1 = d^n S_0. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», il massimo tra A1, A2, A3 «meno il valore fisso del prezzo strike K e 0», e in fondo «il massimo tra a2n più 1 meno k e 0» ([00:03:01]–[00:03:29]). Distrattori del test: «max(A1-K,3) e max(A2n+1-K,1)» ha costanti inventate, come «max(S_T-K,1)» nel test della lezione 05; «min(A1-K,0)…» ha la forma della short put della lezione 05, min(S_T-K,0), ed è sempre ≤ 0. La D torna identica nella domanda 3.
+**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una CALL alla scadenza $T$, in un albero binomiale a $n$ stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 2)?
+**R:** «**max(A1-K,0) e max(A2n+1-K,0)**». Sono la prima e l'ultima riga della colonna B della slide 4, «Pay off della Call alla scadenza», MAX(A1-K,0) e MAX(A2n+1-K,0), con A1 = $u^n S_0$ e A2n+1 = $d^n S_0$. Il docente: «L'opzione alla scadenza vale esattamente il suo valore intrinseco», il massimo tra A1, A2, A3 «meno il valore fisso del prezzo strike K e 0», e in fondo «il massimo tra a2n più 1 meno k e 0» ([00:03:01]–[00:03:29]). Distrattori del test: «max(A1-K,3) e max(A2n+1-K,1)» ha costanti inventate, come «max(S_T-K,1)» nel test della lezione 05; «min(A1-K,0)…» ha la forma della short put della lezione 05, $\min(S_T-K,0)$, ed è sempre $\leq 0$. La D torna identica nella domanda 3.
 **Opzione:** max(A1-K,0) e max(A2n+1-K,0)
 **Distrattori:**
 - max(A1-K,3) e max(A2n+1-K,1)
 - min(A1-K,0) e max(A2n+1-K,0)
 - min(A1-K,0) e min(A2n+1-K,0)
 
-**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una PUT alla scadenza T, in un albero binomiale a n stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 3)?
-**R:** «**max(K-A1,0) e max(K-A2n+1,0)**». Sono la prima e l'ultima riga della slide 8, «Pay Off della PUT a scadenza», MAX(K -A1,0) e MAX(K -A2n+1,0). Il docente non nomina le celle: dice che per la put cambia «la definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» ([00:07:05]); nel foglio Excel è =MAX(k-W46;0) (slide 30). Distrattori del test: «max(K-A1,0) e max(K-A2n+1,2)» ha una costante inventata; «min(K-A1,0)…» ha la forma della short call, min(K-S_T,0); «min(A1-K,0) e min(A2n+1-K,0)» è la D della domanda 2, ripescata identica: il pool è condiviso.
+**D:** ⚠️ Quali sono i valori estremi dell'albero riferiti a una PUT alla scadenza $T$, in un albero binomiale a $n$ stati riportato in un foglio Excel, secondo il test della lezione 10 (domanda 3)?
+**R:** «**max(K-A1,0) e max(K-A2n+1,0)**». Sono la prima e l'ultima riga della slide 8, «Pay Off della PUT a scadenza», MAX(K -A1,0) e MAX(K -A2n+1,0). Il docente non nomina le celle: dice che per la put cambia «la definizione della funzione del valore intrinseco cioè del massimo di k meno il valore del sottostante» ([00:07:05]); nel foglio Excel è =MAX(k-W46;0) (slide 30). Distrattori del test: «max(K-A1,0) e max(K-A2n+1,2)» ha una costante inventata; «min(K-A1,0)…» ha la forma della short call, $\min(K-S_T,0)$; «min(A1-K,0) e min(A2n+1-K,0)» è la D della domanda 2, ripescata identica: il pool è condiviso.
 **Opzione:** max(K-A1,0) e max(K-A2n+1,0)
 **Distrattori:**
 - min(K-A1,0) e max(K-A2n+1,0)
 - max(K-A1,0) e max(K-A2n+1,2)
 - min(A1-K,0) e min(A2n+1-K,0)
 
-**D:** ⚠️ Quanto vale u in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 4)?
-**R:** «**exp(σ . dt^(1/2))**». È la formula del foglio Excel della slide 17, u =EXP(sigma∗RADQ(deltat)), cioè e^(σ√Δt), 1,069; le slide 27 e 32 la ripetono, la 32 con SQRT. Il docente: «L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» ([00:17:24]–[00:17:28]). Distrattori del test: «exp(-σ . dt^(1/2))» è il valore di d, perché d=1/u e 1/e^(σ√Δt) = e^(-σ√Δt), una deduzione: le slide scrivono solo d=1/u. È vera per d e falsa per u. «exp(σ)» non dipende dal passo temporale; «exp(σ . dt)» usa dt al posto di √dt, la stessa confusione della domanda 5 del test della lezione 06.
+**D:** ⚠️ Quanto vale $u$ in un albero binomiale a $n$ stati, secondo il test della lezione 10 (domanda 4)?
+**R:** «**exp(σ . dt^(1/2))**». È la formula del foglio Excel della slide 17, u =EXP(sigma∗RADQ(deltat)), cioè $e^{\sigma\sqrt{\Delta t}}$, 1,069; le slide 27 e 32 la ripetono, la 32 con SQRT. Il docente: «L'evento up è l'esponenziale di... sigma per la radice quadrata, questa è la funzione di Excel, delta t» ([00:17:24]–[00:17:28]). Distrattori del test: «exp(-σ . dt^(1/2))» è il valore di $d$, perché $d=\frac{1}{u}$ e $\frac{1}{e^{\sigma\sqrt{\Delta t}}} = e^{-\sigma\sqrt{\Delta t}}$, una deduzione: le slide scrivono solo $d=\frac{1}{u}$. È vera per $d$ e falsa per $u$. «exp(σ)» non dipende dal passo temporale; «exp(σ . dt)» usa $dt$ al posto di $\sqrt{dt}$, la stessa confusione della domanda 5 del test della lezione 06.
 **Opzione:** exp(σ . dt^(1/2))
 **Distrattori:**
 - exp(σ)
 - exp(σ . dt)
 - exp(-σ . dt^(1/2))
 
-**D:** ⚠️ Quanto vale d in un albero binomiale a n stati, secondo il test della lezione 10 (domanda 5)?
-**R:** «**1/u**». Le variabili della slide 2 scrivono «d=1/u», ripetuto nelle slide 7 e 11; nel foglio Excel d =1/u, 0,935 (slide 17). Il docente: «il down è uguale ad 1 su u» ([00:00:40]) e «L'evento down è facilissimo, è 1 diviso up» ([00:17:19]). La forma equivalente exp(-σ . dt^(1/2)) non è fra le opzioni: è il distrattore D della domanda 4. Distrattori del test: «exp(σ . dt^(1/2))» è il valore di u, la chiave della domanda 4; «exp(σ)» e «exp(σ . dt)» sono gli stessi distrattori della 4, ed entrambi danno un numero maggiore di 1, mentre d è minore di 1.
+**D:** ⚠️ Quanto vale $d$ in un albero binomiale a $n$ stati, secondo il test della lezione 10 (domanda 5)?
+**R:** «**1/u**». Le variabili della slide 2 scrivono «$d=\frac{1}{u}$», ripetuto nelle slide 7 e 11; nel foglio Excel d =1/u, 0,935 (slide 17). Il docente: «il down è uguale ad 1 su u» ([00:00:40]) e «L'evento down è facilissimo, è 1 diviso up» ([00:17:19]). La forma equivalente $\exp(-\sigma .\,dt^{1/2})$ non è fra le opzioni: è il distrattore D della domanda 4. Distrattori del test: «exp(σ . dt^(1/2))» è il valore di $u$, la chiave della domanda 4; «exp(σ)» e «exp(σ . dt)» sono gli stessi distrattori della 4, ed entrambi danno un numero maggiore di 1, mentre $d$ è minore di 1.
 **Opzione:** 1/u
 **Distrattori:**
 - exp(σ)
@@ -4185,250 +4285,250 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 13 — Pricing 6 - Modello Black-Scholes-Merton Portafoglio di replicazione e Martingala
 
 **D:** ⚠️ Che cosa afferma il teorema della misura di martingala nel modello di Black-Scholes-Merton, secondo la lezione 13?
-**R:** Slide 3, «Teorema»: «Esiste una misura di Martingala p∗ equivalente a p per S∗, i.e. S∗ è una Martingala sotto la misura p∗. In altri termini una misura p∗ esiste tale che: E_{p∗}(S∗_u | S∗_t) = S∗_t», con u ≥ t («dove u ≥ t», nella dimostrazione della stessa slide). Il docente: il valore atteso di S al tempo u, «dove U è maggiore o uguale di T, condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente»; è «un importante teorema che servirà per le derivazioni del prezzo» della call europea (transcript [00:00:22]–[00:01:53]). ⚠️ La martingala è il processo **scontato** S∗, non S: sotto p∗ il processo S ha il drift r (slide 13). ⚠️ Si condiziona al tempo precedente t, e il risultato è S∗_t.
-**Opzione:** Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
+**R:** Slide 3, «Teorema»: «Esiste una misura di Martingala $p^{\ast}$ equivalente a $p$ per $S^{\ast}$, i.e. $S^{\ast}$ è una Martingala sotto la misura $p^{\ast}$. In altri termini una misura $p^{\ast}$ esiste tale che: $E_{p^{\ast}}(S^{\ast}_u \mid S^{\ast}_t) = S^{\ast}_t$», con $u \geq t$ («dove $u \geq t$», nella dimostrazione della stessa slide). Il docente: il valore atteso di $S$ al tempo $u$, «dove U è maggiore o uguale di T, condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente»; è «un importante teorema che servirà per le derivazioni del prezzo» della call europea (transcript [00:00:22]–[00:01:53]). ⚠️ La martingala è il processo **scontato** $S^{\ast}$, non $S$: sotto $p^{\ast}$ il processo $S$ ha il drift $r$ (slide 13). ⚠️ Si condiziona al tempo precedente $t$, e il risultato è $S^{\ast}_t$.
+**Opzione:** Esiste una misura di martingala $p^{\ast}$ equivalente a $p$ per $S^{\ast}$, cioè $S^{\ast}$ è una martingala sotto $p^{\ast}$: $E_{p^{\ast}}(S^{\ast}_u \mid S^{\ast}_t) = S^{\ast}_t$, con $u \geq t$.
 **Distrattori:**
-- Esiste una misura di martingala p∗ equivalente a p per S, cioè il processo non scontato S è una martingala sotto p∗: E_{p∗}(S_u | S_t) = S_t, con u ≥ t.
-- π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
-- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+- Esiste una misura di martingala $p^{\ast}$ equivalente a $p$ per $S$, cioè il processo non scontato $S$ è una martingala sotto $p^{\ast}$: $E_{p^{\ast}}(S_u \mid S_t) = S_t$, con $u \geq t$.
+- $\pi_t(X) = B_t E_{P^{\ast}}(B_T^{-1}X \mid \Im_t)$, e al tempo 0 $\pi_0(X) = E_{P^{\ast}}(X^{\ast} \mid \Im_0)$: il prezzo del derivato è una $p^{\ast}$-martingala.
+- Con $X = \max[S_T - K, 0]$, $\pi_t(X) = C_t(S_t, t)$ e $B_t = e^{\int_0^t r_s ds}$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}(\max(S_T - K, 0) \mid \Im_t)$.
 
-**D:** ⚠️ Quale proprietà di S∗ permette, nella dimostrazione della lezione 13, di condizionare a S_t invece che alla filtrazione ℑ_t?
-**R:** Slide 3: «E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t) che è S∗ e soddisfa la proprietà di Markov; (W_u - W_t) ~ N(0, u - t) è il moto Browniano standard». Il docente: «la filtrazione in T non è altro che la filtrazione di S di T e poiché S star soddisfa la proprietà di Markov, cioè che il futuro è determinato dalla», «che il passato è irrilevante», e il differenziale del moto browniano fra u e t «è distribuito normale 0 ut» (transcript [00:02:30]–[00:03:26]). ⚠️ Qui la misura è p, non p∗, e si condiziona a S_t senza asterisco: è la scrittura che torna nel distrattore «Ep∗(Su∗|St)=Su∗» della domanda 1 del test.
-**Opzione:** La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+**D:** ⚠️ Quale proprietà di $S^{\ast}$ permette, nella dimostrazione della lezione 13, di condizionare a $S_t$ invece che alla filtrazione $\Im_t$?
+**R:** Slide 3: «$E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_t)$ che è $S^{\ast}$ e soddisfa la proprietà di Markov; $(W_u - W_t) \sim N(0, u - t)$ è il moto Browniano standard». Il docente: «la filtrazione in T non è altro che la filtrazione di S di T e poiché S star soddisfa la proprietà di Markov, cioè che il futuro è determinato dalla», «che il passato è irrilevante», e il differenziale del moto browniano fra $u$ e $t$ «è distribuito normale 0 ut» (transcript [00:02:30]–[00:03:26]). ⚠️ Qui la misura è $p$, non $p^{\ast}$, e si condiziona a $S_t$ senza asterisco: è la scrittura che torna nel distrattore «Ep∗(Su∗|St)=Su∗» della domanda 1 del test.
+**Opzione:** La proprietà di Markov: $E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_t)$, con $(W_u - W_t) \sim N(0, u - t)$ moto browniano standard.
 **Distrattori:**
-- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_0), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
-- Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
-- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
+- La proprietà di Markov: $E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_0)$, con $(W_u - W_t) \sim N(0, u - t)$ moto browniano standard.
+- Con $\mathbf{1}_{(S_T\geq K)} = 1$ se $S_T \geq K$ e 0 se $S_T < K$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}((S_T - K) \cdot \mathbf{1}_{(S_T\geq K)} \mid \Im_t)$.
+- $dS^{\ast}_t = d\left(\frac{S}{B}\right) = S_t d\left(\frac{1}{B_t}\right) + \frac{1}{B_t}dS_t$; con la (61), $\sigma S^{\ast}_t\,dW^{\ast}_t = S_t\left(-\frac{r}{B_t}dt\right) + \frac{1}{B_t}dS_t$.
 
-**D:** ⚠️ Quale quantità u_t definisce la lezione 13 prima del Doléans esponenziale del modello BSM?
-**R:** Slide 4: «La seguente quantità è definita: ((r - μ)/σ)W_t ≜ u_t». Il docente: «Questa quantità U di T non è altro che R men mu su sigma per il nostro moto browniano standard valorizzato al tempo T» (transcript [00:02:57]–[00:03:40]). ⚠️ Al numeratore c'è r - μ, il tasso meno il drift: il segno opposto al drift μ - r di S∗ (slide 3).
-**Opzione:** u_t ≜ ((r - μ)/σ)W_t
+**D:** ⚠️ Quale quantità $u_t$ definisce la lezione 13 prima del Doléans esponenziale del modello BSM?
+**R:** Slide 4: «La seguente quantità è definita: $\frac{r - \mu}{\sigma}W_t \triangleq u_t$». Il docente: «Questa quantità U di T non è altro che R men mu su sigma per il nostro moto browniano standard valorizzato al tempo T» (transcript [00:02:57]–[00:03:40]). ⚠️ Al numeratore c'è $r - \mu$, il tasso meno il drift: il segno opposto al drift $\mu - r$ di $S^{\ast}$ (slide 3).
+**Opzione:** $u_t \triangleq \frac{r - \mu}{\sigma}W_t$
 **Distrattori:**
-- u_t ≜ ((μ - r)/σ)W_t
-- 1/u
-- ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+- $u_t \triangleq \frac{\mu - r}{\sigma}W_t$
+- $\frac{1}{u}$
+- $\ln S_t \sim N(\ln S_s + (r - \sigma^2/2)(t - s), \sigma\sqrt{t - s})$
 
-**D:** ⚠️ Come si scrive il Doléans esponenziale ε_t(u) nel modello BSM, secondo la lezione 13?
-**R:** Slide 4: «il Doléans esponenziale è dato da: ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)». Il docente: «Questo è il doleance esponenziale», «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t», una quantità che servirà ad applicare il teorema di Girsanov (transcript [00:03:40]–[00:04:24]). ⚠️ Il termine correttivo ha il segno meno, e il quadrato sta sul coefficiente (r - μ)/σ, moltiplicato per t. È la chiave della domanda 2 del test, dove la piattaforma scrive «et» per ε_t, «m» per μ e «s» per σ. Il deck scrive ε minuscola; la lezione 07 scrive ℰ_t(U).
-**Opzione:** ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
+**D:** ⚠️ Come si scrive il Doléans esponenziale $\varepsilon_t(u)$ nel modello BSM, secondo la lezione 13?
+**R:** Slide 4: «il Doléans esponenziale è dato da: $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$». Il docente: «Questo è il doleance esponenziale», «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t», una quantità che servirà ad applicare il teorema di Girsanov (transcript [00:03:40]–[00:04:24]). ⚠️ Il termine correttivo ha il segno meno, e il quadrato sta sul coefficiente $\frac{r - \mu}{\sigma}$, moltiplicato per $t$. È la chiave della domanda 2 del test, dove la piattaforma scrive «et» per $\varepsilon_t$, «m» per $\mu$ e «s» per $\sigma$. Il deck scrive $\varepsilon$ minuscola; la lezione 07 scrive $\mathcal{E}_t(U)$.
+**Opzione:** $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$
 **Distrattori:**
-- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t + (1/2)((r - μ)/σ)²t)
-- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
-- Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
+- $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t + \frac{1}{2}((r - \mu)/\sigma)^2 t}$
+- $\mathrm{RHS} = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t)\,dB_t$; con $dB_t = rB_t\,dt$, $\mathrm{RHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$.
+- Da $V_t = B_t V^{\ast}_t$, quindi $dV_t(\varphi) = d(B_t V^{\ast}_t)$; la regola di Leibniz dà $\mathrm{LHS} = B_t\,dV^{\ast}_t + V^{\ast}_t\,dB_t$.
 
 **D:** ⚠️ Come si calcola il valore atteso del Doléans esponenziale nel modello BSM, e quanto vale, secondo la lezione 13?
-**R:** Slide 5: E(ε_t(u)) = E(e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)) = e^(-(1/2)((r - μ)/σ)²t) E(e^(((r - μ)/σ)W_t)); «richiamando l'espressione della funzione generatrice dei momenti φ(t) di una variabile aleatoria normale X ~ N(μ, σ²), i.e.: φ(t) = E(e^(tX)) = e^(σ²t²/2 + μt) e dato che: W_u - W_t ~ N(0, u - t) si ottiene: E(ε_t(u)) = e^(-(1/2)((r - μ)/σ)²t) e^((1/2)((r - μ)/σ)²t) = 1». Il docente: «portando la costante fuori dal calcolo del valore atteso», e con la funzione generatrice dei momenti il valore atteso «non è altro che 1» (transcript [00:04:24]–[00:06:17]). ⚠️ Esce dal valore atteso la costante e^(-(1/2)((r - μ)/σ)²t), non il fattore con W_t, che è aleatorio. È la chiave della domanda 3 del test.
-**Opzione:** Si porta fuori la costante e^(-(1/2)((r - μ)/σ)²t) e si calcola E(e^(((r - μ)/σ)W_t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
+**R:** Slide 5: $E(\varepsilon_t(u)) = E\left(e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}\right) = e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t} E(e^{((r - \mu)/\sigma)W_t})$; «richiamando l'espressione della funzione generatrice dei momenti $\varphi(t)$ di una variabile aleatoria normale $X \sim N(\mu, \sigma^2)$, i.e.: $\varphi(t) = E(e^{tX}) = e^{\frac{\sigma^2 t^2}{2} + \mu t}$ e dato che: $W_u - W_t \sim N(0, u - t)$ si ottiene: $E(\varepsilon_t(u)) = e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t} e^{\frac{1}{2}((r - \mu)/\sigma)^2 t} = 1$». Il docente: «portando la costante fuori dal calcolo del valore atteso», e con la funzione generatrice dei momenti il valore atteso «non è altro che 1» (transcript [00:04:24]–[00:06:17]). ⚠️ Esce dal valore atteso la costante $e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t}$, non il fattore con $W_t$, che è aleatorio. È la chiave della domanda 3 del test.
+**Opzione:** Si porta fuori la costante $e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t}$ e si calcola $E(e^{((r - \mu)/\sigma)W_t})$ con la funzione generatrice dei momenti della normale: $E(\varepsilon_t(u)) = 1$.
 **Distrattori:**
-- Si porta fuori il fattore e^(((r - μ)/σ)W_t) e si calcola E(e^(-(1/2)((r - μ)/σ)²t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
-- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
-- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+- Si porta fuori il fattore $e^{((r - \mu)/\sigma)W_t}$ e si calcola $E\left(e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t}\right)$ con la funzione generatrice dei momenti della normale: $E(\varepsilon_t(u)) = 1$.
+- Con l'indipendenza di $(W^{\ast}_u - W^{\ast}_t)$: $E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)}) = e^{(\sigma^2/2)(u - t)}$, che la funzione generatrice dei momenti della normale verifica.
+- Con la regola di Leibniz su $d\left(\frac{S_t}{B_t}\right)$ il lato sinistro diventa $\mathrm{LHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$ (73), uguale alla (72): la strategia $\varphi_t$ è autofinanziante.
 
 **D:** ⚠️ Come definisce la lezione 13 la derivata di Radon-Nikodym nel modello BSM?
-**R:** Slide 6: «la derivata di radon-nikodým è di seguito definita: dP∗/dP = ε_t(u)»; la slide 7 la scrive per esteso, dP∗/dP = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t). Il docente: «Definiamo quindi la derivata di Radon-Nikodym come il rapporto» fra la misura P∗ e «dp, la misura originaria, uguale proprio al doleance esponenziale» (transcript [00:06:17]–[00:06:37]; il transcript scrive «Radonikodin»). ⚠️ È la derivata di P∗ rispetto a P, non il contrario, e il Doléans è valutato in t, ε_t(u), non in T. È la chiave della domanda 4 del test.
-**Opzione:** dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
+**R:** Slide 6: «la derivata di radon-nikodým è di seguito definita: $\frac{dP^{\ast}}{dP} = \varepsilon_t(u)$»; la slide 7 la scrive per esteso, $\frac{dP^{\ast}}{dP} = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$. Il docente: «Definiamo quindi la derivata di Radon-Nikodym come il rapporto» fra la misura $P^{\ast}$ e «dp, la misura originaria, uguale proprio al doleance esponenziale» (transcript [00:06:17]–[00:06:37]; il transcript scrive «Radonikodin»). ⚠️ È la derivata di $P^{\ast}$ rispetto a $P$, non il contrario, e il Doléans è valutato in $t$, $\varepsilon_t(u)$, non in $T$. È la chiave della domanda 4 del test.
+**Opzione:** $\frac{dP^{\ast}}{dP} = \varepsilon_t(u)$: la derivata della misura $P^{\ast}$ rispetto alla misura originaria $P$ è il Doléans esponenziale.
 **Distrattori:**
-- dP/dP∗ = ε_t(u): la derivata della misura originaria P rispetto alla misura P∗ è il Doléans esponenziale.
-- X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
-- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
+- $\frac{dP}{dP^{\ast}} = \varepsilon_t(u)$: la derivata della misura originaria $P$ rispetto alla misura $P^{\ast}$ è il Doléans esponenziale.
+- $X^{\ast}_T = \frac{(S_T - K)^+}{B_T}$ si scrive $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$ (69): l'integrale stocastico converge nello spazio $L_2$, quindi $X$ è una martingala sotto $p^{\ast}$.
+- Che $E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) = 1$, cioè $e^{-(\sigma^2/2)(u - t)} E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) = 1$.
 
 **D:** ⚠️ Quali due condizioni richiama il teorema di Girsanov nel modello BSM, secondo la lezione 13?
-**R:** Slide 7: «Il Teorema di Girsanov afferma che 1. W_t è un moto Browniano standard 2. E(ε_t(u)) = 1 allora il cambio di probabilità di misura definito da: dP∗/dP = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t) è tale che» W∗_t è un moto browniano standard sotto p∗. Il docente: «se v è un moto browniano standard e il valore atteso del doleans esponenziale è uguale a 1, allora il cambio di probabilità di misura» (transcript [00:06:37]–[00:07:09]). ⚠️ La seconda condizione è il risultato della slide 5: per questo il deck calcola prima il valore atteso.
-**Opzione:** 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
+**R:** Slide 7: «Il Teorema di Girsanov afferma che 1. $W_t$ è un moto Browniano standard 2. $E(\varepsilon_t(u)) = 1$ allora il cambio di probabilità di misura definito da: $\frac{dP^{\ast}}{dP} = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$ è tale che» $W^{\ast}_t$ è un moto browniano standard sotto $p^{\ast}$. Il docente: «se v è un moto browniano standard e il valore atteso del doleans esponenziale è uguale a 1, allora il cambio di probabilità di misura» (transcript [00:06:37]–[00:07:09]). ⚠️ La seconda condizione è il risultato della slide 5: per questo il deck calcola prima il valore atteso.
+**Opzione:** 1. $W_t$ è un moto browniano standard; 2. $E(\varepsilon_t(u)) = 1$.
 **Distrattori:**
-- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 0.
-- dS_t = rS_t dt + σS_t dW∗_t
-- ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+- 1. $W_t$ è un moto browniano standard; 2. $E(\varepsilon_t(u)) = 0$.
+- $dS_t = rS_t\,dt + \sigma S_t\,dW^{\ast}_t$
+- $\ln S_t \sim N(\ln S_s + (r - \sigma^2/2)(t - s), \sigma\sqrt{t - s})$
 
-**D:** ⚠️ Quale processo è un moto browniano standard sotto p∗ per il teorema di Girsanov nel modello BSM, e come si scrive in termini differenziali, secondo la lezione 13?
-**R:** Slide 7: il cambio di misura «è tale che: W∗_t = W_t - ((r - μ)/σ)t è un moto Browniano standard sotto la misura p∗. In termini differenziali: dW∗_t = dW_t - ((r - μ)/σ)dt». Il docente: «un nuovo moto browniano standard vt star» che «è uguale al moto browniano originario vt meno r meno mu su sigma t»; in termini differenziali «dv C star è uguale a dv meno r meno su sigma dt» (transcript [00:07:09]–[00:07:41]). ⚠️ Il segno è meno. Sostituito nella (58), dW_t = dW∗_t + ((r - μ)/σ)dt toglie il drift di S∗ (slide 8).
-**Opzione:** W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+**D:** ⚠️ Quale processo è un moto browniano standard sotto $p^{\ast}$ per il teorema di Girsanov nel modello BSM, e come si scrive in termini differenziali, secondo la lezione 13?
+**R:** Slide 7: il cambio di misura «è tale che: $W^{\ast}_t = W_t - \frac{r - \mu}{\sigma}t$ è un moto Browniano standard sotto la misura $p^{\ast}$. In termini differenziali: $dW^{\ast}_t = dW_t - \frac{r - \mu}{\sigma}dt$». Il docente: «un nuovo moto browniano standard vt star» che «è uguale al moto browniano originario vt meno r meno mu su sigma t»; in termini differenziali «dv C star è uguale a dv meno r meno su sigma dt» (transcript [00:07:09]–[00:07:41]). ⚠️ Il segno è meno. Sostituito nella (58), $dW_t = dW^{\ast}_t + \frac{r - \mu}{\sigma}dt$ toglie il drift di $S^{\ast}$ (slide 8).
+**Opzione:** $W^{\ast}_t = W_t - \frac{r - \mu}{\sigma}t$; in termini differenziali $dW^{\ast}_t = dW_t - \frac{r - \mu}{\sigma}dt$.
 **Distrattori:**
-- W∗_t = W_t + ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t + ((r - μ)/σ)dt.
-- X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
-- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
+- $W^{\ast}_t = W_t + \frac{r - \mu}{\sigma}t$; in termini differenziali $dW^{\ast}_t = dW_t + \frac{r - \mu}{\sigma}dt$.
+- $X^{\ast}_T = \frac{(S_T - K)^+}{B_T}$ si scrive $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$ (69): l'integrale stocastico converge nello spazio $L_2$, quindi $X$ è una martingala sotto $p^{\ast}$.
+- $\mathrm{RHS} = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t)\,dB_t$; con $dB_t = rB_t\,dt$, $\mathrm{RHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$.
 
-**D:** ⚠️ Quale SDE governa il processo scontato S∗ sotto la misura p∗ nel modello BSM (formula (61) della lezione 13)?
-**R:** Slide 8: «Sostituendo dW_t all'interno della (58), si ottiene: dS∗_t = (μ - r)S∗_t dt + σS∗_t (dW∗_t + ((r - μ)/σ)dt) =», espandendo e semplificando «= μS∗_t dt - rS∗_t dt + σS∗_t dW_t + S∗_t rdt - S∗_t μdt = σS∗_t dW∗_t», e quindi «dS∗_t = σS∗_t dW∗_t (61)». Il docente: «ci siamo di fatto disfatti del drift dell'equazione differenziale stocastica precedente ottenendo dS star uguale sigma S star dW star» (transcript [00:07:41]–[00:08:38]). ⚠️ Sotto p∗ S∗ non ha drift; la SDE con il drift r è quella di S, la (63) (slide 13). ⚠️ Nelle righe intermedie la slide scrive σS∗_t dW_t dove serve dW∗_t: l'ultima riga e la (61) hanno dW∗_t.
-**Opzione:** dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
+**D:** ⚠️ Quale SDE governa il processo scontato $S^{\ast}$ sotto la misura $p^{\ast}$ nel modello BSM (formula (61) della lezione 13)?
+**R:** Slide 8: «Sostituendo $dW_t$ all'interno della (58), si ottiene: $dS^{\ast}_t = (\mu - r)S^{\ast}_t\,dt + \sigma S^{\ast}_t \left(dW^{\ast}_t + \frac{r - \mu}{\sigma}dt\right) =$», espandendo e semplificando «$= \mu S^{\ast}_t\,dt - rS^{\ast}_t\,dt + \sigma S^{\ast}_t\,dW_t + S^{\ast}_t r\,dt - S^{\ast}_t \mu\,dt = \sigma S^{\ast}_t\,dW^{\ast}_t$», e quindi «$dS^{\ast}_t = \sigma S^{\ast}_t\,dW^{\ast}_t$ (61)». Il docente: «ci siamo di fatto disfatti del drift dell'equazione differenziale stocastica precedente ottenendo dS star uguale sigma S star dW star» (transcript [00:07:41]–[00:08:38]). ⚠️ Sotto $p^{\ast}$ $S^{\ast}$ non ha drift; la SDE con il drift $r$ è quella di $S$, la (63) (slide 13). ⚠️ Nelle righe intermedie la slide scrive $\sigma S^{\ast}_t\,dW_t$ dove serve $dW^{\ast}_t$: l'ultima riga e la (61) hanno $dW^{\ast}_t$.
+**Opzione:** $dS^{\ast}_t = \sigma S^{\ast}_t\,dW^{\ast}_t$: sostituendo $dW_t = dW^{\ast}_t + \frac{r - \mu}{\sigma}dt$, il drift $(\mu - r)S^{\ast}_t\,dt$ si elide.
 **Distrattori:**
-- dS∗_t = rS∗_t dt + σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt diventa rS∗_t dt.
-- dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
-- π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+- $dS^{\ast}_t = rS^{\ast}_t\,dt + \sigma S^{\ast}_t\,dW^{\ast}_t$: sostituendo $dW_t = dW^{\ast}_t + \frac{r - \mu}{\sigma}dt$, il drift $(\mu - r)S^{\ast}_t\,dt$ diventa $rS^{\ast}_t\,dt$.
+- $\frac{dP^{\ast}}{dP} = \varepsilon_t(u)$: la derivata della misura $P^{\ast}$ rispetto alla misura originaria $P$ è il Doléans esponenziale.
+- $\pi_t(X) = B_t E_{P^{\ast}}(B_T^{-1}X \mid \Im_t)$, e al tempo 0 $\pi_0(X) = E_{P^{\ast}}(X^{\ast} \mid \Im_0)$: il prezzo del derivato è una $p^{\ast}$-martingala.
 
-**D:** Che cosa significa, intuitivamente, la scomparsa del drift nella SDE di S∗ sotto p∗, secondo il docente della lezione 13?
-**R:** «Intuitivamente, essendo S star quindi il processo scontato di S, è come se il drift che rappresentava l'evoluzione in qualche modo della componente deterministica fosse assorbito all'interno del processo scontato» (transcript [00:08:38]–[00:09:00]). È solo nel transcript: la slide 8 si limita al calcolo che porta alla (61), dS∗_t = σS∗_t dW∗_t.
+**D:** Che cosa significa, intuitivamente, la scomparsa del drift nella SDE di $S^{\ast}$ sotto $p^{\ast}$, secondo il docente della lezione 13?
+**R:** «Intuitivamente, essendo S star quindi il processo scontato di S, è come se il drift che rappresentava l'evoluzione in qualche modo della componente deterministica fosse assorbito all'interno del processo scontato» (transcript [00:08:38]–[00:09:00]). È solo nel transcript: la slide 8 si limita al calcolo che porta alla (61), $dS^{\ast}_t = \sigma S^{\ast}_t\,dW^{\ast}_t$.
 
-**D:** ⚠️ Qual è la soluzione della SDE di S∗ sotto p∗ nel modello BSM (formula (62) della lezione 13)?
-**R:** Slide 9: «La soluzione dell'equazione differenziale stocastica, per analogia con la soluzione (50), è ∀u ≥ t: S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t) (62)». Il docente: «per analogia è sempre un random walk esponenziale dove manca la componente drift che avevamo derivato prima» (transcript [00:09:00]–[00:09:27]). ⚠️ Nell'esponente resta solo -(σ²/2)dt: rispetto alla soluzione dell'ipotesi della slide 3, S∗_t · e^((μ-r-σ²/2)dt+σdW_t), sparisce μ - r e dW_t diventa dW∗_t.
-**Opzione:** S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), ∀u ≥ t
+**D:** ⚠️ Qual è la soluzione della SDE di $S^{\ast}$ sotto $p^{\ast}$ nel modello BSM (formula (62) della lezione 13)?
+**R:** Slide 9: «La soluzione dell'equazione differenziale stocastica, per analogia con la soluzione (50), è $\forall u \geq t$: $S^{\ast}_u = S^{\ast}_t \cdot e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t}$ (62)». Il docente: «per analogia è sempre un random walk esponenziale dove manca la componente drift che avevamo derivato prima» (transcript [00:09:00]–[00:09:27]). ⚠️ Nell'esponente resta solo $-\frac{\sigma^2}{2}dt$: rispetto alla soluzione dell'ipotesi della slide 3, $S^{\ast}_t \cdot e^{(\mu-r-\sigma^2/2)dt+\sigma dW_t}$, sparisce $\mu - r$ e $dW_t$ diventa $dW^{\ast}_t$.
+**Opzione:** $S^{\ast}_u = S^{\ast}_t \cdot e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t},\ \forall u \geq t$
 **Distrattori:**
-- S∗_u = S∗_t · e^((μ - r - σ²/2)dt + σdW∗_t), ∀u ≥ t
-- u_t ≜ ((r - μ)/σ)W_t
-- φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+- $S^{\ast}_u = S^{\ast}_t \cdot e^{(\mu - r - \sigma^2/2)dt + \sigma dW^{\ast}_t},\ \forall u \geq t$
+- $u_t \triangleq \frac{r - \mu}{\sigma}W_t$
+- $\varphi_t = (\varphi^1_t, \varphi^2_t) = (h_t, V^{\ast}_t - h_t S^{\ast}_t)$
 
-**D:** ⚠️ Che cosa resta da verificare, nella dimostrazione della lezione 13 che S∗ è una martingala sotto p∗, dopo aver portato S∗_t fuori dal valore atteso e averlo semplificato?
-**R:** Slide 10: sostituita la (62), «Dato che S∗_t è adattato a sè stesso: S∗_t E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) ≟ S∗_t». Slide 11: «semplificando: E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) ≟ 1 in termini differenziali: E_{p∗}(e^(-(σ²/2)(u - t) + σ(W∗_u - W∗_t)) | S∗_t) ≟ 1», e con la costante fuori, e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) ≟ 1. Il docente: «dato che S di T star è adattato a se stesso, possiamo portarlo fuori dal valore atteso. Dopodiché siamo nelle condizioni di semplificare S di T star»; poi «Portiamo fuori l'elemento invariante rispetto al valore atteso» (transcript [00:09:48]–[00:10:24]). ⚠️ Semplificato S∗_t, il secondo membro è 1, non S∗_t.
-**Opzione:** Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
+**D:** ⚠️ Che cosa resta da verificare, nella dimostrazione della lezione 13 che $S^{\ast}$ è una martingala sotto $p^{\ast}$, dopo aver portato $S^{\ast}_t$ fuori dal valore atteso e averlo semplificato?
+**R:** Slide 10: sostituita la (62), «Dato che $S^{\ast}_t$ è adattato a sè stesso: $S^{\ast}_t E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) \stackrel{?}{=} S^{\ast}_t$». Slide 11: «semplificando: $E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) \stackrel{?}{=} 1$ in termini differenziali: $E_{p^{\ast}}(e^{-(\sigma^2/2)(u - t) + \sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) \stackrel{?}{=} 1$», e con la costante fuori, $e^{-(\sigma^2/2)(u - t)} E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) \stackrel{?}{=} 1$. Il docente: «dato che S di T star è adattato a se stesso, possiamo portarlo fuori dal valore atteso. Dopodiché siamo nelle condizioni di semplificare S di T star»; poi «Portiamo fuori l'elemento invariante rispetto al valore atteso» (transcript [00:09:48]–[00:10:24]). ⚠️ Semplificato $S^{\ast}_t$, il secondo membro è 1, non $S^{\ast}_t$.
+**Opzione:** Che $E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) = 1$, cioè $e^{-(\sigma^2/2)(u - t)} E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) = 1$.
 **Distrattori:**
-- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = S∗_t, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = S∗_t.
-- Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
-- W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+- Che $E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) = S^{\ast}_t$, cioè $e^{-(\sigma^2/2)(u - t)} E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) = S^{\ast}_t$.
+- Se $\varphi^1_u = h_u$: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+- $W^{\ast}_t = W_t - \frac{r - \mu}{\sigma}t$; in termini differenziali $dW^{\ast}_t = dW_t - \frac{r - \mu}{\sigma}dt$.
 
-**D:** ⚠️ Con quale proprietà e con quale uguaglianza si chiude la dimostrazione della lezione 13 che S∗ è una martingala sotto p∗?
-**R:** Slide 12: «Per la proprietà di indipendenza di (W∗_u - W∗_t) si ottiene: E_{p∗}(e^(σ(W∗_u - W∗_t))) ≟ e^((σ²/2)(u - t))»; con la funzione generatrice dei momenti φ(t) = E(e^(tX)) = e^(σ²t²/2 + μt) e con W_u - W_t ~ N(0, u - t) «si ottiene: e^((σ²/2)(u - t)) = e^((σ²/2)(u - t)). Q.E.D.». Il docente: «Utilizziamo le proprietà di indipendenza del differenziale di due moti standard» e «Ancora una volta ci viene in soccorso la funzione generatrice dei momenti» (transcript [00:10:24]–[00:11:10]). ⚠️ Per l'indipendenza il condizionamento a S∗_t sparisce; l'esponente ha il segno più e compensa la costante e^(-(σ²/2)(u - t)) della slide 11.
-**Opzione:** Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
+**D:** ⚠️ Con quale proprietà e con quale uguaglianza si chiude la dimostrazione della lezione 13 che $S^{\ast}$ è una martingala sotto $p^{\ast}$?
+**R:** Slide 12: «Per la proprietà di indipendenza di $(W^{\ast}_u - W^{\ast}_t)$ si ottiene: $E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)}) \stackrel{?}{=} e^{(\sigma^2/2)(u - t)}$»; con la funzione generatrice dei momenti $\varphi(t) = E(e^{tX}) = e^{\frac{\sigma^2 t^2}{2} + \mu t}$ e con $W_u - W_t \sim N(0, u - t)$ «si ottiene: $e^{(\sigma^2/2)(u - t)} = e^{(\sigma^2/2)(u - t)}$. Q.E.D.». Il docente: «Utilizziamo le proprietà di indipendenza del differenziale di due moti standard» e «Ancora una volta ci viene in soccorso la funzione generatrice dei momenti» (transcript [00:10:24]–[00:11:10]). ⚠️ Per l'indipendenza il condizionamento a $S^{\ast}_t$ sparisce; l'esponente ha il segno più e compensa la costante $e^{-(\sigma^2/2)(u - t)}$ della slide 11.
+**Opzione:** Con l'indipendenza di $(W^{\ast}_u - W^{\ast}_t)$: $E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)}) = e^{(\sigma^2/2)(u - t)}$, che la funzione generatrice dei momenti della normale verifica.
 **Distrattori:**
-- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^(-(σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
-- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
-- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+- Con l'indipendenza di $(W^{\ast}_u - W^{\ast}_t)$: $E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)}) = e^{-(\sigma^2/2)(u - t)}$, che la funzione generatrice dei momenti della normale verifica.
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura $p^{\ast}$ del processo $S^{\ast}$.
+- $V^{\ast}$ è una martingala sotto $p^{\ast}$, sotto la quale anche $S^{\ast}$ lo è: $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^1_u\,dS^{\ast}_u$ (64) converge nello spazio $L_2$, e ogni integrale stocastico convergente è una martingala.
 
-**D:** ⚠️ Quale SDE governa la dinamica di S sotto la misura p∗ nel modello BSM, secondo il teorema (63) della lezione 13?
-**R:** Slide 13, «Teorema»: «L'equazione differenziale stocastica che governa la dinamica di S sotto la misura p∗ ha la forma seguente: dS_t = rS_t dt + σS_t dW∗_t (63)». Il docente: «derivare l'equazione differenziale stocastica non per il processo scontato, ma per il processo S sotto la misura di probabilità P star, dS uguale RS dt più sigma S dW star» (transcript [00:11:28]–[00:11:52]). ⚠️ Sotto p∗ il drift è r, il tasso d'interesse, non μ; la diffusione σ resta la stessa. È la chiave della domanda 5 del test, che scrive «s» per σ e «Wt∗» senza la d.
-**Opzione:** dS_t = rS_t dt + σS_t dW∗_t
+**D:** ⚠️ Quale SDE governa la dinamica di $S$ sotto la misura $p^{\ast}$ nel modello BSM, secondo il teorema (63) della lezione 13?
+**R:** Slide 13, «Teorema»: «L'equazione differenziale stocastica che governa la dinamica di $S$ sotto la misura $p^{\ast}$ ha la forma seguente: $dS_t = rS_t\,dt + \sigma S_t\,dW^{\ast}_t$ (63)». Il docente: «derivare l'equazione differenziale stocastica non per il processo scontato, ma per il processo S sotto la misura di probabilità P star, dS uguale RS dt più sigma S dW star» (transcript [00:11:28]–[00:11:52]). ⚠️ Sotto $p^{\ast}$ il drift è $r$, il tasso d'interesse, non $\mu$; la diffusione $\sigma$ resta la stessa. È la chiave della domanda 5 del test, che scrive «s» per $\sigma$ e «Wt∗» senza la $d$.
+**Opzione:** $dS_t = rS_t\,dt + \sigma S_t\,dW^{\ast}_t$
 **Distrattori:**
-- dS_t = μS_t dt + σS_t dW∗_t
-- u_nS_0 e d_nS_0
-- φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+- $dS_t = \mu S_t\,dt + \sigma S_t\,dW^{\ast}_t$
+- $u_n S_0$ e $d_n S_0$
+- $\varphi_t = (\varphi^1_t, \varphi^2_t) = (h_t, V^{\ast}_t - h_t S^{\ast}_t)$
 
-**D:** ⚠️ Da quale derivata parte la dimostrazione della SDE di S sotto p∗ nella lezione 13, e che cosa si ottiene richiamando la (61)?
-**R:** Slide 13: «richiamando la definizione di S∗_t e calcolando le derivate: dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t richiamando l'espressione (61): σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t». Slide 14–15: sostituendo dS_t = μS_t dt + σS_t dW_t e S∗_t = S_t/B_t e semplificando 1/B_t, rS_t dt + σS_t dW∗_t = μS_t dt + σS_t dW_t, e «riconoscendo la definizione di dS_t: rS_t dt + σS_t dW∗_t = dS_t Q.E.D.». Il docente: «ds star non è altro che ds su b, che è uguale a s di t per 1 su bt più 1 su bt per ds di t» (transcript [00:11:52]–[00:12:55]; nel transcript manca la d di d(1/B_t)). ⚠️ d(1/B_t) = -(r/B_t)dt: il segno meno viene dallo sconto.
-**Opzione:** dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
+**D:** ⚠️ Da quale derivata parte la dimostrazione della SDE di $S$ sotto $p^{\ast}$ nella lezione 13, e che cosa si ottiene richiamando la (61)?
+**R:** Slide 13: «richiamando la definizione di $S^{\ast}_t$ e calcolando le derivate: $dS^{\ast}_t = d\left(\frac{S}{B}\right) = S_t d\left(\frac{1}{B_t}\right) + \frac{1}{B_t}dS_t$ richiamando l'espressione (61): $\sigma S^{\ast}_t\,dW^{\ast}_t = S_t\left(-\frac{r}{B_t}dt\right) + \frac{1}{B_t}dS_t$». Slide 14–15: sostituendo $dS_t = \mu S_t\,dt + \sigma S_t\,dW_t$ e $S^{\ast}_t = \frac{S_t}{B_t}$ e semplificando $\frac{1}{B_t}$, $rS_t\,dt + \sigma S_t\,dW^{\ast}_t = \mu S_t\,dt + \sigma S_t\,dW_t$, e «riconoscendo la definizione di $dS_t$: $rS_t\,dt + \sigma S_t\,dW^{\ast}_t = dS_t$ Q.E.D.». Il docente: «ds star non è altro che ds su b, che è uguale a s di t per 1 su bt più 1 su bt per ds di t» (transcript [00:11:52]–[00:12:55]; nel transcript manca la $d$ di $d\left(\frac{1}{B_t}\right)$). ⚠️ $d\left(\frac{1}{B_t}\right) = -\frac{r}{B_t}dt$: il segno meno viene dallo sconto.
+**Opzione:** $dS^{\ast}_t = d\left(\frac{S}{B}\right) = S_t d\left(\frac{1}{B_t}\right) + \frac{1}{B_t}dS_t$; con la (61), $\sigma S^{\ast}_t\,dW^{\ast}_t = S_t\left(-\frac{r}{B_t}dt\right) + \frac{1}{B_t}dS_t$.
 **Distrattori:**
-- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t((r/B_t)dt) + (1/B_t)dS_t.
-- Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
-- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+- $dS^{\ast}_t = d\left(\frac{S}{B}\right) = S_t d\left(\frac{1}{B_t}\right) + \frac{1}{B_t}dS_t$; con la (61), $\sigma S^{\ast}_t\,dW^{\ast}_t = S_t\left(\frac{r}{B_t}dt\right) + \frac{1}{B_t}dS_t$.
+- Con $\mathbf{1}_{(S_T\geq K)} = 1$ se $S_T \geq K$ e 0 se $S_T < K$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}((S_T - K) \cdot \mathbf{1}_{(S_T\geq K)} \mid \Im_t)$.
+- Con $X = \max[S_T - K, 0]$, $\pi_t(X) = C_t(S_t, t)$ e $B_t = e^{\int_0^t r_s ds}$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}(\max(S_T - K, 0) \mid \Im_t)$.
 
-**D:** ⚠️ Che cosa dice, per il docente della lezione 13, l'uguaglianza rS_t dt + σS_t dW∗_t = μS_t dt + σS_t dW_t?
-**R:** Slide 14–15: è l'ultimo passaggio prima della (63). Il docente: «Il lato destro dice che la dinamica del sottostante è data da un drift mu e da una diffusione sigma sotto una certa misura di probabilità P. Il lato di sinistra invece dice che possiamo avere la medesima conoscibilità in termini probabilistici» del sottostante «avendo due parametri diversi sotto un'altra misura di probabilità», r, «che è il tasso di interesse ed è osservabile sul mercato, e sigma», «in genere osservabile» sul mercato; con il Doléans esponenziale e la derivata di Radon-Nikodym «siamo riusciti a portare la dinamica del sottostante in un regime parametrico noto» (transcript [00:13:17]–[00:14:16]). L'interpretazione è solo nel transcript. ⚠️ μ sta sotto P, r sotto P∗.
-**Opzione:** Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+**D:** ⚠️ Che cosa dice, per il docente della lezione 13, l'uguaglianza $rS_t\,dt + \sigma S_t\,dW^{\ast}_t = \mu S_t\,dt + \sigma S_t\,dW_t$?
+**R:** Slide 14–15: è l'ultimo passaggio prima della (63). Il docente: «Il lato destro dice che la dinamica del sottostante è data da un drift mu e da una diffusione sigma sotto una certa misura di probabilità P. Il lato di sinistra invece dice che possiamo avere la medesima conoscibilità in termini probabilistici» del sottostante «avendo due parametri diversi sotto un'altra misura di probabilità», $r$, «che è il tasso di interesse ed è osservabile sul mercato, e sigma», «in genere osservabile» sul mercato; con il Doléans esponenziale e la derivata di Radon-Nikodym «siamo riusciti a portare la dinamica del sottostante in un regime parametrico noto» (transcript [00:13:17]–[00:14:16]). L'interpretazione è solo nel transcript. ⚠️ $\mu$ sta sotto $P$, $r$ sotto $P^{\ast}$.
+**Opzione:** Che la dinamica di $S$, con drift $\mu$ e diffusione $\sigma$ sotto $P$, si descrive sotto $P^{\ast}$ con $r$, il tasso d'interesse osservabile sul mercato, e $\sigma$: il cambio di misura la porta in un regime parametrico noto.
 **Distrattori:**
-- Che la dinamica di S, con drift r e diffusione σ sotto P, si descrive sotto P∗ con μ, il drift osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
-- C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
-- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+- Che la dinamica di $S$, con drift $r$ e diffusione $\sigma$ sotto $P$, si descrive sotto $P^{\ast}$ con $\mu$, il drift osservabile sul mercato, e $\sigma$: il cambio di misura la porta in un regime parametrico noto.
+- $C_t = e^{-\int_t^T r_s ds} \cdot \int_K^\infty (S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$, dove $\tilde{f}(S_T, T \mid \Im_t)$ è la funzione di densità di probabilità condizionata alla filtrazione $\Im_t$ della variabile aleatoria $S_T$.
+- Se $X^{\ast}$ è una martingala convergente nello spazio $L_2$, esiste un unico processo predicibile $\theta_u = h_u \sigma S^{\ast}_u$, convergente nello spazio $L_2$, tale che $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_t$.
 
-**D:** ⚠️ Come è distribuito ln S_t sotto la misura p∗ nel modello BSM, secondo il corollario della lezione 13?
-**R:** Slide 16, «Corollario»: «La distribuzione di probabilità di ln S_t sotto la misura p∗ è rappresentata nella forma seguente: ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))»; la slide scrive ∽. Il docente: la distribuzione «del rendimento logaritmico o comunque del logaritmo del sottostante sotto la misura di probabilità P star», con media il logaritmo di S più (r - σ²/2)(t - s) «e sigma radice di T meno S come diffusione» (transcript [00:14:28]–[00:15:01]; il transcript ha «più R per sigma quadro mezzi»). ⚠️ Nella media c'è r, non μ: è la (63) portata sul logaritmo. Il secondo parametro è σ√(t - s).
-**Opzione:** ln S_t ~ N(ln S_s + (r - σ²/2)(t - s), σ√(t - s))
+**D:** ⚠️ Come è distribuito $\ln S_t$ sotto la misura $p^{\ast}$ nel modello BSM, secondo il corollario della lezione 13?
+**R:** Slide 16, «Corollario»: «La distribuzione di probabilità di $\ln S_t$ sotto la misura $p^{\ast}$ è rappresentata nella forma seguente: $\ln S_t \sim N(\ln S_s + (r - \sigma^2/2)(t - s), \sigma\sqrt{t - s})$»; la slide scrive ∽. Il docente: la distribuzione «del rendimento logaritmico o comunque del logaritmo del sottostante sotto la misura di probabilità P star», con media il logaritmo di $S$ più $(r - \sigma^2/2)(t - s)$ «e sigma radice di T meno S come diffusione» (transcript [00:14:28]–[00:15:01]; il transcript ha «più R per sigma quadro mezzi»). ⚠️ Nella media c'è $r$, non $\mu$: è la (63) portata sul logaritmo. Il secondo parametro è $\sigma\sqrt{t - s}$.
+**Opzione:** $\ln S_t \sim N(\ln S_s + (r - \sigma^2/2)(t - s), \sigma\sqrt{t - s})$
 **Distrattori:**
-- ln S_t ~ N(ln S_s + (μ - σ²/2)(t - s), σ√(t - s))
-- u_t ≜ ((r - μ)/σ)W_t
-- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
+- $\ln S_t \sim N(\ln S_s + (\mu - \sigma^2/2)(t - s), \sigma\sqrt{t - s})$
+- $u_t \triangleq \frac{r - \mu}{\sigma}W_t$
+- 1. $W_t$ è un moto browniano standard; 2. $E(\varepsilon_t(u)) = 1$.
 
-**D:** ⚠️ Che cosa afferma il teorema su V∗ nel modello BSM della lezione 13, e su quale espressione si fonda la dimostrazione?
-**R:** Slide 17, «Teorema»: «V∗ è una Martingala sotto la misura di Martingala p∗, sotto la quale anche S∗ è una Martingala». Slide 18: «Riarrangiando l'equazione (60) in forma differenziale: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) poichè P{∫_0^t |φ^1_u|² dS∗_u < ∞} = 1 allora l'integrale stocastico converge nello spazio L_2. Dato che ogni integrale stocastico convergente è una Martingala, allora V∗ è una martingala sotto la misura p∗. Q.E.D.». Il docente: «Il valore del portafoglio in termini scontati V star anch'esso è una martingala»; «La dimostrazione è abbastanza semplice» (transcript [00:15:01]–[00:16:13]). ⚠️ Nella (64) compare solo il sottostante scontato, φ^1_u dS∗_u.
-**Opzione:** V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
+**D:** ⚠️ Che cosa afferma il teorema su $V^{\ast}$ nel modello BSM della lezione 13, e su quale espressione si fonda la dimostrazione?
+**R:** Slide 17, «Teorema»: «$V^{\ast}$ è una Martingala sotto la misura di Martingala $p^{\ast}$, sotto la quale anche $S^{\ast}$ è una Martingala». Slide 18: «Riarrangiando l'equazione (60) in forma differenziale: $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^1_u\,dS^{\ast}_u$ (64) poichè $P\{\int_0^t \left|\varphi^1_u\right|^2\,dS^{\ast}_u < \infty\} = 1$ allora l'integrale stocastico converge nello spazio $L_2$. Dato che ogni integrale stocastico convergente è una Martingala, allora $V^{\ast}$ è una martingala sotto la misura $p^{\ast}$. Q.E.D.». Il docente: «Il valore del portafoglio in termini scontati V star anch'esso è una martingala»; «La dimostrazione è abbastanza semplice» (transcript [00:15:01]–[00:16:13]). ⚠️ Nella (64) compare solo il sottostante scontato, $\varphi^1_u\,dS^{\ast}_u$.
+**Opzione:** $V^{\ast}$ è una martingala sotto $p^{\ast}$, sotto la quale anche $S^{\ast}$ lo è: $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^1_u\,dS^{\ast}_u$ (64) converge nello spazio $L_2$, e ogni integrale stocastico convergente è una martingala.
 **Distrattori:**
-- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^2_u dB_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
-- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
-- dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
+- $V^{\ast}$ è una martingala sotto $p^{\ast}$, sotto la quale anche $S^{\ast}$ lo è: $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^2_u\,dB_u$ (64) converge nello spazio $L_2$, e ogni integrale stocastico convergente è una martingala.
+- a. il pay-off scontato della call ha la stessa misura di probabilità $p^{\ast}$ del processo scontato del sottostante $S^{\ast}$; b. esiste un portafoglio di replicazione $\varphi_t$ di una call europea; c. il portafoglio di replicazione è autofinanziante.
+- $dS^{\ast}_t = \sigma S^{\ast}_t\,dW^{\ast}_t$: sostituendo $dW_t = dW^{\ast}_t + \frac{r - \mu}{\sigma}dt$, il drift $(\mu - r)S^{\ast}_t\,dt$ si elide.
 
-**D:** ⚠️ Come si scrive nel modello BSM il prezzo in assenza di arbitraggio π_t(X) di un derivato X che ha un portafoglio di replicazione (formula (65) della lezione 13)?
-**R:** Slide 19: «Dato un prodotto derivato X che ha un portafoglio di replicazione, il prezzo del derivato in presenza di non-arbitraggio π_t(X) è una p∗- martingala, i.e.: π_0(X) = E_{P∗}(X∗ | ℑ_0) Ad un tempo generico t: π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t) (65)». La slide 21 la richiama come la definizione «di un generico derivato sotto la misura risk-neutral P∗». Il docente: π di t «non è altro che B di T, il processo del valore finanziario del tempo che moltiplica il valore atteso sotto la misura P star di X su B T grande condizionato alla nostra informazione al tempo T» (transcript [00:16:44]–[00:17:06]). ⚠️ Il pay-off si sconta con B_T^(-1) e si moltiplica per B_t. ⚠️ Per il docente π(X) è il portafoglio di replicazione ([00:16:13]); per la slide è il prezzo del derivato.
-**Opzione:** π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
+**D:** ⚠️ Come si scrive nel modello BSM il prezzo in assenza di arbitraggio $\pi_t(X)$ di un derivato $X$ che ha un portafoglio di replicazione (formula (65) della lezione 13)?
+**R:** Slide 19: «Dato un prodotto derivato $X$ che ha un portafoglio di replicazione, il prezzo del derivato in presenza di non-arbitraggio $\pi_t(X)$ è una $p^{\ast}$- martingala, i.e.: $\pi_0(X) = E_{P^{\ast}}(X^{\ast} \mid \Im_0)$ Ad un tempo generico $t$: $\pi_t(X) = B_t E_{P^{\ast}}(B_T^{-1}X \mid \Im_t)$ (65)». La slide 21 la richiama come la definizione «di un generico derivato sotto la misura risk-neutral $P^{\ast}$». Il docente: π di t «non è altro che B di T, il processo del valore finanziario del tempo che moltiplica il valore atteso sotto la misura P star di X su B T grande condizionato alla nostra informazione al tempo T» (transcript [00:16:44]–[00:17:06]). ⚠️ Il pay-off si sconta con $B_T^{-1}$ e si moltiplica per $B_t$. ⚠️ Per il docente $\pi(X)$ è il portafoglio di replicazione ([00:16:13]); per la slide è il prezzo del derivato.
+**Opzione:** $\pi_t(X) = B_t E_{P^{\ast}}(B_T^{-1}X \mid \Im_t)$, e al tempo 0 $\pi_0(X) = E_{P^{\ast}}(X^{\ast} \mid \Im_0)$: il prezzo del derivato è una $p^{\ast}$-martingala.
 **Distrattori:**
-- π_t(X) = B_t^(-1) E_{P∗}(B_T X | ℑ_t), e al tempo 0 π_0(X) = E_{P∗}(X∗ | ℑ_0): il prezzo del derivato è una p∗-martingala.
-- 1. W_t è un moto browniano standard; 2. E(ε_t(u)) = 1.
-- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+- $\pi_t(X) = B_t^{-1} E_{P^{\ast}}(B_T X \mid \Im_t)$, e al tempo 0 $\pi_0(X) = E_{P^{\ast}}(X^{\ast} \mid \Im_0)$: il prezzo del derivato è una $p^{\ast}$-martingala.
+- 1. $W_t$ è un moto browniano standard; 2. $E(\varepsilon_t(u)) = 1$.
+- Se $X^{\ast}$ è una martingala convergente nello spazio $L_2$, esiste un unico processo predicibile $\theta_u = h_u \sigma S^{\ast}_u$, convergente nello spazio $L_2$, tale che $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_t$.
 
 **D:** ⚠️ Che cosa si ottiene specificando la (65) per il pay-off della call nel modello BSM (formula (67) della lezione 13)?
-**R:** Slide 22–23: «specificando per il pay-off della Call: X = max[S_T - K, 0] = π_t(X) = C_t(S_t, t) B_t = e^(∫_0^t r_s ds) quindi: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t) (67)». Il docente: si sostituisce a X «il suo valore intrinseco» e a π(X) «c di t, s di t di t, cioè la nostra call»; il processo del valore finanziario del tempo «non è altro che la funzione esponenziale dell'integrale tra 0 e t piccolo di rs in ds» (transcript [00:18:33]–[00:19:49]). ⚠️ Lo sconto va da t a T: B_t · B_T^(-1) = e^(-∫_t^T r_s ds), passaggio che la slide sottintende.
-**Opzione:** Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
+**R:** Slide 22–23: «specificando per il pay-off della Call: $X = \max[S_T - K, 0] = \pi_t(X) = C_t(S_t, t)$ $B_t = e^{\int_0^t r_s ds}$ quindi: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}(\max(S_T - K, 0) \mid \Im_t)$ (67)». Il docente: si sostituisce a $X$ «il suo valore intrinseco» e a $\pi(X)$ «c di t, s di t di t, cioè la nostra call»; il processo del valore finanziario del tempo «non è altro che la funzione esponenziale dell'integrale tra 0 e t piccolo di rs in ds» (transcript [00:18:33]–[00:19:49]). ⚠️ Lo sconto va da $t$ a $T$: $B_t \cdot B_T^{-1} = e^{-\int_t^T r_s ds}$, passaggio che la slide sottintende.
+**Opzione:** Con $X = \max[S_T - K, 0]$, $\pi_t(X) = C_t(S_t, t)$ e $B_t = e^{\int_0^t r_s ds}$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}(\max(S_T - K, 0) \mid \Im_t)$.
 **Distrattori:**
-- Con X = max[S_T - K, 0], π_t(X) = C_t(S_t, t) e B_t = e^(∫_0^t r_s ds): C_t(S_t, t) = e^(-∫_0^T r_s ds) · E_{P∗}(max(S_T - K, 0) | ℑ_t).
-- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
-- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
+- Con $X = \max[S_T - K, 0]$, $\pi_t(X) = C_t(S_t, t)$ e $B_t = e^{\int_0^t r_s ds}$: $C_t(S_t, t) = e^{-\int_0^T r_s ds} \cdot E_{P^{\ast}}(\max(S_T - K, 0) \mid \Im_t)$.
+- $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura $p^{\ast}$ del processo $S^{\ast}$.
 
 **D:** ⚠️ Come trasforma la funzione indicatrice la (67) nella (68), nel prezzo della call della lezione 13?
-**R:** Slide 24: «utilizzando le proprietà della funzione indicatrice 𝟙_(S_T≥K) = 1 se S_T ≥ K, 0 se S_T < K, l'espressione (67) si trasforma nella: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t) (68)». Il docente: «il prezzo della call è il nostro processo scontato per il valore atteso del valore intrinseco per la funzione indicatrice, sempre condizionato alle informazioni in t piccolo» (transcript [00:19:49]–[00:20:21]). ⚠️ L'indicatrice vale 1 quando S_T ≥ K, cioè quando il pay-off è positivo, e prende il posto della funzione di massimo.
-**Opzione:** Con 𝟙_(S_T≥K) = 1 se S_T ≥ K e 0 se S_T < K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T≥K) | ℑ_t).
+**R:** Slide 24: «utilizzando le proprietà della funzione indicatrice $\mathbf{1}_{(S_T\geq K)} = 1$ se $S_T \geq K$, 0 se $S_T < K$, l'espressione (67) si trasforma nella: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}((S_T - K) \cdot \mathbf{1}_{(S_T\geq K)} \mid \Im_t)$ (68)». Il docente: «il prezzo della call è il nostro processo scontato per il valore atteso del valore intrinseco per la funzione indicatrice, sempre condizionato alle informazioni in t piccolo» (transcript [00:19:49]–[00:20:21]). ⚠️ L'indicatrice vale 1 quando $S_T \geq K$, cioè quando il pay-off è positivo, e prende il posto della funzione di massimo.
+**Opzione:** Con $\mathbf{1}_{(S_T\geq K)} = 1$ se $S_T \geq K$ e 0 se $S_T < K$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}((S_T - K) \cdot \mathbf{1}_{(S_T\geq K)} \mid \Im_t)$.
 **Distrattori:**
-- Con 𝟙_(S_T<K) = 1 se S_T < K e 0 se S_T ≥ K: C_t(S_t, t) = e^(-∫_t^T r_s ds) · E_{P∗}((S_T - K) · 𝟙_(S_T<K) | ℑ_t).
-- Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
-- Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+- Con $\mathbf{1}_{(S_T<K)} = 1$ se $S_T < K$ e 0 se $S_T \geq K$: $C_t(S_t, t) = e^{-\int_t^T r_s ds} \cdot E_{P^{\ast}}((S_T - K) \cdot \mathbf{1}_{(S_T<K)} \mid \Im_t)$.
+- Da $V_t = B_t V^{\ast}_t$, quindi $dV_t(\varphi) = d(B_t V^{\ast}_t)$; la regola di Leibniz dà $\mathrm{LHS} = B_t\,dV^{\ast}_t + V^{\ast}_t\,dB_t$.
+- Se $\varphi^1_u = h_u$: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
 
-**D:** ⚠️ Come si scrive il prezzo al tempo t della call europea standard in forma esplicita nel modello BSM (formula (66) della lezione 13)?
-**R:** Slide 20, «Proposizione»: «Dato il pay-off di una Call europea standard, i.e.: C_T = max[S_T - K, 0] Il prezzo al tempo t della Call è rappresentato nella seguente forma esplicita: C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T (66) dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T». Slide 25–26: per la definizione di valore atteso condizionale e per «una proprietà elementare della funzione indicatrice», l'integrale da -∞ a ∞ di 𝟙_(S_T≥K)(S_T - K) f̃(S_T, T | ℑ_t) dS_T diventa quello da K a ∞, e «la tesi risulta dimostrata». Il docente: «l'esponenziale di meno integrale tra t piccolo e t grande di rs in ds», «per l'integrale tra k, lo strike, e infinito» (transcript [00:17:49]–[00:18:33], [00:20:21]–[00:21:19]). ⚠️ L'integrale parte dallo strike K: sotto K il pay-off della call è nullo.
-**Opzione:** C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+**D:** ⚠️ Come si scrive il prezzo al tempo $t$ della call europea standard in forma esplicita nel modello BSM (formula (66) della lezione 13)?
+**R:** Slide 20, «Proposizione»: «Dato il pay-off di una Call europea standard, i.e.: $C_T = \max[S_T - K, 0]$ Il prezzo al tempo $t$ della Call è rappresentato nella seguente forma esplicita: $C_t = e^{-\int_t^T r_s ds} \cdot \int_K^\infty (S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$ (66) dove $\tilde{f}(S_T, T \mid \Im_t)$ è la funzione di densità di probabilità condizionata alla filtrazione $\Im_t$ della variabile aleatoria $S_T$». Slide 25–26: per la definizione di valore atteso condizionale e per «una proprietà elementare della funzione indicatrice», l'integrale da $-\infty$ a $\infty$ di $\mathbf{1}_{(S_T\geq K)}(S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$ diventa quello da $K$ a $\infty$, e «la tesi risulta dimostrata». Il docente: «l'esponenziale di meno integrale tra t piccolo e t grande di rs in ds», «per l'integrale tra k, lo strike, e infinito» (transcript [00:17:49]–[00:18:33], [00:20:21]–[00:21:19]). ⚠️ L'integrale parte dallo strike $K$: sotto $K$ il pay-off della call è nullo.
+**Opzione:** $C_t = e^{-\int_t^T r_s ds} \cdot \int_K^\infty (S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$, dove $\tilde{f}(S_T, T \mid \Im_t)$ è la funzione di densità di probabilità condizionata alla filtrazione $\Im_t$ della variabile aleatoria $S_T$.
 **Distrattori:**
-- C_t = e^(-∫_t^T r_s ds) · ∫_{-∞}^K (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
-- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
-- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+- $C_t = e^{-\int_t^T r_s ds} \cdot \int_{-\infty}^K (S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$, dove $\tilde{f}(S_T, T \mid \Im_t)$ è la funzione di densità di probabilità condizionata alla filtrazione $\Im_t$ della variabile aleatoria $S_T$.
+- a. il pay-off scontato della call ha la stessa misura di probabilità $p^{\ast}$ del processo scontato del sottostante $S^{\ast}$; b. esiste un portafoglio di replicazione $\varphi_t$ di una call europea; c. il portafoglio di replicazione è autofinanziante.
+- Con la regola di Leibniz su $d\left(\frac{S_t}{B_t}\right)$ il lato sinistro diventa $\mathrm{LHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$ (73), uguale alla (72): la strategia $\varphi_t$ è autofinanziante.
 
 **D:** ⚠️ Che cosa afferma la proposizione sul portafoglio di replicazione della call europea nel modello BSM, secondo la lezione 13?
-**R:** Slide 27, «Proposizione»: «Dato il pay-off di una Call europea standard, esiste un portafoglio di replicazione autofinanziante che è una Martingala sotto la misura p∗ del processo S∗». Il docente: «Dato il payoff di una colla europea standard esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura P-STAR del processo S-STAR» (transcript [00:21:19]–[00:21:46]). ⚠️ Martingala sotto p∗, la misura sotto cui S∗ è una martingala (slide 3), non sotto la misura originaria p.
-**Opzione:** Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura p∗ del processo S∗.
+**R:** Slide 27, «Proposizione»: «Dato il pay-off di una Call europea standard, esiste un portafoglio di replicazione autofinanziante che è una Martingala sotto la misura $p^{\ast}$ del processo $S^{\ast}$». Il docente: «Dato il payoff di una colla europea standard esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura P-STAR del processo S-STAR» (transcript [00:21:19]–[00:21:46]). ⚠️ Martingala sotto $p^{\ast}$, la misura sotto cui $S^{\ast}$ è una martingala (slide 3), non sotto la misura originaria $p$.
+**Opzione:** Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura $p^{\ast}$ del processo $S^{\ast}$.
 **Distrattori:**
-- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura originaria p del processo S∗.
-- Con l'indipendenza di (W∗_u - W∗_t): E_{p∗}(e^(σ(W∗_u - W∗_t))) = e^((σ²/2)(u - t)), che la funzione generatrice dei momenti della normale verifica.
-- C_t = e^(-∫_t^T r_s ds) · ∫_K^∞ (S_T - K) f̃(S_T, T | ℑ_t) dS_T, dove f̃(S_T, T | ℑ_t) è la funzione di densità di probabilità condizionata alla filtrazione ℑ_t della variabile aleatoria S_T.
+- Dato il pay-off di una call europea standard, esiste un portafoglio di replicazione autofinanziante che è una martingala sotto la misura originaria $p$ del processo $S^{\ast}$.
+- Con l'indipendenza di $(W^{\ast}_u - W^{\ast}_t)$: $E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)}) = e^{(\sigma^2/2)(u - t)}$, che la funzione generatrice dei momenti della normale verifica.
+- $C_t = e^{-\int_t^T r_s ds} \cdot \int_K^\infty (S_T - K) \tilde{f}(S_T, T \mid \Im_t)\,dS_T$, dove $\tilde{f}(S_T, T \mid \Im_t)$ è la funzione di densità di probabilità condizionata alla filtrazione $\Im_t$ della variabile aleatoria $S_T$.
 
 **D:** ⚠️ In quali tre parti è divisa la dimostrazione della proposizione sul portafoglio di replicazione della call nel modello BSM, secondo la lezione 13?
-**R:** Slide 27: «La dimostrazione è divisa in tre parti: a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante;». Il docente: «La dimostrazione qui è un pochino articolata e va divisa in tre parti» (transcript [00:21:46]–[00:22:14]). ⚠️ La parte c vale ∀t ∈ [0,T] (slide 36), non soltanto alla scadenza.
-**Opzione:** a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante.
+**R:** Slide 27: «La dimostrazione è divisa in tre parti: a. il pay-off scontato della call ha la stessa misura di probabilità $p^{\ast}$ del processo scontato del sottostante $S^{\ast}$; b. esiste un portafoglio di replicazione $\varphi_t$ di una call europea; c. il portafoglio di replicazione è autofinanziante;». Il docente: «La dimostrazione qui è un pochino articolata e va divisa in tre parti» (transcript [00:21:46]–[00:22:14]). ⚠️ La parte c vale $\forall t \in [0,T]$ (slide 36), non soltanto alla scadenza.
+**Opzione:** a. il pay-off scontato della call ha la stessa misura di probabilità $p^{\ast}$ del processo scontato del sottostante $S^{\ast}$; b. esiste un portafoglio di replicazione $\varphi_t$ di una call europea; c. il portafoglio di replicazione è autofinanziante.
 **Distrattori:**
-- a. il pay-off scontato della call ha la stessa misura di probabilità p∗ del processo scontato del sottostante S∗; b. esiste un portafoglio di replicazione φ_t di una call europea; c. il portafoglio di replicazione è autofinanziante soltanto alla scadenza T.
-- V∗ è una martingala sotto p∗, sotto la quale anche S∗ lo è: V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u (64) converge nello spazio L_2, e ogni integrale stocastico convergente è una martingala.
-- Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+- a. il pay-off scontato della call ha la stessa misura di probabilità $p^{\ast}$ del processo scontato del sottostante $S^{\ast}$; b. esiste un portafoglio di replicazione $\varphi_t$ di una call europea; c. il portafoglio di replicazione è autofinanziante soltanto alla scadenza $T$.
+- $V^{\ast}$ è una martingala sotto $p^{\ast}$, sotto la quale anche $S^{\ast}$ lo è: $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^1_u\,dS^{\ast}_u$ (64) converge nello spazio $L_2$, e ogni integrale stocastico convergente è una martingala.
+- Che la dinamica di $S$, con drift $\mu$ e diffusione $\sigma$ sotto $P$, si descrive sotto $P^{\ast}$ con $r$, il tasso d'interesse osservabile sul mercato, e $\sigma$: il cambio di misura la porta in un regime parametrico noto.
 
-**D:** ⚠️ Come si dimostra nel modello BSM che il pay-off scontato della call è una martingala sotto p∗ (parte a della dimostrazione della lezione 13)?
-**R:** Slide 28: «Dato il pay-off di una Call europea: X_T = (S_T - K)^+ Il pay-off scontato è definito come: X∗_T = (S_T - K)^+/B_T». Slide 29: «Sia: X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69) dove h_u è tale che P{∫_0^t |h_u|² dS∗_u < ∞} = 1, allora l'integrale stocastico converge nello spazio L_2. Dato che ogni integrale stocastico convergente è una Martingala, allora X è una Martingala sotto la misura p∗. Q.E.D.». Il docente: «poiché ogni integrale stocastico che converge è una martingala, x è certamente una martingala sotto la misura di probabilità P star» (transcript [00:22:14]–[00:23:10]). ⚠️ Il pay-off si sconta dividendo per B_T. È lo stesso argomento della (64) per V∗ (slide 18).
-**Opzione:** X∗_T = (S_T - K)^+/B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
+**D:** ⚠️ Come si dimostra nel modello BSM che il pay-off scontato della call è una martingala sotto $p^{\ast}$ (parte a della dimostrazione della lezione 13)?
+**R:** Slide 28: «Dato il pay-off di una Call europea: $X_T = (S_T - K)^+$ Il pay-off scontato è definito come: $X^{\ast}_T = \frac{(S_T - K)^+}{B_T}$». Slide 29: «Sia: $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$ (69) dove $h_u$ è tale che $P\{\int_0^t \left|h_u\right|^2\,dS^{\ast}_u < \infty\} = 1$, allora l'integrale stocastico converge nello spazio $L_2$. Dato che ogni integrale stocastico convergente è una Martingala, allora $X$ è una Martingala sotto la misura $p^{\ast}$. Q.E.D.». Il docente: «poiché ogni integrale stocastico che converge è una martingala, x è certamente una martingala sotto la misura di probabilità P star» (transcript [00:22:14]–[00:23:10]). ⚠️ Il pay-off si sconta dividendo per $B_T$. È lo stesso argomento della (64) per $V^{\ast}$ (slide 18).
+**Opzione:** $X^{\ast}_T = \frac{(S_T - K)^+}{B_T}$ si scrive $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$ (69): l'integrale stocastico converge nello spazio $L_2$, quindi $X$ è una martingala sotto $p^{\ast}$.
 **Distrattori:**
-- X∗_T = (S_T - K)^+ · B_T si scrive X∗_T = X∗_0 + ∫_0^T h_u dS∗_u (69): l'integrale stocastico converge nello spazio L_2, quindi X è una martingala sotto p∗.
-- dS∗_t = d(S/B) = S_t d(1/B_t) + (1/B_t)dS_t; con la (61), σS∗_t dW∗_t = S_t(-(r/B_t)dt) + (1/B_t)dS_t.
-- Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
+- $X^{\ast}_T = (S_T - K)^+ \cdot B_T$ si scrive $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$ (69): l'integrale stocastico converge nello spazio $L_2$, quindi $X$ è una martingala sotto $p^{\ast}$.
+- $dS^{\ast}_t = d\left(\frac{S}{B}\right) = S_t d\left(\frac{1}{B_t}\right) + \frac{1}{B_t}dS_t$; con la (61), $\sigma S^{\ast}_t\,dW^{\ast}_t = S_t\left(-\frac{r}{B_t}dt\right) + \frac{1}{B_t}dS_t$.
+- Esiste una misura di martingala $p^{\ast}$ equivalente a $p$ per $S^{\ast}$, cioè $S^{\ast}$ è una martingala sotto $p^{\ast}$: $E_{p^{\ast}}(S^{\ast}_u \mid S^{\ast}_t) = S^{\ast}_t$, con $u \geq t$.
 
 **D:** ⚠️ Che cosa garantisce il teorema di rappresentazione della martingala nella parte b della dimostrazione della lezione 13?
-**R:** Slide 30: «Se X∗· è una Martingala, allora: E_{p∗}X∗_T = E_{p∗}X∗_0 = X∗_0, così l'espressione (69) può essere riscritta come: X∗_T = E_{p∗}X∗_T + ∫_0^T h_u dS∗_u»; con la (61), X∗_T = E_{p∗}X∗_T + ∫_0^T h_u σS∗_t dW∗_t. Slide 31: «Sfruttando il teorema di rappresentazione della Martingala, se X∗ è una Martingala convergente nello spazio L_2, allora esiste un unico processo predicibile θ_u = h_u σS∗_u convergente nello spazio L_2, tale che: X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t». Il docente: «esiste un unico processo predicibile θ di U uguale HU sigma SU star che converge nello spazio L2» (transcript [00:23:10]–[00:24:28]; il transcript scrive «tema di rappresentazione»). ⚠️ θ_u è il prodotto h_u σS∗_u, che viene da dS∗_u = σS∗_u dW∗_u, la (61).
-**Opzione:** Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u σS∗_u, convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
+**R:** Slide 30: «Se $X^{\ast}\cdot$ è una Martingala, allora: $E_{p^{\ast}}X^{\ast}_T = E_{p^{\ast}}X^{\ast}_0 = X^{\ast}_0$, così l'espressione (69) può essere riscritta come: $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T h_u\,dS^{\ast}_u$»; con la (61), $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T h_u \sigma S^{\ast}_t\,dW^{\ast}_t$. Slide 31: «Sfruttando il teorema di rappresentazione della Martingala, se $X^{\ast}$ è una Martingala convergente nello spazio $L_2$, allora esiste un unico processo predicibile $\theta_u = h_u \sigma S^{\ast}_u$ convergente nello spazio $L_2$, tale che: $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_t$». Il docente: «esiste un unico processo predicibile θ di U uguale HU sigma SU star che converge nello spazio L2» (transcript [00:23:10]–[00:24:28]; il transcript scrive «tema di rappresentazione»). ⚠️ $\theta_u$ è il prodotto $h_u \sigma S^{\ast}_u$, che viene da $dS^{\ast}_u = \sigma S^{\ast}_u\,dW^{\ast}_u$, la (61).
+**Opzione:** Se $X^{\ast}$ è una martingala convergente nello spazio $L_2$, esiste un unico processo predicibile $\theta_u = h_u \sigma S^{\ast}_u$, convergente nello spazio $L_2$, tale che $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_t$.
 **Distrattori:**
-- Se X∗ è una martingala convergente nello spazio L_2, esiste un unico processo predicibile θ_u = h_u/(σS∗_u), convergente nello spazio L_2, tale che X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_t.
-- Si porta fuori la costante e^(-(1/2)((r - μ)/σ)²t) e si calcola E(e^(((r - μ)/σ)W_t)) con la funzione generatrice dei momenti della normale: E(ε_t(u)) = 1.
-- Che la dinamica di S, con drift μ e diffusione σ sotto P, si descrive sotto P∗ con r, il tasso d'interesse osservabile sul mercato, e σ: il cambio di misura la porta in un regime parametrico noto.
+- Se $X^{\ast}$ è una martingala convergente nello spazio $L_2$, esiste un unico processo predicibile $\theta_u = \frac{h_u}{\sigma S^{\ast}_u}$, convergente nello spazio $L_2$, tale che $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_t$.
+- Si porta fuori la costante $e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t}$ e si calcola $E(e^{((r - \mu)/\sigma)W_t})$ con la funzione generatrice dei momenti della normale: $E(\varepsilon_t(u)) = 1$.
+- Che la dinamica di $S$, con drift $\mu$ e diffusione $\sigma$ sotto $P$, si descrive sotto $P^{\ast}$ con $r$, il tasso d'interesse osservabile sul mercato, e $\sigma$: il cambio di misura la porta in un regime parametrico noto.
 
 **D:** ⚠️ A quale condizione la (64) coincide con la (69), e che cosa ne segue, nella dimostrazione della lezione 13?
-**R:** Slide 32: «In sintesi: X∗_T = E_{p∗}X∗_T + ∫_0^T θ_u dW∗_u; X∗_T = E_{p∗}X∗_T + ∫_0^T h_u dS∗_u; X∗_T = X∗_0 + ∫_0^T h_u dS∗_u», le tre righe della (70); «Se φ^1_u = h_u, allora l'espressione (64) coincide con la (69), il che vuol dire che esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato». ⚠️ Il transcript dice «Se allora FDU non è uguale ad HU, allora l'espressione 64 coincide con 69» ([00:25:03]): è il contrario della slide. Vale la slide: la (64) è V∗_t = V∗_0 + ∫_0^t φ^1_u dS∗_u, la (69) è X∗_T = X∗_0 + ∫_0^T h_u dS∗_u, e coincidono quando gli integrandi sono uguali.
-**Opzione:** Se φ^1_u = h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+**R:** Slide 32: «In sintesi: $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T \theta_u\,dW^{\ast}_u$; $X^{\ast}_T = E_{p^{\ast}}X^{\ast}_T + \int_0^T h_u\,dS^{\ast}_u$; $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$», le tre righe della (70); «Se $\varphi^1_u = h_u$, allora l'espressione (64) coincide con la (69), il che vuol dire che esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato». ⚠️ Il transcript dice «Se allora FDU non è uguale ad HU, allora l'espressione 64 coincide con 69» ([00:25:03]): è il contrario della slide. Vale la slide: la (64) è $V^{\ast}_t = V^{\ast}_0 + \int_0^t \varphi^1_u\,dS^{\ast}_u$, la (69) è $X^{\ast}_T = X^{\ast}_0 + \int_0^T h_u\,dS^{\ast}_u$, e coincidono quando gli integrandi sono uguali.
+**Opzione:** Se $\varphi^1_u = h_u$: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
 **Distrattori:**
-- Se φ^1_u ≠ h_u: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
-- Esiste una misura di martingala p∗ equivalente a p per S∗, cioè S∗ è una martingala sotto p∗: E_{p∗}(S∗_u | S∗_t) = S∗_t, con u ≥ t.
-- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+- Se $\varphi^1_u \neq h_u$: esiste un portafoglio unico di replicazione tale che il suo valore è uguale al prezzo del prodotto derivato.
+- Esiste una misura di martingala $p^{\ast}$ equivalente a $p$ per $S^{\ast}$, cioè $S^{\ast}$ è una martingala sotto $p^{\ast}$: $E_{p^{\ast}}(S^{\ast}_u \mid S^{\ast}_t) = S^{\ast}_t$, con $u \geq t$.
+- La proprietà di Markov: $E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_t)$, con $(W_u - W_t) \sim N(0, u - t)$ moto browniano standard.
 
 **D:** ⚠️ Quale forma esplicita assume nel modello BSM il portafoglio di replicazione della call (formula (71) della lezione 13)?
-**R:** Slide 33: «Si determina ora il portafoglio di replicazione della call φ_t. A questo fine si richiama l'espressione (48), i.e.: V_t = φ^1_t S_t + φ^2_t B_t (48)». Slide 34–35: «sostituendo φ^1_t = h_t V_t = h_t S_t + φ^2_t B_t φ^2_t è determinato: φ^2_t = (V_t - φ^1_t S_t)/B_t Utilizzando le definizioni di V∗_t e S∗_t si ottiene: φ^2_t = V∗_t - φ^1_t S∗_t Quindi un portafoglio di replicazione unico esiste ed assume la seguente forma esplicita: φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t) (71)». Il docente: «Φ2 è determinato quindi come VT meno Φ di 1 TST diviso BT», e con le definizioni di V star e S star «Φ2 è uguale a VT star meno Φ1ST star» (transcript [00:25:21]–[00:26:15]). ⚠️ In φ^2_t ci sono le grandezze scontate V∗_t e S∗_t: V_t - h_t S_t va ancora diviso per B_t.
-**Opzione:** φ_t = (φ^1_t, φ^2_t) = (h_t, V∗_t - h_t S∗_t)
+**R:** Slide 33: «Si determina ora il portafoglio di replicazione della call $\varphi_t$. A questo fine si richiama l'espressione (48), i.e.: $V_t = \varphi^1_t S_t + \varphi^2_t B_t$ (48)». Slide 34–35: «sostituendo $\varphi^1_t = h_t$ $V_t = h_t S_t + \varphi^2_t B_t$ $\varphi^2_t$ è determinato: $\varphi^2_t = \frac{V_t - \varphi^1_t S_t}{B_t}$ Utilizzando le definizioni di $V^{\ast}_t$ e $S^{\ast}_t$ si ottiene: $\varphi^2_t = V^{\ast}_t - \varphi^1_t S^{\ast}_t$ Quindi un portafoglio di replicazione unico esiste ed assume la seguente forma esplicita: $\varphi_t = (\varphi^1_t, \varphi^2_t) = (h_t, V^{\ast}_t - h_t S^{\ast}_t)$ (71)». Il docente: «Φ2 è determinato quindi come VT meno Φ di 1 TST diviso BT», e con le definizioni di V star e S star «Φ2 è uguale a VT star meno Φ1ST star» (transcript [00:25:21]–[00:26:15]). ⚠️ In $\varphi^2_t$ ci sono le grandezze scontate $V^{\ast}_t$ e $S^{\ast}_t$: $V_t - h_t S_t$ va ancora diviso per $B_t$.
+**Opzione:** $\varphi_t = (\varphi^1_t, \varphi^2_t) = (h_t, V^{\ast}_t - h_t S^{\ast}_t)$
 **Distrattori:**
-- φ_t = (φ^1_t, φ^2_t) = (h_t, V_t - h_t S_t)
-- S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), ∀u ≥ t
-- dS_t = rS_t dt + σS_t dW∗_t
+- $\varphi_t = (\varphi^1_t, \varphi^2_t) = (h_t, V_t - h_t S_t)$
+- $S^{\ast}_u = S^{\ast}_t \cdot e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t},\ \forall u \geq t$
+- $dS_t = rS_t\,dt + \sigma S_t\,dW^{\ast}_t$
 
-**D:** ⚠️ Quanto vale il lato destro φ^1_t dS_t + φ^2_t dB_t con la strategia (71), nel modello BSM della lezione 13 (formula (72))?
-**R:** Slide 38: «Nel lato destro, sostituendo la strategia (71), si ottiene: RHS = φ^1_t dS_t + φ^2_t dB_t = h_t dS_t + (V∗_t - h_t S∗_t) dB_t utilizzando la relazione riportata nell'espressione (54), i.e.: dB_t = rB_t dt si ottiene: RHS = h_t dS_t + (V_t - h_t S_t) rdt (72)». Il docente: «Nel lato destro sostituiamo la strategia 71», poi con «il processo che definisce il valore finanziario del tempo» l'espressione diventa «ht dst più vt meno ht st rdt» (transcript [00:26:48]–[00:27:29]). ⚠️ Con dB_t = rB_t dt il fattore B_t riporta V∗_t e S∗_t a V_t e S_t.
-**Opzione:** RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V_t - h_t S_t) rdt.
+**D:** ⚠️ Quanto vale il lato destro $\varphi^1_t\,dS_t + \varphi^2_t\,dB_t$ con la strategia (71), nel modello BSM della lezione 13 (formula (72))?
+**R:** Slide 38: «Nel lato destro, sostituendo la strategia (71), si ottiene: $\mathrm{RHS} = \varphi^1_t\,dS_t + \varphi^2_t\,dB_t = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t)\,dB_t$ utilizzando la relazione riportata nell'espressione (54), i.e.: $dB_t = rB_t\,dt$ si ottiene: $\mathrm{RHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$ (72)». Il docente: «Nel lato destro sostituiamo la strategia 71», poi con «il processo che definisce il valore finanziario del tempo» l'espressione diventa «ht dst più vt meno ht st rdt» (transcript [00:26:48]–[00:27:29]). ⚠️ Con $dB_t = rB_t\,dt$ il fattore $B_t$ riporta $V^{\ast}_t$ e $S^{\ast}_t$ a $V_t$ e $S_t$.
+**Opzione:** $\mathrm{RHS} = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t)\,dB_t$; con $dB_t = rB_t\,dt$, $\mathrm{RHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$.
 **Distrattori:**
-- RHS = h_t dS_t + (V∗_t - h_t S∗_t) dB_t; con dB_t = rB_t dt, RHS = h_t dS_t + (V∗_t - h_t S∗_t) rdt.
-- dP∗/dP = ε_t(u): la derivata della misura P∗ rispetto alla misura originaria P è il Doléans esponenziale.
-- La proprietà di Markov: E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), con (W_u - W_t) ~ N(0, u - t) moto browniano standard.
+- $\mathrm{RHS} = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t)\,dB_t$; con $dB_t = rB_t\,dt$, $\mathrm{RHS} = h_t\,dS_t + (V^{\ast}_t - h_t S^{\ast}_t) r\,dt$.
+- $\frac{dP^{\ast}}{dP} = \varepsilon_t(u)$: la derivata della misura $P^{\ast}$ rispetto alla misura originaria $P$ è il Doléans esponenziale.
+- La proprietà di Markov: $E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_t)$, con $(W_u - W_t) \sim N(0, u - t)$ moto browniano standard.
 
-**D:** ⚠️ Da quale scrittura di V_t parte lo studio del lato sinistro dV_t(φ), e con quale regola si sviluppa, nella lezione 13?
-**R:** Slide 39: «Il lato sinistro, dato che V_t = B_t V∗_t si trasforma in: dV_t(φ) = d(B_t V∗_t) La regola di Leibniz si applica al fine di ottenere che:». Slide 40: «LHS = B_t dV∗_t + V∗_t dB_t»; con dB_t = rB_t dt (54), «= B_t dV∗_t + V∗_t rB_t dt»; con la (60) e la definizione di V∗_t, «= B_t φ^1_t dS∗_t + V_t rdt»; con la definizione di S∗_t, «= B_t φ^1_t d(S_t/B_t) + V_t rdt». Il docente: «dato che vt non è altro che bt vt star», «Applichiamo quindi la regola di Leibniz» (transcript [00:27:29]–[00:28:20]). ⚠️ V_t = B_t V∗_t: il valore è il valore scontato moltiplicato per B_t.
-**Opzione:** Da V_t = B_t V∗_t, quindi dV_t(φ) = d(B_t V∗_t); la regola di Leibniz dà LHS = B_t dV∗_t + V∗_t dB_t.
+**D:** ⚠️ Da quale scrittura di $V_t$ parte lo studio del lato sinistro $dV_t(\varphi)$, e con quale regola si sviluppa, nella lezione 13?
+**R:** Slide 39: «Il lato sinistro, dato che $V_t = B_t V^{\ast}_t$ si trasforma in: $dV_t(\varphi) = d(B_t V^{\ast}_t)$ La regola di Leibniz si applica al fine di ottenere che:». Slide 40: «$\mathrm{LHS} = B_t\,dV^{\ast}_t + V^{\ast}_t\,dB_t$»; con $dB_t = rB_t\,dt$ (54), «$= B_t\,dV^{\ast}_t + V^{\ast}_t rB_t\,dt$»; con la (60) e la definizione di $V^{\ast}_t$, «$= B_t \varphi^1_t\,dS^{\ast}_t + V_t r\,dt$»; con la definizione di $S^{\ast}_t$, «$= B_t \varphi^1_t d\left(\frac{S_t}{B_t}\right) + V_t r\,dt$». Il docente: «dato che vt non è altro che bt vt star», «Applichiamo quindi la regola di Leibniz» (transcript [00:27:29]–[00:28:20]). ⚠️ $V_t = B_t V^{\ast}_t$: il valore è il valore scontato moltiplicato per $B_t$.
+**Opzione:** Da $V_t = B_t V^{\ast}_t$, quindi $dV_t(\varphi) = d(B_t V^{\ast}_t)$; la regola di Leibniz dà $\mathrm{LHS} = B_t\,dV^{\ast}_t + V^{\ast}_t\,dB_t$.
 **Distrattori:**
-- Da V_t = V∗_t/B_t, quindi dV_t(φ) = d(V∗_t/B_t); la regola di Leibniz dà LHS = (1/B_t)dV∗_t + V∗_t d(1/B_t).
-- dS∗_t = σS∗_t dW∗_t: sostituendo dW_t = dW∗_t + ((r - μ)/σ)dt, il drift (μ - r)S∗_t dt si elide.
-- ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t)
+- Da $V_t = \frac{V^{\ast}_t}{B_t}$, quindi $dV_t(\varphi) = d\left(\frac{V^{\ast}_t}{B_t}\right)$; la regola di Leibniz dà $\mathrm{LHS} = \frac{1}{B_t}dV^{\ast}_t + V^{\ast}_t d\left(\frac{1}{B_t}\right)$.
+- $dS^{\ast}_t = \sigma S^{\ast}_t\,dW^{\ast}_t$: sostituendo $dW_t = dW^{\ast}_t + \frac{r - \mu}{\sigma}dt$, il drift $(\mu - r)S^{\ast}_t\,dt$ si elide.
+- $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$
 
-**D:** ⚠️ Come si chiude, nella lezione 13, la dimostrazione che la strategia φ_t è autofinanziante?
-**R:** Slide 41: «La regola di Leibniz si applica al fine di ottenere che: = B_t φ^1_t((1/B_t)dS_t + S_t d(1/B_t)) + V_t rdt moltiplicando: = φ^1_t dS_t + φ^1_t S_t B_t(-r(1/B_t)dt) + V_t rdt sostituendo la strategia (71), il lato sinistro si trasforma nella: = h_t dS_t - h_t S_t rdt + V_t rdt quindi: LHS = h_t dS_t + (V_t - h_t S_t) rdt (73)». Slide 42: «Notando che (73) è uguale a (72), si può affermare che la strategia φ_t è autofinanziante. Q.E.D.». Il docente: «Riapplichiamo quindi la regola di Leibniz»; l'espressione, «guarda caso», è uguale «a quella precedente riportata nella 72 e quindi la strategia» è «assolutamente autofinanziante» (transcript [00:28:20]–[00:29:16]). ⚠️ La regola di Leibniz si applica due volte, a d(B_t V∗_t) e a d(S_t/B_t).
-**Opzione:** Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t - h_t S_t) rdt (73), uguale alla (72): la strategia φ_t è autofinanziante.
+**D:** ⚠️ Come si chiude, nella lezione 13, la dimostrazione che la strategia $\varphi_t$ è autofinanziante?
+**R:** Slide 41: «La regola di Leibniz si applica al fine di ottenere che: $= B_t \varphi^1_t\left(\frac{1}{B_t}dS_t + S_t d\left(\frac{1}{B_t}\right)\right) + V_t r\,dt$ moltiplicando: $= \varphi^1_t\,dS_t + \varphi^1_t S_t B_t\left(-r\left(\frac{1}{B_t}\right)\,dt\right) + V_t r\,dt$ sostituendo la strategia (71), il lato sinistro si trasforma nella: $= h_t\,dS_t - h_t S_t r\,dt + V_t r\,dt$ quindi: $\mathrm{LHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$ (73)». Slide 42: «Notando che (73) è uguale a (72), si può affermare che la strategia $\varphi_t$ è autofinanziante. Q.E.D.». Il docente: «Riapplichiamo quindi la regola di Leibniz»; l'espressione, «guarda caso», è uguale «a quella precedente riportata nella 72 e quindi la strategia» è «assolutamente autofinanziante» (transcript [00:28:20]–[00:29:16]). ⚠️ La regola di Leibniz si applica due volte, a $d(B_t V^{\ast}_t)$ e a $d\left(\frac{S_t}{B_t}\right)$.
+**Opzione:** Con la regola di Leibniz su $d\left(\frac{S_t}{B_t}\right)$ il lato sinistro diventa $\mathrm{LHS} = h_t\,dS_t + (V_t - h_t S_t) r\,dt$ (73), uguale alla (72): la strategia $\varphi_t$ è autofinanziante.
 **Distrattori:**
-- Con la regola di Leibniz su d(S_t/B_t) il lato sinistro diventa LHS = h_t dS_t + (V_t + h_t S_t) rdt (73), diverso dalla (72): la strategia φ_t non è autofinanziante.
-- Che E_{p∗}(e^(-(σ²/2)dt + σdW∗_t) | S∗_t) = 1, cioè e^(-(σ²/2)(u - t)) E_{p∗}(e^(σ(W∗_u - W∗_t)) | S∗_t) = 1.
-- W∗_t = W_t - ((r - μ)/σ)t; in termini differenziali dW∗_t = dW_t - ((r - μ)/σ)dt.
+- Con la regola di Leibniz su $d\left(\frac{S_t}{B_t}\right)$ il lato sinistro diventa $\mathrm{LHS} = h_t\,dS_t + (V_t + h_t S_t) r\,dt$ (73), diverso dalla (72): la strategia $\varphi_t$ non è autofinanziante.
+- Che $E_{p^{\ast}}(e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t} \mid S^{\ast}_t) = 1$, cioè $e^{-(\sigma^2/2)(u - t)} E_{p^{\ast}}(e^{\sigma(W^{\ast}_u - W^{\ast}_t)} \mid S^{\ast}_t) = 1$.
+- $W^{\ast}_t = W_t - \frac{r - \mu}{\sigma}t$; in termini differenziali $dW^{\ast}_t = dW_t - \frac{r - \mu}{\sigma}dt$.
 
-**D:** ⚠️ Che cosa vale per il processo scontato S∗ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 1)?
-**R:** «**Ep∗(Su∗|St∗)=St∗**». È il teorema della slide 3, E_{p∗}(S∗_u | S∗_t) = S∗_t con u ≥ t, dimostrato nelle slide 10–12. Il docente: il valore atteso di S∗ al tempo u, «condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente» (transcript [00:00:42]–[00:01:32]). Distrattori del test: «Ep∗(Su∗|St∗)=Su∗» dà come risultato la stessa variabile di cui si prende l'attesa, come se S∗_u fosse già noto al tempo t; «Ep∗(Su∗|St)=Su∗» condiziona a S_t, come la riga della proprietà di Markov della slide 3, E_p(S∗_u | ℑ_t) = E_p(S∗_u | S_t), ma sbaglia il risultato; «Ep∗(St|St)=Su∗» si contraddice da sola, perché S_t è adattato a sé stesso e il suo valore atteso condizionato a S_t è S_t (deduzione, non scritta sulle slide). Il risultato giusto è S∗_t, il valore al tempo precedente.
+**D:** ⚠️ Che cosa vale per il processo scontato $S^{\ast}$ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 1)?
+**R:** «**Ep∗(Su∗|St∗)=St∗**». È il teorema della slide 3, $E_{p^{\ast}}(S^{\ast}_u \mid S^{\ast}_t) = S^{\ast}_t$ con $u \geq t$, dimostrato nelle slide 10–12. Il docente: il valore atteso di $S^{\ast}$ al tempo $u$, «condizionato al valore di S star a T», «altro non è che il valore di S al tempo precedente» (transcript [00:00:42]–[00:01:32]). Distrattori del test: «Ep∗(Su∗|St∗)=Su∗» dà come risultato la stessa variabile di cui si prende l'attesa, come se $S^{\ast}_u$ fosse già noto al tempo $t$; «Ep∗(Su∗|St)=Su∗» condiziona a $S_t$, come la riga della proprietà di Markov della slide 3, $E_p(S^{\ast}_u \mid \Im_t) = E_p(S^{\ast}_u \mid S_t)$, ma sbaglia il risultato; «Ep∗(St|St)=Su∗» si contraddice da sola, perché $S_t$ è adattato a sé stesso e il suo valore atteso condizionato a $S_t$ è $S_t$ (deduzione, non scritta sulle slide). Il risultato giusto è $S^{\ast}_t$, il valore al tempo precedente.
 **Opzione:** Ep∗(Su∗|St∗)=St∗
 **Distrattori:**
 - Ep∗(Su∗|St∗)=Su∗
@@ -4436,7 +4536,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Ep∗(St|St)=Su∗
 
 **D:** ⚠️ Come è definito il Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 2)?
-**R:** «**et [(r-m)/s)Wt] = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]**». Nella resa piatta della piattaforma «et» è ε_t, «m» è μ, «s» è σ e «)2» è il quadrato: è la slide 4, ε_t(u) = ε_t(((r - μ)/σ)W_t) = e^(((r - μ)/σ)W_t - (1/2)((r - μ)/σ)²t). Il docente: «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t» (transcript [00:03:48]). Distrattori del test: tutti cambiano soltanto il termine correttivo, con «+» al posto di «-», con «/» al posto di «-», oppure togliendolo del tutto. ⚠️ Con il meno il valore atteso è 1 (slide 5), la seconda condizione del teorema di Girsanov (slide 7).
+**R:** «**et [(r-m)/s)Wt] = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]**». Nella resa piatta della piattaforma «et» è $\varepsilon_t$, «m» è $\mu$, «s» è $\sigma$ e «)2» è il quadrato: è la slide 4, $\varepsilon_t(u) = \varepsilon_t\left(\frac{r - \mu}{\sigma}W_t\right) = e^{((r - \mu)/\sigma)W_t - \frac{1}{2}((r - \mu)/\sigma)^2 t}$. Il docente: «l'esponenziale di r-mu su sigma vt meno un mezzo r-mu su sigma quadro t» (transcript [00:03:48]). Distrattori del test: tutti cambiano soltanto il termine correttivo, con «+» al posto di «-», con «/» al posto di «-», oppure togliendolo del tutto. ⚠️ Con il meno il valore atteso è 1 (slide 5), la seconda condizione del teorema di Girsanov (slide 7).
 **Opzione:** et [(r-m)/s)Wt] = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]
 **Distrattori:**
 - et [(r-m)/s)Wt] = exp[(r-m)/sWt) + 1/2 (r-m)/s)2 t]
@@ -4444,7 +4544,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - et [(r-m)/s)Wt] = exp[(r-m)/sWt)]
 
 **D:** ⚠️ Quanto vale il valore atteso del Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 3)?
-**R:** «**E{et [(r-m)/s)Wt]} = 1**». È la slide 5: E(ε_t(u)) = e^(-(1/2)((r - μ)/σ)²t) e^((1/2)((r - μ)/σ)²t) = 1, ricavato con la funzione generatrice dei momenti della normale; la slide 7 lo pone come seconda condizione del teorema di Girsanov. Il docente: il valore atteso del doleans esponenziale «non è altro che 1» (transcript [00:05:45]). Distrattori del test: «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]» è la chiave della domanda 2, cioè la definizione di ε_t al posto del suo valore atteso; «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) ]» toglie il termine correttivo e lascia una quantità che dipende da W_t, quindi aleatoria; «E{et [(r-m)/s)Wt]} = - 1/2 (r-m)/s)2 t]» è il solo termine correttivo, una quantità negativa, mentre il valore atteso di un esponenziale è positivo (deduzione, non scritta sulle slide).
+**R:** «**E{et [(r-m)/s)Wt]} = 1**». È la slide 5: $E(\varepsilon_t(u)) = e^{-\frac{1}{2}((r - \mu)/\sigma)^2 t} e^{\frac{1}{2}((r - \mu)/\sigma)^2 t} = 1$, ricavato con la funzione generatrice dei momenti della normale; la slide 7 lo pone come seconda condizione del teorema di Girsanov. Il docente: il valore atteso del doleans esponenziale «non è altro che 1» (transcript [00:05:45]). Distrattori del test: «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]» è la chiave della domanda 2, cioè la definizione di $\varepsilon_t$ al posto del suo valore atteso; «E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) ]» toglie il termine correttivo e lascia una quantità che dipende da $W_t$, quindi aleatoria; «E{et [(r-m)/s)Wt]} = - 1/2 (r-m)/s)2 t]» è il solo termine correttivo, una quantità negativa, mentre il valore atteso di un esponenziale è positivo (deduzione, non scritta sulle slide).
 **Opzione:** E{et [(r-m)/s)Wt]} = 1
 **Distrattori:**
 - E{et [(r-m)/s)Wt]} = exp[(r-m)/sWt) - 1/2 (r-m)/s)2 t]
@@ -4452,15 +4552,15 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - E{et [(r-m)/s)Wt]} = - 1/2 (r-m)/s)2 t]
 
 **D:** ⚠️ Qual è la relazione fra derivata di Radon-Nikodym e Doléans esponenziale nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 4)?
-**R:** «**dP∗/dP={et [(r-m)/s)Wt]}**». È la slide 6, dP∗/dP = ε_t(u), con u_t ≜ ((r - μ)/σ)W_t (slide 4); la slide 7 la scrive per esteso. Il Doléans è valutato in t, non in T. Il docente: la derivata di Radon-Nikodym, il rapporto fra P∗ e la misura originaria P, è «uguale proprio al doleance esponenziale» (transcript [00:06:17]). La piattaforma scrive «Radon-Nykodim». Distrattori del test: «dP∗/dP={et [(r-m)/s)Wt]} = 1» incolla la chiave della domanda 3, ma è il valore atteso di ε_t a valere 1, non la derivata, che dipende da W_t; «dP∗/dP={et [(r-m)/s)}» toglie W_t; «dP∗/dP={et [Wt]}» toglie il coefficiente (r - μ)/σ.
+**R:** «**dP∗/dP={et [(r-m)/s)Wt]}**». È la slide 6, $\frac{dP^{\ast}}{dP} = \varepsilon_t(u)$, con $u_t \triangleq \frac{r - \mu}{\sigma}W_t$ (slide 4); la slide 7 la scrive per esteso. Il Doléans è valutato in $t$, non in $T$. Il docente: la derivata di Radon-Nikodym, il rapporto fra $P^{\ast}$ e la misura originaria $P$, è «uguale proprio al doleance esponenziale» (transcript [00:06:17]). La piattaforma scrive «Radon-Nykodim». Distrattori del test: «dP∗/dP={et [(r-m)/s)Wt]} = 1» incolla la chiave della domanda 3, ma è il valore atteso di $\varepsilon_t$ a valere 1, non la derivata, che dipende da $W_t$; «dP∗/dP={et [(r-m)/s)}» toglie $W_t$; «dP∗/dP={et [Wt]}» toglie il coefficiente $\frac{r - \mu}{\sigma}$.
 **Opzione:** dP∗/dP={et [(r-m)/s)Wt]}
 **Distrattori:**
 - dP∗/dP={et [(r-m)/s)Wt]} = 1
 - dP∗/dP={et [(r-m)/s)}
 - dP∗/dP={et [Wt]}
 
-**D:** ⚠️ Quale SDE governa il processo S sotto la misura di probabilità P∗ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 5)?
-**R:** «**dSt=rStdt+sStWt∗**», la chiave della piattaforma: è la (63) della slide 13, dS_t = rS_t dt + σS_t dW∗_t, con «s» per σ. ⚠️ **Domanda difettosa di resa**: tutte e quattro le opzioni scrivono «Wt∗» invece di dW∗_t, come la domanda 2 del test della lezione 12 scrive W_t per dW_t; la parte identica in tutte non discrimina, e la B resta la sola giusta sul drift e sulla diffusione. Il docente: «dS uguale RS dt più sigma S dW star» (transcript [00:11:28]). Distrattori del test: «dSt=rStdt+StWt∗» perde σ; «dSt=StWt∗» perde il drift e σ; «dSt=rStdt-sStWt∗» inverte il segno della diffusione, mentre la slide scrive +σ.
+**D:** ⚠️ Quale SDE governa il processo $S$ sotto la misura di probabilità $P^{\ast}$ nel modello BSM derivato tramite il metodo della martingala, secondo il test della lezione 13 (domanda 5)?
+**R:** «**dSt=rStdt+sStWt∗**», la chiave della piattaforma: è la (63) della slide 13, $dS_t = rS_t\,dt + \sigma S_t\,dW^{\ast}_t$, con «s» per $\sigma$. ⚠️ **Domanda difettosa di resa**: tutte e quattro le opzioni scrivono «Wt∗» invece di $dW^{\ast}_t$, come la domanda 2 del test della lezione 12 scrive $W_t$ per $dW_t$; la parte identica in tutte non discrimina, e la B resta la sola giusta sul drift e sulla diffusione. Il docente: «dS uguale RS dt più sigma S dW star» (transcript [00:11:28]). Distrattori del test: «dSt=rStdt+StWt∗» perde $\sigma$; «dSt=StWt∗» perde il drift e $\sigma$; «dSt=rStdt-sStWt∗» inverte il segno della diffusione, mentre la slide scrive $+\sigma$.
 **Opzione:** dSt=rStdt+sStWt∗
 **Distrattori:**
 - dSt=rStdt+StWt∗
