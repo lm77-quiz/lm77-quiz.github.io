@@ -17,6 +17,21 @@
 //
 // Nessuno dei due entra nell'`id` né nel `contentHash`: aggiungerli a una card
 // esistente non deve orfanare lo storico degli errori.
+//
+// Alias d'identità. Riscrivere la **D:** o la **R:** di una card ne cambia id
+// e contentHash, e lo storico la perderebbe. La conversione delle formule in
+// LaTeX lo fa per centinaia di card senza cambiarne il contenuto, quindi
+// lascia in testa al file un blocco che ridà a ogni card convertita la sua
+// identità di prima:
+//
+//   <!-- alias-identità: … (una riga di spiegazione, libera)
+//   L15/f-<id calcolato> f-<id di prima> <contentHash calcolato> <contentHash di prima>
+//   -->
+//
+// L'id di prima vale finché la domanda resta quella convertita (la chiave è
+// l'id calcolato); il contentHash di prima solo finché anche la risposta
+// resta quella: una correzione vera, fatta dopo, deve continuare a vedersi.
+// Lo scrive tools/quiz/verifica/latex-lezione.mjs, mai a mano.
 
 import { stableHash } from './engine.js';
 
@@ -31,6 +46,8 @@ const RE_BULLET = /^[-*]\s+(.*)$/;
 // card per domanda (applica-distrattori) la normalizzi allo stesso modo.
 export const RE_RISK = /^(\u26A0\uFE0F?|\u{1F6A8})\s*/u;
 const RE_EMPTY_FILE = /_Ancora vuoto/;
+const RE_ALIAS_INIZIO = /^<!--\s*alias-identità(?=[\s:]|$)/;
+const RE_ALIAS_RIGA = /^(L\d+\/f-[0-9a-z]+(?:-\d+)?)\s+(f-[0-9a-z]+(?:-\d+)?)\s+([0-9a-z]+)\s+([0-9a-z]+)$/;
 
 /** Numero di distrattori che rende una card giocabile a risposta multipla. */
 export const MIN_DISTRACTORS = 2;
@@ -53,6 +70,7 @@ export function parseFlashcards(text, opts = {}) {
   }
 
   const lines = source.split(/\r?\n/);
+  const alias = leggiAlias(lines, warnings);
   let lesson = null;
   let fromQuizSection = false;
   let pending = null; // {qLines, aLines, oLines, dLines, state, span}
@@ -63,7 +81,7 @@ export function parseFlashcards(text, opts = {}) {
   const flush = (fine) => {
     if (!pending) return;
     pending.span.end = fine;
-    const card = buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds);
+    const card = buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds, alias);
     if (card) cards.push(card);
     pending = null;
   };
@@ -166,13 +184,59 @@ export function parseFlashcards(text, opts = {}) {
     const l = lessons.find((x) => x.number === c.lesson);
     if (l) l.count += 1;
   }
+  for (const [chiave, a] of alias) {
+    if (!a.usato) warnings.push({ message: `alias-identità senza card: ${chiave} (la domanda è cambiata dopo la conversione?)` });
+  }
 
   return { stub: cards.length === 0, exam, lessons, cards, warnings };
 }
 
 // ---------------------------------------------------------------------------
 
-function buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds) {
+/** Il contentHash di prima, se la card convertita non è più cambiata. */
+function contentHashConAlias(calcolato, voceAlias) {
+  return voceAlias && voceAlias.usato && voceAlias.daContentHash === calcolato ? voceAlias.contentHash : calcolato;
+}
+
+/**
+ * Legge il blocco alias-identità e ne svuota le righe, così il ciclo
+ * principale non le vede (gli indici di riga restano quelli del file: li usa
+ * chi riscrive il blocco distrattori).
+ * @returns {Map<string, {id: string, daContentHash: string, contentHash: string, usato: boolean}>}
+ */
+function leggiAlias(lines, warnings) {
+  const alias = new Map();
+  const inizio = lines.findIndex((l) => RE_ALIAS_INIZIO.test(l.trim()));
+  if (inizio < 0) return alias;
+  // Il blocco si chiude sulla prima riga che contiene «-->», come un commento
+  // HTML qualsiasi (e come lo legge md-doc.js), anche sulla riga d'apertura.
+  // Senza chiusura si scarta solo la riga d'apertura: svuotare fino in fondo
+  // farebbe sparire in silenzio tutte le card che seguono.
+  const voci = [];
+  let fine = -1;
+  for (let i = inizio; i < lines.length; i++) {
+    const riga = i === inizio ? lines[i].trim().replace(RE_ALIAS_INIZIO, '') : lines[i].trim();
+    const chiude = riga.indexOf('-->');
+    if (i > inizio) voci.push(chiude >= 0 ? riga.slice(0, chiude).trim() : riga);
+    if (chiude >= 0) { fine = i; break; }
+  }
+  if (fine < 0) {
+    warnings.push({ message: 'blocco alias-identità senza «-->» di chiusura: ignorato' });
+    lines[inizio] = '';
+    return alias;
+  }
+  for (const riga of voci) {
+    if (!riga) continue;
+    const m = riga.match(RE_ALIAS_RIGA);
+    if (!m) { warnings.push({ message: `riga alias-identità malformata: "${truncate(riga)}"` }); continue; }
+    if (alias.has(m[1])) { warnings.push({ message: `alias-identità ripetuto: ${m[1]}` }); continue; }
+    alias.set(m[1], { id: m[2], daContentHash: m[3], contentHash: m[4], usato: false });
+  }
+  for (let k = inizio; k <= fine; k++) lines[k] = '';
+  return alias;
+}
+
+function buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds, alias) {
   const questionRaw = pending.qLines.join(' ').replace(/\s+/g, ' ').trim();
   const answer = pending.aLines.join(' ').replace(/\s+/g, ' ').trim();
 
@@ -198,6 +262,20 @@ function buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds) {
     let n = 2;
     while (seenIds.has(`${id}-${n}`)) n++;
     id = `${id}-${n}`;
+  }
+  // L'alias ridà l'id di prima a una card convertita (vedi in testa al file).
+  // Anche l'id calcolato resta fra i visti: una seconda card con la stessa
+  // domanda convertita deve prendere il suo `-2`, come senza alias.
+  const voceAlias = alias.get(id.slice(exam.length + 1));
+  if (voceAlias && !voceAlias.usato) {
+    const prima = `${exam}/L${lesson.number}/${voceAlias.id}`;
+    if (seenIds.has(prima)) {
+      warnings.push({ message: `alias-identità in conflitto con un'altra card della lezione ${lesson.number}: ${voceAlias.id}` });
+    } else {
+      seenIds.add(id);
+      id = prima;
+      voceAlias.usato = true;
+    }
   }
   seenIds.add(id);
 
@@ -227,7 +305,7 @@ function buildCard(pending, lesson, fromQuizSection, exam, warnings, seenIds) {
     span: { ...pending.span },
     // NON include opzione e distrattori: aggiungerli a una card già in
     // archivio non deve farla risultare "cambiata" nello storico errori.
-    contentHash: stableHash(`${key}||${normalizeForId(answer)}`),
+    contentHash: contentHashConAlias(stableHash(`${key}||${normalizeForId(answer)}`), voceAlias),
   };
 }
 

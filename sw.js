@@ -17,7 +17,7 @@
 // se il service worker del repo privato finisse registrato per sbaglio, si
 // disinstalla da solo invece di servire un guscio che non gli appartiene.
 
-const VERSIONE = '1778cc7545fb';
+const VERSIONE = 'f9716a0f48b2';
 const GUSCIO = [
   "./",
   "./index.html",
@@ -32,6 +32,7 @@ const GUSCIO = [
   "./tools/quiz/js/discovery.js",
   "./tools/quiz/js/dom.js",
   "./tools/quiz/js/engine.js",
+  "./tools/quiz/js/latex-testo.js",
   "./tools/quiz/js/md-doc.js",
   "./tools/quiz/js/md-inline.js",
   "./tools/quiz/js/md-page.js",
@@ -44,7 +45,30 @@ const GUSCIO = [
   "./tools/quiz/js/screens/results.js",
   "./tools/quiz/js/storage.js",
   "./tools/quiz/js/sync.js",
-  "./tools/quiz/manifest.webmanifest"
+  "./tools/quiz/manifest.webmanifest",
+  "./tools/quiz/vendor/katex/LICENSE",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_AMS-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Caligraphic-Bold.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Caligraphic-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Fraktur-Bold.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Fraktur-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Main-Bold.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Main-BoldItalic.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Main-Italic.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Main-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Math-BoldItalic.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Math-Italic.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_SansSerif-Bold.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_SansSerif-Italic.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_SansSerif-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Script-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Size1-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Size2-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Size3-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Size4-Regular.woff2",
+  "./tools/quiz/vendor/katex/fonts/KaTeX_Typewriter-Regular.woff2",
+  "./tools/quiz/vendor/katex/katex.js",
+  "./tools/quiz/vendor/katex/katex.min.css"
 ];
 const DATI = [
   "./tools/quiz/exams.json",

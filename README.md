@@ -41,8 +41,9 @@ gratuito e senza pubblicità.
 
 ## Licenza
 
-Il codice del simulatore è distribuito con licenza BSD 3-Clause. I contenuti delle flashcard
-sono elaborazioni personali dell'autore.
+Il codice del simulatore è distribuito con licenza BSD 3-Clause. Le formule sono rese con
+[KaTeX](https://katex.org/) (licenza MIT, testo in `tools/quiz/vendor/katex/LICENSE`). I contenuti
+delle flashcard sono elaborazioni personali dell'autore.
 
 ---
 

@@ -3,6 +3,12 @@
 :root {
   color-scheme: light dark;
 
+  /* Il carattere del testo e la scala di KaTeX rispetto al testo: li usano
+     anche la punteggiatura dopo una formula (.formula-dopo), che deve tornare
+     identica al testo intorno. */
+  --font-testo: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --scala-katex: 1.08;
+
   --bg: #f6f7f9;
   --surface: #ffffff;
   --surface-2: #eef0f4;
@@ -55,7 +61,7 @@ body {
   padding: 0 0 3rem;
   background: var(--bg);
   color: var(--text);
-  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  font: 16px/1.55 var(--font-testo);
   -webkit-text-size-adjust: 100%;
 }
 
@@ -450,4 +456,66 @@ details summary { cursor: pointer; }
 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
+}
+
+/* --- formule (KaTeX) ------------------------------------------------------
+   KaTeX va a capo solo fra gli operatori del livello più esterno: un gruppo
+   lungo (una frazione con le sommatorie, un esponente intero) è un blocco
+   unico. Sul telefono quel blocco scorre in orizzontale DENTRO il suo
+   contenitore invece di allargare la pagina. Il colore lo eredita
+   (currentColor), quindi il tema scuro non chiede niente. */
+.katex { font-size: calc(var(--scala-katex) * 1em); }
+/* Una riga con una frazione impilata è alta quanto la frazione, senza
+   interlinea: quando una formula lunga va a capo, i limiti di ∑ di una riga
+   toccavano il numeratore della riga sotto (lezione 27, la catena del R²).
+   Un margine sui pezzi della formula che contengono una frazione separa le
+   righe; le formule senza frazioni non cambiano. */
+/* Solo inline (una formula in display non va mai a capo) e non per le
+   frazioni negli esponenti. */
+:not(.katex-display) > .katex > .katex-html > .katex-base:has(.mfrac:not(.msupsub .mfrac)) { margin-block: .25em; }
+/* La punteggiatura dopo una formula sta nel suo ultimo pezzo (vedi
+   ripristinaFormule() in md-inline.js): torna al carattere, al corpo, al peso
+   e al corsivo del testo intorno, che KaTeX azzera. Peso e corsivo passano da
+   variabili, impostate dove il testo li cambia. Non eredita la sottolineatura
+   di un link. Non si seleziona: la copia per il lettore di schermo, subito
+   dopo la formula, è quella che finisce in un copia-incolla. */
+.katex .formula-dopo {
+  font-family: var(--font-testo); font-size: calc(1em / var(--scala-katex));
+  font-weight: var(--peso-testo, 400); font-style: var(--stile-testo, normal);
+  user-select: none; -webkit-user-select: none;
+}
+h1, h2, h3, h4, h5, h6, strong, b { --peso-testo: 700; }
+.question-text, .md-table th { --peso-testo: 600; }
+:is(h1, h2, h3, h4, h5, h6, .question-text, .md-table th) :is(strong, b) { --peso-testo: 900; }
+em, i { --stile-testo: italic; }
+.katex-display { margin: .6rem 0; padding: .15rem 0; overflow-x: auto; overflow-y: hidden; }
+/* Nel quiz lo scorrimento sta sempre sui contenitori del testo: lì non ci
+   sono link, e l'anello di focus dei bottoni sta sul bottone, fuori.
+   Nel wiki solo dove c'è una formula (:has), perché un contenitore che scorre
+   taglia l'anello di focus dei link. Mai sul <li>: taglierebbe anche il
+   pallino o il numero, che stanno fuori dal suo riquadro; scorre lo span che
+   porta il testo della voce. Un browser senza :has non fa scorrere nulla, e
+   una formula molto lunga allarga la pagina: si degrada, non si rompe. */
+/* Due regole: un browser che non conosce :has scarta l'intera lista di
+   selettori, e il quiz perderebbe anche lo scorrimento che non ne dipende. */
+.question-text, .option-text, .answer { overflow-x: auto; overflow-y: hidden; }
+.md-doc p:has(.katex), .md-list > li > span:has(.katex), .md-table td:has(.katex), .md-table th:has(.katex),
+.explanation:has(.katex), .banner-alarm:has(.katex), .result-card summary > span:has(.katex),
+.suggest li > :is(span, div):has(.katex), .excluded-list li > span:has(.katex) {
+  overflow-x: auto; overflow-y: hidden;
+}
+.md-list > li > span:has(.katex), .suggest li > span:has(.katex), .excluded-list li > span:has(.katex) { display: block; }
+/* Nella riga flessibile del riepilogo lo span deve potersi stringere. */
+.result-card summary > span:has(.katex) { min-width: 0; }
+/* Le frazioni a grandezza piena sono alte, e KaTeX stima per difetto radici
+   e accenti: senza un filo di spazio `overflow-y: hidden` ne taglierebbe il
+   bordo sulla prima o sull'ultima riga. Sulle opzioni sempre, con o senza
+   formula: un'opzione scostata dalle altre sarebbe un indizio di forma.
+   Altrove solo dove c'è una formula e il contenitore non ha già un padding
+   (`.answer`, le celle delle tabelle e i banner ne hanno di più). */
+.option-text { padding-block: .15rem; }
+.question-text:has(.katex), .md-doc p:has(.katex), .md-list > li > span:has(.katex),
+.explanation:has(.katex), .result-card summary > span:has(.katex),
+.suggest li > :is(span, div):has(.katex), .excluded-list li > span:has(.katex) {
+  padding-block: .15rem;
 }

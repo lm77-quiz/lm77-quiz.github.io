@@ -4,6 +4,8 @@
 // Tutte le funzioni che usano casualità accettano un `rng` iniettabile
 // (default Math.random) così da essere testabili in modo deterministico.
 
+import { canonEquivalenza, haFormule } from './latex-testo.js';
+
 /** Hash stabile a 32 bit (FNV-1a) in base36. Usato per id e contentHash. */
 export function stableHash(input) {
   const s = String(input === null || input === undefined ? '' : input);
@@ -662,7 +664,12 @@ export function rebuildAttempt(attempt, { questions = [], cards = [] } = {}) {
     }
 
     const q = qById.get(it.id);
-    if (!q || (!!it.text && it.text !== q.text)) {
+    // Stesso testo a meno della notazione delle formule (una lezione
+    // convertita in LaTeX dopo la sessione): è la stessa domanda. Solo se c'è
+    // una formula: la forma canonica ignora spazi e parentesi, e su un testo
+    // qualsiasi scambierebbe «Quale (A) è vera?» per «Quale A è vera?».
+    const convertita = (a, b) => (haFormule(a) || haFormule(b)) && canonEquivalenza(a) === canonEquivalenza(b);
+    if (!q || (!!it.text && it.text !== q.text && !convertita(it.text, q.text))) {
       if (correct) platformCorrect += 1;
       orphan('question', q ? 'sostituita' : 'mancante');
       continue;
