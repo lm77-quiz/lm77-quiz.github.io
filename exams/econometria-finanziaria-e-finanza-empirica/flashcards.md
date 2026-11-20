@@ -663,6 +663,227 @@ L20/f-1r2er2y f-1dp2e7q 0cfpw5k 1uzp7i6
 L20/f-1thvuw1 f-1o5v52v 008wh67 0synnad
 L20/f-1wbt6tf f-0oo3sid 0gmedct 02w23wb
 L20/f-1yx98ch f-0rtcf45 0wycrt2 12mp8ii
+L21/f-01hjcji f-1278deg 0786yxd 0hkxwcv
+L21/f-06c4mju f-1fj6cto 1lwk8lv 0wo60l9
+L21/f-08jmo9p f-044fzjj 07danew 0m1z1bm
+L21/f-09sym4i f-09sym4i 0bxfm9v 1kt9iei
+L21/f-0a8obz8 f-19svkfe 1wteqto 1rila2k
+L21/f-0e3wbjh f-0vgxerz 0x72gyn 1blizet
+L21/f-0h4c4c4 f-1jvpvpf 0klmi8u 0uml0sm
+L21/f-0htsro4 f-14t49ro 04m5361 0nnj8g5
+L21/f-0k63gxz f-158ei3k 0lng2ox 1rayvaj
+L21/f-0lw7ibs f-0lw7ibs 0wln3li 02bzl1e
+L21/f-0oimcq4 f-1d60goc 019rpbl 1nag2rf
+L21/f-0t01c1g f-19asqke 09bobiw 0kh6922
+L21/f-0wcda8y f-0awihey 1kdgear 1a9l9gw
+L21/f-0ynkb4m f-1b6x9yc 1xj5a6c 0i5npea
+L21/f-10203d7 f-12ayr62 0pnbh6v 0i1friu
+L21/f-18s82kh f-06o2zd3 0zwiceq 0b36hgn
+L21/f-191idiu f-0f7kmj4 0hs7opf 1byqms5
+L21/f-19szgeb f-19szgeb 03f5oa9 0zu9wi4
+L21/f-1azp2w4 f-18c3d0u 04ej07x 0q9ov1t
+L21/f-1bbb5ux f-1bbb5ux 0mbg8tq 00hv0is
+L21/f-1ddndsb f-1kf66r1 1skhl58 1sabkva
+L21/f-1gdojjb f-11ndgvm 09a5q2d 0ooynex
+L21/f-1grgvpp f-03h17fo 0cbirxh 0iu2wna
+L21/f-1h2ojo4 f-1xurf6o 07lf57j 000pzxv
+L21/f-1h892mt f-1tr3vfk 09fbu4j 1xyh11t
+L21/f-1k2nwtq f-0r8radn 1079dod 1qjql7a
+L21/f-1k4to0f f-0g131yl 0lpm7n5 0ten7y0
+L21/f-1ksyqz1 f-1ksyqz1 0j6dqt1 1lrwzfk
+L21/f-1ncmhqu f-0ucobd0 02klisv 10u65y1
+L21/f-1o8mw87 f-1o8mw87 1gk6t1j 12txwo7
+L21/f-1rzswbr f-1cd2klt 01uknwr 0x3b1lj
+L21/f-1sa2fmp f-0e60f75 19xggwm 1l2be9o
+L21/f-1xg92n5 f-0edor55 1ccr8cj 1d26o6z
+L22/f-00ztpio f-010q6kg 1cn0x16 1tzfgra
+L22/f-014y4xw f-1sex36q 0wxva3s 1d6c8vb
+L22/f-05fu2q1 f-188r3nw 0qtr2zc 0b7becz
+L22/f-06fs14q f-1pei83n 0qqf2hz 1qloqvr
+L22/f-09o4lvg f-1k8jo1u 1wrogkv 0g5sewf
+L22/f-0cutjaa f-1y6r5br 0at8ov5 0bvgra0
+L22/f-0dj5uk8 f-1ps9y80 0ohrhd8 0sb4kj8
+L22/f-0hfbwd1 f-1e7yyhm 0hfnyrz 03krtjb
+L22/f-0ihptzd f-18y5j0h 0h1lpli 0alz1sw
+L22/f-0k6tki0 f-0p1m3ko 1nohgbk 047qoqt
+L22/f-0lb4v2v f-00jlalb 1rb9knh 1yf8imt
+L22/f-0lsewh6 f-1os26lj 0rf0pdt 0iy4axl
+L22/f-0mnz1qf f-1wqu9vd 0krh7y9 1sps6ce
+L22/f-0n4iezz f-1aibfw4 1bqia44 1akfi2q
+L22/f-0otvwxy f-1ubu2xl 0nlb259 1uh5598
+L22/f-0vm4qee f-1rcjvgb 10ah0pu 02k8w8n
+L22/f-0wltl85 f-0wltl85 1yv6qxy 0lt9rkv
+L22/f-0yvm9dj f-1r1r165 1q9f6fc 1yozqyg
+L22/f-157kcgy f-157kcgy 1e7akq7 031euvp
+L22/f-1c3mmqy f-1c3mmqy 1y14qb1 1vo175o
+L22/f-1cw2778 f-0jiag9j 161oqfx 0q2bxed
+L22/f-1gp1f8y f-1f6hz0y 17oe13m 0oh0pg5
+L22/f-1gxwyxt f-08plaev 160a6l2 1bbvq9g
+L22/f-1hoesew f-00k4yiu 1gc3v7m 18molej
+L22/f-1imgqhc f-0pes8e1 0xxljaz 0ejscfn
+L22/f-1jxihr9 f-0guxzuf 09p3exk 0x3r5tk
+L22/f-1n0sle0 f-01s28gd 0hb414p 0le82x2
+L22/f-1orob9b f-08pwgl0 0kd6nf0 0xu8sry
+L22/f-1q1bhgz f-1vdhqos 03uclw7 0qgmpzs
+L22/f-1qgq98z f-0zpd1lp 16hi22o 1slwkmy
+L22/f-1vffbe5 f-0g88pay 1ov7dde 054jx5j
+L22/f-1x3azsx f-1x3azsx 0dvkjfz 1yudsyk
+L23/f-0001ok5 f-02xgu1w 0clido1 1rqlj6j
+L23/f-0560nlh f-0560nlh 0s86xha 0hw09d5
+L23/f-09bm0t1 f-1dgdy8f 1614gnw 11jlnqo
+L23/f-0b9knxx f-0igjhnn 1t319hz 0bknmuf
+L23/f-0bvnfn3 f-1wsnp0p 1r79gcz 00wxer3
+L23/f-0dmo763 f-06exjt5 0kivsl4 1yks8mk
+L23/f-0fbembw f-1t9bssp 09to9p4 1q3csm6
+L23/f-0fom11g f-03srqhu 1o4fdwe 1h4pjf0
+L23/f-0jjqptl f-00fzr5b 1heaqtt 1k9otw6
+L23/f-0o998y5 f-0o998y5 0mzqhdt 1kaphi5
+L23/f-0qcn050 f-1c5fot7 0n935ab 1srq9jb
+L23/f-0rzzty5 f-06gwkro 0sxugje 0flvdio
+L23/f-0tdre2j f-0tdre2j 0ftly9k 0wxhcyb
+L23/f-0u15020 f-0u15020 1738sle 11imppw
+L23/f-0uplmti f-0uplmti 0r5jwqj 0t9fpz1
+L23/f-0vkyjr9 f-0vkyjr9 1njv30m 1w9piik
+L23/f-0xfvxkk f-0xfvxkk 0xahnp9 0mzyc8v
+L23/f-0zc8z3u f-0zc8z3u 1iwvrta 1rtnpao
+L23/f-1271zbh f-1271zbh 1psvv75 10uhfol
+L23/f-12u9w3i f-07q22ne 1pab2dg 0ikwqdw
+L23/f-141lrqt f-0tzs4xf 1cbr89c 1rxxmyg
+L23/f-14bdngk f-0wqz63g 1huvlo5 1o8p0sz
+L23/f-15av4ux f-15av4ux 0sac35s 0omngh2
+L23/f-1aw82wt f-1aw82wt 1k34iuj 06rejkj
+L23/f-1b6cm7z f-0em1y3h 0sf26te 1r2g16s
+L23/f-1dterjf f-1dterjf 1k2m8t5 14098tp
+L23/f-1dtpe2a f-0j66hi3 0oye5ls 16ifd2x
+L23/f-1ggm0nn f-0jk0g4w 16o8yxb 1vdl9nv
+L23/f-1jn5ov4 f-0eseeau 0bhiuw3 1q47ft9
+L23/f-1k4mi5t f-0l3znl7 0fc5r3p 1jmtgt8
+L23/f-1p6uee0 f-0r2maqu 148929e 1jgev4m
+L23/f-1r75a0a f-1r75a0a 1ldwqde 1fx5g8e
+L23/f-1rqmn0k f-0j0mili 0hz28he 1k7yawl
+L23/f-1s9ukip f-1s9ukip 1dwxlx8 1teo5t9
+L23/f-1tpo20a f-1us71qh 0nxhblv 1lqsa64
+L23/f-1u3jqid f-1t0zrb9 1wxncow 1c5ys8c
+L23/f-1uqii6k f-1uqii6k 1sdwxo3 1bp2fs2
+L23/f-1vc90vw f-0mgow9a 0077wcc 0xtfqyt
+L23/f-1w7pazv f-05fa4mf 1j3y7xo 15dz8nj
+L24/f-01bukrv f-01bukrv 0683tvv 1cgl5b4
+L24/f-01ufk4v f-01ufk4v 0raw3y1 0ewue9b
+L24/f-027q9os f-0fp6l1s 03k1bff 1v8nb7z
+L24/f-05p3dm3 f-1sg8dmh 16jj6dx 09j3ksh
+L24/f-05zou1e f-1teibzs 1an5yl0 17kc22v
+L24/f-06nbavc f-1by9rgu 0do12qi 1ced0yw
+L24/f-09p2b4y f-09p2b4y 0y0sq8c 0sasjo0
+L24/f-0a6v2yg f-0a6v2yg 1mdc73p 1v3dfjr
+L24/f-0av33ig f-0av33ig 05b0t9k 0zg5wpw
+L24/f-0b5wy4i f-0b5wy4i 18dy099 0lbrylh
+L24/f-0e6z52t f-0ctwmk3 1635p98 1cfa37v
+L24/f-0ffewq5 f-0vqeip9 0eyct3n 169q5mh
+L24/f-0hjsfsa f-0hjsfsa 0uszo5p 1qht54d
+L24/f-0j5vphk f-0j5vphk 0ltw2r8 0yl57dp
+L24/f-0joac3o f-1f59vbv 1ge805b 00behva
+L24/f-0lbz6pt f-0ttaf5x 0oythye 0ql74gc
+L24/f-0m0ycq1 f-0aocslj 0qlxu92 1dle05q
+L24/f-0nb1les f-0hmd7un 0yler8y 0ggvuvs
+L24/f-0q9d9jg f-0rcos1s 0g1znqy 1jdtdbx
+L24/f-0tsex1e f-0tsex1e 191g45f 0aqqgxb
+L24/f-0u2sla5 f-0u2sla5 171vlj8 1vzve1l
+L24/f-0vkqjhq f-1rudeqy 0f3mi2q 03lgajq
+L24/f-0vqm1q8 f-080jrua 06rrrok 0yrk6kw
+L24/f-10qm425 f-10qm425 1vsswbq 1r7rs9p
+L24/f-12k20xp f-12k20xp 0yul8va 0dmaqx0
+L24/f-14vcinx f-14vcinx 0sieljz 1336lu8
+L24/f-14xkt3c f-14xkt3c 144rrfe 1gfqm0e
+L24/f-16cj8kj f-0mg0f5l 1pg8rlo 0wnw8kb
+L24/f-17cnwo0 f-0e5pos6 1t6fgab 1p16eyj
+L24/f-1aktlnn f-0euphbs 1fv5grh 0fpfdcq
+L24/f-1chs6xj f-1chs6xj 0z75ywc 0ksydur
+L24/f-1dbcemv f-1dbcemv 1bgsc05 0mgott9
+L24/f-1h59sky f-0dwgn10 14lnp7o 1tzg4bx
+L24/f-1id3xdx f-0hpnj4f 16tvkcr 1voz56o
+L24/f-1inos4l f-177a6j1 1gyirh9 06njwb1
+L24/f-1k88tna f-1k88tna 12d633k 00r5ney
+L24/f-1silddr f-1silddr 1llae90 1x47xln
+L24/f-1x63nlj f-0oj6fhd 12vkx5v 0of8uss
+L25/f-00r4a0p f-0ifakh6 1s4u87t 1o7odov
+L25/f-00vjubv f-00vjubv 07d12ff 1klxvwq
+L25/f-01wk7ve f-0jd0ypj 0d76eml 0ader3j
+L25/f-0260rg9 f-0yzxsbz 0l9rxv9 198b4iv
+L25/f-027hb37 f-016tzbd 1d22s0w 02fm49d
+L25/f-02pmc9j f-02pmc9j 0m2e44d 00y7cxn
+L25/f-02v1t4w f-02v1t4w 1lkf954 0bdm63u
+L25/f-05p9n9v f-0ugpq2c 15uq9qa 0n5ztvc
+L25/f-06mcf6k f-06mcf6k 0keoa7b 025vwin
+L25/f-06xr597 f-0ofah0o 11591dv 07o5uc0
+L25/f-0ar932s f-0ar932s 0cvj3sl 0s49ig0
+L25/f-0ckuf4u f-0u858jz 1ve88qk 11jk0u1
+L25/f-0drr9xg f-1r61nmp 102eiv1 1bwn4k7
+L25/f-0f8yslt f-0f8yslt 1yt1qvu 1wqobzk
+L25/f-0jg3o0c f-0jg3o0c 07ey0mt 1o63fg4
+L25/f-0jxzet6 f-0qqs1eg 0uwoa76 08ssqe6
+L25/f-0ka6bat f-0ka6bat 0qve53i 1jqzqkk
+L25/f-0n0p1lv f-1gkufcj 10z5qt9 1o1ggiw
+L25/f-0tbzfwb f-1yh6lue 0c1drw7 0cn65do
+L25/f-0v8t1x2 f-0o03td9 03ettzh 07q6ew7
+L25/f-0vb1ujq f-1x667x2 1uoyi4d 1whj8md
+L25/f-0x68t53 f-0yugphq 05oerix 14sgwun
+L25/f-0yufgpx f-0yufgpx 0jey0tg 0ruyeib
+L25/f-0z4qk77 f-12xyfap 0oor8h9 06pug4q
+L25/f-1118hlp f-1rvphjl 05zv2cc 1v0nzto
+L25/f-12bw6cg f-1cacupf 0kbvbom 1osjscu
+L25/f-12j3gsd f-1cxg0qi 0ueowy7 1mby79y
+L25/f-132w2rm f-01q1wng 0syr2li 0na38kr
+L25/f-15beup4 f-0u53zsb 07eo68y 06r24b9
+L25/f-1g4bqlp f-1g4bqlp 19hbmvl 105uvgt
+L25/f-1gcsbqs f-12gniqw 0hwpez4 1l6rafr
+L25/f-1is52vq f-1is52vq 1xc3391 08rjm5f
+L25/f-1ja7j5l f-1f5qrly 0f8b41v 0d9avz7
+L25/f-1kqvgqt f-00c913d 1is3dcg 11xrhgu
+L25/f-1luq9ml f-1s4udpn 0utvd2f 16vudn3
+L25/f-1n9tcia f-1n9tcia 1l63d4b 03wam2l
+L25/f-1p3pklu f-00z9b6x 1g0843m 11pq55c
+L25/f-1rju9n0 f-0rj0k77 0ggzac8 1cdd7um
+L25/f-1thg2zm f-1ao5a1z 19055f2 05xu28f
+L26/f-00swpz2 f-00swpz2 0nxcmvj 076ostj
+L26/f-010xikc f-0irtq56 02luap3 00gvzlf
+L26/f-06bl9nq f-06bl9nq 0uha1lx 0vch08o
+L26/f-0710j1r f-0710j1r 1xb8ug7 0e8l3aj
+L26/f-07jqvme f-07jqvme 1uujhw0 1uvgsi8
+L26/f-07lzxt5 f-07lzxt5 0mqeixy 1mebgpb
+L26/f-07wmfst f-07wmfst 0z6mxye 0rvy6ib
+L26/f-09sw9g4 f-0gorw6o 197dd3k 0q2uotm
+L26/f-0aw0w2i f-18fqi1e 1ix0f78 0vjhzae
+L26/f-0c49jja f-1w5pvih 0kwphur 1uwuzpj
+L26/f-0e2j0co f-1kvxcjt 03v830z 0clp5hl
+L26/f-0eac2xn f-0eac2xn 1ifn1fy 1wkrw6b
+L26/f-0gh04m5 f-10k984i 0kmklyd 13z17bv
+L26/f-0lp6m54 f-16nglcu 192vohz 1eximt2
+L26/f-0lxo6e7 f-0lxo6e7 0n7dacf 0y0bg3u
+L26/f-0n7fhml f-0k2w89w 0tbx85t 0xvelcd
+L26/f-0nx6izt f-1ig1wgn 0smmer5 1e324kt
+L26/f-0pbateb f-11hp3dj 184fwen 02uaef5
+L26/f-0ppxq7z f-0ppxq7z 0ryc0wb 0q9t70d
+L26/f-0q6xbgt f-0q6xbgt 099brfa 09ai916
+L26/f-0tkn357 f-1qiwqkf 0hhnnsl 15iwgcd
+L26/f-10spglj f-05o51xi 0r0mcgb 0igw4sk
+L26/f-11ze4b8 f-11ze4b8 03vmtvm 0vv2jj9
+L26/f-14p4iuy f-0rzojcx 15byhud 1vo2ubx
+L26/f-16qok5a f-03ea81j 0oj3ati 1mntqfq
+L26/f-16xu756 f-16xu756 1mw0jbw 1pfgd3f
+L26/f-17a21pf f-17a21pf 1siu1bf 1c859px
+L26/f-17cxvj5 f-0s6ou91 0w0gma9 1x88ghr
+L26/f-18irecq f-1gs7u12 0r0gwwa 0b9eqou
+L26/f-1ej5s17 f-1ej5s17 16ovoz0 0btaire
+L26/f-1g8km0n f-0f4x7yx 0lhmyj5 0l7nizv
+L26/f-1j3nso3 f-1shufih 1uvg9s2 0zi14e6
+L26/f-1m2jaaq f-1m2jaaq 127h2bs 1j6ffph
+L26/f-1tc0k72 f-18i8op3 0ek4p1d 0dk538r
+L26/f-1uq2kk6 f-1uq2kk6 1nu27yy 0ets9a2
+L26/f-1uzpjgv f-1mllu3f 1iic9ez 1s42mof
+L26/f-1w9iddx f-1w9iddx 10sdszr 1o4d9vj
+L26/f-1wyfi6u f-1wyfi6u 1o5ibfn 0ktmomd
+L26/f-1xe22s3 f-1xe22s3 1ww7lzr 0fp6psn
+L26/f-1yoxmbz f-1yoxmbz 1bfqfhe 12hbm49
 L27/f-01igpq5 f-01igpq5 1m2oyoj 1guyiwx
 L27/f-020dqel f-036x8oq 010riwq 1dgqbsi
 L27/f-03kjlrd f-0zcluvi 1ojwhct 055pnyn
@@ -703,6 +924,102 @@ L27/f-1o3mq5x f-1upokqb 13irqmp 0ymz0pw
 L27/f-1q7tz30 f-1v8227y 0amoju5 1xxnkuk
 L27/f-1v2hxt2 f-0mfwv5h 1qa22kt 0631mqn
 L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
+L28/f-01eas8x f-01eas8x 1faohbh 1kbkmow
+L28/f-02o4p7z f-1ww3tc8 0852phv 1ecwite
+L28/f-030h033 f-0grnauc 0yzbq2z 1cmur1f
+L28/f-0492a2c f-159zqg8 0342k0x 0ntit57
+L28/f-08r1ozf f-08r1ozf 1x636zh 18jy89b
+L28/f-0boel2o f-0boel2o 1j52aec 0finy9z
+L28/f-0cmcup6 f-0fi20tu 05msq4b 09zgas6
+L28/f-0cp3xmb f-0cp3xmb 102hf0a 02hzjel
+L28/f-0i7mjlj f-0i7mjlj 0hbtj13 00cu041
+L28/f-0kaibop f-0kaibop 1fl0j5s 01z2c7m
+L28/f-0ld4ofs f-0ld4ofs 1bca0v1 1gatc5p
+L28/f-0lmw3ox f-16vo6kr 0xmihp6 0g15ebg
+L28/f-0nw6vwd f-0nw6vwd 0s0v5s6 0kjuufm
+L28/f-0tw8dnr f-0tw8dnr 113jq7y 0kr7o7e
+L28/f-0uo7bfk f-04m4rw2 12z301f 03982eb
+L28/f-0uszk5z f-0uszk5z 05jkzcc 11x3fjw
+L28/f-0xaehjr f-0xaehjr 0wgsf84 0qvqm5m
+L28/f-0xkdkei f-1liygyv 047gfud 0pmv95n
+L28/f-0yzg8ug f-1y57tj4 0yifqyi 1jvz2vs
+L28/f-0zjesfq f-1ngewv6 06hlfr5 0srmpux
+L28/f-14878vu f-0f29p1e 19gf5cs 0ulx3sl
+L28/f-14d9jof f-1b29jhh 1b4atmz 1h7ebai
+L28/f-165908z f-1rtbuv0 0ugxatk 0h8u61k
+L28/f-1e07k5g f-00bwu7q 0tb5s17 09j679a
+L28/f-1gt3bbv f-1gt3bbv 1l2lqmd 0izw4vd
+L28/f-1jdb3hu f-0mahhf8 1weu95i 0ty650d
+L28/f-1jlzb7v f-1jlzb7v 1b8b31g 1k4l4gs
+L28/f-1lib0pv f-1lib0pv 1rcjdb5 0h28pwu
+L28/f-1lo981e f-1lo981e 16v4446 1qyrl03
+L28/f-1mlpnzw f-11bjhor 0gns7jr 1toy8my
+L28/f-1nq0r2a f-1ympiub 0xqcl6c 1dbi1fn
+L28/f-1rgdo9y f-0o534it 0l4e5yz 1s64q0r
+L28/f-1sbcgrb f-1sbcgrb 0c0mbwz 1xsgjm5
+L28/f-1srr4m7 f-1srr4m7 0nmceoy 0gzgt93
+L28/f-1tuk5oy f-1qxn0jo 0srqkik 09kiuh5
+L28/f-1v7f297 f-1v7f297 1ej0usl 1ttb8fh
+L28/f-1vb9wua f-0kfltfd 0jrvtx7 1jq5xy0
+L28/f-1xnjlqm f-0st60ok 0gvuivg 1hu42jo
+L28/f-1yq3yw6 f-1yq3yw6 14n3684 0o2wp48
+L29/f-029mayo f-13vilbr 1a5852u 0wv515c
+L29/f-02qhn3f f-02qhn3f 1ak6s8g 0uiv11e
+L29/f-05vo73e f-1w1psd6 0m25vaq 14jst41
+L29/f-0alvihm f-0alvihm 1jcnuds 0gpcr4i
+L29/f-0c0hhhi f-0vvl55i 0o16lng 0nfjx0j
+L29/f-0ej7h9v f-0ej7h9v 001qlna 1htrptm
+L29/f-0hrbzex f-0hrbzex 06lt8xp 0t5xxln
+L29/f-0jawgzl f-0jawgzl 0ugpbi4 0myoxcc
+L29/f-0jelvw1 f-0jelvw1 1ojk7k2 1isy6r8
+L29/f-0jwi0oa f-0s41g5z 1eapfyc 1udymqg
+L29/f-0lqgwua f-09vblhe 0hxiskj 042q1r5
+L29/f-0o52m01 f-0o52m01 0xegq2v 1kw238b
+L29/f-0qzslzk f-0wilhc0 0ee9qq7 0x7jvsr
+L29/f-0uqz6b4 f-0uqz6b4 1fedt0u 1kok8gu
+L29/f-17o6hy4 f-17o6hy4 1t3envs 0e401f1
+L29/f-18iinzi f-1e2ayim 1lc4lhi 0jcof60
+L29/f-1ar2w5q f-1ar2w5q 0xu1ifq 0m07ols
+L29/f-1bn5yt7 f-1bn5yt7 0xu0gxf 01fyd0b
+L29/f-1fhhwzq f-0irhs55 1vkd2nl 03ou6tb
+L29/f-1fnnf4s f-1fnnf4s 0ssvo85 0d5j850
+L29/f-1h0zy6l f-1h0zy6l 1rj4efb 0a9y5m3
+L29/f-1lj5mtc f-1lj5mtc 0zhqapt 13zr9li
+L29/f-1ob0hyq f-1ob0hyq 0ik6yqr 1kfqlt1
+L29/f-1pgtxyr f-1pgtxyr 1cy2wcy 15f0mol
+L29/f-1rlnkan f-1rlnkan 1ixh2uh 00k91c7
+L29/f-1sdw3kq f-1sdw3kq 0xxoca9 07dgthd
+L29/f-1thvfik f-1thvfik 1y8cbjn 1kz30tj
+L29/f-1wzpzvl f-1wzpzvl 10f0ugv 1mwof4z
+L30/f-003tass f-003tass 1ae9hau 1id9eyw
+L30/f-025uvhi f-025uvhi 1fspq49 1mwsoxj
+L30/f-057w97v f-057w97v 15dgbgr 0nwcodw
+L30/f-05br2q3 f-003ulsa 18xsdsr 1xl0ar2
+L30/f-0c9ylsm f-108q86g 0nwvxxa 0rawyj5
+L30/f-0dif1l5 f-1lhsw7v 08ab1r5 07aa2h4
+L30/f-0fib18s f-1fnx7pq 1cytoop 054zedi
+L30/f-0lt5sag f-0lt5sag 0mz8e7t 1wz160p
+L30/f-0me5kx0 f-1wx6ybo 05eku2u 14t1632
+L30/f-0ntxdqg f-03eunly 1oob6rh 0qjsb7y
+L30/f-0r1qags f-0j5plyp 1gkizy7 02bc8t6
+L30/f-0tclami f-0tclami 0z1y8ru 1004qrk
+L30/f-0yoykyx f-1fpuwh3 1ooq6ey 0b261d0
+L30/f-0zbg8gd f-0zbg8gd 0zval3l 1c2plbx
+L30/f-10bh674 f-0aox59q 04g89q9 0pz8odu
+L30/f-1380x3v f-1380x3v 0c3aijg 1dlxxpc
+L30/f-15uy976 f-15uy976 0e952m9 0hc2nm7
+L30/f-1dd9aip f-0pq24yt 0ong17w 0ykgqbo
+L30/f-1ekvkf4 f-0f0w14d 1j35hcq 1gau7ap
+L30/f-1ig3xaf f-1ig3xaf 13gt7is 0nzzpd0
+L30/f-1jgwf9l f-1jgwf9l 0q087ly 1ny9unb
+L30/f-1jnu9zz f-1amonw9 1fv604y 1nagvx9
+L30/f-1ly8s30 f-0tnt580 0os2bkm 1ud9uvm
+L30/f-1m1bu2q f-1m1bu2q 0zwj1my 0a4y2gs
+L30/f-1t6gj13 f-1t6gj13 1c0wy7f 0mnpjxv
+L30/f-1tuxcmt f-1gwv1bd 1dy1iee 0kiom5o
+L30/f-1uq5aor f-1uq5aor 1qrufo7 0sdeukw
+L30/f-1vx7i6w f-0u2tx5y 12zfu7u 0thu7tj
+L30/f-1w0usry f-1w0usry 1aqamt2 0wxpuz4
 -->
 
 ## Lezione 01 — Nozioni introduttive 1
@@ -6805,60 +7122,60 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 21 — Gestione del rischio - Greche 5 – Delta-Gamma-Vega Hedging
 
 **D:** ⚠️ Con quali blocchi e colonne è costruito il foglio «Delta Gamma Hedging Cash Flow» della slide 2 della lezione 21?
-**R:** Slide 2, «Δ – Γ Hedging – vendita di 1 call IN – the money»: il blocco **Stock**, con «Dollars in Stock (Flow)»; il blocco **Option**, con «Cash ex Shorting/Exercising Option»; il blocco **Opt. for Γ**, con «Dollars in Option (Flow)»; il blocco **Bank**, con «Cash», «Interest (Flow)» e «Borrow (stock)»; infine la colonna «**Hedging Revenue (cost)**». Il docente: nella prima colonna «il dato di flusso dei dollari che sono stati investiti nell'azione» (transcript [00:00:49]); nella seconda «sono i 10.378 dollari rivenienti dalla vendita dell'opzione» ([00:03:13]); poi il flusso dell'«acquisizione nella posizione di portafoglio della opzione Z» ([00:03:26]); infine la cassa, l'interesse «in base al tasso R definito» e, nell'ultima colonna, il dato di stock del «rapporto finanziario complessivo» ([00:04:34]–[00:05:20]). ⚠️ Rispetto al cash flow del Δ hedging (deck 19, slide 2) c'è in più il blocco «Opt. for Γ», l'opzione Z.
-**Opzione:** Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+**R:** Slide 2, «$\Delta$ – $\Gamma$ Hedging – vendita di 1 call IN – the money»: il blocco **Stock**, con «Dollars in Stock (Flow)»; il blocco **Option**, con «Cash ex Shorting/Exercising Option»; il blocco **Opt. for $\Gamma$**, con «Dollars in Option (Flow)»; il blocco **Bank**, con «Cash», «Interest (Flow)» e «Borrow (stock)»; infine la colonna «**Hedging Revenue (cost)**». Il docente: nella prima colonna «il dato di flusso dei dollari che sono stati investiti nell'azione» (transcript [00:00:49]); nella seconda «sono i 10.378 dollari rivenienti dalla vendita dell'opzione» ([00:03:13]); poi il flusso dell'«acquisizione nella posizione di portafoglio della opzione Z» ([00:03:26]); infine la cassa, l'interesse «in base al tasso R definito» e, nell'ultima colonna, il dato di stock del «rapporto finanziario complessivo» ([00:04:34]–[00:05:20]). ⚠️ Rispetto al cash flow del $\Delta$ hedging (deck 19, slide 2) c'è in più il blocco «Opt. for $\Gamma$», l'opzione $Z$.
+**Opzione:** Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for $\Gamma$: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
 **Distrattori:**
-- Stock: Dollars in Stock (Flow); Option: Dollars in Option (Flow); Opt. for Γ: Cash ex Shorting/Exercising Option; Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
-- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
-- Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+- Stock: Dollars in Stock (Flow); Option: Dollars in Option (Flow); Opt. for $\Gamma$: Cash ex Shorting/Exercising Option; Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+- Portfolio "C" = Port. "B" + Stock f($\Delta$ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+- Portafoglio $\Delta$ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio $\Gamma$–$\upsilon$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
 
-**D:** ⚠️ Quanto è investito al time step 0 in azioni e quanto nell'opzione Z, nel cash flow del Δ–Γ hedging in the money della lezione 21?
-**R:** Slide 2, prima riga: **6.800** dollari in «Dollars in Stock (Flow)» e **8.628** in «Dollars in Option (Flow)», a fronte dei 10.378 incassati con la vendita delle call. Il docente: «al time step 0 noi abbiamo 6.800 dollari investiti in azioni che rispetto alle strategie del delta hedging è veramente poca roba e abbiamo 8.600 dollari che sono investiti invece nell'opzione. Paradossalmente è più elevato l'investimento nell'opzione Z dell'investimento nelle azioni che poi dovranno essere consegnate nel caso in cui la call dovesse finire in o deep in the money» (transcript [00:01:42]–[00:02:05]). ⚠️ L'opzione Z costa **più** delle azioni; «8.600» è l'8.628 della tabella arrotondato. La stessa prima riga apre anche il cash flow out of the money della slide 8.
-**Opzione:** 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+**D:** ⚠️ Quanto è investito al time step 0 in azioni e quanto nell'opzione $Z$, nel cash flow del $\Delta$–$\Gamma$ hedging in the money della lezione 21?
+**R:** Slide 2, prima riga: **6.800** dollari in «Dollars in Stock (Flow)» e **8.628** in «Dollars in Option (Flow)», a fronte dei 10.378 incassati con la vendita delle call. Il docente: «al time step 0 noi abbiamo 6.800 dollari investiti in azioni che rispetto alle strategie del delta hedging è veramente poca roba e abbiamo 8.600 dollari che sono investiti invece nell'opzione. Paradossalmente è più elevato l'investimento nell'opzione Z dell'investimento nelle azioni che poi dovranno essere consegnate nel caso in cui la call dovesse finire in o deep in the money» (transcript [00:01:42]–[00:02:05]). ⚠️ L'opzione $Z$ costa **più** delle azioni; «8.600» è l'8.628 della tabella arrotondato. La stessa prima riga apre anche il cash flow out of the money della slide 8.
+**Opzione:** 6.800 dollari in azioni e 8.628 nell'opzione $Z$: paradossalmente l'investimento nell'opzione $Z$ è più elevato di quello nelle azioni
 **Distrattori:**
-- 8.628 dollari in azioni e 6.800 nell'opzione Z: paradossalmente l'investimento nelle azioni è più elevato di quello nell'opzione Z
-- Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
-- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+- 8.628 dollari in azioni e 6.800 nell'opzione $Z$: paradossalmente l'investimento nelle azioni è più elevato di quello nell'opzione $Z$
+- Nel $\Delta$–$\Gamma$ funziona perché il $\Gamma$ di un'azione è 0; nel $\Delta$–$\Gamma$–$\upsilon$ rendere il portafoglio $\upsilon$ neutrale con un'opzione ne rompe la $\Gamma$ neutralità, perché il $\Gamma$ dell'opzione non è 0
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio $\upsilon$ neutrale torna al $\Gamma$ neutrale: si gira fra $\Gamma$ e $\upsilon$ neutralità senza arrivare alla ricomposizione verso la $\Delta$ neutralità
 
-**D:** ⚠️ Come si forma la cassa iniziale di 5.050 dollari nel cash flow del Δ–Γ hedging della lezione 21?
-**R:** Slide 2, prima riga: Cash **5.050** = 6.800 (Dollars in Stock) - 10.378 (Cash ex Shorting/Exercising Option) + 8.628 (Dollars in Option), e il Borrow (stock) parte da 5.050. Il docente: «la cassa iniziale è quella che serve per finanziare gli investimenti in azioni e nell'opzione Z e quindi in realtà è il netto dell'introito della vendita dell'opzione call e dell'investimento in azioni e in obbligazioni che in questo caso al tempo zero fa 5050 dollari» (transcript [00:04:34]). ⚠️ «Obbligazioni» è un lapsus: il foglio non ne ha, e il conto torna con l'opzione Z. La stessa riga, 6.800, 10.378, 8.628 e 5.050, apre il cash flow out of the money della slide 8.
-**Opzione:** È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+**D:** ⚠️ Come si forma la cassa iniziale di 5.050 dollari nel cash flow del $\Delta$–$\Gamma$ hedging della lezione 21?
+**R:** Slide 2, prima riga: Cash **5.050** = 6.800 (Dollars in Stock) - 10.378 (Cash ex Shorting/Exercising Option) + 8.628 (Dollars in Option), e il Borrow (stock) parte da 5.050. Il docente: «la cassa iniziale è quella che serve per finanziare gli investimenti in azioni e nell'opzione Z e quindi in realtà è il netto dell'introito della vendita dell'opzione call e dell'investimento in azioni e in obbligazioni che in questo caso al tempo zero fa 5050 dollari» (transcript [00:04:34]). ⚠️ «Obbligazioni» è un lapsus: il foglio non ne ha, e il conto torna con l'opzione $Z$. La stessa riga, 6.800, 10.378, 8.628 e 5.050, apre il cash flow out of the money della slide 8.
+**Opzione:** È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione $Z$, 8.628: 6.800 - 10.378 + 8.628 = 5.050
 **Distrattori:**
-- È il netto fra l'incasso della vendita delle call, 10.378, e il solo investimento in azioni, 6.800: l'opzione Z, 8.628, si finanzia a parte, fuori dalla cassa
-- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
-- Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+- È il netto fra l'incasso della vendita delle call, 10.378, e il solo investimento in azioni, 6.800: l'opzione $Z$, 8.628, si finanzia a parte, fuori dalla cassa
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike $K$: una differenza di soli 34 dollari, un ordine di grandezza inferiore al $\Delta$ hedging
+- Al $\Gamma$ del portafoglio $A$ cambiato di segno: la colonna $\Gamma$ II Option Tot ripete a ogni time step il $\Gamma$ di $A$, e il $\Gamma$ del portafoglio $B$ è zero
 
-**D:** ⚠️ Perché, nel Δ–Γ hedging in the money della lezione 21, l'investimento in azioni cresce comunque all'approssimarsi della scadenza?
-**R:** Slide 2: negli ultimi tre time step Dollars in Stock vale 11.312, 37.133 e 52.139. Il docente: «alla fine della strategia di delta gamma hedging è chiaro che comunque la controparte dovrà approvvigionarsi delle azioni» (transcript [00:02:17]); «la compensazione derivante dall'opzione Z è in grado di ridurre all'inizio e durante la vita … l'investimento ma alla fine comunque se l'opzione finisce in the money le azioni dovranno essere integralmente comprate» ([00:02:36]), da cui «i flussi incrementali da 11.000, 37.000 e 52.000 dollari che servono per completare il portafoglio che andrà in consegna di azioni» ([00:03:00]). Intanto si vendono le opzioni Z, e «parte dell'acquisto dell'azione verrà finanziato dalla vendita delle opzioni» ([00:03:46]): l'ultima riga di Dollars in Option è (8.198).
-**Opzione:** Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+**D:** ⚠️ Perché, nel $\Delta$–$\Gamma$ hedging in the money della lezione 21, l'investimento in azioni cresce comunque all'approssimarsi della scadenza?
+**R:** Slide 2: negli ultimi tre time step Dollars in Stock vale 11.312, 37.133 e 52.139. Il docente: «alla fine della strategia di delta gamma hedging è chiaro che comunque la controparte dovrà approvvigionarsi delle azioni» (transcript [00:02:17]); «la compensazione derivante dall'opzione Z è in grado di ridurre all'inizio e durante la vita … l'investimento ma alla fine comunque se l'opzione finisce in the money le azioni dovranno essere integralmente comprate» ([00:02:36]), da cui «i flussi incrementali da 11.000, 37.000 e 52.000 dollari che servono per completare il portafoglio che andrà in consegna di azioni» ([00:03:00]). Intanto si vendono le opzioni $Z$, e «parte dell'acquisto dell'azione verrà finanziato dalla vendita delle opzioni» ([00:03:46]): l'ultima riga di Dollars in Option è (8.198).
+**Opzione:** Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione $Z$ riduce l'investimento all'inizio e durante la vita, non alla fine
 **Distrattori:**
-- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento alla fine, non all'inizio e durante la vita
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione $Z$ riduce l'investimento alla fine, non all'inizio e durante la vita
 - Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
-- È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+- È necessaria un'altra opzione, per ottenere contestualmente il $\Gamma$ e il $\upsilon$ neutrale e poi ricomporre il portafoglio verso la $\Delta$ neutralità
 
-**D:** ⚠️ Dove arriva il Borrow (stock) nel Δ–Γ hedging in the money della lezione 21, e che cosa ne conclude il docente rispetto al Δ hedging?
-**R:** Slide 2, ultima riga: Borrow (stock) **100.034**, Cash ex Shorting/Exercising Option (100.000), Hedging Revenue (cost) **34**. Il docente: l'esercizio dell'opzione allo strike K «porta ad una fuoriuscita di 100.000 dollari», e «alla fine in banca questa operatività è costata 100.034 dollari» (transcript [00:05:53]–[00:06:17]); il differenziale finanziario, «in questo caso un piccolo guadagno», «ha generato una differenza positiva di soli 34 dollari» ([00:06:27]–[00:06:46]); «questo valore è di un ordine di grandezza inferiore rispetto a quello che vedevamo con Delta Hedging» ([00:06:55]). ⚠️ Il segno è incerto: la cella scrive 34 senza parentesi e il docente parla di guadagno, ma nel Δ hedging lo stesso conto, 102.122 contro 100.000, dà il costo (2.122) (deck 19, slide 2).
-**Opzione:** Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
+**D:** ⚠️ Dove arriva il Borrow (stock) nel $\Delta$–$\Gamma$ hedging in the money della lezione 21, e che cosa ne conclude il docente rispetto al $\Delta$ hedging?
+**R:** Slide 2, ultima riga: Borrow (stock) **100.034**, Cash ex Shorting/Exercising Option (100.000), Hedging Revenue (cost) **34**. Il docente: l'esercizio dell'opzione allo strike $K$ «porta ad una fuoriuscita di 100.000 dollari», e «alla fine in banca questa operatività è costata 100.034 dollari» (transcript [00:05:53]–[00:06:17]); il differenziale finanziario, «in questo caso un piccolo guadagno», «ha generato una differenza positiva di soli 34 dollari» ([00:06:27]–[00:06:46]); «questo valore è di un ordine di grandezza inferiore rispetto a quello che vedevamo con Delta Hedging» ([00:06:55]). ⚠️ Il segno è incerto: la cella scrive 34 senza parentesi e il docente parla di guadagno, ma nel $\Delta$ hedging lo stesso conto, 102.122 contro 100.000, dà il costo (2.122) (deck 19, slide 2).
+**Opzione:** Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike $K$: una differenza di soli 34 dollari, un ordine di grandezza inferiore al $\Delta$ hedging
 **Distrattori:**
-- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza superiore al Δ hedging
-- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
-- 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike $K$: una differenza di soli 34 dollari, un ordine di grandezza superiore al $\Delta$ hedging
+- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del $\Delta$ hedging, con il portafoglio comunque neutrale
+- 6.800 dollari in azioni e 8.628 nell'opzione $Z$: paradossalmente l'investimento nell'opzione $Z$ è più elevato di quello nelle azioni
 
-**D:** ⚠️ Perché, per il docente della lezione 21, la differenza finanziaria del Δ–Γ hedging è molto più piccola di quella del Δ hedging?
+**D:** ⚠️ Perché, per il docente della lezione 21, la differenza finanziaria del $\Delta$–$\Gamma$ hedging è molto più piccola di quella del $\Delta$ hedging?
 **R:** Perché «la migliore capacità del portafoglio di approssimare il valore dell'opzione [ha] generato un maggiore allineamento tra i flussi di cassa effettivi e i flussi di cassa che sono stati generati dalla strategia di delta gamma hedging» (transcript [00:07:04]–[00:07:13]): «aumentare il grado di approssimazione nella stima del valore dell'opzione … ha anche migliorato e reso meno impattivo dal punto di vista dei costi o dei guadagni la strategia di copertura» ([00:07:25]–[00:07:29]). Lo ripete per il caso out of the money: «avendo migliorato l'approssimazione del portafoglio di replicazione attraverso lo sviluppo di Taylor raggiungendo la derivata seconda noi abbiamo una maggiore capacità del portafoglio di replica di replicare il valore dell'opzione» ([00:20:55]–[00:21:03]). La differenza nasce, dice, «dal tema della granularità degli investimenti relativamente al tempo» e dalle «frizioni che si incontrano sul mercato» ([00:06:27]–[00:06:46]).
 **Opzione:** Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
 **Distrattori:**
 - Perché, con lo sviluppo di Taylor fino alla derivata prima, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
-- Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
-- Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+- Nel $\Delta$–$\Gamma$ funziona perché il $\Gamma$ di un'azione è 0; nel $\Delta$–$\Gamma$–$\upsilon$ rendere il portafoglio $\upsilon$ neutrale con un'opzione ne rompe la $\Gamma$ neutralità, perché il $\Gamma$ dell'opzione non è 0
+- Il termine $\frac{\partial f}{\partial\sigma}d\sigma$: un'altra derivata parziale, prima, del valore di $f$ rispetto alla volatilità, cioè il Vega
 
-**D:** ⚠️ Come è impostato il secondo esempio di Δ–Γ hedging della lezione 21 (slide 3)?
-**R:** Slide 3, «Δ – Γ Hedging: un esempio»: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è OUT – the money». Il docente: «questa volta ipotizzando di tenere l'opzione fino sempre alla scadenza, l'opzione Z, e ipotizzando che l'opzione W, cioè quella iniziale che abbiamo venduto, finisca invece out of the money» (transcript [00:08:07]; il riconoscimento vocale scrive «V»). ⚠️ W è la call **venduta**, Z quella **comprata** per coprire il Gamma. L'esempio precedente, nella lezione 20, aveva la W «IN – the money» (deck 20, slide 30).
+**D:** ⚠️ Come è impostato il secondo esempio di $\Delta$–$\Gamma$ hedging della lezione 21 (slide 3)?
+**R:** Slide 3, «$\Delta$ – $\Gamma$ Hedging: un esempio»: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è OUT – the money». Il docente: «questa volta ipotizzando di tenere l'opzione fino sempre alla scadenza, l'opzione Z, e ipotizzando che l'opzione W, cioè quella iniziale che abbiamo venduto, finisca invece out of the money» (transcript [00:08:07]; il riconoscimento vocale scrive «V»). ⚠️ $W$ è la call **venduta**, $Z$ quella **comprata** per coprire il Gamma. L'esempio precedente, nella lezione 20, aveva la $W$ «IN – the money» (deck 20, slide 30).
 **Opzione:** Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
 **Distrattori:**
 - Si detiene l'opzione 'W' fino a scadenza, e alla scadenza l'opzione 'Z' è OUT – the money
-- Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
-- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
+- Si può puntare a ottenere un portafoglio $\Gamma$–$\upsilon$ neutrale; altrimenti si entra in un loop senza soluzione
+- Il $\Gamma$ del portafoglio $A$ va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione $Z$ scende da 8,53 a 0
 
 **D:** ⚠️ Come si muove il prezzo dell'azione nell'esempio out of the money della lezione 21 (slide 4)?
 **R:** Slide 4, colonna STOCK PRICE: 100,0 al time step 0, poi 106,1, 104,2, 104,9, 99,0, 97,9, 93,3, 87,2, 79,5 all'ottavo, …, 74,7 al 19 e **71,5** al 20. Il docente: «l'opzione rimane in un range diciamo abbastanza vicino all'at the money fino al sesto settimo time step, poi inizia direi drammaticamente ad andare out of the money per poi ovviamente gli ultimi due time step a 74,7 dollari difficile che la volatilità possa con due time step riportare in the money o at the money l'opzione» (transcript [00:08:52]–[00:09:15]). La Time to Expiration va da 0,2500 a 0,0000: «i tre mesi, vengono ripartiti da 0.25 fino a 0» ([00:08:36]).
@@ -6869,192 +7186,192 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
 
 **D:** ⚠️ Quando, nell'esempio out of the money della lezione 21, la posizione in Delta della call ha sostanzialmente completato il suo impatto (slide 4)?
-**R:** Slide 4: il Δ call parte dal «solito delta 0,564 all'avvio quando l'opzione è at the money e mancano tre mesi» (transcript [00:09:54]), sale a 0,654729124 al time step 1, torna intorno a 0,50 e, sotto 80, scende rapidamente: al time step 18 vale 0,001029286, con posizione **(1)**, al 19 1,09986E-07 e al 20 **0**. Il docente: il delta della posizione «già al diciottesimo time step ha sostanzialmente completato il suo impatto sulla definizione del nostro portafoglio» ([00:10:53]); sotto il livello di 80 «il delta tende a ridursi abbastanza rapidamente anche con il passare del tempo che ovviamente riduce la possibilità dell'opzione di generare valore intrinseco» ([00:10:23]). ⚠️ Nell'esempio in the money del Δ hedging (lezione 18) era il time step 14 a esaurire l'hedging, con il Delta a 1.
-**Opzione:** Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
+**R:** Slide 4: il $\Delta$ call parte dal «solito delta 0,564 all'avvio quando l'opzione è at the money e mancano tre mesi» (transcript [00:09:54]), sale a 0,654729124 al time step 1, torna intorno a 0,50 e, sotto 80, scende rapidamente: al time step 18 vale 0,001029286, con posizione **(1)**, al 19 1,09986E-07 e al 20 **0**. Il docente: il delta della posizione «già al diciottesimo time step ha sostanzialmente completato il suo impatto sulla definizione del nostro portafoglio» ([00:10:53]); sotto il livello di 80 «il delta tende a ridursi abbastanza rapidamente anche con il passare del tempo che ovviamente riduce la possibilità dell'opzione di generare valore intrinseco» ([00:10:23]). ⚠️ Nell'esempio in the money del $\Delta$ hedging (lezione 18) era il time step 14 a esaurire l'hedging, con il Delta a 1.
+**Opzione:** Al diciottesimo time step: la posizione in Delta è già (1), con $\Delta$ call 0,001029286, e al time step 20 il Delta è 0
 **Distrattori:**
-- Al quattordicesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
-- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
-- Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+- Al quattordicesimo time step: la posizione in Delta è già (1), con $\Delta$ call 0,001029286, e al time step 20 il Delta è 0
+- Il $\Gamma$ del portafoglio $A$ va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione $Z$ scende da 8,53 a 0
+- Portafoglio $\Delta$ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio $\Gamma$–$\upsilon$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
 
-**D:** ⚠️ Come evolve il magazzino di azioni del portafoglio A nell'esempio out of the money della lezione 21 (slide 4)?
+**D:** ⚠️ Come evolve il magazzino di azioni del portafoglio $A$ nell'esempio out of the money della lezione 21 (slide 4)?
 **R:** Slide 4, colonna Warehouse: 564 al time step 0, 655 al 1, poi 627, 639, 540, 517, 423, 293, 145, …, 1 al 18, «-» al 19 e al 20. Il docente: «al primo time step compreremo 564 azioni ma piano piano vedete il portafoglio va in dismissione, lo vedete tramite la colonna warehouse man mano che abbiamo un posizionamento dell'opzione nell'ambito degli spazi e degli eventi out of the money»; «il delta dello stock è sempre pari a 1» (transcript [00:11:35]–[00:11:56]), e il portafoglio ha «una neutralità del delta totale» ([00:12:08]). ⚠️ È il rovescio dell'esempio in the money della lezione 18, dove il magazzino arrivava a 1.000 azioni.
 **Opzione:** Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
 **Distrattori:**
 - Si comprano 564 azioni al time step 0, poi il magazzino cresce man mano che l'opzione va out of the money: 1.000 azioni al time step 18, tutte al 20
-- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
-- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del $\Delta$ hedging
+- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$
 
-**D:** ⚠️ Fra quali valori vanno il Γ del portafoglio A e il valore della seconda opzione Z nell'esempio out of the money della lezione 21 (slide 5)?
-**R:** Slide 5, colonna «Γ Portfolio "A"», cioè Γ portafoglio = Γ I Option per n.az. Underlying: da **(15,70)** al time step 0 a (0,00) al 19, e «-» al 20. Il valore più negativo è (21,23), al time step 11. Colonna «II Option value»: da **8,532035235** a 0, mentre nell'esempio in the money della lezione 20 arrivava a 15,20266822 (deck 20, slide 32). Il docente: il gamma del portafoglio A «lo troviamo in questa colonna che va da un meno 15,70 fino a zero» (transcript [00:12:51]); il valore della seconda opzione «lo troviamo nell'ambito … della colonna Second Option Value che va da 8,53 fino a 0» ([00:13:25]). Poi si calcola il d_1, che «ci serve analiticamente per poter calcolare il valore del gamma della seconda opzione» ([00:13:44]).
-**Opzione:** Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z scende da 8,53 a 0
+**D:** ⚠️ Fra quali valori vanno il $\Gamma$ del portafoglio $A$ e il valore della seconda opzione $Z$ nell'esempio out of the money della lezione 21 (slide 5)?
+**R:** Slide 5, colonna «$\Gamma$ Portfolio "A"», cioè $\Gamma$ portafoglio = $\Gamma$ I Option per n.az. Underlying: da **(15,70)** al time step 0 a (0,00) al 19, e «-» al 20. Il valore più negativo è (21,23), al time step 11. Colonna «II Option value»: da **8,532035235** a 0, mentre nell'esempio in the money della lezione 20 arrivava a 15,20266822 (deck 20, slide 32). Il docente: il gamma del portafoglio $A$ «lo troviamo in questa colonna che va da un meno 15,70 fino a zero» (transcript [00:12:51]); il valore della seconda opzione «lo troviamo nell'ambito … della colonna Second Option Value che va da 8,53 fino a 0» ([00:13:25]). Poi si calcola il $d_1$, che «ci serve analiticamente per poter calcolare il valore del gamma della seconda opzione» ([00:13:44]).
+**Opzione:** Il $\Gamma$ del portafoglio $A$ va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione $Z$ scende da 8,53 a 0
 **Distrattori:**
-- Il Γ del portafoglio A va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione Z sale da 8,53 a 15,20
-- Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
-- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+- Il $\Gamma$ del portafoglio $A$ va da -15,70 a zero, al minimo -21,23 al time step 11; il valore della seconda opzione $Z$ sale da 8,53 a 15,20
+- Al diciottesimo time step: la posizione in Delta è già (1), con $\Delta$ call 0,001029286, e al time step 20 il Delta è 0
+- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione $Z$, 8.628: 6.800 - 10.378 + 8.628 = 5.050
 
-**D:** ⚠️ A che cosa deve essere uguale, per costruzione, il Γ totale della seconda opzione nel portafoglio B dell'esempio out of the money della lezione 21 (slide 5)?
-**R:** Slide 5: la colonna «Γ II Option Tot», cioè n. II Option Buy per Γ II Option, ripete a ogni riga il Γ del portafoglio A con il segno opposto: 15,70263 contro (15,70) al time step 0, 14,2025 contro (14,20) al 1, 21,22699 contro (21,23) all'11; la colonna «Γ portfolio "B"» è «-», cioè zero, a ogni time step. Il docente: con 1.011 opzioni al tempo zero si calcola il gamma della seconda opzione, «che ovviamente deve essere per costruzione uguale a quello del portafoglio iniziale A», perché il portafoglio B ha «la caratteristica di neutralizzare completamente il gamma del portafoglio A» (transcript [00:14:33]–[00:14:53]); «non ci stupisce quindi che la prima colonna di questa simulazione numerica sia uguale alla colonna gamma seconda opzione totale», e il gamma di B è «identicamente uguale a zero» ([00:15:02]–[00:15:12]). La quantità segue «la formula che abbiamo identificato precedentemente» ([00:13:19]), nella lezione 20.
-**Opzione:** Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+**D:** ⚠️ A che cosa deve essere uguale, per costruzione, il $\Gamma$ totale della seconda opzione nel portafoglio $B$ dell'esempio out of the money della lezione 21 (slide 5)?
+**R:** Slide 5: la colonna «$\Gamma$ II Option Tot», cioè n. II Option Buy per $\Gamma$ II Option, ripete a ogni riga il $\Gamma$ del portafoglio $A$ con il segno opposto: 15,70263 contro (15,70) al time step 0, 14,2025 contro (14,20) al 1, 21,22699 contro (21,23) all'11; la colonna «$\Gamma$ portfolio "B"» è «-», cioè zero, a ogni time step. Il docente: con 1.011 opzioni al tempo zero si calcola il gamma della seconda opzione, «che ovviamente deve essere per costruzione uguale a quello del portafoglio iniziale A», perché il portafoglio $B$ ha «la caratteristica di neutralizzare completamente il gamma del portafoglio A» (transcript [00:14:33]–[00:14:53]); «non ci stupisce quindi che la prima colonna di questa simulazione numerica sia uguale alla colonna gamma seconda opzione totale», e il gamma di $B$ è «identicamente uguale a zero» ([00:15:02]–[00:15:12]). La quantità segue «la formula che abbiamo identificato precedentemente» ([00:13:19]), nella lezione 20.
+**Opzione:** Al $\Gamma$ del portafoglio $A$ cambiato di segno: la colonna $\Gamma$ II Option Tot ripete a ogni time step il $\Gamma$ di $A$, e il $\Gamma$ del portafoglio $B$ è zero
 **Distrattori:**
-- Al Δ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Δ di A, e il Δ del portafoglio B è zero
-- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione Z, 8.628: 6.800 - 10.378 + 8.628 = 5.050
-- Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+- Al $\Delta$ del portafoglio $A$ cambiato di segno: la colonna $\Gamma$ II Option Tot ripete a ogni time step il $\Delta$ di $A$, e il $\Delta$ del portafoglio $B$ è zero
+- È il netto fra l'incasso della vendita delle call, 10.378, e gli investimenti in azioni, 6.800, e nell'opzione $Z$, 8.628: 6.800 - 10.378 + 8.628 = 5.050
+- Il termine $\frac{\partial f}{\partial\sigma}d\sigma$: un'altra derivata parziale, prima, del valore di $f$ rispetto alla volatilità, cioè il Vega
 
-**D:** ⚠️ Che problema ha il portafoglio B dell'esempio out of the money della lezione 21 (slide 5)?
-**R:** «Il problema è che il delta del portafoglio B non è neutrale» (transcript [00:15:25]): con la seconda opzione Z «abbiamo ottenuto la possibilità di neutralizzare il gamma del portafoglio A ma il portafoglio B è ritornato ad essere delta non neutral», con una posizione «che ovviamente va a zero nel momento in cui il time step conclude con l'opzionalità out of the money» ([00:15:53]). Slide 5, colonna «Δ Port. "B"», Total Δ position: **496** al time step 0, 560 al 1, …, 1 al 18, «-» al 19 e al 20.
-**Opzione:** Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+**D:** ⚠️ Che problema ha il portafoglio $B$ dell'esempio out of the money della lezione 21 (slide 5)?
+**R:** «Il problema è che il delta del portafoglio B non è neutrale» (transcript [00:15:25]): con la seconda opzione $Z$ «abbiamo ottenuto la possibilità di neutralizzare il gamma del portafoglio A ma il portafoglio B è ritornato ad essere delta non neutral», con una posizione «che ovviamente va a zero nel momento in cui il time step conclude con l'opzionalità out of the money» ([00:15:53]). Slide 5, colonna «$\Delta$ Port. "B"», Total $\Delta$ position: **496** al time step 0, 560 al 1, …, 1 al 18, «-» al 19 e al 20.
+**Opzione:** Non è $\Delta$ neutrale: la seconda opzione $Z$ neutralizza il $\Gamma$, ma il Delta del portafoglio $B$ torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
 **Distrattori:**
-- Non è Γ neutrale: la seconda opzione Z neutralizza il Delta, ma il Γ del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
-- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
-- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+- Non è $\Gamma$ neutrale: la seconda opzione $Z$ neutralizza il Delta, ma il $\Gamma$ del portafoglio $B$ torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+- Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del $\Delta$ hedging, con il portafoglio comunque neutrale
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio $\upsilon$ neutrale torna al $\Gamma$ neutrale: si gira fra $\Gamma$ e $\upsilon$ neutralità senza arrivare alla ricomposizione verso la $\Delta$ neutralità
 
-**D:** ⚠️ Come si ottiene il portafoglio C nell'esempio out of the money della lezione 21, e si comprano o si vendono azioni (slide 6)?
-**R:** Slide 6: «Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B")». Il Warehouse è **(496)** al time step 0, (560) al 1, …, (1) al 18, e la colonna «Δ Portfolio "C"», Total Δ position, è «-» a ogni time step. Il docente: il portafoglio C «altro non è che il portafoglio B più quelle azioni che devo compravendere per andare a neutralizzare il portafoglio in termini di delta una nuova volta» (transcript [00:16:32]), «in particolare una vendita di azioni dato che il segno è sempre negativo» ([00:17:14]): fare delta gamma hedging «attraverso l'inserimento di una nuova opzione non fa altro che liberare risorse finanziarie potenziali dall'investimento in azioni» ([00:17:37]). ⚠️ Il magazzino del portafoglio C è **negativo**: si vendono azioni.
-**Opzione:** Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+**D:** ⚠️ Come si ottiene il portafoglio $C$ nell'esempio out of the money della lezione 21, e si comprano o si vendono azioni (slide 6)?
+**R:** Slide 6: «Portfolio "C" = Port. "B" + Stock f($\Delta$ hedge of "B")». Il Warehouse è **(496)** al time step 0, (560) al 1, …, (1) al 18, e la colonna «$\Delta$ Portfolio "C"», Total $\Delta$ position, è «-» a ogni time step. Il docente: il portafoglio $C$ «altro non è che il portafoglio B più quelle azioni che devo compravendere per andare a neutralizzare il portafoglio in termini di delta una nuova volta» (transcript [00:16:32]), «in particolare una vendita di azioni dato che il segno è sempre negativo» ([00:17:14]): fare delta gamma hedging «attraverso l'inserimento di una nuova opzione non fa altro che liberare risorse finanziarie potenziali dall'investimento in azioni» ([00:17:37]). ⚠️ Il magazzino del portafoglio $C$ è **negativo**: si vendono azioni.
+**Opzione:** Portfolio "C" = Port. "B" + Stock f($\Delta$ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
 **Distrattori:**
-- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si comprano azioni, con il segno sempre positivo, e si impegnano più risorse finanziarie nell'investimento in azioni
-- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+- Portfolio "C" = Port. "B" + Stock f($\Delta$ hedge of "B"): si comprano azioni, con il segno sempre positivo, e si impegnano più risorse finanziarie nell'investimento in azioni
+- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for $\Gamma$: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
 
-**D:** ⚠️ Fin dove arriva, al massimo, il magazzino di azioni del portafoglio C nell'esempio out of the money della lezione 21, rispetto al Δ hedging (slide 7)?
-**R:** Slide 7, «quantitative composition of the "C" Portfolio, value of Δ & Γ», colonna Stock Warehouse: **68** al time step 0, **95** al 1, poi 87, 93, 68, 63, 45, 24, 8, …, fino a zero, con (1), (1) e (3) ai time step 15–17. È la somma dei due magazzini, quello di A e quello di C: 564 - 496 = 68 (slide 4 e 6). Il docente: «il magazzino, vedete come è ridimensionato dal punto di vista quantitativo» (transcript [00:18:22]); «io da comprare oltre 400-500 azioni per coprirmi da un'opzione at the money come avveniva per il delta hedging addirittura in questo caso mi muovo in un ordine di grandezza inferiore, siamo intorno al 30, 40, 50, al massimo arriviamo a un magazzino di 95 azioni da finanziare» ([00:18:49]–[00:19:08]).
-**Opzione:** Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
+**D:** ⚠️ Fin dove arriva, al massimo, il magazzino di azioni del portafoglio $C$ nell'esempio out of the money della lezione 21, rispetto al $\Delta$ hedging (slide 7)?
+**R:** Slide 7, «quantitative composition of the "C" Portfolio, value of $\Delta$ & $\Gamma$», colonna Stock Warehouse: **68** al time step 0, **95** al 1, poi 87, 93, 68, 63, 45, 24, 8, …, fino a zero, con (1), (1) e (3) ai time step 15–17. È la somma dei due magazzini, quello di $A$ e quello di $C$: 564 - 496 = 68 (slide 4 e 6). Il docente: «il magazzino, vedete come è ridimensionato dal punto di vista quantitativo» (transcript [00:18:22]); «io da comprare oltre 400-500 azioni per coprirmi da un'opzione at the money come avveniva per il delta hedging addirittura in questo caso mi muovo in un ordine di grandezza inferiore, siamo intorno al 30, 40, 50, al massimo arriviamo a un magazzino di 95 azioni da finanziare» ([00:18:49]–[00:19:08]).
+**Opzione:** Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del $\Delta$ hedging
 **Distrattori:**
-- Al massimo 655 azioni, al time step 1, poi in dismissione fino a zero: lo stesso ordine di grandezza delle 400-500 azioni del Δ hedging
-- Al Γ del portafoglio A cambiato di segno: la colonna Γ II Option Tot ripete a ogni time step il Γ di A, e il Γ del portafoglio B è zero
+- Al massimo 655 azioni, al time step 1, poi in dismissione fino a zero: lo stesso ordine di grandezza delle 400-500 azioni del $\Delta$ hedging
+- Al $\Gamma$ del portafoglio $A$ cambiato di segno: la colonna $\Gamma$ II Option Tot ripete a ogni time step il $\Gamma$ di $A$, e il $\Gamma$ del portafoglio $B$ è zero
 - Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
 
-**D:** ⚠️ Nella composizione del portafoglio C dell'esempio out of the money della lezione 21, che cosa resta invariante e che cosa si smobilita alla fine (slide 7)?
-**R:** Slide 7: la colonna «Short Opt.» è **(1.000)** a ogni time step; nel blocco «Option for Γ» si comprano 1.011 opzioni Z al time step 0, il Warehouse sale fino a **1.624** al time step 17, poi si vendono (672), (934) e (18) opzioni, fino a zero. Il docente: «troviamo, ed è invariante come sempre, l'opzione che è stata venduta», poi la compravendita della seconda opzione: «qui i numeri sono sensibilmente più importanti di magazzino e alla fine vengono completamente smobilitati perché essendo finita l'opzione out of the money non c'è da tenere in piedi ovviamente la posizione nella seconda opzione» (transcript [00:19:20]–[00:19:33]). ⚠️ La slide 3 dice che si detiene Z «fino a scadenza», ma il magazzino di Z è 18 al time step 19 e zero al 20, dopo la vendita di (18).
+**D:** ⚠️ Nella composizione del portafoglio $C$ dell'esempio out of the money della lezione 21, che cosa resta invariante e che cosa si smobilita alla fine (slide 7)?
+**R:** Slide 7: la colonna «Short Opt.» è **(1.000)** a ogni time step; nel blocco «Option for $\Gamma$» si comprano 1.011 opzioni $Z$ al time step 0, il Warehouse sale fino a **1.624** al time step 17, poi si vendono (672), (934) e (18) opzioni, fino a zero. Il docente: «troviamo, ed è invariante come sempre, l'opzione che è stata venduta», poi la compravendita della seconda opzione: «qui i numeri sono sensibilmente più importanti di magazzino e alla fine vengono completamente smobilitati perché essendo finita l'opzione out of the money non c'è da tenere in piedi ovviamente la posizione nella seconda opzione» (transcript [00:19:20]–[00:19:33]). ⚠️ La slide 3 dice che si detiene $Z$ «fino a scadenza», ma il magazzino di $Z$ è 18 al time step 19 e zero al 20, dopo la vendita di (18).
 **Opzione:** Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
 **Distrattori:**
 - Resta invariante la posizione nella seconda opzione, 1.011; l'opzione venduta, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
-- Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
-- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+- Non è $\Delta$ neutrale: la seconda opzione $Z$ neutralizza il $\Gamma$, ma il Delta del portafoglio $B$ torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+- Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$
 
-**D:** ⚠️ Quanto valgono il Delta e il Gamma del portafoglio C nell'esempio out of the money della lezione 21 (slide 7)?
-**R:** Slide 7, blocco «Delta e Gamma»: le colonne «Δ portfolio C» e «Γ portfolio C» sono «-», cioè zero, a ogni time step. Il docente: «possiamo riepilogare con successo il delta e il gamma del portafoglio che come si nota in questa slide sono identicamente uguali a zero. In altri termini anche per la vendita di una call out of the money abbiamo realizzato una strategia delta gamma neutral ottenendo quindi il risultato che stavamo cercando» (transcript [00:19:57]–[00:20:07]).
+**D:** ⚠️ Quanto valgono il Delta e il Gamma del portafoglio $C$ nell'esempio out of the money della lezione 21 (slide 7)?
+**R:** Slide 7, blocco «Delta e Gamma»: le colonne «$\Delta$ portfolio $C$» e «$\Gamma$ portfolio $C$» sono «-», cioè zero, a ogni time step. Il docente: «possiamo riepilogare con successo il delta e il gamma del portafoglio che come si nota in questa slide sono identicamente uguali a zero. In altri termini anche per la vendita di una call out of the money abbiamo realizzato una strategia delta gamma neutral ottenendo quindi il risultato che stavamo cercando» (transcript [00:19:57]–[00:20:07]).
 **Opzione:** Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
 **Distrattori:**
 - Il Delta è identicamente uguale a zero a ogni time step, il Gamma solo al time step 0: per la call out of the money si realizza una strategia solo delta neutral
 - Parte da 100,0, at the money, resta vicino all'at the money fino al sesto-settimo time step, poi va drammaticamente out of the money e chiude a 71,5
-- Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
+- Si può puntare a ottenere un portafoglio $\Gamma$–$\upsilon$ neutrale; altrimenti si entra in un loop senza soluzione
 
-**D:** ⚠️ Quanto costa il Δ–Γ hedging nell'esempio out of the money della lezione 21 (slide 8)?
-**R:** Slide 8, «Delta Gamma Hedging Cash Flow», ultima riga: Borrow (stock) **9** e Hedging Revenue (cost) **(9)**, fra parentesi, cioè un costo. Il docente: «parliamo di 9 dollari di costo, questa è una strategia che dal punto di vista finanziario è stata estremamente meno [costosa], portando peraltro alla neutralità del portafoglio» (transcript [00:20:39]); «alla fine delle fiere questa operazione è costata sì e no 9 dollari dal punto di vista finanziario per il nostro operatore» ([00:24:36]), «confermando quindi la maggiore efficienza che l'approssimazione del delta gamma hedging consente a chi effettua strategie di copertura» ([00:25:01]). ⚠️ Nel caso in the money la differenza era di 34 dollari (slide 2); nel Δ hedging out of the money la colonna scrive (1.516) (deck 19, slide 5).
-**Opzione:** Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
+**D:** ⚠️ Quanto costa il $\Delta$–$\Gamma$ hedging nell'esempio out of the money della lezione 21 (slide 8)?
+**R:** Slide 8, «Delta Gamma Hedging Cash Flow», ultima riga: Borrow (stock) **9** e Hedging Revenue (cost) **(9)**, fra parentesi, cioè un costo. Il docente: «parliamo di 9 dollari di costo, questa è una strategia che dal punto di vista finanziario è stata estremamente meno [costosa], portando peraltro alla neutralità del portafoglio» (transcript [00:20:39]); «alla fine delle fiere questa operazione è costata sì e no 9 dollari dal punto di vista finanziario per il nostro operatore» ([00:24:36]), «confermando quindi la maggiore efficienza che l'approssimazione del delta gamma hedging consente a chi effettua strategie di copertura» ([00:25:01]). ⚠️ Nel caso in the money la differenza era di 34 dollari (slide 2); nel $\Delta$ hedging out of the money la colonna scrive (1.516) (deck 19, slide 5).
+**Opzione:** Circa 9 dollari di costo, (9) nella colonna Hedging Revenue (cost): molto meno del $\Delta$ hedging, con il portafoglio comunque neutrale
 **Distrattori:**
-- Circa 34 dollari, la cifra della colonna Hedging Revenue (cost): molto meno del Δ hedging, con il portafoglio comunque neutrale
-- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+- Circa 34 dollari, la cifra della colonna Hedging Revenue (cost): molto meno del $\Delta$ hedging, con il portafoglio comunque neutrale
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione $Z$ riduce l'investimento all'inizio e durante la vita, non alla fine
 - Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
 
-**D:** ⚠️ Che cosa rende «addirittura» più efficiente il Δ–Γ hedging nel caso out of the money, per il docente della lezione 21?
+**D:** ⚠️ Che cosa rende «addirittura» più efficiente il $\Delta$–$\Gamma$ hedging nel caso out of the money, per il docente della lezione 21?
 **R:** «Addirittura nel caso out of the money, come spiegavo, il fatto di non dover mai costituire un ammontare di azioni che devono essere consegnate davanti all'esercizio delle mille opzioni call che sono state vendute genera ancora una volta particolarmente efficiente la gestione finanziaria del delta gamma hedging» (transcript [00:21:31]). Già prima: per un'opzione che finisce out of the money, che «non richiede la composizione del magazzino di azioni che debbano essere consegnate», il delta gamma hedging «è particolarmente poco assorbente diciamo dal punto di vista finanziario» ([00:18:37]–[00:18:49]). In generale la strategia «coinvolge una seconda opzione che a sua volta riduce l'ammontare di cassa che deve essere impegnata» ([00:21:03]).
 **Opzione:** Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
 **Distrattori:**
 - Dover costituire per tempo l'intero ammontare di azioni da consegnare all'esercizio delle mille call vendute
-- È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
-- Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
+- È necessaria un'altra opzione, per ottenere contestualmente il $\Gamma$ e il $\upsilon$ neutrale e poi ricomporre il portafoglio verso la $\Delta$ neutralità
+- Perché, se il $\Gamma$–$\upsilon$ di un'azione è 0, sfortunatamente il $\Gamma$ dell'opzione NON È 0
 
 **D:** ⚠️ Come si muovono i dollari investiti in azioni nel cash flow out of the money della lezione 21 (slide 8)?
 **R:** Slide 8, «Dollars in Stock (Flow)»: 6.800 al time step 0, **2.864** al 1, poi soprattutto disinvestimenti, (833), (2.476), (1.680), (1.832), (1.272)…, e a poco più di metà vita due investimenti, **164** e **785**, ai time step 10 e 11. Il docente: i flussi «viaggiano tra il 6.800 dollari iniziali poi evidentemente il prezzo deve essere … andato in the money e quindi aumenta la richiesta finanziaria della strategia di trading dopodiché poiché l'opzione inesorabilmente sta iniziando a battere out of the money si dismettono gli investimenti effettuati ancorché particolarmente modesti» (transcript [00:22:12]); «a metà della vita dell'opzione, poco più di metà, vedete che c'è un altro piccolo investimento», «conseguente al rialzo dei prezzi che hanno riportato quasi ad essere at the money l'azione», per cui «il sistema di rischio riattiva un minimo di magazzino» ([00:22:41]–[00:22:49]). Al tempo zero l'investimento «è superiore in opzioni che in cash, che in azioni» ([00:23:32]): 8.628 contro 5.050 e 6.800.
 **Opzione:** Dopo i 6.800 iniziali salgono al time step 1, con il prezzo verso l'in the money, poi si dismettono; a poco più di metà vita un piccolo investimento, con l'azione quasi at the money
 **Distrattori:**
 - Dopo i 6.800 iniziali scendono al time step 1, con il prezzo verso l'out of the money, poi si accumulano; a poco più di metà vita un piccolo disinvestimento, con l'azione quasi at the money
-- Al diciottesimo time step: la posizione in Delta è già (1), con Δ call 0,001029286, e al time step 20 il Delta è 0
-- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for Γ: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
+- Al diciottesimo time step: la posizione in Delta è già (1), con $\Delta$ call 0,001029286, e al time step 20 il Delta è 0
+- Stock: Dollars in Stock (Flow); Option: Cash ex Shorting/Exercising Option; Opt. for $\Gamma$: Dollars in Option (Flow); Bank: Cash, Interest (Flow), Borrow (stock); infine Hedging Revenue (cost)
 
-**D:** ⚠️ Su quale approssimazione si fonda il Δ–Γ–υ hedging nella slide 9 della lezione 21?
-**R:** Slide 9, «Δ–Γ–υ Hedging»: «Calcolo di df attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», **df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)**. Il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); «stiamo inserendo un terzo termine nell'approssimazione di Taylor che va a prendere la circostanza che f è una funzione che cambia al variare del tempo ovviamente ma anche al variare di s e della volatilità» ([00:26:12]). ⚠️ Taylor «del secondo ordine», come nel Δ–Γ hedging (deck 20, slide 2): il terzo **termine** non è un terzo **ordine**. Il Vega compare come ∂f/∂σ, senza il simbolo υ.
-**Opzione:** Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+**D:** ⚠️ Su quale approssimazione si fonda il $\Delta$–$\Gamma$–$\upsilon$ hedging nella slide 9 della lezione 21?
+**R:** Slide 9, «$\Delta$–$\Gamma$–$\upsilon$ Hedging»: «Calcolo di $df$ attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», **$df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$**. Il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); «stiamo inserendo un terzo termine nell'approssimazione di Taylor che va a prendere la circostanza che f è una funzione che cambia al variare del tempo ovviamente ma anche al variare di s e della volatilità» ([00:26:12]). ⚠️ Taylor «del secondo ordine», come nel $\Delta$–$\Gamma$ hedging (deck 20, slide 2): il terzo **termine** non è un terzo **ordine**. Il Vega compare come $\frac{\partial f}{\partial\sigma}$, senza il simbolo $\upsilon$.
+**Opzione:** Su un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità: $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$
 **Distrattori:**
-- Su un'espansione di Taylor del terzo ordine, facendo attenzione alla volatilità: df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt)
+- Su un'espansione di Taylor del terzo ordine, facendo attenzione alla volatilità: $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$
 - Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
 - Sono identicamente uguali a zero a ogni time step: anche per la vendita di una call out of the money si realizza una strategia delta gamma neutral
 
-**D:** ⚠️ Quale termine aggiunge il Δ–Γ–υ hedging allo sviluppo del Δ–Γ hedging, e che derivata è, secondo la lezione 21?
-**R:** Il termine **(∂f/∂σ)dσ**: lo sviluppo del Δ–Γ hedging, df ≈ ΔdS + ½ΓdS² + o(dt) (deck 20, slide 2), diventa nella slide 9 df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt). Il docente: «approssimiamo il valore dell'opzione non attraverso soltanto il delta, cioè il primo termine …, non solo attraverso la derivata seconda … della nostra funzione f rispetto ad s, che ci consente quindi di portare in campo la quantità del gamma, ma intendiamo utilizzare anche un'altra derivata parziale rispetto al valore della volatilità» (transcript [00:25:36]–[00:25:55]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). ⚠️ È una derivata **prima**, rispetto a σ: il Vega, υ = ∂f/∂σ della lezione 17.
-**Opzione:** Il termine (∂f/∂σ)dσ: un'altra derivata parziale, prima, del valore di f rispetto alla volatilità, cioè il Vega
+**D:** ⚠️ Quale termine aggiunge il $\Delta$–$\Gamma$–$\upsilon$ hedging allo sviluppo del $\Delta$–$\Gamma$ hedging, e che derivata è, secondo la lezione 21?
+**R:** Il termine **$\frac{\partial f}{\partial\sigma}d\sigma$**: lo sviluppo del $\Delta$–$\Gamma$ hedging, $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + o(dt)$ (deck 20, slide 2), diventa nella slide 9 $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$. Il docente: «approssimiamo il valore dell'opzione non attraverso soltanto il delta, cioè il primo termine …, non solo attraverso la derivata seconda … della nostra funzione f rispetto ad s, che ci consente quindi di portare in campo la quantità del gamma, ma intendiamo utilizzare anche un'altra derivata parziale rispetto al valore della volatilità» (transcript [00:25:36]–[00:25:55]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). ⚠️ È una derivata **prima**, rispetto a $\sigma$: il Vega, $\upsilon = \frac{\partial f}{\partial\sigma}$ della lezione 17.
+**Opzione:** Il termine $\frac{\partial f}{\partial\sigma}d\sigma$: un'altra derivata parziale, prima, del valore di $f$ rispetto alla volatilità, cioè il Vega
 **Distrattori:**
-- Il termine ½(∂²f/∂σ²)dσ²: un'altra derivata parziale, seconda, del valore di f rispetto alla volatilità, come il Gamma
+- Il termine $\frac{1}{2}\frac{\partial^2 f}{\partial\sigma^2}d\sigma^2$: un'altra derivata parziale, seconda, del valore di $f$ rispetto alla volatilità, come il Gamma
 - Resta invariante l'opzione venduta, (1.000); la posizione nella seconda opzione, molto più grande del magazzino di azioni, alla fine si smobilita del tutto
 
-**D:** ⚠️ Da quale situazione parte il Δ–Γ–υ hedging nelle slide 10–11 della lezione 21, e quale domanda pone?
-**R:** Slide 10: «Al tempo T=0 vendi 1 call» → «Si costruisca il nostro portafoglio in maniera tale da renderlo Δ neutrale»; la slide 11 aggiunge «?» e «Come si può rendere il nostro portafolio anche Γ–υ neutrale?» (sic, «portafolio»). Il docente: «Ipotizziamo che al tempo zero vendiamo una call e costruiamo quindi un portafoglio in maniera da renderlo, come abbiamo fatto sinora, delta neutrale. Come si può rendere il nostro portafoglio anche gamma vega neutrale? Questa è la domanda» (transcript [00:26:45]–[00:27:03]). ⚠️ Sono le slide 3–4 del Δ–Γ hedging (deck 20), con Γ–υ al posto di Γ.
-**Opzione:** Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+**D:** ⚠️ Da quale situazione parte il $\Delta$–$\Gamma$–$\upsilon$ hedging nelle slide 10–11 della lezione 21, e quale domanda pone?
+**R:** Slide 10: «Al tempo $T=0$ vendi 1 call» → «Si costruisca il nostro portafoglio in maniera tale da renderlo $\Delta$ neutrale»; la slide 11 aggiunge «?» e «Come si può rendere il nostro portafolio anche $\Gamma$–$\upsilon$ neutrale?» (sic, «portafolio»). Il docente: «Ipotizziamo che al tempo zero vendiamo una call e costruiamo quindi un portafoglio in maniera da renderlo, come abbiamo fatto sinora, delta neutrale. Come si può rendere il nostro portafoglio anche gamma vega neutrale? Questa è la domanda» (transcript [00:26:45]–[00:27:03]). ⚠️ Sono le slide 3–4 del $\Delta$–$\Gamma$ hedging (deck 20), con $\Gamma$–$\upsilon$ al posto di $\Gamma$.
+**Opzione:** Al tempo $T=0$ si vende 1 call e si costruisce il portafoglio $\Delta$ neutrale; la domanda è come renderlo anche $\Gamma$–$\upsilon$ neutrale
 **Distrattori:**
-- Al tempo T=0 si compra 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+- Al tempo $T=0$ si compra 1 call e si costruisce il portafoglio $\Delta$ neutrale; la domanda è come renderlo anche $\Gamma$–$\upsilon$ neutrale
 - Si detiene l'opzione 'Z' fino a scadenza, e alla scadenza l'opzione 'W' è OUT – the money
 - Dopo i 6.800 iniziali salgono al time step 1, con il prezzo verso l'in the money, poi si dismettono; a poco più di metà vita un piccolo investimento, con l'azione quasi at the money
 
-**D:** ⚠️ Quale logica propone per prima la slide 12 della lezione 21 per il Δ–Γ–υ hedging, e in quale ordine?
-**R:** Slide 12, «Seguiamo una logica iterativa»: un ciclo di frecce fra «Portafoglio Δ Neutrale», «Portafoglio Γ Neutrale», «Portafoglio υ Neutrale» e «Ricomposizione verso la Δ Neutralità», che torna al primo. Il docente: «Con il delta gamma hedging abbiamo visto che ha funzionato una strategia di carattere iterativo. In particolare abbiamo visto che un portafoglio delta neutrale, siamo andati a renderlo gamma neutrale, potremmo ritenere che quindi lo riferiremo [renderemo] vega neutrale, e poi ricomponiamo il tutto verso la delta neutralità» (transcript [00:27:07]–[00:27:26]). ⚠️ È la logica del Δ–Γ hedging (deck 20, slide 5) con una casella in più, e la slide 13 la boccia subito: «… ma questa logica NON È corretta».
-**Opzione:** Una logica iterativa: portafoglio Δ neutrale, poi Γ neutrale, poi υ neutrale, poi ricomposizione verso la Δ neutralità
+**D:** ⚠️ Quale logica propone per prima la slide 12 della lezione 21 per il $\Delta$–$\Gamma$–$\upsilon$ hedging, e in quale ordine?
+**R:** Slide 12, «Seguiamo una logica iterativa»: un ciclo di frecce fra «Portafoglio $\Delta$ Neutrale», «Portafoglio $\Gamma$ Neutrale», «Portafoglio $\upsilon$ Neutrale» e «Ricomposizione verso la $\Delta$ Neutralità», che torna al primo. Il docente: «Con il delta gamma hedging abbiamo visto che ha funzionato una strategia di carattere iterativo. In particolare abbiamo visto che un portafoglio delta neutrale, siamo andati a renderlo gamma neutrale, potremmo ritenere che quindi lo riferiremo [renderemo] vega neutrale, e poi ricomponiamo il tutto verso la delta neutralità» (transcript [00:27:07]–[00:27:26]). ⚠️ È la logica del $\Delta$–$\Gamma$ hedging (deck 20, slide 5) con una casella in più, e la slide 13 la boccia subito: «… ma questa logica NON È corretta».
+**Opzione:** Una logica iterativa: portafoglio $\Delta$ neutrale, poi $\Gamma$ neutrale, poi $\upsilon$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
 **Distrattori:**
-- Una logica iterativa: portafoglio Δ neutrale, poi υ neutrale, poi Γ neutrale, poi ricomposizione verso la Δ neutralità
-- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike K: una differenza di soli 34 dollari, un ordine di grandezza inferiore al Δ hedging
+- Una logica iterativa: portafoglio $\Delta$ neutrale, poi $\upsilon$ neutrale, poi $\Gamma$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
+- Il Borrow chiude a 100.034 dollari, contro i 100.000 dell'esercizio allo strike $K$: una differenza di soli 34 dollari, un ordine di grandezza inferiore al $\Delta$ hedging
 - Non dover mai costituire un ammontare di azioni da consegnare all'esercizio delle mille call vendute
 
-**D:** ⚠️ Perché la logica iterativa non è corretta nel Δ–Γ–υ hedging, secondo la slide 13 della lezione 21?
-**R:** Slide 13: «… ma questa logica NON È corretta» → «?» → «… se il Γ–υ di un'azione è 0» → «… sfortunatamente il Γ dell'opzione NON È 0». Il docente: «Con il delta gamma vega hedging questa logica non è corretta. Non è corretta perché purtroppo il gamma dell'opzione non è zero. Il gamma vega di un'azione è zero ma il gamma dell'opzione no e quindi questa modalità operativa rischierebbe di non riuscire mai a neutralizzare il portafoglio in una logica delta gamma vega» (transcript [00:27:50]–[00:28:01]). ⚠️ A essere zero è il Γ–υ dell'**azione**; a non essere zero è il Γ dell'**opzione**.
-**Opzione:** Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
+**D:** ⚠️ Perché la logica iterativa non è corretta nel $\Delta$–$\Gamma$–$\upsilon$ hedging, secondo la slide 13 della lezione 21?
+**R:** Slide 13: «… ma questa logica NON È corretta» → «?» → «… se il $\Gamma$–$\upsilon$ di un'azione è 0» → «… sfortunatamente il $\Gamma$ dell'opzione NON È 0». Il docente: «Con il delta gamma vega hedging questa logica non è corretta. Non è corretta perché purtroppo il gamma dell'opzione non è zero. Il gamma vega di un'azione è zero ma il gamma dell'opzione no e quindi questa modalità operativa rischierebbe di non riuscire mai a neutralizzare il portafoglio in una logica delta gamma vega» (transcript [00:27:50]–[00:28:01]). ⚠️ A essere zero è il $\Gamma$–$\upsilon$ dell'**azione**; a non essere zero è il $\Gamma$ dell'**opzione**.
+**Opzione:** Perché, se il $\Gamma$–$\upsilon$ di un'azione è 0, sfortunatamente il $\Gamma$ dell'opzione NON È 0
 **Distrattori:**
-- Perché, se il Γ–υ di un'opzione è 0, sfortunatamente il Γ dell'azione NON È 0
-- Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
-- Non è Δ neutrale: la seconda opzione Z neutralizza il Γ, ma il Delta del portafoglio B torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
+- Perché, se il $\Gamma$–$\upsilon$ di un'opzione è 0, sfortunatamente il $\Gamma$ dell'azione NON È 0
+- Al tempo $T=0$ si vende 1 call e si costruisce il portafoglio $\Delta$ neutrale; la domanda è come renderlo anche $\Gamma$–$\upsilon$ neutrale
+- Non è $\Delta$ neutrale: la seconda opzione $Z$ neutralizza il $\Gamma$, ma il Delta del portafoglio $B$ torna diverso da zero, 560 al time step 1, e va a zero quando la call finisce out of the money
 
-**D:** ⚠️ Perché la logica iterativa funziona nel Δ–Γ hedging e non nel Δ–Γ–υ hedging, secondo le lezioni 20 e 21?
-**R:** Nel Δ–Γ hedging «… questa logica è corretta perchè il Γ di un'azione è 0» (deck 20, slide 6): la ricomposizione verso la Δ neutralità con le azioni non tocca il Gamma. Nel Δ–Γ–υ hedging anche il υ dell'azione è 0 (slide 13: «il Γ–υ di un'azione è 0»), ma per rendere il portafoglio υ neutrale serve un'opzione, e «sfortunatamente il Γ dell'opzione NON È 0». Il docente: il portafoglio Δ neutrale «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità» (transcript [00:28:48]–[00:29:13]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). Che per il Vega serva un'opzione è una deduzione: un'azione ha υ nullo.
-**Opzione:** Nel Δ–Γ funziona perché il Γ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Γ neutralità, perché il Γ dell'opzione non è 0
+**D:** ⚠️ Perché la logica iterativa funziona nel $\Delta$–$\Gamma$ hedging e non nel $\Delta$–$\Gamma$–$\upsilon$ hedging, secondo le lezioni 20 e 21?
+**R:** Nel $\Delta$–$\Gamma$ hedging «… questa logica è corretta perchè il $\Gamma$ di un'azione è 0» (deck 20, slide 6): la ricomposizione verso la $\Delta$ neutralità con le azioni non tocca il Gamma. Nel $\Delta$–$\Gamma$–$\upsilon$ hedging anche il $\upsilon$ dell'azione è 0 (slide 13: «il $\Gamma$–$\upsilon$ di un'azione è 0»), ma per rendere il portafoglio $\upsilon$ neutrale serve un'opzione, e «sfortunatamente il $\Gamma$ dell'opzione NON È 0». Il docente: il portafoglio $\Delta$ neutrale «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità» (transcript [00:28:48]–[00:29:13]); «il gamma era una derivata seconda. Questa è un'altra derivata prima parziale» ([00:27:31]–[00:27:44]). Che per il Vega serva un'opzione è una deduzione: un'azione ha $\upsilon$ nullo.
+**Opzione:** Nel $\Delta$–$\Gamma$ funziona perché il $\Gamma$ di un'azione è 0; nel $\Delta$–$\Gamma$–$\upsilon$ rendere il portafoglio $\upsilon$ neutrale con un'opzione ne rompe la $\Gamma$ neutralità, perché il $\Gamma$ dell'opzione non è 0
 **Distrattori:**
-- Nel Δ–Γ funziona perché il Δ di un'azione è 0; nel Δ–Γ–υ rendere il portafoglio υ neutrale con un'opzione ne rompe la Δ neutralità, perché il Δ dell'opzione non è 0
+- Nel $\Delta$–$\Gamma$ funziona perché il $\Delta$ di un'azione è 0; nel $\Delta$–$\Gamma$–$\upsilon$ rendere il portafoglio $\upsilon$ neutrale con un'opzione ne rompe la $\Delta$ neutralità, perché il $\Delta$ dell'opzione non è 0
 - Perché, con lo sviluppo di Taylor fino alla derivata seconda, il portafoglio approssima meglio il valore dell'opzione, e i flussi di cassa effettivi si allineano di più a quelli della strategia
-- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione Z riduce l'investimento all'inizio e durante la vita, non alla fine
+- Perché, se l'opzione finisce in the money, le azioni da consegnare vanno comprate integralmente: l'opzione $Z$ riduce l'investimento all'inizio e durante la vita, non alla fine
 
-**D:** ⚠️ Che cosa serve, secondo la slide 14 della lezione 21, per superare il problema del Γ dell'opzione?
-**R:** Slide 14: dopo «… sfortunatamente il Γ dell'opzione NON È 0» la freccia porta a «… è necessaria un'altra opzione». Il docente: «è necessaria un'altra opzione, un'altra opzione che consenta quindi di poter risolvere il problema che il gamma dell'opzione non è zero e quindi poter ottenere contestualmente il gamma e il vega neutrale e quindi ricomporre poi il portafoglio per essere delta gamma vega neutrale» (transcript [00:28:19]). ⚠️ Un'altra **opzione**, non un'altra azione: insieme alla prima sono le due opzioni della slide 17.
-**Opzione:** È necessaria un'altra opzione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+**D:** ⚠️ Che cosa serve, secondo la slide 14 della lezione 21, per superare il problema del $\Gamma$ dell'opzione?
+**R:** Slide 14: dopo «… sfortunatamente il $\Gamma$ dell'opzione NON È 0» la freccia porta a «… è necessaria un'altra opzione». Il docente: «è necessaria un'altra opzione, un'altra opzione che consenta quindi di poter risolvere il problema che il gamma dell'opzione non è zero e quindi poter ottenere contestualmente il gamma e il vega neutrale e quindi ricomporre poi il portafoglio per essere delta gamma vega neutrale» (transcript [00:28:19]). ⚠️ Un'altra **opzione**, non un'altra azione: insieme alla prima sono le due opzioni della slide 17.
+**Opzione:** È necessaria un'altra opzione, per ottenere contestualmente il $\Gamma$ e il $\upsilon$ neutrale e poi ricomporre il portafoglio verso la $\Delta$ neutralità
 **Distrattori:**
-- È necessaria un'altra azione, per ottenere contestualmente il Γ e il υ neutrale e poi ricomporre il portafoglio verso la Δ neutralità
+- È necessaria un'altra azione, per ottenere contestualmente il $\Gamma$ e il $\upsilon$ neutrale e poi ricomporre il portafoglio verso la $\Delta$ neutralità
 - Parte da 100,0, at the money, resta vicino all'at the money fino al sesto-settimo time step, poi va drammaticamente out of the money e chiude a 71,5
-- Portfolio "C" = Port. "B" + Stock f(Δ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
+- Portfolio "C" = Port. "B" + Stock f($\Delta$ hedge of "B"): si vendono azioni, con il segno sempre negativo, e si liberano risorse finanziarie dall'investimento in azioni
 
 **D:** ⚠️ A che cosa si può puntare con l'altra opzione, e che cosa succede altrimenti, secondo la slide 15 della lezione 21?
-**R:** Slide 15: «… allora si può puntare ad ottenere un portafoglio Γ–υ neutrale» → «… altrimenti si entra un loop senza soluzione» (sic, senza «in»). Il docente: il delta gamma vega hedging, «se vogliamo avere un portafoglio gamma vega neutrale, richiede una strategia quindi differente, altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso» (transcript [00:28:48]). ⚠️ Il portafoglio da ottenere è Γ–υ neutrale **insieme**, non prima Γ e poi υ.
-**Opzione:** Si può puntare a ottenere un portafoglio Γ–υ neutrale; altrimenti si entra in un loop senza soluzione
+**R:** Slide 15: «… allora si può puntare ad ottenere un portafoglio $\Gamma$–$\upsilon$ neutrale» → «… altrimenti si entra un loop senza soluzione» (sic, senza «in»). Il docente: il delta gamma vega hedging, «se vogliamo avere un portafoglio gamma vega neutrale, richiede una strategia quindi differente, altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso» (transcript [00:28:48]). ⚠️ Il portafoglio da ottenere è $\Gamma$–$\upsilon$ neutrale **insieme**, non prima $\Gamma$ e poi $\upsilon$.
+**Opzione:** Si può puntare a ottenere un portafoglio $\Gamma$–$\upsilon$ neutrale; altrimenti si entra in un loop senza soluzione
 **Distrattori:**
-- Si può puntare a ottenere un portafoglio solo Γ neutrale; altrimenti si entra in un loop senza soluzione
-- Al tempo T=0 si vende 1 call e si costruisce il portafoglio Δ neutrale; la domanda è come renderlo anche Γ–υ neutrale
+- Si può puntare a ottenere un portafoglio solo $\Gamma$ neutrale; altrimenti si entra in un loop senza soluzione
+- Al tempo $T=0$ si vende 1 call e si costruisce il portafoglio $\Delta$ neutrale; la domanda è come renderlo anche $\Gamma$–$\upsilon$ neutrale
 - Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
 
 **D:** ⚠️ Che cosa mostra il «circolo vizioso» della slide 16 della lezione 21, rispetto al ciclo della slide 12?
-**R:** Slide 16, «Questo è il circolo vizioso»: lo stesso ciclo della slide 12, Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Portafoglio υ Neutrale → Ricomposizione verso la Δ Neutralità, con in più una **freccia verde** che dal portafoglio υ neutrale torna al portafoglio Γ neutrale. Il docente: il portafoglio «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità che non ci consenterebbe la ricomposizione verso la delta neutralità» (transcript [00:28:48]–[00:29:13]). ⚠️ Si gira fra Γ e υ neutralità, e alla ricomposizione verso la Δ neutralità non si arriva mai.
-**Opzione:** Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio υ neutrale torna al Γ neutrale: si gira fra Γ e υ neutralità senza arrivare alla ricomposizione verso la Δ neutralità
+**R:** Slide 16, «Questo è il circolo vizioso»: lo stesso ciclo della slide 12, Portafoglio $\Delta$ Neutrale → Portafoglio $\Gamma$ Neutrale → Portafoglio $\upsilon$ Neutrale → Ricomposizione verso la $\Delta$ Neutralità, con in più una **freccia verde** che dal portafoglio $\upsilon$ neutrale torna al portafoglio $\Gamma$ neutrale. Il docente: il portafoglio «tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale, e continueremo a girare in questo circolo vizioso di gamma e di vega neutralità che non ci consenterebbe la ricomposizione verso la delta neutralità» (transcript [00:28:48]–[00:29:13]). ⚠️ Si gira fra $\Gamma$ e $\upsilon$ neutralità, e alla ricomposizione verso la $\Delta$ neutralità non si arriva mai.
+**Opzione:** Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio $\upsilon$ neutrale torna al $\Gamma$ neutrale: si gira fra $\Gamma$ e $\upsilon$ neutralità senza arrivare alla ricomposizione verso la $\Delta$ neutralità
 **Distrattori:**
-- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio Γ neutrale torna al Δ neutrale: si gira fra Δ e Γ neutralità senza arrivare alla neutralità del υ
+- Lo stesso ciclo della logica iterativa, con una freccia che dal portafoglio $\Gamma$ neutrale torna al $\Delta$ neutrale: si gira fra $\Delta$ e $\Gamma$ neutralità senza arrivare alla neutralità del $\upsilon$
 - Si comprano 564 azioni al time step 0, poi il magazzino va in dismissione man mano che l'opzione va out of the money: 1 azione al time step 18, nessuna al 20
-- 6.800 dollari in azioni e 8.628 nell'opzione Z: paradossalmente l'investimento nell'opzione Z è più elevato di quello nelle azioni
+- 6.800 dollari in azioni e 8.628 nell'opzione $Z$: paradossalmente l'investimento nell'opzione $Z$ è più elevato di quello nelle azioni
 
 **D:** ⚠️ Com'è fatto il «circolo virtuoso» della slide 17 della lezione 21?
-**R:** Slide 17, «Questo è il circolo virtuoso»: Portafoglio Δ Neutrale → «Uso congiunto di 2 opzioni» → Portafoglio Γ–υ Neutrale → Ricomposizione verso la Δ Neutralità → di nuovo Portafoglio Δ Neutrale. Il docente: «Quello che bisogna fare è quindi costruire un circolo virtuoso, usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo», poi «potremo ricomporre il portafoglio verso la delta neutralità» (transcript [00:29:30]–[00:29:44]); «Questo è l'approccio corretto che svilupperemo quindi nelle successive lezioni» ([00:29:54]). ⚠️ Due opzioni, non tre; e le caselle Γ e υ si fondono in una sola, «Γ–υ Neutrale».
-**Opzione:** Portafoglio Δ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
+**R:** Slide 17, «Questo è il circolo virtuoso»: Portafoglio $\Delta$ Neutrale → «Uso congiunto di 2 opzioni» → Portafoglio $\Gamma$–$\upsilon$ Neutrale → Ricomposizione verso la $\Delta$ Neutralità → di nuovo Portafoglio $\Delta$ Neutrale. Il docente: «Quello che bisogna fare è quindi costruire un circolo virtuoso, usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo», poi «potremo ricomporre il portafoglio verso la delta neutralità» (transcript [00:29:30]–[00:29:44]); «Questo è l'approccio corretto che svilupperemo quindi nelle successive lezioni» ([00:29:54]). ⚠️ Due opzioni, non tre; e le caselle $\Gamma$ e $\upsilon$ si fondono in una sola, «$\Gamma$–$\upsilon$ Neutrale».
+**Opzione:** Portafoglio $\Delta$ neutrale, poi uso congiunto di 2 opzioni, poi portafoglio $\Gamma$–$\upsilon$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
 **Distrattori:**
-- Portafoglio Δ neutrale, poi uso congiunto di 3 opzioni, poi portafoglio Γ–υ neutrale, poi ricomposizione verso la Δ neutralità
-- Perché, se il Γ–υ di un'azione è 0, sfortunatamente il Γ dell'opzione NON È 0
-- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del Δ hedging
+- Portafoglio $\Delta$ neutrale, poi uso congiunto di 3 opzioni, poi portafoglio $\Gamma$–$\upsilon$ neutrale, poi ricomposizione verso la $\Delta$ neutralità
+- Perché, se il $\Gamma$–$\upsilon$ di un'azione è 0, sfortunatamente il $\Gamma$ dell'opzione NON È 0
+- Al massimo 95 azioni, al time step 1, poi intorno a 30, 40, 50 e fino a zero: un ordine di grandezza inferiore alle 400-500 azioni del $\Delta$ hedging
 
-**D:** Che differenza c'è, nella lezione 21, fra il circolo vizioso e il circolo virtuoso del Δ–Γ–υ hedging?
-**R:** Nel circolo vizioso (slide 16) Γ e υ si neutralizzano **uno dopo l'altro**: la υ neutralità rompe la Γ neutralità, perché «il Γ dell'opzione NON È 0» (slide 13), e si torna indietro senza fine, «un loop senza soluzione» (slide 15). Nel circolo virtuoso (slide 17) si usano **congiuntamente due opzioni**, e il portafoglio diventa Γ–υ neutrale «nello stesso tempo»; solo dopo si ricompone verso la Δ neutralità (transcript [00:28:48]–[00:29:44]). Nel Δ–Γ hedging, invece, la logica iterativa bastava, perché il Γ di un'azione è 0 (deck 20, slide 6).
+**D:** Che differenza c'è, nella lezione 21, fra il circolo vizioso e il circolo virtuoso del $\Delta$–$\Gamma$–$\upsilon$ hedging?
+**R:** Nel circolo vizioso (slide 16) $\Gamma$ e $\upsilon$ si neutralizzano **uno dopo l'altro**: la $\upsilon$ neutralità rompe la $\Gamma$ neutralità, perché «il $\Gamma$ dell'opzione NON È 0» (slide 13), e si torna indietro senza fine, «un loop senza soluzione» (slide 15). Nel circolo virtuoso (slide 17) si usano **congiuntamente due opzioni**, e il portafoglio diventa $\Gamma$–$\upsilon$ neutrale «nello stesso tempo»; solo dopo si ricompone verso la $\Delta$ neutralità (transcript [00:28:48]–[00:29:44]). Nel $\Delta$–$\Gamma$ hedging, invece, la logica iterativa bastava, perché il $\Gamma$ di un'azione è 0 (deck 20, slide 6).
 
 **D:** ⚠️ Come può essere formalizzato l'approccio Delta-Gamma-Vega Hedging (domanda 1 del test della lezione 21)?
-**R:** «**utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f**»: la slide 9 scrive «Calcolo di df attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt), e il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); poco prima ha migliorato «l'approssimazione del portafoglio di replicazione attraverso lo sviluppo di Taylor» ([00:20:55]–[00:21:03]). 🚨 La piattaforma segna invece «utilizzando la formula di Eulero…»: è una chiave sbagliata. La formula di Eulero nel corso compare solo nella lezione 01, per la trasformata di Fourier. Gli altri distrattori del test: «come un sistema di equazioni alle differenze», che non è nei materiali; «utilizzando la formula di Feynman-Cac…», il teorema del pricing della lezione 16. ⚠️ Se la domanda torna identica, la piattaforma potrebbe dare il punto a Eulero; nel merito vale Taylor.
+**R:** «**utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f**»: la slide 9 scrive «Calcolo di $df$ attraverso un'espansione di Taylor del secondo ordine, facendo attenzione alla volatilità», $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$, e il docente: «Partiamo sempre dalla nostra espansione di Taylor» (transcript [00:25:31]); poco prima ha migliorato «l'approssimazione del portafoglio di replicazione attraverso lo sviluppo di Taylor» ([00:20:55]–[00:21:03]). 🚨 La piattaforma segna invece «utilizzando la formula di Eulero…»: è una chiave sbagliata. La formula di Eulero nel corso compare solo nella lezione 01, per la trasformata di Fourier. Gli altri distrattori del test: «come un sistema di equazioni alle differenze», che non è nei materiali; «utilizzando la formula di Feynman-Cac…», il teorema del pricing della lezione 16. ⚠️ Se la domanda torna identica, la piattaforma potrebbe dare il punto a Eulero; nel merito vale Taylor.
 **Opzione:** utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f
 **Distrattori:**
 - utilizzando la formula di Eulero sul differenziale del valore di un portafoglio di replicazione del derivato f
 - come un sistema di equazioni alle differenze
 - utilizzando la formula di Feynman-Cac sul differenziale del valore di un portafoglio di replicazione del derivato f
 
-**D:** ⚠️ Come può essere formalizzato analiticamente l'approccio Delta-Gamma-Vega Hedging, dato il valore di un derivato f, secondo il test della lezione 21 (domanda 2)?
-**R:** «**df ≈ DdS+1/2GdS2+ds df/ds +o(dt)**», cioè la formula della slide 9, df ≈ ΔdS + ½ΓdS² + (∂f/∂σ)dσ + o(dt), con «D» per Δ, «G» per Γ e la «s» minuscola per σ. Il docente: al Delta, «il primo termine», e al Gamma, la derivata seconda rispetto a S, si aggiunge «un'altra derivata parziale rispetto al valore della volatilità», «un terzo termine nell'approssimazione di Taylor» (transcript [00:25:36]–[00:26:12]). Distrattori del test: «df ≈ DdS+ds df/ds +o(dt)» toglie il termine del Gamma, che sta in mezzo; «df ≈ DdS» è il Δ hedging della lezione 18 senza nemmeno o(dt); «f= StN'(d1) (T-t)1/2» è la formula del Vega, S_tN'(d_1)√(T-t), con «f=» davanti. ⚠️ In «ds df/ds» la s minuscola è σ, non il sottostante S.
+**D:** ⚠️ Come può essere formalizzato analiticamente l'approccio Delta-Gamma-Vega Hedging, dato il valore di un derivato $f$, secondo il test della lezione 21 (domanda 2)?
+**R:** «**df ≈ DdS+1/2GdS2+ds df/ds +o(dt)**», cioè la formula della slide 9, $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + \frac{\partial f}{\partial\sigma}d\sigma + o(dt)$, con «D» per $\Delta$, «G» per $\Gamma$ e la «s» minuscola per $\sigma$. Il docente: al Delta, «il primo termine», e al Gamma, la derivata seconda rispetto a $S$, si aggiunge «un'altra derivata parziale rispetto al valore della volatilità», «un terzo termine nell'approssimazione di Taylor» (transcript [00:25:36]–[00:26:12]). Distrattori del test: «df ≈ DdS+ds df/ds +o(dt)» toglie il termine del Gamma, che sta in mezzo; «df ≈ DdS» è il $\Delta$ hedging della lezione 18 senza nemmeno $o(dt)$; «f= StN'(d1) (T-t)1/2» è la formula del Vega, $S_tN'(d_1)\sqrt{T-t}$, con «f=» davanti. ⚠️ In «ds df/ds» la s minuscola è $\sigma$, non il sottostante $S$.
 **Opzione:** df ≈ DdS+1/2GdS2+ds df/ds +o(dt)
 **Distrattori:**
 - f= StN'(d1) (T-t)1/2
@@ -7069,16 +7386,16 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - una logica iterativa
 - un approccio logico
 
-**D:** ⚠️ Che cosa comporta un approccio iterativo nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, secondo il test della lezione 21 (domanda 4)?
-**R:** «**un loop senza soluzione**»: la slide 15 dice «… altrimenti si entra un loop senza soluzione», e la slide 16, «Questo è il circolo vizioso», è il ciclo iterativo della slide 12 con la freccia che dal portafoglio υ neutrale torna al Γ neutrale. Il docente: «altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso dove il portafoglio delta neutrale tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale» (transcript [00:28:48]–[00:29:13]); il motivo è che «il gamma dell'opzione non è zero» ([00:27:55]). Distrattori del test: «l'uso congiunto di tre opzioni» è la chiave della domanda 5 con tre al posto di due; «un approccio logico» e «un approccio ontologico» non sono nei materiali.
+**D:** ⚠️ Che cosa comporta un approccio iterativo nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione $W$, secondo il test della lezione 21 (domanda 4)?
+**R:** «**un loop senza soluzione**»: la slide 15 dice «… altrimenti si entra un loop senza soluzione», e la slide 16, «Questo è il circolo vizioso», è il ciclo iterativo della slide 12 con la freccia che dal portafoglio $\upsilon$ neutrale torna al $\Gamma$ neutrale. Il docente: «altrimenti noi entreremmo in un loop senza soluzione, un circolo vizioso dove il portafoglio delta neutrale tenteremo di farlo diventare gamma neutrale. Poi deve diventare vega neutrale, ma quindi non è più gamma neutrale» (transcript [00:28:48]–[00:29:13]); il motivo è che «il gamma dell'opzione non è zero» ([00:27:55]). Distrattori del test: «l'uso congiunto di tre opzioni» è la chiave della domanda 5 con tre al posto di due; «un approccio logico» e «un approccio ontologico» non sono nei materiali.
 **Opzione:** un loop senza soluzione
 **Distrattori:**
 - l'uso congiunto di tre opzioni
 - un approccio logico
 - un approccio ontologico
 
-**D:** ⚠️ Come avviene la ricomposizione del portafoglio nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, secondo il test della lezione 21 (domanda 5)?
-**R:** «**l'uso congiunto di due opzioni**»: è la casella del circolo virtuoso della slide 17, «Uso congiunto di 2 opzioni», che porta al portafoglio Γ–υ neutrale e poi alla ricomposizione verso la Δ neutralità. Il docente: «usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo» (transcript [00:29:30]). Distrattori del test: «una logica iterativa» è la slide 12, bocciata dalla 13; «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Nel test della lezione 20 la stessa domanda, per il Delta-Gamma Hedging, ha per chiave proprio «una logica iterativa»: lì la logica è corretta perché il Γ di un'azione è 0.
+**D:** ⚠️ Come avviene la ricomposizione del portafoglio nel Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione $W$, secondo il test della lezione 21 (domanda 5)?
+**R:** «**l'uso congiunto di due opzioni**»: è la casella del circolo virtuoso della slide 17, «Uso congiunto di 2 opzioni», che porta al portafoglio $\Gamma$–$\upsilon$ neutrale e poi alla ricomposizione verso la $\Delta$ neutralità. Il docente: «usare congiuntamente due opzioni e portare quindi ad essere il portafoglio gamma vega neutrale nello stesso tempo» (transcript [00:29:30]). Distrattori del test: «una logica iterativa» è la slide 12, bocciata dalla 13; «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Nel test della lezione 20 la stessa domanda, per il Delta-Gamma Hedging, ha per chiave proprio «una logica iterativa»: lì la logica è corretta perché il $\Gamma$ di un'azione è 0.
 **Opzione:** l'uso congiunto di due opzioni
 **Distrattori:**
 - una logica iterativa
@@ -7087,43 +7404,43 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 22 — Gestione del rischio - Greche 6 – Delta-Gamma-Vega Hedging
 
-**D:** ⚠️ Che tipo di opzione si deve compravendere nel Δ–Γ–υ hedging della lezione 22 (slide 2–3)?
-**R:** Slide 2–3: «… un'opzione che consenta di replicare il Γ–υ dell'opzione venduta …e che non causi troppe deformazioni al delta delle opzioni vendute». Il docente: «È evidente che si tratta di un'opzione che consenta di replicare il gamma vega, vedete l'analisi è congiunta, il gamma vega dell'opzione venduta» (transcript [00:00:28]); le deformazioni al delta vanno evitate perché genererebbero «un eccesso di variabilità tale per cui alla fine si rischi di generare un eccesso di richiesta di compravendita di titoli per riportare alla neutralità il portafoglio» ([00:00:42]). ⚠️ Si **replica** il Γ–υ, si evita di **deformare** il delta: nella lezione 20 la stessa domanda valeva per il solo Γ.
-**Opzione:** Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+**D:** ⚠️ Che tipo di opzione si deve compravendere nel $\Delta$–$\Gamma$–$\upsilon$ hedging della lezione 22 (slide 2–3)?
+**R:** Slide 2–3: «… un'opzione che consenta di replicare il $\Gamma$–$\upsilon$ dell'opzione venduta …e che non causi troppe deformazioni al delta delle opzioni vendute». Il docente: «È evidente che si tratta di un'opzione che consenta di replicare il gamma vega, vedete l'analisi è congiunta, il gamma vega dell'opzione venduta» (transcript [00:00:28]); le deformazioni al delta vanno evitate perché genererebbero «un eccesso di variabilità tale per cui alla fine si rischi di generare un eccesso di richiesta di compravendita di titoli per riportare alla neutralità il portafoglio» ([00:00:42]). ⚠️ Si **replica** il $\Gamma$–$\upsilon$, si evita di **deformare** il delta: nella lezione 20 la stessa domanda valeva per il solo $\Gamma$.
+**Opzione:** Un'opzione che consenta di replicare il $\Gamma$–$\upsilon$ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
 **Distrattori:**
-- Un'opzione che consenta di replicare il Δ–Γ dell'opzione venduta, e che non causi troppe deformazioni al vega delle opzioni vendute
-- 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+- Un'opzione che consenta di replicare il $\Delta$–$\Gamma$ dell'opzione venduta, e che non causi troppe deformazioni al vega delle opzioni vendute
+- 168 azioni contro le 564 del portafoglio $A$: un alleggerimento consistente del portafoglio di azioni
 - Le asiatiche e le americane: i loro prezzi vanno approssimati
 
-**D:** ⚠️ Quale prima riflessione sul Vega guida la scelta delle opzioni nel Δ–Γ–υ hedging, e quale vantaggio ne vede il docente (slide 4)?
-**R:** Slide 4 e 8: «Le opzioni ATM hanno il υ più alto». Il docente: «le opzioni at the money hanno il vega più elevato. Questo vuol dire che con un'opzione at the money quindi ho molto vega a disposizione, ho molta disponibilità attraverso poche opzioni di poter coprire tanto vega» (transcript [00:01:23]–[00:01:30]). La slide 5 è il grafico del υ al variare di S e σ, con l'asse fino a 24,00, lo stesso della slide 7 della lezione 18. ⚠️ Le opzioni **ATM**; nella lezione 20 la stessa riflessione riguardava il Γ.
-**Opzione:** Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+**D:** ⚠️ Quale prima riflessione sul Vega guida la scelta delle opzioni nel $\Delta$–$\Gamma$–$\upsilon$ hedging, e quale vantaggio ne vede il docente (slide 4)?
+**R:** Slide 4 e 8: «Le opzioni ATM hanno il $\upsilon$ più alto». Il docente: «le opzioni at the money hanno il vega più elevato. Questo vuol dire che con un'opzione at the money quindi ho molto vega a disposizione, ho molta disponibilità attraverso poche opzioni di poter coprire tanto vega» (transcript [00:01:23]–[00:01:30]). La slide 5 è il grafico del $\upsilon$ al variare di $S$ e $\sigma$, con l'asse fino a 24,00, lo stesso della slide 7 della lezione 18. ⚠️ Le opzioni **ATM**; nella lezione 20 la stessa riflessione riguardava il $\Gamma$.
+**Opzione:** Le opzioni ATM hanno il $\upsilon$ più alto: con poche opzioni si può coprire tanto vega
 **Distrattori:**
-- Le opzioni OTM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+- Le opzioni OTM hanno il $\upsilon$ più alto: con poche opzioni si può coprire tanto vega
 - Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
 - All'azione e al mercato
 
-**D:** ⚠️ Quale seconda riflessione sul Vega di un'opzione propone la lezione 22 per il Δ–Γ–υ hedging (slide 6 e 8)?
-**R:** Slide 6: «Il υ di un'opzione si riduce naturalmente con il passare del tempo»; slide 8: «Il υ di un'opzione decresce naturalmente al passare del tempo». Il docente: «Il vega di un'opzione infatti sappiamo che si riduce naturalmente con il passare del tempo. E anche questo è importante» (transcript [00:02:01]). ⚠️ Si **riduce**, non aumenta: per questo si scelgono opzioni a **lunga** scadenza.
-**Opzione:** Il υ di un'opzione si riduce naturalmente con il passare del tempo
+**D:** ⚠️ Quale seconda riflessione sul Vega di un'opzione propone la lezione 22 per il $\Delta$–$\Gamma$–$\upsilon$ hedging (slide 6 e 8)?
+**R:** Slide 6: «Il $\upsilon$ di un'opzione si riduce naturalmente con il passare del tempo»; slide 8: «Il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo». Il docente: «Il vega di un'opzione infatti sappiamo che si riduce naturalmente con il passare del tempo. E anche questo è importante» (transcript [00:02:01]). ⚠️ Si **riduce**, non aumenta: per questo si scelgono opzioni a **lunga** scadenza.
+**Opzione:** Il $\upsilon$ di un'opzione si riduce naturalmente con il passare del tempo
 **Distrattori:**
-- Il υ di un'opzione aumenta naturalmente con il passare del tempo
-- II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+- Il $\upsilon$ di un'opzione aumenta naturalmente con il passare del tempo
+- II option: $\Gamma$ 0,0155 e $\upsilon$ 20,3815; III option: $\Gamma$ 0,0149 e $\upsilon$ 20,5532
 - Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
 
 **D:** ⚠️ Come cambia la forma del Vega con la time to maturity nel grafico della slide 7 della lezione 22, secondo il docente?
-**R:** Slide 7: il grafico del υ al variare di T e di S, con l'asse fino a 36,00. Il docente: «la forma del vega è drammaticamente differente con la time to maturity»; «mentre con poco tempo l'andamento segue l'usuale discesa a forma di V morbida, rovesciata. Quando il tempo è molto elevato e la moneyness è positiva, il vega [non] scende. Il vega scende soltanto per moneyness negativa» (transcript [00:02:09]–[00:02:48]; il riconoscimento vocale scrive «il vegano scende», letto come «non scende» per la frase che segue). Ne trae: «conviene avere opzioni a moneyness positiva in presenza di tanto tempo perché di fatto ci danno molto vega a disposizione» ([00:02:52]). ⚠️ Solo nel transcript: la conclusione delle slide 8–9 resta ATM a lunga scadenza.
+**R:** Slide 7: il grafico del $\upsilon$ al variare di $T$ e di $S$, con l'asse fino a 36,00. Il docente: «la forma del vega è drammaticamente differente con la time to maturity»; «mentre con poco tempo l'andamento segue l'usuale discesa a forma di V morbida, rovesciata. Quando il tempo è molto elevato e la moneyness è positiva, il vega [non] scende. Il vega scende soltanto per moneyness negativa» (transcript [00:02:09]–[00:02:48]; il riconoscimento vocale scrive «il vegano scende», letto come «non scende» per la frase che segue). Ne trae: «conviene avere opzioni a moneyness positiva in presenza di tanto tempo perché di fatto ci danno molto vega a disposizione» ([00:02:52]). ⚠️ Solo nel transcript: la conclusione delle slide 8–9 resta ATM a lunga scadenza.
 **Opzione:** Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness negativa
 **Distrattori:**
 - Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness positiva
-- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il $\Gamma$, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il $\upsilon$
 - All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
 
 **D:** ⚠️ Da quali due riflessioni discende, nella slide 8 della lezione 22, la ricomposizione del portafoglio con opzioni ATM a lunga scadenza?
-**R:** Slide 8: «Le opzioni ATM hanno il υ più alto» e «Il υ di un'opzione decresce naturalmente al passare del tempo» ⇩ «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza». Il docente: «Quindi, le opzioni at the money hanno il vega più alto, il vega di un'opzione decresce naturalmente al passare del tempo. Quindi … io voglio meno opzioni con tanto vega … prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:24]–[00:03:32]). ⚠️ Le riflessioni sono sul **υ**: quelle sul **Γ** erano della lezione 20, e portavano prima a opzioni «ATM ed a breve scadenza» (deck 20, slide 16).
-**Opzione:** Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
+**R:** Slide 8: «Le opzioni ATM hanno il $\upsilon$ più alto» e «Il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo» ⇩ «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza». Il docente: «Quindi, le opzioni at the money hanno il vega più alto, il vega di un'opzione decresce naturalmente al passare del tempo. Quindi … io voglio meno opzioni con tanto vega … prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:24]–[00:03:32]). ⚠️ Le riflessioni sono sul **$\upsilon$**: quelle sul **$\Gamma$** erano della lezione 20, e portavano prima a opzioni «ATM ed a breve scadenza» (deck 20, slide 16).
+**Opzione:** Le opzioni ATM hanno il $\upsilon$ più alto; il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo
 **Distrattori:**
-- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo
+- Le opzioni ATM hanno il $\Gamma$ più alto; il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo
 - Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
 - Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
 
@@ -7132,7 +7449,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Costi di transazione, strategie di trading, limiti di rischio
 **Distrattori:**
 - Costi di transazione, strategie di trading, funzionamento del mercato
-- Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+- Come media dei valori con il sottostante a +1% e a -1%: $\Delta = \frac{1}{2}(\Delta_{+1\%} + \Delta_{-1\%})$, e così $\Gamma$ e $\upsilon$
 - Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
 
 **D:** ⚠️ Quali limiti di rischio cita come esempio il docente della lezione 22 per l'operatività di un desk?
@@ -7140,184 +7457,184 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
 **Distrattori:**
 - 100.000 euro di delta, 150.000 euro di gamma e 200.000 euro di vega equivalenti
-- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
-- Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+- Si comprano 2.022 opzioni II ($Z$), l'Option for $\Gamma$, e si vendono 1.051 opzioni III ($Y$), l'Option for $\upsilon$
+- Prima la call $W$ finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
 
-**D:** ⚠️ Come si imposta al tempo T=0 il Δ–Γ–υ hedging «attraverso le formule», e quanto valgono Delta e Gamma del portafoglio A (slide 10)?
-**R:** Slide 10: «Tempo T=0 — 1 vendita call (W) — Si definisca un portafoglio Δ neutrale 'A' — 1 acquisto opzione (Z) — 1 acquisto opzione (Y)», con **Δ_A = 0** e **Γ_A = N ∗ Γ_W**. Il docente: «il nostro portafoglio delta neutrale A lo abbiamo costruito, che vuol dire che delta è uguale a 0 e poi abbiamo il gamma del portafoglio A che non è altro che n cioè il numero di opzioni per il gamma dell'opzione [W] che abbiamo venduto» (transcript [00:05:24]). ⚠️ A è Δ neutrale, non Γ neutrale. La slide dice «acquisto», ma le quantità hanno segno: nell'esempio la Y si vende.
-**Opzione:** Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+**D:** ⚠️ Come si imposta al tempo $T=0$ il $\Delta$–$\Gamma$–$\upsilon$ hedging «attraverso le formule», e quanto valgono Delta e Gamma del portafoglio $A$ (slide 10)?
+**R:** Slide 10: «Tempo $T=0$ — 1 vendita call ($W$) — Si definisca un portafoglio $\Delta$ neutrale 'A' — 1 acquisto opzione ($Z$) — 1 acquisto opzione ($Y$)», con **$\Delta_A = 0$** e **$\Gamma_A = N \ast \Gamma_W$**. Il docente: «il nostro portafoglio delta neutrale A lo abbiamo costruito, che vuol dire che delta è uguale a 0 e poi abbiamo il gamma del portafoglio A che non è altro che n cioè il numero di opzioni per il gamma dell'opzione [W] che abbiamo venduto» (transcript [00:05:24]). ⚠️ $A$ è $\Delta$ neutrale, non $\Gamma$ neutrale. La slide dice «acquisto», ma le quantità hanno segno: nell'esempio la $Y$ si vende.
+**Opzione:** Si vende la call $W$, si definisce il portafoglio $\Delta$ neutrale $A$ e si aggiungono le opzioni $Z$ e $Y$: $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 **Distrattori:**
-- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Δ_W
+- Si vende la call $W$, si definisce il portafoglio $\Delta$ neutrale $A$ e si aggiungono le opzioni $Z$ e $Y$: $\Delta_A = 0$ e $\Gamma_A = N \ast \Delta_W$
 - Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
 - Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
 
-**D:** ⚠️ Come si definisce il portafoglio B del Δ–Γ–υ hedging, e quanto vale il suo Delta (slide 11–12)?
-**R:** Slide 11: «Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y». Slide 12: Δ_B = Δ_A + N_ZΔ_Z + N_YΔ_Y ⇩ Δ_B = N_ZΔ_Z + N_YΔ_Y. Il docente: «Il delta del portafoglio B altro non è che il delta del portafoglio A più il numero delle opzioni Z per il delta di Z più il numero delle opzioni Y per il delta di Y. Ma dato che il delta è neutrale per A non è altro che NZ delta Z più NY delta Y» (transcript [00:06:11]–[00:06:27]). ⚠️ Δ_A = 0 non rende B Δ neutrale: le opzioni Z e Y hanno un Delta (slide 23). Nella lezione 20 B = A + N ∗ Z.
-**Opzione:** Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = N_ZΔ_Z + N_YΔ_Y perché Δ_A = 0
+**D:** ⚠️ Come si definisce il portafoglio $B$ del $\Delta$–$\Gamma$–$\upsilon$ hedging, e quanto vale il suo Delta (slide 11–12)?
+**R:** Slide 11: «Portafoglio $B$ = Portafoglio $A + N \ast Z + N \ast Y$». Slide 12: $\Delta_B = \Delta_A + N_Z\Delta_Z + N_Y\Delta_Y$ ⇩ $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$. Il docente: «Il delta del portafoglio B altro non è che il delta del portafoglio A più il numero delle opzioni Z per il delta di Z più il numero delle opzioni Y per il delta di Y. Ma dato che il delta è neutrale per A non è altro che NZ delta Z più NY delta Y» (transcript [00:06:11]–[00:06:27]). ⚠️ $\Delta_A = 0$ non rende $B$ $\Delta$ neutrale: le opzioni $Z$ e $Y$ hanno un Delta (slide 23). Nella lezione 20 $B = A + N \ast Z$.
+**Opzione:** Portafoglio $B$ = Portafoglio $A + N \ast Z + N \ast Y$, con $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$ perché $\Delta_A = 0$
 **Distrattori:**
-- Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = 0 perché Δ_A = 0
-- Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+- Portafoglio $B$ = Portafoglio $A + N \ast Z + N \ast Y$, con $\Delta_B = 0$ perché $\Delta_A = 0$
+- Come media dei valori con il sottostante a +1% e a -1%: $\Delta = \frac{1}{2}(\Delta_{+1\%} + \Delta_{-1\%})$, e così $\Gamma$ e $\upsilon$
 - Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
 
-**D:** ⚠️ Quale sistema si risolve nel Δ–Γ–υ hedging per rendere il portafoglio B Γ–υ neutrale (slide 13–14)?
-**R:** Slide 13: Γ_B = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y, «Dato che: Γ_A = N_WΓ_W». Slide 14: «… al fine di ottenere Γ_B = υ_B = 0 …cioè un portafoglio Γ–υ neutrale», con il sistema 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y. Il docente: «Dobbiamo ottenere contestualmente che il gamma di B e il vega di B siano uguali a zero, cioè un portafoglio gamma vega neutrale. Questo equivale a dover risolvere un sistema a due equazioni» (transcript [00:07:01]–[00:07:23]). ⚠️ Le equazioni sono del **Gamma** e del **Vega**; il Delta si sistema dopo, con le azioni.
-**Opzione:** 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y, cioè Γ_B = υ_B = 0
+**D:** ⚠️ Quale sistema si risolve nel $\Delta$–$\Gamma$–$\upsilon$ hedging per rendere il portafoglio $B$ $\Gamma$–$\upsilon$ neutrale (slide 13–14)?
+**R:** Slide 13: $\Gamma_B = n_w\cdot\Gamma_w + n_z\cdot\Gamma_z + n_y\cdot\Gamma_y$, «Dato che: $\Gamma_A = N_W\Gamma_W$». Slide 14: «… al fine di ottenere $\Gamma_B = \upsilon_B = 0$ …cioè un portafoglio $\Gamma$–$\upsilon$ neutrale», con il sistema $0 = n_w\cdot\Gamma_w + n_z\cdot\Gamma_z + n_y\cdot\Gamma_y$ e $0 = n_w\cdot\upsilon_w + n_z\cdot\upsilon_z + n_y\cdot\upsilon_y$. Il docente: «Dobbiamo ottenere contestualmente che il gamma di B e il vega di B siano uguali a zero, cioè un portafoglio gamma vega neutrale. Questo equivale a dover risolvere un sistema a due equazioni» (transcript [00:07:01]–[00:07:23]). ⚠️ Le equazioni sono del **Gamma** e del **Vega**; il Delta si sistema dopo, con le azioni.
+**Opzione:** $0 = n_w\cdot\Gamma_w + n_z\cdot\Gamma_z + n_y\cdot\Gamma_y$ e $0 = n_w\cdot\upsilon_w + n_z\cdot\upsilon_z + n_y\cdot\upsilon_y$, cioè $\Gamma_B = \upsilon_B = 0$
 **Distrattori:**
-- 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·Δ_w + n_z·Δ_z + n_y·Δ_y, cioè Γ_B = Δ_B = 0
+- $0 = n_w\cdot\Gamma_w + n_z\cdot\Gamma_z + n_y\cdot\Gamma_y$ e $0 = n_w\cdot\Delta_w + n_z\cdot\Delta_z + n_y\cdot\Delta_y$, cioè $\Gamma_B = \Delta_B = 0$
 - df ≈ DdS+1/2GdS2+ds df/ds +o(dt)
 - All'azione e al mercato
 
-**D:** ⚠️ Che cosa si ricava per primo dal sistema del Δ–Γ–υ hedging, da quale equazione, e che cosa se ne fa (slide 15–16)?
-**R:** Slide 15: dall'equazione del **Gamma**, n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z. Slide 16: lo si sostituisce in quella del **Vega**, 0 = n_w·υ_w + ((-n_w·Γ_w - n_y·Γ_y)/Γ_z)·υ_z + n_y·υ_y. Il docente: «otteniamo che nz altro non è che meno n[w] gamma [w] meno ny gamma y diviso gamma z e una volta che abbiamo ottenuto nz lo andiamo a sostituire nell'altra equazione» (transcript [00:07:34]). ⚠️ È un n_z ancora in funzione di n_y: si calcola prima n_y (slide 19), poi si torna a n_z (slide 20–21).
-**Opzione:** n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
+**D:** ⚠️ Che cosa si ricava per primo dal sistema del $\Delta$–$\Gamma$–$\upsilon$ hedging, da quale equazione, e che cosa se ne fa (slide 15–16)?
+**R:** Slide 15: dall'equazione del **Gamma**, $n_z = \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}$. Slide 16: lo si sostituisce in quella del **Vega**, $0 = n_w\cdot\upsilon_w + \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}\cdot\upsilon_z + n_y\cdot\upsilon_y$. Il docente: «otteniamo che nz altro non è che meno n[w] gamma [w] meno ny gamma y diviso gamma z e una volta che abbiamo ottenuto nz lo andiamo a sostituire nell'altra equazione» (transcript [00:07:34]). ⚠️ È un $n_z$ ancora in funzione di $n_y$: si calcola prima $n_y$ (slide 19), poi si torna a $n_z$ (slide 20–21).
+**Opzione:** $n_z = \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}$, dall'equazione del Gamma, da sostituire in quella del Vega
 **Distrattori:**
-- n_z = (-n_w·υ_w - n_y·υ_y)/υ_z, dall'equazione del Vega, da sostituire in quella del Gamma
+- $n_z = \frac{-n_w\cdot\upsilon_w - n_y\cdot\upsilon_y}{\upsilon_z}$, dall'equazione del Vega, da sostituire in quella del Gamma
 - Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
 - Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
 
-**D:** ⚠️ Che cosa si ottiene nella lezione 22 moltiplicando per Γ_z l'equazione del Vega e raccogliendo n_y (slide 17–18)?
-**R:** Slide 17: 0 = n_w·υ_w·Γ_z - n_w·Γ_w·υ_z - n_y·Γ_y·υ_z + n_y·υ_y·Γ_z. Slide 18: **-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)**. Il docente: «moltiplichiamo per gamma z, poi possiamo eliminarla e semplificarla dal denominatore» (transcript [00:08:16]); «Portiamo e raccogliamo per n di y dall'altro lato dell'equivalenza» ([00:08:51]). ⚠️ Fra parentesi c'è υ_y·Γ_z **meno** Γ_y·υ_z: è il denominatore di n_y e di n_z.
-**Opzione:** -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
+**D:** ⚠️ Che cosa si ottiene nella lezione 22 moltiplicando per $\Gamma_z$ l'equazione del Vega e raccogliendo $n_y$ (slide 17–18)?
+**R:** Slide 17: $0 = n_w\cdot\upsilon_w\cdot\Gamma_z - n_w\cdot\Gamma_w\cdot\upsilon_z - n_y\cdot\Gamma_y\cdot\upsilon_z + n_y\cdot\upsilon_y\cdot\Gamma_z$. Slide 18: **$-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z = n_y(\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z)$**. Il docente: «moltiplichiamo per gamma z, poi possiamo eliminarla e semplificarla dal denominatore» (transcript [00:08:16]); «Portiamo e raccogliamo per n di y dall'altro lato dell'equivalenza» ([00:08:51]). ⚠️ Fra parentesi c'è $\upsilon_y\cdot\Gamma_z$ **meno** $\Gamma_y\cdot\upsilon_z$: è il denominatore di $n_y$ e di $n_z$.
+**Opzione:** $-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z = n_y(\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z)$
 **Distrattori:**
-- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z + Γ_y·υ_z)
+- $-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z = n_y(\upsilon_y\cdot\Gamma_z + \Gamma_y\cdot\upsilon_z)$
 - Le asiatiche e le americane: i loro prezzi vanno approssimati
-- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+- 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il $\Gamma$, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il $\upsilon$
 
-**D:** ⚠️ Quante opzioni Y si devono negoziare nel Δ–Γ–υ hedging della lezione 22 (slide 19 e 22)?
-**R:** Slide 19 e 22: **n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)**, «È necessario negoziare … Y opzioni». Il docente: «linea di frazione a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]); «E bisognerà negoziare altresì Y opzioni» ([00:12:19]). ⚠️ Si calcola **prima** di n_z. È la chiave della domanda 2 del test e il distrattore D della domanda 1; la C del test tronca il denominatore a υ_y·Γ_z.
-**Opzione:** n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)
+**D:** ⚠️ Quante opzioni $Y$ si devono negoziare nel $\Delta$–$\Gamma$–$\upsilon$ hedging della lezione 22 (slide 19 e 22)?
+**R:** Slide 19 e 22: **$n_y = \frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}$**, «È necessario negoziare … $Y$ opzioni». Il docente: «linea di frazione a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]); «E bisognerà negoziare altresì Y opzioni» ([00:12:19]). ⚠️ Si calcola **prima** di $n_z$. È la chiave della domanda 2 del test e il distrattore D della domanda 1; la C del test tronca il denominatore a $\upsilon_y\cdot\Gamma_z$.
+**Opzione:** $n_y = \frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}$
 **Distrattori:**
-- n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z)
+- $n_y = \frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z}$
 - NZ = - NW GZ/GW
 - Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
 
-**D:** ⚠️ Quante opzioni Z si devono negoziare nel Δ–Γ–υ hedging della lezione 22, nella forma finale (slide 21–22)?
-**R:** Slide 20: si mette n_y in n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z. Slide 21–22: **n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z**, «È necessario negoziare … Z opzioni». Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). ⚠️ Il primo addendo è il N_Z del Δ–Γ hedging della lezione 20, -N_W · Γ_W/Γ_Z; il secondo è n_y·Γ_y/Γ_z. È la chiave della domanda 1 del test; senza il fattore Γ_y/Γ_z è il distrattore A della domanda 2.
-**Opzione:** n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z
+**D:** ⚠️ Quante opzioni $Z$ si devono negoziare nel $\Delta$–$\Gamma$–$\upsilon$ hedging della lezione 22, nella forma finale (slide 21–22)?
+**R:** Slide 20: si mette $n_y$ in $n_z = \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}$. Slide 21–22: **$n_z = -\frac{n_w\cdot\Gamma_w}{\Gamma_z} - \left(\frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}\right)\cdot\frac{\Gamma_y}{\Gamma_z}$**, «È necessario negoziare … $Z$ opzioni». Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). ⚠️ Il primo addendo è il $N_Z$ del $\Delta$–$\Gamma$ hedging della lezione 20, $-N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$; il secondo è $\frac{n_y\cdot\Gamma_y}{\Gamma_z}$. È la chiave della domanda 1 del test; senza il fattore $\frac{\Gamma_y}{\Gamma_z}$ è il distrattore A della domanda 2.
+**Opzione:** $n_z = -\frac{n_w\cdot\Gamma_w}{\Gamma_z} - \left(\frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}\right)\cdot\frac{\Gamma_y}{\Gamma_z}$
 **Distrattori:**
-- n_z = -n_w·Γ_w/Γ_z - (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z)
+- $n_z = -\frac{n_w\cdot\Gamma_w}{\Gamma_z} - \frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}$
 - All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
-- Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+- $\Delta_B = 396$: per il portafoglio $C$ si vendono 396 azioni, con un magazzino negativo di (396)
 
-**D:** ⚠️ Perché nella lezione 22 la procedura non finisce con le opzioni Z e Y, e come si arriva al portafoglio C (slide 23–24)?
-**R:** Slide 23: «… ma la procedura non finisce quì (sic) — Il nuovo portafoglio B non è Δ neutrale: Δ_B = N_ZΔ_Z + N_YΔ_Y». Slide 24: «Ribilanciamo il portafoglio al fine di ottenere il risultato: Δ_C = 0». Il docente: «il portafoglio C sarà esattamente delta neutrale perché sarà costruito con una compravendita di azioni tale da risolvere questa criticità» (transcript [00:13:28]). ⚠️ Con le **azioni**, che hanno Γ e υ nulli (lezione 21, slide 13): il ribilanciamento non tocca la Γ–υ neutralità. È il «circolo virtuoso» della lezione 21.
-**Opzione:** B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
+**D:** ⚠️ Perché nella lezione 22 la procedura non finisce con le opzioni $Z$ e $Y$, e come si arriva al portafoglio $C$ (slide 23–24)?
+**R:** Slide 23: «… ma la procedura non finisce quì (sic) — Il nuovo portafoglio $B$ non è $\Delta$ neutrale: $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$». Slide 24: «Ribilanciamo il portafoglio al fine di ottenere il risultato: $\Delta_C = 0$». Il docente: «il portafoglio C sarà esattamente delta neutrale perché sarà costruito con una compravendita di azioni tale da risolvere questa criticità» (transcript [00:13:28]). ⚠️ Con le **azioni**, che hanno $\Gamma$ e $\upsilon$ nulli (lezione 21, slide 13): il ribilanciamento non tocca la $\Gamma$–$\upsilon$ neutralità. È il «circolo virtuoso» della lezione 21.
+**Opzione:** $B$ non è $\Delta$ neutrale, $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$: lo si ribilancia con una compravendita di azioni fino a $\Delta_C = 0$
 **Distrattori:**
-- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una terza opzione fino a Δ_C = 0
+- $B$ non è $\Delta$ neutrale, $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$: lo si ribilancia con una terza opzione fino a $\Delta_C = 0$
 - 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
-- II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+- II option: $\Gamma$ 0,0155 e $\upsilon$ 20,3815; III option: $\Gamma$ 0,0149 e $\upsilon$ 20,5532
 
-**D:** ⚠️ Che cosa dicono Kurpiel & Roncalli (1998) del Δ–Γ–υ hedging, e in quali condizioni (slide 25)?
-**R:** Slide 25: «Kurpiel & Roncalli (1998) — Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica». Il docente: «attenzione questo è un punto chiave cioè noi andiamo a inserire un fattore di correzione per il vega il che vuol dire che … quel sottostante abbia una forte dipendenza dalla volatilità, cioè una movimentazione dei prezzi dei titoli che è fortemente variabile nel tempo» (transcript [00:14:09]–[00:14:37]). ⚠️ **Stocastica**, non costante. Nella lezione 20 lo stesso studio dice che il Δ–Γ hedging sugli stessi orizzonti **non** fornisce vantaggi sostanziali rispetto al solo Δ hedging.
-**Opzione:** Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+**D:** ⚠️ Che cosa dicono Kurpiel & Roncalli (1998) del $\Delta$–$\Gamma$–$\upsilon$ hedging, e in quali condizioni (slide 25)?
+**R:** Slide 25: «Kurpiel & Roncalli (1998) — Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica». Il docente: «attenzione questo è un punto chiave cioè noi andiamo a inserire un fattore di correzione per il vega il che vuol dire che … quel sottostante abbia una forte dipendenza dalla volatilità, cioè una movimentazione dei prezzi dei titoli che è fortemente variabile nel tempo» (transcript [00:14:09]–[00:14:37]). ⚠️ **Stocastica**, non costante. Nella lezione 20 lo stesso studio dice che il $\Delta$–$\Gamma$ hedging sugli stessi orizzonti **non** fornisce vantaggi sostanziali rispetto al solo $\Delta$ hedging.
+**Opzione:** Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
 **Distrattori:**
-- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità costante
+- Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità costante
 - Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
 - l'uso congiunto di due opzioni
 
-**D:** ⚠️ Che tipo di sottostante ha l'esempio di Δ–Γ–υ hedging della lezione 22, secondo il docente, e da dove viene il guadagno nel caso out of the money?
+**D:** ⚠️ Che tipo di sottostante ha l'esempio di $\Delta$–$\Gamma$–$\upsilon$ hedging della lezione 22, secondo il docente, e da dove viene il guadagno nel caso out of the money?
 **R:** Il docente: «Poiché questo non era un sottostante con volatilità stocastica come dicevano Kurpiel e Roncalli, questa strategia alla fine non porta, sì in questo caso ci è andata bene perché se le opzioni vanno out of the money non c'è l'impegno delle azioni e quindi la strategia di replicazione del portafoglio di replica porta a guadagnare qualcosa e anche qualcosa in più rispetto al delta gamma hedging» (transcript [00:28:30]). ⚠️ Solo nel transcript. Il sottostante **non** ha volatilità stocastica, la condizione in cui per Kurpiel & Roncalli la strategia rende di più (slide 25).
 **Opzione:** Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
 **Distrattori:**
 - Un sottostante con volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
-- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+- Si vende la call $W$, si definisce il portafoglio $\Delta$ neutrale $A$ e si aggiungono le opzioni $Z$ e $Y$: $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 - un loop senza soluzione
 
-**D:** ⚠️ In che ordine la lezione 22 svolge i due esempi di Δ–Γ–υ hedging, e a quanto chiude l'azione in ciascuno (slide 26–27 e 32–33)?
-**R:** Prima la call W finisce **out of the money** (slide 26: «Alla scadenza l'opzione 'W' è OUT – the money»): l'azione parte da 100,0, sale fino a 109,1 e chiude a **87,5** (slide 27). Il docente: «finire al ventesimo time step out of the money, tanto è vero che 87,5 è inferiore a 100 che il prezzo strike» (transcript [00:16:06]). Poi **in the money** (slide 32): «Il titolo finisce a 135,4, il titolo è in the money» ([00:30:06]; slide 33). ⚠️ Nelle lezioni 19 e 21 l'ordine era il contrario, prima in the money e poi out of the money.
-**Opzione:** Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+**D:** ⚠️ In che ordine la lezione 22 svolge i due esempi di $\Delta$–$\Gamma$–$\upsilon$ hedging, e a quanto chiude l'azione in ciascuno (slide 26–27 e 32–33)?
+**R:** Prima la call $W$ finisce **out of the money** (slide 26: «Alla scadenza l'opzione 'W' è OUT – the money»): l'azione parte da 100,0, sale fino a 109,1 e chiude a **87,5** (slide 27). Il docente: «finire al ventesimo time step out of the money, tanto è vero che 87,5 è inferiore a 100 che il prezzo strike» (transcript [00:16:06]). Poi **in the money** (slide 32): «Il titolo finisce a 135,4, il titolo è in the money» ([00:30:06]; slide 33). ⚠️ Nelle lezioni 19 e 21 l'ordine era il contrario, prima in the money e poi out of the money.
+**Opzione:** Prima la call $W$ finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
 **Distrattori:**
-- Prima la call W finisce in the money, con l'azione a 135,4, poi out of the money, con l'azione a 87,5
-- 0 = n_w·Γ_w + n_z·Γ_z + n_y·Γ_y e 0 = n_w·υ_w + n_z·υ_z + n_y·υ_y, cioè Γ_B = υ_B = 0
-- Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
+- Prima la call $W$ finisce in the money, con l'azione a 135,4, poi out of the money, con l'azione a 87,5
+- $0 = n_w\cdot\Gamma_w + n_z\cdot\Gamma_z + n_y\cdot\Gamma_y$ e $0 = n_w\cdot\upsilon_w + n_z\cdot\upsilon_z + n_y\cdot\upsilon_y$, cioè $\Gamma_B = \upsilon_B = 0$
+- Le opzioni ATM hanno il $\upsilon$ più alto: con poche opzioni si può coprire tanto vega
 
-**D:** ⚠️ Quanto valgono il Gamma e il Vega del portafoglio A al time step 0 degli esempi della lezione 22 (slide 27 e 33)?
-**R:** Slide 27 e 33, colonne «Γ Portfolio "A"» e «υ Portfolio "A"» («Γ portfolio = Γ I Option∗n.az. Underlying», «υ portfolio = υ I Option∗n.az. Underlying»): **(15,70)** e **(19.628)**, cioè -15,70 e -19.628. Il docente: «come vedete sono valori importanti 15,70 negativo 19,628 e questo è l'equivalente diciamo in dollari può essere riportato in dollari per definire i limiti di rischio del portafoglio» (transcript [00:19:57]). Il Delta di A è invece neutrale: la Total Δ position è «-». ⚠️ Negativi, perché le 1.000 call sono vendute (deduzione); il Γ ha la virgola decimale, il υ il punto delle migliaia.
-**Opzione:** Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+**D:** ⚠️ Quanto valgono il Gamma e il Vega del portafoglio $A$ al time step 0 degli esempi della lezione 22 (slide 27 e 33)?
+**R:** Slide 27 e 33, colonne «$\Gamma$ Portfolio "A"» e «$\upsilon$ Portfolio "A"» («$\Gamma$ portfolio = $\Gamma$ I Option∗n.az. Underlying», «$\upsilon$ portfolio = $\upsilon$ I Option∗n.az. Underlying»): **(15,70)** e **(19.628)**, cioè -15,70 e -19.628. Il docente: «come vedete sono valori importanti 15,70 negativo 19,628 e questo è l'equivalente diciamo in dollari può essere riportato in dollari per definire i limiti di rischio del portafoglio» (transcript [00:19:57]). Il Delta di $A$ è invece neutrale: la Total $\Delta$ position è «-». ⚠️ Negativi, perché le 1.000 call sono vendute (deduzione); il $\Gamma$ ha la virgola decimale, il $\upsilon$ il punto delle migliaia.
+**Opzione:** $\Gamma = -15{,}70$ e $\upsilon = -19.628$: il portafoglio $A$ è $\Delta$ neutrale, ma non è né $\Gamma$ né $\upsilon$ neutrale
 **Distrattori:**
-- Γ = -19.628 e υ = -15,70: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+- $\Gamma = -19.628$ e $\upsilon = -15{,}70$: il portafoglio $A$ è $\Delta$ neutrale, ma non è né $\Gamma$ né $\upsilon$ neutrale
 - Un sottostante senza volatilità stocastica: il guadagno viene dal fatto che, out of the money, non c'è l'impegno delle azioni
-- Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
+- Le opzioni ATM hanno il $\upsilon$ più alto; il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo
 
-**D:** ⚠️ Quanto valgono Gamma e Vega delle opzioni II (Z) e III (Y) al time step 0 degli esempi della lezione 22 (slide 28)?
-**R:** Slide 28: II Option value 8,5320, Γ II 0,0155, υ II 20,3815; III Option value 10,8995, Γ III 0,0149, υ III 20,5532. Il docente: «0,0155 da un lato, 20,38 dall'altro, per la seconda opzione. Per la terza opzione 0,0149 e 20,55» (transcript [00:21:40]–[00:22:08]): sono «valori di ordine di grandezza diverso». I valori delle opzioni si calcolano con Black-Scholes-Merton ([00:21:11]), e Gamma e Vega «tendono a scemare man mano che ci avviciniamo alla scadenza» ([00:22:16]). ⚠️ La II ha il Γ più alto, la III il υ più alto.
-**Opzione:** II option: Γ 0,0155 e υ 20,3815; III option: Γ 0,0149 e υ 20,5532
+**D:** ⚠️ Quanto valgono Gamma e Vega delle opzioni II ($Z$) e III ($Y$) al time step 0 degli esempi della lezione 22 (slide 28)?
+**R:** Slide 28: II Option value 8,5320, $\Gamma$ II 0,0155, $\upsilon$ II 20,3815; III Option value 10,8995, $\Gamma$ III 0,0149, $\upsilon$ III 20,5532. Il docente: «0,0155 da un lato, 20,38 dall'altro, per la seconda opzione. Per la terza opzione 0,0149 e 20,55» (transcript [00:21:40]–[00:22:08]): sono «valori di ordine di grandezza diverso». I valori delle opzioni si calcolano con Black-Scholes-Merton ([00:21:11]), e Gamma e Vega «tendono a scemare man mano che ci avviciniamo alla scadenza» ([00:22:16]). ⚠️ La II ha il $\Gamma$ più alto, la III il $\upsilon$ più alto.
+**Opzione:** II option: $\Gamma$ 0,0155 e $\upsilon$ 20,3815; III option: $\Gamma$ 0,0149 e $\upsilon$ 20,5532
 **Distrattori:**
-- II option: Γ 0,0149 e υ 20,5532; III option: Γ 0,0155 e υ 20,3815
+- II option: $\Gamma$ 0,0149 e $\upsilon$ 20,5532; III option: $\Gamma$ 0,0155 e $\upsilon$ 20,3815
 - Con poco tempo una V morbida rovesciata; con tanto tempo il vega scende soltanto per moneyness negativa
-- Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
+- $\Gamma = -15{,}70$ e $\upsilon = -19.628$: il portafoglio $A$ è $\Delta$ neutrale, ma non è né $\Gamma$ né $\upsilon$ neutrale
 
-**D:** ⚠️ Quante opzioni II (Z) e III (Y) si negoziano al time step 0 degli esempi della lezione 22, e in che verso (slide 28 e 30)?
-**R:** Slide 28: «n. II option Buy/sell» **2.022**, «n. III opzione buy/sell» **(1.051)**; slide 30: «Option for Γ» Buy/sell 2.022 e «Option for υ» Buy/sell (1.051). Il docente: «compreremo 2022 opzioni del secondo tipo e venderemo 1051 opzioni dell'opzione Y» (transcript [00:23:26]–[00:23:41]); «per il gamma noi avremo comprato 2022 opzioni al tempo zero e per il vega, questo è il punto chiave, io ne avrò vendute 1051 di un altro tipo» ([00:27:19]). ⚠️ La slide 10 scrive «1 acquisto opzione (Y)», ma la Y si **vende**. Le colonne Tot della slide 28 tornano con il sistema: 31 - 16 ≈ 15,70 e 41.219 - 21.591 = 19.628 (deduzione).
-**Opzione:** Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
+**D:** ⚠️ Quante opzioni II ($Z$) e III ($Y$) si negoziano al time step 0 degli esempi della lezione 22, e in che verso (slide 28 e 30)?
+**R:** Slide 28: «n. II option Buy/sell» **2.022**, «n. III opzione buy/sell» **(1.051)**; slide 30: «Option for $\Gamma$» Buy/sell 2.022 e «Option for $\upsilon$» Buy/sell (1.051). Il docente: «compreremo 2022 opzioni del secondo tipo e venderemo 1051 opzioni dell'opzione Y» (transcript [00:23:26]–[00:23:41]); «per il gamma noi avremo comprato 2022 opzioni al tempo zero e per il vega, questo è il punto chiave, io ne avrò vendute 1051 di un altro tipo» ([00:27:19]). ⚠️ La slide 10 scrive «1 acquisto opzione ($Y$)», ma la $Y$ si **vende**. Le colonne Tot della slide 28 tornano con il sistema: 31 - 16 ≈ 15,70 e 41.219 - 21.591 = 19.628 (deduzione).
+**Opzione:** Si comprano 2.022 opzioni II ($Z$), l'Option for $\Gamma$, e si vendono 1.051 opzioni III ($Y$), l'Option for $\upsilon$
 **Distrattori:**
-- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si comprano 1.051 opzioni III (Y), l'Option for υ
-- Il υ di un'opzione si riduce naturalmente con il passare del tempo
-- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+- Si comprano 2.022 opzioni II ($Z$), l'Option for $\Gamma$, e si comprano 1.051 opzioni III ($Y$), l'Option for $\upsilon$
+- Il $\upsilon$ di un'opzione si riduce naturalmente con il passare del tempo
+- Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
 
-**D:** ⚠️ Quanto vale il Delta del portafoglio B al time step 0 degli esempi della lezione 22, e che cosa si fa per il portafoglio C (slide 28–29)?
-**R:** Slide 28, «Δ Port. "B"»: Total Δ position **396**. Slide 29, «portfolio "C"= Port. "B"+ Stock f(Δ hedge of "B")»: Stock to Buy/(Sell) **(396)**, Warehouse (396), Total Δ position del portafoglio C «-». Il docente: «il portafoglio con un delta di 396 per esempio azioni al tempo zero. Ricordate che partivamo quando il portafoglio A era delta neutrale che ne dovevamo prendere 560 e passa» (transcript [00:25:09]–[00:25:18]); «io dovrò vendere 396 azioni al tempo zero … e quindi si crea un magazzino negativo di azioni» ([00:25:50]–[00:26:01]). ⚠️ Il Delta di B è **positivo**, quindi le azioni si **vendono**.
-**Opzione:** Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+**D:** ⚠️ Quanto vale il Delta del portafoglio $B$ al time step 0 degli esempi della lezione 22, e che cosa si fa per il portafoglio $C$ (slide 28–29)?
+**R:** Slide 28, «$\Delta$ Port. "B"»: Total $\Delta$ position **396**. Slide 29, «portfolio "C"= Port. "B"+ Stock f($\Delta$ hedge of "B")»: Stock to Buy/(Sell) **(396)**, Warehouse (396), Total $\Delta$ position del portafoglio $C$ «-». Il docente: «il portafoglio con un delta di 396 per esempio azioni al tempo zero. Ricordate che partivamo quando il portafoglio A era delta neutrale che ne dovevamo prendere 560 e passa» (transcript [00:25:09]–[00:25:18]); «io dovrò vendere 396 azioni al tempo zero … e quindi si crea un magazzino negativo di azioni» ([00:25:50]–[00:26:01]). ⚠️ Il Delta di $B$ è **positivo**, quindi le azioni si **vendono**.
+**Opzione:** $\Delta_B = 396$: per il portafoglio $C$ si vendono 396 azioni, con un magazzino negativo di (396)
 **Distrattori:**
-- Δ_B = 396: per il portafoglio C si comprano 396 azioni, con un magazzino positivo di 396
+- $\Delta_B = 396$: per il portafoglio $C$ si comprano 396 azioni, con un magazzino positivo di 396
 - 100 azioni
-- Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+- Un'opzione che consenta di replicare il $\Gamma$–$\upsilon$ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
 
-**D:** ⚠️ Quante azioni ha il portafoglio C al time step 0 degli esempi della lezione 22, rispetto al portafoglio A, e che cosa ne dice il docente (slide 30)?
-**R:** Slide 30, «quantitative composition of the "C" Portfolio, value of Δ & Γ & υ»: Stock Warehouse **168**, Short Opt. (1.000), Option for Γ 2.022, Option for υ (1.051), e Δ, Γ, υ portfolio C «-». Il docente: «la compravendita di opzioni Z e Y … stanno generando un alleggerimento consistente del portafoglio di azioni che avrebbe richiesto una semplice strategia di portafoglio delta neutrale» (transcript [00:26:10]–[00:26:20]); «le azioni dai 560 e passa sono … 168» ([00:26:48]–[00:26:54]). ⚠️ 168 = 564 - 396: le azioni del portafoglio A **meno** quelle vendute per il Delta di B (deduzione). Nel Δ–Γ hedging della lezione 21 erano 68.
-**Opzione:** 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+**D:** ⚠️ Quante azioni ha il portafoglio $C$ al time step 0 degli esempi della lezione 22, rispetto al portafoglio $A$, e che cosa ne dice il docente (slide 30)?
+**R:** Slide 30, «quantitative composition of the "C" Portfolio, value of $\Delta$ & $\Gamma$ & $\upsilon$»: Stock Warehouse **168**, Short Opt. (1.000), Option for $\Gamma$ 2.022, Option for $\upsilon$ (1.051), e $\Delta$, $\Gamma$, $\upsilon$ portfolio $C$ «-». Il docente: «la compravendita di opzioni Z e Y … stanno generando un alleggerimento consistente del portafoglio di azioni che avrebbe richiesto una semplice strategia di portafoglio delta neutrale» (transcript [00:26:10]–[00:26:20]); «le azioni dai 560 e passa sono … 168» ([00:26:48]–[00:26:54]). ⚠️ 168 = 564 - 396: le azioni del portafoglio $A$ **meno** quelle vendute per il Delta di $B$ (deduzione). Nel $\Delta$–$\Gamma$ hedging della lezione 21 erano 68.
+**Opzione:** 168 azioni contro le 564 del portafoglio $A$: un alleggerimento consistente del portafoglio di azioni
 **Distrattori:**
-- 960 azioni, le 564 del portafoglio A più le 396 del Delta di B: un appesantimento del portafoglio di azioni
+- 960 azioni, le 564 del portafoglio $A$ più le 396 del Delta di $B$: un appesantimento del portafoglio di azioni
 - Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
 - 100.000 euro di delta, 200.000 euro di gamma e 150.000 euro di vega equivalenti
 
-**D:** ⚠️ Come finisce il magazzino di azioni del portafoglio C nei due esempi della lezione 22 (slide 30 e 36)?
+**D:** ⚠️ Come finisce il magazzino di azioni del portafoglio $C$ nei due esempi della lezione 22 (slide 30 e 36)?
 **R:** Out of the money (slide 30): da 168 azioni al time step 0, con un massimo di **283** al time step 6, a **zero** alla scadenza; il docente: «evolvono fino ad arrivare a 0 perché l'opzione è finita out of the money» (transcript [00:26:54]). In the money (slide 36): a **1.000** azioni alla scadenza; il docente: «Alla fine avremo mille azioni in magazzino, questo è il punto chiave perché dobbiamo integralmente compensare la vendita dell'opzione che è finita in the money e implica che dobbiamo avere i titoli da consegnare» ([00:31:37]–[00:31:48]). ⚠️ Le posizioni nelle due opzioni, invece, alla scadenza sono chiuse in tutti e due i casi.
 **Opzione:** Out of the money a zero, dopo un massimo di 283; in the money a 1.000, le azioni da consegnare per le call esercitate
 **Distrattori:**
 - Out of the money a 1.000, le azioni da consegnare per le call esercitate; in the money a zero, dopo un massimo di 283
-- Le opzioni ATM hanno il υ più alto; il υ di un'opzione decresce naturalmente al passare del tempo
-- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
+- Le opzioni ATM hanno il $\upsilon$ più alto; il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo
+- $B$ non è $\Delta$ neutrale, $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$: lo si ribilancia con una compravendita di azioni fino a $\Delta_C = 0$
 
-**D:** ⚠️ Quanto si deve finanziare al time step 0 del Δ–Γ–υ hedging della lezione 22, e con quali flussi (slide 31)?
-**R:** Slide 31, «Delta Gamma Vega Hedging Cash Flow»: Dollars in Stock 16.800, Cash ex Shorting/Exercising Option 10.378, Opt. for Γ 17.255, Opt. for υ (11.450); Cash e Borrow **12.228**. Il docente: «quanto si riceve dalla vendita dell'opzione originaria 10.378, acquisto di 17.255 e vendita di 11.450, complessivamente nettando tutti questi flussi arriviamo a 12.228 dollari che devono essere finanziati con un impegno finanziario che è superiore a quello del delta gamma hedging» (transcript [00:29:15]). 16.800 = 168 × 100,0, e 16.800 - 10.378 + 17.255 - 11.450 ≈ 12.228 (deduzione). ⚠️ Nel Δ–Γ hedging della lezione 21 erano 5.050, nel Δ hedging della lezione 19 46.022.
-**Opzione:** 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il Γ, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il υ
+**D:** ⚠️ Quanto si deve finanziare al time step 0 del $\Delta$–$\Gamma$–$\upsilon$ hedging della lezione 22, e con quali flussi (slide 31)?
+**R:** Slide 31, «Delta Gamma Vega Hedging Cash Flow»: Dollars in Stock 16.800, Cash ex Shorting/Exercising Option 10.378, Opt. for $\Gamma$ 17.255, Opt. for $\upsilon$ (11.450); Cash e Borrow **12.228**. Il docente: «quanto si riceve dalla vendita dell'opzione originaria 10.378, acquisto di 17.255 e vendita di 11.450, complessivamente nettando tutti questi flussi arriviamo a 12.228 dollari che devono essere finanziati con un impegno finanziario che è superiore a quello del delta gamma hedging» (transcript [00:29:15]). 16.800 = 168 × 100,0, e 16.800 - 10.378 + 17.255 - 11.450 ≈ 12.228 (deduzione). ⚠️ Nel $\Delta$–$\Gamma$ hedging della lezione 21 erano 5.050, nel $\Delta$ hedging della lezione 19 46.022.
+**Opzione:** 12.228 dollari: 16.800 di azioni e 17.255 di opzioni per il $\Gamma$, meno i 10.378 della vendita delle call e gli 11.450 della vendita delle opzioni per il $\upsilon$
 **Distrattori:**
-- 12.228 dollari: 16.800 di azioni e 11.450 di opzioni per il υ, meno i 10.378 della vendita delle call e i 17.255 della vendita delle opzioni per il Γ
-- Un'opzione che consenta di replicare il Γ–υ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
-- Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
+- 12.228 dollari: 16.800 di azioni e 11.450 di opzioni per il $\upsilon$, meno i 10.378 della vendita delle call e i 17.255 della vendita delle opzioni per il $\Gamma$
+- Un'opzione che consenta di replicare il $\Gamma$–$\upsilon$ dell'opzione venduta, e che non causi troppe deformazioni al delta delle opzioni vendute
+- Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica
 
-**D:** ⚠️ Quale risultato dà alla scadenza il Δ–Γ–υ hedging dell'esempio out of the money della lezione 22, e come lo confronta il docente (slide 31)?
-**R:** Slide 31: Hedging Revenue (cost) **205**, senza parentesi, e Borrow (205): alla fine la cassa è positiva. Il docente: «in questo caso c'è un guadagno di 205 dollari. Non sono quindi 20-30 dollari del Delta Gamma Hedging. Qui noi abbiamo un delta gamma vega hedging che porta a questo tipo di risultato che è più grande, quasi compatibile col delta, ma questo è anche derivante dal tipo di sottostante che stiamo andando a gestire» (transcript [00:28:01]–[00:28:13]). ⚠️ Un **guadagno**. Nel Δ–Γ hedging out of the money della lezione 21 il risultato era un costo di 9 dollari, (9).
+**D:** ⚠️ Quale risultato dà alla scadenza il $\Delta$–$\Gamma$–$\upsilon$ hedging dell'esempio out of the money della lezione 22, e come lo confronta il docente (slide 31)?
+**R:** Slide 31: Hedging Revenue (cost) **205**, senza parentesi, e Borrow (205): alla fine la cassa è positiva. Il docente: «in questo caso c'è un guadagno di 205 dollari. Non sono quindi 20-30 dollari del Delta Gamma Hedging. Qui noi abbiamo un delta gamma vega hedging che porta a questo tipo di risultato che è più grande, quasi compatibile col delta, ma questo è anche derivante dal tipo di sottostante che stiamo andando a gestire» (transcript [00:28:01]–[00:28:13]). ⚠️ Un **guadagno**. Nel $\Delta$–$\Gamma$ hedging out of the money della lezione 21 il risultato era un costo di 9 dollari, (9).
 **Opzione:** Un guadagno di 205 dollari: il Borrow chiude a (205) e la cella Hedging Revenue (cost) è 205, senza parentesi
 **Distrattori:**
 - Un costo di 205 dollari: il Borrow chiude a 205 e la cella Hedging Revenue (cost) è (205), fra parentesi
-- n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
-- Δ_B = 396: per il portafoglio C si vendono 396 azioni, con un magazzino negativo di (396)
+- $n_z = \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}$, dall'equazione del Gamma, da sostituire in quella del Vega
+- $\Delta_B = 396$: per il portafoglio $C$ si vendono 396 azioni, con un magazzino negativo di (396)
 
-**D:** ⚠️ Quale risultato dà alla scadenza il Δ–Γ–υ hedging dell'esempio in the money della lezione 22, e perché (slide 37)?
+**D:** ⚠️ Quale risultato dà alla scadenza il $\Delta$–$\Gamma$–$\upsilon$ hedging dell'esempio in the money della lezione 22, e perché (slide 37)?
 **R:** Slide 37: Borrow (stock) **100.343**, contro i (100.000) dello strike nella colonna Cash ex Shorting/Exercising Option; Hedging Revenue (cost) **(343)**. Il docente: «Vengono fuori 343 dollari di costo … poiché io li devo alla fine comprare i titoli azionari perché è finita in the money» (transcript [00:32:15]); «alla fine le azioni le devo procurare comunque e per quanto vendendo le opzioni vado a finanziare la posizione in azioni, comunque questa replicazione di portafoglio ha dei costi» ([00:32:37]). ⚠️ Un **costo**, il debito al netto dello strike, come nella lezione 19.
 **Opzione:** Un costo di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
 **Distrattori:**
 - Un guadagno di 343 dollari: il debito finale è 100.343 contro i 100.000 dello strike, perché le azioni da consegnare vanno procurate comunque
-- Le opzioni ATM hanno il υ più alto: con poche opzioni si può coprire tanto vega
-- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
+- Le opzioni ATM hanno il $\upsilon$ più alto: con poche opzioni si può coprire tanto vega
+- $-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z = n_y(\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z)$
 
 **D:** ⚠️ Quali problemi presenta la gestione del rischio di un intermediario finanziario, secondo la slide 38 della lezione 22?
 **R:** Slide 38, «Hedging di un intermediario finanziario»: «Gestione del rischio di un intermediario finanziario — PROBLEMI: Limiti di rischio — Funzionamento del mercato — Opzioni senza un prezzo in forma chiusa». Il docente: «in concreto la gestione del rischio di un intermediario finanziario presenta una serie di problemi, ve li ho descritti prima, qui li accenniamo soltanto» (transcript [00:32:56]). ⚠️ Il terzo è delle **opzioni senza un prezzo in forma chiusa**; i costi di transazione stanno fra gli aspetti della slide 9.
 **Opzione:** Limiti di rischio, funzionamento del mercato, opzioni senza un prezzo in forma chiusa
 **Distrattori:**
 - Limiti di rischio, funzionamento del mercato, costi di transazione
-- Γ = -15,70 e υ = -19.628: il portafoglio A è Δ neutrale, ma non è né Γ né υ neutrale
-- Il υ di un'opzione si riduce naturalmente con il passare del tempo
+- $\Gamma = -15{,}70$ e $\upsilon = -19.628$: il portafoglio $A$ è $\Delta$ neutrale, ma non è né $\Gamma$ né $\upsilon$ neutrale
+- Il $\upsilon$ di un'opzione si riduce naturalmente con il passare del tempo
 
 **D:** ⚠️ Che cosa intende il docente della lezione 22 per «funzionamento del mercato» fra i problemi dell'intermediario?
 **R:** Il docente: «Poi ci sono anche regole di funzionamento del mercato, ci sono mercati dove devi consegnare i titoli, altri dove devi solo regolare la differenza di cash tra lo strike e il prezzo» (transcript [00:33:23]). Il primo problema, i limiti di rischio: «non puoi assumere più tot dollari di rischio sul delta, sul gamma, sul vega … hai a che fare con risorse scarse» ([00:33:09]). ⚠️ Solo nel transcript: la slide 38 dà solo l'etichetta. La differenza di cash è fra **strike e prezzo**.
 **Opzione:** Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra lo strike e il prezzo
 **Distrattori:**
 - Ci sono mercati dove si devono consegnare i titoli e altri dove si regola solo la differenza di cash fra il premio e lo strike
-- -n_w·υ_w·Γ_z + n_w·Γ_w·υ_z = n_y(υ_y·Γ_z - Γ_y·υ_z)
-- Portafoglio B = Portafoglio A + N ∗ Z + N ∗ Y, con Δ_B = N_ZΔ_Z + N_YΔ_Y perché Δ_A = 0
+- $-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z = n_y(\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z)$
+- Portafoglio $B$ = Portafoglio $A + N \ast Z + N \ast Y$, con $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$ perché $\Delta_A = 0$
 
 **D:** ⚠️ Quali opzioni non hanno un prezzo in forma chiusa, secondo il docente della lezione 22, e che cosa comporta?
 **R:** Il docente: «noi per ora abbiamo parlato di call e put che hanno la formula chiusa nella nota derivazione di Black-Scholes-Merton, ma ci sono opzioni che non hanno formule chiuse, le asiatiche piuttosto che le americane. E lì allora si tratta di avere dei prezzi che dovranno essere approssimati» (transcript [00:33:36]–[00:33:50]). Slide 38: «Opzioni senza un prezzo in forma chiusa». ⚠️ Solo nel transcript gli esempi. Le call e le put europee hanno la formula chiusa di Black-Scholes-Merton.
@@ -7325,66 +7642,66 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Le call e le put europee: i loro prezzi vanno approssimati
 - D=1
-- n_z = (-n_w·Γ_w - n_y·Γ_y)/Γ_z, dall'equazione del Gamma, da sostituire in quella del Vega
+- $n_z = \frac{-n_w\cdot\Gamma_w - n_y\cdot\Gamma_y}{\Gamma_z}$, dall'equazione del Gamma, da sostituire in quella del Vega
 
 **D:** ⚠️ Come si calcola una Greca in forma numerica, secondo la slide 40 della lezione 22?
-**R:** Slide 40, «Cos'è una Greca in forma numerica?»: Δ = ½(Δ_{+1%} + Δ_{-1%}); Γ = ½(Γ_{+1%} + Γ_{-1%}); υ = ½(υ_{+1%} + υ_{-1%}); «… lasciamo perdere le altre greche secondarie». Il docente: «Semplicemente la media di come varia numericamente il delta se il sottostante aumenta dell'1% o meno 1%, lo stesso si va per il gamma e il vega» (transcript [00:34:09]). ⚠️ Una **media**, con il **più** fra i due valori. Le greche secondarie restano fuori.
-**Opzione:** Come media dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} + Δ_{-1%}), e così Γ e υ
+**R:** Slide 40, «Cos'è una Greca in forma numerica?»: $\Delta = \frac{1}{2}(\Delta_{+1\%} + \Delta_{-1\%})$; $\Gamma = \frac{1}{2}(\Gamma_{+1\%} + \Gamma_{-1\%})$; $\upsilon = \frac{1}{2}(\upsilon_{+1\%} + \upsilon_{-1\%})$; «… lasciamo perdere le altre greche secondarie». Il docente: «Semplicemente la media di come varia numericamente il delta se il sottostante aumenta dell'1% o meno 1%, lo stesso si va per il gamma e il vega» (transcript [00:34:09]). ⚠️ Una **media**, con il **più** fra i due valori. Le greche secondarie restano fuori.
+**Opzione:** Come media dei valori con il sottostante a +1% e a -1%: $\Delta = \frac{1}{2}(\Delta_{+1\%} + \Delta_{-1\%})$, e così $\Gamma$ e $\upsilon$
 **Distrattori:**
-- Come semidifferenza dei valori con il sottostante a +1% e a -1%: Δ = ½(Δ_{+1%} - Δ_{-1%}), e così Γ e υ
+- Come semidifferenza dei valori con il sottostante a +1% e a -1%: $\Delta = \frac{1}{2}(\Delta_{+1\%} - \Delta_{-1\%})$, e così $\Gamma$ e $\upsilon$
 - utilizzando la formula di Taylor sul differenziale del valore di un portafoglio di replicazione del derivato f
-- Si vende la call W, si definisce il portafoglio Δ neutrale A e si aggiungono le opzioni Z e Y: Δ_A = 0 e Γ_A = N ∗ Γ_W
+- Si vende la call $W$, si definisce il portafoglio $\Delta$ neutrale $A$ e si aggiungono le opzioni $Z$ e $Y$: $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 
 **D:** ⚠️ A quale soluzione portano i problemi della gestione del rischio di un intermediario finanziario, secondo la slide 39 della lezione 22?
-**R:** Slide 39: i tre problemi ⇩ «Utilizzo di Greche calcolate in forma numerica». Il docente: «In questo caso c'è un soccorso importante. Le greche, invece di calcolarle come abbiamo fatto noi, delta N(d_1), vengono calcolate in maniera numerica, in maniera banale» (transcript [00:33:56]–[00:34:04]); «sfruttando le capacità importanti computazionali che attualmente le nuove macchine ci danno a disposizione uno non effettua una formula nel continuo ma si accontenta di derivazione nel discreto» ([00:34:24]). ⚠️ **Numerica**, nel **discreto**: non le formule chiuse delle lezioni 16–18.
+**R:** Slide 39: i tre problemi ⇩ «Utilizzo di Greche calcolate in forma numerica». Il docente: «In questo caso c'è un soccorso importante. Le greche, invece di calcolarle come abbiamo fatto noi, delta $N(d_1)$, vengono calcolate in maniera numerica, in maniera banale» (transcript [00:33:56]–[00:34:04]); «sfruttando le capacità importanti computazionali che attualmente le nuove macchine ci danno a disposizione uno non effettua una formula nel continuo ma si accontenta di derivazione nel discreto» ([00:34:24]). ⚠️ **Numerica**, nel **discreto**: non le formule chiuse delle lezioni 16–18.
 **Opzione:** All'utilizzo di Greche calcolate in forma numerica, con una derivazione nel discreto invece di una formula nel continuo
 **Distrattori:**
 - All'utilizzo di Greche calcolate in forma chiusa, con una formula nel continuo invece di una derivazione nel discreto
-- B non è Δ neutrale, Δ_B = N_ZΔ_Z + N_YΔ_Y: lo si ribilancia con una compravendita di azioni fino a Δ_C = 0
-- Si comprano 2.022 opzioni II (Z), l'Option for Γ, e si vendono 1.051 opzioni III (Y), l'Option for υ
+- $B$ non è $\Delta$ neutrale, $\Delta_B = N_Z\Delta_Z + N_Y\Delta_Y$: lo si ribilancia con una compravendita di azioni fino a $\Delta_C = 0$
+- Si comprano 2.022 opzioni II ($Z$), l'Option for $\Gamma$, e si vendono 1.051 opzioni III ($Y$), l'Option for $\upsilon$
 
 **D:** ⚠️ In riferimento a che cosa gli intermediari finanziari definiscono limiti in termini di Greche numeriche (slide 41)?
 **R:** Slide 41: «Gli intermediari finanziari definiscono dei limiti in termini di Greche numeriche in riferimento: •All'azione •Al mercato». ⚠️ La slide non è commentata nel transcript, che si chiude sulla slide 40. All'**azione**, non all'opzione.
 **Opzione:** All'azione e al mercato
 **Distrattori:**
 - All'opzione e al mercato
-- Prima la call W finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
-- 168 azioni contro le 564 del portafoglio A: un alleggerimento consistente del portafoglio di azioni
+- Prima la call $W$ finisce out of the money, con l'azione a 87,5, poi in the money, con l'azione a 135,4
+- 168 azioni contro le 564 del portafoglio $A$: un alleggerimento consistente del portafoglio di azioni
 
-**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Z da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 1)?
-**R:** «**NZ = - NW GW/GZ - {[(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]GY/GZ}**»: è la formula finale delle slide 21 e 22, n_z = -n_w·Γ_w/Γ_z - ((-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z))·Γ_y/Γ_z, con gli stessi fattori nello stesso ordine. Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). La chiave è giusta; il primo addendo è il N_Z del Δ–Γ hedging nel verso della slide 24 del deck 20. Distrattori del test: «NZ = - NW GZ + GW» è il distrattore B del test 20, una somma al posto del rapporto; «NZ = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» tronca il denominatore e perde il fattore GY/GZ; «NZ = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)» è la formula di n_y, la chiave della domanda 2.
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione $W$, quale è il numero di opzioni $Z$ da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 1)?
+**R:** «**NZ = - NW GW/GZ - {[(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]GY/GZ}**»: è la formula finale delle slide 21 e 22, $n_z = -\frac{n_w\cdot\Gamma_w}{\Gamma_z} - \left(\frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}\right)\cdot\frac{\Gamma_y}{\Gamma_z}$, con gli stessi fattori nello stesso ordine. Il docente: «un primo addendo, meno davanti il numero di opzioni W per il gamma di W diviso il gamma di Z, meno una frazione che moltiplica il gamma di Y diviso il gamma di Z» (transcript [00:11:20]). La chiave è giusta; il primo addendo è il $N_Z$ del $\Delta$–$\Gamma$ hedging nel verso della slide 24 del deck 20. Distrattori del test: «NZ = - NW GZ + GW» è il distrattore B del test 20, una somma al posto del rapporto; «NZ = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» tronca il denominatore e perde il fattore GY/GZ; «NZ = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)» è la formula di $n_y$, la chiave della domanda 2.
 **Opzione:** NZ = - NW GW/GZ - {[(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]GY/GZ}
 **Distrattori:**
 - NZ = - NW GZ + GW
 - NZ = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]
 - NZ = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)
 
-**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Y da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 2)?
-**R:** «**NY = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)**»: è la formula delle slide 19 e 22, n_y = (-n_w·υ_w·Γ_z + n_w·Γ_w·υ_z)/(υ_y·Γ_z - Γ_y·υ_z), con gli stessi fattori nello stesso ordine. Il docente: «a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]). La chiave è giusta. Distrattori del test: «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]» è la struttura di n_z senza il fattore GY/GZ; «NY = - NW GZ + GW» è il distrattore B del test 20; «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» ha il denominatore troncato. ⚠️ Specularità in un solo verso: questa chiave è il distrattore D della domanda 1, ma la chiave della domanda 1 qui non c'è.
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione $W$, quale è il numero di opzioni $Y$ da compravendere per essere delta-gamma-vega neutrale, secondo il test della lezione 22 (domanda 2)?
+**R:** «**NY = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)**»: è la formula delle slide 19 e 22, $n_y = \frac{-n_w\cdot\upsilon_w\cdot\Gamma_z + n_w\cdot\Gamma_w\cdot\upsilon_z}{\upsilon_y\cdot\Gamma_z - \Gamma_y\cdot\upsilon_z}$, con gli stessi fattori nello stesso ordine. Il docente: «a numeratore meno il numero di opzioni w per il vega w per il gamma di z più il numero di opzioni w per il gamma di [w] per il vega di z diviso il vega di y per il gamma di z meno il gamma di y per il vega di z» (transcript [00:09:21]). La chiave è giusta. Distrattori del test: «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]» è la struttura di $n_z$ senza il fattore GY/GZ; «NY = - NW GZ + GW» è il distrattore B del test 20; «NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]» ha il denominatore troncato. ⚠️ Specularità in un solo verso: questa chiave è il distrattore D della domanda 1, ma la chiave della domanda 1 qui non c'è.
 **Opzione:** NY = (- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)
 **Distrattori:**
 - NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ - GYƲZ)]
 - NY = - NW GZ + GW
 - NY = - NW GW/GZ - [(- NW ƲwGZ+NWGWƲZ) / (ƲYGZ )]
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 22 (domanda 3)?
-**R:** «**Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging**». La slide 25 dice: «Kurpiel & Roncalli (1998) — Il Δ – Γ – υ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica»; il docente lo ripete a [00:13:55]–[00:14:09]. ⚠️ La chiave è giusta su orizzonte ed esito, ma **non è testuale**: «effettuato» e «rispetto al solo D hedging» vengono dalla slide 28 del deck 20, e manca la volatilità stocastica. È una matrice 2×2, *orizzonte* × *esito*: «5, 1, ½ giorni non fornisce» è la chiave del test 20 per il Δ–Γ hedging; gli orizzonti di 15 e 10 giorni non sono nei materiali.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione $W$, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 22 (domanda 3)?
+**R:** «**Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging**». La slide 25 dice: «Kurpiel & Roncalli (1998) — Il $\Delta$ – $\Gamma$ – $\upsilon$ hedging su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali soprattutto in condizioni di volatilità stocastica»; il docente lo ripete a [00:13:55]–[00:14:09]. ⚠️ La chiave è giusta su orizzonte ed esito, ma **non è testuale**: «effettuato» e «rispetto al solo D hedging» vengono dalla slide 28 del deck 20, e manca la volatilità stocastica. È una matrice 2×2, *orizzonte* × *esito*: «5, 1, ½ giorni non fornisce» è la chiave del test 20 per il $\Delta$–$\Gamma$ hedging; gli orizzonti di 15 e 10 giorni non sono nei materiali.
 **Opzione:** Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging
 **Distrattori:**
 - Il D - G - Ʋ hedging effettuato su orizzonti temporali di 15, 10 giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
 - Il D - G - Ʋ hedging effettuato su orizzonti temporali di 15, 10 giorni fornisce vantaggi sostanziali rispetto al solo D hedging
 - Il D - G - Ʋ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, quali opzioni Z e Y è opportuno compravendere, secondo il test della lezione 22 (domanda 4)?
-**R:** «**ATM a lunga scadenza**»: slide 8, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», e slide 9, «Si scelgono opzioni ATM ed a lunga scadenza», dalle due riflessioni «Le opzioni ATM hanno il υ più alto» e «Il υ di un'opzione decresce naturalmente al passare del tempo». Il docente: «prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:32]). La chiave è giusta. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La ITM ha un appoggio nel transcript, dove il docente consiglia «opzioni a moneyness positiva in presenza di tanto tempo» ([00:02:52]), ma le slide dicono ATM.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione $W$, quali opzioni $Z$ e $Y$ è opportuno compravendere, secondo il test della lezione 22 (domanda 4)?
+**R:** «**ATM a lunga scadenza**»: slide 8, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», e slide 9, «Si scelgono opzioni ATM ed a lunga scadenza», dalle due riflessioni «Le opzioni ATM hanno il $\upsilon$ più alto» e «Il $\upsilon$ di un'opzione decresce naturalmente al passare del tempo». Il docente: «prendiamo un portafoglio con opzioni at the money e che abbiano una lunga scadenza» (transcript [00:03:32]). La chiave è giusta. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La ITM ha un appoggio nel transcript, dove il docente consiglia «opzioni a moneyness positiva in presenza di tanto tempo» ([00:02:52]), ma le slide dicono ATM.
 **Opzione:** ATM a lunga scadenza
 **Distrattori:**
 - ITM a lunga scadenza
 - OTM a lunga scadenza
 - OTM a breve scadenza
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione W, quanto valgono nel tempo il Gamma e il Vega del portafoglio dopo le compravendite di opzioni Z e Y, secondo il test della lezione 22 (domanda 5)?
-**R:** «**G=0 e Ʋ=0**»: slide 14 e 22, «… al fine di ottenere Γ_B = υ_B = 0 …cioè un portafoglio Γ–υ neutrale». Nei fogli le colonne del Gamma e del Vega del portafoglio B (slide 28 e 34) e del portafoglio C (slide 30 e 36) valgono «-», cioè zero, a ogni time step. Il docente: «abbiamo un portafoglio gamma vega neutrale» (transcript [00:24:02]); il portafoglio C «è Delta, Gamma e Vega neutrale» ([00:27:46]). La chiave è giusta. Distrattori del test: «G=1 e Ʋ=1», «G=2 e Ʋ=1» e «G=0 e Ʋ=1» non sono nei materiali; l'ultima neutralizza il solo Gamma, come il Δ–Γ hedging della lezione 20.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma-Vega Hedging per coprirsi dalla vendita di un'opzione $W$, quanto valgono nel tempo il Gamma e il Vega del portafoglio dopo le compravendite di opzioni $Z$ e $Y$, secondo il test della lezione 22 (domanda 5)?
+**R:** «**G=0 e Ʋ=0**»: slide 14 e 22, «… al fine di ottenere $\Gamma_B = \upsilon_B = 0$ …cioè un portafoglio $\Gamma$–$\upsilon$ neutrale». Nei fogli le colonne del Gamma e del Vega del portafoglio $B$ (slide 28 e 34) e del portafoglio $C$ (slide 30 e 36) valgono «-», cioè zero, a ogni time step. Il docente: «abbiamo un portafoglio gamma vega neutrale» (transcript [00:24:02]); il portafoglio $C$ «è Delta, Gamma e Vega neutrale» ([00:27:46]). La chiave è giusta. Distrattori del test: «G=1 e Ʋ=1», «G=2 e Ʋ=1» e «G=0 e Ʋ=1» non sono nei materiali; l'ultima neutralizza il solo Gamma, come il $\Delta$–$\Gamma$ hedging della lezione 20.
 **Opzione:** G=0 e Ʋ=0
 **Distrattori:**
 - G=1 e Ʋ=1
@@ -7393,289 +7710,289 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 23 — Modello Lineare 1 – Regressione Lineare
 
-**D:** ⚠️ Se il valore di x è noto, qual è per la slide 2 della lezione 23 la migliore previsione disponibile per il valore di y, e come si scrive?
-**R:** Slide 2: «Siano x e y due variabili aleatorie con una funzione di densità di probabilità congiunta f(x, y). Se il valore di x è noto, allora la migliore previsione disponibile per il valore di y è data dal **valore atteso condizionato di y dato x**, ossia: **E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy** (1) dove f(y|x) è la funzione di densità di probabilità di y dato x». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). ⚠️ Al denominatore della prima forma c'è la densità di **x**, f(x): il rapporto f(x,y)/f(x) è la densità di y dato x. Si integra in dy.
-**Opzione:** Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+**D:** ⚠️ Se il valore di $x$ è noto, qual è per la slide 2 della lezione 23 la migliore previsione disponibile per il valore di $y$, e come si scrive?
+**R:** Slide 2: «Siano $x$ e $y$ due variabili aleatorie con una funzione di densità di probabilità congiunta $f(x, y)$. Se il valore di $x$ è noto, allora la migliore previsione disponibile per il valore di $y$ è data dal **valore atteso condizionato di $y$ dato $x$**, ossia: **$E(y\mid x) = \int_y y \frac{f(x,y)}{f(x)}\,dy = \int_y y f(y\mid x)\,dy$** (1) dove $f(y\mid x)$ è la funzione di densità di probabilità di $y$ dato $x$». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). ⚠️ Al denominatore della prima forma c'è la densità di **$x$**, $f(x)$: il rapporto $\frac{f(x,y)}{f(x)}$ è la densità di $y$ dato $x$. Si integra in $dy$.
+**Opzione:** Il valore atteso condizionato di $y$ dato $x$: $E(y\mid x) = \int_y y \frac{f(x,y)}{f(x)}\,dy = \int_y y f(y\mid x)\,dy$
 **Distrattori:**
-- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(y) dy = ∫_y y f(y|x) dy
-- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
-- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+- Il valore atteso condizionato di $y$ dato $x$: $E(y\mid x) = \int_y y \frac{f(x,y)}{f(y)}\,dy = \int_y y f(y\mid x)\,dy$
+- $E(\varepsilon_i) = 0$, $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$, $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$
+- $\mathbf{y}$ è il vettore $n \times 1$ delle $n$ osservazioni di $y$, $\boldsymbol{\beta}$ il vettore $2 \times 1$ dei due coefficienti della regressione, $\mathbf{x}$ la matrice $n \times 2$ con la prima colonna di 1 e la seconda di $x_1, x_2, \ldots, x_n$
 
 **D:** ⚠️ Su quale ipotesi si fonda la teoria della Regressione Lineare, secondo la slide 3 della lezione 23?
-**R:** Slide 3: «Alla base della teoria della Regressione Lineare vi è l'ipotesi che il **valore atteso condizionato di y rispetto ad x** abbia una forma funzionale di tipo lineare, vale a dire che valga una relazione del seguente tipo: **E(y|x) = β_0 + β_1x** (3)». Il docente: «Alla base della teoria della regressione lineare vi è l'ipotesi che il valore atteso condizionato di y dato x abbia una forma funzionale lineare, vale a dire che vale una relazione del tipo valore atteso di y dato x uguale al parametro beta0 più il parametro beta1 per x» (transcript [00:01:24]). ⚠️ A essere lineare è il **valore atteso condizionato**, non la variabile y: y ha in più l'errore ε, y = E(y|x) + ε (4). Una y esattamente lineare in x, y = a + bx, è il caso particolare della Proposizione della slide 17.
-**Opzione:** Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
+**R:** Slide 3: «Alla base della teoria della Regressione Lineare vi è l'ipotesi che il **valore atteso condizionato di $y$ rispetto ad $x$** abbia una forma funzionale di tipo lineare, vale a dire che valga una relazione del seguente tipo: **$E(y\mid x) = \beta_0 + \beta_1x$** (3)». Il docente: «Alla base della teoria della regressione lineare vi è l'ipotesi che il valore atteso condizionato di y dato x abbia una forma funzionale lineare, vale a dire che vale una relazione del tipo valore atteso di y dato x uguale al parametro beta0 più il parametro beta1 per x» (transcript [00:01:24]). ⚠️ A essere lineare è il **valore atteso condizionato**, non la variabile $y$: $y$ ha in più l'errore $\varepsilon$, $y = E(y\mid x) + \varepsilon$ (4). Una $y$ esattamente lineare in $x$, $y = a + bx$, è il caso particolare della Proposizione della slide 17.
+**Opzione:** Che il valore atteso condizionato di $y$ rispetto ad $x$ abbia una forma funzionale di tipo lineare: $E(y\mid x) = \beta_0 + \beta_1x$
 **Distrattori:**
-- Che la variabile aleatoria y abbia una forma funzionale di tipo lineare in x: y = β_0 + β_1x
-- β̂_0^{OLS} = E(y) - β_1E(x)
-- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
+- Che la variabile aleatoria $y$ abbia una forma funzionale di tipo lineare in $x$: $y = \beta_0 + \beta_1x$
+- $\hat{\beta}_0^{OLS} = E(y) - \beta_1E(x)$
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$
 
-**D:** ⚠️ Come si rappresenta la variabile aleatoria y nella (4) della lezione 23, e che cosa diventa utilizzando la (3)?
-**R:** Slide 3: «Pertanto, la variabile aleatoria y può essere rappresentata dalla seguente equazione: **y = E(y|x) + ε** (4) ossia, utilizzando la 3, da: **y = β_0 + β_1x + ε** (5)». Il docente: «La variabile aleatoria y può essere quindi rappresentata dalla seguente equazione y uguale valore atteso di y dato x più» ε (transcript [00:01:47]); «Utilizzando la precedente relazione possiamo dire che y è uguale a β0 più β1x più ε, un errore o disturbo della regressione» ([00:02:02]). ⚠️ L'errore si **somma**: y è la somma della parte lineare e di ε. La (5) è la chiave della domanda 3 del test.
-**Opzione:** y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
+**D:** ⚠️ Come si rappresenta la variabile aleatoria $y$ nella (4) della lezione 23, e che cosa diventa utilizzando la (3)?
+**R:** Slide 3: «Pertanto, la variabile aleatoria $y$ può essere rappresentata dalla seguente equazione: **$y = E(y\mid x) + \varepsilon$** (4) ossia, utilizzando la 3, da: **$y = \beta_0 + \beta_1x + \varepsilon$** (5)». Il docente: «La variabile aleatoria y può essere quindi rappresentata dalla seguente equazione y uguale valore atteso di y dato x più» $\varepsilon$ (transcript [00:01:47]); «Utilizzando la precedente relazione possiamo dire che y è uguale a β0 più β1x più ε, un errore o disturbo della regressione» ([00:02:02]). ⚠️ L'errore si **somma**: $y$ è la somma della parte lineare e di $\varepsilon$. La (5) è la chiave della domanda 3 del test.
+**Opzione:** $y = E(y\mid x) + \varepsilon$, ossia, utilizzando la 3, $y = \beta_0 + \beta_1x + \varepsilon$
 **Distrattori:**
-- y = E(y|x) · ε, ossia, utilizzando la 3, y = (β_0 + β_1x) · ε
-- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
+- $y = E(y\mid x) \cdot \varepsilon$, ossia, utilizzando la 3, $y = (\beta_0 + \beta_1x) \cdot \varepsilon$
+- $\hat{\beta}_1^{OLS}\sum_{i=1}^n x_i^2 = \sum_{i=1}^n x_iy_i - \beta_0\sum_{i=1}^n x_i$
 - L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
 
-**D:** ⚠️ Nell'equazione standard del modello di regressione lineare della lezione 23, y = β_0 + β_1x + ε, come si chiamano y, x, ε, β_0 e β_1?
-**R:** Slide 3, «Definizione»: «Nell'equazione standard del modello di regressione lineare (cfr. equazione 5) y è detta **variabile dipendente**, x è detta **variabile indipendente o variabile esplicativa**, ε è detto **errore o disturbo della regressione** e β_0 e β_1 sono detti **coefficienti della regressione**». Il docente: ε è «un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione. In questa equazione standard y è variabile dipendente e x è detta variabile indipendente o variabile esplicativa» (transcript [00:02:02]–[00:02:21]). ⚠️ Dipendente è **y**, la variabile da spiegare; indipendente o esplicativa è **x**. L'errore ε non è il residuo ϵ della slide 5.
-**Opzione:** y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+**D:** ⚠️ Nell'equazione standard del modello di regressione lineare della lezione 23, $y = \beta_0 + \beta_1x + \varepsilon$, come si chiamano $y$, $x$, $\varepsilon$, $\beta_0$ e $\beta_1$?
+**R:** Slide 3, «Definizione»: «Nell'equazione standard del modello di regressione lineare (cfr. equazione 5) $y$ è detta **variabile dipendente**, $x$ è detta **variabile indipendente o variabile esplicativa**, $\varepsilon$ è detto **errore o disturbo della regressione** e $\beta_0$ e $\beta_1$ sono detti **coefficienti della regressione**». Il docente: $\varepsilon$ è «un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione. In questa equazione standard y è variabile dipendente e x è detta variabile indipendente o variabile esplicativa» (transcript [00:02:02]–[00:02:21]). ⚠️ Dipendente è **$y$**, la variabile da spiegare; indipendente o esplicativa è **$x$**. L'errore $\varepsilon$ non è il residuo $\epsilon$ della slide 5.
+**Opzione:** $y$ è la variabile dipendente, $x$ la variabile indipendente o variabile esplicativa, $\varepsilon$ l'errore o disturbo della regressione, $\beta_0$ e $\beta_1$ i coefficienti della regressione
 **Distrattori:**
-- x è la variabile dipendente, y la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
-- Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
-- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
+- $x$ è la variabile dipendente, $y$ la variabile indipendente o variabile esplicativa, $\varepsilon$ l'errore o disturbo della regressione, $\beta_0$ e $\beta_1$ i coefficienti della regressione
+- Residuo del modello lineare, denotato con $\epsilon$: $\epsilon = y - \hat{y}$
+- $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,a+bx)}{\mathrm{Var}(x)} = b \cdot \frac{\mathrm{cov}(x,x)}{\mathrm{Var}(x)}$, per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, $\hat{\beta}_1^{OLS} = b \cdot \frac{\mathrm{Var}(x)}{\mathrm{Var}(x)} = b$
 
 **D:** ⚠️ Che cosa dice l'equazione 5 della lezione 23, «estremamente intuitiva» secondo la slide 4?
-**R:** Slide 4: «Il significato dell'equazione 5 è estremamente intuitivo. Essa dice infatti che, nel modello di regressione lineare, il valore di y è dato dalla somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore denotato con ε che corrisponde alla "parte" di y che non può essere "spiegata" utilizzando la sola informazione contenuta in x». Il docente: il termine di errore «corrisponde alla parte di y che non può essere spiegata utilizzando la semplice e unica informazione contenuta in x» (transcript [00:02:42]). ⚠️ L'errore è la parte di **y** che **x** non spiega, non il contrario.
-**Opzione:** Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+**R:** Slide 4: «Il significato dell'equazione 5 è estremamente intuitivo. Essa dice infatti che, nel modello di regressione lineare, il valore di $y$ è dato dalla somma di una funzione lineare di $x$, che rappresenta il valore atteso di $y$ condizionatamente ad $x$, e di un termine di errore denotato con $\varepsilon$ che corrisponde alla "parte" di $y$ che non può essere "spiegata" utilizzando la sola informazione contenuta in $x$». Il docente: il termine di errore «corrisponde alla parte di y che non può essere spiegata utilizzando la semplice e unica informazione contenuta in x» (transcript [00:02:42]). ⚠️ L'errore è la parte di **$y$** che **$x$** non spiega, non il contrario.
+**Opzione:** Il valore di $y$ è la somma di una funzione lineare di $x$, che rappresenta il valore atteso di $y$ condizionatamente ad $x$, e di un termine di errore $\varepsilon$: la parte di $y$ che non può essere spiegata con la sola informazione contenuta in $x$
 **Distrattori:**
-- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di x che non può essere spiegata con la sola informazione contenuta in y
-- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
-- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+- Il valore di $y$ è la somma di una funzione lineare di $x$, che rappresenta il valore atteso di $y$ condizionatamente ad $x$, e di un termine di errore $\varepsilon$: la parte di $x$ che non può essere spiegata con la sola informazione contenuta in $y$
+- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente $x$ è nullo: $E(\varepsilon_i\mid x_i) = 0$, $i = 1, 2, \cdots, n$
+- $\hat{\beta}_1^{OLS} = \frac{\left[\frac{\sum x_iy_i}{n} - \frac{\sum x_i}{n}\frac{\sum y_i}{n}\right]}{\left[\frac{\sum x_i^2}{n} - \frac{\sum x_i}{n}\frac{\sum x_i}{n}\right]}$
 
-**D:** ⚠️ Da che cosa dipende, nella slide 4 della lezione 23, la capacità di x di spiegare il comportamento di y?
-**R:** Slide 4: «Maggiore è, **in valore assoluto**, la correlazione lineare tra x e y, maggiore è la capacità di x di "spiegare" il comportamento di y». Il docente: «Quindi in sostanza maggiore è in valore assoluto la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y» (transcript [00:03:08]). ⚠️ Conta il **valore assoluto**: anche una correlazione negativa forte rende x capace di spiegare y (deduzione dal «valore assoluto»). La correlazione è quella della lezione 02, ρ(X,Y) = cov(X,Y)/(σ_X σ_Y).
-**Opzione:** Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
+**D:** ⚠️ Da che cosa dipende, nella slide 4 della lezione 23, la capacità di $x$ di spiegare il comportamento di $y$?
+**R:** Slide 4: «Maggiore è, **in valore assoluto**, la correlazione lineare tra $x$ e $y$, maggiore è la capacità di $x$ di "spiegare" il comportamento di $y$». Il docente: «Quindi in sostanza maggiore è in valore assoluto la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y» (transcript [00:03:08]). ⚠️ Conta il **valore assoluto**: anche una correlazione negativa forte rende $x$ capace di spiegare $y$ (deduzione dal «valore assoluto»). La correlazione è quella della lezione 02, $\rho(X,Y) = \frac{\mathrm{cov}(X,Y)}{\sigma_X \sigma_Y}$.
+**Opzione:** Maggiore è, in valore assoluto, la correlazione lineare tra $x$ e $y$, maggiore è la capacità di $x$ di spiegare il comportamento di $y$
 **Distrattori:**
-- Maggiore è la correlazione lineare tra x e y, purché positiva, maggiore è la capacità di x di spiegare il comportamento di y
-- Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
-- A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
+- Maggiore è la correlazione lineare tra $x$ e $y$, purché positiva, maggiore è la capacità di $x$ di spiegare il comportamento di $y$
+- Residuo del modello lineare, denotato con $\epsilon$: $\epsilon = y - \hat{y}$
+- A $\sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$, la funzione obiettivo del problema di minimo dell'equazione 13
 
 **D:** ⚠️ Perché, nella slide 4 della lezione 23, i valori esatti dei coefficienti della regressione non sono noti, e come si possono ottenere?
-**R:** Slide 4: «In generale, l'esatto processo di generazione dei dati (*data generating process* o **DGP**) di y è sconosciuto e quindi i valori esatti dei coefficienti della regressione (i parametri β_0 e β_1 dell'equazione 5) non sono noti. Tuttavia, essi possono essere stimati con varie tecniche, **tra cui** quella dei minimi quadrati ordinari (*Ordinary Least Squares* o OLS)». Il docente: «l'esatto processo di generazione dei dati, il cosiddetto data generating process o DGP di Y, è sconosciuto»; «questi parametri possono essere stimati con varie tecniche, tra cui quella nota dei minimi quadrati ordinari» (transcript [00:03:21]–[00:03:42]). ⚠️ L'elenco è **aperto**: l'OLS è una delle tecniche, non l'unica.
-**Opzione:** Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+**R:** Slide 4: «In generale, l'esatto processo di generazione dei dati (*data generating process* o **DGP**) di $y$ è sconosciuto e quindi i valori esatti dei coefficienti della regressione (i parametri $\beta_0$ e $\beta_1$ dell'equazione 5) non sono noti. Tuttavia, essi possono essere stimati con varie tecniche, **tra cui** quella dei minimi quadrati ordinari (*Ordinary Least Squares* o OLS)». Il docente: «l'esatto processo di generazione dei dati, il cosiddetto data generating process o DGP di Y, è sconosciuto»; «questi parametri possono essere stimati con varie tecniche, tra cui quella nota dei minimi quadrati ordinari» (transcript [00:03:21]–[00:03:42]). ⚠️ L'elenco è **aperto**: l'OLS è una delle tecniche, non l'unica.
+**Opzione:** Perché, in generale, l'esatto processo di generazione dei dati (DGP) di $y$ è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
 **Distrattori:**
-- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con un'unica tecnica, quella dei minimi quadrati ordinari (OLS)
-- β̂_0^{OLS} = a e β̂_1^{OLS} = b
-- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di $y$ è sconosciuto; si possono stimare con un'unica tecnica, quella dei minimi quadrati ordinari (OLS)
+- $\hat{\beta}_0^{OLS} = a$ e $\hat{\beta}_1^{OLS} = b$
+- Fit della regressione: $\hat{y}^{OLS} = \hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x = E(y) + \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right] \cdot (x - E(x))$
 
-**D:** ⚠️ Che cos'è la stima di y dato x nella slide 5 della lezione 23, e come si denota?
-**R:** Slide 5, «Definizione»: «Si definisce **stima di y dato x** e si denota con ŷ la quantità così definita: **ŷ = β̂_0 + β̂_1x** (6) dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione di cui all'equazione 5». Il docente: «Definiamo stima di y dato x e la denotiamo con y cappello la quantità così definita y cappello uguale a beta0 cappello più beta1 cappello x»; β̂_0 e β̂_1 «sono nient'altro che le stime dei coefficienti della regressione lineare» (transcript [00:04:13]–[00:04:32]). ⚠️ Nella stima **non c'è** il termine d'errore: la differenza fra y e ŷ è il residuo (7).
-**Opzione:** La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+**D:** ⚠️ Che cos'è la stima di $y$ dato $x$ nella slide 5 della lezione 23, e come si denota?
+**R:** Slide 5, «Definizione»: «Si definisce **stima di $y$ dato $x$** e si denota con $\hat{y}$ la quantità così definita: **$\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x$** (6) dove $\hat{\beta}_0$ e $\hat{\beta}_1$ sono le stime dei coefficienti della regressione di cui all'equazione 5». Il docente: «Definiamo stima di y dato x e la denotiamo con y cappello la quantità così definita y cappello uguale a beta0 cappello più beta1 cappello x»; $\hat{\beta}_0$ e $\hat{\beta}_1$ «sono nient'altro che le stime dei coefficienti della regressione lineare» (transcript [00:04:13]–[00:04:32]). ⚠️ Nella stima **non c'è** il termine d'errore: la differenza fra $y$ e $\hat{y}$ è il residuo (7).
+**Opzione:** La quantità $\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x$, dove $\hat{\beta}_0$ e $\hat{\beta}_1$ sono le stime dei coefficienti della regressione dell'equazione 5
 **Distrattori:**
-- La quantità ŷ = β̂_0 + β̂_1x + ε, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
-- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
-- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+- La quantità $\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x + \varepsilon$, dove $\hat{\beta}_0$ e $\hat{\beta}_1$ sono le stime dei coefficienti della regressione dell'equazione 5
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$
+- $\hat{\beta}_1^{OLS} = \frac{\left[\frac{\sum x_iy_i}{n} - \frac{\sum x_i}{n}\frac{\sum y_i}{n}\right]}{\left[\frac{\sum x_i^2}{n} - \frac{\sum x_i}{n}\frac{\sum x_i}{n}\right]}$
 
-**D:** ⚠️ Come si chiama e come si denota, nella slide 5 della lezione 23, la differenza tra y e ŷ?
-**R:** Slide 5, «Definizione»: «La differenza tra y e ŷ è detta **residuo del modello lineare** e si denota con ϵ, i.e.: **ϵ = y - ŷ** (7)». Il docente: «La differenza tra y e y cappello è il residuo del modello lineare, si denota con» ϵ, «che quindi non è altro che uguale a y meno y cappello» (transcript [00:04:42]). ⚠️ Il **residuo** ϵ non è l'**errore o disturbo della regressione** ε della (5): la slide usa due epsilon diverse. L'errore è la parte di y che il modello con i coefficienti veri non spiega; il residuo è la differenza fra y e la sua stima ŷ. Il metodo OLS minimizza la somma dei quadrati dei **residui** (slide 8).
-**Opzione:** Residuo del modello lineare, denotato con ϵ: ϵ = y - ŷ
+**D:** ⚠️ Come si chiama e come si denota, nella slide 5 della lezione 23, la differenza tra $y$ e $\hat{y}$?
+**R:** Slide 5, «Definizione»: «La differenza tra $y$ e $\hat{y}$ è detta **residuo del modello lineare** e si denota con $\epsilon$, i.e.: **$\epsilon = y - \hat{y}$** (7)». Il docente: «La differenza tra y e y cappello è il residuo del modello lineare, si denota con» $\epsilon$, «che quindi non è altro che uguale a y meno y cappello» (transcript [00:04:42]). ⚠️ Il **residuo** $\epsilon$ non è l'**errore o disturbo della regressione** $\varepsilon$ della (5): la slide usa due epsilon diverse. L'errore è la parte di $y$ che il modello con i coefficienti veri non spiega; il residuo è la differenza fra $y$ e la sua stima $\hat{y}$. Il metodo OLS minimizza la somma dei quadrati dei **residui** (slide 8).
+**Opzione:** Residuo del modello lineare, denotato con $\epsilon$: $\epsilon = y - \hat{y}$
 **Distrattori:**
-- Errore o disturbo della regressione, denotato con ε: ε = y - ŷ
-- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
-- β̂_0^{OLS} = a e β̂_1^{OLS} = b
+- Errore o disturbo della regressione, denotato con $\varepsilon$: $\varepsilon = y - \hat{y}$
+- $E(\varepsilon_i) = 0$, $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$, $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$
+- $\hat{\beta}_0^{OLS} = a$ e $\hat{\beta}_1^{OLS} = b$
 
-**D:** ⚠️ Con n osservazioni campionarie di y e di x, come si rappresenta la generica osservazione i-esima nella slide 6 della lezione 23?
-**R:** Slide 6: «Ipotizzando di avere n osservazioni campionarie della variabile dipendente y e altrettante osservazioni campionarie della variabile indipendente x, alla luce della 5, la generica osservazione i-esima ammette la seguente rappresentazione: **y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n** (8)». Il docente: «la generica osservazione iesima può essere riscritta per ogni i che va da 1 a n come yi uguale beta0 più beta1x con i più epsilon con i» (transcript [00:05:20]). ⚠️ I coefficienti β_0 e β_1 sono gli **stessi** per tutte le osservazioni; hanno l'indice i solo x_i, y_i ed ε_i.
-**Opzione:** y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
+**D:** ⚠️ Con $n$ osservazioni campionarie di $y$ e di $x$, come si rappresenta la generica osservazione $i$-esima nella slide 6 della lezione 23?
+**R:** Slide 6: «Ipotizzando di avere $n$ osservazioni campionarie della variabile dipendente $y$ e altrettante osservazioni campionarie della variabile indipendente $x$, alla luce della 5, la generica osservazione $i$-esima ammette la seguente rappresentazione: **$y_i = \beta_0 + \beta_1x_i + \varepsilon_i$, $i = 1, 2, \cdots, n$** (8)». Il docente: «la generica osservazione iesima può essere riscritta per ogni i che va da 1 a n come yi uguale beta0 più beta1x con i più epsilon con i» (transcript [00:05:20]). ⚠️ I coefficienti $\beta_0$ e $\beta_1$ sono gli **stessi** per tutte le osservazioni; hanno l'indice $i$ solo $x_i$, $y_i$ ed $\varepsilon_i$.
+**Opzione:** $y_i = \beta_0 + \beta_1x_i + \varepsilon_i$, $i = 1, 2, \cdots, n$
 **Distrattori:**
-- y_i = β_{0,i} + β_{1,i}x_i + ε_i, i = 1, 2, ⋯, n
-- β̂_0^{OLS} = E(y) - β_1E(x)
-- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
+- $y_i = \beta_{0,i} + \beta_{1,i}x_i + \varepsilon_i$, $i = 1, 2, \cdots, n$
+- $\hat{\beta}_0^{OLS} = E(y) - \beta_1E(x)$
+- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili $x$ e $y$; pallini rossi: i punti $\{x_i, \hat{y}_i^{OLS}\}_{i=1,\ldots,10}$, che giacciono sulla retta approssimante (linea nera)
 
-**D:** ⚠️ Quali caratteristiche hanno gli errori della regressione {ε_i}_{i=1,…,n} secondo la prima assunzione della slide 7 della lezione 23?
-**R:** Slide 7, «Assunzione», punto ❶: «Gli errori della regressione {ε_i}_{i=1,…,n} sono variabili aleatorie **indipendenti e identicamente distribuite (i.i.d.)** con **valore atteso nullo** e **varianza costante**, i.e. ∀i, j = 1, 2, ⋯, n e con i ≠ j: E(ε_i) = 0 (9), Var(ε_i) = σ_ε² (10), cov(ε_i, ε_j) = 0 (11) e hanno una funzione di densità di probabilità di tipo **Normale**». Il docente: «Sono variabili aleatorie indipendenti e identicamente distribuite con valore atteso nullo e varianza costante» (transcript [00:06:28]); «queste relazioni 9, 10, 11 sono particolarmente importanti perché connotano, insieme alla normalità di ε, le caratteristiche di queste variabili aleatorie» ([00:07:01]). ⚠️ Nullo è il valore atteso, costante la varianza.
+**D:** ⚠️ Quali caratteristiche hanno gli errori della regressione $\{\varepsilon_i\}_{i=1,\ldots,n}$ secondo la prima assunzione della slide 7 della lezione 23?
+**R:** Slide 7, «Assunzione», punto ❶: «Gli errori della regressione $\{\varepsilon_i\}_{i=1,\ldots,n}$ sono variabili aleatorie **indipendenti e identicamente distribuite (i.i.d.)** con **valore atteso nullo** e **varianza costante**, i.e. $\forall i, j = 1, 2, \cdots, n$ e con $i \neq j$: $E(\varepsilon_i) = 0$ (9), $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$ (10), $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$ (11) e hanno una funzione di densità di probabilità di tipo **Normale**». Il docente: «Sono variabili aleatorie indipendenti e identicamente distribuite con valore atteso nullo e varianza costante» (transcript [00:06:28]); «queste relazioni 9, 10, 11 sono particolarmente importanti perché connotano, insieme alla normalità di ε, le caratteristiche di queste variabili aleatorie» ([00:07:01]). ⚠️ Nullo è il valore atteso, costante la varianza.
 **Opzione:** Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
 **Distrattori:**
 - Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso costante e varianza nulla, e hanno una funzione di densità di probabilità di tipo Normale
-- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
-- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+- Fit della regressione: $\hat{y}^{OLS} = \hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x = E(y) + \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right] \cdot (x - E(x))$
+- $\hat{\beta}_1^{OLS} = \frac{[E(xy) - E(x)E(y)]}{\{E(x^2) - [E(x)]^2\}}$: al numeratore la formula della covarianza tra $x$ e $y$, al denominatore la formula della varianza di $x$
 
-**D:** ⚠️ Con quali tre relazioni la slide 7 della lezione 23 traduce la prima assunzione sugli errori della regressione, per ∀i, j = 1, 2, ⋯, n e con i ≠ j?
-**R:** Slide 7: «**E(ε_i) = 0** (9), **Var(ε_i) = σ_ε²** (10), **cov(ε_i, ε_j) = 0** (11)», cioè valore atteso nullo, varianza costante e covarianza nulla fra errori di osservazioni diverse. Il docente: «per ogni ij che va da 1 a n con i diverso da j, il valore atteso di» ε_i «è 0, la varianza di» ε_i «è» σ_ε² «e la covarianza tra» ε_i ed ε_j «è 0» (transcript [00:06:37], dove il riconoscimento vocale scrive «y» per ε). ⚠️ Vale per i ≠ j: per i = j la covarianza di ε_i con se stesso è la sua varianza, σ_ε² (deduzione dalla lezione 02, cov(X,X) = Var(X)).
-**Opzione:** E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = 0
+**D:** ⚠️ Con quali tre relazioni la slide 7 della lezione 23 traduce la prima assunzione sugli errori della regressione, per $\forall i, j = 1, 2, \cdots, n$ e con $i \neq j$?
+**R:** Slide 7: «**$E(\varepsilon_i) = 0$** (9), **$\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$** (10), **$\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$** (11)», cioè valore atteso nullo, varianza costante e covarianza nulla fra errori di osservazioni diverse. Il docente: «per ogni ij che va da 1 a n con i diverso da j, il valore atteso di» $\varepsilon_i$ «è 0, la varianza di» $\varepsilon_i$ «è» $\sigma_\varepsilon^2$ «e la covarianza tra» $\varepsilon_i$ ed $\varepsilon_j$ «è 0» (transcript [00:06:37], dove il riconoscimento vocale scrive «y» per $\varepsilon$). ⚠️ Vale per $i \neq j$: per $i = j$ la covarianza di $\varepsilon_i$ con se stesso è la sua varianza, $\sigma_\varepsilon^2$ (deduzione dalla lezione 02, $\mathrm{cov}(X,X) = \mathrm{Var}(X)$).
+**Opzione:** $E(\varepsilon_i) = 0$, $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$, $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$
 **Distrattori:**
-- E(ε_i) = 0, Var(ε_i) = σ_ε², cov(ε_i, ε_j) = σ_ε²
-- nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
-- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+- $E(\varepsilon_i) = 0$, $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$, $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = \sigma_\varepsilon^2$
+- $n\hat{\beta}_0^{OLS} = \sum_{i=1}^n y_i - \beta_1\sum_{i=1}^n x_i$, da cui $\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} - \beta_1\frac{\sum_{i=1}^n x_i}{n}$
+- Il valore atteso condizionato di $y$ dato $x$: $E(y\mid x) = \int_y y \frac{f(x,y)}{f(x)}\,dy = \int_y y f(y\mid x)\,dy$
 
 **D:** ⚠️ Che cosa afferma la seconda assunzione della slide 7 della lezione 23, e che cosa vuol dire per il docente?
-**R:** Slide 7, punto ❷: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo, i.e.: **E(ε_i|x_i) = 0, i = 1, 2, ⋯, n** (12)». Il docente: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo. E questo è un altro elemento importante, perché vuol dire che il condizionamento degli errori su x è irrilevante» (transcript [00:07:14]–[00:07:24]). ⚠️ Si condizionano gli **errori** a **x**, non x agli errori.
-**Opzione:** Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
+**R:** Slide 7, punto ❷: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente $x$ è nullo, i.e.: **$E(\varepsilon_i\mid x_i) = 0$, $i = 1, 2, \cdots, n$** (12)». Il docente: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo. E questo è un altro elemento importante, perché vuol dire che il condizionamento degli errori su x è irrilevante» (transcript [00:07:14]–[00:07:24]). ⚠️ Si condizionano gli **errori** a **$x$**, non $x$ agli errori.
+**Opzione:** Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente $x$ è nullo: $E(\varepsilon_i\mid x_i) = 0$, $i = 1, 2, \cdots, n$
 **Distrattori:**
-- Il valore atteso della variabile indipendente x condizionato al valore degli errori della regressione è nullo: E(x_i|ε_i) = 0, i = 1, 2, ⋯, n
-- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+- Il valore atteso della variabile indipendente $x$ condizionato al valore degli errori della regressione è nullo: $E(x_i\mid\varepsilon_i) = 0$, $i = 1, 2, \cdots, n$
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$
 - L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
 
 **D:** ⚠️ Su che cosa si basa il metodo dei minimi quadrati ordinari per la stima dei coefficienti della regressione, secondo la slide 8 della lezione 23?
-**R:** Slide 8: «Il metodo dei minimi quadrati ordinari per la stima dei coefficienti della regressione si basa sulla **minimizzazione della somma dei quadrati dei residui** del modello lineare». Il docente: «come dice anche il nome stesso, si basa sulla minimizzazione della somma dei quadrati dei residui che abbiamo definito prima, y meno y cappello, del modello lineare» (transcript [00:07:37]–[00:07:55]). ⚠️ Si somma il **quadrato di ogni residuo**: non si eleva al quadrato la somma. È la (13), ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]².
+**R:** Slide 8: «Il metodo dei minimi quadrati ordinari per la stima dei coefficienti della regressione si basa sulla **minimizzazione della somma dei quadrati dei residui** del modello lineare». Il docente: «come dice anche il nome stesso, si basa sulla minimizzazione della somma dei quadrati dei residui che abbiamo definito prima, y meno y cappello, del modello lineare» (transcript [00:07:37]–[00:07:55]). ⚠️ Si somma il **quadrato di ogni residuo**: non si eleva al quadrato la somma. È la (13), $\sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$.
 **Opzione:** Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
 **Distrattori:**
 - Sulla minimizzazione del quadrato della somma dei residui del modello lineare
-- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
-- Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+- $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
+- Di valore atteso, varianza e covarianza delle variabili casuali $x$ ed $y$
 
-**D:** ⚠️ Quale problema di minimo risolvono gli stimatori dei minimi quadrati β̂_0^{OLS} e β̂_1^{OLS}, secondo la definizione della slide 8 della lezione 23?
-**R:** Slide 8, «Definizione»: dato il modello di regressione lineare 5, «si definiscono **stimatori dei minimi quadrati** e si denotano rispettivamente con β̂_0^{OLS} e β̂_1^{OLS} i valori dei coefficienti della regressione β_0 e β_1 che risolvono il seguente problema di minimo: **min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²** (13)». Il docente: «il minimo della sommatoria per i che va da 1 a n, i valori minimi di β0 e β1, tali che» y_i meno β_0 più β_1x_i, «al quadrato» (transcript [00:08:16]–[00:08:42]). ⚠️ Il quadrato è sull'intera differenza fra y_i e β_0 + β_1x_i, e si minimizza rispetto a β_0 e β_1.
-**Opzione:** min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+**D:** ⚠️ Quale problema di minimo risolvono gli stimatori dei minimi quadrati $\hat{\beta}_0^{OLS}$ e $\hat{\beta}_1^{OLS}$, secondo la definizione della slide 8 della lezione 23?
+**R:** Slide 8, «Definizione»: dato il modello di regressione lineare 5, «si definiscono **stimatori dei minimi quadrati** e si denotano rispettivamente con $\hat{\beta}_0^{OLS}$ e $\hat{\beta}_1^{OLS}$ i valori dei coefficienti della regressione $\beta_0$ e $\beta_1$ che risolvono il seguente problema di minimo: **$\min_{\beta_0,\beta_1} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$** (13)». Il docente: «il minimo della sommatoria per i che va da 1 a n, i valori minimi di β0 e β1, tali che» $y_i$ meno $\beta_0$ più $\beta_1x_i$, «al quadrato» (transcript [00:08:16]–[00:08:42]). ⚠️ Il quadrato è sull'intera differenza fra $y_i$ e $\beta_0 + \beta_1x_i$, e si minimizza rispetto a $\beta_0$ e $\beta_1$.
+**Opzione:** $\min_{\beta_0,\beta_1} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$
 **Distrattori:**
-- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)²]
-- Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
-- Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)^2]$
+- Maggiore è, in valore assoluto, la correlazione lineare tra $x$ e $y$, maggiore è la capacità di $x$ di spiegare il comportamento di $y$
+- Che vale $\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)} = b$, quindi $\hat{\beta}_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a$
 
 **D:** ⚠️ Quali sono, nella Proposizione della slide 9 della lezione 23, i due stimatori dei minimi quadrati che risolvono il problema di minimo dell'equazione 13?
-**R:** Slide 9, «Proposizione»: «Gli stimatori dei minimi quadrati β̂_0^{OLS} e β̂_1^{OLS} che risolvono il problema di minimo di cui all'Equazione 13 sono rispettivamente: **β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x)** (14) e: **β̂_1^{OLS} = cov(x,y)/Var(x)** (15)». Il docente: sono «rispettivamente il valore atteso di y meno la covarianza di xy sulla varianza di x per» il valore atteso di x, «e l'altro è la covarianza di xy sulla varianza di x» (transcript [00:08:58]–[00:09:10]). ⚠️ Al denominatore la varianza di **x**, la variabile indipendente, in entrambi. Sono le chiavi delle domande 4 e 5 del test.
-**Opzione:** β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+**R:** Slide 9, «Proposizione»: «Gli stimatori dei minimi quadrati $\hat{\beta}_0^{OLS}$ e $\hat{\beta}_1^{OLS}$ che risolvono il problema di minimo di cui all'Equazione 13 sono rispettivamente: **$\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$** (14) e: **$\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$** (15)». Il docente: sono «rispettivamente il valore atteso di y meno la covarianza di xy sulla varianza di x per» il valore atteso di $x$, «e l'altro è la covarianza di xy sulla varianza di x» (transcript [00:08:58]–[00:09:10]). ⚠️ Al denominatore la varianza di **$x$**, la variabile indipendente, in entrambi. Sono le chiavi delle domande 4 e 5 del test.
+**Opzione:** $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
 **Distrattori:**
-- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(y)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(y)
-- y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
-- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo: E(ε_i|x_i) = 0, i = 1, 2, ⋯, n
+- $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(y)}\right]E(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(y)}$
+- $y_i = \beta_0 + \beta_1x_i + \varepsilon_i$, $i = 1, 2, \cdots, n$
+- Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente $x$ è nullo: $E(\varepsilon_i\mid x_i) = 0$, $i = 1, 2, \cdots, n$
 
 **D:** ⚠️ Come si riscrive la 13 sviluppando i quadrati, nell'equazione 16 della lezione 23?
-**R:** Slide 10, «Dimostrazione (continua)»: «Sviluppando i quadrati, la 13 può essere riscritta come: **min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)** (16)». Il docente: «La dimostrazione parte dall'apertura dei quadrati contenuti nella nostra funzione di minimo che ci porta quindi ad avere in equazione la sommatoria per i che va da 1 a n di beta0 quadrato più 2 beta0 beta1 x con i meno 2 beta0 y con i più beta1 quadrato x con i quadrato meno 2 beta1 x con i y con i più y quadrato» (transcript [00:09:48]). ⚠️ I segni: **+** 2β_0β_1x_i, **-** 2β_0y_i, **-** 2β_1x_iy_i; i tre quadrati sono positivi.
-**Opzione:** min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+**R:** Slide 10, «Dimostrazione (continua)»: «Sviluppando i quadrati, la 13 può essere riscritta come: **$\min_{\beta_0,\beta_1} \sum_{i=1}^n (\beta_0^2 + 2\beta_0\beta_1x_i - 2\beta_0y_i + \beta_1^2x_i^2 - 2\beta_1x_iy_i + y_i^2)$** (16)». Il docente: «La dimostrazione parte dall'apertura dei quadrati contenuti nella nostra funzione di minimo che ci porta quindi ad avere in equazione la sommatoria per i che va da 1 a n di beta0 quadrato più 2 beta0 beta1 x con i meno 2 beta0 y con i più beta1 quadrato x con i quadrato meno 2 beta1 x con i y con i più y quadrato» (transcript [00:09:48]). ⚠️ I segni: **+** $2\beta_0\beta_1x_i$, **-** $2\beta_0y_i$, **-** $2\beta_1x_iy_i$; i tre quadrati sono positivi.
+**Opzione:** $\min_{\beta_0,\beta_1} \sum_{i=1}^n (\beta_0^2 + 2\beta_0\beta_1x_i - 2\beta_0y_i + \beta_1^2x_i^2 - 2\beta_1x_iy_i + y_i^2)$
 **Distrattori:**
-- min_{β_0,β_1} ∑_{i=1}^n (β_0² - 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
-- Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
-- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n (\beta_0^2 - 2\beta_0\beta_1x_i - 2\beta_0y_i + \beta_1^2x_i^2 - 2\beta_1x_iy_i + y_i^2)$
+- Che il valore atteso condizionato di $y$ rispetto ad $x$ abbia una forma funzionale di tipo lineare: $E(y\mid x) = \beta_0 + \beta_1x$
+- $\mathbf{y}$ è il vettore $n \times 1$ delle $n$ osservazioni di $y$, $\boldsymbol{\beta}$ il vettore $2 \times 1$ dei due coefficienti della regressione, $\mathbf{x}$ la matrice $n \times 2$ con la prima colonna di 1 e la seconda di $x_1, x_2, \ldots, x_n$
 
-**D:** ⚠️ Che cosa si ottiene, nelle slide 10–11 della lezione 23, derivando la 16 rispetto a β_0, imponendo la condizione di minimo e dividendo per n?
-**R:** Slide 10: derivando la 16 rispetto a β_0 «e imponendo la condizione di minimo si ha: ∑_{i=1}^n (2β̂_0^{OLS} + 2β_1x_i - 2y_i) = 0 ossia: 2nβ̂_0^{OLS} + 2β_1∑_{i=1}^n x_i - 2∑_{i=1}^n y_i = 0». Slide 11: «semplificando», «ossia: **nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i** da cui, dividendo entrambi i termini per n, si ottiene: **β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n** (17)». Il docente: la condizione di minimo è «che questa derivata prima sia uguale a 0» (transcript [00:10:17]); la n viene dalla costante: «Possiamo portare la costante fuori moltiplicandola per n, applicando la sommatoria» ([00:10:39]). ⚠️ Il termine in β_1 si **sottrae**; β_1 è ancora senza cappello.
-**Opzione:** nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
+**D:** ⚠️ Che cosa si ottiene, nelle slide 10–11 della lezione 23, derivando la 16 rispetto a $\beta_0$, imponendo la condizione di minimo e dividendo per $n$?
+**R:** Slide 10: derivando la 16 rispetto a $\beta_0$ «e imponendo la condizione di minimo si ha: $\sum_{i=1}^n (2\hat{\beta}_0^{OLS} + 2\beta_1x_i - 2y_i) = 0$ ossia: $2n\hat{\beta}_0^{OLS} + 2\beta_1\sum_{i=1}^n x_i - 2\sum_{i=1}^n y_i = 0$». Slide 11: «semplificando», «ossia: **$n\hat{\beta}_0^{OLS} = \sum_{i=1}^n y_i - \beta_1\sum_{i=1}^n x_i$** da cui, dividendo entrambi i termini per $n$, si ottiene: **$\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} - \beta_1\frac{\sum_{i=1}^n x_i}{n}$** (17)». Il docente: la condizione di minimo è «che questa derivata prima sia uguale a 0» (transcript [00:10:17]); la $n$ viene dalla costante: «Possiamo portare la costante fuori moltiplicandola per n, applicando la sommatoria» ([00:10:39]). ⚠️ Il termine in $\beta_1$ si **sottrae**; $\beta_1$ è ancora senza cappello.
+**Opzione:** $n\hat{\beta}_0^{OLS} = \sum_{i=1}^n y_i - \beta_1\sum_{i=1}^n x_i$, da cui $\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} - \beta_1\frac{\sum_{i=1}^n x_i}{n}$
 **Distrattori:**
-- nβ̂_0^{OLS} = ∑_{i=1}^n y_i + β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n + β_1∑_{i=1}^n x_i/n
-- y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
-- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+- $n\hat{\beta}_0^{OLS} = \sum_{i=1}^n y_i + \beta_1\sum_{i=1}^n x_i$, da cui $\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} + \beta_1\frac{\sum_{i=1}^n x_i}{n}$
+- $y = E(y\mid x) + \varepsilon$, ossia, utilizzando la 3, $y = \beta_0 + \beta_1x + \varepsilon$
+- Il valore di $y$ è la somma di una funzione lineare di $x$, che rappresenta il valore atteso di $y$ condizionatamente ad $x$, e di un termine di errore $\varepsilon$: la parte di $y$ che non può essere spiegata con la sola informazione contenuta in $x$
 
 **D:** ⚠️ Come si scrive la (17) della lezione 23 «in modo più compatto», in base alla definizione di valore atteso (slide 11)?
-**R:** Slide 11: la (17), β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n, «in base alla definizione di valore atteso, può essere espressa in modo più compatto come: **β̂_0^{OLS} = E(y) - β_1E(x)** (18)». Il docente: «questa espressione può essere espressa in modo più compatto come il valore atteso di y meno beta 1 il valore atteso di x» (transcript [00:11:43]). ⚠️ Le medie ∑y_i/n e ∑x_i/n diventano E(y) ed E(x), e il segno resta **meno**. Nella (18) c'è ancora β_1: sostituendovi la (15) si ottiene la (14) (slide 14).
-**Opzione:** β̂_0^{OLS} = E(y) - β_1E(x)
+**R:** Slide 11: la (17), $\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} - \beta_1\frac{\sum_{i=1}^n x_i}{n}$, «in base alla definizione di valore atteso, può essere espressa in modo più compatto come: **$\hat{\beta}_0^{OLS} = E(y) - \beta_1E(x)$** (18)». Il docente: «questa espressione può essere espressa in modo più compatto come il valore atteso di y meno beta 1 il valore atteso di x» (transcript [00:11:43]). ⚠️ Le medie $\frac{\sum y_i}{n}$ e $\frac{\sum x_i}{n}$ diventano $E(y)$ ed $E(x)$, e il segno resta **meno**. Nella (18) c'è ancora $\beta_1$: sostituendovi la (15) si ottiene la (14) (slide 14).
+**Opzione:** $\hat{\beta}_0^{OLS} = E(y) - \beta_1E(x)$
 **Distrattori:**
-- β̂_0^{OLS} = E(y) + β_1E(x)
+- $\hat{\beta}_0^{OLS} = E(y) + \beta_1E(x)$
 - Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
 
-**D:** ⚠️ Che cosa si ottiene, nella slide 12 della lezione 23, derivando la 16 rispetto a β_1, imponendo la condizione di minimo e semplificando, e che cosa si sostituisce poi a β_0?
-**R:** Slide 12: «Si deriva ora la 16 rispetto a β_1 e imponendo la condizione di minimo si ha: ∑_{i=1}^n (2β_0x_i + 2β̂_1^{OLS}x_i² - 2x_iy_i) = 0», poi «semplificando» e «ossia: **β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i**»; infine, «sostituendo a β_0 il lato destro della 17 con β_1 = β̂_1^{OLS}», β̂_1^{OLS}∑x_i² = ∑x_iy_i - ∑x_i∑y_i/n + β̂_1^{OLS}∑x_i∑x_i/n. Il docente: «portando beta0 dall'altro lato dell'equazione» (transcript [00:13:17]); «Sostituiamo quindi a beta0 il lato destro della precedente espressione» ([00:13:37]). ⚠️ A β_0 si sostituisce la **(17)**: per questo β̂_1^{OLS} compare a entrambi i lati.
-**Opzione:** β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
+**D:** ⚠️ Che cosa si ottiene, nella slide 12 della lezione 23, derivando la 16 rispetto a $\beta_1$, imponendo la condizione di minimo e semplificando, e che cosa si sostituisce poi a $\beta_0$?
+**R:** Slide 12: «Si deriva ora la 16 rispetto a $\beta_1$ e imponendo la condizione di minimo si ha: $\sum_{i=1}^n (2\beta_0x_i + 2\hat{\beta}_1^{OLS}x_i^2 - 2x_iy_i) = 0$», poi «semplificando» e «ossia: **$\hat{\beta}_1^{OLS}\sum_{i=1}^n x_i^2 = \sum_{i=1}^n x_iy_i - \beta_0\sum_{i=1}^n x_i$**»; infine, «sostituendo a $\beta_0$ il lato destro della 17 con $\beta_1 = \hat{\beta}_1^{OLS}$», $\hat{\beta}_1^{OLS}\sum x_i^2 = \sum x_iy_i - \frac{\sum x_i\sum y_i}{n} + \hat{\beta}_1^{OLS}\frac{\sum x_i\sum x_i}{n}$. Il docente: «portando beta0 dall'altro lato dell'equazione» (transcript [00:13:17]); «Sostituiamo quindi a beta0 il lato destro della precedente espressione» ([00:13:37]). ⚠️ A $\beta_0$ si sostituisce la **(17)**: per questo $\hat{\beta}_1^{OLS}$ compare a entrambi i lati.
+**Opzione:** $\hat{\beta}_1^{OLS}\sum_{i=1}^n x_i^2 = \sum_{i=1}^n x_iy_i - \beta_0\sum_{i=1}^n x_i$
 **Distrattori:**
-- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i + β_0∑_{i=1}^n x_i
+- $\hat{\beta}_1^{OLS}\sum_{i=1}^n x_i^2 = \sum_{i=1}^n x_iy_i + \beta_0\sum_{i=1}^n x_i$
 - Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
-- min_{β_0,β_1} ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$
 
-**D:** ⚠️ Come si esplicita β̂_1^{OLS} con le sommatorie, dopo aver diviso per n e riordinato, nella slide 13 della lezione 23?
-**R:** Slide 13: «esplicitando per β̂_1^{OLS}: **β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]**», con ∑ = ∑_{i=1}^n. Il docente legge il denominatore come la slide, «la sommatoria di x con i al quadrato di su n meno la sommatoria di x con i su n per la sommatoria di x con i su n», ma nel numeratore dice due volte «la sommatoria di x con i su n» al posto del prodotto delle medie di x e di y (transcript [00:14:55]): vale la slide, (∑x_i/n)(∑y_i/n). ⚠️ Al denominatore solo **x**: la media dei quadrati meno il quadrato della media di x, che la slide 14 riconosce come la varianza di x.
-**Opzione:** β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑x_i²/n - (∑x_i/n)(∑x_i/n)]
+**D:** ⚠️ Come si esplicita $\hat{\beta}_1^{OLS}$ con le sommatorie, dopo aver diviso per $n$ e riordinato, nella slide 13 della lezione 23?
+**R:** Slide 13: «esplicitando per $\hat{\beta}_1^{OLS}$: **$\hat{\beta}_1^{OLS} = \frac{\left[\frac{\sum x_iy_i}{n} - \frac{\sum x_i}{n}\frac{\sum y_i}{n}\right]}{\left[\frac{\sum x_i^2}{n} - \frac{\sum x_i}{n}\frac{\sum x_i}{n}\right]}$**», con $\sum = \sum_{i=1}^n$. Il docente legge il denominatore come la slide, «la sommatoria di x con i al quadrato di su n meno la sommatoria di x con i su n per la sommatoria di x con i su n», ma nel numeratore dice due volte «la sommatoria di x con i su n» al posto del prodotto delle medie di $x$ e di $y$ (transcript [00:14:55]): vale la slide, $\frac{\sum x_i}{n}\frac{\sum y_i}{n}$. ⚠️ Al denominatore solo **$x$**: la media dei quadrati meno il quadrato della media di $x$, che la slide 14 riconosce come la varianza di $x$.
+**Opzione:** $\hat{\beta}_1^{OLS} = \frac{\left[\frac{\sum x_iy_i}{n} - \frac{\sum x_i}{n}\frac{\sum y_i}{n}\right]}{\left[\frac{\sum x_i^2}{n} - \frac{\sum x_i}{n}\frac{\sum x_i}{n}\right]}$
 **Distrattori:**
-- β̂_1^{OLS} = [∑x_iy_i/n - (∑x_i/n)(∑y_i/n)] / [∑y_i²/n - (∑y_i/n)(∑y_i/n)]
-- Che il valore atteso condizionato di y rispetto ad x abbia una forma funzionale di tipo lineare: E(y|x) = β_0 + β_1x
-- y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
+- $\hat{\beta}_1^{OLS} = \frac{\left[\frac{\sum x_iy_i}{n} - \frac{\sum x_i}{n}\frac{\sum y_i}{n}\right]}{\left[\frac{\sum y_i^2}{n} - \frac{\sum y_i}{n}\frac{\sum y_i}{n}\right]}$
+- Che il valore atteso condizionato di $y$ rispetto ad $x$ abbia una forma funzionale di tipo lineare: $E(y\mid x) = \beta_0 + \beta_1x$
+- $y$ è la variabile dipendente, $x$ la variabile indipendente o variabile esplicativa, $\varepsilon$ l'errore o disturbo della regressione, $\beta_0$ e $\beta_1$ i coefficienti della regressione
 
-**D:** ⚠️ Come si riesprime «in modo più compatto» la forma esplicita di β̂_1^{OLS}, e che cosa si riconosce nel numeratore e nel denominatore, nella slide 14 della lezione 23?
-**R:** Slide 14: «che può essere riespressa in modo più compatto come: **β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}** (19) Riconoscendo nel numeratore della 19 la formula della **covarianza tra x e y** e nel denominatore la formula della **varianza di x**, la 19 può essere riscritta come: β̂_1^{OLS} = cov(x,y)/Var(x) (15)». Il docente: «il valore atteso di xy meno il valore atteso di x per il valore atteso di y diviso il valore atteso di x quadro meno il valore atteso di x al quadrato. Nel numeratore di questa formula si riconosce la formula della covarianza tra x e y, mentre nel» denominatore «la formula della varianza di x» (transcript [00:15:25]–[00:15:40]). ⚠️ Al denominatore **E(x²) - [E(x)]²**, non il contrario: è la σ² = μ_2 - (μ_1)² della lezione 02.
-**Opzione:** β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+**D:** ⚠️ Come si riesprime «in modo più compatto» la forma esplicita di $\hat{\beta}_1^{OLS}$, e che cosa si riconosce nel numeratore e nel denominatore, nella slide 14 della lezione 23?
+**R:** Slide 14: «che può essere riespressa in modo più compatto come: **$\hat{\beta}_1^{OLS} = \frac{[E(xy) - E(x)E(y)]}{\{E(x^2) - [E(x)]^2\}}$** (19) Riconoscendo nel numeratore della 19 la formula della **covarianza tra $x$ e $y$** e nel denominatore la formula della **varianza di $x$**, la 19 può essere riscritta come: $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ (15)». Il docente: «il valore atteso di xy meno il valore atteso di x per il valore atteso di y diviso il valore atteso di x quadro meno il valore atteso di x al quadrato. Nel numeratore di questa formula si riconosce la formula della covarianza tra x e y, mentre nel» denominatore «la formula della varianza di x» (transcript [00:15:25]–[00:15:40]). ⚠️ Al denominatore **$E(x^2) - [E(x)]^2$**, non il contrario: è la $\sigma^2 = \mu_2 - (\mu_1)^2$ della lezione 02.
+**Opzione:** $\hat{\beta}_1^{OLS} = \frac{[E(xy) - E(x)E(y)]}{\{E(x^2) - [E(x)]^2\}}$: al numeratore la formula della covarianza tra $x$ e $y$, al denominatore la formula della varianza di $x$
 **Distrattori:**
-- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{[E(x)]² - E(x²)}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
-- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
-- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+- $\hat{\beta}_1^{OLS} = \frac{[E(xy) - E(x)E(y)]}{\{[E(x)]^2 - E(x^2)\}}$: al numeratore la formula della covarianza tra $x$ e $y$, al denominatore la formula della varianza di $x$
+- Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili $x$ e $y$; pallini rossi: i punti $\{x_i, \hat{y}_i^{OLS}\}_{i=1,\ldots,10}$, che giacciono sulla retta approssimante (linea nera)
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di $y$ è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
 
-**D:** ⚠️ Come si chiama e come si scrive, nella slide 15 della lezione 23, la stima della variabile y ottenuta attraverso gli stimatori dei minimi quadrati?
-**R:** Slide 15, «Definizione»: «La stima della variabile y ottenuta attraverso gli stimatori dei minimi quadrati è detta **fit della regressione** ed è denotata con ŷ^{OLS}, i.e.: **ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))** (20)». Il docente: «è detta quindi fit della regressione ed è denotata con y cappello» OLS, «uguale pertanto beta 0 cappello» OLS «e beta 1 cappello» OLS «per x riportando le nostre formule valore atteso di y più covarianza xy su varianza di x per x meno valore atteso di x» (transcript [00:16:47]). ⚠️ Il segno è **più**, e il rapporto moltiplica **(x - E(x))**: si ottiene sostituendo la (14) e la (15) (deduzione).
-**Opzione:** Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) + [cov(x,y)/Var(x)] · (x - E(x))
+**D:** ⚠️ Come si chiama e come si scrive, nella slide 15 della lezione 23, la stima della variabile $y$ ottenuta attraverso gli stimatori dei minimi quadrati?
+**R:** Slide 15, «Definizione»: «La stima della variabile $y$ ottenuta attraverso gli stimatori dei minimi quadrati è detta **fit della regressione** ed è denotata con $\hat{y}^{OLS}$, i.e.: **$\hat{y}^{OLS} = \hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x = E(y) + \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right] \cdot (x - E(x))$** (20)». Il docente: «è detta quindi fit della regressione ed è denotata con y cappello» OLS, «uguale pertanto beta 0 cappello» OLS «e beta 1 cappello» OLS «per x riportando le nostre formule valore atteso di y più covarianza xy su varianza di x per x meno valore atteso di x» (transcript [00:16:47]). ⚠️ Il segno è **più**, e il rapporto moltiplica **$(x - E(x))$**: si ottiene sostituendo la (14) e la (15) (deduzione).
+**Opzione:** Fit della regressione: $\hat{y}^{OLS} = \hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x = E(y) + \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right] \cdot (x - E(x))$
 **Distrattori:**
-- Fit della regressione: ŷ^{OLS} = β̂_0^{OLS} + β̂_1^{OLS}x = E(y) - [cov(x,y)/Var(x)] · (x - E(x))
-- β̂_1^{OLS}∑_{i=1}^n x_i² = ∑_{i=1}^n x_iy_i - β_0∑_{i=1}^n x_i
-- Maggiore è, in valore assoluto, la correlazione lineare tra x e y, maggiore è la capacità di x di spiegare il comportamento di y
+- Fit della regressione: $\hat{y}^{OLS} = \hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right] \cdot (x - E(x))$
+- $\hat{\beta}_1^{OLS}\sum_{i=1}^n x_i^2 = \sum_{i=1}^n x_iy_i - \beta_0\sum_{i=1}^n x_i$
+- Maggiore è, in valore assoluto, la correlazione lineare tra $x$ e $y$, maggiore è la capacità di $x$ di spiegare il comportamento di $y$
 
 **D:** ⚠️ A che cosa equivale il problema di minimo dell'equazione 13, secondo l'interpretazione geometrica della slide 15 della lezione 23?
-**R:** Slide 15: «Il metodo dei minimi quadrati ha una **precisa** interpretazione geometrica. Il problema di minimo di cui all'equazione 13 equivale infatti a ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il **quadrato della distanza euclidea** tra le n coppie ordinate di osservazioni delle variabili x e y e le corrispondenti approssimazioni di tali coppie attraverso una **linea retta**». Il docente la dice «una inequivocabile interpretazione geometrica» (transcript [00:17:18]): «Stiamo in sostanza cercando di trovare quella retta che meglio interpola la distanza euclidea tra i valori x e y opportunamente accoppiati in quanto ordinati. Questa è la forza e anche la semplicità di questo modello» ([00:17:59]–[00:18:14]). ⚠️ La distanza è fra le coppie osservate e le loro **approssimazioni sulla retta**.
-**Opzione:** A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le n coppie ordinate di osservazioni delle variabili x e y e le corrispondenti approssimazioni di tali coppie attraverso una linea retta
+**R:** Slide 15: «Il metodo dei minimi quadrati ha una **precisa** interpretazione geometrica. Il problema di minimo di cui all'equazione 13 equivale infatti a ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il **quadrato della distanza euclidea** tra le $n$ coppie ordinate di osservazioni delle variabili $x$ e $y$ e le corrispondenti approssimazioni di tali coppie attraverso una **linea retta**». Il docente la dice «una inequivocabile interpretazione geometrica» (transcript [00:17:18]): «Stiamo in sostanza cercando di trovare quella retta che meglio interpola la distanza euclidea tra i valori x e y opportunamente accoppiati in quanto ordinati. Questa è la forza e anche la semplicità di questo modello» ([00:17:59]–[00:18:14]). ⚠️ La distanza è fra le coppie osservate e le loro **approssimazioni sulla retta**.
+**Opzione:** A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le $n$ coppie ordinate di osservazioni delle variabili $x$ e $y$ e le corrispondenti approssimazioni di tali coppie attraverso una linea retta
 **Distrattori:**
-- A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le n coppie ordinate di osservazioni delle variabili x e y e i rispettivi valori attesi E(x) ed E(y)
-- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
-- Il valore atteso condizionato di y dato x: E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy
+- A ricercare i valori dei coefficienti del modello di regressione lineare che minimizzano il quadrato della distanza euclidea tra le $n$ coppie ordinate di osservazioni delle variabili $x$ e $y$ e i rispettivi valori attesi $E(x)$ ed $E(y)$
+- $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,a+bx)}{\mathrm{Var}(x)} = b \cdot \frac{\mathrm{cov}(x,x)}{\mathrm{Var}(x)}$, per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, $\hat{\beta}_1^{OLS} = b \cdot \frac{\mathrm{Var}(x)}{\mathrm{Var}(x)} = b$
+- Il valore atteso condizionato di $y$ dato $x$: $E(y\mid x) = \int_y y \frac{f(x,y)}{f(x)}\,dy = \int_y y f(y\mid x)\,dy$
 
 **D:** ⚠️ Che cosa rappresentano, nella Figura 15 della slide 16 della lezione 23, i rombi azzurri e i pallini rossi?
-**R:** Slide 16: «La Figura 15 offre una rappresentazione grafica del metodo OLS. Date le 10 coppie ordinate di osservazioni delle variabili x e y (**rombi azzurri**), gli stimatori dei minimi quadrati dei coefficienti della regressione altro non sono che l'intercetta e la pendenza della retta approssimante (**linea nera**) su cui giacciono i punti di coordinate {x_i, ŷ_i^{OLS}}_{i=1,…,10} (**pallini rossi**)». Il docente: «Date infatti le dieci coppie ordinate di osservazioni delle variabili x e y, i cosiddetti rombi azzurri in questa rappresentazione» (transcript [00:18:31]–[00:18:37]); la retta nera è quella «su cui giacciono i punti di coordinata» x_i, ŷ_i^{OLS}, «cioè i pallini rossi» ([00:19:03]). ⚠️ I rombi sono le **osservazioni**, sparse; i pallini il **fit**, allineati sulla retta.
-**Opzione:** Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili x e y; pallini rossi: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera)
+**R:** Slide 16: «La Figura 15 offre una rappresentazione grafica del metodo OLS. Date le 10 coppie ordinate di osservazioni delle variabili $x$ e $y$ (**rombi azzurri**), gli stimatori dei minimi quadrati dei coefficienti della regressione altro non sono che l'intercetta e la pendenza della retta approssimante (**linea nera**) su cui giacciono i punti di coordinate $\{x_i, \hat{y}_i^{OLS}\}_{i=1,\ldots,10}$ (**pallini rossi**)». Il docente: «Date infatti le dieci coppie ordinate di osservazioni delle variabili x e y, i cosiddetti rombi azzurri in questa rappresentazione» (transcript [00:18:31]–[00:18:37]); la retta nera è quella «su cui giacciono i punti di coordinata» $x_i$, $\hat{y}_i^{OLS}$, «cioè i pallini rossi» ([00:19:03]). ⚠️ I rombi sono le **osservazioni**, sparse; i pallini il **fit**, allineati sulla retta.
+**Opzione:** Rombi azzurri: le 10 coppie ordinate di osservazioni delle variabili $x$ e $y$; pallini rossi: i punti $\{x_i, \hat{y}_i^{OLS}\}_{i=1,\ldots,10}$, che giacciono sulla retta approssimante (linea nera)
 **Distrattori:**
-- Rombi azzurri: i punti {x_i, ŷ_i^{OLS}}_{i=1,…,10}, che giacciono sulla retta approssimante (linea nera); pallini rossi: le 10 coppie ordinate di osservazioni delle variabili x e y
-- nβ̂_0^{OLS} = ∑_{i=1}^n y_i - β_1∑_{i=1}^n x_i, da cui β̂_0^{OLS} = ∑_{i=1}^n y_i/n - β_1∑_{i=1}^n x_i/n
-- min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
+- Rombi azzurri: i punti $\{x_i, \hat{y}_i^{OLS}\}_{i=1,\ldots,10}$, che giacciono sulla retta approssimante (linea nera); pallini rossi: le 10 coppie ordinate di osservazioni delle variabili $x$ e $y$
+- $n\hat{\beta}_0^{OLS} = \sum_{i=1}^n y_i - \beta_1\sum_{i=1}^n x_i$, da cui $\hat{\beta}_0^{OLS} = \frac{\sum_{i=1}^n y_i}{n} - \beta_1\frac{\sum_{i=1}^n x_i}{n}$
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n (\beta_0^2 + 2\beta_0\beta_1x_i - 2\beta_0y_i + \beta_1^2x_i^2 - 2\beta_1x_iy_i + y_i^2)$
 
 **D:** ⚠️ Quali equazioni danno l'intercetta e la pendenza della retta approssimante della Figura 15, nella slide 16 della lezione 23?
-**R:** Slide 16: «L'equazione della retta che risolve il problema di minimo è esattamente quella di una retta in cui **l'intercetta ha il valore indicato dall'equazione 14** e **la pendenza ha il valore indicato dall'equazione 15**». Il docente: gli stimatori «altro non sono che l'intercetta, quindi il valore sull'asse delle ordinate, e il coefficiente angolare, cioè la pendenza della retta approssimante» (transcript [00:18:37]–[00:19:03]); «l'intercetta ha il valore indicato dall'equazione 14 e la pendenza ha il valore indicato dall'equazione 15» ([00:19:31]). ⚠️ L'intercetta è β̂_0^{OLS} (14), la pendenza β̂_1^{OLS} = cov(x,y)/Var(x) (15). Nel grafico la retta sale da circa 42 a circa 78 fra x ≈ 1 e x ≈ 11, ma la slide non stampa i due valori (lettura dell'immagine).
+**R:** Slide 16: «L'equazione della retta che risolve il problema di minimo è esattamente quella di una retta in cui **l'intercetta ha il valore indicato dall'equazione 14** e **la pendenza ha il valore indicato dall'equazione 15**». Il docente: gli stimatori «altro non sono che l'intercetta, quindi il valore sull'asse delle ordinate, e il coefficiente angolare, cioè la pendenza della retta approssimante» (transcript [00:18:37]–[00:19:03]); «l'intercetta ha il valore indicato dall'equazione 14 e la pendenza ha il valore indicato dall'equazione 15» ([00:19:31]). ⚠️ L'intercetta è $\hat{\beta}_0^{OLS}$ (14), la pendenza $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ (15). Nel grafico la retta sale da circa 42 a circa 78 fra $x \approx 1$ e $x \approx 11$, ma la slide non stampa i due valori (lettura dell'immagine).
 **Opzione:** L'intercetta della retta approssimante ha il valore indicato dall'equazione 14, la pendenza quello indicato dall'equazione 15
 **Distrattori:**
 - L'intercetta della retta approssimante ha il valore indicato dall'equazione 15, la pendenza quello indicato dall'equazione 14
 - Sono variabili aleatorie indipendenti e identicamente distribuite (i.i.d.) con valore atteso nullo e varianza costante, e hanno una funzione di densità di probabilità di tipo Normale
-- Il valore di y è la somma di una funzione lineare di x, che rappresenta il valore atteso di y condizionatamente ad x, e di un termine di errore ε: la parte di y che non può essere spiegata con la sola informazione contenuta in x
+- Il valore di $y$ è la somma di una funzione lineare di $x$, che rappresenta il valore atteso di $y$ condizionatamente ad $x$, e di un termine di errore $\varepsilon$: la parte di $y$ che non può essere spiegata con la sola informazione contenuta in $x$
 
-**D:** ⚠️ Quanto valgono gli stimatori dei minimi quadrati se y è una funzione lineare di x, y = a + bx, secondo la Proposizione della slide 17 della lezione 23?
-**R:** Slide 17, «Proposizione»: «Se y è una funzione lineare di x, i.e. se: y = a + bx (21) allora valgono le seguenti uguaglianze: **β̂_0^{OLS} = a** (22) e **β̂_1^{OLS} = b** (23)». Il docente: «Si ha y una funzione lineare di x, cioè y uguale a» a «più bx. Se questa è la premessa valgono le seguenti uguaglianze. Lo stimatore» OLS «di beta0 … è uguale ad a. e lo stimatore di β1, cioè β1 cappello OLS, è uguale a B» (transcript [00:20:04]–[00:20:24]). ⚠️ L'intercetta a va con β̂_0^{OLS}, il coefficiente b di x con β̂_1^{OLS}: se i dati stanno su una retta, l'OLS restituisce quella retta (deduzione).
-**Opzione:** β̂_0^{OLS} = a e β̂_1^{OLS} = b
+**D:** ⚠️ Quanto valgono gli stimatori dei minimi quadrati se $y$ è una funzione lineare di $x$, $y = a + bx$, secondo la Proposizione della slide 17 della lezione 23?
+**R:** Slide 17, «Proposizione»: «Se $y$ è una funzione lineare di $x$, i.e. se: $y = a + bx$ (21) allora valgono le seguenti uguaglianze: **$\hat{\beta}_0^{OLS} = a$** (22) e **$\hat{\beta}_1^{OLS} = b$** (23)». Il docente: «Si ha y una funzione lineare di x, cioè y uguale a» $a$ «più bx. Se questa è la premessa valgono le seguenti uguaglianze. Lo stimatore» OLS «di beta0 … è uguale ad a. e lo stimatore di β1, cioè β1 cappello OLS, è uguale a B» (transcript [00:20:04]–[00:20:24]). ⚠️ L'intercetta $a$ va con $\hat{\beta}_0^{OLS}$, il coefficiente $b$ di $x$ con $\hat{\beta}_1^{OLS}$: se i dati stanno su una retta, l'OLS restituisce quella retta (deduzione).
+**Opzione:** $\hat{\beta}_0^{OLS} = a$ e $\hat{\beta}_1^{OLS} = b$
 **Distrattori:**
-- β̂_0^{OLS} = b e β̂_1^{OLS} = a
-- A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
-- La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+- $\hat{\beta}_0^{OLS} = b$ e $\hat{\beta}_1^{OLS} = a$
+- A $\sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$, la funzione obiettivo del problema di minimo dell'equazione 13
+- La quantità $\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x$, dove $\hat{\beta}_0$ e $\hat{\beta}_1$ sono le stime dei coefficienti della regressione dell'equazione 5
 
-**D:** ⚠️ Come si dimostra, nelle slide 18–19 della lezione 23, che β̂_1^{OLS} = b quando y = a + bx?
-**R:** Slide 18: «Si richiama l'equazione di β̂_1^{OLS}, ossia: β̂_1^{OLS} = cov(x,y)/Var(x) (15) sostituendo nel lato destro l'espressione di y di cui alla 21 si ha: β̂_1^{OLS} = cov(x,a+bx)/Var(x) che, per note proprietà della covarianza, può essere riscritta come: β̂_1^{OLS} = b · cov(x,x)/Var(x)». Slide 19: «ossia, ricordando che la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza: β̂_1^{OLS} = b · Var(x)/Var(x) semplificando: β̂_1^{OLS} = b (23)». Il docente ([00:20:47]–[00:21:27]): «per le note proprietà della covarianza, equivale a B per la covarianza di XX sulla varianza di X». ⚠️ Le proprietà sono quelle della lezione 02: la costante a non cambia la covarianza, cov(X + α, Y) = cov(X, Y), e lo scalare b esce **così com'è**, cov(αX, Y) = αcov(X, Y), non al quadrato come nella varianza (deduzione: la slide non le cita).
-**Opzione:** β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b · Var(x)/Var(x) = b
+**D:** ⚠️ Come si dimostra, nelle slide 18–19 della lezione 23, che $\hat{\beta}_1^{OLS} = b$ quando $y = a + bx$?
+**R:** Slide 18: «Si richiama l'equazione di $\hat{\beta}_1^{OLS}$, ossia: $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ (15) sostituendo nel lato destro l'espressione di $y$ di cui alla 21 si ha: $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,a+bx)}{\mathrm{Var}(x)}$ che, per note proprietà della covarianza, può essere riscritta come: $\hat{\beta}_1^{OLS} = b \cdot \frac{\mathrm{cov}(x,x)}{\mathrm{Var}(x)}$». Slide 19: «ossia, ricordando che la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza: $\hat{\beta}_1^{OLS} = b \cdot \frac{\mathrm{Var}(x)}{\mathrm{Var}(x)}$ semplificando: $\hat{\beta}_1^{OLS} = b$ (23)». Il docente ([00:20:47]–[00:21:27]): «per le note proprietà della covarianza, equivale a B per la covarianza di XX sulla varianza di X». ⚠️ Le proprietà sono quelle della lezione 02: la costante $a$ non cambia la covarianza, $\mathrm{cov}(X + \alpha, Y) = \mathrm{cov}(X, Y)$, e lo scalare $b$ esce **così com'è**, $\mathrm{cov}(\alpha X, Y) = \alpha\mathrm{cov}(X, Y)$, non al quadrato come nella varianza (deduzione: la slide non le cita).
+**Opzione:** $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,a+bx)}{\mathrm{Var}(x)} = b \cdot \frac{\mathrm{cov}(x,x)}{\mathrm{Var}(x)}$, per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, $\hat{\beta}_1^{OLS} = b \cdot \frac{\mathrm{Var}(x)}{\mathrm{Var}(x)} = b$
 **Distrattori:**
-- β̂_1^{OLS} = cov(x,a+bx)/Var(x) = b² · cov(x,x)/Var(x), per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, β̂_1^{OLS} = b² · Var(x)/Var(x) = b²
-- min_{β_0,β_1} ∑_{i=1}^n (β_0² + 2β_0β_1x_i - 2β_0y_i + β_1²x_i² - 2β_1x_iy_i + y_i²)
-- Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+- $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,a+bx)}{\mathrm{Var}(x)} = b^2 \cdot \frac{\mathrm{cov}(x,x)}{\mathrm{Var}(x)}$, per note proprietà della covarianza; poiché la covarianza di una variabile aleatoria con se stessa è pari alla sua varianza, $\hat{\beta}_1^{OLS} = b^2 \cdot \frac{\mathrm{Var}(x)}{\mathrm{Var}(x)} = b^2$
+- $\min_{\beta_0,\beta_1} \sum_{i=1}^n (\beta_0^2 + 2\beta_0\beta_1x_i - 2\beta_0y_i + \beta_1^2x_i^2 - 2\beta_1x_iy_i + y_i^2)$
+- Di valore atteso, varianza e covarianza delle variabili casuali $x$ ed $y$
 
-**D:** ⚠️ Che cosa si osserva, nella slide 20 della lezione 23, per riscrivere β̂_0^{OLS} quando y = a + bx, e come si conclude che β̂_0^{OLS} = a?
-**R:** Slide 20: la (14) «che, osservando che vale: **cov(x,y)/Var(x) = b** può essere riscritta come: β̂_0^{OLS} = E(y) - bE(x) sostituendo nel lato destro l'espressione di y di cui alla 21 si ha: β̂_0^{OLS} = E(a + bx) - bE(x) che, per note proprietà del valore atteso, può essere riscritta come: β̂_0^{OLS} = a + bE(x) - bE(x) semplificando: β̂_0^{OLS} = a (22) c.v.d.». Il docente: «essendo A una costante, la portiamo fuori dal valore atteso» (transcript [00:22:35]). ⚠️ Il docente dice «osservando che vale che la covarianza di xy è uguale a b» ([00:21:40]): la slide scrive il **rapporto** cov(x,y)/Var(x) = b, cioè la (23) appena dimostrata.
-**Opzione:** Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+**D:** ⚠️ Che cosa si osserva, nella slide 20 della lezione 23, per riscrivere $\hat{\beta}_0^{OLS}$ quando $y = a + bx$, e come si conclude che $\hat{\beta}_0^{OLS} = a$?
+**R:** Slide 20: la (14) «che, osservando che vale: **$\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)} = b$** può essere riscritta come: $\hat{\beta}_0^{OLS} = E(y) - bE(x)$ sostituendo nel lato destro l'espressione di $y$ di cui alla 21 si ha: $\hat{\beta}_0^{OLS} = E(a + bx) - bE(x)$ che, per note proprietà del valore atteso, può essere riscritta come: $\hat{\beta}_0^{OLS} = a + bE(x) - bE(x)$ semplificando: $\hat{\beta}_0^{OLS} = a$ (22) c.v.d.». Il docente: «essendo A una costante, la portiamo fuori dal valore atteso» (transcript [00:22:35]). ⚠️ Il docente dice «osservando che vale che la covarianza di xy è uguale a b» ([00:21:40]): la slide scrive il **rapporto** $\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)} = b$, cioè la (23) appena dimostrata.
+**Opzione:** Che vale $\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)} = b$, quindi $\hat{\beta}_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a$
 **Distrattori:**
-- Che vale cov(x,y) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+- Che vale $\mathrm{cov}(x,y) = b$, quindi $\hat{\beta}_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a$
 - Sulla minimizzazione della somma dei quadrati dei residui del modello lineare
-- y_i = β_0 + β_1x_i + ε_i, i = 1, 2, ⋯, n
+- $y_i = \beta_0 + \beta_1x_i + \varepsilon_i$, $i = 1, 2, \cdots, n$
 
 **D:** ⚠️ Come si esprime in forma matriciale il problema di minimo dell'equazione 13, secondo la slide 21 della lezione 23?
-**R:** Slide 21, «Rappresentazione in forma matriciale»: «il problema di minimo di cui all'equazione 13 può essere espresso in forma più compatta attraverso la seguente notazione matriciale: **min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)**», con 𝐲, 𝐱 e 𝛃 in grassetto. Il docente: «La notazione matriciale viene generalmente denotata dall'utilizzo del grassetto. Quindi noi minimizziamo per trovare i parametri beta0 e beta1 e quindi scriveremo beta in grassetto perché sono due valori e poi avremo il prodotto tra le due matrici y meno x beta per y meno x beta. E ovviamente questo serve per esprimere il concetto del quadrato» (transcript [00:23:57]–[00:24:30]). ⚠️ L'apice sta sul **primo** fattore: (𝐲 - 𝐱𝛃)′ per (𝐲 - 𝐱𝛃).
-**Opzione:** min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)
+**R:** Slide 21, «Rappresentazione in forma matriciale»: «il problema di minimo di cui all'equazione 13 può essere espresso in forma più compatta attraverso la seguente notazione matriciale: **$\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$**», con $\mathbf{y}$, $\mathbf{x}$ e $\boldsymbol{\beta}$ in grassetto. Il docente: «La notazione matriciale viene generalmente denotata dall'utilizzo del grassetto. Quindi noi minimizziamo per trovare i parametri beta0 e beta1 e quindi scriveremo beta in grassetto perché sono due valori e poi avremo il prodotto tra le due matrici y meno x beta per y meno x beta. E ovviamente questo serve per esprimere il concetto del quadrato» (transcript [00:23:57]–[00:24:30]). ⚠️ L'apice sta sul **primo** fattore: $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'$ per $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$.
+**Opzione:** $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$
 **Distrattori:**
-- min_𝛃 (𝐲 - 𝐱𝛃)(𝐲 - 𝐱𝛃)′
-- La quantità ŷ = β̂_0 + β̂_1x, dove β̂_0 e β̂_1 sono le stime dei coefficienti della regressione dell'equazione 5
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'$
+- La quantità $\hat{y} = \hat{\beta}_0 + \hat{\beta}_1x$, dove $\hat{\beta}_0$ e $\hat{\beta}_1$ sono le stime dei coefficienti della regressione dell'equazione 5
 
-**D:** ⚠️ Che dimensioni hanno 𝐲, 𝛃 e 𝐱 nella forma matriciale della lezione 23 (slide 21–22), e com'è fatta 𝐱?
-**R:** Slide 21: «**𝐲** è il vettore **n × 1** formato dalle n osservazioni della variabile y» (24). Slide 22: «**𝛃** è il vettore **2 × 1** formato dai due coefficienti della regressione», 𝛃 = [β_0; β_1] (25); «**𝐱** è la matrice **n × 2** così definita», con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n (26). Il docente: 𝐱 «è la matrice n per 2, definita quindi da due colonne ed n righe, dove la prima colonna sono gli 1 e la seconda colonna sono gli x_1, x_2, x_n, perché quell'1 serve per il beta 0» (transcript [00:25:31]–[00:25:36]). ⚠️ Poco dopo dice «la matrice 2 per n» ([00:26:00]): vale la slide, **n × 2**, n righe e due colonne.
-**Opzione:** 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice n × 2 con la prima colonna di 1 e la seconda di x_1, x_2, …, x_n
+**D:** ⚠️ Che dimensioni hanno $\mathbf{y}$, $\boldsymbol{\beta}$ e $\mathbf{x}$ nella forma matriciale della lezione 23 (slide 21–22), e com'è fatta $\mathbf{x}$?
+**R:** Slide 21: «**$\mathbf{y}$** è il vettore **$n \times 1$** formato dalle $n$ osservazioni della variabile $y$» (24). Slide 22: «**$\boldsymbol{\beta}$** è il vettore **$2 \times 1$** formato dai due coefficienti della regressione», $\boldsymbol{\beta} = [\beta_0; \beta_1]$ (25); «**$\mathbf{x}$** è la matrice **$n \times 2$** così definita», con la prima colonna di 1 e la seconda di $x_1, x_2, \ldots, x_n$ (26). Il docente: $\mathbf{x}$ «è la matrice n per 2, definita quindi da due colonne ed n righe, dove la prima colonna sono gli 1 e la seconda colonna sono gli $x_1, x_2, x_n$, perché quell'1 serve per il beta 0» (transcript [00:25:31]–[00:25:36]). ⚠️ Poco dopo dice «la matrice 2 per n» ([00:26:00]): vale la slide, **$n \times 2$**, $n$ righe e due colonne.
+**Opzione:** $\mathbf{y}$ è il vettore $n \times 1$ delle $n$ osservazioni di $y$, $\boldsymbol{\beta}$ il vettore $2 \times 1$ dei due coefficienti della regressione, $\mathbf{x}$ la matrice $n \times 2$ con la prima colonna di 1 e la seconda di $x_1, x_2, \ldots, x_n$
 **Distrattori:**
-- 𝐲 è il vettore n × 1 delle n osservazioni di y, 𝛃 il vettore 2 × 1 dei due coefficienti della regressione, 𝐱 la matrice 2 × n con la prima riga di 1 e la seconda di x_1, x_2, …, x_n
-- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di y è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
-- Che vale cov(x,y)/Var(x) = b, quindi β̂_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a
+- $\mathbf{y}$ è il vettore $n \times 1$ delle $n$ osservazioni di $y$, $\boldsymbol{\beta}$ il vettore $2 \times 1$ dei due coefficienti della regressione, $\mathbf{x}$ la matrice $2 \times n$ con la prima riga di 1 e la seconda di $x_1, x_2, \ldots, x_n$
+- Perché, in generale, l'esatto processo di generazione dei dati (DGP) di $y$ è sconosciuto; si possono stimare con varie tecniche, tra cui quella dei minimi quadrati ordinari (OLS)
+- Che vale $\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)} = b$, quindi $\hat{\beta}_0^{OLS} = E(y) - bE(x) = E(a + bx) - bE(x) = a + bE(x) - bE(x) = a$
 
-**D:** ⚠️ A che cosa è uguale il prodotto (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), e che cosa se ne conclude, nelle slide 24–25 della lezione 23?
-**R:** Slide 24: «Utilizzando la 27», 𝐲 - 𝐱𝛃 = [y_1 - (β_0 + β_1x_1); y_2 - (β_0 + β_1x_2); …; y_n - (β_0 + β_1x_n)], «è possibile calcolare il seguente prodotto: (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃)». Slide 25: il prodotto del vettore riga per il vettore colonna dà [y_1 - (β_0 + β_1x_1)]² + ⋯ + [y_n - (β_0 + β_1x_n)]², «da cui: **(𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) = ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]²** (28) Riconoscendo nel termine destro della 28 la funzione obiettivo del problema di minimo di cui all'Equazione 13 segue la tesi». Il docente: la moltiplicazione «del vettore riga per il vettore colonna» «altro non è che la sommatoria che va da 1 a n di yi meno beta 0 più beta 1 x con i al quadrato» (transcript [00:29:02]–[00:29:22]). ⚠️ È la **somma dei quadrati**, non il quadrato della somma.
-**Opzione:** A ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]², la funzione obiettivo del problema di minimo dell'equazione 13
+**D:** ⚠️ A che cosa è uguale il prodotto $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$, e che cosa se ne conclude, nelle slide 24–25 della lezione 23?
+**R:** Slide 24: «Utilizzando la 27», $\mathbf{y} - \mathbf{x}\boldsymbol{\beta} = [y_1 - (\beta_0 + \beta_1x_1); y_2 - (\beta_0 + \beta_1x_2); \ldots; y_n - (\beta_0 + \beta_1x_n)]$, «è possibile calcolare il seguente prodotto: $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$». Slide 25: il prodotto del vettore riga per il vettore colonna dà $[y_1 - (\beta_0 + \beta_1x_1)]^2 + \cdots + [y_n - (\beta_0 + \beta_1x_n)]^2$, «da cui: **$(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta}) = \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$** (28) Riconoscendo nel termine destro della 28 la funzione obiettivo del problema di minimo di cui all'Equazione 13 segue la tesi». Il docente: la moltiplicazione «del vettore riga per il vettore colonna» «altro non è che la sommatoria che va da 1 a n di yi meno beta 0 più beta 1 x con i al quadrato» (transcript [00:29:02]–[00:29:22]). ⚠️ È la **somma dei quadrati**, non il quadrato della somma.
+**Opzione:** A $\sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$, la funzione obiettivo del problema di minimo dell'equazione 13
 **Distrattori:**
-- A [∑_{i=1}^n (y_i - (β_0 + β_1x_i))]², la funzione obiettivo del problema di minimo dell'equazione 13
-- β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
-- β̂_1^{OLS} = [E(xy) - E(x)E(y)]/{E(x²) - [E(x)]²}: al numeratore la formula della covarianza tra x e y, al denominatore la formula della varianza di x
+- A $[\sum_{i=1}^n (y_i - (\beta_0 + \beta_1x_i))]^2$, la funzione obiettivo del problema di minimo dell'equazione 13
+- $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
+- $\hat{\beta}_1^{OLS} = \frac{[E(xy) - E(x)E(y)]}{\{E(x^2) - [E(x)]^2\}}$: al numeratore la formula della covarianza tra $x$ e $y$, al denominatore la formula della varianza di $x$
 
-**D:** Perché, per il docente della lezione 23, il prodotto (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) «serve per esprimere il concetto del quadrato»?
-**R:** Perché è il prodotto di un **vettore riga** per un **vettore colonna** con le stesse componenti, y_i - (β_0 + β_1x_i): «avremo il primo vettore, un vettore riga» per «un vettore colonna», «e quindi avremo i quadrati, facendo ovviamente la moltiplicazione del vettore riga per il vettore colonna» (transcript [00:28:21]–[00:28:36]); il risultato è ∑_{i=1}^n [y_i - (β_0 + β_1x_i)]² (28), la funzione obiettivo della (13) (slide 25). Per il docente l'apice «serve per esprimere la moltiplicazione tra queste due» matrici, «che hanno ovviamente una loro coerenza dimensionale» ([00:24:38]). ℹ️ Integrazione (non dai materiali del corso): in algebra lineare l'apice indica la trasposta; (𝐲 - 𝐱𝛃)′ è 1 × n e (𝐲 - 𝐱𝛃) è n × 1, quindi il prodotto è un numero.
+**D:** Perché, per il docente della lezione 23, il prodotto $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$ «serve per esprimere il concetto del quadrato»?
+**R:** Perché è il prodotto di un **vettore riga** per un **vettore colonna** con le stesse componenti, $y_i - (\beta_0 + \beta_1x_i)$: «avremo il primo vettore, un vettore riga» per «un vettore colonna», «e quindi avremo i quadrati, facendo ovviamente la moltiplicazione del vettore riga per il vettore colonna» (transcript [00:28:21]–[00:28:36]); il risultato è $\sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_i)]^2$ (28), la funzione obiettivo della (13) (slide 25). Per il docente l'apice «serve per esprimere la moltiplicazione tra queste due» matrici, «che hanno ovviamente una loro coerenza dimensionale» ([00:24:38]). ℹ️ Integrazione (non dai materiali del corso): in algebra lineare l'apice indica la trasposta; $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'$ è $1 \times n$ e $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$ è $n \times 1$, quindi il prodotto è un numero.
 
 **D:** ⚠️ In termini di quali grandezze sono espressi i due stimatori dei minimi quadrati, alla fine della dimostrazione della lezione 23?
-**R:** Il docente: «La nostra proposizione quindi risulta dimostrata e abbiamo pertanto a disposizione con il metodo dei minimi quadrati il valore dei due stimatori espressi in termini di **valore atteso, varianza e covarianza** delle nostre variabili casuali x ed y» (transcript [00:16:20]). Sono le grandezze della (14), β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x), e della (15), β̂_1^{OLS} = cov(x,y)/Var(x) (slide 9 e 14). Prima, a [00:09:20], li chiama «una quantità esplicita che identifica i valori dei due estimatori che ci consentono quindi di comprendere la capacità di spiegare una variabile in funzione dell'altra». ⚠️ Nelle formule c'è la **covarianza**, non il coefficiente di correlazione, che pure governa la capacità di x di spiegare y (slide 4).
-**Opzione:** Di valore atteso, varianza e covarianza delle variabili casuali x ed y
+**R:** Il docente: «La nostra proposizione quindi risulta dimostrata e abbiamo pertanto a disposizione con il metodo dei minimi quadrati il valore dei due stimatori espressi in termini di **valore atteso, varianza e covarianza** delle nostre variabili casuali x ed y» (transcript [00:16:20]). Sono le grandezze della (14), $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$, e della (15), $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ (slide 9 e 14). Prima, a [00:09:20], li chiama «una quantità esplicita che identifica i valori dei due estimatori che ci consentono quindi di comprendere la capacità di spiegare una variabile in funzione dell'altra». ⚠️ Nelle formule c'è la **covarianza**, non il coefficiente di correlazione, che pure governa la capacità di $x$ di spiegare $y$ (slide 4).
+**Opzione:** Di valore atteso, varianza e covarianza delle variabili casuali $x$ ed $y$
 **Distrattori:**
-- Di valore atteso, varianza e coefficiente di correlazione delle variabili casuali x ed y
-- y è la variabile dipendente, x la variabile indipendente o variabile esplicativa, ε l'errore o disturbo della regressione, β_0 e β_1 i coefficienti della regressione
-- y = E(y|x) + ε, ossia, utilizzando la 3, y = β_0 + β_1x + ε
+- Di valore atteso, varianza e coefficiente di correlazione delle variabili casuali $x$ ed $y$
+- $y$ è la variabile dipendente, $x$ la variabile indipendente o variabile esplicativa, $\varepsilon$ l'errore o disturbo della regressione, $\beta_0$ e $\beta_1$ i coefficienti della regressione
+- $y = E(y\mid x) + \varepsilon$, ossia, utilizzando la 3, $y = \beta_0 + \beta_1x + \varepsilon$
 
-**D:** ⚠️ Date x e y due variabili aleatorie, quale formula esprime il valore atteso di y in termini del valore atteso condizionale di y dato x, secondo il test della lezione 23 (domanda 1)?
-**R:** «**E(y) = ∫xE(y|x)f(x)dx**», cioè E(y) = ∫_x E(y|x) f(x) dx: è la Proposizione della slide 2, «Vale la seguente relazione: E(y) = ∫_x E(y|x) f(x) dx (2)». Il docente: «il valore atteso di y altro non è che l'integrale su x del valore atteso di y condizionato ad x di f di x in dx, quindi una relazione importante tra la densità di probabilità di x e la densità di probabilità di y» (transcript [00:01:01]). È la forma integrale di E[E(X|Y)] = E(X) della lezione 02, slide 15 (deduzione). La piattaforma stampa l'integrale con un glifo simile a «ʃ». Distrattori del test, nessuno nei materiali: «E(x) = ∫xE(y|x)f(x)dx» tiene il lato destro e cambia il lato sinistro (oggetto scambiato); «E(y) = ∫xE(y)f(x)dx» perde il condizionamento dentro l'integrale; «E(y) = ∫y|xE(y)f(x)dx» lo perde anch'esso e integra su un dominio «y|x» che le slide non hanno. ⚠️ Servono tre pezzi giusti: E(y) a sinistra, E(y|x) dentro, il dominio x.
+**D:** ⚠️ Date $x$ e $y$ due variabili aleatorie, quale formula esprime il valore atteso di $y$ in termini del valore atteso condizionale di $y$ dato $x$, secondo il test della lezione 23 (domanda 1)?
+**R:** «**E(y) = ∫xE(y|x)f(x)dx**», cioè $E(y) = \int_x E(y\mid x) f(x)\,dx$: è la Proposizione della slide 2, «Vale la seguente relazione: $E(y) = \int_x E(y\mid x) f(x)\,dx$ (2)». Il docente: «il valore atteso di y altro non è che l'integrale su x del valore atteso di y condizionato ad x di f di x in dx, quindi una relazione importante tra la densità di probabilità di x e la densità di probabilità di y» (transcript [00:01:01]). È la forma integrale di $E[E(X\mid Y)] = E(X)$ della lezione 02, slide 15 (deduzione). La piattaforma stampa l'integrale con un glifo simile a «ʃ». Distrattori del test, nessuno nei materiali: «E(x) = ∫xE(y|x)f(x)dx» tiene il lato destro e cambia il lato sinistro (oggetto scambiato); «E(y) = ∫xE(y)f(x)dx» perde il condizionamento dentro l'integrale; «E(y) = ∫y|xE(y)f(x)dx» lo perde anch'esso e integra su un dominio «y|x» che le slide non hanno. ⚠️ Servono tre pezzi giusti: $E(y)$ a sinistra, $E(y\mid x)$ dentro, il dominio $x$.
 **Opzione:** E(y) = ∫xE(y|x)f(x)dx
 **Distrattori:**
 - E(y) = ∫xE(y)f(x)dx
 - E(y) = ∫y|xE(y)f(x)dx
 - E(x) = ∫xE(y|x)f(x)dx
 
-**D:** ⚠️ Date x e y due variabili aleatorie, quale formula esprime il valore atteso condizionale di y dato x, secondo il test della lezione 23 (domanda 2)?
-**R:** «**E(y|x) = ∫yyf(y|x)dy**», cioè E(y|x) = ∫_y y f(y|x) dy: è la seconda forma della (1), slide 2, «E(y|x) = ∫_y y f(x,y)/f(x) dy = ∫_y y f(y|x) dy (1) dove f(y|x) è la funzione di densità di probabilità di y dato x». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). Distrattori del test, nessuno nei materiali: «E(y) = ∫yyf(y|x)dy» ha a sinistra il valore atteso non condizionato; «E(y|x) = ∫yyf(y)dx» usa la densità marginale f(y) e integra in dx; «E(y|x) = ∫yf(y)dy» usa anch'esso f(y) ed è ambiguo nella resa piatta, ∫_y f(y)dy oppure ∫ y f(y)dy. ⚠️ Densità **condizionata** f(y|x) e differenziale **dy**.
+**D:** ⚠️ Date $x$ e $y$ due variabili aleatorie, quale formula esprime il valore atteso condizionale di $y$ dato $x$, secondo il test della lezione 23 (domanda 2)?
+**R:** «**E(y|x) = ∫yyf(y|x)dy**», cioè $E(y\mid x) = \int_y y f(y\mid x)\,dy$: è la seconda forma della (1), slide 2, «$E(y\mid x) = \int_y y \frac{f(x,y)}{f(x)}\,dy = \int_y y f(y\mid x)\,dy$ (1) dove $f(y\mid x)$ è la funzione di densità di probabilità di $y$ dato $x$». Il docente: «È il valore atteso condizionato di y dato x, cioè l'integrale di y per la funzione congiunta sulla funzione di densità di x in y, cosa che si può riscrivere anche con la funzione di densità di probabilità di y dato x» (transcript [00:00:42]). Distrattori del test, nessuno nei materiali: «E(y) = ∫yyf(y|x)dy» ha a sinistra il valore atteso non condizionato; «E(y|x) = ∫yyf(y)dx» usa la densità marginale $f(y)$ e integra in $dx$; «E(y|x) = ∫yf(y)dy» usa anch'esso $f(y)$ ed è ambiguo nella resa piatta, $\int_y f(y)\,dy$ oppure $\int y f(y)\,dy$. ⚠️ Densità **condizionata** $f(y\mid x)$ e differenziale **$dy$**.
 **Opzione:** E(y|x) = ∫yyf(y|x)dy
 **Distrattori:**
 - E(y|x) = ∫yyf(y)dx
 - E(y) = ∫yyf(y|x)dy
 - E(y|x) = ∫yf(y)dy
 
-**D:** ⚠️ Date x e y due variabili aleatorie, come si esprime il modello di regressione lineare di y rispetto a x, secondo il test della lezione 23 (domanda 3)?
-**R:** «**y=b0+b1x+e**», dove «b» è β ed «e» è ε: è la (5) della slide 3, y = β_0 + β_1x + ε, l'«equazione standard del modello di regressione lineare». Il docente: «y è uguale a β0 più β1x più ε, un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione» (transcript [00:02:02]). Distrattori del test, una coda tolta o sostituita: «y=b0+e» perde β_1x; «y=b0+b1x» perde l'errore, ed è la forma del lato destro della (3), E(y|x) = β_0 + β_1x, e della y = a + bx della slide 17; «y=b0+b1x2+e» ha x² al posto di x. ⚠️ Lineare è il valore atteso condizionato; y ha in più l'errore ε.
+**D:** ⚠️ Date $x$ e $y$ due variabili aleatorie, come si esprime il modello di regressione lineare di $y$ rispetto a $x$, secondo il test della lezione 23 (domanda 3)?
+**R:** «**y=b0+b1x+e**», dove «b» è $\beta$ ed «e» è $\varepsilon$: è la (5) della slide 3, $y = \beta_0 + \beta_1x + \varepsilon$, l'«equazione standard del modello di regressione lineare». Il docente: «y è uguale a β0 più β1x più ε, un errore o disturbo della regressione, mentre β0 e β1 sono questi parametri i coefficienti della regressione» (transcript [00:02:02]). Distrattori del test, una coda tolta o sostituita: «y=b0+e» perde $\beta_1x$; «y=b0+b1x» perde l'errore, ed è la forma del lato destro della (3), $E(y\mid x) = \beta_0 + \beta_1x$, e della $y = a + bx$ della slide 17; «y=b0+b1x2+e» ha $x^2$ al posto di $x$. ⚠️ Lineare è il valore atteso condizionato; $y$ ha in più l'errore $\varepsilon$.
 **Opzione:** y=b0+b1x+e
 **Distrattori:**
 - y=b0+e
@@ -7683,7 +8000,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - y=b0+b1x2+e
 
 **D:** ⚠️ Quale forma assume lo stimatore dei minimi quadrati b0OLS, secondo il test della lezione 23 (domanda 4)?
-**R:** «**b0OLS =E(y)- [cov(x,y)/Var(x)]E(x)**», cioè β̂_0^{OLS} = E(y) - [cov(x,y)/Var(x)]E(x): è la (14) della Proposizione della slide 9, ricavata nella slide 14 sostituendo la (15) nella (18). Il docente: «il valore atteso di y meno la covarianza di xy sulla varianza di x per il valore atteso di x» (transcript [00:15:59]). Distrattori del test, ognuno toglie un pezzo alla (14): «b0OLS =[cov(x,y)/Var(x)]E(x)» perde «E(y) -»; «b0OLS =E(y)- [cov(x,y)/Var(x)]» perde il fattore E(x); «b0OLS =E(y)- [cov(x,y)E(x)]» perde la divisione per Var(x). ⚠️ La domanda 5 è speculare: le stesse opzioni, e questa chiave vi è il distrattore A.
+**R:** «**b0OLS =E(y)- [cov(x,y)/Var(x)]E(x)**», cioè $\hat{\beta}_0^{OLS} = E(y) - \left[\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right]E(x)$: è la (14) della Proposizione della slide 9, ricavata nella slide 14 sostituendo la (15) nella (18). Il docente: «il valore atteso di y meno la covarianza di xy sulla varianza di x per il valore atteso di x» (transcript [00:15:59]). Distrattori del test, ognuno toglie un pezzo alla (14): «b0OLS =[cov(x,y)/Var(x)]E(x)» perde «E(y) -»; «b0OLS =E(y)- [cov(x,y)/Var(x)]» perde il fattore $E(x)$; «b0OLS =E(y)- [cov(x,y)E(x)]» perde la divisione per $\mathrm{Var}(x)$. ⚠️ La domanda 5 è speculare: le stesse opzioni, e questa chiave vi è il distrattore A.
 **Opzione:** b0OLS =E(y)- [cov(x,y)/Var(x)]E(x)
 **Distrattori:**
 - b0OLS =[cov(x,y)/Var(x)]E(x)
@@ -7691,7 +8008,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - b0OLS =E(y)- [cov(x,y)E(x)]
 
 **D:** ⚠️ Quale forma assume lo stimatore dei minimi quadrati b1OLS, secondo il test della lezione 23 (domanda 5)?
-**R:** «**b1OLS =cov(x,y)/Var(x)**», cioè β̂_1^{OLS} = cov(x,y)/Var(x): è la (15) della slide 9, ricavata nella slide 14 dalla (19), «riconoscendo nel numeratore della 19 la formula della covarianza tra x e y e nel denominatore la formula della varianza di x». Il docente: «E quindi beta1 cappello» OLS «non è altro che la covarianza di xy sulla varianza di x» (transcript [00:15:51]). Distrattori del test, gli stessi della domanda 4: «b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)» è la (14), lo stimatore di β_0 e la chiave della domanda 4; «b1OLS =[cov(x,y)/Var(x)]E(x)» moltiplica il rapporto per E(x); «b1OLS =E(y)- [cov(x,y)/Var(x)]» lo sottrae a E(y). ⚠️ Il rapporto cov(x,y)/Var(x) compare in tre opzioni su quattro: la chiave è quella in cui sta **da solo**.
+**R:** «**b1OLS =cov(x,y)/Var(x)**», cioè $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$: è la (15) della slide 9, ricavata nella slide 14 dalla (19), «riconoscendo nel numeratore della 19 la formula della covarianza tra $x$ e $y$ e nel denominatore la formula della varianza di $x$». Il docente: «E quindi beta1 cappello» OLS «non è altro che la covarianza di xy sulla varianza di x» (transcript [00:15:51]). Distrattori del test, gli stessi della domanda 4: «b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)» è la (14), lo stimatore di $\beta_0$ e la chiave della domanda 4; «b1OLS =[cov(x,y)/Var(x)]E(x)» moltiplica il rapporto per $E(x)$; «b1OLS =E(y)- [cov(x,y)/Var(x)]» lo sottrae a $E(y)$. ⚠️ Il rapporto $\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ compare in tre opzioni su quattro: la chiave è quella in cui sta **da solo**.
 **Opzione:** b1OLS =cov(x,y)/Var(x)
 **Distrattori:**
 - b1OLS =E(y)- [cov(x,y)/Var(x)]E(x)
@@ -7700,270 +8017,270 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 24 — Modello Lineare 2 – Caso multidimensionale
 
-**D:** ⚠️ Come si scrive il modello di regressione lineare generalizzato al caso di m - 1 variabili esplicative, e quando lo si usa, secondo la slide 2 della lezione 24?
-**R:** Slide 2: «Il modello di Regressione Lineare di cui all'equazione 5 può essere agevolmente generalizzato al caso di m - 1 variabili esplicative, i.e.: y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε (29) laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti». L'equazione 5 è il modello a una variabile della lezione 23, y = β_0 + β_1x + ε. ⚠️ È y a essere spiegata dalle m - 1 variabili, non il contrario; le variabili sono m - 1, i coefficienti m, da β_0 a β_{m-1}. Il docente, leggendo la (29), dice «β2x3» al posto di β_3x_3 (transcript [00:00:31]).
-**Opzione:** y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
+**D:** ⚠️ Come si scrive il modello di regressione lineare generalizzato al caso di $m - 1$ variabili esplicative, e quando lo si usa, secondo la slide 2 della lezione 24?
+**R:** Slide 2: «Il modello di Regressione Lineare di cui all'equazione 5 può essere agevolmente generalizzato al caso di $m - 1$ variabili esplicative, i.e.: $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$ (29) laddove si ritenga che il comportamento della variabile aleatoria $y$ possa essere spiegato avvalendosi delle informazioni contenute in $m - 1$ variabili indipendenti». L'equazione 5 è il modello a una variabile della lezione 23, $y = \beta_0 + \beta_1x + \varepsilon$. ⚠️ È $y$ a essere spiegata dalle $m - 1$ variabili, non il contrario; le variabili sono $m - 1$, i coefficienti $m$, da $\beta_0$ a $\beta_{m-1}$. Il docente, leggendo la (29), dice «β2x3» al posto di $\beta_3x_3$ (transcript [00:00:31]).
+**Opzione:** $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$, laddove si ritenga che il comportamento della variabile aleatoria $y$ possa essere spiegato avvalendosi delle informazioni contenute in $m - 1$ variabili indipendenti
 **Distrattori:**
-- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento delle m - 1 variabili indipendenti possa essere spiegato avvalendosi delle informazioni contenute nella variabile aleatoria y
-- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
-- Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+- $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$, laddove si ritenga che il comportamento delle $m - 1$ variabili indipendenti possa essere spiegato avvalendosi delle informazioni contenute nella variabile aleatoria $y$
+- Se può essere espresso come una funzione lineare di $\mathbf{y}$, ossia se esiste una matrice $A$ di ordine $m \times n$ tale che $\boldsymbol{\beta}^{estim} = A\mathbf{y}$
+- Individuare il valore di $\boldsymbol{\beta}$ che minimizza la distanza tra il vettore $\mathbf{y}$ e il vettore $\mathbf{x}\boldsymbol{\beta}$; e $\mathbf{x}\boldsymbol{\beta}$, al variare di $\boldsymbol{\beta}$, individua il sottospazio vettoriale generato dalle colonne di $\mathbf{x}$
 
-**D:** ⚠️ Come si scrive la generica osservazione i-esima del modello multidimensionale (30), e che cosa indicano i due indici di x_{i(m-1)}, nella lezione 24?
-**R:** Slide 2: «Ipotizzando di avere n osservazioni campionarie della variabile dipendente y e altrettante osservazioni campionarie di ciascuna delle m - 1 variabili indipendenti x_1, x_2, …, x_{m-1}, alla luce della 29, la generica osservazione i-esima ammette allora la seguente rappresentazione: y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n (30)». Il primo indice di x è l'osservazione, da 1 a n; il secondo la variabile, da 1 a m - 1: è anche la riga e la colonna della matrice 𝐱 (32). Il docente: «stiamo generalizzando la 29 in base all'osservazione iesima estratta dal campione» (transcript [00:01:35]).
-**Opzione:** y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
+**D:** ⚠️ Come si scrive la generica osservazione $i$-esima del modello multidimensionale (30), e che cosa indicano i due indici di $x_{i(m-1)}$, nella lezione 24?
+**R:** Slide 2: «Ipotizzando di avere $n$ osservazioni campionarie della variabile dipendente $y$ e altrettante osservazioni campionarie di ciascuna delle $m - 1$ variabili indipendenti $x_1, x_2, \ldots, x_{m-1}$, alla luce della 29, la generica osservazione $i$-esima ammette allora la seguente rappresentazione: $y_i = \beta_0 + \beta_1x_{i1} + \beta_2x_{i2} + \ldots + \beta_{m-1}x_{i(m-1)} + \varepsilon_i$, $i = 1, 2, \ldots, n$ (30)». Il primo indice di $x$ è l'osservazione, da 1 a $n$; il secondo la variabile, da 1 a $m - 1$: è anche la riga e la colonna della matrice $\mathbf{x}$ (32). Il docente: «stiamo generalizzando la 29 in base all'osservazione iesima estratta dal campione» (transcript [00:01:35]).
+**Opzione:** $y_i = \beta_0 + \beta_1x_{i1} + \beta_2x_{i2} + \ldots + \beta_{m-1}x_{i(m-1)} + \varepsilon_i$, $i = 1, 2, \ldots, n$: il primo indice di $x$ è l'osservazione, il secondo la variabile
 **Distrattori:**
-- y_i = β_0 + β_1x_{1i} + β_2x_{2i} + … + β_{m-1}x_{(m-1)i} + ε_i, i = 1, 2, …, n: il primo indice di x è la variabile, il secondo l'osservazione
-- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
-- Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
+- $y_i = \beta_0 + \beta_1x_{1i} + \beta_2x_{2i} + \ldots + \beta_{m-1}x_{(m-1)i} + \varepsilon_i$, $i = 1, 2, \ldots, n$: il primo indice di $x$ è la variabile, il secondo l'osservazione
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$, con la trasposta sul primo fattore
+- $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ (36), $\forall i, j = 1, 2, \ldots, n$ con $i \neq j$
 
-**D:** ⚠️ Quali dimensioni hanno 𝐲, 𝛃, 𝐱 ed 𝛆 nella forma matriciale del caso multidimensionale, secondo le slide 3–4 della lezione 24?
-**R:** Slide 3–4: 𝐲 «come il vettore n × 1 formato dalle n osservazioni della variabile y» (24); 𝛃 «come il vettore m × 1 formato dagli m coefficienti della regressione» (31); 𝐱 «come la matrice n × m» (32); 𝛆 «come il vettore n × 1 formato dagli n errori della regressione» (33). ⚠️ 𝐱 è n × m: n righe, una per osservazione, e m colonne, la colonna di 1 più le m - 1 variabili. È la matrice A dello stimatore lineare a essere m × n (slide 5). Nella lezione 23 𝛃 era 2 × 1 e 𝐱 n × 2 (slide 22 del deck 23).
-**Opzione:** 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
+**D:** ⚠️ Quali dimensioni hanno $\mathbf{y}$, $\boldsymbol{\beta}$, $\mathbf{x}$ ed $\boldsymbol{\varepsilon}$ nella forma matriciale del caso multidimensionale, secondo le slide 3–4 della lezione 24?
+**R:** Slide 3–4: $\mathbf{y}$ «come il vettore $n \times 1$ formato dalle $n$ osservazioni della variabile $y$» (24); $\boldsymbol{\beta}$ «come il vettore $m \times 1$ formato dagli $m$ coefficienti della regressione» (31); $\mathbf{x}$ «come la matrice $n \times m$» (32); $\boldsymbol{\varepsilon}$ «come il vettore $n \times 1$ formato dagli $n$ errori della regressione» (33). ⚠️ $\mathbf{x}$ è $n \times m$: $n$ righe, una per osservazione, e $m$ colonne, la colonna di 1 più le $m - 1$ variabili. È la matrice $A$ dello stimatore lineare a essere $m \times n$ (slide 5). Nella lezione 23 $\boldsymbol{\beta}$ era $2 \times 1$ e $\mathbf{x}$ $n \times 2$ (slide 22 del deck 23).
+**Opzione:** $\mathbf{y}$ vettore $n \times 1$, $\boldsymbol{\beta}$ vettore $m \times 1$, $\mathbf{x}$ matrice $n \times m$, $\boldsymbol{\varepsilon}$ vettore $n \times 1$
 **Distrattori:**
-- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice m × n, 𝛆 vettore n × 1
-- È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+- $\mathbf{y}$ vettore $n \times 1$, $\boldsymbol{\beta}$ vettore $m \times 1$, $\mathbf{x}$ matrice $m \times n$, $\boldsymbol{\varepsilon}$ vettore $n \times 1$
+- È formata da soli 1, e serve a riflettere $\beta_0$, che non moltiplica alcuna $x$
 
-**D:** ⚠️ Com'è fatta la prima colonna della matrice 𝐱 (32) della lezione 24, e a che cosa serve?
-**R:** Slide 4: la riga i-esima di 𝐱 è [1 x_{i1} … x_{i(m-1)}], quindi la prima colonna è formata da soli 1. Il docente: «abbiamo nella prima colonna l'1, che serve per riflettere beta0, non moltiplica infatti x» (transcript [00:02:55]–[00:03:08]). ⚠️ È anche l'errore ε a non moltiplicare alcuna x, ma ε sta nel vettore 𝛆, non in 𝐱. La stessa colonna regge la dimostrazione della (45): «dove la prima colonna della matrice 𝐱 è formata da soli 1» (slide 13).
-**Opzione:** È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+**D:** ⚠️ Com'è fatta la prima colonna della matrice $\mathbf{x}$ (32) della lezione 24, e a che cosa serve?
+**R:** Slide 4: la riga $i$-esima di $\mathbf{x}$ è $[1\ x_{i1}\ \ldots\ x_{i(m-1)}]$, quindi la prima colonna è formata da soli 1. Il docente: «abbiamo nella prima colonna l'1, che serve per riflettere beta0, non moltiplica infatti x» (transcript [00:02:55]–[00:03:08]). ⚠️ È anche l'errore $\varepsilon$ a non moltiplicare alcuna $x$, ma $\varepsilon$ sta nel vettore $\boldsymbol{\varepsilon}$, non in $\mathbf{x}$. La stessa colonna regge la dimostrazione della (45): «dove la prima colonna della matrice $\mathbf{x}$ è formata da soli 1» (slide 13).
+**Opzione:** È formata da soli 1, e serve a riflettere $\beta_0$, che non moltiplica alcuna $x$
 **Distrattori:**
-- È formata da soli 1, e serve a riflettere ε, l'errore che non moltiplica alcuna x
-- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
-- Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+- È formata da soli 1, e serve a riflettere $\varepsilon$, l'errore che non moltiplica alcuna $x$
+- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a $\sigma_\varepsilon^2$, ossia $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$
+- Delle colonne della matrice dei regressori $\mathbf{x}$, con pesi le componenti del vettore $\hat{\boldsymbol{\beta}}$ degli stimatori dei coefficienti
 
 **D:** ⚠️ Come si scrive in forma matriciale compatta la (30), secondo la slide 4 della lezione 24?
-**R:** Slide 4: «la 30 può essere rappresentata in forma più compatta attraverso la seguente notazione matriciale: 𝐲 = 𝐱𝛃 + 𝛆 (34)». ⚠️ Il transcript la scrive «y' uguale x' per β' più ε'» (transcript [00:03:58]): la slide non ha trasposte, e vale la slide. Con ogni probabilità gli apici sono il grassetto dei vettori, letto male dal riconoscimento vocale.
-**Opzione:** 𝐲 = 𝐱𝛃 + 𝛆 (34)
+**R:** Slide 4: «la 30 può essere rappresentata in forma più compatta attraverso la seguente notazione matriciale: $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ (34)». ⚠️ Il transcript la scrive «y' uguale x' per β' più ε'» (transcript [00:03:58]): la slide non ha trasposte, e vale la slide. Con ogni probabilità gli apici sono il grassetto dei vettori, letto male dal riconoscimento vocale.
+**Opzione:** $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ (34)
 **Distrattori:**
-- 𝐲′ = 𝐱′𝛃′ + 𝛆′ (34)
-- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
-- 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
+- $\mathbf{y}' = \mathbf{x}'\boldsymbol{\beta}' + \boldsymbol{\varepsilon}'$ (34)
+- Il vettore degli stimatori dei minimi quadrati: $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$
+- $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (43), cioè $\hat{\mathbf{y}}^{OLS} = \mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ (44)
 
-**D:** ⚠️ Quando uno stimatore 𝛃^{estim} del vettore 𝛃 è detto stimatore lineare, secondo la definizione della slide 5 della lezione 24?
-**R:** Slide 5: «Uno stimatore 𝛃^{estim} del vettore 𝛃 dei parametri del modello di cui all'equazione 34 è detto stimatore lineare se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che: 𝛃^{estim} = A𝐲». Il docente: «questa è una definizione» (transcript [00:04:30]). ⚠️ A è **m × n**, il rovescio della matrice 𝐱, che è n × m: per il vettore 𝐲, n × 1, dà un vettore m × 1 come 𝛃 (deduzione dalle dimensioni).
-**Opzione:** Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
+**D:** ⚠️ Quando uno stimatore $\boldsymbol{\beta}^{estim}$ del vettore $\boldsymbol{\beta}$ è detto stimatore lineare, secondo la definizione della slide 5 della lezione 24?
+**R:** Slide 5: «Uno stimatore $\boldsymbol{\beta}^{estim}$ del vettore $\boldsymbol{\beta}$ dei parametri del modello di cui all'equazione 34 è detto stimatore lineare se può essere espresso come una funzione lineare di $\mathbf{y}$, ossia se esiste una matrice $A$ di ordine $m \times n$ tale che: $\boldsymbol{\beta}^{estim} = A\mathbf{y}$». Il docente: «questa è una definizione» (transcript [00:04:30]). ⚠️ $A$ è **$m \times n$**, il rovescio della matrice $\mathbf{x}$, che è $n \times m$: per il vettore $\mathbf{y}$, $n \times 1$, dà un vettore $m \times 1$ come $\boldsymbol{\beta}$ (deduzione dalle dimensioni).
+**Opzione:** Se può essere espresso come una funzione lineare di $\mathbf{y}$, ossia se esiste una matrice $A$ di ordine $m \times n$ tale che $\boldsymbol{\beta}^{estim} = A\mathbf{y}$
 **Distrattori:**
-- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine n × m tale che 𝛃^{estim} = A𝐲
-- Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
-- La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+- Se può essere espresso come una funzione lineare di $\mathbf{y}$, ossia se esiste una matrice $A$ di ordine $n \times m$ tale che $\boldsymbol{\beta}^{estim} = A\mathbf{y}$
+- Che $\mathbf{x}$ sia una matrice di rango pieno: così la matrice quadrata $\mathbf{x}'\mathbf{x}$ è invertibile e la 42 si può esplicitare rispetto al vettore $\boldsymbol{\beta}$
+- La 42, $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, detta sistema perché è un'equazione matriciale
 
 **D:** ⚠️ Che cosa si chiama omoschedasticità, e che cosa significa che gli errori non sono autocorrelati, nell'assunzione della slide 5 della lezione 24?
-**R:** Slide 5: «Per ogni dato valore della matrice dei regressori 𝐱, gli elementi del vettore degli errori del modello lineare hanno tutti la stessa varianza (omoschedasticità) e non sono autocorrelati». Il docente: «Questa si chiama omoschedasticità» (transcript [00:05:33]); non autocorrelati «vuol dire che non esiste legame tra i vari errori del modello» ([00:06:08]). In formule, Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 per i ≠ j (36). ⚠️ Omoschedasticità è la stessa **varianza**; l'assenza di autocorrelazione riguarda le **covarianze** fra errori diversi.
+**R:** Slide 5: «Per ogni dato valore della matrice dei regressori $\mathbf{x}$, gli elementi del vettore degli errori del modello lineare hanno tutti la stessa varianza (omoschedasticità) e non sono autocorrelati». Il docente: «Questa si chiama omoschedasticità» (transcript [00:05:33]); non autocorrelati «vuol dire che non esiste legame tra i vari errori del modello» ([00:06:08]). In formule, $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ per $i \neq j$ (36). ⚠️ Omoschedasticità è la stessa **varianza**; l'assenza di autocorrelazione riguarda le **covarianze** fra errori diversi.
 **Opzione:** Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
 **Distrattori:**
 - Omoschedasticità: non esiste legame tra i vari errori del modello; non autocorrelati: gli elementi del vettore degli errori hanno tutti la stessa varianza
-- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
-- P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+- È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a $\sigma_\varepsilon^2$, ossia $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$
+- $P$ è la matrice di proiezione OLS; $M$ è la matrice di generazione dei residui OLS, o OLS residual maker
 
 **D:** ⚠️ Come si scrivono in formula le ipotesi (35) e (36) sugli errori del modello lineare, nella slide 5 della lezione 24?
-**R:** Slide 5: «∀i, j = 1, 2, …, n e con i ≠ j: Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36)». Ne segue la nota (37): E(ε_iε_j|𝐱) = 0 per ogni i ≠ j. ⚠️ La varianza è la costante σ_ε², la covarianza è zero; e sono condizionate alla matrice dei regressori 𝐱, mentre nella lezione 23 erano Var(ε_i) = σ_ε² e cov(ε_i, ε_j) = 0, senza condizionamento (slide 7 del deck 23). Il docente dice «la covarianza yi, yj» (transcript [00:06:08]): la slide parla degli errori.
-**Opzione:** Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
+**R:** Slide 5: «$\forall i, j = 1, 2, \ldots, n$ e con $i \neq j$: $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ (36)». Ne segue la nota (37): $E(\varepsilon_i\varepsilon_j\mid\mathbf{x}) = 0$ per ogni $i \neq j$. ⚠️ La varianza è la costante $\sigma_\varepsilon^2$, la covarianza è zero; e sono condizionate alla matrice dei regressori $\mathbf{x}$, mentre nella lezione 23 erano $\mathrm{Var}(\varepsilon_i) = \sigma_\varepsilon^2$ e $\mathrm{cov}(\varepsilon_i, \varepsilon_j) = 0$, senza condizionamento (slide 7 del deck 23). Il docente dice «la covarianza yi, yj» (transcript [00:06:08]): la slide parla degli errori.
+**Opzione:** $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ (36), $\forall i, j = 1, 2, \ldots, n$ con $i \neq j$
 **Distrattori:**
-- Var(ε_i|𝐱) = 0 (35) e cov(ε_i, ε_j|𝐱) = σ_ε² (36), ∀i, j = 1, 2, …, n con i ≠ j
-- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
-- Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+- $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = 0$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = \sigma_\varepsilon^2$ (36), $\forall i, j = 1, 2, \ldots, n$ con $i \neq j$
+- $\mathbf{x}'\boldsymbol{\epsilon}^{OLS} = 0$ (49) e $(\hat{\mathbf{y}}^{OLS})'\boldsymbol{\epsilon}^{OLS} = 0$ (50): i residui sono ortogonali alle colonne di $\mathbf{x}$ e al fit
+- Sono entrambe simmetriche e idempotenti: $P = P'$ e $P = PP$, $M = M'$ e $M = MM$
 
-**D:** ⚠️ Su quali due ingredienti poggia la dimostrazione di E(ε_iε_j|𝐱) = 0 (37), per i ≠ j, nella slide 6 della lezione 24?
-**R:** Slide 6: «Si richiama l'ipotesi di cui all'equazione 36, i.e.: cov(ε_i, ε_j|𝐱) = 0 e, ricordando la definizione di covarianza tra due variabili aleatorie, la si riscrive come: E(ε_iε_j|𝐱) - E(ε_i|𝐱)E(ε_j|𝐱) = 0 da cui, ricordando che una delle assunzioni del modello lineare è che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo (cfr. equazione 12, lezione precedente), si ha: E(ε_iε_j|𝐱) - 0 × 0 = 0». L'equazione 12 della lezione 23 è E(ε_i|x_i) = 0. ⚠️ L'omoschedasticità (35) non serve. Il docente: «la dimostrazione di quest'ultimo elemento è abbastanza semplice» (transcript [00:06:55]).
+**D:** ⚠️ Su quali due ingredienti poggia la dimostrazione di $E(\varepsilon_i\varepsilon_j\mid\mathbf{x}) = 0$ (37), per $i \neq j$, nella slide 6 della lezione 24?
+**R:** Slide 6: «Si richiama l'ipotesi di cui all'equazione 36, i.e.: $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ e, ricordando la definizione di covarianza tra due variabili aleatorie, la si riscrive come: $E(\varepsilon_i\varepsilon_j\mid\mathbf{x}) - E(\varepsilon_i\mid\mathbf{x})E(\varepsilon_j\mid\mathbf{x}) = 0$ da cui, ricordando che una delle assunzioni del modello lineare è che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo (cfr. equazione 12, lezione precedente), si ha: $E(\varepsilon_i\varepsilon_j\mid\mathbf{x}) - 0 \times 0 = 0$». L'equazione 12 della lezione 23 è $E(\varepsilon_i\mid x_i) = 0$. ⚠️ L'omoschedasticità (35) non serve. Il docente: «la dimostrazione di quest'ultimo elemento è abbastanza semplice» (transcript [00:06:55]).
 **Opzione:** Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
 **Distrattori:**
 - Sull'ipotesi di omoschedasticità (35), riscritta con la definizione di varianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
-- Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
-- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+- Sulla prima colonna della matrice $\mathbf{x}$, formata da soli 1: la prima equazione del sistema di equazioni normali diventa $\mathbf{1}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{1}'\mathbf{y}$
+- $\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}\boldsymbol{\beta} - \boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta}$, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
 
-**D:** ⚠️ Com'è fatta, condizionatamente a 𝐱, la matrice varianze-covarianze del vettore degli errori, secondo la nota della slide 6 della lezione 24?
-**R:** Slide 6: «Dalle ipotesi di cui alle equazioni 35 e 36 segue che, condizionatamente a 𝐱, la matrice varianze-covarianze del vettore degli errori del modello di regressione lineare è una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia: Var(𝛆|𝐱) = σ_ε²𝐈_n». Il docente: «una matrice che è popolata solo lungo la diagonale ed è uno altrove» (transcript [00:08:50]). ⚠️ «Uno altrove» è con ogni probabilità «zero altrove» reso male dal riconoscimento vocale: fuori dalla diagonale stanno le covarianze, nulle per la (36).
-**Opzione:** È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a σ_ε², ossia Var(𝛆|𝐱) = σ_ε²𝐈_n
+**D:** ⚠️ Com'è fatta, condizionatamente a $\mathbf{x}$, la matrice varianze-covarianze del vettore degli errori, secondo la nota della slide 6 della lezione 24?
+**R:** Slide 6: «Dalle ipotesi di cui alle equazioni 35 e 36 segue che, condizionatamente a $\mathbf{x}$, la matrice varianze-covarianze del vettore degli errori del modello di regressione lineare è una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a $\sigma_\varepsilon^2$, ossia: $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$». Il docente: «una matrice che è popolata solo lungo la diagonale ed è uno altrove» (transcript [00:08:50]). ⚠️ «Uno altrove» è con ogni probabilità «zero altrove» reso male dal riconoscimento vocale: fuori dalla diagonale stanno le covarianze, nulle per la (36).
+**Opzione:** È una matrice diagonale in cui tutti gli elementi della diagonale principale sono pari a $\sigma_\varepsilon^2$, ossia $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$
 **Distrattori:**
-- È una matrice in cui tutti gli elementi della diagonale principale sono pari a σ_ε² e quelli fuori dalla diagonale sono pari a 1
-- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
-- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+- È una matrice in cui tutti gli elementi della diagonale principale sono pari a $\sigma_\varepsilon^2$ e quelli fuori dalla diagonale sono pari a 1
+- $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, matrice quadrata di ordine $n$, con $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$
+- Perché $\mathbf{x}'\mathbf{x}$, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
 
 **D:** ⚠️ Come si scrive la funzione obiettivo dei minimi quadrati in forma matriciale (39), e su quale fattore sta la trasposta, nella slide 7 della lezione 24?
-**R:** Slide 7: «o, equivalentemente per la 34: min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃) (39)». Il docente: «trovare il valore minimo dei parametri beta che minimizzano la quantità y meno x beta trasposto per y meno x beta» (transcript [00:10:00]). ⚠️ La trasposta sta sul primo fattore: (𝐲 - 𝐱𝛃)′ è 1 × n, (𝐲 - 𝐱𝛃) è n × 1, e il prodotto è lo scalare della (38), la somma dei quadrati (deduzione dalle dimensioni). Con la trasposta sul secondo fattore si avrebbe una matrice n × n. È la forma già vista per m = 2 nella lezione 23 (slide 21 del deck 23).
-**Opzione:** min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
+**R:** Slide 7: «o, equivalentemente per la 34: $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$ (39)». Il docente: «trovare il valore minimo dei parametri beta che minimizzano la quantità y meno x beta trasposto per y meno x beta» (transcript [00:10:00]). ⚠️ La trasposta sta sul primo fattore: $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'$ è $1 \times n$, $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$ è $n \times 1$, e il prodotto è lo scalare della (38), la somma dei quadrati (deduzione dalle dimensioni). Con la trasposta sul secondo fattore si avrebbe una matrice $n \times n$. È la forma già vista per $m = 2$ nella lezione 23 (slide 21 del deck 23).
+**Opzione:** $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$, con la trasposta sul primo fattore
 **Distrattori:**
-- min_𝛃 (𝐲 - 𝐱𝛃)(𝐲 - 𝐱𝛃)′, con la trasposta sul secondo fattore
-- -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
-- 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'$, con la trasposta sul secondo fattore
+- $-2\mathbf{x}'\mathbf{y} + 2\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$, che semplificando dà $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, la 42
+- $\mathbf{x}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) = 0$, la 48: esplicitando $\hat{\mathbf{y}}^{OLS}$ con la 43 si ha $\mathbf{x}'\mathbf{y} - \mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, che semplificando è zero
 
-**D:** ⚠️ Quale ipotesi sulla matrice 𝐱 richiede la proposizione della lezione 24 che dà lo stimatore OLS in forma vettoriale, e a che cosa serve (slide 8 e 10)?
-**R:** Slide 8: «sia 𝐱 una matrice di rango pieno»; il docente: «attenzione» (transcript [00:10:45]). Slide 10: «Poichè per ipotesi la matrice 𝐱 ha rango pieno, la matrice quadrata 𝐱′𝐱 è invertibile e pertanto la 42 può essere esplicitata rispetto al vettore 𝛃». ⚠️ La matrice quadrata e invertibile è 𝐱′𝐱, m × m, non 𝐱, che è n × m.
-**Opzione:** Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
+**D:** ⚠️ Quale ipotesi sulla matrice $\mathbf{x}$ richiede la proposizione della lezione 24 che dà lo stimatore OLS in forma vettoriale, e a che cosa serve (slide 8 e 10)?
+**R:** Slide 8: «sia $\mathbf{x}$ una matrice di rango pieno»; il docente: «attenzione» (transcript [00:10:45]). Slide 10: «Poichè per ipotesi la matrice $\mathbf{x}$ ha rango pieno, la matrice quadrata $\mathbf{x}'\mathbf{x}$ è invertibile e pertanto la 42 può essere esplicitata rispetto al vettore $\boldsymbol{\beta}$». ⚠️ La matrice quadrata e invertibile è $\mathbf{x}'\mathbf{x}$, $m \times m$, non $\mathbf{x}$, che è $n \times m$.
+**Opzione:** Che $\mathbf{x}$ sia una matrice di rango pieno: così la matrice quadrata $\mathbf{x}'\mathbf{x}$ è invertibile e la 42 si può esplicitare rispetto al vettore $\boldsymbol{\beta}$
 **Distrattori:**
-- Che 𝐱 sia una matrice quadrata e invertibile: così la matrice 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
-- Se può essere espresso come una funzione lineare di 𝐲, ossia se esiste una matrice A di ordine m × n tale che 𝛃^{estim} = A𝐲
-- È formata da soli 1, e serve a riflettere β_0, che non moltiplica alcuna x
+- Che $\mathbf{x}$ sia una matrice quadrata e invertibile: così la matrice $\mathbf{x}'\mathbf{x}$ è invertibile e la 42 si può esplicitare rispetto al vettore $\boldsymbol{\beta}$
+- Se può essere espresso come una funzione lineare di $\mathbf{y}$, ossia se esiste una matrice $A$ di ordine $m \times n$ tale che $\boldsymbol{\beta}^{estim} = A\mathbf{y}$
+- È formata da soli 1, e serve a riflettere $\beta_0$, che non moltiplica alcuna $x$
 
 **D:** ⚠️ Qual è lo stimatore OLS in forma vettoriale nel caso multidimensionale (40), secondo le slide 8 e 10 della lezione 24?
-**R:** Slide 8 e 10: «il vettore 𝛃̂^{OLS} degli stimatori dei minimi quadrati che risolvono tale problema di minimo è: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (40)». Il docente: «il vettore beta cappello OLS degli stimatori dei minimi quadrati … non è altro che x trasposto x alla meno 1 per x trasposto y» (transcript [00:10:45]). ⚠️ Non va confuso con il fit (43), 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che ha una 𝐱 in più davanti: 𝛃̂^{OLS} è m × 1, 𝐲̂^{OLS} è n × 1. Per m = 2 i due stimatori della lezione 23, β̂_0^{OLS} e β̂_1^{OLS}, sono le sue componenti.
-**Opzione:** Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
+**R:** Slide 8 e 10: «il vettore $\hat{\boldsymbol{\beta}}^{OLS}$ degli stimatori dei minimi quadrati che risolvono tale problema di minimo è: $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (40)». Il docente: «il vettore beta cappello OLS degli stimatori dei minimi quadrati … non è altro che x trasposto x alla meno 1 per x trasposto y» (transcript [00:10:45]). ⚠️ Non va confuso con il fit (43), $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, che ha una $\mathbf{x}$ in più davanti: $\hat{\boldsymbol{\beta}}^{OLS}$ è $m \times 1$, $\hat{\mathbf{y}}^{OLS}$ è $n \times 1$. Per $m = 2$ i due stimatori della lezione 23, $\hat{\beta}_0^{OLS}$ e $\hat{\beta}_1^{OLS}$, sono le sue componenti.
+**Opzione:** Il vettore degli stimatori dei minimi quadrati: $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$
 **Distrattori:**
-- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲
-- 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
-- 𝐲 = 𝐱𝛃 + 𝛆 (34)
+- Il vettore degli stimatori dei minimi quadrati: $\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$
+- $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$, con $M := (\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, matrice quadrata di ordine $n$
+- $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ (34)
 
-**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto (𝐲′ - 𝛃′𝐱′)(𝐲 - 𝐱𝛃), e che cosa permette di arrivare alla (41), nella slide 9 della lezione 24?
-**R:** Slide 9: «svolgendo il prodotto: = min_𝛃 (𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃) che, osservando che tutti gli addendi della funzione obiettivo sono degli scalari, può essere riscritta come: min_𝛃 (𝐲′𝐲 - 2𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃) (41)». Il passaggio precedente (slide 8) è (𝐲 - 𝐱𝛃)′ = 𝐲′ - (𝐱𝛃)′ = 𝐲′ - 𝛃′𝐱′. Il docente: «osservando che tutti gli addendi della funzione obiettivo sono degli scalari potremo riscrivere la relazione originaria con la 41» (transcript [00:11:57]). Il motivo, che le slide non scrivono: uno scalare è uguale al proprio trasposto, e (𝐲′𝐱𝛃)′ = 𝛃′𝐱′𝐲.
-**Opzione:** 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto $(\mathbf{y}' - \boldsymbol{\beta}'\mathbf{x}')(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$, e che cosa permette di arrivare alla (41), nella slide 9 della lezione 24?
+**R:** Slide 9: «svolgendo il prodotto: $= \min_{\boldsymbol{\beta}} (\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}\boldsymbol{\beta} - \boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta})$ che, osservando che tutti gli addendi della funzione obiettivo sono degli scalari, può essere riscritta come: $\min_{\boldsymbol{\beta}} (\mathbf{y}'\mathbf{y} - 2\boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta})$ (41)». Il passaggio precedente (slide 8) è $(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})' = \mathbf{y}' - (\mathbf{x}\boldsymbol{\beta})' = \mathbf{y}' - \boldsymbol{\beta}'\mathbf{x}'$. Il docente: «osservando che tutti gli addendi della funzione obiettivo sono degli scalari potremo riscrivere la relazione originaria con la 41» (transcript [00:11:57]). Il motivo, che le slide non scrivono: uno scalare è uguale al proprio trasposto, e $(\mathbf{y}'\mathbf{x}\boldsymbol{\beta})' = \boldsymbol{\beta}'\mathbf{x}'\mathbf{y}$.
+**Opzione:** $\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}\boldsymbol{\beta} - \boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta}$, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
 **Distrattori:**
-- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che la matrice 𝐱 ha rango pieno
-- 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
-- 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+- $\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}\boldsymbol{\beta} - \boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta}$, che diventa la 41 osservando che la matrice $\mathbf{x}$ ha rango pieno
+- $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, che semplificando diventa $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ e poi $\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
+- $\mathbf{x}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) = 0$, la 48: esplicitando $\hat{\mathbf{y}}^{OLS}$ con la 43 si ha $\mathbf{x}'\mathbf{y} - \mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, che semplificando è zero
 
 **D:** ⚠️ Qual è la condizione del primo ordine per il problema (41), e a quale equazione porta, nelle slide 9–10 della lezione 24?
-**R:** Slide 9–10: «La condizione del primo ordine per il problema 41 è: d/d𝛃̂^{OLS} (𝐲′𝐲 - 2(𝛃̂^{OLS})′𝐱′𝐲 + (𝛃̂^{OLS})′𝐱′𝐱𝛃̂^{OLS}) = 0 ossia: -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0 semplificando: -𝐱′𝐲 + 𝐱′𝐱𝛃̂^{OLS} = 0 ossia: 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (42)». Il docente: «otteniamo meno 2 x trasposto y più 2 x trasposto x beta ols, … semplificando il 2» (transcript [00:12:55]). ⚠️ Il 2 compare in **entrambi** i termini e si semplifica.
-**Opzione:** -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
+**R:** Slide 9–10: «La condizione del primo ordine per il problema 41 è: $\frac{d}{d\hat{\boldsymbol{\beta}}^{OLS}} (\mathbf{y}'\mathbf{y} - 2(\hat{\boldsymbol{\beta}}^{OLS})'\mathbf{x}'\mathbf{y} + (\hat{\boldsymbol{\beta}}^{OLS})'\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}) = 0$ ossia: $-2\mathbf{x}'\mathbf{y} + 2\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$ semplificando: $-\mathbf{x}'\mathbf{y} + \mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$ ossia: $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$ (42)». Il docente: «otteniamo meno 2 x trasposto y più 2 x trasposto x beta ols, … semplificando il 2» (transcript [00:12:55]). ⚠️ Il 2 compare in **entrambi** i termini e si semplifica.
+**Opzione:** $-2\mathbf{x}'\mathbf{y} + 2\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$, che semplificando dà $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, la 42
 **Distrattori:**
-- -2𝐱′𝐲 + 𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 2𝐱′𝐲, la 42
-- 𝐲′𝐲 - 𝐲′𝐱𝛃 - 𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
-- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
+- $-2\mathbf{x}'\mathbf{y} + \mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$, che semplificando dà $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 2\mathbf{x}'\mathbf{y}$, la 42
+- $\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}\boldsymbol{\beta} - \boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta}$, che diventa la 41 osservando che tutti gli addendi della funzione obiettivo sono degli scalari
+- $\mathbf{x}'\boldsymbol{\epsilon}^{OLS} = 0$ (49) e $(\hat{\mathbf{y}}^{OLS})'\boldsymbol{\epsilon}^{OLS} = 0$ (50): i residui sono ortogonali alle colonne di $\mathbf{x}$ e al fit
 
 **D:** ⚠️ Quale equazione è detta «equazione normale» o «sistema di equazioni normali» dei minimi quadrati ordinari, nella nota della slide 11 della lezione 24?
-**R:** Slide 11: «L'equazione 42 è spesso chiamata "equazione normale" o "sistema di equazioni normali" (essendo un'equazione matriciale) dei minimi quadrati ordinari». La 42 è 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (slide 10). Il docente: «L'equazione 42 è spesso chiamata equazione normale o sistema di equazioni normali, essendo un'equazione in forma matriciale» (transcript [00:14:12]). ⚠️ È l'equazione **prima** dell'inversione: la (40), 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, ne è la soluzione, possibile perché 𝐱′𝐱 è invertibile.
-**Opzione:** La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+**R:** Slide 11: «L'equazione 42 è spesso chiamata "equazione normale" o "sistema di equazioni normali" (essendo un'equazione matriciale) dei minimi quadrati ordinari». La 42 è $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$ (slide 10). Il docente: «L'equazione 42 è spesso chiamata equazione normale o sistema di equazioni normali, essendo un'equazione in forma matriciale» (transcript [00:14:12]). ⚠️ È l'equazione **prima** dell'inversione: la (40), $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, ne è la soluzione, possibile perché $\mathbf{x}'\mathbf{x}$ è invertibile.
+**Opzione:** La 42, $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, detta sistema perché è un'equazione matriciale
 **Distrattori:**
-- La 40, 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, detta sistema perché è un'equazione matriciale
-- 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
-- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+- La 40, $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, detta sistema perché è un'equazione matriciale
+- $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (43), cioè $\hat{\mathbf{y}}^{OLS} = \mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ (44)
+- $\mathbf{z}'\mathbf{z} = z_1^2 + z_2^2 + \ldots + z_n^2 = \Vert\mathbf{z}\Vert^2$, per cui la 39 diventa $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert^2$, e quindi $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert$, la 51
 
-**D:** ⚠️ Perché, nella slide 10 della lezione 24, la condizione del primo ordine basta a identificare in 𝛃̂^{OLS} un punto di minimo?
-**R:** Slide 10: «Inoltre, essendo 𝐱′𝐱 anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in 𝛃̂^{OLS} un punto di minimo. c.v.d.» Il docente: «essendo x trasposto x anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in βOLS il punto di minimo» (transcript [00:13:47]). ⚠️ Definita **positiva**: è ciò che fa del punto stazionario un minimo.
-**Opzione:** Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+**D:** ⚠️ Perché, nella slide 10 della lezione 24, la condizione del primo ordine basta a identificare in $\hat{\boldsymbol{\beta}}^{OLS}$ un punto di minimo?
+**R:** Slide 10: «Inoltre, essendo $\mathbf{x}'\mathbf{x}$ anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in $\hat{\boldsymbol{\beta}}^{OLS}$ un punto di minimo. c.v.d.» Il docente: «essendo x trasposto x anche una matrice simmetrica, essa qualifica una forma quadratica definita positiva, per cui la condizione del primo ordine è sufficiente per identificare in βOLS il punto di minimo» (transcript [00:13:47]). ⚠️ Definita **positiva**: è ciò che fa del punto stazionario un minimo.
+**Opzione:** Perché $\mathbf{x}'\mathbf{x}$, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
 **Distrattori:**
-- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita negativa
+- Perché $\mathbf{x}'\mathbf{x}$, essendo anche una matrice simmetrica, qualifica una forma quadratica definita negativa
 - Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
-- Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+- Individuare il valore di $\boldsymbol{\beta}$ che minimizza la distanza tra il vettore $\mathbf{y}$ e il vettore $\mathbf{x}\boldsymbol{\beta}$; e $\mathbf{x}\boldsymbol{\beta}$, al variare di $\boldsymbol{\beta}$, individua il sottospazio vettoriale generato dalle colonne di $\mathbf{x}$
 
 **D:** ⚠️ Come si scrive il fit della regressione lineare ottenuto con lo stimatore OLS nel caso multidimensionale, nelle equazioni (43) e (44) della lezione 24?
-**R:** Slide 11, corollario: «Nel caso multidimensionale, l'espressione del fit della regressione lineare ottenuto con lo stimatore dei minimi quadrati ordinari è la seguente: 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43)»; nota: «Resta fermo che, alla luce della 40, 𝐲̂^{OLS} ammette anche la seguente rappresentazione: 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)». Il docente la chiama «l'equazione di stima» (transcript [00:15:03]). ⚠️ C'è una 𝐱 in più rispetto allo stimatore (40). Con la matrice di proiezione, lo stesso fit è 𝐲̂^{OLS} = P𝐲 (53).
-**Opzione:** 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝐱𝛃̂^{OLS} (44)
+**R:** Slide 11, corollario: «Nel caso multidimensionale, l'espressione del fit della regressione lineare ottenuto con lo stimatore dei minimi quadrati ordinari è la seguente: $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (43)»; nota: «Resta fermo che, alla luce della 40, $\hat{\mathbf{y}}^{OLS}$ ammette anche la seguente rappresentazione: $\hat{\mathbf{y}}^{OLS} = \mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ (44)». Il docente la chiama «l'equazione di stima» (transcript [00:15:03]). ⚠️ C'è una $\mathbf{x}$ in più rispetto allo stimatore (40). Con la matrice di proiezione, lo stesso fit è $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ (53).
+**Opzione:** $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (43), cioè $\hat{\mathbf{y}}^{OLS} = \mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ (44)
 **Distrattori:**
-- 𝐲̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (43), cioè 𝐲̂^{OLS} = 𝛃̂^{OLS} (44)
-- 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
-- -2𝐱′𝐲 + 2𝐱′𝐱𝛃̂^{OLS} = 0, che semplificando dà 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, la 42
+- $\hat{\mathbf{y}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (43), cioè $\hat{\mathbf{y}}^{OLS} = \hat{\boldsymbol{\beta}}^{OLS}$ (44)
+- $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$, con $M := (\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, matrice quadrata di ordine $n$
+- $-2\mathbf{x}'\mathbf{y} + 2\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = 0$, che semplificando dà $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, la 42
 
 **D:** ⚠️ Di che cosa è combinazione lineare il fit della regressione lineare, e con quali pesi, secondo il «Fatto» della slide 12 della lezione 24?
-**R:** Slide 12, fatto: «Il fit della regressione lineare è una combinazione lineare delle colonne della matrice dei regressori 𝐱 i cui coefficienti (o pesi) sono le varie componenti del vettore 𝛃̂ degli stimatori dei coefficienti del modello di regressione 29». Nel caso OLS i pesi sono «le componenti del vettore colonna m × 1 identificato dal termine destro dell'equazione 40». Il docente: «Bisogna prendere atto che il fit della regressione lineare è di fatto una combinazione lineare delle colonne della matrice dei regressori x» (transcript [00:15:09]). ⚠️ Delle **colonne**, una per coefficiente: è il «Fatto 1» che la slide 15 richiama per la proiezione ortogonale.
-**Opzione:** Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+**R:** Slide 12, fatto: «Il fit della regressione lineare è una combinazione lineare delle colonne della matrice dei regressori $\mathbf{x}$ i cui coefficienti (o pesi) sono le varie componenti del vettore $\hat{\boldsymbol{\beta}}$ degli stimatori dei coefficienti del modello di regressione 29». Nel caso OLS i pesi sono «le componenti del vettore colonna $m \times 1$ identificato dal termine destro dell'equazione 40». Il docente: «Bisogna prendere atto che il fit della regressione lineare è di fatto una combinazione lineare delle colonne della matrice dei regressori x» (transcript [00:15:09]). ⚠️ Delle **colonne**, una per coefficiente: è il «Fatto 1» che la slide 15 richiama per la proiezione ortogonale.
+**Opzione:** Delle colonne della matrice dei regressori $\mathbf{x}$, con pesi le componenti del vettore $\hat{\boldsymbol{\beta}}$ degli stimatori dei coefficienti
 **Distrattori:**
-- Delle righe della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
-- Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
-- P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+- Delle righe della matrice dei regressori $\mathbf{x}$, con pesi le componenti del vettore $\hat{\boldsymbol{\beta}}$ degli stimatori dei coefficienti
+- Sulla prima colonna della matrice $\mathbf{x}$, formata da soli 1: la prima equazione del sistema di equazioni normali diventa $\mathbf{1}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{1}'\mathbf{y}$
+- $P$ è la matrice di proiezione OLS; $M$ è la matrice di generazione dei residui OLS, o OLS residual maker
 
-**D:** ⚠️ Che cosa afferma la proposizione della slide 13 della lezione 24 sulla media campionaria di 𝐲?
-**R:** Slide 13: «La media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}, i.e.: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i (45)». Il docente: «Questo è molto importante perché ci consente di poter mettere in relazione la stima con il dato osservato» (transcript [00:16:19]). ⚠️ La media dei **residui**, invece, è zero: è il corollario (47), la somma dei residui OLS pari a zero.
-**Opzione:** Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+**D:** ⚠️ Che cosa afferma la proposizione della slide 13 della lezione 24 sulla media campionaria di $\mathbf{y}$?
+**R:** Slide 13: «La media campionaria di $\mathbf{y}$ coincide con la media campionaria di $\hat{\mathbf{y}}^{OLS}$, i.e.: $\frac{1}{n} \sum_{i=1}^n y_i = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$ (45)». Il docente: «Questo è molto importante perché ci consente di poter mettere in relazione la stima con il dato osservato» (transcript [00:16:19]). ⚠️ La media dei **residui**, invece, è zero: è il corollario (47), la somma dei residui OLS pari a zero.
+**Opzione:** Che la media campionaria di $\mathbf{y}$ coincide con la media campionaria di $\hat{\mathbf{y}}^{OLS}$: $\frac{1}{n} \sum_{i=1}^n y_i = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$
 **Distrattori:**
-- Che la media campionaria di 𝐲 coincide con la media campionaria dei residui 𝛜^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ϵ_i^{OLS}
-- In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+- Che la media campionaria di $\mathbf{y}$ coincide con la media campionaria dei residui $\boldsymbol{\epsilon}^{OLS}$: $\frac{1}{n} \sum_{i=1}^n y_i = \frac{1}{n} \sum_{i=1}^n \epsilon_i^{OLS}$
+- In due componenti tra loro ortogonali, $\mathbf{y} = P\mathbf{y} + M\mathbf{y}$: il fit $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ e il vettore dei residui $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$
 - Sull'ipotesi di non autocorrelazione (36), riscritta con la definizione di covarianza, e sull'assunzione che il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
 
-**D:** ⚠️ Su quale caratteristica della matrice 𝐱 poggia, nella lezione 24, la dimostrazione che la media di 𝐲 coincide con quella del fit, e quindi che la somma dei residui OLS è zero?
-**R:** Slide 13: dal sistema di equazioni normali 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲 (42), «si osserva che, alla luce dell'equazione 32 (dove la prima colonna della matrice 𝐱 è formata da soli 1), la prima equazione di tale sistema può essere scritta come segue: 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲 (46) dove 𝟏 denota un vettore colonna n × 1 i cui elementi sono tutti pari a 1». Poi 𝟏′𝐲̂^{OLS} = 𝟏′𝐲 e, dividendo per n, la (45) (slide 14). Il docente: «dove la prima colonna della matrice, ricordiamo, è formata da soli 1» (transcript [00:16:56]). ⚠️ La slide enuncia la (45) e la (47) senza condizioni: la colonna di 1, cioè β_0 nel modello, entra solo nella dimostrazione. Che senza intercetta la somma dei residui in generale non sia zero è un'integrazione, non dalle slide.
-**Opzione:** Sulla prima colonna della matrice 𝐱, formata da soli 1: la prima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
+**D:** ⚠️ Su quale caratteristica della matrice $\mathbf{x}$ poggia, nella lezione 24, la dimostrazione che la media di $\mathbf{y}$ coincide con quella del fit, e quindi che la somma dei residui OLS è zero?
+**R:** Slide 13: dal sistema di equazioni normali $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$ (42), «si osserva che, alla luce dell'equazione 32 (dove la prima colonna della matrice $\mathbf{x}$ è formata da soli 1), la prima equazione di tale sistema può essere scritta come segue: $\mathbf{1}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{1}'\mathbf{y}$ (46) dove $\mathbf{1}$ denota un vettore colonna $n \times 1$ i cui elementi sono tutti pari a 1». Poi $\mathbf{1}'\hat{\mathbf{y}}^{OLS} = \mathbf{1}'\mathbf{y}$ e, dividendo per $n$, la (45) (slide 14). Il docente: «dove la prima colonna della matrice, ricordiamo, è formata da soli 1» (transcript [00:16:56]). ⚠️ La slide enuncia la (45) e la (47) senza condizioni: la colonna di 1, cioè $\beta_0$ nel modello, entra solo nella dimostrazione. Che senza intercetta la somma dei residui in generale non sia zero è un'integrazione, non dalle slide.
+**Opzione:** Sulla prima colonna della matrice $\mathbf{x}$, formata da soli 1: la prima equazione del sistema di equazioni normali diventa $\mathbf{1}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{1}'\mathbf{y}$
 **Distrattori:**
-- Sull'ultima colonna della matrice 𝐱, formata da soli 1: l'ultima equazione del sistema di equazioni normali diventa 𝟏′𝐱𝛃̂^{OLS} = 𝟏′𝐲
-- Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
-- min_𝛃 (𝐲 - 𝐱𝛃)′(𝐲 - 𝐱𝛃), con la trasposta sul primo fattore
+- Sull'ultima colonna della matrice $\mathbf{x}$, formata da soli 1: l'ultima equazione del sistema di equazioni normali diventa $\mathbf{1}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{1}'\mathbf{y}$
+- Primo: $\hat{\mathbf{y}}^{OLS}$ appartiene al sottospazio generato dalle colonne di $\mathbf{x}$, e discende dal Fatto 1; secondo: il residuo $\mathbf{y} - \hat{\mathbf{y}}^{OLS}$ è ortogonale a quel sottospazio
+- $\min_{\boldsymbol{\beta}} (\mathbf{y} - \mathbf{x}\boldsymbol{\beta})'(\mathbf{y} - \mathbf{x}\boldsymbol{\beta})$, con la trasposta sul primo fattore
 
 **D:** ⚠️ Che cosa afferma la proposizione della slide 15 della lezione 24 sul fit della regressione ottenuto con i minimi quadrati ordinari?
-**R:** Slide 15: «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, 𝐲̂^{OLS}, è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱. In altri termini, tra tutte le combinazioni lineari delle colonne di 𝐱, 𝐲̂^{OLS} è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} ortogonale al sottospazio generato dalle colonne di 𝐱». Il docente: transcript [00:18:26]–[00:18:56]. ⚠️ Il fit sta **nel** sottospazio, il vettore dei residui gli è **ortogonale**.
-**Opzione:** 𝐲̂^{OLS} è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱: tra tutte le combinazioni lineari delle colonne di 𝐱, è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} ortogonale al sottospazio generato dalle colonne di 𝐱
+**R:** Slide 15: «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, $\hat{\mathbf{y}}^{OLS}$, è la proiezione ortogonale del vettore $\mathbf{y}$ sul sottospazio vettoriale generato dalle colonne della matrice $\mathbf{x}$. In altri termini, tra tutte le combinazioni lineari delle colonne di $\mathbf{x}$, $\hat{\mathbf{y}}^{OLS}$ è l'unica che permette di scrivere $\mathbf{y}$ come somma di $\hat{\mathbf{y}}^{OLS}$ stesso e di un vettore dei residui $\boldsymbol{\epsilon}^{OLS}$ ortogonale al sottospazio generato dalle colonne di $\mathbf{x}$». Il docente: transcript [00:18:26]–[00:18:56]. ⚠️ Il fit sta **nel** sottospazio, il vettore dei residui gli è **ortogonale**.
+**Opzione:** $\hat{\mathbf{y}}^{OLS}$ è la proiezione ortogonale del vettore $\mathbf{y}$ sul sottospazio vettoriale generato dalle colonne della matrice $\mathbf{x}$: tra tutte le combinazioni lineari delle colonne di $\mathbf{x}$, è l'unica che permette di scrivere $\mathbf{y}$ come somma di $\hat{\mathbf{y}}^{OLS}$ stesso e di un vettore dei residui $\boldsymbol{\epsilon}^{OLS}$ ortogonale al sottospazio generato dalle colonne di $\mathbf{x}$
 **Distrattori:**
-- 𝐲̂^{OLS} è la proiezione ortogonale del vettore 𝐲 sul sottospazio vettoriale generato dalle colonne della matrice 𝐱: tra tutte le combinazioni lineari delle colonne di 𝐱, è l'unica che permette di scrivere 𝐲 come somma di 𝐲̂^{OLS} stesso e di un vettore dei residui 𝛜^{OLS} appartenente al sottospazio generato dalle colonne di 𝐱
-- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
-- Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+- $\hat{\mathbf{y}}^{OLS}$ è la proiezione ortogonale del vettore $\mathbf{y}$ sul sottospazio vettoriale generato dalle colonne della matrice $\mathbf{x}$: tra tutte le combinazioni lineari delle colonne di $\mathbf{x}$, è l'unica che permette di scrivere $\mathbf{y}$ come somma di $\hat{\mathbf{y}}^{OLS}$ stesso e di un vettore dei residui $\boldsymbol{\epsilon}^{OLS}$ appartenente al sottospazio generato dalle colonne di $\mathbf{x}$
+- $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$, laddove si ritenga che il comportamento della variabile aleatoria $y$ possa essere spiegato avvalendosi delle informazioni contenute in $m - 1$ variabili indipendenti
+- Che la media campionaria di $\mathbf{y}$ coincide con la media campionaria di $\hat{\mathbf{y}}^{OLS}$: $\frac{1}{n} \sum_{i=1}^n y_i = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$
 
-**D:** ⚠️ Quali due punti occorre dimostrare, nella lezione 24, perché 𝐲̂^{OLS} sia la proiezione ortogonale di 𝐲, e da dove discende il primo (slide 15)?
-**R:** Slide 15: «occorre dimostrare che: ❶ 𝐲̂^{OLS} appartiene al sottospazio vettoriale generato dalle colonne di 𝐱; ❷ il vettore 𝐲 - 𝐲̂^{OLS} (ossia il residuo della regressione lineare di 𝐲 su 𝐱 stimata col metodo dei minimi quadrati ordinari) è ortogonale al sottospazio vettoriale generato dalle colonne di 𝐱. Il punto sub. 1 è una diretta conseguenza del Fatto 1», quello della slide 12: il fit è una combinazione lineare delle colonne di 𝐱. Il punto 2 equivale alla (48), 𝐱′(𝐲 - 𝐲̂^{OLS}) ≟ 0 (slide 16). Il docente: transcript [00:19:13]–[00:19:59].
-**Opzione:** Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
+**D:** ⚠️ Quali due punti occorre dimostrare, nella lezione 24, perché $\hat{\mathbf{y}}^{OLS}$ sia la proiezione ortogonale di $\mathbf{y}$, e da dove discende il primo (slide 15)?
+**R:** Slide 15: «occorre dimostrare che: ❶ $\hat{\mathbf{y}}^{OLS}$ appartiene al sottospazio vettoriale generato dalle colonne di $\mathbf{x}$; ❷ il vettore $\mathbf{y} - \hat{\mathbf{y}}^{OLS}$ (ossia il residuo della regressione lineare di $\mathbf{y}$ su $\mathbf{x}$ stimata col metodo dei minimi quadrati ordinari) è ortogonale al sottospazio vettoriale generato dalle colonne di $\mathbf{x}$. Il punto sub. 1 è una diretta conseguenza del Fatto 1», quello della slide 12: il fit è una combinazione lineare delle colonne di $\mathbf{x}$. Il punto 2 equivale alla (48), $\mathbf{x}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) \stackrel{?}{=} 0$ (slide 16). Il docente: transcript [00:19:13]–[00:19:59].
+**Opzione:** Primo: $\hat{\mathbf{y}}^{OLS}$ appartiene al sottospazio generato dalle colonne di $\mathbf{x}$, e discende dal Fatto 1; secondo: il residuo $\mathbf{y} - \hat{\mathbf{y}}^{OLS}$ è ortogonale a quel sottospazio
 **Distrattori:**
-- Primo: 𝐲̂^{OLS} è ortogonale al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} appartiene a quel sottospazio
-- In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+- Primo: $\hat{\mathbf{y}}^{OLS}$ è ortogonale al sottospazio generato dalle colonne di $\mathbf{x}$, e discende dal Fatto 1; secondo: il residuo $\mathbf{y} - \hat{\mathbf{y}}^{OLS}$ appartiene a quel sottospazio
+- In due componenti tra loro ortogonali, $\mathbf{y} = P\mathbf{y} + M\mathbf{y}$: il fit $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ e il vettore dei residui $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$
 - Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
 
 **D:** ⚠️ A quale uguaglianza equivale il punto 2 della dimostrazione dell'ortogonalità, e come la si verifica, nella slide 16 della lezione 24?
-**R:** Slide 16: il punto sub. 2 «equivale a dimostrare la validità della seguente uguaglianza: 𝐱′(𝐲 - 𝐲̂^{OLS}) ≟ 0 (48). A tal fine si riscrive la 48 esplicitando 𝐲̂^{OLS} in base all'equazione 43, i.e.: 𝐱′(𝐲 - 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲) ≟ 0 sviluppando il prodotto di cui al termine sinistro: 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 ≟ 0 Semplificando segue la tesi». 𝐱′𝐱(𝐱′𝐱)^(-1) è l'identità (deduzione). Il docente: transcript [00:20:02]–[00:20:36].
-**Opzione:** 𝐱′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐱′𝐲 - 𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
+**R:** Slide 16: il punto sub. 2 «equivale a dimostrare la validità della seguente uguaglianza: $\mathbf{x}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) \stackrel{?}{=} 0$ (48). A tal fine si riscrive la 48 esplicitando $\hat{\mathbf{y}}^{OLS}$ in base all'equazione 43, i.e.: $\mathbf{x}'(\mathbf{y} - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}) \stackrel{?}{=} 0$ sviluppando il prodotto di cui al termine sinistro: $\mathbf{x}'\mathbf{y} - \mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y} \stackrel{?}{=} 0$ Semplificando segue la tesi». $\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$ è l'identità (deduzione). Il docente: transcript [00:20:02]–[00:20:36].
+**Opzione:** $\mathbf{x}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) = 0$, la 48: esplicitando $\hat{\mathbf{y}}^{OLS}$ con la 43 si ha $\mathbf{x}'\mathbf{y} - \mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, che semplificando è zero
 **Distrattori:**
-- 𝐲′(𝐲 - 𝐲̂^{OLS}) = 0, la 48: esplicitando 𝐲̂^{OLS} con la 43 si ha 𝐲′𝐲 - 𝐲′𝐱(𝐱′𝐱)^(-1)𝐱′𝐲, che semplificando è zero
-- 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
-- La 42, 𝐱′𝐱𝛃̂^{OLS} = 𝐱′𝐲, detta sistema perché è un'equazione matriciale
+- $\mathbf{y}'(\mathbf{y} - \hat{\mathbf{y}}^{OLS}) = 0$, la 48: esplicitando $\hat{\mathbf{y}}^{OLS}$ con la 43 si ha $\mathbf{y}'\mathbf{y} - \mathbf{y}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, che semplificando è zero
+- $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, che semplificando diventa $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ e poi $\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
+- La 42, $\mathbf{x}'\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS} = \mathbf{x}'\mathbf{y}$, detta sistema perché è un'equazione matriciale
 
 **D:** ⚠️ Quali uguaglianze afferma il corollario della slide 17 della lezione 24?
-**R:** Slide 17: «Valgono le seguenti uguaglianze: 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50)». La 49 «discende direttamente dalla già dimostrata validità dell'equazione 48, considerando la definizione di residuo OLS, i.e.: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS}». Per la 50 si scrive 𝐲̂^{OLS} come 𝐱𝛃̂^{OLS} (44): (𝐱𝛃̂^{OLS})′𝛜^{OLS} = (𝛃̂^{OLS})′𝐱′𝛜^{OLS}, che è zero per la 48. ⚠️ La slide scrive «(𝛃̂^{OLS})′𝐱𝛜^{OLS}», senza l'apice su 𝐱: è un refuso, perché la stessa proprietà delle trasposte dà (𝐱𝛃)′ = 𝛃′𝐱′ (slide 8). Il docente legge come la slide (transcript [00:21:24]).
-**Opzione:** 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝛜^{OLS} = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e al fit
+**R:** Slide 17: «Valgono le seguenti uguaglianze: $\mathbf{x}'\boldsymbol{\epsilon}^{OLS} = 0$ (49) e $(\hat{\mathbf{y}}^{OLS})'\boldsymbol{\epsilon}^{OLS} = 0$ (50)». La 49 «discende direttamente dalla già dimostrata validità dell'equazione 48, considerando la definizione di residuo OLS, i.e.: $\boldsymbol{\epsilon}^{OLS} = \mathbf{y} - \hat{\mathbf{y}}^{OLS}$». Per la 50 si scrive $\hat{\mathbf{y}}^{OLS}$ come $\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ (44): $(\mathbf{x}\hat{\boldsymbol{\beta}}^{OLS})'\boldsymbol{\epsilon}^{OLS} = (\hat{\boldsymbol{\beta}}^{OLS})'\mathbf{x}'\boldsymbol{\epsilon}^{OLS}$, che è zero per la 48. ⚠️ La slide scrive «$(\hat{\boldsymbol{\beta}}^{OLS})'\mathbf{x}\boldsymbol{\epsilon}^{OLS}$», senza l'apice su $\mathbf{x}$: è un refuso, perché la stessa proprietà delle trasposte dà $(\mathbf{x}\boldsymbol{\beta})' = \boldsymbol{\beta}'\mathbf{x}'$ (slide 8). Il docente legge come la slide (transcript [00:21:24]).
+**Opzione:** $\mathbf{x}'\boldsymbol{\epsilon}^{OLS} = 0$ (49) e $(\hat{\mathbf{y}}^{OLS})'\boldsymbol{\epsilon}^{OLS} = 0$ (50): i residui sono ortogonali alle colonne di $\mathbf{x}$ e al fit
 **Distrattori:**
-- 𝐱′𝛜^{OLS} = 0 (49) e (𝐲̂^{OLS})′𝐲 = 0 (50): i residui sono ortogonali alle colonne di 𝐱 e il fit è ortogonale a 𝐲
-- Var(ε_i|𝐱) = σ_ε² (35) e cov(ε_i, ε_j|𝐱) = 0 (36), ∀i, j = 1, 2, …, n con i ≠ j
-- Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+- $\mathbf{x}'\boldsymbol{\epsilon}^{OLS} = 0$ (49) e $(\hat{\mathbf{y}}^{OLS})'\mathbf{y} = 0$ (50): i residui sono ortogonali alle colonne di $\mathbf{x}$ e il fit è ortogonale a $\mathbf{y}$
+- $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$ (35) e $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$ (36), $\forall i, j = 1, 2, \ldots, n$ con $i \neq j$
+- Sono entrambe simmetriche e idempotenti: $P = P'$ e $P = PP$, $M = M'$ e $M = MM$
 
-**D:** ⚠️ Che relazione lega 𝐳′𝐳 alla norma euclidea, e come si riscrive di conseguenza il problema (39), nelle slide 18–19 della lezione 24?
-**R:** Slide 18: «per qualsiasi vettore colonna n-dimensionale, 𝐳, vale: 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖²», per cui la (39) «può essere riscritto in modo equivalente come: min_𝛃 ‖𝐲 - 𝐱𝛃‖²», e quindi come min_𝛃 ‖𝐲 - 𝐱𝛃‖ (51) (slide 19), «dove il simbolo ‖ ‖ denota la norma euclidea». ⚠️ 𝐳′𝐳 è la norma **al quadrato**: il docente dice «z trasposto z è uguale alla norma euclidea di z» (transcript [00:22:08]), senza il quadrato; vale la slide.
-**Opzione:** 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+**D:** ⚠️ Che relazione lega $\mathbf{z}'\mathbf{z}$ alla norma euclidea, e come si riscrive di conseguenza il problema (39), nelle slide 18–19 della lezione 24?
+**R:** Slide 18: «per qualsiasi vettore colonna $n$-dimensionale, $\mathbf{z}$, vale: $\mathbf{z}'\mathbf{z} = z_1^2 + z_2^2 + \ldots + z_n^2 = \Vert\mathbf{z}\Vert^2$», per cui la (39) «può essere riscritto in modo equivalente come: $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert^2$», e quindi come $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert$ (51) (slide 19), «dove il simbolo $\Vert \Vert$ denota la norma euclidea». ⚠️ $\mathbf{z}'\mathbf{z}$ è la norma **al quadrato**: il docente dice «z trasposto z è uguale alla norma euclidea di z» (transcript [00:22:08]), senza il quadrato; vale la slide.
+**Opzione:** $\mathbf{z}'\mathbf{z} = z_1^2 + z_2^2 + \ldots + z_n^2 = \Vert\mathbf{z}\Vert^2$, per cui la 39 diventa $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert^2$, e quindi $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert$, la 51
 **Distrattori:**
-- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖, la norma euclidea di 𝐳, per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
-- Il vettore degli stimatori dei minimi quadrati: 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲
-- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
+- $\mathbf{z}'\mathbf{z} = z_1^2 + z_2^2 + \ldots + z_n^2 = \Vert\mathbf{z}\Vert$, la norma euclidea di $\mathbf{z}$, per cui la 39 diventa $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert$, la 51
+- Il vettore degli stimatori dei minimi quadrati: $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$
+- $\mathbf{y}$ vettore $n \times 1$, $\boldsymbol{\beta}$ vettore $m \times 1$, $\mathbf{x}$ matrice $n \times m$, $\boldsymbol{\varepsilon}$ vettore $n \times 1$
 
 **D:** ⚠️ Che cosa significa minimizzare la funzione obiettivo della (51), secondo la slide 19 della lezione 24?
-**R:** Slide 19: «Ciò significa che minimizzare rispetto al vettore 𝛃 la funzione obiettivo della 51 equivale a individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃. A sua volta il vettore 𝐱𝛃 al variare di 𝛃 individua tutte le possibili combinazioni lineari delle colonne della matrice 𝐱 o, in altri termini, individua il sottospazio vettoriale generato dalle colonne di 𝐱. E' quindi intuitivo che il valore ottimale di 𝛃 sia quello che premoltiplicato per la matrice 𝐱 restituisce la proiezione ortogonale di 𝐲 sul sottospazio vettoriale generato dalle colonne di 𝐱». Il docente: transcript [00:22:36]–[00:23:20]. È la versione vettoriale dell'interpretazione geometrica della lezione 23 (slide 15 di quel deck).
-**Opzione:** Individuare il valore di 𝛃 che minimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
+**R:** Slide 19: «Ciò significa che minimizzare rispetto al vettore $\boldsymbol{\beta}$ la funzione obiettivo della 51 equivale a individuare il valore di $\boldsymbol{\beta}$ che minimizza la distanza tra il vettore $\mathbf{y}$ e il vettore $\mathbf{x}\boldsymbol{\beta}$. A sua volta il vettore $\mathbf{x}\boldsymbol{\beta}$ al variare di $\boldsymbol{\beta}$ individua tutte le possibili combinazioni lineari delle colonne della matrice $\mathbf{x}$ o, in altri termini, individua il sottospazio vettoriale generato dalle colonne di $\mathbf{x}$. E' quindi intuitivo che il valore ottimale di $\boldsymbol{\beta}$ sia quello che premoltiplicato per la matrice $\mathbf{x}$ restituisce la proiezione ortogonale di $\mathbf{y}$ sul sottospazio vettoriale generato dalle colonne di $\mathbf{x}$». Il docente: transcript [00:22:36]–[00:23:20]. È la versione vettoriale dell'interpretazione geometrica della lezione 23 (slide 15 di quel deck).
+**Opzione:** Individuare il valore di $\boldsymbol{\beta}$ che minimizza la distanza tra il vettore $\mathbf{y}$ e il vettore $\mathbf{x}\boldsymbol{\beta}$; e $\mathbf{x}\boldsymbol{\beta}$, al variare di $\boldsymbol{\beta}$, individua il sottospazio vettoriale generato dalle colonne di $\mathbf{x}$
 **Distrattori:**
-- Individuare il valore di 𝛃 che massimizza la distanza tra il vettore 𝐲 e il vettore 𝐱𝛃; e 𝐱𝛃, al variare di 𝛃, individua il sottospazio vettoriale generato dalle colonne di 𝐱
-- y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, laddove si ritenga che il comportamento della variabile aleatoria y possa essere spiegato avvalendosi delle informazioni contenute in m - 1 variabili indipendenti
-- Delle colonne della matrice dei regressori 𝐱, con pesi le componenti del vettore 𝛃̂ degli stimatori dei coefficienti
+- Individuare il valore di $\boldsymbol{\beta}$ che massimizza la distanza tra il vettore $\mathbf{y}$ e il vettore $\mathbf{x}\boldsymbol{\beta}$; e $\mathbf{x}\boldsymbol{\beta}$, al variare di $\boldsymbol{\beta}$, individua il sottospazio vettoriale generato dalle colonne di $\mathbf{x}$
+- $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$, laddove si ritenga che il comportamento della variabile aleatoria $y$ possa essere spiegato avvalendosi delle informazioni contenute in $m - 1$ variabili indipendenti
+- Delle colonne della matrice dei regressori $\mathbf{x}$, con pesi le componenti del vettore $\hat{\boldsymbol{\beta}}$ degli stimatori dei coefficienti
 
-**D:** ⚠️ Come è definita la matrice di proiezione OLS P, di che ordine è, e che relazione ha con il fit, nella slide 20 della lezione 24?
-**R:** Slide 20: «Si definisce matrice di proiezione OLS e si denota con P la matrice quadrata di ordine n così definita: P := 𝐱(𝐱′𝐱)^(-1)𝐱′ (52)»; «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, 𝐲̂^{OLS}, ammette la seguente rappresentazione come prodotto tra la matrice di proiezione OLS P e il vettore 𝐲: 𝐲̂^{OLS} = P𝐲 (53)». ⚠️ P è n × n, mentre 𝐱′𝐱 è m × m. La dimostrazione: «Ictu oculi dalle equazioni 43 e 53» (sic: la definizione è la 52); il docente, «una banale sostituzione della formula 43» (transcript [00:24:00]).
-**Opzione:** P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
+**D:** ⚠️ Come è definita la matrice di proiezione OLS $P$, di che ordine è, e che relazione ha con il fit, nella slide 20 della lezione 24?
+**R:** Slide 20: «Si definisce matrice di proiezione OLS e si denota con $P$ la matrice quadrata di ordine $n$ così definita: $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ (52)»; «Il fit della regressione ottenuto col metodo dei minimi quadrati ordinari, $\hat{\mathbf{y}}^{OLS}$, ammette la seguente rappresentazione come prodotto tra la matrice di proiezione OLS $P$ e il vettore $\mathbf{y}$: $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ (53)». ⚠️ $P$ è $n \times n$, mentre $\mathbf{x}'\mathbf{x}$ è $m \times m$. La dimostrazione: «Ictu oculi dalle equazioni 43 e 53» (sic: la definizione è la 52); il docente, «una banale sostituzione della formula 43» (transcript [00:24:00]).
+**Opzione:** $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, matrice quadrata di ordine $n$, con $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$
 **Distrattori:**
-- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine m, con 𝐲̂^{OLS} = P𝐲
-- 𝐲 vettore n × 1, 𝛃 vettore m × 1, 𝐱 matrice n × m, 𝛆 vettore n × 1
-- 𝐳′𝐳 = z_1² + z_2² + … + z_n² = ‖𝐳‖², per cui la 39 diventa min_𝛃 ‖𝐲 - 𝐱𝛃‖², e quindi min_𝛃 ‖𝐲 - 𝐱𝛃‖, la 51
+- $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, matrice quadrata di ordine $m$, con $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$
+- $\mathbf{y}$ vettore $n \times 1$, $\boldsymbol{\beta}$ vettore $m \times 1$, $\mathbf{x}$ matrice $n \times m$, $\boldsymbol{\varepsilon}$ vettore $n \times 1$
+- $\mathbf{z}'\mathbf{z} = z_1^2 + z_2^2 + \ldots + z_n^2 = \Vert\mathbf{z}\Vert^2$, per cui la 39 diventa $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert^2$, e quindi $\min_{\boldsymbol{\beta}} \Vert\mathbf{y} - \mathbf{x}\boldsymbol{\beta}\Vert$, la 51
 
-**D:** ⚠️ Quali proprietà hanno la matrice di proiezione P e la matrice M dei residui, e che cosa si deve dimostrare per ciascuna, nelle slide 21–26 della lezione 24?
-**R:** Slide 21: «La matrice di proiezione OLS, P, di cui all'equazione 53 è simmetrica e idempotente»: P ≟ P′ (54) e P ≟ PP (55). Slide 24: «La matrice di generazione dei residui OLS, M, è simmetrica e idempotente»: M ≟ M′ (58) e M ≟ MM (59). Il docente: «quindi è sia simmetrica che idempotente» (transcript [00:29:21]). ⚠️ Le proprietà sono le stesse per P e per M. Nelle simmetrie serve che «la trasposta dell'inversa è uguale all'inversa della trasposta»; per M anche che «la matrice identità è simmetrica».
-**Opzione:** Sono entrambe simmetriche e idempotenti: P = P′ e P = PP, M = M′ e M = MM
+**D:** ⚠️ Quali proprietà hanno la matrice di proiezione $P$ e la matrice $M$ dei residui, e che cosa si deve dimostrare per ciascuna, nelle slide 21–26 della lezione 24?
+**R:** Slide 21: «La matrice di proiezione OLS, $P$, di cui all'equazione 53 è simmetrica e idempotente»: $P \stackrel{?}{=} P'$ (54) e $P \stackrel{?}{=} PP$ (55). Slide 24: «La matrice di generazione dei residui OLS, $M$, è simmetrica e idempotente»: $M \stackrel{?}{=} M'$ (58) e $M \stackrel{?}{=} MM$ (59). Il docente: «quindi è sia simmetrica che idempotente» (transcript [00:29:21]). ⚠️ Le proprietà sono le stesse per $P$ e per $M$. Nelle simmetrie serve che «la trasposta dell'inversa è uguale all'inversa della trasposta»; per $M$ anche che «la matrice identità è simmetrica».
+**Opzione:** Sono entrambe simmetriche e idempotenti: $P = P'$ e $P = PP$, $M = M'$ e $M = MM$
 **Distrattori:**
-- P è simmetrica e idempotente, M è solo simmetrica: P = P′ e P = PP, M = M′
-- Primo: 𝐲̂^{OLS} appartiene al sottospazio generato dalle colonne di 𝐱, e discende dal Fatto 1; secondo: il residuo 𝐲 - 𝐲̂^{OLS} è ortogonale a quel sottospazio
+- $P$ è simmetrica e idempotente, $M$ è solo simmetrica: $P = P'$ e $P = PP$, $M = M'$
+- Primo: $\hat{\mathbf{y}}^{OLS}$ appartiene al sottospazio generato dalle colonne di $\mathbf{x}$, e discende dal Fatto 1; secondo: il residuo $\mathbf{y} - \hat{\mathbf{y}}^{OLS}$ è ortogonale a quel sottospazio
 - Omoschedasticità: gli elementi del vettore degli errori hanno tutti la stessa varianza; non autocorrelati: non esiste legame tra i vari errori del modello
 
-**D:** ⚠️ Come si rappresenta il vettore dei residui OLS con la matrice M, e com'è definita M, nella slide 23 della lezione 24?
-**R:** Slide 23: «Il vettore dei residui della regressione lineare attraverso la tecnica OLS ammette la seguente rappresentazione: 𝛜^{OLS} = M𝐲 (56) ove M è la matrice quadrata di ordine n così definita: M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) (57)». Dimostrazione: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS} = 𝐲 - 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 = (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲. Il docente: transcript [00:26:06]–[00:26:33]. ⚠️ Il segno è un **meno**: in termini di P, M = 𝐈_n - P (deduzione dalle (52) e (57)).
-**Opzione:** 𝛜^{OLS} = M𝐲, con M := (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
+**D:** ⚠️ Come si rappresenta il vettore dei residui OLS con la matrice $M$, e com'è definita $M$, nella slide 23 della lezione 24?
+**R:** Slide 23: «Il vettore dei residui della regressione lineare attraverso la tecnica OLS ammette la seguente rappresentazione: $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$ (56) ove $M$ è la matrice quadrata di ordine $n$ così definita: $M := (\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$ (57)». Dimostrazione: $\boldsymbol{\epsilon}^{OLS} = \mathbf{y} - \hat{\mathbf{y}}^{OLS} = \mathbf{y} - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y} = (\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\mathbf{y}$. Il docente: transcript [00:26:06]–[00:26:33]. ⚠️ Il segno è un **meno**: in termini di $P$, $M = \mathbf{I}_n - P$ (deduzione dalle (52) e (57)).
+**Opzione:** $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$, con $M := (\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, matrice quadrata di ordine $n$
 **Distrattori:**
-- 𝛜^{OLS} = M𝐲, con M := (𝐈_n + 𝐱(𝐱′𝐱)^(-1)𝐱′), matrice quadrata di ordine n
-- P := 𝐱(𝐱′𝐱)^(-1)𝐱′, matrice quadrata di ordine n, con 𝐲̂^{OLS} = P𝐲
+- $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$, con $M := (\mathbf{I}_n + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, matrice quadrata di ordine $n$
+- $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, matrice quadrata di ordine $n$, con $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$
 
-**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto MM nella dimostrazione dell'idempotenza di M, nelle slide 25–26 della lezione 24?
-**R:** Slide 26: «svolgendo il prodotto di cui al lato destro: ≟ [𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′] semplificando: ≟ [𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′] semplificando ancora: ≟ [𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′] e quindi anche la 59 è verificata». ⚠️ Il doppio prodotto ha il **2**. In termini di P: MM = 𝐈_n - 2P + PP = 𝐈_n - 2P + P = 𝐈_n - P = M (deduzione, con l'idempotenza di P). Il docente: transcript [00:29:04]–[00:29:21].
-**Opzione:** 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 2𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′
+**D:** ⚠️ Che cosa si ottiene svolgendo il prodotto $MM$ nella dimostrazione dell'idempotenza di $M$, nelle slide 25–26 della lezione 24?
+**R:** Slide 26: «svolgendo il prodotto di cui al lato destro: $\stackrel{?}{=} [\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}']$ semplificando: $\stackrel{?}{=} [\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}']$ semplificando ancora: $\stackrel{?}{=} [\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}']$ e quindi anche la 59 è verificata». ⚠️ Il doppio prodotto ha il **2**. In termini di $P$: $MM = \mathbf{I}_n - 2P + PP = \mathbf{I}_n - 2P + P = \mathbf{I}_n - P = M$ (deduzione, con l'idempotenza di $P$). Il docente: transcript [00:29:04]–[00:29:21].
+**Opzione:** $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, che semplificando diventa $\mathbf{I}_n - 2\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ e poi $\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
 **Distrattori:**
-- 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)𝐱′, che semplificando diventa 𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′ + 𝐱(𝐱′𝐱)^(-1)𝐱′ e poi 𝐈_n
-- y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
-- Che la media campionaria di 𝐲 coincide con la media campionaria di 𝐲̂^{OLS}: (1/n) ∑_{i=1}^n y_i = (1/n) ∑_{i=1}^n ŷ_i
+- $\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, che semplificando diventa $\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ e poi $\mathbf{I}_n$
+- $y_i = \beta_0 + \beta_1x_{i1} + \beta_2x_{i2} + \ldots + \beta_{m-1}x_{i(m-1)} + \varepsilon_i$, $i = 1, 2, \ldots, n$: il primo indice di $x$ è l'osservazione, il secondo la variabile
+- Che la media campionaria di $\mathbf{y}$ coincide con la media campionaria di $\hat{\mathbf{y}}^{OLS}$: $\frac{1}{n} \sum_{i=1}^n y_i = \frac{1}{n} \sum_{i=1}^n \hat{y}_i$
 
-**D:** ⚠️ Come si chiamano la matrice P e la matrice M della lezione 24 (slide 20 e 24)?
-**R:** Slide 20: P è la «matrice di proiezione OLS». Slide 24: «La matrice M di cui all'equazione 57 è detta matrice di generazione dei residui OLS o OLS residual maker». Il docente: «o in inglese Ordinary Least Square Residual Maker» (transcript [00:26:57]). ⚠️ Il residual maker è M, quella che genera i residui, 𝛜^{OLS} = M𝐲; P genera il fit, 𝐲̂^{OLS} = P𝐲.
-**Opzione:** P è la matrice di proiezione OLS; M è la matrice di generazione dei residui OLS, o OLS residual maker
+**D:** ⚠️ Come si chiamano la matrice $P$ e la matrice $M$ della lezione 24 (slide 20 e 24)?
+**R:** Slide 20: $P$ è la «matrice di proiezione OLS». Slide 24: «La matrice $M$ di cui all'equazione 57 è detta matrice di generazione dei residui OLS o OLS residual maker». Il docente: «o in inglese Ordinary Least Square Residual Maker» (transcript [00:26:57]). ⚠️ Il residual maker è $M$, quella che genera i residui, $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$; $P$ genera il fit, $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$.
+**Opzione:** $P$ è la matrice di proiezione OLS; $M$ è la matrice di generazione dei residui OLS, o OLS residual maker
 **Distrattori:**
-- P è la matrice di generazione dei residui OLS, o OLS residual maker; M è la matrice di proiezione OLS
-- Che 𝐱 sia una matrice di rango pieno: così la matrice quadrata 𝐱′𝐱 è invertibile e la 42 si può esplicitare rispetto al vettore 𝛃
-- y_i = β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)} + ε_i, i = 1, 2, …, n: il primo indice di x è l'osservazione, il secondo la variabile
+- $P$ è la matrice di generazione dei residui OLS, o OLS residual maker; $M$ è la matrice di proiezione OLS
+- Che $\mathbf{x}$ sia una matrice di rango pieno: così la matrice quadrata $\mathbf{x}'\mathbf{x}$ è invertibile e la 42 si può esplicitare rispetto al vettore $\boldsymbol{\beta}$
+- $y_i = \beta_0 + \beta_1x_{i1} + \beta_2x_{i2} + \ldots + \beta_{m-1}x_{i(m-1)} + \varepsilon_i$, $i = 1, 2, \ldots, n$: il primo indice di $x$ è l'osservazione, il secondo la variabile
 
-**D:** ⚠️ In quali componenti il metodo dei minimi quadrati partiziona il vettore 𝐲, secondo la slide 27 della lezione 24?
-**R:** Slide 27: «Il metodo dei minimi quadrati partiziona il vettore 𝐲 in due componenti tra loro ortogonali: 𝐲 = P𝐲 + M𝐲 dove P è la matrice di proiezione OLS e M è la matrice di generazione dei residui OLS». Dimostrazione: «Ictu oculi dalle equazioni 53 e 56 tenuto conto del risultato di ortogonalità tra i vettori 𝐲̂^{OLS} e 𝛜^{OLS} di cui all'equazione 50». P𝐲 è il fit, M𝐲 il vettore dei residui. Il docente: transcript [00:29:35]–[00:29:56]. ⚠️ Le due componenti si **sommano**: 𝛜^{OLS} = 𝐲 - 𝐲̂^{OLS}.
-**Opzione:** In due componenti tra loro ortogonali, 𝐲 = P𝐲 + M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
+**D:** ⚠️ In quali componenti il metodo dei minimi quadrati partiziona il vettore $\mathbf{y}$, secondo la slide 27 della lezione 24?
+**R:** Slide 27: «Il metodo dei minimi quadrati partiziona il vettore $\mathbf{y}$ in due componenti tra loro ortogonali: $\mathbf{y} = P\mathbf{y} + M\mathbf{y}$ dove $P$ è la matrice di proiezione OLS e $M$ è la matrice di generazione dei residui OLS». Dimostrazione: «Ictu oculi dalle equazioni 53 e 56 tenuto conto del risultato di ortogonalità tra i vettori $\hat{\mathbf{y}}^{OLS}$ e $\boldsymbol{\epsilon}^{OLS}$ di cui all'equazione 50». $P\mathbf{y}$ è il fit, $M\mathbf{y}$ il vettore dei residui. Il docente: transcript [00:29:35]–[00:29:56]. ⚠️ Le due componenti si **sommano**: $\boldsymbol{\epsilon}^{OLS} = \mathbf{y} - \hat{\mathbf{y}}^{OLS}$.
+**Opzione:** In due componenti tra loro ortogonali, $\mathbf{y} = P\mathbf{y} + M\mathbf{y}$: il fit $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ e il vettore dei residui $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$
 **Distrattori:**
-- In due componenti tra loro ortogonali, 𝐲 = P𝐲 - M𝐲: il fit 𝐲̂^{OLS} = P𝐲 e il vettore dei residui 𝛜^{OLS} = M𝐲
-- 𝐲 = 𝐱𝛃 + 𝛆 (34)
-- Perché 𝐱′𝐱, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
+- In due componenti tra loro ortogonali, $\mathbf{y} = P\mathbf{y} - M\mathbf{y}$: il fit $\hat{\mathbf{y}}^{OLS} = P\mathbf{y}$ e il vettore dei residui $\boldsymbol{\epsilon}^{OLS} = M\mathbf{y}$
+- $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ (34)
+- Perché $\mathbf{x}'\mathbf{x}$, essendo anche una matrice simmetrica, qualifica una forma quadratica definita positiva
 
 **D:** ⚠️ Come si esprime il modello di regressione lineare generalizzato al caso di m-1 variabili esplicative, secondo il test della lezione 24 (domanda 1)?
-**R:** «**y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e**», cioè la (29) della slide 2, y = β_0 + β_1x_1 + β_2x_2 + … + β_{m-1}x_{m-1} + ε, con «b» per β ed «e» per ε. Il docente: «la nostra equazione y diventerà uguale a β0 più β1x1 più β2x2 …» (transcript [00:00:31]). ⚠️ Il «b1x» prima di «b1x1» è un refuso della piattaforma, uguale in tutte le opzioni: la slide non ha β_1x, con ogni probabilità il termine del modello a una variabile della lezione 23 (deduzione). Distrattori del test: «y=b0+b1x+b1x1+b2x2+b3+e» tronca la coda, con «b3» senza x_3; «…+bm-1xm-1» senza «+e» perde l'errore; «y=b1x+…+e» perde l'intercetta β_0.
+**R:** «**y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e**», cioè la (29) della slide 2, $y = \beta_0 + \beta_1x_1 + \beta_2x_2 + \ldots + \beta_{m-1}x_{m-1} + \varepsilon$, con «b» per $\beta$ ed «e» per $\varepsilon$. Il docente: «la nostra equazione y diventerà uguale a β0 più β1x1 più β2x2 …» (transcript [00:00:31]). ⚠️ Il «b1x» prima di «b1x1» è un refuso della piattaforma, uguale in tutte le opzioni: la slide non ha $\beta_1x$, con ogni probabilità il termine del modello a una variabile della lezione 23 (deduzione). Distrattori del test: «y=b0+b1x+b1x1+b2x2+b3+e» tronca la coda, con «b3» senza $x_3$; «…+bm-1xm-1» senza «+e» perde l'errore; «y=b1x+…+e» perde l'intercetta $\beta_0$.
 **Opzione:** y=b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e
 **Distrattori:**
 - y=b0+b1x+b1x1+b2x2+b3+e
@@ -7971,7 +8288,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - y=b1x+b1x1+b2x2+b3x3+...+bm-1xm-1+e
 
 **D:** ⚠️ Come si esprime la funzione obiettivo nel modello di regressione lineare generalizzato, secondo il test della lezione 24 (domanda 2)?
-**R:** «**min{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2**», cioè la (38) della slide 7, min_{β_0, β_1, …, β_{m-1}} ∑_{i=1}^n [y_i - (β_0 + β_1x_{i1} + β_2x_{i2} + … + β_{m-1}x_{i(m-1)})]², con «Si» per ∑_{i=1}^n e «]2» per il quadrato. Il docente: i valori «che vanno a minimizzare la seguente funzione obiettivo», «il tutto elevato al quadrato» (transcript [00:09:30]). ⚠️ È l'unica opzione con «min»; tutte hanno il «b1x» in più e il «bo» con la lettera o, refusi della piattaforma. Distrattori del test: la stessa formula con «max» (segno invertito); con «max» e senza il quadrato; con «max» e senza la sommatoria.
+**R:** «**min{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2**», cioè la (38) della slide 7, $\min_{\beta_0, \beta_1, \ldots, \beta_{m-1}} \sum_{i=1}^n [y_i - (\beta_0 + \beta_1x_{i1} + \beta_2x_{i2} + \ldots + \beta_{m-1}x_{i(m-1)})]^2$, con «Si» per $\sum_{i=1}^n$ e «]2» per il quadrato. Il docente: i valori «che vanno a minimizzare la seguente funzione obiettivo», «il tutto elevato al quadrato» (transcript [00:09:30]). ⚠️ È l'unica opzione con «min»; tutte hanno il «b1x» in più e il «bo» con la lettera o, refusi della piattaforma. Distrattori del test: la stessa formula con «max» (segno invertito); con «max» e senza il quadrato; con «max» e senza la sommatoria.
 **Opzione:** min{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2
 **Distrattori:**
 - max{bo,b1,b2,...,bm-1} Si[yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]2
@@ -7979,7 +8296,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - max{bo,b1,b2,...,bm-1} [yi-(b0+b1x+b1x1+b2x2+b3x3+...+bm-1xm-1)]
 
 **D:** ⚠️ Quale forma vettoriale assume lo stimatore dei minimi quadrati, secondo il test della lezione 24 (domanda 3, che chiede «b0OLS»)?
-**R:** «**bOLS =(x'x)-1x'y**», cioè la (40) delle slide 8 e 10, 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲, il **vettore** degli stimatori dei minimi quadrati (transcript [00:10:45], [00:13:18]). ⚠️ Il testo chiede «b0OLS», lo stimatore di β_0, ma la chiave è il vettore «bOLS»: il refuso è nella domanda, copiata con ogni probabilità dalla domanda 4 del test della lezione 23. Distrattori del test: «b0OLS =(x'x)-1x'y», il più insidioso perché ripete il testo, e «b1OLS =(x'x)-1x'y» attribuiscono la formula del vettore a una sola componente; «bOLS =(x'x)» tronca la formula.
+**R:** «**bOLS =(x'x)-1x'y**», cioè la (40) delle slide 8 e 10, $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$, il **vettore** degli stimatori dei minimi quadrati (transcript [00:10:45], [00:13:18]). ⚠️ Il testo chiede «b0OLS», lo stimatore di $\beta_0$, ma la chiave è il vettore «bOLS»: il refuso è nella domanda, copiata con ogni probabilità dalla domanda 4 del test della lezione 23. Distrattori del test: «b0OLS =(x'x)-1x'y», il più insidioso perché ripete il testo, e «b1OLS =(x'x)-1x'y» attribuiscono la formula del vettore a una sola componente; «bOLS =(x'x)» tronca la formula.
 **Opzione:** bOLS =(x'x)-1x'y
 **Distrattori:**
 - b1OLS =(x'x)-1x'y
@@ -7987,7 +8304,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - bOLS =(x'x)
 
 **D:** ⚠️ Come si esprime in termini vettoriali la funzione obiettivo nel modello di regressione lineare generalizzato, secondo il test della lezione 24 (domanda 4)?
-**R:** «**minb =(y'y-2b'x'y+b'x'xb)**», cioè la (41) della slide 9, min_𝛃 (𝐲′𝐲 - 2𝛃′𝐱′𝐲 + 𝛃′𝐱′𝐱𝛃). Il docente: «y trasposto y meno 2 beta trasposto x trasposto y più beta trasposto x trasposto x beta» (transcript [00:12:09]). ⚠️ Il «=» dopo «minb» è un refuso della piattaforma. Distrattori del test: «maxb =(…)» è la chiave con il segno invertito; «…+b'x)» e «…+b)» troncano l'ultimo addendo, 𝛃′𝐱′𝐱𝛃.
+**R:** «**minb =(y'y-2b'x'y+b'x'xb)**», cioè la (41) della slide 9, $\min_{\boldsymbol{\beta}} (\mathbf{y}'\mathbf{y} - 2\boldsymbol{\beta}'\mathbf{x}'\mathbf{y} + \boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta})$. Il docente: «y trasposto y meno 2 beta trasposto x trasposto y più beta trasposto x trasposto x beta» (transcript [00:12:09]). ⚠️ Il «=» dopo «minb» è un refuso della piattaforma. Distrattori del test: «maxb =(…)» è la chiave con il segno invertito; «…+b'x)» e «…+b)» troncano l'ultimo addendo, $\boldsymbol{\beta}'\mathbf{x}'\mathbf{x}\boldsymbol{\beta}$.
 **Opzione:** minb =(y'y-2b'x'y+b'x'xb)
 **Distrattori:**
 - maxb =(y'y-2b'x'y+b'x'xb)
@@ -7995,7 +8312,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - minb =(y'y-2b'x'y+b)
 
 **D:** ⚠️ Quanto vale la somma dei residui, secondo il test della lezione 24 (domanda 5)?
-**R:** «**è pari a zero**»: è il corollario (47) della slide 14, ∑_{i=1}^n ϵ_i^{OLS} = 0, «ossia la somma dei residui OLS è pari a zero». Il docente: «La somma dei residui del sistema dei minimi quadrati è identicamente nulla» (transcript [00:18:14]). ⚠️ La dimostrazione usa la prima colonna di soli 1 della matrice 𝐱 (slide 13; transcript [00:16:56]), cioè la presenza di β_0; la slide però enuncia il corollario senza condizioni, e all'esame la risposta è «è pari a zero». Distrattori del test: «è pari a infinito», «non si può calcolare» ed «è pari a 1» non sono nei materiali.
+**R:** «**è pari a zero**»: è il corollario (47) della slide 14, $\sum_{i=1}^n \epsilon_i^{OLS} = 0$, «ossia la somma dei residui OLS è pari a zero». Il docente: «La somma dei residui del sistema dei minimi quadrati è identicamente nulla» (transcript [00:18:14]). ⚠️ La dimostrazione usa la prima colonna di soli 1 della matrice $\mathbf{x}$ (slide 13; transcript [00:16:56]), cioè la presenza di $\beta_0$; la slide però enuncia il corollario senza condizioni, e all'esame la risposta è «è pari a zero». Distrattori del test: «è pari a infinito», «non si può calcolare» ed «è pari a 1» non sono nei materiali.
 **Opzione:** è pari a zero
 **Distrattori:**
 - è pari a infinito
@@ -8004,267 +8321,267 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 25 — Modello Lineare 3 – Stimatori OLS e Teorema di Gauss-Markov
 
-**D:** ⚠️ Come è definita, nella Proposizione della slide 2 della lezione 25, la quantità σ_{ϵ^{OLS}}², e con quale μ_ϵ?
-**R:** Slide 2, «Proposizione»: «La quantità σ_{ϵ^{OLS}}² definita come: **σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n** (60) con **μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n** (61) è uno stimatore distorto della varianza dell'errore della regressione lineare». Il docente: la varianza dei residui «può essere definita come la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n dove la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:18]–[00:00:49]). ⚠️ Al denominatore della (60) c'è **n**, non n - m: con n - m e senza la media si ha lo stimatore non distorto σ̂_ε² del Corollario (slide 10). Il quadrato è sullo scarto **dalla media** μ_ϵ. È la definizione chiesta dalla domanda 3 del test, dove la chiave della piattaforma è sbagliata (🚨).
-**Opzione:** σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
+**D:** ⚠️ Come è definita, nella Proposizione della slide 2 della lezione 25, la quantità $\sigma_{\epsilon^{OLS}}^2$, e con quale $\mu_\epsilon$?
+**R:** Slide 2, «Proposizione»: «La quantità $\sigma_{\epsilon^{OLS}}^2$ definita come: **$\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n}$** (60) con **$\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$** (61) è uno stimatore distorto della varianza dell'errore della regressione lineare». Il docente: la varianza dei residui «può essere definita come la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n dove la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:18]–[00:00:49]). ⚠️ Al denominatore della (60) c'è **$n$**, non $n - m$: con $n - m$ e senza la media si ha lo stimatore non distorto $\hat{\sigma}_\varepsilon^2$ del Corollario (slide 10). Il quadrato è sullo scarto **dalla media** $\mu_\epsilon$. È la definizione chiesta dalla domanda 3 del test, dove la chiave della piattaforma è sbagliata (🚨).
+**Opzione:** $\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n}$, con $\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$
 **Distrattori:**
-- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/(n - m), con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
-- A = B + (𝐱′𝐱)^(-1)𝐱′
+- $\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n - m}$, con $\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72); calcolando il valore atteso incondizionato, $E[\hat{\boldsymbol{\beta}}^{OLS}] = E[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = E[\boldsymbol{\beta}] = \boldsymbol{\beta}$
+- $A = B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
 
-**D:** ⚠️ Che tipo di stimatore della varianza dell'errore della regressione lineare è σ_{ϵ^{OLS}}², secondo la Proposizione della slide 2 della lezione 25?
-**R:** Slide 2: σ_{ϵ^{OLS}}² «è uno stimatore **distorto** della varianza dell'errore della regressione lineare, i.e.: **E(σ_{ϵ^{OLS}}²) ≠ σ_ε²**». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare, cioè a dire che il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]): la slide scrive σ_ε², la varianza dell'**errore**. ⚠️ **Non distorto** è σ̂_ε², con n - m al denominatore (Corollario, slide 10). La dimostrazione dà E(σ_{ϵ^{OLS}}²) = [(n - m)/n]σ_ε² (slide 9). Sono le domande 2 e 5 del test.
-**Opzione:** È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
+**D:** ⚠️ Che tipo di stimatore della varianza dell'errore della regressione lineare è $\sigma_{\epsilon^{OLS}}^2$, secondo la Proposizione della slide 2 della lezione 25?
+**R:** Slide 2: $\sigma_{\epsilon^{OLS}}^2$ «è uno stimatore **distorto** della varianza dell'errore della regressione lineare, i.e.: **$E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$**». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare, cioè a dire che il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]): la slide scrive $\sigma_\varepsilon^2$, la varianza dell'**errore**. ⚠️ **Non distorto** è $\hat{\sigma}_\varepsilon^2$, con $n - m$ al denominatore (Corollario, slide 10). La dimostrazione dà $E(\sigma_{\epsilon^{OLS}}^2) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$ (slide 9). Sono le domande 2 e 5 del test.
+**Opzione:** È uno stimatore distorto della varianza dell'errore della regressione lineare: $E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$
 **Distrattori:**
-- È uno stimatore non distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) = σ_ε²
-- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
-- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+- È uno stimatore non distorto della varianza dell'errore della regressione lineare: $E(\sigma_{\epsilon^{OLS}}^2) = \sigma_\varepsilon^2$
+- È uno stimatore lineare e corretto (non distorto) del vettore $\boldsymbol{\beta}$ dei coefficienti del modello di regressione lineare: $\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$, con $A$ matrice di ordine $m \times n$, e $E(\hat{\boldsymbol{\beta}}^{OLS}) = \boldsymbol{\beta}$
+- Che, per $\mathbf{x}$ fissato, lo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$ è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
 
-**D:** ⚠️ Perché, all'inizio della dimostrazione (slide 3 della lezione 25), μ_ϵ = 0, e come si riscrive allora la (60)?
-**R:** Slide 3: «Si osserva anzitutto che, essendo la **somma dei residui OLS pari a zero (cfr. equazione 47)**, anche la loro media campionaria è pari a zero, i.e.: ∑_{i=1}^n ϵ_i^{OLS}/n = 0 e quindi, per la 61: **μ_ϵ = 0** (62) Alla luce dell'uguaglianza precedente la 60 può essere riscritta come: **σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n**». Il docente: «se la somma dei residui è pari a zero, beh anche allora la media campionaria è pari a zero» (transcript [00:01:19]); la (60) si riscrive «proprio perché la media è nulla» ([00:01:44]). ⚠️ Il motivo è la somma nulla dei **residui** OLS, la (47) della lezione 24, non l'ipotesi sugli **errori** E(ε_i|x_i) = 0 dell'equazione 12.
-**Opzione:** Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
+**D:** ⚠️ Perché, all'inizio della dimostrazione (slide 3 della lezione 25), $\mu_\epsilon = 0$, e come si riscrive allora la (60)?
+**R:** Slide 3: «Si osserva anzitutto che, essendo la **somma dei residui OLS pari a zero (cfr. equazione 47)**, anche la loro media campionaria è pari a zero, i.e.: $\frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n} = 0$ e quindi, per la 61: **$\mu_\epsilon = 0$** (62) Alla luce dell'uguaglianza precedente la 60 può essere riscritta come: **$\sigma_{\epsilon^{OLS}}^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n}$**». Il docente: «se la somma dei residui è pari a zero, beh anche allora la media campionaria è pari a zero» (transcript [00:01:19]); la (60) si riscrive «proprio perché la media è nulla» ([00:01:44]). ⚠️ Il motivo è la somma nulla dei **residui** OLS, la (47) della lezione 24, non l'ipotesi sugli **errori** $E(\varepsilon_i\mid x_i) = 0$ dell'equazione 12.
+**Opzione:** Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: $\mu_\epsilon = 0$, e la 60 diventa $\sigma_{\epsilon^{OLS}}^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n}$
 **Distrattori:**
-- Perché il valore atteso degli errori della regressione condizionato a 𝐱 è nullo (equazione 12), quindi μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
-- Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
-- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+- Perché il valore atteso degli errori della regressione condizionato a $\mathbf{x}$ è nullo (equazione 12), quindi $\mu_\epsilon = 0$, e la 60 diventa $\sigma_{\epsilon^{OLS}}^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n}$
+- Perché, per ogni vettore colonna $v$ $m$-dimensionale, $z := B'v$ è tale che $z'z = (B'v)'B'v = v'BB'v$; e perché $\sigma_\varepsilon^2 > 0$
+- Ricordando che $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$, e semplificando, $(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
 
-**D:** ⚠️ Come si scrive σ_{ϵ^{OLS}}² in notazione matriciale, nell'equazione 63 della lezione 25?
-**R:** Slide 3: la (60) riscritta con μ_ϵ = 0, «che, espressa con notazione matriciale, diventa: **σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}** (63)». Il docente: «diventa 1 su n per i residui OLS trasposti moltiplicati per i residui OLS» (transcript [00:02:10]). ⚠️ Prima il vettore dei residui **trasposto**, poi il vettore: il prodotto riga per colonna è uno **scalare**, la somma dei quadrati dei residui. Nell'ordine inverso, 𝛜^{OLS}(𝛜^{OLS})′, sarebbe una matrice n × n (deduzione).
-**Opzione:** σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
+**D:** ⚠️ Come si scrive $\sigma_{\epsilon^{OLS}}^2$ in notazione matriciale, nell'equazione 63 della lezione 25?
+**R:** Slide 3: la (60) riscritta con $\mu_\epsilon = 0$, «che, espressa con notazione matriciale, diventa: **$\sigma_{\epsilon^{OLS}}^2 = \frac{1}{n}(\boldsymbol{\epsilon}^{OLS})'\boldsymbol{\epsilon}^{OLS}$** (63)». Il docente: «diventa 1 su n per i residui OLS trasposti moltiplicati per i residui OLS» (transcript [00:02:10]). ⚠️ Prima il vettore dei residui **trasposto**, poi il vettore: il prodotto riga per colonna è uno **scalare**, la somma dei quadrati dei residui. Nell'ordine inverso, $\boldsymbol{\epsilon}^{OLS}(\boldsymbol{\epsilon}^{OLS})'$, sarebbe una matrice $n \times n$ (deduzione).
+**Opzione:** $\sigma_{\epsilon^{OLS}}^2 = \frac{1}{n}(\boldsymbol{\epsilon}^{OLS})'\boldsymbol{\epsilon}^{OLS}$
 **Distrattori:**
-- σ_{ϵ^{OLS}}² = (1/n)𝛜^{OLS}(𝛜^{OLS})′
-- Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
-- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+- $\sigma_{\epsilon^{OLS}}^2 = \frac{1}{n}\boldsymbol{\epsilon}^{OLS}(\boldsymbol{\epsilon}^{OLS})'$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \sigma_\varepsilon^2BB' + \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$: la differenza fra le due è la matrice $\sigma_\varepsilon^2BB'$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$
 
-**D:** ⚠️ Quale matrice riconosce la slide 6 della lezione 25 in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e come diventa E(σ_{ϵ^{OLS}}²|𝐱)?
-**R:** Slide 5: esplicitando 𝐲 = 𝐱𝛃 + 𝛆, svolgendo i prodotti e semplificando, e «mettendo in evidenza 𝛆»: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆]′[(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝛆]|𝐱). Slide 6: «riconoscendo in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) la **matrice di generazione dei residui** di cui all'equazione 57: = (1/n)E([M𝛆]′M𝛆|𝐱)». Il docente: «Ora riconosciamo la matrice di generazione dei residui nella quantità data dalla matrice identità meno x che moltiplica l'inversa di x trasposto di x per x trasposto» (transcript [00:05:07]). ⚠️ È la M della (57) della lezione 24, non la matrice di proiezione P := 𝐱(𝐱′𝐱)^(-1)𝐱′ (52), che dà il fit.
-**Opzione:** La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
+**D:** ⚠️ Quale matrice riconosce la slide 6 della lezione 25 in $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, e come diventa $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})$?
+**R:** Slide 5: esplicitando $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$, svolgendo i prodotti e semplificando, e «mettendo in evidenza $\boldsymbol{\varepsilon}$»: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E([(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\boldsymbol{\varepsilon}]'[(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\boldsymbol{\varepsilon}]\mid\mathbf{x})$. Slide 6: «riconoscendo in $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$ la **matrice di generazione dei residui** di cui all'equazione 57: $= \frac{1}{n}E([M\boldsymbol{\varepsilon}]'M\boldsymbol{\varepsilon}\mid\mathbf{x})$». Il docente: «Ora riconosciamo la matrice di generazione dei residui nella quantità data dalla matrice identità meno x che moltiplica l'inversa di x trasposto di x per x trasposto» (transcript [00:05:07]). ⚠️ È la $M$ della (57) della lezione 24, non la matrice di proiezione $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ (52), che dà il fit.
+**Opzione:** La matrice di generazione dei residui $M$ dell'equazione 57: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E([M\boldsymbol{\varepsilon}]'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
 **Distrattori:**
-- La matrice di proiezione P dell'equazione 52: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([P𝛆]′P𝛆|𝐱)
-- A = B + (𝐱′𝐱)^(-1)𝐱′
-- E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+- La matrice di proiezione $P$ dell'equazione 52: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E([P\boldsymbol{\varepsilon}]'P\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- $A = B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
+- $E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
 
-**D:** ⚠️ Perché, nella slide 6 della lezione 25, (1/n)E(𝛆′M′M𝛆|𝐱) diventa (1/n)E(𝛆′M𝛆|𝐱), l'equazione 64?
-**R:** Slide 6: «per una nota proprietà della matrice trasposta: = (1/n)E(𝛆′M′M𝛆|𝐱) da cui, essendo **M una matrice simmetrica e idempotente**, segue: **E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)** (64)». Il docente: «essendo M una matrice simmetrica e idempotente potremo riscrivere pertanto il valore atteso» come 1 su n per il valore atteso di 𝛆′M𝛆 (transcript [00:05:40]–[00:05:59]). ⚠️ Simmetrica, M′ = M, e idempotente, MM = M: sono le (58) e (59) della lezione 24 (deduzione: la slide le richiama in una parola). Serve l'**idempotenza**, non l'invertibilità: M′M = MM = M. Una matrice idempotente diversa dall'identità non è invertibile (deduzione).
-**Opzione:** Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
+**D:** ⚠️ Perché, nella slide 6 della lezione 25, $\frac{1}{n}E(\boldsymbol{\varepsilon}'M'M\boldsymbol{\varepsilon}\mid\mathbf{x})$ diventa $\frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$, l'equazione 64?
+**R:** Slide 6: «per una nota proprietà della matrice trasposta: $= \frac{1}{n}E(\boldsymbol{\varepsilon}'M'M\boldsymbol{\varepsilon}\mid\mathbf{x})$ da cui, essendo **$M$ una matrice simmetrica e idempotente**, segue: **$E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$** (64)». Il docente: «essendo M una matrice simmetrica e idempotente potremo riscrivere pertanto il valore atteso» come 1 su n per il valore atteso di $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ (transcript [00:05:40]–[00:05:59]). ⚠️ Simmetrica, $M' = M$, e idempotente, $MM = M$: sono le (58) e (59) della lezione 24 (deduzione: la slide le richiama in una parola). Serve l'**idempotenza**, non l'invertibilità: $M'M = MM = M$. Una matrice idempotente diversa dall'identità non è invertibile (deduzione).
+**Opzione:** Perché $M$ è una matrice simmetrica e idempotente: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
 **Distrattori:**
-- Perché M è una matrice simmetrica e invertibile: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
-- B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
-- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+- Perché $M$ è una matrice simmetrica e invertibile: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- $B\mathbf{x} = 0$, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E\{[\hat{\boldsymbol{\beta}}^{OLS} - E(\hat{\boldsymbol{\beta}}^{OLS})]^2\mid\mathbf{x}\} = E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})'\mid\mathbf{x}\}$
 
-**D:** ⚠️ Perché la 64 della lezione 25 si può riscrivere con la traccia, e quale proprietà della traccia porta a (1/n)E(tr(M𝛆𝛆′)|𝐱) (slide 6–7)?
-**R:** Slide 6: «Si osserva ora che 𝛆′M𝛆 è uno **scalare** e pertanto coincide con la sua traccia». Slide 7: «E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(tr(𝛆′M𝛆)|𝐱) ossia, per la **proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche**: = (1/n)E(tr(M𝛆𝛆′)|𝐱)». Il docente: «è uno scalare e pertanto coincide con la sua traccia» (transcript [00:06:11]–[00:06:23]); «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche possiamo riscrivere la quantità come 1 su n per il valore atteso della traccia di m epsilon epsilon trasposto» ([00:06:24]–[00:06:42]). ⚠️ La **linearità** della traccia serve dopo, nella slide 8, per separare tr(𝐈_n - …) in tr(𝐈_n) - tr(…).
-**Opzione:** Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+**D:** ⚠️ Perché la 64 della lezione 25 si può riscrivere con la traccia, e quale proprietà della traccia porta a $\frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$ (slide 6–7)?
+**R:** Slide 6: «Si osserva ora che $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ è uno **scalare** e pertanto coincide con la sua traccia». Slide 7: «$E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\operatorname{tr}(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon})\mid\mathbf{x})$ ossia, per la **proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche**: $= \frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$». Il docente: «è uno scalare e pertanto coincide con la sua traccia» (transcript [00:06:11]–[00:06:23]); «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche possiamo riscrivere la quantità come 1 su n per il valore atteso della traccia di m epsilon epsilon trasposto» ([00:06:24]–[00:06:42]). ⚠️ La **linearità** della traccia serve dopo, nella slide 8, per separare $\operatorname{tr}(\mathbf{I}_n - \ldots)$ in $\operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\ldots)$.
+**Opzione:** Perché $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa $\frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$
 **Distrattori:**
-- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per la linearità della traccia diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
-- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
-- Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
+- Perché $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ è uno scalare e coincide con la sua traccia; per la linearità della traccia diventa $\frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$
+- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}) - E(\boldsymbol{\varepsilon}\mid\mathbf{x})E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \sigma_\varepsilon^2BB' + \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$: la differenza fra le due è la matrice $\sigma_\varepsilon^2BB'$
 
-**D:** ⚠️ Nella slide 7 della lezione 25, perché M può uscire dal valore atteso, e con quali ipotesi si arriva a (1/n)tr(Mσ_ε²𝐈_n)?
-**R:** Slide 7: «considerando che **condizionatamente a 𝐱 la matrice M è nota** e, quindi, può essere portata fuori dall'operatore valore atteso: = (1/n)tr(ME(𝛆𝛆′|𝐱)) richiamando le **ipotesi di cui alle equazioni 35 e 36**: = (1/n)tr(Mσ_ε²𝐈_n)». Il docente: «considerando che la matrice m è nota può essere portata fuori dal valore dell'operatore atteso» (transcript [00:06:42]); il valore atteso di 𝛆 per 𝛆 trasposto «altri non sono, che è la varianza dei residui per la matrice identità» ([00:07:10]), dove la slide ha σ_ε², la varianza dell'errore. ⚠️ Le (35) e (36) della lezione 24 sono l'**omoschedasticità** e la **non autocorrelazione** degli errori; l'esogeneità (12) serve invece per la non distorsione di 𝛃̂^{OLS} e per la (75).
-**Opzione:** Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
+**D:** ⚠️ Nella slide 7 della lezione 25, perché $M$ può uscire dal valore atteso, e con quali ipotesi si arriva a $\frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$?
+**R:** Slide 7: «considerando che **condizionatamente a $\mathbf{x}$ la matrice $M$ è nota** e, quindi, può essere portata fuori dall'operatore valore atteso: $= \frac{1}{n}\operatorname{tr}(ME(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}))$ richiamando le **ipotesi di cui alle equazioni 35 e 36**: $= \frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$». Il docente: «considerando che la matrice m è nota può essere portata fuori dal valore dell'operatore atteso» (transcript [00:06:42]); il valore atteso di $\boldsymbol{\varepsilon}$ per $\boldsymbol{\varepsilon}$ trasposto «altri non sono, che è la varianza dei residui per la matrice identità» ([00:07:10]), dove la slide ha $\sigma_\varepsilon^2$, la varianza dell'errore. ⚠️ Le (35) e (36) della lezione 24 sono l'**omoschedasticità** e la **non autocorrelazione** degli errori; l'esogeneità (12) serve invece per la non distorsione di $\hat{\boldsymbol{\beta}}^{OLS}$ e per la (75).
+**Opzione:** Perché condizionatamente a $\mathbf{x}$ la matrice $M$ è nota: $\frac{1}{n}\operatorname{tr}(ME(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}))$; richiamando le ipotesi delle equazioni 35 e 36, $= \frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$
 **Distrattori:**
-- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando l'ipotesi di esogeneità dell'equazione 12, = (1/n)tr(Mσ_ε²𝐈_n)
-- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+- Perché condizionatamente a $\mathbf{x}$ la matrice $M$ è nota: $\frac{1}{n}\operatorname{tr}(ME(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}))$; richiamando l'ipotesi di esogeneità dell'equazione 12, $= \frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$
+- Che $\hat{\boldsymbol{\beta}}^{\ast}$ sia non distorto, $E(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \boldsymbol{\beta}$ (76), e lineare, $\hat{\boldsymbol{\beta}}^{\ast} = A\mathbf{y}$ (77), con $A$ matrice di ordine $m \times n$; quindi $E(A\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$ (78)
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta} + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\mid\mathbf{x})$
 
-**D:** ⚠️ A che cosa è uguale E(σ_{ϵ^{OLS}}²|𝐱) nella (65) della lezione 25, e come si calcola la traccia di M nella slide 8?
-**R:** Slide 8: «e quindi si ha: **E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε²** (65) Stante la 57», tr(M) = tr(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′); «per la proprietà di linearità della traccia» = tr(𝐈_n) - tr(𝐱(𝐱′𝐱)^(-1)𝐱′); «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche» = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = **tr(𝐈_n) - tr(𝐈_m)**. Il docente: «la traccia di M diviso n per la varianza» (transcript [00:07:25]); «possiamo trasformare questa quantità all'interno della traccia con un'altra matrice identità di ordine m» ([00:08:16]). ⚠️ Prima l'identità di ordine **n**, poi quella di ordine **m**: (𝐱′𝐱)^(-1)𝐱′𝐱 è m × m (deduzione dalle dimensioni).
-**Opzione:** E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
+**D:** ⚠️ A che cosa è uguale $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})$ nella (65) della lezione 25, e come si calcola la traccia di $M$ nella slide 8?
+**R:** Slide 8: «e quindi si ha: **$E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$** (65) Stante la 57», $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$; «per la proprietà di linearità della traccia» $= \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$; «per la proprietà di invarianza della traccia del prodotto tra matrici alle permutazioni cicliche» $= \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}) =$ **$\operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{I}_m)$**. Il docente: «la traccia di M diviso n per la varianza» (transcript [00:07:25]); «possiamo trasformare questa quantità all'interno della traccia con un'altra matrice identità di ordine m» ([00:08:16]). ⚠️ Prima l'identità di ordine **$n$**, poi quella di ordine **$m$**: $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}$ è $m \times m$ (deduzione dalle dimensioni).
+**Opzione:** $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$, con $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{I}_m)$
 **Distrattori:**
-- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_m) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_m) - tr(𝐈_n)
-- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
-- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$, con $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_m) - \operatorname{tr}((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}) = \operatorname{tr}(\mathbf{I}_m) - \operatorname{tr}(\mathbf{I}_n)$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
+- Poiché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72), deve essere $E(B\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$ (81)
 
-**D:** ⚠️ Quanto vale, nella tesi della slide 9 della lezione 25, E(σ_{ϵ^{OLS}}²|𝐱), e quanto il valore atteso incondizionato?
-**R:** Slide 9, «Dimostrazione»: «e quindi: **E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε²** (66) Calcolando infine il valore atteso incondizionato di ambo i lati della 66 si ha: E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = E[((n - m)/n)σ_ε²] = **[(n - m)/n]σ_ε²** da cui segue la tesi». Il docente: «il valore atteso della varianza dei residui OLS altro non è che n-m su n per la varianza» (transcript [00:09:02]). ⚠️ Il fattore è **(n - m)/n**, minore di 1: σ_{ϵ^{OLS}}² è distorto (deduzione). Il fattore inverso, n/(n - m), è quello del Corollario, che lega σ̂_ε² a σ_{ϵ^{OLS}}².
-**Opzione:** E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
+**D:** ⚠️ Quanto vale, nella tesi della slide 9 della lezione 25, $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})$, e quanto il valore atteso incondizionato?
+**R:** Slide 9, «Dimostrazione»: «e quindi: **$E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$** (66) Calcolando infine il valore atteso incondizionato di ambo i lati della 66 si ha: $E[\sigma_{\epsilon^{OLS}}^2] = E[E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})] = E\left[\frac{n - m}{n}\sigma_\varepsilon^2\right] =$ **$\left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$** da cui segue la tesi». Il docente: «il valore atteso della varianza dei residui OLS altro non è che n-m su n per la varianza» (transcript [00:09:02]). ⚠️ Il fattore è **$\frac{n - m}{n}$**, minore di 1: $\sigma_{\epsilon^{OLS}}^2$ è distorto (deduzione). Il fattore inverso, $\frac{n}{n - m}$, è quello del Corollario, che lega $\hat{\sigma}_\varepsilon^2$ a $\sigma_{\epsilon^{OLS}}^2$.
+**Opzione:** $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$, e anche $E[\sigma_{\epsilon^{OLS}}^2] = E[E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})] = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$
 **Distrattori:**
-- E(σ_{ϵ^{OLS}}²|𝐱) = [n/(n - m)]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [n/(n - m)]σ_ε²
-- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{n}{n - m}\right]\sigma_\varepsilon^2$, e anche $E[\sigma_{\epsilon^{OLS}}^2] = E[E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})] = \left[\frac{n}{n - m}\right]\sigma_\varepsilon^2$
+- Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionata a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è semi-definita positiva
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta} + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\mid\mathbf{x})$
 
 **D:** ⚠️ Quale quantità è, per il Corollario della slide 10 della lezione 25, uno stimatore non distorto della varianza dell'errore della regressione lineare?
-**R:** Slide 10, «Corollario»: «La quantità σ̂_ε² definita come: **σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}²** (67) è uno stimatore **non distorto** della varianza dell'errore della regressione lineare, i.e.: **E(σ̂_ε²) = σ_ε²** (68)». Il docente: «la sommatoria dei residui OLS al quadrato diviso n-m, e quindi n su n meno m per la varianza dei residui OLS, diversamente da prima, questo è uno stimatore non distorto» (transcript [00:09:32]–[00:09:46]). ⚠️ Il fattore è **n/(n - m)**, l'inverso di quello della (66), e lo compensa: [n/(n - m)][(n - m)/n]σ_ε² = σ_ε² (deduzione).
-**Opzione:** σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
+**R:** Slide 10, «Corollario»: «La quantità $\hat{\sigma}_\varepsilon^2$ definita come: **$\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$** (67) è uno stimatore **non distorto** della varianza dell'errore della regressione lineare, i.e.: **$E(\hat{\sigma}_\varepsilon^2) = \sigma_\varepsilon^2$** (68)». Il docente: «la sommatoria dei residui OLS al quadrato diviso n-m, e quindi n su n meno m per la varianza dei residui OLS, diversamente da prima, questo è uno stimatore non distorto» (transcript [00:09:32]–[00:09:46]). ⚠️ Il fattore è **$\frac{n}{n - m}$**, l'inverso di quello della (66), e lo compensa: $\left[\frac{n}{n - m}\right]\left[\frac{n - m}{n}\right]\sigma_\varepsilon^2 = \sigma_\varepsilon^2$ (deduzione).
+**Opzione:** $\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$, con $E(\hat{\sigma}_\varepsilon^2) = \sigma_\varepsilon^2$
 **Distrattori:**
-- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [(n - m)/n]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
-- B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
+- $\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n - m}{n}\right]\sigma_{\epsilon^{OLS}}^2$, con $E(\hat{\sigma}_\varepsilon^2) = \sigma_\varepsilon^2$
+- $B\mathbf{x} = 0$, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72); calcolando il valore atteso incondizionato, $E[\hat{\boldsymbol{\beta}}^{OLS}] = E[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = E[\boldsymbol{\beta}] = \boldsymbol{\beta}$
 
 **D:** ⚠️ Che cos'è l'errore standard della regressione (standard error of the regression), secondo la Definizione della slide 10 della lezione 25?
-**R:** Slide 10, «Definizione»: «La **radice quadrata di σ̂_ε²** è detta **errore standard della regressione** (in inglese: *standard error of the regression*)». Il docente: «La radice quadrata della varianza cappello dei residui è detta errore standard della regressione, in inglese standard error of the regression» (transcript [00:10:08]). ⚠️ È la radice di **σ̂_ε²**, lo stimatore **non distorto** del Corollario, con n - m al denominatore; non la radice di σ_{ϵ^{OLS}}², che è distorto.
-**Opzione:** La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
+**R:** Slide 10, «Definizione»: «La **radice quadrata di $\hat{\sigma}_\varepsilon^2$** è detta **errore standard della regressione** (in inglese: *standard error of the regression*)». Il docente: «La radice quadrata della varianza cappello dei residui è detta errore standard della regressione, in inglese standard error of the regression» (transcript [00:10:08]). ⚠️ È la radice di **$\hat{\sigma}_\varepsilon^2$**, lo stimatore **non distorto** del Corollario, con $n - m$ al denominatore; non la radice di $\sigma_{\epsilon^{OLS}}^2$, che è distorto.
+**Opzione:** La radice quadrata di $\hat{\sigma}_\varepsilon^2$, lo stimatore non distorto della varianza dell'errore della regressione lineare
 **Distrattori:**
-- La radice quadrata di σ_{ϵ^{OLS}}², lo stimatore distorto della varianza dell'errore della regressione lineare
+- La radice quadrata di $\sigma_{\epsilon^{OLS}}^2$, lo stimatore distorto della varianza dell'errore della regressione lineare
 - Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
-- E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+- $E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
 
-**D:** Perché σ_{ϵ^{OLS}}², nella lezione 25, sottostima in media la varianza dell'errore della regressione, e da dove viene il fattore che lo misura?
-**R:** Perché E(σ_{ϵ^{OLS}}²) = [(n - m)/n]σ_ε² (slide 9, (66)), e (n - m)/n è minore di 1 (deduzione: la slide dice solo «distorto»). Il fattore viene dalla **traccia** della matrice di generazione dei residui: E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε² (65), e tr(M) = tr(𝐈_n) - tr(𝐈_m) (slide 8), cioè n - m, perché la traccia di un'identità è il suo ordine (deduzione). Il docente: «altro non è la matrice identità che è n meno m su n per la varianza» (transcript [00:08:45]). Dividendo per n - m invece che per n si ottiene lo stimatore non distorto σ̂_ε² (67)–(68) (slide 10). ℹ️ Integrazione (non dai materiali del corso): poiché (n - m)/n tende a 1, σ_{ϵ^{OLS}}² è asintoticamente corretto nel senso della lezione 02.
+**D:** Perché $\sigma_{\epsilon^{OLS}}^2$, nella lezione 25, sottostima in media la varianza dell'errore della regressione, e da dove viene il fattore che lo misura?
+**R:** Perché $E(\sigma_{\epsilon^{OLS}}^2) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$ (slide 9, (66)), e $\frac{n - m}{n}$ è minore di 1 (deduzione: la slide dice solo «distorto»). Il fattore viene dalla **traccia** della matrice di generazione dei residui: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$ (65), e $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{I}_m)$ (slide 8), cioè $n - m$, perché la traccia di un'identità è il suo ordine (deduzione). Il docente: «altro non è la matrice identità che è n meno m su n per la varianza» (transcript [00:08:45]). Dividendo per $n - m$ invece che per $n$ si ottiene lo stimatore non distorto $\hat{\sigma}_\varepsilon^2$ (67)–(68) (slide 10). ℹ️ Integrazione (non dai materiali del corso): poiché $\frac{n - m}{n}$ tende a 1, $\sigma_{\epsilon^{OLS}}^2$ è asintoticamente corretto nel senso della lezione 02.
 
-**D:** ⚠️ Che cosa afferma la Proposizione della slide 11 della lezione 25 sullo stimatore dei minimi quadrati 𝛃̂^{OLS}?
-**R:** Slide 11, «Proposizione»: «Lo stimatore dei minimi quadrati 𝛃̂^{OLS} è uno stimatore **lineare e corretto (non distorto)** dei vettore 𝛃 dei coefficienti del modello di regressione lineare di cui alla 34, i.e.: **𝛃̂^{OLS} = A𝐲** (69) con A matrice di ordine **m × n**, e: **E(𝛃̂^{OLS}) = 𝛃** (70)» («dei vettore», sic). Il docente: «questo vuol dire che» 𝛃̂^{OLS} «è uguale ad A per y con A matrice di ordine m per n e soprattutto che il valore atteso del beta cappello OLS è uguale a beta» (transcript [00:10:25]–[00:10:49]). ⚠️ A è **m × n**: moltiplica 𝐲, n × 1, e dà un vettore m × 1, quanti sono i coefficienti (deduzione). Lineare è la (69), corretto la (70).
-**Opzione:** È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 11 della lezione 25 sullo stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$?
+**R:** Slide 11, «Proposizione»: «Lo stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$ è uno stimatore **lineare e corretto (non distorto)** dei vettore $\boldsymbol{\beta}$ dei coefficienti del modello di regressione lineare di cui alla 34, i.e.: **$\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$** (69) con $A$ matrice di ordine **$m \times n$**, e: **$E(\hat{\boldsymbol{\beta}}^{OLS}) = \boldsymbol{\beta}$** (70)» («dei vettore», sic). Il docente: «questo vuol dire che» $\hat{\boldsymbol{\beta}}^{OLS}$ «è uguale ad A per y con A matrice di ordine m per n e soprattutto che il valore atteso del beta cappello OLS è uguale a beta» (transcript [00:10:25]–[00:10:49]). ⚠️ $A$ è **$m \times n$**: moltiplica $\mathbf{y}$, $n \times 1$, e dà un vettore $m \times 1$, quanti sono i coefficienti (deduzione). Lineare è la (69), corretto la (70).
+**Opzione:** È uno stimatore lineare e corretto (non distorto) del vettore $\boldsymbol{\beta}$ dei coefficienti del modello di regressione lineare: $\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$, con $A$ matrice di ordine $m \times n$, e $E(\hat{\boldsymbol{\beta}}^{OLS}) = \boldsymbol{\beta}$
 **Distrattori:**
-- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine n × m, e E(𝛃̂^{OLS}) = 𝛃
-- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
-- È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
+- È uno stimatore lineare e corretto (non distorto) del vettore $\boldsymbol{\beta}$ dei coefficienti del modello di regressione lineare: $\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$, con $A$ matrice di ordine $n \times m$, e $E(\hat{\boldsymbol{\beta}}^{OLS}) = \boldsymbol{\beta}$
+- $\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$, con $E(\hat{\sigma}_\varepsilon^2) = \sigma_\varepsilon^2$
+- È uno stimatore distorto della varianza dell'errore della regressione lineare: $E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$
 
-**D:** Da dove segue, nella slide 12 della lezione 25, la linearità di 𝛃̂^{OLS}, e che cosa c'è di strano nella matrice A che la slide scrive?
-**R:** Slide 12: «La linearità di 𝛃̂^{OLS}, data la definizione di stimatore lineare, segue direttamente dall'espressione 40 ponendo: **A := (𝐱′𝐱)^(-1)𝐱′𝐲**». Il docente legge allo stesso modo: «definito A come l'inversa di x trasposto x per x trasposto y è bella che dimostrata» (transcript [00:11:05]). ⚠️ Con 𝐲 dentro, A è già il vettore 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲 (40), e non una matrice m × n che moltiplica 𝐲 come vuole la (69) (sic). ℹ️ Integrazione (non dai materiali del corso): perché valga 𝛃̂^{OLS} = A𝐲, A è (𝐱′𝐱)^(-1)𝐱′; è anche la A della (79) della slide 20, A = B + (𝐱′𝐱)^(-1)𝐱′, con B = 0.
+**D:** Da dove segue, nella slide 12 della lezione 25, la linearità di $\hat{\boldsymbol{\beta}}^{OLS}$, e che cosa c'è di strano nella matrice $A$ che la slide scrive?
+**R:** Slide 12: «La linearità di $\hat{\boldsymbol{\beta}}^{OLS}$, data la definizione di stimatore lineare, segue direttamente dall'espressione 40 ponendo: **$A := (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$**». Il docente legge allo stesso modo: «definito A come l'inversa di x trasposto x per x trasposto y è bella che dimostrata» (transcript [00:11:05]). ⚠️ Con $\mathbf{y}$ dentro, $A$ è già il vettore $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ (40), e non una matrice $m \times n$ che moltiplica $\mathbf{y}$ come vuole la (69) (sic). ℹ️ Integrazione (non dai materiali del corso): perché valga $\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$, $A$ è $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$; è anche la $A$ della (79) della slide 20, $A = B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, con $B = 0$.
 
-**D:** ⚠️ A che cosa arriva la slide 13 della lezione 25 per E(𝛃̂^{OLS}|𝐱), portando fuori dal valore atteso (𝐱′𝐱)^(-1)𝐱′ (equazione 71)?
-**R:** Slide 12–13: E(𝛃̂^{OLS}|𝐱) = E((𝐱′𝐱)^(-1)𝐱′𝐲|𝐱) = E((𝐱′𝐱)^(-1)𝐱′(𝐱𝛃 + 𝛆)|𝐱) = E(𝛃 + (𝐱′𝐱)^(-1)𝐱′𝛆|𝐱) = 𝛃 + E((𝐱′𝐱)^(-1)𝐱′𝛆|𝐱); «poiché condizionatamente a 𝐱, (𝐱′𝐱)^(-1)𝐱′ è noto, esso può essere portato fuori dall'operatore valore atteso condizionato ottenendo: **E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)** (71)». Il docente: «Poiché condizionatamente alla matrice dei regressori l'inversa di x trasposto x per x trasposto è noto, può essere portato fuori dall'operatore valore atteso» (transcript [00:12:32]–[00:12:38]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ sta **a sinistra** di E(𝛆|𝐱); 𝐱(𝐱′𝐱)^(-1) è il fattore di destra della (74).
-**Opzione:** E(𝛃̂^{OLS}|𝐱) = 𝛃 + (𝐱′𝐱)^(-1)𝐱′E(𝛆|𝐱)
+**D:** ⚠️ A che cosa arriva la slide 13 della lezione 25 per $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$, portando fuori dal valore atteso $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ (equazione 71)?
+**R:** Slide 12–13: $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}\mid\mathbf{x}) = E((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'(\mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon})\mid\mathbf{x}) = E(\boldsymbol{\beta} + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\boldsymbol{\varepsilon}\mid\mathbf{x}) = \boldsymbol{\beta} + E((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\boldsymbol{\varepsilon}\mid\mathbf{x})$; «poiché condizionatamente a $\mathbf{x}$, $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ è noto, esso può essere portato fuori dall'operatore valore atteso condizionato ottenendo: **$E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta} + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\mid\mathbf{x})$** (71)». Il docente: «Poiché condizionatamente alla matrice dei regressori l'inversa di x trasposto x per x trasposto è noto, può essere portato fuori dall'operatore valore atteso» (transcript [00:12:32]–[00:12:38]). ⚠️ $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ sta **a sinistra** di $E(\boldsymbol{\varepsilon}\mid\mathbf{x})$; $\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$ è il fattore di destra della (74).
+**Opzione:** $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta} + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\mid\mathbf{x})$
 **Distrattori:**
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 + 𝐱(𝐱′𝐱)^(-1)E(𝛆|𝐱)
-- Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
-- σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta} + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}E(\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- Perché $M$ è una matrice simmetrica e idempotente: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- $\sigma_{\epsilon^{OLS}}^2 = \frac{1}{n}(\boldsymbol{\epsilon}^{OLS})'\boldsymbol{\epsilon}^{OLS}$
 
 **D:** ⚠️ Quale uguaglianza vale, nella slide 13 della lezione 25, estendendo al caso multidimensionale l'ipotesi di esogeneità dell'equazione 12?
-**R:** Slide 13: «Estendendo al caso multidimensionale l'**ipotesi di esogeneità** di cui all'equazione 12, vale la seguente uguaglianza: **E(𝛆|𝐱) = 𝟎**». L'equazione 12 è la seconda assunzione della lezione 23: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente x è nullo», E(ε_i|x_i) = 0. Sostituita nella (71), dà E(𝛃̂^{OLS}|𝐱) = 𝛃 (72) (slide 14). Il docente: «tenuto conto che il valore atteso dei residui condizionato a x è uguale a zero» (transcript [00:12:55]), con «residui» dove la slide ha gli errori. ⚠️ Si condizionano gli **errori** a **𝐱**, non il contrario.
-**Opzione:** E(𝛆|𝐱) = 𝟎: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
+**R:** Slide 13: «Estendendo al caso multidimensionale l'**ipotesi di esogeneità** di cui all'equazione 12, vale la seguente uguaglianza: **$E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$**». L'equazione 12 è la seconda assunzione della lezione 23: «Il valore atteso degli errori della regressione condizionato al valore della variabile indipendente $x$ è nullo», $E(\varepsilon_i\mid x_i) = 0$. Sostituita nella (71), dà $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72) (slide 14). Il docente: «tenuto conto che il valore atteso dei residui condizionato a x è uguale a zero» (transcript [00:12:55]), con «residui» dove la slide ha gli errori. ⚠️ Si condizionano gli **errori** a **$\mathbf{x}$**, non il contrario.
+**Opzione:** $E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$: il valore atteso degli errori della regressione condizionato alla variabile indipendente è nullo
 **Distrattori:**
-- E(𝐱|𝛆) = 𝟎: il valore atteso della variabile indipendente condizionato agli errori della regressione è nullo
-- E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
-- La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
+- $E(\mathbf{x}\mid\boldsymbol{\varepsilon}) = \mathbf{0}$: il valore atteso della variabile indipendente condizionato agli errori della regressione è nullo
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$, e anche $E[\sigma_{\epsilon^{OLS}}^2] = E[E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})] = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$
+- La radice quadrata di $\hat{\sigma}_\varepsilon^2$, lo stimatore non distorto della varianza dell'errore della regressione lineare
 
-**D:** ⚠️ Come conclude la slide 14 della lezione 25 la tesi di non distorsione di 𝛃̂^{OLS}?
-**R:** Slide 14, «Dimostrazione»: «da cui, sostituendo all'interno del lato destro della 71, si ha: **E(𝛃̂^{OLS}|𝐱) = 𝛃** (72) Calcolando il valore atteso incondizionato di 𝛃̂^{OLS}, segue la tesi: **E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃** c.v.d.». Il docente: «applicando il valore atteso condizionato ci possiamo disfare dell'elemento di condizionamento del valore atteso e otteniamo quello che cercavamo, cioè che si tratta di uno stimatore corretto» (transcript [00:13:03]). ⚠️ Prima la non distorsione **condizionata** (72), poi quella **incondizionata** (70), con il valore atteso del valore atteso condizionato: è lo stesso passaggio della slide 9 per σ_{ϵ^{OLS}}².
-**Opzione:** E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝛃
+**D:** ⚠️ Come conclude la slide 14 della lezione 25 la tesi di non distorsione di $\hat{\boldsymbol{\beta}}^{OLS}$?
+**R:** Slide 14, «Dimostrazione»: «da cui, sostituendo all'interno del lato destro della 71, si ha: **$E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$** (72) Calcolando il valore atteso incondizionato di $\hat{\boldsymbol{\beta}}^{OLS}$, segue la tesi: **$E[\hat{\boldsymbol{\beta}}^{OLS}] = E[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = E[\boldsymbol{\beta}] = \boldsymbol{\beta}$** c.v.d.». Il docente: «applicando il valore atteso condizionato ci possiamo disfare dell'elemento di condizionamento del valore atteso e otteniamo quello che cercavamo, cioè che si tratta di uno stimatore corretto» (transcript [00:13:03]). ⚠️ Prima la non distorsione **condizionata** (72), poi quella **incondizionata** (70), con il valore atteso del valore atteso condizionato: è lo stesso passaggio della slide 9 per $\sigma_{\epsilon^{OLS}}^2$.
+**Opzione:** $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72); calcolando il valore atteso incondizionato, $E[\hat{\boldsymbol{\beta}}^{OLS}] = E[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = E[\boldsymbol{\beta}] = \boldsymbol{\beta}$
 **Distrattori:**
-- E(𝛃̂^{OLS}|𝐱) = 𝛃 (72); calcolando il valore atteso incondizionato, E[𝛃̂^{OLS}] = E[E(𝛃̂^{OLS}|𝐱)] = E[𝛃] = 𝟎
-- La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
-- Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+- $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72); calcolando il valore atteso incondizionato, $E[\hat{\boldsymbol{\beta}}^{OLS}] = E[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = E[\boldsymbol{\beta}] = \mathbf{0}$
+- La matrice di generazione dei residui $M$ dell'equazione 57: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E([M\boldsymbol{\varepsilon}]'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- Perché, per ogni vettore colonna $v$ $m$-dimensionale, $z := B'v$ è tale che $z'z = (B'v)'B'v = v'BB'v$; e perché $\sigma_\varepsilon^2 > 0$
 
-**D:** ⚠️ A che cosa è pari, nella Proposizione della slide 15 della lezione 25, la matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱?
-**R:** Slide 15, «Proposizione»: «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱 è pari a: **Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²** (73)». Il docente: «la matrice varianza-covarianza dello stimatore dei minimi quadrati di beta condizionata a x è pari all'inversa di x trasposto x per la varianza dei residui» (transcript [00:13:27]); la slide ha σ_ε², la varianza dell'**errore**, non σ_{ϵ^{OLS}}². ⚠️ Tre pezzi: l'**inversa** di 𝐱′𝐱, σ_ε², il **condizionamento** a 𝐱. È la domanda 1 del test.
-**Opzione:** Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
+**D:** ⚠️ A che cosa è pari, nella Proposizione della slide 15 della lezione 25, la matrice varianze-covarianze dello stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$?
+**R:** Slide 15, «Proposizione»: «La matrice varianze-covarianze dello stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è pari a: **$\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$** (73)». Il docente: «la matrice varianza-covarianza dello stimatore dei minimi quadrati di beta condizionata a x è pari all'inversa di x trasposto x per la varianza dei residui» (transcript [00:13:27]); la slide ha $\sigma_\varepsilon^2$, la varianza dell'**errore**, non $\sigma_{\epsilon^{OLS}}^2$. ⚠️ Tre pezzi: l'**inversa** di $\mathbf{x}'\mathbf{x}$, $\sigma_\varepsilon^2$, il **condizionamento** a $\mathbf{x}$. È la domanda 1 del test.
+**Opzione:** $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
 **Distrattori:**
-- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²
-- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
-- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_{\epsilon^{OLS}}^2$
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$, con $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{I}_m)$
+- Perché $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa $\frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$
 
-**D:** ⚠️ Da quale espressione di Var(𝛃̂^{OLS}|𝐱) parte la dimostrazione della slide 15 della lezione 25, usando la non distorsione di 𝛃̂^{OLS}?
-**R:** Slide 15, «Dimostrazione (continua)»: «Per la definizione di varianza si ha: Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} ossia, essendo 𝛃̂^{OLS} uno stimatore non distorto: = E{(𝛃̂^{OLS} - 𝛃)²|𝐱} ossia: = **E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}**». Il docente: «Aprendo questo quadrato in termini matriciali diventa lo stimatore dei minimi quadrati meno beta per lo stimatore dei minimi quadrati meno beta trasposto» (transcript [00:14:22]). ⚠️ Il trasposto sta **a destra**: il «quadrato» di un vettore m × 1 è qui una matrice m × m; con il trasposto a sinistra sarebbe uno scalare (deduzione dalle dimensioni).
-**Opzione:** Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+**D:** ⚠️ Da quale espressione di $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$ parte la dimostrazione della slide 15 della lezione 25, usando la non distorsione di $\hat{\boldsymbol{\beta}}^{OLS}$?
+**R:** Slide 15, «Dimostrazione (continua)»: «Per la definizione di varianza si ha: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E\{[\hat{\boldsymbol{\beta}}^{OLS} - E(\hat{\boldsymbol{\beta}}^{OLS})]^2\mid\mathbf{x}\}$ ossia, essendo $\hat{\boldsymbol{\beta}}^{OLS}$ uno stimatore non distorto: $= E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})^2\mid\mathbf{x}\}$ ossia: $=$ **$E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})'\mid\mathbf{x}\}$**». Il docente: «Aprendo questo quadrato in termini matriciali diventa lo stimatore dei minimi quadrati meno beta per lo stimatore dei minimi quadrati meno beta trasposto» (transcript [00:14:22]). ⚠️ Il trasposto sta **a destra**: il «quadrato» di un vettore $m \times 1$ è qui una matrice $m \times m$; con il trasposto a sinistra sarebbe uno scalare (deduzione dalle dimensioni).
+**Opzione:** $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E\{[\hat{\boldsymbol{\beta}}^{OLS} - E(\hat{\boldsymbol{\beta}}^{OLS})]^2\mid\mathbf{x}\} = E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})'\mid\mathbf{x}\}$
 **Distrattori:**
-- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)′(𝛃̂^{OLS} - 𝛃)|𝐱}
-- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
-- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E\{[\hat{\boldsymbol{\beta}}^{OLS} - E(\hat{\boldsymbol{\beta}}^{OLS})]^2\mid\mathbf{x}\} = E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})'(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})\mid\mathbf{x}\}$
+- $\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n}$, con $\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$
+- Che $\hat{\boldsymbol{\beta}}^{\ast}$ sia non distorto, $E(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \boldsymbol{\beta}$ (76), e lineare, $\hat{\boldsymbol{\beta}}^{\ast} = A\mathbf{y}$ (77), con $A$ matrice di ordine $m \times n$; quindi $E(A\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$ (78)
 
-**D:** ⚠️ Quale espressione di Var(𝛃̂^{OLS}|𝐱) ottiene la slide 18 della lezione 25, portando fuori dal valore atteso le quantità note condizionatamente a 𝐱 (equazione 74)?
-**R:** Slide 17: «poichè condizionatamente a 𝐱 le quantità (𝐱′𝐱)^(-1)𝐱 e 𝐱(𝐱′𝐱)^(-1) sono note, esse possono essere portate fuori dall'operatore valore atteso condizionato» (la prima senza apice, sic). Slide 18: «**Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)** (74)». Il docente: la varianza «non è altro che l'inversa di x trasposto x per x trasposto per il valore atteso dei residui per i residui trasposti condizionati a x per x per l'inversa di x trasposto x» (transcript [00:16:40]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ **a sinistra**, 𝐱(𝐱′𝐱)^(-1) **a destra**, e in mezzo E(𝛆𝛆′|𝐱).
-**Opzione:** Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+**D:** ⚠️ Quale espressione di $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$ ottiene la slide 18 della lezione 25, portando fuori dal valore atteso le quantità note condizionatamente a $\mathbf{x}$ (equazione 74)?
+**R:** Slide 17: «poichè condizionatamente a $\mathbf{x}$ le quantità $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}$ e $\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$ sono note, esse possono essere portate fuori dall'operatore valore atteso condizionato» (la prima senza apice, sic). Slide 18: «**$\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$** (74)». Il docente: la varianza «non è altro che l'inversa di x trasposto x per x trasposto per il valore atteso dei residui per i residui trasposti condizionati a x per x per l'inversa di x trasposto x» (transcript [00:16:40]). ⚠️ $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ **a sinistra**, $\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$ **a destra**, e in mezzo $E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$.
+**Opzione:** $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$
 **Distrattori:**
-- Var(𝛃̂^{OLS}|𝐱) = 𝐱(𝐱′𝐱)^(-1)E(𝛆𝛆′|𝐱)(𝐱′𝐱)^(-1)𝐱′
-- La matrice di generazione dei residui M dell'equazione 57: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E([M𝛆]′M𝛆|𝐱)
-- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
+- La matrice di generazione dei residui $M$ dell'equazione 57: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E([M\boldsymbol{\varepsilon}]'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- Poiché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72), deve essere $E(B\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$ (81)
 
-**D:** ⚠️ Perché, nella (75) della slide 18 della lezione 25, Var(𝛆|𝐱) coincide con E(𝛆𝛆′|𝐱)?
-**R:** Slide 18: «A questo punto è utile ricordare che una delle assunzioni del modello lineare è che il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12). Pertanto si ha: **Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)** (75)» (il secondo prodotto senza apice, sic). Il docente: «possiamo ricordare una delle assunzioni del modello lineare cioè che il valore atteso degli errori della regressione condizionata al valore della variabile indipendente è nullo» (transcript [00:16:58]). ⚠️ È l'**esogeneità** a cancellare il secondo termine; l'**omoschedasticità** (35) e la non autocorrelazione (36) danno poi Var(𝛆|𝐱) = σ_ε²𝐈_n.
-**Opzione:** Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+**D:** ⚠️ Perché, nella (75) della slide 18 della lezione 25, $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x})$ coincide con $E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$?
+**R:** Slide 18: «A questo punto è utile ricordare che una delle assunzioni del modello lineare è che il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12). Pertanto si ha: **$\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}) - E(\boldsymbol{\varepsilon}\mid\mathbf{x})E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$** (75)» (il secondo prodotto senza apice, sic). Il docente: «possiamo ricordare una delle assunzioni del modello lineare cioè che il valore atteso degli errori della regressione condizionata al valore della variabile indipendente è nullo» (transcript [00:16:58]). ⚠️ È l'**esogeneità** a cancellare il secondo termine; l'**omoschedasticità** (35) e la non autocorrelazione (36) danno poi $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$.
+**Opzione:** Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}) - E(\boldsymbol{\varepsilon}\mid\mathbf{x})E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$
 **Distrattori:**
-- Perché gli errori della regressione hanno tutti la stessa varianza (omoschedasticità): Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
-- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
+- Perché gli errori della regressione hanno tutti la stessa varianza (omoschedasticità): $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}) - E(\boldsymbol{\varepsilon}\mid\mathbf{x})E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$
+- Perché condizionatamente a $\mathbf{x}$ la matrice $M$ è nota: $\frac{1}{n}\operatorname{tr}(ME(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}))$; richiamando le ipotesi delle equazioni 35 e 36, $= \frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$
 - Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
 
 **D:** ⚠️ Come si arriva alla tesi (73) alla fine della slide 18 della lezione 25?
-**R:** Slide 18: «Ne discende che l'equazione 74 può essere riscritta come: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′Var(𝛆|𝐱)𝐱(𝐱′𝐱)^(-1) ossia, ricordando che **Var(𝛆|𝐱) = σ_ε²𝐈_n**: = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε² semplificando segue la tesi», (𝐱′𝐱)^(-1)σ_ε². Il docente: «ricordando che la varianza dei residui su x non è altro che la varianza dei residui per la matrice identità otteniamo la tesi» (transcript [00:17:28]–[00:17:52]). ⚠️ L'identità è di ordine **n**, come 𝛆, che è n × 1; si semplifica 𝐱′𝐱(𝐱′𝐱)^(-1), che dà l'identità di ordine m (deduzione).
-**Opzione:** Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+**R:** Slide 18: «Ne discende che l'equazione 74 può essere riscritta come: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x})\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$ ossia, ricordando che **$\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$**: $= (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$ semplificando segue la tesi», $(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$. Il docente: «ricordando che la varianza dei residui su x non è altro che la varianza dei residui per la matrice identità otteniamo la tesi» (transcript [00:17:28]–[00:17:52]). ⚠️ L'identità è di ordine **$n$**, come $\boldsymbol{\varepsilon}$, che è $n \times 1$; si semplifica $\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$, che dà l'identità di ordine $m$ (deduzione).
+**Opzione:** Ricordando che $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$, e semplificando, $(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
 **Distrattori:**
-- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_m: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
-- Perché 𝛆′M𝛆 è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa (1/n)E(tr(M𝛆𝛆′)|𝐱)
-- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+- Ricordando che $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_m$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$, e semplificando, $(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
+- Perché $\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}$ è uno scalare e coincide con la sua traccia; per l'invarianza della traccia alle permutazioni cicliche diventa $\frac{1}{n}E(\operatorname{tr}(M\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}')\mid\mathbf{x})$
+- Che, per $\mathbf{x}$ fissato, lo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$ è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
 
 **D:** ⚠️ Che cosa afferma il Teorema di Gauss-Markov 1 della slide 19 della lezione 25?
-**R:** Slide 19, «Teorema»: «**Teorema di Gauss-Markov 1** Sia 𝛃̂∗ uno stimatore **lineare non distorto** per il vettore dei parametri 𝛃 **diverso** dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} anch'essa condizionata a 𝐱 è una **matrice semi-definita positiva**». Il docente: «sia beta star uno stimatore lineare non distorto per il vettore dei parametri beta, diverso dallo stimatore beta dei minimi quadrati. Allora la differenza tra la matrice varianza covarianza del stimatore beta star condizionato a x e quella dello stimatore dei minimi quadrati anch'essa condizionata a x è una matrice semidefinita positiva» (transcript [00:18:17]–[00:18:32]). ⚠️ La differenza è **𝛃̂∗ meno 𝛃̂^{OLS}**, ed è semi-definita **positiva**, non negativa: è il senso in cui, per la Nota della slide 28, 𝛃̂^{OLS} è il più efficiente fra gli stimatori lineari e non distorti.
-**Opzione:** Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
+**R:** Slide 19, «Teorema»: «**Teorema di Gauss-Markov 1** Sia $\hat{\boldsymbol{\beta}}^{\ast}$ uno stimatore **lineare non distorto** per il vettore dei parametri $\boldsymbol{\beta}$ **diverso** dallo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$. Allora la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionata a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ anch'essa condizionata a $\mathbf{x}$ è una **matrice semi-definita positiva**». Il docente: «sia beta star uno stimatore lineare non distorto per il vettore dei parametri beta, diverso dallo stimatore beta dei minimi quadrati. Allora la differenza tra la matrice varianza covarianza del stimatore beta star condizionato a x e quella dello stimatore dei minimi quadrati anch'essa condizionata a x è una matrice semidefinita positiva» (transcript [00:18:17]–[00:18:32]). ⚠️ La differenza è **$\hat{\boldsymbol{\beta}}^{\ast}$ meno $\hat{\boldsymbol{\beta}}^{OLS}$**, ed è semi-definita **positiva**, non negativa: è il senso in cui, per la Nota della slide 28, $\hat{\boldsymbol{\beta}}^{OLS}$ è il più efficiente fra gli stimatori lineari e non distorti.
+**Opzione:** Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionata a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è semi-definita positiva
 **Distrattori:**
-- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita negativa
-- È uno stimatore distorto della varianza dell'errore della regressione lineare: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²
-- È uno stimatore lineare e corretto (non distorto) del vettore 𝛃 dei coefficienti del modello di regressione lineare: 𝛃̂^{OLS} = A𝐲, con A matrice di ordine m × n, e E(𝛃̂^{OLS}) = 𝛃
+- Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionata a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è semi-definita negativa
+- È uno stimatore distorto della varianza dell'errore della regressione lineare: $E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$
+- È uno stimatore lineare e corretto (non distorto) del vettore $\boldsymbol{\beta}$ dei coefficienti del modello di regressione lineare: $\hat{\boldsymbol{\beta}}^{OLS} = A\mathbf{y}$, con $A$ matrice di ordine $m \times n$, e $E(\hat{\boldsymbol{\beta}}^{OLS}) = \boldsymbol{\beta}$
 
-**D:** ⚠️ Quali due ipotesi su 𝛃̂∗ usa la dimostrazione del Teorema di Gauss-Markov nella slide 19 della lezione 25, e come si scrivono?
-**R:** Slide 19, «Dimostrazione (continua)»: «Poichè per ipotesi 𝛃̂∗ è uno stimatore **non distorto** per il vettore dei parametri 𝛃, si ha: **E(𝛃̂∗|𝐱) = 𝛃** (76) Inoltre, essendo per ipotesi 𝛃̂∗ anche uno stimatore **lineare**, si ha: **𝛃̂∗ = A𝐲** (77) dove A è una matrice di ordine m × n, il che permette di riesprimere la 76 come: **E(A𝐲|𝐱) = 𝛃** (78)». Il docente: «Per ipotesi beta star, lo stimatore beta star è non distorto»; «Poiché beta star è uno stimatore lineare, beta star è uguale ad a per y, dove a è una matrice di ordine m per n» (transcript [00:18:49]–[00:18:59]). ⚠️ La non distorsione è la (76), la linearità la (77); messe insieme danno la (78), che vale **𝛃**, non il vettore nullo: 𝟎 è il valore della (81), E(B𝐲|𝐱) = 𝟎.
-**Opzione:** Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝛃 (78)
+**D:** ⚠️ Quali due ipotesi su $\hat{\boldsymbol{\beta}}^{\ast}$ usa la dimostrazione del Teorema di Gauss-Markov nella slide 19 della lezione 25, e come si scrivono?
+**R:** Slide 19, «Dimostrazione (continua)»: «Poichè per ipotesi $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore **non distorto** per il vettore dei parametri $\boldsymbol{\beta}$, si ha: **$E(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \boldsymbol{\beta}$** (76) Inoltre, essendo per ipotesi $\hat{\boldsymbol{\beta}}^{\ast}$ anche uno stimatore **lineare**, si ha: **$\hat{\boldsymbol{\beta}}^{\ast} = A\mathbf{y}$** (77) dove $A$ è una matrice di ordine $m \times n$, il che permette di riesprimere la 76 come: **$E(A\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$** (78)». Il docente: «Per ipotesi beta star, lo stimatore beta star è non distorto»; «Poiché beta star è uno stimatore lineare, beta star è uguale ad a per y, dove a è una matrice di ordine m per n» (transcript [00:18:49]–[00:18:59]). ⚠️ La non distorsione è la (76), la linearità la (77); messe insieme danno la (78), che vale **$\boldsymbol{\beta}$**, non il vettore nullo: $\mathbf{0}$ è il valore della (81), $E(B\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$.
+**Opzione:** Che $\hat{\boldsymbol{\beta}}^{\ast}$ sia non distorto, $E(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \boldsymbol{\beta}$ (76), e lineare, $\hat{\boldsymbol{\beta}}^{\ast} = A\mathbf{y}$ (77), con $A$ matrice di ordine $m \times n$; quindi $E(A\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$ (78)
 **Distrattori:**
-- Che 𝛃̂∗ sia non distorto, E(𝛃̂∗|𝐱) = 𝛃 (76), e lineare, 𝛃̂∗ = A𝐲 (77), con A matrice di ordine m × n; quindi E(A𝐲|𝐱) = 𝟎 (78)
-- σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, con μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n
-- Ricordando che Var(𝛆|𝐱) = σ_ε²𝐈_n: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′𝐱(𝐱′𝐱)^(-1)σ_ε², e semplificando, (𝐱′𝐱)^(-1)σ_ε²
+- Che $\hat{\boldsymbol{\beta}}^{\ast}$ sia non distorto, $E(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \boldsymbol{\beta}$ (76), e lineare, $\hat{\boldsymbol{\beta}}^{\ast} = A\mathbf{y}$ (77), con $A$ matrice di ordine $m \times n$; quindi $E(A\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$ (78)
+- $\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n}$, con $\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$
+- Ricordando che $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \sigma_\varepsilon^2\mathbf{I}_n$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$, e semplificando, $(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
 
-**D:** ⚠️ Come viene riespressa la matrice A nella slide 20 della lezione 25 (equazione 79)?
-**R:** Slide 20: «Riesprimendo la matrice A come segue: **A = B + (𝐱′𝐱)^(-1)𝐱′** (79) la 78 diventa: E((B + (𝐱′𝐱)^(-1)𝐱′)𝐲|𝐱) = 𝛃 ossia, in base all'equazione 40: E(B𝐲 + 𝛃̂^{OLS}|𝐱) = 𝛃». Il docente: «Esprimendo la matrice A come B più l'inversa di x trasposto x per x trasposto» (transcript [00:19:16]). ⚠️ (𝐱′𝐱)^(-1)𝐱′ è m × n, come A, e moltiplicato per 𝐲 dà 𝛃̂^{OLS}: B misura quanto 𝛃̂∗ si scosta dallo stimatore OLS (deduzione). 𝐱(𝐱′𝐱)^(-1)𝐱′ è invece la matrice di proiezione P della lezione 24, n × n.
-**Opzione:** A = B + (𝐱′𝐱)^(-1)𝐱′
+**D:** ⚠️ Come viene riespressa la matrice $A$ nella slide 20 della lezione 25 (equazione 79)?
+**R:** Slide 20: «Riesprimendo la matrice $A$ come segue: **$A = B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$** (79) la 78 diventa: $E((B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$ ossia, in base all'equazione 40: $E(B\mathbf{y} + \hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$». Il docente: «Esprimendo la matrice A come B più l'inversa di x trasposto x per x trasposto» (transcript [00:19:16]). ⚠️ $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ è $m \times n$, come $A$, e moltiplicato per $\mathbf{y}$ dà $\hat{\boldsymbol{\beta}}^{OLS}$: $B$ misura quanto $\hat{\boldsymbol{\beta}}^{\ast}$ si scosta dallo stimatore OLS (deduzione). $\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$ è invece la matrice di proiezione $P$ della lezione 24, $n \times n$.
+**Opzione:** $A = B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
 **Distrattori:**
-- A = B + 𝐱(𝐱′𝐱)^(-1)𝐱′
-- Perché M è una matrice simmetrica e idempotente: E(σ_{ϵ^{OLS}}²|𝐱) = (1/n)E(𝛆′M𝛆|𝐱)
-- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionata a 𝐱 e quella di 𝛃̂^{OLS} condizionata a 𝐱 è semi-definita positiva
+- $A = B + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$
+- Perché $M$ è una matrice simmetrica e idempotente: $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \frac{1}{n}E(\boldsymbol{\varepsilon}'M\boldsymbol{\varepsilon}\mid\mathbf{x})$
+- Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionata a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è semi-definita positiva
 
-**D:** ⚠️ Che cosa deve valere, nella slide 21 della lezione 25, perché sia verificata l'uguaglianza 80, E(B𝐲|𝐱) + E(𝛃̂^{OLS}|𝐱) = 𝛃?
-**R:** Slide 21: «Considerato che 𝛃̂^{OLS} è uno stimatore non distorto di 𝛃 e, in particolare, che E(𝛃̂^{OLS}|𝐱) = 𝛃 (cfr. equazione 72), affinchè l'uguaglianza 80 sia verificata **deve essere**: **E(B𝐲|𝐱) = 𝟎** (81)». Il docente dice «è sufficiente»: «affinché la precedente uguaglianza sia verificata è sufficiente che il valore atteso di By condizionato a x sia uguale a 0» (transcript [00:19:53]). ⚠️ Se E(𝛃̂^{OLS}|𝐱) vale già 𝛃, l'altro addendo deve essere il vettore **nullo**, non 𝛃.
-**Opzione:** Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝟎 (81)
+**D:** ⚠️ Che cosa deve valere, nella slide 21 della lezione 25, perché sia verificata l'uguaglianza 80, $E(B\mathbf{y}\mid\mathbf{x}) + E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$?
+**R:** Slide 21: «Considerato che $\hat{\boldsymbol{\beta}}^{OLS}$ è uno stimatore non distorto di $\boldsymbol{\beta}$ e, in particolare, che $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (cfr. equazione 72), affinchè l'uguaglianza 80 sia verificata **deve essere**: **$E(B\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$** (81)». Il docente dice «è sufficiente»: «affinché la precedente uguaglianza sia verificata è sufficiente che il valore atteso di By condizionato a x sia uguale a 0» (transcript [00:19:53]). ⚠️ Se $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$ vale già $\boldsymbol{\beta}$, l'altro addendo deve essere il vettore **nullo**, non $\boldsymbol{\beta}$.
+**Opzione:** Poiché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72), deve essere $E(B\mathbf{y}\mid\mathbf{x}) = \mathbf{0}$ (81)
 **Distrattori:**
-- Poiché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃 (72), deve essere E(B𝐲|𝐱) = 𝛃 (81)
-- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
-- Var(𝛃̂^{OLS}|𝐱) = E{[𝛃̂^{OLS} - E(𝛃̂^{OLS})]²|𝐱} = E{(𝛃̂^{OLS} - 𝛃)(𝛃̂^{OLS} - 𝛃)′|𝐱}
+- Poiché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (72), deve essere $E(B\mathbf{y}\mid\mathbf{x}) = \boldsymbol{\beta}$ (81)
+- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: $\mu_\epsilon = 0$, e la 60 diventa $\sigma_{\epsilon^{OLS}}^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n}$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = E\{[\hat{\boldsymbol{\beta}}^{OLS} - E(\hat{\boldsymbol{\beta}}^{OLS})]^2\mid\mathbf{x}\} = E\{(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})(\hat{\boldsymbol{\beta}}^{OLS} - \boldsymbol{\beta})'\mid\mathbf{x}\}$
 
-**D:** ⚠️ A che cosa si riduce la condizione di non distorsione di 𝛃̂∗ nella slide 22 della lezione 25 (equazione 82), e perché?
-**R:** Slide 21: con la (34), E(B(𝐱𝛃 + 𝛆)|𝐱) = 𝟎, cioè E(B𝐱𝛃|𝐱) + E(B𝛆|𝐱) = 𝟎, e, portate fuori le quantità note, «la condizione di non distorsione dello stimatore 𝛃̂∗ diventa: 𝛃B𝐱 + B · E(𝛆|𝐱) = 𝟎» (𝛃B𝐱, sic). Slide 22: «che, ricordando che per ipotesi del modello lineare il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12), diventa semplicemente: **B𝐱 = 0** (82)». Il docente: «la sezione precedente diventa banalmente bx uguale 0» (transcript [00:20:55]–[00:21:05]). ⚠️ L'ordine è **B𝐱**, non 𝐱B: B è m × n e 𝐱 è n × m (deduzione).
-**Opzione:** B𝐱 = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+**D:** ⚠️ A che cosa si riduce la condizione di non distorsione di $\hat{\boldsymbol{\beta}}^{\ast}$ nella slide 22 della lezione 25 (equazione 82), e perché?
+**R:** Slide 21: con la (34), $E(B(\mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon})\mid\mathbf{x}) = \mathbf{0}$, cioè $E(B\mathbf{x}\boldsymbol{\beta}\mid\mathbf{x}) + E(B\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$, e, portate fuori le quantità note, «la condizione di non distorsione dello stimatore $\hat{\boldsymbol{\beta}}^{\ast}$ diventa: $\boldsymbol{\beta}B\mathbf{x} + B \cdot E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = \mathbf{0}$» ($\boldsymbol{\beta}B\mathbf{x}$, sic). Slide 22: «che, ricordando che per ipotesi del modello lineare il **valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo** (cfr. equazione 12), diventa semplicemente: **$B\mathbf{x} = 0$** (82)». Il docente: «la sezione precedente diventa banalmente bx uguale 0» (transcript [00:20:55]–[00:21:05]). ⚠️ L'ordine è **$B\mathbf{x}$**, non $\mathbf{x}B$: $B$ è $m \times n$ e $\mathbf{x}$ è $n \times m$ (deduzione).
+**Opzione:** $B\mathbf{x} = 0$, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
 **Distrattori:**
-- 𝐱B = 0, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
-- Perché condizionatamente a 𝐱 la matrice M è nota: (1/n)tr(ME(𝛆𝛆′|𝐱)); richiamando le ipotesi delle equazioni 35 e 36, = (1/n)tr(Mσ_ε²𝐈_n)
-- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²
+- $\mathbf{x}B = 0$, perché per ipotesi del modello lineare il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo
+- Perché condizionatamente a $\mathbf{x}$ la matrice $M$ è nota: $\frac{1}{n}\operatorname{tr}(ME(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}))$; richiamando le ipotesi delle equazioni 35 e 36, $= \frac{1}{n}\operatorname{tr}(M\sigma_\varepsilon^2\mathbf{I}_n)$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$
 
-**D:** ⚠️ Quale relazione fra le matrici varianze-covarianze di 𝛃̂∗ e di 𝛃̂^{OLS} ottiene la slide 27 della lezione 25 (equazione 84)?
-**R:** Slide 26: … «= σ_ε²(BB′ + 𝐱(𝐱′𝐱)^(-1)) ossia per la 73:» (l'ultimo addendo come nella slide, sic). Slide 27: «**Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱)** (84) da cui discende che la differenza tra la matrice varianze-covarianze di 𝛃̂∗ condizionatamente a 𝐱 e quella di 𝛃̂^{OLS} anch'essa condizionatamente a 𝐱 è la matrice **σ_ε²BB′**». Il docente: «la varianza dello stimatore beta star è uguale alla varianza» σ_ε² «che moltiplica B, B trasposto, più la varianza dello stimatore dei minimi quadrati condizionato alla matrice dei regressori» (transcript [00:25:41]–[00:25:48]). ⚠️ **BB′**, non B′B: con B di ordine m × n, BB′ è m × m come le matrici varianze-covarianze (deduzione).
-**Opzione:** Var(𝛃̂∗|𝐱) = σ_ε²BB′ + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²BB′
+**D:** ⚠️ Quale relazione fra le matrici varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ e di $\hat{\boldsymbol{\beta}}^{OLS}$ ottiene la slide 27 della lezione 25 (equazione 84)?
+**R:** Slide 26: … «$= \sigma_\varepsilon^2(BB' + \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1})$ ossia per la 73:» (l'ultimo addendo come nella slide, sic). Slide 27: «**$\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \sigma_\varepsilon^2BB' + \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$** (84) da cui discende che la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ condizionatamente a $\mathbf{x}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ anch'essa condizionatamente a $\mathbf{x}$ è la matrice **$\sigma_\varepsilon^2BB'$**». Il docente: «la varianza dello stimatore beta star è uguale alla varianza» $\sigma_\varepsilon^2$ «che moltiplica B, B trasposto, più la varianza dello stimatore dei minimi quadrati condizionato alla matrice dei regressori» (transcript [00:25:41]–[00:25:48]). ⚠️ **$BB'$**, non $B'B$: con $B$ di ordine $m \times n$, $BB'$ è $m \times m$ come le matrici varianze-covarianze (deduzione).
+**Opzione:** $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \sigma_\varepsilon^2BB' + \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$: la differenza fra le due è la matrice $\sigma_\varepsilon^2BB'$
 **Distrattori:**
-- Var(𝛃̂∗|𝐱) = σ_ε²B′B + Var(𝛃̂^{OLS}|𝐱): la differenza fra le due è la matrice σ_ε²B′B
-- σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con E(σ̂_ε²) = σ_ε²
-- Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)𝐱′E(𝛆𝛆′|𝐱)𝐱(𝐱′𝐱)^(-1)
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = \sigma_\varepsilon^2B'B + \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$: la differenza fra le due è la matrice $\sigma_\varepsilon^2B'B$
+- $\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$, con $E(\hat{\sigma}_\varepsilon^2) = \sigma_\varepsilon^2$
+- $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$
 
-**D:** ⚠️ Perché, nella slide 27 della lezione 25, BB′ è una matrice semi-definita positiva, e perché lo è anche σ_ε²BB′?
-**R:** Slide 27: «Si osserva ora che, essendo BB′ una matrice simmetrica di ordine m, **per ogni vettore colonna v m-dimensionale**, il vettore z così definito: **z := B′v** è tale che: **z′z = (B′v)′B′v = v′BB′v** e quindi BB′ è una matrice semi-definita positiva. Considerando infine che **σ_ε² > 0**, anche σ_ε²BB′ è una matrice semi-definita positiva. c.v.d.». Il docente: «per ogni vettore colonna V M dimensionale il vettore Z risulta definito come B trasposto per V» (transcript [00:26:15]); «Considerando infine che la varianza» σ_ε² «è maggiore di zero» ([00:26:43]). ⚠️ v è **m**-dimensionale, come l'ordine di BB′: B′ è n × m e moltiplica un vettore di m componenti (deduzione dalle dimensioni). ℹ️ Integrazione (non dai materiali del corso): z′z è una somma di quadrati, quindi v′BB′v ≥ 0.
-**Opzione:** Perché, per ogni vettore colonna v m-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
+**D:** ⚠️ Perché, nella slide 27 della lezione 25, $BB'$ è una matrice semi-definita positiva, e perché lo è anche $\sigma_\varepsilon^2BB'$?
+**R:** Slide 27: «Si osserva ora che, essendo $BB'$ una matrice simmetrica di ordine $m$, **per ogni vettore colonna $v$ $m$-dimensionale**, il vettore $z$ così definito: **$z := B'v$** è tale che: **$z'z = (B'v)'B'v = v'BB'v$** e quindi $BB'$ è una matrice semi-definita positiva. Considerando infine che **$\sigma_\varepsilon^2 > 0$**, anche $\sigma_\varepsilon^2BB'$ è una matrice semi-definita positiva. c.v.d.». Il docente: «per ogni vettore colonna V M dimensionale il vettore Z risulta definito come B trasposto per V» (transcript [00:26:15]); «Considerando infine che la varianza» $\sigma_\varepsilon^2$ «è maggiore di zero» ([00:26:43]). ⚠️ $v$ è **$m$**-dimensionale, come l'ordine di $BB'$: $B'$ è $n \times m$ e moltiplica un vettore di $m$ componenti (deduzione dalle dimensioni). ℹ️ Integrazione (non dai materiali del corso): $z'z$ è una somma di quadrati, quindi $v'BB'v \geq 0$.
+**Opzione:** Perché, per ogni vettore colonna $v$ $m$-dimensionale, $z := B'v$ è tale che $z'z = (B'v)'B'v = v'BB'v$; e perché $\sigma_\varepsilon^2 > 0$
 **Distrattori:**
-- Perché, per ogni vettore colonna v n-dimensionale, z := B′v è tale che z′z = (B′v)′B′v = v′BB′v; e perché σ_ε² > 0
-- σ_{ϵ^{OLS}}² = (1/n)(𝛜^{OLS})′𝛜^{OLS}
-- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: Var(𝛆|𝐱) = E(𝛆𝛆′|𝐱) - E(𝛆|𝐱)E(𝛆|𝐱) = E(𝛆𝛆′|𝐱)
+- Perché, per ogni vettore colonna $v$ $n$-dimensionale, $z := B'v$ è tale che $z'z = (B'v)'B'v = v'BB'v$; e perché $\sigma_\varepsilon^2 > 0$
+- $\sigma_{\epsilon^{OLS}}^2 = \frac{1}{n}(\boldsymbol{\epsilon}^{OLS})'\boldsymbol{\epsilon}^{OLS}$
+- Perché il valore atteso degli errori della regressione condizionato al valore della variabile indipendente è nullo: $\mathrm{Var}(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x}) - E(\boldsymbol{\varepsilon}\mid\mathbf{x})E(\boldsymbol{\varepsilon}\mid\mathbf{x}) = E(\boldsymbol{\varepsilon}\boldsymbol{\varepsilon}'\mid\mathbf{x})$
 
 **D:** ⚠️ Che cosa indica, per la Nota della slide 28 della lezione 25, il risultato del Teorema di Gauss-Markov 1?
-**R:** Slide 28, «Nota»: «Il risultato di cui al Teorema di Gauss-Markov 1 indica che, **per 𝐱 fissato**, lo stimatore dei minimi quadrati ordinari, 𝛃̂^{OLS}, è quello **più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased)**». Il docente: «fissata la matrice dei regressori, lo stimatore dei minimi quadrati è quello più efficiente, cioè quello a varianza minima, è il più efficiente tra quelli lineari e quelli non distorti» (transcript [00:27:03]). ⚠️ L'ambito è la classe degli stimatori **lineari e non distorti**: il teorema non confronta 𝛃̂^{OLS} con stimatori non lineari o distorti, e la slide dice «lineari e non distorti», non due classi separate.
-**Opzione:** Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
+**R:** Slide 28, «Nota»: «Il risultato di cui al Teorema di Gauss-Markov 1 indica che, **per $\mathbf{x}$ fissato**, lo stimatore dei minimi quadrati ordinari, $\hat{\boldsymbol{\beta}}^{OLS}$, è quello **più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased)**». Il docente: «fissata la matrice dei regressori, lo stimatore dei minimi quadrati è quello più efficiente, cioè quello a varianza minima, è il più efficiente tra quelli lineari e quelli non distorti» (transcript [00:27:03]). ⚠️ L'ambito è la classe degli stimatori **lineari e non distorti**: il teorema non confronta $\hat{\boldsymbol{\beta}}^{OLS}$ con stimatori non lineari o distorti, e la slide dice «lineari e non distorti», non due classi separate.
+**Opzione:** Che, per $\mathbf{x}$ fissato, lo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$ è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti
 **Distrattori:**
-- Che, per 𝐱 fissato, lo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS} è quello più efficiente (i.e. a varianza minima) tra tutti gli stimatori, anche non lineari o distorti
-- La radice quadrata di σ̂_ε², lo stimatore non distorto della varianza dell'errore della regressione lineare
-- E(σ_{ϵ^{OLS}}²|𝐱) = [(n - m)/n]σ_ε², e anche E[σ_{ϵ^{OLS}}²] = E[E(σ_{ϵ^{OLS}}²|𝐱)] = [(n - m)/n]σ_ε²
+- Che, per $\mathbf{x}$ fissato, lo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$ è quello più efficiente (i.e. a varianza minima) tra tutti gli stimatori, anche non lineari o distorti
+- La radice quadrata di $\hat{\sigma}_\varepsilon^2$, lo stimatore non distorto della varianza dell'errore della regressione lineare
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$, e anche $E[\sigma_{\epsilon^{OLS}}^2] = E[E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x})] = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$
 
-**D:** ⚠️ Perché si dice, nella slide 28 della lezione 25, che 𝛃̂^{OLS} è uno stimatore BLUE, e come scioglie la slide l'acronimo?
+**D:** ⚠️ Perché si dice, nella slide 28 della lezione 25, che $\hat{\boldsymbol{\beta}}^{OLS}$ è uno stimatore BLUE, e come scioglie la slide l'acronimo?
 **R:** Slide 28: «Per tale motivo» — perché è il più efficiente tra gli stimatori lineari e non distorti — «si dice che esso è uno **stimatore BLUE**, ove BLUE è l'acronimo di **Best Unbiased Linear Estimator**, vale a dire il **miglior stimatore lineare non distorto**». Il docente: «si dice che» è «uno stimatore BLUE, dove BLUE sta per Best Unbiased Linear Estimator, cioè il miglior stimatore lineare non distorto» (transcript [00:27:23]). ⚠️ «Best» è il **più efficiente**, a varianza minima; non c'è «Least squares» nell'acronimo. ℹ️ Integrazione (non dai materiali del corso): nella letteratura l'acronimo si scioglie di solito *Best Linear Unbiased Estimator*, l'ordine che dà le lettere B-L-U-E; la traduzione italiana è la stessa.
 **Opzione:** Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Linear Estimator, il miglior stimatore lineare non distorto
 **Distrattori:**
 - Perché è il più efficiente tra gli stimatori lineari e non distorti; BLUE è l'acronimo di Best Unbiased Least-squares Estimator, il miglior stimatore dei minimi quadrati non distorto
-- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: μ_ϵ = 0, e la 60 diventa σ_{ϵ^{OLS}}² = ∑_{i=1}^n (ϵ_i^{OLS})²/n
-- E(σ_{ϵ^{OLS}}²|𝐱) = [tr(M)/n]σ_ε², con tr(M) = tr(𝐈_n) - tr((𝐱′𝐱)^(-1)𝐱′𝐱) = tr(𝐈_n) - tr(𝐈_m)
+- Perché la somma dei residui OLS è pari a zero (equazione 47), quindi anche la loro media campionaria: $\mu_\epsilon = 0$, e la 60 diventa $\sigma_{\epsilon^{OLS}}^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n}$
+- $E(\sigma_{\epsilon^{OLS}}^2\mid\mathbf{x}) = \left[\frac{\operatorname{tr}(M)}{n}\right]\sigma_\varepsilon^2$, con $\operatorname{tr}(M) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}((\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{x}) = \operatorname{tr}(\mathbf{I}_n) - \operatorname{tr}(\mathbf{I}_m)$
 
-**D:** Che ruolo ha la condizione B𝐱 = 0 nella seconda parte della dimostrazione del Teorema di Gauss-Markov (slide 23–27 della lezione 25)?
-**R:** È la «condizione di non distorsione» di 𝛃̂∗ (82), e la dimostrazione la usa due volte. Nella slide 24, «Richiamando la condizione di non distorsione di 𝛃̂∗ nella formulazione di cui alla 82», cancella B𝐱𝛃 dalla (83), Var(𝛃̂∗|𝐱) = E{[B𝐱𝛃 + (B + (𝐱′𝐱)^(-1)𝐱′)𝛆][…]′|𝐱}. Nella slide 26, «utilizzando nuovamente la condizione di non distorsione di 𝛃̂∗», cancella i termini misti (𝐱′𝐱)^(-1)𝐱′B′ e B𝐱(𝐱′𝐱)^(-1), che contengono B𝐱 o la sua trasposta (deduzione). Il docente: «richiamiamo la condizione non distorsione» (transcript [00:23:04]); «Utilizzando nuovamente la condizione di non distorsione» ([00:25:26]). Resta σ_ε²BB′ più la varianza dello stimatore OLS, la (84).
+**D:** Che ruolo ha la condizione $B\mathbf{x} = 0$ nella seconda parte della dimostrazione del Teorema di Gauss-Markov (slide 23–27 della lezione 25)?
+**R:** È la «condizione di non distorsione» di $\hat{\boldsymbol{\beta}}^{\ast}$ (82), e la dimostrazione la usa due volte. Nella slide 24, «Richiamando la condizione di non distorsione di $\hat{\boldsymbol{\beta}}^{\ast}$ nella formulazione di cui alla 82», cancella $B\mathbf{x}\boldsymbol{\beta}$ dalla (83), $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) = E\{[B\mathbf{x}\boldsymbol{\beta} + (B + (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\boldsymbol{\varepsilon}][\ldots]'\mid\mathbf{x}\}$. Nella slide 26, «utilizzando nuovamente la condizione di non distorsione di $\hat{\boldsymbol{\beta}}^{\ast}$», cancella i termini misti $(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'B'$ e $B\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}$, che contengono $B\mathbf{x}$ o la sua trasposta (deduzione). Il docente: «richiamiamo la condizione non distorsione» (transcript [00:23:04]); «Utilizzando nuovamente la condizione di non distorsione» ([00:25:26]). Resta $\sigma_\varepsilon^2BB'$ più la varianza dello stimatore OLS, la (84).
 
 **D:** Che differenza c'è, nella lezione 25, fra varianza dell'errore e varianza dei residui, e come le chiama il docente?
-**R:** Le slide le distinguono anche nel glifo. **σ_ε²**, con la ε dell'**errore**, è la varianza dell'errore della regressione: compare nelle (66), (68), (73) e (84) e la stima senza distorsione σ̂_ε² (slide 10). **σ_{ϵ^{OLS}}²**, con la ϵ del **residuo**, è la varianza dei residui OLS della (60), costruita sui residui ϵ_i^{OLS} e distorta (slide 2). Il docente chiama «varianza dei residui» anche σ_ε²: «il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]), «per la varianza dei residui» nella (73) ([00:13:27]) e nella (84) ([00:25:48]), e dice «residui» per gli errori 𝛆 dell'esogeneità ([00:12:55]). Per le domande d'esame vale la slide. Anche il test lo confonde: la domanda 4 chiama «media dell'errore» la media dei residui μ_ϵ (61).
+**R:** Le slide le distinguono anche nel glifo. **$\sigma_\varepsilon^2$**, con la $\varepsilon$ dell'**errore**, è la varianza dell'errore della regressione: compare nelle (66), (68), (73) e (84) e la stima senza distorsione $\hat{\sigma}_\varepsilon^2$ (slide 10). **$\sigma_{\epsilon^{OLS}}^2$**, con la $\epsilon$ del **residuo**, è la varianza dei residui OLS della (60), costruita sui residui $\epsilon_i^{OLS}$ e distorta (slide 2). Il docente chiama «varianza dei residui» anche $\sigma_\varepsilon^2$: «il valore atteso di questa varianza è diverso dalla varianza dei residui» (transcript [00:00:53]), «per la varianza dei residui» nella (73) ([00:13:27]) e nella (84) ([00:25:48]), e dice «residui» per gli errori $\boldsymbol{\varepsilon}$ dell'esogeneità ([00:12:55]). Per le domande d'esame vale la slide. Anche il test lo confonde: la domanda 4 chiama «media dell'errore» la media dei residui $\mu_\epsilon$ (61).
 
 **D:** ⚠️ A che cosa è pari la matrice varianze-covarianze dello stimatore dei minimi quadrati bOLS condizionato a x, secondo il test della lezione 25 (domanda 1)?
-**R:** «**Var (bOLS|x)=(x'x)-1s2e**», cioè Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²: è la (73) della Proposizione della slide 15, «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} condizionata a 𝐱 è pari a: Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²». Il docente: «è pari all'inversa di x trasposto x per la varianza» (transcript [00:13:27]). ⚠️ La domanda è **difettosa**: le opzioni **B e C sono identiche** parola per parola, ed entrambe sono la (73); la piattaforma segna la C. Va riconosciuta la formula, non la lettera. Distrattori del test, nessuno nei materiali: «Var (bOLS|x)=(x'x)» perde l'inversa e σ_ε²; «Var (bOLS)=(x'x)-1s2e» perde il condizionamento a 𝐱.
+**R:** «**Var (bOLS|x)=(x'x)-1s2e**», cioè $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$: è la (73) della Proposizione della slide 15, «La matrice varianze-covarianze dello stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$ condizionata a $\mathbf{x}$ è pari a: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$». Il docente: «è pari all'inversa di x trasposto x per la varianza» (transcript [00:13:27]). ⚠️ La domanda è **difettosa**: le opzioni **B e C sono identiche** parola per parola, ed entrambe sono la (73); la piattaforma segna la C. Va riconosciuta la formula, non la lettera. Distrattori del test, nessuno nei materiali: «Var (bOLS|x)=(x'x)» perde l'inversa e $\sigma_\varepsilon^2$; «Var (bOLS)=(x'x)-1s2e» perde il condizionamento a $\mathbf{x}$.
 **Opzione:** Var (bOLS|x)=(x'x)-1s2e
 **Distrattori:**
 - Var (bOLS|x)=(x'x)
 - Var (bOLS)=(x'x)-1s2e
 
 **D:** ⚠️ Che tipo di stimatore è la quantità s2eOLS, secondo il test della lezione 25 (domanda 2)?
-**R:** «**distorto di s2e**»: σ_{ϵ^{OLS}}² è uno stimatore distorto di σ_ε², la Proposizione della slide 2, «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare» (transcript [00:00:53]). Distrattori del test: «non distorto di s2e» è la proprietà di σ̂_ε², con n - m al denominatore (Corollario, slide 10): oggetto scambiato. «adattato di s2e» usa un aggettivo che nel corso è dei processi stocastici adattati a una filtrazione (lezione 06), non degli stimatori; «non rbusto di s2e» (sic) parla di robustezza, che nei materiali non c'è. ⚠️ La domanda 5 fa la stessa affermazione.
+**R:** «**distorto di s2e**»: $\sigma_{\epsilon^{OLS}}^2$ è uno stimatore distorto di $\sigma_\varepsilon^2$, la Proposizione della slide 2, «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: $E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$». Il docente: «questa quantità è uno stimatore distorto della varianza dell'errore della regressione lineare» (transcript [00:00:53]). Distrattori del test: «non distorto di s2e» è la proprietà di $\hat{\sigma}_\varepsilon^2$, con $n - m$ al denominatore (Corollario, slide 10): oggetto scambiato. «adattato di s2e» usa un aggettivo che nel corso è dei processi stocastici adattati a una filtrazione (lezione 06), non degli stimatori; «non rbusto di s2e» (sic) parla di robustezza, che nei materiali non c'è. ⚠️ La domanda 5 fa la stessa affermazione.
 **Opzione:** distorto di s2e
 **Distrattori:**
 - non distorto di s2e
@@ -8272,14 +8589,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - non rbusto di s2e
 
 **D:** ⚠️ Come è definita la quantità s2eOLS, secondo il test della lezione 25 (domanda 3)?
-**R:** 🚨 **La chiave della piattaforma è sbagliata.** La piattaforma segna «s2eOLS = Si(eiOLS - me)», senza quadrato e senza divisione per n: non è una varianza, è la somma degli scarti dalla media, che vale zero per costruzione (deduzione). La definizione è la (60) della slide 2, σ_{ϵ^{OLS}}² := ∑_{i=1}^n (ϵ_i^{OLS} - μ_ϵ)²/n, cioè l'opzione B, «**s2eOLS = Si(eiOLS - me)2/n**». Il docente: «la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n» (transcript [00:00:31]). L'opzione D, «s2eOLS = Si(eiOLS)2/n», è vera nel valore: è la riscrittura della slide 3 con μ_ϵ = 0, ma non è la definizione. La A, «s2eOLS = Si(eiOLS - me)2», perde la divisione per n. ⚠️ All'esame la domanda potrebbe essere corretta secondo la chiave C. La stessa espressione della chiave è il distrattore C della domanda 4. Conferma incrociata dal test della lezione 26, domanda 2: la chiave «s2e = s2eOLS n/(n-m)» è la (67), σ̂_ε² = [n/(n - m)]σ_{ϵ^{OLS}}², e il fattore n/(n - m) presuppone che σ_{ϵ^{OLS}}² sia divisa per n, come nella B; fra i distrattori di quella domanda tornano le espressioni A, C e D di questa, compresa la chiave C.
+**R:** 🚨 **La chiave della piattaforma è sbagliata.** La piattaforma segna «s2eOLS = Si(eiOLS - me)», senza quadrato e senza divisione per $n$: non è una varianza, è la somma degli scarti dalla media, che vale zero per costruzione (deduzione). La definizione è la (60) della slide 2, $\sigma_{\epsilon^{OLS}}^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \mu_\epsilon)^2}{n}$, cioè l'opzione B, «**s2eOLS = Si(eiOLS - me)2/n**». Il docente: «la sommatoria per i che va da 1 a n dei residui i-esimi OLS meno la media dei residui al quadrato diviso n» (transcript [00:00:31]). L'opzione D, «s2eOLS = Si(eiOLS)2/n», è vera nel valore: è la riscrittura della slide 3 con $\mu_\epsilon = 0$, ma non è la definizione. La A, «s2eOLS = Si(eiOLS - me)2», perde la divisione per $n$. ⚠️ All'esame la domanda potrebbe essere corretta secondo la chiave C. La stessa espressione della chiave è il distrattore C della domanda 4. Conferma incrociata dal test della lezione 26, domanda 2: la chiave «s2e = s2eOLS n/(n-m)» è la (67), $\hat{\sigma}_\varepsilon^2 = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$, e il fattore $\frac{n}{n - m}$ presuppone che $\sigma_{\epsilon^{OLS}}^2$ sia divisa per $n$, come nella B; fra i distrattori di quella domanda tornano le espressioni A, C e D di questa, compresa la chiave C.
 **Opzione:** s2eOLS = Si(eiOLS - me)2/n
 **Distrattori:**
 - s2eOLS = Si(eiOLS - me)2
 - s2eOLS = Si(eiOLS - me)
 
 **D:** ⚠️ Come è definita la media dell'errore della regressione lineare, secondo il test della lezione 25 (domanda 4)?
-**R:** «**me = SieiOLS/n**», cioè μ_ϵ := ∑_{i=1}^n ϵ_i^{OLS}/n: è la (61) della slide 2. Il docente: «la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:31]–[00:00:49]). ⚠️ Il test dice «media dell'**errore**», la slide e il docente la media dei **residui** OLS. Distrattori del test: «me = SieiOLS» perde la divisione per n ed è la somma, che per la (47) vale zero; «meOLS = Si(eiOLS - me)» è la somma degli scarti dalla media, la stessa espressione della chiave della domanda 3; «m2eOLS = Si(eiOLS - me)2/n» ha a destra la (60), cioè σ_{ϵ^{OLS}}², con a sinistra un nome che le slide non hanno. ⚠️ Il pool è condiviso con la domanda 3.
+**R:** «**me = SieiOLS/n**», cioè $\mu_\epsilon := \frac{\sum_{i=1}^n \epsilon_i^{OLS}}{n}$: è la (61) della slide 2. Il docente: «la media dei residui è la sommatoria per i che va da 1 a n dei residui i-esimi OLS diviso n» (transcript [00:00:31]–[00:00:49]). ⚠️ Il test dice «media dell'**errore**», la slide e il docente la media dei **residui** OLS. Distrattori del test: «me = SieiOLS» perde la divisione per $n$ ed è la somma, che per la (47) vale zero; «meOLS = Si(eiOLS - me)» è la somma degli scarti dalla media, la stessa espressione della chiave della domanda 3; «m2eOLS = Si(eiOLS - me)2/n» ha a destra la (60), cioè $\sigma_{\epsilon^{OLS}}^2$, con a sinistra un nome che le slide non hanno. ⚠️ Il pool è condiviso con la domanda 3.
 **Opzione:** me = SieiOLS/n
 **Distrattori:**
 - me = SieiOLS
@@ -8287,7 +8604,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - m2eOLS = Si(eiOLS - me)2/n
 
 **D:** ⚠️ La relazione E(s2eOLS ) ≠ s2e è vera o falsa, secondo il test della lezione 25 (domanda 5)?
-**R:** «**vera**»: è la Proposizione della slide 2, σ_{ϵ^{OLS}}² «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: E(σ_{ϵ^{OLS}}²) ≠ σ_ε²», dimostrata nella slide 9, E[σ_{ϵ^{OLS}}²] = [(n - m)/n]σ_ε². Il docente: «il valore atteso di questa varianza è diverso» (transcript [00:00:53]); «n-m su n per la varianza» ([00:09:02]). Distrattori del test: «falsa» è il contrario; «è pari a infinito» e «non si può calcolare» non sono nei materiali, e la slide 9 il valore atteso lo calcola. ⚠️ È la stessa affermazione della domanda 2.
+**R:** «**vera**»: è la Proposizione della slide 2, $\sigma_{\epsilon^{OLS}}^2$ «è uno stimatore distorto della varianza dell'errore della regressione lineare, i.e.: $E(\sigma_{\epsilon^{OLS}}^2) \neq \sigma_\varepsilon^2$», dimostrata nella slide 9, $E[\sigma_{\epsilon^{OLS}}^2] = \left[\frac{n - m}{n}\right]\sigma_\varepsilon^2$. Il docente: «il valore atteso di questa varianza è diverso» (transcript [00:00:53]); «n-m su n per la varianza» ([00:09:02]). Distrattori del test: «falsa» è il contrario; «è pari a infinito» e «non si può calcolare» non sono nei materiali, e la slide 9 il valore atteso lo calcola. ⚠️ È la stessa affermazione della domanda 2.
 **Opzione:** vera
 **Distrattori:**
 - è pari a infinito
@@ -8296,275 +8613,275 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 26 — Il Modello Lineare 4 – bontà del fit
 
-**D:** ⚠️ Come si definisce l'errore standard dello stimatore β̂_i^{OLS}, SE(β̂_i^{OLS}), nella Definizione della slide 2 della lezione 26?
-**R:** Slide 2: «Sia β_i la i-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 e sia β̂_i^{OLS} la i-esima componente del corrispondente stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora, per i = 1, …, m, si definisce errore standard dello stimatore β̂_i^{OLS} e si denota con SE(β̂_i^{OLS}) la seguente quantità: SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2)», dove «σ̂_ε² è lo stimatore non distorto della varianza dell'errore della regressione di cui all'equazione 67». ⚠️ Sotto la radice c'è σ̂_ε², lo stimatore **non distorto**, non σ_{ϵ^{OLS}}², la varianza dei residui OLS, che è distorta (lezione 25, slide 2). Il docente dice «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]): vale la slide. È la chiave della domanda 1 del test.
-**Opzione:** SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+**D:** ⚠️ Come si definisce l'errore standard dello stimatore $\hat{\beta}_i^{OLS}$, $\mathrm{SE}(\hat{\beta}_i^{OLS})$, nella Definizione della slide 2 della lezione 26?
+**R:** Slide 2: «Sia $\beta_i$ la $i$-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 e sia $\hat{\beta}_i^{OLS}$ la $i$-esima componente del corrispondente stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$. Allora, per $i = 1, \ldots, m$, si definisce errore standard dello stimatore $\hat{\beta}_i^{OLS}$ e si denota con $\mathrm{SE}(\hat{\beta}_i^{OLS})$ la seguente quantità: $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}\}^{1/2}$», dove «$\hat{\sigma}_\varepsilon^2$ è lo stimatore non distorto della varianza dell'errore della regressione di cui all'equazione 67». ⚠️ Sotto la radice c'è $\hat{\sigma}_\varepsilon^2$, lo stimatore **non distorto**, non $\sigma_{\epsilon^{OLS}}^2$, la varianza dei residui OLS, che è distorta (lezione 25, slide 2). Il docente dice «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]): vale la slide. È la chiave della domanda 1 del test.
+**Opzione:** $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}\}^{1/2}$, con $\hat{\sigma}_\varepsilon^2$ stimatore non distorto della varianza dell'errore della regressione
 **Distrattori:**
-- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²]_{ii}}^(1/2), con σ_{ϵ^{OLS}}² stimatore distorto della varianza dell'errore della regressione
+- $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\sigma_{\epsilon^{OLS}}^2]_{ii}\}^{1/2}$, con $\sigma_{\epsilon^{OLS}}^2$ stimatore distorto della varianza dell'errore della regressione
 - Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
-- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
+- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: $R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (\hat{y}_i - \bar{y})^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$
 
-**D:** ⚠️ Che cosa indica la quantità [(𝐱′𝐱)^(-1)σ̂_ε²]_{ii} nella definizione dell'errore standard dello stimatore β̂_i^{OLS} (slide 2 della lezione 26)?
-**R:** Slide 2: «[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii} è l'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²». Il docente: «l'elemento iesimo della diagonale principale della matrice definita come l'inverso di x trasposto x per lo stimatore della varianza dei minimi quadrati» (transcript [00:01:38]). ⚠️ È un solo elemento, l'i-esimo della diagonale, non la traccia tr(·) usata nella lezione 25 (slide 7–8 di quel deck), che li somma tutti (integrazione, non dai materiali del corso). La matrice ha la forma della (73) della lezione 25, Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε², con lo stimatore σ̂_ε² al posto di σ_ε² (deduzione).
-**Opzione:** L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+**D:** ⚠️ Che cosa indica la quantità $[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}$ nella definizione dell'errore standard dello stimatore $\hat{\beta}_i^{OLS}$ (slide 2 della lezione 26)?
+**R:** Slide 2: «$[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}$ è l'elemento $i$-esimo della diagonale principale della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$». Il docente: «l'elemento iesimo della diagonale principale della matrice definita come l'inverso di x trasposto x per lo stimatore della varianza dei minimi quadrati» (transcript [00:01:38]). ⚠️ È un solo elemento, l'$i$-esimo della diagonale, non la traccia $\operatorname{tr}(\cdot)$ usata nella lezione 25 (slide 7–8 di quel deck), che li somma tutti (integrazione, non dai materiali del corso). La matrice ha la forma della (73) della lezione 25, $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$, con lo stimatore $\hat{\sigma}_\varepsilon^2$ al posto di $\sigma_\varepsilon^2$ (deduzione).
+**Opzione:** L'elemento $i$-esimo della diagonale principale della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$
 **Distrattori:**
-- La traccia, cioè la somma degli elementi della diagonale principale, della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+- La traccia, cioè la somma degli elementi della diagonale principale, della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$
 - La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
 - Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
 
-**D:** ⚠️ Per quali valori dell'indice i si definisce l'errore standard dello stimatore β̂_i^{OLS}, e di quale vettore è componente β_i (slide 2 della lezione 26)?
-**R:** Slide 2: «Sia β_i la i-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 […]. Allora, per i = 1, …, m, si definisce errore standard dello stimatore β̂_i^{OLS} […]». L'equazione 34 è la forma matriciale 𝐲 = 𝐱𝛃 + 𝛆 della lezione 24, in cui 𝛃 è il vettore m × 1 dei coefficienti. Il docente: «per i che va da 1 a m» (transcript [00:00:36]). ⚠️ L'indice arriva a **m**, il numero dei coefficienti, non a n, il numero delle osservazioni. Nella lezione 24 i coefficienti sono numerati da β_0 a β_{m-1}; qui la slide li conta da 1 a m.
-**Opzione:** Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+**D:** ⚠️ Per quali valori dell'indice $i$ si definisce l'errore standard dello stimatore $\hat{\beta}_i^{OLS}$, e di quale vettore è componente $\beta_i$ (slide 2 della lezione 26)?
+**R:** Slide 2: «Sia $\beta_i$ la $i$-esima componente del vettore dei parametri del modello lineare di cui all'equazione 34 […]. Allora, per $i = 1, \ldots, m$, si definisce errore standard dello stimatore $\hat{\beta}_i^{OLS}$ […]». L'equazione 34 è la forma matriciale $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ della lezione 24, in cui $\boldsymbol{\beta}$ è il vettore $m \times 1$ dei coefficienti. Il docente: «per i che va da 1 a m» (transcript [00:00:36]). ⚠️ L'indice arriva a **$m$**, il numero dei coefficienti, non a $n$, il numero delle osservazioni. Nella lezione 24 i coefficienti sono numerati da $\beta_0$ a $\beta_{m-1}$; qui la slide li conta da 1 a $m$.
+**Opzione:** Per $i = 1, \ldots, m$: $\beta_i$ è la $i$-esima componente del vettore dei parametri del modello lineare $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$
 **Distrattori:**
-- Per i = 1, …, n: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+- Per $i = 1, \ldots, n$: $\beta_i$ è la $i$-esima componente del vettore dei parametri del modello lineare $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$
 - Solo valori compresi tra 0 e 1
-- La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+- La matrice di generazione dei residui, $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, e il fatto che è idempotente
 
-**D:** Che differenza c'è fra l'errore standard dello stimatore β̂_i^{OLS} della lezione 26 e l'errore standard della regressione della lezione 25?
-**R:** L'errore standard della regressione è «la radice quadrata di σ̂_ε²» (slide 10 della lezione 25): un solo numero per tutta la regressione. L'errore standard dello stimatore è la radice dell'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε² (slide 2 della lezione 26): uno per ciascun coefficiente, per i = 1, …, m. Entrambi usano lo stimatore **non distorto** σ̂_ε² della (67); il secondo lo moltiplica per (𝐱′𝐱)^(-1), come nella matrice varianze-covarianze (73) della lezione 25 (deduzione dal confronto delle due slide).
+**D:** Che differenza c'è fra l'errore standard dello stimatore $\hat{\beta}_i^{OLS}$ della lezione 26 e l'errore standard della regressione della lezione 25?
+**R:** L'errore standard della regressione è «la radice quadrata di $\hat{\sigma}_\varepsilon^2$» (slide 10 della lezione 25): un solo numero per tutta la regressione. L'errore standard dello stimatore è la radice dell'elemento $i$-esimo della diagonale principale della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$ (slide 2 della lezione 26): uno per ciascun coefficiente, per $i = 1, \ldots, m$. Entrambi usano lo stimatore **non distorto** $\hat{\sigma}_\varepsilon^2$ della (67); il secondo lo moltiplica per $(\mathbf{x}'\mathbf{x})^{-1}$, come nella matrice varianze-covarianze (73) della lezione 25 (deduzione dal confronto delle due slide).
 
 **D:** ⚠️ Che cosa afferma la Legge della Varianza Totale, nella Proposizione della slide 3 della lezione 26 (equazione 85)?
-**R:** Slide 3: «Legge della Varianza Totale. Data una coppia di variabili aleatorie X e Y, vale la seguente uguaglianza: Var(Y) = E[Var(Y|X)] + Var[E(Y|X)] (85)». Il docente: «data una coppia di variabili aleatorie x e y la varianza di y non è altro che il valore atteso della varianza di y dato x più la varianza del valore atteso di y dato x» (transcript [00:02:05]). ⚠️ Gli operatori si incrociano: il **valore atteso della varianza** condizionata **più** la **varianza del valore atteso** condizionato.
-**Opzione:** Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+**R:** Slide 3: «Legge della Varianza Totale. Data una coppia di variabili aleatorie $X$ e $Y$, vale la seguente uguaglianza: $\mathrm{Var}(Y) = E[\mathrm{Var}(Y\mid X)] + \mathrm{Var}[E(Y\mid X)]$ (85)». Il docente: «data una coppia di variabili aleatorie x e y la varianza di y non è altro che il valore atteso della varianza di y dato x più la varianza del valore atteso di y dato x» (transcript [00:02:05]). ⚠️ Gli operatori si incrociano: il **valore atteso della varianza** condizionata **più** la **varianza del valore atteso** condizionato.
+**Opzione:** $\mathrm{Var}(Y) = E[\mathrm{Var}(Y\mid X)] + \mathrm{Var}[E(Y\mid X)]$
 **Distrattori:**
-- Var(Y) = E[Var(Y|X)] - Var[E(Y|X)]
-- TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
-- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
+- $\mathrm{Var}(Y) = E[\mathrm{Var}(Y\mid X)] - \mathrm{Var}[E(Y\mid X)]$
+- $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$, cioè $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2 + \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
+- La matrice varianze-covarianze non condizionata di $\hat{\boldsymbol{\beta}}^{OLS}$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[(\mathbf{x}'\mathbf{x})^{-1}]\cdot\sigma_\varepsilon^2$
 
 **D:** ⚠️ Quali sono le due uguaglianze (86) e (87) che, sommate, dimostrano la Legge della Varianza Totale nelle slide 3–4 della lezione 26?
-**R:** Slide 3: «Per la definizione di varianza si ha: Var(Y|X) = E(Y²|X) - [E(Y|X)]². Calcolando il valore atteso di ambo i lati: E[Var(Y|X)] = E[E(Y²|X)] - E[E(Y|X)]² e quindi: E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86)». Slide 4: «Sempre per la definizione di varianza si ha: Var[E(Y|X)] = E[E(Y|X)]² - {E[E(Y|X)]}² e quindi: Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)». Sommandole, E[E(Y|X)]² si elide e resta E(Y²) - [E(Y)]² (88): «Riconoscendo nel termine destro della 88 la definizione di Var(Y) segue la tesi». Il passaggio E[E(Y²|X)] = E(Y²) è la proprietà E[E(X|Y)] = E(X) della lezione 02 (slide 15); il docente: «Il valore atteso del valore atteso ci consente di liberarci della condizionalità» (transcript [00:03:00]).
-**Opzione:** E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+**R:** Slide 3: «Per la definizione di varianza si ha: $\mathrm{Var}(Y\mid X) = E(Y^2\mid X) - [E(Y\mid X)]^2$. Calcolando il valore atteso di ambo i lati: $E[\mathrm{Var}(Y\mid X)] = E[E(Y^2\mid X)] - E[E(Y\mid X)]^2$ e quindi: $E[\mathrm{Var}(Y\mid X)] = E(Y^2) - E[E(Y\mid X)]^2$ (86)». Slide 4: «Sempre per la definizione di varianza si ha: $\mathrm{Var}[E(Y\mid X)] = E[E(Y\mid X)]^2 - \{E[E(Y\mid X)]\}^2$ e quindi: $\mathrm{Var}[E(Y\mid X)] = E[E(Y\mid X)]^2 - [E(Y)]^2$ (87)». Sommandole, $E[E(Y\mid X)]^2$ si elide e resta $E(Y^2) - [E(Y)]^2$ (88): «Riconoscendo nel termine destro della 88 la definizione di $\mathrm{Var}(Y)$ segue la tesi». Il passaggio $E[E(Y^2\mid X)] = E(Y^2)$ è la proprietà $E[E(X\mid Y)] = E(X)$ della lezione 02 (slide 15); il docente: «Il valore atteso del valore atteso ci consente di liberarci della condizionalità» (transcript [00:03:00]).
+**Opzione:** $E[\mathrm{Var}(Y\mid X)] = E(Y^2) - E[E(Y\mid X)]^2$ (86) e $\mathrm{Var}[E(Y\mid X)] = E[E(Y\mid X)]^2 - [E(Y)]^2$ (87)
 **Distrattori:**
-- Var[E(Y|X)] = E(Y²) - E[E(Y|X)]² (86) ed E[Var(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
-- ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
-- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+- $\mathrm{Var}[E(Y\mid X)] = E(Y^2) - E[E(Y\mid X)]^2$ (86) ed $E[\mathrm{Var}(Y\mid X)] = E[E(Y\mid X)]^2 - [E(Y)]^2$ (87)
+- $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$ e $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
+- $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}\}^{1/2}$, con $\hat{\sigma}_\varepsilon^2$ stimatore non distorto della varianza dell'errore della regressione
 
-**D:** ⚠️ A che cosa è pari la matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS}, non condizionata, nella Proposizione della slide 5 della lezione 26 (equazione 89)?
-**R:** Slide 5: «La matrice varianze-covarianze dello stimatore dei minimi quadrati 𝛃̂^{OLS} è pari a: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε² (89)». ⚠️ È la versione **non condizionata** della (73) della lezione 25, Var(𝛃̂^{OLS}|𝐱) = (𝐱′𝐱)^(-1)σ_ε²: il valore atteso resta su (𝐱′𝐱)^(-1), mentre σ_ε², costante, esce (slide 6). Il docente: «è pari al valore atteso della inversa di x trasposto x per la varianza dei residui» (transcript [00:04:24]–[00:04:36]): la slide ha σ_ε², la varianza dell'errore.
-**Opzione:** La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
+**D:** ⚠️ A che cosa è pari la matrice varianze-covarianze dello stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$, non condizionata, nella Proposizione della slide 5 della lezione 26 (equazione 89)?
+**R:** Slide 5: «La matrice varianze-covarianze dello stimatore dei minimi quadrati $\hat{\boldsymbol{\beta}}^{OLS}$ è pari a: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[(\mathbf{x}'\mathbf{x})^{-1}]\cdot\sigma_\varepsilon^2$ (89)». ⚠️ È la versione **non condizionata** della (73) della lezione 25, $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = (\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2$: il valore atteso resta su $(\mathbf{x}'\mathbf{x})^{-1}$, mentre $\sigma_\varepsilon^2$, costante, esce (slide 6). Il docente: «è pari al valore atteso della inversa di x trasposto x per la varianza dei residui» (transcript [00:04:24]–[00:04:36]): la slide ha $\sigma_\varepsilon^2$, la varianza dell'errore.
+**Opzione:** La matrice varianze-covarianze non condizionata di $\hat{\boldsymbol{\beta}}^{OLS}$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[(\mathbf{x}'\mathbf{x})^{-1}]\cdot\sigma_\varepsilon^2$
 **Distrattori:**
-- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[𝐱′𝐱]·σ_ε²
+- La matrice varianze-covarianze non condizionata di $\hat{\boldsymbol{\beta}}^{OLS}$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathbf{x}'\mathbf{x}]\cdot\sigma_\varepsilon^2$
 - Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
-- SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con σ̂_ε² stimatore non distorto della varianza dell'errore della regressione
+- $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}\}^{1/2}$, con $\hat{\sigma}_\varepsilon^2$ stimatore non distorto della varianza dell'errore della regressione
 
 **D:** ⚠️ Perché, nella dimostrazione della (89) (slide 5–6 della lezione 26), uno dei due addendi della Legge della Varianza Totale si annulla, e quale?
-**R:** Slide 5–6: «Applicando al caso di specie la Legge della Varianza Totale (cfr. equazione 85) si ha: Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] + Var[E(𝛃̂^{OLS}|𝐱)] ossia, ricordando che 𝛃̂^{OLS} è uno stimatore non distorto e, in particolare, che: E(𝛃̂^{OLS}|𝐱) = 𝛃 (cfr. equazione 72): Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] + Var(𝛃) = E[Var(𝛃̂^{OLS}|𝐱)] + 0 e quindi: Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)] (90)». Var(𝛃) = 0 perché 𝛃 è il vettore dei parametri, una costante (deduzione: la slide scrive solo «+ 0»). Il docente: «ricordando che lo stimatore è non distorto, quel valore atteso condizionato è proprio uguale a beta» (transcript [00:05:02]). ⚠️ Si annulla la **varianza del valore atteso** condizionato; resta il **valore atteso della varianza** condizionata.
-**Opzione:** Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
+**R:** Slide 5–6: «Applicando al caso di specie la Legge della Varianza Totale (cfr. equazione 85) si ha: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] + \mathrm{Var}[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$ ossia, ricordando che $\hat{\boldsymbol{\beta}}^{OLS}$ è uno stimatore non distorto e, in particolare, che: $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$ (cfr. equazione 72): $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] + \mathrm{Var}(\boldsymbol{\beta}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] + 0$ e quindi: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$ (90)». $\mathrm{Var}(\boldsymbol{\beta}) = 0$ perché $\boldsymbol{\beta}$ è il vettore dei parametri, una costante (deduzione: la slide scrive solo «+ 0»). Il docente: «ricordando che lo stimatore è non distorto, quel valore atteso condizionato è proprio uguale a beta» (transcript [00:05:02]). ⚠️ Si annulla la **varianza del valore atteso** condizionato; resta il **valore atteso della varianza** condizionata.
+**Opzione:** Perché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$, e $\mathrm{Var}(\boldsymbol{\beta}) = 0$: resta $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$
 **Distrattori:**
-- Perché 𝛃̂^{OLS} è non distorto, E[Var(𝛃̂^{OLS}|𝐱)] = 0: resta Var(𝛃̂^{OLS}) = Var[E(𝛃̂^{OLS}|𝐱)]
-- A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+- Perché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})] = 0$: resta $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = \mathrm{Var}[E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$
+- A $(\boldsymbol{\epsilon}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} 0$, cioè $\bar{y}\cdot\sum_{i=1}^n \epsilon_i^{OLS} \stackrel{?}{=} 0$, verificata perché la somma dei residui OLS è pari a zero
 - Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
 
 **D:** ⚠️ Nell'ultimo passaggio della dimostrazione della (89) (slide 6 della lezione 26), che cosa esce dal valore atteso, e perché?
-**R:** Slide 6: «sostituendo all'interno del valore atteso di cui al termine destro della 90, l'espressione della matrice varianze-covarianze di 𝛃̂^{OLS} condizionatamente a 𝐱 di cui all'equazione 73 si ottiene: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)σ_ε²] e, infine, osservando che σ_ε² è una costante e quindi può essere portata fuori dal valore atteso, si arriva a» la (89). Il docente: «dato che la varianza … è una costante si può portare fuori dal nostro calcolo del valore atteso» (transcript [00:05:48]). ⚠️ Esce σ_ε²; (𝐱′𝐱)^(-1) resta dentro il valore atteso. Nella lezione 25 erano invece le quantità in 𝐱 a uscire dal valore atteso condizionato, perché note condizionatamente a 𝐱 (slide 13 e 17 di quel deck).
-**Opzione:** σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
+**R:** Slide 6: «sostituendo all'interno del valore atteso di cui al termine destro della 90, l'espressione della matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{OLS}$ condizionatamente a $\mathbf{x}$ di cui all'equazione 73 si ottiene: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[(\mathbf{x}'\mathbf{x})^{-1}\sigma_\varepsilon^2]$ e, infine, osservando che $\sigma_\varepsilon^2$ è una costante e quindi può essere portata fuori dal valore atteso, si arriva a» la (89). Il docente: «dato che la varianza … è una costante si può portare fuori dal nostro calcolo del valore atteso» (transcript [00:05:48]). ⚠️ Esce $\sigma_\varepsilon^2$; $(\mathbf{x}'\mathbf{x})^{-1}$ resta dentro il valore atteso. Nella lezione 25 erano invece le quantità in $\mathbf{x}$ a uscire dal valore atteso condizionato, perché note condizionatamente a $\mathbf{x}$ (slide 13 e 17 di quel deck).
+**Opzione:** $\sigma_\varepsilon^2$, perché è una costante; $(\mathbf{x}'\mathbf{x})^{-1}$ resta dentro il valore atteso
 **Distrattori:**
-- (𝐱′𝐱)^(-1), perché è nota; σ_ε² resta dentro il valore atteso
-- La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+- $(\mathbf{x}'\mathbf{x})^{-1}$, perché è nota; $\sigma_\varepsilon^2$ resta dentro il valore atteso
+- La matrice di generazione dei residui, $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, e il fatto che è idempotente
 - Solo valori compresi tra 0 e 1
 
 **D:** ⚠️ Che cosa afferma il Teorema di Gauss-Markov 2 della slide 7 della lezione 26?
-**R:** Slide 7: «Teorema di Gauss-Markov 2. Sia 𝛃̂∗ uno stimatore lineare non distorto per il vettore dei parametri 𝛃 diverso dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la differenza tra la matrice varianze-covarianze di 𝛃̂∗ e quella di 𝛃̂^{OLS} è una matrice semi-definita positiva». Il docente: «la differenza tra le due matrici varianza covarianza è semidefinita positiva» (transcript [00:06:11]). ⚠️ La differenza è quella di 𝛃̂∗ **meno** quella di 𝛃̂^{OLS}, e le matrici sono **non condizionate**: nel Teorema di Gauss-Markov 1 (slide 19 della lezione 25) erano condizionate a 𝐱.
-**Opzione:** Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂∗ e quella di 𝛃̂^{OLS} è semi-definita positiva
+**R:** Slide 7: «Teorema di Gauss-Markov 2. Sia $\hat{\boldsymbol{\beta}}^{\ast}$ uno stimatore lineare non distorto per il vettore dei parametri $\boldsymbol{\beta}$ diverso dallo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$. Allora la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ è una matrice semi-definita positiva». Il docente: «la differenza tra le due matrici varianza covarianza è semidefinita positiva» (transcript [00:06:11]). ⚠️ La differenza è quella di $\hat{\boldsymbol{\beta}}^{\ast}$ **meno** quella di $\hat{\boldsymbol{\beta}}^{OLS}$, e le matrici sono **non condizionate**: nel Teorema di Gauss-Markov 1 (slide 19 della lezione 25) erano condizionate a $\mathbf{x}$.
+**Opzione:** Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{\ast}$ e quella di $\hat{\boldsymbol{\beta}}^{OLS}$ è semi-definita positiva
 **Distrattori:**
-- Se 𝛃̂∗ è uno stimatore lineare non distorto di 𝛃 diverso da 𝛃̂^{OLS}, la differenza tra la matrice varianze-covarianze di 𝛃̂^{OLS} e quella di 𝛃̂∗ è semi-definita positiva
-- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
-- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+- Se $\hat{\boldsymbol{\beta}}^{\ast}$ è uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso da $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra la matrice varianze-covarianze di $\hat{\boldsymbol{\beta}}^{OLS}$ e quella di $\hat{\boldsymbol{\beta}}^{\ast}$ è semi-definita positiva
+- Il rapporto tra la devianza spiegata e la somma totale dei quadrati: $R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (\hat{y}_i - \bar{y})^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra $\mathbf{y}$ e $\mathbf{x}$
 
 **D:** ⚠️ In che cosa differiscono il Teorema di Gauss-Markov 1 (lezione 25) e il Teorema di Gauss-Markov 2 (lezione 26), secondo le loro Note?
-**R:** Lezione 25, slide 28: il risultato del Teorema 1 indica che, «per 𝐱 fissato», 𝛃̂^{OLS} è il più efficiente tra gli stimatori lineari e non distorti. Lezione 26, slide 8: «Il risultato di cui al Teorema di Gauss-Markov 2 indica che, anche quando la matrice dei regressori 𝐱 è aleatoria (o, equivalentemente, stocastica), lo stimatore dei minimi quadrati ordinari, 𝛃̂^{OLS}, è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased). Per tale motivo si dice che esso è uno stimatore BLUE, ove BLUE è l'acronimo di Best Unbiased Linear Estimator, vale a dire il miglior stimatore lineare non distorto». ⚠️ Il Teorema 1 confronta le matrici varianze-covarianze **condizionate a 𝐱**, il 2 quelle **non condizionate**. Il docente: «anche quando la matrice dei regressori x è stocastica, lo stimatore dei minimi quadrati è sempre quello a varianza minima» (transcript [00:07:37]).
-**Opzione:** Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
+**R:** Lezione 25, slide 28: il risultato del Teorema 1 indica che, «per $\mathbf{x}$ fissato», $\hat{\boldsymbol{\beta}}^{OLS}$ è il più efficiente tra gli stimatori lineari e non distorti. Lezione 26, slide 8: «Il risultato di cui al Teorema di Gauss-Markov 2 indica che, anche quando la matrice dei regressori $\mathbf{x}$ è aleatoria (o, equivalentemente, stocastica), lo stimatore dei minimi quadrati ordinari, $\hat{\boldsymbol{\beta}}^{OLS}$, è quello più efficiente (i.e. a varianza minima) tra quelli lineari e non distorti (unbiased). Per tale motivo si dice che esso è uno stimatore BLUE, ove BLUE è l'acronimo di Best Unbiased Linear Estimator, vale a dire il miglior stimatore lineare non distorto». ⚠️ Il Teorema 1 confronta le matrici varianze-covarianze **condizionate a $\mathbf{x}$**, il 2 quelle **non condizionate**. Il docente: «anche quando la matrice dei regressori x è stocastica, lo stimatore dei minimi quadrati è sempre quello a varianza minima» (transcript [00:07:37]).
+**Opzione:** Il Teorema 1 vale per $\mathbf{x}$ fissato e confronta le matrici varianze-covarianze condizionate a $\mathbf{x}$; il Teorema 2 vale anche quando $\mathbf{x}$ è aleatoria e confronta quelle non condizionate
 **Distrattori:**
-- Il Teorema 1 vale anche quando 𝐱 è aleatoria e confronta le matrici varianze-covarianze non condizionate; il Teorema 2 vale per 𝐱 fissato e confronta quelle condizionate a 𝐱
-- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
+- Il Teorema 1 vale anche quando $\mathbf{x}$ è aleatoria e confronta le matrici varianze-covarianze non condizionate; il Teorema 2 vale per $\mathbf{x}$ fissato e confronta quelle condizionate a $\mathbf{x}$
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e la loro media campionaria: $\mathrm{TSS} = \sum_{i=1}^n (y_i - \bar{y})^2$
 - La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
 
 **D:** ⚠️ Come si dimostra il Teorema di Gauss-Markov 2 a partire dal Teorema 1, nella slide 7 della lezione 26?
-**R:** Slide 7: «Per il Teorema di Gauss-Markov 1 si ha che per ogni dato valore della matrice dei regressori 𝐱 e per ogni 𝛃̂∗ che sia uno stimatore lineare non distorto di 𝛃 diverso dallo stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}, la differenza tra Var(𝛃̂∗|𝐱) e Var(𝛃̂^{OLS}|𝐱) è una matrice semidefinita positiva, i.e.: Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱) (91). Poichè la diseguaglianza 91 vale per ogni valore della matrice 𝐱, essa vale anche rispetto alla media dei possibili valore di 𝐱, e quindi vale anche rispetto alla varianza non condizionata di 𝛃̂^{OLS}, tenuto conto dell'equazione 89». Il docente: «la varianza dello stimatore dei minimi quadrati condizionato a x è minore o uguale alla varianza dello stimatore beta star» (transcript [00:06:59]). ⚠️ Nella (91) la varianza **minore** è quella di 𝛃̂^{OLS}. La (89) conta perché la varianza non condizionata è il valore atteso di quella condizionata, la (90).
-**Opzione:** Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+**R:** Slide 7: «Per il Teorema di Gauss-Markov 1 si ha che per ogni dato valore della matrice dei regressori $\mathbf{x}$ e per ogni $\hat{\boldsymbol{\beta}}^{\ast}$ che sia uno stimatore lineare non distorto di $\boldsymbol{\beta}$ diverso dallo stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$, la differenza tra $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x})$ e $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$ è una matrice semidefinita positiva, i.e.: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) \leq \mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x})$ (91). Poichè la diseguaglianza 91 vale per ogni valore della matrice $\mathbf{x}$, essa vale anche rispetto alla media dei possibili valore di $\mathbf{x}$, e quindi vale anche rispetto alla varianza non condizionata di $\hat{\boldsymbol{\beta}}^{OLS}$, tenuto conto dell'equazione 89». Il docente: «la varianza dello stimatore dei minimi quadrati condizionato a x è minore o uguale alla varianza dello stimatore beta star» (transcript [00:06:59]). ⚠️ Nella (91) la varianza **minore** è quella di $\hat{\boldsymbol{\beta}}^{OLS}$. La (89) conta perché la varianza non condizionata è il valore atteso di quella condizionata, la (90).
+**Opzione:** Dalla (91), $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) \leq \mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x})$, che vale per ogni valore di $\mathbf{x}$ e quindi anche rispetto alla media dei possibili valori di $\mathbf{x}$, cioè per la varianza non condizionata
 **Distrattori:**
-- Dalla (91), Var(𝛃̂∗|𝐱) ≤ Var(𝛃̂^{OLS}|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
-- TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
-- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+- Dalla (91), $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x}) \leq \mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})$, che vale per ogni valore di $\mathbf{x}$ e quindi anche rispetto alla media dei possibili valori di $\mathbf{x}$, cioè per la varianza non condizionata
+- $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$, cioè $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2 + \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra $\mathbf{y}$ e $\mathbf{x}$
 
 **D:** ⚠️ In quali casi, secondo la slide 9 della lezione 26, i Teoremi di Gauss-Markov 1 e 2 dimostrano che gli stimatori dei minimi quadrati ordinari godono di proprietà molto apprezzate in statistica?
-**R:** Slide 9: «I Teoremi di Gauss-Markov 1 e 2 enunciati in questa lezione e nella precedente sono importanti perchè dimostrano che gli stimatori dei minimi quadrati ordinari godono di alcune proprietà molto apprezzate in statistica sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria». Il docente: «sia quando la matrice dei regressori x sia deterministica, sia quando sia aleatoria, il famoso blue, la proprietà blue» (transcript [00:08:25]). ⚠️ Deterministica è il caso del Teorema 1, con 𝐱 fissato; aleatoria quello del Teorema 2 (deduzione dalle Note delle slide 28 della lezione 25 e 8 della lezione 26).
-**Opzione:** Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
+**R:** Slide 9: «I Teoremi di Gauss-Markov 1 e 2 enunciati in questa lezione e nella precedente sono importanti perchè dimostrano che gli stimatori dei minimi quadrati ordinari godono di alcune proprietà molto apprezzate in statistica sia quando la matrice dei regressori $\mathbf{x}$ è deterministica sia quando è aleatoria». Il docente: «sia quando la matrice dei regressori x sia deterministica, sia quando sia aleatoria, il famoso blue, la proprietà blue» (transcript [00:08:25]). ⚠️ Deterministica è il caso del Teorema 1, con $\mathbf{x}$ fissato; aleatoria quello del Teorema 2 (deduzione dalle Note delle slide 28 della lezione 25 e 8 della lezione 26).
+**Opzione:** Sia quando la matrice dei regressori $\mathbf{x}$ è deterministica sia quando è aleatoria
 **Distrattori:**
-- Solo quando la matrice dei regressori 𝐱 è deterministica, non quando è aleatoria
-- σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
-- Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+- Solo quando la matrice dei regressori $\mathbf{x}$ è deterministica, non quando è aleatoria
+- $\sigma_\varepsilon^2$, perché è una costante; $(\mathbf{x}'\mathbf{x})^{-1}$ resta dentro il valore atteso
+- Quanta percentuale della devianza totale della variabile dipendente $\mathbf{y}$ è spiegata dal modello stimato
 
-**D:** ⚠️ Quali due proprietà hanno gli stimatori OLS tra tutti gli stimatori lineari del vettore 𝛃, secondo la slide 9 della lezione 26, e che cosa significano?
-**R:** Slide 9: «Infatti, tra tutti gli stimatori lineari del vettore 𝛃 dei coefficienti del modello lineare, gli stimatori OLS sono corretti in media - cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃 medesimo - e, in più, hanno varianza minima, cioè la loro distribuzione di probabilità campionaria è quella che presenta la minore dispersione attorno al vero valore di 𝛃. In altri termini, i Teoremi di Gauss-Markov affermano che il soddisfacimento delle ipotesi OLS mantiene la distribuzione campionaria la più «stretta» possibile per stime non distorte di 𝛃». Il docente: «sono corretti in media, cioè la media delle stime di beta è esattamente beta e in più hanno la varianza minima» (transcript [00:08:51]). ⚠️ «Corretti in media» riguarda la **media** delle stime, «varianza minima» la **dispersione** della distribuzione campionaria.
-**Opzione:** Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
+**D:** ⚠️ Quali due proprietà hanno gli stimatori OLS tra tutti gli stimatori lineari del vettore $\boldsymbol{\beta}$, secondo la slide 9 della lezione 26, e che cosa significano?
+**R:** Slide 9: «Infatti, tra tutti gli stimatori lineari del vettore $\boldsymbol{\beta}$ dei coefficienti del modello lineare, gli stimatori OLS sono corretti in media - cioè la media delle stime di $\boldsymbol{\beta}$ che essi producono è esattamente pari a $\boldsymbol{\beta}$ medesimo - e, in più, hanno varianza minima, cioè la loro distribuzione di probabilità campionaria è quella che presenta la minore dispersione attorno al vero valore di $\boldsymbol{\beta}$. In altri termini, i Teoremi di Gauss-Markov affermano che il soddisfacimento delle ipotesi OLS mantiene la distribuzione campionaria la più «stretta» possibile per stime non distorte di $\boldsymbol{\beta}$». Il docente: «sono corretti in media, cioè la media delle stime di beta è esattamente beta e in più hanno la varianza minima» (transcript [00:08:51]). ⚠️ «Corretti in media» riguarda la **media** delle stime, «varianza minima» la **dispersione** della distribuzione campionaria.
+**Opzione:** Sono corretti in media, cioè la media delle stime di $\boldsymbol{\beta}$ che essi producono è esattamente pari a $\boldsymbol{\beta}$, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di $\boldsymbol{\beta}$
 **Distrattori:**
-- Sono corretti in media, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃, e hanno varianza minima, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃
-- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
-- Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+- Sono corretti in media, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di $\boldsymbol{\beta}$, e hanno varianza minima, cioè la media delle stime di $\boldsymbol{\beta}$ che essi producono è esattamente pari a $\boldsymbol{\beta}$
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente $\mathbf{y}$ e la media campionaria delle osservazioni della medesima variabile: $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$
+- Un $R^2$ molto basso, pari a 0,006815, sebbene $y$ abbia una dipendenza funzionale di tipo parabolico da $x$
 
 **D:** ⚠️ Come si definisce la somma totale dei quadrati, TSS, nella Definizione della slide 10 della lezione 26 (equazione 92)?
-**R:** Slide 10: «Si definisce somma totale dei quadrati o TSS (dall'inglese Total Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)² (92)». Il docente: «la somma dei quadrati delle differenze, o scarti tra le osservazioni campionarie, differenze tra cosa? Tra la variabile y e la sua media campionaria» (transcript [00:09:41]–[00:10:01]). ⚠️ Nella TSS ci sono le **osservazioni** y_i; i **valori stimati** ŷ_i stanno nella devianza spiegata, la (94). È la chiave della domanda 3 del test.
-**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
+**R:** Slide 10: «Si definisce somma totale dei quadrati o TSS (dall'inglese Total Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e la loro media campionaria: $\mathrm{TSS} = \sum_{i=1}^n (y_i - \bar{y})^2$ (92)». Il docente: «la somma dei quadrati delle differenze, o scarti tra le osservazioni campionarie, differenze tra cosa? Tra la variabile y e la sua media campionaria» (transcript [00:09:41]–[00:10:01]). ⚠️ Nella TSS ci sono le **osservazioni** $y_i$; i **valori stimati** $\hat{y}_i$ stanno nella devianza spiegata, la (94). È la chiave della domanda 3 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e la loro media campionaria: $\mathrm{TSS} = \sum_{i=1}^n (y_i - \bar{y})^2$
 **Distrattori:**
-- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni: TSS = ∑_{i=1}^n (ŷ_i - ȳ)²
-- Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
-- Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente $\mathbf{y}$ e la media campionaria delle osservazioni: $\mathrm{TSS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$
+- Il Teorema 1 vale per $\mathbf{x}$ fissato e confronta le matrici varianze-covarianze condizionate a $\mathbf{x}$; il Teorema 2 vale anche quando $\mathbf{x}$ è aleatoria e confronta quelle non condizionate
+- Perché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$, e $\mathrm{Var}(\boldsymbol{\beta}) = 0$: resta $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$
 
 **D:** ⚠️ Come si definisce la devianza spiegata, ESS, nella Definizione della slide 10 della lezione 26 (equazione 94)?
-**R:** Slide 10: «Si definisce devianza spiegata o ESS (dall'inglese Explained Sum of Squares) la somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)² (94) ove ȳ è appunto la media campionaria di 𝐲 (cfr. equazione 93)». ⚠️ Il docente, leggendo la definizione, omette «stimati»: «la somma dei quadrati delle differenze tra i valori della variabile dipendente y e la sua media campionaria» (transcript [00:10:14]), che è la definizione della TSS; poi precisa: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Vale la slide. È la chiave della domanda 4 del test.
-**Opzione:** La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
+**R:** Slide 10: «Si definisce devianza spiegata o ESS (dall'inglese Explained Sum of Squares) la somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente $\mathbf{y}$ e la media campionaria delle osservazioni della medesima variabile: $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$ (94) ove $\bar{y}$ è appunto la media campionaria di $\mathbf{y}$ (cfr. equazione 93)». ⚠️ Il docente, leggendo la definizione, omette «stimati»: «la somma dei quadrati delle differenze tra i valori della variabile dipendente y e la sua media campionaria» (transcript [00:10:14]), che è la definizione della TSS; poi precisa: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Vale la slide. È la chiave della domanda 4 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente $\mathbf{y}$ e la media campionaria delle osservazioni della medesima variabile: $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$
 **Distrattori:**
-- La somma dei quadrati delle differenze o scarti tra i valori della variabile dipendente 𝐲 e la sua media campionaria: ESS = ∑_{i=1}^n (y_i - ȳ)²
-- Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
-- Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
+- La somma dei quadrati delle differenze o scarti tra i valori della variabile dipendente $\mathbf{y}$ e la sua media campionaria: $\mathrm{ESS} = \sum_{i=1}^n (y_i - \bar{y})^2$
+- Dalla (91), $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) \leq \mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x})$, che vale per ogni valore di $\mathbf{x}$ e quindi anche rispetto alla media dei possibili valori di $\mathbf{x}$, cioè per la varianza non condizionata
+- Sono corretti in media, cioè la media delle stime di $\boldsymbol{\beta}$ che essi producono è esattamente pari a $\boldsymbol{\beta}$, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di $\boldsymbol{\beta}$
 
-**D:** ⚠️ Come scrive la slide 10 della lezione 26 la media campionaria ȳ (equazione 93), e perché conta per il test?
-**R:** Slide 10: «ove: ȳ = ∑_{i=1}^n y_i²/n (93)», con il **quadrato** su y_i. È un refuso della slide: la media campionaria è ∑_{i=1}^n y_i/n, come nella (45) della lezione 24, (1/n)∑_{i=1}^n y_i; il docente dice solo «dove appunto y' è la media campionaria» (transcript [00:10:08]). ⚠️ Nel test, le opzioni D delle domande 3 e 4, «TSS = Si(yi )2/n» ed «ESS = Si(yi )2/n», ripetono la (93) com'è stampata, ∑_i(y_i)²/n: è la formula della media, con il refuso, data come TSS o ESS. Un oggetto scambiato, non una formula inventata.
+**D:** ⚠️ Come scrive la slide 10 della lezione 26 la media campionaria $\bar{y}$ (equazione 93), e perché conta per il test?
+**R:** Slide 10: «ove: $\bar{y} = \frac{\sum_{i=1}^n y_i^2}{n}$ (93)», con il **quadrato** su $y_i$. È un refuso della slide: la media campionaria è $\frac{\sum_{i=1}^n y_i}{n}$, come nella (45) della lezione 24, $\frac{1}{n}\sum_{i=1}^n y_i$; il docente dice solo «dove appunto y' è la media campionaria» (transcript [00:10:08]). ⚠️ Nel test, le opzioni D delle domande 3 e 4, «TSS = Si(yi )2/n» ed «ESS = Si(yi )2/n», ripetono la (93) com'è stampata, $\frac{\sum_i(y_i)^2}{n}$: è la formula della media, con il refuso, data come TSS o ESS. Un oggetto scambiato, non una formula inventata.
 
 **D:** ⚠️ Come si definisce la somma dei quadrati dei residui, RSS, nella Definizione della slide 11 della lezione 26 (equazione 96)?
-**R:** Slide 11: «Si definisce somma dei quadrati dei residui o RSS (dall'inglese Residual Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)² (96)». Il docente: «la differenza tra le osservazioni campionari e i valori stimati» (transcript [00:11:17]). ⚠️ È la somma dei **quadrati** dei residui: non va confusa con la somma dei residui OLS, ∑_{i=1}^n ϵ_i^{OLS}, che è zero (equazione 47 della lezione 24). È la chiave della domanda 5 del test.
-**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
+**R:** Slide 11: «Si definisce somma dei quadrati dei residui o RSS (dall'inglese Residual Sum of Squares) la somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e i corrispondenti valori stimati: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2$ (96)». Il docente: «la differenza tra le osservazioni campionari e i valori stimati» (transcript [00:11:17]). ⚠️ È la somma dei **quadrati** dei residui: non va confusa con la somma dei residui OLS, $\sum_{i=1}^n \epsilon_i^{OLS}$, che è zero (equazione 47 della lezione 24). È la chiave della domanda 5 del test.
+**Opzione:** La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e i corrispondenti valori stimati: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2$
 **Distrattori:**
-- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: RSS = ∑_{i=1}^n (y_i - ȳ)²
-- Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
-- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e la loro media campionaria: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \bar{y})^2$
+- Sia quando la matrice dei regressori $\mathbf{x}$ è deterministica sia quando è aleatoria
+- Da $R^2 = \frac{\mathrm{Var}(\hat{y}^{OLS})}{\mathrm{Var}(y)}$, con $\mathrm{Var}(\hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x) = (\hat{\beta}_1^{OLS})^2\mathrm{Var}(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
 
 **D:** ⚠️ Che cosa indicano le sigle ESS e RSS nella lezione 26, e a quale nome italiano corrisponde ciascuna?
-**R:** Slide 10–11: ESS sta per «Explained Sum of Squares», la **devianza spiegata** (94); RSS per «Residual Sum of Squares», la **somma dei quadrati dei residui** (96); TSS per «Total Sum of Squares», la somma totale dei quadrati (92). Il test usa le sigle con lo stesso significato: «La devianza spiegata (ESS)» (domanda 4) e «La somma dei quadrati dei residui (RSS)» (domanda 5). ⚠️ Il docente, subito dopo aver enunciato TSS = ESS + RSS, dice «La devianza spiegata è la somma dei quadrati dei residui» (transcript [00:12:21]): sono invece le due quantità diverse che si sommano nella (98). Integrazione, non dai materiali del corso: in alcuni testi ESS è la «error sum of squares» e RSS la «regression sum of squares», cioè il contrario; nel corso vale la slide.
+**R:** Slide 10–11: ESS sta per «Explained Sum of Squares», la **devianza spiegata** (94); RSS per «Residual Sum of Squares», la **somma dei quadrati dei residui** (96); TSS per «Total Sum of Squares», la somma totale dei quadrati (92). Il test usa le sigle con lo stesso significato: «La devianza spiegata (ESS)» (domanda 4) e «La somma dei quadrati dei residui (RSS)» (domanda 5). ⚠️ Il docente, subito dopo aver enunciato $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$, dice «La devianza spiegata è la somma dei quadrati dei residui» (transcript [00:12:21]): sono invece le due quantità diverse che si sommano nella (98). Integrazione, non dai materiali del corso: in alcuni testi ESS è la «error sum of squares» e RSS la «regression sum of squares», cioè il contrario; nel corso vale la slide.
 **Opzione:** ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
 **Distrattori:**
 - ESS (Explained Sum of Squares) è la somma dei quadrati dei residui; RSS (Residual Sum of Squares) è la devianza spiegata
-- L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
-- Il Teorema 1 vale per 𝐱 fissato e confronta le matrici varianze-covarianze condizionate a 𝐱; il Teorema 2 vale anche quando 𝐱 è aleatoria e confronta quelle non condizionate
+- L'elemento $i$-esimo della diagonale principale della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$
+- Il Teorema 1 vale per $\mathbf{x}$ fissato e confronta le matrici varianze-covarianze condizionate a $\mathbf{x}$; il Teorema 2 vale anche quando $\mathbf{x}$ è aleatoria e confronta quelle non condizionate
 
 **D:** ⚠️ Come si specificano la devianza spiegata e la somma dei quadrati dei residui del modello lineare stimato col metodo dei minimi quadrati ordinari, nelle equazioni 95 e 97 della lezione 26?
-**R:** Slide 11: «Nel seguito, tipicamente, si farà riferimento alla devianza spiegata dal modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 94 assumerà tipicamente la seguente specificazione: ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² (95)». Slide 12: «Nel seguito, tipicamente, si farà riferimento alla somma dei quadrati dei residui del modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 96 assumerà tipicamente la seguente specificazione: RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})² (97)». Il docente: «sostituiremo ai valori stimati di y i valori stimati dei minimi quadrati, y cappello OLS» (transcript [00:11:04]). ⚠️ Cambia solo il valore stimato, ŷ_i che diventa ŷ_i^{OLS}: nella ESS il fit si confronta con la media ȳ, nella RSS con l'osservazione y_i.
-**Opzione:** ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+**R:** Slide 11: «Nel seguito, tipicamente, si farà riferimento alla devianza spiegata dal modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 94 assumerà tipicamente la seguente specificazione: $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$ (95)». Slide 12: «Nel seguito, tipicamente, si farà riferimento alla somma dei quadrati dei residui del modello lineare stimato col metodo dei minimi quadrati ordinari, e quindi la 96 assumerà tipicamente la seguente specificazione: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$ (97)». Il docente: «sostituiremo ai valori stimati di y i valori stimati dei minimi quadrati, y cappello OLS» (transcript [00:11:04]). ⚠️ Cambia solo il valore stimato, $\hat{y}_i$ che diventa $\hat{y}_i^{OLS}$: nella ESS il fit si confronta con la media $\bar{y}$, nella RSS con l'osservazione $y_i$.
+**Opzione:** $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$ e $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
 **Distrattori:**
-- ESS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})² e RSS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)²
-- La matrice varianze-covarianze non condizionata di 𝛃̂^{OLS}: Var(𝛃̂^{OLS}) = E[(𝐱′𝐱)^(-1)]·σ_ε²
-- Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+- $\mathrm{ESS} = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$ e $\mathrm{RSS} = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$
+- La matrice varianze-covarianze non condizionata di $\hat{\boldsymbol{\beta}}^{OLS}$: $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[(\mathbf{x}'\mathbf{x})^{-1}]\cdot\sigma_\varepsilon^2$
+- $\mathrm{Var}(Y) = E[\mathrm{Var}(Y\mid X)] + \mathrm{Var}[E(Y\mid X)]$
 
 **D:** ⚠️ Quale uguaglianza fra TSS, ESS e RSS enuncia la Proposizione della slide 12 della lezione 26, e come si scrive con le sommatorie?
-**R:** Slide 12: «Vale la seguente uguaglianza: TSS = ESS + RSS (98) o, equivalentemente: ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})² (99)». Il docente: «La total sum of squares non è altro che data dalla ESS e dagli sommati agli RSS, cioè dal valore spiegato e dai somma dei residui» (sic) (transcript [00:12:02]). ⚠️ La slide la enuncia senza condizioni, ma la (99) è scritta con il fit OLS, ŷ_i^{OLS}, e la dimostrazione si chiude con la somma nulla dei residui OLS (equazione 47), che nella lezione 24 discende dalla colonna di soli 1 della matrice 𝐱, cioè dalla costante del modello (deduzione).
-**Opzione:** TSS = ESS + RSS, cioè ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
+**R:** Slide 12: «Vale la seguente uguaglianza: $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$ (98) o, equivalentemente: $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2 + \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$ (99)». Il docente: «La total sum of squares non è altro che data dalla ESS e dagli sommati agli RSS, cioè dal valore spiegato e dai somma dei residui» (sic) (transcript [00:12:02]). ⚠️ La slide la enuncia senza condizioni, ma la (99) è scritta con il fit OLS, $\hat{y}_i^{OLS}$, e la dimostrazione si chiude con la somma nulla dei residui OLS (equazione 47), che nella lezione 24 discende dalla colonna di soli 1 della matrice $\mathbf{x}$, cioè dalla costante del modello (deduzione).
+**Opzione:** $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$, cioè $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2 + \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
 **Distrattori:**
-- ESS = TSS + RSS, cioè ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² = ∑_{i=1}^n (y_i - ȳ)² + ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
-- Var(Y) = E[Var(Y|X)] + Var[E(Y|X)]
+- $\mathrm{ESS} = \mathrm{TSS} + \mathrm{RSS}$, cioè $\sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2 = \sum_{i=1}^n (y_i - \bar{y})^2 + \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
+- $\mathrm{Var}(Y) = E[\mathrm{Var}(Y\mid X)] + \mathrm{Var}[E(Y\mid X)]$
 
-**D:** ⚠️ Che cosa denota 𝐲̄ nelle forme matriciali (100)–(102) di TSS, ESS e RSS, nella slide 13 della lezione 26?
-**R:** Slide 13: «Si riscrivono le equazioni 92, 95 e 97 in notazione matriciale, i.e. rispettivamente come: TSS = (𝐲 - 𝐲̄)′(𝐲 - 𝐲̄) (100), ESS = (𝐲̂^{OLS} - 𝐲̄)′(𝐲̂^{OLS} - 𝐲̄) (101), RSS = (𝐲 - 𝐲̂^{OLS})′(𝐲 - 𝐲̂^{OLS}) (102) in ciascuna delle quali 𝐲̄ denota il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲». Il docente: «il vettore N per 1 in cui tutti gli elementi sono pari alla media campionaria» (transcript [00:13:15]–[00:13:43]). ⚠️ Non è il vettore 𝟏 della (46) della lezione 24, i cui elementi «sono tutti pari a 1»: 𝐲̄ ne è il multiplo ȳ·𝟏 (deduzione).
-**Opzione:** Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
+**D:** ⚠️ Che cosa denota $\bar{\mathbf{y}}$ nelle forme matriciali (100)–(102) di TSS, ESS e RSS, nella slide 13 della lezione 26?
+**R:** Slide 13: «Si riscrivono le equazioni 92, 95 e 97 in notazione matriciale, i.e. rispettivamente come: $\mathrm{TSS} = (\mathbf{y} - \bar{\mathbf{y}})'(\mathbf{y} - \bar{\mathbf{y}})$ (100), $\mathrm{ESS} = (\hat{\mathbf{y}}^{OLS} - \bar{\mathbf{y}})'(\hat{\mathbf{y}}^{OLS} - \bar{\mathbf{y}})$ (101), $\mathrm{RSS} = (\mathbf{y} - \hat{\mathbf{y}}^{OLS})'(\mathbf{y} - \hat{\mathbf{y}}^{OLS})$ (102) in ciascuna delle quali $\bar{\mathbf{y}}$ denota il vettore $n \times 1$ in cui tutti gli elementi sono pari alla media campionaria di $\mathbf{y}$». Il docente: «il vettore N per 1 in cui tutti gli elementi sono pari alla media campionaria» (transcript [00:13:15]–[00:13:43]). ⚠️ Non è il vettore $\mathbf{1}$ della (46) della lezione 24, i cui elementi «sono tutti pari a 1»: $\bar{\mathbf{y}}$ ne è il multiplo $\bar{y}\cdot\mathbf{1}$ (deduzione).
+**Opzione:** Il vettore $n \times 1$ in cui tutti gli elementi sono pari alla media campionaria di $\mathbf{y}$
 **Distrattori:**
-- Il vettore n × 1 in cui tutti gli elementi sono pari a 1
-- Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
-- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+- Il vettore $n \times 1$ in cui tutti gli elementi sono pari a 1
+- Per $i = 1, \ldots, m$: $\beta_i$ è la $i$-esima componente del vettore dei parametri del modello lineare $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$
+- Da $R^2 = \frac{\mathrm{Var}(\hat{y}^{OLS})}{\mathrm{Var}(y)}$, con $\mathrm{Var}(\hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x) = (\hat{\beta}_1^{OLS})^2\mathrm{Var}(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
 
-**D:** ⚠️ Quale matrice riconosce la slide 15 della lezione 26 nella dimostrazione di TSS = ESS + RSS, e quale sua proprietà usa?
-**R:** Slide 15: «mettendo in evidenza 𝐲′ nell'ultimo addendo del termine destro: […] + 𝐲′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲 riconoscendo in (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′) la matrice di generazione dei residui e ricordando che si tratta di una matrice idempotente: […] + 𝐲′(𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′)𝐲». È la M della (57) della lezione 24. Il docente: «riconoscendo quindi nella matrice identità meno X che moltiplica l'inverso di trasposto X, X, la matrice di generazione dei residui. E ricordando che si tratta di una matrice idempotente» (transcript [00:15:40]–[00:15:59]). ⚠️ Non è la matrice di proiezione P := 𝐱(𝐱′𝐱)^(-1)𝐱′, anch'essa idempotente ma senza 𝐈_n. L'addendo viene da (𝛜^{OLS})′𝛜^{OLS}, con 𝛜^{OLS} = 𝐲 - 𝐱𝛃̂^{OLS} e 𝛃̂^{OLS} esplicitato con la (40) (slide 14).
-**Opzione:** La matrice di generazione dei residui, (𝐈_n - 𝐱(𝐱′𝐱)^(-1)𝐱′), e il fatto che è idempotente
+**D:** ⚠️ Quale matrice riconosce la slide 15 della lezione 26 nella dimostrazione di $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$, e quale sua proprietà usa?
+**R:** Slide 15: «mettendo in evidenza $\mathbf{y}'$ nell'ultimo addendo del termine destro: […] $+ \mathbf{y}'(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\mathbf{y}$ riconoscendo in $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$ la matrice di generazione dei residui e ricordando che si tratta di una matrice idempotente: […] $+ \mathbf{y}'(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')\mathbf{y}$». È la $M$ della (57) della lezione 24. Il docente: «riconoscendo quindi nella matrice identità meno X che moltiplica l'inverso di trasposto X, X, la matrice di generazione dei residui. E ricordando che si tratta di una matrice idempotente» (transcript [00:15:40]–[00:15:59]). ⚠️ Non è la matrice di proiezione $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, anch'essa idempotente ma senza $\mathbf{I}_n$. L'addendo viene da $(\boldsymbol{\epsilon}^{OLS})'\boldsymbol{\epsilon}^{OLS}$, con $\boldsymbol{\epsilon}^{OLS} = \mathbf{y} - \mathbf{x}\hat{\boldsymbol{\beta}}^{OLS}$ e $\hat{\boldsymbol{\beta}}^{OLS}$ esplicitato con la (40) (slide 14).
+**Opzione:** La matrice di generazione dei residui, $(\mathbf{I}_n - \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}')$, e il fatto che è idempotente
 **Distrattori:**
-- La matrice di proiezione OLS, 𝐱(𝐱′𝐱)^(-1)𝐱′, e il fatto che è idempotente
-- Perché 𝛃̂^{OLS} è non distorto, E(𝛃̂^{OLS}|𝐱) = 𝛃, e Var(𝛃) = 0: resta Var(𝛃̂^{OLS}) = E[Var(𝛃̂^{OLS}|𝐱)]
-- rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+- La matrice di proiezione OLS, $\mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, e il fatto che è idempotente
+- Perché $\hat{\boldsymbol{\beta}}^{OLS}$ è non distorto, $E(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) = \boldsymbol{\beta}$, e $\mathrm{Var}(\boldsymbol{\beta}) = 0$: resta $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}) = E[\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x})]$
+- $\mathrm{rendNASD} = 0{,}00171 + 1{,}1\mathrm{rendSP}$, con un $R^2$ molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
 
-**D:** ⚠️ A quale uguaglianza si riduce la tesi TSS = ESS + RSS alla fine della dimostrazione (slide 17–18 della lezione 26), e perché è verificata?
-**R:** Slide 17: «semplificando ancora: 𝐲′𝐲̄ ≟ (𝐲̂^{OLS})′𝐲̄ ricordando che 𝐲 = 𝐲̂^{OLS} + 𝛜^{OLS}: (𝐲̂^{OLS} + 𝛜^{OLS})′𝐲̄ ≟ (𝐲̂^{OLS})′𝐲̄». Slide 18: «e quindi, semplificando: (𝛜^{OLS})′𝐲̄ ≟ 0 ossia, abbandonando la notazione matriciale: ∑_{i=1}^n ϵ_i^{OLS}·ȳ ≟ 0 mettendo in evidenza ȳ: ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0. La tesi segue ricordando che la somma dei residui OLS è pari a zero (cfr. equazione 47) e osservando che conseguentemente anche la quantità ȳ·∑_{i=1}^n ϵ_i è pari a zero». ⚠️ Il docente dice «gli stimatori ls trasposti per il dato medio sono uguali a 0» e poi «la sommatoria … degli errori OLS per il dato medio» (transcript [00:18:35]–[00:19:03]): la slide ha i **residui** OLS, non il fit né gli errori. Il prodotto è zero perché è zero la somma dei residui, non ȳ.
-**Opzione:** A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+**D:** ⚠️ A quale uguaglianza si riduce la tesi $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$ alla fine della dimostrazione (slide 17–18 della lezione 26), e perché è verificata?
+**R:** Slide 17: «semplificando ancora: $\mathbf{y}'\bar{\mathbf{y}} \stackrel{?}{=} (\hat{\mathbf{y}}^{OLS})'\bar{\mathbf{y}}$ ricordando che $\mathbf{y} = \hat{\mathbf{y}}^{OLS} + \boldsymbol{\epsilon}^{OLS}$: $(\hat{\mathbf{y}}^{OLS} + \boldsymbol{\epsilon}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} (\hat{\mathbf{y}}^{OLS})'\bar{\mathbf{y}}$». Slide 18: «e quindi, semplificando: $(\boldsymbol{\epsilon}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} 0$ ossia, abbandonando la notazione matriciale: $\sum_{i=1}^n \epsilon_i^{OLS}\cdot\bar{y} \stackrel{?}{=} 0$ mettendo in evidenza $\bar{y}$: $\bar{y}\cdot\sum_{i=1}^n \epsilon_i^{OLS} \stackrel{?}{=} 0$. La tesi segue ricordando che la somma dei residui OLS è pari a zero (cfr. equazione 47) e osservando che conseguentemente anche la quantità $\bar{y}\cdot\sum_{i=1}^n \epsilon_i$ è pari a zero». ⚠️ Il docente dice «gli stimatori ls trasposti per il dato medio sono uguali a 0» e poi «la sommatoria … degli errori OLS per il dato medio» (transcript [00:18:35]–[00:19:03]): la slide ha i **residui** OLS, non il fit né gli errori. Il prodotto è zero perché è zero la somma dei residui, non $\bar{y}$.
+**Opzione:** A $(\boldsymbol{\epsilon}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} 0$, cioè $\bar{y}\cdot\sum_{i=1}^n \epsilon_i^{OLS} \stackrel{?}{=} 0$, verificata perché la somma dei residui OLS è pari a zero
 **Distrattori:**
-- A (𝐲̂^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ŷ_i^{OLS} ≟ 0, verificata perché la somma dei valori stimati OLS è pari a zero
-- Quello in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
+- A $(\hat{\mathbf{y}}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} 0$, cioè $\bar{y}\cdot\sum_{i=1}^n \hat{y}_i^{OLS} \stackrel{?}{=} 0$, verificata perché la somma dei valori stimati OLS è pari a zero
+- Quello in cui la matrice dei regressori $\mathbf{x}$ ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
 
-**D:** ⚠️ Come si definisce il coefficiente di determinazione R², nella Definizione della slide 19 della lezione 26 (equazione 103)?
-**R:** Slide 19: «Si definisce coefficiente di determinazione e si denota con R² il rapporto tra la devianza spiegata e la somma totale dei quadrati, i.e. la seguente quantità: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)² (103)». Nella Nota, per il modello stimato col metodo dei minimi quadrati ordinari, «la 103 assumerà tipicamente la seguente specificazione: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)²/∑_{i=1}^n (y_i - ȳ)² (104)». Il docente: «il rapporto tra la devianza spiegata, cioè l'ESS, e la somma dei totali dei quadrati TSS» (transcript [00:19:31]). ⚠️ Al numeratore c'è la devianza **spiegata**, ESS, non la somma dei quadrati dei residui, RSS.
-**Opzione:** Il rapporto tra la devianza spiegata e la somma totale dei quadrati: R² = ESS/TSS = ∑_{i=1}^n (ŷ_i - ȳ)²/∑_{i=1}^n (y_i - ȳ)²
+**D:** ⚠️ Come si definisce il coefficiente di determinazione $R^2$, nella Definizione della slide 19 della lezione 26 (equazione 103)?
+**R:** Slide 19: «Si definisce coefficiente di determinazione e si denota con $R^2$ il rapporto tra la devianza spiegata e la somma totale dei quadrati, i.e. la seguente quantità: $R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (\hat{y}_i - \bar{y})^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$ (103)». Nella Nota, per il modello stimato col metodo dei minimi quadrati ordinari, «la 103 assumerà tipicamente la seguente specificazione: $R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$ (104)». Il docente: «il rapporto tra la devianza spiegata, cioè l'ESS, e la somma dei totali dei quadrati TSS» (transcript [00:19:31]). ⚠️ Al numeratore c'è la devianza **spiegata**, ESS, non la somma dei quadrati dei residui, RSS.
+**Opzione:** Il rapporto tra la devianza spiegata e la somma totale dei quadrati: $R^2 = \frac{\mathrm{ESS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (\hat{y}_i - \bar{y})^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$
 **Distrattori:**
-- Il rapporto tra la somma dei quadrati dei residui e la somma totale dei quadrati: R² = RSS/TSS = ∑_{i=1}^n (y_i - ŷ_i)²/∑_{i=1}^n (y_i - ȳ)²
-- σ_ε², perché è una costante; (𝐱′𝐱)^(-1) resta dentro il valore atteso
-- Dalla (91), Var(𝛃̂^{OLS}|𝐱) ≤ Var(𝛃̂∗|𝐱), che vale per ogni valore di 𝐱 e quindi anche rispetto alla media dei possibili valori di 𝐱, cioè per la varianza non condizionata
+- Il rapporto tra la somma dei quadrati dei residui e la somma totale dei quadrati: $R^2 = \frac{\mathrm{RSS}}{\mathrm{TSS}} = \frac{\sum_{i=1}^n (y_i - \hat{y}_i)^2}{\sum_{i=1}^n (y_i - \bar{y})^2}$
+- $\sigma_\varepsilon^2$, perché è una costante; $(\mathbf{x}'\mathbf{x})^{-1}$ resta dentro il valore atteso
+- Dalla (91), $\mathrm{Var}(\hat{\boldsymbol{\beta}}^{OLS}\mid\mathbf{x}) \leq \mathrm{Var}(\hat{\boldsymbol{\beta}}^{\ast}\mid\mathbf{x})$, che vale per ogni valore di $\mathbf{x}$ e quindi anche rispetto alla media dei possibili valori di $\mathbf{x}$, cioè per la varianza non condizionata
 
-**D:** ⚠️ Quali valori può assumere l'R², secondo il Corollario della slide 20 della lezione 26?
-**R:** Slide 20: «L'R² può assumere solo valori compresi tra 0 e 1». Il docente: «il coefficiente di determinazione può assumere solo valori compresi tra 0 e 1» (transcript [00:20:15]); e sugli estremi: «Perfetta spiegazione, zero non spiega nulla» ([00:23:30]), cioè 1 è la spiegazione perfetta e 0 non spiega nulla (solo nel transcript). ⚠️ Fra 0 e 1, non fra -1 e 1: è il coefficiente di correlazione della lezione 02 a essere, in valore assoluto, minore o uguale a 1.
+**D:** ⚠️ Quali valori può assumere l'$R^2$, secondo il Corollario della slide 20 della lezione 26?
+**R:** Slide 20: «L'$R^2$ può assumere solo valori compresi tra 0 e 1». Il docente: «il coefficiente di determinazione può assumere solo valori compresi tra 0 e 1» (transcript [00:20:15]); e sugli estremi: «Perfetta spiegazione, zero non spiega nulla» ([00:23:30]), cioè 1 è la spiegazione perfetta e 0 non spiega nulla (solo nel transcript). ⚠️ Fra 0 e 1, non fra -1 e 1: è il coefficiente di correlazione della lezione 02 a essere, in valore assoluto, minore o uguale a 1.
 **Opzione:** Solo valori compresi tra 0 e 1
 **Distrattori:**
 - Solo valori compresi tra -1 e 1
-- Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
-- Per i = 1, …, m: β_i è la i-esima componente del vettore dei parametri del modello lineare 𝐲 = 𝐱𝛃 + 𝛆
+- Il vettore $n \times 1$ in cui tutti gli elementi sono pari alla media campionaria di $\mathbf{y}$
+- Per $i = 1, \ldots, m$: $\beta_i$ è la $i$-esima componente del vettore dei parametri del modello lineare $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$
 
-**D:** ⚠️ Da che cosa discende il Corollario per cui l'R² può assumere solo valori compresi tra 0 e 1, secondo la slide 20 della lezione 26?
-**R:** Slide 20: «La validità di questo corollario è un'immediata conseguenza dell'uguaglianza 99 avendo cura di osservare che la quantità RSS non può mai essere negativa essendo una somma di quadrati (cfr. equazione 97)». Il docente: «basta osservare che l'RSS non può mai essere negativa, essendo una somma di quadrati» (transcript [00:20:22]). Con TSS = ESS + RSS e RSS ≥ 0, la ESS non supera la TSS e il rapporto non supera 1; la ESS è anch'essa una somma di quadrati, quindi il rapporto non è negativo (deduzione). ⚠️ RSS è la somma dei **quadrati** dei residui: non è zero come la somma dei residui OLS (equazione 47).
+**D:** ⚠️ Da che cosa discende il Corollario per cui l'$R^2$ può assumere solo valori compresi tra 0 e 1, secondo la slide 20 della lezione 26?
+**R:** Slide 20: «La validità di questo corollario è un'immediata conseguenza dell'uguaglianza 99 avendo cura di osservare che la quantità RSS non può mai essere negativa essendo una somma di quadrati (cfr. equazione 97)». Il docente: «basta osservare che l'RSS non può mai essere negativa, essendo una somma di quadrati» (transcript [00:20:22]). Con $\mathrm{TSS} = \mathrm{ESS} + \mathrm{RSS}$ e $\mathrm{RSS} \geq 0$, la ESS non supera la TSS e il rapporto non supera 1; la ESS è anch'essa una somma di quadrati, quindi il rapporto non è negativo (deduzione). ⚠️ RSS è la somma dei **quadrati** dei residui: non è zero come la somma dei residui OLS (equazione 47).
 **Opzione:** Dall'uguaglianza 99, osservando che la quantità RSS non può mai essere negativa essendo una somma di quadrati
 **Distrattori:**
 - Dall'uguaglianza 99, osservando che la quantità RSS è sempre pari a zero, come la somma dei residui OLS
-- Sia quando la matrice dei regressori 𝐱 è deterministica sia quando è aleatoria
-- Il vettore n × 1 in cui tutti gli elementi sono pari alla media campionaria di 𝐲
+- Sia quando la matrice dei regressori $\mathbf{x}$ è deterministica sia quando è aleatoria
+- Il vettore $n \times 1$ in cui tutti gli elementi sono pari alla media campionaria di $\mathbf{y}$
 
-**D:** ⚠️ Con che cosa coincide, nel caso bivariato, l'R² del modello lineare stimato col metodo OLS, secondo la Proposizione della slide 20 della lezione 26?
-**R:** Slide 20: «Nel caso bivariato - in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26) - l'R² del modello lineare stimato col metodo OLS coincide col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa». Slide 21: R² = (cov(x,y)/(√Var(x)√Var(y)))² = (ρ(x,y))². ⚠️ È il **quadrato** della correlazione. Il docente dice due volte il contrario: «che è esattamente la correlazione» (transcript [00:21:49]) e «il nostro coefficiente di determinazione non è altro che la correlazione tra x e y» ([00:21:59]). Vale la slide.
+**D:** ⚠️ Con che cosa coincide, nel caso bivariato, l'$R^2$ del modello lineare stimato col metodo OLS, secondo la Proposizione della slide 20 della lezione 26?
+**R:** Slide 20: «Nel caso bivariato - in cui la matrice dei regressori $\mathbf{x}$ ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26) - l'$R^2$ del modello lineare stimato col metodo OLS coincide col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa». Slide 21: $R^2 = \left(\frac{\mathrm{cov}(x,y)}{\sqrt{\mathrm{Var}(x)}\sqrt{\mathrm{Var}(y)}}\right)^2 = (\rho(x,y))^2$. ⚠️ È il **quadrato** della correlazione. Il docente dice due volte il contrario: «che è esattamente la correlazione» (transcript [00:21:49]) e «il nostro coefficiente di determinazione non è altro che la correlazione tra x e y» ([00:21:59]). Vale la slide.
 **Opzione:** Col quadrato del coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
 **Distrattori:**
 - Col coefficiente di correlazione lineare tra la variabile dipendente e la variabile esplicativa
-- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente 𝐲 e la media campionaria delle osservazioni della medesima variabile: ESS = ∑_{i=1}^n (ŷ_i - ȳ)²
+- La somma dei quadrati delle differenze o scarti tra i valori stimati della variabile dipendente $\mathbf{y}$ e la media campionaria delle osservazioni della medesima variabile: $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$
 - ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
 
 **D:** ⚠️ Che cosa si intende per caso bivariato, nella Proposizione della slide 20 della lezione 26?
-**R:** Slide 20: il caso «in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26)». L'equazione 26 è la matrice 𝐱 n × 2 della lezione 23 (slide 22 di quel deck), con la colonna di 1 e quella delle x_i. Il docente: «la matrice dei regressori x ha una sola colonna oltre a quella degli 1 associati alla costante del modello, il β0 ricorderete» (transcript [00:20:33]). ⚠️ Le due variabili di «bivariato» sono y e x: c'è **una sola** variabile esplicativa, quindi una sola colonna oltre a quella di 1, non due (deduzione dal confronto con la lezione 23).
-**Opzione:** Quello in cui la matrice dei regressori 𝐱 ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
+**R:** Slide 20: il caso «in cui la matrice dei regressori $\mathbf{x}$ ha una sola colonna oltre a quella di soli 1 associata alla c.d. costante del modello (cfr. equazione 26)». L'equazione 26 è la matrice $\mathbf{x}$ $n \times 2$ della lezione 23 (slide 22 di quel deck), con la colonna di 1 e quella delle $x_i$. Il docente: «la matrice dei regressori x ha una sola colonna oltre a quella degli 1 associati alla costante del modello, il β0 ricorderete» (transcript [00:20:33]). ⚠️ Le due variabili di «bivariato» sono $y$ e $x$: c'è **una sola** variabile esplicativa, quindi una sola colonna oltre a quella di 1, non due (deduzione dal confronto con la lezione 23).
+**Opzione:** Quello in cui la matrice dei regressori $\mathbf{x}$ ha una sola colonna oltre a quella di soli 1 associata alla costante del modello
 **Distrattori:**
-- Quello in cui la matrice dei regressori 𝐱 ha due colonne oltre a quella di soli 1 associata alla costante del modello
-- Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+- Quello in cui la matrice dei regressori $\mathbf{x}$ ha due colonne oltre a quella di soli 1 associata alla costante del modello
+- Quanta percentuale della devianza totale della variabile dipendente $\mathbf{y}$ è spiegata dal modello stimato
 
-**D:** ⚠️ Da quale rapporto parte, e con quali sostituzioni arriva a (ρ(x,y))², la dimostrazione della slide 21 della lezione 26 per il caso bivariato?
-**R:** Slide 21: «Si osserva anzitutto che, in base all'equazione 104, il coefficiente di determinazione del modello lineare bivariato stimato col metodo OLS è pari al rapporto tra la varianza campionaria del fit ŷ^{OLS} e la varianza campionaria della variabile dipendente y, i.e.: R² = Var(ŷ^{OLS})/Var(y)»; poi, «esplicitando ŷ^{OLS} tramite la 20», = Var(β̂_0^{OLS} + β̂_1^{OLS}x)/Var(y); «per alcune note proprietà della varianza», = (β̂_1^{OLS})²Var(x)/Var(y); «esplicitando β̂_1^{OLS} in base alla 15», = (cov(x,y)/Var(x))²·Var(x)/Var(y); «semplificando», = (cov(x,y))²/(Var(x)Var(y)), e quindi R² = (ρ(x,y))². La (20) e la (15) sono il fit e lo stimatore β̂_1^{OLS} = cov(x,y)/Var(x) della lezione 23. Il docente: «il rapporto tra la varianza campionaria della stima OLS e la varianza campionaria della variabile dipendente» (transcript [00:21:04]). ⚠️ La costante β̂_0^{OLS} non ha varianza e il coefficiente di x esce **al quadrato** (deduzione: la slide dice «note proprietà della varianza»).
-**Opzione:** Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = (β̂_1^{OLS})²Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
+**D:** ⚠️ Da quale rapporto parte, e con quali sostituzioni arriva a $(\rho(x,y))^2$, la dimostrazione della slide 21 della lezione 26 per il caso bivariato?
+**R:** Slide 21: «Si osserva anzitutto che, in base all'equazione 104, il coefficiente di determinazione del modello lineare bivariato stimato col metodo OLS è pari al rapporto tra la varianza campionaria del fit $\hat{y}^{OLS}$ e la varianza campionaria della variabile dipendente $y$, i.e.: $R^2 = \frac{\mathrm{Var}(\hat{y}^{OLS})}{\mathrm{Var}(y)}$»; poi, «esplicitando $\hat{y}^{OLS}$ tramite la 20», $= \frac{\mathrm{Var}(\hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x)}{\mathrm{Var}(y)}$; «per alcune note proprietà della varianza», $= \frac{(\hat{\beta}_1^{OLS})^2\mathrm{Var}(x)}{\mathrm{Var}(y)}$; «esplicitando $\hat{\beta}_1^{OLS}$ in base alla 15», $= \left(\frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}\right)^2\cdot\frac{\mathrm{Var}(x)}{\mathrm{Var}(y)}$; «semplificando», $= \frac{(\mathrm{cov}(x,y))^2}{\mathrm{Var}(x)\mathrm{Var}(y)}$, e quindi $R^2 = (\rho(x,y))^2$. La (20) e la (15) sono il fit e lo stimatore $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$ della lezione 23. Il docente: «il rapporto tra la varianza campionaria della stima OLS e la varianza campionaria della variabile dipendente» (transcript [00:21:04]). ⚠️ La costante $\hat{\beta}_0^{OLS}$ non ha varianza e il coefficiente di $x$ esce **al quadrato** (deduzione: la slide dice «note proprietà della varianza»).
+**Opzione:** Da $R^2 = \frac{\mathrm{Var}(\hat{y}^{OLS})}{\mathrm{Var}(y)}$, con $\mathrm{Var}(\hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x) = (\hat{\beta}_1^{OLS})^2\mathrm{Var}(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
 **Distrattori:**
-- Da R² = Var(ŷ^{OLS})/Var(y), con Var(β̂_0^{OLS} + β̂_1^{OLS}x) = β̂_1^{OLS}Var(x) e β̂_1^{OLS} = cov(x,y)/Var(x)
-- E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
-- rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+- Da $R^2 = \frac{\mathrm{Var}(\hat{y}^{OLS})}{\mathrm{Var}(y)}$, con $\mathrm{Var}(\hat{\beta}_0^{OLS} + \hat{\beta}_1^{OLS}x) = \hat{\beta}_1^{OLS}\mathrm{Var}(x)$ e $\hat{\beta}_1^{OLS} = \frac{\mathrm{cov}(x,y)}{\mathrm{Var}(x)}$
+- $E[\mathrm{Var}(Y\mid X)] = E(Y^2) - E[E(Y\mid X)]^2$ (86) e $\mathrm{Var}[E(Y\mid X)] = E[E(Y\mid X)]^2 - [E(Y)]^2$ (87)
+- $\mathrm{rendNASD} = 0{,}00171 + 1{,}1\mathrm{rendSP}$, con un $R^2$ molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
 
-**D:** ⚠️ Che cosa si intende per bontà del fit, di cui l'R² è un indicatore relativo, secondo la slide 22 della lezione 26?
-**R:** Slide 22: «L'R² è un indicatore relativo della c.d. bontà del fit, intesa come capacità del modello stimato di adattarsi ai dati osservati (i quali - si rammenta - altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti). Più alto è l'R² (i cui valori, si ricorda, sono compresi tra 0 e 1) maggiore è la capacità di adattamento del modello stimato o, in gergo, la bontà del fit». Il docente: «traduzione dell'espressione anglosassone statistica goodness of fit, quindi bontà della stima» (transcript [00:22:13]). ⚠️ I dati osservati sono un **campione** e i parametri della popolazione sono **ignoti**; più alto è l'R², **maggiore** la capacità di adattamento.
+**D:** ⚠️ Che cosa si intende per bontà del fit, di cui l'$R^2$ è un indicatore relativo, secondo la slide 22 della lezione 26?
+**R:** Slide 22: «L'$R^2$ è un indicatore relativo della c.d. bontà del fit, intesa come capacità del modello stimato di adattarsi ai dati osservati (i quali - si rammenta - altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti). Più alto è l'$R^2$ (i cui valori, si ricorda, sono compresi tra 0 e 1) maggiore è la capacità di adattamento del modello stimato o, in gergo, la bontà del fit». Il docente: «traduzione dell'espressione anglosassone statistica goodness of fit, quindi bontà della stima» (transcript [00:22:13]). ⚠️ I dati osservati sono un **campione** e i parametri della popolazione sono **ignoti**; più alto è l'$R^2$, **maggiore** la capacità di adattamento.
 **Opzione:** La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono ignoti
 **Distrattori:**
 - La capacità del modello stimato di adattarsi ai dati osservati, che altro non sono che un campione estratto da una popolazione i cui parametri sono noti
-- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
-- Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e i corrispondenti valori stimati: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2$
+- Un $R^2$ molto basso, pari a 0,006815, sebbene $y$ abbia una dipendenza funzionale di tipo parabolico da $x$
 
-**D:** ⚠️ Che cosa misura in particolare l'R², secondo la slide 22 della lezione 26?
-**R:** Slide 22: «In particolare, l'R² misura quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato. Esso è dunque un indicatore relativo della bontà del fit, coerentemente col fatto che - come si è visto - può assumere solo valori compresi tra 0 e 1». Il docente: «misura quanta quota percentuale della devianza totale della variabile dipendente Y è spiegata dal modello stimato» (transcript [00:23:02]). ⚠️ È la quota **spiegata** della devianza **totale**, ESS su TSS: la quota non spiegata è quella dei residui.
-**Opzione:** Quanta percentuale della devianza totale della variabile dipendente 𝐲 è spiegata dal modello stimato
+**D:** ⚠️ Che cosa misura in particolare l'$R^2$, secondo la slide 22 della lezione 26?
+**R:** Slide 22: «In particolare, l'$R^2$ misura quanta percentuale della devianza totale della variabile dipendente $\mathbf{y}$ è spiegata dal modello stimato. Esso è dunque un indicatore relativo della bontà del fit, coerentemente col fatto che - come si è visto - può assumere solo valori compresi tra 0 e 1». Il docente: «misura quanta quota percentuale della devianza totale della variabile dipendente Y è spiegata dal modello stimato» (transcript [00:23:02]). ⚠️ È la quota **spiegata** della devianza **totale**, ESS su TSS: la quota non spiegata è quella dei residui.
+**Opzione:** Quanta percentuale della devianza totale della variabile dipendente $\mathbf{y}$ è spiegata dal modello stimato
 **Distrattori:**
-- Quanta percentuale della devianza totale della variabile dipendente 𝐲 non è spiegata dal modello stimato
-- ESS = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)² e RSS = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²
-- E[Var(Y|X)] = E(Y²) - E[E(Y|X)]² (86) e Var[E(Y|X)] = E[E(Y|X)]² - [E(Y)]² (87)
+- Quanta percentuale della devianza totale della variabile dipendente $\mathbf{y}$ non è spiegata dal modello stimato
+- $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$ e $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$
+- $E[\mathrm{Var}(Y\mid X)] = E(Y^2) - E[E(Y\mid X)]^2$ (86) e $\mathrm{Var}[E(Y\mid X)] = E[E(Y\mid X)]^2 - [E(Y)]^2$ (87)
 
-**D:** ⚠️ Quale retta OLS e quale R² dà l'esempio Nasdaq–S&P 500 delle slide 23–24 della lezione 26, e che cosa ne conclude?
-**R:** Slide 23: «Siano rendNASD i rendimenti logaritmici dell'indice azionario Nasdaq e rendSP quelli dell'indice azionario Standard&Poor's 500 rilevati con frequenza mensile nel periodo compreso tra febbraio 2006 e ottobre 2022. L'equazione della retta di regressione lineare relativa al modello: rendNASD = β_0 + β_1rendSP + ε stimato col metodo dei minimi quadrati ordinari è la seguente: rendNASD = 0,00171 + 1,1rendSP. Il valore dell'R² ad essa associato è molto alto (pari a 0,89465), il che segnala una buona capacità di adattamento del modello lineare stimato ai dati osservati». Slide 24: nel diagramma di dispersione (scatter plot) «le coppie ordinate di osservazioni delle variabili rendSP e rendNASD (pallini verdi) sono tipicamente molto vicine alla retta di regressione stimata (linea arancione)». ⚠️ Il valore 0,89465 è solo nella slide: il docente dice «molto molto molto alto» (transcript [00:24:52]). Il valore molto basso, 0,006815, è dell'esempio parabolico della slide 25. Dipendente è il rendimento del Nasdaq, esplicativa quello dello S&P 500 ([00:24:22]).
-**Opzione:** rendNASD = 0,00171 + 1,1rendSP, con un R² molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
+**D:** ⚠️ Quale retta OLS e quale $R^2$ dà l'esempio Nasdaq–S&P 500 delle slide 23–24 della lezione 26, e che cosa ne conclude?
+**R:** Slide 23: «Siano rendNASD i rendimenti logaritmici dell'indice azionario Nasdaq e rendSP quelli dell'indice azionario Standard&Poor's 500 rilevati con frequenza mensile nel periodo compreso tra febbraio 2006 e ottobre 2022. L'equazione della retta di regressione lineare relativa al modello: $\mathrm{rendNASD} = \beta_0 + \beta_1\mathrm{rendSP} + \varepsilon$ stimato col metodo dei minimi quadrati ordinari è la seguente: $\mathrm{rendNASD} = 0{,}00171 + 1{,}1\mathrm{rendSP}$. Il valore dell'$R^2$ ad essa associato è molto alto (pari a 0,89465), il che segnala una buona capacità di adattamento del modello lineare stimato ai dati osservati». Slide 24: nel diagramma di dispersione (scatter plot) «le coppie ordinate di osservazioni delle variabili rendSP e rendNASD (pallini verdi) sono tipicamente molto vicine alla retta di regressione stimata (linea arancione)». ⚠️ Il valore 0,89465 è solo nella slide: il docente dice «molto molto molto alto» (transcript [00:24:52]). Il valore molto basso, 0,006815, è dell'esempio parabolico della slide 25. Dipendente è il rendimento del Nasdaq, esplicativa quello dello S&P 500 ([00:24:22]).
+**Opzione:** $\mathrm{rendNASD} = 0{,}00171 + 1{,}1\mathrm{rendSP}$, con un $R^2$ molto alto, pari a 0,89465: una buona capacità di adattamento del modello lineare stimato ai dati osservati
 **Distrattori:**
-- rendNASD = 0,00171 + 1,1rendSP, con un R² molto basso, pari a 0,006815: una scarsa capacità di adattamento del modello lineare stimato ai dati osservati
-- Sono corretti in media, cioè la media delle stime di 𝛃 che essi producono è esattamente pari a 𝛃, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di 𝛃
-- A (𝛜^{OLS})′𝐲̄ ≟ 0, cioè ȳ·∑_{i=1}^n ϵ_i^{OLS} ≟ 0, verificata perché la somma dei residui OLS è pari a zero
+- $\mathrm{rendNASD} = 0{,}00171 + 1{,}1\mathrm{rendSP}$, con un $R^2$ molto basso, pari a 0,006815: una scarsa capacità di adattamento del modello lineare stimato ai dati osservati
+- Sono corretti in media, cioè la media delle stime di $\boldsymbol{\beta}$ che essi producono è esattamente pari a $\boldsymbol{\beta}$, e hanno varianza minima, cioè la loro distribuzione di probabilità campionaria presenta la minore dispersione attorno al vero valore di $\boldsymbol{\beta}$
+- A $(\boldsymbol{\epsilon}^{OLS})'\bar{\mathbf{y}} \stackrel{?}{=} 0$, cioè $\bar{y}\cdot\sum_{i=1}^n \epsilon_i^{OLS} \stackrel{?}{=} 0$, verificata perché la somma dei residui OLS è pari a zero
 
-**D:** ⚠️ Che cosa misura l'R², e che cosa ne consegue per un suo valore basso, secondo l'avvertenza «ATTENZIONE!» della slide 25 della lezione 26?
-**R:** Slide 25: «L'R² misura la capacità del modello lineare specificato di adattarsi ai dati osservati. Ne consegue che se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra la variabile dipendente 𝐲 e la matrice dei regressori 𝐱. Ad esempio, è possibile che tra la variabile dipendente e le variabili esplicative vi sia una relazione di dipendenza funzionale di tipo non lineare come quella illustrata nella seguente Figura» («che se», sic). Il docente: «se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra y e x» (transcript [00:26:19]–[00:26:27]). ⚠️ «Non esclude necessariamente»: un R² basso segnala che manca una buona relazione **lineare**, non che manchi ogni dipendenza.
-**Opzione:** Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra 𝐲 e 𝐱
+**D:** ⚠️ Che cosa misura l'$R^2$, e che cosa ne consegue per un suo valore basso, secondo l'avvertenza «ATTENZIONE!» della slide 25 della lezione 26?
+**R:** Slide 25: «L'$R^2$ misura la capacità del modello lineare specificato di adattarsi ai dati osservati. Ne consegue che se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra la variabile dipendente $\mathbf{y}$ e la matrice dei regressori $\mathbf{x}$. Ad esempio, è possibile che tra la variabile dipendente e le variabili esplicative vi sia una relazione di dipendenza funzionale di tipo non lineare come quella illustrata nella seguente Figura» («che se», sic). Il docente: «se un valore basso del coefficiente di determinazione non esclude necessariamente che vi sia una relazione di dipendenza tra y e x» (transcript [00:26:19]–[00:26:27]). ⚠️ «Non esclude necessariamente»: un $R^2$ basso segnala che manca una buona relazione **lineare**, non che manchi ogni dipendenza.
+**Opzione:** Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso non esclude necessariamente una relazione di dipendenza tra $\mathbf{y}$ e $\mathbf{x}$
 **Distrattori:**
-- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso esclude che vi sia una relazione di dipendenza tra 𝐲 e 𝐱
-- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e la loro media campionaria: TSS = ∑_{i=1}^n (y_i - ȳ)²
-- L'elemento i-esimo della diagonale principale della matrice (𝐱′𝐱)^(-1)σ̂_ε²
+- Misura la capacità del modello lineare specificato di adattarsi ai dati osservati: un valore basso esclude che vi sia una relazione di dipendenza tra $\mathbf{y}$ e $\mathbf{x}$
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e la loro media campionaria: $\mathrm{TSS} = \sum_{i=1}^n (y_i - \bar{y})^2$
+- L'elemento $i$-esimo della diagonale principale della matrice $(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2$
 
-**D:** ⚠️ Quanto vale l'R² nell'esempio della figura della slide 25 della lezione 26, e che relazione c'è fra y e x?
-**R:** Slide 25: «In questo caso, infatti, sebbene l'R² sia molto basso (è pari a 0,006815), è evidente che la variabile dipendente y ha una dipendenza funzionale di tipo parabolico dalla variabile indipendente x». Il docente: «l'r quadro sarà pari a un numero vicino allo zero. Ed è […] evidente che Y ha una dipendenza funzionale parabolica da X» (transcript [00:26:42]–[00:26:48]); «non esiste una relazione lineare, in questo caso per esempio è parabolica» ([00:27:09]). ⚠️ Il valore 0,006815 è solo nella slide. L'R² alto, 0,89465, è dell'esempio Nasdaq–S&P 500.
-**Opzione:** Un R² molto basso, pari a 0,006815, sebbene y abbia una dipendenza funzionale di tipo parabolico da x
+**D:** ⚠️ Quanto vale l'$R^2$ nell'esempio della figura della slide 25 della lezione 26, e che relazione c'è fra $y$ e $x$?
+**R:** Slide 25: «In questo caso, infatti, sebbene l'$R^2$ sia molto basso (è pari a 0,006815), è evidente che la variabile dipendente $y$ ha una dipendenza funzionale di tipo parabolico dalla variabile indipendente $x$». Il docente: «l'r quadro sarà pari a un numero vicino allo zero. Ed è […] evidente che Y ha una dipendenza funzionale parabolica da X» (transcript [00:26:42]–[00:26:48]); «non esiste una relazione lineare, in questo caso per esempio è parabolica» ([00:27:09]). ⚠️ Il valore 0,006815 è solo nella slide. L'$R^2$ alto, 0,89465, è dell'esempio Nasdaq–S&P 500.
+**Opzione:** Un $R^2$ molto basso, pari a 0,006815, sebbene $y$ abbia una dipendenza funzionale di tipo parabolico da $x$
 **Distrattori:**
-- Un R² molto basso, pari a 0,006815, perché y non ha alcuna dipendenza funzionale da x
+- Un $R^2$ molto basso, pari a 0,006815, perché $y$ non ha alcuna dipendenza funzionale da $x$
 - ESS (Explained Sum of Squares) è la devianza spiegata; RSS (Residual Sum of Squares) è la somma dei quadrati dei residui
-- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente 𝐲 e i corrispondenti valori stimati: RSS = ∑_{i=1}^n (y_i - ŷ_i)²
+- La somma dei quadrati delle differenze o scarti tra le osservazioni campionarie della variabile dipendente $\mathbf{y}$ e i corrispondenti valori stimati: $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2$
 
 **D:** ⚠️ A che cosa è pari l'errore standard dello stimatore dei minimi quadrati biOLS, secondo il test della lezione 26 (domanda 1)?
-**R:** «**SE(biOLS) = {[(x'x)-1s2e]ii}1/2**», cioè la definizione della slide 2, SE(β̂_i^{OLS}) := {[(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}}^(1/2), con «s2e» per σ̂_ε², il cappello perso, e «}1/2» per la radice quadrata. Il docente: «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]). ⚠️ Servono insieme l'**inversa**, (𝐱′𝐱)^(-1), e la **radice**. Distrattori del test: «{[(x'x)s2e]ii}1/2» perde l'inversa; «{[s2e]ii}1/2» perde (𝐱′𝐱)^(-1) e prende l'elemento diagonale di uno scalare; «{[(x'x)-1s2e]ii}» perde la radice, ed è l'elemento i-esimo della diagonale, non il suo errore standard.
+**R:** «**SE(biOLS) = {[(x'x)-1s2e]ii}1/2**», cioè la definizione della slide 2, $\mathrm{SE}(\hat{\beta}_i^{OLS}) := \{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}\}^{1/2}$, con «s2e» per $\hat{\sigma}_\varepsilon^2$, il cappello perso, e «}1/2» per la radice quadrata. Il docente: «l'inversa di X trasposto X per la varianza dei residui ovviamente sotto radice quadrata» (transcript [00:00:51]). ⚠️ Servono insieme l'**inversa**, $(\mathbf{x}'\mathbf{x})^{-1}$, e la **radice**. Distrattori del test: «{[(x'x)s2e]ii}1/2» perde l'inversa; «{[s2e]ii}1/2» perde $(\mathbf{x}'\mathbf{x})^{-1}$ e prende l'elemento diagonale di uno scalare; «{[(x'x)-1s2e]ii}» perde la radice, ed è l'elemento $i$-esimo della diagonale, non il suo errore standard.
 **Opzione:** SE(biOLS) = {[(x'x)-1s2e]ii}1/2
 **Distrattori:**
 - SE(biOLS) = {[(x'x)s2e]ii}1/2
@@ -8572,7 +8889,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - SE(biOLS) = {[(x'x)-1s2e]ii}
 
 **D:** ⚠️ A che cosa è pari la quantità s2e, lo stimatore non distorto della varianza dell'errore della regressione, secondo il test della lezione 26 (domanda 2)?
-**R:** «**s2e = s2eOLS n/(n-m)**», cioè la (67) richiamata nella slide 2, σ̂_ε² := ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) = [n/(n - m)]σ_{ϵ^{OLS}}², con «s2e» per σ̂_ε² e «s2eOLS» per σ_{ϵ^{OLS}}². Il docente: «la varianza cappello degli errori non è altro che n su n-m per la varianza degli errori dei minimi quadrati» (transcript [00:01:08]). m è il numero dei coefficienti della regressione, cioè delle colonne di 𝐱, la costante compresa (lezione 24). ⚠️ Le altre tre opzioni hanno a sinistra «s2eOLS», non «s2e»: definiscono σ_{ϵ^{OLS}}², la varianza dei residui OLS, non lo stimatore chiesto. «s2eOLS = Si(eiOLS - me)2/n» è la (60) della lezione 25, la definizione giusta di σ_{ϵ^{OLS}}², e «s2eOLS = Si(eiOLS)2/n» la sua riscrittura con μ_ϵ = 0; «s2eOLS = Si(eiOLS - me)», senza quadrato né /n, è la chiave sbagliata 🚨 della domanda 3 del test della lezione 25. Le tre opzioni vengono da quel test.
+**R:** «**s2e = s2eOLS n/(n-m)**», cioè la (67) richiamata nella slide 2, $\hat{\sigma}_\varepsilon^2 := \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m} = \left[\frac{n}{n - m}\right]\sigma_{\epsilon^{OLS}}^2$, con «s2e» per $\hat{\sigma}_\varepsilon^2$ e «s2eOLS» per $\sigma_{\epsilon^{OLS}}^2$. Il docente: «la varianza cappello degli errori non è altro che n su n-m per la varianza degli errori dei minimi quadrati» (transcript [00:01:08]). $m$ è il numero dei coefficienti della regressione, cioè delle colonne di $\mathbf{x}$, la costante compresa (lezione 24). ⚠️ Le altre tre opzioni hanno a sinistra «s2eOLS», non «s2e»: definiscono $\sigma_{\epsilon^{OLS}}^2$, la varianza dei residui OLS, non lo stimatore chiesto. «s2eOLS = Si(eiOLS - me)2/n» è la (60) della lezione 25, la definizione giusta di $\sigma_{\epsilon^{OLS}}^2$, e «s2eOLS = Si(eiOLS)2/n» la sua riscrittura con $\mu_\epsilon = 0$; «s2eOLS = Si(eiOLS - me)», senza quadrato né /n, è la chiave sbagliata 🚨 della domanda 3 del test della lezione 25. Le tre opzioni vengono da quel test.
 **Opzione:** s2e = s2eOLS n/(n-m)
 **Distrattori:**
 - s2eOLS = Si(eiOLS - me)2/n
@@ -8580,7 +8897,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - s2eOLS = Si(eiOLS)2/n
 
 **D:** ⚠️ A che cosa è pari la somma totale dei quadrati (TSS), secondo il test della lezione 26 (domanda 3)?
-**R:** «**TSS = Si(yi - ȳ)2**», cioè la (92) della slide 10, TSS = ∑_{i=1}^n (y_i - ȳ)², con «Si» per ∑_i e «)2» per il quadrato (transcript [00:09:41]–[00:10:01]). ⚠️ Nessun distrattore è inventato: «TSS = SieiOLS» è la somma dei residui OLS, che è zero (equazione 47 della lezione 24); «TSS = Si(eiOLS - me)» viene dal test della lezione 25, dov'era la chiave sbagliata della domanda 3; «TSS = Si(yi )2/n» è la (93) com'è stampata nella slide 10, ȳ = ∑_{i=1}^n y_i²/n, cioè la formula della media campionaria con il refuso del quadrato.
+**R:** «**TSS = Si(yi - ȳ)2**», cioè la (92) della slide 10, $\mathrm{TSS} = \sum_{i=1}^n (y_i - \bar{y})^2$, con «Si» per $\sum_i$ e «)2» per il quadrato (transcript [00:09:41]–[00:10:01]). ⚠️ Nessun distrattore è inventato: «TSS = SieiOLS» è la somma dei residui OLS, che è zero (equazione 47 della lezione 24); «TSS = Si(eiOLS - me)» viene dal test della lezione 25, dov'era la chiave sbagliata della domanda 3; «TSS = Si(yi )2/n» è la (93) com'è stampata nella slide 10, $\bar{y} = \frac{\sum_{i=1}^n y_i^2}{n}$, cioè la formula della media campionaria con il refuso del quadrato.
 **Opzione:** TSS = Si(yi - ȳ)2
 **Distrattori:**
 - TSS = SieiOLS
@@ -8588,7 +8905,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - TSS = Si(yi )2/n
 
 **D:** ⚠️ A che cosa è pari la devianza spiegata (ESS), secondo il test della lezione 26 (domanda 4)?
-**R:** «**ESS = Si(ŷi - ȳ)2**», cioè la (94) della slide 10, ESS = ∑_{i=1}^n (ŷ_i - ȳ)²: i valori **stimati** meno la media. ⚠️ Il docente legge la definizione senza «stimati» (transcript [00:10:14]) e poi si corregge: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Distrattori del test: «ESS = Si(yi - ȳ)2» è la TSS, la chiave della domanda 3; «ESS = Si(eiOLS - me)» viene dal test della lezione 25; «ESS = Si(yi )2/n» è la (93) com'è stampata, la formula della media con il refuso.
+**R:** «**ESS = Si(ŷi - ȳ)2**», cioè la (94) della slide 10, $\mathrm{ESS} = \sum_{i=1}^n (\hat{y}_i - \bar{y})^2$: i valori **stimati** meno la media. ⚠️ Il docente legge la definizione senza «stimati» (transcript [00:10:14]) e poi si corregge: «Devianza spiegata sono rispetto ai valori stimati» ([00:10:49]). Distrattori del test: «ESS = Si(yi - ȳ)2» è la TSS, la chiave della domanda 3; «ESS = Si(eiOLS - me)» viene dal test della lezione 25; «ESS = Si(yi )2/n» è la (93) com'è stampata, la formula della media con il refuso.
 **Opzione:** ESS = Si(ŷi - ȳ)2
 **Distrattori:**
 - ESS = Si(eiOLS - me)
@@ -8596,7 +8913,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - ESS = Si(yi )2/n
 
 **D:** ⚠️ A che cosa è pari la somma dei quadrati dei residui (RSS), secondo il test della lezione 26 (domanda 5)?
-**R:** «**RSS = Si(yi -ŷi)2**», cioè la (96) della slide 11, RSS = ∑_{i=1}^n (y_i - ŷ_i)²: le osservazioni meno i valori stimati (transcript [00:11:17]). ⚠️ Le domande 3, 4 e 5 sono speculari: «Si(yi - ȳ)2» è la chiave della 3 e un distrattore qui, «Si(ŷi - ȳ)2» la chiave della 4 e un distrattore qui. «RSS = Si(eiOLS - me)» viene dal test della lezione 25: senza quadrato è la somma degli scarti dei residui dalla loro media, non la somma dei loro quadrati.
+**R:** «**RSS = Si(yi -ŷi)2**», cioè la (96) della slide 11, $\mathrm{RSS} = \sum_{i=1}^n (y_i - \hat{y}_i)^2$: le osservazioni meno i valori stimati (transcript [00:11:17]). ⚠️ Le domande 3, 4 e 5 sono speculari: «Si(yi - ȳ)2» è la chiave della 3 e un distrattore qui, «Si(ŷi - ȳ)2» la chiave della 4 e un distrattore qui. «RSS = Si(eiOLS - me)» viene dal test della lezione 25: senza quadrato è la somma degli scarti dei residui dalla loro media, non la somma dei loro quadrati.
 **Opzione:** RSS = Si(yi -ŷi)2
 **Distrattori:**
 - RSS = Si(ŷi - ȳ)2
@@ -8915,300 +9232,300 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 28 — Modello Lineare 6 - Verifica delle Ipotesi
 
-**D:** ⚠️ Quale statistica considera la slide 2 della lezione 28 per testare l'ipotesi che un dato coefficiente della regressione β_i sia uguale a β_i^∗, e a quale distribuzione risulta appartenere?
-**R:** Slide 2: «Se, con un livello di confidenza (1 - α) prefissato, la statistica seguente: **(β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})** (128) risulta appartenere a una variabile aleatoria che ha una funzione di densità di probabilità **t di Student con (n - m) gradi di libertà**, si dirà che l'ipotesi nulla H_0 così formulata: H_0: β_i = β_i^∗ non può essere rigettata». Il docente: al denominatore «la radice quadrata dell'inversa di x trasposto x per lo stimatore per la varianza stimata dei residui. Ovviamente gli elementi della diagonale»; «questa statistica appartiene a una variabile aleatoria che ha una funzione di densità di probabilità T di student con n-m gradi di libertà» (transcript [00:01:08]–[00:01:26]). ⚠️ Sotto la radice c'è lo stimatore non distorto **σ̂_ε²** della lezione 25, e se ne prende l'**elemento diagonale** [·]_{ii}; i gradi di libertà sono **n - m**, osservazioni meno colonne di 𝐱. Il punto di partenza è la distribuzione delle variabili aleatorie b̂_i^{OLS} dell'equazione 126, della lezione precedente.
-**Opzione:** (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+**D:** ⚠️ Quale statistica considera la slide 2 della lezione 28 per testare l'ipotesi che un dato coefficiente della regressione $\beta_i$ sia uguale a $\beta_i^{\ast}$, e a quale distribuzione risulta appartenere?
+**R:** Slide 2: «Se, con un livello di confidenza $(1 - \alpha)$ prefissato, la statistica seguente: **$\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$** (128) risulta appartenere a una variabile aleatoria che ha una funzione di densità di probabilità **t di Student con $(n - m)$ gradi di libertà**, si dirà che l'ipotesi nulla $H_0$ così formulata: $H_0: \beta_i = \beta_i^{\ast}$ non può essere rigettata». Il docente: al denominatore «la radice quadrata dell'inversa di x trasposto x per lo stimatore per la varianza stimata dei residui. Ovviamente gli elementi della diagonale»; «questa statistica appartiene a una variabile aleatoria che ha una funzione di densità di probabilità T di student con n-m gradi di libertà» (transcript [00:01:08]–[00:01:26]). ⚠️ Sotto la radice c'è lo stimatore non distorto **$\hat{\sigma}_\varepsilon^2$** della lezione 25, e se ne prende l'**elemento diagonale** $[\cdot]_{ii}$; i gradi di libertà sono **$n - m$**, osservazioni meno colonne di $\mathbf{x}$. Il punto di partenza è la distribuzione delle variabili aleatorie $\hat{b}_i^{OLS}$ dell'equazione 126, della lezione precedente.
+**Opzione:** $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$, che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con $(n - m)$ gradi di libertà
 **Distrattori:**
-- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (m - 1) gradi di libertà
+- $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$, che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con $(m - 1)$ gradi di libertà
 - La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
-- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con $(m - 1)$ e con $(n - m)$ gradi di libertà
 
-**D:** ⚠️ Fra quali soglie si prende l'intervallo di valori della t di Student nella slide 3 della lezione 28, e con quale probabilità vi cade X?
-**R:** Slide 3: «si prende a riferimento l'intervallo di valori della distribuzione di probabilità t di Student con (n - m) gradi di libertà compresi tra le soglie t_{α/2} e t_{1-α/2} e così definite: **Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α** ove X è una variabile aleatoria che appunto ha una funzione di densità di probabilità di tipo t di Student con (n - m) gradi di libertà». Il docente: «compresi tra le soglie T alfa mezzi e T1 meno alfa mezzi. quindi simmetrici rispetto alla distribuzione»; la probabilità che X sia compreso fra le due soglie «è definita ed è uguale ad 1 meno alfa» (transcript [00:02:30]–[00:02:55]), e lo chiama «un intervallo di confidenza, una banda di oscillazione». ⚠️ Le soglie stanno ad **α/2** e **1 - α/2**, non ad α e 1 - α: α si divide fra le due code. Fra le soglie la probabilità è **1 - α**, il livello di confidenza.
-**Opzione:** Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+**D:** ⚠️ Fra quali soglie si prende l'intervallo di valori della t di Student nella slide 3 della lezione 28, e con quale probabilità vi cade $X$?
+**R:** Slide 3: «si prende a riferimento l'intervallo di valori della distribuzione di probabilità t di Student con $(n - m)$ gradi di libertà compresi tra le soglie $t_{\alpha/2}$ e $t_{1-\alpha/2}$ e così definite: **$\Pr(t_{\alpha/2} \leq X \leq t_{1-\alpha/2}) = 1 - \alpha$** ove $X$ è una variabile aleatoria che appunto ha una funzione di densità di probabilità di tipo t di Student con $(n - m)$ gradi di libertà». Il docente: «compresi tra le soglie T alfa mezzi e T1 meno alfa mezzi. quindi simmetrici rispetto alla distribuzione»; la probabilità che $X$ sia compreso fra le due soglie «è definita ed è uguale ad 1 meno alfa» (transcript [00:02:30]–[00:02:55]), e lo chiama «un intervallo di confidenza, una banda di oscillazione». ⚠️ Le soglie stanno ad **$\frac{\alpha}{2}$** e **$1 - \frac{\alpha}{2}$**, non ad $\alpha$ e $1 - \alpha$: $\alpha$ si divide fra le due code. Fra le soglie la probabilità è **$1 - \alpha$**, il livello di confidenza.
+**Opzione:** $\Pr(t_{\alpha/2} \leq X \leq t_{1-\alpha/2}) = 1 - \alpha$, con $X$ variabile aleatoria t di Student con $(n - m)$ gradi di libertà
 **Distrattori:**
-- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
-- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
-- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+- $\Pr(t_{\alpha/2} \leq X \leq t_{1-\alpha/2}) = \alpha$, con $X$ variabile aleatoria t di Student con $(n - m)$ gradi di libertà
+- $\hat{\mathbf{y}}^{OLS} = \mathbf{1}(\mathbf{1}'\mathbf{1})^{-1}\mathbf{1}'\mathbf{y} = \mathbf{1}\frac{1}{n}\mathbf{1}'\mathbf{y} = \bar{\mathbf{y}}$, il vettore colonna $n \times 1$ i cui elementi sono tutti pari alla media campionaria $\bar{y}$ della variabile dipendente
+- $\text{p-value} = \Pr(X \geq \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]})$, con $X$ variabile casuale F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 
-**D:** ⚠️ Che cosa si conclude, nella slide 3 della lezione 28, se la statistica test (128) appartiene all'intervallo [t_{α/2}; t_{1-α/2}]?
-**R:** Slide 3: «se la statistica test (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}) **∈ [t_{α/2}; t_{1-α/2}]** H_0 **non può essere rigettata**, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata». Il docente: se la statistica test «appartiene all'intervallo t alfa mezzi t1 meno alfa mezzi beh allora l'ipotesi nulla non può essere rigettata cioè non si può rigettare l'ipotesi che beta con i sia effettivamente uguali a beta con i star in caso contrario l'ipotesi h con 0 non può che essere rigettata» (transcript [00:03:29]). ⚠️ **Dentro** l'intervallo non si rigetta, **fuori** si rigetta. Le slide non dicono mai che H_0 «è accettata»: dicono che **non può essere rigettata**.
-**Opzione:** H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
+**D:** ⚠️ Che cosa si conclude, nella slide 3 della lezione 28, se la statistica test (128) appartiene all'intervallo $[t_{\alpha/2}; t_{1-\alpha/2}]$?
+**R:** Slide 3: «se la statistica test $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$ **$\in [t_{\alpha/2}; t_{1-\alpha/2}]$** $H_0$ **non può essere rigettata**, ossia non si può rigettare l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ è rigettata». Il docente: se la statistica test «appartiene all'intervallo t alfa mezzi t1 meno alfa mezzi beh allora l'ipotesi nulla non può essere rigettata cioè non si può rigettare l'ipotesi che beta con i sia effettivamente uguali a beta con i star in caso contrario l'ipotesi h con 0 non può che essere rigettata» (transcript [00:03:29]). ⚠️ **Dentro** l'intervallo non si rigetta, **fuori** si rigetta. Le slide non dicono mai che $H_0$ «è accettata»: dicono che **non può essere rigettata**.
+**Opzione:** $H_0$ non può essere rigettata, ossia non si può rigettare l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ è rigettata
 **Distrattori:**
-- H_0 è rigettata, ossia si rigetta l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 non può essere rigettata
-- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
-- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+- $H_0$ è rigettata, ossia si rigetta l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ non può essere rigettata
+- $r^{STLA} = \beta_0 + \beta_1r^{JUVE} + \beta_2r^{VW} + \beta_3\mathrm{Brent} + \varepsilon$, con $r^{STLA}$ il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+- Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$, una F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 
 **D:** ⚠️ Come è definito, nell'equazione 129 della lezione 28, il p-value associato alla statistica test (128)?
-**R:** Slide 4: «In alternativa, per decidere se rigettare l'ipotesi nulla o se invece essa non possa essere rigettata, si calcola il c.d. **p-value** associato alla statistica test e così definito: **p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))** (129)», con X la t di Student con (n - m) gradi di libertà della slide 3. Il docente: «il p-value altro non è che la probabilità che x sia maggiore o uguale alla nostra statistica» (transcript [00:04:17]). ⚠️ Il verso è **≥**: la probabilità che X sia **almeno** pari alla statistica. Il docente lo presenta come il rovescio dell'intervallo, «other way round» ([00:04:33]), e chiama quella probabilità «il valore di alfa» ([00:04:36]): nella slide α è invece la soglia prescelta con cui il p-value si confronta. ℹ️ Integrazione (non dai materiali del corso): la (129) è a una coda, mentre il p-value 0,2466 della tabella della slide 10 è quello a due code, il doppio di Pr(X ≥ 1,2) con 17 gradi di libertà.
-**Opzione:** p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+**R:** Slide 4: «In alternativa, per decidere se rigettare l'ipotesi nulla o se invece essa non possa essere rigettata, si calcola il c.d. **p-value** associato alla statistica test e così definito: **$\text{p-value} = \Pr(X \geq \frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}})$** (129)», con $X$ la t di Student con $(n - m)$ gradi di libertà della slide 3. Il docente: «il p-value altro non è che la probabilità che x sia maggiore o uguale alla nostra statistica» (transcript [00:04:17]). ⚠️ Il verso è **≥**: la probabilità che $X$ sia **almeno** pari alla statistica. Il docente lo presenta come il rovescio dell'intervallo, «other way round» ([00:04:33]), e chiama quella probabilità «il valore di alfa» ([00:04:36]): nella slide $\alpha$ è invece la soglia prescelta con cui il p-value si confronta. ℹ️ Integrazione (non dai materiali del corso): la (129) è a una coda, mentre il p-value 0,2466 della tabella della slide 10 è quello a due code, il doppio di $\Pr(X \geq 1{,}2)$ con 17 gradi di libertà.
+**Opzione:** $\text{p-value} = \Pr(X \geq \frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}})$
 **Distrattori:**
-- p-value = Pr(X ≤ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
-- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
-- Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- $\text{p-value} = \Pr(X \leq \frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}})$
+- $\text{F-test} = \frac{[(\mathrm{TSS} - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]} = \frac{[\mathrm{ESS}^{nr}/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$
+- Una maggiore probabilità che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
 
 **D:** ⚠️ Come si decide con il p-value della statistica test (128), secondo la slide 4 della lezione 28?
-**R:** Slide 4: «e si decide come segue: se il p-value è **un valore elevato (superiore all'α prescelto)**, H_0 **non può essere rigettata**, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata. Intuitivamente, questo algoritmo decisionale formalizza il ragionamento in base al quale se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità t di Student con (n - m) gradi di libertà». Il docente: «Se il p value è un valore elevato, cioè superiore all'alfa che è stato definito come soglia, h0 non può essere rigettato» (transcript [00:04:45]); «se il p-value è molto piccolo è improbabile» ([00:05:11]). ⚠️ p-value **grande** ⇒ non si rigetta; p-value **piccolo** ⇒ si rigetta.
-**Opzione:** Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+**R:** Slide 4: «e si decide come segue: se il p-value è **un valore elevato (superiore all'$\alpha$ prescelto)**, $H_0$ **non può essere rigettata**, ossia non si può rigettare l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ è rigettata. Intuitivamente, questo algoritmo decisionale formalizza il ragionamento in base al quale se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità t di Student con $(n - m)$ gradi di libertà». Il docente: «Se il p value è un valore elevato, cioè superiore all'alfa che è stato definito come soglia, h0 non può essere rigettato» (transcript [00:04:45]); «se il p-value è molto piccolo è improbabile» ([00:05:11]). ⚠️ p-value **grande** $\Rightarrow$ non si rigetta; p-value **piccolo** $\Rightarrow$ si rigetta.
+**Opzione:** Se il p-value è un valore elevato (superiore all'$\alpha$ prescelto), $H_0$ non può essere rigettata; in caso contrario $H_0$ è rigettata
 **Distrattori:**
-- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 è rigettata; in caso contrario H_0 non può essere rigettata
-- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
-- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+- Se il p-value è un valore elevato (superiore all'$\alpha$ prescelto), $H_0$ è rigettata; in caso contrario $H_0$ non può essere rigettata
+- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di $\mathbf{x}$ oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta $\mathbf{y}$
+- $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$, cioè $\mathrm{TSS} = \mathrm{RSS}^r$: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
 
 **D:** ⚠️ Per quale caso vengono tipicamente declinati nei principali software econometrici i test basati sulla statistica (128), e con quale obiettivo (slide 5 della lezione 28)?
-**R:** Slide 5: «I test di ipotesi basati sulla statistica (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}) vengono tipicamente declinati nei principali software econometrici **per il caso β_i^∗ = 0** con l'obiettivo di **verificare la significatività dei coefficienti stimati** β̂_i^{OLS}, i = 1, 2, ⋯, m in relazione a ciascuna delle m variabili indipendenti (i.e. le m colonne che formano la matrice dei regressori 𝐱)». Il docente: queste ipotesi «vengono tipicamente identificati nei principali software econometrici con l'obiettivo di verificare la significatività dei coefficienti stimati col metodo OLS in relazione a ciascuna» delle «m variabili indipendenti che costituiscono, in termini matriciali, le m colonne che formano la matrice dei regressori» (transcript [00:05:42]–[00:06:23]). ⚠️ Il caso β_i^∗ = 0 lo scrive la slide, non il docente. Con β_i^∗ = 0 la (128) diventa il **t-ratio** (130) della slide 6 (deduzione).
-**Opzione:** Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+**R:** Slide 5: «I test di ipotesi basati sulla statistica $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$ vengono tipicamente declinati nei principali software econometrici **per il caso $\beta_i^{\ast} = 0$** con l'obiettivo di **verificare la significatività dei coefficienti stimati** $\hat{\beta}_i^{OLS}$, $i = 1, 2, \cdots, m$ in relazione a ciascuna delle $m$ variabili indipendenti (i.e. le $m$ colonne che formano la matrice dei regressori $\mathbf{x}$)». Il docente: queste ipotesi «vengono tipicamente identificati nei principali software econometrici con l'obiettivo di verificare la significatività dei coefficienti stimati col metodo OLS in relazione a ciascuna» delle «m variabili indipendenti che costituiscono, in termini matriciali, le m colonne che formano la matrice dei regressori» (transcript [00:05:42]–[00:06:23]). ⚠️ Il caso $\beta_i^{\ast} = 0$ lo scrive la slide, non il docente. Con $\beta_i^{\ast} = 0$ la (128) diventa il **t-ratio** (130) della slide 6 (deduzione).
+**Opzione:** Per il caso $\beta_i^{\ast} = 0$, con l'obiettivo di verificare la significatività dei coefficienti stimati $\hat{\beta}_i^{OLS}$ in relazione a ciascuna delle $m$ variabili indipendenti (le $m$ colonne della matrice dei regressori $\mathbf{x}$)
 **Distrattori:**
-- Per il caso β_i^∗ = 1, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
-- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
-- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+- Per il caso $\beta_i^{\ast} = 1$, con l'obiettivo di verificare la significatività dei coefficienti stimati $\hat{\beta}_i^{OLS}$ in relazione a ciascuna delle $m$ variabili indipendenti (le $m$ colonne della matrice dei regressori $\mathbf{x}$)
+- $\hat{\mathbf{y}}^{OLS} = \mathbf{1}(\mathbf{1}'\mathbf{1})^{-1}\mathbf{1}'\mathbf{y} = \mathbf{1}\frac{1}{n}\mathbf{1}'\mathbf{y} = \bar{\mathbf{y}}$, il vettore colonna $n \times 1$ i cui elementi sono tutti pari alla media campionaria $\bar{y}$ della variabile dipendente
+- $\text{p-value} = \Pr(X \geq \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]})$, con $X$ variabile casuale F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 
-**D:** ⚠️ Che cosa vuol dire, per la slide 5 della lezione 28, che un dato coefficiente stimato risulta non significativo per un certo livello di confidenza (1 - α)?
-**R:** Slide 5: «Se un dato coefficiente stimato risulta non significativo per un certo livello di confidenza (1 - α), ciò vuol dire che **la variabile esplicativa ad esso associata** (i.e. la corrispondente colonna della matrice 𝐱) **non è rilevante per spiegare il comportamento della variabile dipendente 𝐲**». Il docente: «Vuol dire che la variabile esplicativa, cioè la variabile associata alla corrispondente colonna della matrice X, non rileva per spiegare il comportamento di Y, cioè quel regressore è sostanzialmente inutile dal punto di vista statistico» (transcript [00:06:34]–[00:06:48]). ⚠️ La variabile esplicativa, cioè la **colonna** di 𝐱, non è rilevante per spiegare la **variabile dipendente 𝐲**, non le altre variabili esplicative: il test riguarda il contributo di quel regressore a 𝐲. «Sostanzialmente inutile dal punto di vista statistico» è solo nel transcript.
-**Opzione:** Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+**D:** ⚠️ Che cosa vuol dire, per la slide 5 della lezione 28, che un dato coefficiente stimato risulta non significativo per un certo livello di confidenza $(1 - \alpha)$?
+**R:** Slide 5: «Se un dato coefficiente stimato risulta non significativo per un certo livello di confidenza $(1 - \alpha)$, ciò vuol dire che **la variabile esplicativa ad esso associata** (i.e. la corrispondente colonna della matrice $\mathbf{x}$) **non è rilevante per spiegare il comportamento della variabile dipendente $\mathbf{y}$**». Il docente: «Vuol dire che la variabile esplicativa, cioè la variabile associata alla corrispondente colonna della matrice X, non rileva per spiegare il comportamento di Y, cioè quel regressore è sostanzialmente inutile dal punto di vista statistico» (transcript [00:06:34]–[00:06:48]). ⚠️ La variabile esplicativa, cioè la **colonna** di $\mathbf{x}$, non è rilevante per spiegare la **variabile dipendente $\mathbf{y}$**, non le altre variabili esplicative: il test riguarda il contributo di quel regressore a $\mathbf{y}$. «Sostanzialmente inutile dal punto di vista statistico» è solo nel transcript.
+**Opzione:** Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice $\mathbf{x}$) non è rilevante per spiegare il comportamento della variabile dipendente $\mathbf{y}$
 **Distrattori:**
-- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento delle altre variabili esplicative
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice $\mathbf{x}$) non è rilevante per spiegare il comportamento delle altre variabili esplicative
 - Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
-- F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
+- $\text{F-test} = \left[\frac{R^2}{1 - R^2}\right]\cdot\left[\frac{n - m}{m - 1}\right]$
 
-**D:** ⚠️ Come è definito, nella Definizione della slide 6 della lezione 28, il t-ratio (o rapporto t) per lo stimatore β̂_i^{OLS}?
-**R:** Slide 6, «Definizione»: «Sia β̂_i^{OLS}, i = 1, 2, ⋯, m, l'i-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari 𝛃̂^{OLS}. Allora la statistica t così definita: **t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})** (130) è detta **t-ratio (o rapporto t)** per lo stimatore β̂_i^{OLS}». Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). ⚠️ Sotto la radice c'è **σ̂_ε²**, lo stimatore **non distorto** della varianza dell'errore (Corollario della lezione 25), non σ_{ϵ^{OLS}}², la varianza dei residui OLS, che è distorta: il docente dice «la varianza dei residui», la slide ha il cappello. Il denominatore è l'errore standard dello stimatore della lezione 26. È la chiave della domanda 3 del test.
-**Opzione:** t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
+**D:** ⚠️ Come è definito, nella Definizione della slide 6 della lezione 28, il t-ratio (o rapporto $t$) per lo stimatore $\hat{\beta}_i^{OLS}$?
+**R:** Slide 6, «Definizione»: «Sia $\hat{\beta}_i^{OLS}$, $i = 1, 2, \cdots, m$, l'$i$-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari $\hat{\boldsymbol{\beta}}^{OLS}$. Allora la statistica $t$ così definita: **$t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$** (130) è detta **t-ratio (o rapporto $t$)** per lo stimatore $\hat{\beta}_i^{OLS}$». Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). ⚠️ Sotto la radice c'è **$\hat{\sigma}_\varepsilon^2$**, lo stimatore **non distorto** della varianza dell'errore (Corollario della lezione 25), non $\sigma_{\epsilon^{OLS}}^2$, la varianza dei residui OLS, che è distorta: il docente dice «la varianza dei residui», la slide ha il cappello. Il denominatore è l'errore standard dello stimatore della lezione 26. È la chiave della domanda 3 del test.
+**Opzione:** $t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$
 **Distrattori:**
-- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ_{ϵ^{OLS}}²]_{ii})
-- H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
-- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
+- $t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\sigma_{\epsilon^{OLS}}^2]_{ii}}}$
+- $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$ e $H_1: \beta_1 \neq 0$ oppure $\beta_2 \neq 0$ oppure ⋯ oppure $\beta_{m-1} \neq 0$
+- $\text{F-test} = \frac{[(\mathrm{TSS} - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]} = \frac{[\mathrm{ESS}^{nr}/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$
 
 **D:** ⚠️ Quali sono le due ipotesi alternative nel caso specifico del t-ratio e del connesso p-value (slide 6 della lezione 28)?
-**R:** Slide 6: «In linea con quanto visto poc'anzi per il caso generale β_i ≠ β_i^∗, nel caso specifico del t-ratio e del connesso p-value le due ipotesi alternative sono: **H_0: β_i = 0** e **H_1: β_i ≠ 0**». Il docente: «L'ipotesi nulla, beta i uguale a zero. L'ipotesi alternativa, beta i diverso da zero» (transcript [00:08:19]–[00:08:22]). ⚠️ L'**uguaglianza** sta in H_0, la **disuguaglianza** in H_1, come nel caso generale H_0: β_i = β_i^∗ e H_1: β_i ≠ β_i^∗ (slide 2–3) con β_i^∗ = 0. La slide chiama «le due ipotesi alternative» la coppia H_0 e H_1.
-**Opzione:** H_0: β_i = 0 e H_1: β_i ≠ 0
+**R:** Slide 6: «In linea con quanto visto poc'anzi per il caso generale $\beta_i \neq \beta_i^{\ast}$, nel caso specifico del t-ratio e del connesso p-value le due ipotesi alternative sono: **$H_0: \beta_i = 0$** e **$H_1: \beta_i \neq 0$**». Il docente: «L'ipotesi nulla, beta i uguale a zero. L'ipotesi alternativa, beta i diverso da zero» (transcript [00:08:19]–[00:08:22]). ⚠️ L'**uguaglianza** sta in $H_0$, la **disuguaglianza** in $H_1$, come nel caso generale $H_0: \beta_i = \beta_i^{\ast}$ e $H_1: \beta_i \neq \beta_i^{\ast}$ (slide 2–3) con $\beta_i^{\ast} = 0$. La slide chiama «le due ipotesi alternative» la coppia $H_0$ e $H_1$.
+**Opzione:** $H_0: \beta_i = 0$ e $H_1: \beta_i \neq 0$
 **Distrattori:**
-- H_0: β_i ≠ 0 e H_1: β_i = 0
-- F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
-- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+- $H_0: \beta_i \neq 0$ e $H_1: \beta_i = 0$
+- $\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$, con $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+- Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$, una F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 
 **D:** ⚠️ Con quale modello lineare viene tipicamente rappresentata la performance dei fondi comuni di investimento che operano in una data asset class (equazione 131 della lezione 28)?
-**R:** Slide 7, «Esempio. L'alfa di Jensen»: «Tipicamente, la performance dei fondi comuni di investimento che operano in una data asset class (azionario, obbligazionario, etc.) viene rappresentata dal seguente modello lineare: **r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε** (131)». Il docente: «Il rendimento del fondo … meno il rendimento del titolo privo di rischio è uguale a questa alfa che appunto è l'alfa di Jensen del fondo più il beta del fondo … che moltiplica cosa? Il rendimento di mercato dell'asset class del fondo, azione, obbligazione o altro, meno il rendimento privo di rischio più un fattore epsilon d'errore» (transcript [00:08:57]–[00:09:16]). ⚠️ Il rendimento privo di rischio si toglie **a entrambi i lati**: a sinistra c'è l'extra-rendimento del fondo, a destra quello del mercato. Le asset class sono un elenco aperto («etc.»).
-**Opzione:** r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+**R:** Slide 7, «Esempio. L'alfa di Jensen»: «Tipicamente, la performance dei fondi comuni di investimento che operano in una data asset class (azionario, obbligazionario, etc.) viene rappresentata dal seguente modello lineare: **$r_{fondo} - r_{risk\text{-}free} = \alpha_{fondo}^J + \beta_{fondo}(r_{mkt}^{AC} - r_{risk\text{-}free}) + \varepsilon$** (131)». Il docente: «Il rendimento del fondo … meno il rendimento del titolo privo di rischio è uguale a questa alfa che appunto è l'alfa di Jensen del fondo più il beta del fondo … che moltiplica cosa? Il rendimento di mercato dell'asset class del fondo, azione, obbligazione o altro, meno il rendimento privo di rischio più un fattore epsilon d'errore» (transcript [00:08:57]–[00:09:16]). ⚠️ Il rendimento privo di rischio si toglie **a entrambi i lati**: a sinistra c'è l'extra-rendimento del fondo, a destra quello del mercato. Le asset class sono un elenco aperto («etc.»).
+**Opzione:** $r_{fondo} - r_{risk\text{-}free} = \alpha_{fondo}^J + \beta_{fondo}(r_{mkt}^{AC} - r_{risk\text{-}free}) + \varepsilon$
 **Distrattori:**
-- r_{fondo} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
-- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
-- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+- $r_{fondo} = \alpha_{fondo}^J + \beta_{fondo}(r_{mkt}^{AC} - r_{risk\text{-}free}) + \varepsilon$
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative $r^{JUVE}$, $r^{VW}$ e Brent sia significativo va rigettata
+- Se il p-value è un valore elevato (superiore all'$\alpha$ prescelto), $H_0$ non può essere rigettata; in caso contrario $H_0$ è rigettata
 
-**D:** ⚠️ Che cosa indicano β_{fondo} e α_{fondo}^J nel modello 131 dell'alfa di Jensen (slide 7 della lezione 28)?
-**R:** Slide 7, «dove:»: r_{fondo} «indica il rendimento del fondo d'interesse»; r_{risk-free} «indica il rendimento privo di rischio (c.d. risk-free)»; r_{mkt}^{AC} «indica il rendimento di mercato dell'asset class di riferimento del fondo considerato»; **β_{fondo}** «indica la **sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free**»; **α_{fondo}^J** «è il **termine costante del modello** che, in questo contesto, viene chiamato “alfa di Jensen” ed ha un'interpretazione ben precisa». Il docente: «il beta del fondo che è la sensibilità dell'extra rendimento rispetto al risk free» (transcript [00:08:57]). ⚠️ β_{fondo} misura come l'extra-rendimento **del fondo** risponde a quello **del mercato**, non il contrario; α_{fondo}^J è la **costante**, il β_0 del modello generale (deduzione).
-**Opzione:** β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+**D:** ⚠️ Che cosa indicano $\beta_{fondo}$ e $\alpha_{fondo}^J$ nel modello 131 dell'alfa di Jensen (slide 7 della lezione 28)?
+**R:** Slide 7, «dove:»: $r_{fondo}$ «indica il rendimento del fondo d'interesse»; $r_{risk\text{-}free}$ «indica il rendimento privo di rischio (c.d. risk-free)»; $r_{mkt}^{AC}$ «indica il rendimento di mercato dell'asset class di riferimento del fondo considerato»; **$\beta_{fondo}$** «indica la **sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free**»; **$\alpha_{fondo}^J$** «è il **termine costante del modello** che, in questo contesto, viene chiamato “alfa di Jensen” ed ha un'interpretazione ben precisa». Il docente: «il beta del fondo che è la sensibilità dell'extra rendimento rispetto al risk free» (transcript [00:08:57]). ⚠️ $\beta_{fondo}$ misura come l'extra-rendimento **del fondo** risponde a quello **del mercato**, non il contrario; $\alpha_{fondo}^J$ è la **costante**, il $\beta_0$ del modello generale (deduzione).
+**Opzione:** $\beta_{fondo}$ indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; $\alpha_{fondo}^J$ è il termine costante del modello, chiamato in questo contesto alfa di Jensen
 **Distrattori:**
-- β_{fondo} indica la sensibilità dell'extra-rendimento del mercato rispetto al risk-free all'extra-rendimento del fondo rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
-- F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
-- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
+- $\beta_{fondo}$ indica la sensibilità dell'extra-rendimento del mercato rispetto al risk-free all'extra-rendimento del fondo rispetto al risk-free; $\alpha_{fondo}^J$ è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+- $\text{F-test} = \left[\frac{R^2}{1 - R^2}\right]\cdot\left[\frac{n - m}{m - 1}\right]$
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative $r^{JUVE}$, $r^{VW}$ e Brent sia significativo va rigettata
 
 **D:** ⚠️ Che cosa indica l'equazione 131 se l'alfa di Jensen del fondo è significativamente diverso da zero (slide 8 della lezione 28)?
 **R:** Slide 8: «Infatti, l'equazione 131 indica chiaramente che se l'“alfa di Jensen” del fondo è significativamente diverso da zero, allora l'extra-rendimento del fondo rispetto all'asset privo di rischio **non è spiegato solamente** dall'andamento generale del mercato dell'asset class di riferimento, **ma anche da un'ulteriore componente espressamente legata alla gestione del fondo medesimo**». Il docente: l'extra rendimento «non è spiegato solamente dall'andamento generale di mercato dell'azione o dell'obbligazione o dell'indice considerato o della commodity considerata, ma anche da un altro componente, che è legata alla gestione del fondo» (transcript [00:09:48]–[00:10:08]). ⚠️ «Non … solamente … ma anche»: l'andamento del mercato resta una spiegazione, e vi si aggiunge la gestione.
 **Opzione:** Che l'extra-rendimento del fondo rispetto all'asset privo di rischio non è spiegato solamente dall'andamento generale del mercato dell'asset class di riferimento, ma anche da un'ulteriore componente espressamente legata alla gestione del fondo medesimo
 **Distrattori:**
 - Che l'extra-rendimento del fondo rispetto all'asset privo di rischio è spiegato solamente dall'andamento generale del mercato dell'asset class di riferimento, e non da un'ulteriore componente espressamente legata alla gestione del fondo medesimo
-- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
-- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con $(m - 1)$ e con $(n - m)$ gradi di libertà
+- $\Pr(t_{\alpha/2} \leq X \leq t_{1-\alpha/2}) = 1 - \alpha$, con $X$ variabile aleatoria t di Student con $(n - m)$ gradi di libertà
 
-**D:** ⚠️ Che cosa si può ragionevolmente ipotizzare, per la slide 8 della lezione 28, se α_{fondo}^J è significativamente diverso da zero e positivo?
-**R:** Slide 8: «In particolare, se α_{fondo}^J è significativamente diverso da zero e positivo, si può ragionevolmente ipotizzare che **il gestore del fondo sia molto bravo e riesca, in media, a “battere il mercato”**». Il docente: «se alfa del fondo è diverso da zero positivo vuol dire che il gestore del fondo è molto bravo in media a battere il mercato» (transcript [00:10:12]). ⚠️ Due condizioni, **significativamente diverso da zero** e **positivo**; e una conclusione **in media**, non in ogni periodo. La slide è prudente, «si può ragionevolmente ipotizzare», il docente più netto, «vuol dire».
+**D:** ⚠️ Che cosa si può ragionevolmente ipotizzare, per la slide 8 della lezione 28, se $\alpha_{fondo}^J$ è significativamente diverso da zero e positivo?
+**R:** Slide 8: «In particolare, se $\alpha_{fondo}^J$ è significativamente diverso da zero e positivo, si può ragionevolmente ipotizzare che **il gestore del fondo sia molto bravo e riesca, in media, a “battere il mercato”**». Il docente: «se alfa del fondo è diverso da zero positivo vuol dire che il gestore del fondo è molto bravo in media a battere il mercato» (transcript [00:10:12]). ⚠️ Due condizioni, **significativamente diverso da zero** e **positivo**; e una conclusione **in media**, non in ogni periodo. La slide è prudente, «si può ragionevolmente ipotizzare», il docente più netto, «vuol dire».
 **Opzione:** Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
 **Distrattori:**
 - Che il gestore del fondo sia molto bravo e riesca, in ogni periodo, a battere il mercato
-- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
-- H_0: β_i = 0 e H_1: β_i ≠ 0
+- $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$, cioè $\mathrm{TSS} = \mathrm{RSS}^r$: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+- $H_0: \beta_i = 0$ e $H_1: \beta_i \neq 0$
 
-**D:** ⚠️ Con quali ipotesi alternative si verifica, nella slide 8 della lezione 28, la conclusione sul coefficiente α_{fondo}^J dell'equazione 131?
-**R:** Slide 8: «Una simile conclusione è suffragata dalla verifica di ipotesi sul coefficiente α_{fondo}^J dell'equazione 131, con le seguenti ipotesi alternative: **H_0: α_{fondo}^J = 0** e **H_1: α_{fondo}^J ≠ 0**». Il docente: «Ipotesi nulla, alfa del fondo zero … non c'è bravura o meglio il gestore non batte in media il mercato», e alfa di Jensen «diverso da zero il gestore si discosta dal mercato» (transcript [00:10:40]–[00:10:44]). ⚠️ H_1 è **≠ 0**, bilaterale, anche se la bravura del gestore richiede un alfa **positivo** (slide 8): l'ipotesi alternativa non è α_{fondo}^J > 0.
-**Opzione:** H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+**D:** ⚠️ Con quali ipotesi alternative si verifica, nella slide 8 della lezione 28, la conclusione sul coefficiente $\alpha_{fondo}^J$ dell'equazione 131?
+**R:** Slide 8: «Una simile conclusione è suffragata dalla verifica di ipotesi sul coefficiente $\alpha_{fondo}^J$ dell'equazione 131, con le seguenti ipotesi alternative: **$H_0: \alpha_{fondo}^J = 0$** e **$H_1: \alpha_{fondo}^J \neq 0$**». Il docente: «Ipotesi nulla, alfa del fondo zero … non c'è bravura o meglio il gestore non batte in media il mercato», e alfa di Jensen «diverso da zero il gestore si discosta dal mercato» (transcript [00:10:40]–[00:10:44]). ⚠️ $H_1$ è **$\neq 0$**, bilaterale, anche se la bravura del gestore richiede un alfa **positivo** (slide 8): l'ipotesi alternativa non è $\alpha_{fondo}^J > 0$.
+**Opzione:** $H_0: \alpha_{fondo}^J = 0$ e $H_1: \alpha_{fondo}^J \neq 0$
 **Distrattori:**
-- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J > 0
-- Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- $H_0: \alpha_{fondo}^J = 0$ e $H_1: \alpha_{fondo}^J > 0$
+- Col livello di confidenza $(1 - \alpha)$ prescelto, che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
 - Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
 
 **D:** ⚠️ Quali proxy usa l'esempio del fondo comune Pippo, che investe sul comparto azionario italiano (slide 9 della lezione 28)?
-**R:** Slide 9: «Come proxy del rendimento di mercato si considera la **performance dell'indice FTSE Mib** e come proxy del rendimento privo di rischio si considera **il rendimento offerto dal BOT trimestrale**». L'equazione 131 diventa r_{pippo} - r_{risk-free} = α_{pippo}^J + β_{pippo}(r_{FTSEMIB} - r_{risk-free}) + ε (132), stimata «su un campione di 19 osservazioni di rendimenti trimestrali annualizzati». Il docente: «come proxy del rendimento di mercato prendiamo l'indice di borsa dei titoli italiani», il FTSE Mib, «e come proxy di rendimento privo di rischio mettiamo il BOT, anche se sappiamo che i titoli di Stato italiani non sono esattamente» risk-free (transcript [00:11:09]–[00:11:26]). ⚠️ Il FTSE Mib è il **mercato**, il BOT il **risk-free**. «Trimestrale» lo dice solo la slide.
+**R:** Slide 9: «Come proxy del rendimento di mercato si considera la **performance dell'indice FTSE Mib** e come proxy del rendimento privo di rischio si considera **il rendimento offerto dal BOT trimestrale**». L'equazione 131 diventa $r_{pippo} - r_{risk\text{-}free} = \alpha_{pippo}^J + \beta_{pippo}(r_{FTSEMIB} - r_{risk\text{-}free}) + \varepsilon$ (132), stimata «su un campione di 19 osservazioni di rendimenti trimestrali annualizzati». Il docente: «come proxy del rendimento di mercato prendiamo l'indice di borsa dei titoli italiani», il FTSE Mib, «e come proxy di rendimento privo di rischio mettiamo il BOT, anche se sappiamo che i titoli di Stato italiani non sono esattamente» risk-free (transcript [00:11:09]–[00:11:26]). ⚠️ Il FTSE Mib è il **mercato**, il BOT il **risk-free**. «Trimestrale» lo dice solo la slide.
 **Opzione:** La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
 **Distrattori:**
 - La performance dell'indice FTSE Mib come proxy del rendimento privo di rischio e il rendimento offerto dal BOT trimestrale come proxy del rendimento di mercato
 - Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
-- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+- $r^{STLA} = \beta_0 + \beta_1r^{JUVE} + \beta_2r^{VW} + \beta_3\mathrm{Brent} + \varepsilon$, con $r^{STLA}$ il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
 
-**D:** ⚠️ Quali valori riporta la tabella della slide 10 della lezione 28 per la stima α̂_{pippo}^{J,OLS} dell'alfa di Jensen del fondo Pippo?
-**R:** Slide 10, la tabella: per **α̂_{pippo}^{J,OLS}** coefficiente stimato **0,0244673**, t-ratio **1,2**, p-value **0,2466**; per β̂_{pippo}^{OLS} coefficiente stimato 0,930614, t-ratio 19,38, p-value 5,00e-013. Il docente: «dobbiamo confrontare il T ratio dell'alpha di Jensen che è pari a 1,2» (transcript [00:12:34]); il p-value lo legge «pari a 0,24%» e poi «Siamo al 24%» ([00:14:12]–[00:14:27]), mentre la slide scrive 0,2466, circa il 24,7%. ⚠️ Il t-ratio 19,38 e il p-value 5,00e-013 sono della stima del **β**, che né la slide né il docente commentano.
+**D:** ⚠️ Quali valori riporta la tabella della slide 10 della lezione 28 per la stima $\hat{\alpha}_{pippo}^{J,OLS}$ dell'alfa di Jensen del fondo Pippo?
+**R:** Slide 10, la tabella: per **$\hat{\alpha}_{pippo}^{J,OLS}$** coefficiente stimato **0,0244673**, t-ratio **1,2**, p-value **0,2466**; per $\hat{\beta}_{pippo}^{OLS}$ coefficiente stimato 0,930614, t-ratio 19,38, p-value 5,00e-013. Il docente: «dobbiamo confrontare il T ratio dell'alpha di Jensen che è pari a 1,2» (transcript [00:12:34]); il p-value lo legge «pari a 0,24%» e poi «Siamo al 24%» ([00:14:12]–[00:14:27]), mentre la slide scrive 0,2466, circa il 24,7%. ⚠️ Il t-ratio 19,38 e il p-value 5,00e-013 sono della stima del **$\beta$**, che né la slide né il docente commentano.
 **Opzione:** Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
 **Distrattori:**
 - Coefficiente stimato 0,0244673, t-ratio 19,38, p-value 5,00e-013
-- Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+- Una maggiore probabilità che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
 - Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
 
-**D:** ⚠️ Con quali valori della t di Student va confrontato il t-ratio di α̂_{pippo}^{J,OLS} per un livello di confidenza del 99%, e con quanti gradi di libertà (slide 10 della lezione 28)?
-**R:** Slide 10: «Ipotizzando di voler decidere se rigettare o meno l'ipotesi nulla con un livello di confidenza del 99%, occorre confrontare il t-ratio di α̂_{pippo}^{J,OLS} che è pari a 1,2 con i valori **t_{0,5%} e t_{99,5%}** della distribuzione t di Student con **17 gradi di libertà (19 osservazioni - 2 colonne nella matrice dei regressori)**». Il docente: «con i valori della T di student a 0,5% e a 99,5% perché noi abbiamo detto che vogliamo l'1% di alfa» (transcript [00:12:41]); «avendo preso 19 osservazioni Noi dobbiamo levare i due gradi di libertà, quindi abbiamo 17, perché sono le due colonne nella matrice dei regressori» ([00:13:03]–[00:13:09]). ⚠️ α = 1% si divide fra le due code: le soglie sono a **0,5%** e **99,5%**, non a 1% e 99%. I gradi di libertà sono n - m = 19 - 2.
-**Opzione:** Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+**D:** ⚠️ Con quali valori della t di Student va confrontato il t-ratio di $\hat{\alpha}_{pippo}^{J,OLS}$ per un livello di confidenza del 99%, e con quanti gradi di libertà (slide 10 della lezione 28)?
+**R:** Slide 10: «Ipotizzando di voler decidere se rigettare o meno l'ipotesi nulla con un livello di confidenza del 99%, occorre confrontare il t-ratio di $\hat{\alpha}_{pippo}^{J,OLS}$ che è pari a 1,2 con i valori **$t_{0{,}5\%}$ e $t_{99{,}5\%}$** della distribuzione t di Student con **17 gradi di libertà (19 osservazioni - 2 colonne nella matrice dei regressori)**». Il docente: «con i valori della T di student a 0,5% e a 99,5% perché noi abbiamo detto che vogliamo l'1% di alfa» (transcript [00:12:41]); «avendo preso 19 osservazioni Noi dobbiamo levare i due gradi di libertà, quindi abbiamo 17, perché sono le due colonne nella matrice dei regressori» ([00:13:03]–[00:13:09]). ⚠️ $\alpha = 1\%$ si divide fra le due code: le soglie sono a **0,5%** e **99,5%**, non a 1% e 99%. I gradi di libertà sono $n - m = 19 - 2$.
+**Opzione:** Con $t_{0{,}5\%}$ e $t_{99{,}5\%}$, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
 **Distrattori:**
-- Con t_{1%} e t_{99%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
-- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
-- F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+- Con $t_{1\%}$ e $t_{99\%}$, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+- $3 = m - 1 = 4 - 1$ restrizioni sui coefficienti ($\beta_1$, $\beta_2$ e $\beta_3$) del modello ristretto, perché non ve ne sono sul termine costante; $30 = n - m = 34 - 4$
+- $\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$, con $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
 
-**D:** ⚠️ Che cosa si conclude, nella slide 11 della lezione 28, confrontando il t-ratio 1,2 di α̂_{pippo}^{J,OLS} con t_{0,5%} = -2,8982 e t_{99,5%} = 2,8982?
-**R:** Slide 11: «Essendo t_{0,5%} = -2,8982 e t_{99,5%} = 2,8982, il t-ratio di α̂_{pippo}^{J,OLS} risulta **compreso nell'intervallo** delimitato da questi due valori e pertanto **non si può rigettare l'ipotesi nulla** che nel modello di cui all'equazione 132 il valore del termine costante α_{pippo}^J sia pari a zero». Il docente: «notate l'elemento simmetrico, il T ratio dell'alfa di Jensen è compreso nell'intervallo»; «Quindi non si può rigettare l'ipotesi nulla che l'alpha Jensen del fondo» Pippo «sia pari a zero» (transcript [00:13:48]–[00:14:00]). ⚠️ Dentro l'intervallo **non si rigetta** H_0 (regola della slide 3).
-**Opzione:** Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
+**D:** ⚠️ Che cosa si conclude, nella slide 11 della lezione 28, confrontando il t-ratio 1,2 di $\hat{\alpha}_{pippo}^{J,OLS}$ con $t_{0{,}5\%} = -2{,}8982$ e $t_{99{,}5\%} = 2{,}8982$?
+**R:** Slide 11: «Essendo $t_{0{,}5\%} = -2{,}8982$ e $t_{99{,}5\%} = 2{,}8982$, il t-ratio di $\hat{\alpha}_{pippo}^{J,OLS}$ risulta **compreso nell'intervallo** delimitato da questi due valori e pertanto **non si può rigettare l'ipotesi nulla** che nel modello di cui all'equazione 132 il valore del termine costante $\alpha_{pippo}^J$ sia pari a zero». Il docente: «notate l'elemento simmetrico, il T ratio dell'alfa di Jensen è compreso nell'intervallo»; «Quindi non si può rigettare l'ipotesi nulla che l'alpha Jensen del fondo» Pippo «sia pari a zero» (transcript [00:13:48]–[00:14:00]). ⚠️ Dentro l'intervallo **non si rigetta** $H_0$ (regola della slide 3).
+**Opzione:** Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante $\alpha_{pippo}^J$ sia pari a zero
 **Distrattori:**
-- Che, essendo compreso nell'intervallo delimitato da questi due valori, si deve rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
-- Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
-- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, si deve rigettare l'ipotesi nulla che il termine costante $\alpha_{pippo}^J$ sia pari a zero
+- Col livello di confidenza $(1 - \alpha)$ prescelto, che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
+- Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di $\mathbf{x}$ oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta $\mathbf{y}$
 
-**D:** ⚠️ Che cosa indica, nella slide 11 della lezione 28, il p-value 0,2466 associato ad α_{pippo}^J?
-**R:** Slide 11: «Allo stesso risultato si perviene osservando che il p-value associato ad α_{pippo}^J è pari a 0,2466 ed ha quindi **un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata**. In altri termini, i dati osservati **non indicano** che il gestore del fondo abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato». Il docente: «ed ha quindi un valore troppo alto per concludere che l'ipotesi nulla vada rigettata. Siamo al 24%, altro che 1%» (transcript [00:14:21]–[00:14:27]). ⚠️ Un p-value **superiore** all'α prescelto, qui l'1%, non permette di rigettare H_0 (regola della slide 4). Il docente lo dice prima «0,24%» ([00:14:12]): il valore della slide è 0,2466.
+**D:** ⚠️ Che cosa indica, nella slide 11 della lezione 28, il p-value 0,2466 associato ad $\alpha_{pippo}^J$?
+**R:** Slide 11: «Allo stesso risultato si perviene osservando che il p-value associato ad $\alpha_{pippo}^J$ è pari a 0,2466 ed ha quindi **un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata**. In altri termini, i dati osservati **non indicano** che il gestore del fondo abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato». Il docente: «ed ha quindi un valore troppo alto per concludere che l'ipotesi nulla vada rigettata. Siamo al 24%, altro che 1%» (transcript [00:14:21]–[00:14:27]). ⚠️ Un p-value **superiore** all'$\alpha$ prescelto, qui l'1%, non permette di rigettare $H_0$ (regola della slide 4). Il docente lo dice prima «0,24%» ([00:14:12]): il valore della slide è 0,2466.
 **Opzione:** Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
 **Distrattori:**
 - Un valore abbastanza basso per poter concludere che l'ipotesi nulla vada rigettata: i dati indicano che il gestore ha la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
-- H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
-- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
+- $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$ e $H_1: \beta_1 \neq 0$ oppure $\beta_2 \neq 0$ oppure ⋯ oppure $\beta_{m-1} \neq 0$
+- $3 = m - 1 = 4 - 1$ restrizioni sui coefficienti ($\beta_1$, $\beta_2$ e $\beta_3$) del modello ristretto, perché non ve ne sono sul termine costante; $30 = n - m = 34 - 4$
 
 **D:** ⚠️ Qual è lo scopo del test sulla significatività congiunta di tutti i coefficienti del modello (slide 12 della lezione 28)?
-**R:** Slide 12: «Tuttavia, è possibile anche effettuare un test sulla significatività congiunta di tutti i coefficienti del modello. In questo caso lo scopo della verifica di ipotesi è cioè quello di capire se, **oltre alla costante del modello, almeno una delle altre variabili indipendenti** (ossia almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲». Il docente: «se oltre all'elemento della costante del modello almeno una delle … altre variabili indipendenti … oltre a quella composta da tutti gli uno che è quella del parametro costante, riesca a spiegare come si comporta la nostra variabile y» (transcript [00:15:54]–[00:16:06]). ⚠️ Il quantificatore è **almeno una**, non tutte; e la costante, la prima colonna di 1, è **esclusa**. I test precedenti verificavano invece la significatività di **singoli** coefficienti.
-**Opzione:** Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta 𝐲
+**R:** Slide 12: «Tuttavia, è possibile anche effettuare un test sulla significatività congiunta di tutti i coefficienti del modello. In questo caso lo scopo della verifica di ipotesi è cioè quello di capire se, **oltre alla costante del modello, almeno una delle altre variabili indipendenti** (ossia almeno una delle colonne di $\mathbf{x}$ oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta $\mathbf{y}$». Il docente: «se oltre all'elemento della costante del modello almeno una delle … altre variabili indipendenti … oltre a quella composta da tutti gli uno che è quella del parametro costante, riesca a spiegare come si comporta la nostra variabile y» (transcript [00:15:54]–[00:16:06]). ⚠️ Il quantificatore è **almeno una**, non tutte; e la costante, la prima colonna di 1, è **esclusa**. I test precedenti verificavano invece la significatività di **singoli** coefficienti.
+**Opzione:** Capire se, oltre alla costante del modello, almeno una delle altre variabili indipendenti (almeno una delle colonne di $\mathbf{x}$ oltre alla prima colonna composta tutta da 1) contribuisca a spiegare come si comporta $\mathbf{y}$
 **Distrattori:**
-- Capire se, oltre alla costante del modello, tutte le altre variabili indipendenti (tutte le colonne di 𝐱 oltre alla prima colonna composta tutta da 1) contribuiscano a spiegare come si comporta 𝐲
-- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+- Capire se, oltre alla costante del modello, tutte le altre variabili indipendenti (tutte le colonne di $\mathbf{x}$ oltre alla prima colonna composta tutta da 1) contribuiscano a spiegare come si comporta $\mathbf{y}$
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice $\mathbf{x}$) non è rilevante per spiegare il comportamento della variabile dipendente $\mathbf{y}$
 
 **D:** ⚠️ Quali sono le due ipotesi alternative del test sulla significatività congiunta (slide 13 della lezione 28)?
-**R:** Slide 13: «Per quanto precede, le due ipotesi alternative di questo test sono le seguenti (ricordando che β_0 è il coefficiente del termine costante). **H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0** e **H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0**». Il docente: «ricordando che beta0 è il termine costante, l'ipotesi nulla è beta1 uguale a beta2 uguale a beta3 uguale a betaM-1 uguale a 0, ovvero beta1 diverso da 0, beta2 diverso da 0, betaM-1 diverso da 0» (transcript [00:16:32]). ⚠️ **β_0 non compare**: sulla costante non c'è restrizione. In H_1 le disuguaglianze sono legate da **«oppure»**: basta che **uno** dei coefficienti sia diverso da zero. Il docente dice «ovvero» e omette gli «oppure».
-**Opzione:** H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 e H_1: β_1 ≠ 0 oppure β_2 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
+**R:** Slide 13: «Per quanto precede, le due ipotesi alternative di questo test sono le seguenti (ricordando che $\beta_0$ è il coefficiente del termine costante). **$H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$** e **$H_1: \beta_1 \neq 0$ oppure $\beta_2 \neq 0$ oppure ⋯ oppure $\beta_{m-1} \neq 0$**». Il docente: «ricordando che beta0 è il termine costante, l'ipotesi nulla è beta1 uguale a beta2 uguale a beta3 uguale a betaM-1 uguale a 0, ovvero beta1 diverso da 0, beta2 diverso da 0, betaM-1 diverso da 0» (transcript [00:16:32]). ⚠️ **$\beta_0$ non compare**: sulla costante non c'è restrizione. In $H_1$ le disuguaglianze sono legate da **«oppure»**: basta che **uno** dei coefficienti sia diverso da zero. Il docente dice «ovvero» e omette gli «oppure».
+**Opzione:** $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$ e $H_1: \beta_1 \neq 0$ oppure $\beta_2 \neq 0$ oppure ⋯ oppure $\beta_{m-1} \neq 0$
 **Distrattori:**
-- H_0: β_0 = β_1 = ⋯ = β_{m-1} = 0 e H_1: β_0 ≠ 0 oppure β_1 ≠ 0 oppure ⋯ oppure β_{m-1} ≠ 0
-- Pr(t_{α/2} ≤ X ≤ t_{1-α/2}) = 1 - α, con X variabile aleatoria t di Student con (n - m) gradi di libertà
-- p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
+- $H_0: \beta_0 = \beta_1 = \cdots = \beta_{m-1} = 0$ e $H_1: \beta_0 \neq 0$ oppure $\beta_1 \neq 0$ oppure ⋯ oppure $\beta_{m-1} \neq 0$
+- $\Pr(t_{\alpha/2} \leq X \leq t_{1-\alpha/2}) = 1 - \alpha$, con $X$ variabile aleatoria t di Student con $(n - m)$ gradi di libertà
+- $\text{p-value} = \Pr(X \geq \frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}})$
 
 **D:** ⚠️ Quale capacità esplicativa confronta la statistica test del test congiunto, e come si chiamano i due modelli (slide 13 della lezione 28)?
-**R:** Slide 13: «Per effettuare la verifica di ipotesi appena descritta si utilizza una statistica test che confronta la capacità esplicativa del **modello lineare specificato (c.d. modello non ristretto)** con quella del **modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)**». Il docente: la statistica «confronta la capacità esplicativa del modello non ristretto con quella del modello lineare in cui l'unica variabile indipendente è il termine costante» (transcript [00:16:55]). ⚠️ **Non ristretto** è il modello con tutti i regressori; **ristretto** quello con la sola costante, cioè quello che si ottiene imponendo H_0 (deduzione). Nella (133) RSS^r è del ristretto, RSS^{nr} del non ristretto.
+**R:** Slide 13: «Per effettuare la verifica di ipotesi appena descritta si utilizza una statistica test che confronta la capacità esplicativa del **modello lineare specificato (c.d. modello non ristretto)** con quella del **modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)**». Il docente: la statistica «confronta la capacità esplicativa del modello non ristretto con quella del modello lineare in cui l'unica variabile indipendente è il termine costante» (transcript [00:16:55]). ⚠️ **Non ristretto** è il modello con tutti i regressori; **ristretto** quello con la sola costante, cioè quello che si ottiene imponendo $H_0$ (deduzione). Nella (133) $\mathrm{RSS}^r$ è del ristretto, $\mathrm{RSS}^{nr}$ del non ristretto.
 **Opzione:** Quella del modello lineare specificato (c.d. modello non ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello ristretto)
 **Distrattori:**
 - Quella del modello lineare specificato (c.d. modello ristretto) con quella del modello lineare in cui l'unica variabile indipendente è il termine costante (c.d. modello non ristretto)
-- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+- $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$, che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con $(n - m)$ gradi di libertà
 - Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
 
-**D:** ⚠️ Come è definita la statistica F (o F-statistic), nella Definizione della slide 14 della lezione 28 (equazione 133)?
-**R:** Slide 14, «Definizione»: «Si definisce **statistica F** (o F-statistic) e si denota con F-test la statistica test così definita: **F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]** (133) ove RSS^r e RSS^{nr} denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «la somma» dei quadrati dei residui «del modello lineare ristretto meno la somma» dei quadrati «dei residui del modello non ristretto diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:17]–[00:17:41]). ⚠️ **(m - 1)** divide il numeratore, **(n - m)** il denominatore; al denominatore c'è RSS^{nr}, del modello **non ristretto**. È la chiave della domanda 4 del test.
-**Opzione:** F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+**D:** ⚠️ Come è definita la statistica $F$ (o F-statistic), nella Definizione della slide 14 della lezione 28 (equazione 133)?
+**R:** Slide 14, «Definizione»: «Si definisce **statistica $F$** (o F-statistic) e si denota con F-test la statistica test così definita: **$\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$** (133) ove $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «la somma» dei quadrati dei residui «del modello lineare ristretto meno la somma» dei quadrati «dei residui del modello non ristretto diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:17]–[00:17:41]). ⚠️ **$(m - 1)$** divide il numeratore, **$(n - m)$** il denominatore; al denominatore c'è $\mathrm{RSS}^{nr}$, del modello **non ristretto**. È la chiave della domanda 4 del test.
+**Opzione:** $\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$, con $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
 **Distrattori:**
-- F-test := [(RSS^r - RSS^{nr})/(n - m)]/[RSS^{nr}/(m - 1)], con RSS^r e RSS^{nr} la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
-- Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
-- (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}), che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con (n - m) gradi di libertà
+- $\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(n - m)]}{[\mathrm{RSS}^{nr}/(m - 1)]}$, con $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ la somma dei quadrati dei residui del modello ristretto e di quello non ristretto
+- Con $t_{0{,}5\%}$ e $t_{99{,}5\%}$, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+- $\frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$, che risulta appartenere a una variabile aleatoria con funzione di densità di probabilità t di Student con $(n - m)$ gradi di libertà
 
 **D:** ⚠️ Che cosa misura la formula 133 della lezione 28, al netto di alcuni aggiustamenti, e di che cosa tengono conto gli aggiustamenti?
 **R:** Slide 14: «La formula di cui all'equazione 133 ha un'interpretazione molto intuitiva. Al netto di alcuni aggiustamenti (fatti per tener conto **del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test**), essa misura **quanto si riduce la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto**, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori». Il docente: «leviamo l'aggiustamento M-1, N-M che serve per considerare le osservazioni disponibili, regressori, restrizioni, eccetera»; «quanto si riduce la somma dei quadrati dei residui quando passo dal ristretto a non ristretto?» (transcript [00:17:58]–[00:18:09]). ⚠️ Gli aggiustamenti sono **tre**, nell'ordine; la slide non ha «eccetera». Passando al non ristretto la somma dei quadrati dei residui **si riduce**.
 **Opzione:** Quanto si riduce la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori; gli aggiustamenti tengono conto del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test
 **Distrattori:**
 - Quanto aumenta la somma dei quadrati dei residui passando dal modello ristretto a quello non ristretto, e quindi quanto migliora la capacità esplicativa del modello usando tutti i regressori; gli aggiustamenti tengono conto del numero di osservazioni disponibili, del numero di regressori e del numero di restrizioni imposte dal test
-- H_0: β_i = 0 e H_1: β_i ≠ 0
+- $H_0: \beta_i = 0$ e $H_1: \beta_i \neq 0$
 
-**D:** ⚠️ Che cosa implica, per la slide 14 della lezione 28, una differenza maggiore tra RSS^r e RSS^{nr}?
-**R:** Slide 14: «**Maggiore** è la differenza tra RSS^r e RSS^{nr}, **maggiore** è dunque la probabilità che **almeno uno** dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero». Il docente: «maggiore è la differenza tra la somma dei quadrati dei residui del modello ristretto e quello non ristretto maggiore la probabilità che almeno uno di questi coefficienti beta con i sia diverso da zero e quindi che almeno uno dei regressori vada a fornire un contributo positivo» (transcript [00:18:25]–[00:18:53]). ⚠️ Le due grandezze crescono **insieme**; il quantificatore è **almeno uno**, e gli indici partono da 1: la costante β_0 resta fuori.
-**Opzione:** Una maggiore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+**D:** ⚠️ Che cosa implica, per la slide 14 della lezione 28, una differenza maggiore tra $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$?
+**R:** Slide 14: «**Maggiore** è la differenza tra $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$, **maggiore** è dunque la probabilità che **almeno uno** dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero». Il docente: «maggiore è la differenza tra la somma dei quadrati dei residui del modello ristretto e quello non ristretto maggiore la probabilità che almeno uno di questi coefficienti beta con i sia diverso da zero e quindi che almeno uno dei regressori vada a fornire un contributo positivo» (transcript [00:18:25]–[00:18:53]). ⚠️ Le due grandezze crescono **insieme**; il quantificatore è **almeno uno**, e gli indici partono da 1: la costante $\beta_0$ resta fuori.
+**Opzione:** Una maggiore probabilità che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
 **Distrattori:**
-- Una minore probabilità che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
-- H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
-- r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
+- Una minore probabilità che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
+- $H_0$ non può essere rigettata, ossia non si può rigettare l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ è rigettata
+- $r_{fondo} - r_{risk\text{-}free} = \alpha_{fondo}^J + \beta_{fondo}(r_{mkt}^{AC} - r_{risk\text{-}free}) + \varepsilon$
 
 **D:** ⚠️ Che distribuzione ha, per il Teorema della slide 15 della lezione 28, il rapporto tra una variabile aleatoria Chi-quadrato con df1 gradi di libertà e una variabile aleatoria Chi-quadrato con df2 gradi di libertà, tra loro indipendenti e ciascuna divisa per il numero dei suoi gradi di libertà?
 **R:** Slide 15, «Teorema»: «Il rapporto tra una variabile aleatoria Chi-quadrato con df1 gradi di libertà e una variabile aleatoria Chi-quadrato con df2 gradi di libertà tra loro indipendenti e ciascuna divisa per il numero dei suoi gradi di libertà è una variabile aleatoria che ha una funzione di densità di probabilità **F di Fisher-Snedecor (o anche solo F di Fisher)** con gradi di libertà **df1 e df2**». Il docente: «è una variabile aleatoria che ha una funzione di densità di probabilità di» Fisher; «La F sta per» Fisher-Snedecor «o anche solo F di» Fisher (transcript [00:19:38]–[00:19:55]), e dice «un grado» e «due gradi» di libertà dove la slide ha df1 e df2. ⚠️ Tre condizioni: due **Chi-quadrato**, **indipendenti**, **ciascuna divisa per i suoi gradi di libertà**. La t di Student della lezione 27 è invece il rapporto fra una normale standardizzata e la radice di una Chi-quadrato divisa per i suoi gradi di libertà.
 **Opzione:** Una funzione di densità di probabilità F di Fisher-Snedecor (o anche solo F di Fisher) con gradi di libertà df1 e df2
 **Distrattori:**
 - Una funzione di densità di probabilità t di Student con gradi di libertà df1 e df2
-- Con t_{0,5%} e t_{99,5%}, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
+- Con $t_{0{,}5\%}$ e $t_{99{,}5\%}$, con 17 gradi di libertà: 19 osservazioni - 2 colonne nella matrice dei regressori
 
-**D:** ⚠️ Che cosa afferma la Proposizione della slide 15 della lezione 28 sulle variabili aleatorie (RSS^r - RSS^{nr}) e RSS^{nr}, condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0?
-**R:** Slide 15, «Proposizione»: «Condizionatamente a 𝐱 e sotto l'ipotesi nulla: H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 le variabili aleatorie (RSS^r - RSS^{nr}) e RSS^{nr} sono **tra loro indipendenti** ed entrambe hanno una funzione di densità di probabilità di tipo **Chi-quadrato rispettivamente con (m - 1) e con (n - m) gradi di libertà**». Il docente: «sono indipendenti ed entrambe hanno una funzione di densità di probabilità chi quadro, la differenza con m-1» gradi «di libertà» e «la somma dei residui del modello non ristretto con n-m» (transcript [00:20:22]). ⚠️ L'ordine segue le variabili: **(m - 1)** per la **differenza**, **(n - m)** per **RSS^{nr}**. Con il Teorema, ne segue il Corollario della slide 16.
-**Opzione:** Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (m - 1) e con (n - m) gradi di libertà
+**D:** ⚠️ Che cosa afferma la Proposizione della slide 15 della lezione 28 sulle variabili aleatorie $(\mathrm{RSS}^r - \mathrm{RSS}^{nr})$ e $\mathrm{RSS}^{nr}$, condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$?
+**R:** Slide 15, «Proposizione»: «Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla: $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$ le variabili aleatorie $(\mathrm{RSS}^r - \mathrm{RSS}^{nr})$ e $\mathrm{RSS}^{nr}$ sono **tra loro indipendenti** ed entrambe hanno una funzione di densità di probabilità di tipo **Chi-quadrato rispettivamente con $(m - 1)$ e con $(n - m)$ gradi di libertà**». Il docente: «sono indipendenti ed entrambe hanno una funzione di densità di probabilità chi quadro, la differenza con m-1» gradi «di libertà» e «la somma dei residui del modello non ristretto con n-m» (transcript [00:20:22]). ⚠️ L'ordine segue le variabili: **$(m - 1)$** per la **differenza**, **$(n - m)$** per **$\mathrm{RSS}^{nr}$**. Con il Teorema, ne segue il Corollario della slide 16.
+**Opzione:** Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con $(m - 1)$ e con $(n - m)$ gradi di libertà
 **Distrattori:**
-- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con (n - m) e con (m - 1) gradi di libertà
-- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice 𝐱) non è rilevante per spiegare il comportamento della variabile dipendente 𝐲
+- Che sono tra loro indipendenti ed entrambe hanno una funzione di densità di probabilità di tipo Chi-quadrato, rispettivamente con $(n - m)$ e con $(m - 1)$ gradi di libertà
+- Che la variabile esplicativa ad esso associata (la corrispondente colonna della matrice $\mathbf{x}$) non è rilevante per spiegare il comportamento della variabile dipendente $\mathbf{y}$
 
 **D:** ⚠️ Quale distribuzione ha la statistica F-test dell'equazione 133, per il Corollario della slide 16 della lezione 28?
-**R:** Slide 16, «Corollario»: «Condizionatamente a 𝐱 e sotto l'ipotesi nulla: H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0 la statistica F-test di cui all'equazione 133 ha una funzione di densità di probabilità di tipo **F di Fisher con gradi di libertà (m - 1) e (n - m)**». Il docente: «sotto l'ipotesi nulla la statistica di» Fisher «ha una densità di probabilità» Fisher «con gradi di libertà m-1 ed n-m. È un'applicazione diretta del teorema che abbiamo enunciato prima» (transcript [00:20:51]–[00:21:08]). ⚠️ È la **F di Fisher**, non la t di Student della statistica (128); e vale **sotto H_0**, condizionatamente a 𝐱. Numeratore e denominatore della (133) sono le due Chi-quadrato della Proposizione, ciascuna divisa per i suoi gradi di libertà (deduzione).
-**Opzione:** Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una F di Fisher con gradi di libertà (m - 1) e (n - m)
+**R:** Slide 16, «Corollario»: «Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla: $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$ la statistica F-test di cui all'equazione 133 ha una funzione di densità di probabilità di tipo **F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$**». Il docente: «sotto l'ipotesi nulla la statistica di» Fisher «ha una densità di probabilità» Fisher «con gradi di libertà m-1 ed n-m. È un'applicazione diretta del teorema che abbiamo enunciato prima» (transcript [00:20:51]–[00:21:08]). ⚠️ È la **F di Fisher**, non la t di Student della statistica (128); e vale **sotto $H_0$**, condizionatamente a $\mathbf{x}$. Numeratore e denominatore della (133) sono le due Chi-quadrato della Proposizione, ciascuna divisa per i suoi gradi di libertà (deduzione).
+**Opzione:** Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$, una F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 **Distrattori:**
-- Condizionatamente a 𝐱 e sotto l'ipotesi nulla H_0: β_1 = β_2 = ⋯ = β_{m-1} = 0, una t di Student con (n - m) gradi di libertà
-- r_{fondo} - r_{risk-free} = α_{fondo}^J + β_{fondo}(r_{mkt}^{AC} - r_{risk-free}) + ε
-- H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che β_i sia effettivamente uguale a β_i^∗; in caso contrario H_0 è rigettata
+- Condizionatamente a $\mathbf{x}$ e sotto l'ipotesi nulla $H_0: \beta_1 = \beta_2 = \cdots = \beta_{m-1} = 0$, una t di Student con $(n - m)$ gradi di libertà
+- $r_{fondo} - r_{risk\text{-}free} = \alpha_{fondo}^J + \beta_{fondo}(r_{mkt}^{AC} - r_{risk\text{-}free}) + \varepsilon$
+- $H_0$ non può essere rigettata, ossia non si può rigettare l'ipotesi che $\beta_i$ sia effettivamente uguale a $\beta_i^{\ast}$; in caso contrario $H_0$ è rigettata
 
-**D:** ⚠️ Come è definito il p-value associato alla statistica F-test (equazione 134 della lezione 28), e quale distribuzione ha X?
-**R:** Slide 16: «Si calcola il **p-value** associato alla statistica F-test e così definito: **p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)])** (134) ove X è una variabile casuale con funzione di densità di probabilità **F di Fisher con gradi di libertà (m - 1) e (n - m)**». Il docente: «Definiamo quindi il p-value associato alla statistica di Fisher come la probabilità che la nostra variabile casuale x che ha densità di probabilità Fisher con gradi di libertà m-1 e n-1 sia maggiore o uguale» (transcript [00:21:25]). ⚠️ Il docente dice **«n-1»**, la slide **(n - m)**: per l'esame vale la slide. Il verso è **≥**, e dentro la probabilità c'è la (133) intera. È la chiave della domanda 5 del test.
-**Opzione:** p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m)
+**D:** ⚠️ Come è definito il p-value associato alla statistica F-test (equazione 134 della lezione 28), e quale distribuzione ha $X$?
+**R:** Slide 16: «Si calcola il **p-value** associato alla statistica F-test e così definito: **$\text{p-value} = \Pr(X \geq \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]})$** (134) ove $X$ è una variabile casuale con funzione di densità di probabilità **F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$**». Il docente: «Definiamo quindi il p-value associato alla statistica di Fisher come la probabilità che la nostra variabile casuale x che ha densità di probabilità Fisher con gradi di libertà m-1 e n-1 sia maggiore o uguale» (transcript [00:21:25]). ⚠️ Il docente dice **«n-1»**, la slide **$(n - m)$**: per l'esame vale la slide. Il verso è **≥**, e dentro la probabilità c'è la (133) intera. È la chiave della domanda 5 del test.
+**Opzione:** $\text{p-value} = \Pr(X \geq \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]})$, con $X$ variabile casuale F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$
 **Distrattori:**
-- p-value = Pr(X ≥ [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]), con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - 1)
-- β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
-- Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+- $\text{p-value} = \Pr(X \geq \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]})$, con $X$ variabile casuale F di Fisher con gradi di libertà $(m - 1)$ e $(n - 1)$
+- $\beta_{fondo}$ indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; $\alpha_{fondo}^J$ è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+- Per il caso $\beta_i^{\ast} = 0$, con l'obiettivo di verificare la significatività dei coefficienti stimati $\hat{\beta}_i^{OLS}$ in relazione a ciascuna delle $m$ variabili indipendenti (le $m$ colonne della matrice dei regressori $\mathbf{x}$)
 
 **D:** ⚠️ Che cosa si potrà ritenere, per la slide 17 della lezione 28, se il p-value associato alla statistica F-test è troppo piccolo?
-**R:** Slide 17: «se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata, ossia non si può rigettare l'ipotesi che **tutti** i coefficienti β_i, i = 1, 2, ⋯, m - 1, siano effettivamente uguali a zero; in caso contrario H_0 è rigettata. Intuitivamente, … se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità F di Fisher con gradi di libertà (m - 1) e (n - m). In tal caso, pertanto, si potrà ritenere **col livello di confidenza (1 - α) prescelto** che **almeno uno** dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero». Il docente: «si potrà ritenere che un livello di confidenza 1-α prescelto, almeno, dato che è una verifica congiunta dell'ipotesi, uno di quei coefficienti sia diverso da zero» (transcript [00:23:05]). ⚠️ Rigettare H_0 dice che **almeno uno** è diverso da zero, non che lo siano tutti, né quale (deduzione).
-**Opzione:** Col livello di confidenza (1 - α) prescelto, che almeno uno dei coefficienti β_i, i = 1, 2, ⋯, m - 1, sia diverso da zero
+**R:** Slide 17: «se il p-value è un valore elevato (superiore all'$\alpha$ prescelto), $H_0$ non può essere rigettata, ossia non si può rigettare l'ipotesi che **tutti** i coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, siano effettivamente uguali a zero; in caso contrario $H_0$ è rigettata. Intuitivamente, … se il p-value è troppo piccolo, è piuttosto improbabile che, sotto l'ipotesi nulla, la statistica test che si è ottenuta possa provenire da una distribuzione di probabilità F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$. In tal caso, pertanto, si potrà ritenere **col livello di confidenza $(1 - \alpha)$ prescelto** che **almeno uno** dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero». Il docente: «si potrà ritenere che un livello di confidenza 1-α prescelto, almeno, dato che è una verifica congiunta dell'ipotesi, uno di quei coefficienti sia diverso da zero» (transcript [00:23:05]). ⚠️ Rigettare $H_0$ dice che **almeno uno** è diverso da zero, non che lo siano tutti, né quale (deduzione).
+**Opzione:** Col livello di confidenza $(1 - \alpha)$ prescelto, che almeno uno dei coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, sia diverso da zero
 **Distrattori:**
-- Col livello di confidenza (1 - α) prescelto, che tutti i coefficienti β_i, i = 1, 2, ⋯, m - 1, siano diversi da zero
+- Col livello di confidenza $(1 - \alpha)$ prescelto, che tutti i coefficienti $\beta_i$, $i = 1, 2, \cdots, m - 1$, siano diversi da zero
 - La performance dell'indice FTSE Mib come proxy del rendimento di mercato e il rendimento offerto dal BOT trimestrale come proxy del rendimento privo di rischio
 - Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
 
 **D:** ⚠️ Quale modello lineare stima l'esempio Stellantis della slide 18 della lezione 28, e su quante osservazioni?
-**R:** Slide 18, «Esempio»: «Siano: r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis; r^{JUVE} il rendimento logaritmico giornaliero dell'azione Juventus; r^{VW} il rendimento logaritmico giornaliero dell'azione Volkswagen; Brent la variazione logaritmica giornaliera delle quotazioni del Brent. Si considera il seguente modello lineare: **r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε** (135) Su un campione di **34 osservazioni**, il valore dell'F-test associato al modello 135 stimato col metodo dei minimi quadrati ordinari è 22,70893». Il docente: «Riusciamo a spiegare il rendimento logaritmico giornaliero di Stellantis, a parte che con una costante beta zero, con un po' di rendimento di Juve, un po' di rendimento di Volkswagen, un po' di reddittività del Brent»; «Prendiamo 34 osservazioni» (transcript [00:23:55]–[00:24:11]). ⚠️ La dipendente è **Stellantis**; le osservazioni sono **34**, i gradi di libertà del denominatore **30** = 34 - 4.
-**Opzione:** r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
+**R:** Slide 18, «Esempio»: «Siano: $r^{STLA}$ il rendimento logaritmico giornaliero dell'azione Stellantis; $r^{JUVE}$ il rendimento logaritmico giornaliero dell'azione Juventus; $r^{VW}$ il rendimento logaritmico giornaliero dell'azione Volkswagen; Brent la variazione logaritmica giornaliera delle quotazioni del Brent. Si considera il seguente modello lineare: **$r^{STLA} = \beta_0 + \beta_1r^{JUVE} + \beta_2r^{VW} + \beta_3\mathrm{Brent} + \varepsilon$** (135) Su un campione di **34 osservazioni**, il valore dell'F-test associato al modello 135 stimato col metodo dei minimi quadrati ordinari è 22,70893». Il docente: «Riusciamo a spiegare il rendimento logaritmico giornaliero di Stellantis, a parte che con una costante beta zero, con un po' di rendimento di Juve, un po' di rendimento di Volkswagen, un po' di reddittività del Brent»; «Prendiamo 34 osservazioni» (transcript [00:23:55]–[00:24:11]). ⚠️ La dipendente è **Stellantis**; le osservazioni sono **34**, i gradi di libertà del denominatore **30** = 34 - 4.
+**Opzione:** $r^{STLA} = \beta_0 + \beta_1r^{JUVE} + \beta_2r^{VW} + \beta_3\mathrm{Brent} + \varepsilon$, con $r^{STLA}$ il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 34 osservazioni
 **Distrattori:**
-- r^{STLA} = β_0 + β_1r^{JUVE} + β_2r^{VW} + β_3Brent + ε, con r^{STLA} il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 30 osservazioni
-- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
-- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
+- $r^{STLA} = \beta_0 + \beta_1r^{JUVE} + \beta_2r^{VW} + \beta_3\mathrm{Brent} + \varepsilon$, con $r^{STLA}$ il rendimento logaritmico giornaliero dell'azione Stellantis, su un campione di 30 osservazioni
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante $\alpha_{pippo}^J$ sia pari a zero
+- $t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$
 
 **D:** ⚠️ Che cosa si conclude, nell'esempio Stellantis della slide 18 della lezione 28, sapendo che la probabilità che una F di Fisher con 3 e 30 gradi di libertà assuma valori superiori a 22,70893 è pari a 7,21e-08?
-**R:** Slide 18: la probabilità «è pari a 7,21e-08 e risulta quindi **molto bassa rispetto a tutti i valori standard che vengono tipicamente utilizzati per α (1%, 5%, 10%)**. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo **va rigettata**». Il docente: la probabilità «risulta sostanzialmente infinitesima rispetto a tutti i valori standard che vengono utilizzati per α che sono 1, 5, 10%. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative Juve, Volkswagen e rendimento del Brent sia significativo va rigettata» (transcript [00:24:23]–[00:24:51]). ⚠️ Il p-value è **minore** di α, quindi H_0 **si rigetta**: almeno una delle tre variabili contribuisce a spiegare r^{STLA} (deduzione dalla slide 17). I valori standard di α sono tre: **1%, 5%, 10%**.
-**Opzione:** L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo va rigettata
+**R:** Slide 18: la probabilità «è pari a 7,21e-08 e risulta quindi **molto bassa rispetto a tutti i valori standard che vengono tipicamente utilizzati per $\alpha$ (1%, 5%, 10%)**. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative $r^{JUVE}$, $r^{VW}$ e Brent sia significativo **va rigettata**». Il docente: la probabilità «risulta sostanzialmente infinitesima rispetto a tutti i valori standard che vengono utilizzati per α che sono 1, 5, 10%. Pertanto l'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative Juve, Volkswagen e rendimento del Brent sia significativo va rigettata» (transcript [00:24:23]–[00:24:51]). ⚠️ Il p-value è **minore** di $\alpha$, quindi $H_0$ **si rigetta**: almeno una delle tre variabili contribuisce a spiegare $r^{STLA}$ (deduzione dalla slide 17). I valori standard di $\alpha$ sono tre: **1%, 5%, 10%**.
+**Opzione:** L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative $r^{JUVE}$, $r^{VW}$ e Brent sia significativo va rigettata
 **Distrattori:**
-- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative r^{JUVE}, r^{VW} e Brent sia significativo non può essere rigettata
+- L'ipotesi nulla che nessuno dei coefficienti abbinati alle variabili esplicative $r^{JUVE}$, $r^{VW}$ e Brent sia significativo non può essere rigettata
 - Coefficiente stimato 0,0244673, t-ratio 1,2, p-value 0,2466
 - Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
 
 **D:** ⚠️ Perché, nell'esempio Stellantis, l'F-test va confrontato con una F di Fisher con 3 e 30 gradi di libertà (Nota della slide 19 della lezione 28)?
-**R:** Slide 19, «Nota»: «**3** è il numero di restrizioni imposte dal modello sul valore dei coefficienti (β_1, β_2 e β_3) del modello ristretto ed è pari a **m - 1 = 4 - 1**, ove m è il numero di colonne della matrice 𝐱. La decurtazione di 1 è legata al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna di 𝐱, ossia il termine costante; **30** è la differenza tra il numero di osservazioni (**n = 34**) e il numero totale di colonne della matrice 𝐱 nel modello non ristretto (**m = 4**)». Il docente: «3 è il numero di restrizioni imposte» dal modello; «La decurtazione di 1 è legato al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna della matrice dei regressori, il β0»; «30 invece è la differenza, perché io levo 4 gradi di libertà … rispetto a 34» (transcript [00:25:47]–[00:26:16]). ⚠️ Le restrizioni riguardano **β_1, β_2 e β_3**, non β_0; m = 4 conta anche la colonna di soli 1.
-**Opzione:** 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_1, β_2 e β_3) del modello ristretto, perché non ve ne sono sul termine costante; 30 = n - m = 34 - 4
+**R:** Slide 19, «Nota»: «**3** è il numero di restrizioni imposte dal modello sul valore dei coefficienti ($\beta_1$, $\beta_2$ e $\beta_3$) del modello ristretto ed è pari a **$m - 1 = 4 - 1$**, ove $m$ è il numero di colonne della matrice $\mathbf{x}$. La decurtazione di 1 è legata al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna di $\mathbf{x}$, ossia il termine costante; **30** è la differenza tra il numero di osservazioni (**$n = 34$**) e il numero totale di colonne della matrice $\mathbf{x}$ nel modello non ristretto (**$m = 4$**)». Il docente: «3 è il numero di restrizioni imposte» dal modello; «La decurtazione di 1 è legato al fatto che non vi sono restrizioni sul coefficiente associato alla prima colonna della matrice dei regressori, il β0»; «30 invece è la differenza, perché io levo 4 gradi di libertà … rispetto a 34» (transcript [00:25:47]–[00:26:16]). ⚠️ Le restrizioni riguardano **$\beta_1$, $\beta_2$ e $\beta_3$**, non $\beta_0$; $m = 4$ conta anche la colonna di soli 1.
+**Opzione:** $3 = m - 1 = 4 - 1$ restrizioni sui coefficienti ($\beta_1$, $\beta_2$ e $\beta_3$) del modello ristretto, perché non ve ne sono sul termine costante; $30 = n - m = 34 - 4$
 **Distrattori:**
-- 3 = m - 1 = 4 - 1 restrizioni sui coefficienti (β_0, β_1 e β_2) del modello ristretto, perché non ve ne sono sul coefficiente di Brent; 30 = n - m = 34 - 4
-- p-value = Pr(X ≥ (β̂_i^{OLS} - β_i^∗)/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}))
-- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+- $3 = m - 1 = 4 - 1$ restrizioni sui coefficienti ($\beta_0$, $\beta_1$ e $\beta_2$) del modello ristretto, perché non ve ne sono sul coefficiente di Brent; $30 = n - m = 34 - 4$
+- $\text{p-value} = \Pr(X \geq \frac{\hat{\beta}_i^{OLS} - \beta_i^{\ast}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}})$
+- $H_0: \alpha_{fondo}^J = 0$ e $H_1: \alpha_{fondo}^J \neq 0$
 
-**D:** ⚠️ Come si esprime la statistica F-test in termini di R², nella Proposizione della slide 19 della lezione 28 (equazione 136)?
-**R:** Slide 19, «Proposizione»: «La statistica F-test di cui all'equazione 133 può essere espressa anche in termini di R² come segue: **F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]** (136)». Il docente: «può essere espressa anche in termini del nostro coefficiente di determinazione, r quadro su 1 meno r quadro per n meno m diviso m meno 1» (transcript [00:26:29]). ⚠️ **(n - m)** sta al **numeratore** e **(m - 1)** al denominatore: l'ordine opposto a quello della (133), dove (m - 1) divide il numeratore (deduzione). Nell'esempio Stellantis, con R² = 0,694273: [0,694273/(1 - 0,694273)]·[(34 - 4)/(4 - 1)] = 2,270892 · 10 = 22,70893 (slide 25).
-**Opzione:** F-test = [R²/(1 - R²)]·[(n - m)/(m - 1)]
+**D:** ⚠️ Come si esprime la statistica F-test in termini di $R^2$, nella Proposizione della slide 19 della lezione 28 (equazione 136)?
+**R:** Slide 19, «Proposizione»: «La statistica F-test di cui all'equazione 133 può essere espressa anche in termini di $R^2$ come segue: **$\text{F-test} = \left[\frac{R^2}{1 - R^2}\right]\cdot\left[\frac{n - m}{m - 1}\right]$** (136)». Il docente: «può essere espressa anche in termini del nostro coefficiente di determinazione, r quadro su 1 meno r quadro per n meno m diviso m meno 1» (transcript [00:26:29]). ⚠️ **$(n - m)$** sta al **numeratore** e **$(m - 1)$** al denominatore: l'ordine opposto a quello della (133), dove $(m - 1)$ divide il numeratore (deduzione). Nell'esempio Stellantis, con $R^2 = 0{,}694273$: $\left[\frac{0{,}694273}{1 - 0{,}694273}\right]\cdot\left[\frac{34 - 4}{4 - 1}\right] = 2{,}270892 \cdot 10 = 22{,}70893$ (slide 25).
+**Opzione:** $\text{F-test} = \left[\frac{R^2}{1 - R^2}\right]\cdot\left[\frac{n - m}{m - 1}\right]$
 **Distrattori:**
-- F-test = [R²/(1 - R²)]·[(m - 1)/(n - m)]
+- $\text{F-test} = \left[\frac{R^2}{1 - R^2}\right]\cdot\left[\frac{m - 1}{n - m}\right]$
 - Un valore troppo alto per poter concludere che l'ipotesi nulla vada rigettata: i dati non indicano che il gestore abbia la capacità di generare extra-rendimenti anomali rispetto a quelli del mercato
-- Per il caso β_i^∗ = 0, con l'obiettivo di verificare la significatività dei coefficienti stimati β̂_i^{OLS} in relazione a ciascuna delle m variabili indipendenti (le m colonne della matrice dei regressori 𝐱)
+- Per il caso $\beta_i^{\ast} = 0$, con l'obiettivo di verificare la significatività dei coefficienti stimati $\hat{\beta}_i^{OLS}$ in relazione a ciascuna delle $m$ variabili indipendenti (le $m$ colonne della matrice dei regressori $\mathbf{x}$)
 
-**D:** ⚠️ A che cosa si riduce il fit 𝐲̂^{OLS} = 𝐱(𝐱′𝐱)^(-1)𝐱′𝐲 nel modello ristretto, quando l'unica variabile esplicativa è il termine costante (slide 20–21 della lezione 28)?
-**R:** Slide 20: richiamata la (43), «si osserva che quando l'unica variabile esplicativa è il termine costante (come accade nel caso del modello ristretto), l'equazione precedente diventa: **𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲** (137) dove 𝟏 denota un vettore colonna n × 1 i cui elementi sono tutti pari a 1». Slide 21: «𝐲̂^{OLS} = 𝟏(1/n)𝟏′𝐲 = 𝟏(1/n)∑_{k=1}^n y_k = 𝟏(∑_{k=1}^n y_k/n) = ȳ𝟏 e quindi: **𝐲̂^{OLS} = 𝐲̄** (138) dove 𝐲̄ è un vettore colonna n × 1 i cui elementi sono tutti pari a ȳ, ossia alla media campionaria della variabile dipendente (cfr. equazione 93)». Il docente: il fit «è proprio uguale alla media, che è un altro vettore colonna che esprime la media campionaria, n per 1» (transcript [00:27:28]), e lo chiama «lo stimatore». ⚠️ Nel modello ristretto ogni stima è la **media** ȳ, non l'osservazione y_i; 𝟏′𝟏 = n, quindi (𝟏′𝟏)^(-1) = 1/n (deduzione).
-**Opzione:** 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲̄, il vettore colonna n × 1 i cui elementi sono tutti pari alla media campionaria ȳ della variabile dipendente
+**D:** ⚠️ A che cosa si riduce il fit $\hat{\mathbf{y}}^{OLS} = \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$ nel modello ristretto, quando l'unica variabile esplicativa è il termine costante (slide 20–21 della lezione 28)?
+**R:** Slide 20: richiamata la (43), «si osserva che quando l'unica variabile esplicativa è il termine costante (come accade nel caso del modello ristretto), l'equazione precedente diventa: **$\hat{\mathbf{y}}^{OLS} = \mathbf{1}(\mathbf{1}'\mathbf{1})^{-1}\mathbf{1}'\mathbf{y}$** (137) dove $\mathbf{1}$ denota un vettore colonna $n \times 1$ i cui elementi sono tutti pari a 1». Slide 21: «$\hat{\mathbf{y}}^{OLS} = \mathbf{1}\frac{1}{n}\mathbf{1}'\mathbf{y} = \mathbf{1}\frac{1}{n}\sum_{k=1}^n y_k = \mathbf{1}\frac{\sum_{k=1}^n y_k}{n} = \bar{y}\mathbf{1}$ e quindi: **$\hat{\mathbf{y}}^{OLS} = \bar{\mathbf{y}}$** (138) dove $\bar{\mathbf{y}}$ è un vettore colonna $n \times 1$ i cui elementi sono tutti pari a $\bar{y}$, ossia alla media campionaria della variabile dipendente (cfr. equazione 93)». Il docente: il fit «è proprio uguale alla media, che è un altro vettore colonna che esprime la media campionaria, n per 1» (transcript [00:27:28]), e lo chiama «lo stimatore». ⚠️ Nel modello ristretto ogni stima è la **media** $\bar{y}$, non l'osservazione $y_i$; $\mathbf{1}'\mathbf{1} = n$, quindi $(\mathbf{1}'\mathbf{1})^{-1} = \frac{1}{n}$ (deduzione).
+**Opzione:** $\hat{\mathbf{y}}^{OLS} = \mathbf{1}(\mathbf{1}'\mathbf{1})^{-1}\mathbf{1}'\mathbf{y} = \mathbf{1}\frac{1}{n}\mathbf{1}'\mathbf{y} = \bar{\mathbf{y}}$, il vettore colonna $n \times 1$ i cui elementi sono tutti pari alla media campionaria $\bar{y}$ della variabile dipendente
 **Distrattori:**
-- 𝐲̂^{OLS} = 𝟏(𝟏′𝟏)^(-1)𝟏′𝐲 = 𝟏(1/n)𝟏′𝐲 = 𝐲, il vettore colonna n × 1 i cui elementi sono le osservazioni della variabile dipendente
-- H_0: α_{fondo}^J = 0 e H_1: α_{fondo}^J ≠ 0
+- $\hat{\mathbf{y}}^{OLS} = \mathbf{1}(\mathbf{1}'\mathbf{1})^{-1}\mathbf{1}'\mathbf{y} = \mathbf{1}\frac{1}{n}\mathbf{1}'\mathbf{y} = \mathbf{y}$, il vettore colonna $n \times 1$ i cui elementi sono le osservazioni della variabile dipendente
+- $H_0: \alpha_{fondo}^J = 0$ e $H_1: \alpha_{fondo}^J \neq 0$
 - Che il gestore del fondo sia molto bravo e riesca, in media, a battere il mercato
 
 **D:** ⚠️ Quale uguaglianza vale nel modello ristretto (equazioni 139 e 140 della lezione 28), e quali somme vi si riconoscono?
-**R:** Slide 21: «Dalla 138 discende che nel modello ristretto vale la seguente uguaglianza: **∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})²** (139)». Slide 22: «Si riconosce nel termine sinistro della 139 la formula della **somma totale dei quadrati** di cui all'equazione 92 e nel termine destro la formula della **somma dei quadrati dei residui** di cui all'equazione 96. Pertanto, si può concludere che nel caso del modello ristretto vale la seguente uguaglianza: **TSS = RSS^r** (140)». Il docente: «Nel termine sinistro di questa relazione ritroviamo la formula della somma totale dei quadrati dell'equazione vista precedentemente 92. Nel termine destro la somma dei quadrati dei residui. Quindi possiamo scrivere la formula precedente come TSS uguale RSS del modello ristretto» (transcript [00:27:57]–[00:28:10]). ⚠️ Il termine destro è la somma dei quadrati dei **residui**, perché nel modello ristretto ŷ_i^{OLS} = ȳ (deduzione); non è la devianza spiegata ESS.
-**Opzione:** ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (y_i - ŷ_i^{OLS})², cioè TSS = RSS^r: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
+**R:** Slide 21: «Dalla 138 discende che nel modello ristretto vale la seguente uguaglianza: **$\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$** (139)». Slide 22: «Si riconosce nel termine sinistro della 139 la formula della **somma totale dei quadrati** di cui all'equazione 92 e nel termine destro la formula della **somma dei quadrati dei residui** di cui all'equazione 96. Pertanto, si può concludere che nel caso del modello ristretto vale la seguente uguaglianza: **$\mathrm{TSS} = \mathrm{RSS}^r$** (140)». Il docente: «Nel termine sinistro di questa relazione ritroviamo la formula della somma totale dei quadrati dell'equazione vista precedentemente 92. Nel termine destro la somma dei quadrati dei residui. Quindi possiamo scrivere la formula precedente come TSS uguale RSS del modello ristretto» (transcript [00:27:57]–[00:28:10]). ⚠️ Il termine destro è la somma dei quadrati dei **residui**, perché nel modello ristretto $\hat{y}_i^{OLS} = \bar{y}$ (deduzione); non è la devianza spiegata ESS.
+**Opzione:** $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (y_i - \hat{y}_i^{OLS})^2$, cioè $\mathrm{TSS} = \mathrm{RSS}^r$: a sinistra la somma totale dei quadrati, a destra la somma dei quadrati dei residui
 **Distrattori:**
-- ∑_{i=1}^n (y_i - ȳ)² = ∑_{i=1}^n (ŷ_i^{OLS} - ȳ)², cioè TSS = ESS^r: a sinistra la somma totale dei quadrati, a destra la devianza spiegata
-- t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii})
-- Se il p-value è un valore elevato (superiore all'α prescelto), H_0 non può essere rigettata; in caso contrario H_0 è rigettata
+- $\sum_{i=1}^n (y_i - \bar{y})^2 = \sum_{i=1}^n (\hat{y}_i^{OLS} - \bar{y})^2$, cioè $\mathrm{TSS} = \mathrm{ESS}^r$: a sinistra la somma totale dei quadrati, a destra la devianza spiegata
+- $t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$
+- Se il p-value è un valore elevato (superiore all'$\alpha$ prescelto), $H_0$ non può essere rigettata; in caso contrario $H_0$ è rigettata
 
-**D:** ⚠️ Come si riscrive l'F-test sostituendo TSS = RSS^r nella 133 e applicando la 98 (slide 22 della lezione 28)?
-**R:** Slide 22: «Sostituendo ora il termine sinistro della 140 all'interno del termine destro della 133 si ha: **F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)]** che, in virtù della 98, può essere riscritta come: **= [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]**». Le slide 23–24 proseguono: = (ESS^{nr}/RSS^{nr})·[(n - m)/(m - 1)]; moltiplicando e dividendo per TSS e «riaggiustando», = (ESS^{nr}/TSS)·[1/(RSS^{nr}/TSS)]·[(n - m)/(m - 1)]; «utilizzando di nuovo l'uguaglianza 98», = (ESS^{nr}/TSS)·[1/(1 - ESS^{nr}/TSS)]·[(n - m)/(m - 1)]; e «per la definizione di R² (cfr. equazione 103)» si ha la (136). Il docente: «la parte spiegata ESS non ristretto diviso m meno 1 su RSS del modello non ristretto n meno m» (transcript [00:28:34]). ⚠️ TSS - RSS^{nr} = **ESS^{nr}** va al **numeratore**; RSS^{nr} resta al denominatore.
-**Opzione:** F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [ESS^{nr}/(m - 1)]/[RSS^{nr}/(n - m)]
+**D:** ⚠️ Come si riscrive l'F-test sostituendo $\mathrm{TSS} = \mathrm{RSS}^r$ nella 133 e applicando la 98 (slide 22 della lezione 28)?
+**R:** Slide 22: «Sostituendo ora il termine sinistro della 140 all'interno del termine destro della 133 si ha: **$\text{F-test} = \frac{[(\mathrm{TSS} - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$** che, in virtù della 98, può essere riscritta come: **$= \frac{[\mathrm{ESS}^{nr}/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$**». Le slide 23–24 proseguono: $= \frac{\mathrm{ESS}^{nr}}{\mathrm{RSS}^{nr}}\cdot\left[\frac{n - m}{m - 1}\right]$; moltiplicando e dividendo per TSS e «riaggiustando», $= \frac{\mathrm{ESS}^{nr}}{\mathrm{TSS}}\cdot\left[\frac{1}{\frac{\mathrm{RSS}^{nr}}{\mathrm{TSS}}}\right]\cdot\left[\frac{n - m}{m - 1}\right]$; «utilizzando di nuovo l'uguaglianza 98», $= \frac{\mathrm{ESS}^{nr}}{\mathrm{TSS}}\cdot\left[\frac{1}{1 - \frac{\mathrm{ESS}^{nr}}{\mathrm{TSS}}}\right]\cdot\left[\frac{n - m}{m - 1}\right]$; e «per la definizione di $R^2$ (cfr. equazione 103)» si ha la (136). Il docente: «la parte spiegata ESS non ristretto diviso m meno 1 su RSS del modello non ristretto n meno m» (transcript [00:28:34]). ⚠️ $\mathrm{TSS} - \mathrm{RSS}^{nr} =$ **$\mathrm{ESS}^{nr}$** va al **numeratore**; $\mathrm{RSS}^{nr}$ resta al denominatore.
+**Opzione:** $\text{F-test} = \frac{[(\mathrm{TSS} - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]} = \frac{[\mathrm{ESS}^{nr}/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$
 **Distrattori:**
-- F-test = [(TSS - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)] = [RSS^{nr}/(m - 1)]/[ESS^{nr}/(n - m)]
-- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante α_{pippo}^J sia pari a zero
-- β_{fondo} indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; α_{fondo}^J è il termine costante del modello, chiamato in questo contesto alfa di Jensen
+- $\text{F-test} = \frac{[(\mathrm{TSS} - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]} = \frac{[\mathrm{RSS}^{nr}/(m - 1)]}{[\mathrm{ESS}^{nr}/(n - m)]}$
+- Che, essendo compreso nell'intervallo delimitato da questi due valori, non si può rigettare l'ipotesi nulla che il termine costante $\alpha_{pippo}^J$ sia pari a zero
+- $\beta_{fondo}$ indica la sensibilità dell'extra-rendimento del fondo rispetto al risk-free all'extra-rendimento del mercato rispetto al risk-free; $\alpha_{fondo}^J$ è il termine costante del modello, chiamato in questo contesto alfa di Jensen
 
 **D:** ⚠️ Come viene comunemente denotata l'ipotesi nulla nella verifica delle ipotesi, secondo il test della lezione 28 (domanda 1)?
-**R:** «**H0**», cioè H_0: è la notazione della slide 2, «si dirà che l'ipotesi nulla H_0 così formulata: H_0: β_i = β_i^∗ non può essere rigettata». Il docente: «allora potremmo definire l'ipotesi nulla h0» (transcript [00:01:41]). Distrattori del test: «H1» è l'ipotesi alternativa (slide 3), la chiave della domanda 2: oggetto scambiato. «H01» e «A» non sono nei materiali: le slide e il docente usano solo H_0 e H_1. ⚠️ Le domande 1 e 2 sono speculari, con le stesse quattro opzioni.
+**R:** «**H0**», cioè $H_0$: è la notazione della slide 2, «si dirà che l'ipotesi nulla $H_0$ così formulata: $H_0: \beta_i = \beta_i^{\ast}$ non può essere rigettata». Il docente: «allora potremmo definire l'ipotesi nulla h0» (transcript [00:01:41]). Distrattori del test: «H1» è l'ipotesi alternativa (slide 3), la chiave della domanda 2: oggetto scambiato. «H01» e «A» non sono nei materiali: le slide e il docente usano solo $H_0$ e $H_1$. ⚠️ Le domande 1 e 2 sono speculari, con le stesse quattro opzioni.
 **Opzione:** H0
 **Distrattori:**
 - H1
@@ -9216,15 +9533,15 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - A
 
 **D:** ⚠️ Come viene comunemente denotata l'ipotesi alternativa nella verifica delle ipotesi, secondo il test della lezione 28 (domanda 2)?
-**R:** «**H1**», cioè H_1: slide 3, «L'ipotesi opposta all'ipotesi nulla è detta ipotesi alternativa ed è denotata con H_1. Nel caso in esame, l'ipotesi alternativa è: H_1: β_i ≠ β_i^∗». Il docente: «l'ipotesi alternativa denotata con H con 1» (transcript [00:01:41]–[00:02:11]). Distrattori del test: «H0» è l'ipotesi nulla, la chiave della domanda 1; «H01» e «A» non sono nei materiali. ⚠️ La «A» non è una seconda risposta difendibile: né la slide né il docente denotano l'ipotesi alternativa con A o con H_A.
+**R:** «**H1**», cioè $H_1$: slide 3, «L'ipotesi opposta all'ipotesi nulla è detta ipotesi alternativa ed è denotata con $H_1$. Nel caso in esame, l'ipotesi alternativa è: $H_1: \beta_i \neq \beta_i^{\ast}$». Il docente: «l'ipotesi alternativa denotata con H con 1» (transcript [00:01:41]–[00:02:11]). Distrattori del test: «H0» è l'ipotesi nulla, la chiave della domanda 1; «H01» e «A» non sono nei materiali. ⚠️ La «A» non è una seconda risposta difendibile: né la slide né il docente denotano l'ipotesi alternativa con A o con $H_A$.
 **Opzione:** H1
 **Distrattori:**
 - H01
 - H0
 - A
 
-**D:** ⚠️ Qual è il t-ratio corrispondente a biOLS, l'i-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari, secondo il test della lezione 28 (domanda 3)?
-**R:** «**t:=biOLS/{[(x'x)-1s2e]ii}½**», cioè t := β̂_i^{OLS}/√([(𝐱′𝐱)^(-1)σ̂_ε²]_{ii}): è la (130) della Definizione della slide 6, «è detta t-ratio (o rapporto t) per lo stimatore β̂_i^{OLS}». «s2e» è σ̂_ε², lo stimatore non distorto della varianza dell'errore, con il cappello perso; «½» è la radice quadrata. Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). Distrattori del test: «t:=biOLS/{[(x'x)]ii}½» perde l'inversa e σ̂_ε²; «t:={[(x'x)-1s2e]ii}½» perde il numeratore β̂_i^{OLS} ed è il solo errore standard dello stimatore SE(β̂_i^{OLS}) della lezione 26, la chiave della domanda 1 di quel test (pool condiviso); «t:=biOLS/[(x'x)-1s2e]» perde l'elemento diagonale e la radice, e divide uno scalare per una matrice (deduzione).
+**D:** ⚠️ Qual è il t-ratio corrispondente a biOLS, l'$i$-esimo elemento del vettore dello stimatore dei minimi quadrati ordinari, secondo il test della lezione 28 (domanda 3)?
+**R:** «**t:=biOLS/{[(x'x)-1s2e]ii}½**», cioè $t := \frac{\hat{\beta}_i^{OLS}}{\sqrt{[(\mathbf{x}'\mathbf{x})^{-1}\hat{\sigma}_\varepsilon^2]_{ii}}}$: è la (130) della Definizione della slide 6, «è detta t-ratio (o rapporto $t$) per lo stimatore $\hat{\beta}_i^{OLS}$». «s2e» è $\hat{\sigma}_\varepsilon^2$, lo stimatore non distorto della varianza dell'errore, con il cappello perso; «½» è la radice quadrata. Il docente: «stimatore dei parametri del modello lineare OLS, diviso la radice quadrata dei termini diagonali della nostra matrice, cioè l'inversa di x trasposto x per la varianza dei residui, questo rapporto è detto T ratio» (transcript [00:07:37]). Distrattori del test: «t:=biOLS/{[(x'x)]ii}½» perde l'inversa e $\hat{\sigma}_\varepsilon^2$; «t:={[(x'x)-1s2e]ii}½» perde il numeratore $\hat{\beta}_i^{OLS}$ ed è il solo errore standard dello stimatore $\mathrm{SE}(\hat{\beta}_i^{OLS})$ della lezione 26, la chiave della domanda 1 di quel test (pool condiviso); «t:=biOLS/[(x'x)-1s2e]» perde l'elemento diagonale e la radice, e divide uno scalare per una matrice (deduzione).
 **Opzione:** t:=biOLS/{[(x'x)-1s2e]ii}½
 **Distrattori:**
 - t:=biOLS/{[(x'x)]ii}½
@@ -9232,7 +9549,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - t:=biOLS/[(x'x)-1s2e]
 
 **D:** ⚠️ Come si definisce l'F-test, secondo il test della lezione 28 (domanda 4)?
-**R:** «**F= [(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]**»: è la (133) della Definizione della slide 14, F-test := [(RSS^r - RSS^{nr})/(m - 1)]/[RSS^{nr}/(n - m)], «ove RSS^r e RSS^{nr} denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:41]). Distrattori del test, ognuno con un pezzo in meno: «F= [(RSSr - RSSnr)/(m-1)]/(n-m)» perde RSS^{nr} al denominatore; «F= [(RSSr - RSSnr)/(m-1)]/RSSnr» perde (n - m); «F= (RSSr - RSSnr)/RSSnr/(n-m)» perde (m - 1).
+**R:** «**F= [(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]**»: è la (133) della Definizione della slide 14, $\text{F-test} := \frac{[(\mathrm{RSS}^r - \mathrm{RSS}^{nr})/(m - 1)]}{[\mathrm{RSS}^{nr}/(n - m)]}$, «ove $\mathrm{RSS}^r$ e $\mathrm{RSS}^{nr}$ denotano rispettivamente la somma dei quadrati dei residui del modello lineare ristretto e di quello non ristretto». Il docente: «diviso m meno 1 il tutto diviso la somma dei quadrati dei residui del modello non ristretto diviso n meno m» (transcript [00:17:41]). Distrattori del test, ognuno con un pezzo in meno: «F= [(RSSr - RSSnr)/(m-1)]/(n-m)» perde $\mathrm{RSS}^{nr}$ al denominatore; «F= [(RSSr - RSSnr)/(m-1)]/RSSnr» perde $(n - m)$; «F= (RSSr - RSSnr)/RSSnr/(n-m)» perde $(m - 1)$.
 **Opzione:** F= [(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]
 **Distrattori:**
 - F= [(RSSr - RSSnr)/(m-1)]/(n-m)
@@ -9240,7 +9557,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - F= (RSSr - RSSnr)/RSSnr/(n-m)
 
 **D:** ⚠️ Come è definito il p-value associato alla statistica F-test, secondo il test della lezione 28 (domanda 5)?
-**R:** «**p-value=Pr{X≥[(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]}**»: è la (134) della slide 16, con X variabile casuale F di Fisher con gradi di libertà (m - 1) e (n - m). Il docente: la probabilità che la variabile casuale X con densità F di Fisher «sia maggiore o uguale» alla statistica (transcript [00:21:25]), dove però dice «m-1 e n-1» invece di (n - m). È una matrice a tre assi: verso, divisione o prodotto per (m - 1), denominatore. Distrattori del test: «p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}» ha il verso invertito e le parentesi del denominatore spostate; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/[RSSnr/(n-m)]}» moltiplica per (m - 1) invece di dividere; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/RSSnr}» moltiplica e perde anche (n - m).
+**R:** «**p-value=Pr{X≥[(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]}**»: è la (134) della slide 16, con $X$ variabile casuale F di Fisher con gradi di libertà $(m - 1)$ e $(n - m)$. Il docente: la probabilità che la variabile casuale $X$ con densità F di Fisher «sia maggiore o uguale» alla statistica (transcript [00:21:25]), dove però dice «m-1 e n-1» invece di $(n - m)$. È una matrice a tre assi: verso, divisione o prodotto per $(m - 1)$, denominatore. Distrattori del test: «p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}» ha il verso invertito e le parentesi del denominatore spostate; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/[RSSnr/(n-m)]}» moltiplica per $(m - 1)$ invece di dividere; «p-value=Pr{X≥[(RSSr - RSSnr)∗(m-1)]/RSSnr}» moltiplica e perde anche $(n - m)$.
 **Opzione:** p-value=Pr{X≥[(RSSr - RSSnr)/(m-1)]/[RSSnr/(n-m)]}
 **Distrattori:**
 - p-value=Pr{X<[(RSSr - RSSnr)/(m-1)]/RSSnr/[(n-m)]}
@@ -9254,14 +9571,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dell'errore
 **Distrattori:**
 - Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dei regressori
-- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$)
 
 **D:** Rispetto a che cosa si osservano graficamente i residui, come «ottimo punto di partenza» per esaminare la conformità del modello stimato alle ipotesi OLS, secondo la slide 2 della lezione 29?
-**R:** Slide 2: «Un ottimo punto di partenza per esaminare la conformità del modello stimato alle ipotesi OLS è l'osservazione grafica dei residui rispetto a: i valori stimati ŷ^{OLS} della variabile dipendente; al tempo (inteso in senso lato come ordine di raccolta dei dati)». Il docente: transcript [00:01:04]. ⚠️ Il tempo è inteso **in senso lato**: conta l'ordine in cui i dati sono stati raccolti. E i valori sono quelli **stimati** ŷ^{OLS}, non quelli osservati.
-**Opzione:** Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+**R:** Slide 2: «Un ottimo punto di partenza per esaminare la conformità del modello stimato alle ipotesi OLS è l'osservazione grafica dei residui rispetto a: i valori stimati $\hat{y}^{OLS}$ della variabile dipendente; al tempo (inteso in senso lato come ordine di raccolta dei dati)». Il docente: transcript [00:01:04]. ⚠️ Il tempo è inteso **in senso lato**: conta l'ordine in cui i dati sono stati raccolti. E i valori sono quelli **stimati** $\hat{y}^{OLS}$, non quelli osservati.
+**Opzione:** Rispetto ai valori stimati $\hat{y}^{OLS}$ della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
 **Distrattori:**
-- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso stretto come data di calendario della rilevazione
-- Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+- Rispetto ai valori stimati $\hat{y}^{OLS}$ della variabile dipendente e rispetto al tempo, inteso in senso stretto come data di calendario della rilevazione
+- Una discreta dispersione dei punti intorno alla retta $y = x$: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
 
 **D:** ⚠️ Quali ipotesi valuta lo scatter plot dei residui rispetto ai valori stimati, e quale il grafico dei residui rispetto al tempo, nell'esempio Nasdaq della lezione 29?
 **R:** Slide 4: dallo scatter plot dei residui rispetto ai valori stimati il modello «appare abbastanza coerente con l'ipotesi di linearità», e «Anche l'ipotesi di omoschedasticità appare rispettata». Slide 6: dal grafico dei residui rispetto al tempo «si può concludere che anche l'ipotesi di indipendenza degli errori risulti ragionevolmente soddisfatta». Il docente: «Questa rappresentazione mostra la linearità e l'omoschedasticità» (transcript [00:04:38]); per l'indipendenza transcript [00:05:25]. ⚠️ L'indipendenza riguarda l'**ordine** dei residui, ed è per questo che si guarda il tempo. La normalità vuole altri grafici (slide 10).
@@ -9271,93 +9588,93 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio
 
 **D:** Quando il modello appare abbastanza coerente con l'ipotesi di linearità, osservando lo scatter plot dei residui rispetto ai valori stimati, secondo la slide 4 della lezione 29?
-**R:** Slide 4: «In via generale si può osservare che la "nuvola" dei residui (pallini azzurri) risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0 e, pertanto, il modello specificato appare abbastanza coerente con l'ipotesi di linearità». Il docente: «intorno alla retta orizzontale di equazione» ϵ^{OLS} = 0 (transcript [00:03:28]). ⚠️ La retta è **orizzontale**, ϵ^{OLS} = 0: la bisettrice y = x è la retta del Q-Q plot (slide 13) e dei confronti fra fit (slide 23 e 29).
-**Opzione:** Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
+**R:** Slide 4: «In via generale si può osservare che la "nuvola" dei residui (pallini azzurri) risulta distribuita attorno alla retta orizzontale di equazione $\epsilon^{OLS} = 0$ e, pertanto, il modello specificato appare abbastanza coerente con l'ipotesi di linearità». Il docente: «intorno alla retta orizzontale di equazione» $\epsilon^{OLS} = 0$ (transcript [00:03:28]). ⚠️ La retta è **orizzontale**, $\epsilon^{OLS} = 0$: la bisettrice $y = x$ è la retta del Q-Q plot (slide 13) e dei confronti fra fit (slide 23 e 29).
+**Opzione:** Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione $\epsilon^{OLS} = 0$
 **Distrattori:**
-- Quando la nuvola dei residui risulta distribuita attorno alla retta di equazione y = x, la bisettrice
+- Quando la nuvola dei residui risulta distribuita attorno alla retta di equazione $y = x$, la bisettrice
 - Dal plot dei residui: in entrambi i casi i valori dei residui sono significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione
 
 **D:** Quando appare rispettata l'ipotesi di omoschedasticità, osservando lo scatter plot dei residui rispetto ai valori stimati, secondo la slide 4 della lezione 29?
-**R:** Slide 4: «Anche l'ipotesi di omoschedasticità appare rispettata, dal momento che i pallini azzurri risultano distribuiti in modo piuttosto casuale sopra e sotto la retta di equazione ϵ^{OLS} = 0 senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati». Il docente: «senza una varianza sistematicamente maggiore o minore, al crescere dei valori stimati» (transcript [00:04:26]). ⚠️ Omoschedasticità è **varianza costante** (slide 2): una nuvola che si allarga, o si stringe, al crescere dei valori stimati la smentisce.
-**Opzione:** Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
+**R:** Slide 4: «Anche l'ipotesi di omoschedasticità appare rispettata, dal momento che i pallini azzurri risultano distribuiti in modo piuttosto casuale sopra e sotto la retta di equazione $\epsilon^{OLS} = 0$ senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati». Il docente: «senza una varianza sistematicamente maggiore o minore, al crescere dei valori stimati» (transcript [00:04:26]). ⚠️ Omoschedasticità è **varianza costante** (slide 2): una nuvola che si allarga, o si stringe, al crescere dei valori stimati la smentisce.
+**Opzione:** Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta $\epsilon^{OLS} = 0$, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
 **Distrattori:**
-- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, con una varianza sistematicamente maggiore al crescere dei valori stimati
-- Alla variabile esplicativa x, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
+- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta $\epsilon^{OLS} = 0$, con una varianza sistematicamente maggiore al crescere dei valori stimati
+- Alla variabile esplicativa $x$, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
 
 **D:** ⚠️ Che cosa sono l'autocorrelazione positiva e l'autocorrelazione negativa dei residui, secondo la slide 6 della lezione 29?
 **R:** Slide 6: «Dall'osservazione della Figura non si apprezzano evidenti fenomeni di autocorrelazione positiva (residui consecutivi sistematicamente con lo stesso segno) o di autocorrelazione negativa (residui consecutivi sistematicamente di segno opposto)». Il docente: transcript [00:05:01]–[00:05:15]. ⚠️ **Stesso segno** è la positiva, **segno opposto** la negativa; in tutte e due i residui sono **consecutivi**.
 **Opzione:** Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
 **Distrattori:**
 - Positiva: residui consecutivi sistematicamente di segno opposto; negativa: residui consecutivi sistematicamente con lo stesso segno
-- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+- Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$)
 
 **D:** Quale autocorrelazione nei residui si valuta con la statistica di Durbin-Watson, secondo la slide 7 della lezione 29?
-**R:** Slide 7: «Spesso per valutare la presenza di autocorrelazione c.d. del 1° ordine nei residui (ossia quella tra il residuo i-esimo e quello (i - 1)-esimo) si utilizza un'apposita statistica che prende il nome di Durbin-Watson dal nome dei suoi ideatori». Il docente: transcript [00:05:45], dove il riconoscimento vocale scrive «Darwin-Watson». ⚠️ Solo il **primo ordine**: la Nota della slide 9 ricorda che la statistica non dice nulla sulle autocorrelazioni di ordine superiore.
-**Opzione:** L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+**R:** Slide 7: «Spesso per valutare la presenza di autocorrelazione c.d. del 1° ordine nei residui (ossia quella tra il residuo $i$-esimo e quello $(i - 1)$-esimo) si utilizza un'apposita statistica che prende il nome di Durbin-Watson dal nome dei suoi ideatori». Il docente: transcript [00:05:45], dove il riconoscimento vocale scrive «Darwin-Watson». ⚠️ Solo il **primo ordine**: la Nota della slide 9 ricorda che la statistica non dice nulla sulle autocorrelazioni di ordine superiore.
+**Opzione:** L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo $i$-esimo e quello $(i - 1)$-esimo
 **Distrattori:**
-- L'autocorrelazione di qualsiasi ordine, ossia quella tra il residuo i-esimo e tutti i residui che lo precedono
-- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+- L'autocorrelazione di qualsiasi ordine, ossia quella tra il residuo $i$-esimo e tutti i residui che lo precedono
+- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della $x$ (5,9) e da quella della $y$ (3,37)
 
-**D:** ⚠️ Come è definita la statistica di Durbin-Watson d (142), con i limiti delle due sommatorie, secondo la slide 7 della lezione 29?
-**R:** Slide 7: «Si definisce statistica di Durbin-Watson o, semplicemente, Durbin-Watson e si denota con d la statistica così definita: d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})² (142)». Il docente: «la sommatoria per i che va da 2 a n» (transcript [00:06:07]). ⚠️ Il numeratore parte da **i = 2**, perché contiene ϵ_{i-1}^{OLS}; il denominatore da **i = 1** (deduzione). Il quadrato c'è sopra e sotto, e il denominatore è la RSS della lezione 26.
-**Opzione:** d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})²
+**D:** ⚠️ Come è definita la statistica di Durbin-Watson $d$ (142), con i limiti delle due sommatorie, secondo la slide 7 della lezione 29?
+**R:** Slide 7: «Si definisce statistica di Durbin-Watson o, semplicemente, Durbin-Watson e si denota con $d$ la statistica così definita: $d := \frac{\sum_{i=2}^n (\epsilon_i^{OLS} - \epsilon_{i-1}^{OLS})^2}{\sum_{i=1}^n (\epsilon_i^{OLS})^2}$ (142)». Il docente: «la sommatoria per i che va da 2 a n» (transcript [00:06:07]). ⚠️ Il numeratore parte da **$i = 2$**, perché contiene $\epsilon_{i-1}^{OLS}$; il denominatore da **$i = 1$** (deduzione). Il quadrato c'è sopra e sotto, e il denominatore è la RSS della lezione 26.
+**Opzione:** $d := \frac{\sum_{i=2}^n (\epsilon_i^{OLS} - \epsilon_{i-1}^{OLS})^2}{\sum_{i=1}^n (\epsilon_i^{OLS})^2}$
 **Distrattori:**
-- d := ∑_{i=1}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=2}^n (ϵ_i^{OLS})²
-- Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+- $d := \frac{\sum_{i=1}^n (\epsilon_i^{OLS} - \epsilon_{i-1}^{OLS})^2}{\sum_{i=2}^n (\epsilon_i^{OLS})^2}$
+- Aumentano entrambi, $R^2$ da 0,41259 a 0,45501 e $\bar{R}^2$ da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
 
 **D:** ⚠️ Come si definisce la statistica di Durbin-Watson, secondo il test della lezione 29 (domanda 1)?
-**R:** «**d: = [Si={2;n} (eiOLS - ei-1OLS)2]/Si={1;n}eiOLS]2**», cioè la (142) della slide 7, d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})², con «Si={2;n}» per ∑_{i=2}^n e «]2» per il quadrato. Le parentesi quadre sbilanciate sono della piattaforma. Il docente: transcript [00:06:07]. Distrattori del test: senza i quadrati, sopra e sotto; senza il denominatore; il solo denominatore, che è la RSS della lezione 26. ⚠️ Senza i quadrati il denominatore sarebbe la somma dei residui OLS, che per la (47) della lezione 24 vale zero (deduzione).
+**R:** «**d: = [Si={2;n} (eiOLS - ei-1OLS)2]/Si={1;n}eiOLS]2**», cioè la (142) della slide 7, $d := \frac{\sum_{i=2}^n (\epsilon_i^{OLS} - \epsilon_{i-1}^{OLS})^2}{\sum_{i=1}^n (\epsilon_i^{OLS})^2}$, con «Si={2;n}» per $\sum_{i=2}^n$ e «]2» per il quadrato. Le parentesi quadre sbilanciate sono della piattaforma. Il docente: transcript [00:06:07]. Distrattori del test: senza i quadrati, sopra e sotto; senza il denominatore; il solo denominatore, che è la RSS della lezione 26. ⚠️ Senza i quadrati il denominatore sarebbe la somma dei residui OLS, che per la (47) della lezione 24 vale zero (deduzione).
 **Opzione:** d: = [Si={2;n} (eiOLS - ei-1OLS)2]/Si={1;n}eiOLS]2
 **Distrattori:**
 - d: = [Si={2;n} (eiOLS - ei-1OLS)]/Si={1;n}eiOLS]
 - d: = [Si={2;n} (eiOLS - ei-1OLS)2]
 - d: = Si={1;n}eiOLS]2
 
-**D:** ⚠️ Quanto vale il limite della statistica di Durbin-Watson per n → +∞ (143), e che cosa denota ρ_ϵ, secondo la proposizione della slide 7 della lezione 29?
-**R:** Slide 7: «Il limite della statistica di Durbin-Watson per n → +∞ è pari a 2(1 - ρ_ϵ) dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS, i.e.: lim_{n→+∞} d = 2(1 - ρ_ϵ) (143)». Il docente: «non è altro che 2 per 1 meno l'autocorrelazione dei residui campionari» (transcript [00:06:26]). ⚠️ Il segno è **meno**: con ρ_ϵ = 1 il limite vale 0, con ρ_ϵ = -1 vale 4 (slide 8). È la domanda 2 del test.
-**Opzione:** lim_{n→+∞} d = 2(1 - ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+**D:** ⚠️ Quanto vale il limite della statistica di Durbin-Watson per $n \to +\infty$ (143), e che cosa denota $\rho_\epsilon$, secondo la proposizione della slide 7 della lezione 29?
+**R:** Slide 7: «Il limite della statistica di Durbin-Watson per $n \to +\infty$ è pari a $2(1 - \rho_\epsilon)$ dove $\rho_\epsilon$ denota l'autocorrelazione campionaria dei residui OLS, i.e.: $\lim_{n\to+\infty} d = 2(1 - \rho_\epsilon)$ (143)». Il docente: «non è altro che 2 per 1 meno l'autocorrelazione dei residui campionari» (transcript [00:06:26]). ⚠️ Il segno è **meno**: con $\rho_\epsilon = 1$ il limite vale 0, con $\rho_\epsilon = -1$ vale 4 (slide 8). È la domanda 2 del test.
+**Opzione:** $\lim_{n\to+\infty} d = 2(1 - \rho_\epsilon)$, dove $\rho_\epsilon$ denota l'autocorrelazione campionaria dei residui OLS
 **Distrattori:**
-- lim_{n→+∞} d = 2(1 + ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+- $\lim_{n\to+\infty} d = 2(1 + \rho_\epsilon)$, dove $\rho_\epsilon$ denota l'autocorrelazione campionaria dei residui OLS
 - Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile dipendente
 
-**D:** ⚠️ A che cosa è pari il limite della statistica di Durbin-Watson per n → +∞, secondo il test della lezione 29 (domanda 2)?
-**R:** «**limn ->+∞ d = 2 (1 - re)**», cioè la (143) della slide 7, lim_{n→+∞} d = 2(1 - ρ_ϵ), con «re» per ρ_ϵ, «l'autocorrelazione campionaria dei residui OLS». La domanda dice «definita re l'autocorrelazione dei residui OLS», senza «campionaria», e il paragrafo di riferimento ha il refuso «statistica dIl Modello Lineare 7». Il docente: transcript [00:06:26]. Distrattori del test: «(1 - re)» perde il fattore 2; «(2 - re)» porta il 2 fuori dalla parentesi come addendo; «re» lascia la sola autocorrelazione. ⚠️ Con ρ_ϵ = 1, 0 e -1 solo 2(1 - ρ_ϵ) dà i tre valori 0, 2 e 4 dell'algoritmo della slide 8 (deduzione).
+**D:** ⚠️ A che cosa è pari il limite della statistica di Durbin-Watson per $n \to +\infty$, secondo il test della lezione 29 (domanda 2)?
+**R:** «**limn ->+∞ d = 2 (1 - re)**», cioè la (143) della slide 7, $\lim_{n\to+\infty} d = 2(1 - \rho_\epsilon)$, con «re» per $\rho_\epsilon$, «l'autocorrelazione campionaria dei residui OLS». La domanda dice «definita re l'autocorrelazione dei residui OLS», senza «campionaria», e il paragrafo di riferimento ha il refuso «statistica dIl Modello Lineare 7». Il docente: transcript [00:06:26]. Distrattori del test: «(1 - re)» perde il fattore 2; «(2 - re)» porta il 2 fuori dalla parentesi come addendo; «re» lascia la sola autocorrelazione. ⚠️ Con $\rho_\epsilon = 1$, 0 e -1 solo $2(1 - \rho_\epsilon)$ dà i tre valori 0, 2 e 4 dell'algoritmo della slide 8 (deduzione).
 **Opzione:** limn ->+∞ d = 2 (1 - re)
 **Distrattori:**
 - limn ->+∞ d = (1 - re)
 - limn ->+∞ d = (2 - re)
 - limn ->+∞ d = re
 
-**D:** ⚠️ Fra quali valori è sempre compresa la statistica d di Durbin-Watson, secondo la slide 8 della lezione 29?
-**R:** Slide 8: «In particolare, si può dimostrare che il valore di d è sempre compreso tra 0 e 4». Il docente: transcript [00:07:00]. ⚠️ Gli estremi corrispondono, nella (143), a ρ_ϵ = 1 e ρ_ϵ = -1, cioè ai valori estremi di un coefficiente di correlazione (lezione 02, deduzione); il valore centrale 2 corrisponde a ρ_ϵ = 0. Fra -1 e 1 sta ρ_ϵ, non d.
+**D:** ⚠️ Fra quali valori è sempre compresa la statistica $d$ di Durbin-Watson, secondo la slide 8 della lezione 29?
+**R:** Slide 8: «In particolare, si può dimostrare che il valore di $d$ è sempre compreso tra 0 e 4». Il docente: transcript [00:07:00]. ⚠️ Gli estremi corrispondono, nella (143), a $\rho_\epsilon = 1$ e $\rho_\epsilon = -1$, cioè ai valori estremi di un coefficiente di correlazione (lezione 02, deduzione); il valore centrale 2 corrisponde a $\rho_\epsilon = 0$. Fra -1 e 1 sta $\rho_\epsilon$, non $d$.
 **Opzione:** Sempre tra 0 e 4
 **Distrattori:**
 - Sempre tra -1 e 1
-- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+- Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della $x$ (5,9) e da quella della $y$ (3,37)
 
-**D:** ⚠️ Che cosa segnalano i valori di d prossimi a 0, prossimi a 4 e prossimi a 2, secondo l'algoritmo operativo della slide 8 della lezione 29?
-**R:** Slide 8: «valori prossimi a 0 segnalano la presenza di autocorrelazione positiva tra i residui giacchè, in base alla 143, d assume tali valori quando ρ_ϵ è prossima a 1; valori prossimi a 4 segnalano la presenza di autocorrelazione negativa tra i residui giacchè … ρ_ϵ è prossima a -1; valori prossimi a 2 segnalano l'assenza di autocorrelazione tra i residui giacchè … ρ_ϵ è prossima a 0». Il docente: transcript [00:07:12]–[00:07:50]. ⚠️ Il verso è controintuitivo: d **piccolo** è autocorrelazione **positiva**, d **grande** è **negativa**. Viene dalla (143), d ≈ 2(1 - ρ_ϵ).
-**Opzione:** Prossimi a 0 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 4 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+**D:** ⚠️ Che cosa segnalano i valori di $d$ prossimi a 0, prossimi a 4 e prossimi a 2, secondo l'algoritmo operativo della slide 8 della lezione 29?
+**R:** Slide 8: «valori prossimi a 0 segnalano la presenza di autocorrelazione positiva tra i residui giacchè, in base alla 143, $d$ assume tali valori quando $\rho_\epsilon$ è prossima a 1; valori prossimi a 4 segnalano la presenza di autocorrelazione negativa tra i residui giacchè … $\rho_\epsilon$ è prossima a -1; valori prossimi a 2 segnalano l'assenza di autocorrelazione tra i residui giacchè … $\rho_\epsilon$ è prossima a 0». Il docente: transcript [00:07:12]–[00:07:50]. ⚠️ Il verso è controintuitivo: $d$ **piccolo** è autocorrelazione **positiva**, $d$ **grande** è **negativa**. Viene dalla (143), $d \approx 2(1 - \rho_\epsilon)$.
+**Opzione:** Prossimi a 0 autocorrelazione positiva ($\rho_\epsilon$ prossima a 1); prossimi a 4 autocorrelazione negativa ($\rho_\epsilon$ prossima a -1); prossimi a 2 assenza di autocorrelazione ($\rho_\epsilon$ prossima a 0)
 **Distrattori:**
-- Prossimi a 0 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 4 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+- Prossimi a 0 autocorrelazione negativa ($\rho_\epsilon$ prossima a -1); prossimi a 4 autocorrelazione positiva ($\rho_\epsilon$ prossima a 1); prossimi a 2 assenza di autocorrelazione ($\rho_\epsilon$ prossima a 0)
 - Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione intero (in ascissa) versus il fit sul campione ristretto (in ordinata)
 
 **D:** Su che cosa si basa l'algoritmo decisionale più preciso per la statistica di Durbin-Watson, e che cosa permette, secondo la slide 8 della lezione 29?
-**R:** Slide 8: «In alternativa, è disponibile anche un algoritmo decisionale più preciso che si basa sul confronto tra i valori della statistica d e i valori teorici della medesima statistica e permette pertanto di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto». Il docente: transcript [00:07:56]. ⚠️ Il confronto è con i valori teorici della **stessa** statistica d, non con una t di Student o una F. ⚠️ La slide chiama (1 - α) «livello di significatività», mentre la lezione 28 lo chiama livello di confidenza. Le tavole dei valori teorici non sono nel deck.
-**Opzione:** Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+**R:** Slide 8: «In alternativa, è disponibile anche un algoritmo decisionale più preciso che si basa sul confronto tra i valori della statistica $d$ e i valori teorici della medesima statistica e permette pertanto di effettuare dei test di ipotesi per un dato livello di significatività $(1 - \alpha)$ prescelto». Il docente: transcript [00:07:56]. ⚠️ Il confronto è con i valori teorici della **stessa** statistica $d$, non con una t di Student o una F. ⚠️ La slide chiama $(1 - \alpha)$ «livello di significatività», mentre la lezione 28 lo chiama livello di confidenza. Le tavole dei valori teorici non sono nel deck.
+**Opzione:** Sul confronto tra i valori della statistica $d$ e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività $(1 - \alpha)$ prescelto
 **Distrattori:**
-- Sul confronto tra i valori della statistica d e i valori teorici di una t di Student con (n - m) gradi di libertà: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+- Sul confronto tra i valori della statistica $d$ e i valori teorici di una t di Student con $(n - m)$ gradi di libertà: permette di effettuare dei test di ipotesi per un dato livello di significatività $(1 - \alpha)$ prescelto
 - Possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta però di una possibilità, non di una conseguenza inevitabile e scontata
 
 **D:** Quale valore del Durbin-Watson ha il modello lineare (141) stimato col metodo OLS, e che cosa se ne conclude, secondo l'esempio della slide 9 della lezione 29?
-**R:** Slide 9: «Nel caso del modello lineare 141 stimato col metodo OLS, il valore del Durbin Watson era d = 1,786671. Essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui». Il docente: transcript [00:08:24]. ⚠️ La conclusione vale per il **primo ordine**: per la Nota della stessa slide un valore prossimo a 2 non è condizione sufficiente per la completa assenza di autocorrelazione.
-**Opzione:** d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+**R:** Slide 9: «Nel caso del modello lineare 141 stimato col metodo OLS, il valore del Durbin Watson era $d = 1{,}786671$. Essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui». Il docente: transcript [00:08:24]. ⚠️ La conclusione vale per il **primo ordine**: per la Nota della stessa slide un valore prossimo a 2 non è condizione sufficiente per la completa assenza di autocorrelazione.
+**Opzione:** $d = 1{,}786671$: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
 **Distrattori:**
-- d = 1,786671: essendo un valore minore di 2, segnala la presenza di autocorrelazione negativa nei residui
-- Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+- $d = 1{,}786671$: essendo un valore minore di 2, segnala la presenza di autocorrelazione negativa nei residui
+- Aumentano entrambi, $R^2$ da 0,41259 a 0,45501 e $\bar{R}^2$ da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
 
 **D:** ⚠️ Su che cosa la statistica di Durbin-Watson non dice nulla, secondo la Nota della slide 9 della lezione 29?
-**R:** Slide 9: «La statistica di Durbin Watson fa parte dell'output della regressione nei principali programmi econometrici. Va ricordato, tuttavia, che essa serve solo a valutare l'autocorrelazione del primo ordine nei residui mentre non dice nulla sulla presenza di eventuali autocorrelazioni di ordine superiore. Pertanto, un suo eventuale valore prossimo (o anche molto prossimo) a 2 non è una condizione sufficiente per concludere circa la completa assenza di autocorrelazione nei residui e la correttezza dell'ipotesi di indipendenza degli errori del modello lineare specificato». Il docente: transcript [00:08:45]–[00:09:03]. ⚠️ «Serve solo»: d vicino a 2 esclude l'autocorrelazione del primo ordine, non quella di ordine superiore.
+**R:** Slide 9: «La statistica di Durbin Watson fa parte dell'output della regressione nei principali programmi econometrici. Va ricordato, tuttavia, che essa serve solo a valutare l'autocorrelazione del primo ordine nei residui mentre non dice nulla sulla presenza di eventuali autocorrelazioni di ordine superiore. Pertanto, un suo eventuale valore prossimo (o anche molto prossimo) a 2 non è una condizione sufficiente per concludere circa la completa assenza di autocorrelazione nei residui e la correttezza dell'ipotesi di indipendenza degli errori del modello lineare specificato». Il docente: transcript [00:08:45]–[00:09:03]. ⚠️ «Serve solo»: $d$ vicino a 2 esclude l'autocorrelazione del primo ordine, non quella di ordine superiore.
 **Opzione:** Sulla presenza di eventuali autocorrelazioni di ordine superiore: serve solo a valutare l'autocorrelazione del primo ordine nei residui
 **Distrattori:**
 - Sulla presenza di autocorrelazione del primo ordine: serve solo a valutare le eventuali autocorrelazioni di ordine superiore nei residui
@@ -9375,21 +9692,21 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso nullo, e quindi che l'ipotesi di normalità sia soddisfatta
 **Distrattori:**
 - Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso unitario, e quindi che l'ipotesi di normalità sia soddisfatta
-- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla $x$, oppure la presenza di alcune osservazioni palesemente anomale
 
 **D:** Come si ottengono i valori dei residui standardizzati, e con quale densità teorica si confronta il loro istogramma, secondo la slide 10 della lezione 29?
 **R:** Slide 10: «In alternativa all'istogramma di frequenze dei residui tout court, si può ricorrere a quello dei c.d. residui standardizzati, i cui valori sono ottenuti dividendo i residui per l'errore standard della regressione. In tal caso il confronto andrà ovviamente fatto con la funzione di densità di probabilità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria». Il docente: transcript [00:10:08]–[00:10:17]. ⚠️ Per i residui tout court il confronto è con la Normale **a media nulla**; per quelli standardizzati con la Normale a media nulla **e varianza unitaria**.
 **Opzione:** Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria
 **Distrattori:**
-- Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza pari a σ̂_ε²
+- Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza pari a $\hat{\sigma}_\varepsilon^2$
 - Se il modello possa essere meglio specificato escludendo alcune osservazioni o, invece, considerando un campione più ampio
 
-**D:** ⚠️ Come è definito l'elemento i-esimo del vettore dei residui standardizzati 𝛜^{OLS,std} (144), secondo la slide 11 della lezione 29?
-**R:** Slide 11: «si definisce vettore dei residui standardizzati e si denota con 𝛜^{OLS,std} il vettore … in cui il generico elemento i-esimo, per i = 1, 2, ⋯, n è così definito: ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε (144) ove σ̂_ε è l'errore standard della regressione, vale a dire la radice quadrata dello stimatore σ̂_ε² di cui all'equazione 67». La (67) è lo stimatore non distorto della lezione 25. ⚠️ Si divide per la **radice**, σ̂_ε, non per la varianza σ̂_ε². Il docente: transcript [00:10:36].
-**Opzione:** ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
+**D:** ⚠️ Come è definito l'elemento $i$-esimo del vettore dei residui standardizzati $\boldsymbol{\epsilon}^{OLS,std}$ (144), secondo la slide 11 della lezione 29?
+**R:** Slide 11: «si definisce vettore dei residui standardizzati e si denota con $\boldsymbol{\epsilon}^{OLS,std}$ il vettore … in cui il generico elemento $i$-esimo, per $i = 1, 2, \cdots, n$ è così definito: $\epsilon_i^{OLS,std} := \frac{\epsilon_i^{OLS}}{\hat{\sigma}_\varepsilon}$ (144) ove $\hat{\sigma}_\varepsilon$ è l'errore standard della regressione, vale a dire la radice quadrata dello stimatore $\hat{\sigma}_\varepsilon^2$ di cui all'equazione 67». La (67) è lo stimatore non distorto della lezione 25. ⚠️ Si divide per la **radice**, $\hat{\sigma}_\varepsilon$, non per la varianza $\hat{\sigma}_\varepsilon^2$. Il docente: transcript [00:10:36].
+**Opzione:** $\epsilon_i^{OLS,std} := \frac{\epsilon_i^{OLS}}{\hat{\sigma}_\varepsilon}$, con $\hat{\sigma}_\varepsilon$ l'errore standard della regressione, radice quadrata dello stimatore $\hat{\sigma}_\varepsilon^2$ dell'equazione 67
 **Distrattori:**
-- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε², con σ̂_ε² lo stimatore della varianza dell'errore dell'equazione 67
-- Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+- $\epsilon_i^{OLS,std} := \frac{\epsilon_i^{OLS}}{\hat{\sigma}_\varepsilon^2}$, con $\hat{\sigma}_\varepsilon^2$ lo stimatore della varianza dell'errore dell'equazione 67
+- Una discreta dispersione dei punti intorno alla retta $y = x$: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
 
 **D:** ⚠️ Che cosa riporta il Q-Q plot in ascissa e in ordinata, secondo la slide 13 della lezione 29?
 **R:** Slide 13: il c.d. Q-Q plot (o, per esteso, Quantile-Quantile plot) «deve il suo nome al fatto che esso riporta sul piano cartesiano rispettivamente un quantile di una variabile aleatoria che ha una funzione di densità di probabilità perfettamente Normale a media nulla (in ascissa) e il corrispondente quantile della distribuzione di frequenze dei residui OLS del modello stimato (in ordinata)». Il docente: transcript [00:11:30]–[00:11:56]. ⚠️ La Normale teorica sta **in ascissa**, i residui **in ordinata**: nella slide 14 l'asse orizzontale è «Quantili normali».
@@ -9399,14 +9716,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - L'esclusione, ad esempio, se sono riconducibili a errori di rilevazione o provengono da un altro processo di generazione dei dati; l'arricchimento, ad esempio, se ci sono molte altre osservazioni simili alle due anomale
 
 **D:** Dove si collocano i punti del Q-Q plot in caso di perfetta conformità all'ipotesi di normalità, e quando l'ipotesi si può considerare ragionevolmente rispettata su dati reali, secondo la slide 13 della lezione 29?
-**R:** Slide 13: «Nel caso di perfetta conformità all'ipotesi di normalità i punti del Q-Q plot si collocheranno tutti lungo la retta y = x. Pertanto, nel caso di modelli stimati su dati reali, l'ipotesi di normalità potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice». Il docente: transcript [00:12:11]–[00:12:19]. ⚠️ La retta è la **bisettrice** y = x, non la retta orizzontale ϵ^{OLS} = 0 dello scatter dei residui (slide 4).
-**Opzione:** Tutti lungo la retta y = x; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
+**R:** Slide 13: «Nel caso di perfetta conformità all'ipotesi di normalità i punti del Q-Q plot si collocheranno tutti lungo la retta $y = x$. Pertanto, nel caso di modelli stimati su dati reali, l'ipotesi di normalità potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice». Il docente: transcript [00:12:11]–[00:12:19]. ⚠️ La retta è la **bisettrice** $y = x$, non la retta orizzontale $\epsilon^{OLS} = 0$ dello scatter dei residui (slide 4).
+**Opzione:** Tutti lungo la retta $y = x$; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
 **Distrattori:**
-- Tutti lungo la retta orizzontale ϵ^{OLS} = 0; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello di tale retta
-- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+- Tutti lungo la retta orizzontale $\epsilon^{OLS} = 0$; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello di tale retta
+- Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla $x$, oppure la presenza di alcune osservazioni palesemente anomale
 
 **D:** ⚠️ Che cosa significa l'omoschedasticità, fra le proprietà dei residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 3)?
-**R:** «**varianza costante dell'errore**», alla lettera nella slide 2: «omoschedasticità, ossia varianza costante dell'errore». Il docente: «omoschedasticità, cioè varianza costante dell'errore» (transcript [00:00:35]). È l'ipotesi (35) della lezione 24, Var(ε_i|𝐱) = σ_ε². ⚠️ La domanda parla di «proprietà» dei **residui**, la slide di **ipotesi** sull'**errore**. Distrattori del test: «varianza stocastica dell'errore» e «media random dell'errore», che non sono nei materiali; «varianza unitaria dell'errore», che viene dalla slide 10, dove la varianza unitaria è quella della Normale con cui si confrontano i residui **standardizzati**. La domanda scrive «llineare».
+**R:** «**varianza costante dell'errore**», alla lettera nella slide 2: «omoschedasticità, ossia varianza costante dell'errore». Il docente: «omoschedasticità, cioè varianza costante dell'errore» (transcript [00:00:35]). È l'ipotesi (35) della lezione 24, $\mathrm{Var}(\varepsilon_i\mid\mathbf{x}) = \sigma_\varepsilon^2$. ⚠️ La domanda parla di «proprietà» dei **residui**, la slide di **ipotesi** sull'**errore**. Distrattori del test: «varianza stocastica dell'errore» e «media random dell'errore», che non sono nei materiali; «varianza unitaria dell'errore», che viene dalla slide 10, dove la varianza unitaria è quella della Normale con cui si confrontano i residui **standardizzati**. La domanda scrive «llineare».
 **Opzione:** varianza costante dell'errore
 **Distrattori:**
 - varianza stocastica dell'errore
@@ -9414,7 +9731,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - media random dell'errore
 
 **D:** ⚠️ Che cosa significa l'indipendenza, fra le proprietà dei residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 4)?
-**R:** «**assenza di autocorrelazione**», alla lettera nella slide 2: «indipendenza (e precisamente assenza di auto-correlazione) degli errori», dove la slide scrive auto-correlazione con il trattino. Il docente: transcript [00:00:35]. È l'ipotesi (36) della lezione 24, cov(ε_i, ε_j|𝐱) = 0. Distrattori del test: «correlazione spuria» e «correlazione stocastica», che non sono nei materiali; «autocorrelazione pari a 1», che richiama ρ_ϵ «prossima a 1» della slide 8, cioè l'autocorrelazione **positiva**, il contrario dell'indipendenza. La domanda scrive «llineare».
+**R:** «**assenza di autocorrelazione**», alla lettera nella slide 2: «indipendenza (e precisamente assenza di auto-correlazione) degli errori», dove la slide scrive auto-correlazione con il trattino. Il docente: transcript [00:00:35]. È l'ipotesi (36) della lezione 24, $\mathrm{cov}(\varepsilon_i, \varepsilon_j\mid\mathbf{x}) = 0$. Distrattori del test: «correlazione spuria» e «correlazione stocastica», che non sono nei materiali; «autocorrelazione pari a 1», che richiama $\rho_\epsilon$ «prossima a 1» della slide 8, cioè l'autocorrelazione **positiva**, il contrario dell'indipendenza. La domanda scrive «llineare».
 **Opzione:** assenza di autocorrelazione
 **Distrattori:**
 - correlazione spuria
@@ -9422,7 +9739,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - correlazione stocastica
 
 **D:** ⚠️ Come sono distribuiti i residui del modello lineare stimato col metodo dei minimi quadrati, secondo il test della lezione 29 (domanda 5)?
-**R:** «**normale**»: nella slide 2 la «normalità dell'errore» è una delle **ipotesi** alla base della tecnica OLS, e le slide 10–14 la valutano sui residui con l'istogramma di frequenze e il Q-Q plot. ⚠️ La chiave è giusta come ipotesi, non come risultato: la slide 10 parla di normalità degli **errori**, la slide 13 di normalità dei residui. Distrattori del test: «chi-quadro con n gradi di libertà» richiama la Chi-quadrato della lezione 27, che però è di (n - m)σ̂_ε²/σ_ε² e ha (n - m) gradi, anche se lì il docente aveva detto «n-gradi di libertà»; «binomiale» è nel corso, nelle lezioni di pricing, non nel blocco sul modello lineare; «poissoniana» non è nei materiali. La domanda scrive «llineare».
+**R:** «**normale**»: nella slide 2 la «normalità dell'errore» è una delle **ipotesi** alla base della tecnica OLS, e le slide 10–14 la valutano sui residui con l'istogramma di frequenze e il Q-Q plot. ⚠️ La chiave è giusta come ipotesi, non come risultato: la slide 10 parla di normalità degli **errori**, la slide 13 di normalità dei residui. Distrattori del test: «chi-quadro con n gradi di libertà» richiama la Chi-quadrato della lezione 27, che però è di $\frac{(n - m)\hat{\sigma}_\varepsilon^2}{\sigma_\varepsilon^2}$ e ha $(n - m)$ gradi, anche se lì il docente aveva detto «n-gradi di libertà»; «binomiale» è nel corso, nelle lezioni di pricing, non nel blocco sul modello lineare; «poissoniana» non è nei materiali. La domanda scrive «llineare».
 **Opzione:** normale
 **Distrattori:**
 - chi-quadro con n gradi di libertà
@@ -9438,52 +9755,52 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Rispetto ai valori stimati la linearità e l'omoschedasticità; rispetto al tempo l'indipendenza degli errori
 
 **D:** ⚠️ Quali tipologie di dati anomali si possono individuare in linea generale, secondo la slide 15 della lezione 29?
-**R:** Slide 15: «In linea generale si possono individuare varie tipologie di dati anomali: gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello». ⚠️ La quarta voce è quella delle osservazioni **influenti**: nel transcript il docente dice «ininfluenti» prima di correggersi (transcript [00:14:09]–[00:14:20]).
-**Opzione:** Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello
+**R:** Slide 15: «In linea generale si possono individuare varie tipologie di dati anomali: gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello». ⚠️ La quarta voce è quella delle osservazioni **influenti**: nel transcript il docente dice «ininfluenti» prima di correggersi (transcript [00:14:09]–[00:14:20]).
+**Opzione:** Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni influenti rispetto alla stima del modello
 **Distrattori:**
-- Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni ininfluenti rispetto alla stima del modello
+- Gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$); i dati anomali sia nella variabile dipendente che nelle variabili esplicative; i dati che identificano delle osservazioni ininfluenti rispetto alla stima del modello
 - Linearità; omoschedasticità, ossia varianza costante dell'errore; indipendenza (e precisamente assenza di auto-correlazione) degli errori; normalità dell'errore
-- Prossimi a 0 autocorrelazione positiva (ρ_ϵ prossima a 1); prossimi a 4 autocorrelazione negativa (ρ_ϵ prossima a -1); prossimi a 2 assenza di autocorrelazione (ρ_ϵ prossima a 0)
+- Prossimi a 0 autocorrelazione positiva ($\rho_\epsilon$ prossima a 1); prossimi a 4 autocorrelazione negativa ($\rho_\epsilon$ prossima a -1); prossimi a 2 assenza di autocorrelazione ($\rho_\epsilon$ prossima a 0)
 
 **D:** ⚠️ Che cosa distingue gli outliers dai dati con valore di leva o leverage particolarmente elevato, secondo la slide 15 della lezione 29?
-**R:** Slide 15: «gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)». Il docente: «Gli outliers sono i dati anomali della variabile dipendente. I dati con valore di leva o leverage particolarmente elevato sono invece i dati anomali dei regressori» (transcript [00:13:54]–[00:13:59]). ⚠️ Outlier è la **y**, leverage sono le **x**: nell'esempio verde e rosso sono outliers (slide 24), il viola è un punto di leva (slide 27).
-**Opzione:** Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱)
+**R:** Slide 15: «gli outliers, che sono dati anomali nella variabile dipendente; i dati con valore di leva o leverage particolarmente elevato, che invece sono dei dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$)». Il docente: «Gli outliers sono i dati anomali della variabile dipendente. I dati con valore di leva o leverage particolarmente elevato sono invece i dati anomali dei regressori» (transcript [00:13:54]–[00:13:59]). ⚠️ Outlier è la **$y$**, leverage sono le **$x$**: nell'esempio verde e rosso sono outliers (slide 24), il viola è un punto di leva (slide 27).
+**Opzione:** Gli outliers sono dati anomali nella variabile dipendente; i dati con leverage elevato sono dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$)
 **Distrattori:**
-- Gli outliers sono dati anomali relativi alle variabili esplicative (matrice dei regressori 𝐱); i dati con leverage elevato sono dati anomali nella variabile dipendente
+- Gli outliers sono dati anomali relativi alle variabili esplicative (matrice dei regressori $\mathbf{x}$); i dati con leverage elevato sono dati anomali nella variabile dipendente
 - Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
 - In ascissa un quantile di una variabile aleatoria con densità perfettamente Normale a media nulla; in ordinata il corrispondente quantile della distribuzione di frequenze dei residui OLS
 
-**D:** Quali due possibili spiegazioni dà la slide 18 della lezione 29 per i valori di R² e di R̄² non particolarmente alti (intorno a 0,4) dell'esempio delle 32 osservazioni?
-**R:** Slide 18: «Entrambi i coefficienti stimati risultano significativi … Ciononostante, si nota anche che sia l'R² che l'R̄² non sono particolarmente alti (intorno a 0,4). Una possibilità è che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x qui considerata. Ma i valori relativamente contenuti del coefficiente di determinazione potrebbero anche dipendere dalla presenza di alcune osservazioni palesemente anomale». Il docente: transcript [00:15:46]–[00:16:08]. ⚠️ I coefficienti **sono** significativi: R² basso non dipende dalla loro significatività. I valori sono 0,412590 e 0,393010 (slide 17).
-**Opzione:** Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla x, oppure la presenza di alcune osservazioni palesemente anomale
+**D:** Quali due possibili spiegazioni dà la slide 18 della lezione 29 per i valori di $R^2$ e di $\bar{R}^2$ non particolarmente alti (intorno a 0,4) dell'esempio delle 32 osservazioni?
+**R:** Slide 18: «Entrambi i coefficienti stimati risultano significativi … Ciononostante, si nota anche che sia l'$R^2$ che l'$\bar{R}^2$ non sono particolarmente alti (intorno a 0,4). Una possibilità è che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla $x$ qui considerata. Ma i valori relativamente contenuti del coefficiente di determinazione potrebbero anche dipendere dalla presenza di alcune osservazioni palesemente anomale». Il docente: transcript [00:15:46]–[00:16:08]. ⚠️ I coefficienti **sono** significativi: $R^2$ basso non dipende dalla loro significatività. I valori sono 0,412590 e 0,393010 (slide 17).
+**Opzione:** Che il processo generatore dei dati della variabile dipendente includa altre variabili esplicative oltre al termine costante e alla $x$, oppure la presenza di alcune osservazioni palesemente anomale
 **Distrattori:**
 - Che i due coefficienti stimati non risultino significativi, oppure la presenza di alcune osservazioni palesemente anomale
 - Con altri tipi di grafici rispetto alle altre ipotesi: fra questi l'istogramma di frequenze dei residui, o dei residui standardizzati, e il Q-Q plot
-- Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+- Sul confronto tra i valori della statistica $d$ e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività $(1 - \alpha)$ prescelto
 
 **D:** Rispetto a quali variabili è anomalo il pallino giallo, di coordinate (16; 7,7), secondo la slide 19 della lezione 29?
 **R:** Slide 19: il pallino giallo «identifica un'osservazione anomala sia per la variabile esplicativa che per la variabile dipendente. Si tratta infatti di un dato che si posiziona ampiamente fuori dalla media campionaria sia per i valori della x (la cui media campionaria è pari a 5,9) sia per i valori della y (la cui media campionaria è pari a 3,37)». Il docente: transcript [00:16:33]–[00:16:56]. ⚠️ Anomalo **in tutte e due** le variabili, eppure «in linea» con il comportamento complessivo del campione: la slide 27 lo chiamerà un dato con un alto punto di leva.
-**Opzione:** Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della x (5,9) e da quella della y (3,37)
+**Opzione:** Sia per la variabile esplicativa sia per la variabile dipendente: è ampiamente fuori dalla media campionaria della $x$ (5,9) e da quella della $y$ (3,37)
 **Distrattori:**
-- Solo per la variabile dipendente: è ampiamente fuori dalla media campionaria della y (3,37), mentre la x è vicina alla sua media campionaria (5,9)
-- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
+- Solo per la variabile dipendente: è ampiamente fuori dalla media campionaria della $y$ (3,37), mentre la $x$ è vicina alla sua media campionaria (5,9)
+- $\epsilon_i^{OLS,std} := \frac{\epsilon_i^{OLS}}{\hat{\sigma}_\varepsilon}$, con $\hat{\sigma}_\varepsilon$ l'errore standard della regressione, radice quadrata dello stimatore $\hat{\sigma}_\varepsilon^2$ dell'equazione 67
 - Sempre tra 0 e 4
 
 **D:** ⚠️ Come cambiano le stime OLS dei coefficienti escludendo dal campione l'osservazione del pallino giallo, secondo la tabella della slide 19 della lezione 29?
-**R:** Slide 19: «Stimando nuovamente col metodo dei minimi quadrati ordinari il modello considerato su un campione ristretto in cui è stata esclusa l'osservazione associata al pallino giallo, i valori stimati dei coefficienti della regressione non risultano particolarmente diversi da quelli calcolati sull'intero campione»: β̂_0^{OLS} da 1,64622 a 1,77857, β̂_1^{OLS} da 0,29321 a 0,26132. Il docente: «Da 1,64 andiamo a 1,77, da 0,29 andiamo a 0,26» (transcript [00:17:25]). ⚠️ Senza il giallo l'intercetta **sale** e la pendenza **scende**; senza il viola succede il contrario, 1,361834 e 0,35734 (slide 28).
-**Opzione:** β̂_0^{OLS} da 1,64622 a 1,77857 e β̂_1^{OLS} da 0,29321 a 0,26132: non risultano particolarmente diversi da quelli calcolati sull'intero campione
+**R:** Slide 19: «Stimando nuovamente col metodo dei minimi quadrati ordinari il modello considerato su un campione ristretto in cui è stata esclusa l'osservazione associata al pallino giallo, i valori stimati dei coefficienti della regressione non risultano particolarmente diversi da quelli calcolati sull'intero campione»: $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,77857, $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,26132. Il docente: «Da 1,64 andiamo a 1,77, da 0,29 andiamo a 0,26» (transcript [00:17:25]). ⚠️ Senza il giallo l'intercetta **sale** e la pendenza **scende**; senza il viola succede il contrario, 1,361834 e 0,35734 (slide 28).
+**Opzione:** $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,77857 e $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,26132: non risultano particolarmente diversi da quelli calcolati sull'intero campione
 **Distrattori:**
-- β̂_0^{OLS} da 1,64622 a 1,361834 e β̂_1^{OLS} da 0,29321 a 0,35734: non risultano particolarmente diversi da quelli calcolati sull'intero campione
-- Tutti lungo la retta y = x; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
-- d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+- $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,361834 e $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,35734: non risultano particolarmente diversi da quelli calcolati sull'intero campione
+- Tutti lungo la retta $y = x$; su dati reali l'ipotesi potrà considerarsi ragionevolmente rispettata se il Q-Q plot avrà un andamento abbastanza simile a quello della bisettrice
+- $d = 1{,}786671$: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
 
 **D:** Quali due figure danno un'ulteriore conferma della non problematicità del pallino giallo, secondo la slide 20 della lezione 29?
-**R:** Slide 20: «Le due Figure seguenti riportano, rispettivamente, il plot dei residui del modello lineare stimato sull'intero campione e lo scatter plot del fit della regressione stimata sul campione intero (in ascissa) versus il fit della regressione stimata sul campione ristretto (in ordinata)». Slide 21: il residuo giallo «non è, in valore assoluto, particolarmente grande»; slide 23: i due fit sono «sostanzialmente disposti lungo la retta di equazione y = x», quindi l'inclusione o l'esclusione del giallo «non influenza sensibilmente la stima del modello». Il docente: transcript [00:17:33]–[00:18:44]. ⚠️ Il campione **intero** sta **in ascissa**, quello ristretto in ordinata.
+**R:** Slide 20: «Le due Figure seguenti riportano, rispettivamente, il plot dei residui del modello lineare stimato sull'intero campione e lo scatter plot del fit della regressione stimata sul campione intero (in ascissa) versus il fit della regressione stimata sul campione ristretto (in ordinata)». Slide 21: il residuo giallo «non è, in valore assoluto, particolarmente grande»; slide 23: i due fit sono «sostanzialmente disposti lungo la retta di equazione $y = x$», quindi l'inclusione o l'esclusione del giallo «non influenza sensibilmente la stima del modello». Il docente: transcript [00:17:33]–[00:18:44]. ⚠️ Il campione **intero** sta **in ascissa**, quello ristretto in ordinata.
 **Opzione:** Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione intero (in ascissa) versus il fit sul campione ristretto (in ordinata)
 **Distrattori:**
 - Il plot dei residui del modello stimato sull'intero campione e lo scatter plot del fit sul campione ristretto (in ascissa) versus il fit sul campione intero (in ordinata)
 - Con altri tipi di grafici rispetto alle altre ipotesi: fra questi l'istogramma di frequenze dei residui, o dei residui standardizzati, e il Q-Q plot
-- lim_{n→+∞} d = 2(1 - ρ_ϵ), dove ρ_ϵ denota l'autocorrelazione campionaria dei residui OLS
+- $\lim_{n\to+\infty} d = 2(1 - \rho_\epsilon)$, dove $\rho_\epsilon$ denota l'autocorrelazione campionaria dei residui OLS
 
 **D:** Di che cosa potrebbe essere conseguenza, ad esempio, l'osservazione del pallino giallo, secondo la sintesi della slide 23 della lezione 29?
 **R:** Slide 23: «In sintesi, l'osservazione in questione non appare particolarmente problematica e potrebbe essere, ad esempio, conseguenza di un campione un po' povero (aumentando il numero di osservazioni essa finirebbe per ricadere nella "nuvola" dei pallini blu) o di un evento estremo ma comunque abbastanza compatibile col fenomeno esaminato e col modello specificato». Il docente: transcript [00:19:01]–[00:19:10], dove dice «non è problematica» senza «particolarmente». ⚠️ L'evento estremo è **compatibile** col fenomeno e col modello.
@@ -9491,23 +9808,23 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Di un campione un po' povero (aumentando il numero di osservazioni finirebbe per ricadere nella nuvola dei pallini blu) o di un evento estremo e incompatibile col fenomeno esaminato e col modello specificato
 - Si può ragionevolmente concludere che gli errori del modello siano governati da una legge di probabilità di tipo Normale con valore atteso nullo, e quindi che l'ipotesi di normalità sia soddisfatta
-- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta ϵ^{OLS} = 0, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
+- Quando i pallini risultano distribuiti in modo piuttosto casuale sopra e sotto la retta $\epsilon^{OLS} = 0$, senza una varianza sistematicamente maggiore (o minore) al crescere dei valori stimati
 
 **D:** ⚠️ Quali osservazioni dell'esempio delle 32 osservazioni sono degli outliers, e rispetto a quale variabile risultano anomale, secondo la slide 24 della lezione 29?
-**R:** Slide 24: «Le osservazioni corrispondenti al pallino verde e a quello rosso risultano invece anomale rispetto alla variabile dipendente e sono quindi degli outliers». Il verde, di coordinate (3,3; 8,14), ha una y lontana dalla sua media campionaria (3,37) e «risponde al valore della variabile esplicativa ad esso associato in un modo diverso da quello riscontrato su quasi tutto il resto del campione»; per il rosso, di coordinate (10; 0,64), vale «Un discorso in parte simile … sebbene il suo valore stavolta sia più vicino a quello della media campionaria». ⚠️ Il docente dice «esclusivamente» e «Diverso è il pallino rosso» (transcript [00:19:45], [00:20:20]): la slide non ha «esclusivamente» e dice «in parte simile».
+**R:** Slide 24: «Le osservazioni corrispondenti al pallino verde e a quello rosso risultano invece anomale rispetto alla variabile dipendente e sono quindi degli outliers». Il verde, di coordinate (3,3; 8,14), ha una $y$ lontana dalla sua media campionaria (3,37) e «risponde al valore della variabile esplicativa ad esso associato in un modo diverso da quello riscontrato su quasi tutto il resto del campione»; per il rosso, di coordinate (10; 0,64), vale «Un discorso in parte simile … sebbene il suo valore stavolta sia più vicino a quello della media campionaria». ⚠️ Il docente dice «esclusivamente» e «Diverso è il pallino rosso» (transcript [00:19:45], [00:20:20]): la slide non ha «esclusivamente» e dice «in parte simile».
 **Opzione:** Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile dipendente
 **Distrattori:**
 - Il pallino verde (3,3; 8,14) e il pallino rosso (10; 0,64): risultano anomale rispetto alla variabile esplicativa
 - Sempre tra 0 e 4
-- Sul confronto tra i valori della statistica d e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività (1 - α) prescelto
+- Sul confronto tra i valori della statistica $d$ e i valori teorici della medesima statistica: permette di effettuare dei test di ipotesi per un dato livello di significatività $(1 - \alpha)$ prescelto
 
 **D:** Da quale grafico viene la conferma che il pallino verde e il pallino rosso sono degli outliers, e che cosa mostra, secondo la slide 25 della lezione 29?
 **R:** Slide 25: «La conferma del fatto che questi due dati sono degli outliers viene dal grafico del plot dei residui (cfr. Figura seguente), nel quale i rombi di colore rosso e verde mostrano i valori dei residui associati rispettivamente al pallino rosso e a quello verde. E' immediato notare, infatti, come in entrambi i casi i valori dei residui siano significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione». Il docente: transcript [00:21:00]–[00:21:21]. ⚠️ Per il giallo lo stesso grafico mostra il contrario: un residuo «non … particolarmente grande» (slide 21).
 **Opzione:** Dal plot dei residui: in entrambi i casi i valori dei residui sono significativamente maggiori, in termini assoluti, rispetto a quelli relativi al resto del campione
 **Distrattori:**
 - Dal plot dei residui: in entrambi i casi i valori dei residui non sono, in valore assoluto, particolarmente grandi rispetto a quelli relativi al resto del campione
-- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
-- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione $\epsilon^{OLS} = 0$
+- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo $i$-esimo e quello $(i - 1)$-esimo
 
 **D:** ⚠️ In quale caso, ad esempio, si valuta la possibile esclusione dei due outliers, e in quale l'arricchimento del campione con ulteriori osservazioni, secondo la slide 26 della lezione 29?
 **R:** Slide 26: «Diventa pertanto opportuno effettuare ulteriori approfondimenti su questi dati per valutare una loro possibile esclusione (ad esempio qualore risultasse che sono riconducibili a errori di rilevazione o che provengono da un altro processo di generazione dei dati) ma anche per valutare se arricchire il campione con ulteriori osservazioni (ad esempio qualora risultasse che ci sono molte altre osservazioni simile alle due anomale di cui si sta parlando) e stimare nuovamente il modello specificato per ottenere stime più accurate dei coefficienti della regressione e migliorare la capacità previsionale del modello stesso» («qualore» e «simile» sono refusi della slide). ⚠️ Il docente: «non è immediato concludere, li leviamo» (transcript [00:22:25]).
@@ -9518,85 +9835,85 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Sulla presenza di eventuali autocorrelazioni di ordine superiore: serve solo a valutare l'autocorrelazione del primo ordine nei residui
 
 **D:** Rispetto a quale variabile è anomalo il pallino viola, di coordinate (18; 4,84), e a quale osservazione corrisponde, secondo la slide 27 della lezione 29?
-**R:** Slide 27: «Si consideri ora il pallino viola, di coordinate (18; 4,84), corrispondente alla 13-esima osservazione. Si tratta di un'osservazione anomala in relazione alla variabile esplicativa x, che infatti assume un valore molto più alto rispetto alla media calcolata sull'intero campione (5,9)». Il docente: transcript [00:24:56]–[00:25:21]. ⚠️ Anomalo nella **x**: è un punto di leva, non un outlier. Il docente aggiunge «molto meno rilevante sulla variabile dipendente y» (transcript [00:25:34]), che la slide non dice.
-**Opzione:** Alla variabile esplicativa x, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
+**R:** Slide 27: «Si consideri ora il pallino viola, di coordinate (18; 4,84), corrispondente alla 13-esima osservazione. Si tratta di un'osservazione anomala in relazione alla variabile esplicativa x, che infatti assume un valore molto più alto rispetto alla media calcolata sull'intero campione (5,9)». Il docente: transcript [00:24:56]–[00:25:21]. ⚠️ Anomalo nella **$x$**: è un punto di leva, non un outlier. Il docente aggiunge «molto meno rilevante sulla variabile dipendente y» (transcript [00:25:34]), che la slide non dice.
+**Opzione:** Alla variabile esplicativa $x$, che assume un valore molto più alto della media calcolata sull'intero campione (5,9); è la 13-esima osservazione
 **Distrattori:**
-- Alla variabile dipendente y, che assume un valore molto più alto della media calcolata sull'intero campione (3,37); è la 13-esima osservazione
+- Alla variabile dipendente $y$, che assume un valore molto più alto della media calcolata sull'intero campione (3,37); è la 13-esima osservazione
 - Dividendo i residui per l'errore standard della regressione; il confronto va fatto con la densità teorica delle variabili aleatorie Normali a media nulla e varianza unitaria
-- d := ∑_{i=2}^n (ϵ_i^{OLS} - ϵ_{i-1}^{OLS})²/∑_{i=1}^n (ϵ_i^{OLS})²
+- $d := \frac{\sum_{i=2}^n (\epsilon_i^{OLS} - \epsilon_{i-1}^{OLS})^2}{\sum_{i=1}^n (\epsilon_i^{OLS})^2}$
 
 **D:** ⚠️ Che cosa possono fare le osservazioni con leverage elevato, o ad alto punto di leva, secondo la slide 27 della lezione 29?
 **R:** Slide 27: «Osservazioni simili sono dette osservazioni con leverage elevato o ad alto punto di leva e possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione. Si tratta, però di una possibilità, non di una conseguenza inevitabile e scontata. Si ricorderà, ad esempio, che poc'anzi si era trovato già un altro dato con un alto punto di leva (quello associato al pallino giallo). In quel caso, tuttavia, si era visto come l'impatto di quell'osservazione sul modello stimato fosse relativamente modesto». Il docente: transcript [00:25:39]–[00:26:04]. ⚠️ **Possono**: il giallo è anch'esso un punto di leva, ma con impatto relativamente modesto.
 **Opzione:** Possono influenzare sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta però di una possibilità, non di una conseguenza inevitabile e scontata
 **Distrattori:**
 - Influenzano sensibilmente la stima del modello specificato, a partire dai valori per i coefficienti della regressione: si tratta di una conseguenza inevitabile e scontata
-- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
-- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione ϵ^{OLS} = 0
+- Rispetto ai valori stimati $\hat{y}^{OLS}$ della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+- Quando la nuvola dei residui risulta distribuita attorno alla retta orizzontale di equazione $\epsilon^{OLS} = 0$
 
 **D:** ⚠️ Come cambiano le stime OLS dei coefficienti escludendo dal campione la 13-esima osservazione, il pallino viola, secondo la tabella della slide 28 della lezione 29?
-**R:** Slide 28: «Stavolta, invece, il discorso è diverso perchè la 13-esima osservazione impatta in misura rilevante sulla stima del modello specificato. … si nota anzitutto che i valori stimati dei coefficienti della regressione cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione»: β̂_0^{OLS} da 1,64622 a 1,361834, β̂_1^{OLS} da 0,29321 a 0,35734. Il docente: «β0 stimato da 1,64, levando il viola, diventa 1,36. β1 stimato da 0,29 diventa 0,35. Quindi abbiamo un problema» (transcript [00:27:16]). ⚠️ Senza il viola l'intercetta **scende** e la pendenza **sale**: il contrario del giallo (1,77857 e 0,26132, slide 19).
-**Opzione:** β̂_0^{OLS} da 1,64622 a 1,361834 e β̂_1^{OLS} da 0,29321 a 0,35734: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
+**R:** Slide 28: «Stavolta, invece, il discorso è diverso perchè la 13-esima osservazione impatta in misura rilevante sulla stima del modello specificato. … si nota anzitutto che i valori stimati dei coefficienti della regressione cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione»: $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,361834, $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,35734. Il docente: «β0 stimato da 1,64, levando il viola, diventa 1,36. β1 stimato da 0,29 diventa 0,35. Quindi abbiamo un problema» (transcript [00:27:16]). ⚠️ Senza il viola l'intercetta **scende** e la pendenza **sale**: il contrario del giallo (1,77857 e 0,26132, slide 19).
+**Opzione:** $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,361834 e $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,35734: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
 **Distrattori:**
-- β̂_0^{OLS} da 1,64622 a 1,77857 e β̂_1^{OLS} da 0,29321 a 0,26132: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
-- ϵ_i^{OLS,std} := ϵ_i^{OLS}/σ̂_ε, con σ̂_ε l'errore standard della regressione, radice quadrata dello stimatore σ̂_ε² dell'equazione 67
-- d = 1,786671: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
+- $\hat{\beta}_0^{OLS}$ da 1,64622 a 1,77857 e $\hat{\beta}_1^{OLS}$ da 0,29321 a 0,26132: cominciano a differenziarsi abbastanza da quelli calcolati sull'intero campione
+- $\epsilon_i^{OLS,std} := \frac{\epsilon_i^{OLS}}{\hat{\sigma}_\varepsilon}$, con $\hat{\sigma}_\varepsilon$ l'errore standard della regressione, radice quadrata dello stimatore $\hat{\sigma}_\varepsilon^2$ dell'equazione 67
+- $d = 1{,}786671$: essendo un valore abbastanza prossimo a 2, si può ragionevolmente ritenere che non vi sia autocorrelazione nei residui
 
 **D:** Che cosa mostra lo scatter plot del fit stimato sul campione intero versus il fit stimato sul campione ristretto senza la 13-esima osservazione, secondo la slide 29 della lezione 29?
-**R:** Slide 29: «Conseguentemente, è ragionevole supporre che l'esclusione di questa osservazione possa modificare sensibilmente il fit della regressione rispetto a quello ottenuto effettuando la stima sul campione completo. La Figura seguente … supporta questa supposizione dal momento che vi è una discreta dispersione dei punti intorno alla retta di equazione y = x». Il docente: transcript [00:27:29]–[00:28:03]. ⚠️ Per il giallo, al contrario, i due fit sono «sostanzialmente disposti lungo la retta di equazione y = x» (slide 23).
-**Opzione:** Una discreta dispersione dei punti intorno alla retta y = x: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
+**R:** Slide 29: «Conseguentemente, è ragionevole supporre che l'esclusione di questa osservazione possa modificare sensibilmente il fit della regressione rispetto a quello ottenuto effettuando la stima sul campione completo. La Figura seguente … supporta questa supposizione dal momento che vi è una discreta dispersione dei punti intorno alla retta di equazione $y = x$». Il docente: transcript [00:27:29]–[00:28:03]. ⚠️ Per il giallo, al contrario, i due fit sono «sostanzialmente disposti lungo la retta di equazione y = x» (slide 23).
+**Opzione:** Una discreta dispersione dei punti intorno alla retta $y = x$: l'esclusione dell'osservazione può modificare sensibilmente il fit della regressione
 **Distrattori:**
-- Punti sostanzialmente disposti lungo la retta y = x: l'esclusione dell'osservazione non influenza sensibilmente il fit della regressione
+- Punti sostanzialmente disposti lungo la retta $y = x$: l'esclusione dell'osservazione non influenza sensibilmente il fit della regressione
 - Positiva: residui consecutivi sistematicamente con lo stesso segno; negativa: residui consecutivi sistematicamente di segno opposto
 - In ascissa un quantile di una variabile aleatoria con densità perfettamente Normale a media nulla; in ordinata il corrispondente quantile della distribuzione di frequenze dei residui OLS
 
-**D:** ⚠️ Come cambiano R² e R̄² rimuovendo dal campione la 13-esima osservazione, il pallino viola, secondo la slide 30 della lezione 29?
-**R:** Slide 30: «rimuovendo dal campione la 13-esima osservazione e effettuando la stima del modello lineare sul campione ristretto così ottenuto si registra un miglioramento anche nella capacità di adattamento del modello, come segnalato dall'aumento sia dell'R² che dell'R̄²»: R² da 0,41259 a 0,45501, R̄² da 0,39301 a 0,43622. ⚠️ Il docente dice «otteniamo una sensibile riduzione un miglioramento» (transcript [00:28:18]): per la slide R² e R̄² **aumentano**.
-**Opzione:** Aumentano entrambi, R² da 0,41259 a 0,45501 e R̄² da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
+**D:** ⚠️ Come cambiano $R^2$ e $\bar{R}^2$ rimuovendo dal campione la 13-esima osservazione, il pallino viola, secondo la slide 30 della lezione 29?
+**R:** Slide 30: «rimuovendo dal campione la 13-esima osservazione e effettuando la stima del modello lineare sul campione ristretto così ottenuto si registra un miglioramento anche nella capacità di adattamento del modello, come segnalato dall'aumento sia dell'$R^2$ che dell'$\bar{R}^2$»: $R^2$ da 0,41259 a 0,45501, $\bar{R}^2$ da 0,39301 a 0,43622. ⚠️ Il docente dice «otteniamo una sensibile riduzione un miglioramento» (transcript [00:28:18]): per la slide $R^2$ e $\bar{R}^2$ **aumentano**.
+**Opzione:** Aumentano entrambi, $R^2$ da 0,41259 a 0,45501 e $\bar{R}^2$ da 0,39301 a 0,43622: si registra un miglioramento nella capacità di adattamento del modello
 **Distrattori:**
-- Diminuiscono entrambi, R² da 0,45501 a 0,41259 e R̄² da 0,43622 a 0,39301: si registra una sensibile riduzione nella capacità di adattamento del modello
-- Rispetto ai valori stimati ŷ^{OLS} della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
-- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo i-esimo e quello (i - 1)-esimo
+- Diminuiscono entrambi, $R^2$ da 0,45501 a 0,41259 e $\bar{R}^2$ da 0,43622 a 0,39301: si registra una sensibile riduzione nella capacità di adattamento del modello
+- Rispetto ai valori stimati $\hat{y}^{OLS}$ della variabile dipendente e rispetto al tempo, inteso in senso lato come ordine di raccolta dei dati
+- L'autocorrelazione c.d. del 1° ordine, ossia quella tra il residuo $i$-esimo e quello $(i - 1)$-esimo
 
 ## Lezione 30 — Modello Lineare 8 – dati anomali
 
-**D:** ⚠️ Come si definisce il punto di leva o leverage h_{ii} dell'osservazione i-esima (145), secondo la slide 2 della lezione 30?
-**R:** Slide 2: «Si definisce punto di leva o leverage dell'osservazione i-esima, i = 1, 2, ⋯, n, e si denota con h_{ii} l'i-esimo elemento della diagonale principale della matrice di proiezione OLS (cfr. equazione 52), i.e.: h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i (145) ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱». La (52) è la matrice di proiezione della lezione 24, P := 𝐱(𝐱′𝐱)^(-1)𝐱′, che dà il fit. ⚠️ È la diagonale della matrice di **proiezione** P, non della matrice di generazione dei residui M della stessa lezione 24. Il docente la chiama «la matrice H» (transcript [00:17:23]).
-**Opzione:** L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
+**D:** ⚠️ Come si definisce il punto di leva o leverage $h_{ii}$ dell'osservazione $i$-esima (145), secondo la slide 2 della lezione 30?
+**R:** Slide 2: «Si definisce punto di leva o leverage dell'osservazione $i$-esima, $i = 1, 2, \cdots, n$, e si denota con $h_{ii}$ l'$i$-esimo elemento della diagonale principale della matrice di proiezione OLS (cfr. equazione 52), i.e.: $h_{ii} := \mathbf{x}_i'(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}_i$ (145) ove $\mathbf{x}_i$ è l'$i$-esima riga della matrice dei regressori $\mathbf{x}$». La (52) è la matrice di proiezione della lezione 24, $P := \mathbf{x}(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'$, che dà il fit. ⚠️ È la diagonale della matrice di **proiezione** $P$, non della matrice di generazione dei residui $M$ della stessa lezione 24. Il docente la chiama «la matrice H» (transcript [00:17:23]).
+**Opzione:** L'$i$-esimo elemento della diagonale principale della matrice di proiezione OLS, $h_{ii} := \mathbf{x}_i'(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}_i$, ove $\mathbf{x}_i$ è l'$i$-esima riga della matrice dei regressori $\mathbf{x}$
 **Distrattori:**
-- L'i-esimo elemento della diagonale principale della matrice di generazione dei residui OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
-- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
-- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+- L'$i$-esimo elemento della diagonale principale della matrice di generazione dei residui OLS, $h_{ii} := \mathbf{x}_i'(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}_i$, ove $\mathbf{x}_i$ è l'$i$-esima riga della matrice dei regressori $\mathbf{x}$
+- $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{m\cdot\hat{\sigma}_\varepsilon^2}$
+- $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$, con $R_i^2$ il coefficiente di determinazione relativo alla stima della regressione lineare della $i$-esima colonna della matrice dei regressori $\mathbf{x}$ su tutte le altre $(m - 1)$ colonne della medesima matrice
 
-**D:** ⚠️ Che forma assume il leverage h_{ii} quando vi è una sola variabile esplicativa oltre al termine costante (146), secondo la Nota della slide 2 della lezione 30?
-**R:** Slide 2: «Nel caso in cui vi sia una sola variabile esplicativa oltre al termine costante, la 145 assume la seguente forma: h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)² (146) ove x_i è il valore della variabile esplicativa diversa dal termine costante in corrispondenza della i-esima osservazione e x̄ è la media campionaria della medesima variabile esplicativa». Il docente: «1 su n più x con i meno x medio al quadrato diviso la sommatoria per j che va da 1 a n di x con j meno x medio al quadrato» (transcript [00:01:30]). ⚠️ Il segno è **più**: h_{ii} cresce con la distanza di x_i dalla media campionaria, ed è per questo che la slide 3 parla di distanza dal baricentro.
-**Opzione:** h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+**D:** ⚠️ Che forma assume il leverage $h_{ii}$ quando vi è una sola variabile esplicativa oltre al termine costante (146), secondo la Nota della slide 2 della lezione 30?
+**R:** Slide 2: «Nel caso in cui vi sia una sola variabile esplicativa oltre al termine costante, la 145 assume la seguente forma: $h_{ii} := \frac{1}{n} + \frac{(x_i - \bar{x})^2}{\sum_{j=1}^n (x_j - \bar{x})^2}$ (146) ove $x_i$ è il valore della variabile esplicativa diversa dal termine costante in corrispondenza della $i$-esima osservazione e $\bar{x}$ è la media campionaria della medesima variabile esplicativa». Il docente: «1 su n più x con i meno x medio al quadrato diviso la sommatoria per j che va da 1 a n di x con j meno x medio al quadrato» (transcript [00:01:30]). ⚠️ Il segno è **più**: $h_{ii}$ cresce con la distanza di $x_i$ dalla media campionaria, ed è per questo che la slide 3 parla di distanza dal baricentro.
+**Opzione:** $h_{ii} := \frac{1}{n} + \frac{(x_i - \bar{x})^2}{\sum_{j=1}^n (x_j - \bar{x})^2}$, con $\bar{x}$ la media campionaria della variabile esplicativa
 **Distrattori:**
-- h_{ii} := 1/n - (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
-- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
-- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+- $h_{ii} := \frac{1}{n} - \frac{(x_i - \bar{x})^2}{\sum_{j=1}^n (x_j - \bar{x})^2}$, con $\bar{x}$ la media campionaria della variabile esplicativa
+- $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$
+- $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$, con $R_i^2$ il coefficiente di determinazione relativo alla stima della regressione lineare della $i$-esima colonna della matrice dei regressori $\mathbf{x}$ su tutte le altre $(m - 1)$ colonne della medesima matrice
 
 **D:** ⚠️ Quali sono le osservazioni con un punto di leva elevato, secondo l'interpretazione della (146) nella slide 3 della lezione 30?
-**R:** Slide 3: «L'equazione 146 relativa al caso bivariato aiuta a meglio interpretare il significato del concetto di leverage. Essa rende infatti evidente, anche in termini algebrici, che le osservazioni con un punto di leva elevato sono quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro che, nel caso bivariato, coincide appunto con la loro media campionaria». Il docente: transcript [00:02:25]–[00:02:47]. ⚠️ Il leverage guarda le variabili **esplicative**, non la variabile dipendente: nella (145) e nella (146) y non compare. I dati anomali nella variabile dipendente sono gli outliers della lezione 29 (slide 15 del deck 29).
+**R:** Slide 3: «L'equazione 146 relativa al caso bivariato aiuta a meglio interpretare il significato del concetto di leverage. Essa rende infatti evidente, anche in termini algebrici, che le osservazioni con un punto di leva elevato sono quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro che, nel caso bivariato, coincide appunto con la loro media campionaria». Il docente: transcript [00:02:25]–[00:02:47]. ⚠️ Il leverage guarda le variabili **esplicative**, non la variabile dipendente: nella (145) e nella (146) $y$ non compare. I dati anomali nella variabile dipendente sono gli outliers della lezione 29 (slide 15 del deck 29).
 **Opzione:** Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
 **Distrattori:**
 - Quelle in cui la variabile dipendente assume un valore molto distante dal suo baricentro, che nel caso bivariato coincide con la sua media campionaria
-- Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+- Il caso in cui una o più colonne di $\mathbf{x}$ siano prossime ad essere linearmente dipendenti dalle altre
 - La multicollinearità non è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario è un fenomeno che può esistere con varie gradazioni di intensità
 
 **D:** ⚠️ Come si decide, in generale, se un'osservazione ha un leverage elevato, secondo la slide 3 della lezione 30?
-**R:** Slide 3: «In generale, per decidere se un'osservazione abbia o meno un leverage elevato si considera se è superiore al valore soglia di 2m/n. In caso affermativo, il punto di leva di quell'osservazione viene considerato alto, altrimenti no». Il docente: «superiore al valore soglia di 2 per m su n» (transcript [00:02:57]). ⚠️ m, il numero di colonne della matrice dei regressori, sta al **numeratore** e n, la numerosità del campione, al **denominatore**. Da non confondere con la soglia della distanza di Cook, che è 1 (slide 9).
-**Opzione:** Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
+**R:** Slide 3: «In generale, per decidere se un'osservazione abbia o meno un leverage elevato si considera se è superiore al valore soglia di 2m/n. In caso affermativo, il punto di leva di quell'osservazione viene considerato alto, altrimenti no». Il docente: «superiore al valore soglia di 2 per m su n» (transcript [00:02:57]). ⚠️ $m$, il numero di colonne della matrice dei regressori, sta al **numeratore** e $n$, la numerosità del campione, al **denominatore**. Da non confondere con la soglia della distanza di Cook, che è 1 (slide 9).
+**Opzione:** Si considera se è superiore al valore soglia di $2\frac{m}{n}$: in caso affermativo il punto di leva viene considerato alto
 **Distrattori:**
-- Si considera se è superiore al valore soglia di 2n/m: in caso affermativo il punto di leva viene considerato alto
+- Si considera se è superiore al valore soglia di $2\frac{n}{m}$: in caso affermativo il punto di leva viene considerato alto
 - Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
-- Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+- Rimuovere la $i$-esima colonna di $\mathbf{x}$ e procedere nuovamente alla stima del modello
 
-**D:** ⚠️ Quanto valgono m, n e il valore soglia per i punti di leva nell'esempio del Nasdaq della slide 4 della lezione 30?
-**R:** Slide 4: «In questo caso i valori di m ed n sono rispettivamente pari a 2 e 201, pertanto il valore soglia per i punti di leva è: 2m/n = 2·2/201 = 0,0199». Il modello è rendNASD = β_0 + β_1 rendSP + ε, per i rendimenti logaritmici mensili dell'indice azionario Nasdaq da febbraio 2006 a ottobre 2022, con il termine costante e i rendimenti logaritmici mensili dello Standard&Poor's 500 come variabili esplicative. ⚠️ Il docente dice prima «0,0191» (transcript [00:04:46]) e poi 0,0199 ([00:04:52]): vale la slide, e 4/201 = 0,0199 (deduzione). m = 2 conta le due colonne di 𝐱, il termine costante e rendSP.
-**Opzione:** m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+**D:** ⚠️ Quanto valgono $m$, $n$ e il valore soglia per i punti di leva nell'esempio del Nasdaq della slide 4 della lezione 30?
+**R:** Slide 4: «In questo caso i valori di $m$ ed $n$ sono rispettivamente pari a 2 e 201, pertanto il valore soglia per i punti di leva è: $2\frac{m}{n} = 2\cdot\frac{2}{201} = 0{,}0199$». Il modello è $\mathrm{rendNASD} = \beta_0 + \beta_1 \mathrm{rendSP} + \varepsilon$, per i rendimenti logaritmici mensili dell'indice azionario Nasdaq da febbraio 2006 a ottobre 2022, con il termine costante e i rendimenti logaritmici mensili dello Standard&Poor's 500 come variabili esplicative. ⚠️ Il docente dice prima «0,0191» (transcript [00:04:46]) e poi 0,0199 ([00:04:52]): vale la slide, e $4/201 = 0{,}0199$ (deduzione). $m = 2$ conta le due colonne di $\mathbf{x}$, il termine costante e rendSP.
+**Opzione:** $m = 2$ e $n = 201$, quindi il valore soglia è $2\frac{m}{n} = 2\cdot\frac{2}{201} = 0{,}0199$
 **Distrattori:**
-- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0191
-- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+- $m = 2$ e $n = 201$, quindi il valore soglia è $2\frac{m}{n} = 2\cdot\frac{2}{201} = 0{,}0191$
+- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di $0{,}125 (= 2\cdot\frac{2}{32})$
 - La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
 
 **D:** ⚠️ Che cosa si riscontra nella Figura della slide 5 della lezione 30, che riporta in ordine cronologico il leverage di ciascuna osservazione del Nasdaq a confronto con il valore soglia?
@@ -9611,14 +9928,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Lo scoppio della crisi finanziaria globale nel 2008-2009 (si pensi al default di Lehman Brothers); la crisi dei debiti pubblici dell'area euro nel 2011-2012; lo scoppio della pandemia di Covid-19 nella prima metà del 2020; il mix di guerra, inflazione e aumento dei tassi di interesse globali nel 2022
 **Distrattori:**
 - Lo scoppio della crisi finanziaria globale nel 2008-2009 (si pensi al default di Lehman Brothers); la crisi dei debiti pubblici dell'area euro nel 2011-2012; lo scoppio della pandemia di Covid-19 nella prima metà del 2020; il mix di guerra, inflazione e riduzione dei tassi di interesse globali nel 2022
-- Una F di Fisher con m e (n - m) gradi di libertà
+- Una F di Fisher con $m$ e $(n - m)$ gradi di libertà
 
 **D:** ⚠️ Che cosa conclude la slide 6 della lezione 30 sui dati con leverage elevato dell'esempio del Nasdaq, giustificati dai fatti?
-**R:** Slide 6: «Essendo giustificati dai fatti, i dati con leverage elevato non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione». Il docente: «non vanno levati dal campione perché sono parte di quello che succede sui mercati finanziari» (transcript [00:08:03]). ⚠️ Si **mantengono**: trattandosi di dati reali, «non creati attraverso simulazioni numeriche», la slide si chiede prima se le anomalie siano «giustificate» dai fatti. Da non confondere con il rimedio alla multicollinearità, che rimuove una colonna di 𝐱 (slide 20).
+**R:** Slide 6: «Essendo giustificati dai fatti, i dati con leverage elevato non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione». Il docente: «non vanno levati dal campione perché sono parte di quello che succede sui mercati finanziari» (transcript [00:08:03]). ⚠️ Si **mantengono**: trattandosi di dati reali, «non creati attraverso simulazioni numeriche», la slide si chiede prima se le anomalie siano «giustificate» dai fatti. Da non confondere con il rimedio alla multicollinearità, che rimuove una colonna di $\mathbf{x}$ (slide 20).
 **Opzione:** Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
 **Distrattori:**
 - Possono essere attribuiti ad errori di rilevazione e vanno rimossi dal campione
-- Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+- Rimuovere la $i$-esima colonna di $\mathbf{x}$ e procedere nuovamente alla stima del modello
 - L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
 
 **D:** ⚠️ Che cosa dice la slide 7 della lezione 30 del rapporto fra leverage elevato e influenza sulla stima di un modello lineare?
@@ -9630,60 +9947,60 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - La multicollinearità, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività
 
 **D:** ⚠️ Quale esame formalizza la distanza di Cook, secondo la slide 7 della lezione 30?
-**R:** Slide 7: «Per una valutazione più raffinata si può utilizzare la c.d. distanza di Cook, una metrica che formalizza l'esame grafico appena descritto», cioè lo scatter plot «del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione». Il docente: «formalizza analiticamente l'esame grafico che abbiamo fatto nella precedente lezione» (transcript [00:10:18]). ⚠️ Formalizza il confronto fra i **fit** stimati con e senza l'osservazione, non il confronto del leverage con la soglia 2m/n della slide 5.
+**R:** Slide 7: «Per una valutazione più raffinata si può utilizzare la c.d. distanza di Cook, una metrica che formalizza l'esame grafico appena descritto», cioè lo scatter plot «del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione». Il docente: «formalizza analiticamente l'esame grafico che abbiamo fatto nella precedente lezione» (transcript [00:10:18]). ⚠️ Formalizza il confronto fra i **fit** stimati con e senza l'osservazione, non il confronto del leverage con la soglia $2\frac{m}{n}$ della slide 5.
 **Opzione:** L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
 **Distrattori:**
 - L'esame grafico del leverage di ciascuna osservazione, riportato in ordine cronologico a confronto con il valore soglia 2m/n
-- Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
-- Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+- Si considera se è superiore al valore soglia di $2\frac{m}{n}$: in caso affermativo il punto di leva viene considerato alto
+- Una bassa significatività del coefficiente stimato $\hat{\beta}_i^{OLS}$
 
-**D:** ⚠️ Come si definisce la distanza di Cook D_i dell'osservazione i-esima (147), secondo la slide 8 della lezione 30?
-**R:** Slide 8: «Si definisce distanza di Cook dell'osservazione i-esima e si denota con D_i la seguente quantità: D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²) (147)», con ŷ_j il fit calcolato sull'intero campione, ŷ_j(i) il fit calcolato sul campione ristretto in cui è stata omessa l'osservazione i-esima e σ̂_ε² «il quadrato dell'errore standard della regressione». Il docente: «diviso m per sigma quadro cappello di epsilon cioè il quadrato dell'errore standard della regressione» (transcript [00:11:23]). ⚠️ Al denominatore c'è **m**, il numero di colonne di 𝐱, non n: è anche il primo grado di libertà della F di Fisher della slide 9. È la domanda 1 del test.
-**Opzione:** D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
+**D:** ⚠️ Come si definisce la distanza di Cook $D_i$ dell'osservazione $i$-esima (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «Si definisce distanza di Cook dell'osservazione $i$-esima e si denota con $D_i$ la seguente quantità: $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{m\cdot\hat{\sigma}_\varepsilon^2}$ (147)», con $\hat{y}_j$ il fit calcolato sull'intero campione, $\hat{y}_j(i)$ il fit calcolato sul campione ristretto in cui è stata omessa l'osservazione $i$-esima e $\hat{\sigma}_\varepsilon^2$ «il quadrato dell'errore standard della regressione». Il docente: «diviso m per sigma quadro cappello di epsilon cioè il quadrato dell'errore standard della regressione» (transcript [00:11:23]). ⚠️ Al denominatore c'è **$m$**, il numero di colonne di $\mathbf{x}$, non $n$: è anche il primo grado di libertà della F di Fisher della slide 9. È la domanda 1 del test.
+**Opzione:** $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{m\cdot\hat{\sigma}_\varepsilon^2}$
 **Distrattori:**
-- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(n·σ̂_ε²)
-- L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
-- h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+- $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{n\cdot\hat{\sigma}_\varepsilon^2}$
+- L'$i$-esimo elemento della diagonale principale della matrice di proiezione OLS, $h_{ii} := \mathbf{x}_i'(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}_i$, ove $\mathbf{x}_i$ è l'$i$-esima riga della matrice dei regressori $\mathbf{x}$
+- $h_{ii} := \frac{1}{n} + \frac{(x_i - \bar{x})^2}{\sum_{j=1}^n (x_j - \bar{x})^2}$, con $\bar{x}$ la media campionaria della variabile esplicativa
 
-**D:** ⚠️ Che cosa sono ŷ_j e ŷ_j(i) nella distanza di Cook (147), secondo la slide 8 della lezione 30?
-**R:** Slide 8: «ŷ_j è il fit dell'osservazione j-esima, j = 1, 2, ⋯, n, calcolato utilizzando i valori dei coefficienti stimati sull'intero campione»; «ŷ_j(i) è il fit dell'osservazione j-esima, j = 1, 2, ⋯, n, calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima». ⚠️ Sono tutti e due fit dell'osservazione **j-esima**, per ogni j da 1 a n: cambia solo il campione su cui si stimano i coefficienti, e l'indice i dice quale osservazione si **omette**. La piattaforma scrive «ŷi (i)», con la i al posto della j (domanda 1 del test).
-**Opzione:** ŷ_j è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione; ŷ_j(i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima
+**D:** ⚠️ Che cosa sono $\hat{y}_j$ e $\hat{y}_j(i)$ nella distanza di Cook (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «$\hat{y}_j$ è il fit dell'osservazione $j$-esima, $j = 1, 2, \cdots, n$, calcolato utilizzando i valori dei coefficienti stimati sull'intero campione»; «$\hat{y}_j(i)$ è il fit dell'osservazione $j$-esima, $j = 1, 2, \cdots, n$, calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione $i$-esima». ⚠️ Sono tutti e due fit dell'osservazione **$j$-esima**, per ogni $j$ da 1 a $n$: cambia solo il campione su cui si stimano i coefficienti, e l'indice i dice quale osservazione si **omette**. La piattaforma scrive «ŷi (i)», con la i al posto della $j$ (domanda 1 del test).
+**Opzione:** $\hat{y}_j$ è il fit dell'osservazione $j$-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione; $\hat{y}_j(i)$ è il fit dell'osservazione $j$-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione $i$-esima
 **Distrattori:**
-- ŷ_j è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima; ŷ_j(i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione
+- $\hat{y}_j$ è il fit dell'osservazione $j$-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione $i$-esima; $\hat{y}_j(i)$ è il fit dell'osservazione $j$-esima calcolato utilizzando i valori dei coefficienti stimati sull'intero campione
 - Il quadrato dell'errore standard della regressione
 - Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
 
-**D:** ⚠️ Che cos'è σ̂_ε², al denominatore della distanza di Cook (147), secondo la slide 8 della lezione 30?
-**R:** Slide 8: «σ̂_ε² è il quadrato dell'errore standard della regressione». È lo stimatore non distorto della varianza dell'errore della lezione 25, σ̂_ε² = ∑_{i=1}^n (ϵ_i^{OLS})²/(n - m) (67). ⚠️ Il docente, leggendo la formula equivalente (148), la chiama «la varianza dei residui campionari al quadrato» (transcript [00:17:23]): la varianza campionaria dei residui OLS σ_{ϵ^{OLS}}² della lezione 25 ha n al denominatore ed è un'altra grandezza. Vale la slide. La piattaforma la scrive «σϵ2», senza cappello.
+**D:** ⚠️ Che cos'è $\hat{\sigma}_\varepsilon^2$, al denominatore della distanza di Cook (147), secondo la slide 8 della lezione 30?
+**R:** Slide 8: «$\hat{\sigma}_\varepsilon^2$ è il quadrato dell'errore standard della regressione». È lo stimatore non distorto della varianza dell'errore della lezione 25, $\hat{\sigma}_\varepsilon^2 = \frac{\sum_{i=1}^n (\epsilon_i^{OLS})^2}{n - m}$ (67). ⚠️ Il docente, leggendo la formula equivalente (148), la chiama «la varianza dei residui campionari al quadrato» (transcript [00:17:23]): la varianza campionaria dei residui OLS $\sigma_{\epsilon^{OLS}}^2$ della lezione 25 ha $n$ al denominatore ed è un'altra grandezza. Vale la slide. La piattaforma la scrive «σϵ2», senza cappello.
 **Opzione:** Il quadrato dell'errore standard della regressione
 **Distrattori:**
 - La varianza campionaria dei residui OLS
-- Una F di Fisher con m e (n - m) gradi di libertà
-- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+- Una F di Fisher con $m$ e $(n - m)$ gradi di libertà
+- $m = 2$ e $n = 201$, quindi il valore soglia è $2\frac{m}{n} = 2\cdot\frac{2}{201} = 0{,}0199$
 
 **D:** ⚠️ Che funzione di densità di probabilità ha la distanza di Cook, secondo la Proposizione della slide 9 della lezione 30?
-**R:** Slide 9: «La funzione di densità di probabilità della distanza di Cook è una F di Fisher con m e (n - m) gradi di libertà». Il docente: «una f di Fischer con m e n meno m gradi di libertà» (transcript [00:12:25]). ⚠️ I gradi di libertà sono **m** e (n - m): la statistica F del test sulla significatività congiunta della lezione 28 ha invece (m - 1) e (n - m). La mediana di questa F dà la soglia della distanza di Cook.
-**Opzione:** Una F di Fisher con m e (n - m) gradi di libertà
+**R:** Slide 9: «La funzione di densità di probabilità della distanza di Cook è una F di Fisher con $m$ e $(n - m)$ gradi di libertà». Il docente: «una f di Fischer con m e n meno m gradi di libertà» (transcript [00:12:25]). ⚠️ I gradi di libertà sono **$m$** e $(n - m)$: la statistica F del test sulla significatività congiunta della lezione 28 ha invece $(m - 1)$ e $(n - m)$. La mediana di questa F dà la soglia della distanza di Cook.
+**Opzione:** Una F di Fisher con $m$ e $(n - m)$ gradi di libertà
 **Distrattori:**
-- Una F di Fisher con (m - 1) e (n - m) gradi di libertà
+- Una F di Fisher con $(m - 1)$ e $(n - m)$ gradi di libertà
 - Il quadrato dell'errore standard della regressione
-- Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+- Una bassa significatività del coefficiente stimato $\hat{\beta}_i^{OLS}$
 
-**D:** ⚠️ A che valore tende la mediana della F di Fisher con m e (n - m) gradi di libertà, e in quale caso, secondo la slide 9 della lezione 30?
-**R:** Slide 9: «la mediana di una variabile aleatoria distribuita come una F di Fisher con m e (n - m) gradi di libertà costituisce un buon riferimento per identificare un valore soglia per la distanza di Cook. Quando il numero di osservazioni è molto elevato (n grande), la mediana in questione tende ad 1». Il docente: «Quando il numero di osservazioni è molto elevato» (transcript [00:13:21]). ⚠️ È **n**, il numero di osservazioni, a dover essere grande: ripetendo la regola il docente dice «quando m è molto elevate» ([00:14:12]). Vale la slide.
-**Opzione:** Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+**D:** ⚠️ A che valore tende la mediana della F di Fisher con $m$ e $(n - m)$ gradi di libertà, e in quale caso, secondo la slide 9 della lezione 30?
+**R:** Slide 9: «la mediana di una variabile aleatoria distribuita come una F di Fisher con m e (n - m) gradi di libertà costituisce un buon riferimento per identificare un valore soglia per la distanza di Cook. Quando il numero di osservazioni è molto elevato (n grande), la mediana in questione tende ad 1». Il docente: «Quando il numero di osservazioni è molto elevato» (transcript [00:13:21]). ⚠️ È **$n$**, il numero di osservazioni, a dover essere grande: ripetendo la regola il docente dice «quando m è molto elevate» ([00:14:12]). Vale la slide.
+**Opzione:** Tende ad 1 quando il numero di osservazioni è molto elevato ($n$ grande)
 **Distrattori:**
-- Tende ad 1 quando il numero di colonne della matrice dei regressori è molto elevato (m grande)
+- Tende ad 1 quando il numero di colonne della matrice dei regressori è molto elevato ($m$ grande)
 - Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
 - La maggior parte delle osservazioni non ha un leverage elevato, in quanto si posiziona al di sotto della soglia
 
 **D:** ⚠️ Qual è il test rapido per stabilire se una data osservazione è influente, secondo la slide 9 della lezione 30?
-**R:** Slide 9: «Pertanto, un test rapido per stabilire se una data osservazione è influente è quello di vedere se la relativa distanza di Cook vale più dell'unità. In caso affermativo, l'osservazione in questione viene considerata influente, altrimenti no». Il docente: transcript [00:13:28]–[00:13:41]. ⚠️ La soglia **1** viene dalla mediana della F di Fisher per n grande; **2m/n** è la soglia del **leverage** (slide 3), e un leverage sopra 2m/n non basta a rendere influente un'osservazione (slide 7).
+**R:** Slide 9: «Pertanto, un test rapido per stabilire se una data osservazione è influente è quello di vedere se la relativa distanza di Cook vale più dell'unità. In caso affermativo, l'osservazione in questione viene considerata influente, altrimenti no». Il docente: transcript [00:13:28]–[00:13:41]. ⚠️ La soglia **1** viene dalla mediana della F di Fisher per $n$ grande; **$2\frac{m}{n}$** è la soglia del **leverage** (slide 3), e un leverage sopra $2\frac{m}{n}$ non basta a rendere influente un'osservazione (slide 7).
 **Opzione:** Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
 **Distrattori:**
-- Vedere se la relativa distanza di Cook vale più di 2m/n: in caso affermativo l'osservazione viene considerata influente
+- Vedere se la relativa distanza di Cook vale più di $2\frac{m}{n}$: in caso affermativo l'osservazione viene considerata influente
 - Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
-- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+- Che la matrice dei regressori $\mathbf{x}$ abbia rango pieno, ossia che nessuna delle colonne di $\mathbf{x}$ sia linearmente dipendente dalle altre
 
 **D:** ⚠️ Che cosa indica la distanza di Cook delle osservazioni dell'esempio del Nasdaq, secondo la slide 11 della lezione 30?
 **R:** Slide 11: «Per TUTTE le osservazioni la distanza di Cook si mantiene ben sotto l'unità, il che indica che — pur essendoci, come si è visto, numerose osservazioni a leverage elevato — nessuna di loro risulta particolarmente influente sulla stima del modello». Il docente: «Pur essendoci osservazioni a leverage elevato, nessuna ha un'influenza del modello» (transcript [00:15:36]). ⚠️ «TUTTE»: nessuna eccezione, nemmeno fra le osservazioni a leverage elevato. È l'esempio della slide 7: «Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima».
@@ -9698,42 +10015,42 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
 **Distrattori:**
 - La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; il suo residuo, 0,0573, è invece il più piccolo, in termini assoluti, di tutto il campione
-- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+- 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di $0{,}125 (= 2\cdot\frac{2}{32})$
 
 **D:** ⚠️ Da che cosa dipende, e con che segno, la distanza di Cook di un'osservazione, secondo la slide 12 della lezione 30?
-**R:** Slide 12: «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello). Vale, infatti, la seguente proposizione», la formula equivalente (148). Il docente: transcript [00:16:44]. ⚠️ **Positivamente da entrambi**: nella (148) il residuo al quadrato sta al numeratore del primo fattore e il leverage nel secondo, h_{ii}/(1 - h_{ii})², che cresce con h_{ii} (deduzione).
+**R:** Slide 12: «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello). Vale, infatti, la seguente proposizione», la formula equivalente (148). Il docente: transcript [00:16:44]. ⚠️ **Positivamente da entrambi**: nella (148) il residuo al quadrato sta al numeratore del primo fattore e il leverage nel secondo, $\frac{h_{ii}}{(1 - h_{ii})^2}$, che cresce con $h_{ii}$ (deduzione).
 **Opzione:** Positivamente sia dal leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)
 **Distrattori:**
 - Positivamente dal leverage (distanza delle variabili esplicative dal loro baricentro) e negativamente dal residuo ad essa associato (capacità di adattamento del modello)
 - Non tutte le osservazioni con leverage elevato influenzano sensibilmente la stima di un modello lineare
-- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+- Che la matrice dei regressori $\mathbf{x}$ abbia rango pieno, ossia che nessuna delle colonne di $\mathbf{x}$ sia linearmente dipendente dalle altre
 
-**D:** ⚠️ Qual è la formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione i-esima (148), secondo la slide 12 della lezione 30?
-**R:** Slide 12: «Una formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione i-esima è: D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²] (148)», con h_{ii} il leverage (145). Il docente: «i residui LS iesimi al quadrato diviso m per la varianza dei residui campionari al quadrato per il valore della diagonale la matrice H diviso 1 meno la diagonale al quadrato» (transcript [00:17:23]). ⚠️ Nel secondo fattore (1 - h_{ii}) è **al quadrato** e sta al **denominatore**, con il meno; il residuo è ϵ_i^{OLS}. Per σ̂_ε² vale la slide 8, «il quadrato dell'errore standard della regressione». È la domanda 2 del test.
-**Opzione:** D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
+**D:** ⚠️ Qual è la formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione $i$-esima (148), secondo la slide 12 della lezione 30?
+**R:** Slide 12: «Una formula equivalente alla 147 per il calcolo della distanza di Cook dell'osservazione $i$-esima è: $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$ (148)», con $h_{ii}$ il leverage (145). Il docente: «i residui LS iesimi al quadrato diviso m per la varianza dei residui campionari al quadrato per il valore della diagonale la matrice H diviso 1 meno la diagonale al quadrato» (transcript [00:17:23]). ⚠️ Nel secondo fattore $(1 - h_{ii})$ è **al quadrato** e sta al **denominatore**, con il meno; il residuo è $\epsilon_i^{OLS}$. Per $\hat{\sigma}_\varepsilon^2$ vale la slide 8, «il quadrato dell'errore standard della regressione». È la domanda 2 del test.
+**Opzione:** $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$
 **Distrattori:**
-- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 + h_{ii})²]
-- L'i-esimo elemento della diagonale principale della matrice di proiezione OLS, h_{ii} := 𝐱_i′(𝐱′𝐱)^(-1)𝐱_i, ove 𝐱_i è l'i-esima riga della matrice dei regressori 𝐱
-- h_{ii} := 1/n + (x_i - x̄)²/∑_{j=1}^n (x_j - x̄)², con x̄ la media campionaria della variabile esplicativa
+- $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 + h_{ii})^2}\right]$
+- L'$i$-esimo elemento della diagonale principale della matrice di proiezione OLS, $h_{ii} := \mathbf{x}_i'(\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}_i$, ove $\mathbf{x}_i$ è l'$i$-esima riga della matrice dei regressori $\mathbf{x}$
+- $h_{ii} := \frac{1}{n} + \frac{(x_i - \bar{x})^2}{\sum_{j=1}^n (x_j - \bar{x})^2}$, con $\bar{x}$ la media campionaria della variabile esplicativa
 
 **D:** ⚠️ Come qualifica la slide 13 della lezione 30 l'osservazione del pallino viola, la 13-esima del diagramma di dispersione della lezione 29?
-**R:** Slide 13: «Si consideri di nuovo il diagramma di dispersione riportato nella Figura seguente e, in particolare, il pallino viola al quale corrispondeva un'osservazione (la 13-esima) influente e con un leverage elevato». È il diagramma delle 32 osservazioni della lezione 29, dove il viola è anomalo nella variabile esplicativa x (slide 27 del deck 29). ⚠️ **Influente e** con leverage elevato: nella lezione 29 anche il pallino giallo ha un alto punto di leva, ma «non influenza sensibilmente la stima del modello» (slide 23 del deck 29). Le slide 14–16 lo quantificano: leverage 0,295, distanza di Cook 0,565.
+**R:** Slide 13: «Si consideri di nuovo il diagramma di dispersione riportato nella Figura seguente e, in particolare, il pallino viola al quale corrispondeva un'osservazione (la 13-esima) influente e con un leverage elevato». È il diagramma delle 32 osservazioni della lezione 29, dove il viola è anomalo nella variabile esplicativa $x$ (slide 27 del deck 29). ⚠️ **Influente e** con leverage elevato: nella lezione 29 anche il pallino giallo ha un alto punto di leva, ma «non influenza sensibilmente la stima del modello» (slide 23 del deck 29). Le slide 14–16 lo quantificano: leverage 0,295, distanza di Cook 0,565.
 **Opzione:** Un'osservazione influente e con un leverage elevato
 **Distrattori:**
 - Un'osservazione con un leverage elevato ma non influente
 - La 37-esima, relativa al mese di febbraio 2009, con una distanza di Cook pari a 0,2486; anche il suo residuo, 0,0573, è il più grande, in termini assoluti, di tutto il campione
-- m = 2 e n = 201, quindi il valore soglia è 2m/n = 2·2/201 = 0,0199
+- $m = 2$ e $n = 201$, quindi il valore soglia è $2\frac{m}{n} = 2\cdot\frac{2}{201} = 0{,}0199$
 
 **D:** ⚠️ Quanto vale il leverage della 13-esima osservazione e come si colloca rispetto al valore soglia, secondo la slide 15 della lezione 30?
-**R:** Slide 15: «Il suo leverage è pari a 0,295 e, come mostra la Figura seguente, è il più alto dell'intero campione e (insieme a quello relativo alla 32-esima osservazione) è l'unico ad essere superiore al valore soglia di 0,125 (= 2·2/32)». Qui m = 2 e n = 32. Il docente: transcript [00:19:22]–[00:19:40]. ⚠️ «Insieme a quello relativo alla 32-esima»: le osservazioni sopra la soglia sono **due**. La 32-esima è il pallino giallo della lezione 29, il rombo giallo all'ascissa 32 del plot dei residui (deduzione dalla slide 21 del deck 29).
-**Opzione:** 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di 0,125 (= 2·2/32)
+**R:** Slide 15: «Il suo leverage è pari a 0,295 e, come mostra la Figura seguente, è il più alto dell'intero campione e (insieme a quello relativo alla 32-esima osservazione) è l'unico ad essere superiore al valore soglia di $0{,}125 (= 2\cdot\frac{2}{32})$». Qui $m = 2$ e $n = 32$. Il docente: transcript [00:19:22]–[00:19:40]. ⚠️ «Insieme a quello relativo alla 32-esima»: le osservazioni sopra la soglia sono **due**. La 32-esima è il pallino giallo della lezione 29, il rombo giallo all'ascissa 32 del plot dei residui (deduzione dalla slide 21 del deck 29).
+**Opzione:** 0,295: è il più alto dell'intero campione e, insieme a quello della 32-esima osservazione, è l'unico superiore al valore soglia di $0{,}125 (= 2\cdot\frac{2}{32})$
 **Distrattori:**
-- 0,295: è il più alto dell'intero campione ed è l'unico superiore al valore soglia di 0,125 (= 2·2/32), mentre quello della 32-esima osservazione resta al di sotto
+- 0,295: è il più alto dell'intero campione ed è l'unico superiore al valore soglia di $0{,}125 (= 2\cdot\frac{2}{32})$, mentre quello della 32-esima osservazione resta al di sotto
 - 0,565: pur essendo inferiore ad 1, il valore soglia per la metrica in questione, è molto al di sopra di quello delle altre osservazioni e segnala che la 13-esima è, all'interno del campione, quella che influenza maggiormente la stima del modello
-- Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+- Tende ad 1 quando il numero di osservazioni è molto elevato ($n$ grande)
 
 **D:** ⚠️ Quanto vale la distanza di Cook della 13-esima osservazione e che cosa segnala, secondo la slide 16 della lezione 30?
-**R:** Slide 16: «La Figura seguente mostra invece come la 13-esima osservazione sia anche quella con la distanza di Cook più alta dell'intero campione. Tale valore è pari a 0,565: pur essendo inferiore ad 1 (il valore soglia per la metrica in questione), si tratta di un valore molto al di sopra di quello relativo alle altre osservazioni e segnala che la 13-esima osservazione è, all'interno del campione, quella che influenza maggiormente la stima del modello». Il docente: transcript [00:20:17]–[00:20:37]. ⚠️ **Sotto** la soglia di 1, eppure la slide non la dice «non influente»: conta il confronto con le altre osservazioni. Il test rapido della slide 9 vale per n grande, e qui n = 32 (deduzione).
+**R:** Slide 16: «La Figura seguente mostra invece come la 13-esima osservazione sia anche quella con la distanza di Cook più alta dell'intero campione. Tale valore è pari a 0,565: pur essendo inferiore ad 1 (il valore soglia per la metrica in questione), si tratta di un valore molto al di sopra di quello relativo alle altre osservazioni e segnala che la 13-esima osservazione è, all'interno del campione, quella che influenza maggiormente la stima del modello». Il docente: transcript [00:20:17]–[00:20:37]. ⚠️ **Sotto** la soglia di 1, eppure la slide non la dice «non influente»: conta il confronto con le altre osservazioni. Il test rapido della slide 9 vale per $n$ grande, e qui $n = 32$ (deduzione).
 **Opzione:** 0,565: pur essendo inferiore ad 1, il valore soglia per la metrica in questione, è molto al di sopra di quello delle altre osservazioni e segnala che la 13-esima è, all'interno del campione, quella che influenza maggiormente la stima del modello
 **Distrattori:**
 - 0,565: essendo inferiore ad 1, il valore soglia per la metrica in questione, segnala che la 13-esima, come le altre osservazioni del campione, non influenza sensibilmente la stima del modello
@@ -9741,21 +10058,21 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Positivamente sia dal leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)
 
 **D:** Perché non è una casualità che, nell'esempio del Nasdaq, l'osservazione con la distanza di Cook più alta sia anche quella con il residuo più grande?
-**R:** Perché, per la slide 12, «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)», e la formula equivalente (148), D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²], ha il residuo al quadrato nel primo fattore. La 37-esima osservazione, febbraio 2009, ha la distanza di Cook più alta, 0,2486, e il residuo più grande in termini assoluti, 0,0573 (slide 11). Il docente: «Non è casuale questa circostanza» (transcript [00:16:38]).
+**R:** Perché, per la slide 12, «La distanza di Cook di un'osservazione dipende positivamente sia dal suo leverage (distanza delle variabili esplicative dal loro baricentro) che dal residuo ad essa associato (capacità di adattamento del modello)», e la formula equivalente (148), $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$, ha il residuo al quadrato nel primo fattore. La 37-esima osservazione, febbraio 2009, ha la distanza di Cook più alta, 0,2486, e il residuo più grande in termini assoluti, 0,0573 (slide 11). Il docente: «Non è casuale questa circostanza» (transcript [00:16:38]).
 
 **D:** ⚠️ Qual è una delle condizioni imprescindibili per stimare i coefficienti di una regressione lineare multivariata col metodo dei minimi quadrati ordinari, secondo la slide 17 della lezione 30?
-**R:** Slide 17: «Una delle condizioni imprescindibili che devono essere verificate affinchè sia possibile stimare i coefficienti di una regressione lineare multivariata col metodo dei minimi quadrati ordinari è che la matrice dei regressori 𝐱 abbia rango pieno (ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre). Il motivo è, evidentemente, che solo se tale condizione è soddisfatta la matrice quadrata 𝐱′𝐱 è invertibile ed è quindi possibile calcolare il vettore 𝛃̂^{OLS} tramite l'equazione 40», 𝛃̂^{OLS} = (𝐱′𝐱)^(-1)𝐱′𝐲. Il docente: transcript [00:22:33]–[00:23:29]. ⚠️ La dipendenza lineare riguarda le **colonne** di 𝐱, cioè le variabili esplicative, non le righe.
-**Opzione:** Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle colonne di 𝐱 sia linearmente dipendente dalle altre
+**R:** Slide 17: «Una delle condizioni imprescindibili che devono essere verificate affinchè sia possibile stimare i coefficienti di una regressione lineare multivariata col metodo dei minimi quadrati ordinari è che la matrice dei regressori $\mathbf{x}$ abbia rango pieno (ossia che nessuna delle colonne di $\mathbf{x}$ sia linearmente dipendente dalle altre). Il motivo è, evidentemente, che solo se tale condizione è soddisfatta la matrice quadrata $\mathbf{x}'\mathbf{x}$ è invertibile ed è quindi possibile calcolare il vettore $\hat{\boldsymbol{\beta}}^{OLS}$ tramite l'equazione 40», $\hat{\boldsymbol{\beta}}^{OLS} = (\mathbf{x}'\mathbf{x})^{-1}\mathbf{x}'\mathbf{y}$. Il docente: transcript [00:22:33]–[00:23:29]. ⚠️ La dipendenza lineare riguarda le **colonne** di $\mathbf{x}$, cioè le variabili esplicative, non le righe.
+**Opzione:** Che la matrice dei regressori $\mathbf{x}$ abbia rango pieno, ossia che nessuna delle colonne di $\mathbf{x}$ sia linearmente dipendente dalle altre
 **Distrattori:**
-- Che la matrice dei regressori 𝐱 abbia rango pieno, ossia che nessuna delle righe di 𝐱 sia linearmente dipendente dalle altre
-- Si considera se è superiore al valore soglia di 2m/n: in caso affermativo il punto di leva viene considerato alto
-- Tende ad 1 quando il numero di osservazioni è molto elevato (n grande)
+- Che la matrice dei regressori $\mathbf{x}$ abbia rango pieno, ossia che nessuna delle righe di $\mathbf{x}$ sia linearmente dipendente dalle altre
+- Si considera se è superiore al valore soglia di $2\frac{m}{n}$: in caso affermativo il punto di leva viene considerato alto
+- Tende ad 1 quando il numero di osservazioni è molto elevato ($n$ grande)
 
 **D:** ⚠️ Che cos'è la multicollinearità, secondo la slide 17 della lezione 30?
-**R:** Slide 17: «Quando si ha a che fare con dati reali è abbastanza facile che la condizione di rango pieno della matrice dei regressori sia soddisfatta. Tuttavia, è altrettanto vero che anche operando con dati reali può verificarsi invece il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre. Tale fenomeno è chiamato multicollinearità». ⚠️ «Prossime ad essere»: con la multicollinearità 𝐱 resta di rango pieno e 𝛃̂^{OLS} si calcola. Il docente dice prima che la multicollinearità non consente «di ottenere lo stimatore» (transcript [00:23:56]), poi si corregge: può consentire «il calcolo degli stimatori» ma generare «una regressione lineare completamente fasulla» ([00:24:53]). Vale la slide.
-**Opzione:** Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+**R:** Slide 17: «Quando si ha a che fare con dati reali è abbastanza facile che la condizione di rango pieno della matrice dei regressori sia soddisfatta. Tuttavia, è altrettanto vero che anche operando con dati reali può verificarsi invece il caso in cui una o più colonne di $\mathbf{x}$ siano prossime ad essere linearmente dipendenti dalle altre. Tale fenomeno è chiamato multicollinearità». ⚠️ «Prossime ad essere»: con la multicollinearità $\mathbf{x}$ resta di rango pieno e $\hat{\boldsymbol{\beta}}^{OLS}$ si calcola. Il docente dice prima che la multicollinearità non consente «di ottenere lo stimatore» (transcript [00:23:56]), poi si corregge: può consentire «il calcolo degli stimatori» ma generare «una regressione lineare completamente fasulla» ([00:24:53]). Vale la slide.
+**Opzione:** Il caso in cui una o più colonne di $\mathbf{x}$ siano prossime ad essere linearmente dipendenti dalle altre
 **Distrattori:**
-- Il caso in cui una o più colonne di 𝐱 siano linearmente dipendenti dalle altre, così che la matrice 𝐱′𝐱 non è invertibile
+- Il caso in cui una o più colonne di $\mathbf{x}$ siano linearmente dipendenti dalle altre, così che la matrice $\mathbf{x}'\mathbf{x}$ non è invertibile
 - Quelle in cui le variabili esplicative assumono un valore molto distante dal loro baricentro, che nel caso bivariato coincide con la loro media campionaria
 
 **D:** ⚠️ Che tipo di fenomeno è la multicollinearità, secondo la slide 18 della lezione 30?
@@ -9764,7 +10081,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - La multicollinearità è un fenomeno digitale, ossia del tipo: esiste o non esiste; al contrario non può esistere con varie gradazioni di intensità
 - La maggior parte delle osservazioni non ha un leverage elevato, in quanto si posiziona al di sotto della soglia
-- Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+- Un valore prossimo ad 1, perché quanto più la $i$-esima colonna di $\mathbf{x}$ è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà $R_i^2$
 
 **D:** ⚠️ Che effetti ha la multicollinearità quando è presente con una certa intensità, secondo la slide 18 della lezione 30?
 **R:** Slide 18: «Ed è un fenomeno che va considerato e analizzato perchè, quando è presente con una certa intensità, altera la stima dei coefficienti della regressione e ne aumenta la varianza, riducendone quindi la significatività. A tal fine viene tipicamente utilizzata una statistica che, non a caso, è chiamata fattore di inflazione della varianza o VIF (dal suo nome in inglese)». Il docente: «altera pesantemente la stima dei coefficienti della regressione, ne aumenta la varianza e ne riduce la significatività» (transcript [00:24:11]). ⚠️ La varianza **aumenta** e la significatività **si riduce**: da qui il nome, inflazione della varianza.
@@ -9774,55 +10091,55 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Vedere se la relativa distanza di Cook vale più dell'unità: in caso affermativo l'osservazione viene considerata influente
 - L'esame grafico dello scatter plot del fit della regressione stimata sul campione ristretto versus il fit della regressione stimata sull'intero campione
 
-**D:** ⚠️ Come si definisce il fattore di inflazione della varianza VIF_i dell'i-esimo elemento del vettore 𝛃̂^{OLS} (149), e che cos'è R_i², secondo la slide 19 della lezione 30?
-**R:** Slide 19: «Dato il modello lineare multidimensionale: 𝐲 = 𝐱𝛃 + 𝛆 (34) si definisce fattore di inflazione della varianza o VIF dell'i-esimo elemento del vettore 𝛃̂^{OLS} e si denota con VIF_i la seguente quantità: VIF_i := 1/(1 - R_i²) (149) ove R_i² è il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice». Il docente: transcript [00:25:50]–[00:26:15]. ⚠️ R_i² **non** è l'R² del modello di 𝐲 su 𝐱: è l'R² della regressione della i-esima **colonna** di 𝐱 sulle altre m - 1. Il test della lezione (domanda 3) lo riduce a «relativo alla stima di regressione lineare».
-**Opzione:** VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice
+**D:** ⚠️ Come si definisce il fattore di inflazione della varianza $\mathrm{VIF}_i$ dell'$i$-esimo elemento del vettore $\hat{\boldsymbol{\beta}}^{OLS}$ (149), e che cos'è $R_i^2$, secondo la slide 19 della lezione 30?
+**R:** Slide 19: «Dato il modello lineare multidimensionale: $\mathbf{y} = \mathbf{x}\boldsymbol{\beta} + \boldsymbol{\varepsilon}$ (34) si definisce fattore di inflazione della varianza o VIF dell'$i$-esimo elemento del vettore $\hat{\boldsymbol{\beta}}^{OLS}$ e si denota con $\mathrm{VIF}_i$ la seguente quantità: $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$ (149) ove $R_i^2$ è il coefficiente di determinazione relativo alla stima della regressione lineare della $i$-esima colonna della matrice dei regressori $\mathbf{x}$ su tutte le altre $(m - 1)$ colonne della medesima matrice». Il docente: transcript [00:25:50]–[00:26:15]. ⚠️ $R_i^2$ **non** è l'$R^2$ del modello di $\mathbf{y}$ su $\mathbf{x}$: è l'$R^2$ della regressione della $i$-esima **colonna** di $\mathbf{x}$ sulle altre $m - 1$. Il test della lezione (domanda 3) lo riduce a «relativo alla stima di regressione lineare».
+**Opzione:** $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$, con $R_i^2$ il coefficiente di determinazione relativo alla stima della regressione lineare della $i$-esima colonna della matrice dei regressori $\mathbf{x}$ su tutte le altre $(m - 1)$ colonne della medesima matrice
 **Distrattori:**
-- VIF_i := 1/(1 - R_i²), con R_i² il coefficiente di determinazione relativo alla stima della regressione lineare della variabile dipendente 𝐲 su tutte le m colonne della matrice dei regressori 𝐱
-- D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²)
-- D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²]
+- $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$, con $R_i^2$ il coefficiente di determinazione relativo alla stima della regressione lineare della variabile dipendente $\mathbf{y}$ su tutte le $m$ colonne della matrice dei regressori $\mathbf{x}$
+- $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{m\cdot\hat{\sigma}_\varepsilon^2}$
+- $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$
 
-**D:** ⚠️ Che valore assume R_i² in presenza di forte multicollinearità, secondo la slide 20 della lezione 30?
-**R:** Slide 20: «Il significato del VIF è di facile intuizione. Quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i². Considerato che il coefficiente di determinazione, per costruzione, assume valori compresi tra 0 e 1, ciò significa che in presenza di forte multicollinearità R_i² assumerà un valore prossimo ad 1». Il docente: transcript [00:27:20]–[00:27:39]. ⚠️ **Prossimo ad 1**, non a 0: allora 1 - R_i² è piccolo e VIF_i = 1/(1 - R_i²) è molto alto.
-**Opzione:** Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+**D:** ⚠️ Che valore assume $R_i^2$ in presenza di forte multicollinearità, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «Il significato del VIF è di facile intuizione. Quanto più la $i$-esima colonna di $\mathbf{x}$ è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà $R_i^2$. Considerato che il coefficiente di determinazione, per costruzione, assume valori compresi tra 0 e 1, ciò significa che in presenza di forte multicollinearità $R_i^2$ assumerà un valore prossimo ad 1». Il docente: transcript [00:27:20]–[00:27:39]. ⚠️ **Prossimo ad 1**, non a 0: allora $1 - R_i^2$ è piccolo e $\mathrm{VIF}_i = \frac{1}{1 - R_i^2}$ è molto alto.
+**Opzione:** Un valore prossimo ad 1, perché quanto più la $i$-esima colonna di $\mathbf{x}$ è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà $R_i^2$
 **Distrattori:**
-- Un valore prossimo a 0, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più basso sarà R_i²
-- Il caso in cui una o più colonne di 𝐱 siano prossime ad essere linearmente dipendenti dalle altre
+- Un valore prossimo a 0, perché quanto più la $i$-esima colonna di $\mathbf{x}$ è vicina ad essere linearmente dipendente dalle altre, tanto più basso sarà $R_i^2$
+- Il caso in cui una o più colonne di $\mathbf{x}$ siano prossime ad essere linearmente dipendenti dalle altre
 
-**D:** ⚠️ Che cosa comporta un valore molto alto di VIF_i per il coefficiente stimato β̂_i^{OLS}, secondo la slide 20 della lezione 30?
-**R:** Slide 20: «Conseguentemente, VIF_i assumerà un valore molto alto, comportando una bassa significatività del coefficiente stimato β̂_i^{OLS}». Il docente: il denominatore «diventa piccolo, piccolo, piccolo, piccolo, e quindi il nostro coefficiente sarà molto alto, evidenziando quindi una bassa significatività del coefficiente stimato» (transcript [00:27:39]). ⚠️ **Bassa** significatività: la multicollinearità aumenta la varianza della stima e ne riduce la significatività (slide 18).
-**Opzione:** Una bassa significatività del coefficiente stimato β̂_i^{OLS}
+**D:** ⚠️ Che cosa comporta un valore molto alto di $\mathrm{VIF}_i$ per il coefficiente stimato $\hat{\beta}_i^{OLS}$, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «Conseguentemente, $\mathrm{VIF}_i$ assumerà un valore molto alto, comportando una bassa significatività del coefficiente stimato $\hat{\beta}_i^{OLS}$». Il docente: il denominatore «diventa piccolo, piccolo, piccolo, piccolo, e quindi il nostro coefficiente sarà molto alto, evidenziando quindi una bassa significatività del coefficiente stimato» (transcript [00:27:39]). ⚠️ **Bassa** significatività: la multicollinearità aumenta la varianza della stima e ne riduce la significatività (slide 18).
+**Opzione:** Una bassa significatività del coefficiente stimato $\hat{\beta}_i^{OLS}$
 **Distrattori:**
-- Un'alta significatività del coefficiente stimato β̂_i^{OLS}
+- Un'alta significatività del coefficiente stimato $\hat{\beta}_i^{OLS}$
 - Un'osservazione influente e con un leverage elevato
 - Per tutte le osservazioni la distanza di Cook si mantiene ben sotto l'unità: pur essendoci numerose osservazioni a leverage elevato, nessuna di loro risulta particolarmente influente sulla stima del modello
 
-**D:** ⚠️ Che cosa è opportuno fare quando VIF_i assume un valore molto alto, secondo la slide 20 della lezione 30?
-**R:** Slide 20: «In casi del genere è opportuno rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello». Il docente: «è opportuno rimuoverla dal modello e procedere nuovamente alla stima» (transcript [00:27:59]). ⚠️ Si rimuove una **colonna**, cioè una variabile esplicativa, non un'osservazione: i dati a leverage elevato del Nasdaq, giustificati dai fatti, «vanno mantenuti nel campione» (slide 6).
-**Opzione:** Rimuovere la i-esima colonna di 𝐱 e procedere nuovamente alla stima del modello
+**D:** ⚠️ Che cosa è opportuno fare quando $\mathrm{VIF}_i$ assume un valore molto alto, secondo la slide 20 della lezione 30?
+**R:** Slide 20: «In casi del genere è opportuno rimuovere la $i$-esima colonna di $\mathbf{x}$ e procedere nuovamente alla stima del modello». Il docente: «è opportuno rimuoverla dal modello e procedere nuovamente alla stima» (transcript [00:27:59]). ⚠️ Si rimuove una **colonna**, cioè una variabile esplicativa, non un'osservazione: i dati a leverage elevato del Nasdaq, giustificati dai fatti, «vanno mantenuti nel campione» (slide 6).
+**Opzione:** Rimuovere la $i$-esima colonna di $\mathbf{x}$ e procedere nuovamente alla stima del modello
 **Distrattori:**
-- Rimuovere la i-esima osservazione dal campione e procedere nuovamente alla stima del modello
+- Rimuovere la $i$-esima osservazione dal campione e procedere nuovamente alla stima del modello
 - Non possono essere attribuiti ad errori di rilevazione e vanno mantenuti nel campione
-- Un valore prossimo ad 1, perché quanto più la i-esima colonna di 𝐱 è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà R_i²
+- Un valore prossimo ad 1, perché quanto più la $i$-esima colonna di $\mathbf{x}$ è vicina ad essere linearmente dipendente dalle altre, tanto più alto sarà $R_i^2$
 
-**D:** ⚠️ Come si definisce la distanza di Cook dell'osservazione i-esima, secondo il test della lezione 30 (domanda 1)?
-**R:** «**Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mσϵ2**», cioè la (147) della slide 8, D_i := ∑_{j=1}^n (ŷ_j - ŷ_j(i))²/(m·σ̂_ε²), con «S» per ∑ e «σϵ2» per σ̂_ε², senza cappello. In tutte e quattro le opzioni segue la stessa coda, «ove: ŷj è il fit dell'osservazione j-esima, ŷi (i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima e σϵ2 è il quadrato dell'errore standard della regressione»: non discrimina, e qui le opzioni tengono solo la formula. Il docente: transcript [00:10:41]–[00:11:23]. Distrattori del test: «/ mbtσϵ2» aggiunge «b» e «t», cioè β e τ del font Symbol (deduzione), fattori che nella (147) non ci sono; l'opzione che finisce con «(i)2]» perde tutto il denominatore e resta la sola somma dei quadrati; «(-ŷi (i)] / btσϵ2» perde ŷ_j, il quadrato e m. ⚠️ «ŷi (i)» è un refuso della piattaforma per ŷ_j(i): la coda stessa lo dice «fit dell'osservazione j-esima».
+**D:** ⚠️ Come si definisce la distanza di Cook dell'osservazione $i$-esima, secondo il test della lezione 30 (domanda 1)?
+**R:** «**Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mσϵ2**», cioè la (147) della slide 8, $D_i := \frac{\sum_{j=1}^n (\hat{y}_j - \hat{y}_j(i))^2}{m\cdot\hat{\sigma}_\varepsilon^2}$, con «S» per $\sum$ e «σϵ2» per $\hat{\sigma}_\varepsilon^2$, senza cappello. In tutte e quattro le opzioni segue la stessa coda, «ove: ŷj è il fit dell'osservazione j-esima, ŷi (i) è il fit dell'osservazione j-esima calcolato utilizzando i valori dei coefficienti stimati sul campione ristretto in cui è stata omessa l'osservazione i-esima e σϵ2 è il quadrato dell'errore standard della regressione»: non discrimina, e qui le opzioni tengono solo la formula. Il docente: transcript [00:10:41]–[00:11:23]. Distrattori del test: «/ mbtσϵ2» aggiunge «b» e «t», cioè $\beta$ e $\tau$ del font Symbol (deduzione), fattori che nella (147) non ci sono; l'opzione che finisce con «(i)2]» perde tutto il denominatore e resta la sola somma dei quadrati; «(-ŷi (i)] / btσϵ2» perde $\hat{y}_j$, il quadrato e $m$. ⚠️ «ŷi (i)» è un refuso della piattaforma per $\hat{y}_j(i)$: la coda stessa lo dice «fit dell'osservazione j-esima».
 **Opzione:** Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mσϵ2
 **Distrattori:**
 - Di: =[Sj={1;n} (ŷj -ŷi (i)2] / mbtσϵ2
 - Di: =[Sj={1;n} (ŷj -ŷi (i)2]
 - Di: =[Sj={1;n} (-ŷi (i)] / btσϵ2
 
-**D:** ⚠️ Qual è una formula equivalente per il calcolo della distanza di Cook dell'osservazione i-esima, secondo il test della lezione 30 (domanda 2)?
-**R:** «**Di: ={[(ϵiOLS)2] / mσϵ2 } [hii/(1-hii)2]**», cioè la (148) della slide 12, D_i = [(ϵ_i^{OLS})²/(m·σ̂_ε²)]·[h_{ii}/(1 - h_{ii})²], con h_{ii} il leverage. Il docente: transcript [00:17:11]–[00:17:23], dove chiama σ̂_ε² «la varianza dei residui campionari»; vale la slide 8, «il quadrato dell'errore standard della regressione». Distrattori del test: «{[(ϵiOLS)2] } [hii/(1-hii)2 ]» perde il denominatore m·σ̂_ε²; «{[(ϵiOLS)2] / mσϵ2 }» perde il fattore del leverage; «{[(ϵiOLS)2] / mσϵ2 } [hii ]» tiene h_{ii} ma perde (1 - h_{ii})². ⚠️ La distanza di Cook dipende positivamente sia dal residuo sia dal leverage (slide 12): un'opzione senza uno dei due fattori è sbagliata.
+**D:** ⚠️ Qual è una formula equivalente per il calcolo della distanza di Cook dell'osservazione $i$-esima, secondo il test della lezione 30 (domanda 2)?
+**R:** «**Di: ={[(ϵiOLS)2] / mσϵ2 } [hii/(1-hii)2]**», cioè la (148) della slide 12, $D_i = \left[\frac{(\epsilon_i^{OLS})^2}{m\cdot\hat{\sigma}_\varepsilon^2}\right]\cdot\left[\frac{h_{ii}}{(1 - h_{ii})^2}\right]$, con $h_{ii}$ il leverage. Il docente: transcript [00:17:11]–[00:17:23], dove chiama $\hat{\sigma}_\varepsilon^2$ «la varianza dei residui campionari»; vale la slide 8, «il quadrato dell'errore standard della regressione». Distrattori del test: «{[(ϵiOLS)2] } [hii/(1-hii)2 ]» perde il denominatore $m\cdot\hat{\sigma}_\varepsilon^2$; «{[(ϵiOLS)2] / mσϵ2 }» perde il fattore del leverage; «{[(ϵiOLS)2] / mσϵ2 } [hii ]» tiene $h_{ii}$ ma perde $(1 - h_{ii})^2$. ⚠️ La distanza di Cook dipende positivamente sia dal residuo sia dal leverage (slide 12): un'opzione senza uno dei due fattori è sbagliata.
 **Opzione:** Di: ={[(ϵiOLS)2] / mσϵ2 } [hii/(1-hii)2]
 **Distrattori:**
 - Di: ={[(ϵiOLS)2] } [hii/(1-hii)2 ]
 - Di: ={[(ϵiOLS)2] / mσϵ2 }
 - Di: ={[(ϵiOLS)2] / mσϵ2 } [hii ]
 
-**D:** ⚠️ A che cosa è pari il fattore di inflazione della varianza (VIF) dell'i-esimo elemento del vettore 𝛃̂^{OLS}, secondo il test della lezione 30 (domanda 3)?
-**R:** «**VIFi := 1/(1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare**», cioè la (149) della slide 19, VIF_i := 1/(1 - R_i²). ⚠️ La coda della piattaforma, uguale nelle quattro opzioni, è troncata: per la slide R_i² è il coefficiente di determinazione «relativo alla stima della regressione lineare della i-esima colonna della matrice dei regressori 𝐱 su tutte le altre (m - 1) colonne della medesima matrice». Il docente: «1 diviso 1 meno» R_i² (transcript [00:25:50]). Distrattori del test: «1/(1-bRi2)» aggiunge una «b», cioè un β del font Symbol (deduzione); «(1-Ri2)» perde il reciproco; «1/(1+Ri2)» inverte il segno. Il VIF sta sotto il sottotitolo «Multicollinearità» del deck, anche se il paragrafo del test è «Dati anomali».
+**D:** ⚠️ A che cosa è pari il fattore di inflazione della varianza (VIF) dell'$i$-esimo elemento del vettore $\hat{\boldsymbol{\beta}}^{OLS}$, secondo il test della lezione 30 (domanda 3)?
+**R:** «**VIFi := 1/(1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare**», cioè la (149) della slide 19, $\mathrm{VIF}_i := \frac{1}{1 - R_i^2}$. ⚠️ La coda della piattaforma, uguale nelle quattro opzioni, è troncata: per la slide $R_i^2$ è il coefficiente di determinazione «relativo alla stima della regressione lineare della $i$-esima colonna della matrice dei regressori $\mathbf{x}$ su tutte le altre $(m - 1)$ colonne della medesima matrice». Il docente: «1 diviso 1 meno» $R_i^2$ (transcript [00:25:50]). Distrattori del test: «1/(1-bRi2)» aggiunge una «b», cioè un $\beta$ del font Symbol (deduzione); «(1-Ri2)» perde il reciproco; «1/(1+Ri2)» inverte il segno. Il VIF sta sotto il sottotitolo «Multicollinearità» del deck, anche se il paragrafo del test è «Dati anomali».
 **Opzione:** VIFi := 1/(1-Ri2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
 **Distrattori:**
 - VIFi := 1/(1-bRi2) ove Ri2 è il coefficiente di determinazione relativo alla stima di regressione lineare
@@ -9838,7 +10155,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - lo scatter plot del reference score del campione
 
 **D:** ⚠️ Come saranno i punti dello scatter plot se un'osservazione è influente su un'analisi di regressione, secondo il test della lezione 30 (domanda 5)?
-**R:** 🚨 La chiave della piattaforma, «saranno posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione», è **sbagliata**: descrive l'osservazione **non** influente. La slide 7 dice solo di «vedere se i punti sono posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione»; l'esito è nella lezione 29. Per il pallino giallo, non influente, «I due fit (campione intero versus campione ristretto) risultano, infatti, sostanzialmente disposti lungo la retta di equazione y = x» (slide 23 del deck 29); per il pallino viola, influente, «vi è una discreta dispersione dei punti intorno alla retta di equazione y = x» (slide 29 del deck 29). La risposta conforme nel merito è «**saranno dispersi stocasticamente**», l'unica che parla di dispersione; non è alla lettera, perché «stocasticamente» non è nelle slide. «saranno sui bordi dello scatter» e «sui limiti inferiore dello spettro statistico» non sono nei materiali consultati e non compaiono in nessun transcript del corso. All'esame la piattaforma assegna il punto alla risposta sulla bisettrice.
+**R:** 🚨 La chiave della piattaforma, «saranno posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione», è **sbagliata**: descrive l'osservazione **non** influente. La slide 7 dice solo di «vedere se i punti sono posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione»; l'esito è nella lezione 29. Per il pallino giallo, non influente, «I due fit (campione intero versus campione ristretto) risultano, infatti, sostanzialmente disposti lungo la retta di equazione $y = x$» (slide 23 del deck 29); per il pallino viola, influente, «vi è una discreta dispersione dei punti intorno alla retta di equazione $y = x$» (slide 29 del deck 29). La risposta conforme nel merito è «**saranno dispersi stocasticamente**», l'unica che parla di dispersione; non è alla lettera, perché «stocasticamente» non è nelle slide. «saranno sui bordi dello scatter» e «sui limiti inferiore dello spettro statistico» non sono nei materiali consultati e non compaiono in nessun transcript del corso. All'esame la piattaforma assegna il punto alla risposta sulla bisettrice.
 **Opzione:** saranno dispersi stocasticamente
 **Distrattori:**
 - saranno posizionati sulla bisettrice del primo quadrante senza eccessiva dispersione
