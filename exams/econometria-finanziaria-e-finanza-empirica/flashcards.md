@@ -438,6 +438,41 @@ L13/f-1r67kmu f-09ctdmy 0ar3y5v 1tmcrd2
 L13/f-1sppk66 f-1edfb8d 135nrn4 0ohhu2v
 L13/f-1sxhqcp f-0hara4o 02vgng1 1g9ke8v
 L13/f-1xj8bt9 f-1xj8bt9 0po36ok 07gqcj0
+L14/f-030s6kz f-1kx5ceh 1304d64 1mf81m4
+L14/f-08gejrg f-0ojpwp1 0ge5fwy 1pn5d81
+L14/f-0ciebpr f-10uro8b 1ubntae 0g2ioil
+L14/f-0dj1dm4 f-05vti8o 1yar2i0 0bweadk
+L14/f-0dp4vht f-0ezdhz7 0qe8jld 0jjd8wc
+L14/f-0egcvwy f-0hmhyxw 01q79r9 1yfmicl
+L14/f-0ff1fl6 f-0ff1fl6 1xtbkxl 0r3w98h
+L14/f-0mlajjx f-0v4ww7r 0ip7wvl 01exgta
+L14/f-0mlhkcf f-1qfitu3 1ojiyn2 1z0dosz
+L14/f-0qfu6lr f-1oerln4 167ryvs 15gnuwh
+L14/f-0rcftmn f-1y2z5gn 0h4nch4 0nwvrvr
+L14/f-0twqo81 f-1h7xvsx 1ije6oz 1tpw42y
+L14/f-0uv3cw7 f-1hhsqrm 1i8hfu6 1t73xhl
+L14/f-0w47wch f-0k7ir6a 104fhr8 1ezhhv4
+L14/f-0xzke51 f-0v7pu3b 0q3z4iv 0jutw19
+L14/f-0y09w02 f-1notpys 0e42zr8 1u6xyne
+L14/f-0z5ks65 f-0ni9d6t 0uy5lw4 0h6srfp
+L14/f-0z84y0v f-1ga7i63 06g5kyt 1n7hgte
+L14/f-123wdfw f-0oia5wo 0edikz2 0tz3355
+L14/f-146yxd0 f-0nsgrwe 1py9i3x 1h46d7j
+L14/f-17gosj7 f-1j6gjok 16rytfb 0h9ztyo
+L14/f-180434i f-180434i 0sbrh8r 1xt2as3
+L14/f-1d75213 f-1kfv7g9 1vayxk7 0skncu6
+L14/f-1e6vg5n f-0635apr 1c4cnqz 1m8a4d3
+L14/f-1g7ug91 f-1g7ug91 1xs6u4t 01n9xma
+L14/f-1kty4g2 f-1k3e7rn 0wm9ofn 0rkfbhm
+L14/f-1l6a71p f-1l6a71p 05t3w3t 14o50vx
+L14/f-1l7u0ft f-1l7u0ft 1uhffy2 14lystj
+L14/f-1q2jbu7 f-0jmag0o 0fw6srn 0a9d2w2
+L14/f-1siesm9 f-0807603 1y6t965 07jk2qf
+L14/f-1t45j0w f-1t45j0w 1it4whw 1dejexb
+L14/f-1t53kiz f-1t53kiz 1ok440n 1kmitqi
+L14/f-1ub9w19 f-1ub9w19 164gio1 0n39z5t
+L14/f-1uitguo f-0nbf176 1khah67 0r2y0f8
+L14/f-1xa03f2 f-1xa03f2 0w57a3h 0fo3unx
 L15/f-020h0vn f-020h0vn 0e6954j 07k1e6y
 L15/f-02cb5vi f-1bgdztm 16oom9q 0lfd694
 L15/f-03s29ze f-03s29ze 1q7896q 117pevm
@@ -474,6 +509,160 @@ L15/f-1uigq46 f-1uigq46 0lhadq5 1dejhsm
 L15/f-1vjp22m f-0mzu5v4 1vu5o45 049va3n
 L15/f-1xd5uqy f-1xd5uqy 0mgp9gp 11hwqnz
 L15/f-1y70uwe f-1fkwj5k 1wdkbjf 1xysgim
+L16/f-00r7470 f-0wyihnm 07h5a17 18termn
+L16/f-00s5fkq f-00s5fkq 10vtywb 0u4pki4
+L16/f-04o7r8c f-1vl3c34 19z6543 08vfeqv
+L16/f-0a48ci7 f-1ji5h1t 0bz8gb9 0zvsb30
+L16/f-0hyyomi f-1cljric 1m4zu3i 1ppz6ei
+L16/f-0jkix8g f-0jkix8g 0ocfrde 14v5gnw
+L16/f-0k40sgr f-0rv12te 0blmf3i 0i8belh
+L16/f-0ogxc35 f-0ogxc35 1yqfsso 1eczfvn
+L16/f-0qiknz2 f-0qiknz2 1xr1ink 1fglg5c
+L16/f-0rfiw32 f-0rfiw32 0ishajs 100u5nw
+L16/f-0sv4779 f-0sv4779 111x35b 0jbdtji
+L16/f-0ug0tc7 f-0ug0tc7 1mal2zo 0e2kuqu
+L16/f-0vpf24j f-0vpf24j 1mf3j7v 04meiaq
+L16/f-0x97p3e f-19cg56q 03jjjnn 1c39pai
+L16/f-0y6i7sq f-0k7j3lg 1p22jyz 0sxxn18
+L16/f-108lh4j f-108lh4j 1j0qrmx 0exjc27
+L16/f-11oyxf4 f-11oyxf4 0orotdp 1hot2fm
+L16/f-12g2xmf f-14ht4i1 1epr368 1mp4ypt
+L16/f-13sbyep f-13sbyep 09d6jmh 0evtplf
+L16/f-141y75x f-0h9ye2e 0ciqjan 0nroetb
+L16/f-14zrafv f-14zrafv 0pqo8rc 1b19669
+L16/f-1598g92 f-0bxwcs0 08mwrlp 08f0pgs
+L16/f-15o2q4f f-1400bue 1yg17nm 1scd0o5
+L16/f-16336zf f-16336zf 0y1hg17 0gu4o3m
+L16/f-1709he3 f-1709he3 0p3g8pn 0u3dw2e
+L16/f-180qx8j f-0g87ivr 1euc2bd 0f8dcx1
+L16/f-1blw15k f-1xdfwyo 0qiifok 0fxwcnr
+L16/f-1cje3ib f-1cje3ib 0lcqign 1lsfpyk
+L16/f-1fe52k6 f-1fe52k6 0kh6v06 1n43jje
+L16/f-1g3x52d f-1g3x52d 1h9lbis 0mral6t
+L16/f-1iyz35w f-15l1aq2 1pwxdpu 0d97qqg
+L16/f-1jd85sc f-1jd85sc 15x911p 1e89ggz
+L16/f-1lxizze f-1lxizze 0360agn 06r1nly
+L16/f-1lxzms2 f-1lxzms2 1kig7g4 0zo5a5i
+L16/f-1nntw9r f-1nntw9r 1d4wh75 0tc968u
+L16/f-1qy4z8u f-1qy4z8u 1mu8o63 1k2t5mv
+L16/f-1uhkic8 f-1uhkic8 1xf4p8v 0xlth09
+L16/f-1xzaht2 f-1e4xb9o 0i2x5y9 1jg3dy5
+L16/f-1yw3tzr f-1yw3tzr 1mn11gz 1jvslhr
+L17/f-01pquu0 f-1ib9r26 15cwbgz 0rgx7xz
+L17/f-02q0ulb f-02q0ulb 11ba7so 08al2xk
+L17/f-03jcaam f-03jcaam 03yeudv 0alus3e
+L17/f-05d8o5n f-0r8xp8n 1k88ft7 0rjoamj
+L17/f-05hd4q3 f-05hd4q3 02pzvhb 1cx1mti
+L17/f-079osyb f-079osyb 0t08g7z 1azyo6p
+L17/f-082rolf f-082rolf 0g8v3r1 0fvs4ux
+L17/f-0ah5lp4 f-0ah5lp4 1pk36u8 01ktuqq
+L17/f-0chi5rp f-1196vq5 07q8dav 0jqusge
+L17/f-0ittrv8 f-0ittrv8 0c18ljb 0aw65jr
+L17/f-0jhtubo f-0wrivri 1h6elp5 17d6bx7
+L17/f-0nvhudu f-0nvhudu 05110kt 015euwd
+L17/f-0pcdjlk f-0wgy0oq 0z2x0m2 1kmgzb5
+L17/f-0tizplv f-0tizplv 1ewowc5 1fdun2j
+L17/f-0to065e f-1nvd940 04rez63 1u0dv47
+L17/f-0vt16iu f-0lq3jju 0i9doyw 0jlaybc
+L17/f-0zbicfn f-0zbicfn 019mf36 0jytfb4
+L17/f-117sig6 f-0rk2u9q 19ckdnr 05hca95
+L17/f-12s776i f-12s776i 1iu9r15 1n7mjua
+L17/f-13zpntm f-1eei93c 06xeipw 15hos1f
+L17/f-1a2jpvw f-1a2jpvw 05uect6 0b7j1c8
+L17/f-1a797a3 f-0xnx3v1 1ycl4i5 03or8mv
+L17/f-1hd6gcy f-1hd6gcy 1bel12k 0n2n6vn
+L17/f-1ihi9vr f-0pglsft 1lrys6x 0wfzh58
+L17/f-1iugtpq f-1iugtpq 19mvvx0 0cwgj5h
+L17/f-1k923qa f-0pvudi6 1sma3a3 0pqpp8f
+L17/f-1l11mcj f-0suaty1 11gimf7 01wat1d
+L17/f-1laqbrv f-03ahoyv 037m8zy 14dlsic
+L17/f-1lbphvs f-1e10beu 0mybr13 1uxb3in
+L17/f-1log19u f-1k8i2ga 0k94q4x 1mb3h0n
+L17/f-1mzd0pj f-1uotap7 1h3v0ll 19jkc57
+L17/f-1npky9l f-0i7ffr7 06djq73 0u7m4v8
+L17/f-1p808iq f-1p808iq 0o7tu10 07gf0e6
+L17/f-1qt9gt9 f-0r16ria 1j8r19i 14wy69l
+L17/f-1r1vecg f-1fx8zxg 0hqcnim 0knipdw
+L17/f-1rseliz f-05u3bvf 1nd03zk 0ps0ggw
+L17/f-1tl6lcs f-1tl6lcs 078v4w2 0o6bdaz
+L17/f-1wobgcg f-12ni3xa 08zh1y5 1fz8ul2
+L17/f-1y2w97u f-1y2w97u 1gk418t 0w4rcdh
+L18/f-02r95zd f-02r95zd 0zz0yqy 00felau
+L18/f-05zqglw f-16ipurm 1imdd5m 06407y9
+L18/f-069tgcj f-0ip8n0h 1jgruo8 0wum9ci
+L18/f-0abhhne f-0leg2si 1ofhoy6 1rmtv3o
+L18/f-0bk4l80 f-0g4pk3y 065ha4y 0c18in8
+L18/f-0eq1rwl f-0eq1rwl 0laveiz 0yana1d
+L18/f-0evb16g f-0evb16g 0n6322i 00ah6hp
+L18/f-0i0ig0q f-0i0ig0q 1fnvj3p 13tbj87
+L18/f-0jnmqip f-0jnmqip 139eyd5 0nv7r5y
+L18/f-0mj3ib8 f-0mj3ib8 1dyaqc5 0tama3x
+L18/f-0nbx1t6 f-0ljivro 1l7938l 0dbeyxj
+L18/f-0p3g9cl f-0p3g9cl 1ypx86q 1ss0kke
+L18/f-0qmvw49 f-0qmvw49 0s9kptw 0eztimy
+L18/f-0uiuzy2 f-0uiuzy2 0qeksz2 0lhqvp6
+L18/f-0v8fk2n f-0v8fk2n 1kffda6 1rolg1i
+L18/f-0yl8kiy f-0yl8kiy 01lszbx 0sik9xa
+L18/f-12n0i2h f-12n0i2h 1iqiium 1cf8tbw
+L18/f-1417baa f-1417baa 13u5c4i 08buzbe
+L18/f-1dm1pb9 f-1dm1pb9 1jl6xns 0oqgsca
+L18/f-1ko3nxl f-1hiusck 0poff7b 0kfxsd9
+L18/f-1kpvkyp f-1kpvkyp 008ltg7 0i5gcz0
+L18/f-1kr19vo f-1kr19vo 11rxvdh 1lyow9n
+L18/f-1noxakc f-1luea54 0gyrqay 0qkzv6u
+L18/f-1odiorg f-1odiorg 1ybkoaj 0e0x9pn
+L18/f-1rjakg1 f-1rjakg1 0rjmyjo 0c0s8ze
+L18/f-1tj5tm4 f-0vs4kwe 16mo7c7 1snlq0h
+L18/f-1wkafec f-0s921t6 1yekx8l 1q2lucp
+L18/f-1xj913w f-14ogl7y 0ab6lbq 0x776gs
+L18/f-1yax2rf f-1yax2rf 053upqq 0r4wu6o
+L18/f-1yluzop f-0af4idt 0praxzr 1sx2ka7
+L19/f-06hu6ao f-04ifoko 1kp34ib 0octtuj
+L19/f-0ca73se f-0ca73se 0x4oosz 02py49x
+L19/f-0kaypyv f-0kaypyv 1jya6q4 1cocr0s
+L19/f-0ondq0w f-1xx0xr8 1gwzo9u 0hsgn5q
+L19/f-0rdl8nl f-15wbkm7 0ivasxo 0le9n9a
+L19/f-0urz4zk f-0urz4zk 0lumwn4 0nbc3q3
+L19/f-0vq9vv6 f-1tqs9pc 1uwqk39 0ilmf3z
+L19/f-1ci0o13 f-1ci0o13 1xdf9vk 0ydf3wy
+L19/f-1e5whjy f-1e5whjy 0fhll6p 04kcm8z
+L19/f-1sjap3y f-1sjap3y 0v8c2d0 0huhcwm
+L19/f-1w19o40 f-1w19o40 15g4hpt 0wfu2a7
+L19/f-1y7ty3s f-1e9fs4u 0afvju6 1o7cllq
+L20/f-02gv7d5 f-1gpha7j 0rnf4f1 00hj2qz
+L20/f-02so5ef f-1w9zom5 1snj0kk 1tz8d3u
+L20/f-02uuxvs f-09aib9k 1y3h4h4 1ugq2ls
+L20/f-044jptg f-09zel1m 0781dvk 1p37sb4
+L20/f-07ikgp2 f-0cff68g 1sslbpv 132jp4n
+L20/f-0b4l7x6 f-0qzi3jk 0w6tl9s 09iim87
+L20/f-0gs8ha2 f-12lsyu2 1f0a580 1binide
+L20/f-0i4iz56 f-1go9z4e 00nczyk 00cq6tn
+L20/f-0lwbxib f-01idezd 0bm8fs2 1gb8j8e
+L20/f-0oea4l2 f-0qtg3e4 05d3i5p 17h7nrp
+L20/f-0oiiseu f-0oiiseu 13cka44 13pk9mi
+L20/f-0oy84rv f-16lr0qh 1jck1zu 05kz6zq
+L20/f-0q3xcm9 f-0mca5dx 0f1tt42 1r515ym
+L20/f-0rbxwr2 f-0iovrh8 0vr4sjz 0j9gnux
+L20/f-0uby70v f-01iphft 00hxmsm 1acsxss
+L20/f-0wjerl9 f-1vd97sx 1bxzq25 1yc4fyp
+L20/f-0wk8kyo f-16e0gym 10ty0w4 1mltiok
+L20/f-0yzb079 f-16vl6bh 10uxst3 036qan3
+L20/f-0zm2ih7 f-0l6hmzl 1f0thmy 0beqz5a
+L20/f-11zvaf1 f-05ntsa3 11r5tyf 03eczh1
+L20/f-13g97wb f-0j3e88h 0xb341f 0curwrn
+L20/f-13y1mn2 f-11otyl6 0ncki6o 12mi05j
+L20/f-13zs6tt f-0ggt0qb 0y7s5cm 1crxz3u
+L20/f-15em0uh f-0q7zpeh 1j4yle1 0zaea41
+L20/f-182km33 f-0ppyk2z 1ux8a8z 0f7io85
+L20/f-18tgo82 f-12om47e 0jdrm8n 1otdymt
+L20/f-1cm91v3 f-12ahxm7 1b3myau 0cv9ejg
+L20/f-1h3m8kw f-1tqino0 0l7qn4o 0f4c3hi
+L20/f-1kfhxlp f-0koepx7 0qnh2uf 18mk1p7
+L20/f-1o6bm3r f-0hpruix 1isjsx2 1vcmt55
+L20/f-1r2er2y f-1dp2e7q 0cfpw5k 1uzp7i6
+L20/f-1thvuw1 f-1o5v52v 008wh67 0synnad
+L20/f-1wbt6tf f-0oo3sid 0gmedct 02w23wb
+L20/f-1yx98ch f-0rtcf45 0wycrt2 12mp8ii
 L27/f-01igpq5 f-01igpq5 1m2oyoj 1guyiwx
 L27/f-020dqel f-036x8oq 010riwq 1dgqbsi
 L27/f-03kjlrd f-0zcluvi 1ojwhct 055pnyn
@@ -4622,237 +4811,237 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 14 — Pricing 7 - Modello Black-Scholes-Merton Il prezzo della CALL
 
 **D:** ⚠️ Che cosa dimostra la lezione 14, sotto quale misura e con quale metodo?
-**R:** Slide 3, «Proposizione»: «Il prezzo di una call europea sotto la misura p∗ è dato dalla nota formula di Black-Scholes-Merton, i.e.: C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33)», con d_1 (34), d_2 (35) e N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, che qui porta il numero (74). Il docente: «Completiamo oggi l'applicazione del metodo del portafoglio di replicazione della martingala per derivare analiticamente il prezzo di un'opzione call con il modello di Black Scholes e Merton»; «La proposizione e la formula sono note, andremo a dimostrare» che il prezzo della call «sotto la misura P star» è dato dalla (33) (transcript [00:00:05]–[00:00:45]). ⚠️ La lezione 11 ottiene la stessa (33) come limite del modello di Cox-Ross-Rubinstein; qui la si dimostra sotto la misura p∗, partendo dalla (65) della lezione 13.
-**Opzione:** Che il prezzo di una call europea sotto la misura p∗ è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
+**R:** Slide 3, «Proposizione»: «Il prezzo di una call europea sotto la misura $p^{\ast}$ è dato dalla nota formula di Black-Scholes-Merton, i.e.: $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$ (33)», con $d_1$ (34), $d_2$ (35) e $N(x) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{x} e^{-u^2/2}\,du$, che qui porta il numero (74). Il docente: «Completiamo oggi l'applicazione del metodo del portafoglio di replicazione della martingala per derivare analiticamente il prezzo di un'opzione call con il modello di Black Scholes e Merton»; «La proposizione e la formula sono note, andremo a dimostrare» che il prezzo della call «sotto la misura P star» è dato dalla (33) (transcript [00:00:05]–[00:00:45]). ⚠️ La lezione 11 ottiene la stessa (33) come limite del modello di Cox-Ross-Rubinstein; qui la si dimostra sotto la misura $p^{\ast}$, partendo dalla (65) della lezione 13.
+**Opzione:** Che il prezzo di una call europea sotto la misura $p^{\ast}$ è dato dalla formula di Black-Scholes-Merton (33), $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, derivata con il portafoglio di replicazione e il metodo della martingala.
 **Distrattori:**
-- Che il prezzo di una call europea sotto la misura originaria p è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
-- W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
-- Nella componente del sottostante meno quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
+- Che il prezzo di una call europea sotto la misura originaria $p$ è dato dalla formula di Black-Scholes-Merton (33), $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, derivata con il portafoglio di replicazione e il metodo della martingala.
+- $\bar{W}_t = W^{\ast}_t - \sigma t$, per il teorema di Girsanov: il cambio di misura serve a calcolare $J_1$.
+- Nella componente del sottostante meno quella dello strike: $C_t = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t) - B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$.
 
 **D:** ⚠️ Come si specifica per il pay-off di una call europea standard la formula del prezzo di un derivato in un mondo risk-neutral (formula (75) della lezione 14)?
-**R:** Slide 4: «Sulla base della formula per la determinazione del prezzo di un derivato in un mondo risk-neutral, i.e. π_t(X) = B_t E_{P∗}(B_T^(-1)X | ℑ_t) (65) specificandola per il pay-off di una call Europea standard: C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t] (75)». Il docente: il prezzo della call è B_t, «il fattore di capitalizzazione», per il valore atteso sotto la misura P∗ del valore intrinseco dell'opzione scontato del valore del tempo da 0 a T, «condizionato alle informative disponibili al tempo T piccolo» (transcript [00:01:13]–[00:01:40]). ⚠️ Il pay-off (S_T - K)^+ si sconta con B_T^(-1) dentro il valore atteso e si moltiplica per B_t fuori: la (65) è quella della lezione 13.
+**R:** Slide 4: «Sulla base della formula per la determinazione del prezzo di un derivato in un mondo risk-neutral, i.e. $\pi_t(X) = B_t E_{P^{\ast}}(B_T^{-1}X \mid \Im_t)$ (65) specificandola per il pay-off di una call Europea standard: $C_t = \pi_t[(S_T - K)^+] = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)^+ \mid \Im_t]$ (75)». Il docente: il prezzo della call è $B_t$, «il fattore di capitalizzazione», per il valore atteso sotto la misura $P^{\ast}$ del valore intrinseco dell'opzione scontato del valore del tempo da 0 a $T$, «condizionato alle informative disponibili al tempo T piccolo» (transcript [00:01:13]–[00:01:40]). ⚠️ Il pay-off $(S_T - K)^+$ si sconta con $B_T^{-1}$ dentro il valore atteso e si moltiplica per $B_t$ fuori: la (65) è quella della lezione 13.
 **Opzione:** C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
 **Distrattori:**
 - C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T(S_T - K)^+ | ℑ_t]
 - Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
 - dB_t=rB_tdt
 
-**D:** ⚠️ Come sono definiti la funzione indicatrice I_D e l'insieme D nella dimostrazione del prezzo della call della lezione 14?
-**R:** Slide 5: «Se I_D è la funzione indicatrice, definita come: I_D = {1 se S_T > K; 0 se S_T ≤ K} dove D è l'insieme di eventi tale che S_T > K, tale per cui: D = {ω : S_T(ω) > K}». Il docente: «se recuperiamo il concetto di funzione indicatrice e definiamo l'evento D grande come il valore 1 se st è maggiore di k e 0 se s al tempo t grande è minore o uguale a k», con D l'insieme degli eventi ω per cui S_T(ω) è maggiore di K (transcript [00:02:07]). ⚠️ La disuguaglianza è stretta: con S_T = K l'indicatrice vale 0. Nella lezione 13 l'indicatrice era 𝟙_(S_T≥K), con ≥ (deck 13, slide 24). ⚠️ D è l'insieme, I_D la funzione che vale 1 su D: il docente chiama «evento D» la funzione.
-**Opzione:** I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+**D:** ⚠️ Come sono definiti la funzione indicatrice $I_D$ e l'insieme $D$ nella dimostrazione del prezzo della call della lezione 14?
+**R:** Slide 5: «Se $I_D$ è la funzione indicatrice, definita come: $I_D = \{1 \text{ se } S_T > K; 0 \text{ se } S_T \leq K\}$ dove $D$ è l'insieme di eventi tale che $S_T > K$, tale per cui: $D = \{\omega : S_T(\omega) > K\}$». Il docente: «se recuperiamo il concetto di funzione indicatrice e definiamo l'evento D grande come il valore 1 se st è maggiore di k e 0 se s al tempo t grande è minore o uguale a k», con $D$ l'insieme degli eventi $\omega$ per cui $S_T(\omega)$ è maggiore di $K$ (transcript [00:02:07]). ⚠️ La disuguaglianza è stretta: con $S_T = K$ l'indicatrice vale 0. Nella lezione 13 l'indicatrice era $\mathbf{1}_{(S_T\geq K)}$, con $\geq$ (deck 13, slide 24). ⚠️ $D$ è l'insieme, $I_D$ la funzione che vale 1 su $D$: il docente chiama «evento D» la funzione.
+**Opzione:** $I_D = 1$ se $S_T > K$ e 0 se $S_T \leq K$, dove $D = \{\omega : S_T(\omega) > K\}$ è l'insieme di eventi tale che $S_T > K$.
 **Distrattori:**
-- I_D = 1 se S_T < K e 0 se S_T ≥ K, dove D = {ω : S_T(ω) < K} è l'insieme di eventi tale che S_T < K.
-- C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
-- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
+- $I_D = 1$ se $S_T < K$ e 0 se $S_T \geq K$, dove $D = \{\omega : S_T(\omega) < K\}$ è l'insieme di eventi tale che $S_T < K$.
+- $C_t \stackrel{?}{=} J_1 - J_2$ (78): resta da calcolare in forma esplicita prima $J_2$ e poi $J_1$.
+- $S^{\ast}_T = S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t)}$
 
-**D:** ⚠️ Come si riscrive il pay-off della call con la funzione indicatrice I_D, e che cosa diventa la (75), nella lezione 14?
-**R:** Slide 6: «Sfruttando questa definizione si può riscrivere il pay-off nella forma: (S_T - K)^+ = (S_T - K)I_D e così, sostituendola all'interno dell'espressione (75): C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t]». Il docente: «riscriviamo il payoff senza il simbolo più, quindi senza la funzione di massimo, perché ponderiamo il valore intrinseco st-k per la funzione indicatrice relativamente all'evento D» (transcript [00:02:40]). ⚠️ L'indicatrice prende il posto della parte positiva: è lo stesso passaggio della (68) della lezione 13.
-**Opzione:** (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
+**D:** ⚠️ Come si riscrive il pay-off della call con la funzione indicatrice $I_D$, e che cosa diventa la (75), nella lezione 14?
+**R:** Slide 6: «Sfruttando questa definizione si può riscrivere il pay-off nella forma: $(S_T - K)^+ = (S_T - K)I_D$ e così, sostituendola all'interno dell'espressione (75): $C_t = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)I_D \mid \Im_t]$». Il docente: «riscriviamo il payoff senza il simbolo più, quindi senza la funzione di massimo, perché ponderiamo il valore intrinseco st-k per la funzione indicatrice relativamente all'evento D» (transcript [00:02:40]). ⚠️ L'indicatrice prende il posto della parte positiva: è lo stesso passaggio della (68) della lezione 13.
+**Opzione:** $(S_T - K)^+ = (S_T - K)I_D$, e la (75) diventa $C_t = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)I_D \mid \Im_t]$.
 **Distrattori:**
-- (S_T - K)^+ = (K - S_T)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(K - S_T)I_D | ℑ_t].
-- W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
-- Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
+- $(S_T - K)^+ = (K - S_T)I_D$, e la (75) diventa $C_t = B_t E_{P^{\ast}}[B_T^{-1}(K - S_T)I_D \mid \Im_t]$.
+- $\bar{W}_t = W^{\ast}_t - \sigma t$, per il teorema di Girsanov: il cambio di misura serve a calcolare $J_1$.
+- Nel segno di $\frac{1}{2}\sigma^2$: $\left(r - \frac{1}{2}\sigma^2\right)(T-t)$ per $J_2$, che dà $d_2$, e $\left(r + \frac{1}{2}\sigma^2\right)(T-t)$ per $J_1$, che dà $d_1$; $r$ ha il più in entrambi.
 
 **D:** ⚠️ In quali due termini si separa il prezzo della call «con qualche passaggio», nella lezione 14?
-**R:** Slide 6: «con qualche passaggio: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t)». Il docente: «siamo nelle condizioni di poter separare il prezzo della call tra la componente relativa al sottostante st grande e la componente relativa al prezzo strike» (transcript [00:02:59]–[00:03:23]). ⚠️ I due termini si sottraggono, e l'indicatrice I_D sta in entrambi: lo strike pesa solo se S_T > K.
+**R:** Slide 6: «con qualche passaggio: $C_t = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t) - B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$». Il docente: «siamo nelle condizioni di poter separare il prezzo della call tra la componente relativa al sottostante st grande e la componente relativa al prezzo strike» (transcript [00:02:59]–[00:03:23]). ⚠️ I due termini si sottraggono, e l'indicatrice $I_D$ sta in entrambi: lo strike pesa solo se $S_T > K$.
 **Opzione:** Nella componente del sottostante meno quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) - B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
 **Distrattori:**
 - Nella componente del sottostante più quella dello strike: C_t = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) + B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t).
 - J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
 - Ep∗(Su∗|St∗)=St∗
 
-**D:** ⚠️ Come sono definite le quantità J_1 e J_2 (formule (76) e (77) della lezione 14)?
-**R:** Slide 7: «Le seguenti quantità sono definite: J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)». Il docente: «Vengono quindi definite due quantità, la quantità J1 che è il primo termine che abbiamo sopra declinato e la quantità J2 che è il secondo termine» (transcript [00:03:50]). ⚠️ J_1 contiene il sottostante S_T, J_2 lo strike K.
-**Opzione:** J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+**D:** ⚠️ Come sono definite le quantità $J_1$ e $J_2$ (formule (76) e (77) della lezione 14)?
+**R:** Slide 7: «Le seguenti quantità sono definite: $J_1 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ (76) $J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (77)». Il docente: «Vengono quindi definite due quantità, la quantità J1 che è il primo termine che abbiamo sopra declinato e la quantità J2 che è il secondo termine» (transcript [00:03:50]). ⚠️ $J_1$ contiene il sottostante $S_T$, $J_2$ lo strike $K$.
+**Opzione:** $J_1 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ (76) e $J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (77)
 **Distrattori:**
-- J_1 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (77)
-- E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
-- Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
+- $J_1 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (76) e $J_2 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ (77)
+- $E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T X \mid \Im_t\right) = E_{\bar{P}}(X \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$, quindi $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{\bar{P}}(I_D \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$.
+- Perché $W^{\ast}_t$ è un moto browniano sotto $P^{\ast}$, tale che $W^{\ast}_T - W^{\ast}_t$ sia una variabile aleatoria normale indipendente da $\Im_t$.
 
-**D:** ⚠️ In che cosa si trasforma l'equazione (33) dopo la definizione di J_1 e J_2, e che cosa resta da fare (formula (78) della lezione 14)?
-**R:** Slide 8: «L'equazione (33) si trasforma nella C_t ≟ J_1 - J_2 (78) J_2 è calcolata in forma esplicita». Il docente: «Quello che quindi dovremmo andare a dimostrare» è che il prezzo della call al tempo t «è uguale alla differenza tra J1 e J2»; «Dobbiamo calcolare in maniera esplicita J1 e J2 in maniera tale da completare la dimostrazione» (transcript [00:04:08]–[00:04:29]). ⚠️ L'uguale con il «?» sopra, ≟: la (78) è la tesi, ancora da verificare. Si calcola prima J_2 (slide 8–17), poi J_1 (slide 18–30).
+**D:** ⚠️ In che cosa si trasforma l'equazione (33) dopo la definizione di $J_1$ e $J_2$, e che cosa resta da fare (formula (78) della lezione 14)?
+**R:** Slide 8: «L'equazione (33) si trasforma nella $C_t \stackrel{?}{=} J_1 - J_2$ (78) $J_2$ è calcolata in forma esplicita». Il docente: «Quello che quindi dovremmo andare a dimostrare» è che il prezzo della call al tempo $t$ «è uguale alla differenza tra J1 e J2»; «Dobbiamo calcolare in maniera esplicita J1 e J2 in maniera tale da completare la dimostrazione» (transcript [00:04:08]–[00:04:29]). ⚠️ L'uguale con il «?» sopra, $\stackrel{?}{=}$: la (78) è la tesi, ancora da verificare. Si calcola prima $J_2$ (slide 8–17), poi $J_1$ (slide 18–30).
 **Opzione:** C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
 **Distrattori:**
 - C_t ≟ J_2 - J_1 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
 - Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
 - dSt=rStdt+sStWt∗
 
-**D:** ⚠️ Perché nel calcolo di J_2 B_T^(-1) e K escono dal valore atteso, e che cosa si ottiene con le definizioni di B_t e B_T?
-**R:** Slide 8–9: «J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) = poichè sia B_T^(-1) che K sono indipendenti da ℑ_t, si può scrivere: = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) utilizzando le definizioni di B_t e B_T: = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t) =». Il docente: «sia Bt-1 che K sono indipendenti dalla filtrazione e quindi li possiamo portare fuori dal valore atteso» (transcript [00:04:53]–[00:05:12]). ⚠️ B_t B_T^(-1) è lo sconto da T a t, e^(-r(T-t)): per il docente «lo sconto B di T meno 1 non è altro che E alla meno RT» ([00:22:05]), e B_t = e^(rt) è la (55) della lezione 12.
-**Opzione:** Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
+**D:** ⚠️ Perché nel calcolo di $J_2$ $B_T^{-1}$ e $K$ escono dal valore atteso, e che cosa si ottiene con le definizioni di $B_t$ e $B_T$?
+**R:** Slide 8–9: «$J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t) =$ poichè sia $B_T^{-1}$ che $K$ sono indipendenti da $\Im_t$, si può scrivere: $= B_t B_T^{-1} K E_{P^{\ast}}(I_D \mid \Im_t)$ utilizzando le definizioni di $B_t$ e $B_T$: $= Ke^{-r(T-t)} E_{P^{\ast}}(I_D \mid \Im_t) =$». Il docente: «sia Bt-1 che K sono indipendenti dalla filtrazione e quindi li possiamo portare fuori dal valore atteso» (transcript [00:04:53]–[00:05:12]). ⚠️ $B_t B_T^{-1}$ è lo sconto da $T$ a $t$, $e^{-r(T-t)}$: per il docente «lo sconto B di T meno 1 non è altro che E alla meno RT» ([00:22:05]), e $B_t = e^{rt}$ è la (55) della lezione 12.
+**Opzione:** Perché sia $B_T^{-1}$ sia $K$ sono indipendenti da $\Im_t$: $J_2 = B_t B_T^{-1} K E_{P^{\ast}}(I_D \mid \Im_t) = Ke^{-r(T-t)} E_{P^{\ast}}(I_D \mid \Im_t)$.
 **Distrattori:**
-- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(r(T-t)) E_{P∗}(I_D | ℑ_t).
-- J_1 = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
-- S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t))
+- Perché sia $B_T^{-1}$ sia $K$ sono indipendenti da $\Im_t$: $J_2 = B_t B_T^{-1} K E_{P^{\ast}}(I_D \mid \Im_t) = Ke^{r(T-t)} E_{P^{\ast}}(I_D \mid \Im_t)$.
+- $J_1 = S_t \bar{P}(\ln S_t - rt + \sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t) > \ln K - rT \mid \Im_t)$
+- $S_t \bar{P}(-\sigma(\bar{W}_T - \bar{W}_t) < \ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t))$
 
-**D:** ⚠️ A che cosa equivale E_{P∗}(I_D | ℑ_t) nel calcolo di J_2, e come si riscrive con la definizione di D?
-**R:** Slide 10: «che è equivalente a: = Ke^(-r(T-t))P∗{D | ℑ_t} = dalla definizione di D: = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}». Il docente: «il valore atteso della funzione indicatrice altro non è che la probabilità del evento cui si riferisce la funzione indicatrice» (transcript [00:05:30]–[00:06:01]). ⚠️ È la proprietà E(X) = P(A) per X = 𝟙_A della lezione 02 (slide 9), qui sotto la misura P∗ e condizionata a ℑ_t.
-**Opzione:** Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
+**D:** ⚠️ A che cosa equivale $E_{P^{\ast}}(I_D \mid \Im_t)$ nel calcolo di $J_2$, e come si riscrive con la definizione di $D$?
+**R:** Slide 10: «che è equivalente a: $= Ke^{-r(T-t)}P^{\ast}\{D \mid \Im_t\} =$ dalla definizione di $D$: $= Ke^{-r(T-t)}P^{\ast}\{S_T > K \mid \Im_t\}$». Il docente: «il valore atteso della funzione indicatrice altro non è che la probabilità del evento cui si riferisce la funzione indicatrice» (transcript [00:05:30]–[00:06:01]). ⚠️ È la proprietà $E(X) = P(A)$ per $X = \mathbf{1}_A$ della lezione 02 (slide 9), qui sotto la misura $P^{\ast}$ e condizionata a $\Im_t$.
+**Opzione:** Alla probabilità di $D$ sotto $P^{\ast}$: $J_2 = Ke^{-r(T-t)}P^{\ast}\{D \mid \Im_t\} = Ke^{-r(T-t)}P^{\ast}\{S_T > K \mid \Im_t\}$.
 **Distrattori:**
-- Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T ≤ K | ℑ_t}.
-- Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
-- B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
+- Alla probabilità di $D$ sotto $P^{\ast}$: $J_2 = Ke^{-r(T-t)}P^{\ast}\{D \mid \Im_t\} = Ke^{-r(T-t)}P^{\ast}\{S_T \leq K \mid \Im_t\}$.
+- Con la derivata di Radon-Nikodym $\eta_t = \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t = e^{-(\sigma^2/2)t + \sigma W^{\ast}_t}$.
+- $B_T^{-1}S_T$ è $S^{\ast}_T$, quindi $J_1 = B_t E_{P^{\ast}}(S^{\ast}_T I_D \mid \Im_t)$.
 
-**D:** ⚠️ Che cosa si ottiene, nel calcolo di J_2, dividendo per B_T entrambi i termini della disuguaglianza S_T > K?
-**R:** Slide 11: «dividendo entrambi i termini per B_T e utilizzando la definizione di S∗_T = S_T/B_T, si ottiene: = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}». Il docente: «Dividiamo quindi entrambi i termini per bt e utilizziamo la definizione st star», «che è uguale ad s di t su bt» (transcript [00:06:01]–[00:06:42]). ⚠️ A destra lo strike diventa Ke^(-rT), scontato fino a 0 e non fino a t: lo sconto B_T^(-1) è e^(-rT).
+**D:** ⚠️ Che cosa si ottiene, nel calcolo di $J_2$, dividendo per $B_T$ entrambi i termini della disuguaglianza $S_T > K$?
+**R:** Slide 11: «dividendo entrambi i termini per $B_T$ e utilizzando la definizione di $S^{\ast}_T = \frac{S_T}{B_T}$, si ottiene: $= Ke^{-r(T-t)}P^{\ast}\{S^{\ast}_T > Ke^{-rT} \mid \Im_t\}$». Il docente: «Dividiamo quindi entrambi i termini per bt e utilizziamo la definizione st star», «che è uguale ad s di t su bt» (transcript [00:06:01]–[00:06:42]). ⚠️ A destra lo strike diventa $Ke^{-rT}$, scontato fino a 0 e non fino a $t$: lo sconto $B_T^{-1}$ è $e^{-rT}$.
 **Opzione:** Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
 **Distrattori:**
 - Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-r(T-t)) | ℑ_t}.
 - u_n=exp(σΔ_n^(1/2))
 - S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
 
-**D:** ⚠️ Quale espressione esplicita di S∗_T, una P∗-martingala, si sostituisce nella probabilità del calcolo di J_2 (la (62) richiamata dalla lezione 14)?
-**R:** Slide 12: «Si è dimostrato che S∗_T è una P∗- martingala e che ha la seguente espressione esplicita: S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) (62)». Slide 13: «utilizzando l'equazione precedente: = Ke^(-r(T-t))P∗{S∗_t e^(-(1/2)σ²(T-t) + σ(W∗_T - W∗_t)) > Ke^(-rT) | ℑ_t} =». Il docente: S∗_T «ha la seguente espressione esplicita in termini di random walk esponenziale» (transcript [00:06:50]–[00:07:18]). ⚠️ È la (62) della lezione 13, S∗_u = S∗_t · e^(-(σ²/2)dt + σdW∗_t), con u = T. Sotto P∗ l'esponente ha -σ²/2 e nessun r.
+**D:** ⚠️ Quale espressione esplicita di $S^{\ast}_T$, una $P^{\ast}$-martingala, si sostituisce nella probabilità del calcolo di $J_2$ (la (62) richiamata dalla lezione 14)?
+**R:** Slide 12: «Si è dimostrato che $S^{\ast}_T$ è una $P^{\ast}$- martingala e che ha la seguente espressione esplicita: $S^{\ast}_T = S^{\ast}_t e^{-(\sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)}$ (62)». Slide 13: «utilizzando l'equazione precedente: $= Ke^{-r(T-t)}P^{\ast}\{S^{\ast}_t e^{-\frac{1}{2}\sigma^2(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} > Ke^{-rT} \mid \Im_t\} =$». Il docente: $S^{\ast}_T$ «ha la seguente espressione esplicita in termini di random walk esponenziale» (transcript [00:06:50]–[00:07:18]). ⚠️ È la (62) della lezione 13, $S^{\ast}_u = S^{\ast}_t \cdot e^{-(\sigma^2/2)dt + \sigma dW^{\ast}_t}$, con $u = T$. Sotto $P^{\ast}$ l'esponente ha $-\frac{\sigma^2}{2}$ e nessun $r$.
 **Opzione:** S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
 **Distrattori:**
 - S∗_T = S∗_t e^((σ²/2)(T-t) + σ(W∗_T - W∗_t))
 - lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]
 - Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
 
-**D:** ⚠️ Che cosa si ottiene nel calcolo di J_2 calcolando il logaritmo di entrambi i termini della disuguaglianza?
-**R:** Slide 13: «calcolando il logaritmo di entrambi i termini: = Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}». Il docente: «applichiamo all'interno della probabilità star il logaritmo», con «il logaritmo di K» «meno r di t grande» a destra (transcript [00:07:30]–[00:07:56]). ⚠️ A destra ln(Ke^(-rT)) = ln K - rT, con il meno.
-**Opzione:** Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
+**D:** ⚠️ Che cosa si ottiene nel calcolo di $J_2$ calcolando il logaritmo di entrambi i termini della disuguaglianza?
+**R:** Slide 13: «calcolando il logaritmo di entrambi i termini: $= Ke^{-r(T-t)}P^{\ast}\{\ln S^{\ast}_t - \frac{1}{2}\sigma^2(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t) > \ln K - rT \mid \Im_t\}$». Il docente: «applichiamo all'interno della probabilità star il logaritmo», con «il logaritmo di K» «meno r di t grande» a destra (transcript [00:07:30]–[00:07:56]). ⚠️ A destra $\ln(Ke^{-rT}) = \ln K - rT$, con il meno.
+**Opzione:** $Ke^{-r(T-t)}P^{\ast}\{\ln S^{\ast}_t - \frac{1}{2}\sigma^2(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t) > \ln K - rT \mid \Im_t\}$
 **Distrattori:**
-- Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K + rT | ℑ_t}
-- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
-- J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+- $Ke^{-r(T-t)}P^{\ast}\{\ln S^{\ast}_t - \frac{1}{2}\sigma^2(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t) > \ln K + rT \mid \Im_t\}$
+- $S^{\ast}_T = S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t)}$
+- $J_1 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ (76) e $J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (77)
 
-**D:** ⚠️ Che cosa si ottiene nel calcolo di J_2 sostituendo S∗_t = S_te^(-rt)?
-**R:** Slide 14: «sostituendo S∗_t = S_te^(-rt) basandosi sulla definizione di S∗_t, con qualche passaggio si ottiene: = Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}». Il docente: la probabilità «di meno sigma w t grande star meno w t piccolo star minore del logaritmo di s su k più r meno sigma quadro mezzi t grande menti» (transcript [00:08:03]–[00:08:28]). ⚠️ Il termine aleatorio resta a sinistra con il meno e la disuguaglianza passa da > a <; a destra c'è (r - (1/2)σ²), il numeratore di d_2 (35).
+**D:** ⚠️ Che cosa si ottiene nel calcolo di $J_2$ sostituendo $S^{\ast}_t = S_te^{-rt}$?
+**R:** Slide 14: «sostituendo $S^{\ast}_t = S_te^{-rt}$ basandosi sulla definizione di $S^{\ast}_t$, con qualche passaggio si ottiene: $= Ke^{-r(T-t)}P^{\ast}\{-\sigma(W^{\ast}_T - W^{\ast}_t) < \ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t) \mid \Im_t\}$». Il docente: la probabilità «di meno sigma w t grande star meno w t piccolo star minore del logaritmo di s su k più r meno sigma quadro mezzi t grande menti» (transcript [00:08:03]–[00:08:28]). ⚠️ Il termine aleatorio resta a sinistra con il meno e la disuguaglianza passa da $>$ a $<$; a destra c'è $\left(r - \frac{1}{2}\sigma^2\right)$, il numeratore di $d_2$ (35).
 **Opzione:** Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
 **Distrattori:**
 - Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t) | ℑ_t}
 - S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
 - dB_t=rB_tdt
 
-**D:** ⚠️ Perché nel calcolo di J_2 si può trascurare la dipendenza da ℑ_t?
-**R:** Slide 15: «poichè W∗_t è un moto Browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t, la dipendenza da ℑ_t può essere trascurata: = Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t)}». Il docente: è «una caratteristica del moto browniano standard e del suo differenziale», e si passa «da una probabilità star condizionata ad una probabilità star non condizionata» (transcript [00:08:47]–[00:09:26]). ⚠️ Indipendente da ℑ_t, non adattato a ℑ_t: «adattato» è la condizione per portare un termine fuori dal valore atteso (slide 19). Lo stesso argomento torna per J_1 sotto P̄ (slide 28).
+**D:** ⚠️ Perché nel calcolo di $J_2$ si può trascurare la dipendenza da $\Im_t$?
+**R:** Slide 15: «poichè $W^{\ast}_t$ è un moto Browniano sotto $P^{\ast}$, tale che $W^{\ast}_T - W^{\ast}_t$ sia una variabile aleatoria normale indipendente da $\Im_t$, la dipendenza da $\Im_t$ può essere trascurata: $= Ke^{-r(T-t)}P^{\ast}\{-\sigma(W^{\ast}_T - W^{\ast}_t) < \ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)\}$». Il docente: è «una caratteristica del moto browniano standard e del suo differenziale», e si passa «da una probabilità star condizionata ad una probabilità star non condizionata» (transcript [00:08:47]–[00:09:26]). ⚠️ Indipendente da $\Im_t$, non adattato a $\Im_t$: «adattato» è la condizione per portare un termine fuori dal valore atteso (slide 19). Lo stesso argomento torna per $J_1$ sotto $\bar{P}$ (slide 28).
 **Opzione:** Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
 **Distrattori:**
 - Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale adattata a ℑ_t.
 - C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
 - Ij=[jΔn , (j+1)Δn]
 
-**D:** ⚠️ Come si standardizza la variabile aleatoria nel calcolo di J_2, e quale espressione si ottiene prima di riconoscere la d?
-**R:** Slide 16–17: «considerando che W∗_T - W∗_t ~ N(0, T - t) dividendo entrambi i termini per σ√(T-t), si ottiene: = Ke^(-r(T-t))P∗{(W∗_T - W∗_t)/√(T-t) < (1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]} e considerando che (W∗_T - W∗_t)/√(T-t) ~ N(0,1), i.e. una variabile aleatoria normale standard: = Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}». Il docente: la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» (transcript [00:09:51]–[00:11:17]). ⚠️ Si divide per σ√(T-t), perché la varianza di W∗_T - W∗_t è T - t. Nella slide 16 il meno davanti al rapporto sparisce, mentre per J_1 la slide 29 lo conserva.
-**Opzione:** Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+**D:** ⚠️ Come si standardizza la variabile aleatoria nel calcolo di $J_2$, e quale espressione si ottiene prima di riconoscere la $d$?
+**R:** Slide 16–17: «considerando che $W^{\ast}_T - W^{\ast}_t \sim N(0, T - t)$ dividendo entrambi i termini per $\sigma\sqrt{T-t}$, si ottiene: $= Ke^{-r(T-t)}P^{\ast}\{\frac{W^{\ast}_T - W^{\ast}_t}{\sqrt{T-t}} < \frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$ e considerando che $\frac{W^{\ast}_T - W^{\ast}_t}{\sqrt{T-t}} \sim N(0,1)$, i.e. una variabile aleatoria normale standard: $= Ke^{-r(T-t)}N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$». Il docente: la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» (transcript [00:09:51]–[00:11:17]). ⚠️ Si divide per $\sigma\sqrt{T-t}$, perché la varianza di $W^{\ast}_T - W^{\ast}_t$ è $T - t$. Nella slide 16 il meno davanti al rapporto sparisce, mentre per $J_1$ la slide 29 lo conserva.
+**Opzione:** Dividendo per $\sigma\sqrt{T-t}$, con $\frac{W^{\ast}_T - W^{\ast}_t}{\sqrt{T-t}} \sim N(0,1)$: $Ke^{-r(T-t)}N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$.
 **Distrattori:**
-- Dividendo per σ(T-t), con (W∗_T - W∗_t)/(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
-- J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
-- E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+- Dividendo per $\sigma(T-t)$, con $\frac{W^{\ast}_T - W^{\ast}_t}{T-t} \sim N(0,1)$: $Ke^{-r(T-t)}N\{\frac{1}{\sigma(T-t)}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$.
+- $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T I_D \mid \Im_t\right)$: l'esponenziale in $T$ è la derivata di $\bar{P}$ rispetto a $P^{\ast}$ valutata in $T$.
+- $E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T X \mid \Im_t\right) = E_{\bar{P}}(X \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$, quindi $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{\bar{P}}(I_D \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$.
 
-**D:** ⚠️ Che cosa scrive la (79) della slide 17 per J_2, e quale N va letta?
-**R:** Slide 17: «ed utilizzando la definizione di d_1 data con la (34) si ottiene: = Ke^(-r(T-t))N(d_1) J_2 = Ke^(-r(T-t))N(d_1) (79)». Ma l'argomento di N, (1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)], ha r - (1/2)σ²: è la d_2 della (35), non la d_1 della (34). La slide 31, sostituendo la (79) nella (78), scrive infatti Ke^(-r(T-t))N(d_2). Il docente legge il refuso, «guarda caso questa è la definizione di d1», ma legge giusto l'argomento, «il logaritmo S su K più R-sigma quadro mezzi T grande menti diviso sigma radice quadrata» (transcript [00:11:17]–[00:11:45]), e alla fine dice che J_2 «era uguale a k per e alla meno r t grande menti n di 2» ([00:27:46]). ⚠️ J_2 = Ke^(-r(T-t))N(d_2): la (79) ha un refuso, e la domanda 4 del test vuole N(d2).
+**D:** ⚠️ Che cosa scrive la (79) della slide 17 per $J_2$, e quale $N$ va letta?
+**R:** Slide 17: «ed utilizzando la definizione di $d_1$ data con la (34) si ottiene: $= Ke^{-r(T-t)}N(d_1)$ $J_2 = Ke^{-r(T-t)}N(d_1)$ (79)». Ma l'argomento di $N$, $\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]$, ha $r - \frac{1}{2}\sigma^2$: è la $d_2$ della (35), non la $d_1$ della (34). La slide 31, sostituendo la (79) nella (78), scrive infatti $Ke^{-r(T-t)}N(d_2)$. Il docente legge il refuso, «guarda caso questa è la definizione di d1», ma legge giusto l'argomento, «il logaritmo S su K più R-sigma quadro mezzi T grande menti diviso sigma radice quadrata» (transcript [00:11:17]–[00:11:45]), e alla fine dice che $J_2$ «era uguale a k per e alla meno r t grande menti n di 2» ([00:27:46]). ⚠️ $J_2 = Ke^{-r(T-t)}N(d_2)$: la (79) ha un refuso, e la domanda 4 del test vuole N(d2).
 
-**D:** ⚠️ Con quale riscrittura comincia il calcolo esplicito di J_1 nella lezione 14?
-**R:** Slide 18: «J_1 è calcolato in forma esplicita: J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) B_T^(-1)S_T è S∗_T: = B_t E_{P∗}(S∗_T I_D | ℑ_t)». Il docente: J_1 è B_t, «il nostro fattore di capitalizzazione del tempo», per il valore atteso sotto P∗ «del fattore di sconto fino a t grande per il valore del sottostante st grande» per l'indicatrice; «bt meno 1 per s di t è uguale a st star» (transcript [00:12:07]–[00:12:51]). ⚠️ Per J_2 B_T^(-1) usciva dal valore atteso insieme a K; qui resta dentro e con S_T forma il processo scontato S∗_T.
+**D:** ⚠️ Con quale riscrittura comincia il calcolo esplicito di $J_1$ nella lezione 14?
+**R:** Slide 18: «$J_1$ è calcolato in forma esplicita: $J_1 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ $B_T^{-1}S_T$ è $S^{\ast}_T$: $= B_t E_{P^{\ast}}(S^{\ast}_T I_D \mid \Im_t)$». Il docente: $J_1$ è $B_t$, «il nostro fattore di capitalizzazione del tempo», per il valore atteso sotto $P^{\ast}$ «del fattore di sconto fino a t grande per il valore del sottostante st grande» per l'indicatrice; «bt meno 1 per s di t è uguale a st star» (transcript [00:12:07]–[00:12:51]). ⚠️ Per $J_2$ $B_T^{-1}$ usciva dal valore atteso insieme a $K$; qui resta dentro e con $S_T$ forma il processo scontato $S^{\ast}_T$.
 **Opzione:** B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
 **Distrattori:**
 - B_T S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
 - Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
 - u_n=exp(σΔ_n^(1/2))
 
-**D:** ⚠️ Quali termini escono dal valore atteso nel calcolo di J_1, dopo aver sostituito la (62), e perché?
-**R:** Slide 19: «Utilizzando ancora l'espressione (62), si ottiene: = B_t E_{P∗}(S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) I_D | ℑ_t) ma poichè S∗_t è adattato a ℑ_t si ha che = B_t S∗_t E_{P∗}(e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t)) I_D | ℑ_t) ma anche il termine e^((σ²/2)t - σW∗_t) è adattato a ℑ_t, e dunque: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t)». Il docente: «ST star è adattato a F di t, è lo stesso set di informazioni», e «così come può essere portato fuori il termine E alla sigma quadro mezzi T meno sigma WT star, perché anche questo è perfettamente adattato alla filtrazione» (transcript [00:13:15]–[00:14:50]). ⚠️ L'esponente si spezza in due: la parte in t esce, quella in T resta dentro.
-**Opzione:** S∗_t ed e^((σ²/2)t - σW∗_t), perché adattati a ℑ_t: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t).
+**D:** ⚠️ Quali termini escono dal valore atteso nel calcolo di $J_1$, dopo aver sostituito la (62), e perché?
+**R:** Slide 19: «Utilizzando ancora l'espressione (62), si ottiene: $= B_t E_{P^{\ast}}(S^{\ast}_t e^{-(\sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} I_D \mid \Im_t)$ ma poichè $S^{\ast}_t$ è adattato a $\Im_t$ si ha che $= B_t S^{\ast}_t E_{P^{\ast}}(e^{-(\sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} I_D \mid \Im_t)$ ma anche il termine $e^{(\sigma^2/2)t - \sigma W^{\ast}_t}$ è adattato a $\Im_t$, e dunque: $= B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}(e^{-(\sigma^2/2)T + \sigma W^{\ast}_T} I_D \mid \Im_t)$». Il docente: «ST star è adattato a F di t, è lo stesso set di informazioni», e «così come può essere portato fuori il termine E alla sigma quadro mezzi T meno sigma WT star, perché anche questo è perfettamente adattato alla filtrazione» (transcript [00:13:15]–[00:14:50]). ⚠️ L'esponente si spezza in due: la parte in $t$ esce, quella in $T$ resta dentro.
+**Opzione:** $S^{\ast}_t$ ed $e^{(\sigma^2/2)t - \sigma W^{\ast}_t}$, perché adattati a $\Im_t$: $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}(e^{-(\sigma^2/2)T + \sigma W^{\ast}_T} I_D \mid \Im_t)$.
 **Distrattori:**
-- S∗_t ed e^(-(σ²/2)T + σW∗_T), perché adattati a ℑ_t: J_1 = B_t S∗_t e^(-(σ²/2)T + σW∗_T) E_{P∗}(e^((σ²/2)t - σW∗_t) I_D | ℑ_t).
-- Ke^(-r(T-t))P∗{ln S∗_t - (1/2)σ²(T-t) + σ(W∗_T - W∗_t) > ln K - rT | ℑ_t}
-- Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+- $S^{\ast}_t$ ed $e^{-(\sigma^2/2)T + \sigma W^{\ast}_T}$, perché adattati a $\Im_t$: $J_1 = B_t S^{\ast}_t e^{-(\sigma^2/2)T + \sigma W^{\ast}_T} E_{P^{\ast}}(e^{(\sigma^2/2)t - \sigma W^{\ast}_t} I_D \mid \Im_t)$.
+- $Ke^{-r(T-t)}P^{\ast}\{\ln S^{\ast}_t - \frac{1}{2}\sigma^2(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t) > \ln K - rT \mid \Im_t\}$
+- Dividendo per $\sigma\sqrt{T-t}$, con $\frac{W^{\ast}_T - W^{\ast}_t}{\sqrt{T-t}} \sim N(0,1)$: $Ke^{-r(T-t)}N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$.
 
-**D:** ⚠️ Come si definisce la nuova misura di probabilità P̄ nel calcolo di J_1?
-**R:** Slide 20: «Una nuova probabilità di misura P̄ è definita sfruttando la derivata di Radon-Nikodym: η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t)». Il docente: «Definiamo quindi una nuova probabilità di misura p' sfruttando il concetto della derivata di radon nicodin. Quindi definiamo eta, la derivata di p' su p star al tempo t, come e alla meno sigma quadro mezzi t piccolo più sigma w t star» (transcript [00:14:57]–[00:15:04]; il transcript scrive «p'» per P̄, che il docente chiama «dash» o «soprassegnato»). ⚠️ È la derivata di P̄ rispetto a P∗, non rispetto alla misura originaria P, e ha i segni opposti al termine e^((σ²/2)t - σW∗_t) uscito dal valore atteso (slide 19): per questo la slide 23 li semplifica.
-**Opzione:** Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t).
+**D:** ⚠️ Come si definisce la nuova misura di probabilità $\bar{P}$ nel calcolo di $J_1$?
+**R:** Slide 20: «Una nuova probabilità di misura $\bar{P}$ è definita sfruttando la derivata di Radon-Nikodym: $\eta_t = \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t = e^{-(\sigma^2/2)t + \sigma W^{\ast}_t}$». Il docente: «Definiamo quindi una nuova probabilità di misura p' sfruttando il concetto della derivata di radon nicodin. Quindi definiamo eta, la derivata di p' su p star al tempo t, come e alla meno sigma quadro mezzi t piccolo più sigma w t star» (transcript [00:14:57]–[00:15:04]; il transcript scrive «p'» per $\bar{P}$, che il docente chiama «dash» o «soprassegnato»). ⚠️ È la derivata di $\bar{P}$ rispetto a $P^{\ast}$, non rispetto alla misura originaria $P$, e ha i segni opposti al termine $e^{(\sigma^2/2)t - \sigma W^{\ast}_t}$ uscito dal valore atteso (slide 19): per questo la slide 23 li semplifica.
+**Opzione:** Con la derivata di Radon-Nikodym $\eta_t = \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t = e^{-(\sigma^2/2)t + \sigma W^{\ast}_t}$.
 **Distrattori:**
-- Con la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^((σ²/2)t - σW∗_t).
-- Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
-- I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+- Con la derivata di Radon-Nikodym $\eta_t = \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t = e^{(\sigma^2/2)t - \sigma W^{\ast}_t}$.
+- $Ke^{-r(T-t)}P^{\ast}\{-\sigma(W^{\ast}_T - W^{\ast}_t) < \ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t) \mid \Im_t\}$
+- $I_D = 1$ se $S_T > K$ e 0 se $S_T \leq K$, dove $D = \{\omega : S_T(\omega) > K\}$ è l'insieme di eventi tale che $S_T > K$.
 
-**D:** ⚠️ Quale processo è un moto browniano sotto la nuova misura P̄, per quale teorema, e a che cosa serve il cambio di misura?
-**R:** Slide 20: «Sotto questa nuova misura di probabilità, il processo stocastico W̄_t, definito come: W̄_t = W∗_t - σt è un moto Browniano (si applica il teorema di Girsanov)». Il docente: «il processo stocastico WT dash, definito o soprassegnato, definito come WT star meno sigma t, applicando il teorema di Girsanov, è allo stesso tempo un moto browniano. Quindi stiamo facendo un cambio di misura per poter affrontare il termine J1» (transcript [00:15:19]–[00:15:39]). ⚠️ Il segno è meno: W̄_t = W∗_t - σt, quindi W∗_t = W̄_t + σt (slide 25). Il cambio di misura serve solo per J_1: J_2 si calcola sotto P∗.
-**Opzione:** W̄_t = W∗_t - σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
+**D:** ⚠️ Quale processo è un moto browniano sotto la nuova misura $\bar{P}$, per quale teorema, e a che cosa serve il cambio di misura?
+**R:** Slide 20: «Sotto questa nuova misura di probabilità, il processo stocastico $\bar{W}_t$, definito come: $\bar{W}_t = W^{\ast}_t - \sigma t$ è un moto Browniano (si applica il teorema di Girsanov)». Il docente: «il processo stocastico WT dash, definito o soprassegnato, definito come WT star meno sigma t, applicando il teorema di Girsanov, è allo stesso tempo un moto browniano. Quindi stiamo facendo un cambio di misura per poter affrontare il termine J1» (transcript [00:15:19]–[00:15:39]). ⚠️ Il segno è meno: $\bar{W}_t = W^{\ast}_t - \sigma t$, quindi $W^{\ast}_t = \bar{W}_t + \sigma t$ (slide 25). Il cambio di misura serve solo per $J_1$: $J_2$ si calcola sotto $P^{\ast}$.
+**Opzione:** $\bar{W}_t = W^{\ast}_t - \sigma t$, per il teorema di Girsanov: il cambio di misura serve a calcolare $J_1$.
 **Distrattori:**
-- W̄_t = W∗_t + σt, per il teorema di Girsanov: il cambio di misura serve a calcolare J_1.
-- Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
-- (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
+- $\bar{W}_t = W^{\ast}_t + \sigma t$, per il teorema di Girsanov: il cambio di misura serve a calcolare $J_1$.
+- Con $S^{\ast}_T = \frac{S_T}{B_T}$: $J_2 = Ke^{-r(T-t)}P^{\ast}\{S^{\ast}_T > Ke^{-rT} \mid \Im_t\}$.
+- $(S_T - K)^+ = (S_T - K)I_D$, e la (75) diventa $C_t = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)I_D \mid \Im_t]$.
 
-**D:** ⚠️ In che cosa si trasforma J_1 con la derivata di Radon-Nikodym della nuova misura P̄?
-**R:** Slide 21: «questo implica che J_1, i.e.: J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(e^(-(σ²/2)T + σW∗_T) I_D | ℑ_t) si trasforma nella: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t)». Il docente: J_1 «può essere riscritto in termini della derivata» di Radon-Nikodym: «all'interno della parentesi sostituiremo la forma esponenziale con la derivata» di P̄ rispetto a P∗, «ovviamente al tempo t grande» (transcript [00:15:46]–[00:16:39]). ⚠️ È la derivata di P̄ rispetto a P∗, valutata in T: e^(-(σ²/2)T + σW∗_T) è η_T.
-**Opzione:** J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P̄/∂P∗|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P̄ rispetto a P∗ valutata in T.
+**D:** ⚠️ In che cosa si trasforma $J_1$ con la derivata di Radon-Nikodym della nuova misura $\bar{P}$?
+**R:** Slide 21: «questo implica che $J_1$, i.e.: $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}(e^{-(\sigma^2/2)T + \sigma W^{\ast}_T} I_D \mid \Im_t)$ si trasforma nella: $= B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T I_D \mid \Im_t\right)$». Il docente: $J_1$ «può essere riscritto in termini della derivata» di Radon-Nikodym: «all'interno della parentesi sostituiremo la forma esponenziale con la derivata» di $\bar{P}$ rispetto a $P^{\ast}$, «ovviamente al tempo t grande» (transcript [00:15:46]–[00:16:39]). ⚠️ È la derivata di $\bar{P}$ rispetto a $P^{\ast}$, valutata in $T$: $e^{-(\sigma^2/2)T + \sigma W^{\ast}_T}$ è $\eta_T$.
+**Opzione:** $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T I_D \mid \Im_t\right)$: l'esponenziale in $T$ è la derivata di $\bar{P}$ rispetto a $P^{\ast}$ valutata in $T$.
 **Distrattori:**
-- J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(∂P∗/∂P̄|_T I_D | ℑ_t): l'esponenziale in T è la derivata di P∗ rispetto a P̄ valutata in T.
-- Alla probabilità di D sotto P∗: J_2 = Ke^(-r(T-t))P∗{D | ℑ_t} = Ke^(-r(T-t))P∗{S_T > K | ℑ_t}.
-- Ke^(-r(T-t))P∗{-σ(W∗_T - W∗_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t) | ℑ_t}
+- $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}\left(\frac{\partial P^{\ast}}{\partial\bar{P}}\Big|_T I_D \mid \Im_t\right)$: l'esponenziale in $T$ è la derivata di $P^{\ast}$ rispetto a $\bar{P}$ valutata in $T$.
+- Alla probabilità di $D$ sotto $P^{\ast}$: $J_2 = Ke^{-r(T-t)}P^{\ast}\{D \mid \Im_t\} = Ke^{-r(T-t)}P^{\ast}\{S_T > K \mid \Im_t\}$.
+- $Ke^{-r(T-t)}P^{\ast}\{-\sigma(W^{\ast}_T - W^{\ast}_t) < \ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t) \mid \Im_t\}$
 
-**D:** ⚠️ Quale uguaglianza fornisce il teorema di Bayes nel calcolo di J_1, e che cosa diventa J_1?
-**R:** Slide 22: «ma per le proprietà del teorema di Bayes, è vero che: E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t e quindi: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t». Il docente: «per le proprietà del teorema di Bayes» quel valore atteso «non è altro che il valore atteso sotto la nuova misura di probabilità» di X, «sempre al tempo t per la derivata di radon nicodin» (transcript [00:16:43]–[00:17:35]). ⚠️ Il valore atteso passa da P∗ a P̄, non il contrario, e la derivata esce valutata in t: dentro era in T. È la regola di Bayes (88) della lezione 07, con P̄ al posto di Q e P∗ al posto di P (deduzione).
-**Opzione:** E_{P∗}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P̄}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
+**D:** ⚠️ Quale uguaglianza fornisce il teorema di Bayes nel calcolo di $J_1$, e che cosa diventa $J_1$?
+**R:** Slide 22: «ma per le proprietà del teorema di Bayes, è vero che: $E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T X \mid \Im_t\right) = E_{\bar{P}}(X \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$ e quindi: $= B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{\bar{P}}(I_D \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$». Il docente: «per le proprietà del teorema di Bayes» quel valore atteso «non è altro che il valore atteso sotto la nuova misura di probabilità» di $X$, «sempre al tempo t per la derivata di radon nicodin» (transcript [00:16:43]–[00:17:35]). ⚠️ Il valore atteso passa da $P^{\ast}$ a $\bar{P}$, non il contrario, e la derivata esce valutata in $t$: dentro era in $T$. È la regola di Bayes (88) della lezione 07, con $\bar{P}$ al posto di $Q$ e $P^{\ast}$ al posto di $P$ (deduzione).
+**Opzione:** $E_{P^{\ast}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T X \mid \Im_t\right) = E_{\bar{P}}(X \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$, quindi $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{\bar{P}}(I_D \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$.
 **Distrattori:**
-- E_{P̄}(∂P̄/∂P∗|_T X | ℑ_t) = E_{P∗}(X | ℑ_t) ∂P̄/∂P∗|_t, quindi J_1 = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P∗}(I_D | ℑ_t) ∂P̄/∂P∗|_t.
-- S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
-- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
+- $E_{\bar{P}}\left(\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_T X \mid \Im_t\right) = E_{P^{\ast}}(X \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$, quindi $J_1 = B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{P^{\ast}}(I_D \mid \Im_t) \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$.
+- $S^{\ast}_T = S^{\ast}_t e^{-(\sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)}$
+- Perché sia $B_T^{-1}$ sia $K$ sono indipendenti da $\Im_t$: $J_2 = B_t B_T^{-1} K E_{P^{\ast}}(I_D \mid \Im_t) = Ke^{-r(T-t)} E_{P^{\ast}}(I_D \mid \Im_t)$.
 
-**D:** ⚠️ Che cosa resta di J_1 dopo aver esplicitato ∂P̄/∂P∗|_t e semplificato, e come si scrive come probabilità?
-**R:** Slide 23: «calcolando ∂P̄/∂P∗|_t in forma esplicita: = B_t S∗_t e^((σ²/2)t - σW∗_t) E_{P̄}(I_D | ℑ_t) e^(-(σ²/2)t + σW∗_t) semplificando = B_t S∗_t E_{P̄}(I_D | ℑ_t)». Slide 24: «ricordando che: S∗_t = S_t/B_t si ottiene: = S_t E_{P̄}(I_D | ℑ_t) = inoltre, richiamando che: E_{P̄}(I_D | ℑ_t) = P̄(D | ℑ_t) si ottiene: = S_t P̄(D | ℑ_t) = = S_t P̄(S_T > K | ℑ_t) =». Il docente: «Semplifichiamo l'esponenziale prima del valore atteso con quello dopo il valore atteso», e «si semplifica il fattore di capitalizzazione con quello di sconto» (transcript [00:17:51]–[00:19:29]). ⚠️ J_1 è S_t per la probabilità di D sotto P̄; J_2 è Ke^(-r(T-t)) per la probabilità di D sotto P∗ (slide 10): stesso evento, misure diverse.
-**Opzione:** J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P̄(D | ℑ_t) = S_t P̄(S_T > K | ℑ_t)
+**D:** ⚠️ Che cosa resta di $J_1$ dopo aver esplicitato $\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$ e semplificato, e come si scrive come probabilità?
+**R:** Slide 23: «calcolando $\frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t$ in forma esplicita: $= B_t S^{\ast}_t e^{(\sigma^2/2)t - \sigma W^{\ast}_t} E_{\bar{P}}(I_D \mid \Im_t) e^{-(\sigma^2/2)t + \sigma W^{\ast}_t}$ semplificando $= B_t S^{\ast}_t E_{\bar{P}}(I_D \mid \Im_t)$». Slide 24: «ricordando che: $S^{\ast}_t = \frac{S_t}{B_t}$ si ottiene: $= S_t E_{\bar{P}}(I_D \mid \Im_t) =$ inoltre, richiamando che: $E_{\bar{P}}(I_D \mid \Im_t) = \bar{P}(D \mid \Im_t)$ si ottiene: $= S_t \bar{P}(D \mid \Im_t) =$ $= S_t \bar{P}(S_T > K \mid \Im_t) =$». Il docente: «Semplifichiamo l'esponenziale prima del valore atteso con quello dopo il valore atteso», e «si semplifica il fattore di capitalizzazione con quello di sconto» (transcript [00:17:51]–[00:19:29]). ⚠️ $J_1$ è $S_t$ per la probabilità di $D$ sotto $\bar{P}$; $J_2$ è $Ke^{-r(T-t)}$ per la probabilità di $D$ sotto $P^{\ast}$ (slide 10): stesso evento, misure diverse.
+**Opzione:** $J_1 = B_t S^{\ast}_t E_{\bar{P}}(I_D \mid \Im_t) = S_t E_{\bar{P}}(I_D \mid \Im_t) = S_t \bar{P}(D \mid \Im_t) = S_t \bar{P}(S_T > K \mid \Im_t)$
 **Distrattori:**
-- J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P∗(D | ℑ_t) = S_t P∗(S_T > K | ℑ_t)
-- C_t ≟ J_1 - J_2 (78): resta da calcolare in forma esplicita prima J_2 e poi J_1.
-- Dividendo per σ√(T-t), con (W∗_T - W∗_t)/√(T-t) ~ N(0,1): Ke^(-r(T-t))N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}.
+- $J_1 = B_t S^{\ast}_t E_{\bar{P}}(I_D \mid \Im_t) = S_t E_{\bar{P}}(I_D \mid \Im_t) = S_t P^{\ast}(D \mid \Im_t) = S_t P^{\ast}(S_T > K \mid \Im_t)$
+- $C_t \stackrel{?}{=} J_1 - J_2$ (78): resta da calcolare in forma esplicita prima $J_2$ e poi $J_1$.
+- Dividendo per $\sigma\sqrt{T-t}$, con $\frac{W^{\ast}_T - W^{\ast}_t}{\sqrt{T-t}} \sim N(0,1)$: $Ke^{-r(T-t)}N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$.
 
-**D:** ⚠️ Come si scrive S∗_T sotto la nuova misura P̄, sostituendo nella (62) W∗_t = W̄_t + σt?
-**R:** Slide 25: «dividendo ancora entrambi i termini della disuguaglianza per B_T: = S_t P̄(S∗_T > Ke^(-rT) | ℑ_t) sostituendo all'interno dell'espressione (62) la definizione di W∗_t espressa in termini di W̄_t, i.e.: W∗_t = W̄_t + σt la dinamica di S∗_T può essere ottenuta sotto la filtrazione ℑ_t in termini della nuova misura di probabilità P̄, i.e.: S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))». Il docente: «stiamo riesprimendo il random walk esponenziale nella medesima filtrazione sotto la nuova misura di probabilità» (transcript [00:19:50]–[00:20:51]). ⚠️ Sotto P̄ il termine in σ² ha il più, +(1/2)σ²(T-t); nella (62) sotto P∗ ha il meno. Viene da σ(W∗_T - W∗_t) = σ(W̄_T - W̄_t) + σ²(T-t) (deduzione dalla slide 25).
-**Opzione:** S∗_T = S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t))
+**D:** ⚠️ Come si scrive $S^{\ast}_T$ sotto la nuova misura $\bar{P}$, sostituendo nella (62) $W^{\ast}_t = \bar{W}_t + \sigma t$?
+**R:** Slide 25: «dividendo ancora entrambi i termini della disuguaglianza per $B_T$: $= S_t \bar{P}(S^{\ast}_T > Ke^{-rT} \mid \Im_t)$ sostituendo all'interno dell'espressione (62) la definizione di $W^{\ast}_t$ espressa in termini di $\bar{W}_t$, i.e.: $W^{\ast}_t = \bar{W}_t + \sigma t$ la dinamica di $S^{\ast}_T$ può essere ottenuta sotto la filtrazione $\Im_t$ in termini della nuova misura di probabilità $\bar{P}$, i.e.: $S^{\ast}_T = S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t)}$». Il docente: «stiamo riesprimendo il random walk esponenziale nella medesima filtrazione sotto la nuova misura di probabilità» (transcript [00:19:50]–[00:20:51]). ⚠️ Sotto $\bar{P}$ il termine in $\sigma^2$ ha il più, $+\frac{1}{2}\sigma^2(T-t)$; nella (62) sotto $P^{\ast}$ ha il meno. Viene da $\sigma(W^{\ast}_T - W^{\ast}_t) = \sigma(\bar{W}_T - \bar{W}_t) + \sigma^2(T-t)$ (deduzione dalla slide 25).
+**Opzione:** $S^{\ast}_T = S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t)}$
 **Distrattori:**
-- S∗_T = S∗_t e^(σ(W̄_T - W̄_t) - (1/2)σ²(T-t))
-- Con S∗_T = S_T/B_T: J_2 = Ke^(-r(T-t))P∗{S∗_T > Ke^(-rT) | ℑ_t}.
-- J_1 = B_t E_{P∗}(B_T^(-1)S_T I_D | ℑ_t) (76) e J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77)
+- $S^{\ast}_T = S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) - \frac{1}{2}\sigma^2(T-t)}$
+- Con $S^{\ast}_T = \frac{S_T}{B_T}$: $J_2 = Ke^{-r(T-t)}P^{\ast}\{S^{\ast}_T > Ke^{-rT} \mid \Im_t\}$.
+- $J_1 = B_t E_{P^{\ast}}(B_T^{-1}S_T I_D \mid \Im_t)$ (76) e $J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (77)
 
-**D:** ⚠️ Che cosa diventa J_1 calcolando il logaritmo e sostituendo S∗_t = S_te^(-rt)?
-**R:** Slide 26–27: «sostituendo l'espressione di S∗_T all'interno di J_1: J_1 = S_t P̄(S∗_t e^(σ(W̄_T - W̄_t) + (1/2)σ²(T-t)) > Ke^(-rT) | ℑ_t) = calcolando il logaritmo di entrambi i termini della disuguaglianza: = S_t P̄(ln S∗_t + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t) = sostituendo S∗_t = S_te^(-rt) utilizzando la definizione di S∗_t, si ottiene: = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)». Il docente: S∗_t è S_t scontato, «dove lo sconto B di T meno 1 non è altro che E alla meno RT» (transcript [00:20:59]–[00:22:38]). ⚠️ ln S∗_t = ln S_t - rt.
+**D:** ⚠️ Che cosa diventa $J_1$ calcolando il logaritmo e sostituendo $S^{\ast}_t = S_te^{-rt}$?
+**R:** Slide 26–27: «sostituendo l'espressione di $S^{\ast}_T$ all'interno di $J_1$: $J_1 = S_t \bar{P}(S^{\ast}_t e^{\sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t)} > Ke^{-rT} \mid \Im_t) =$ calcolando il logaritmo di entrambi i termini della disuguaglianza: $= S_t \bar{P}(\ln S^{\ast}_t + \sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t) > \ln K - rT \mid \Im_t) =$ sostituendo $S^{\ast}_t = S_te^{-rt}$ utilizzando la definizione di $S^{\ast}_t$, si ottiene: $= S_t \bar{P}(\ln S_t - rt + \sigma(\bar{W}_T - \bar{W}_t) + \frac{1}{2}\sigma^2(T-t) > \ln K - rT \mid \Im_t)$». Il docente: $S^{\ast}_t$ è $S_t$ scontato, «dove lo sconto B di T meno 1 non è altro che E alla meno RT» (transcript [00:20:59]–[00:22:38]). ⚠️ $\ln S^{\ast}_t = \ln S_t - rt$.
 **Opzione:** J_1 = S_t P̄(ln S_t - rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
 **Distrattori:**
 - J_1 = S_t P̄(ln S_t + rt + σ(W̄_T - W̄_t) + (1/2)σ²(T-t) > ln K - rT | ℑ_t)
 - Perché W∗_t è un moto browniano sotto P∗, tale che W∗_T - W∗_t sia una variabile aleatoria normale indipendente da ℑ_t.
 - lnS_t/S_s~N[(μ-σ_2/2)dt,σdt^(1/2))]
 
-**D:** ⚠️ Quale disuguaglianza resta nella probabilità di J_1 «con qualche passaggio», dopo aver trascurato la dipendenza da ℑ_t?
-**R:** Slide 28: «poichè W̄_t è un moto Browniano sotto P̄, tale che W̄_T - W̄_t è una variabile aleatoria normale indipendente da ℑ_t, la dipendenza da ℑ_t può essere trascurata», e «con qualche passaggio: = S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t)}» (la slide apre con la tonda e chiude con la graffa). Il docente: «portando alcuni termini del lato di sinistra dell'argomento della probabilità verso il lato di destra», la probabilità è di meno sigma per il differenziale dei due moti browniani «minore del logaritmo di s su k» «più r più sigma quadro mezzi t grande meno t» (transcript [00:22:50]–[00:23:57]). ⚠️ Qui c'è r + (1/2)σ², il numeratore di d_1 (34); per J_2 era r - (1/2)σ² (slide 14).
-**Opzione:** S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r + (1/2)σ²)(T-t))
+**D:** ⚠️ Quale disuguaglianza resta nella probabilità di $J_1$ «con qualche passaggio», dopo aver trascurato la dipendenza da $\Im_t$?
+**R:** Slide 28: «poichè $\bar{W}_t$ è un moto Browniano sotto $\bar{P}$, tale che $\bar{W}_T - \bar{W}_t$ è una variabile aleatoria normale indipendente da $\Im_t$, la dipendenza da $\Im_t$ può essere trascurata», e «con qualche passaggio: $= S_t \bar{P}(-\sigma(\bar{W}_T - \bar{W}_t) < \ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)\}$» (la slide apre con la tonda e chiude con la graffa). Il docente: «portando alcuni termini del lato di sinistra dell'argomento della probabilità verso il lato di destra», la probabilità è di meno sigma per il differenziale dei due moti browniani «minore del logaritmo di s su k» «più r più sigma quadro mezzi t grande meno t» (transcript [00:22:50]–[00:23:57]). ⚠️ Qui c'è $r + \frac{1}{2}\sigma^2$, il numeratore di $d_1$ (34); per $J_2$ era $r - \frac{1}{2}\sigma^2$ (slide 14).
+**Opzione:** $S_t \bar{P}(-\sigma(\bar{W}_T - \bar{W}_t) < \ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t))$
 **Distrattori:**
-- S_t P̄(-σ(W̄_T - W̄_t) < ln(S_t/K) + (r - (1/2)σ²)(T-t))
-- S∗_T = S∗_t e^(-(σ²/2)(T-t) + σ(W∗_T - W∗_t))
-- Che il prezzo di una call europea sotto la misura p∗ è dato dalla formula di Black-Scholes-Merton (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), derivata con il portafoglio di replicazione e il metodo della martingala.
+- $S_t \bar{P}(-\sigma(\bar{W}_T - \bar{W}_t) < \ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t))$
+- $S^{\ast}_T = S^{\ast}_t e^{-(\sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)}$
+- Che il prezzo di una call europea sotto la misura $p^{\ast}$ è dato dalla formula di Black-Scholes-Merton (33), $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, derivata con il portafoglio di replicazione e il metodo della martingala.
 
-**D:** ⚠️ Con quale passaggio si chiude il calcolo di J_1 (formula (80) della lezione 14)?
-**R:** Slide 29–30: «considerando che W̄_T - W̄_t ~ N(0, T - t) dividendo entrambi i termini della disuguaglianza per σ√(T-t)», e «così, sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1), i.e. una variabile aleatoria normale standard: = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} e utilizzando la definizione di d_1 data da (35) si ottiene: J_1 = S_tN(d_1) (80)». Il docente: «J1 viene riscritto semplicemente come SDT piccolo per il valore della normale standardizzata avente come argomento 1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:26:29]–[00:27:37]). ⚠️ La standardizzazione è sotto P̄. ⚠️ La slide 30 rinvia alla «(35)», che è d_2: d_1 è la (34), e l'argomento, con r + (1/2)σ², è d_1.
-**Opzione:** Sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
+**D:** ⚠️ Con quale passaggio si chiude il calcolo di $J_1$ (formula (80) della lezione 14)?
+**R:** Slide 29–30: «considerando che $\bar{W}_T - \bar{W}_t \sim N(0, T - t)$ dividendo entrambi i termini della disuguaglianza per $\sigma\sqrt{T-t}$», e «così, sotto $\bar{P}$, $\frac{\bar{W}_T - \bar{W}_t}{\sqrt{T-t}} \sim N(0,1)$, i.e. una variabile aleatoria normale standard: $= S_t N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]\}$ e utilizzando la definizione di $d_1$ data da (35) si ottiene: $J_1 = S_tN(d_1)$ (80)». Il docente: «J1 viene riscritto semplicemente come SDT piccolo per il valore della normale standardizzata avente come argomento 1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:26:29]–[00:27:37]). ⚠️ La standardizzazione è sotto $\bar{P}$. ⚠️ La slide 30 rinvia alla «(35)», che è $d_2$: $d_1$ è la (34), e l'argomento, con $r + \frac{1}{2}\sigma^2$, è $d_1$.
+**Opzione:** Sotto $\bar{P}$, $\frac{\bar{W}_T - \bar{W}_t}{\sqrt{T-t}} \sim N(0,1)$: $J_1 = S_t N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]\} = S_tN(d_1)$.
 **Distrattori:**
-- Sotto P∗, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
-- Perché sia B_T^(-1) sia K sono indipendenti da ℑ_t: J_2 = B_t B_T^(-1) K E_{P∗}(I_D | ℑ_t) = Ke^(-r(T-t)) E_{P∗}(I_D | ℑ_t).
-- I_D = 1 se S_T > K e 0 se S_T ≤ K, dove D = {ω : S_T(ω) > K} è l'insieme di eventi tale che S_T > K.
+- Sotto $P^{\ast}$, $\frac{\bar{W}_T - \bar{W}_t}{\sqrt{T-t}} \sim N(0,1)$: $J_1 = S_t N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]\} = S_tN(d_1)$.
+- Perché sia $B_T^{-1}$ sia $K$ sono indipendenti da $\Im_t$: $J_2 = B_t B_T^{-1} K E_{P^{\ast}}(I_D \mid \Im_t) = Ke^{-r(T-t)} E_{P^{\ast}}(I_D \mid \Im_t)$.
+- $I_D = 1$ se $S_T > K$ e 0 se $S_T \leq K$, dove $D = \{\omega : S_T(\omega) > K\}$ è l'insieme di eventi tale che $S_T > K$.
 
 **D:** ⚠️ Come si conclude la dimostrazione della lezione 14?
-**R:** Slide 31: «sostituendo i risultati dati dalle espressioni (79) e (80) all'interno dell'espressione (78), la tesi risulta dimostrata: C_t = J_1 - J_2 = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33) Q.E.D.». Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1 e perché avevamo dimostrato prima che J2 era uguale a k per e alla meno r t grande menti n di 2, ecco che la tese è dimostrata» (transcript [00:27:37]–[00:27:53]). ⚠️ Fra i due termini c'è il meno, e J_2 ha N(d_2), anche se la (79) della slide 17 scrive N(d_1).
-**Opzione:** Sostituendo la (79) e la (80) nella (78): C_t = J_1 - J_2 = S_tN(d_1) - Ke^(-r(T-t))N(d_2) (33). Q.E.D.
+**R:** Slide 31: «sostituendo i risultati dati dalle espressioni (79) e (80) all'interno dell'espressione (78), la tesi risulta dimostrata: $C_t = J_1 - J_2 = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$ (33) Q.E.D.». Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1 e perché avevamo dimostrato prima che J2 era uguale a k per e alla meno r t grande menti n di 2, ecco che la tese è dimostrata» (transcript [00:27:37]–[00:27:53]). ⚠️ Fra i due termini c'è il meno, e $J_2$ ha $N(d_2)$, anche se la (79) della slide 17 scrive $N(d_1)$.
+**Opzione:** Sostituendo la (79) e la (80) nella (78): $C_t = J_1 - J_2 = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$ (33). Q.E.D.
 **Distrattori:**
-- Sostituendo la (79) e la (80) nella (78): C_t = J_1 + J_2 = S_tN(d_1) + Ke^(-r(T-t))N(d_2) (33). Q.E.D.
-- B_T^(-1)S_T è S∗_T, quindi J_1 = B_t E_{P∗}(S∗_T I_D | ℑ_t).
-- C_t = π_t[(S_T - K)^+] = B_t E_{P∗}[B_T^(-1)(S_T - K)^+ | ℑ_t]
+- Sostituendo la (79) e la (80) nella (78): $C_t = J_1 + J_2 = S_tN(d_1) + Ke^{-r(T-t)}N(d_2)$ (33). Q.E.D.
+- $B_T^{-1}S_T$ è $S^{\ast}_T$, quindi $J_1 = B_t E_{P^{\ast}}(S^{\ast}_T I_D \mid \Im_t)$.
+- $C_t = \pi_t[(S_T - K)^+] = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)^+ \mid \Im_t]$
 
-**D:** ⚠️ In che cosa differiscono l'argomento di N nel calcolo di J_2 (slide 17) e quello nel calcolo di J_1 (slide 30)?
-**R:** Slide 17: N{(1/(σ√(T-t)))[ln(S_t/K) + (r - (1/2)σ²)(T-t)]}; slide 30: N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]}. Cambia solo il segno di (1/2)σ²: meno per J_2, che dà d_2 (35), più per J_1, che dà d_1 (34); r ha il più in entrambi, come nelle (34) e (35) della slide 3. Il docente riassume: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» (transcript [00:25:54]). Detta così sembra un meno davanti a tutta la parentesi, -(r + σ²/2), ma a [00:11:45] lo stesso docente legge l'argomento di J_2 «più R-sigma quadro mezzi». ⚠️ È il punto su cui è difettosa la domanda 3 del test.
-**Opzione:** Nel segno di (1/2)σ²: (r - (1/2)σ²)(T-t) per J_2, che dà d_2, e (r + (1/2)σ²)(T-t) per J_1, che dà d_1; r ha il più in entrambi.
+**D:** ⚠️ In che cosa differiscono l'argomento di $N$ nel calcolo di $J_2$ (slide 17) e quello nel calcolo di $J_1$ (slide 30)?
+**R:** Slide 17: $N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r - \frac{1}{2}\sigma^2\right)(T-t)]\}$; slide 30: $N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]\}$. Cambia solo il segno di $\frac{1}{2}\sigma^2$: meno per $J_2$, che dà $d_2$ (35), più per $J_1$, che dà $d_1$ (34); $r$ ha il più in entrambi, come nelle (34) e (35) della slide 3. Il docente riassume: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» (transcript [00:25:54]). Detta così sembra un meno davanti a tutta la parentesi, $-(r + \sigma^2/2)$, ma a [00:11:45] lo stesso docente legge l'argomento di $J_2$ «più R-sigma quadro mezzi». ⚠️ È il punto su cui è difettosa la domanda 3 del test.
+**Opzione:** Nel segno di $\frac{1}{2}\sigma^2$: $\left(r - \frac{1}{2}\sigma^2\right)(T-t)$ per $J_2$, che dà $d_2$, e $\left(r + \frac{1}{2}\sigma^2\right)(T-t)$ per $J_1$, che dà $d_1$; $r$ ha il più in entrambi.
 **Distrattori:**
-- Nel segno della parentesi: -(r + (1/2)σ²)(T-t) per J_2, che dà d_2, e +(r + (1/2)σ²)(T-t) per J_1, che dà d_1; r cambia segno.
-- (S_T - K)^+ = (S_T - K)I_D, e la (75) diventa C_t = B_t E_{P∗}[B_T^(-1)(S_T - K)I_D | ℑ_t].
-- J_1 = B_t S∗_t E_{P̄}(I_D | ℑ_t) = S_t E_{P̄}(I_D | ℑ_t) = S_t P̄(D | ℑ_t) = S_t P̄(S_T > K | ℑ_t)
+- Nel segno della parentesi: $-\left(r + \frac{1}{2}\sigma^2\right)(T-t)$ per $J_2$, che dà $d_2$, e $+\left(r + \frac{1}{2}\sigma^2\right)(T-t)$ per $J_1$, che dà $d_1$; $r$ cambia segno.
+- $(S_T - K)^+ = (S_T - K)I_D$, e la (75) diventa $C_t = B_t E_{P^{\ast}}[B_T^{-1}(S_T - K)I_D \mid \Im_t]$.
+- $J_1 = B_t S^{\ast}_t E_{\bar{P}}(I_D \mid \Im_t) = S_t E_{\bar{P}}(I_D \mid \Im_t) = S_t \bar{P}(D \mid \Im_t) = S_t \bar{P}(S_T > K \mid \Im_t)$
 
-**D:** Come chiama N il docente nella lezione 14, e che cosa cambia rispetto alla lezione 11?
-**R:** Nella lezione 14 il docente la chiama sempre funzione di ripartizione: «n è il valore della funzione di partizione della normale standardizzata» (transcript [00:00:57], per «ripartizione»); la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» ([00:10:47]); «funzione di ripartizione della normale standardizzata» ([00:28:06]). Nella lezione 11 la chiamava invece «funzione di densità normale» ([00:07:03]). La slide 3 la definisce come nella lezione 11, N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, un integrale da -∞ a x, e qui le dà il numero (74).
+**D:** Come chiama $N$ il docente nella lezione 14, e che cosa cambia rispetto alla lezione 11?
+**R:** Nella lezione 14 il docente la chiama sempre funzione di ripartizione: «n è il valore della funzione di partizione della normale standardizzata» (transcript [00:00:57], per «ripartizione»); la probabilità si calcola «come il valore della funzione di ripartizione di una distribuzione normale standardizzata» ([00:10:47]); «funzione di ripartizione della normale standardizzata» ([00:28:06]). Nella lezione 11 la chiamava invece «funzione di densità normale» ([00:07:03]). La slide 3 la definisce come nella lezione 11, $N(x) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{x} e^{-u^2/2}\,du$, un integrale da $-\infty$ a $x$, e qui le dà il numero (74).
 
 **D:** ⚠️ Qual è il prezzo della Call nel modello di BSM, secondo il test della lezione 14 (domanda 1)?
-**R:** «**Ct=St N(d1) + Ke-rt N(d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. Le slide 3 e 31 scrivono la (33), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), con il **meno** fra i due termini e lo sconto e^(-r(T-t)), dalla scadenza T al tempo t; per la (78) il prezzo è la differenza J_1 - J_2 (slide 8). Il docente: «STN di 1 meno KE alla meno RT grande mentiene di 2» (transcript [00:00:23]), e alla fine S_t per N(d_1) «meno k cioè lo strike per e alla meno r t grande menti piccolo» per N(d_2) ([00:27:53]–[00:28:06]). Il «+» è identico nelle opzioni A, B e C, quindi non discrimina. Le opzioni A, C e D scrivono anche lo sconto «e-rt», mentre la domanda 4 dello stesso test rende bene «e-r(T-t)»: nel deck e^(-rt) è lo sconto di S∗_t = S_te^(-rt) (slide 14), non quello dello strike. La A è la sola con entrambi i termini e, nel secondo, K, lo sconto e N(d2). Distrattori del test: «Ct=St N(d1) + K N(d2)» perde lo sconto; «Ct=St N(d1) + e-rt N(d1)» perde K e mette N(d1) al posto di N(d2); «Ct= Ke-rt N(d2)» perde il primo termine, S_tN(d_1), cioè J_1. ⚠️ Se la domanda torna corretta, con il meno, è quella la risposta.
+**R:** «**Ct=St N(d1) + Ke-rt N(d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. Le slide 3 e 31 scrivono la (33), $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, con il **meno** fra i due termini e lo sconto $e^{-r(T-t)}$, dalla scadenza $T$ al tempo $t$; per la (78) il prezzo è la differenza $J_1 - J_2$ (slide 8). Il docente: «STN di 1 meno KE alla meno RT grande mentiene di 2» (transcript [00:00:23]), e alla fine $S_t$ per $N(d_1)$ «meno k cioè lo strike per e alla meno r t grande menti piccolo» per $N(d_2)$ ([00:27:53]–[00:28:06]). Il «+» è identico nelle opzioni A, B e C, quindi non discrimina. Le opzioni A, C e D scrivono anche lo sconto «e-rt», mentre la domanda 4 dello stesso test rende bene «e-r(T-t)»: nel deck $e^{-rt}$ è lo sconto di $S^{\ast}_t = S_te^{-rt}$ (slide 14), non quello dello strike. La A è la sola con entrambi i termini e, nel secondo, $K$, lo sconto e N(d2). Distrattori del test: «Ct=St N(d1) + K N(d2)» perde lo sconto; «Ct=St N(d1) + e-rt N(d1)» perde $K$ e mette N(d1) al posto di N(d2); «Ct= Ke-rt N(d2)» perde il primo termine, $S_tN(d_1)$, cioè $J_1$. ⚠️ Se la domanda torna corretta, con il meno, è quella la risposta.
 **Opzione:** Ct=St N(d1) + Ke-rt N(d2)
 **Distrattori:**
 - Ct=St N(d1) + K N(d2)
@@ -4860,7 +5049,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Ct= Ke-rt N(d2)
 
 **D:** ⚠️ Qual è la quantità d1 nel modello di BSM, secondo il test della lezione 14 (domanda 2)?
-**R:** «**d1 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }**»: nella resa piatta «s» è σ, «s2» è σ² e «(T-t)1/2» è √(T-t). È la (34) della slide 3, d_1 = [ln(S_t/K) + (r + σ²/2)(T-t)]/(σ√(T-t)), la stessa della lezione 11; nel calcolo di J_1 l'argomento di N è (1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)] (slide 30). Il docente: J_1 ha per argomento «1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:27:18]). La griglia ha tre assi, il logaritmo, il segno davanti alla parentesi e r: solo la D è giusta su tutti e tre. Distrattori del test: «d1 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }» inverte il segno davanti alla parentesi, ed è la chiave della domanda 3; «d1 = {[ln(St/K)+ s2/2(T-t)]/s(T-t)1/2 }» perde r; «d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde ln(St/K), e la quadra si chiude senza essersi aperta.
+**R:** «**d1 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }**»: nella resa piatta «s» è $\sigma$, «s2» è $\sigma^2$ e «(T-t)1/2» è $\sqrt{T-t}$. È la (34) della slide 3, $d_1 = \frac{[\ln(S_t/K) + (r + \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$, la stessa della lezione 11; nel calcolo di $J_1$ l'argomento di $N$ è $\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]$ (slide 30). Il docente: $J_1$ ha per argomento «1 su sigma radice quadrata T grande menti per il logaritmo di ST su K più R più sigma quadro mezzi T grande menti che è proprio la definizione di D1» (transcript [00:27:18]). La griglia ha tre assi, il logaritmo, il segno davanti alla parentesi e $r$: solo la D è giusta su tutti e tre. Distrattori del test: «d1 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }» inverte il segno davanti alla parentesi, ed è la chiave della domanda 3; «d1 = {[ln(St/K)+ s2/2(T-t)]/s(T-t)1/2 }» perde $r$; «d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde ln(St/K), e la quadra si chiude senza essersi aperta.
 **Opzione:** d1 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }
 **Distrattori:**
 - d1 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }
@@ -4868,7 +5057,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - d1 = {(r+s2/2)(T-t)]/s(T-t)1/2 }
 
 **D:** ⚠️ Qual è la quantità d2 nel modello di BSM, secondo il test della lezione 14 (domanda 3)?
-**R:** «**d2 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. La (35) della slide 3 è d_2 = [ln(S_t/K) + (r - σ²/2)(T-t)]/(σ√(T-t)): rispetto a d_1 cambia solo il segno di σ²/2, e r resta con il più. La chiave mette il meno davanti a tutta la parentesi, -(r + σ²/2) = -r - σ²/2, e cambia anche il segno di r. Nel calcolo di J_2 l'argomento di N ha (r - (1/2)σ²) (slide 14–17), e il docente lo legge «più R-sigma quadro mezzi» (transcript [00:11:17]–[00:11:45]). La chiave sembra venire da come il docente riassume la differenza: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» ([00:25:54]). Il test della lezione 16 (domanda 2) dà d_2 = d_1 - σ√(T-t), che riporta a (r - σ²/2) (deduzione). Distrattori del test: «d2 = {[ln(St/K) - (r+s2/2)]/s(T-t)1/2 }» è la chiave senza (T-t); «d2 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde il logaritmo, con lo stesso testo della C della domanda 2; «d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }» è d_1, la chiave della domanda 2. All'esame si segna la B; se la domanda torna corretta, con (r-s2/2), è quella la risposta.
+**R:** «**d2 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: nessuna opzione è fedele alla slide. La (35) della slide 3 è $d_2 = \frac{[\ln(S_t/K) + (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$: rispetto a $d_1$ cambia solo il segno di $\frac{\sigma^2}{2}$, e $r$ resta con il più. La chiave mette il meno davanti a tutta la parentesi, $-(r + \sigma^2/2) = -r - \sigma^2/2$, e cambia anche il segno di $r$. Nel calcolo di $J_2$ l'argomento di $N$ ha $\left(r - \frac{1}{2}\sigma^2\right)$ (slide 14–17), e il docente lo legge «più R-sigma quadro mezzi» (transcript [00:11:17]–[00:11:45]). La chiave sembra venire da come il docente riassume la differenza: «la differenza tra d1 e d2, ricordiamo, è nel segno del termine r più sigma quadro mezzi», «dove c'è il segno meno» ([00:25:54]). Il test della lezione 16 (domanda 2) dà $d_2 = d_1 - \sigma\sqrt{T-t}$, che riporta a $(r - \sigma^2/2)$ (deduzione). Distrattori del test: «d2 = {[ln(St/K) - (r+s2/2)]/s(T-t)1/2 }» è la chiave senza $(T-t)$; «d2 = {(r+s2/2)(T-t)]/s(T-t)1/2 }» perde il logaritmo, con lo stesso testo della C della domanda 2; «d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }» è $d_1$, la chiave della domanda 2. All'esame si segna la B; se la domanda torna corretta, con (r-s2/2), è quella la risposta.
 **Opzione:** d2 = {[ln(St/K) - (r+s2/2)(T-t)]/s(T-t)1/2 }
 **Distrattori:**
 - d2 = {[ln(St/K) - (r+s2/2)]/s(T-t)1/2 }
@@ -4876,7 +5065,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - d2 = {[ln(St/K)+ (r+s2/2)(T-t)]/s(T-t)1/2 }
 
 **D:** ⚠️ Qual è la quantità J2 nel modello di BSM, secondo il test della lezione 14 (domanda 4)?
-**R:** «**J2=Ke-r(T-t)N(d2)**», cioè J_2 = Ke^(-r(T-t))N(d_2): è il secondo termine della (33), che la slide 31 ottiene sostituendo la (79) nella (78). Ci si arriva da J_2 = B_t E_{P∗}(B_T^(-1)K I_D | ℑ_t) (77): B_T^(-1) e K escono dal valore atteso, B_t B_T^(-1) dà e^(-r(T-t)), il valore atteso dell'indicatrice è P∗{S_T > K | ℑ_t}, e la standardizzazione dà N (slide 8–17). Il docente: J_2 «era uguale a k per e alla meno r t grande menti n di 2» (transcript [00:27:46]). ⚠️ La (79) della slide 17 scrive N(d_1), ma è un refuso: l'argomento ha (r - (1/2)σ²), cioè d_2. Tutte le opzioni hanno N(d2), quindi il refuso non pesa. Distrattori del test: «J2=e-r(T-t)N(d2)» perde K; «J2=Ke N(d2)» perde l'esponente dello sconto; «J2=K-r(T-t)N(d2)» perde la «e».
+**R:** «**J2=Ke-r(T-t)N(d2)**», cioè $J_2 = Ke^{-r(T-t)}N(d_2)$: è il secondo termine della (33), che la slide 31 ottiene sostituendo la (79) nella (78). Ci si arriva da $J_2 = B_t E_{P^{\ast}}(B_T^{-1}K I_D \mid \Im_t)$ (77): $B_T^{-1}$ e $K$ escono dal valore atteso, $B_t B_T^{-1}$ dà $e^{-r(T-t)}$, il valore atteso dell'indicatrice è $P^{\ast}\{S_T > K \mid \Im_t\}$, e la standardizzazione dà $N$ (slide 8–17). Il docente: $J_2$ «era uguale a k per e alla meno r t grande menti n di 2» (transcript [00:27:46]). ⚠️ La (79) della slide 17 scrive $N(d_1)$, ma è un refuso: l'argomento ha $\left(r - \frac{1}{2}\sigma^2\right)$, cioè $d_2$. Tutte le opzioni hanno N(d2), quindi il refuso non pesa. Distrattori del test: «J2=e-r(T-t)N(d2)» perde $K$; «J2=Ke N(d2)» perde l'esponente dello sconto; «J2=K-r(T-t)N(d2)» perde la «e».
 **Opzione:** J2=Ke-r(T-t)N(d2)
 **Distrattori:**
 - J2=e-r(T-t)N(d2)
@@ -4884,7 +5073,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - J2=K-r(T-t)N(d2)
 
 **D:** ⚠️ Qual è la quantità J1 nel modello di BSM, secondo il test della lezione 14 (domanda 5)?
-**R:** «**J1=StN(d1)**», cioè J_1 = S_tN(d_1), la (80) della slide 30. Ci si arriva con un cambio di misura: la derivata di Radon-Nikodym η_t = ∂P̄/∂P∗|_t = e^(-(σ²/2)t + σW∗_t) definisce la nuova misura P̄, sotto la quale W̄_t = W∗_t - σt è un moto browniano per il teorema di Girsanov (slide 20); con il teorema di Bayes J_1 diventa S_t P̄(S_T > K | ℑ_t) (slide 22–24), e la standardizzazione sotto P̄ dà N(d_1). Lo sconto non c'è perché, con S∗_t = S_t/B_t, B_t si semplifica (slide 24). Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1» (transcript [00:27:37]). La griglia ha due assi, sconto sì o no e N(d1) o N(d2): solo la B è senza sconto e con N(d1). Distrattori del test: «J1=St-r(T-t)N(d1)» aggiunge lo sconto, scritto senza la «e», e anche letto come S_te^(-r(T-t)) resta falso; «J1=StN(d2)» scambia d_1 con d_2; «J1=St-r(T-t)N(d2)» sbaglia entrambi gli assi. ⚠️ Nel test della lezione 15 la stessa scrittura «St-r(T-t)N(d1)» è la chiave di un'altra domanda, sul primo integrale ∫k+∞ y fY(y)dy: lì non è J_1.
+**R:** «**J1=StN(d1)**», cioè $J_1 = S_tN(d_1)$, la (80) della slide 30. Ci si arriva con un cambio di misura: la derivata di Radon-Nikodym $\eta_t = \frac{\partial\bar{P}}{\partial P^{\ast}}\Big|_t = e^{-(\sigma^2/2)t + \sigma W^{\ast}_t}$ definisce la nuova misura $\bar{P}$, sotto la quale $\bar{W}_t = W^{\ast}_t - \sigma t$ è un moto browniano per il teorema di Girsanov (slide 20); con il teorema di Bayes $J_1$ diventa $S_t \bar{P}(S_T > K \mid \Im_t)$ (slide 22–24), e la standardizzazione sotto $\bar{P}$ dà $N(d_1)$. Lo sconto non c'è perché, con $S^{\ast}_t = \frac{S_t}{B_t}$, $B_t$ si semplifica (slide 24). Il docente: «Abbiamo quindi dimostrato che J1 è uguale a ST piccolo ND1» (transcript [00:27:37]). La griglia ha due assi, sconto sì o no e N(d1) o N(d2): solo la B è senza sconto e con N(d1). Distrattori del test: «J1=St-r(T-t)N(d1)» aggiunge lo sconto, scritto senza la «e», e anche letto come $S_te^{-r(T-t)}$ resta falso; «J1=StN(d2)» scambia $d_1$ con $d_2$; «J1=St-r(T-t)N(d2)» sbaglia entrambi gli assi. ⚠️ Nel test della lezione 15 la stessa scrittura «St-r(T-t)N(d1)» è la chiave di un'altra domanda, sul primo integrale ∫k+∞ y fY(y)dy: lì non è $J_1$.
 **Opzione:** J1=StN(d1)
 **Distrattori:**
 - J1=St-r(T-t)N(d1)
@@ -5187,67 +5376,67 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 16 — Pricing 9 - Modello Black-Scholes-Merton Teorema di Feynman-Cac
 
 **D:** ⚠️ Quale integrale calcola la lezione 16 come «secondo integrale dell'espressione (83)», e quale densità vi si sostituisce (slide 3)?
-**R:** Slide 3: «Si calcola il secondo integrale dell'espressione (83): ∫_K^{+∞} f_Y(y)dy = ∫_K^{+∞} 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) dy». La (83) è nel deck della lezione 15 (slide 16): E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = ∫_K^{+∞} y f_Y(y)dy - K∫_K^{+∞} f_Y(y)dy, con y = S_T. Il docente: «Calcoliamo quindi il secondo integrale dell'espressione 83, cioè l'integrale tra k e più infinito di f di y in y in dy», poi «Sostituiamo banalmente la nostra funzione di densità di probabilità di y» (transcript [00:00:14]–[00:00:27]). ⚠️ Nel secondo integrale non c'è la y davanti a f_Y(y): quella sta nel primo, la (84).
-**Opzione:** ∫_K^{+∞} f_Y(y)dy, con f_Y(y) = 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t)))
+**R:** Slide 3: «Si calcola il secondo integrale dell'espressione (83): $\int_K^{+\infty} f_Y(y)\,dy = \int_K^{+\infty} \frac{1}{\sigma y\sqrt{2\pi(T-t)}} e^{-\frac{[\ln y - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}\,dy$». La (83) è nel deck della lezione 15 (slide 16): $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = \int_K^{+\infty} y f_Y(y)\,dy - K\int_K^{+\infty} f_Y(y)\,dy$, con $y = S_T$. Il docente: «Calcoliamo quindi il secondo integrale dell'espressione 83, cioè l'integrale tra k e più infinito di f di y in y in dy», poi «Sostituiamo banalmente la nostra funzione di densità di probabilità di y» (transcript [00:00:14]–[00:00:27]). ⚠️ Nel secondo integrale non c'è la $y$ davanti a $f_Y(y)$: quella sta nel primo, la (84).
+**Opzione:** $\int_K^{+\infty} f_Y(y)\,dy$, con $f_Y(y) = \frac{1}{\sigma y\sqrt{2\pi(T-t)}} e^{-\frac{[\ln y - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$
 **Distrattori:**
-- ∫_K^{+∞} y f_Y(y)dy, con f_Y(y) = 1/(σy√(2π(T-t))) e^(-[ln y - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t)))
-- ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
-- ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
+- $\int_K^{+\infty} y f_Y(y)\,dy$, con $f_Y(y) = \frac{1}{\sigma y\sqrt{2\pi(T-t)}} e^{-\frac{[\ln y - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$
+- $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)\sqrt{T-t}$
+- $\frac{\partial N(d_1)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_1)}{\partial S_t}$ e $\frac{\partial N(d_2)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_2)}{\partial S_t}$
 
 **D:** ⚠️ Con quale primo cambio di variabile si calcola il secondo integrale nella lezione 16, e che cosa se ne ottiene (slide 4)?
-**R:** Slide 4: «scegliendo y = e^x ne discende dy = ydx cioè dy = e^x dx, e quindi, si ottiene: = ∫_K^{+∞} 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) dx». Il docente: «ripeteremo i passaggi che abbiamo già effettuato per il primo integrale e sceglieremo quindi il cambio di variabile y uguale e alla x, che vuol dire dy uguale y dx, cioè dy uguale e alla x in dx» (transcript [00:00:53]). ⚠️ Con dy = ydx la y al denominatore della densità si semplifica, e ln y diventa x. La slide lascia l'estremo inferiore K anche dopo il cambio di variabile: ln K compare nella slide 5.
-**Opzione:** y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+**R:** Slide 4: «scegliendo $y = e^x$ ne discende $dy = y\,dx$ cioè $dy = e^x\,dx$, e quindi, si ottiene: $= \int_K^{+\infty} \frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}\,dx$». Il docente: «ripeteremo i passaggi che abbiamo già effettuato per il primo integrale e sceglieremo quindi il cambio di variabile y uguale e alla x, che vuol dire dy uguale y dx, cioè dy uguale e alla x in dx» (transcript [00:00:53]). ⚠️ Con $dy = y\,dx$ la $y$ al denominatore della densità si semplifica, e $\ln y$ diventa $x$. La slide lascia l'estremo inferiore $K$ anche dopo il cambio di variabile: $\ln K$ compare nella slide 5.
+**Opzione:** $y = e^x$, quindi $dy = y\,dx = e^x\,dx$: la $y$ al denominatore di $f_Y$ si semplifica e resta l'integrale di $\frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$ in $dx$
 **Distrattori:**
-- y = ln x, quindi dy = dx/x: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
-- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
-- ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+- $y = \ln x$, quindi $dy = \frac{dx}{x}$: la $y$ al denominatore di $f_Y$ si semplifica e resta l'integrale di $\frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$ in $dx$
+- $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$
+- $\frac{\partial d_1}{\partial r} = \frac{\partial d_2}{\partial r}$, perché $\sigma\sqrt{T-t}$ non dipende da $r$
 
 **D:** ⚠️ Con quale secondo cambio di variabile prosegue il calcolo del secondo integrale, e quale estremo inferiore se ne ottiene (slide 5)?
-**R:** Slide 5: «scegliendo ancora [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)) = u, si ottiene: = ∫ 1/(σ√(2π(T-t))) e^(-u²/2) (σ√(T-t)) du», da (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t)) a +∞. Il docente: un cambio di variabile «più invasivo dal punto di vista strutturale», che «ci consente di semplificare l'argomento dell'integrale» e di riscrivere «l'intervallo di integrazione in particolare l'estremo inferiore» (transcript [00:01:37]–[00:02:30]). ⚠️ Nel drift c'è r - σ²/2, quello della densità di y; il fattore (σ√(T-t)) accanto a e^(-u²/2) viene da dx = σ√(T-t)du.
-**Opzione:** u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
+**R:** Slide 5: «scegliendo ancora $\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}} = u$, si ottiene: $= \int \frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-u^2/2} (\sigma\sqrt{T-t})\,du$», da $\frac{\ln K - \ln S_t - (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$. Il docente: un cambio di variabile «più invasivo dal punto di vista strutturale», che «ci consente di semplificare l'argomento dell'integrale» e di riscrivere «l'intervallo di integrazione in particolare l'estremo inferiore» (transcript [00:01:37]–[00:02:30]). ⚠️ Nel drift c'è $r - \sigma^2/2$, quello della densità di $y$; il fattore $(\sigma\sqrt{T-t})$ accanto a $e^{-u^2/2}$ viene da $dx = \sigma\sqrt{T-t}\,du$.
+**Opzione:** $u = \frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$; l'estremo inferiore diventa $\frac{\ln K - \ln S_t - (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$
 **Distrattori:**
-- u = [x - ln S_t - (r + σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r + σ²/2)(T-t))/(σ√(T-t))
-- DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
-- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+- $u = \frac{[x - \ln S_t - (r + \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$; l'estremo inferiore diventa $\frac{\ln K - \ln S_t - (r + \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$
+- $\mathrm{Dual}\Delta_C = \frac{\partial C_t}{\partial K} = -e^{-r(T-t)}N(d_2)$
+- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in $d_1$ e in $d_2$, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
 
-**D:** ⚠️ Che integrale resta, nella lezione 16, dopo aver semplificato σ√(T-t), e come se ne riscrive l'estremo inferiore (slide 6–7)?
-**R:** Slide 6: «semplificando σ√(T-t)» resta l'integrale di (1/√(2π)) e^(-u²/2) du, «o alternativamente» con l'estremo inferiore -(ln S_t - ln K + (r - σ²/2)(T-t))/(σ√(T-t)); slide 7: «semplificando l'estremo inferiore di integrazione utilizzando una proprietà elementare dei logaritmi», l'integrale di (1/√(2π)) e^(-½u²) du va da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞. Il docente: «il nostro integrale diventa già l'integrale di una normale standardizzata», e l'estremo inferiore si riesprime «invertendo il logaritmo di S con il logaritmo di K e mettendo il meno davanti» (transcript [00:02:45]–[00:03:18]). ⚠️ Il meno sta davanti a tutta la frazione.
-**Opzione:** L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+**D:** ⚠️ Che integrale resta, nella lezione 16, dopo aver semplificato $\sigma\sqrt{T-t}$, e come se ne riscrive l'estremo inferiore (slide 6–7)?
+**R:** Slide 6: «semplificando $\sigma\sqrt{T-t}$» resta l'integrale di $\frac{1}{\sqrt{2\pi}} e^{-u^2/2}\,du$, «o alternativamente» con l'estremo inferiore $-\frac{\ln S_t - \ln K + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$; slide 7: «semplificando l'estremo inferiore di integrazione utilizzando una proprietà elementare dei logaritmi», l'integrale di $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}\,du$ va da $-\frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$. Il docente: «il nostro integrale diventa già l'integrale di una normale standardizzata», e l'estremo inferiore si riesprime «invertendo il logaritmo di S con il logaritmo di K e mettendo il meno davanti» (transcript [00:02:45]–[00:03:18]). ⚠️ Il meno sta davanti a tutta la frazione.
+**Opzione:** L'integrale della normale standardizzata $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}$, da $-\frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$
 **Distrattori:**
-- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
-- ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
-- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
+- L'integrale della normale standardizzata $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}$, da $\frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$
+- $\frac{\partial^2C}{\partial S_t^2} = \Gamma_C = N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$
+- La (33) è una funzione omogenea di ordine 1, quindi $C_t(S,K) = \frac{\partial C_t}{\partial S_t} S_t + \frac{\partial C_t}{\partial K} K$
 
-**D:** ⚠️ Quale grandezza riconosce la lezione 16 nell'estremo inferiore del secondo integrale, e come si arriva a N(d_2) (slide 8–9)?
-**R:** Slide 8: «definendo l'estremo inferiore di integrazione come d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) si ottiene: = ∫_{-d_2}^{+∞} (1/√(2π)) e^(-½u²) du»; slide 9: «= ∫_{-∞}^{d_2} (1/√(2π)) e^(-½u²) du ovvero: = N(d_2)». Il docente: «In questa quantità riconosciamo la quantità di 2» ([00:03:35]); poi, «utilizzando le proprietà di simmetria della distribuzione normale», l'integrale si riscrive «non tra meno di 2 e infinito, ma tra meno infinito e di 2», cioè N(d_2) ([00:04:03]). ⚠️ L'estremo è -d_2, ma per simmetria il risultato è N(d_2), non N(-d_2). La simmetria la nomina solo il docente: la slide 9 ripete la didascalia «definendo l'estremo inferiore di integrazione come».
-**Opzione:** -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
+**D:** ⚠️ Quale grandezza riconosce la lezione 16 nell'estremo inferiore del secondo integrale, e come si arriva a $N(d_2)$ (slide 8–9)?
+**R:** Slide 8: «definendo l'estremo inferiore di integrazione come $d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ si ottiene: $= \int_{-d_2}^{+\infty} \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}\,du$»; slide 9: «$= \int_{-\infty}^{d_2} \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}\,du$ ovvero: $= N(d_2)$». Il docente: «In questa quantità riconosciamo la quantità di 2» ([00:03:35]); poi, «utilizzando le proprietà di simmetria della distribuzione normale», l'integrale si riscrive «non tra meno di 2 e infinito, ma tra meno infinito e di 2», cioè $N(d_2)$ ([00:04:03]). ⚠️ L'estremo è $-d_2$, ma per simmetria il risultato è $N(d_2)$, non $N(-d_2)$. La simmetria la nomina solo il docente: la slide 9 ripete la didascalia «definendo l'estremo inferiore di integrazione come».
+**Opzione:** $-d_2$, con $d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$: per simmetria l'integrale da $-d_2$ a $+\infty$ diventa quello da $-\infty$ a $d_2$, cioè $N(d_2)$
 **Distrattori:**
-- -d_1, con d_1 = (ln(S_t/K) + (r + σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_1 a +∞ diventa quello da -∞ a d_1, cioè N(d_1)
-- DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
-- ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+- $-d_1$, con $d_1 = \frac{\ln(S_t/K) + (r + \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$: per simmetria l'integrale da $-d_1$ a $+\infty$ diventa quello da $-\infty$ a $d_1$, cioè $N(d_1)$
+- $\mathrm{Dual}\Gamma_C = \frac{\partial^2C_t}{\partial K^2} = \frac{S_t}{K}e^{-r(T-t)} \cdot N'(d_2) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$
+- $\frac{\partial d_1}{\partial S} = \frac{\partial d_2}{\partial S}$, perché $\sigma\sqrt{T-t}$ non dipende da $S$
 
 **D:** ⚠️ Come si scrive il risultato del secondo integrale nella lezione 16 (formula (85))?
-**R:** Slide 10: «quindi, il secondo integrale può essere riscritto nella forma: ∫_K^{+∞} f_Y(y)dy = N(d_2) (85)». Il docente: «Il secondo integrale può essere quindi, cioè l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). ⚠️ È N(d_2), con l'integrando senza y; il primo integrale, con la y, vale S_t e^(r(T-t)) N(d_1) (84, deck della lezione 15, slide 34). È la chiave della domanda 1 del test.
-**Opzione:** ∫_K^{+∞} f_Y(y)dy = N(d_2)
+**R:** Slide 10: «quindi, il secondo integrale può essere riscritto nella forma: $\int_K^{+\infty} f_Y(y)\,dy = N(d_2)$ (85)». Il docente: «Il secondo integrale può essere quindi, cioè l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). ⚠️ È $N(d_2)$, con l'integrando senza $y$; il primo integrale, con la $y$, vale $S_t e^{r(T-t)} N(d_1)$ (84, deck della lezione 15, slide 34). È la chiave della domanda 1 del test.
+**Opzione:** $\int_K^{+\infty} f_Y(y)\,dy = N(d_2)$
 **Distrattori:**
-- ∫_K^{+∞} f_Y(y)dy = N(-d_2)
-- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
-- ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+- $\int_K^{+\infty} f_Y(y)\,dy = N(-d_2)$
+- $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$
+- $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$
 
 **D:** ⚠️ Che cosa si ottiene, nella lezione 16, sostituendo la (84) e la (85) nella (83) (formula (86))?
-**R:** Slide 11: «sostituendo le espressioni (84) e (85) all'interno dell'equazione (83), infine si ottiene: E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2) (86)». Il docente: il valore atteso, con S_T sostituito «per il random walk esponenziale, è uguale ad st piccolo per l'esponenziale di rt grande menti n di 1 meno k n di 2» (transcript [00:04:37]). ⚠️ Nella (86) K non è ancora scontato e S_t ha il fattore e^(r(T-t)): è un valore atteso, non ancora il prezzo. Lo sconto arriva con la (82).
-**Opzione:** E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
+**R:** Slide 11: «sostituendo le espressioni (84) e (85) all'interno dell'equazione (83), infine si ottiene: $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = S_t e^{r(T-t)} N(d_1) - KN(d_2)$ (86)». Il docente: il valore atteso, con $S_T$ sostituito «per il random walk esponenziale, è uguale ad st piccolo per l'esponenziale di rt grande menti n di 1 meno k n di 2» (transcript [00:04:37]). ⚠️ Nella (86) $K$ non è ancora scontato e $S_t$ ha il fattore $e^{r(T-t)}$: è un valore atteso, non ancora il prezzo. Lo sconto arriva con la (82).
+**Opzione:** $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = S_t e^{r(T-t)} N(d_1) - KN(d_2)$
 **Distrattori:**
-- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
-- ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+- $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$
+- $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$
 - Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
 
 **D:** ⚠️ Come si chiude, nella lezione 16, la derivazione del prezzo della call con il metodo dell'equazione alle derivate parziali?
-**R:** Slide 12: «sostituendo all'interno dell'espressione (82) il calcolo esplicito del valore atteso riportato nell'espressione (86): C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)», con d_1 = (ln s + (r + σ²/2)(T-t) - ln K)/(σ√(T-t)) e d_2 = (ln s + (r - σ²/2)(T-t) - ln K)/(σ√(T-t)), «Q.E.D.». Il docente: «Effettuiamo le moltiplicazioni e le semplificazioni e otteniamo quindi la nostra tesi» ([00:05:36]); «anche col metodo delle equazioni differenziali» si è ottenuto «il prezzo di un'opzione call europea con il modello di Black, Scholes e Merton» ([00:06:10]). ⚠️ Lo sconto e^(-r(T-t)) elide e^(r(T-t)) su S_t e resta su K: è la (33) della lezione 11. La slide scrive «ln s» minuscolo per ln S_t.
-**Opzione:** C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+**R:** Slide 12: «sostituendo all'interno dell'espressione (82) il calcolo esplicito del valore atteso riportato nell'espressione (86): $C_t = e^{-r(T-t)} [S_t e^{r(T-t)} N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$», con $d_1 = \frac{\ln s + (r + \sigma^2/2)(T-t) - \ln K}{\sigma\sqrt{T-t}}$ e $d_2 = \frac{\ln s + (r - \sigma^2/2)(T-t) - \ln K}{\sigma\sqrt{T-t}}$, «Q.E.D.». Il docente: «Effettuiamo le moltiplicazioni e le semplificazioni e otteniamo quindi la nostra tesi» ([00:05:36]); «anche col metodo delle equazioni differenziali» si è ottenuto «il prezzo di un'opzione call europea con il modello di Black, Scholes e Merton» ([00:06:10]). ⚠️ Lo sconto $e^{-r(T-t)}$ elide $e^{r(T-t)}$ su $S_t$ e resta su $K$: è la (33) della lezione 11. La slide scrive «$\ln s$» minuscolo per $\ln S_t$.
+**Opzione:** $C_t = e^{-r(T-t)} [S_t e^{r(T-t)} N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$
 **Distrattori:**
-- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - KN(d_2)
-- d_2 = d_1 - σ√(T-t)
+- $C_t = e^{-r(T-t)} [S_t e^{r(T-t)} N(d_1) - KN(d_2)] = S_tN(d_1) - KN(d_2)$
+- $d_2 = d_1 - \sigma\sqrt{T-t}$
 - Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
 
 **D:** ⚠️ Quale «strumentario» di pricing della call europea riepiloga il docente della lezione 16, dopo la derivazione con l'equazione alle derivate parziali?
@@ -5255,212 +5444,212 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
 **Distrattori:**
 - Il CRR, modello continuo e binomiale; il modello discreto ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
-- ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
-- S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+- $\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} - \frac{\sigma}{2\sqrt{T-t}}$
+- $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2) = 0$, dove $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$
 
 **D:** ⚠️ Che cosa sono le greche per il docente della lezione 16, e a che cosa servono?
 **R:** Slide 13: «Greche e gestione del rischio». Il docente: si studia «come fa un operatore che ha assunto dei rischi vendendo un'opzione call o comprando un'opzione call a poter tutelare il valore del proprio portafoglio da oscillazioni del valore del sottostante» ([00:07:40]); le greche «sono degli strumenti di sensitività, cioè come varia per esempio il prezzo della col al variare del prezzo del sottostante, come varia il prezzo della col al variare della volatilità» ([00:08:05]); «intuitivamente parliamo, se ci pensate, di derivate prime, cioè di variazioni del prezzo della colla al variare di una variabile identificata» ([00:09:27]). Danno una «qualificazione attraverso uno strumento numerico» alla tabella intuitiva delle sensitività della lezione 05 ([00:08:49]). ⚠️ Varia il prezzo della call, al variare della variabile: non il contrario.
 **Opzione:** Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
 **Distrattori:**
 - Strumenti di sensitività: derivate prime, cioè variazioni di una variabile identificata al variare del prezzo della call, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
-- S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
-- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+- $S_t \frac{\partial N(d_1)}{\partial K} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K} = 0$
+- $C_t = e^{-r(T-t)} [S_t e^{r(T-t)} N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$
 
-**D:** ⚠️ Quale relazione fra d_1 e d_2 enuncia la proposizione (87) della lezione 16?
-**R:** Slide 14, «Proposizione»: «Vale la seguente relazione tra d_1 e d_2: d_2 = d_1 - σ√(T-t) (87)». Il docente: è la prima delle «quantità utili preliminari» per le greche, «D2 è uguale a D1 meno sigma radice di T» (transcript [00:09:59]–[00:10:25]; nel transcript manca il «-t» di T - t). ⚠️ Il segno è meno e c'è σ: d_2 è d_1 diminuito di σ√(T-t). È la chiave della domanda 2 del test.
-**Opzione:** d_2 = d_1 - σ√(T-t)
+**D:** ⚠️ Quale relazione fra $d_1$ e $d_2$ enuncia la proposizione (87) della lezione 16?
+**R:** Slide 14, «Proposizione»: «Vale la seguente relazione tra $d_1$ e $d_2$: $d_2 = d_1 - \sigma\sqrt{T-t}$ (87)». Il docente: è la prima delle «quantità utili preliminari» per le greche, «D2 è uguale a D1 meno sigma radice di T» (transcript [00:09:59]–[00:10:25]; nel transcript manca il «-t» di $T - t$). ⚠️ Il segno è meno e c'è $\sigma$: $d_2$ è $d_1$ diminuito di $\sigma\sqrt{T-t}$. È la chiave della domanda 2 del test.
+**Opzione:** $d_2 = d_1 - \sigma\sqrt{T-t}$
 **Distrattori:**
-- d_2 = d_1 + σ√(T-t)
-- S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
-- ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
+- $d_2 = d_1 + \sigma\sqrt{T-t}$
+- $S_t \frac{\partial N(d_1)}{\partial S_t} + K \frac{\partial N(d_1)}{\partial K} = 0$ e $S_t \frac{\partial N(d_2)}{\partial S_t} + K \frac{\partial N(d_2)}{\partial K} = 0$
+- $\frac{\partial^2C}{\partial S_t^2} = \Gamma_C = N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$
 
-**D:** ⚠️ Come si dimostra la (87), d_2 = d_1 - σ√(T-t), nella lezione 16 (slide 14)?
-**R:** Slide 14: «Calcolando direttamente: d_2 ≟ d_1 - σ√(T-t) Utilizzando l'espressione (34): d_2 ≟ [ln(S_t/K) + (r + ½σ²)(T-t)]/(σ√(T-t)) - σ√(T-t) semplificando: d_2 ≟ [ln(S_t/K) + (r + ½σ²)(T-t) - σ²(T-t)]/(σ√(T-t)) d_2 ≟ [ln(S_t/K) + (r - ½σ²)(T-t)]/(σ√(T-t)) Q.E.D.». Il docente: «Andiamo a effettuare il denominatore comune, che quindi porta meno sigma quadro mezzi di grande menti nel numeratore», e si ottiene d_2, «che ricordiamo rispetto a d1 si distingue per il segno meno all'interno del drift» (transcript [00:10:39]–[00:11:14]). ⚠️ Al denominatore comune σ√(T-t) diventa σ²(T-t), e (r + ½σ²) - σ² = (r - ½σ²).
-**Opzione:** Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
+**D:** ⚠️ Come si dimostra la (87), $d_2 = d_1 - \sigma\sqrt{T-t}$, nella lezione 16 (slide 14)?
+**R:** Slide 14: «Calcolando direttamente: $d_2 \stackrel{?}{=} d_1 - \sigma\sqrt{T-t}$ Utilizzando l'espressione (34): $d_2 \stackrel{?}{=} \frac{[\ln(S_t/K) + (r + \frac{1}{2}\sigma^2)(T-t)]}{\sigma\sqrt{T-t}} - \sigma\sqrt{T-t}$ semplificando: $d_2 \stackrel{?}{=} \frac{[\ln(S_t/K) + (r + \frac{1}{2}\sigma^2)(T-t) - \sigma^2(T-t)]}{\sigma\sqrt{T-t}}$ $d_2 \stackrel{?}{=} \frac{[\ln(S_t/K) + (r - \frac{1}{2}\sigma^2)(T-t)]}{\sigma\sqrt{T-t}}$ Q.E.D.». Il docente: «Andiamo a effettuare il denominatore comune, che quindi porta meno sigma quadro mezzi di grande menti nel numeratore», e si ottiene $d_2$, «che ricordiamo rispetto a d1 si distingue per il segno meno all'interno del drift» (transcript [00:10:39]–[00:11:14]). ⚠️ Al denominatore comune $\sigma\sqrt{T-t}$ diventa $\sigma^2(T-t)$, e $(r + \frac{1}{2}\sigma^2) - \sigma^2 = (r - \frac{1}{2}\sigma^2)$.
+**Opzione:** Si sostituisce $d_1$ con la (34) e si porta $\sigma\sqrt{T-t}$ al denominatore comune: il numeratore perde $\sigma^2(T-t)$, e $(r + \frac{1}{2}\sigma^2)(T-t)$ diventa $(r - \frac{1}{2}\sigma^2)(T-t)$.
 **Distrattori:**
-- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore guadagna σ²(T-t), e (r - ½σ²)(T-t) diventa (r + ½σ²)(T-t).
+- Si sostituisce $d_1$ con la (34) e si porta $\sigma\sqrt{T-t}$ al denominatore comune: il numeratore guadagna $\sigma^2(T-t)$, e $(r - \frac{1}{2}\sigma^2)(T-t)$ diventa $(r + \frac{1}{2}\sigma^2)(T-t)$.
 - Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
-- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
+- $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = S_t e^{r(T-t)} N(d_1) - KN(d_2)$
 
-**D:** ⚠️ Quale identità fra S_t, K e le densità in d_1 e d_2 enuncia la proposizione (88) della lezione 16, e come vi è definita N'(x)?
-**R:** Slide 15, «Proposizione»: «Data la formula (33), vale la seguente identità: S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0 (88) dove N'(x) = (1/√(2π)) e^(-½x²)». Il docente: è «una formula interessante che rappresenta una relazione tra il sottostante e la sua funzione di densità e lo strike e la sua funzione di densità» ([00:11:14]); N' «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi» ([00:11:32]). ⚠️ È una differenza uguale a zero, con lo strike **scontato** Ke^(-r(T-t)). ⚠️ N'(x) è la densità normale, senza integrale: N(x) della lezione 11 è l'integrale da -∞ a x.
-**Opzione:** S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+**D:** ⚠️ Quale identità fra $S_t$, $K$ e le densità in $d_1$ e $d_2$ enuncia la proposizione (88) della lezione 16, e come vi è definita $N'(x)$?
+**R:** Slide 15, «Proposizione»: «Data la formula (33), vale la seguente identità: $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2) = 0$ (88) dove $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$». Il docente: è «una formula interessante che rappresenta una relazione tra il sottostante e la sua funzione di densità e lo strike e la sua funzione di densità» ([00:11:14]); $N'$ «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi» ([00:11:32]). ⚠️ È una differenza uguale a zero, con lo strike **scontato** $Ke^{-r(T-t)}$. ⚠️ $N'(x)$ è la densità normale, senza integrale: $N(x)$ della lezione 11 è l'integrale da $-\infty$ a $x$.
+**Opzione:** $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2) = 0$, dove $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$
 **Distrattori:**
-- S_tN'(d_1) - KN'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
+- $S_tN'(d_1) - KN'(d_2) = 0$, dove $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$
 - Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
-- u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
+- $u = \frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$; l'estremo inferiore diventa $\frac{\ln K - \ln S_t - (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$
 
-**D:** ⚠️ Come interpreta il docente della lezione 16 l'identità (88), S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0?
-**R:** Il docente: «Come a dire intuitivamente che l'evoluzione stocastica del sottostante rispetto allo strike in un'opzione, dato il cambio di misura, perché la misura di probabilità in D1 è diversa da quella in D2, devono alla fine pareggiarsi, essere equivalenti al netto del valore finanziario del tempo. Se ci pensate è una rappresentazione di un concetto di neutralità a rischio e di misura di non arbitraggio», perché «il sottostante alla fine si deve muovere probabilisticamente come una analoga quantità k scontata del valore del tempo» (transcript [00:11:56]–[00:12:23]). L'interpretazione è solo nel transcript. ⚠️ Le misure in d_1 e in d_2 sono diverse; il pareggio è al netto del valore finanziario del tempo, cioè con K scontato.
-**Opzione:** Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+**D:** ⚠️ Come interpreta il docente della lezione 16 l'identità (88), $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2) = 0$?
+**R:** Il docente: «Come a dire intuitivamente che l'evoluzione stocastica del sottostante rispetto allo strike in un'opzione, dato il cambio di misura, perché la misura di probabilità in D1 è diversa da quella in D2, devono alla fine pareggiarsi, essere equivalenti al netto del valore finanziario del tempo. Se ci pensate è una rappresentazione di un concetto di neutralità a rischio e di misura di non arbitraggio», perché «il sottostante alla fine si deve muovere probabilisticamente come una analoga quantità k scontata del valore del tempo» (transcript [00:11:56]–[00:12:23]). L'interpretazione è solo nel transcript. ⚠️ Le misure in $d_1$ e in $d_2$ sono diverse; il pareggio è al netto del valore finanziario del tempo, cioè con $K$ scontato.
+**Opzione:** Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in $d_1$ e in $d_2$, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
 **Distrattori:**
-- Le evoluzioni probabilistiche di sottostante e strike, sotto la stessa misura in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
-- Nello spazio neutro al rischio, eliminando dW con Δ = ∂f/∂S, il portafoglio è privo di rischio; nello spazio di non arbitraggio, con dπ = rπdt, non consente strategie di arbitraggio.
-- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+- Le evoluzioni probabilistiche di sottostante e strike, sotto la stessa misura in $d_1$ e in $d_2$, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+- Nello spazio neutro al rischio, eliminando $dW$ con $\Delta = \partial f/\partial S$, il portafoglio è privo di rischio; nello spazio di non arbitraggio, con $d\pi = r\pi\,dt$, non consente strategie di arbitraggio.
+- $\frac{\partial C_t}{\partial S_t} = S_t \frac{\partial N(d_1)}{\partial S_t} + N(d_1) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t}$ e $\frac{\partial C_t}{\partial K} = S_t \frac{\partial N(d_1)}{\partial K} - e^{-r(T-t)} N(d_2) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$
 
 **D:** ⚠️ Come si dimostra la (88) nella lezione 16: quale espressione si sostituisce, e a che cosa si riduce la parentesi (slide 15–18)?
-**R:** Slide 15: sostituite le densità, «utilizzando l'epressione (87)» il termine in d_2 diventa e^(-½(d_1 - σ√(T-t))²). Slide 16: «semplificando» e «fattorizzando», (1/√(2π)) e^(-½(d_1)²) · [S_t - Ke^(-r(T-t)) e^(-½σ²(T-t) + d_1σ√(T-t))] ≟ 0, e si sostituisce d_1 «utilizzando l'espressione (34)». Slide 17–18: la parentesi diventa [S_t - Ke^(ln S - ln K)], poi [S_t - e^(ln K + ln S_t - ln K)], [S_t - e^(ln S_t)] e [S_t - S_t] = 0, Q.E.D. Il docente: «SDT meno SDT fa 0 0 per una quantità è uguale a 0» (transcript [00:12:23]–[00:15:25]). ⚠️ Si scrive d_2 in funzione di d_1 con la (87), e la parentesi si annulla perché e^(ln S_t) = S_t.
-**Opzione:** Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
+**R:** Slide 15: sostituite le densità, «utilizzando l'epressione (87)» il termine in $d_2$ diventa $e^{-\frac{1}{2}(d_1 - \sigma\sqrt{T-t})^2}$. Slide 16: «semplificando» e «fattorizzando», $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(d_1)^2} \cdot [S_t - Ke^{-r(T-t)} e^{-\frac{1}{2}\sigma^2(T-t) + d_1\sigma\sqrt{T-t}}] \stackrel{?}{=} 0$, e si sostituisce $d_1$ «utilizzando l'espressione (34)». Slide 17–18: la parentesi diventa $[S_t - Ke^{\ln S - \ln K}]$, poi $[S_t - e^{\ln K + \ln S_t - \ln K}]$, $[S_t - e^{\ln S_t}]$ e $[S_t - S_t] = 0$, Q.E.D. Il docente: «SDT meno SDT fa 0 0 per una quantità è uguale a 0» (transcript [00:12:23]–[00:15:25]). ⚠️ Si scrive $d_2$ in funzione di $d_1$ con la (87), e la parentesi si annulla perché $e^{\ln S_t} = S_t$.
+**Opzione:** Con la (87) si scrive $N'(d_2)$ in funzione di $d_1$, si fattorizza $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(d_1)^2}$ e, con la (34), la parentesi diventa $[S_t - e^{\ln S_t}] = [S_t - S_t] = 0$.
 **Distrattori:**
-- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln K)] = [S_t - K] = 0.
-- y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
-- DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+- Con la (87) si scrive $N'(d_2)$ in funzione di $d_1$, si fattorizza $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(d_1)^2}$ e, con la (34), la parentesi diventa $[S_t - e^{\ln K}] = [S_t - K] = 0$.
+- $y = e^x$, quindi $dy = y\,dx = e^x\,dx$: la $y$ al denominatore di $f_Y$ si semplifica e resta l'integrale di $\frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$ in $dx$
+- $\mathrm{Dual}\Gamma_C = \frac{\partial^2C_t}{\partial K^2} = \frac{S_t}{K}e^{-r(T-t)} \cdot N'(d_2) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$
 
-**D:** ⚠️ Che relazione c'è fra ∂d_1/∂S e ∂d_2/∂S nella lezione 16 (formula (89)), e perché?
-**R:** Slide 19: «Data la formula (33), vale la seguente relazione: ∂d_1/∂S = ∂d_2/∂S (89)». Slide 20: «utlizzando l'equazione (87) si ottiene: ∂d_2/∂S_t ≟ ∂/∂S_t [d_1 - σ√(T-t)] quindi: ∂d_2/∂S_t = ∂d_1/∂S_t Q.E.D.». Il docente: «è sufficiente richiamare la definizione di D2, la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:15:49]–[00:16:49]). ⚠️ Le due derivate sono **uguali**, perché σ√(T-t) non dipende da S. È la chiave della domanda 3 del test.
-**Opzione:** ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+**D:** ⚠️ Che relazione c'è fra $\frac{\partial d_1}{\partial S}$ e $\frac{\partial d_2}{\partial S}$ nella lezione 16 (formula (89)), e perché?
+**R:** Slide 19: «Data la formula (33), vale la seguente relazione: $\frac{\partial d_1}{\partial S} = \frac{\partial d_2}{\partial S}$ (89)». Slide 20: «utlizzando l'equazione (87) si ottiene: $\frac{\partial d_2}{\partial S_t} \stackrel{?}{=} \frac{\partial}{\partial S_t} [d_1 - \sigma\sqrt{T-t}]$ quindi: $\frac{\partial d_2}{\partial S_t} = \frac{\partial d_1}{\partial S_t}$ Q.E.D.». Il docente: «è sufficiente richiamare la definizione di D2, la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:15:49]–[00:16:49]). ⚠️ Le due derivate sono **uguali**, perché $\sigma\sqrt{T-t}$ non dipende da $S$. È la chiave della domanda 3 del test.
+**Opzione:** $\frac{\partial d_1}{\partial S} = \frac{\partial d_2}{\partial S}$, perché $\sigma\sqrt{T-t}$ non dipende da $S$
 **Distrattori:**
-- ∂d_1/∂S = -∂d_2/∂S, perché σ√(T-t) non dipende da S
-- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
-- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
+- $\frac{\partial d_1}{\partial S} = -\frac{\partial d_2}{\partial S}$, perché $\sigma\sqrt{T-t}$ non dipende da $S$
+- Si sostituisce $d_1$ con la (34) e si porta $\sigma\sqrt{T-t}$ al denominatore comune: il numeratore perde $\sigma^2(T-t)$, e $(r + \frac{1}{2}\sigma^2)(T-t)$ diventa $(r - \frac{1}{2}\sigma^2)(T-t)$.
+- $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$
 
-**D:** ⚠️ Che relazione c'è fra ∂d_1/∂r e ∂d_2/∂r nella lezione 16 (formula (90)), e perché?
-**R:** Slide 19: «∂d_1/∂r = ∂d_2/∂r (90)». Slide 21: «utilizzando l'espressione (87) si ottiene: ∂d_2/∂r ≟ ∂/∂r [d_1 - σ√(T-t)] quindi: ∂d_2/∂r = ∂d_1/∂r Q.E.D.». Il docente: «La seconda grandezza segue lo stesso ragionamento, quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:15:55], [00:16:49]). ⚠️ Le due derivate sono **uguali**: r compare nel drift di entrambe, moltiplicato per (T-t), e σ√(T-t) non dipende da r. È la chiave della domanda 4 del test.
-**Opzione:** ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+**D:** ⚠️ Che relazione c'è fra $\frac{\partial d_1}{\partial r}$ e $\frac{\partial d_2}{\partial r}$ nella lezione 16 (formula (90)), e perché?
+**R:** Slide 19: «$\frac{\partial d_1}{\partial r} = \frac{\partial d_2}{\partial r}$ (90)». Slide 21: «utilizzando l'espressione (87) si ottiene: $\frac{\partial d_2}{\partial r} \stackrel{?}{=} \frac{\partial}{\partial r} [d_1 - \sigma\sqrt{T-t}]$ quindi: $\frac{\partial d_2}{\partial r} = \frac{\partial d_1}{\partial r}$ Q.E.D.». Il docente: «La seconda grandezza segue lo stesso ragionamento, quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:15:55], [00:16:49]). ⚠️ Le due derivate sono **uguali**: $r$ compare nel drift di entrambe, moltiplicato per $(T-t)$, e $\sigma\sqrt{T-t}$ non dipende da $r$. È la chiave della domanda 4 del test.
+**Opzione:** $\frac{\partial d_1}{\partial r} = \frac{\partial d_2}{\partial r}$, perché $\sigma\sqrt{T-t}$ non dipende da $r$
 **Distrattori:**
-- ∂d_1/∂r + ∂d_2/∂r = 0, perché σ√(T-t) non dipende da r
-- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+- $\frac{\partial d_1}{\partial r} + \frac{\partial d_2}{\partial r} = 0$, perché $\sigma\sqrt{T-t}$ non dipende da $r$
+- L'integrale della normale standardizzata $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}$, da $-\frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$
 - Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
 
-**D:** ⚠️ Che relazione c'è fra ∂d_1/∂σ e ∂d_2/∂σ nella lezione 16 (formula (91))?
-**R:** Slide 19: «∂d_1/∂σ = ∂d_2/∂σ + √(T-t) (91)». Slide 22: «utilizzando l'equazione (87) si ottiene: ∂d_1/∂σ ≟ ∂/∂σ [d_1 - σ√(T-t)] + √(T-t) quindi: ∂d_1/∂σ ≟ ∂d_1/∂σ - √(T-t) + √(T-t); ∂d_1/∂σ = ∂d_1/∂σ Q.E.D.». Il docente: «relativamente alla derivata prima di d1 e di d2 su sigma, la differenza è la radice quadrata della time to maturity» ([00:15:55]); «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» ([00:17:47]). ⚠️ Il segno è **più**: derivando -σ√(T-t) rispetto a σ si ottiene -√(T-t), che la (91) compensa. Il meno sta nella (92), quella in t. È la chiave della domanda 5 del test.
-**Opzione:** ∂d_1/∂σ = ∂d_2/∂σ + √(T-t)
+**D:** ⚠️ Che relazione c'è fra $\frac{\partial d_1}{\partial\sigma}$ e $\frac{\partial d_2}{\partial\sigma}$ nella lezione 16 (formula (91))?
+**R:** Slide 19: «$\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$ (91)». Slide 22: «utilizzando l'equazione (87) si ottiene: $\frac{\partial d_1}{\partial\sigma} \stackrel{?}{=} \frac{\partial}{\partial\sigma} [d_1 - \sigma\sqrt{T-t}] + \sqrt{T-t}$ quindi: $\frac{\partial d_1}{\partial\sigma} \stackrel{?}{=} \frac{\partial d_1}{\partial\sigma} - \sqrt{T-t} + \sqrt{T-t}$; $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_1}{\partial\sigma}$ Q.E.D.». Il docente: «relativamente alla derivata prima di d1 e di d2 su sigma, la differenza è la radice quadrata della time to maturity» ([00:15:55]); «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» ([00:17:47]). ⚠️ Il segno è **più**: derivando $-\sigma\sqrt{T-t}$ rispetto a $\sigma$ si ottiene $-\sqrt{T-t}$, che la (91) compensa. Il meno sta nella (92), quella in $t$. È la chiave della domanda 5 del test.
+**Opzione:** $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$
 **Distrattori:**
-- ∂d_1/∂σ = ∂d_2/∂σ - √(T-t)
-- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
-- DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
+- $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} - \sqrt{T-t}$
+- $-d_2$, con $d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$: per simmetria l'integrale da $-d_2$ a $+\infty$ diventa quello da $-\infty$ a $d_2$, cioè $N(d_2)$
+- $\mathrm{Dual}\Delta_C = \frac{\partial C_t}{\partial K} = -e^{-r(T-t)}N(d_2)$
 
-**D:** ⚠️ Che relazione c'è fra ∂d_1/∂t e ∂d_2/∂t nella lezione 16 (formula (92)), e da dove viene il segno?
-**R:** Slide 19: «∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t)) (92)». Slide 23: «utilizzando l'equazione (87) si ottiene: ∂d_1/∂t ≟ ∂/∂t [d_1 - σ√(T-t)] - σ/(2√(T-t))», poi ∂d_1/∂t ≟ ∂d_1/∂t - σ(1/(2√(T-t))) · -1 - σ/(2√(T-t)) ≟ ∂d_1/∂t + σ/(2√(T-t)) - σ/(2√(T-t)), quindi ∂d_1/∂t = ∂d_1/∂t, Q.E.D. Il docente: «La derivata in questo caso è meno sigma mezzi diviso radice quadrata t grande menti meno 1» ([00:18:19]), e la derivata di d_1 «è uguale alla derivata prima in D2 meno sigma diviso 2 radice di t grande meno t» ([00:18:27]). ⚠️ Il segno è **meno**: derivando √(T-t) rispetto a t compare il fattore -1, quindi -σ√(T-t) dà +σ/(2√(T-t)), che la (92) compensa.
-**Opzione:** ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
+**D:** ⚠️ Che relazione c'è fra $\frac{\partial d_1}{\partial t}$ e $\frac{\partial d_2}{\partial t}$ nella lezione 16 (formula (92)), e da dove viene il segno?
+**R:** Slide 19: «$\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} - \frac{\sigma}{2\sqrt{T-t}}$ (92)». Slide 23: «utilizzando l'equazione (87) si ottiene: $\frac{\partial d_1}{\partial t} \stackrel{?}{=} \frac{\partial}{\partial t} [d_1 - \sigma\sqrt{T-t}] - \frac{\sigma}{2\sqrt{T-t}}$», poi $\frac{\partial d_1}{\partial t} \stackrel{?}{=} \frac{\partial d_1}{\partial t} - \sigma\frac{1}{2\sqrt{T-t}} \cdot -1 - \frac{\sigma}{2\sqrt{T-t}} \stackrel{?}{=} \frac{\partial d_1}{\partial t} + \frac{\sigma}{2\sqrt{T-t}} - \frac{\sigma}{2\sqrt{T-t}}$, quindi $\frac{\partial d_1}{\partial t} = \frac{\partial d_1}{\partial t}$, Q.E.D. Il docente: «La derivata in questo caso è meno sigma mezzi diviso radice quadrata t grande menti meno 1» ([00:18:19]), e la derivata di $d_1$ «è uguale alla derivata prima in D2 meno sigma diviso 2 radice di t grande meno t» ([00:18:27]). ⚠️ Il segno è **meno**: derivando $\sqrt{T-t}$ rispetto a $t$ compare il fattore -1, quindi $-\sigma\sqrt{T-t}$ dà $+\frac{\sigma}{2\sqrt{T-t}}$, che la (92) compensa.
+**Opzione:** $\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} - \frac{\sigma}{2\sqrt{T-t}}$
 **Distrattori:**
-- ∂d_1/∂t = ∂d_2/∂t + σ/(2√(T-t))
-- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
-- ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+- $\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} + \frac{\sigma}{2\sqrt{T-t}}$
+- Con la (87) si scrive $N'(d_2)$ in funzione di $d_1$, si fattorizza $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(d_1)^2}$ e, con la (34), la parentesi diventa $[S_t - e^{\ln S_t}] = [S_t - S_t] = 0$.
+- $\frac{\partial C}{\partial S_t} = \Delta_C = N(d_1)$: con la (89) si raccoglie $\frac{\partial d_1}{\partial S_t}$, e la parentesi $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)$ si annulla per la (88)
 
-**D:** ⚠️ Quali relazioni fra le derivate di N(d_1) e N(d_2) rispetto a S_t e a K enuncia la proposizione (93)–(94) della lezione 16?
-**R:** Slide 24, «Proposizione»: «Data la formula (33) vale la seguente relazione: S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 (93) S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0 (94)». Il docente: «il sottostante per la derivata prima di n di 1 in S di t è uguale a meno k per la derivata prima di n di 1 in dk. E lo stesso per D2»; è «una relazione esistente tra l'andamento probabilistico del sottostante e il suo riflesso nell'andamento probabilistico del prezzo strike» (transcript [00:18:53]–[00:19:36]). ⚠️ Somma uguale a zero, con K non scontato: è la (98) ad avere Ke^(-r(T-t)). Le derivate sono di N, non di N'.
-**Opzione:** S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
+**D:** ⚠️ Quali relazioni fra le derivate di $N(d_1)$ e $N(d_2)$ rispetto a $S_t$ e a $K$ enuncia la proposizione (93)–(94) della lezione 16?
+**R:** Slide 24, «Proposizione»: «Data la formula (33) vale la seguente relazione: $S_t \frac{\partial N(d_1)}{\partial S_t} + K \frac{\partial N(d_1)}{\partial K} = 0$ (93) $S_t \frac{\partial N(d_2)}{\partial S_t} + K \frac{\partial N(d_2)}{\partial K} = 0$ (94)». Il docente: «il sottostante per la derivata prima di n di 1 in S di t è uguale a meno k per la derivata prima di n di 1 in dk. E lo stesso per D2»; è «una relazione esistente tra l'andamento probabilistico del sottostante e il suo riflesso nell'andamento probabilistico del prezzo strike» (transcript [00:18:53]–[00:19:36]). ⚠️ Somma uguale a zero, con $K$ non scontato: è la (98) ad avere $Ke^{-r(T-t)}$. Le derivate sono di $N$, non di $N'$.
+**Opzione:** $S_t \frac{\partial N(d_1)}{\partial S_t} + K \frac{\partial N(d_1)}{\partial K} = 0$ e $S_t \frac{\partial N(d_2)}{\partial S_t} + K \frac{\partial N(d_2)}{\partial K} = 0$
 **Distrattori:**
-- S_t ∂N(d_1)/∂S_t - K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t - K ∂N(d_2)/∂K = 0
+- $S_t \frac{\partial N(d_1)}{\partial S_t} - K \frac{\partial N(d_1)}{\partial K} = 0$ e $S_t \frac{\partial N(d_2)}{\partial S_t} - K \frac{\partial N(d_2)}{\partial K} = 0$
 - Strumenti di sensitività: derivate prime, cioè variazioni del prezzo della call al variare di una variabile identificata, con cui l'operatore può tutelare il portafoglio da oscillazioni del sottostante.
-- ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t))
+- $\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} - \frac{\sigma}{2\sqrt{T-t}}$
 
 **D:** ⚠️ Su quale proprietà della (33) si fonda, nella lezione 16, la dimostrazione di (93)–(94), e come si scrive la (95)?
-**R:** Slide 25: «Poichè il funzionale riportato nell'espressione (33) è una funzione omogenea di ordine 1, può essere sempre riscritta come segue: C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K (95)». Il docente: «poiché sappiamo che il funzionale dell'espressione 33 è una funzione omogenea di ordine 1, possiamo riscriverlo come il prezzo della call al tempo t e la derivata prima della call rispetto al sottostante per il sottostante più la derivata prima della call rispetto allo strike per lo strike» (transcript [00:19:36]). ⚠️ Ordine 1; ciascuna derivata moltiplica la propria variabile, ∂C_t/∂S_t per S_t e ∂C_t/∂K per K.
-**Opzione:** La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
+**R:** Slide 25: «Poichè il funzionale riportato nell'espressione (33) è una funzione omogenea di ordine 1, può essere sempre riscritta come segue: $C_t(S,K) = \frac{\partial C_t}{\partial S_t} S_t + \frac{\partial C_t}{\partial K} K$ (95)». Il docente: «poiché sappiamo che il funzionale dell'espressione 33 è una funzione omogenea di ordine 1, possiamo riscriverlo come il prezzo della call al tempo t e la derivata prima della call rispetto al sottostante per il sottostante più la derivata prima della call rispetto allo strike per lo strike» (transcript [00:19:36]). ⚠️ Ordine 1; ciascuna derivata moltiplica la propria variabile, $\frac{\partial C_t}{\partial S_t}$ per $S_t$ e $\frac{\partial C_t}{\partial K}$ per $K$.
+**Opzione:** La (33) è una funzione omogenea di ordine 1, quindi $C_t(S,K) = \frac{\partial C_t}{\partial S_t} S_t + \frac{\partial C_t}{\partial K} K$
 **Distrattori:**
-- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) K + (∂C_t/∂K) S_t
-- ∫_K^{+∞} f_Y(y)dy = N(d_2)
-- Con la (87) si scrive N'(d_2) in funzione di d_1, si fattorizza (1/√(2π)) e^(-½(d_1)²) e, con la (34), la parentesi diventa [S_t - e^(ln S_t)] = [S_t - S_t] = 0.
+- La (33) è una funzione omogenea di ordine 1, quindi $C_t(S,K) = \frac{\partial C_t}{\partial S_t} K + \frac{\partial C_t}{\partial K} S_t$
+- $\int_K^{+\infty} f_Y(y)\,dy = N(d_2)$
+- Con la (87) si scrive $N'(d_2)$ in funzione di $d_1$, si fattorizza $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(d_1)^2}$ e, con la (34), la parentesi diventa $[S_t - e^{\ln S_t}] = [S_t - S_t] = 0$.
 
-**D:** ⚠️ Come si scrivono, nella lezione 16, le derivate parziali (96) e (97) del prezzo della call rispetto a S_t e a K?
-**R:** Slide 25: «Pertanto le quantità ∂C_t/∂S_t e ∂C_t/∂K sono calcolate utilizzando la relazione (33), i.e.: ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t (96) ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K (97)». Il docente: la derivata rispetto a s è «s per la derivata di n di 1 in ds più n di 1 meno k per l'esponenziale di meno r t grande per la derivata di n di 2 in ds di t»; quella rispetto a k è «s di t derivata prima di n di 1 in dk meno e alla meno r t grande per n di 2 meno k e alla meno r t grande per n di 2 in dk» (transcript [00:20:04]). ⚠️ N(d_1) sta nella (96), perché S_t moltiplica N(d_1); -e^(-r(T-t))N(d_2) sta nella (97), perché K moltiplica e^(-r(T-t))N(d_2).
-**Opzione:** ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
+**D:** ⚠️ Come si scrivono, nella lezione 16, le derivate parziali (96) e (97) del prezzo della call rispetto a $S_t$ e a $K$?
+**R:** Slide 25: «Pertanto le quantità $\frac{\partial C_t}{\partial S_t}$ e $\frac{\partial C_t}{\partial K}$ sono calcolate utilizzando la relazione (33), i.e.: $\frac{\partial C_t}{\partial S_t} = S_t \frac{\partial N(d_1)}{\partial S_t} + N(d_1) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t}$ (96) $\frac{\partial C_t}{\partial K} = S_t \frac{\partial N(d_1)}{\partial K} - e^{-r(T-t)} N(d_2) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$ (97)». Il docente: la derivata rispetto a s è «s per la derivata di n di 1 in ds più n di 1 meno k per l'esponenziale di meno r t grande per la derivata di n di 2 in ds di t»; quella rispetto a k è «s di t derivata prima di n di 1 in dk meno e alla meno r t grande per n di 2 meno k e alla meno r t grande per n di 2 in dk» (transcript [00:20:04]). ⚠️ $N(d_1)$ sta nella (96), perché $S_t$ moltiplica $N(d_1)$; $-e^{-r(T-t)}N(d_2)$ sta nella (97), perché $K$ moltiplica $e^{-r(T-t)}N(d_2)$.
+**Opzione:** $\frac{\partial C_t}{\partial S_t} = S_t \frac{\partial N(d_1)}{\partial S_t} + N(d_1) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t}$ e $\frac{\partial C_t}{\partial K} = S_t \frac{\partial N(d_1)}{\partial K} - e^{-r(T-t)} N(d_2) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$
 **Distrattori:**
-- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂K
-- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in d_1 e in d_2, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
+- $\frac{\partial C_t}{\partial S_t} = S_t \frac{\partial N(d_1)}{\partial S_t} - e^{-r(T-t)} N(d_2) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t}$ e $\frac{\partial C_t}{\partial K} = S_t \frac{\partial N(d_1)}{\partial K} + N(d_1) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$
+- Le evoluzioni probabilistiche di sottostante e strike, sotto misure diverse in $d_1$ e in $d_2$, devono pareggiarsi al netto del valore finanziario del tempo: un concetto di neutralità a rischio e di non arbitraggio.
 - Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
 
 **D:** Perché, nella lezione 16, dalla (95) si ricavano la (93) e la (94)?
-**R:** Slide 26: «Sostituendo nell'equazione (95) le derivate parziali (96) e (97)» e riordinando, C_t(S,K) = S_tN(d_1) - Ke^(-r(T-t))N(d_2) + S_t[S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K] - Ke^(-r(T-t))[S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K]. Slide 27: «Poichè S_t, K, e^(-r(T-t)) > 0, e considerando i risultati riportati nell'espressione (33) è immediato derivare che» valgono la (93) e la (94), Q.E.D. Il docente: «andiamo a isolare il prezzo di Black-Scholes, SDT n di 1 meno K e alla meno RT grande menti n di 2, più gli altri due componenti» (transcript [00:22:31]–[00:23:27]). I primi due addendi sono già il prezzo (33), C_t: le due parentesi restano da sole, e la slide ne ricava che sono nulle. La slide 26 scrive «N(d_t)» per N(d_1) nella prima riga.
+**R:** Slide 26: «Sostituendo nell'equazione (95) le derivate parziali (96) e (97)» e riordinando, $C_t(S,K) = S_tN(d_1) - Ke^{-r(T-t)}N(d_2) + S_t[S_t \frac{\partial N(d_1)}{\partial S_t} + K \frac{\partial N(d_1)}{\partial K}] - Ke^{-r(T-t)}[S_t \frac{\partial N(d_2)}{\partial S_t} + K \frac{\partial N(d_2)}{\partial K}]$. Slide 27: «Poichè $S_t$, $K$, $e^{-r(T-t)} > 0$, e considerando i risultati riportati nell'espressione (33) è immediato derivare che» valgono la (93) e la (94), Q.E.D. Il docente: «andiamo a isolare il prezzo di Black-Scholes, SDT n di 1 meno K e alla meno RT grande menti n di 2, più gli altri due componenti» (transcript [00:22:31]–[00:23:27]). I primi due addendi sono già il prezzo (33), $C_t$: le due parentesi restano da sole, e la slide ne ricava che sono nulle. La slide 26 scrive «N(d_t)» per $N(d_1)$ nella prima riga.
 
-**D:** ⚠️ Quale relazione fra le derivate di N(d_1) e N(d_2) rispetto a K enuncia la proposizione (98) della lezione 16?
-**R:** Slide 28, «Proposizione»: «Data la formula (33) vale la seguente relazione: S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0 (98)». Il docente: «s di t per la derivata di n di 1 in k più k per e alla meno reti grande in t derivata di n di 2 in dk è uguale a 0» (transcript [00:23:38]–[00:23:55]). ⚠️ Qui le derivate sono tutte rispetto a K, e lo strike è scontato. ⚠️ Slide e transcript scrivono «+», ma le slide non sono coerenti su questo segno: la slide 30 applica la (88), che è una differenza, alla parentesi S_tN'(d_1) + Ke^(-r(T-t))N'(d_2), e nella (97) (slide 25) lo stesso termine Ke^(-r(T-t)) ∂N(d_2)/∂K ha il meno. Vedi la nota della lezione.
-**Opzione:** S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
+**D:** ⚠️ Quale relazione fra le derivate di $N(d_1)$ e $N(d_2)$ rispetto a $K$ enuncia la proposizione (98) della lezione 16?
+**R:** Slide 28, «Proposizione»: «Data la formula (33) vale la seguente relazione: $S_t \frac{\partial N(d_1)}{\partial K} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K} = 0$ (98)». Il docente: «s di t per la derivata di n di 1 in k più k per e alla meno reti grande in t derivata di n di 2 in dk è uguale a 0» (transcript [00:23:38]–[00:23:55]). ⚠️ Qui le derivate sono tutte rispetto a $K$, e lo strike è scontato. ⚠️ Slide e transcript scrivono «+», ma le slide non sono coerenti su questo segno: la slide 30 applica la (88), che è una differenza, alla parentesi $S_tN'(d_1) + Ke^{-r(T-t)}N'(d_2)$, e nella (97) (slide 25) lo stesso termine $Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$ ha il meno. Vedi la nota della lezione.
+**Opzione:** $S_t \frac{\partial N(d_1)}{\partial K} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K} = 0$
 **Distrattori:**
-- S_t ∂N(d_1)/∂S_t + Ke^(-r(T-t)) ∂N(d_2)/∂S_t = 0
-- ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
-- y = e^x, quindi dy = ydx = e^x dx: la y al denominatore di f_Y si semplifica e resta l'integrale di 1/(σ√(2π(T-t))) e^(-[x - ln S_t - (r - σ²/2)(T-t)]²/(2σ²(T-t))) in dx
+- $S_t \frac{\partial N(d_1)}{\partial S_t} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t} = 0$
+- $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)\sqrt{T-t}$
+- $y = e^x$, quindi $dy = y\,dx = e^x\,dx$: la $y$ al denominatore di $f_Y$ si semplifica e resta l'integrale di $\frac{1}{\sigma\sqrt{2\pi(T-t)}} e^{-\frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]^2}{2\sigma^2(T-t)}}$ in $dx$
 
 **D:** ⚠️ Che cosa si ricava dalla (93) e dalla (94) nella dimostrazione della (98), formule (99) e (100) della lezione 16?
-**R:** Slide 28: «Dalle equazioni (93) e (94) è possibile immediatamente affermare che: ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t (99) ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t (100)». Slide 29–30: sostituite nella (98), si raccoglie -(S_t/K); con la regola della catena compaiono N'(d_1) ∂d_1/∂S e N'(d_2) ∂d_2/∂S, e con la (89) si raccoglie ∂d_1/∂S. Il docente: «la derivata di N di 1 in dK è uguale a meno S su K derivata di N di 1 in dS di T. Questa è la formula 99», e lo stesso per N di 2, «la formula 100» (transcript [00:23:55]–[00:24:33]). ⚠️ Il rapporto è S_t/K, con il meno: è la (93) risolta per la derivata rispetto a K.
-**Opzione:** ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
+**R:** Slide 28: «Dalle equazioni (93) e (94) è possibile immediatamente affermare che: $\frac{\partial N(d_1)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_1)}{\partial S_t}$ (99) $\frac{\partial N(d_2)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_2)}{\partial S_t}$ (100)». Slide 29–30: sostituite nella (98), si raccoglie $-\frac{S_t}{K}$; con la regola della catena compaiono $N'(d_1) \frac{\partial d_1}{\partial S}$ e $N'(d_2) \frac{\partial d_2}{\partial S}$, e con la (89) si raccoglie $\frac{\partial d_1}{\partial S}$. Il docente: «la derivata di N di 1 in dK è uguale a meno S su K derivata di N di 1 in dS di T. Questa è la formula 99», e lo stesso per N di 2, «la formula 100» (transcript [00:23:55]–[00:24:33]). ⚠️ Il rapporto è $\frac{S_t}{K}$, con il meno: è la (93) risolta per la derivata rispetto a $K$.
+**Opzione:** $\frac{\partial N(d_1)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_1)}{\partial S_t}$ e $\frac{\partial N(d_2)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_2)}{\partial S_t}$
 **Distrattori:**
-- ∂N(d_1)/∂K = -(K/S_t) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(K/S_t) ∂N(d_2)/∂S_t
-- u = [x - ln S_t - (r - σ²/2)(T-t)]/(σ√(T-t)); l'estremo inferiore diventa (ln K - ln S_t - (r - σ²/2)(T-t))/(σ√(T-t))
-- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
+- $\frac{\partial N(d_1)}{\partial K} = -\frac{K}{S_t} \frac{\partial N(d_1)}{\partial S_t}$ e $\frac{\partial N(d_2)}{\partial K} = -\frac{K}{S_t} \frac{\partial N(d_2)}{\partial S_t}$
+- $u = \frac{[x - \ln S_t - (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$; l'estremo inferiore diventa $\frac{\ln K - \ln S_t - (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$
+- $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$
 
 **D:** ⚠️ Quanto vale il Delta di un'opzione call nella lezione 16 (formula (101)), e quale identità annulla il resto della derivata?
-**R:** Slide 31, «Proposizione»: «Il Delta di un'opzione CALL option è: ∂C/∂S_t = Δ_C = N(d_1) (101)». Dimostrazione: ∂C/∂S_t = ∂/∂S_t [S_tN(d_1) - Ke^(-r(T-t))N(d_2)] = N(d_1) + S_tN'(d_1) ∂d_1/∂S_t - Ke^(-r(T-t))N'(d_2) ∂d_2/∂S_t; «utilizzando l'espressione (89)» = N(d_1) + (∂d_1/∂S_t)[S_tN'(d_1) - Ke^(-r(T-t))N'(d_2)]; «sfruttando l'espressione (88)» = N(d_1), Q.E.D. Il docente: «Il delta di un'opzione call è pari ad n di 1», cioè «la differenza del prezzo della col rispetto a una variazione infinitesima del prezzo del sottostante» (transcript [00:26:55]–[00:28:19]). ⚠️ Δ_C è N(d_1), non N'(d_1): la parentesi con le densità si annulla per la (88).
-**Opzione:** ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
+**R:** Slide 31, «Proposizione»: «Il Delta di un'opzione CALL option è: $\frac{\partial C}{\partial S_t} = \Delta_C = N(d_1)$ (101)». Dimostrazione: $\frac{\partial C}{\partial S_t} = \frac{\partial}{\partial S_t} [S_tN(d_1) - Ke^{-r(T-t)}N(d_2)] = N(d_1) + S_tN'(d_1) \frac{\partial d_1}{\partial S_t} - Ke^{-r(T-t)}N'(d_2) \frac{\partial d_2}{\partial S_t}$; «utilizzando l'espressione (89)» $= N(d_1) + \frac{\partial d_1}{\partial S_t}[S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)]$; «sfruttando l'espressione (88)» $= N(d_1)$, Q.E.D. Il docente: «Il delta di un'opzione call è pari ad n di 1», cioè «la differenza del prezzo della col rispetto a una variazione infinitesima del prezzo del sottostante» (transcript [00:26:55]–[00:28:19]). ⚠️ $\Delta_C$ è $N(d_1)$, non $N'(d_1)$: la parentesi con le densità si annulla per la (88).
+**Opzione:** $\frac{\partial C}{\partial S_t} = \Delta_C = N(d_1)$: con la (89) si raccoglie $\frac{\partial d_1}{\partial S_t}$, e la parentesi $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)$ si annulla per la (88)
 **Distrattori:**
-- ∂C/∂S_t = Δ_C = N'(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
-- Si sostituisce d_1 con la (34) e si porta σ√(T-t) al denominatore comune: il numeratore perde σ²(T-t), e (r + ½σ²)(T-t) diventa (r - ½σ²)(T-t).
-- Sotto P̄, (W̄_T - W̄_t)/√(T-t) ~ N(0,1): J_1 = S_t N{(1/(σ√(T-t)))[ln(S_t/K) + (r + (1/2)σ²)(T-t)]} = S_tN(d_1).
+- $\frac{\partial C}{\partial S_t} = \Delta_C = N'(d_1)$: con la (89) si raccoglie $\frac{\partial d_1}{\partial S_t}$, e la parentesi $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)$ si annulla per la (88)
+- Si sostituisce $d_1$ con la (34) e si porta $\sigma\sqrt{T-t}$ al denominatore comune: il numeratore perde $\sigma^2(T-t)$, e $(r + \frac{1}{2}\sigma^2)(T-t)$ diventa $(r - \frac{1}{2}\sigma^2)(T-t)$.
+- Sotto $\bar{P}$, $\frac{\bar{W}_T - \bar{W}_t}{\sqrt{T-t}} \sim N(0,1)$: $J_1 = S_t N\{\frac{1}{\sigma\sqrt{T-t}}[\ln(S_t/K) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)]\} = S_tN(d_1)$.
 
 **D:** ⚠️ Quanto vale il Gamma di un'opzione call nella lezione 16 (formula (102)), e che cosa misura?
-**R:** Slide 32, «Proposizione»: «Il Gamma di un'opzione CALL è: ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t)) (102)». Dimostrazione: ∂²C/∂S_t² = ∂/∂S_t (∂C/∂S_t); «utilizzando l'espressione (101)» = ∂/∂S_t (N(d_1)) = N'(d_1) · ∂d_1/∂S_t; «sfruttando l'espressione (34)» = N'(d_1) · (1/(σ√(T-t))) ∂/∂S_t ln(S_t) = N'(d_1) · (1/(σ√(T-t)))(1/S_t), Q.E.D. Il docente: il gamma è la derivata seconda, cioè «come varia il delta della col, al variare del sottostante» (transcript [00:28:19]–[00:29:45]). ⚠️ C'è la densità N'(d_1), non N(d_1): il Gamma è la derivata del Delta N(d_1).
-**Opzione:** ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t))
+**R:** Slide 32, «Proposizione»: «Il Gamma di un'opzione CALL è: $\frac{\partial^2C}{\partial S_t^2} = \Gamma_C = N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$ (102)». Dimostrazione: $\frac{\partial^2C}{\partial S_t^2} = \frac{\partial}{\partial S_t} \left(\frac{\partial C}{\partial S_t}\right)$; «utilizzando l'espressione (101)» $= \frac{\partial}{\partial S_t} (N(d_1)) = N'(d_1) \cdot \frac{\partial d_1}{\partial S_t}$; «sfruttando l'espressione (34)» $= N'(d_1) \cdot \frac{1}{\sigma\sqrt{T-t}} \frac{\partial}{\partial S_t} \ln(S_t) = N'(d_1) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$, Q.E.D. Il docente: il gamma è la derivata seconda, cioè «come varia il delta della col, al variare del sottostante» (transcript [00:28:19]–[00:29:45]). ⚠️ C'è la densità $N'(d_1)$, non $N(d_1)$: il Gamma è la derivata del Delta $N(d_1)$.
+**Opzione:** $\frac{\partial^2C}{\partial S_t^2} = \Gamma_C = N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$
 **Distrattori:**
-- ∂²C/∂S_t² = Γ_C = N(d_1) · 1/(S_tσ√(T-t))
-- ∫_K^{+∞} f_Y(y)dy = N(d_2)
-- d_2 = d_1 - σ√(T-t)
+- $\frac{\partial^2C}{\partial S_t^2} = \Gamma_C = N(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$
+- $\int_K^{+\infty} f_Y(y)\,dy = N(d_2)$
+- $d_2 = d_1 - \sigma\sqrt{T-t}$
 
 **D:** ⚠️ Quanto vale il Rho di un'opzione call nella lezione 16 (formula (103))?
-**R:** Slide 33, «Proposizione»: «Il Rho di un'opzione CALL è: ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2) (103)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂r - Ke^(-r(T-t))N'(d_2) ∂d_2/∂r + (T-t)Ke^(-r(T-t))N(d_2); «utilizzando l'espressione (90)» si raccoglie ∂d_1/∂r e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il rho è «la sensitività della col a una variazione infinitessima del tasso di interesse», e il risultato è «t grande menti per k e alla meno r t grande menti n di 2» (transcript [00:29:51]–[00:30:52]). ⚠️ C'è N(d_2), con lo strike scontato e il fattore (T-t), che viene dalla derivata di e^(-r(T-t)) rispetto a r.
-**Opzione:** ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)
+**R:** Slide 33, «Proposizione»: «Il Rho di un'opzione CALL è: $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$ (103)». Dimostrazione: la derivata dà $S_tN'(d_1) \frac{\partial d_1}{\partial r} - Ke^{-r(T-t)}N'(d_2) \frac{\partial d_2}{\partial r} + (T-t)Ke^{-r(T-t)}N(d_2)$; «utilizzando l'espressione (90)» si raccoglie $\frac{\partial d_1}{\partial r}$ e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il rho è «la sensitività della col a una variazione infinitessima del tasso di interesse», e il risultato è «t grande menti per k e alla meno r t grande menti n di 2» (transcript [00:29:51]–[00:30:52]). ⚠️ C'è $N(d_2)$, con lo strike scontato e il fattore $(T-t)$, che viene dalla derivata di $e^{-r(T-t)}$ rispetto a $r$.
+**Opzione:** $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$
 **Distrattori:**
-- ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_1)
-- La (33) è una funzione omogenea di ordine 1, quindi C_t(S,K) = (∂C_t/∂S_t) S_t + (∂C_t/∂K) K
-- -d_2, con d_2 = (ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)): per simmetria l'integrale da -d_2 a +∞ diventa quello da -∞ a d_2, cioè N(d_2)
+- $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_1)$
+- La (33) è una funzione omogenea di ordine 1, quindi $C_t(S,K) = \frac{\partial C_t}{\partial S_t} S_t + \frac{\partial C_t}{\partial K} K$
+- $-d_2$, con $d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$: per simmetria l'integrale da $-d_2$ a $+\infty$ diventa quello da $-\infty$ a $d_2$, cioè $N(d_2)$
 
 **D:** ⚠️ Quanto vale il Vega di un'opzione call nella lezione 16 (formula (104))?
-**R:** Slide 34, «Proposizione»: «il Vega di un'opzione CALL è: ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t) (104)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂σ - Ke^(-r(T-t))N'(d_2) ∂d_2/∂σ; «utilizzando l'espressione (91)», ∂d_1/∂σ = ∂d_2/∂σ + √(T-t), resta S_tN'(d_1)√(T-t) + (∂d_2/∂σ)[S_tN'(d_1) - Ke^(-r(T-t))N'(d_2)], e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il vega è «come varia il prezzo della call a una variazione infinitesima della volatilità», e «il vega di una col est n' di 1 per la radice quadrata di t grande menti» (transcript [00:30:52]–[00:31:42]). ⚠️ Il √(T-t) viene dalla (91); qui si raccoglie ∂d_2/∂σ, non ∂d_1/∂σ.
-**Opzione:** ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t)
+**R:** Slide 34, «Proposizione»: «il Vega di un'opzione CALL è: $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)\sqrt{T-t}$ (104)». Dimostrazione: la derivata dà $S_tN'(d_1) \frac{\partial d_1}{\partial\sigma} - Ke^{-r(T-t)}N'(d_2) \frac{\partial d_2}{\partial\sigma}$; «utilizzando l'espressione (91)», $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$, resta $S_tN'(d_1)\sqrt{T-t} + \frac{\partial d_2}{\partial\sigma}[S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)]$, e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il vega è «come varia il prezzo della call a una variazione infinitesima della volatilità», e «il vega di una col est n' di 1 per la radice quadrata di t grande menti» (transcript [00:30:52]–[00:31:42]). ⚠️ Il $\sqrt{T-t}$ viene dalla (91); qui si raccoglie $\frac{\partial d_2}{\partial\sigma}$, non $\frac{\partial d_1}{\partial\sigma}$.
+**Opzione:** $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)\sqrt{T-t}$
 **Distrattori:**
-- ∂C/∂σ = 𝒱_C = S_tN'(d_1)(T-t)
-- ∂C_t/∂S_t = S_t ∂N(d_1)/∂S_t + N(d_1) - Ke^(-r(T-t)) ∂N(d_2)/∂S_t e ∂C_t/∂K = S_t ∂N(d_1)/∂K - e^(-r(T-t)) N(d_2) - Ke^(-r(T-t)) ∂N(d_2)/∂K
-- L'integrale della normale standardizzata (1/√(2π)) e^(-½u²), da -(ln(S_t/K) + (r - σ²/2)(T-t))/(σ√(T-t)) a +∞
+- $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)(T-t)$
+- $\frac{\partial C_t}{\partial S_t} = S_t \frac{\partial N(d_1)}{\partial S_t} + N(d_1) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial S_t}$ e $\frac{\partial C_t}{\partial K} = S_t \frac{\partial N(d_1)}{\partial K} - e^{-r(T-t)} N(d_2) - Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$
+- L'integrale della normale standardizzata $\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}u^2}$, da $-\frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}$ a $+\infty$
 
 **D:** ⚠️ Quanto vale il Theta di un'opzione call nella lezione 16 (formula (105))?
-**R:** Slide 35, «Proposizione»: «Il Theta di un'opzione CALL è: ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)] (105)». Dimostrazione: la derivata dà S_tN'(d_1) ∂d_1/∂t - Ke^(-r(T-t))N'(d_2) ∂d_2/∂t - rKe^(-r(T-t))N(d_2); «utilizzando l'espressione (92)» si sostituisce ∂d_1/∂t = ∂d_2/∂t - σ/(2√(T-t)), si raccoglie ∂d_2/∂t e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il theta è «come varia il prezzo al variare del tempo», e «il teta della col è meno parentesi st n primo di 1 per sigma diviso 2 radice quadrata t menti più rk e almeno rt grande menti per n di 2» (transcript [00:31:42]–[00:32:49]). ⚠️ Il meno sta davanti a tutta la parentesi, e dentro i due termini si sommano.
-**Opzione:** ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]
+**R:** Slide 35, «Proposizione»: «Il Theta di un'opzione CALL è: $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$ (105)». Dimostrazione: la derivata dà $S_tN'(d_1) \frac{\partial d_1}{\partial t} - Ke^{-r(T-t)}N'(d_2) \frac{\partial d_2}{\partial t} - rKe^{-r(T-t)}N(d_2)$; «utilizzando l'espressione (92)» si sostituisce $\frac{\partial d_1}{\partial t} = \frac{\partial d_2}{\partial t} - \frac{\sigma}{2\sqrt{T-t}}$, si raccoglie $\frac{\partial d_2}{\partial t}$ e «sfruttando l'espressione (88)» la parentesi si annulla. Il docente: il theta è «come varia il prezzo al variare del tempo», e «il teta della col è meno parentesi st n primo di 1 per sigma diviso 2 radice quadrata t menti più rk e almeno rt grande menti per n di 2» (transcript [00:31:42]–[00:32:49]). ⚠️ Il meno sta davanti a tutta la parentesi, e dentro i due termini si sommano.
+**Opzione:** $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$
 **Distrattori:**
-- ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) - rKe^(-r(T-t))N(d_2)]
-- S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K = 0
+- $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} - rKe^{-r(T-t)}N(d_2)]$
+- $S_t \frac{\partial N(d_1)}{\partial K} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K} = 0$
 - Il CRR, modello discreto e binomiale; il modello continuo ottenuto al limite del CRR, come soluzione asintotica; il prezzo di Black-Scholes con la replicazione di portafoglio e con la martingala; il metodo delle equazioni differenziali parziali.
 
 **D:** ⚠️ Quanto vale il Delta duale di un'opzione call nella lezione 16 (formula (106)), e che cosa misura?
-**R:** Slide 36, «Proposizione»: «Il Delta duale di un'opzione CALL è: DualΔ_C = -e^(-r(T-t))N(d_2) (106)». Dimostrazione: «Dalla definizione di Delta Duale di un'opzione CALL al tempo t si ottiene: DualΔ_C = ∂C_t/∂K = ∂/∂K [S_tN(d_1) - Ke^(-r(T-t))N(d_2)] = -e^(-r(T-t))N(d_2) + S_t ∂N(d_1)/∂K + Ke^(-r(T-t)) ∂N(d_2)/∂K utilizzando l'espressione (98), la tesi è dimostrata». Il docente: è «la variazione del prezzo della call rispetto alla variazione dello strike» ([00:33:00]), e «il delta duale non è altro che meno il valore finanziario, il valore scontato del tempo per n di 2, analogamente all'n di 1 del delta» ([00:33:21]). ⚠️ Il segno è meno, e c'è N(d_2), non N(d_1).
-**Opzione:** DualΔ_C = ∂C_t/∂K = -e^(-r(T-t))N(d_2)
+**R:** Slide 36, «Proposizione»: «Il Delta duale di un'opzione CALL è: $\mathrm{Dual}\Delta_C = -e^{-r(T-t)}N(d_2)$ (106)». Dimostrazione: «Dalla definizione di Delta Duale di un'opzione CALL al tempo $t$ si ottiene: $\mathrm{Dual}\Delta_C = \frac{\partial C_t}{\partial K} = \frac{\partial}{\partial K} [S_tN(d_1) - Ke^{-r(T-t)}N(d_2)] = -e^{-r(T-t)}N(d_2) + S_t \frac{\partial N(d_1)}{\partial K} + Ke^{-r(T-t)} \frac{\partial N(d_2)}{\partial K}$ utilizzando l'espressione (98), la tesi è dimostrata». Il docente: è «la variazione del prezzo della call rispetto alla variazione dello strike» ([00:33:00]), e «il delta duale non è altro che meno il valore finanziario, il valore scontato del tempo per n di 2, analogamente all'n di 1 del delta» ([00:33:21]). ⚠️ Il segno è meno, e c'è $N(d_2)$, non $N(d_1)$.
+**Opzione:** $\mathrm{Dual}\Delta_C = \frac{\partial C_t}{\partial K} = -e^{-r(T-t)}N(d_2)$
 **Distrattori:**
-- DualΔ_C = ∂C_t/∂K = e^(-r(T-t))N(d_2)
-- ∂N(d_1)/∂K = -(S_t/K) ∂N(d_1)/∂S_t e ∂N(d_2)/∂K = -(S_t/K) ∂N(d_2)/∂S_t
-- ∂d_1/∂S = ∂d_2/∂S, perché σ√(T-t) non dipende da S
+- $\mathrm{Dual}\Delta_C = \frac{\partial C_t}{\partial K} = e^{-r(T-t)}N(d_2)$
+- $\frac{\partial N(d_1)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_1)}{\partial S_t}$ e $\frac{\partial N(d_2)}{\partial K} = -\frac{S_t}{K} \frac{\partial N(d_2)}{\partial S_t}$
+- $\frac{\partial d_1}{\partial S} = \frac{\partial d_2}{\partial S}$, perché $\sigma\sqrt{T-t}$ non dipende da $S$
 
-**D:** ⚠️ Quanto vale il Gamma duale di un'opzione call nella lezione 16 (formula (107)), e come si passa dalla derivata rispetto a K a quella rispetto a S_t?
-**R:** Slide 37, «Proposizione»: «Il Gamma Dual di un'opzione CALL è: DualΓ_C = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t) (107)». Dimostrazione: DualΓ_C = ∂²C_t/∂K² = ∂/∂K (∂C_t/∂K) = ∂/∂K [-e^(-r(T-t))N(d_2)] = -e^(-r(T-t)) ∂N(d_2)/∂K = -e^(-r(T-t)) · (-(S_t/K) ∂N(d_2)/∂S_t) = (S_t/K)e^(-r(T-t)) ∂/∂S_t (N(d_2)) = (S_t/K)e^(-r(T-t))N'(d_2) · ∂d_1/∂S_t; slide 38: «utilizzando l'espressione (34)» si arriva alla (107), Q.E.D. Il docente: è «la variazione del delta duale rispetto all'andamento dello strike, quindi la derivata seconda» ([00:33:09]), e si arriva a «st su k per e alla meno r t grande menti e ne primo di 2 per 1 su sigma radice t grande menti per 1 su s» ([00:34:20]). ⚠️ Il passaggio da ∂K a ∂S_t è la (100): il suo meno elide quello del Delta duale, e il Gamma duale è positivo.
-**Opzione:** DualΓ_C = ∂²C_t/∂K² = (S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
+**D:** ⚠️ Quanto vale il Gamma duale di un'opzione call nella lezione 16 (formula (107)), e come si passa dalla derivata rispetto a $K$ a quella rispetto a $S_t$?
+**R:** Slide 37, «Proposizione»: «Il Gamma Dual di un'opzione CALL è: $\mathrm{Dual}\Gamma_C = \frac{S_t}{K}e^{-r(T-t)} \cdot N'(d_2) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$ (107)». Dimostrazione: $\mathrm{Dual}\Gamma_C = \frac{\partial^2C_t}{\partial K^2} = \frac{\partial}{\partial K} \left(\frac{\partial C_t}{\partial K}\right) = \frac{\partial}{\partial K} [-e^{-r(T-t)}N(d_2)] = -e^{-r(T-t)} \frac{\partial N(d_2)}{\partial K} = -e^{-r(T-t)} \cdot \left(-\frac{S_t}{K} \frac{\partial N(d_2)}{\partial S_t}\right) = \frac{S_t}{K}e^{-r(T-t)} \frac{\partial}{\partial S_t} (N(d_2)) = \frac{S_t}{K}e^{-r(T-t)}N'(d_2) \cdot \frac{\partial d_1}{\partial S_t}$; slide 38: «utilizzando l'espressione (34)» si arriva alla (107), Q.E.D. Il docente: è «la variazione del delta duale rispetto all'andamento dello strike, quindi la derivata seconda» ([00:33:09]), e si arriva a «st su k per e alla meno r t grande menti e ne primo di 2 per 1 su sigma radice t grande menti per 1 su s» ([00:34:20]). ⚠️ Il passaggio da $\partial K$ a $\partial S_t$ è la (100): il suo meno elide quello del Delta duale, e il Gamma duale è positivo.
+**Opzione:** $\mathrm{Dual}\Gamma_C = \frac{\partial^2C_t}{\partial K^2} = \frac{S_t}{K}e^{-r(T-t)} \cdot N'(d_2) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$
 **Distrattori:**
-- DualΓ_C = ∂²C_t/∂K² = -(S_t/K)e^(-r(T-t)) · N'(d_2) · (1/(σ√(T-t)))(1/S_t)
-- S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) = 0, dove N'(x) = (1/√(2π)) e^(-½x²)
-- ∂d_1/∂r = ∂d_2/∂r, perché σ√(T-t) non dipende da r
+- $\mathrm{Dual}\Gamma_C = \frac{\partial^2C_t}{\partial K^2} = -\frac{S_t}{K}e^{-r(T-t)} \cdot N'(d_2) \cdot \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$
+- $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2) = 0$, dove $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$
+- $\frac{\partial d_1}{\partial r} = \frac{\partial d_2}{\partial r}$, perché $\sigma\sqrt{T-t}$ non dipende da $r$
 
 **D:** ⚠️ Quali greche di un'opzione call calcola la lezione 16, nell'ordine delle slide?
-**R:** Slide 31–37: il **Delta** (101), il **Gamma** (102), il **Rho** (103), il **Vega** (104), il **Theta** (105), il **Delta duale** (106) e il **Gamma duale** (107). Il docente: dopo il theta, «siamo nelle condizioni di calcolare le ultime due greche della trattazione odierna. Il delta duale» e la sua variazione rispetto allo strike (transcript [00:26:33]–[00:33:09]). ⚠️ Le greche duali sono due e chiudono l'elenco: il Delta duale e il Gamma duale, le derivate rispetto allo strike K.
+**R:** Slide 31–37: il **Delta** (101), il **Gamma** (102), il **Rho** (103), il **Vega** (104), il **Theta** (105), il **Delta duale** (106) e il **Gamma duale** (107). Il docente: dopo il theta, «siamo nelle condizioni di calcolare le ultime due greche della trattazione odierna. Il delta duale» e la sua variazione rispetto allo strike (transcript [00:26:33]–[00:33:09]). ⚠️ Le greche duali sono due e chiudono l'elenco: il Delta duale e il Gamma duale, le derivate rispetto allo strike $K$.
 **Opzione:** Delta, Gamma, Rho, Vega, Theta, Delta duale e Gamma duale
 **Distrattori:**
 - Delta, Gamma, Rho, Vega, Theta, Delta duale e Theta duale
-- ∂C/∂S_t = Δ_C = N(d_1): con la (89) si raccoglie ∂d_1/∂S_t, e la parentesi S_tN'(d_1) - Ke^(-r(T-t))N'(d_2) si annulla per la (88)
-- C_t = e^(-r(T-t)) [S_t e^(r(T-t)) N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^(-r(T-t))N(d_2)
+- $\frac{\partial C}{\partial S_t} = \Delta_C = N(d_1)$: con la (89) si raccoglie $\frac{\partial d_1}{\partial S_t}$, e la parentesi $S_tN'(d_1) - Ke^{-r(T-t)}N'(d_2)$ si annulla per la (88)
+- $C_t = e^{-r(T-t)} [S_t e^{r(T-t)} N(d_1) - KN(d_2)] = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$
 
 **D:** ⚠️ Rispetto a quale variabile misura la sensitività del prezzo della call ciascuna greca della lezione 16?
-**R:** Il docente: il delta è la variazione del prezzo della call «rispetto a una variazione infinitesima del prezzo del sottostante» ([00:27:02]); il gamma «come varia il delta della col, al variare del sottostante» ([00:28:41]); il rho la sensitività «a una variazione infinitessima del tasso di interesse» ([00:29:51]); il vega «come varia il prezzo della call a una variazione infinitesima della volatilità» ([00:30:52]); il theta «come varia il prezzo al variare del tempo» ([00:31:42]); il delta duale «la variazione del prezzo della call rispetto alla variazione dello strike», il gamma duale «la variazione del delta duale rispetto all'andamento dello strike» ([00:33:00]–[00:33:09]). Nelle slide 31–37 le stesse variabili sono al denominatore delle derivate: ∂S_t, ∂r, ∂σ, ∂t, ∂K. ⚠️ Il Vega è la volatilità σ, il Rho il tasso r.
+**R:** Il docente: il delta è la variazione del prezzo della call «rispetto a una variazione infinitesima del prezzo del sottostante» ([00:27:02]); il gamma «come varia il delta della col, al variare del sottostante» ([00:28:41]); il rho la sensitività «a una variazione infinitessima del tasso di interesse» ([00:29:51]); il vega «come varia il prezzo della call a una variazione infinitesima della volatilità» ([00:30:52]); il theta «come varia il prezzo al variare del tempo» ([00:31:42]); il delta duale «la variazione del prezzo della call rispetto alla variazione dello strike», il gamma duale «la variazione del delta duale rispetto all'andamento dello strike» ([00:33:00]–[00:33:09]). Nelle slide 31–37 le stesse variabili sono al denominatore delle derivate: $\partial S_t$, $\partial r$, $\partial\sigma$, $\partial t$, $\partial K$. ⚠️ Il Vega è la volatilità $\sigma$, il Rho il tasso $r$.
 **Opzione:** Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: tasso di interesse; Vega: volatilità; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
 **Distrattori:**
 - Delta: sottostante; Gamma: variazione del Delta al variare del sottostante; Rho: volatilità; Vega: tasso di interesse; Theta: tempo; Delta duale: strike; Gamma duale: variazione del Delta duale rispetto allo strike.
-- E[max(S_t · e^((r - σ²/2)(T-t) + σ(W∗_T - W∗_t)) - K, 0)] = S_t e^(r(T-t)) N(d_1) - KN(d_2)
-- S_t ∂N(d_1)/∂S_t + K ∂N(d_1)/∂K = 0 e S_t ∂N(d_2)/∂S_t + K ∂N(d_2)/∂K = 0
+- $E[\max(S_t \cdot e^{(r - \sigma^2/2)(T-t) + \sigma(W^{\ast}_T - W^{\ast}_t)} - K, 0)] = S_t e^{r(T-t)} N(d_1) - KN(d_2)$
+- $S_t \frac{\partial N(d_1)}{\partial S_t} + K \frac{\partial N(d_1)}{\partial K} = 0$ e $S_t \frac{\partial N(d_2)}{\partial S_t} + K \frac{\partial N(d_2)}{\partial K} = 0$
 
-**D:** In che cosa differiscono N(x) della lezione 11 e N'(x) della proposizione (88) della lezione 16?
-**R:** La slide 10 della lezione 11 definisce N(x) = (1/√(2π)) ∫_{-∞}^{x} e^(-u²/2) du, un integrale da -∞ a x; la slide 15 della lezione 16 definisce N'(x) = (1/√(2π)) e^(-½x²), la funzione integranda, senza integrale. Il docente: N' «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi», e la (88) lega S_t e K alle loro «funzioni di densità» (transcript [00:11:14]–[00:11:41]). Nelle greche N(d_1) e N(d_2) danno il Delta e il Delta duale, N'(d_1) e N'(d_2) il Gamma, il Vega, il Theta e il Gamma duale (slide 31–37). Che N'(x) sia la derivata di N(x) lo suggerisce l'apice; la slide 32 lo usa quando scrive ∂/∂S_t (N(d_1)) = N'(d_1) · ∂d_1/∂S_t.
+**D:** In che cosa differiscono $N(x)$ della lezione 11 e $N'(x)$ della proposizione (88) della lezione 16?
+**R:** La slide 10 della lezione 11 definisce $N(x) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{x} e^{-u^2/2}\,du$, un integrale da $-\infty$ a $x$; la slide 15 della lezione 16 definisce $N'(x) = \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}x^2}$, la funzione integranda, senza integrale. Il docente: $N'$ «non è altro che n' di x, infatti è 1 su radice di 2π per l'esponenziale di meno x quadro mezzi», e la (88) lega $S_t$ e $K$ alle loro «funzioni di densità» (transcript [00:11:14]–[00:11:41]). Nelle greche $N(d_1)$ e $N(d_2)$ danno il Delta e il Delta duale, $N'(d_1)$ e $N'(d_2)$ il Gamma, il Vega, il Theta e il Gamma duale (slide 31–37). Che $N'(x)$ sia la derivata di $N(x)$ lo suggerisce l'apice; la slide 32 lo usa quando scrive $\frac{\partial}{\partial S_t} (N(d_1)) = N'(d_1) \cdot \frac{\partial d_1}{\partial S_t}$.
 
 **D:** Dove compare il teorema di Feynman-Kac nella lezione 16, che pure lo porta nel titolo?
-**R:** Solo nell'intestazione delle slide 3–12, «Il Modello di Black-Scholes-Merton — La soluzione del prezzo della Call attraverso il teorema di Feynman - Cac» (con la grafia «Cac», come il frontespizio). Il transcript della lezione 16 non lo nomina mai: il docente apre con «Completiamo quindi la derivazione del modello di Black-Scholes-Merton attraverso il metodo dell'equazione alle derivate parziali» ([00:00:04]). Il teorema è invocato nella lezione 15 (slide 12 del suo deck: «Sfruttando il teorema di Feynman-Kac, si può affermare direttamente che» C_t = E[max(S_T - K, 0)e^(∫_t^T rds) | S_t = s] (81)) ed è enunciato nella lezione 07 (slide 28). La lezione 16 ne calcola soltanto il secondo integrale.
+**R:** Solo nell'intestazione delle slide 3–12, «Il Modello di Black-Scholes-Merton — La soluzione del prezzo della Call attraverso il teorema di Feynman - Cac» (con la grafia «Cac», come il frontespizio). Il transcript della lezione 16 non lo nomina mai: il docente apre con «Completiamo quindi la derivazione del modello di Black-Scholes-Merton attraverso il metodo dell'equazione alle derivate parziali» ([00:00:04]). Il teorema è invocato nella lezione 15 (slide 12 del suo deck: «Sfruttando il teorema di Feynman-Kac, si può affermare direttamente che» $C_t = E[\max(S_T - K, 0)e^{\int_t^T r\,ds} \mid S_t = s]$ (81)) ed è enunciato nella lezione 07 (slide 28). La lezione 16 ne calcola soltanto il secondo integrale.
 
 **D:** ⚠️ Che espressione assume il secondo integrale della formula della Call nel modello di BSM derivato con la formula di Feynman-Cac, secondo il test della lezione 16 (domanda 1)?
-**R:** «**∫k+∞ fY(y)dy=N(d2)**». È la (85) della slide 10, ∫_K^{+∞} f_Y(y)dy = N(d_2), dove f_Y è la densità di y = S_T (deck della lezione 15, slide 18). Il docente: il secondo integrale, «l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). Distrattori del test: tutti e tre hanno la y nell'integrando, cioè parlano del **primo** integrale della (83), che nella (84) vale S_t e^(r(T-t)) N(d_1) (deck della lezione 15, slide 34). «∫k+∞ y fY(y)dy=N(d2)» gli dà il risultato del secondo; «∫k+∞ y fY(y)dy=St-r(T-t)» e «∫k+∞ y fY(y)dy=St-r(T-t)N(d2)» riprendono la chiave della domanda 2 del test della lezione 15, «∫k+∞ y fY(y)dy=St-r(T-t)N(d1)», la prima togliendo N(d1), la seconda cambiandolo in N(d2). Quella chiave è già difettosa (🚨 nella lezione 15): la slide 34 di quel deck ha S_t e^(r(T-t)) N(d_1), con la e e l'esponente positivo. Basta l'asse dell'integrando: solo la chiave non ha la y.
+**R:** «**∫k+∞ fY(y)dy=N(d2)**». È la (85) della slide 10, $\int_K^{+\infty} f_Y(y)\,dy = N(d_2)$, dove $f_Y$ è la densità di $y = S_T$ (deck della lezione 15, slide 18). Il docente: il secondo integrale, «l'integrale tra k infinito di f y y in dy, può essere quindi riscritto come n di 2» (transcript [00:04:24]). Distrattori del test: tutti e tre hanno la $y$ nell'integrando, cioè parlano del **primo** integrale della (83), che nella (84) vale $S_t e^{r(T-t)} N(d_1)$ (deck della lezione 15, slide 34). «∫k+∞ y fY(y)dy=N(d2)» gli dà il risultato del secondo; «∫k+∞ y fY(y)dy=St-r(T-t)» e «∫k+∞ y fY(y)dy=St-r(T-t)N(d2)» riprendono la chiave della domanda 2 del test della lezione 15, «∫k+∞ y fY(y)dy=St-r(T-t)N(d1)», la prima togliendo N(d1), la seconda cambiandolo in N(d2). Quella chiave è già difettosa (🚨 nella lezione 15): la slide 34 di quel deck ha $S_t e^{r(T-t)} N(d_1)$, con la e e l'esponente positivo. Basta l'asse dell'integrando: solo la chiave non ha la $y$.
 **Opzione:** ∫k+∞ fY(y)dy=N(d2)
 **Distrattori:**
 - ∫k+∞ y fY(y)dy=St-r(T-t)
@@ -5468,7 +5657,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - ∫k+∞ y fY(y)dy=St-r(T-t)N(d2)
 
 **D:** ⚠️ Quale relazione tra d1 e d2 vale nel modello di BSM, secondo il test della lezione 16 (domanda 2)?
-**R:** «**d2=d1 - s (T-t)1/2**», con «s» per σ e «(T-t)1/2» per √(T-t): è la (87) della slide 14, d_2 = d_1 - σ√(T-t), dimostrata con la (34). Il docente: «D2 è uguale a D1 meno sigma radice di T» (transcript [00:10:25]). Tre assi, segno × σ × radice: «d2=d1 + s (T-t)» sbaglia il segno e perde la radice; «d2=d1 + s (T-t)1/2» sbaglia solo il segno; «d2=d1 - (T-t)1/2» perde σ, e ha la forma della (91) senza le derivate, ∂d_2/∂σ = ∂d_1/∂σ - √(T-t) (deduzione). ⚠️ La (87) conferma che d_2 ha (r - σ²/2) al numeratore (ultima riga della slide 14): la chiave della domanda 3 del test della lezione 14, con -(r + σ²/2), non torna, ed è registrata lì con 🚨.
+**R:** «**d2=d1 - s (T-t)1/2**», con «s» per $\sigma$ e «(T-t)1/2» per $\sqrt{T-t}$: è la (87) della slide 14, $d_2 = d_1 - \sigma\sqrt{T-t}$, dimostrata con la (34). Il docente: «D2 è uguale a D1 meno sigma radice di T» (transcript [00:10:25]). Tre assi, segno × $\sigma$ × radice: «d2=d1 + s (T-t)» sbaglia il segno e perde la radice; «d2=d1 + s (T-t)1/2» sbaglia solo il segno; «d2=d1 - (T-t)1/2» perde $\sigma$, e ha la forma della (91) senza le derivate, $\frac{\partial d_2}{\partial\sigma} = \frac{\partial d_1}{\partial\sigma} - \sqrt{T-t}$ (deduzione). ⚠️ La (87) conferma che $d_2$ ha $(r - \sigma^2/2)$ al numeratore (ultima riga della slide 14): la chiave della domanda 3 del test della lezione 14, con $-(r + \sigma^2/2)$, non torna, ed è registrata lì con 🚨.
 **Opzione:** d2=d1 - s (T-t)1/2
 **Distrattori:**
 - d2=d1 + s (T-t)
@@ -5476,7 +5665,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - d2=d1 - (T-t)1/2
 
 **D:** ⚠️ Quale relazione tra dd1 / dS e dd2 /dS vale nel modello di BSM, secondo il test della lezione 16 (domanda 3)?
-**R:** «**dd1 / dS = dd2 /dS**»: è la (89) della slide 19, ∂d_1/∂S = ∂d_2/∂S, dimostrata nella slide 20 con la (87), perché σ√(T-t) non dipende da S. Il docente: «la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:16:33]). Distrattori del test: «d2=d1 + s (T-t)» è il distrattore A della domanda 2 e non parla delle derivate; «dd1 / dS + dd2 /dS = 0» e «dd1 / dS ∗ dd2 /dS = 0» non sono nelle slide. Le slide 32 e 38 danno ∂d_1/∂S_t = (1/(σ√(T-t)))(1/S_t), un valore positivo: due derivate uguali e positive non hanno né somma né prodotto nullo (deduzione).
+**R:** «**dd1 / dS = dd2 /dS**»: è la (89) della slide 19, $\frac{\partial d_1}{\partial S} = \frac{\partial d_2}{\partial S}$, dimostrata nella slide 20 con la (87), perché $\sigma\sqrt{T-t}$ non dipende da $S$. Il docente: «la derivata prima in SDT di sigma radice di grande 20 e 0» (transcript [00:16:33]). Distrattori del test: «d2=d1 + s (T-t)» è il distrattore A della domanda 2 e non parla delle derivate; «dd1 / dS + dd2 /dS = 0» e «dd1 / dS ∗ dd2 /dS = 0» non sono nelle slide. Le slide 32 e 38 danno $\frac{\partial d_1}{\partial S_t} = \frac{1}{\sigma\sqrt{T-t}}\frac{1}{S_t}$, un valore positivo: due derivate uguali e positive non hanno né somma né prodotto nullo (deduzione).
 **Opzione:** dd1 / dS = dd2 /dS
 **Distrattori:**
 - d2=d1 + s (T-t)
@@ -5484,7 +5673,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - dd1 / dS ∗ dd2 /dS = 0
 
 **D:** ⚠️ Quale relazione tra dd1 / dr e dd2 /dr vale nel modello di BSM, secondo il test della lezione 16 (domanda 4)?
-**R:** «**dd1 / dr = dd2 /dr**»: è la (90) della slide 19, ∂d_1/∂r = ∂d_2/∂r, dimostrata nella slide 21 con la (87). Il docente: «quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:16:49]). Distrattori del test: «dd1 / dr + dd2 /dr = 0» e «dd1 / dr ∗ dd2 /dr = 0» hanno la stessa forma dei distrattori C e D della domanda 3, con r al posto di S; «dd1 / dr + dd2 /dr = r» aggiunge un risultato che le slide non hanno. Nessuna delle tre è nelle slide, che danno soltanto l'uguaglianza (90).
+**R:** «**dd1 / dr = dd2 /dr**»: è la (90) della slide 19, $\frac{\partial d_1}{\partial r} = \frac{\partial d_2}{\partial r}$, dimostrata nella slide 21 con la (87). Il docente: «quando andiamo a calcolare rispetto a R la quantità sigma radice di T grande menti è nulla e quindi anche queste due quantità risultano uguali» (transcript [00:16:49]). Distrattori del test: «dd1 / dr + dd2 /dr = 0» e «dd1 / dr ∗ dd2 /dr = 0» hanno la stessa forma dei distrattori C e D della domanda 3, con $r$ al posto di $S$; «dd1 / dr + dd2 /dr = r» aggiunge un risultato che le slide non hanno. Nessuna delle tre è nelle slide, che danno soltanto l'uguaglianza (90).
 **Opzione:** dd1 / dr = dd2 /dr
 **Distrattori:**
 - dd1 / dr + dd2 /dr = 0
@@ -5492,7 +5681,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - dd1 / dr ∗ dd2 /dr = 0
 
 **D:** ⚠️ Quale relazione tra dd1 / ds e dd2 /ds vale nel modello di BSM, secondo il test della lezione 16 (domanda 5)?
-**R:** «**dd1 / ds = dd2 /ds +(T-t)1/2**», con «ds» per dσ: è la (91) della slide 19, ∂d_1/∂σ = ∂d_2/∂σ + √(T-t), dimostrata nella slide 22. Il docente: «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» (transcript [00:17:47]). ⚠️ «ds» è dσ, non dS: la piattaforma rende σ con «s» minuscola (domanda 2) e il sottostante con «S» maiuscola (domanda 3), e √(T-t) compare solo nella (91), mentre per S la (89) è un'uguaglianza. Distrattori del test: «dd1 / ds = dd2 /ds -(T-t)1/2» inverte il segno; «dd1 / ds = dd2 /ds ∗(T-t)1/2» e «dd1 / ds = dd2 /ds ∗(T-t)» cambiano la somma in un prodotto, e l'ultima perde anche la radice.
+**R:** «**dd1 / ds = dd2 /ds +(T-t)1/2**», con «ds» per $d\sigma$: è la (91) della slide 19, $\frac{\partial d_1}{\partial\sigma} = \frac{\partial d_2}{\partial\sigma} + \sqrt{T-t}$, dimostrata nella slide 22. Il docente: «la derivata prima di d1 in sigma è uguale alla derivata prima di d2 in sigma più la time to maturity sotto radice quadrata» (transcript [00:17:47]). ⚠️ «ds» è $d\sigma$, non $dS$: la piattaforma rende $\sigma$ con «s» minuscola (domanda 2) e il sottostante con «S» maiuscola (domanda 3), e $\sqrt{T-t}$ compare solo nella (91), mentre per $S$ la (89) è un'uguaglianza. Distrattori del test: «dd1 / ds = dd2 /ds -(T-t)1/2» inverte il segno; «dd1 / ds = dd2 /ds ∗(T-t)1/2» e «dd1 / ds = dd2 /ds ∗(T-t)» cambiano la somma in un prodotto, e l'ultima perde anche la radice.
 **Opzione:** dd1 / ds = dd2 /ds +(T-t)1/2
 **Distrattori:**
 - dd1 / ds = dd2 /ds -(T-t)1/2
@@ -5507,271 +5696,271 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi deterministici
 - Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
-- La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+- La volatilità $\sigma$, $f=f(S,t,\sigma)$, studiata con la fattorizzazione di Taylor
 
-**D:** ⚠️ Quali processi definisce la slide 4 della lezione 17, e da che cosa dipende f?
-**R:** Slide 4, «Gestione del rischio: le lettere greche»: «Si definisca: S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato. Dove: f=f(S,t)». Il docente: «S è il processo del prezzo dell'azione, B il processo dell'obbligazione, F il processo stocastico del derivato, quindi F è una funzione di S e di T» (transcript [00:01:18]). ⚠️ f dipende da S e da t, non da B.
-**Opzione:** S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+**D:** ⚠️ Quali processi definisce la slide 4 della lezione 17, e da che cosa dipende $f$?
+**R:** Slide 4, «Gestione del rischio: le lettere greche»: «Si definisca: $S$ il processo del prezzo dell'azione, $B$ il processo dell'obbligazione, $f$ il processo del derivato. Dove: $f=f(S,t)$». Il docente: «S è il processo del prezzo dell'azione, B il processo dell'obbligazione, F il processo stocastico del derivato, quindi F è una funzione di S e di T» (transcript [00:01:18]). ⚠️ $f$ dipende da $S$ e da $t$, non da $B$.
+**Opzione:** $S$ il processo del prezzo dell'azione, $B$ il processo dell'obbligazione, $f$ il processo del derivato, dove $f=f(S,t)$
 **Distrattori:**
-- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(B,t)
+- $S$ il processo del prezzo dell'azione, $B$ il processo dell'obbligazione, $f$ il processo del derivato, dove $f=f(B,t)$
 - Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
-- Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+- Si può calcolare l'espressione differenziale di $f=f(S,t)$ sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
 
-**D:** ⚠️ Come si scrive il portafoglio di replicazione del derivato nella slide 6 della lezione 17, e che cosa sono N_s e N_B?
-**R:** Slide 6, «Portafoglio di replicazione del derivato»: V_t = f(S,t) = N_sS_t + N_BB_t, «Dove: N_s Numero di azioni, N_B Numero di obbligazioni». La slide 5 lo annuncia: «Si calcola: V il portafoglio di replicazione del derivato». Il docente: «creiamo un portafoglio V, come abbiamo già fatto per trovare il prezzo della call e della put nelle precedenti lezioni», cioè «un certo numero … di azioni per il valore del sottostante più una certa quantità di obbligazioni» (transcript [00:01:52]–[00:02:06]). ⚠️ N_s conta le azioni, N_B le obbligazioni; è una somma, non il π = f - ΔS della lezione 15.
-**Opzione:** V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
+**D:** ⚠️ Come si scrive il portafoglio di replicazione del derivato nella slide 6 della lezione 17, e che cosa sono $N_s$ e $N_B$?
+**R:** Slide 6, «Portafoglio di replicazione del derivato»: $V_t = f(S,t) = N_sS_t + N_BB_t$, «Dove: $N_s$ Numero di azioni, $N_B$ Numero di obbligazioni». La slide 5 lo annuncia: «Si calcola: $V$ il portafoglio di replicazione del derivato». Il docente: «creiamo un portafoglio V, come abbiamo già fatto per trovare il prezzo della call e della put nelle precedenti lezioni», cioè «un certo numero … di azioni per il valore del sottostante più una certa quantità di obbligazioni» (transcript [00:01:52]–[00:02:06]). ⚠️ $N_s$ conta le azioni, $N_B$ le obbligazioni; è una somma, non il $\pi = f - \Delta S$ della lezione 15.
+**Opzione:** $V_t = f(S,t) = N_sS_t + N_BB_t$, con $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 **Distrattori:**
-- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di obbligazioni e N_B numero di azioni
-- dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
-- dS_t/S_t ∼ N(μdt, σ²dt)
+- $V_t = f(S,t) = N_sS_t + N_BB_t$, con $N_s$ numero di obbligazioni e $N_B$ numero di azioni
+- $dB_t = rB_t\,dt$, con soluzione $B_t = e^{rt}\ \forall t \in [0,T]$
+- $\frac{dS_t}{S_t} \sim N(\mu\,dt, \sigma^2dt)$
 
 **D:** ⚠️ Che cosa rappresentano, per il docente della lezione 17, le obbligazioni del portafoglio di replica?
-**R:** «Obbligazioni sarebbero il titolo privo di rischio, quindi rappresentano il valore finanziario del tempo. Ricordate, le abbiamo anche visti come fattore di sconto e fattore di capitalizzazione» (transcript [00:02:18]–[00:02:26]). È solo nel transcript: le slide dicono «B il processo dell'obbligazione» (slide 4) e «N_B Numero di obbligazioni» (slide 6), e la slide 9 dà dB_t = rB_tdt.
+**R:** «Obbligazioni sarebbero il titolo privo di rischio, quindi rappresentano il valore finanziario del tempo. Ricordate, le abbiamo anche visti come fattore di sconto e fattore di capitalizzazione» (transcript [00:02:18]–[00:02:26]). È solo nel transcript: le slide dicono «$B$ il processo dell'obbligazione» (slide 4) e «$N_B$ Numero di obbligazioni» (slide 6), e la slide 9 dà $dB_t = rB_t\,dt$.
 **Opzione:** Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
 **Distrattori:**
 - Il titolo rischioso, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
 - Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi stocastici
 - Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
 
-**D:** ⚠️ Quale ipotesi fa la slide 7 della lezione 17 sul processo del sottostante, e come è distribuito dZ_t?
-**R:** Slide 7, «Definizione dei processi»: «Ipotesi: dS_t = μS_tdt + σS_tdZ_t. Dove: dZ_t ∼ ε√dt, ε ∼ N(0,1)». Il docente: il sottostante evolve «attraverso un moto geometrico browniano», con «una parte deterministica e … una parte stocastica», «guidata da un processo di Wiener» (transcript [00:02:32]–[00:03:25]). ⚠️ dZ_t è ε per √dt: a [00:02:50] il docente dice «moltiplicato per il delta t», senza radice, ma la slide 7 e lo stesso docente a [00:19:30] dicono ε√dt.
-**Opzione:** dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
+**D:** ⚠️ Quale ipotesi fa la slide 7 della lezione 17 sul processo del sottostante, e come è distribuito $dZ_t$?
+**R:** Slide 7, «Definizione dei processi»: «Ipotesi: $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$. Dove: $dZ_t \sim \varepsilon\sqrt{dt}$, $\varepsilon \sim N(0,1)$». Il docente: il sottostante evolve «attraverso un moto geometrico browniano», con «una parte deterministica e … una parte stocastica», «guidata da un processo di Wiener» (transcript [00:02:32]–[00:03:25]). ⚠️ $dZ_t$ è $\varepsilon$ per $\sqrt{dt}$: a [00:02:50] il docente dice «moltiplicato per il delta t», senza radice, ma la slide 7 e lo stesso docente a [00:19:30] dicono $\varepsilon\sqrt{dt}$.
+**Opzione:** $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$, con $dZ_t \sim \varepsilon\sqrt{dt}$ ed $\varepsilon \sim N(0,1)$
 **Distrattori:**
-- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ εdt ed ε ∼ N(0,1)
-- N_B = (1/B)(f(S,t) - (∂f/∂S)S)
-- (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+- $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$, con $dZ_t \sim \varepsilon\,dt$ ed $\varepsilon \sim N(0,1)$
+- $N_B = \frac{1}{B}\left(f(S,t) - \frac{\partial f}{\partial S}S\right)$
+- $(\Theta + \Delta rS + \frac{1}{2}(\sigma S_t)^2\Gamma) = rf(S,t)$
 
-**D:** ⚠️ Come è distribuito dS_t/S_t secondo la slide 8 della lezione 17?
-**R:** Slide 8: dalle ipotesi della slide 7, dS_t = μS_tdt + σS_tdZ_t e dZ_t ∼ ε√dt, una freccia porta a dS_t/S_t ∼ N(μdt, σ²dt). Il docente: dS_t/S_t «è distribuito come una normale … che ha media pari a mu dt e una varianza che altro non è che sigma quadro dt» (transcript [00:03:31]–[00:03:38]). ⚠️ La media è μdt, non zero: il drift resta. Il secondo parametro è la varianza σ²dt.
-**Opzione:** dS_t/S_t ∼ N(μdt, σ²dt)
+**D:** ⚠️ Come è distribuito $\frac{dS_t}{S_t}$ secondo la slide 8 della lezione 17?
+**R:** Slide 8: dalle ipotesi della slide 7, $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$ e $dZ_t \sim \varepsilon\sqrt{dt}$, una freccia porta a $\frac{dS_t}{S_t} \sim N(\mu\,dt, \sigma^2dt)$. Il docente: $\frac{dS_t}{S_t}$ «è distribuito come una normale … che ha media pari a mu dt e una varianza che altro non è che sigma quadro dt» (transcript [00:03:31]–[00:03:38]). ⚠️ La media è $\mu\,dt$, non zero: il drift resta. Il secondo parametro è la varianza $\sigma^2dt$.
+**Opzione:** $\frac{dS_t}{S_t} \sim N(\mu\,dt, \sigma^2dt)$
 **Distrattori:**
-- dS_t/S_t ∼ N(0, σ²dt)
-- Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
-- dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
+- $\frac{dS_t}{S_t} \sim N(0, \sigma^2dt)$
+- $\Theta = \frac{\partial f}{\partial t}$, $\Delta = \frac{\partial f}{\partial S}$, $\Gamma = \frac{\partial^2 f}{\partial S^2}$
+- $dB_t = rB_t\,dt$, con soluzione $B_t = e^{rt}\ \forall t \in [0,T]$
 
 **D:** ⚠️ Quale ipotesi fa la slide 9 della lezione 17 sul processo dell'obbligazione, e qual è la sua soluzione?
-**R:** Slide 9: «Ipotesi: dB_t = rB_tdt. La cui soluzione è: B_t = e^(rt) ∀t ∈ [0,T]». Il docente: è «un'equazione differenziale ordinaria del primo ordine», «questo l'abbiamo anche visto in precedenza come fattore di capitalizzazione, questo r è il tasso di interesse privo di rischio» (transcript [00:03:54]–[00:04:14]). ⚠️ L'esponente è positivo: B_t è un fattore di capitalizzazione, non di sconto.
-**Opzione:** dB_t = rB_tdt, con soluzione B_t = e^(rt) ∀t ∈ [0,T]
+**R:** Slide 9: «Ipotesi: $dB_t = rB_t\,dt$. La cui soluzione è: $B_t = e^{rt}\ \forall t \in [0,T]$». Il docente: è «un'equazione differenziale ordinaria del primo ordine», «questo l'abbiamo anche visto in precedenza come fattore di capitalizzazione, questo r è il tasso di interesse privo di rischio» (transcript [00:03:54]–[00:04:14]). ⚠️ L'esponente è positivo: $B_t$ è un fattore di capitalizzazione, non di sconto.
+**Opzione:** $dB_t = rB_t\,dt$, con soluzione $B_t = e^{rt}\ \forall t \in [0,T]$
 **Distrattori:**
-- dB_t = rB_tdt, con soluzione B_t = e^(-rt) ∀t ∈ [0,T]
-- Di ordine √dt, perché dZ_t ∼ ε√dt
-- υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+- $dB_t = rB_t\,dt$, con soluzione $B_t = e^{-rt}\ \forall t \in [0,T]$
+- Di ordine $\sqrt{dt}$, perché $dZ_t \sim \varepsilon\sqrt{dt}$
+- $\upsilon = \frac{\partial f}{\partial\sigma}$, la derivata prima del derivato rispetto alla volatilità
 
 **D:** ⚠️ Quale ipotesi fa la slide 10 della lezione 17 sulla dinamica del portafoglio di replicazione?
-**R:** Slide 10: «Ipotesi: dV_t = N_sdS_t + N_BdB_t. Dove: V_t = f(S,t)». Il docente: il portafoglio di replica è «una certa quantità … di azioni per dS_t più una certa quantità di obbligazioni per dB_t», ed «è anch'esso una funzione di S e di t piccolo» (transcript [00:04:40]–[00:05:03]). ⚠️ Si differenziano S e B; N_s e N_B restano fuori dal differenziale.
-**Opzione:** dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+**R:** Slide 10: «Ipotesi: $dV_t = N_s\,dS_t + N_B\,dB_t$. Dove: $V_t = f(S,t)$». Il docente: il portafoglio di replica è «una certa quantità … di azioni per $dS_t$ più una certa quantità di obbligazioni per $dB_t$», ed «è anch'esso una funzione di S e di t piccolo» (transcript [00:04:40]–[00:05:03]). ⚠️ Si differenziano $S$ e $B$; $N_s$ e $N_B$ restano fuori dal differenziale.
+**Opzione:** $dV_t = N_s\,dS_t + N_B\,dB_t$, dove $V_t = f(S,t)$
 **Distrattori:**
-- dV_t = S_tdN_s + B_tdN_B, dove V_t = f(S,t)
-- μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
-- σ²S_t²dt
+- $dV_t = S_t\,dN_s + B_t\,dN_B$, dove $V_t = f(S,t)$
+- $\mu S_t = a$ e $\sigma S_t = b$, quindi $dS_t = a\,dt + b\,dZ_t$, un processo di Itô
+- $\sigma^2S_t^2dt$
 
-**D:** ⚠️ Che cosa si ottiene nelle slide 11–13 della lezione 17, sostituendo dS_t e dB_t nel differenziale del portafoglio e raccogliendo?
-**R:** Slide 11, «Applicando la definizione dei processi S e B»: dV_t = N_s(μS_tdt + σS_tdZ_t) + N_B(rB_tdt); slide 12, «… moltiplicando»: dV_t = N_sμS_tdt + N_sσS_tdZ_t + N_BrB_tdt; slide 13, «raccogliendo»: dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t. Il docente: raccogliere a fattor comune «serve a isolare la parte stocastica dalla parte deterministica» (transcript [00:05:06]–[00:06:08]). ⚠️ Nella componente stocastica c'è solo N_s: l'obbligazione non ha termine in dZ_t.
-**Opzione:** dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
+**D:** ⚠️ Che cosa si ottiene nelle slide 11–13 della lezione 17, sostituendo $dS_t$ e $dB_t$ nel differenziale del portafoglio e raccogliendo?
+**R:** Slide 11, «Applicando la definizione dei processi $S$ e $B$»: $dV_t = N_s(\mu S_t\,dt + \sigma S_t\,dZ_t) + N_B(rB_t\,dt)$; slide 12, «… moltiplicando»: $dV_t = N_s\mu S_t\,dt + N_s\sigma S_t\,dZ_t + N_BrB_t\,dt$; slide 13, «raccogliendo»: $dV_t = (N_s\mu S_t + N_BrB_t)\,dt + \sigma S_tN_s\,dZ_t$. Il docente: raccogliere a fattor comune «serve a isolare la parte stocastica dalla parte deterministica» (transcript [00:05:06]–[00:06:08]). ⚠️ Nella componente stocastica c'è solo $N_s$: l'obbligazione non ha termine in $dZ_t$.
+**Opzione:** $dV_t = (N_s\mu S_t + N_BrB_t)\,dt + \sigma S_tN_s\,dZ_t$
 **Distrattori:**
-- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_BdZ_t
-- dS_t/S_t ∼ N(μdt, σ²dt)
-- υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+- $dV_t = (N_s\mu S_t + N_BrB_t)\,dt + \sigma S_tN_B\,dZ_t$
+- $\frac{dS_t}{S_t} \sim N(\mu\,dt, \sigma^2dt)$
+- $\upsilon = \frac{\partial f}{\partial\sigma}$, la derivata prima del derivato rispetto alla volatilità
 
-**D:** ⚠️ Come si definiscono a e b nelle slide 14–15 della lezione 17, e che forma prende dS_t?
-**R:** Slide 14–15: «Si definiscano: μS_t = a, σS_t = b», da cui dS_t = adt + bdZ_t, «Processi di ITO». Il docente: «otteniamo un processo di Ito generalizzato … E questo è importante come conclusione, perché siamo nelle condizioni di utilizzare il lemma di Ito» (transcript [00:06:21]–[00:06:45]). ⚠️ a è il drift μS_t e moltiplica dt, b è la diffusione σS_t e moltiplica dZ_t.
-**Opzione:** μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
+**D:** ⚠️ Come si definiscono $a$ e $b$ nelle slide 14–15 della lezione 17, e che forma prende $dS_t$?
+**R:** Slide 14–15: «Si definiscano: $\mu S_t = a$, $\sigma S_t = b$», da cui $dS_t = a\,dt + b\,dZ_t$, «Processi di ITO». Il docente: «otteniamo un processo di Ito generalizzato … E questo è importante come conclusione, perché siamo nelle condizioni di utilizzare il lemma di Ito» (transcript [00:06:21]–[00:06:45]). ⚠️ $a$ è il drift $\mu S_t$ e moltiplica $dt$, $b$ è la diffusione $\sigma S_t$ e moltiplica $dZ_t$.
+**Opzione:** $\mu S_t = a$ e $\sigma S_t = b$, quindi $dS_t = a\,dt + b\,dZ_t$, un processo di Itô
 **Distrattori:**
-- μS_t = a e σS_t = b, quindi dS_t = bdt + adZ_t, un processo di Itô
-- N_B = (1/B)(f(S,t) - (∂f/∂S)S)
+- $\mu S_t = a$ e $\sigma S_t = b$, quindi $dS_t = b\,dt + a\,dZ_t$, un processo di Itô
+- $N_B = \frac{1}{B}\left(f(S,t) - \frac{\partial f}{\partial S}S\right)$
 - dd1 / dr = dd2 /dr
 
-**D:** ⚠️ Come scrive la slide 16 della lezione 17 il differenziale di f=f(S,t) ottenuto con il lemma di Itô?
-**R:** Slide 16: «L'equazione differenziale stocastica associate ad f=f(S,t) è ottenuta attraverso il lemma di Ito (regola di derivazione del moto Browniano)»: df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt. La slide 17 ripete con «(EDS)», «associata» e «Itô», e sostituisce l'EDS di S: df = (∂f/∂t)dt + (∂f/∂S)(adt + bdZ_t) + ½b²(∂²f/∂S²)dt. Il docente: «df è uguale alla derivata prima di f in t in dt più la derivata prima di f in ds più la derivata seconda rispetto ad s, quindi un mezzo, b quadro» (transcript [00:07:08]). ⚠️ Nel termine di secondo ordine c'è b², il quadrato della diffusione σS_t, non a. Le slide 16–17 scrivono «ds» minuscolo.
-**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
+**D:** ⚠️ Come scrive la slide 16 della lezione 17 il differenziale di $f=f(S,t)$ ottenuto con il lemma di Itô?
+**R:** Slide 16: «L'equazione differenziale stocastica associate ad $f=f(S,t)$ è ottenuta attraverso il lemma di Ito (regola di derivazione del moto Browniano)»: $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}ds + \frac{1}{2}b^2\frac{\partial^2 f}{\partial S^2}dt$. La slide 17 ripete con «(EDS)», «associata» e «Itô», e sostituisce l'EDS di $S$: $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}(a\,dt + b\,dZ_t) + \frac{1}{2}b^2\frac{\partial^2 f}{\partial S^2}dt$. Il docente: «df è uguale alla derivata prima di f in t in dt più la derivata prima di f in ds più la derivata seconda rispetto ad s, quindi un mezzo, b quadro» (transcript [00:07:08]). ⚠️ Nel termine di secondo ordine c'è $b^2$, il quadrato della diffusione $\sigma S_t$, non $a$. Le slide 16–17 scrivono «ds» minuscolo.
+**Opzione:** $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}ds + \frac{1}{2}b^2\frac{\partial^2 f}{\partial S^2}dt$
 **Distrattori:**
-- df = (∂f/∂t)dt + (∂f/∂S)ds + ½a²(∂²f/∂S²)dt
-- (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+- $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}ds + \frac{1}{2}a^2\frac{\partial^2 f}{\partial S^2}dt$
+- $(\Theta + \Delta rS + \frac{1}{2}(\sigma S_t)^2\Gamma) = rf(S,t)$
 - J1=StN(d1)
 
-**D:** ⚠️ A che cosa si riduce df nella slide 19 della lezione 17, dopo aver semplificato e sostituito a e b?
-**R:** Slide 18, «semplificando»: df = (∂f/∂t + (∂f/∂S)a + ½b² ∂²f/∂S²)dt + b(∂f/∂S)dZ_t; slide 19, «ricordando: μS_t = a, σS_t = b»: df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t. Il docente: «vedete una parte deterministica ancora una volta», poi «la parte diffusiva che diventa sigma s di t per la derivata prima di f in ds per dz dt» (transcript [00:08:02]–[00:08:32]). ⚠️ Nella componente stocastica c'è la derivata prima ∂f/∂S; la derivata seconda sta nella parte in dt.
-**Opzione:** df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
+**D:** ⚠️ A che cosa si riduce $df$ nella slide 19 della lezione 17, dopo aver semplificato e sostituito $a$ e $b$?
+**R:** Slide 18, «semplificando»: $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}a + \frac{1}{2}b^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + b\frac{\partial f}{\partial S}dZ_t$; slide 19, «ricordando: $\mu S_t = a$, $\sigma S_t = b$»: $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$. Il docente: «vedete una parte deterministica ancora una volta», poi «la parte diffusiva che diventa sigma s di t per la derivata prima di f in ds per dz dt» (transcript [00:08:02]–[00:08:32]). ⚠️ Nella componente stocastica c'è la derivata prima $\frac{\partial f}{\partial S}$; la derivata seconda sta nella parte in $dt$.
+**Opzione:** $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
 **Distrattori:**
-- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂²f/∂S²)dZ_t
-- Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
-- La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+- $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial^2 f}{\partial S^2}dZ_t$
+- $\Theta = \frac{\partial f}{\partial t}$, $\Delta = \frac{\partial f}{\partial S}$, $\Gamma = \frac{\partial^2 f}{\partial S^2}$
+- La volatilità $\sigma$, $f=f(S,t,\sigma)$, studiata con la fattorizzazione di Taylor
 
-**D:** ⚠️ Che cosa si ricava, nelle slide 20–23 della lezione 17, dal confronto delle componenti stocastiche di df e di dV_t?
-**R:** Slide 20–21: «Richiamando l'ipotesi dV_t = df», «Si comparano le componenti stocastiche»; slide 22–23, «Da cui»: σS_tN_sdZ_t ⟷ σS_t(∂f/∂S)dZ_t, quindi N_s = ∂f/∂S. Il docente: «NS, cioè il numero delle azioni che vanno a definire il portafoglio di replica del nostro derivato, non è altro che la derivata prima di f in dS, che è il delta», e «abbiamo riscoperto il valore dell'enumerazione del portafoglio di replica attraverso questa nuova modalità computazionale, anche più diretta» (transcript [00:09:04]–[00:10:24]). ⚠️ Il numero di azioni è la derivata prima, il delta, non la seconda.
-**Opzione:** Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
+**D:** ⚠️ Che cosa si ricava, nelle slide 20–23 della lezione 17, dal confronto delle componenti stocastiche di $df$ e di $dV_t$?
+**R:** Slide 20–21: «Richiamando l'ipotesi $dV_t = df$», «Si comparano le componenti stocastiche»; slide 22–23, «Da cui»: $\sigma S_tN_s\,dZ_t$ ⟷ $\sigma S_t\frac{\partial f}{\partial S}dZ_t$, quindi $N_s = \frac{\partial f}{\partial S}$. Il docente: «NS, cioè il numero delle azioni che vanno a definire il portafoglio di replica del nostro derivato, non è altro che la derivata prima di f in dS, che è il delta», e «abbiamo riscoperto il valore dell'enumerazione del portafoglio di replica attraverso questa nuova modalità computazionale, anche più diretta» (transcript [00:09:04]–[00:10:24]). ⚠️ Il numero di azioni è la derivata prima, il delta, non la seconda.
+**Opzione:** Dal confronto di $\sigma S_tN_s\,dZ_t$ con $\sigma S_t\frac{\partial f}{\partial S}dZ_t$ segue $N_s = \frac{\partial f}{\partial S}$: il numero di azioni è il delta
 **Distrattori:**
-- Dal confronto di σS_tN_sdZ_t con σS_t(∂²f/∂S²)dZ_t segue N_s = ∂²f/∂S²: il numero di azioni è il gamma
-- σ²S_t²dt
+- Dal confronto di $\sigma S_tN_s\,dZ_t$ con $\sigma S_t\frac{\partial^2 f}{\partial S^2}dZ_t$ segue $N_s = \frac{\partial^2 f}{\partial S^2}$: il numero di azioni è il gamma
+- $\sigma^2S_t^2dt$
 - Il titolo privo di rischio, che rappresenta il valore finanziario del tempo, già visto come fattore di sconto e fattore di capitalizzazione
 
-**D:** ⚠️ Come si ricava il numero di obbligazioni N_B nelle slide 24–26 della lezione 17?
-**R:** Slide 24, «Ricordando: V_t = f(S,t) = N_sS_t + N_BB_t»: N_B = (1/B)(f(S,t) - N_sS); slide 25–26, con N_s = ∂f/∂S: N_B = (1/B)(f(S,t) - (∂f/∂S)S). Il docente: il numero di obbligazioni è «1 su B per il valore del derivato meno il numero di azioni per il valore dell'azione», cioè «1 su B per il valore del derivato meno la derivata prima di f in dS, cioè il nostro delta, per S» (transcript [00:10:41]–[00:11:36]). ⚠️ Dentro la parentesi c'è il meno: al valore del derivato si toglie il valore delle azioni. Le slide scrivono S e B senza pedice.
-**Opzione:** N_B = (1/B)(f(S,t) - (∂f/∂S)S)
+**D:** ⚠️ Come si ricava il numero di obbligazioni $N_B$ nelle slide 24–26 della lezione 17?
+**R:** Slide 24, «Ricordando: $V_t = f(S,t) = N_sS_t + N_BB_t$»: $N_B = \frac{1}{B}(f(S,t) - N_sS)$; slide 25–26, con $N_s = \frac{\partial f}{\partial S}$: $N_B = \frac{1}{B}\left(f(S,t) - \frac{\partial f}{\partial S}S\right)$. Il docente: il numero di obbligazioni è «1 su B per il valore del derivato meno il numero di azioni per il valore dell'azione», cioè «1 su B per il valore del derivato meno la derivata prima di f in dS, cioè il nostro delta, per S» (transcript [00:10:41]–[00:11:36]). ⚠️ Dentro la parentesi c'è il meno: al valore del derivato si toglie il valore delle azioni. Le slide scrivono $S$ e $B$ senza pedice.
+**Opzione:** $N_B = \frac{1}{B}\left(f(S,t) - \frac{\partial f}{\partial S}S\right)$
 **Distrattori:**
-- N_B = (1/B)(f(S,t) + (∂f/∂S)S)
-- df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
-- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
+- $N_B = \frac{1}{B}\left(f(S,t) + \frac{\partial f}{\partial S}S\right)$
+- $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}ds + \frac{1}{2}b^2\frac{\partial^2 f}{\partial S^2}dt$
+- $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$, con $dZ_t \sim \varepsilon\sqrt{dt}$ ed $\varepsilon \sim N(0,1)$
 
-**D:** ⚠️ Come diventa dV_t nelle slide 27–29 della lezione 17, sostituendo N_s e N_B?
-**R:** Slide 27–28, «Sostituendo nell'EDS di V»: dV_t = ((∂f/∂S)μS_t + (1/B)(f(S,t) - (∂f/∂S)S)rB_t)dt + σS_t(∂f/∂S)dZ_t; slide 29, «Semplificando»: dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t. Il docente: la parte deterministica «diventa il delta per mu di s di t più r per il valore del derivato meno il delta per rs», mentre «rimane invece inalterata la parte stocastica in dz» (transcript [00:11:48]–[00:13:16]). ⚠️ 1/B e B_t si semplificano e resta rf(S,t); il termine in rS ha il meno.
-**Opzione:** dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+**D:** ⚠️ Come diventa $dV_t$ nelle slide 27–29 della lezione 17, sostituendo $N_s$ e $N_B$?
+**R:** Slide 27–28, «Sostituendo nell'EDS di $V$»: $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + \frac{1}{B}\left(f(S,t) - \frac{\partial f}{\partial S}S\right)rB_t\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$; slide 29, «Semplificando»: $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$. Il docente: la parte deterministica «diventa il delta per mu di s di t più r per il valore del derivato meno il delta per rs», mentre «rimane invece inalterata la parte stocastica in dz» (transcript [00:11:48]–[00:13:16]). ⚠️ $\frac{1}{B}$ e $B_t$ si semplificano e resta $rf(S,t)$; il termine in $rS$ ha il meno.
+**Opzione:** $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
 **Distrattori:**
-- dV_t = ((∂f/∂S)μS_t + rf(S,t) + (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
-- dS_t = μS_tdt + σS_tdZ_t, con dZ_t ∼ ε√dt ed ε ∼ N(0,1)
-- μS_t = a e σS_t = b, quindi dS_t = adt + bdZ_t, un processo di Itô
+- $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) + \frac{\partial f}{\partial S}rS\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
+- $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$, con $dZ_t \sim \varepsilon\sqrt{dt}$ ed $\varepsilon \sim N(0,1)$
+- $\mu S_t = a$ e $\sigma S_t = b$, quindi $dS_t = a\,dt + b\,dZ_t$, un processo di Itô
 
-**D:** ⚠️ Quale uguaglianza dà, nelle slide 30–33 della lezione 17, il confronto delle componenti deterministiche di df e di dV_t?
-**R:** Slide 30–32: «Richiamando l'ipotesi: dV_t = df», «Confrontiamo le componenti deterministiche»; slide 33: (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS). Il docente: «La parte stocastica è già identica, quindi c'è poco da andare a confrontare» (transcript [00:14:04]). ⚠️ A sinistra la parte in dt di df, a destra quella di dV_t: ∂²f/∂S² sta solo a sinistra, rf(S,t) solo a destra.
-**Opzione:** (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
+**D:** ⚠️ Quale uguaglianza dà, nelle slide 30–33 della lezione 17, il confronto delle componenti deterministiche di $df$ e di $dV_t$?
+**R:** Slide 30–32: «Richiamando l'ipotesi: $dV_t = df$», «Confrontiamo le componenti deterministiche»; slide 33: $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)$. Il docente: «La parte stocastica è già identica, quindi c'è poco da andare a confrontare» (transcript [00:14:04]). ⚠️ A sinistra la parte in $dt$ di $df$, a destra quella di $dV_t$: $\frac{\partial^2 f}{\partial S^2}$ sta solo a sinistra, $rf(S,t)$ solo a destra.
+**Opzione:** $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)$
 **Distrattori:**
-- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + μf(S,t) - (∂f/∂S)rS)
-- Di ordine √dt, perché dZ_t ∼ ε√dt
-- dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = \left(\frac{\partial f}{\partial S}\mu S_t + \mu f(S,t) - \frac{\partial f}{\partial S}rS\right)$
+- Di ordine $\sqrt{dt}$, perché $dZ_t \sim \varepsilon\sqrt{dt}$
+- $dV_t = N_s\,dS_t + N_B\,dB_t$, dove $V_t = f(S,t)$
 
 **D:** ⚠️ Come si scrive la PDE di Black-Scholes nella slide 34 della lezione 17?
-**R:** Slide 34: dall'uguaglianza della slide 33 una freccia porta a (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), «… anche conosciuta come PDE di black-Scholes» (la «b» minuscola è della slide). La slide 38 la ripete sotto «dV = df». Il docente: «la derivata prima di f in t più la derivata prima di f in s per rs più mezzo sigma s quadro per la derivata seconda di f in s, non è altro che uguale … a rf(S,t). E questa equazione … è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Nel coefficiente di ∂f/∂S c'è rS, non μS_t.
-**Opzione:** (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+**R:** Slide 34: dall'uguaglianza della slide 33 una freccia porta a $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$, «… anche conosciuta come PDE di black-Scholes» (la «b» minuscola è della slide). La slide 38 la ripete sotto «$dV = df$». Il docente: «la derivata prima di f in t più la derivata prima di f in s per rs più mezzo sigma s quadro per la derivata seconda di f in s, non è altro che uguale … a rf(S,t). E questa equazione … è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Nel coefficiente di $\frac{\partial f}{\partial S}$ c'è $rS$, non $\mu S_t$.
+**Opzione:** $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$
 **Distrattori:**
-- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
-- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
-- dV_t = N_sdS_t + N_BdB_t, dove V_t = f(S,t)
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$
+- $V_t = f(S,t) = N_sS_t + N_BB_t$, con $N_s$ numero di azioni e $N_B$ numero di obbligazioni
+- $dV_t = N_s\,dS_t + N_B\,dB_t$, dove $V_t = f(S,t)$
 
 **D:** ⚠️ Quale termine si elide passando dall'uguaglianza della slide 33 alla PDE della slide 34, nella lezione 17, e che cosa ne segue?
-**R:** Si elide (∂f/∂S)μS_t, che compare in entrambi i membri della slide 33; -(∂f/∂S)rS passa a sinistra con il più. La PDE della slide 34 non contiene μ: il coefficiente di ∂f/∂S è rS. Il docente la ottiene «attraverso ictu oculi queste opportune identità» (transcript [00:14:43]). È una lettura delle due slide: né le slide né il docente nominano il termine eliso. È lo stesso esito della lezione 15, dove μ sparisce con la scelta Δ = ∂f/∂S.
-**Opzione:** Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
+**R:** Si elide $\frac{\partial f}{\partial S}\mu S_t$, che compare in entrambi i membri della slide 33; $-\frac{\partial f}{\partial S}rS$ passa a sinistra con il più. La PDE della slide 34 non contiene $\mu$: il coefficiente di $\frac{\partial f}{\partial S}$ è $rS$. Il docente la ottiene «attraverso ictu oculi queste opportune identità» (transcript [00:14:43]). È una lettura delle due slide: né le slide né il docente nominano il termine eliso. È lo stesso esito della lezione 15, dove $\mu$ sparisce con la scelta $\Delta = \frac{\partial f}{\partial S}$.
+**Opzione:** Si elide $\frac{\partial f}{\partial S}\mu S_t$, presente in entrambi i membri: la PDE non contiene $\mu$
 **Distrattori:**
-- Si elide ½(σS_t)² ∂²f/∂S², presente in entrambi i membri: la PDE non contiene σ
-- Solo per il termine + o(dt), che la formula di Taylor porta in coda
-- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+- Si elide $\frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}$, presente in entrambi i membri: la PDE non contiene $\sigma$
+- Solo per il termine $+ o(dt)$, che la formula di Taylor porta in coda
+- $S$ il processo del prezzo dell'azione, $B$ il processo dell'obbligazione, $f$ il processo del derivato, dove $f=f(S,t)$
 
-**D:** ⚠️ Che cosa ricavano le slide 35–36 della lezione 17 dal fatto che la componente dZ è la stessa per dV e df?
-**R:** Slide 35–36: «… considerando che la componente dZ è la stessa sia per dV and df» (sic): «La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo» e «Il derivato può essere replicato da un portafoglio composto da N_s Numero di azioni, N_B Numero di obbligazioni». Il docente: «il derivato in realtà può essere analiticamente replicato da un portafoglio composto da un numero di azioni NS e un numero di obbligazioni NB. Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:19]–[00:15:54]).
-**Opzione:** La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+**D:** ⚠️ Che cosa ricavano le slide 35–36 della lezione 17 dal fatto che la componente $dZ$ è la stessa per $dV$ e $df$?
+**R:** Slide 35–36: «… considerando che la componente $dZ$ è la stessa sia per $dV$ and $df$» (sic): «La PDE di Black-Scholes descrive $f=f(S,t)$ allo scorrere del tempo» e «Il derivato può essere replicato da un portafoglio composto da $N_s$ Numero di azioni, $N_B$ Numero di obbligazioni». Il docente: «il derivato in realtà può essere analiticamente replicato da un portafoglio composto da un numero di azioni NS e un numero di obbligazioni NB. Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:19]–[00:15:54]).
+**Opzione:** La PDE di Black-Scholes descrive $f=f(S,t)$ allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 **Distrattori:**
-- La PDE di Black-Scholes descrive f=f(S,t) al variare della volatilità, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
-- Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
-- S il processo del prezzo dell'azione, B il processo dell'obbligazione, f il processo del derivato, dove f=f(S,t)
+- La PDE di Black-Scholes descrive $f=f(S,t)$ al variare della volatilità, e il derivato può essere replicato da un portafoglio composto da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
+- Si può calcolare l'espressione differenziale di $f=f(S,t)$ sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+- $S$ il processo del prezzo dell'azione, $B$ il processo dell'obbligazione, $f$ il processo del derivato, dove $f=f(S,t)$
 
 **D:** Che cosa cambia fra la PDE di Black-Scholes della lezione 17 (slide 34) e l'EDP della lezione 15?
-**R:** È la stessa equazione, scritta e ricavata in un altro modo. Lezione 15 (slide 7): -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0, dal portafoglio π = f - ΔS con Δ = ∂f/∂S e dalla condizione di non arbitraggio dπ = rπdt. Lezione 17 (slide 34): (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), dal portafoglio di replicazione V_t = N_sS_t + N_BB_t e dal confronto delle componenti stocastiche e deterministiche di dV_t = df. Cambiano la posizione di rf, al secondo membro invece che -rf a sinistra, e la scrittura (σS_t)² invece di σ²S². In entrambe c'è r e non μ, e il numero di azioni è ∂f/∂S: Δ nella 15, N_s nella 17. Il docente: «Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:54]).
+**R:** È la stessa equazione, scritta e ricavata in un altro modo. Lezione 15 (slide 7): $-rf + \frac{\partial f}{\partial S}rS + \frac{\partial f}{\partial t} + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}\sigma^2S^2 = 0$, dal portafoglio $\pi = f - \Delta S$ con $\Delta = \frac{\partial f}{\partial S}$ e dalla condizione di non arbitraggio $d\pi = r\pi\,dt$. Lezione 17 (slide 34): $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$, dal portafoglio di replicazione $V_t = N_sS_t + N_BB_t$ e dal confronto delle componenti stocastiche e deterministiche di $dV_t = df$. Cambiano la posizione di $rf$, al secondo membro invece che $-rf$ a sinistra, e la scrittura $(\sigma S_t)^2$ invece di $\sigma^2S^2$. In entrambe c'è $r$ e non $\mu$, e il numero di azioni è $\frac{\partial f}{\partial S}$: $\Delta$ nella 15, $N_s$ nella 17. Il docente: «Vedete come quanto avevamo derivato precedentemente con altra modalità arriva in maniera più diretta» (transcript [00:15:54]).
 
 **D:** ⚠️ Come definisce la slide 37 della lezione 17 Theta, Delta e Gamma?
-**R:** Slide 37, «… si definiscano»: Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S². Il docente: «Definiamo θ come la derivata prima di f in dt, quindi … l'evoluzione del valore del derivato f al variare del tempo, delta, l'abbiamo già definita in precedenza, ma ricordiamo come la derivata prima del valore del derivato rispetto al sottostante, e gamma, la derivata seconda del valore del derivato rispetto al sottostante» (transcript [00:16:22]–[00:16:30]). ⚠️ Sono derivate parziali del generico derivato f: le formule chiuse della call stanno nella lezione 16, e il deck 17 non le stampa.
-**Opzione:** Θ = ∂f/∂t, Δ = ∂f/∂S, Γ = ∂²f/∂S²
+**R:** Slide 37, «… si definiscano»: $\Theta = \frac{\partial f}{\partial t}$, $\Delta = \frac{\partial f}{\partial S}$, $\Gamma = \frac{\partial^2 f}{\partial S^2}$. Il docente: «Definiamo θ come la derivata prima di f in dt, quindi … l'evoluzione del valore del derivato f al variare del tempo, delta, l'abbiamo già definita in precedenza, ma ricordiamo come la derivata prima del valore del derivato rispetto al sottostante, e gamma, la derivata seconda del valore del derivato rispetto al sottostante» (transcript [00:16:22]–[00:16:30]). ⚠️ Sono derivate parziali del generico derivato $f$: le formule chiuse della call stanno nella lezione 16, e il deck 17 non le stampa.
+**Opzione:** $\Theta = \frac{\partial f}{\partial t}$, $\Delta = \frac{\partial f}{\partial S}$, $\Gamma = \frac{\partial^2 f}{\partial S^2}$
 **Distrattori:**
-- Θ = ∂²f/∂S², Δ = ∂f/∂S, Γ = ∂f/∂t
-- df = (∂f/∂t)dt + (∂f/∂S)ds + ½b²(∂²f/∂S²)dt
-- V_t = f(S,t) = N_sS_t + N_BB_t, con N_s numero di azioni e N_B numero di obbligazioni
+- $\Theta = \frac{\partial^2 f}{\partial S^2}$, $\Delta = \frac{\partial f}{\partial S}$, $\Gamma = \frac{\partial f}{\partial t}$
+- $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}ds + \frac{1}{2}b^2\frac{\partial^2 f}{\partial S^2}dt$
+- $V_t = f(S,t) = N_sS_t + N_BB_t$, con $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 
 **D:** ⚠️ Come si riscrive la PDE di Black-Scholes con le greche nella slide 38 della lezione 17?
-**R:** Slide 38: le definizioni Θ, Δ, Γ convergono su «dV = df»: (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), quindi (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t). Il docente: «possiamo riscriverla in termini delle nostre greche come θ più Δ rS più un mezzo σS² per Γ uguale a rf(S,t)» (transcript [00:16:56]). ⚠️ Δ moltiplica rS, Γ moltiplica ½(σS_t)².
-**Opzione:** (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t)
+**R:** Slide 38: le definizioni $\Theta$, $\Delta$, $\Gamma$ convergono su «$dV = df$»: $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$, quindi $(\Theta + \Delta rS + \frac{1}{2}(\sigma S_t)^2\Gamma) = rf(S,t)$. Il docente: «possiamo riscriverla in termini delle nostre greche come θ più Δ rS più un mezzo $\sigma S^2$ per Γ uguale a rf(S,t)» (transcript [00:16:56]). ⚠️ $\Delta$ moltiplica $rS$, $\Gamma$ moltiplica $\frac{1}{2}(\sigma S_t)^2$.
+**Opzione:** $(\Theta + \Delta rS + \frac{1}{2}(\sigma S_t)^2\Gamma) = rf(S,t)$
 **Distrattori:**
-- (Θ + ΓrS + ½(σS_t)²Δ) = rf(S,t)
-- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
-- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
+- $(\Theta + \Gamma rS + \frac{1}{2}(\sigma S_t)^2\Delta) = rf(S,t)$
+- $dV_t = (N_s\mu S_t + N_BrB_t)\,dt + \sigma S_tN_s\,dZ_t$
+- $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
 
 **D:** Perché, per il docente della lezione 17, la PDE riscritta con le greche è «una bella rappresentazione»?
-**R:** Perché «fa capire ancora più analiticamente» che le greche, che «servono a gestire il rischio derivante dalle oscillazioni del valore del derivato in relazione a quella del sottostante, l'evolvere del tempo, guarda caso sono proprio contenute nella definizione dell'equazione differenziale parziale» (transcript [00:17:28]–[00:17:56]). Nella slide 38, (Θ + ΔrS + ½(σS_t)²Γ) = rf(S,t), compaiono Θ, Δ e Γ.
+**R:** Perché «fa capire ancora più analiticamente» che le greche, che «servono a gestire il rischio derivante dalle oscillazioni del valore del derivato in relazione a quella del sottostante, l'evolvere del tempo, guarda caso sono proprio contenute nella definizione dell'equazione differenziale parziale» (transcript [00:17:28]–[00:17:56]). Nella slide 38, $(\Theta + \Delta rS + \frac{1}{2}(\sigma S_t)^2\Gamma) = rf(S,t)$, compaiono $\Theta$, $\Delta$ e $\Gamma$.
 
-**D:** ⚠️ Che cosa afferma la slide 39 della lezione 17 sul calcolo dell'espressione differenziale di f?
-**R:** Slide 39: «È importante osservare che si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato». Il docente: il lemma di Itô «potrebbe essere un metodo di natura stocastica», ma «esiste anche un metodo matematico», la formula di Taylor, «che ci consente di studiare con un ordine di infinitesimo di errore il valore e l'evoluzione di un'espressione differenziale» (transcript [00:18:45]–[00:19:07]); dopo il confronto: «ancorché utilizzando altre categorie analitiche che vengono dall'analisi matematica arriviamo agli stessi risultati di queste modalità esplicative tipiche della teoria della misura» ([00:22:18]).
-**Opzione:** Si può calcolare l'espressione differenziale di f=f(S,t) sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
+**D:** ⚠️ Che cosa afferma la slide 39 della lezione 17 sul calcolo dell'espressione differenziale di $f$?
+**R:** Slide 39: «È importante osservare che si può calcolare l'espressione differenziale di $f=f(S,t)$ sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato». Il docente: il lemma di Itô «potrebbe essere un metodo di natura stocastica», ma «esiste anche un metodo matematico», la formula di Taylor, «che ci consente di studiare con un ordine di infinitesimo di errore il valore e l'evoluzione di un'espressione differenziale» (transcript [00:18:45]–[00:19:07]); dopo il confronto: «ancorché utilizzando altre categorie analitiche che vengono dall'analisi matematica arriviamo agli stessi risultati di queste modalità esplicative tipiche della teoria della misura» ([00:22:18]).
+**Opzione:** Si può calcolare l'espressione differenziale di $f=f(S,t)$ sia attraverso la formula di Taylor che attraverso il lemma di ITO ottenendo lo stesso risultato
 **Distrattori:**
-- Si può calcolare l'espressione differenziale di f=f(S,t) solo attraverso il lemma di ITO, perché la formula di Taylor dà un risultato diverso
+- Si può calcolare l'espressione differenziale di $f=f(S,t)$ solo attraverso il lemma di ITO, perché la formula di Taylor dà un risultato diverso
 - Un insieme complesso di indicatori correlati con il profilo di rischio-rendimento del prodotto finanziario, che è simulato attraverso processi stocastici
-- La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+- La PDE di Black-Scholes descrive $f=f(S,t)$ allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 
-**D:** ⚠️ Di che ordine è il processo dS nella slide 41 della lezione 17, e perché?
-**R:** Slide 41, «Calcolo di df attraverso la formula di Taylor»: «Si ricorda che il processo dS è di ordine √dt», con dS_t = μS_tdt + σS_tdZ_t e dZ_t ∼ ε√dt. Il docente: «il processo di s è di ordine radice quadrata di delta t … Perché il moto geometrico browniano … altro non è che mu S dt più sigma S dZ_t. Ma dZ_t è distribuito come epsilon radice di delta T, dove epsilon è una normale 0,1» (transcript [00:19:20]–[00:19:52]). ⚠️ Di ordine √dt, non dt: è l'ordine di dZ_t.
-**Opzione:** Di ordine √dt, perché dZ_t ∼ ε√dt
+**D:** ⚠️ Di che ordine è il processo $dS$ nella slide 41 della lezione 17, e perché?
+**R:** Slide 41, «Calcolo di $df$ attraverso la formula di Taylor»: «Si ricorda che il processo $dS$ è di ordine $\sqrt{dt}$», con $dS_t = \mu S_t\,dt + \sigma S_t\,dZ_t$ e $dZ_t \sim \varepsilon\sqrt{dt}$. Il docente: «il processo di s è di ordine radice quadrata di delta t … Perché il moto geometrico browniano … altro non è che mu S dt più sigma S $dZ_t$. Ma $dZ_t$ è distribuito come epsilon radice di delta T, dove epsilon è una normale 0,1» (transcript [00:19:20]–[00:19:52]). ⚠️ Di ordine $\sqrt{dt}$, non $dt$: è l'ordine di $dZ_t$.
+**Opzione:** Di ordine $\sqrt{dt}$, perché $dZ_t \sim \varepsilon\sqrt{dt}$
 **Distrattori:**
-- Di ordine dt, perché dZ_t ∼ εdt
+- Di ordine $dt$, perché $dZ_t \sim \varepsilon\,dt$
 - Ct=St N(d1) + Ke-rt N(d2)
-- Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
+- Si elide $\frac{\partial f}{\partial S}\mu S_t$, presente in entrambi i membri: la PDE non contiene $\mu$
 
-**D:** ⚠️ Fino a quale termine si estende lo sviluppo di Taylor di df nella slide 42 della lezione 17, e perché ci si ferma lì?
-**R:** Slide 42: «È possibile estendere la fattorizzazione di Taylor a o(dt)»: df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂S²)dS² + o(dt). Il docente: «ci si ferma al secondo livello proprio perché abbiamo un ordine di infinitesimo delta t definito grazie alla circostanza che il processo stocastico è di ordine radice quadrata di delta t» (transcript [00:20:26]). ⚠️ Il termine ½(∂²f/∂S²)dS² resta: con dS di ordine √dt, dS² è di ordine dt.
-**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂S²)dS² + o(dt)
+**D:** ⚠️ Fino a quale termine si estende lo sviluppo di Taylor di $df$ nella slide 42 della lezione 17, e perché ci si ferma lì?
+**R:** Slide 42: «È possibile estendere la fattorizzazione di Taylor a $o(dt)$»: $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2 + o(dt)$. Il docente: «ci si ferma al secondo livello proprio perché abbiamo un ordine di infinitesimo delta t definito grazie alla circostanza che il processo stocastico è di ordine radice quadrata di delta t» (transcript [00:20:26]). ⚠️ Il termine $\frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2$ resta: con $dS$ di ordine $\sqrt{dt}$, $dS^2$ è di ordine $dt$.
+**Opzione:** $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2 + o(dt)$
 **Distrattori:**
-- df = (∂f/∂t)dt + (∂f/∂S)dS + ½(∂²f/∂t²)dt² + o(dt)
-- dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
-- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
+- $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{1}{2}\frac{\partial^2 f}{\partial t^2}dt^2 + o(dt)$
+- $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)$
 
-**D:** ⚠️ Che cosa resta, nella slide 44 della lezione 17, del quadrato (μS_tdt + σS_tdZ_t)²?
-**R:** Slide 44, «Si focalizzi l'attenzione sull'espressione seguente»: (μS_tdt + σS_tdZ_t)² = (μ²S_t²dt² + σ²S_t²dt + 2μS_tσS_tdZ_tdt), e sotto «o(dt)» resta σ²S_t²dt. Il docente: «rimane soltanto sigma quadro s quadro dt perché il termine in dt quadro è di un ordine infinitesimo incompatibile con quello in dt. E lo stesso dicasi per l'altro elemento che moltiplica dz in dt»; è «l'algebra di Ito che diceva che dt per dt fa 0, dz per dt fa 0» (transcript [00:21:14]–[00:22:02]). ⚠️ Restano σ² e dt; μ²S_t²dt² e il termine misto vanno nell'o(dt).
-**Opzione:** σ²S_t²dt
+**D:** ⚠️ Che cosa resta, nella slide 44 della lezione 17, del quadrato $(\mu S_t\,dt + \sigma S_t\,dZ_t)^2$?
+**R:** Slide 44, «Si focalizzi l'attenzione sull'espressione seguente»: $(\mu S_t\,dt + \sigma S_t\,dZ_t)^2 = (\mu^2S_t^2dt^2 + \sigma^2S_t^2dt + 2\mu S_t\sigma S_t\,dZ_t\,dt)$, e sotto «$o(dt)$» resta $\sigma^2S_t^2dt$. Il docente: «rimane soltanto sigma quadro s quadro dt perché il termine in dt quadro è di un ordine infinitesimo incompatibile con quello in dt. E lo stesso dicasi per l'altro elemento che moltiplica dz in dt»; è «l'algebra di Ito che diceva che dt per dt fa 0, dz per dt fa 0» (transcript [00:21:14]–[00:22:02]). ⚠️ Restano $\sigma^2$ e $dt$; $\mu^2S_t^2dt^2$ e il termine misto vanno nell'$o(dt)$.
+**Opzione:** $\sigma^2S_t^2dt$
 **Distrattori:**
-- μ²S_t²dt²
-- Si elide (∂f/∂S)μS_t, presente in entrambi i membri: la PDE non contiene μ
-- La PDE di Black-Scholes descrive f=f(S,t) allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da N_s numero di azioni e N_B numero di obbligazioni
+- $\mu^2S_t^2dt^2$
+- Si elide $\frac{\partial f}{\partial S}\mu S_t$, presente in entrambi i membri: la PDE non contiene $\mu$
+- La PDE di Black-Scholes descrive $f=f(S,t)$ allo scorrere del tempo, e il derivato può essere replicato da un portafoglio composto da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 
-**D:** ⚠️ In che cosa differiscono il df ottenuto con la formula di Taylor (slide 45) e quello ottenuto con il lemma di Itô, messi a confronto nella slide 46 della lezione 17?
-**R:** Slide 45, «… semplificando»: df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t + o(dt). La slide 46, «Taylor vs. ITO», lo mette sopra il df del lemma di Itô (slide 19), identico salvo + o(dt), e chiude con «Q.E.D.». Il docente: «Andiamo a confrontare Taylor con Ito … e abbiamo ottenuto sostanzialmente il medesimo risultato» (transcript [00:23:31]–[00:23:36]). ⚠️ La prima riga della slide 45 scrive ½σ²S_t²dt senza ∂²f/∂S², che ricompare nella riga successiva.
-**Opzione:** Solo per il termine + o(dt), che la formula di Taylor porta in coda
+**D:** ⚠️ In che cosa differiscono il $df$ ottenuto con la formula di Taylor (slide 45) e quello ottenuto con il lemma di Itô, messi a confronto nella slide 46 della lezione 17?
+**R:** Slide 45, «… semplificando»: $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t + o(dt)$. La slide 46, «Taylor vs. ITO», lo mette sopra il $df$ del lemma di Itô (slide 19), identico salvo $+ o(dt)$, e chiude con «Q.E.D.». Il docente: «Andiamo a confrontare Taylor con Ito … e abbiamo ottenuto sostanzialmente il medesimo risultato» (transcript [00:23:31]–[00:23:36]). ⚠️ La prima riga della slide 45 scrive $\frac{1}{2}\sigma^2S_t^2dt$ senza $\frac{\partial^2 f}{\partial S^2}$, che ricompare nella riga successiva.
+**Opzione:** Solo per il termine $+ o(dt)$, che la formula di Taylor porta in coda
 **Distrattori:**
-- Per il termine ½(σS_t)² ∂²f/∂S², che il lemma di Itô non ha
-- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
-- dV_t = (N_sμS_t + N_BrB_t)dt + σS_tN_sdZ_t
+- Per il termine $\frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}$, che il lemma di Itô non ha
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
+- $dV_t = (N_s\mu S_t + N_BrB_t)\,dt + \sigma S_tN_s\,dZ_t$
 
 **D:** ⚠️ Che cosa conclude la slide 48 della lezione 17 dal fatto che Taylor e Itô danno lo stesso risultato?
-**R:** Slide 47–48: «… ma se la fattorizzazione di Taylor porta agli stessi risultati del lemma di ITO», «… ma se il lemma di ITO lemma ha mostrato che df = dV … allora il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s Numero di azioni, N_B Numero di obbligazioni». Il docente: «senza perdita di alcuna generalità» (transcript [00:24:12]–[00:24:55]). La slide scrive «ITO lemma» due volte (sic).
-**Opzione:** Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
+**R:** Slide 47–48: «… ma se la fattorizzazione di Taylor porta agli stessi risultati del lemma di ITO», «… ma se il lemma di ITO lemma ha mostrato che $df = dV$ … allora il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da $N_s$ Numero di azioni, $N_B$ Numero di obbligazioni». Il docente: «senza perdita di alcuna generalità» (transcript [00:24:12]–[00:24:55]). La slide scrive «ITO lemma» due volte (sic).
+**Opzione:** Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 **Distrattori:**
-- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di opzioni e N_B numero di obbligazioni
-- df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
-- dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da $N_s$ numero di opzioni e $N_B$ numero di obbligazioni
+- $df = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2 + o(dt)$
+- $dV = df = 0$, da cui $0 = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2$
 
-**D:** ⚠️ Quale variabile aggiunge la slide 49 della lezione 17 alla funzione f, e con quale strumento la si studia?
-**R:** Slide 49: «… pertanto usiamo la fattorizzazione di Taylor al fine di studiare cosa succede quando f=f(S,t,σ) senza perdere in generalità». Il docente: «aggiungiamo un ulteriore fattore, quello della volatilità, cioè quello dell'andamento del derivato non più solo in relazione all'andamento del sottostante del tempo, ma anche in relazione all'andamento della volatilità» (transcript [00:25:13]–[00:25:20]). ⚠️ La variabile nuova è σ, e lo strumento è la formula di Taylor.
-**Opzione:** La volatilità σ, f=f(S,t,σ), studiata con la fattorizzazione di Taylor
+**D:** ⚠️ Quale variabile aggiunge la slide 49 della lezione 17 alla funzione $f$, e con quale strumento la si studia?
+**R:** Slide 49: «… pertanto usiamo la fattorizzazione di Taylor al fine di studiare cosa succede quando $f=f(S,t,\sigma)$ senza perdere in generalità». Il docente: «aggiungiamo un ulteriore fattore, quello della volatilità, cioè quello dell'andamento del derivato non più solo in relazione all'andamento del sottostante del tempo, ma anche in relazione all'andamento della volatilità» (transcript [00:25:13]–[00:25:20]). ⚠️ La variabile nuova è $\sigma$, e lo strumento è la formula di Taylor.
+**Opzione:** La volatilità $\sigma$, $f=f(S,t,\sigma)$, studiata con la fattorizzazione di Taylor
 **Distrattori:**
-- Il tasso privo di rischio r, f=f(S,t,r), studiato con la fattorizzazione di Taylor
-- Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
-- dV_t = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)dt + σS_t(∂f/∂S)dZ_t
+- Il tasso privo di rischio $r$, $f=f(S,t,r)$, studiato con la fattorizzazione di Taylor
+- Dal confronto di $\sigma S_tN_s\,dZ_t$ con $\sigma S_t\frac{\partial f}{\partial S}dZ_t$ segue $N_s = \frac{\partial f}{\partial S}$: il numero di azioni è il delta
+- $dV_t = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
 
-**D:** ⚠️ Quali termini restano, nella slide 50 della lezione 17, dello sviluppo di Taylor di f=f(S,t,σ) esteso a o(dt)?
-**R:** Slide 50, «Derivazione di df con la formula di Taylor»: df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + ½(∂²f/∂σ²)dσ² + ½(∂²f/∂t²)dt² + (∂f/∂S∂t)dtdS + .... + o(dt), con ∂f senza ² nel termine misto; «Possiamo espandere la fattorizzazione a o(dt)»: df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + o(dt). Il docente: «potremmo andare avanti, ma noi abbiamo il limite … dell'ordine di infinitesimo di delta t» (transcript [00:26:04]). ⚠️ Delle derivate seconde resta solo quella in S.
-**Opzione:** df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂S²)dS² + o(dt)
+**D:** ⚠️ Quali termini restano, nella slide 50 della lezione 17, dello sviluppo di Taylor di $f=f(S,t,\sigma)$ esteso a $o(dt)$?
+**R:** Slide 50, «Derivazione di $df$ con la formula di Taylor»: $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{\partial f}{\partial\sigma}d\sigma + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2 + \frac{1}{2}\frac{\partial^2 f}{\partial\sigma^2}d\sigma^2 + \frac{1}{2}\frac{\partial^2 f}{\partial t^2}dt^2 + \frac{\partial f}{\partial S\partial t}dt\,dS + .... + o(dt)$, con $\partial f$ senza $^2$ nel termine misto; «Possiamo espandere la fattorizzazione a $o(dt)$»: $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{\partial f}{\partial\sigma}d\sigma + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2 + o(dt)$. Il docente: «potremmo andare avanti, ma noi abbiamo il limite … dell'ordine di infinitesimo di delta t» (transcript [00:26:04]). ⚠️ Delle derivate seconde resta solo quella in $S$.
+**Opzione:** $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{\partial f}{\partial\sigma}d\sigma + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}dS^2 + o(dt)$
 **Distrattori:**
-- df = (∂f/∂t)dt + (∂f/∂S)dS + (∂f/∂σ)dσ + ½(∂²f/∂σ²)dσ² + o(dt)
-- (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²) = ((∂f/∂S)μS_t + rf(S,t) - (∂f/∂S)rS)
-- Dal confronto di σS_tN_sdZ_t con σS_t(∂f/∂S)dZ_t segue N_s = ∂f/∂S: il numero di azioni è il delta
+- $df = \frac{\partial f}{\partial t}dt + \frac{\partial f}{\partial S}dS + \frac{\partial f}{\partial\sigma}d\sigma + \frac{1}{2}\frac{\partial^2 f}{\partial\sigma^2}d\sigma^2 + o(dt)$
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = \left(\frac{\partial f}{\partial S}\mu S_t + rf(S,t) - \frac{\partial f}{\partial S}rS\right)$
+- Dal confronto di $\sigma S_tN_s\,dZ_t$ con $\sigma S_t\frac{\partial f}{\partial S}dZ_t$ segue $N_s = \frac{\partial f}{\partial S}$: il numero di azioni è il delta
 
 **D:** ⚠️ Come definisce la slide 51 della lezione 17 il Vega, accanto a Theta, Delta e Gamma?
-**R:** Slide 51, «… si definiscano»: Θ = ∂f/∂t, Δ = ∂f/∂S, υ = ∂f/∂σ, Γ = ∂²f/∂S². Il docente: «un'ulteriore definizione, quello del Vega, che abbiamo già derivato analiticamente prima», «vega, derivata prima del nostro derivato rispetto a sigma» (transcript [00:26:53]–[00:27:10]). ⚠️ Il Vega è una derivata prima, rispetto a σ. Il deck 17 lo scrive υ; la lezione 16 lo chiama 𝒱_C e ne dà la forma chiusa per la call.
-**Opzione:** υ = ∂f/∂σ, la derivata prima del derivato rispetto alla volatilità
+**R:** Slide 51, «… si definiscano»: $\Theta = \frac{\partial f}{\partial t}$, $\Delta = \frac{\partial f}{\partial S}$, $\upsilon = \frac{\partial f}{\partial\sigma}$, $\Gamma = \frac{\partial^2 f}{\partial S^2}$. Il docente: «un'ulteriore definizione, quello del Vega, che abbiamo già derivato analiticamente prima», «vega, derivata prima del nostro derivato rispetto a sigma» (transcript [00:26:53]–[00:27:10]). ⚠️ Il Vega è una derivata prima, rispetto a $\sigma$. Il deck 17 lo scrive $\upsilon$; la lezione 16 lo chiama $\mathcal{V}_C$ e ne dà la forma chiusa per la call.
+**Opzione:** $\upsilon = \frac{\partial f}{\partial\sigma}$, la derivata prima del derivato rispetto alla volatilità
 **Distrattori:**
-- υ = ∂²f/∂σ², la derivata seconda del derivato rispetto alla volatilità
-- df = (∂f/∂t + (∂f/∂S)μS_t + ½(σS_t)² ∂²f/∂S²)dt + σS_t(∂f/∂S)dZ_t
-- dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+- $\upsilon = \frac{\partial^2 f}{\partial\sigma^2}$, la derivata seconda del derivato rispetto alla volatilità
+- $df = \left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}\mu S_t + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right)\,dt + \sigma S_t\frac{\partial f}{\partial S}dZ_t$
+- $dV = df = 0$, da cui $0 = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2$
 
-**D:** ⚠️ Come si scrive df con le greche nella slide 52 della lezione 17?
-**R:** Slide 52: le definizioni della slide 51 convergono su «dV = df»: df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt). Il docente: l'equazione è «teta delta t più delta delta s più vega d sigma più mezzo gamma d sigma ds quadro più il nostro ordine di infinitesima» (transcript [00:27:29]): a voce il termine di Γ diventa «d sigma ds quadro», ma la slide scrive ½ΓdS². L'equazione permette di comprendere «in termini di tutte le greche principali che abbiamo derivato … la dinamica del nostro valore del derivato in relazione al valore del sottostante» ([00:27:47]). ⚠️ Γ moltiplica ½dS², non dσ².
-**Opzione:** df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
+**D:** ⚠️ Come si scrive $df$ con le greche nella slide 52 della lezione 17?
+**R:** Slide 52: le definizioni della slide 51 convergono su «$dV = df$»: $df = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2 + o(dt)$. Il docente: l'equazione è «teta delta t più delta delta s più vega d sigma più mezzo gamma d sigma ds quadro più il nostro ordine di infinitesima» (transcript [00:27:29]): a voce il termine di $\Gamma$ diventa «d sigma ds quadro», ma la slide scrive $\frac{1}{2}\Gamma\,dS^2$. L'equazione permette di comprendere «in termini di tutte le greche principali che abbiamo derivato … la dinamica del nostro valore del derivato in relazione al valore del sottostante» ([00:27:47]). ⚠️ $\Gamma$ moltiplica $\frac{1}{2}dS^2$, non $d\sigma^2$.
+**Opzione:** $df = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2 + o(dt)$
 **Distrattori:**
-- df = Θdt + ΔdS + υ dσ + ½Γdσ² + o(dt)
-- Solo per il termine + o(dt), che la formula di Taylor porta in coda
-- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da N_s numero di azioni e N_B numero di obbligazioni
+- $df = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,d\sigma^2 + o(dt)$
+- Solo per il termine $+ o(dt)$, che la formula di Taylor porta in coda
+- Il valore di un derivato può essere studiato attraverso il valore del portafoglio costituito da $N_s$ numero di azioni e $N_B$ numero di obbligazioni
 
 **D:** ⚠️ Quale condizione pongono le slide 53–55 della lezione 17 «al fine di evitare differenze nei portafogli», e che equazione ne segue?
-**R:** Slide 53–55: «… poichè abbiamo dimostrato che dV = df», «Al fine di evitare differenze nei portafogli», dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS². Il docente: «il differenziale del valore del portafoglio e il differenziale del valore del derivato devono essere uguali a zero … il che vuol dire che noi siamo perfettamente coperti da ogni rischio, ecco come nasce il concetto della gestione del rischio» (transcript [00:28:07]–[00:28:35]); l'equazione è «la premessa per costruire la gestione del rischio di posizioni in derivati attraverso lo strumento delle greche» ([00:29:23]). La slide 56 chiude: «…l'hedging in sostanza si basa sulle Greche». ⚠️ Nelle slide 55–56 non c'è o(dt).
-**Opzione:** dV = df = 0, da cui 0 = Θdt + ΔdS + υ dσ + ½ΓdS²
+**R:** Slide 53–55: «… poichè abbiamo dimostrato che $dV = df$», «Al fine di evitare differenze nei portafogli», $dV = df = 0$, da cui $0 = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2$. Il docente: «il differenziale del valore del portafoglio e il differenziale del valore del derivato devono essere uguali a zero … il che vuol dire che noi siamo perfettamente coperti da ogni rischio, ecco come nasce il concetto della gestione del rischio» (transcript [00:28:07]–[00:28:35]); l'equazione è «la premessa per costruire la gestione del rischio di posizioni in derivati attraverso lo strumento delle greche» ([00:29:23]). La slide 56 chiude: «…l'hedging in sostanza si basa sulle Greche». ⚠️ Nelle slide 55–56 non c'è $o(dt)$.
+**Opzione:** $dV = df = 0$, da cui $0 = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2$
 **Distrattori:**
-- dV = df = rfdt, da cui rfdt = Θdt + ΔdS + υ dσ + ½ΓdS²
-- (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
+- $dV = df = rf\,dt$, da cui $rf\,dt = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2$
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$
 
-**D:** ⚠️ Quale operazione descrive il docente della lezione 17 per spiegare la gestione del rischio con dV = df = 0?
-**R:** «io replico un derivato, quindi io vendo il derivato, compro il portafoglio di replica, poiché il portafoglio di replica replica perfettamente il valore del derivato, noi siamo nelle condizioni di dire che abbiamo fatto un'ottima gestione del rischio quando questi differenziali sono uguali e quindi la loro differenza diventa uguale a zero» (transcript [00:28:43]). È solo nel transcript: le slide 53–55 scrivono dV = df = 0. ⚠️ Qui il docente parla della differenza dei due differenziali uguale a zero, la slide 54 di dV = df = 0.
+**D:** ⚠️ Quale operazione descrive il docente della lezione 17 per spiegare la gestione del rischio con $dV = df = 0$?
+**R:** «io replico un derivato, quindi io vendo il derivato, compro il portafoglio di replica, poiché il portafoglio di replica replica perfettamente il valore del derivato, noi siamo nelle condizioni di dire che abbiamo fatto un'ottima gestione del rischio quando questi differenziali sono uguali e quindi la loro differenza diventa uguale a zero» (transcript [00:28:43]). È solo nel transcript: le slide 53–55 scrivono $dV = df = 0$. ⚠️ Qui il docente parla della differenza dei due differenziali uguale a zero, la slide 54 di $dV = df = 0$.
 **Opzione:** Vendere il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
 **Distrattori:**
 - Comprare il derivato e comprare il portafoglio di replica, che ne replica perfettamente il valore
-- (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t)
-- df = Θdt + ΔdS + υ dσ + ½ΓdS² + o(dt)
+- $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$
+- $df = \Theta\,dt + \Delta\,dS + \upsilon\,d\sigma + \frac{1}{2}\Gamma\,dS^2 + o(dt)$
 
 **D:** ⚠️ Quale forma assume l'equazione alle derivate parziali di BSM, secondo il test della lezione 17 (domanda 1)?
-**R:** «**df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)**»: è la PDE della slide 34, (∂f/∂t + (∂f/∂S)rS + ½(σS_t)² ∂²f/∂S²) = rf(S,t), «anche conosciuta come PDE di black-Scholes», ripetuta nella slide 38. Il docente: «… è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Resa difettosa: «(sSt)2df/dS» è (σS_t)² ∂²f/∂S² senza gli esponenti della derivata seconda, che sembra una derivata prima; il difetto è identico nella B e nella D, quindi non discrimina. Distrattori del test: «rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)» perde ∂f/∂t, cioè Θ; «df/dt + rS df/dS + 1/2 = rf(S,t)» si tronca dopo «1/2» e perde il termine di secondo ordine; «df/dt+rSdf/dS∗(sSt)2df/dS = rf(S,t)» sostituisce «+ 1/2» con un prodotto. È la stessa equazione della lezione 15, -rf + (∂f/∂S)rS + ∂f/∂t + (1/2)(∂²f/∂S²)σ²S² = 0, con rf al secondo membro.
+**R:** «**df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)**»: è la PDE della slide 34, $\left(\frac{\partial f}{\partial t} + \frac{\partial f}{\partial S}rS + \frac{1}{2}(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}\right) = rf(S,t)$, «anche conosciuta come PDE di black-Scholes», ripetuta nella slide 38. Il docente: «… è anche nota come equazione differenziale parziale di Black e Scholes» (transcript [00:14:29]–[00:14:43]). ⚠️ Resa difettosa: «(sSt)2df/dS» è $(\sigma S_t)^2 \frac{\partial^2 f}{\partial S^2}$ senza gli esponenti della derivata seconda, che sembra una derivata prima; il difetto è identico nella B e nella D, quindi non discrimina. Distrattori del test: «rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)» perde $\frac{\partial f}{\partial t}$, cioè $\Theta$; «df/dt + rS df/dS + 1/2 = rf(S,t)» si tronca dopo «1/2» e perde il termine di secondo ordine; «df/dt+rSdf/dS∗(sSt)2df/dS = rf(S,t)» sostituisce «+ 1/2» con un prodotto. È la stessa equazione della lezione 15, $-rf + \frac{\partial f}{\partial S}rS + \frac{\partial f}{\partial t} + \frac{1}{2}\frac{\partial^2 f}{\partial S^2}\sigma^2S^2 = 0$, con $rf$ al secondo membro.
 **Opzione:** df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
 **Distrattori:**
 - rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
@@ -5779,7 +5968,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - df/dt+rSdf/dS∗(sSt)2df/dS = rf(S,t)
 
 **D:** ⚠️ Quanto vale il delta di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 2)?
-**R:** «**D=N(d1)**», con «D» per Δ: è la (101) della lezione 16, ∂C/∂S_t = Δ_C = N(d_1) (deck 16, slide 31; transcript della lezione 16, [00:26:55]–[00:28:19]). Il deck 17 non stampa le greche in forma chiusa: definisce Δ = ∂f/∂S (slide 37), «la derivata prima del valore del derivato rispetto al sottostante» (transcript [00:16:30]). ⚠️ Le quattro opzioni sono le stesse nelle domande 2–5, ognuna chiave di un'altra: «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma (102), la derivata del Delta, ed è la trappola vicina; «D= StN'(d1) (T-t)1/2» è il Vega (104); «D = (T-t) K e-r(T-t) N(d2)» è il Rho (103).
+**R:** «**D=N(d1)**», con «D» per $\Delta$: è la (101) della lezione 16, $\frac{\partial C}{\partial S_t} = \Delta_C = N(d_1)$ (deck 16, slide 31; transcript della lezione 16, [00:26:55]–[00:28:19]). Il deck 17 non stampa le greche in forma chiusa: definisce $\Delta = \frac{\partial f}{\partial S}$ (slide 37), «la derivata prima del valore del derivato rispetto al sottostante» (transcript [00:16:30]). ⚠️ Le quattro opzioni sono le stesse nelle domande 2–5, ognuna chiave di un'altra: «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma (102), la derivata del Delta, ed è la trappola vicina; «D= StN'(d1) (T-t)1/2» è il Vega (104); «D = (T-t) K e-r(T-t) N(d2)» è il Rho (103).
 **Opzione:** D=N(d1)
 **Distrattori:**
 - D= StN'(d1) (T-t)1/2
@@ -5787,7 +5976,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - D = (T-t) K e-r(T-t) N(d2)
 
 **D:** ⚠️ Quanto vale il Gamma di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 3)?
-**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «G» per Γ, «s» per σ e «(T-t)1/2» per √(T-t): è la (102) della lezione 16, ∂²C/∂S_t² = Γ_C = N'(d_1) · 1/(S_tσ√(T-t)) (deck 16, slide 32; transcript della lezione 16, [00:28:19]–[00:29:45]). «sSt» è lo stesso prodotto di S_tσ. Il deck 17 definisce Γ = ∂²f/∂S² (slide 37; transcript [00:16:30]). ⚠️ C'è la densità N'(d_1): «G=N(d1)» è il Delta, di cui il Gamma è la derivata. «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho.
+**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «G» per $\Gamma$, «s» per $\sigma$ e «(T-t)1/2» per $\sqrt{T-t}$: è la (102) della lezione 16, $\frac{\partial^2 C}{\partial S_t^2} = \Gamma_C = N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$ (deck 16, slide 32; transcript della lezione 16, [00:28:19]–[00:29:45]). «sSt» è lo stesso prodotto di $S_t\sigma$. Il deck 17 definisce $\Gamma = \frac{\partial^2 f}{\partial S^2}$ (slide 37; transcript [00:16:30]). ⚠️ C'è la densità $N'(d_1)$: «G=N(d1)» è il Delta, di cui il Gamma è la derivata. «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho.
 **Opzione:** G= N'(d1) ∗ 1/sSt(T-t)1/2
 **Distrattori:**
 - G= StN'(d1) (T-t)1/2
@@ -5795,7 +5984,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - G=N(d1)
 
 **D:** ⚠️ Quanto vale il Vega di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 4)?
-**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «Ʋ» per il Vega e «(T-t)1/2» per √(T-t): è la (104) della lezione 16, ∂C/∂σ = 𝒱_C = S_tN'(d_1)√(T-t) (deck 16, slide 34; transcript della lezione 16, [00:30:52]–[00:31:42]). Il deck 17 definisce υ = ∂f/∂σ (slide 51; transcript [00:27:10]). ⚠️ «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, la trappola vicina, perché ha anch'esso N'(d1) e (T-t)1/2; «Ʋ = (T-t) K e-r(T-t) N(d2)» è il Rho, «Ʋ=N(d1)» il Delta.
+**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «Ʋ» per il Vega e «(T-t)1/2» per $\sqrt{T-t}$: è la (104) della lezione 16, $\frac{\partial C}{\partial\sigma} = \mathcal{V}_C = S_tN'(d_1)\sqrt{T-t}$ (deck 16, slide 34; transcript della lezione 16, [00:30:52]–[00:31:42]). Il deck 17 definisce $\upsilon = \frac{\partial f}{\partial\sigma}$ (slide 51; transcript [00:27:10]). ⚠️ «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, la trappola vicina, perché ha anch'esso N'(d1) e (T-t)1/2; «Ʋ = (T-t) K e-r(T-t) N(d2)» è il Rho, «Ʋ=N(d1)» il Delta.
 **Opzione:** Ʋ= StN'(d1) (T-t)1/2
 **Distrattori:**
 - Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2
@@ -5803,7 +5992,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Ʋ=N(d1)
 
 **D:** ⚠️ Quanto vale il Rho di una Call nel modello di BSM, secondo il test della lezione 17 (domanda 5)?
-**R:** «**r = (T-t) K e-r(T-t) N(d2)**», con «r» in testa per ρ ed «e-r(T-t)» per e^(-r(T-t)): è la (103) della lezione 16, ∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2) (deck 16, slide 33; transcript della lezione 16, [00:29:51]–[00:30:52]). ⚠️ Il Rho non compare né nel deck né nel transcript della lezione 17: la domanda pesca dalla lezione 16. È l'unica opzione con N(d2) e con lo strike scontato: il fattore (T-t) viene dalla derivata di e^(-r(T-t)) rispetto a r. La «r» in testa è ρ, quella dentro «e-r(T-t)» è il tasso. «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta.
+**R:** «**r = (T-t) K e-r(T-t) N(d2)**», con «r» in testa per $\rho$ ed «e-r(T-t)» per $e^{-r(T-t)}$: è la (103) della lezione 16, $\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$ (deck 16, slide 33; transcript della lezione 16, [00:29:51]–[00:30:52]). ⚠️ Il Rho non compare né nel deck né nel transcript della lezione 17: la domanda pesca dalla lezione 16. È l'unica opzione con N(d2) e con lo strike scontato: il fattore $(T-t)$ viene dalla derivata di $e^{-r(T-t)}$ rispetto a $r$. La «r» in testa è $\rho$, quella dentro «e-r(T-t)» è il tasso. «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta.
 **Opzione:** r = (T-t) K e-r(T-t) N(d2)
 **Distrattori:**
 - r= StN'(d1) (T-t)1/2
@@ -5813,127 +6002,127 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 18 — Gestione del rischio - Greche 2 – Attività di Hedging
 
 **D:** ⚠️ In quale «mondo» colloca la lezione 18 l'attività di hedging nella pratica, e come vi si scrive il prezzo della put (slide 2)?
-**R:** Slide 2: «L'attività di Hedging nella pratica — Hp: mondo a là Black-Scholes» (sic), con C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2) e **P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)**, dove d_1 = [ln(S_t/K) + (r + σ²/2)(T-t)]/(σ√(T-t)) e d_2 = [ln(S_t/K) + (r - σ²/2)(T-t)]/(σ√(T-t)). Il docente: «un mondo alla Black Scholes, cioè un mondo dove noi abbiamo il prezzo della call e della put, definite con la nostra usuale formula», «e per la put ovviamente l'inversione delle due grandezze» (transcript [00:00:33]). ⚠️ Nella put i due termini si scambiano di posto, con lo strike scontato davanti, e gli argomenti di N cambiano segno: N(-d_2) sullo strike, N(-d_1) sul sottostante.
-**Opzione:** In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)
+**R:** Slide 2: «L'attività di Hedging nella pratica — Hp: mondo a là Black-Scholes» (sic), con $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$ e **$P_t = Ke^{-r(T-t)}N(-d_2) - S_tN(-d_1)$**, dove $d_1 = \frac{[\ln(S_t/K) + (r + \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$ e $d_2 = \frac{[\ln(S_t/K) + (r - \sigma^2/2)(T-t)]}{\sigma\sqrt{T-t}}$. Il docente: «un mondo alla Black Scholes, cioè un mondo dove noi abbiamo il prezzo della call e della put, definite con la nostra usuale formula», «e per la put ovviamente l'inversione delle due grandezze» (transcript [00:00:33]). ⚠️ Nella put i due termini si scambiano di posto, con lo strike scontato davanti, e gli argomenti di $N$ cambiano segno: $N(-d_2)$ sullo strike, $N(-d_1)$ sul sottostante.
+**Opzione:** In un mondo a là Black-Scholes, con $P_t = Ke^{-r(T-t)}N(-d_2) - S_tN(-d_1)$
 **Distrattori:**
-- In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(d_2) - S_tN(d_1)
-- Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1
+- In un mondo a là Black-Scholes, con $P_t = Ke^{-r(T-t)}N(d_2) - S_tN(d_1)$
+- Greche Portafoglio $= \sum_i w_i$ Greche, con $\sum_i w_i = 1$
 
 **D:** ⚠️ Quanto vale il Delta della put nella slide 3 della lezione 18, e come si lega al Delta della call?
-**R:** Slide 3, colonna «Put»: «Δ_{put} = N(d_1) - 1», accanto a «Δ_{call} = N(d_1)» nella colonna «Call». Il docente: «Sappiamo bene, perché le abbiamo derivate analiticamente nelle precedenti lezioni, che il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]). ⚠️ Il Delta della put è quello della call **meno 1**: con N(d_1) fra 0 e 1 è negativo, e il grafico della slide 5 va infatti da 0 a -1.
-**Opzione:** Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
+**R:** Slide 3, colonna «Put»: «$\Delta_{put} = N(d_1) - 1$», accanto a «$\Delta_{call} = N(d_1)$» nella colonna «Call». Il docente: «Sappiamo bene, perché le abbiamo derivate analiticamente nelle precedenti lezioni, che il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]). ⚠️ Il Delta della put è quello della call **meno 1**: con $N(d_1)$ fra 0 e 1 è negativo, e il grafico della slide 5 va infatti da 0 a -1.
+**Opzione:** $\Delta_{put} = N(d_1) - 1$, cioè il Delta della call meno 1
 **Distrattori:**
-- Δ_{put} = 1 - N(d_1), cioè 1 meno il Delta della call
+- $\Delta_{put} = 1 - N(d_1)$, cioè 1 meno il Delta della call
 - Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
 
 **D:** ⚠️ Che Gamma ha la put nella slide 3 della lezione 18, rispetto alla call?
-**R:** Lo stesso: la slide 3 scrive il Gamma **una volta sola**, in mezzo alle colonne «Call» e «Put», «Γ = N'(d_1)/(Sσ√(T-t))», con S e non S_t. Il docente: «Il gamma è uguale per la call e la put e questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante», cioè «il valore della densità in d_1, di normale, standardizzata, diviso S per sigma radice quadrata della time to maturity» (transcript [00:01:27]–[00:01:55]). È il Γ_C (102) della lezione 16, che scrive N'(d_1) · 1/(S_tσ√(T-t)). ⚠️ Il segno distingue i Delta, non i Gamma.
-**Opzione:** Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+**R:** Lo stesso: la slide 3 scrive il Gamma **una volta sola**, in mezzo alle colonne «Call» e «Put», «$\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$», con $S$ e non $S_t$. Il docente: «Il gamma è uguale per la call e la put e questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante», cioè «il valore della densità in $d_1$, di normale, standardizzata, diviso S per sigma radice quadrata della time to maturity» (transcript [00:01:27]–[00:01:55]). È il $\Gamma_C$ (102) della lezione 16, che scrive $N'(d_1) \cdot \frac{1}{S_t\sigma\sqrt{T-t}}$. ⚠️ Il segno distingue i Delta, non i Gamma.
+**Opzione:** Lo stesso della call: $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$, scritto una sola volta per call e put
 **Distrattori:**
-- L'opposto della call: Γ = -N'(d_1)/(Sσ√(T-t)), con il segno meno per la put
+- L'opposto della call: $\Gamma = -\frac{N'(d_1)}{S\sigma\sqrt{T-t}}$, con il segno meno per la put
 - Da 0 a -1, perché la put è il diritto di vendere un'azione: è meno un'azione
 - D=N(d1)
 
 **D:** Perché, per il docente della lezione 18, il Gamma è lo stesso per la call e per la put?
-**R:** Perché è la derivata seconda del prezzo al variare del sottostante: «il gamma è invariante perché va a studiare una sensitività di secondo ordine, quindi neutralizza l'effetto del segno implicito nella definizione di call e di put» (transcript [00:09:25]); già a [00:01:27]: «questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante». La slide 3 lo scrive infatti una sola volta, in mezzo alle due colonne. Il segno distingue invece i Delta: N(d_1) per la call, N(d_1) - 1 per la put.
+**R:** Perché è la derivata seconda del prezzo al variare del sottostante: «il gamma è invariante perché va a studiare una sensitività di secondo ordine, quindi neutralizza l'effetto del segno implicito nella definizione di call e di put» (transcript [00:09:25]); già a [00:01:27]: «questo non ci stupisce perché è la derivata seconda del prezzo del nostro derivato al variare del sottostante». La slide 3 lo scrive infatti una sola volta, in mezzo alle due colonne. Il segno distingue invece i Delta: $N(d_1)$ per la call, $N(d_1) - 1$ per la put.
 
 **D:** ⚠️ Come si scrive il Vega nella slide 3 della lezione 18, e vale anche per la put?
-**R:** «υ = S · N'(d_1)√(T-t)», dove υ è la v corsiva minuscola della slide, e con S invece di S_t. La slide lo scrive **una volta sola**, in mezzo alle colonne «Call» e «Put», come il Gamma. Il docente: «vega è s per la densità in d_1 per la radice quadrata della time to maturity» (transcript [00:01:55]); il grafico della slide 7 lo commenta per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). È la grandezza che la lezione 16 scrive 𝒱_C (104), S_tN'(d_1)√(T-t). ⚠️ C'è la **radice** di (T-t), non (T-t).
-**Opzione:** υ = S · N'(d_1)√(T-t), lo stesso per la call e per la put
+**R:** «$\upsilon = S \cdot N'(d_1)\sqrt{T-t}$», dove $\upsilon$ è la v corsiva minuscola della slide, e con $S$ invece di $S_t$. La slide lo scrive **una volta sola**, in mezzo alle colonne «Call» e «Put», come il Gamma. Il docente: «vega è s per la densità in $d_1$ per la radice quadrata della time to maturity» (transcript [00:01:55]); il grafico della slide 7 lo commenta per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). È la grandezza che la lezione 16 scrive $\mathcal{V}_C$ (104), $S_tN'(d_1)\sqrt{T-t}$. ⚠️ C'è la **radice** di $(T-t)$, non $(T-t)$.
+**Opzione:** $\upsilon = S \cdot N'(d_1)\sqrt{T-t}$, lo stesso per la call e per la put
 **Distrattori:**
-- υ = S · N'(d_1)(T-t), lo stesso per la call e per la put
+- $\upsilon = S \cdot N'(d_1)(T-t)$, lo stesso per la call e per la put
 - dd1 / ds = dd2 /ds +(T-t)1/2
 
-**D:** ⚠️ La slide 3 della lezione 18 scrive Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2): di quale derivata del prezzo della call si tratta, secondo la lezione 16 e il test della lezione 18?
-**R:** Di ∂C/∂r, il **Rho** della call: è la (103) della slide 33 della lezione 16, «∂C/∂r = ρ_C = (T-t)Ke^(-r(T-t))N(d_2)», e il test della lezione 18 (domanda 5) chiama «Rho» la formula gemella della put. Il Theta della call della lezione 16 è un'altra formula, la (105): ∂C/∂t = Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)]. Il docente legge la slide 3 come theta: «il theta della call e della put a meno di una differenza di segno è dato dalla time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). Ma il grafico della slide 8, etichettato Θ_{call}, è tutto negativo, e (T-t)Ke^(-r(T-t))N(d_2), prodotto di fattori positivi, non può esserlo (deduzione): il grafico è il Theta, la formula è il Rho. ⚠️ All'esame conta il nome della domanda: «Rho» nel test, «Θ» nella slide 3.
-**Opzione:** Di ∂C/∂r: è il Rho della call, ρ_C (103)
+**D:** ⚠️ La slide 3 della lezione 18 scrive $\Theta_{call} = (T-t)Ke^{-r(T-t)}N(d_2)$: di quale derivata del prezzo della call si tratta, secondo la lezione 16 e il test della lezione 18?
+**R:** Di $\frac{\partial C}{\partial r}$, il **Rho** della call: è la (103) della slide 33 della lezione 16, «$\frac{\partial C}{\partial r} = \rho_C = (T-t)Ke^{-r(T-t)}N(d_2)$», e il test della lezione 18 (domanda 5) chiama «Rho» la formula gemella della put. Il Theta della call della lezione 16 è un'altra formula, la (105): $\frac{\partial C}{\partial t} = \Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$. Il docente legge la slide 3 come theta: «il theta della call e della put a meno di una differenza di segno è dato dalla time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). Ma il grafico della slide 8, etichettato $\Theta_{call}$, è tutto negativo, e $(T-t)Ke^{-r(T-t)}N(d_2)$, prodotto di fattori positivi, non può esserlo (deduzione): il grafico è il Theta, la formula è il Rho. ⚠️ All'esame conta il nome della domanda: «Rho» nel test, «$\Theta$» nella slide 3.
+**Opzione:** Di $\frac{\partial C}{\partial r}$: è il Rho della call, $\rho_C$ (103)
 **Distrattori:**
-- Di ∂C/∂t: è il Theta della call, Θ_C (105)
+- Di $\frac{\partial C}{\partial t}$: è il Theta della call, $\Theta_C$ (105)
 - Delta della call positivo, Delta della put negativo, Gamma positivo; fa eccezione il Theta della put, in parte positivo e in parte negativo
 - Dal time step 14, con il Delta a 0,999 e 999 azioni in magazzino; l'ultima azione si compra al time step 17
 
-**D:** ⚠️ Come si scrive il Rho della put, che la slide 3 della lezione 18 etichetta Θ_{put}?
-**R:** Slide 3, colonna «Put»: «Θ_{put} = -(T-t)Ke^(-r(T-t))N(-d_2)», accanto a «Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2)», che è il ρ_C (103) della lezione 16. Il test della lezione 18 (domanda 5) la chiama Rho: «r = - (T-t) K e-r(T-t) N(-d2)». Il docente: le due formule coincidono «a meno di una differenza di segno», con «n più o meno di 2» (transcript [00:01:55]). ⚠️ Rispetto alla call cambiano **due** cose: il meno davanti e N(-d_2) al posto di N(d_2).
-**Opzione:** -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
+**D:** ⚠️ Come si scrive il Rho della put, che la slide 3 della lezione 18 etichetta $\Theta_{put}$?
+**R:** Slide 3, colonna «Put»: «$\Theta_{put} = -(T-t)Ke^{-r(T-t)}N(-d_2)$», accanto a «$\Theta_{call} = (T-t)Ke^{-r(T-t)}N(d_2)$», che è il $\rho_C$ (103) della lezione 16. Il test della lezione 18 (domanda 5) la chiama Rho: «r = - (T-t) K e-r(T-t) N(-d2)». Il docente: le due formule coincidono «a meno di una differenza di segno», con «n più o meno di 2» (transcript [00:01:55]). ⚠️ Rispetto alla call cambiano **due** cose: il meno davanti e $N(-d_2)$ al posto di $N(d_2)$.
+**Opzione:** $-(T-t)Ke^{-r(T-t)}N(-d_2)$: rispetto alla call, il meno davanti e $N(-d_2)$ al posto di $N(d_2)$
 **Distrattori:**
-- -(T-t)Ke^(-r(T-t))N(d_2): rispetto alla call cambia solo il meno davanti, con lo stesso N(d_2)
-- (T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call cambia solo N(-d_2) al posto di N(d_2), senza il meno davanti
-- (T-t)Ke^(-r(T-t))N(d_2): la stessa formula della call, senza il meno e con N(d_2)
+- $-(T-t)Ke^{-r(T-t)}N(d_2)$: rispetto alla call cambia solo il meno davanti, con lo stesso $N(d_2)$
+- $(T-t)Ke^{-r(T-t)}N(-d_2)$: rispetto alla call cambia solo $N(-d_2)$ al posto di $N(d_2)$, senza il meno davanti
+- $(T-t)Ke^{-r(T-t)}N(d_2)$: la stessa formula della call, senza il meno e con $N(d_2)$
 
 **D:** ⚠️ Quali greche della slide 3 della lezione 18 sono le stesse per call e put, e quali cambiano?
-**R:** La slide 3 scrive **una sola volta**, in mezzo alle due colonne, il Gamma, Γ = N'(d_1)/(Sσ√(T-t)), e il Vega, υ = S · N'(d_1)√(T-t). Cambiano il Delta, Δ_{call} = N(d_1) e Δ_{put} = N(d_1) - 1, e la formula etichettata Θ, che è il Rho della lezione 16 e del test: Θ_{call} = (T-t)Ke^(-r(T-t))N(d_2), Θ_{put} = -(T-t)Ke^(-r(T-t))N(-d_2). Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]); il theta della call e della put differiscono «a meno di una differenza di segno» ([00:01:55]). Il test della lezione 18 lo conferma: le chiavi del Gamma e del Vega della put (domande 3 e 4) sono le formule della call.
-**Opzione:** Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
+**R:** La slide 3 scrive **una sola volta**, in mezzo alle due colonne, il Gamma, $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$, e il Vega, $\upsilon = S \cdot N'(d_1)\sqrt{T-t}$. Cambiano il Delta, $\Delta_{call} = N(d_1)$ e $\Delta_{put} = N(d_1) - 1$, e la formula etichettata $\Theta$, che è il Rho della lezione 16 e del test: $\Theta_{call} = (T-t)Ke^{-r(T-t)}N(d_2)$, $\Theta_{put} = -(T-t)Ke^{-r(T-t)}N(-d_2)$. Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]); il theta della call e della put differiscono «a meno di una differenza di segno» ([00:01:55]). Il test della lezione 18 lo conferma: le chiavi del Gamma e del Vega della put (domande 3 e 4) sono le formule della call.
+**Opzione:** Uguali Gamma e Vega; cambiano il Delta e la formula etichettata $\Theta$
 **Distrattori:**
-- Uguali Delta e Gamma; cambiano il Vega e la formula etichettata Θ
+- Uguali Delta e Gamma; cambiano il Vega e la formula etichettata $\Theta$
 - Essere at the money: il Gamma raggiunge il picco at the money, dove è richiesta la maggiore copertura in compravendita di azioni
 - Da 0 a 1: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
 
 **D:** ⚠️ Al variare di quali grandezze rappresentano le greche i grafici tridimensionali delle slide 4–9 della lezione 18?
-**R:** Del sottostante S e della volatilità σ: i due assi del piano sono S e σ, ciascuno segnato «-» e «+». Il docente: il grafico «studia l'andamento del delta al variare del valore del sottostante fissato uno strike che pressappoco al centro di questo asse e al variare della volatilità», «fissato un certo orizzonte temporale» (transcript [00:04:15]); la rappresentazione tridimensionale mostra la dipendenza dalla moneyness «anche … in relazione ai livelli di volatilità» ([00:02:23]–[00:02:48]). I grafici sono sei: Δ_{call}, Δ_{put}, Γ, υ, Θ_{call} e Θ_{put}.
-**Opzione:** Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+**R:** Del sottostante $S$ e della volatilità $\sigma$: i due assi del piano sono $S$ e $\sigma$, ciascuno segnato «-» e «+». Il docente: il grafico «studia l'andamento del delta al variare del valore del sottostante fissato uno strike che pressappoco al centro di questo asse e al variare della volatilità», «fissato un certo orizzonte temporale» (transcript [00:04:15]); la rappresentazione tridimensionale mostra la dipendenza dalla moneyness «anche … in relazione ai livelli di volatilità» ([00:02:23]–[00:02:48]). I grafici sono sei: $\Delta_{call}$, $\Delta_{put}$, $\Gamma$, $\upsilon$, $\Theta_{call}$ e $\Theta_{put}$.
+**Opzione:** Del sottostante $S$ e della volatilità $\sigma$, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di $S$
 **Distrattori:**
-- Del sottostante S e del tempo t, fissati la volatilità e uno strike circa al centro dell'asse di S
-- υ = S · N'(d_1)√(T-t), lo stesso per la call e per la put
+- Del sottostante $S$ e del tempo $t$, fissati la volatilità e uno strike circa al centro dell'asse di $S$
+- $\upsilon = S \cdot N'(d_1)\sqrt{T-t}$, lo stesso per la call e per la put
 
-**D:** ⚠️ Fra quali valori varia Δ_{call} nel grafico della slide 4 della lezione 18, e che cosa rappresenta per il docente?
+**D:** ⚠️ Fra quali valori varia $\Delta_{call}$ nel grafico della slide 4 della lezione 18, e che cosa rappresenta per il docente?
 **R:** Da 0 a 1: l'asse va da 0,10 a 1,00. Il docente: «la curva del delta che va da 0 a 1, cioè vuol dire che il numero di azioni che mi coprono o che io devo compravendere per coprirmi dall'esposizione su una call»; se la call è su un'azione, «io sono coperto con un'azione», e «se la call è out of the money io non ho bisogno di azioni e quindi il valore del delta sarà uguale a zero» (transcript [00:02:59]–[00:03:31]). ⚠️ È il Delta come numero di azioni della copertura, lo stesso della lezione 08.
 **Opzione:** Da 0 a 1: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
 **Distrattori:**
 - Da -1 a 0: è il numero di azioni da compravendere per coprirsi da una call su un'azione, zero se la call è out of the money
-- Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+- Lo stesso della call: $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$, scritto una sola volta per call e put
 
 **D:** ⚠️ Come cambia la curva del Delta della call al variare della volatilità, nel grafico della slide 4 della lezione 18?
 **R:** Il docente: «più è alta la volatilità più la nostra curva prende una rappresentazione più morbida più fluida rispetto all'andamento del sottostante» (transcript [00:03:56]–[00:04:08]), perché «tanta più volatilità vuol dire che è più difficile identificare con certezza qual è il numero di azioni che io devo compravendere» ([00:04:34]). «Viceversa … a volatilità molto basse il delta tende ad attrarsi verso i due valori estremi» quando l'opzione non è più at the money: in the money con bassa volatilità «il delta è uno», out of the money resta «attratto verso lo zero» ([00:05:01]–[00:06:27]). ⚠️ Più volatilità, curva più morbida; meno volatilità, salto ripido fra 0 e 1.
 **Opzione:** Più alta la volatilità, più la curva è morbida; a volatilità molto basse il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
 **Distrattori:**
 - Più bassa la volatilità, più la curva è morbida; a volatilità molto alte il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
-- -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
-- Di ∂C/∂r: è il Rho della call, ρ_C (103)
+- $-(T-t)Ke^{-r(T-t)}N(-d_2)$: rispetto alla call, il meno davanti e $N(-d_2)$ al posto di $N(d_2)$
+- Di $\frac{\partial C}{\partial r}$: è il Rho della call, $\rho_C$ (103)
 
-**D:** ⚠️ Fra quali valori varia Δ_{put} nel grafico della slide 5 della lezione 18, e perché per il docente?
+**D:** ⚠️ Fra quali valori varia $\Delta_{put}$ nel grafico della slide 5 della lezione 18, e perché per il docente?
 **R:** Da 0 a -1: l'asse va da -0,10 a -1,00, e la riga più alta, lo zero, non ha etichetta. Il docente: «La put va da 0 a meno 1 e anche questo non stupisce perché cos'è la put? La put rappresenta il diritto di poter vendere un'azione», mentre con la call «il delta va da 0 a 1, io compro un'azione. Qui io vendo un'azione, quindi è meno un'azione» (transcript [00:07:26]–[00:07:52]). La dinamica è «molto simile a quella della call»: più volatilità, più «dolce» il movimento da -1 a 0 ([00:07:57]–[00:08:15]). ⚠️ La put è un **diritto**, come nella lezione 05.
 **Opzione:** Da 0 a -1, perché la put è il diritto di vendere un'azione: è meno un'azione
 **Distrattori:**
 - Da 0 a -1, perché la put è l'obbligo di vendere un'azione: è meno un'azione
-- Lo stesso della call: Γ = N'(d_1)/(Sσ√(T-t)), scritto una sola volta per call e put
+- Lo stesso della call: $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$, scritto una sola volta per call e put
 
 **D:** ⚠️ Qual è per il docente della lezione 18 l'evento più problematico per un'opzione, e dove raggiunge il picco il Gamma (slide 6)?
 **R:** «L'evento più problematico è proprio essere at the money, perché quando tu sei at the money tu rischi in un attimo di trovarti a dover essere in the money e quindi dovevi coprirti da quel rischio, o essere out of the money e quindi che te le sei comprate a fare quelle azioni» (transcript [00:10:34]–[00:10:57]). «Quindi non è un caso che il picco verso l'alto del gamma si raggiunge relativamente al valore at the money, proprio perché quello è il punto dove viene richiesta maggiore copertura in termini di compravendita di azioni» ([00:11:06]–[00:11:16]). Nel grafico della slide 6 il picco più alto, a bassa volatilità, arriva alla fascia di colore più alta, fra 0,017 e 0,019. At the money ha il suo picco anche il Vega a bassa volatilità ([00:15:23]).
 **Opzione:** Essere at the money: il Gamma raggiunge il picco at the money, dove è richiesta la maggiore copertura in compravendita di azioni
 **Distrattori:**
 - Essere deep in the money: il Gamma raggiunge il picco deep in the money, dove è richiesta la maggiore copertura in compravendita di azioni
-- Di ∂C/∂r: è il Rho della call, ρ_C (103)
+- Di $\frac{\partial C}{\partial r}$: è il Rho della call, $\rho_C$ (103)
 - Si comprano 564 e 61 azioni, se ne vendono 57 e 118, se ne comprano 163 e 238, e al time step 6 nessuna
 
 **D:** ⚠️ Quali ordini di grandezza hanno Delta, Gamma e Vega nei grafici della lezione 18?
-**R:** Gli assi arrivano a 1,00 per Δ_{call} (slide 4), a 0,019 per il Gamma (slide 6) e a 24,00 per il Vega (slide 7). Il docente: sono grandezze di cui «una va da 0 a 1, l'altra un altro ordine di grandezza, di 0 virgola, l'altra addirittura in decine» (transcript [00:22:37]); per il vega l'ordine di grandezza è «molto maggiore e cento volte tanto rispetto al gamma» ([00:14:56]). Lo dice per introdurre l'additività: per gestire le greche di un portafoglio bisogna sommarle con i loro pesi. ⚠️ Gli assi danno un rapporto ben maggiore di cento: 24,00 contro 0,019.
+**R:** Gli assi arrivano a 1,00 per $\Delta_{call}$ (slide 4), a 0,019 per il Gamma (slide 6) e a 24,00 per il Vega (slide 7). Il docente: sono grandezze di cui «una va da 0 a 1, l'altra un altro ordine di grandezza, di 0 virgola, l'altra addirittura in decine» (transcript [00:22:37]); per il vega l'ordine di grandezza è «molto maggiore e cento volte tanto rispetto al gamma» ([00:14:56]). Lo dice per introdurre l'additività: per gestire le greche di un portafoglio bisogna sommarle con i loro pesi. ⚠️ Gli assi danno un rapporto ben maggiore di cento: 24,00 contro 0,019.
 **Opzione:** Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
 **Distrattori:**
 - Delta da 0 a 1; Gamma fino a 24,00, in decine; Vega fino a 0,019, ordine di 0 virgola
-- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
-- Al tempo T=0 si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata $\Theta$
+- Al tempo $T=0$ si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
 
 **D:** ⚠️ A che cosa collega il docente della lezione 18 la deformazione del Gamma ad altissima volatilità (slide 6)?
 **R:** Alla diversa esposizione di call e put: «se siamo in presenza di elevatissima volatilità è chiaro che la circostanza di avere nel caso della call delle perdite infinite tende a deformare la rappresentazione grafica del nostro gamma», che spinge il valore più elevato dove non si è «esattamente at the money» ma «leggermente out of the money»; «al contraltare nel caso della put … le perdite sono finite perché con una put non si può mai perdere più del valore che va da 0 a K perché sotto lo 0 non si può andare» (transcript [00:12:56]–[00:13:40]). È l'argomento della lezione 05 sul rischio indefinito della short call e sul limite della short put. ⚠️ Poco prima il docente colloca la deformazione «nei casi in cui S sia maggiore di K» ([00:11:29]), che per la call è in the money, non out of the money.
-**Opzione:** Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+**Opzione:** Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a $K$, perché sotto lo 0 non si può andare
 **Distrattori:**
-- Alle perdite infinite della put, mentre con una call non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+- Alle perdite infinite della put, mentre con una call non si può mai perdere più del valore che va da 0 a $K$, perché sotto lo 0 non si può andare
 - Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre zero, perché la posizione in azioni neutralizza a ogni time step quella nelle call
 
 **D:** ⚠️ Come si comporta il Vega nel grafico della slide 7 della lezione 18, a bassa e ad alta volatilità?
-**R:** A volatilità estremamente bassa «l'andamento ha una attrazione verso lo zero abbastanza pronunciata e ha questo picco molto repentino nella opzionalità at the money» (transcript [00:14:56]–[00:15:23]); negli eventi estremi «ha poco senso avere una richiesta di contribuzione di vega perché sono già fuori o sono già dentro» ([00:16:03]). Al crescere della volatilità l'andamento si addolcisce, e «per la parte in cui S è maggiore di K … non andiamo a sfiorare lo zero come avveniva per volatilità molto basse, ma arriviamo a metà del valore massimo», «un valore 12 nel grafico per un livello di sigma particolarmente elevato» ([00:16:47]–[00:17:32]). Nel grafico l'asse arriva a 24,00, e lo spigolo dalla parte di S e σ alti sta sulla riga 12,00. Il motivo: una call deep in the money o una put deep out of the money, con tanta volatilità, possono tornare in una condizione diversa, ed è opportuno «mantenere una certa riserva di gestione del rischio» ([00:17:03]).
-**Opzione:** A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S maggiore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+**R:** A volatilità estremamente bassa «l'andamento ha una attrazione verso lo zero abbastanza pronunciata e ha questo picco molto repentino nella opzionalità at the money» (transcript [00:14:56]–[00:15:23]); negli eventi estremi «ha poco senso avere una richiesta di contribuzione di vega perché sono già fuori o sono già dentro» ([00:16:03]). Al crescere della volatilità l'andamento si addolcisce, e «per la parte in cui S è maggiore di K … non andiamo a sfiorare lo zero come avveniva per volatilità molto basse, ma arriviamo a metà del valore massimo», «un valore 12 nel grafico per un livello di sigma particolarmente elevato» ([00:16:47]–[00:17:32]). Nel grafico l'asse arriva a 24,00, e lo spigolo dalla parte di $S$ e $\sigma$ alti sta sulla riga 12,00. Il motivo: una call deep in the money o una put deep out of the money, con tanta volatilità, possono tornare in una condizione diversa, ed è opportuno «mantenere una certa riserva di gestione del rischio» ([00:17:03]).
+**Opzione:** A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per $S$ maggiore di $K$, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
 **Distrattori:**
-- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S minore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
-- Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
-- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Δ call Posit.; Azione e Δ: Stock to Buy/(Sell), Warehouse, Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
+- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per $S$ minore di $K$, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+- $\Delta_{put} = N(d_1) - 1$, cioè il Delta della call meno 1
+- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e $\Delta$: Q. Opz., $\Delta$ call, $\Delta$ call Posit.; Azione e $\Delta$: Stock to Buy/(Sell), Warehouse, $\Delta$ Stock, $\Delta$ Stock Posit.; $\Delta$ Portfolio: Total $\Delta$ position
 
-**D:** ⚠️ Quali valori assume il grafico etichettato Θ_{call} nella slide 8 della lezione 18, e dove scende di più?
-**R:** Solo negativi: le etichette dell'asse vanno da -1,00 a -11,00. Il docente: per bassa volatilità «siamo nell'intorno dello zero, meno uno, ma se cresce la volatilità possiamo arrivare addirittura quando siamo at the money cioè in quella parte di mondo in cui basta poco per diventare out o in the money dove viene richiesto parecchio contributo di rischiosità» (transcript [00:19:32]–[00:19:48]); nel grafico il fondo della superficie, dalla parte della volatilità alta, è nella fascia di colore fra -9,00 e -11,00. Il theta della call «esprime la sensitività della time to maturity, perché il theta è il tempo» ([00:18:08]). ⚠️ Valori negativi sono compatibili con il Theta della lezione 16, Θ_C = -[S_tN'(d_1) σ/(2√(T-t)) + rKe^(-r(T-t))N(d_2)], non con la formula che la slide 3 scrive sotto Θ_{call}, (T-t)Ke^(-r(T-t))N(d_2), che è positiva (deduzione).
+**D:** ⚠️ Quali valori assume il grafico etichettato $\Theta_{call}$ nella slide 8 della lezione 18, e dove scende di più?
+**R:** Solo negativi: le etichette dell'asse vanno da -1,00 a -11,00. Il docente: per bassa volatilità «siamo nell'intorno dello zero, meno uno, ma se cresce la volatilità possiamo arrivare addirittura quando siamo at the money cioè in quella parte di mondo in cui basta poco per diventare out o in the money dove viene richiesto parecchio contributo di rischiosità» (transcript [00:19:32]–[00:19:48]); nel grafico il fondo della superficie, dalla parte della volatilità alta, è nella fascia di colore fra -9,00 e -11,00. Il theta della call «esprime la sensitività della time to maturity, perché il theta è il tempo» ([00:18:08]). ⚠️ Valori negativi sono compatibili con il Theta della lezione 16, $\Theta_C = -[S_tN'(d_1) \frac{\sigma}{2\sqrt{T-t}} + rKe^{-r(T-t)}N(d_2)]$, non con la formula che la slide 3 scrive sotto $\Theta_{call}$, $(T-t)Ke^{-r(T-t)}N(d_2)$, che è positiva (deduzione).
 **Opzione:** Solo negativi, da circa -1 a bassa volatilità fino verso -11 ad alta volatilità at the money
 **Distrattori:**
 - Solo positivi, da circa 1 a bassa volatilità fino verso 11 ad alta volatilità at the money
-- Δ_{put} = N(d_1) - 1, cioè il Delta della call meno 1
+- $\Delta_{put} = N(d_1) - 1$, cioè il Delta della call meno 1
 
 **D:** ⚠️ Con quale immagine spiega il docente della lezione 18 perché il Theta della call scende più rapidamente quando la volatilità è più alta?
 **R:** «Un'unità di tempo con una volatilità più elevata è come se io andassi a deformare il tempo. È come se io facessi durare quel tempo di più, perché quella maggiore volatilità consente a quella unità di tempo di dispiegare maggiori effetti sull'andamento del sottostante e quindi sull'andamento del prezzo dell'opzione» (transcript [00:18:56]–[00:19:32]). È «un elemento strutturale del theta»: per bassa volatilità «l'unità di tempo quello vale» ([00:19:32]).
@@ -5944,11 +6133,11 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano sullo stesso sottostante; cambia solo la ponderazione per il peso delle singole opzioni
 
 **D:** ⚠️ Che cosa ha di «curioso» il grafico del Theta della put nella slide 9 della lezione 18?
-**R:** Il docente: «non ha una monotonicità, nel senso che non è monotona crescente o decrescente, abbiamo addirittura poi la circostanza di poter avere dei valori negativi e dei valori positivi», quindi «non è neanche definita nel medesimo set dei numeri reali positivi o negativi come è stato finora per le greche che abbiamo studiato» (transcript [00:20:12]–[00:20:42]). Nel grafico le etichette vanno da -3,00 a 9,00, con il trattino dello zero in mezzo. ⚠️ Valori positivi non sono compatibili con la formula che la slide 3 scrive sotto Θ_{put}, -(T-t)Ke^(-r(T-t))N(-d_2), che è sempre negativa (deduzione): il grafico è il Theta, la formula è il Rho.
+**R:** Il docente: «non ha una monotonicità, nel senso che non è monotona crescente o decrescente, abbiamo addirittura poi la circostanza di poter avere dei valori negativi e dei valori positivi», quindi «non è neanche definita nel medesimo set dei numeri reali positivi o negativi come è stato finora per le greche che abbiamo studiato» (transcript [00:20:12]–[00:20:42]). Nel grafico le etichette vanno da -3,00 a 9,00, con il trattino dello zero in mezzo. ⚠️ Valori positivi non sono compatibili con la formula che la slide 3 scrive sotto $\Theta_{put}$, $-(T-t)Ke^{-r(T-t)}N(-d_2)$, che è sempre negativa (deduzione): il grafico è il Theta, la formula è il Rho.
 **Opzione:** Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
 **Distrattori:**
 - È monotono decrescente e assume solo valori negativi, come il Theta della call: l'asse va da -11,00 a -1,00
-- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata Θ
+- Uguali Gamma e Vega; cambiano il Delta e la formula etichettata $\Theta$
 
 **D:** ⚠️ Quale segno hanno il Delta della call, il Delta della put e il Gamma per il docente della lezione 18, e quale greca fa eccezione?
 **R:** «Il delta è positivo della call, il delta della put è negativo, il gamma è positivo e così via. Qui invece abbiamo un theta che in parte è positivo e in parte è negativo» (transcript [00:20:55]–[00:21:03]): l'eccezione è il Theta della put. Il motivo: la put ha «un livello di perdite definito» o «un livello di guadagno definito», a seconda che sia venduta o comprata, mentre con una call «tu puoi guadagnare o perdere … indefinitamente»; si crea «questa deformazione intorno all'asse dello zero» ([00:21:28]–[00:21:56]).
@@ -5958,68 +6147,68 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
 
 **D:** ⚠️ Come si scrivono le greche di un portafoglio nella slide 10 della lezione 18?
-**R:** Slide 10, «Le Greche sono additive»: «Greche Portafoglio = ∑_i w_i Greche», con «∑_i w_i = 1». Il docente: «una grande proprietà delle greche è che le greche sono additive» (transcript [00:22:37]); calcolato il delta di ciascuna opzione, «la somma dei delta è uguale al delta finale di quel portafoglio l'unica cosa che cambierà è la ponderazione per il peso delle singole opzioni» ([00:23:24]). ⚠️ È una somma ponderata, con i pesi che sommano a 1.
-**Opzione:** Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1
+**R:** Slide 10, «Le Greche sono additive»: «Greche Portafoglio $= \sum_i w_i$ Greche», con «$\sum_i w_i = 1$». Il docente: «una grande proprietà delle greche è che le greche sono additive» (transcript [00:22:37]); calcolato il delta di ciascuna opzione, «la somma dei delta è uguale al delta finale di quel portafoglio l'unica cosa che cambierà è la ponderazione per il peso delle singole opzioni» ([00:23:24]). ⚠️ È una somma ponderata, con i pesi che sommano a 1.
+**Opzione:** Greche Portafoglio $= \sum_i w_i$ Greche, con $\sum_i w_i = 1$
 **Distrattori:**
-- Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 0
+- Greche Portafoglio $= \sum_i w_i$ Greche, con $\sum_i w_i = 0$
 - Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
-- df ≈ ΔdS + o(dt), un'espansione di Taylor al primo ordine
+- $df \approx \Delta\,dS + o(dt)$, un'espansione di Taylor al primo ordine
 
 **D:** ⚠️ A quali condizioni, per il docente della lezione 18, il Delta di un portafoglio di opzioni è la somma dei Delta delle singole opzioni?
-**R:** Calcolato il delta di ciascuna opzione, «ipotizzando che non ci siano correlazioni tra le medesime di nessuna natura, o meglio ancora, sono sullo stesso sottostante, perché altrimenti le cose un po' si complicano, noi possiamo dire che la somma dei delta è uguale al delta finale di quel portafoglio»; cambia solo «la ponderazione per il peso delle singole opzioni» (transcript [00:22:59]–[00:23:24]). È «un punto importante che consente certamente una facilità di determinazione quantitativa» ([00:23:50]), perché le greche delle singole opzioni hanno ordini di grandezza diversi ([00:22:37]). La slide 10 scrive Greche Portafoglio = ∑_i w_i Greche, con ∑_i w_i = 1.
+**R:** Calcolato il delta di ciascuna opzione, «ipotizzando che non ci siano correlazioni tra le medesime di nessuna natura, o meglio ancora, sono sullo stesso sottostante, perché altrimenti le cose un po' si complicano, noi possiamo dire che la somma dei delta è uguale al delta finale di quel portafoglio»; cambia solo «la ponderazione per il peso delle singole opzioni» (transcript [00:22:59]–[00:23:24]). È «un punto importante che consente certamente una facilità di determinazione quantitativa» ([00:23:50]), perché le greche delle singole opzioni hanno ordini di grandezza diversi ([00:22:37]). La slide 10 scrive Greche Portafoglio $= \sum_i w_i$ Greche, con $\sum_i w_i = 1$.
 **Opzione:** Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano sullo stesso sottostante; cambia solo la ponderazione per il peso delle singole opzioni
 **Distrattori:**
 - Che non ci siano correlazioni di nessuna natura fra le opzioni, o meglio ancora che siano su sottostanti diversi; cambia solo la ponderazione per il peso delle singole opzioni
 - Non è monotono, né crescente né decrescente, e assume valori sia positivi sia negativi: l'asse va da -3,00 a 9,00
 - Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 150,0, deep in the money
 
-**D:** ⚠️ Su quale approssimazione si fonda il Δ hedging nella slide 11 della lezione 18?
-**R:** Slide 11, «Δ Hedging»: «Calcolo di df attraverso un'espansione della formula di Taylor al primo ordine», **df ≈ ΔdS + o(dt)**. Il docente: «Recuperiamo l'espansione della formula di Taylor al primo ordine e quindi andiamo a ipotizzare che df, cioè il differenziale del valore del nostro derivato f, viene definito dalla derivata prima per ds più un ordine di infinitesimo di delta t. E quindi noi diciamo che l'approssimazione del differenziale del valore di un'opzione è altro non è che delta per il differenziale del valore del corrispondente del sottostante» (transcript [00:24:10]–[00:24:24]). È «la prima modalità di hedging» del corso, il delta hedging ([00:23:59]). ⚠️ Primo ordine: compare il solo Δ, e il resto è o(dt).
-**Opzione:** df ≈ ΔdS + o(dt), un'espansione di Taylor al primo ordine
+**D:** ⚠️ Su quale approssimazione si fonda il $\Delta$ hedging nella slide 11 della lezione 18?
+**R:** Slide 11, «$\Delta$ Hedging»: «Calcolo di $df$ attraverso un'espansione della formula di Taylor al primo ordine», **$df \approx \Delta\,dS + o(dt)$**. Il docente: «Recuperiamo l'espansione della formula di Taylor al primo ordine e quindi andiamo a ipotizzare che df, cioè il differenziale del valore del nostro derivato f, viene definito dalla derivata prima per ds più un ordine di infinitesimo di delta t. E quindi noi diciamo che l'approssimazione del differenziale del valore di un'opzione è altro non è che delta per il differenziale del valore del corrispondente del sottostante» (transcript [00:24:10]–[00:24:24]). È «la prima modalità di hedging» del corso, il delta hedging ([00:23:59]). ⚠️ Primo ordine: compare il solo $\Delta$, e il resto è $o(dt)$.
+**Opzione:** $df \approx \Delta\,dS + o(dt)$, un'espansione di Taylor al primo ordine
 **Distrattori:**
-- df ≈ ΔdS + o(dt), un'espansione di Taylor al secondo ordine
+- $df \approx \Delta\,dS + o(dt)$, un'espansione di Taylor al secondo ordine
 - dp=rpdt
 - df/dt + rS df/dS + 1/2 (sSt)2df/dS = rf(S,t)
 
-**D:** ⚠️ Come è impostato l'esempio di Δ hedging della slide 12 della lezione 18, e che cosa se ne sa già intuitivamente?
-**R:** Slide 12: «Δ Hedging — Al tempo T=0 vendi 1 call — Alla scadenza l'opzione è IN – the money». Il docente: «al tempo t uguale 0 vendo una call e alla scadenza ipotizziamo che l'opzione sia in the money» (transcript [00:24:46]); «Se io ho venduto una call e alla scadenza in the money, se io ho fatto una buona copertura di rischio, io avrò l'azione già nel mio portafoglio. E quindi sarò stato perfettamente coperto» ([00:25:09]–[00:25:18]). ⚠️ La call è **venduta**, non comprata; il foglio Excel della slide 13 ne vende mille.
-**Opzione:** Al tempo T=0 si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+**D:** ⚠️ Come è impostato l'esempio di $\Delta$ hedging della slide 12 della lezione 18, e che cosa se ne sa già intuitivamente?
+**R:** Slide 12: «$\Delta$ Hedging — Al tempo $T=0$ vendi 1 call — Alla scadenza l'opzione è IN – the money». Il docente: «al tempo t uguale 0 vendo una call e alla scadenza ipotizziamo che l'opzione sia in the money» (transcript [00:24:46]); «Se io ho venduto una call e alla scadenza in the money, se io ho fatto una buona copertura di rischio, io avrò l'azione già nel mio portafoglio. E quindi sarò stato perfettamente coperto» ([00:25:09]–[00:25:18]). ⚠️ La call è **venduta**, non comprata; il foglio Excel della slide 13 ne vende mille.
+**Opzione:** Al tempo $T=0$ si vende 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
 **Distrattori:**
-- Al tempo T=0 si compra 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
-- Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+- Al tempo $T=0$ si compra 1 call che alla scadenza è in the money: con una buona copertura, a scadenza l'azione è già nel portafoglio
+- Del sottostante $S$ e della volatilità $\sigma$, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di $S$
 - Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
 
 **D:** ⚠️ In quali blocchi è organizzato il foglio Excel «Short 1000 call on 1 stock» della slide 13 della lezione 18, e con quali colonne?
-**R:** Slide 13: un primo gruppo senza titolo con Time Step, Time to Expiration e STOCK PRICE; il blocco «Opzione e Δ» con Q. Opz., Δ call e Δ call Posit.; il blocco «Azione e Δ» con Stock to Buy/(Sell), Warehouse, Δ Stock e Δ Stock Posit.; il blocco «Δ Portfolio» con Total Δ position. Il docente: «nel primo gruppo questo tipo di informazione, nel secondo abbiamo l'opzione e il calcolo del delta, nel terzo blocco abbiamo l'azione e il calcolo del delta e nel quarto abbiamo il delta di portafoglio» (transcript [00:25:37]). Le parentesi tonde segnano il meno ([00:28:46]). ⚠️ Warehouse, il magazzino di azioni, sta nel blocco dell'azione.
-**Opzione:** Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Δ call Posit.; Azione e Δ: Stock to Buy/(Sell), Warehouse, Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
+**R:** Slide 13: un primo gruppo senza titolo con Time Step, Time to Expiration e STOCK PRICE; il blocco «Opzione e $\Delta$» con Q. Opz., $\Delta$ call e $\Delta$ call Posit.; il blocco «Azione e $\Delta$» con Stock to Buy/(Sell), Warehouse, $\Delta$ Stock e $\Delta$ Stock Posit.; il blocco «$\Delta$ Portfolio» con Total $\Delta$ position. Il docente: «nel primo gruppo questo tipo di informazione, nel secondo abbiamo l'opzione e il calcolo del delta, nel terzo blocco abbiamo l'azione e il calcolo del delta e nel quarto abbiamo il delta di portafoglio» (transcript [00:25:37]). Le parentesi tonde segnano il meno ([00:28:46]). ⚠️ Warehouse, il magazzino di azioni, sta nel blocco dell'azione.
+**Opzione:** Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e $\Delta$: Q. Opz., $\Delta$ call, $\Delta$ call Posit.; Azione e $\Delta$: Stock to Buy/(Sell), Warehouse, $\Delta$ Stock, $\Delta$ Stock Posit.; $\Delta$ Portfolio: Total $\Delta$ position
 **Distrattori:**
-- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e Δ: Q. Opz., Δ call, Warehouse; Azione e Δ: Stock to Buy/(Sell), Δ call Posit., Δ Stock, Δ Stock Posit.; Δ Portfolio: Total Δ position
-- -(T-t)Ke^(-r(T-t))N(-d_2): rispetto alla call, il meno davanti e N(-d_2) al posto di N(d_2)
+- Primo gruppo: Time Step, Time to Expiration, STOCK PRICE; Opzione e $\Delta$: Q. Opz., $\Delta$ call, Warehouse; Azione e $\Delta$: Stock to Buy/(Sell), $\Delta$ call Posit., $\Delta$ Stock, $\Delta$ Stock Posit.; $\Delta$ Portfolio: Total $\Delta$ position
+- $-(T-t)Ke^{-r(T-t)}N(-d_2)$: rispetto alla call, il meno davanti e $N(-d_2)$ al posto di $N(d_2)$
 
-**D:** ⚠️ Che orizzonte temporale e quanti time step ha il foglio Excel del Δ hedging nella lezione 18?
-**R:** Slide 13: Time to Expiration vale 0,2500 al time step 0 e scende di 0,0125 a ogni passo fino a 0,0000 al time step 20. Il docente: «creiamo il time step di questo quarto di anno», «il time step sono 20 step. Cosa abbiamo fatto quindi? Abbiamo preso tre mesi e li abbiamo ripartiti su 20 time step, su 20 mini orizzonti temporali, vi ricordate il delta N della nostra derivazione analitica del prezzo» (transcript [00:26:08]–[00:26:54]), cioè il Δ_n della soluzione asintotica (lezione 11). ⚠️ Il transcript ha anche «nella cella 0.5», ma la tabella parte da 0,2500.
+**D:** ⚠️ Che orizzonte temporale e quanti time step ha il foglio Excel del $\Delta$ hedging nella lezione 18?
+**R:** Slide 13: Time to Expiration vale 0,2500 al time step 0 e scende di 0,0125 a ogni passo fino a 0,0000 al time step 20. Il docente: «creiamo il time step di questo quarto di anno», «il time step sono 20 step. Cosa abbiamo fatto quindi? Abbiamo preso tre mesi e li abbiamo ripartiti su 20 time step, su 20 mini orizzonti temporali, vi ricordate il delta N della nostra derivazione analitica del prezzo» (transcript [00:26:08]–[00:26:54]), cioè il $\Delta_n$ della soluzione asintotica (lezione 11). ⚠️ Il transcript ha anche «nella cella 0.5», ma la tabella parte da 0,2500.
 **Opzione:** Tre mesi, 0,2500 anni, ripartiti su 20 time step da 0,0125: la vita residua scende da 0,2500 a 0,0000
 **Distrattori:**
 - Sei mesi, 0,5000 anni, ripartiti su 20 time step da 0,0250: la vita residua scende da 0,5000 a 0,0000
 - Più alta la volatilità, più la curva è morbida; a volatilità molto basse il Delta è attratto verso i due estremi, 0 e 1, appena l'opzione non è più at the money
-- Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a K, perché sotto lo 0 non si può andare
+- Alle perdite infinite della call, mentre con una put non si può mai perdere più del valore che va da 0 a $K$, perché sotto lo 0 non si può andare
 
-**D:** ⚠️ Da quale prezzo parte e a quale arriva l'azione nell'esempio di Δ hedging della lezione 18, con strike 100?
-**R:** Slide 13, colonna STOCK PRICE: 100,0 al time step 0, poi 104,0, 100,4, 93,8, 103,3, 121,6, …, fino a 150,0 al time step 20. Il docente: un «andamento casuale» in cui «al time step 0 vale 100 il valore esatto dello strike e infatti quando parte questa è un'opzione con 3 mesi di vita e at the money», poi «fino al valore finale che diventa 150, essendo lo strike 100 vuol dire che questa era un'opzione … deep in the money» (transcript [00:27:06]–[00:27:50]). ⚠️ Lo strike 100 lo dice solo il docente: la tabella non ha una colonna K.
+**D:** ⚠️ Da quale prezzo parte e a quale arriva l'azione nell'esempio di $\Delta$ hedging della lezione 18, con strike 100?
+**R:** Slide 13, colonna STOCK PRICE: 100,0 al time step 0, poi 104,0, 100,4, 93,8, 103,3, 121,6, …, fino a 150,0 al time step 20. Il docente: un «andamento casuale» in cui «al time step 0 vale 100 il valore esatto dello strike e infatti quando parte questa è un'opzione con 3 mesi di vita e at the money», poi «fino al valore finale che diventa 150, essendo lo strike 100 vuol dire che questa era un'opzione … deep in the money» (transcript [00:27:06]–[00:27:50]). ⚠️ Lo strike 100 lo dice solo il docente: la tabella non ha una colonna $K$.
 **Opzione:** Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 150,0, deep in the money
 **Distrattori:**
 - Parte da 100,0, il valore dello strike, quindi at the money, e arriva a 93,8, out of the money
-- In un mondo a là Black-Scholes, con P_t = Ke^(-r(T-t))N(-d_2) - S_tN(-d_1)
-- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per S maggiore di K, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
+- In un mondo a là Black-Scholes, con $P_t = Ke^{-r(T-t)}N(-d_2) - S_tN(-d_1)$
+- A bassa volatilità è attratto verso lo zero con un picco repentino at the money; ad alta volatilità, per $S$ maggiore di $K$, non sfiora lo zero ma arriva a metà del valore massimo, circa 12
 
 **D:** ⚠️ Quanto vale il Delta della call al time step 0 nell'esempio della lezione 18, e quale posizione in Delta ne viene per le mille call vendute?
-**R:** Slide 13, time step 0: Δ call 0,564115961, Q. Opz. (1.000), Δ call Posit. (564), cioè -564. Il docente: «non mi stupisce che il delta N di 1 sia più o meno 0,5, cioè 56%, cioè a dire che siamo 50-50 le probabilità di vincere e di perdere», e «0,546 per mille opzioni col segno meno, quindi il delta della call è meno 564» (transcript [00:28:09]–[00:28:33]). ⚠️ «0,546» è un lapsus: la tabella ha 0,564, e la posizione è infatti -564. Le mille call restano costanti, perché «io non modifico il portafoglio opzionale» ([00:27:53]).
+**R:** Slide 13, time step 0: $\Delta$ call 0,564115961, Q. Opz. (1.000), $\Delta$ call Posit. (564), cioè -564. Il docente: «non mi stupisce che il delta N di 1 sia più o meno 0,5, cioè 56%, cioè a dire che siamo 50-50 le probabilità di vincere e di perdere», e «0,546 per mille opzioni col segno meno, quindi il delta della call è meno 564» (transcript [00:28:09]–[00:28:33]). ⚠️ «0,546» è un lapsus: la tabella ha 0,564, e la posizione è infatti -564. Le mille call restano costanti, perché «io non modifico il portafoglio opzionale» ([00:27:53]).
 **Opzione:** Circa 0,564 (56%), quindi una posizione di -564 per le mille call vendute
 **Distrattori:**
 - Circa 0,546 (55%), quindi una posizione di -546 per le mille call vendute
 - Solo negativi, da circa -1 a bassa volatilità fino verso -11 ad alta volatilità at the money
 
-**D:** ⚠️ Quante azioni si comprano o si vendono nei time step da 0 a 6 dell'esempio di Δ hedging della lezione 18?
+**D:** ⚠️ Quante azioni si comprano o si vendono nei time step da 0 a 6 dell'esempio di $\Delta$ hedging della lezione 18?
 **R:** Slide 13, colonna Stock to Buy/(Sell): 564 al time step 0, poi 61, (57), (118), 163, 238, e «-» al 6; la colonna Warehouse segue la posizione: 564, 625, 568, 450, 613, 851, 851. Il docente: le azioni da comprare o vendere sono «esattamente il valore del delta» ([00:29:22]–[00:29:27]); con -564 «dovrò comprare 564 azioni», poi «625 meno 564 cioè altre 61», poi «potrò vendere 57», «potrò vendere 118», «devo comprare 163», «dovrò comprare 238», e «quando sto di nuovo a 851 non devo compravendere nulla» (transcript [00:29:32]–[00:30:25]).
 **Opzione:** Si comprano 564 e 61 azioni, se ne vendono 57 e 118, se ne comprano 163 e 238, e al time step 6 nessuna
 **Distrattori:**
@@ -6033,15 +6222,15 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Dal time step 17, con il Delta a 0,999 e 999 azioni in magazzino; l'ultima azione si compra al time step 14
 - Delta da 0 a 1; Gamma fino a 0,019, ordine di 0 virgola; Vega fino a 24,00, in decine
 
-**D:** ⚠️ Quanto valgono il Delta dell'azione e il Delta di portafoglio nell'esempio di Δ hedging della lezione 18, e perché?
-**R:** Slide 13: la colonna Δ Stock vale 1 a ogni riga, Δ Stock Posit. è uguale al Warehouse, e Total Δ position è «-», cioè zero, a ogni time step. Il docente: «Il delta dell'azione è 1, perché è la derivata prima» ([00:31:44]); il delta della posizione in azioni è «il magazzino di azioni per il suo delta» ([00:31:51]); «il delta di portafoglio è sempre zero» ([00:25:55]), «perfettamente neutrale perché la somma della colonna delta stock position e della colonna delta call position è perfettamente neutralizzata in presenza di ogni time step» (transcript [00:32:05]). Per il docente si costruisce così «un portafoglio risk neutral» ([00:32:21]).
+**D:** ⚠️ Quanto valgono il Delta dell'azione e il Delta di portafoglio nell'esempio di $\Delta$ hedging della lezione 18, e perché?
+**R:** Slide 13: la colonna $\Delta$ Stock vale 1 a ogni riga, $\Delta$ Stock Posit. è uguale al Warehouse, e Total $\Delta$ position è «-», cioè zero, a ogni time step. Il docente: «Il delta dell'azione è 1, perché è la derivata prima» ([00:31:44]); il delta della posizione in azioni è «il magazzino di azioni per il suo delta» ([00:31:51]); «il delta di portafoglio è sempre zero» ([00:25:55]), «perfettamente neutrale perché la somma della colonna delta stock position e della colonna delta call position è perfettamente neutralizzata in presenza di ogni time step» (transcript [00:32:05]). Per il docente si costruisce così «un portafoglio risk neutral» ([00:32:21]).
 **Opzione:** Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre zero, perché la posizione in azioni neutralizza a ogni time step quella nelle call
 **Distrattori:**
 - Il Delta dell'azione è sempre 1; il Delta di portafoglio è sempre 1.000, perché la posizione in azioni si somma a ogni time step a quella nelle call
-- Del sottostante S e della volatilità σ, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di S
+- Del sottostante $S$ e della volatilità $\sigma$, fissati l'orizzonte temporale e uno strike circa al centro dell'asse di $S$
 
 **D:** ⚠️ Qual è il delta di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 1)?
-**R:** «**D=N(d1)-1**»: è la formula della slide 3, colonna «Put», Δ_{put} = N(d_1) - 1. Il docente: «il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]); il grafico della slide 5 va da 0 a -1: «La put va da 0 a meno 1» ([00:07:26]). Distrattori del test: sono le formule di altre greche della call. «D= StN'(d1) (T-t)1/2» è il Vega, υ = S · N'(d_1)√(T-t); «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, Γ = N'(d_1)/(Sσ√(T-t)); «D = (T-t) K e-r(T-t) N(d2)» è il Rho della call, la (103) della lezione 16, che la slide 3 scrive sotto Θ_{call}. ⚠️ La domanda non è che cos'è la formula, ma di quale greca e di quale opzione.
+**R:** «**D=N(d1)-1**»: è la formula della slide 3, colonna «Put», $\Delta_{put} = N(d_1) - 1$. Il docente: «il delta della call è n di 1 e il delta della put è n di 1 meno 1» (transcript [00:01:14]); il grafico della slide 5 va da 0 a -1: «La put va da 0 a meno 1» ([00:07:26]). Distrattori del test: sono le formule di altre greche della call. «D= StN'(d1) (T-t)1/2» è il Vega, $\upsilon = S \cdot N'(d_1)\sqrt{T-t}$; «D= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$; «D = (T-t) K e-r(T-t) N(d2)» è il Rho della call, la (103) della lezione 16, che la slide 3 scrive sotto $\Theta_{call}$. ⚠️ La domanda non è che cos'è la formula, ma di quale greca e di quale opzione.
 **Opzione:** D=N(d1)-1
 **Distrattori:**
 - D= StN'(d1) (T-t)1/2
@@ -6049,7 +6238,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - D = (T-t) K e-r(T-t) N(d2)
 
 **D:** ⚠️ Quanto vale il delta di una Call ITM alla scadenza nel modello di BSM, secondo il test della lezione 18 (domanda 2)?
-**R:** «**D=1**». È l'ultima riga della tabella della slide 13: al time step 20 la vita residua è 0,0000, l'azione vale 150,0 con strike 100, e il Delta della call è 1. Il docente: «al time step 20, dove io ho che 1 è il delta, perché l'opzione è deep in the money, e io ho quindi una posizione delta di meno 1000» (transcript [00:28:46]–[00:29:08]). Il grafico della slide 4 sale fino a 1,00, e «se siamo in the money e c'è bassa volatilità chiaro che il delta è uno» ([00:05:19]–[00:05:39]). Distrattori del test: «D= StN'(d1) (T-t)1/2» è il Vega, «D= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «D = (T-t) K e-r(T-t) N(d2)» il Rho della call; nessuno è un valore del Delta, e alla scadenza (T-t) vale zero.
+**R:** «**D=1**». È l'ultima riga della tabella della slide 13: al time step 20 la vita residua è 0,0000, l'azione vale 150,0 con strike 100, e il Delta della call è 1. Il docente: «al time step 20, dove io ho che 1 è il delta, perché l'opzione è deep in the money, e io ho quindi una posizione delta di meno 1000» (transcript [00:28:46]–[00:29:08]). Il grafico della slide 4 sale fino a 1,00, e «se siamo in the money e c'è bassa volatilità chiaro che il delta è uno» ([00:05:19]–[00:05:39]). Distrattori del test: «D= StN'(d1) (T-t)1/2» è il Vega, «D= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «D = (T-t) K e-r(T-t) N(d2)» il Rho della call; nessuno è un valore del Delta, e alla scadenza $(T-t)$ vale zero.
 **Opzione:** D=1
 **Distrattori:**
 - D= StN'(d1) (T-t)1/2
@@ -6057,7 +6246,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - D = (T-t) K e-r(T-t) N(d2)
 
 **D:** ⚠️ Qual è il Gamma di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 3)?
-**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «s» per σ e «(T-t)1/2» per √(T-t). La slide 3 scrive il Gamma una sola volta, per call e put: Γ = N'(d_1)/(Sσ√(T-t)); la piattaforma ha S_t, come la (102) della lezione 16. Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]), «il gamma è invariante perché va a studiare una sensitività di secondo ordine» ([00:09:25]). Distrattori del test: «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, «G=N(d1)» il Delta della call.
+**R:** «**G= N'(d1) ∗ 1/sSt(T-t)1/2**», con «s» per $\sigma$ e «(T-t)1/2» per $\sqrt{T-t}$. La slide 3 scrive il Gamma una sola volta, per call e put: $\Gamma = \frac{N'(d_1)}{S\sigma\sqrt{T-t}}$; la piattaforma ha $S_t$, come la (102) della lezione 16. Il docente: «Il gamma è uguale per la call e la put» (transcript [00:01:27]), «il gamma è invariante perché va a studiare una sensitività di secondo ordine» ([00:09:25]). Distrattori del test: «G= StN'(d1) (T-t)1/2» è il Vega, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, «G=N(d1)» il Delta della call.
 **Opzione:** G= N'(d1) ∗ 1/sSt(T-t)1/2
 **Distrattori:**
 - G= StN'(d1) (T-t)1/2
@@ -6065,7 +6254,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - G=N(d1)
 
 **D:** ⚠️ Qual è il Vega di una Put nel modello di BSM, secondo il test della lezione 18 (domanda 4)?
-**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «(T-t)1/2» per √(T-t). La slide 3 scrive il Vega una sola volta, in mezzo alle colonne «Call» e «Put»: υ = S · N'(d_1)√(T-t), il 𝒱_C (104) della lezione 16. Il docente: «vega è s per la densità in d_1 per la radice quadrata della time to maturity» (transcript [00:01:55]); non dice in una frase che è uguale per call e put, ma commenta il grafico della slide 7 per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). Distrattori del test: «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, con S_t e la radice al denominatore; «Ʋ = (T-t) K e-r(T-t) N(d2)» il Rho della call; «Ʋ=N(d1)» il Delta della call.
+**R:** «**Ʋ= StN'(d1) (T-t)1/2**», con «(T-t)1/2» per $\sqrt{T-t}$. La slide 3 scrive il Vega una sola volta, in mezzo alle colonne «Call» e «Put»: $\upsilon = S \cdot N'(d_1)\sqrt{T-t}$, il $\mathcal{V}_C$ (104) della lezione 16. Il docente: «vega è s per la densità in $d_1$ per la radice quadrata della time to maturity» (transcript [00:01:55]); non dice in una frase che è uguale per call e put, ma commenta il grafico della slide 7 per la call «deep in the money» e per la put «deep out of the money» ([00:17:03]). Distrattori del test: «Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2» è il Gamma, con $S_t$ e la radice al denominatore; «Ʋ = (T-t) K e-r(T-t) N(d2)» il Rho della call; «Ʋ=N(d1)» il Delta della call.
 **Opzione:** Ʋ= StN'(d1) (T-t)1/2
 **Distrattori:**
 - Ʋ= N'(d1) ∗ 1/sSt(T-t)1/2
@@ -6073,7 +6262,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Ʋ=N(d1)
 
 **D:** ⚠️ Qual è il Rho di una Call nel modello di BSM, secondo il test della lezione 18 (domanda 5)?
-**R:** «**r = - (T-t) K e-r(T-t) N(-d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: è la formula della **put**, che la slide 3 scrive nella colonna «Put», sotto Θ_{put}: -(T-t)Ke^(-r(T-t))N(-d_2). Il Rho della call è (T-t)Ke^(-r(T-t))N(d_2), la (103) della slide 33 della lezione 16 e il Θ_{call} della slide 3: nelle domande 1–4 dello stesso test è un distrattore, «(T-t) K e-r(T-t) N(d2)», e qui manca; nel test della lezione 17 la stessa domanda, parola per parola, ha proprio quella chiave. Il docente: il theta della call e della put, «a meno di una differenza di segno», è «la time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). ⚠️ Il test dice «Rho», come la lezione 16; la slide 3 e il docente dicono Θ. Distrattori del test: «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta della call. La B è l'unica formula di un Rho. Se la domanda torna corretta per la call, la risposta è «(T-t) K e-r(T-t) N(d2)».
+**R:** «**r = - (T-t) K e-r(T-t) N(-d2)**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: è la formula della **put**, che la slide 3 scrive nella colonna «Put», sotto $\Theta_{put}$: $-(T-t)Ke^{-r(T-t)}N(-d_2)$. Il Rho della call è $(T-t)Ke^{-r(T-t)}N(d_2)$, la (103) della slide 33 della lezione 16 e il $\Theta_{call}$ della slide 3: nelle domande 1–4 dello stesso test è un distrattore, «(T-t) K e-r(T-t) N(d2)», e qui manca; nel test della lezione 17 la stessa domanda, parola per parola, ha proprio quella chiave. Il docente: il theta della call e della put, «a meno di una differenza di segno», è «la time to maturity per k per e il fattore di attualizzazione della time to maturity per n più o meno di 2» (transcript [00:01:55]). ⚠️ Il test dice «Rho», come la lezione 16; la slide 3 e il docente dicono $\Theta$. Distrattori del test: «r= StN'(d1) (T-t)1/2» è il Vega, «r= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma, «r=N(d1)» il Delta della call. La B è l'unica formula di un Rho. Se la domanda torna corretta per la call, la risposta è «(T-t) K e-r(T-t) N(d2)».
 **Opzione:** r = - (T-t) K e-r(T-t) N(-d2)
 **Distrattori:**
 - r= StN'(d1) (T-t)1/2
@@ -6082,7 +6271,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 19 — Gestione del rischio - Greche 3 – Delta Hedging
 
-**D:** ⚠️ Quali oneri genera, per il docente della lezione 19, ottenere la neutralità del portafoglio con il Δ hedging?
+**D:** ⚠️ Quali oneri genera, per il docente della lezione 19, ottenere la neutralità del portafoglio con il $\Delta$ hedging?
 **R:** Gli interessi sul denaro preso a prestito e i costi del trading: «tenuto conto che si prende del denaro a prestito per compravendere queste attività finanziarie, che questo denaro genera dei tassi di interesse e che … l'operatività di trading di per sé ha dei costi», «ottenere la neutralità del portafoglio non è un risultato che non determina oneri finanziari» (transcript [00:01:14]–[00:02:04]). Per questo il foglio Excel della lezione 18 si completa con due blocchi, per «capire quanto costa effettivamente l'operatività». ⚠️ Nel foglio, però, i costi di trading «non sono segnati» ([00:15:18]).
 **Opzione:** Gli interessi sul denaro preso a prestito per comprare le azioni e i costi dell'operatività di trading
 **Distrattori:**
@@ -6090,12 +6279,12 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 66,7, deep out of the money
 - 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino è vuoto dal time step 16
 
-**D:** ⚠️ Quali due blocchi aggiunge la lezione 19 al foglio Excel del Δ hedging, e con quali colonne (slide 2)?
+**D:** ⚠️ Quali due blocchi aggiunge la lezione 19 al foglio Excel del $\Delta$ hedging, e con quali colonne (slide 2)?
 **R:** Slide 2: «**Delta Hedging Cash Flow**», con i gruppi Stock (Dollars in Stock (flusso)), Option (Cash ex Shorting/Exercising Option), Bank (Cash, Interest (flusso), Borrow (stock)) e la colonna Hedging Revenue (cost); «**Delta Hedging portfolio "A" Value**», con il gruppo Replicating Portfolio (Dollars in Stock (stock), Bank, Portfolio Value) e le colonne Option value e Unwind value. Il docente: «Un primo blocco che chiameremo Delta Hedging Cash Flow, cioè i flussi di cassa derivanti dal Delta Hedging, e poi dovremo anche costruire il valore del portafoglio, cioè il Delta Hedging portfolio "A" Value» (transcript [00:02:31]). ⚠️ Hedging Revenue (cost) sta nel primo blocco, Unwind value nel secondo.
 **Opzione:** Delta Hedging Cash Flow: Dollars in Stock (flusso), Cash ex Shorting/Exercising Option, Cash, Interest (flusso), Borrow (stock), Hedging Revenue (cost); Delta Hedging portfolio "A" Value: Dollars in Stock (stock), Bank, Portfolio Value, Option value, Unwind value
 **Distrattori:**
 - Delta Hedging Cash Flow: Dollars in Stock (flusso), Cash ex Shorting/Exercising Option, Cash, Interest (flusso), Borrow (stock), Unwind value; Delta Hedging portfolio "A" Value: Dollars in Stock (stock), Bank, Portfolio Value, Option value, Hedging Revenue (cost)
-- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, $N(d_1)$, resta fra 0 e 1
 - Un costo di 2.036 dollari: il portafoglio vale 60.282 e l'opzione 62.317
 
 **D:** ⚠️ Che cosa riporta la colonna Dollars in Stock (flusso) nel foglio in the money della lezione 19, e con quali primi valori (slide 2)?
@@ -6111,7 +6300,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** 10.378 al time step 0, il premio della vendita delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
 **Distrattori:**
 - 10.378 al time step 0, il premio dell'acquisto delle 1.000 call, e (100.000) al time step 20, l'esercizio allo strike 100
-- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, $N(d_1)$, resta fra 0 e 1
 - La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
 
 **D:** ⚠️ Quanto prende a prestito dalla banca al time step 0 chi vende le 1.000 call dell'esempio della lezione 19, e perché?
@@ -6127,7 +6316,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Sale a 52.395: ai 46.022 si aggiungono 6.344 di nuove azioni e 28,8 di interessi, che variano con la cassa presa o restituita
 **Distrattori:**
 - Sale a 52.366: ai 46.022 si aggiungono 6.344 di nuove azioni, mentre gli interessi si pagano tutti alla scadenza
-- Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+- Al tempo $T=0$ si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
 - Solo gli oneri della discretizzazione del processo di hedging e di trading: i costi di trading non sono segnati
 
 **D:** ⚠️ Quanto ha preso a prestito alla scadenza, nel foglio in the money della lezione 19, chi ha venduto le call, e quanto vale l'ultimo flusso di interessi?
@@ -6144,7 +6333,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un guadagno netto di 2.122
 - Parte da 100,0, lo strike, sale a 107,1 e alla scadenza è a 66,7, deep out of the money
-- Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+- Con la formula di Black-Scholes della call, $S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, riportata fra parentesi, cioè col segno meno
 
 **D:** ⚠️ Come si costruisce la colonna Dollars in Stock (stock) del portafoglio di replica nella lezione 19, e quanto vale al time step 0 e alla scadenza del foglio in the money?
 **R:** «Nella prima colonna Dollars in Stock c'è un dato di stock e non di flusso, semplicemente il valore in base al prezzo delle azioni del mio portafoglio azionario», cioè il numero di azioni per il loro prezzo (transcript [00:11:39]–[00:11:52]): «al primo time step è proprio 56.400 perché l'azione vale 100 e … abbiamo comprato 564 azioni», e «quando l'opzione scade come ben sappiamo deep in the money avremo 149.961 dollari» ([00:12:05]–[00:12:20]). Slide 2: 56.400, 64.997, 57.032, …, 149.961. ⚠️ Stock, non flusso.
@@ -6155,22 +6344,22 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il costo di hedging
 
 **D:** ⚠️ Che cosa riporta la colonna Bank del portafoglio di replica nella lezione 19, e come se ne ricava il Portfolio Value?
-**R:** Bank è «la quantità di denaro che io ho dovuto prendere a prestito per finanziare la posizione in azione», cioè, «col segno opposto ovviamente», la colonna Borrow (transcript [00:12:52]–[00:13:08]). Sommata a Dollars in Stock (stock), «non è nient'altro che quell'alfa S0 più beta 0 che determinavano il valore V0 del portafoglio», e dà il Portfolio Value ([00:13:36]): al time step 0, 56.400 + (46.022) = 10.378 (slide 2). È il V_0(φ) = α_0S_0 + β_0 della lezione 08. ⚠️ Il debito entra col segno meno.
-**Opzione:** Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+**R:** Bank è «la quantità di denaro che io ho dovuto prendere a prestito per finanziare la posizione in azione», cioè, «col segno opposto ovviamente», la colonna Borrow (transcript [00:12:52]–[00:13:08]). Sommata a Dollars in Stock (stock), «non è nient'altro che quell'alfa S0 più beta 0 che determinavano il valore V0 del portafoglio», e dà il Portfolio Value ([00:13:36]): al time step 0, 56.400 + (46.022) = 10.378 (slide 2). È il $V_0(\varphi) = \alpha_0S_0 + \beta_0$ della lezione 08. ⚠️ Il debito entra col segno meno.
+**Opzione:** Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, $\alpha_0S_0 + \beta_0$: al time step 0, 56.400 - 46.022 = 10.378
 **Distrattori:**
-- Il Borrow con lo stesso segno; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 + 46.022 = 102.422
+- Il Borrow con lo stesso segno; sommato a Dollars in Stock (stock) dà il Portfolio Value, $\alpha_0S_0 + \beta_0$: al time step 0, 56.400 + 46.022 = 102.422
 - Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante e le azioni sono già tutte vendute
 - Gli interessi sul denaro preso a prestito per comprare le azioni e i costi dell'operatività di trading
 
 **D:** ⚠️ Come si calcola la colonna Option value del foglio della lezione 19, e con quale segno vi compare?
-**R:** Con la formula di Black-Scholes della call: «Qui calcoliamo, banalmente, con la nostra formula di Black-Scholes, cioè S N di 1 meno K e alla meno r T meno t, cioè la time to maturity, N di 2, il valore dell'opzione» (transcript [00:14:13]), C_t = S_tN(d_1) - Ke^(-r(T-t))N(d_2), la (33) della lezione 11. Nelle slide 2 e 5 la colonna ha le parentesi, cioè il segno meno, perché le call sono vendute (deduzione: il docente non lo dice): (10.378) al time step 0, (49.961) alla scadenza del caso in the money. ⚠️ È la formula della **call**; quella della put, nella slide 2 della lezione 18, è Ke^(-r(T-t))N(-d_2) - S_tN(-d_1).
-**Opzione:** Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+**R:** Con la formula di Black-Scholes della call: «Qui calcoliamo, banalmente, con la nostra formula di Black-Scholes, cioè S N di 1 meno K e alla meno r T meno t, cioè la time to maturity, N di 2, il valore dell'opzione» (transcript [00:14:13]), $C_t = S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, la (33) della lezione 11. Nelle slide 2 e 5 la colonna ha le parentesi, cioè il segno meno, perché le call sono vendute (deduzione: il docente non lo dice): (10.378) al time step 0, (49.961) alla scadenza del caso in the money. ⚠️ È la formula della **call**; quella della put, nella slide 2 della lezione 18, è $Ke^{-r(T-t)}N(-d_2) - S_tN(-d_1)$.
+**Opzione:** Con la formula di Black-Scholes della call, $S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, riportata fra parentesi, cioè col segno meno
 **Distrattori:**
-- Con la formula di Black-Scholes della put, Ke^(-r(T-t))N(-d_2) - S_tN(-d_1), riportata fra parentesi, cioè col segno meno
+- Con la formula di Black-Scholes della put, $Ke^{-r(T-t)}N(-d_2) - S_tN(-d_1)$, riportata fra parentesi, cioè col segno meno
 - D=N(d1)-1
 - Solo gli oneri della discretizzazione del processo di hedging e di trading: i costi di trading non sono segnati
 
-**D:** ⚠️ Che cosa sono gli «sfridi finanziari» del Δ hedging per il docente della lezione 19, e come cambierebbero con più time step?
+**D:** ⚠️ Che cosa sono gli «sfridi finanziari» del $\Delta$ hedging per il docente della lezione 19, e come cambierebbero con più time step?
 **R:** La differenza fra il portafoglio di replica e il valore dell'opzione: «teoricamente … questi due valori dovrebbero essere perfettamente uguali ma così non è perché la differenza esprime proprio la circostanza che purtroppo la discretizzazione dell'operatività di trading genera degli chiamiamoli sfridi finanziari che sono esattamente quegli hedging revenue o cost, a seconda se positivi o negativi, che sono determinati dal fatto che l'operatività è in un time step, i tre mesi, 20 time step» (transcript [00:14:30]–[00:14:56]). «Se ne avessimo 100 di time step, probabilmente questi sfridi sarebbero inferiori» ([00:15:12]). ⚠️ Più time step, sfridi **inferiori**: il tempo del modello è istantaneo, quello del foglio è discretizzato ([00:10:16]).
 **Opzione:** La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
 **Distrattori:**
@@ -6207,7 +6396,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Un guadagno di 2.036 dollari: il portafoglio vale 62.317 e l'opzione 60.282
 - Le azioni in portafoglio per il loro prezzo, un dato di stock: 56.400 al time step 0 e 149.961 alla scadenza
-- Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+- Al tempo $T=0$ si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
 
 **D:** ⚠️ A che cosa serve, per il docente della lezione 19, seguire l'Unwind value durante l'hedging, e che cosa dà all'ultimo time step?
 **R:** «In base a queste due grandezze si possono orientare anche delle operatività finanziarie durante l'attività di hedging antecedenti alla fine e alla scadenza del contratto» (transcript [00:17:58]); «nei tempi intermedi abbiamo quel maggiore o minore valore generato da queste frizioni di operatività di trading e di hedging che possono portare quindi un desk a ritenere di dover anticipare la chiusura di eventuali posizioni per portare a casa dei risultati prima della scadenza» ([00:27:02]). All'ultimo time step il confronto fra portafoglio e opzione dà «banalmente il mio costo di hedging» ([00:26:45]–[00:26:58]): (2.122) nel caso in the money (slide 2), (1.516) in quello out of the money (slide 5), uguali alla colonna Hedging Revenue (cost).
@@ -6216,13 +6405,13 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - A orientare operazioni prima della scadenza, fino a chiudere in anticipo le posizioni; all'ultimo time step coincide con il premio incassato
 - Le azioni compravendute nel time step per il loro prezzo: 56.400 al time step 0, poi 6.344 e (5.723)
 
-**D:** ⚠️ Come è impostato il secondo esempio di Δ hedging della lezione 19 (slide 3)?
-**R:** Slide 3: «Δ Hedging — Al tempo T=0 vendi 1 call — Alla scadenza l'opzione è OUT – the money». Il docente: «Ipotizziamo invece un ulteriore caso, al tempo t uguale 0 noi vendiamo l'opzione ma la scadenza l'opzione non è in the money, è out of the money» (transcript [00:19:09]); il foglio è costruito «esattamente come lo abbiamo costruito prima»: «Abbiamo 20 time step, i nostri tre mesi hanno una time to expiration che va da 0.25 a 0» ([00:19:25]–[00:19:37]). ⚠️ La call è **venduta**, come nel caso in the money della lezione 18; il foglio della slide 4 ne vende mille («Short 1000 call on 1 stock»).
-**Opzione:** Al tempo T=0 si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+**D:** ⚠️ Come è impostato il secondo esempio di $\Delta$ hedging della lezione 19 (slide 3)?
+**R:** Slide 3: «$\Delta$ Hedging — Al tempo $T=0$ vendi 1 call — Alla scadenza l'opzione è OUT – the money». Il docente: «Ipotizziamo invece un ulteriore caso, al tempo t uguale 0 noi vendiamo l'opzione ma la scadenza l'opzione non è in the money, è out of the money» (transcript [00:19:09]); il foglio è costruito «esattamente come lo abbiamo costruito prima»: «Abbiamo 20 time step, i nostri tre mesi hanno una time to expiration che va da 0.25 a 0» ([00:19:25]–[00:19:37]). ⚠️ La call è **venduta**, come nel caso in the money della lezione 18; il foglio della slide 4 ne vende mille («Short 1000 call on 1 stock»).
+**Opzione:** Al tempo $T=0$ si vende 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
 **Distrattori:**
-- Al tempo T=0 si compra 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
+- Al tempo $T=0$ si compra 1 call che alla scadenza è out of the money, con lo stesso foglio: tre mesi in 20 time step
 - Il guadagno o il costo della copertura: 102.122 di debito al netto dei 100.000 dello strike, cioè un costo netto di 2.122
-- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, $\alpha_0S_0 + \beta_0$: al time step 0, 56.400 - 46.022 = 10.378
 
 **D:** ⚠️ Che andamento ha l'azione nell'esempio out of the money della lezione 19 (slide 4)?
 **R:** Slide 4, colonna STOCK PRICE: 100,0, 107,1, 98,7, 98,6, 98,1, 100,9, 103,8, 89,9, 83,0, 77,9, 74,6, 76,9, 70,2, 68,9, 69,5, 69,9, 64,8, 62,8, 63,0, 64,5 e **66,7** al time step 20. Il docente: «L'azione in questo caso vale prima 100, poi diventa 107, poi 98, poi ritorna a 100, per poi finire deep out of the money, a 66. Il valore S è estremamente inferiore al prezzo strike pari a 100» (transcript [00:19:52]–[00:20:06]). ⚠️ 64,8 è il prezzo del time step 16, quando si vendono le ultime azioni, non quello della scadenza.
@@ -6233,10 +6422,10 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Sale a 52.395: ai 46.022 si aggiungono 6.344 di nuove azioni e 28,8 di interessi, che variano con la cassa presa o restituita
 
 **D:** ⚠️ Quanto vale il Delta della call nei primi time step dell'esempio out of the money della lezione 19, e fra quali estremi resta?
-**R:** Slide 4: Δ call 0,564115961, 0,669595731 e 0,539965684 ai time step 0, 1 e 2, con le posizioni (564), (670) e (540) per le mille call vendute. Il docente: il blocco calcola «il valore del delta, cioè quell'indicatore che è uguale ad N di 1», cioè «564 670 540 portato relativamente alle mille opzioni ma ovviamente compreso tra 0 e 1 come giusto che sia dato la definizione di questa grandezza» (transcript [00:20:19]–[00:20:36]). ⚠️ Il Delta della call sta fra 0 e 1; fra 0 e -1 sta quello della put (lezione 18, slide 5).
-**Opzione:** 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra 0 e 1
+**R:** Slide 4: $\Delta$ call 0,564115961, 0,669595731 e 0,539965684 ai time step 0, 1 e 2, con le posizioni (564), (670) e (540) per le mille call vendute. Il docente: il blocco calcola «il valore del delta, cioè quell'indicatore che è uguale ad N di 1», cioè «564 670 540 portato relativamente alle mille opzioni ma ovviamente compreso tra 0 e 1 come giusto che sia dato la definizione di questa grandezza» (transcript [00:20:19]–[00:20:36]). ⚠️ Il Delta della call sta fra 0 e 1; fra 0 e -1 sta quello della put (lezione 18, slide 5).
+**Opzione:** 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, $N(d_1)$, resta fra 0 e 1
 **Distrattori:**
-- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, N(d_1), resta fra -1 e 0
+- 0,564, 0,670 e 0,540, cioè posizioni di -564, -670 e -540 per le mille call: il Delta, $N(d_1)$, resta fra -1 e 0
 - 102.122 dollari, con un ultimo flusso di interessi di 63,8
 - Le azioni in portafoglio per il loro prezzo, un dato di stock: 56.400 al time step 0 e 149.961 alla scadenza
 
@@ -6249,15 +6438,15 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - La differenza fra portafoglio di replica e valore dell'opzione dovuta alla discretizzazione in 20 time step: con 100 time step sarebbero probabilmente inferiori
 
 **D:** ⚠️ Come descrive il docente della lezione 19 l'opzione dell'esempio out of the money quando l'azione è a 64,8 con strike 100?
-**R:** «L'opzione oramai è, si dice, morta nella sua possibilità di generare valore intrinseco e quindi siamo nelle condizioni che già al tempo 16 il mio valore residuo è talmente insignificante che … avrò già smobilitato tutto il mio portafoglio» (transcript [00:21:51]). Slide 4: al time step 16 il Delta è 7,23394E-05, la posizione «-», e si vendono le ultime 3 azioni. ⚠️ Morta nella possibilità di generare valore **intrinseco**: per la call il valore intrinseco è S-K sopra lo strike e 0 sotto (lezione 05). Le azioni non si tengono fino alla scadenza.
+**R:** «L'opzione oramai è, si dice, morta nella sua possibilità di generare valore intrinseco e quindi siamo nelle condizioni che già al tempo 16 il mio valore residuo è talmente insignificante che … avrò già smobilitato tutto il mio portafoglio» (transcript [00:21:51]). Slide 4: al time step 16 il Delta è 7,23394E-05, la posizione «-», e si vendono le ultime 3 azioni. ⚠️ Morta nella possibilità di generare valore **intrinseco**: per la call il valore intrinseco è $S-K$ sopra lo strike e 0 sotto (lezione 05). Le azioni non si tengono fino alla scadenza.
 **Opzione:** Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante e le azioni sono già tutte vendute
 **Distrattori:**
 - Morta nella sua possibilità di generare valore intrinseco: il valore residuo è insignificante, ma le azioni si tengono fino alla scadenza
 - Le azioni compravendute nel time step per il loro prezzo: 56.400 al time step 0, poi 6.344 e (5.723)
-- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, α_0S_0 + β_0: al time step 0, 56.400 - 46.022 = 10.378
+- Il Borrow col segno opposto; sommato a Dollars in Stock (stock) dà il Portfolio Value, $\alpha_0S_0 + \beta_0$: al time step 0, 56.400 - 46.022 = 10.378
 
 **D:** ⚠️ Quanto vale il Delta della call alla scadenza nell'esempio out of the money della lezione 19, e da quando il magazzino è vuoto (slide 4)?
-**R:** Slide 4: Δ call **0** al time step 20, dopo 7,23394E-05 al 16, 1,05616E-06 al 17, 3,36141E-09 al 18 e 2,6642E-15 al 19; dal time step 16 Δ call Posit., Warehouse e Δ Stock Posit. sono «-». Il docente: il Delta della posizione in azioni «non è altro che 1 per il magazzino warehouse e riflette esattamente il valore che parte con 564 e al time step 16 è diventato 0» (transcript [00:22:22]). Nel caso in the money, invece, alla scadenza il Delta è 1 e il magazzino ha 1.000 azioni (lezione 18, slide 13). ⚠️ Il magazzino si svuota al time step **16**, non alla scadenza.
+**R:** Slide 4: $\Delta$ call **0** al time step 20, dopo 7,23394E-05 al 16, 1,05616E-06 al 17, 3,36141E-09 al 18 e 2,6642E-15 al 19; dal time step 16 $\Delta$ call Posit., Warehouse e $\Delta$ Stock Posit. sono «-». Il docente: il Delta della posizione in azioni «non è altro che 1 per il magazzino warehouse e riflette esattamente il valore che parte con 564 e al time step 16 è diventato 0» (transcript [00:22:22]). Nel caso in the money, invece, alla scadenza il Delta è 1 e il magazzino ha 1.000 azioni (lezione 18, slide 13). ⚠️ Il magazzino si svuota al time step **16**, non alla scadenza.
 **Opzione:** 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino è vuoto dal time step 16
 **Distrattori:**
 - 0 alla scadenza, dopo valori come 7,23394E-05 al time step 16; il magazzino si svuota solo al time step 20
@@ -6277,7 +6466,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Il solo premio di 10.378 al time step 0; alla scadenza la colonna è a zero, come l'Option value
 **Distrattori:**
 - Il premio di 10.378 al time step 0 e (100.000) alla scadenza, l'esercizio delle 1.000 call allo strike 100
-- Con la formula di Black-Scholes della call, S_tN(d_1) - Ke^(-r(T-t))N(d_2), riportata fra parentesi, cioè col segno meno
+- Con la formula di Black-Scholes della call, $S_tN(d_1) - Ke^{-r(T-t)}N(d_2)$, riportata fra parentesi, cioè col segno meno
 - Un guadagno di 122 dollari: il portafoglio vale 12.602 e l'opzione 12.480
 
 **D:** ⚠️ Quanto costa la copertura nell'esempio out of the money della lezione 19 rispetto al caso in the money, e perché per il docente?
@@ -6288,7 +6477,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - 56.400 al time step 0 e 11.355 al time step 1; poi le azioni si smobilitano, perché l'opzione è out of the money e non c'è niente da coprire
 - Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
 
-**D:** ⚠️ Quante azioni compra, per coprirsi con il Δ hedging, chi ha venduto le call nei due esempi delle lezioni 18–19, e quante ne ha alla scadenza?
+**D:** ⚠️ Quante azioni compra, per coprirsi con il $\Delta$ hedging, chi ha venduto le call nei due esempi delle lezioni 18–19, e quante ne ha alla scadenza?
 **R:** Tante quanto il Delta per il numero di call vendute. Il docente: il Delta «ci consente di individuare quante azioni devo andare a compravendere per poter garantire che questa vendita di mille opzioni call sia opportunamente coperta» (transcript [00:20:59]); nella lezione 18 le azioni da comprare o vendere sono «esattamente il valore del delta» (transcript 18, [00:29:22]). Alla scadenza: nel caso in the money il Delta è 1 e «tutte e mille le azioni sono state comprate» ([00:03:40]; lezione 18, slide 13); nel caso out of the money il Delta è 0 e il magazzino è vuoto dal time step 16 ([00:22:22]; slide 4). ⚠️ È la regola delle domande 4 e 5 del test.
 **Opzione:** Il Delta per il numero di call vendute: alla scadenza 1.000 azioni per le 1.000 call in the money, con Delta 1, e nessuna per quelle out of the money, con Delta 0
 **Distrattori:**
@@ -6305,7 +6494,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - D = (T-t) K e-r(T-t) N(d2)
 
 **D:** ⚠️ Quanto vale il delta di una PUT OTM alla scadenza nel modello di BSM, secondo il test della lezione 19 (domanda 2)?
-**R:** «**D=0**», ma il deck 19 non parla di put: la chiave si ricava dalla lezione 18. La slide 3 di quel deck dà Δ_{put} = N(d_1) - 1, e il grafico della slide 5 va da 0 a -1, salendo verso 0 per S alto. Il docente: a bassa volatilità il Delta della put è attratto, «appena l'opzione diventa in o appena l'opzione diventa out of the money, verso lo 0 o verso il meno 1» (transcript 18, [00:08:37]–[00:09:07]). La put è out of the money quando S_t > K (lezione 05, slide 24): il suo Delta va a 0. ⚠️ La chiave è giusta ma non testuale. Distrattori del test: il Vega, il Gamma e il Rho della call, come nella domanda 1.
+**R:** «**D=0**», ma il deck 19 non parla di put: la chiave si ricava dalla lezione 18. La slide 3 di quel deck dà $\Delta_{put} = N(d_1) - 1$, e il grafico della slide 5 va da 0 a -1, salendo verso 0 per $S$ alto. Il docente: a bassa volatilità il Delta della put è attratto, «appena l'opzione diventa in o appena l'opzione diventa out of the money, verso lo 0 o verso il meno 1» (transcript 18, [00:08:37]–[00:09:07]). La put è out of the money quando $S_t > K$ (lezione 05, slide 24): il suo Delta va a 0. ⚠️ La chiave è giusta ma non testuale. Distrattori del test: il Vega, il Gamma e il Rho della call, come nella domanda 1.
 **Opzione:** D=0
 **Distrattori:**
 - D= StN'(d1) (T-t)1/2
@@ -6313,7 +6502,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - D = (T-t) K e-r(T-t) N(d2)
 
 **D:** ⚠️ Quanto vale il delta di una PUT ITM alla scadenza nel modello di BSM, secondo il test della lezione 19 (domanda 3)?
-**R:** «**D=1**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**. Per la lezione 18 il Delta della put è Δ_{put} = N(d_1) - 1 (slide 3) e va da 0 a **-1** (slide 5): «La put va da 0 a meno 1», perché la put è il diritto di vendere un'azione, «quindi è meno un'azione» (transcript 18, [00:07:26]–[00:07:52]). Una put in the money, con S_t < K (lezione 05, slide 24), alla scadenza ha Delta **-1**, che non è fra le opzioni. «D=1» è il valore della **call** in the money alla scadenza (test 18, domanda 2), con il segno sbagliato; «D=0» è il Delta della put out of the money (domanda 2); le altre due opzioni sono il Vega e il Gamma della call. Il deck 19 e il suo transcript non parlano di put. La B è la sola con il valore assoluto giusto, una azione per opzione. ⚠️ Se la domanda torna corretta, la risposta è -1.
+**R:** «**D=1**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**. Per la lezione 18 il Delta della put è $\Delta_{put} = N(d_1) - 1$ (slide 3) e va da 0 a **-1** (slide 5): «La put va da 0 a meno 1», perché la put è il diritto di vendere un'azione, «quindi è meno un'azione» (transcript 18, [00:07:26]–[00:07:52]). Una put in the money, con $S_t < K$ (lezione 05, slide 24), alla scadenza ha Delta **-1**, che non è fra le opzioni. «D=1» è il valore della **call** in the money alla scadenza (test 18, domanda 2), con il segno sbagliato; «D=0» è il Delta della put out of the money (domanda 2); le altre due opzioni sono il Vega e il Gamma della call. Il deck 19 e il suo transcript non parlano di put. La B è la sola con il valore assoluto giusto, una azione per opzione. ⚠️ Se la domanda torna corretta, la risposta è -1.
 **Opzione:** D=1
 **Distrattori:**
 - D= StN'(d1) (T-t)1/2
@@ -6338,95 +6527,95 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 
 ## Lezione 20 — Gestione del rischio - Greche 4 – Delta-Gamma Hedging
 
-**D:** ⚠️ Su quale approssimazione si fonda il Δ–Γ hedging nella slide 2 della lezione 20, e in che cosa differisce da quella del Δ hedging?
-**R:** Slide 2, «Δ–Γ Hedging»: «Calcolo di df attraverso un'espansione della formula di Taylor del secondo ordine», **df ≈ ΔdS + ½ΓdS² + o(dt)**. Il Δ hedging della lezione 18 (slide 11) si fermava al primo ordine, df ≈ ΔdS + o(dt): qui si aggiunge il termine **½ΓdS²**. Il docente: «un conto è utilizzare solo la derivata prima in un'espansione di Taylor … piuttosto usare la seconda derivata» (transcript [00:00:24]–[00:00:49]); è «una nuova e più avanzata modalità di hedging che coinvolge non solo la greca del delta ma anche la greca del gamma, cioè della derivata seconda» ([00:00:04]). ⚠️ Secondo ordine, con Γ; il resto resta o(dt).
-**Opzione:** df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
+**D:** ⚠️ Su quale approssimazione si fonda il $\Delta$–$\Gamma$ hedging nella slide 2 della lezione 20, e in che cosa differisce da quella del $\Delta$ hedging?
+**R:** Slide 2, «$\Delta$–$\Gamma$ Hedging»: «Calcolo di $df$ attraverso un'espansione della formula di Taylor del secondo ordine», **$df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + o(dt)$**. Il $\Delta$ hedging della lezione 18 (slide 11) si fermava al primo ordine, $df \approx \Delta\,dS + o(dt)$: qui si aggiunge il termine **$\frac{1}{2}\Gamma\,dS^2$**. Il docente: «un conto è utilizzare solo la derivata prima in un'espansione di Taylor … piuttosto usare la seconda derivata» (transcript [00:00:24]–[00:00:49]); è «una nuova e più avanzata modalità di hedging che coinvolge non solo la greca del delta ma anche la greca del gamma, cioè della derivata seconda» ([00:00:04]). ⚠️ Secondo ordine, con $\Gamma$; il resto resta $o(dt)$.
+**Opzione:** $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + o(dt)$, un'espansione della formula di Taylor del secondo ordine
 **Distrattori:**
-- df ≈ ΔdS + o(dt), un'espansione della formula di Taylor del primo ordine
-- 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
-- 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+- $df \approx \Delta\,dS + o(dt)$, un'espansione della formula di Taylor del primo ordine
+- 68 azioni, contro le 564 del solo $\Delta$ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di $B$
+- 496 al time step 0 e 517 al time step 1: il portafoglio $A$ era $\Delta$ neutrale, e $B$ vi aggiunge il Delta delle opzioni $Z$
 
-**D:** ⚠️ Quale logica segue il Δ–Γ hedging nella slide 5 della lezione 20, e con quali passaggi?
-**R:** Slide 5: «Seguiamo una logica iterativa», un ciclo di tre frecce: **Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Ricomposizione verso la Δ Neutralità**, e di nuovo da capo. Il docente: «La logica potrebbe essere una logica iterativa. Io prima neutralizzo il mio portafoglio in termini di delta, quindi vado a renderlo neutrale in termini di gamma. Ma quando l'ho reso neutrale in termini di gamma il problema è che non è più delta neutrale e quindi dovrò fare un'ulteriore ricomposizione verso la delta neutralità» (transcript [00:02:21]–[00:02:57]); più avanti, «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). ⚠️ Si parte dal Δ e si chiude tornando al Δ.
-**Opzione:** Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
+**D:** ⚠️ Quale logica segue il $\Delta$–$\Gamma$ hedging nella slide 5 della lezione 20, e con quali passaggi?
+**R:** Slide 5: «Seguiamo una logica iterativa», un ciclo di tre frecce: **Portafoglio $\Delta$ Neutrale → Portafoglio $\Gamma$ Neutrale → Ricomposizione verso la $\Delta$ Neutralità**, e di nuovo da capo. Il docente: «La logica potrebbe essere una logica iterativa. Io prima neutralizzo il mio portafoglio in termini di delta, quindi vado a renderlo neutrale in termini di gamma. Ma quando l'ho reso neutrale in termini di gamma il problema è che non è più delta neutrale e quindi dovrò fare un'ulteriore ricomposizione verso la delta neutralità» (transcript [00:02:21]–[00:02:57]); più avanti, «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). ⚠️ Si parte dal $\Delta$ e si chiude tornando al $\Delta$.
+**Opzione:** Una logica iterativa: Portafoglio $\Delta$ Neutrale, poi Portafoglio $\Gamma$ Neutrale, poi Ricomposizione verso la $\Delta$ Neutralità, e da capo
 **Distrattori:**
-- Una logica iterativa: Portafoglio Γ Neutrale, poi Portafoglio Δ Neutrale, poi Ricomposizione verso la Γ Neutralità, e da capo
-- Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+- Una logica iterativa: Portafoglio $\Gamma$ Neutrale, poi Portafoglio $\Delta$ Neutrale, poi Ricomposizione verso la $\Gamma$ Neutralità, e da capo
+- Se ne comprano 1.011: il $\Gamma$ del portafoglio $A$ è (15,70), il $\Gamma$ della II Option 0,015528736, e il $\Gamma$ II Option Tot, 15,70263, lo neutralizza
 - 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
 
-**D:** Perché, per il docente della lezione 20, la ricomposizione finale verso la Δ neutralità non disfa la Γ neutralità?
-**R:** Perché «il gamma esprime una derivata di ordine secondo»: l'ulteriore ricomposizione verso la delta neutralità «ovviamente conserverà anche gamma neutralità» (transcript [00:02:36]). La ricomposizione si fa con azioni (slide 33, «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")»), e la slide 6 ricorda che «il Γ di un'azione è 0»: le azioni spostano il Delta e non il Gamma (deduzione). Per lo stesso motivo il Gamma si neutralizza solo con un'altra opzione (slide 7).
+**D:** Perché, per il docente della lezione 20, la ricomposizione finale verso la $\Delta$ neutralità non disfa la $\Gamma$ neutralità?
+**R:** Perché «il gamma esprime una derivata di ordine secondo»: l'ulteriore ricomposizione verso la delta neutralità «ovviamente conserverà anche gamma neutralità» (transcript [00:02:36]). La ricomposizione si fa con azioni (slide 33, «Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B")»), e la slide 6 ricorda che «il $\Gamma$ di un'azione è 0»: le azioni spostano il Delta e non il Gamma (deduzione). Per lo stesso motivo il Gamma si neutralizza solo con un'altra opzione (slide 7).
 
-**D:** ⚠️ Perché la logica iterativa della lezione 20 è corretta, e che cosa serve per rendere Γ neutrale il portafoglio (slide 6–7)?
-**R:** Slide 6–7: «… questa logica è corretta perchè il Γ di un'azione è 0» (sic) → «… al fine di rendere il nostro portafoglio Γ neutrale …» → «… è necessario trovare un'altra opzione». Il docente: «il gamma di un'azione è zero e quindi il nostro portafoglio per essere gamma neutrale necessita purtroppo di un'altra opzione» (transcript [00:03:06]); il gamma di un'azione è zero «perché è la derivata seconda», e quindi «io devo trovare un'altra opzione» ([00:03:40]). ⚠️ È il **Delta** di un'azione a valere 1 (lezione 18, slide 13); il suo **Gamma** è 0, e con le sole azioni il Gamma non si muove.
-**Opzione:** Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+**D:** ⚠️ Perché la logica iterativa della lezione 20 è corretta, e che cosa serve per rendere $\Gamma$ neutrale il portafoglio (slide 6–7)?
+**R:** Slide 6–7: «… questa logica è corretta perchè il $\Gamma$ di un'azione è 0» (sic) → «… al fine di rendere il nostro portafoglio $\Gamma$ neutrale …» → «… è necessario trovare un'altra opzione». Il docente: «il gamma di un'azione è zero e quindi il nostro portafoglio per essere gamma neutrale necessita purtroppo di un'altra opzione» (transcript [00:03:06]); il gamma di un'azione è zero «perché è la derivata seconda», e quindi «io devo trovare un'altra opzione» ([00:03:40]). ⚠️ È il **Delta** di un'azione a valere 1 (lezione 18, slide 13); il suo **Gamma** è 0, e con le sole azioni il Gamma non si muove.
+**Opzione:** Perché il $\Gamma$ di un'azione è 0: al fine di rendere il portafoglio $\Gamma$ neutrale è necessario trovare un'altra opzione
 **Distrattori:**
-- Perché il Γ di un'azione è 1: al fine di rendere il portafoglio Γ neutrale basta compravendere altre azioni
+- Perché il $\Gamma$ di un'azione è 1: al fine di rendere il portafoglio $\Gamma$ neutrale basta compravendere altre azioni
 - Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
-- Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+- Al time step 19 le azioni shortate per il Delta di $B$ sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
 
-**D:** ⚠️ Che tipo di opzione serve per rendere Γ neutrale il portafoglio, secondo le slide 8–9 della lezione 20?
-**R:** Slide 8–9: «… che tipo di opzione?» → «… un'opzione che abbia un Γ simile a quello delle opzioni vendute» → «… e che non causi troppe "deformazioni" al delta delle opzioni vendute». Il docente: «io dovrei cercare un'opzione che abbia dal punto di vista grafico un gamma simile a quello delle opzioni vendute, perché questo mi consente di avere una gestione finanziaria più efficiente», e che «non creerà troppe deformazioni al delta delle opzioni vendute» (transcript [00:04:09]–[00:04:49]). Il Δ–Γ hedging riduce i costi di hedging e di unwinding solo «a condizione che … quest'opzione non mi generi più perturbazioni nella gestione del rischio del portafoglio originario» ([00:04:49]–[00:05:18]). ⚠️ Γ simile, Δ non deformato: non il contrario.
-**Opzione:** Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+**D:** ⚠️ Che tipo di opzione serve per rendere $\Gamma$ neutrale il portafoglio, secondo le slide 8–9 della lezione 20?
+**R:** Slide 8–9: «… che tipo di opzione?» → «… un'opzione che abbia un $\Gamma$ simile a quello delle opzioni vendute» → «… e che non causi troppe "deformazioni" al delta delle opzioni vendute». Il docente: «io dovrei cercare un'opzione che abbia dal punto di vista grafico un gamma simile a quello delle opzioni vendute, perché questo mi consente di avere una gestione finanziaria più efficiente», e che «non creerà troppe deformazioni al delta delle opzioni vendute» (transcript [00:04:09]–[00:04:49]). Il $\Delta$–$\Gamma$ hedging riduce i costi di hedging e di unwinding solo «a condizione che … quest'opzione non mi generi più perturbazioni nella gestione del rischio del portafoglio originario» ([00:04:49]–[00:05:18]). ⚠️ $\Gamma$ simile, $\Delta$ non deformato: non il contrario.
+**Opzione:** Un'opzione che abbia un $\Gamma$ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
 **Distrattori:**
-- Un'opzione che abbia un Δ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al gamma delle opzioni vendute
-- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+- Un'opzione che abbia un $\Delta$ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al gamma delle opzioni vendute
+- Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di $B$
 - Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
 
-**D:** ⚠️ Che cosa ci si aspetta intuitivamente dal Δ–Γ hedging, secondo il docente della lezione 20?
-**R:** «Che il delta gamma hedging abbia una sua capacità di approssimazione migliore e quindi approssimando meglio il valore dell'opzione è chiaro che riterremmo che sia anche migliore e inferiore il costo delle coperture di questo portafoglio di replica e quindi i valori dell'unwinding della posizione» (transcript [00:01:03]–[00:01:34]); è un'intuizione che «dovrebbe trovare riscontro in una simulazione numerica». ⚠️ Kurpiel & Roncalli (1998) la ridimensionano (deduzione dal confronto con la slide 28): su orizzonti di 5, 1, ½ giorni il Δ–Γ hedging «non fornisce vantaggi sostanziali rispetto al solo Δ hedging».
+**D:** ⚠️ Che cosa ci si aspetta intuitivamente dal $\Delta$–$\Gamma$ hedging, secondo il docente della lezione 20?
+**R:** «Che il delta gamma hedging abbia una sua capacità di approssimazione migliore e quindi approssimando meglio il valore dell'opzione è chiaro che riterremmo che sia anche migliore e inferiore il costo delle coperture di questo portafoglio di replica e quindi i valori dell'unwinding della posizione» (transcript [00:01:03]–[00:01:34]); è un'intuizione che «dovrebbe trovare riscontro in una simulazione numerica». ⚠️ Kurpiel & Roncalli (1998) la ridimensionano (deduzione dal confronto con la slide 28): su orizzonti di 5, 1, ½ giorni il $\Delta$–$\Gamma$ hedging «non fornisce vantaggi sostanziali rispetto al solo $\Delta$ hedging».
 **Opzione:** Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
 **Distrattori:**
 - Una capacità di approssimazione migliore del valore dell'opzione, ma un costo superiore delle coperture e dei valori dell'unwinding della posizione
 - Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
-- 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
+- 68 azioni, contro le 564 del solo $\Delta$ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di $B$
 
-**D:** ⚠️ Quali sono le tre «riflessioni» sul Γ con cui la lezione 20 risponde alla domanda «che tipo di opzione?» (slide 10–16)?
-**R:** Slide 16, in tre colonne: «**Le opzioni ATM hanno il Γ più alto**» (slide 10, con il grafico del Γ al variare di S e σ nella slide 11); «**Il Γ di un'opzione decresce naturalmente al passare del tempo**» (slide 12, con il grafico al variare di T nella slide 13); «**Il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo**» (slide 14, con il grafico al variare di S e T nella slide 15). Il docente le riprende: «queste tre considerazioni, cioè che le opzioni at the money hanno il gamma più alto, che il gamma di un'opzione decresce naturalmente al passare del tempo e che il gamma sperimenta alcune deformazioni in relazione alla moneyness al passare del tempo» (transcript [00:07:16]). Ne segue «Si scelgono opzioni ATM ed a breve scadenza». ⚠️ Il Γ **decresce** al passare del tempo.
-**Opzione:** Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+**D:** ⚠️ Quali sono le tre «riflessioni» sul $\Gamma$ con cui la lezione 20 risponde alla domanda «che tipo di opzione?» (slide 10–16)?
+**R:** Slide 16, in tre colonne: «**Le opzioni ATM hanno il $\Gamma$ più alto**» (slide 10, con il grafico del $\Gamma$ al variare di $S$ e $\sigma$ nella slide 11); «**Il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo**» (slide 12, con il grafico al variare di $T$ nella slide 13); «**Il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo**» (slide 14, con il grafico al variare di $S$ e $T$ nella slide 15). Il docente le riprende: «queste tre considerazioni, cioè che le opzioni at the money hanno il gamma più alto, che il gamma di un'opzione decresce naturalmente al passare del tempo e che il gamma sperimenta alcune deformazioni in relazione alla moneyness al passare del tempo» (transcript [00:07:16]). Ne segue «Si scelgono opzioni ATM ed a breve scadenza». ⚠️ Il $\Gamma$ **decresce** al passare del tempo.
+**Opzione:** Le opzioni ATM hanno il $\Gamma$ più alto; il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo; il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
 **Distrattori:**
-- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione cresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
-- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
-- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+- Le opzioni ATM hanno il $\Gamma$ più alto; il $\Gamma$ di un'opzione cresce naturalmente al passare del tempo; il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+- $\Gamma_B = \Gamma_A + N\Gamma_Z$, cioè $\Gamma_B = N_W\Gamma_W + N_Z\Gamma_Z$
+- 1 vendita call ($W$), un portafoglio $\Delta$ neutrale 'A' e 1 acquisto opzione ($Z$), con $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 
-**D:** ⚠️ Come varia il Γ di un'opzione al passare del tempo, secondo la slide 12 e il docente della lezione 20, e che cosa ne segue per chi cerca contributi di Γ?
-**R:** Slide 12: «Il Γ di un'opzione decresce naturalmente al passare del tempo». Il docente: «il che vuol dire che man mano che ci avviciniamo alla time to maturity il gamma è sempre più basso. Quindi se io voglio contributi di gamma alla mia strategia di copertura prenderò prodotti che hanno una time to maturity maggiore e viceversa» (transcript [00:05:59]–[00:06:24]). Nel grafico della slide 13 (asse T con il «+» a sinistra e il «-» a destra, valori da 0,0010 a 0,0100) la curva parte da circa 0,0086, sale a circa 0,0097 e scende fino a circa 0,0056: alla fine è più bassa che all'inizio, ma non è monotona (lettura dell'immagine). ⚠️ Più tempo alla scadenza, più Γ.
-**Opzione:** Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
+**D:** ⚠️ Come varia il $\Gamma$ di un'opzione al passare del tempo, secondo la slide 12 e il docente della lezione 20, e che cosa ne segue per chi cerca contributi di $\Gamma$?
+**R:** Slide 12: «Il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo». Il docente: «il che vuol dire che man mano che ci avviciniamo alla time to maturity il gamma è sempre più basso. Quindi se io voglio contributi di gamma alla mia strategia di copertura prenderò prodotti che hanno una time to maturity maggiore e viceversa» (transcript [00:05:59]–[00:06:24]). Nel grafico della slide 13 (asse $T$ con il «+» a sinistra e il «-» a destra, valori da 0,0010 a 0,0100) la curva parte da circa 0,0086, sale a circa 0,0097 e scende fino a circa 0,0056: alla fine è più bassa che all'inizio, ma non è monotona (lettura dell'immagine). ⚠️ Più tempo alla scadenza, più $\Gamma$.
+**Opzione:** Decresce naturalmente: avvicinandosi alla scadenza il $\Gamma$ è sempre più basso, quindi per avere contributi di $\Gamma$ si prendono prodotti con time to maturity maggiore
 **Distrattori:**
-- Cresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più alto, quindi per avere contributi di Γ si prendono prodotti con time to maturity minore
-- 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+- Cresce naturalmente: avvicinandosi alla scadenza il $\Gamma$ è sempre più alto, quindi per avere contributi di $\Gamma$ si prendono prodotti con time to maturity minore
+- 496 al time step 0 e 517 al time step 1: il portafoglio $A$ era $\Delta$ neutrale, e $B$ vi aggiunge il Delta delle opzioni $Z$
 - 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
 
-**D:** ⚠️ Che cosa mostra, per il docente della lezione 20, il grafico del Γ al variare della moneyness e del tempo (slide 14–15)?
-**R:** Slide 14: «Il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo»; la slide 15 è il grafico del Γ al variare di S e di T, con l'asse fino a 0,017. Il docente: è un grafico «dove non c'è solo la moneyness ma invece della volatilità abbiamo messo il tempo»; «qui abbiamo un picco per le at the money qui addirittura il picco quando il tempo è molto molto molto molto grande tende ad andare sulla moneyness negativa», e «addirittura abbiamo una sella a seconda dell'orizzonte temporale tra il massimo a tempi molto alti e il massimo a tempi molto bassi che è at the money» (transcript [00:06:24]–[00:07:16]). Nel grafico il picco più alto, fra 0,015 e 0,017, sta circa al centro dell'asse di S, e una seconda gobba, intorno a 0,010, sta verso i valori bassi di S (lettura dell'immagine). ⚠️ At the money a tempi **bassi**, moneyness negativa a tempi **molto grandi**.
+**D:** ⚠️ Che cosa mostra, per il docente della lezione 20, il grafico del $\Gamma$ al variare della moneyness e del tempo (slide 14–15)?
+**R:** Slide 14: «Il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo»; la slide 15 è il grafico del $\Gamma$ al variare di $S$ e di $T$, con l'asse fino a 0,017. Il docente: è un grafico «dove non c'è solo la moneyness ma invece della volatilità abbiamo messo il tempo»; «qui abbiamo un picco per le at the money qui addirittura il picco quando il tempo è molto molto molto molto grande tende ad andare sulla moneyness negativa», e «addirittura abbiamo una sella a seconda dell'orizzonte temporale tra il massimo a tempi molto alti e il massimo a tempi molto bassi che è at the money» (transcript [00:06:24]–[00:07:16]). Nel grafico il picco più alto, fra 0,015 e 0,017, sta circa al centro dell'asse di $S$, e una seconda gobba, intorno a 0,010, sta verso i valori bassi di $S$ (lettura dell'immagine). ⚠️ At the money a tempi **bassi**, moneyness negativa a tempi **molto grandi**.
 **Opzione:** Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
 **Distrattori:**
 - Un picco at the money a tempi molto grandi; a tempi molto bassi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
-- Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
-- Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+- Se ne comprano 1.011: il $\Gamma$ del portafoglio $A$ è (15,70), il $\Gamma$ della II Option 0,015528736, e il $\Gamma$ II Option Tot, 15,70263, lo neutralizza
+- Al time step 19 le azioni shortate per il Delta di $B$ sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
 
-**D:** ⚠️ Quali opzioni Z si scelgono dopo le tre riflessioni della lezione 20 (slide 16), e con quali si ricompone poi il portafoglio (slide 17–18)?
-**R:** Slide 16: «**Si scelgono opzioni ATM ed a breve scadenza**». Slide 17, sotto un segno «=»: «**Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza**»; la slide 18 mette al posto del «=» il trade-off, «Costi di transazione», «Stategie di trading» (sic), «Limiti di rischio». Il docente: le tre considerazioni portano a «una considerazione importante, cioè di scegliere opzioni at the money e da breve scadenza», «un contributo governabile in termini di gamma» (transcript [00:07:16]–[00:07:43]); poi «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» ([00:08:12]), perché «dato questo trade off non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ La moneyness resta ATM; cambia la scadenza, da breve a lunga. Il test (domanda 4) chiede la ricomposizione: «ATM a lunga scadenza».
+**D:** ⚠️ Quali opzioni $Z$ si scelgono dopo le tre riflessioni della lezione 20 (slide 16), e con quali si ricompone poi il portafoglio (slide 17–18)?
+**R:** Slide 16: «**Si scelgono opzioni ATM ed a breve scadenza**». Slide 17, sotto un segno «$=$»: «**Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza**»; la slide 18 mette al posto del «$=$» il trade-off, «Costi di transazione», «Stategie di trading» (sic), «Limiti di rischio». Il docente: le tre considerazioni portano a «una considerazione importante, cioè di scegliere opzioni at the money e da breve scadenza», «un contributo governabile in termini di gamma» (transcript [00:07:16]–[00:07:43]); poi «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» ([00:08:12]), perché «dato questo trade off non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ La moneyness resta ATM; cambia la scadenza, da breve a lunga. Il test (domanda 4) chiede la ricomposizione: «ATM a lunga scadenza».
 **Opzione:** Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
 **Distrattori:**
 - Dalle tre riflessioni, opzioni ATM ed a lunga scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a breve scadenza
-- N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
-- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+- $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$, da $0 = N_W\Gamma_W + N_Z\Gamma_Z$
+- Portafoglio $B$ = Portafoglio $A + N \ast Z$, quindi $\Delta_B = \Delta_A + N\Delta_Z = N\Delta_Z$
 
-**D:** ⚠️ Quali sono le tre voci del trade-off della slide 18 della lezione 20, nella scelta delle opzioni Z?
+**D:** ⚠️ Quali sono le tre voci del trade-off della slide 18 della lezione 20, nella scelta delle opzioni $Z$?
 **R:** Slide 18, fra «Si scelgono opzioni ATM ed a breve scadenza» e «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza»: «Trade-off: •Costi di transazione •Stategie di trading •Limiti di rischio» (sic, «Stategie»). Il docente: «Il trade-off di opzioni at the money a breve scadenza sono sempre, ricordiamo, costi di transazione, le strategie di trading, i limiti di rischio, perché non è che un operatore in un desk di una banca è libero di fare come gli pare» (transcript [00:08:32]). ⚠️ L'elenco è chiuso: tre voci, e l'ultima sono i limiti di rischio.
 **Opzione:** Costi di transazione, Stategie di trading, Limiti di rischio
 **Distrattori:**
 - Costi di transazione, Stategie di trading, Costi di unwinding
-- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+- Per la convessità dell'opzione $Z$: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
 - Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
 
-**D:** ⚠️ Dato il trade-off della lezione 20, a che cosa si rinuncia nella scelta delle opzioni Z, per il docente?
+**D:** ⚠️ Dato il trade-off della lezione 20, a che cosa si rinuncia nella scelta delle opzioni $Z$, per il docente?
 **R:** «Ma allora se c'è questo problema è chiaro che dato questo trade off non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza e quindi allunghiamo un pochino la scadenza magari rendendola anche compatibile con le caratteristiche del nostro portafoglio» (transcript [00:09:17]–[00:09:39]). È il passaggio dalla slide 16, «Si scelgono opzioni ATM ed a breve scadenza», alla slide 17–18, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza». ⚠️ Si tiene l'ATM e si lascia la breve scadenza.
 **Opzione:** Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
 **Distrattori:**
 - Non alla breve scadenza ma all'at the money: si sposta un pochino lo strike, magari rendendolo compatibile con le caratteristiche del portafoglio
-- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+- Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di $B$
 - Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
 
 **D:** ⚠️ Con quale esempio illustra il docente della lezione 20 i limiti di rischio dei desk degli intermediari finanziari?
@@ -6435,178 +6624,178 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Non più di 200.000 euro delta sulle azioni italiane, non più di 100.000 euro gamma sulle opzioni americane
 - Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
-- Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+- Il portafoglio $B$ non è $\Delta$ neutrale, $\Delta_B = N\Delta_Z$: lo si ribilancia per ottenere $\Delta_C = 0$
 
-**D:** ⚠️ Come si imposta il Δ–Γ hedging «attraverso le formule» al tempo T=0 nella slide 19 della lezione 20, e quanto valgono Delta e Gamma del portafoglio A?
-**R:** Slide 19: «Tempo T=0 — 1 vendita call (W) — Si definisca un portafoglio Δ neutrale 'A' — 1 acquisto opzione (Z)», con **Δ_A = 0** e **Γ_A = N ∗ Γ_W**. Il docente: «vendo una call che chiameremo W, definiamo un portafoglio delta neutrale A e acquistiamo un'opzione che chiameremo Z. Allora, il nostro portafoglio A ha un delta di A uguale 0 e abbiamo un gamma di A che è N per il gamma di W» (transcript [00:09:45]–[00:10:16]). ⚠️ A è Δ neutrale ma **non** Γ neutrale: il suo Gamma è quello delle opzioni vendute, perché le azioni hanno Γ = 0 (slide 6). Nella slide 19 la N senza pedice è il numero di opzioni W; dalla slide 22 diventa N_W.
-**Opzione:** 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+**D:** ⚠️ Come si imposta il $\Delta$–$\Gamma$ hedging «attraverso le formule» al tempo $T=0$ nella slide 19 della lezione 20, e quanto valgono Delta e Gamma del portafoglio $A$?
+**R:** Slide 19: «Tempo $T=0$ — 1 vendita call ($W$) — Si definisca un portafoglio $\Delta$ neutrale 'A' — 1 acquisto opzione ($Z$)», con **$\Delta_A = 0$** e **$\Gamma_A = N \ast \Gamma_W$**. Il docente: «vendo una call che chiameremo W, definiamo un portafoglio delta neutrale A e acquistiamo un'opzione che chiameremo Z. Allora, il nostro portafoglio A ha un delta di A uguale 0 e abbiamo un gamma di A che è N per il gamma di W» (transcript [00:09:45]–[00:10:16]). ⚠️ $A$ è $\Delta$ neutrale ma **non** $\Gamma$ neutrale: il suo Gamma è quello delle opzioni vendute, perché le azioni hanno $\Gamma = 0$ (slide 6). Nella slide 19 la $N$ senza pedice è il numero di opzioni $W$; dalla slide 22 diventa $N_W$.
+**Opzione:** 1 vendita call ($W$), un portafoglio $\Delta$ neutrale 'A' e 1 acquisto opzione ($Z$), con $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 **Distrattori:**
-- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = 0
+- 1 vendita call ($W$), un portafoglio $\Delta$ neutrale 'A' e 1 acquisto opzione ($Z$), con $\Delta_A = 0$ e $\Gamma_A = 0$
 - Costi di transazione, Stategie di trading, Limiti di rischio
 - Non più di 100.000 euro delta sulle azioni italiane, non più di 200.000 euro gamma sulle opzioni americane
 
-**D:** ⚠️ Come è definito il portafoglio B nella lezione 20, e quanto vale il suo Delta (slide 20–21)?
-**R:** Slide 20: «Tempo T=0 — Portafoglio B = Portafoglio A + N ∗ Z — … cosa accade alle Greche di B?». Slide 21: **Δ_B = Δ_A + NΔ_Z** ⇓ **Δ_B = NΔ_Z**. Il docente: «avremo anche un portafoglio B che non è altro che il portafoglio A più N per le Z opzioni»; «il delta di B è uguale al delta di A più N per il delta di Z e il delta di B quindi non è altro che N per il delta di Z» (transcript [00:10:16]–[00:10:47]). Il passaggio usa Δ_A = 0 (slide 19). ⚠️ B **non** è Δ neutrale: le opzioni Z portano il loro Delta (slide 26).
-**Opzione:** Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+**D:** ⚠️ Come è definito il portafoglio $B$ nella lezione 20, e quanto vale il suo Delta (slide 20–21)?
+**R:** Slide 20: «Tempo $T=0$ — Portafoglio $B$ = Portafoglio $A + N \ast Z$ — … cosa accade alle Greche di $B$?». Slide 21: **$\Delta_B = \Delta_A + N\Delta_Z$** ⇓ **$\Delta_B = N\Delta_Z$**. Il docente: «avremo anche un portafoglio B che non è altro che il portafoglio A più N per le Z opzioni»; «il delta di B è uguale al delta di A più N per il delta di Z e il delta di B quindi non è altro che N per il delta di Z» (transcript [00:10:16]–[00:10:47]). Il passaggio usa $\Delta_A = 0$ (slide 19). ⚠️ $B$ **non** è $\Delta$ neutrale: le opzioni $Z$ portano il loro Delta (slide 26).
+**Opzione:** Portafoglio $B$ = Portafoglio $A + N \ast Z$, quindi $\Delta_B = \Delta_A + N\Delta_Z = N\Delta_Z$
 **Distrattori:**
-- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = 0
+- Portafoglio $B$ = Portafoglio $A + N \ast Z$, quindi $\Delta_B = \Delta_A + N\Delta_Z = 0$
 - Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
 - Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
 
-**D:** ⚠️ Quanto vale il Gamma del portafoglio B nella slide 22 della lezione 20?
-**R:** Slide 22: **Γ_B = Γ_A + NΓ_Z** ⇓ **Γ_B = N_WΓ_W + N_ZΓ_Z**. Il docente: «Il gamma di B non è altro che il gamma di A più N per il gamma di Z che diventa nient'altro che N di W per il gamma di W più N di Z per il gamma di Z» (transcript [00:10:47]–[00:11:07]). Γ_A = N ∗ Γ_W (slide 19) diventa N_WΓ_W, e la N davanti a Γ_Z diventa N_Z. ⚠️ Ogni N va con il Gamma della propria opzione: N_W con Γ_W, N_Z con Γ_Z.
-**Opzione:** Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
+**D:** ⚠️ Quanto vale il Gamma del portafoglio $B$ nella slide 22 della lezione 20?
+**R:** Slide 22: **$\Gamma_B = \Gamma_A + N\Gamma_Z$** ⇓ **$\Gamma_B = N_W\Gamma_W + N_Z\Gamma_Z$**. Il docente: «Il gamma di B non è altro che il gamma di A più N per il gamma di Z che diventa nient'altro che N di W per il gamma di W più N di Z per il gamma di Z» (transcript [00:10:47]–[00:11:07]). $\Gamma_A = N \ast \Gamma_W$ (slide 19) diventa $N_W\Gamma_W$, e la $N$ davanti a $\Gamma_Z$ diventa $N_Z$. ⚠️ Ogni $N$ va con il Gamma della propria opzione: $N_W$ con $\Gamma_W$, $N_Z$ con $\Gamma_Z$.
+**Opzione:** $\Gamma_B = \Gamma_A + N\Gamma_Z$, cioè $\Gamma_B = N_W\Gamma_W + N_Z\Gamma_Z$
 **Distrattori:**
-- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_ZΓ_W + N_WΓ_Z
-- Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
+- $\Gamma_B = \Gamma_A + N\Gamma_Z$, cioè $\Gamma_B = N_Z\Gamma_W + N_W\Gamma_Z$
+- Decresce naturalmente: avvicinandosi alla scadenza il $\Gamma$ è sempre più basso, quindi per avere contributi di $\Gamma$ si prendono prodotti con time to maturity maggiore
 - Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
 
-**D:** ⚠️ Quante opzioni Z si devono acquistare per ottenere un portafoglio Γ neutrale, secondo le slide 23–25 della lezione 20?
-**R:** Slide 23–24: «… al fine di ottenere Γ_B = 0», da Γ_B = N_WΓ_W + N_ZΓ_Z segue 0 = N_WΓ_W + N_ZΓ_Z, e quindi **N_Z = -N_W · Γ_W/Γ_Z**. Slide 25: «… al fine di ottenere un portafoglio Γ neutrale» ⇓ «Si devono acquistare N_Z = -N_W · Γ_W/Γ_Z opzioni Z». Il docente: «Dobbiamo uguagliare a zero la moltiplicazione di N di W per gamma di W più N di Z per gamma di Z. Quindi risolvere per N di Z» (transcript [00:11:14]–[00:11:23]). ⚠️ Al numeratore il Gamma delle opzioni **vendute**, Γ_W, al denominatore quello delle opzioni **comprate**, Γ_Z. Nel foglio della slide 32 si comprano 1.011 opzioni Z, cioè 15,70263/0,015528736. 🚨 La chiave del test (domanda 1) capovolge il rapporto: «NZ = - NW GZ/GW».
-**Opzione:** N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
+**D:** ⚠️ Quante opzioni $Z$ si devono acquistare per ottenere un portafoglio $\Gamma$ neutrale, secondo le slide 23–25 della lezione 20?
+**R:** Slide 23–24: «… al fine di ottenere $\Gamma_B = 0$», da $\Gamma_B = N_W\Gamma_W + N_Z\Gamma_Z$ segue $0 = N_W\Gamma_W + N_Z\Gamma_Z$, e quindi **$N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$**. Slide 25: «… al fine di ottenere un portafoglio $\Gamma$ neutrale» ⇓ «Si devono acquistare $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$ opzioni $Z$». Il docente: «Dobbiamo uguagliare a zero la moltiplicazione di N di W per gamma di W più N di Z per gamma di Z. Quindi risolvere per N di Z» (transcript [00:11:14]–[00:11:23]). ⚠️ Al numeratore il Gamma delle opzioni **vendute**, $\Gamma_W$, al denominatore quello delle opzioni **comprate**, $\Gamma_Z$. Nel foglio della slide 32 si comprano 1.011 opzioni $Z$, cioè $15{,}70263/0{,}015528736$. 🚨 La chiave del test (domanda 1) capovolge il rapporto: «NZ = - NW GZ/GW».
+**Opzione:** $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$, da $0 = N_W\Gamma_W + N_Z\Gamma_Z$
 **Distrattori:**
-- N_Z = -N_W · Γ_Z/Γ_W, da 0 = N_WΓ_W + N_ZΓ_Z
-- Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
+- $N_Z = -N_W \cdot \frac{\Gamma_Z}{\Gamma_W}$, da $0 = N_W\Gamma_W + N_Z\Gamma_Z$
+- Una logica iterativa: Portafoglio $\Delta$ Neutrale, poi Portafoglio $\Gamma$ Neutrale, poi Ricomposizione verso la $\Delta$ Neutralità, e da capo
 - Non più di 100.000 euro delta sulle azioni italiane, non più di 200.000 euro gamma sulle opzioni americane
 
-**D:** ⚠️ Perché nella lezione 20 la procedura non finisce con il portafoglio B, e quale risultato si cerca con il ribilanciamento (slide 26–27)?
-**R:** Slide 26–27: «… ma la procedura non finisce quì» (sic) ⇓ «Il nuovo portafoglio B non è Δ neutrale: **Δ_B = NΔ_Z**» ⇓ «Ribilanciamo il portafoglio al fine di ottenere il risultato: **Δ_C = 0**». Il docente: «il nuovo portafoglio B non è delta neutrale perché il delta di B sarà uguale a N per il delta di Z e quindi noi dobbiamo fare un ulteriore ribilanciamento con un portafoglio C tale che il delta di C sia uguale a 0» (transcript [00:12:00]). Nell'esempio il ribilanciamento si fa con azioni: «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")» (slide 33). ⚠️ B è Γ neutrale ma non Δ neutrale; C è tutte e due.
-**Opzione:** Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+**D:** ⚠️ Perché nella lezione 20 la procedura non finisce con il portafoglio $B$, e quale risultato si cerca con il ribilanciamento (slide 26–27)?
+**R:** Slide 26–27: «… ma la procedura non finisce quì» (sic) ⇓ «Il nuovo portafoglio $B$ non è $\Delta$ neutrale: **$\Delta_B = N\Delta_Z$**» ⇓ «Ribilanciamo il portafoglio al fine di ottenere il risultato: **$\Delta_C = 0$**». Il docente: «il nuovo portafoglio B non è delta neutrale perché il delta di B sarà uguale a N per il delta di Z e quindi noi dobbiamo fare un ulteriore ribilanciamento con un portafoglio C tale che il delta di C sia uguale a 0» (transcript [00:12:00]). Nell'esempio il ribilanciamento si fa con azioni: «Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B")» (slide 33). ⚠️ $B$ è $\Gamma$ neutrale ma non $\Delta$ neutrale; $C$ è tutte e due.
+**Opzione:** Il portafoglio $B$ non è $\Delta$ neutrale, $\Delta_B = N\Delta_Z$: lo si ribilancia per ottenere $\Delta_C = 0$
 **Distrattori:**
-- Il portafoglio B non è Γ neutrale, Γ_B = NΓ_Z: lo si ribilancia con un'altra opzione per ottenere Γ_C = 0
+- Il portafoglio $B$ non è $\Gamma$ neutrale, $\Gamma_B = N\Gamma_Z$: lo si ribilancia con un'altra opzione per ottenere $\Gamma_C = 0$
 - Costi di transazione, Stategie di trading, Limiti di rischio
-- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+- Le opzioni ATM hanno il $\Gamma$ più alto; il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo; il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
 
 **D:** ⚠️ Chi sono gli autori, qual è l'anno e quali gli orizzonti temporali dello studio empirico citato nella slide 28 della lezione 20?
-**R:** Slide 28: «**Kurpiel & Roncalli (1998)** — Δ– Γ hedging effettuato su orizzonti temporali di **5, 1, ½ giorni** non fornisce vantaggi sostanziali rispetto al solo Δ hedging». Il docente: «un paper di Kurpiel e Roncalli del 1998», sul Δ–Γ hedging «effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading» (transcript [00:12:24]–[00:12:40]). ⚠️ Cinque giorni, un giorno, mezza giornata: gli orizzonti di 20 e 10 giorni dei distrattori del test (domanda 3) non sono nei materiali.
+**R:** Slide 28: «**Kurpiel & Roncalli (1998)** — $\Delta$– $\Gamma$ hedging effettuato su orizzonti temporali di **5, 1, ½ giorni** non fornisce vantaggi sostanziali rispetto al solo $\Delta$ hedging». Il docente: «un paper di Kurpiel e Roncalli del 1998», sul $\Delta$–$\Gamma$ hedging «effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading» (transcript [00:12:24]–[00:12:40]). ⚠️ Cinque giorni, un giorno, mezza giornata: gli orizzonti di 20 e 10 giorni dei distrattori del test (domanda 3) non sono nei materiali.
 **Opzione:** Kurpiel & Roncalli (1998), su orizzonti temporali di 5, 1, ½ giorni
 **Distrattori:**
 - Kurpiel & Roncalli (1998), su orizzonti temporali di 20, 10 giorni
-- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+- Per la convessità dell'opzione $Z$: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
 - Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
 
-**D:** ⚠️ Quale call Z si acquista nell'esempio della lezione 20, e fino a quando la si detiene (slide 29–30)?
-**R:** Slide 29: «Tempo T=0 — Si definisce un portafoglio Δ neutrale 'A' — Si acquista una call (Z) con **T_Z > T_W**, **K_Z > K_W**». Slide 30: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è IN – the money». Il docente: «compriamo una call Z che ha … una time to maturity maggiore della call W e con uno strike … per l'opzione Z leggermente più grande dello strike della nostra opzione originaria W. Ora così deterremo l'opzione Z fino alla scadenza, perché poi la dismettiamo» (transcript [00:13:17]–[00:13:45]). La scadenza è quella di W: nella slide 34 le ultime 539 opzioni Z si vendono al time step 20. ⚠️ Scadenza **più lunga** e strike **più alto** di W.
-**Opzione:** Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+**D:** ⚠️ Quale call $Z$ si acquista nell'esempio della lezione 20, e fino a quando la si detiene (slide 29–30)?
+**R:** Slide 29: «Tempo $T=0$ — Si definisce un portafoglio $\Delta$ neutrale 'A' — Si acquista una call ($Z$) con **$T_Z > T_W$**, **$K_Z > K_W$**». Slide 30: «Si detiene l'opzione 'Z' fino a scadenza — Alla scadenza l'opzione 'W' è IN – the money». Il docente: «compriamo una call Z che ha … una time to maturity maggiore della call W e con uno strike … per l'opzione Z leggermente più grande dello strike della nostra opzione originaria W. Ora così deterremo l'opzione Z fino alla scadenza, perché poi la dismettiamo» (transcript [00:13:17]–[00:13:45]). La scadenza è quella di $W$: nella slide 34 le ultime 539 opzioni $Z$ si vendono al time step 20. ⚠️ Scadenza **più lunga** e strike **più alto** di $W$.
+**Opzione:** Una call con $T_Z > T_W$ e $K_Z > K_W$, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione $W$ è in the money
 **Distrattori:**
-- Una call con T_Z > T_W e K_Z < K_W, cioè scadenza più lunga e strike più basso, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
+- Una call con $T_Z > T_W$ e $K_Z < K_W$, cioè scadenza più lunga e strike più basso, detenuta fino a scadenza; alla scadenza l'opzione $W$ è in the money
 - Un picco at the money a tempi molto bassi; a tempi molto grandi il picco tende ad andare sulla moneyness negativa, e fra i due massimi c'è una sella
 - Una capacità di approssimazione migliore del valore dell'opzione, e quindi un costo inferiore delle coperture e dei valori dell'unwinding della posizione
 
-**D:** ⚠️ Quando si esaurisce il Δ hedging del portafoglio A nell'esempio della lezione 20 (slide 31), e perché?
+**D:** ⚠️ Quando si esaurisce il $\Delta$ hedging del portafoglio $A$ nell'esempio della lezione 20 (slide 31), e perché?
 **R:** Slide 31: l'azione parte da 100,0 e, dopo 116,0 al time step 10, torna fra 92,6 e 104,7 dall'11 al 18, per chiudere a 120,1; il Delta della call al time step 16 è 0,47968815. Il docente: «la strategia di trading non si esaurisce tanto prima della scadenza. Perché? Perché l'opzione rimane at the money vicino alla scadenza e questo genera un'incertezza nella strategia di trading. Il delta non riesce a prendere una linea verso lo 0, verso l'1 decisa e netta. Addirittura al sedicesimo time step siamo ancora a 0,47%» (sic; transcript [00:17:01]–[00:17:24]); le ultime azioni si comprano «165 più 111 più 147 più 189 più 73 per arrivare alle mille azioni» ([00:17:57]). ⚠️ Nella lezione 18, con l'azione deep in the money, l'hedging si esauriva dal time step 14.
 **Opzione:** Non prima della scadenza: l'opzione resta at the money vicino alla scadenza, e al 16° time step il Delta è ancora circa 0,48
 **Distrattori:**
 - Già prima della scadenza: l'opzione va deep in the money, e già al 14° time step il Delta è circa 0,999
-- df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
-- Γ_B = Γ_A + NΓ_Z, cioè Γ_B = N_WΓ_W + N_ZΓ_Z
+- $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + o(dt)$, un'espansione della formula di Taylor del secondo ordine
+- $\Gamma_B = \Gamma_A + N\Gamma_Z$, cioè $\Gamma_B = N_W\Gamma_W + N_Z\Gamma_Z$
 
-**D:** ⚠️ Che segno ha e come si muove il Gamma del portafoglio A nel foglio della slide 32 della lezione 20?
-**R:** Slide 32, colonna «Γ portafolio = Γ I Option∗ n.az. Underlying» del blocco «Γ Portfolio "A"»: (15,70) al time step 0, poi (15,56), (16,03), …, il valore più negativo (39,46) al time step 17, (39,31), (22,82) al 19, e «-» al 20. Il docente: si applica «la formula del gamma» al portafoglio A «prima della seconda opzione»; «va da meno 15,70 a 0 quando l'operatività viene ovviamente smontata» (transcript [00:19:07]–[00:19:51]). ⚠️ È **negativo** perché le call sono vendute: le parentesi tonde segnano il meno.
+**D:** ⚠️ Che segno ha e come si muove il Gamma del portafoglio $A$ nel foglio della slide 32 della lezione 20?
+**R:** Slide 32, colonna «$\Gamma$ portafolio = $\Gamma$ I Option∗ n.az. Underlying» del blocco «$\Gamma$ Portfolio "A"»: (15,70) al time step 0, poi (15,56), (16,03), …, il valore più negativo (39,46) al time step 17, (39,31), (22,82) al 19, e «-» al 20. Il docente: si applica «la formula del gamma» al portafoglio $A$ «prima della seconda opzione»; «va da meno 15,70 a 0 quando l'operatività viene ovviamente smontata» (transcript [00:19:07]–[00:19:51]). ⚠️ È **negativo** perché le call sono vendute: le parentesi tonde segnano il meno.
 **Opzione:** Negativo: va da (15,70) al time step 0 a zero al time step 20, con il valore più negativo, (39,46), al time step 17
 **Distrattori:**
 - Positivo: va da 15,70 al time step 0 a zero al time step 20, con il valore più alto, 39,46, al time step 17
-- df ≈ ΔdS + ½ΓdS² + o(dt), un'espansione della formula di Taylor del secondo ordine
-- Le opzioni ATM hanno il Γ più alto; il Γ di un'opzione decresce naturalmente al passare del tempo; il Γ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
+- $df \approx \Delta\,dS + \frac{1}{2}\Gamma\,dS^2 + o(dt)$, un'espansione della formula di Taylor del secondo ordine
+- Le opzioni ATM hanno il $\Gamma$ più alto; il $\Gamma$ di un'opzione decresce naturalmente al passare del tempo; il $\Gamma$ sperimenta alcune deformazioni in relazione alla moneyness ed al passare del tempo
 
-**D:** ⚠️ Quali blocchi e colonne ha il foglio «Portfolio B = Portfolio A + II Option» della slide 32 della lezione 20?
-**R:** Slide 32: il blocco «Γ Portfolio "A"», con la colonna «Γ portafolio = Γ I Option∗ n.az. Underlying» (sic); il blocco «Γ Portfolio "B"», con il gruppo «II Option» (II Option value, d_1, Γ II Option) e poi n. II Option Buy, Γ II Option Tot e Γ portfolio "B"; il blocco «Δ Port. "B"», con Total Δ position. Il docente: la seconda opzione ha «un suo valore, che calcoliamo con la nostra formula di Black-Scholes», poi «il valore di d_1 che ci serve per poter calcolare il gamma della seconda opzione», poi il numero di opzioni N_Z, il gamma complessivo e il gamma del portafoglio (transcript [00:20:31]–[00:22:19]). ⚠️ Il d_1 viene prima del Γ II Option, perché serve a calcolarlo.
-**Opzione:** Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+**D:** ⚠️ Quali blocchi e colonne ha il foglio «Portfolio $B$ = Portfolio $A$ + II Option» della slide 32 della lezione 20?
+**R:** Slide 32: il blocco «$\Gamma$ Portfolio "A"», con la colonna «$\Gamma$ portafolio = $\Gamma$ I Option∗ n.az. Underlying» (sic); il blocco «$\Gamma$ Portfolio "B"», con il gruppo «II Option» (II Option value, $d_1$, $\Gamma$ II Option) e poi n. II Option Buy, $\Gamma$ II Option Tot e $\Gamma$ portfolio "B"; il blocco «$\Delta$ Port. "B"», con Total $\Delta$ position. Il docente: la seconda opzione ha «un suo valore, che calcoliamo con la nostra formula di Black-Scholes», poi «il valore di $d_1$ che ci serve per poter calcolare il gamma della seconda opzione», poi il numero di opzioni $N_Z$, il gamma complessivo e il gamma del portafoglio (transcript [00:20:31]–[00:22:19]). ⚠️ Il $d_1$ viene prima del $\Gamma$ II Option, perché serve a calcolarlo.
+**Opzione:** $\Gamma$ Portfolio "A"; II Option: II Option value, $d_1$, $\Gamma$ II Option; poi n. II Option Buy, $\Gamma$ II Option Tot, $\Gamma$ portfolio "B"; $\Delta$ Port. "B": Total $\Delta$ position
 **Distrattori:**
-- Γ Portfolio "A"; II Option: II Option value, Γ II Option, d_1; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
-- Una logica iterativa: Portafoglio Δ Neutrale, poi Portafoglio Γ Neutrale, poi Ricomposizione verso la Δ Neutralità, e da capo
-- 1 vendita call (W), un portafoglio Δ neutrale 'A' e 1 acquisto opzione (Z), con Δ_A = 0 e Γ_A = N ∗ Γ_W
+- $\Gamma$ Portfolio "A"; II Option: II Option value, $\Gamma$ II Option, $d_1$; poi n. II Option Buy, $\Gamma$ II Option Tot, $\Gamma$ portfolio "B"; $\Delta$ Port. "B": Total $\Delta$ position
+- Una logica iterativa: Portafoglio $\Delta$ Neutrale, poi Portafoglio $\Gamma$ Neutrale, poi Ricomposizione verso la $\Delta$ Neutralità, e da capo
+- 1 vendita call ($W$), un portafoglio $\Delta$ neutrale 'A' e 1 acquisto opzione ($Z$), con $\Delta_A = 0$ e $\Gamma_A = N \ast \Gamma_W$
 
-**D:** ⚠️ Quante opzioni Z si comprano al time step 0 nell'esempio della lezione 20, e da quali numeri del foglio della slide 32 si ricavano?
-**R:** Slide 32, time step 0: Γ del portafoglio A (15,70), Γ II Option 0,015528736, n. II Option Buy **1.011**, Γ II Option Tot 15,70263, Γ portfolio "B" «-». È N_Z = -N_W · Γ_W/Γ_Z (slide 25): 15,70263/0,015528736 ≈ 1.011 (deduzione dalla tabella). Il docente: «Il numero di opzioni sono quell'N_Z che abbiamo calcolato nelle slide precedenti» (transcript [00:21:26]); il gamma sulla seconda opzione «viene costruito per essere uguale al gamma del portafoglio A» ([00:21:58]), cioè uguale in valore assoluto e di segno opposto; «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step» ([00:27:45]). ⚠️ Si **comprano**: il Gamma di A è negativo, quello delle opzioni Z comprate positivo.
-**Opzione:** Se ne comprano 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
+**D:** ⚠️ Quante opzioni $Z$ si comprano al time step 0 nell'esempio della lezione 20, e da quali numeri del foglio della slide 32 si ricavano?
+**R:** Slide 32, time step 0: $\Gamma$ del portafoglio $A$ (15,70), $\Gamma$ II Option 0,015528736, n. II Option Buy **1.011**, $\Gamma$ II Option Tot 15,70263, $\Gamma$ portfolio "B" «-». È $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$ (slide 25): $15{,}70263/0{,}015528736 \approx 1.011$ (deduzione dalla tabella). Il docente: «Il numero di opzioni sono quell'$N_Z$ che abbiamo calcolato nelle slide precedenti» (transcript [00:21:26]); il gamma sulla seconda opzione «viene costruito per essere uguale al gamma del portafoglio A» ([00:21:58]), cioè uguale in valore assoluto e di segno opposto; «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step» ([00:27:45]). ⚠️ Si **comprano**: il Gamma di $A$ è negativo, quello delle opzioni $Z$ comprate positivo.
+**Opzione:** Se ne comprano 1.011: il $\Gamma$ del portafoglio $A$ è (15,70), il $\Gamma$ della II Option 0,015528736, e il $\Gamma$ II Option Tot, 15,70263, lo neutralizza
 **Distrattori:**
-- Se ne vendono 1.011: il Γ del portafoglio A è (15,70), il Γ della II Option 0,015528736, e il Γ II Option Tot, 15,70263, lo neutralizza
-- Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+- Se ne vendono 1.011: il $\Gamma$ del portafoglio $A$ è (15,70), il $\Gamma$ della II Option 0,015528736, e il $\Gamma$ II Option Tot, 15,70263, lo neutralizza
+- Perché il $\Gamma$ di un'azione è 0: al fine di rendere il portafoglio $\Gamma$ neutrale è necessario trovare un'altra opzione
 - Dalle tre riflessioni, opzioni ATM ed a breve scadenza; dopo il trade-off, si ricompone il portafoglio con opzioni ATM a lunga scadenza
 
-**D:** ⚠️ Quanto vale il Delta del portafoglio B nell'esempio della lezione 20, e perché non è zero (slide 32)?
-**R:** Slide 32, colonna «Total Δ position» del blocco «Δ Port. "B"»: 496 al time step 0, 517 al 1, 514 al 2, … fino a 361 al 19. Il docente: «se andiamo a calcolare ora il delta del portafoglio B ci troviamo squadrati un'altra volta», perché «il portafoglio A era delta neutral» e B gli aggiunge le opzioni Z: «troviamo quindi questo importo 496, 517 che evolve nel tempo» (transcript [00:22:19]–[00:22:52]). È il Δ_B = NΔ_Z della slide 26. ⚠️ B è Γ neutrale (Γ portfolio "B" sempre «-»), non Δ neutrale.
-**Opzione:** 496 al time step 0 e 517 al time step 1: il portafoglio A era Δ neutrale, e B vi aggiunge il Delta delle opzioni Z
+**D:** ⚠️ Quanto vale il Delta del portafoglio $B$ nell'esempio della lezione 20, e perché non è zero (slide 32)?
+**R:** Slide 32, colonna «Total $\Delta$ position» del blocco «$\Delta$ Port. "B"»: 496 al time step 0, 517 al 1, 514 al 2, … fino a 361 al 19. Il docente: «se andiamo a calcolare ora il delta del portafoglio B ci troviamo squadrati un'altra volta», perché «il portafoglio A era delta neutral» e $B$ gli aggiunge le opzioni $Z$: «troviamo quindi questo importo 496, 517 che evolve nel tempo» (transcript [00:22:19]–[00:22:52]). È il $\Delta_B = N\Delta_Z$ della slide 26. ⚠️ $B$ è $\Gamma$ neutrale ($\Gamma$ portfolio "B" sempre «-»), non $\Delta$ neutrale.
+**Opzione:** 496 al time step 0 e 517 al time step 1: il portafoglio $A$ era $\Delta$ neutrale, e $B$ vi aggiunge il Delta delle opzioni $Z$
 **Distrattori:**
-- Zero a ogni time step: il portafoglio A era Δ neutrale, e B vi aggiunge soltanto il Gamma delle opzioni Z
-- Perché il Γ di un'azione è 0: al fine di rendere il portafoglio Γ neutrale è necessario trovare un'altra opzione
+- Zero a ogni time step: il portafoglio $A$ era $\Delta$ neutrale, e $B$ vi aggiunge soltanto il Gamma delle opzioni $Z$
+- Perché il $\Gamma$ di un'azione è 0: al fine di rendere il portafoglio $\Gamma$ neutrale è necessario trovare un'altra opzione
 - Non all'at the money ma alla breve scadenza: si allunga un pochino la scadenza, magari rendendola compatibile con le caratteristiche del portafoglio
 
-**D:** ⚠️ Come si costruisce il portafoglio C nella slide 33 della lezione 20, e che cosa si fa con le azioni al time step 0?
-**R:** Slide 33: «Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B")». Al time step 0 il Delta di B è 496, e Stock to Buy/(Sell), Warehouse e Δ Stock Posit. valgono (496); il Total Δ position di C è «-». Il docente: le azioni da compravendere sono «nient'altro che l'esposizione sul delta del portafoglio B, quindi se io ho un delta positivo sul portafoglio B di 496 azioni io dovrò sostanzialmente prendere una posizione negativa per 496 azioni, se poi diventa 517 per 21, se diventa 514 dovrò prenderne 3» (transcript [00:23:28]–[00:23:55]). ⚠️ Una posizione **negativa**: azioni vendute allo scoperto, con il magazzino fra parentesi.
-**Opzione:** Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di B
+**D:** ⚠️ Come si costruisce il portafoglio $C$ nella slide 33 della lezione 20, e che cosa si fa con le azioni al time step 0?
+**R:** Slide 33: «Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B")». Al time step 0 il Delta di $B$ è 496, e Stock to Buy/(Sell), Warehouse e $\Delta$ Stock Posit. valgono (496); il Total $\Delta$ position di $C$ è «-». Il docente: le azioni da compravendere sono «nient'altro che l'esposizione sul delta del portafoglio B, quindi se io ho un delta positivo sul portafoglio B di 496 azioni io dovrò sostanzialmente prendere una posizione negativa per 496 azioni, se poi diventa 517 per 21, se diventa 514 dovrò prenderne 3» (transcript [00:23:28]–[00:23:55]). ⚠️ Una posizione **negativa**: azioni vendute allo scoperto, con il magazzino fra parentesi.
+**Opzione:** Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B"): al time step 0 si prende una posizione negativa di 496 azioni, pari al Delta di $B$
 **Distrattori:**
-- Portafoglio "C"= Port. "B"+ azioni f(Δ hedge di "B"): al time step 0 si comprano 496 azioni, pari al Delta di B
-- Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
-- N_Z = -N_W · Γ_W/Γ_Z, da 0 = N_WΓ_W + N_ZΓ_Z
+- Portafoglio "C"= Port. "B"+ azioni f($\Delta$ hedge di "B"): al time step 0 si comprano 496 azioni, pari al Delta di $B$
+- Un'opzione che abbia un $\Gamma$ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+- $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$, da $0 = N_W\Gamma_W + N_Z\Gamma_Z$
 
-**D:** ⚠️ Come si chiudono le azioni del portafoglio C nella slide 33 della lezione 20, agli ultimi due time step?
-**R:** Slide 33: al time step 19 il Delta di B è 361, e Stock to Buy/(Sell) vale 154, Warehouse (361); al time step 20 il Delta di B è «-», si comprano **361** azioni e il magazzino torna a «-». Il docente: «alla fine il delta position è 361 all'ultimo time step positivo e quindi io dovrò sostanzialmente disfarmi di queste 361 azioni per neutralizzare il magazzino che intanto si è andato a cumulare di 361 azioni shortate» (transcript [00:23:55]–[00:24:21]). ⚠️ 361 è il Delta di B al time step **19**, l'ultimo con un valore; al 20 lo short si chiude **comprando**.
-**Opzione:** Al time step 19 le azioni shortate per il Delta di B sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
+**D:** ⚠️ Come si chiudono le azioni del portafoglio $C$ nella slide 33 della lezione 20, agli ultimi due time step?
+**R:** Slide 33: al time step 19 il Delta di $B$ è 361, e Stock to Buy/(Sell) vale 154, Warehouse (361); al time step 20 il Delta di $B$ è «-», si comprano **361** azioni e il magazzino torna a «-». Il docente: «alla fine il delta position è 361 all'ultimo time step positivo e quindi io dovrò sostanzialmente disfarmi di queste 361 azioni per neutralizzare il magazzino che intanto si è andato a cumulare di 361 azioni shortate» (transcript [00:23:55]–[00:24:21]). ⚠️ 361 è il Delta di $B$ al time step **19**, l'ultimo con un valore; al 20 lo short si chiude **comprando**.
+**Opzione:** Al time step 19 le azioni shortate per il Delta di $B$ sono 361; al time step 20 se ne comprano 361 e il loro magazzino torna a zero
 **Distrattori:**
-- Al time step 19 le azioni comprate per il Delta di B sono 361; al time step 20 se ne vendono 361 e il loro magazzino torna a zero
-- Un'opzione che abbia un Γ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
-- Portafoglio B = Portafoglio A + N ∗ Z, quindi Δ_B = Δ_A + NΔ_Z = NΔ_Z
+- Al time step 19 le azioni comprate per il Delta di $B$ sono 361; al time step 20 se ne vendono 361 e il loro magazzino torna a zero
+- Un'opzione che abbia un $\Gamma$ simile a quello delle opzioni vendute, e che non causi troppe deformazioni al delta delle opzioni vendute
+- Portafoglio $B$ = Portafoglio $A + N \ast Z$, quindi $\Delta_B = \Delta_A + N\Delta_Z = N\Delta_Z$
 
-**D:** ⚠️ Quante azioni compra al time step 0 il portafoglio C del Δ–Γ hedging, rispetto al solo Δ hedging dello stesso esempio della lezione 20 (slide 31 e 34)?
-**R:** Slide 34, blocco «Stock»: Buy/sell **68**, Warehouse 68 al time step 0; nella slide 31 il solo Δ hedging compra **564** azioni. 68 è 564 meno le 496 azioni shortate per il Delta di B (slide 33) (deduzione dalle tabelle). Il docente: l'altra opzione «genera un minore coinvolgimento del portafoglio C complessivo in termini di azioni compravendute. Nel Delta Hedging noi avevamo un acquisto iniziale, solo perché l'opzione era at the money, di quasi 500 azioni. Qui invece noi abbiamo un magazzino che ne compra solo 68 all'inizio» (transcript [00:25:33]–[00:25:59]). ⚠️ Il «quasi 500» del docente è nella slide 31 un 564; 496 è il Delta di B.
-**Opzione:** 68 azioni, contro le 564 del solo Δ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di B
+**D:** ⚠️ Quante azioni compra al time step 0 il portafoglio $C$ del $\Delta$–$\Gamma$ hedging, rispetto al solo $\Delta$ hedging dello stesso esempio della lezione 20 (slide 31 e 34)?
+**R:** Slide 34, blocco «Stock»: Buy/sell **68**, Warehouse 68 al time step 0; nella slide 31 il solo $\Delta$ hedging compra **564** azioni. 68 è 564 meno le 496 azioni shortate per il Delta di $B$ (slide 33) (deduzione dalle tabelle). Il docente: l'altra opzione «genera un minore coinvolgimento del portafoglio C complessivo in termini di azioni compravendute. Nel Delta Hedging noi avevamo un acquisto iniziale, solo perché l'opzione era at the money, di quasi 500 azioni. Qui invece noi abbiamo un magazzino che ne compra solo 68 all'inizio» (transcript [00:25:33]–[00:25:59]). ⚠️ Il «quasi 500» del docente è nella slide 31 un 564; 496 è il Delta di $B$.
+**Opzione:** 68 azioni, contro le 564 del solo $\Delta$ hedging dello stesso esempio: 564 meno le 496 shortate per il Delta di $B$
 **Distrattori:**
-- 496 azioni, contro le 564 del solo Δ hedging dello stesso esempio: le stesse shortate per il Delta di B
-- Decresce naturalmente: avvicinandosi alla scadenza il Γ è sempre più basso, quindi per avere contributi di Γ si prendono prodotti con time to maturity maggiore
-- Il portafoglio B non è Δ neutrale, Δ_B = NΔ_Z: lo si ribilancia per ottenere Δ_C = 0
+- 496 azioni, contro le 564 del solo $\Delta$ hedging dello stesso esempio: le stesse shortate per il Delta di $B$
+- Decresce naturalmente: avvicinandosi alla scadenza il $\Gamma$ è sempre più basso, quindi per avere contributi di $\Gamma$ si prendono prodotti con time to maturity maggiore
+- Il portafoglio $B$ non è $\Delta$ neutrale, $\Delta_B = N\Delta_Z$: lo si ribilancia per ottenere $\Delta_C = 0$
 
-**D:** ⚠️ Quante opzioni Z compra il portafoglio C al primo time step, e come si muove il loro magazzino fino alla scadenza (slide 34 della lezione 20)?
-**R:** Slide 34, blocco «Option for Γ»: Buy/sell 1.011 e Warehouse 1.011 al time step 0, poi (13) e 998, 2 e **1.000** al time step 2, poi fra 826 e 1.323, 1.000 al 18 e 539 al 19; al 20 se ne vendono (539) e il magazzino è «-». La colonna «Short Opt.» resta (1.000): sono le call W vendute. Il docente: «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step e addirittura nel terzo time step mi trovo un magazzino che si è assestato per poi muoversi ma rimanere sempre in un ordine di grandezza del migliaio di opzioni» (transcript [00:27:45]–[00:28:06]). ⚠️ Le opzioni Z si **vendono** alla scadenza di W: «la dismettiamo» ([00:13:45]).
+**D:** ⚠️ Quante opzioni $Z$ compra il portafoglio $C$ al primo time step, e come si muove il loro magazzino fino alla scadenza (slide 34 della lezione 20)?
+**R:** Slide 34, blocco «Option for $\Gamma$»: Buy/sell 1.011 e Warehouse 1.011 al time step 0, poi (13) e 998, 2 e **1.000** al time step 2, poi fra 826 e 1.323, 1.000 al 18 e 539 al 19; al 20 se ne vendono (539) e il magazzino è «-». La colonna «Short Opt.» resta (1.000): sono le call $W$ vendute. Il docente: «ho dovuto comprare 1011 opzioni Z per questa operatività nel primo time step e addirittura nel terzo time step mi trovo un magazzino che si è assestato per poi muoversi ma rimanere sempre in un ordine di grandezza del migliaio di opzioni» (transcript [00:27:45]–[00:28:06]). ⚠️ Le opzioni $Z$ si **vendono** alla scadenza di $W$: «la dismettiamo» ([00:13:45]).
 **Opzione:** 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne vendono 539
 **Distrattori:**
 - 1.011 al time step 0; dal time step 2 il magazzino resta nell'ordine del migliaio, fino a 539 al 19; al 20 se ne comprano 539
-- Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
-- Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+- Una call con $T_Z > T_W$ e $K_Z > K_W$, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione $W$ è in the money
+- $\Gamma$ Portfolio "A"; II Option: II Option value, $d_1$, $\Gamma$ II Option; poi n. II Option Buy, $\Gamma$ II Option Tot, $\Gamma$ portfolio "B"; $\Delta$ Port. "B": Total $\Delta$ position
 
-**D:** ⚠️ Perché, per il docente della lezione 20, il portafoglio C compra molte meno azioni del Δ hedging tradizionale, e con quali conseguenze?
+**D:** ⚠️ Perché, per il docente della lezione 20, il portafoglio $C$ compra molte meno azioni del $\Delta$ hedging tradizionale, e con quali conseguenze?
 **R:** «La convessità dell'opzione Z che viene inserita nel portafoglio … ha un impatto notevolissimo sull'impegno finanziario di azioni»; «l'impegno finanziario delle opzioni che è assai più morigerato di quello in azioni per ottenere un delta gamma hedging, va largamente a ridimensionare l'impegno finanziario in azioni e quindi di coinvolgimento con la banca che viene determinato da un delta hedging tradizionale» (transcript [00:25:59]–[00:26:40]). Fino a sotto scadenza «è la struttura opzionale che ci copre da un coinvolgimento azionario importante, il che come vedremo a breve può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money dell'opzione» ([00:27:04]). Nella slide 34 il magazzino di azioni arriva a 1.000 solo al time step 20, dopo acquisti di 343 azioni al 19 e 434 al 20. ⚠️ Vantaggi «positivi o negativi»: non sempre positivi.
-**Opzione:** Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
+**Opzione:** Per la convessità dell'opzione $Z$: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; può avere vantaggi positivi o negativi a seconda della dinamica in o out of the money
 **Distrattori:**
-- Per la convessità dell'opzione Z: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; ha sempre vantaggi positivi, qualunque sia la dinamica in o out of the money
-- Una call con T_Z > T_W e K_Z > K_W, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione W è in the money
-- Γ Portfolio "A"; II Option: II Option value, d_1, Γ II Option; poi n. II Option Buy, Γ II Option Tot, Γ portfolio "B"; Δ Port. "B": Total Δ position
+- Per la convessità dell'opzione $Z$: l'impegno finanziario in opzioni, assai più morigerato, ridimensiona quello in azioni; ha sempre vantaggi positivi, qualunque sia la dinamica in o out of the money
+- Una call con $T_Z > T_W$ e $K_Z > K_W$, cioè scadenza più lunga e strike più alto, detenuta fino a scadenza; alla scadenza l'opzione $W$ è in the money
+- $\Gamma$ Portfolio "A"; II Option: II Option value, $d_1$, $\Gamma$ II Option; poi n. II Option Buy, $\Gamma$ II Option Tot, $\Gamma$ portfolio "B"; $\Delta$ Port. "B": Total $\Delta$ position
 
-**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione W, quale è il numero di opzioni Z da compravendere per essere delta-gamma neutrale, secondo il test della lezione 20 (domanda 1)?
-**R:** «**NZ = - NW GZ/GW**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: la chiave ha il rapporto **capovolto**. Le slide 24 e 25 scrivono N_Z = -N_W · Γ_W/Γ_Z, con al numeratore il Gamma delle opzioni vendute W e al denominatore quello delle opzioni comprate Z, da 0 = N_WΓ_W + N_ZΓ_Z (slide 23). Il foglio della slide 32 ne conferma il verso: al time step 0 il Gamma del portafoglio A è (15,70), il Gamma della II Option 0,015528736, e si comprano 1.011 opzioni Z, cioè 15,70263/0,015528736; con Γ_Z/Γ_W ne verrebbero circa 989 (deduzione). Anche il test della lezione 22, domanda 1, ha come primo termine «- NW GW/GZ», nel verso della slide. Il docente non fissa il verso: la frase di [00:11:45] è guasta nel transcript. Distrattori del test: «NZ = - NW GZ + GW» e «NZ = - NW GZ - GW» sostituiscono la divisione con una somma e una differenza, «NZ = NW GZ - GW» toglie anche il meno; nessuno è nei materiali. La A è l'unica con un rapporto di Gamma. Se la domanda torna corretta, la risposta è «NZ = - NW GW/GZ».
+**D:** ⚠️ Nel modello di BSM, per coprirsi dal rischio di vendita di un'opzione $W$, quale è il numero di opzioni $Z$ da compravendere per essere delta-gamma neutrale, secondo il test della lezione 20 (domanda 1)?
+**R:** «**NZ = - NW GZ/GW**», l'opzione da segnare, ma 🚨 la domanda è **difettosa**: la chiave ha il rapporto **capovolto**. Le slide 24 e 25 scrivono $N_Z = -N_W \cdot \frac{\Gamma_W}{\Gamma_Z}$, con al numeratore il Gamma delle opzioni vendute $W$ e al denominatore quello delle opzioni comprate $Z$, da $0 = N_W\Gamma_W + N_Z\Gamma_Z$ (slide 23). Il foglio della slide 32 ne conferma il verso: al time step 0 il Gamma del portafoglio $A$ è (15,70), il Gamma della II Option 0,015528736, e si comprano 1.011 opzioni $Z$, cioè $15{,}70263/0{,}015528736$; con $\frac{\Gamma_Z}{\Gamma_W}$ ne verrebbero circa 989 (deduzione). Anche il test della lezione 22, domanda 1, ha come primo termine «- NW GW/GZ», nel verso della slide. Il docente non fissa il verso: la frase di [00:11:45] è guasta nel transcript. Distrattori del test: «NZ = - NW GZ + GW» e «NZ = - NW GZ - GW» sostituiscono la divisione con una somma e una differenza, «NZ = NW GZ - GW» toglie anche il meno; nessuno è nei materiali. La A è l'unica con un rapporto di Gamma. Se la domanda torna corretta, la risposta è «NZ = - NW GW/GZ».
 **Opzione:** NZ = - NW GZ/GW
 **Distrattori:**
 - NZ = - NW GZ + GW
 - NZ = - NW GZ - GW
 - NZ = NW GZ - GW
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, quanto vale nel tempo il Gamma del portafoglio dopo le compravendite di opzioni Z, secondo il test della lezione 20 (domanda 2)?
-**R:** «**G=0**». La slide 23 pone l'obiettivo «… al fine di ottenere Γ_B = 0», e nei fogli la colonna «Γ portfolio "B"» (slide 32) e la colonna «Γ portfolio C» (slide 34) sono «-», cioè zero, a ogni time step. Il docente: «non stupisce che nella penultima colonna che vediamo qui il nostro gamma del portafoglio B sia stato neutralizzato» (transcript [00:22:10]); «Il delta e il gamma del portafoglio C è sempre identicamente pari a zero» ([00:28:51]). Distrattori del test, dal pool dei test delle lezioni 17–19: «G= StN'(d1) (T-t)1/2» è il Vega della call, «G= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma della call, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, cioè la (104), la (102) e la (103) della lezione 16. ⚠️ La B è proprio la formula del Gamma di una call: è il Gamma di una singola opzione, W o Z, non quello del portafoglio coperto.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione $W$, quanto vale nel tempo il Gamma del portafoglio dopo le compravendite di opzioni $Z$, secondo il test della lezione 20 (domanda 2)?
+**R:** «**G=0**». La slide 23 pone l'obiettivo «… al fine di ottenere $\Gamma_B = 0$», e nei fogli la colonna «$\Gamma$ portfolio "B"» (slide 32) e la colonna «$\Gamma$ portfolio $C$» (slide 34) sono «-», cioè zero, a ogni time step. Il docente: «non stupisce che nella penultima colonna che vediamo qui il nostro gamma del portafoglio B sia stato neutralizzato» (transcript [00:22:10]); «Il delta e il gamma del portafoglio C è sempre identicamente pari a zero» ([00:28:51]). Distrattori del test, dal pool dei test delle lezioni 17–19: «G= StN'(d1) (T-t)1/2» è il Vega della call, «G= N'(d1) ∗ 1/sSt(T-t)1/2» il Gamma della call, «G = (T-t) K e-r(T-t) N(d2)» il Rho della call, cioè la (104), la (102) e la (103) della lezione 16. ⚠️ La B è proprio la formula del Gamma di una call: è il Gamma di una singola opzione, $W$ o $Z$, non quello del portafoglio coperto.
 **Opzione:** G=0
 **Distrattori:**
 - G= StN'(d1) (T-t)1/2
 - G= N'(d1) ∗ 1/sSt(T-t)1/2
 - G = (T-t) K e-r(T-t) N(d2)
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 20 (domanda 3)?
-**R:** «**Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging**»: è alla lettera la slide 28, «Kurpiel & Roncalli (1998) — Δ– Γ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo Δ hedging». Il docente: «il delta gamma hedging effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading non fornisce vantaggi sostanziali rispetto al solo delta hedging» (transcript [00:12:40]). ⚠️ È una matrice 2×2, *orizzonte* × *esito*: la A ha l'orizzonte giusto e l'esito capovolto, la C l'esito giusto e un orizzonte sbagliato, la D sbaglia tutti e due. Gli orizzonti di 20 e 10 giorni non sono nei materiali, che non dicono nulla di orizzonti più lunghi.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione $W$, che cosa valutano Kurpiel e Roncalli, secondo il test della lezione 20 (domanda 3)?
+**R:** «**Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging**»: è alla lettera la slide 28, «Kurpiel & Roncalli (1998) — $\Delta$– $\Gamma$ hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo $\Delta$ hedging». Il docente: «il delta gamma hedging effettuato su orizzonti temporali di 5 un giorno e oppure addirittura nell'ambito di una mezza giornata di trading non fornisce vantaggi sostanziali rispetto al solo delta hedging» (transcript [00:12:40]). ⚠️ È una matrice 2×2, *orizzonte* × *esito*: la A ha l'orizzonte giusto e l'esito capovolto, la C l'esito giusto e un orizzonte sbagliato, la D sbaglia tutti e due. Gli orizzonti di 20 e 10 giorni non sono nei materiali, che non dicono nulla di orizzonti più lunghi.
 **Opzione:** Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
 **Distrattori:**
 - Il D - G hedging effettuato su orizzonti temporali di 5, 1, ½ giorni fornisce vantaggi sostanziali rispetto al solo D hedging
 - Il D - G hedging effettuato su orizzonti temporali di 20, 10 giorni non fornisce vantaggi sostanziali rispetto al solo D hedging
 - Il D - G hedging effettuato su orizzonti temporali di 20, 10 giorni fornisce vantaggi sostanziali rispetto al solo D hedging
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, quali opzioni Z è opportuno compravendere, secondo il test della lezione 20 (domanda 4)?
-**R:** «**ATM a lunga scadenza**»: è la slide 17–18, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», dopo il trade-off di costi di transazione, strategie di trading e limiti di rischio. Il docente: «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» (transcript [00:08:12]); «non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ Le tre riflessioni delle slide 10–16 portano prima a «Si scelgono opzioni ATM ed a breve scadenza», un'opzione che nel test non c'è; la moneyness resta ATM in entrambi i passaggi. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La C è la trappola per chi generalizza dall'esempio delle slide 29–30, dove la call Z ha K_Z > K_W e parte quindi leggermente out of the money (deduzione).
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione $W$, quali opzioni $Z$ è opportuno compravendere, secondo il test della lezione 20 (domanda 4)?
+**R:** «**ATM a lunga scadenza**»: è la slide 17–18, «Ricomponiamo il portafoglio con opzioni ATM a lunga scadenza», dopo il trade-off di costi di transazione, strategie di trading e limiti di rischio. Il docente: «ricomporremo il portafoglio con opzioni at the money, quindi a lunga scadenza» (transcript [00:08:12]); «non rinunciamo all'at the money ma magari rinunciamo alla breve scadenza» ([00:09:17]). ⚠️ Le tre riflessioni delle slide 10–16 portano prima a «Si scelgono opzioni ATM ed a breve scadenza», un'opzione che nel test non c'è; la moneyness resta ATM in entrambi i passaggi. Distrattori del test: «ITM a lunga scadenza» e «OTM a lunga scadenza» cambiano la moneyness, «OTM a breve scadenza» moneyness e scadenza. ⚠️ La C è la trappola per chi generalizza dall'esempio delle slide 29–30, dove la call $Z$ ha $K_Z > K_W$ e parte quindi leggermente out of the money (deduzione).
 **Opzione:** ATM a lunga scadenza
 **Distrattori:**
 - ITM a lunga scadenza
 - OTM a lunga scadenza
 - OTM a breve scadenza
 
-**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione W, che cosa segue la ricomposizione del portafoglio, secondo il test della lezione 20 (domanda 5)?
-**R:** «**una logica iterativa**»: è la slide 5, «Seguiamo una logica iterativa», con il ciclo Portafoglio Δ Neutrale → Portafoglio Γ Neutrale → Ricomposizione verso la Δ Neutralità. Il docente: «La logica potrebbe essere una logica iterativa» (transcript [00:02:21]); «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). Distrattori del test: «un approccio discorsivo», «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Il «logico» gioca sulla parola «logica» della slide: conta l'aggettivo, iterativa.
+**D:** ⚠️ Nel modello di BSM, con un Delta-Gamma Hedging per coprirsi dalla vendita di un'opzione $W$, che cosa segue la ricomposizione del portafoglio, secondo il test della lezione 20 (domanda 5)?
+**R:** «**una logica iterativa**»: è la slide 5, «Seguiamo una logica iterativa», con il ciclo Portafoglio $\Delta$ Neutrale → Portafoglio $\Gamma$ Neutrale → Ricomposizione verso la $\Delta$ Neutralità. Il docente: «La logica potrebbe essere una logica iterativa» (transcript [00:02:21]); «quel circuito iterativo prima delta neutrale, poi gamma neutrale, poi delta gamma neutrale» ([00:08:12]). Distrattori del test: «un approccio discorsivo», «un approccio logico» e «un approccio ontologico» non sono nei materiali. ⚠️ Il «logico» gioca sulla parola «logica» della slide: conta l'aggettivo, iterativa.
 **Opzione:** una logica iterativa
 **Distrattori:**
 - un approccio discorsivo
