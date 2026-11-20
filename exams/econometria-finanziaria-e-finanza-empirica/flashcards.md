@@ -83,6 +83,58 @@ L02/f-1se0nrz f-1yiynf6 0fftnci 0e7skzb
 L02/f-1tl879j f-0vpon91 0a9y462 0kulkw2
 L02/f-1ty1fbl f-14dosfd 1hngz6v 185ycqf
 L02/f-1yvjzsu f-07dn35q 1phujx3 1hlb4de
+L03/f-00c8equ f-0aneb20 0chmov9 0x0i7wh
+L03/f-02x8p11 f-02x8p11 1pqodtw 155oyd1
+L03/f-0fmr62l f-0fmr62l 0qw6it3 1hmj4k5
+L03/f-0mqqfia f-0mqqfia 14e1cb4 0r669ts
+L03/f-0qrccez f-0qrccez 14l6132 18wmifc
+L03/f-0ramjw0 f-0izy4r4 027tbbb 1w6oe73
+L03/f-1f2d06u f-1ai8bfv 0k221dx 12n64wv
+L03/f-1yqlr77 f-1yqlr77 12p1s7s 0uvj0vi
+L04/f-00pv9oj f-00pv9oj 0s7icwb 1rrjl11
+L04/f-0bv2yyy f-18ykaiy 08aqolp 0aphiw5
+L04/f-0fqi5dq f-0fqi5dq 11296za 1lrj276
+L04/f-0ilzgcm f-0ilzgcm 1lv6wnv 0oag7ae
+L04/f-0k53wow f-0k53wow 1ols2ag 142265a
+L04/f-0lzbd2d f-0lzbd2d 15cmhas 10krz9s
+L04/f-0srwag8 f-0srwag8 1x3tr53 112srkl
+L04/f-0vx0jzi f-0vx0jzi 1t0aek7 18yds5z
+L04/f-0wnc3yf f-0wnc3yf 1m2exju 0qyhz9l
+L04/f-0xy3qfs f-0xy3qfs 07fq1sn 0u068uf
+L04/f-0y2l7je f-0y2l7je 06w1nb8 1nf5mbl
+L04/f-0zhha1r f-0zhha1r 1xhwnjs 0k94l4m
+L04/f-12auok9 f-12auok9 0oia5oq 1k53xy8
+L04/f-12c99uc f-12c99uc 0y7hztb 0smih1r
+L04/f-130t3fd f-0h6zav5 06w0ci6 0j801o2
+L04/f-14h5ylq f-14h5ylq 1nslhyd 06bwiy9
+L04/f-1nutd4r f-1nutd4r 1v9w39s 1op9w0s
+L04/f-1ux302n f-1ux302n 1ayo6v1 1j80f1b
+L04/f-1w9122u f-1hyftzv 1tm0ho6 0q5qzow
+L04/f-1yjxdlp f-1e3ntge 12crhl5 09o7ho8
+L05/f-0b4d10h f-1o9t4pv 0uromz9 1al7q83
+L05/f-0ewjius f-0ewjius 0y2wkre 08mjs2c
+L05/f-0nar9ra f-0lbul04 1m4azu1 148d8nl
+L05/f-0o042ji f-0o042ji 1o0o675 0ive38d
+L05/f-0o91pb7 f-0o91pb7 1ak62nr 1ub0omn
+L05/f-0q9symp f-0q9symp 18h1w72 0n0jlei
+L05/f-0x38xye f-1nqj9lo 02bm99p 0uttph3
+L05/f-11gnp3l f-11gnp3l 1giwam9 1g6ofgp
+L05/f-13gh543 f-1p26l27 12cjbin 09ks065
+L05/f-13yj0w7 f-1su4u25 1jub1qw 0mfc056
+L05/f-15ubvqt f-15ubvqt 0e6evgb 0ka6a2t
+L05/f-1bd6ts4 f-1bd6ts4 1ubmmln 0d2n4sr
+L05/f-1d9zf1n f-02fy75t 1gfxskc 1wqnxcm
+L05/f-1deo5hg f-1deo5hg 0t925by 15q48x8
+L05/f-1eh2fch f-1eh2fch 04sqgwm 1m07hb6
+L05/f-1ghoqng f-1ghoqng 0kim15r 0jrpb0f
+L05/f-1lvi0r6 f-0fdwzny 05abrsl 0rapgqb
+L05/f-1mold6t f-1mold6t 1d3zurn 0ju39rz
+L05/f-1n4ic59 f-1n4ic59 0hpmc95 1u8hgch
+L05/f-1q990k1 f-1q990k1 0n7dngf 0hv12zh
+L05/f-1rqtb4b f-1rqtb4b 0xm1pbg 0tyu08y
+L05/f-1srr2vw f-1srr2vw 1j5px5s 1fjlsem
+L05/f-1sy7hdz f-1sy7hdz 0ws9yv4 0008pk2
+L05/f-1xxpv53 f-1xxpv53 0x5ijm8 1018xee
 L06/f-00qo9z3 f-1c9ifgf 116frk1 0rjib0j
 L06/f-02n3sya f-1vojywm 17jgt1k 1mef16j
 L06/f-03f7ith f-03f7ith 0ow7icd 0vw43x9
@@ -1261,7 +1313,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Comprare 5.000 once d'oro a € 1.500 l'oncia tra 1 anno; vendere £ 1.000.000 a € 1,2 per sterlina tra 6 mesi; ottenere un tasso d'interesse del 3% su un deposito in euro per un periodo di 3 mesi che inizia tra 6 mesi; vendere 1.000.000 di barili di petrolio a € 90 per barile tra 9 mesi.
 **Distrattori:**
 - Comprare 5.000 once d'oro a € 1.500 l'oncia tra 1 anno; vendere £ 1.000.000 a € 1,2 per sterlina tra 6 mesi; ottenere un tasso d'interesse del 3% su un deposito in euro per un periodo di 6 mesi che inizia tra 3 mesi; vendere 1.000.000 di barili di petrolio a € 90 per barile tra 9 mesi.
-- T=0: margine iniziale di 500; T=1: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
+- $T=0$: margine iniziale di 500; $T=1$: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
 - Apertura del contratto: margine iniziale; posizioni aperte: margine di variazione; scadenza: cash settlement, sia per l'acquirente sia per il venditore.
 
 **D:** ⚠️ Quali caratteristiche ha il contratto forward, secondo la lezione 03?
@@ -1273,12 +1325,12 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Il prezzo rilevato immediatamente prima del segnale che determina la fine delle contrattazioni.
 
 **D:** ⚠️ Qual è il payoff a scadenza dell'acquisto e della vendita di un forward, secondo la lezione 03?
-**R:** Per l'«Acquisto Forward» **S-F**, una retta crescente che taglia l'asse orizzontale in F; per la «Vendita Forward» **F-S**, una retta decrescente che taglia l'asse nello stesso punto (slide 13). Per il docente il payoff è «il risultato finanziario a scadenza che deriva dall'assunzione di una posizione su di un forward»: chi acquista guadagna la differenza all'aumentare del valore del sottostante rispetto al prezzo forward; le due posizioni sono il «long forward» e lo «short forward» ([00:11:26]–[00:12:12]).
-**Opzione:** Acquisto forward: S-F; vendita forward: F-S, dove S è il valore del sottostante e F il prezzo forward.
+**R:** Per l'«Acquisto Forward» **$S-F$**, una retta crescente che taglia l'asse orizzontale in $F$; per la «Vendita Forward» **$F-S$**, una retta decrescente che taglia l'asse nello stesso punto (slide 13). Per il docente il payoff è «il risultato finanziario a scadenza che deriva dall'assunzione di una posizione su di un forward»: chi acquista guadagna la differenza all'aumentare del valore del sottostante rispetto al prezzo forward; le due posizioni sono il «long forward» e lo «short forward» ([00:11:26]–[00:12:12]).
+**Opzione:** Acquisto forward: $S-F$; vendita forward: $F-S$, dove $S$ è il valore del sottostante e $F$ il prezzo forward.
 **Distrattori:**
-- Acquisto forward: F-S; vendita forward: S-F, dove S è il valore del sottostante e F il prezzo forward.
-- h = ρ · (σ_S / σ_F).
-- W = S - hF, e si calcola il valore di h che minimizza Var(W).
+- Acquisto forward: $F-S$; vendita forward: $S-F$, dove $S$ è il valore del sottostante e $F$ il prezzo forward.
+- $h = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
+- $W = S - hF$, e si calcola il valore di $h$ che minimizza $\mathrm{Var}(W)$.
 
 **D:** ⚠️ Come definisce i contratti futures la lezione 03?
 **R:** «Contratti Futures: accordi per acquistare o vendere attività ad un dato prezzo **(prezzo futures)** e ad una certa scadenza» (slide 15). È la definizione dei forward della slide 9 con in più, in rosso, «(prezzo futures)», che il docente chiama «il prezzo future» ([00:12:16]). Per il docente le differenze dal forward non stanno nell'ingegneria finanziaria del contratto, «estremamente simile», ma in aspetti collaterali: il futures è standardizzato, il forward è un contratto bilaterale ([00:12:25]–[00:13:12]). ⚠️ «Dal prezzo futures» è la chiave della domanda 5 del test.
@@ -1294,14 +1346,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Futures: trattati in borsa; contratti standardizzati; una sola data di consegna; regolati ogni giorno; in genere vengono chiusi prima della scadenza. Forward: contratti privati; contratti non standardizzati; scelta tra diverse date di consegna; regolati alla fine del contratto; in genere si verifica la consegna/il regolamento di un saldo finale.
 - Non è appetibile e va venduta a sconto, per esempio al 90-80% invece che a 100, per allinearsi alla redditività di mercato dei titoli a parità di rischio.
-- T=0: margine iniziale di 500; T=1: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
+- $T=0$: margine iniziale di 500; $T=1$: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
 
 **D:** ⚠️ Quante date di consegna prevedono i futures e quante i forward, secondo la lezione 03?
 **R:** I futures la «**scelta tra diverse date di consegna**», il forward «**una sola data di consegna**» (slide 16). Il docente dice «date di **scadenza**»: «I futures hai delle diverse date di scadenza tra cui puoi scegliere. Il forward è una sola» ([00:13:21]). ⚠️ È il distrattore B della domanda 5 del test: «dalla data di consegna», al singolare, è la riga del **forward**.
 **Opzione:** I futures prevedono la scelta tra diverse date di consegna, il forward una sola data di consegna.
 **Distrattori:**
 - I futures prevedono una sola data di consegna, il forward la scelta tra diverse date di consegna.
-- Acquisto forward: S-F; vendita forward: F-S, dove S è il valore del sottostante e F il prezzo forward.
+- Acquisto forward: $S-F$; vendita forward: $F-S$, dove $S$ è il valore del sottostante e $F$ il prezzo forward.
 - Ordinarie, privilegiate, di risparmio.
 
 **D:** ⚠️ Che cos'è l'open interest, secondo la lezione 03?
@@ -1329,11 +1381,11 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - La cassa di compensazione e garanzia, soggetto terzo che intermedia l'operatività tra le parti per garantire ed evitare failure di mercato.
 
 **D:** ⚠️ Che cos'è la base, secondo la lezione 03?
-**R:** «**Base**: la differenza tra il prezzo **spot** e il prezzo **futures**» (slide 17). Il transcript si ferma su «la differenza tra il prezzo spot e il prezzo» ([00:14:41]), poi distingue il prezzo che si osserva in quel momento sul sottostante dal prezzo definito dal contratto derivato ([00:14:49]). Nella slide 25 S è il prezzo spot e F il prezzo futures.
+**R:** «**Base**: la differenza tra il prezzo **spot** e il prezzo **futures**» (slide 17). Il transcript si ferma su «la differenza tra il prezzo spot e il prezzo» ([00:14:41]), poi distingue il prezzo che si osserva in quel momento sul sottostante dal prezzo definito dal contratto derivato ([00:14:49]). Nella slide 25 $S$ è il prezzo spot e $F$ il prezzo futures.
 **Opzione:** La differenza tra il prezzo spot e il prezzo futures.
 **Distrattori:**
 - La somma del prezzo spot e del prezzo futures.
-- 2h·Var(F) - 2cov(S,F) = 0, da cui h∗ = cov(S,F) / Var(F) = ρ · (σ_S / σ_F).
+- $2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = \frac{\mathrm{cov}(S,F)}{\mathrm{Var}(F)} = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
 - Non è appetibile e va venduta a sconto, per esempio al 90-80% invece che a 100, per allinearsi alla redditività di mercato dei titoli a parità di rischio.
 
 **D:** ⚠️ Che cosa avviene nelle tre fasi dell'esempio di acquisto di un futures sull'indice FTSE MIB (FIB), secondo la lezione 03?
@@ -1345,12 +1397,12 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Operare su più mercati al fine di sfruttarne gli squilibri e conseguire un profitto privo di rischio.
 
 **D:** ⚠️ Che cosa avviene per l'acquirente nell'esempio numerico di un futures sul FIB con valore iniziale del contratto di 22.000 €, secondo la lezione 03?
-**R:** «T=0 Versamento margine iniziale = 500»; «T=1 FIB vale 23.000 €, Accredito margine di variazione = + 1.000 €»; «Scadenza FIB vale 21.600 €, Addebito margine di variazione = -1.400 €, Restituzione margine iniziale» (slide 20–23). ⚠️ L'addebito di scadenza si misura dai 23.000 € di T=1, non dai 22.000 € iniziali. Per il docente chi ha venduto ha l'addebito speculare di 1.000 € a T=1 ([00:18:46]); in tutto l'acquirente perde 400 €, e «dei 500 del margine iniziale me ne verranno ritornati soltanto 100 euro» ([00:18:53]–[00:19:46]).
-**Opzione:** T=0: margine iniziale di 500; T=1: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
+**R:** «$T=0$ Versamento margine iniziale = 500»; «$T=1$ FIB vale 23.000 €, Accredito margine di variazione = + 1.000 €»; «Scadenza FIB vale 21.600 €, Addebito margine di variazione = -1.400 €, Restituzione margine iniziale» (slide 20–23). ⚠️ L'addebito di scadenza si misura dai 23.000 € di $T=1$, non dai 22.000 € iniziali. Per il docente chi ha venduto ha l'addebito speculare di 1.000 € a $T=1$ ([00:18:46]); in tutto l'acquirente perde 400 €, e «dei 500 del margine iniziale me ne verranno ritornati soltanto 100 euro» ([00:18:53]–[00:19:46]).
+**Opzione:** $T=0$: margine iniziale di 500; $T=1$: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -1.400 € e restituzione del margine iniziale.
 **Distrattori:**
-- T=0: margine iniziale di 500; T=1: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -400 € e restituzione del margine iniziale.
-- S prezzo spot; F prezzo futures; σ_S deviazione standard di ΔS; σ_F deviazione standard di ΔF; ρ coefficiente di correlazione tra ΔS e ΔF.
-- Var(S - hF) = Var(S) + h²·Var(F) - 2h·cov(S,F).
+- $T=0$: margine iniziale di 500; $T=1$: il FIB vale 23.000 €, accredito del margine di variazione di + 1.000 €; scadenza: il FIB vale 21.600 €, addebito di -400 € e restituzione del margine iniziale.
+- $S$ prezzo spot; $F$ prezzo futures; $\sigma_S$ deviazione standard di $\Delta S$; $\sigma_F$ deviazione standard di $\Delta F$; $\rho$ coefficiente di correlazione tra $\Delta S$ e $\Delta F$.
+- $\mathrm{Var}(S - hF) = \mathrm{Var}(S) + h^2\cdot\mathrm{Var}(F) - 2h\cdot\mathrm{cov}(S,F)$.
 
 **D:** ⚠️ Chi chiede il margine di variazione a chi sta perdendo, e con quale funzione, secondo il docente della lezione 03?
 **R:** La **cassa di compensazione e garanzia**, «un soggetto terzo» che intermedia l'operatività tra le parti «per garantire ed evitare che ci possano essere delle **failure** di mercato» ([00:16:38]–[00:16:57]). A seconda che il prezzo salga o scenda, il margine di variazione viene chiesto a chi sta perdendo o rilasciato ([00:16:28]). Le slide non nominano la cassa di compensazione; la CONSOB è per il docente l'autorità che vigila sull'aggiotaggio ([00:04:47]).
@@ -1385,44 +1437,44 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Accordi per acquistare o vendere attività ad un dato prezzo e ad una certa scadenza.
 
 **D:** ⚠️ Qual è la formula del rapporto di copertura a varianza minima, secondo la lezione 03?
-**R:** **h = ρ · (σ_S / σ_F)** (slide 25), con ρ coefficiente di correlazione tra ΔS e ΔF, σ_S e σ_F deviazioni standard di ΔS e ΔF. Per il docente dipende dal **rapporto fra le volatilità**, cioè le deviazioni standard, del prezzo spot e del prezzo futures, e dalla **correlazione** fra le variazioni dei due prezzi: «ρ per σ di S su σ di F» ([00:21:13]–[00:21:43]). ⚠️ Lo spot sta al **numeratore**, il futures al **denominatore**, e senza ρ la formula è sbagliata.
-**Opzione:** h = ρ · (σ_S / σ_F).
+**R:** **$h = \rho \cdot \frac{\sigma_S}{\sigma_F}$** (slide 25), con $\rho$ coefficiente di correlazione tra $\Delta S$ e $\Delta F$, $\sigma_S$ e $\sigma_F$ deviazioni standard di $\Delta S$ e $\Delta F$. Per il docente dipende dal **rapporto fra le volatilità**, cioè le deviazioni standard, del prezzo spot e del prezzo futures, e dalla **correlazione** fra le variazioni dei due prezzi: «ρ per σ di S su σ di F» ([00:21:13]–[00:21:43]). ⚠️ Lo spot sta al **numeratore**, il futures al **denominatore**, e senza $\rho$ la formula è sbagliata.
+**Opzione:** $h = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
 **Distrattori:**
-- h = ρ · (σ_F / σ_S).
-- h = σ_S / σ_F.
-- Var(S - hF) = Var(S) + h²·Var(F) - 2h·cov(S,F).
+- $h = \rho \cdot \frac{\sigma_F}{\sigma_S}$.
+- $h = \frac{\sigma_S}{\sigma_F}$.
+- $\mathrm{Var}(S - hF) = \mathrm{Var}(S) + h^2\cdot\mathrm{Var}(F) - 2h\cdot\mathrm{cov}(S,F)$.
 
-**D:** ⚠️ Che cosa indicano S, F, σ_S, σ_F e ρ nella formula del rapporto di copertura a varianza minima, secondo la lezione 03?
-**R:** «S = prezzo spot; F = prezzo futures; σ_S = deviazione standard di ΔS; σ_F = deviazione standard di ΔF; ρ = coefficiente di correlazione tra ΔS e ΔF» (slide 25). ⚠️ Deviazioni standard e correlazione sono calcolate sulle **variazioni** ΔS e ΔF, non sui livelli dei prezzi: il docente parla della correlazione «tra una variazione del prezzo spot ed una variazione del prezzo futures» ([00:21:13]). Le σ sono **deviazioni standard**, non varianze.
-**Opzione:** S prezzo spot; F prezzo futures; σ_S deviazione standard di ΔS; σ_F deviazione standard di ΔF; ρ coefficiente di correlazione tra ΔS e ΔF.
+**D:** ⚠️ Che cosa indicano $S$, $F$, $\sigma_S$, $\sigma_F$ e $\rho$ nella formula del rapporto di copertura a varianza minima, secondo la lezione 03?
+**R:** «$S$ = prezzo spot; $F$ = prezzo futures; $\sigma_S$ = deviazione standard di $\Delta S$; $\sigma_F$ = deviazione standard di $\Delta F$; $\rho$ = coefficiente di correlazione tra $\Delta S$ e $\Delta F$» (slide 25). ⚠️ Deviazioni standard e correlazione sono calcolate sulle **variazioni** $\Delta S$ e $\Delta F$, non sui livelli dei prezzi: il docente parla della correlazione «tra una variazione del prezzo spot ed una variazione del prezzo futures» ([00:21:13]). Le $\sigma$ sono **deviazioni standard**, non varianze.
+**Opzione:** $S$ prezzo spot; $F$ prezzo futures; $\sigma_S$ deviazione standard di $\Delta S$; $\sigma_F$ deviazione standard di $\Delta F$; $\rho$ coefficiente di correlazione tra $\Delta S$ e $\Delta F$.
 **Distrattori:**
-- S prezzo spot; F prezzo futures; σ_S varianza di ΔS; σ_F varianza di ΔF; ρ coefficiente di correlazione tra ΔS e ΔF.
-- 2h·Var(F) - 2cov(S,F) = 0, da cui h∗ = cov(S,F) / Var(F) = ρ · (σ_S / σ_F).
-- W = S - hF, e si calcola il valore di h che minimizza Var(W).
+- $S$ prezzo spot; $F$ prezzo futures; $\sigma_S$ varianza di $\Delta S$; $\sigma_F$ varianza di $\Delta F$; $\rho$ coefficiente di correlazione tra $\Delta S$ e $\Delta F$.
+- $2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = \frac{\mathrm{cov}(S,F)}{\mathrm{Var}(F)} = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
+- $W = S - hF$, e si calcola il valore di $h$ che minimizza $\mathrm{Var}(W)$.
 
 **D:** ⚠️ Come si definisce il risultato economico dell'investitore nella dimostrazione del rapporto di copertura a varianza minima, e che cosa si calcola, secondo la lezione 03?
-**R:** «Si definisce il risultato economico di un investitore come: W=S-h e si calcola il valore di h che **minimizza** la relativa varianza», cioè min_h Var(W) = min_h Var(S - hF) (slide 26). ⚠️ Il testo della slide dice «W=S-h», ma la formula della stessa slide e il docente danno **W = S - hF**: h è «questa generica scalare che moltiplichiamo per il future» ([00:21:56]–[00:22:11]).
-**Opzione:** W = S - hF, e si calcola il valore di h che minimizza Var(W).
+**R:** «Si definisce il risultato economico di un investitore come: $W=S-h$ e si calcola il valore di $h$ che **minimizza** la relativa varianza», cioè $\min_h \mathrm{Var}(W) = \min_h \mathrm{Var}(S - hF)$ (slide 26). ⚠️ Il testo della slide dice «$W=S-h$», ma la formula della stessa slide e il docente danno **$W = S - hF$**: $h$ è «questa generica scalare che moltiplichiamo per il future» ([00:21:56]–[00:22:11]).
+**Opzione:** $W = S - hF$, e si calcola il valore di $h$ che minimizza $\mathrm{Var}(W)$.
 **Distrattori:**
-- W = S - hF, e si calcola il valore di h che massimizza Var(W).
-- S prezzo spot; F prezzo futures; σ_S deviazione standard di ΔS; σ_F deviazione standard di ΔF; ρ coefficiente di correlazione tra ΔS e ΔF.
-- Acquisto forward: S-F; vendita forward: F-S, dove S è il valore del sottostante e F il prezzo forward.
+- $W = S - hF$, e si calcola il valore di $h$ che massimizza $\mathrm{Var}(W)$.
+- $S$ prezzo spot; $F$ prezzo futures; $\sigma_S$ deviazione standard di $\Delta S$; $\sigma_F$ deviazione standard di $\Delta F$; $\rho$ coefficiente di correlazione tra $\Delta S$ e $\Delta F$.
+- Acquisto forward: $S-F$; vendita forward: $F-S$, dove $S$ è il valore del sottostante e $F$ il prezzo forward.
 
-**D:** ⚠️ Come si scompone Var(S - hF) nella dimostrazione del rapporto di copertura a varianza minima, secondo la lezione 03?
-**R:** «Per le proprietà della varianza e della covarianza di variabili aleatorie»: min_h Var(W) = min_h Var(S - hF) = min_h [**Var(S) + h²·Var(F) - 2h·cov(S,F)**] (slide 27; [00:22:20]). ⚠️ Il coefficiente h entra **al quadrato** nel termine della varianza di F, e la covarianza ha il segno **meno**.
-**Opzione:** Var(S - hF) = Var(S) + h²·Var(F) - 2h·cov(S,F).
+**D:** ⚠️ Come si scompone $\mathrm{Var}(S - hF)$ nella dimostrazione del rapporto di copertura a varianza minima, secondo la lezione 03?
+**R:** «Per le proprietà della varianza e della covarianza di variabili aleatorie»: $\min_h \mathrm{Var}(W) = \min_h \mathrm{Var}(S - hF) = \min_h$ [**$\mathrm{Var}(S) + h^2\cdot\mathrm{Var}(F) - 2h\cdot\mathrm{cov}(S,F)$**] (slide 27; [00:22:20]). ⚠️ Il coefficiente $h$ entra **al quadrato** nel termine della varianza di $F$, e la covarianza ha il segno **meno**.
+**Opzione:** $\mathrm{Var}(S - hF) = \mathrm{Var}(S) + h^2\cdot\mathrm{Var}(F) - 2h\cdot\mathrm{cov}(S,F)$.
 **Distrattori:**
-- Var(S - hF) = Var(S) + h²·Var(F) + 2h·cov(S,F).
-- Var(S - hF) = Var(S) + h·Var(F) - 2h·cov(S,F).
-- h = ρ · (σ_S / σ_F).
+- $\mathrm{Var}(S - hF) = \mathrm{Var}(S) + h^2\cdot\mathrm{Var}(F) + 2h\cdot\mathrm{cov}(S,F)$.
+- $\mathrm{Var}(S - hF) = \mathrm{Var}(S) + h\cdot\mathrm{Var}(F) - 2h\cdot\mathrm{cov}(S,F)$.
+- $h = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
 
-**D:** ⚠️ Quale condizione di minimo si impone, e quale valore di h si ottiene, nella dimostrazione del rapporto di copertura a varianza minima della lezione 03?
-**R:** «Imponendo la condizione di minimo e calcolando il valore di h che la soddisfa»: **2h·Var(F) - 2cov(S,F) = 0**, da cui **h∗ = cov(S,F) / Var(F)**, «la covarianza sulla varianza» per il docente. Poi h∗ = cov(S,F) / σ_F² = (cov(S,F) / σ_F²) · (σ_S / σ_S) = (cov(S,F) / (σ_S σ_F)) · (σ_S / σ_F) = **ρ · (σ_S / σ_F)** (slide 28; [00:22:20]–[00:23:23]). ⚠️ Il fattore cov(S,F) / (σ_S σ_F) è ρ, non h∗.
-**Opzione:** 2h·Var(F) - 2cov(S,F) = 0, da cui h∗ = cov(S,F) / Var(F) = ρ · (σ_S / σ_F).
+**D:** ⚠️ Quale condizione di minimo si impone, e quale valore di $h$ si ottiene, nella dimostrazione del rapporto di copertura a varianza minima della lezione 03?
+**R:** «Imponendo la condizione di minimo e calcolando il valore di $h$ che la soddisfa»: **$2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$**, da cui **$h^{\ast} = \frac{\mathrm{cov}(S,F)}{\mathrm{Var}(F)}$**, «la covarianza sulla varianza» per il docente. Poi $h^{\ast} = \frac{\mathrm{cov}(S,F)}{\sigma_F^2} = \frac{\mathrm{cov}(S,F)}{\sigma_F^2} \cdot \frac{\sigma_S}{\sigma_S} = \frac{\mathrm{cov}(S,F)}{\sigma_S \sigma_F} \cdot \frac{\sigma_S}{\sigma_F} =$ **$\rho \cdot \frac{\sigma_S}{\sigma_F}$** (slide 28; [00:22:20]–[00:23:23]). ⚠️ Il fattore $\frac{\mathrm{cov}(S,F)}{\sigma_S \sigma_F}$ è $\rho$, non $h^{\ast}$.
+**Opzione:** $2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = \frac{\mathrm{cov}(S,F)}{\mathrm{Var}(F)} = \rho \cdot \frac{\sigma_S}{\sigma_F}$.
 **Distrattori:**
-- 2h·Var(F) - 2cov(S,F) = 0, da cui h∗ = Var(F) / cov(S,F) = ρ · (σ_F / σ_S).
-- 2h·Var(F) - 2cov(S,F) = 0, da cui h∗ = cov(S,F) / (σ_S · σ_F).
-- 2h·Var(F) + 2cov(S,F) = 0, da cui h∗ = -cov(S,F) / Var(F).
+- $2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = \frac{\mathrm{Var}(F)}{\mathrm{cov}(S,F)} = \rho \cdot \frac{\sigma_F}{\sigma_S}$.
+- $2h\cdot\mathrm{Var}(F) - 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = \frac{\mathrm{cov}(S,F)}{\sigma_S \cdot \sigma_F}$.
+- $2h\cdot\mathrm{Var}(F) + 2\mathrm{cov}(S,F) = 0$, da cui $h^{\ast} = -\frac{\mathrm{cov}(S,F)}{\mathrm{Var}(F)}$.
 
 **D:** ⚠️ Che cosa influisce sul prezzo delle obbligazioni, secondo il test della lezione 03 (domanda 1)?
 **R:** «**Il tasso di interesse e il merito di credito dell'emittente**», la slide 5 quasi alla lettera: la slide dice «Tassi d'interesse» e «Merito di credito dell'emittente». ⚠️ Distrattori del test: «le notizie e i rumors» e «i dati di bilancio» vengono dalla slide 4, cioè da ciò che influisce sul prezzo delle **azioni**; in «i dati di bilancio, il tasso di interesse e la maturity» i dati di bilancio prendono il posto del **merito di credito**, accanto al tasso giusto. Il «prezzo strike» è il prezzo delle **opzioni** (deck 05, slide 3), e la «maturity» non compare nel deck 03 né nel suo transcript.
@@ -1467,7 +1519,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 ## Lezione 04 — Strumenti Derivati 2 - Contratti Futures
 
 **D:** Che cosa distingue il prezzo spot dal prezzo futures, secondo la lezione 04?
-**R:** La slide 2, «Prezzi spot e prezzi futures», colloca il **prezzo spot** al tempo **0** e il **prezzo futures** al tempo **T**. Per il docente «la differenza è collegata al **tempo**, tempo che ha un **valore finanziario**, il prezzo spot è il **prezzo attuale, corrente**, il prezzo futures è il **prezzo ad una data scadenza futura**» (slide 2; transcript [00:00:26]–[00:00:53]).
+**R:** La slide 2, «Prezzi spot e prezzi futures», colloca il **prezzo spot** al tempo **0** e il **prezzo futures** al tempo **$T$**. Per il docente «la differenza è collegata al **tempo**, tempo che ha un **valore finanziario**, il prezzo spot è il **prezzo attuale, corrente**, il prezzo futures è il **prezzo ad una data scadenza futura**» (slide 2; transcript [00:00:26]–[00:00:53]).
 **Opzione:** Il prezzo spot è il prezzo attuale, corrente; il prezzo futures è il prezzo ad una data scadenza futura: la differenza è collegata al tempo, che ha un valore finanziario.
 **Distrattori:**
 - Il prezzo spot è il prezzo ad una data scadenza futura; il prezzo futures è il prezzo attuale, corrente: la differenza è collegata al tempo, che ha un valore finanziario.
@@ -1487,7 +1539,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Quella in cui il prezzo spot è superiore al prezzo futures; per il docente è possibile perché ci sono stati tassi d'interesse nominali negativi, anche su scadenze molto lunghe.
 **Distrattori:**
 - Quella in cui il prezzo spot è superiore al prezzo futures; per il docente è possibile perché ci sono stati tassi d'interesse nominali positivi, anche su scadenze molto lunghe.
-- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula (t=0) sia nullo.
+- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula ($t=0$) sia nullo.
 - Uno swap: chi fa un mutuo a tasso fisso ha implicitamente comprato uno swap, perché in natura il tasso d'interesse è variabile.
 
 **D:** ⚠️ Che cosa accade al prezzo spot e al prezzo futures alla scadenza, e perché, secondo il docente della lezione 04?
@@ -1495,14 +1547,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Devono convergere, sia in contango sia in backwardation, perché finiscono per identificare il medesimo fenomeno, cioè il prezzo di un'attività finanziaria.
 **Distrattori:**
 - Devono convergere solo in contango, perché solo lì il prezzo futures include il valore finanziario del tempo.
-- Il tasso fisso R∗ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
+- Il tasso fisso $R^{\ast}$ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
 
-**D:** ⚠️ Secondo Keynes e Hicks, che cosa indicano F < E(S_T) e F > E(S_T)?
-**R:** Slide 5, «Keynes e Hicks»: «**F<E(S_T)** se gli speculatori sono “lunghi” e gli hedgers sono “corti”»; «**F>E(S_T)** se gli speculatori sono “corti” e gli hedgers sono “lunghi”». Il docente: quando il prezzo futures è **inferiore** al valore atteso del prezzo del sottostante a scadenza, chi ha un intendimento speculativo ha **comprato** contratti (posizioni lunghe) e gli hedgers, che si coprono dai rischi, li hanno **venduti** (posizioni corte); viceversa quando è **maggiore**. È una relazione di «carattere **empirico**» (slide 5; transcript [00:02:50]–[00:04:26]). ⚠️ Il transcript dice «Heinz e Hicks»: errore della trascrizione, la slide dice **Keynes**.
-**Opzione:** F < E(S_T) se gli speculatori sono lunghi e gli hedgers sono corti; F > E(S_T) se gli speculatori sono corti e gli hedgers sono lunghi.
+**D:** ⚠️ Secondo Keynes e Hicks, che cosa indicano $F < E(S_T)$ e $F > E(S_T)$?
+**R:** Slide 5, «Keynes e Hicks»: «**$F<E(S_T)$** se gli speculatori sono “lunghi” e gli hedgers sono “corti”»; «**$F>E(S_T)$** se gli speculatori sono “corti” e gli hedgers sono “lunghi”». Il docente: quando il prezzo futures è **inferiore** al valore atteso del prezzo del sottostante a scadenza, chi ha un intendimento speculativo ha **comprato** contratti (posizioni lunghe) e gli hedgers, che si coprono dai rischi, li hanno **venduti** (posizioni corte); viceversa quando è **maggiore**. È una relazione di «carattere **empirico**» (slide 5; transcript [00:02:50]–[00:04:26]). ⚠️ Il transcript dice «Heinz e Hicks»: errore della trascrizione, la slide dice **Keynes**.
+**Opzione:** $F < E(S_T)$ se gli speculatori sono lunghi e gli hedgers sono corti; $F > E(S_T)$ se gli speculatori sono corti e gli hedgers sono lunghi.
 **Distrattori:**
-- F < E(S_T) se gli speculatori sono corti e gli hedgers sono lunghi; F > E(S_T) se gli speculatori sono lunghi e gli hedgers sono corti.
-- Il valore attuale al tempo t=0 dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
+- $F < E(S_T)$ se gli speculatori sono corti e gli hedgers sono lunghi; $F > E(S_T)$ se gli speculatori sono lunghi e gli hedgers sono corti.
+- Il valore attuale al tempo $t=0$ dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
 - Tipicamente solo il differenziale tra il pagamento dovuto dalla gamba fissa e quello dovuto dalla gamba variabile.
 
 **D:** Qual è, per il docente, l'intuizione dietro la relazione di Keynes e Hicks?
@@ -1511,14 +1563,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Chi specula vuole guadagnare, non coprirsi dai rischi, e tende a comprare, fra futures e spot, l'attività che nelle sue aspettative ha il valore maggiore.
 - A un'esigenza di equità del contratto: al momento della stipula la ripartizione delle alee tra le due controparti è simmetrica.
-- R∗ = (∑_{i=1}^{n} DF(0,t_i) · r_0(t_{i-1},t_i)) / (∑_{i=1}^{n} DF(0,t_i)), con i = 1, ..., n e t_n = T
+- $R^{\ast} = (\sum_{i=1}^{n} \mathrm{DF}(0,t_i) \cdot r_0(t_{i-1},t_i)) / (\sum_{i=1}^{n} \mathrm{DF}(0,t_i))$, con $i = 1, \ldots, n$ e $t_n = T$
 
 **D:** ⚠️ Quale uguaglianza lega prezzo spot e prezzo futures, e come si scrive in simboli, secondo la lezione 04?
-**R:** «**prezzo spot + valore tempo - eventuali dividendi = prezzo futures**» (slide 7), in simboli «**S + r - δ = F**» (slide 8). Il docente: S è il prezzo dell'attività sottostante, r «il valore del tempo», δ i dividendi, F il prezzo futures; l'identità «teoricamente vale» per un'azione che paga dei dividendi (slide 7–8; transcript [00:06:13]–[00:07:05]). ⚠️ I dividendi si **sottraggono**.
-**Opzione:** Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè S + r - δ = F.
+**R:** «**prezzo spot + valore tempo - eventuali dividendi = prezzo futures**» (slide 7), in simboli «**$S + r - \delta = F$**» (slide 8). Il docente: $S$ è il prezzo dell'attività sottostante, $r$ «il valore del tempo», $\delta$ i dividendi, $F$ il prezzo futures; l'identità «teoricamente vale» per un'azione che paga dei dividendi (slide 7–8; transcript [00:06:13]–[00:07:05]). ⚠️ I dividendi si **sottraggono**.
+**Opzione:** Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè $S + r - \delta = F$.
 **Distrattori:**
-- Prezzo spot + valore tempo + eventuali dividendi = prezzo futures, cioè S + r + δ = F.
-- DF(0,t_i) è il fattore di sconto da t_i a t_0 = 0; r_0(t_{i-1},t_i) è il tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_0 = 0; T è la scadenza dell'IRS.
+- Prezzo spot + valore tempo + eventuali dividendi = prezzo futures, cioè $S + r + \delta = F$.
+- $\mathrm{DF}(0,t_i)$ è il fattore di sconto da $t_i$ a $t_0 = 0$; $r_0(t_{i-1},t_i)$ è il tasso d'interesse per il periodo futuro che va da $t_{i-1}$ a $t_i$ valutato al tempo $t_0 = 0$; $T$ è la scadenza dell'IRS.
 - In base all'effettivo andamento del sottostante, una delle due parti sarà a credito e l'altra sarà a debito nei confronti della controparte.
 
 **D:** ⚠️ Che cosa si apre se l'uguaglianza prezzo spot + valore tempo - eventuali dividendi = prezzo futures non è verificata?
@@ -1530,51 +1582,51 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Gli IRS (interest rate swaps), cioè gli swap su tassi di interesse.
 
 **D:** ⚠️ Quale relazione fra prezzo spot e prezzo futures esclude la possibilità di arbitraggio, e da che cosa dipende il fattore di capitalizzazione?
-**R:** «La relazione che intercorre tra prezzi spot e prezzi futures affinché non vi sia possibilità di arbitraggio è la seguente: **F = S · fattore di capitalizzazione**, dove il Fattore di Capitalizzazione è una funzione del **tasso d'interesse r** e della **durata del Futures**» (slide 10, che scrive il prodotto con un asterisco). Il docente la enuncia «tralasciando per un attimo il tema dei dividendi»: in questa condizione di identità «strategie di arbitraggio non sono possibili» (transcript [00:07:39]–[00:09:09]).
-**Opzione:** F = S · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e della durata del futures.
+**R:** «La relazione che intercorre tra prezzi spot e prezzi futures affinché non vi sia possibilità di arbitraggio è la seguente: **$F = S$ · fattore di capitalizzazione**, dove il Fattore di Capitalizzazione è una funzione del **tasso d'interesse $r$** e della **durata del Futures**» (slide 10, che scrive il prodotto con un asterisco). Il docente la enuncia «tralasciando per un attimo il tema dei dividendi»: in questa condizione di identità «strategie di arbitraggio non sono possibili» (transcript [00:07:39]–[00:09:09]).
+**Opzione:** $F = S$ · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse $r$ e della durata del futures.
 **Distrattori:**
-- F = S · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e degli eventuali dividendi.
-- R∗ = (∑_{i=1}^{n} DF(0,t_i) · r_0(t_{i-1},t_i)) / (∑_{i=1}^{n} DF(0,t_i)), con i = 1, ..., n e t_n = T
-- Il valore di mercato del contratto alla data t, determinato come la differenza tra i flussi di pagamento, attualizzati alla data t, a carico delle due gambe dello swap.
+- $F = S$ · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse $r$ e degli eventuali dividendi.
+- $R^{\ast} = (\sum_{i=1}^{n} \mathrm{DF}(0,t_i) \cdot r_0(t_{i-1},t_i)) / (\sum_{i=1}^{n} \mathrm{DF}(0,t_i))$, con $i = 1, \ldots, n$ e $t_n = T$
+- Il valore di mercato del contratto alla data $t$, determinato come la differenza tra i flussi di pagamento, attualizzati alla data $t$, a carico delle due gambe dello swap.
 
 **D:** ⚠️ In quale caso si applica la strategia di arbitraggio cash and carry, e quale profitto privo di rischio dà?
-**R:** Slide 11, «Strategia di arbitraggio: cash and carry»: «Se **F > S · fattore di capitalizzazione**». Al tempo T: «Incasso F, restituisco S · fattore di capitalizzazione (S + interessi) e ottengo un profitto privo di rischio pari a: **F - S · fattore di capitalizzazione**». Il docente lo chiama anche «profitto di arbitraggio», e traduce il nome «un po' brutalmente» con «**batto cassa e porto avanti** il valore finanziario del tempo»: ci si fa dare soldi a prestito e si porta avanti la strategia fino alla scadenza (slide 11; transcript [00:09:09]–[00:10:55]).
-**Opzione:** Se F > S · fattore di capitalizzazione; il profitto privo di rischio è F - S · fattore di capitalizzazione.
+**R:** Slide 11, «Strategia di arbitraggio: cash and carry»: «Se **$F > S$ · fattore di capitalizzazione**». Al tempo $T$: «Incasso $F$, restituisco $S$ · fattore di capitalizzazione ($S$ + interessi) e ottengo un profitto privo di rischio pari a: **$F - S$ · fattore di capitalizzazione**». Il docente lo chiama anche «profitto di arbitraggio», e traduce il nome «un po' brutalmente» con «**batto cassa e porto avanti** il valore finanziario del tempo»: ci si fa dare soldi a prestito e si porta avanti la strategia fino alla scadenza (slide 11; transcript [00:09:09]–[00:10:55]).
+**Opzione:** Se $F > S$ · fattore di capitalizzazione; il profitto privo di rischio è $F - S$ · fattore di capitalizzazione.
 **Distrattori:**
-- Se F < S · fattore di capitalizzazione; il profitto privo di rischio è S · fattore di capitalizzazione - F.
+- Se $F < S$ · fattore di capitalizzazione; il profitto privo di rischio è $S$ · fattore di capitalizzazione $- F$.
 - Uno swap: chi fa un mutuo a tasso fisso ha implicitamente comprato uno swap, perché in natura il tasso d'interesse è variabile.
 - L'Euribor, ossia il tasso applicato ai prestiti interbancari non collateralizzati con scadenza da 1 a 12 mesi.
 
 **D:** ⚠️ Quali operazioni si fanno oggi nella strategia cash and carry, nell'ordine della slide?
-**R:** «Se F > S · fattore di capitalizzazione — **Oggi**: **Vendo un contratto futures**; **Prendo a prestito S** fino alla scadenza T al tasso d'interesse r; **Acquisto a pronti il titolo (-S)**» (slide 11). Il docente: «se io oggi vado a vendere un future prendo a prestito la quantità S fino alla scadenza T grande al tasso di interesse R vado ad acquistare quindi a pronti il titolo» (transcript [00:09:09]–[00:09:59]). ⚠️ Si **vende** il futures, che vale di più, e si **compra** il titolo.
-**Opzione:** Vendo un contratto futures; prendo a prestito S fino alla scadenza T al tasso d'interesse r; acquisto a pronti il titolo (-S).
+**R:** «Se $F > S$ · fattore di capitalizzazione — **Oggi**: **Vendo un contratto futures**; **Prendo a prestito $S$** fino alla scadenza $T$ al tasso d'interesse $r$; **Acquisto a pronti il titolo ($-S$)**» (slide 11). Il docente: «se io oggi vado a vendere un future prendo a prestito la quantità S fino alla scadenza T grande al tasso di interesse R vado ad acquistare quindi a pronti il titolo» (transcript [00:09:09]–[00:09:59]). ⚠️ Si **vende** il futures, che vale di più, e si **compra** il titolo.
+**Opzione:** Vendo un contratto futures; prendo a prestito $S$ fino alla scadenza $T$ al tasso d'interesse $r$; acquisto a pronti il titolo ($-S$).
 **Distrattori:**
-- Acquisto un contratto futures; prendo a prestito S fino alla scadenza T al tasso d'interesse r; acquisto a pronti il titolo (-S).
-- Il valore di mercato del contratto alla data t, determinato come la differenza tra i flussi di pagamento, attualizzati alla data t, a carico delle due gambe dello swap.
+- Acquisto un contratto futures; prendo a prestito $S$ fino alla scadenza $T$ al tasso d'interesse $r$; acquisto a pronti il titolo ($-S$).
+- Il valore di mercato del contratto alla data $t$, determinato come la differenza tra i flussi di pagamento, attualizzati alla data $t$, a carico delle due gambe dello swap.
 - Un accordo per lo scambio di flussi monetari in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza.
 
 **D:** ⚠️ In quale caso si applica la strategia di arbitraggio reverse cash and carry, e quale profitto privo di rischio dà?
-**R:** Slide 12, «Strategia di arbitraggio: reverse cash and carry»: «Se **F < S · fattore di capitalizzazione**». Al tempo T: «Pago F, ricevo S · fattore di capitalizzazione (S + interessi) e ottengo un profitto privo di rischio pari a: **S · fattore di capitalizzazione - F**». Per il docente si chiama reverse perché è la strategia opposta al cash and carry: la cassa ottenuta dalla vendita dell'azione «viene portata a redditività fino alla scadenza» (slide 12; transcript [00:10:55]–[00:12:58]).
-**Opzione:** Se F < S · fattore di capitalizzazione; il profitto privo di rischio è S · fattore di capitalizzazione - F.
+**R:** Slide 12, «Strategia di arbitraggio: reverse cash and carry»: «Se **$F < S$ · fattore di capitalizzazione**». Al tempo $T$: «Pago $F$, ricevo $S$ · fattore di capitalizzazione ($S$ + interessi) e ottengo un profitto privo di rischio pari a: **$S$ · fattore di capitalizzazione $- F$**». Per il docente si chiama reverse perché è la strategia opposta al cash and carry: la cassa ottenuta dalla vendita dell'azione «viene portata a redditività fino alla scadenza» (slide 12; transcript [00:10:55]–[00:12:58]).
+**Opzione:** Se $F < S$ · fattore di capitalizzazione; il profitto privo di rischio è $S$ · fattore di capitalizzazione $- F$.
 **Distrattori:**
-- Se F > S · fattore di capitalizzazione; il profitto privo di rischio è F - S · fattore di capitalizzazione.
+- Se $F > S$ · fattore di capitalizzazione; il profitto privo di rischio è $F - S$ · fattore di capitalizzazione.
 - A un'esigenza di equità del contratto: al momento della stipula la ripartizione delle alee tra le due controparti è simmetrica.
 - In base all'effettivo andamento del sottostante, una delle due parti sarà a credito e l'altra sarà a debito nei confronti della controparte.
 
 **D:** ⚠️ Quali operazioni si fanno oggi nella strategia reverse cash and carry, nell'ordine della slide?
-**R:** «Se F < S · fattore di capitalizzazione — **Oggi**: **Acquisto un contratto futures**; **Vendo a pronti il titolo (+S)**; **Investo S** fino alla scadenza T al tasso d'interesse r» (slide 12). Il docente parla di «vendita pronti o vendita allo scoperto» del titolo, che genera «un ingresso di capitale» da investire fino alla scadenza T al tasso r (transcript [00:11:24]–[00:12:26]). ⚠️ Rispetto al cash and carry il prestito diventa un **investimento**.
-**Opzione:** Acquisto un contratto futures; vendo a pronti il titolo (+S); investo S fino alla scadenza T al tasso d'interesse r.
+**R:** «Se $F < S$ · fattore di capitalizzazione — **Oggi**: **Acquisto un contratto futures**; **Vendo a pronti il titolo ($+S$)**; **Investo $S$** fino alla scadenza $T$ al tasso d'interesse $r$» (slide 12). Il docente parla di «vendita pronti o vendita allo scoperto» del titolo, che genera «un ingresso di capitale» da investire fino alla scadenza $T$ al tasso $r$ (transcript [00:11:24]–[00:12:26]). ⚠️ Rispetto al cash and carry il prestito diventa un **investimento**.
+**Opzione:** Acquisto un contratto futures; vendo a pronti il titolo ($+S$); investo $S$ fino alla scadenza $T$ al tasso d'interesse $r$.
 **Distrattori:**
-- Acquisto un contratto futures; vendo a pronti il titolo (+S); prendo a prestito S fino alla scadenza T al tasso d'interesse r.
-- Il valore attuale al tempo t=0 dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
-- Il tasso fisso R∗ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
+- Acquisto un contratto futures; vendo a pronti il titolo ($+S$); prendo a prestito $S$ fino alla scadenza $T$ al tasso d'interesse $r$.
+- Il valore attuale al tempo $t=0$ dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
+- Il tasso fisso $R^{\ast}$ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
 
 **D:** ⚠️ Che cosa comporta, nell'esempio della vendita di un futures sul BTP, il fatto che il sottostante non sia identificato?
 **R:** Slide 13: «Vendita di un Futures sul BTP» → «il sottostante **non** identificato» → «il **Cheapest to Deliver**». Il docente: il BTP «non è identificato nel contratto, è descritto per alcune sue **caratteristiche standardizzate**», quindi l'operatore dovrà identificare il BTP «che è il **più economico** per lui da consegnare», per non perdere risorse finanziarie anche minime (slide 13; transcript [00:12:58]–[00:14:11]). ⚠️ Il transcript dice «cheaper to delivery» e «tipus to delivery»: vale la slide, **Cheapest to Deliver**.
 **Opzione:** Che occorre individuare il Cheapest to Deliver, cioè il BTP più economico da consegnare.
 **Distrattori:**
 - Che occorre consegnare il BTP con scadenza esattamente pari a quella prevista dal contratto.
-- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula (t=0) sia nullo.
+- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula ($t=0$) sia nullo.
 
 **D:** ⚠️ Come si calcola il valore di un contratto futures, nell'esempio sul BTP della lezione 04?
 **R:** Slide 14: «**Valore contratto: N° ticks · valore ticks · prezzo**» (la slide scrive i prodotti con un asterisco). Per il docente è «la moltiplicazione di tre grandezze»: il numero dei tick, cioè «l'**unità di misura minima di variazione** del valore del contratto», per il valore del tick, per il prezzo del titolo (slide 14; transcript [00:14:11]–[00:14:43]). Il transcript scrive «TX» e «TIC» per tick.
@@ -1582,7 +1634,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Valore contratto = N° ticks · valore ticks · fattore di conversione.
 - Una possibilità di guadagno, cosiddetta strategia di arbitraggio.
-- Vendo un contratto futures; prendo a prestito S fino alla scadenza T al tasso d'interesse r; acquisto a pronti il titolo (-S).
+- Vendo un contratto futures; prendo a prestito $S$ fino alla scadenza $T$ al tasso d'interesse $r$; acquisto a pronti il titolo ($-S$).
 
 **D:** ⚠️ Quanto vale un contratto futures sul BTP con valore del tick pari a 2 €, nell'esempio della lezione 04?
 **R:** Slide 14: «Esempio: 1 contratto su BTP – valore tick=2 €» → «**20.000 €**». Il docente lo spiega con **10.000** euro, o punti, investiti in BTP, che «vanno valorizzati 2 euro per ogni punto, per ogni tick e quindi abbiamo che il contratto varrà 20.000 euro» (slide 14; transcript [00:14:43]–[00:15:36]). ⚠️ I 10.000 punti sono solo nel transcript: la slide dà il valore del tick e il risultato.
@@ -1596,15 +1648,15 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Confrontando i BTP consegnabili, identificati per data di scadenza, tramite un fattore di conversione.
 **Distrattori:**
 - Confrontando i BTP consegnabili, identificati per data di scadenza, tramite il valore del tick.
-- F = S · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e della durata del futures.
+- $F = S$ · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse $r$ e della durata del futures.
 - Quella in cui il prezzo spot è superiore al prezzo futures; per il docente è possibile perché ci sono stati tassi d'interesse nominali negativi, anche su scadenze molto lunghe.
 
 **D:** ⚠️ Come si calcola il fattore di conversione di un BTP, secondo la slide 17 della lezione 04?
-**R:** Slide 17, «Il fattore di conversione»: «**f.c. = Prezzo / 100**», con «**Prezzo = ∑_t F_t / (1+i)^t**», la somma dei flussi F_t attualizzati. Il docente: «il prezzo del BTP infatti è la sommatoria dei flussi di cassa diviso il valore finanziario del tempo», con i flussi attualizzati in base alla struttura a termine sulle varie scadenze (slide 17; transcript [00:17:45]–[00:18:04]). ⚠️ Qui F_t indica i flussi del titolo, non il prezzo futures. La slide non definisce i.
-**Opzione:** f.c. = Prezzo / 100, con Prezzo = ∑_t F_t / (1+i)^t
+**R:** Slide 17, «Il fattore di conversione»: «**f.c. = Prezzo / 100**», con «**Prezzo $= \sum_t \frac{F_t}{(1+i)^t}$**», la somma dei flussi $F_t$ attualizzati. Il docente: «il prezzo del BTP infatti è la sommatoria dei flussi di cassa diviso il valore finanziario del tempo», con i flussi attualizzati in base alla struttura a termine sulle varie scadenze (slide 17; transcript [00:17:45]–[00:18:04]). ⚠️ Qui $F_t$ indica i flussi del titolo, non il prezzo futures. La slide non definisce $i$.
+**Opzione:** f.c. = Prezzo / 100, con Prezzo $= \sum_t \frac{F_t}{(1+i)^t}$
 **Distrattori:**
-- f.c. = 100 / Prezzo, con Prezzo = ∑_t F_t / (1+i)^t
-- Se F < S · fattore di capitalizzazione; il profitto privo di rischio è S · fattore di capitalizzazione - F.
+- f.c. = 100 / Prezzo, con Prezzo $= \sum_t \frac{F_t}{(1+i)^t}$
+- Se $F < S$ · fattore di capitalizzazione; il profitto privo di rischio è $S$ · fattore di capitalizzazione $- F$.
 - 20.000 €.
 
 **D:** ⚠️ Che cosa rappresenta il valore 100 nella formula del fattore di conversione?
@@ -1620,7 +1672,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Il differenziale tra 100, cioè la redditività esatta della curva dei tassi, e l'extra o il sottorendimento che quel BTP dà rispetto alla curva dei tassi.
 **Distrattori:**
 - Il differenziale tra 100, cioè la redditività esatta della curva dei tassi, e l'extra o il sottorendimento che quel BTP dà rispetto al prezzo futures quotato.
-- Acquisto un contratto futures; vendo a pronti il titolo (+S); investo S fino alla scadenza T al tasso d'interesse r.
+- Acquisto un contratto futures; vendo a pronti il titolo ($+S$); investo $S$ fino alla scadenza $T$ al tasso d'interesse $r$.
 - 20.000 €.
 
 **D:** ⚠️ Quali due grandezze si confrontano nella scelta del BTP da consegnare, secondo le slide 18–19 della lezione 04?
@@ -1629,13 +1681,13 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Quoted futures price + interessi da ratei, da una parte; cash price = quoted price · F.C. + interessi da ratei, dall'altra.
 - Un accordo per lo scambio di flussi monetari in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza.
-- DF(0,t_i) è il fattore di sconto da t_i a t_0 = 0; r_0(t_{i-1},t_i) è il tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_0 = 0; T è la scadenza dell'IRS.
+- $\mathrm{DF}(0,t_i)$ è il fattore di sconto da $t_i$ a $t_0 = 0$; $r_0(t_{i-1},t_i)$ è il tasso d'interesse per il periodo futuro che va da $t_{i-1}$ a $t_i$ valutato al tempo $t_0 = 0$; $T$ è la scadenza dell'IRS.
 
 **D:** ⚠️ Quale problema di ottimizzazione individua il BTP da consegnare, semplificando il confronto della slide 19?
-**R:** Slide 20, «La scelta — … semplificando»: «**Min_{BTP} (Quoted price - Quoted futures price · F.C.)**», con «BTP» in pedice al minimo. Il docente: si tratta di «andare a ricercare quel BTP che **minimizza** la differenza tra il prezzo quotato e il prezzo futures quotato per il fattore di conversione» (slide 20; transcript [00:19:34]–[00:19:58]). Nel semplificare spariscono gli interessi da ratei, presenti in entrambe le grandezze della slide 19.
-**Opzione:** min_{BTP} (quoted price - quoted futures price · F.C.)
+**R:** Slide 20, «La scelta — … semplificando»: «**$\mathrm{Min}_{\mathrm{BTP}}$ (Quoted price - Quoted futures price · F.C.)**», con «BTP» in pedice al minimo. Il docente: si tratta di «andare a ricercare quel BTP che **minimizza** la differenza tra il prezzo quotato e il prezzo futures quotato per il fattore di conversione» (slide 20; transcript [00:19:34]–[00:19:58]). Nel semplificare spariscono gli interessi da ratei, presenti in entrambe le grandezze della slide 19.
+**Opzione:** $\min_{\mathrm{BTP}}$ (quoted price - quoted futures price · F.C.)
 **Distrattori:**
-- max_{BTP} (quoted price - quoted futures price · F.C.)
+- $\max_{\mathrm{BTP}}$ (quoted price - quoted futures price · F.C.)
 - Quoted futures price · F.C. + interessi da ratei, da una parte; cash price = quoted price + interessi da ratei, dall'altra.
 
 **D:** ⚠️ Che cos'è uno swap, secondo la slide 22 della lezione 04?
@@ -1643,7 +1695,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Un accordo per lo scambio di flussi monetari in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza.
 **Distrattori:**
 - Un accordo per lo scambio di flussi monetari in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e a date scelte di volta in volta dalle parti fino alla data di scadenza.
-- F < E(S_T) se gli speculatori sono lunghi e gli hedgers sono corti; F > E(S_T) se gli speculatori sono corti e gli hedgers sono lunghi.
+- $F < E(S_T)$ se gli speculatori sono lunghi e gli hedgers sono corti; $F > E(S_T)$ se gli speculatori sono corti e gli hedgers sono lunghi.
 - Che occorre individuare il Cheapest to Deliver, cioè il BTP più economico da consegnare.
 
 **D:** ⚠️ Qual è la finalità principale di uno swap, secondo la slide 23 della lezione 04?
@@ -1652,14 +1704,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Convertire una passività o un investimento con flussi di cassa di importo variabile in una passività o in un investimento con flussi di cassa di importo fisso; mai convertire una passività o un investimento con flussi di cassa di importo fisso in una passività o in un investimento con flussi di cassa di importo variabile.
 - Devono convergere, sia in contango sia in backwardation, perché finiscono per identificare il medesimo fenomeno, cioè il prezzo di un'attività finanziaria.
-- F = S · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e della durata del futures.
+- $F = S$ · fattore di capitalizzazione, dove il fattore di capitalizzazione è una funzione del tasso d'interesse $r$ e della durata del futures.
 
 **D:** ⚠️ Che cosa c'è, per il docente, dietro un mutuo a tasso fisso?
 **R:** Il docente: «ogni volta che voi fate un **mutuo a tasso fisso** implicitamente avete **comprato uno swap**, perché in natura il tasso interesse è **variabile**»; qualcuno, «la banca verosimilmente», ha uno swap che consente il tasso fisso. Lo ripete per gli swap di tasso: «sono tantissimi mutui a tasso fisso, dietro al tasso fisso c'è sempre uno swap di tasso» (transcript [00:21:22]–[00:21:43], [00:26:53]). Non è nelle slide.
 **Opzione:** Uno swap: chi fa un mutuo a tasso fisso ha implicitamente comprato uno swap, perché in natura il tasso d'interesse è variabile.
 **Distrattori:**
 - Uno swap: chi fa un mutuo a tasso variabile ha implicitamente comprato uno swap, perché in natura il tasso d'interesse è fisso.
-- Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè S + r - δ = F.
+- Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè $S + r - \delta = F$.
 - Il valore di un titolo che paga un flusso cedolare pari a quello previsto dalla curva dei tassi d'interesse in quell'istante.
 
 **D:** ⚠️ Come sono determinate le somme pagate dalle due controparti di uno swap, secondo la slide 24 della lezione 04?
@@ -1676,21 +1728,21 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Gamba variabile (fixed leg) l'insieme degli importi variabili; gamba fissa (floating leg) l'insieme degli importi fissi.
 - Valore contratto = N° ticks · valore ticks · prezzo.
-- f.c. = Prezzo / 100, con Prezzo = ∑_t F_t / (1+i)^t
+- f.c. = Prezzo / 100, con Prezzo $= \sum_t \frac{F_t}{(1+i)^t}$
 
-**D:** ⚠️ Come si definisce il valore equo (fair value) di uno swap a una certa data t?
-**R:** Slide 25: «Il valore di mercato del contratto ad una certa data t è detto **valore equo (fair value)** ed è determinato come la **differenza** tra i flussi di pagamento, **attualizzati alla data t**, a carico delle due gambe dello swap». Il docente: se le gambe osservate oggi sono uguali il valore equo è zero, se sono sbilanciate genera un valore; e se una gamba vale più dell'altra, il valore più alto genera, per chi lo riceve, il pagamento di una quantità a favore della controparte (slide 25; transcript [00:23:06]–[00:23:46], [00:25:31]).
-**Opzione:** Il valore di mercato del contratto alla data t, determinato come la differenza tra i flussi di pagamento, attualizzati alla data t, a carico delle due gambe dello swap.
+**D:** ⚠️ Come si definisce il valore equo (fair value) di uno swap a una certa data $t$?
+**R:** Slide 25: «Il valore di mercato del contratto ad una certa data $t$ è detto **valore equo (fair value)** ed è determinato come la **differenza** tra i flussi di pagamento, **attualizzati alla data $t$**, a carico delle due gambe dello swap». Il docente: se le gambe osservate oggi sono uguali il valore equo è zero, se sono sbilanciate genera un valore; e se una gamba vale più dell'altra, il valore più alto genera, per chi lo riceve, il pagamento di una quantità a favore della controparte (slide 25; transcript [00:23:06]–[00:23:46], [00:25:31]).
+**Opzione:** Il valore di mercato del contratto alla data $t$, determinato come la differenza tra i flussi di pagamento, attualizzati alla data $t$, a carico delle due gambe dello swap.
 **Distrattori:**
-- Il valore di mercato del contratto alla data t, determinato come la somma dei flussi di pagamento, attualizzati alla data t, a carico delle due gambe dello swap.
+- Il valore di mercato del contratto alla data $t$, determinato come la somma dei flussi di pagamento, attualizzati alla data $t$, a carico delle due gambe dello swap.
 - Quella in cui il prezzo futures è superiore al prezzo spot e converge verso il prezzo spot avvicinandosi alla scadenza.
-- min_{BTP} (quoted price - quoted futures price · F.C.)
+- $\min_{\mathrm{BTP}}$ (quoted price - quoted futures price · F.C.)
 
 **D:** ⚠️ Quanto vale tipicamente il fair value di uno swap alla data di stipula?
-**R:** Slide 26, ripresa nelle slide 27–28, «Aspetti chiave»: «**Tipicamente** lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula (**t=0**) sia **nullo**» (slide 26; transcript [00:23:46]–[00:24:00], dove l'ASR scrive «Logisticamente»). Il docente: il tasso fisso esprime allora «una **media** sull'orizzonte temporale del tasso variabile, media ponderata osservata oggi dal punto di vista probabilistico» ([00:24:00]–[00:24:25]).
-**Opzione:** Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula (t=0) sia nullo.
+**R:** Slide 26, ripresa nelle slide 27–28, «Aspetti chiave»: «**Tipicamente** lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula (**$t=0$**) sia **nullo**» (slide 26; transcript [00:23:46]–[00:24:00], dove l'ASR scrive «Logisticamente»). Il docente: il tasso fisso esprime allora «una **media** sull'orizzonte temporale del tasso variabile, media ponderata osservata oggi dal punto di vista probabilistico» ([00:24:00]–[00:24:25]).
+**Opzione:** Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di stipula ($t=0$) sia nullo.
 **Distrattori:**
-- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di scadenza (t=T) sia nullo.
+- Tipicamente lo swap è ingegnerizzato in modo tale che il suo fair value alla data di scadenza ($t=T$) sia nullo.
 - Quella in cui il prezzo spot è superiore al prezzo futures; per il docente è possibile perché ci sono stati tassi d'interesse nominali negativi, anche su scadenze molto lunghe.
 - Confrontando i BTP consegnabili, identificati per data di scadenza, tramite un fattore di conversione.
 
@@ -1700,14 +1752,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - A un'esigenza di equità del contratto: al momento della stipula la ripartizione delle alee tra le due controparti è asimmetrica.
 - Il prezzo spot è il prezzo attuale, corrente; il prezzo futures è il prezzo ad una data scadenza futura: la differenza è collegata al tempo, che ha un valore finanziario.
-- Vendo un contratto futures; prendo a prestito S fino alla scadenza T al tasso d'interesse r; acquisto a pronti il titolo (-S).
+- Vendo un contratto futures; prendo a prestito $S$ fino alla scadenza $T$ al tasso d'interesse $r$; acquisto a pronti il titolo ($-S$).
 
 **D:** ⚠️ Come si riformula, «in altri termini», il fair value nullo di uno swap alla stipula?
-**R:** Slide 28: «In altri termini, il **valore attuale al tempo t=0** dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è **lo stesso**». Il docente: «E se così non fosse, allora il fair value non è più nullo» (slide 28; transcript [00:25:08]–[00:25:31]).
-**Opzione:** Il valore attuale al tempo t=0 dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
+**R:** Slide 28: «In altri termini, il **valore attuale al tempo $t=0$** dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è **lo stesso**». Il docente: «E se così non fosse, allora il fair value non è più nullo» (slide 28; transcript [00:25:08]–[00:25:31]).
+**Opzione:** Il valore attuale al tempo $t=0$ dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
 **Distrattori:**
 - Il valore nominale complessivo dei flussi di pagamenti attesi a carico della gamba variabile e quello dei flussi di pagamenti a carico della gamba fissa è lo stesso.
-- Acquisto un contratto futures; vendo a pronti il titolo (+S); investo S fino alla scadenza T al tasso d'interesse r.
+- Acquisto un contratto futures; vendo a pronti il titolo ($+S$); investo $S$ fino alla scadenza $T$ al tasso d'interesse $r$.
 - Il differenziale tra 100, cioè la redditività esatta della curva dei tassi, e l'extra o il sottorendimento che quel BTP dà rispetto alla curva dei tassi.
 
 **D:** ⚠️ Che cosa accade alle due parti di uno swap durante la vita del contratto, secondo la slide 29 della lezione 04?
@@ -1715,7 +1767,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** In base all'effettivo andamento del sottostante, una delle due parti sarà a credito e l'altra sarà a debito nei confronti della controparte.
 **Distrattori:**
 - In base alle informazioni disponibili alla data di stipula, una delle due parti sarà a credito e l'altra sarà a debito nei confronti della controparte.
-- F < E(S_T) se gli speculatori sono lunghi e gli hedgers sono corti; F > E(S_T) se gli speculatori sono corti e gli hedgers sono lunghi.
+- $F < E(S_T)$ se gli speculatori sono lunghi e gli hedgers sono corti; $F > E(S_T)$ se gli speculatori sono corti e gli hedgers sono lunghi.
 - Quoted futures price · F.C. + interessi da ratei, da una parte; cash price = quoted price + interessi da ratei, dall'altra.
 
 **D:** ⚠️ Che cosa si scambiano tipicamente le parti di uno swap alle varie scadenze contrattuali?
@@ -1723,8 +1775,8 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Tipicamente solo il differenziale tra il pagamento dovuto dalla gamba fissa e quello dovuto dalla gamba variabile.
 **Distrattori:**
 - Tipicamente l'intero pagamento dovuto dalla gamba fissa e l'intero pagamento dovuto dalla gamba variabile.
-- Se F > S · fattore di capitalizzazione; il profitto privo di rischio è F - S · fattore di capitalizzazione.
-- f.c. = Prezzo / 100, con Prezzo = ∑_t F_t / (1+i)^t
+- Se $F > S$ · fattore di capitalizzazione; il profitto privo di rischio è $F - S$ · fattore di capitalizzazione.
+- f.c. = Prezzo / 100, con Prezzo $= \sum_t \frac{F_t}{(1+i)^t}$
 
 **D:** ⚠️ Quali swap sono, secondo la lezione 04, senza dubbio i più diffusi su scala globale?
 **R:** Slide 31, «Gli Swap sui tassi di interesse — Interest Rate Swaps o IRS»: «Gli **IRS**, cioè gli swap su tassi di interesse, sono **senza dubbio quelli più diffusi su scala globale**». Il docente: stanno dietro a tanti mutui a tasso fisso «ma anche dietro a tante altre operazioni», e «sono in grado di costruire tra l'altro la **curva dei tassi di interesse**» (slide 31; transcript [00:26:53]–[00:27:23]).
@@ -1742,26 +1794,26 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Chi specula vuole guadagnare, non coprirsi dai rischi, e tende a vendere, fra futures e spot, l'attività che nelle sue aspettative ha il valore maggiore.
 
 **D:** ⚠️ Che cos'è il par rate di un interest rate swap, secondo la slide 33 della lezione 04?
-**R:** Slide 33: «Affinché il fair value dell'IRS **alla data di stipula sia pari a zero**, il tasso fisso in base a cui si calcolano i pagamenti a carico della **gamba fissa** dello swap è il c.d. **par rate**, ossia il tasso **R∗** che soddisfa la seguente equazione» (la slide scrive R con un asterisco in apice). Il docente: è «il tasso che rende uguale la gamba fissa e la gamba variabile», e il suo calcolo «alla fine non è altro che il calcolo di un **dato medio**» (slide 33; transcript [00:27:42]–[00:28:52]).
-**Opzione:** Il tasso fisso R∗ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
+**R:** Slide 33: «Affinché il fair value dell'IRS **alla data di stipula sia pari a zero**, il tasso fisso in base a cui si calcolano i pagamenti a carico della **gamba fissa** dello swap è il c.d. **par rate**, ossia il tasso **$R^{\ast}$** che soddisfa la seguente equazione» (la slide scrive $R$ con un asterisco in apice). Il docente: è «il tasso che rende uguale la gamba fissa e la gamba variabile», e il suo calcolo «alla fine non è altro che il calcolo di un **dato medio**» (slide 33; transcript [00:27:42]–[00:28:52]).
+**Opzione:** Il tasso fisso $R^{\ast}$ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il fair value dell'IRS alla data di stipula sia pari a zero.
 **Distrattori:**
-- Il tasso fisso R∗ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il valore attuale della gamba fissa alla data di stipula sia pari a zero.
+- Il tasso fisso $R^{\ast}$ in base a cui si calcolano i pagamenti a carico della gamba fissa dello swap, affinché il valore attuale della gamba fissa alla data di stipula sia pari a zero.
 - Il valore di un titolo che paga un flusso cedolare pari a quello previsto dalla curva dei tassi d'interesse in quell'istante.
 - Il differenziale tra 100, cioè la redditività esatta della curva dei tassi, e l'extra o il sottorendimento che quel BTP dà rispetto alla curva dei tassi.
 
-**D:** ⚠️ Quale equazione soddisfa il par rate R∗ di un interest rate swap?
-**R:** Slide 33: **R∗ = (∑_{i=1}^{n} DF(0,t_i) · r_0(t_{i-1},t_i)) / (∑_{i=1}^{n} DF(0,t_i))**, con **i = 1, ..., n** e **t_n = T**. Al numeratore i tassi futuri r_0 moltiplicati per i fattori di sconto, al denominatore la somma dei soli fattori di sconto; per il docente è il calcolo di un dato medio (transcript [00:28:47]–[00:29:20]). Le parentesi attorno a numeratore e denominatore sono aggiunte qui: la slide scrive la frazione su due righe.
-**Opzione:** R∗ = (∑_{i=1}^{n} DF(0,t_i) · r_0(t_{i-1},t_i)) / (∑_{i=1}^{n} DF(0,t_i)), con i = 1, ..., n e t_n = T
+**D:** ⚠️ Quale equazione soddisfa il par rate $R^{\ast}$ di un interest rate swap?
+**R:** Slide 33: **$R^{\ast} = (\sum_{i=1}^{n} \mathrm{DF}(0,t_i) \cdot r_0(t_{i-1},t_i)) / (\sum_{i=1}^{n} \mathrm{DF}(0,t_i))$**, con **$i = 1, \ldots, n$** e **$t_n = T$**. Al numeratore i tassi futuri $r_0$ moltiplicati per i fattori di sconto, al denominatore la somma dei soli fattori di sconto; per il docente è il calcolo di un dato medio (transcript [00:28:47]–[00:29:20]). Le parentesi attorno a numeratore e denominatore sono aggiunte qui: la slide scrive la frazione su due righe.
+**Opzione:** $R^{\ast} = (\sum_{i=1}^{n} \mathrm{DF}(0,t_i) \cdot r_0(t_{i-1},t_i)) / (\sum_{i=1}^{n} \mathrm{DF}(0,t_i))$, con $i = 1, \ldots, n$ e $t_n = T$
 **Distrattori:**
-- R∗ = (∑_{i=1}^{n} DF(0,t_i)) / (∑_{i=1}^{n} DF(0,t_i) · r_0(t_{i-1},t_i)), con i = 1, ..., n e t_n = T
-- min_{BTP} (quoted price - quoted futures price · F.C.)
-- Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè S + r - δ = F.
+- $R^{\ast} = (\sum_{i=1}^{n} \mathrm{DF}(0,t_i)) / (\sum_{i=1}^{n} \mathrm{DF}(0,t_i) \cdot r_0(t_{i-1},t_i))$, con $i = 1, \ldots, n$ e $t_n = T$
+- $\min_{\mathrm{BTP}}$ (quoted price - quoted futures price · F.C.)
+- Prezzo spot + valore tempo - eventuali dividendi = prezzo futures, cioè $S + r - \delta = F$.
 
-**D:** ⚠️ Che cosa indicano DF(0,t_i), r_0(t_{i-1},t_i) e T nella formula del par rate?
-**R:** Slide 33, «dove»: «**DF(0,t_i)** è il **fattore di sconto da t_i a t_0 = 0**»; «**r_0(t_{i-1},t_i)** è il **tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_0 = 0**»; «**T** è la **scadenza dell'IRS**». Il docente: DF è «il discount factor che ti porta da t_i a t_0» (slide 33; transcript [00:28:52]–[00:29:20]).
-**Opzione:** DF(0,t_i) è il fattore di sconto da t_i a t_0 = 0; r_0(t_{i-1},t_i) è il tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_0 = 0; T è la scadenza dell'IRS.
+**D:** ⚠️ Che cosa indicano $\mathrm{DF}(0,t_i)$, $r_0(t_{i-1},t_i)$ e $T$ nella formula del par rate?
+**R:** Slide 33, «dove»: «**$\mathrm{DF}(0,t_i)$** è il **fattore di sconto da $t_i$ a $t_0 = 0$**»; «**$r_0(t_{i-1},t_i)$** è il **tasso d'interesse per il periodo futuro che va da $t_{i-1}$ a $t_i$ valutato al tempo $t_0 = 0$**»; «**$T$** è la **scadenza dell'IRS**». Il docente: DF è «il discount factor che ti porta da $t_i$ a $t_0$» (slide 33; transcript [00:28:52]–[00:29:20]).
+**Opzione:** $\mathrm{DF}(0,t_i)$ è il fattore di sconto da $t_i$ a $t_0 = 0$; $r_0(t_{i-1},t_i)$ è il tasso d'interesse per il periodo futuro che va da $t_{i-1}$ a $t_i$ valutato al tempo $t_0 = 0$; $T$ è la scadenza dell'IRS.
 **Distrattori:**
-- DF(0,t_i) è il fattore di sconto da t_i a t_0 = 0; r_0(t_{i-1},t_i) è il tasso d'interesse per il periodo futuro che va da t_{i-1} a t_i valutato al tempo t_i; T è la scadenza dell'IRS.
+- $\mathrm{DF}(0,t_i)$ è il fattore di sconto da $t_i$ a $t_0 = 0$; $r_0(t_{i-1},t_i)$ è il tasso d'interesse per il periodo futuro che va da $t_{i-1}$ a $t_i$ valutato al tempo $t_i$; $T$ è la scadenza dell'IRS.
 - Devono convergere, sia in contango sia in backwardation, perché finiscono per identificare il medesimo fenomeno, cioè il prezzo di un'attività finanziaria.
 - Confrontando i BTP consegnabili, identificati per data di scadenza, tramite un fattore di conversione.
 
@@ -1773,7 +1825,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Arbitraggio.
 
 **D:** ⚠️ Quale relazione fra prezzo futures e prezzo spot vale in assenza di arbitraggio, secondo il test della lezione 04 (domanda 2)?
-**R:** «**F = S∗Fattore di capitalizzazione**», la formula della slide 10 alla lettera, dove il fattore di capitalizzazione è una funzione del tasso d'interesse r e della durata del futures. Il docente la enuncia «tralasciando per un attimo il tema dei dividendi» ([00:07:39]–[00:09:09]). L'asterisco della piattaforma e della slide indica il prodotto. Distrattori del test: «F > S∗Fattore di capitalizzazione» è la condizione del **cash and carry** (slide 11) e «F < S∗Fattore di capitalizzazione» quella del **reverse cash and carry** (slide 12), cioè proprio i casi in cui l'arbitraggio esiste: è il segno invertito. «Si può speculare» è un'altra categoria: la speculazione è una finalità dei derivati (lezione 03, slide 7), e non dà la relazione fra i prezzi che la domanda chiede.
+**R:** «**F = S∗Fattore di capitalizzazione**», la formula della slide 10 alla lettera, dove il fattore di capitalizzazione è una funzione del tasso d'interesse $r$ e della durata del futures. Il docente la enuncia «tralasciando per un attimo il tema dei dividendi» ([00:07:39]–[00:09:09]). L'asterisco della piattaforma e della slide indica il prodotto. Distrattori del test: «F > S∗Fattore di capitalizzazione» è la condizione del **cash and carry** (slide 11) e «F < S∗Fattore di capitalizzazione» quella del **reverse cash and carry** (slide 12), cioè proprio i casi in cui l'arbitraggio esiste: è il segno invertito. «Si può speculare» è un'altra categoria: la speculazione è una finalità dei derivati (lezione 03, slide 7), e non dà la relazione fra i prezzi che la domanda chiede.
 **Opzione:** F = S∗Fattore di capitalizzazione
 **Distrattori:**
 - F > S∗Fattore di capitalizzazione
@@ -1781,7 +1833,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Si può speculare
 
 **D:** ⚠️ Che cos'è lo swap, secondo il test della lezione 04 (domanda 3)?
-**R:** «**È l'accordo per lo scambio di flussi monetari**»: è la prima riga della definizione della slide 22, che prosegue «in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza». Per il docente «uno swap altro non è che un accordo per scambiarsi dei flussi monetari» ([00:20:19]). Distrattori del test: «è pari alla somma dei flussi di pagamento, capitalizzati alla data t» storpia la definizione del **fair value** della slide 25, la **differenza** tra i flussi di pagamento **attualizzati** alla data t, e la attribuisce allo swap. «Prevede, tra l'altro, l'acquisto a pronti del titolo sottostante» è un'operazione del **cash and carry** (slide 11). «Prevede, tra l'altro, la vendita a pronti di un contratto Futures» fonde la vendita del futures del cash and carry con la vendita a pronti del titolo del reverse (slide 12). Nessuna delle due è un'operazione dello swap.
+**R:** «**È l'accordo per lo scambio di flussi monetari**»: è la prima riga della definizione della slide 22, che prosegue «in base a condizioni legate al valore del sottostante (e.g. tasso d'interesse, valute) e ad una frequenza periodica prestabilita fino alla data di scadenza». Per il docente «uno swap altro non è che un accordo per scambiarsi dei flussi monetari» ([00:20:19]). Distrattori del test: «è pari alla somma dei flussi di pagamento, capitalizzati alla data t» storpia la definizione del **fair value** della slide 25, la **differenza** tra i flussi di pagamento **attualizzati** alla data $t$, e la attribuisce allo swap. «Prevede, tra l'altro, l'acquisto a pronti del titolo sottostante» è un'operazione del **cash and carry** (slide 11). «Prevede, tra l'altro, la vendita a pronti di un contratto Futures» fonde la vendita del futures del cash and carry con la vendita a pronti del titolo del reverse (slide 12). Nessuna delle due è un'operazione dello swap.
 **Opzione:** È l'accordo per lo scambio di flussi monetari.
 **Distrattori:**
 - È pari alla somma dei flussi di pagamento, capitalizzati alla data t.
@@ -1789,7 +1841,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Prevede, tra l'altro, l'acquisto a pronti del titolo sottostante.
 
 **D:** ⚠️ Come si chiama l'insieme degli importi di uno swap, secondo il test della lezione 04 (domanda 4)?
-**R:** «**È detto gamba dello swap**». La slide 25 distingue l'insieme degli importi **variabili**, la «gamba variabile (floating leg) dello swap», e quello degli importi **fissi**, la «gamba fissa (fixed leg) dello swap» ([00:22:49]–[00:23:06]): la chiave è giusta ma generica. Distrattori del test: «è pari alla differenza tra i flussi di pagamento equi» storpia la definizione del **valore equo (fair value)** della stessa slide, la differenza tra i flussi di pagamento **attualizzati alla data t** a carico delle due gambe, e la riferisce agli importi. «È pari alla somma dei flussi di pagamento, capitalizzati alla data t» e «prevede, tra l'altro, la vendita a pronti di un contratto Futures» sono gli stessi distrattori della domanda 3.
+**R:** «**È detto gamba dello swap**». La slide 25 distingue l'insieme degli importi **variabili**, la «gamba variabile (floating leg) dello swap», e quello degli importi **fissi**, la «gamba fissa (fixed leg) dello swap» ([00:22:49]–[00:23:06]): la chiave è giusta ma generica. Distrattori del test: «è pari alla differenza tra i flussi di pagamento equi» storpia la definizione del **valore equo (fair value)** della stessa slide, la differenza tra i flussi di pagamento **attualizzati alla data $t$** a carico delle due gambe, e la riferisce agli importi. «È pari alla somma dei flussi di pagamento, capitalizzati alla data t» e «prevede, tra l'altro, la vendita a pronti di un contratto Futures» sono gli stessi distrattori della domanda 3.
 **Opzione:** È detto gamba dello swap.
 **Distrattori:**
 - È pari alla somma dei flussi di pagamento, capitalizzati alla data t.
@@ -1797,7 +1849,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - È pari alla differenza tra i flussi di pagamento equi.
 
 **D:** ⚠️ Che cos'è l'IRS, secondo il test della lezione 04 (domanda 5)?
-**R:** «**o Interest Rate Swap è lo swap su tassi di interessi**», con «interessi» della piattaforma per «interesse». La slide 31, «Gli Swap sui tassi di interesse — Interest Rate Swaps o IRS»: «Gli IRS, cioè gli swap su tassi di interesse, sono senza dubbio quelli più diffusi su scala globale» ([00:26:53]–[00:27:12]). Distrattori del test: tutti e tre definiscono l'IRS, che è un contratto, come un **tasso**. «È il tasso fisso in corrispondenza del fair value» e «è il tasso fisso in corrispondenza del tasso variabile» storpiano il **par rate** della slide 33, il tasso fisso R∗ che rende nullo il fair value dell'IRS alla data di stipula, per il docente «il tasso che rende uguale la gamba fissa e la gamba variabile» ([00:28:52]): è la definizione di un'altra categoria. «È il tasso variabile che prevede il fair value del contratto sempre nullo» capovolge fisso in variabile e aggiunge un quantificatore assoluto: il fair value è nullo «tipicamente» alla stipula (slide 26), e durante la vita del contratto una parte è a credito e l'altra a debito (slide 29).
+**R:** «**o Interest Rate Swap è lo swap su tassi di interessi**», con «interessi» della piattaforma per «interesse». La slide 31, «Gli Swap sui tassi di interesse — Interest Rate Swaps o IRS»: «Gli IRS, cioè gli swap su tassi di interesse, sono senza dubbio quelli più diffusi su scala globale» ([00:26:53]–[00:27:12]). Distrattori del test: tutti e tre definiscono l'IRS, che è un contratto, come un **tasso**. «È il tasso fisso in corrispondenza del fair value» e «è il tasso fisso in corrispondenza del tasso variabile» storpiano il **par rate** della slide 33, il tasso fisso $R^{\ast}$ che rende nullo il fair value dell'IRS alla data di stipula, per il docente «il tasso che rende uguale la gamba fissa e la gamba variabile» ([00:28:52]): è la definizione di un'altra categoria. «È il tasso variabile che prevede il fair value del contratto sempre nullo» capovolge fisso in variabile e aggiunge un quantificatore assoluto: il fair value è nullo «tipicamente» alla stipula (slide 26), e durante la vita del contratto una parte è a credito e l'altra a debito (slide 29).
 **Opzione:** o Interest Rate Swap è lo swap su tassi di interessi
 **Distrattori:**
 - è il tasso fisso in corrispondenza del fair value
@@ -1812,18 +1864,18 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - L'obbligo di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
 - Il payoff rettificato per il premio, pagato da chi compra e incassato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
-- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+- Il posizionamento relativo del valore corrente dell'asset sottostante $S$ rispetto al prezzo di esercizio (strike) $K$; è strettamente legata al valore intrinseco.
 
 **D:** ⚠️ Che cosa distingue un'opzione europea da un'opzione americana, secondo la lezione 05?
 **R:** Slide 3: il diritto vale «**ad** una certa scadenza (**Europee**)» oppure «**entro** una certa scadenza (**Americane**)». Il docente: la possibilità di comprare «ad una certa scadenza identificata. E allora l'opzione è una call europea? Oppure entro una certa scadenza, e allora la call è un'americana» (slide 3; transcript [00:00:42]–[00:01:02]). ⚠️ Per la put il transcript dice «entro una certa scadenza» per entrambe ([00:01:18]): vale la slide.
 **Opzione:** Nell'europea il diritto vale ad una certa scadenza, nell'americana entro una certa scadenza.
 **Distrattori:**
 - Nell'europea il diritto vale entro una certa scadenza, nell'americana ad una certa scadenza.
-- Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
+- Vale 0 se il sottostante sta sotto lo strike $K$ e $S-K$ se il sottostante sta sopra $K$.
 - Dalla somma del valore intrinseco e del valore temporale della stessa.
 
 **D:** ⚠️ Quanto vale il valore intrinseco di una call, secondo la lezione 05?
-**R:** Nel grafico «La CALL» (slide 4–6), con il payoff in ordinata e il valore del sottostante in ascissa, il payoff è **0** fino a K e **S-K** oltre K, e la freccia «**Valore intrinseco**» della slide 6 indica sia lo 0 sia il tratto S-K. Il docente: «valore 0 dell'opzione se il sottostante sta a un valore inferiore a k e invece s-k se il sottostante ha un valore maggiore di k, è anche definito **valore intrinseco** dell'opzione» (slide 4–6; transcript [00:01:40]–[00:02:27]). ⚠️ Per la put è il rovescio: K-S sotto lo strike, 0 sopra (slide 10–11).
+**R:** Nel grafico «La CALL» (slide 4–6), con il payoff in ordinata e il valore del sottostante in ascissa, il payoff è **0** fino a $K$ e **$S-K$** oltre $K$, e la freccia «**Valore intrinseco**» della slide 6 indica sia lo 0 sia il tratto $S-K$. Il docente: «valore 0 dell'opzione se il sottostante sta a un valore inferiore a k e invece s-k se il sottostante ha un valore maggiore di k, è anche definito **valore intrinseco** dell'opzione» (slide 4–6; transcript [00:01:40]–[00:02:27]). ⚠️ Per la put è il rovescio: $K-S$ sotto lo strike, 0 sopra (slide 10–11).
 **Opzione:** Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
 **Distrattori:**
 - Vale S-K se il sottostante sta sotto lo strike K e 0 se il sottostante sta sopra K.
@@ -1831,10 +1883,10 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - min(K-S_T,0)
 
 **D:** ⚠️ Che cos'è il valore temporale nel grafico della call, e da che cosa nasce secondo il docente della lezione 05?
-**R:** La slide 7 aggiunge al payoff la curva del «**Prezzo prima della scadenza**», che sta sopra il valore intrinseco; la slide 8 chiama «**Valore temporale**» l'**area gialla** fra la curva e il valore intrinseco. Il docente: a scadenza la call vale S-K o 0, mentre «prima della scadenza nasce una sorta di elemento di **incertezza** sul valore intrinseco» che dà la curvatura al prezzo; questo, «anche detto **slippage**», «esprime il valore temporale che influenza il prezzo della call» (slide 7–8; transcript [00:02:27]–[00:03:38]). ⚠️ L'area colorata sotto la retta S-K della slide 5 è invece il valore intrinseco.
+**R:** La slide 7 aggiunge al payoff la curva del «**Prezzo prima della scadenza**», che sta sopra il valore intrinseco; la slide 8 chiama «**Valore temporale**» l'**area gialla** fra la curva e il valore intrinseco. Il docente: a scadenza la call vale $S-K$ o 0, mentre «prima della scadenza nasce una sorta di elemento di **incertezza** sul valore intrinseco» che dà la curvatura al prezzo; questo, «anche detto **slippage**», «esprime il valore temporale che influenza il prezzo della call» (slide 7–8; transcript [00:02:27]–[00:03:38]). ⚠️ L'area colorata sotto la retta $S-K$ della slide 5 è invece il valore intrinseco.
 **Opzione:** È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
 **Distrattori:**
-- È l'area fra la retta S-K del valore intrinseco e l'asse delle ascisse: nasce dall'incertezza sul valore intrinseco prima della scadenza.
+- È l'area fra la retta $S-K$ del valore intrinseco e l'asse delle ascisse: nasce dall'incertezza sul valore intrinseco prima della scadenza.
 - Il payoff rettificato per il premio, pagato da chi compra e incassato da chi vende; la scommessa è sul sottostante, la variabile aleatoria, perché lo strike è fisso.
 - Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dall'acquisto di una call europea e di una put europea.
 
@@ -1850,7 +1902,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **R:** Le slide 15–16, «Inserimento del premio», spostano l'asse orizzontale **verso l'alto** e colorano in giallo il «**PREMIO**» fra il nuovo asse e il tratto piatto del payoff, per la call e per la put. Il docente: il premio si può rappresentare «come uno **spostamento dell'asse delle ascisse lungo l'ordinata** di una quantità esattamente pari al **valore del premio**» (slide 15–16; transcript [00:05:31]–[00:06:32]). Nell'esempio il premio è prima di 10 euro e poi di 11 ([00:05:59]–[00:06:14]).
 **Opzione:** Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al valore del premio.
 **Distrattori:**
-- Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al prezzo strike K.
+- Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al prezzo strike $K$.
 - È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
 - Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
 
@@ -1860,7 +1912,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Perché la controparte venditrice (seller) acquista il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
 - Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
-- Al crescere del prezzo corrente del sottostante S il valore della Euro Call aumenta e quello della Euro Put si riduce.
+- Al crescere del prezzo corrente del sottostante $S$ il valore della Euro Call aumenta e quello della Euro Put si riduce.
 
 **D:** ⚠️ Chi paga il premio di un'opzione, a chi, quando, e a che cosa è pari?
 **R:** Slide 18: «Per tale motivo, il **buyer** paga al venditore (**seller**) un **premio** alla **data di stipula** che è pari al **valore equo (fair value)** dell'opzione a quella data». «Per tale motivo» rinvia alla slide 17: il buyer compra il diritto di scegliere se esercitare. Il docente: «il prezzo che sta pagando deve essere un prezzo fair» (slide 18; transcript [00:08:47]–[00:09:22]).
@@ -1871,10 +1923,10 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dall'acquisto di una call europea e di una put europea.
 
 **D:** ⚠️ A che cosa è pari, intuitivamente, il premio di un'opzione?
-**R:** Slide 19, sottolineata: «Intuitivamente, il premio dell'opzione è pari al valore, **attualizzato alla data iniziale (t=0)**, dei possibili payoff del contratto, ciascuno **pesato per la relativa probabilità di accadimento**». Il docente: i possibili payoff sono «i possibili andamenti futuri del sottostante rispetto al prezzo strike» (slide 19; transcript [00:09:51]–[00:10:20]).
-**Opzione:** Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+**R:** Slide 19, sottolineata: «Intuitivamente, il premio dell'opzione è pari al valore, **attualizzato alla data iniziale ($t=0$)**, dei possibili payoff del contratto, ciascuno **pesato per la relativa probabilità di accadimento**». Il docente: i possibili payoff sono «i possibili andamenti futuri del sottostante rispetto al prezzo strike» (slide 19; transcript [00:09:51]–[00:10:20]).
+**Opzione:** Al valore, attualizzato alla data iniziale ($t=0$), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
 **Distrattori:**
-- Al valore, capitalizzato alla data di scadenza (t=T), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Al valore, capitalizzato alla data di scadenza ($t=T$), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
 - Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
 - Il tasso di interesse e il merito di credito dell'emittente.
 
@@ -1887,7 +1939,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
 
 **D:** Con quale rendimento si attualizzano i possibili payoff di un'opzione, e perché, secondo il docente della lezione 05?
-**R:** Il docente: «Attualizzato perché l'opzione avrà una scadenza in cui si realizzeranno gli eventi», e la visione oggi di quegli eventi «non può non tenere in conto anche il **valore finanziario del tempo**, perché in finanza, un po' come in fisica, nulla si crea e nulla si distrugge». Chi investe in un'attività priva di rischio deve avere il **rendimento dell'attività priva di rischio**, e quello «diventa il parametro di riferimento per scontare tutti i possibili flussi di cassa» che a scadenza si generano in base a max(S_T-K,0) (transcript [00:10:20]–[00:11:33]). La slide 19 dice solo «attualizzato alla data iniziale (t=0)».
+**R:** Il docente: «Attualizzato perché l'opzione avrà una scadenza in cui si realizzeranno gli eventi», e la visione oggi di quegli eventi «non può non tenere in conto anche il **valore finanziario del tempo**, perché in finanza, un po' come in fisica, nulla si crea e nulla si distrugge». Chi investe in un'attività priva di rischio deve avere il **rendimento dell'attività priva di rischio**, e quello «diventa il parametro di riferimento per scontare tutti i possibili flussi di cassa» che a scadenza si generano in base a $\max(S_T-K,0)$ (transcript [00:10:20]–[00:11:33]). La slide 19 dice solo «attualizzato alla data iniziale ($t=0$)».
 **Opzione:** Con il rendimento dell'attività priva di rischio, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
 **Distrattori:**
 - Con il rendimento atteso del sottostante, perché la visione oggi degli eventi futuri deve tenere conto del valore finanziario del tempo.
@@ -1899,11 +1951,11 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Opzione:** Rialzista se compra una call, ribassista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
 **Distrattori:**
 - Ribassista se compra una call, rialzista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
-- Al crescere della volatilità σ il valore aumenta sia per la Euro Call sia per la Euro Put.
+- Al crescere della volatilità $\sigma$ il valore aumenta sia per la Euro Call sia per la Euro Put.
 - Non è casuale: maggiore la dimensione dell'ingranaggio, maggiore la sua rilevanza nell'influenzare la quantificazione del prezzo.
 
 **D:** ⚠️ Qual è il payoff a scadenza di una short call?
-**R:** Terza riga della tabella «Opzioni Europee — Payoff a scadenza» (slide 20): «Short Call — **min(K-S_T,0)**». Il docente: chi vende una call si impegna a dare le azioni al buyer quando questi eserciterà l'opzione, cioè soltanto quando il valore del sottostante sarà superiore al prezzo strike; per chi ha venduto una call il payoff a scadenza «non è una funzione massimo tra K-S_T e 0, ma è il **minimo** tra K-S_T ... e 0» (slide 20; transcript [00:13:08]–[00:14:06]). ⚠️ Rispetto alla long put, max(K-S_T,0), cambia solo max in min; rispetto alla short put, min(S_T-K,0), si inverte l'argomento.
+**R:** Terza riga della tabella «Opzioni Europee — Payoff a scadenza» (slide 20): «Short Call — **$\min(K-S_T,0)$**». Il docente: chi vende una call si impegna a dare le azioni al buyer quando questi eserciterà l'opzione, cioè soltanto quando il valore del sottostante sarà superiore al prezzo strike; per chi ha venduto una call il payoff a scadenza «non è una funzione massimo tra $K-S_T$ e 0, ma è il **minimo** tra $K-S_T$ ... e 0» (slide 20; transcript [00:13:08]–[00:14:06]). ⚠️ Rispetto alla long put, $\max(K-S_T,0)$, cambia solo $\max$ in $\min$; rispetto alla short put, $\min(S_T-K,0)$, si inverte l'argomento.
 **Opzione:** min(K-S_T,0)
 **Distrattori:**
 - min(S_T-K,0)
@@ -1916,7 +1968,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Vendere una put espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una call c'è un limite, perché il sottostante non può andare sotto zero.
 - Perché deve essere il prezzo che il mercato ritiene sintetizzi in media i possibili scenari futuri del sottostante: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
-- Al crescere del prezzo di esercizio K il valore della Euro Call si riduce e quello della Euro Put aumenta.
+- Al crescere del prezzo di esercizio $K$ il valore della Euro Call si riduce e quello della Euro Put aumenta.
 
 **D:** Qual è, per il docente della lezione 05, il risultato finanziario delle posizioni in opzioni, e su che cosa scommettono le parti?
 **R:** Il docente: chi ha venduto la call o la put ha **ricevuto** il premio, chi le ha comprate lo ha **pagato**, «e quindi il risultato finanziario è il **payoff rettificato** come abbiamo visto nel grafico per il premio che viene pagato o che viene incassato». Le quattro relazioni della slide 20 qualificano le esposizioni delle parti a «una scommessa implicita sul valore del **sottostante** che è la **variabile aleatoria** perché il prezzo strike è **fisso**» (transcript [00:15:04]–[00:15:54]).
@@ -1927,23 +1979,23 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Il buyer paga al venditore (seller) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
 
 **D:** ⚠️ Che cosa afferma la parità put-call-forward?
-**R:** Slide 21: «Il portafoglio composto da una **long call** e da una **short put** aventi lo stesso sottostante e lo stesso prezzo di esercizio **K** replica perfettamente una **posizione lunga** in un contratto **forward** sul medesimo sottostante nella quale il prezzo a termine sia posto **pari a K**». Il docente: «La call realizza la parte **positiva** del forward rispetto allo strike e la put rappresenta la parte **negativa**» (slide 21; transcript [00:18:14]–[00:19:34]). ⚠️ Long **call** + short **put**, non il contrario.
-**Opzione:** Il portafoglio composto da una long call e da una short put aventi lo stesso sottostante e lo stesso prezzo di esercizio K replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a K.
+**R:** Slide 21: «Il portafoglio composto da una **long call** e da una **short put** aventi lo stesso sottostante e lo stesso prezzo di esercizio **$K$** replica perfettamente una **posizione lunga** in un contratto **forward** sul medesimo sottostante nella quale il prezzo a termine sia posto **pari a $K$**». Il docente: «La call realizza la parte **positiva** del forward rispetto allo strike e la put rappresenta la parte **negativa**» (slide 21; transcript [00:18:14]–[00:19:34]). ⚠️ Long **call** + short **put**, non il contrario.
+**Opzione:** Il portafoglio composto da una long call e da una short put aventi lo stesso sottostante e lo stesso prezzo di esercizio $K$ replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a $K$.
 **Distrattori:**
-- Il portafoglio composto da una long put e da una short call aventi lo stesso sottostante e lo stesso prezzo di esercizio K replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a K.
-- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+- Il portafoglio composto da una long put e da una short call aventi lo stesso sottostante e lo stesso prezzo di esercizio $K$ replica perfettamente una posizione lunga in un contratto forward sul medesimo sottostante nella quale il prezzo a termine sia posto pari a $K$.
+- Il prezzo di esercizio ($K$); il prezzo corrente del sottostante ($S$); la volatilità del prezzo del sottostante ($\sigma$); la vita residua del contratto ($T-t$); il tasso d'interesse ($r$); i dividendi attesi ($\delta$).
 - Il diritto di acquistare (call) o vendere (put) titoli ad un dato prezzo (strike) e ad una certa scadenza (europee) o entro una certa scadenza (americane).
 
 **D:** ⚠️ Quando vale la parità put-call-forward, e con riferimento a quale data si verifica agevolmente?
-**R:** Slide 21: «La parità put-call-forward vale **in qualsiasi momento** della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata **con riferimento alla data di scadenza**». Per questo la slide 22 la dimostra «per t=T». Il docente: «vale in qualsiasi momento della vita dei contratti derivati e può essere agevolmente verificata» (slide 21–22; transcript [00:19:06]). ⚠️ Si verifica alla scadenza, ma non vale **solo** alla scadenza.
+**R:** Slide 21: «La parità put-call-forward vale **in qualsiasi momento** della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata **con riferimento alla data di scadenza**». Per questo la slide 22 la dimostra «per $t=T$». Il docente: «vale in qualsiasi momento della vita dei contratti derivati e può essere agevolmente verificata» (slide 21–22; transcript [00:19:06]). ⚠️ Si verifica alla scadenza, ma non vale **solo** alla scadenza.
 **Opzione:** Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
 **Distrattori:**
 - Vale solo alla data di scadenza dei contratti derivati sopra menzionati, e può essere agevolmente verificata con riferimento a quella data.
 - Dalla somma del valore intrinseco e del valore temporale della stessa.
-- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+- Il posizionamento relativo del valore corrente dell'asset sottostante $S$ rispetto al prezzo di esercizio (strike) $K$; è strettamente legata al valore intrinseco.
 
-**D:** ⚠️ Come si dimostra, per t=T, la parità put-call-forward?
-**R:** Slide 22, «Dimostrazione per t=T»: il payoff di un portafoglio formato da una long call e da una short put con il medesimo strike è «**max(S_T-K,0) - max(K-S_T,0)**», «ossia, utilizzando una nota proprietà delle funzioni di minimo e massimo: **= max(S_T-K,0) + min(S_T-K,0)**», «da cui, ricordando che max(x,0)+min(x,0)=x, segue: **= S_T-K**», «c.v.d.». Per il docente, per passare dal massimo al minimo basta cambiare segno e invertire l'ordine dell'argomento, e S_T-K «non è altro che la rappresentazione della nostra posizione forward» (slide 22; transcript [00:19:34]–[00:20:53]).
+**D:** ⚠️ Come si dimostra, per $t=T$, la parità put-call-forward?
+**R:** Slide 22, «Dimostrazione per $t=T$»: il payoff di un portafoglio formato da una long call e da una short put con il medesimo strike è «**$\max(S_T-K,0) - \max(K-S_T,0)$**», «ossia, utilizzando una nota proprietà delle funzioni di minimo e massimo: **$= \max(S_T-K,0) + \min(S_T-K,0)$**», «da cui, ricordando che $\max(x,0)+\min(x,0)=x$, segue: **$= S_T-K$**», «c.v.d.». Per il docente, per passare dal massimo al minimo basta cambiare segno e invertire l'ordine dell'argomento, e $S_T-K$ «non è altro che la rappresentazione della nostra posizione forward» (slide 22; transcript [00:19:34]–[00:20:53]).
 **Opzione:** max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
 **Distrattori:**
 - max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = K-S_T
@@ -1951,7 +2003,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Y=[X-E(X)]/σ_X
 
 **D:** ⚠️ Quale relazione fra le funzioni di massimo e di minimo chiude la dimostrazione della parità put-call-forward?
-**R:** Slide 22: «da cui, ricordando che **max(x,0)+min(x,0)=x**, segue: = S_T-K». Il docente: «il massimo tra x e 0 e il minimo tra x e 0 sommati è uguale a x» (slide 22; transcript [00:20:34]). Il passaggio precedente usa un'altra proprietà: -max(K-S_T,0) = min(S_T-K,0), cioè si cambia segno e si inverte l'ordine dell'argomento ([00:20:08]).
+**R:** Slide 22: «da cui, ricordando che **$\max(x,0)+\min(x,0)=x$**, segue: $= S_T-K$». Il docente: «il massimo tra x e 0 e il minimo tra x e 0 sommati è uguale a x» (slide 22; transcript [00:20:34]). Il passaggio precedente usa un'altra proprietà: $-\max(K-S_T,0) = \min(S_T-K,0)$, cioè si cambia segno e si inverte l'ordine dell'argomento ([00:20:08]).
 **Opzione:** max(x,0)+min(x,0)=x
 **Distrattori:**
 - max(x,0)-min(x,0)=x
@@ -1967,43 +2019,43 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Dal prezzo futures.
 
 **D:** ⚠️ Che cosa riflette la moneyness di un'opzione, e a quale concetto è strettamente legata?
-**R:** Slide 23: «Il concetto di **valore intrinseco** è strettamente legato a quello di **moneyness** dell'opzione che riflette il **posizionamento relativo** del valore corrente dell'asset sottostante **S** rispetto al prezzo di esercizio (strike) dell'opzione, denotato con **K**». Il docente parla di «rapporto esistente tra il prezzo del sottostante e il prezzo strike» (slide 23; transcript [00:21:23]–[00:21:42]).
-**Opzione:** Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore intrinseco.
+**R:** Slide 23: «Il concetto di **valore intrinseco** è strettamente legato a quello di **moneyness** dell'opzione che riflette il **posizionamento relativo** del valore corrente dell'asset sottostante **$S$** rispetto al prezzo di esercizio (strike) dell'opzione, denotato con **$K$**». Il docente parla di «rapporto esistente tra il prezzo del sottostante e il prezzo strike» (slide 23; transcript [00:21:23]–[00:21:42]).
+**Opzione:** Il posizionamento relativo del valore corrente dell'asset sottostante $S$ rispetto al prezzo di esercizio (strike) $K$; è strettamente legata al valore intrinseco.
 **Distrattori:**
-- Il posizionamento relativo del valore corrente dell'asset sottostante S rispetto al prezzo di esercizio (strike) K; è strettamente legata al valore temporale.
-- Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Il posizionamento relativo del valore corrente dell'asset sottostante $S$ rispetto al prezzo di esercizio (strike) $K$; è strettamente legata al valore temporale.
+- Al valore, attualizzato alla data iniziale ($t=0$), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
 - Il tasso di interesse e il merito di credito dell'emittente.
 
 **D:** ⚠️ Quando una call è in the money, at the money e out of the money?
-**R:** Tabella della slide 24, riga «Call»: **in the money (ITM)** S_t>K, **at the money (ATM)** S_t=K, **out of the money (OTM)** S_t<K. Il docente: la call è in the money quando il prezzo del sottostante è maggiore dello strike, «cioè genera risultato positivo»; at the money quando è uguale, «identico sia per la call che per la put»; out of the money quando è inferiore (slide 24; transcript [00:21:44]–[00:23:08]). ⚠️ Per la put ITM e OTM si scambiano.
-**Opzione:** In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
+**R:** Tabella della slide 24, riga «Call»: **in the money (ITM)** $S_t>K$, **at the money (ATM)** $S_t=K$, **out of the money (OTM)** $S_t<K$. Il docente: la call è in the money quando il prezzo del sottostante è maggiore dello strike, «cioè genera risultato positivo»; at the money quando è uguale, «identico sia per la call che per la put»; out of the money quando è inferiore (slide 24; transcript [00:21:44]–[00:23:08]). ⚠️ Per la put ITM e OTM si scambiano.
+**Opzione:** In the money (ITM) se $S_t>K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t<K$.
 **Distrattori:**
-- In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+- In the money (ITM) se $S_t<K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t>K$.
 - Diminuisce all'approssimarsi della scadenza.
-- max(x,0)+min(x,0)=x
+- $\max(x,0)+\min(x,0)=x$
 
 **D:** ⚠️ Quando una put è in the money, at the money e out of the money?
-**R:** Tabella della slide 24, riga «Put»: **in the money (ITM)** S_t<K, **at the money (ATM)** S_t=K, **out of the money (OTM)** S_t>K. Il docente: la put è in the money quando S è minore di K, «perché la long put genera risultato positivo ... quando il sottostante sta sotto lo strike»; è out of the money e «vale zero quando il valore sottostante ha superato il prezzo strike» (slide 24; transcript [00:22:10]–[00:23:33]). ⚠️ È il rovescio della call; at the money è uguale per entrambe.
-**Opzione:** In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+**R:** Tabella della slide 24, riga «Put»: **in the money (ITM)** $S_t<K$, **at the money (ATM)** $S_t=K$, **out of the money (OTM)** $S_t>K$. Il docente: la put è in the money quando $S$ è minore di $K$, «perché la long put genera risultato positivo ... quando il sottostante sta sotto lo strike»; è out of the money e «vale zero quando il valore sottostante ha superato il prezzo strike» (slide 24; transcript [00:22:10]–[00:23:33]). ⚠️ È il rovescio della call; at the money è uguale per entrambe.
+**Opzione:** In the money (ITM) se $S_t<K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t>K$.
 **Distrattori:**
-- In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
-- max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
-- max(x,0)+min(x,0)=x
+- In the money (ITM) se $S_t>K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t<K$.
+- $\max(S_T-K,0) - \max(K-S_T,0) = \max(S_T-K,0) + \min(S_T-K,0) = S_T-K$
+- $\max(x,0)+\min(x,0)=x$
 
 **D:** ⚠️ Quali sono le sei variabili che determinano il valore di un'opzione, nell'ordine della slide?
-**R:** Slide 25, «Cosa determina il valore di un'opzione?»: 1) Il prezzo di esercizio (**K**); 2) Il prezzo corrente del sottostante (**S**); 3) La volatilità del prezzo del sottostante (**σ**); 4) La vita residua del contratto (**T-t**); 5) Il tasso d'interesse (**r**); 6) I **dividendi attesi** (**δ**). Il docente le chiama «le sei variabili che quantificano il valore di un'opzione»; r è il tasso «che qualifica il valore finanziario del tempo» (slide 25; transcript [00:23:56]–[00:24:24]). ⚠️ Il premio non è fra le variabili: è il prezzo che ne risulta.
-**Opzione:** Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+**R:** Slide 25, «Cosa determina il valore di un'opzione?»: 1) Il prezzo di esercizio (**$K$**); 2) Il prezzo corrente del sottostante (**$S$**); 3) La volatilità del prezzo del sottostante (**$\sigma$**); 4) La vita residua del contratto (**$T-t$**); 5) Il tasso d'interesse (**$r$**); 6) I **dividendi attesi** (**$\delta$**). Il docente le chiama «le sei variabili che quantificano il valore di un'opzione»; $r$ è il tasso «che qualifica il valore finanziario del tempo» (slide 25; transcript [00:23:56]–[00:24:24]). ⚠️ Il premio non è fra le variabili: è il prezzo che ne risulta.
+**Opzione:** Il prezzo di esercizio ($K$); il prezzo corrente del sottostante ($S$); la volatilità del prezzo del sottostante ($\sigma$); la vita residua del contratto ($T-t$); il tasso d'interesse ($r$); i dividendi attesi ($\delta$).
 **Distrattori:**
-- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); il premio pagato dal buyer.
+- Il prezzo di esercizio ($K$); il prezzo corrente del sottostante ($S$); la volatilità del prezzo del sottostante ($\sigma$); la vita residua del contratto ($T-t$); il tasso d'interesse ($r$); il premio pagato dal buyer.
 - Il buyer paga al venditore (seller) un premio alla data di stipula, pari al valore equo (fair value) dell'opzione a quella data.
 - È l'area fra la curva del prezzo prima della scadenza e il valore intrinseco: nasce dall'incertezza sul valore intrinseco prima della scadenza.
 
 **D:** Perché i dividendi influiscono sul valore di un'opzione, secondo il docente della lezione 05?
-**R:** Il docente: «quando viene distribuito e staccato un dividendo notate che in borsa il giorno dei dividendi il **prezzo dell'azione scende**. Perché? Perché il dividendo ha levato valore alla società, ha levato **cassa** alla società», e il valore dell'azione risente dello stacco (transcript [00:24:24]–[00:24:55]). Per lo stesso motivo nella tabella delle sensitività i dividendi attesi δ hanno segno **-** per la Euro Call e **+** per la Euro Put (slide 33).
+**R:** Il docente: «quando viene distribuito e staccato un dividendo notate che in borsa il giorno dei dividendi il **prezzo dell'azione scende**. Perché? Perché il dividendo ha levato valore alla società, ha levato **cassa** alla società», e il valore dell'azione risente dello stacco (transcript [00:24:24]–[00:24:55]). Per lo stesso motivo nella tabella delle sensitività i dividendi attesi $\delta$ hanno segno **-** per la Euro Call e **+** per la Euro Put (slide 33).
 **Opzione:** Perché quando un dividendo viene staccato il prezzo dell'azione scende: il dividendo ha levato cassa e valore alla società.
 **Distrattori:**
 - Perché quando un dividendo viene staccato il prezzo dell'azione sale: il dividendo distribuito accresce il valore dell'azione.
-- Al valore, attualizzato alla data iniziale (t=0), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
+- Al valore, attualizzato alla data iniziale ($t=0$), dei possibili payoff del contratto, ciascuno pesato per la relativa probabilità di accadimento.
 - Come uno spostamento dell'asse delle ascisse lungo l'ordinata, verso l'alto, di una quantità esattamente pari al valore del premio.
 
 **D:** Che cosa indica, per il docente, la dimensione degli ingranaggi nella figura «Cosa determina il valore di un'opzione?»
@@ -2012,7 +2064,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - È casuale: la dimensione dell'ingranaggio non indica la sua rilevanza nell'influenzare la quantificazione del prezzo.
 - Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
-- Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
+- Al crescere della vita residua $T-t$ il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
 
 **D:** Che cosa vuol dire sensitività, e da quale presupposto parte la tabella della lezione 05?
 **R:** Il docente: la sensitività «vuol dire aumento il valore di quella variabile, cosa succede al prezzo dell'opzione? Riduco il valore di quella variabile, cosa succede al prezzo dell'opzione?». La tabella delle slide 28–33, con le colonne «Euro Call» e «Euro Put», parte «dal presupposto dell'**acquisto** di una call europea e dell'**acquisto** di una put europea». Le sensitività si studieranno analiticamente con il concetto di **greche** (slide 28; transcript [00:23:33], [00:26:42]–[00:27:18]).
@@ -2020,58 +2072,58 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 **Distrattori:**
 - Che cosa succede al prezzo dell'opzione se aumenta o si riduce il valore di una variabile; la tabella parte dalla vendita di una call europea e di una put europea.
 - Vale in qualsiasi momento della vita dei contratti derivati sopra menzionati e può essere agevolmente verificata con riferimento alla data di scadenza.
-- Il prezzo di esercizio (K); il prezzo corrente del sottostante (S); la volatilità del prezzo del sottostante (σ); la vita residua del contratto (T-t); il tasso d'interesse (r); i dividendi attesi (δ).
+- Il prezzo di esercizio ($K$); il prezzo corrente del sottostante ($S$); la volatilità del prezzo del sottostante ($\sigma$); la vita residua del contratto ($T-t$); il tasso d'interesse ($r$); i dividendi attesi ($\delta$).
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo di esercizio K?
-**R:** Riga K della tabella (slide 28–33): Euro Call **-**, Euro Put **+**. Il docente: «più il prezzo strike aumenta, più il sottostante deve camminare, deve crescere per fare in modo che la call diventi in the money», quindi il prezzo della call si riduce; per la put, più sale lo strike più aumentano gli eventi con valore intrinseco positivo, K-S, e «maggiore il valore dello strike maggiore è il valore della put» (transcript [00:27:18]–[00:28:34]).
-**Opzione:** Al crescere del prezzo di esercizio K il valore della Euro Call si riduce e quello della Euro Put aumenta.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo di esercizio $K$?
+**R:** Riga $K$ della tabella (slide 28–33): Euro Call **-**, Euro Put **+**. Il docente: «più il prezzo strike aumenta, più il sottostante deve camminare, deve crescere per fare in modo che la call diventi in the money», quindi il prezzo della call si riduce; per la put, più sale lo strike più aumentano gli eventi con valore intrinseco positivo, $K-S$, e «maggiore il valore dello strike maggiore è il valore della put» (transcript [00:27:18]–[00:28:34]).
+**Opzione:** Al crescere del prezzo di esercizio $K$ il valore della Euro Call si riduce e quello della Euro Put aumenta.
 **Distrattori:**
-- Al crescere del prezzo di esercizio K il valore della Euro Call aumenta e quello della Euro Put si riduce.
+- Al crescere del prezzo di esercizio $K$ il valore della Euro Call aumenta e quello della Euro Put si riduce.
 - Perché deve essere il prezzo che il mercato ritiene sintetizzi in media i possibili scenari futuri del sottostante: altrimenti, operando su più mercati, si potrebbe realizzare un arbitraggio.
 - Vendere una call espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una put c'è un limite, perché il sottostante non può andare sotto zero.
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo corrente del sottostante S?
-**R:** Riga S della tabella (slide 29–33): Euro Call **+**, Euro Put **-**. Il docente: più il sottostante cresce, più cresce il valore intrinseco S-K e quindi il valore della call, mentre «più il sottostante cresce più si riduce il valore della put perché l'opzione put sta andando **out of the money**» (transcript [00:28:34]–[00:29:25]).
-**Opzione:** Al crescere del prezzo corrente del sottostante S il valore della Euro Call aumenta e quello della Euro Put si riduce.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del prezzo corrente del sottostante $S$?
+**R:** Riga $S$ della tabella (slide 29–33): Euro Call **+**, Euro Put **-**. Il docente: più il sottostante cresce, più cresce il valore intrinseco $S-K$ e quindi il valore della call, mentre «più il sottostante cresce più si riduce il valore della put perché l'opzione put sta andando **out of the money**» (transcript [00:28:34]–[00:29:25]).
+**Opzione:** Al crescere del prezzo corrente del sottostante $S$ il valore della Euro Call aumenta e quello della Euro Put si riduce.
 **Distrattori:**
-- Al crescere del prezzo corrente del sottostante S il valore della Euro Call si riduce e quello della Euro Put aumenta.
+- Al crescere del prezzo corrente del sottostante $S$ il valore della Euro Call si riduce e quello della Euro Put aumenta.
 - Perché la controparte acquirente (buyer) compra il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
 - Diminuisce all'approssimarsi della scadenza.
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della volatilità σ?
-**R:** Riga σ della tabella (slide 30–33): **+** per la Euro Call e **+** per la Euro Put. È l'unica riga con lo **stesso segno** nelle due colonne. Il docente: «call o put che sia», «più è la volatilità, più l'opzione ha valore»; la volatilità determina maggiori oscillazioni del sottostante, cioè «più spazio degli eventi», e più probabilità che la call o la put diventino in the money o «addirittura **deep in the money**». «E quindi il segno è positivo per entrambi» (transcript [00:29:25]–[00:30:08]).
-**Opzione:** Al crescere della volatilità σ il valore aumenta sia per la Euro Call sia per la Euro Put.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della volatilità $\sigma$?
+**R:** Riga $\sigma$ della tabella (slide 30–33): **+** per la Euro Call e **+** per la Euro Put. È l'unica riga con lo **stesso segno** nelle due colonne. Il docente: «call o put che sia», «più è la volatilità, più l'opzione ha valore»; la volatilità determina maggiori oscillazioni del sottostante, cioè «più spazio degli eventi», e più probabilità che la call o la put diventino in the money o «addirittura **deep in the money**». «E quindi il segno è positivo per entrambi» (transcript [00:29:25]–[00:30:08]).
+**Opzione:** Al crescere della volatilità $\sigma$ il valore aumenta sia per la Euro Call sia per la Euro Put.
 **Distrattori:**
-- Al crescere della volatilità σ il valore aumenta per la Euro Call e si riduce per la Euro Put.
-- max(S_T-K,0) - max(K-S_T,0) = max(S_T-K,0) + min(S_T-K,0) = S_T-K
+- Al crescere della volatilità $\sigma$ il valore aumenta per la Euro Call e si riduce per la Euro Put.
+- $\max(S_T-K,0) - \max(K-S_T,0) = \max(S_T-K,0) + \min(S_T-K,0) = S_T-K$
 - Perché la controparte acquirente (buyer) compra il diritto di scegliere se esercitare o meno l'opzione, evidentemente in base alla propria convenienza al momento di effettuare la scelta.
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della vita residua T-t?
-**R:** Riga T-t della tabella (slide 31–33): Euro Call **+**, Euro Put **?**. Il docente: «nel caso della call più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione»; per la put il sottostante non può scendere sotto zero e il massimo guadagno è K-S, quindi il tempo «può avere un **effetto distorsivo**» e, a seconda della moneyness, «un risultato positivo o negativo» (transcript [00:30:08]–[00:31:10]). ⚠️ Il docente apre la riga dicendo «il valore intrinseco ... non ha una connotazione univoca»: la riga della slide è la vita residua.
-**Opzione:** Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere della vita residua $T-t$?
+**R:** Riga $T-t$ della tabella (slide 31–33): Euro Call **+**, Euro Put **?**. Il docente: «nel caso della call più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione»; per la put il sottostante non può scendere sotto zero e il massimo guadagno è $K-S$, quindi il tempo «può avere un **effetto distorsivo**» e, a seconda della moneyness, «un risultato positivo o negativo» (transcript [00:30:08]–[00:31:10]). ⚠️ Il docente apre la riga dicendo «il valore intrinseco ... non ha una connotazione univoca»: la riga della slide è la vita residua.
+**Opzione:** Al crescere della vita residua $T-t$ il valore della Euro Call aumenta; per la Euro Put l'effetto è incerto (?), positivo o negativo a seconda della moneyness.
 **Distrattori:**
-- Al crescere della vita residua T-t il valore della Euro Call aumenta; per la Euro Put si riduce sempre, perché il sottostante non può andare sotto zero.
+- Al crescere della vita residua $T-t$ il valore della Euro Call aumenta; per la Euro Put si riduce sempre, perché il sottostante non può andare sotto zero.
 - Vendere una call espone il venditore a un rischio indefinito, perché a scadenza il sottostante può salire indefinitamente; nella vendita di una put c'è un limite, perché il sottostante non può andare sotto zero.
-- Vale 0 se il sottostante sta sotto lo strike K e S-K se il sottostante sta sopra K.
+- Vale 0 se il sottostante sta sotto lo strike $K$ e $S-K$ se il sottostante sta sopra $K$.
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del tasso d'interesse r?
-**R:** Riga r della tabella (slide 32–33): Euro Call **+**, Euro Put **-**. Il docente: per la call, che è la possibilità di comprare un'attività finanziaria a una certa scadenza, il tasso, che è il valore finanziario del tempo, «esprime un valore finanziario positivo»; per la put, che è una vendita, «il valore finanziario rema contro», perché rispetto a un investimento privo di rischio si rinuncia alla redditività r (transcript [00:31:10]–[00:32:04]). ⚠️ I segni di r sono quelli di S, opposti a quelli di δ.
-**Opzione:** Al crescere del tasso d'interesse r il valore della Euro Call aumenta e quello della Euro Put si riduce.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere del tasso d'interesse $r$?
+**R:** Riga $r$ della tabella (slide 32–33): Euro Call **+**, Euro Put **-**. Il docente: per la call, che è la possibilità di comprare un'attività finanziaria a una certa scadenza, il tasso, che è il valore finanziario del tempo, «esprime un valore finanziario positivo»; per la put, che è una vendita, «il valore finanziario rema contro», perché rispetto a un investimento privo di rischio si rinuncia alla redditività $r$ (transcript [00:31:10]–[00:32:04]). ⚠️ I segni di $r$ sono quelli di $S$, opposti a quelli di $\delta$.
+**Opzione:** Al crescere del tasso d'interesse $r$ il valore della Euro Call aumenta e quello della Euro Put si riduce.
 **Distrattori:**
-- Al crescere del tasso d'interesse r il valore della Euro Call si riduce e quello della Euro Put aumenta.
+- Al crescere del tasso d'interesse $r$ il valore della Euro Call si riduce e quello della Euro Put aumenta.
 - Rialzista se compra una call, ribassista se compra una put; il rialzo o il ribasso dell'azione deve compensare il premio pagato.
-- In the money (ITM) se S_t<K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t>K.
+- In the money (ITM) se $S_t<K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t>K$.
 
-**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere dei dividendi attesi δ?
-**R:** Riga δ della tabella (slide 33): Euro Call **-**, Euro Put **+**. Il docente: «il dividendo gioca invece in senso opposto perché il dividendo sottraendo valore sottrae valore»: per la call abbatte il valore dell'azione e la porta verso scenari out o at the money; per la put «è l'esatto opposto», perché se il prezzo scende la put va in the money (transcript [00:32:04]–[00:32:54]). ⚠️ I segni di δ sono quelli di K, opposti a quelli di r.
-**Opzione:** Al crescere dei dividendi attesi δ il valore della Euro Call si riduce e quello della Euro Put aumenta.
+**D:** ⚠️ Come variano il valore della Euro Call e quello della Euro Put al crescere dei dividendi attesi $\delta$?
+**R:** Riga $\delta$ della tabella (slide 33): Euro Call **-**, Euro Put **+**. Il docente: «il dividendo gioca invece in senso opposto perché il dividendo sottraendo valore sottrae valore»: per la call abbatte il valore dell'azione e la porta verso scenari out o at the money; per la put «è l'esatto opposto», perché se il prezzo scende la put va in the money (transcript [00:32:04]–[00:32:54]). ⚠️ I segni di $\delta$ sono quelli di $K$, opposti a quelli di $r$.
+**Opzione:** Al crescere dei dividendi attesi $\delta$ il valore della Euro Call si riduce e quello della Euro Put aumenta.
 **Distrattori:**
-- Al crescere dei dividendi attesi δ il valore della Euro Call aumenta e quello della Euro Put si riduce.
-- In the money (ITM) se S_t>K, at the money (ATM) se S_t=K, out of the money (OTM) se S_t<K.
+- Al crescere dei dividendi attesi $\delta$ il valore della Euro Call aumenta e quello della Euro Put si riduce.
+- In the money (ITM) se $S_t>K$, at the money (ATM) se $S_t=K$, out of the money (OTM) se $S_t<K$.
 - Nell'europea il diritto vale ad una certa scadenza, nell'americana entro una certa scadenza.
 
 **D:** ⚠️ Quanto vale il valore intrinseco di un'opzione put, secondo il test della lezione 05 (domanda 1)?
-**R:** «**È pari a K-S**». Nel grafico «La PUT» la slide 10 scrive **K-S** nel triangolo del payoff fra 0 e K, e la slide 11 indica come «Valore intrinseco» sia il tratto **K-S**, per S < K, sia lo **0**, per S > K. Il docente lo dice a voce: se il prezzo del sottostante è maggiore dello strike la put ha un valore intrinseco pari a zero, se è inferiore «avremo un valore intrinseco e quindi un potenziale guadagno per chi ha comprato questa put dato da K-S» (transcript [00:03:38]–[00:04:21]). La chiave è giusta ma semplificata: K-S vale quando la put è in the money, S_t < K (slide 24). Distrattori del test: «è pari a S-K» è il valore intrinseco della **call** (slide 5–6; [00:02:05]), un oggetto scambiato; «è sempre minore del valore temporale» è un quantificatore assoluto, smentito dal grafico della slide 13, dove per S molto minore di K il valore temporale si assottiglia mentre K-S cresce; «coincide col valore temporale solo per t < T» è una condizione che né le slide né il transcript contengono.
+**R:** «**È pari a K-S**». Nel grafico «La PUT» la slide 10 scrive **$K-S$** nel triangolo del payoff fra 0 e $K$, e la slide 11 indica come «Valore intrinseco» sia il tratto **$K-S$**, per $S < K$, sia lo **0**, per $S > K$. Il docente lo dice a voce: se il prezzo del sottostante è maggiore dello strike la put ha un valore intrinseco pari a zero, se è inferiore «avremo un valore intrinseco e quindi un potenziale guadagno per chi ha comprato questa put dato da K-S» (transcript [00:03:38]–[00:04:21]). La chiave è giusta ma semplificata: $K-S$ vale quando la put è in the money, $S_t < K$ (slide 24). Distrattori del test: «è pari a S-K» è il valore intrinseco della **call** (slide 5–6; [00:02:05]), un oggetto scambiato; «è sempre minore del valore temporale» è un quantificatore assoluto, smentito dal grafico della slide 13, dove per $S$ molto minore di $K$ il valore temporale si assottiglia mentre $K-S$ cresce; «coincide col valore temporale solo per t < T» è una condizione che né le slide né il transcript contengono.
 **Opzione:** È pari a K-S.
 **Distrattori:**
 - È sempre minore del valore temporale.
@@ -2079,7 +2131,7 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - Coincide col valore temporale solo per t < T.
 
 **D:** ⚠️ Come varia il valore temporale di un'opzione call, secondo il test della lezione 05 (domanda 2)?
-**R:** «**Diminuisce all'approssimarsi della scadenza**». ⚠️ La chiave **non è testuale**, né nelle slide né nel transcript: si **deduce**. La slide 8 mostra il valore temporale della call come l'area fra il «prezzo prima della scadenza» e il payoff; il docente dice che a scadenza la call vale S-K o 0, e che il valore temporale nasce dall'incertezza che c'è «prima della scadenza» (transcript [00:02:46]–[00:03:38]). Nella tabella delle slide 31–33 la vita residua T-t ha un **+** per la Euro Call: «più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione» ([00:30:16]). Distrattori del test: «aumenta all'approssimarsi della scadenza» è il **segno invertito**; «è maggiore del suo valore intrinseco» nel grafico della slide 8 vale dove il valore intrinseco è 0, non per S molto maggiore di K, quindi non è una proprietà generale; «è sempre maggiore del valore temporale di un'opzione put» è un quantificatore assoluto senza appoggio nei materiali, dove per la Euro Put la riga T-t porta un **?**.
+**R:** «**Diminuisce all'approssimarsi della scadenza**». ⚠️ La chiave **non è testuale**, né nelle slide né nel transcript: si **deduce**. La slide 8 mostra il valore temporale della call come l'area fra il «prezzo prima della scadenza» e il payoff; il docente dice che a scadenza la call vale $S-K$ o 0, e che il valore temporale nasce dall'incertezza che c'è «prima della scadenza» (transcript [00:02:46]–[00:03:38]). Nella tabella delle slide 31–33 la vita residua $T-t$ ha un **+** per la Euro Call: «più tempo ho a disposizione più ho possibilità che si generino dei valori positivi per la mia opzione» ([00:30:16]). Distrattori del test: «aumenta all'approssimarsi della scadenza» è il **segno invertito**; «è maggiore del suo valore intrinseco» nel grafico della slide 8 vale dove il valore intrinseco è 0, non per $S$ molto maggiore di $K$, quindi non è una proprietà generale; «è sempre maggiore del valore temporale di un'opzione put» è un quantificatore assoluto senza appoggio nei materiali, dove per la Euro Put la riga $T-t$ porta un **?**.
 **Opzione:** Diminuisce all'approssimarsi della scadenza.
 **Distrattori:**
 - È maggiore del suo valore intrinseco.
@@ -2095,14 +2147,14 @@ L27/f-1w7sdux f-00iphps 1mdn7z2 1c6m21o
 - max(K-S_T,0)
 
 **D:** ⚠️ Qual è il pay-off a scadenza di una long put, secondo il test della lezione 05 (domanda 4)?
-**R:** «**max(K-S_T,0)**». È la seconda riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: «sono long put e in questo caso mi troverò invece il massimo tra K meno S_T e zero», perché con la put si ha il diritto di vendere e si guadagna quando il titolo va sotto lo strike (transcript [00:12:35]–[00:13:08]). ⚠️ **Domanda difettosa**: le opzioni **A** e **C** sono **identiche**, «max(K-S_T,0)», e la piattaforma segna la **A**, la prima delle due. Distrattori del test: «min(S_T-K,0)» è la riga della **short put**, «max(S_T-K,0)» quella della **long call**.
+**R:** «**max(K-S_T,0)**». È la seconda riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: «sono long put e in questo caso mi troverò invece il massimo tra K meno $S_T$ e zero», perché con la put si ha il diritto di vendere e si guadagna quando il titolo va sotto lo strike (transcript [00:12:35]–[00:13:08]). ⚠️ **Domanda difettosa**: le opzioni **A** e **C** sono **identiche**, «max(K-S_T,0)», e la piattaforma segna la **A**, la prima delle due. Distrattori del test: «min(S_T-K,0)» è la riga della **short put**, «max(S_T-K,0)» quella della **long call**.
 **Opzione:** max(K-S_T,0)
 **Distrattori:**
 - min(S_T-K,0)
 - max(S_T-K,0)
 
 **D:** ⚠️ Qual è il pay-off a scadenza di una short put, secondo il test della lezione 05 (domanda 5)?
-**R:** «**min(S_T-K,0)**». È l'ultima riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: il payoff a scadenza di chi ha venduto una put «è il minimo del payoff della long call», cioè min(S_T-K,0) (transcript [00:14:06]–[00:15:04]). La slide 22 lo conferma: -max(K-S_T,0) = min(S_T-K,0), «utilizzando una nota proprietà delle funzioni di minimo e massimo» ([00:20:08]). Distrattori del test: le opzioni **A** e **C** sono identiche, «max(K-S_T,0)», cioè il pay-off della **long put**, con il segno opposto; ⚠️ «max(S_T-K,1)» non esiste nei materiali, come nella domanda 3.
+**R:** «**min(S_T-K,0)**». È l'ultima riga della tabella «Payoff a scadenza» delle opzioni europee, alla lettera (slide 20). Il docente: il payoff a scadenza di chi ha venduto una put «è il minimo del payoff della long call», cioè $\min(S_T-K,0)$ (transcript [00:14:06]–[00:15:04]). La slide 22 lo conferma: $-\max(K-S_T,0) = \min(S_T-K,0)$, «utilizzando una nota proprietà delle funzioni di minimo e massimo» ([00:20:08]). Distrattori del test: le opzioni **A** e **C** sono identiche, «max(K-S_T,0)», cioè il pay-off della **long put**, con il segno opposto; ⚠️ «max(S_T-K,1)» non esiste nei materiali, come nella domanda 3.
 **Opzione:** min(S_T-K,0)
 **Distrattori:**
 - max(K-S_T,0)
