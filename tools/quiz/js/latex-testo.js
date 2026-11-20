@@ -8,9 +8,9 @@
 //   - trovaFormule(): divide un testo in segmenti di prosa e di formula;
 //   - testoVisibile(): sostituisce ogni formula con la sua resa in Unicode
 //     lineare, la stessa notazione con cui sono scritte le lezioni non ancora
-//     convertite (`S_te^(r(T-t))`, `σ²`, `𝟙_{A∪B}`). È ciò che usano le misure
-//     del profilo d'esame, così una card convertita e una no si confrontano
-//     alla pari;
+//     convertite (`S_te^(r(T-t))`, `σ²`, `𝟙_{A∪B}`). Con `{ spazi: true }` è
+//     ciò che usano le misure del profilo d'esame, così una card convertita e
+//     una no si confrontano alla pari;
 //   - canonEquivalenza(): la forma su cui la conversione di una lezione viene
 //     confrontata con l'originale. Ignora spazi e parentesi di raggruppamento,
 //     ma NON pedici e apici.
@@ -249,7 +249,7 @@ const FRAZ_B = '\u0003';
  * ma `∂f/∂S`), e la frazione intera fra parentesi solo se qualcosa le si
  * accosta (`(1/2)σ²`, `(∂f/∂S)[…]`, ma `x = a/b`).
  */
-function risolviFrazioni(t) {
+function risolviFrazioni(t, spazi = false) {
   let out = t;
   for (;;) {
     const fine = out.indexOf(FRAZ_B);
@@ -257,14 +257,31 @@ function risolviFrazioni(t) {
     const inizio = out.lastIndexOf(FRAZ_A, fine);
     if (inizio < 0) return out.replace(/[\u0002\u0003]/g, '');
     const corpo = out.slice(inizio + 1, fine);
-    const prima = Array.from(out.slice(0, inizio)).pop();
-    const dopo = Array.from(out.slice(fine + 1))[0];
+    // Con `spazi` (vedi convertiFormula) lo spazio del sorgente non stacca la
+    // frazione: `\frac{1}{2} \sigma^2` è «(1/2) σ²» come `\frac{1}{2}\sigma^2`.
+    const sx = out.slice(0, inizio);
+    const dx = out.slice(fine + 1);
+    const prima = Array.from(spazi ? sx.replace(/ +$/, '') : sx).pop();
+    const dopo = Array.from(spazi ? dx.replace(/^ +/, '') : dx)[0];
     const serve = !staccaPrima(prima) || !staccaDopo(dopo);
     out = out.slice(0, inizio) + (serve ? `(${corpo})` : corpo) + out.slice(fine + 1);
   }
 }
 
 const APICI = { 2: '²', 3: '³' };
+
+// Spazi con nome: con `spazi` valgono uno spazio, come `\,` e `\quad`.
+const SPAZI_NOMINATI = new Set(['enspace', 'thinspace', 'medspace', 'thickspace']);
+
+// Parole di controllo rese come una lettera (o come niente): lo spazio che le
+// segue, davanti a una lettera, serve solo a chiuderne il nome (`\mu S`, non
+// `\muS`) e a schermo non si vede. Dopo una relazione o un operatore
+// (`x \leq T`, `a \cdot b`) lo spazio invece è di chi scrive, e resta.
+const COME_LETTERE = new Set([
+  ...Object.keys(GRECHE),
+  'partial', 'nabla', 'infty', 'ell', 'hbar', 'Re', 'Im', 'aleph', 'emptyset', 'varnothing', 'prime', 'dagger',
+  ...[...INVISIBILI].filter((x) => x !== 'quad' && x !== 'qquad' && !SPAZI_NOMINATI.has(x)),
+]);
 
 // Le relazioni del livello più esterno si staccano con uno spazio, come
 // nella notazione lineare («dπ = df - ΔdS»); dentro pedici e apici no
@@ -277,17 +294,28 @@ const RELAZIONI = new Set(['=', '≜', '≈', '≤', '≥', '≠', '≡', '≟',
  * Un comando sconosciuto resta scritto `\nome`: così il controllo
  * d'equivalenza lo segnala invece di inghiottirlo.
  *
- * Gli spazi del sorgente non contano, come in TeX: la notazione lineare
- * scrive attaccato ciò che in LaTeX si separa per leggibilità («μSdt», non
- * «μ S dt»), e solo così le parole dei due testi coincidono.
+ * Di norma gli spazi del sorgente non contano, come in TeX. Con `spazi`
+ * (le misure del profilo, vedi testoVisibile) restano invece quelli che
+ * separano due atomi, ridotti a uno: la notazione lineare li scriveva
+ * («C^d S^u», «f(x) dx»), e senza di loro `parole()` fonde due simboli in
+ * una parola sola («C^dS^u» → «ds»). Non resta lo spazio che chiude il nome
+ * di un comando reso come una lettera davanti a un'altra lettera (`\mu S` è
+ * «μS»: senza, sarebbe `\muS`; vedi COME_LETTERE), né quello dopo una
+ * parentesi aperta o prima di una chiusa o di una virgola. `\,`, `\:`, `\;`,
+ * `\>` e gli spazi con nome sono spazi visibili e valgono uno spazio; le
+ * relazioni non ricevono spazi d'ufficio, tengono quelli del sorgente, e la
+ * frazione si mette fra parentesi guardando oltre gli spazi.
  */
-function convertiFormula(sorgente, esterno = false, risolvi = true) {
+function convertiFormula(sorgente, esterno = false, risolvi = true, spazi = false) {
   // Le sentinelle delle frazioni non possono venire dal sorgente.
   const src = sorgente.replace(/[\u0002\u0003]/g, '');
   let i = 0;
   const n = src.length;
 
   const saltaSpazi = () => { while (i < n && SPAZIO.test(src[i])) i++; };
+  // L'ultima parola di controllo letta (anche dentro un argomento: in
+  // `\hat\beta x` è beta), per gli spazi di COME_LETTERE.
+  let ultimaParola = '';
 
   // Contenuto grezzo di un gruppo `{…}` che comincia in i (src[i] === '{').
   function gruppoGrezzo() {
@@ -305,7 +333,7 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
   function argomento() {
     saltaSpazi();
     if (i >= n) return { testo: '', gruppo: false };
-    if (src[i] === '{') return { testo: convertiFormula(gruppoGrezzo()), gruppo: true };
+    if (src[i] === '{') return { testo: convertiFormula(gruppoGrezzo(), false, true, spazi), gruppo: true };
     return { testo: atomo(), gruppo: false };
   }
 
@@ -323,19 +351,21 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
     if (!/[A-Za-z]/.test(src[i])) {
       const ch = src[i++];
       if (ch === ' ' || ch === '\\') return ' ';
-      if (ch === ',' || ch === ':' || ch === ';' || ch === '>' || ch === '!') return '';
+      if (ch === ',' || ch === ':' || ch === ';' || ch === '>') return spazi ? ' ' : '';
+      if (ch === '!') return '';
       if (ch === '|') return '‖'; // \| è la norma, come \Vert: non è |x|
       return ch; // \{ \} \$ \% \& \# \_
     }
     let nome = '';
     while (i < n && /[A-Za-z]/.test(src[i])) nome += src[i++];
+    ultimaParola = nome;
 
     if (GRECHE[nome]) return GRECHE[nome];
     if (SIMBOLI[nome]) return SIMBOLI[nome];
     if (OPERATORI.has(nome)) return nome;
     if (INVISIBILI.has(nome)) {
       if ((nome === 'left' || nome === 'right' || nome === 'middle') && src[i] === '.') i++;
-      return nome === 'quad' || nome === 'qquad' ? ' ' : '';
+      return nome === 'quad' || nome === 'qquad' || (spazi && SPAZI_NOMINATI.has(nome)) ? ' ' : '';
     }
     if (TESTUALI.has(nome)) return argomentoGrezzoTestuale(nome);
     // Un accento su un gruppo (`\overline{XY}`) copre tutto il gruppo: fra
@@ -352,7 +382,7 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
       let radice = '√';
       if (src[i] === '[') {
         const j = src.indexOf(']', i);
-        const indice = convertiFormula(src.slice(i + 1, j < 0 ? n : j)).trim();
+        const indice = convertiFormula(src.slice(i + 1, j < 0 ? n : j), false, true, spazi).trim();
         i = j < 0 ? n : j + 1;
         radice = indice === '3' ? '∛' : indice === '4' ? '∜' : `^${avvolgi(indice)}√`;
       }
@@ -387,7 +417,7 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
     if (src[i] !== '{') return atomo();
     const grezzo = gruppoGrezzo();
     // \operatorname e \mathrm sono ancora modo matematico; \text no.
-    return nome.startsWith('text') || nome === 'mbox' ? grezzo : convertiFormula(grezzo);
+    return nome.startsWith('text') || nome === 'mbox' ? grezzo : convertiFormula(grezzo, false, true, spazi);
   }
 
   function atomo() {
@@ -395,7 +425,7 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
     if (c === '\\') return comando();
     // Un gruppo semplice non è un argomento: una frazione che contiene si
     // giudica col contesto di fuori (`{\frac{1}{2}}\sigma` è `(1/2)σ`).
-    if (c === '{') return convertiFormula(gruppoGrezzo(), false, false);
+    if (c === '{') return convertiFormula(gruppoGrezzo(), false, false, spazi);
     if (c === '~') { i++; return ' '; }
     if (c === "'") { i++; return '′'; }
     if (c === '&') { i++; return ' '; }
@@ -405,22 +435,35 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
   }
 
   let out = '';
+  let lettera = false; // l'ultimo atomo è una parola di COME_LETTERE
   while (i < n) {
     const c = src[i];
     if (c === '^' || c === '_') {
       i++;
+      if (spazi) out = out.replace(/ +$/, ''); // `S _t` è `S_t`: l'indice si posa sull'atomo di prima
       const { testo } = argomento();
       if (c === '_') out += visibili(testo) > 1 ? `_{${testo}}` : `_${testo}`;
       else if (APICI[testo]) out += APICI[testo];
       else if (/^[∗′]+$/.test(testo)) out += testo; // h∗ e x′ sono già apici
       else out += visibili(testo) > 1 ? `^(${testo})` : `^${testo}`;
+      // Dopo un indice lo spazio separa davvero: `\int_x^\infty e^{t}` è «∫_x^∞ e^t».
+      lettera = false;
       continue;
     }
-    if (SPAZIO.test(c)) { i++; continue; }
+    if (SPAZIO.test(c)) {
+      saltaSpazi();
+      if (spazi && !(lettera && /[A-Za-z]/.test(src[i] || ''))) out += ' ';
+      continue;
+    }
+    ultimaParola = '';
     const a = atomo();
-    out += esterno && RELAZIONI.has(a) ? ` ${a} ` : a;
+    lettera = c === '\\' && COME_LETTERE.has(ultimaParola);
+    out += esterno && !spazi && RELAZIONI.has(a) ? ` ${a} ` : a;
   }
-  if (risolvi) out = risolviFrazioni(out);
+  if (risolvi) out = risolviFrazioni(out, spazi);
+  if (spazi) {
+    return out.replace(/ {2,}/g, ' ').replace(/([([{]) /g, '$1').replace(/ ([)\]},])/g, '$1').trim();
+  }
   return esterno ? out.replace(/ {2,}/g, ' ').trim() : out;
 }
 
@@ -429,8 +472,16 @@ function convertiFormula(sorgente, esterno = false, risolvi = true) {
  * diventa Unicode lineare, il resto non cambia (salvo `\$` → `$`).
  * Senza formule restituisce l'input identico, e questo tiene invariate le
  * misure delle lezioni non convertite.
+ *
+ * `spazi: true` tiene gli spazi che nel sorgente separano due atomi (vedi
+ * convertiFormula): è la lettura delle misure del profilo, perché le parole
+ * di una card convertita coincidano con quelle dell'originale lineare. Le
+ * forme canoniche e mdStrip() usano la lettura senza spazi.
+ *
+ * @param {string} input
+ * @param {{spazi?: boolean}} [opzioni]
  */
-export function testoVisibile(input) {
+export function testoVisibile(input, { spazi = false } = {}) {
   const s = input === null || input === undefined ? '' : String(input);
   if (!s.includes('$')) return s;
   return trovaFormule(s)
@@ -438,7 +489,7 @@ export function testoVisibile(input) {
       if (seg.tipo === 'testo') return seg.testo;
       // Un annidamento patologico esaurisce la pila: meglio il sorgente
       // grezzo che un titolo o un riepilogo che non si disegnano.
-      try { return convertiFormula(seg.src, true); } catch { return seg.src; }
+      try { return convertiFormula(seg.src, true, true, spazi); } catch { return seg.src; }
     })
     .join('');
 }
